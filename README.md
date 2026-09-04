@@ -2,9 +2,11 @@
 
 Lao-language subtitle files (`.srt`) for films that have **no Lao subtitles available anywhere**.
 
+🌐 **Browse & download at the website → https://hieng1999.github.io/lao-subtitles/**
+
 Major subtitle sites (OpenSubtitles, etc.) do not support Lao as a language at all — there is no
-Lao category to search or upload to. This repository exists to fill that gap so Lao speakers can
-watch these films with subtitles in their own language.
+Lao category to search or upload to. So these films had no Lao subtitles anywhere. This repository
+fills that gap so Lao speakers can watch these films with subtitles in their own language.
 
 ## ⚠️ AI-assisted translations
 
@@ -16,13 +18,15 @@ human translations. Corrections are welcome — please open an issue or a pull r
 
 | Movie | Year | IMDb | File | Status |
 |---|---|---|---|---|
-| Frozen | 2013 | tt2294629 | `subtitles/Frozen.2013.lao.srt` | ✓ reviewed, watch-ready |
-| Moana | 2016 | tt3521164 | `subtitles/Moana.2016.lao.srt` | ✓ reviewed, watch-ready |
-| Blood Diamond | 2006 | tt0450259 | _pending_ | ⏳ re-translation in progress |
+| Frozen | 2013 | [tt2294629](https://www.imdb.com/title/tt2294629/) | [`subtitles/Frozen.2013.lao.srt`](subtitles/Frozen.2013.lao.srt) | ✓ reviewed, watch-ready |
+| Moana | 2016 | [tt3521164](https://www.imdb.com/title/tt3521164/) | [`subtitles/Moana.2016.lao.srt`](subtitles/Moana.2016.lao.srt) | ✓ reviewed, watch-ready |
+| Coco | 2017 | [tt2380307](https://www.imdb.com/title/tt2380307/) | _pending_ | ⏳ in progress |
+
+_More films planned. Requests welcome via an issue._
 
 ## How to use
 
-1. Download the `.srt` for your movie from the `subtitles/` folder.
+1. Download the `.srt` for your movie from the [`subtitles/`](subtitles) folder (or the [website](https://hieng1999.github.io/lao-subtitles/)).
 2. Rename it to match your video file (keep `.srt`), or load it manually in your player (VLC, MPV, Plex).
 3. If timing is off, your video is a different release — nudge the subtitle delay, or open an issue.
 
