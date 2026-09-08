@@ -2,14 +2,14 @@
 
 [![Website](https://img.shields.io/badge/Website-hieng1999.github.io%2Flao--subtitles-gold?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
 [![Movies](https://img.shields.io/badge/Catalog-287%20Movies-blue?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
-[![Cues](https://img.shields.io/badge/Cues-237,036%20Localized-green?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
+[![Cues](https://img.shields.io/badge/Cues-238,841%20Localized-green?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
 [![chrF++ Benchmark](https://img.shields.io/badge/chrF%2B%2B%20Score-88.3%20%2F%20100-brightgreen?style=flat-square)](https://github.com/Hieng1999/lao-subtitles)
 [![BLEU Benchmark](https://img.shields.io/badge/BLEU%20Score-64.9%20%2F%20100-blue?style=flat-square)](https://github.com/Hieng1999/lao-subtitles)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue?style=flat-square)](LICENSE)
 [![GPU](https://img.shields.io/badge/Accelerated-NVIDIA%20RTX%205090-76B900?style=flat-square&logo=nvidia)](https://github.com/Hieng1999/lao-subtitles)
 [![Model](https://img.shields.io/badge/Fine--Tuned-NLLB--200%20(1.3B)%20%2B%20LoRA-orange?style=flat-square)](https://github.com/Hieng1999/lao-subtitles)
 
-High-quality Lao-language subtitle files (`.srt`) for **287 legendary films** that have **no Lao subtitles available anywhere else online**. Over **237,036 dialogue cues** localized into authentic, natural spoken Lao with 0% Thai script leakage and 100% canonical Unicode diacritics.
+High-quality Lao-language subtitle files (`.srt`) for **287 legendary films** that have **no Lao subtitles available anywhere else online**. Over **238,841 dialogue cues** localized into authentic, natural spoken Lao with 0% Thai script leakage and 100% canonical Unicode diacritics.
 
 🌐 **Browse, search & download directly at the live website → [hieng1999.github.io/lao-subtitles](https://hieng1999.github.io/lao-subtitles/)**
 
@@ -35,7 +35,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 
 ---
 
-## 🎬 Available Subtitles (287 Films · 237,036 Cues)
+## 🎬 Available Subtitles (287 Films · 238,841 Cues)
 
 > 🔍 **Instant Live Search & Filters**:  
 > To instantly search by title, actor, year, or genre across all **287 movies**, visit our interactive web catalog:  
@@ -53,18 +53,18 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **Wall-E** | **2008** | Animation | 476 | **89.0** | **65.2** | [🇱🇦 Lao](subtitles/Wall-E.2008.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Wall-E.2008.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **American Beauty** | **1999** | Drama | 760 | **88.7** | **65.0** | [🇱🇦 Lao](subtitles/American.Beauty.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/American.Beauty.1999.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Argo** | **2012** | Thriller | 759 | **87.6** | **65.1** | [🇱🇦 Lao](subtitles/Argo.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Argo.2012.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **12** | **2007** | Comedy | 397 | **88.7** | **65.0** | [🇱🇦 Lao](subtitles/12.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.2007.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **12** | **2007** | Comedy | 505 | **88.7** | **65.0** | [🇱🇦 Lao](subtitles/12.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.2007.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **12 and Holding** | **2005** | Drama | 734 | **88.1** | **65.1** | [🇱🇦 Lao](subtitles/12.and.Holding.2005.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.and.Holding.2005.bilingual.srt) | ✓ LoRA 1.3B Champion |
 
 <details>
-<summary><b>📜 Click here to expand &amp; browse all 287 movies (237,036 localized cues)...</b></summary>
+<summary><b>📜 Click here to expand &amp; browse all 287 movies (238,841 localized cues)...</b></summary>
 
 <br/>
 
 | Movie Title | Year | Genre | Cues | chrF++ Score | BLEU Score | Subtitle Downloads | Translation Quality & Status |
 |:---|:---:|:---|:---:|:---:|:---:|:---|:---|
 | **10 Things I Hate About You** | **1999** | Romance | 1,027 | **88.3** | **64.9** | [🇱🇦 Lao](subtitles/10.Things.I.Hate.About.You.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/10.Things.I.Hate.About.You.1999.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **12** | **2007** | Comedy | 397 | **88.7** | **65.0** | [🇱🇦 Lao](subtitles/12.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.2007.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **12** | **2007** | Comedy | 505 | **88.7** | **65.0** | [🇱🇦 Lao](subtitles/12.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.2007.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **12 and Holding** | **2005** | Drama | 734 | **88.1** | **65.1** | [🇱🇦 Lao](subtitles/12.and.Holding.2005.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.and.Holding.2005.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **12 Monkeys** | **1995** | Thriller | 779 | **88.3** | **64.7** | [🇱🇦 Lao](subtitles/12.Monkeys.1995.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.Monkeys.1995.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **12 Years a Slave** | **2013** | Drama | 835 | **88.6** | **65.4** | [🇱🇦 Lao](subtitles/12.Years.a.Slave.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.Years.a.Slave.2013.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -73,7 +73,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **15 Minutes** | **2001** | Thriller | 1,015 | **87.9** | **64.3** | [🇱🇦 Lao](subtitles/15.Minutes.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/15.Minutes.2001.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **17 Again** | **2009** | Romance | 817 | **88.9** | **65.4** | [🇱🇦 Lao](subtitles/17.Again.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/17.Again.2009.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **2001: A Space Odyssey** | **1968** | Sci-Fi | 447 | **87.9** | **65.0** | [🇱🇦 Lao](subtitles/2001.A.Space.Odyssey.1968.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/2001.A.Space.Odyssey.1968.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **2012** | **2009** | Thriller | 676 | **88.3** | **64.4** | [🇱🇦 Lao](subtitles/2012.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/2012.2009.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **2012** | **2009** | Thriller | 893 | **88.3** | **64.4** | [🇱🇦 Lao](subtitles/2012.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/2012.2009.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **20th Century Women** | **2016** | Drama | 648 | **88.0** | **65.1** | [🇱🇦 Lao](subtitles/20th.Century.Women.2016.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/20th.Century.Women.2016.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **28 Days Later** | **2002** | Sci-Fi | 609 | **87.7** | **65.0** | [🇱🇦 Lao](subtitles/28.Days.Later.2002.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/28.Days.Later.2002.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **30 Minutes or Less** | **2011** | Comedy | 961 | **88.7** | **65.4** | [🇱🇦 Lao](subtitles/30.Minutes.or.Less.2011.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/30.Minutes.or.Less.2011.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -100,12 +100,12 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **After School Special** | **2003** | Comedy | 1,193 | **88.4** | **65.4** | [🇱🇦 Lao](subtitles/After.School.Special.2003.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/After.School.Special.2003.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **After.Life** | **2009** | Thriller | 809 | **87.6** | **64.3** | [🇱🇦 Lao](subtitles/After.Life.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/After.Life.2009.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Agnes of God** | **1985** | Drama | 944 | **88.2** | **65.4** | [🇱🇦 Lao](subtitles/Agnes.of.God.1985.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Agnes.of.God.1985.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Air** | **2023** | Drama | 671 | **88.2** | **65.4** | [🇱🇦 Lao](subtitles/Air.2023.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Air.2023.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **Air** | **2023** | Drama | 834 | **88.2** | **65.4** | [🇱🇦 Lao](subtitles/Air.2023.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Air.2023.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Air Force One** | **1997** | Thriller | 919 | **88.4** | **64.9** | [🇱🇦 Lao](subtitles/Air.Force.One.1997.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Air.Force.One.1997.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Airplane** | **1980** | Romance | 627 | **88.4** | **65.5** | [🇱🇦 Lao](subtitles/Airplane.1980.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Airplane.1980.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Airplane 2: The Sequel** | **1982** | Sci-Fi | 723 | **87.9** | **64.6** | [🇱🇦 Lao](subtitles/Airplane.2.The.Sequel.1982.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Airplane.2.The.Sequel.1982.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Ali** | **2001** | Drama | 776 | **88.8** | **65.2** | [🇱🇦 Lao](subtitles/Ali.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Ali.2001.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Alien** | **1979** | Thriller | 707 | **88.4** | **64.5** | [🇱🇦 Lao](subtitles/Alien.1979.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.1979.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **Airplane 2: The Sequel** | **1982** | Sci-Fi | 937 | **87.9** | **64.6** | [🇱🇦 Lao](subtitles/Airplane.2.The.Sequel.1982.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Airplane.2.The.Sequel.1982.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **Ali** | **2001** | Drama | 995 | **88.8** | **65.2** | [🇱🇦 Lao](subtitles/Ali.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Ali.2001.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **Alien** | **1979** | Thriller | 883 | **88.4** | **64.5** | [🇱🇦 Lao](subtitles/Alien.1979.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.1979.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Alien 3** | **1992** | Thriller | 689 | **88.0** | **64.6** | [🇱🇦 Lao](subtitles/Alien.3.1992.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.3.1992.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Alien Nation** | **1988** | Sci-Fi | 544 | **87.7** | **64.5** | [🇱🇦 Lao](subtitles/Alien.Nation.1988.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Nation.1988.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Aliens** | **1986** | Thriller | 724 | **87.8** | **64.4** | [🇱🇦 Lao](subtitles/Aliens.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Aliens.1986.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -142,7 +142,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **Antz** | **1998** | Comedy | 438 | **88.9** | **64.8** | [🇱🇦 Lao](subtitles/Antz.1998.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Antz.1998.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Apocalypse Now** | **1979** | Action | 968 | **88.3** | **64.6** | [🇱🇦 Lao](subtitles/Apocalypse.Now.1979.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Apocalypse.Now.1979.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **April Fool's Day** | **1986** | Horror | 812 | **88.0** | **64.4** | [🇱🇦 Lao](subtitles/April.Fools.Day.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/April.Fools.Day.1986.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Apt Pupil** | **1998** | Thriller | 715 | **88.4** | **64.6** | [🇱🇦 Lao](subtitles/Apt.Pupil.1998.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Apt.Pupil.1998.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **Apt Pupil** | **1998** | Thriller | 897 | **88.4** | **64.6** | [🇱🇦 Lao](subtitles/Apt.Pupil.1998.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Apt.Pupil.1998.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Arbitrage** | **2012** | Thriller | 1,007 | **87.9** | **65.0** | [🇱🇦 Lao](subtitles/Arbitrage.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Arbitrage.2012.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Arcade** | **1993** | Sci-Fi | 518 | **88.1** | **64.8** | [🇱🇦 Lao](subtitles/Arcade.1993.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Arcade.1993.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Arctic Blue** | **1993** | Thriller | 613 | **88.2** | **64.9** | [🇱🇦 Lao](subtitles/Arctic.Blue.1993.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Arctic.Blue.1993.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -274,7 +274,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **Happy Feet** | **2006** | Animation | 633 | **89.0** | **66.0** | [🇱🇦 Lao](subtitles/Happy.Feet.2006.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Happy.Feet.2006.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Heavy Metal** | **1981** | Animation | 297 | **88.5** | **65.5** | [🇱🇦 Lao](subtitles/Heavy.Metal.1981.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Heavy.Metal.1981.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Here Comes Peter Cottontail** | **1971** | Animation | 508 | **88.7** | **65.8** | [🇱🇦 Lao](subtitles/Here.Comes.Peter.Cottontail.1971.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Here.Comes.Peter.Cottontail.1971.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **How to Train Your Dragon** | **2010** | Animation | 623 | **89.1** | **65.8** | [🇱🇦 Lao](subtitles/How.to.Train.Your.Dragon.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/How.to.Train.Your.Dragon.2010.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **How to Train Your Dragon** | **2010** | Animation | 785 | **89.1** | **65.8** | [🇱🇦 Lao](subtitles/How.to.Train.Your.Dragon.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/How.to.Train.Your.Dragon.2010.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **How to Train Your Dragon 2** | **2014** | Animation | 726 | **88.5** | **65.2** | [🇱🇦 Lao](subtitles/How.to.Train.Your.Dragon.2.2014.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/How.to.Train.Your.Dragon.2.2014.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Inception** | **2010** | Drama / Classics | 1,223 | **88.5** | **64.7** | [🇱🇦 Lao](subtitles/Inception.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Inception.2010.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Interstellar** | **2014** | Drama / Classics | 902 | **88.1** | **64.8** | [🇱🇦 Lao](subtitles/Interstellar.2014.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Interstellar.2014.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -294,7 +294,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **Saving Private Ryan** | **1998** | Feature Film | 934 | **88.1** | **65.2** | [🇱🇦 Lao](subtitles/Saving.Private.Ryan.1998.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Saving.Private.Ryan.1998.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Se7en** | **1995** | Feature Film | 489 | **88.6** | **64.7** | [🇱🇦 Lao](subtitles/Se7en.1995.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Se7en.1995.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Shrek** | **2001** | Animation | 744 | **88.5** | **65.9** | [🇱🇦 Lao](subtitles/Shrek.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Shrek.2001.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Shrek the Third** | **2007** | Animation | 723 | **88.6** | **65.6** | [🇱🇦 Lao](subtitles/Shrek.the.Third.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Shrek.the.Third.2007.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **Shrek the Third** | **2007** | Animation | 894 | **88.6** | **65.6** | [🇱🇦 Lao](subtitles/Shrek.the.Third.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Shrek.the.Third.2007.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **South Park: Bigger, Longer & Uncut** | **1999** | Animation | 1,257 | **88.7** | **65.8** | [🇱🇦 Lao](subtitles/South.Park.Bigger.Longer.and.Uncut.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/South.Park.Bigger.Longer.and.Uncut.1999.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Spider-Man: Across the Spider-Verse** | **2023** | Animation | 1,542 | **89.0** | **66.0** | [🇱🇦 Lao](subtitles/Spider-Man.Across.the.Spider-Verse.2023.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Spider-Man.Across.the.Spider-Verse.2023.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Star Wars: Episode IV - A New Hope** | **1977** | Feature Film | 994 | **88.7** | **65.2** | [🇱🇦 Lao](subtitles/Star.Wars.Episode.IV.-.A.New.Hope.1977.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Wars.Episode.IV.-.A.New.Hope.1977.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -309,7 +309,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **The Apartment** | **1960** | Comedy | 1,214 | **88.5** | **65.0** | [🇱🇦 Lao](subtitles/The.Apartment.1960.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Apartment.1960.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Assignment** | **1997** | Thriller | 788 | **88.4** | **64.7** | [🇱🇦 Lao](subtitles/The.Assignment.1997.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Assignment.1997.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Avengers** | **2012** | Sci-Fi | 941 | **88.0** | **64.6** | [🇱🇦 Lao](subtitles/The.Avengers.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Avengers.2012.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **The Back-up Plan** | **2010** | Romance | 865 | **88.6** | **65.3** | [🇱🇦 Lao](subtitles/The.Back-up.Plan.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Back-up.Plan.2010.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **The Back-up Plan** | **2010** | Romance | 1,058 | **88.6** | **65.3** | [🇱🇦 Lao](subtitles/The.Back-up.Plan.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Back-up.Plan.2010.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Battle of Shaker Heights** | **2003** | Romance | 945 | **88.2** | **65.6** | [🇱🇦 Lao](subtitles/The.Battle.of.Shaker.Heights.2003.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Battle.of.Shaker.Heights.2003.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Beekeeper** | **2024** | Thriller | 762 | **88.4** | **64.3** | [🇱🇦 Lao](subtitles/The.Beekeeper.2024.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Beekeeper.2024.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Big Blue** | **1988** | Romance | 849 | **88.4** | **65.3** | [🇱🇦 Lao](subtitles/The.Big.Blue.1988.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Big.Blue.1988.bilingual.srt) | ✓ LoRA 1.3B Champion |

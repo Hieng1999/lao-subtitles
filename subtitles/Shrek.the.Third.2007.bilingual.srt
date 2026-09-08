@@ -8,608 +8,604 @@ Written by
 00:00:12,500 --> 00:00:18,500
 [PRINCE CHARMING]
 Onward Chauncey, to the highest room of the tallest tower! Where my princess awaits rescue from her handsome Prince Charming.
-ອັນນີ້ຮ້າຍແຮງກວ່າຈົດຫມາຍຄວາມຮັກ ຂ້ອຍກຽດຊັງຮູບເງົາອາຫານຄໍ່າ
+ຕໍ່ໄປ Chauncey, ໄປຫາຫ້ອງສູງສຸດຂອງຫໍສູງສຸດ
+ບ່ອນທີ່ເຈົ້າຍິງຂອງຂ້ອຍລໍຖ້າການຊ່ວຍເຫຼືອຈາກເຈົ້າຊາຍ charming ນາງ handsome.
 
 3
 00:00:19,000 --> 00:00:22,500
 [GINGERBREAD MAN]
 This is worse than Love Letters! I hate dinner theatre.
-ຂ້ອຍກໍຄືກັນ.
+ນີ້ຮ້າຍແຮງກວ່າຈົດຫມາຍຄວາມຮັກ ຂ້ອຍກຽດຊັງຮູບເງົາອາຫານຄໍ່າ
 
 4
 00:00:23,000 --> 00:00:25,000
 [PINOCCHIO]
 Me too.
-ຟັງ! ເຈົ້າຊາຍທີ່ຫນ້າຮັກທີ່ກ້າຫານ ເຂົ້າໄປຫາມັນ.
+ຂ້ອຍກໍຄືກັນ.
 
 5
 00:00:25,500 --> 00:00:27,500
 [PRINCE CHARMING]
 Whoa there, Chauncey!
-ນາງເວົ້າຫຍັງ?
+ສະບາຍດີ Chauncey!
 
 6
 00:00:28,000 --> 00:00:30,100
 [ACTRESS]
 Hark! The brave Prince Charming approach-ith.
-ໂຮ່ໂຮ່!!!
+ຟັງ! ເຈົ້າຊາຍທີ່ຫນ້າຮັກທີ່ກ້າຫານ ເຂົ້າໄປຫາມັນ.
 
 7
 00:00:30,600 --> 00:00:36,600
 [PRINCE CHARMING]
 Fear not fair maiden! I shall slay the monster that guards you and take my place as rightful King.
-ກະກຽມສັດຮ້າຍ ເພື່ອເຂົ້າສູ່ໂລກແຫ່ງຄວາມເຈັບປວດ ທີ່ເຈົ້າບໍ່ຮູ້ຈັກ!
+ຢ່າຢ້ານ, ສາວງາມ! ຂ້ອຍຈະຂ້າສັດຮ້າຍທີ່ປົກປ້ອງເຈົ້າ
+ແລະເອົາຕໍາແຫນ່ງເປັນກະສັດທີ່ຖືກຕ້ອງຕາມກົດຫມາຍ.
 
 8
 00:00:37,100 --> 00:00:39,100
 [OLD LADY]
 What did she say?
-ໂອ້, ພວກເຂົາເຕີບໃຫຍ່ໄວຫຼາຍ.
+ນາງເວົ້າຫຍັງ?
 
 9
 00:00:39,600 --> 00:00:41,600
 [OGRE]
 Grrrrrrr!
-ແມ່ນແລ້ວ, ເຈົ້າໄດ້... ໂອ້ ແມ່ນແລ້ວ
-ເຈົ້າໄດ້. ໂອ້ ມັນແລ້ວ! ໂອ່ ມັນດີ!
+ຮາຮາ!
 
 10
 00:00:42,100 --> 00:00:44,100
 [FAIRYTALE CREATURES]
 Woooo hoooo!!!
-ສະບາຍດີວັນເກີດຂອງເຈົ້າ.
+ໂຮ່ໂຮ່!!!
 
 11
 00:00:44,600 --> 00:00:46,600
 [GINGERBREAD MAN]
 Yea! Shrek!
-ທ່ານບໍ່ສົນໃຈບໍ? ໂບ-ຣິງ! Shrek Third - Final Screening Script 3.
+ແມ່ນແລ້ວ, Shrek!
 
 12
 00:00:47,100 --> 00:00:52,700
 [PRINCE CHARMING]
 Prepare foul beast to enter into a world of pain with which you are not familiar!
-ເຈົ້າຮູ້ບໍ່ວ່າເຈົ້າຕ້ອງຊື້ເສື້ອຜ້າເສື້ອທີເຊີດໃຫ້ໂຕເອງ.
+ກະກຽມສັດຮ້າຍ ເພື່ອເຂົ້າສູ່ໂລກແຫ່ງຄວາມເຈັບປວດ ທີ່ເຈົ້າບໍ່ຮູ້ຈັກ!
 
 13
 00:00:53,200 --> 00:00:55,200
 [WAITER]
 Happy Birthday to thee.
-ດີ, ທ່ານມີມື້ເຕັມໄປດ້ວຍການເຂົ້າຮັບຕໍາແຫນ່ງຂອງກະສັດ
-ແລະ ຣາຊິນີ ມີຫຼາຍໆກິດຈະກໍາທີ່ຕ້ອງການໃຫ້ທ່ານເຂົ້າຮ່ວມ
+ສະບາຍດີວັນເກີດຂອງເຈົ້າ.
 
 14
 00:00:55,700 --> 00:00:57,700
 [PRINCE CHARMING]
 Do you mind?
-ມາ, ກະດູກອ່ອນ, ເວລາທີ່ຈະເລື່ອນ!
+ເຈົ້າບໍ່ສົນໃຈບໍ?
 
 15
 00:00:58,200 --> 00:01:02,400
 [GINGERBREAD MAN]
 Do you mind? Bo-ring! Shrek the Third - Final Screening Script 3.
-Shrek...
+ທ່ານບໍ່ສົນໃຈບໍ? ໂບ-ຣິງ! Shrek Third - Final Screening Script 3.
 
 16
 00:01:02,900 --> 00:01:04,900
 [PRINCE CHARMING]
 Prepare foul beast-
-ຂ້ອຍໄດ້ແຕ່ງຕັ້ງເຈົ້າໃຫ້ເປັນພະເອກ...
+ກະກຽມສັດຮ້າຍ...
 
 17
 00:01:05,400 --> 00:01:07,400
 [PRINCE CHARMING]
 Someday you'll be sorry.
-ໂອ້, ມາແລ້ວ Shrek!
+ມື້ຫນຶ່ງເຈົ້າຈະເສຍໃຈ.
 
 18
 00:01:07,900 --> 00:01:09,900
 [HECKLER]
 We already are!
-ດີ, ນັບຕັ້ງແຕ່ທ່ານກໍາລັງຕື່ມສໍາລັບຫນຶ່ງ
-, ທ່ານອາດຈະເບິ່ງຄືວ່າເປັນກະສັດທີ່ແທ້ຈິງ.
+ພວກເຮົາຍັງເປັນ!
 
 19
 00:01:10,400 --> 00:01:12,400
 [OGRE]
 Grrrrrrr!
-ຟິໂອນາ...
+ຮາຮາ!
 
 20
 00:01:12,900 --> 00:01:14,900
 [PRINCE CHARMING]
 Oh mommy.
-ເອີ້, Fiddlesworth, ທ່ານ.
+ໂອ້ແມ່.
 
 21
 00:01:15,400 --> 00:01:18,900
 [PRINCE CHARMING]
 Oh, you're right. I can't let this happen. I can't.
-ຂ້ອຍຮູ້ວ່າ ຂ້ອຍໄດ້ເຮັດຜິດພາດຫຼາຍຢ່າງກັບເຈົ້າ.
+ໂອ້, ເຈົ້າຖືກຕ້ອງ ຂ້ອຍບໍ່ສາມາດປ່ອຍໃຫ້ສິ່ງນີ້ເກີດຂຶ້ນ ຂ້ອຍບໍ່ສາມາດ
 
 22
 00:01:19,400 --> 00:01:25,400
 [PRINCE CHARMING]
 I am the rightful King of Far Far Away and I promise you this mother. I will restore dignity to my throne!
-ແມ່ຍິງ ແລະ ຜູ້ຊາຍ, Princess Fiona ແລະ Sir Shrek!
+ຂ້ອຍເປັນກະສັດທີ່ຖືກຕ້ອງຂອງແດນໄກໄກ ແລະຂ້ອຍໃຫ້ຄໍາຫມັ້ນສັນຍາກັບເຈົ້າແມ່ນີ້
+. ຂ້ອຍຈະຟື້ນຟູກຽດສັກສີໃຫ້ກັບອານາຈັກຂອງຂ້ອຍ!
 
 23
 00:01:25,900 --> 00:01:29,400
 [PRINCE CHARMING]
 And this time, no one will stand in my way!
-ດີ, ບາງຄົນດີກວ່າຈະຕາຍ.
+ແລະໃນຄັ້ງນີ້, ບໍ່ມີໃຜຈະຢືນຢູ່ໃນທາງຂອງຂ້າພະເຈົ້າ!
 
 24
 00:01:29,900 --> 00:01:31,900
 [SHREK]
 Good morning.
-ແຮໂຣລດ
+ສະບາຍດີ.
 
 25
 00:01:32,400 --> 00:01:36,950
 [FIONA]
 Good morning. Oh... morning breath... Shrek the Third - Final Screening Script 5.
-ຂີ້ເຫຍື້ອ?
+ສະບາຍດີ ອໍ... ອາລົມເຊົ້າ... Shrek ຕອນທີສາມ-ຕອນສຸດທ້າຍ
 
 26
 00:01:37,450 --> 00:01:39,450
 [SHREK]
 I know. Isn't it wonderful?
-ລາວຊື່ວ່າ ອາທູເທີ.
+ຂ້ອຍຮູ້ ມັນດີເລີດບໍ່?
 
 27
 00:01:39,950 --> 00:01:41,950
 [DONKEY]
 "Good morning! Good morning!"
-ຂ້ອຍຮູ້ວ່າເຈົ້າຈະເຮັດສິ່ງທີ່... ຖືກຕ້ອງ...
+"ສະບາຍດີ! ສະບາຍດີ!"
 
 28
 00:01:42,450 --> 00:01:47,000
 [DONKEY]
 "The sun is shining through! Good morning! Good morning. (coming closer and closer
-ພຽງແຕ່ຄິດເບິ່ງ... ອີກສອງສາມມື້, ແລະພວກເຮົາຈະກັບຄືນບ້ານໃນເຮືອນທີ່ເຕັມໄປດ້ວຍສັດຕູພືດຂອງພວກເຮົາ
-, ເຕັມໄປດ້ວຍຍຸງ, ທີ່ເຕັມໄປ ດ້ວຍກິ່ນຫອມຂອງຂີ້ເຫຍື້ອແລະການລ່ວງລະເລີຍ.
+"ດວງຕາເວັນກໍາລັງສ່ອງແສງຜ່ານ! ສະບາຍດີເຊົ້າ!
 
 29
 00:01:47,500 --> 00:01:49,600
 [TO SHREK)]
 "To you!" "And you!" And you!
-ໂອ້!
+"ເພື່ອທ່ານ!""ແລະທ່ານ!" ແລະທ່ານ!
 
 30
 00:01:50,100 --> 00:01:52,200
 [DONKEY]
 Oh, they grow up so fast.
-Uh, ນີ້ມີຄວາມຈໍາເປັນແທ້ບໍ?
+ໂອ້, ພວກເຂົາເຕີບໃຫຍ່ໄວຫຼາຍ.
 
 31
 00:01:52,700 --> 00:01:54,700
 [SHREK]
 Not fast enough.
-ຂ້ອຍແມ່ນ Shrek, ເຈົ້າໂງ່.
+ບໍ່ໄວພໍ.
 
 32
 00:01:55,200 --> 00:02:01,200
 [PUSS]
 Okay. You have a very full day filling in for the King and Queen. There are several functions that require your attendance, sir. Shrek the Third - Final Screening Script 6.
-ມື້ຫນຶ່ງເຈົ້າຈະເສຍໃຈ.
+ດີ, ທ່ານມີມື້ເຕັມໄປດ້ວຍການເຂົ້າຮັບຕໍາແຫນ່ງຂອງກະສັດ
+ແລະ ຣາຊິນີ ມີຫຼາຍໆກິດຈະກໍາທີ່ຕ້ອງການໃຫ້ທ່ານເຂົ້າຮ່ວມ
 
 33
 00:02:01,700 --> 00:02:03,700
 [SHREK]
 Great! Let's get started.
-ໂອເຄ ຄົນເອີຍ, ນີ້ບໍ່ແມ່ນການທົດລອງ, ໃຫ້ເບິ່ງຄວາມວຸ້ນວາຍ.
+ດີເດັ່ນ, ໃຫ້ເລີ້ມຕົ້ນ.
 
 34
 00:02:04,200 --> 00:02:06,650
 [DONKEY]
 C'mon, lazy bones, time to get movin'!
-ຮາຮາ!
+ມາ, ກະດູກອິດເມື່ອຍ, ເວລາທີ່ຈະເລື່ອນ!
 
 35
 00:02:07,150 --> 00:02:11,700
 [DONKEY]
 Aaahhh! You know you really need to get yourself a pair of jammies.
-ໂອ້, ເຈົ້າຖືກຕ້ອງ ຂ້ອຍບໍ່ສາມາດປ່ອຍໃຫ້ສິ່ງນີ້ເກີດຂຶ້ນ ຂ້ອຍບໍ່ສາມາດ
+ເຈົ້າຮູ້ບໍ່ວ່າເຈົ້າຕ້ອງຊື້ເສື້ອຜ້າເສື້ອທີເຊີດໃຫ້ຕົວເອງ.
 
 36
 00:02:12,200 --> 00:02:14,200
 [SHREK]
 I knight thee...
-ຂ້າພະເຈົ້າເປັນກະສັດທີ່ຖືກຕ້ອງຂອງແດນໄກໄກ ແລະຂ້າພະເຈົ້າສັນຍາໃຫ້ທ່ານແມ່ນີ້
-ຂ້າພະເຈົ້າຈະຟື້ນຟູກຽດຕິຍົດຂອງອານາຈັກຂອງຂ້າພະເຈົ້າ!
+ຂ້ອຍໃຫ້ເຈົ້າເປັນພະມ້າ...
 
 37
 00:02:14,700 --> 00:02:16,700
 [SHREK]
 He-he. Ooh.
-ສະບາຍດີ ອໍ... ອາລົມເຊົ້າ... Shrek ຕອນທີສາມ-ຕອນສຸດທ້າຍ
+ລາວ-ລາວ. ໂອ້.
 
 38
 00:02:17,200 --> 00:02:23,200
 [DONKEY]
 Well, since you're filling in for one, you might as well look like a real King. Can somebody come in here and work on Shrek please?
-ຟິໂອນາ!
+ດີ, ນັບຕັ້ງແຕ່ທ່ານກໍາລັງຕື່ມສໍາລັບຫນຶ່ງ
+, ທ່ານອາດຈະເບິ່ງຄືວ່າເປັນກະສັດທີ່ແທ້ຈິງ.
 
 39
 00:02:23,700 --> 00:02:26,150
 [RAUL]
 I will see what I can do.
-ໂອ້, ເຈົ້າ, ມາທີ່ນີ້!
+ຂ້າພະເຈົ້າຈະເບິ່ງສິ່ງທີ່ຂ້າພະເຈົ້າສາມາດເຮັດໄດ້.
 
 40
 00:02:26,650 --> 00:02:29,800
 [FIONA]
 Ow! Shrek the Third - Final Screening Script 8.
-ເຈົ້າດີບໍ?
+ອາວ! Shrek The Third - Final Screening Script 8.
 
 41
 00:02:30,300 --> 00:02:32,300
 [DONKEY]
 Oh!
-ແຮ່!
+ໂອ້!
 
 42
 00:02:32,800 --> 00:02:34,800
 [PUSS]
 Yeah, wow.
-ຕໍ່ໄປ Chauncey, ໄປຫາຫ້ອງສູງສຸດຂອງຫໍສູງສຸດ
-ບ່ອນທີ່ເຈົ້າຍິງຂອງຂ້ອຍລໍຖ້າການຊ່ວຍເຫຼືອຈາກເຈົ້າຊາຍ charming ນາງ handsome.
+ແມ່ນແລ້ວ.
 
 43
 00:02:35,300 --> 00:02:37,300
 [FIONA]
 Uh, is this really necessary?
-ແມ່ນບໍ?
+Uh, ນີ້ມີຄວາມຈໍາເປັນແທ້ບໍ?
 
 44
 00:02:37,800 --> 00:02:39,800
 [RAUL]
 Ho, ho. Quite necessary, Fiona.
-ໂອ ບໍ່ຫຼາຍ, ພຽງແຕ່ເປັນໂອກາດໃນການຊົດເຊີຍ... ແລະ Fuzzy Navel.
+ໂຮ ໂຮ. ມັນຈໍາເປັນຫຼາຍ, ຟີໂອນາ.
 
 45
 00:02:40,300 --> 00:02:42,300
 [SHREK]
 I'm Shrek, you twit.
-ສະບາຍດີ Chauncey!
+ຂ້ອຍແມ່ນ Shrek, ເຈົ້າໂງ່.
 
 46
 00:02:42,800 --> 00:02:44,800
 [RAUL]
 Whatever.
-ຂ້ອຍຂໍໂທດ Shrek, ແຕ່ເຈົ້າສາມາດຈົ່ງຈ່ອຍມ່ວນຊື່ນ ແລະອົດທົນໄດ້ບໍ່?
+ບໍ່ວ່າຈະເປັນແນວໃດ.
 
 47
 00:02:45,300 --> 00:02:48,800
 [PUSS]
 Okay peoples! This isn't a rehearsal. Let's see some hustle.
-ແມ່ນແລ້ວ.
+ໂອເຄ ຄົນເອີຍ, ນີ້ບໍ່ແມ່ນການທົດລອງ, ໃຫ້ເບິ່ງຄວາມວຸ້ນວາຍ.
 
 48
 00:02:49,300 --> 00:02:53,150
 [DONKEY]
 Smiles everyone, smiles! Shrek the Third - Final Screening Script 9.
-ແມັກເບີລ, ຈື່ບໍ່ວ່າເຈົ້າບໍ່ສາມາດເອົາຕີນໃຫຍ່ໆຂອງເຈົ້າ
-ເຂົ້າໄປໃນເກີບແກ້ວນ້ອຍໆນັ້ນໄດ້ບໍ?
+ມ່ວນຊື່ນທຸກຄົນ, ມ່ວນ ຊື່ນ! Shrek ຕອນທີສາມ - ການສະແດງສຸດທ້າຍ 9.
 
 49
 00:02:53,650 --> 00:02:57,850
 [SHREK]
 I don't know how much longer I can keep this up Fiona.
-Shrek, ກະລຸນາມາທີ່ນີ້.
+ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຈະສາມາດຮັກສາເລື່ອງນີ້ໄດ້ດົນປານໃດ ຟີໂອນາ.
 
 50
 00:02:58,350 --> 00:03:04,350
 [FIONA]
 I'm sorry Shrek, but can you please just try to grin and bear it? It's just until Dad gets better.
-ມາທີ່ນີ້, ເຈົ້າ.
+ຂ້ອຍຂໍໂທດ Shrek, ແຕ່ເຈົ້າສາມາດຈົ່ງຈ່ອຍມ່ວນຊື່ນ ແລະອົດທົນໄດ້ບໍ່?
 
 51
 00:03:04,850 --> 00:03:06,850
 [FIONA]
 Shrek?
-ພໍ່, ພໍ່?
+Shrek?
 
 52
 00:03:07,350 --> 00:03:09,350
 [SHREK]
 Yeah.
-ຣາຊະອານາຈັກນີ້ ຕ້ອງການກະສັດຄົນໃຫມ່
-ເຈົ້າແລະຟີໂອນາ ເປັນຜູ້ສືບທອດອໍານາດ
+ແມ່ນແລ້ວ.
 
 53
 00:03:09,850 --> 00:03:11,850
 [FIONA]
 You look handsome.
-ຂ້ອຍຮູ້ ມັນດີເລີດບໍ່?
+ເຈົ້າເບິ່ງງາມ.
 
 54
 00:03:12,350 --> 00:03:14,350
 [SHREK]
 Ah. Come here, you.
-ແລະ, uh... ບາງທີແມ່ນແຕ່...
-ການເຕັ້ນເຕັ້ນຂອງຕີນນ້ອຍໆຢູ່ເທິງພື້ນ...?
+ມາທີ່ນີ້, ເຈົ້າ.
 
 55
 00:03:14,850 --> 00:03:20,800
 [SHREK]
 Oh, my butt is itching up a storm and I can't reach it in this monkey suit!
-ເຈົ້າຊາຍຕ້ອງເຮັດຫຍັງແດ່ ເພື່ອໃຫ້ໄດ້ດື່ມຢູ່ນີ້?
+ໂອ້, ກະຕ່າຂອງຂ້ອຍມີອາການຂີ້ເຫຍື້ອ
+ແລະຂ້ອຍບໍ່ສາມາດບັນລຸໄດ້ໃນຊຸດແມວນີ້!
 
 56
 00:03:21,300 --> 00:03:23,300
 [SHREK]
 Oh. Hey you. Come here!
-Witch Evil ເຈັດ Dwarves ຊ່ວຍ Snow
-White ແລະຫຼັງຈາກນັ້ນສິ່ງທີ່ເກີດຂຶ້ນ?
+ໂອ້, ເຈົ້າ, ມາທີ່ນີ້!
 
 57
 00:03:23,800 --> 00:03:27,650
 [SHREK]
 What's your name? Shrek the Third - Final Screening Script 10.
-ແຟນ? ໃຫ້ ພະຍາຍາມ ແລະ ມີຄວາມສົມເຫດສົມຜົນ ກ່ຽວກັບເລື່ອງນີ້. ທ່ານໄດ້ເຫັນເດັກນ້ອຍໃນໄລຍະມໍ່ໆມານີ້ບໍ? ພວກເຂົາພຽງແຕ່ກິນແລະ poop ແລະພວກເຂົາຮ້ອງໄຫ້ແລະຫຼັງຈາກນັ້ນພວກເຂົາຮ້ອງທຸກໃນເວລາທີ່ພວກເຂົາ
-poo ແລະພວກເຂົາ poop ໃນເວລາທີ່ພວກເຂົາຮ້ອງ ໄຫ້...ດຽວນີ້, ຈິນຕະນາການເດັກນ້ອຍ ogre. ພວກເຂົາຮ້ອງເພີ່ມເຕີມແລະເຂົາເຈົ້າ poop ເພີ່ມເຕີມ.
+ຊື່ຂອງເຈົ້າແມ່ນຫຍັງ Shrek ຕອນທີ 3 - ຕອນສຸດທ້າຍ
 
 58
 00:03:28,150 --> 00:03:30,150
 [FIDDLESWORTH]
 Eh, Fiddlesworth, sir.
-ແມັກເບີລ, ເປັນຫຍັງພວກເຂົາຈຶ່ງເອີ້ນເຈົ້າວ່າເອື້ອຍແຝດທີ່ຂີ້ຮ້າຍ
-ຂ້ອຍຈະບໍ່ເຄີຍຮູ້.
+ເອີ້, Fiddlesworth, ທ່ານ.
 
 59
 00:03:30,650 --> 00:03:32,650
 [SHREK]
 Hoo hoo hooo. Perfect.
-"ເພື່ອທ່ານ!""ແລະທ່ານ!" ແລະທ່ານ!
+ຄົບຖ້ວນແລ້ວ.
 
 60
 00:03:33,150 --> 00:03:35,950
 [MASTER OF CEREMONIES]
 Ladies and gentlemen, Princess Fiona and Sir Shrek!
-ຢ່າຢ້ານ, ສາວງາມ, ຂ້ອຍຈະຂ້າສັດຮ້າຍ ທີ່ປົກປ້ອງເຈົ້າ
-ແລະເອົາຕໍາແຫນ່ງເປັນກະສັດທີ່ຖືກຕ້ອງ.
+ແມ່ຍິງ ແລະ ຜູ້ຊາຍ, Princess Fiona ແລະ Sir Shrek!
 
 61
 00:03:36,450 --> 00:03:41,000
 [SHREK]
 You've done it. Oh, a little over to the left, yeah. That's great.
-ຮາຮາ!
+ເຈົ້າໄດ້ເຮັດແລ້ວ ໂອ້, ໄປທາງຊ້າຍເລັກນ້ອຍ, ແມ່ນແລ້ວ.
 
 62
 00:03:41,500 --> 00:03:43,500
 [FIONA]
 Uh Shrek?
-ແມ່ນແລ້ວ, Shrek!
+Uh Shrek?
 
 63
 00:03:44,000 --> 00:03:49,600
 [SHREK]
 Ahh! All right, you got it...Oh yeah, you're on it. Oh that's it! Oh that's good!
-ໂອ້, ຄົນຕໍ່ໄປໃນແຖວ. ບັດນີ້ເຈົ້າເຫັນພໍ່, ນັ້ນແມ່ນເຫດຜົນທີ່ຄົນຮັກເຈົ້າ
-. ເຖິງແມ່ນວ່າຢູ່ໃນຕຽງຕາຍຂອງເຈົ້າ ເຈົ້າຍັງເວົ້າຕະຫລົກຢູ່.
+ແມ່ນແລ້ວ, ເຈົ້າໄດ້... ໂອ້ ແມ່ນແລ້ວ
+ເຈົ້າໄດ້. ໂອ້ ມັນແລ້ວ! ໂອ່ ມັນດີ!
 
 64
 00:03:50,100 --> 00:03:52,100
 [FIONA]
 Shrek...
-ມັນບໍ່ເປັນຫຍັງ.
+Shrek...
 
 65
 00:03:52,600 --> 00:03:57,150
 [SHREK]
 Oh yeah! Scratch that thing! You got it. You're on it. That's great!
-ນອກຈາກທ່ານແລ້ວ ມີພຽງແຕ່ຜູ້ສືບທອດຄົນດຽວເທົ່ານັ້ນ.
+ໂອ້ ແມ່ນແລ້ວ, scratch that thing!
+ທ່ານໄດ້ມັນ. ທ່ານຢູ່ໃນມັນ. ທີ່ຍິ່ງໃຫຍ່!
 
 66
 00:03:57,650 --> 00:04:02,200
 [SHREK!]
 Shrek and Fiddlesworth finally see the crowd. They both freeze. Shrek laughs nervously.
-ແຮະ!
+Shrek ແລະ Fiddlesworth ໃນທີ່ສຸດເຫັນຝູງຊົນ
+ພວກເຂົາທັງສອງ froze. Shrek laughs nervously.
 
 67
 00:04:02,700 --> 00:04:07,250
 [DONKEY]
 Ow!! My eye! My eye! Shrek the Third - Final Screening Script 11.
-ທ່ານມີຄວາມຖືກຕ້ອງ; ໂອ້, ຂ້າພະເຈົ້າຫມາຍຄວາມວ່າທ່ານມີຄວາມຖືກຕ້ອງຢ່າງສົມບູນ
-, ແຕ່ຂ້າພະເຈົ້າຫມາຍຄວາມວ່າ, ເຮັດຫຍັງພວກເຮົາ?
+ໂອ້!! ຕາຂອງຂ້ອຍ! ຕາຂອງຂ້າພະເຈົ້າ! Shrek
+The Third - Final Screening Script 11.
 
 68
 00:04:07,750 --> 00:04:09,750
 [WOMAN]
 What are you doing?
-ອາວອາວ ອາວ!
+ເຈົ້າເຮັດຫຍັງ?
 
 69
 00:04:10,250 --> 00:04:12,250
 [SHREK]
 Fiona!
-ສະບາຍດີ ເດັກນ້ອຍ!
+ຟິໂອນາ!
 
 70
 00:04:12,750 --> 00:04:14,750
 [FIDDLESWORTH]
 Uhhh...
-ແມ່ນບໍ?
+ອິອິ...
 
 71
 00:04:15,250 --> 00:04:17,250
 [SHREK]
 Are you okay?
-ມັນເປັນຫຍັງ?
+ເຈົ້າດີບໍ?
 
 72
 00:04:17,750 --> 00:04:19,750
 [FIONA]
 Yeah. I'm fine.
-ຂ້ອຍຮັກເຈົ້າຫຼາຍຫວານ!
+ແມ່ນແລ້ວ, ຂ້ອຍດີ.
 
 73
 00:04:20,250 --> 00:04:22,250
 [FIDDLESWORTH]
 Ahhhh!
-ແມ່ນແລ້ວ, ພວກເຮົາໄປແລ້ວ!
+ແຮ່!
 
 74
 00:04:22,750 --> 00:04:26,950
 [DONKEY]
 Oh! Shrimp! My favorite. Shrek the Third - Final Screening Script 12.
-Uh Shrek?
+ໂອ້! ຫຍ້າ! ທີ່ຂ້ອຍມັກທີ່ສຸດ. ຫຍ່າທີ 3 - ຮູບເງົາສຸດທ້າຍ 12
 
 75
 00:04:27,450 --> 00:04:29,450
 [SHREK]
 That's it! We're leaving!
-ສະຫງົບລົງ ເຈົ້າຄິດວ່າພວກເຮົາຫລອກລວງໃຜ? ຂ້ອຍເປັນຄົນຮ້າຍ!
-ຂ້ອຍບໍ່ຖືກສ້າງຂຶ້ນສໍາລັບສິ່ງນີ້, Fiona ແລະຂ້ອຍຈະບໍ່ເຄີຍເປັນ.
+ແມ່ນແລ້ວ, ພວກເຮົາໄປແລ້ວ!
 
 76
 00:04:29,950 --> 00:04:31,950
 [FIONA]
 Honey, please calm down...
-ມັນຈະບໍ່ເປັນພຽງເຈົ້າ ແລະຂ້ອຍເທົ່ານັ້ນ.
+ແຟນ, ກະລຸນາສະຫງົບລົງ...
 
 77
 00:04:32,450 --> 00:04:38,450
 [SHREK]
 Calm down? Who do you think we're kidding? I am an ogre! I'm not cut out for this, Fiona and I never will be.
-ແທ້ໆແລ້ວ ຂ້ອຍດີໃຈທີ່ເຈົ້າຄິດແນວນັ້ນ ຂ້ອຍຮັກເຈົ້າ
+ສະຫງົບລົງ ເຈົ້າຄິດວ່າພວກເຮົາຫລອກລວງໃຜ? ຂ້ອຍເປັນຄົນຮ້າຍ!
+ຂ້ອຍບໍ່ຖືກສ້າງຂຶ້ນສໍາລັບສິ່ງນີ້, Fiona ແລະຂ້ອຍຈະບໍ່ເຄີຍເປັນ.
 
 78
 00:04:38,950 --> 00:04:41,050
 [DONKEY]
 I think that went pretty well.
-ແມ່ນບໍ?
+ຂ້ອຍຄິດວ່າ ມັນໄປດີຫຼາຍ.
 
 79
 00:04:41,550 --> 00:04:43,550
 [SHREK]
 Donkey!
-ແຕ່ຢ່າກັງວົນ, ຂ້ອຍຈະສົ່ງຈູບໃຫ້ເຈົ້າທຸກມື້!
+ຂີ້ເຫຍື້ອ!
 
 80
 00:04:44,050 --> 00:04:46,050
 [DONKEY]
 Aww, come on now Shrek!
-ໂອ້, ຂີ້ເຫຍື້ອ! ຂີ້ ເຫຍື້ອ, ຕື່ນ!
+ໂອ້, ມາແລ້ວ Shrek!
 
 81
 00:04:46,550 --> 00:04:48,650
 [PUSS]
 Some people just don't understand boundaries.
-ເຈົ້າບໍ່ສົນໃຈບໍ?
+ບາງຄົນກໍບໍ່ເຂົ້າໃຈຄວາມຈໍາກັດ.
 
 82
 00:04:49,150 --> 00:04:55,150
 [FIONA]
 Just think... a couple more days, and we'll be back home in our vermin-filled shack, strewn with fungus, filled with the rotting stench of mud and neglect.
-ເຂົາເຈົ້າປ່ອຍໃຫ້ເຈົ້າເປັນຄົນບໍ່ຍຸຕິທໍາທີ່ສຸດ ແລະດຽວນີ້ເຈົ້າຢູ່ນີ້
-, ຫຼິ້ນບີລເດີ ເພື່ອຫາອາຫານຕໍ່ໄປ ເຈົ້າຮູ້ສຶກແນວໃດ
+ພຽງແຕ່ຄິດເບິ່ງ... ອີກສອງສາມມື້, ແລະພວກເຮົາຈະກັບຄືນບ້ານໃນເຮືອນທີ່ເຕັມໄປດ້ວຍສັດຕູພືດຂອງພວກເຮົາ
+, ເຕັມໄປດ້ວຍຍຸງ, ເຕືອນກັບກິ່ນຫອມເປື່ອຍຂອງຂີ້ເຫຍື້ອແລະການລະເລີຍ.
 
 83
 00:04:55,650 --> 00:04:57,750
 [SHREK]
 Oh, you had me at "vermin-filled."
-ແລະ Hook...
+ໂອ້, ເຈົ້າໄດ້ບອກຂ້ອຍວ່າ"ເຕັມໄປດ້ວຍສັດຕູພືດ".
 
 84
 00:04:58,250 --> 00:05:02,800
 [FIONA]
 And, uh... maybe even the pitter- patter of little feet on the floor...?
-ບໍ່, ບໍ່, ບໍ່ມີ, ບໍ່ມີ. Ha, ha. ມັນບໍ່ເປັນຫຍັງ. ມັນຈະດີ.
+ແລະ, uh... ບາງທີແມ່ນແຕ່...
+ການເຕັ້ນເຕັ້ນຂອງຕີນນ້ອຍໆຢູ່ເທິງພື້ນ...?
 
 85
 00:05:03,300 --> 00:05:06,100
 [SHREK]
 That's right. The swamp rats will be spawning.
-ແລະທ່ານ! Frumpypigskin.
+ນັ້ນແມ່ນຄວາມຈິງ ພວກແມວປ່າໄມ້ຈະເກີດລູກ
 
 86
 00:05:06,600 --> 00:05:12,600
 [FIONA]
 Uh, no... you know, what I was thinking of is a little bit bigger than a swamp rat.
-ລູກທໍາອິດທີ່ເຈົ້າໄດ້ຮັບຄໍາຫມັ້ນສັນຍາຢູ່ໃສ?
-Shrek the Third - Final Screening Script 22.
+Uh, ບໍ່... ເຈົ້າຮູ້ບໍ່, ຂ້ອຍຄິດວ່າ ມັນໃຫຍ່ກວ່າຫມູປ່າ.
 
 87
 00:05:13,100 --> 00:05:15,100
 [SHREK]
 Donkey?
-ອາວ! Shrek The Third - Final Screening Script 8.
+ຂີ້ເຫຍື້ອ?
 
 88
 00:05:15,600 --> 00:05:17,700
 [FIONA]
 No, Shrek. Um... what if -
-ເມື່ອກ່ອນຫນ້ານີ້ ມີຄົນຕັດສິນໃຈວ່າ
-ພວກເຮົາແມ່ນຜູ້ສູນເສຍ ແຕ່ມີສອງດ້ານຂອງທຸກໆເລື່ອງ
+ບໍ່, Shrek. ອິອ...
 
 89
 00:05:18,200 --> 00:05:20,200
 [SHREK]
 Yeah?
-ບໍ່ໄວພໍ.
+ແມ່ນບໍ?
 
 90
 00:05:20,700 --> 00:05:25,250
 [FIONA]
 They were little ogre feet? Shrek the Third - Final Screening Script 14.
-ທາງນີ້ ພວກນາຍ.
+ພວກມັນເປັນຕີນກຸ້ງນ້ອຍໆ? Shrek The
+Third - Final Screening Script 14.
 
 91
 00:05:25,750 --> 00:05:27,750
 [SHREK]
 Oh.
-ດີເດັ່ນ, ໃຫ້ເລີ້ມຕົ້ນ.
+ໂອ້.
 
 92
 00:05:28,250 --> 00:05:34,250
 [SHREK]
 Honey? Let's try and be rational about this. Have you seen a baby lately? They just eat and poop and they cry and then they cry when they poop and they poop when they cry...Now, imagine an ogre baby. They extra cry and they extra poop.
-ຊື່ລາວແມ່ນ... ແມ່ນ...
+ແຟນ? ໃຫ້ ພະຍາຍາມ ແລະ ມີຄວາມສົມເຫດສົມຜົນ ກ່ຽວກັບເລື່ອງນີ້. ທ່ານໄດ້ເຫັນເດັກນ້ອຍໃນໄລຍະມໍ່ໆມານີ້ບໍ? ພວກເຂົາພຽງແຕ່ກິນແລະ poop ແລະພວກເຂົາຮ້ອງໄຫ້ແລະຫຼັງຈາກນັ້ນພວກເຂົາຮ້ອງທຸກໃນເວລາທີ່ພວກເຂົາ
+poo ແລະພວກເຂົາ poop ໃນເວລາທີ່ພວກເຂົາຮ້ອງ ໄຫ້...ດຽວນີ້, ຈິນຕະນາການເດັກນ້ອຍ ogre. ພວກເຂົາຮ້ອງເພີ່ມເຕີມແລະເຂົາເຈົ້າ poop ເພີ່ມເຕີມ.
 
 93
 00:05:34,750 --> 00:05:36,750
 [FIONA]
 Shrek.
-ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຈະສາມາດຮັກສາເລື່ອງນີ້ໄດ້ດົນປານໃດ ຟີໂອນາ.
+Shrek.
 
 94
 00:05:37,250 --> 00:05:40,050
 [FIONA]
 Don't you ever think about having a family?
-ເຊັ່ນດຽວກັນກັບເຈົ້າ...
+ເຈົ້າບໍ່ເຄີຍຄິດກ່ຽວກັບການສ້າງຄອບຄົວບໍ?
 
 95
 00:05:40,550 --> 00:05:42,550
 [SHREK]
 Right now, you're my family.
-ຂີ້ເຫຍື້ອ!
+ດຽວນີ້, ເຈົ້າແມ່ນຄອບຄົວຂອງຂ້ອຍ.
 
 96
 00:05:43,050 --> 00:05:45,050
 [SHREK]
 Well, somebody better be dying.
-ລາວ-ລາວ. ໂອ້.
+ດີ, ບາງຄົນດີກວ່າຈະຕາຍ.
 
 97
 00:05:45,550 --> 00:05:47,550
 [KING HAROLD]
 I'm dying.
-ບາງຄົນກໍບໍ່ເຂົ້າໃຈຄວາມຈໍາກັດ.
+ຂ້ອຍກໍາລັງຕາຍ.
 
 98
 00:05:48,050 --> 00:05:50,050
 [QUEEN]
 Harold.
-ບໍ່, ບໍ່, ລໍຖ້າ,ລໍຖ້າ ພວກເຮົາຄ້າຍຄືກັນຫຼາຍກວ່າທີ່ທ່ານຄິດ.
+ແຮໂຣລດ
 
 99
 00:05:50,550 --> 00:05:53,000
 [KING HAROLD]
 Don't forget to pay the gardener, Lillian.
-ແຮ່!
+ຢ່າລືມຈ່າຍເງິນໃຫ້ເຈົ້າສວນ, ລີລລຽນ.
 
 100
 00:05:53,500 --> 00:05:55,500
@@ -621,713 +617,719 @@ Of course darling.
 00:05:56,000 --> 00:05:58,000
 [KING HAROLD]
 Fiona...
-ໂອ້... ຂ້ອຍບໍ່ເຊື່ອວ່າຂ້ອຍຈະເປັນພໍ່.
+ຟິໂອນາ...
 
 102
 00:05:58,500 --> 00:06:00,500
 [FIONA]
 Yes Daddy?
-ແມ່ນແລ້ວພໍ່?
+ແມ່ນແລ້ວ ພໍ່?
 
 103
 00:06:01,000 --> 00:06:03,800
 [KING HAROLD]
 I know I've made many mistakes with you.
-ມັນເກີດຂຶ້ນແນວໃດ?
+ຂ້ອຍຮູ້ວ່າ ຂ້ອຍໄດ້ເຮັດຄວາມຜິດຫຼາຍຢ່າງກັບເຈົ້າ.
 
 104
 00:06:04,300 --> 00:06:06,300
 [FIONA]
 It's okay.
-ຄົບຖ້ວນແລ້ວ.
+ມັນບໍ່ເປັນຫຍັງ.
 
 105
 00:06:06,800 --> 00:06:10,300
 [KING HAROLD]
 But your love for Shrek has taught me so much.
-ຂ້ອຍຮູ້ວ່າ ມັນເກີດຂຶ້ນແນວໃດ ແຕ່ຂ້ອຍບໍ່ເຊື່ອ
+ແຕ່ຄວາມຮັກຂອງເຈົ້າສໍາລັບ Shrek ໄດ້ສອນຂ້ອຍຫຼາຍຢ່າງ.
 
 106
 00:06:10,800 --> 00:06:14,650
 [KING HAROLD]
 My dear boy, I am proud to call you my son.
-ໂອເຄ, ໂອເຄ ຂ້ອຍເຂົ້າໃຈແລ້ວ ບໍ່ມີໃຜເວົ້າວ່າ
-ມັນຈະງ່າຍ ແຕ່ຢ່າງຫນ້ອຍເຈົ້າໄດ້ໃຫ້ພວກເຮົາຊ່ວຍເຈົ້າ
+ລູກຊາຍທີ່ຮັກແພງ ຂອງຂ້າພະເຈົ້າ,
+ຂ້າພະເຈົ້າພາກພູມໃຈທີ່ຈະເອີ້ນທ່ານວ່າລູກຊາຍຂອງຂ້າພະເຈົ້າ.
 
 107
 00:06:15,150 --> 00:06:19,000
 [SHREK]
 And I'm proud to call you my Frog... King Dad in-law.
-ມັນເກີດຂຶ້ນແນວໃດ?
+ແລະຂ້ອຍພາກພູມໃຈທີ່ຈະເອີ້ນເຈົ້າວ່າ Frog ຂອງຂ້ອຍ...
 
 108
 00:06:19,500 --> 00:06:23,000
 [KING HAROLD]
 Now, there is a matter of business to attend tooo...
-ຂ້ອຍຖືກປະນາມ.
+ດຽວນີ້, ມີບັນຫາທຸລະກິດທີ່ຈະເຂົ້າຮ່ວມ tooo...
 
 109
 00:06:23,500 --> 00:06:28,050
 [PUSS]
 The Frog King is dead. Shrek the Third - Final Screening Script 16.
-ເດັກຊາຍນ້ອຍສີຟ້າ ແລະຜູ້ຊາຍຢູ່ໃນດວງຈັນ.
+ກະສັດຫມູຕາຍແລ້ວ Shrek The Third - Final Screening Script 16.
 
 110
 00:06:28,550 --> 00:06:30,650
 [DONKEY]
 Put your hat back on, fool.
-ເຈົ້າຈົບລົງແລ້ວ.
+ໃສ່ຫມວກຄືນ, ໂງ່.
 
 111
 00:06:31,150 --> 00:06:33,150
 [KING HAROLD]
 Shrek, please come hither.
-ວໍເຊີເທີເຊີຣີ (Worcestershire) ຟັງແລ້ວມັນເບິ່ງຄືວ່າແຟນໆ
+Shrek, ກະລຸນາມາທີ່ນີ້.
 
 112
 00:06:33,650 --> 00:06:35,650
 [SHREK]
 Yeah, Dad?
-ດຽວນີ້, ເຈົ້າແມ່ນຄອບຄົວຂອງຂ້ອຍ.
+ແມ່ນແລ້ວ, ພໍ່?
 
 113
 00:06:36,150 --> 00:06:41,750
 [KING HAROLD]
 This Kingdom needs a new king. You and Fiona are next in line for the throne.
-ຂ້ອຍຈະເປັນພີ່ນ້ອງ, ຂ້ອຍຈະເປັນພີ້ນ້ອງ!
+ຣາຊະອານາຈັກນີ້ ຕ້ອງການກະສັດໃຫມ່
+ເຈົ້າແລະຟີໂອນາ ເປັນຜູ້ສືບທອດອໍານາດ
 
 114
 00:06:42,250 --> 00:06:48,250
 [SHREK]
 Ooo. Next in line. Now you see Dad, that's why people love you. Even on your deathbed you're still making jokes.
-ມັກໂຊສບໍ? ມmmm... ມັນແຊບ!
+ໂອ້, ຄົນຕໍ່ໄປໃນແຖວ. ບັດນີ້ເຈົ້າເຫັນພໍ່, ນັ້ນແມ່ນເຫດຜົນທີ່ຄົນຮັກເຈົ້າ
+. ເຖິງແມ່ນວ່າຢູ່ໃນຕຽງຕາຍຂອງເຈົ້າ ເຈົ້າຍັງເວົ້າຕະຫລົກຢູ່.
 
 115
 00:06:48,750 --> 00:06:54,750
 [SHREK]
 Oh, come on Dad...an Ogre as King? I don't think that's such a good idea. There's got to be somebody else. Anybody?
-ຂ້ອຍກໍາລັງຕາຍ.
+ໂອ້, ມາເຖອະພໍ່...ສັດມະຫາຊົນເປັນກະສັດ?
+ຂ້ອຍບໍ່ຄິດວ່າມັນເປັນຄວາມຄິດທີ່ດີ. ມັນຕ້ອງມີຄົນອື່ນ. ມີໃຜ?
 
 116
 00:06:55,250 --> 00:06:58,400
 [KING HAROLD]
 Aside from you there is only one remaining heir.
-ໂອ້, ນັ້ນແມ່ນເດັກຊາຍພິເສດຂອງຂ້າພະເຈົ້າ ໂອ້
-ມາຂ້າງນີ້, ທຸກທ່ານ. ໃຫ້ພໍ່ຂອງທ່ານ hugs ໃຫຍ່!
+ນອກຈາກທ່ານແລ້ວ ມີພຽງແຕ່ຜູ້ສືບທອດຄົນດຽວເທົ່ານັ້ນ.
 
 117
 00:06:58,900 --> 00:07:00,900
 [SHREK]
 Really!? Who is he, Dad?
-ຜູ້ຊາຍ, ຢ່າຟັງລາວ. ການມີລູກຈະບໍ່ທໍາລາຍຊີວິດຂອງເຈົ້າ.
+ແທ້ໆ! ລາວແມ່ນໃຜ, ພໍ່?
 
 118
 00:07:01,400 --> 00:07:03,400
 [KING HAROLD]
 His name is... is... is...
-Uh, ບໍ່... ເຈົ້າຮູ້ບໍ່, ຂ້ອຍຄິດວ່າ ມັນໃຫຍ່ກວ່າຫມູປ່າ.
+ຊື່ລາວແມ່ນ... ແມ່ນ...
 
 119
 00:07:03,900 --> 00:07:06,000
 [SHREK]
 What's his name? What's his name?
-ບໍ່, Shrek. ອິອ...
+ຊື່ລາວເປັນແນວໃດ?
 
 120
 00:07:06,500 --> 00:07:10,000
 [KING HAROLD]
 ...is ... Shrek the Third - Final Screening Script 17.
-ພໍ່!
+...ແມ່ນ... Shrek ຕອນທີ 3 - ຕອນສຸດທ້າຍ 17
 
 121
 00:07:10,500 --> 00:07:12,500
 [FIONA]
 Daddy!
-ອາກເຕີ?
+ພໍ່!
 
 122
 00:07:13,000 --> 00:07:15,000
 [KING HAROLD]
 His name is Arthur.
-ໃສ່ຫມວກຄືນ, ໂງ່.
+ລາວຊື່ວ່າ ອາທູເທີ.
 
 123
 00:07:15,500 --> 00:07:17,500
 [SHREK]
 Arthur?
-ໂອ້, ເຈົ້າມີຂ້ອຍຢູ່"ເຕັມໄປດ້ວຍສັດຕູພືດ".
+ອາກເຕີ?
 
 124
 00:07:18,000 --> 00:07:20,100
 [KING HAROLD]
 I know you'll do what's... riiiight...
-ແມ່ນແລ້ວ.
+ຂ້ອຍຮູ້ວ່າເຈົ້າຈະເຮັດສິ່ງທີ່... ຖືກຕ້ອງ...
 
 125
 00:07:20,600 --> 00:07:22,600
 [QUEEN]
 Harold!?
-ໂຮ ໂຮ. ມັນຈໍາເປັນຫຼາຍ, ຟີໂອນາ.
+ແຮໂຣລດ!
 
 126
 00:07:23,100 --> 00:07:25,100
 [SHREK]
 Dad? Dad? Dad?
-ກະກຽມສັດຮ້າຍ...
+ພໍ່, ພໍ່?
 
 127
 00:07:25,600 --> 00:07:27,600
 [DONKEY]
 Do your thing, man.
-ບໍ່ວ່າຈະເປັນແນວໃດ.
+ເຮັດວຽກຂອງທ່ານ, ຜູ້ຊາຍ.
 
 128
 00:07:28,100 --> 00:07:32,650
 [PRINCE CHARMING]
 What does a Prince have to do to get a drink around here?
-ພວກເຮົາຍັງເປັນ!
+ເຈົ້າຊາຍຕ້ອງເຮັດຫຍັງແດ່ ເພື່ອໃຫ້ໄດ້ດື່ມຢູ່ນີ້?
 
 129
 00:07:33,150 --> 00:07:37,350
 [PRINCE CHARMING]
 Ah Mabel, why they call you an ugly stepsister I'll never know.
-ສະບາຍດີ, ພວກເຮົາກໍາລັງຊອກຫາຄົນທີ່ຊື່ວ່າ-
+ແມັກເບີລ, ເປັນຫຍັງພວກເຂົາຈຶ່ງເອີ້ນເຈົ້າວ່າເອື້ອຍແຝດທີ່ຂີ້ຮ້າຍ
+ຂ້ອຍຈະບໍ່ເຄີຍຮູ້.
 
 130
 00:07:37,850 --> 00:07:42,750
 [PRINCE CHARMING]
 Where's Doris, taking the night off? Shrek the Third - Final Screening Script 20.
-ໂອ້ແມ່.
+ດໍຣິສຢູ່ໃສ, ພັກເຊົາຄືນນີ້?
 
 131
 00:07:43,250 --> 00:07:46,050
 [MABEL]
 She's not welcome here and neither are you.
-ຂ້ອຍແມ່ນລານເຊລອດ.
+ນາງບໍ່ຍິນດີຕ້ອນຮັບຢູ່ນີ້ ແລະເຈົ້າກໍບໍ່.
 
 132
 00:07:46,550 --> 00:07:48,550
 [MABEL]
 What do you want, Charming?
-ສະບາຍດີ.
+ເຈົ້າຕ້ອງການຫຍັງ, Charming?
 
 133
 00:07:49,050 --> 00:07:53,250
 [PRINCE CHARMING]
 Oh not much, just a chance at redemption... And a Fuzzy Navel.
-ເຈົ້າເຮັດຫຍັງ?
+ໂອ ບໍ່ຫຼາຍ, ພຽງແຕ່ເປັນໂອກາດໃນການຊົດເຊີຍ... ແລະ Fuzzy Navel.
 
 134
 00:07:53,750 --> 00:07:56,200
 [PRINCE CHARMING]
 And Fuzzy Navels for all my friends!
-ໂອ້ ຂໍໂທດ.
+ແລະ Fuzzy Navels ສໍາລັບຫມູ່ເພື່ອນທັງ ຫມົດ ຂອງຂ້າພະເຈົ້າ!
 
 135
 00:07:56,700 --> 00:07:58,700
 [CAPTAIN HOOK]
 We're not your friends.
-ອິອິ...
+ພວກເຮົາບໍ່ແມ່ນຫມູ່ຂອງທ່ານ.
 
 136
 00:07:59,200 --> 00:08:01,200
 [PRINCE CHARMING]
 Ahh!
-ແມ່ນແລ້ວ, ຂ້ອຍດີ.
+ແຮະ!
 
 137
 00:08:01,700 --> 00:08:03,700
 [CAPTAIN HOOK]
 You don't belong here.
-ກຽມພ້ອມ?! ດີ! ສໍາລັບ art thou heading, ໄປເທິງສຸດ? ແມ່ນແລ້ວພວກເຮົາຄິດດັ່ງນັ້ນ,
-ພວກເຮົາຄິດເຊັ່ນນັ້ນ! ແລະທ່ານຄິດວ່າຂອງທ່ານສາມາດຖືກຢຸດ? ບໍ່ພວກເຮົາຄິດບໍ່! ພວກເຮົາຄິດບໍ່.
+ເຈົ້າບໍ່ຢູ່ໃນບ່ອນນີ້.
 
 138
 00:08:04,200 --> 00:08:09,450
 [PRINCE CHARMING]
 You're right; oh, I mean you're absolutely right, but I mean, do any of us?
-ໂອ້! ຫຍ້າ! ທີ່ຂ້ອຍມັກທີ່ສຸດ. ຫຍ່າທີ 3 - ຮູບເງົາສຸດທ້າຍ 12
+ທ່ານມີຄວາມຖືກຕ້ອງ; ໂອ້, ຂ້າພະເຈົ້າຫມາຍຄວາມວ່າທ່ານມີຄວາມຖືກຕ້ອງຢ່າງສົມບູນ
+, ແຕ່ຂ້າພະເຈົ້າຫມາຍຄວາມວ່າ, ເຮັດຫຍັງພວກເຮົາ?
 
 139
 00:08:09,950 --> 00:08:14,850
 [CYCLOPS]
 Do a number on his face! Shrek the Third - Final Screening Script 21.
-ຢືນໄວ້...
+ເຮັດຈໍານວນຫນຶ່ງໃນໃບຫນ້າຂອງລາວ! Shrek
+ທີສາມ - ສຸດທ້າຍ Screening Script 21.
 
 140
 00:08:15,350 --> 00:08:19,550
 [PRINCE CHARMING]
 No, no, wait, wait, wait! We are more alike than you think.
-ເຈົ້າຕ້ອງການຫຍັງ, Charming?
+ບໍ່, ບໍ່, ລໍຖ້າ,ລໍຖ້າ ພວກເຮົາຄ້າຍຄືກັນຫຼາຍກວ່າທີ່ທ່ານຄິດ.
 
 141
 00:08:20,050 --> 00:08:24,250
 [PRINCE CHARMING]
 Wicked Witch. The Seven Dwarves saved Snow White and then what happened?
-ດີແລ້ວ, ທ່ານເປີຊິວອລ, ພຽງແຕ່ຜ່ອນຄາຍກັບການຄວບຄຸມ-
+ສູດມົນຊົ່ວຮ້າຍ ເຈັດ Dwarves ຊ່ວຍ Snow
+White ແລະຫຼັງຈາກນັ້ນສິ່ງທີ່ເກີດຂຶ້ນ?
 
 142
 00:08:24,750 --> 00:08:26,750
 [EVIL QUEEN]
 Oh, what's it to you?
-ສໍາລັບອ້າຍ, ຢ່າເຜົາຜານຜ້າອ່ອນແລະຜ້າມ່ານຂອງຂ້າພະເຈົ້າທັງຫມົດ
-. Shrek The Third - Final Screening Script 34.
+ໂອ້, ມັນເປັນຫຍັງກັບເຈົ້າ?
 
 143
 00:08:27,250 --> 00:08:33,250
 [PRINCE CHARMING]
 They left you the un-fairest of them all. And now here you are, hustling pool to get your next meal. How does that feel?
-ຟີໂອນາ, ໄວໆນີ້ ມັນຈະມີແຕ່ເຈົ້າ ແລະຂ້ອຍ ແລະສະຫມອງຂອງພວກເຮົາ.
+ເຂົາເຈົ້າປ່ອຍໃຫ້ເຈົ້າເປັນຄົນບໍ່ຍຸຕິທໍາທີ່ສຸດ
+ແລະດຽວນີ້ເຈົ້າຢູ່ບ່ອນນີ້, ຫຼິ້ນບີລເດີ ເພື່ອເອົາອາຫານຕໍ່ໄປຂອງເຈົ້າ.
 
 144
 00:08:33,750 --> 00:08:35,750
 [EVIL QUEEN]
 Pretty unfair.
-ເບິ່ງຄືວ່າເປັນຈິງແທ້ໆ.
+ມັນບໍ່ຍຸຕິທໍາ.
 
 145
 00:08:36,250 --> 00:08:41,150
 [PRINCE CHARMING]
 And you? Your star puppet abandons the show to go and find his father.
-Shrek?
+ແລະທ່ານ, ຫຸ່ນດ່ຽງດາວຂອງທ່ານ
+ໄດ້ປະຖິ້ມການສະແດງ ເພື່ອໄປຊອກຫາພໍ່ຂອງລາວ.
 
 146
 00:08:41,650 --> 00:08:43,750
 [PUPPET MASTER]
 I hate that little wooden puppet.
-ເຈົ້າເບິ່ງງາມ.
+ຂ້ອຍກຽດຊັງຕຸdollອກໄມ້ນ້ອຍໆນັ້ນ.
 
 147
 00:08:44,250 --> 00:08:46,250
 [PRINCE CHARMING]
 And Hook...
-ແຮໂຣລດ!?
+ແລະ Hook...
 
 148
 00:08:46,750 --> 00:08:48,750
 [PRINCE CHARMING]
 ... Need I say more?
-ແມ່ນແລ້ວ, ພໍ່?
+ຂ້ອຍຈໍາເປັນຕ້ອງເວົ້າຕື່ມອີກບໍ?
 
 149
 00:08:49,250 --> 00:08:51,250
 [PRINCE CHARMING]
 And you! Frumpypigskin.
-ບັດນີ້ເບິ່ງເລື່ອງນີ້ Shrek the Third-Final Screening Script 40.
+ແລະທ່ານ! Frumpypigskin.
 
 150
 00:08:51,750 --> 00:08:53,750
 [RUMPLESTILTSKIN]
 Rumplestiltskin.
-ເຮັດວຽກຂອງທ່ານ, ຜູ້ຊາຍ.
+Rumplestiltskin.
 
 151
 00:08:54,250 --> 00:08:59,500
 [PRINCE CHARMING]
 Where's that first-born you were promised, hey? Shrek the Third - Final Screening Script 22.
-"ສະບາຍດີ! ສະບາຍດີ!"
+ລູກທໍາອິດທີ່ເຈົ້າໄດ້ຮັບຄໍາຫມັ້ນສັນຍາຢູ່ໃສ?
+Shrek the Third - Final Screening Script 22.
 
 152
 00:09:00,000 --> 00:09:05,250
 [PRINCE CHARMING]
 Mabel, remember how you couldn't get your little fat foot into that tiny glass slipper?
-ໂອ້, ສະບາຍດີ, ບໍ່ມີທາງໃດທີ່ຂ້ອຍຈະຄວບຄຸມອານາຈັກໄດ້.
-ນັ້ນແມ່ນເຫດຜົນທີ່ລູກພີ່ນ້ອງຂອງເຈົ້າ Arthur ເປັນທາງເລືອກທີ່ສົມບູນແບບ.
+ເມເບີລ, ຈື່ບໍ່ວ່າເຈົ້າບໍ່ສາມາດເອົາຕີນໃຫຍ່ຂອງເຈົ້າ
+ເຂົ້າໄປໃນເກີບແກ້ວນ້ອຍໆນັ້ນໄດ້ບໍ?
 
 153
 00:09:05,750 --> 00:09:11,750
 [PRINCE CHARMING]
 Cinderella is in Far Far Away right now, eating Bon Bons, cavorting with every little last Fairy-tale Creature that has ever done you wrong.
-ໂອ້.
+Cinderella ແມ່ນຢູ່ໃນ Far Far Away ໃນປັດຈຸບັນ, ກິນ Bon Bons, cavorting
+ກັບ creature fairy-tale ສຸດຍອດຂະຫນາດນ້ອຍທີ່ເຄີຍເຮັດໃຫ້ທ່ານບໍ່ດີ.
 
 154
 00:09:12,250 --> 00:09:18,250
 [PRINCE CHARMING]
 Once upon a time, someone decided that we were the losers. But there are two sides to every story. And our side has not been told.
-ແຮະແຮະ!
+ເມື່ອກ່ອນຫນ້ານີ້ ມີຄົນຕັດສິນໃຈວ່າ
+ພວກເຮົາແມ່ນຜູ້ສູນເສຍ ແຕ່ມີສອງດ້ານຂອງທຸກໆເລື່ອງ
 
 155
 00:09:18,750 --> 00:09:24,750
 [PRINCE CHARMING]
 So who will join me? Who wants to come out on top for once? Who wants their happily ever after?!
-Aaaiyyyy... ເຮັດວຽກມັນຕະຫຼອດຕອນກາງຄືນ!
+ສະນັ້ນໃຜຈະເຂົ້າຮ່ວມກັບຂ້ອຍ? ໃຜຕ້ອງການທີ່ຈະອອກໄປເທິງເປັນຄັ້ງດຽວ
+? ຜູ້ທີ່ຕ້ອງການ happily ever after ຂອງເຂົາເຈົ້າ?!
 
 156
 00:09:25,250 --> 00:09:27,250
 [BLIND MOUSE #1]
 This way gents.
-ສະບາຍດີ!
+ທາງນີ້ ພວກນາຍ.
 
 157
 00:09:27,750 --> 00:09:33,750
 [PUSS]
 It's out of my hands senorita, the winds of fate have blown on my destiny. But I will never forget you. You are the love of my life.
-Shrek.
+ມັນບໍ່ໄດ້ຢູ່ໃນມືຂອງຂ້າພະເຈົ້າ senorita, ລົມຂອງຕາຕະລາງໄດ້ພັດໃສ່ຄວາມກໍານົດຂອງຂ້າພະເຈົ້າ
+. ແຕ່ຂ້າພະເຈົ້າຈະບໍ່ລືມທ່ານ. ທ່ານເປັນຄວາມຮັກຂອງຊີວິດຂອງຂ້ອຍ.
 
 158
 00:09:34,250 --> 00:09:36,250
 [PUSS]
 As are you...
-ອັນນີ້ຫນ້າອາຍຫຼາຍ, ແຕ່ຫມູ່ເພື່ອນຂອງຂ້າພະເຈົ້າ
-Tiffany ຄິດວ່າທ່ານ vexed ນາງຢ່າງ soothingly...
+ເຊັ່ນດຽວກັນກັບເຈົ້າ...
 
 159
 00:09:36,750 --> 00:09:38,750
 [PUSS]
 And you.
-ລາວຢູ່ບ່ອນນັ້ນ.
+ແລະທ່ານ.
 
 160
 00:09:39,250 --> 00:09:44,150
 [PUSS]
 And, uh... hi. I don't know you, but I'd like to. I gotta go.
-ກິນລາວ!
+ແລະ... ສະບາຍດີ ຂ້ອຍບໍ່ຮູ້ຈັກເຈົ້າ ແຕ່ຂ້ອຍຢາກໄດ້ ຂ້ອຍຕ້ອງໄປ
 
 161
 00:09:44,650 --> 00:09:50,650
 [DONKEY]
 I know, I know... I don't want to leave you either baby, but you know how Shrek is. The dude's lost without me.
-ດັ່ງນັ້ນຂ້ອຍຈຶ່ງຄິດວ່າ"ຂ້ອຍຈະເອົາພະຍາດ Black Plague
-ແລະ ປິດຕົວເອງໄວ້ໃນ Iron Maiden ແທນທີ່ຈະອອກໄປກັບເຈົ້າ".
+ຂ້ອຍຮູ້, ຂ້ອຍຮູ້... ຂ້ອຍບໍ່ຢາກປະຖິ້ມເຈົ້າລູກນ້ອຍ
+ແຕ່ເຈົ້າຮູ້ວ່າ Shrek ເປັນແນວໃດ
 
 162
 00:09:51,150 --> 00:09:54,300
 [DONKEY]
 But don't worry. I'll send you airmail kisses everyday!
-ອັນນີ້ເປັນບ່ອນແບບໃດ?
+ແຕ່ຢ່າກັງວົນ, ຂ້ອຍຈະສົ່ງຈູບໃຫ້ເຈົ້າທຸກມື້!
 
 163
 00:09:54,800 --> 00:10:00,800
 [DONKEY]
 Alright, be strong babies! Be strong. Now, Coco, Peanut, you listen to Mama, alright? And Bananas, no more roastin' marshmallows on your sister's head. Shrek the Third - Final Screening Script 24.
-Woohoo!
+ດີ, ໃຫ້ແຂງແຮງ ເດັກນ້ອຍ! ຈົ່ງແຂງແຮງ. ບັດນີ້, Coco, Peanut, ທ່ານຟັງແມ່, ແມ່ນບໍ? ແລະຫມາກຖົ່ວເຫຼືອງ,
+ບໍ່ມີ marshmallows roasting'ອີກຕໍ່ໄປກ່ຽວກັບຫົວຂອງເອື້ອຍຂອງທ່ານ. Shrek ທີສາມ - ສຸດທ້າຍການສະແດງບົດ 24.
 
 164
 00:10:01,300 --> 00:10:07,300
 [DONKEY]
 Ah, that's my special boy. Oh, come over here, all of you. Give your Daddy a big hug!
-ຂໍໂທດ...
+ໂອ້, ນັ້ນແມ່ນເດັກຊາຍພິເສດຂອງຂ້າພະເຈົ້າ ໂອ້
+ມາຂ້າງນີ້, ທຸກທ່ານ. ໃຫ້ພໍ່ຂອງທ່ານ hugs ໃຫຍ່!
 
 165
 00:10:07,800 --> 00:10:10,950
 [FIONA]
 Shrek, maybe you should just stay and be King.
-Shrek!?
+Shrek, ບາງທີເຈົ້າຄວນຈະຢູ່ ແລະເປັນກະສັດ.
 
 166
 00:10:11,450 --> 00:10:17,450
 [SHREK]
 Oh, c'mon, there's no way I could ever run a kingdom. That's why your cousin Arthur's the perfect choice.
-ແມ່ນແລ້ວ!
+ໂອ້, ສະບາຍດີ, ບໍ່ມີທາງໃດທີ່ຂ້ອຍຈະສາມາດຄຸ້ມຄອງອານາຈັກໄດ້
+ເພາະສະນັ້ນ ພີ່ນ້ອງຊາຍຂອງເຈົ້າ ຄືອາທີຣ໌ ເປັນທາງເລືອກທີ່ສົມບູນແບບ
 
 167
 00:10:17,950 --> 00:10:20,400
 [FIONA]
 It's not that. No. It's, you see...
-ຟິໂອນາ!
+ມັນບໍ່ຄືແນວນັ້ນ, ບໍ່, ມັນຄື, ເຈົ້າເບິ່ງ...
 
 168
 00:10:20,900 --> 00:10:26,900
 [SHREK]
 And if he gives me any trouble, I've always got persuasion and reason.  Here's persuasion,  and here's reason.
-ແມ່ນບໍ?
+ແລະຖ້າລາວສ້າງຄວາມຫຍຸ້ງຍາກໃຫ້ຂ້ອຍ,
+ຂ້ອຍມີຄວາມເຊື່ອຫມັ້ນ ແລະເຫດຜົນສະເຫມີ.
 
 169
 00:10:27,400 --> 00:10:31,600
 [SHREK]
 Fiona, soon it's just gonna be you and me and our swamp.
-ຂີ້ເຖົ່າ!
+ຟີໂອນາ, ໄວໆນີ້ ມັນຈະມີແຕ່ເຈົ້າ ແລະຂ້ອຍ ແລະສະຫມອງຂອງພວກເຮົາ.
 
 170
 00:10:32,100 --> 00:10:35,250
 [FIONA]
 It's not going to be just you and me.
-ຂ້ອຍເວົ້າວ່າ ຂ້ອຍຖືພາ!
+ມັນຈະບໍ່ເປັນພຽງເຈົ້າ ແລະຂ້ອຍເທົ່ານັ້ນ.
 
 171
 00:10:35,750 --> 00:10:39,250
 [SHIP CAPTAIN]
 All aboard! Shrek the Third - Final Screening Script 25.
-ດຽວນີ້, ບ່ອນໃດທີ່ຂ້າພະເຈົ້າສາມາດຊອກຫາ Arthur Pendragon
-ໄດ້? Shrek The Third - Final Screening Script 41.
+ທຸກຄົນຂຶ້ນເຮືອບິນ!
 
 172
 00:10:39,750 --> 00:10:42,550
 [SHREK]
 It will be. I promise. I love you.
-ອັນນັ້ນແມ່ນຫຍັງ?
+ມັນຈະເປັນ, ຂ້ອຍສັນຍາ, ຂ້ອຍຮັກເຈົ້າ.
 
 173
 00:10:43,050 --> 00:10:45,050
 [FAIRYTALE CREATURES]
 Awwwwwwwww!
-ຂໍ້ມູນນັ້ນ ແມ່ນອີງໃສ່ຄວາມຕ້ອງການທີ່ຈະຮູ້.
+ອາວອາວ ອາວ!
 
 174
 00:10:45,550 --> 00:10:47,550
 [PIG #1]
 That's lovely.
-ໂອ້, ມາເຖອະພໍ່...ສັດມະຫາຊົນເປັນກະສັດ?
-ຂ້ອຍບໍ່ຄິດວ່າມັນເປັນຄວາມຄິດທີ່ດີ. ມັນຕ້ອງມີຄົນອື່ນ. ມີໃຜ?
+ມັນຫນ້າຮັກ.
 
 175
 00:10:48,050 --> 00:10:50,050
 [DONKEY]
 Bye bye babies!
-- ເປັນຄົນຮ້າຍບໍ?
+ສະບາຍດີ ເດັກນ້ອຍ!
 
 176
 00:10:50,550 --> 00:10:52,550
 [FIONA]
 Shrek!
-ຂ້ອຍກຽດຊັງຕຸdollອກໄມ້ນ້ອຍນັ້ນ.
+Shrek!
 
 177
 00:10:53,050 --> 00:10:55,050
 [SHREK]
 Yeah?
-ນີ້ ແມ່ນຄວາມຈິງແລ້ວວ່າ ມັນບໍ່ຄ່ອຍເປັນແບບປົກກະຕິ
+ແມ່ນບໍ?
 
 178
 00:10:55,550 --> 00:10:57,550
 [FIONA]
 Wait!
-ພວກເຮົາບໍ່ແມ່ນຫມູ່ຂອງທ່ານ.
+ລໍຖ້າ!
 
 179
 00:10:58,050 --> 00:11:00,050
 [SHREK]
 What is it?
-ເຈົ້າບໍ່ຂຶ້ນກັບບ່ອນນີ້.
+ມັນເປັນຫຍັງ?
 
 180
 00:11:00,550 --> 00:11:02,550
 [FIONA]
 I'm, I'm-
-ພໍ່ແມ່!
+ຂ້ອຍ, ຂ້ອຍ...
 
 181
 00:11:03,050 --> 00:11:05,050
 [SHREK]
 I love you too honey!
-ແລະນາງຄິດວ່າ ບາງທີເຈົ້າອາດຈະຢາກຂໍໃຫ້ນາງໄປເຕັ້ນ
-ຫຼືບາງສິ່ງບາງຢ່າງ...
+ຂ້ອຍຮັກເຈົ້າຫຼາຍຫວານ!
 
 182
 00:11:05,550 --> 00:11:10,450
 [FIONA]
 No... No, I said I'm pr- Shrek the Third - Final Screening Script 26.
-ມັນຫນ້າຮັກ.
+ບໍ່, ບໍ່, ຂ້ອຍເວົ້າວ່າ ຂ້ອຍກໍາລັງ- Shrek
+the Third-Final Screening Script 26.
 
 183
 00:11:10,950 --> 00:11:12,950
 [SHREK]
 You're what?!
-Shrek!
+ເຈົ້າເປັນຫຍັງ?
 
 184
 00:11:13,450 --> 00:11:15,450
 [FIONA]
 I said I'm pregnant!
-ລໍຖ້າ!
+ຂ້ອຍເວົ້າວ່າ ຂ້ອຍຖືພາ!
 
 185
 00:11:15,950 --> 00:11:17,950
 [SHREK]
 (doesn't want to believe
-ຂ້ອຍ, ຂ້ອຍ...
+(ບໍ່ຢາກເຊື່ອ
 
 186
 00:11:18,450 --> 00:11:20,450
 [HIS EARS)]
 Uh... what was that?
-ລໍຖ້າ, ເດັກນ້ອຍ poop?
+ອັນນັ້ນແມ່ນຫຍັງ?
 
 187
 00:11:20,950 --> 00:11:23,050
 [FIONA]
 You're going to be a father!
-ຟິໂອນາ...
+ເຈົ້າຈະເປັນພໍ່!
 
 188
 00:11:23,550 --> 00:11:25,550
 [SHREK]
 That's great.
-ແຟນ, ກະລຸນາສະຫງົບລົງ...
+ດີເລີດ.
 
 189
 00:11:26,050 --> 00:11:29,200
 [FIONA]
 Really? I'm glad you think so! I love you.
-ແມ່ນແລ້ວ!
+ແທ້ໆແລ້ວ ຂ້ອຍດີໃຈທີ່ເຈົ້າຄິດແນວນັ້ນ ຂ້ອຍຮັກເຈົ້າ
 
 190
 00:11:29,700 --> 00:11:31,700
 [SHREK]
 Yeah... Me too... you...
-ເຈົ້າຮູ້ວ່າລູກຈະມັກມັນ ເພາະຂ້ອຍມັກ!
+ແມ່ນແລ້ວ... ຂ້ອຍຄືກັນ...
 
 191
 00:11:32,200 --> 00:11:37,450
 [DONKEY]
 I'm gonna be an Uncle. I'm gonna be an Uncle! I'm gonna be an Uncle!
-ດີເລີດ.
+ຂ້ອຍຈະເປັນພີ່ນ້ອງ, ຂ້ອຍຈະເປັນພີ້ນ້ອງ!
 
 192
 00:11:37,950 --> 00:11:40,400
 [PUSS]
 Oh, and you my friend are royally--
-ຂ້ອຍຮູ້, ຂ້ອຍຮູ້... ຂ້ອຍບໍ່ຢາກປະຖິ້ມເຈົ້າລູກນ້ອຍ
-ແຕ່ເຈົ້າຮູ້ວ່າ Shrek ເປັນແນວໃດ
+ໂອ, ແລະທ່ານເພື່ອນຂອງຂ້າພະເຈົ້າແມ່ນ royally--
 
 193
 00:11:40,900 --> 00:11:42,900
 [SHREK]
 Ahhh. Home.
-ໂອ້, ພວກທ່ານ, ນັ້ນແມ່ນຄວາມຫວານໃຈຫຼາຍ. ຂອບໃຈ.
+ເຮືອນ.
 
 194
 00:11:43,400 --> 00:11:45,400
 [SHREK]
 Woohoo!
-ບຸບບາບatoo?
+Woohoo!
 
 195
 00:11:45,900 --> 00:11:47,900
 [SHREK]
 Ahh.
-ໂອ້, ມັນເປັນຫຍັງກັບເຈົ້າ?
+ແຮະ.
 
 196
 00:11:48,400 --> 00:11:50,400
 [FIONA]
 Shrek!?
-ມັນບໍ່ຍຸຕິທໍາ.
+Shrek!?
 
 197
 00:11:50,900 --> 00:11:52,900
 [SHREK]
 Ooo.
-Hiccup!
+ໂອໂອ.
 
 198
 00:11:53,400 --> 00:11:55,400
 [SHREK]
 Fiona!
-ຂ້ອຍຈໍາເປັນຕ້ອງເວົ້າຕື່ມອີກບໍ?
+ຟິໂອນາ!
 
 199
 00:11:55,900 --> 00:11:57,900
 [SHREK]
 Fiona?
-Rumplestiltskin.
+ຟິໂອນາ?
 
 200
 00:11:58,400 --> 00:12:00,400
 [SHREK]
 Huh? Oh no.
-Cinderella ແມ່ນຢູ່ໃນ Far Far Away ໃນປັດຈຸບັນ, ກິນ Bon Bons, cavorting
-ກັບ creature fairy-tale ສຸດຍອດຂະຫນາດນ້ອຍທີ່ເຄີຍເຮັດໃຫ້ທ່ານບໍ່ດີ.
+ແມ່ນບໍ?
 
 201
 00:12:00,900 --> 00:12:04,050
 [SHREK]
 Better out than in, I always say. Ha ha!
-ຂ້ອຍບໍ່ໄດ້ມາເພື່ອກິນລາວ.
+ດີກວ່າອອກໄປ ກ່ວາເຂົ້າໄປ, ຂ້ອຍເຄີຍເວົ້າວ່າ.
 
 202
 00:12:04,550 --> 00:12:06,550
 [OGRE BABY]
 Hiccup!
-ສະນັ້ນໃຜຈະເຂົ້າຮ່ວມຂ້ອຍ? ໃຜຕ້ອງການທີ່ຈະອອກໄປເທິງເປັນຄັ້ງດຽວ
-? ຜູ້ທີ່ຕ້ອງການ happily ever after ຂອງເຂົາເຈົ້າ?!
+Hiccup!
 
 203
 00:12:07,050 --> 00:12:11,950
 [SHREK]
 No, no, no, no, no, no. Ha, ha. It's okay. It's gonna be alright.
-ໂອ໋! ຖືກແລ້ວ! ໂອ໊, ໂອ໊!
+ບໍ່, ບໍ່, ບໍ່ມີ, ບໍ່ມີ. Ha, ha. ມັນບໍ່ເປັນຫຍັງ. ມັນຈະດີ.
 
 204
 00:12:12,450 --> 00:12:14,450
 [OGRE BABY]
 Da-Da!
-ມັນບໍ່ໄດ້ຢູ່ໃນມືຂອງຂ້າພະເຈົ້າ senorita, ລົມຂອງຕາຕະລາງໄດ້ພັດເຂົ້າໄປໃນຊະຕາ ກໍາ
-ຂອງຂ້າພະເຈົ້າ. ແຕ່ຂ້າພະເຈົ້າຈະບໍ່ລືມທ່ານ. ທ່ານເປັນຄວາມຮັກຂອງຊີວິດຂອງຂ້ອຍ.
+ພໍ່ແມ່!
 
 205
 00:12:14,950 --> 00:12:19,500
 [SHREK]
 Hey! Hey, hey, wait! Would ya? No, no. Stop! Hey, hey, hey. No.
-ແທ້ໆ! ລາວແມ່ນໃຜ, ພໍ່?
+ເຮ້, ເຮ້, ເດີ໋ຍວ! ເຈົ້າຈະເຮັດແນວໃດ? ບໍ່, ບໍ່. ຢຸດ! ເຮ້, hej, hej.
 
 206
 00:12:20,000 --> 00:12:22,000
 [SHREK]
 Huh?
-ແລະທ່ານ.
+ແມ່ນບໍ?
 
 207
 00:12:22,500 --> 00:12:24,500
 [OGRE BABY]
 Bubabatoo?
-ດີດີ ດີ ດີ ດີ ຖ້າມັນບໍ່ແມ່ນ Peter Pan.
+ບຸບບາບatoo?
 
 208
 00:12:25,000 --> 00:12:27,100
 [SHREK]
 Ahhhh! Oh, Donkey! Donkey, wake- up!
-ລາວເວົ້າຖືກ ຖ້າມັນເປັນຈິງ ມັນຈະເປັນການເຈັບປວດຢ່າງຮ້າຍແຮງ!
+ໂອ້, ຂີ້ເຫຍື້ອ! ຂີ້ ເຫຍື້ອ, ຕື່ນ!
 
 209
 00:12:27,600 --> 00:12:29,600
 [DONKEY]
 Da-da!
-ສະບາຍດີ ເພື່ອນໆ ທີ່ຮັກແພງ, ມັນທໍາລາຍຫົວໃຈຂອງຂ້າພະເຈົ້າ, ແຕ່,
-ມີຄວາມສຸກທີ່ພັກຢູ່ທີ່ນີ້ໃນຄຸກໃນຂະນະທີ່ຂ້າພະເຈົ້າປົກຄອງໂລກອິດສະຫຼະເດັກນ້ອຍ!
+ພໍ່ແມ່!
 
 210
 00:12:30,100 --> 00:12:32,100
 [SHREK]
 Ahhhh!
-ພໍ່ແມ່!
+ແຮ່!
 
 211
 00:12:32,600 --> 00:12:34,600
 [DONKEY]
 Shrek. Shrek, are you okay?
-ໂອ ໂອ!
+Shrek, Shrek ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
 
 212
 00:12:35,100 --> 00:12:38,600
 [SHREK]
 Oh... I can't believe I'm going to be a father.
-Shrek, Shrek ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+ໂອ້... ຂ້ອຍບໍ່ເຊື່ອວ່າຂ້ອຍຈະເປັນພໍ່.
 
 213
 00:12:39,100 --> 00:12:41,100
 [SHREK]
 How did this happen?
-ຂ້ອຍກໍາລັງສ້າງປະຊາຊົນເມືອງຂອງຂ້ອຍຂຶ້ນ ດ້ວຍດົນຕີ Rock and Roll!
+ມັນເກີດຂຶ້ນແນວໃດ?
 
 214
 00:12:41,600 --> 00:12:47,600
 [PUSS]
 Allow me to explain. You see, when a man has certain feelings for a woman, a powerful urge sweeps over him...
-ແມ່ນຫຍັງ?
+ຂໍອະນຸຍາດໃຫ້ອະທິບາຍ. ເມື່ອຜູ້ຊາຍມີຄວາມຮູ້ສຶກບາງຢ່າງຕໍ່ແມ່ຍິງ
 
 215
 00:12:48,100 --> 00:12:51,600
 [SHREK]
 I know how it happened. I just can't believe it.
-ຂໍອະນຸຍາດໃຫ້ອະທິບາຍ. ເມື່ອຜູ້ຊາຍມີຄວາມຮູ້ສຶກບາງຢ່າງຕໍ່ແມ່ຍິງ
+ຂ້ອຍຮູ້ວ່າ ມັນເກີດຂຶ້ນແນວໃດ ແຕ່ຂ້ອຍບໍ່ເຊື່ອ
 
 216
 00:12:52,100 --> 00:12:54,100
 [DONKEY]
 How does it happen?
-ຂ້ອຍຫມາຍຄວາມວ່າ...ເຈົ້າເຄີຍໄດ້ຍິນຄໍາວ່າ"ອ່ອນໄຫວຄືກັບ...ກຸ້ງ" ຫຼື"ລ້ຽງດູຄື... ກຸ້ງ", ຫຼືວ່າ
-..."ເຈົ້າຈະຮັກພໍ່ຂອງຂ້ອຍ...ລາວເປັນກູ້ງແທ້ໆ". Shrek the Third - Final Screening Script 32.
+ມັນເກີດຂຶ້ນແນວໃດ?
 
 217
 00:12:54,600 --> 00:13:00,600
@@ -1340,1850 +1342,1857 @@ the Third - Final Screening Script 31.
 00:13:01,100 --> 00:13:04,250
 [DONKEY]
 Little boy blue and the man in the moon.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ເດັກຊາຍນ້ອຍສີຟ້າ ແລະຜູ້ຊາຍຢູ່ໃນດວງຈັນ.
 
 219
 00:13:04,750 --> 00:13:10,000
 [DONKEY]
 "When you coming home, son?" "I don't know when, But we'll get together then, Dad-"
-ສະນັ້ນ, ເຈົ້າມີຄວາມປາຖະຫນາຫຍັງມາຕັ້ງແຕ່ເຈົ້າຖືພາແລ້ວບໍ?
+"ເຈົ້າຈະກັບບ້ານເມື່ອໃດ, ລູກຊາຍ?""ຂ້ອຍບໍ່ຮູ້ວ່າເມື່ອໃດ
+ແຕ່ວ່າພວກເຮົາຈະພົບກັນໃນເວລານັ້ນ, ພໍ່-"
 
 220
 00:13:10,500 --> 00:13:16,100
 [SHREK]
 Donkey, can you just cut to the part where you're supposed to make me feel better?
-ເຈົ້າຈະໄດ້ດີ.
+ຂີ້ເຫຍື້ອ, ເຈົ້າເຮັດໄດ້ບໍ່ ຕອນທີ່ເຈົ້າຄວນເຮັດໃຫ້ຂ້ອຍຮູ້ສຶກດີຂຶ້ນ?
 
 221
 00:13:16,600 --> 00:13:22,600
 [PUSS]
 You know I love Fiona, Boss. Right? But what I'm talking about here is you, me, my cousin's boat, an ice- cold pitcher of mojitos, and two weeks of nothing but fishing.
-ບໍ່, ບໍ່, ບໍ່ໄດ້ເລີຍ.
+ເຈົ້າຮູ້ດີວ່າຂ້ອຍຮັກຟີໂອນາ, Boss ບໍ? ແຕ່ສິ່ງທີ່ຂ້ອຍເວົ້າຢູ່ນີ້ແມ່ນເຈົ້າ, ຂ້ອຍ,
+ເຮືອຂອງແສນພີ່ນ້ອງຂອງຂ້ອຍ, ຈອກມໍຈິໂຕທີ່ເຢັນເຢັນ, ແລະສອງອາທິດບໍ່ມີຫຍັງນອກຈາກການຫາປາ.
 
 222
 00:13:23,100 --> 00:13:28,700
 [DONKEY]
 Man, don't you listen to him. Having a baby is not going to ruin your life.
-ເຈົ້າຄວນອາຍຕົວເອງ.
+ຜູ້ຊາຍ, ຢ່າຟັງລາວ. ການມີລູກຈະບໍ່ທໍາລາຍຊີວິດຂອງເຈົ້າ.
 
 223
 00:13:29,200 --> 00:13:33,050
 [SHREK]
 It's not my life I'm worried about ruining. It's the kid's.
-Uh, ກັບການເດີນທາງຂອງທ່ານ.
+ມັນບໍ່ແມ່ນຊີວິດຂອງຂ້ອຍທີ່ຂ້ອຍກັງວົນວ່າຈະທໍາລາຍ
+ມັນແມ່ນຊີວິດຂອງເດັກ.
 
 224
 00:13:33,550 --> 00:13:39,550
 [SHREK]
 I mean...when have you ever heard the phrase "as sweet as an...ogre" or "as nurturing as...an ogre" Or how `bout..."you're gonna' love my dad...he's a real ogre." Shrek the Third - Final Screening Script 32.
-ໂອ້ ມັນເຖິງເວລາແລ້ວ!
+ຂ້ອຍຫມາຍຄວາມວ່າ...ເມື່ອໃດເຈົ້າເຄີຍໄດ້ຍິນຄໍາວ່າ"ອ່ອນໄຫວຄືກັບ... ogre" ຫຼື"ເປັນການດູແລ... ເປັນ ogre",
+ຫຼືວ່າ"ເຈົ້າຈະຮັກພໍ່ຂອງຂ້ອຍ...ລາວເປັນ ogre ທີ່ແທ້ຈິງ". Shrek the Third - Final Screening Script 32.
 
 225
 00:13:40,050 --> 00:13:46,050
 [DONKEY]
 Okay, okay I get it! Nobody said it was going to be easy. But at least you got us to help you out.
-ແມ່ນແລ້ວ... ຂ້ອຍຄືກັນ...
+ໂອເຄ, ໂອເຄ ຂ້ອຍເຂົ້າໃຈແລ້ວ ບໍ່ມີໃຜເວົ້າວ່າ
+ມັນຈະງ່າຍ ແຕ່ຢ່າງຫນ້ອຍເຈົ້າໄດ້ໃຫ້ພວກເຮົາຊ່ວຍເຈົ້າ
 
 226
 00:13:46,550 --> 00:13:48,550
 [SHREK]
 That's true.
-ມັນແມ່ນ Worcestershire.
+ນັ້ນແມ່ນຄວາມຈິງ.
 
 227
 00:13:49,050 --> 00:13:51,050
 [SHREK]
 I'm doomed.
-ເຈົ້າຈະເລີ້ມປ່ອຍຕົວໄປ...
+ຂ້ອຍຖືກປະນາມ.
 
 228
 00:13:51,550 --> 00:13:53,550
 [DONKEY]
 You'll be fine.
-ດີ, ໃຫ້ແຂງແຮງ ເດັກນ້ອຍ! ຈົ່ງແຂງແຮງ. ບັດນີ້, Coco, Peanut, ທ່ານຟັງແມ່, ດີບໍ? ແລະຫມາກຖົ່ວເຫຼືອງ,
-ບໍ່ມີ marshmallows roasting'ອີກຕໍ່ໄປກ່ຽວກັບຫົວຂອງເອື້ອຍຂອງທ່ານ. Shrek ທີສາມ - ສຸດທ້າຍການສະແດງບົດ 24.
+ເຈົ້າຈະໄດ້ດີ.
 
 229
 00:13:54,050 --> 00:13:56,050
 [SHIP CAPTAIN]
 You're finished.
-ເຈົ້າຮູ້ດີວ່າຂ້ອຍຮັກຟີໂອນາ, Boss ບໍ? ແຕ່ສິ່ງທີ່ຂ້ອຍເວົ້າຢູ່ນີ້ແມ່ນເຈົ້າ, ຂ້ອຍ,
-ເຮືອຂອງແສນພີ່ນ້ອງຂອງຂ້ອຍ, ຈອກມໍຈິໂຕທີ່ເຢັນເຢັນ, ແລະສອງອາທິດບໍ່ມີຫຍັງນອກຈາກການຫາປາ.
+ເຈົ້າຈົບລົງແລ້ວ.
 
 230
 00:13:56,550 --> 00:13:58,550
 [SHIP CAPTAIN]
 Uh, with your journey.
-ພໍແລ້ວ ພວກນ້ອງ.
+Uh, ກັບການເດີນທາງຂອງທ່ານ.
 
 231
 00:13:59,050 --> 00:14:01,050
 [DONKEY]
 Wor-ces-ter-shireee. Now that sounds fancy.
-ໃຫ້ສາລາກັບຄວາມໂລແມນຕິກ.
+ວໍ-ເຊສເຕີ-ຊີເຣີ້ (Worcester-shireee) ບັດນີ້ມັນປາກົດວ່າງົດງາມ.
 
 232
 00:14:01,550 --> 00:14:03,550
 [SHREK]
 It's Worcestershire.
-ຂໍໂທດ... ແຕ່ພວກເຈົ້າມີລູກເທົ່າໃດ?
+ມັນແມ່ນ Worcestershire.
 
 233
 00:14:04,050 --> 00:14:06,150
 [DONKEY]
 Like the sauce!? Mmmm... It's spicy!
-Shrek, ບາງທີເຈົ້າຄວນຈະຢູ່ ແລະເປັນກະສັດ.
+ມັກໂຊສບໍ? ມmmm... ມັນແຊບ!
 
 234
 00:14:06,650 --> 00:14:08,750
 [DONKEY]
 Oohh! They must be expecting us.
-ເຈົ້າເປັນຄົນໃຈດີຫຼາຍ, Snow, ແຕ່ຂ້ອຍບໍ່ສາມາດຮັບເອົາສິ່ງນີ້ໄດ້.
+ເຂົາເຈົ້າຄົງຈະລໍຖ້າພວກເຮົາ.
 
 235
 00:14:09,250 --> 00:14:12,400
 [DONKEY]
 What in the shista-shire kind of place is this?
-ຢຸດສັ່ນສະເທືອນ, ອາທີວ.
+ອັນນີ້ເປັນບ່ອນແບບໃດ?
 
 236
 00:14:12,900 --> 00:14:18,150
 [SHREK]
 Well, my stomach aches and my palms just got sweaty. Must be a high school.
-Yee-haw! ໂອ້.
+ຂ້ອຍມີອາການເຈັບທ້ອງ ແລະມືຂອງຂ້າພະເຈົ້ານັ້ນຫວາດສຽວ
+. ມັນຕ້ອງເປັນໂຮງຮຽນມັດທະຍົມ
 
 237
 00:14:18,650 --> 00:14:20,650
 [DONKEY]
 High school?!
-ຄົນຂີ້ເຫຍື້ອທີ່ຢູ່ນັ້ນແມ່ນອັອດເຕີ!
+ໂຮງຮຽນມັດທະຍົມ?!
 
 238
 00:14:21,150 --> 00:14:27,150
 [CHEERLEADERS]
 Ready?! Okay! Where for art thou headed, to the top? Yeah we think so, we think so! And dost thou thinkest thine can be stopped? Nay we thinks not! We thinks not!
-ຂອບໃຈ Rapunzel, ແລະມັນຫມາຍຄວາມວ່າແນວໃດ?
+ກຽມພ້ອມ?! ດີ! ສໍາລັບ art thou heading, ໄປເທິງສຸດ? ແມ່ນແລ້ວພວກເຮົາຄິດດັ່ງນັ້ນ,
+ພວກເຮົາຄິດເຊັ່ນນັ້ນ! ແລະທ່ານຄິດວ່າຂອງທ່ານສາມາດຖືກຢຸດ? ບໍ່ພວກເຮົາຄິດບໍ່! ພວກເຮົາຄິດບໍ່.
 
 239
 00:14:27,650 --> 00:14:29,650
 [FEMALE STUDENT #1]
 Ahhhhh!
-ໂອ້.
+ອາຮາ!
 
 240
 00:14:30,150 --> 00:14:33,650
 [DRIVERS ED INSTRUCTOR]
 All right Mr. Percival, just ease up on the reigns-
-ເຂົາເຈົ້າຄົງຈະລໍຖ້າພວກເຮົາ.
+ດີແລ້ວ, ທ່ານເປີຊິວອລ, ພຽງແຕ່ຜ່ອນຄາຍກັບການຄວບຄຸມ-
 
 241
 00:14:34,150 --> 00:14:40,150
 [VAN STUDENT]
 For lo bro, don't burn all my frankincense and myrrh. Shrek the Third - Final Screening Script 34.
-ມັນເປັນຫຍັງ?
+ສໍາລັບອ້າຍ, ຢ່າເຜົາຜານຜ້າອ່ອນແລະຜ້າມ່ານຂອງຂ້າພະເຈົ້າທັງຫມົດ
+. Shrek The Third - Final Screening Script 34.
 
 242
 00:14:40,650 --> 00:14:44,850
 [DONKEY]
 I'm already starting to feel nauseous from memories of wedgies and swirlies!
-ເຈົ້າຫາກໍ່ເວົ້າວ່າເຈົ້າກໍາລັງຊອກຫາອັອດເຕີບໍ?
+ຂ້ອຍເລີ່ມຮູ້ສຶກຄຽດແລ້ວ ຈາກຄວາມຊົງຈໍາ
+ກ່ຽວກັບການປັ່ນປ່ວນ ແລະ ວົງຈອນ!
 
 243
 00:14:45,350 --> 00:14:51,300
 [PUSS]
 But how did you receive the wedgies when you are clearly not the wearer of the underpants?
-ແມ່ນແລ້ວ, ເຈົ້າດີກວ່າຈະແລ່ນໄປ, ເຈົ້າຄົນຂີ້ຮ້າຍນ້ອຍໆ ທີ່ບໍ່ມີເກນດີ
-, ເພາະວ່າວັນຂອງ"Little Donkey Dumpy Drawers" ໄດ້ຫມົດໄປແລ້ວ!
+ແຕ່ວ່າເຈົ້າຮັບເອົາຜ້າປູຊະນິດນີ້ໄດ້ແນວໃດ
+ເມື່ອເຈົ້າບໍ່ແມ່ນຜູ້ໃສ່ເສື້ອຜ້າຊັ້ນໃນ?
 
 244
 00:14:51,800 --> 00:14:56,700
 [DONKEY]
 Let's just say some things are better left unsaid and leave it at that.
-ໂຮງຮຽນມັດທະຍົມ?!
+ໃຫ້ເວົ້າວ່າ ບາງສິ່ງບາງຢ່າງ
+ແມ່ນດີກວ່າບໍ່ໃຫ້ເວົ້າ ແລະໃຫ້ມັນຢູ່ໃນນັ້ນ.
 
 245
 00:14:57,200 --> 00:15:03,200
 [GUINEVERRE]
 So then I was all like "I'd rather get the black plague and lock myself in an iron maiden than go out with you."
-ໂອ້!
+ດັ່ງນັ້ນຂ້ອຍຈຶ່ງຄິດວ່າ"ຂ້ອຍຈະເອົາພະຍາດມະເຮັງສີດໍາ
+ແລະ ປິດໂຕເອງໄວ້ໃນຕູ້ເຫຼັກກ້າ ແທນທີ່ຈະອອກໄປກັບເຈົ້າ".
 
 246
 00:15:03,700 --> 00:15:05,700
 [TIFFANY]
 Eh, totally.
-ດີເລີດ Lance!
+ແມ່ນແລ້ວ.
 
 247
 00:15:06,200 --> 00:15:08,200
 [SHREK]
 Pardon me...
-ເບິ່ງໂຕເຈົ້າ!
+ຂໍໂທດ...
 
 248
 00:15:08,700 --> 00:15:10,700
 [GUINEVERRE]
 Eh! Totally ew-th!
-ພວກເຮົາຢູ່ນີ້ເພື່ອການແຂ່ງຂັນ Mascot.
+ແມ່ນແລ້ວ!
 
 249
 00:15:11,200 --> 00:15:13,200
 [TIFFANY]
 Yeah, totally!
-ອາຮາ!
+ແມ່ນແລ້ວ!
 
 250
 00:15:13,700 --> 00:15:17,550
 [GARY]
 Yes! I just altered my character level to plus three superbability.
-ນີ້ຈິງບໍ?
+ແມ່ນແລ້ວ, ຂ້ອຍຫາກໍ່ປ່ຽນລະດັບຕົວລະຄອນຂອງຂ້ອຍ
+ມາເປັນ + 3 Superbability.
 
 251
 00:15:18,050 --> 00:15:20,150
 [SHREK]
 Hi, we're looking for someone named-
-ໂຣຣ!
+ສະບາຍດີ, ພວກເຮົາກໍາລັງຊອກຫາຄົນທີ່ຊື່ວ່າ-
 
 252
 00:15:20,650 --> 00:15:26,650
 [GARY]
 Gee, who rolled a plus nine "dork" spell and summoned the beast and his quadrupeds. Shrek the Third - Final Screening Script 35.
-ເລີຍ, ເອົາໄປໃສ່ກັນແດ່!
+ພຣະຜູ້ເປັນເຈົ້າ, ຜູ້ທີ່ rolled plus 9"dork" spell ແລະເອີ້ນສັດຮ້າຍແລະ
+quadrupeds ຂອງເຂົາ. Shrek the Third - Final Screening Script 35.
 
 253
 00:15:27,150 --> 00:15:29,150
 [XAVIER]
 Ha! Ha! Ah!
-ແລະຖ້າລາວສ້າງຄວາມຫຍຸ້ງຍາກໃຫ້ຂ້ອຍ,
-ຂ້ອຍມີຄວາມເຊື່ອຖືແລະເຫດຜົນສະເຫມີ.
+ແຮະແຮະ!
 
 254
 00:15:29,650 --> 00:15:35,650
 [SHREK]
 I know you're busy "not fitting in" but can either of you tell me where I can find Arthur?
-ລາວຈະນໍາເອົາຜູ້ສືບທອດຄົນຕໍ່ໄປກັບຄືນມາ?
+ຂ້ອຍຮູ້ວ່າເຈົ້າມີວຽກເຮັດຢູ່"ບໍ່ເຫມາະສົມ"
+ແຕ່ເຈົ້າທັງສອງສາມາດບອກຂ້ອຍໄດ້ວ່າ ຂ້ອຍຫາອັອດເຕີໄດ້ໃສ?
 
 255
 00:15:36,150 --> 00:15:38,150
 [GARY]
 He's over there.
-ໃຫ້ຂ້ອຍຊົ່ວຄາວດຽວ.
+ລາວຢູ່ບ່ອນນັ້ນ.
 
 256
 00:15:38,650 --> 00:15:40,650
 [JOCKS]
 Oy! Right! Ooo! Ooo! Ooo!
-ຂ້ອຍເລີ່ມຮູ້ສຶກຄຽດແລ້ວ ຈາກຄວາມຊົງຈໍາ
-ກ່ຽວກັບການປັ່ນປ່ວນ ແລະ ວົງຈອນ!
+ໂອ້! ແມ່ນແລ້ວ! ໂອ່, ໂອ່. ໂອ່!
 
 257
 00:15:41,150 --> 00:15:46,050
 [SHREK]
 Strong, handsome, face of a leader. Does Arthur look like a King or what?
-ອັນນີ້ມາຈາກໃຜ?
+ເຂັ້ມແຂງ, ງາມ, ມີໃບຫນ້າເປັນຜູ້ນໍາ ອາກຊູເບິ່ງຄືວ່າເປັນກະສັດຫຼືບໍ່?
 
 258
 00:15:46,550 --> 00:15:48,550
 [TEENAGER]
 Ow.
-ດີ, ເມື່ອລາວໄດ້ຮູ້ເທື່ອທໍາອິດ... Shrek ກ່າວວ່າ-
+ໂອ້.
 
 259
 00:15:49,050 --> 00:15:51,050
 [SHREK]
 Oh. Sorry.
-ພຣະຜູ້ເປັນເຈົ້າ, ຜູ້ທີ່ rolled plus 9"dork" spell ແລະເອີ້ນສັດຮ້າຍແລະ
-quadrupeds ຂອງເຂົາ. Shrek the Third - Final Screening Script 35.
+ໂອ້ ຂໍໂທດ.
 
 260
 00:15:51,550 --> 00:15:54,700
 [TEENAGER]
 Did you just say you were looking for Arthur?
-ນີ້ເປັນຊຸດບໍ?
+ເຈົ້າຫາກໍ່ເວົ້າວ່າເຈົ້າກໍາລັງຊອກຫາອັອດເຕີບໍ?
 
 261
 00:15:55,200 --> 00:15:58,350
 [PUSS]
 That information is on a need to know basis.
-ວ່ອງໄວເດັກນ້ອຍ!
+ຂໍ້ມູນນັ້ນ ແມ່ນອີງໃສ່ຄວາມຕ້ອງການທີ່ຈະຮູ້.
 
 262
 00:15:58,850 --> 00:16:00,850
 [DONKEY]
 It's top secret, hushity hush.
-ຂ້ອຍຮູ້ວ່າເຈົ້າມີວຽກເຮັດຢູ່"ບໍ່ເຫມາະສົມ"
-ແຕ່ເຈົ້າທັງສອງສາມາດບອກຂ້ອຍໄດ້ວ່າ ຂ້ອຍຫາອັອດເຕີໄດ້ໃສ?
+ມັນເປັນຄວາມລັບທີ່ສຸດ, ຄວາມງຽບສະຫງົບ.
 
 263
 00:16:01,350 --> 00:16:03,350
 [JOCKS]
 Oy! Right! Ooo! Ooo!
-ແມ່ນແລ້ວ.
+ໂອ໋! ຖືກແລ້ວ! ໂອ໊, ໂອ໊!
 
 264
 00:16:03,850 --> 00:16:06,650
 [SHREK]
 Greetings your majesty. This is your lucky day.
-ແມ່ນແລ້ວ!
+ສະບາຍດີ ພະນະທ່ານ ມື້ນີ້ເປັນມື້ໂຊກດີຂອງທ່ານ
 
 265
 00:16:07,150 --> 00:16:11,000
 [SHREK]
 Oh, ho, ho, ho. Giant mutant leprechaun... You made a funny.
-ກະລຸນາຢ່າຢ່າມາຍຸ້ງກັບຂ້ອຍ!
+ໂອ້, ໂຮ່,ໂຮ່. leprechaun mutant ຍັກໃຫຍ່... ທ່ານໄດ້ເຮັດໃຫ້ມ່ວນ.
 
 266
 00:16:11,500 --> 00:16:13,500
 [SHREK]
 Stop squirming, Arthur.
-ໂອ້! ແມ່ນແລ້ວ! ໂອ່, ໂອ່. ໂອ່!
+ຢຸດສັ່ນສະເທືອນ, ອາທີວ.
 
 267
 00:16:14,000 --> 00:16:16,000
 [LANCELOT]
 I am Lancelot.
-ກິນເຂົາ Shrek yankes ໃນ Artie ແລະ pulls ລາວອອກຈາກ hoop ໄດ້
+ຂ້ອຍແມ່ນລານເຊລອດ.
 
 268
 00:16:16,500 --> 00:16:18,600
 [LANCELOT]
 That dork over there is Arthur!
-ບ້ານເຮືອນ.
+ຄົນຂີ້ເຫຍື້ອທີ່ຢູ່ນັ້ນແມ່ນອັອດເຕີ!
 
 269
 00:16:19,100 --> 00:16:21,100
 [SHREK]
 Hey!
-ແມ່ນແລ້ວ.
+ສະບາຍດີ!
 
 270
 00:16:21,600 --> 00:16:23,600
 [LANCELOT]
 Aaah.
-ແຮະ.
+ແມ່ນແລ້ວ.
 
 271
 00:16:24,100 --> 00:16:29,700
 [GUINEVERRE]
 Ahem! This is like totally embarrassing, but my friend Tiffany thinkest thou vex her so soothly...
-ແມ່ນແລ້ວ!
+ອັນນີ້ຫນ້າອາຍຫຼາຍ, ແຕ່ຫມູ່ເພື່ອນຂອງຂ້າພະເຈົ້າ
+Tiffany ຄິດວ່າທ່ານ vexed ນາງຢ່າງ soothingly...
 
 272
 00:16:30,200 --> 00:16:35,450
 [GUINEVERRE]
 And she thought perchance thou would wanna ask her to the Homecoming Dance or something...
-ໂອໂອ.
+ແລະນາງຄິດວ່າ ບາງທີເຈົ້າອາດຈະຢາກຂໍໃຫ້ນາງໄປເຕັ້ນ ຫຼືບາງສິ່ງບາງຢ່າງ
 
 273
 00:16:35,950 --> 00:16:37,950
 [SHREK]
 Uh, excuse me?
-ຟິໂອນາ?
+ໂອ້, ຂໍໂທດ?
 
 274
 00:16:38,450 --> 00:16:43,350
 [GUINEVERRE]
 It's like whatever. She's just totally into college guys and mythical creatures and stuff.
-ການທໍາຄວາມສະອາດ.
+ມັນຄືຫຍັງກໍຕາມ, ແຕ່ນາງມັກພວກນັກຮຽນ ແລະສັດປ່າ ແລະສິ່ງອື່ນໆ.
 
 275
 00:16:43,850 --> 00:16:47,000
 [SHREK]
 Oh Arthur! Come out, come out wherever you are...
-ເຈົ້າເປັນຫຍັງ?
+ໂອ້ ອາທີຣ໌ ອອກມາ, ອອກມາ ບ່ອນໃດກໍຕາມທີ່ເຈົ້າຢູ່...
 
 276
 00:16:47,500 --> 00:16:53,500
 [DONKEY]
 Yeah, you better run, you little punk no good-niks, `cause the days of "Little Donkey Dumpy Drawers" are over!
-ການຂີ້ຫູດ.
+ແມ່ນແລ້ວ, ເຈົ້າດີກວ່າຈະແລ່ນໄປ, ເຈົ້າເປັນຄົນຂີ້ຮ້າຍນ້ອຍໆ ທີ່ບໍ່ມີຄວາມດີ
+, ເພາະວ່າວັນຂອງ"Little Donkey Dumpy Drawers" ໄດ້ຫມົດໄປແລ້ວ!
 
 277
 00:16:54,000 --> 00:16:56,000
 [HALL MONITOR]
 Hold it...
-(ບໍ່ຢາກເຊື່ອ
+ຢືນໄວ້...
 
 278
 00:16:56,500 --> 00:16:58,600
 [COSTUME STUDENT 1]
 We're here for the Mascot Contest.
-Hook, ກໍາຈັດ"ກະສັດ" ຄົນໃຫມ່ນີ້.
+ພວກເຮົາຢູ່ນີ້ເພື່ອການແຂ່ງຂັນ Mascot.
 
 279
 00:16:59,100 --> 00:17:01,100
 [COSTUME STUDENT 2]
 Grrrrr!
-ຫຼືພະຍາດມະເຮັງ.
+ຂີ້ເຖົ່າ!
 
 280
 00:17:01,600 --> 00:17:04,050
 [SHREK]
 We're here for the Mascot Contest too.
-ຊື່ລາວບໍ່ແມ່ນ ປີເຕີ!
+ພວກເຮົາຍັງຢູ່ນີ້ ສໍາລັບການແຂ່ງຂັນ Mascot ເຊັ່ນກັນ.
 
 281
 00:17:04,550 --> 00:17:06,550
 [HALL MONITOR]
 This is a costume?
-ແຮ່!
+ນີ້ເປັນຊຸດບໍ?
 
 282
 00:17:07,050 --> 00:17:09,500
 [SHREK]
 Aaaiyyyy... worked on it all night long!
-ເກີນໄປແລ້ວ ການລັກລອບ!
+Aaaiyyyy... ເຮັດວຽກມັນຕະຫຼອດຕອນກາງຄືນ!
 
 283
 00:17:10,000 --> 00:17:12,000
 [HALL MONITOR]
 Looks pretty real to me.
-ມີສານພິດ?
+ເບິ່ງຄືວ່າເປັນຈິງແລ້ວ.
 
 284
 00:17:12,500 --> 00:17:15,300
 [PUSS]
 If it were real could I do this?
-ແລະດຽວນີ້, ໂດຍບໍ່ມີການຊັກຊ້າຕໍ່ໄປ, ຂໍໃຫ້ໃຫ້ຄວາມອົບອຸ່ນ
-Worcestershire-hoozah ໃຫ້ຜູ້ຊະນະຂອງພວກເຮົາ"New Mascot" ການແຂ່ງຂັນ...
+ຖ້າມັນເປັນຈິງ ຂ້ອຍສາມາດເຮັດໄດ້ບໍ?
 
 285
 00:17:15,800 --> 00:17:17,800
 [DONKEY]
 Or this?
-ບໍ່ຕ້ອງກັງວົນ, ເຈົ້າຈະປອດໄພດ້ວຍການຊ່ວຍເຫຼືອຂອງທະຫານປ້ອງກັນຕົວ.
+ຫລືນີ້?
 
 286
 00:17:18,300 --> 00:17:22,500
 [SHREK]
 He's right! If it were real that would have been agonizingly painful!
-ແມ່ນແລ້ວ, ຂ້ອຍເປັນແມສໂຄດໃຫມ່, ສະນັ້ນ
-ໃຫ້ພວກເຮົາພະຍາຍາມເອົາຊະນະຄົນອື່ນ... ໃນສິ່ງທີ່ພວກເຂົາກໍາລັງເຮັດ.
+ລາວເວົ້າຖືກ ຖ້າມັນເປັນຈິງ ມັນຈະເປັນການເຈັບປວດຢ່າງຮ້າຍແຮງ!
 
 287
 00:17:23,000 --> 00:17:26,850
 [DONKEY]
 Now watch this.... Shrek the Third - Final Screening Script 40.
-ແຕ່ຂ້ອຍບໍ່ຮູ້ຫຍັງກ່ຽວກັບການເປັນກະສັດ!
+ບັດນີ້ເບິ່ງເລື່ອງນີ້ Shrek the Third-Final Screening Script 40.
 
 288
 00:17:27,350 --> 00:17:29,350
 [GRITTED TEETH)]
 That's quite enough boys.
-ວາວ!! ນີ້ຈະເປັນຂະຫນາດໃຫຍ່. ພັກ, princesses, castles... princeses.
+ພໍແລ້ວ ພວກນ້ອງ.
 
 289
 00:17:29,850 --> 00:17:35,100
 [PRINCIPAL PYNCHLEY]
 Thank you to Professor Primbottom for his invigorating lecture on how to just say "nay".
-ມັນຈະດີເດັ່ນ, Artie ເຈົ້າຈະອາໄສຢູ່ໃນສະພາບຄວາມຫຼູຫຼາ
-ພວກເຂົາມີຜູ້ປຸງແຕ່ງອາຫານທີ່ດີທີ່ສຸດ ຢູ່ອ້ອມຂ້າງລໍຖ້າໃຫ້ເຈົ້າສັ່ງຊື້
+ຂໍຂອບໃຈທ່ານປະລິນຍາເອກ Primbottom
+ສໍາລັບການກ່າວຄໍາປາໄສທີ່ສ້າງກໍາລັງໃຈ ກ່ຽວກັບວິທີເວົ້າ"ບໍ່".
 
 290
 00:17:35,600 --> 00:17:41,600
 [PRINCIPAL PYNCHLEY]
 And now, without further ado, let's give a warm Worcestershire-hoozah to the winner of our "New Mascot" contest... the--
-ເຈົ້າບອກຂ້ອຍວ່າ ເຈົ້າບໍ່ຮູ້ວ່າ Shrek ຢູ່ໃສ?
+ແລະດຽວນີ້, ໂດຍບໍ່ມີການຊັກຊ້າຕໍ່ໄປ, ຂໍໃຫ້ໃຫ້ຄວາມອົບອຸ່ນ
+Worcestershire-hoozah ໃຫ້ຜູ້ຊະນະຂອງພວກເຮົາ"New Mascot" ການແຂ່ງຂັນ...
 
 291
 00:17:42,100 --> 00:17:44,100
 [PRINCIPAL PYNCHLEY]
 --ogre?
-ແມ່ນແລ້ວ!
+- ກຸສົນ?
 
 292
 00:17:44,600 --> 00:17:50,600
 [SHREK]
 That's right. I'm the new mascot. So let's really try and beat the other guys... at whatever it is they're doing.
-ມັນເປັນສໍາລັບເປືອກຫຸ້ມນອກ
+ແມ່ນແລ້ວ, ຂ້ອຍເປັນແມສໂຄດໃຫມ່, ສະນັ້ນ
+ໃຫ້ພວກເຮົາພະຍາຍາມເອົາຊະນະຄົນອື່ນ... ໃນສິ່ງທີ່ພວກເຂົາກໍາລັງເຮັດ.
 
 293
 00:17:51,100 --> 00:17:53,550
 [PRINCIPAL PYNCHLEY]
 This is indeed all a bit unorthodox.
-ເລີ້ມເວົ້າ!
+ນີ້ ແມ່ນຄວາມຈິງແລ້ວວ່າ ມັນບໍ່ຄ່ອຍເປັນແບບປົກກະຕິ
 
 294
 00:17:54,050 --> 00:17:59,300
 [SHREK]
 Now, where can I find Arthur Pendragon? Shrek the Third - Final Screening Script 41.
-ທຸກຄົນຈະຖິ້ມ Beauty.
+ຕອນນີ້, ຂ້ອຍຈະພົບກັບອັອດເຕີ ເພັນດຣາໂກນໄດ້ໃສ?
 
 295
 00:17:59,800 --> 00:18:01,800
 [LANCELOT]
 Classic.
-ແມ່ນແລ້ວ!
+ຄລາສສິກ
 
 296
 00:18:02,300 --> 00:18:04,400
 [DONKEY]
 You should be ashamed of yourself.
-ເພື່ອຄວາມສຸກຕະຫຼອດໄປ!
+ເຈົ້າຄວນອາຍຕົວເອງ.
 
 297
 00:18:04,900 --> 00:18:07,000
 [LANCELOT]
 I didn't do it. They did.
-ໂອ້.
+ຂ້ອຍບໍ່ໄດ້ເຮັດ, ພວກເຂົາເຮັດ.
 
 298
 00:18:07,500 --> 00:18:09,500
 [ARTIE]
 Please don't eat me.
-ແຮະໆໆໆ!
+ກະລຸນາຢ່າຢ່າມາຍຸ້ງກັບຂ້ອຍ!
 
 299
 00:18:10,000 --> 00:18:12,000
 [STUDENTS]
 Eat him! Eat him!
-ເຈົ້າກັບມາທີ່ນີ້ ຊາຍຫນຸ່ມ ແລະຂ້ອຍຫມາຍຄວາມວ່າ!
+ກິນລາວ!
 
 300
 00:18:12,500 --> 00:18:16,700
 [PRINCIPAL PYNCHLEY]
 Eat him! Shrek yanks on Artie and pulls him off the hoop.
-Shrek ແລະ Fiona ຢູ່ໃສ?
+ກິນເຂົາ Shrek yankes ໃນ Artie ແລະ pulls ລາວອອກຈາກ hoop ໄດ້
 
 301
 00:18:17,200 --> 00:18:19,300
 [SHREK]
 I'm not here to eat him.
-ຮາຮາຮະຮາ!
+ຂ້ອຍບໍ່ໄດ້ມາເພື່ອກິນລາວ.
 
 302
 00:18:19,800 --> 00:18:25,750
 [SHREK]
 It's time to pack up your toothbrush and jammies. You're the new King of Far Far Away.
-ດີ, ຂ້ອຍບໍ່ຮູ້ວ່າລາວບໍ່ໄດ້ຢູ່ໃສ.
+ມັນເຖິງເວລາແລ້ວທີ່ຈະຫຸ້ມຫໍ່ຖົງແຂ້ວ ແລະເສື້ອຜ້າຫົ່ມຂອງທ່ານ
+ທ່ານເປັນກະສັດໃຫມ່ຂອງ Far Far Away.
 
 303
 00:18:26,250 --> 00:18:28,250
 [ARTIE]
 What?
-ໂອ້ຫົວຫນ້າ, ຂ້ອຍບໍ່ຄິດວ່າລາວຈະກັບມາ
-ແລະບາງທີມັນອາດຈະເປັນສິ່ງທີ່ດີທີ່ສຸດ.
+ແມ່ນຫຍັງ?
 
 304
 00:18:28,750 --> 00:18:31,900
 [LANCELOT]
 Artie a King? More like the Mayor of Loserville.
-ແມ່ນແລ້ວ!
+ອາຕີ ເປັນກະສັດ? ຫຼາຍກວ່າເຈົ້າເມືອງ Loserville.
 
 305
 00:18:32,400 --> 00:18:34,400
 [BOHORT]
 Nice one Lance!
-ຂ້ອຍຂໍແນະນໍາໃຫ້ພວກເຈົ້າທີ່ໂຫດຮ້າຍຮ່ວມມືກັບກະສັດຄົນໃຫມ່ຂອງ
-Far Far Away.
+ດີເລີດ Lance!
 
 306
 00:18:34,900 --> 00:18:36,900
 [LANCELOT]
 Burn.
-ໂອ້ ຜູ້ຊາຍ.
+ໄຟໄຫມ້
 
 307
 00:18:37,400 --> 00:18:39,400
 [ARTIE]
 Is this for real?
-"ມີຫນຶ່ງກ່ຽວກັບຂ້າພະເຈົ້າ, ຮັກ Snow White"
-Shrek the Third - Final Screening Script 46.
+ນີ້ຈິງບໍ?
 
 308
 00:18:39,900 --> 00:18:44,450
 [SHREK]
 Absolutely. Now clean out your locker, kid. You've got a kingdom to run.
-ຂ້ອຍຮູ້ວ່າ ຂ້ອຍຄວນໄດ້ ຮັບການຮັບປະກັນນັ້ນ!
+ແນ່ນອນ. ບັດນີ້ລ້າງຕູ້ຂອງທ່ານ, ເດັກນ້ອຍ
+. ທ່ານມີອານາຈັກທີ່ຈະດໍາເນີນການ.
 
 309
 00:18:44,950 --> 00:18:47,400
 [ARTIE]
 So wait, I'm really the only heir?
-ໂອ້ ບໍ່, ໃນຄວາມເປັນຈິງ, ກະສັດໄດ້ຖາມທ່ານເອງ.
+ສະນັ້ນລໍຖ້າ, ຂ້ອຍເປັນຜູ້ສືບທອດຄົນດຽວແທ້ບໍ?
 
 310
 00:18:47,900 --> 00:18:49,900
 [SHREK]
 The one and only.
-ແທ້ໆບໍ? ເບິ່ງ, ຂ້ອຍຮູ້ວ່າ ມັນຈະບໍ່ມ່ວນຊື່ນແລະຫຼິ້ນທັງຫມົດ.
+ຄົນດຽວ ແລະ ດຽວ.
 
 311
 00:18:50,400 --> 00:18:52,400
 [ARTIE]
 Give me just a second.
-ເຈົ້າຫນ້າທີ່ຮັກສາຄວາມປອດໄພ?
+ໃຫ້ຂ້ອຍຊົ່ວຄາວດຽວ.
 
 312
 00:18:52,900 --> 00:18:58,900
 [ARTIE]
 My good people, I think there's a lesson here for all of us. Maybe the next time you're about to dunk a kid's head in a chamber pot, you'll stop and think, hey, maybe this guy has feelings. Maybe I should cut him some slack. Because maybe, just maybe... this guy's gonna turn out to be, uh...I dunno...a King! And maybe his first royal decree will be to banish everyone who ever picked on him -- that's right, I'm looking at you, jousting team.
-ແທ້ໆບໍ?
+ຄົນດີໆຂອງຂ້າພະເຈົ້າ, ຂ້າພະເຈົ້າຄິດວ່າມີບົດຮຽນສໍາລັບພວກເຮົາທຸກຄົນ. ບາງທີໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານກໍາລັງຈະຈົມຫົວຂອງເດັກນ້ອຍໃນຖ້ວຍຫ້ອງ, ທ່ານຈະຢຸດແລະຄິດວ່າ, hey, ບາງທີຜູ້ຊາຍນີ້ມີຄວາມຮູ້ສຶກ. ອາດຂ້າພະເຈົ້າຄວນຕັດລາວບາງສ່ວນ.
+ເພາະວ່າບາງທີ, ພຽງແຕ່ບາງທີ... guy ນີ້ຈະກາຍເປັນ, uh... ຂ້າພະເຈົ້າບໍ່ຮູ້... ເປັນກະສັດ! ແລະບາງທີຄໍາສັ່ງຂອງກະສັດທໍາອິດຂອງລາວຈະເປັນການເນລະເທດທຸກຄົນທີ່ເຄີຍ picked ໃນລາວ - ແມ່ນແລ້ວ, ຂ້າພະເຈົ້າກໍາລັງເບິ່ງທ່ານ, ທີມງານ jousting.
 
 313
 00:18:59,400 --> 00:19:02,200
 [ARTIE]
 And Gwen... oh Gwen. I've always loved you.
-ດີ, ຕອນນີ້ເຈົ້າຈະມີເວລາຫຼາຍເພື່ອເຮັດວຽກກ່ຽວກັບການແຕ່ງງານຂອງເຈົ້າ.
+ແລະ ກວີນ... ໂອ ກວິນ, ຂ້ອຍຮັກເຈົ້າຕະຫຼອດມາ.
 
 314
 00:19:02,700 --> 00:19:04,700
 [GUINEVERRE]
 Ew.
-ແມ່ນບໍ? ເຈົ້າເມື່ອຍຕະຫຼອດເວລາ...
+ໂອ້.
 
 315
 00:19:05,200 --> 00:19:11,200
 [ARTIE]
 Well good friends, it breaks my heart, but, enjoy your stay here in prison while I rule the free world baby!
-ໂອ້, ເຈັບປວດຂີ້ເຫຍື້ອ! ເຮີ, ເຈົ້າເປັນແມວທີ່ຫນ້າມ່ວນ.
+ສະບາຍດີ ເພື່ອນໆ ທີ່ຮັກແພງ, ມັນທໍາລາຍຫົວໃຈຂອງຂ້າພະເຈົ້າ, ແຕ່,
+ມີຄວາມສຸກທີ່ພັກຢູ່ທີ່ນີ້ໃນຄຸກໃນຂະນະທີ່ຂ້າພະເຈົ້າປົກຄອງໂລກອິດສະຫຼະເດັກນ້ອຍ!
 
 316
 00:19:11,700 --> 00:19:13,700
 [SHREK]
 Alright, let's not overdo it.
-ຂ້ອຍເວົ້າຫຍັງ?
+ດີ, ໃຫ້ບໍ່ເກີນໄປ.
 
 317
 00:19:14,200 --> 00:19:17,350
 [ARTIE]
 I'm building my city people! On Rock and Roll!
-ໃນທາງກົງກັນຂ້າມ, ຂ້າພະເຈົ້າອາດຈະຫຼາຍຂຶ້ນຫຼືຫນ້ອຍລົງ,
-ບໍ່ແນ່ນອນປະຕິເສດແນວຄວາມຄິດ, ທີ່ບໍ່ມີວິທີໃດໆ, ມີຈໍານວນໃດໆຂອງຄວາມບໍ່ແນ່ນອນວ່າ...
+ຂ້ອຍກໍາລັງສ້າງປະຊາຊົນເມືອງຂອງຂ້ອຍຂຶ້ນ ດ້ວຍດົນຕີ Rock and Roll!
 
 318
 00:19:17,850 --> 00:19:19,850
 [SHREK]
 You just overdid it.
-ມັນເປັນຄວາມລັບສູງສຸດ, ຄວາມງຽບສະຫງົບ.
+ເຈົ້າກະເກີນໄປແລ້ວ.
 
 319
 00:19:20,350 --> 00:19:22,350
 [ARTIE]
 Ow!
-...ຂ້ອຍບໍ່ຕ້ອງປະຕິເສດຫຼືບໍ່ຮູ້ວ່າລາວບໍ່ຄວນຢູ່ບ່ອນໃດ
-. Shrek The Third - Final Screening Script 54.
+ໂອ້!
 
 320
 00:19:22,850 --> 00:19:24,850
 [PRINCESSES]
 Oh!
-ມັນມ່ວນຊື່ນແລະຫຼິ້ນແທ້ໆ, ໃນຄວາມເປັນຈິງ, ແນ່ນອນ, ທ່ານຕ້ອງ knighted heroes
-ບາງ, ປ່ອຍເຮືອຫຼືສອງໂດຍວິທີທາງ, ໃຫ້ແນ່ໃຈວ່າທ່ານຕີເຮືອຢ່າງຖືກຕ້ອງກັບຂວດ.
+ໂອ້!
 
 321
 00:19:25,350 --> 00:19:27,350
 [SNOW WHITE]
 Look at you!
-ໂອ້, ພໍແລ້ວ! Shrek ໄດ້ອອກໄປເພື່ອ ນໍາ ເອົາຜູ້ສືບທອດຕໍ່ໄປ! ໂອ້!
+ເບິ່ງໂຕເຈົ້າ!
 
 322
 00:19:27,850 --> 00:19:29,850
 [RAPUNZEL]
 Wow!
-ໂອ້, ຂ້ອຍສາມາດບອກເຈົ້າໄດ້ ແຕ່ນັບຕັ້ງແຕ່ເຈົ້າຢູ່ໃນກາງຂອງຄວາມໂກດແຄ້ນທີ່ທໍາລາຍຕົນເອງ
-ມັນຈະເປັນການບໍ່ຮັບຜິດຊອບທາງດ້ານ karmic.
+ວາວ!
 
 323
 00:19:30,350 --> 00:19:34,200
 [SNOW WHITE]
 You look darling! Shrek the Third - Final Screening Script 44.
-ຫລືນີ້?
+ທ່ານເບິ່ງຫນ້າຮັກ! Shrek ບົດຂຽນການສະແດງທີສາມ - ສຸດທ້າຍ 44.
 
 324
 00:19:34,700 --> 00:19:36,700
 [SLEEPING BEAUTY]
 Just precious! Look at her!
-ການຖອກທ້ອງ, ການຮ້ອງໄຫ້, ບາດແຜທີ່ຂີ້ເຫຍື້ອ.
+ງາມແທ້ໆ, ເບິ່ງນາງ!
 
 325
 00:19:37,200 --> 00:19:40,700
 [RAPUNZEL]
 So, have you had any cravings since you've been pregnant?
-ໂອ້.
+ສະນັ້ນ, ເຈົ້າມີຄວາມປາຖະຫນາຫຍັງມາຕັ້ງແຕ່ເຈົ້າຖືພາແລ້ວບໍ?
 
 326
 00:19:41,200 --> 00:19:43,200
 [FIONA]
 No, no, not at all.
-ແນ່ນອນ, ແຕ່ຫຼັງຈາກທີ່ທ່ານເດີນທາງໄປສູ່ຈິດວິນຍານຂອງທ່ານ.
+ບໍ່, ບໍ່, ບໍ່ໄດ້ເລີຍ.
 
 327
 00:19:43,700 --> 00:19:45,700
 [FIONA]
 Do you smell ham?
-ດັ່ງນັ້ນເຈົ້າຈຶ່ງຮູ້ວ່າລາວຢູ່ໃສ!
+ເຈົ້າມີກິ່ນຫອມແຊມບໍ?
 
 328
 00:19:46,200 --> 00:19:48,200
 [SNOW WHITE]
 Oooh! It's present time!
-ດີ, ໃຫ້ບໍ່ເກີນໄປ.
+ໂອ້ ມັນເຖິງເວລາແລ້ວ!
 
 329
 00:19:48,700 --> 00:19:53,250
 [CINDERELLA]
 Oh, Fiona, won't you please open mine first? It's the one in front.
-ຈົ່ງເບິ່ງ!
+ໂອ້ ຟິໂອນາ, ເຈົ້າຈະເປີດຂອງຂ້ອຍກ່ອນບໍ່?
 
 330
 00:19:53,750 --> 00:19:58,650
 [FIONA]
 "Congratulations on your new mess maker..." Oh, `mess maker.' "Hopefully this helps. Love, Cinderella."
-ອາຕີ ເປັນກະສັດ?
+"ຊົມເຊີຍກັບຜູ້ສ້າງຄວາມໂສກເສົ້າໃຫມ່ຂອງເຈົ້າ... ໂອ້, ຜູ້ສ້າງຄວາມ
+ໂສກ ເສົ້າ"."ຫວັງວ່າສິ່ງນີ້ຈະຊ່ວຍ. ຮັກ, Cinderella".
 
 331
 00:19:59,150 --> 00:20:01,150
 [PRINCESSES]
 Oooo! Aaaah!
-ພໍ່!
+ໂອໂອ!
 
 332
 00:20:01,650 --> 00:20:03,650
 [DORIS]
 Will you look at that!
-"ໃນເຮືອ Good Ship Lollypop, ມັນເປັນການເດີນທາງທີ່ຫວານຫວານ, ໄປຮ້ານແຊ່ຫວານ
-ບ່ອນທີ່ Bon Bons ຫຼິ້ນ, ຢູ່ຫາດຊາຍທີ່ມີແສງແດດຂອງ Peppermint Bay"..
+ຈົ່ງເບິ່ງ!
 
 333
 00:20:04,150 --> 00:20:08,000
 [SLEEPING BEAUTY]
 What is it? Shrek the Third - Final Screening Script 45.
-ງາມແທ້ໆ, ເບິ່ງນາງ!
+ມັນ ເປັນ ຫຍັງ? Shrek The Third - Final Screening Script 45.
 
 334
 00:20:08,500 --> 00:20:10,500
 [CINDERELLA]
 It's for the poopies.
-ຄລາສສິກ
+ມັນເປັນສໍາລັບເປືອກຫຸ້ມນອກ
 
 335
 00:20:11,000 --> 00:20:13,000
 [SLEEPING BEAUTY]
 Eww. Wait, babies poop?
-ເຈົ້າມີກິ່ນຫອມແຊມບໍ?
+ລໍຖ້າ, ເດັກນ້ອຍ poop?
 
 336
 00:20:13,500 --> 00:20:15,500
 [RAPUNZEL]
 Everyone poops Beauty.
-ບັດນີ້ເບິ່ງທີ່ເຈົ້າໄດ້ເຮັດ!
+ທຸກຄົນຈະຖິ້ມ Beauty.
 
 337
 00:20:16,000 --> 00:20:18,000
 [PIG #2]
 Fiona...
-ຂໍຂອບໃຈ, ຂ້ອຍຫາກໍ່ກິນກ້ອນຫີນໃນທາງເຂົ້າ
-ພວກເຮົາຕ້ອງການທິດທາງກັບຄືນໄປຫາ Far Far Away
+ຟິໂອນາ...
 
 338
 00:20:18,500 --> 00:20:22,000
 [PIG #1]
 Fiona! We all chipped in for a little present too.
-ຮອຍຍືດອອກ!
+ຟີໂອນາ, ພວກເຮົາຍັງມີສ່ວນຮ່ວມ ໃນການຮັບຂອງຂວັນນ້ອຍໆ
 
 339
 00:20:22,500 --> 00:20:24,500
 [PIGS]
 Yah!
-Yort.
+ແມ່ນແລ້ວ!
 
 340
 00:20:25,000 --> 00:20:27,000
 [GINGERBREAD MAN/PINOCCHIO]
 Ta dah!
-ແມ່ນຫຍັງ?
+ແມ່ນແລ້ວ!
 
 341
 00:20:27,500 --> 00:20:29,500
 [PRINCESSES]
 Oooh.
-ໂອ້, ຂໍໂທດ?
+ໂອ້.
 
 342
 00:20:30,000 --> 00:20:33,500
 [GINGERBREAD MAN]
 You know the baby's gonna love it because I do!
-ເອີ້, ອາຕີ?
+ເຈົ້າຮູ້ວ່າລູກຈະມັກມັນ ເພາະຂ້ອຍມັກ!
 
 343
 00:20:34,000 --> 00:20:36,800
 [FIONA]
 Oh, you guys, that's so sweet. Thank you.
-ເດັກນ້ອຍຢູ່ໃສ?
+ໂອ້, ພວກທ່ານ, ມັນຫນ້າຫວານຫຼາຍ. ຂອບໃຈ.
 
 344
 00:20:37,300 --> 00:20:39,300
 [FIONA]
 Who's this one from?
-ໂອ້, ຄໍຂາຂອງຂ້ອຍໄປແລ້ວ.
+ອັນນີ້ມາຈາກໃຜ?
 
 345
 00:20:39,800 --> 00:20:44,000
 [SNOW WHITE]
 I got you the biggest one because I love you the most.
-ໂອເຄ... ຂ້ອຍຄິດວ່າ... ມັນບໍ່ດີເລີຍ.
+ຂ້ອຍເອົາອັນໃຫຍ່ທີ່ສຸດມາໃຫ້ເຈົ້າ ເພາະວ່າຂ້ອຍຮັກເຈົ້າຫຼາຍທີ່ສຸດ.
 
 346
 00:20:44,500 --> 00:20:49,750
 [FIONA]
 "Have one on me, love Snow White" Shrek the Third - Final Screening Script 46.
-ຂ້ອຍຮູ້ ແລະຂ້ອຍຈະຂາດເຂີນລາວ.
+"ມີຫນຶ່ງກ່ຽວກັບຂ້າພະເຈົ້າ, ຮັກ Snow White"
+Shrek the Third - Final Screening Script 46.
 
 347
 00:20:50,250 --> 00:20:52,250
 [FIONA]
 Umm... what is it?
-ຖ້າເຈົ້າຄິດວ່ານະຄອນທີ່ໂຫດຮ້າຍນີ້ ບໍ່ຫນ້າຕື່ນຕາຕື່ນໃຈ, ຂ້ອຍເຂົ້າໃຈເຈົ້າເອີຍ ຂ້ອຍຫມາຍຄວາມວ່າ,
-ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມທີ່ຈະຂຶ້ນໄປໃນ grill ຂອງເຈົ້າ ຫຼືຍົກຫຼັງຄາຂອງເຈົ້າ ຫຼືສິ່ງໃດກໍຕາມ, ແຕ່ສິ່ງທີ່ຂ້ອຍຮ້ອງໄຫ້ແມ່ນ, yo,
+ມັນເປັນຫຍັງ?
 
 348
 00:20:52,750 --> 00:20:55,200
 [SNOW WHITE]
 Ha, haaa! He's a live-in baby- sitter.
-ເຈົ້າຈະຮຽນຮູ້ໃນບ່ອນເຮັດວຽກ!
+ແຮະແຮະ, ລາວເປັນນ້ອງລ້ຽງລູກຢູ່ເຮືອນ.
 
 349
 00:20:55,700 --> 00:20:57,700
 [NANNY DWARF]
 Where's the baby?
-ພວກເຮົາຍັງບໍ່ມີເວລາ. ດຽວນີ້ໄປ!
+ເດັກນ້ອຍຢູ່ໃສ?
 
 350
 00:20:58,200 --> 00:21:01,350
 [FIONA]
 You're too kind, Snow, but I can't accept this.
-ອາຕີ ລໍຖ້າ!
+ເຈົ້າເປັນຄົນໃຈດີຫຼາຍ, Snow, ແຕ່ຂ້ອຍບໍ່ສາມາດຮັບເອົາສິ່ງນີ້ໄດ້.
 
 351
 00:21:01,850 --> 00:21:05,350
 [SNOW WHITE]
 Think nothing of it. I've got six more at home.
-ສະບາຍດີ ເດັກນ້ອຍອະວະກາດຂອງຈັກກະວານ,
-ແລະຍິນດີຕ້ອນຮັບສູ່ວົງຈອນຄວາມສະຫງົບຂອງຂ້າພະເຈົ້າ!
+ຢ່າຄິດຫຍັງເລີຍ ຂ້ອຍມີອີກ 6 ຄົນຢູ່ເຮືອນ
 
 352
 00:21:05,850 --> 00:21:07,850
 [FIONA]
 What does he do?
-ອິອິ, ເປັນຫຍັງຂ້ອຍຈຶ່ງເຮັດແນວນັ້ນ?
-ນອກຈາກນັ້ນ, ລາວຈະດີກວ່າຂ້ອຍ 10 ເທົ່າ.
+ລາວເຮັດຫຍັງ?
 
 353
 00:21:08,350 --> 00:21:10,350
 [CINDERELLA]
 The cleaning.
-ເຈົ້າກະເກີນໄປແລ້ວ.
+ການທໍາຄວາມສະອາດ.
 
 354
 00:21:10,850 --> 00:21:12,850
 [SNOW WHITE]
 The feeding.
-ບັດນີ້ ທຸກທ່ານ ຈົ່ງເບິ່ງໃນ"ໄຟຂອງຄວາມຈິງ"
-ແລະບອກຂ້ອຍວ່າເຈົ້າເຫັນຫຍັງ! ຢາ! ຮາ! ວູລູລຸລູ!
+ການໃຫ້ອາຫານ.
 
 355
 00:21:13,350 --> 00:21:15,350
 [NANNY DWARF]
 The burping.
-ເຈົ້າມີຄວາມຖືກຕ້ອງ, Donkey.
+ການຂີ້ຫູດ.
 
 356
 00:21:15,850 --> 00:21:19,000
 [FIONA]
 So what are Shrek and I supposed to do?
-ໂອ້!
+ຂ້ອຍແລະ Shrek ຈະເຮັດແນວໃດ?
 
 357
 00:21:19,500 --> 00:21:23,700
 [RAPUNZEL]
 Well, now you'll have plenty of time to work on your marriage.
-ໄຟໄຫມ້
+ດີ, ຕອນນີ້ເຈົ້າຈະມີເວລາຫຼາຍເພື່ອເຮັດວຽກກ່ຽວກັບການແຕ່ງງານຂອງເຈົ້າ.
 
 358
 00:21:24,200 --> 00:21:27,350
 [FIONA]
 Gee thanks Rapunzel, and what's that supposed to mean?
-Shrek!
+ຂອບໃຈ Rapunzel, ແລະມັນຫມາຍຄວາມວ່າແນວໃດ?
 
 359
 00:21:27,850 --> 00:21:31,000
 [RAPUNZEL]
 Oh, come on now, Fiona. You know what happens.
-ທ່ານຫມາຍຄວາມວ່າ ໃນການເລືອກຕັ້ງທີ່ຈົບແນ່ນັ້ນ?
+ໂອ້, ມາແລ້ວ ຟີໂອນາ ເຈົ້າຮູ້ວ່າຈະເກີດຫຍັງຂຶ້ນ.
 
 360
 00:21:31,500 --> 00:21:33,600
 [SLEEPING BEAUTY]
 Huh? You're tired all the time...
-ທຸກຄົນເຂົ້າໄປ!
+ແມ່ນບໍ? ເຈົ້າເມື່ອຍຕະຫຼອດເວລາ...
 
 361
 00:21:34,100 --> 00:21:36,100
 [SNOW WHITE]
 You'll start letting yourself go...
-ວາວ!
+ເຈົ້າຈະເລີ່ມປ່ອຍຕົວໄປ...
 
 362
 00:21:36,600 --> 00:21:38,600
 [GINGERBREAD MAN]
 Stretch marks!
-ຕໍ່ໄປຫມູ່ເພື່ອນໃຫມ່ໆ ຂອງຂ້າພະເຈົ້າ
-Shrek ຕອນທີສາມ - ການສະແດງສຸດທ້າຍ 48
+ຮອຍຍືດອອກ!
 
 363
 00:21:39,100 --> 00:21:41,100
 [RAPUNZEL]
 Say goodbye to romance.
-ພຽງແຕ່ຄິດວ່າຂ້ອຍອາດຊ່ວຍສ້າງບັນຍາກາດໄດ້
-ສໍາລັບການສົນທະນາກ່ຽວກັບຫົວໃຈໃຫຍ່ຂອງເຈົ້າ
+ໃຫ້ສາລາກັບຄວາມຮັກ.
 
 364
 00:21:41,600 --> 00:21:43,600
 [DRAGON]
 Yort.
-ຄົນດຽວ ແລະ ດຽວ.
+Yort.
 
 365
 00:21:44,100 --> 00:21:47,250
 [FIONA]
 Um sorry... but how many of you have kids?
-ຄົນດີໆຂອງຂ້າພະເຈົ້າ, ຂ້າພະເຈົ້າຄິດວ່າມີບົດຮຽນສໍາລັບພວກເຮົາທຸກຄົນ. ບາງທີໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານກໍາລັງຈະຈົມຫົວຂອງເດັກນ້ອຍໃນຖ້ວຍຫ້ອງ, ທ່ານຈະຢຸດແລະຄິດວ່າ, hey, ບາງທີຜູ້ຊາຍນີ້ມີຄວາມຮູ້ສຶກ. ອາດຂ້າພະເຈົ້າຄວນຕັດເຂົາບາງໆ.
-ເພາະວ່າບາງທີ, ພຽງແຕ່ບາງທີ... guy ນີ້ຈະກາຍເປັນ, uh... ຂ້າພະເຈົ້າບໍ່ຮູ້... ເປັນກະສັດ! ແລະບາງທີຄໍາສັ່ງຂອງກະສັດທໍາອິດຂອງລາວຈະເປັນການເນລະເທດທຸກຄົນທີ່ເຄີຍ picked ໃນລາວ - ແມ່ນແລ້ວ, ຂ້າພະເຈົ້າກໍາລັງເບິ່ງທ່ານ, ທີມງານ jousting.
+ຂໍໂທດ... ແຕ່ພວກເຈົ້າມີລູກເທົ່າໃດ?
 
 366
 00:21:47,750 --> 00:21:53,750
 [DORIS]
 She's right. A baby is only gonna strengthen the love that Shrek and Fiona have. How did Shrek react when you told him? Tell me!
-Shrek!
+ນາງເວົ້າຖືກ ເດັກນ້ອຍຈະເສີມຂະຫຍາຍຄວາມຮັກທີ່ Shrek ແລະ
+Fiona ມີແນວໃດ Shrek ຕອບໂຕ້ເມື່ອທ່ານບອກລາວ? ບອກຂ້ອຍ!
 
 367
 00:21:54,250 --> 00:21:56,700
 [FIONA]
 Well, when he first found out...Shrek said-
-ແມ່ນແລ້ວ, ຂ້ອຍເຂົ້າໃຈແລ້ວ
+ດີ, ເມື່ອລາວໄດ້ຮູ້ເທື່ອທໍາອິດ... Shrek ກ່າວວ່າ-
 
 368
 00:21:57,200 --> 00:21:59,200
 [DRAGON]
 Roarrr!
-ມັນຫນ້າອັບອາຍຫຼາຍ...
+roarrr!
 
 369
 00:21:59,700 --> 00:22:03,900
 [PRINCE CHARMING]
 Onward my new friends. Shrek the Third - Final Screening Script 48.
-ໂອ, ໂອ,ໂອ,ໂອ.
+ຕໍ່ໄປຫມູ່ເພື່ອນໃຫມ່ຂອງຂ້າພະເຈົ້າ
+Shrek ຕອນທີສາມ - ການສະແດງສຸດທ້າຍ 48
 
 370
 00:22:04,400 --> 00:22:07,900
 [PRINCE CHARMING]
 To our happily ever afters! Ha ha ha ha ha!
-ນາງເວົ້າຖືກ ເດັກນ້ອຍຈະເສີມຂະຫຍາຍຄວາມຮັກທີ່ Shrek ແລະ
-Fiona ມີແນວໃດ Shrek ຕອບໂຕ້ເມື່ອທ່ານບອກລາວ? ບອກຂ້ອຍ!
+ເພື່ອຄວາມສຸກຕະຫຼອດໄປ!
 
 371
 00:22:08,400 --> 00:22:10,400
 [PRINCE CHARMING]
 Gaa! Gulp! Ahhhh!
-ເຈົ້າເຮັດຫຍັງ?
+ແຮ່! ແຮ້!
 
 372
 00:22:10,900 --> 00:22:12,900
 [PRINCE CHARMING]
 Now, bombs away!
-ມັນບໍ່ຂຶ້ນກັບເຈົ້າແທ້ໆ!
+ດຽວນີ້, ລະເບີດໄປ!
 
 373
 00:22:13,400 --> 00:22:15,500
 [EVIL TREES]
 Ha ha ha ha ha ha!
-ແຕ່ຫລັງຈາກນັ້ນ ເຈົ້າຈະຮຽນຮູ້ທີ່ຈະບໍ່ສົນໃຈຊື່ທີ່ຄົນອື່ນເອີ້ນເຈົ້າ
-ແລະເຈົ້າຈະໄວ້ວາງໃຈວ່າເຈົ້າເປັນໃຜ.
+ຮາຮາຮ່າຮ່າ!
 
 374
 00:22:16,000 --> 00:22:18,800
 [CAPTAIN HOOK]
 Well, well, well. If it isn't Peter Pan.
-ພວກເຮົາຈະຢັບຢັ້ງພວກມັນດົນເທົ່າທີ່ພວກເຮົາສາມາດ!
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ. ຖ້າບໍ່ແມ່ນ Peter Pan.
 
 375
 00:22:19,300 --> 00:22:21,300
 [MOTHER]
 His name's not Peter!
-ທ່ານພຽງແຕ່ຈໍາເປັນຕ້ອງຮ້ອງໄຫ້ຫນ້ອຍລົງ ແລະໃຊ້ສະບູຕື່ມອີກຫນ້ອຍຫນຶ່ງ
-. Shrek the Third - Final Screening Script 69.
+ຊື່ລາວບໍ່ແມ່ນ ປີເຕີ!
 
 376
 00:22:21,800 --> 00:22:23,800
 [CAPTAIN HOOK]
 Shut it, Wendy!
-ສະບູແມ່ນຍ້ອນທ່ານກິ່ນຫອມ.
+ປິດປາກ, ເວນດີ!
 
 377
 00:22:24,300 --> 00:22:26,300
 [MOTHER]
 Ahhh!
-ລາວເຮັດຫຍັງ?
+ແຮ່!
 
 378
 00:22:26,800 --> 00:22:28,800
 [CYCLOPS]
 Ha, ha, ha, ha!
-ການໃຫ້ອາຫານ.
+ຮາຮາ ຮາ
 
 379
 00:22:29,300 --> 00:22:31,300
 [PRINCE CHARMING]
 Enough pillaging! To the castle!
-ກະສັດ Charming ມີບາງສິ່ງບາງຢ່າງພິເສດໃນຈິດໃຈສໍາລັບທ່ານ, ogre.
+ເກີນໄປແລ້ວ ການລັກລອບ!
 
 380
 00:22:31,800 --> 00:22:33,800
 [DRAGON]
 Roarrrr!
-"ກະສັດທີ່ຫນ້າຮັກ"
+ໂຣຣ!
 
 381
 00:22:34,300 --> 00:22:37,100
 [GINGERBREAD MAN]
 You go and take care of the baby!
-ແມ່ຍິງເອີຍ, ໃຫ້ລືມຄໍາຮ້ອງທຸກນ້ອຍໆ ແລະໃຫ້ພວກເຮົາເຮັດວຽກຮ່ວມກັນ.
+ເຈົ້າໄປເບິ່ງແຍງລູກ!
 
 382
 00:22:37,600 --> 00:22:40,400
 [SNOW WHITE]
 Everybody stay calm. We're all going to die!
-ບໍ່!
+ທຸກຄົນໃຫ້ສະຫງົບ, ພວກເຮົາທຸກຄົນຈະຕາຍ!
 
 383
 00:22:40,900 --> 00:22:46,150
 [SNOW WHITE]
 Fiona rushes to the fireplace and pushes it to one side, revealing an underground passageway.
-ຄົນນຶ່ງລົງຈອດ ແລະມີຕີນຕິດຢູ່ໃນດິນ.
+Fiona ແລ່ນໄປຫາເຕົາໄຟແລະຂັບມັນໄປຂ້າງ ຫນຶ່ງ, ເປີດເຜີຍທາງຜ່ານໃຕ້ດິນ.
 
 384
 00:22:46,650 --> 00:22:48,650
 [FIONA]
 Everyone in! Now.
-ອາຕີ, ດັກ!
+ທຸກຄົນເຂົ້າໄປ!
 
 385
 00:22:49,150 --> 00:22:51,600
 [PRINCE CHARMING]
 C'mon. Put some back into it people!
-ຂ້ອຍຮູ້ວ່າເຈົ້າຢາກໃຫ້ຂ້ອຍເປັນກະສັດ ແຕ່ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້
-ຂ້ອຍບໍ່ໄດ້ຖືກສ້າງຂຶ້ນມາສໍາລັບມັນ ແລະຂ້ອຍຈະບໍ່ເຄີຍເປັນໄດ້, ດີບໍ?
+ເລີຍ, ເອົາໄປໃສ່ກັນແດ່!
 
 386
 00:22:52,100 --> 00:22:54,100
 [CYCLOPS]
 Yee-haw! Ow.
-ໂຣກລະບາດເປັນອັນຕະລາຍ Shrek The Third - Final Screening Script 57
+Yee-haw! ໂອ້.
 
 387
 00:22:54,600 --> 00:22:56,700
 [FIONA]
 We don't have time. Now go!
-ຮາຮາ!
+ພວກເຮົາຍັງບໍ່ມີເວລາ. ດຽວນີ້ໄປ!
 
 388
 00:22:57,200 --> 00:22:59,200
 [QUEEN]
 Quickly ladies!
-ປິດປາກ, ເວນດີ!
+ວ່ອງໄວເດັກນ້ອຍ!
 
 389
 00:22:59,700 --> 00:23:02,850
 [GINGERBREAD MAN]
 We'll hold them off as long as we can!
-ລາວຈະບໍ່ຕົກຕາມການຫຼອກລວງຂອງທ່ານ!
+ພວກເຮົາຈະຢັບຢັ້ງພວກມັນດົນເທົ່າທີ່ພວກເຮົາສາມາດ!
 
 390
 00:23:03,350 --> 00:23:05,350
 [PRINCE CHARMING]
 Where are Shrek and Fiona?
-ກະກຽມກະດານ!
+Shrek ແລະ Fiona ຢູ່ໃສ?
 
 391
 00:23:05,850 --> 00:23:07,850
 [GINGERBREAD MAN]
 Name doesn't ring a bell.
-ຮາຮາ ຮາ
+ຊື່ບໍ່ບອກຫຍັງ.
 
 392
 00:23:08,350 --> 00:23:10,350
 [PIG #1]
 Yah!
-ເອີ່!
+ແມ່ນແລ້ວ!
 
 393
 00:23:10,850 --> 00:23:12,850
 [PIG #2]
 No bell!
-ຊ່ວຍ ເຫລືອ!
+ບໍ່ມີດັງ!
 
 394
 00:23:13,350 --> 00:23:17,900
 [PRINCE CHARMING]
 I suggest you freaks cooperate with the new King of Far Far Away.
-Shrek ຈະກັບມາອີກບໍ່ດົນ Charming, ແລະເຈົ້າຈະເສຍໃຈ.
+ຂ້ອຍຂໍແນະນໍາໃຫ້ພວກເຈົ້າທີ່ໂຫດຮ້າຍຮ່ວມມືກັບກະສັດຄົນໃຫມ່ຂອງ
+Far Far Away.
 
 395
 00:23:18,400 --> 00:23:23,300
 [GINGERBREAD MAN]
 The only thing you're ever gonna be King of is "King of the Stupids."
-ໂຣຣ!
+ສິ່ງດຽວທີ່ເຈົ້າຈະເປັນກະສັດນັ້ນ ແມ່ນ"ກະສັດຂອງຄົນໂງ່ໆ".
 
 396
 00:23:23,800 --> 00:23:25,800
 [PRINCE CHARMING]
 Hook!
-ແມ່ນແລ້ວ!
+ຮຸກ!
 
 397
 00:23:26,300 --> 00:23:28,300
 [CAPTAIN HOOK]
 Right!
-ຫຼື ເກືອເກີນໄປ!
+ແມ່ນແລ້ວ!
 
 398
 00:23:28,800 --> 00:23:30,800
 [CAPTAIN HOOK]
 Avast, ye cookie!
-ຂໍໂທດ, ເຈົ້າບໍ່ຮູ້ວ່າ... ເມື່ອ Shrek
-ບາດກ້າວໄປສູ່ Far Far Away ລາວຈະຖືກປະຫານ?
+Avast, ທ່ານ cookie!
 
 399
 00:23:31,300 --> 00:23:33,300
 [CAPTAIN HOOK]
 Start talkin'!
-Rapunzel ລໍຖ້າ!
+ເລີ້ມເວົ້າ!
 
 400
 00:23:33,800 --> 00:23:36,950
 [MUFFIN MAN]
 Gingy! Shrek the Third - Final Screening Script 52.
-ທ່ານຮູ້ຈັກຄົນນີ້ບໍ?
+Gingy! Shrek The Third - Final
+Screening Script 52 ການສະແດງຮູບເງົາ
 
 401
 00:23:37,450 --> 00:23:39,450
 [GINGERBREAD MAN]
 Papa!
-ແຕ່ເປັນຫຍັງຂ້ອຍຈຶ່ງຢາກເຮັດແນວນັ້ນ?
+ພໍ່!
 
 402
 00:23:39,950 --> 00:23:41,950
 [TEACHER]
 Settle down, now.
-ຂ້າເຂົາຫມົດທຸກຄົນ ຍົກເວັ້ນຄົນໄຂມັນ
+ສະບາຍດີ, ດຽວນີ້.
 
 403
 00:23:42,450 --> 00:23:48,450
 [GINGERBREAD MAN]
 "On the Good Ship Lollypop, It's a sweet trip, To the candy shop, Where the Bon Bons play, On the sunny beach of Peppermint Bay.."
-ຮຸກ!
+"ໃນເຮືອ Good Ship Lollypop, ມັນເປັນການເດີນທາງທີ່ຫວານຫວານ, ໄປຮ້ານແຊ່ຫວານ
+ບ່ອນທີ່ Bon Bons ຫຼິ້ນ, ໃນຫາດຊາຍທີ່ມີແສງແດດຂອງ Peppermint Bay"..
 
 404
 00:23:48,950 --> 00:23:52,800
 [PRINCE CHARMING]
 You! You can't lie. So tell me puppet... Where is Shrek?!
-Avast, ທ່ານ cookie!
+ທ່ານ! ທ່ານບໍ່ສາມາດຕົວະໄດ້.
+ສະນັ້ນບອກຂ້າພະເຈົ້າ Puppet... ບ່ອນ Shrek ໄດ້?!
 
 405
 00:23:53,300 --> 00:23:55,750
 [PINOCCHIO]
 Well, I don't know where he's not.
-Gingy! Shrek The Third - Final
-Screening Script 52 ການສະແດງຮູບເງົາ
+ດີ, ຂ້ອຍບໍ່ຮູ້ວ່າລາວບໍ່ມີຢູ່ໃສ.
 
 406
 00:23:56,250 --> 00:23:59,400
 [PRINCE CHARMING]
 You're telling me you don't know where Shrek is?
-ພວກເຮົາຕ້ອງຊ່ວຍນາງ!
+ເຈົ້າບອກຂ້ອຍວ່າ ເຈົ້າບໍ່ຮູ້ວ່າ Shrek ຢູ່ໃສ?
 
 407
 00:23:59,900 --> 00:24:05,900
 [PINOCCHIO]
 It wouldn't be inaccurate to assume that I couldn't exactly not say that is or isn't almost partially incorrect.
-ດີ, Monster, ໃຫ້ມັນ.
+ມັນບໍ່ແມ່ນຄວາມບໍ່ຖືກຕ້ອງທີ່ຈະສົມມຸດວ່າຂ້ອຍບໍ່ສາມາດບໍ່ເວົ້າແນ່ນອນວ່າແມ່ນຫຼືບໍ່ແມ່ນເກືອບບໍ່ຖືກຕ້ອງບາງສ່ວນ
+.
 
 408
 00:24:06,400 --> 00:24:08,850
 [PRINCE CHARMING]
 So you do know where he is!
-ດຽວນີ້, ຂ້າພະເຈົ້າສາມາດສົນໃຈໃຜໃນອາຫານຫວ່າງຫຼືເຄື່ອງດື່ມໄດ້ບໍ?
+ດັ່ງນັ້ນເຈົ້າຈຶ່ງຮູ້ວ່າລາວຢູ່ໃສ!
 
 409
 00:24:09,350 --> 00:24:15,350
 [PINOCCHIO]
 On the contrary, I'm possibly more or less, not definitely rejecting the idea, that in no way, with any amount of uncertainty that...
-Uh, ບໍ່.
+ໃນທາງກົງກັນຂ້າມ, ຂ້າພະເຈົ້າອາດຈະຫຼາຍຂຶ້ນຫຼືຫນ້ອຍລົງ,
+ບໍ່ແນ່ນອນປະຕິເສດແນວຄວາມຄິດ, ທີ່ບໍ່ມີວິທີໃດໆ, ມີຈໍານວນໃດໆຂອງຄວາມບໍ່ແນ່ນອນວ່າ...
 
 410
 00:24:15,850 --> 00:24:17,850
 [PRINCE CHARMING]
 Stop it.
-ໄກໄກ... ຈາກເຈົ້າ!
+ຢຸດເຊົາ.
 
 411
 00:24:18,350 --> 00:24:24,350
 [PINOCCHIO]
 ...I undeniably do or do not know where he shouldn't probably be. Shrek the Third - Final Screening Script 54.
-ດຽວນີ້, ລະເບີດໄປ!
+...ຂ້ອຍບໍ່ຕ້ອງປະຕິເສດຫຼືບໍ່ຮູ້ວ່າລາວບໍ່ຄວນຢູ່ບ່ອນໃດ
+. Shrek The Third - Final Screening Script 54.
 
 412
 00:24:24,850 --> 00:24:30,850
 [PINOCCHIO]
 If that indeed wasn't where he isn't. Even if he wasn't not where I knew he was could mean that I wouldn't completely not know where he wasn't.
-ຊື່ບໍ່ບອກຫຍັງ.
+ຖ້າມັນບໍ່ແມ່ນບ່ອນທີ່ລາວບໍ່ຢູ່ ເຖິງແມ່ນວ່າລາວບໍ່ຢູ່ໃນບ່ອນທີ່ຂ້ອຍຮູ້ວ່າມັນອາດຈະ
+ຫມາຍ ຄວາມວ່າຂ້ອຍຈະບໍ່ບໍ່ຮູ້ວ່າລາວຢູ່ໃສ.
 
 413
 00:24:31,350 --> 00:24:35,550
 [PIG #1]
 Oh, enough! Shrek went off to bring back the next heir! Oh!
-ດີ, ມີນົກນ້ອຍ ແລະ ນົກພໍ່ ນັ່ງຢູ່ໃນຮົ້ວ.
+ໂອ້, ພໍແລ້ວ! Shrek ໄດ້ອອກໄປເພື່ອ ນໍາ ເອົາຜູ້ສືບທອດຕໍ່ໄປ! ໂອ້!
 
 414
 00:24:36,050 --> 00:24:38,150
 [PRINCE CHARMING]
 He's bringing back the next heir?
-ບໍ່ມີດັງ!
+ລາວຈະນໍາເອົາຜູ້ສືບທອດຄົນຕໍ່ໄປກັບຄືນມາ?
 
 415
 00:24:38,650 --> 00:24:40,650
 [PINOCCHIO]
 No!
-ເມື່ອໃດທ່ານວາງແຜນທີ່ຈະບອກລາວວ່າ ທ່ານຄວນຈະເປັນກະສັດແທ້ໆ?
+ບໍ່!
 
 416
 00:24:41,150 --> 00:24:43,600
 [PRINCE CHARMING]
 Hook! Get rid of this new "King."
-ລໍຖ້າ, ພໍ່ໄດ້ບິນໄປແລ້ວ ເປັນຫຍັງລາວຈຶ່ງປະຖິ້ມນົກນ້ອຍຢູ່ຄົນດຽວ?
+Hook, ກໍາຈັດ"ກະສັດ" ຄົນໃຫມ່ນີ້.
 
 417
 00:24:44,100 --> 00:24:46,100
 [CAPTAIN HOOK]
 Right!
-ຂ້ອຍບໍ່ເຊື່ອໄດ້... ຂ້ອຍເປັນກະສັດ? ຂ້ອຍ... ຂ້ອຍຫມາຍຄວາມວ່າ ຂ້ອຍຮູ້ວ່າ
-ຂ້ອຍມາຈາກຄອບຄົວລາດຊະວົງ ແລະສິ່ງອື່ນໆ, ແຕ່ຂ້ອຍຄິດວ່າທຸກຄົນລືມຂ້ອຍ.
+ແມ່ນແລ້ວ!
 
 418
 00:24:46,600 --> 00:24:51,150
 [PRINCE CHARMING]
 But bring Shrek to me. I have something special in mind for him.
-ຂ້ອຍເວົ້າວ່າ ລືມມັນ!
+ແຕ່ນໍາ Shrek ມາຫາຂ້ອຍ ຂ້ອຍມີສິ່ງພິເສດສໍາລັບລາວ
 
 419
 00:24:51,650 --> 00:24:53,750
 [PINOCCHIO]
 He'll never fall for your tricks!
-ທຸກຄົນພ້ອມທີ່ຈະເສຍຊີວິດເພື່ອຄວາມຮັກແພງທ່ານ.
+ລາວຈະບໍ່ຕົກຕາມການຫຼອກລວງຂອງເຈົ້າ!
 
 420
 00:24:54,250 --> 00:24:56,250
 [WOLF]
 Oh boy.
-ແລະພວກເຂົາຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ ເພື່ອເອົາພວກມັນກັບມາ!
+ໂອ້ ຜູ້ຊາຍ.
 
 421
 00:24:56,750 --> 00:25:02,750
 [ARTIE]
 I can't believe it... me a King? I...I mean I knew I came from royalty and all, but I just figured everyone forgot about me.
-ນີ້ເປັນເລື່ອງທີ່ໂສກເສົ້າ.
+ຂ້ອຍບໍ່ເຊື່ອໄດ້... ຂ້ອຍເປັນກະສັດ? ຂ້ອຍ... ຂ້ອຍຫມາຍຄວາມວ່າ ຂ້ອຍຮູ້ວ່າ
+ຂ້ອຍມາຈາກຄອບຄົວລາດຊະວົງ ແລະສິ່ງອື່ນໆ, ແຕ່ຂ້ອຍຄິດວ່າທຸກຄົນລືມຂ້ອຍ.
 
 422
 00:25:03,250 --> 00:25:06,750
 [SHREK]
 Oh no, in fact, the King asked for you personally.
-ກັບໄປເຮັດຫຍັງ? ເປັນຄົນເສຍໃຈ?!
+ໂອ້ ບໍ່, ໃນຄວາມເປັນຈິງ, ກະສັດໄດ້ຖາມທ່ານເອງ.
 
 423
 00:25:07,250 --> 00:25:11,800
 [ARTIE]
 Really? Wow! Look, I know it's not all gonna be fun and games.
-ເຈົ້າໂງ່! ດຽວນີ້ໄປເຮັດມັນ.
+ແທ້ໆບໍ? ເບິ່ງ, ຂ້ອຍຮູ້ວ່າ ມັນຈະບໍ່ມ່ວນຊື່ນແລະຫຼິ້ນທັງຫມົດ.
 
 424
 00:25:12,300 --> 00:25:18,300
 [SHREK]
 It really is all fun and games, actually. Sure, you have to knight a few heroes, launch a ship or two. By the way, make sure you hit the boat just right with the bottle.
-ແມ່ນແລ້ວ! ຢືນຢູ່ກັບມັນ! ຢຸດຢູ່ໃນມັນ!
+ມັນມ່ວນຊື່ນແລະຫຼິ້ນແທ້ໆ, ໃນຄວາມເປັນຈິງ, ແນ່ນອນ, ທ່ານຕ້ອງ knight ບາງ
+heroes, ປ່ອຍເຮືອຫຼືສອງໂດຍວິທີການ, ໃຫ້ແນ່ໃຈວ່າທ່ານຕີເຮືອຢ່າງຖືກຕ້ອງກັບຂວດ.
 
 425
 00:25:18,800 --> 00:25:23,350
 [ARTIE]
 Boat with the bottle? Any idiot can hit a boat with a bottle.
-ທ່ານເມີລິນ ກະລຸນາ ຂ້າພະເຈົ້າຮູ້ວ່າທ່ານສາມາດ
+ເຮືອທີ່ມີຂວດ? ຄົນໂງ່ທຸກຄົນສາມາດຕີເຮືອດ້ວຍຂວດໄດ້.
 
 426
 00:25:23,850 --> 00:25:26,650
 [SHREK]
 Well, I've heard it's harder than it looks.
-ພວກເຮົາຍັງບໍ່ຢາກໃຫ້ Artie ໄດ້ຮັບຄວາມຄິດຜິດ.
+ດີ, ຂ້ອຍໄດ້ຍິນວ່າມັນຍາກກວ່າທີ່ມັນເບິ່ງ.
 
 427
 00:25:27,150 --> 00:25:30,650
 [ARTIE]
 Whoa!! This is gonna be huge. Parties, princesses, castles... princesses.
-Charming ເຮັດຫຍັງກັບ Fiona?
+ວາວ!! ນີ້ຈະເປັນຂະຫນາດໃຫຍ່. ພັກ, princesses, castles... princeses.
 
 428
 00:25:31,150 --> 00:25:37,150
 [DONKEY]
 It's gonna be great, Artie. You'll be living in the lap of luxury. They got the finest chefs around waiting for you to place your order.
-ຢຸດເຊົາ.
+ມັນຈະດີເດັ່ນ, Artie ເຈົ້າຈະອາໄສຢູ່ໃນສະພາບຄວາມຫຼູຫຼາ
+ພວກເຂົາມີຜູ້ປຸງແຕ່ງອາຫານທີ່ດີທີ່ສຸດ ຢູ່ອ້ອມຂ້າງລໍຖ້າໃຫ້ເຈົ້າສັ່ງຊື້
 
 429
 00:25:37,650 --> 00:25:43,250
 [PUSS]
 And fortunately you'll have the royal food tasters. Shrek the Third - Final Screening Script 56.
-ຖ້າ ຫາກ ວ່າ ແທ້ ຈິງ ແລ້ວ ມັນ ບໍ່ ແມ່ນ ບ່ອນ ທີ່ ລາວ ບໍ່ ຢູ່ ເຖິງ ແມ່ນ ວ່າ ເຂົາ ບໍ່ ຢູ່ ບ່ອນ ທີ່ ຂ້າ ພະ ເຈົ້າ
-ຮູ້ ວ່າ ເຂົາ ຢູ່ ອາດ ຈະ ຫມາຍ ຄວາມ ວ່າ ຂ້າ ພະເຈົ້າ ຈະ ບໍ່ ໄດ້ ບໍ່ ຮູ້ ຈັກ ຢ່າງ ເຕັມ ທີ່ ວ່າ ເພິ່ນ ບໍ່ ຢູ່.
+ແລະໂຊກດີທີ່ເຈົ້າຈະມີຜູ້ຊົມອາຫານຂອງກະສັດ
+Shrek the Third - Final Screening Script 56.
 
 430
 00:25:43,750 --> 00:25:46,200
 [ARTIE]
 ) Oh yeah? What do they do?
-ຂ້ອຍຮູ້ສຶກເສຍໃຈແທ້ໆ.
+ແມ່ນແລ້ວ, ເຂົາເຈົ້າເຮັດຫຍັງ?
 
 431
 00:25:46,700 --> 00:25:51,600
 [PUSS]
 They taste the food before the King eats, to make sure it's not poisoned.
-ໂອ້, ນັ້ນແມ່ນບາງຊະນິດຂອງ crack ກ່ຽວກັບ ogres? ທ່ານເອົາຄວາມສູງສຸດຂອງລາຊະອານາຈັກຂອງທ່ານໄປ
-Far Far Away ກ່ອນທີ່ຂ້າພະເຈົ້າ kick ມັນ. ຕອນນີ້ຂ້າພະເຈົ້າ kick ທາງໃດ?
+ເຂົາເຈົ້າຊົມອາຫານ ກ່ອນທີ່ກະສັດຈະກິນ
+ເພື່ອໃຫ້ແນ່ໃຈວ່າ ມັນບໍ່ຖືກພິດ.
 
 432
 00:25:52,100 --> 00:25:54,100
 [ARTIE]
 Poisoned?
-ຢາaaaaaaay!
+ມີສານພິດ?
 
 433
 00:25:54,600 --> 00:25:56,600
 [SHREK]
 Or too salty!
-ໂກດແຄ້ນຫຼາຍບໍ?
+ຫຼື ເກືອເກີນໄປ!
 
 434
 00:25:57,100 --> 00:26:02,700
 [DONKEY]
 Don't worry about it. You'll be safe and sound with the help of your body guards.
-ໂອ້ ຜູ້ຊາຍ, ຂ້ອຍບໍ່ເຄີຍເດີນທາງແບບນີ້ນັບຕັ້ງແຕ່ມະຫາວິທະຍາໄລ.
+ຢ່າກັງວົນ, ເຈົ້າຈະປອດໄພດ້ວຍການຊ່ວຍເຫຼືອຂອງທະຫານປ້ອງກັນຕົວ.
 
 435
 00:26:03,200 --> 00:26:05,200
 [ARTIE]
 Body guards?
-ເບິ່ງ, ເຈົ້າຈະຊ່ວຍພວກເຮົາຫຼືບໍ່ Shrek
-The Third-Final Screening Script 65.
+ເຈົ້າຫນ້າທີ່ຮັກສາຄວາມປອດໄພ?
 
 436
 00:26:05,700 --> 00:26:11,700
 [PUSS]
 All of them, willing at a moment's notice to lay down their own lives out of devotion to you.
-ມັນຈະບໍ່ຜິດທີ່ຈະສົມມຸດວ່າຂ້ອຍບໍ່ສາມາດບໍ່ເວົ້າໄດ້ວ່າແມ່ນຫຼືບໍ່ແມ່ນບໍ່ຖືກຕ້ອງບາງສ່ວນ
-.
+ທຸກຄົນພ້ອມທີ່ຈະເສຍຊີວິດເພື່ອຄວາມຮັກແພງທ່ານ.
 
 437
 00:26:12,200 --> 00:26:14,200
 [ARTIE]
 Really?
-ສະບາຍດີ, ດຽວນີ້.
+ແທ້ໆບໍ?
 
 438
 00:26:14,700 --> 00:26:19,250
 [PUSS]
 Si, and the whole kingdom will look to you for wisdom and guidance.
-ມັນເປັນຊີວະພາບ!
+ແມ່ນແລ້ວ, ແລະອານາຈັກທັງ ຫມົດ
+ຈະມຸ່ງໄປຫາທ່ານເພື່ອຄວາມສະຫຼາດແລະການຊີ້ ນໍາ.
 
 439
 00:26:19,750 --> 00:26:22,550
 [DONKEY]
 Just make sure they don't die of famine.
-ໂອ້.
+ພຽງແຕ່ໃຫ້ແນ່ໃຈວ່າ ພວກເຂົາຈະບໍ່ຕາຍ ຍ້ອນຄວາມອຶດຫິວ.
 
 440
 00:26:23,050 --> 00:26:25,050
 [PUSS]
 Or plague.
-ເບິ່ງຂ້ອຍເຮັດຫຍັງແດ່ ໃຜຄວບຄຸມຫົວຫນ້າລົດ?
+ຫຼືພະຍາດມະເຮັງ.
 
 441
 00:26:25,550 --> 00:26:29,750
 [DONKEY]
 Oh, plague is bad. Shrek the Third - Final Screening Script 57.
-ໂອ້, ເຈົ້າຈະຮຽນຮູ້ທີ່ຈະຄວບຄຸມມັນ.
+ໂຣກລະບາດເປັນອັນຕະລາຍ Shrek The Third - Final Screening Script 57
 
 442
 00:26:30,250 --> 00:26:32,700
 [PUSS]
 The coughing, the groaning, the festering sores.
-ເຮີ, ຖ້າເຈົ້າຄິດວ່າສິ່ງນີ້ຈະຊ່ວຍເຈົ້າໃຫ້ລອດຈາກສິ່ງໃດສິ່ງຫນຶ່ງ, ດີມັນບໍ່ແມ່ນ.
-ພວກເຮົາຈະກັບຄືນໄປທີ່ Far Far Away ໃນທາງຫນຶ່ງຫຼືອີກທາງຫນຶ່ງ, ແລະເຈົ້າຈະເປັນພໍ່!
+ການຖອກທ້ອງ, ການຮ້ອງໄຫ້, ບາດແຜທີ່ຂີ້ເຫຍື້ອ.
 
 443
 00:26:33,200 --> 00:26:36,700
 [SHREK]
 Oh! Festering sores! Hey, you are one funny kitty cat.
-ດີ, ດີ... ການເດີນທາງໄປສູ່ຈິດວິນຍານ...
+ໂອ້, ເຈັບປວດຂີ້ເຫຍື້ອ! ເຮີ, ເຈົ້າເປັນແມວທີ່ຫນ້າມ່ວນ.
 
 444
 00:26:37,200 --> 00:26:39,200
 [PUSS]
 What did I say?
-Wow, ເຈົ້າເປັນຄົນຂີ້ຮ້າຍແທ້ໆ, ແມ່ນບໍ່?
+ຂ້ອຍເວົ້າຫຍັງ?
 
 445
 00:26:39,700 --> 00:26:42,850
 [SHREK]
 We don't want Artie here getting the wrong idea.
-ອິອິ. ເຈົ້າຫາກໍ່ເວົ້າວ່າ ພໍ່...
+ພວກເຮົາຍັງບໍ່ຢາກໃຫ້ Artie ໄດ້ຮັບຄວາມຄິດຜິດ.
 
 446
 00:26:43,350 --> 00:26:45,350
 [SHREK]
 Uh, Artie?
-ດີ ຂ້ອຍຄິດວ່າຂ້ອຍມີວຽກຫຼາຍ ຈົນລືມບອກ
-Shrek the Third-Final Screening Script 84.
+ເອີ້, ອາຕີ?
 
 447
 00:26:45,850 --> 00:26:47,850
 [ALL]
 Whoa!
-ບໍ່ຕ້ອງກັງວົນ, Jefe. ຂ້ອຍຮັບຜິດຊອບເລື່ອງນີ້.
+ວາວ!
 
 448
 00:26:48,350 --> 00:26:50,450
 [SHIP CAPTAIN]
 Whoa! Oh, there goes my hip.
-ຂ້ອຍຈະສູນເສຍມັນ!
+ໂອ້, ຄໍຂາຂອງຂ້ອຍຫມົດແລ້ວ.
 
 449
 00:26:50,950 --> 00:26:52,950
 [SHREK]
 Artie!
-ວາວ!
+ອາຕີ!
 
 450
 00:26:53,450 --> 00:26:55,450
 [SHREK]
 What are you doing?!
-ດຽວນີ້, ຂ້າພະເຈົ້າຄິດວ່າຂ້າພະເຈົ້າຄວນຈະໄດ້ເຫັນມັນມາ. ລາວເຄີຍໃຫ້ຂ້າພະເຈົ້າອາບນໍ້າໃນຊອດ
-barbecue ແລະເອົາຂ້າພະເຈົ້າໄປນອນກັບຫມາກອຶໃນປາກຂອງຂ້າພະເຈົ້າ.
+ເຈົ້າເຮັດຫຍັງ?
 
 451
 00:26:55,950 --> 00:26:57,950
 [ARTIE]
 What does it look like?!
-ຮາຮາ!
+ມັນເບິ່ງຄືຫຍັງ?
 
 452
 00:26:58,450 --> 00:27:00,550
 [SHREK]
 This really isn't up to you!
-ແມ່ນຫຍັງ?
+ມັນບໍ່ຂຶ້ນກັບເຈົ້າແທ້ໆ!
 
 453
 00:27:01,050 --> 00:27:03,850
 [ARTIE]
 But I don't know anything about being King!
-ຟັງ Artie...
+ແຕ່ຂ້ອຍບໍ່ຮູ້ຫຍັງກ່ຽວກັບການເປັນກະສັດ!
 
 454
 00:27:04,350 --> 00:27:06,350
 [SHREK]
 You'll learn on the job!
-ວາວ!
+ເຈົ້າຈະຮຽນຮູ້ໃນບ່ອນເຮັດວຽກ!
 
 455
 00:27:06,850 --> 00:27:08,850
 [DONKEY]
 Whoaaa!
-ຂ້ອຍຫມາຍຄວາມວ່າ, ຖ້າມັນບໍ່ຄ່ອງແຄ້ວ ຫຼືສິ່ງທີ່ຂ້ອຍເວົ້າແມ່ນບໍ່ກົງ, ພຽງແຕ່ເວົ້າວ່າ, ໂອ້ ບໍ່ເຈົ້າບໍ່ໄດ້,
-ເຈົ້າຮູ້, ເຈົ້າກໍາລັງໄດ້ຮັບ'ໃນເສັ້ນປະສາດສຸດທ້າຍຂອງຂ້າພະເຈົ້າ. ແລະຫຼັງຈາກນັ້ນຂ້າພະເຈົ້າຈະຮູ້ວ່າມັນແມ່ນ...
+ວາວ!
 
 456
 00:27:09,350 --> 00:27:12,150
 [ARTIE]
 Sorry to disappoint you, but I'm going back!
-ແມ່ນແຕ່ພວກກຸຫລາບກໍຢ້ານ... ເຈົ້າຮູ້ບໍ່, ບາງຄັ້ງ.
+ຂໍໂທດທີ່ເຮັດໃຫ້ທ່ານຜິດຫວັງ, ແຕ່ຂ້າພະເຈົ້າກໍາລັງກັບຄືນໄປບ່ອນ!
 
 457
 00:27:12,650 --> 00:27:14,750
 [SHREK]
 Back to what? Being a loser?!
-ມາ, ມາ, ຊ່ວຍ! ຊ່ວຍ! ສະບາຍດີ!
+ກັບໄປເຮັດຫຍັງ? ເປັນຄົນເສຍໃຈ?!
 
 458
 00:27:15,250 --> 00:27:17,250
 [SHREK]
 Now look what you did!
-ຮາ? ແມ່ນຫຍັງ? ໂອ້ ບໍ່!
+ບັດນີ້ເບິ່ງທີ່ເຈົ້າໄດ້ເຮັດ!
 
 459
 00:27:17,750 --> 00:27:20,900
 [ARTIE]
 Look what I did? Who's holding the wheel chief?
-ວ່ອງໄວ, Pinocchio. Fiona ຢູ່ໃສ?
+ເບິ່ງຂ້ອຍເຮັດຫຍັງແດ່ ໃຜຄວບຄຸມຫົວຫນ້າລົດ?
 
 460
 00:27:21,400 --> 00:27:23,400
 [SHOUTING)]
 Shrek!
-ເຮີ, ໂຮໂຮ ໂຮ, Shrek ແລ້ວເຈົ້າຈະຕ້ອງປ່ຽນການເຄື່ອນໄຫວຂອງເຈົ້າ
-ຖ້າເຈົ້າຢາກໃຫ້ໄດ້ຫຍັງກັບເດັກນ້ອຍຄົນນີ້
+Shrek!
 
 461
 00:27:23,900 --> 00:27:25,900
 [SHIP CAPTAIN]
 Land ho!
-ແມ່ນແລ້ວ, ແລະເຈົ້າຄວນຄິດກ່ຽວກັບການຊື້ເສື້ອກັນ ຫນາວ
-ໃຫ້ຕົວເຈົ້າເອງ! ຂ້ອຍຮູ້ສຶກເປົ່າເປົ່າແລະບໍ່ດີ.
+ດິນຮູ!
 
 462
 00:27:26,400 --> 00:27:28,400
 [PUSS]
 How humiliating...
-ຝາປິດລົງອີກຄັ້ງ.
+ມັນຫນ້າອັບອາຍຫຼາຍ...
 
 463
 00:27:28,900 --> 00:27:30,900
 [SHREK]
 Oh, nice going, Your Highness.
-ແນວໃດກັບອັນນີ້?
+ໂອ້, ເຮັດໄດ້ດີ, ເຈົ້າສູງສຸດ.
 
 464
 00:27:31,400 --> 00:27:35,250
 [ARTIE]
 Oh, so now it's "Your highness?" What happened to "loser?" Huh?
-ອິອິ... ມຸມມອງແລະຫັນ, ມຸມmອງ ແລະຫັນ Shrek
-the Third-Final Screening Script 87.
+ໂອ້, ຕອນນີ້ມັນເປັນ"ເຈົ້າສູງສຸດ" ແລ້ວ"ຜູ້ເສຍຫາຍ" ໄປໃສ?
 
 465
 00:27:35,750 --> 00:27:41,750
 [SHREK]
 Hey, if you think this is getting you out of anything, well it isn't. We're heading back to Far Far Away one way or another, and you're gonna be a father!
-ໂອ້ຍ, ຂ້ອຍເຫັນເຂົ້າຈີ່ Dutch fudge ກັບຫມາກນາວ.
+ເຮີ້, ຖ້າເຈົ້າຄິດວ່າສິ່ງນີ້ຈະຊ່ວຍເຈົ້າໃຫ້ລອດຈາກສິ່ງໃດສິ່ງຫນຶ່ງ, ດີມັນບໍ່ແມ່ນ
+ພວກເຮົາຈະກັບໄປ Far Far Away ໃນທາງຫນຶ່ງຫຼືອີກທາງຫນຶ່ງ, ແລະເຈົ້າຈະເປັນພໍ່!
 
 466
 00:27:42,250 --> 00:27:44,250
 [ARTIE]
 What?
-ເບິ່ງ Artie...um-
+ແມ່ນຫຍັງ?
 
 467
 00:27:44,750 --> 00:27:46,750
 [DONKEY]
 A-hem. You just said father...
-ເບິ່ງ, ເຈົ້າບໍ່ຮູ້ວ່າລາວຄິດວ່າລາວເປັນໃຜ? ເຈົ້າກ້າແນວໃດ?
+ອິອິ. ເຈົ້າຫາກໍ່ເວົ້າວ່າ ພໍ່...
 
 468
 00:27:47,250 --> 00:27:50,050
 [SHREK]
 You're... I said king. You're gonna be King!
-ລໍຖ້າຊົ່ວຄາວ
+ເຈົ້າ... ຂ້ອຍບອກເຈົ້າວ່າເປັນກະສັດ ເຈົ້າຈະເປັນ ກະສັດ!
 
 469
 00:27:50,550 --> 00:27:55,450
 [ARTIE]
 "You're gonna be King!" Yeah right. Shrek the Third - Final Screening Script 60.
-ມີຫຍັງຢູ່ໃນແຂ້ວຂອງຂ້ອຍບໍ?
+"ເຈົ້າຈະເປັນກະສັດ!" ແມ່ນແລ້ວ. Shrek
+the Third - Final Screening Script 60.
 
 470
 00:27:55,950 --> 00:27:58,050
 [SHREK]
 Where do you think you're going?
-ດິນໂຮ!
+ເຈົ້າຄິດວ່າເຈົ້າຈະໄປໃສ?
 
 471
 00:27:58,550 --> 00:28:00,550
 [ARTIE]
 Far Far Away... from you!
-ດີ ດີ ດີ ເຈົ້າຢາກໄຂ່ກັບແຊມບໍ?
+ໄກໄກ... ຈາກເຈົ້າ!
 
 472
 00:28:01,050 --> 00:28:04,550
 [SHREK]
 You get back here young man and I mean it!
-ຂ້ອຍບໍ່ມີຄວາມຮູ້ສຶກ...ແທ້ໆ...ຂ້ອຍສາບານ.
+ເຈົ້າກັບມາທີ່ນີ້ ຊາຍຫນຸ່ມ ແລະຂ້ອຍຫມາຍຄວາມວ່າ!
 
 473
 00:28:05,050 --> 00:28:11,050
 [PUSS]
 Uh boss, I don't think he's coming back and maybe it's for the best. He is not exactly king material.
-ດຽວນີ້, ຂ້ອຍຂີ້ເຫຍື້ອເລັກນ້ອຍ, ສະນັ້ນ ອາດຈະມີຜົນຂ້າງຄຽງບາງຢ່າງ.
+ໂອ້ຫົວຫນ້າ, ຂ້ອຍບໍ່ຄິດວ່າລາວຈະກັບມາ
+ແລະບາງທີມັນອາດຈະເປັນສິ່ງທີ່ດີທີ່ສຸດ.
 
 474
 00:28:11,550 --> 00:28:16,800
 [DONKEY]
 When were you planning on telling him that you were really supposed to be King?
-ໂອ້, ເຮັດໄດ້ດີ, ເຈົ້າສູງສຸດ.
+ເມື່ອໃດທ່ານວາງແຜນທີ່ຈະບອກລາວວ່າ ທ່ານຄວນຈະເປັນກະສັດແທ້ໆ?
 
 475
 00:28:17,300 --> 00:28:23,300
 [SHREK]
 Oh c'mon, now why would I do that? Besides, he'll be ten times better at it than me.
-ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ຄິດ.
+ອິອິ, ເປັນຫຍັງຂ້ອຍຈຶ່ງເຮັດແນວນັ້ນ?
+ນອກຈາກນັ້ນ, ລາວຈະດີກວ່າຂ້ອຍ 10 ເທົ່າ.
 
 476
 00:28:23,800 --> 00:28:29,800
 [DONKEY]
 Hey, woah ho ho, Shrek. Then you're gonna have to change your tactics if you want to get anywhere with this kid.
-ຂ້ອຍໂຊກດີ ແຕ່ສິ່ງນີ້ບໍ່ໄດ້ເຮັດວຽກສໍາລັບຂ້ອຍ.
+ສະເຣັກ, ເຈົ້າຕ້ອງປ່ຽນທັກສະຂອງເຈົ້າ
+ຖ້າເຈົ້າຢາກໃຫ້ມີຫຍັງກັບເດັກນ້ອຍຄົນນີ້.
 
 477
 00:28:30,300 --> 00:28:32,300
 [SHREK]
 You're right, Donkey.
-ໂອ້!
+ເຈົ້າມີຄວາມຖືກຕ້ອງ, Donkey.
 
 478
 00:28:32,800 --> 00:28:34,800
 [SHREK]
 What about this?
-ມັນຍາກຫຼາຍ, ເຈົ້າຮູ້ບໍ່, ພວກເຂົາຕ້ອງການກັບຄືນໄປບ່ອນ
-ເພາະວ່າອານາຈັກຂອງເຂົາເຈົ້າມີບັນຫາ ເພາະວ່າມີຄົນຮ້າຍແທ້ໆ ແລະມັນຍາກຫຼາຍ...
+ແນວໃດກ່ຽວກັບນີ້?
 
 479
 00:28:35,300 --> 00:28:37,300
 [DONKEY]
 Shrek!
-ອາຕີ!
+Shrek!
 
 480
 00:28:37,800 --> 00:28:40,250
 [SHREK]
 Oh c'mon. It's just a joke. Still...
-Shrek!
+ແມ່ນແລ້ວ, ມັນພຽງແຕ່ເປັນເລື່ອງຕະຫລົກ. ແຕ່ວ່າ...
 
 481
 00:28:40,750 --> 00:28:42,750
 [SHREK]
 Listen Artie...
-ລະມັດລະວັງ! ເຂົາເຈົ້າມີແປ້ນດົນຕີ!
+ຟັງ Artie...
 
 482
 00:28:43,250 --> 00:28:49,250
 [SHREK]
 If you think this whole mad scene ain't dope, I feel you dude. I mean, I'm not trying to get up in your grill or raise your roof or whatever, but what I am screaming is, yo, check out this kazing thazing bazaby.
-ມັນເບິ່ງຄືຫຍັງ?
+ຖ້າເຈົ້າຄິດວ່ານະຄອນທີ່ໂຫດຮ້າຍນີ້ ບໍ່ຫນ້າຕື່ນຕາຕື່ນໃຈ, ຂ້ອຍເຂົ້າໃຈເຈົ້າເອີຍ ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມທີ່ຈະຂຶ້ນໄປໃນ
+grill ຂອງເຈົ້າ ຫຼືຍົກຫລັງຄາຂອງເຈົ້າ ຫຼືສິ່ງໃດກໍຕາມ, ແຕ່ສິ່ງທີ່ຂ້ອຍຮ້ອງໄຫ້ແມ່ນ, yo, ເບິ່ງນີ້ kazing thazing bazaby.
 
 483
 00:28:49,750 --> 00:28:55,750
 [SHREK]
 I mean, if it doesn't groove or what I'm saying ain't straight trippin', just say, oh no you didn't, you know, you're gettin' on my last nerve. And then I'll know it's... then I'll know it's whack--
-ຊ່ວຍຂ້ອຍ!
+ຂ້ອຍຫມາຍຄວາມວ່າ, ຖ້າມັນບໍ່ຄ່ອງແຄ້ວ ຫຼືສິ່ງທີ່ຂ້ອຍເວົ້າແມ່ນບໍ່ຖືກຕ້ອງ, ພຽງແຕ່ເວົ້າວ່າ, ໂອ້ ບໍ່ເຈົ້າບໍ່ໄດ້
+, ເຈົ້າຮູ້, ເຈົ້າ ກໍາ ລັງເອົາເສັ້ນປະສາດຂອງຂ້ອຍສຸດທ້າຍ. ແລະຫຼັງຈາກນັ້ນຂ້ອຍຈະຮູ້ວ່າມັນແມ່ນ...
 
 484
 00:28:56,250 --> 00:28:58,250
 [SHREK]
 Artie! Wait!
-ການສະແດງສຸດທ້າຍຂອງ Shrek.
+ອາຕີ ລໍຖ້າ!
 
 485
 00:28:58,750 --> 00:29:00,750
 [ARTIE]
 C'mon! C'mon! Help! Help! Hello?
-ເຈົ້າຮູ້ບໍ່, ມັນອາດຈະຍາກທີ່ຈະເຊື່ອວ່າດ້ວຍຄວາມສວຍງາມແລະຄວາມງາມທີ່ແນ່ນອນຂອງຂ້ອຍ
-, ແຕ່ຄົນເຄີຍຄິດວ່າຂ້ອຍເປັນສັດຕະລົກ. ແລະເປັນເວລາດົນນານ, ຂ້ອຍເຊື່ອພວກເຂົາ.
+ມາ, ມາ, ຊ່ວຍ! ຊ່ວຍ! ສະບາຍດີ!
 
 486
 00:29:01,250 --> 00:29:05,450
 [WIZARD HEAD]
 Greetings cosmic children of the universe, and welcome to my serenity circle!
-ບໍ່, ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າຈະເຂົ້າໃຈ. ມີຄົນຮ້າຍເຮັດສິ່ງຮ້າຍແກ່ຄົນດີ.
+ສະບາຍດີ ເດັກນ້ອຍອະວະກາດຂອງຈັກກະວານ,
+ແລະຍິນດີຕ້ອນຮັບສູ່ວົງຈອນຄວາມສະຫງົບຂອງຂ້າພະເຈົ້າ!
 
 487
 00:29:05,950 --> 00:29:10,500
 [WIZARD HEAD]
 Please leave any bad vibes outside the healing vortex. And now prepare ...
-Charming ແລະ Villains ໄດ້ຄອບຄອງທຸກສິ່ງທຸກຢ່າງ ພວກເຂົາໄດ້ໂຈມຕີພວກເຮົາ
-ແຕ່ Fiona ແລະ Princess ໄດ້ລອດໄປ ແລະດຽວນີ້ນາງແມ່ນ-
+ກະລຸນາປ່ອຍໃຫ້ຄວາມສັ່ນສະເທືອນທີ່ບໍ່ດີໃດໆ
+ຢູ່ພາຍນອກຫມູນວຽນການປິ່ນປົວ ແລະດຽວນີ້ກະກຽມ...
 
 488
 00:29:11,000 --> 00:29:13,800
 [MERLIN]
 I knew I should of gotten that warranty!
-ດ້ວຍດາບນີ້, ຂ້ອຍເຮັດ-- ບໍ່.
+ຂ້ອຍຮູ້ວ່າ ຂ້ອຍຄວນໄດ້ ຮັບການຮັບປະກັນນັ້ນ!
 
 489
 00:29:14,300 --> 00:29:16,400
 [MERLIN]
 AHH! Ow, ow, ow, ow, ow.
-ເຈົ້າຮູ້ບໍ່, ເຈົ້າບໍ່ເປັນຫຍັງ, Shrek.
+ໂອ, ໂອ,ໂອ,ໂອ.
 
 490
 00:29:16,900 --> 00:29:18,900
 [ARTIE]
 Mr. Merlin?
-(ຫັນໄປຫາ Puss ໃນ Donkey ຂອງ
+ທ່ານເມີລິນ?
 
 491
 00:29:19,400 --> 00:29:21,400
 [SHREK]
 You know this guy?
-ມາແລ້ວ Puss, ທ່ານໄດ້ຍິນຜູ້ຊາຍ, ຊ່ວຍເອື້ອຍນ້ອງອອກ.
+ທ່ານຮູ້ຈັກຄົນນີ້ບໍ?
 
 492
 00:29:21,900 --> 00:29:26,450
 [ARTIE]
 Yeah. He was the school's magic teacher until he had his nervous breakdown.
-ຂອບໃຈ Artie.
+ແມ່ນແລ້ວ, ລາວເປັນອາຈານປະດັບປະດາຂອງໂຮງຮຽນ
+ຈົນກວ່າລາວຈະເກີດອາການລົ້ມເຫຼວ
 
 493
 00:29:26,950 --> 00:29:32,950
 [MERLIN]
 Uh, technically I was merely a victim of a level three fatigue, and at the request of my therapist and the school authorities, I have retired to the tranquility of nature to discover my divine purpose.
-ເຈົ້າເຫັນກະເປົາໃດຢູ່ເທິງຂ້ອຍບໍ?
+Uh, ທາງດ້ານເຕັກນິກແລ້ວ ຂ້ອຍພຽງແຕ່ເປັນຜູ້ເຄາະຮ້າຍ ຂອງຄວາມອິດເມື່ອຍລະດັບສາມ, ແລະຕາມຄໍາຮ້ອງຂໍ ຂອງຫມໍປິ່ນປົວຂອງຂ້ອຍ
+ແລະເຈົ້າຫນ້າທີ່ໂຮງຮຽນ, ຂ້ອຍໄດ້ກ້າວກັບຄືນໄປສູ່ຄວາມສະຫງົບຂອງທໍາມະຊາດ ເພື່ອຄົ້ນພົບຈຸດປະສົງຂອງພຣະເຈົ້າຂອງຂ້ອຍ.
 
 494
 00:29:33,450 --> 00:29:36,950
 [MERLIN]
 Now, can I interest anyone in a snack or beverage?
-ຜົນຂ້າງຄຽງ!?
+ດຽວນີ້, ຂ້າພະເຈົ້າສາມາດສົນໃຈໃຜໃນອາຫານຫວ່າງຫຼືເຄື່ອງດື່ມໄດ້ບໍ?
 
 495
 00:29:37,450 --> 00:29:39,450
 [SHREK]
 Uh, no.
-ໂອ້ ມັນຍັງບໍ່ຮູ້ສຶກເປັນຈິງເທື່ອ!
+Uh, ບໍ່.
 
 496
 00:29:39,950 --> 00:29:43,100
 [MERLIN]
 Sure you don't wanna try my famous rock au-gratin?
-ໂອ້!
+ເຈົ້າແນ່ໃຈວ່າເຈົ້າບໍ່ຢາກລອງຫີນ au-gratin ທີ່ມີຊື່ສຽງຂອງຂ້ອຍບໍ?
 
 497
 00:29:43,600 --> 00:29:45,600
 [MERLIN]
 It's organic!
-ມັນເປັນ"ຄວາມສຸກຕະຫຼອດຊີວິດ" ຫຼັງຈາກທີ່ທັງຫມົດ!
+ມັນເປັນຊີວະພາບ!
 
 498
 00:29:46,100 --> 00:29:52,100
 [SHREK]
 Oh, thanks, I just ate a boulder on the way in. What we need are directions back to Far Far Away.
-ໂອ້, ພໍໄດ້ແລ້ວ! Shrek ຕອນທີສາມ - ການສະແດງສຸດທ້າຍ 70 ບົດຂຽນ
-Snow White"Rapunzel, Rapunzel ປ່ອຍອອກຂະຫຍາຍຄໍາຂອງທ່ານ!"
+ຂໍຂອບໃຈ, ຂ້ອຍຫາກໍ່ກິນກ້ອນຫີນໃນທາງເຂົ້າ
+ພວກເຮົາຕ້ອງການທິດທາງກັບຄືນໄປຫາ Far Far Away
 
 499
 00:29:52,600 --> 00:29:56,450
 [ARTIE]
 What's with the "we"? Who said I was going with you?
-ໂຈມຕີ!
+"ພວກເຮົາ" ເປັນຫຍັງ? ໃຜບອກວ່າຂ້ອຍໄປກັບເຈົ້າ?
 
 500
 00:29:56,950 --> 00:30:02,950
 [SHREK]
 Oh, I did. Cause there's a lot of people counting on you so don't try and weasel out of it.
-ແຮ່!
+ແມ່ນແລ້ວ, ເພາະວ່າມີຫຼາຍຄົນເພິ່ງພາໃຈທ່ານ
+ສະນັ້ນຢ່າພະຍາຍາມຫລີກລ້ຽງມັນ.
 
 501
 00:30:03,450 --> 00:30:07,300
 [ARTIE]
 If it's such a great job, why don't you do it?
-ເຖິງແມ່ນພໍ່ຂອງຂ້າພະເຈົ້າເອງກໍຮູ້ວ່າ ຂ້າພະເຈົ້າບໍ່ຄຸ້ມຄ່າຄວາມຫຍຸ້ງຍາກ
-ເພິ່ນໄດ້ປະຖິ້ມຂ້າພະເຈົ້າຢູ່ໃນໂຮງຮຽນທີ່ວ່າໃນໂອກາດທໍາອິດທີ່ລາວໄດ້ແລະຂ້າພະເຈົ້າບໍ່ເຄີຍໄດ້ຍິນຈາກເຂົາອີກເທື່ອຫນຶ່ງ.
+ຖ້າມັນເປັນວຽກທີ່ຍິ່ງໃຫຍ່, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຮັດມັນ?
 
 502
 00:30:07,800 --> 00:30:12,350
 [SHREK]
 Understand this kid, it's no more Mr. Nice Guy from here on out!
-ຂ້ອຍຮູ້ວ່າລາວເປັນຄົນຂີ້ເຫຍື້ອ ແລະທຸກສິ່ງທຸກຢ່າງ,
-ແຕ່ຂ້ອຍຕ້ອງຍອມຮັບ, ວ່າ Charming ເຮັດໃຫ້ຂ້ອຍຮ້ອນກວ່າເດືອນກໍລະກົດ.
+ເຂົ້າໃຈວ່າເດັກນ້ອຍຄົນນີ້, ມັນບໍ່ເປັນ
+Mr. Nice Guy ອີກຕໍ່ໄປຈາກນີ້ອອກ!
 
 503
 00:30:12,850 --> 00:30:15,650
 [ARTIE]
 Oh, so that was your "Mr. Nice Guy?"
-ອາຮາ ຮາ!
+ໂອ້, ນັ້ນແມ່ນ"Mr. Nice Guy" ຂອງທ່ານບໍ?
 
 504
 00:30:16,150 --> 00:30:18,600
 [SHREK]
 I know, and I'm gonna miss him.
-ບໍ່ແມ່ນຢູ່ນີ້,"ແມວຫມູ". ພໍ່ຈະສົນທະນາກ່ຽວກັບມັນຕໍ່ມາ.
-ດຽວນີ້ໃຫ້ອະໄພພວກເຮົາ, ພວກເຮົາມີການສະແດງທີ່ຈະຈັດຂຶ້ນ.
+ຂ້ອຍຮູ້ ແລະຂ້ອຍຈະຂາດເຂີນລາວ.
 
 505
 00:30:19,100 --> 00:30:24,000
 [ARTIE]
 You know what? Why don't you go terrorize a village and leave me alone?
-Shrek!
+ເຈົ້າຮູ້ບໍ່, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ໄປກໍ່ຄວາມຢ້ານກົວ
+ຫມູ່ບ້ານ ແລະປ່ອຍໃຫ້ຂ້ອຍຢູ່ຄົນດຽວ?
 
 506
 00:30:24,500 --> 00:30:30,500
 [SHREK]
 Oh, is that some kind of crack about ogres? You get your royal highness to Far Far Away before I kick it there. Now which way am I kicking?
-ໂອ້.
+ໂອ້, ນັ້ນແມ່ນບາງຊະນິດຂອງ crack ກ່ຽວກັບ ogres? ທ່ານເອົາຄວາມສູງສຸດຂອງລາຊະອານາຈັກຂອງທ່ານໄປ
+Far Far Away ກ່ອນທີ່ຂ້າພະເຈົ້າ kick ມັນ. ຕອນນີ້ຂ້າພະເຈົ້າ kick ທາງໃດ?
 
 507
 00:30:31,000 --> 00:30:37,000
 [MERLIN]
 Oh, I could tell you. But since you're in the midst of self- destructive rage spiral it would be karmic-ly irresponsible.
-ມາ, ທາງນີ້!
+ໂອ້, ຂ້ອຍສາມາດບອກເຈົ້າໄດ້. ແຕ່ນັບຕັ້ງແຕ່ເຈົ້າຢູ່ໃນກາງຂອງຄວາມໂກດແຄ້ນທີ່ທໍາລາຍຕົນເອງ
+ມັນຈະເປັນການບໍ່ຮັບຜິດຊອບທາງດ້ານກາມິກ.
 
 508
 00:30:37,500 --> 00:30:43,500
 [SHREK]
 Self-destructive ra... Look, are you gonna help us or not? Shrek the Third - Final Screening Script 65.
-ທ່ານເມີລິນ?
+ເບິ່ງ, ເຈົ້າຈະຊ່ວຍພວກເຮົາຫລືບໍ່ Shrek
+The Third-Final Screening Script 65.
 
 509
 00:30:44,000 --> 00:30:48,200
 [MERLIN]
 Most definitely, but only after you take the journey to your soul.
-Charming, ປ່ອຍນາງໄປ.
+ແນ່ນອນ, ແຕ່ຫຼັງຈາກທີ່ທ່ານເດີນທາງໄປສູ່ຈິດວິນຍານຂອງທ່ານ.
 
 510
 00:30:48,700 --> 00:30:50,700
 [SHREK]
 Yeah, I don't think so.
-ໂອ້, ມີຫົວໃຈເດີ!
+ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ຄິດ.
 
 511
 00:30:51,200 --> 00:30:55,050
 [MERLIN]
 Look pal, it's either that or some primal scream therapy. Ahhhhhhhhhh!
-Uh, ທາງດ້ານເຕັກນິກແລ້ວ ຂ້ອຍພຽງແຕ່ເປັນຜູ້ເຄາະຮ້າຍ ຂອງຄວາມອິດເມື່ອຍລະດັບສາມ ແລະຕາມຄໍາຮ້ອງຂໍຂອງນັກຊ່ຽວຊານ
-ແລະເຈົ້າຫນ້າທີ່ໂຮງຮຽນ ຂ້ອຍໄດ້ພາກັນຖອນຕົວໄປສູ່ຄວາມສະຫງົບຂອງທໍາມະຊາດ ເພື່ອຄົ້ນພົບຈຸດປະສົງຂອງພຣະເຈົ້າ.
+ເບິ່ງເພື່ອນ, ມັນແມ່ນຫຼືວ່າ ຫຼືການປິ່ນປົວການຮ້ອງໄຫ້ primal.
 
 512
 00:30:55,550 --> 00:30:57,650
 [SHREK]
 Alright, alright... journey to the soul...
-ແຕ່ນາງຢູ່ຫ່າງໄກຫຼາຍ!
+ດີ, ດີ... ການເດີນທາງໄປສູ່ຈິດວິນຍານ...
 
 513
 00:30:58,150 --> 00:31:04,150
 [MERLIN]
 Now all of you, look into the "Fire of Truth" and tell me what you see! Yah! Ha!  Woo-looo-looo-looo!
-ລາວເປັນດາວຄົນ! ສະບາຍດີ?!
-ຂ້າພະເຈົ້າຂໍໂທດຫຼາຍກ່ຽວກັບທ່ານ Shrek ນີ້.
+ບັດນີ້ ທຸກທ່ານ ຈົ່ງເບິ່ງໃນ"ໄຟຂອງຄວາມຈິງ"
+ແລະບອກຂ້ອຍວ່າເຈົ້າເຫັນຫຍັງ! ຢາ! ຮາ! ວູລູລຸລູ!
 
 514
 00:31:04,650 --> 00:31:08,850
 [DONKEY]
 Ooo! Charades! Okay, I see a dutch fudge torte with cinnamon swirls.
-ແມ່ນແລ້ວ, ເພາະວ່າມີຫຼາຍຄົນເພິ່ງພາໃຈທ່ານ
-ສະນັ້ນຢ່າພະຍາຍາມຫລີກລ້ຽງມັນ.
+ໂອ້! ຊະຣາເດສ! ໂອເຄ, ຂ້ອຍເຫັນເຂົ້າຫນົມປັງ Dutch ກັບຫມາກນາວ.
 
 515
 00:31:09,350 --> 00:31:11,350
 [MERLIN]
 Okay. Monster, go for it.
-ສິ່ງໃດ? ວ່າລາວສົນໃຈທ່ານ? ລາວເປັນຄົນຮ້າຍ. ທ່ານຄາດຫວັງຫຍັງ
-? Shrek The Third - Final Screening Script 90.
+ດີ, Monster, ໃຫ້ໄປ.
 
 516
 00:31:11,850 --> 00:31:16,400
 [SHREK]
 I see a rainbow pony. Shrek the Third - Final Screening Script 66.
-ໂອ, ໂອ,ໂອ,ໂອ. ຂ້ອຍຈະຂີ່ເກີບແບບນີ້ໄດ້ແນວໃດ?
+ຂ້າ ພະ ເຈົ້າເຫັນກະຕ່າດອກກຸຫລາບ Shrek
+The Third - Final Screening Script 66.
 
 517
 00:31:16,900 --> 00:31:18,900
@@ -3195,7 +3204,7 @@ Excellent work! Now! The boy!
 00:31:19,400 --> 00:31:21,400
 [ARTIE]
 This is lame.
-ແຕກຕີນ ຫຼື, ຖ້າຄິດຄືນໃຫມ່, ໃຫ້ຂ້ອຍຕັດຕີນໃຫ້ເຈົ້າ.
+ນີ້ເປັນເລື່ອງທີ່ໂສກເສົ້າ.
 
 519
 00:31:21,900 --> 00:31:23,900
@@ -3207,1257 +3216,2323 @@ Ow!
 00:31:24,400 --> 00:31:26,850
 [MERLIN]
 You're lame! Now just go for it.
-ລືມມັນ. ຂ້ອຍບໍ່ມີການປະຫຼາດແບບນັ້ນອີກແລ້ວ, ເດັກນ້ອຍ.
-ຈະເປັນແນວໃດກັບການອ້ອມແອ້ມແທນ? Hmm? ນັ້ນແມ່ນການປະຫລາດແບບທີ່ດີທີ່ສຸດ.
+ເຈົ້າເປັນຄົນໂຫດ! ດຽວນີ້ໄປເຮັດມັນ.
 
 521
 00:31:27,350 --> 00:31:31,900
 [ARTIE]
 Okay. There's a baby bird and a father bird sitting in a nest.
-ບໍ່ຕ້ອງກັງວົນ, ນາງແລະຄົນອື່ນໆ ແມ່ນປອດໄພ ສໍາລັບດຽວນີ້.
+ດີ, ມີນົກນ້ອຍ ແລະ ນົກພໍ່ ນັ່ງຢູ່ໃນຮົ້ວ.
 
 522
 00:31:32,400 --> 00:31:34,850
 [MERLIN]
 Yes! Stay with it! Stay with it!
-ໂອ້.
+ແມ່ນແລ້ວ! ຢືນຢູ່ກັບມັນ! ຢຸດຢູ່ໃນມັນ!
 
 523
 00:31:35,350 --> 00:31:40,600
 [ARTIE]
 Wait, the dad just flew away. Why did he leave the little bird all alone?
-ພວກເຈົ້າໂງ່!
+ລໍຖ້າ, ພໍ່ໄດ້ບິນໄປແລ້ວ ເປັນຫຍັງລາວຈຶ່ງປະຖິ້ມນົກນ້ອຍຢູ່ຄົນດຽວ?
 
 524
 00:31:41,100 --> 00:31:46,000
 [ARTIE]
 It's trying to fly, but it doesn't know how to. It.. it's gonna fall!
-ໃນຄວາມເປັນຈິງ, ຊື່ຂອງຂ້ອຍແມ່ນ Artie.
+ມັນພະຍາຍາມບິນ ແຕ່ມັນບໍ່ຮູ້ວິທີ ມັນຈະຕົກລົງ!
 
 525
 00:31:46,500 --> 00:31:50,700
 [MERLIN]
 Whew, proper head case you are, aren't you? Really messed up. Whoa.
-"Ha ha ha ha haa haa haa!"
+Wow, ເຈົ້າເປັນຄົນຂີ້ຮ້າຍແທ້ໆ, ແມ່ນບໍ່?
 
 526
 00:31:51,200 --> 00:31:56,100
 [ARTIE]
 Yeah, yeah, okay. I get it. The bird's me. My dad left. So what?
-ຢ່າກັງວົນ, ເຈົ້າໄດ້ກັບຄືນມາໃຫ້ພວກເຮົາຍ້ອຍ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ. ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+ນົກແມ່ນຂ້ອຍ. ພໍ່ຂ້ອຍໄປແລ້ວ. ແລ້ວຈັ່ງໃດ?
 
 527
 00:31:56,600 --> 00:31:58,600
 [SHREK]
 Look Artie...um-
-Rapunzel, ເຈົ້າເຮັດໄດ້ແນວໃດ?
+ເບິ່ງ Artie...um-
 
 528
 00:31:59,100 --> 00:32:04,700
 [MERLIN]
 Just thought I might help set the mood! Y'know for your big heart to heart chat!
-ແຕ່ທ່ານເວົ້າວ່າ ກະສັດໄດ້ຖາມຂ້າພະເຈົ້າໂດຍສ່ວນຕົວ.
+ພຽງແຕ່ຄິດວ່າຂ້ອຍອາດຊ່ວຍສ້າງບັນຍາກາດໄດ້
+ສໍາລັບການສົນທະນາກ່ຽວກັບຫົວໃຈໃຫຍ່ຂອງເຈົ້າ
 
 529
 00:32:05,200 --> 00:32:09,050
 [SHREK]
 I know what it's like to not feel ready for something.
-ມັນໄດ້ຜົນ!
+ຂ້ອຍຮູ້ແລ້ວວ່າ ມັນຄືແນວໃດ ທີ່ບໍ່ຮູ້ສຶກພ້ອມສໍາລັບສິ່ງໃດສິ່ງຫນຶ່ງ.
 
 530
 00:32:09,550 --> 00:32:12,700
 [SHREK]
 Even ogres get scared...you know, once in a while.
-ໃນໄວໆນີ້ ເຈົ້າຈະກັບຄືນໄປບ່ອນທີ່ເຈົ້າໄດ້ເລີ່ມຕົ້ນ... ກວດລ້າງພື້ນຫລັງຄາ
-ຫຼື ປິດໄວ້ໃນຫໍປ້ອມ; ນັ້ນແມ່ນຖ້າຂ້ອຍປ່ອຍໃຫ້ເຈົ້າຢູ່ໄດ້ຕະຫຼອດອາທິດ.
+ແມ່ນແຕ່ສັດຮ້າຍກໍຢ້ານ... ເຈົ້າຮູ້ແລ້ວ, ບາງຄັ້ງ.
 
 531
 00:32:13,200 --> 00:32:19,200
 [ARTIE]
 I know you want me to be king, but I can't. I'm not cut out for it and I never will be, alright?
-ແມ່ນບໍ?
+ຂ້ອຍຮູ້ວ່າເຈົ້າຢາກໃຫ້ຂ້ອຍເປັນກະສັດ ແຕ່ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້
+ຂ້ອຍບໍ່ໄດ້ຖືກສ້າງຂຶ້ນມາສໍາລັບມັນ ແລະຂ້ອຍຈະບໍ່ເຄີຍເປັນໄດ້, ດີບໍ?
 
 532
 00:32:19,700 --> 00:32:25,700
 [ARTIE]
 Even my own dad knew I wasn't worth the trouble. He dumped me at that school the first chance he got and I never heard from him again. Shrek the Third - Final Screening Script 68.
-ພວກມັນໄດ້ຖືກສ້າງຂຶ້ນໃນ Madrid ໂດຍທີ່ດີທີ່ສຸດ- HEE
-HAW! Shrek the Third - Final Screening Script 81.
+ເຖິງແມ່ນພໍ່ຂອງຂ້າພະເຈົ້າເອງກໍຮູ້ວ່າ ຂ້າພະເຈົ້າບໍ່ຄຸ້ມຄ່າ.
+ລາວໄດ້ປະຖິ້ມຂ້າພະເຈົ້າຢູ່ໃນໂຮງຮຽນທີ່ວ່າໃນໂອກາດທໍາອິດທີ່ລາວໄດ້ແລະຂ້າພະເຈົ້າບໍ່ເຄີຍໄດ້ຍິນຈາກເຂົາອີກເທື່ອຫນຶ່ງ. Shrek the Third - Final Screening Script 68.
 
 533
 00:32:26,200 --> 00:32:29,000
 [SHREK]
 My dad wasn't really the fatherly type either.
-"ຂ້ອຍລໍຖ້າຄົນດຽວຢູ່ນີ້. ຂ້ອຍຖືກກັກກັນອີກມື້ຫນຶ່ງ. ຖືກກັກຢູ່ບ່ອນນີ້ - ກະລຸນາປ່ອຍຂ້ອຍອອກ.
-ຊີວິດໃຫມ່ຂອງຂ້ອຍຂ້ອຍເກືອບຈະເຫັນ, Castle, ທ່ານແລະຂ້ອຍ. ແມ່ນແລ້ວ, Castle ທ່ານແລະຂ້າພະເຈົ້າ..."
+ພໍ່ຂ້ອຍກໍບໍ່ແມ່ນພໍ່ແບບແທ້ໆ.
 
 534
 00:32:29,500 --> 00:32:32,300
 [ARTIE]
 Well, I doubt he was worse than mine.
-ຂ້ອຍສົນໃຈ.
+ດີ, ຂ້ອຍສົງໄສວ່າ ລາວຮ້າຍແຮງກວ່າຂ້ອຍ.
 
 535
 00:32:32,800 --> 00:32:37,000
 [SHREK]
 Oh yeah? My father was an ogre. He tried to eat me.
-"ແມ່ນຂ້ອຍ! ແມ່ນຂ້ອຍ! ເທິງມ້າຂອງເຈົ້າຂອງຂ້ອຍ! ເຈົ້າຍິງ
-, ຄວາມຮັກຂອງຂ້ອຍ, ໃນທີ່ສຸດເຈົ້າຈະໄດ້ຮັບການປ່ອຍຕົວ!"
+ແມ່ນແລ້ວ, ພໍ່ຂ້ອຍເປັນສັດຮ້າຍ ລາວພະຍາຍາມຢ່າມາຍຸ້ງກັບຂ້ອຍ!
 
 536
 00:32:37,500 --> 00:32:43,500
 [SHREK]
 Now, I guess I should have seen it coming. He used to give me a bath in barbecue sauce and put me to bed with an apple in my mouth.
-ປິນໂອກຽວ Shrek The Third - Final Screening Script 82.
+ດຽວນີ້, ຂ້າພະເຈົ້າຄິດວ່າຂ້າພະເຈົ້າຄວນຈະໄດ້ເຫັນມັນມາ. ລາວເຄີຍເຮັດໃຫ້ຂ້າພະເຈົ້າອາບນ້
+ໍາ ໃນຊອດ barbecue ແລະເຮັດໃຫ້ຂ້າພະເຈົ້ານອນກັບຫມາກອຶໃນປາກຂອງຂ້າພະເຈົ້າ.
 
 537
 00:32:44,000 --> 00:32:46,100
 [ARTIE]
 Okay... I guess that's... pretty bad.
-ດີທຸກຄົນ, ພວກເຮົາຕ້ອງຊອກຫາທາງອອກ, ດຽວນີ້.
+ໂອເຄ... ຂ້ອຍຄິດວ່າ... ມັນບໍ່ດີເລີຍ.
 
 538
 00:32:46,600 --> 00:32:52,600
 [SHREK]
 You know, it may be hard to believe what with my obvious charm and good looks, but people used to think that I was a monster. And for a long time, I believed them.
-ເຄື່ອນຍ້າຍໄປ, ໄປ, ໄປ!
+ເຈົ້າຮູ້ບໍ່, ມັນອາດຈະຍາກທີ່ຈະເຊື່ອວ່າດ້ວຍຄວາມສວຍງາມແລະຄວາມງາມທີ່ແນ່ນອນຂອງຂ້ອຍ
+, ແຕ່ຄົນເຄີຍຄິດວ່າຂ້ອຍເປັນສັດຕະລົກ. ແລະເປັນເວລາດົນນານ, ຂ້ອຍເຊື່ອພວກເຂົາ.
 
 539
 00:32:53,100 --> 00:32:59,100
 [SHREK]
 But after awhile, you learn to ignore the names that people call you and you just trust who you are.
-ໃຜບອກເຈົ້າໃຫ້ຢຸດເຕັ້ນ?!
+ແຕ່ຫຼັງຈາກນັ້ນ ເຈົ້າຈະຮຽນຮູ້ທີ່ຈະບໍ່ສົນໃຈຊື່ທີ່ຄົນອື່ນເອີ້ນເຈົ້າ
+ແລະເຈົ້າຈະໄວ້ວາງໃຈວ່າເຈົ້າເປັນໃຜ.
 
 540
 00:32:59,600 --> 00:33:01,600
 [ARTIE]
 You know, you're okay, Shrek.
-ທ່ານມີຄວາມຖືກຕ້ອງ ຜູ້ຍິງ, ເອົາຕໍາແຫນ່ງ!
+ເຈົ້າຮູ້ບໍ່, ເຈົ້າບໍ່ເປັນຫຍັງ, Shrek.
 
 541
 00:33:02,100 --> 00:33:08,100
 [ARTIE]
 You just need to do a little less yelling and use a little more soap. Shrek the Third - Final Screening Script 69.
-ຂ້ອຍຫາຍໃຈແລ້ວ!
+ທ່ານພຽງແຕ່ຕ້ອງຮ້ອງໄຫ້ຫນ້ອຍລົງ ແລະໃຊ້ສະບູຕື່ມອີກຫນ້ອຍຫນຶ່ງ
+. Shrek the Third-Final Screening Script 69.
 
 542
 00:33:08,600 --> 00:33:10,600
 [SHREK]
 Thanks Artie.
-ຊ່ວຍ!
+ຂອບໃຈ Artie.
 
 543
 00:33:11,100 --> 00:33:13,550
 [ARTIE]
 The soap's because you stink. Really bad.
-ຖ້າພວກເຮົາຍັງຢູ່ຕາມທີ່ຂ້າພະເຈົ້າໄດ້ແນະ ນໍາ
-ພວກເຮົາອາດຈະດື່ມຊາຈາກຈອກຂະ ຫນາດ ນ້ອຍທີ່ມີຮູບຊົງຫົວໃຈ... Shrek
+ສະບູແມ່ນຍ້ອນທ່ານກິ່ນຫອມ.
 
 544
 00:33:14,050 --> 00:33:16,050
 [SHREK]
 Yeah. I got that.
-ເບິ່ງ, ຖ້າອາຕີໄວ້ວາງໃຈລາວ, ມັນກໍພໍດີສໍາລັບຂ້ອຍ
-. ເຖິງແມ່ນວ່າເສື້ອຜ້າຂອງລາວຈະບໍ່ປົກຄຸມ...
+ແມ່ນແລ້ວ, ຂ້ອຍເຂົ້າໃຈແລ້ວ
 
 545
 00:33:16,550 --> 00:33:20,050
 [CINDERELLA]
 Oh this place is filthy. I feel like a hobo.
-ມັນບໍ່ແມ່ນ? ຂ້ອຍຄິດວ່າມັນເບິ່ງຄືວ່າຈະແຈ້ງຫຼາຍ
-. ລາວໃຊ້ຂ້ອຍ. ນັ້ນແມ່ນທັງຫມົດທີ່ມັນມີ.
+ໂອ້ ສະຖານທີ່ນີ້ຂີ້ເຫຍື້ອ ຂ້ອຍຮູ້ສຶກຄືຄົນນອກບ້ານ
 
 546
 00:33:20,550 --> 00:33:23,700
 [SNOW WHITE]
 I'm sorry but this just isn't working for me.
-ສະບາຍດີ, ເປັນແນວໃດ?
+ຂ້ອຍໂຊກດີ ແຕ່ສິ່ງນີ້ບໍ່ໄດ້ເຮັດວຽກສໍາລັບຂ້ອຍ.
 
 547
 00:33:24,200 --> 00:33:29,100
 [SLEEPING BEAUTY]
 Everything's always about you, isn't it? It's not like your attitude is helping, Snow.
-ກິນເຂົ້າ ຫນົມ ປັງທີ່ຫົດດ້ວຍ ຫມາກ ໂລແກນແບຣີ.
+ທຸກສິ່ງທຸກຢ່າງແມ່ນກ່ຽວກັບເຈົ້າ, ແມ່ນບໍ?
+ມັນບໍ່ຄືວ່າທ່າທາງຂອງເຈົ້າຈະຊ່ວຍ, Snow.
 
 548
 00:33:29,600 --> 00:33:34,500
 [SNOW WHITE]
 Well maybe it just bothers you that I was voted fairest in the land.
-ມັນເປັນກຸສົນ, ຈັບລາວ!
+ບາງທີມັນອາດຈະເຮັດໃຫ້ເຈົ້າບໍ່ພໍໃຈ
+ທີ່ຂ້ອຍໄດ້ຮັບຄະແນນສຽງເປັນຄົນຍຸດຕິທໍາທີ່ສຸດໃນປະເທດ.
 
 549
 00:33:35,000 --> 00:33:37,100
 [RAPUNZEL]
 You mean in that rigged election?
-ສະບາຍດີ!
+ທ່ານຫມາຍຄວາມວ່າ ໃນການເລືອກຕັ້ງທີ່ຈົບແນ່ນັ້ນ?
 
 550
 00:33:37,600 --> 00:33:43,600
 [SNOW WHITE]
 Oh, give me a break.  Shrek the Third - Final Screening Script 70. SNOW WHITE  "Rapunzel, Rapunzel, let down thy golden extensions!"
-ປິດປາກຂອງທ່ານ Cindy.
+ໂອ້, ພໍໄດ້ແລ້ວ! Shrek Third - Final Screening Script 70
+Snow White"Rapunzel, Rapunzel ປ່ອຍການຂະຫຍາຍຄໍາຂອງທ່ານ!"
 
 551
 00:33:44,100 --> 00:33:47,950
 [QUEEN]
 Ladies, let go of your petty complaints and let's work together.
-ແມ່!
+ແມ່ຍິງເອີຍ, ໃຫ້ລືມຄໍາຮ້ອງທຸກນ້ອຍໆ ແລະໃຫ້ພວກເຮົາເຮັດວຽກຮ່ວມກັນ.
 
 552
 00:33:48,450 --> 00:33:54,400
 [SNOW WHITE]
 So I guess the plan is we just wander aimlessly in this stink hole until we rot.
-ນັ້ນແມ່ນຄໍາທີ່ຖືກຕ້ອງບໍ?"Smote?""Smooote"
-. ແມ່ນຄໍາວ່າແທ້ໆບໍ? ບາງທີຂ້ອຍຄວນຈະຕີລາວ.
+ສະນັ້ນຂ້ອຍຄິດວ່າແຜນການແມ່ນພວກເຮົາຈະຍ່າງໄປມາໂດຍບໍ່ມີຈຸດປະສົງ
+ໃນຮູທີ່ກິ່ນຫອມນີ້ ຈົນກວ່າພວກເຮົາຈະເປື່ອຍ.
 
 553
 00:33:54,900 --> 00:33:59,100
 [FIONA]
 No, we're gonna get inside and find out what Charming's up to.
-ບໍ່! ເຈົ້າປິດປາກ!
+ບໍ່, ພວກເຮົາຈະເຂົ້າໄປເບິ່ງວ່າ Charming ມີແຜນຫຍັງ.
 
 554
 00:33:59,600 --> 00:34:05,600
 [DORIS]
 I know he's a jerk and everything, but I gotta admit, that Charming makes me hotter than July.
-ໃຜສົນໃຈວ່າໃຜຄວບຄຸມອານາຈັກ?
+ຂ້ອຍຮູ້ວ່າລາວເປັນຄົນຂີ້ເຫຍື້ອ ແລະທຸກສິ່ງທຸກຢ່າງ
+ແຕ່ຂ້ອຍຕ້ອງຍອມຮັບວ່າ Charming ເຮັດໃຫ້ຂ້ອຍຮ້ອນກວ່າເດືອນກໍລະກົດ
 
 555
 00:34:06,100 --> 00:34:08,100
 [SLEEPING BEAUTY]
 Ew!
-ແມ່ນບໍ?
+ເອີ່!
 
 556
 00:34:08,600 --> 00:34:10,600
 [RAPUNZEL]
 Ugh.
-(ການສະແດງສະຖານະການອອກ
+ໂອ້.
 
 557
 00:34:11,100 --> 00:34:13,100
 [FIONA]
 That's it!
-ອາຕີ!
+ແມ່ນແລ້ວ!
 
 558
 00:34:13,600 --> 00:34:15,600
 [RAPUNZEL]
 Come on, this way!
-ຂີ້ເຫຍື້ອ?!
+ມາ, ທາງນີ້!
 
 559
 00:34:16,100 --> 00:34:18,100
 [FIONA]
 Rapunzel. Wait!
-ໂຟ!
+Rapunzel ລໍຖ້າ!
 
 560
 00:34:18,600 --> 00:34:20,600
 [FIONA]
 Charming, let go of her.
-ແມວ?!
+Charming, ປ່ອຍນາງໄປ.
 
 561
 00:34:21,100 --> 00:34:23,900
 [PRINCE CHARMING]
 But why would I want to do that?
-ດີມັນບໍ່ສາມາດເຈັບປວດກວ່າການສະແດງທີ່ຊົ່ວຮ້າຍທີ່ທ່ານ ກໍາ ລັງໃຫ້.
+ແຕ່ເປັນຫຍັງຂ້ອຍຈຶ່ງຢາກເຮັດແນວນັ້ນ?
 
 562
 00:34:24,400 --> 00:34:26,400
 [RAPUNZEL]
 Grrrr!
-ຂໍອະໄພ, ແມ່ເຖົ້າກໍາລັງຜ່ານມາ.
+ຮາຮາ!
 
 563
 00:34:26,900 --> 00:34:28,900
 [PRINCE CHARMING]
 Woof!
-ມັນຫມາຍຄວາມວ່າແນວໃດ?
+ໂຟ!
 
 564
 00:34:29,400 --> 00:34:31,400
 [FIONA]
 What?
-ເຈົ້າຫລິ້ນຂ້ອຍຕະຫຼອດເວລາ.
+ແມ່ນຫຍັງ?
 
 565
 00:34:31,900 --> 00:34:35,750
 [PRINCE CHARMING]
 Say hello ladies, to the new Queen of Far Far Away.
-ເຮີ້, ເຮີ້.
+ຂໍສະແດງຄວາມຍິນດີນໍາທ່ານນາງ, ກັບພະຣາຊິນີຄົນໃຫມ່ຂອງ Far Far Away.
 
 566
 00:34:36,250 --> 00:34:38,250
 [CINDERELLA]
 Yaaaaaaaaay!
-ໄຮໄຮ!
+ຢາaaaaaaay!
 
 567
 00:34:38,750 --> 00:34:40,750
 [FIONA]
 Rapunzel, how could you?
-ຢ່າງຫນ້ອຍເຈົ້າເບິ່ງບໍ່ຄ້າຍກັບປີ້ຕາແຄມຖະຫນົນຫົນທາງ
-ທີ່ອົກອັກເສບ ເຈົ້າຄວນຄິດກ່ຽວກັບການກິນອາຫານ!
+Rapunzel, ເຈົ້າເຮັດໄດ້ແນວໃດ?
 
 568
 00:34:41,250 --> 00:34:43,250
 [RAPUNZEL]
 Jealous much?
-"ໂອ້ ຂໍຊ່ວຍຂ້ອຍ!"
+ໂກດແຄ້ນຫຼາຍບໍ?
 
 569
 00:34:43,750 --> 00:34:49,750
 [PRINCE CHARMING]
 Soon you'll be back where you started... scrubbing floors or locked away in towers; that is, if I let you last the week.
-Charming ໄດ້ກັກນາງໄວ້ບ່ອນທີ່ລັບ ທ່ານຕ້ອງຊອກຫາລາວ
+ໃນໄວໆນີ້ ເຈົ້າກໍຈະກັບຄືນໄປບ່ອນທີ່ເຈົ້າໄດ້ເລີ່ມຕົ້ນ... ກັ່ນຕອງພື້ນ
+ຫຼື ຖືກກັກໄວ້ໃນຫໍປ້ອມ; ນັ້ນແມ່ນຖ້າຂ້ອຍປ່ອຍໃຫ້ເຈົ້າຢູ່ໄດ້ຕະຫຼອດອາທິດ.
 
 570
 00:34:50,250 --> 00:34:53,050
 [RAPUNZEL]
 But Pooky, you promised you wouldn't hurt them!
-ລາວ, ລາວ. ບັດນີ້ມັນມ່ວນ.
+ແຕ່ Pooky, ເຈົ້າສັນຍາວ່າເຈົ້າຈະບໍ່ເຈັບປວດພວກເຂົາ!
 
 571
 00:34:53,550 --> 00:34:59,550
 [PRINCE CHARMING]
 Not here, "kitten whiskers." Daddy will discuss it later. Now forgive us, we have a show to put on.
-ລໍຖ້າລໍຖ້າ! ປິນໂອກຽວ! ສະແດງຫຍັງ?
+ບໍ່ແມ່ນຢູ່ນີ້"ແມວຫມູ". ພໍ່ຈະສົນທະນາກັນໃນເວລາຕໍ່ມາ.
+ບັດນີ້ໃຫ້ອະໄພພວກເຮົາ, ພວກເຮົາມີການສະແດງທີ່ຈະຈັດຂຶ້ນ.
 
 572
 00:35:00,050 --> 00:35:03,550
 [FIONA]
 Shrek will be back soon Charming, and you'll be sorry.
-ລໍຖ້າທີ່ຈະໄດ້ຮັບການຊ່ວຍເຫຼືອ.
+Shrek ຈະກັບມາອີກບໍ່ດົນ Charming, ແລະເຈົ້າຈະເສຍໃຈ.
 
 573
 00:35:04,050 --> 00:35:08,950
 [PRINCE CHARMING]
 Sorry? Don't you realize --once Shrek sets foot in Far Far Away he's doomed?
-ຂ້ອຍຮູ້, ຂ້ອຍຮູ້ ທຸກສິ່ງທຸກຢ່າງແມ່ນມີຫມາກໄມ້ຢູ່ໃນວົງຈອນໃນເວລານີ້ ແຕ່ສິ່ງທີ່ເກີດຂຶ້ນແມ່ນພວກເຮົາໄປໂຮງຮຽນມັດທະຍົມ
-, ເຮືອໄດ້ຕົກ, ແລະພວກເຮົາໄດ້ຮັບ"bippity-bopity-booped" ໂດຍ"Magic Man".
+ຂໍໂທດ, ເຈົ້າບໍ່ຮູ້ວ່າ... ເມື່ອ Shrek
+ບາດກ້າວໄປສູ່ Far Far Away ລາວຈະຖືກປະຖິ້ມ?
 
 574
 00:35:09,450 --> 00:35:11,450
 [ARTIE]
 Ow!
-ດີ... ນາງມີຕາຂອງເຈົ້າ.
+ໂອ້!
 
 575
 00:35:11,950 --> 00:35:13,950
 [DONKEY]
 Ahhh!
-ຂ້າມັນ!
+ອາຮາ!
 
 576
 00:35:14,450 --> 00:35:16,550
 [DONKEY]
 Look out! They've got a piano!
-ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+ລະມັດລະວັງ! ເຂົາເຈົ້າມີແປ້ນພິມ!
 
 577
 00:35:17,050 --> 00:35:19,500
 [CAPTAIN HOOK]
 Kill `em all. Except the fat one.
-"ຂ້າພະເຈົ້າຮູ້ວ່າທ່ານຈະລໍຖ້າ ແລະຈາກຈານຂອງຄວາມຮັກຂອງຂ້າພະເຈົ້າທ່ານຈະກິນ"
-. Shrek the Third - Final Screening Script 104.
+ຂ້າເຂົາຫມົດທຸກຄົນ ຍົກເວັ້ນຄົນໄຂມັນ
 
 578
 00:35:20,000 --> 00:35:23,500
 [CAPTAIN HOOK]
 King Charming has something special in mind for you, ogre.
-ຂີ້ເຫຍື້ອ?
+ກະສັດ Charming ມີບາງສິ່ງບາງຢ່າງພິເສດໃນຈິດໃຈສໍາລັບທ່ານ, ogre.
 
 579
 00:35:24,000 --> 00:35:26,000
 [SHREK]
 "King Charming?"
-ດີດີ ດີດີ ຈາກນີ້ພວກເຮົາຈະຮູ້ຈັກກັນວ່າ"ທີມອາລຟາ
-Super Awesome Cool Dynomite Wolf Squadron".
+"ກະສັດ Charming?"
 
 580
 00:35:26,500 --> 00:35:28,500
 [CAPTAIN HOOK]
 Attack!
-ແມ່ນແລ້ວ!
+ໂຈມຕີ!
 
 581
 00:35:29,000 --> 00:35:32,500
 [AAAARGH!]
 One lands and gets his peg-leg stuck in the ground.
-"ຜູ້ໃດເປັນຄົນຮ້າຍທີ່ຫນ້າຢ້ານກົວ ທີ່ໂກດແຄ້ນເຂົ້າມາ?"
+ຄົນນຶ່ງລົງຈອດ ແລະມີຕີນຕິດຢູ່ໃນດິນ.
 
 582
 00:35:33,000 --> 00:35:35,000
 [SHREK]
 Artie, Duck!
-"ທ່ານ Charming ຈະຕໍ່ສູ້ ຫຼືວ່າຈະຫຼົບຫນີ?"
+ອາຕີ, ດັກ!
 
 583
 00:35:35,500 --> 00:35:37,500
 [DONKEY]
 Ahhh!
-ໂຮ່!!
+ອາຮາ!
 
 584
 00:35:38,000 --> 00:35:40,000
 [CAPTAIN HOOK]
 Ha-ha! Argh!
-ໂອ້, ມັນເບິ່ງມ່ວນໆ ແຕ່ຂ້ອຍມີແນວຄິດທີ່ດີກວ່າ!
+ຮາຮາ!
 
 585
 00:35:40,500 --> 00:35:42,500
 [PIRATES]
 Argh! Argh!
-ໂອ້, ເຈົ້າເປັນຫຍັງ?
+ແອຟແອຟ!
 
 586
 00:35:43,000 --> 00:35:45,000
 [CAPTAIN HOOK]
 Ready the plank!
-ຟີໂອນາ! Shrek The Third - Final Screening Script 109.
+ກະກຽມກະດານ!
 
 587
 00:35:45,500 --> 00:35:47,500
 [DONKEY]
 Shrek!
-ແຮ່!
+Shrek!
 
 588
 00:35:48,000 --> 00:35:51,150
 [ARTIE]
 Help! Shrek the Third - Final Screening Script 75.
-ປີໂນກຽວ!
+ຊ່ວຍ ເຫລືອ!
 
 589
 00:35:51,650 --> 00:35:53,650
 [CAPTAIN HOOK]
 Ya cowards!
-ມາ, ສະບາຍດີ.
+ພວກເຈົ້າໂງ່!
 
 590
 00:35:54,150 --> 00:35:56,250
 [SHREK]
 What has Charming done with Fiona?
-ມີຫຍັງເກີດຂຶ້ນ?
+Charming ເຮັດຫຍັງກັບ Fiona?
 
 591
 00:35:56,750 --> 00:35:59,200
 [CAPTAIN HOOK]
 She's gonna get what's coming to her.
-"ຂ້າມທະເລທີ່ມີພາຍຸຫຼາຍທີ່ສຸດ".
+ນາງຈະໄດ້ຮັບສິ່ງທີ່ນາງຄວນໄດ້ຮັບ.
 
 592
 00:35:59,700 --> 00:36:03,550
 [CAPTAIN HOOK]
 Ahhh. And there ain't nothing you can do to stop him!
-"ການປະເຊີນຫນ້າກັບສັດທີ່ໂຫດຮ້າຍ!"
+ແລະບໍ່ມີຫຍັງທີ່ທ່ານສາມາດເຮັດໄດ້ ເພື່ອຢຸດລາວ!
 
 593
 00:36:04,050 --> 00:36:06,050
 [PUSS]
 We've got to save her!
-(ອ່ານຂໍ້ຄວາມຂອງລາວຈາກ a
+ພວກເຮົາຕ້ອງຊ່ວຍນາງ!
 
 594
 00:36:06,550 --> 00:36:08,650
 [DONKEY]
 But she's so far far away!
-ນາງເປັນຫຍັງ? ນາງເປັນແນວໃດ?
+ແຕ່ນາງຢູ່ຫ່າງໄກຫຼາຍ!
 
 595
 00:36:09,150 --> 00:36:14,050
 [SHREK]
 Get yourself back to Worcestershire, kid. Shrek the Third - Final Screening Script 76.
-"ເພື່ອໃຫ້ເຈົ້າສາມາດເບິ່ງຂ້ອຍໄດ້!"
+ກັບຄືນໄປເມືອງ Worcestershire, ເດັກນ້ອຍ.
+Shrek the Third - Final Screening Script 76.
 
 596
 00:36:14,550 --> 00:36:18,050
 [ARTIE]
 No, Shrek. Hold on a second. I've got an idea.
-ແມວ, ໃຫ້ເງິນຂ້ອຍ 5 ໂດລາ!
+ບໍ່, Shrek. ລໍຖ້າຊົ່ວຄາວ. ຂ້ອຍມີແນວຄິດ.
 
 597
 00:36:18,550 --> 00:36:21,000
 [MERLIN]
 I'm a buzzing bee, buzz, buzz, buzz...
-ຂ້ອຍໄດ້ລົງຄະແນນສຽງໃຫ້"ທີມອາລຟາ ວັອຟສັກໂດຣນ".
+ຂ້ອຍເປັນງູທີ່ດັງດັງ ດັງ, ດັງ...
 
 598
 00:36:21,500 --> 00:36:27,100
 [ARTIE]
 Mr. Merlin, they need a spell to get them...I mean, us, back to Far Far Away.
-ດີ, ມັນງ່າຍສໍາລັບເຈົ້າທີ່ຈະເວົ້າ ເຈົ້າບໍ່ແມ່ນຕົ້ນໄມ້ທີ່ຊົ່ວຮ້າຍ.
+ທ່ານເມີລິນ, ພວກເຂົາຕ້ອງການຄໍາສັບເພື່ອໃຫ້ພວກເຂົາ
+... ຫມາຍຄວາມວ່າ, ພວກເຮົາ, ກັບຄືນໄປບ່ອນໄກໄກ.
 
 599
 00:36:27,600 --> 00:36:33,600
 [MERLIN]
 Forget it. I don't have that kind of magic in me anymore, kid. How about a hug instead? Hmm? That's the best kind of magic.
-ອາວອາວ!
+ລືມມັນ. ຂ້ອຍບໍ່ມີການປະຫຼາດແບບນັ້ນອີກແລ້ວ, ເດັກນ້ອຍ.
+ຈະເປັນແນວໃດກັບການອົບອ້ອມແທນ? hmm? ນັ້ນແມ່ນການປະຫລາດແບບທີ່ດີທີ່ສຸດ.
 
 600
 00:36:34,100 --> 00:36:36,550
 [ARTIE]
 Mr. Merlin please. I know you can
-ຂ້ອຍເວົ້າວ່າ..."ໃນທີ່ສຸດ ຣາຊະອານາຈັກຈະໄດ້ຮັບຄວາມສຸກຕະຫຼອດໄປຕາມທີ່ພວກເຂົາສົມຄວນ
-, ຕາຍ Ogre", bla, bla, blah...
+ທ່ານເມີລິນ ກະລຸນາ ຂ້າພະເຈົ້າຮູ້ວ່າທ່ານສາມາດ
 
 601
 00:36:37,050 --> 00:36:39,050
 [MERLIN]
 I said, forget it!
-ຢ່າກັງວົນ, ບໍ່ວ່າມັນຈະເປັນຫຍັງ, ບໍ່ວ່າທ່ານຈະເຈັບປວດຫຼາຍປານໃດ
-, ມັນຈະຫາຍໄປໃນທີ່ສຸດ... ຂ້ອຍຄິດວ່າ.
+ຂ້ອຍເວົ້າວ່າ ລືມມັນ!
 
 602
 00:36:39,550 --> 00:36:43,400
 [BUT-]
 Merlin turns and starts to walk away muttering under his breath.
-ດີ ເດັກນ້ອຍ, ນັບແຕ່ນີ້ໄປ, ພວກເຮົາຈະເບິ່ງແຍງວຽກງານດ້ວຍຕົນເອງ.
+ເມຣລິນຫັນມາ ແລະເລີ່ມຍ່າງອອກໄປ ຂົ່ມຂູ່ໃນລົມຫາຍໃຈ.
 
 603
 00:36:43,900 --> 00:36:46,350
 [MERLIN]
 Mumble, grumble, interrupt my healing. Mumble, mumble.
-ຕອນນີ້ເຈົ້າຈະຮູ້ຢ່າງແນ່ນອນວ່າ ມັນຄືແນວໃດ ເມື່ອມີທຸກສິ່ງທຸກຢ່າງ
-ທີ່ເຈົ້າໄດ້ເຮັດວຽກເພື່ອ, ທຸກສິ່ງ ທຸກຢ່າງທີ່ເຈົ້າຮັກແພງນັ້ນ ຖືກເອົາໄປຈາກເຈົ້າ.
+ຂົ່ມຂູ່, ຂົ່ມເຫັງ, ຂັດຂວາງການປິ່ນປົວຂອງຂ້າພະເຈົ້າ
+. ຂີ້ຂົ່ມຂືນ, ຂີ້ກຽດ.
 
 604
 00:36:46,850 --> 00:36:48,850
 [MERLIN]
 Oh. What, what's with you?
-ໂອບ.
+ໂອ້, ເຈົ້າເປັນຫຍັງ?
 
 605
 00:36:49,350 --> 00:36:55,350
 [ARTIE]
 It's just so hard. You know? They really need to get back `cause their kingdom's in trouble `cause there's a really bad man and it's just so hard...
-ເຈົ້າບໍ່ໄດ້ເປັນຄົນຕໍ່ໄປໃນການສືບທອດອານາຈັກ, ດີບໍ?
+ມັນຍາກຫຼາຍ, ເຈົ້າຮູ້ບໍ່, ພວກເຂົາຕ້ອງການກັບຄືນໄປບ່ອນ
+ເພາະວ່າອານາຈັກຂອງພວກເຂົາຢູ່ໃນຄວາມຫຍຸ້ງຍາກ ເພາະວ່າມີຄົນຮ້າຍແທ້ໆ ແລະມັນຍາກຫຼາຍ...
 
 606
 00:36:55,850 --> 00:36:57,850
 [MERLIN]
 C'mon, take it easy.
-ໂອໂອ, ຖ້າເຈົ້າບໍ່ສົນໃຈ ເຈົ້າສາມາດຂ້າຂ້ອຍໄດ້ ແລະຮ້ອງເພງໄດ້ບໍ
-? Shrek the Third - Final Screening Script 106.
+ມາ, ສະບາຍດີ.
 
 607
 00:36:58,350 --> 00:37:03,950
 [ARTIE]
 No! I don't think you understand! There's a mean person doing mean things to good people-
-ຕາມທີ່ຂ້າພະເຈົ້າຈື່ໄດ້ມັນແມ່ນ"Team Awesome".
+ບໍ່, ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າຈະເຂົ້າໃຈ. ມີຄົນຮ້າຍເຮັດສິ່ງຮ້າຍແກ່ຄົນດີ.
 
 608
 00:37:04,450 --> 00:37:06,550
 [SHREK]
 Oh, have a heart old man!
-ໂອ້, ມາເຖອະ, ຂ້ອຍພຽງແຕ່ມ່ວນຊື່ນກັບເຈົ້າ.
+ໂອ້, ມີຫົວໃຈເດີ!
 
 609
 00:37:07,050 --> 00:37:12,650
 [ARTIE]
 And they really need your help to get them back! So why won't you help them?
-ພວກເຈົ້າໂງ່ໆ ຢ່າຟັງລາວ!
+ແລະພວກເຂົາຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ ເພື່ອເອົາພວກມັນກັບມາ!
 
 610
 00:37:13,150 --> 00:37:15,150
 [MERLIN]
 Oh.
-ຂ້ອຍປູກດອກກຸ້ງ!
+ໂອ້.
 
 611
 00:37:15,650 --> 00:37:18,450
 [MERLIN]
 Uh, Okay... I'll go and get my things.
-ບັນດາທ່ານຜູ້ຍິງ ແລະ ຜູ້ຊາຍ ໂຮງລະຄອນ Far Far Away ທີ່ Charming Pavilion
-ມີຄວາມພາກພູມໃຈທີ່ຈະສະເຫນີ"It's a Happily Ever After, After All".
+ໂອເຄ... ຂ້ອຍຈະໄປເອົາເຄື່ອງຂອງຂ້ອຍ.
 
 612
 00:37:18,950 --> 00:37:22,800
 [ARTIE]
 Piece of cake. Shrek the Third - Final Screening Script 78.
-Aaaahhhh!
+ຊິ້ນສ່ວນຂອງ cake Shrek ທີສາມ - Screening ສຸດທ້າຍບົດຂຽນ 78.
 
 613
 00:37:23,300 --> 00:37:26,800
 [SHREK]
 Well, well, well. You want some eggs with that ham?
-ບັດນີ້, ພວກເຈົ້າທຸກຄົນ ຈົ່ງຍອມບູຊາຕໍ່ຫນ້າກະສັດຂອງພວກເຈົ້າ!
+ດີ ດີ ດີ ເຈົ້າຢາກໄຂ່ກັບແຊມບໍ?
 
 614
 00:37:27,300 --> 00:37:31,850
 [MERLIN]
 Now, I am a little rusty, so there could be some side effects.
-ຂໍໂທດ, ຂ້ອຍຄິດວ່າ ຂ້ອຍກໍາລັງສະແດງໃຫ້ຄົນນ້ອຍເຫັນ.
+ດຽວນີ້, ຂ້ອຍຂີ້ເຫຍື້ອເລັກນ້ອຍ, ສະນັ້ນ ອາດຈະມີຜົນຂ້າງຄຽງບາງຢ່າງ.
 
 615
 00:37:32,350 --> 00:37:34,350
 [DONKEY]
 Side effects!?
-ດ້ວຍດາບນີ້, ຂ້າພະເຈົ້າໄດ້ຕີທ່ານ! Shrek
-ບົດຂຽນການສະແດງທີສາມ - ສຸດທ້າຍ 86.
+ຜົນຂ້າງຄຽງ!?
 
 616
 00:37:34,850 --> 00:37:40,850
 [MERLIN]
 Don't worry, whatever it is, no matter how excruciatingly painful it may be, it'll wear off eventually... I think.
-"ກະກຽມສັດຮ້າຍ, ເວລາຂອງເຈົ້າຫມົດແລ້ວ".
+ຢ່າກັງວົນ, ບໍ່ວ່າມັນຈະເປັນຫຍັງ, ບໍ່ວ່າທ່ານຈະເຈັບປວດຫຼາຍປານໃດ
+, ມັນຈະຫາຍໄປໃນທີ່ສຸດ... ຂ້ອຍຄິດວ່າ.
 
 617
 00:37:41,350 --> 00:37:43,350
 [DONKEY]
 Ah!
-"ອາຮ ຮາ ຮາຮາ".
+ໂອ້!
 
 618
 00:37:43,850 --> 00:37:45,850
 [MERLIN]
 Oops.
-ແອຣ໌-ໄດ ແອັຣ໌ໄດແອັສແຣັກ ສະແຕນເລດທີ 3 - ສຸດທ້າຍ 114
+ໂອບ.
 
 619
 00:37:46,350 --> 00:37:49,150
 [DONKEY]
 Are you sure this is a good idea?
-"ທັງ ຫມົດ ເພາະວ່າຂ້ອຍຮ້ອງເພງ.
+ທ່ານແນ່ໃຈວ່ານີ້ແມ່ນຄວາມຄິດທີ່ດີບໍ?
 
 620
 00:37:49,650 --> 00:37:55,650
 [SHREK]
 Look, if Artie trusts him, that's good enough for me. Even if his robe doesn't quite cover his-
-"ຮາຮາ ຮາຮ່າຮ່າ".
+ເບິ່ງ, ຖ້າອາຕີໄວ້ວາງໃຈລາວ, ມັນພໍດີສໍາລັບຂ້ອຍ
+. ເຖິງແມ່ນວ່າເສື້ອຜ້າຂອງລາວຈະບໍ່ປົກຄຸມ...
 
 621
 00:37:56,150 --> 00:38:01,050
 [MERLIN]
 Alacraticious expeditious, a zoomy zoom zoom. Let's help our friends get back, um... soon!
-ເຖິງແມ່ນວ່າຂ້ອຍກໍມັກ"ອາບນໍ້າຫມູ" ເຫຼົ່ານີ້.
+ເລັ່ງເລັ່ງ, ເລັ່ງຂະຫຍາຍ,
+ໃຫ້ຊ່ວຍເພື່ອນມິດຂອງພວກເຮົາກັບຄືນມາ... ໄວໆນີ້!
 
 622
 00:38:01,550 --> 00:38:03,550
 [MERLIN]
 Woah! It worked!
-ທ່ານຈະບໍ່ທໍາລາຍສິ່ງຕ່າງໆໃນຄັ້ງນີ້ ogre ຂ້າມັນ!
+ມັນໄດ້ຜົນ!
 
 623
 00:38:04,050 --> 00:38:08,250
 [DONKEY]
 Oh man, I haven't been on a trip like that since college.
-ອາຮາ!
+ໂອ້ ຜູ້ຊາຍ, ຂ້ອຍບໍ່ເຄີຍເດີນທາງແບບນີ້ນັບຕັ້ງແຕ່ມະຫາວິທະຍາໄລ.
 
 624
 00:38:08,750 --> 00:38:10,750
 [SHREK]
 Donkey?
-ທຸກຄົນຈົ່ງຢຸດ!
+ຂີ້ເຫຍື້ອ?
 
 625
 00:38:11,250 --> 00:38:13,700
 [DONKEY]
 What? Is there something in my teeth?
-ອາຕີ?
+ມີຫຍັງຢູ່ໃນແຂ້ວຂອງຂ້ອຍບໍ?
 
 626
 00:38:14,200 --> 00:38:16,200
 [DONKEY]
 Huh? What the? Oh no!
-ຂີ້ເຫຍື້ອ, ພວກເຮົາພົວພັນກັບຄົນອາສາສະມັກ.
+ຮາ? ແມ່ນຫຍັງ? ໂອ້ ບໍ່!
 
 627
 00:38:16,700 --> 00:38:20,200
 [DONKEY]
 I've been abracadabra'd into a fancy feasting second rate sidekick.
-ແມ່ນແລ້ວ.
+ຂ້າພະເຈົ້າໄດ້ abracadabra'd ເຂົ້າໄປໃນ
+fancy feasting ຄູ່ຮ່ວມມືຊັ້ນສອງ.
 
 628
 00:38:20,700 --> 00:38:26,700
 [PUSS]
 At least you don't look like some kind of bloated roadside pi�ata. You really should think about going on a diet! Shrek the Third - Final Screening Script 80.
-ເບິ່ງ-ເບິ່ງ-ເບິ່ງ.
+ຢ່າງຫນ້ອຍເຈົ້າເບິ່ງບໍ່ຄ້າຍກັບປີ້ຕາແຄມຖະຫນົນຫົນທາງ
+ທີ່ອົກອັກເສບແທ້ໆ ເຈົ້າຄວນຄິດກ່ຽວກັບການກິນອາຫານ!
 
 629
 00:38:27,200 --> 00:38:33,200
 [DONKEY]
 Yeah, and you should think about getting yourself a pair of pants! I feel all exposed and nasty.
-ສະບາຍດີ.
+ແມ່ນແລ້ວ, ແລະເຈົ້າຄວນຄິດກ່ຽວກັບການຊື້ເສື້ອກັນ ຫນາວ
+ໃຫ້ຕົວເຈົ້າເອງ! ຂ້ອຍຮູ້ສຶກເປົ່າເປົ່າແລະບໍ່ດີ.
 
 630
 00:38:33,700 --> 00:38:36,500
 [DONKEY]
 Oh, so you two think this is funny?
-ເຈົ້າມີທາງກັບເດັກນ້ອຍແທ້ໆ, Shrek.
+ໂອ້, ເຈົ້າທັງສອງຄິດວ່າມັນມ່ວນບໍ?
 
 631
 00:38:37,000 --> 00:38:39,000
 [ARTIE]
 I'm really sorry guys.
-ບັດນີ້ພວກເຮົາຈະເຮັດແນວໃດ?
+ຂ້ອຍຮູ້ສຶກເສຍໃຈແທ້ໆ.
 
 632
 00:38:39,500 --> 00:38:41,950
 [SHREK]
 Don't be! You got us back kid.
-ພວກເຮົາຍັງມີຄວາມສຸກຕະຫຼອດໄປ ເກືອບຈະສໍາເລັດແລ້ວ, ແມ່, ແລະຂ້າພະເຈົ້າຮັບປະກັນທ່ານ
-, ປະຊາຊົນຂອງອານາຈັກນີ້ຈະຈ່າຍຄ່າແພງສໍາລັບທຸກໆວິນາທີທີ່ພວກເຮົາໄດ້ລໍຖ້າ.
+ຢ່າກັງວົນ, ເຈົ້າໄດ້ກັບຄືນມາໃຫ້ພວກເຮົາ ເດັກນ້ອຍ.
 
 633
 00:38:42,450 --> 00:38:48,450
 [DONKEY]
 Ow, ow, ow, ow, ow. How in the Hans Christian Andersen am I supposed to parade around in these goofy boots?
-ແມ່?
+ໂອ, ໂອ,ໂອ,ໂອ. ຂ້ອຍຈະຂີ່ເກີບແບບນີ້ໄດ້ແນວໃດ?
 
 634
 00:38:48,950 --> 00:38:51,400
 [PUSS]
 Be very careful with those - HEE
-ຟີໂອນາຢູ່ໃສ?
+ລະມັດລະວັງຫຼາຍກັບພວກ - HEE
 
 635
 00:38:51,900 --> 00:38:55,050
 [HAW!]
 Puss is shocked by this. He tries to recover.
-ຂໍໃຫ້ຂ້າພະເຈົ້າຄາດເດົາ... Arthur?
+Puss ແມ່ນຕົກໃຈກັບເລື່ອງນີ້. ລາວພະຍາຍາມທີ່ຈະຟື້ນຕົວ.
 
 636
 00:38:55,550 --> 00:39:01,550
 [PUSS]
 They were made in Madrid by the finest- HEE HAW! Shrek the Third - Final Screening Script 81.
-ອາຕີ, ມັນບໍ່ແມ່ນດັ່ງທີ່ມັນເບິ່ງຄືວ່າ.
+ພວກມັນໄດ້ຖືກສ້າງຂຶ້ນໃນ Madrid ໂດຍທີ່ດີທີ່ສຸດ- HEE
+HAW! Shrek the Third - Final Screening Script 81.
 
 637
 00:39:02,050 --> 00:39:04,150
 [DONKEY]
 Oh, you'll learn to control that.
-"ຂ້ອຍແຂງແຮງ ແລະກ້າຫານ, ແລະແລ່ນໄປຫາບ່ອນນັ້ນ
-ດ້ວຍຄວາມໄວ, ດ້ວຍຄວາມເຂັ້ມແຂງ, ດ້ວຍຜົມອ່ອນແລະກະຕຸ້ນ".
+ໂອ້, ເຈົ້າຈະຮຽນຮູ້ທີ່ຈະຄວບຄຸມສິ່ງນັ້ນ.
 
 638
 00:39:04,650 --> 00:39:09,200
 [DONKEY]
 Seriously man, you need some comfort inserts or arch supports or something.  Woah!
-ໂຊສຊີຣ໌ລ!!
+ຢ່າງຈິງຈັງ, ຜູ້ຊາຍ, ທ່ານຕ້ອງການການໃສ່ຄວາມສະດວກສະບາຍ
+ຫຼືການສະຫນັບສະຫນູນ arch ຫຼືບາງສິ່ງບາງຢ່າງ.
 
 639
 00:39:09,700 --> 00:39:11,700
 [EVIL WITCHES]
 Woohoo!!
-ມັນຄື"ນໍາລູກໄປເຮັດວຽກ" C'mere ງາມ.
+ໂຮ່!!
 
 640
 00:39:12,200 --> 00:39:16,050
 [EVIL DWARF #1]
 Hey... watch it I'm walking here... and I'm gonna keep going...
-ອະທິຖານຂໍຄວາມເມດຕາຈາກ...
+ເຮີ້... ລະວັງເບິ່ງ ຂ້ອຍກໍາລັງຍ່າງມາ... ແລະຂ້ອຍຈະສືບຕໍ່ໄປ...
 
 641
 00:39:16,550 --> 00:39:19,700
 [SHREK]
 Pinocchio? Shrek the Third - Final Screening Script 82.
-ດີແລ້ວ!
+ປິນໂອກຽວ Shrek The Third - Final Screening Script 82.
 
 642
 00:39:20,200 --> 00:39:22,200
 [PINOCCHIO]
 Shrek!
-ແລະ Donkey!
+Shrek!
 
 643
 00:39:22,700 --> 00:39:24,700
 [SHREK]
 Pinocchio!
-ຊີ້ໃຫ້ເຫັນຈຸດ!
+ປີໂນກຽວ!
 
 644
 00:39:25,200 --> 00:39:27,200
 [PINOCCHIO]
 Help me!
-ກີຣູບ!
+ຊ່ວຍຂ້ອຍ!
 
 645
 00:39:27,700 --> 00:39:29,700
 [SHREK]
 What's happened?
-ແລະ ພວກເຈົ້າກໍຄວນເປັນຫ່ວງນໍາກັນ.
+ມີຫຍັງເກີດຂຶ້ນ?
 
 646
 00:39:30,200 --> 00:39:36,200
 [PINOCCHIO]
 Charming and the Villains have taken over everything! They attacked us but Fiona and the Princesses got away. And now she's- -
-ພວກມັນມີຂະຫນາດຜູ້ຊາຍບໍ?
+Charming ແລະ Villains ໄດ້ຄອບຄອງທຸກສິ່ງທຸກຢ່າງ ພວກເຂົາໄດ້ໂຈມຕີພວກເຮົາ
+ແຕ່ Fiona ແລະ Princess ໄດ້ລອດໄປ ແລະດຽວນີ້ນາງ-
 
 647
 00:39:36,700 --> 00:39:38,700
 [SHREK]
 She's what?! She's what!?
-ອາຮາຮາ!!!
+ນາງເປັນຫຍັງ? ນາງເປັນແນວໃດ?
 
 648
 00:39:39,200 --> 00:39:41,200
 [SHREK]
 (turns to Puss in Donkey's
-ແມ່ນແລ້ວ, ຄຣອຍຊານອາຫານເຊົ້າ ທີ່ເຕັມໄປດ້ວຍໂຕນຊາມິທີ່ເຜົາຜານ.
-ເພາະວ່າລູກຄ້າຂອງພວກເຮົາ ບໍ່ສາມາດເຂົ້າໄປໃນສະພາບອາລົມທີ່ເຫມາະສົມ
+(ຫັນໄປຫາ Puss ໃນ Donkey ຂອງ
 
 649
 00:39:41,700 --> 00:39:43,700
 [BODY)]
 Puss, loan me five bucks!
-ເດັກນ້ອຍຂອງຂ້ອຍ!
+ແມວ, ໃຫ້ເງິນຂ້ອຍ 5 ໂດລາ!
 
 650
 00:39:44,200 --> 00:39:47,700
 [DONKEY]
 C'mon Puss, you heard the man, help a brother out.
-ສະບາຍດີ!
+ມາແລ້ວ Puss, ທ່ານໄດ້ຍິນຜູ້ຊາຍ, ຊ່ວຍເອື້ອຍນ້ອງອອກ.
 
 651
 00:39:48,200 --> 00:39:50,650
 [PUSS]
 Do you see any pockets on me?
-ແມ່ນແລ້ວ... ແມ່ນແລ້ວ, ຈອກຮູບຫົວໃຈ.
+ເຈົ້າເຫັນກະເປົາໃດຢູ່ເທິງຂ້ອຍບໍ?
 
 652
 00:39:51,150 --> 00:39:53,150
 [DONKEY]
 Hold on a second.
-ແມ່ນແລ້ວ... loganberries.
+ລໍຖ້າຊົ່ວຄາວ
 
 653
 00:39:53,650 --> 00:39:55,650
 [DONKEY]
 Aha!
-ຖ້າມີບາງສິ່ງບາງຢ່າງທີ່ທ່ານຕ້ອງການແທ້ໆ, ຫຼືມີຜູ້ໃດຜູ້ ຫນຶ່ງ
-ທີ່ທ່ານຢາກເປັນແທ້ຈິງ, ຫຼັງຈາກນັ້ນຄົນດຽວທີ່ຢືນຢູ່ໃນທາງຂອງທ່ານ... ແມ່ນທ່ານ.
+ແມ່ນແລ້ວ!
 
 654
 00:39:56,150 --> 00:39:58,600
 [PUSS]
 I had no idea ...really ...I swear.
-ວາວ.
+ຂ້ອຍບໍ່ມີຄວາມຮູ້ສຶກ...ແທ້ໆ...ຂ້ອຍສາບານ.
 
 655
 00:39:59,100 --> 00:40:01,100
 [SHREK]
 Quick, Pinocchio. Where is Fiona?
-ແມ່ນແລ້ວ, ປິດປາກ.
+ວ່ອງໄວ, Pinocchio. Fiona ຢູ່ໃສ?
 
 656
 00:40:01,600 --> 00:40:07,600
 [PINOCCHIO]
 Charming's got her locked away some place secret. You gotta find him! He's probably getting ready for the
-ແຕ່ພວກເຮົາຍັງເປັນຄົນຮ້າຍ ມັນເປັນສິ່ງດຽວທີ່ພວກເຮົາຮູ້
+Charming ໄດ້ກັກນາງໄວ້ບ່ອນທີ່ລັບ ທ່ານຕ້ອງຊອກຫາລາວ
 
 657
 00:40:08,100 --> 00:40:10,100
 [SHOWWWW---]
 The curtain goes down again.
-ດີ, ເຈົ້າບໍ່ຄິດແທ້ໆວ່າ
-ເຈົ້າໄດ້ຮັບຄວາມສາມາດໃນການຕໍ່ສູ້ຈາກພໍ່ຂອງເຈົ້າ, ແມ່ນບໍ?
+ຝາປິດລົງອີກຄັ້ງ.
 
 658
 00:40:10,600 --> 00:40:12,700
 [SHREK]
 Wait, wait, wait! Pinocchio! What show?
-ແຕ່ຢ່າແຊກແຊງ!
+ລໍຖ້າລໍຖ້າ! ປິນໂອກຽວ! ສະແດງຫຍັງ?
 
 659
 00:40:13,200 --> 00:40:15,650
 [PUSS]
 It's A Happily Ever After, After All!
-ເອົາເຂົາໄປ ພວກນ້ອງ!
+ມັນເປັນ"ຄວາມສຸກຕະຫຼອດຊີວິດ" ຫຼັງຈາກທີ່ທັງຫມົດ!
 
 660
 00:40:16,150 --> 00:40:18,150
 [SHREK]
 Shrek's final performance.
-ເຈົ້າບໍ່ເຄີຍປາດຖະຫນາວ່າ ເຈົ້າສາມາດເປັນຄົນອື່ນໄດ້ບໍ?
+ການສະແດງສຸດທ້າຍຂອງ Shrek.
 
 661
 00:40:18,650 --> 00:40:22,500
 [DONKEY]
 Whoa, Shrek! You didn't tell us you were in a play.
-ມາລອງອີກຄັ້ງ.
+ໂອ້, Shrek ເຈົ້າບໍ່ໄດ້ບອກພວກເຮົາວ່າເຈົ້າມີບົດສະແດງ.
 
 662
 00:40:23,000 --> 00:40:29,000
 [SHREK]
 Well I guess I've been so busy I forgot to mention it! Shrek the Third - Final Screening Script 84.
-Puss, ໃນຮ່າງກາຍຂອງ Donkey, hisses ແລະ arched ຫຼັງຂອງລາວຄືກັບ
-cat. Shrek the Third - Final Screening Script 92.
+ດີ ຂ້ອຍຄິດວ່າຂ້ອຍມີວຽກຫຼາຍ ຈົນລືມບອກ Shrek
+the Third - Final Screening Script 84.
 
 663
 00:40:29,500 --> 00:40:31,500
 [GUARD #1]
 It's the ogre! Get him!
-ສິ່ງທີ່ Steve ພະຍາຍາມບອກຢູ່ນີ້ ກໍຄືວ່າ
-ມັນຍາກທີ່ຈະມີວຽກເຮັດງານທໍາຢ່າງຊື່ສັດ ເມື່ອໂລກທັງຫມົດຕໍ່ຕ້ານທ່ານ.
+ມັນເປັນກຸສົນ, ຈັບລາວ!
 
 664
 00:40:32,000 --> 00:40:34,100
 [PUSS]
 Don't worry, Jefe. I got this.
-ເຈົ້າຍິງ?!
+ບໍ່ຕ້ອງກັງວົນ, Jefe. ຂ້ອຍຮັບຜິດຊອບເລື່ອງນີ້.
 
 665
 00:40:34,600 --> 00:40:36,600
 [GUARD #2]
 Ugh! Kill it!
-ດີແລ້ວ, ຍຸຕິທໍາແລ້ວ ເຈົ້າມີຄວາມຖືກຕ້ອງ ຂ້ອຍບໍ່ແມ່ນຕົ້ນໄມ້ທີ່ເວົ້າ ແຕ່ວ່າ, ເຈົ້າຮູ້ບໍ່,
-ຫມູ່ທີ່ດີຂອງຂ້ອຍເຄີຍບອກຂ້ອຍວ່າ ພຽງແຕ່ຍ້ອນວ່າຄົນເຮົາປິ່ນປົວເຈົ້າຄືຄົນຮ້າຍ, ຫຼືຄົນຮ້າຍ...
+ຂ້າມັນ!
 
 666
 00:40:37,100 --> 00:40:41,300
 [ARTIE]
 Look, don't you know who he thinks he is? How dare you?
-ແມ່ນແລ້ວ.
+ເບິ່ງ, ເຈົ້າບໍ່ຮູ້ວ່າລາວຄິດວ່າລາວເປັນໃຜ? ເຈົ້າກ້າແນວໃດ?
 
 667
 00:40:41,800 --> 00:40:43,800
 [SHREK]
 Donkey, we're dealing with amateurs.
-"ຄອບຄົວ AAAAAAR!"
+ຂີ້ເຫຍື້ອ, ພວກເຮົາພົວພັນກັບຄົນອາສາສະມັກ.
 
 668
 00:40:44,300 --> 00:40:48,500
 [ARTIE]
 He's a star people! Hello?! I'm so sorry about this Mr. Shrek.
-ດີ, ເຈົ້າຄາດຫວັງວ່າພວກເຮົາຈະເຮັດແນວໃດ? ພວກເຮົາມີພຽງສີ່... ຫມາຍຄວາມວ່າ,
-ສາມ, princesses super ຮ້ອນ, freaks ວົງຈອນສອງ, ogre ຖືພາແລະຜູ້ຍິງອາຍຸ.
+ລາວເປັນດາວຄົນ! ສະບາຍດີ?!
+ຂ້າພະເຈົ້າຮູ້ສຶກເສຍໃຈຫຼາຍກ່ຽວກັບທ່ານ Shrek ນີ້.
 
 669
 00:40:49,000 --> 00:40:51,000
 [SHREK]
 I'm gonna lose it!
-...ມັນບໍ່ໄດ້ຫມາຍຄວາມວ່າເຈົ້າເປັນນຶ່ງ.
+ຂ້ອຍຈະສູນເສຍມັນ!
 
 670
 00:40:51,500 --> 00:40:57,450
 [ARTIE]
 I assume you have everything ready for tonight! You did get the list for the dressing room?
-ບໍ່ແມ່ນຢ່າງແນ່ນອນ.
+ຂ້ອຍສົມມຸດວ່າເຈົ້າມີທຸກຢ່າງພ້ອມແລ້ວສໍາລັບຄືນນີ້
+ເຈົ້າມີລາຍຊື່ສໍາລັບຫ້ອງນຸ່ງເສື້ອບໍ?
 
 671
 00:40:57,950 --> 00:41:03,950
 [DONKEY]
 Yeah, the breakfast croissants stuffed with seared sashimi tuna. Oh, and please tell me you at least have the saffron corn with the jalapeno honey butter cause our client cannot get into his proper emotional state without his jalapeno honey butter.
-ເບິ່ງ, ຂ້ອຍໄດ້ເວົ້າທຸກຢ່າງທີ່ຂ້ອຍຕ້ອງເວົ້າ, ດີ!
-ຂ້ອຍບໍ່ເຫມາະສົມກັບວຽກ, ຂ້ອຍພຽງແຕ່ຕ້ອງການຄົນໂງ່ບາງຄົນທີ່ຈະທົດແທນຂ້ອຍ,
+ແມ່ນແລ້ວ, ຄຣອຍຊານອາຫານເຊົ້າ ທີ່ເຕັມໄປດ້ວຍໂຕນຊາມິທີ່ເຜົາຜານ.
+ເພາະວ່າລູກຄ້າຂອງພວກເຮົາ ບໍ່ສາມາດເຂົ້າໄປໃນສະພາບອາລົມທີ່ເຫມາະສົມ
 
 672
 00:41:04,450 --> 00:41:06,450
 [SHREK]
 I just lost it!
-ດີກວ່າຫຼາຍ, ຕອນທີ່ເຈົ້າມາແລ້ວ.
+ຂ້ອຍຫາຍໃຈແລ້ວ!
 
 673
 00:41:06,950 --> 00:41:10,100
 [GUARD #1]
 Uh...Maybe they should talk to Nancy in Human Resources.
-ແມມ.
+ອິອ... ບາງທີພວກເຂົາຄວນເວົ້າກັບນານຊີ ໃນພະແນກຊັບພະຍາກອນມະນຸດ.
 
 674
 00:41:10,600 --> 00:41:14,100
 [PUSS]
 Oh, we'll have much to say to Nancy, I promise!
-ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ນອນລົງ?
+ໂອ້, ພວກເຮົາຈະມີຫຼາຍຢ່າງທີ່ຈະເວົ້າກັບແນນຊີ, ຂ້າພະເຈົ້າສັນຍາ!
 
 675
 00:41:14,600 --> 00:41:16,600
 [PRINCE CHARMING]
 (reading his lines from a
-ຂ້ອຍຢາກເປີດສະປາໃນປະເທດຝຣັ່ງ.
+(ອ່ານຂໍ້ຄວາມຂອງລາວຈາກ a
 
 676
 00:41:17,100 --> 00:41:19,200
 [SCRIPT)]
 With this sword, I do- No.
-ດີເດີ້, ຊິນໂຣ ໂຮກຸສ-ຢີ ໂພກູສ-ຍີ
-ມັນເຖິງເວລາແລ້ວທີ່ຈະແກ້ໄຂຂໍ້ຜິດບາງຢ່າງ!
+ດ້ວຍດາບນີ້, ຂ້ອຍເຮັດ-- ບໍ່.
 
 677
 00:41:19,700 --> 00:41:24,950
 [PRINCE CHARMING]
 With this sword, I do smote thee! Shrek the Third - Final Screening Script 86.
-ກະລຸນາບອກວ່າເຈົ້າບໍ່ໄດ້.
+ດ້ວຍດາບນີ້, ຂ້າພະເຈົ້າໄດ້ຕີທ່ານ! Shrek
+ບົດຂຽນການສະແດງທີສາມ - ສຸດທ້າຍ 86.
 
 678
 00:41:25,450 --> 00:41:31,450
 [PRINCE CHARMING]
 Is that the right word? "Smote?" "Smooote." Is that even a word actually? Maybe I should just smite him.
-ເຈົ້າເຮັດຫຍັງ?
+ນັ້ນແມ່ນຄໍາທີ່ຖືກຕ້ອງບໍ?"Smote?""Smooote"
+. ແມ່ນຄໍາວ່າແທ້ໆບໍ? ບາງທີຂ້ອຍຄວນຈະຕີລາວ.
 
 679
 00:41:31,950 --> 00:41:33,950
 [PRINCE CHARMING]
 Let's try this again. Now...
-ເຈົ້າຈະຮູ້ສຶກຊັກຊ້າ ແລະອາດມີອາການບໍ່ສະບາຍໃນທ້ອງຕໍ່າ
-ແຕ່ສິ່ງນີ້ຄວນເຮັດໄດ້
+ມາລອງອີກຄັ້ງ.
 
 680
 00:41:34,450 --> 00:41:36,450
 [PRINCE CHARMING]
 (playing the scene out
-ແລະຂ້ອຍແມ່ນຂ້ອຍ!
+(ການສະແດງສະຖານະການອອກ
 
 681
 00:41:36,950 --> 00:41:40,100
 [QUIETLY)]
 Shrek attacks me, I pretend to be afraid.  Ooh!!!
-ພວກເຈົ້າຄົນທຸກຍາກ.
+Shrek ໂຈມຕີຂ້າພະເຈົ້າ, ຂ້າພະເຈົ້າ pretending to be afraid. Ooh!!!
 
 682
 00:41:40,600 --> 00:41:46,600
 [PRINCE CHARMING]
 I say...  "Finally the Kingdom will get the happily ever after they deserve, die Ogre", blah, blah, blah...
-ສະບາຍດີດີ້ ຂໍໂທດທີ່ມາຊ້າ ເຈົ້າເປັນແນວໃດ?
+ຂ້ອຍເວົ້າວ່າ"ໃນທີ່ສຸດ ຣາຊະອານາຈັກຈະໄດ້ຮັບຄວາມສຸກຕະຫຼອດໄປຕາມທີ່ພວກເຂົາສົມຄວນ
+, ຕາຍ Ogre", bla, bla, blah...
 
 683
 00:41:47,100 --> 00:41:49,900
 [PRINCE CHARMING]
 Oh! It just doesn't feel real enough yet!
-ກຸຍກຸຍ!
+ໂອ້ ມັນຍັງບໍ່ຮູ້ສຶກເປັນຈິງເທື່ອ!
 
 684
 00:41:50,400 --> 00:41:52,500
 [PRINCE CHARMING]
 Who told you to stop dancing?!
-ຂ້ອຍເຄີຍຢາກຫຼີ້ນດົນຕີຟລອຍ.
+ໃຜບອກເຈົ້າໃຫ້ຢຸດເຕັ້ນ?!
 
 685
 00:41:53,000 --> 00:41:58,250
 [CYCLOPS]
 Uh... Wink and turn, wink and turn. Shrek the Third - Final Screening Script 87.
-"ຮ້ອນ!"
+ອິອິ... ມຸມມອງແລະຫັນ, ມຸມmອງ ແລະຫັນ Shrek
+the Third-Final Screening Script 87.
 
 686
 00:41:58,750 --> 00:42:02,250
 [PRINCE CHARMING]
 And what are you laying around for? Get up! Honestly.
-"ຈືດ!"
+ແລະເຈົ້ານອນຢູ່ບ່ອນນີ້ເປັນຫຍັງ? ລຸກຂຶ້ນ! ຈິງໃຈ.
 
 687
 00:42:02,750 --> 00:42:08,750
 [PRINCE CHARMING]
 Our happily ever after is nearly complete, mummy. And I assure you, the people of this kingdom will pay dearly for every second we've had to wait.
-"ໂຊກຮ້າຍ!"
+ພວກເຮົາຍັງມີຄວາມສຸກຕະຫຼອດໄປ ເກືອບຈະສໍາເລັດແລ້ວ, ແມ່, ແລະຂ້າພະເຈົ້າຮັບປະກັນທ່ານ
+, ປະຊາຊົນຂອງອານາຈັກນີ້ຈະຈ່າຍລາຄາແພງສໍາລັບທຸກໆວິນາທີທີ່ພວກເຮົາໄດ້ລໍຖ້າ.
 
 688
 00:42:09,250 --> 00:42:13,800
 [SHREK]
 Break a leg. Or, on second thought, let me break it for you.
-"ຮາຮາ ຮາຮ່າ".
+ແຕກຕີນ ຫຼື, ຖ້າຄິດຄືນໃຫມ່, ໃຫ້ຂ້ອຍຕັດຕີນໃຫ້ເຈົ້າ.
 
 689
 00:42:14,300 --> 00:42:20,250
 [PRINCE CHARMING]
 Thank goodness you're here. I was beginning to think you might not make it back in... time.
-ຝູງຊົນພາກັນງຽບ.
+ຂໍຂອບໃຈພະເຈົ້າທີ່ເຈົ້າຢູ່ທີ່ນີ້
+ຂ້ອຍເລີ່ມຄິດວ່າເຈົ້າອາດຈະບໍ່ກັບມາໃນເວລາ
 
 690
 00:42:20,750 --> 00:42:22,750
 [SHREK]
 Where's Fiona?
-ດຽວນີ້ເຈົ້າຈະຮູ້ວ່າຂ້ອຍຮູ້ສຶກແນວໃດ
+ຟິໂອນາຢູ່ໃສ?
 
 691
 00:42:23,250 --> 00:42:26,750
 [PRINCE CHARMING]
 Don't worry. She and the others are safe. For now.
-ງຽບໆ!
+ບໍ່ຕ້ອງກັງວົນ, ນາງແລະຄົນອື່ນໆ ແມ່ນປອດໄພ ສໍາລັບດຽວນີ້.
 
 692
 00:42:27,250 --> 00:42:29,250
 [ARTIE]
 Ow.
-ແລະພວກມັນສວຍງາມ!
+ໂອ້.
 
 693
 00:42:29,750 --> 00:42:31,750
 [PRINCE CHARMING]
 Let me guess... Arthur?
-ຍຸກສະໄຫມໃຫມ່ ໃນທີ່ສຸດກໍເລີ່ມຂຶ້ນ!
+ຂໍໃຫ້ຂ້າພະເຈົ້າຄາດເດົາ... Arthur?
 
 694
 00:42:32,250 --> 00:42:34,250
 [ARTIE]
 It's Artie, actually.
-ໂອ້, ງ່າຍໆ.
+ໃນຄວາມເປັນຈິງ, ຊື່ຂອງຂ້ອຍແມ່ນ Artie.
 
 695
 00:42:34,750 --> 00:42:39,300
 [PRINCE CHARMING]
 This boy is supposed to be the new King of Far Far Away?
-"ກະກຽມສັດຮ້າຍ".
+ເດັກຊາຍຄົນນີ້ ຄວນຈະເປັນກະສັດຄົນໃຫມ່ ຂອງແດນໄກໄກ?
 
 696
 00:42:39,800 --> 00:42:43,650
 [PRINCE CHARMING]
 How pathetic! Now, stand still so I won't make a mess.
-...ເພາະວ່າຂ້ອຍຈະບໍ່ປະຖິ້ມຂອງຂ້ອຍ.
+ໂຊກບໍ່ດີ! ດຽວນີ້, ຢືນສະຖຽນລະພາບເພື່ອບໍ່ໃຫ້ຂ້ອຍເຮັດຄວາມຜິດພາດ.
 
 697
 00:42:44,150 --> 00:42:49,050
 [SHREK]
 Charming, stop! I'm here now, you got what you wanted. This isn't about him.
-"Ha ha ha ha haa. ນົກຂະຫນາດນ້ອຍເອົາປີກ,
-ບິນລົງຈາກຕົ້ນໄມ້ທີ່ພວກເຂົາປາກົດຂຶ້ນ, ແລະ chirp ໃນຫູຂອງຂ້າພະເຈົ້າ".
+Charming, ຢຸດເຊົາ! ຂ້ອຍຢູ່ທີ່ນີ້ດຽວນີ້
+, ເຈົ້າໄດ້ຮັບສິ່ງທີ່ເຈົ້າຕ້ອງການ.
 
 698
 00:42:49,550 --> 00:42:53,050
 [ARTIE]
 Then who's it about? I'm supposed to be King, right?
-ບໍ່!
+ແລ້ວມັນກ່ຽວກັບໃຜ? ຂ້ອຍຄວນຈະເປັນກະສັດ, ແມ່ນບໍ?
 
 699
 00:42:53,550 --> 00:42:57,750
 [SHREK]
 You weren't really next in line for the throne, okay? I was.
-ເງື່ອນ ໄຂ ການ ສະ ແດງ ຄັ້ງ ທີ 3 ແລະ ສຸດ ທ້າຍ 107.
+ເຈົ້າບໍ່ໄດ້ເປັນຄົນຕໍ່ໄປໃນການສືບທອດອານາຈັກ, ດີບໍ?
 
 700
 00:42:58,250 --> 00:43:01,400
 [ARTIE]
 But you said the King asked for me personally.
-ໂອ້, ມັນເປັນຫຍັງອີກຄັ້ງ?
+ແຕ່ທ່ານເວົ້າວ່າ ກະສັດໄດ້ຂໍຫາຂ້າພະເຈົ້າໂດຍສ່ວນຕົວ.
 
 701
 00:43:01,900 --> 00:43:03,900
 [SHREK]
 Not exactly.
-ນີ້ຄວນຈະເປັນຄວາມສຸກຕະຫຼອດຊີວິດຂອງຂ້ອຍ.
+ບໍ່ແມ່ນຢ່າງແນ່ນອນ.
 
 702
 00:43:04,400 --> 00:43:06,400
 [ARTIE]
 What's that supposed to mean?
-ເຈົ້າບອກຂ້ອຍວ່າ ເຈົ້າຢາກເປັນຄົນຮ້າຍຕະຫຼອດຊີວິດ?
+ມັນຫມາຍຄວາມວ່າແນວໃດ?
 
 703
 00:43:06,900 --> 00:43:12,900
 [SHREK]
 Look, I said whatever I had to say, alright! I wasn't right for the job, I just needed some fool to replace me, and you fit the bill. So just go!
-ສຸດທ້າຍແລ້ວ.
+ເບິ່ງ, ຂ້ອຍໄດ້ເວົ້າທຸກຢ່າງທີ່ຂ້ອຍຕ້ອງເວົ້າ, ດີ!
+ຂ້ອຍບໍ່ເຫມາະສົມກັບວຽກ, ຂ້ອຍພຽງແຕ່ຕ້ອງການຄົນໂງ່ບາງຄົນທີ່ຈະທົດແທນຂ້ອຍ,
 
 704
 00:43:13,400 --> 00:43:15,850
 [ARTIE]
 You were playing me the whole time.
-ອີກຕົ້ນໄມ້ອັນຕະລາຍຫນຶ່ງປົກປິດປາກຂອງເຈົ້າຊາຍ
-Charming ແລະຫຼັງຈາກນັ້ນ motiones ກັບ Artie.
+ເຈົ້າຫລິ້ນຂ້ອຍຕະຫຼອດເວລາ.
 
 705
 00:43:16,350 --> 00:43:22,300
 [SHREK]
 You catch on real fast kid... Maybe you're not as big of a loser as I thought.
-ເຮີ, ຂ້ອຍໄດ້ກິ່ນ Shrek Jr.
+ເຈົ້າຈັບໄດ້ໄວແທ້ໆ ເດັກນ້ອຍ...
+ບາງທີເຈົ້າອາດຈະບໍ່ແມ່ນຄົນລົ້ມເຫຼວໃຫຍ່ເທົ່າທີ່ຂ້ອຍຄິດ.
 
 706
 00:43:22,800 --> 00:43:26,650
 [ARTIE]
 You know, for a minute there, I actually thought you -
-ເດັກນ້ອຍເກັ່ງ, ເກັ່ງ.
+ເຈົ້າຮູ້ບໍ່, ສໍາລັບນາທີນັ້ນ, ຂ້ອຍຄິດວ່າເຈົ້າ...
 
 707
 00:43:27,150 --> 00:43:33,150
 [PRINCE CHARMING]
 What? That he cared about you? He's an ogre. What did you expect? Shrek the Third - Final Screening Script 90.
-ເດັກນ້ອຍຢູ່ໃສ?
+ສິ່ງໃດ? ວ່າລາວສົນໃຈທ່ານ? ລາວເປັນຄົນຮ້າຍ. ທ່ານຄາດຫວັງຫຍັງ
+? Shrek The Third - Final Screening Script 90.
 
 708
 00:43:33,650 --> 00:43:36,800
 [PRINCE CHARMING]
 You really do have a way with children, Shrek.
-ດີ, ຖ້າມັນມີຄ່າ, ເຈົ້າກໍຈະເຮັດເຊັ່ນກັນ.
+ເຈົ້າມີວິທີກັບເດັກນ້ອຍແທ້ໆ, Shrek.
 
 709
 00:43:37,300 --> 00:43:43,300
 [SNOW WHITE]
 Had we just stayed put like I suggested, we could be sipping tea out of little heart-shaped cups... Shrek the Third - Final Screening Script 91.
-ໂອ້ ຂໍຢ່າປະພຶດແບບບໍ່ມີຄວາມຜິດ ເຈົ້າທັງສອງກໍຮູ້ເລື້ອງທີ່ເກີດຂຶ້ນຕະຫຼອດເວລາ
-ແລະເຈົ້າກໍຮັກສາໄວ້ໄວ້ໃຫ້ເຈົ້າເອງ.
+ຖ້າພວກເຮົາຍັງຢູ່ຕາມທີ່ຂ້າພະເຈົ້າໄດ້ແນະ ນໍາ ພວກເຮົາອາດຈະກິນຊາຈາກຈອກຂະ ຫນາດ
+ນ້ອຍທີ່ມີຮູບຊົງຫົວໃຈ... Shrek The Third - Final Screening Script 91.
 
 710
 00:43:43,800 --> 00:43:45,800
 [CINDERELLA]
 Yeah... yeah, heart shaped cups.
-ຂ້ອຍໄດ້ມັນ.
+ແມ່ນແລ້ວ... ແມ່ນແລ້ວ, ຈອກຮູບຫົວໃຈ.
 
 711
 00:43:46,300 --> 00:43:48,300
 [SNOW WHITE]
 Eating crumpets smothered with loganberries.
-ອາກ.
+ກິນເຂົ້າ ຫນົມ ປັງທີ່ຫົດດ້ວຍ ຫມາກ ໂລແກນແບຣີ.
 
 712
 00:43:48,800 --> 00:43:50,800
 [CINDERELLA]
 Yeah... loganberries.
-ແລະຂ້ອຍບໍ່ແມ່ນເຈົ້າ!
+ແມ່ນແລ້ວ... loganberries.
 
 713
 00:43:51,300 --> 00:43:53,300
 [SNOW WHITE]
 Shut up Cindy.
-...ກະຕ່າຍ!
+ປິດປາກຂອງທ່ານ Cindy.
 
 714
 00:43:53,800 --> 00:43:55,800
 [CINDERELLA]
 Yeah, shut up.
-ໂອ້, ບໍ່ເປັນຫຍັງ.
+ແມ່ນແລ້ວ, ປິດປາກ.
 
 715
 00:43:56,300 --> 00:43:58,300
 [CINDERELLA]
 No! You shut up!
-ຂອບໃຈ.
+ບໍ່! ເຈົ້າປິດປາກ!
 
 716
 00:43:58,800 --> 00:44:00,800
 [CINDERELLA]
 Just stay out of this!
-ຂໍອະໄພ, ນັ້ນແມ່ນບ່ອນນັ່ງຂອງຂ້ອຍ.
+ແຕ່ຢ່າແຊກແຊງ!
 
 717
 00:44:01,300 --> 00:44:03,750
 [SNOW WHITE]
 Who cares who's running the kingdom anyway?
-ໂອ້ ຜູ້ຊາຍ.
+ໃຜສົນໃຈວ່າໃຜຄວບຄຸມອານາຈັກ?
 
 718
 00:44:04,250 --> 00:44:06,250
 [FIONA]
 I care.
-ຂ້ອຍ?
+ຂ້ອຍສົນໃຈ.
 
 719
 00:44:06,750 --> 00:44:08,850
 [QUEEN]
 And you should all care too.
-ແມ່ນແລ້ວ, ຂອບໃຈເອດ.
+ແລະເຈົ້າທັງຫລາຍຄວນເອົາໃຈໃສ່ເຊັ່ນກັນ.
 
 720
 00:44:09,350 --> 00:44:11,350
 [PUSS]
 Hey, hey, hey, hey.
-...ຫຼືພຽງແຕ່ຜູ້ເສຍຫາຍ...
+ເຮີ້, ເຮີ້.
 
 721
 00:44:11,850 --> 00:44:14,300
 [DONKEY]
 Yeah, and I have your badge number,
-ໂອ້... ດີແລ້ວ, ດີແລ້ວ... ເບິ່ງ..
+ແມ່ນແລ້ວ, ແລະຂ້ອຍມີເລກປ້າຍຂອງເຈົ້າ,
 
 722
 00:44:14,800 --> 00:44:20,800
 ["TIN CAN-"]
 Puss, in Donkey's body, hisses and arches his back like a cat. Shrek the Third - Final Screening Script 92.
-ເຈົ້າ...?
+Puss, ໃນຮ່າງກາຍຂອງ Donkey, hisses ແລະ arched ຫຼັງຂອງລາວຄືກັບ
+cat. Shrek the Third - Final Screening Script 92.
 
 723
 00:44:21,300 --> 00:44:23,300
 [FIONA]
 Donkey?!
+ຂີ້ເຫຍື້ອ?!
+
+724
+00:44:23,800 --> 00:44:25,800
+[DONKEY]
+Princess?!
+ເຈົ້າຍິງ?!
+
+725
+00:44:26,300 --> 00:44:28,300
+[FIONA]
+Puss?!
+ແມວ?!
+
+726
+00:44:28,800 --> 00:44:33,350
+[PUSS]
+Lo siento, Princessa, but I am Puss, stuck here inside this hideous body.
+ຂໍໂທດ, Princess, ແຕ່ຂ້ອຍແມ່ນ Puss,
+ຕິດຢູ່ໃນນີ້ພາຍໃນຮ່າງກາຍທີ່ຫນ້າກຽດຊັງນີ້.
+
+727
+00:44:33,850 --> 00:44:35,850
+[DONKEY]
+And I'm me!
+ແລະຂ້ອຍແມ່ນຂ້ອຍ!
+
+728
+00:44:36,350 --> 00:44:42,350
+[DONKEY]
+I know, I know. Everything's a little fruity in the loops right now. But what happened is, we went to high school, the boat crashed, and we got "bippity-bopity-booped" by the "Magic Man."
+ຂ້ອຍຮູ້, ຂ້ອຍຮູ້ ທຸກສິ່ງທຸກຢ່າງແມ່ນມີຫມາກໄມ້ຢູ່ໃນວົງຈອນໃນເວລານີ້ ແຕ່ສິ່ງທີ່ເກີດຂຶ້ນແມ່ນພວກເຮົາໄປໂຮງຮຽນມັດທະຍົມ
+, ເຮືອໄດ້ຕົກ, ແລະພວກເຮົາໄດ້ຮັບ"bippity-bopity-booped" ໂດຍ"Magic Man".
+
+729
+00:44:42,850 --> 00:44:44,850
+[DORIS]
+You poor sweet things.
+ພວກເຈົ້າຄົນທຸກຍາກ.
+
+730
+00:44:45,350 --> 00:44:47,350
+[CINDERELLA]
+I don't get it.
+ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+731
+00:44:47,850 --> 00:44:52,750
+[SNOW WHITE]
+The cat turned into a little horse that smells like feet. What's to get?
+ແມວຫັນເປັນມ້ານ້ອຍໆ ທີ່ກິ່ນຄືຕີນ. ຈະຊື້ຫຍັງ?
+
+732
+00:44:53,250 --> 00:44:55,250
+[SLEEPING BEAUTY]
+Huh? Who dat?
+ແມ່ນບໍ?
+
+733
+00:44:55,750 --> 00:44:59,250
+[FIONA]
+Where's Shrek? Shrek the Third - Final Screening Script 93.
+Shrek ຢູ່ໃສ Shrek ຕອນທີ 3 - ຕອນສຸດທ້າຍ 93.
+
+734
+00:44:59,750 --> 00:45:05,700
+[DONKEY]
+Charming's got him, Princess. And he plans on killing Shrek tonight in front of the whole kingdom.
+Charming ໄດ້ຈັບລາວ, Princess
+ແລະລາວວາງແຜນທີ່ຈະຂ້າ Shrek ໃນຕອນແລງນີ້
+
+735
+00:45:06,200 --> 00:45:09,700
+[FIONA]
+Alright everyone, we need to find a way out, now.
+ດີທຸກຄົນ, ພວກເຮົາຕ້ອງຊອກຫາທາງອອກ, ດຽວນີ້.
+
+736
+00:45:10,200 --> 00:45:12,300
+[SNOW WHITE]
+You're right.  Ladies, assume the position!
+ທ່ານມີຄວາມຖືກຕ້ອງ ຜູ້ຍິງ, ເອົາຕໍາແຫນ່ງ!
+
+737
+00:45:12,800 --> 00:45:14,800
+[FIONA]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງ?
+
+738
+00:45:15,300 --> 00:45:17,300
+[SLEEPING BEAUTY]
+Waiting to be rescued.
+ລໍຖ້າທີ່ຈະໄດ້ຮັບການຊ່ວຍເຫຼືອ.
+
+739
+00:45:17,800 --> 00:45:20,250
+[FIONA]
+You have got to be kidding me.
+ເຈົ້າຕ້ອງຫລິ້ນກັບຂ້ອຍ.
+
+740
+00:45:20,750 --> 00:45:26,750
+[SNOW WHITE]
+Well, what do you expect us to do? We're just four... I mean, three, super hot princesses, two circus freaks, a pregnant ogre and an old lady.
+ດີ, ເຈົ້າຄາດຫວັງວ່າພວກເຮົາຈະເຮັດແນວໃດ? ພວກເຮົາມີພຽງສີ່... ຫມາຍຄວາມວ່າ,
+ສາມ, princesses super ຮ້ອນ, freaks ວົງຈອນສອງ, ogre ຖືພາແລະຜູ້ຍິງອາຍຸ.
+
+741
+00:45:27,250 --> 00:45:29,700
+[QUEEN]
+Hmmm. Excuse me. Old lady coming through.
+ຂໍອະໄພ, ແມ່ເຖົ້າກໍາລັງຜ່ານມາ.
+
+742
+00:45:30,200 --> 00:45:32,200
+[QUEEN]
+Hiiiyyyiiiaaaah!
+ສະບາຍດີ!
+
+743
+00:45:32,700 --> 00:45:34,700
+[PRINCESSES/PUSS/DONKEY]
+Whoa.
+ວາວ.
+
+744
+00:45:35,200 --> 00:45:37,200
+[FIONA]
+Mom!?
+ແມ່!
+
+745
+00:45:37,700 --> 00:45:42,950
+[QUEEN]
+Well, you didn't actually think you got your fighting skills from your father, did you?
+ດີ, ເຈົ້າບໍ່ຄິດແທ້ໆວ່າ
+ເຈົ້າໄດ້ຮັບຄວາມສາມາດໃນການຕໍ່ສູ້ຈາກພໍ່ຂອງເຈົ້າ, ແມ່ນບໍ?
+
+746
+00:45:43,450 --> 00:45:46,250
+[SNOW WHITE]
+Excuse me, I think there's still one more.
+ຂໍອະໄພ, ຂ້ອຍຄິດວ່າຍັງມີອີກຄົນນຶ່ງ.
+
+747
+00:45:46,750 --> 00:45:48,750
+[QUEEN]
+Hmmmm.
+ແມມ.
+
+748
+00:45:49,250 --> 00:45:51,250
+[QUEEN]
+Hiiiiyah!
+ໄຮໄຮ!
+
+749
+00:45:51,750 --> 00:45:53,850
+[FIONA]
+Why don't you just lie down?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ນອນລົງ?
+
+750
+00:45:54,350 --> 00:45:58,900
+[FIONA]
+Okay girls, from here on out, we're gonna take care of business ourselves.
+ດີ ເດັກນ້ອຍ, ນັບແຕ່ນີ້ໄປ, ພວກເຮົາຈະເບິ່ງແຍງວຽກງານດ້ວຍຕົນເອງ.
+
+751
+00:45:59,400 --> 00:46:05,400
+[ANNOUNCER]
+Ladies and gentlemen. The Far Far Away Theatre at the Charming Pavilion is proud to present: "It's a Happily Ever After, After All."
+ບັນດາທ່ານຜູ້ຍິງ ແລະ ຜູ້ຊາຍ ໂຮງລະຄອນ Far Far Away ທີ່ Charming Pavilion
+ມີຄວາມພາກພູມໃຈທີ່ຈະສະເຫນີ"It's a Happily Ever After, After All".
+
+752
+00:46:05,900 --> 00:46:07,900
+[SHREK]
+Oww, easy.
+ໂອ້, ງ່າຍໆ.
+
+753
+00:46:08,400 --> 00:46:12,600
+[CYCLOPS]
+Sorry. I guess I was just showing off for the little one.
+ຂໍໂທດ, ຂ້ອຍຄິດວ່າ ຂ້ອຍພຽງແຕ່ສະແດງໃຫ້ເຫັນຄົນນ້ອຍ.
+
+754
+00:46:13,100 --> 00:46:15,100
+[SHREK]
+Huh?
+ແມ່ນບໍ?
+
+755
+00:46:15,600 --> 00:46:18,750
+[CYCLOPS]
+It's "Bring your kids to work day." C'mere beautiful.
+ມັນຄື"ນໍາລູກໄປເຮັດວຽກ" C'mere ງາມ.
+
+756
+00:46:19,250 --> 00:46:21,250
+[SHREK]
+Well... she's got your eye.
+ດີ... ນາງມີຕາຂອງເຈົ້າ.
+
+757
+00:46:21,750 --> 00:46:26,300
+[CYCLOPS]
+Who woulda thought a monster like me deserves something as special as you?
+ໃຜຈະຄິດໄດ້ວ່າ ມະນຸດຮ້າຍຄືຂ້ອຍ ສົມຄວນມີສິ່ງພິເສດຄືເຈົ້າ?
+
+758
+00:46:26,800 --> 00:46:28,900
+[SNOW WHITE]
+"Ahh ha ha ha ha haa."
+"ອາຮ ຮາ ຮາຮາ".
+
+759
+00:46:29,400 --> 00:46:31,400
+[SNOW WHITE]
+"Ahh ha ha ha haa."
+"ຮາຮາ ຮາຮ່າ".
+
+760
+00:46:31,900 --> 00:46:37,900
+[SNOW WHITE]
+"Ha ha ha ha haaaa. Little birdies take wing, flitting down from the trees they appear, and to chirp in my ear."
+"Ha ha ha ha haa. ນົກຂະຫນາດນ້ອຍເອົາປີກ,
+ບິນລົງຈາກຕົ້ນໄມ້ທີ່ພວກເຂົາປາກົດຂຶ້ນ, ແລະ chirp ໃນຫູຂອງຂ້າພະເຈົ້າ".
+
+761
+00:46:38,400 --> 00:46:41,900
+[SNOW WHITE]
+"All because I sing. Ahh ha ha ha ha haaa."
+"ທັງ ຫມົດ ເພາະວ່າຂ້ອຍຮ້ອງເພງ.
+
+762
+00:46:42,400 --> 00:46:44,500
+[SNOW WHITE]
+"Ahh ha ha ha ha haaa."
+"ຮາຮາ ຮາຮ່າຮ່າ".
+
+763
+00:46:45,000 --> 00:46:47,100
+[SNOW WHITE]
+"Ha ha ha ha ha haaaaaaa!"
+"Ha ha ha ha haa haa haa!"
+
+764
+00:46:47,600 --> 00:46:49,600
+[SNOW WHITE]
+Ahhaha!! Ahhaha!!!
+ອາຮາຮາ!!!
+
+765
+00:46:50,100 --> 00:46:52,100
+[FIONA]
+Move it! Go! Go! Go!
+ເຄື່ອນຍ້າຍໄປ, ໄປ, ໄປ!
+
+766
+00:46:52,600 --> 00:46:54,600
+[DONKEY]
+My babies!
+ເດັກນ້ອຍຂອງຂ້ອຍ!
+
+767
+00:46:55,100 --> 00:46:57,100
+[PUSS]
+Help! Ow!
+ຊ່ວຍ!
+
+768
+00:46:57,600 --> 00:46:59,600
+[DONKEY]
+Hey!
+ສະບາຍດີ!
+
+769
+00:47:00,100 --> 00:47:02,100
+[DORIS]
+Hey. How's it going?
+ສະບາຍດີ, ເປັນແນວໃດ?
+
+770
+00:47:02,600 --> 00:47:05,400
+[PUSS]
+"O" to the "K." The coast has cleared.
+"O" ຫາ"K" ເຂດຊາຍແດນໄດ້ກໍານົດໄວ້ແລ້ວ
+
+771
+00:47:05,900 --> 00:47:09,400
+[DONKEY]
+All right people, let's do this thing! Go Team Dy-No-Mite!!
+ດີເດີ້ ພວກເຮົາມາເຮັດເລື້ອງນີ້! ໄປທີມ Dy-No-Mite!!
+
+772
+00:47:09,900 --> 00:47:14,800
+[PINOCCHIO]
+I thought we agreed we would go by the name of "Team Super Cool."
+ຂ້ອຍຄິດວ່າພວກເຮົາໄດ້ຕົກລົງກັນວ່າ ພວກເຮົາຈະໃຊ້ຊື່"ທີມ Super Cool".
+
+773
+00:47:15,300 --> 00:47:17,750
+[GINGERBREAD MAN]
+As I recall it was "Team Awesome."
+ຕາມທີ່ຂ້າພະເຈົ້າຈື່ໄດ້ມັນແມ່ນ"ທີມ Awesome".
+
+774
+00:47:18,250 --> 00:47:20,700
+[WOLF]
+I voted for "Team Alpha Wolf Squadron."
+ຂ້ອຍໄດ້ລົງຄະແນນສຽງໃຫ້"ທີມອາລຟາ ວັອຟສັກແວຣນ".
+
+775
+00:47:21,200 --> 00:47:27,200
+[DONKEY]
+Alright! Alright! Alright! From henceforth we are to be known as "Team Alpha Super Awesome Cool Dynomite Wolf Squadron."
+ດີດີ ດີດີ ຈາກນີ້ພວກເຮົາຈະຮູ້ຈັກກັນວ່າ"ທີມອາລຟາ
+Super Awesome Cool Dynomite Wolf Squadron".
+
+776
+00:47:27,700 --> 00:47:32,600
+[PIG #1]
+Ach to Lieber! There is some strange little girl over there staring at us!
+ອ້າຍ Lieber ມີເດັກຍິງນ້ອຍທີ່ແປກປະຫຼາດຢູ່ຂ້າງນັ້ນ
+ກໍາ ລັງເບິ່ງພວກເຮົາ!
+
+777
+00:47:33,100 --> 00:47:35,100
+[DONKEY]
+Artie!
+ອາຕີ!
+
+778
+00:47:35,600 --> 00:47:39,450
+[PUSS]
+Wait, wait, wait, wait wait. Hey! Where is the fire, Senor?
+ລໍຖ້າລໍຖ້າ, ລໍ ຖ້າລໍ ຖ້າ. ເຮີ! ບ່ອນທີ່ໄຟ, Señor?
+
+779
+00:47:39,950 --> 00:47:45,950
+[ARTIE]
+Oh please, don't act so innocent. You both knew what was going on the whole time and you kept it to yourself.
+ໂອ້ ຂໍຢ່າກະທໍາແບບບໍ່ຜິດ ເຈົ້າທັງສອງກໍຮູ້ເລື້ອງທີ່ເກີດຂຶ້ນຕະຫຼອດເວລາ
+ແລະເຈົ້າກໍຮັກສາໄວ້ໄວ້ໃຫ້ເຈົ້າເອງ.
+
+780
+00:47:46,450 --> 00:47:48,550
+[DONKEY]
+Artie, it's not like it seems.
+ອາຕີ, ມັນບໍ່ແມ່ນດັ່ງທີ່ມັນເບິ່ງຄືວ່າ.
+
+781
+00:47:49,050 --> 00:47:55,050
+[ARTIE]
+It's not? I think it seems pretty clear. He was using me. That's all there is to it.
+ມັນບໍ່ແມ່ນ? ຂ້ອຍຄິດວ່າມັນເບິ່ງຄືວ່າຈະແຈ້ງຫຼາຍ
+. ລາວໃຊ້ຂ້ອຍ. ນັ້ນແມ່ນສິ່ງດຽວທີ່ມັນມີ.
+
+782
+00:47:55,550 --> 00:47:58,350
+[DONKEY]
+Using you? Man, you really don't get it!
+ໃຊ້ເຈົ້າ? ເຈົ້າບໍ່ເຂົ້າໃຈແທ້!
+
+783
+00:47:58,850 --> 00:48:01,650
+[PUSS]
+Shrek only said those things to protect you!
+Shrek ເວົ້າສິ່ງເຫລົ່ານີ້ເພື່ອປົກປ້ອງເຈົ້າເທົ່ານັ້ນ!
+
+784
+00:48:02,150 --> 00:48:06,000
+[DONKEY]
+Charming was going to kill you Artie. Shrek saved your life.
+Charming ຈະຂ້າເຈົ້າ Artie Shrek ຊ່ວຍຊີວິດເຈົ້າ
+
+785
+00:48:06,500 --> 00:48:08,500
+[RUMPLESTILTSKIN]
+Cue the spot!
+ຊີ້ໃຫ້ເຫັນຈຸດ!
+
+786
+00:48:09,000 --> 00:48:15,000
+[RAPUNZEL]
+"I wait alone up here. I'm trapped another day. Locked up here - please set me free. My new life I almost see, A castle, you and me. Yes, a castle you and me..."
+"ຂ້ອຍລໍຖ້າຄົນດຽວຢູ່ນີ້. ຂ້ອຍຖືກກັກກັນອີກມື້ຫນຶ່ງ. ຖືກກັກຢູ່ບ່ອນນີ້ - ກະລຸນາປ່ອຍຂ້ອຍອອກ.
+ຊີວິດໃຫມ່ຂອງຂ້ອຍຂ້ອຍເກືອບຈະເຫັນ, Castle, ເຈົ້າແລະຂ້ອຍ. ແມ່ນແລ້ວ, Castle ເຈົ້າແລະຂ້າພະເຈົ້າ..."
+
+787
+00:48:15,500 --> 00:48:17,500
+[RUMPLESTILTSKIN]
+Cherubs!
+ກີຣູບ!
+
+788
+00:48:18,000 --> 00:48:23,950
+[PRINCE CHARMING]
+"Tis I! Tis I! Upon my regal steed! Princess, my love, at last you shall be freed!"
+"ແມ່ນຂ້ອຍ! ແມ່ນຂ້ອຍ! ຢູ່ເທິງມ້າຂອງເຈົ້າຂອງຂ້ອຍ! ເຈົ້າຍິງ
+, ຄວາມຮັກຂອງຂ້ອຍ, ໃນທີ່ສຸດເຈົ້າຈະໄດ້ຮັບການປ່ອຍຕົວ!"
+
+789
+00:48:24,450 --> 00:48:30,450
+[PRINCE CHARMING]
+"I'm strong and brave, and dashing my way there! With speed! With might! With soft and bouncy hair!"
+"ຂ້ອຍແຂງແຮງ ແລະກ້າຫານ, ແລະແລ່ນໄປຫາບ່ອນນັ້ນ ດ້ວຍຄວາມໄວ
+, ດ້ວຍຄວາມເຂັ້ມແຂງ, ດ້ວຍຜົມອ່ອນແລະກະທັດຮັດ!"
+
+790
+00:48:30,950 --> 00:48:35,150
+[PRINCE CHARMING]
+"Through the blistering desert..." Shrek the Third - Final Screening Script 103.
+"ຜ່ານທະເລຊາຍທີ່ປົນເປື້ອນ"... Shrek The
+Third - Final Screening Script 103.
+
+791
+00:48:35,650 --> 00:48:37,650
+[EVIL TREES]
+"Hot!"
+"ຮ້ອນ!"
+
+792
+00:48:38,150 --> 00:48:40,150
+[PRINCE CHARMING]
+"Across the stormiest sea."
+"ຂ້າມທະເລທີ່ມີພາຍຸຫຼາຍທີ່ສຸດ".
+
+793
+00:48:40,650 --> 00:48:42,650
+[EVIL DWARFS]
+"Wet!"
+"ຈືດ!"
+
+794
+00:48:43,150 --> 00:48:45,150
+[PRINCE CHARMING]
+"Facing creatures so vile!"
+"ການປະເຊີນຫນ້າກັບສັດທີ່ໂຫດຮ້າຍ!"
+
+795
+00:48:45,650 --> 00:48:47,650
+[FAIRY-TALE VILLAINS]
+"Foul!"
+"ໂຊກຮ້າຍ!"
+
+796
+00:48:48,150 --> 00:48:50,250
+[PRINCE CHARMING]
+"So you can gaze upon me!"
+"ເພື່ອໃຫ້ເຈົ້າສາມາດເບິ່ງຂ້ອຍໄດ້!"
+
+797
+00:48:50,750 --> 00:48:54,600
+[RAPUNZEL]
+"I knew you'd come for me. And now we finally meet."
+"ຂ້ອຍຮູ້ວ່າເຈົ້າຈະມາຫາຂ້ອຍ ແລະຕອນນີ້ພວກເຮົາໄດ້ພົບກັນໃນທີ່ສຸດ".
+
+798
+00:48:55,100 --> 00:49:01,100
+[PRINCE CHARMING]
+"I knew you'd wait. And from my plate of love you'd eat." Shrek the Third - Final Screening Script 104.
+"ຂ້າພະເຈົ້າຮູ້ວ່າທ່ານຈະລໍຖ້າ ແລະຈາກຈານຂອງຄວາມຮັກຂອງຂ້າພະເຈົ້າທ່ານຈະກິນ"
+. Shrek the Third - Final Screening Script 104.
+
+799
+00:49:01,600 --> 00:49:03,600
+[MABEL]
+Roar! Roar!
+ກຸຍກຸຍ!
+
+800
+00:49:04,100 --> 00:49:07,600
+[PRINCE CHARMING]
+"Who is this terrible ugly fiend who so rudely intervened?"
+"ແມ່ນໃຜຄົນຮ້າຍທີ່ຫນ້າຢ້ານກົວນີ້ ທີ່ເຂົ້າມາແຊກແຊງຢ່າງໂຫດຮ້າຍ?"
+
+801
+00:49:08,100 --> 00:49:10,550
+[FAIRY-TALE VILLAINS]
+"Will Charming fight? Or will he flee?"
+"ທ່ານ Charming ຈະຕໍ່ສູ້ ຫຼືວ່າຈະຫຼົບຫນີ?"
+
+802
+00:49:11,050 --> 00:49:13,050
+[RAPUNZEL]
+"Oh please, rescue me!"
+"ໂອ້ ຂໍຊ່ວຍຂ້ອຍ!"
+
+803
+00:49:13,550 --> 00:49:17,400
+[FAIRY-TALE VILLAINS]
+"From this monstrosity!" Shrek the Third - Final Screening Script 105.
+"ຈາກສິ່ງມະຫັດສະຈັນນີ້!"
+
+804
+00:49:17,900 --> 00:49:22,450
+[PRINCE CHARMING]
+"Fear thee not Honey Lamb! I will slice this thing up like a
+"ຢ່າຢ້ານເຈົ້າ Honey Lamb! ຂ້າພະເຈົ້າຈະ slice ສິ່ງນີ້ຂຶ້ນເຊັ່ນ a
+
+805
+00:49:22,950 --> 00:49:24,950
+[SHREK]
+Oh boy.
+ໂອ້ ຜູ້ຊາຍ.
+
+806
+00:49:25,450 --> 00:49:30,000
+[PRINCE CHARMING]
+You are about to enter a world of pain with which you are
+ທ່ານກໍາລັງຈະເຂົ້າສູ່ໂລກແຫ່ງຄວາມເຈັບປວດ ທີ່ທ່ານກໍາລັງ
+
+807
+00:49:30,500 --> 00:49:32,500
+[NOT-]
+"FamiliaAAAAAAR!"
+"ຄອບຄົວ AAAAAAR!"
+
+808
+00:49:33,000 --> 00:49:37,200
+[SHREK]
+Well it can't be anymore painful than the lousy performance you're giving.
+ດີມັນບໍ່ສາມາດເຈັບປວດກວ່າການສະແດງທີ່ຊົ່ວຮ້າຍທີ່ທ່ານ ກໍາ ລັງໃຫ້.
+
+809
+00:49:37,700 --> 00:49:39,700
+[RUMPLESTILTSKIN]
+"Prepare foul beast."
+"ກະກຽມສັດຮ້າຍ".
+
+810
+00:49:40,200 --> 00:49:42,650
+[PRINCE CHARMING]
+"Prepare foul beast, your time is done."
+"ກະກຽມສັດຮ້າຍ, ເວລາຂອງເຈົ້າຫມົດແລ້ວ".
+
+811
+00:49:43,150 --> 00:49:49,150
+[SHREK]
+Oooh, if you don't mind could you kill me, and then sing? Shrek the Third - Final Screening Script 106.
+ໂອ້, ຖ້າເຈົ້າບໍ່ສົນໃຈ ເຈົ້າສາມາດຂ້າຂ້ອຍໄດ້ ແລະຮ້ອງເພງໄດ້ບໍ
+? Shrek the Third - Final Screening Script 106.
+
+812
+00:49:49,650 --> 00:49:51,650
+[PRINCE CHARMING]
+Be quiet!
+ງຽບໆ!
+
+813
+00:49:52,150 --> 00:49:57,400
+[SHREK]
+Oh, come on, I'm just havin' fun with ya. That's actually a very nice leotard.
+ໂອ້, ມາເຖອະ, ຂ້ອຍພຽງແຕ່ມ່ວນຊື່ນກັບເຈົ້າ.
+
+814
+00:49:57,900 --> 00:49:59,900
+[PRINCE CHARMING]
+Thank you.
+ຂອບໃຈ.
+
+815
+00:50:00,400 --> 00:50:02,500
+[SHREK]
+Do they come in men's sizes?
+ພວກມັນມີຂະຫນາດຜູ້ຊາຍບໍ?
+
+816
+00:50:03,000 --> 00:50:05,100
+[HOOK]
+He, he. Now that be funny.
+ລາວ, ລາວ. ບັດນີ້ມັນມ່ວນ.
+
+817
+00:50:05,600 --> 00:50:07,600
+[ENOUGH!]
+The crowd falls silent.
+ຝູງຊົນພາກັນງຽບ.
+
+818
+00:50:08,100 --> 00:50:14,100
+[PRINCE CHARMING]
+Now you'll finally know what it's like to have everything you've worked for, everything that's precious to you taken away.
+ຕອນນີ້ເຈົ້າຈະຮູ້ຢ່າງແນ່ນອນວ່າ ມັນຄືແນວໃດ ເມື່ອມີທຸກສິ່ງທຸກຢ່າງ
+ທີ່ເຈົ້າໄດ້ເຮັດວຽກເພື່ອ, ທຸກສິ່ງ ທຸກຢ່າງທີ່ເຈົ້າຮັກແພງນັ້ນ ຖືກເອົາໄປຈາກເຈົ້າ.
+
+819
+00:50:14,600 --> 00:50:16,700
+[PRINCE CHARMING]
+Now you'll know how I felt.
+ດຽວນີ້ເຈົ້າຈະຮູ້ວ່າຂ້ອຍຮູ້ສຶກແນວໃດ
+
+820
+00:50:17,200 --> 00:50:19,200
+[PRINCE CHARMING]
+Ahhhhh!
+ອາຮາ!
+
+821
+00:50:19,700 --> 00:50:22,850
+[DRAGON]
+Roar! Shrek the Third - Final Screening Script 107.
+ເງື່ອນ ໄຂ ການ ສະ ແດງ ຄັ້ງ ທີ 3 ແລະ ສຸດ ທ້າຍ 107.
+
+822
+00:50:23,350 --> 00:50:25,350
+[PIG #1]
+Sausage Roll!!
+ໂລສຊີຣ໌ລ!!
+
+823
+00:50:25,850 --> 00:50:27,850
+[WOLF]
+Arg.
+ອາກ.
+
+824
+00:50:28,350 --> 00:50:30,350
+[DONKEY]
+Pray for mercy from...
+ອະທິຖານຂໍຄວາມເມດຕາຈາກ...
+
+825
+00:50:30,850 --> 00:50:32,850
+[PUSS]
+...Puss!
+...ກະຕ່າຍ!
+
+826
+00:50:33,350 --> 00:50:35,350
+[DONKEY]
+And Donkey!
+ແລະ Donkey!
+
+827
+00:50:35,850 --> 00:50:39,000
+[PINOCCHIO]
+Hey. Shrek the Third - Final Screening Script 108.
+ເຮີ, Shrek The Third-Final Screening Script 108.
+
+828
+00:50:39,500 --> 00:50:41,950
+[FIONA]
+Hi honey! Sorry we're late. You okay?
+ສະບາຍດີດີ້ ຂໍໂທດທີ່ມາຊ້າ ເຈົ້າເປັນແນວໃດ?
+
+829
+00:50:42,450 --> 00:50:44,550
+[SHREK]
+Much better, now that you're here.
+ດີຂຶ້ນຫຼາຍ, ຕອນທີ່ເຈົ້າມາຮອດແລ້ວ.
+
+830
+00:50:45,050 --> 00:50:47,050
+[AUDIENCE]
+Awwwwwww!
+ອາວອາວ!
+
+831
+00:50:47,550 --> 00:50:53,500
+[SHREK]
+So Charming, you wanna let me out of these so we can settle this ogre to man?
+ສະນັ້ນ Charming,
+ເຈົ້າຈະປ່ອຍໃຫ້ຂ້ອຍອອກໄປເພື່ອໃຫ້ພວກເຮົາສາມາດຈັດການກັບຄົນຮ້າຍນີ້ໄດ້ບໍ?
+
+832
+00:50:54,000 --> 00:50:57,500
+[PRINCE CHARMING]
+Oooh, that sounds fun. But I have a better idea!
+ໂອ້, ມັນເບິ່ງມ່ວນໆ ແຕ່ຂ້ອຍມີແນວຄິດທີ່ດີກວ່າ!
+
+833
+00:50:58,000 --> 00:51:01,150
+[SHREK]
+Fiona! Shrek the Third - Final Screening Script 109.
+ຟີໂອນາ! Shrek ຕອນທີສາມ - ຕອນສຸດທ້າຍ 109.
+
+834
+00:51:01,650 --> 00:51:03,650
+[FIONA]
+No! Let go of me!
+ບໍ່!
+
+835
+00:51:04,150 --> 00:51:07,650
+[PRINCE CHARMING]
+You will not ruin things this time ogre. Kill it!
+ທ່ານຈະບໍ່ທໍາລາຍສິ່ງຕ່າງໆໃນຄັ້ງນີ້ ogre ຂ້າມັນ!
+
+836
+00:51:08,150 --> 00:51:10,150
+[ARTIE]
+Everybody stop!
+ທຸກຄົນຈົ່ງຢຸດ!
+
+837
+00:51:10,650 --> 00:51:12,650
+[PRINCE CHARMING]
+Oh, what is it now?
+ໂອ້, ມັນເປັນຫຍັງອີກຄັ້ງ?
+
+838
+00:51:13,150 --> 00:51:15,150
+[SHREK]
+Artie?
+ອາຕີ?
+
+839
+00:51:15,650 --> 00:51:19,150
+[ARTIE]
+Who really thinks we need to settle things this way?
+ໃຜຄິດວ່າ ພວກເຮົາຕ້ອງແກ້ໄຂບັນຫາແບບນີ້?
+
+840
+00:51:19,650 --> 00:51:23,850
+[ARTIE]
+You're telling me you just want to be Villains your whole lives?
+ເຈົ້າບອກຂ້ອຍວ່າ ເຈົ້າຢາກເປັນຄົນຮ້າຍຕະຫຼອດຊີວິດ?
+
+841
+00:51:24,350 --> 00:51:27,850
+[CAPTAIN HOOK]
+But we are Villains. It's the only thing we know.
+ແຕ່ພວກເຮົາຍັງເປັນຄົນຮ້າຍ ມັນເປັນສິ່ງດຽວທີ່ພວກເຮົາຮູ້
+
+842
+00:51:28,350 --> 00:51:31,500
+[ARTIE]
+Didn't you ever wish you could be something else?
+ເຈົ້າບໍ່ເຄີຍປາດຖະຫນາວ່າ ເຈົ້າສາມາດເປັນຄົນອື່ນໄດ້ບໍ?
+
+843
+00:51:32,000 --> 00:51:36,550
+[EVIL TREE #2]
+Well, it's easy for you to say. You're not some evil enchanted tree.
+ດີ, ມັນງ່າຍສໍາລັບເຈົ້າທີ່ຈະເວົ້າ ເຈົ້າບໍ່ແມ່ນຕົ້ນໄມ້ທີ່ຊົ່ວຮ້າຍ.
+
+844
+00:51:37,050 --> 00:51:39,150
+[PRINCE CHARMING]
+You morons! Don't listen to him!
+ພວກເຈົ້າໂງ່ໆ ຢ່າຟັງລາວ!
+
+845
+00:51:39,650 --> 00:51:43,850
+[ATTACK THEM-]
+Another Evil Tree covers Prince Charming's mouth and then motions to Artie.
+ອີກຕົ້ນໄມ້ອັນຕະລາຍຫນຶ່ງປົກປິດປາກຂອງເຈົ້າຊາຍ
+Charming ແລະຫຼັງຈາກນັ້ນ motiones ກັບ Artie.
+
+846
+00:51:44,350 --> 00:51:50,350
+[EVIL TREE #1]
+What Steve's trying to say here is that it's hard to come by honest work when the whole world's against you.
+ສິ່ງທີ່ Steve ພະຍາຍາມບອກຢູ່ນີ້ ກໍຄືວ່າ
+ມັນຍາກທີ່ຈະມີວຽກເຮັດງານທໍາຢ່າງຊື່ສັດ ເມື່ອທົ່ວໂລກຕໍ່ຕ້ານທ່ານ.
+
+847
+00:51:50,850 --> 00:51:52,850
+[EVIL TREE #2]
+Right, thanks Ed.
+ແມ່ນແລ້ວ, ຂອບໃຈເອດ.
+
+848
+00:51:53,350 --> 00:51:59,350
+[ARTIE]
+Okay, fair enough. You're right. I'm not a talking tree. But, ya know, a good friend of mine once told me that just because people treat you like a villain, or an ogre...
+ດີ, ຍຸຕິທໍາແລ້ວ ເຈົ້າມີຄວາມຖືກຕ້ອງ ຂ້ອຍບໍ່ແມ່ນຕົ້ນໄມ້ທີ່ເວົ້າ ແຕ່ວ່າ, ເຈົ້າຮູ້ບໍ່,
+ຫມູ່ທີ່ດີຂອງຂ້ອຍເຄີຍບອກຂ້ອຍວ່າ ພຽງແຕ່ເພາະວ່າຄົນເຮົາປະຕິບັດເຈົ້າຄືຄົນຮ້າຍ, ຫຼືຄົນຮ້າຍ...
+
+849
+00:51:59,850 --> 00:52:01,850
+[ARTIE]
+... or just some loser...
+...ຫຼືພຽງແຕ່ຜູ້ເສຍຫາຍ...
+
+850
+00:52:02,350 --> 00:52:04,450
+[ARTIE]
+...it doesn't mean you are one.
+...ມັນບໍ່ໄດ້ຫມາຍຄວາມວ່າເຈົ້າເປັນນຶ່ງ.
+
+851
+00:52:04,950 --> 00:52:08,800
+[ARTIE]
+The thing that matters most is what you think of yourself.
+ສິ່ງທີ່ສໍາຄັນທີ່ສຸດ ກໍຄືຄວາມຄິດຂອງທ່ານ ກ່ຽວກັບຕົວທ່ານເອງ.
+
+852
+00:52:09,300 --> 00:52:15,300
+[ARTIE]
+If there's something you really want, or there's someone you really want to be, then the only person standing in your way ...is you.
+ຖ້າມີບາງສິ່ງບາງຢ່າງທີ່ທ່ານຕ້ອງການແທ້ໆ, ຫຼືມີຜູ້ໃດຜູ້ ຫນຶ່ງ
+ທີ່ທ່ານຢາກເປັນແທ້ຈິງ, ຫຼັງຈາກນັ້ນຄົນດຽວທີ່ຢືນຢູ່ໃນທາງຂອງທ່ານ... ແມ່ນທ່ານ.
+
+853
+00:52:15,800 --> 00:52:17,800
+[RUMPLESTILTSKIN]
+Me?
+ຂ້ອຍ?
+
+854
+00:52:18,300 --> 00:52:20,300
+[OTHER PIRATES]
+Get `im lads!
+ເອົາເຂົາໄປ ພວກນ້ອງ!
+
+855
+00:52:20,800 --> 00:52:26,400
+[ARTIE]
+No, no, no! What I mean is: each of you is standing in your own way!
+ບໍ່, ບໍ່, ຂ້ອຍຫມາຍຄວາມວ່າ: ແຕ່ລະທ່ານແມ່ນຢືນຢູ່ໃນທາງຂອງທ່ານເອງ!
+
+856
+00:52:26,900 --> 00:52:28,900
+[VILLAINS]
+Oooooooh!
 ໂອໂອໂອ!
+
+857
+00:52:29,400 --> 00:52:31,850
+[HEADLESS HORSEMAN]
+I've always wanted to play the flute.
+ຂ້ອຍເຄີຍຢາກຫຼີ້ນດົນຕີຟລອຍ.
+
+858
+00:52:32,350 --> 00:52:35,500
+[EVIL QUEEN]
+I`d like to open up a spa in France.
+ຂ້ອຍຢາກເປີດສະປາໃນປະເທດຝຣັ່ງ.
+
+859
+00:52:36,000 --> 00:52:38,000
+[CAPTAIN HOOK]
+I grow daffodils!
+ຂ້ອຍປູກດອກກຸ້ງ!
+
+860
+00:52:38,500 --> 00:52:40,500
+[CAPTAIN HOOK]
+And they're beautiful!
+ແລະພວກມັນສວຍງາມ!
+
+861
+00:52:41,000 --> 00:52:43,000
+[PRINCE CHARMING]
+Aaaahhhh!
+Aaaahhhh!
+
+862
+00:52:43,500 --> 00:52:45,500
+[PRINCE CHARMING]
+A new era finally begins!
+ຍຸກສະໄຫມໃຫມ່ ໃນທີ່ສຸດກໍເລີ່ມຂຶ້ນ!
+
+863
+00:52:46,000 --> 00:52:48,800
+[PRINCE CHARMING]
+Now, all of you, bow before your king!
+ບັດນີ້, ພວກເຈົ້າທຸກຄົນ ຈົ່ງຍອມບູຊາຕໍ່ຫນ້າກະສັດຂອງພວກເຈົ້າ!
+
+864
+00:52:49,300 --> 00:52:51,300
+[SHREK]
+Ah-hem.
+ແມ່ນແລ້ວ.
+
+865
+00:52:51,800 --> 00:52:57,050
+[SHREK]
+You need to work on your aim. Shrek the Third - Final Screening Script 113.
+ທ່ານຈໍາເປັນຕ້ອງເຮັດວຽກໃສ່ເປົ້າຫມາຍຂອງທ່ານ
+Shrek The Third-Final Screening Script 113.
+
+866
+00:52:57,550 --> 00:53:00,700
+[PRINCE CHARMING]
+This was supposed to be my happily ever after.
+ນີ້ຄວນຈະເປັນຄວາມສຸກຕະຫຼອດຊີວິດຂອງຂ້ອຍ.
+
+867
+00:53:01,200 --> 00:53:04,000
+[SHREK]
+Well I guess you need to keep looking...
+ຂ້ອຍຄິດວ່າເຈົ້າຕ້ອງສືບຕໍ່ຊອກຫາ...
+
+868
+00:53:04,500 --> 00:53:06,600
+[SHREK]
+...cause I'm not giving up mine.
+...ເພາະວ່າຂ້ອຍຈະບໍ່ປະຖິ້ມຂອງຂ້ອຍ.
+
+869
+00:53:07,100 --> 00:53:09,100
+[PRINCE CHARMING]
+Mommy?
+ແມ່?
+
+870
+00:53:09,600 --> 00:53:14,500
+[SHREK]
+It's yours if you want it, you know, but this time it's your choice.
+ມັນເປັນຂອງເຈົ້າຖ້າເຈົ້າຕ້ອງການ, ເຈົ້າຮູ້ບໍ່
+, ແຕ່ໃນຄັ້ງນີ້ມັນແມ່ນການເລືອກຂອງທ່ານ.
+
+871
+00:53:15,000 --> 00:53:19,200
+[ALL]
+Ar-tie! Ar-tie! Ar-tie! Ar-tie! Shrek the Third - Final Screening Script 114.
+ແອຣ໌ໄດ ແອັຣໄດແອັສແອຣແອລແອສ ແຊຣັກ ອັນດັບທີ 3 - ສະບັບສຸດທ້າຍ
+
+872
+00:53:19,700 --> 00:53:21,800
+[MERLIN]
+Uh, excuse me, that's my seat.
+ຂໍອະໄພ, ນັ້ນແມ່ນບ່ອນນັ່ງຂອງຂ້ອຍ.
+
+873
+00:53:22,300 --> 00:53:26,500
+[PUSS]
+Okay, senor hocus-y pocus-y. The time has come to rectify some wrongs!
+ດີເດີ້, ຊິນໂຣ ໂຮກຸສ-ຢີ ໂພກູສ-ຍີ
+ມັນເຖິງເວລາແລ້ວທີ່ຈະແກ້ໄຂຂໍ້ຜິດບາງຢ່າງ!
+
+874
+00:53:27,000 --> 00:53:29,800
+[DONKEY]
+Although I have been enjoying these "cat baths."
+ເຖິງແມ່ນວ່າຂ້ອຍກໍໄດ້ເພີດເພີນກັບ"ການອາບນໍ້າຫມູ" ເຫຼົ່ານີ້.
+
+875
+00:53:30,300 --> 00:53:32,300
+[PUSS]
+Please say you didn't.
+ກະລຸນາບອກວ່າເຈົ້າບໍ່ໄດ້.
+
+876
+00:53:32,800 --> 00:53:34,800
+[MERLIN]
+Uh... alright, alright...look..
+ໂອ້... ດີແລ້ວ, ດີແລ້ວ... ເບິ່ງ..
+
+877
+00:53:35,300 --> 00:53:41,300
+[MERLIN]
+You're gonna feel a little pinch, and possibly some lower intestinal discomfort, but this should do the trick.
+ເຈົ້າຈະຮູ້ສຶກຊັກຊ້າເລັກນ້ອຍ,
+ແລະອາດຈະມີອາການບໍ່ສະບາຍໃນທ້ອງຕໍ່າ, ແຕ່ສິ່ງນີ້ຄວນຈະເຮັດວຽກ.
+
+878
+00:53:41,800 --> 00:53:43,800
+[PUSS]
+Are you..?
+ເຈົ້າ...?
+
+879
+00:53:44,300 --> 00:53:48,150
+[DONKEY]
+I'm me again! Shrek the Third - Final Screening Script 115.
+ຂ້ອຍເປັນຂ້ອຍອີກຄັ້ງ! Shrek the
+Third - Final Screening Script 115.
+
+880
+00:53:48,650 --> 00:53:50,650
+[PUSS]
+And I am not you!
+ແລະຂ້ອຍບໍ່ແມ່ນເຈົ້າ!
+
+881
+00:53:51,150 --> 00:53:53,150
+[DONKEY]
+Alright!
+ດີແລ້ວ!
+
+882
+00:53:53,650 --> 00:53:55,650
+[MERLIN]
+Oops. Ah, never mind.
+ໂອ້, ບໍ່ເປັນຫຍັງ.
+
+883
+00:53:56,150 --> 00:54:01,050
+[SHREK]
+What'd I tell ya? I think the kid's going to be a great King.
+ຂ້ອຍບອກເຈົ້າແລ້ວວ່າ ລູກຈະເປັນກະສັດທີ່ດີ
+
+884
+00:54:01,550 --> 00:54:04,700
+[FIONA]
+Well, for what it's worth, you would have too.
+ດີ, ຖ້າມັນມີຄ່າ, ເຈົ້າກໍຈະເຮັດເຊັ່ນກັນ.
+
+885
+00:54:05,200 --> 00:54:08,000
+[SHREK]
+I have something much more important in mind.
+ຂ້ອຍມີບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນກວ່າ.
+
+886
+00:54:08,500 --> 00:54:10,500
+[SHREK]
+Ah, finally.
+ສຸດທ້າຍແລ້ວ.
+
+887
+00:54:11,000 --> 00:54:13,000
+[OGRE BABIES]
+Da da.
+ແມ່ນແລ້ວ.
+
+888
+00:54:13,500 --> 00:54:15,500
+[DONKEY]
+Hey! I smell Shrek Jr.
+ເຮີ, ຂ້ອຍໄດ້ກິ່ນຫອມ Shrek Jr.
+
+889
+00:54:16,000 --> 00:54:18,000
+[DONKEY]
+Peek-a-boo. Peek-a-boo.
+ເບິ່ງ-ເບິ່ງ-ເບິ່ງ.
+
+890
+00:54:18,500 --> 00:54:20,500
+[QUEEN]
+Bouncy, bouncy, bouncy boy.
+ເດັກນ້ອຍເກັ່ງ, ເກັ່ງ.
+
+891
+00:54:21,000 --> 00:54:23,000
+[DONKEY]
+Hey.
+ສະບາຍດີ.
+
+892
+00:54:23,500 --> 00:54:25,500
+[NANNY DWARF]
+Where's the baby?
+ເດັກນ້ອຍຢູ່ໃສ?
+
+893
+00:54:26,000 --> 00:54:28,100
+[SHREK]
+Well, what shall we do now?
+ບັດນີ້ພວກເຮົາຈະເຮັດແນວໃດ?
+
+894
+00:54:28,600 --> 00:54:30,600
+[SHREK]
+I got it.
+ຂ້ອຍໄດ້ມັນ.
 
