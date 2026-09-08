@@ -1,0 +1,7076 @@
+1
+00:00:10,000 --> 00:00:13,500
+[MELANIE]
+Hello, Mrs. MacGruder, have you ever seen so many gulls?
+ສະບາຍດີ, ທ່ານນາງແມັກກຣູເດີ, ເຈົ້າເຄີຍເຫັນກະຕ່າຫຼາຍປານໃດບໍ?
+
+2
+00:00:14,000 --> 00:00:16,000
+[MRS. MACGRUDER]
+Hello, Miss Daniels.
+ສະບາຍດີ, ນາງດານີເລສ.
+
+3
+00:00:16,500 --> 00:00:18,600
+[MELANIE]
+What do you suppose it is?
+ເຈົ້າຄິດວ່າມັນເປັນຫຍັງ?
+
+4
+00:00:19,100 --> 00:00:24,000
+[MRS. MACGRUDER]
+There must be a storm at sea. That can drive them inland, you know.
+ມັນຕ້ອງມີພາຍຸຢູ່ທະເລ.
+ນັ້ນສາມາດຂັບພວກເຂົາເຂົ້າໄປໃນປະເທດ, ເຈົ້າຮູ້ແລ້ວ.
+
+5
+00:00:24,500 --> 00:00:30,100
+[MRS. MACGRUDER]
+I was hoping you'd be a little late, Miss Daniels.  You see, he hasn't arrived yet.
+ຂ້ອຍຫວັງວ່າເຈົ້າຈະຊ້າເລັກນ້ອຍ, ນາງດານີເລສ
+. ເຈົ້າເຫັນແລ້ວ, ລາວຍັງບໍ່ຮອດເທື່ອ.
+
+6
+00:00:30,600 --> 00:00:32,600
+[MELANIE]
+You said three o'clock.
+ເຈົ້າບອກວ່າເວລາສາມໂມງ.
+
+7
+00:00:33,100 --> 00:00:39,100
+[MRS. MACGRUDER]
+I know. Oh, I know.  I've been calling all morning. Oh, you have no idea. Miss Daniels, they're so difficult to get, really they are. We get them from India, you know, when they're just little chicks, and then we have to...
+ຂ້ອຍຮູ້ແລ້ວ. ໂອ້, ຂ້ອຍຮູ້ວ່າ. ຂ້ອຍໄດ້ໂທຕະຫຼອດຕອນເຊົ້າ. ໂອ້ຍ, ເຈົ້າບໍ່ຮູ້ເລີຍ. ນາງດານີເລສ, ພວກເຂົາຍາກຫຼາຍທີ່ຈະໄດ້ຮັບ,
+ແທ້ຈິງແລ້ວພວກເຂົາແມ່ນ. ພວກເຮົາເອົາພວກມັນຈາກອິນເດຍ, ເຈົ້າຮູ້ແລ້ວ, ເມື່ອພວກມັນພຽງແຕ່ເປັນເດັກຍິງນ້ອຍໆ, ແລະຫຼັງຈາກນັ້ນພວກເຮົາຕ້ອງ...
+
+8
+00:00:39,600 --> 00:00:42,750
+[MELANIE]
+Well, this one won't be a chick, will he?
+ດີ, ຄົນນີ້ຈະບໍ່ເປັນເດັກຍິງ, ແມ່ນບໍ?
+
+9
+00:00:43,250 --> 00:00:48,850
+[MRS. MACGRUDER]
+Certainly not. Oh, no. Certainly not. This will be a full grown myna bird. Full grown.
+ແນ່ນອນວ່າບໍ່ແມ່ນ. ໂອ້, ບໍ່. ແນ່ນອນບໍ່. ນີ້ແມ່ນຈະເປັນນົກ
+myna ທີ່ເຕີບໃຫຍ່ຢ່າງເຕັມທີ່. ຂະຫຍາຍຕົວຢ່າງເຕັມໄປ.
+
+10
+00:00:49,350 --> 00:00:51,350
+[MELANIE]
+And he'll talk?
+ແລະລາວຈະເວົ້າບໍ?
+
+11
+00:00:51,850 --> 00:00:56,750
+[MRS. MACGRUDER]
+Well, yes, he'll talk. Well, no, no. You'll have to teach him to talk.
+ດີ, ແມ່ນແລ້ວ, ລາວຈະເວົ້າ. ດີ, ບໍ່, ບໍ່. ເຈົ້າຕ້ອງສອນລາວເວົ້າ.
+
+12
+00:00:57,250 --> 00:00:59,250
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+13
+00:00:59,750 --> 00:01:05,750
+[MRS. MACGRUDER]
+Yes.  Oh my, I suppose I should call them again. They said three o'clock.  Maybe it's the traffic. I'll call. Would you mind waiting?
+ແມ່ນແລ້ວ. ໂອ້, ຂ້ອຍຄິດວ່າຂ້ອຍຄວນໂທຫາພວກເຂົາອີກຄັ້ງ. ພວກເຂົາເວົ້າວ່າເວລາສາມໂມງ
+. ບາງທີມັນແມ່ນການຈະລາຈອນ. ຂ້ອຍຈະໂທ. ເຈົ້າບໍ່ສົນໃຈຖ້າບໍ?
+
+14
+00:01:06,250 --> 00:01:10,800
+[MELANIE]
+I think maybe you'd better deliver him. Let me give you my address.
+ຂ້ອຍຄິດວ່າບາງທີເຈົ້າຄວນສົ່ງລາວ. ຂໍໃຫ້ຂ້ອຍໃຫ້ເຈົ້າທີ່ຢູ່ຂອງຂ້ອຍ.
+
+15
+00:01:11,300 --> 00:01:13,300
+[MRS. MACGRUDER]
+Oh. Oh, well, all right.
+ໂອ້. ໂອ້, ດີ, ດີ.
+
+16
+00:01:13,800 --> 00:01:17,650
+[MRS. MACGRUDER]
+I'm sure they're on the way, though. Could I just call?
+ຂ້ອຍແນ່ໃຈວ່າພວກເຂົາ ກໍາ ລັງເດີນທາງຢູ່
+, ເຖິງຢ່າງໃດກໍ່ຕາມ. ຂ້ອຍສາມາດໂທໄດ້ບໍ?
+
+17
+00:01:18,150 --> 00:01:20,150
+[MELANIE]
+Well, all right, but...
+ດີ, ດີ, ແຕ່...
+
+18
+00:01:20,650 --> 00:01:26,650
+[MRS. MACGRUDER]
+Hello, this is Betty MacGruder at Davidson's.  It's past three, you know.  Well, how long do you think...? All right, would you check it please? Yes, I'll wait.
+ສະບາຍດີ, ນີ້ແມ່ນເບຕຕີ້ ແມັກກຣູເດີຢູ່ເຮືອນດາວິດສັນ. ມັນຜ່ານເວລາສາມ, ເຈົ້າຮູ້ແລ້ວ. ດີ
+, ເຈົ້າຄິດວ່າດົນປານໃດ...? ດີແລ້ວ, ເຈົ້າຈະກວດເບິ່ງມັນແດ່ບໍ? ແມ່ນແລ້ວ, ຂ້ອຍຈະລໍຖ້າ.
+
+19
+00:01:27,150 --> 00:01:29,600
+[MITCH]
+I wonder if you could help me.
+ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າສາມາດຊ່ວຍຂ້ອຍໄດ້ບໍ.
+
+20
+00:01:30,100 --> 00:01:32,100
+[MELANIE]
+What?
+ຫຍັງ?
+
+21
+00:01:32,600 --> 00:01:35,750
+[MITCH]
+I said I wonder if you could help me.
+ຂ້ອຍເວົ້າວ່າ ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າສາມາດຊ່ວຍຂ້ອຍໄດ້ບໍ.
+
+22
+00:01:36,250 --> 00:01:39,400
+[MELANIE]
+Yes, what was it you were looking for, sir?
+ແມ່ນແລ້ວ, ເຈົ້າ ກໍາ ລັງຊອກຫາຫຍັງເດີເດີ?
+
+23
+00:01:39,900 --> 00:01:41,900
+[MITCH]
+Lovebirds.
+ນົກຮັກ.
+
+24
+00:01:42,400 --> 00:01:44,400
+[MELANIE]
+Lovebirds, sir?
+ນົກຮັກບໍ, ທ້າວ?
+
+25
+00:01:44,900 --> 00:01:48,400
+[MITCH]
+Yes. I understand there are different varieties, it that true?
+ແມ່ນແລ້ວ. ຂ້ອຍເຂົ້າໃຈວ່າມີຊະນິດຕ່າງໆ, ມັນເປັນຄວາມຈິງບໍ?
+
+26
+00:01:48,900 --> 00:01:50,900
+[MELANIE]
+Well... yes, sir, there are.
+ດີ... ແມ່ນແລ້ວ, ທ້າວ, ມີ.
+
+27
+00:01:51,400 --> 00:01:57,400
+[MITCH]
+These are for my sister... her birthday you see. As she'll be eleven and... well, frankly, I wouldn't want a pair of birds that were too demonstrative.
+ນີ້ແມ່ນສໍາລັບເອື້ອຍຂອງຂ້ອຍ... ວັນເກີດຂອງນາງທີ່ທ່ານເຫັນ.
+ຍ້ອນວ່ານາງຈະອາຍຸສິບຫນຶ່ງແລະ... ດີ, ຢ່າງຈິງໃຈ, ຂ້ອຍບໍ່ຢາກມີນົກຄູ່ທີ່ສະແດງຫຼາຍເກີນໄປ.
+
+28
+00:01:57,900 --> 00:01:59,900
+[MELANIE]
+I understand completely, sir.
+ຂ້ອຍເຂົ້າໃຈຢ່າງເຕັມທີ່ເດີເດີ.
+
+29
+00:02:00,400 --> 00:02:04,600
+[MITCH]
+As the same time, I wouldn't want birds that were aloof, either.
+ໃນເວລາດຽວກັນ, ຂ້ອຍບໍ່ຢາກມີນົກທີ່ຢູ່ຫ່າງໄກຈາກກັນເຊັ່ນກັນ.
+
+30
+00:02:05,100 --> 00:02:07,100
+[MELANIE]
+No, of course not.
+ບໍ່, ແນ່ນອນວ່າບໍ່ແມ່ນ.
+
+31
+00:02:07,600 --> 00:02:10,750
+[MITCH]
+Do you have a pair that are just friendly?
+ເຈົ້າມີຄູ່ທີ່ພຽງແຕ່ເປັນເພື່ອນມິດບໍ?
+
+32
+00:02:11,250 --> 00:02:14,400
+[MELANIE]
+I think so, sir.  Now then, let me see.
+ຂ້ອຍຄິດວ່າເປັນແລ້ວເດີ. ດຽວນີ້, ໃຫ້ຂ້ອຍເບິ່ງ.
+
+33
+00:02:14,900 --> 00:02:16,900
+[MITCH]
+Aren't these lovebirds?
+ເຫຼົ່ານີ້ບໍ່ແມ່ນນົກຮັກບໍ?
+
+34
+00:02:17,400 --> 00:02:19,400
+[MELANIE]
+No, sir, those are... redbirds.
+ບໍ່, ເຈົ້າ, ນັ້ນແມ່ນ... ນົກແດງ.
+
+35
+00:02:19,900 --> 00:02:21,900
+[MITCH]
+The sign says strawberry finches.
+ປ້າຍບອກວ່າແມງໄມ້ສຕຣັບເບຣີ.
+
+36
+00:02:22,400 --> 00:02:26,250
+[MELANIE]
+Yes, we call them that too.  Ahhh, here we are, Lovebirds...
+ແມ່ນແລ້ວ, ພວກເຮົາເອີ້ນພວກມັນເຊັ່ນກັນ
+. ອາຮ້, ພວກເຮົາຢູ່ບ່ອນນີ້, ນົກຮັກ...
+
+37
+00:02:26,750 --> 00:02:30,250
+[MITCH]
+Those are canaries, Miss.  Doesn't this make you feel awful?
+ນັ້ນແມ່ນການາຣີ, ນາງ. ນີ້ບໍ່ເຮັດໃຫ້ເຈົ້າຮູ້ສຶກຮ້າຍແຮງບໍ?
+
+38
+00:02:30,750 --> 00:02:32,750
+[MELANIE]
+Doesn't what make me...?
+ສິ່ງທີ່ເຮັດໃຫ້ຂ້ອຍບໍ່...?
+
+39
+00:02:33,250 --> 00:02:36,400
+[MITCH]
+All these innocent little creatures caged up like this?
+ພວກສັດນ້ອຍໆທີ່ບໍ່ມີຄວາມຜິດທັງ ຫມົດ ທີ່ຖືກກັກໄວ້ແບບນີ້ບໍ?
+
+40
+00:02:36,900 --> 00:02:41,100
+[MELANIE]
+Well, we can't just let them fly around the shop, you know.
+ດີ, ພວກເຮົາບໍ່ສາມາດປ່ອຍໃຫ້ພວກເຂົາບິນຢູ່ທົ່ວຮ້ານຄ້າໄດ້
+, ເຈົ້າຮູ້ແລ້ວ.
+
+41
+00:02:41,600 --> 00:02:46,500
+[MITCH]
+I suppose not. Is there an ornithological reason for keeping them in separate cages?
+ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ. ມີເຫດຜົນ ornithological
+ສໍາລັບການຮັກສາພວກມັນໃນຈານແຍກຕ່າງຫາກບໍ?
+
+42
+00:02:47,000 --> 00:02:49,450
+[MELANIE]
+Oh, certainly. It's to protect the species.
+ໂອ້ ແນ່ນອນ. ມັນເປັນເພື່ອປົກປ້ອງຊະນິດຕ່າງໆ.
+
+43
+00:02:49,950 --> 00:02:53,450
+[MITCH]
+I imagine that's very important. Especially during the moulting season.
+ຂ້ອຍຄິດວ່າມັນມີຄວາມສໍາຄັນຫຼາຍ. ໂດຍສະເພາະໃນລະດູການ moulting ໄດ້.
+
+44
+00:02:53,950 --> 00:02:56,050
+[MELANIE]
+Yes, that's a particularly dangerous time.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນເວລາທີ່ອັນຕະລາຍຫຼາຍ.
+
+45
+00:02:56,550 --> 00:02:58,550
+[MITCH]
+Are they moulting now?
+ພວກເຂົາ ກໍາ ລັງຂັບຂີ່ຢູ່ບໍ?
+
+46
+00:02:59,050 --> 00:03:01,050
+[MELANIE]
+Some of them are.
+ບາງຄົນແມ່ນ.
+
+47
+00:03:01,550 --> 00:03:03,550
+[MITCH]
+How can you tell?
+ເຈົ້າຮູ້ໄດ້ແນວໃດ?
+
+48
+00:03:04,050 --> 00:03:06,850
+[MELANIE]
+Well... they get a sort of hangdog expression.
+ດີ... ພວກເຂົາໄດ້ຮັບການສະແດງອອກຂອງຫມາຕິດ.
+
+49
+00:03:07,350 --> 00:03:09,800
+[MITCH]
+Yes, I see.  About those lovebirds, Miss...
+ແມ່ນແລ້ວ, ຂ້ອຍເຫັນແລ້ວ. ກ່ຽວກັບນົກຮັກເຫຼົ່ານັ້ນ, ນາງ...
+
+50
+00:03:10,300 --> 00:03:16,300
+[MELANIE]
+Are you sure you wouldn't like to see a canary instead? We have some very nice canaries this week.
+ເຈົ້າແນ່ໃຈວ່າເຈົ້າບໍ່ຢາກເຫັນການາຣີແທນບໍ?
+ພວກເຮົາມີການາກຣີທີ່ສວຍງາມຫຼາຍໃນອາທິດນີ້.
+
+51
+00:03:16,800 --> 00:03:18,800
+[MITCH]
+All right.  She smiles back.
+ດີແລ້ວ. ນາງມ່ວນຊື່ນກັບຄືນໄປບ່ອນ.
+
+52
+00:03:19,300 --> 00:03:21,750
+[MITCH]
+All right, may I see one, please?
+ດີແລ້ວ, ຂ້ອຍສາມາດເຫັນຫນຶ່ງໄດ້ບໍ, ກະລຸນາ?
+
+53
+00:03:22,250 --> 00:03:24,250
+[MELANIE]
+Here, birdie. Here, birdie, birdie.
+ມາແລ້ວ ນົກ. ມາແລ້ວນົກ.
+
+54
+00:03:24,750 --> 00:03:26,750
+[MELANIE]
+Oh!  Ohhhhh!
+ໂອ້! ໂອ້ ຮາ!
+
+55
+00:03:27,250 --> 00:03:31,450
+[MRS. MACGRUDER]
+What is it? Oh! Oh my, one of the birds is loose!
+ມັນເປັນຫຍັງ? ໂອ້! ໂອ້, ນົກຫນຶ່ງຖືກປ່ອຍຕົວແລ້ວ!
+
+56
+00:03:31,950 --> 00:03:33,950
+[MITCH]
+Shhh! Shhhh!
+ສະຫວັນນະເຂດ!
+
+57
+00:03:34,450 --> 00:03:36,450
+[MELANIE]
+There we are!
+ພວກເຮົາຢູ່ແລ້ວ!
+
+58
+00:03:36,950 --> 00:03:38,950
+[MRS. MACGRUDER]
+Oh, good! Oh, wonderful.
+ໂອ້ ດີ! ໂອ້, ດີເລີດ.
+
+59
+00:03:39,450 --> 00:03:41,900
+[MITCH]
+Back into your gilded cage, Melanie Daniels.
+ກັບຄືນໄປບ່ອນກະຕ່າຄໍາຂອງທ່ານ, ເມລານີ ດານີເລສ.
+
+60
+00:03:42,400 --> 00:03:44,400
+[MELANIE]
+What did you say?
+ເຈົ້າເວົ້າຫຍັງ?
+
+61
+00:03:44,900 --> 00:03:47,700
+[MITCH]
+I was merely drawing a parallel, Miss Daniels.
+ຂ້ອຍພຽງແຕ່ ກໍາ ລັງແຕ້ມທຽບທຽບກັນ, ນາງດານີເລສ.
+
+62
+00:03:48,200 --> 00:03:51,000
+[MELANIE]
+But how... how do you know my name?
+ແຕ່ເຈົ້າຮູ້ຊື່ຂອງຂ້ອຍແນວໃດ?
+
+63
+00:03:51,500 --> 00:03:55,000
+[MITCH]
+A little birdie told me.  Good day, Miss Daniels.  Madam.
+ນົກນ້ອຍບອກຂ້ອຍ. ສະບາຍດີ, ນາງດານີເລສ. ແມ່.
+
+64
+00:03:55,500 --> 00:03:57,500
+[MELANIE]
+Hey, wait a minute!
+ເຮ້, ລໍຖ້າດົນຫນຶ່ງ!
+
+65
+00:03:58,000 --> 00:04:00,000
+[MELANIE]
+I don't know you.
+ຂ້ອຍບໍ່ຮູ້ຈັກເຈົ້າ.
+
+66
+00:04:00,500 --> 00:04:02,500
+[MITCH]
+Ahhh, but I know you.
+ອາຮ້, ແຕ່ຂ້ອຍຮູ້ຈັກເຈົ້າ.
+
+67
+00:04:03,000 --> 00:04:05,000
+[MELANIE]
+How?
+ແນວໃດ?
+
+68
+00:04:05,500 --> 00:04:07,500
+[MITCH]
+We met in court.
+ພວກເຮົາພົບກັນໃນສານ.
+
+69
+00:04:08,000 --> 00:04:10,800
+[MELANIE]
+We never met in court or anyplace else.
+ພວກເຮົາບໍ່ເຄີຍພົບກັນໃນສານຫຼືບ່ອນອື່ນເລີຍ.
+
+70
+00:04:11,300 --> 00:04:14,800
+[MITCH]
+That's true. I'll rephrase it. I saw you in court.
+ນັ້ນແມ່ນຄວາມຈິງ. ຂ້ອຍຈະເວົ້າມັນອີກຄັ້ງ. ຂ້ອຍເຫັນເຈົ້າໃນສານ.
+
+71
+00:04:15,300 --> 00:04:17,300
+[MELANIE]
+When?
+ເມື່ອໃດ?
+
+72
+00:04:17,800 --> 00:04:23,800
+[MITCH]
+Do you remember one of your practical jokes that resulted in the smashing of a plate glass window?
+ເຈົ້າຈື່ເລື່ອງໂຊກແຊງ ຫນຶ່ງ
+ຂອງເຈົ້າທີ່ເຮັດໃຫ້ປ່ອງຢ້ຽມແກ້ວແຜ່ນແຕກລົງບໍ?
+
+73
+00:04:24,300 --> 00:04:26,300
+[MELANIE]
+I didn't break that window!
+ຂ້ອຍບໍ່ໄດ້ທໍາລາຍປ່ອງຢ້ຽມນັ້ນ!
+
+74
+00:04:26,800 --> 00:04:31,700
+[MITCH]
+No, but your little prank did. The judge should have put you behind bars!
+ບໍ່, ແຕ່ກະຕຸ້ນນ້ອຍຂອງທ່ານເຮັດ.
+ຜູ້ພິພາກສາຄວນເຮັດໃຫ້ເຈົ້າຢູ່ເບື້ອງຫຼັງແຖບ!
+
+75
+00:04:32,200 --> 00:04:34,200
+[MELANIE]
+What are you? A policeman?
+ເຈົ້າເປັນຫຍັງ? ຕໍາຫຼວດບໍ?
+
+76
+00:04:34,700 --> 00:04:40,300
+[MITCH]
+I simply believe in the law, Miss Daniels, and I'm not too keen on practical jokers.
+ຂ້ອຍພຽງແຕ່ເຊື່ອໃນກົດ ຫມາຍ, ນາງດານີເລສ
+, ແລະຂ້ອຍບໍ່ມັກຄົນຢອກຊື່ໆຫຼາຍ.
+
+77
+00:04:40,800 --> 00:04:44,650
+[MELANIE]
+What do you call your lovebird story if not a practical...
+ເຈົ້າເອີ້ນເລື່ອງນົກຮັກຂອງເຈົ້າວ່າແນວໃດຖ້າບໍ່ແມ່ນເລື່ອງທີ່ປະຕິບັດໄດ້
+...
+
+78
+00:04:45,150 --> 00:04:47,950
+[MITCH]
+Ahhh, but I really do want those birds.
+ອາຮ້, ແຕ່ຂ້ອຍຢາກນົກເຫຼົ່ານັ້ນແທ້ໆ.
+
+79
+00:04:48,450 --> 00:04:51,250
+[MELANIE]
+You knew I didn't work here. You deliberately...
+ເຈົ້າຮູ້ວ່າຂ້ອຍບໍ່ໄດ້ເຮັດວຽກຢູ່ນີ້. ເຈົ້າຕັ້ງໃຈ...
+
+80
+00:04:51,750 --> 00:04:57,750
+[MITCH]
+Right. I recognized you when I came in. I thought you might like to know what it felt like to be on the other end of a gag. What do you think of that, Miss Daniels?
+ແມ່ນແລ້ວ. ຂ້ອຍຮູ້ຈັກເຈົ້າເມື່ອຂ້ອຍເຂົ້າມາ.
+ຂ້ອຍຄິດວ່າເຈົ້າອາດຈະຢາກຮູ້ວ່າມັນຮູ້ສຶກແນວໃດທີ່ຈະຢູ່ທາງອື່ນຂອງໂຊກແຊງ. ເຈົ້າຄິດແນວໃດກ່ຽວກັບນັ້ນ, ນາງດານີເລສ?
+
+81
+00:04:58,250 --> 00:05:00,250
+[MELANIE]
+I think you're a louse.
+ຂ້ອຍຄິດວ່າເຈົ້າເປັນແມງໄມ້.
+
+82
+00:05:00,750 --> 00:05:02,750
+[MITCH]
+I am.  Good day.  Madam.
+ຂ້ອຍເປັນ. ສະບາຍດີ. ແມ່.
+
+83
+00:05:03,250 --> 00:05:06,050
+[MELANIE]
+And I'm glad you didn't get your lovebirds!
+ແລະຂ້ອຍດີໃຈທີ່ເຈົ້າບໍ່ໄດ້ເອົານົກຮັກຂອງເຈົ້າ!
+
+84
+00:05:06,550 --> 00:05:10,050
+[MITCH]
+I'll find something else.  See you in court some day.
+ຂ້ອຍຈະຊອກຫາສິ່ງອື່ນ. ພົບກັນໃນສານມື້ຫນຶ່ງ.
+
+85
+00:05:10,550 --> 00:05:12,550
+[MELANIE]
+That... that... who was that?
+ນັ້ນ.. ນັ້ນ... ນັ້ນແມ່ນໃຜ?
+
+86
+00:05:13,050 --> 00:05:15,050
+[MRS. MACGRUDER]
+I have no idea.
+ຂ້ອຍບໍ່ຮູ້ເລີຍ.
+
+87
+00:05:15,550 --> 00:05:17,550
+[MELANIE]
+Have you got a pencil?
+ເຈົ້າມີກະທູ້ບໍ?
+
+88
+00:05:18,050 --> 00:05:20,050
+[MRS. MACGRUDER]
+What? Oh, yes, certainly.
+ຫຍັງ? ໂອ້, ແມ່ນແລ້ວ, ແນ່ນອນ.
+
+89
+00:05:20,550 --> 00:05:26,500
+[MRS. MACGRUDER]
+They said the myna bird would be here later this afternoon. If you'd care to come back...
+ພວກເຂົາເວົ້າວ່າ ນົກ Myna
+ຈະຢູ່ບ່ອນນີ້ໃນຕອນບ່າຍມື້ນີ້. ຖ້າເຈົ້າຢາກກັບມາ...
+
+90
+00:05:27,000 --> 00:05:30,500
+[MELANIE]
+No, you'd better send him. May I use your phone?
+ບໍ່, ເຈົ້າຄວນສົ່ງລາວ. ຂ້ອຍສາມາດໃຊ້ໂທລະສັບຂອງທ່ານໄດ້ບໍ?
+
+91
+00:05:31,000 --> 00:05:33,000
+[MRS. MACGRUDER]
+Yes, certainly.
+ແມ່ນແລ້ວ, ແນ່ນອນ.
+
+92
+00:05:33,500 --> 00:05:35,500
+[MELANIE]
+Do you have any lovebirds?
+ເຈົ້າມີນົກຮັກບໍ?
+
+93
+00:05:36,000 --> 00:05:40,200
+[MRS. MACGRUDER]
+No, not in the shop. But I can order them for you.
+ບໍ່, ບໍ່ແມ່ນໃນຮ້ານຄ້າ. ແຕ່ຂ້ອຍສາມາດສັ່ງພວກມັນ ສໍາ ລັບເຈົ້າໄດ້.
+
+94
+00:05:40,700 --> 00:05:42,700
+[MELANIE]
+How soon?
+ໄວປານໃດ?
+
+95
+00:05:43,200 --> 00:05:46,000
+[MRS. MACGRUDER]
+Well... well, how soon would you want them?
+ດີ... ດີ, ເຈົ້າຢາກພວກມັນໄວປານໃດ?
+
+96
+00:05:46,500 --> 00:05:52,100
+[MELANIE]
+Immediately.  Is this the Daily News? Melanie Daniels. Would you get me the city desk, please?
+ທັນທີ. ນີ້ແມ່ນຂ່າວປະຈໍາວັນບໍ? ເມລານີ ດານີເລສ
+. ເຈົ້າຈະເອົາໂຕະຂອງເມືອງໃຫ້ຂ້ອຍບໍ, ກະລຸນາ?
+
+97
+00:05:52,600 --> 00:05:57,850
+[MRS. MACGRUDER]
+I might be able to have them by tomorrow morning. Would that be all right?
+ຂ້ອຍອາດຈະສາມາດມີພວກມັນໄດ້ໃນຕອນເຊົ້າມື້ອື່ນ. ມັນບໍ່ເປັນຫຍັງບໍ?
+
+98
+00:05:58,350 --> 00:06:04,350
+[MELANIE]
+That would be just fine.  Hello, Charlie, this is Melanie. I want you to do a favor for me.  No, this is a small one.  Pressure you? Why, Charlie darling, would I try to pressure you?  Will you call the Department of Motor Vehicles for me and find out who owns this license plate? DKQ dash one seven six.  Yes, a California plate.  No, I'll stop up there in a little while. Is daddy in his office?  Oh. No, no, I don't want to break in on a meeting. Just tell him I'll see him later. Thank you, Charlie.
+ນັ້ນຈະດີເລີດ. ສະບາຍດີ, ແຊລລີ, ນີ້ແມ່ນເມລານີ. ຂ້ອຍຢາກໃຫ້ເຈົ້າເຮັດຄວາມສະບາຍດີ ສໍາ ລັບຂ້ອຍ. ບໍ່, ນີ້ແມ່ນຂະຫນາດນ້ອຍ. ກົດດັນເຈົ້າບໍ? ເປັນຫຍັງແຊລຣີແມ, ຂ້ອຍຈະພະຍາຍາມກົດດັນທ່ານບໍ?
+ເຈົ້າຈະໂທຫາພະແນກພາຫະນະຈັກສໍາລັບຂ້ອຍແລະຊອກຫາຜູ້ທີ່ເປັນເຈົ້າຂອງປ້າຍທະບຽນນີ້ບໍ? DKQ dash ຫນຶ່ງ ເຈັດຫົກ. ແມ່ນແລ້ວ, ປ້າຍແຄລຟໍເນຍ. ບໍ່ແມ່ນ, ຂ້າພະເຈົ້າຈະຢຸດຢູ່ບ່ອນນັ້ນໃນເວລາດົນນານ.
+
+99
+00:06:04,850 --> 00:06:06,850
+[MELANIE]
+Now. What time tomorrow morning?
+ດຽວນີ້. ເວລາໃດໃນຕອນເຊົ້າມື້ອື່ນ?
+
+100
+00:06:07,350 --> 00:06:09,350
+[MAN'S VOICE]
+Miss...?  She stops, distressed.
+ນາງ...? ນາງຢຸດເຊົາ, ມີຄວາມທຸກທໍລະມານ.
+
+101
+00:06:09,850 --> 00:06:11,850
+[MAN]
+Is that for Mitch Brenner?
+ນັ້ນແມ່ນສໍາລັບມິτς ບຣັນເນີບໍ?
+
+102
+00:06:12,350 --> 00:06:14,350
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+103
+00:06:14,850 --> 00:06:16,850
+[MAN]
+He's not home.
+ລາວບໍ່ໄດ້ຢູ່ເຮືອນ.
+
+104
+00:06:17,350 --> 00:06:19,350
+[MELANIE]
+That's all right.
+ມັນບໍ່ເປັນຫຍັງ.
+
+105
+00:06:19,850 --> 00:06:24,750
+[MAN]
+He won't be back until Monday. I mean, if those birds are for him....
+ລາວຈະບໍ່ກັບມາຈົນກວ່າວັນຈັນ. ຂ້ອຍຫມາຍຄວາມວ່າ
+, ຖ້ານົກເຫຼົ່ານັ້ນແມ່ນ ສໍາ ລັບລາວ....
+
+106
+00:06:25,250 --> 00:06:27,250
+[MELANIE]
+Monday?
+ວັນຈັນບໍ?
+
+107
+00:06:27,750 --> 00:06:32,300
+[MAN]
+Yes. I don't think you should leave them in the hall, do you?
+ແມ່ນແລ້ວ. ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າຄວນປ່ອຍພວກມັນໄວ້ໃນຫ້ອງປະຊຸມ, ແມ່ນບໍ?
+
+108
+00:06:32,800 --> 00:06:34,800
+[MELANIE]
+Well, I...
+ດີ, ຂ້ອຍ...
+
+109
+00:06:35,300 --> 00:06:37,300
+[MELANIE]
+Well, where did he go?
+ດີ, ລາວໄປໃສ?
+
+110
+00:06:37,800 --> 00:06:40,600
+[MAN]
+Bodega Bay. He goes up there every weekend.
+ລາວຂຶ້ນໄປບ່ອນນັ້ນທຸກໆທ້າຍອາທິດ.
+
+111
+00:06:41,100 --> 00:06:43,100
+[MELANIE]
+Bodega Bay? Where's that?
+ບອດເດກາ ບາ? ນັ້ນຢູ່ໃສ?
+
+112
+00:06:43,600 --> 00:06:47,100
+[MAN]
+Up on the coast. About sixty miles north of here.
+ຢູ່ເທິງແຄມຝັ່ງທະເລ. ປະມານສິບແມລທາງທິດເຫນືອຈາກບ່ອນນີ້.
+
+113
+00:06:47,600 --> 00:06:49,600
+[MELANIE]
+Sixty...  Oh.
+ຫົກສິບ... ໂອ້.
+
+114
+00:06:50,100 --> 00:06:56,050
+[MAN]
+About an hour and a half on the freeway. Or two if you take the coast highway.
+ປະມານຊົ່ວໂມງເຄິ່ງໃນທາງດ່ວນ. ຫຼືສອງຖ້າເຈົ້າເອົາທາງດົນທາງຝັ່ງທະເລ.
+
+115
+00:06:56,550 --> 00:06:58,550
+[MELANIE]
+Oh.
+ໂອ້.
+
+116
+00:06:59,050 --> 00:07:05,050
+[MAN]
+I'd hold the birds for him, but I'm going away myself. Someone's got to feed them, I suppose.
+ຂ້ອຍຈະຖືນົກ ສໍາ ລັບລາວ, ແຕ່ຂ້ອຍຈະໄປເອງ
+. ບາງຄົນຕ້ອງໃຫ້ອາຫານພວກມັນ, ຂ້ອຍຄິດວ່າ.
+
+117
+00:07:05,550 --> 00:07:08,000
+[MELANIE]
+Yes. Yes, someone's got to feed them.
+ແມ່ນແລ້ວ. ແມ່ນແລ້ວ, ບາງຄົນຕ້ອງໃຫ້ອາຫານພວກມັນ.
+
+118
+00:07:08,500 --> 00:07:10,500
+[MAN]
+I'm awfully sorry.
+ຂ້ອຍຂໍໂທດຫຼາຍ.
+
+119
+00:07:11,000 --> 00:07:13,000
+[MELANIE]
+Oh, shut up!
+ໂອ້, ງຽບ!
+
+120
+00:07:13,500 --> 00:07:15,500
+[MELANIE]
+Good morning.
+ສະບາຍດີ.
+
+121
+00:07:16,000 --> 00:07:18,000
+[CLERK]
+Morning.
+ຕອນເຊົ້າ.
+
+122
+00:07:18,500 --> 00:07:20,950
+[MELANIE]
+I wonder if you could help me.
+ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າສາມາດຊ່ວຍຂ້ອຍໄດ້ບໍ.
+
+123
+00:07:21,450 --> 00:07:23,450
+[CLERK]
+Try my best.
+ພະຍາຍາມຢ່າງດີທີ່ສຸດ.
+
+124
+00:07:23,950 --> 00:07:26,750
+[MELANIE]
+I'm looking for a man named Mitchell Brenner.
+ຂ້ອຍ ກໍາ ລັງຊອກຫາຜູ້ຊາຍຊື່ວ່າ ມິຕເຊວ ບຣັນເນີ.
+
+125
+00:07:27,250 --> 00:07:29,250
+[CLERK]
+Yep.
+ແມ່ນແລ້ວ.
+
+126
+00:07:29,750 --> 00:07:31,750
+[MELANIE]
+Do you know him?
+ເຈົ້າຮູ້ຈັກລາວບໍ?
+
+127
+00:07:32,250 --> 00:07:34,250
+[CLERK]
+Yep.
+ແມ່ນແລ້ວ.
+
+128
+00:07:34,750 --> 00:07:36,750
+[MELANIE]
+Where does he live?
+ລາວອາໄສຢູ່ໃສ?
+
+129
+00:07:37,250 --> 00:07:39,250
+[CLERK]
+Right here. Bodega Bay.
+ຢູ່ບ່ອນນີ້. ບອດເກາ.
+
+130
+00:07:39,750 --> 00:07:41,750
+[MELANIE]
+Yes, but where?
+ແມ່ນແລ້ວ, ແຕ່ຢູ່ໃສ?
+
+131
+00:07:42,250 --> 00:07:44,250
+[CLERK]
+Right across the bay there.
+ຢູ່ທາງຂ້າມແຄມນັ້ນ.
+
+132
+00:07:44,750 --> 00:07:46,750
+[MELANIE]
+Where?
+ຢູ່ໃສ?
+
+133
+00:07:47,250 --> 00:07:49,250
+[CLERK]
+See where I'm pointing?
+ເຈົ້າເຫັນວ່າຂ້ອຍແນໃສ່ໃສ?
+
+134
+00:07:49,750 --> 00:07:51,750
+[MELANIE]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+135
+00:07:52,250 --> 00:07:54,700
+[CLERK]
+See them two big trees across there?
+ເຈົ້າເຫັນຕົ້ນໄມ້ໃຫຍ່ສອງຕົ້ນຢູ່ທາງນັ້ນບໍ?
+
+136
+00:07:55,200 --> 00:07:57,200
+[MELANIE]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+137
+00:07:57,700 --> 00:07:59,700
+[CLERK]
+And the white house?
+ແລະທໍານຽບຂາວ?
+
+138
+00:08:00,200 --> 00:08:02,200
+[MELANIE]
+That's where the Brenners live.
+ນັ້ນແມ່ນບ່ອນທີ່ຊາວບຣັນເນີອາໄສຢູ່.
+
+139
+00:08:02,700 --> 00:08:04,800
+[MELANIE]
+The Brenners? Mr. and Mrs. Brenner?
+ພວກບຣັນເນີ? ທ້າວແລະທ່ານນາງບຣີນເນີບໍ?
+
+140
+00:08:05,300 --> 00:08:07,750
+[CLERK]
+Nope, just Lydia and the two kids.
+ບໍ່, ພຽງແຕ່ລີດີຍ ແລະເດັກນ້ອຍສອງຄົນ.
+
+141
+00:08:08,250 --> 00:08:10,250
+[MELANIE]
+The two kids?
+ເດັກນ້ອຍສອງຄົນບໍ?
+
+142
+00:08:10,750 --> 00:08:12,850
+[CLERK]
+Yep. Mitch and the little girl.
+ແມ່ນແລ້ວ. ມິτς ແລະເດັກຍິງນ້ອຍ.
+
+143
+00:08:13,350 --> 00:08:16,150
+[MELANIE]
+I see. How do I get down there?
+ຂ້ອຍເຫັນແລ້ວ. ຂ້ອຍຈະລົງໄປບ່ອນນັ້ນແນວໃດ?
+
+144
+00:08:16,650 --> 00:08:22,650
+[CLERK]
+Follow the road straight through town 'til it curves off on the left. That'll take you right around the bay to their front door.
+ຕິດຕາມເສັ້ນທາງໂດຍກົງຜ່ານເມືອງຈົນກວ່າມັນຈະໂຄ້ງອອກໄປທາງຊ້າຍ
+. ນັ້ນຈະພາເຈົ້າໄປຢູ່ອ້ອມແອ້ມແຄມຫາປະຕູທາງຫນ້າຂອງພວກເຂົາ.
+
+145
+00:08:23,150 --> 00:08:27,000
+[MELANIE]
+The front door.  Isn't there a back road I can take?
+ປະຕູທາງຫນ້າ. ບໍ່ມີທາງຫຼັງທີ່ຂ້ອຍສາມາດໄປໄດ້ບໍ?
+
+146
+00:08:27,500 --> 00:08:33,500
+[CLERK]
+Nope. That's the road. Straight through town, stay on your left, right around the bay to the front door.
+ບໍ່. ນັ້ນແມ່ນທາງ. ໂດຍກົງຜ່ານເມືອງ,
+ຢູ່ທາງຊ້າຍຂອງທ່ານ, ຢູ່ອ້ອມແອ້ມແຄມຫາປະຕູທາງຫນ້າ.
+
+147
+00:08:34,000 --> 00:08:36,450
+[MELANIE]
+You see, I wanted to surprise them.
+ເຈົ້າເຫັນແລ້ວ, ຂ້ອຍຢາກເຮັດໃຫ້ພວກເຂົາແປກໃຈ.
+
+148
+00:08:36,950 --> 00:08:38,950
+[CLERK]
+Mmmm.
+Mmmm.
+
+149
+00:08:39,450 --> 00:08:44,350
+[MELANIE]
+I didn't want to come right down the road, where they could see me.
+ຂ້ອຍບໍ່ຢາກມາຕາມທາງ, ບ່ອນທີ່ພວກເຂົາສາມາດເຫັນຂ້ອຍໄດ້.
+
+150
+00:08:44,850 --> 00:08:46,850
+[CLERK]
+Mmmm.
+Mmmm.
+
+151
+00:08:47,350 --> 00:08:49,350
+[MELANIE]
+It's a surprise, you see.
+ມັນເປັນຄວາມແປກໃຈ, ເຈົ້າເຫັນແລ້ວ.
+
+152
+00:08:49,850 --> 00:08:55,850
+[CLERK]
+Mmmmmm.  'Course, you could get yourself a boat, cut right across the bay with it. The Brenners got a little dock there you could tie up at. If that's what you wanted to do.
+ມມມ. ແນ່ນອນ, ເຈົ້າສາມາດເອົາເຮືອຕົວເອງໄດ້, ຕັດຂ້າມແຄມກັບມັນ.
+ຊາວບຣັນເນີມີທ່າເຮືອນ້ອຍຢູ່ບ່ອນນັ້ນທີ່ທ່ານສາມາດຕິດຕໍ່ໄດ້. ຖ້າມັນແມ່ນສິ່ງທີ່ເຈົ້າຢາກເຮັດ.
+
+153
+00:08:56,350 --> 00:08:58,450
+[MELANIE]
+Where would I get a boat?
+ຂ້ອຍຈະເອົາເຮືອຈາກໃສ?
+
+154
+00:08:58,950 --> 00:09:03,500
+[CLERK]
+Down at the dock by the Tides Restaurant. Ever handled an outboard boat?
+ຢູ່ລຸ່ມທ່າເຮືອແຄມຮ້ານອາຫານ Tides. ເຄີຍຈັດການກັບເຮືອພາຍນອກບໍ?
+
+155
+00:09:04,000 --> 00:09:06,000
+[MELANIE]
+Of course.
+ແນ່ນອນ.
+
+156
+00:09:06,500 --> 00:09:09,300
+[CLERK]
+D'you want me to order one for you?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍສັ່ງຫນຶ່ງ ສໍາ ລັບເຈົ້າບໍ?
+
+157
+00:09:09,800 --> 00:09:11,800
+[MELANIE]
+Thank you.
+ຂອບໃຈ
+
+158
+00:09:12,300 --> 00:09:14,300
+[CLERK]
+What name?
+ຊື່ໃດ?
+
+159
+00:09:14,800 --> 00:09:16,800
+[MELANIE]
+Daniels.
+ດານີເລສ.
+
+160
+00:09:17,300 --> 00:09:19,300
+[CLERK]
+Okay.
+ດີແລ້ວ.
+
+161
+00:09:19,800 --> 00:09:22,250
+[MELANIE]
+I wonder if you could tell me...
+ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າສາມາດບອກຂ້ອຍໄດ້ບໍ...
+
+162
+00:09:22,750 --> 00:09:24,750
+[CLERK]
+Yep?
+ແມ່ນແລ້ວ?
+
+163
+00:09:25,250 --> 00:09:27,250
+[MELANIE]
+The little girl's name.
+ຊື່ຂອງເດັກຍິງນ້ອຍ.
+
+164
+00:09:27,750 --> 00:09:29,750
+[CLERK]
+The little Brenner girl?
+ເດັກຍິງເບຣນເນີນ້ອຍບໍ?
+
+165
+00:09:30,250 --> 00:09:32,250
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+166
+00:09:32,750 --> 00:09:36,250
+[CLERK]
+Alice, I think.  Harry, what's the little Brenner girl's name?
+ແອລສ໌, ຂ້ອຍຄິດວ່າ. ແຮຣີ, ຊື່ຂອງເດັກຍິງເບຣນເນີນ້ອຍແມ່ນຫຍັງ?
+
+167
+00:09:36,750 --> 00:09:38,750
+[HARRY'S VOICE]
+What?
+ຫຍັງ?
+
+168
+00:09:39,250 --> 00:09:41,250
+[CLERK]
+The little Brenner girl.
+ເດັກຍິງເບຣນເນີນ້ອຍ.
+
+169
+00:09:41,750 --> 00:09:43,750
+[HARRY'S VOICE]
+Lois!
+ໂລຍສ໌!
+
+170
+00:09:44,250 --> 00:09:46,250
+[CLERK]
+It's Alice, ain't it?
+ມັນເປັນແອລິສສ໌, ແມ່ນບໍ?
+
+171
+00:09:46,750 --> 00:09:48,750
+[HARRY'S VOICE]
+No, it's Lois!
+ບໍ່, ມັນແມ່ນໂລຍສ໌!
+
+172
+00:09:49,250 --> 00:09:51,250
+[CLERK]
+It's Alice.
+ມັນເປັນແອລິສສ໌.
+
+173
+00:09:51,750 --> 00:09:53,750
+[MELANIE]
+Are you sure?
+ເຈົ້າແນ່ໃຈບໍ?
+
+174
+00:09:54,250 --> 00:09:57,400
+[CLERK]
+Well, I ain't positive, if that's what you mean.
+ດີ, ຂ້ອຍບໍ່ແນ່ໃຈ, ຖ້າເຈົ້າຫມາຍຄວາມວ່ານັ້ນ.
+
+175
+00:09:57,900 --> 00:10:00,350
+[MELANIE]
+I need her exact name, you see.
+ຂ້ອຍຕ້ອງການຊື່ທີ່ແນ່ນອນຂອງນາງ, ເຈົ້າເຫັນແລ້ວ.
+
+176
+00:10:00,850 --> 00:10:06,850
+[CLERK]
+That case, I tell you what you do. You go straight through town 'til you see a little hotel on your left there. Not the motel, that's the other end of town. This is the hotel. Now you take a right turn there, you got that?
+ກໍລະນີນັ້ນ, ຂ້ອຍບອກເຈົ້າວ່າເຈົ້າຈະເຮັດແນວໃດ. ເຈົ້າໄປໂດຍກົງຜ່ານເມືອງຈົນກວ່າເຈົ້າຈະເຫັນໂຮງແຮມນ້ອຍໆຢູ່ທາງຊ້າຍຂອງເຈົ້າຢູ່ບ່ອນນັ້ນ
+. ບໍ່ແມ່ນໂມເຕລ, ນັ້ນແມ່ນຈຸດອື່ນຂອງເມືອງ. ນີ້ແມ່ນໂຮງ ແຮມ. ດຽວນີ້ເຈົ້າຫັນທາງຂວາໄປບ່ອນນັ້ນ, ເຈົ້າເຂົ້າໃຈບໍ?
+
+177
+00:10:07,350 --> 00:10:09,350
+[MELANIE]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+178
+00:10:09,850 --> 00:10:15,850
+[CLERK]
+Near the top of the hill, you'll see the school and right behind it, the church. You head for the school. Now just past the school, you'll see a little house with a red mail box. That's where Annie Hayworth lives, she's the school teacher. You ask her about the little Brenner girl.
+ໃກ້ກັບຈຸດສູງສຸດຂອງພູ, ເຈົ້າຈະເຫັນໂຮງຮຽນແລະຢູ່ເບື້ອງຫຼັງມັນ, ສາດສະຫນາຈັກ. ເຈົ້າໄປສູ່ໂຮງຮຽນ. ດຽວນີ້ພຽງແຕ່ຜ່ານໂຮງຮຽນ,
+ທ່ານຈະເຫັນເຮືອນນ້ອຍທີ່ມີກ່ອງຈົດ ຫມາຍ ສີແດງ. ນັ້ນແມ່ນບ່ອນທີ່ແອນນີ ເຮວໍສ໌ອາໄສຢູ່, ນາງເປັນຄູສອນໂຮງ ຮຽນ. ເຈົ້າຖາມນາງກ່ຽວກັບເດັກຍິງບຣັນເນີນ້ອຍ.
+
+179
+00:10:16,350 --> 00:10:18,350
+[MELANIE]
+Thank you.
+ຂອບໃຈ
+
+180
+00:10:18,850 --> 00:10:23,400
+[CLERK]
+Yep.  Could save yourself a lot of trouble. Her name's Alice for sure.
+ແມ່ນແລ້ວ. ສາມາດຊ່ວຍຕົວເອງຄວາມຫຍຸ້ງຍາກຫຼາຍ
+. ຊື່ຂອງນາງແມ່ນແອລສ໌ແນ່ນອນ.
+
+181
+00:10:23,900 --> 00:10:27,050
+[MELANIE]
+Can I have the boat in about twenty minutes?
+ຂ້ອຍສາມາດເອົາເຮືອໄດ້ໃນເວລາປະມານສິບນາທີບໍ?
+
+182
+00:10:27,550 --> 00:10:29,650
+[MELANIE]
+How much for the phone calls?
+ຄ່າໂທຫາຫຼາຍປານໃດ?
+
+183
+00:10:30,150 --> 00:10:32,150
+[CLERK]
+It's nothing.
+ມັນບໍ່ມີຫຍັງເລີຍ.
+
+184
+00:10:32,650 --> 00:10:35,800
+[DISSOLVE]
+LONG SHOT  - MELANIE'S CAR turning in school road.
+ການຍິງຍາວ - ລົດຂອງເມລານີຫັນໄປທາງໂຮງຮຽນ.
+
+185
+00:10:36,300 --> 00:10:38,300
+[ANNIE'S VOICE]
+Yes? Who is it?
+ແມ່ນແລ້ວ? ມັນແມ່ນໃຜ?
+
+186
+00:10:38,800 --> 00:10:40,800
+[MELANIE]
+Me!
+ຂ້ອຍ!
+
+187
+00:10:41,300 --> 00:10:43,300
+[ANNIE'S VOICE]
+Who's me?
+ຂ້ອຍເປັນໃຜ?
+
+188
+00:10:43,800 --> 00:10:45,800
+[MELANIE]
+Miss Hayworth?
+ນາງເຮວອດ?
+
+189
+00:10:46,300 --> 00:10:48,300
+[ANNIE]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+190
+00:10:48,800 --> 00:10:51,950
+[MELANIE]
+I'm Melanie Daniels. I'm sorry to bother you, but...
+ຂ້ອຍເປັນເມລານີ ດານີເລສ. ຂ້ອຍຂໍໂທດທີ່ລົບກວນເຈົ້າ, ແຕ່...
+
+191
+00:10:52,450 --> 00:10:54,450
+[ANNIE]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+192
+00:10:54,950 --> 00:11:00,950
+[MELANIE]
+The man at the post office sent me. He said you'd know the name of the little Brenner girl.
+ຜູ້ຊາຍຢູ່ຫ້ອງການໄປສະນີໄດ້ສົ່ງຂ້ອຍ.
+ລາວເວົ້າວ່າເຈົ້າຈະຮູ້ຊື່ຂອງເດັກຍິງບຣັນເນີນ້ອຍ.
+
+193
+00:11:01,450 --> 00:11:03,450
+[ANNIE]
+Cathy?
+ແຄຕີ້?
+
+194
+00:11:03,950 --> 00:11:07,800
+[MELANIE]
+The one who lives in the white house across the bay?
+ຄົນທີ່ອາໄສຢູ່ໃນເຮືອນຂາວຂ້າມແຄມບໍ?
+
+195
+00:11:08,300 --> 00:11:10,300
+[ANNIE]
+That's the one. Cathy Brenner.
+ນັ້ນແມ່ນຄົນນັ້ນ. ຄາຕີ ບຣັນເນີ.
+
+196
+00:11:10,800 --> 00:11:13,950
+[MELANIE]
+They seemed sure it was either Alice or Lois.
+ພວກເຂົາເບິ່ງຄືວ່າແນ່ໃຈວ່າມັນແມ່ນແອລສ໌ ຫຼື ໂລຍສ໌.
+
+197
+00:11:14,450 --> 00:11:20,450
+[ANNIE]
+Which is why the mail in this town never gets delivered to the right place.  Did you want to see Cathy about something?
+ນັ້ນແມ່ນເຫດຜົນທີ່ຈົດຫມາຍໃນເມືອງນີ້ບໍ່ເຄີຍຖືກສົ່ງໄປບ່ອນທີ່ຖືກຕ້ອງ
+. ເຈົ້າຢາກເຫັນແຄຕີ້ກ່ຽວກັບບາງສິ່ງບາງຢ່າງບໍ?
+
+198
+00:11:20,950 --> 00:11:22,950
+[MELANIE]
+Well... not exactly.
+ດີ... ບໍ່ແນ່ນອນ.
+
+199
+00:11:23,450 --> 00:11:25,550
+[ANNIE]
+Are you a friend of Mitch's?
+ເຈົ້າເປັນເພື່ອນຂອງມິτςບໍ?
+
+200
+00:11:26,050 --> 00:11:28,050
+[MELANIE]
+No, not really.
+ບໍ່, ບໍ່ແທ້ໆ.
+
+201
+00:11:28,550 --> 00:11:34,550
+[ANNIE]
+I've been wanting a cigarette for the past twenty minutes, but I couldn't convince myself to stop. This 'tilling of the soil' can get a little compulsive, you know.
+ຂ້ອຍ ກໍາ ລັງຢາກສູບຢາເປັນເວລາສິບນາທີທີ່ຜ່ານມາ, ແຕ່ຂ້ອຍບໍ່ສາມາດຊັກຊວນຕົວເອງໃຫ້ຢຸດເຊົາໄດ້
+. ການ'ປູກດິນ' ນີ້ສາມາດກາຍເປັນຄວາມບັງຄັບໃຊ້ ຫນ້ອຍ ຫນຶ່ງ, ເຈົ້າຮູ້ແລ້ວ.
+
+202
+00:11:35,050 --> 00:11:37,050
+[MELANIE]
+It's a lovely garden.
+ມັນເປັນສວນທີ່ສວຍງາມ.
+
+203
+00:11:37,550 --> 00:11:43,550
+[ANNIE]
+Thank you. It gives me something to do with my spare time.  There's a lot of spare time in Bodega Bay.  Did you plan on staying long?
+ຂອບໃຈ. ມັນໃຫ້ຂ້ອຍມີບາງສິ່ງບາງຢ່າງທີ່ຈະເຮັດກັບເວລາຫວ່າງຂອງຂ້ອຍ
+. ມີເວລາຫວ່າງຫຼາຍໃນບອດເກາ. ເຈົ້າວາງແຜນທີ່ຈະຢູ່ດົນບໍ?
+
+204
+00:11:44,050 --> 00:11:46,050
+[MELANIE]
+No. Just a few hours.
+ບໍ່. ພຽງແຕ່ສອງສາມຊົ່ວໂມງ.
+
+205
+00:11:46,550 --> 00:11:48,650
+[ANNIE]
+You're leaving after you see Cathy?
+ເຈົ້າຈະອອກໄປຫຼັງຈາກເຈົ້າເຫັນແຄຕີ້ບໍ?
+
+206
+00:11:49,150 --> 00:11:53,700
+[MELANIE]
+Well... something like that.  I'm sorry. I don't mean to sound so mysterious.
+ດີ... ບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ຢາກສຽງທີ່ລຶກລັບຫຼາຍ.
+
+207
+00:11:54,200 --> 00:11:56,300
+[ANNIE]
+Actually, it's none of my business.
+ໃນຄວາມເປັນຈິງ, ມັນບໍ່ແມ່ນເລື່ອງຂອງຂ້ອຍ.
+
+208
+00:11:56,800 --> 00:12:00,300
+[ANNIE]
+I'd better get on my way. Thank you very much.
+ຂ້ອຍຄວນໄປທາງຂອງຂ້ອຍ. ຂອບໃຈຫຼາຍໆ.
+
+209
+00:12:00,800 --> 00:12:02,800
+[ANNIE]
+Not at all.
+ບໍ່ເລີຍ.
+
+210
+00:12:03,300 --> 00:12:05,750
+[ANNIE]
+Did you drive up from San Francisco?
+ເຈົ້າຂັບລົດມາຈາກແຊນຟຣານຊິສໂກບໍ?
+
+211
+00:12:06,250 --> 00:12:08,250
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+212
+00:12:08,750 --> 00:12:12,250
+[ANNIE]
+It's a nice drive.  Is that where you met Mitch?
+ມັນເປັນການຂັບລົດທີ່ດີເລີດ. ນັ້ນແມ່ນບ່ອນທີ່ທ່ານພົບກັບມິτςບໍ?
+
+213
+00:12:12,750 --> 00:12:14,750
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+214
+00:12:15,250 --> 00:12:17,700
+[ANNIE]
+I guess that's where everyone meets him.
+ຂ້ອຍຄິດວ່ານັ້ນແມ່ນບ່ອນທີ່ທຸກຄົນພົບລາວ.
+
+215
+00:12:18,200 --> 00:12:21,000
+[MELANIE]
+Now you sound a bit mysterious, Miss Hayworth.
+ດຽວນີ້ເຈົ້າສຽງແປກໃຈເລັກນ້ອຍ, ນາງເຮວອດ.
+
+216
+00:12:21,500 --> 00:12:27,500
+[ANNIE]
+Do I?  No, I'm an open book, I'm afraid.  Or maybe a closed one.  Pretty. What are they?
+ຂ້ອຍເຮັດບໍ? ບໍ່, ຂ້ອຍເປັນປື້ມເປີດ, ຂ້ອຍຢ້ານກົວ
+. ຫຼືບາງທີ ຫນຶ່ງ ທີ່ປິດ. ງາມ. ພວກເຂົາເປັນຫຍັງ?
+
+217
+00:12:28,000 --> 00:12:30,000
+[MELANIE]
+Lovebirds.
+ນົກຮັກ.
+
+218
+00:12:30,500 --> 00:12:32,600
+[ANNIE]
+Mmm.  Well, good luck, Miss Daniels.
+ອືມ. ດີ, ໂຊກດີ, ນາງດານີເລສ.
+
+219
+00:12:33,100 --> 00:12:35,100
+[MELANIE]
+Thank you.
+ຂອບໃຈ
+
+220
+00:12:35,600 --> 00:12:38,400
+[MITCH]
+That was the damndest thing I ever saw.
+ນັ້ນແມ່ນສິ່ງທີ່ຮ້າຍແຮງທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນ.
+
+221
+00:12:38,900 --> 00:12:40,900
+[MELANIE]
+What made it...
+ສິ່ງທີ່ເຮັດໃຫ້ມັນ...
+
+222
+00:12:41,400 --> 00:12:44,550
+[MITCH]
+It deliberately came down at you -- you're bleeding...
+ມັນຕົກລົງໃສ່ເຈົ້າຢ່າງຕັ້ງໃຈ - ເຈົ້າ ກໍາ ລັງເລືອດອອກ...
+
+223
+00:12:45,050 --> 00:12:47,500
+[MITCH]
+Come on, let's take care of that.
+ມາແລ້ວ, ມາເບິ່ງແຍງເລື່ອງນັ້ນ.
+
+224
+00:12:48,000 --> 00:12:50,000
+[FISHERMAN]
+What happened, Mitch?
+ເກີດຫຍັງຂຶ້ນ, ມິτς?
+
+225
+00:12:50,500 --> 00:12:52,500
+[MITCH]
+A gull hit her.
+ກຸ້ງໄດ້ຕີນາງ.
+
+226
+00:12:53,000 --> 00:12:55,000
+[FISHERMAN]
+A what?
+ຫຍັງ?
+
+227
+00:12:55,500 --> 00:12:58,650
+[MITCH]
+Come on, we'd better go up to the restaurant.
+ມາແລ້ວ, ພວກເຮົາຄວນຂຶ້ນໄປຮ້ານອາຫານ.
+
+228
+00:12:59,150 --> 00:13:02,650
+[MITCH]
+Deke, have you got a first aid kit back there?
+ເດກ, ເຈົ້າມີຊຸດຊ່ວຍເຫຼືອຄັ້ງທໍາອິດຢູ່ບ່ອນນັ້ນບໍ?
+
+229
+00:13:03,150 --> 00:13:05,150
+[DEKE]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+230
+00:13:05,650 --> 00:13:07,650
+[MITCH]
+Young woman cut herself.
+ແມ່ຍິງຫນຸ່ມຕັດຕົວເອງ.
+
+231
+00:13:08,150 --> 00:13:10,150
+[DEKE]
+Shall I call the doctor?
+ຂ້ອຍຈະໂທຫາຫມໍບໍ?
+
+232
+00:13:10,650 --> 00:13:14,850
+[MITCH]
+I don't think it's that serious. You want to sit up here?
+ຂ້ອຍບໍ່ຄິດວ່າມັນຮ້າຍແຮງຫຼາຍ. ເຈົ້າຢາກນັ່ງຢູ່ບ່ອນນີ້ບໍ?
+
+233
+00:13:15,350 --> 00:13:17,350
+[DEKE]
+You cut yourself outside, Miss?
+ເຈົ້າຕັດຕົວເອງຢູ່ພາຍນອກບໍ, ນາງ?
+
+234
+00:13:17,850 --> 00:13:20,650
+[MITCH]
+Stop worrying, Deke. She was in a boat.
+ຢຸດການກັງວົນ, ເດກ. ນາງຢູ່ໃນເຮືອ.
+
+235
+00:13:21,150 --> 00:13:27,150
+[DEKE]
+I had a man trip and fall in the parking lot once, sued me before I could bat an eyelash.
+ຂ້ອຍມີຜູ້ຊາຍຍ່າງແລະຕົກຢູ່ໃນບ່ອນຈອດລົດຄັ້ງຫນຶ່ງ
+, ຟ້ອງຮ້ອງຂ້ອຍກ່ອນທີ່ຂ້ອຍສາມາດສັ່ນຕາໄດ້.
+
+236
+00:13:27,650 --> 00:13:31,150
+[MITCH]
+I don't think Miss Daniels is going to sue anybody.
+ຂ້ອຍບໍ່ຄິດວ່ານາງດານີເລສຈະຟ້ອງຮ້ອງໃຜເລີຍ.
+
+237
+00:13:31,650 --> 00:13:33,650
+[DEKE]
+Well, you're the lawyer.
+ດີ, ເຈົ້າເປັນທະນາຍຄວາມ.
+
+238
+00:13:34,150 --> 00:13:36,150
+[MELANIE]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+239
+00:13:36,650 --> 00:13:40,150
+[MITCH]
+Just some peroxide. I want to clean out the cut.
+ພຽງແຕ່ peroxide ບາງຢ່າງ. ຂ້ອຍຢາກເຮັດຄວາມສະອາດການຕັດ.
+
+240
+00:13:40,650 --> 00:13:42,650
+[MELANIE]
+So you're a lawyer.
+ສະນັ້ນເຈົ້າເປັນທະນາຍຄວາມ.
+
+241
+00:13:43,150 --> 00:13:46,300
+[MITCH]
+That's right. What are you doing in Bodega Bay?
+ນັ້ນແມ່ນແລ້ວ. ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ບອດເກາ?
+
+242
+00:13:46,800 --> 00:13:48,800
+[MELANIE]
+Do you practice here?
+ເຈົ້າຝຶກຊ້ອມຢູ່ນີ້ບໍ?
+
+243
+00:13:49,300 --> 00:13:51,400
+[MITCH]
+No, San Francisco. What are you...?
+ບໍ່, ແຊນຟຣານຊິສໂກ. ເຈົ້າເປັນຫຍັງ...?
+
+244
+00:13:51,900 --> 00:13:53,900
+[MELANIE]
+What kind of law?
+ກົດຫມາຍປະເພດໃດ?
+
+245
+00:13:54,400 --> 00:13:56,400
+[MITCH]
+Criminal.
+ຄຣີນິເມລ.
+
+246
+00:13:56,900 --> 00:14:00,400
+[MELANIE]
+Is that why you'd like to see everyone behind bars?
+ນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າຢາກເຫັນທຸກຄົນຢູ່ເບື້ອງຫຼັງແຖບບໍ?
+
+247
+00:14:00,900 --> 00:14:02,900
+[MITCH]
+Not everyone, Miss Daniels.
+ບໍ່ແມ່ນທຸກຄົນ, ນາງດານີເລສ.
+
+248
+00:14:03,400 --> 00:14:05,400
+[MELANIE]
+Only violators and practical jokers.
+ພຽງແຕ່ຜູ້ລະເມີດແລະຄົນຢອກຊື່ໆ.
+
+249
+00:14:05,900 --> 00:14:07,900
+[MELANIE]
+That's right.
+ນັ້ນແມ່ນແລ້ວ.
+
+250
+00:14:08,400 --> 00:14:10,400
+[MELANIE]
+Ouch!
+ໂອ້!
+
+251
+00:14:10,900 --> 00:14:13,700
+[MITCH]
+I'm sorry.  What are you doing up here?
+ຂ້ອຍຂໍໂທດ. ເຈົ້າເຮັດຫຍັງຢູ່ເທິງນີ້?
+
+252
+00:14:14,200 --> 00:14:16,200
+[MELANIE]
+Didn't you see the lovebirds?
+ເຈົ້າບໍ່ເຫັນນົກຮັກບໍ?
+
+253
+00:14:16,700 --> 00:14:20,900
+[MITCH]
+You came all the way up here to bring me those birds?
+ເຈົ້າມາຮອດບ່ອນນີ້ເພື່ອເອົານົກເຫຼົ່ານັ້ນມາໃຫ້ຂ້ອຍບໍ?
+
+254
+00:14:21,400 --> 00:14:27,400
+[MELANIE]
+To bring your sister those birds. You said it was her birthday. Besides, I was coming up anyway.
+ເພື່ອເອົານົກເຫຼົ່ານັ້ນມາໃຫ້ເອື້ອຍຂອງທ່ານ. ເຈົ້າບອກວ່າມັນເປັນວັນເກີດຂອງນາງ
+. ນອກຈາກນັ້ນ, ຂ້ອຍ ກໍາ ລັງຂຶ້ນຢ່າງໃດກໍ່ຕາມ.
+
+255
+00:14:27,900 --> 00:14:29,900
+[MITCH]
+What for?
+ເປັນຫຍັງ?
+
+256
+00:14:30,400 --> 00:14:34,250
+[MELANIE]
+To see a friend of mine.  Will you please be careful?
+ເພື່ອໄປພົບເພື່ອນຂອງຂ້ອຍ. ເຈົ້າຂໍລະມັດລະວັງບໍ?
+
+257
+00:14:34,750 --> 00:14:36,750
+[MITCH]
+I'm sorry.  Who's your friend?
+ຂ້ອຍຂໍໂທດ. ເພື່ອນຂອງເຈົ້າແມ່ນໃຜ?
+
+258
+00:14:37,250 --> 00:14:39,250
+[MELANIE]
+Why...
+ເປັນຫຍັງ...
+
+259
+00:14:39,750 --> 00:14:41,750
+[MITCH]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+260
+00:14:42,250 --> 00:14:44,250
+[MELANIE]
+Annie. Annie Hayworth.
+ແອນນີແອນນີ ເຮວອດ.
+
+261
+00:14:44,750 --> 00:14:46,850
+[MITCH]
+Well, well, small world. Annie Hayworth.
+ດີ, ດີ, ໂລກນ້ອຍໆ. ແອນນີ ເຮວອດ.
+
+262
+00:14:47,350 --> 00:14:49,350
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+263
+00:14:49,850 --> 00:14:51,850
+[MITCH]
+How do you know Annie?
+ເຈົ້າຮູ້ຈັກແອນນີແນວໃດ?
+
+264
+00:14:52,350 --> 00:14:54,800
+[MELANIE]
+We... we went to school together. College.
+ພວກເຮົາ... ພວກເຮົາໄປໂຮງຮຽນຮ່ວມກັນ. ວິທະຍາໄລ.
+
+265
+00:14:55,300 --> 00:14:58,800
+[MITCH]
+Did you! Imagine that! How long will you be staying?
+ເຈົ້າເຮັດແລ້ວ! ຄິດວ່າ! ເຈົ້າຈະຢູ່ດົນປານໃດ?
+
+266
+00:14:59,300 --> 00:15:02,800
+[MELANIE]
+Just a few... just a day or two... the weekend.
+ພຽງແຕ່ສອງສາມ... ພຽງແຕ່ມື້ຫນຶ່ງຫຼືສອງ... ໃນທ້າຍອາທິດ.
+
+267
+00:15:03,300 --> 00:15:08,200
+[MITCH]
+I think we'll have to shave the hair. Deke, have you got a razor?
+ຂ້ອຍຄິດວ່າພວກເຮົາຈະຕ້ອງຕັດຜົມ. ເດກ, ເຈົ້າມີເຄື່ອງຕັດບໍ?
+
+268
+00:15:08,700 --> 00:15:10,700
+[MELANIE]
+Oh, no you don't!
+ໂອ້, ບໍ່ເຈົ້າບໍ່ເຮັດ!
+
+269
+00:15:11,200 --> 00:15:15,050
+[MITCH]
+It's still bleeding a little. Here, let me put this on.
+ມັນຍັງເລືອດອອກເລັກນ້ອຍ. ມາ, ຂໍໃຫ້ຂ້ອຍໃສ່ສິ່ງນີ້.
+
+270
+00:15:15,550 --> 00:15:18,700
+[MITCH]
+Bend your head down. This little Band-Aid won't show.
+ປັບຫົວລົງ. ເຄື່ອງຊ່ວຍເຫລືອນ້ອຍໆນີ້ຈະບໍ່ປາກົດຕົວ.
+
+271
+00:15:19,200 --> 00:15:22,000
+[MITCH]
+So you came up to see Annie, huh?
+ສະນັ້ນເຈົ້າຈຶ່ງມາພົບແອນນີ, ແມ່ນບໍ?
+
+272
+00:15:22,500 --> 00:15:24,500
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+273
+00:15:25,000 --> 00:15:29,200
+[MITCH]
+I don't believe you.  I think you came up to see me.
+ຂ້ອຍບໍ່ເຊື່ອເຈົ້າ. ຂ້ອຍຄິດວ່າເຈົ້າມາພົບຂ້ອຍ.
+
+274
+00:15:29,700 --> 00:15:33,200
+[MELANIE]
+Why would I want to see you, of all people?
+ຂ້ອຍຢາກເຫັນເຈົ້າເປັນຫຍັງ, ຈາກຄົນທັງ ຫມົດ?
+
+275
+00:15:33,700 --> 00:15:39,700
+[MITCH]
+I don't know. But it seems to me you must have gone to a lot of trouble to find out who I was, and where I lived and...
+ຂ້ອຍບໍ່ຮູ້. ແຕ່ມັນເບິ່ງຄືວ່າຂ້ອຍເຈົ້າຕ້ອງໄດ້ໄປຫາຄວາມຫຍຸ້ງຍາກຫຼາຍເພື່ອຮູ້ວ່າຂ້ອຍເປັນໃຜ
+, ແລະບ່ອນທີ່ຂ້ອຍອາໄສຢູ່ແລະ...
+
+276
+00:15:40,200 --> 00:15:46,200
+[MELANIE]
+It was no trouble at all. I simply called my father's paper. Besides, I was coming up here anyway, I already told you...
+ມັນບໍ່ແມ່ນຄວາມຫຍຸ້ງຍາກເລີຍ. ຂ້ອຍພຽງແຕ່ໂທຫາຫນັງສືພິມຂອງພໍ່ຂອງຂ້ອຍ.
+ນອກຈາກນັ້ນ, ຂ້ອຍ ກໍາ ລັງຂຶ້ນມາບ່ອນນີ້ຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍບອກເຈົ້າແລ້ວ...
+
+277
+00:15:46,700 --> 00:15:48,700
+[MITCH]
+You like me, huh?
+ເຈົ້າມັກຂ້ອຍ, ແມ່ນບໍ?
+
+278
+00:15:49,200 --> 00:15:55,200
+[MELANIE]
+I loathe you. You have no manners. And you're arrogant and conceited and... I wrote you a letter about it, in fact, but I tore it up.
+ຂ້ອຍກຽດຊັງເຈົ້າ. ເຈົ້າບໍ່ມີພຶດຕິກໍາ. ແລະເຈົ້າມີຄວາມໂຊກຮ້າຍແລະກ້າຫານແລະ
+... ຂ້ອຍຂຽນຈົດຫມາຍໃຫ້ທ່ານກ່ຽວກັບມັນ, ໃນຄວາມເປັນຈິງ, ແຕ່ຂ້ອຍໄດ້ແຕກມັນ.
+
+279
+00:15:55,700 --> 00:15:57,700
+[MITCH]
+What did it say?
+ມັນຂຽນວ່າແນວໃດ?
+
+280
+00:15:58,200 --> 00:16:01,000
+[MELANIE]
+None of your business.  Am I still bleeding?
+ບໍ່ເປັນເລື່ອງຂອງເຈົ້າເລີຍ. ຂ້ອຍຍັງເລືອດບໍ?
+
+281
+00:16:01,500 --> 00:16:03,500
+[MITCH]
+Can't see a thing.
+ຂ້ອຍບໍ່ເຫັນຫຍັງເລີຍ.
+
+282
+00:16:04,000 --> 00:16:09,950
+[MELANIE]
+I can't say I like your seagulls much, either. I come all the way up here to...
+ຂ້ອຍບໍ່ສາມາດເວົ້າໄດ້ວ່າຂ້ອຍມັກແມວທະເລຂອງທ່ານຫຼາຍເຊັ່ນກັນ
+. ຂ້ອຍມາຮອດບ່ອນນີ້ເພື່ອ...
+
+283
+00:16:10,450 --> 00:16:12,900
+[MITCH]
+But you were coming up anyway, remember?
+ແຕ່ເຈົ້າຈະຂຶ້ນມາຢ່າງໃດກໍຕາມ, ຈື່ບໍ?
+
+284
+00:16:13,400 --> 00:16:19,350
+[MELANIE]
+I was! And all I get for my pains is a... a... a hole in the head!
+ຂ້ອຍເປັນ! ແລະສິ່ງດຽວທີ່ຂ້ອຍໄດ້ຮັບ ສໍາ
+ລັບຄວາມເຈັບປວດຂອງຂ້ອຍແມ່ນ... ເປັນ... ຮູໃນຫົວ!
+
+285
+00:16:19,850 --> 00:16:22,650
+[MITCH]
+Right next to the one you already had.
+ຢູ່ຂ້າງທີ່ເຈົ້າມີແລ້ວ.
+
+286
+00:16:23,150 --> 00:16:25,150
+[MELANIE]
+Look, Mr. Brenner...
+ເບິ່ງ, ທ້າວບຣັນເນີ...
+
+287
+00:16:25,650 --> 00:16:27,650
+[LYDIA]
+Mitch?
+ມິτς?
+
+288
+00:16:28,150 --> 00:16:32,350
+[LYDIA]
+I thought I saw your car. What are you doing in town?
+ຂ້ອຍຄິດວ່າຂ້ອຍເຫັນລົດຂອງທ່ານ. ເຈົ້າເຮັດຫຍັງຢູ່ເມືອງ?
+
+289
+00:16:32,850 --> 00:16:37,050
+[MITCH]
+I had to acknowledge a delivery.  Mother, I'd like you to meet...
+ຂ້ອຍຕ້ອງຍອມຮັບການຈັດສົ່ງ. ແມ່, ຂ້ອຍຢາກໃຫ້ເຈົ້າພົບກັນ...
+
+290
+00:16:37,550 --> 00:16:39,550
+[LYDIA]
+A what?
+ຫຍັງ?
+
+291
+00:16:40,050 --> 00:16:42,050
+[MITCH]
+Melanie Daniels. Melanie, my mother.
+ແມລານີ ດານີເລສ. ແມລາເນຍ, ແມ່ຂອງຂ້ອຍ.
+
+292
+00:16:42,550 --> 00:16:45,700
+[LYDIA]
+How do you do, Miss Daniels?  Acknowledge a what?
+ເຈົ້າເຮັດແນວໃດ, ນາງດານີເລສ? ຍອມຮັບຫຍັງ?
+
+293
+00:16:46,200 --> 00:16:50,050
+[MITCH]
+A delivery, Mother. Miss Daniels brought some birds from San Francisco.
+ການຈັດສົ່ງ, ແມ່. ນາງດານີເລສໄດ້ເອົານົກບາງຢ່າງຈາກແຊນຟຣານຊິສໂກ.
+
+294
+00:16:50,550 --> 00:16:52,550
+[LYDIA]
+Oh. I see.
+ໂອ້. ຂ້ອຍເຫັນແລ້ວ.
+
+295
+00:16:53,050 --> 00:16:56,900
+[MITCH]
+For Cathy. For her birthday. By the way, where is she?
+ສໍາລັບແຄຕຕີ້. ສໍາລັບວັນເກີດຂອງນາງ. ເຖິງຢ່າງໃດກໍ່ຕາມ, ນາງຢູ່ໃສ?
+
+296
+00:16:57,400 --> 00:16:59,400
+[LYDIA]
+Across at Brinkmeyer's.
+ຢູ່ທາງກົງກັນຂ້າມຢູ່ເຮືອນບຣິນກເມຍ.
+
+297
+00:16:59,900 --> 00:17:05,500
+[MITCH]
+Miss Daniels is staying for the weekend. In fact, I've already invited her to dinner tonight.
+ນາງດານີເລສຈະຢູ່ ສໍາ ລັບທ້າຍອາທິດ. ໃນຄວາມເປັນຈິງ
+, ຂ້ອຍໄດ້ເຊີນນາງໄປກິນອາຫານຄໍ່າໃນຄືນນີ້ແລ້ວ.
+
+298
+00:17:06,000 --> 00:17:10,550
+[MITCH]
+After all, you did go to the trouble of bringing up those birds.
+ຫຼັງຈາກນັ້ນ,
+ເຈົ້າໄດ້ໄປຫາຄວາມຫຍຸ້ງຍາກໃນການຍົກເອົານົກເຫຼົ່ານັ້ນຂຶ້ນ.
+
+299
+00:17:11,050 --> 00:17:13,050
+[MELANIE]
+I'm sorry. I couldn't possibly...
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ສາມາດ...
+
+300
+00:17:13,550 --> 00:17:15,550
+[LYDIA]
+You did say birds?
+ເຈົ້າເວົ້າວ່ານົກບໍ?
+
+301
+00:17:16,050 --> 00:17:18,150
+[MITCH]
+Yes, lovebirds. We couldn't let you...
+ແມ່ນແລ້ວ, ນົກຮັກ. ພວກເຮົາບໍ່ສາມາດປ່ອຍໃຫ້ເຈົ້າ...
+
+302
+00:17:18,650 --> 00:17:20,650
+[LYDIA]
+Lovebirds, I see.
+ນົກຮັກ, ຂ້ອຍເຫັນແລ້ວ.
+
+303
+00:17:21,150 --> 00:17:27,150
+[MITCH]
+...get away without thanking you in some small way. After all, you haven't even met Cathy and you are staying for the weekend...
+... ອອກໄປໂດຍບໍ່ຕ້ອງຂອບໃຈເຈົ້າໃນທາງນ້ອຍໆໃດຫນຶ່ງ. ຫຼັງຈາກນັ້ນ,
+ເຈົ້າຍັງບໍ່ເຄີຍພົບກັບແຄຕີ້ແລະເຈົ້າຈະຢູ່ ສໍາ ລັບທ້າຍອາທິດ...
+
+304
+00:17:27,650 --> 00:17:29,650
+[MELANIE]
+Yes, but...
+ແມ່ນແລ້ວ, ແຕ່...
+
+305
+00:17:30,150 --> 00:17:32,150
+[MITCH]
+You are, aren't you?
+ເຈົ້າເປັນ, ແມ່ນບໍ?
+
+306
+00:17:32,650 --> 00:17:34,650
+[MELANIE]
+Certainly, but...
+ແນ່ນອນ, ແຕ່...
+
+307
+00:17:35,150 --> 00:17:37,950
+[MITCH]
+Then it's settled. What time is dinner, Mother?
+ຫຼັງຈາກນັ້ນມັນຖືກຕົກລົງແລ້ວ. ອາຫານຄໍ່າແມ່ນເວລາໃດ, ແມ່?
+
+308
+00:17:38,450 --> 00:17:40,450
+[LYDIA]
+Seven o'clock, same as usual.
+ເວລາເຈັດໂມງ, ເຊັ່ນດຽວກັນກັບປົກກະຕິ.
+
+309
+00:17:40,950 --> 00:17:44,450
+[MITCH]
+I'll pick you up, Miss Daniels. Where are you staying?
+ຂ້ອຍຈະເອົາເຈົ້າ, ນາງດານີເລສ. ເຈົ້າຢູ່ໃສ?
+
+310
+00:17:44,950 --> 00:17:46,950
+[MELANIE]
+With... with Annie, of course.
+ກັບ... ກັບແອນນີແນ່ນອນ.
+
+311
+00:17:47,450 --> 00:17:52,700
+[MITCH]
+Of course, how stupid of me. A quarter to seven, will that be all right?
+ແນ່ນອນ, ຂ້ອຍໂງ່ຫຼາຍປານໃດ. ສີ່ແສນຫາເຈັດ, ມັນຈະດີບໍ?
+
+312
+00:17:53,200 --> 00:17:59,200
+[MELANIE]
+Annie... Annie may have made other plans. I'll have to see. Besides, I can find my own way.
+ແອນນິ... ແອນນີອາດຈະໄດ້ວາງແຜນອື່ນ. ຂ້ອຍຕ້ອງເບິ່ງ
+. ນອກຈາກນັ້ນ, ຂ້ອຍສາມາດຊອກຫາທາງຂອງຂ້ອຍເອງໄດ້.
+
+313
+00:17:59,700 --> 00:18:03,200
+[MITCH]
+You're sure now? You won't hire a boat or anything?
+ເຈົ້າແນ່ໃຈແລ້ວບໍ? ເຈົ້າຈະບໍ່ຈ້າງເຮືອຫຼືຫຍັງເລີຍບໍ?
+
+314
+00:18:03,700 --> 00:18:05,700
+[MELANIE]
+I'm sure.
+ຂ້ອຍແນ່ໃຈວ່າ.
+
+315
+00:18:06,200 --> 00:18:08,200
+[MITCH]
+Seven o'clock then.
+ເວລາເຈັດໂມງແລ້ວ.
+
+316
+00:18:08,700 --> 00:18:10,700
+[MELANIE]
+Maybe.
+ບາງທີ.
+
+317
+00:18:11,200 --> 00:18:13,650
+[MITCH]
+We'll be waiting. How's your head now?
+ພວກເຮົາຈະລໍຖ້າ. ຫົວຂອງທ່ານເປັນແນວໃດດຽວນີ້?
+
+318
+00:18:14,150 --> 00:18:17,650
+[MELANIE]
+It's nothing, Mrs. Brenner. A gull hit me, that's all.
+ມັນບໍ່ມີຫຍັງເລີຍ, ທ່ານນາງບຣັນເນີ. ຫມູໄດ້ຕີຂ້ອຍ, ນັ້ນແມ່ນທັງຫມົດ.
+
+319
+00:18:18,150 --> 00:18:20,950
+[ANNIE]
+Oh, hi!  Did you find her all right?
+ໂອ້, ສະບາຍດີ! ເຈົ້າພົບນາງດີບໍ?
+
+320
+00:18:21,450 --> 00:18:23,450
+[MELANIE]
+Yes, I did.
+ແມ່ນແລ້ວ, ຂ້ອຍເຮັດ.
+
+321
+00:18:23,950 --> 00:18:25,950
+[MELANIE]
+I was wondering...
+ຂ້ອຍຢາກຮູ້ວ່າ...
+
+322
+00:18:26,450 --> 00:18:28,450
+[ANNIE]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+323
+00:18:28,950 --> 00:18:33,850
+[MELANIE]
+That sign.  Do you think I could have the room for a single night?
+ເຈົ້າຄິດວ່າຂ້ອຍສາມາດມີຫ້ອງ ສໍາ ລັບຄືນດຽວໄດ້ບໍ?
+
+324
+00:18:34,350 --> 00:18:37,150
+[ANNIE]
+Well, I'd really hope to rent it for...
+ດີ, ຂ້ອຍຫວັງວ່າຈະເຊົ່າມັນ ສໍາ ລັບ...
+
+325
+00:18:37,650 --> 00:18:42,200
+[MELANIE]
+I would appreciate it. I've tried everywhere in town, and they're all full.
+ຂ້ອຍຈະຍ້ອງຍໍມັນ. ຂ້ອຍໄດ້ພະຍາຍາມຢູ່ທຸກບ່ອນໃນເມືອງ
+, ແລະພວກມັນເຕັມໄປແລ້ວ.
+
+326
+00:18:42,700 --> 00:18:46,550
+[ANNIE]
+Sure. You can have it.  Where's your bag? In the car?
+ແນ່ນອນ. ເຈົ້າສາມາດເອົາມັນໄດ້. ກະເປົາຂອງທ່ານຢູ່ໃສ? ໃນລົດບໍ?
+
+327
+00:18:47,050 --> 00:18:49,500
+[ANNIE]
+It's utilitarian, I'll say that for it.
+ມັນເປັນປະໂຫຍດ, ຂ້ອຍຈະເວົ້າແບບນັ້ນ ສໍາ ລັບມັນ.
+
+328
+00:18:50,000 --> 00:18:56,000
+[MELANIE]
+I just picked up some things for the night at the general store. You see, I hadn't planned on spending much time here.
+ຂ້ອຍຫາກໍ່ເອົາບາງສິ່ງບາງຢ່າງ ສໍາ ລັບຄືນໃນຮ້ານຄ້າທົ່ວໄປ.
+ເຈົ້າເຫັນແລ້ວ, ຂ້ອຍບໍ່ໄດ້ວາງແຜນທີ່ຈະໃຊ້ເວລາຫຼາຍຢູ່ບ່ອນນີ້.
+
+329
+00:18:56,500 --> 00:18:59,300
+[ANNIE]
+Yes, I know. Did something unexpected crop up?
+ແມ່ນແລ້ວ, ຂ້ອຍຮູ້ແລ້ວ. ມີບາງສິ່ງບາງຢ່າງທີ່ບໍ່ຄາດຫວັງເກີດຂຶ້ນບໍ?
+
+330
+00:18:59,800 --> 00:19:03,650
+[MELANIE]
+Yes.  May I use your phone? I'd like to call home.
+ແມ່ນແລ້ວ. ຂ້ອຍສາມາດໃຊ້ໂທລະສັບຂອງທ່ານໄດ້ບໍ? ຂ້ອຍຢາກໂທຫາເຮືອນ.
+
+331
+00:19:04,150 --> 00:19:09,050
+[ANNIE]
+Why don't you come in then?  I was just about to mix a martini.
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຂົ້າມາໃນເວລານັ້ນ? ຂ້ອຍ ກໍາ ລັງຈະປະສົມມາຕິນີ.
+
+332
+00:19:09,550 --> 00:19:11,550
+[ANNIE]
+Don't they ever stop migrating?
+ພວກເຂົາບໍ່ຢຸດການຍ້າຍຖິ່ນຖານບໍ?
+
+333
+00:19:12,050 --> 00:19:18,050
+[DISSOLVE]
+LONG SHOT - THE APPROACH ROAD to the Brenner house. Melanie's car is driving along the shore. Behind her, the sky is stained with sunset. There are gulls on the bay, cawing into the silence.
+ການຍິງຍາວ - ເສັ້ນທາງໃກ້ຊິດກັບເຮືອນບຣີນເນີ. ລົດຂອງເມລານີ ກໍາ ລັງຂັບລົດຕາມແຄມຝັ່ງທະເລ. ຢູ່ເບື້ອງຫຼັງນາງ
+, ທ້ອງຟ້າຖືກສີດ້ວຍການຕົກຂອງແສງຕາເວັນ. ມີກະຕ່າຢູ່ເທິງອ່າວ, ກ້ອນເຂົ້າໄປໃນຄວາມງຽບສະຫງົບ.
+
+334
+00:19:18,550 --> 00:19:20,550
+[MELANIE]
+Hi!
+ສະບາຍດີ!
+
+335
+00:19:21,050 --> 00:19:23,050
+[CATHY]
+Hi!
+ສະບາຍດີ!
+
+336
+00:19:23,550 --> 00:19:25,550
+[CATHY]
+Miss Daniels?
+ນາງດານີເລສ?
+
+337
+00:19:26,050 --> 00:19:28,050
+[MELANIE]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+338
+00:19:28,550 --> 00:19:34,550
+[CATHY]
+They're beautiful! They're just what I wanted! Is there a man and a woman? I can't tell which is which.
+ພວກເຂົາສວຍງາມ! ພວກເຂົາແມ່ນສິ່ງທີ່ຂ້ອຍຕ້ອງການ!
+ມີຜູ້ຊາຍແລະແມ່ຍິງບໍ? ຂ້ອຍບໍ່ສາມາດບອກວ່າແມ່ນຫຍັງ.
+
+339
+00:19:35,050 --> 00:19:37,050
+[MELANIE]
+Well, I suppose...
+ດີ, ຂ້ອຍຄິດວ່າ...
+
+340
+00:19:37,550 --> 00:19:42,100
+[MITCH]
+Hi. Annie had no plans, huh? I'm glad you came. Are you hungry?
+ສະບາຍດີ ແອນນີບໍ່ມີແຜນການໃດໆ, ແມ່ນບໍ
+? ຂ້ອຍດີໃຈທີ່ເຈົ້າມາ. ເຈົ້າຢາກກິນບໍ?
+
+341
+00:19:42,600 --> 00:19:44,600
+[MELANIE]
+Famished.
+ຫິວຫິວ.
+
+342
+00:19:45,100 --> 00:19:51,100
+[MITCH]
+Dinner's just about ready.  We were out back looking at the chickens. Something seems to be wrong with them.
+ອາຫານຄໍ່າເກືອບພ້ອມແລ້ວ. ພວກເຮົາຢູ່ທາງຫຼັງເບິ່ງໄກ່
+. ບາງສິ່ງບາງຢ່າງເບິ່ງຄືວ່າຜິດກັບພວກມັນ.
+
+343
+00:19:51,600 --> 00:19:56,850
+[LYDIA]
+There's nothing wrong with those chickens, Mitch. I'm going to call Fred Brinkmeyer right now.
+ບໍ່ມີຫຍັງຜິດກັບໄກ່ເຫຼົ່ານັ້ນ, ມິτς
+. ຂ້ອຍຈະໂທຫາຟຣີດ ບຣິນກເມຍໃນເວລານີ້.
+
+344
+00:19:57,350 --> 00:20:00,850
+[MITCH]
+I don't know what good that'll do.  Chickens won't eat.
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນຈະຊ່ວຍຫຍັງໄດ້. ໄກ່ຈະບໍ່ກິນ.
+
+345
+00:20:01,350 --> 00:20:04,150
+[LYDIA]
+He sold the feed to me, didn't he?
+ລາວໄດ້ຂາຍອາຫານໃຫ້ຂ້ອຍ, ແມ່ນບໍ?
+
+346
+00:20:04,650 --> 00:20:07,100
+[MITCH]
+Caviat emptor, Mother. Let the buyer beware.
+ຜູ້ເກັບກູ້ caviat, ແມ່. ໃຫ້ຜູ້ຊື້ລະມັດລະວັງ.
+
+347
+00:20:07,600 --> 00:20:09,600
+[LYDIA]
+Whose side are you on?
+ເຈົ້າຢູ່ຂ້າງໃຜ?
+
+348
+00:20:10,100 --> 00:20:12,100
+[MITCH]
+I'm simply quoting the law.
+ຂ້ອຍພຽງແຕ່ກ່າວເຖິງກົດ ຫມາຍ ເທົ່ານັ້ນ.
+
+349
+00:20:12,600 --> 00:20:16,450
+[LYDIA]
+Never mind the law. Cathy, you can start serving the soup.
+ຢ່າສົນໃຈກົດ ຫມາຍ. ຄາຕີ, ເຈົ້າສາມາດເລີ່ມຕົ້ນຮັບໃຊ້ຊູດໄດ້.
+
+350
+00:20:16,950 --> 00:20:22,950
+[LYDIA]
+This won't take a minute, Miss Dan...  Hello, Fred? This is Lydia Brenner. I didn't interrupt your dinner, did I?  Fred, that feed you sold me is no good.  The chicken feed. The three bags I brought.
+ນີ້ຈະບໍ່ໃຊ້ເວລາ ຫນຶ່ງ ນາທີ, ນາງດານ... ສະບາຍດີ, ຟຣີດ? ນີ້ແມ່ນລີດີຍ ບຣີນເນີ. ຂ້ອຍບໍ່ໄດ້ລົບກວນອາຫານຄໍ່າຂອງທ່ານ
+, ແມ່ນບໍ? ຟຣິດ, ອາຫານທີ່ທ່ານຂາຍໃຫ້ຂ້ອຍບໍ່ດີ. ອາຫານໄກ່. ກະເປົາສາມທີ່ຂ້ອຍເອົາມາ.
+
+351
+00:20:23,450 --> 00:20:29,450
+[LYDIA]
+Well, it's just no good. The chickens won't eat it.  They're always hungry, Fred. I opened one of the sacks when I got home, and I poured it out for them, and they wouldn't touch it. Now you know chickens as well as I do, and when they won't eat, there's just something wrong with what they're being fed, that's all.  No, they're not fussy chickens.  Who? What's he got to do with it?  Fred, I don't care how much feed you sold him. My chickens...  He did? Dan Fawcett?  This afternoon?  Well, that only proves what I'm saying. The feed you sold us is...  Oh. Oh, I see. Uh-huh. Uh-huh.  Uh- huh. Maybe I ought to go over to see him. You don't think there's something going around, do you?  No, never.  No, Fred, they don't seem sick at all. They just won't eat.  Mmmm. Mmmmm. Well, I'll try to get over to Dan's farm.  Maybe he'll... mmmmm... mmmmm... all right, Fred, thanks.
+ດີ, ມັນພຽງແຕ່ບໍ່ດີ. ໄກ່ຈະບໍ່ກິນມັນ. ພວກເຂົາຫິວຢູ່ສະເຫມີ, ຟຣີດ. ຂ້ອຍເປີດກະເປົາ ຫນຶ່ງ ໃນເວລາທີ່ຂ້ອຍກັບບ້ານ, ແລະຂ້ອຍຖອກມັນອອກ ສໍາ ລັບພວກເຂົາ, ແລະພວກເຂົາຈະບໍ່ຈັບມັນ. ດຽວນີ້ເຈົ້າຮູ້ໄກ່ເຊັ່ນດຽວກັນກັບຂ້ອຍ
+, ແລະເມື່ອພວກເຂົາຈະບໍ່ກິນ, ມີພຽງແຕ່ບາງສິ່ງບາງຢ່າງຜິດກັບສິ່ງທີ່ພວກເຂົາ ກໍາ ລັງໃຫ້ອາຫານ, ນັ້ນແມ່ນທັງຫມົດ. ບໍ່, ພວກເຂົາບໍ່ແມ່ນໄກ່ທີ່ເຄັ່ງຕຶງ. ໃຜ? ລາວມີຫຍັງກ່ຽວຂ້ອງກັບມັນ? ຟຣິດ, ຂ້ອຍບໍ່ເຮັດ
+
+352
+00:20:29,950 --> 00:20:35,550
+[LYDIA]
+He got a call from Dan Fawcett a little while ago. His chickens won't eat, either.
+ລາວໄດ້ຮັບໂທລະສັບຈາກດານ ຟາວເຊັດເມື່ອບໍ່ດົນມານີ້
+. ໄກ່ຂອງລາວຈະບໍ່ກິນເຊັ່ນກັນ.
+
+353
+00:20:36,050 --> 00:20:39,900
+[CATHY]
+It's what you said, Mom. Mr. Brinkmeyer's feed is no good.
+ມັນເປັນສິ່ງທີ່ເຈົ້າເວົ້າ, ແມ່. ການໃຫ້ອາຫານຂອງທ່ານບຣິນກເມຍບໍ່ດີ.
+
+354
+00:20:40,400 --> 00:20:46,400
+[LYDIA]
+No, Cathy. He sold Mr. Fawcett a different brand.  You don't think they're getting sick, do you, Mitch?
+ບໍ່, ຄາຕີ. ລາວໄດ້ຂາຍເຄື່ອງຫມາຍທີ່ແຕກຕ່າງກັນໃຫ້ທ່ານຟາວເຊັດ
+. ເຈົ້າບໍ່ຄິດວ່າພວກເຂົາ ກໍາ ລັງເຈັບປ່ວຍ, ແມ່ນບໍ, ມິτς?
+
+355
+00:20:46,900 --> 00:20:50,400
+[CATHY]
+I still don't understand how you knew I wanted lovebirds.
+ຂ້ອຍຍັງບໍ່ເຂົ້າໃຈວ່າເຈົ້າຮູ້ແນວໃດວ່າຂ້ອຍຢາກມີນົກຮັກ.
+
+356
+00:20:50,900 --> 00:20:52,900
+[MELANIE]
+Your brother told me.
+ອ້າຍຂອງເຈົ້າບອກຂ້ອຍ.
+
+357
+00:20:53,400 --> 00:20:56,900
+[LYDIA]
+Then you knew Mitch in San Francisco, is that right?
+ຫຼັງຈາກນັ້ນເຈົ້າຮູ້ຈັກມິτς ໃນແຊນຟຣານຊິສໂກ, ນັ້ນແມ່ນຄວາມຈິງບໍ?
+
+358
+00:20:57,400 --> 00:20:59,400
+[MELANIE]
+No, not exactly.
+ບໍ່, ບໍ່ແນ່ນອນ.
+
+359
+00:20:59,900 --> 00:21:04,450
+[CATHY]
+Mitch knows lots of people in San Francisco. Of course, they're mostly hoods.
+ມິτςຮູ້ຈັກຄົນຫຼາຍຄົນໃນແຊນຟຣານຊິສໂກ
+. ແນ່ນອນ, ພວກເຂົາສ່ວນໃຫຍ່ແມ່ນ Hood.
+
+360
+00:21:04,950 --> 00:21:06,950
+[LYDIA]
+Cathy!
+ແຄຕີ້!
+
+361
+00:21:07,450 --> 00:21:13,450
+[CATHY]
+Well, Mom, he's the first to admit it.  He spends half his day in the detention cells at the Hall of Justice.
+ດີ, ແມ່, ລາວເປັນຄົນ ທໍາ ອິດທີ່ຈະຍອມຮັບມັນ.
+ລາວໃຊ້ເວລາເຄິ່ງມື້ຂອງລາວໃນຄຸກຄຸມຂັງຢູ່ຫ້ອງການຍຸຕິທໍາ.
+
+362
+00:21:13,950 --> 00:21:18,850
+[LYDIA]
+In a democracy, Cathy, everyone is entitled to a fair trial. Your brother's practice...
+ໃນປະຊາທິປະໄຕ, ຄາຕີ, ທຸກຄົນມີສິດໃນການດໍາເນີນຄະດີຢ່າງຍຸຕິທໍາ
+. ການປະຕິບັດງານຂອງອ້າຍຂອງທ່ານ...
+
+363
+00:21:19,350 --> 00:21:25,350
+[CATHY]
+Mom, please, I know all the democracy jazz. They're still hoods.  He's got a client now who shot his wife in the head six times. Six times, can you imagine it?  I mean, even twice would be overdoing it, don't you think?
+ແມ່, ກະລຸນາ, ຂ້ອຍຮູ້ຈັກຈາຊ໌ປະຊາທິປະໄຕທັງ ຫມົດ. ພວກເຂົາຍັງເປັນ hoods. ລາວມີລູກຄ້າດຽວນີ້ທີ່ຍິງເມຍຂອງລາວໃນຫົວຫົກຄັ້ງ
+. ຫົກຄັ້ງ, ເຈົ້າສາມາດຈິນຕະນາການມັນໄດ້ບໍ? ຂ້ອຍຫມາຍຄວາມວ່າ, ເຖິງແມ່ນວ່າສອງຄັ້ງຈະເກີນໄປ, ເຈົ້າບໍ່ຄິດບໍ?
+
+364
+00:21:25,850 --> 00:21:27,850
+[MELANIE]
+Why did he shoot her?
+ເປັນຫຍັງລາວຈຶ່ງຍິງນາງ?
+
+365
+00:21:28,350 --> 00:21:31,150
+[MITCH]
+He was watching a ball game on television.
+ລາວ ກໍາ ລັງເບິ່ງເກມບານເຕະໃນໂທລະພາບ.
+
+366
+00:21:31,650 --> 00:21:33,650
+[MELANIE]
+What?
+ຫຍັງ?
+
+367
+00:21:34,150 --> 00:21:36,150
+[MITCH]
+His wife changed the channel.
+ເມຍຂອງລາວປ່ຽນຊ່ອງທາງ.
+
+368
+00:21:36,650 --> 00:21:38,650
+[CATHY]
+Is smoking fun?
+ການສູບຢາມີຄວາມມ່ວນບໍ?
+
+369
+00:21:39,150 --> 00:21:41,150
+[MELANIE]
+Oh, I suppose so.
+ໂອ້, ຂ້ອຍຄິດວ່າເປັນ.
+
+370
+00:21:41,650 --> 00:21:43,650
+[CATHY]
+Could I have a puff?
+ຂ້ອຍສາມາດດູດໄດ້ບໍ?
+
+371
+00:21:44,150 --> 00:21:46,950
+[MELANIE]
+I don't think your mother would like that.
+ຂ້ອຍບໍ່ຄິດວ່າແມ່ຂອງເຈົ້າຈະມັກແບບນັ້ນ.
+
+372
+00:21:47,450 --> 00:21:49,450
+[CATHY]
+Just a little one.
+ພຽງແຕ່ຫນຶ່ງນ້ອຍໆ.
+
+373
+00:21:49,950 --> 00:21:55,950
+[CATHY]
+Why, it's just like air, isn't it?  When I grow up, I'm gonna smoke like a chimney! I'll be eleven tomorrow, you know.
+ເປັນຫຍັງ, ມັນຄືກັບອາກາດ, ແມ່ນບໍ? ເມື່ອຂ້ອຍເຕີບໃຫຍ່ຂຶ້ນ,
+ຂ້ອຍຈະສູບຢາຄືກັບກະຕ່າໄຟ! ຂ້ອຍຈະມີອາຍຸສິບຫນຶ່ງມື້ອື່ນ, ເຈົ້າຮູ້ແລ້ວ.
+
+374
+00:21:56,450 --> 00:21:58,450
+[MELANIE]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+375
+00:21:58,950 --> 00:22:01,050
+[CATHY]
+Are you coming to my party?
+ເຈົ້າຈະມາງານລ້ຽງຂອງຂ້ອຍບໍ?
+
+376
+00:22:01,550 --> 00:22:05,750
+[MELANIE]
+I don't think so.  I have to get back to San Francisco.
+ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ. ຂ້ອຍຕ້ອງກັບຄືນໄປແຊນຟຣານຊິສໂກ.
+
+377
+00:22:06,250 --> 00:22:08,250
+[CATHY]
+Don't you like us?
+ເຈົ້າບໍ່ມັກພວກເຮົາບໍ?
+
+378
+00:22:08,750 --> 00:22:10,750
+[MELANIE]
+Darling, of course I do!
+ແມ, ແນ່ນອນວ່າຂ້ອຍເຮັດ!
+
+379
+00:22:11,250 --> 00:22:13,250
+[CATHY]
+Don't you like Bodega Bay?
+ເຈົ້າບໍ່ມັກບອດເກາບໍ?
+
+380
+00:22:13,750 --> 00:22:15,750
+[MELANIE]
+I don't know yet.
+ຂ້ອຍຍັງບໍ່ຮູ້ເທື່ອ.
+
+381
+00:22:16,250 --> 00:22:22,250
+[CATHY]
+Mitch likes it very much. He comes up every weekend, you know, even though he has his own apartment in the city. He says San Francisco is just an ant hill at the foot of a bridge.
+ມິτςມັກມັນຫຼາຍ. ລາວມາທຸກໆທ້າຍອາທິດ, ເຈົ້າຮູ້ແລ້ວ, ເຖິງແມ່ນວ່າລາວມີອາພາດເມັນຂອງຕົນເອງໃນເມືອງ
+. ລາວເວົ້າວ່າແຊນຟຣານຊິສໂກແມ່ນພຽງແຕ່ພູແມງໄມ້ຢູ່ຕີນຂົວ.
+
+382
+00:22:22,750 --> 00:22:26,250
+[MELANIE]
+I guess it does get a little hectic at times.
+ຂ້ອຍຄິດວ່າມັນມີຄວາມເຄັ່ງຕຶງເລັກນ້ອຍບາງຄັ້ງ.
+
+383
+00:22:26,750 --> 00:22:32,750
+[CATHY]
+If you do decide to come, don't say I told you about it. It's supposed to be a surprise party.
+ຖ້າເຈົ້າຕັດສິນໃຈມາ, ຢ່າເວົ້າວ່າຂ້ອຍບອກເຈົ້າກ່ຽວກັບມັນ
+. ມັນຄວນຈະເປັນງານລ້ຽງແປກໃຈ.
+
+384
+00:22:33,250 --> 00:22:39,250
+[CATHY]
+You see, they've got this whole complicated thing figured out where I'm going over to Michele's for the afternoon, and Michele's mother is going to say she has a headache and would I mind very much if she took me home. Then, when we get back here, all of the kids'll jump out!  Won't you come? Won't you please come?
+ເຈົ້າເຫັນແລ້ວ, ພວກເຂົາມີສິ່ງສັບສົນທັງ ຫມົດ ນີ້ຄິດວ່າຂ້ອຍຈະໄປໃສທີ່ມິເຊເລ ສໍາ ລັບຕອນບ່າຍ, ແລະແມ່ຂອງມີເຊເລຈະເວົ້າວ່ານາງມີອາການເຈັບຫົວແລະຂ້ອຍບໍ່ສົນໃຈຫຼາຍຖ້ານາງພາຂ້ອຍກັບບ້ານ
+. ຫຼັງຈາກນັ້ນ, ເມື່ອພວກເຮົາກັບມາບ່ອນນີ້, ເດັກນ້ອຍທັງ ຫມົດ ຈະໂດດອອກ! ເຈົ້າຈະບໍ່ມາ? ເຈົ້າບໍ່ມາ? ກະລຸນາ?
+
+385
+00:22:39,750 --> 00:22:41,750
+[MELANIE]
+I don't think so, Cathy.
+ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ, ຄາຕີ.
+
+386
+00:22:42,250 --> 00:22:44,700
+[LYDIA]
+She's a charming girl, isn't she, Mitch?
+ນາງເປັນເດັກຍິງທີ່ຫນ້າຮັກ, ແມ່ນບໍ, ມິτς?
+
+387
+00:22:45,200 --> 00:22:47,200
+[MITCH]
+Yes, very.
+ແມ່ນແລ້ວ, ຫຼາຍ.
+
+388
+00:22:47,700 --> 00:22:49,700
+[LYDIA]
+And certainly pretty.
+ແລະແນ່ນອນວ່າສວຍງາມ.
+
+389
+00:22:50,200 --> 00:22:52,200
+[MITCH]
+Yes.
+ແມ່ນແລ້ວ.
+
+390
+00:22:52,700 --> 00:22:54,800
+[LYDIA]
+How long have you known her?
+ເຈົ້າຮູ້ຈັກນາງດົນປານໃດ?
+
+391
+00:22:55,300 --> 00:22:57,400
+[MITCH]
+I told you. We met yesterday.
+ຂ້ອຍບອກເຈົ້າແລ້ວ. ພວກເຮົາພົບກັນມື້ວານນີ້.
+
+392
+00:22:57,900 --> 00:22:59,900
+[LYDIA]
+In a bird shop.
+ໃນຮ້ານຂາຍນົກ.
+
+393
+00:23:00,400 --> 00:23:02,400
+[MITCH]
+Yes.
+ແມ່ນແລ້ວ.
+
+394
+00:23:02,900 --> 00:23:04,900
+[LYDIA]
+She was selling birds.
+ນາງ ກໍາ ລັງຂາຍນົກ.
+
+395
+00:23:05,400 --> 00:23:11,000
+[MITCH]
+No. I only led her into believing I believed she was... Mother, it's really very complicated.
+ບໍ່. ຂ້ອຍພຽງແຕ່ພານາງເຊື່ອວ່າຂ້ອຍເຊື່ອວ່ານາງເປັນ
+... ແມ່, ມັນສັບສົນຫຼາຍແທ້ໆ.
+
+396
+00:23:11,500 --> 00:23:16,050
+[LYDIA]
+But she did buy the lovebirds and then brought them all the way...
+ແຕ່ນາງໄດ້ຊື້ນົກຮັກແລະຫຼັງຈາກນັ້ນນໍາພວກມັນໄປຕະຫຼອດທາງ...
+
+397
+00:23:16,550 --> 00:23:19,350
+[MITCH]
+Mother, where did you go to law school?
+ແມ່, ເຈົ້າໄປໂຮງຮຽນກົດຫມາຍຢູ່ໃສ?
+
+398
+00:23:19,850 --> 00:23:25,850
+[LYDIA]
+Forgive me. I suppose I'm just naturally curious about a girl like that.  She's very rich, isn't she?
+ຂໍໂທດຂ້ອຍ. ຂ້ອຍຄິດວ່າຂ້ອຍພຽງແຕ່ຢາກຮູ້ສຶກກ່ຽວກັບເດັກຍິງແບບນັ້ນໂດຍ
+ທໍາ ມະຊາດ. ນາງຮັ່ງມີຫຼາຍ, ແມ່ນບໍ?
+
+399
+00:23:26,350 --> 00:23:30,550
+[MITCH]
+I suppose so. Her father owns a big newspaper in San Francisco.
+ຂ້ອຍຄິດວ່າເປັນ. ພໍ່ຂອງນາງເປັນເຈົ້າຂອງຫນັງສືພິມໃຫຍ່ໃນແຊນຟຣານຊິສໂກ.
+
+400
+00:23:31,050 --> 00:23:37,050
+[LYDIA]
+You'd think he could manage to keep her name out of print. She's always mentioned in the columns, Mitch.
+ເຈົ້າຈະຄິດວ່າລາວສາມາດຈັດການຮັກສາຊື່ຂອງນາງອອກຈາກການພິມ
+. ນາງຖືກກ່າວເຖິງໃນຄໍລໍາສະເຫມີ, ມິτς.
+
+401
+00:23:37,550 --> 00:23:39,550
+[MITCH]
+I know, Mother.
+ຂ້ອຍຮູ້ແລ້ວ, ແມ່.
+
+402
+00:23:40,050 --> 00:23:45,300
+[LYDIA]
+She is the one who jumped into that fountain in Rome last summer, isn't she?
+ນາງເປັນຄົນທີ່ໂດດລົງໃນແຫຼ່ງນ້ ໍາ ໃນໂຣມໃນລະດູຮ້ອນທີ່ຜ່ານມາ, ແມ່ນບໍ?
+
+403
+00:23:45,800 --> 00:23:47,800
+[MITCH]
+Yes, Mother.
+ແມ່ນແລ້ວ, ແມ່.
+
+404
+00:23:48,300 --> 00:23:54,300
+[LYDIA]
+Perhaps I'm old-fashioned.  I know it was supposed to be very warm there, Mitch, but... well... actually... well, the newspaper said she was naked.
+ບາງທີຂ້ອຍເປັນແບບເກົ່າແກ່. ຂ້ອຍຮູ້ວ່າມັນຄວນອົບອຸ່ນຫຼາຍຢູ່ບ່ອນນັ້ນ, ມິτς
+, ແຕ່... ດີ... ໃນຄວາມເປັນຈິງ... ດີ, ຫນັງສືພິມເວົ້າວ່ານາງເປົ່າເປົ່າ.
+
+405
+00:23:54,800 --> 00:23:56,800
+[MITCH]
+I know, Mother.
+ຂ້ອຍຮູ້ແລ້ວ, ແມ່.
+
+406
+00:23:57,300 --> 00:24:02,900
+[LYDIA]
+It's none of my business, of course, but when you bring a girl like that to...
+ມັນບໍ່ແມ່ນເລື່ອງຂອງຂ້ອຍແນ່ນອນ,
+ແຕ່ເມື່ອເຈົ້າເອົາເດັກຍິງແບບນັ້ນມາ...
+
+407
+00:24:03,400 --> 00:24:05,400
+[MITCH]
+Mother?
+ແມ່?
+
+408
+00:24:05,900 --> 00:24:07,900
+[LYDIA]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+409
+00:24:08,400 --> 00:24:11,550
+[MITCH]
+I think I can handle Melanie Daniels by myself.
+ຂ້ອຍຄິດວ່າຂ້ອຍສາມາດຮັບມືກັບເມລານີ ດານີເລສໄດ້ດ້ວຍຕົນເອງ.
+
+410
+00:24:12,050 --> 00:24:15,550
+[LYDIA]
+Well...  So long as you know what you want, Mitch.
+ດີ... ຕາບໃດທີ່ເຈົ້າຮູ້ວ່າເຈົ້າຕ້ອງການຫຍັງ, ມິτς.
+
+411
+00:24:16,050 --> 00:24:18,500
+[MITCH]
+I know exactly what I want, Mother.
+ຂ້ອຍຮູ້ວ່າຂ້ອຍຢາກຫຍັງແທ້ໆ, ແມ່.
+
+412
+00:24:19,000 --> 00:24:22,500
+[MITCH]
+You'll be able to find your way back, won't you?
+ເຈົ້າຈະສາມາດຊອກຫາທາງກັບມາໄດ້, ແມ່ນບໍ?
+
+413
+00:24:23,000 --> 00:24:25,000
+[MELANIE]
+Oh, yes.
+ໂອ້, ແມ່ນແລ້ວ.
+
+414
+00:24:25,500 --> 00:24:27,600
+[MELANIE]
+Will I be seeing you again?
+ຂ້ອຍຈະເຫັນເຈົ້າອີກບໍ?
+
+415
+00:24:28,100 --> 00:24:30,550
+[MELANIE]
+San Francisco's a long way from here.
+ແຊນຟຣານຊິສໂກຢູ່ຫ່າງໄກຈາກບ່ອນນີ້.
+
+416
+00:24:31,050 --> 00:24:37,050
+[MITCH]
+I'm in San Francisco five days a week. With a lot of time on my hands. I'd like to see you.  Maybe we could go swimming or something. Mother tells me you like to swim.
+ຂ້ອຍຢູ່ໃນແຊນຟຣານຊິສໂກຫ້າມື້ຕໍ່ອາທິດ. ມີເວລາຫຼາຍໃນມືຂອງຂ້ອຍ. ຂ້ອຍຢາກເຫັນເຈົ້າ.
+ບາງທີພວກເຮົາສາມາດໄປລອຍນ້ ໍາ ຫຼືບາງສິ່ງບາງຢ່າງ. ແມ່ບອກຂ້ອຍວ່າເຈົ້າມັກລອຍນໍ້າ.
+
+417
+00:24:37,550 --> 00:24:40,700
+[MELANIE]
+How does Mother know what I like to do?
+ແມ່ຮູ້ແນວໃດວ່າຂ້ອຍມັກເຮັດຫຍັງ?
+
+418
+00:24:41,200 --> 00:24:44,700
+[MITCH]
+I guess she and I read the same gossip columns.
+ຂ້ອຍຄິດວ່ານາງແລະຂ້ອຍອ່ານບົດຂຽນຂ່າວລືດຽວກັນ.
+
+419
+00:24:45,200 --> 00:24:47,200
+[MELANIE]
+Oh. That. Rome.
+ໂອ້. ນັ້ນ. ໂຣມ.
+
+420
+00:24:47,700 --> 00:24:51,200
+[MITCH]
+Mmmm. I like to swim. We might get along very...
+ຂ້ອຍມັກລອຍນ້ ໍາ. ພວກເຮົາອາດຈະເຂົ້າກັນໄດ້ຫຼາຍ...
+
+421
+00:24:51,700 --> 00:24:55,200
+[MELANIE]
+In case you're interested, I was pushed into that fountain.
+ຖ້າເຈົ້າສົນໃຈ, ຂ້ອຍຖືກດັນເຂົ້າໄປໃນແຫຼ່ງນ້ ໍາ ນັ້ນ.
+
+422
+00:24:55,700 --> 00:24:57,700
+[MELANIE]
+Without any clothes on?
+ໂດຍບໍ່ມີເຄື່ອງນຸ່ງໃດໆບໍ?
+
+423
+00:24:58,200 --> 00:25:04,200
+[MELANIE]
+With all my clothes on!  The newspaper that ran the story happens to be a rival of my father's paper.  Anything they said...
+ດ້ວຍເຄື່ອງນຸ່ງຫົ່ມຂອງຂ້ອຍທັງ ຫມົດ! ຫນັງ
+ສືພິມທີ່ຈັດການເລື່ອງນີ້ເກີດຂື້ນເປັນຄູ່ແຂ່ງຂອງຫນັງສືພິມຂອງພໍ່ຂອງຂ້ອຍ. ທຸກຢ່າງທີ່ພວກເຂົາເວົ້າ...
+
+424
+00:25:04,700 --> 00:25:08,200
+[MITCH]
+You were just a poor, innocent victim of circumstance, huh?
+ເຈົ້າພຽງແຕ່ເປັນຜູ້ເຄາະຮ້າຍທີ່ທຸກຍາກແລະບໍ່ຜິດພາດຂອງສະພາບການ
+, ແມ່ນບໍ?
+
+425
+00:25:08,700 --> 00:25:12,550
+[MELANIE]
+I'm neither poor nor innocent, but the truth of that particular...
+ຂ້ອຍບໍ່ແມ່ນຄົນທຸກຍາກຫຼືບໍ່ຜິດພາດ,
+ແຕ່ຄວາມຈິງຂອງເລື່ອງນັ້ນໂດຍສະເພາະ...
+
+426
+00:25:13,050 --> 00:25:17,250
+[MITCH]
+The truth is you were running around with a pretty wild crowd...
+ຄວາມຈິງແມ່ນເຈົ້າ ກໍາ
+ລັງແລ່ນຢູ່ທົ່ວໄປກັບຄົນຊົມເຊີຍທີ່ໂຊກຮ້າຍຫຼາຍ...
+
+427
+00:25:17,750 --> 00:25:19,750
+[MELANIE]
+Yes, but...
+ແມ່ນແລ້ວ, ແຕ່...
+
+428
+00:25:20,250 --> 00:25:23,400
+[MITCH]
+...who didn't much care for propriety or convention or...
+... ຜູ້ທີ່ບໍ່ສົນໃຈຄວາມຖືກຕ້ອງຫຼືກອງປະຊຸມຫຼາຍຫຼື...
+
+429
+00:25:23,900 --> 00:25:25,900
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+430
+00:25:26,400 --> 00:25:31,650
+[MITCH]
+...the opinions of others, and you went right along with them, isn't that the truth?
+ຄວາມຄິດເຫັນຂອງຄົນອື່ນ,
+ແລະເຈົ້າໄດ້ໄປພ້ອມກັບພວກເຂົາຢ່າງກົງກັນຂ້າມ, ນັ້ນບໍ່ແມ່ນຄວາມຈິງບໍ?
+
+431
+00:25:32,150 --> 00:25:37,750
+[MELANIE]
+Yes, that's the truth. But I was pushed into that fountain, and that's the truth, too.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນຄວາມຈິງ. ແຕ່ຂ້ອຍຖືກດັນເຂົ້າໄປໃນແຫຼ່ງນ້
+ໍາ ນັ້ນ, ແລະນັ້ນກໍ່ເປັນຄວາມຈິງເຊັ່ນກັນ.
+
+432
+00:25:38,250 --> 00:25:40,700
+[MITCH]
+Sure. Do you really know Annie Hayworth?
+ແນ່ນອນ. ເຈົ້າຮູ້ຈັກແອນນີ ເຮວອດແທ້ບໍ?
+
+433
+00:25:41,200 --> 00:25:44,700
+[MELANIE]
+No.  At least, I didn't until I came up here.
+ບໍ່. ຢ່າງຫນ້ອຍ, ຂ້ອຍບໍ່ໄດ້ເຮັດຈົນກວ່າຂ້ອຍຈະຂຶ້ນມາບ່ອນນີ້.
+
+434
+00:25:45,200 --> 00:25:47,650
+[MITCH]
+So you didn't go to school together.
+ສະນັ້ນເຈົ້າບໍ່ໄດ້ໄປໂຮງຮຽນຮ່ວມກັນ.
+
+435
+00:25:48,150 --> 00:25:50,150
+[MELANIE]
+No.
+ບໍ່
+
+436
+00:25:50,650 --> 00:25:53,800
+[MITCH]
+And you didn't come up here to see her.
+ແລະເຈົ້າບໍ່ໄດ້ຂຶ້ນມາບ່ອນນີ້ເພື່ອເຫັນນາງ.
+
+437
+00:25:54,300 --> 00:25:56,300
+[MELANIE]
+No.
+ບໍ່
+
+438
+00:25:56,800 --> 00:25:58,800
+[MITCH]
+You were lying.
+ເຈົ້າຕົວະ.
+
+439
+00:25:59,300 --> 00:26:01,300
+[MELANIE]
+Yes, I was lying.
+ແມ່ນແລ້ວ, ຂ້ອຍຕົວະ.
+
+440
+00:26:01,800 --> 00:26:06,700
+[MITCH]
+Did you really write a letter to me? Or was that a lie, too?
+ເຈົ້າຂຽນຈົດຫມາຍໃຫ້ຂ້ອຍແທ້ບໍ? ຫຼືມັນເປັນຕົວະເຊັ່ນກັນບໍ?
+
+441
+00:26:07,200 --> 00:26:09,200
+[MELANIE]
+I wrote the letter.
+ຂ້ອຍຂຽນຈົດຫມາຍ.
+
+442
+00:26:09,700 --> 00:26:11,700
+[MITCH]
+What did it say?
+ມັນຂຽນວ່າແນວໃດ?
+
+443
+00:26:12,200 --> 00:26:18,200
+[MELANIE]
+It said, "Dear Mr. Brenner, I think you need those lovebirds, after all. They may help your personality." That's what it said.
+ມັນເວົ້າວ່າ," ທ້າວບຣັນເນີທີ່ຮັກແພງ, ຂ້ອຍຄິດວ່າເຈົ້າຕ້ອງການນົກຮັກເຫລົ່ານັ້ນ
+, ຫຼັງຈາກນັ້ນ. ພວກເຂົາອາດຈະຊ່ວຍບຸກຄະລິກໍາຂອງທ່ານ. ນັ້ນແມ່ນສິ່ງທີ່ມັນເວົ້າ.
+
+444
+00:26:18,700 --> 00:26:20,700
+[MITCH]
+But you tore it up.
+ແຕ່ເຈົ້າໄດ້ແຕກມັນອອກ.
+
+445
+00:26:21,200 --> 00:26:23,200
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+446
+00:26:23,700 --> 00:26:25,700
+[MITCH]
+Why?
+ເປັນຫຍັງ?
+
+447
+00:26:26,200 --> 00:26:28,300
+[MELANIE]
+Because it seemed stupid and foolish.
+ເພາະມັນເບິ່ງຄືວ່າໂງ່ ແລະ ໂງ່.
+
+448
+00:26:28,800 --> 00:26:31,250
+[MITCH]
+Like jumping into a fountain in Rome!
+ຄືກັບການໂດດລົງໃນແຫຼ່ງນ້ ໍາ ໃນໂຣມ!
+
+449
+00:26:31,750 --> 00:26:34,200
+[MELANIE]
+I told you what happened in Rome!
+ຂ້ອຍບອກເຈົ້າວ່າເກີດຫຍັງຂຶ້ນໃນໂຣມ!
+
+450
+00:26:34,700 --> 00:26:36,800
+[MITCH]
+Do you expect me to believe...?
+ເຈົ້າຄາດວ່າຂ້ອຍຈະເຊື່ອບໍ?
+
+451
+00:26:37,300 --> 00:26:40,100
+[MELANIE]
+I don't give a damn what you believe!
+ຂ້ອຍບໍ່ສົນໃຈວ່າເຈົ້າເຊື່ອຫຍັງ!
+
+452
+00:26:40,600 --> 00:26:42,700
+[MITCH]
+I'd still like to see you.
+ຂ້ອຍຍັງຢາກເຫັນເຈົ້າ.
+
+453
+00:26:43,200 --> 00:26:45,200
+[MELANIE]
+Why?
+ເປັນຫຍັງ?
+
+454
+00:26:45,700 --> 00:26:47,800
+[MITCH]
+I think it could be fun.
+ຂ້ອຍຄິດວ່າມັນອາດຈະມ່ວນຊື່ນ.
+
+455
+00:26:48,300 --> 00:26:53,900
+[MELANIE]
+That might have been good enough in Rome last summer. But it's not good enough now.
+ມັນອາດຈະດີພໍໃນໂຣມໃນລະດູຮ້ອນທີ່ຜ່ານມາ. ແຕ່ມັນບໍ່ດີພໍດຽວນີ້.
+
+456
+00:26:54,400 --> 00:26:56,400
+[MITCH]
+It is for me.
+ມັນເປັນສໍາລັບຂ້ອຍ.
+
+457
+00:26:56,900 --> 00:26:58,900
+[MELANIE]
+But not for me.
+ແຕ່ບໍ່ແມ່ນສໍາລັບຂ້ອຍ.
+
+458
+00:26:59,400 --> 00:27:01,400
+[MITCH]
+What do you want ?
+ເຈົ້າຢາກຫຍັງ?
+
+459
+00:27:01,900 --> 00:27:07,900
+[MELANIE]
+I thought you knew! I want to go through life laughing and beautiful and jumping into fountains naked! Good night!
+ຂ້ອຍຄິດວ່າເຈົ້າຮູ້! ຂ້ອຍຢາກຜ່ານຊີວິດດ້ວຍຄວາມມ່ວນຊື່ນແລະສວຍງາມແລະໂດດເຂົ້າໄປໃນແຫຼ່ງນ້
+ໍາ ເປົ່າເປົ່າ! Good night!
+
+460
+00:27:08,400 --> 00:27:10,400
+[ANNIE]
+Miss Daniels? Is that you?
+ນາງດານີເລສ? ນັ້ນແມ່ນເຈົ້າບໍ?
+
+461
+00:27:10,900 --> 00:27:12,900
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+462
+00:27:13,400 --> 00:27:17,250
+[ANNIE]
+Hi.  Is something wrong? Is that cut beginning to bother you?
+ສະບາຍດີ. ມີຫຍັງຜິດບໍ? ການຕັດນັ້ນ ກໍາ ລັງເລີ່ມກັງວົນເຈົ້າບໍ?
+
+463
+00:27:17,750 --> 00:27:20,550
+[MELANIE]
+No, it's not the cut that's bothering me.
+ບໍ່, ມັນບໍ່ແມ່ນການຕັດທີ່ກັງວົນຂ້ອຍ.
+
+464
+00:27:21,050 --> 00:27:23,050
+[ANNIE]
+Would you like some brandy?
+ເຈົ້າຢາກກິນບຣານດີບໍ?
+
+465
+00:27:23,550 --> 00:27:25,550
+[MELANIE]
+If you have some, I'd...
+ຖ້າເຈົ້າມີບາງຢ່າງ, ຂ້ອຍຈະ...
+
+466
+00:27:26,050 --> 00:27:31,650
+[ANNIE]
+I'll get it, sit down, Miss Daniels. Do you want a sweater or something? A quilt?
+ຂ້ອຍຈະເອົາມັນ, ນັ່ງລົງ, ນາງດານີເລສ.
+ເຈົ້າຢາກເສື້ອຜ້າຫຼືບາງສິ່ງບາງຢ່າງບໍ? ກະຕ່າຜ້າ?
+
+467
+00:27:32,150 --> 00:27:34,950
+[MELANIE]
+No, thank you.  Won't you call me Melanie?
+ບໍ່, ຂອບໃຈ. ເຈົ້າບໍ່ເອີ້ນຂ້ອຍວ່າເມລານີບໍ?
+
+468
+00:27:35,450 --> 00:27:37,450
+[ANNIE]
+All right.
+ດີແລ້ວ.
+
+469
+00:27:37,950 --> 00:27:39,950
+[MELANIE]
+Thank you.
+ຂອບໃຈ
+
+470
+00:27:40,450 --> 00:27:46,050
+[ANNIE]
+It gets a little chilly here at night sometimes. Especially if you're over near the bay.
+ມັນເຢັນຢູ່ບ່ອນນີ້ໃນຕອນກາງຄືນບາງຄັ້ງ
+. ໂດຍສະເພາະຖ້າເຈົ້າຢູ່ໃກ້ກັບແຄມທະເລ.
+
+471
+00:27:46,550 --> 00:27:48,550
+[ANNIE]
+Well, how'd your evening go?
+ດີ, ຕອນແລງຂອງທ່ານເປັນແນວໃດ?
+
+472
+00:27:49,050 --> 00:27:51,050
+[ANNIE]
+Did you meet Lydia?
+ເຈົ້າພົບກັບລີດີຍບໍ?
+
+473
+00:27:51,550 --> 00:27:54,350
+[ANNIE]
+Or would you rather I changed the subject?
+ຫຼືເຈົ້າຢາກໃຫ້ຂ້ອຍປ່ຽນຫົວຂໍ້ບໍ?
+
+474
+00:27:54,850 --> 00:27:56,850
+[MELANIE]
+I think so.
+ຂ້ອຍຄິດວ່າເປັນ.
+
+475
+00:27:57,350 --> 00:27:59,800
+[ANNIE]
+How do you like our little hamlet?
+ເຈົ້າມັກບ້ານນ້ອຍຂອງພວກເຮົາແນວໃດ?
+
+476
+00:28:00,300 --> 00:28:02,300
+[MELANIE]
+I despise it.
+ຂ້ອຍກຽດຊັງມັນ.
+
+477
+00:28:02,800 --> 00:28:08,800
+[ANNIE]
+Well, I don't suppose it offers much to the casual visitor. Unless you're thrilled by a collection of shacks on a hillside. It takes a while to get used to.
+ດີ, ຂ້ອຍບໍ່ຄິດວ່າມັນສະ ເຫນີ ຫຼາຍຕໍ່ຜູ້ຢ້ຽມຢາມແບບບໍ່ເປັນທາງການ.
+ເວັ້ນເສຍແຕ່ວ່າເຈົ້າມີຄວາມຕື່ນເຕັ້ນໂດຍການເກັບກໍາຂອງກະຕ່າຢູ່ເທິງແຄມພູ. ມັນໃຊ້ເວລາທີ່ຈະເຄີຍກັບ.
+
+478
+00:28:09,300 --> 00:28:11,400
+[MELANIE]
+Where are you from originally, Annie?
+ເຈົ້າມາຈາກໃສໃນຕົ້ນສະບັບ, ແອນນີ?
+
+479
+00:28:11,900 --> 00:28:13,900
+[ANNIE]
+San Francisco.
+ແຊນຟຣານຊິສໂກ.
+
+480
+00:28:14,400 --> 00:28:16,500
+[MELANIE]
+How'd you happen to come here?
+ເຈົ້າມາບ່ອນນີ້ເປັນແນວໃດ?
+
+481
+00:28:17,000 --> 00:28:21,200
+[ANNIE]
+Oh, someone invited me up for the weekend a long time ago.
+ໂອ້, ມີຄົນເຊີນຂ້ອຍມາໃນທ້າຍອາທິດດົນນານແລ້ວ.
+
+482
+00:28:21,700 --> 00:28:26,600
+[ANNIE]
+Look, I see no reason for being coy about this. It was Mitch Brenner.
+ເບິ່ງ, ຂ້ອຍບໍ່ເຫັນເຫດຜົນທີ່ຈະກຽດຊັງກ່ຽວກັບເລື່ອງນີ້
+. ມັນແມ່ນມິດຊ໌ ບຣັນເນີ.
+
+483
+00:28:27,100 --> 00:28:29,200
+[ANNIE]
+I guess you knew that, anyway.
+ຂ້ອຍຄິດວ່າເຈົ້າຮູ້ແລ້ວ, ຢ່າງໃດກໍຕາມ.
+
+484
+00:28:29,700 --> 00:28:31,700
+[MELANIE]
+I suspected as much.
+ຂ້ອຍສົງໄສຫຼາຍ.
+
+485
+00:28:32,200 --> 00:28:36,400
+[ANNIE]
+You needn't worry. It's over and done with. A long time ago.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງກັງວົນ. ມັນຫມົດແລ້ວແລະເຮັດແລ້ວ. ດົນນານແລ້ວ.
+
+486
+00:28:36,900 --> 00:28:39,700
+[MELANIE]
+Annie -- there's nothing between Mitch and me.
+ແອນນີ - ບໍ່ມີຫຍັງຢູ່ລະຫວ່າງມິτς ແລະຂ້ອຍ.
+
+487
+00:28:40,200 --> 00:28:45,100
+[ANNIE]
+Isn't there?  Maybe there isn't. Maybe there's never anything between Mitch and any girl.
+ມັນບໍ່ມີບໍ? ບາງທີບໍ່ມີ.
+ບາງທີບໍ່ເຄີຍມີຫຍັງລະຫວ່າງມິດຊ໌ແລະເດັກຍິງໃດໆເລີຍ.
+
+488
+00:28:45,600 --> 00:28:47,600
+[MELANIE]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+489
+00:28:48,100 --> 00:28:54,100
+[ANNIE]
+I think I'll have some of that, too.  I was seeing quite a lot of him in San Francisco, you know.  And then, one weekend, he asked me up to meet Lydia.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະກິນບາງຢ່າງເຊັ່ນກັນ. ຂ້ອຍ ກໍາ ລັງເຫັນລາວຫຼາຍໃນແຊນຟຣານຊິສໂກ,
+ເຈົ້າຮູ້ແລ້ວ. ແລະຫຼັງຈາກນັ້ນ, ໃນທ້າຍອາທິດ ຫນຶ່ງ, ລາວຂໍໃຫ້ຂ້ອຍໄປພົບກັບລີດີຍ.
+
+490
+00:28:54,600 --> 00:28:56,600
+[MELANIE]
+When was this?
+ນີ້ແມ່ນເມື່ອໃດ?
+
+491
+00:28:57,100 --> 00:29:03,050
+[ANNIE]
+Four years ago. Of course, that was shortly after his father died.  Things may be different now.
+ເມື່ອສີ່ປີກ່ອນ. ແນ່ນອນ, ນັ້ນແມ່ນບໍ່ດົນຫຼັງຈາກພໍ່ຂອງລາວຕາຍ
+. ສິ່ງຕ່າງໆອາດຈະແຕກຕ່າງກັນໃນປັດຈຸບັນ.
+
+492
+00:29:03,550 --> 00:29:05,550
+[MELANIE]
+Different?
+ແຕກຕ່າງກັນບໍ?
+
+493
+00:29:06,050 --> 00:29:08,850
+[ANNIE]
+With Lydia.  Did she seem a trifle distant?
+ກັບລີດີຍ. ນາງເບິ່ງຄືວ່າຢູ່ຫ່າງໄກບໍ?
+
+494
+00:29:09,350 --> 00:29:11,350
+[MELANIE]
+A trifle.
+ພຽງເລັກນ້ອຍ.
+
+495
+00:29:11,850 --> 00:29:17,850
+[ANNIE]
+Then maybe it isn't different at all. You know, her attitude nearly drove me crazy. I simply couldn't understand it.
+ຫຼັງຈາກນັ້ນບາງທີມັນບໍ່ແຕກຕ່າງກັນເລີຍ. ເຈົ້າຮູ້ແລ້ວ,
+ທັດສະນະຂອງນາງເກືອບເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍ. ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດເຂົ້າໃຈມັນໄດ້.
+
+496
+00:29:18,350 --> 00:29:24,350
+[ANNIE]
+When I got back to San Francisco I spent days trying to figure out just what I'd done to displease her.
+ເມື່ອຂ້ອຍກັບຄືນໄປແຊນຟຣານຊິສໂກ
+ຂ້ອຍໃຊ້ເວລາຫຼາຍມື້ພະຍາຍາມຄິດວ່າຂ້ອຍເຮັດຫຍັງເພື່ອເຮັດໃຫ້ນາງບໍ່ພໍໃຈ.
+
+497
+00:29:24,850 --> 00:29:26,850
+[MELANIE]
+And what had you done?
+ແລະເຈົ້າເຮັດຫຍັງ?
+
+498
+00:29:27,350 --> 00:29:33,350
+[ANNIE]
+Nothing! I simply existed. So what was the answer? A jealous woman, right? A clinging possessive mother.  Wrong. With all due respect to Oedipus, I don't think that was the case at all.
+ບໍ່ມີຫຍັງເລີຍ! ຂ້ອຍພຽງແຕ່ມີຢູ່. ສະນັ້ນ ຄໍາ ຕອບແມ່ນຫຍັງ? ແມ່ຍິງທີ່ມີຄວາມໂຊກແຄ້ນ, ແມ່ນບໍ?
+ແມ່ທີ່ຖືຄອງທີ່ຕິດຢູ່. ຜິດ. ດ້ວຍຄວາມເຄົາລົບທັງ ຫມົດ ຕໍ່ໂອດີປັສ, ຂ້ອຍບໍ່ຄິດວ່າມັນເປັນກໍລະນີເລີຍ.
+
+499
+00:29:33,850 --> 00:29:35,850
+[MELANIE]
+Then what was it?
+ຫຼັງຈາກນັ້ນມັນເປັນຫຍັງ?
+
+500
+00:29:36,350 --> 00:29:42,350
+[ANNIE]
+Lydia liked me, you see. That was the strange part of it. In fact, now that I'm no longer a threat, we're very good friends.
+ລີດີຍມັກຂ້ອຍ, ເຈົ້າເຫັນ. ນັ້ນແມ່ນສ່ວນທີ່ແປກໃຈຂອງມັນ. ໃນຄວາມເປັນຈິງ
+, ດຽວນີ້ທີ່ຂ້ອຍບໍ່ແມ່ນໄພຂົ່ມຂູ່ອີກແລ້ວ, ພວກເຮົາເປັນເພື່ອນທີ່ດີຫຼາຍ.
+
+501
+00:29:42,850 --> 00:29:45,300
+[MELANIE]
+Then why did she object to you?
+ຫຼັງຈາກນັ້ນເປັນຫຍັງນາງຈຶ່ງຄັດຄ້ານເຈົ້າ?
+
+502
+00:29:45,800 --> 00:29:47,800
+[ANNIE]
+Because she was afraid.
+ເພາະວ່ານາງຢ້ານກົວ.
+
+503
+00:29:48,300 --> 00:29:50,300
+[MELANIE]
+Afraid you'd take Mitch?
+ເຈົ້າຢ້ານວ່າເຈົ້າຈະເອົາມິτςບໍ?
+
+504
+00:29:50,800 --> 00:29:52,800
+[ANNIE]
+Afraid I'd give Mitch.
+ຂ້ອຍຢ້ານວ່າຂ້ອຍຈະໃຫ້ມິτς.
+
+505
+00:29:53,300 --> 00:29:55,300
+[MELANIE]
+I don't understand.
+ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+506
+00:29:55,800 --> 00:30:01,400
+[ANNIE]
+Afraid of any woman who'd give Mitch the only thing Lydia can give him -- love.
+ຢ້ານແມ່ຍິງໃດທີ່ຈະໃຫ້ມິτς ສິ່ງດຽວທີ່ລີດີຍສາມາດໃຫ້ລາວ - ຄວາມຮັກ.
+
+507
+00:30:01,900 --> 00:30:05,050
+[MELANIE]
+Annie, that adds up to a jealous, possessive woman.
+ແອນນີ, ນັ້ນເພີ່ມຂຶ້ນເປັນແມ່ຍິງທີ່ມີຄວາມໂຊກຮ້າຍ, ທີ່ເປັນເຈົ້າຂອງ.
+
+508
+00:30:05,550 --> 00:30:11,550
+[ANNIE]
+No, I don't think so. She's not afraid of losing her son, you see.  She's only afraid of being abandoned.
+ບໍ່, ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ. ນາງບໍ່ຢ້ານທີ່ຈະສູນເສຍລູກຊາຍຂອງນາງ
+, ເຈົ້າເຫັນ. ນາງພຽງແຕ່ຢ້ານຈະຖືກປະຖິ້ມໄວ້.
+
+509
+00:30:12,050 --> 00:30:15,550
+[MELANIE]
+Someone ought to tell her she'd be gaining a daughter.
+ບາງຄົນຄວນບອກນາງວ່ານາງຈະໄດ້ຮັບລູກສາວ.
+
+510
+00:30:16,050 --> 00:30:18,050
+[ANNIE]
+She already has a daughter.
+ນາງມີລູກສາວແລ້ວ.
+
+511
+00:30:18,550 --> 00:30:22,400
+[MELANIE]
+What about Mitch? Didn't he have anything to say about this?
+ຈະເປັນແນວໃດກັບມິτς? ລາວບໍ່ມີຫຍັງເວົ້າກ່ຽວກັບເລື່ອງນີ້ບໍ?
+
+512
+00:30:22,900 --> 00:30:28,900
+[ANNIE]
+I can understand his position. He went through a lot with Lydia after his father died. He didn't want to risk going through it all over again.
+ຂ້ອຍສາມາດເຂົ້າໃຈຕໍາແຫນ່ງຂອງລາວໄດ້.
+ລາວໄດ້ຜ່ານຫຼາຍຢ່າງກັບລີດີຍຫຼັງຈາກພໍ່ຂອງລາວຕາຍ. ລາວບໍ່ຢາກສ່ຽງທີ່ຈະຜ່ານມັນອີກຄັ້ງ.
+
+513
+00:30:29,400 --> 00:30:31,400
+[MELANIE]
+I see.
+ຂ້ອຍເຫັນແລ້ວ.
+
+514
+00:30:31,900 --> 00:30:37,900
+[ANNIE]
+So it ended. Not immediately, of course. I went back to San Francisco, and I still saw Mitch every now and then... but we both knew it was finished.
+ສະນັ້ນມັນສິ້ນສຸດລົງ. ບໍ່ແມ່ນທັນທີ, ແນ່ນອນ. ຂ້ອຍກັບຄືນໄປແຊນຟຣານຊິສໂກ
+, ແລະຂ້ອຍຍັງເຫັນມິτςບາງຄັ້ງ... ແຕ່ພວກເຮົາທັງສອງຮູ້ວ່າມັນສໍາເລັດແລ້ວ.
+
+515
+00:30:38,400 --> 00:30:41,550
+[MELANIE]
+Then what are you doing here in Bodega Bay?
+ຫຼັງຈາກນັ້ນເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ບ່ອນນີ້ໃນບອດເກາ?
+
+516
+00:30:42,050 --> 00:30:44,850
+[ANNIE]
+You get straight to the point, don't you?
+ເຈົ້າໄປຫາຈຸດເດັ່ນໂດຍກົງ, ແມ່ນບໍ?
+
+517
+00:30:45,350 --> 00:30:47,350
+[MELANIE]
+I'm sorry. Forgive me.
+ຂ້ອຍຂໍໂທດ. ຂໍໂທດຂ້ອຍ.
+
+518
+00:30:47,850 --> 00:30:53,850
+[ANNIE]
+No, that's all right, I don't mind. I came up here for two reasons. To begin with, I was bored with my job in San Francisco. I was teaching at a private school there... well, you know, you probably went to one yourself.
+ບໍ່, ມັນບໍ່ເປັນຫຍັງ, ຂ້ອຍບໍ່ສົນໃຈ. ຂ້ອຍມາບ່ອນນີ້ດ້ວຍເຫດຜົນສອງຢ່າງ. ເພື່ອເລີ່ມຕົ້ນດ້ວຍ, ຂ້ອຍເມື່ອຍກັບວຽກຂອງຂ້ອຍໃນແຊນຟຣານຊິສໂກ
+. ຂ້ອຍ ກໍາ ລັງສອນຢູ່ໂຮງຮຽນເອກະຊົນຢູ່ບ່ອນນັ້ນ... ດີ, ເຈົ້າຮູ້ແລ້ວ, ເຈົ້າອາດຈະໄປບ່ອນ ຫນຶ່ງ ເອງ.
+
+519
+00:30:54,350 --> 00:30:56,350
+[MELANIE]
+I did.
+ຂ້ອຍເຮັດແລ້ວ.
+
+520
+00:30:56,850 --> 00:31:02,850
+[ANNIE]
+Then you know. Little girls in brown beanies. Deadly. Here I have a life. I'll go into that classroom on Monday morning, and I'll look out at twenty- five upturned little faces, and each of them will be saying, 'Yes, please give me what you have.'  And I'll give them what I have. I haven't got very much, but I'll give them every ounce of it. To me, that's very important. It makes me want to stay alive for a long long time.  That's the first reason.
+ຫຼັງຈາກນັ້ນເຈົ້າຮູ້ແລ້ວ. ເດັກຍິງນ້ອຍໆໃສ່ກະຕ່າສີສົ້ມ. ອັນຕະລາຍ. ຂ້ອຍມີຊີວິດຢູ່ບ່ອນນີ້. ຂ້ອຍຈະເຂົ້າຫ້ອງຮຽນນັ້ນໃນຕອນເຊົ້າວັນຈັນ, ແລະຂ້ອຍຈະເບິ່ງໃບຫນ້ານ້ອຍໆສິບຫ້າທີ່ຫັນຂຶ້ນ, ແລະແຕ່ລະຄົນຈະເວົ້າວ່າ,
+ແມ່ນແລ້ວ, ກະລຸນາໃຫ້ຂ້ອຍສິ່ງທີ່ເຈົ້າມີ. ແລະຂ້ອຍຈະມີໃຫ້ພວກເຂົາສິ່ງທີ່ຂ້ອຍມີ. ຂ້ອຍບໍ່ມີຫຼາຍ, ແຕ່ຂ້ອຍຈະໃຫ້ພວກເຂົາທຸກອອນສ໌ຂອງມັນ. ສໍາ ລັບຂ້ອຍ, ນັ້ນມີຄວາມສໍາຄັນຫຼາຍ. ມັນເຮັດໃຫ້ຂ້ອຍຢາກຢູ່ອາໄສເປັນເວລາດົນນານ.
+
+521
+00:31:03,350 --> 00:31:05,350
+[MELANIE]
+And the second?
+ແລະອັນທີສອງ?
+
+522
+00:31:05,850 --> 00:31:11,850
+[ANNIE]
+I wanted to be near Mitch.  It was over, and I knew it, but I wanted to be near him, anyway.  You see, I still like him a hell of a lot. That's rare, I think. I don't want to lose his friendship... ever.
+ຂ້ອຍຢາກຢູ່ໃກ້ກັບມິτς. ມັນສິ້ນສຸດລົງແລ້ວ, ແລະຂ້ອຍຮູ້ມັນ, ແຕ່ຂ້ອຍຕ້ອງການຢູ່ໃກ້ລາວ, ຢ່າງໃດກໍຕາມ.
+ເຈົ້າເຫັນແລ້ວ, ຂ້ອຍຍັງມັກລາວຫຼາຍ. ນັ້ນແມ່ນຫາຍາກ, ຂ້ອຍຄິດວ່າ. ຂ້ອຍບໍ່ຢາກສູນເສຍມິດຕະພາບຂອງລາວ... ບໍ່ເຄີຍ.
+
+523
+00:31:12,350 --> 00:31:18,350
+[ANNIE]
+Hello?  Oh, hello. No, no, I wasn't asleep. What is it?  Yes, just a little while ago. Sure, hold on.  It's Mitch. For you.
+ສະບາຍດີ? ໂອ້, ສະບາຍ ດີ. ບໍ່, ບໍ່, ຂ້ອຍບໍ່ໄດ້ນອນ. ມັນເປັນຫຍັງ? ແມ່ນແລ້ວ
+, ພຽງແຕ່ກ່ອນຫນ້ານີ້. ແນ່ນອນ, ລໍຖ້າ. ມັນແມ່ນມິτς. ສໍາ ລັບເຈົ້າ.
+
+524
+00:31:18,850 --> 00:31:20,850
+[ANNIE]
+He's waiting.
+ລາວ ກໍາ ລັງລໍຖ້າ.
+
+525
+00:31:21,350 --> 00:31:27,350
+[MELANIE]
+Hello? Yes, this is Melanie. Fine, thank you. No, no trouble at all.  I simply followed the road. It's a very bright night.  What?  Oh. Well, there's no need to apologize. I can understand...  Well...  That's very kind of you. No, I'm not angry.  I couldn't. I'm afraid I have to get back to San Francisco.  No, I wouldn't want to disappoint Cathy, but...  I see.  I see. Well, if you really...  All right. Yes, I'll be there.  Good night, Mitch.
+ສະບາຍດີ? ແມ່ນແລ້ວ, ນີ້ແມ່ນເມລານີ. ດີ, ຂອບໃຈ. ບໍ່, ບໍ່ມີຄວາມຫຍຸ້ງຍາກເລີຍ. ຂ້ອຍພຽງແຕ່ຕິດຕາມທາງ. ມັນເປັນຄືນທີ່ສົດໃສຫຼາຍ. ຫຍັງ? ໂອ້. ດີໆ, ບໍ່ຈໍາເປັນຕ້ອງຂໍໂທດ. ຂ້ອຍສາມາດເຂົ້າໃຈໄດ້... ດີ
+... ນັ້ນແມ່ນຄວາມກຽດຊັງຫຼາຍຈາກເຈົ້າ. ບໍ່ແມ່ນ, ຂ້ອຍບໍ່ໂຊກຮ້າຍ. ຂ້ອຍບໍ່ສາມາດ. ຂ້ອຍຢ້ານວ່າຂ້ອຍຕ້ອງກັບຄືນໄປແຊນຟຣານຊິສກູ. ບໍ່ມີ, ຂ້ອຍຈະບໍ່ຢາກເຮັດໃຫ້ແຄຕີ້ຜິດຫວັງ, ແຕ່... ຂ້ອຍເຫັນ. ຂ້ອຍເຫັນ
+
+526
+00:31:27,850 --> 00:31:32,750
+[MELANIE]
+He wants me to go to Cathy's party tomorrow afternoon.  I said I would.
+ລາວຢາກໃຫ້ຂ້ອຍໄປງານລ້ຽງຂອງແຄຕີ້ມື້ອື່ນຕອນບ່າຍ. ຂ້ອຍບອກວ່າຂ້ອຍຈະໄປ.
+
+527
+00:31:33,250 --> 00:31:37,450
+[ANNIE]
+I'll be going, too, to help out. It should be fun, Melanie.
+ຂ້ອຍຈະໄປອີກດ້ວຍ, ເພື່ອຊ່ວຍເຫຼືອ. ມັນຄວນມ່ວນຊື່ນ, ເມລານີ.
+
+528
+00:31:37,950 --> 00:31:43,950
+[MELANIE]
+It seems so pointless.  I think I'll go to sleep. This has been a busy day.  My luggage.
+ມັນເບິ່ງຄືວ່າບໍ່ມີຄວາມ ຫມາຍ ຫຼາຍ. ຂ້ອຍຄິດວ່າຂ້ອຍຈະນອນ
+. ນີ້ແມ່ນມື້ທີ່ຫຍຸ້ງຍາກຫຼາຍ. ກະເປົາຂອງຂ້ອຍ.
+
+529
+00:31:44,450 --> 00:31:46,900
+[ANNIE]
+Pretty. Did you get that at Brinkmeyer's?
+ດີເລີດ. ເຈົ້າໄດ້ຮັບມັນຢູ່ເຮືອນບຣິນກເມຍບໍ?
+
+530
+00:31:47,400 --> 00:31:49,500
+[MELANIE]
+Do you think I should go?
+ເຈົ້າຄິດວ່າຂ້ອຍຄວນໄປບໍ?
+
+531
+00:31:50,000 --> 00:31:52,000
+[ANNIE]
+That's up to you.
+ນັ້ນຂຶ້ນກັບເຈົ້າ.
+
+532
+00:31:52,500 --> 00:31:54,950
+[MELANIE]
+It's really up to Lydia, isn't it?
+ມັນຂຶ້ນກັບລີດີຍແທ້ໆ, ແມ່ນບໍ?
+
+533
+00:31:55,450 --> 00:31:58,250
+[ANNIE]
+Never mind Lydia. Do you want to go?
+ບໍ່ເປັນຫຍັງລີດີຍ. ເຈົ້າຢາກໄປບໍ?
+
+534
+00:31:58,750 --> 00:32:00,750
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+535
+00:32:01,250 --> 00:32:03,250
+[ANNIE]
+Then go.
+ຫຼັງຈາກນັ້ນໄປ.
+
+536
+00:32:03,750 --> 00:32:05,750
+[MELANIE]
+Thank you, Annie.
+ຂອບໃຈແອນນີ.
+
+537
+00:32:06,250 --> 00:32:10,800
+[ANNIE]
+Who can that be at this hour?  Who is it?  Is someone there?
+ນັ້ນສາມາດເປັນໃຜໃນຊົ່ວໂມງນີ້? ມັນແມ່ນໃຜ? ມີໃຜຢູ່ບ່ອນນັ້ນບໍ?
+
+538
+00:32:11,300 --> 00:32:13,300
+[ANNIE]
+Is anyone there?
+ມີໃຜຢູ່ບໍ?
+
+539
+00:32:13,800 --> 00:32:15,800
+[MELANIE]
+Look.
+ເບິ່ງແມ
+
+540
+00:32:16,300 --> 00:32:20,850
+[ANNIE]
+Ohhh. Oh, the poor thing. He probably lost his way in the dark.
+ໂອ້. ໂອ້, ຄົນທຸກຍາກ. ລາວອາດຈະສູນເສຍທາງໃນຄວາມມືດ.
+
+541
+00:32:21,350 --> 00:32:24,500
+[MELANIE]
+But... it isn't dark, Annie.  There's a full moon.
+ແຕ່... ມັນບໍ່ແມ່ນມືດແອນນີ. ມີດວງຈັນເຕັມ.
+
+542
+00:32:25,000 --> 00:32:28,850
+[MELANIE]
+I really shouldn't have any more. I'm a little tipsy already.
+ຂ້ອຍບໍ່ຄວນກິນອີກເລີຍ. ຂ້ອຍດື່ມແລ້ວເລັກນ້ອຍ.
+
+543
+00:32:29,350 --> 00:32:35,350
+[MITCH]
+I'm trying to get you to stay for dinner. We're going to have a lot of roast left over.
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເຮັດໃຫ້ເຈົ້າຢູ່ກິນອາຫານຄໍ່າ
+. ພວກເຮົາມີອາຫານເຜັດທີ່ເຫຼືອຫຼາຍ.
+
+544
+00:32:35,850 --> 00:32:38,650
+[MELANIE]
+I couldn't possibly. I have to get back.
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້. ຂ້ອຍຕ້ອງກັບຄືນໄປບ່ອນ.
+
+545
+00:32:39,150 --> 00:32:41,150
+[MITCH]
+Cheers.
+ສະບາຍດີ.
+
+546
+00:32:41,650 --> 00:32:43,650
+[MELANIE]
+Cheers.
+ສະບາຍດີ.
+
+547
+00:32:44,150 --> 00:32:46,150
+[MELANIE]
+What's in this? Nitro-glycerin?
+ມີຫຍັງຢູ່ໃນສິ່ງນີ້? ໄນຕຣູ ແກລຊີເຣນບໍ?
+
+548
+00:32:46,650 --> 00:32:51,200
+[MITCH]
+Why do you have to rush off? What's so important in San Francisco?
+ເຈົ້າຕ້ອງອອກໄປຢ່າງໄວວາເປັນຫຍັງ? ມີຫຍັງສໍາຄັນຫຼາຍໃນແຊນຟຣານຊິສໂກ?
+
+549
+00:32:51,700 --> 00:32:55,900
+[MELANIE]
+Well... I have to get to work tomorrow morning, for one thing.
+ດີ... ຂ້ອຍຕ້ອງໄປເຮັດວຽກມື້ອື່ນເຊົ້າ, ເປັນສິ່ງ ຫນຶ່ງ.
+
+550
+00:32:56,400 --> 00:32:58,400
+[MITCH]
+You have a job?
+ເຈົ້າມີວຽກເຮັດບໍ?
+
+551
+00:32:58,900 --> 00:33:00,900
+[MELANIE]
+I have several jobs.
+ຂ້ອຍມີວຽກຫຼາຍຢ່າງ.
+
+552
+00:33:01,400 --> 00:33:03,400
+[MITCH]
+What do you do?
+ເຈົ້າເຮັດຫຍັງ?
+
+553
+00:33:03,900 --> 00:33:06,350
+[MELANIE]
+I do different things on different days.
+ຂ້ອຍເຮັດສິ່ງຕ່າງໆໃນມື້ຕ່າງໆ.
+
+554
+00:33:06,850 --> 00:33:08,850
+[MITCH]
+Like what?
+ເຊັ່ນວ່າຫຍັງ?
+
+555
+00:33:09,350 --> 00:33:13,900
+[MELANIE]
+On Mondays and Wednesdays, I work for the Travelers' Aid. At the airport.
+ໃນວັນຈັນແລະວັນພຸດ, ຂ້ອຍເຮັດວຽກ ສໍາ
+ລັບການຊ່ວຍເຫຼືອຜູ້ເດີນທາງ. ຢູ່ສະຫນາມບິນ.
+
+556
+00:33:14,400 --> 00:33:16,400
+[MITCH]
+Helping travelers.
+ຊ່ວຍຜູ້ເດີນທາງ.
+
+557
+00:33:16,900 --> 00:33:18,900
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+558
+00:33:19,400 --> 00:33:25,400
+[MELANIE]
+And on Tuesdays, I take a course in General Semantics at Berkeley.  That's not a job, of course. I just take it because...
+ແລະໃນວັນອັງຄານ, ຂ້ອຍຮຽນຫຼັກສູດກ່ຽວກັບ Semantics ທົ່ວໄປໃນເບີກເກີ
+. ນັ້ນບໍ່ແມ່ນວຽກງານ, ແນ່ນອນ. ຂ້ອຍພຽງແຕ່ເອົາມັນເພາະວ່າ...
+
+559
+00:33:25,900 --> 00:33:27,900
+[MITCH]
+What about Thursdays and Fridays?
+ແລະວັນພະຫັດແລະວັນສຸກແນວໃດ?
+
+560
+00:33:28,400 --> 00:33:34,400
+[MELANIE]
+On Thursdays I have my meeting and lunch.  I'm chairman of a group that's sending a little Korean boy through school. We plan how to raise funds and... things like that.
+ໃນວັນພະຫັດຂ້ອຍມີກອງປະຊຸມແລະອາຫານທ່ຽງຂອງຂ້ອຍ. ຂ້ອຍເປັນປະທານຂອງກຸ່ມທີ່ ກໍາ
+ລັງສົ່ງເດັກຊາຍເກົາຫລີນ້ອຍຜ່ານໂຮງຮຽນ. ພວກເຮົາວາງແຜນວິທີການເກັບເງິນແລະ... ສິ່ງຕ່າງໆເຊັ່ນນັ້ນ.
+
+561
+00:33:34,900 --> 00:33:37,350
+[MITCH]
+And Fridays? What do you do then?
+ແລະວັນສຸກ? ເຈົ້າເຮັດຫຍັງຫຼັງຈາກນັ້ນ?
+
+562
+00:33:37,850 --> 00:33:40,650
+[MELANIE]
+Nothing.  I go to bird shops on Fridays.
+ບໍ່ມີຫຍັງເລີຍ. ຂ້ອຍໄປຮ້ານຂາຍນົກໃນວັນສຸກ.
+
+563
+00:33:41,150 --> 00:33:43,150
+[MITCH]
+I'm glad you do.
+ຂ້ອຍດີໃຈທີ່ເຈົ້າເຮັດ.
+
+564
+00:33:43,650 --> 00:33:47,150
+[MELANIE]
+Do you know what I was doing in that shop?
+ເຈົ້າຮູ້ວ່າຂ້ອຍ ກໍາ ລັງເຮັດຫຍັງຢູ່ຮ້ານຄ້ານັ້ນບໍ?
+
+565
+00:33:47,650 --> 00:33:49,650
+[MITCH]
+What?
+ຫຍັງ?
+
+566
+00:33:50,150 --> 00:33:56,150
+[MELANIE]
+I have an aunt, you see. Aunt Tessa. She's seventy years old, and veddy prim and strait-laced.  She's coming back from Europe at the end of the month, and I'm going to give her a myna bird that'll talk to her.
+ຂ້ອຍມີແມ່ຕູ້, ເຈົ້າເຫັນແລ້ວ. ແມ່ຕູ້ເທສຊາ. ນາງອາຍຸເຈັດສິບປີ, ແລະ Veddy prim
+ແລະສາຍແອວສັ້ນ. ນາງຈະກັບມາຈາກເອີຣົບໃນທ້າຍເດືອນ, ແລະຂ້ອຍຈະໃຫ້ນາງນົກ myna ທີ່ຈະເວົ້າກັບນາງ.
+
+567
+00:33:56,650 --> 00:33:58,650
+[MITCH]
+What'll it say?
+ມັນຈະຂຽນຫຍັງ?
+
+568
+00:33:59,150 --> 00:34:01,250
+[MELANIE]
+You'll think me very bold, sir.
+ເຈົ້າຈະຄິດວ່າຂ້ອຍກ້າຫານຫຼາຍເດີເດີເດີ.
+
+569
+00:34:01,750 --> 00:34:03,750
+[MITCH]
+No, tell me.
+ບໍ່, ບອກຂ້ອຍ.
+
+570
+00:34:04,250 --> 00:34:10,250
+[MELANIE]
+That's silly, isn't it?  Teaching a bird to shock my aunt. That's just silly and childish.  Maybe I ought to go join the other children.
+ນັ້ນແມ່ນໂງ່, ແມ່ນບໍ? ການສອນນົກໃຫ້ຕື່ນເຕັ້ນແມ່ຕູ້ຂອງຂ້ອຍ.
+ນັ້ນພຽງແຕ່ໂງ່ນແລະເດັກນ້ອຍ. ບາງທີຂ້ອຍຄວນໄປເຂົ້າຮ່ວມກັບເດັກນ້ອຍຄົນອື່ນ.
+
+571
+00:34:10,750 --> 00:34:15,300
+[ANNIE]
+All right then, here we go.  Once!  Twice!  Three! Go get 'em, Cathy!
+ດີແລ້ວ, ມາແລ້ວ. ຄັ້ງຫນຶ່ງ! ສອງຄັ້ງ! ສາມຄັ້ງ! ໄປເອົາພວກມັນ, ຄາຕີ!
+
+572
+00:34:15,800 --> 00:34:17,800
+[LITTLE BOY]
+Look! Look!
+ເບິ່ງ! ເບິ່ງ!
+
+573
+00:34:18,300 --> 00:34:20,300
+[CATHY]
+No touching allowed!
+ບໍ່ອະນຸຍາດໃຫ້ຈັບ!
+
+574
+00:34:20,800 --> 00:34:22,800
+[MITCH]
+Are you all right?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+575
+00:34:23,300 --> 00:34:25,300
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+576
+00:34:25,800 --> 00:34:29,650
+[ANNIE]
+That's the darnest thing thing I've ever seen in my life.
+ນັ້ນແມ່ນສິ່ງທີ່ຮ້າຍແຮງທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນໃນຊີວິດຂອງຂ້ອຍ.
+
+577
+00:34:30,150 --> 00:34:32,150
+[LYDIA]
+Are they gone?
+ພວກເຂົາໄປແລ້ວບໍ?
+
+578
+00:34:32,650 --> 00:34:34,650
+[MITCH]
+They're gone, Mother.
+ພວກເຂົາໄປແລ້ວ, ແມ່.
+
+579
+00:34:35,150 --> 00:34:37,250
+[LYDIA]
+Well... well, is everyone all right?
+ດີ... ດີ, ທຸກຄົນດີບໍ?
+
+580
+00:34:37,750 --> 00:34:40,550
+[MITCH]
+I think he got a little scratch, Mother.
+ຂ້ອຍຄິດວ່າລາວໄດ້ຮັບກະດູກນ້ອຍໆ, ແມ່.
+
+581
+00:34:41,050 --> 00:34:43,500
+[GIRL #3]
+Did you see them? They were hawks!
+ເຈົ້າເຫັນພວກມັນບໍ? ພວກເຂົາເປັນຄຸເຂົ່າລົງ!
+
+582
+00:34:44,000 --> 00:34:46,000
+[GIRL #4]
+They were bigger than hawks!
+ພວກເຂົາໃຫຍ່ກວ່າຫອຍ!
+
+583
+00:34:46,500 --> 00:34:48,500
+[ANNIE]
+Children, they were only seagulls.
+ເດັກນ້ອຍ, ພວກເຂົາພຽງແຕ່ເປັນກະຕ່າທະເລເທົ່ານັ້ນ.
+
+584
+00:34:49,000 --> 00:34:51,800
+[CATHY]
+They must have been after the food, Mother.
+ພວກເຂົາຕ້ອງໄດ້ຕາມອາຫານ, ແມ່.
+
+585
+00:34:52,300 --> 00:34:54,300
+[MITCH]
+They didn't touch anything.
+ພວກເຂົາບໍ່ໄດ້ຈັບຫຍັງເລີຍ.
+
+586
+00:34:54,800 --> 00:35:00,400
+[ANNIE]
+Well, they're gone now, so... so let's...  Who was 'it?' You were 'it,' weren't you, Cathy?
+ດີ, ພວກເຂົາໄປແລ້ວດຽວນີ້, ສະນັ້ນ... ສະນັ້ນພວກເຮົາ
+... ແມ່ນໃຜ'ມັນ?' ເຈົ້າເປັນ'ມັນ', ແມ່ນບໍ, ຄາຕີ?
+
+587
+00:35:00,900 --> 00:35:03,000
+[GIRL #2]
+Can I be 'it,' Miss Hayworth?
+ຂ້ອຍສາມາດເປັນມັນໄດ້ບໍ, ນາງເຮວອດ?
+
+588
+00:35:03,500 --> 00:35:05,500
+[MITCH]
+You look a little shaken.
+ເຈົ້າເບິ່ງຄືວ່າສັ່ນສະເທືອນເລັກນ້ອຍ.
+
+589
+00:35:06,000 --> 00:35:12,000
+[MELANIE]
+I... I am.  Mitch, is... Mitch, this isn't usual, is it? The gull yesterday when I was in the boat, and the one last night at Annie's, and now...
+ຂ້ອຍ... ຂ້ອຍເປັນ. ມິດຊ໌, ແມ່ນ... ມິດສ໌, ນີ້ແມ່ນບໍ່ແມ່ນເລື່ອງປົກກະຕິ, ແມ່ນບໍ?
+ກະຕ່າມື້ວານນີ້ເມື່ອຂ້ອຍຢູ່ໃນເຮືອ, ແລະຄົນໃນຄືນທີ່ຜ່ານມາຢູ່ເຮືອນແອນນີ, ແລະດຽວນີ້...
+
+590
+00:35:12,500 --> 00:35:14,600
+[MITCH]
+Last night? What do you mean?
+ໃນມື້ວານນີ້? ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+591
+00:35:15,100 --> 00:35:18,600
+[MELANIE]
+A gull smashed into Annie's front door.  Mitch... what's happening?
+ແມວແມວໄດ້ຕໍາປະຕູທາງຫນ້າຂອງແອນນີ. ມິτς... ເກີດຫຍັງຂຶ້ນ?
+
+592
+00:35:19,100 --> 00:35:23,650
+[MITCH]
+I don't know, Melanie.  Look, do you have to go back to Annie's?
+ຂ້ອຍບໍ່ຮູ້, ເມລານີ. ເບິ່ງ, ເຈົ້າຕ້ອງກັບຄືນໄປບ່ອນແອນນີບໍ?
+
+593
+00:35:24,150 --> 00:35:26,950
+[MELANIE]
+No, I have my things in the car.
+ບໍ່, ຂ້ອຍມີສິ່ງຂອງຂອງຂ້ອຍຢູ່ໃນລົດ.
+
+594
+00:35:27,450 --> 00:35:33,050
+[MITCH]
+Then stay and have something to eat before you start back. I'd feel a lot better.
+ຫຼັງຈາກນັ້ນຢູ່ແລະກິນບາງສິ່ງບາງຢ່າງກ່ອນທີ່ທ່ານຈະເລີ່ມຕົ້ນຄືນ
+. ຂ້ອຍຈະຮູ້ສຶກດີຂຶ້ນຫຼາຍ.
+
+595
+00:35:33,550 --> 00:35:36,000
+[MITCH]
+Do you want some mustard with this?
+ເຈົ້າຢາກມີແມສເຕີບາງຢ່າງກັບສິ່ງນີ້ບໍ?
+
+596
+00:35:36,500 --> 00:35:38,500
+[MELANIE]
+No, thank you.
+ບໍ່ ຂອບໃຈ
+
+597
+00:35:39,000 --> 00:35:41,100
+[CATHY]
+Why didn't Annie stay for dinner?
+ເປັນຫຍັງແອນນີຈຶ່ງບໍ່ຢູ່ກິນອາຫານຄໍ່າ?
+
+598
+00:35:41,600 --> 00:35:47,550
+[MITCH]
+She said something about having to get home to take a call from her mother back East.
+ນາງເວົ້າບາງສິ່ງບາງຢ່າງກ່ຽວກັບການຕ້ອງກັບບ້ານເພື່ອຮັບໂທລະສັບຈາກແມ່ຂອງນາງກັບຄືນໄປບ່ອນຕາເວັນອອກ
+.
+
+599
+00:35:48,050 --> 00:35:50,150
+[CATHY]
+Oh. Where d'you want the coffee?
+ໂອ້. ເຈົ້າຢາກກາເຟຢູ່ໃສ?
+
+600
+00:35:50,650 --> 00:35:53,800
+[MITCH]
+Take it into the living room, would you, hon?
+ເອົາມັນໄປຫ້ອງຮັບແຂກ, ເຈົ້າຈະເຮັດແນວໃດ, ແມ?
+
+601
+00:35:54,300 --> 00:35:56,300
+[CATHY]
+What's the matter with them?
+ມີຫຍັງເກີດຂຶ້ນກັບພວກເຂົາ?
+
+602
+00:35:56,800 --> 00:35:59,250
+[LYDIA]
+What's the matter with all the birds?
+ມີຫຍັງເກີດຂຶ້ນກັບນົກທັງ ຫມົດ?
+
+603
+00:35:59,750 --> 00:36:05,350
+[LYDIA]
+Hurry up with the rest, Mitch. I'm sure Miss Daniels wants to get on her way.
+ໄວກັບສ່ວນທີ່ເຫຼືອ, ມິτς. ຂ້ອຍແນ່ໃຈວ່ານາງດານີເລສຢາກໄປທາງຂອງນາງ.
+
+604
+00:36:05,850 --> 00:36:09,000
+[CATHY]
+I think you ought to stay the night, Melanie.
+ຂ້ອຍຄິດວ່າເຈົ້າຄວນຢູ່ຄືນນີ້, ເມລານີ.
+
+605
+00:36:09,500 --> 00:36:12,300
+[CATHY]
+We've got an extra room upstairs and everything.
+ພວກເຮົາມີຫ້ອງເພີ່ມເຕີມຢູ່ເທິງແລະທຸກຢ່າງ.
+
+606
+00:36:12,800 --> 00:36:16,300
+[MITCH]
+That road can be a bad one at night, Melanie.
+ທາງນັ້ນອາດຈະເປັນທາງທີ່ບໍ່ດີໃນຕອນກາງຄືນ, ເມລານີ.
+
+607
+00:36:16,800 --> 00:36:21,700
+[MELANIE]
+If I go across to Santa Rosa I'll come onto the freeway much earlier.
+ຖ້າຂ້ອຍຂ້າມໄປຫາຊານຕາ ໂຣຊາ ຂ້ອຍຈະມາທາງດ່ວນກ່ອນຫຼາຍ.
+
+608
+00:36:22,200 --> 00:36:25,000
+[LYDIA]
+Yeah, and the freeway's well-lighted, isn't it, Mitch?
+ແມ່ນແລ້ວ, ແລະທາງດ່ວນມີແສງສະຫວ່າງດີ, ແມ່ນບໍ, ມິτς?
+
+609
+00:36:25,500 --> 00:36:30,050
+[MITCH]
+Yeah, but she'll be hitting all that traffic going back to San Francisco.
+ແມ່ນແລ້ວ, ແຕ່ນາງຈະພົບກັບການຈະລາຈອນທັງ
+ຫມົດ ທີ່ກັບຄືນໄປແຊນຟຣານຊິສໂກ.
+
+610
+00:36:30,550 --> 00:36:33,700
+[CATHY]
+Did you put the cover on that cage, Mom?
+ເຈົ້າເອົາຜ້າປົກໃສ່ກະຕ່ານັ້ນບໍ, ແມ່?
+
+611
+00:36:34,200 --> 00:36:36,200
+[LYDIA]
+Yes, I did.
+ແມ່ນແລ້ວ, ຂ້ອຍເຮັດ.
+
+612
+00:36:36,700 --> 00:36:38,700
+[CATHY]
+Just listen to them!
+ພຽງແຕ່ຟັງພວກເຂົາ!
+
+613
+00:36:39,200 --> 00:36:41,200
+[MITCH]
+Some cream?
+ມີຄຣີມບໍ?
+
+614
+00:36:41,700 --> 00:36:43,700
+[MELANIE]
+I'll get it.
+ຂ້ອຍຈະເອົາມັນ.
+
+615
+00:36:44,200 --> 00:36:46,200
+[MELANIE]
+Mitch...
+ມິτς...
+
+616
+00:36:46,700 --> 00:36:48,700
+[MELANIE]
+Mitch!
+ມິτς!
+
+617
+00:36:49,200 --> 00:36:51,200
+[MITCH]
+Get outside! Run!
+ອອກໄປ! ແລ່ນ!
+
+618
+00:36:51,700 --> 00:36:53,700
+[MITCH]
+Mother!
+ແມ່!
+
+619
+00:36:54,200 --> 00:36:56,200
+[MITCH]
+Cathy, get some matches!
+ແຄຕຕີ້, ເອົາໄຟບາງຢ່າງ!
+
+620
+00:36:56,700 --> 00:36:58,700
+[MELANIE]
+Mitch! The curtains!
+ມິτς! ຄຸເຂົ່າລົງ!
+
+621
+00:36:59,200 --> 00:37:01,200
+[CATHY]
+It's working! The fire's working!
+ມັນເຮັດວຽກ! ໄຟເຮັດວຽກ!
+
+622
+00:37:01,700 --> 00:37:03,800
+[MALONE]
+That's a chimney swift, all right.
+ນັ້ນແມ່ນກະຕູ້ໄຟຟ້າ, ດີແລ້ວ.
+
+623
+00:37:04,300 --> 00:37:06,400
+[MITCH]
+We know what it is, Al.
+ພວກເຮົາຮູ້ວ່າມັນເປັນຫຍັງ, ອາລ.
+
+624
+00:37:06,900 --> 00:37:09,700
+[MALONE]
+Well, these birds live in chimneys, you know.
+ດີ, ນົກເຫຼົ່ານີ້ອາໄສຢູ່ໃນຕູ້ໄຟ, ເຈົ້າຮູ້ແລ້ວ.
+
+625
+00:37:10,200 --> 00:37:12,200
+[MITCH]
+Not by the thousands.
+ບໍ່ແມ່ນໂດຍຫຼາຍພັນຄົນ.
+
+626
+00:37:12,700 --> 00:37:17,950
+[MALONE]
+No, I gotta admit this is peculiar.  Did you have a light burning or something.
+ບໍ່, ຂ້ອຍຕ້ອງຍອມຮັບວ່າມັນແປກໃຈ.
+ເຈົ້າມີແສງໄຟໄຫມ້ຫຼືບາງສິ່ງບາງຢ່າງບໍ.
+
+627
+00:37:18,450 --> 00:37:20,550
+[MITCH]
+Yes, but the curtains were drawn.
+ແມ່ນແລ້ວ, ແຕ່ຜ້າຝາຖືກດຶງ.
+
+628
+00:37:21,050 --> 00:37:25,950
+[MALONE]
+'Cause sometimes birds are attracted by light, you know.  Sure is a peculiar thing.
+ເພາະວ່າບາງຄັ້ງນົກຖືກດຶງດູດໂດຍແສງສະຫວ່າງ,
+ເຈົ້າຮູ້ແລ້ວ. ແນ່ນອນວ່າມັນເປັນສິ່ງທີ່ແປກໃຈ.
+
+629
+00:37:26,450 --> 00:37:29,600
+[MITCH]
+What are we going to do about it, Al?
+ພວກເຮົາຈະເຮັດແນວໃດກ່ຽວກັບມັນ, ອາລ?
+
+630
+00:37:30,100 --> 00:37:33,600
+[MALONE]
+I don't think I get you, Mitch. Do about what?
+ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍເຂົ້າໃຈເຈົ້າ, ມິτς. ເຮັດຫຍັງ?
+
+631
+00:37:34,100 --> 00:37:36,200
+[MITCH]
+Well...  Well... these birds attacked us.
+ດີ... ດີ... ນົກເຫຼົ່ານີ້ໄດ້ໂຈມຕີພວກເຮົາ.
+
+632
+00:37:36,700 --> 00:37:41,600
+[MALONE]
+What's more likely, they got in the room and was just panicked, that's all.
+ສິ່ງທີ່ເປັນໄປໄດ້ຫຼາຍຂຶ້ນ,
+ພວກເຂົາເຂົ້າໄປໃນຫ້ອງແລະພຽງແຕ່ຢ້ານກົວ, ນັ້ນແມ່ນທັງຫມົດ.
+
+633
+00:37:42,100 --> 00:37:48,100
+[MITCH]
+All right, I'll grant you a bird'll panic in an enclosed room. But, they didn't just get in. They came in! Right down that chimney.
+ດີແລ້ວ, ຂ້ອຍຈະຍອມຮັບເຈົ້າວ່ານົກຈະຢ້ານກົວໃນຫ້ອງທີ່ປິດບັງ. ແຕ່,
+ພວກເຂົາບໍ່ໄດ້ເຂົ້າມາພຽງແຕ່. ພວກເຂົາເຂົ້າມາ! ຢູ່ລຸ່ມທ້ອງຖິ່ນນັ້ນ.
+
+634
+00:37:48,600 --> 00:37:53,150
+[MALONE]
+My wife found a bird in the back seat of her car once.
+ເມຍຂອງຂ້ອຍພົບນົກໃນບ່ອນນັ່ງຫຼັງຂອງລົດຂອງນາງຄັ້ງຫນຶ່ງ.
+
+635
+00:37:53,650 --> 00:37:59,650
+[MALONE]
+Didn't know how he got in there. Had a broken leg, turned out. Just fluttering all around there.
+ບໍ່ຮູ້ວ່າລາວເຂົ້າໄປໃນບ່ອນນັ້ນແນວໃດ. ມີຕີນແຕກ,
+ປາກົດວ່າ. ພຽງແຕ່ fluttering ຢູ່ທົ່ວໄປບ່ອນນັ້ນ.
+
+636
+00:38:00,150 --> 00:38:02,150
+[MITCH]
+These birds were...
+ນົກເຫຼົ່ານີ້ແມ່ນ...
+
+637
+00:38:02,650 --> 00:38:08,650
+[MALONE]
+What I'm trying to say, Mitch, is these things happen sometimes, you know? Ain't much we can do about it.
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເວົ້າຫຍັງ, ມິτς, ສິ່ງເຫຼົ່ານີ້ເກີດຂຶ້ນບາງຄັ້ງບໍ
+, ເຈົ້າຮູ້ບໍ? ບໍ່ມີຫຼາຍຢ່າງທີ່ພວກເຮົາສາມາດເຮັດໄດ້ກ່ຽວກັບມັນ.
+
+638
+00:38:09,150 --> 00:38:11,150
+[LYDIA]
+Tell him about the party.
+ບອກລາວກ່ຽວກັບງານລ້ຽງ.
+
+639
+00:38:11,650 --> 00:38:16,200
+[MITCH]
+That's right. We had a party here this afternoon for Cathy. Her birthday.
+ນັ້ນແມ່ນແລ້ວ. ພວກເຮົາມີງານລ້ຽງຢູ່ນີ້ຕອນບ່າຍນີ້
+ສໍາ ລັບແຄຕີ້. ວັນເກີດຂອງນາງ.
+
+640
+00:38:16,700 --> 00:38:19,500
+[MALONE]
+Oh, yeah, yeah.  How old is she now?
+ໂອ້ ແມ່ນແລ້ວ, ແມ່ນແລ້ວ. ນາງອາຍຸຫຼາຍປານໃດດຽວນີ້?
+
+641
+00:38:20,000 --> 00:38:26,000
+[MITCH]
+Eleven. In the middle of the party, some gulls came down at the children. And Miss Daniels was attacked by a gull just yesterday after...
+ສິບຫນຶ່ງ. ໃນກາງງານລ້ຽງ, ແມວບາງຄົນລົງໃສ່ເດັກນ້ອຍ.
+ແລະນາງດານີເລສຖືກໂຈມຕີໂດຍແມວພຽງແຕ່ມື້ວານນີ້ຫຼັງຈາກ...
+
+642
+00:38:26,500 --> 00:38:32,500
+[MALONE]
+Yeah.  Were the kids bothering them or something? 'Cause sometimes they'll do that, you know. If you make any kind of disturbance near them, they'll just come after you. I seen that plenty of times myself.
+ແມ່ນແລ້ວ. ເດັກນ້ອຍ ກໍາ ລັງກັງວົນພວກເຂົາຫຼືບາງສິ່ງບາງຢ່າງບໍ? ເພາະວ່າບາງຄັ້ງພວກເຂົາຈະເຮັດແບບນັ້ນ, ເຈົ້າຮູ້ແລ້ວ
+. ຖ້າເຈົ້າເຮັດໃຫ້ຄວາມລົບກວນໃດໆຢູ່ໃກ້ກັບພວກເຂົາ, ພວກເຂົາພຽງແຕ່ຈະມາຕາມເຈົ້າ. ຂ້ອຍເຫັນມັນຫຼາຍຄັ້ງເອງ.
+
+643
+00:38:33,000 --> 00:38:36,850
+[LYDIA]
+The children were playing a game, Al. Those gulls attacked without...
+ເດັກນ້ອຍ ກໍາ ລັງຫຼິ້ນເກມ, ອາລ.
+ພວກກະຕ່າເຫຼົ່ານັ້ນໄດ້ໂຈມຕີໂດຍບໍ່ມີ...
+
+644
+00:38:37,350 --> 00:38:43,350
+[MALONE]
+Now, Lydia, 'attack' is a pretty strong word, don't you think? I mean, birds just don't go around attacking people without no reason, you know what I mean? The kids just probably scared them, that's all.
+ດຽວນີ້, ລີດີຍ,'ການໂຈມຕີ' ແມ່ນ ຄໍາ ເວົ້າທີ່ແຂງແຮງຫຼາຍ, ເຈົ້າບໍ່ຄິດບໍ? ຂ້ອຍຫມາຍຄວາມວ່າ, ນົກພຽງແຕ່ບໍ່ໄປຢູ່ທົ່ວໄປໂຈມ
+ຕີຄົນໂດຍບໍ່ມີເຫດຜົນ, ເຈົ້າຮູ້ວ່າຂ້ອຍ ຫມາຍ ຄວາມວ່າແນວໃດ? ເດັກນ້ອຍພຽງແຕ່ອາດຈະຢ້ານພວກເຂົາ, ນັ້ນແມ່ນທັງຫມົດ.
+
+645
+00:38:43,850 --> 00:38:45,850
+[LYDIA]
+These birds attacked!
+ນົກເຫຼົ່ານີ້ໄດ້ໂຈມຕີ!
+
+646
+00:38:46,350 --> 00:38:52,350
+[MALONE]
+Well, what would you like me to do, Lydia? Put out a pick up and hold on any suspicious birds in the area?  Now, that'd be pretty silly, wouldn't it?
+ດີ, ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ, ລີດີຍ?
+ອອກເອົາແລະຈັບນົກທີ່ສົງໄສໃດໆໃນເຂດນີ້ບໍ? ດຽວນີ້, ນັ້ນຈະເປັນໂງ່ຫຼາຍ, ແມ່ນບໍ?
+
+647
+00:38:52,850 --> 00:38:54,850
+[MITCH]
+Does this room look silly?
+ຫ້ອງນີ້ເບິ່ງຄືວ່າໂງ່ບໍ?
+
+648
+00:38:55,350 --> 00:39:01,350
+[MALONE]
+No, you got quite a mess here, I'll admit that.  Maybe you oughta put some screening on top of your chimney  Seems a little pointless, though. Freak accident like this wouldn't happen again in a million years.  You want some help cleaning up?
+ບໍ່, ເຈົ້າມີຄວາມສັບສົນຫຼາຍຢູ່ບ່ອນນີ້, ຂ້ອຍຍອມຮັບມັນ. ບາງທີເຈົ້າຄວນວາງການກວດສອບບາງຢ່າງຢູ່ເທິງເທິງກະຕ່າໄຟຂອງທ່ານເບິ່ງຄືວ່າບໍ່ມີຄວາມ ຫມາຍ
+ຫນ້ອຍ ຫນຶ່ງ, ເຖິງຢ່າງໃດກໍ່ຕາມ. ອຸບັດຕິເຫດທີ່ແປກໃຈເຊັ່ນນີ້ຈະບໍ່ເກີດຂຶ້ນອີກຄັ້ງໃນ ຫນຶ່ງ ລ້ານປີ. ເຈົ້າຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃນການເຮັດຄວາມສະອາດບໍ?
+
+649
+00:39:01,850 --> 00:39:03,850
+[MITCH]
+I can handle it myself.
+ຂ້ອຍສາມາດຮັບມືກັບມັນໄດ້ດ້ວຍຕົນເອງ.
+
+650
+00:39:04,350 --> 00:39:06,450
+[MELANIE]
+I'll take Cathy up to bed.
+ຂ້ອຍຈະພາແຄຕີ້ຂຶ້ນນອນ.
+
+651
+00:39:06,950 --> 00:39:08,950
+[MITCH]
+Are you staying?
+ເຈົ້າຈະຢູ່ບໍ?
+
+652
+00:39:09,450 --> 00:39:11,550
+[MELANIE]
+I think I should, don't you?
+ຂ້ອຍຄິດວ່າຂ້ອຍຄວນເຮັດ, ເຈົ້າບໍ່?
+
+653
+00:39:12,050 --> 00:39:17,300
+[MELANIE]
+I'll get my things from the car. Do you want to walk with me, Cathy?
+ຂ້ອຍຈະເອົາສິ່ງຂອງຂອງຂ້ອຍອອກຈາກລົດ. ເຈົ້າຢາກຍ່າງກັບຂ້ອຍບໍ, ຄາຕີ?
+
+654
+00:39:17,800 --> 00:39:20,950
+[MALONE]
+Well, if there's anything else I can do, Mitch...
+ດີ, ຖ້າມີຫຍັງອີກທີ່ຂ້ອຍສາມາດເຮັດໄດ້, ມິτς...
+
+655
+00:39:21,450 --> 00:39:23,550
+[MITCH]
+Thanks, Al. We'll be all right.
+ຂອບໃຈແອລ. ພວກເຮົາຈະດີດີ.
+
+656
+00:39:24,050 --> 00:39:26,050
+[MALONE]
+Goodnight, Lydia.
+ສະບາຍດີ, ລີດີຍ.
+
+657
+00:39:26,550 --> 00:39:30,050
+[MALONE]
+Sure is peculiar, I got to say that for it.
+ແນ່ນອນວ່າມັນແປກໃຈ, ຂ້ອຍຕ້ອງເວົ້າແບບນັ້ນ ສໍາ ລັບມັນ.
+
+658
+00:39:30,550 --> 00:39:34,050
+[LYDIA'S VOICE]
+Mitch! Mitch! Mitch, I'm going to drop Cathy off now.
+ມິດຊ໌! ມິτς! ມິດສ໌, ຂ້ອຍຈະສົ່ງແຄຕີ້ໄປດຽວນີ້.
+
+659
+00:39:34,550 --> 00:39:36,550
+[MITCH'S VOICE]
+Okay.
+ດີແລ້ວ.
+
+660
+00:39:37,050 --> 00:39:41,950
+[LYDIA'S VOICE]
+I'll probably drive over to the Fawcett farm. Do you need anything in town?
+ຂ້ອຍອາດຈະຂັບລົດໄປຫາຟາມຟາວເຊັດ. ເຈົ້າຕ້ອງການຫຍັງໃນເມືອງບໍ?
+
+661
+00:39:42,450 --> 00:39:44,450
+[MITCH'S VOICE]
+No.
+ບໍ່
+
+662
+00:39:44,950 --> 00:39:46,950
+[MELANIE]
+Mitch?
+ມິτς?
+
+663
+00:39:47,450 --> 00:39:49,450
+[MELANIE]
+Mitch?
+ມິτς?
+
+664
+00:39:49,950 --> 00:39:51,950
+[MELANIE]
+Chee-chee-chee-chee-chee.
+Chee-chie-chee-chee.
+
+665
+00:39:52,450 --> 00:39:54,550
+[MITCH]
+I wanted to change my shirt.
+ຂ້ອຍຢາກປ່ຽນເສື້ອຜ້າຂອງຂ້ອຍ.
+
+666
+00:39:55,050 --> 00:39:57,050
+[MITCH]
+It smelled of the fire.
+ມັນກິ່ນຫອມຂອງໄຟ.
+
+667
+00:39:57,550 --> 00:40:03,550
+[MELANIE]
+It's hard to believe anything at all happened yesterday, isn't it? It's so beautiful and still now.  I think I've got it all figured out, by the way.
+ມັນຍາກທີ່ຈະເຊື່ອວ່າມີຫຍັງເກີດຂຶ້ນມື້ວານນີ້, ແມ່ນບໍ?
+ມັນສວຍງາມຫຼາຍແລະຍັງຢູ່ດຽວນີ້. ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ຄິດທຸກຢ່າງແລ້ວ, ໂດຍທາງ.
+
+668
+00:40:04,050 --> 00:40:06,050
+[MITCH]
+Really? Tell me about it.
+ແທ້ຈິງບໍ? ບອກຂ້ອຍກ່ຽວກັບມັນ.
+
+669
+00:40:06,550 --> 00:40:08,550
+[MELANIE]
+It's an uprising.
+ມັນເປັນການກະບົດ.
+
+670
+00:40:09,050 --> 00:40:11,050
+[MITCH]
+Of birds?
+ຂອງນົກບໍ?
+
+671
+00:40:11,550 --> 00:40:13,550
+[MELANIE]
+Certainly, of birds.
+ແນ່ນອນ, ຂອງນົກ.
+
+672
+00:40:14,050 --> 00:40:20,050
+[MELANIE]
+It all started several months ago with a peasant sparrow up in the hills, a malcontent. He went around telling all the other sparrows that human beings weren't fit to rule this planet, preaching wherever anyone would listen...
+ມັນທັງ ຫມົດ ເລີ່ມຕົ້ນເມື່ອສອງສາມເດືອນກ່ອນດ້ວຍກຸ້ງກະສິກອນຢູ່ເທິງພູເຂົາ, ຄວາມບໍ່ພໍໃຈ.
+ລາວໄດ້ໄປທົ່ວໄປບອກກູ້ງອື່ນໆທັງ ຫມົດ ວ່າມະນຸດບໍ່ ເຫມາະ ສົມທີ່ຈະປົກຄອງໂລກນີ້, ປະກາດທຸກບ່ອນທີ່ໃຜຈະຟັງ...
+
+673
+00:40:20,550 --> 00:40:22,550
+[MITCH]
+Growing a beard...
+ການປູກຜົມ...
+
+674
+00:40:23,050 --> 00:40:29,050
+[MELANIE]
+Yes, of course, he had to have a beard! 'Birds of the world, unite!' he kept saying, over and over...
+ແມ່ນແລ້ວ, ແນ່ນອນ, ລາວຕ້ອງມີທ່າ!' ນົກຂອງໂລກ
+, ສາມັກຄີກັນ! ລາວສືບຕໍ່ເວົ້າ, ອີກແລະອີກ...
+
+675
+00:40:29,550 --> 00:40:31,550
+[MITCH]
+So they united.
+ສະນັ້ນພວກເຂົາຈຶ່ງສາມັກຄີກັນ.
+
+676
+00:40:32,050 --> 00:40:35,900
+[MELANIE]
+Not at first. Oh yes, a few sparrows out for kicks...
+ບໍ່ໃນຕອນ ທໍາ ອິດ. ໂອ້ ແມ່ນແລ້ວ, ແມວແມວບາງໂຕອອກໄປຫຼິ້ນ...
+
+677
+00:40:36,400 --> 00:40:38,500
+[MITCH]
+Well, they'll go along with anything.
+ດີ, ພວກເຂົາຈະຍອມຮັບກັບທຸກຢ່າງ.
+
+678
+00:40:39,000 --> 00:40:45,000
+[MELANIE]
+Sure. But eventually, even the more serious-minded birds began to listen. "Why should humans rule?" they asked themselves.
+ແນ່ນອນ. ແຕ່ໃນທີ່ສຸດ, ເຖິງແມ່ນວ່ານົກທີ່ມີຈິດໃຈທີ່ຮ້າຍແຮງກວ່າເກົ່າກໍ່ເລີ່ມຟັງ
+."ເປັນຫຍັງມະນຸດຄວນປົກຄອງ?" ພວກເຂົາຖາມຕົວເອງ.
+
+679
+00:40:45,500 --> 00:40:47,500
+[MITCH]
+Hear!
+ຟັງ!
+
+680
+00:40:48,000 --> 00:40:50,800
+[MELANIE]
+Why should we submit ourselves to their domination?
+ເປັນຫຍັງພວກເຮົາຈຶ່ງຕ້ອງຍອມຮັບການປົກຄອງຂອງພວກເຂົາ?
+
+681
+00:40:51,300 --> 00:40:53,300
+[MITCH]
+Hear, hear!
+ຟັງ, ຟັງ!
+
+682
+00:40:53,800 --> 00:40:59,750
+[MELANIE]
+And all the while, that sparrow was getting in his little messages. Birds of the world, unite!
+ແລະໃນເວລານັ້ນທັງ ຫມົດ, ແມວແມວນັ້ນ ກໍາ
+ລັງໄດ້ຮັບຂໍ້ຄວາມນ້ອຍໆຂອງລາວ. ນົກຂອງໂລກ, ສາມັກຄີກັນ!
+
+683
+00:41:00,250 --> 00:41:02,250
+[MITCH]
+Take wing!
+ເອົາຄຸເຂົ່າລົງ!
+
+684
+00:41:02,750 --> 00:41:05,550
+[MELANIE]
+You have nothing to lose but your feathers.
+ເຈົ້າບໍ່ມີຫຍັງທີ່ຈະສູນເສຍນອກຈາກຝ້າຍຂອງທ່ານ.
+
+685
+00:41:06,050 --> 00:41:08,050
+[MITCH]
+What it was, probably...
+ມັນເປັນຫຍັງ, ບາງທີ...
+
+686
+00:41:08,550 --> 00:41:10,550
+[MELANIE]
+Mmm?
+ມມມມ
+
+687
+00:41:11,050 --> 00:41:17,050
+[MITCH]
+They're probably hungry, that's all. This was a bad summer. They eat berries and... and nuts, you know, and the hills are all burned out, so they're probably searching for food wherever they can get it.
+ພວກເຂົາອາດຈະຫິວ, ນັ້ນແມ່ນທັງຫມົດ. ນີ້ແມ່ນລະດູຮ້ອນທີ່ບໍ່ດີ. ພວກເຂົາກິນ ຫມາກ ໄມ້ແລະ... ແລະ ຫມາກ ນັດ, ເຈົ້າຮູ້ແລ້ວ
+, ແລະພູເຂົາທັງ ຫມົດ ຖືກເຜົາໄຫມ້, ສະນັ້ນພວກເຂົາອາດຈະ ກໍາ ລັງຊອກຫາອາຫານຢູ່ບ່ອນໃດທີ່ພວກເຂົາສາມາດໄດ້ຮັບມັນໄດ້.
+
+688
+00:41:17,550 --> 00:41:19,650
+[MELANIE]
+With my little sparrow leading team.
+ກັບທີມງານນໍາພາແມວນ້ອຍຂອງຂ້ອຍ.
+
+689
+00:41:20,150 --> 00:41:22,250
+[MITCH]
+It's so damn quiet out there.
+ມັນງຽບສະຫງົບຫຼາຍຢູ່ບ່ອນນັ້ນ.
+
+690
+00:41:22,750 --> 00:41:24,750
+[MELANIE]
+It was like that yesterday.
+ມັນເປັນແບບນັ້ນມື້ວານນີ້.
+
+691
+00:41:25,250 --> 00:41:27,250
+[MITCH]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+692
+00:41:27,750 --> 00:41:29,750
+[MELANIE]
+After the gulls attacked.
+ຫຼັງຈາກແມວໂຈມຕີ.
+
+693
+00:41:30,250 --> 00:41:33,750
+[MITCH]
+I hadn't thought of that.  And then the swifts came.
+ຂ້ອຍບໍ່ໄດ້ຄິດເລື່ອງນັ້ນ. ແລະຫຼັງຈາກນັ້ນ Swift ໄດ້ມາ.
+
+694
+00:41:34,250 --> 00:41:38,450
+[MELANIE]
+It makes you feel as if they're... they're waiting or... resting... or....
+ມັນເຮັດໃຫ້ເຈົ້າຮູ້ສຶກວ່າພວກເຂົາ... ພວກເຂົາ
+ກໍາ ລັງລໍຖ້າຫຼື... ພັກຜ່ອນ... ຫຼື....
+
+695
+00:41:38,950 --> 00:41:44,200
+[MITCH]
+No, they're having a meeting, Melanie. Your sparrow is standing on a soap box and...
+ບໍ່, ພວກເຂົາ ກໍາ ລັງຈັດກອງປະຊຸມ, ເມລານີ.
+ກະຕ່າກະຕ່າຂອງທ່ານ ກໍາ ລັງຢືນຢູ່ເທິງກ່ອງສະບູແລະ...
+
+696
+00:41:44,700 --> 00:41:46,700
+[MITCH]
+...waving his little wings...
+... ລັ່ນກະຕ່ານ້ອຍໆຂອງລາວ...
+
+697
+00:41:47,200 --> 00:41:53,200
+[MELANIE]
+They were angry, Mitch. They came out of the chimney in fury.  I had the feeling they wanted each and every one of us dead.
+ພວກເຂົາໂຊກຮ້າຍ, ມິτς. ພວກເຂົາອອກມາຈາກຫີນບັ້ງໄຟດ້ວຍຄວາມໂ
+ຊກຮ້າຍ. ຂ້ອຍມີຄວາມຮູ້ສຶກວ່າພວກເຂົາຢາກໃຫ້ພວກເຮົາທຸກຄົນຕາຍ.
+
+698
+00:41:53,700 --> 00:41:55,700
+[MITCH]
+Melanie, Melanie...
+ແມລານີ, ແມລາເນຍ...
+
+699
+00:41:56,200 --> 00:41:58,200
+[MELANIE]
+I'm frightened, Mitch.
+ຂ້ອຍຢ້ານກົວ, ມິτς.
+
+700
+00:41:58,700 --> 00:42:00,700
+[MITCH]
+No, no...
+ບໍ່, ບໍ່...
+
+701
+00:42:01,200 --> 00:42:07,200
+[MELANIE]
+I'm frightened and confused and I... I think I want to go back to San Francisco where there are buildings and... and concrete and...
+ຂ້ອຍຢ້ານກົວແລະສັບສົນແລະຂ້ອຍ... ຂ້ອຍຄິດວ່າຂ້ອຍຢາກກັບຄືນໄປແຊນຟຣານຊິສໂກ
+ບ່ອນທີ່ມີອາຄານແລະ... ແລະຄອນກີດແລະ...
+
+702
+00:42:07,700 --> 00:42:09,700
+[MITCH]
+Melanie...
+ແມລານີ...
+
+703
+00:42:10,200 --> 00:42:12,200
+[MELANIE]
+...everything I know.
+... ທຸກຢ່າງທີ່ຂ້ອຍຮູ້.
+
+704
+00:42:12,700 --> 00:42:16,900
+[MELANIE]
+Oh damn it, why did you have to walk into that shop?
+ໂອ້ ສະບາຍດີ, ເຈົ້າຕ້ອງເຂົ້າໄປໃນຮ້ານຄ້ານັ້ນເປັນຫຍັງ?
+
+705
+00:42:17,400 --> 00:42:19,400
+[LYDIA]
+Dan?
+ດານ?
+
+706
+00:42:19,900 --> 00:42:21,900
+[LYDIA]
+Dan?
+ດານ?
+
+707
+00:42:22,400 --> 00:42:24,400
+[LYDIA]
+Hi, there!
+ສະບາຍດີ!
+
+708
+00:42:24,900 --> 00:42:26,900
+[LYDIA]
+Is Mr. Fawcett home?
+ທ້າວຟາວເຊັດຢູ່ເຮືອນບໍ?
+
+709
+00:42:27,400 --> 00:42:33,000
+[FARMHAND]
+I think so, ma'm. His missus is in Santa Cruz, but he ought to be here.
+ຂ້ອຍຄິດວ່າເປັນ, ແມ່. ເມຍຂອງລາວຢູ່ໃນຊານຕາ
+ຄຣູຊ, ແຕ່ລາວຄວນຢູ່ບ່ອນນີ້.
+
+710
+00:42:33,500 --> 00:42:35,600
+[LYDIA]
+Have you seen him this morning?
+ເຈົ້າເຫັນລາວໃນຕອນເຊົ້ານີ້ບໍ?
+
+711
+00:42:36,100 --> 00:42:38,100
+[LYDIA]
+Thank you!
+ຂອບໃຈ!
+
+712
+00:42:38,600 --> 00:42:42,100
+[LYDIA]
+Here, chick, chick, chick, chick. Here, chick, chick, chick, chick.
+ມາແລ້ວ, ນາງສາວ, ເດັກຍິງ, ເດັກສາວ, ເດັກນ້ອຍ
+. ມາແລ້ວແມ, ແມ່ສາວ, ແມ່ຍິງ, ແມ່ຊາຍ.
+
+713
+00:42:42,600 --> 00:42:44,600
+[LYDIA]
+Dan?
+ດານ?
+
+714
+00:42:45,100 --> 00:42:47,100
+[LYDIA]
+Dan? Are you home?
+ດານ? ເຈົ້າຢູ່ເຮືອນບໍ?
+
+715
+00:42:47,600 --> 00:42:49,600
+[LYDIA]
+Dan?
+ດານ?
+
+716
+00:42:50,100 --> 00:42:52,100
+[LYDIA]
+Dan?
+ດານ?
+
+717
+00:42:52,600 --> 00:42:54,600
+[LYDIA]
+Dan? Are you in there?
+ດານ? ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ?
+
+718
+00:42:55,100 --> 00:42:57,100
+[MITCH]
+What is it?
+ມັນເປັນຫຍັງ?
+
+719
+00:42:57,600 --> 00:43:03,600
+[MITCH]
+That was Al on the phone. He wants me to meet him out at the Fawcett place. Says some detectives from Santa Rosa'll be there in a little while.  Will you be all right here?
+ນັ້ນແມ່ນອາລ ໃນໂທລະສັບ. ລາວຢາກໃຫ້ຂ້ອຍພົບລາວຢູ່ເຮືອນຟາວເຊັດ.
+ກ່າວວ່ານັກສືບບາງຄົນຈາກຊານຕາ ໂຣຊາຈະຢູ່ບ່ອນນັ້ນໃນຊົ່ວຄາວສັ້ນໆ. ເຈົ້າຈະດີຢູ່ບ່ອນນີ້ບໍ?
+
+720
+00:43:04,100 --> 00:43:07,250
+[MELANIE]
+Yes. I was just taking her in some tea.
+ແມ່ນແລ້ວ. ຂ້ອຍພຽງແຕ່ເອົານາງໄປດື່ມຊາ.
+
+721
+00:43:07,750 --> 00:43:09,750
+[MELANIE]
+Be careful. Please.
+ລະມັດລະວັງ. ກະລຸນາ.
+
+722
+00:43:10,250 --> 00:43:12,250
+[LYDIA]
+Mitch?
+ມິτς?
+
+723
+00:43:12,750 --> 00:43:16,950
+[MELANIE]
+No, it's me, Mrs. Brenner. I thought you might like some tea.
+ບໍ່, ມັນແມ່ນຂ້ອຍ, ທ່ານນາງບຣັນເນີ.
+ຂ້ອຍຄິດວ່າເຈົ້າອາດຈະຕ້ອງການຊາບາງຢ່າງ.
+
+724
+00:43:17,450 --> 00:43:19,450
+[LYDIA]
+Oh, thank you.
+ໂອ້ ຂອບໃຈ.
+
+725
+00:43:19,950 --> 00:43:21,950
+[LYDIA]
+Where's Mitch?
+ມິτςຢູ່ໃສ?
+
+726
+00:43:22,450 --> 00:43:25,600
+[MELANIE]
+Al Malone wanted him out at the Fawcett farm.
+ແອລ ມາລອນຢາກໃຫ້ລາວຢູ່ຟາມຟາວເຊັດ.
+
+727
+00:43:26,100 --> 00:43:28,200
+[LYDIA]
+Why? Didn't Al believe my story?
+ເປັນຫຍັງ? ອາລບໍ່ເຊື່ອເລື່ອງຂອງຂ້ອຍບໍ?
+
+728
+00:43:28,700 --> 00:43:31,500
+[MELANIE]
+He was calling from the farm, Mrs. Brenner.
+ລາວໂທຈາກຟາມ, ທ່ານນາງບຣັນເນີ.
+
+729
+00:43:32,000 --> 00:43:34,000
+[LYDIA]
+Then he saw.
+ຫຼັງຈາກນັ້ນລາວເຫັນ.
+
+730
+00:43:34,500 --> 00:43:38,000
+[MELANIE]
+He must have. He sent for the Santa Rosa police.
+ລາວຕ້ອງໄດ້. ລາວໄດ້ສົ່ງໄປຫາຕໍາຫຼວດຊານຕາ ໂຣຊາ.
+
+731
+00:43:38,500 --> 00:43:40,500
+[LYDIA]
+What good will they do?
+ພວກເຂົາຈະເຮັດຫຍັງດີ?
+
+732
+00:43:41,000 --> 00:43:43,100
+[LYDIA]
+Do you think Cathy's all right?
+ເຈົ້າຄິດວ່າແຄຕີ້ດີບໍ?
+
+733
+00:43:43,600 --> 00:43:45,600
+[MELANIE]
+What?
+ຫຍັງ?
+
+734
+00:43:46,100 --> 00:43:48,100
+[LYDIA]
+Cathy. At the school.
+ແຄຕຕີ້. ຢູ່ໂຮງຮຽນ.
+
+735
+00:43:48,600 --> 00:43:50,600
+[MELANIE]
+Yes, I'm sure she's fine.
+ແມ່ນແລ້ວ, ຂ້ອຍແນ່ໃຈວ່ານາງບໍ່ເປັນຫຍັງ.
+
+736
+00:43:51,100 --> 00:43:53,200
+[LYDIA]
+Do I sound foolish to you?
+ຂ້ອຍເບິ່ງຄືວ່າໂງ່ບໍ?
+
+737
+00:43:53,700 --> 00:43:55,700
+[MELANIE]
+No.
+ບໍ່
+
+738
+00:43:56,200 --> 00:44:02,200
+[LYDIA]
+I keep seeing Dan Fawcett's face.  They have such big windows at the school.  All the windows were broken. In Dan's bedroom. All the windows.
+ຂ້ອຍຍັງເຫັນໃບຫນ້າຂອງດານ ຟາວເຊັດຢູ່ສະເຫມີ. ພວກເຂົາມີປ່ອງຢ້ຽມໃຫຍ່ຫຼາຍໃນໂຮງຮຽນ
+. ປ່ອງຢືນທັງ ຫມົດ ຖືກແຕກ. ໃນຫ້ອງນອນຂອງດັນ. ປ້ອງຢ້ຽມທັງ ຫມົດ.
+
+739
+00:44:02,700 --> 00:44:05,500
+[MELANIE]
+Try not to think of that, Mrs. Brenner.
+ພະຍາຍາມບໍ່ຄິດເລື່ອງນັ້ນ, ທ່ານນາງບຣັນເນີ.
+
+740
+00:44:06,000 --> 00:44:12,000
+[LYDIA]
+I wish I were a stronger person. There is a long awkward silence. She sips at her tea reflectively.
+ຂ້ອຍຢາກວ່າຂ້ອຍເປັນຄົນແຂງແຮງກວ່າເກົ່າ.
+ມີຄວາມງຽບສະຫງົບທີ່ຫຍຸ້ງຍາກຍາວນານ. ນາງດື່ມຊາຂອງນາງຢ່າງສະທ້ອນ.
+
+741
+00:44:12,500 --> 00:44:18,500
+[LYDIA]
+I lost my husband four years ago, you know.  It's odd how you depend on someone for strength, and then suddenly all the strength is gone, and you're alone.  I'd love to relax some time. I'd love to be able to sleep.  Do you think Cathy's all right?
+ຂ້ອຍໄດ້ສູນເສຍຜົວຂອງຂ້ອຍເມື່ອສີ່ປີກ່ອນ, ເຈົ້າຮູ້ແລ້ວ. ມັນແປກໃຈວ່າເຈົ້າຂື້ນກັບຄົນໃດ ຫນຶ່ງ ສໍາ ລັບຄວາມເຂັ້ມແຂງ, ແລະຫຼັງຈາກນັ້ນທັນທີແຮງທັງ
+ຫມົດ ໄດ້ຫາຍໄປ, ແລະເຈົ້າຢູ່ຄົນດຽວ. ຂ້ອຍຢາກພັກຜ່ອນບາງຄັ້ງ. ຂ້ອຍມັກທີ່ຈະສາມາດນອນໄດ້. ເຈົ້າຄິດວ່າແຄຕີ້ບໍ່ເປັນຫຍັງບໍ?
+
+742
+00:44:19,000 --> 00:44:21,100
+[MELANIE]
+Annie's there. She'll be all right.
+ແອນນີຢູ່ບ່ອນນັ້ນ. ນາງຈະດີດີ.
+
+743
+00:44:21,600 --> 00:44:27,600
+[LYDIA]
+I'm not this way, you know. Not usually. I don't fuss and fret over my children.  When Frank died...  You see, he knew the children, he really knew them. He had the knack of being able to enter into their world, of becoming a part of them. That's a rare talent.
+ຂ້ອຍບໍ່ແມ່ນແບບນີ້, ເຈົ້າຮູ້ແລ້ວ. ບໍ່ປົກກະຕິແລ້ວ. ຂ້ອຍບໍ່ກະຕຸ້ນແລະກັງວົນກ່ຽວກັບລູກຂອງຂ້ອຍ. ເມື່ອແຟຣນກ໌ຕາຍ... ເຈົ້າເຫັນແລ້ວ, ລາວຮູ້ຈັກເດັກນ້ອຍ
+, ລາວຮູ້ພວກເຂົາແທ້ໆ. ລາວມີຄວາມສາມາດໃນການສາມາດເຂົ້າໄປໃນໂລກຂອງພວກເຂົາ, ຂອງກາຍເປັນສ່ວນ ຫນຶ່ງ ຂອງພວກເຂົາ. ນັ້ນແມ່ນຄວາມສາມາດທີ່ຫາຍາກ.
+
+744
+00:44:28,100 --> 00:44:30,100
+[MELANIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+745
+00:44:30,600 --> 00:44:33,050
+[LYDIA]
+I wish I could be that way.
+ຂ້ອຍຢາກເປັນແບບນັ້ນໄດ້.
+
+746
+00:44:33,550 --> 00:44:39,550
+[LYDIA]
+I miss him.  You know, sometimes I wake up in the morning, and I think 'I have to make Frank's breakfast,' and I... I get up and there's a... a very good reason for getting out of bed until... until, of course, I remember.  I miss talking to him.  Cathy's a child, you know, and Mitch...  ...Mitch has his own life.  I'm glad he stayed here today. I feel safer with him here.
+ຂ້ອຍຂາດລາວ. ເຈົ້າຮູ້ແລ້ວ, ບາງຄັ້ງຂ້ອຍຕື່ນໃນຕອນເຊົ້າ, ແລະຂ້ອຍຄິດວ່າ'ຂ້ອຍຕ້ອງເຮັດອາຫານເຊົ້າຂອງແຟຣນກ໌,' ແລະຂ້ອຍ... ຂ້ອຍຕື່ນແລະມີ... ເຫດຜົນທີ່ດີຫຼາຍທີ່ຈະອອກຈາກຕຽງຈົນກວ່າ... ຈົນກວ່າ
+, ແນ່ນອນ, ຂ້ອຍຈື່ໄວ້. ຂ້ອຍພາດການເວົ້າກັບລາວ. ຄາຕີເປັນເດັກນ້ອຍ, ເຈົ້າຮູ້, ແລະມິτς...... ມິτςມີຊີວິດຂອງຕົນເອງ. ຂ້ອຍດີໃຈທີ່ລາວຢູ່ບ່ອນນີ້ມື້ນີ້. ຂ້ອຍຮູ້ສຶກປອດໄພກວ່າກັບລາວຢູ່ນີ້.
+
+747
+00:44:40,050 --> 00:44:42,850
+[MELANIE]
+Would you like to rest now, Mrs. Brenner.
+ເຈົ້າຢາກພັກຜ່ອນດຽວນີ້ບໍ, ທ່ານນາງບຣັນເນີ.
+
+748
+00:44:43,350 --> 00:44:49,350
+[LYDIA]
+No.  No... don't go yet.  I feel as if I... I don't understand you. And I want so much to understand.
+ບໍ່. ບໍ່... ຢ່າໄປເທື່ອ. ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍ...
+ຂ້ອຍບໍ່ເຂົ້າໃຈເຈົ້າ. ແລະຂ້ອຍຢາກເຂົ້າໃຈຫຼາຍ.
+
+749
+00:44:49,850 --> 00:44:51,850
+[MELANIE]
+Why, Mrs. Brenner?
+ເປັນຫຍັງ, ທ່ານນາງບຣັນເນີ?
+
+750
+00:44:52,350 --> 00:44:58,350
+[LYDIA]
+Because my son is...  My son seems to be fond of you.  And I...  I'm not quite sure how I feel about it. I really don't know if I... like you or not.
+ເພາະວ່າລູກຊາຍຂອງຂ້ອຍແມ່ນ... ລູກຊາຍຂອງຂ້ອຍເບິ່ງຄືວ່າມັກເຈົ້າ. ແລະຂ້ອຍ...
+ຂ້ອຍບໍ່ແນ່ໃຈວ່າຂ້ອຍຮູ້ສຶກແນວໃດກ່ຽວກັບມັນ. ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍ... ມັກເຈົ້າຫຼືບໍ່.
+
+751
+00:44:58,850 --> 00:45:02,000
+[MELANIE]
+Is that so important, Mrs. Brenner? You liking me?
+ມັນມີຄວາມສໍາຄັນຫຼາຍບໍ, ທ່ານນາງບຣັນເນີ? ເຈົ້າມັກຂ້ອຍບໍ?
+
+752
+00:45:02,500 --> 00:45:08,500
+[LYDIA]
+Yes, I think so. My son is important to me. I want to like any girl he chooses.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າເປັນ. ລູກຊາຍຂອງຂ້ອຍມີຄວາມສໍາຄັນຕໍ່ຂ້ອຍ
+. ຂ້ອຍຢາກມັກເດັກຍິງໃດທີ່ລາວເລືອກ.
+
+753
+00:45:09,000 --> 00:45:11,000
+[MELANIE]
+And if you don't?
+ແລະຖ້າເຈົ້າບໍ່ເຮັດແນວໃດ?
+
+754
+00:45:11,500 --> 00:45:15,350
+[LYDIA]
+Then I don't suppose it'll matter much to anyone but me.
+ຫຼັງຈາກນັ້ນຂ້ອຍບໍ່ຄິດວ່າມັນຈະມີຄວາມສໍາຄັນຫຼາຍຕໍ່ໃຜນອກຈາກຂ້ອຍ.
+
+755
+00:45:15,850 --> 00:45:18,650
+[MELANIE]
+I think it might also matter to Mitch.
+ຂ້ອຍຄິດວ່າມັນອາດຈະມີຄວາມສໍາຄັນຕໍ່ມິດຊ໌ເຊັ່ນກັນ.
+
+756
+00:45:19,150 --> 00:45:25,150
+[LYDIA]
+Mitch has always done exactly what he wanted to do.  I'm not complaining. That's the mark of a man.  But...  You see, I... I wouldn't want to be... be left alone. I don't think I could bear being left alone.  I... forgive me. This business with the birds has me upset.  I... I don't know what I'd do if Mitch weren't here.
+ມິτςໄດ້ເຮັດສິ່ງທີ່ລາວຢາກເຮັດຢູ່ສະເຫມີ. ຂ້ອຍບໍ່ໄດ້ຮ້ອງທຸກ. ນັ້ນແມ່ນເຄື່ອງຫມາຍຂອງຜູ້ຊາຍ. ແຕ່... ເຈົ້າເຫັນແລ້ວ, ຂ້ອຍ... ຂ້ອຍບໍ່ຢາກຖືກ... ຖືກປ່ອຍໄວ້ຄົນດຽວ.
+ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍສາມາດທົນທານໄດ້ທີ່ຈະຖືກປ່ອຍຢູ່ຄົນດຽວໄດ້. ຂ້ອຍ... ຂໍໂທດຂ້ອຍ. ເລື່ອງນີ້ກັບນົກເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍ. ຂ້ອຍ... ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຈະເຮັດຫຍັງຖ້າມິτςບໍ່ໄດ້ຢູ່ບ່ອນນີ້.
+
+757
+00:45:25,650 --> 00:45:28,800
+[MELANIE]
+Why don't you try to sleep now, Mrs. Brenner.
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ພະຍາຍາມນອນດຽວນີ້, ທ່ານນາງບຣັນເນີ.
+
+758
+00:45:29,300 --> 00:45:35,300
+[LYDIA]
+I wish I were stronger.  Do you think she's all right? Do you think she's safe at the school?
+ຂ້ອຍຢາກໃຫ້ຂ້ອຍແຂງແຮງກວ່າເກົ່າ. ເຈົ້າຄິດວ່ານາງບໍ່ເປັນຫຍັງບໍ
+? ເຈົ້າຄິດວ່ານາງປອດໄພຢູ່ໂຮງຮຽນບໍ?
+
+759
+00:45:35,800 --> 00:45:38,600
+[MELANIE]
+Would you like me to go for her?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍໄປຫານາງບໍ?
+
+760
+00:45:39,100 --> 00:45:41,100
+[LYDIA]
+I couldn't ask you to.
+ຂ້ອຍບໍ່ສາມາດຂໍໃຫ້ເຈົ້າເຮັດໄດ້.
+
+761
+00:45:41,600 --> 00:45:43,600
+[MELANIE]
+I don't mind, really.
+ຂ້ອຍບໍ່ສົນໃຈ, ແທ້ຈິງແລ້ວ.
+
+762
+00:45:44,100 --> 00:45:46,550
+[LYDIA]
+Would you? I'd feel so much better.
+ເຈົ້າຈະເຮັດບໍ? ຂ້ອຍຈະຮູ້ສຶກດີຂຶ້ນຫຼາຍ.
+
+763
+00:45:47,050 --> 00:45:49,850
+[MELANIE]
+I'll just clear up here, and then dress.
+ຂ້ອຍພຽງແຕ່ເຮັດຄວາມສະອາດບ່ອນນີ້, ແລະຫຼັງຈາກນັ້ນໃສ່ເຄື່ອງນຸ່ງຫົ່ມ.
+
+764
+00:45:50,350 --> 00:45:52,350
+[LYDIA]
+Melanie?
+ແມລານີ?
+
+765
+00:45:52,850 --> 00:45:54,850
+[LYDIA]
+Thank you for the tea.
+ຂອບໃຈ ສໍາ ລັບຊາ.
+
+766
+00:45:55,350 --> 00:46:00,250
+[CHILDREN]
+I married my wife in the month of June. Ristle-tee, rostle-tee, mo, mo mo!
+ຂ້ອຍແຕ່ງງານກັບເມຍຂອງຂ້ອຍໃນເດືອນມິຖຸນາ
+. Ristle-tee, rostle-tea, mo, mo mo!
+
+767
+00:46:00,750 --> 00:46:06,750
+[CHILDREN]
+I carried her off in a silver spoon. Ristle-tee, rostle-tee, hey bombosity, knickety-knackety, retro-retroquo- quality, willoby-wallaby, quo-mo, mo, mo!  Uality, willoby-wallaby, quo-mo, mo, mo!
+ຂ້ອຍເອົານາງໄປໃນຈານເງິນ. Ristle-tee, rostle-tea, ເຮ້ bombosity, knickety-knackety, retro-retroquo-
+ຄຸນະພາບ, willoby-wallaby, quo-mo, mo, mo! ຄຸນນະພາບ, wiloby-walabby, QUO-MO, MO, MO!
+
+768
+00:46:07,250 --> 00:46:13,250
+[CHILDREN]
+She combed her hair but once a year. Ristle-tee, rostle-tee, Mo, mo, mo! With every rake, she shed a tear. Ristle-tee, rostle-tee, hey bombosity, knickety-knackety, retro-quo-quality, willoby-wallaby, Mo, mo, mo!
+ນາງຕັດຜົມຂອງນາງແຕ່ຄັ້ງຫນຶ່ງຕໍ່ປີ. Ristle-tee, rostle-tea, Mo, mo, mo! ດ້ວຍການຂັບຂີ່ແຕ່ລະຄັ້ງ, ນາງຖິ້ມນໍ້າຕາ
+. ຣິດສ໌ຕ໌, ໂຣສຕ໌ລ໌, ເຮ້ໂບມໂບສຕິກ, knickety-knackety, ຄຸນນະພາບ retro-quo, willoby-wallaby, ມູ, ໂມ, ມຸ!
+
+769
+00:46:13,750 --> 00:46:19,750
+[CHILDREN]
+She swept the floor but once a year. Ristle-tee, rostle-tee, mo, mo, mo! She swore her broom was much too dear. Ristle-tee, rostle-tee, hey bombosity, knickety-knackety, retro- quo-quality, willoby-wallaby, mo, mo, mo!
+ນາງລ້າງພື້ນແຕ່ຄັ້ງຫນຶ່ງຕໍ່ປີ. Ristle-tee, rostle-tea, mo, mo, mo! ນາງສາບານໂຕວຂອງນາງເປັນທີ່ແພງຫຼາຍເກີນໄປ
+. ຣິດສ໌ຕ໌, ໂຣສຕ໌ລ໌, ເຮ້ໂບມໂບສ໌, knickety-knackety, retro- quo ຄຸນນະພາບ, willoby-wallaby, mo,, mo!
+
+770
+00:46:20,250 --> 00:46:26,250
+[CHILDREN]
+She churned the butter in Dad's old boot. Ristle-tee, rostle-tee, mo, mo, mo!  And for a dasher she used her foot.  Ristle-tee, rostle-tee, hey bombosity, knickety-knackety, retro-quo-quality, willoby-wallaby, mo, mo, mo!
+ນາງໄດ້ກັ່ນຕອງນ້ ໍາ ມັນໃນເກີບເກົ່າຂອງພໍ່. Ristle-tee, rostle-tea, mo, Mo, mo! ແລະ ສໍາ ລັບເຄື່ອງດາວໂຫຼດນາງໃຊ້ຕີນຂອງນາງ
+. ຣິດສ໌ຕີ້, ໂຣສຕ໌ເຕີ້, ເຮ້ໂບມໂບສຕິກ, knickety-knackety, ຄຸນນະພາບ retro-quo, willoby-wallaby, mo, mo!
+
+771
+00:46:26,750 --> 00:46:32,750
+[CHILDREN]
+The butter came out a grizzle-y- ygrey.  Ristle-tee, rostle-tee, grey. Mo, mo, mo!  The cheese took legs and ran away!  Ristle-tee, rostle- tee, hey bombosity, knickety-knackety, retro-quo-quality, willoby-wallaby, mo, mo, mo!
+ນ້ ໍາ ມັນອອກມາເປັນສີຂຽວ- y- ygrey. Ristle-tee, rostle-tea, ສີຂີ້ເຖົ່າ. Mo, mo, mo! ຊີສໄດ້ເອົາຕີນແລະແລ່ນໄປ! Ristles-tee ໄດ້
+, rostles-tea ໄດ້, ເຮ້ bombosity ໄດ້, knickety-knackety ໄດ້, ຄຸນນະພາບ retro-quo ໄດ້, willoby-wallaby ໄດ້, mo ໄດ້,mo ໄດ້!
+
+772
+00:46:33,250 --> 00:46:39,250
+[CHILDREN]
+I brought my wife a horse one day. Ristle-tee, rostle-tee, mo, mo, mo! She let the critter get away.  Ristle- tee, rostle-tee, hey bombosity, knickety-knackety, retro-quo-quality, willoby-wallaby, mo, mo, mo!
+ຂ້ອຍເອົາມ້າມາໃຫ້ເມຍຂອງຂ້ອຍໃນມື້ຫນຶ່ງ. Ristle-tee, rostle-tea, mo, Mo, mo! ນາງປ່ອຍໃຫ້ສັດລ້ຽງຫນີໄປ.
+ຣິດສ໌ຕ໌, ໂຣສຕ໌ລ໌, ເຮ້ໂບມໂບສ໌, knickety-knackety, ຄຸນນະພາບ retro-quo, willoby-wallaby, mo, mo, mo!
+
+773
+00:46:39,750 --> 00:46:45,750
+[CHILDREN]
+I asked my wife to wash the floor. Ristle-tee, rostle-tee, mo, mo, mo! She gave me my hat and showed me the door! Ristle-tee, rostle-tee, hey bombosity, knickety-knackety, Retro-quo-quality,  Willoby-wallaby, mmmmmmmo, mmmmmmmoo, Mo!
+ຂ້ອຍຂໍໃຫ້ເມຍຂອງຂ້ອຍລ້າງພື້ນ. Ristle-tee, rostle-tea, mo, mo, mo! ນາງໄດ້ໃຫ້ຂ້ອຍ ຫມວກ ຂອງຂ້ອຍແລະສະແດງໃຫ້ຂ້ອຍປະຕູ
+! ຣິດສ໌ຕ໌, ໂຣສຕ໌ລ໌, ເຮ້ໂບມໂບສ໌, knickety-knackety, ຄຸນນະພາບ retro-quo, Willoby-wallaby, mmmmmmmo, mmmmmmoo, Mo!
+
+774
+00:46:46,250 --> 00:46:52,250
+[ANNIE]
+All right, children. Now please put your books in your desks, and bring the songsheets to the front of the room. No one's going out to play until I have all the songsheets.
+ດີແລ້ວ, ເດັກນ້ອຍ. ດຽວນີ້ຂໍຮ້ອງເອົາປື້ມຂອງທ່ານໃສ່ໂຕະຂອງທ່ານ,
+ແລະເອົາແຜ່ນເພງໄປທາງຫນ້າຂອງຫ້ອງ. ບໍ່ມີໃຜຈະອອກໄປຫຼິ້ນຈົນກວ່າຂ້ອຍຈະມີແຜ່ນສຽງທັງ ຫມົດ.
+
+775
+00:46:52,750 --> 00:46:57,300
+[ANNIE]
+We're not going outside until we quiet down. Ralph? Did you hear me?
+ພວກເຮົາຈະບໍ່ອອກໄປພາຍນອກຈົນກວ່າພວກເຮົາຈະງຽບສະຫງົບ
+. ຣາລຟ໌? ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ?
+
+776
+00:46:57,800 --> 00:46:59,800
+[ANNIE]
+All right now.
+ດີແລ້ວ.
+
+777
+00:47:00,300 --> 00:47:02,300
+[ANNIE]
+wh...?
+ເປັນຫຍັງ...?
+
+778
+00:47:02,800 --> 00:47:04,800
+[MELANIE]
+Outside.
+ນອກນັ້ນ.
+
+779
+00:47:05,300 --> 00:47:11,300
+[MELANIE]
+We've got to get the children out of here. These big windows... there's no way to board them up.
+ພວກເຮົາຕ້ອງເອົາເດັກນ້ອຍອອກຈາກບ່ອນນີ້.
+ປ່ອງຢ້ຽມຂະຫນາດໃຫຍ່ເຫຼົ່ານີ້... ບໍ່ມີທາງທີ່ຈະໃສ່ພວກມັນ.
+
+780
+00:47:11,800 --> 00:47:13,800
+[ANNIE]
+Quiet down, children! Quiet down!
+ງຽບໆ, ເດັກນ້ອຍ! ງຽບ!
+
+781
+00:47:14,300 --> 00:47:20,250
+[ANNIE]
+Miss Daniels wants to see how we conduct ourselves during a fire drill. I'd like you to...
+ນາງດານີເລສຢາກເຫັນວ່າພວກເຮົາຈະປະຕິບັດຕົວເອງແນວໃດໃນລະຫວ່າງການຝຶກອົບຮົມໄຟ
+. ຂ້ອຍຢາກໃຫ້ເຈົ້າ...
+
+782
+00:47:20,750 --> 00:47:25,300
+[CHILDREN]
+A fire drill? This is our play period, Miss Hayworth! Gee whiz!  Etc.
+ການຝຶກອົບຮົມໄຟບໍ? ນີ້ແມ່ນໄລຍະການຫຼິ້ນຂອງພວກເຮົາ
+, ນາງ Hayworth! ສະບາຍດີ! ແລະອື່ນໆ.
+
+783
+00:47:25,800 --> 00:47:30,350
+[ANNIE]
+I'd like you to show her how quiet and obedient you can be.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າສະແດງໃຫ້ນາງເຫັນວ່າເຈົ້າສາມາດງຽບສະຫງົບແລະຍອມຮັບໄດ້ຫຼາຍປານໃດ
+.
+
+784
+00:47:30,850 --> 00:47:36,850
+[ANNIE]
+We're going to go out of the school now. Those of you who live nearby can go directly home. I want the rest of you to go down the hill, all the way to the hotel. Do you understand?
+ພວກເຮົາຈະອອກຈາກໂຮງຮຽນດຽວນີ້. ພວກທີ່ທ່ານອາໄສຢູ່ໃກ້ໆສາມາດກັບບ້ານໂດຍກົງໄດ້
+. ຂ້ອຍຢາກໃຫ້ສ່ວນທີ່ເຫຼືອຂອງທ່ານລົງພູ, ຕະຫຼອດທາງໄປໂຮງແຮມ. ເຈົ້າເຂົ້າໃຈບໍ?
+
+785
+00:47:37,350 --> 00:47:42,600
+[CHILDREN]
+All the way down the hill? Gee, Miss Hayworth, we never... Home? Why do we...?
+ຕະຫຼອດທາງລົງພູບໍ? ໂອ້, ນາງເຮວອດສ໌,
+ພວກເຮົາບໍ່ເຄີຍ... ກັບບ້ານບໍ? ເປັນຫຍັງພວກເຮົາ...?
+
+786
+00:47:43,100 --> 00:47:49,100
+[ANNIE]
+I want you to go as quietly as you can, not a sound, until I tell you to run. And then I want you to run as fast as you can. Does everyone understand?  All right. John, would you lead the class, please?
+ຂ້ອຍຢາກໃຫ້ເຈົ້າໄປຢ່າງງຽບສະຫງົບເທົ່າທີ່ເຈົ້າສາມາດເຮັດໄດ້, ບໍ່ມີສຽງໃດໆ, ຈົນກວ່າຂ້ອຍຈະບອກເຈົ້າໃຫ້ແລ່ນ.
+ແລະຫຼັງຈາກນັ້ນຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າແລ່ນໄວເທົ່າທີ່ທ່ານສາມາດໄດ້. ທຸກຄົນເຂົ້າໃຈບໍ? ດີແລ້ວ. ຈອນ, ເຈົ້າຈະ ນໍາ ພາຫ້ອງຮຽນ, ກະລຸນາ?
+
+787
+00:47:49,600 --> 00:47:51,600
+[MELANIE]
+Hurry!
+ໄວໆ!
+
+788
+00:47:52,100 --> 00:47:58,100
+[MELANIE]
+Daddy, there were hundreds of them. No, I'm not hysterical, I'm trying to tell you this as calmly as I know how. All right, Daddy. Yes Daddy.  Just now.  Not... fifteen minutes ago.
+ພໍ່, ມີພວກມັນຫຼາຍຮ້ອຍຄົນ. ບໍ່, ຂ້ອຍບໍ່ແມ່ນຄວາມໂຊກຮ້າຍ, ຂ້ອຍ ກໍາ ລັງພະຍາຍາມບອກເຈົ້າເລື່ອງນີ້ຢ່າງສະຫງົບໃຈເທົ່າທີ່ຂ້ອຍຮູ້ວິທີ
+. ດີແລ້ວ, ພໍ່. ແມ່ນແລ້ວພໍ່. ພຽງແຕ່ດຽວນີ້. ບໍ່ແມ່ນ... ສິບຫ້ານາທີກ່ອນ.
+
+789
+00:47:58,600 --> 00:48:03,850
+[MELANIE]
+At the school. No, I don't. Just a minute.  What's the name of the school?
+ຢູ່ໂຮງຮຽນ. ບໍ່, ຂ້ອຍບໍ່ເຮັດ. ພຽງແຕ່ນາທີຫນຶ່ງ. ຊື່ໂຮງຮຽນແມ່ນຫຍັງ?
+
+790
+00:48:04,350 --> 00:48:07,500
+[DEKE]
+Just the Bodega Bay School.  Help you, Mrs. Bundy?
+ພຽງແຕ່ໂຮງຮຽນໂບເດກາ ບາ. ຊ່ວຍເຈົ້າບໍ, ທ່ານນາງບຸນດີ?
+
+791
+00:48:08,000 --> 00:48:10,100
+[MRS. BUNDY]
+I need some change, Mr. Carter.
+ຂ້ອຍຕ້ອງການເງິນສົດບາງຢ່າງ, ທ້າວ ຄາເຕີ.
+
+792
+00:48:10,600 --> 00:48:14,100
+[MELANIE]
+The Bodega Bay School.  Could you turn that down, please?
+ໂຮງຮຽນໂບເດກາ ບາ. ເຈົ້າສາມາດຫຼຸດລົງໄດ້ບໍ, ກະລຸນາ?
+
+793
+00:48:14,600 --> 00:48:18,100
+[MELANIE]
+I don't know how many children. Thirty or forty. Yes.
+ຂ້ອຍບໍ່ຮູ້ວ່າມີເດັກນ້ອຍຫຼາຍປານໃດ. ສາມສິບຫຼືສີ່ສິບ. ແມ່ນແລ້ວ.
+
+794
+00:48:18,600 --> 00:48:24,600
+[MELANIE]
+No, the birds didn't attack until the children were outside the school. Crows, I think. I don't know, Daddy. Is there a difference between crows and blackbirds?
+ບໍ່, ນົກບໍ່ໄດ້ໂຈມຕີຈົນກວ່າເດັກນ້ອຍຢູ່ພາຍນອກໂຮງຮຽນ. ກຸ້ງ, ຂ້ອຍຄິດວ່າ
+. ຂ້ອຍບໍ່ຮູ້, ພໍ່. ມີຄວາມແຕກຕ່າງລະຫວ່າງກຸ້ງແລະນົກ ດໍາ ບໍ?
+
+795
+00:48:25,100 --> 00:48:27,550
+[MRS. BUNDY]
+There is very definitely a difference, Miss.
+ມີຄວາມແຕກຕ່າງຢ່າງແນ່ນອນຫຼາຍ, ນາງ.
+
+796
+00:48:28,050 --> 00:48:34,050
+[MELANIE]
+They're different, Daddy.  Thank you.  I think these were crows. Yes, hundreds of them. Yes, they attacked the children, attacked them.  Daddy, a little girl was sent to the hospital in Santa Rosa. Well, all right, but you act as if I'm... all right, all right.  No, I can't come home now. I just can't, Daddy. How is it there? I mean... are there birds? In the sky? But no trouble. Well, I hope...  I don't know when. I simply can't leave now. Tell Mother not to worry. All right, Daddy, good-by.
+ພວກເຂົາແຕກຕ່າງກັນ, ພໍ່. ຂອບໃຈ. ຂ້ອຍຄິດວ່ານີ້ແມ່ນກະຕ່າກະຕ່າຍກະຕຸ້ນກະຕູ້ນີ້. ແມ່ນແລ້ວ,
+ຫຼາຍຮ້ອຍກະຕູ້ກະຕູກກະຕຸກກະຕວກະຕູກະຕາກະຕໍ້ກະຕາກກະຕືກະຕວກກະຕອກກະຕຸກກະຕັກກະຕິກກະຕຶກກະຕົບກະຕີດກະຕຕຸກະຕຸກ ກະຕາກາຕວກ ກະຕຸກກກະຕີກກະຕຸນກະຕຸງກະຕົງກະຕູນກະຕອງກະຕັນກະຕັງ
+
+797
+00:48:34,550 --> 00:48:40,550
+[MRS. BUNDY]
+They're both perching birds, of course, but of quite different species. The crow is brachyrhynchos. The blackbird is cyanocephalus.
+ພວກເຂົາທັງສອງເປັນນົກທີ່ນັ່ງຢູ່, ແນ່ນອນ, ແຕ່ຂອງຊະນິດທີ່ແຕກຕ່າງກັນຫຼາຍ
+. ກະຕ່າແມ່ນ brachyrhynchos. ນົກສີດໍາແມ່ນ cyanocephalus.
+
+798
+00:48:41,050 --> 00:48:43,850
+[MELANIE]
+Thank you.  Do you know Dan Fawcett's number?
+ຂອບໃຈ. ເຈົ້າຮູ້ເບີຂອງດານ ຟາວເຊັດບໍ?
+
+799
+00:48:44,350 --> 00:48:46,450
+[DEKE]
+In the book right here, Miss.
+ໃນປື້ມຢູ່ບ່ອນນີ້, ນາງ.
+
+800
+00:48:46,950 --> 00:48:52,950
+[DEKE]
+I don't see what difference it makes, Mrs. Bundy, crows or blackbirds. If they attacked the school, that's pretty serious.
+ຂ້ອຍບໍ່ເຫັນວ່າມັນມີຄວາມແຕກຕ່າງຫຍັງ, ທ່ານນາງບຸນດີ,
+ກະຕ່າຫຼືນົກສີດໍາ. ຖ້າພວກເຂົາໂຈມຕີໂຮງຮຽນ, ນັ້ນແມ່ນຮ້າຍແຮງຫຼາຍ.
+
+801
+00:48:53,450 --> 00:48:59,450
+[MRS. BUNDY]
+I hardly think either species would have the intelligence to launch a massed attack. Their brain pans aren't large enough for such...
+ຂ້ອຍເກືອບບໍ່ຄິດວ່າຊະນິດໃດຈະມີຄວາມສະຫຼາດທີ່ຈະເປີດການໂຈມຕີຢ່າງໃຫຍ່ຫຼວງ
+. ກະດານສະຫມອງຂອງພວກເຂົາບໍ່ໃຫຍ່ພໍ ສໍາ ລັບສິ່ງດັ່ງກ່າວ...
+
+802
+00:48:59,950 --> 00:49:05,200
+[MELANIE]
+I just came from the school, madam. I don't know about their brain pans but...
+ຂ້ອຍຫາກໍ່ມາຈາກໂຮງຮຽນ, ແມ່.
+ຂ້ອຍບໍ່ຮູ້ກ່ຽວກັບກະດານສະຫມອງຂອງພວກເຂົາແຕ່...
+
+803
+00:49:05,700 --> 00:49:11,650
+[MRS. BUNDY]
+Birds are not aggressive creatures, Miss. They bring beauty to the world. It is mankind, rather, who...
+ນົກບໍ່ແມ່ນສັດທີ່ໂຈມຕີ, ນາງ. ພວກເຂົາເຮັດໃຫ້ຄວາມງາມໃນໂລກ
+. ມັນແມ່ນມະນຸດ, ແທນທີ່ຈະ, ຜູ້ທີ່...
+
+804
+00:49:12,150 --> 00:49:16,000
+[HELEN]
+Three Southern fried chicken, Sam. Baked potato on all of them.
+ໄກ່ຕົ້ມພາກໃຕ້ສາມໂຕ, ແຊມ. ເຂົ້າຈີ່ທີ່ປຸງແຕ່ງໃສ່ທັງ ຫມົດ.
+
+805
+00:49:16,500 --> 00:49:20,350
+[MELANIE]
+Hello, may I speak to Mitch Brenner, please?  Yes, I'll wait.
+ສະບາຍດີ, ຂ້ອຍສາມາດເວົ້າກັບມິτς ບຣັນເນີໄດ້ບໍ
+, ກະລຸນາ? ແມ່ນແລ້ວ, ຂ້ອຍຈະລໍຖ້າ.
+
+806
+00:49:20,850 --> 00:49:26,800
+[MRS. BUNDY]
+...insist on making it difficult for life to survive on this planet. If it weren't for birds...
+... ຢືນຢັນວ່າເຮັດໃຫ້ມັນຍາກ ສໍາ
+ລັບຊີວິດທີ່ຈະຢູ່ລອດຢູ່ເທິງໂລກນີ້. ຖ້າມັນບໍ່ແມ່ນນົກ...
+
+807
+00:49:27,300 --> 00:49:33,300
+[DEKE]
+Mrs. Bundy, you don't seem to understand. This young lady says there was an attack on the school.
+ທ່ານນາງບຸນດີ, ທ່ານເບິ່ງຄືວ່າບໍ່ເຂົ້າໃຈ.
+ແມ່ຍິງຫນຸ່ມຄົນນີ້ເວົ້າວ່າມີການໂຈມຕີໂຮງຮຽນ.
+
+808
+00:49:33,800 --> 00:49:35,800
+[MRS. BUNDY]
+Impossible.
+ບໍ່ເປັນໄປໄດ້.
+
+809
+00:49:36,300 --> 00:49:39,800
+[MELANIE]
+Mitch? I'm glad I caught you. Something terrible has happened.
+ມິτς? ຂ້ອຍດີໃຈທີ່ຂ້ອຍຈັບເຈົ້າ. ບາງສິ່ງບາງຢ່າງທີ່ຮ້າຍແຮງເກີດຂຶ້ນ.
+
+810
+00:49:40,300 --> 00:49:42,400
+[DRUNK]
+It's the end of the world!
+ມັນເປັນຕອນທ້າຍຂອງໂລກ!
+
+811
+00:49:42,900 --> 00:49:44,900
+[HELEN]
+What's this about the school?
+ນີ້ແມ່ນຫຍັງກ່ຽວກັບໂຮງຮຽນ?
+
+812
+00:49:45,400 --> 00:49:47,850
+[DEKE]
+Bunch of crows attacked the school, Helen.
+ພວກແມວໂກໂກ ໂຈມຕີໂຮງຮຽນ, ເຮເລນ.
+
+813
+00:49:48,350 --> 00:49:54,350
+[DRUNK]
+It's the end of the world.  "Thus saith the Lord God to the mountains, and to the hills, to the rivers and to the valleys; Behold, I, even I, will bring a sword upon you, and I will destroy your high places.
+ມັນເປັນສິ້ນສຸດຂອງໂລກ. ພຣະຜູ້ເປັນເຈົ້າພຣະເຈົ້າກ່າວດັ່ງນີ້ຕໍ່ພູເຂົາ, ແລະກັບພູສູງ, ກັບແມ່ນໍ້າຂອງແລະກັບຮ່ອມພູ
+; ເບິ່ງ, ຂ້ອຍ, ແມ່ນແຕ່ຂ້ອຍ, ຈະນໍາເອົາກະທູ້ມາຫາເຈົ້າ, ແລະຂ້ອຍຈະທໍາລາຍສະຖານທີ່ສູງຂອງທ່ານ.
+
+814
+00:49:54,850 --> 00:49:56,950
+[HELEN]
+The Lord's not destroying anything, Jason.
+ພຣະຜູ້ເປັນເຈົ້າບໍ່ໄດ້ທໍາລາຍຫຍັງເລີຍ, ເຈຊອນ.
+
+815
+00:49:57,450 --> 00:50:03,450
+[DRUNK]
+"In all your dwelling places, the cities shall be laid waste, and the high places shall be laid waste!"  Ezekiel, Chapter six.
+ໃນສະຖານທີ່ທີ່ຢູ່ອາໄສຂອງທ່ານທັງ ຫມົດ, ເມືອງຈະຖືກທໍາລາຍ
+, ແລະສະຖານທີ່ສູງຈະຖືກ ທໍາ ລາຍ! ເອເຊັກິລ, ບົດທີຫົກ.
+
+816
+00:50:03,950 --> 00:50:09,550
+[HELEN]
+"Woe unto them that rise up early in the morning that they may follow strong drink."
+ໂຊກຮ້າຍແກ່ຜູ້ທີ່ຕື່ນເຊົ້າເຊົ້າເພື່ອຕິດຕາມເຄື່ອງດື່ມທີ່ແຂງແຮງ.
+
+817
+00:50:10,050 --> 00:50:13,200
+[DRUNK]
+Isaiah, Chapter 5. It's the end of the world.
+ເອຊາຢາ, ບົດທີ 5. ມັນເປັນສິ້ນສຸດຂອງໂລກ.
+
+818
+00:50:13,700 --> 00:50:16,500
+[MELANIE]
+Yes, all right, I'll wait for you. Good-by.
+ແມ່ນແລ້ວ, ດີ, ຂ້ອຍຈະລໍຖ້າເຈົ້າ. ສະບາຍດີ.
+
+819
+00:50:17,000 --> 00:50:22,600
+[MRS. BUNDY]
+I hardly think a few birds are going to bring about the end of the world.
+ຂ້ອຍເກືອບບໍ່ຄິດວ່ານົກສອງສາມຄົນຈະເຮັດໃຫ້ໂລກສິ້ນສຸດລົງ.
+
+820
+00:50:23,100 --> 00:50:25,100
+[MELANIE]
+These weren't a few birds.
+ນີ້ແມ່ນບໍ່ແມ່ນນົກສອງສາມໂຕ.
+
+821
+00:50:25,600 --> 00:50:30,850
+[DEKE]
+I didn't even know there were many crows in Bodega Bay this time of year.
+ຂ້ອຍບໍ່ຮູ້ເລີຍວ່າມີກະຕ່າຫຼາຍໃນບອດເກາ ໃນເວລານີ້ຂອງປີ.
+
+822
+00:50:31,350 --> 00:50:37,300
+[MRS. BUNDY]
+The crow is a permanent resident throughout its range. In fact, during our Christmas Count, we recorded...
+ແມວແມ່ນຜູ້ອາໄສຢູ່ຖາວອນໃນຂອບເຂດຂອງມັນທັງ ຫມົດ. ໃນຄວາມເປັນຈິງ
+, ໃນລະຫວ່າງການນັບຄຣິສມັສຂອງພວກເຮົາ, ພວກເຮົາບັນທຶກ...
+
+823
+00:50:37,800 --> 00:50:40,600
+[SHOLES]
+How many gulls did you count, Mrs. Bundy?
+ເຈົ້າຄິດແມວຫຼາຍປານໃດ, ທ່ານນາງບຸນດີ?
+
+824
+00:50:41,100 --> 00:50:43,900
+[MRS. BUNDY]
+Which gulls, Mr. Sholes? There are several varieties.
+ກະຕ່າໃດ, ທ້າວໂຊລສ໌? ມີຫຼາຍຊະນິດ.
+
+825
+00:50:44,400 --> 00:50:48,250
+[SHOLES]
+The ones that've been raising the devil with my fishing boats.
+ພວກທີ່ ກໍາ ລັງຍົກຂຶ້ນຊາຕານດ້ວຍເຮືອຫາປາຂອງຂ້ອຍ.
+
+826
+00:50:48,750 --> 00:50:54,700
+[MRS. BUNDY]
+Probably herring gulls. They arrive in November, you know, and don't migrate North again until March or...
+ບາງທີກະຕ່າກະຕ່າຍກະຕູ້ກະຕູ້ນະຕ້າກະຕຸ້ນກະຕູກກະຕຸກກະຕວກະຕູກະຕວກກະຕາກະຕາກກະຕໍ້ກະຕອກກະຕຶກກະຕືກະຕຸກ
+ກະຕາກາຕາກັກກະຕິກກະຕຸກະຕໍ້
+
+827
+00:50:55,200 --> 00:50:57,300
+[MELANIE]
+Have you had trouble with gulls?
+ເຈົ້າມີບັນຫາກັບກະຕ່າບໍ?
+
+828
+00:50:57,800 --> 00:51:00,250
+[SHOLES]
+One of my boats did last week.
+ເຮືອຂອງຂ້ອຍຫນຶ່ງເຮັດໃນອາທິດທີ່ຜ່ານມາ.
+
+829
+00:51:00,750 --> 00:51:04,250
+[DEKE]
+This young lady got hit by a gull only Saturday.
+ແມ່ຍິງຫນຸ່ມຄົນນີ້ຖືກແມວຕີພຽງແຕ່ວັນເສົາເທົ່ານັ້ນ.
+
+830
+00:51:04,750 --> 00:51:06,750
+[SAM'S VOICE]
+Pick up the chicken.
+ເອົາໄກ່.
+
+831
+00:51:07,250 --> 00:51:13,200
+[HELEN]
+Now it's gulls. A minute ago, it was crows.  Deke, I'm still waiting for those Bloody Marys!
+ດຽວນີ້ມັນເປັນກຸ້ງ. ຫນຶ່ງ ນາທີກ່ອນ, ມັນແມ່ນກະຕ່າ
+. ເດກ, ຂ້ອຍຍັງລໍຖ້າມາຣີເລືອດເຫຼົ່ານັ້ນ!
+
+832
+00:51:13,700 --> 00:51:15,700
+[DEKE]
+Coming right up!
+ມາຮອດທັນທີ!
+
+833
+00:51:16,200 --> 00:51:20,750
+[WOMAN]
+Could you ask them to lower their voices, please? They're frightening the children.
+ເຈົ້າຂໍໃຫ້ພວກເຂົາຫຼຸດສຽງລົງໄດ້ບໍ? ພວກເຂົາ ກໍາ ລັງຢ້ານກົວເດັກນ້ອຍ.
+
+834
+00:51:21,250 --> 00:51:23,250
+[LITTLE GIRL]
+Timmy has a canary.
+ໄຕມມີການາຣີ.
+
+835
+00:51:23,750 --> 00:51:25,750
+[HELEN]
+That's nice. Are you Timmy?
+ນັ້ນດີເລີດ. ເຈົ້າເປັນທິມມີບໍ?
+
+836
+00:51:26,250 --> 00:51:28,250
+[LITTLE BOY]
+My cousin is Timmy.
+ພີ່ນ້ອງຂອງຂ້ອຍແມ່ນທິມມີ.
+
+837
+00:51:28,750 --> 00:51:34,700
+[SAM'S VOICE]
+A whole flock of gulls nearby capsized one of my boats.  Practically tore of the skipper's arm.
+ຝູງກຸ້ງທັງ ຫມົດ ຢູ່ໃກ້ໆໄດ້ຫັນເຮືອຂອງຂ້ອຍ
+ຫນຶ່ງ. ເກືອບໄດ້ຕັດແຂນຂອງຜູ້ບັນຊາການ.
+
+838
+00:51:35,200 --> 00:51:37,650
+[HELEN]
+You're scaring the kids. Keep it low.
+ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ເດັກນ້ອຍຢ້ານກົວ. ຮັກສາມັນຕໍ່າ.
+
+839
+00:51:38,150 --> 00:51:43,400
+[DEKE]
+You're scaring me, too. Are you trying to say all these...  That sounds impossible, Sebastian.
+ເຈົ້າ ກໍາ ລັງຢ້ານຂ້ອຍເຊັ່ນກັນ. ເຈົ້າພະຍາຍາມເວົ້າສິ່ງທັງ
+ຫມົດ ນີ້ບໍ... ມັນເບິ່ງຄືວ່າບໍ່ສາມາດເຮັດໄດ້, ເຊເບສຕຽນ.
+
+840
+00:51:43,900 --> 00:51:47,050
+[SHOLES]
+I'm only telling you what happened to my boat.
+ຂ້ອຍພຽງແຕ່ບອກເຈົ້າວ່າເກີດຫຍັງຂຶ້ນກັບເຮືອຂອງຂ້ອຍ.
+
+841
+00:51:47,550 --> 00:51:52,450
+[MRS. BUNDY]
+The gulls were after your fish, Mr. Sholes. Really, let's be logical about this.
+ແມວແມວແມ່ນຕາມປາຂອງທ່ານ, ທ້າວໂຊລສ໌. ແທ້ຈິງແລ້ວ
+, ໃຫ້ມີຄວາມສົມເຫດສົມຜົນກ່ຽວກັບເລື່ອງນີ້.
+
+842
+00:51:52,950 --> 00:51:55,750
+[MELANIE]
+What were the crows after at the school?
+ພວກກະຕ່າ ກໍາ ລັງຊອກຫາຫຍັງຢູ່ໂຮງຮຽນ?
+
+843
+00:51:56,250 --> 00:51:59,050
+[MRS. BUNDY]
+What do you think they were after, Miss...?
+ເຈົ້າຄິດວ່າພວກເຂົາ ກໍາ ລັງຊອກຫາຫຍັງ, ນາງ...?
+
+844
+00:51:59,550 --> 00:52:02,350
+[MELANIE]
+Daniels. I think they were after the children.
+ດານີເລສ. ຂ້ອຍຄິດວ່າພວກເຂົາ ກໍາ ລັງຕິດຕາມເດັກນ້ອຍ.
+
+845
+00:52:02,850 --> 00:52:04,850
+[MRS. BUNDY]
+For what purpose?
+ດ້ວຍຈຸດປະສົງຫຍັງ?
+
+846
+00:52:05,350 --> 00:52:07,350
+[MELANIE]
+To...  To kill them.
+ເພື່ອ... ເພື່ອຂ້າພວກເຂົາ.
+
+847
+00:52:07,850 --> 00:52:09,850
+[MRS. BUNDY]
+Why?
+ເປັນຫຍັງ?
+
+848
+00:52:10,350 --> 00:52:12,350
+[MELANIE]
+I don't know why.
+ຂ້ອຍບໍ່ຮູ້ວ່າເປັນຫຍັງ.
+
+849
+00:52:12,850 --> 00:52:18,850
+[MRS. BUNDY]
+I thought not. Birds have been on this planet since archaeopteryx, Miss Daniels; a hundred and twenty million years ago!
+ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ. ນົກຢູ່ເທິງໂລກນີ້ຕັ້ງແຕ່
+Archaeopteryx, ນາງດານີເລສ; ຫນຶ່ງຮ້ອຍແລະສິບລ້ານປີກ່ອນ!
+
+850
+00:52:19,350 --> 00:52:25,300
+[MRS. BUNDY]
+Doesn't it seem odd that they'd wait all that time to start a... a war against humanity?
+ມັນເບິ່ງຄືວ່າແປກໃຈບໍວ່າພວກເຂົາຈະລໍຖ້າຕະຫຼອດເວລານັ້ນເພື່ອເລີ່ມຕົ້ນ
+... ສົງຄາມຕໍ່ມະນຸດສະທໍາ?
+
+851
+00:52:25,800 --> 00:52:27,900
+[MELANIE]
+No one called it a war!
+ບໍ່ມີໃຜເອີ້ນມັນວ່າສົງຄາມ!
+
+852
+00:52:28,400 --> 00:52:30,400
+[SALESMAN]
+Scotch, light on the water.
+ສອດສ໌, ແສງສະຫວ່າງໃສ່ນ້ ໍາ.
+
+853
+00:52:30,900 --> 00:52:34,400
+[MRS. BUNDY]
+You and Mr. Sholes seem to be implying as much.
+ເຈົ້າແລະທ່ານໂຊລສ໌ເບິ່ງຄືວ່າ ຫມາຍ ຄວາມວ່າຫຼາຍເທົ່າກັນ.
+
+854
+00:52:34,900 --> 00:52:36,900
+[HELEN]
+Are you finished here, Sebastian?
+ເຈົ້າສໍາເລັດແລ້ວບໍ, ເຊເບສຕຽນ?
+
+855
+00:52:37,400 --> 00:52:43,400
+[SHOLES]
+Let me have some apple pie, Helen.  Who said anything about war? All I said was that some gulls...
+ຂໍໃຫ້ຂ້ອຍກິນ pie ຫມາກ ໄມ້ບາງຢ່າງ, ເຮເລນ.
+ໃຜເວົ້າຫຍັງກ່ຽວກັບສົງຄາມ? ຂ້ອຍເວົ້າພຽງແຕ່ວ່າບາງກະຕ່າ...
+
+856
+00:52:43,900 --> 00:52:46,350
+[HELEN]
+One apple pie! You want more coffee?
+ເຈົ້າຢາກກາເຟອີກບໍ?
+
+857
+00:52:46,850 --> 00:52:52,850
+[SHOLES]
+No. ...came down on one of my boats. They could have been after the fish, just as you said.
+ບໍ່.... ຕົກລົງໃສ່ເຮືອຂອງຂ້ອຍ ຫນຶ່ງ. ພວກເຂົາອາດຈະ
+ກໍາ ລັງຕິດຕາມປາ, ຄືກັບທີ່ທ່ານເວົ້າ.
+
+858
+00:52:53,350 --> 00:52:55,800
+[SALESMAN]
+Your captain should have shot at them.
+ຄັບປິນຂອງທ່ານຄວນຍິງພວກເຂົາ.
+
+859
+00:52:56,300 --> 00:52:58,300
+[SHOLES]
+What?
+ຫຍັງ?
+
+860
+00:52:58,800 --> 00:53:04,800
+[SALESMAN]
+Gulls are scavengers, anyway. Most birds are. If you ask me, we should wipe them all out. World would be better off without them.
+ກູລ໌ແມ່ນຜູ້ຂີ້ເຫຍື້ອ, ຢ່າງໃດກໍຕາມ. ນົກສ່ວນໃຫຍ່ແມ່ນ. ຖ້າເຈົ້າຖາມຂ້ອຍ
+, ພວກເຮົາຄວນລ້າງພວກມັນທັງ ຫມົດ ອອກ. ໂລກຈະດີກວ່າໂດຍບໍ່ມີພວກມັນ.
+
+861
+00:53:05,300 --> 00:53:07,300
+[MRS. BUNDY]
+Birds?
+ນົກບໍ?
+
+862
+00:53:07,800 --> 00:53:12,700
+[SALESMAN]
+Yeah, birds. All they do is make a mess of everything. Who needs them?
+ແມ່ນແລ້ວ, ນົກ. ພວກເຂົາເຮັດພຽງແຕ່ເຮັດໃຫ້ທຸກຢ່າງສັບສົນ
+. ໃຜຕ້ອງການພວກມັນ?
+
+863
+00:53:13,200 --> 00:53:15,200
+[MRS. BUNDY]
+We need them.
+ພວກເຮົາຕ້ອງການພວກມັນ.
+
+864
+00:53:15,700 --> 00:53:17,800
+[SALESMAN]
+Not if they're starting a war.
+ບໍ່ຖ້າພວກເຂົາ ກໍາ ລັງເລີ່ມຕົ້ນສົງຄາມ.
+
+865
+00:53:18,300 --> 00:53:20,400
+[MRS. BUNDY]
+They are incapable of organized warfare!
+ພວກເຂົາບໍ່ສາມາດເຮັດສົງຄາມທີ່ຈັດຕັ້ງໄດ້!
+
+866
+00:53:20,900 --> 00:53:24,050
+[MELANIE]
+Have you ever seen a jay protecting a nest?
+ເຈົ້າເຄີຍເຫັນແຊກແຊງປົກປ້ອງຫູບໍ?
+
+867
+00:53:24,550 --> 00:53:30,550
+[MRS. BUNDY]
+I have seen jays doing everything it is conceivable for jays to do. Ornithology happens to be my avocation, Miss Daniels. You're talking about preservation of the species, a hen protecting her young. There's a vast difference between...
+ຂ້ອຍໄດ້ເຫັນແຈເຮັດທຸກຢ່າງທີ່ສາມາດຄິດໄດ້ ສໍາ ລັບແຈ. Ornithology ເກີດຂຶ້ນເປັນການມັກຂອງຂ້ອຍ, ນາງດານີເລສ.
+ເຈົ້າ ກໍາ ລັງເວົ້າກ່ຽວກັບການປົກປັກຮັກສາຊະນິດຕ່າງໆ, ໄກ່ປົກປ້ອງລູກຂອງນາງ. ມີຄວາມແຕກຕ່າງທີ່ໃຫຍ່ຫຼວງລະຫວ່າງ...
+
+868
+00:53:31,050 --> 00:53:37,050
+[MELANIE]
+Maybe they're all protecting the species. Maybe they're tired of being shot at and roasted in ovens and...
+ບາງທີພວກເຂົາທັງ ຫມົດ ກໍາ ລັງປົກປ້ອງຊະນິດຕ່າງໆ.
+ບາງທີພວກເຂົາມີເມື່ອຍຈາກການຍິງໃສ່ແລະປຸງແຕ່ງໃນເຕົາອົບແລະ...
+
+869
+00:53:37,550 --> 00:53:41,750
+[MRS. BUNDY]
+Are you discussing gamebirds now? All birds are not gamebirds, you know.
+ເຈົ້າ ກໍາ ລັງປຶກສາຫາລືນົກເກມດຽວນີ້ບໍ?
+ນົກທັງ ຫມົດ ບໍ່ແມ່ນນົກຫຼີ້ນ, ເຈົ້າຮູ້ແລ້ວ.
+
+870
+00:53:42,250 --> 00:53:46,450
+[MELANIE]
+I don't know anything about birds except that they're attacking this town.
+ຂ້ອຍບໍ່ຮູ້ຫຍັງເລີຍກ່ຽວກັບນົກນອກຈາກວ່າພວກເຂົາ
+ກໍາ ລັງໂຈມຕີເມືອງນີ້.
+
+871
+00:53:46,950 --> 00:53:52,200
+[SALESMAN]
+Then fight back. Get yourselves guns and wipe them off the face of the earth.
+ຫຼັງຈາກນັ້ນຕໍ່ສູ້ກັບຄືນໄປບ່ອນ.
+ເອົາປືນຕົວເອງແລະລ້າງພວກມັນອອກຈາກໃບຫນ້າໂລກ.
+
+872
+00:53:52,700 --> 00:53:54,700
+[MRS. BUNDY]
+That would hardly be possible.
+ມັນເກືອບບໍ່ສາມາດເຮັດໄດ້.
+
+873
+00:53:55,200 --> 00:53:57,200
+[DEKE]
+Why not, Mrs. Bundy?
+ເປັນຫຍັງບໍ່, ທ່ານນາງບຸນດີ?
+
+874
+00:53:57,700 --> 00:54:03,700
+[MRS. BUNDY]
+Because there are 8,650 species of birds in the world today, Mr. Carter. It's estimated that five billion, seven hundred and fifty million birds live in the United States alone. The five continents of the world...
+ເພາະວ່າມີຊະນິດນົກ 8,650 ຊະນິດໃນໂລກໃນມື້ນີ້, ທ້າວ ຄາເຕີ. ມັນຄາດວ່ານົກຫ້າພັນລ້ານ
+, ເຈັດຮ້ອຍຫ້າສິບລ້ານຄົນອາໄສຢູ່ໃນສະຫະລັດເທົ່ານັ້ນ. ທະວີບຫ້າຂອງໂລກ...
+
+875
+00:54:04,200 --> 00:54:07,350
+[SALESMAN]
+Kill them all. Get rid of them. Messy animals.
+ຂ້າພວກມັນທັງ ຫມົດ. ກໍາ ຈັດພວກມັນອອກ. ສັດທີ່ສັບສົນ.
+
+876
+00:54:07,850 --> 00:54:10,650
+[MRS. BUNDY]
+...probably contain more than a hundred billion birds!
+... ບາງທີມີນົກຫຼາຍກວ່າສິບລ້ານ!
+
+877
+00:54:11,150 --> 00:54:13,250
+[DRUNK]
+It's the end of the world!
+ມັນເປັນຕອນທ້າຍຂອງໂລກ!
+
+878
+00:54:13,750 --> 00:54:19,750
+[DEKE]
+Well, we seem to have more than our share of them right now, Mrs. Bundy. Maybe this young lady's right.  Maybe they've all gone crazy.
+ດີ, ພວກເຮົາເບິ່ງຄືວ່າມີຫຼາຍກ່ວາສ່ວນແບ່ງຂອງພວກເຮົາຂອງພວກເຂົາໃນເວລານີ້,
+ທ່ານນາງບຸນດີ. ບາງທີຜູ້ຍິງຫນຸ່ມຄົນນີ້ຖືກຕ້ອງ.ບາງທີພວກເຂົາທັງ ຫມົດ ໄດ້ໂຊກຮ້າຍ.
+
+879
+00:54:20,250 --> 00:54:23,750
+[HELEN]
+Here's your pie, Sebastian. You want it at the table?
+ນີ້ແມ່ນ pie ຂອງທ່ານ, ເຊເບສຕຽນ. ເຈົ້າຢາກມັນຢູ່ໂຕະບໍ?
+
+880
+00:54:24,250 --> 00:54:26,250
+[SHOLES]
+No. Here's fine.
+ບໍ່. ຢູ່ບ່ອນນີ້ບໍ່ເປັນຫຍັງ.
+
+881
+00:54:26,750 --> 00:54:28,850
+[HELEN]
+Where are the Bloody Marys, Deke?
+ມາຣີທີ່ເລືອດຢູ່ໃສ, ເດກ?
+
+882
+00:54:29,350 --> 00:54:31,350
+[DEKE]
+Coming.
+ມາແລ້ວ.
+
+883
+00:54:31,850 --> 00:54:35,700
+[HELEN]
+Are we running a business here -- or a bird sanctuary?
+ພວກເຮົາ ກໍາ ລັງ ດໍາ ເນີນທຸລະກິດຢູ່ບ່ອນນີ້ບໍ - ຫຼືບ່ອນສະຫງົບນົກບໍ?
+
+884
+00:54:36,200 --> 00:54:39,350
+[SHOLES]
+Actually, those gulls must have been after the fish.
+ໃນຄວາມເປັນຈິງ, ພວກກະຕ່າເຫຼົ່ານັ້ນຕ້ອງໄດ້ຕາມຫາປາ.
+
+885
+00:54:39,850 --> 00:54:41,850
+[MRS. BUNDY]
+Of course.
+ແນ່ນອນ.
+
+886
+00:54:42,350 --> 00:54:45,500
+[SHOLES]
+Makes a lot more sense than... well, an attack.
+ມັນມີຄວາມ ຫມາຍ ຫຼາຍກວ່າ... ດີ, ການໂຈມຕີ.
+
+887
+00:54:46,000 --> 00:54:52,000
+[MRS. BUNDY]
+Of course it does. If we believe that birds are attacking, why... why next we'll believe that grasshoppers and cockroaches are capable of...
+ແນ່ນອນວ່າມັນເຮັດ. ຖ້າພວກເຮົາເຊື່ອວ່ານົກ ກໍາ ລັງໂຈມຕີ, ເປັນຫຍັງ
+... ເປັນຫຍັງຕໍ່ໄປພວກເຮົາຈະເຊື່ອວ່າກະຕ່າຫຍ້າແລະແມງໄມ້ສາມາດ...
+
+888
+00:54:52,500 --> 00:54:54,500
+[DRUNK]
+Cockroaches!  Urghh!
+ແມງໄມ້! ອູຮ້!
+
+889
+00:54:55,000 --> 00:54:57,000
+[WOMAN]
+Hurry, children. Finish your lunch.
+ໄວໆ, ເດັກນ້ອຍ. ສິ້ນສຸດອາຫານທ່ຽງຂອງທ່ານ.
+
+890
+00:54:57,500 --> 00:54:59,950
+[BOY]
+Are the birds gonna eat us, Mommy?
+ນົກຈະກິນພວກເຮົາບໍ, ແມ່?
+
+891
+00:55:00,450 --> 00:55:06,450
+[SHOLES]
+Maybe we're all getting a little carried away by this. Admittedly, a few birds acted strangely. That's no reason to believe...
+ບາງທີພວກເຮົາທຸກຄົນ ກໍາ ລັງຖືກພາໄປໂດຍສິ່ງນີ້ເລັກນ້ອຍ. ຍອມຮັບວ່າ
+, ນົກບາງຄົນປະຕິບັດຢ່າງແປກໃຈ. ນັ້ນບໍ່ແມ່ນເຫດຜົນທີ່ຈະເຊື່ອວ່າ...
+
+892
+00:55:06,950 --> 00:55:12,950
+[MELANIE]
+This isn't a few birds! I keep telling you that! These are gulls and swifts and crows and...
+ນີ້ແມ່ນບໍ່ແມ່ນນົກສອງສາມຄົນ! ຂ້ອຍບອກເຈົ້າວ່າ
+! ນີ້ແມ່ນກະຕ່າແລະ swifts ແລະ crows ແລະ...
+
+893
+00:55:13,450 --> 00:55:15,450
+[MRS. BUNDY]
+And what? Vultures? Hawks? Eagles?
+ແລະຫຍັງ? ງູ? Hawks? Eagles?
+
+894
+00:55:15,950 --> 00:55:17,950
+[MELANIE]
+Maybe! Is it impossible?
+ບາງທີ! ມັນເປັນໄປບໍ່ໄດ້ບໍ?
+
+895
+00:55:18,450 --> 00:55:24,450
+[MRS. BUNDY]
+Yes. I have never known birds of different species to flock together. The very concept is unimaginable.  Why if that happened, we wouldn't have a chance. How could we possible hope to fight them?
+ແມ່ນແລ້ວ. ຂ້ອຍບໍ່ເຄີຍຮູ້ຈັກນົກຂອງຊະນິດທີ່ແຕກຕ່າງກັນທີ່ຈະເຕົ້າໂຮມກັນ. ແນວຄວາມຄິດເອງແມ່ນບໍ່ສາມາດຄິດໄດ້
+. ເປັນຫຍັງຖ້າມັນເກີດຂຶ້ນ, ພວກເຮົາຈະບໍ່ມີໂອກາດ. ພວກເຮົາສາມາດຫວັງວ່າຈະຕໍ່ສູ້ກັບພວກເຂົາໄດ້ແນວໃດ?
+
+896
+00:55:24,950 --> 00:55:27,050
+[SHOLES]
+We couldn't. You're right, Mrs. Bundy.
+ພວກເຮົາບໍ່ສາມາດເຮັດໄດ້. ເຈົ້າເວົ້າຖືກຕ້ອງ, ທ່ານນາງບຸນດີ.
+
+897
+00:55:27,550 --> 00:55:30,350
+[WOMAN]
+Excuse me, may I have a check, please?
+ຂໍໂທດ, ຂ້ອຍສາມາດເອົາໃບຢັ້ງຢືນໄດ້ບໍ, ກະລຸນາ?
+
+898
+00:55:30,850 --> 00:55:32,850
+[HELEN]
+Is everything all right, ma'am?
+ທຸກຢ່າງບໍ່ເປັນຫຍັງບໍ, ແມ່?
+
+899
+00:55:33,350 --> 00:55:36,500
+[WOMAN]
+Yes, I... I'm anxious to get on the road.
+ແມ່ນແລ້ວ, ຂ້ອຍ... ຂ້ອຍກັງວົນທີ່ຈະອອກເດີນທາງ.
+
+900
+00:55:37,000 --> 00:55:39,450
+[SAM]
+What's the matter? Something wrong out here?
+ມີຫຍັງເກີດຂຶ້ນ? ມີຫຍັງຜິດຢູ່ບ່ອນນີ້ບໍ?
+
+901
+00:55:39,950 --> 00:55:41,950
+[DEKE]
+Nothing's wrong.
+ບໍ່ມີຫຍັງຜິດ.
+
+902
+00:55:42,450 --> 00:55:44,450
+[SAM]
+All this shouting.
+ການຮ້ອງໄຫ້ທັງ ຫມົດ ນີ້.
+
+903
+00:55:44,950 --> 00:55:46,950
+[MRS. BUNDY]
+We're fighting a war, Sam.
+ພວກເຮົາກໍາລັງຕໍ່ສູ້ສົງຄາມ, ແຊມ.
+
+904
+00:55:47,450 --> 00:55:49,900
+[SAM]
+A war? Against who? Did the Russians...?
+ສົງຄາມ? ຕໍ່ຕ້ານໃຜ? ຊາວຣັດເຊຍ...?
+
+905
+00:55:50,400 --> 00:55:52,400
+[SHOLES]
+Against birds.
+ຕໍ່ຕ້ານນົກ.
+
+906
+00:55:52,900 --> 00:55:58,900
+[WOMAN]
+I'm glad you all think this is so amusing. You've frightened my children half out of their wits.
+ຂ້ອຍດີໃຈທີ່ເຈົ້າທຸກຄົນຄິດວ່ານີ້ມ່ວນຫຼາຍ.
+ເຈົ້າໄດ້ເຮັດໃຫ້ລູກຂອງຂ້ອຍຢ້ານກົວເຄິ່ງຫນຶ່ງຈາກຄວາມສະຫຼາດຂອງພວກເຂົາ.
+
+907
+00:55:59,400 --> 00:56:01,400
+[BOY]
+I'm not scared, Mommy.
+ຂ້ອຍບໍ່ຢ້ານ, ແມ່.
+
+908
+00:56:01,900 --> 00:56:07,850
+[WOMAN]
+Keep quiet. If that young lady saw an attack on the school, why won't you believe her?
+ຮັກສາຄວາມງຽບສະຫງົບ. ຖ້າຜູ້ຍິງຫນຸ່ມຄົນນັ້ນເຫັນການໂຈມຕີໂຮງຮຽນ
+, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຊື່ອນາງ?
+
+909
+00:56:08,350 --> 00:56:10,450
+[SAM]
+What attack? Who attacked the school?
+ການໂຈມຕີໃດ? ໃຜໄດ້ໂຈມ ຕີໂຮງຮຽນ?
+
+910
+00:56:10,950 --> 00:56:16,950
+[WOMAN]
+Birds did. Crows! And you're all sitting around here debating! What do you want them to do next? Crash through that window?
+ນົກເຮັດແລ້ວ. ຄຸເຂົ່າລົງ! ແລະເຈົ້າທຸກຄົນນັ່ງຢູ່ບ່ອນນີ້ ກໍາ
+ລັງປຶກສາຫາລື! ເຈົ້າຢາກໃຫ້ພວກເຂົາເຮັດຫຍັງຕໍ່ໄປ? ຕົກຜ່ານປ່ອງຢ້ຽມນັ້ນບໍ?
+
+911
+00:56:17,450 --> 00:56:19,450
+[LITTLE GIRL]
+Mommy!
+ແມ່!
+
+912
+00:56:19,950 --> 00:56:25,950
+[WOMAN]
+Quiet! Why don't you all get home? Lock your doors and windows!  Put on your coats, children!  What's the fastest road to San Francisco?
+ງຽບສະຫງົບ! ເປັນຫຍັງເຈົ້າທັງ ຫມົດ ຈຶ່ງບໍ່ກັບບ້ານ? ປິດປະຕູແລະປ່ອງຢ້ຽມຂອງທ່ານ
+! ໃສ່ເສື້ອຜ້າຂອງທ່ານ, ເດັກນ້ອຍ! ທາງທີ່ໄວທີ່ສຸດໄປແຊນຟຣານຊິສໂກແມ່ນຫຍັງ?
+
+913
+00:56:26,450 --> 00:56:28,450
+[DEKE]
+The freeway, ma'am.
+ທາງດ່ວນ, ແມ່.
+
+914
+00:56:28,950 --> 00:56:30,950
+[WOMAN]
+Where do I get it?
+ຂ້ອຍຈະເອົາມັນຈາກໃສ?
+
+915
+00:56:31,450 --> 00:56:34,950
+[SALESMAN]
+I'm going out that way, lady. You can follow me.
+ຂ້ອຍຈະອອກໄປທາງນັ້ນ, ແມ່ຍິງ. ເຈົ້າສາມາດຕິດຕາມຂ້ອຍໄດ້.
+
+916
+00:56:35,450 --> 00:56:37,450
+[WOMAN]
+Then let's go. Now!
+ຫຼັງຈາກນັ້ນໄປ. ດຽວນີ້!
+
+917
+00:56:37,950 --> 00:56:39,950
+[SALESMAN]
+I haven't finished my drink.
+ຂ້ອຍຍັງບໍ່ຈົບດື່ມເທື່ອ.
+
+918
+00:56:40,450 --> 00:56:44,300
+[WOMAN]
+Put on your coats! Do you want to get trapped here?
+ໃສ່ເສື້ອຜ້າຂອງທ່ານ! ເຈົ້າຢາກຖືກຈັບຢູ່ບ່ອນນີ້ບໍ?
+
+919
+00:56:44,800 --> 00:56:46,800
+[BOY]
+I can't find my scarf.
+ຂ້ອຍບໍ່ສາມາດຊອກຫາເສື້ອຜ້າຂອງຂ້ອຍໄດ້.
+
+920
+00:56:47,300 --> 00:56:49,300
+[WOMAN]
+Look in your sleeve!
+ເບິ່ງໃນກະທູ້ຂອງທ່ານ!
+
+921
+00:56:49,800 --> 00:56:51,800
+[MITCH]
+Melanie?
+ແມລານີ?
+
+922
+00:56:52,300 --> 00:56:55,800
+[MITCH]
+I got here as fast as I could. Where's Cathy?
+ຂ້ອຍມາຮອດບ່ອນນີ້ໄວທີ່ສຸດທີ່ຂ້ອຍສາມາດເຮັດໄດ້. ຄາຕີຢູ່ໃສ?
+
+923
+00:56:56,300 --> 00:56:58,400
+[MELANIE]
+At Annie's house. She's all right.
+ຢູ່ເຮືອນແອນນີ. ນາງບໍ່ເປັນຫຍັງ.
+
+924
+00:56:58,900 --> 00:57:02,400
+[SAM]
+Al, why aren't you over there where the attack was?
+ແອລ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ຢູ່ບ່ອນນັ້ນບ່ອນທີ່ການໂຈມຕີແມ່ນ?
+
+925
+00:57:02,900 --> 00:57:06,750
+[MALONE]
+Because I just got back from Dan Fawcett's place, that's why.
+ເພາະຂ້ອຍຫາກໍ່ກັບມາຈາກເຮືອນຂອງດານ ຟາວເຊັດ, ນັ້ນແມ່ນເຫດຜົນ.
+
+926
+00:57:07,250 --> 00:57:09,700
+[MITCH]
+He was killed last night. By birds.
+ລາວຖືກຂ້າຕາຍໃນມື້ວານນີ້. ໂດຍນົກ.
+
+927
+00:57:10,200 --> 00:57:14,050
+[MALONE]
+Now hold it, Mitch. You don't know that for a fact.
+ດຽວນີ້ຖືມັນໄວ້, ມິτς. ເຈົ້າບໍ່ຮູ້ວ່າມັນເປັນຄວາມຈິງ.
+
+928
+00:57:14,550 --> 00:57:16,650
+[MRS. BUNDY]
+What are the facts, Mr. Malone?
+ຄວາມຈິງແມ່ນຫຍັງ, ທ້າວມາລອນ?
+
+929
+00:57:17,150 --> 00:57:23,150
+[MALONE]
+Santa Rosa police think it was a felony murder. They think a burglar broke in and killed him.
+ຕໍາຫຼວດຊານຕາ ໂຣຊາຄິດວ່າມັນເປັນການຄາດຕະກໍາອາຊະຍາກໍາ
+. ພວກເຂົາຄິດວ່າຄົນລັກລອບເຂົ້າມາແລະຂ້າລາວ.
+
+930
+00:57:23,650 --> 00:57:27,850
+[WOMAN]
+Were the Santa Rosa police at your school today?  Are you coming?
+ຕໍາຫຼວດຊານຕາ ໂຣຊາຢູ່ໂຮງຮຽນຂອງທ່ານມື້ນີ້ບໍ? ເຈົ້າຈະມາບໍ?
+
+931
+00:57:28,350 --> 00:57:32,200
+[SALESMAN]
+Take it easy, lady.  There isn't a bird anywhere in sight.
+ສະບາຍໃຈເດີ ແມ່ຍິງ. ບໍ່ມີນົກຢູ່ບ່ອນໃດທີ່ເຫັນ.
+
+932
+00:57:32,700 --> 00:57:38,700
+[DRUNK]
+"Look at the birds of the air: they do not sow or read, yet your heavenly father feeds them."
+ເບິ່ງນົກຂອງອາກາດ: ພວກເຂົາບໍ່ປູກຝັງຫຼືອ່ານ,
+ເຖິງຢ່າງໃດກໍ່ຕາມພໍ່ຂອງທ່ານໃນສະຫວັນໃຫ້ອາຫານພວກມັນ.
+
+933
+00:57:39,200 --> 00:57:42,700
+[WOMAN]
+I'll never feed another bird as long as I live!
+ຂ້ອຍຈະບໍ່ໃຫ້ອາຫານນົກອີກເທື່ອຫນຶ່ງຕະຫຼອດຊີວິດ!
+
+934
+00:57:43,200 --> 00:57:48,450
+[SALESMAN]
+Something like this happened in Santa Cruz last year. The town was covered with seagulls.
+ບາງສິ່ງບາງຢ່າງເຊັ່ນນີ້ເກີດຂຶ້ນໃນຊານຕາ ຄຣູຊ
+ເມື່ອປີທີ່ຜ່ານມາ. ເມືອງໄດ້ຖືກປົກຄຸມດ້ວຍກະຕ່າທະເລ.
+
+935
+00:57:48,950 --> 00:57:51,050
+[WOMAN]
+Can't you please finish your drink?
+ເຈົ້າບໍ່ສາມາດຈົບເຄື່ອງດື່ມຂອງທ່ານໄດ້ບໍ?
+
+936
+00:57:51,550 --> 00:57:57,550
+[MRS. BUNDY]
+That's right, sir, I recall it. A large flock of seagulls got lost in a fog and headed in for the town, where all the lights were.
+ນັ້ນແມ່ນຄວາມຈິງເດີ, ຂ້ອຍຈື່ມັນ.
+ຝູງກຸ້ງທະເລໃຫຍ່ໄດ້ສູນເສຍໃນຫມອກແລະໄປສູ່ເມືອງ, ບ່ອນທີ່ມີແສງສະຫວ່າງທັງ ຫມົດ.
+
+937
+00:57:58,050 --> 00:58:04,050
+[SALESMAN]
+They made some mess, too, smashing into houses and everything.  They always make a mess. We're better off without them.
+ພວກເຂົາຍັງເຮັດໃຫ້ຄວາມສັບສົນບາງຢ່າງເຊັ່ນກັນ, ການທໍາລາຍເຮືອນແລະທຸກຢ່າງ.
+ພວກເຂົາມັກຈະເຮັດໃຫ້ມີຄວາມສັບສົນຢູ່ສະເຫມີ. ພວກເຮົາດີກວ່າໂດຍບໍ່ມີພວກມັນ.
+
+938
+00:58:04,550 --> 00:58:10,550
+[MRS. BUNDY]
+The point is that no one seemed to get upset about it. They were gone the next morning, just as if nothing at all had happened. Poor things.
+ຈຸດປະສົງແມ່ນວ່າບໍ່ມີໃຜເບິ່ງຄືວ່າຈະໂຊກຮ້າຍກ່ຽວກັບມັນ.
+ພວກເຂົາໄປໃນຕອນເຊົ້າມື້ອື່ນ, ຄືກັບວ່າບໍ່ມີຫຍັງເກີດຂຶ້ນເລີຍ. ສິ່ງທຸກຍາກ.
+
+939
+00:58:11,050 --> 00:58:13,050
+[WOMAN]
+I'm leaving! Are you coming?
+ຂ້ອຍ ກໍາ ລັງອອກໄປ! ເຈົ້າຈະມາບໍ?
+
+940
+00:58:13,550 --> 00:58:17,050
+[SALESMAN]
+All right, all right!  Hope you figure this out, folks.
+ດີແລ້ວ, ດີແລ້ວ! ຫວັງວ່າເຈົ້າຈະຄິດເລື່ອງນີ້, ພວກຄົນ.
+
+941
+00:58:17,550 --> 00:58:19,650
+[DRUNK]
+It's the end of the world.
+ມັນເປັນຕອນທ້າຍຂອງໂລກ.
+
+942
+00:58:20,150 --> 00:58:25,050
+[SHOLES]
+Well, I'd better get back to the cannery. What do I owe you, Deke?
+ດີ, ຂ້ອຍຄວນກັບຄືນໄປບ່ອນໂຮງງານຜະລິດຖັງ
+. ຂ້ອຍເປັນຫນີ້ເຈົ້າຫຼາຍປານໃດ, ເດກ?
+
+943
+00:58:25,550 --> 00:58:27,550
+[DEKE]
+Let's see. Scallops and coffee...
+ມາເບິ່ງກັນ. ກະທູ້ແລະກາເຟ...
+
+944
+00:58:28,050 --> 00:58:30,150
+[MITCH]
+Hold it just a minute, Sebastian.
+ຢືນຢັນດົນຫນຶ່ງ, ເຊເບສຕຽນ.
+
+945
+00:58:30,650 --> 00:58:32,650
+[MITCH]
+Sebastian, I'm not an alarmist.
+ເຊເບສຕຽນ, ຂ້ອຍບໍ່ແມ່ນຄົນຢ້ານກົວ.
+
+946
+00:58:33,150 --> 00:58:35,600
+[SHOLES]
+No one ever said you were, Mitch.
+ບໍ່ມີໃຜເຄີຍເວົ້າວ່າເຈົ້າເປັນ, ມິτς.
+
+947
+00:58:36,100 --> 00:58:42,100
+[MITCH]
+I think we're in trouble. I don't know how or why this started, but I know it's here and I know we'd be crazy to ignore it.
+ຂ້ອຍຄິດວ່າພວກເຮົາຢູ່ໃນຄວາມຫຍຸ້ງຍາກ. ຂ້ອຍບໍ່ຮູ້ວ່າເລື່ອງນີ້ເລີ່ມຕົ້ນແນວໃດຫຼືເປັນຫຍັງ
+, ແຕ່ຂ້ອຍຮູ້ວ່າມັນຢູ່ບ່ອນນີ້ແລະຂ້ອຍຮູ້ວ່າພວກເຮົາຈະໂຊກຮ້າຍທີ່ຈະບໍ່ສົນໃຈມັນ.
+
+948
+00:58:42,600 --> 00:58:44,600
+[MRS. BUNDY]
+Ignore what? The bird war?
+ບໍ່ສົນໃຈຫຍັງ? ສົງຄາມນົກບໍ?
+
+949
+00:58:45,100 --> 00:58:51,100
+[MITCH]
+Yes, the bird war, the bird attack, the bird plague, you can call it what you want to, they're out there massing someplace and they'll be back, you can count on that!
+ແມ່ນແລ້ວ, ສົງຄາມສັດປີກ, ການໂຈມຕີນົກ, ໂຣກພິດນົກໄດ້, ເຈົ້າສາມາດເອີ້ນມັນຕາມທີ່ເຈົ້າຕ້ອງການ
+, ພວກເຂົາຢູ່ໃນບ່ອນນັ້ນເຕົ້າໂຮມຢູ່ບ່ອນໃດແລະພວກເຂົາຈະກັບມາ, ທ່ານສາມາດເຊື່ອຖືໄດ້!
+
+950
+00:58:51,600 --> 00:58:53,600
+[MRS. BUNDY]
+Ridiculous!
+ໂຊກຮ້າຍ!
+
+951
+00:58:54,100 --> 00:58:57,950
+[MITCH]
+Mrs. Bundy, why don't you go home and polish your binoculars?
+ທ່ານນາງບຸນດີ, ເປັນຫຍັງທ່ານຈຶ່ງບໍ່ກັບບ້ານແລະປັ່ນປ່ວນສາຍຕາຂອງທ່ານ?
+
+952
+00:58:58,450 --> 00:59:00,450
+[SAM]
+Go on, Mitch.
+ໄປ, ມິτς.
+
+953
+00:59:00,950 --> 00:59:06,200
+[MITCH]
+If we don't do something now, if we don't get Bodega Bay on the move...
+ຖ້າພວກເຮົາບໍ່ເຮັດບາງສິ່ງບາງຢ່າງດຽວນີ້,
+ຖ້າພວກເຮົາບໍ່ໄດ້ເຮັດໃຫ້ໂບເດກາ ບາຍເຄື່ອນຍ້າຍ...
+
+954
+00:59:06,700 --> 00:59:10,900
+[SHOLES]
+Look, Mitch, even if this is true, even if all the birds...
+ເບິ່ງແມຕຊ໌, ເຖິງແມ່ນວ່າສິ່ງນີ້ຈະເປັນຄວາມຈິງ
+, ເຖິງແມ່ນວ່ານົກທັງ ຫມົດ...
+
+955
+00:59:11,400 --> 00:59:13,500
+[MITCH]
+Do you believe it's true, Sebastian?
+ເຈົ້າເຊື່ອວ່າມັນເປັນຄວາມຈິງບໍ, ເຊເບສຕຽນ?
+
+956
+00:59:14,000 --> 00:59:18,200
+[SHOLES]
+No. I don't, Mitch. Because I can't see any reason for it.
+ບໍ່. ຂ້ອຍບໍ່ເຮັດ, ມິτς.
+ເພາະວ່າຂ້ອຍບໍ່ສາມາດເຫັນເຫດຜົນໃດໆ ສໍາ ລັບມັນໄດ້.
+
+957
+00:59:18,700 --> 00:59:21,500
+[MITCH]
+It's happening. Isn't that a good enough reason?
+ມັນ ກໍາ ລັງເກີດຂຶ້ນ. ນັ້ນບໍ່ແມ່ນເຫດຜົນທີ່ດີພໍບໍ?
+
+958
+00:59:22,000 --> 00:59:26,200
+[SHOLES]
+I like Bodega Bay as well as any man. If I thought...
+ຂ້ອຍມັກໂບເດກາ ແບນເຊັ່ນກັນກັບຜູ້ຊາຍໃດໆ. ຖ້າຂ້ອຍຄິດວ່າ...
+
+959
+00:59:26,700 --> 00:59:32,650
+[MITCH]
+Then help me, Sebastian. You're an important man in this town. If you'll help, the rest will.
+ຫຼັງຈາກນັ້ນຊ່ວຍຂ້ອຍ, ເຊເບສຕຽນ. ເຈົ້າເປັນຜູ້ຊາຍທີ່ສໍາຄັນໃນເມືອງນີ້
+. ຖ້າເຈົ້າຈະຊ່ວຍ, ສ່ວນທີ່ເຫຼືອຈະເຮັດ.
+
+960
+00:59:33,150 --> 00:59:35,950
+[SHOLES]
+Help how? What do you want to do?
+ຊ່ວຍແນວໃດ? ເຈົ້າຢາກເຮັດຫຍັງ?
+
+961
+00:59:36,450 --> 00:59:38,450
+[MITCH]
+I'm not sure, but...
+ຂ້ອຍບໍ່ແນ່ໃຈ, ແຕ່...
+
+962
+00:59:38,950 --> 00:59:42,450
+[SHOLES]
+If you don't even know what you want to do...
+ຖ້າເຈົ້າບໍ່ຮູ້ເລີຍວ່າເຈົ້າຢາກເຮັດຫຍັງ...
+
+963
+00:59:42,950 --> 00:59:44,950
+[MELANIE]
+Listen to him, please.
+ຟັງລາວ, ກະລຸນາ.
+
+964
+00:59:45,450 --> 00:59:47,450
+[SAM]
+You listen to him, Sebastian!
+ເຈົ້າຟັງລາວ, ເຊເບສຕຽນ!
+
+965
+00:59:47,950 --> 00:59:53,900
+[MITCH]
+I only know we've got to drive them away from town -- before they drive us away.
+ຂ້ອຍພຽງແຕ່ຮູ້ວ່າພວກເຮົາຕ້ອງຂັບພວກເຂົາອອກຈາກເມືອງ
+- ກ່ອນທີ່ພວກເຂົາຈະຂັບພວກເຮົາໄປ.
+
+966
+00:59:54,400 --> 00:59:56,400
+[SHOLES]
+How?
+ແນວໃດ?
+
+967
+00:59:56,900 --> 01:00:02,900
+[MITCH]
+Mrs. Bundy, you said something about Santa Cruz. About seagulls getting lost in the fog, and heading in for the lights.
+ທ່ານນາງບຸນດີ, ທ່ານເວົ້າບາງສິ່ງບາງຢ່າງກ່ຽວກັບແຊນຕາ ຄຣູຊ໌
+. ກ່ຽວກັບກະຕ່າທະເລທີ່ຫາຍໄປໃນຫມອກ, ແລະໄປສູ່ແສງສະຫວ່າງ.
+
+968
+01:00:03,400 --> 01:00:06,900
+[DEKE]
+We don't have any fog this time of year, Mitch.
+ພວກເຮົາບໍ່ມີຫມອກໃດໆໃນເວລານີ້ຂອງປີ, ມິτς.
+
+969
+01:00:07,400 --> 01:00:09,400
+[MITCH]
+We'll make our own fog.
+ພວກເຮົາຈະເຮັດຫມອກຂອງພວກເຮົາເອງ.
+
+970
+01:00:09,900 --> 01:00:12,350
+[SHOLES]
+How do you plan to do that?
+ເຈົ້າວາງແຜນທີ່ຈະເຮັດແບບນັ້ນແນວໃດ?
+
+971
+01:00:12,850 --> 01:00:14,850
+[MITCH]
+With smoke.
+ດ້ວຍສູບຢາ.
+
+972
+01:00:15,350 --> 01:00:19,200
+[MALONE]
+There's an ordinance against burning anything in this town, unless it's...
+ມີຄໍາສັ່ງຫ້າມການເຜົາໄຫມ້ທຸກຢ່າງໃນເມືອງນີ້
+, ເວັ້ນເສຍແຕ່ວ່າມັນແມ່ນ...
+
+973
+01:00:19,700 --> 01:00:22,500
+[MITCH]
+We'll use smoke pots. Like the Army uses.
+ພວກເຮົາຈະໃຊ້ຖັງສູບຢາ. ຄືກັບທີ່ກອງທັບໃຊ້.
+
+974
+01:00:23,000 --> 01:00:26,150
+[DEKE]
+What good'll that do? Smoke's as bad as birds.
+ມັນຈະຊ່ວຍຫຍັງໄດ້? ຢາສູບຮ້າຍແຮງເທົ່າກັບນົກ.
+
+975
+01:00:26,650 --> 01:00:28,650
+[MRS. BUNDY]
+Birds are not bad!
+ນົກບໍ່ຮ້າຍແຮງ!
+
+976
+01:00:29,150 --> 01:00:34,050
+[SHOLES]
+How can we go on living here if we blanket the town with smoke?
+ພວກເຮົາຈະສືບຕໍ່ອາໄສຢູ່ບ່ອນນີ້ໄດ້ແນວໃດຖ້າພວກເຮົາປົກຄຸມເມືອງດ້ວຍສູບຢາ
+?
+
+977
+01:00:34,550 --> 01:00:37,000
+[MITCH]
+Can we go on living here otherwise?
+ພວກເຮົາສາມາດດໍາລົງຊີວິດຢູ່ບ່ອນນີ້ໄດ້ບໍ?
+
+978
+01:00:37,500 --> 01:00:39,500
+[SAM]
+It's worth a try, Sebastian.
+ມັນຄຸ້ມຄ່າທີ່ຈະພະຍາຍາມ, ເຊເບສຕຽນ.
+
+979
+01:00:40,000 --> 01:00:42,000
+[MELANIE]
+Look!
+ເບິ່ງແມ!
+
+980
+01:00:42,500 --> 01:00:44,500
+[DEKE]
+Gulls!
+ກູລ໌!
+
+981
+01:00:45,000 --> 01:00:47,000
+[MITCH]
+They're back!
+ພວກເຂົາກັບມາແລ້ວ!
+
+982
+01:00:47,500 --> 01:00:49,950
+[SHOLES]
+They're only the usual... What are you...
+ພວກເຂົາພຽງແຕ່ເປັນປົກກະຕິ... ເຈົ້າເປັນຫຍັງ...
+
+983
+01:00:50,450 --> 01:00:52,450
+[MITCH]
+Stay back in here.
+ຢູ່ບ່ອນນີ້.
+
+984
+01:00:52,950 --> 01:00:54,950
+[MELANIE]
+Mitch...! Mitch!
+ມິດຊ໌...! ມິດສ໌!
+
+985
+01:00:55,450 --> 01:00:58,950
+[WOMAN]
+Why are they doing it?! Why are they doing it...?!
+ພວກເຂົາເຮັດມັນເປັນຫຍັງ?! ເປັນຫຍັງພວກເຂົາຈຶ່ງເຮັດມັນ...?!
+
+986
+01:00:59,450 --> 01:01:01,450
+[MITCH]
+I think they're going.
+ຂ້ອຍຄິດວ່າພວກເຂົາຈະໄປ.
+
+987
+01:01:01,950 --> 01:01:04,750
+[MITCH]
+I think it's safe to get out now.
+ຂ້ອຍຄິດວ່າມັນປອດໄພທີ່ຈະອອກໄປດຽວນີ້.
+
+988
+01:01:05,250 --> 01:01:07,250
+[MELANIE]
+Don't let's take any chances.
+ຢ່າໃຫ້ພວກເຮົາສ່ຽງຫຍັງເລີຍ.
+
+989
+01:01:07,750 --> 01:01:09,750
+[MITCH]
+We've got to get Cathy.
+ພວກເຮົາຕ້ອງເອົາແຄຕີ້.
+
+990
+01:01:10,250 --> 01:01:12,250
+[MELANIE'S VOICE]
+Look... the crows again.
+ເບິ່ງ... ກະຕ່າອີກເທື່ອຫນຶ່ງ.
+
+991
+01:01:12,750 --> 01:01:16,600
+[MELANIE]
+Careful, Mitch. The crows may be back in the play yard.
+ລະມັດລະວັງ, ມິτς. ກະຕ່າອາດຈະກັບຄືນໄປບ່ອນເດີ່ນຫຼິ້ນ.
+
+992
+01:01:17,100 --> 01:01:19,100
+[MELANIE]
+Mitch! Don't!
+ມິτς! ຢ່າເຮັດ!
+
+993
+01:01:19,600 --> 01:01:22,400
+[MELANIE]
+Please! Get Cathy!  Let's get out of here!
+ກະລຸນາ! ເອົາແຄຕີ້! ໄປຈາກບ່ອນນີ້!
+
+994
+01:01:22,900 --> 01:01:25,350
+[MELANIE]
+Mitch, you can't leave her out there.
+ມິτς, ເຈົ້າບໍ່ສາມາດປ່ອຍນາງຢູ່ບ່ອນນັ້ນໄດ້.
+
+995
+01:01:25,850 --> 01:01:27,850
+[MELANIE]
+You drive, Mitch.
+ເຈົ້າຂັບລົດ, ມິτς.
+
+996
+01:01:28,350 --> 01:01:30,350
+[MELANIE]
+I don't think they're coming.
+ຂ້ອຍບໍ່ຄິດວ່າພວກເຂົາຈະມາ.
+
+997
+01:01:30,850 --> 01:01:36,850
+[CATHY]
+On our way back from taking Michele home... we... we heard the explosion and went outside to... see what... what it was.  All at once the... the birds were everywhere. All at once.  She... she pushed me inside and... they covered her.  Annie.  She pushed me inside.
+ໃນທາງກັບມາຈາກການພາມິເຊວກັບບ້ານ... ພວກເຮົາ... ພວກເຮົາໄດ້ຍິນການລະເບີດແລະອອກໄປພາຍນອກເພື່ອ... ເບິ່ງວ່າມັນເປັນຫຍັງ... ມັນແມ່ນຫຍັງ
+. ທຸກຢ່າງທັນທີ... ນົກຢູ່ທຸກບ່ອນ. ທັງ ຫມົດ ທັນທີ. ນາງ... ນາງດັນຂ້ອຍເຂົ້າໄປໃນແລະ... ພວກເຂົາປົກຄຸມນາງ. ແອນນີ. ນາງດຶງຂ້ອຍເຂົ້າມາ.
+
+998
+01:01:37,350 --> 01:01:43,350
+[DISSOLVE]
+CLOSE SHOT - A LONE GULL flying low over the water, the CAMERA TRACKING it. The bay is silent. The gull spreads its wings to brake, and then sits on the water. The CAMERA continues low over the water, going through thousands of gulls sitting there patiently, as if it is threading itself through a crowd, not a sound, over the gulls, and then lifting to show the Brenner house in the distance.
+ການຍິງໃກ້ຊິດ - ກູລ໌ຄົນດຽວບິນຕໍ່າຢູ່ເທິງນ້ ໍາ, ກ້ອງຖ່າຍຮູບຕິດຕາມມັນ. ແຄມແມ່ນງຽບສະຫງົບ. ກະຕ່າກະຕ່າຂວາງປີກຂອງມັນເພື່ອບຣັກ, ແລະຫຼັງຈາກນັ້ນນັ່ງຢູ່ເທິງນໍ້າ. ກ້ອງ
+ຖ່າຍຮູບສືບຕໍ່ຕໍ່າໃນເທິງນໍ້າ, ຜ່ານກະຕູ້ພັນຄົນນັ່ງຢູ່ນັ້ນຢ່າງອົດທົນ, ຄືກັບວ່າມັນ ກໍາ ລັງ threading ຕົວເອງຜ່ານຄົນຊົມເຊີຍ, ບໍ່ແມ່ນສຽງ, ເທິງກະຕ້າ, ແລະຈາກນັ້ນຍົກເພື່ອ
+
+999
+01:01:43,850 --> 01:01:45,850
+[MELANIE]
+The town looks clear.
+ເມືອງເບິ່ງຄືວ່າສະອາດ.
+
+1000
+01:01:46,350 --> 01:01:48,350
+[MITCH]
+The bay doesn't.
+ແຄມທະເລບໍ່ໄດ້ເຮັດ.
+
+1001
+01:01:48,850 --> 01:01:51,300
+[MELANIE]
+How long have they been gathering there?
+ພວກເຂົາໄດ້ເຕົ້າໂຮມກັນຢູ່ບ່ອນນັ້ນດົນປານໃດ?
+
+1002
+01:01:51,800 --> 01:01:57,800
+[MITCH]
+The past fifteen minutes.  It seems to be a pattern, doesn't it? They strike and disappear, and then they start massing again.
+ໃນເວລາສິບຫ້ານາທີທີ່ຜ່ານມາ. ມັນເບິ່ງຄືວ່າເປັນຮູບແບບ, ແມ່ນບໍ?
+ພວກເຂົາໂຈມຕີແລະຫາຍໄປ, ແລະຫຼັງຈາກນັ້ນພວກເຂົາເລີ່ມຕົ້ນໂຮມກັນອີກຄັ້ງ.
+
+1003
+01:01:58,300 --> 01:02:00,300
+[MELANIE]
+I keep thinking of Annie.
+ຂ້ອຍຍັງຄິດແອນນີຢູ່.
+
+1004
+01:02:00,800 --> 01:02:06,400
+[MITCH]
+It... it doesn't look very different, does it? A little smoke over the town, but otherwise...
+ມັນ... ມັນເບິ່ງຄືວ່າບໍ່ແຕກຕ່າງກັນຫຼາຍ, ແມ່ນບໍ
+? ຢາສູບນ້ອຍໆຢູ່ເທິງເມືອງ, ແຕ່ຖ້າບໍ່ດັ່ງນັ້ນ...
+
+1005
+01:02:06,900 --> 01:02:12,900
+[MELANIE]
+Even the birds sitting out there. It does look very much the same, Mitch. This could be last week.
+ເຖິງແມ່ນວ່ານົກທີ່ນັ່ງຢູ່ບ່ອນນັ້ນ. ມັນເບິ່ງຄືວ່າຄືກັນຫຼາຍ
+, ມິτς. ນີ້ແມ່ນອາດຈະເປັນອາທິດທີ່ຜ່ານມາ.
+
+1006
+01:02:13,400 --> 01:02:17,600
+[MITCH]
+It may not be last week again for a long long time.
+ມັນອາດຈະບໍ່ແມ່ນອາທິດທີ່ຜ່ານມາອີກເທື່ອຫນຶ່ງເປັນເວລາດົນນານ.
+
+1007
+01:02:18,100 --> 01:02:20,100
+[MELANIE]
+Look. They're still coming.
+ເບິ່ງ. ພວກເຂົາຍັງມາຢູ່.
+
+1008
+01:02:20,600 --> 01:02:23,400
+[MITCH]
+Do you want to try your father again?
+ເຈົ້າຢາກພະຍາຍາມພໍ່ອີກບໍ?
+
+1009
+01:02:23,900 --> 01:02:27,050
+[MELANIE]
+I tried a little while ago. The phone's dead.
+ຂ້ອຍພະຍາຍາມເມື່ອບໍ່ດົນມານີ້. ໂທລະສັບຕາຍແລ້ວ.
+
+1010
+01:02:27,550 --> 01:02:29,550
+[MITCH]
+Have we still got power?
+ພວກເຮົາຍັງມີພະລັງງານບໍ?
+
+1011
+01:02:30,050 --> 01:02:33,200
+[MELANIE]
+Yes.  I'm tired, Mitch. I'm so very very tired.
+ແມ່ນແລ້ວ. ຂ້ອຍເມື່ອຍແລ້ວ, ມິτς. ຂ້ອຍເບື່ອຫຼາຍຫຼາຍ.
+
+1012
+01:02:33,700 --> 01:02:36,150
+[LYDIA]
+Mitch! I'm getting something on the radio!
+ມິτς! ຂ້ອຍ ກໍາ ລັງໄດ້ຮັບບາງສິ່ງບາງຢ່າງໃນວິທະຍຸ!
+
+1013
+01:02:36,650 --> 01:02:41,550
+[LYDIA]
+I can't get any of the local stations. I think this is San Francisco.
+ຂ້ອຍບໍ່ສາມາດເຂົ້າເຖິງສະຖານີທ້ອງຖິ່ນໃດໆໄດ້
+. ຂ້ອຍຄິດວ່ານີ້ແມ່ນແຊນຟຣານຊິສໂກ.
+
+1014
+01:02:42,050 --> 01:02:48,050
+[ANNOUNCER]
+...would include formulation of a central financing committee to handle credit and to allocate responsibility for the various facets of the project. A vote on the motion is expected early tomorrow morning.
+... ຈະລວມທັງການສ້າງຕັ້ງຄະນະກໍາມະການການເງິນສູນກາງເພື່ອຈັດການສິນເຊື່ອແລະຈັດສັນຄວາມຮັບຜິດຊອບ
+ສໍາ ລັບດ້ານຕ່າງໆຂອງໂຄງການ. ການລົງຄະແນນສຽງກ່ຽວກັບການເຄື່ອນໄຫວຄາດວ່າໃນຕອນເຊົ້າມື້ອື່ນ.
+
+1015
+01:02:48,550 --> 01:02:54,550
+[ANNOUNCER]
+Continuing with the local news, police are still investigating the series of valuable jade burglaries in the Chinatown area. The round-up of known criminals has not as yet produced a suspect, but Commissioner Nelson said today he was certain the burglaries were quote linked and the work of the team of professionals unquote.  In Bodega Bay early this morning, a large flock of crows attacked a group of children who were leaving the school during a fire drill. One little girl was seriously injured and taken to the hospital in Santa Rosa, but the majority of children reached safety in the town.  On the national scene today, the opening of the new session of Congress was marked by a State of the Union address that...
+ຕໍ່ໄປກັບຂ່າວທ້ອງຖິ່ນ, ຕໍາຫຼວດຍັງສືບສວນການລັກລອບເຈດທີ່ມີຄຸນຄ່າໃນເຂດເມືອງຈີນ. ການຈັບກຸມຂອງອາຊະຍາກໍາທີ່ຮູ້ຈັກຍັງບໍ່ທັນໄດ້ຜະລິດຜູ້ຕ້ອງສົງໄສ, ແຕ່ຄະນະກໍາມະການເນລສັນເວົ້າວ່າມື້ນີ້ລາວແນ່ໃຈວ່າການລັກລັກແມ່ນເຊື່ອມໂຍງກັບ
+quote ແລະ ວຽກງານຂອງທີມງານຂອງຜູ້ຊ່ຽວຊານ unquote. ໃນ Bodega Bay ໃນຕອນເຊົ້າມື້ນີ້, ກຸ່ມໃຫຍ່ຂອງກະຕ່າໂຈມຕີກຸ່ມເດັກນ້ອຍທີ່ອອກຈາກໂຮງຮຽນໃນລະຫວ່າງການຝຶກອົບຮ
+
+1016
+01:02:55,050 --> 01:02:57,050
+[MITCH]
+Is that all?
+ນັ້ນແມ່ນທັງຫມົດບໍ?
+
+1017
+01:02:57,550 --> 01:03:03,550
+[ANNOUNCER]
+...drew a standing ovation for the President. The Chief Executive, in discussing our relation to Europe and the rest of the world community said: "These various elements of our foreign policy lead as I have said to a single goal --
+... ໄດ້ດຶງດູດການຊົມເຊີຍທີ່ຢືນຢູ່ຕໍ່ປະທານາທິບໍດີ. ຫົວຫນ້າຜູ້ບໍລິຫານ, ໃນການປຶກສາຫາລືຄວາມສໍາພັນຂອງພວກເຮົາກັບເອີຣົບແລະຊຸມຊົນໂລກທີ່ເຫຼືອໄດ້ກ່າວວ່າ
+:"ອົງປະກອບຕ່າງໆຂອງນະໂຍບາຍການຕ່າງປະເທດຂອງພວກເຮົາ ນໍາ ໄປສູ່ເປົ້າຫມາຍດຽວ -
+
+1018
+01:03:04,050 --> 01:03:09,300
+[MITCH]
+We're going to need more wood for the fire. We can't let it go out.
+ພວກເຮົາຈະຕ້ອງການໄມ້ຫຼາຍຂຶ້ນ ສໍາ ລັບໄຟ
+. ພວກເຮົາບໍ່ສາມາດປ່ອຍໃຫ້ມັນປິດໄດ້.
+
+1019
+01:03:09,800 --> 01:03:15,800
+[ANNOUNCER]
+The goal of a peaceful world of free and independent states.  This is our guide for the present and our vision for the future -- a free community of nations, independent but interdependent, uniting north and south, east and west, in one great family of man, outgrowing and transcending the hates and fears that rend our age.  We will not reach that goal today or tomorrow.  We may not reach it in our lifetime.  But the quest is the great adventure of our century.  We sometimes chafe at the burdens of our obligations, the complexity of our decisions, the agony of our choices, but there is no comfort or security for us in evasion, no solution in abdication, no relief in irresponsibility.  In assuming the tasks of the Presidency, I said that few generations, in all history, had been granted the role of being the great defender of freedom in its hour of maximum danger.  This is our good fortune, and I welcome it now as I did when I first took office.  For it is the fate of this generation -- Of you in the Congress and of me as President -- to live with a struggle we did not start, in a world we did - not make. But the pressures of life are not always distributed by choice. And while no nation has ever faced such a challenge, no nation has ever been ready to seize the burden and the glory of...
+ເປົ້າຫມາຍຂອງໂລກທີ່ສະຫງົບສຸກຂອງລັດເສລີແລະອິດສະຫຼະ. ນີ້ແມ່ນຄູ່ມືຂອງພວກເຮົາສໍາລັບປະຈຸບັນແລະວິໄສທັດຂອງພວກເຮົາສໍາລັບອະນາຄົດ - ປະຊາຄົມເສລີຂອງປະເທດຊາດ, ອິດສະຫຼະແຕ່ອີງໃສ່ກັນແລະກັນ, ການເຊື່ອມໂຍງພາກເຫນືອແລະພາກໃຕ້
+, ຕາເວັນອອກແລະຕາເວັນຕົກ, ໃນຄອບຄົວໃຫຍ່ດຽວຂອງມະນຸດ, ການເຕີບໃຫຍ່ແລະເກີນຄວາມກຽດຊັງແລະຄວາມຢ້ານກົວທີ່ເຮັດໃຫ້ອາຍຸຂອງພວກເຮົາ. ພວກເຮົາຈະບໍ່ບັນລຸເປົ້າຫມາຍນັ້ນໃນມື້ນີ້ຫຼືມື້ອື່ນ. ພວກເຮົາອາດຈະບໍ່ບັນລ
+
+1020
+01:03:16,300 --> 01:03:19,800
+[LYDIA]
+Did you you get the windows in the attic, Mitch?
+ເຈົ້າເອົາປ່ອງຢ້ຽມໃນຊັ້ນເທິງບໍ, ມິτς?
+
+1021
+01:03:20,300 --> 01:03:22,300
+[MITCH]
+I got them all, Mother.
+ຂ້ອຍໄດ້ພວກມັນທັງ ຫມົດ, ແມ່.
+
+1022
+01:03:22,800 --> 01:03:24,900
+[LYDIA]
+When do you think they'll come?
+ເຈົ້າຄິດວ່າພວກເຂົາຈະມາເມື່ອໃດ?
+
+1023
+01:03:25,400 --> 01:03:27,400
+[MITCH]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+1024
+01:03:27,900 --> 01:03:31,750
+[LYDIA]
+If there are... larger birds, Mitch... they'll get into the house.
+ຖ້າມີ... ນົກໃຫຍ່ກວ່າ, ມິτς... ພວກເຂົາຈະເຂົ້າໄປໃນເຮືອນ.
+
+1025
+01:03:32,250 --> 01:03:34,700
+[MITCH]
+That's a chance we have to take.
+ນັ້ນແມ່ນໂອກາດທີ່ພວກເຮົາຕ້ອງເອົາ.
+
+1026
+01:03:35,200 --> 01:03:37,200
+[LYDIA]
+Maybe we ought to leave.
+ບາງທີພວກເຮົາຄວນອອກໄປ.
+
+1027
+01:03:37,700 --> 01:03:40,500
+[MITCH]
+Not now.  Not while they're massing out there.
+ບໍ່ໃນເວລານີ້. ບໍ່ໃນຂະນະທີ່ພວກເຂົາ ກໍາ ລັງເຕົ້າໂຮມຢູ່ນອກນັ້ນ.
+
+1028
+01:03:41,000 --> 01:03:43,000
+[LYDIA]
+When?
+ເມື່ອໃດ?
+
+1029
+01:03:43,500 --> 01:03:45,950
+[MITCH]
+I don't know when.  We'll see what...
+ຂ້ອຍບໍ່ຮູ້ວ່າເມື່ອໃດ. ພວກເຮົາຈະເຫັນວ່າ...
+
+1030
+01:03:46,450 --> 01:03:48,450
+[LYDIA]
+Where will we go?
+ພວກເຮົາຈະໄປໃສ?
+
+1031
+01:03:48,950 --> 01:03:54,200
+[MITCH]
+I don't know yet.  I think we'll be safe here.  Let's bring that wood in.
+ຂ້ອຍຍັງບໍ່ຮູ້ເທື່ອ. ຂ້ອຍຄິດວ່າພວກເຮົາຈະປອດໄພຢູ່ນີ້
+. ມາເອົາໄມ້ນັ້ນເຂົ້າມາ.
+
+1032
+01:03:54,700 --> 01:03:57,500
+[LYDIA]
+What happens when we run out of wood?
+ຈະເກີດຫຍັງຂຶ້ນເມື່ອພວກເຮົາຫມົດໄມ້?
+
+1033
+01:03:58,000 --> 01:04:00,800
+[MITCH]
+I don't know. We'll break up the furni...
+ຂ້ອຍບໍ່ຮູ້. ພວກເຮົາຈະແຕກແຍກຟູຣີ...
+
+1034
+01:04:01,300 --> 01:04:06,900
+[LYDIA]
+You don't know, you don't know! When will you know? When we're all dead? Like Annie?
+ເຈົ້າບໍ່ຮູ້ວ່າ, ເຈົ້າບໍ່ຮູ້! ເຈົ້າຈະຮູ້ເມື່ອໃດ
+? ເມື່ອພວກເຮົາທຸກຄົນຕາຍແລ້ວບໍ? ຄືກັບແອນນີ?
+
+1035
+01:04:07,400 --> 01:04:09,400
+[CATHY]
+Mother!
+ແມ່!
+
+1036
+01:04:09,900 --> 01:04:11,900
+[LYDIA]
+If your father were here...
+ຖ້າພໍ່ເຈົ້າຢູ່ບ່ອນນີ້...
+
+1037
+01:04:12,400 --> 01:04:15,200
+[MITCH]
+Mother! I'm trying my best!  I'm... trying... my...
+ແມ່! ຂ້ອຍ ກໍາ ລັງພະຍາຍາມດີທີ່ສຸດ! ຂ້ອຍ... ພະຍາຍາມ... ຂອງຂ້ອຍ...
+
+1038
+01:04:15,700 --> 01:04:17,700
+[LYDIA]
+I'm sorry, Mitch.
+ຂ້ອຍຂໍໂທດ, ມິτς.
+
+1039
+01:04:18,200 --> 01:04:22,750
+[MITCH]
+Let's get the wood. Why don't you make us all some coffee, Mother?
+ມາເອົາໄມ້. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຮັດກາເຟໃຫ້ພວກເຮົາທຸກຄົນ, ແມ່?
+
+1040
+01:04:23,250 --> 01:04:25,250
+[MELANIE]
+Where are they heading?
+ພວກເຂົາ ກໍາ ລັງໄປໃສ?
+
+1041
+01:04:25,750 --> 01:04:27,750
+[MITCH]
+Inland.
+ທາງພາຍໃນ.
+
+1042
+01:04:28,250 --> 01:04:30,250
+[MELANIE]
+Santa Rosa?
+ແຊນຕາ ໂຣຊາບໍ?
+
+1043
+01:04:30,750 --> 01:04:32,750
+[MITCH]
+Maybe.
+ບາງທີ.
+
+1044
+01:04:33,250 --> 01:04:35,700
+[MITCH]
+Come on. Let's get this wood in.
+ມາແລ້ວ. ມາເອົາໄມ້ນີ້ເຂົ້າມາ.
+
+1045
+01:04:36,200 --> 01:04:38,200
+[MELANIE]
+That's the last of it.
+ນັ້ນແມ່ນຄັ້ງສຸດທ້າຍຂອງມັນ.
+
+1046
+01:04:38,700 --> 01:04:40,700
+[LYDIA]
+Did you close the door?
+ເຈົ້າປິດປະຕູບໍ?
+
+1047
+01:04:41,200 --> 01:04:43,200
+[MELANIE]
+And locked it.
+ແລະລັອກມັນ.
+
+1048
+01:04:43,700 --> 01:04:46,500
+[CATHY]
+Mitch, can I bring the lovebirds in here?
+ມິτς, ຂ້ອຍສາມາດເອົານົກຮັກມາບ່ອນນີ້ໄດ້ບໍ?
+
+1049
+01:04:47,000 --> 01:04:49,000
+[LYDIA]
+No!
+ບໍ່!
+
+1050
+01:04:49,500 --> 01:04:51,500
+[CATHY]
+Mom, they're in a cage!
+ແມ່, ພວກເຂົາຢູ່ໃນຄຸເຂົ່າລົງ!
+
+1051
+01:04:52,000 --> 01:04:54,000
+[LYDIA]
+They're birds!
+ພວກເຂົາເປັນນົກ!
+
+1052
+01:04:54,500 --> 01:04:56,950
+[MITCH]
+Let them stay in the other room.
+ໃຫ້ພວກເຂົາຢູ່ຫ້ອງອື່ນ.
+
+1053
+01:04:57,450 --> 01:05:00,250
+[CATHY]
+Mitch? Why are they doing this?  The birds.
+ມິτς? ພວກເຂົາເຮັດສິ່ງນີ້ເປັນຫຍັງ? ນົກ.
+
+1054
+01:05:00,750 --> 01:05:02,750
+[MITCH]
+I don't know, honey.
+ຂ້ອຍບໍ່ຮູ້ແມ.
+
+1055
+01:05:03,250 --> 01:05:05,700
+[CATHY]
+Why are they trying to kill people?
+ພວກເຂົາພະຍາຍາມຂ້າຄົນເປັນຫຍັງ?
+
+1056
+01:05:06,200 --> 01:05:12,200
+[MITCH]
+I wish I could say. But if I could answer that, I could also tell you why people are trying to kill people.
+ຂ້ອຍຢາກເວົ້າໄດ້. ແຕ່ຖ້າຂ້ອຍສາມາດຕອບໄດ້ນັ້ນ,
+ຂ້ອຍຍັງສາມາດບອກເຈົ້າວ່າເປັນຫຍັງຄົນ ກໍາ ລັງພະຍາຍາມຂ້າຄົນ.
+
+1057
+01:05:12,700 --> 01:05:14,700
+[LYDIA]
+Mitch...
+ມິτς...
+
+1058
+01:05:15,200 --> 01:05:17,200
+[MITCH]
+Shhh. Shhh.
+ສະຫວັນນະເຂດ.
+
+1059
+01:05:17,700 --> 01:05:21,200
+[CATHY]
+I'm... I'm sick, Melanie. I want.. I want to throw...
+ຂ້ອຍ... ຂ້ອຍເຈັບປ່ວຍ, ເມລານີ. ຂ້ອຍຢາກ... ຂ້ອຍຢາກຖິ້ມ...
+
+1060
+01:05:21,700 --> 01:05:23,700
+[MELANIE]
+I'll go with you.
+ຂ້ອຍຈະໄປກັບເຈົ້າ.
+
+1061
+01:05:24,200 --> 01:05:26,200
+[MELANIE]
+When will they stop?
+ພວກເຂົາຈະຢຸດເຊົາເມື່ອໃດ?
+
+1062
+01:05:26,700 --> 01:05:29,150
+[MITCH]
+I thought they'd have stopped by now.
+ຂ້ອຍຄິດວ່າພວກເຂົາຈະຢຸດຢູ່ດຽວນີ້.
+
+1063
+01:05:29,650 --> 01:05:31,650
+[MELANIE]
+What time is it?
+ເວລາເທົ່າໃດ?
+
+1064
+01:05:32,150 --> 01:05:34,150
+[MITCH]
+Almost two a.m.
+ເກືອບສອງໂມງເຊົ້າ.
+
+1065
+01:05:34,650 --> 01:05:36,650
+[MELANIE]
+You must be exhausted.
+ເຈົ້າຕ້ອງເມື່ອຍແລ້ວ.
+
+1066
+01:05:37,150 --> 01:05:39,150
+[MITCH]
+How about you?
+ເຈົ້າແນວໃດ?
+
+1067
+01:05:39,650 --> 01:05:41,750
+[MITCH]
+I wonder if Cathy fed them.
+ຂ້ອຍຢາກຮູ້ວ່າແຄຕຕີ້ໄດ້ໃຫ້ອາຫານພວກເຂົາບໍ.
+
+1068
+01:05:42,250 --> 01:05:45,050
+[MITCH]
+You should have left when you wanted to.
+ເຈົ້າຄວນອອກຈາກເມື່ອເຈົ້າຢາກ.
+
+1069
+01:05:45,550 --> 01:05:48,000
+[MITCH]
+You'd have been safe in San Francisco.
+ເຈົ້າຈະປອດໄພໃນແຊນຟຣານຊິສໂກ.
+
+1070
+01:05:48,500 --> 01:05:52,700
+[MELANIE]
+I don't want to be safe. I want to be with you.
+ຂ້ອຍບໍ່ຢາກປອດໄພ. ຂ້ອຍຢາກຢູ່ກັບເຈົ້າ.
+
+1071
+01:05:53,200 --> 01:05:55,200
+[MITCH]
+The power.
+ອໍານາດ.
+
+1072
+01:05:55,700 --> 01:05:57,700
+[MELANIE]
+Mitch...
+ມິτς...
+
+1073
+01:05:58,200 --> 01:06:00,200
+[MITCH]
+Wait here. Don't move.
+ລໍຖ້າຢູ່ບ່ອນນີ້. ຢ່າເຄື່ອນຍ້າຍ.
+
+1074
+01:06:00,700 --> 01:06:03,150
+[MITCH]
+We'd better light some of those lamps.
+ພວກເຮົາຄວນສ່ອງແສງບາງແສງນັ້ນ.
+
+1075
+01:06:03,650 --> 01:06:05,650
+[MELANIE]
+No... wait.  Hold me.
+ບໍ່... ລໍຖ້າ. ຈັບຂ້ອຍໄວ້.
+
+1076
+01:06:06,150 --> 01:06:08,150
+[MITCH]
+I think they're easing off.
+ຂ້ອຍຄິດວ່າພວກເຂົາ ກໍາ ລັງຜ່ອນຜັນ.
+
+1077
+01:06:08,650 --> 01:06:10,650
+[MELANIE]
+Mitch?
+ມິτς?
+
+1078
+01:06:11,150 --> 01:06:13,150
+[MELANIE]
+Mitch?
+ມິτς?
+
+1079
+01:06:13,650 --> 01:06:15,650
+[MITCH]
+Melanie!
+ແມລານີ!
+
+1080
+01:06:16,150 --> 01:06:18,150
+[MITCH]
+Melanie, open the door!
+ເມລານີ, ເປີດປະຕູ!
+
+1081
+01:06:18,650 --> 01:06:20,750
+[LYDIA]
+Mitch, get her out of there!
+ມິτς, ເອົານາງອອກຈາກບ່ອນນັ້ນ!
+
+1082
+01:06:21,250 --> 01:06:23,250
+[MITCH]
+Melanie!
+ແມລານີ!
+
+1083
+01:06:23,750 --> 01:06:25,750
+[MITCH]
+Mother, get a rope!
+ແມ່, ເອົາສາຍແອວ!
+
+1084
+01:06:26,250 --> 01:06:28,350
+[LYDIA]
+Oh, my God, look at her!
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ, ເບິ່ງນາງແມ!
+
+1085
+01:06:28,850 --> 01:06:30,850
+[MITCH]
+Get a rope!
+ເອົາສາຍແອວ!
+
+1086
+01:06:31,350 --> 01:06:33,350
+[MITCH]
+Mother! Hurry!
+ແມ່! ໄວ!
+
+1087
+01:06:33,850 --> 01:06:36,300
+[MITCH]
+Cathy! Get a blanket and some bandages!
+ແຄຕຕີ້! ເອົາຜ້າປົກແລະຜ້າຄຸມບາງຢ່າງ!
+
+1088
+01:06:36,800 --> 01:06:38,800
+[CATHY]
+Is she all right?
+ນາງບໍ່ເປັນຫຍັງບໍ?
+
+1089
+01:06:39,300 --> 01:06:41,300
+[MELANIE]
+I'm... I'm....
+ຂ້ອຍ... ຂ້ອຍ...
+
+1090
+01:06:41,800 --> 01:06:43,900
+[MITCH]
+Just lie there and keep still.
+ພຽງແຕ່ນອນຢູ່ບ່ອນນັ້ນແລະງຽບສະຫງົບ.
+
+1091
+01:06:44,400 --> 01:06:46,400
+[LYDIA]
+Let me do that, Mitch.
+ຂໍໃຫ້ຂ້ອຍເຮັດມັນ, ມິτς.
+
+1092
+01:06:46,900 --> 01:06:48,900
+[MITCH]
+I can handle it.
+ຂ້ອຍສາມາດຮັບມືກັບມັນໄດ້.
+
+1093
+01:06:49,400 --> 01:06:52,200
+[LYDIA]
+I know you can.  But I'd like to.
+ຂ້ອຍຮູ້ວ່າເຈົ້າສາມາດເຮັດໄດ້. ແຕ່ຂ້ອຍຢາກເຮັດ.
+
+1094
+01:06:52,700 --> 01:06:55,850
+[MELANIE]
+Please don't mess me up with bandages, Mrs. Brenner.
+ກະລຸນາຢ່າເຮັດໃຫ້ຂ້ອຍສັບສົນດ້ວຍຜ້າຫຸ້ມຫໍ່, ທ່ານນາງບຣັນເນີ.
+
+1095
+01:06:56,350 --> 01:06:58,350
+[LYDIA]
+Shhhh. Shhhh.
+ສະຫວັນນະເຂດ.
+
+1096
+01:06:58,850 --> 01:07:00,850
+[MELANIE]
+Please.
+ກະລຸນາ.
+
+1097
+01:07:01,350 --> 01:07:03,800
+[LYDIA]
+I'm not very good at this, Mitch.
+ຂ້ອຍບໍ່ດີຫຼາຍໃນເລື່ອງນີ້, ມິτς.
+
+1098
+01:07:04,300 --> 01:07:06,300
+[MITCH]
+You're doing fine.
+ເຈົ້າເຮັດໄດ້ດີ.
+
+1099
+01:07:06,800 --> 01:07:08,800
+[LYDIA]
+I mean. I want to...
+ຂ້ອຍຫມາຍຄວາມວ່າ. ຂ້ອຍຢາກ...
+
+1100
+01:07:09,300 --> 01:07:11,300
+[CATHY]
+Listen!
+ຟັງນະ!
+
+1101
+01:07:11,800 --> 01:07:14,250
+[LYDIA]
+They're gone. God have mercy, they're gone.
+ພວກເຂົາຫາຍໄປແລ້ວ. ພຣະເຈົ້າມີຄວາມເມດຕາ, ພວກເຂົາຕາຍແລ້ວ.
+
+1102
+01:07:14,750 --> 01:07:16,750
+[MITCH]
+They're gone. The same pattern.
+ພວກເຂົາໄປແລ້ວ. ຮູບແບບດຽວກັນ.
+
+1103
+01:07:17,250 --> 01:07:19,250
+[LYDIA]
+But they'll be back.
+ແຕ່ພວກເຂົາຈະກັບມາ.
+
+1104
+01:07:19,750 --> 01:07:21,750
+[MITCH]
+We won't be here.
+ພວກເຮົາຈະບໍ່ຢູ່ບ່ອນນີ້.
+
+1105
+01:07:22,250 --> 01:07:25,750
+[LYDIA]
+Where can we go, Mitch? There's no place to go.
+ພວກເຮົາສາມາດໄປໃສໄດ້, ມິτς? ບໍ່ມີບ່ອນທີ່ຈະໄປ.
+
+1106
+01:07:26,250 --> 01:07:31,150
+[MITCH]
+I want to try for San Francisco. There are buildings there. Steel and concrete!
+ຂ້ອຍຢາກພະຍາຍາມ ສໍາ ລັບແຊນຟຣານຊິສໂກ.
+ມີອາຄານຢູ່ບ່ອນນັ້ນ. ເຫຼັກແລະຄອນກີດ!
+
+1107
+01:07:31,650 --> 01:07:35,150
+[LYDIA]
+We'd never make it. They're probably all over the road.
+ພວກເຮົາຈະບໍ່ເຮັດໄດ້ເລີຍ. ພວກເຂົາອາດຈະຢູ່ທົ່ວທາງ.
+
+1108
+01:07:35,650 --> 01:07:41,650
+[MITCH]
+We have to try it.  We can't stay here.  Melanie needs help.  Mother, the house won't take another attack.
+ພວກເຮົາຕ້ອງພະຍາຍາມມັນ. ພວກເຮົາບໍ່ສາມາດຢູ່ບ່ອນນີ້ໄດ້.
+ເມລານີຕ້ອງການຄວາມຊ່ວຍເຫຼືອ. ແມ່, ເຮືອນຈະບໍ່ຮັບການໂຈມຕີອີກຄັ້ງ.
+
+1109
+01:07:42,150 --> 01:07:46,350
+[LYDIA]
+If...  If... when we get to San Francisco...  If they're already there?
+ຖ້າ... ຖ້າ... ເມື່ອພວກເຮົາໄປແຊນຟຣານຊິສໂກ
+... ຖ້າພວກເຂົາຢູ່ບ່ອນນັ້ນແລ້ວບໍ?
+
+1110
+01:07:46,850 --> 01:07:48,850
+[MITCH]
+They won't be.
+ພວກເຂົາຈະບໍ່ເປັນ.
+
+1111
+01:07:49,350 --> 01:07:51,350
+[LYDIA]
+If they are?
+ຖ້າພວກເຂົາເປັນບໍ?
+
+1112
+01:07:51,850 --> 01:07:54,650
+[MITCH]
+We'll worry about that when we get there.
+ພວກເຮົາຈະກັງວົນກ່ຽວກັບເລື່ອງນັ້ນເມື່ອພວກເຮົາຮອດບ່ອນນັ້ນ.
+
+1113
+01:07:55,150 --> 01:07:59,350
+[LYDIA]
+I'm frightened, terribly frightened. I... I don't know what's out there, Mitch.
+ຂ້ອຍຢ້ານ, ຢ້ານຫຼາຍ. ຂ້ອຍ...
+ຂ້ອຍບໍ່ຮູ້ວ່າມີຫຍັງຢູ່ພາຍນອກນັ້ນ, ມິτς.
+
+1114
+01:07:59,850 --> 01:08:05,850
+[MITCH]
+What do we have to know, Mother? We're all together, we all love each other, we all need each other. What else is there? Mother, I want us to stay alive!
+ພວກເຮົາຕ້ອງຮູ້ຫຍັງ, ແມ່? ພວກເຮົາທຸກຄົນຢູ່ຮ່ວມກັນ, ພວກເຮົາທຸກຄົນຮັກກັນ,
+ພວກເຮົາຍັງຕ້ອງການກັນແລະກັນ. ມີຫຍັງອີກບໍ? ແມ່, ຂ້ອຍຢາກໃຫ້ພວກເຮົາຢູ່ອາໄສ!
+
+1115
+01:08:06,350 --> 01:08:08,350
+[LYDIA]
+I started to say... inside...
+ຂ້ອຍເລີ່ມເວົ້າວ່າ... ໃນພາຍໃນ...
+
+1116
+01:08:08,850 --> 01:08:10,850
+[MITCH]
+You don't have to.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງເຮັດ.
+
+1117
+01:08:11,350 --> 01:08:13,450
+[MITCH]
+I think we'd better get started.
+ຂ້ອຍຄິດວ່າພວກເຮົາຄວນເລີ່ມຕົ້ນ.
+
+1118
+01:08:13,950 --> 01:08:15,950
+[CATHY]
+May I take them, Mitch?
+ຂ້ອຍສາມາດເອົາພວກມັນໄດ້ບໍ, ມິτς?
+
+1119
+01:08:16,450 --> 01:08:18,450
+[CATHY]
+They haven't harmed anyone.
+ພວກເຂົາບໍ່ໄດ້ເຮັດໃຫ້ໃຜເຈັບປວດ.
+
+1120
+01:08:18,950 --> 01:08:20,950
+[LYDIA]
+Take them.
+ເອົາພວກມັນໄປ.
+
+1121
+01:08:21,450 --> 01:08:23,900
+[MITCH]
+We'll put them in the trunk, Cathy.
+ພວກເຮົາຈະເອົາພວກມັນໄວ້ໃນກະເປົາຂົນສົ່ງ, ຄາຕີ.
+
+1122
+01:08:24,400 --> 01:08:26,400
+[MITCH]
+Be careful with that door.
+ລະມັດລະວັງກັບປະຕູນັ້ນ.
+
+1123
+01:08:26,900 --> 01:08:30,750
+[MELANIE]
+Mitch, if they hear the car starting... if they see movement...
+ມິτς, ຖ້າພວກເຂົາໄດ້ຍິນລົດເລີ່ມຕົ້ນ
+... ຖ້າພວກເຂົາເຫັນການເຄື່ອນໄຫວ...
+
+1124
+01:08:31,250 --> 01:08:36,150
+[MITCH]
+We'll take it slow until we get to the main road.  Are you ready?
+ພວກເຮົາຈະເຮັດມັນຊ້າຈົນກວ່າພວກເຮົາຈະໄປທາງຫຼັກ. ເຈົ້າພ້ອມບໍ?
+
+1125
+01:08:36,650 --> 01:08:38,650
+[MITCH]
+All right.  Here we go.
+ດີແລ້ວ. ມາແລ້ວ.
+
+1126
+01:08:39,150 --> 01:08:41,150
+[MITCH]
+Shhh.  Shhhh.
+ສະຫວັນນະເຂດ.
+
+1127
+01:08:41,650 --> 01:08:43,650
+[CATHY]
+Mitch, let's turn back.
+ມິτς, ໄປກັບຄືນໄປບ່ອນ.
+
+1128
+01:08:44,150 --> 01:08:46,150
+[MITCH]
+Shhh. Shhhhh.
+ສະຫວັນນະເຂດ.
+
+1129
+01:08:46,650 --> 01:08:48,650
+[LYDIA]
+Mitch!
+ມິτς!
+
+1130
+01:08:49,150 --> 01:08:51,150
+[MELANIE]
+Can we turn back?
+ພວກເຮົາສາມາດກັບຄືນໄປບ່ອນໄດ້ບໍ?
+
+1131
+01:08:51,650 --> 01:08:57,250
+[MITCH]
+I... I don't think so. If we get through town, I think we'll be all right.
+ຂ້ອຍ... ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ.
+ຖ້າພວກເຮົາຜ່ານເມືອງ, ຂ້ອຍຄິດວ່າພວກເຮົາຈະດີດີ.
+
+1132
+01:08:57,750 --> 01:08:59,750
+[MELANIE]
+Then go ahead, Mitch.
+ຫຼັງຈາກນັ້ນໄປກ່ອນ, ມິτς.
+
+1133
+01:09:00,250 --> 01:09:02,250
+[MITCH]
+Here we go.
+ມາແລ້ວ.
+
+1134
+01:09:02,750 --> 01:09:04,750
+[MELANIE]
+Mitch!
+ມິτς!
+
+1135
+01:09:05,250 --> 01:09:11,250
+[LYDIA]
+Dear God... dear God... please, please, what have we done? Please.  Can't they leave us alone?  LEAVE US ALONE!
+ພຣະເຈົ້າທີ່ຮັກແພງ... ພຣະຜູ້ເປັນຜູ້ຮັກ... ກະລຸນາ, ກະລຸນານັ້ນ, ພວກເຮົາເຮັດຫຍັງແລ້ວ
+? ກະລູນັ້ນ. ພວກເຂົາບໍ່ສາມາດປ່ອຍພວກເຮົາຢູ່ຢ່າງສະຫງົບໄດ້ບໍ? ໃຫ້ພວກເຮົາຢູ່ຄົນດຽວ!
+
+1136
+01:09:11,750 --> 01:09:13,750
+[LYDIA]
+We're losing them.
+ພວກເຮົາ ກໍາ ລັງສູນເສຍພວກມັນ.
+
+1137
+01:09:14,250 --> 01:09:19,500
+[CATHY]
+Mitch?  Do... do you think they'll be all right? In the trunk? Can they breath?
+ມິτς? ເຈົ້າຄິດວ່າພວກເຂົາຈະດີບໍ? ໃນກະຕູ້? ພວກເຂົາສາມາດຫາຍໃຈໄດ້ບໍ?
+
+1138
+01:09:20,000 --> 01:09:22,450
+[MITCH]
+I think they'll be all right, honey.
+ຂ້ອຍຄິດວ່າພວກເຂົາຈະດີດີ, ແມ.
+
+1139
+01:09:22,950 --> 01:09:25,400
+[MITCH]
+It looks... it looks clear up ahead.
+ເບິ່ງຄືວ່າ... ມັນເບິ່ງຄືວ່າຈະແຈ້ງຢູ່ທາງຫນ້າ.
+

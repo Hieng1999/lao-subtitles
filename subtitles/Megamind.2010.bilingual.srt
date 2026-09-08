@@ -1,0 +1,5449 @@
+1
+00:00:10,000 --> 00:00:12,000
+[MEGAMIND]
+Written by
+ຂຽນໂດຍ
+
+2
+00:00:12,500 --> 00:00:14,950
+[UBERMAN]
+You look so peaceful from up here.
+ເຈົ້າເບິ່ງຄືວ່າມີຄວາມສະຫງົບຫຼາຍຈາກບ່ອນນີ້.
+
+3
+00:00:15,450 --> 00:00:17,550
+[UBERMAN]
+Looks like Roxanne's in trouble again.
+ເບິ່ງຄືວ່າ ໂຣຊານຢູ່ໃນຄວາມຫຍຸ້ງຍາກອີກເທື່ອຫນຶ່ງ.
+
+4
+00:00:18,050 --> 00:00:24,050
+[EINSTEIN]
+I hate the outfits. I mean, I get it: we're all supposed to be "masterminds" - very clever. 3. EINSTEIN I just feel stupid. I mean, what the hell did Einstein really do anyway?
+ຂ້ອຍກຽດຊັງເຄື່ອງນຸ່ງຫົ່ມ. ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍເຂົ້າໃຈມັນ: ພວກເຮົາທຸກຄົນຄວນເປັນ"ຈິດໃຈໃຫຍ່" -
+ສະຫລາດຫຼາຍ. 3. ເອິນສຕິນຂ້ອຍພຽງແຕ່ຮູ້ສຶກໂງ່. ຂ້ອຍ ຫມາຍ ຄວາມວ່າ, ເອິນສະຕິນເຮັດຫຍັງແທ້ໆຢ່າງໃດກໍ່ຕາມ?
+
+5
+00:00:24,550 --> 00:00:26,550
+[PLATO]
+Theory of relativity.
+ທິດສະດີຄວາມສົມດຸນ.
+
+6
+00:00:27,050 --> 00:00:31,600
+[EINSTEIN]
+Well, you'd think he'd invent a wool sweater that didn't itch so much.
+ດີ, ເຈົ້າຈະຄິດວ່າລາວຈະຄົ້ນຄວ້າເສື້ອຜ້າຝ້າຍທີ່ບໍ່ກຽດຊັງຫຼາຍ.
+
+7
+00:00:32,100 --> 00:00:38,100
+[MASTER MIND]
+The real Einstein once said, "God does not play dice with the world." He was right, because the world is MY dice. Is that understood?
+ແອສໄນສະຕິນທີ່ແທ້ຈິງເຄີຍເວົ້າວ່າ,"ພຣະເຈົ້າບໍ່ຫຼິ້ນດາວກັບໂລກ
+." ລາວຖືກຕ້ອງ, ເພາະວ່າໂລກແມ່ນດາວຂອງຂ້ອຍ. ນັ້ນເຂົ້າໃຈບໍ?
+
+8
+00:00:38,600 --> 00:00:40,600
+[DA VINCI & PLATO]
+Sir! Yes, sir!
+ເຈົ້າ! ແມ່ນແລ້ວ, ເຈົ້າ!
+
+9
+00:00:41,100 --> 00:00:43,100
+[EINSTEIN]
+Yes, sir.
+ແມ່ນແລ້ວເດີ.
+
+10
+00:00:43,600 --> 00:00:47,100
+[MASTER MIND]
+Alright, then - clean slate. Do we have the girl?
+ດີແລ້ວ, ຫຼັງຈາກນັ້ນ - ແຜ່ນກະດານທີ່ສະອາດ. ພວກເຮົາມີເດັກຍິງບໍ?
+
+11
+00:00:47,600 --> 00:00:52,150
+[DA VINCI]
+Yes, sir. She fell into our trap just like you knew she would.
+ແມ່ນແລ້ວເດີ. ນາງຕົກຢູ່ໃນແຄບຂອງພວກເຮົາຄືກັບທີ່ທ່ານຮູ້ວ່ານາງຈະເຮັດ.
+
+12
+00:00:52,650 --> 00:00:55,450
+[MASTER MIND]
+Reporters are a curious lot, and easily manipulated.
+ນັກຂ່າວເປັນຄົນແປກໃຈຫຼາຍ, ແລະສາມາດຄວບຄຸມໄດ້ງ່າຍ.
+
+13
+00:00:55,950 --> 00:00:58,400
+[MASTER MIND]
+Alright, let's not keep the lady waiting.
+ດີແລ້ວ, ຢ່າເຮັດໃຫ້ຜູ້ຍິງລໍຖ້າ.
+
+14
+00:00:58,900 --> 00:01:00,900
+[MASTER MIND]
+Miss Ritchi, we meet again.
+ນາງ ຣິດຊີ, ພວກເຮົາພົບກັນອີກຄັ້ງ.
+
+15
+00:01:01,400 --> 00:01:06,650
+[ROXANNE]
+You didn't need to turn around like that. I can recognize the stench of failure.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຫັນໄປແບບນັ້ນ.
+ຂ້ອຍສາມາດຮັບຮູ້ກິ່ນຫອມຂອງຄວາມລົ້ມເຫຼວໄດ້.
+
+16
+00:01:07,150 --> 00:01:13,150
+[MASTER MIND]
+I trust you gentlemen know the very sassy Roxanne Ritchi, highly regarded investigative journalist who some say has a more than friendly relationship with our super powered foe Uberman. And Miss Ritchi, I trust you've already met my new crew: The Mad Geniuses!
+ຂ້ອຍເຊື່ອວ່າເຈົ້າຮູ້ Roxanne Ritchi ທີ່ໂຊກຮ້າຍຫຼາຍ, ນັກຂ່າວການສືບສວນທີ່ມີຄວາມຍ້ອງຍໍສູງທີ່ບາງຄົນເວົ້າວ່າມີສາຍພົວພັນຫຼາຍກວ່າມິດຕະພາບກັບສັດຕູທີ່ເຂັ້ມແຂງທີ່ສຸດຂອງພວກເຮົາ
+Uberman. ແລະນາງ Ritchi, ຂ້ອຍເຊື່ອວ່າທ່ານໄດ້ພົບກັບທີມງານ ໃຫມ່ ຂອງຂ້ອຍແລ້ວ: The Mad Geniuses!
+
+17
+00:01:13,650 --> 00:01:19,650
+[ROXANNE]
+Looks like a real group of winners. At the risk of sounding cliche', you'll never get away with this.
+ເບິ່ງຄືວ່າເປັນກຸ່ມຜູ້ຊະນະທີ່ແທ້ຈິງ.
+ໃນຄວາມສ່ຽງທີ່ຈະສຽງຄລິສເຊ, ເຈົ້າຈະບໍ່ຫນີຈາກສິ່ງນີ້ເລີຍ.
+
+18
+00:01:20,150 --> 00:01:22,250
+[MASTER MIND]
+In a way, I already have.
+ໃນທາງໃດຫນຶ່ງ, ຂ້ອຍໄດ້ເຮັດແລ້ວ.
+
+19
+00:01:22,750 --> 00:01:28,750
+[ROXANNE]
+We go through this every time. You kidnap me to get to Uberman, he immediately finds your hideout, escapes whatever lame trap you've come up with, and takes you and your cronies to jail. I propose we just save everybody some heartache this time by YOU letting me go, and ME forgetting this whole thing ever happened?
+ພວກເຮົາຜ່ານເລື່ອງນີ້ທຸກຄັ້ງ. ເຈົ້າລັກຂ້ອຍເພື່ອໄປຫາໂອເບີແມນ, ລາວພົບບ່ອນເຊື່ອງຕົວຂອງທ່ານທັນທີ, ຫນີຈາກແຄບທີ່ໂຊກຮ້າຍໃດທີ່ທ່ານໄດ້ຄິດມາ,
+ແລະພາເຈົ້າແລະເພື່ອນມິດຂອງທ່ານໄປຄຸກ. ຂ້ອຍສະເຫນີໃຫ້ພວກເຮົາພຽງແຕ່ຊ່ວຍທຸກຄົນຄວາມເຈັບປວດໃນຄັ້ງນີ້ໂດຍເຈົ້າປ່ອຍຂ້ອຍໄປ, ແລະຂ້ອຍລືມສິ່ງທັງ ຫມົດ ນີ້ເຄີຍເກີດຂຶ້ນບໍ?
+
+20
+00:01:29,250 --> 00:01:31,250
+[MASTER MIND]
+What about my revenge?
+ຈະເປັນແນວໃດກັບການແກ້ແຄ້ນຂອງຂ້ອຍ?
+
+21
+00:01:31,750 --> 00:01:34,550
+[ROXANNE]
+We can say it was wasting everyone's time.
+ພວກເຮົາສາມາດເວົ້າໄດ້ວ່າມັນ ກໍາ ລັງເສຍເວລາຂອງທຸກຄົນ.
+
+22
+00:01:35,050 --> 00:01:40,650
+[MASTER MIND]
+You have a wicked tongue. I hope you rid yourself of that when you're my queen.
+ເຈົ້າມີພາສາທີ່ຮ້າຍແຮງ. ຂ້ອຍຫວັງວ່າເຈົ້າຈະ ກໍາ
+ຈັດຕົວເອງຈາກນັ້ນເມື່ອເຈົ້າເປັນລາຊິນີຂອງຂ້ອຍ.
+
+23
+00:01:41,150 --> 00:01:45,700
+[ROXANNE]
+I'm sorry. What makes you think I would want to be your queen?
+ຂ້ອຍຂໍໂທດ. ເປັນຫຍັງເຈົ້າຈຶ່ງຄິດວ່າຂ້ອຍຢາກເປັນລາຊິນີຂອງທ່ານ?
+
+24
+00:01:46,200 --> 00:01:52,200
+[MASTER MIND]
+Power corrupts absolutely, Miss Ritchi. And when I have ultimate power over this city, I have absolutely every intention of corrupting you with it.
+ອໍານາດສໍ້ລາດບັງຫຼວງຢ່າງສົມບູນ, ນາງ ຣິດຊີ. ແລະເມື່ອຂ້ອຍມີອໍານາດສຸດທ້າຍໃນເມືອງນີ້
+, ຂ້ອຍມີຈຸດປະສົງທັງ ຫມົດ ທີ່ຈະສໍ້ໂກງເຈົ້າດ້ວຍມັນ.
+
+25
+00:01:52,700 --> 00:01:54,700
+[PLATO]
+Sir!
+ເຈົ້າ!
+
+26
+00:01:55,200 --> 00:01:57,200
+[MASTER MIND]
+What is it!?
+ມັນເປັນຫຍັງ!?
+
+27
+00:01:57,700 --> 00:01:59,700
+[UBERMAN]
+Master Mind!
+ເຈົ້າຈິດໃຈ!
+
+28
+00:02:00,200 --> 00:02:02,200
+[MASTER MIND]
+Over here, old friend.
+ຢູ່ບ່ອນນີ້, ເພື່ອນເກົ່າ.
+
+29
+00:02:02,700 --> 00:02:05,500
+[UBERMAN]
+What's the matter, miss your old jail cell?
+ມີຫຍັງເກີດຂຶ້ນ, ຂາດຄຸກເກົ່າຂອງທ່ານບໍ?
+
+30
+00:02:06,000 --> 00:02:09,850
+[MASTER MIND]
+Actually, I wanted to share the experience with my oldest friend.
+ໃນຄວາມເປັນຈິງ, ຂ້ອຍຢາກແບ່ງປັນປະສົບການກັບເພື່ອນເກົ່າຂອງຂ້ອຍ.
+
+31
+00:02:10,350 --> 00:02:12,800
+[UBERMAN]
+You can't possibly believe this will work.
+ເຈົ້າບໍ່ເຊື່ອວ່າສິ່ງນີ້ຈະເຮັດວຽກໄດ້ເລີຍ.
+
+32
+00:02:13,300 --> 00:02:19,300
+[MASTER MIND]
+Oh, can't I? I have attained control of the Earth's most abundant energy source. I doubt even you are strong enough to withstand the FULL CONCENTRATED
+ໂອ້, ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ບໍ? ຂ້ອຍໄດ້ຄວບຄຸມແຫຼ່ງພະລັງງານທີ່ອຸດົມສົມບູນທີ່ສຸດໃນໂລກ
+. ຂ້ອຍສົງໄສວ່າເຖິງແມ່ນວ່າເຈົ້າມີຄວາມເຂັ້ມແຂງພໍທີ່ຈະທົນທານຕໍ່ການສຸມໃສ່ຢ່າງເຕັມທີ່
+
+33
+00:02:19,800 --> 00:02:21,800
+[POWER OF THE SUN!!!]
+He presses the button.
+ລາວກົດປຸ່ມ.
+
+34
+00:02:22,300 --> 00:02:24,750
+[PLATO]
+We're now at minimum safe distance, master.
+ພວກເຮົາຢູ່ໃນໄລຍະຫ່າງທີ່ປອດໄພຢ່າງຫນ້ອຍດຽວນີ້, ເຈົ້າ.
+
+35
+00:02:25,250 --> 00:02:27,700
+[MASTER MIND]
+Excellent. Stop here, I like this view.
+ດີເລີດ. ຢຸດຢູ່ບ່ອນນີ້, ຂ້ອຍມັກທັດສະນະນີ້.
+
+36
+00:02:28,200 --> 00:02:30,200
+[PLATO]
+Twenty seconds until impact.
+ສອງສິບວິນາທີຈົນເຖິງການກະທົບ.
+
+37
+00:02:30,700 --> 00:02:32,700
+[MASTER MIND]
+Any last words?
+ມີຄໍາເວົ້າສຸດທ້າຍບໍ?
+
+38
+00:02:33,200 --> 00:02:36,000
+[UBERMAN]
+Yes: there's no caging the power of justice.
+ແມ່ນແລ້ວ: ບໍ່ມີການກັກຂັງພະລັງຂອງຄວາມຍຸຕິທໍາ.
+
+39
+00:02:36,500 --> 00:02:38,500
+[PLATO]
+Ten seconds to impact.
+ສິບວິນາທີຈົນເຖິງການກະທົບ.
+
+40
+00:02:39,000 --> 00:02:41,000
+[PLATO]
+Nine...
+ເກົ້າ...
+
+41
+00:02:41,500 --> 00:02:43,500
+[PLATO]
+Eight...
+ແປດ...
+
+42
+00:02:44,000 --> 00:02:46,000
+[MASTER MIND]
+What's going on?
+ເກີດຫຍັງຂຶ້ນ?
+
+43
+00:02:46,500 --> 00:02:48,500
+[UBERMAN]
+Hold...on...a second.
+ລໍຖ້າ... ຕໍ່ໄປ... ວິນາທີຫນຶ່ງ.
+
+44
+00:02:49,000 --> 00:02:51,000
+[PLATO]
+Seven...
+ເຈັດ...
+
+45
+00:02:51,500 --> 00:02:54,650
+[SON OF A BITCH!!]
+Master Mind and the minions all cringe in unison.
+ເຈົ້າຈິດໃຈແລະຄົນຮັບໃຊ້ທັງ ຫມົດ ສັ່ນສະເທືອນຢ່າງພ້ອມກັນ.
+
+46
+00:02:55,150 --> 00:02:57,250
+[DA VINCI]
+What did he just say? 9.
+ລາວຫາກໍ່ເວົ້າຫຍັງ? 9.
+
+47
+00:02:57,750 --> 00:02:59,750
+[PLATO]
+Six......Five...
+ຫົກ...... ຫ້າ...
+
+48
+00:03:00,250 --> 00:03:02,350
+[MASTER MIND]
+What kind of trick is this?
+ນີ້ແມ່ນກະຕຸ້ນໃດ?
+
+49
+00:03:02,850 --> 00:03:07,050
+[UBERMAN]
+Like you don't know. These bars are made of copper, aren't they?
+ຄືກັບວ່າເຈົ້າບໍ່ຮູ້. ແຖບເຫລົ່ານີ້ເຮັດດ້ວຍທອງແດງ, ແມ່ນບໍ?
+
+50
+00:03:07,550 --> 00:03:09,550
+[PLATO]
+Four...
+ສີ່...
+
+51
+00:03:10,050 --> 00:03:12,050
+[MASTER MIND]
+Yeah, so?
+ແມ່ນແລ້ວ, ສະນັ້ນ?
+
+52
+00:03:12,550 --> 00:03:16,400
+[UBERMAN]
+You figured out my weakness, damn you. I CAN'T BEND COPPER!
+ເຈົ້າໄດ້ຄິດຄວາມອ່ອນແອຂອງຂ້ອຍ,
+ສະບາຍດີເຈົ້າ. ຂ້ອຍບໍ່ສາມາດຫັນທອງແດງໄດ້!
+
+53
+00:03:16,900 --> 00:03:18,900
+[PLATO]
+Three...
+ສາມ...
+
+54
+00:03:19,400 --> 00:03:21,400
+[MASTER MIND]
+Your weakness is copper?
+ຄວາມອ່ອນແອຂອງທ່ານແມ່ນທອງແດງບໍ?
+
+55
+00:03:21,900 --> 00:03:23,900
+[PLATO]
+Two...one.
+ສອງ... ຫນຶ່ງ.
+
+56
+00:03:24,400 --> 00:03:27,550
+[PLATO]
+I don't think even he could have survived that.
+ຂ້ອຍບໍ່ຄິດວ່າລາວຈະລອດຊີວິດໄດ້ເລີຍ.
+
+57
+00:03:28,050 --> 00:03:31,900
+[EINSTEIN]
+Whoa! Is it me or did you just finally destroy Uberman?
+ໂວ້! ມັນເປັນຂ້ອຍບໍ ຫຼືເຈົ້າຫາກໍ່ທໍາລາຍ Uberman ໃນທີ່ສຸດບໍ?
+
+58
+00:03:32,400 --> 00:03:34,500
+[MASTER MIND]
+Well...let's not get ahead of ourselves.
+ດີ... ຢ່າໄປກ່ອນຕົວເອງ.
+
+59
+00:03:35,000 --> 00:03:38,150
+[DA VINCI]
+Look, there's something in the sky, coming this way.
+ເບິ່ງ, ມີບາງສິ່ງບາງຢ່າງໃນສະຫວັນ, ມາທາງນີ້.
+
+60
+00:03:38,650 --> 00:03:40,650
+[ROXANNE]
+Uberman!
+ໂອເບີແມນ!
+
+61
+00:03:41,150 --> 00:03:43,950
+[GONNA RAM US!!!]
+Everyone scatters and braces themselves for the impact.
+ທຸກຄົນກະຈາຍແລະກຽມຕົວເອງ ສໍາ ລັບການກະທົບ.
+
+62
+00:03:44,450 --> 00:03:46,450
+[HOLY SHIT!]
+11.
+11.
+
+63
+00:03:46,950 --> 00:03:48,950
+[ROXANNE]
+Uberman?
+ໂອເບີແມນ?
+
+64
+00:03:49,450 --> 00:03:51,450
+[ROXANNE]
+You killed him!
+ເຈົ້າໄດ້ຂ້າລາວ!
+
+65
+00:03:51,950 --> 00:03:53,950
+[EINSTEIN]
+You did it!
+ເຈົ້າເຮັດໄດ້!
+
+66
+00:03:54,450 --> 00:03:56,450
+[MASTER MIND]
+...so I did.
+ຂ້ອຍເຮັດແລ້ວ.
+
+67
+00:03:56,950 --> 00:04:02,950
+[EINSTEIN]
+I mean, I know you always wanted to. I mean, all the schemes all the plots - I never thought you'd actually be capable of it.
+ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍຮູ້ວ່າເຈົ້າຢາກເຮັດຢູ່ສະເຫມີ. ຂ້ອຍ ຫມາຍ ຄວາມວ່າ,
+ແຜນການທັງ ຫມົດ ແຜນທີ່ທັງ ຫມົດ - ຂ້ອຍບໍ່ເຄີຍຄິດວ່າເຈົ້າຈະສາມາດເຮັດໄດ້ແທ້ໆ.
+
+68
+00:04:03,450 --> 00:04:09,450
+[EINSTEIN]
+This is history. Every villain and lackey in the history of villains and lackeys dream of this moment, but when does it actually EVER happen?
+ນີ້ແມ່ນປະຫວັດສາດ. ຄົນຮ້າຍແລະຄົນລາກເກີທຸກຄົນໃນປະຫວັດຄວາມເປັນມາຂອງຄົນຊົ່ວຮ້າຍແລະການຝັນຂອງຊົ່ວຄາວນີ້
+, ແຕ່ມັນເກີດຂຶ້ນແທ້ໆເມື່ອໃດ?
+
+69
+00:04:09,950 --> 00:04:14,850
+[EINSTEIN]
+Good lord...You do all realize what we get to do now, don't you? 12.
+ພຣະເຈົ້າທີ່ດີ...
+ເຈົ້າທຸກຄົນຮູ້ວ່າພວກເຮົາສາມາດເຮັດຫຍັງໄດ້ດຽວນີ້, ແມ່ນບໍ? 12.
+
+70
+00:04:15,350 --> 00:04:18,150
+[EINSTEIN]
+We get to go on a crime wave.
+ພວກເຮົາຈະໄປຕາມຟື້ນຟູອາຊະຍາກໍາ.
+
+71
+00:04:18,650 --> 00:04:20,650
+[MASTER MIND]
+Oh, right.
+ໂອ້, ແມ່ນແລ້ວ.
+
+72
+00:04:21,150 --> 00:04:27,150
+[HAL]
+It's a sport of honor, focus and grace. Honor the ball, focus on the pins, release the ball not hard and fast, but as if you were releasing a baby dove.
+ມັນເປັນກິລາຂອງກຽດຕິຍົດ, ການສຸມໃສ່ແລະຄວາມສະຫງົບງາມ. ກຽດທິຍົດບານ,
+ສຸມໃສ່ປິນ, ປ່ອຍບານບໍ່ແຂງແຮງແລະໄວ, ແຕ່ຄືກັບວ່າເຈົ້າ ກໍາ ລັງປ່ອຍລູກຫມູ.
+
+73
+00:04:27,650 --> 00:04:31,500
+[HAL]
+Okay, do something like that - but center it more. 14.
+ດີ, ເຮັດບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ - ແຕ່ສຸມໃສ່ມັນຫຼາຍຂຶ້ນ. 14.
+
+74
+00:04:32,000 --> 00:04:34,450
+[ATTRACTIVE BLOND]
+Tell me how my form looks, honey.
+ບອກຂ້ອຍວ່າຮູບຮ່າງຂອງຂ້ອຍເບິ່ງຄືແນວໃດ, ແມ.
+
+75
+00:04:34,950 --> 00:04:37,750
+[HAL]
+Oh, it's lookin' good. It's lookin' REAL good.
+ໂອ້, ມັນເບິ່ງດີ. ມັນເຫັນດີແທ້ໆ.
+
+76
+00:04:38,250 --> 00:04:41,400
+[VINNIE]
+Hal, I want to see you in my office!
+ແຮລ, ຂ້ອຍຢາກເຫັນເຈົ້າໃນຫ້ອງການຂອງຂ້ອຍ!
+
+77
+00:04:41,900 --> 00:04:43,900
+[VINNIE]
+Now!
+ດຽວນີ້!
+
+78
+00:04:44,400 --> 00:04:47,200
+[VINNIE]
+You're fired. Leave your shirt and locker key.
+ເຈົ້າຖືກໄລ່ອອກແລ້ວ. ໃຫ້ເສື້ອຜ້າແລະປຸ່ມກະຕູ້ຂອງທ່ານໄວ້.
+
+79
+00:04:47,700 --> 00:04:50,500
+[HAL]
+Fired? Are you going to tell me why?
+ຖືກໄລ່ອອກບໍ? ເຈົ້າຈະບອກຂ້ອຍວ່າເປັນຫຍັງບໍ?
+
+80
+00:04:51,000 --> 00:04:57,000
+[VINNIE]
+Showing up to work late. Showing up to work late drunk. Sexually harassing customers. Stealing from the register.
+ການປາກົດຕົວມາເຮັດວຽກຊ້າ. ການສະແດງຕົວມາທํາງານຊ້າດື່ມ
+. ການຂົ່ມຂືນລູກຄ້າທາງເພດ. ການລັກຈາກທະບຽນ.
+
+81
+00:04:57,500 --> 00:05:01,000
+[HAL]
+Vinnie, I don't know where you're getting these accusations -
+ວິນນີ, ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າ ກໍາ ລັງເອົາຂໍ້ກ່າວຫາເຫຼົ່ານີ້ມາຈາກໃສ -
+
+82
+00:05:01,500 --> 00:05:04,300
+[HAL]
+Oh, which one do you supposedly have here?
+ໂອ້, ເຈົ້າຄວນມີຄົນໃດຢູ່ບ່ອນນີ້?
+
+83
+00:05:04,800 --> 00:05:07,250
+[VINNIE]
+This is all of them at once.
+ນີ້ແມ່ນພວກເຂົາທັງ ຫມົດ ໃນເວລາດຽວກັນ.
+
+84
+00:05:07,750 --> 00:05:13,000
+[HAL]
+I've got this one, Benny. So, Cinderella. Can I help you find your glass slipper?
+ຂ້ອຍມີຄົນນີ້, ເບນນີ. ສະນັ້ນ, Cinderella.
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າຊອກຫາເກີບແກ້ວຂອງທ່ານໄດ້ບໍ?
+
+85
+00:05:13,500 --> 00:05:15,600
+[WOMAN]
+Yeah, I'm looking for a seven.
+ແມ່ນແລ້ວ, ຂ້ອຍ ກໍາ ລັງຊອກຫາເຈັດ.
+
+86
+00:05:16,100 --> 00:05:21,350
+[HAL]
+Seven - Well, maybe I could interest you in something in an EIGHT. Namely, me.
+ເຈັດ - ດີ, ບາງທີຂ້ອຍສາມາດສົນໃຈເຈົ້າໃນບາງສິ່ງບາງຢ່າງໃນແປດ
+. ນັ້ນແມ່ນ, ຂ້ອຍ.
+
+87
+00:05:21,850 --> 00:05:23,850
+[HAL]
+Lesbo.
+ເລສໂບ.
+
+88
+00:05:24,350 --> 00:05:30,350
+[HAL]
+From the angle of the camera, I can see where you might have gotten the wrong idea. Listen, Vinnie, I don't think you've thought this through. If you fire me, who's gonna be captain of the alley's bowling team? 16.
+ຈາກມຸມຂອງກ້ອງຖ່າຍຮູບ, ຂ້ອຍເຫັນວ່າເຈົ້າອາດຈະໄດ້ຮັບຄວາມຄິດທີ່ບໍ່ຖືກຕ້ອງຢູ່ໃສ. ຟັງ, ວິນນີ,
+ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າໄດ້ຄິດເລື່ອງນີ້ຜ່ານ. ຖ້າເຈົ້າໄລ່ຂ້ອຍ, ໃຜຈະເປັນຄັບປິນຂອງທີມບານບູລິງຂອງຖະຫນົນຫົນທາງ? 16.
+
+89
+00:05:30,850 --> 00:05:36,850
+[VINNIE]
+Um, I don't know. Maybe somebody who can actually bowl. You guys have never won a game. I hired you because you said you were on the pro circuit.
+ອູມ, ຂ້ອຍບໍ່ຮູ້. ບາງທີບາງຄົນທີ່ສາມາດບານໄດ້ແທ້ໆ. ພວກເຈົ້າບໍ່ເຄີຍຊະນະເກມເລີຍ
+. ຂ້ອຍຈ້າງເຈົ້າເພາະວ່າເຈົ້າເວົ້າວ່າເຈົ້າຢູ່ໃນວົງຈອນມືອາຊີບ.
+
+90
+00:05:37,350 --> 00:05:40,850
+[HAL]
+No, I said I WILL BE on the pro circuit.
+ບໍ່, ຂ້ອຍບອກວ່າຂ້ອຍຈະຢູ່ໃນວົງຈອນມືອາຊີບ.
+
+91
+00:05:41,350 --> 00:05:44,850
+[VINNIE]
+Please, a loser like you will never amount to anything.
+ກະລຸນາ, ຄົນເສຍຫາຍຄືກັບເຈົ້າຈະບໍ່ບັນລຸຫຍັງເລີຍ.
+
+92
+00:05:45,350 --> 00:05:51,350
+[HAL]
+Wow...If that's how you feel...I guess we should then talk about what kind of severance I'm gonna get.
+ໂວ້... ຖ້າເຈົ້າຮູ້ສຶກແບບນັ້ນ...
+ຂ້ອຍຄິດວ່າພວກເຮົາຄວນເວົ້າກ່ຽວກັບການອອກເງິນປະເພດໃດທີ່ຂ້ອຍຈະໄດ້ຮັບ.
+
+93
+00:05:51,850 --> 00:05:53,850
+[HAL]
+Hey...what about my ball?
+ເຮ້... ບານຂອງຂ້ອຍແນວໃດ?
+
+94
+00:05:54,350 --> 00:05:56,350
+[HAL]
+Thank-you!
+ຂອບໃຈ!
+
+95
+00:05:56,850 --> 00:06:02,850
+[ROXANNE]
+It's...um...It's good to be back. Thanks for everyone's cards and concerns. I really appreciated it - now I'm ready to climb back on the horse.
+ມັນເປັນ... ອູມ... ດີໃຈທີ່ກັບມາ. ຂອບໃຈ ສໍາ ລັບບັດແລະຄວາມກັງວົນຂອງທຸກຄົນ
+. ຂ້ອຍຍ້ອງຍໍມັນແທ້ໆ - ດຽວນີ້ຂ້ອຍພ້ອມທີ່ຈະຂຶ້ນມ້າຄືນ.
+
+96
+00:06:03,350 --> 00:06:05,350
+[FRANK]
+Someone die or something?
+ມີໃຜຕາຍຫຼືບາງສິ່ງບາງຢ່າງບໍ?
+
+97
+00:06:05,850 --> 00:06:07,850
+[FRANK]
+Oh, Jesus.
+ໂອ້ ພຣະເຢຊູ.
+
+98
+00:06:08,350 --> 00:06:10,350
+[ROXANNE]
+It's okay.
+ມັນບໍ່ເປັນຫຍັງ.
+
+99
+00:06:10,850 --> 00:06:12,950
+[FRANK]
+Come on into my office, sweetie.
+ມາຫ້ອງການຂອງຂ້ອຍແມ.
+
+100
+00:06:13,450 --> 00:06:19,450
+[FRANK]
+Can we get this woman some water for God's sake?  I gave you two months off. What're you doing back? People are gonna think I'm a slave driver. 18.
+ພວກເຮົາສາມາດເອົານ້ ໍາ ໃຫ້ແມ່ຍິງຄົນນີ້ໄດ້ບໍ? ຂ້ອຍໃຫ້ເຈົ້າພັກຜ່ອນສອງເດືອນ.
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງກັບຄືນໄປບ່ອນ? ຄົນຈະຄິດວ່າຂ້ອຍເປັນຄົນຂັບຂີ່ຄົນໃຊ້. 18.
+
+101
+00:06:19,950 --> 00:06:21,950
+[ROXANNE]
+Aren't you?
+ເຈົ້າບໍ່ແມ່ນບໍ?
+
+102
+00:06:22,450 --> 00:06:25,600
+[FRANK]
+Yeah, but I don't want people to think it.
+ແມ່ນແລ້ວ, ແຕ່ຂ້ອຍບໍ່ຢາກໃຫ້ຄົນຄິດມັນ.
+
+103
+00:06:26,100 --> 00:06:31,700
+[ROXANNE]
+Frank, listen. I want to go back to work. I NEED to go back to work.
+ແຟຣນກ໌, ຟັງ. ຂ້ອຍຢາກກັບໄປເຮັດວຽກ. ຂ້ອຍຕ້ອງກັບຄືນໄປບ່ອນເຮັດວຽກ.
+
+104
+00:06:32,200 --> 00:06:34,200
+[FRANK]
+...You're hysterical, aren't you?
+ເຈົ້າໂຊກຮ້າຍ, ແມ່ນບໍ?
+
+105
+00:06:34,700 --> 00:06:36,700
+[ROXANNE]
+What're you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+106
+00:06:37,200 --> 00:06:43,200
+[FRANK]
+Keeping you warm before you go into shock.  DO I HAVE SLICE OPEN A CAMEL HUMP TO GET A GLASS OF WATER AROUND
+ຂ້ອຍຕ້ອງເປີດກະຕ່າແມວເພື່ອເອົາຈອກນ້ ໍາ ຢູ່ອ້ອມຂ້າງບໍ
+
+107
+00:06:43,700 --> 00:06:49,700
+[HERE?]
+A SECRETARY quickly enters with a bottled water. She sets it on the table in front of them and leaves.
+ເລຂາທິການເຂົ້າມາຢ່າງໄວວາດ້ວຍນ້ ໍາ ຂວດ.
+ນາງວາງມັນໃສ່ໂຕະຢູ່ຕໍ່ຫນ້າພວກເຂົາແລະອອກໄປ.
+
+108
+00:06:50,200 --> 00:06:56,200
+[ROXANNE]
+It was a traumatic experience. Yes, everyone knows Uberman and me were...close. But what I really need - what would really make me better is getting back to work.
+ມັນເປັນປະສົບການທີ່ໂຊກຮ້າຍ. ແມ່ນແລ້ວ, ທຸກຄົນຮູ້ວ່າຂ້ອຍແລະອູເບີແມນແມ່ນ... ໃກ້ຊິດ.
+ແຕ່ສິ່ງທີ່ຂ້ອຍຕ້ອງການແທ້ໆ - ສິ່ງທີ່ຈະເຮັດໃຫ້ຂ້ອຍດີຂຶ້ນແມ່ນກັບຄືນໄປບ່ອນເຮັດວຽກ.
+
+109
+00:06:56,700 --> 00:06:58,700
+[FRANK]
+Well, that's going to be...
+ດີ, ນັ້ນຈະເປັນ...
+
+110
+00:06:59,200 --> 00:07:02,700
+[ROXANNE]
+I thought you'd be happy to have me back. 19.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະຍິນດີທີ່ຈະມີຂ້ອຍກັບມາ. 19.
+
+111
+00:07:03,200 --> 00:07:08,450
+[FRANK]
+Oh, we are. Honey, nothing makes us happier than to have our girl back, but...
+ໂອ້, ພວກເຮົາເປັນ. ແມ,
+ບໍ່ມີຫຍັງເຮັດໃຫ້ພວກເຮົາມີຄວາມສຸກຫຼາຍກ່ວາການມີເດັກຍິງຂອງພວກເຮົາກັບມາ, ແຕ່...
+
+112
+00:07:08,950 --> 00:07:10,950
+[ROXANNE]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+113
+00:07:11,450 --> 00:07:13,450
+[FRANK]
+Things have sorta...changed.
+ບາງສິ່ງບາງຢ່າງໄດ້ປ່ຽນແປງ.
+
+114
+00:07:13,950 --> 00:07:15,950
+[ROXANNE]
+In three weeks?
+ໃນສາມອາທິດບໍ?
+
+115
+00:07:16,450 --> 00:07:22,450
+[FRANK]
+Listen, I'm not one who likes to open up wounds - especially ones that are just starting to scab, but you were sorta our go to girl for the exclusive on Uberman. And now that he's gone...I moved Brad into your anchor spot.
+ຟັງ, ຂ້ອຍບໍ່ແມ່ນຄົນທີ່ມັກເປີດບາດແຜ - ໂດຍສະເພາະຜູ້ທີ່ຫາກໍ່ເລີ່ມຕົ້ນສັ່ນສະເທືອນ, ແຕ່ເຈົ້າເປັນປະເພດຂອງພວກເຮົາໄປຫາເດັກຍິງ
+ສໍາ ລັບສະເພາະໃນ Uberman. ແລະດຽວນີ້ທີ່ລາວໄປແລ້ວ... ຂ້ອຍໄດ້ຍ້າຍແບຣດເຂົ້າໄປໃນບ່ອນແອນເກີຂອງທ່ານ.
+
+116
+00:07:22,950 --> 00:07:25,750
+[ROXANNE]
+Brad? Brad Helms? The man is an idiot.
+ບາດ? ບາດ ເຮລມສ໌? ຜູ້ຊາຍຄົນນັ້ນເປັນຄົນໂງ່.
+
+117
+00:07:26,250 --> 00:07:30,100
+[FRANK]
+It's the suits. They think it's time to switch things up.
+ມັນເປັນຊຸດ. ພວກເຂົາຄິດວ່າມັນເຖິງເວລາທີ່ຈະປ່ຽນສິ່ງຕ່າງໆຂຶ້ນ.
+
+118
+00:07:30,600 --> 00:07:34,450
+[ROXANNE]
+Oh, because they can't use me to get the big story.
+ໂອ້, ເພາະວ່າພວກເຂົາບໍ່ສາມາດໃຊ້ຂ້ອຍໄດ້ເພື່ອໄດ້ຮັບເລື່ອງໃຫຍ່.
+
+119
+00:07:34,950 --> 00:07:40,950
+[FRANK]
+C'mon, Roxie. Using is in the nature of what we do. They used you, you used Uberman. Everybody's happy.
+ມາແລ້ວ, ໂຣກຊີ. ການໃຊ້ແມ່ນຢູ່ໃນ ທໍາ ມະຊາດຂອງສິ່ງທີ່ພວກເຮົາເຮັດ
+. ພວກເຂົາໃຊ້ເຈົ້າ, ເຈົ້າໃຊ້ Uberman. ທຸກຄົນມີຄວາມສຸກ.
+
+120
+00:07:41,450 --> 00:07:43,450
+[ROXANNE]
+I didn't use him.
+ຂ້ອຍບໍ່ໄດ້ໃຊ້ລາວ.
+
+121
+00:07:43,950 --> 00:07:49,550
+[FRANK]
+Oh, I didn't mean that. I know you two were in love or something. My bad.
+ໂອ້, ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າ.
+ຂ້ອຍຮູ້ວ່າເຈົ້າທັງສອງຮັກກັນຫຼືບາງສິ່ງບາງຢ່າງ. ຄວາມຜິດຂອງຂ້ອຍ.
+
+122
+00:07:50,050 --> 00:07:52,050
+[ROXANNE]
+We were. 20.
+ພວກເຮົາເປັນ. 20.
+
+123
+00:07:52,550 --> 00:07:54,550
+[FRANK]
+And that's great.
+ແລະມັນດີເລີດ.
+
+124
+00:07:55,050 --> 00:07:57,050
+[ROXANNE]
+Very in love.
+ຮັກຫຼາຍ.
+
+125
+00:07:57,550 --> 00:08:02,450
+[ROXANNE]
+Okay. So, where are they going to move me if Brad has my spot?
+ດີແລ້ວ. ສະນັ້ນ, ພວກເຂົາຈະຍ້າຍຂ້ອຍໄປໃສຖ້າແບຣດມີບ່ອນຂອງຂ້ອຍ?
+
+126
+00:08:02,950 --> 00:08:04,950
+[FRANK]
+...Human interest.
+ຄວາມສົນໃຈຂອງມະນຸດ.
+
+127
+00:08:05,450 --> 00:08:07,450
+[ROXANNE]
+Bake sales and pet stories.
+ການຂາຍເຂົ້າຫນົມແລະເລື່ອງສັດລ້ຽງ.
+
+128
+00:08:07,950 --> 00:08:13,950
+[FRANK]
+I told them I wouldn't be surprised if you just upped and quit. You busted your ass for that desk.
+ຂ້ອຍບອກພວກເຂົາວ່າຂ້ອຍຈະບໍ່ແປກໃຈຖ້າເຈົ້າພຽງແຕ່ຂຶ້ນແລະອອກຈາກ
+. ເຈົ້າໄດ້ທໍາລາຍຫລັງຂອງທ່ານສໍາລັບໂຕະນັ້ນ.
+
+129
+00:08:14,450 --> 00:08:16,450
+[ROXANNE]
+I'll take it.
+ຂ້ອຍຈະເອົາມັນ.
+
+130
+00:08:16,950 --> 00:08:18,950
+[FRANK]
+What?
+ຫຍັງ?
+
+131
+00:08:19,450 --> 00:08:25,450
+[REPORTER ON TELEVISION]
+It's been nearly six weeks, and still no word on the whereabouts of billionaire playboy, and philanthropist, Wayne Scott. Tune in at 11:00 as we look into what has become Metro City's biggest mystery.
+ມັນເກືອບຫົກອາທິດແລ້ວ, ແລະຍັງບໍ່ມີຂ່າວກ່ຽວກັບບ່ອນຢູ່ຂອງນັກຫຼິ້ນລ້ານຄົນ, ແລະນັກບຸນທາດ, ເວີນ ສອດຕ໌
+. ຕິດຕໍ່ຕອນນີ້ໃນເວລາ 11:00 ໃນຂະນະທີ່ພວກເຮົາເບິ່ງສິ່ງທີ່ກາຍເປັນຄວາມລັບທີ່ໃຫຍ່ທີ່ສຸດຂອງເມືອງເມຕຣໍ.
+
+132
+00:08:25,950 --> 00:08:30,150
+[TELEVISION NARRATOR]
+We now return to "The Hero of our Hearts: The Uberman story."
+ດຽວນີ້ພວກເຮົາກັບຄືນໄປບ່ອນ"ວິລະຊົນຂອງຫົວໃຈຂອງພວກເຮົາ
+: ເລື່ອງຂອງ Uberman."
+
+133
+00:08:30,650 --> 00:08:32,650
+[EINSTEIN]
+Just robbed the diamond exchange.
+ພຽງແຕ່ລັກເອົາບ່ອນແລກປ່ຽນເພັດ.
+
+134
+00:08:33,150 --> 00:08:35,600
+[MASTER MIND]
+Great, great. Put it on the pile.
+ດີເລີດ. ເອົາມັນໃສ່ກະຕ່າ.
+
+135
+00:08:36,100 --> 00:08:38,100
+[EINSTEIN]
+Anything else today?
+ມີຫຍັງອີກໃນມື້ນີ້ບໍ?
+
+136
+00:08:38,600 --> 00:08:40,600
+[MASTER MIND]
+No.
+ບໍ່
+
+137
+00:08:41,100 --> 00:08:43,200
+[PLATO]
+Sir, the new reactor is installed.
+ເຈົ້າ, ເຄື່ອງປະຕິກິລິຍາ ໃຫມ່ ໄດ້ຖືກຕິດຕັ້ງແລ້ວ.
+
+138
+00:08:43,700 --> 00:08:49,300
+[PLATO]
+Do you want to throw the switch? I know how you love to start reactors. 22.
+ເຈົ້າຢາກຖິ້ມເຄື່ອງປ່ຽນບໍ?
+ຂ້ອຍຮູ້ວ່າເຈົ້າມັກເລີ່ມຕົ້ນເຕົາໄຟຟ້າແນວໃດ. 22.
+
+139
+00:08:49,800 --> 00:08:51,800
+[MASTER MIND]
+Maybe later.
+ບາງທີຕໍ່ມາ.
+
+140
+00:08:52,300 --> 00:08:54,300
+[MASTER MIND]
+What is it, Plato?
+ມັນເປັນຫຍັງ, ປລາໂຕ?
+
+141
+00:08:54,800 --> 00:08:59,000
+[PLATO]
+Sir, I can't help but notice that you've been...a little down lately.
+ເຈົ້າ, ຂ້ອຍບໍ່ສາມາດຊ່ວຍໄດ້ແຕ່ສັງເກດເຫັນວ່າເຈົ້າໄດ້
+... ຕົກລົງ ຫນ້ອຍ ຫນຶ່ງ ໃນໄລຍະຜ່ານມາ.
+
+142
+00:08:59,500 --> 00:09:03,350
+[MASTER MIND]
+When I want your opinion I'll beat it out of you.
+ເມື່ອຂ້ອຍຕ້ອງການຄວາມຄິດເຫັນຂອງທ່ານ ຂ້ອຍຈະເອົາມັນອອກຈາກເຈົ້າ.
+
+143
+00:09:03,850 --> 00:09:09,850
+[PLATO]
+Yes, sir, I know, but please forgive my impertinence. It's just that you seem to have lost your lust for our profession. You've stopped going on jobs and spend most of your time watching Uberman specials.
+ແມ່ນແລ້ວ, ເຈົ້າ, ຂ້ອຍຮູ້ແລ້ວ, ແຕ່ຂໍໂທດຄວາມໂຊກຮ້າຍຂອງຂ້ອຍ. ມັນພຽງແຕ່ວ່າເຈົ້າເບິ່ງຄືວ່າໄດ້ສູນເສຍຄວາມປາຖະຫນາຂອງທ່ານຕໍ່ອາຊີບຂອງພວກເຮົາ
+. ເຈົ້າໄດ້ຢຸດການເຮັດວຽກແລະໃຊ້ເວລາສ່ວນໃຫຍ່ຂອງເວລາຂອງທ່ານເບິ່ງພິເສດ Uberman.
+
+144
+00:09:10,350 --> 00:09:16,350
+[MASTER MIND]
+I have defeated my greatest enemy. I have free reign over Metro City. I have more wealth than a thousand Sultans. I've achieved all I have worked for...so why am I so unhappy?
+ຂ້ອຍໄດ້ເອົາຊະນະສັດຕູທີ່ໃຫຍ່ທີ່ສຸດຂອງຂ້ອຍແລ້ວ. ຂ້ອຍມີອໍານາດປົກຄອງຟຣີໃນເມືອງເມຕຣໍ.
+ຂ້ອຍມີຄວາມຮັ່ງມີຫຼາຍກ່ວາຊາວຊູລຕານພັນຄົນ. ຂ້ອຍໄດ້ບັນລຸທຸກຢ່າງທີ່ຂ້ອຍໄດ້ເຮັດວຽກເພື່ອ... ສະນັ້ນຂ້ອຍບໍ່ສຸກຫຼາຍປານໃດ?
+
+145
+00:09:16,850 --> 00:09:22,850
+[MASTER MIND]
+I mean, my father, god rest his evil and tormented soul, raised me straight from the test tube to be a symbol of evil. 23. MASTER MIND And, I have accomplished something he had only dreamed about - the destruction of Metro City's champion. I tell you, I've always lived with this unquenchable thirst. I thought it was to make him proud or to get absolute power. But now that I've pretty much accomplished both, I am at a loss.
+ຂ້ອຍຫມາຍຄວາມວ່າ, ພໍ່ຂອງຂ້ອຍ, ພຣະເຈົ້າໃຫ້ຈິດວິນຍານທີ່ຮ້າຍແຮງແລະທໍລະມານຂອງລາວພັກຜ່ອນ, ຍົກຂ້ອຍໂດຍກົງຈາກທໍ່ທົດສອບເພື່ອເປັນສັນຍາລັກຂອງຄວາມຮ້າຍແຮງ. 23. ຈິດໃຈ MASTER ແລະ, ຂ້ອຍໄດ້ບັນລຸສິ່ງບາງຢ່າງທີ່ລາວພຽງແຕ່ຝັນກ່ຽວກັບ
+- ການທໍາລາຍແຊ້ມຂອງເມືອງເມຕໂຣ. ຂ້ອຍບອກເຈົ້າ, ຂ້ອຍເຄີຍດໍາລົງຊີວິດກັບຄວາມດອກດອກທີ່ບໍ່ສາມາດປິດໄດ້ນີ້. ຂ້ອຍຄິດວ່າມັນເພື່ອເຮັດໃຫ້ລາວພາກພູມໃຈຫຼືເພື່ອໄດ້ຮັບພະລັງທີ່ສົມບູນແບບ. ແຕ່ດຽວນີ້
+
+146
+00:09:23,350 --> 00:09:26,500
+[PLATO]
+...I sort of have a theory about all that.
+ຂ້ອຍມີທິດສະດີກ່ຽວກັບສິ່ງທັງ ຫມົດ ນັ້ນ.
+
+147
+00:09:27,000 --> 00:09:29,000
+[MASTER MIND]
+Oh, really?
+ໂອ້, ແທ້ບໍ?
+
+148
+00:09:29,500 --> 00:09:34,400
+[PLATO]
+Well, for one thing, maybe Uberman was more important to you than you thought.
+ດີ, ສໍາລັບສິ່ງຫນຶ່ງ, ບາງທີ Uberman
+ມີຄວາມສໍາຄັນຫຼາຍຕໍ່ເຈົ້າກ່ວາທີ່ທ່ານຄິດ.
+
+149
+00:09:34,900 --> 00:09:40,900
+[MASTER MIND]
+He was a worthy rival. Sometimes I wonder, did he consider me his evil equal or was I just an annoying, little gnat to him? ...What's the second part?
+ລາວເປັນຄູ່ແຂ່ງທີ່ສົມຄວນ. ບາງຄັ້ງຂ້ອຍສົງໄສວ່າ,
+ລາວຖືວ່າຂ້ອຍເປັນຄວາມຮ້າຍແຮງເທົ່າທຽມກັບລາວຫຼືຂ້ອຍພຽງແຕ່ເປັນແມງໄມ້ນ້ອຍທີ່ ຫນ້າ ກັງວົນຕໍ່ລາວບໍ?... ສ່ວນທີສອງແມ່ນຫຍັງ?
+
+150
+00:09:41,400 --> 00:09:45,250
+[PLATO]
+I think you sort of have a thing for Roxanne Ritchi.
+ຂ້ອຍຄິດວ່າເຈົ້າມີຄວາມມັກໂຣຊານ ຣິດຊີ.
+
+151
+00:09:45,750 --> 00:09:51,750
+[PLATO]
+Sir, your plans always involve Ms. Ritchi either being kidnapped or placed in danger. If that's not love, I don't know what is. It's the grown up equivalent of dipping her pigtails in the ink well. Don't you see? She's the one treasure that's always escaped you.
+ເຈົ້າ, ແຜນການຂອງທ່ານສະເຫມີກ່ຽວຂ້ອງກັບທ່ານນາງ ຣິດຊີ ຫຼືຖືກລັກພາຕົວຫຼືຖືກວາງໄວ້ໃນອັນຕະລາຍ. ຖ້າມັນບໍ່ແມ່ນຄວາມຮັກ, ຂ້ອຍບໍ່ຮູ້ວ່າເປັນຫຍັງ
+. ມັນແມ່ນທຽບເທົ່າທີ່ໃຫຍ່ຂອງການຖ້ວມ pigtails ຂອງນາງໃນອິນເກີດີ. ເຈົ້າບໍ່ເຫັນບໍ? ນາງເປັນຊັບສິນດຽວທີ່ໄດ້ຫນີຈາກເຈົ້າຕະຫຼອດໄປ.
+
+152
+00:09:52,250 --> 00:09:55,050
+[FRIEND #1]
+I can't believe you came back so soon.
+ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າກັບມາໄວປານໃດ.
+
+153
+00:09:55,550 --> 00:09:58,350
+[FRIEND #2]
+Are you sure it's not TOO SOON, honey?
+ເຈົ້າແນ່ໃຈວ່າມັນບໍ່ແມ່ນໄວເກີນໄປບໍ, ແມ?
+
+154
+00:09:58,850 --> 00:10:01,650
+[ROXANNE]
+I just wanted to get back to work.
+ຂ້ອຍພຽງແຕ່ຢາກກັບຄືນໄປບ່ອນເຮັດວຽກ.
+
+155
+00:10:02,150 --> 00:10:07,050
+[FRIEND #3]
+What we need to do is get you back on the saddle...the love saddle.
+ສິ່ງທີ່ພວກເຮົາຕ້ອງເຮັດແມ່ນເຮັດໃຫ້ເຈົ້າກັບຄືນໄປບ່ອນໃສ່ກະຕ່າ
+... ກະຕ່າຄວາມຮັກ.
+
+156
+00:10:07,550 --> 00:10:09,550
+[FRIEND #3]
+It's been three weeks.
+ມັນເປັນເວລາສາມອາທິດແລ້ວ.
+
+157
+00:10:10,050 --> 00:10:13,200
+[FRIEND #2]
+She just lost the love of her life, Grace.
+ນາງຫາກໍ່ສູນເສຍຄວາມຮັກຂອງຊີວິດຂອງນາງ, ແກຣສ໌.
+
+158
+00:10:13,700 --> 00:10:19,700
+[ROXANNE]
+I keep trying to tell people it wasn't really like that. Uberman and I - We were kinda having problems. We broke up.
+ຂ້ອຍສືບຕໍ່ພະຍາຍາມບອກຄົນວ່າມັນບໍ່ແມ່ນແບບນັ້ນແທ້ໆ.
+ຂ້ອຍແລະອູເບີແມນ - ພວກເຮົາມີບັນຫາບາງຢ່າງ. ພວກເຮົາແຕກແຍກກັນ.
+
+159
+00:10:20,200 --> 00:10:22,200
+[FRIEND #1]
+You broke up with Uberman!
+ເຈົ້າແຍກກັນກັບໂອເບີແມນ!
+
+160
+00:10:22,700 --> 00:10:28,700
+[FRIEND #3]
+You must have REALLY, REALLY high standards. I mean, you were dating a god. I mean, what's it take?
+ເຈົ້າຕ້ອງມີມາດຕະຖານສູງແທ້ໆ. ຂ້ອຍຫມາຍຄວາມວ່າ, ເຈົ້າ ກໍາ
+ລັງພົບກັບພະເຈົ້າ. ຂ້ອຍ ຫມາຍ ຄວາມວ່າ, ມັນຕ້ອງເຮັດຫຍັງ?
+
+161
+00:10:29,200 --> 00:10:34,800
+[ROXANNE]
+Maybe someone who's a little more aware of his faults. Someone a little more sensitive. 25.
+ບາງທີບາງຄົນທີ່ມີຄວາມຮູ້ສຶກກ່ຽວກັບຄວາມຜິດພາດຂອງລາວຫຼາຍຂຶ້ນເລັກນ້ອຍ
+. ບາງຄົນມີຄວາມລະອຽດອ່ອນກວ່າເລັກຫນ້ອຍ. 25.
+
+162
+00:10:35,300 --> 00:10:41,300
+[FRIEND #3]
+Right. Someone who listens, sexy but attainable with cute little cheeks like a hamster and heartbreak in his eyes.
+ແມ່ນແລ້ວ. ຄົນໃດທີ່ຟັງ, sexy ແຕ່ສາມາດບັນລຸໄດ້ດ້ວຍກະຕ່ານ້ອຍທີ່ສວຍງາມຄືກັບ
+hamster ແລະຫົວໃຈທີ່ແຕກໃນຕາຂອງລາວ.
+
+163
+00:10:41,800 --> 00:10:43,800
+[FRIEND #3]
+She wants John Cusack.
+ນາງຢາກຈອນ ຄູຊາກ.
+
+164
+00:10:44,300 --> 00:10:46,300
+[FRIEND #2]
+The actor?
+ນັກສະແດງບໍ?
+
+165
+00:10:46,800 --> 00:10:52,800
+[FRIEND #3]
+No, the famous pediatrist - Yes, the actor. Ever since we were teenagers, Roxanne's totally had the hots for him.
+ບໍ່, ທ່ານຫມໍເດັກນ້ອຍທີ່ມີຊື່ສຽງ - ແມ່ນແລ້ວ, ນັກສະແດງ.
+ນັບຕັ້ງແຕ່ພວກເຮົາເປັນໄວລຸ້ນ, ໂຣຊານມີຄວາມຮ້ອນ ສໍາ ລັບລາວຢ່າງສົມບູນ.
+
+166
+00:10:53,300 --> 00:10:59,300
+[ROXANNE]
+Well, until he miraculously comes walking into my life, I'm just going to take a little reflection time for myself.
+ດີ, ຈົນກວ່າລາວຈະມາເຂົ້າໄປໃນຊີວິດຂອງຂ້ອຍຢ່າງມະຫັດສະຈັນ,
+ຂ້ອຍພຽງແຕ່ຈະໃຊ້ເວລາພິຈາລະນາ ຫນ້ອຍ ຫນຶ່ງ ສໍາ ລັບຕົວເອງ.
+
+167
+00:10:59,800 --> 00:11:01,900
+[MASTER MIND]
+Who the hell is John Cusack?
+ຈອນ ຄູຊາກແມ່ນໃຜ?
+
+168
+00:11:02,400 --> 00:11:08,400
+[POLITICIAN]
+The Fifth Avenue Renovation Project, which I championed, will breath new life into the downtown area. New life means new jobs and new revenue.
+ໂຄງການສ້ອມແປງຖະຫນົນຫົນທາງທີຫ້າ, ເຊິ່ງຂ້ອຍເປັນແຊ້ມ, ຈະຫາຍໃຈຊີວິດໃຫມ່ເຂົ້າໄປໃນເຂດໃຈກາງເມືອງ
+. ຊີວິດໃຫມ່ຫມາຍຄວາມວ່າວຽກເຮັດງານທໍາໃຫມ່ແລະລາຍໄດ້ໃຫມ່.
+
+169
+00:11:08,900 --> 00:11:14,150
+[ROXANNE]
+Councilman, is it true that your brother-in-law's construction company won the contract for this project?
+ສະມາຊິກສະພາ, ມັນເປັນຄວາມຈິງບໍວ່າບໍລິສັດກໍ່ສ້າງຂອງອ້າຍນ້ອງຂອງທ່ານໄດ້ຊະນະສັນຍາ
+ສໍາ ລັບໂຄງການນີ້?
+
+170
+00:11:14,650 --> 00:11:18,850
+[POLITICIAN]
+Well...er...yes, but...look I'm not here to answer a lot of crazy questions...
+ດີ... ເອ້... ແມ່ນແລ້ວ, ແຕ່...
+ເບິ່ງຂ້ອຍບໍ່ໄດ້ຢູ່ບ່ອນນີ້ເພື່ອຕອບ ຄໍາ ຖາມທີ່ໂຊກຮ້າຍຫຼາຍຢ່າງ...
+
+171
+00:11:19,350 --> 00:11:22,850
+[YOUNG MOTHER]
+Thank you! Thank you for saving me and my baby!
+ຂອບໃຈ! ຂອບໃຈທີ່ຊ່ວຍຂ້ອຍແລະລູກຂອງຂ້ອຍ!
+
+172
+00:11:23,350 --> 00:11:25,350
+[HAL]
+Huh?
+ຮາ?
+
+173
+00:11:25,850 --> 00:11:27,850
+[HAL]
+There, there.
+ນັ້ນແລ້ວ, ນັ້ນແລ້ວ.
+
+174
+00:11:28,350 --> 00:11:31,850
+[HAL]
+Okay, we better...well, I hear these little guys smother easy.
+ດີແລ້ວ, ພວກເຮົາຄວນ... ດີ,
+ຂ້ອຍໄດ້ຍິນວ່າພວກຜູ້ຊາຍນ້ອຍເຫຼົ່ານີ້ບິດບິດງ່າຍໆ.
+
+175
+00:11:32,350 --> 00:11:35,150
+[ROXANNE]
+What's it feel like to be a hero?
+ຮູ້ສຶກແນວໃດທີ່ຈະເປັນວິລະຊົນ?
+
+176
+00:11:35,650 --> 00:11:40,200
+[HAL]
+Well...I'm just a man doing what men do. You're Roxanne Ritchi, aren't you?
+ດີ... ຂ້ອຍພຽງແຕ່ເປັນຜູ້ຊາຍທີ່ເຮັດສິ່ງທີ່ຜູ້ຊາຍເຮັດ
+. ເຈົ້າເປັນໂຣຊານ ຣິດຊີ, ແມ່ນບໍ?
+
+177
+00:11:40,700 --> 00:11:42,700
+[REPORTER]
+Were you scared? 28.
+ເຈົ້າຢ້ານບໍ? 28.
+
+178
+00:11:43,200 --> 00:11:45,200
+[HAL]
+Scared? Who had time?
+ຢ້ານກົວບໍ? ໃຜມີເວລາ?
+
+179
+00:11:45,700 --> 00:11:51,700
+[MASTER MIND]
+John Cusack, huh? So all I have to do is have a cute puppy dog stare, be willing to make a fool of myself and - Oh, REMOVE BOTH MY BALLS.
+ຈອນ ຄູຊາກ, ແມ່ນບໍ? ສະນັ້ນຂ້ອຍຕ້ອງເຮັດພຽງແຕ່ມີຫມາຫມາທີ່ສວຍງາມ,
+ພ້ອມທີ່ຈະເຮັດໃຫ້ຕົວເອງເປັນຄົນໂງ່ແລະ - ໂອ້, ເອົາບານທັງສອງຂອງຂ້ອຍອອກ.
+
+180
+00:11:52,200 --> 00:11:54,300
+[MASTER MIND]
+Please, get a hold of yourself.
+ກະລຸນາ, ຄວບຄຸມຕົວເອງ.
+
+181
+00:11:54,800 --> 00:11:56,800
+[ROXANNE]
+Shit.
+ສະບາຍດີ.
+
+182
+00:11:57,300 --> 00:12:00,100
+["JOHN CUSACK"]
+Oh the humanity - it was a Venti.
+ໂອ້ ມະນຸດຊາດ - ມັນແມ່ນເວນຕິ.
+
+183
+00:12:00,600 --> 00:12:02,600
+[ROXANNE]
+You're...you're.
+ເຈົ້າ... ເຈົ້າ.
+
+184
+00:12:03,100 --> 00:12:05,550
+["JOHN CUSACK"]
+Yes, it's me. John Cusack...the actor. 29.
+ແມ່ນແລ້ວ, ມັນແມ່ນຂ້ອຍ. ຈອນ ຄູຊາກ... ນັກສະແດງ. 29.
+
+185
+00:12:06,050 --> 00:12:12,050
+["JOHN CUSACK"]
+Hey, is that Shelly? Wait, I think remember something from that one - Let's see: "My head is screaming `I want you and need you' - my heart it keeps reaching to see you and feel you - yet in the end, I'm alone once again." Wow, I scare even myself. I'm sorry. I'm just really into poetry. Probably because I'm so sensitive and always going to great lengths to express myself. But enough about me. Can I fill you up?
+ເຮ້, ນັ້ນແມ່ນເຊລລີບໍ? ລໍຖ້າ, ຂ້ອຍຄິດວ່າຈື່ບາງສິ່ງບາງຢ່າງຈາກຄົນນັ້ນ - ມາເບິ່ງວ່າ:"ຫົວຂອງຂ້ອຍ ກໍາ ລັງຮ້ອງໄຫ້ ` ຂ້ອຍຢາກເຈົ້າແລະຕ້ອງການເຈົ້າ' - ຫົວໃຈຂອງຂ້ອຍມັນຍັງຍາວນານເພື່ອເຫັນເຈົ້າແລະຮູ້ສຶກເຈົ້າ
+- ເຖິງຢ່າງໃດກໍ່ຕາມໃນທີ່ສຸດ, ຂ້ອຍຢູ່ຄົນດຽວອີກຄັ້ງຫນຶ່ງ." ໂວ້, ຂ້ອຍຢ້ານຕົວເອງ. ຂ້ອຍຂໍໂທດ. ຂ້ອຍພຽງແຕ່ມັກກະວີແທ້ໆ. ບາງທີເພາະວ່າຂ້ອຍມີຄວາມຮູ້ສຶກຫຼາຍແລະຈະໄປຫາຄວາມຍາວທີ່ຍິ່ງໃຫຍ່ເພື່ອ
+
+186
+00:12:12,550 --> 00:12:14,550
+[ROXANNE]
+...Yes.  I mean, excuse me?
+ແມ່ນແລ້ວ. ຂ້ອຍຫມາຍຄວາມວ່າ, ຂໍໂທດບໍ?
+
+187
+00:12:15,050 --> 00:12:17,500
+["JOHN CUSACK"]
+Can I fill you up? Your coffee.
+ຂ້ອຍສາມາດຕື່ມເຈົ້າໄດ້ບໍ? ກາເຟຂອງທ່ານ.
+
+188
+00:12:18,000 --> 00:12:20,000
+[ROXANNE]
+Right.
+ແມ່ນແລ້ວ.
+
+189
+00:12:20,500 --> 00:12:23,650
+[ROXANNE]
+I did have a boyfriend - until fairly recently.
+ຂ້ອຍມີແຟນຊາຍ - ຈົນຮອດບໍ່ດົນມານີ້.
+
+190
+00:12:24,150 --> 00:12:26,600
+[ROXANNE]
+I'm sorry - this is so surreal!
+ຂ້ອຍຂໍໂທດ - ນີ້ແມ່ນ surreal ຫຼາຍ!
+
+191
+00:12:27,100 --> 00:12:33,100
+["JOHN CUSACK"]
+Yeah, they charge way too much at these places - Now back to your boyfriend. I'm interested and compassionate. I want to know about you. 30.
+ແມ່ນແລ້ວ, ພວກເຂົາຄິດຄ່າໃຊ້ຈ່າຍຫຼາຍເກີນໄປໃນສະຖານທີ່ເຫຼົ່ານີ້ -
+ດຽວນີ້ກັບຄືນໄປບ່ອນແຟນຂອງທ່ານ. ຂ້ອຍສົນໃຈແລະເຫັນໃຈ. ຂ້ອຍຢາກຮູ້ກ່ຽວກັບເຈົ້າ. 30.
+
+192
+00:12:33,600 --> 00:12:39,600
+[ROXANNE]
+Things were complicated. He was a man married to his work. There was...there was a lot of competition in his line of business. I'm sure you know what that's like.
+ສິ່ງຕ່າງໆສັບສົນ. ລາວເປັນຜູ້ຊາຍທີ່ແຕ່ງງານກັບວຽກງານຂອງລາວ. ມີ...
+ມີການແຂ່ງຂັນຫຼາຍໃນສາຍທຸລະກິດຂອງລາວ. ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຮູ້ວ່າມັນເປັນແນວໃດ.
+
+193
+00:12:40,100 --> 00:12:45,350
+["JOHN CUSACK"]
+Sure. In my business, one thing I have is RIVALS. For example, mine is...uh...Lou Ferr...igno.
+ແນ່ນອນ. ໃນທຸລະກິດຂອງຂ້ອຍ, ສິ່ງດຽວທີ່ຂ້ອຍມີແມ່ນຄູ່ແຂ່ງ
+. ຍົກຕົວຢ່າງ, ຂອງຂ້ອຍແມ່ນ... ອູ... ລູ ຟີຣ໌... ບໍ່ຮູ້.
+
+194
+00:12:45,850 --> 00:12:49,350
+[ROXANNE]
+...The body-builder who used to play The Hulk on TV?
+ຜູ້ກໍ່ສ້າງຮ່າງກາຍທີ່ເຄີຍຫຼິ້ນ The Hulk ໃນໂທລະພາບບໍ?
+
+195
+00:12:49,850 --> 00:12:55,850
+["JOHN CUSACK"]
+Did he? Well, we're always up for the same roles. Did your boyfriend have someone like that? A particular rival that was always getting his goat - so to speak?
+ລາວເຮັດບໍ? ດີ, ພວກເຮົາມັກບົດບາດດຽວກັນຢູ່ສະເຫມີ. ເພື່ອນຊາຍຂອງທ່ານມີຄົນເຊັ່ນນັ້ນບໍ
+? ຄູ່ແຂ່ງສະເພາະທີ່ ກໍາ ລັງໄດ້ຮັບແມວຂອງລາວຢູ່ສະ ເຫມີ - ເພື່ອເວົ້າໄດ້ບໍ?
+
+196
+00:12:56,350 --> 00:13:02,350
+[ROXANNE]
+Well...one rival in particular seemed to get more of his attention than I ever did. But enough about my problems.
+ດີ... ຄູ່ແຂ່ງຄົນ ຫນຶ່ງ ໂດຍສະເພາະເບິ່ງຄືວ່າໄດ້ຮັບຄວາມສົນໃຈຂອງລາວຫຼາຍກ່ວາຂ້ອຍເຄີຍເຮັດ
+. ແຕ່ພຽງພໍກ່ຽວກັບບັນຫາຂອງຂ້ອຍ.
+
+197
+00:13:02,850 --> 00:13:06,350
+[NO, TELL ME MORE!!!]
+Suddenly realizing his outburst, he begins COUGHING to mask it.
+ເມື່ອຮູ້ສຶກການລະເບີດຂອງລາວຢ່າງກະທັນຫັນ, ລາວເລີ່ມພະຍາຍາມປິດບັງມັນ.
+
+198
+00:13:06,850 --> 00:13:12,850
+["JOHN CUSACK"]
+I'm sorry. I got a whooping cough. Had it ever since Serendipity. I WONDER WHERE OUR REFILLS ARE!!!  See, there it goes again. Please, go on.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍມີໄຂ້ຫວັດໃຫຍ່. ມີມັນຕັ້ງແຕ່ Serendipity.
+ຂ້ອຍສົງໄສວ່າເຄື່ອງປັ່ນປ່ວນຂອງພວກເຮົາຢູ່ໃສ!!! ເບິ່ງ, ມັນໄປອີກຄັ້ງ. ກະລຸນາ, ໄປຕໍ່ໄປ.
+
+199
+00:13:13,350 --> 00:13:17,550
+[ROXANNE]
+Right, well, he seemed to need him more than he needed me.
+ແມ່ນແລ້ວ, ດີ, ລາວເບິ່ງຄືວ່າຕ້ອງການລາວຫຼາຍກ່ວາລາວຕ້ອງການຂ້ອຍ.
+
+200
+00:13:18,050 --> 00:13:20,050
+["JOHN CUSACK"]
+How do you mean? 31.
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ? 31.
+
+201
+00:13:20,550 --> 00:13:26,550
+[ROXANNE]
+It was conflict he thrived on. He always said he wouldn't know what to do with himself if Master - I mean, this guy were gone. It was like he needed it, like oxygen.
+ມັນເປັນການຂັດແຍ່ງທີ່ລາວຈະເລີນຮຸ່ງເຮືອງ. ລາວເວົ້າຢູ່ສະເຫມີວ່າລາວຈະບໍ່ຮູ້ວ່າຈະເຮັດຫຍັງກັບຕົວເອງຖ້າ
+Master - ຂ້ອຍຫມາຍຄວາມວ່າ, ຜູ້ຊາຍຄົນນີ້ຫາຍໄປ. ມັນຄືກັບວ່າລາວຕ້ອງການມັນ, ເຊັ່ນວ່າອົກຊີເຈນ.
+
+202
+00:13:27,050 --> 00:13:33,050
+["JOHN CUSACK"]
+I think I finally understand...The only logical answer is to recreate that rivalry - or if that's impossible, create one of equal structure. That's it!
+ຂ້ອຍຄິດວ່າຂ້ອຍເຂົ້າໃຈໃນທີ່ສຸດ... ຄໍາ ຕອບທີ່ສົມເຫດສົມຜົນດຽວແມ່ນການສ້າງຄວາມແຂ່ງຂັນນັ້ນຄືນໃຫມ່
+- ຫຼືຖ້າມັນບໍ່ສາມາດເຮັດໄດ້, ສ້າງ ຫນຶ່ງ ທີ່ມີໂຄງສ້າງເທົ່າທຽມກັນ. ນັ້ນແມ່ນມັນ!
+
+203
+00:13:33,550 --> 00:13:35,550
+[ROXANNE]
+What?
+ຫຍັງ?
+
+204
+00:13:36,050 --> 00:13:42,050
+["JOHN CUSACK"]
+Oh, sorry, sorry. Just rehearsing for a part...where I play a man who talks to himself at inappropriate times.
+ໂອ້ ຂໍໂທດ, ຂໍໂທດ. ພຽງແຕ່ຝຶກຊ້ອມ ສໍາ ລັບບົດບາດ...
+ບ່ອນທີ່ຂ້ອຍຫຼິ້ນຜູ້ຊາຍທີ່ເວົ້າກັບຕົວເອງໃນເວລາທີ່ບໍ່ ເຫມາະ ສົມ.
+
+205
+00:13:42,550 --> 00:13:48,550
+["JOHN CUSACK"]
+I have to go right now, but I'd really like to see you again - if that's alright.
+ຂ້ອຍຕ້ອງໄປທັນທີ, ແຕ່ຂ້ອຍຢາກເຫັນເຈົ້າອີກຄັ້ງ - ຖ້າມັນບໍ່ເປັນຫຍັງ.
+
+206
+00:13:49,050 --> 00:13:51,050
+[ROXANNE]
+I'd love that.
+ຂ້ອຍຢາກເຮັດແບບນັ້ນ.
+
+207
+00:13:51,550 --> 00:13:53,550
+[EINSTEIN]
+Got her nose!
+ຂ້ອຍຈັບດັງຂອງນາງແລ້ວ!
+
+208
+00:13:54,050 --> 00:13:56,050
+[MASTER MIND]
+I've got it! 32.
+ຂ້ອຍເຮັດແລ້ວ! 32.
+
+209
+00:13:56,550 --> 00:13:58,550
+[MASTER MIND]
+I've got it!
+ຂ້ອຍເຮັດແລ້ວ!
+
+210
+00:13:59,050 --> 00:14:05,050
+[MASTER MIND]
+It's plain and simple. Extraordinary minds need extraordinary stimulation. Without that stimulus they wither and die. Therefore, there is only one logical conclusion: I must create a new superhero.
+ມັນງ່າຍດາຍ ແລະ ງ່າຍດາຍ. ຈິດໃຈພິເສດຕ້ອງການການກະຕຸ້ນພິເສດ. ໂດຍບໍ່ມີການກະ ຕຸ້ນນັ້ນພວກເຂົາແຫ້ງແລະຕາຍ
+. ເພາະສະນັ້ນ, ມີພຽງແຕ່ຂໍ້ສະຫຼຸບທີ່ສົມເຫດສົມຜົນດຽວ: ຂ້ອຍຕ້ອງສ້າງ superhero ໃຫມ່.
+
+211
+00:14:05,550 --> 00:14:08,000
+[EINSTEIN]
+Yeah, maybe that's not such hot idea...
+ແມ່ນແລ້ວ, ບາງທີມັນບໍ່ແມ່ນຄວາມຄິດທີ່ຮ້ອນຫຼາຍ...
+
+212
+00:14:08,500 --> 00:14:10,500
+[MASTER MIND]
+Prepare for Operation Superhero Genesis!
+ກຽມພ້ອມ ສໍາ ລັບການປະຕິບັດງານ Superhero Genesis!
+
+213
+00:14:11,000 --> 00:14:13,000
+[MASTER MIND]
+Prepare the subject.
+ກຽມຫົວຂໍ້.
+
+214
+00:14:13,500 --> 00:14:15,500
+[MASTER MIND]
+Plato, pour the toxic waste.
+ປລາໂຕ, ຖອກຂີ້ເຫຍື້ອທີ່ເປັນພິດ.
+
+215
+00:14:16,000 --> 00:14:18,000
+[MASTER MIND]
+Drainage.
+ການລະບາຍນ້ ໍາ.
+
+216
+00:14:18,500 --> 00:14:20,500
+[MASTER MIND]
+Well, Severs?
+ດີ, ເຊເວີສ໌?
+
+217
+00:14:21,000 --> 00:14:25,900
+[SEVERS]
+I feel fine. Just a little sticky, but aside from that everything's completely -
+ຂ້ອຍຮູ້ສຶກດີ. ພຽງແຕ່ຕິດຢູ່ເລັກນ້ອຍ,
+ແຕ່ນອກຈາກນັ້ນທຸກຢ່າງແມ່ນຢ່າງສົມບູນ -
+
+218
+00:14:26,400 --> 00:14:28,400
+[MASTER MIND]
+Okay then.
+ດີແລ້ວ.
+
+219
+00:14:28,900 --> 00:14:30,900
+[MASTER MIND]
+And this one?
+ແລະຄົນນີ້ບໍ?
+
+220
+00:14:31,400 --> 00:14:34,900
+[PLATO]
+We attached gills to him. He can breath under water.
+ພວກເຮົາໄດ້ຕິດກະຕ່າກະທູ້ກັບລາວ. ລາວສາມາດຫາຍໃຈພາຍໃຕ້ນ້ ໍາ ໄດ້.
+
+221
+00:14:35,400 --> 00:14:37,500
+[MASTER MIND]
+Ah. Does he have extraordinary strength?
+ອາ. ລາວມີຄວາມເຂັ້ມແຂງພິເສດບໍ?
+
+222
+00:14:38,000 --> 00:14:40,000
+[PLATO]
+Well...no.
+ດີ... ບໍ່.
+
+223
+00:14:40,500 --> 00:14:42,500
+[MASTER MIND]
+Can he fly?
+ລາວບິນໄດ້ບໍ?
+
+224
+00:14:43,000 --> 00:14:45,000
+[PLATO]
+No.
+ບໍ່
+
+225
+00:14:45,500 --> 00:14:47,500
+[MASTER MIND]
+Resilient to weapons fire?
+ທົນທານຕໍ່ການຍິງອາວຸດບໍ?
+
+226
+00:14:48,000 --> 00:14:50,000
+[PLATO]
+No.
+ບໍ່
+
+227
+00:14:50,500 --> 00:14:52,600
+[MASTER MIND]
+He just breathes under water, then.
+ລາວພຽງແຕ່ຫາຍໃຈພາຍໃຕ້ນ້ ໍາ, ຫຼັງຈາກນັ້ນ.
+
+228
+00:14:53,100 --> 00:14:55,100
+[PLATO]
+Ah...yeah. 34.
+ອາ... ແມ່ນແລ້ວ. 34.
+
+229
+00:14:55,600 --> 00:14:57,600
+[MASTER MIND]
+Plato, the radioactive spider, please.
+ປລາໂຕ, ແມງໄມ້ທີ່ມີວິທະຍຸເຄື່ອນໄຫວ, ກະລຸນາ.
+
+230
+00:14:58,100 --> 00:15:00,100
+[STENWICK]
+Ow!
+ໂອ້!
+
+231
+00:15:00,600 --> 00:15:02,600
+[MASTER MIND]
+Anything, Stenwick?
+ມີຫຍັງບໍ, ສຕັນວິກ?
+
+232
+00:15:03,100 --> 00:15:09,050
+[STENWICK]
+No. Ah...sir, I didn't know this was about spiders. I have a pretty severe case of arachnophobia.
+ບໍ່. ອາ... ທ້າວ, ຂ້ອຍບໍ່ຮູ້ວ່າເລື່ອງນີ້ກ່ຽວກັບແມງໄມ້
+. ຂ້ອຍມີກໍລະນີທີ່ຮ້າຍແຮງຫຼາຍຂອງ arachnophobia.
+
+233
+00:15:09,550 --> 00:15:11,550
+[MASTER MIND]
+We're gonna need more venom.
+ພວກເຮົາຈະຕ້ອງການສານພິດຫຼາຍຂຶ້ນ.
+
+234
+00:15:12,050 --> 00:15:14,050
+[MASTER MIND]
+How `bout now, Stenwick? ....Stenwick?
+ຈະເປັນແນວໃດໃນປັດຈຸບັນ, ສຕັນວິກ?.... ສຕີນວິຄ?
+
+235
+00:15:14,550 --> 00:15:20,550
+[MASTER MIND]
+This has proven to be a challenge. I just don't know what I want. What do I want? 35.
+ນີ້ແມ່ນໄດ້ພິສູດວ່າເປັນສິ່ງທ້າທາຍ.
+ຂ້ອຍພຽງແຕ່ບໍ່ຮູ້ວ່າຂ້ອຍຢາກຫຍັງ. ຂ້ອຍຢາກຫຍັງ? 35.
+
+236
+00:15:21,050 --> 00:15:27,050
+[MASTER MIND]
+I want a man of moral fiber with a strong sense of right and wrong. Someone who doesn't seek power - instead, they must have it thrust upon them and find, within themselves, the courage to rise to the occasion.
+ຂ້ອຍຢາກມີຜູ້ຊາຍທີ່ມີເສັ້ນໃຍສິນທໍາທີ່ມີຄວາມຮູ້ສຶກທີ່ແຂງແຮງກ່ຽວກັບຄວາມຖືກຕ້ອງແລະຄວາມຜິດ. ຄົນທີ່ບໍ່ຊອກຫາພະລັງ
+- ແທນທີ່ຈະ, ພວກເຂົາຕ້ອງມີມັນຖືກກົດດັນໃສ່ພວກເຂົາແລະຊອກຫາ, ພາຍໃນຕົວເອງ, ຄວາມກ້າຫານທີ່ຈະຂຶ້ນກັບໂອກາດ.
+
+237
+00:15:27,550 --> 00:15:31,050
+[EINSTEIN]
+Yeah, well, it sounds like what you want is Uberman.
+ແມ່ນແລ້ວ, ດີ, ມັນເບິ່ງຄືວ່າສິ່ງທີ່ເຈົ້າຕ້ອງການແມ່ນ Uberman.
+
+238
+00:15:31,550 --> 00:15:35,750
+[MASTER MIND]
+That's it! Why make a copy when the real thing will do?
+ນັ້ນແມ່ນມັນ! ເປັນຫຍັງຈຶ່ງເຮັດ ສໍາ ເນົາເມື່ອສິ່ງແທ້ຈິງຈະເຮັດໄດ້?
+
+239
+00:15:36,250 --> 00:15:41,150
+[EINSTEIN]
+I was just kidding, sir. In case you forgot, you actually burned Uberman alive.
+ຂ້ອຍພຽງແຕ່ໂຊກແຊງເດີ. ໃນກໍລະນີທີ່ທ່ານລືມ
+, ເຈົ້າໄດ້ເຜົາໄຫມ້ Uberman ຢູ່ອາໄສແທ້ໆ.
+
+240
+00:15:41,650 --> 00:15:45,500
+[MASTER MIND]
+Then we'll make a new one. Plato, bring me the box!
+ຫຼັງຈາກນັ້ນພວກເຮົາຈະເຮັດໃຫມ່. ປລາໂຕ, ເອົາກ່ອງໃຫ້ຂ້ອຍ!
+
+241
+00:15:46,000 --> 00:15:50,550
+[MASTER MIND]
+Behold - Uberessence. The very thing that gave Uberman his superhuman powers. 36.
+ເບິ່ງ - Uberessence. ສິ່ງດຽວກັນທີ່ໃຫ້
+Uberman ຄວາມເຂັ້ມແຂງ superhuman ຂອງລາວ. 36.
+
+242
+00:15:51,050 --> 00:15:53,500
+[EINSTEIN]
+Where the hell did you get that?
+ເຈົ້າເອົາສິ່ງນັ້ນມາຈາກໃສ?
+
+243
+00:15:54,000 --> 00:16:00,000
+[MASTER MIND]
+Oh, I shot him with a power sucking gun and had this idea to use this to clone a whole army of evil Ubermen. I'm not sure why I never got around to following up with that.
+ໂອ້, ຂ້ອຍໄດ້ຍິງລາວດ້ວຍປືນດູດພະລັງງານແລະມີແນວຄິດນີ້ທີ່ຈະໃຊ້ສິ່ງນີ້ເພື່ອຄລອນກອງທັບທັງ
+ຫມົດ ຂອງຄົນອູເບີຄົນຮ້າຍ. ຂ້ອຍບໍ່ແນ່ໃຈວ່າເປັນຫຍັງຂ້ອຍບໍ່ເຄີຍຕິດຕາມກັບສິ່ງນັ້ນເລີຍ.
+
+244
+00:16:00,500 --> 00:16:03,650
+[PLATO]
+I believe he defeated you before you could, master.
+ຂ້ອຍເຊື່ອວ່າລາວໄດ້ເອົາຊະນະເຈົ້າກ່ອນທີ່ເຈົ້າຈະເຮັດໄດ້, ເຈົ້າ.
+
+245
+00:16:04,150 --> 00:16:06,150
+[MASTER MIND]
+...Right. Man, he was good!
+... ແມ່ນແລ້ວ. ຜູ້ຊາຍ, ລາວດີ!
+
+246
+00:16:06,650 --> 00:16:08,650
+[DA VINCI]
+You want another volunteer, sir?
+ເຈົ້າຢາກມີອາສາສະຫມັກອີກຄົນຫນຶ່ງບໍ, ທ້າວ?
+
+247
+00:16:09,150 --> 00:16:14,050
+[MASTER MIND]
+Not another volunteer driven by the need for personal gain. Somebody else, somebody pure.
+ບໍ່ແມ່ນອາສາສະຫມັກຄົນອື່ນທີ່ຖືກຂັບເຄື່ອນໂດຍຄວາມຕ້ອງການຂອງຜົນປະໂຫຍດສ່ວນຕົວ
+. ຄົນອື່ນ, ຄົນບໍລິສຸດ.
+
+248
+00:16:14,550 --> 00:16:19,800
+[NEWS REPORTER]
+...who risked his own life to save that of a young mother and her child.
+...
+ຜູ້ທີ່ສ່ຽງຊີວິດຂອງຕົນເອງເພື່ອຊ່ວຍຊີວິດຂອງແມ່ຫນຸ່ມແລະລູກຂອງນາງ.
+
+249
+00:16:20,300 --> 00:16:26,300
+[HAL]
+Please, please, you're embarrassing me. I saw someone in need and I helped them. What more can we ask of ourselves. I ask you, what more?
+ຂໍຮ້ອງ, ກະລຸນາ, ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍ. ຂ້ອຍເຫັນຄົນຕ້ອງການແລະຂ້ອຍຊ່ວຍພວກເຂົາ
+. ພວກເຮົາສາມາດຂໍຫຍັງອີກຈາກຕົວເອງໄດ້. ຂ້ອຍຖາມເຈົ້າ, ຫຍັງອີກ?
+
+250
+00:16:26,800 --> 00:16:28,800
+[MASTER MIND]
+Somebody like him!
+ບາງຄົນຄືກັບລາວ!
+
+251
+00:16:29,300 --> 00:16:35,250
+[PLATO]
+Yeah, sir. This guy is a real piece of work. He used to teach bowling at Kingpin's.
+ແມ່ນແລ້ວເດີ. ຜູ້ຊາຍຄົນນີ້ເປັນວຽກງານທີ່ແທ້ຈິງ
+. ລາວເຄີຍສອນບານບູລິງຢູ່ Kingpin ໄດ້.
+
+252
+00:16:35,750 --> 00:16:40,300
+[MASTER MIND]
+A modest profession to brilliantly hide his true heroic nature. I love it.
+ເປັນອາຊີບທີ່ອ່ອນແອເພື່ອເຊື່ອງລັກສະນະວິລະຊົນທີ່ແທ້ຈິງຂອງລາວຢ່າງສວຍງາມ
+. ຂ້ອຍມັກມັນ.
+
+253
+00:16:40,800 --> 00:16:43,950
+[PLATO]
+Then you are absolutely going to love this -
+ຫຼັງຈາກນັ້ນເຈົ້າຈະມັກສິ່ງນີ້ຢ່າງແນ່ນອນ -
+
+254
+00:16:44,450 --> 00:16:47,600
+[PLATO]
+- He volunteers at a school for the blind.
+- ລາວເປັນອາສາສະຫມັກຢູ່ໂຮງຮຽນສໍາລັບຄົນຕາບອດ.
+
+255
+00:16:48,100 --> 00:16:54,100
+[MASTER MIND]
+He volunteers. He doesn't ask for any reward for his deeds. The fates are shining down on me. This Mr. Stewart is truly an unselfish soul.
+ລາວເປັນອາສາສະຫມັກ. ລາວບໍ່ຂໍລາງວັນໃດໆ ສໍາ ລັບການກະ ທໍາ ຂອງລາວ. ຈຸດຫມາຍປາຍທາງ
+ກໍາ ລັງສ່ອງແສງລົງໃສ່ຂ້ອຍ. ທ້າວສຕູເວີດນີ້ແມ່ນຈິດວິນຍານທີ່ບໍ່ເສຍໃຈແທ້ໆ.
+
+256
+00:16:54,600 --> 00:16:58,100
+[HAL]
+You greedy little bastard. I already gave you a twenty.
+ເຈົ້າໂຊກຮ້າຍນ້ອຍທີ່ກຽດຊັງ. ຂ້ອຍໄດ້ໃຫ້ເຈົ້າສິບແລ້ວ.
+
+257
+00:16:58,600 --> 00:17:02,800
+[BLIND KID]
+Hey, you want me to play along? Then pay up, bitch! 38.
+ເຮ້, ເຈົ້າຢາກໃຫ້ຂ້ອຍຫຼິ້ນຮ່ວມກັນບໍ
+? ຫຼັງຈາກນັ້ນຈ່າຍເງິນ, ໂຊກຮ້າຍ! 38.
+
+258
+00:17:03,300 --> 00:17:05,400
+[HAL]
+Fine, but you better be convincing.
+ດີ, ແຕ່ເຈົ້າຄວນມີຄວາມເຊື່ອຫມັ້ນ.
+
+259
+00:17:05,900 --> 00:17:08,000
+[HAL]
+Here she comes, go to work.
+ນາງມາແລ້ວ, ໄປເຮັດວຽກ.
+
+260
+00:17:08,500 --> 00:17:10,600
+[BLIND KID]
+Why can't I see! Why God?
+ເປັນຫຍັງຂ້ອຍບໍ່ສາມາດເຫັນໄດ້! ເປັນຫຍັງພຣະເຈົ້າ?
+
+261
+00:17:11,100 --> 00:17:14,250
+[HAL]
+Hey, Peter. C'mon champ, let me look at you.
+ເຮ້, ເປຕຣ໌. ມາແຊ້ມ, ໃຫ້ຂ້ອຍເບິ່ງເຈົ້າ.
+
+262
+00:17:14,750 --> 00:17:20,750
+[HAL]
+You know, in life we're all given no more than we can bear. This happened to you maybe because you were meant to rise above it - Maybe to be an inspiration to the other little Peteys out there.
+ເຈົ້າຮູ້ແລ້ວ, ໃນຊີວິດພວກເຮົາທຸກຄົນຖືກໃຫ້ບໍ່ຫຼາຍກ່ວາທີ່ພວກເຮົາສາມາດທົນໄດ້. ສິ່ງນີ້ເກີດຂຶ້ນກັບເຈົ້າບາງທີເພາະວ່າເຈົ້າຖືກ
+ຫມາຍ ຄວາມວ່າຈະຂຶ້ນຢູ່ເທິງມັນ - ບາງທີເພື່ອເປັນແຮງບັນດານໃຈໃຫ້ກັບເປຕີ້ນ້ອຍໆອື່ນໆຢູ່ນອກນັ້ນ.
+
+263
+00:17:21,250 --> 00:17:23,250
+[BLIND KID]
+You really think so, Hal?
+ເຈົ້າຄິດດັ່ງນັ້ນແທ້ບໍ, ຮາລ?
+
+264
+00:17:23,750 --> 00:17:29,750
+[HAL]
+Hey, does it LOOK like I'm lying? Now c'mon, go feel your way to class before you get your little butt suspended.
+ເຮ້, ມັນເບິ່ງຄືວ່າຂ້ອຍຕົວະບໍ? ດຽວນີ້ມາ,
+ໄປຮູ້ສຶກທາງໄປຫ້ອງຮຽນກ່ອນທີ່ທ່ານຈະໄດ້ຮັບບາກນ້ອຍຂອງທ່ານຖືກໂຈະ.
+
+265
+00:17:30,250 --> 00:17:32,250
+[HAL]
+Petey, wait a minute.
+ເປຕີ້, ລໍຖ້າດົນຫນຶ່ງ.
+
+266
+00:17:32,750 --> 00:17:34,750
+[HAL]
+Don't run into anything!
+ຢ່າພົບຫຍັງເລີຍ!
+
+267
+00:17:35,250 --> 00:17:38,750
+[PLATO]
+I think I've seen enough, sir. This is your guy.
+ຂ້ອຍຄິດວ່າຂ້ອຍເຫັນພຽງພໍແລ້ວເດີ. ນີ້ແມ່ນຜູ້ຊາຍຂອງທ່ານ.
+
+268
+00:17:39,250 --> 00:17:42,750
+[MASTER MIND]
+Then return to base. We have much work to do.
+ຫຼັງຈາກນັ້ນກັບຄືນໄປບ່ອນຖານທັບ. ພວກເຮົາມີວຽກຫຼາຍຢ່າງທີ່ຈະເຮັດ.
+
+269
+00:17:43,250 --> 00:17:47,100
+[HAL]
+Oh, there it is again. This is really getting embarrassing now.
+ໂອ້, ມັນຢູ່ບ່ອນນັ້ນອີກເທື່ອຫນຶ່ງ.
+ນີ້ແມ່ນ ກໍາ ລັງເຮັດໃຫ້ໂຊກຮ້າຍຫຼາຍດຽວນີ້.
+
+270
+00:17:47,600 --> 00:17:53,600
+[ATTRACTIVE   WOMAN]
+Oh my God! It's you!   You're the man who saved that woman   and her baby the other day! It is   you, isn't it?
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ! ມັນເປັນເຈົ້າ!
+ເຈົ້າເປັນຜູ້ຊາຍທີ່ຊ່ວຍແມ່ຍິງຄົນນັ້ນແລະລູກຂອງນາງໃນມື້ອື່ນ! ມັນແມ່ນເຈົ້າ, ແມ່ນບໍ?
+
+271
+00:17:54,100 --> 00:17:56,100
+[HAL]
+Oh, crap. You got me.
+ໂອ້, ສະບາຍດີ. ເຈົ້າຈັບຂ້ອຍແລ້ວ.
+
+272
+00:17:56,600 --> 00:18:02,600
+[TRUCKER#1]
+Let me tell you something. That was just about the bravest damn thing I've ever witnessed.  Hey, everybody! This guy's the hero from
+ຂໍໃຫ້ຂ້ອຍບອກເຈົ້າບາງສິ່ງບາງຢ່າງ. ນັ້ນແມ່ນພຽງແຕ່ກ່ຽວກັບສິ່ງທີ່ກ້າຫານທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນ
+. ເຮ້, ທຸກຄົນ! ຜູ້ຊາຍຄົນນີ້ແມ່ນວິລະຊົນຈາກ
+
+273
+00:18:03,100 --> 00:18:05,100
+[TV!]
+The bar ERUPTS IN CHEERS.
+ແບຣ໌ແຕກຂຶ້ນໃນຄວາມສຸກ.
+
+274
+00:18:05,600 --> 00:18:07,700
+[TRUCKER#1]
+I want to give you something.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າບາງສິ່ງບາງຢ່າງ.
+
+275
+00:18:08,200 --> 00:18:14,200
+[TRUCKER#1]
+Lost my whole platoon. They were a lot a good boys, a lot of good boys. That was just the way things were in "The Grenada." I'd rather a real hero have this.
+ຂ້ອຍໄດ້ສູນເສຍກອງທັບຂອງຂ້ອຍທັງ ຫມົດ. ພວກເຂົາເປັນເດັກນ້ອຍທີ່ດີຫຼາຍ, ເດັກຊາຍທີ່ດີຫຼາຍ
+. ນັ້ນແມ່ນພຽງແຕ່ວິທີທີ່ສິ່ງຕ່າງໆຢູ່ໃນ"ແກຣນາດາ." ຂ້ອຍມັກເຮໂຣຍທີ່ແທ້ຈິງມີສິ່ງນີ້.
+
+276
+00:18:14,700 --> 00:18:16,700
+[ATTRACTIVE WOMAN]
+Hey, you're on TV again.
+ເຮ້, ເຈົ້າຢູ່ໃນໂທລະພາບອີກເທື່ອຫນຶ່ງ.
+
+277
+00:18:17,200 --> 00:18:23,200
+[BRAD HELMS]
+This just in. Upon a second look at that tape from this morning, which we'll now replay for you, it appears it was not the heroic act it first seemed to be.
+ນີ້ແມ່ນຫາກໍ່ເຂົ້າມາແລ້ວ. ເມື່ອເບິ່ງເທບນັ້ນຄັ້ງທີສອງຈາກຕອນເຊົ້ານີ້, ເຊິ່ງພວກເຮົາຈະຫຼິ້ນຄືນ
+ສໍາ ລັບເຈົ້າດຽວນີ້, ມັນເບິ່ງຄືວ່າມັນບໍ່ແມ່ນການກະທໍາວິລະຊົນທີ່ມັນເບິ່ງຄືວ່າເປັນຄັ້ງ ທໍາ ອິດ.
+
+278
+00:18:23,700 --> 00:18:29,700
+[BRAD HELMS]
+With the tape slowed down you can actually see the man push the woman and her child out of the way in an effort to save his own life.
+ດ້ວຍເທບທີ່ຊ້າລົງເຈົ້າສາມາດເຫັນຜູ້ຊາຍໄດ້ຊຸກຍູ້ຜູ້ຍິງແລະລູກຂອງນາງອອກຈາກທາງໃນການພະຍາຍາມຊ່ວຍຊີວິດຂອງຕົນເອງ
+.
+
+279
+00:18:30,200 --> 00:18:32,300
+[HAL]
+I guess that looks kinda bad.
+ຂ້ອຍຄິດວ່າມັນເບິ່ງຄືວ່າບໍ່ດີຫຼາຍ.
+
+280
+00:18:32,800 --> 00:18:34,800
+[DA VINCI]
+There he is, boss.
+ລາວຢູ່ບ່ອນນັ້ນ, ຫົວຫນ້າ.
+
+281
+00:18:35,300 --> 00:18:37,750
+[MASTER MIND]
+Now, we're sure this won't kill him?
+ດຽວນີ້, ພວກເຮົາແນ່ໃຈວ່າສິ່ງນີ້ຈະບໍ່ຂ້າລາວບໍ?
+
+282
+00:18:38,250 --> 00:18:41,400
+[PLATO]
+Yes, sir. He'll just feel a slight electrical shock.
+ແມ່ນແລ້ວເດີ. ລາວພຽງແຕ່ຈະຮູ້ສຶກສັ່ນສະເທືອນໄຟຟ້າເລັກນ້ອຍ.
+
+283
+00:18:41,900 --> 00:18:43,900
+[MASTER MIND]
+Good.
+ດີແລ້ວ.
+
+284
+00:18:44,400 --> 00:18:46,400
+[MASTER MIND]
+Slight electrical shock?
+ການສັ່ນສະເທືອນໄຟຟ້າເລັກນ້ອຍບໍ?
+
+285
+00:18:46,900 --> 00:18:49,700
+[HAL]
+God, I hate the weather in this city.
+ພຣະເຈົ້າ, ຂ້ອຍກຽດຊັງສະພາບອາກາດໃນເມືອງນີ້.
+
+286
+00:18:50,200 --> 00:18:52,200
+[MASTER MIND]
+Follow him.
+ຕິດຕາມລາວ.
+
+287
+00:18:52,700 --> 00:18:54,800
+[CAT]
+You don't look so good, man.
+ເຈົ້າເບິ່ງບໍ່ດີຫຼາຍ, ຜູ້ຊາຍ.
+
+288
+00:18:55,300 --> 00:18:58,800
+[HAL]
+I don't feel good. I was struck by freaking lightening.
+ຂ້ອຍບໍ່ຮູ້ສຶກດີ. ຂ້ອຍຖືກຕີໂດຍແສງສະຫວ່າງທີ່ໂຊກຮ້າຍ.
+
+289
+00:18:59,300 --> 00:19:01,300
+[HAL]
+AAAAAAHHHHH! You can talk?
+AAAAAAHHHHH! ເຈົ້າສາມາດເວົ້າໄດ້ບໍ?
+
+290
+00:19:01,800 --> 00:19:06,000
+[CAT]
+No, you're just hallucinating. By the way, we're out of orange juice.
+ບໍ່, ເຈົ້າພຽງແຕ່ສໍ້ໂກງ. ເຖິງຢ່າງໃດກໍ່ຕາມ
+, ພວກເຮົາມີນ້ ໍາ ຫມາກ ໄມ້ຫມົດແລ້ວ.
+
+291
+00:19:06,500 --> 00:19:12,100
+[AAAAAAHHHHH!]
+Hal jumps up, trips over a cardboard box and knocks himself out on the coffee table.
+ແຮລໂດດຂຶ້ນ,
+ກະຕຸ້ນໃສ່ກ່ອງກະຕູ້ກະດານແລະເຮັດໃຫ້ຕົວເອງຕົກລົງເທິງໂຕະກາເຟ.
+
+292
+00:19:12,600 --> 00:19:14,600
+[HAL]
+Man...
+ຜູ້ຊາຍ...
+
+293
+00:19:15,100 --> 00:19:17,100
+[HAL]
+Oh, God!
+ໂອ້ ພຣະເຈົ້າ!
+
+294
+00:19:17,600 --> 00:19:19,600
+[HAL]
+Oh, God!
+ໂອ້ ພຣະເຈົ້າ!
+
+295
+00:19:20,100 --> 00:19:22,100
+[HAL]
+Oh, God!
+ໂອ້ ພຣະເຈົ້າ!
+
+296
+00:19:22,600 --> 00:19:24,600
+[HAL]
+Wait!
+ລໍຖ້າ!
+
+297
+00:19:25,100 --> 00:19:27,100
+[HAL]
+Whoa, whoa, whoa!
+ໂອ້, ໂວ້, ໂອ້!
+
+298
+00:19:27,600 --> 00:19:29,600
+[HAL]
+Something's not right here.
+ມີບາງສິ່ງບາງຢ່າງບໍ່ຖືກຕ້ອງຢູ່ນີ້.
+
+299
+00:19:30,100 --> 00:19:32,100
+[HAL]
+Wake up! Wake up, Hal!
+ຕື່ນ! ຕື່ນຂຶ້ນ, ຮາລ!
+
+300
+00:19:32,600 --> 00:19:35,050
+[HAL]
+Okay, okay. Let's get it together, man.
+ດີ, ດີ. ມາພ້ອມກັນກັນ, ຜູ້ຊາຍ.
+
+301
+00:19:35,550 --> 00:19:39,750
+[HAL]
+This is just some sort of...episode. It will pass, it will pass.
+ນີ້ແມ່ນພຽງແຕ່ບາງຊະນິດຂອງ... ບົດບາດ. ມັນຈະຜ່ານໄປ, ມັນຈະມີຜ່ານໄປ.
+
+302
+00:19:40,250 --> 00:19:42,350
+[HAL]
+Well, not too fast I hope.
+ດີ, ບໍ່ໄວເກີນໄປຂ້ອຍຫວັງວ່າ.
+
+303
+00:19:42,850 --> 00:19:44,850
+[HAL]
+Yes, fast, fast!
+ແມ່ນແລ້ວ, ໄວ, ໄວ!
+
+304
+00:19:45,350 --> 00:19:47,800
+[HAL]
+I think I need to go home.
+ຂ້ອຍຄິດວ່າຂ້ອຍຕ້ອງກັບບ້ານ.
+
+305
+00:19:48,300 --> 00:19:50,750
+[MASTER MIND]
+Welcome to your second birth, Hal Stewart.
+ຍິນດີຕ້ອນຮັບໃນການເກີດຄັ້ງທີສອງຂອງທ່ານ, ຮາລ ສຕູເວີດ.
+
+306
+00:19:51,250 --> 00:19:57,250
+[MASTER MIND]
+Instruction is very important in the formative years. Every hero needs a mentor, a father figure to look up to.
+ການສອນມີຄວາມສໍາຄັນຫຼາຍໃນຊຸມປີການສ້າງຕັ້ງ.
+ນັກວິລະຊົນທຸກຄົນຕ້ອງການຜູ້ແນະນໍາ, ຮູບແບບພໍ່ທີ່ຈະເບິ່ງແຍງ.
+
+307
+00:19:57,750 --> 00:19:59,750
+["PAT MORITA"]
+Perfect.
+ດີເລີດ.
+
+308
+00:20:00,250 --> 00:20:06,250
+[VOICE]
+A man will usually find that if he drinks from a bottle, eventually, the bottle drinks from him.
+ຜູ້ຊາຍມັກຈະພົບວ່າຖ້າລາວດື່ມຈາກຈອກ, ໃນທີ່ສຸດ, ຈອກດື່ມມາຈາກລາວ.
+
+309
+00:20:06,750 --> 00:20:08,750
+[HAL]
+Who are you!? 47.
+ເຈົ້າເປັນໃຜ!? 47.
+
+310
+00:20:09,250 --> 00:20:14,500
+[VOICE]
+I am the guide on your journey. Fate has chosen you to be it's champion.
+ຂ້ອຍເປັນຄູ່ມືໃນການເດີນທາງຂອງທ່ານ.
+ກໍານົດໄດ້ເລືອກທ່ານໃຫ້ເປັນແຊ້ມຂອງມັນ.
+
+311
+00:20:15,000 --> 00:20:19,200
+[HAL]
+Thank God. It was a dream. Man, I must be losing it.
+ຂອບໃຈພຣະເຈົ້າ. ມັນເປັນຄວາມຝັນ. ຜູ້ຊາຍ, ຂ້ອຍຕ້ອງສູນເສຍມັນ.
+
+312
+00:20:19,700 --> 00:20:22,150
+["PAT MORITA"]
+You know you're out of orange juice?
+ເຈົ້າຮູ້ບໍວ່າເຈົ້າຫມົດນ້ ໍາ ຫມາກ ໄມ້ບໍ?
+
+313
+00:20:22,650 --> 00:20:25,100
+[HAL]
+Jesus! This isn't happening, this isn't happening.
+ພຣະເຢຊູ! ສິ່ງນີ້ບໍ່ໄດ້ເກີດຂຶ້ນ, ສິ່ງນີ້ບໍ່ເກີດຂຶ້ນ.
+
+314
+00:20:25,600 --> 00:20:28,400
+["PAT MORITA"]
+Calm. All things must be filtered through calmness.
+ສະບາຍໃຈ. ທຸກສິ່ງທຸກຢ່າງຕ້ອງຖືກກັ່ນຕອງຜ່ານຄວາມສະຫງົບໃຈ.
+
+315
+00:20:28,900 --> 00:20:31,350
+[HAL]
+Bullshit! Sometimes it's best to freak out.
+ບາງຄັ້ງມັນດີກວ່າທີ່ຈະຢ້ານກົວ.
+
+316
+00:20:31,850 --> 00:20:35,000
+["PAT MORITA"]
+I think we must work on your attitude first.
+ຂ້ອຍຄິດວ່າພວກເຮົາຕ້ອງເຮັດວຽກກ່ຽວກັບທັດສະນະຂອງທ່ານກ່ອນ.
+
+317
+00:20:35,500 --> 00:20:41,500
+[HAL]
+Look I'm gonna call the cops in about two seconds if you don't get out of here. 48.
+ເບິ່ງຂ້ອຍຈະໂທຫາຕໍາຫຼວດໃນເວລາປະມານສອງວິນາທີຖ້າເຈົ້າບໍ່ອອກຈາກບ່ອນນີ້
+. 48.
+
+318
+00:20:42,000 --> 00:20:44,000
+["PAT MORITA"]
+Are you calm now?
+ເຈົ້າສະຫງົບໃຈແລ້ວບໍ?
+
+319
+00:20:44,500 --> 00:20:46,500
+[HAL]
+Yeah, I'm okay.
+ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+320
+00:20:47,000 --> 00:20:50,500
+["PAT MORITA"]
+Good, because we've got a lot of work to do.
+ດີ, ເພາະວ່າພວກເຮົາມີວຽກຫຼາຍຢ່າງທີ່ຈະເຮັດ.
+
+321
+00:20:51,000 --> 00:20:53,100
+[HAL]
+What the hell was that for?
+ນັ້ນເປັນຫຍັງ?
+
+322
+00:20:53,600 --> 00:20:55,700
+["PAT MORITA"]
+Rule number one: expect the unexpected.
+ກົດລະບຽບອັນດັບຫນຶ່ງ: ຄາດຫວັງສິ່ງທີ່ບໍ່ຄາດຫວັງ.
+
+323
+00:20:56,200 --> 00:20:59,700
+[HAL]
+Can you just tell me what this is all about?
+ເຈົ້າບອກຂ້ອຍໄດ້ບໍວ່າເລື່ອງນີ້ເປັນຫຍັງ?
+
+324
+00:21:00,200 --> 00:21:06,200
+["PAT MORITA"]
+The heavens are not in the habit of bestowing a gift such as this to just anyone. You are being rewarded for being a man of great moral fortitude with an unwavering belief in humanity.
+ສະຫວັນບໍ່ໄດ້ເປັນນິໄສທີ່ຈະໃຫ້ຂອງຂວັນແບບນີ້ໃຫ້ພຽງແຕ່ໃຜ. ເຈົ້າ ກໍາ ລັງໄດ້ຮັບລາງວັນ ສໍາ
+ລັບເປັນຜູ້ຊາຍທີ່ມີຄວາມເຂັ້ມແຂງທາງດ້ານສິນທໍາທີ່ຍິ່ງໃຫຍ່ດ້ວຍຄວາມເຊື່ອທີ່ບໍ່ສັ່ນສະເທືອນໃນມະນຸດ.
+
+325
+00:21:06,700 --> 00:21:08,700
+[HAL]
+That's me alright.
+ນັ້ນແມ່ນຂ້ອຍດີ.
+
+326
+00:21:09,200 --> 00:21:15,200
+["PAT MORITA"]
+I am to train you so you may fulfill your destiny to defeat the great menace to Metro City: Master Mind.
+ຂ້ອຍຈະຝຶກອົບຮົມເຈົ້າເພື່ອໃຫ້ເຈົ້າສາມາດປະຕິບັດຕາມຈຸດຫມາຍປາຍທາງຂອງທ່ານເພື່ອເອົາຊະນະໄພຂົ່ມຂູ່ທີ່ຍິ່ງໃຫຍ່ຕໍ່ເມືອງເມຕໂຣ
+: ຈິດໃຈຜູ້ເປັນເຈົ້າ.
+
+327
+00:21:15,700 --> 00:21:17,700
+["PAT MORITA"]
+Come.
+ມາແລ້ວ.
+
+328
+00:21:18,200 --> 00:21:20,200
+[HAL]
+We're are we going? 49.
+ພວກເຮົາ ກໍາ ລັງໄປບໍ? 49.
+
+329
+00:21:20,700 --> 00:21:22,700
+["PAT MORITA"]
+To train.
+ເພື່ອຝຶກອົບຮົມ.
+
+330
+00:21:23,200 --> 00:21:29,200
+["PAT MORITA"]
+Strength is just as much in the mind as it is the muscle. Remember, both need to be exercised.
+ຄວາມເຂັ້ມແຂງແມ່ນຢູ່ໃນຈິດໃຈເທົ່າກັບມັນເປັນກ້າມຊີ້ນ
+. ຈື່ໄວ້ວ່າທັງສອງຕ້ອງອອກ ກໍາ ລັງກາຍ.
+
+331
+00:21:29,700 --> 00:21:31,700
+[I'M LIFTING A FREAKING CAR!!!]
+Pat leans on the HORN.
+ປັດຍືນຢູ່ເທິງຮໍນ.
+
+332
+00:21:32,200 --> 00:21:34,200
+["PAT MORITA"]
+Hey, Corky? You listening?
+ເຮ້, ຄໍເກີ? ເຈົ້າຟັງບໍ?
+
+333
+00:21:34,700 --> 00:21:36,700
+[HAL]
+Yeah, work both muscles.
+ແມ່ນແລ້ວ, ເຮັດວຽກກ້າມຊີ້ນທັງສອງ.
+
+334
+00:21:37,200 --> 00:21:39,200
+["PAT MORITA"]
+Trust me.
+ເຊື່ອຂ້ອຍ.
+
+335
+00:21:39,700 --> 00:21:41,700
+[HAL]
+What are you doing!?
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ!?
+
+336
+00:21:42,200 --> 00:21:44,200
+["PAT MORITA"]
+An invulnerability test. Something wrong?
+ການທົດສອບຄວາມອ່ອນແອ. ມີຫຍັງຜິດບໍ?
+
+337
+00:21:44,700 --> 00:21:49,250
+[HAL]
+Uh...yeah. I would prefer not to get shot. Do not fire that thing!
+ໂອ້... ແມ່ນແລ້ວ. ຂ້ອຍມັກບໍ່ຖືກຍິງ. ຢ່າຍິງສິ່ງນັ້ນ!
+
+338
+00:21:49,750 --> 00:21:51,750
+["PAT MORITA"]
+You're bulletproof.
+ເຈົ້າປ້ອງກັນລູກປືນ.
+
+339
+00:21:52,250 --> 00:21:54,700
+[HAL]
+Okay, do you know that for sure?
+ດີແລ້ວ, ເຈົ້າແນ່ໃຈບໍ?
+
+340
+00:21:55,200 --> 00:21:57,200
+["PAT MORITA"]
+I do now.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+341
+00:21:57,700 --> 00:21:59,700
+[HAL]
+You suck.
+ເຈົ້າໂຊກຮ້າຍ.
+
+342
+00:22:00,200 --> 00:22:06,150
+[HAL]
+Ice Man, I got a bogie on my tail. Two Russian Migs coming in hard and fast.
+ຜູ້ຊາຍນ້ ໍາ ກ້ອນ, ຂ້ອຍມີໂບຈີຢູ່ຕາມຫຼັງຂອງຂ້ອຍ
+. ມີມິຈ໌ຣັດເຊຍສອງຄົນເຂົ້າມາຢ່າງແຂງແຮງແລະໄວ.
+
+343
+00:22:06,650 --> 00:22:08,650
+["PAT MORITA"]
+Hey!
+ເຮ້!
+
+344
+00:22:09,150 --> 00:22:11,150
+[HAL]
+What?
+ຫຍັງ?
+
+345
+00:22:11,650 --> 00:22:14,800
+["PAT MORITA"]
+What did I tell you? Stomach down, hands up.
+ຂ້ອຍບອກເຈົ້າຫຍັງ? ທ້ອງລົງ, ມືຂຶ້ນ.
+
+346
+00:22:15,300 --> 00:22:17,300
+[HAL]
+God, I feel so gay.
+ພຣະເຈົ້າ, ຂ້ອຍຮູ້ສຶກເປັນ gay ຫຼາຍ.
+
+347
+00:22:17,800 --> 00:22:19,800
+["PAT MORITA"]
+What is it? 51.
+ມັນເປັນຫຍັງ? 51.
+
+348
+00:22:20,300 --> 00:22:22,300
+[ROXANNE]
+John?
+ຈອນ?
+
+349
+00:22:22,800 --> 00:22:27,700
+[YEEEE HAWWWW!]
+Pat turns his attention back to the phone, talking in his John Cusack voice.
+ປັດຫັນຄວາມສົນໃຈຄືນໄປບ່ອນໂທລະສັບ, ເວົ້າດ້ວຍສຽງຈອນ ຄູຊາຄ໌ຂອງລາວ.
+
+350
+00:22:28,200 --> 00:22:30,200
+["PAT MORITA"]
+Yes, it's John Cusack.
+ແມ່ນແລ້ວ, ມັນແມ່ນຈອນ ຄູຊາກ.
+
+351
+00:22:30,700 --> 00:22:35,250
+[ROXANNE]
+Hi, it's Roxanne. Listen, I...I really enjoyed talking with you the other day.
+ສະບາຍດີ, ມັນແມ່ນໂຣຊານ. ຟັງ, ຂ້ອຍ...
+ຂ້ອຍມີຄວາມສຸກທີ່ເວົ້າກັບເຈົ້າໃນມື້ອື່ນ.
+
+352
+00:22:35,750 --> 00:22:37,750
+["PAT MORITA"]
+...As did I.
+ເຊັ່ນດຽວກັນກັບຂ້ອຍ.
+
+353
+00:22:38,250 --> 00:22:44,250
+[ROXANNE]
+Great. God, I feel really silly, and if you have a lot going on I totally understand. But, I was wondering if you maybe wanted to have lunch.
+ດີເລີດ. ພຣະເຈົ້າ, ຂ້ອຍຮູ້ສຶກໂງ່ແທ້ໆ, ແລະຖ້າເຈົ້າມີຫຼາຍຢ່າງເກີດຂຶ້ນຂ້ອຍເຂົ້າໃຈຢ່າງເຕັມທີ່
+. ແຕ່, ຂ້ອຍ ກໍາ ລັງສົງໄສວ່າເຈົ້າອາດຈະຢາກກິນອາຫານທ່ຽງບໍ.
+
+354
+00:22:44,750 --> 00:22:46,750
+["PAT MORITA"]
+I'd love to!
+ຂ້ອຍຢາກເຮັດ!
+
+355
+00:22:47,250 --> 00:22:49,700
+["PAT MORITA"]
+I mean, I AM a little hungry.
+ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍຫິວຫນ້ອຍຫນຶ່ງ.
+
+356
+00:22:50,200 --> 00:22:53,000
+[ROXANNE]
+Great. How does the park sound, around noon-ish?
+ດີເລີດ. ສວນສາທາລະນະສຽງແນວໃດ, ປະມານຕອນທ່ຽງ?
+
+357
+00:22:53,500 --> 00:22:55,500
+["PAT MORITA"]
+Sure!
+ແນ່ນອນ!
+
+358
+00:22:56,000 --> 00:22:58,000
+[ROXANNE]
+Great, see you then. 52.
+ດີເລີດ, ພົບກັນຫຼັງຈາກນັ້ນ. 52.
+
+359
+00:22:58,500 --> 00:23:04,500
+[HAL]
+WHOOOOA! Man, that is so cool. It's like fly - Oh my God, I almost said it was like flying.
+WOOOOA! ຜູ້ຊາຍ, ມັນເຢັນຫຼາຍ. ມັນຄືກັບບິນ - ໂອ້
+ພຣະເຈົ້າຂອງຂ້ອຍ, ຂ້ອຍເກືອບເວົ້າວ່າມັນຄືກັບການບິນ.
+
+360
+00:23:05,000 --> 00:23:10,600
+["PAT MORITA"]
+For the rest of the day I want you to continue to practice your flying posture.
+ສໍາລັບສ່ວນທີ່ເຫຼືອຂອງມື້ຂ້ອຍຢາກໃຫ້ເຈົ້າສືບຕໍ່ຝຶກຊ້ອມການຢືນບິນຂອງທ່ານ
+.
+
+361
+00:23:11,100 --> 00:23:13,100
+[HAL]
+Why, where're ya going?
+ເປັນຫຍັງ, ເຈົ້າໄປໃສ?
+
+362
+00:23:13,600 --> 00:23:15,600
+["PAT MORITA"]
+...To do something...mysterious ...and Asian.
+ເພື່ອເຮັດບາງສິ່ງບາງຢ່າງ... ທີ່ລຶກລັບ... ແລະອາຊີ.
+
+363
+00:23:16,100 --> 00:23:19,600
+[HAL]
+Say no more, bro. I'll just keep at it, then.
+ຢ່າເວົ້າອີກຕໍ່ໄປ, ອ້າຍ. ຂ້ອຍພຽງແຕ່ຈະສືບຕໍ່ມັນ, ຫຼັງຈາກນັ້ນ.
+
+364
+00:23:20,100 --> 00:23:22,100
+[ROXANNE]
+How's your sandwich?
+ແຊນວິດຈ໌ຂອງທ່ານເປັນແນວໃດ?
+
+365
+00:23:22,600 --> 00:23:24,600
+["JOHN CUSACK"]
+It's quite delicious.
+ມັນແຊບຫຼາຍ.
+
+366
+00:23:25,100 --> 00:23:31,100
+[ROXANNE]
+Hope you don't think I'm too forward. Some men are intimidated when a woman asks them out. I just find you really easy to talk to.
+ຂ້ອຍຫວັງວ່າເຈົ້າບໍ່ຄິດວ່າຂ້ອຍກ້າວຫນ້າເກີນໄປ.
+ຜູ້ຊາຍບາງຄົນຢ້ານກົວເມື່ອແມ່ຍິງຂໍໃຫ້ພວກເຂົາອອກໄປ. ຂ້ອຍພຽງແຕ່ພົບວ່າເຈົ້າງ່າຍທີ່ຈະເວົ້າກັບແທ້ໆ.
+
+367
+00:23:31,600 --> 00:23:33,600
+["JOHN CUSACK"]
+And I you.
+ແລະຂ້ອຍເຈົ້າ.
+
+368
+00:23:34,100 --> 00:23:38,300
+[ROXANNE]
+You know, you're not at all like you are in the movies.
+ເຈົ້າຮູ້ແລ້ວ, ເຈົ້າບໍ່ຄືກັບເຈົ້າໃນຮູບເງົາເລີຍ.
+
+369
+00:23:38,800 --> 00:23:40,800
+["JOHN CUSACK"]
+I'm not? 53.
+ຂ້ອຍບໍ່ແມ່ນບໍ? 53.
+
+370
+00:23:41,300 --> 00:23:45,850
+[ROXANNE]
+Yeah. I don't know - You have this strange, refined way of speaking.
+ແມ່ນແລ້ວ. ຂ້ອຍບໍ່ຮູ້ - ເຈົ້າມີວິທີເວົ້າທີ່ແປກໃຈແລະລະອຽດອ່ອນນີ້.
+
+371
+00:23:46,350 --> 00:23:48,450
+["JOHN CUSACK"]
+I do? That is most interesting.
+ຂ້ອຍເຮັດບໍ? ນັ້ນເປັນທີ່ຫນ້າສົນໃຈຫຼາຍ.
+
+372
+00:23:48,950 --> 00:23:54,950
+[ROXANNE]
+Anyway, when we were talking the other day I just felt, even though we only talked for a couple of hours, that we've known each other for years.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ເມື່ອພວກເຮົາ ກໍາ ລັງເວົ້າໃນມື້ອື່ນຂ້ອຍພຽງແຕ່ຮູ້ສຶກວ່າ,
+ເຖິງແມ່ນວ່າພວກເຮົາເວົ້າພຽງແຕ່ສອງສາມຊົ່ວໂມງເທົ່ານັ້ນ, ວ່າພວກເຮົາຮູ້ຈັກກັນເປັນເວລາຫຼາຍປີແລ້ວ.
+
+373
+00:23:55,450 --> 00:23:57,550
+["JOHN CUSACK"]
+I know just what you mean.
+ຂ້ອຍຮູ້ວ່າເຈົ້າຫມາຍຄວາມວ່າແນວໃດ.
+
+374
+00:23:58,050 --> 00:24:00,500
+[ROXANNE]
+You know what? This sandwich is disgusting.
+ເຈົ້າຮູ້ບໍ? ແຊນວິດຈ໌ນີ້ກຽດຊັງ.
+
+375
+00:24:01,000 --> 00:24:06,600
+[ROXANNE]
+Of course I already ate half of it. I wonder what that says about my character?
+ແນ່ນອນວ່າຂ້ອຍໄດ້ກິນເຄິ່ງຫນຶ່ງແລ້ວ.
+ຂ້ອຍຢາກຮູ້ວ່າມັນເວົ້າຫຍັງກ່ຽວກັບຕົວລະຄອນຂອງຂ້ອຍ?
+
+376
+00:24:07,100 --> 00:24:13,100
+["JOHN CUSACK"]
+It means you don't give up on a sandwich. You see that it has potential, and you give it every chance to be all it can be.
+ມັນຫມາຍຄວາມວ່າເຈົ້າບໍ່ປະຖິ້ມແຊນວິດຈ໌. ເຈົ້າເຫັນວ່າມັນມີຄວາມສາມາດ
+, ແລະເຈົ້າໃຫ້ມັນໂອກາດທຸກຢ່າງທີ່ຈະເປັນທຸກຢ່າງທີ່ມັນສາມາດເປັນໄດ້.
+
+377
+00:24:13,600 --> 00:24:19,600
+[ROXANNE]
+Thanks, but knowing me, I was probably projecting my expectations of what a lunch should be on the sandwich. It might have been okay at first, but I just made it bitter.
+ຂອບໃຈ, ແຕ່ຮູ້ຂ້ອຍ, ຂ້ອຍອາດຈະຄາດຫວັງຄວາມຄາດຫວັງຂອງຂ້ອຍວ່າອາຫານທ່ຽງຄວນເປັນຫຍັງໃນແຊນວິດຈ໌
+. ມັນອາດຈະບໍ່ເປັນຫຍັງຢູ່ເບື້ອງຕົ້ນ, ແຕ່ຂ້ອຍພຽງແຕ່ເຮັດໃຫ້ມັນແຊກແຊງ.
+
+378
+00:24:20,100 --> 00:24:24,650
+["JOHN CUSACK"]
+Is that what happened with your last sandwich - I mean, boyfriend? 54.
+ນັ້ນແມ່ນສິ່ງທີ່ເກີດຂຶ້ນກັບແຊນວິດຈ໌ສຸດທ້າຍຂອງທ່ານ
+- ຂ້ອຍຫມາຍຄວາມວ່າ, ເພື່ອນຊາຍ? 54.
+
+379
+00:24:25,150 --> 00:24:31,150
+[ROXANNE]
+When I look back, I probably shouldn't of expected so much from him. He was already a giving person. You know, one of those go out and save the world types.
+ເມື່ອຂ້ອຍເບິ່ງຫຼັງ, ຂ້ອຍອາດຈະບໍ່ຄວນຄາດຫວັງຫຼາຍຈາກລາວ.
+ລາວເປັນຄົນໃຫ້ແລ້ວ. ເຈົ້າຮູ້ແລ້ວ, ຫນຶ່ງ ໃນພວກນັ້ນອອກໄປແລະຊ່ວຍປະເພດໂລກ.
+
+380
+00:24:31,650 --> 00:24:33,650
+["JOHN CUSACK"]
+I've run into a few.
+ຂ້ອຍພົບບາງຄົນແລ້ວ.
+
+381
+00:24:34,150 --> 00:24:39,050
+[ROXANNE]
+I was selfish, I guess. I didn't want to share him with anybody else.
+ຂ້ອຍເປັນຕົວເອງ, ຂ້ອຍຄິດວ່າ. ຂ້ອຍບໍ່ຢາກແບ່ງປັນລາວກັບຄົນອື່ນ.
+
+382
+00:24:39,550 --> 00:24:42,350
+["JOHN CUSACK"]
+It sounds like he was a special man.
+ມັນເບິ່ງຄືວ່າລາວເປັນຜູ້ຊາຍພິເສດ.
+
+383
+00:24:42,850 --> 00:24:44,850
+[ROXANNE]
+They broke the mold.
+ພວກເຂົາໄດ້ທໍາລາຍຮູບແບບ.
+
+384
+00:24:45,350 --> 00:24:47,350
+["JOHN CUSACK"]
+Perhaps not.
+ບາງທີບໍ່ແມ່ນ.
+
+385
+00:24:47,850 --> 00:24:49,850
+[TITAN]
+What's the "T" stand for?
+ຕົວອັກສອນ"T" ຫມາຍ ຄວາມວ່າແນວໃດ?
+
+386
+00:24:50,350 --> 00:24:52,350
+["PAT MORITA"]
+Titan.
+ໄຕຕັນ.
+
+387
+00:24:52,850 --> 00:24:54,850
+[TITAN]
+What's that supposed to mean?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ?
+
+388
+00:24:55,350 --> 00:24:59,900
+["PAT MORITA"]
+It's from Roman mythology. Zeus's father...oh, just go with it. You look perfect.
+ມັນມາຈາກນິທານໂຣມ. ພໍ່ຂອງເຈວສ໌... ໂອ້,
+ພຽງແຕ່ໄປກັບມັນ. ເຈົ້າເບິ່ງຄືວ່າສົມບູນແບບ.
+
+389
+00:25:00,400 --> 00:25:06,400
+[TITAN]
+I don't think this mask is big enough. Are you sure no one is gonna recognize me? 55.
+ຂ້ອຍບໍ່ຄິດວ່າ ຫນ້າ ກາກນີ້ໃຫຍ່ພໍ.
+ເຈົ້າແນ່ໃຈວ່າບໍ່ມີໃຜຈະຮູ້ຈັກຂ້ອຍບໍ? 55.
+
+390
+00:25:06,900 --> 00:25:10,400
+["PAT MORITA"]
+It's fine, just don't slouch. It's all in the posture.
+ມັນບໍ່ເປັນຫຍັງ, ພຽງແຕ່ຢ່າສັ່ນສະເທືອນ
+. ມັນທັງ ຫມົດ ແມ່ນຢູ່ໃນທ່າທາງ.
+
+391
+00:25:10,900 --> 00:25:12,900
+["PAT MORITA"]
+It is time.
+ມັນເຖິງເວລາແລ້ວ.
+
+392
+00:25:13,400 --> 00:25:17,600
+[JOHN]
+Alright folks, this is a robbery. Nobody moves - yadda, yadda, yadda...
+ດີແລ້ວຄົນ, ນີ້ແມ່ນການລັກລອບ.
+ບໍ່ມີໃຜເຄື່ອນຍ້າຍ - yadda, yadda, Yadda...
+
+393
+00:25:18,100 --> 00:25:20,100
+[GEORGE]
+The safe. Let's go.
+ກະຕູ້ເງິນ. ໄປ.
+
+394
+00:25:20,600 --> 00:25:22,600
+[BANK MANAGER]
+Okay, just don't hurt anyone.
+ດີ, ພຽງແຕ່ຢ່າເຮັດໃຫ້ໃຜເຈັບປວດ.
+
+395
+00:25:23,100 --> 00:25:25,100
+[GEORGE]
+Yeah, yeah, yeah.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
+
+396
+00:25:25,600 --> 00:25:30,500
+[TITAN]
+Well, boys, there's no need for all this just to get the free toaster.
+ດີ, ພວກຜູ້ຊາຍ, ມັນບໍ່ຈໍາເປັນຕ້ອງເຮັດສິ່ງທັງ
+ຫມົດ ນີ້ພຽງແຕ່ເພື່ອໄດ້ຮັບເຄື່ອງຕົ້ມຟຣີ.
+
+397
+00:25:31,000 --> 00:25:33,100
+[PAUL]
+What are you suppose to be?
+ເຈົ້າຄິດວ່າເປັນຫຍັງ?
+
+398
+00:25:33,600 --> 00:25:35,600
+[TITAN]
+Justice.
+ຄວາມຍຸຕິທໍາ.
+
+399
+00:25:36,100 --> 00:25:38,100
+[GEORGE]
+Well, justice, suck on this...
+ດີ, ຄວາມຍຸຕິທໍາ, ດູດສິ່ງນີ້...
+
+400
+00:25:38,600 --> 00:25:40,600
+[TITAN]
+Now it's my turn.
+ດຽວນີ້ມັນເປັນເວລາຂອງຂ້ອຍ.
+
+401
+00:25:41,100 --> 00:25:43,200
+[TITAN]
+Hey, George, here comes the sun.
+ເຮ້, ຈໍຈ໌, ແສງຕາເວັນມາແລ້ວ.
+
+402
+00:25:43,700 --> 00:25:46,850
+[TITAN]
+Say, Paul, your mother should know...that you're a scumbag.
+ເວົ້າ, ໂປລ, ແມ່ຂອງເຈົ້າຄວນຮູ້... ວ່າເຈົ້າເປັນຄົນໂຊກຮ້າຍ.
+
+403
+00:25:47,350 --> 00:25:49,450
+[TITAN]
+John, all you need is love...
+ຈອນ, ເຈົ້າພຽງແຕ່ຕ້ອງການຄວາມຮັກເທົ່ານັ້ນ...
+
+404
+00:25:49,950 --> 00:25:51,950
+[TITAN]
+...and a good urologist. 57.
+... ແລະນັກວິຊາການທ້ອງຖິ່ນທີ່ດີ. 57.
+
+405
+00:25:52,450 --> 00:25:54,450
+[HAL]
+Well, Ringo...um...um...you're under arrest.
+ດີ, ຣິງໂກ... ອູມ... ອູດ... ເຈົ້າຖືກຈັບກຸມແລ້ວ.
+
+406
+00:25:54,950 --> 00:26:00,950
+[BANK MANAGER]
+On behalf of the First National Bank of Metro City, I'd like to offer you a reward for your act of bravery.
+ໃນນາມທະນາຄານແຫ່ງຊາດແຫ່ງທໍາອິດຂອງເມືອງເມຕໂຣ,
+ຂ້ອຍຢາກສະເຫນີເຈົ້າລາງວັນ ສໍາ ລັບການກະທໍາທີ່ກ້າຫານຂອງທ່ານ.
+
+407
+00:26:01,450 --> 00:26:03,450
+[TITAN]
+Ten thousand dollars!
+ເງິນສິບພັນໂດລາ!
+
+408
+00:26:03,950 --> 00:26:07,100
+[TITAN]
+I...can't except this. Law and order is it's own...um...reward.
+ຂ້ອຍ... ບໍ່ສາມາດຍົກເວັ້ນສິ່ງນີ້ໄດ້.
+ກົດຫມາຍແລະລະບຽບການແມ່ນມັນເອງ... ອູມ... ລາງວັນ.
+
+409
+00:26:07,600 --> 00:26:09,600
+[BRAD HELMS]
+Not so fast, Roxanne.
+ບໍ່ໄວຫຼາຍ, ໂຣຊານ.
+
+410
+00:26:10,100 --> 00:26:12,100
+[BRAD HELMS]
+This story's mine. 58.
+ເລື່ອງນີ້ແມ່ນຂອງຂ້ອຍ. 58.
+
+411
+00:26:12,600 --> 00:26:17,500
+[ROXANNE]
+Listen, Brad. We were just in the area. I was just trying to -
+ຟັງແບຣດ. ພວກເຮົາພຽງແຕ່ຢູ່ໃນເຂດນັ້ນ. ຂ້ອຍພຽງແຕ່ພະຍາຍາມ -
+
+412
+00:26:18,000 --> 00:26:24,000
+[BRAD HELMS]
+I've been in this business long enough to know pretty well what you were "just trying to do." Besides, I heard you couldn't take the big game anymore and were put on fluff detail?
+ຂ້ອຍຢູ່ໃນທຸລະກິດນີ້ດົນພໍທີ່ຈະຮູ້ວ່າເຈົ້າ ກໍາ ລັງ" ພຽງແຕ່ພະຍາຍາມເຮັດຫຍັງ." ນອກຈາກນັ້ນ
+, ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າບໍ່ສາມາດເອົາເກມໃຫຍ່ໄດ້ອີກຕໍ່ໄປແລະຖືກໃສ່ລາຍລະອຽດ fluff ໄດ້ບໍ?
+
+413
+00:26:24,500 --> 00:26:27,650
+[SETH]
+You're not gonna take that from him, are you?
+ເຈົ້າຈະບໍ່ເອົາສິ່ງນັ້ນຈາກລາວ, ແມ່ນບໍ?
+
+414
+00:26:28,150 --> 00:26:32,350
+[ROXANNE]
+He's right. Old habit, I guess.  We'll get out of your way.
+ລາວເວົ້າຖືກຕ້ອງ. ນິໄສເກົ່າ, ຂ້ອຍຄິດວ່າ
+. ພວກເຮົາຈະອອກຈາກທາງຂອງທ່ານ.
+
+415
+00:26:32,850 --> 00:26:36,700
+[BRAD HELMS]
+Besides, I'm sure there's a pancake supper somewhere that needs covering.
+ນອກຈາກນັ້ນ, ຂ້ອຍແນ່ໃຈວ່າມີອາຫານຄໍ່າປານເຄັກຢູ່ບ່ອນໃດທີ່ຕ້ອງປົກຄຸມ.
+
+416
+00:26:37,200 --> 00:26:43,200
+[BRAD HELMS]
+For months now, since the death of Uberman, the citizens of Metro City have been holding out for a hero. Well, it appears they won't have to hold out for much longer as a new costumed crusader has suddenly stormed onto the scene. Today, at the Metro Savings and Trust, a masked mystery man single-handedly defeated "The Fab Four Gang." Just who is this new caped avenger?
+ເປັນເວລາຫຼາຍເດືອນແລ້ວ, ນັບຕັ້ງແຕ່ການຕາຍຂອງອູເບີແມນ, ພົນລະເມືອງຂອງເມືອງແມຕຣູໄດ້ລໍຖ້າຄົນວິລະຊົນ. ດີ, ມັນເບິ່ງຄືວ່າພວກເຂົາຈະບໍ່ຕ້ອງຍືນຍົງອີກດົນນານເພາະວ່ານັກຂ້າມຊາດຊຸດໃຫມ່ໄດ້ໂຈມຕີໃນຈຸດເກີດເຫດຢ່າງກະທັນຫັນ
+. ມື້ນີ້, ຢູ່ທີ່ການປະຢັດແລະຄວາມເຊື່ອຖືແມັດຣູ, ຜູ້ຊາຍຄວາມລັບທີ່ໃສ່ ຫນ້າ ກາກໄດ້ເອົາຊະນະ"ກຸ່ມແຟບສີ່ຄົນດ້ວຍມືດຽວ." ພຽງແຕ່ຜູ້ແກ້
+
+417
+00:26:43,700 --> 00:26:48,600
+[BRAD HELMS]
+I'm sure all of our viewers are now wondering, what's the "T" stand for?
+ຂ້ອຍແນ່ໃຈວ່າຜູ້ເບິ່ງຂອງພວກເຮົາທັງ ຫມົດ ດຽວນີ້
+ກໍາ ລັງສົງໄສວ່າ, ຕົວອັກສອນ"T" ຫມາຍ ເຖິງຫຍັງ?
+
+418
+00:26:49,100 --> 00:26:55,100
+[TITAN]
+It's a message to all the scum out there. Uberman may be gone, but Metro City has a new protector, and his name is "Tighten!"
+ມັນເປັນຂໍ້ຄວາມຕໍ່ຄົນໂຊກແຊງທັງ ຫມົດ ຢູ່ບ່ອນນັ້ນ. Uberman ອາດຈະຫາຍໄປແລ້ວ
+, ແຕ່ເມືອງເມຕຣໍມີຜູ້ປົກປ້ອງ ໃຫມ່, ແລະຊື່ຂອງລາວແມ່ນ"Tighten!"
+
+419
+00:26:55,600 --> 00:26:57,600
+[REPORTER]
+How do you spell that?
+ເຈົ້າຂຽນມັນແນວໃດ?
+
+420
+00:26:58,100 --> 00:27:02,300
+[MASTER MIND]
+Oh, for heaven's sake. I can't believe it. He misspelled his name.
+ໂອ້, ເພື່ອຄວາມຮັກຂອງສະຫວັນ. ຂ້ອຍບໍ່ເຊື່ອມັນ. ລາວຂຽນຊື່ຂອງລາວຜິດ.
+
+421
+00:27:02,800 --> 00:27:04,800
+[MASTER MIND]
+No matter, I suppose.
+ບໍ່ເປັນຫຍັງ, ຂ້ອຍຄິດວ່າ.
+
+422
+00:27:05,300 --> 00:27:11,300
+[MASTER MIND]
+We've now fully established Titan as Metro City's hero. They will love him just as they loved Uberman. Everything is going according to plan.
+ດຽວນີ້ພວກເຮົາໄດ້ສ້າງຕັ້ງໄຕຕານຢ່າງເຕັມທີ່ເປັນວິລະຊົນຂອງເມືອງເມຕຣູ.
+ພວກເຂົາຈະຮັກລາວຄືກັບທີ່ພວກເຂົາຮັກ Uberman. ທຸກຢ່າງ ກໍາ ລັງດໍາເນີນໄປຕາມແຜນການ.
+
+423
+00:27:11,800 --> 00:27:14,950
+[EINSTEIN]
+Yeah, if the plan is getting us in jail.
+ແມ່ນແລ້ວ, ຖ້າແຜນການຈະເຮັດໃຫ້ພວກເຮົາຢູ່ໃນຄຸກ.
+
+424
+00:27:15,450 --> 00:27:21,450
+[MASTER MIND]
+You know, Einstein, maybe I should have called you Socrates. He also didn't know when to keep his thoughts to himself.
+ເຈົ້າຮູ້ແລ້ວ, ໄອສໄຕນ໌, ບາງທີຂ້ອຍຄວນເອີ້ນເຈົ້າວ່າ ໂຊກຣັດສ໌
+. ລາວຍັງບໍ່ຮູ້ວ່າຈະຮັກສາຄວາມຄິດຂອງລາວໄວ້ກັບຕົວເອງເມື່ອໃດ.
+
+425
+00:27:21,950 --> 00:27:27,950
+[EINSTEIN]
+I just fail to see the point in all of this. I mean, why are we creating another superhero when it was such a pain in the ass for you to get rid of the other one? I mean, Uberman is destroyed, we should be using this opportunity to...to...
+ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດເຫັນຈຸດໃນສິ່ງທັງ ຫມົດ ນີ້. ຂ້ອຍຫມາຍຄວາມວ່າ, ເປັນຫຍັງພວກເຮົາຈຶ່ງສ້າງ superhero ອີກຄົນ ຫນຶ່ງ ໃນເວລາທີ່ມັນເປັນຄວາມເຈັບປວດໃນບາກຫຼາຍ
+ສໍາ ລັບເຈົ້າທີ່ຈະ ກໍາ ຈັດຄົນອື່ນ? ຂ້ອຍ ຫມາຍ ຄວາມວ່າ, Uberman ຖືກ ທໍາ ລາຍ, ພວກເຮົາຄວນໃຊ້ໂອກາດນີ້ເພື່ອ... ເພື່ອ...
+
+426
+00:27:28,450 --> 00:27:30,450
+[MASTER MIND]
+To what?
+ເພື່ອຫຍັງ?
+
+427
+00:27:30,950 --> 00:27:36,950
+[EINSTEIN]
+I don't know. To take over the weather, space, the world - whatever super villains are SUPPOSED to do.
+ຂ້ອຍບໍ່ຮູ້. ເພື່ອຮັບຜິດຊອບສະພາບອາກາດ, ອະວະກາດ
+, ໂລກ - ສິ່ງໃດທີ່ຄົນຮ້າຍທີ່ຍິ່ງໃຫຍ່ຄວນເຮັດ.
+
+428
+00:27:37,450 --> 00:27:43,450
+[MASTER MIND]
+The reason someone like you will always be a minion is because you have no foresight. We take over the earth, like you said. Then what? Women? Cars? Money? Even the grandest treasures will lose their lustre if you don't have someone to hold them over.
+ເຫດຜົນທີ່ຄົນຄືກັບເຈົ້າຈະເປັນຄົນຮັບໃຊ້ຢູ່ສະເຫມີແມ່ນຍ້ອນວ່າເຈົ້າບໍ່ມີຄວາມຄາດຫວັງ. ພວກເຮົາເອົາໂລກຂຶ້ນ, ດັ່ງທີ່ທ່ານເວົ້າ.
+ຫຼັງຈາກນັ້ນຫຍັງ? ແມ່ຍິງ? ລົດ? ເງິນ? ເຖິງແມ່ນວ່າຊັບສິນທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດຈະສູນເສຍຄວາມສົດໃສຂອງພວກເຂົາຖ້າເຈົ້າບໍ່ມີໃຜທີ່ຈະຖືພວກມັນຢູ່.
+
+429
+00:27:43,950 --> 00:27:49,950
+[EINSTEIN]
+That's it! This balance of the force bullshit is getting way too Oprah for me. I'm blowing. Who's with me?
+ນັ້ນແມ່ນມັນ! ຄວາມສົມດຸນຂອງຄວາມໂຊກແຊງຂອງກໍາລັງ ກໍາ
+ລັງກາຍເປັນໂອປຣາຫຼາຍເກີນໄປ ສໍາ ລັບຂ້ອຍ. ຂ້ອຍ ກໍາ ລັງພັດລົມ. ໃຜຢູ່ກັບຂ້ອຍ?
+
+430
+00:27:50,450 --> 00:27:52,450
+[MASTER MIND]
+You dare?
+ເຈົ້າກ້າຫານບໍ?
+
+431
+00:27:52,950 --> 00:27:58,950
+[EINSTEIN]
+Yeah, I dare. I'm sick of wearing stupid costumes, and I'm sick of working for a super villain who's turning into a softie. 61.
+ແມ່ນແລ້ວ, ຂ້ອຍກ້າຫານ. ຂ້ອຍເມື່ອຍຈາກການໃສ່ເຄື່ອງນຸ່ງຫົ່ມໂງ່,
+ແລະຂ້ອຍເມື່ອຍທີ່ຈະເຮັດວຽກ ສໍາ ລັບຄົນຮ້າຍທີ່ຍິ່ງໃຫຍ່ທີ່ ກໍາ ລັງກາຍເປັນຄົນອ່ອນແອ. 61.
+
+432
+00:27:59,450 --> 00:28:02,250
+[MASTER MIND]
+What - did - you - call me?
+ເຈົ້າໂທຫາຂ້ອຍແນວໃດ?
+
+433
+00:28:02,750 --> 00:28:08,750
+[EINSTEIN]
+You heard me. You used to be an inhuman monster, now look at you. You're creating super heroes, you don't go with us on robberies anymore, it's been days since you threatened anyone, oh, and not to mention this Roxanne Ritchi thing.
+ເຈົ້າໄດ້ຍິນຂ້ອຍ. ເຈົ້າເຄີຍເປັນໂມສເຕີທີ່ບໍ່ເປັນມະນຸດ, ດຽວນີ້ເບິ່ງຕົວເອງ. ເຈົ້າ ກໍາ ລັງສ້າງວິລະຊົນ super,
+ເຈົ້າບໍ່ໄປກັບພວກເຮົາໃນການລັກລອບອີກຕໍ່ໄປ, ມັນເປັນເວລາຫຼາຍມື້ນັບຕັ້ງແຕ່ເຈົ້າຂົ່ມຂູ່ໃຜ, ໂອ້, ແລະບໍ່ເວົ້າເຖິງເລື່ອງນີ້ Roxanne Ritchi.
+
+434
+00:28:09,250 --> 00:28:11,700
+[MASTER MIND]
+THAT is none of your business, knave!
+ນັ້ນບໍ່ແມ່ນເລື່ອງຂອງເຈົ້າ, ຄົນໂຊກຮ້າຍ!
+
+435
+00:28:12,200 --> 00:28:15,700
+[EINSTEIN]
+Hey, you guys haven't sealed the deal yet, have you?
+ເຮ້, ພວກເຈົ້າຍັງບໍ່ໄດ້ເຊັນຂໍ້ຕົກລົງເທື່ອ, ແມ່ນບໍ?
+
+436
+00:28:16,200 --> 00:28:18,200
+[MASTER MIND]
+Silence!
+ງຽບໆ!
+
+437
+00:28:18,700 --> 00:28:21,150
+[EINSTEIN]
+Oh, Master, your head is so big.
+ໂອ້, ຄູອາຈານ, ຫົວຂອງທ່ານໃຫຍ່ຫຼາຍ.
+
+438
+00:28:21,650 --> 00:28:23,650
+[MASTER MIND]
+I'm warning you, Einstein.
+ຂ້ອຍເຕືອນເຈົ້າ, ໄອສໄຕນ໌.
+
+439
+00:28:24,150 --> 00:28:26,150
+[EINSTEIN]
+Take me!
+ເອົາຂ້ອຍໄປ!
+
+440
+00:28:26,650 --> 00:28:28,650
+[MASTER MIND]
+I said silence!
+ຂ້ອຍບອກວ່າງຽບ!
+
+441
+00:28:29,150 --> 00:28:31,250
+[MASTER MIND]
+Get out of my sight. 62.
+ອອກຈາກສາຍຕາຂອງຂ້ອຍ. 62.
+
+442
+00:28:31,750 --> 00:28:37,750
+[ROXANNE]
+Don't get me wrong, I love being a reporter. I don't think I could do anything else. It's the consequences of what we do that I'm having a problem with.
+ຢ່າເຂົ້າໃຈຂ້ອຍຜິດ, ຂ້ອຍມັກເປັນນັກຂ່າວ. ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍສາມາດເຮັດຫຍັງອີກໄດ້
+. ມັນແມ່ນຜົນກະທົບຈາກສິ່ງທີ່ພວກເຮົາເຮັດທີ່ຂ້ອຍມີບັນຫາ.
+
+443
+00:28:38,250 --> 00:28:40,700
+["JOHN CUSACK"]
+That's where journalistic responsibility comes in, no?
+ນັ້ນແມ່ນບ່ອນທີ່ຄວາມຮັບຜິດຊອບຂອງນັກຂ່າວເຂົ້າມາ, ແມ່ນບໍ?
+
+444
+00:28:41,200 --> 00:28:43,200
+[ROXANNE]
+It's supposed to.
+ມັນຄວນເຮັດ.
+
+445
+00:28:43,700 --> 00:28:46,500
+["JOHN CUSACK"]
+Sounds to me like you're running from something.
+ມັນເບິ່ງຄືວ່າເຈົ້າ ກໍາ ລັງຫນີຈາກບາງສິ່ງບາງຢ່າງ.
+
+446
+00:28:47,000 --> 00:28:52,950
+[ROXANNE]
+I got someone I cared about killed. If it wasn't for me, he wouldn't have been involved.
+ຂ້ອຍມີຄົນທີ່ຂ້ອຍສົນໃຈຖືກຂ້າຕາຍ.
+ຖ້າມັນບໍ່ແມ່ນຂ້ອຍ, ລາວຈະບໍ່ກ່ຽວຂ້ອງ.
+
+447
+00:28:53,450 --> 00:28:59,450
+["JOHN CUSACK"]
+You can't blame yourself. My father used to say each of us must answer the great call to truly feel alive.
+ເຈົ້າບໍ່ສາມາດກ່າວໂທດຕົວເອງໄດ້.
+ພໍ່ຂອງຂ້ອຍເຄີຍເວົ້າວ່າພວກເຮົາແຕ່ລະຄົນຕ້ອງຕອບຄໍາຮ້ອງຂໍທີ່ຍິ່ງໃຫຍ່ເພື່ອຮູ້ສຶກມີຊີວິດຢູ່ແທ້ໆ.
+
+448
+00:28:59,950 --> 00:29:01,950
+[ROXANNE]
+Was he an actor?
+ລາວເປັນນັກສະແດງບໍ?
+
+449
+00:29:02,450 --> 00:29:08,450
+["JOHN CUSACK"]
+...No. He was...a landscaper. And a horrible one. I mean he would fail time and time again at his...landscaping. And sometimes he'd get pretty beaten up or thrown in jail -
+ບໍ່. ລາວເປັນ... ນັກສ້ອມແປງດິນແດນ. ແລະຄົນຮ້າຍແຮງ. ຂ້ອຍຫມາຍຄວາມວ່າລາວຈະລົ້ມເຫຼວເທື່ອລະຄັ້ງອີກຄັ້ງໃນການ
+... ການສ້ອມໃສ. ແລະບາງຄັ້ງລາວຈະຖືກຕີຫຼາຍຫຼືຖືກຖິ້ມໃນຄຸກ -
+
+450
+00:29:08,950 --> 00:29:10,950
+[ROXANNE]
+Jail? 63.
+ຄຸກບໍ? 63.
+
+451
+00:29:11,450 --> 00:29:17,450
+["JOHN CUSACK"]
+My point is he took the good with the bad. He grew a little each time. Improved, learned.
+ຈຸດຂອງຂ້ອຍແມ່ນລາວເອົາສິ່ງດີກັບສິ່ງບໍ່ດີ.
+ລາວເຕີບໃຫຍ່ເລັກນ້ອຍແຕ່ລະຄັ້ງ. ປັບປຸງ, ຮຽນຮູ້.
+
+452
+00:29:17,950 --> 00:29:19,950
+[ROXANNE]
+Was he ever successful?
+ລາວເຄີຍປະສົບຜົນສໍາເລັດບໍ?
+
+453
+00:29:20,450 --> 00:29:22,550
+["JOHN CUSACK"]
+God, no...but don't let deter you.
+ພຣະເຈົ້າ, ບໍ່... ແຕ່ຢ່າປ່ອຍໃຫ້ກີດກັ້ນເຈົ້າ.
+
+454
+00:29:23,050 --> 00:29:29,000
+[ROXANNE]
+Thanks for this. You know, this is embarrassing, but it's been a long time since I -
+ຂອບໃຈ ສໍາ ລັບສິ່ງນີ້. ເຈົ້າຮູ້ແລ້ວ,
+ນີ້ແມ່ນໂຊກຮ້າຍ, ແຕ່ມັນເປັນເວລາດົນນານແລ້ວທີ່ຂ້ອຍ -
+
+455
+00:29:29,500 --> 00:29:34,400
+[ROXANNE]
+I think it's starting to rain. We might want to find a table inside.
+ຂ້ອຍຄິດວ່າມັນເລີ່ມຝົນຕົກແລ້ວ. ພວກເຮົາອາດຈະຢາກຊອກຫາໂຕະພາຍໃນ.
+
+456
+00:29:34,900 --> 00:29:36,900
+["JOHN CUSACK"]
+What were you gonna say?
+ເຈົ້າຈະເວົ້າຫຍັງ?
+
+457
+00:29:37,400 --> 00:29:43,350
+[ROXANNE]
+Oh, I was gonna say...It's been a long time since...well, I've been with someone I...enjoy being with.
+ໂອ້, ຂ້ອຍຈະເວົ້າວ່າ... ມັນເປັນເວລາດົນນານແລ້ວ... ດີ
+, ຂ້ອຍໄດ້ຢູ່ກັບຄົນທີ່ຂ້ອຍ... ມ່ວນຊື່ນກັບການຢູ່ກັບ.
+
+458
+00:29:43,850 --> 00:29:46,650
+["JOHN CUSACK"]
+To people who enjoy being with each other.
+ກັບຄົນທີ່ມັກຢູ່ກັບກັນ.
+
+459
+00:29:47,150 --> 00:29:49,250
+[MASTER MIND]
+Oh, no. Don't look at me.
+ໂອ້, ບໍ່. ຢ່າເບິ່ງຂ້ອຍ.
+
+460
+00:29:49,750 --> 00:29:52,550
+["JOHN CUSACK"]
+Okay, never mind that. Now, where were we?
+ດີ, ບໍ່ສົນໃຈເລື່ອງນັ້ນ. ດຽວນີ້, ພວກເຮົາຢູ່ໃສ?
+
+461
+00:29:53,050 --> 00:29:55,050
+[ROXANNE]
+Oh my God.
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ.
+
+462
+00:29:55,550 --> 00:29:59,050
+[MASTER MIND]
+You're not gonna get all freaky about this, are you?
+ເຈົ້າຈະບໍ່ໂຊກຮ້າຍກ່ຽວກັບເລື່ອງນີ້, ແມ່ນບໍ?
+
+463
+00:29:59,550 --> 00:30:05,550
+[ROXANNE]
+This...this is too much, even for you. God, I go out with you, tell you my innermost thoughts.
+ນີ້ແມ່ນ... ນີ້ແມ່ນຫຼາຍເກີນໄປ, ເຖິງແມ່ນວ່າ ສໍາ ລັບເຈົ້າ. ພຣະເຈົ້າ
+, ຂ້ອຍອອກໄປກັບເຈົ້າ, ບອກເຈົ້າຄວາມຄິດທີ່ເລິກທີ່ສຸດຂອງຂ້ອຍ.
+
+464
+00:30:06,050 --> 00:30:12,050
+[MASTER MIND]
+I only did this because I wanted to talk to you on the same level. You know, without all the baggage?
+ຂ້ອຍເຮັດສິ່ງນີ້ພຽງແຕ່ເພາະວ່າຂ້ອຍຢາກເວົ້າກັບເຈົ້າໃນລະດັບດຽວກັນ
+. ເຈົ້າຮູ້ແລ້ວ, ໂດຍບໍ່ມີຖົງທຸກຢ່າງບໍ?
+
+465
+00:30:12,550 --> 00:30:15,700
+[ROXANNE]
+Baggage? You burned my boyfriend alive, you sick son-of-a-bitch!
+ກະເປົາ? ເຈົ້າໄດ້ເຜົາຜານແຟນຂອງຂ້ອຍຢູ່ອາໄສ
+, ເຈົ້າໂຊກຮ້າຍທີ່ເຈັບປ່ວຍ!
+
+466
+00:30:16,200 --> 00:30:19,000
+[MASTER MIND]
+You see, that's exactly what I'm talking about.
+ເຈົ້າເຫັນແລ້ວ, ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍເວົ້າຢູ່.
+
+467
+00:30:19,500 --> 00:30:21,500
+[MASTER MIND]
+Roxanne!
+ໂຣຊານ!
+
+468
+00:30:22,000 --> 00:30:24,000
+[ROXANNE]
+Stay away from me.
+ຢູ່ຫ່າງຈາກຂ້ອຍ.
+
+469
+00:30:24,500 --> 00:30:26,500
+[MASTER MIND]
+What?
+ຫຍັງ?
+
+470
+00:30:27,000 --> 00:30:33,000
+[MASTER MIND]
+Stupid. What was I thinking? Plato, it's his fault. He's the one who sent me on this weak-willed path. I'll filet his scrotum for this. Me, a creature of evil, in love with Roxanne Ritchi. Preposterous. I hardly give such matters thought
+ຂ້ອຍຄິດຫຍັງ? ປລາຕອນ, ມັນເປັນຄວາມຜິດຂອງລາວ. ລາວເປັນຄົນທີ່ສົ່ງຂ້ອຍໄປຕາມເສັ້ນທາງທີ່ອ່ອນແອນີ້. ຂ້ອຍຈະຍື່ນເອກະສານກະທູ້ຂອງລາວ
+ສໍາ ລັບສິ່ງນີ້. ຂ້າພະເຈົ້າ, ເປັນສັດຮ້າຍ, ຮັກກັບໂຣຊານ ຣິດຊີ. ໂຊກຮ້າຍ. ຂ້ອຍເກືອບບໍ່ຄິດກ່ຽວກັບເລື່ອງດັ່ງກ່າວ
+
+471
+00:30:33,500 --> 00:30:39,500
+[MASTER MIND]
+I should just go up there and just lay it all out to her. "Roxanne, I like you - I always have. Oh, and I'm sorry I blew up your ex.  Yeah, that would go over like a pants-less clown at a child's birthday party. What the hell am I even doing here? Who cares what she thinks? I'm a supervillain and here I am acting like a love struck schoolboy. Forget this. I control my own destiny! 66.
+ຂ້ອຍຄວນພຽງແຕ່ຂຶ້ນໄປບ່ອນນັ້ນແລະພຽງແຕ່ວາງມັນທັງ ຫມົດ ຕໍ່ນາງ. ໂຣຊານ, ຂ້ອຍມັກເຈົ້າ - ຂ້ອຍເຄີຍເຮັດຢູ່ສະເຫມີ. ໂອ້, ແລະຂ້ອຍຂໍໂທດທີ່ຂ້ອຍໄດ້ລະເບີດອະດີດຂອງທ່ານ. ແມ່ນແລ້ວ,
+ນັ້ນຈະຜ່ານໄປຄືກັບຄົນໂຊກແຊງທີ່ບໍ່ມີກະເປົາໃນງານລ້ຽງວັນເກີດຂອງເດັກນ້ອຍ. ຂ້ອຍ ກໍາ ລັງເຮັດຫຍັງຢູ່ບ່ອນນີ້? ໃຜສົນໃຈສິ່ງທີ່ນາງຄິດ? ຂ້ອຍເປັນຄົນຮ້າຍແຮງແລະຢູ່ນີ້ຂ້ອຍ ກໍາ ລັງປະຕິບັດຄືກັບເດັກນ້ອຍໂຮງຮຽນທີ່ຖືກຮັກ. ລືມສິ່ງນີ້. ຂ້ອຍຄ
+
+472
+00:30:40,000 --> 00:30:42,000
+[MASTER MIND]
+Perfect.
+ດີເລີດ.
+
+473
+00:30:42,500 --> 00:30:44,500
+[ROXANNE]
+Damn.
+ສະບາຍດີ.
+
+474
+00:30:45,000 --> 00:30:47,000
+[ROXANNE]
+Please be open.
+ກະລຸນາເປີດ.
+
+475
+00:30:47,500 --> 00:30:49,500
+[ROXANNE]
+Thank God.
+ຂອບໃຈພຣະເຈົ້າ.
+
+476
+00:30:50,000 --> 00:30:52,100
+[ROXANNE]
+A pack of Lady Strikes, please.
+ກະເປົາຂອງ Lady Strikes, ກະລຸນາ.
+
+477
+00:30:52,600 --> 00:30:54,600
+[MASTER MIND]
+Hello, Triple A? 67.
+ສະບາຍດີ, Triple A? 67.
+
+478
+00:30:55,100 --> 00:30:57,100
+[MASTER MIND]
+I'll call you back.
+ຂ້ອຍຈະໂທຫາເຈົ້າຄືນ.
+
+479
+00:30:57,600 --> 00:30:59,600
+[SHOPKEEPER]
+Hey!
+ເຮ້!
+
+480
+00:31:00,100 --> 00:31:02,100
+[SHOTGUN HOODLUM]
+Shut up, Gramps.
+ປິດງຽບ, ພໍ່ເຖົ້າ.
+
+481
+00:31:02,600 --> 00:31:04,600
+[SHOTGUN HOODLUM]
+Gimme that necklace!
+ໃຫ້ສາຍຄໍນັ້ນໃຫ້ຂ້ອຍ!
+
+482
+00:31:05,100 --> 00:31:07,100
+[ROXANNE]
+I don't think so.
+ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ.
+
+483
+00:31:07,600 --> 00:31:09,700
+[SHOTGUN HOODLUM]
+I said give it to me!
+ຂ້ອຍບອກໃຫ້ຂ້ອຍ!
+
+484
+00:31:10,200 --> 00:31:12,200
+[MASTER MIND]
+The lady said no.
+ແມ່ຍິງເວົ້າວ່າ ບໍ່.
+
+485
+00:31:12,700 --> 00:31:15,150
+[SHOTGUN HOODLUM]
+What the hell's that? A super soaker?
+ນັ້ນແມ່ນຫຍັງ? ເຄື່ອງຊຸ່ມຊື່ນບໍ?
+
+486
+00:31:15,650 --> 00:31:17,650
+[MASTER MIND]
+No, it's a goo gun.
+ບໍ່, ມັນເປັນປືນກູ.
+
+487
+00:31:18,150 --> 00:31:20,150
+[SHOTGUN HOODLUM]
+Yeah, what's it do?
+ແມ່ນແລ້ວ, ມັນເຮັດຫຍັງ?
+
+488
+00:31:20,650 --> 00:31:22,650
+[MASTER MIND]
+It goos.
+ມັນໄປ.
+
+489
+00:31:23,150 --> 00:31:25,150
+[MASTER MIND]
+It's...a prototype.
+ມັນເປັນ... ຮູບແບບຕົ້ນຕໍ.
+
+490
+00:31:25,650 --> 00:31:29,150
+[SHOPKEEPER]
+I know you! You Master Brain guy. You a hero.
+ຂ້ອຍຮູ້ຈັກເຈົ້າ! ເຈົ້າເປັນຄົນ Master Brain. ເຈົ້າເປັນວິລະຊົນ.
+
+491
+00:31:29,650 --> 00:31:32,100
+[MASTER MIND]
+Don't - EVER - say that again.
+ຢ່າເວົ້າແບບນັ້ນອີກເທື່ອຫນຶ່ງ.
+
+492
+00:31:32,600 --> 00:31:34,600
+[ROXANNE]
+Hey!
+ເຮ້!
+
+493
+00:31:35,100 --> 00:31:37,550
+[ROXANNE]
+Are you following me or something? 69.
+ເຈົ້າຕິດຕາມຂ້ອຍຫຼືບາງສິ່ງບາງຢ່າງບໍ? 69.
+
+494
+00:31:38,050 --> 00:31:40,050
+[MASTER MIND]
+Don't flatter yourself.
+ຢ່າຊົມເຊີຍຕົວເອງ.
+
+495
+00:31:40,550 --> 00:31:44,050
+[ROXANNE]
+Don't walk away from me when I'm talking to you.
+ຢ່າຍ່າງຈາກຂ້ອຍເມື່ອຂ້ອຍເວົ້າກັບເຈົ້າ.
+
+496
+00:31:44,550 --> 00:31:50,550
+[ROXANNE]
+What a minute...all that stuff you use to say to me when Uberman was alive - about me being the loyal queen by your side as you rule over Metro City. That wasn't just super villain rhetoric, was it? You actually meant it!
+ເປັນນາທີໃດ... ສິ່ງທັງ ຫມົດ ທີ່ເຈົ້າໃຊ້ເພື່ອບອກຂ້ອຍເມື່ອອູເບີແມນຍັງມີຊີວິດຢູ່ - ກ່ຽວກັບຂ້ອຍເປັນລາຊິນີທີ່ຊື່ສັດຢູ່ຂ້າງເຈົ້າໃນຂະນະທີ່ເຈົ້າປົກຄອງເມືອງເມຕໂຣ
+. ນັ້ນບໍ່ແມ່ນພຽງແຕ່ການເວົ້າຂອງຄົນຮ້າຍທີ່ຍິ່ງໃຫຍ່ເທົ່ານັ້ນ, ແມ່ນບໍ? ເຈົ້າເວົ້າແທ້ໆ!
+
+497
+00:31:51,050 --> 00:31:54,200
+[MASTER MIND]
+My, someone has a rather high opinion of themselves.
+ຂ້ອຍ, ບາງຄົນມີຄວາມຄິດເຫັນສູງກ່ຽວກັບຕົວເອງ.
+
+498
+00:31:54,700 --> 00:31:58,550
+[ROXANNE]
+Do you really think I would be with someone like you?
+ເຈົ້າຄິດວ່າຂ້ອຍຈະຢູ່ກັບຄົນຄືກັບເຈົ້າບໍ?
+
+499
+00:31:59,050 --> 00:32:01,050
+[MASTER MIND]
+No.
+ບໍ່
+
+500
+00:32:01,550 --> 00:32:03,550
+[PLATO]
+Everything alright, sir?
+ທຸກຢ່າງດີບໍເດີເດີເດີ?
+
+501
+00:32:04,050 --> 00:32:06,050
+[MASTER MIND]
+Fine, why do you ask?
+ດີ, ເຈົ້າຖາມເປັນຫຍັງ?
+
+502
+00:32:06,550 --> 00:32:08,550
+[PLATO]
+You...just...seem...
+ເຈົ້າ... ພຽງແຕ່... ເບິ່ງຄືວ່າ...
+
+503
+00:32:09,050 --> 00:32:11,050
+[MASTER MIND]
+Go on.
+ໄປ.
+
+504
+00:32:11,550 --> 00:32:13,550
+[PLATO]
+...distracted.
+... ສັ່ນສະເທືອນ.
+
+505
+00:32:14,050 --> 00:32:18,600
+[MASTER MIND]
+Just with business, my minion. Just with business. I've decided it is time.
+ພຽງແຕ່ກັບທຸລະກິດ, ຄົນຮັບໃຊ້ຂອງຂ້ອຍ. ພຽງແຕ່ວຽກງານ
+. ຂ້ອຍໄດ້ຕັດສິນໃຈວ່າມັນເຖິງເວລາແລ້ວ.
+
+506
+00:32:19,100 --> 00:32:21,100
+[PLATO]
+You mean?
+ເຈົ້າຫມາຍຄວາມວ່າບໍ?
+
+507
+00:32:21,600 --> 00:32:26,500
+[MASTER MIND]
+Yes, we've created our hero, now it's time to give him a little motivation.
+ແມ່ນແລ້ວ, ພວກເຮົາໄດ້ສ້າງວິລະຊົນຂອງພວກເຮົາແລ້ວ,
+ດຽວນີ້ມັນເຖິງເວລາທີ່ຈະໃຫ້ລາວແຮງຈູງໃຈ ຫນ້ອຍ ຫນຶ່ງ.
+
+508
+00:32:27,000 --> 00:32:29,000
+[DA VINCI]
+How do we do that?
+ພວກເຮົາເຮັດແບບນັ້ນແນວໃດ?
+
+509
+00:32:29,500 --> 00:32:35,500
+[MASTER MIND]
+To be simply good is not enough. A hero must be driven by an almost relentless desire to right a wrong that can never be corrected.
+ການເປັນຄົນດີພຽງແຕ່ບໍ່ພຽງພໍ.
+ນັກວິລະຊົນຕ້ອງຖືກຂັບເຄື່ອນໂດຍຄວາມປາຖະຫນາທີ່ເກືອບບໍ່ຢຸດຢັ້ງທີ່ຈະແກ້ໄຂຄວາມຜິດທີ່ບໍ່ສາມາດແກ້ໄຂໄດ້ເລີຍ.
+
+510
+00:32:36,000 --> 00:32:38,000
+[PLATO]
+You mean?
+ເຈົ້າຫມາຍຄວາມວ່າບໍ?
+
+511
+00:32:38,500 --> 00:32:44,500
+[MASTER MIND]
+Yes, he must lose someone near and dear to him - his father figure. Gentlemen, it's time for Operation Mentor Kill!
+ແມ່ນແລ້ວ, ລາວຕ້ອງສູນເສຍຄົນໃກ້ຊິດແລະຮັກແພງລາວ - ຮູບຮ່າງຂອງພໍ່ຂອງລາວ
+. ພວກເຈົ້າ, ມັນເຖິງເວລາແລ້ວ ສໍາ ລັບການປະຕິບັດງານ Mentor Kill!
+
+512
+00:32:45,000 --> 00:32:48,850
+[TITAN]
+Man, what the hell happened down there? Wait a sec -
+ຜູ້ຊາຍ, ເກີດຫຍັງຂຶ້ນຢູ່ລຸ່ມນັ້ນ? ລໍຖ້າວິນາທີຫນຶ່ງ -
+
+513
+00:32:49,350 --> 00:32:51,350
+[TITAN]
+Crap.
+ໂຊກຮ້າຍ.
+
+514
+00:32:51,850 --> 00:32:55,700
+[PAT!]
+Titan goes and kneels beside Pat, holding him in his arms.
+ໄຕຕານໄປແລະເຂົ່າຢູ່ຂ້າງແບັດ, ຖືລາວໃນແຂນຂອງລາວ.
+
+515
+00:32:56,200 --> 00:32:58,200
+[TITAN]
+You okay?
+ເຈົ້າດີບໍ?
+
+516
+00:32:58,700 --> 00:33:04,700
+["PAT MORITA"]
+I'm dying, kid. There is just one last lesson I have for you. It is the most important of all. 72.
+ຂ້ອຍ ກໍາ ລັງຕາຍແລ້ວ, ເດັກນ້ອຍ. ມີພຽງແຕ່ບົດຮຽນສຸດທ້າຍດຽວທີ່ຂ້ອຍມີ
+ສໍາ ລັບເຈົ້າ. ມັນແມ່ນສິ່ງທີ່ສໍາຄັນທີ່ສຸດໃນທັງ ຫມົດ. 72.
+
+517
+00:33:05,200 --> 00:33:07,200
+[TITAN]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+518
+00:33:07,700 --> 00:33:10,500
+["PAT MORITA"]
+Master Mind did this, you must avenge me.
+ເຈົ້າຈິດໃຈໄດ້ເຮັດສິ່ງນີ້, ເຈົ້າຕ້ອງແກ້ແຄ້ນຂ້ອຍ.
+
+519
+00:33:11,000 --> 00:33:13,000
+[TITAN]
+Master Mind? Why?
+ເຈົ້າຈິດໃຈ? ເປັນຫຍັງ?
+
+520
+00:33:13,500 --> 00:33:17,700
+["PAT MORITA"]
+Because he's evil. You must stop the evil Hal - stop the...
+ເພາະວ່າລາວເປັນຄົນຮ້າຍ. ເຈົ້າຕ້ອງຢຸດແຮລຄົນຮ້າຍ - ຢຸດການ...
+
+521
+00:33:18,200 --> 00:33:21,000
+[REPORTER 1]
+Tighten, Is this the work of Master Mind?
+ແຫນ້ນແຫນ້ນ, ນີ້ແມ່ນວຽກງານຂອງ Master Mind ບໍ?
+
+522
+00:33:21,500 --> 00:33:25,000
+[REPORTER 2]
+How will the death of your mentor affect your resolve?
+ການຕາຍຂອງຄູສອນຂອງທ່ານຈະສົ່ງຜົນກະທົບຕໍ່ຄວາມຕັດສິນໃຈຂອງທ່ານແນວໃດ?
+
+523
+00:33:25,500 --> 00:33:27,500
+[REPORTER 3]
+Was that Pat Morita?
+ນັ້ນແມ່ນ Pat Morita ບໍ?
+
+524
+00:33:28,000 --> 00:33:34,000
+[TITAN]
+This injustice will not go unpunished. Master Mind, if you can hear me, Tighten is coming for you.
+ຄວາມບໍ່ຍຸຕິທໍານີ້ຈະບໍ່ບໍ່ຖືກລົງໂທດ. ເຈົ້າໃຈ,
+ຖ້າເຈົ້າສາມາດຍິນຂ້ອຍໄດ້, Tighten ກໍາ ລັງມາຫາເຈົ້າ.
+
+525
+00:33:34,500 --> 00:33:40,500
+[MASTER MIND]
+Alright, people, we don't have much time. Titan should be here any minute, so let's get the lead out.
+ດີແລ້ວ, ຄົນ, ພວກເຮົາມີເວລາບໍ່ຫຼາຍ.
+ໄຕຕານຄວນຢູ່ບ່ອນນີ້ໃນທຸກໆນາທີ, ສະນັ້ນພວກເຮົາຈະເອົາການນໍາອອກ.
+
+526
+00:33:41,000 --> 00:33:43,000
+[MASTER MIND]
+How's the death ray coming?
+ແສງຄວາມຕາຍ ກໍາ ລັງມາແນວໃດ?
+
+527
+00:33:43,500 --> 00:33:45,600
+[DA VINCI]
+Nearly up to full power, sir.
+ເກືອບເຖິງພະລັງງານເຕັມ, ທ່ານ.
+
+528
+00:33:46,100 --> 00:33:52,100
+[MASTER MIND]
+Hum. Let's turn it down a few notches. It's his first time and we don't want to get in a lucky shot, now do we?
+Hum. ມາຫຼຸດລົງມັນສອງສາມຂັ້ນຕອນ. ມັນເປັນຄັ້ງ ທໍາ
+ອິດຂອງລາວແລະພວກເຮົາບໍ່ຢາກເຂົ້າໄປໃນການຍິງໂຊກດີ, ດຽວນີ້ພວກເຮົາເຮັດບໍ?
+
+529
+00:33:52,600 --> 00:33:54,600
+[MASTER MIND]
+Anything on the radar yet?
+ມີຫຍັງຢູ່ໃນຣາດາແລ້ວບໍ?
+
+530
+00:33:55,100 --> 00:33:57,100
+[PLATO]
+Not yet, sir.
+ຍັງບໍ່ທັນ, ທ້າວ.
+
+531
+00:33:57,600 --> 00:34:02,500
+[MASTER MIND]
+I see. Well, he must be planning something big. Are the flame androids deployed?
+ຂ້ອຍເຫັນແລ້ວ. ດີ, ລາວຕ້ອງ ກໍາ ລັງວາງແຜນບາງສິ່ງບາງຢ່າງທີ່ໃຫຍ່ຫຼວງ
+. ແອນດຣອຍດ໌ໄຟຖືກຈັດຕັ້ງປະຕິບັດບໍ?
+
+532
+00:34:03,000 --> 00:34:05,000
+[PLATO]
+All twelve.
+ທັງສິບສອງຄົນ.
+
+533
+00:34:05,500 --> 00:34:09,350
+[MASTER MIND]
+Wonderful, wonderful. Plato, Da Vinci, take your places next to me.
+ຍິ່ງໃຫຍ່, ຍິ່ງໃຫຍ່ນ. ປລາໂຕ, ດາວິນຊີ, ເອົາບ່ອນຂອງທ່ານຢູ່ຂ້າງຂ້ອຍ.
+
+534
+00:34:09,850 --> 00:34:11,850
+[MASTER MIND]
+No slouching.
+ບໍ່ຕ້ອງສັ່ນສະເທືອນ.
+
+535
+00:34:12,350 --> 00:34:14,350
+[PLATO]
+He's certainly taking his time.
+ລາວ ກໍາ ລັງໃຊ້ເວລາຢ່າງແນ່ນອນ.
+
+536
+00:34:14,850 --> 00:34:17,650
+[MASTER MIND]
+He'll be here. That's the way it works.
+ລາວຈະຢູ່ບ່ອນນີ້. ນັ້ນແມ່ນວິທີທີ່ມັນເຮັດວຽກ.
+
+537
+00:34:18,150 --> 00:34:22,000
+[MASTER MIND]
+Unprofessional, that's what this is. No, it's disrespect for the craft.
+ບໍ່ເປັນມືອາຊີບ, ນັ້ນແມ່ນສິ່ງທີ່ນີ້ແມ່ນ
+. ບໍ່, ມັນເປັນການບໍ່ເຄົາລົບຕໍ່ເຄື່ອງມື.
+
+538
+00:34:22,500 --> 00:34:28,500
+[MASTER MIND]
+Would Uberman have kept us waiting like this? Of course not. He was a pro who knew the score. It's time we spelled out a few things for this Titan. I will not be made a fool of.
+ໂອເບີແມນຈະເຮັດໃຫ້ພວກເຮົາລໍຖ້າແບບນີ້ບໍ? ແນ່ນອນວ່າບໍ່ແມ່ນ. ລາວເປັນມືອາຊີບທີ່ຮູ້ຄະແນນ.
+ມັນເຖິງເວລາແລ້ວທີ່ພວກເຮົາຈະອະທິບາຍບາງສິ່ງບາງຢ່າງ ສໍາ ລັບໄຕຕານນີ້. ຂ້ອຍຈະບໍ່ຖືກເຮັດເປັນຄົນໂງ່.
+
+539
+00:34:29,000 --> 00:34:31,000
+[TITAN]
+Oh, for crying out loud.
+ໂອ້, ສໍາລັບການຮ້ອງໄຫ້ຢ່າງແຮງ.
+
+540
+00:34:31,500 --> 00:34:33,950
+[MASTER MIND]
+Do you know who I am? 75.
+ເຈົ້າຮູ້ວ່າຂ້ອຍເປັນໃຜບໍ? 75.
+
+541
+00:34:34,450 --> 00:34:39,000
+[TITAN]
+Yeah, you're Master Mind. Yeah! You're actually the guy I want to see!
+ແມ່ນແລ້ວ, ເຈົ້າເປັນຈິດໃຈຜູ້ໃຫຍ່. ແມ່ນແລ້ວ
+! ເຈົ້າເປັນຜູ້ຊາຍທີ່ຂ້ອຍຢາກເຫັນແທ້ໆ!
+
+542
+00:34:39,500 --> 00:34:45,500
+[MASTER MIND]
+Oh, so NOW you want to get down to it. Well, I want to get a few things off my chest first.
+ໂອ້, ສະນັ້ນດຽວນີ້ເຈົ້າຢາກລົງໄປຫາມັນ. ດີ,
+ຂ້ອຍຢາກເອົາບາງສິ່ງບາງຢ່າງອອກຈາກທ້ອງຂອງຂ້ອຍກ່ອນ.
+
+543
+00:34:46,000 --> 00:34:52,000
+[MASTER MIND]
+Of all the inconsiderate - Do you have any idea how long we waited for you? We're you even planning on coming to me and getting revenge?
+ໃນບັນດາສິ່ງທີ່ບໍ່ພິຈາລະນາທັງ ຫມົດ - ເຈົ້າຮູ້ບໍ່ວ່າພວກເຮົາລໍຖ້າເຈົ້າດົນປານໃດ
+? ພວກເຮົາ ກໍາ ລັງວາງແຜນທີ່ຈະມາຫາຂ້ອຍແລະແກ້ແຄ້ນບໍ?
+
+544
+00:34:52,500 --> 00:34:58,500
+[TITAN]
+Well, at first I was going to. You know, because that's what I figured I was supposed to do. But then I got to thinking-
+ດີ, ໃນເບື້ອງຕົ້ນຂ້ອຍຈະເຮັດ. ເຈົ້າຮູ້ແລ້ວ,
+ເພາະວ່ານັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຄິດວ່າຂ້ອຍຄວນເຮັດ. ແຕ່ຫຼັງຈາກນັ້ນຂ້ອຍຕ້ອງຄິດວ່າ -
+
+545
+00:34:59,000 --> 00:35:05,000
+[MASTER MIND]
+-You got to thinking? There's nothing to think about. I'm the villain. I do something bad, you come and get me.
+- ເຈົ້າຕ້ອງຄິດບໍ? ບໍ່ມີຫຍັງຕ້ອງຄິດ. ຂ້ອຍເປັນຄົນຮ້າຍ
+. ຂ້ອຍເຮັດບາງສິ່ງບາງຢ່າງທີ່ບໍ່ດີ, ເຈົ້າມາເອົາຂ້ອຍ.
+
+546
+00:35:05,500 --> 00:35:07,950
+[TITAN]
+- I got to thinking...what's the point?
+- ຂ້ອຍຕ້ອງຄິດ... ຈຸດປະສົງແມ່ນຫຍັງ?
+
+547
+00:35:08,450 --> 00:35:10,550
+[MASTER MIND]
+Maybe you're right. What's the point?
+ບາງທີເຈົ້າຖືກຕ້ອງ. ຈຸດປະສົງແມ່ນຫຍັງ?
+
+548
+00:35:11,050 --> 00:35:13,050
+[MASTER MIND]
+What are these?
+ເຫຼົ່ານີ້ແມ່ນຫຍັງ?
+
+549
+00:35:13,550 --> 00:35:16,700
+[TITAN]
+That's what I wanted to talk to you about.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຢາກເວົ້າກັບເຈົ້າກ່ຽວກັບ.
+
+550
+00:35:17,200 --> 00:35:19,300
+[MASTER MIND]
+Where did you get all this?
+ເຈົ້າເອົາສິ່ງທັງ ຫມົດ ນີ້ມາຈາກໃສ?
+
+551
+00:35:19,800 --> 00:35:21,800
+[TITAN]
+Get this: I stole them.
+ຟັງສິ່ງນີ້: ຂ້ອຍລັກພວກມັນ.
+
+552
+00:35:22,300 --> 00:35:24,300
+[MASTER MIND]
+From where?
+ຈາກໃສ?
+
+553
+00:35:24,800 --> 00:35:30,800
+[TITAN]
+From all over. You see, once you killed Pat and ruined my other apartment building I was pretty pissed off, so I figured I'd go, find you and kick some ass. Then I thought to myself: "Okay,then what?" I mean, if we were to fight, what would I get out of it? Would I get my apartment back? Would I be able to pay the bills?
+ຈາກທຸກບ່ອນ. ເຈົ້າເຫັນແລ້ວ, ເມື່ອເຈົ້າໄດ້ຂ້າແອບຕ໌ແລະ ທໍາ ລາຍອາຄານອາພາດເມັນຂອງຂ້ອຍອີກຄົນ ຫນຶ່ງ ຂ້ອຍໂຊກຮ້າຍຫຼາຍ, ສະນັ້ນຂ້ອຍຄິດວ່າຂ້ອຍຈະໄປ, ຊອກຫາເຈົ້າແລະຕີຫລັງບາງຄົນ.
+ຫຼັງຈາກນັ້ນຂ້ອຍຄິດກັບຕົວເອງວ່າ:"ດີແລ້ວ, ຫຼັງຈາກນັ້ນຫຍັງ?" ຂ້ອຍ ຫມາຍ ຄວາມວ່າ, ຖ້າພວກເຮົາຕ້ອງຕໍ່ສູ້, ຂ້ອຍຈະໄດ້ຮັບຫຍັງຈາກມັນ? ຂ້ອຍຈະເອົາອາパートຂອງຂ້ອຍຄືນບໍ? ຂ້ອຍສາມາດຈ່າຍບັນຊີໄດ້ບໍ?
+
+554
+00:35:31,300 --> 00:35:33,300
+[MASTER MIND]
+Well, what about your mentor?
+ດີ, ແລະຜູ້ແນະນໍາຂອງທ່ານແນວໃດ?
+
+555
+00:35:33,800 --> 00:35:39,800
+[TITAN]
+Tell you the truth? He was kind of a dick. I mean, being a hero is dandy and all, but it's volunteer work. Now you've always had the right take on all this. I mean, when you rob a bank or take over the diamond exchange you get something out of it. I mean, when you don't get caught, which, no offense, isn't very often. And that brings me to what I wanted to propose to you: Who could catch you if I'm by your side?
+ຂ້ອຍບອກເຈົ້າຄວາມຈິງບໍ? ລາວເປັນຄົນໂຊກແຊງບາງຢ່າງ. ຂ້ອຍຫມາຍຄວາມວ່າ, ການເປັນວິລະຊົນແມ່ນດີແລະທັງ ຫມົດ, ແຕ່ມັນເປັນວຽກງານອາສາສະຫມັກ. ດຽວນີ້ເຈົ້າມີສິດທິທີ່ຈະຮັບຜິດຊອບສິ່ງທັງ ຫມົດ ນີ້. ຂ້ອຍ ຫມາຍ ຄວາມວ່າ,
+ເມື່ອເຈົ້າລັກທະນາຄານຫຼືຮັບເອົາການແລກປ່ຽນເພັດເຈົ້າໄດ້ຮັບບາງສິ່ງບາງຢ່າງຈາກມັນ.ຂ້ອຍ ຫມາຍ ຄວາມວ່ານັ້ນ, ເມື່ອນເຈົ້າບໍ່ຖືກຈັບ, ເຊິ່ງ, ໂດຍບໍ່ມີການກະທໍາຮ້າຍ, ບໍ່ແມ່ນຫຼາຍຄັ້ງ. ແລະນັ້ນເຮັດໃຫ້ຂ້ອຍໄປຫາສິ່ງທີ່ຂ້ອຍຢາກສະເຫນີ
+
+556
+00:35:40,300 --> 00:35:42,300
+[MASTER MIND]
+You want to team-up? 77.
+ເຈົ້າຢາກເປັນທີມງານບໍ? 77.
+
+557
+00:35:42,800 --> 00:35:48,800
+[TITAN]
+You got the brains, I got the brawn. We could even call ourselves that: `Brain' and `Brawn'. Look at this.
+ເຈົ້າມີສະຫມອງ, ຂ້ອຍມີກ້າມຊີ້ນ. ພວກເຮົາຍັງສາມາດເອີ້ນຕົວເອງວ່າ
+: `Brain ແລະ `Brawn. ເບິ່ງສິ່ງນີ້.
+
+558
+00:35:49,300 --> 00:35:51,750
+[TITAN]
+I even designed us some new costumes.
+ຂ້ອຍຍັງອອກແບບຊຸດໃຫມ່ໃຫ້ພວກເຮົາ.
+
+559
+00:35:52,250 --> 00:35:58,250
+[TITAN]
+See, you'd be brain, so you got a little one on your costume, and then I'll have brawn on mine...once I figure out the best, you know, visual interpretation of it. What do you think?
+ເບິ່ງ, ເຈົ້າຈະເປັນສະຫມອງ, ສະນັ້ນເຈົ້າມີ ຫນຶ່ງ ນ້ອຍໆໃສ່ຊຸດຂອງທ່ານ, ແລະຫຼັງຈາກນັ້ນຂ້ອຍຈະມີຄວາມກ້າຫານໃສ່ຂອງຂ້ອຍ
+... ເມື່ອຂ້ອຍຄິດວ່າທີ່ດີທີ່ສຸດ, ເຈົ້າຮູ້ແລ້ວ, ການຕີຄວາມເຫັນຂອງມັນ. ເຈົ້າຄິດແນວໃດ?
+
+560
+00:35:58,750 --> 00:36:00,750
+[MASTER MIND]
+What do I think?
+ຂ້ອຍຄິດແນວໃດ?
+
+561
+00:36:01,250 --> 00:36:07,250
+[MASTER MIND]
+I think you're probably the biggest idiot I've ever met. I mean, I can't believe you. All your gifts, all your powers, and all you want to use them for is your own financial fulfillment. You know what? Your kind of people make me sick.
+ຂ້ອຍຄິດວ່າເຈົ້າອາດຈະເປັນຄົນໂງ່ທີ່ໃຫຍ່ທີ່ສຸດທີ່ຂ້ອຍເຄີຍພົບເຄີຍ. ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍບໍ່ເຊື່ອເຈົ້າໄດ້. ຂອງຂວັນທັງ ຫມົດ ຂອງເຈົ້າ, ຄວາມເຂັ້ມແຂງທັງ
+ຫມົດ ຂອງທ່ານ, ແລະສິ່ງດຽວທີ່ທ່ານຢາກໃຊ້ພວກມັນແມ່ນການຕອບສະ ຫນອງ ທາງດ້ານການເງິນຂອງທ່ານເອງ. ເຈົ້າຮູ້ຫຍັງ? ຄົນປະເພດຂອງທ່ານເຮັດໃຫ້ຂ້ອຍເຈັບປ່ວຍ.
+
+562
+00:36:07,750 --> 00:36:09,750
+[TITAN]
+I worked hard on this.
+ຂ້ອຍເຮັດວຽກຫນັກໃນເລື່ອງນີ້.
+
+563
+00:36:10,250 --> 00:36:13,400
+[MASTER MIND]
+Oh - gee - I am so sorry! 78.
+ໂອ້ - ສະບາຍດີ - ຂ້ອຍຂໍໂທດຫຼາຍ! 78.
+
+564
+00:36:13,900 --> 00:36:18,100
+[MASTER MIND]
+Of all the people to pick, it had to be this loser.
+ຈາກຄົນທັງ ຫມົດ ທີ່ຕ້ອງເລືອກ, ມັນຕ້ອງເປັນຄົນເສຍຫາຍນີ້.
+
+565
+00:36:18,600 --> 00:36:21,750
+[TITAN]
+Now, hold on. You're going a little too far.
+ດຽວນີ້, ລໍຖ້າ. ເຈົ້າ ກໍາ ລັງໄປໄກເກີນໄປເລັກນ້ອຍ.
+
+566
+00:36:22,250 --> 00:36:28,250
+[MASTER MIND]
+I wish your mother said that to your father the night of your conception, they would have saved me a whole lot of heartache.
+ຂ້ອຍຢາກໃຫ້ແມ່ຂອງເຈົ້າບອກວ່າຕໍ່ພໍ່ຂອງເຈົ້າໃນຄືນຂອງການຖືພາຂອງທ່ານ
+, ພວກເຂົາຈະຊ່ວຍຂ້ອຍຄວາມເຈັບປວດຫົວໃຈຫຼາຍຢ່າງ.
+
+567
+00:36:28,750 --> 00:36:30,750
+[TITAN]
+Hey, I mean it.
+ເຮ້, ຂ້ອຍເວົ້າແທ້ໆ.
+
+568
+00:36:31,250 --> 00:36:33,700
+[MASTER MIND]
+Oh, yeah? What are you gonna do?
+ໂອ້, ແມ່ນແລ້ວ? ເຈົ້າຈະເຮັດແນວໃດ?
+
+569
+00:36:34,200 --> 00:36:36,200
+[DA VINCI]
+Master!
+ເຈົ້າ!
+
+570
+00:36:36,700 --> 00:36:38,700
+[MASTER MIND]
+It hurts.
+ມັນເຈັບປວດ.
+
+571
+00:36:39,200 --> 00:36:41,200
+[DA VINCI]
+What hurts?
+ເຈັບຫຍັງ?
+
+572
+00:36:41,700 --> 00:36:43,700
+[MASTER MIND]
+It!
+ມັນ!
+
+573
+00:36:44,200 --> 00:36:50,200
+[TITAN]
+I don't need you, I don't need anybody. I have the power to do and take anything I want. And now, I'm gonna take back everything this city owes me. Beware Metro City, it's time for Titan to collect.
+ຂ້ອຍບໍ່ໄດ້ຕ້ອງການເຈົ້າ, ຂ້ອຍບໍ່ຕ້ອງການໃຜ. ຂ້ອຍມີພະລັງທີ່ຈະເຮັດແລະເອົາທຸກຢ່າງທີ່ຂ້ອຍຕ້ອງການ. ແລະດຽວນີ້,
+ຂ້ອຍຈະເອົາທຸກສິ່ງທຸກຢ່າງເມືອງນີ້ເປັນຫນີ້ຂ້ອຍຄືນ. ລະມັດລະວັງເມືອງເມຕຣູ, ມັນເຖິງເວລາ ສໍາ ລັບໄຕຕານທີ່ຈະເກັບກໍາ.
+
+574
+00:36:50,700 --> 00:36:53,850
+[TITAN]
+Oh, and from now on - I'M GONNA FLY
+ໂອ້, ແລະຈາກປັດຈຸບັນນີ້ - ຂ້ອຍຈະບິນ
+
+575
+00:36:54,350 --> 00:36:59,950
+[THE WAY I WANT TO FLY!]
+He takes a sitting position and flies away as if he were piloting an invisible jet.
+ລາວເອົາຕໍາແຫນ່ງນັ່ງແລະບິນໄປຄືກັບວ່າລາວ ກໍາ
+ລັງ piloting ເຮືອບິນເຮືອບິນທີ່ເບິ່ງບໍ່ເຫັນ.
+
+576
+00:37:00,450 --> 00:37:02,450
+[DA VINCI]
+How'd the plan go, boss?
+ແຜນການໄດ້ດໍາເນີນໄປແນວໃດ, ຫົວຫນ້າ?
+
+577
+00:37:02,950 --> 00:37:05,400
+[MASTER MIND]
+I just made myself redundant, old friend.
+ຂ້ອຍຫາກໍ່ເຮັດໃຫ້ຕົວເອງບໍ່ມີປະໂຫຍດ, ເພື່ອນເກົ່າ.
+
+578
+00:37:05,900 --> 00:37:07,900
+[DA VINCI]
+It's not that bad.
+ມັນບໍ່ຮ້າຍແຮງຫຼາຍ.
+
+579
+00:37:08,400 --> 00:37:10,400
+[SECURITY GUARD]
+Morning, Tighten.
+ຕອນເຊົ້າ, ເຂັ້ມແຂງ.
+
+580
+00:37:10,900 --> 00:37:12,900
+[TITAN]
+Morning.
+ຕອນເຊົ້າ.
+
+581
+00:37:13,400 --> 00:37:16,550
+[SECURITY GUARD]
+Is there something we can do for you? 80.
+ມີຫຍັງທີ່ພວກເຮົາສາມາດເຮັດໄດ້ ສໍາ ລັບເຈົ້າບໍ? 80.
+
+582
+00:37:17,050 --> 00:37:21,250
+[TITAN]
+Oh, don't bother about me. I'm just here to make a withdrawal.
+ໂອ້, ຢ່າກັງວົນກ່ຽວກັບຂ້ອຍ. ຂ້ອຍພຽງແຕ່ຢູ່ບ່ອນນີ້ເພື່ອຖອນເງິນ.
+
+583
+00:37:21,750 --> 00:37:23,850
+[BANK MANAGER]
+Say, did he just rob us?
+ເວົ້າ, ລາວຫາກໍ່ລັກລອບພວກເຮົາບໍ?
+
+584
+00:37:24,350 --> 00:37:27,150
+[SECURITY GUARD]
+Not sure. Sort of looks it, don't it?
+ບໍ່ແນ່ໃຈ. ເບິ່ງຄືວ່າມັນເປັນ, ແມ່ນບໍ?
+
+585
+00:37:27,650 --> 00:37:29,650
+[BANK MANAGER]
+Yeah.
+ແມ່ນແລ້ວ.
+
+586
+00:37:30,150 --> 00:37:32,250
+[SECURITY GUARD]
+Should I, you know, stop him?
+ຂ້ອຍຄວນ, ເຈົ້າຮູ້ແລ້ວ, ຢຸດລາວບໍ?
+
+587
+00:37:32,750 --> 00:37:34,750
+[BANK MANAGER]
+Umm...Yeah.
+ອູມ... ແມ່ນແລ້ວ.
+
+588
+00:37:35,250 --> 00:37:37,350
+[BANK MANAGER]
+He did rob us, didn't he?
+ລາວໄດ້ລັກລອບພວກເຮົາ, ແມ່ນບໍ?
+
+589
+00:37:37,850 --> 00:37:43,850
+[BRAD HELMS]
+"Absolute power corrupts absolutely." When Lord Acton stated that, in a letter to Bishop Mandell Creighton in 1887, no one thought much about it, but today Metro City is reeling from that very prophecy. Tighten, who many thought of as our savior, has turned his back on the cause of justice.
+ເມື່ອພຣະຜູ້ເປັນເຈົ້າແຄຕັນໄດ້ລະບຸວ່າ, ໃນຈົດຫມາຍຕໍ່ອາຈານແມນເດລ ຄຣີຕັນໃນປີ 1887, ບໍ່ມີໃຜຄິດຫຼາຍກ່ຽວກັບມັນ, ແຕ່ມື້ນີ້ເມືອງແມຕຣູ
+ກໍາ ລັງຟື້ນຟູຈາກຄໍາທໍານາຍນັ້ນເອງ. Tighten, ຜູ້ທີ່ຫຼາຍຄົນຄິດວ່າເປັນຜູ້ຊ່ວຍຂອງພວກເຮົາ, ໄດ້ຫັນຫຼັງຕໍ່ເຫດຜົນຄວາມຍຸຕິທໍາ.
+
+590
+00:37:44,350 --> 00:37:50,300
+[PLATO]
+I don't understand it. He seemed to have every characteristic we were looking for in a superhero.
+ຂ້ອຍບໍ່ເຂົ້າໃຈມັນ. ລາວເບິ່ງຄືວ່າມີຄຸນລັກສະນະທຸກຢ່າງທີ່ພວກເຮົາ
+ກໍາ ລັງຊອກຫາໃນ superhero.
+
+591
+00:37:50,800 --> 00:37:56,800
+[MASTER MIND]
+Well, there's no use crying about it now, we must take action. I'm not going to play second fiddle to that crass buffoon. We must destroy Tighten. 82.
+ດີ, ບໍ່ມີປະໂຫຍດທີ່ຈະຮ້ອງໄຫ້ກ່ຽວກັບມັນດຽວນີ້, ພວກເຮົາຕ້ອງປະຕິບັດງານ.
+ຂ້ອຍຈະບໍ່ຫຼິ້ນຟີລິນທີສອງກັບໂບຟອນທີ່ໂຊກຮ້າຍນັ້ນ. ພວກເຮົາຕ້ອງ ທໍາ ລາຍ Tighten. 82.
+
+592
+00:37:57,300 --> 00:38:03,300
+[PLATO]
+It won't be easy. Uberman had a sense of decency and genuine love for the people. That was his weakness and was easily used against him.
+ມັນຈະບໍ່ງ່າຍດາຍ. ອູເບີແມນມີຄວາມຮູ້ສຶກຄວາມສົມບູນແບບແລະຄວາມຮັກທີ່ແທ້ຈິງຕໍ່ຄົນ
+. ນັ້ນແມ່ນຄວາມອ່ອນແອຂອງລາວແລະຖືກໃຊ້ຕໍ່ຕ້ານລາວຢ່າງງ່າຍດານ.
+
+593
+00:38:03,800 --> 00:38:09,800
+[MASTER MIND]
+Yes, but he possesses the same flaws present in Uberman's DNA - copper. It's like Benjamin Franklin always said: "If something works don't dick with it."
+ແມ່ນແລ້ວ, ແຕ່ລາວມີຂໍ້ບົກຜ່ອງດຽວກັນທີ່ຢູ່ໃນ DNA ຂອງ Uberman - ທອງແດງ.
+ມັນຄືກັບແບນຈາມິນ ແຟຣນຄິນສະເຫມີວ່າ:"ຖ້າບາງສິ່ງບາງຢ່າງເຮັດວຽກຢ່າໂຊກຮ້າຍກັບມັນ."
+
+594
+00:38:10,300 --> 00:38:13,800
+[TITAN]
+I can have anything I want. I'm like a god.
+ຂ້ອຍສາມາດມີທຸກຢ່າງທີ່ຂ້ອຍຕ້ອງການໄດ້. ຂ້ອຍຄືກັບພະເຈົ້າ.
+
+595
+00:38:14,300 --> 00:38:19,200
+[TITAN]
+Point to any woman in this bar. I could have her in a second.
+ຊີ້ໃຫ້ເຫັນແມ່ຍິງໃດໃນບານີ້. ຂ້ອຍສາມາດມີນາງໃນວິນາທີຫນຶ່ງ.
+
+596
+00:38:19,700 --> 00:38:21,800
+[TITAN]
+Hey, you wanna get with this?
+ເຮ້, ເຈົ້າຢາກເຮັດແບບນີ້ບໍ?
+
+597
+00:38:22,300 --> 00:38:24,300
+[BARTENDER]
+Buddy, what do you want?
+ເພື່ອນ, ເຈົ້າຢາກຫຍັງ?
+
+598
+00:38:24,800 --> 00:38:30,800
+[TITAN]
+What do you want? That's the question, isn't it. I mean, what do you want when you can have everything? 83. TITAN I suppose what I really want is to never be forgotten again. I want to do something that can never be cast aside or one-upped. I want a - what's it called? - A legacy. I want a legacy. Yeah, that's it. I like the sound that.
+ເຈົ້າຢາກຫຍັງ? ນັ້ນແມ່ນ ຄໍາ ຖາມ, ແມ່ນບໍ. ຂ້ອຍຫມາຍຄວາມວ່າ, ເຈົ້າຢາກແນວໃດເມື່ອເຈົ້າສາມາດມີທຸກຢ່າງໄດ້? 83. ໄຕຕານ ຂ້ອຍຄິດວ່າສິ່ງທີ່ຂ້ອຍຢາກແທ້ໆແມ່ນບໍ່ເຄີຍຖືກລືມອີກເທື່ອຫນຶ່ງ.
+ຂ້ອຍຢາກເຮັດບາງສິ່ງບາງຢ່າງທີ່ບໍ່ສາມາດຖືກຖິ້ມໄວ້ຫຼືຍົກສູງຄົນດຽວໄດ້ເລີຍ. ຂ້ອຍຕ້ອງການ - ມັນເອີ້ນວ່າແນວໃດ? - ມໍລະດົກ. ຂ້ອຍ ຢາກມີມໍລະ ດົກ. ແມ່ນແລ້ວ, ນັ້ນແມ່ນມັນ. ຂ້ອຍມັກສຽງນັ້ນ.
+
+599
+00:38:31,300 --> 00:38:34,100
+[BARTENDER]
+I meant, what do you want to drink?
+ຂ້ອຍຫມາຍຄວາມວ່າ, ເຈົ້າຢາກດື່ມຫຍັງ?
+
+600
+00:38:34,600 --> 00:38:36,600
+[TITAN]
+Oh.
+ໂອ້.
+
+601
+00:38:37,100 --> 00:38:39,900
+[MASTER MIND]
+Your time has come to an end, Titan!
+ເວລາຂອງເຈົ້າໄດ້ສິ້ນສຸດລົງແລ້ວ, ໄຕຕານ!
+
+602
+00:38:40,400 --> 00:38:42,400
+[TITAN]
+What?
+ຫຍັງ?
+
+603
+00:38:42,900 --> 00:38:47,800
+[MASTER MIND]
+There can be only one master criminal in this city - and it's me.
+ມີພຽງແຕ່ອາຊະຍາກໍາຫົວຫນ້າຄົນດຽວໃນເມືອງນີ້ - ແລະມັນແມ່ນຂ້ອຍ.
+
+604
+00:38:48,300 --> 00:38:50,300
+[TITAN]
+Really?
+ແທ້ບໍ?
+
+605
+00:38:50,800 --> 00:38:53,600
+[TITAN]
+I guess I should leave town then, huh?
+ຂ້ອຍຄິດວ່າຂ້ອຍຄວນອອກຈາກເມືອງຫຼັງຈາກນັ້ນ, ແມ່ນບໍ?
+
+606
+00:38:54,100 --> 00:38:56,550
+[MASTER MIND]
+I have a better idea - NOW!
+ຂ້ອຍມີແນວຄິດທີ່ດີກວ່າ - ດຽວນີ້!
+
+607
+00:38:57,050 --> 00:39:03,050
+[MASTER MIND]
+That's copper my good man. Your one weakness. 84. MASTER MIND For all your amazing gifts of brawn you are no match for my intellect.
+ນັ້ນແມ່ນທອງແດງຜູ້ຊາຍທີ່ດີຂອງຂ້ອຍ. ຄວາມອ່ອນແອດຽວຂອງທ່ານ. 84. ຈິດໃຈຜູ້ເປັນເຈົ້າ ສໍາ
+ລັບຂອງຂວັນທີ່ຍິ່ງໃຫຍ່ທັງ ຫມົດ ຂອງກ້າມຊີ້ນຂອງທ່ານທ່ານບໍ່ສາມາດແຂ່ງຂັນກັບສະຕິປັນຍາຂອງຂ້ອຍໄດ້.
+
+608
+00:39:03,550 --> 00:39:08,100
+[TITAN]
+You know what? You're nothing but a bug. Not even worth my effort.
+ເຈົ້າຮູ້ບໍ? ເຈົ້າບໍ່ມີຫຍັງນອກຈາກແມງໄມ້
+. ບໍ່ຄວນຄວາມພະຍາຍາມຂອງຂ້ອຍເລີຍ.
+
+609
+00:39:08,600 --> 00:39:11,050
+[MASTER MIND]
+He's not as dumb as I thought.
+ລາວບໍ່ແມ່ນຄົນໂງ່ເທົ່າທີ່ຂ້ອຍຄິດ.
+
+610
+00:39:11,550 --> 00:39:13,550
+[PLATO]
+I guess not...Funny, though.
+ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ... ແຕ່ມ່ວນຊື່ນ.
+
+611
+00:39:14,050 --> 00:39:16,050
+[MASTER MIND]
+What's funny?
+ມີຫຍັງຫນ້າມ່ວນ?
+
+612
+00:39:16,550 --> 00:39:19,350
+[PLATO]
+Funny Uberman didn't think of the same thing.
+ຜູ້ຊາຍອູເບີທີ່ມ່ວນຊື່ນບໍ່ໄດ້ຄິດຄືກັນ.
+
+613
+00:39:19,850 --> 00:39:21,850
+[HAL]
+That's it!
+ນັ້ນແມ່ນມັນ!
+
+614
+00:39:22,350 --> 00:39:24,350
+[HAL]
+Hello, Legacy.
+ສະບາຍດີ, Legacy.
+
+615
+00:39:24,850 --> 00:39:26,850
+[VINNIE]
+Hey, that's my ball!
+ເຮ້, ນັ້ນແມ່ນບານຂອງຂ້ອຍ!
+
+616
+00:39:27,350 --> 00:39:30,150
+[ELDERLY WOMAN]
+That was a close one. Sixth floor, please.
+ນັ້ນແມ່ນຫນຶ່ງທີ່ໃກ້ຊິດ. ຊັ້ນທີຫົກ, ກະລຸນາ.
+
+617
+00:39:30,650 --> 00:39:36,650
+[MASTER MIND]
+Wow, I always thought Uberman was your first superhero - but it looks like our little Roxanne dated a linebacker in college.
+ໂວ້, ຂ້ອຍເຄີຍຄິດວ່າ Uberman ແມ່ນ superhero ທໍາ ອິດຂອງທ່ານ -
+ແຕ່ມັນເບິ່ງຄືວ່າ Roxanne ນ້ອຍຂອງພວກເຮົາໄດ້ພົບກັບຜູ້ຫຼັງທາງໃນວິທະຍາໄລ.
+
+618
+00:39:37,150 --> 00:39:39,150
+[ROXANNE]
+That's my diary.
+ນັ້ນແມ່ນວັນບັນທຶກຂອງຂ້ອຍ.
+
+619
+00:39:39,650 --> 00:39:41,650
+[MASTER MIND]
+So it is. 86.
+ສະນັ້ນມັນເປັນ. 86.
+
+620
+00:39:42,150 --> 00:39:44,150
+[ROXANNE]
+It's personal.
+ມັນເປັນເລື່ອງສ່ວນຕົວ.
+
+621
+00:39:44,650 --> 00:39:49,900
+[MASTER MIND]
+Well, then I wouldn't leave it in your underwear drawer for just anyone to find.
+ດີ, ຫຼັງຈາກນັ້ນຂ້ອຍຈະບໍ່ປ່ອຍມັນໄວ້ໃນກະຕູ້ເຄື່ອງນຸ່ງຫົ່ມພາຍໃນຂອງທ່ານ
+ສໍາ ລັບໃຜທີ່ຈະຊອກຫາ.
+
+622
+00:39:50,400 --> 00:39:52,400
+[ROXANNE]
+What do you want?
+ເຈົ້າຢາກຫຍັງ?
+
+623
+00:39:52,900 --> 00:39:54,900
+[MASTER MIND]
+I need your help.
+ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ.
+
+624
+00:39:55,400 --> 00:39:59,250
+[ROXANNE]
+So you knock me out and tie me to a chair?
+ສະນັ້ນເຈົ້າຈຶ່ງເຮັດໃຫ້ຂ້ອຍຕົກໃຈແລະຈັບຂ້ອຍຢູ່ບ່ອນນັ່ງບໍ?
+
+625
+00:39:59,750 --> 00:40:03,600
+[MASTER MIND]
+You're not going to like what I'm about to tell you.
+ເຈົ້າຈະບໍ່ມັກສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງຈະບອກເຈົ້າ.
+
+626
+00:40:04,100 --> 00:40:07,600
+[BRAD HELMS]
+It's chaos here in city square as city police -
+ມັນເປັນຄວາມສັບສົນຢູ່ນີ້ໃນສະໂມສອນເມືອງໃນຂະນະທີ່ຕໍາຫຼວດເມືອງ -
+
+627
+00:40:08,100 --> 00:40:10,100
+[ROXANNE]
+He's really out of control.
+ລາວບໍ່ສາມາດຄວບຄຸມໄດ້ແທ້ໆ.
+
+628
+00:40:10,600 --> 00:40:12,600
+[MASTER MIND]
+Tell me about it.
+ບອກຂ້ອຍກ່ຽວກັບມັນ.
+
+629
+00:40:13,100 --> 00:40:19,100
+[ROXANNE]
+I should have known. You have something to do with this, don't you? - With Titan turning evil. 87.
+ຂ້ອຍຄວນຮູ້. ເຈົ້າມີສ່ວນກ່ຽວຂ້ອງກັບເລື່ອງນີ້
+, ແມ່ນບໍ? - ກັບໄຕຕັນກາຍເປັນຄວາມຮ້າຍແຮງ. 87.
+
+630
+00:40:19,600 --> 00:40:25,600
+[MASTER MIND]
+Well, the evil thing he did by himself. My goal was to give MYSELF purpose by creating an intellectual sparring partner.
+ດີ, ສິ່ງຮ້າຍແຮງທີ່ລາວເຮັດດ້ວຍຕົນເອງ.
+ເປົ້າຫມາຍຂອງຂ້ອຍແມ່ນເພື່ອໃຫ້ຈຸດປະສົງຕົວເອງໂດຍການສ້າງຄູ່ຮ່ວມງານການແຂ່ງຂັນທາງປັນຍາ.
+
+631
+00:40:26,100 --> 00:40:28,200
+[ROXANNE]
+You're talking like you made him.
+ເຈົ້າເວົ້າຄືກັບວ່າເຈົ້າເຮັດລາວ.
+
+632
+00:40:28,700 --> 00:40:30,800
+[MASTER MIND]
+And they call me Master Mind.
+ແລະພວກເຂົາເອີ້ນຂ້ອຍວ່າ Master Mind.
+
+633
+00:40:31,300 --> 00:40:37,300
+[ROXANNE]
+Let me get this straight. You missed getting your ass kicked, so you made a new guy to kick your ass. That's pathetic.
+ຂໍໃຫ້ຂ້ອຍເຂົ້າໃຈເລື່ອງນີ້ຢ່າງກົງກັນຂ້າມ. ເຈົ້າພາດການຖືກຕີຫລັງເຈົ້າ,
+ສະນັ້ນເຈົ້າຈຶ່ງສ້າງຜູ້ຊາຍຄົນໃຫມ່ທີ່ຈະຕີຫລົງເຈົ້າ. ນັ້ນແມ່ນໂຊກຮ້າຍ.
+
+634
+00:40:37,800 --> 00:40:39,800
+[MASTER MIND]
+In hindsight...
+ເມື່ອເບິ່ງຄືນໄປບ່ອນ...
+
+635
+00:40:40,300 --> 00:40:44,850
+[ROXANNE]
+And his powers, they're just like Uberman's. Why would he have his powers?
+ແລະພະລັງຂອງລາວ, ພວກເຂົາຄ້າຍຄືກັບຂອງ Uberman
+ໄດ້. ເປັນຫຍັງລາວຈຶ່ງມີພະລັງງານຂອງລາວ?
+
+636
+00:40:45,350 --> 00:40:49,550
+[MASTER MIND]
+I had some left over from something. I infused him with it.
+ຂ້ອຍຍັງເຫຼືອບາງຢ່າງຈາກບາງສິ່ງບາງຢ່າງ. ຂ້ອຍເຮັດໃຫ້ລາວມີມັນ.
+
+637
+00:40:50,050 --> 00:40:56,050
+[YOU DID WHAT!?]
+Driven by rage, she struggles to tear out of her bonds. She finally relents, giving Master Mind a look fueled by pure hatred.
+ໂດຍຖືກຂັບເຄື່ອນໂດຍຄວາມໂຊກຮ້າຍ, ນາງພະຍາຍາມທີ່ຈະແຍກອອກຈາກສາຍພົວພັນຂອງນາງ.
+ນາງໃນທີ່ສຸດຍອມຮັບ, ໃຫ້ຈິດໃຈ Master ເບິ່ງທີ່ຊຸກຍູ້ໂດຍຄວາມກຽດຊັງທີ່ບໍລິສຸດ.
+
+638
+00:40:56,550 --> 00:40:59,700
+[MASTER MIND]
+Yeah, that's why I decided to tie you up.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍຕັດສິນໃຈຈັບເຈົ້າໄວ້.
+
+639
+00:41:00,200 --> 00:41:03,000
+[ROXANNE]
+You did all this because you wanted purpose?
+ເຈົ້າເຮັດສິ່ງທັງ ຫມົດ ນີ້ເພາະວ່າເຈົ້າຕ້ອງການຈຸດປະສົງບໍ?
+
+640
+00:41:03,500 --> 00:41:05,500
+[MASTER MIND]
+He seemed nice. 88.
+ລາວເບິ່ງຄືວ່າດີເລີດ. 88.
+
+641
+00:41:06,000 --> 00:41:09,500
+[TITAN]
+Closer. I want to show the people my real face.
+ໃກ້ຊິດ. ຂ້ອຍຢາກສະແດງໃບຫນ້າທີ່ແທ້ຈິງຂອງຂ້ອຍໃຫ້ຄົນເຫັນ.
+
+642
+00:41:10,000 --> 00:41:12,000
+[TITAN]
+Recognize me?
+ເຈົ້າຮູ້ຈັກຂ້ອຍບໍ?
+
+643
+00:41:12,500 --> 00:41:18,500
+[ROXANNE]
+Hal Stewart. He's the guy we thought saved that woman and kid. Turned out he was just trying to save his own ass.
+ແຮລ ສຕູເວີດ. ລາວເປັນຜູ້ຊາຍທີ່ພວກເຮົາຄິດວ່າໄດ້ຊ່ວຍຜູ້ຍິງແລະເດັກນ້ອຍນັ້ນ
+. ປາກົດວ່າລາວພຽງແຕ່ພະຍາຍາມຊ່ວຍຫລັງຂອງລາວເອງ.
+
+644
+00:41:19,000 --> 00:41:21,100
+[MASTER MIND]
+Yeah, good to know - NOW!
+ແມ່ນແລ້ວ, ດີໃຈທີ່ຮູ້ - ດຽວນີ້!
+
+645
+00:41:21,600 --> 00:41:26,500
+[TITAN]
+That's right, I'm really Hal Stewart. Former hero and bowling teacher at Kingpin's Bowling.
+ນັ້ນແມ່ນຄວາມຈິງ, ຂ້ອຍເປັນແຮລ ສຕູເວີດແທ້ໆ.
+ອະດີດວິລະຊົນແລະຄູສອນບານບູລິງໃນບານບານຂອງ Kingpin ໄດ້.
+
+646
+00:41:27,000 --> 00:41:30,150
+[ROXANNE]
+You picked a bowler to give super powers to?
+ເຈົ້າເລືອກນັກໂບລເກີເພື່ອໃຫ້ພະລັງພິເສດໃຫ້ບໍ?
+
+647
+00:41:30,650 --> 00:41:32,650
+[MASTER MIND]
+It's a modest profession!
+ມັນເປັນອາຊີບທີ່ອ່ອນແອ!
+
+648
+00:41:33,150 --> 00:41:39,150
+[TITAN]
+With my new found power, I've recently started to wonder what sort of legacy I should leave. Should I be a hero? I tried that once before - even saved a lady and her baby from being squashed. I was treated like a god until everyone started to shit on me - Okay, so what if I didn't "purposely" save them!
+ດ້ວຍພະລັງທີ່ພົບເຫັນ ໃຫມ່ ຂອງຂ້ອຍ, ຂ້ອຍຫາກໍ່ເລີ່ມສົງໄສວ່າຂ້ອຍຄວນປ່ອຍມໍລະດົກປະເພດໃດ. ຂ້ອຍຄວນເປັນວິລະຊົນບໍ? ຂ້ອຍໄດ້ພະຍາຍາມມັນຄັ້ງກ່ອນ -
+ເຖິງແມ່ນວ່າຈະຊ່ວຍຜູ້ຍິງແລະລູກຂອງນາງຈາກການຖືກສັ່ນສະເທືອນ. ຂ້ອຍຖືກປິ່ນປົວຄືກັບພະເຈົ້າຈົນກວ່າທຸກຄົນເລີ່ມສໍ້ໂກງຂ້ອຍ - ດີ, ສະນັ້ນຖ້າຂ້ອຍບໍ່ໄດ້"ຕັ້ງໃຈ" ຊ່ວຍພວກເຂົາແນວໃດ!
+
+649
+00:41:39,650 --> 00:41:45,650
+[TITAN]
+Well, I'm going to make something that can't be taken away from me. I'm going to create a permanent monument to my greatness. One that won't be so easily forgotten or erased.
+ດີ, ຂ້ອຍຈະເຮັດບາງສິ່ງບາງຢ່າງທີ່ບໍ່ສາມາດເອົາຈາກຂ້ອຍໄດ້.
+ຂ້ອຍຈະສ້າງລະດຶກຖາວອນຕໍ່ຄວາມຍິ່ງໃຫຍ່ຂອງຂ້ອຍ. ຫນຶ່ງ ທີ່ຈະບໍ່ຖືກລືມຫຼືລຶບລ້າງງ່າຍດາຍຫຼາຍ.
+
+650
+00:41:46,150 --> 00:41:52,150
+[TITAN]
+I intend to create a new category in the Guinness Book of World's Records by rolling the biggest strike in the history of bowling.
+ຂ້ອຍຕັ້ງໃຈທີ່ຈະສ້າງປະເພດໃຫມ່ໃນປື້ມບັນທຶກໂລກຂອງກິນເນສໂດຍການໂຈມຕີທີ່ໃຫຍ່ທີ່ສຸດໃນປະຫວັດສາດຂອງບານບອລ
+.
+
+651
+00:41:52,650 --> 00:41:57,550
+[TITAN]
+My thanks to the city planning commission. This wouldn't have been possible without them.
+ຂອບໃຈຂອງຂ້ອຍຕໍ່ຄະນະກໍາມະການແຜນການເມືອງ
+. ສິ່ງນີ້ຈະບໍ່ເປັນໄປໄດ້ໂດຍບໍ່ມີພວກເຂົາ.
+
+652
+00:41:58,050 --> 00:42:03,650
+[TITAN]
+Tell your friends and family to tune in right here to this station at noon tomorrow.
+ບອກເພື່ອນມິດແລະຄອບຄົວຂອງທ່ານໃຫ້ຕິດຕໍ່ຢູ່ບ່ອນນີ້ກັບສະຖານີນີ້ໃນຕອນທ່ຽງມື້ອື່ນ
+.
+
+653
+00:42:04,150 --> 00:42:08,000
+[ROXANNE]
+My god, he's nuts. That'll destroy the whole business triangle. 90.
+ພຣະເຈົ້າຂອງຂ້ອຍ, ລາວໂຊກຮ້າຍ. ນັ້ນຈະ
+ທໍາ ລາຍສາມຫຼ່ຽມທຸລະກິດທັງ ຫມົດ. 90.
+
+654
+00:42:08,500 --> 00:42:10,500
+[ROXANNE]
+What?
+ຫຍັງ?
+
+655
+00:42:11,000 --> 00:42:14,500
+[MASTER MIND]
+My lair is in the direct path of the ball.
+ບ່ອນຫຼັງຂອງຂ້ອຍແມ່ນຢູ່ໃນເສັ້ນທາງໂດຍກົງຂອງບານ.
+
+656
+00:42:15,000 --> 00:42:19,550
+[ROXANNE]
+Oh, real nice. Wouldn't want anything to happen to your hideout, would we?
+ໂອ້, ດີແທ້ໆ.
+ພວກເຮົາຈະບໍ່ຢາກໃຫ້ເກີດຫຍັງເກີດຂຶ້ນກັບບ່ອນເຊື່ອງໄວ້ຂອງທ່ານ, ແມ່ນບໍ?
+
+657
+00:42:20,050 --> 00:42:24,250
+[MASTER MIND]
+You don't understand. I have certain equipment that's - that's highly unstable.
+ເຈົ້າບໍ່ເຂົ້າໃຈ. ຂ້ອຍມີອຸປະກອນບາງຢ່າງທີ່ - ນັ້ນບໍ່ ຫມັ້ນ ຄົງຫຼາຍ.
+
+658
+00:42:24,750 --> 00:42:26,750
+[ROXANNE]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+659
+00:42:27,250 --> 00:42:30,050
+[MASTER MIND]
+I sort of have a hydrogen reactor, okay?
+ຂ້ອຍມີຈັກປະຕິກິລິຍາໄຮໂດເຈນ, ດີບໍ?
+
+660
+00:42:30,550 --> 00:42:32,550
+[ROXANNE]
+A HYDROGEN reactor?
+ເຄື່ອງປະຕິກິລິຍາໄຮໂດເຈນບໍ?
+
+661
+00:42:33,050 --> 00:42:39,050
+[MASTER MIND]
+It's experimental - only one in the world...Well, how do you think I power all my inventions? Someone like me can't pay for electricity. The bills would be outrageous.
+ມັນເປັນການທົດລອງ - ພຽງຄົນດຽວໃນໂລກ... ດີ, ເຈົ້າຄິດວ່າຂ້ອຍໃຊ້ພະລັງງານທັງ ຫມົດ
+ຂອງການຄົ້ນຄວ້າຂອງຂ້ອຍແນວໃດ? ຄົນຄືກັບຂ້ອຍບໍ່ສາມາດຈ່າຍຄ່າໄຟຟ້າໄດ້. ຄ່າທໍານຽມຈະໂຊກຮ້າຍຫຼາຍ.
+
+662
+00:42:39,550 --> 00:42:44,100
+[MASTER MIND]
+It creates 100 times the output of a nuclear one...If destroyed it could...
+ມັນສ້າງຜົນຜະລິດ 100 ເທົ່າຂອງອາວຸດນິວເຄລຍ
+... ຖ້າຖືກທໍາລາຍມັນສາມາດ...
+
+663
+00:42:44,600 --> 00:42:46,600
+[ROXANNE]
+- Vaporize the entire city!
+- ປັ່ນປ່ວນເມືອງທັງ ຫມົດ!
+
+664
+00:42:47,100 --> 00:42:53,100
+[MASTER MIND]
+Pshaw...the whole eastern seaboard, actually. That little baby is amazing. I'm quite proud of it. 91. MASTER MIND  I mean...we'd better find a way to stop him.
+ປຊາວ... ຝັ່ງທະເລຕາເວັນອອກທັງ ຫມົດ, ໃນຄວາມເປັນຈິງ. ເດັກນ້ອຍນ້ອຍນັ້ນແປກໃຈ.
+ຂ້ອຍພາກພູມໃຈຫຼາຍກັບມັນ. 91. ຈິດໃຈຜູ້ໃຫຍ່ຂ້ອຍ ຫມາຍ ຄວາມວ່າ... ພວກເຮົາຄວນຊອກຫາວິທີທີ່ຈະຢຸດລາວ.
+
+665
+00:42:53,600 --> 00:42:55,600
+[MASTER MIND]
+Did Uberman have a hideout?
+ໂອເບີແມນມີບ່ອນເຊື່ອງໄວ້ບໍ?
+
+666
+00:42:56,100 --> 00:42:58,100
+[ROXANNE]
+What?
+ຫຍັງ?
+
+667
+00:42:58,600 --> 00:43:04,600
+[MASTER MIND]
+A cave, a solitary fortress of some kind. C'mon, all heros have a place to hang their capes up in. Roxanne, it may be our only chance to find something, a clue, anything that could give us a fighting chance.
+ເປັນຮູຮານ, ເປັນກໍາແພງທີ່ໂດດດ່ຽວຂອງບາງຊະນິດ. ມາແລ້ວ, ນັກວິລະຊົນທັງ ຫມົດ ມີບ່ອນທີ່ຈະວາງກະເປົາຂອງພວກເຂົາໄວ້. ໂຣຊານ,
+ມັນອາດຈະເປັນໂອກາດດຽວຂອງພວກເຮົາທີ່ຈະຊອກຫາບາງສິ່ງບາງຢ່າງ, ຂໍ້ແນະນໍາ, ທຸກສິ່ງທຸກຢ່າງທີ່ສາມາດໃຫ້ພວກເຮົາໂອກາດຕໍ່ສູ້ໄດ້.
+
+668
+00:43:05,100 --> 00:43:07,100
+[ROXANNE]
+It's under his house.
+ມັນຢູ່ພາຍໃຕ້ເຮືອນຂອງລາວ.
+
+669
+00:43:07,600 --> 00:43:09,600
+[MASTER MIND]
+Whose house?
+ເຮືອນຂອງໃຜ?
+
+670
+00:43:10,100 --> 00:43:12,100
+[ROXANNE]
+Wayne Scott's.
+ຂອງເວີນ ສຄອດຕ໌.
+
+671
+00:43:12,600 --> 00:43:17,850
+[MASTER MIND]
+Wayne Scott? Uberman was Wayne Scott!? Wayne Scott, the wealthy philanthropist? But he disappeared -
+ເວີນ ສຄຕ໌? ໂອເບີແມນແມ່ນເວີນ ສກຕ໌!? ເວີນສຄຕຕ໌
+, ນັກບຸນທາດທີ່ອຸດົມສົມບູນບໍ? ແຕ່ລາວຫາຍໄປ -
+
+672
+00:43:18,350 --> 00:43:24,350
+[ROXANNE]
+He disappeared just over two months ago when you killed him. Not only did you rid the world of a hero, you killed a kind, noble, generous man.
+ລາວຫາຍໄປເມື່ອສອງເດືອນກ່ອນເມື່ອເຈົ້າຂ້າລາວ. ບໍ່ພຽງແຕ່ເຈົ້າໄດ້ ກໍາ
+ຈັດໂລກຈາກວິລະຊົນເທົ່ານັ້ນ, ເຈົ້າໄດ້ຂ້າຜູ້ຊາຍທີ່ອ່ອນແອ, ສະເດັດຂາດ, ກຸສົນ.
+
+673
+00:43:24,850 --> 00:43:30,850
+[ROXANNE]
+Looks like you got what you always wanted. Uberman is out of the picture and Metro City is doomed.
+ເບິ່ງຄືວ່າເຈົ້າມີສິ່ງທີ່ເຈົ້າຢາກຢູ່ສະເຫມີ. Uberman
+ແມ່ນອອກຈາກຮູບພາບແລະເມືອງເມຕໂຣຖືກຕັດສິນລົງໂທດ.
+
+674
+00:43:31,350 --> 00:43:37,350
+[MASTER MIND]
+"Metro City doomed." You know, I never thought I'd say something like this, but here it goes -
+ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍບໍ່ເຄີຍຄິດວ່າຂ້ອຍຈະເວົ້າບາງສິ່ງບາງຢ່າງແບບນີ້
+, ແຕ່ມັນຢູ່ບ່ອນນີ້ -
+
+675
+00:43:37,850 --> 00:43:41,000
+[MASTER MIND]
+Not if I have anything to say about it.
+ບໍ່ຖ້າຂ້ອຍມີຫຍັງເວົ້າກ່ຽວກັບມັນ.
+
+676
+00:43:41,500 --> 00:43:47,500
+[MASTER MIND]
+Such a dark place for one such as you. I wonder, underneath your noble deeds, what inner demons drove you to your endless crusade for justice?
+ເປັນບ່ອນມືດຫຼາຍ ສໍາ ລັບຄົນເຊັ່ນເຈົ້າ. ຂ້ອຍສົງໄສວ່າ, ພາຍໃຕ້ການກະ ທໍາ ທີ່ຍິ່ງໃຫຍ່ຂອງທ່ານ,
+ໂຊກຮ້າຍພາຍໃນໃດທີ່ພາທ່ານໄປສູ່ການເດີນຂະບວນການຂ້າມຊາດທີ່ບໍ່ສິ້ນສຸດເພື່ອຄວາມຍຸຕິທໍາຂອງທ່ານ?
+
+677
+00:43:48,000 --> 00:43:51,500
+[MASTER MIND]
+Good lord, man. You've only been dead for two months.
+ພຣະເຈົ້າທີ່ດີ, ຜູ້ຊາຍ. ເຈົ້າຕາຍພຽງແຕ່ສອງເດືອນແລ້ວ.
+
+678
+00:43:52,000 --> 00:43:56,200
+[MASTER MIND]
+A disguise so simple, it's ingenious. No wonder I never caught on.
+ການແຕ່ງຕົວງ່າຍດາຍຫຼາຍ, ມັນມີຄວາມຄິດສ້າງສັນ
+. ບໍ່ແປກໃຈທີ່ຂ້ອຍບໍ່ເຄີຍຈັບໄດ້.
+
+679
+00:43:56,700 --> 00:44:02,700
+[MASTER MIND]
+Two lives, yet in both you were an ideal. Perhaps it was you who was victorious in the end, old friend.
+ຊີວິດສອງຄົນ, ເຖິງຢ່າງໃດກໍ່ຕາມໃນທັງສອງທ່ານເປັນແນວຄິດ
+. ບາງທີມັນແມ່ນເຈົ້າທີ່ຊະນະໃນທີ່ສຸດ, ເພື່ອນເກົ່າ.
+
+680
+00:44:03,200 --> 00:44:05,300
+[MASTER MIND]
+I'll miss how predictable you were.
+ຂ້ອຍຈະຂາດວ່າເຈົ້າຄາດຄະເນໄດ້ຫຼາຍປານໃດ.
+
+681
+00:44:05,800 --> 00:44:09,650
+[MASTER MIND]
+Hello? Anyone here...besides..all the BIG MEN who are with me now?
+ສະບາຍດີ? ມີໃຜຢູ່ບ່ອນນີ້... ນອກຈາກ...
+ຜູ້ຊາຍໃຫຍ່ທຸກຄົນທີ່ຢູ່ກັບຂ້ອຍດຽວນີ້ບໍ?
+
+682
+00:44:10,150 --> 00:44:16,150
+[MASTER MIND]
+What's the worst you're gonna find? 94. MASTER MIND The man was a boy scout, not a serial killer.
+ເຈົ້າຈະພົບສິ່ງທີ່ຮ້າຍແຮງທີ່ສຸດແມ່ນຫຍັງ? 94. ຈິດໃຈ
+MASTER ຜູ້ຊາຍແມ່ນນັກສະກູຕ໌, ບໍ່ແມ່ນຜູ້ຂ້າຊຸດ.
+
+683
+00:44:16,650 --> 00:44:20,500
+[YOU ARE A WORM!]
+She whips him three times. The man CRIES out in pain.
+ນາງຕີລາວສາມຄັ້ງ. ຜູ້ຊາຍຮ້ອງໄຫ້ຈາກຄວາມເຈັບປວດ.
+
+684
+00:44:21,000 --> 00:44:24,150
+[PINEAPPLE!!! PINEAPPLE!!!]
+Master Mind's eyes are transfixed on the disturbing imagery.
+ຕາຂອງເຈົ້າຈິດໃຈຖືກຕິດຕໍ່ກັບຮູບພາບທີ່ລົບກວນ.
+
+685
+00:44:24,650 --> 00:44:26,650
+[MASTER MIND]
+Ahhhhhh!
+ອາຮ້!
+
+686
+00:44:27,150 --> 00:44:29,150
+[WAYNE SCOTT]
+Jesus!
+ພຣະເຢຊູ!
+
+687
+00:44:29,650 --> 00:44:32,450
+[WAYNE SCOTT]
+What the hell are you doing here? 95.
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້? 95.
+
+688
+00:44:32,950 --> 00:44:37,850
+[MASTER MIND]
+I might just ask you the same question. I had thought I incinerated you.
+ຂ້ອຍອາດຈະຖາມເຈົ້າຄືກັນ. ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ເຜົາຜານເຈົ້າ.
+
+689
+00:44:38,350 --> 00:44:44,350
+[WAYNE SCOTT]
+You scared the bejesus out of me. How'd you figure out I was still alive? Wait, how do you know my identity!?
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍຢ້ານກົວຫຼາຍ. ເຈົ້າຄິດວ່າຂ້ອຍຍັງມີຊີວິດຢູ່ແນວໃດ
+? ລໍຖ້າ, ເຈົ້າຮູ້ຕົວຕົນຂອງຂ້ອຍແນວໃດ!?
+
+690
+00:44:44,850 --> 00:44:50,850
+[MASTER MIND]
+Roxanne told me. As for your ruse, I forgot to line the bottom of the copper cage - Somebody pointed that out to me recently. Figured if they could do it, so could you. But one thing I couldn't figure out -
+ໂຣຊານບອກຂ້ອຍ. ກ່ຽວກັບກະຕຸ້ນຂອງທ່ານ, ຂ້ອຍລືມທີ່ຈະແຖບລຸ່ມຂອງກະຕູ້ທອງແດງ - ບາງຄົນຊີ້ໃຫ້ຂ້ອຍເຫັນວ່ານັ້ນເມື່ອບໍ່ດົນມານີ້
+. ຄິດວ່າຖ້າພວກເຂົາສາມາດເຮັດໄດ້, ເຈົ້າກໍ່ສາມາດໄດ້. ແຕ່ສິ່ງ ຫນຶ່ງ ທີ່ຂ້ອຍບໍ່ສາມາດຄິດໄດ້ -
+
+691
+00:44:51,350 --> 00:44:55,900
+[WAYNE SCOTT]
+The skeleton? Something I "borrowed" from a medical school a few months before.
+ກະດູກກະດູກບໍ? ບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍ"ກູ້ຢືມ"
+ຈາກໂຮງຮຽນການແພດສອງສາມເດືອນກ່ອນ.
+
+692
+00:44:56,400 --> 00:44:59,900
+[MASTER MIND]
+A few months? How long had you been planning this?
+ສອງສາມເດືອນບໍ? ເຈົ້າ ກໍາ ລັງວາງແຜນເລື່ອງນີ້ດົນປານໃດ?
+
+693
+00:45:00,400 --> 00:45:06,400
+[WAYNE SCOTT]
+I always planned to retire - eventually. I mean, come on, you can't do this sort of thing in your fifties. You'd just look ridiculous.
+ຂ້ອຍວາງແຜນທີ່ຈະບໍານານຢູ່ສະເຫມີ - ໃນທີ່ສຸດ. ຂ້ອຍຫມາຍຄວາມວ່າ, ມາແລ້ວ
+, ເຈົ້າບໍ່ສາມາດເຮັດສິ່ງນີ້ໃນອາຍຸສິບປີໄດ້. ເຈົ້າພຽງແຕ່ເບິ່ງໂຊກຮ້າຍ.
+
+694
+00:45:06,900 --> 00:45:09,350
+[MASTER MIND]
+I see it all so clearly now.
+ຂ້ອຍເຫັນທຸກຢ່າງຢ່າງຢ່າງຈະແຈ້ງດຽວນີ້.
+
+695
+00:45:09,850 --> 00:45:14,050
+[MASTER MIND]
+You must have done it just seconds before the observatory exploded. 96.
+ເຈົ້າຕ້ອງໄດ້ເຮັດມັນພຽງແຕ່ສອງວິນາທີກ່ອນທີ່ສະຖານີສັງເກດການຈະລະເບີດ
+. 96.
+
+696
+00:45:14,550 --> 00:45:18,750
+[MASTER MIND]
+You bore out from under the cage. Then, using your Uber-Speed, -
+ເຈົ້າລໍາບາກຈາກພາຍໃຕ້ກະຕ່າ. ຫຼັງຈາກນັ້ນ
+, ໂດຍໃຊ້ຄວາມໄວ Uber ຂອງທ່ານ, -
+
+697
+00:45:19,250 --> 00:45:24,850
+[MASTER MIND]
+- you made your way to safety, where you had the skeleton safely hidden away somewhere.
+- ເຈົ້າໄດ້ເດີນທາງໄປສູ່ຄວາມປອດໄພ,
+ບ່ອນທີ່ທ່ານມີກະດູກກະດານກະດາດກະດວງກະດ່າງກະດິງກະດູ້ກະດົງກະດົນກະດຸນກະດຸງກະດອງກະດັງກະດ່ານກະດູນກະດວນກະດູ້ນກະດັນກະດອນກະດັ່ງກະດັ່ນກະດວດກະດຸ່ນກະດ່ຽງກະດ
+
+698
+00:45:25,350 --> 00:45:27,350
+[WAYNE]
+Man, you ARE smart.
+ຜູ້ຊາຍ, ເຈົ້າສະຫຼາດຫຼາຍ.
+
+699
+00:45:27,850 --> 00:45:33,450
+[MASTER MIND]
+But why fake your death? Why go through all of it? You could have just quit.
+ແຕ່ເປັນຫຍັງຕ້ອງປອມຄວາມຕາຍຂອງທ່ານ?
+ເປັນຫຍັງຕ້ອງຜ່ານມັນທັງ ຫມົດ? ເຈົ້າສາມາດຢຸດເຊົາໄດ້.
+
+700
+00:45:33,950 --> 00:45:39,950
+[WAYNE SCOTT]
+But the responsibility would still be there. 97. WAYNE SCOTT A cop can retire and stop handing out speeding tickets - but people expect more from superheroes. I tell you, a volcano couldn't erupt in Zimbabwe without everyone expecting me to do something about it. I figured, out of sight, out of mind.
+ແຕ່ຄວາມຮັບຜິດຊອບຍັງຈະຢູ່ບ່ອນນັ້ນ. 97. WAYNE SCOTT ຕໍາຫຼວດສາມາດອອກບໍານານແລະຢຸດການແຈກຢາຍປີ້ຄວາມໄວ - ແຕ່ຄົນຄາດຫວັງຫຼາຍຈາກ superheroes ໄດ້.
+ຂ້ອຍບອກເຈົ້າ, ພູເຂົາໄຟບໍ່ສາມາດລະເບີດໃນຊິມບັບເວໂດຍບໍ່ມີທຸກຄົນຄາດວ່າຂ້ອຍຈະເຮັດບາງສິ່ງບາງຢ່າງກ່ຽວກັບມັນ. ຂ້ອຍຄິດວ່າ, ອອກຈາກສາຍຕາ, ອອກມາຈາກຈິດໃຈ.
+
+701
+00:45:40,450 --> 00:45:43,600
+[MASTER MIND]
+And Wayne Scott? Why did he have to disappear?
+ແລະເວີນ ສອດຕ໌? ເປັນຫຍັງລາວຈຶ່ງຕ້ອງຫາຍໄປ?
+
+702
+00:45:44,100 --> 00:45:49,350
+[WAYNE SCOTT]
+Both of my lives have so much baggage. It's time for new baggage, you know?
+ຊີວິດຂອງຂ້ອຍທັງສອງມີຖົງທີ່ຫຼາຍປານໃດ.
+ມັນເຖິງເວລາແລ້ວ ສໍາ ລັບຖົງ ໃຫມ່, ເຈົ້າຮູ້ບໍ?
+
+703
+00:45:49,850 --> 00:45:55,850
+[MASTER MIND]
+I just can't believe it. This whole time you've been in hiding while a force of great evil is tearing your city apart?
+ຂ້ອຍພຽງແຕ່ບໍ່ເຊື່ອມັນໄດ້. ຕະຫຼອດເວລານີ້ເຈົ້າໄດ້ເຊື່ອງໄວ້ໃນຂະນະທີ່ພະລັງຂອງຄວາມຮ້າຍແຮງທີ່ຍິ່ງໃຫຍ່
+ກໍາ ລັງແຕກຕົວເມືອງຂອງທ່ານ?
+
+704
+00:45:56,350 --> 00:46:02,350
+[WAYNE SCOTT]
+I don't want to hear about it. That's why I don't have a television in here to remind me of all the things I SHOULD be doing. Hell, I could get a wife to do that.
+ຂ້ອຍບໍ່ຢາກໄດ້ຍິນກ່ຽວກັບມັນ. ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍບໍ່ມີໂທລະພາບຢູ່ນີ້ເພື່ອເຕືອນຂ້ອຍກ່ຽວກັບສິ່ງທັງ
+ຫມົດ ທີ່ຂ້ອຍຄວນເຮັດ. ສະບາຍດີ, ຂ້ອຍສາມາດເຮັດໃຫ້ເມຍເຮັດສິ່ງນັ້ນໄດ້.
+
+705
+00:46:02,850 --> 00:46:08,100
+[MASTER MIND]
+There's a demented supervillain out there about to destroy our - I mean, your city.
+ມີຄົນຮ້າຍໃຫຍ່ທີ່ໂຊກຮ້າຍຢູ່ບ່ອນນັ້ນ ກໍາ
+ລັງຈະທໍາລາຍຂອງພວກເຮົາ - ຂ້ອຍຫມາຍຄວາມວ່າ, ເມືອງຂອງທ່ານ.
+
+706
+00:46:08,600 --> 00:46:10,700
+[MASTER MIND]
+You're really going to do nothing?
+ເຈົ້າຈະເຮັດຫຍັງເລີຍບໍ?
+
+707
+00:46:11,200 --> 00:46:17,200
+[WAYNE SCOTT]
+Good and evil have a way of balancing themselves out. If this guy is as bad as you say, somebody will rise up to fight him. It's just the order of things. You found me, didn't you? 98.
+ຄວາມດີແລະຄວາມຊົ່ວຮ້າຍມີວິທີທີ່ຈະສົມດຸນຕົວເອງ. ຖ້າຄົນນີ້ຮ້າຍແຮງເທົ່າທີ່ທ່ານເວົ້າ,
+ບາງຄົນຈະຂຶ້ນເພື່ອຕໍ່ສູ້ກັບລາວ. ມັນເປັນພຽງແຕ່ການຈັດການຂອງສິ່ງຕ່າງໆ. ເຈົ້າພົບຂ້ອຍ, ແມ່ນບໍ? 98.
+
+708
+00:46:17,700 --> 00:46:21,200
+[WAYNE SCOTT]
+I know it's hard, but you'll find someone else someday.
+ຂ້ອຍຮູ້ວ່າມັນຍາກ, ແຕ່ເຈົ້າຈະຊອກຫາຄົນອື່ນໃນມື້ຫນຶ່ງ.
+
+709
+00:46:21,700 --> 00:46:24,500
+[MASTER MIND]
+You're the only one who can stop him.
+ເຈົ້າເປັນຄົນດຽວທີ່ສາມາດຢຸດລາວໄດ້.
+
+710
+00:46:25,000 --> 00:46:28,500
+[WAYNE SCOTT]
+Couldn't if I wanted to. Gotta a plane to catch.
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ຖ້າຂ້ອຍຢາກ. ຂ້ອຍຕ້ອງຈັບເຮືອບິນ.
+
+711
+00:46:29,000 --> 00:46:31,000
+[MASTER MIND]
+A plane?
+ເຮືອບິນບໍ?
+
+712
+00:46:31,500 --> 00:46:37,500
+[WAYNE SCOTT]
+Going to Barbados for a little change in climate. Now, if you'll excuse me, I got to go pack.
+ຂ້ອຍຈະໄປບາບາໂດສ ສໍາ ລັບການປ່ຽນແປງດິນຟ້າອາກາດ ຫນ້ອຍ
+ຫນຶ່ງ. ດຽວນີ້, ຖ້າເຈົ້າຂໍໂທດຂ້ອຍ, ຂ້ອຍຕ້ອງໄປເກັບເຄື່ອງ.
+
+713
+00:46:38,000 --> 00:46:44,000
+[WAYNE SCOTT]
+You were a good foe. I'm sorry if I've let you down. If it makes a difference, you were the best foe a hero could ask for.
+ເຈົ້າເປັນສັດຕູທີ່ດີ. ຂ້ອຍຂໍໂທດຖ້າຂ້ອຍເຮັດໃຫ້ເຈົ້າຜິດຫວັງ.
+ຖ້າມັນມີຄວາມແຕກຕ່າງ, ເຈົ້າເປັນ ສັດຕູທີ່ດີທີ່ສຸດທີ່ວິລະຊົນສາມາດຂໍໄດ້.
+
+714
+00:46:44,500 --> 00:46:48,000
+[MASTER MIND]
+Not smart enough to come up with a full-proof trap.
+ບໍ່ສະຫຼາດພໍທີ່ຈະຄິດຫາແຄບທີ່ພິສູດຢ່າງເຕັມທີ່.
+
+715
+00:46:48,500 --> 00:46:54,500
+[WAYNE SCOTT]
+Well, you did almost have me when you figured out my weakness was copper. Now that made me sweat a little. Took me way too long to drill out from under that cage.
+ດີ, ເຈົ້າເກືອບມີຂ້ອຍເມື່ອເຈົ້າຮູ້ວ່າຄວາມອ່ອນແອຂອງຂ້ອຍແມ່ນທອງແດງ.
+ດຽວນີ້ມັນເຮັດໃຫ້ຂ້ອຍຫວານເລັກນ້ອຍ. ຂ້ອຍໃຊ້ເວລາຫຼາຍເກີນໄປທີ່ຈະຂຸດຄົ້ນອອກຈາກພາຍໃຕ້ກະຕ່ານັ້ນ.
+
+716
+00:46:55,000 --> 00:46:57,000
+[MASTER MIND]
+I got lucky.
+ຂ້ອຍໂຊກດີ.
+
+717
+00:46:57,500 --> 00:47:03,500
+[WAYNE SCOTT]
+Anyway, it's a good thing for my sake that I could always count on you for an out. 99.
+ຢ່າງໃດກໍຕາມ, ມັນເປັນສິ່ງທີ່ດີ ສໍາ
+ລັບຂ້ອຍທີ່ຂ້ອຍສາມາດເຊື່ອຖືເຈົ້າໄດ້ຕະຫຼອດເວລາ ສໍາ ລັບການອອກໄປ. 99.
+
+718
+00:47:04,000 --> 00:47:06,000
+[MASTER MIND]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+719
+00:47:06,500 --> 00:47:12,500
+[WAYNE SCOTT]
+C'mon, we always threw each other a couple of bones. You would always leave me an out in one of your `full-proof' traps, and I'd never had you incarcerated at a penitentiary that you couldn't eventually escape from. It kept our little game going.
+ມາແລ້ວ, ພວກເຮົາສະເຫມີຖິ້ມກະດູກສອງສາມຄົນກັນແລະກັນ. ເຈົ້າຈະປ່ອຍຂ້ອຍອອກຈາກ ຫນຶ່ງ ໃນແຄບຂອງເຈົ້າຢ່າງເຕັມທີ່,
+ແລະຂ້ອຍບໍ່ເຄີຍເຮັດໃຫ້ເຈົ້າຖືກຄຸມຂັງໃນຄຸກທີ່ເຈົ້າບໍ່ສາມາດຫນີໄດ້ໃນທີ່ສຸດ. ມັນເຮັດໃຫ້ເກມນ້ອຍຂອງພວກເຮົາ ດໍາ ເນີນໄປ.
+
+720
+00:47:13,000 --> 00:47:19,000
+[MASTER MIND]
+Game? - Was that all this ever was to you? You know, I was trying my best every time I fought you. Those `outs' as you call them were unintentional.
+ເກມບໍ? - ນັ້ນແມ່ນສິ່ງທັງ ຫມົດ ນີ້ເຄີຍເປັນ ສໍາ ລັບເຈົ້າບໍ? ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍ ກໍາ
+ລັງພະຍາຍາມດີທີ່ສຸດທຸກຄັ້ງທີ່ຂ້ອຍຕໍ່ສູ້ກັບເຈົ້າ. ພວກຄົນນອກນັ້ນດັ່ງທີ່ທ່ານເອີ້ນພວກມັນແມ່ນບໍ່ຕັ້ງໃຈ.
+
+721
+00:47:19,500 --> 00:47:21,500
+[WAYNE SCOTT]
+Oh.
+ໂອ້.
+
+722
+00:47:22,000 --> 00:47:26,200
+[MASTER MIND]
+I guess I was never really a match for you, was I?
+ຂ້ອຍຄິດວ່າຂ້ອຍບໍ່ເຄີຍເປັນຄູ່ແຂ່ງກັບເຈົ້າແທ້ໆ, ແມ່ນບໍ?
+
+723
+00:47:26,700 --> 00:47:30,200
+[MASTER MIND]
+Then how can I expect to be one for Titan?
+ຫຼັງຈາກນັ້ນຂ້ອຍສາມາດຄາດຫວັງວ່າຈະເປັນຄົນ
+ຫນຶ່ງ ສໍາ ລັບໄຕຕານໄດ້ແນວໃດ?
+
+724
+00:47:30,700 --> 00:47:32,700
+[MASTER MIND]
+What about Roxanne?
+ຈະເປັນແນວໃດກັບໂຣຊານ?
+
+725
+00:47:33,200 --> 00:47:39,200
+[WAYNE SCOTT]
+I think we both got what we wanted out of our relationship. She got a career out of me, and I got plenty of other things out of her. But I'm ready to move on to greener pastures. 100.
+ຂ້ອຍຄິດວ່າພວກເຮົາທັງສອງໄດ້ຮັບສິ່ງທີ່ພວກເຮົາຕ້ອງການຈາກຄວາມສໍາພັນຂອງພວກເຮົາ. ນາງໄດ້ຮັບອາຊີບຈາກຂ້ອຍ
+, ແລະຂ້ອຍໄດ້ຮັບສິ່ງອື່ນໆຫຼາຍຢ່າງຈາກນາງ. ແຕ່ຂ້ອຍພ້ອມທີ່ຈະຍ້າຍໄປສູ່ກະຕ່າສີຂຽວກວ່າເກົ່າ. 100.
+
+726
+00:47:39,700 --> 00:47:45,700
+[MASTER MIND]
+I guess I wasn't the villain I thought I was, and you...you weren't the hero I thought you were.
+ຂ້ອຍຄິດວ່າຂ້ອຍບໍ່ແມ່ນຄົນຮ້າຍທີ່ຂ້ອຍຄິດວ່າເປັນ, ແລະເຈົ້າ
+... ເຈົ້າບໍ່ແມ່ນວິລະຊົນທີ່ຂ້ອຍ ຄິດວ່າເຈົ້າເປັນ.
+
+727
+00:47:46,200 --> 00:47:48,300
+[WAYNE SCOTT]
+Roxanne! How long have you been...
+ໂຣຊານ! ເຈົ້າເປັນເວລາຫຼາຍປານໃດ...
+
+728
+00:47:48,800 --> 00:47:50,800
+[ROXANNE]
+Long enough.
+ດົນພໍແລ້ວ.
+
+729
+00:47:51,300 --> 00:47:54,450
+[ROXANNE]
+Don't you have something else you can go do?
+ເຈົ້າບໍ່ມີຫຍັງອີກທີ່ທ່ານສາມາດໄປເຮັດໄດ້ບໍ?
+
+730
+00:47:54,950 --> 00:47:58,800
+[TITAN]
+Alright, I want this whole thing to look ESPN professional, understand?
+ດີແລ້ວ, ຂ້ອຍຢາກໃຫ້ເລື່ອງທັງ ຫມົດ
+ນີ້ເບິ່ງຄືວ່າເປັນມືອາຊີບ ESPN, ເຂົ້າໃຈບໍ?
+
+731
+00:47:59,300 --> 00:48:04,900
+[TITAN]
+You guys are about to get some good footage. I might need a little room, though.
+ພວກເຈົ້າ ກໍາ ລັງຈະໄດ້ຮັບຮູບພາບທີ່ດີ.
+ຂ້ອຍອາດຈະຕ້ອງການຫ້ອງນ້ອຍໆ, ເຖິງຢ່າງໃດກໍ່ຕາມ.
+
+732
+00:48:05,400 --> 00:48:11,400
+[TANK LOUDSPEAKER]
+Titan, we have orders from the city of Metro to take you into custody. If you do not give your self up willingly, we will be forced to open fire.
+ໄຕຕານ, ພວກເຮົາມີຄໍາສັ່ງຈາກເມືອງເມຕຣູທີ່ຈະເອົາເຈົ້າເຂົ້າໃນການຄວບຄຸມຕົວ
+. ຖ້າເຈົ້າບໍ່ມອບຕົວເອງດ້ວຍຄວາມເຕັມໃຈ, ພວກເຮົາຈະຖືກບັງຄັບໃຫ້ເປີດຍິງ.
+
+733
+00:48:11,900 --> 00:48:13,900
+[TANK LOUDSPEAKER]
+What is your answer?
+ຄໍາຕອບຂອງທ່ານແມ່ນຫຍັງ?
+
+734
+00:48:14,400 --> 00:48:16,400
+[TITAN]
+Miss me?
+ເຈົ້າຂາດຂ້ອຍບໍ?
+
+735
+00:48:16,900 --> 00:48:20,400
+[TITAN]
+Didn't mean to get you involved in all of this.
+ຂ້ອຍບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະເຮັດໃຫ້ເຈົ້າມີສ່ວນຮ່ວມໃນສິ່ງທັງ ຫມົດ ນີ້.
+
+736
+00:48:20,900 --> 00:48:23,000
+[TITAN]
+Hey, man! You killed my suds!
+ເຮ້, ຜູ້ຊາຍ! ເຈົ້າໄດ້ຂ້າ suds ຂອງຂ້ອຍ!
+
+737
+00:48:23,500 --> 00:48:25,600
+[TITAN]
+That's one was for you, beer.
+ນັ້ນແມ່ນຫນຶ່ງແມ່ນສໍາລັບເຈົ້າ, ເບຍ.
+
+738
+00:48:26,100 --> 00:48:29,250
+[TITAN]
+Guys, please tell me you got that last bit.
+ພວກຜູ້ຊາຍ, ກະລຸນາບອກຂ້ອຍວ່າເຈົ້າໄດ້ຊິ້ນສ່ວນສຸດທ້າຍນັ້ນ.
+
+739
+00:48:29,750 --> 00:48:31,750
+[BRAD HELMS]
+Huh?
+ຮາ?
+
+740
+00:48:32,250 --> 00:48:38,250
+[TITAN]
+You're kidding me. I give you my sexiest moves and you mean to tell me it was for nothing?
+ເຈົ້າ ກໍາ ລັງໂຊກຮ້າຍຂ້ອຍ. ຂ້ອຍໃຫ້ເຈົ້າການເຄື່ອນໄຫວທີ່ ຫນ້າ
+ສົນໃຈທີ່ສຸດຂອງຂ້ອຍແລະເຈົ້າ ຫມາຍ ຄວາມວ່າຈະບອກຂ້ອຍວ່າມັນບໍ່ມີຫຍັງເລີຍບໍ?
+
+741
+00:48:38,750 --> 00:48:41,200
+[BRAD HELMS]
+We were afraid something might hit us.
+ພວກເຮົາຢ້ານວ່າບາງສິ່ງບາງຢ່າງອາດຈະຕີພວກເຮົາ.
+
+742
+00:48:41,700 --> 00:48:46,250
+[TITAN]
+Looks like I've given the story of the century to the wrong man.
+ເບິ່ງຄືວ່າຂ້ອຍໄດ້ໃຫ້ເລື່ອງຂອງສະຕະວັດໃຫ້ຜູ້ຊາຍທີ່ບໍ່ຖືກຕ້ອງ.
+
+743
+00:48:46,750 --> 00:48:52,700
+[TITAN]
+Wait. What about that other reporter. Blond. Not so lumpy on the topper half, but killer legs.
+ລໍຖ້າ. ຈະເປັນແນວໃດກັບນັກຂ່າວຄົນອື່ນນັ້ນ. ບລອນດ໌
+. ບໍ່ເປັນກະດູກຫຼາຍໃນເຄິ່ງເທິງ, ແຕ່ຕີນຜູ້ຂ້າ.
+
+744
+00:48:53,200 --> 00:48:58,450
+[BRAD HELMS]
+Roxanne. You want Roxanne. She's a much better reporter than I am. You want her.
+ໂຣຊານ. ເຈົ້າຕ້ອງການໂຣຊານນ໌.
+ນາງເປັນນັກຂ່າວທີ່ດີກວ່າຂ້ອຍຫຼາຍ. ເຈົ້າຢາກນາງ.
+
+745
+00:48:58,950 --> 00:49:00,950
+[TITAN]
+Where can I find her.
+ຂ້ອຍຈະພົບນາງຢູ່ໃສ.
+
+746
+00:49:01,450 --> 00:49:05,300
+[FRANK]
+We're actually not supposed to give out that sort of information.
+ພວກເຮົາບໍ່ຄວນໃຫ້ຂໍ້ມູນປະເພດນັ້ນ.
+
+747
+00:49:05,800 --> 00:49:09,300
+[BRAD HELMS]
+1314 Mockingbird Lane. I believe she lives in a penthouse.
+ຂ້ອຍເຊື່ອວ່ານາງອາໄສຢູ່ໃນເຮືອນສູງ.
+
+748
+00:49:09,800 --> 00:49:11,800
+[TITAN]
+You've been very helpful.
+ເຈົ້າຊ່ວຍຫຼາຍ.
+
+749
+00:49:12,300 --> 00:49:16,150
+[MASTER MIND]
+Hurry, we must be on our way as soon as possible.
+ໄວໆ, ພວກເຮົາຕ້ອງເດີນທາງໄປໄວທີ່ສຸດທີ່ເປັນໄປໄດ້.
+
+750
+00:49:16,650 --> 00:49:18,650
+[DA VINCI]
+Master, why must we flee?
+ເຈົ້າ, ເປັນຫຍັງພວກເຮົາຈຶ່ງຕ້ອງຫນີ?
+
+751
+00:49:19,150 --> 00:49:25,150
+[MASTER MIND]
+I told you, Titan is too powerful. If he's set on destroying us, there's precious little we could do about it.
+ຂ້ອຍບອກເຈົ້າແລ້ວ, ໄຕຕານມີຄວາມເຂັ້ມແຂງເກີນໄປ. ຖ້າລາວຕັ້ງໃຈທີ່ຈະ ທໍາ
+ລາຍພວກເຮົາ, ມີ ຫນ້ອຍ ທີ່ປະເສີດທີ່ພວກເຮົາສາມາດເຮັດໄດ້ກ່ຽວກັບມັນ.
+
+752
+00:49:25,650 --> 00:49:27,650
+[DA VINCI]
+Where are we going? 104.
+ພວກເຮົາຈະໄປໃສ? 104.
+
+753
+00:49:28,150 --> 00:49:34,150
+[MASTER MIND]
+To another city, someplace with a shitload of superheroes to fight. We'll start over, we'll go back to doing what we do best.
+ໄປເມືອງອື່ນ, ບ່ອນທີ່ມີ superheroes ຫຼາຍຢ່າງທີ່ຈະຕໍ່ສູ້. ພວກເຮົາຈະເລີ່ມຕົ້ນໃຫມ່
+, ພວກເຮົາຈະກັບຄືນໄປບ່ອນເຮັດສິ່ງທີ່ພວກເຮົາເຮັດທີ່ດີທີ່ສຸດ.
+
+754
+00:49:34,650 --> 00:49:36,750
+[PLATO]
+With our tails between our legs?
+ດ້ວຍຫອຍຂອງພວກເຮົາລະຫວ່າງຕີນຂອງພວກເຮົາບໍ?
+
+755
+00:49:37,250 --> 00:49:39,700
+[MASTER MIND]
+Plato, do you have a better plan?!
+ປລາໂຕ, ເຈົ້າມີແຜນການທີ່ດີກວ່າບໍ?!
+
+756
+00:49:40,200 --> 00:49:42,200
+[MASTER MIND]
+Hello...Roxanne?
+ສະບາຍດີ... ໂຣຊານ?
+
+757
+00:49:42,700 --> 00:49:45,500
+[ROXANNE]
+What are you going to do about Tighten?
+ເຈົ້າຈະເຮັດແນວໃດກັບ Tighten?
+
+758
+00:49:46,000 --> 00:49:50,200
+[MASTER MIND]
+Right now I'm packing, later I'll have a snack on the train.
+ດຽວນີ້ຂ້ອຍ ກໍາ ລັງເກັບເຄື່ອງ, ຕໍ່ມາຂ້ອຍຈະກິນອາຫານຫວ່າງໃນລົດໄຟ.
+
+759
+00:49:50,700 --> 00:49:52,700
+[ROXANNE]
+You're running away?
+ເຈົ້າກໍາລັງຫນີໄປບໍ?
+
+760
+00:49:53,200 --> 00:49:55,200
+[MASTER MIND]
+In a word - yes.
+ໃນຄໍາດຽວ - ແມ່ນແລ້ວ.
+
+761
+00:49:55,700 --> 00:49:57,700
+[ROXANNE]
+You created this monster...
+ເຈົ້າໄດ້ສ້າງໂມສເຕີນີ້...
+
+762
+00:49:58,200 --> 00:50:04,200
+[MASTER MIND]
+I didn't create this - the god's of irony did and I am eating the crow I so richly deserve.
+ຂ້ອຍບໍ່ໄດ້ສ້າງສິ່ງນີ້ - ພຣະເຈົ້າຂອງຄວາມໂຊກຮ້າຍໄດ້ເຮັດແລະຂ້ອຍ
+ກໍາ ລັງກິນກະຕ່າທີ່ຂ້ອຍສົມຄວນຢ່າງອຸດົມສົມບູນ.
+
+763
+00:50:04,700 --> 00:50:07,150
+[ROXANNE]
+There's no time for self pity. 105.
+ບໍ່ມີເວລາທີ່ຈະເຫັນໃຈຕົວເອງ. 105.
+
+764
+00:50:07,650 --> 00:50:09,650
+[MASTER MIND]
+I'll make the time.
+ຂ້ອຍຈະໃຊ້ເວລາ.
+
+765
+00:50:10,150 --> 00:50:12,950
+[MASTER MIND]
+You can leave with us. You'll be safe.
+ເຈົ້າສາມາດອອກຈາກກັບພວກເຮົາໄດ້. ເຈົ້າຈະປອດໄພ.
+
+766
+00:50:13,450 --> 00:50:15,450
+[ROXANNE]
+I'm not going anywhere.
+ຂ້ອຍຈະບໍ່ໄປໃສເລີຍ.
+
+767
+00:50:15,950 --> 00:50:19,450
+[MASTER MIND]
+Will you listen to me, no one can stop him.
+ເຈົ້າຈະຟັງຂ້ອຍບໍ, ບໍ່ມີໃຜສາມາດຢຸດລາວໄດ້.
+
+768
+00:50:19,950 --> 00:50:23,100
+[ROXANNE]
+You have to try. The city needs your help.
+ເຈົ້າຕ້ອງພະຍາຍາມ. ເມືອງຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ.
+
+769
+00:50:23,600 --> 00:50:26,750
+[MASTER MIND]
+I'm afraid you have an inflated opinion of me.
+ຂ້ອຍຢ້ານວ່າເຈົ້າມີຄວາມຄິດເຫັນທີ່ໂຊກຮ້າຍກ່ຽວກັບຂ້ອຍ.
+
+770
+00:50:27,250 --> 00:50:33,250
+[ROXANNE]
+What the hell's happened to you? The Master Mind I knew would never have run from a fight even though he knew deep in his heart that he didn't have a chance in hell of winning it. It was your best quality. You need to be that man right now...I...
+ເກີດຫຍັງຂຶ້ນກັບເຈົ້າ? ຈິດໃຈ Master ທີ່ຂ້ອຍຮູ້ຈັກຈະບໍ່ຫນີຈາກການຕໍ່ສູ້ເຖິງແມ່ນວ່າລາວຮູ້ຢ່າງເລິກເຊິ່ງໃນຫົວໃຈຂອງລາວວ່າລາວບໍ່ມີໂອກາດໃນການຊະນະມັນ
+. ມັນແມ່ນຄຸນນະພາບທີ່ດີທີ່ສຸດຂອງທ່ານ. ເຈົ້າຕ້ອງເປັນຜູ້ຊາຍນັ້ນໃນເວລານີ້... ຂ້ອຍ...
+
+771
+00:50:33,750 --> 00:50:35,750
+[MASTER MIND]
+What?
+ຫຍັງ?
+
+772
+00:50:36,250 --> 00:50:38,250
+[ROXANNE]
+I believe in you.
+ຂ້ອຍເຊື່ອເຈົ້າ.
+
+773
+00:50:38,750 --> 00:50:43,300
+[MASTER MIND]
+Sweet words, but that man is dead. Please, Roxanne, just come with me.
+ຄໍາເວົ້າທີ່ຫວານ, ແຕ່ຜູ້ຊາຍຄົນນັ້ນຕາຍແລ້ວ
+. ກະລຸນາ, ໂຣຊານ, ພຽງແຕ່ມາກັບຂ້ອຍ.
+
+774
+00:50:43,800 --> 00:50:46,600
+[ROXANNE]
+No...I guess you are a coward after all.
+ບໍ່... ຂ້ອຍຄິດວ່າເຈົ້າເປັນຄົນກ້າຫານໃນທີ່ສຸດ.
+
+775
+00:50:47,100 --> 00:50:49,900
+[TITAN]
+Man, have I got a story for you.
+ຜູ້ຊາຍ, ຂ້ອຍມີເລື່ອງ ສໍາ ລັບເຈົ້າບໍ.
+
+776
+00:50:50,400 --> 00:50:52,400
+[MASTER MIND]
+Roxanne? Roxanne?
+ໂຣັກຊານ? ໂຣກຊານບໍ?
+
+777
+00:50:52,900 --> 00:50:56,400
+[TITAN]
+What pose would be best? The corny folded arms thing?
+ຮູບແບບໃດຈະດີທີ່ສຸດ? ເລື່ອງແຂນທີ່ຫຸ້ມຫໍ່ທີ່ສວຍງາມບໍ?
+
+778
+00:50:56,900 --> 00:50:59,350
+[TITAN]
+Or maybe on the hips, like this.
+ຫຼືບາງທີຢູ່ເທິງກະຕ່າ, ແບບນີ້.
+
+779
+00:50:59,850 --> 00:51:02,650
+[TITAN]
+No, makes me look like a flamer pirate.
+ບໍ່, ເຮັດໃຫ້ຂ້ອຍເບິ່ງຄືວ່າເປັນຄົນລັກລອບໄຟໄຫມ້.
+
+780
+00:51:03,150 --> 00:51:07,000
+[FRANK]
+Shouldn't we be making a run for it right about now?
+ພວກເຮົາບໍ່ຄວນແລ່ນໄປຫາມັນໃນເວລານີ້ບໍ?
+
+781
+00:51:07,500 --> 00:51:13,500
+[ROXANNE]
+The guy can outrun bullets. I don't think either one of us is in that kind of shape.
+ຜູ້ຊາຍຄົນນັ້ນສາມາດຫນີລູກປືນໄດ້.
+ຂ້ອຍບໍ່ຄິດວ່າໃຜໃນພວກເຮົາຢູ່ໃນຮູບແບບນັ້ນ.
+
+782
+00:51:14,000 --> 00:51:16,000
+[TITAN]
+She's right, Frank. 107.
+ນາງເວົ້າຖືກຕ້ອງ, ແຟຣນກ໌. 107.
+
+783
+00:51:16,500 --> 00:51:22,500
+[TITAN]
+Also got super hearing. I promise not to keep the both of you long, but you'll thank me when this is all over.
+ຂ້ອຍຍັງມີຄວາມຍິນດີເລີດອີກດ້ວຍ. ຂ້ອຍສັນຍາວ່າຈະບໍ່ຮັກສາເຈົ້າທັງສອງໄວ້ດົນນານ
+, ແຕ່ເຈົ້າຈະຂອບໃຈຂ້ອຍເມື່ອສິ່ງນີ້ສິ້ນສຸດລົງ.
+
+784
+00:51:23,000 --> 00:51:29,000
+[MASTER MIND]
+Dad, it's me...  ...Bubsy. I know we haven't talked in a while, and I'm sorry. It's been a little crazy trying to live up to a legacy.
+ພໍ່, ມັນແມ່ນຂ້ອຍ... ບັບຊີ. ຂ້ອຍຮູ້ວ່າພວກເຮົາບໍ່ໄດ້ເວົ້າກັນເປັນເວລາດົນນານແລ້ວ
+, ແລະຂ້ອຍຂໍໂທດ. ມັນເປັນຄວາມໂຊກຮ້າຍ ຫນ້ອຍ ຫນຶ່ງ ທີ່ພະຍາຍາມປະຕິບັດຕາມມໍລະດົກ.
+
+785
+00:51:29,500 --> 00:51:35,500
+[MASTER MIND]
+Anyway...You raised me to be the worst that I could possibly be. And I've tried to live up to that as best as I could - even dropping out of dentistry school like you wanted me to. But I'm about to do something now that would really piss you off. I'm going to go against everything you ever taught me. I hope...I hope that maybe you'll look down at what I'm about to do as not so much a good deed, but more like the outright defiance of a hateful and ungrateful, son. If you could do that, then maybe - in your own little way - you could - for probably the first time - find a reason to be proud of me.
+ຢ່າງໃດກໍຕາມ... ເຈົ້າໄດ້ລ້ຽງຂ້ອຍໃຫ້ເປັນສິ່ງທີ່ຮ້າຍແຮງທີ່ສຸດທີ່ຂ້ອຍສາມາດເປັນໄດ້. ແລະຂ້ອຍໄດ້ພະຍາຍາມຢູ່ຕາມນັ້ນໄດ້ດີທີ່ສຸດທີ່ຂ້ອຍເຮັດໄດ້ - ເຖິງແມ່ນວ່າຈະອອກຈາກໂຮງຮຽນການແພດແຂ້ວຄືກັບເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດ. ແຕ່ຂ້ອຍ ກໍາ
+ລັງຈະເຮັດບາງສິ່ງບາງຢ່າງດຽວນີ້ທີ່ຈະເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍແທ້ໆ. ຂ້ອຍຈະໄປຕໍ່ຕ້ານທຸກຢ່າງທີ່ທ່ານເຄີຍສອນຂ້ອຍ. ຂ້ອຍຫວັງວ່າ... ຂ້ອຍຫວັງວ່າທ່ານອາດຈະເບິ່ງສິ່ງທີ່ຂ້ອຍ ກໍາ ນົດທີ່ຈະເຮັດບໍ່ເປັນການເຮັດທີ່ດີຫຼາຍປານໃດ, ແຕ່ຄືກັບການທ້າທາຍໂດຍກົງຂອງລູກ
+
+786
+00:51:36,000 --> 00:51:39,850
+[MASTER MIND]
+Well...either way, you're probably going to see me real soon.  Men?
+ດີ... ຢ່າງໃດກໍຕາມ, ເຈົ້າອາດຈະເຫັນຂ້ອຍໃນໄວໆນີ້. ຜູ້ຊາຍ?
+
+787
+00:51:40,350 --> 00:51:42,350
+[PLATO AND DA VINCI]
+Yes Sir?
+ແມ່ນແລ້ວເດີ?
+
+788
+00:51:42,850 --> 00:51:45,650
+[MASTER MIND]
+Stop packing. Our work is not finished here.
+ຢຸດການຫຸ້ມຫໍ່. ວຽກງານຂອງພວກເຮົາຍັງບໍ່ສິ້ນສຸດລົງຢູ່ນີ້.
+
+789
+00:51:46,150 --> 00:51:52,150
+[REPORTER]
+We interrupt your regular afternoon programming to show you live footage of a potential dangerous situation in downtown Metro. The former hero knows as Titan is placing what appears to be a giant ball...
+ພວກເຮົາຢຸດການຂຽນໂປແກຼມຕອນບ່າຍປົກກະຕິຂອງທ່ານເພື່ອສະແດງຮູບພາບສົດຂອງສະຖານະການອັນຕະລາຍທີ່ເປັນໄປໄດ້ໃນໃຈກາງເມືອງເມຕໂຣ
+. ນັກວິລະຊົນເກົ່າຮູ້ວ່າໄຕຕານ ກໍາ ລັງວາງສິ່ງທີ່ເບິ່ງຄືວ່າເປັນບານໃຫຍ່...
+
+790
+00:51:52,650 --> 00:51:58,650
+[REPORTER]
+Hold on...It appears our own Roxanne Ritchi is somehow at the scene. We now go to her with a live report.
+ລໍຖ້າ... ມັນເບິ່ງຄືວ່າ Roxanne Ritchi
+ຂອງພວກເຮົາເອງຢູ່ບ່ອນເກີດເຫດບາງຢ່າງ. ດຽວນີ້ພວກເຮົາໄປຫານາງດ້ວຍລາຍງານສົດ.
+
+791
+00:51:59,150 --> 00:52:01,600
+[DA VINCI]
+Sir, I think you should see this!
+ເຈົ້າ, ຂ້ອຍຄິດວ່າເຈົ້າຄວນເຫັນສິ່ງນີ້!
+
+792
+00:52:02,100 --> 00:52:08,100
+[ROXANNE]
+I'm here with the cause of the destruction in Metro City. He has kidnapped me and a cameraman to chronicle what he refers to as the creation of a monument to his invincibility and overall "Asskickiness." He will use this giant concrete bowling ball to play the largest game of bowling ever using the buildings of downtown Metro City as his pins.
+ຂ້ອຍຢູ່ບ່ອນນີ້ດ້ວຍສາເຫດຂອງການ ທໍາ ລາຍໃນເມືອງແມຕຣູ. ລາວໄດ້ລັກພາຕົວຂ້ອຍແລະນັກຖ່າຍຮູບເພື່ອບັນທຶກສິ່ງທີ່ລາວອ້າງເຖິງວ່າເປັນການສ້າງຕັ້ງອະນຸສາວະລີຕໍ່ຄວາມບໍ່ສາມາດເອົາຊະນະຂອງລາວແລະໂດຍລວມ"Asskickiness
+." ລາວຈະໃຊ້ບານໂບລິງຄອນກີດທີ່ຍິ່ງໃຫຍ່ນີ້ເພື່ອຫຼິ້ນເກມບູລິງທີ່ໃຫຍ່ທີ່ສຸດທີ່ເຄີຍໃຊ້ອາຄານຂອງໃຈກາງເມືອງແມັດຣູເປັນປິນຂອງລາວ.
+
+793
+00:52:08,600 --> 00:52:11,400
+[TITAN]
+And I'm going for the biggest strike ever.
+ແລະຂ້ອຍຈະໄປຕໍ່ການໂຈມຕີທີ່ໃຫຍ່ທີ່ສຸດໃນປະຫວັດສາດ.
+
+794
+00:52:11,900 --> 00:52:17,900
+[TITAN]
+And you, Metro City, have a ringside seat as I cement my name in the anal of history.
+ແລະເຈົ້າ, ເມືອງແມຕຣູ,
+ມີບ່ອນນັ່ງຂ້າງວົງໃນຂະນະທີ່ຂ້ອຍສັກສິດຊື່ຂອງຂ້ອຍໃນ Anal ຂອງປະຫວັດສາດ.
+
+795
+00:52:18,400 --> 00:52:20,400
+[ROXANNE]
+Annals.
+ບັນທຶກປະຫວັດສາດ.
+
+796
+00:52:20,900 --> 00:52:22,900
+[TITAN]
+What?
+ຫຍັງ?
+
+797
+00:52:23,400 --> 00:52:25,400
+[ROXANNE]
+Nevermind.
+ບໍ່ເປັນຫຍັງເລີຍ.
+
+798
+00:52:25,900 --> 00:52:31,900
+[TITAN]
+Like Tiger before him, a young savior has come to raise a sport from the ashes. Rookie Hal Stewart, a young man with a dream, realizing that dream here today, folks. 110. TITAN One might click there heels and say "There's no place like home" upon finding themselves in such a fantasy. Well, Hal looks very much at home right were he is - with a ball in hand and glory in his sights.
+ຄືກັບໄຕເກີກ່ອນລາວ, ຜູ້ຊ່ວຍຊີວິດຫນຸ່ມຄົນ ຫນຶ່ງ ໄດ້ມາເພື່ອຍົກກິລາຈາກຂີ້ເຜີ້ງ. ຮາລ ສຕູເວີດ, ຜູ້ຊາຍຫນຸ່ມທີ່ມີຄວາມຝັນ, ການ realising ຄວາມຝັນນັ້ນຢູ່ນີ້ໃນມື້ນີ້, ຄົນ. 110. TITAN
+ຫນຶ່ງອາດຈະຄລິກຢູ່ບ່ອນນັ້ນກະຕ່າແລະເວົ້າວ່າ"ບໍ່ມີບ່ອນໃດຄືກັບເຮືອນ" ເມື່ອພົບຕົວເອງໃນຄວາມຄິດແບບນັ້ນ. ດີ, ຮາກເບິ່ງຄືວ່າຢູ່ເຮືອນຫຼາຍຢູ່ບ່ອນທີ່ລາວຢູ່ - ມີບານໃນມືແລະຄວາມສະຫງ່າໃນ
+
+799
+00:52:32,400 --> 00:52:37,650
+[ROXANNE]
+Hal, I know everyone treated you like shit, but you don't have to do this.
+ແຮລ, ຂ້ອຍຮູ້ວ່າທຸກຄົນຖືເຈົ້າເປັນໂຊກຮ້າຍ
+, ແຕ່ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງເຮັດແບບນີ້.
+
+800
+00:52:38,150 --> 00:52:42,000
+[TITAN]
+You're right. I don't HAVE to do anything. Isn't that cool?
+ເຈົ້າເວົ້າຖືກຕ້ອງ. ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງເຮັດຫຍັງເລີຍ. ມັນບໍ່ເຢັນບໍ?
+
+801
+00:52:42,500 --> 00:52:44,600
+[TITAN]
+Here's one for the record books!
+ນີ້ແມ່ນຫນຶ່ງສໍາລັບປື້ມບັນທຶກ!
+
+802
+00:52:45,100 --> 00:52:47,100
+[TITAN]
+What the...?
+ຫຍັງ...?
+
+803
+00:52:47,600 --> 00:52:50,050
+[FRANK]
+Look, what's that flying in the air?
+ເບິ່ງ, ນັ້ນແມ່ນຫຍັງທີ່ບິນຢູ່ໃນອາກາດ?
+
+804
+00:52:50,550 --> 00:52:52,550
+[MASTER MIND]
+C'mon, slow down
+ມາແລ້ວ, ຊ້າລົງ
+
+805
+00:52:53,050 --> 00:52:55,050
+[MASTER MIND]
+C'mon.
+ມາແລ້ວ.
+
+806
+00:52:55,550 --> 00:52:57,550
+[MASTER MIND]
+Gutterball!
+ບານກັດເຕີບລ໌!
+
+807
+00:52:58,050 --> 00:53:00,500
+[YOU!]
+Master Mind gives him a mocking grin.
+ເຈົ້າຈິດໃຈເຮັດໃຫ້ລາວມ່ວນຊື່ນຢ່າງໂຊກຮ້າຍ.
+
+808
+00:53:01,000 --> 00:53:04,500
+[MASTER MIND]
+Bowling? What other trailer park sports can you play? 112.
+ບອລິງ? ເຈົ້າສາມາດຫຼິ້ນກິລາອື່ນໆໃດໃນສວນລົດຕູ້ໄດ້? 112.
+
+809
+00:53:05,000 --> 00:53:11,000
+[TITAN]
+You are becoming a real pain in my ass. I should have done this a long time ago.
+ເຈົ້າ ກໍາ ລັງກາຍເປັນຄວາມເຈັບປວດທີ່ແທ້ຈິງໃນບາກຂອງຂ້ອຍ
+. ຂ້ອຍຄວນເຮັດສິ່ງນີ້ດົນນານແລ້ວ.
+
+810
+00:53:11,500 --> 00:53:14,650
+[MASTER   MIND]
+Plato, Da Vinci.   Secure Roxanne, he's falling for   it.
+ປລາໂຕ, ດາ ວິນຊີ. ປ້ອງກັນໂຣຊານ, ລາວ ກໍາ ລັງຕົກລົງໃນມັນ.
+
+811
+00:53:15,150 --> 00:53:17,150
+[TITAN]
+What the hell?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+812
+00:53:17,650 --> 00:53:23,650
+[GODAMNIT!]
+The critters bite hop and hit Titan. As soon as he throws one off two more jump him.
+ສັດລ້ຽງແຊກແຊງແລະຕີໄຕຕານ. ທັນທີທີ່ລາວຖິ້ມ
+ຫນຶ່ງ ອອກອີກສອງຄົນໂດດລາວ.
+
+813
+00:53:24,150 --> 00:53:26,250
+[MASTER MIND]
+Shit! Stupid monkeys and their fruit.
+ສະບາຍດີ! ແມວໂງ່ແລະ ຫມາກ ໄມ້ຂອງພວກເຂົາ.
+
+814
+00:53:26,750 --> 00:53:28,750
+[TITAN]
+No more games.
+ບໍ່ມີເກມອີກຕໍ່ໄປ.
+
+815
+00:53:29,250 --> 00:53:31,350
+[MASTER MIND]
+Could it really be that easy--
+ມັນງ່າຍປານໃດແທ້ໆບໍ...
+
+816
+00:53:31,850 --> 00:53:33,850
+[MASTER MIND]
+Didn't think so.
+ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ.
+
+817
+00:53:34,350 --> 00:53:38,550
+[TITAN]
+If you don't mind, I'm going to punch trough your face now.
+ຖ້າເຈົ້າບໍ່ສົນໃຈ, ຂ້ອຍຈະຕີຜ່ານໃບຫນ້າເຈົ້າດຽວນີ້.
+
+818
+00:53:39,050 --> 00:53:41,050
+[MASTER MIND]
+I'm alive.
+ຂ້ອຍຍັງມີຊີວິດຢູ່.
+
+819
+00:53:41,550 --> 00:53:43,550
+[MASTER MIND]
+Uberman? 114.
+Uberman? 114.
+
+820
+00:53:44,050 --> 00:53:46,050
+[BYSTANDER 1]
+It's Uberman!
+ມັນເປັນ Uberman!
+
+821
+00:53:46,550 --> 00:53:48,550
+[BYSTANDER 2]
+Uberman's alive!
+ໂອເບີແມນຍັງມີຊີວິດຢູ່!
+
+822
+00:53:49,050 --> 00:53:51,050
+[BYSTANDER 3]
+We're saved!
+ພວກເຮົາຖືກຊ່ວຍເຫຼືອແລ້ວ!
+
+823
+00:53:51,550 --> 00:53:53,550
+[MASTER MIND]
+I thought.
+ຂ້ອຍຄິດວ່າ.
+
+824
+00:53:54,050 --> 00:53:56,050
+[UBERMAN]
+So did I.
+ຂ້ອຍຄືກັນ.
+
+825
+00:53:56,550 --> 00:53:58,550
+[UBERMAN]
+Thank you, old enemy.
+ຂອບໃຈ, ສັດຕູເກົ່າ.
+
+826
+00:53:59,050 --> 00:54:01,050
+[MASTER MIND]
+For what?
+ສໍາລັບຫຍັງ?
+
+827
+00:54:01,550 --> 00:54:07,550
+[UBERMAN]
+Showing me the error of my ways, Showing me I'm meant to be this city's savior, showing me that, while we can try, there is no running away from our true destiny.
+ສະແດງໃຫ້ຂ້ອຍເຫັນຄວາມຜິດພາດຂອງວິທີຂອງຂ້ອຍ, ສະແດງ ໃຫ້ຂ້ອຍເຫັນວ່າຂ້ອຍຖືກກໍານົດໃຫ້ເປັນຜູ້ຊ່ວຍຂອງເມືອງນີ້,
+ສະ ແດງໃຫ້ຂ້ອຍຮູ້ວ່າ, ໃນຂະນະທີ່ພວກເຮົາສາມາດພະຍາຍາມໄດ້, ບໍ່ມີການຫນີຈາກຈຸດຫມາຍປາຍທາງທີ່ແທ້ຈິງຂອງພວກເຮົາ.
+
+828
+00:54:08,050 --> 00:54:10,050
+[TITAN]
+Oh...Did I interrupt something?
+ໂອ້... ຂ້ອຍລົບກວນບາງສິ່ງບາງຢ່າງບໍ?
+
+829
+00:54:10,550 --> 00:54:12,550
+[TITAN]
+Where you going, buddy?
+ເຈົ້າໄປໃສ, ເພື່ອນ?
+
+830
+00:54:13,050 --> 00:54:15,050
+[TITAN]
+Welcome to Paintown. Population: you.
+ຍິນດີຕ້ອນຮັບໃນເມືອງ Paintown. ປະຊາກອນ: ເຈົ້າ.
+
+831
+00:54:15,550 --> 00:54:17,550
+[TITAN]
+Time to finish this.
+ມັນເຖິງເວລາແລ້ວທີ່ຈະສິ້ນສຸດເລື່ອງນີ້.
+
+832
+00:54:18,050 --> 00:54:24,050
+[WAIT!!!]
+Titan screeches to a halt and stops just in front of him like an old Warner Bros cartoon.
+ໄຕຕານຮ້ອງໄຫ້ຢຸດເຊົາແລະຢຸດຢູ່ຕໍ່ຫນ້າລາວຄືກັບກາຕູນວໍເນີບຣັສເກົ່າ.
+
+833
+00:54:24,550 --> 00:54:26,550
+[TITAN]
+What?
+ຫຍັງ?
+
+834
+00:54:27,050 --> 00:54:29,850
+[MASTER MIND]
+Quick joke - What's the capital of Thailand?
+ກະຕຸ້ນໄວໆ - ນະຄອນຫຼວງຂອງໄທແມ່ນຫຍັງ?
+
+835
+00:54:30,350 --> 00:54:32,350
+[TITAN]
+Huh - I don't know.
+ຮາ - ຂ້ອຍບໍ່ຮູ້.
+
+836
+00:54:32,850 --> 00:54:34,850
+[MASTER MIND]
+It's bang cock!
+ມັນເປັນແມວແມ!
+
+837
+00:54:35,350 --> 00:54:37,350
+[TITAN]
+Ow.
+ໂອ້.
+
+838
+00:54:37,850 --> 00:54:41,000
+[MASTER MIND]
+So, I guess pennies are good for something. 116.
+ສະນັ້ນ, ຂ້ອຍຄິດວ່າເງິນສົດແມ່ນດີ ສໍາ ລັບບາງສິ່ງບາງຢ່າງ. 116.
+
+839
+00:54:41,500 --> 00:54:43,500
+[ROXANNE]
+Pretty strange, huh?
+ແປກໃຈຫຼາຍ, ແມ່ນບໍ?
+
+840
+00:54:44,000 --> 00:54:46,000
+[MASTER MIND]
+They're cheering for me.
+ພວກເຂົາກໍາລັງຊົມເຊີຍຂ້ອຍ.
+
+841
+00:54:46,500 --> 00:54:49,650
+[ROXANNE]
+You saved them. You saved everybody. How's it feel?
+ເຈົ້າຊ່ວຍພວກເຂົາ. ເຈົ້າຊ່ວຍທຸກຄົນ. ມັນຮູ້ສຶກແນວໃດ?
+
+842
+00:54:50,150 --> 00:54:56,150
+[MASTER MIND]
+It's a...it's nice, you know? I usually don't get a lot of feedback.  But I also kind of caused all this. What happens when they find that out I was the cause of some of this?
+ມັນເປັນ... ມັນດີ, ເຈົ້າຮູ້ບໍ? ຂ້ອຍປົກກະຕິແລ້ວບໍ່ໄດ້ຮັບຄວາມຄິດເຫັນຫຼາຍ. ແຕ່ຂ້ອຍຍັງເຮັດໃຫ້ສິ່ງທັງ
+ຫມົດ ນີ້. ຈະເກີດຫຍັງຂຶ້ນເມື່ອພວກເຂົາຮູ້ວ່າຂ້ອຍເປັນສາເຫດຂອງບາງສິ່ງບາງຢ່າງນີ້?
+
+843
+00:54:56,650 --> 00:54:59,100
+[ROXANNE]
+What they don't know won't hurt them.
+ສິ່ງທີ່ພວກເຂົາບໍ່ຮູ້ຈະບໍ່ເຮັດໃຫ້ພວກເຂົາເຈັບປວດ.
+
+844
+00:54:59,600 --> 00:55:02,400
+[MASTER MIND]
+I guess that is all in the past.
+ຂ້ອຍຄິດວ່າ ນັ້ນແມ່ນທັງ ຫມົດ ໃນອະດີດແລ້ວ.
+
+845
+00:55:02,900 --> 00:55:04,900
+[ROXANNE]
+You're the hero.
+ເຈົ້າເປັນວິລະຊົນ.
+
+846
+00:55:05,400 --> 00:55:08,900
+[MASTER MIND]
+I don't think I'd go that far...I mean I just...er...
+ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍຈະໄປໄກເກີນໄປ...
+ຂ້ອຍຫມາຍຄວາມວ່າຂ້ອຍພຽງແຕ່... ແມ່ນ...
+
+847
+00:55:09,400 --> 00:55:11,400
+[ROXANNE]
+Master Mind? 117.
+ເຈົ້າຈິດໃຈບໍ? 117.
+
+848
+00:55:11,900 --> 00:55:13,900
+[MASTER MIND]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+849
+00:55:14,400 --> 00:55:16,400
+[ROXANNE]
+Stop talking.
+ຢຸດການເວົ້າ.
+
+850
+00:55:16,900 --> 00:55:22,900
+[SAMANTHA SUMMERS]
+Who's bad? Well, not Master Mind. It seems the former villain has done a career 180 after defeating Tighten and saving Metro City from certain enslavement. And here he is getting a full pardon by Metro City's Mayor, Steve Dent.
+ໃຜເປັນຄົນຮ້າຍ? ດີ, ບໍ່ແມ່ນຈິດໃຈ Master. ມັນເບິ່ງຄືວ່າຄົນຮ້າຍເກົ່າໄດ້ເຮັດອາຊີບ 180 ຫຼັງຈາກການເອົາຊະນະ Tighten
+ແລະຊ່ວຍເຫຼືອເມືອງເມຕໂຣຈາກການເປັນ गुलामບາງຢ່າງ. ແລະຢູ່ນີ້ລາວ ກໍາ ລັງໄດ້ຮັບການອະໄພໂທດຢ່າງເຕັມທີ່ຈາກເຈົ້າເມືອງຂອງເມືອງແມຕໂຣ, ສຕິວ ເດັນຕ໌.
+
+851
+00:55:23,400 --> 00:55:25,400
+[MAYOR]
+Ahhh!
+ອາຮ້!
+
+852
+00:55:25,900 --> 00:55:28,350
+[MASTER MIND]
+Sorry - Metal hand. Force of habit.
+ຂໍໂທດ - ມືໂລຫະ. ກໍາລັງຂອງນິໄສ.
+
+853
+00:55:28,850 --> 00:55:30,850
+[MASTER MIND]
+We're okay, right?
+ພວກເຮົາບໍ່ເປັນຫຍັງ, ແມ່ນບໍ?
+
+854
+00:55:31,350 --> 00:55:37,350
+[BRAD HELMS]
+And what about Tighten? Is there a prison in existence that can hold this super powered menace? Well, the answer we found is no.
+ແລະ Tighten ແນວໃດ? ມີຄຸກທີ່ມີຢູ່ທີ່ສາມາດຖືໄພຂົ່ມຂູ່ທີ່ມີພະລັງງານສູງນີ້ໄດ້ບໍ
+? ດີ, ຄໍາ ຕອບທີ່ພວກເຮົາພົບແມ່ນບໍ່.
+
+855
+00:55:37,850 --> 00:55:43,850
+[PRISON SCIENTIST]
+Of course normally he could break out of there anytime, but as you can see we've taken some special precautions.
+ແນ່ນອນວ່າປົກກະຕິແລ້ວລາວສາມາດອອກຈາກບ່ອນນັ້ນໄດ້ທຸກເວລາ,
+ແຕ່ດັ່ງທີ່ທ່ານສາມາດເຫັນໄດ້ພວກເຮົາໄດ້ເອົາການລະມັດລະວັງພິເສດບາງຢ່າງ.
+
+856
+00:55:44,350 --> 00:55:50,350
+[BRAD HELMS]
+What is a Hero? It seems never has that question needed to be asked more than it does tonight. We go to our very own Roxanne Ritchi, making her triumphant return to our news desk for the answer.
+ວິລະຊົນແມ່ນຫຍັງ? ມັນເບິ່ງຄືວ່າ ຄໍາ ຖາມນັ້ນບໍ່ເຄີຍຕ້ອງຖືກຖາມຫຼາຍກ່ວາໃນຄືນນີ້.
+ພວກເຮົາໄປຫາໂຣຊານ ຣິດຊີຂອງພວກເຮົາເອງ, ເຮັດໃຫ້ນາງກັບມາທີ່ໂຕະຂ່າວຂອງພວກເຮົາເພື່ອຕອບ.
+
+857
+00:55:50,850 --> 00:55:56,850
+[ROXANNE]
+What is a hero? Well, there are many different kinds. There are those who hear a call, like the policeman or doctor, then there's the kind the public creates in their search for meaning and hope. Then, there are those who have the courage to change.
+ວິລະຊົນແມ່ນຫຍັງ? ດີ, ມີຫຼາຍປະເພດທີ່ແຕກຕ່າງກັນ. ມີຜູ້ທີ່ໄດ້ຍິນການໂທ, ເຊັ່ນວ່າຕໍາຫຼວດຫຼືຫມໍ,
+ຫຼັງຈາກນັ້ນມີປະເພດທີ່ສາທາລະນະສ້າງຂື້ນໃນການຊອກຫາຄວາມ ຫມາຍ ແລະ ຄວາມຫວັງຂອງພວກເຂົາ. ຫຼັງຈາກນັ້ນ, ມີຜູ້ທີ່ມີຄວາມກ້າຫານທີ່ຈະປ່ຽນແປງ.
+
+858
+00:55:57,350 --> 00:55:59,350
+[THUG #1]
+Hey, gimme that purse? 119.
+ເຮ້, ໃຫ້ກະເປົານັ້ນໃຫ້ຂ້ອຍບໍ? 119.
+
+859
+00:55:59,850 --> 00:56:03,000
+[MASTER MIND]
+I don't think it would go with your outfit.
+ຂ້ອຍບໍ່ຄິດວ່າມັນຈະເຫມາະສົມກັບຊຸດຂອງທ່ານ.
+
+860
+00:56:03,500 --> 00:56:05,500
+[THUG #2]
+It's Master Mind!
+ມັນເປັນຈິດໃຈຜູ້ເປັນເຈົ້າ!
+
+861
+00:56:06,000 --> 00:56:08,800
+[THUG #1]
+So? It's not like he has any superpowers.
+ສະນັ້ນ? ມັນບໍ່ແມ່ນວ່າລາວມີພະລັງມະຫາສານໃດໆ.
+
+862
+00:56:09,300 --> 00:56:12,100
+[MASTER MIND]
+I'm gonna give you a chance to surrender.
+ຂ້ອຍຈະໃຫ້ເຈົ້າໂອກາດທີ່ຈະຍອມຮັບ.
+
+863
+00:56:12,600 --> 00:56:16,800
+[THUG #1]
+Four against one. For a Master Mind, you're really bad at math.
+ສີ່ຕໍ່ຫນຶ່ງ. ສໍາລັບຈິດໃຈ Master, ເຈົ້າບໍ່ດີໃນຄະນິດສາດແທ້ໆ.
+
+864
+00:56:17,300 --> 00:56:20,100
+[MASTER MIND]
+Way to take out those two goons, guys!
+ວິທີທີ່ຈະເອົາພວກໂຊກຮ້າຍທັງສອງຄົນນັ້ນອອກ, ພວກຜູ້ຊາຍ!
+
+865
+00:56:20,600 --> 00:56:22,600
+[DA VINCI]
+What two goons?
+ພວກໂຊກຮ້າຍສອງຄົນໃດ?
+
+866
+00:56:23,100 --> 00:56:25,100
+[MASTER MIND]
+Sorry, we're new at this.
+ຂໍໂທດ, ພວກເຮົາເປັນຄົນໃຫມ່ໃນເລື່ອງນີ້.
+

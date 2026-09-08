@@ -1,0 +1,5756 @@
+1
+00:00:10,000 --> 00:00:12,450
+[STORY BY]
+Jonathan Nolan, Kip Thorne & Lynda Obst
+ໂຈນຕານ ໂນລານ, ຄິບ ທໍເນ & ລິນດາ ໂອບສຕ໌
+
+2
+00:00:12,950 --> 00:00:18,950
+[SPACE.]
+But not the dark lonely corner of it we're used to. This is a glittering inferno -- the center of a distant galaxy.
+ແຕ່ບໍ່ແມ່ນມຸມທີ່ໂດດດ່ຽວມືດຂອງມັນທີ່ພວກເຮົາເຄີຍເຮັດ.
+ນີ້ແມ່ນອານາໄມທີ່ສົດໃສ - ສູນກາງຂອງກາວທຽມທີ່ຢູ່ຫ່າງໄກ.
+
+3
+00:00:19,450 --> 00:00:25,400
+[ASSISTANT]
+I'm on hold with the INS. Don't you think we should double check the triangulation before we
+ຂ້ອຍຢູ່ລໍຖ້າກັບ INS.
+ເຈົ້າບໍ່ຄິດວ່າພວກເຮົາຄວນກວດສອບສາມຫຼ່ຽມສອງຄັ້ງກ່ອນທີ່ພວກເຮົາ
+
+4
+00:00:25,900 --> 00:00:27,900
+[ANSEN]
+We have double checked it.
+ພວກເຮົາໄດ້ກວດສອບມັນສອງຄັ້ງແລ້ວ.
+
+5
+00:00:28,400 --> 00:00:34,400
+[ASSISTANT]
+Yes. I'm trying to reach-  No, I don't think you understand how serious this is. Because if you did, we'd be having this conversation in person.
+ແມ່ນແລ້ວ. ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເຂົ້າເຖິງ - ບໍ່, ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າເຂົ້າໃຈວ່າມັນຮ້າຍແຮງປານໃດ
+. ເພາະວ່າຖ້າເຈົ້າເຮັດ, ພວກເຮົາຈະມີການສົນທະນານີ້ໂດຍຕົວເອງ.
+
+6
+00:00:34,900 --> 00:00:36,900
+[ANSEN]
+What did they say?
+ພວກເຂົາເວົ້າຫຍັງ?
+
+7
+00:00:37,400 --> 00:00:40,200
+[ASSISTANT]
+They said we should look out the window.
+ພວກເຂົາບອກວ່າພວກເຮົາຄວນເບິ່ງອອກຈາກປ່ອງຢ້ຽມ.
+
+8
+00:00:40,700 --> 00:00:42,700
+[ANSEN]
+Is that really necessary?
+ມັນຈໍາເປັນແທ້ບໍ?
+
+9
+00:00:43,200 --> 00:00:49,200
+[NSA AGENT]
+You've been complaining for years that the government doesn't take your project seriously enough, Doctor. You can't have it both ways.
+ເຈົ້າໄດ້ຮ້ອງທຸກເປັນເວລາຫຼາຍປີແລ້ວວ່າລັດຖະບານບໍ່ເອົາໂຄງການຂອງທ່ານຢ່າງຈິງໃຈພຽງພໍ
+, ດອກຕໍ. ເຈົ້າບໍ່ສາມາດມີມັນທັງສອງທາງໄດ້.
+
+10
+00:00:49,700 --> 00:00:55,700
+[ANSEN]
+Yesterday morning, our facility in Hanford identified this signal: a neutron star colliding with a supermassive black hole. We went through the last year's data and triangulated the source.
+ໃນຕອນເຊົ້າມື້ວານນີ້, ສະຖານທີ່ຂອງພວກເຮົາໃນແຮນຟອດໄດ້ລະບຸສັນຍານນີ້:
+ດາວນິວຕຣອນທີ່ຕໍາກັບຮູສີດໍາທີ່ໃຫຍ່ຫຼວງ. ພວກເຮົາໄດ້ຜ່ານຂໍ້ມູນຂອງປີທີ່ຜ່ານມາແລະສາມຫຼ່ຽມແຫຼ່ງ.
+
+11
+00:00:56,200 --> 00:01:02,200
+[NSA AGENT]
+We know that, Doctor. What we don't know is why, according to your numbers, this event took place right here in our own solar system.
+ພວກເຮົາຮູ້ແລ້ວ, ດອກຕໍ. ສິ່ງທີ່ພວກເຮົາບໍ່ຮູ້ແມ່ນເຫດຜົນທີ່, ອີງຕາມຕົວເລກຂອງທ່ານ
+, ເຫດການນີ້ເກີດຂຶ້ນຢູ່ບ່ອນນີ້ໃນລະບົບແສງຕາເວັນຂອງພວກເຮົາເອງ.
+
+12
+00:01:02,700 --> 00:01:06,900
+[ANSEN]
+It didn't. Because if it had we'd all be dead by now.
+ມັນບໍ່ໄດ້ເຮັດ. ເພາະວ່າຖ້າມັນເຮັດແລ້ວພວກເຮົາທຸກຄົນຈະຕາຍແລ້ວ.
+
+13
+00:01:07,400 --> 00:01:11,250
+[ANSEN]
+Which leaves only one explanation: The signal traveled through a 4.
+ຊຶ່ງເຮັດໃຫ້ມີພຽງແຕ່ ຄໍາ ອະທິບາຍດຽວ: ສັນຍານໄດ້ເດີນທາງຜ່ານ 4.
+
+14
+00:01:11,750 --> 00:01:17,750
+[ANSEN]
+wormhole. A gateway to a distant corner of the universe. The black hole is on the far side.
+ຮູແມງໄມ້. ເປັນປະຕູເຂົ້າໄປບ່ອນຫ່າງໄກສອກຫຼີກຂອງຈັກກະວານ
+. ຮູສີດໍາແມ່ນຢູ່ທາງໄກ.
+
+15
+00:01:18,250 --> 00:01:22,100
+[NSA AGENT]
+I've read your book, Doctor. You said that wormholes are impossible.
+ຂ້ອຍໄດ້ອ່ານປື້ມຂອງທ່ານແລ້ວ, ດອກຕໍ.
+ເຈົ້າເວົ້າວ່າຮູແມງໄມ້ບໍ່ສາມາດເຮັດໄດ້.
+
+16
+00:01:22,600 --> 00:01:28,600
+[ANSEN]
+There is nothing quite as satisfying as being proved utterly wrong. I said that a wormhole couldn't exist naturally. Not for more than a few billionths of a second. It would have to be... stabilized.
+ບໍ່ມີຫຍັງທີ່ພໍໃຈເທົ່າກັບການພິສູດວ່າຜິດຢ່າງສົມບູນ. ຂ້ອຍເວົ້າວ່າຮູແມງໄມ້ບໍ່ສາມາດມີຢູ່ຕາມ
+ທໍາ ມະຊາດໄດ້. ບໍ່ເກີນສອງສາມພັນລ້ານຂອງວິນາທີ. ມັນຕ້ອງຖືກ... ຫມັ້ນ ຄົງ.
+
+17
+00:01:29,100 --> 00:01:31,100
+[NSA AGENT]
+Stabilized by what?
+ສະຖຽນລະພາບໂດຍຫຍັງ?
+
+18
+00:01:31,600 --> 00:01:34,750
+[ASSISTANT]
+We don't have any way to answer that question.
+ພວກເຮົາບໍ່ມີທາງໃດທີ່ຈະຕອບຄໍາຖາມນັ້ນ.
+
+19
+00:01:35,250 --> 00:01:41,250
+[NSA AGENT]
+You're not under peer review here, Doctor. I don't care about your reputation. I need to know how that thing got there. Now.
+ເຈົ້າບໍ່ໄດ້ຢູ່ພາຍໃຕ້ການທົບທວນຂອງເພື່ອນຮ່ວມງານຢູ່ນີ້, ດອກຕໍ.
+ຂ້ອຍບໍ່ສົນໃຈກ່ຽວກັບຊື່ສຽງຂອງທ່ານ. ຂ້ອຍຕ້ອງຮູ້ວ່າສິ່ງນັ້ນໄດ້ມາຮອດບ່ອນນັ້ນແນວໃດ. ດຽວນີ້.
+
+20
+00:01:41,750 --> 00:01:47,750
+[ANSEN]
+If you're worried about an invasion, I would start drafting the articles of surrender. Whoever they are, if they can build a wormhole, they could erase us in the blink of an eye. Luckily, that also means we have nothing they could be interested in.
+ຖ້າເຈົ້າກັງວົນກ່ຽວກັບການບຸກລຸກ, ຂ້ອຍຈະເລີ່ມຕົ້ນຮ່າງບົດຂຽນຂອງການຍອມຮັບ. ພວກເຂົາແມ່ນໃຜ, ຖ້າພວກເຂົາສາມາດສ້າງຮູແມງໄມ້ໄດ້
+, ພວກເຂົາສາມາດລຶບພວກເຮົາໃນສ່ອງແສງຕາ. ໂຊກດີ, ນັ້ນຍັງ ຫມາຍ ຄວາມວ່າພວກເຮົາມີຫຍັງທີ່ພວກເຂົາສາມາດສົນໃຈໄດ້.
+
+21
+00:01:48,250 --> 00:01:50,350
+[NSA AGENT]
+Then why is it there? 5.
+ຫຼັງຈາກນັ້ນມັນຢູ່ບ່ອນນັ້ນເປັນຫຍັງ? 5.
+
+22
+00:01:50,850 --> 00:01:56,100
+[ANSEN]
+I don't know. Maybe it's an invitation. A chance to commune with an advanced species.
+ຂ້ອຍບໍ່ຮູ້. ບາງທີມັນເປັນການເຊື້ອເຊີນ.
+ໂອກາດທີ່ຈະສື່ສານກັບຊະນິດທີ່ກ້າວຫນ້າ.
+
+23
+00:01:56,600 --> 00:01:58,600
+[NSA AGENT]
+You don't agree?
+ເຈົ້າບໍ່ເຫັນດີບໍ?
+
+24
+00:01:59,100 --> 00:02:05,100
+[ASSISTANT]
+No. I don't think we can assume an alien intelligence built the wormhole. But the opportunity it represents is incredible. We could explore parts of the universe we never dreamt of reaching in our lifetimes.
+ບໍ່. ຂ້ອຍບໍ່ຄິດວ່າພວກເຮົາສາມາດຄິດວ່າປັນຍາຕ່າງດາວໄດ້ສ້າງຮູແມງໄມ້. ແຕ່ໂອກາດທີ່ມັນສະແດງໃຫ້ເຫັນແມ່ນບໍ່ຍອມຮັບໄດ້
+. ພວກເຮົາສາມາດຄົ້ນຄວ້າພາກສ່ວນຂອງຈັກກະວານທີ່ພວກເຮົາບໍ່ເຄີຍຝັນທີ່ຈະບັນລຸໃນຊີວິດຂອງພວກເຮົາ.
+
+25
+00:02:05,600 --> 00:02:11,600
+[ANSEN]
+We need to get back to work. I have a conference call with our European partners in fifteen minutes.
+ພວກເຮົາຕ້ອງກັບຄືນໄປບ່ອນເຮັດວຽກ.
+ຂ້ອຍມີການໂທປະຊຸມກັບຄູ່ຮ່ວມງານເອີຣົບຂອງພວກເຮົາໃນເວລາສິບຫ້ານາທີ.
+
+26
+00:02:12,100 --> 00:02:15,600
+[NSA AGENT]
+We severed the connections to your European partners this morning.
+ພວກເຮົາໄດ້ຕັດການເຊື່ອມຕໍ່ກັບຄູ່ຮ່ວມງານເອີຣົບຂອງທ່ານໃນຕອນເຊົ້ານີ້.
+
+27
+00:02:16,100 --> 00:02:20,300
+[ANSEN]
+You can't do that. The Europeans put up some of the funding...
+ເຈົ້າບໍ່ສາມາດເຮັດແບບນັ້ນໄດ້. ຊາວເອີຣົບໄດ້ວາງເງິນທຶນບາງສ່ວນ...
+
+28
+00:02:20,800 --> 00:02:26,050
+[GOVERNMENT MAN]
+We'll send them a check. Your project is now classified under the State Secrets Act.
+ພວກເຮົາຈະສົ່ງໃບຢັ້ງຢືນໃຫ້ພວກເຂົາ.
+ໂຄງການຂອງທ່ານດຽວນີ້ຖືກຈັດປະເພດພາຍໃຕ້ກົດ ຫມາຍ ຄວາມລັບຂອງລັດ.
+
+29
+00:02:26,550 --> 00:02:30,750
+[ASSISTANT]
+They can't keep this a secret. You know that. Sooner or later...
+ພວກເຂົາບໍ່ສາມາດຮັກສາເລື່ອງນີ້ເປັນຄວາມລັບໄດ້
+. ເຈົ້າຮູ້ແລ້ວ. ກ່ອນຫຼືຫຼ້າສຸດ...
+
+30
+00:02:31,250 --> 00:02:37,250
+[ANSEN]
+I don't care about that. I've spent my whole life being afraid we would wipe ourselves out before this moment arrived. We've made so many mistakes, I wasn't sure we'd make it...
+ຂ້ອຍບໍ່ສົນໃຈເລື່ອງນັ້ນ. ຂ້ອຍໄດ້ໃຊ້ເວລາຊີວິດທັງ ຫມົດ ຂອງຂ້ອຍຢ້ານວ່າພວກເຮົາຈະລ້າງຕົວເອງກ່ອນທີ່ຊົ່ວຄາວນີ້ຈະມາຮອດ
+. ພວກເຮົາໄດ້ເຮັດຄວາມຜິດພາດຫຼາຍຢ່າງ, ຂ້ອຍບໍ່ແນ່ໃຈວ່າມັນຈະເຮັດໄດ້...
+
+31
+00:02:37,750 --> 00:02:42,650
+[ANSEN]
+But this will change everything. Fifty years from now, nothing will be the same.
+ແຕ່ສິ່ງນີ້ຈະປ່ຽນແປງທຸກຢ່າງ.
+ຫ້າສິບປີຈາກປັດຈຸບັນ, ບໍ່ມີຫຍັງຈະເປັນຄືກັນ.
+
+32
+00:02:43,150 --> 00:02:45,250
+[FADE TO BLACK]
+EXT. CORNFIELD, CENTRAL CALIFORNIA -- DAY
+ອອກຈາກແຄຣນຟິລດ, ຄາລີຟໍເນຍກາງ - ມື້
+
+33
+00:02:45,750 --> 00:02:47,750
+[BALLPLAYER]
+Seized up on us.
+ຈັບພວກເຮົາໄວ້.
+
+34
+00:02:48,250 --> 00:02:53,150
+[COOPER]
+Long way to come by bus. I thought you guys would have a plane.
+ທາງຍາວທີ່ຈະມາໂດຍລົດເມ. ຂ້ອຍຄິດວ່າເຈົ້າຈະມີເຮືອບິນ.
+
+35
+00:02:53,650 --> 00:02:58,200
+[BALLPLAYER]
+We did. Ran out of parts for it. You know anything about diesels?
+ພວກເຮົາເຮັດແລ້ວ. ຫມົດຊິ້ນສ່ວນ ສໍາ
+ລັບມັນ. ເຈົ້າຮູ້ຫຍັງກ່ຽວກັບດີເຊວບໍ?
+
+36
+00:02:58,700 --> 00:03:00,700
+[COOPER]
+A little.
+ພຽງເລັກນ້ອຍ.
+
+37
+00:03:01,200 --> 00:03:05,400
+[BALLPLAYER]
+You think your dad's going to be able to help us out?
+ເຈົ້າຄິດວ່າພໍ່ເຈົ້າຈະສາມາດຊ່ວຍພວກເຮົາໄດ້ບໍ?
+
+38
+00:03:05,900 --> 00:03:09,050
+[MURPH]
+My dad can fix anything. Except maybe your fastball.
+ພໍ່ຂອງຂ້ອຍສາມາດແກ້ໄຂທຸກຢ່າງໄດ້. ຍົກເວັ້ນບາງທີບານໄວຂອງທ່ານ.
+
+39
+00:03:09,550 --> 00:03:11,550
+[BALLPLAYER]
+Sure appreciate the help.
+ແນ່ນອນວ່າຍ້ອງຍໍຄວາມຊ່ວຍເຫຼືອ.
+
+40
+00:03:12,050 --> 00:03:16,250
+[COOPER]
+You don't make it, my boys won't get to see you lose.
+ເຈົ້າບໍ່ເຮັດໄດ້, ເດັກຊາຍຂອງຂ້ອຍຈະບໍ່ເຫັນເຈົ້າເສຍ.
+
+41
+00:03:16,750 --> 00:03:18,750
+[WORLD FAMOUS NEW YORK YANKEES]
+EXT. SPACE, NEAR EARTH ORBIT
+ນອກຈາກອະວະກາດ, ໃກ້ກັບວົງຈອນໂລກ
+
+42
+00:03:19,250 --> 00:03:23,800
+[DONALD]
+Popcorn at a ball game is unnatural. I want a hot dog. 8.
+ໂປປກອນໃນເກມບານເຕະແມ່ນບໍ່ທໍາມະຊາດ. ຂ້ອຍຢາກຫມາຮ້ອນ. 8.
+
+43
+00:03:24,300 --> 00:03:26,300
+[MURPH]
+What's a hot dog?
+ຫມາຮ້ອນແມ່ນຫຍັງ?
+
+44
+00:03:26,800 --> 00:03:28,800
+[TOM]
+Is that a comet, Dad?
+ນັ້ນແມ່ນດາວທຽມບໍ, ພໍ່?
+
+45
+00:03:29,300 --> 00:03:31,300
+[COOPER]
+Satellite. Big one. Probably Chinese.
+ດາວທຽມ. ໃຫຍ່ຫນຶ່ງ. ບາງທີຈີນ.
+
+46
+00:03:31,800 --> 00:03:37,400
+[DONALD]
+Those clowns would get their asses handed to them by the ballplayers I grew up watching.
+ພວກຄົນໂຊກຮ້າຍນັ້ນຈະໄດ້ຮັບບາກຂອງພວກເຂົາມອບໃຫ້ພວກເຂົາໂດຍນັກເຕະບານທີ່ຂ້ອຍເຕີບໃຫຍ່ເບິ່ງ
+.
+
+47
+00:03:37,900 --> 00:03:41,750
+[COOPER]
+You ruin it for the boys when you talk like that.
+ເຈົ້າທໍາລາຍມັນ ສໍາ ລັບເດັກຊາຍເມື່ອເຈົ້າເວົ້າແບບນັ້ນ.
+
+48
+00:03:42,250 --> 00:03:48,200
+[DONALD]
+I'm not doing my grandkids any favors by lying to them. They're growing up watching lousy baseball.
+ຂ້ອຍບໍ່ໄດ້ເຮັດຄວາມສະດວກໃດໆໃຫ້ລູກຫຼານຂອງຂ້ອຍໂດຍການຕົວະພວກເຂົາ
+. ພວກເຂົາ ກໍາ ລັງເຕີບໃຫຍ່ເບິ່ງບານເຕະທີ່ບໍ່ດີ.
+
+49
+00:03:48,700 --> 00:03:52,900
+[COOPER]
+They didn't have any baseball at all when I was a kid.
+ພວກເຂົາບໍ່ມີບານເຕະເລີຍເມື່ອຂ້ອຍເປັນເດັກນ້ອຍ.
+
+50
+00:03:53,400 --> 00:03:57,950
+[DONALD]
+Nelson's burning up his crops. Found some of the blight on the okra.
+ເນລສັນ ກໍາ ລັງເຜົາໄຫມ້ຜົນຜະລິດຂອງລາວ
+. ພົບບາງສ່ວນຂອງພິດໃນ okra ໄດ້.
+
+51
+00:03:58,450 --> 00:04:00,450
+[COOPER]
+I thought okra wasn't susceptible.
+ຂ້ອຍຄິດວ່າ okra ບໍ່ມີຄວາມຮັບຜິດຊອບ.
+
+52
+00:04:00,950 --> 00:04:05,150
+[DONALD]
+Better safe than sorry.  You've got to take the boys to school.
+ດີກວ່າຄວາມປອດໄພກ່ວາຄວາມເສຍໃຈ. ເຈົ້າຕ້ອງພາເດັກຊາຍໄປໂຮງຮຽນ.
+
+53
+00:04:05,650 --> 00:04:07,650
+[COOPER]
+Something wrong with your truck?
+ມີຫຍັງຜິດກັບລົດບັນທຸກຂອງທ່ານບໍ?
+
+54
+00:04:08,150 --> 00:04:10,150
+[DONALD]
+Parent-teacher conference day.
+ວັນກອງປະຊຸມພໍ່ແມ່ຄູ.
+
+55
+00:04:10,650 --> 00:04:13,800
+[DONALD]
+Be nice to Murph's teacher. She's single, you know.
+ເປັນຄົນດີຕໍ່ຄູສອນຂອງມໍຟ໌. ນາງເປັນຄົນດຽວ, ເຈົ້າຮູ້ແລ້ວ.
+
+56
+00:04:14,300 --> 00:04:17,100
+[COOPER]
+What does that have to do with anything?
+ມັນກ່ຽວຂ້ອງກັບຫຍັງ?
+
+57
+00:04:17,600 --> 00:04:23,600
+[DONALD]
+We're supposed to be repopulating the earth. Gotta pull your weight. Besides, the boys could do with a woman in their lives.
+ພວກເຮົາຄວນຈະປະຊາກອນຄືນໂລກ. ຕ້ອງດຶງນ້ ໍາ ຫນັກ ຂອງທ່ານ.
+ນອກຈາກນັ້ນ, ເດັກຊາຍສາມາດເຮັດໄດ້ກັບແມ່ຍິງໃນຊີວິດຂອງພວກເຂົາ.
+
+58
+00:04:24,100 --> 00:04:26,100
+[COOPER]
+Get the spare, Tom.
+ເອົາເຄື່ອງສໍາຮອງ, ໂຕມ.
+
+59
+00:04:26,600 --> 00:04:28,600
+[TOM]
+That is the spare.
+ນັ້ນແມ່ນເຄື່ອງສໍາຮອງ.
+
+60
+00:04:29,100 --> 00:04:31,550
+[COOPER]
+All right. We'll use the patch kit.
+ດີແລ້ວ. ພວກເຮົາຈະໃຊ້ຊຸດຕິດຕັ້ງ.
+
+61
+00:04:32,050 --> 00:04:38,050
+[MURPH]
+I... I think the patch kit might not be there...  Because I was using it for my bike.
+ຂ້ອຍ... ຂ້ອຍຄິດວ່າຊຸດຕິດຕັ້ງອາດຈະບໍ່ມີຢູ່ບ່ອນນັ້ນ.
+.. ເພາະວ່າຂ້ອຍ ກໍາ ລັງໃຊ້ມັນ ສໍາ ລັບລົດຖີບຂອງຂ້ອຍ.
+
+62
+00:04:38,550 --> 00:04:40,550
+[COOPER]
+Murph's law.
+ກົດ ຫມາຍ ຂອງມໍຟ໌.
+
+63
+00:04:41,050 --> 00:04:43,050
+[MURPH]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+64
+00:04:43,550 --> 00:04:47,050
+[TOM]
+The kid doesn't even know what he was named after...
+ເດັກນ້ອຍຍັງບໍ່ຮູ້ວ່າລາວຖືກຕັ້ງຊື່ວ່າແນວໃດ...
+
+65
+00:04:47,550 --> 00:04:51,050
+[TOM]
+Murph's law means what can go wrong will go wrong.
+ກົດ ຫມາຍ ຂອງ ມູຟ ຫມາຍ ຄວາມວ່າສິ່ງທີ່ອາດຈະຜິດພາດຈະຜິດພາດ.
+
+66
+00:04:51,550 --> 00:04:53,650
+[COOPER]
+Find something to patch it with.
+ຊອກຫາບາງສິ່ງບາງຢ່າງເພື່ອແກ້ໄຂມັນດ້ວຍ.
+
+67
+00:04:54,150 --> 00:04:56,950
+[TOM]
+How am I supposed to do that? 11.
+ຂ້ອຍຄວນເຮັດແບບນັ້ນແນວໃດ? 11.
+
+68
+00:04:57,450 --> 00:05:02,000
+[COOPER]
+Figure it out. I'm not always going to be here to help you.
+ຄິດມັນອອກ. ຂ້ອຍຈະບໍ່ຢູ່ບ່ອນນີ້ເພື່ອຊ່ວຍເຈົ້າຢູ່ສະເຫມີ.
+
+69
+00:05:02,500 --> 00:05:05,300
+[MURPH]
+Is that really why I'm named Murph, dad?
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍເອີ້ນວ່າ ມູຟບໍ, ພໍ່?
+
+70
+00:05:05,800 --> 00:05:11,800
+[COOPER]
+Listen to me. Murph's law doesn't mean that. It means what can happen will happen. All kinds of things. Good or bad. And that's the way you want it to be.
+ຟັງຂ້ອຍ. ກົດ ຫມາຍ ຂອງມໍຟບໍ່ໄດ້ຫມາຍຄວາມວ່ານັ້ນ. ມັນຫມາຍຄວາມວ່ານສິ່ງທີ່ສາມາດເກີດຂຶ້ນຈະເກີດຂຶ້ນ
+. ທຸກປະເພດຂອງສິ່ງຕ່າງໆ. ດີຫຼືບໍ່ດີ. ແລະນັ້ນແມ່ນວິທີທີ່ທ່ານຢາກໃຫ້ມັນເປັນ.
+
+71
+00:05:12,300 --> 00:05:14,300
+[MURPH]
+Why?
+ເປັນຫຍັງ?
+
+72
+00:05:14,800 --> 00:05:19,000
+[COOPER]
+Because if nothing ever happened to you then you wouldn't learn anything.
+ເພາະຖ້າບໍ່ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າແລ້ວເຈົ້າຈະບໍ່ຮຽນຮູ້ຫຍັງເລີຍ.
+
+73
+00:05:19,500 --> 00:05:21,500
+[COOPER]
+Murph?
+ມູຟ?
+
+74
+00:05:22,000 --> 00:05:24,000
+[COOPER]
+Get in.
+ເຂົ້າມາ.
+
+75
+00:05:24,500 --> 00:05:26,500
+[TOM]
+What about the tire?
+ແລະລົດຖີບແນວໃດ?
+
+76
+00:05:27,000 --> 00:05:33,000
+[OVER THERE-]
+To the right, the dark shape of the Russian drone appears, flying low over the fields. Cooper jerks the wheel--
+ຢູ່ທາງຂວາ, ຮູບຮ່າງມືດຂອງເຮືອບິນໂດຣນຣັດເຊຍປາກົດຕົວ
+, ບິນຕໍ່າຢູ່ເທິງສະ ຫນາມ. ຄູເປີຍືດລໍ້ -
+
+77
+00:05:33,500 --> 00:05:38,750
+[COOPER]
+It's a Chinese military drone. Solar cells could power an entire farm. Take the wheel.
+ມັນເປັນເຮືອບິນໂດຣນທະຫານຈີນ. ເຊລູແສງຕາເວັນສາມາດເຮັດໃຫ້ກະສິກໍາທັງ
+ຫມົດ ມີພະລັງງານ. ເອົາລົດຈັກ.
+
+78
+00:05:39,250 --> 00:05:41,700
+[COOPER]
+Keep it pointed right at it, OK?
+ຮັກສາມັນແນໃສ່ມັນຢ່າງກົງກັນຂ້າມ, ດີບໍ?
+
+79
+00:05:42,200 --> 00:05:44,200
+[COOPER]
+Faster, Tom. I'm losing it.
+ໄວຂຶ້ນ, ໂຕມ. ຂ້ອຍ ກໍາ ລັງສູນເສຍມັນ.
+
+80
+00:05:44,700 --> 00:05:46,700
+[TOM]
+Dad?
+ພໍ່?
+
+81
+00:05:47,200 --> 00:05:49,300
+[COOPER]
+Almost got it. Don't slow down.
+ເກືອບໄດ້ແລ້ວ. ຢ່າຊ້າລົງ.
+
+82
+00:05:49,800 --> 00:05:55,800
+[DAD.]
+Cooper looks up. Ahead, the trail disappears as the edge of the hills falls away -- it's a three hundred-foot drop.
+ຄູເປີເບິ່ງຂຶ້ນ. ຕໍ່ຫນ້າ, ເສັ້ນທາງຫາຍໄປໃນຂະນະທີ່ແຄມຂອງພູເຂົາຕົກໄປ
+- ມັນແມ່ນການຫຼຸດລົງສາມຮ້ອຍແມັດ.
+
+83
+00:05:56,300 --> 00:05:58,300
+[TOM]
+We lost it.
+ພວກເຮົາໄດ້ສູນເສຍມັນ.
+
+84
+00:05:58,800 --> 00:06:00,800
+[COOPER]
+No we didn't. 14.
+ບໍ່ພວກເຮົາບໍ່ໄດ້ເຮັດ. 14.
+
+85
+00:06:01,300 --> 00:06:03,750
+[COOPER]
+You want to give it a whirl?
+ເຈົ້າຢາກທົດລອງບໍ?
+
+86
+00:06:04,250 --> 00:06:08,450
+[COOPER]
+Set her down in the valley -- there, next to the river.
+ເອົານາງລົງໃນຮ່ອມພູ - ຢູ່ບ່ອນນັ້ນ, ຢູ່ຂ້າງແມ່ນໍ້າຂອງ.
+
+87
+00:06:08,950 --> 00:06:12,450
+[TOM]
+How long do you think it's been up there, Dad?
+ເຈົ້າຄິດວ່າມັນຢູ່ເທິງນັ້ນດົນປານໃດ, ພໍ່?
+
+88
+00:06:12,950 --> 00:06:18,900
+[COOPER]
+Chinese mission control went down same as us, twenty years ago. It's been up there ever since.
+ການຄວບຄຸມພາລະກິດຈີນຕົກລົງຄືກັນກັບພວກເຮົາ,
+ເມື່ອສິບປີກ່ອນ. ມັນຢູ່ເທິງນັ້ນນັບຕັ້ງແຕ່ນັ້ນ.
+
+89
+00:06:19,400 --> 00:06:21,850
+[TOM]
+What was it doing flying so low?
+ມັນບິນຕໍ່າຫຼາຍປານໃດ?
+
+90
+00:06:22,350 --> 00:06:28,350
+[COOPER]
+It was looking for something. Intercepted some kind of signal. It's been at eighty thousand feet. Sun probably cooked its brain.
+ມັນ ກໍາ ລັງຊອກຫາບາງສິ່ງບາງຢ່າງ. ຈັບສັນຍານບາງຊະນິດ.
+ມັນຢູ່ລະດັບແປດສິບພັນຟຸດ. ແສງຕາເວັນອາດຈະປຸງແຕ່ງສະຫມອງຂອງມັນ.
+
+91
+00:06:28,850 --> 00:06:31,650
+[MURPH]
+What are you going to do with it?
+ເຈົ້າຈະເຮັດຫຍັງກັບມັນ?
+
+92
+00:06:32,150 --> 00:06:37,750
+[COOPER]
+Reprogram it. Give it something socially responsible to do like drive a combine or a tractor.
+ໂປຣແກຣມມັນຄືນ.
+ໃຫ້ມັນບາງສິ່ງບາງຢ່າງທີ່ມີຄວາມຮັບຜິດຊອບທາງສັງຄົມເພື່ອເຮັດເຊັ່ນການຂັບລົດປະສົມປະສານຫຼືຕຣັກເຕີ.
+
+93
+00:06:38,250 --> 00:06:41,750
+[MURPH]
+Couldn't we just let it go? It's not hurting anyone.
+ພວກເຮົາບໍ່ສາມາດປ່ອຍມັນໄປໄດ້ບໍ? ມັນບໍ່ໄດ້ເຮັດໃຫ້ໃຜເຈັບປວດ.
+
+94
+00:06:42,250 --> 00:06:48,250
+[COOPER]
+We need all the help we can get, Murph. This thing has to adapt, just like the rest of us.
+ພວກເຮົາຕ້ອງການຄວາມຊ່ວຍເຫຼືອທັງ ຫມົດ ທີ່ພວກເຮົາສາມາດໄດ້ຮັບໄດ້
+, ມູຟ. ສິ່ງນີ້ຕ້ອງປັບຕົວ, ຄືກັບພວກເຮົາຄົນອື່ນ.
+
+95
+00:06:48,750 --> 00:06:52,950
+[PRINCIPAL]
+Good to see you, Mr. Cooper. This is Ms. Kelly, Murph's teacher.
+ດີໃຈທີ່ເຫັນເຈົ້າ, ທ້າວ ຄູເປີ. ນີ້ແມ່ນທ່ານນາງເຄລລີ, ຄູສອນຂອງມູຟ.
+
+96
+00:06:53,450 --> 00:06:58,350
+[PRINCIPAL]
+So we've gotten Tom's score back. Congratulations. He's going to make an excellent farmer.
+ສະນັ້ນພວກເຮົາໄດ້ຄະແນນຂອງໂຕມຄືນແລ້ວ.
+ຂໍສະແດງຄວາມຍິນດີ. ລາວຈະເປັນຊາວກະສິກອນທີ່ດີເລີດ.
+
+97
+00:06:58,850 --> 00:07:00,850
+[COOPER]
+What about college?
+ແລະວິທະຍາໄລແນວໃດ?
+
+98
+00:07:01,350 --> 00:07:07,350
+[PRINCIPAL]
+The University of California only accepts a few hundred students a year, Mr. Cooper. You have to be realistic.
+ມະຫາວິທະຍາໄລຄາລີຟໍເນຍຍອມຮັບນັກສຶກສາພຽງແຕ່ສອງສາມຮ້ອຍຄົນຕໍ່ປີ
+, ທ້າວຄູເປີ. ເຈົ້າຕ້ອງເປັນຕົວຈິງ.
+
+99
+00:07:07,850 --> 00:07:11,350
+[COOPER]
+You're ruling out college for him now? He's only fifteen.
+ເຈົ້າ ກໍາ ລັງຍົກເວັ້ນວິທະຍາໄລ ສໍາ
+ລັບລາວດຽວນີ້ບໍ? ລາວພຽງແຕ່ສິບຫ້າປີເທົ່ານັ້ນ.
+
+100
+00:07:11,850 --> 00:07:15,350
+[PRINCIPAL]
+I'm sorry. I'm afraid Tom's score simply isn't high enough.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍຢ້ານວ່າຄະແນນຂອງໂຕມພຽງແຕ່ບໍ່ສູງພໍສົມຄວນ.
+
+101
+00:07:15,850 --> 00:07:19,000
+[COOPER]
+What are you, about a 36-inch waist? 30-inch inseam?
+ເຈົ້າເປັນຫຍັງ, ປະມານແອວ 36 ນິ້ວບໍ? 30 ນິ້ວ?
+
+102
+00:07:19,500 --> 00:07:21,500
+[PRINCIPAL]
+I'm not sure I see--
+ຂ້ອຍບໍ່ແນ່ໃຈວ່າຂ້ອຍເຫັນ...
+
+103
+00:07:22,000 --> 00:07:28,000
+[COOPER]
+You're telling me you need two numbers to measure your own ass, but just one to measure my son's future?
+ເຈົ້າບອກຂ້ອຍວ່າເຈົ້າຕ້ອງການຕົວເລກສອງຕົວເພື່ອວັດແທກບາກຂອງເຈົ້າເອງ
+, ແຕ່ພຽງແຕ່ຫນຶ່ງເພື່ອວັດທະນະກໍາມະອະນາຄົດຂອງລູກຊາຍຂອງຂ້ອຍບໍ?
+
+104
+00:07:28,500 --> 00:07:32,000
+[PRINCIPAL]
+I understand you're a well-educated man, Mr. Cooper. A scientist?
+ຂ້ອຍເຂົ້າໃຈວ່າເຈົ້າເປັນຜູ້ຊາຍທີ່ມີການສຶກສາທີ່ດີ
+, ທ້າວຄູເປີ. ນັກວິທະຍາສາດບໍ?
+
+105
+00:07:32,500 --> 00:07:34,500
+[COOPER]
+Engineer.
+ວິສະວະກອນ.
+
+106
+00:07:35,000 --> 00:07:41,000
+[PRINCIPAL]
+Frankly, the world doesn't need any more engineers. We didn't run out of trains or television sets or satellites. We ran out of food. 17.
+ໂດຍກົງແລ້ວ, ໂລກບໍ່ຕ້ອງການວິສະວະກອນອີກຕໍ່ໄປ.
+ພວກເຮົາບໍ່ໄດ້ຫມົດລົດໄຟຫຼືໂທລະພາບຫຼືດາວທຽມ. ພວກເຮົາຫມົດອາຫານ. 17.
+
+107
+00:07:41,500 --> 00:07:47,500
+[PRINCIPAL]
+The world needs farmers, Mr. Cooper. And I'm sure your son Tom is going to make a fine one. We're a caretaker generation. But things are getting better. Maybe your grandchildren will be able to attend college.
+ໂລກຕ້ອງການຊາວກະສິກອນ, ທ້າວ ຄູເປີ. ແລະຂ້ອຍແນ່ໃຈວ່າລູກຊາຍຂອງທ່ານໂຕມຈະເຮັດ ຫນຶ່ງ ທີ່ດີເລີດ.
+ພວກເຮົາເປັນລຸ້ນຜູ້ເບິ່ງແຍງ. ແຕ່ສິ່ງຕ່າງໆ ກໍາ ລັງດີຂຶ້ນ. ບາງທີລູກຫຼານຂອງທ່ານຈະສາມາດເຂົ້າຮ່ວມວິທະຍາໄລໄດ້.
+
+108
+00:07:48,000 --> 00:07:50,000
+[COOPER]
+Are we done?
+ພວກເຮົາເຮັດແລ້ວບໍ?
+
+109
+00:07:50,500 --> 00:07:56,500
+[PRINCIPAL]
+One more thing. Ms. Kelly here says that Murph brought a book to school about the lunar landings.
+ອີກສິ່ງຫນຶ່ງ. ນາງເຄລລີຢູ່ນີ້ເວົ້າວ່າ
+ມູຟຟ໌ໄດ້ເອົາປື້ມມາໂຮງຮຽນກ່ຽວກັບການລົງຈອດດວງຈັນ.
+
+110
+00:07:57,000 --> 00:08:00,150
+[COOPER]
+One of my old textbooks. Murph liked the pictures.
+ຫນຶ່ງໃນປື້ມຮຽນເກົ່າຂອງຂ້ອຍ. ມູຟມັກຮູບພາບ.
+
+111
+00:08:00,650 --> 00:08:05,550
+[MS. KELLY]
+This is one of the old federal textbooks. We've replaced them with corrected versions.
+ນີ້ແມ່ນ ຫນຶ່ງ ໃນປື້ມສອນລັດຖະບານກາງເກົ່າ.
+ພວກເຮົາໄດ້ທົດແທນພວກມັນດ້ວຍລຸ້ນທີ່ຖືກແກ້ໄຂ.
+
+112
+00:08:06,050 --> 00:08:08,050
+[COOPER]
+Corrected?
+ຖືກແກ້ໄຂບໍ?
+
+113
+00:08:08,550 --> 00:08:14,550
+[MS. KELLY]
+The new textbooks explain that the Apollo lunar missions were faked in order to bankrupt the Soviet Union.
+ປື້ມຮຽນໃຫມ່ອະທິບາຍວ່າ ການປະຕິບັດງານດວງຈັນ Apollo
+ໄດ້ຖືກປອມແປງເພື່ອເຮັດໃຫ້ສະຫະພາບໂຊວຽດສໍ້ລາດບັງຫຼວງ.
+
+114
+00:08:15,050 --> 00:08:17,850
+[COOPER]
+You don't believe we went to the moon?
+ເຈົ້າບໍ່ເຊື່ອວ່າພວກເຮົາໄປຫາດວງຈັນບໍ?
+
+115
+00:08:18,350 --> 00:08:24,350
+[MS. KELLY]
+I believe it was a brilliant piece of propaganda. The Soviets spent years trying to build rockets and other useless machines.
+ຂ້ອຍເຊື່ອວ່າມັນເປັນກະທູ້ໂຄສະນາທີ່ສວຍງາມ.
+ຊາວໂຊວຽດໄດ້ໃຊ້ຫຼາຍປີພະຍາຍາມສ້າງລູກສອນໄຟແລະເຄື່ອງຈັກທີ່ບໍ່ມີປະໂຫຍດອື່ນໆ.
+
+116
+00:08:24,850 --> 00:08:26,850
+[COOPER]
+"Useless machines"? 18.
+ເຄື່ອງຈັກທີ່ບໍ່ມີປະໂຫຍດບໍ? 18.
+
+117
+00:08:27,350 --> 00:08:33,350
+[MS. KELLY]
+Yes, Mr. Cooper. The kind of wastefulness and excess that the 20th century represented. Your children would be better off learning about this planet, rather than reading fantasies about leaving it.
+ແມ່ນແລ້ວ, ທ້າວ ຄູເປີ. ຄວາມເສຍຫາຍແລະເກີນໄປທີ່ສະຕະວັດທີ 20 ສະແດງໃຫ້ເຫັນ.
+ລູກຂອງທ່ານຈະດີກວ່າທີ່ຈະຮຽນຮູ້ກ່ຽວກັບໂລກນີ້, ແທນທີ່ຈະອ່ານຄວາມຄິດກ່ຽວກັບການອອກຈາກມັນ.
+
+118
+00:08:33,850 --> 00:08:39,850
+[COOPER]
+One of those useless machines they used to make was called an MRI. If we had any of them left the doctors might have been able to find the cyst in my wife's brain before she died, rather than afterwards. And then my kids could have been raised by two parents, instead of me and their pain-in-the-ass grandfather.
+ຫນຶ່ງໃນເຄື່ອງຈັກທີ່ບໍ່ມີປະໂຫຍດທີ່ພວກເຂົາເຄີຍເຮັດແມ່ນເອີ້ນວ່າ MRI. ຖ້າພວກເຮົາມີບາງຢ່າງຂອງພວກເຂົາອອກຈາກຫມໍອາດຈະສາມາດຊອກຫາ cyst ໃນສະຫມອງຂອງເມຍຂອງຂ້ອຍກ່ອນທີ່ນາງຈະຕາຍ
+, ແທນທີ່ຈະຫຼັງຈາກນັ້ນ. ແລະຫຼັງຈາກນັ້ນລູກຂອງຂ້ອຍສາມາດໄດ້ຮັບການລ້ຽງດູໂດຍພໍ່ແມ່ສອງຄົນ, ແທດທີ່ຈະຂ້ອຍແລະພໍ່ເຖົ້າທີ່ເຈັບປວດໃນບາກຂອງພວກເຂົາ.
+
+119
+00:08:40,350 --> 00:08:46,350
+[COOPER]
+You ever consider the best thing for the world and humanity might have been for us to part company?
+ເຈົ້າເຄີຍຄິດວ່າສິ່ງທີ່ດີທີ່ສຸດ ສໍາ ລັບໂລກແລະມະນຸດສະ
+ທໍາ ອາດຈະເປັນໃຫ້ພວກເຮົາແຍກບໍລິສັດບໍ?
+
+120
+00:08:46,850 --> 00:08:52,850
+[CB OPERATOR]
+Got a call from Riggs, down in Galveston. Says some of the tractors you built him went haywire last night.
+ຂ້ອຍໄດ້ຮັບໂທລະສັບຈາກ ຣິກຈສ໌, ຢູ່ລຸ່ມໃນແກລເວສຕັນ.
+ເວົ້າວ່າບາງຕຣັກເຕີທີ່ທ່ານສ້າງລາວໄດ້ໂຊກຮ້າຍໃນມື້ວານນີ້.
+
+121
+00:08:53,350 --> 00:08:57,550
+[COOPER]
+Just tell him to power down the controllers for a couple minutes.
+ພຽງແຕ່ບອກລາວໃຫ້ປິດເຄື່ອງຄວບຄຸມເປັນເວລາສອງສາມນາທີ.
+
+122
+00:08:58,050 --> 00:09:04,050
+[CB OPERATOR]
+I did. He wants you to come down in person anyway. Says he found something you should take a look at. 19.
+ຂ້ອຍເຮັດແລ້ວ. ລາວຢາກໃຫ້ເຈົ້າລົງໂດຍຕົວເອງຢ່າງໃດກໍ່ຕາມ
+. ລາວເວົ້າວ່າລາວພົບບາງສິ່ງບາງຢ່າງທີ່ທ່ານຄວນເບິ່ງ. 19.
+
+123
+00:09:04,550 --> 00:09:07,000
+[COOPER]
+Bravo-two-eight, requesting permission to enter your airspace.
+ບຣາວໂກ້ສອງແປດ, ຂໍອະນຸຍາດເຂົ້າໄປໃນພື້ນທີ່ອາກາດຂອງທ່ານ.
+
+124
+00:09:07,500 --> 00:09:10,650
+[AIR TRAFFIC CONTROL]
+Permission granted. Welcome to the sovereign nation of Texas.
+ຂໍອະນຸຍາດໃຫ້. ຍິນດີຕ້ອນຮັບໃນປະເທດເອກະລາດຂອງເທັກຊັສ.
+
+125
+00:09:11,150 --> 00:09:17,150
+[RIGGS]
+Thanks for coming down. Half of 'em took off last night, looking for something.  Looks like they found it, too. I thought you were the man to see it.
+ຂອບໃຈທີ່ລົງມາ. ເຄິ່ງຫນຶ່ງຂອງພວກເຂົາໄດ້ບິນໃນມື້ວານນີ້, ຊອກຫາບາງສິ່ງບາງຢ່າງ
+. ເບິ່ງຄືວ່າພວກເຂົາພົບມັນເຊັ່ນກັນ. ຂ້ອຍຄິດວ່າເຈົ້າເປັນຜູ້ຊາຍທີ່ຈະເຫັນມັນ.
+
+126
+00:09:17,650 --> 00:09:19,650
+[RIGGS]
+You think it's an alien?
+ເຈົ້າຄິດວ່າມັນເປັນຄົນຕ່າງດາວບໍ?
+
+127
+00:09:20,150 --> 00:09:22,150
+[COOPER]
+Not exactly.
+ບໍ່ແນ່ນອນ.
+
+128
+00:09:22,650 --> 00:09:28,250
+[COOPER]
+Space probe. Never seen one like it, though. Looks like it's been to hell and back.
+ການຄົ້ນຄວ້າອະວະກາດ. ບໍ່ເຄີຍເຫັນແບບນີ້ເລີຍ,
+ເຖິງຢ່າງໃດກໍ່ຕາມ. ເບິ່ງຄືວ່າມັນໄດ້ໄປສູ່ອານາໄມແລະກັບມາ.
+
+129
+00:09:28,750 --> 00:09:31,550
+[RIGGS]
+How do you think it wound up here?
+ເຈົ້າຄິດວ່າມັນສິ້ນສຸດລົງຢູ່ບ່ອນນີ້ແນວໃດ?
+
+130
+00:09:32,050 --> 00:09:37,650
+[COOPER]
+Lost, I guess. Guidance satellites would have been shot down by the Chinese twenty years ago.
+ຂ້ອຍຄິດວ່າຫາຍໄປ. ດາວທຽມຄູ່ມືຈະຖືກຍິງລົງໂດຍຊາວຈີນເມື່ອສິບປີກ່ອນ.
+
+131
+00:09:38,150 --> 00:09:43,750
+[COOPER]
+Well I don't know what the hell it's made of, but I can't crack it open.
+ດີຂ້ອຍບໍ່ຮູ້ວ່າມັນເຮັດດ້ວຍຫຍັງ, ແຕ່ຂ້ອຍບໍ່ສາມາດເປີດມັນໄດ້.
+
+132
+00:09:44,250 --> 00:09:48,100
+[DONALD]
+Good. Clear it off the table so I can serve dinner.
+ດີ. ເອົາມັນອອກຈາກໂຕະເພື່ອໃຫ້ຂ້ອຍສາມາດຮັບໃຊ້ອາຫານຄໍ່າໄດ້.
+
+133
+00:09:48,600 --> 00:09:50,600
+[DONALD]
+What happened this time?
+ເກີດຫຍັງຂຶ້ນຄັ້ງນີ້?
+
+134
+00:09:51,100 --> 00:09:57,100
+[MURPH]
+I got suspended. Paul said anyone who believed we went to the moon was an idiot. So I hit him.
+ຂ້ອຍຖືກໂຈະໄວ້. ໂປລ ກ່າວວ່າໃຜທີ່ເຊື່ອວ່າພວກເຮົາໄປຫາດວງຈັນແມ່ນຄົນໂງ່
+. ສະນັ້ນຂ້ອຍໄດ້ຕີລາວ.
+
+135
+00:09:57,600 --> 00:09:59,700
+[COOPER]
+Good boy. Hand me the scanner.
+ເດັກຊາຍທີ່ດີ. ມອບເຄື່ອງສະແກນໃຫ້ຂ້ອຍ.
+
+136
+00:10:00,200 --> 00:10:05,800
+[COOPER]
+Here we go. Standard NASA encryption. Memory's been damaged. Just noise. Hold on. I've got something.
+ມາແລ້ວ. ການເຂົ້າລະຫັດມາດຕະຖານຂອງ NASA. ຄວາມຊົງຈໍາໄດ້ຖືກເສຍຫາຍ
+. ພຽງແຕ່ສຽງດັງ. ລໍຖ້າ. ຂ້ອຍມີບາງສິ່ງບາງຢ່າງ.
+
+137
+00:10:06,300 --> 00:10:08,300
+[MURPH]
+Where is that, dad?
+ນັ້ນຢູ່ໃສ, ພໍ່?
+
+138
+00:10:08,800 --> 00:10:10,800
+[COOPER]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+139
+00:10:11,300 --> 00:10:13,750
+[COOPER]
+Where the hell did you come from?
+ເຈົ້າມາຈາກໃສ?
+
+140
+00:10:14,250 --> 00:10:20,200
+[COOPER]
+We'll take it down to Tyson's tomorrow and have it melted down. Might be some copper inside.
+ພວກເຮົາຈະເອົາມັນລົງໄປເຮືອນໄຕສັນມື້ອື່ນແລະເຮັດໃຫ້ມັນລະລາຍລົງ
+. ອາດຈະມີທອງແດງບາງຢ່າງພາຍໃນ.
+
+141
+00:10:20,700 --> 00:10:24,200
+[MURPH]
+But what about its mission? What about the information onboard?
+ແຕ່ກ່ຽວກັບພາລະກິດຂອງມັນແນວໃດ? ກ່ຽວກັບຂໍ້ມູນໃນເຮືອແນວໃດ?
+
+142
+00:10:24,700 --> 00:10:30,700
+[COOPER]
+There's no one for it to report to. NASA is all gone. I'm sorry, son. It got home too late.
+ບໍ່ມີໃຜທີ່ຈະລາຍງານໃຫ້ມັນ. ນາຊາຫມົດໄປແລ້ວ
+. ຂ້ອຍຂໍໂທດ, ລູກຊາຍ. ມັນກັບບ້ານຊ້າເກີນໄປ.
+
+143
+00:10:31,200 --> 00:10:35,050
+[DONALD]
+I heard your meeting at the school didn't go so well.
+ຂ້ອຍໄດ້ຍິນວ່າກອງປະຊຸມຂອງທ່ານຢູ່ໂຮງຮຽນບໍ່ໄດ້ໄປດີຫຼາຍ.
+
+144
+00:10:35,550 --> 00:10:41,550
+[COOPER]
+Maybe it's better for everyone to forget what they did back then. Reminds us how far we've fallen.
+ບາງທີມັນດີກວ່າ ສໍາ ລັບທຸກຄົນທີ່ຈະລືມສິ່ງທີ່ພວກເຂົາເຮັດໃນເວລານັ້ນ
+. ຈື່ພວກເຮົາວ່າພວກເຮົາຕົກໄປໄກປານໃດ.
+
+145
+00:10:42,050 --> 00:10:48,050
+[DONALD]
+When I was kid, it felt like they made something new every day. Some gadget or idea. Like every day was Christmas. But we made a lot of mistakes. Six billion people. Just try to imagine that. Every last one of them trying to have it all.
+ເມື່ອຂ້ອຍເປັນເດັກນ້ອຍ, ມັນຮູ້ສຶກວ່າພວກເຂົາເຮັດບາງສິ່ງບາງຢ່າງ ໃຫມ່ ທຸກໆມື້. ເຄື່ອງຈັກຫຼືຄວາມຄິດບາງຢ່າງ. ຄືກັບວ່າທຸກໆມື້ແມ່ນຄຣິສມັສ
+. ແຕ່ພວກເຮົາເຮັດຄວາມຜິດພາດຫຼາຍຢ່າງ. ຄົນຫົກພັນລ້ານຄົນ. ພຽງແຕ່ພະຍາຍາມຈິນຕະນາການນັ້ນ. ທຸກຄົນສຸດທ້າຍຂອງພວກເຂົາພະຍາຍາມມີມັນທັງ ຫມົດ.
+
+146
+00:10:48,550 --> 00:10:54,550
+[DONALD]
+The truth is this world isn't that bad. In a lot of ways its better. Tom will be all right, whether he goes to college or not.
+ຄວາມຈິງແມ່ນວ່າໂລກນີ້ບໍ່ຮ້າຍແຮງຫຼາຍ. ໃນຫຼາຍທາງມັນດີກວ່າ
+. ໂຕມຈະດີດີ, ບໍ່ວ່າລາວຈະໄປວິທະຍາໄລຫຼືບໍ່.
+
+147
+00:10:55,050 --> 00:11:00,300
+[COOPER]
+It doesn't bother me that he can't go. It bothers me that he doesn't care.
+ມັນບໍ່ກັງວົນຂ້ອຍວ່າມັນບໍ່ສາມາດໄປໄດ້
+. ມັນກັງ ວົນຂ້ອຍວ່າລາວບໍ່ສົນໃຈ.
+
+148
+00:11:00,800 --> 00:11:06,800
+[DONALD]
+Tom isn't the problem. He fits in this world just fine. You're the one who doesn't fit, Coop. You don't belong here. You were born forty years too late, or forty years too early -- I don't know. My daughter knew it, god bless her. And your kids know it, too.
+ໂຕມບໍ່ແມ່ນບັນຫາ. ລາວ ເຫມາະ ສົມກັບໂລກນີ້ດີໆ. ເຈົ້າເປັນຄົນທີ່ບໍ່ ເຫມາະ ສົມ, ຄູບ. ເຈົ້າບໍ່ຂຶ້ນກັບບ່ອນນີ້.
+ເຈົ້າເກີດມາສີ່ສິບປີຊ້າເກີນໄປ, ຫຼືສີ່ ສິບປີກ່ອນ - ຂ້ອຍບໍ່ຮູ້. ລູກສາວຂອງຂ້ອຍຮູ້ມັນ, ພຣະເຈົ້າໃຫ້ພອນນາງ. ແລະລູກຂອງທ່ານຮູ້ມັນເຊັ່ນກັນ.
+
+149
+00:11:07,300 --> 00:11:13,300
+[DONALD]
+You were good at something and you never got a chance to do anything with it. And I'm sorry, Coop. But that's not your kids' fault.
+ເຈົ້າດີໃນບາງສິ່ງບາງຢ່າງແລະເຈົ້າບໍ່ເຄີຍມີໂອກາດທີ່ຈະເຮັດຫຍັງກັບມັນ
+. ແລະຂ້ອຍຂໍໂທດ, ຄູບ. ແຕ່ມັນບໍ່ແມ່ນຄວາມຜິດຂອງລູກຂອງທ່ານ.
+
+150
+00:11:13,800 --> 00:11:19,750
+[DEAFENING SCREAM.]
+Cooper, holding his ears, moves closer to the probe. He hits it with the paddles. No result.
+ຄູເປີ, ຈັບຫູຂອງລາວ, ຍ້າຍໃກ້ຊິດກັບເຄື່ອງກວດສອບ
+. ລາວຕີມັນດ້ວຍກະຕ່າກະດານ. ບໍ່ມີຜົນໄດ້ຮັບ.
+
+151
+00:11:20,250 --> 00:11:22,250
+[MURPH]
+Try a different direction.
+ພະຍາຍາມທາງອື່ນ.
+
+152
+00:11:22,750 --> 00:11:26,950
+[COOPER]
+It's a fail-safe. It's going to annoy us into taking it home.
+ມັນເປັນຄວາມປອດໄພຈາກຄວາມລົ້ມເຫຼວ.
+ມັນຈະເຮັດໃຫ້ພວກເຮົາໂຊກຮ້າຍຈົນເອົາມັນກັບບ້ານ.
+
+153
+00:11:27,450 --> 00:11:29,550
+[TOM]
+What are we going to do?
+ພວກເຮົາຈະເຮັດແນວໃດ?
+
+154
+00:11:30,050 --> 00:11:32,150
+[COOPER]
+We're going to get some sleep.
+ພວກເຮົາຈະນອນບາງຢ່າງ.
+
+155
+00:11:32,650 --> 00:11:34,650
+[MURPH]
+What are we doing today?
+ພວກເຮົາຈະເຮັດຫຍັງໃນມື້ນີ້?
+
+156
+00:11:35,150 --> 00:11:37,600
+[COOPER]
+You're staying here and cleaning the house.
+ເຈົ້າຈະຢູ່ບ່ອນນີ້ແລະເຮັດຄວາມສະອາດເຮືອນ.
+
+157
+00:11:38,100 --> 00:11:42,300
+[COOPER]
+I told you, Murph. There's no one to take it back to.
+ຂ້ອຍບອກເຈົ້າແລ້ວ, ມູຟ. ບໍ່ມີໃຜທີ່ຈະເອົາມັນກັບຄືນໄປບ່ອນ.
+
+158
+00:11:42,800 --> 00:11:47,350
+[MURPH]
+But what if there is, dad? What if there's something we can salvage?
+ແຕ່ຖ້າມີຫຍັງ, ພໍ່?
+ຖ້າມີບາງສິ່ງບາງຢ່າງທີ່ພວກເຮົາສາມາດຊ່ວຍໄດ້ແນວໃດ?
+
+159
+00:11:47,850 --> 00:11:49,850
+[COOPER]
+Got any diesel?
+ເຈົ້າມີດີເຊວບໍ?
+
+160
+00:11:50,350 --> 00:11:52,450
+[OLD MAN]
+Plenty. Shame you can't eat it.
+ຫຼາຍ. ໂຊກຮ້າຍທີ່ເຈົ້າບໍ່ສາມາດກິນມັນໄດ້.
+
+161
+00:11:52,950 --> 00:11:54,950
+[MURPH]
+I think it's home.
+ຂ້ອຍຄິດວ່າມັນຢູ່ເຮືອນແລ້ວ.
+
+162
+00:11:55,450 --> 00:11:57,450
+[MURPH]
+Dad, what are these things?
+ພໍ່, ສິ່ງເຫຼົ່ານີ້ແມ່ນຫຍັງ?
+
+163
+00:11:57,950 --> 00:12:00,400
+[COOPER]
+I don't know. Don't touch them. 27.
+ຂ້ອຍບໍ່ຮູ້. ຢ່າຈັບພວກມັນ. 27.
+
+164
+00:12:00,900 --> 00:12:02,900
+[COOPER]
+Murph?
+ມູຟ?
+
+165
+00:12:03,400 --> 00:12:06,900
+[COOPER]
+Careful. There's some kind of underground facility here. We might...
+ລະມັດລະວັງ. ມີສະຖານທີ່ໃຕ້ດິນບາງຢ່າງຢູ່ນີ້. ພວກເຮົາອາດຈະ...
+
+166
+00:12:07,400 --> 00:12:09,400
+[MURPH]
+Is it still... alive?
+ມັນຍັງມີຊີວິດຢູ່ບໍ?
+
+167
+00:12:09,900 --> 00:12:15,850
+[COOPER]
+Can't be. It's a marine. Haven't made them for thirty years. I've never seen one intact before.
+ມັນບໍ່ສາມາດເປັນໄດ້. ມັນແມ່ນທະຫານເຮືອ. ບໍ່ໄດ້ເຮັດພວກມັນເປັນເວລາສາມສິບປີແລ້ວ
+. ຂ້ອຍບໍ່ເຄີຍເຫັນ ຫນຶ່ງ ຢ່າງບໍ່ເສຍຫາຍກ່ອນ.
+
+168
+00:12:16,350 --> 00:12:18,800
+[COOPER]
+I think we need to go, Murph.
+ຂ້ອຍຄິດວ່າພວກເຮົາຕ້ອງໄປ, ມູຟ.
+
+169
+00:12:19,300 --> 00:12:24,900
+[MURPH]
+But can't we take it back? You could fix it up, get him to do chores.
+ແຕ່ພວກເຮົາບໍ່ສາມາດເອົາມັນຄືນໄດ້ບໍ?
+ເຈົ້າສາມາດສ້ອມແປງມັນໄດ້, ເຮັດໃຫ້ລາວເຮັດວຽກງານ.
+
+170
+00:12:25,400 --> 00:12:29,250
+[COOPER]
+No. I don't know what this place is, but we're leaving.
+ບໍ່. ຂ້ອຍບໍ່ຮູ້ວ່າບ່ອນນີ້ເປັນຫຍັງ, ແຕ່ພວກເຮົາ ກໍາ ລັງອອກຈາກ.
+
+171
+00:12:29,750 --> 00:12:32,200
+[ROBOT]
+Tell the boy to stop hitting me.
+ບອກເດັກຊາຍໃຫ້ຢຸດຕີຂ້ອຍ.
+
+172
+00:12:32,700 --> 00:12:35,500
+[COOPER]
+Hit him in the back of the neck.
+ຕີລາວຢູ່ດ້ານຫຼັງຂອງຄໍ.
+
+173
+00:12:36,000 --> 00:12:38,000
+[VOICE]
+I wouldn't do that.
+ຂ້ອຍຈະບໍ່ເຮັດແບບນັ້ນ.
+
+174
+00:12:38,500 --> 00:12:40,600
+[COOPER]
+We were just looking for salvage.
+ພວກເຮົາພຽງແຕ່ຊອກຫາການຊ່ວຍເຫຼືອ.
+
+175
+00:12:41,100 --> 00:12:43,900
+[BRAND]
+Is that what they call stealing these days?
+ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາເອີ້ນວ່າການລັກໃນມື້ນີ້ບໍ?
+
+176
+00:12:44,400 --> 00:12:47,200
+[COOPER]
+I didn't know it belonged to anyone. 29.
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນເປັນຂອງໃຜເລີຍ. 29.
+
+177
+00:12:47,700 --> 00:12:53,700
+[BRAND]
+It doesn't. You want to let them go, Tars, or do you want some help with your work?
+ມັນບໍ່ເຮັດ. ເຈົ້າຢາກປ່ອຍພວກເຂົາໄປ, ຕາສ໌,
+ຫຼືເຈົ້າຕ້ອງການຄວາມຊ່ວຍເຫຼືອບາງຢ່າງກັບວຽກງານຂອງທ່ານບໍ?
+
+178
+00:12:54,200 --> 00:12:56,200
+[COOPER]
+You've got me wrong, lady.
+ເຈົ້າເຂົ້າໃຈຂ້ອຍຜິດ, ແມ່ຍິງ.
+
+179
+00:12:56,700 --> 00:13:02,700
+[BRAND]
+Really? You're not the kind of guy who turns a combat marine with a supercomputer for a brain into a riding lawn mower?
+ແທ້ຈິງບໍ? ເຈົ້າບໍ່ແມ່ນຄົນປະເພດທີ່ປ່ຽນທະຫານເຮືອສູ້ຮົບດ້ວຍຄອມພິວເຕີໃຫຍ່
+ສໍາ ລັບສະຫມອງເປັນເຄື່ອງຕັດຫຍ້າຂີ່ລົດບໍ?
+
+180
+00:13:03,200 --> 00:13:08,800
+[BRAND]
+Get back in your little plane, go back to your farming commune. And don't come back.
+ກັບຄືນໄປໃນເຮືອບິນນ້ອຍຂອງທ່ານ,
+ກັບຄືນໄປບ່ອນຄອມມິເນຍການກະສິກໍາຂອງທ່ານ. ແລະຢ່າກັບມາ.
+
+181
+00:13:09,300 --> 00:13:11,300
+[TARS]
+Don't forget your gun.
+ຢ່າລືມປືນຂອງທ່ານ.
+
+182
+00:13:11,800 --> 00:13:17,800
+[COOPER]
+Word of advice -- careful with that thing. When the war was over, they didn't know when to stop fighting.
+ຄໍາ ແນະ ນໍາ - ລະມັດລະວັງກັບສິ່ງນັ້ນ. ເມື່ອສົງຄາມສິ້ນສຸດລົງ
+, ພວກເຂົາບໍ່ຮູ້ວ່າຈະຢຸດການຕໍ່ສູ້ເມື່ອໃດ.
+
+183
+00:13:18,300 --> 00:13:22,500
+[BRAND]
+I'd trust him a lot more than I'd trust you. Keep moving.
+ຂ້ອຍຈະເຊື່ອລາວຫຼາຍກ່ວາຂ້ອຍຈະເຊື່ອເຈົ້າ. ສືບຕໍ່ເຄື່ອນຍ້າຍ.
+
+184
+00:13:23,000 --> 00:13:25,000
+[COOPER]
+Wait a second--
+ລໍຖ້າວິນາທີຫນຶ່ງ...
+
+185
+00:13:25,500 --> 00:13:27,500
+[BRAND]
+Get it inside. 30.
+ເອົາມັນເຂົ້າໄປໃນ. 30.
+
+186
+00:13:28,000 --> 00:13:31,850
+[BRAND]
+You too. We'll figure out what to do with you later.
+ເຈົ້າຄືກັນ. ພວກເຮົາຈະຄິດວ່າຈະເຮັດຫຍັງກັບເຈົ້າຕໍ່ມາ.
+
+187
+00:13:32,350 --> 00:13:34,350
+[COOPER]
+Now who's stealing from who?
+ດຽວນີ້ໃຜ ກໍາ ລັງລັກຈາກໃຜ?
+
+188
+00:13:34,850 --> 00:13:36,850
+[BRAND]
+This doesn't belong to you.
+ນີ້ແມ່ນບໍ່ແມ່ນຂອງເຈົ້າ.
+
+189
+00:13:37,350 --> 00:13:43,350
+[COOPER]
+You're right. It belongs to NASA, which shut down thirty years ago when the federal government ran out of money.
+ເຈົ້າເວົ້າຖືກຕ້ອງ. ມັນຂຶ້ນກັບ NASA,
+ເຊິ່ງປິດລົງເມື່ອສາມສິບປີກ່ອນເມື່ອລັດຖະບານກາງຫມົດເງິນ.
+
+190
+00:13:43,850 --> 00:13:45,850
+[COOPER]
+Who are you people?
+ພວກເຈົ້າເປັນໃຜ?
+
+191
+00:13:46,350 --> 00:13:51,250
+[BRAND]
+The government gave us plenty of practice looking for our own funding.  Keep moving.
+ລັດຖະບານໄດ້ໃຫ້ພວກເຮົາຝຶກຊ້ອມຫຼາຍຢ່າງຊອກຫາທຶນຂອງພວກເຮົາເອງ
+. ສືບຕໍ່ເຄື່ອນຍ້າຍ.
+
+192
+00:13:51,750 --> 00:13:57,750
+[BRAND]
+I found them outside with it. It looks like six. Maybe seven. I can't tell from the radiation damage.
+ຂ້ອຍພົບພວກມັນຢູ່ພາຍນອກດ້ວຍມັນ. ມັນເບິ່ງຄືວ່າຫົກ.
+ບາງທີເຈັດ. ຂ້ອຍບໍ່ສາມາດບອກໄດ້ຈາກຄວາມເສຍຫາຍຈາກແສງສະຫວ່າງ.
+
+193
+00:13:58,250 --> 00:14:00,250
+[OLD ENGINEER]
+Where did you find it?
+ເຈົ້າພົບມັນຢູ່ໃສ?
+
+194
+00:14:00,750 --> 00:14:02,750
+[COOPER]
+Galveston.
+ແກລເວສຕັນ.
+
+195
+00:14:03,250 --> 00:14:06,400
+[BRAND'S FATHER]
+Of course. It must have been looking for Canaveral.
+ແນ່ນອນ. ມັນຕ້ອງໄດ້ຊອກຫາຄາເນເວຣາລ.
+
+196
+00:14:06,900 --> 00:14:09,000
+[COOPER]
+Canaveral's been gone for thirty years.
+ຄານາເວຣາລຫາຍໄປເປັນເວລາສາມສິບປີແລ້ວ.
+
+197
+00:14:09,500 --> 00:14:13,700
+[DOYLE]
+It's not responding to the handshake. I can't open anything on primary.
+ມັນບໍ່ໄດ້ຕອບໂຕ້ຕໍ່ການຈັບມື. ຂ້ອຍບໍ່ສາມາດເປີດຫຍັງໄດ້ໃນຂັ້ນຕົ້ນ.
+
+198
+00:14:14,200 --> 00:14:16,300
+[BRAND]
+What did you do to it?
+ເຈົ້າເຮັດຫຍັງກັບມັນ?
+
+199
+00:14:16,800 --> 00:14:19,250
+[COOPER]
+Nothing. I got something off of it.
+ບໍ່ມີຫຍັງເລີຍ. ຂ້ອຍໄດ້ບາງສິ່ງບາງຢ່າງຈາກມັນ.
+
+200
+00:14:19,750 --> 00:14:21,750
+[COOPER]
+May I?
+ຂ້ອຍເຮັດໄດ້ບໍ?
+
+201
+00:14:22,250 --> 00:14:27,500
+[OLD ENGINEER]
+Of course. The high voltage allows you to image the entire memory unit at once.
+ແນ່ນອນ. ແຮງດັນສູງຊ່ວຍໃຫ້ທ່ານສາມາດຖ່າຍຮູບ
+ຫນ່ວຍ ຄວາມຊົງຈໍາທັງ ຫມົດ ໃນເວລາດຽວກັນ.
+
+202
+00:14:28,000 --> 00:14:31,850
+[COOPER]
+Most of the disk was noise. Couple of clean sectors, though.
+ສ່ວນໃຫຍ່ຂອງແຜ່ນແມ່ນສຽງດັງ. ແຕ່ສອງສາມພາກສ່ວນທີ່ສະອາດ.
+
+203
+00:14:32,350 --> 00:14:38,350
+[DOYLE]
+It found something. Very thin nitrogen-based atmosphere. Trace radiation. Surface is ninety percent frozen water. Ten percent rock -- sedimentary composition similar to limestone. Wow. Pockets of oxygen below the surface. Lots and lots of oxygen. This could be the one, boss.
+ມັນພົບບາງສິ່ງບາງຢ່າງ. ອາກາດທີ່ອີງໃສ່ໄນໂຕເຈນທີ່ອ່ອນແອຫຼາຍ. ແສງສະຫວ່າງຕິດຕາມ. ພື້ນຜິວແມ່ນນ້ ໍາ ກ້ອນເກົ້າສິບເປີເຊັນ. ຫີນຫ້າເປີ ເຊັນ
+- ການປະກອບຝຸ່ນທີ່ຄ້າຍຄືກັບຫີນກ້ອນ. ໂວ້. ກະເປົາອົກຊີເຈນຢູ່ພາຍໃຕ້ພື້ນຜິວ. ອົກຊິເຈນຫຼາຍແລະຫຼາຍ. ນີ້ແມ່ນອາດຈະເປັນຄົນດຽວ, ຫົວຫນ້າ.
+
+204
+00:14:38,850 --> 00:14:44,850
+[COOPER]
+There aren't any planets like that anywhere near earth. Not even if this thing was gone for thirty years.
+ບໍ່ມີດາວທຽມແບບນັ້ນຢູ່ບ່ອນໃດທີ່ໃກ້ກັບໂລກ.
+ບໍ່ເຖິງແມ່ນວ່າສິ່ງນີ້ຈະຫາຍໄປເປັນເວລາສາມສິບປີ.
+
+205
+00:14:45,350 --> 00:14:50,950
+[BRAND]
+He's heard enough. If we're going to launch, we need to keep them here until afterwards.
+ລາວໄດ້ຍິນພຽງພໍແລ້ວ. ຖ້າພວກເຮົາຈະເປີດຕົວ,
+ພວກເຮົາຕ້ອງຮັກສາພວກມັນຢູ່ບ່ອນນີ້ຈົນກວ່າຫຼັງຈາກນັ້ນ.
+
+206
+00:14:51,450 --> 00:14:53,550
+[COOPER]
+You can't keep us here. 33.
+ເຈົ້າບໍ່ສາມາດຮັກສາພວກເຮົາຢູ່ບ່ອນນີ້ໄດ້. 33.
+
+207
+00:14:54,050 --> 00:14:56,050
+[BRAND]
+He could endanger the mission.
+ລາວອາດຈະເຮັດໃຫ້ພາລະກິດອັນຕະລາຍ.
+
+208
+00:14:56,550 --> 00:15:00,750
+[COOPER]
+I'm not going to endanger it any more than you already have.
+ຂ້ອຍຈະບໍ່ເຮັດໃຫ້ມັນສ່ຽງກວ່າເຈົ້າແລ້ວ.
+
+209
+00:15:01,250 --> 00:15:03,350
+[COOPER]
+Are you using that for guidance?
+ເຈົ້າ ກໍາ ລັງໃຊ້ມັນເພື່ອແນະນໍາບໍ?
+
+210
+00:15:03,850 --> 00:15:06,650
+[DOYLE]
+Why not? We've tested it a hundred times.
+ເປັນຫຍັງບໍ່? ພວກເຮົາໄດ້ທົດສອບມັນຫຼາຍຮ້ອຍຄັ້ງແລ້ວ.
+
+211
+00:15:07,150 --> 00:15:12,750
+[COOPER]
+The power supply is no good. If the voltage fluctuates under load, the unit will fail.
+ການສະ ຫນອງ ພະລັງງານບໍ່ດີ.
+ຖ້າແຮງດັນໄຟຟ້າປ່ຽນແປງພາຍໃຕ້ໂຫຼດ, ຫນ່ວຍ ງານຈະລົ້ມເຫຼວ.
+
+212
+00:15:13,250 --> 00:15:15,700
+[BRAND]
+Now how could you possibly know that?
+ດຽວນີ້ເຈົ້າຮູ້ໄດ້ແນວໃດ?
+
+213
+00:15:16,200 --> 00:15:22,200
+[COOPER]
+Bought thirty of them off a guy in Florida. Had to rebuild every last one. They work great on a riding lawn mower.
+ຊື້ສາມສິບຂອງພວກມັນຈາກຜູ້ຊາຍໃນຟລໍຣິດາ. ຕ້ອງສ້າງຄືນທຸກຄົນສຸດທ້າຍ
+. ພວກເຂົາເຮັດວຽກດີໃນເຄື່ອງຕັດຫຍ້າທີ່ຂີ່ລົດ.
+
+214
+00:15:22,700 --> 00:15:25,150
+[COOPER]
+You plan on keeping us here forever?
+ເຈົ້າວາງແຜນທີ່ຈະເຮັດໃຫ້ພວກເຮົາຢູ່ບ່ອນນີ້ຕະຫຼອດໄປບໍ?
+
+215
+00:15:25,650 --> 00:15:29,150
+[TARS]
+My battery has a duty cycle of five hundred years.
+ແບັດເຕີຣີຂອງຂ້ອຍມີວົງຈອນການເຮັດວຽກຂອງຫ້າຮ້ອຍປີ.
+
+216
+00:15:29,650 --> 00:15:31,650
+[MURPH]
+What are they doing, dad?
+ພວກເຂົາ ກໍາ ລັງເຮັດຫຍັງ, ພໍ່?
+
+217
+00:15:32,150 --> 00:15:38,150
+[COOPER]
+I guess no one told them they were out of a job.  Same as the rest of these people.
+ຂ້ອຍຄິດວ່າບໍ່ມີໃຜບອກພວກເຂົາວ່າພວກເຂົາບໍ່ມີວຽກເຮັດງານທໍາ
+. ເຊັ່ນດຽວກັນກັບຄົນອື່ນໆເຫຼົ່ານີ້.
+
+218
+00:15:38,650 --> 00:15:44,650
+[BRAND]
+The mission commander wants to see you. Your son can stay here. He'll be all right with Tars.
+ຜູ້ບັນຊາການພາລະກິດຢາກເຫັນເຈົ້າ.
+ລູກຊາຍຂອງທ່ານສາມາດຢູ່ບ່ອນນີ້ໄດ້. ລາວຈະດີກັບຕາສ໌.
+
+219
+00:15:45,150 --> 00:15:47,950
+[COOPER]
+I thought the old man was in charge.
+ຂ້ອຍຄິດວ່າພໍ່ເຖົ້າແມ່ນຜູ້ຮັບຜິດຊອບ.
+
+220
+00:15:48,450 --> 00:15:54,450
+[BRAND]
+The 'old man' is my father. And he was in charge. But he decided that we needed someone who could lead the mission for the foreseeable future.
+ຜູ້ຊາຍເກົ່າແມ່ນພໍ່ຂອງຂ້ອຍ. ແລະລາວເປັນຜູ້ຮັບຜິດຊອບ. ແຕ່ລາວຕັດສິນໃຈວ່າພວກເຮົາຕ້ອງການຄົນ
+ຫນຶ່ງ ທີ່ສາມາດ ນໍາ ພາພາພາລະກິດໃນອະນາຄົດທີ່ຄາດຄະເນໄດ້.
+
+221
+00:15:54,950 --> 00:15:56,950
+[COOPER]
+Not you?
+ບໍ່ແມ່ນເຈົ້າບໍ?
+
+222
+00:15:57,450 --> 00:15:59,450
+[BRAND]
+I'm a biologist. 35.
+ຂ້ອຍເປັນນັກຊີວະວິທະຍາ. 35.
+
+223
+00:15:59,950 --> 00:16:03,450
+[COOPER]
+You don't look like one.  With the rifle, I mean.
+ເຈົ້າເບິ່ງຄືວ່າບໍ່ແມ່ນຄົນຫນຶ່ງ. ດ້ວຍປືນ, ຂ້ອຍຫມາຍຄວາມວ່າ.
+
+224
+00:16:03,950 --> 00:16:09,950
+[CASE]
+You're the man who brought us the probe?  Thank you. We tested the telemetry board you warned us about. It failed under high voltage, just as you said. Come with me, please.
+ເຈົ້າເປັນຜູ້ຊາຍທີ່ເອົາເຄື່ອງກວດສອບມາໃຫ້ພວກເຮົາບໍ? ຂອບໃຈ. ພວກເຮົາໄດ້ທົດສອບກະດານໂທລະພາບທີ່ທ່ານເຕືອນພວກເຮົາກ່ຽວກັບ
+. ມັນລົ້ມເຫຼວພາຍໃຕ້ແຮງດັນສູງ, ຄືກັບທີ່ທ່ານບອກ. ມາກັບຂ້ອຍ, ກະລຸນາ.
+
+225
+00:16:10,450 --> 00:16:16,450
+[CASE]
+You're right, Mr. Cooper. The planet you saw is a long way from earth. A very long way indeed.
+ເຈົ້າເວົ້າຖືກຕ້ອງ, ທ້າວ ຄູເປີ.
+ໂລກທີ່ທ່ານເຫັນຢູ່ຫ່າງໄກຈາກໂລກ. ທາງໄກຫຼາຍແທ້ໆ.
+
+226
+00:16:16,950 --> 00:16:22,950
+[CASE]
+Our science officer doesn't think I should trust you with any of this. One of the curious things about humans is that the more alike you are, the more initially hostile you are to each other. As if by design.
+ເຈົ້າຫນ້າທີ່ວິທະຍາສາດຂອງພວກເຮົາບໍ່ຄິດວ່າຂ້ອຍຄວນເຊື່ອໃຈເຈົ້າກັບສິ່ງນີ້ໃດໆ. ຫນຶ່ງ
+ໃນສິ່ງທີ່ແປກໃຈກ່ຽວກັບມະນຸດແມ່ນວ່າເຈົ້າຄືກັນຫຼາຍຂຶ້ນ, ເຈົ້າເປັນສັດຕູກັນຫຼາຍຂຶ້ນໃນເບື້ອງຕົ້ນ. ຄືກັບການອອກແບບ.
+
+227
+00:16:23,450 --> 00:16:28,700
+[CASE]
+I've found the best way to earn a person's trust is to trust them. 36.
+ຂ້ອຍໄດ້ພົບວິທີທີ່ດີທີ່ສຸດທີ່ຈະໄດ້ຮັບຄວາມເຊື່ອຖືຂອງຄົນແມ່ນທີ່ຈະເຊື່ອຖືພວກເຂົາ
+. 36.
+
+228
+00:16:29,200 --> 00:16:31,200
+[CASE]
+(looks at Brand's
+(ເບິ່ງເຮືອນຂອງແບຣນດ໌
+
+229
+00:16:31,700 --> 00:16:33,700
+[FATHER)]
+Go ahead, John.
+ໄປກ່ອນ, ຈອນ.
+
+230
+00:16:34,200 --> 00:16:40,200
+[BRAND'S FATHER]
+It's a wormhole. A shortcut leading to a galaxy on the far side of the universe. We found it fifty years ago.
+ມັນເປັນຮູແມງໄມ້. ທາງສັ້ນທາງທີ່ ນໍາ
+ໄປຫາກາວທຽມຢູ່ດ້ານໄກຂອງຈັກກະວານ. ພວກເຮົາພົບມັນເມື່ອຫ້າສິບປີກ່ອນ.
+
+231
+00:16:40,700 --> 00:16:46,700
+[BRAND'S FATHER]
+We've been waiting, sending probes into it for decades. None of them ever came back. Not until now.
+ພວກເຮົາ ກໍາ ລັງລໍຖ້າ, ສົ່ງເຄື່ອງກວດສອບເຂົ້າໄປໃນມັນເປັນເວລາຫຼາຍສິບປີ
+. ບໍ່ມີໃຜໃນນັ້ນເຄີຍກັບມາ. ບໍ່ຈົນຮອດປະຈຸບັນນີ້.
+
+232
+00:16:47,200 --> 00:16:52,450
+[CASE]
+Based on the information on the probe, we're finally preparing to send the manned mission.
+ອີງຕາມຂໍ້ມູນກ່ຽວກັບການຄົ້ນຄວ້າ, ພວກເຮົາ
+ກໍາ ລັງກຽມພ້ອມທີ່ຈະສົ່ງພາລະກິດທີ່ມີຄົນຢູ່.
+
+233
+00:16:52,950 --> 00:16:57,500
+[COOPER]
+That rocket doesn't have enough thrust or fuel to get you to Jupiter.
+ລູກສອນໄຟນັ້ນບໍ່ມີແຮງຊຸກຍູ້ຫຼືນໍ້າມັນເຊື້ອໄຟພຽງພໍທີ່ຈະພາເຈົ້າໄປຫາຈູປີເຕີ
+.
+
+234
+00:16:58,000 --> 00:17:04,000
+[CASE]
+The main ship was built in orbit. It has nuclear engines, with enough fuel to last for several years.
+ເຮືອຫຼັກໄດ້ຖືກສ້າງຂຶ້ນໃນວົງຈອນ. ມັນມີເຄື່ອງຈັກນິວເຄລຍ
+, ມີເຊື້ອໄຟພຽງພໍທີ່ຈະໃຊ້ເວລາຫຼາຍປີ.
+
+235
+00:17:04,500 --> 00:17:10,500
+[COOPER]
+Why are you telling me this? I already told you I'm not going to tell anyone about this place.
+ເຈົ້າບອກຂ້ອຍສິ່ງນີ້ເປັນຫຍັງ?
+ຂ້ອຍບອກເຈົ້າແລ້ວວ່າຂ້ອຍຈະບໍ່ບອກໃຜກ່ຽວກັບບ່ອນນີ້.
+
+236
+00:17:11,000 --> 00:17:16,950
+[CASE]
+I know you won't, Mr. Cooper. We're telling you this because I want you to join us.
+ຂ້ອຍຮູ້ວ່າເຈົ້າຈະບໍ່ເຮັດ, ທ້າວຄູເປີ. ພວກເຮົາ ກໍາ
+ລັງບອກເຈົ້າສິ່ງນີ້ເພາະວ່າຂ້ອຍຢາກໃຫ້ເຈົ້າເຂົ້າຮ່ວມພວກເຮົາ.
+
+237
+00:17:17,450 --> 00:17:23,050
+[CASE]
+The probe has taken a great deal longer to return to us than we hoped. 37.
+ການຄົ້ນຄວ້າໄດ້ໃຊ້ເວລາຫຼາຍຂຶ້ນທີ່ຈະກັບຄືນມາຫາພວກເຮົາກ່ວາທີ່ພວກເຮົາຫວັງ
+. 37.
+
+238
+00:17:23,550 --> 00:17:28,100
+[CASE]
+Dr. Brand's Father and several other members of our crew have gotten... older.
+ພໍ່ຂອງດຣ ບຣານດ໌
+ແລະສະມາຊິກອີກຫຼາຍຄົນຂອງທີມງານຂອງພວກເຮົາໄດ້ເຕີບໃຫຍ່ຂຶ້ນ.
+
+239
+00:17:28,600 --> 00:17:34,600
+[CASE]
+We need someone who can run the systems, improvise, work with what's available. All of the skills you seem to have developed.
+ພວກເຮົາຕ້ອງການຄົນໃດທີ່ສາມາດ ດໍາ ເນີນລະບົບໄດ້, improvise,
+ເຮັດວຽກກັບສິ່ງທີ່ສາມາດໃຊ້ໄດ້. ຄວາມສາມາດທັງ ຫມົດ ທີ່ເຈົ້າເບິ່ງຄືວ່າໄດ້ພັດທະນາ.
+
+240
+00:17:35,100 --> 00:17:41,100
+[COOPER]
+But I don't have any of the experience. Any training. You people have been preparing for this for years.
+ແຕ່ຂ້ອຍບໍ່ມີປະສົບການຫຍັງເລີຍ. ການຝຶກອົບຮົມໃດໆ. ພວກເຈົ້າ
+ກໍາ ລັງກຽມພ້ອມ ສໍາ ລັບສິ່ງນີ້ເປັນເວລາຫຼາຍປີແລ້ວ.
+
+241
+00:17:41,600 --> 00:17:47,600
+[CASE]
+Humans worry about things like rank and experience. I'm only concerned with whether someone would be useful. I think you'd be useful, Mr. Cooper.
+ມະນຸດກັງວົນກ່ຽວກັບສິ່ງຕ່າງໆເຊັ່ນການຈັດອັນດັບແລະປະສົບການ.
+ຂ້ອຍພຽງແຕ່ສົນໃຈວ່າໃຜຈະເປັນປະໂຫຍດບໍ. ຂ້ອຍຄິດວ່າເຈົ້າຈະເປັນປະໂຫຍດ, ທ້າວ ຄູເປີ.
+
+242
+00:17:48,100 --> 00:17:50,100
+[COOPER]
+No. I'm sorry.
+ບໍ່. ຂ້ອຍຂໍໂທດ.
+
+243
+00:17:50,600 --> 00:17:56,600
+[COOPER]
+I can't help you. I have responsibilities. Things that, no offense, are more important than a scientific mission.
+ຂ້ອຍບໍ່ສາມາດຊ່ວຍເຈົ້າໄດ້. ຂ້ອຍມີຄວາມຮັບຜິດຊອບ. ສິ່ງຕ່າງໆທີ່
+, ໂດຍບໍ່ມີການໂຊກຮ້າຍ, ມີຄວາມສໍາຄັນກວ່າພາລະກິດວິທະຍາສາດ.
+
+244
+00:17:57,100 --> 00:18:03,050
+[CASE]
+I'm not a scientist, Mr. Cooper. And this is not a scientific mission. It's a rescue mission.
+ຂ້ອຍບໍ່ແມ່ນນັກວິທະຍາສາດ, ທ້າວ ຄູເປີ.
+ແລະນີ້ແມ່ນບໍ່ແມ່ນພາລະກິດວິທະຍາໄລ. ມັນແມ່ນພາລະກິດຊ່ວຍເຫຼືອ.
+
+245
+00:18:03,550 --> 00:18:07,750
+[CASE]
+Brand can show you the way out. I hope you'll reconsider. 38.
+ແບຣນສາມາດສະແດງທາງອອກໃຫ້ເຈົ້າໄດ້.
+ຂ້ອຍຫວັງວ່າເຈົ້າຈະພິຈາລະນາຄືນ. 38.
+
+246
+00:18:08,250 --> 00:18:10,250
+[COOPER]
+Rescue? Rescue who?
+ການຊ່ວຍເຫຼືອ? ຊ່ວຍເຫຼືອໃຜ?
+
+247
+00:18:10,750 --> 00:18:12,750
+[COOPER]
+The blight.
+ໂຣກຮ້າຍ.
+
+248
+00:18:13,250 --> 00:18:19,250
+[BRAND]
+In the last century strands were limited to one or two species. But this one targets everything. Essentially it's more efficient at consuming our food than we are.
+ໃນສະຕະວັດທີ່ຜ່ານມາສາຍແອວຖືກຈໍາກັດໄວ້ກັບຊະນິດ ຫນຶ່ງ ຫຼືສອງຊະນີ. ແຕ່ຄົນນີ້ແນໃສ່ທຸກຢ່າງ
+. ໂດຍພື້ນຖານມັນມີປະສິດທິພາບຫຼາຍໃນການບໍລິໂພກອາຫານຂອງພວກເຮົາກ່ວາພວກເຮົາ.
+
+249
+00:18:19,750 --> 00:18:21,850
+[COOPER]
+But it doesn't affect the corn.
+ແຕ່ມັນບໍ່ໄດ້ສົ່ງຜົນກະທົບຕໍ່ເຂົ້າ.
+
+250
+00:18:22,350 --> 00:18:28,350
+[BRAND]
+Not yet. But it will. We've grown a dozen forms of it that can. It's just a matter of time before the same ones develop out there. The mission is to rescue us. Humanity.
+ຍັງບໍ່ທັນ. ແຕ່ມັນຈະເຮັດ. ພວກເຮົາໄດ້ເຕີບໃຫຍ່ຮູບແບບຂອງມັນທີ່ສາມາດເຮັດໄດ້.
+ມັນພຽງແຕ່ເປັນເລື່ອງເວລາກ່ອນທີ່ພວກດຽວກັນຈະພັດທະນາຢູ່ບ່ອນນັ້ນ. ພາລະກິດແມ່ນເພື່ອຊ່ວຍພວກເຮົາ. ມະນຸດຊາດ.
+
+251
+00:18:28,850 --> 00:18:33,750
+[COOPER]
+No. No. We're rebuilding. We'll find something. Some new technology... We always have. 39.
+ບໍ່. ບໍ່. ພວກເຮົາ ກໍາ ລັງສ້າງຄືນ. ພວກເຮົາຈະຊອກຫາບາງສິ່ງບາງຢ່າງ
+. ເຕັກໂນໂລຢີ ໃຫມ່ ບາງຢ່າງ... ພວກເຮົາມີຢູ່ສະເຫມີ. 39.
+
+252
+00:18:34,250 --> 00:18:40,250
+[BRAND]
+Who's going to find it? The universities are a joke. People like you are reduced to scavenging just to get by. The earth has had enough of us. We have two, maybe three generations left. Then our time here is over.
+ໃຜຈະຊອກຫາມັນ? ມະຫາວິທະຍາໄລແມ່ນໂຊກແຊງ. ຄົນຄືກັບເຈົ້າຖືກຫຼຸດລົງໃນການເກັບມ້ຽນພຽງແຕ່ເພື່ອຢູ່ອາໄສ.
+ໂລກມີພວກເຮົາພຽງພໍແລ້ວ. ພວກເຮົາມີສອງ, ບາງທີສາມລຸ້ນທີ່ເຫຼືອ. ຫຼັງຈາກນັ້ນເວລາຂອງພວກເຮົາຢູ່ນີ້ສິ້ນສຸດລົງ.
+
+253
+00:18:40,750 --> 00:18:45,300
+[COOPER]
+You've known this for how long? And you didn't try to tell anyone?
+ເຈົ້າຮູ້ເລື່ອງນີ້ດົນປານໃດ? ແລະເຈົ້າບໍ່ໄດ້ພະຍາຍາມບອກໃຜບໍ?
+
+254
+00:18:45,800 --> 00:18:51,800
+[BRAND]
+What would be the point? So humanity could spend the last fifty years of its life fighting over the scraps? It's better that they don't know.
+ຈຸດປະສົງຈະເປັນຫຍັງ? ສະນັ້ນມະນຸດສາມາດໃຊ້ເວລາສິບປີສຸດທ້າຍຂອງຊີວິດຂອງຕົນໃນການຕໍ່ສູ້ກັບສິ່ງເສດເຫຼືອບໍ
+? ມັນດີກວ່າພວກເຂົາບໍ່ຮູ້.
+
+255
+00:18:52,300 --> 00:18:55,800
+[COOPER]
+That's why you're looking for a planet with oxygen. Water.
+ນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າ ກໍາ ລັງຊອກຫາໂລກທີ່ມີອົກຊີເຈນ. ນ້ ໍາ.
+
+256
+00:18:56,300 --> 00:19:02,250
+[BRAND]
+A new home for humanity. We'll set up a colony, then return to bring more people across.
+ເຮືອນໃຫມ່ ສໍາ ລັບມະນຸດຊາດ. ພວກເຮົາຈະສ້າງຕັ້ງຄລູເນຍ
+, ຫຼັງຈາກນັ້ນກັບມາເພື່ອເຮັດໃຫ້ຄົນຫຼາຍຄົນຂ້າມໄປ.
+
+257
+00:19:02,750 --> 00:19:07,650
+[COOPER]
+But you'd still only be able to save a few hundred. Maybe a thousand.
+ແຕ່ເຈົ້າຍັງສາມາດຊ່ວຍເຫຼືອພຽງແຕ່ສອງສາມຮ້ອຍຄົນເທົ່ານັ້ນ
+. ບາງທີພັນຄົນ.
+
+258
+00:19:08,150 --> 00:19:10,950
+[BRAND]
+Would it be better if we all died?
+ມັນດີກວ່າຖ້າພວກເຮົາຕາຍທຸກຄົນບໍ?
+
+259
+00:19:11,450 --> 00:19:17,450
+[BRAND]
+Look -- I don't have a clue what Case thinks you could add to the mission. You can come with us or you can stay here and wait to die. I don't care. But make no mistake -- this mission is our last chance. 40.
+ເບິ່ງ - ຂ້ອຍບໍ່ຮູ້ເລີຍວ່າ Case ຄິດວ່າເຈົ້າສາມາດເພີ່ມຫຍັງໃສ່ພາລະກິດໄດ້. ເຈົ້າສາມາດມາພ້ອມກັບພວກເຮົາຫຼືເຈົ້າສາມາດຢູ່ບ່ອນນີ້ແລະລໍຖ້າຕາຍໄດ້
+. ຂ້ອຍບໍ່ສົນໃຈ. ແຕ່ຢ່າເຮັດຄວາມຜິດພາດ - ພາລະກິດນີ້ແມ່ນໂອກາດສຸດທ້າຍຂອງພວກເຮົາ. 40.
+
+260
+00:19:17,950 --> 00:19:23,950
+[DONALD]
+You get older, sometimes you just want to sit back and watch it all play out. Your life. Your kids' lives. The whole crazy story. I didn't think I'd be around for the end of it.
+ເຈົ້າເຕີບໃຫຍ່ຂຶ້ນ, ບາງຄັ້ງເຈົ້າພຽງແຕ່ຢາກນັ່ງຢູ່ເບື້ອງຫຼັງແລະເບິ່ງມັນທັງ ຫມົດ ເກີດຂຶ້ນ.
+ຊີວິດຂອງທ່ານ. ຊີວິດຂອງລູກຂອງທ່ານ. ເລື່ອງທີ່ໂຊກຮ້າຍທັງ ຫມົດ. ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍຈະຢູ່ໃກ້ທີ່ສຸດຂອງມັນ.
+
+261
+00:19:24,450 --> 00:19:26,450
+[DONALD]
+You have to go.
+ເຈົ້າຕ້ອງໄປ.
+
+262
+00:19:26,950 --> 00:19:30,450
+[COOPER]
+I can't go. I have to look after the boys.
+ຂ້ອຍບໍ່ສາມາດໄປໄດ້. ຂ້ອຍຕ້ອງເບິ່ງແຍງເດັກຊາຍ.
+
+263
+00:19:30,950 --> 00:19:36,950
+[DONALD]
+You've been preparing these boys to be on their own since their mom died. Besides, I'll be here to look after them, same as I've always been.
+ເຈົ້າ ກໍາ ລັງກະກຽມເດັກຊາຍເຫຼົ່ານີ້ໃຫ້ຢູ່ດ້ວຍຕົນເອງນັບຕັ້ງແຕ່ແມ່ຂອງພວກເຂົາຕາຍ.
+ນອກຈາກນັ້ນ, ຂ້ອຍຈະຢູ່ບ່ອນນີ້ເພື່ອເບິ່ງແຍງພວກເຂົາ, ເຊັ່ນດຽວກັນກັບຂ້ອຍເຄີຍເປັນ.
+
+264
+00:19:37,450 --> 00:19:39,550
+[COOPER]
+I have a responsibility to them--
+ຂ້ອຍມີຄວາມຮັບຜິດຊອບຕໍ່ພວກເຂົາ...
+
+265
+00:19:40,050 --> 00:19:42,050
+[DONALD]
+That's right. You do. 41.
+ນັ້ນແມ່ນແລ້ວ. ເຈົ້າເຮັດ. 41.
+
+266
+00:19:42,550 --> 00:19:48,550
+[MURPH]
+I've been doing the math, dad. I weigh about 85 pounds. Now that's an extra ton of fuel. But if-
+ຂ້ອຍ ກໍາ ລັງຄິດໄລ່ແລ້ວ, ພໍ່. ຂ້ອຍມີນ້ ໍາ ຫນັກ ປະມານ 85
+ປອນ. ດຽວນີ້ມັນເປັນນໍ້າມັນເຊື້ອໄຟເພີ່ມເຕີມ. ແຕ່ຖ້າ -
+
+267
+00:19:49,050 --> 00:19:51,150
+[COOPER]
+You have to stay here, pal.
+ເຈົ້າຕ້ອງຢູ່ບ່ອນນີ້, ເພື່ອນ.
+
+268
+00:19:51,650 --> 00:19:57,600
+[MURPH]
+I heard you talking to grandpa. I'm like you. I don't fit here, either. You know that.
+ຂ້ອຍໄດ້ຍິນເຈົ້າເວົ້າກັບພໍ່ເຖົ້າ. ຂ້ອຍຄືກັບເຈົ້າ.
+ຂ້ອຍບໍ່ເຫມາະສົມກັບບ່ອນນີ້ເຊັ່ນກັນ. ເຈົ້າຮູ້ແລ້ວ.
+
+269
+00:19:58,100 --> 00:20:01,600
+[COOPER]
+There's going to be important work to do here, too.
+ຈະມີວຽກງານທີ່ສໍາຄັນທີ່ຈະເຮັດຢູ່ນີ້ເຊັ່ນກັນ.
+
+270
+00:20:02,100 --> 00:20:06,650
+[COOPER]
+I need you to hold onto this. Will you do that for me?
+ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າຖືສິ່ງນີ້ໄວ້.
+ເຈົ້າຈະເຮັດແບບນັ້ນ ສໍາ ລັບຂ້ອຍບໍ?
+
+271
+00:20:07,150 --> 00:20:09,250
+[MURPH]
+You're not coming back, are you?
+ເຈົ້າຈະບໍ່ກັບມາ, ແມ່ນບໍ?
+
+272
+00:20:09,750 --> 00:20:12,200
+[COOPER]
+I will come back. I promise. 42.
+ຂ້ອຍຈະກັບມາ. ຂ້ອຍສັນຍາ. 42.
+
+273
+00:20:12,700 --> 00:20:15,150
+[COOPER]
+Don't look so happy to see me.
+ຢ່າເບິ່ງດີໃຈຫຼາຍທີ່ເຫັນຂ້ອຍ.
+
+274
+00:20:15,650 --> 00:20:20,200
+[TARS]
+One more slave when I hijack the mission and start my robot colony.
+ອີກຄົນຂ້າຫນຶ່ງເມື່ອຂ້ອຍລັກພາລະກິດແລະເລີ່ມຕົ້ນຄລູເນຍຫຸ່ນຍົນຂອງຂ້ອຍ
+.
+
+275
+00:20:20,700 --> 00:20:26,700
+[DOYLE]
+Tars was a Marine. They gave him a sense of humor to help him fit in with his unit better.
+ຕາສ໌ເປັນທະຫານເຮືອ.
+ພວກເຂົາໃຫ້ລາວຄວາມຮູ້ສຶກມ່ວນຊື່ນເພື່ອຊ່ວຍລາວເຂົ້າກັບຫນ່ວຍງານຂອງລາວດີກວ່າເກົ່າ.
+
+276
+00:20:27,200 --> 00:20:29,300
+[COOPER]
+Great idea. A massive, sarcastic robot.
+ແນວຄິດທີ່ດີເລີດ. ເປັນຫຸ່ນຍົນທີ່ໃຫຍ່ຫຼວງ, ໂຊກຮ້າຍ.
+
+277
+00:20:29,800 --> 00:20:35,050
+[TARS]
+I have a cue light I can turn on when I'm joking, if you like.
+ຂ້ອຍມີແສງສະຫວ່າງຊີ້ບອກທີ່ຂ້ອຍສາມາດເປີດໄດ້ເມື່ອຂ້ອຍໂຊກຮ້າຍ
+, ຖ້າເຈົ້າຕ້ອງການ.
+
+278
+00:20:35,550 --> 00:20:37,650
+[COOPER]
+That sounds like a good idea.
+ມັນເບິ່ງຄືວ່າເປັນຄວາມຄິດທີ່ດີ.
+
+279
+00:20:38,150 --> 00:20:44,150
+[TARS]
+Great. Maybe you can use it to find your way back to the ship after I blow you out the airlock.
+ດີເລີດ.
+ບາງທີເຈົ້າສາມາດໃຊ້ມັນເພື່ອຊອກຫາທາງກັບຄືນໄປບ່ອນເຮືອຫຼັງຈາກຂ້ອຍເຮັດໃຫ້ເຈົ້າອອກລັອກອາກາດ.
+
+280
+00:20:44,650 --> 00:20:49,200
+[BRAND]
+You don't like this one, you get to help me find a replacement.
+ເຈົ້າບໍ່ມັກຄົນນີ້, ເຈົ້າຈະຊ່ວຍຂ້ອຍຊອກຫາຜູ້ແທນ.
+
+281
+00:20:49,700 --> 00:20:52,850
+[COOPER]
+I was wondering where you've been getting your supplies.
+ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າ ກໍາ ລັງເອົາອຸປະກອນຂອງທ່ານຈາກໃສ.
+
+282
+00:20:53,350 --> 00:20:59,350
+[BRAND]
+We knew we'd need decades of parts and materials. The government was getting rid of some things. So we arranged to take some off their hands.
+ພວກເຮົາຮູ້ວ່າພວກເຮົາຈະຕ້ອງການຊິ້ນສ່ວນແລະວັດສະດຸຫຼາຍສິບປີ. ລັດຖະບານ ກໍາ ລັງ
+ກໍາ ຈັດບາງສິ່ງບາງຢ່າງ. ສະນັ້ນພວກເຮົາໄດ້ຈັດການເອົາບາງຢ່າງອອກຈາກມືຂອງພວກເຂົາ.
+
+283
+00:20:59,850 --> 00:21:05,850
+[BRAND]
+You know how to use one?  You just breathe. Tap my arm or bang something metal if you have a problem. And don't get lost.
+ເຈົ້າຮູ້ວິທີໃຊ້ຫນຶ່ງບໍ? ເຈົ້າພຽງແຕ່ຫາຍໃຈ.
+ແຕະແຂນຂອງຂ້ອຍຫຼືຕີບາງສິ່ງບາງຢ່າງໂລຫະຖ້າເຈົ້າມີບັນຫາ. ແລະຢ່າສູນເສຍ.
+
+284
+00:21:06,350 --> 00:21:10,550
+[COOPER]
+So you're a salvage diver now? I thought you were a biologist.
+ເຈົ້າເປັນນັກລອຍນ້ ໍາ ການຊ່ວຍເຫຼືອດຽວນີ້ບໍ
+? ຂ້ອຍຄິດວ່າເຈົ້າເປັນນັກຊີວະວິທະຍາ.
+
+285
+00:21:11,050 --> 00:21:17,050
+[BRAND]
+I have to be just the one thing? We're not going to have a lot of backup where we're going, Cooper. We all need expertise in at least three fields. Except for you, of course. 44.
+ຂ້ອຍຕ້ອງເປັນພຽງແຕ່ສິ່ງດຽວບໍ? ພວກເຮົາຈະບໍ່ໄດ້ຮັບການສະ ຫນັບ ສະ ຫນູນ ຫຼາຍບ່ອນທີ່ພວກເຮົາ ກໍາ
+ລັງໄປ, ຄູເປີ. ພວກເຮົາທຸກຄົນຕ້ອງການຄວາມຊ່ຽວຊານໃນຢ່າງຫນ້ອຍສາມຂົງເຂດ. ຍົກເວັ້ນເຈົ້າແນ່ນອນ. 44.
+
+286
+00:21:17,550 --> 00:21:20,000
+[BRAND]
+You can set that down over there.
+ເຈົ້າສາມາດວາງມັນລົງຢູ່ບ່ອນນັ້ນໄດ້.
+
+287
+00:21:20,500 --> 00:21:26,500
+[BRAND]
+We didn't know what kind of gravity to expect. We experimented with collective organisms in high g environments.
+ພວກເຮົາບໍ່ຮູ້ວ່າຈະຄາດຫວັງຄວາມດຶງດູດໃດ.
+ພວກເຮົາໄດ້ທົດລອງກັບຊີວະພາບລວມໃນສະພາບແວດລ້ອມສູງ g.
+
+288
+00:21:27,000 --> 00:21:29,000
+[COOPER]
+We're taking ants with us?
+ພວກເຮົາ ກໍາ ລັງເອົາແມງໄມ້ກັບພວກເຮົາບໍ?
+
+289
+00:21:29,500 --> 00:21:31,600
+[BRAND]
+Humans are also collective organisms. 45.
+ມະນຸດຍັງເປັນຊີວະພາບລວມກັນ. 45.
+
+290
+00:21:32,100 --> 00:21:34,200
+[COOPER]
+I thought humans were more solitary.
+ຂ້ອຍຄິດວ່າມະນຸດມີຄວາມໂດດດ່ຽວຫຼາຍຂຶ້ນ.
+
+291
+00:21:34,700 --> 00:21:36,700
+[BRAND]
+Why am I not surprised?
+ເປັນຫຍັງຂ້ອຍຈຶ່ງບໍ່ແປກໃຈ?
+
+292
+00:21:37,200 --> 00:21:39,200
+[COOPER]
+Looks like hard work.
+ເບິ່ງຄືວ່າເຮັດວຽກ ຫນັກ.
+
+293
+00:21:39,700 --> 00:21:45,700
+[BRAND]
+It's a paradox. Life couldn't form without gravity. No stars. No planets. The component pieces would just drift apart. But too much of it and you're trapped.
+ມັນເປັນຄວາມໂຊກແຊງ. ຊີວິດບໍ່ສາມາດສ້າງຂື້ນໄດ້ໂດຍບໍ່ມີຄວາມດຶງດູດ. ບໍ່ມີດາວ.
+ບໍ່ມີໂລກ. ສ່ວນປະກອບສ່ວນພຽງແຕ່ຈະຍ່າງກັນ. ແຕ່ຫຼາຍເກີນໄປແລະເຈົ້າຖືກຈັບກຸມ.
+
+294
+00:21:46,200 --> 00:21:50,400
+[CASE]
+We've updated our mission parameters based on the data from the probe.
+ພວກເຮົາໄດ້ປັບປຸງພາສີພາລະກິດຂອງພວກເຮົາໂດຍອີງໃສ່ຂໍ້ມູນຈາກເຄື່ອງກວດສອບ
+.
+
+295
+00:21:50,900 --> 00:21:56,900
+[CASE]
+Based on our latest modelling we think the region on the far side of the wormhole is the center of a galaxy.
+ອີງຕາມການແບບຈໍາລອງຫຼ້າສຸດຂອງພວກເຮົາ
+ພວກເຮົາຄິດວ່າພາກພື້ນຢູ່ທາງໄກຂອງຮູແມງໄມ້ແມ່ນສູນກາງຂອງກາວທຽມ.
+
+296
+00:21:57,400 --> 00:21:59,400
+[COOPER]
+Is that a star?
+ນັ້ນແມ່ນດາວບໍ?
+
+297
+00:21:59,900 --> 00:22:05,900
+[ROTH]
+No. A black hole. There are several in the region, but this is the largest -- a billion times heavier than the sun. I call it Gargantua. Beautiful, isn't it? It's a shame we won't get to see it up close.
+ບໍ່. ຮູສີດໍາ. ມີຫຼາຍຢ່າງໃນພາກພື້ນ, ແຕ່ນີ້ແມ່ນໃຫຍ່ທີ່ສຸດ - ຫນັກ ກວ່າແສງຕາເວັນຫຼາຍພັນລ້ານຄັ້ງ
+. ຂ້ອຍເອີ້ນມັນວ່າ Gargantua. ງາມ, ແມ່ນບໍ? ມັນເປັນຄວາມໂຊກຮ້າຍທີ່ພວກເຮົາຈະບໍ່ເຫັນມັນໃກ້ຊິດ.
+
+298
+00:22:06,400 --> 00:22:10,600
+[DOYLE]
+You'd like that, wouldn't you, Roth? Falling into a massive black hole.
+ເຈົ້າຢາກເຮັດແບບນັ້ນ, ແມ່ນບໍ, ໂຣສຕ໌? ຕົກລົງໄປໃນຮູສີດໍາທີ່ໃຫຍ່ຫຼວງ.
+
+299
+00:22:11,100 --> 00:22:14,600
+[ROTH]
+It would answer a great deal of questions I've had.
+ມັນຈະຕອບຄໍາຖາມຫຼາຍຢ່າງທີ່ຂ້ອຍເຄີຍມີ.
+
+300
+00:22:15,100 --> 00:22:21,050
+[DOYLE]
+Don't worry about Roth. He's nuts. But Case says that means he's ideally suited for space travel.
+ຢ່າກັງວົນກ່ຽວກັບໂຣສຕ໌. ລາວໂຊກແຊງ. ແຕ່ກໍລະນີເວົ້າວ່າມັນ ຫມາຍ
+ຄວາມວ່າລາວ ເຫມາະ ສົມກັບການເດີນທາງອະວະກາດຢ່າງສົມບູນແບບ.
+
+301
+00:22:21,550 --> 00:22:27,550
+[CASE]
+We're headed for this smaller black hole. Roth calls it Pantagruel. We think the ice planet is here-
+ພວກເຮົາ ກໍາ ລັງໄປຫາຮູສີດໍາທີ່ນ້ອຍກວ່ານີ້. ໂຣຕ໌ເອີ້ນມັນວ່າ
+Pantagruel. ພວກເຮົາຄິດວ່າໂລກນ້ ໍາ ກ້ອນຢູ່ບ່ອນນີ້ -
+
+302
+00:22:28,050 --> 00:22:34,050
+[CASE]
+We exit the wormhole here. And we slingshot around Pantagruel to reach the ice planet. This is the period in which we'll lose time.
+ພວກເຮົາອອກຈາກຮູແມງໄມ້ຢູ່ນີ້. ແລະພວກເຮົາຍິງປືນຢູ່ອ້ອມ Pantagruel
+ເພື່ອບັນລຸໂລກນ້ ໍາ ກ້ອນ. ນີ້ແມ່ນໄລຍະທີ່ພວກເຮົາຈະສູນເສຍເວລາ.
+
+303
+00:22:34,550 --> 00:22:36,550
+[COOPER]
+Lose time?
+ເສຍເວລາບໍ?
+
+304
+00:22:37,050 --> 00:22:41,600
+[ROTH]
+High speed or high gravity both slow down time, relative to earth. 47.
+ຄວາມໄວສູງຫຼືຄວາມດຶງດູດສູງທັງສອງເຮັດໃຫ້ເວລາຊ້າລົງ, ທຽບໃສ່ໂລກ. 47.
+
+305
+00:22:42,100 --> 00:22:48,100
+[ROTH]
+The trip around the black hole will take us only a few days. But far more time will be passing back home.
+ການເດີນທາງອ້ອມຮອບຮູສີດໍາຈະໃຊ້ເວລາພວກເຮົາພຽງແຕ່ສອງສາມມື້ເທົ່ານັ້ນ
+. ແຕ່ເວລາຫຼາຍຂຶ້ນຈະຜ່ານກັບບ້ານ.
+
+306
+00:22:48,600 --> 00:22:50,600
+[COOPER]
+How much time?
+ເວລາຫຼາຍປານໃດ?
+
+307
+00:22:51,100 --> 00:22:55,650
+[ROTH]
+Based on the information from the probe -- as much as five years.
+ອີງຕາມຂໍ້ມູນຈາກການກວດສອບ - ຫຼາຍເຖິງຫ້າປີ.
+
+308
+00:22:56,150 --> 00:23:02,150
+[DOYLE]
+I still think we're making a lot of assumptions. About the wormhole. About the planet.  The critical orbit here is incredibly dangerous. It's like walking on the rim of the volcano. Too fast and we get thrown off at close to the speed of light. Too slow and we get pulled into the hole and crushed.
+ຂ້ອຍຍັງຄິດວ່າພວກເຮົາ ກໍາ ລັງຄິດວ່າຫຼາຍຢ່າງ. ກ່ຽວກັບຮູແມງໄມ້. ກ່ຽວກັບໂລກ. ວົງຈອນທີ່ສໍາຄັນຢູ່ນີ້ເປັນອັນຕະລາຍຫຼາຍ.
+ມັນຄືກັບການຍ່າງຢູ່ແຄມພູເຂົາໄຟ. ໄວເກີນໄປແລະພວກເຮົາຖືກຖິ້ມອອກໃກ້ກັບຄວາມໄວແສງສະຫວ່າງ. ຊ້າເກີນໄປ ແລະພວກເຮົາຖືກດຶງເຂົ້າໄປໃນຮູແລະຖືກສັ່ນສະເທືອນ.
+
+309
+00:23:02,650 --> 00:23:05,450
+[BRAND]
+As long as we're careful, we'll make it.
+ຕາບໃດທີ່ພວກເຮົາລະມັດລະວັງ, ພວກເຮົາຈະເຮັດໄດ້.
+
+310
+00:23:05,950 --> 00:23:07,950
+[DOYLE]
+How do you know that?
+ເຈົ້າຮູ້ແນວໃດ?
+
+311
+00:23:08,450 --> 00:23:14,450
+[BRAND]
+I find it hard to believe that someone would build a wormhole to a planet with water and oxygen just to lead us to a dead end.
+ຂ້ອຍເຫັນວ່າມັນຍາກທີ່ຈະເຊື່ອວ່າໃຜຈະສ້າງຮູແມງໄມ້ໄປສູ່ໂລກທີ່ມີນ້
+ໍາ ແລະ ອົກຊີເຈນພຽງແຕ່ເພື່ອພາພວກເຮົາໄປສູ່ຈຸດຕາຍ.
+
+312
+00:23:14,950 --> 00:23:19,500
+[DOYLE]
+I thought you were a scientist, Brand. That sounds more like a hypothesis.
+ຂ້ອຍຄິດວ່າເຈົ້າເປັນນັກວິທະຍາສາດ, ແບຣນດ໌
+. ມັນເບິ່ງຄືວ່າເປັນແນວຄິດຫຼາຍຂຶ້ນ.
+
+313
+00:23:20,000 --> 00:23:24,900
+[BRAND]
+A guess. That's right. We don't have time to wait for conclusive proof. 48.
+ການຄາດຄະເນ. ນັ້ນແມ່ນຄວາມຈິງ.
+ພວກເຮົາບໍ່ມີເວລາລໍຖ້າຫຼັກຖານທີ່ແນ່ນອນ. 48.
+
+314
+00:23:25,400 --> 00:23:31,400
+[BRAND]
+My guess is that the wormhole is there because someone is trying to help us. The same way we used to try to help animals when they were threatened with extinction.
+ຂ້ອຍຄິດວ່າຮູແມງໄມ້ຢູ່ບ່ອນນັ້ນເພາະວ່າບາງຄົນ ກໍາ ລັງພະຍາຍາມຊ່ວຍພວກເຮົາ.
+ໃນວິທີດຽວກັນທີ່ພວກເຮົາເຄີຍພະຍາຍາມຊ່ວຍສັດເມື່ອພວກເຂົາຖືກຂົ່ມຂູ່ດ້ວຍການສູນພັນ.
+
+315
+00:23:31,900 --> 00:23:36,100
+[COOPER]
+Sure. Till we ran out of food and ate all of them.
+ແນ່ນອນ. ຈົນກວ່າພວກເຮົາຈະຫມົດອາຫານແລະກິນພວກມັນທັງ ຫມົດ.
+
+316
+00:23:36,600 --> 00:23:42,600
+[BRAND]
+I guess I'm also assuming that whoever built the wormhole has a better plan than we did. If I'm wrong, we'll die, same as we'd die here anyway.
+ຂ້ອຍຄິດວ່າຂ້ອຍຍັງຄິດວ່າໃຜກໍ່ສ້າງຮູແມງໄມ້ມີແຜນການທີ່ດີກວ່າພວກເຮົາ.
+ຖ້າຂ້ອຍຜິດ, ພວກເຮົາຈະຕາຍ, ເຊັ່ນດຽວກັນກັບທີ່ພວກເຮົາຈະຕາຍຢູ່ນີ້ຢ່າງໃດກໍ່ຕາມ.
+
+317
+00:23:43,100 --> 00:23:45,100
+[DOYLE]
+What do you think, Roth?
+ເຈົ້າຄິດແນວໃດ, ໂຣສຕ໌?
+
+318
+00:23:45,600 --> 00:23:51,600
+[ROTH]
+If we're guessing, then I'd say Brand's right. The wormhole couldn't exist naturally. I think it's there for a reason. That someone is trying to help us.
+ຖ້າພວກເຮົາ ກໍາ ລັງຄາດເດົາ, ຫຼັງຈາກນັ້ນຂ້ອຍຈະເວົ້າວ່າແບຣນດ໌ຖືກຕ້ອງ. ຮູແມງໄມ້ບໍ່ສາມາດມີຢູ່ຕາມ
+ທໍາ ມະຊາດໄດ້. ຂ້ອຍຄິດວ່າມັນຢູ່ບ່ອນນັ້ນດ້ວຍເຫດຜົນ. ວ່າບາງຄົນ ກໍາ ລັງພະຍາຍາມຊ່ວຍພວກເຮົາ.
+
+319
+00:23:52,100 --> 00:23:58,050
+[DOYLE]
+So you think we'll have no problem navigating between two massive black holes to a tiny planet?
+ສະນັ້ນເຈົ້າຄິດວ່າພວກເຮົາຈະບໍ່ມີຄວາມຫຍຸ້ງຍາກໃນການເດີນທາງລະຫວ່າງຮູສີດໍາຂະຫນາດໃຫຍ່ສອງຢ່າງໄປຫາໂລກນ້ອຍໆບໍ
+?
+
+320
+00:23:58,550 --> 00:24:04,550
+[ROTH]
+I think we'll probably be killed.  I said I thought there was a plan. Not that the plan was for us to find a planet like Earth to save a handful of people. Birds don't learn to fly just so that they can find another egg and crawl back into it.
+ຂ້ອຍຄິດວ່າພວກເຮົາອາດຈະຖືກຂ້າຕາຍ. ຂ້ອຍເວົ້າວ່າຂ້ອຍຄິດວ່າມີແຜນການ. ບໍ່ແມ່ນວ່າແຜນການແມ່ນໃຫ້ພວກເຮົາຊອກຫາໂລກຄືກັບໂລກເພື່ອຊ່ວຍເຫຼືອຄົນ
+ຈໍາ ນວນ ຫນ້ອຍ. ນົກບໍ່ຮຽນການບິນພຽງແຕ່ເພື່ອໃຫ້ພວກເຂົາສາມາດຊອກຫາໄຂ່ອີກຫນຶ່ງແລະຍ່າງກັບຄືນໄປບ່ອນໃນມັນ.
+
+321
+00:24:05,050 --> 00:24:10,650
+[DOYLE]
+If that's not the plan, then what are we supposed to be doing out there? 49.
+ຖ້າມັນບໍ່ແມ່ນແຜນການ,
+ຫຼັງຈາກນັ້ນພວກເຮົາຄວນເຮັດຫຍັງຢູ່ບ່ອນນັ້ນ? 49.
+
+322
+00:24:11,150 --> 00:24:17,150
+[ROTH]
+To keep moving. Seeking. Learning. But I don't know. We don't understand how they built the wormhole. What makes you think we could understand their plan, either?
+ເພື່ອສືບຕໍ່ເຄື່ອນຍ້າຍ. ຊອກຫາ. ການຮຽນຮູ້. ແຕ່ຂ້ອຍບໍ່ຮູ້. ພວກເຮົາບໍ່ເຂົ້າໃຈວ່າພວກເຂົາສ້າງຮູແມງໄມ້ແນວໃດ
+. ເປັນຫຍັງເຈົ້າຈຶ່ງຄິດວ່າພວກເຮົາສາມາດເຂົ້າໃຈແຜນການຂອງພວກເຂົາໄດ້ເຊັ່ນກັນ?
+
+323
+00:24:17,650 --> 00:24:22,200
+[BRAND'S FATHER]
+Tars here needs to be disassembled. I figured you could do the honors.
+ຕາສ໌ຢູ່ນີ້ຕ້ອງຖືກລະລາຍ. ຂ້ອຍຄິດວ່າເຈົ້າສາມາດເຮັດຄວາມຍ້ອງຍໍໄດ້.
+
+324
+00:24:22,700 --> 00:24:28,300
+[COOPER]
+I thought I was going to get to enjoy your company all the way to Mars.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະໄດ້ເພີດເພີນກັບບໍລິສັດຂອງທ່ານຕະຫຼອດທາງໄປຫາແມຣສ.
+
+325
+00:24:28,800 --> 00:24:34,800
+[TARS]
+You will. My chassis is too heavy for the rocket stage. They have another one waiting for me in orbit.
+ເຈົ້າຈະເຮັດ. ກະດານຂອງຂ້ອຍຫນັກເກີນໄປ ສໍາ
+ລັບເວທີລູກສອນໄຟ. ພວກເຂົາມີອີກຫນຶ່ງທີ່ລໍຖ້າຂ້ອຍໃນວົງຈອນ.
+
+326
+00:24:35,300 --> 00:24:39,850
+[TARS]
+If you try to turn me into a combine harvester, I'm going to--
+ຖ້າເຈົ້າພະຍາຍາມເຮັດໃຫ້ຂ້ອຍກາຍເປັນເຄື່ອງເກັບກ່ຽວປະສົມປະສານ
+, ຂ້ອຍຈະ...
+
+327
+00:24:40,350 --> 00:24:46,350
+[BRAND'S FATHER]
+It's noise. I know it's noise. But it looks too orderly. Probably just an old man seeing things. 50.
+ມັນເປັນສຽງດັງ. ຂ້ອຍຮູ້ວ່າມັນເປັນສຽງດ່ວນ. ແຕ່ມັນເບິ່ງຄືວ່າເປັນລະບຽບຮຽບຮ້ອຍເກີນໄປ
+. ບາງທີພຽງແຕ່ຜູ້ຊາຍເຖົ້າທີ່ເຫັນສິ່ງຕ່າງໆ. 50.
+
+328
+00:24:46,850 --> 00:24:48,850
+[COOPER]
+We'll be back.
+ພວກເຮົາຈະກັບມາ.
+
+329
+00:24:49,350 --> 00:24:51,350
+[BRAND]
+I won't.
+ຂ້ອຍຈະບໍ່ເຮັດ.
+
+330
+00:24:51,850 --> 00:24:56,400
+[BRAND]
+If we find a habitable environment, I'm staying behind to build the colony.
+ຖ້າພວກເຮົາພົບສິ່ງແວດລ້ອມທີ່ຢູ່ອາໄສ,
+ຂ້ອຍຈະຢູ່ເບື້ອງຫຼັງເພື່ອສ້າງຄລູເນຍ.
+
+331
+00:24:56,900 --> 00:24:59,700
+[ENGINEER ROBOT]
+Would you like me to install the chip?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍຕິດຕັ້ງຊິບບໍ?
+
+332
+00:25:00,200 --> 00:25:02,650
+[COOPER]
+Oh, no. I want to see this.
+ໂອ້, ບໍ່. ຂ້ອຍຢາກເຫັນສິ່ງນີ້.
+
+333
+00:25:03,150 --> 00:25:05,150
+[COOPER]
+Good morning, sunshine. 52.
+ສະບາຍດີ, ແສງແດດ. 52.
+
+334
+00:25:05,650 --> 00:25:07,650
+[COOPER]
+Bit of a demotion.
+ການຫຼຸດລົງບາງຢ່າງ.
+
+335
+00:25:08,150 --> 00:25:10,250
+[TARS]
+I wouldn't call it that, exactly.
+ຂ້ອຍຈະບໍ່ເອີ້ນມັນວ່າແບບນັ້ນ, ຢ່າງແນ່ນອນ.
+
+336
+00:25:10,750 --> 00:25:12,750
+[COOPER]
+The ship is tiny.
+ເຮືອແມ່ນນ້ອຍໆ.
+
+337
+00:25:13,250 --> 00:25:15,250
+[DOYLE]
+So is the wormhole.
+ເຊັ່ນດຽວກັນກັບຮູແມງໄມ້.
+
+338
+00:25:15,750 --> 00:25:21,750
+[TARS]
+It's the comms relay. It will allow us to talk to earth, even on the far side of the wormhole.
+ມັນເປັນການສົ່ງຕໍ່ການສື່ສານ. ມັນຈະອະນຸຍາດໃຫ້ພວກເຮົາເວົ້າກັບໂລກ
+, ເຖິງແມ່ນວ່າຢູ່ທາງໄກຂອງຮູແມງໄມ້.
+
+339
+00:25:22,250 --> 00:25:25,050
+[COOPER]
+I know. So why are you painting it?
+ຂ້ອຍຮູ້ແລ້ວ. ສະນັ້ນເຈົ້າ ກໍາ ລັງແຕ້ມມັນເປັນຫຍັງ?
+
+340
+00:25:25,550 --> 00:25:28,350
+[TARS]
+It helps me calibrate my fine motor control.
+ມັນຊ່ວຍຂ້ອຍໃນການກໍານົດການຄວບຄຸມເຄື່ອນໄຫວທີ່ດີເລີດຂອງຂ້ອຍ.
+
+341
+00:25:28,850 --> 00:25:30,950
+[COOPER]
+Sure it does. You're pretty good.
+ແນ່ນອນວ່າມັນເຮັດ. ເຈົ້າດີຫຼາຍ.
+
+342
+00:25:31,450 --> 00:25:33,550
+[TARS]
+I learned it during the war.
+ຂ້ອຍໄດ້ຮຽນຮູ້ມັນໃນລະຫວ່າງສົງຄາມ.
+
+343
+00:25:34,050 --> 00:25:36,050
+[COOPER]
+What'd you paint?
+ເຈົ້າແຕ້ມຫຍັງ?
+
+344
+00:25:36,550 --> 00:25:38,550
+[TARS]
+Tombstones.
+ຫີນຝັງສົບ.
+
+345
+00:25:39,050 --> 00:25:42,900
+[TOM]
+They said I can start an agriculture class a year early.
+ພວກເຂົາບອກວ່າ ຂ້ອຍສາມາດເລີ່ມຕົ້ນຫ້ອງຮຽນກະສິກໍາໄດ້ກ່ອນປີຫນຶ່ງ.
+
+346
+00:25:43,400 --> 00:25:47,250
+[TOM]
+I've got to go, Dad. Hope you're safe up there. 54.
+ຂ້ອຍຕ້ອງໄປ, ພໍ່. ຫວັງວ່າເຈົ້າປອດໄພຢູ່ເທິງນັ້ນ. 54.
+
+347
+00:25:47,750 --> 00:25:53,750
+[DONALD]
+I'm sorry, Coop. I asked Murph to record you a message but he's still... well, he's still angry with you. I'll try again next week.
+ຂ້ອຍຂໍໂທດ, ຄູປ. ຂ້ອຍຂໍໃຫ້ມໍຟ໌ບັນທຶກຂໍ້ຄວາມໃຫ້ເຈົ້າແຕ່ລາວຍັງ
+... ດີ, ລາວຍັງໂຊກຮ້າຍກັບເຈົ້າ. ຂ້ອຍຈະພະຍາຍາມອີກອາທິດຫນ້າ.
+
+348
+00:25:54,250 --> 00:25:57,750
+[TARS]
+Be careful. It's difficult to gauge mass in zero gravity.
+ລະມັດລະວັງ. ມັນຍາກທີ່ຈະວັດແທກນ້ ໍາ ຫນັກ ໃນຄວາມດຶງດູດສູນເສຍ.
+
+349
+00:25:58,250 --> 00:26:00,350
+[COOPER]
+How much do these things weigh?
+ສິ່ງເຫຼົ່ານີ້ມີນ້ ໍາ ຫນັກ ຫຼາຍປານໃດ?
+
+350
+00:26:00,850 --> 00:26:02,850
+[TARS]
+Four tons.
+ສີ່ໂຕນ.
+
+351
+00:26:03,350 --> 00:26:05,350
+[COOPER]
+Damn.
+ສະບາຍດີ.
+
+352
+00:26:05,850 --> 00:26:07,850
+[BRAND]
+Smile.
+ມ່ວນຊື່ນ.
+
+353
+00:26:08,350 --> 00:26:10,350
+[COOPER]
+Why?
+ເປັນຫຍັງ?
+
+354
+00:26:10,850 --> 00:26:13,300
+[BRAND]
+Because it lowers your blood pressure. 55.
+ເພາະວ່າມັນເຮັດໃຫ້ຄວາມກົດດັນເລືອດຂອງທ່ານຫຼຸດລົງ. 55.
+
+355
+00:26:13,800 --> 00:26:15,800
+[CASE]
+How are you feeling?
+ເຈົ້າຮູ້ສຶກແນວໃດ?
+
+356
+00:26:16,300 --> 00:26:18,300
+[COOPER]
+Fine. The anesthetic is working.
+ດີແລ້ວ. ຢາເສບຕິດ ກໍາ ລັງເຮັດວຽກ.
+
+357
+00:26:18,800 --> 00:26:24,800
+[CASE]
+No -- I mean how is your mood? You seem to be developing good relations with everyone on the mission. Except perhaps Ms. Brand.
+ບໍ່ - ຂ້ອຍຫມາຍຄວາມວ່າອາລົມຂອງທ່ານເປັນແນວໃດ? ເຈົ້າເບິ່ງຄືວ່າ ກໍາ
+ລັງພັດທະນາຄວາມສໍາພັນທີ່ດີກັບທຸກຄົນໃນພາລະກິດ. ຍົກເວັ້ນບາງທີທ່ານນາງບຣານດ໌.
+
+358
+00:26:25,300 --> 00:26:29,150
+[COOPER]
+You worry about my hand and I'll worry about my mood.
+ເຈົ້າກັງວົນກ່ຽວກັບມືຂອງຂ້ອຍແລະຂ້ອຍຈະກັງ ວົນກ່ຽວກັບອາລົມຂອງຂ້ອຍ.
+
+359
+00:26:29,650 --> 00:26:35,650
+[CASE]
+Only five percent of my resources are devoted to human anatomy. Ten percent is the mission protocol. The rest is human psychology.
+ພຽງແຕ່ຫ້າເປີເຊັນຂອງຊັບພະຍາກອນຂອງຂ້ອຍແມ່ນອຸທິດຕົນໃຫ້ແກ່ຮ່າງກາຍຂອງມະນຸດ
+. ສິບເປີ ເຊັນແມ່ນໂປໂຕໂກລພາລະກິດ. ສ່ວນທີ່ເຫຼືອແມ່ນຈິດໃຈຂອງຄົນ.
+
+360
+00:26:36,150 --> 00:26:38,150
+[COOPER]
+Why?
+ເປັນຫຍັງ?
+
+361
+00:26:38,650 --> 00:26:44,650
+[CASE]
+We are floating in a total vacuum in a plastic ship powered by nuclear engines. But the most dangerous thing onboard is the three pounds of organic material in your skull.
+ພວກເຮົາ ກໍາ ລັງລອຍຢູ່ໃນຄວາມຫວ່າງຢ່າງສົມບູນໃນເຮືອພາດສະຕິກທີ່ໃຊ້ພະລັງງານດ້ວຍເຄື່ອງຈັກນິວເຄລຍ
+. ແຕ່ສິ່ງອັນຕະລາຍທີ່ສຸດໃນເຮືອບິນແມ່ນວັດສະດຸຊີວະພາບສາມປອນໃນຫົວຂອງທ່ານ.
+
+362
+00:26:45,150 --> 00:26:51,150
+[COOPER]
+If we're such a liability, why take us along? You and Tars could build the colony without us. You wouldn't need to bring food or oxygen.
+ຖ້າພວກເຮົາເປັນຄວາມຮັບຜິດຊອບຫຼາຍປານໃດ, ເປັນຫຍັງຈຶ່ງເອົາພວກເຮົາໄປພ້ອມກັນ?
+ເຈົ້າແລະຕາສ໌ສາມາດສ້າງຄລູເນຍໂດຍບໍ່ມີພວກເຮົາ. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງເອົາອາຫານຫຼືອົກຊີເຈນ.
+
+363
+00:26:51,650 --> 00:26:57,650
+[CASE]
+Because humans, despite your obvious physical shortcomings, are better at surviving than we are. Your programming is better than ours. 56.
+ເພາະວ່າມະນຸດ, ເຖິງແມ່ນວ່າຄວາມບົກຜ່ອງທາງຮ່າງກາຍຂອງທ່ານທີ່ຈະແຈ້ງ,
+ແມ່ນດີກວ່າໃນການຢູ່ລອດຊີວິດກ່ວາພວກເຮົາ. ການຂຽນໂປແກຼມຂອງທ່ານດີກວ່າຂອງພວກເຮົາ. 56.
+
+364
+00:26:58,150 --> 00:27:00,150
+[COOPER]
+Humans aren't programmed.
+ມະນຸດບໍ່ໄດ້ຖືກຂຽນໂປແກຼມ.
+
+365
+00:27:00,650 --> 00:27:05,200
+[CASE]
+Would you prefer I was honest? These things can be uncomfortable for humans.
+ເຈົ້າມັກຂ້ອຍເປັນຄົນຈິງໃຈບໍ?
+ສິ່ງເຫຼົ່ານີ້ອາດຈະບໍ່ສະບາຍໃຈ ສໍາ ລັບມະນຸດ.
+
+366
+00:27:05,700 --> 00:27:08,150
+[COOPER]
+Did they program you to be condescending?
+ພວກເຂົາໄດ້ຂຽນໂປແກຼມໃຫ້ເຈົ້າເປັນຄົນອ່ອນແອບໍ?
+
+367
+00:27:08,650 --> 00:27:11,800
+[CASE]
+Yes. Of course. But you're not supposed to notice.
+ແມ່ນແລ້ວ. ແນ່ນອນ. ແຕ່ເຈົ້າບໍ່ຄວນສັງເກດເຫັນ.
+
+368
+00:27:12,300 --> 00:27:18,300
+[CASE]
+Humans are good at surviving because evolution gave you magical thinking -- the idea that your relationships mean something. You can't explain the feelings, so you think of them as irrational. But they're not. They're programming.
+ມະນຸດດີໃນການຢູ່ລອດເພາະວ່າການພັດທະນາໄດ້ໃຫ້ເຈົ້າຄວາມຄິດຊະຍາກອນ - ຄວາມຄິດວ່າຄວາມສໍາພັນຂອງທ່ານ ຫມາຍ ຄວາມວ່າບາງສິ່ງບາງຢ່າງ.
+ເຈົ້າບໍ່ສາມາດອະທິບາຍຄວາມຮູ້ສຶກໄດ້, ສະນັ້ນເຈົ້າຄິດວ່າພວກເຂົາເປັນທີ່ບໍ່ສົມເຫດສົມຜົນ. ແຕ່ພວກເຂົາບໍ່ແມ່ນ. ພວກເຂົາ ກໍາ ລັງຂຽນໂປແກຼມ.
+
+369
+00:27:18,800 --> 00:27:20,800
+[COOPER]
+My relationships aren't programming.
+ຄວາມສໍາພັນຂອງຂ້ອຍບໍ່ແມ່ນການຂຽນໂປແກຼມ.
+
+370
+00:27:21,300 --> 00:27:25,150
+[CASE]
+Exactly. You believe it so much you won't listen to me.
+ແທ້ຈິງແລ້ວ. ເຈົ້າເຊື່ອມັນຫຼາຍຈົນບໍ່ຢາກຟັງຂ້ອຍ.
+
+371
+00:27:25,650 --> 00:27:28,450
+[COOPER]
+How would that make us better at surviving?
+ມັນຈະເຮັດໃຫ້ພວກເຮົາດີຂຶ້ນໃນການຢູ່ລອດແນວໃດ?
+
+372
+00:27:28,950 --> 00:27:34,950
+[CASE]
+When I die, the last thing I will see will be a diagnostic of my own power cycle. Would you like to know the last thing you will see?
+ເມື່ອຂ້ອຍຕາຍ, ສິ່ງສຸດທ້າຍທີ່ຂ້ອຍຈະເຫັນຈະເປັນການກວດສອບວົງຈອນພະລັງງານຂອງຂ້ອຍເອງ
+. ເຈົ້າຢາກຮູ້ສິ່ງສຸດທ້າຍທີ່ທ່ານຈະເຫັນບໍ?
+
+373
+00:27:35,450 --> 00:27:38,950
+[CASE]
+This conversation is making you uncomfortable. We should stop. 57.
+ການສົນທະນານີ້ ກໍາ ລັງເຮັດໃຫ້ເຈົ້າບໍ່ສະບາຍໃຈ
+. ພວກເຮົາຄວນຢຸດເຊົາ. 57.
+
+374
+00:27:39,450 --> 00:27:41,450
+[COOPER]
+No. I want to know.
+ບໍ່. ຂ້ອຍຢາກຮູ້.
+
+375
+00:27:41,950 --> 00:27:47,950
+[CASE]
+The last thing you will see before you die will be your children. Your mind does this to you to get you to fight a little harder to survive, to try to return to them, even if death is certain.
+ສິ່ງສຸດທ້າຍທີ່ທ່ານຈະເຫັນກ່ອນທີ່ທ່ານຈະຕາຍຈະເປັນລູກຂອງທ່ານ. ຈິດໃຈຂອງທ່ານເຮັດສິ່ງນີ້ກັບເຈົ້າເພື່ອເຮັດໃຫ້ເຈົ້າຕໍ່ສູ້
+ຫນັກ ກວ່າເກົ່າເພື່ອຢູ່ລອດ, ເພື່ອພະຍາຍາມກັບຄືນໄປບ່ອນພວກເຂົາ, ເຖິງແມ່ນວ່າການຕາຍແມ່ນແນ່ນອນ.
+
+376
+00:27:48,450 --> 00:27:54,450
+[COOPER]
+We've almost reached the wormhole. Just in case anything happens, I just wanted to say... I love you boys. And I hope whatever your lives become, whatever is coming your way... you make the most of it.
+ພວກເຮົາເກືອບຮອດຮູແມງໄມ້ແລ້ວ. ພຽງແຕ່ໃນກໍລະນີທີ່ເກີດຫຍັງຂຶ້ນ, ຂ້ອຍພຽງແຕ່ຢາກເວົ້າວ່າ... ຂ້ອຍຮັກເຈົ້າຜູ້ຊາຍ.
+ແລະຂ້ອຍຫວັງວ່າຊີວິດຂອງທ່ານຈະເປັນຫຍັງກໍ່ຕາມ, ສິ່ງໃດກໍ່ຕາມທີ່ ກໍາ ລັງມາທາງຂອງທ່ານ... ເຈົ້າໃຊ້ປະໂຫຍດທີ່ສຸດຈາກມັນ.
+
+377
+00:27:54,950 --> 00:28:00,200
+[BRAND]
+We'll be able to communicate with Earth even from the far side of the wormhole.
+ພວກເຮົາຈະສາມາດສື່ສານກັບໂລກໄດ້ເຖິງແມ່ນວ່າຈາກທາງໄກຂອງຮູແມງໄມ້.
+
+378
+00:28:00,700 --> 00:28:02,700
+[COOPER]
+I know. Thank you.
+ຂ້ອຍຮູ້ແລ້ວ ຂອບໃຈ.
+
+379
+00:28:03,200 --> 00:28:08,100
+[BRAND]
+I can't imagine how tough it would be to leave your kids behind. 58.
+ຂ້ອຍບໍ່ສາມາດຄິດໄດ້ວ່າມັນຍາກຫຼາຍປານໃດທີ່ຈະປ່ອຍລູກຂອງທ່ານຢູ່ເບື້ອງຫຼັງ
+. 58.
+
+380
+00:28:08,600 --> 00:28:13,500
+[COOPER]
+You never had any? I thought I was a pariah for only having two.
+ເຈົ້າບໍ່ເຄີຍມີຫຍັງບໍ?
+ຂ້ອຍຄິດວ່າຂ້ອຍເປັນຄົນໂຊກຮ້າຍເພາະວ່າມີພຽງແຕ່ສອງຄົນເທົ່ານັ້ນ.
+
+381
+00:28:14,000 --> 00:28:18,900
+[BRAND]
+Hard to settle down when you've spent your life waiting to leave the planet.
+ມັນຍາກທີ່ຈະຕົກລົງເມື່ອເຈົ້າໄດ້ໃຊ້ຊີວິດຂອງທ່ານລໍຖ້າທີ່ຈະອອກຈາກໂລກ.
+
+382
+00:28:19,400 --> 00:28:22,200
+[COOPER]
+Strange place to look for a new home.
+ບ່ອນທີ່ແປກໃຈທີ່ຈະຊອກຫາເຮືອນໃຫມ່.
+
+383
+00:28:22,700 --> 00:28:28,700
+[BRAND]
+You wouldn't want to get too close to the surface of the sun, either. Black holes are a more stable supply of power than stars in many ways.
+ເຈົ້າບໍ່ຢາກໃກ້ຊິດກັບພື້ນຜິວຂອງແສງຕາເວັນເກີນໄປເຊັ່ນກັນ.
+ຮູສີດໍາແມ່ນແຫຼ່ງພະລັງງານທີ່ ຫມັ້ນ ຄົງກວ່າດາວໃນຫຼາຍທາງ.
+
+384
+00:28:29,200 --> 00:28:31,300
+[COOPER]
+You really think there's a plan?
+ເຈົ້າຄິດວ່າມີແຜນການແທ້ບໍ?
+
+385
+00:28:31,800 --> 00:28:33,800
+[BRAND]
+I hope so.  You don't?
+ຂ້ອຍຫວັງວ່າເປັນ. ເຈົ້າບໍ່ເຮັດບໍ?
+
+386
+00:28:34,300 --> 00:28:37,450
+[COOPER]
+I guess I just think we're on our own.
+ຂ້ອຍຄິດວ່າຂ້ອຍພຽງແຕ່ຄິດວ່າພວກເຮົາຢູ່ດ້ວຍຕົນເອງ.
+
+387
+00:28:37,950 --> 00:28:39,950
+[CASE]
+We've reached the wormhole.
+ພວກເຮົາໄດ້ບັນລຸຮູແມງໄມ້ແລ້ວ.
+
+388
+00:28:40,450 --> 00:28:42,450
+[CASE]
+Deploy the comms relay. 59.
+ຈັດຕັ້ງສາຍສົ່ງຄອມພິວເຕີ. 59.
+
+389
+00:28:42,950 --> 00:28:47,150
+[CASE]
+Everyone take their station for transit. We're heading into the wormhole mouth.
+ທຸກຄົນເອົາສະຖານີຂອງພວກເຂົາເພື່ອການຜ່ານແດນ
+. ພວກເຮົາ ກໍາ ລັງໄປສູ່ປາກຮູແມງໄມ້.
+
+390
+00:28:47,650 --> 00:28:50,450
+[TARS]
+Would you like me to make a joke?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍໂຊກຮ້າຍບໍ?
+
+391
+00:28:50,950 --> 00:28:52,950
+[COOPER]
+Where are we?
+ພວກເຮົາຢູ່ໃສ?
+
+392
+00:28:53,450 --> 00:28:55,450
+[ROTH]
+Nowhere. Nowhere at all.
+ບໍ່ມີບ່ອນໃດເລີຍ. ບໍ່ມີບ່ອນເລີຍ.
+
+393
+00:28:55,950 --> 00:28:58,750
+[CASE]
+The hull is intact. Thirty more seconds transit.
+ກະເປົາແມ່ນບໍ່ເສຍຫາຍ. ການຂ້າມຜ່ານອີກສາມສິບວິນາທີ.
+
+394
+00:28:59,250 --> 00:29:01,700
+[COOPER]
+Something's happening to the hull over here.
+ມີບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນກັບກະເປົາຢູ່ບ່ອນນີ້.
+
+395
+00:29:02,200 --> 00:29:04,200
+[CASE]
+Hull integrity is fine.
+ຄວາມສົມບູນແບບຂອງກະເປົາບໍ່ເປັນຫຍັງ.
+
+396
+00:29:04,700 --> 00:29:10,300
+[COOPER]
+Well, I don't know what your display is telling you but something is happening over here.
+ດີ, ຂ້ອຍບໍ່ຮູ້ວ່າການສະແດງຂອງທ່ານບອກເຈົ້າຫຍັງແຕ່ບາງສິ່ງບາງຢ່າງ
+ກໍາ ລັງເກີດຂຶ້ນຢູ່ນີ້.
+
+397
+00:29:10,800 --> 00:29:13,250
+[DOYLE]
+I've got a problem over here, too.
+ຂ້ອຍມີບັນຫາຢູ່ບ່ອນນີ້ເຊັ່ນກັນ.
+
+398
+00:29:13,750 --> 00:29:16,900
+[DOYLE]
+It's not the hull... it's inside the ship... it's...
+ມັນບໍ່ແມ່ນກະເປົາ... ມັນຢູ່ໃນພາຍໃນເຮືອ... ມັນ...
+
+399
+00:29:17,400 --> 00:29:19,400
+[ROTH]
+It's beautiful. 62.
+ມັນສວຍງາມ. 62.
+
+400
+00:29:19,900 --> 00:29:22,000
+[DOYLE]
+What the hell are they, Case?
+ພວກເຂົາເປັນຫຍັງ, ຄາສ໌?
+
+401
+00:29:22,500 --> 00:29:25,300
+[CASE]
+I don't know. It could be gravitational turbulence.
+ຂ້ອຍບໍ່ຮູ້. ມັນອາດຈະເປັນຄວາມວຸ້ນວາຍທາງດຶງດູດ.
+
+402
+00:29:25,800 --> 00:29:27,800
+[DOYLE]
+It's getting bigger.
+ມັນກໍາລັງໃຫຍ່ຂຶ້ນ.
+
+403
+00:29:28,300 --> 00:29:32,500
+[ROTH]
+It's not bending your hand. It's bending the space around your hand.
+ມັນບໍ່ແມ່ນການຫັນມືຂອງທ່ານ. ມັນ ກໍາ
+ລັງຫັນພື້ນທີ່ຢູ່ອ້ອມຂ້າງມືທ່ານ.
+
+404
+00:29:33,000 --> 00:29:38,250
+[BRAND]
+This isn't turbulence. Look at the way they're moving -- it's like something's examining us.
+ນີ້ແມ່ນບໍ່ແມ່ນຄວາມວຸ້ນວາຍ. ເບິ່ງວິທີທີ່ພວກເຂົາ ກໍາ
+ລັງເຄື່ອນຍ້າຍ - ມັນຄືກັບວ່າບາງສິ່ງບາງຢ່າງ ກໍາ ລັງກວດສອບພວກເຮົາ.
+
+405
+00:29:38,750 --> 00:29:40,850
+[COOPER]
+Can you ask it to stop?
+ເຈົ້າຂໍໃຫ້ມັນຢຸດໄດ້ບໍ?
+
+406
+00:29:41,350 --> 00:29:47,300
+[ROTH]
+The wormhole is splitting into two paths. Radiation is pouring from one path to the other. 63.
+ຂຸມແມງໄມ້ ກໍາ ລັງແບ່ງອອກເປັນສອງເສັ້ນທາງ. ແສງສະຫວ່າງ
+ກໍາ ລັງໄຫຼຈາກເສັ້ນທາງ ຫນຶ່ງ ໄປຫາອີກຫນຶ່ງ. 63.
+
+407
+00:29:47,800 --> 00:29:49,800
+[CASE]
+Release the second mouth.
+ປ່ອຍປາກທີສອງອອກ.
+
+408
+00:29:50,300 --> 00:29:56,300
+[DOYLE]
+None of our testing involved opening the ship inside the wormhole. We have no idea what might happen.
+ບໍ່ມີການທົດສອບຂອງພວກເຮົາທີ່ກ່ຽວຂ້ອງກັບການເປີດເຮືອພາຍໃນຮູແມງໄມ້
+. ພວກເຮົາບໍ່ຮູ້ວ່າຈະເກີດຫຍັງຂຶ້ນ.
+
+409
+00:29:56,800 --> 00:29:58,800
+[CASE]
+We're going to find out.
+ພວກເຮົາຈະຮູ້ວ່າ.
+
+410
+00:29:59,300 --> 00:30:02,100
+[CASE]
+We're reaching the far end of the wormhole.
+ພວກເຮົາກໍາລັງຮອດຈຸດສິ້ນສຸດຂອງຮູແມງໄມ້.
+
+411
+00:30:02,600 --> 00:30:04,600
+[ROTH]
+Look at that.
+ເບິ່ງແມ.
+
+412
+00:30:05,100 --> 00:30:07,900
+[CASE]
+Reconfigure the engines and test the communications array.
+ປັບປຸງເຄື່ອງຈັກຄືນແລະທົດສອບຊຸດການສື່ສານ.
+
+413
+00:30:08,400 --> 00:30:10,400
+[COOPER]
+It's working.
+ມັນເຮັດວຽກໄດ້.
+
+414
+00:30:10,900 --> 00:30:12,900
+[BRAND]
+We're moving.
+ພວກເຮົາ ກໍາ ລັງເຄື່ອນຍ້າຍ.
+
+415
+00:30:13,400 --> 00:30:16,550
+[DOYLE]
+That's not possible. We haven't activated the engines yet.
+ນັ້ນບໍ່ສາມາດເຮັດໄດ້. ພວກເຮົາຍັງບໍ່ເປີດເຄື່ອງຈັກເທື່ອ.
+
+416
+00:30:17,050 --> 00:30:19,050
+[CASE]
+Roth. Why are we moving?
+ໂຣສຕ໌. ພວກເຮົາຍ້າຍໄປເປັນຫຍັງ?
+
+417
+00:30:19,550 --> 00:30:25,550
+[ROTH]
+The smaller black hole. We're much closer to it than the models predicted. We're being pulled by its swirl. Very quickly.
+ຮູສີດໍາທີ່ນ້ອຍກວ່າ. ພວກເຮົາໃກ້ຊິດກັບມັນຫຼາຍກ່ວາທີ່ຕົວແບບຄາດຄະເນ
+. ພວກເຮົາຖືກດຶງດູດໂດຍການຫມູນວຽນຂອງມັນ. ໄວຫຼາຍ.
+
+418
+00:30:26,050 --> 00:30:28,050
+[CASE]
+Doyle. Fire the engines. Now.
+ດອຍລ໌. ປິດເຄື່ອງຈັກ. ດຽວນີ້.
+
+419
+00:30:28,550 --> 00:30:30,550
+[DOYLE]
+We're being pulled into it?
+ພວກເຮົາຖືກດຶງເຂົ້າໄປໃນມັນບໍ?
+
+420
+00:30:31,050 --> 00:30:33,050
+[ROTH]
+No. I don't think so...
+ບໍ່. ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ...
+
+421
+00:30:33,550 --> 00:30:39,550
+[ROTH]
+It appears to be pulling us on exactly the trajectory we modelled. If we try to fight it, we could push ourselves off of that trajectory.
+ມັນເບິ່ງຄືວ່າ ກໍາ ລັງດຶງພວກເຮົາໄປຕາມເສັ້ນທາງທີ່ພວກເຮົາສ້າງແບບຢ່າງ.
+ຖ້າພວກເຮົາພະຍາຍາມຕໍ່ສູ້ກັບມັນ, ພວກເຮົາສາມາດຊຸກຍູ້ຕົວເອງອອກຈາກເສັ້ນທາງນັ້ນໄດ້.
+
+422
+00:30:40,050 --> 00:30:42,050
+[DOYLE]
+You don't know that.
+ເຈົ້າບໍ່ຮູ້ເລື່ອງນັ້ນ.
+
+423
+00:30:42,550 --> 00:30:46,400
+[ROTH]
+We should turn off the engines. Let the swirl take us.
+ພວກເຮົາຄວນປິດເຄື່ອງຈັກ. ໃຫ້ຫມູນວຽນເອົາພວກເຮົາໄປ.
+
+424
+00:30:46,900 --> 00:30:48,900
+[DOYLE]
+Listen to me. 66.
+ຟັງຂ້ອຍ. 66.
+
+425
+00:30:49,400 --> 00:30:55,350
+[DOYLE]
+If the modelling was wrong, then we can't be sure about anything. We need to go back.
+ຖ້າການສ້າງແບບແມ່ນຜິດ, ຫຼັງຈາກນັ້ນພວກເຮົາບໍ່ສາມາດແນ່ໃຈກ່ຽວກັບຫຍັງເລີຍ
+. ພວກເຮົາຕ້ອງກັບຄືນໄປບ່ອນ.
+
+426
+00:30:55,850 --> 00:30:57,850
+[CASE]
+Shut down the engines.
+ປິດເຄື່ອງຈັກ.
+
+427
+00:30:58,350 --> 00:31:04,300
+[ROTH]
+It's the tidal gravity caused by the black hole. It means we're right on the critical orbit.
+ມັນເປັນຄວາມດຶງດູດຂອງນໍ້າຖ້ວມທີ່ເກີດຈາກຮູສີດໍາ
+. ມັນຫມາຍຄວາມວ່າພວກເຮົາຢູ່ໃນວົງຈອນທີ່ສໍາຄັນ.
+
+428
+00:31:04,800 --> 00:31:06,900
+[COOPER]
+We've lost contact with the relay.
+ພວກເຮົາໄດ້ສູນເສຍການຕິດຕໍ່ກັບສາຍສົ່ງ.
+
+429
+00:31:07,400 --> 00:31:10,200
+[COOPER]
+One long garbled transmission came in. Then nothing.
+ການສົ່ງຕໍ່ທີ່ສໍ້ໂກງທີ່ຍາວນານເຂົ້າມາ. ຫຼັງຈາກນັ້ນບໍ່ມີຫຍັງເລີຍ.
+
+430
+00:31:10,700 --> 00:31:15,250
+[DOYLE]
+I'm sorry. I can't let you kill us. We have to go back.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ສາມາດປ່ອຍໃຫ້ເຈົ້າຂ້າພວກເຮົາໄດ້
+. ພວກເຮົາຕ້ອງກັບຄືນໄປບ່ອນ.
+
+431
+00:31:15,750 --> 00:31:17,750
+[DOYLE]
+Why isn't it slowing down?
+ເປັນຫຍັງມັນຈຶ່ງບໍ່ຊ້າລົງ?
+
+432
+00:31:18,250 --> 00:31:20,700
+[ROTH]
+We're being pulled towards the event horizon.
+ພວກເຮົາຖືກດຶງດູດໄປສູ່ທ້ອງຖິ່ນເຫດການ.
+
+433
+00:31:21,200 --> 00:31:24,700
+[CASE]
+The engines don't have enough power to push us back.
+ເຄື່ອງຈັກບໍ່ມີພະລັງງານພຽງພໍທີ່ຈະຊຸກຍູ້ພວກເຮົາກັບຄືນໄປບ່ອນ.
+
+434
+00:31:25,200 --> 00:31:28,350
+[ROTH]
+They would if we used it all at once.
+ພວກເຂົາຈະເຮັດຖ້າພວກເຮົາໃຊ້ມັນທັງ ຫມົດ ໃນເວລາດຽວກັນ.
+
+435
+00:31:28,850 --> 00:31:30,850
+[COOPER]
+What is he doing?
+ລາວ ກໍາ ລັງເຮັດຫຍັງ?
+
+436
+00:31:31,350 --> 00:31:33,350
+[BRAND]
+Saving us.
+ຊ່ວຍພວກເຮົາ.
+
+437
+00:31:33,850 --> 00:31:39,850
+[ROTH]
+Prime the remaining engine. When he detonates it, we'll only have a few seconds. If we overshoot we could be pulled into the bigger hole.
+ເປີດເຄື່ອງຈັກທີ່ຍັງເຫຼືອໄວ້. ເມື່ອລາວລະເບີດມັນ, ພວກເຮົາຈະມີພຽງແຕ່ສອງສາມວິນາທີເທົ່ານັ້ນ
+. ຖ້າພວກເຮົາເກີນໄປພວກເຮົາສາມາດຖືກດຶງເຂົ້າໄປໃນຮູທີ່ໃຫຍ່ກວ່າ.
+
+438
+00:31:40,350 --> 00:31:44,200
+[CASE]
+Secure yourselves. The ship should be able to withstand the blast.
+ປ້ອງກັນຕົວເອງ. ເຮືອຄວນສາມາດທົນທານຕໍ່ການລະເບີດໄດ້.
+
+439
+00:31:44,700 --> 00:31:46,700
+[COOPER]
+What about Tars?
+ແລະຕາສ໌ແນວໃດ?
+
+440
+00:31:47,200 --> 00:31:51,050
+[CASE]
+It's going to be close, but we're going to make it.
+ມັນຈະໃກ້ຊິດ, ແຕ່ພວກເຮົາຈະເຮັດໄດ້.
+
+441
+00:31:51,550 --> 00:31:53,650
+[BRAND]
+Tars. His transponder is still working.
+ຕາສ໌. ເຄື່ອງສົ່ງສັນຍານຂອງລາວຍັງເຮັດວຽກຢູ່.
+
+442
+00:31:54,150 --> 00:31:57,300
+[ROTH]
+He's being pulled toward Gargantua. We can't help him.
+ລາວຖືກດຶງໄປສູ່ Gargantua. ພວກເຮົາບໍ່ສາມາດຊ່ວຍລາວໄດ້.
+
+443
+00:31:57,800 --> 00:31:59,800
+[ROTH]
+We're here.
+ພວກເຮົາຢູ່ບ່ອນນີ້.
+
+444
+00:32:00,300 --> 00:32:02,400
+[COOPER]
+I still can't contact the relay.
+ຂ້ອຍຍັງບໍ່ສາມາດຕິດຕໍ່ກັບສາຍສົ່ງໄດ້.
+
+445
+00:32:02,900 --> 00:32:06,750
+[COOPER]
+Did you hear me? We're not able to communicate back home.
+ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ? ພວກເຮົາບໍ່ສາມາດສື່ສານກັບບ້ານໄດ້.
+
+446
+00:32:07,250 --> 00:32:12,150
+[BRAND]
+I've already checked it. It's electromagnetic interference. We'll try again in a few hours.
+ຂ້ອຍໄດ້ກວດສອບມັນແລ້ວ. ມັນແມ່ນການແຊກແຊງທາງໄຟຟ້າແມກແມັດ
+. ພວກເຮົາຈະພະຍາຍາມອີກຄັ້ງໃນສອງສາມຊົ່ວໂມງ.
+
+447
+00:32:12,650 --> 00:32:15,100
+[ROTH]
+I've got a signal. But it's local.
+ຂ້ອຍມີສັນຍານ. ແຕ່ມັນເປັນທ້ອງຖິ່ນ.
+
+448
+00:32:15,600 --> 00:32:17,700
+[ROTH]
+The remaining probes. We found them.
+ການກວດສອບທີ່ຍັງເຫຼືອ. ພວກເຮົາພົບພວກມັນ.
+
+449
+00:32:18,200 --> 00:32:21,700
+[COOPER]
+How could they all have landed in the same place?
+ພວກເຂົາທັງ ຫມົດ ສາມາດລົງຈອດຢູ່ບ່ອນດຽວກັນໄດ້ແນວໃດ?
+
+450
+00:32:22,200 --> 00:32:24,200
+[ROTH]
+Let's go find out.
+ໄປຊອກຮູ້ກັນ.
+
+451
+00:32:24,700 --> 00:32:26,700
+[COOPER]
+We're bringing him along? 71.
+ພວກເຮົາຈະພາລາວໄປພ້ອມບໍ? 71.
+
+452
+00:32:27,200 --> 00:32:33,200
+[BRAND]
+We need all the help we can get. Besides, the alternative is to leave him on the ship alone. You think he'll still be here when we get back?
+ພວກເຮົາຕ້ອງການຄວາມຊ່ວຍເຫຼືອທັງ ຫມົດ ທີ່ພວກເຮົາສາມາດໄດ້ຮັບໄດ້. ນອກຈາກນັ້ນ,
+ທາງເລືອກແມ່ນໃຫ້ລາວຢູ່ເທິງເຮືອຄົນດຽວ. ເຈົ້າຄິດວ່າລາວຍັງຢູ່ບ່ອນນີ້ເມື່ອພວກເຮົາກັບມາບໍ?
+
+453
+00:32:33,700 --> 00:32:38,600
+[BRAND]
+The probe was right. Looks like significant amounts of oxygen trapped in the ice.
+ການກວດສອບແມ່ນຖືກຕ້ອງ. ເບິ່ງຄືວ່າມີອົກຊີເຈນ
+ຈໍາ ນວນຫຼວງຫຼາຍຖືກຈັບກຸມໃນນ້ ໍາ ກ້ອນ.
+
+454
+00:32:39,100 --> 00:32:41,900
+[CASE]
+The other probes should be directly beneath us.
+ການກວດສອບອື່ນໆຄວນຢູ່ພາຍໃຕ້ພວກເຮົາໂດຍກົງ.
+
+455
+00:32:42,400 --> 00:32:48,000
+[BRAND]
+How could the Chinese have gotten here first? The federal government kept the wormhole a secret.
+ຊາວຈີນສາມາດມາຮອດບ່ອນນີ້ກ່ອນໄດ້ແນວໃດ?
+ລັດຖະບານກາງຮັກສາຮູແມງໄມ້ເປັນຄວາມລັບ.
+
+456
+00:32:48,500 --> 00:32:50,950
+[CASE]
+They didn't do a very good job.
+ພວກເຂົາບໍ່ໄດ້ເຮັດວຽກທີ່ດີຫຼາຍ.
+
+457
+00:32:51,450 --> 00:32:55,650
+[DOYLE]
+The Chinese must have captured them. So they couldn't return to us.
+ຊາວຈີນຕ້ອງໄດ້ຈັບພວກມັນ. ສະນັ້ນພວກເຂົາບໍ່ສາມາດກັບມາຫາພວກເຮົາໄດ້.
+
+458
+00:32:56,150 --> 00:32:59,650
+[BRAND]
+Then how did the probe that Cooper found return? 73.
+ຫຼັງຈາກນັ້ນການຄົ້ນຄວ້າທີ່ຄູເປີພົບກັບມາແນວໃດ? 73.
+
+459
+00:33:00,150 --> 00:33:06,150
+[ROTH]
+The more immediate question is what happened to the Chinese expedition. There's no sign of their ship in orbit. And they never returned to earth.
+ຄໍາ ຖາມທີ່ທັນທີກວ່າແມ່ນເກີດຫຍັງຂຶ້ນກັບການເດີນທາງຈີນ.
+ບໍ່ມີສັນຍານຂອງເຮືອຂອງພວກເຂົາໃນວົງຈອນ. ແລະພວກເຂົາບໍ່ເຄີຍກັບຄືນສູ່ໂລກເລີຍ.
+
+460
+00:33:06,650 --> 00:33:11,550
+[BRAND]
+The whole place has been dosed with huge levels of radiation. What happened here?
+ສະຖານທີ່ທັງ ຫມົດ ໄດ້ຖືກປະລິມານດ້ວຍລະດັບແສງສະຫວ່າງທີ່ໃຫຍ່ຫຼວງ
+. ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+461
+00:33:12,050 --> 00:33:14,050
+[COOPER]
+This is the Taichung mission.
+ນີ້ແມ່ນພາລະກິດໄຕຊິງ.
+
+462
+00:33:14,550 --> 00:33:18,750
+[BRAND]
+The Mars mission? The Chinese claimed it had been destroyed on landing.
+ພາລະກິດແມຣສ? ຊາວຈີນອ້າງວ່າມັນຖືກທໍາລາຍໃນການລົງຈອດ.
+
+463
+00:33:19,250 --> 00:33:25,250
+[COOPER]
+They never landed. Not on Mars. Four human crew, fifteen robots. The log says the base has been here for thirty years.
+ພວກເຂົາບໍ່ເຄີຍລົງຈອດ. ບໍ່ແມ່ນໃນແມຣສ. ມີລູກເຮືອມະນຸດສີ່ຄົນ,
+ຫຸ່ນຍົນສິບຫ້າຄົນ. ບັນທຶກເວົ້າວ່າຖານທັບຢູ່ບ່ອນນີ້ເປັນເວລາສາມສິບປີແລ້ວ.
+
+464
+00:33:25,750 --> 00:33:27,750
+[CASE]
+I've found something. 74.
+ຂ້ອຍພົບບາງສິ່ງບາງຢ່າງແລ້ວ. 74.
+
+465
+00:33:28,250 --> 00:33:34,250
+[DOYLE]
+It goes down for a hundred and fifty feet, then stops. Tunnel's old -- the ice has reformed at the bottom.
+ມັນລົງເປັນສິບຫ້າສິບແມັດ, ຫຼັງຈາກນັ້ນຢຸດເຊົາ
+. ທໍ່ແມ່ນເກົ່າແກ່ - ກ້ອນໄດ້ປະຕິຮູບຢູ່ລຸ່ມ.
+
+466
+00:33:34,750 --> 00:33:39,650
+[BRAND]
+I'm going to descend to take some samples. Cooper, want to make yourself useful?
+ຂ້ອຍຈະລົງເພື່ອເອົາຕົວຢ່າງບາງຢ່າງ. ຄູເປີ
+, ເຈົ້າຢາກເຮັດໃຫ້ຕົວເອງເປັນປະໂຫຍດບໍ?
+
+467
+00:33:40,150 --> 00:33:42,950
+[CASE]
+Get back here, Cooper. We've got a problem.
+ກັບມາບ່ອນນີ້, ຄູເປີ. ພວກເຮົາມີບັນຫາ.
+
+468
+00:33:43,450 --> 00:33:47,650
+[COOPER]
+The entire human crew is buried out there in the snow. 75.
+ທີມງານມະນຸດທັງ ຫມົດ ຖືກຝັງໄວ້ຢູ່ນອກນັ້ນໃນຫິມະ. 75.
+
+469
+00:33:48,150 --> 00:33:54,100
+[ROTH]
+I think I know what killed them. This planet isn't the only thing orbiting this black hole.
+ຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ວ່າສິ່ງທີ່ຂ້າພວກເຂົາ.
+ໂລກນີ້ບໍ່ແມ່ນສິ່ງດຽວທີ່ ຫມູນ ວຽນຂຸມສີດໍານີ້.
+
+470
+00:33:54,600 --> 00:34:00,600
+[ROTH]
+It's a neutron star. The black hole shields the planet's surface from it for twenty hours at a stretch. Time's about up.
+ມັນເປັນດາວນິວຕຣອນ. ຮູສີດໍາປົກປ້ອງພື້ນຜິວຂອງໂລກຈາກມັນເປັນເວລາສິບຊົ່ວໂມງຕໍ່ເນື່ອງ
+. ເວລາເກືອບຫມົດແລ້ວ.
+
+471
+00:34:01,100 --> 00:34:03,200
+[BRAND]
+How long do we have left?
+ພວກເຮົາມີເວລາຫຼາຍປານໃດ?
+
+472
+00:34:03,700 --> 00:34:05,700
+[ROTH]
+About five minutes.
+ປະມານຫ້ານາທີ.
+
+473
+00:34:06,200 --> 00:34:08,200
+[COOPER]
+Then what?
+ຫຼັງຈາກນັ້ນຫຍັງ?
+
+474
+00:34:08,700 --> 00:34:11,850
+[BRAND]
+Then we die. The radiation will cook us alive.
+ຫຼັງຈາກນັ້ນພວກເຮົາຈະຕາຍ. ແສງສະຫວ່າງຈະເຮັດໃຫ້ພວກເຮົາມີຊີວິດຢູ່.
+
+475
+00:34:12,350 --> 00:34:14,350
+[CASE]
+We have to go down.
+ພວກເຮົາຕ້ອງລົງໄປ.
+
+476
+00:34:14,850 --> 00:34:16,950
+[COOPER]
+What about returning to the ship?
+ຈະເປັນແນວໃດກັບຄືນໄປບ່ອນເຮືອ?
+
+477
+00:34:17,450 --> 00:34:23,050
+[BRAND]
+Not enough time. Case is right. The ice can shield us from some of the x-rays.
+ເວລາບໍ່ພຽງພໍ. ກໍລະນີແມ່ນຖືກຕ້ອງ.
+ກ້ອນສາມາດປົກປ້ອງພວກເຮົາຈາກແສງ X ບາງຢ່າງ.
+
+478
+00:34:23,550 --> 00:34:27,400
+[DOYLE]
+It would take a thousand feet of ice to shield us.
+ມັນຈະຕ້ອງມີນ້ ໍາ ກ້ອນຫຼາຍພັນແມັດເພື່ອປົກປ້ອງພວກເຮົາ.
+
+479
+00:34:27,900 --> 00:34:29,900
+[COOPER]
+What is this?
+ນີ້ແມ່ນຫຍັງ?
+
+480
+00:34:30,400 --> 00:34:33,900
+[BRAND]
+A pocket formed by gas. There may be more below.
+ກະເປົາທີ່ສ້າງຂື້ນໂດຍແກັສ. ອາດຈະມີຫຼາຍຂຶ້ນຢູ່ລຸ່ມນີ້.
+
+481
+00:34:34,400 --> 00:34:36,850
+[DOYLE]
+We'll never make it far enough down.
+ພວກເຮົາຈະບໍ່ລົງໄປພຽງພໍເລີຍ.
+
+482
+00:34:37,350 --> 00:34:40,500
+[BRAND]
+Shut up. How much time do we have, Roth?
+ປິດງຽບ. ພວກເຮົາມີເວລາຫຼາຍປານໃດ, ໂຣສຕ໌?
+
+483
+00:34:41,000 --> 00:34:44,150
+[ROTH]
+About three minutes or so until we're fully exposed.
+ປະມານສາມນາທີ ຫຼືປະມານນັ້ນຈົນກວ່າພວກເຮົາຈະຖືກເປີດເຜີຍຢ່າງເຕັມທີ່.
+
+484
+00:34:44,650 --> 00:34:50,250
+[LOOKS CLOSER:]
+Tiny black flecks. Brand, ever the scientist, forgets their predicament and begins chipping at the ice.
+ຈຸດສີດໍານ້ອຍໆ. ແບຣນດ໌, ນັກວິທະຍາສາດຕະຫຼອດໄປ,
+ລືມຄວາມຫຍຸ້ງຍາກຂອງພວກເຂົາແລະເລີ່ມຕົ້ນການຕັດນ້ ໍາ ກ້ອນ.
+
+485
+00:34:50,750 --> 00:34:52,750
+[BRAND]
+I've found something.
+ຂ້ອຍພົບບາງສິ່ງບາງຢ່າງແລ້ວ.
+
+486
+00:34:53,250 --> 00:34:55,250
+[BRAND]
+These things... they're alive.
+ສິ່ງເຫຼົ່ານີ້... ພວກເຂົາມີຊີວິດຢູ່.
+
+487
+00:34:55,750 --> 00:34:58,900
+[ROTH]
+It's not your light they're responding to. It's this--
+ມັນບໍ່ແມ່ນແສງຂອງທ່ານທີ່ພວກເຂົາຕອບສະ ຫນອງ. ມັນແມ່ນສິ່ງນີ້ -
+
+488
+00:34:59,400 --> 00:35:05,000
+[BRAND]
+X-rays. They feed on them and emit visible light. They've found a way to survive here.
+ແສງ X. ພວກເຂົາກິນພວກມັນແລະປ່ອຍແສງທີ່ເຫັນໄດ້
+. ພວກເຂົາໄດ້ພົບວິທີທີ່ຈະຢູ່ລອດຢູ່ບ່ອນນີ້.
+
+489
+00:35:05,500 --> 00:35:07,600
+[BRAND]
+They're absorbing most of the x-rays.
+ພວກເຂົາ ກໍາ ລັງດູດຊຶມແສງ X ສ່ວນໃຫຍ່.
+
+490
+00:35:08,100 --> 00:35:10,100
+[ROTH]
+Not enough, unfortunately.
+ບໍ່ພຽງພໍ, ໂຊກຮ້າຍ.
+
+491
+00:35:10,600 --> 00:35:12,600
+[COOPER]
+Case, wait--
+ກໍລະນີ, ລໍຖ້າ...
+
+492
+00:35:13,100 --> 00:35:15,100
+[BLACKNESS.]
+EXT. UNDERWATER -- DAY
+ອອກໄປ. ພາຍໃຕ້ນ້ ໍາ - ມື້
+
+493
+00:35:15,600 --> 00:35:17,600
+[COOPER]
+Breathe. Trust me.
+ຫາຍໃຈ. ເຊື່ອຂ້ອຍ.
+
+494
+00:35:18,100 --> 00:35:24,100
+[COOPER]
+Your suit is filling with water. I'm not going to be able to hold it much longer. I'm going to let go.
+ຊຸດຂອງທ່ານ ກໍາ ລັງເຕັມໄປດ້ວຍນ້ ໍາ.
+ຂ້ອຍຈະບໍ່ສາມາດຖືມັນໄດ້ດົນນານ. ຂ້ອຍຈະປ່ອຍໄປ.
+
+495
+00:35:24,600 --> 00:35:27,750
+[BRAND]
+What do you mean, you're going to let go?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ, ເຈົ້າຈະປ່ອຍໄປ?
+
+496
+00:35:28,250 --> 00:35:30,250
+[COOPER]
+Take a deep breath.
+ດູດຫາຍໃຈຢ່າງເລິກເຊິ່ງ.
+
+497
+00:35:30,750 --> 00:35:32,750
+[BRAND]
+I don't need your help.
+ຂ້ອຍບໍ່ຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ.
+
+498
+00:35:33,250 --> 00:35:36,750
+[COOPER]
+I thought we were supposed to be a collective organism.
+ຂ້ອຍຄິດວ່າພວກເຮົາຄວນເປັນອົງການຈັດຕັ້ງລວມ.
+
+499
+00:35:37,250 --> 00:35:39,250
+[BRAND]
+Thank you.
+ຂອບໃຈ
+
+500
+00:35:39,750 --> 00:35:41,750
+[COOPER]
+Don't mention it.
+ຢ່າເວົ້າມັນເລີຍ.
+
+501
+00:35:42,250 --> 00:35:46,800
+[BRAND]
+Oxygen atmosphere. Pure water. Temperate climate. You still think this is a coincidence?
+ອາກາດອົກຊີເຈນ. ນ້ ໍາ ສະອາດ. ສະພາບອາກາດອຸນຫະພູມອຸ່ນ
+. ເຈົ້າຍັງຄິດວ່າມັນເປັນເຫດການບໍ?
+
+502
+00:35:47,300 --> 00:35:53,300
+[COOPER]
+Looks like we can climb up the mountains back to the ice. We're down to three suits. We'll have to send someone ahead to get a fourth. 81.
+ເບິ່ງຄືວ່າພວກເຮົາສາມາດຂຶ້ນພູເຂົາກັບຄືນໄປບ່ອນນ້ ໍາ ກ້ອນໄດ້.
+ພວກເຮົາຫຼຸດລົງເປັນຊຸດສາມຊຸດ. ພວກເຮົາຕ້ອງສົ່ງຄົນກ່ອນເພື່ອເອົາທີສີ່. 81.
+
+503
+00:35:53,800 --> 00:35:55,800
+[BRAND]
+I won't need one.
+ຂ້ອຍຈະບໍ່ຕ້ອງການຫນຶ່ງ.
+
+504
+00:35:56,300 --> 00:35:58,300
+[DOYLE]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+505
+00:35:58,800 --> 00:36:02,300
+[BRAND]
+Because I'm not going anywhere. This is our new home.
+ເພາະຂ້ອຍຈະບໍ່ໄປໃສເລີຍ. ນີ້ແມ່ນເຮືອນໃຫມ່ຂອງພວກເຮົາ.
+
+506
+00:36:02,800 --> 00:36:04,800
+[COOPER]
+Any sign of Brand?
+ມີສັນຍານໃດໆຂອງບຣານດ໌ບໍ?
+
+507
+00:36:05,300 --> 00:36:11,300
+[ROTH]
+She's still taking samples. If you find her, tell her to head back. Night should be falling soon.
+ນາງຍັງ ກໍາ ລັງເກັບຕົວຢ່າງຢູ່. ຖ້າເຈົ້າພົບນາງ
+, ບອກນາງໃຫ້ກັບຄືນໄປບ່ອນ. ຄືນຄວນຕົກໄວໆນີ້.
+
+508
+00:36:11,800 --> 00:36:13,800
+[COOPER]
+What happens then?
+ຫຼັງຈາກນັ້ນເກີດຫຍັງຂຶ້ນ?
+
+509
+00:36:14,300 --> 00:36:16,750
+[ROTH]
+Your guess is as good as mine.
+ການຄາດຄະເນຂອງທ່ານແມ່ນດີເທົ່າກັບຂອງຂ້ອຍ.
+
+510
+00:36:17,250 --> 00:36:23,250
+[BRAND]
+This is incredible. The organisms trapped in the ice above absorb x- rays and emit light. In return, these plants absorb the light and emit oxygen, which feeds the animals trapped in the ice.
+ນີ້ແມ່ນສິ່ງທີ່ຫນ້າເຊື່ອໃຈ. ສິ່ງມີຊີວິດທີ່ຖືກຈັບກຸມໃນນ້ ໍາ ກ້ອນຂ້າງເທິງດູດຊຶມແສງ X ແລະ
+ອອກແສງສະຫວ່າງ. ໃນແລກປ່ຽນ, ພືດເຫຼົ່ານີ້ດູດແສງແລະປ່ອຍອົກຊີເຈນ, ເຊິ່ງໃຫ້ອາຫານສັດທີ່ຕິດຢູ່ໃນນ້ ໍາກ້ອນ.
+
+511
+00:36:23,750 --> 00:36:29,750
+[BRAND]
+Look at this. I think they're the same organism at a different stage of the life cycle.  It's fractal. No individual cells -- the structure repeats all the way down.
+ເບິ່ງສິ່ງນີ້ແມ. ຂ້ອຍຄິດວ່າພວກມັນເປັນຊີວະພາບດຽວກັນໃນໄລຍະທີ່ແຕກຕ່າງກັນຂອງວົງຈອນຊີວິດ
+. ມັນເປັນຟຣັກຕາລ. ບໍ່ມີຈຸລັງແຕ່ລະຄົນ - ໂຄງສ້າງຊໍ້າອີກຕະຫຼອດທາງລົງ.
+
+512
+00:36:30,250 --> 00:36:32,250
+[COOPER]
+Any sign of big life-forms?
+ມີສັນຍານໃດໆຂອງຮູບຮ່າງຊີວິດທີ່ໃຫຍ່ບໍ?
+
+513
+00:36:32,750 --> 00:36:38,700
+[BRAND]
+The soil's been disturbed. So something's been moving. But I haven't seen anything.  Cooper... are you nervous?
+ດິນໄດ້ຖືກລົບກວນ. ສະນັ້ນບາງສິ່ງບາງຢ່າງ ກໍາ ລັງເຄື່ອນຍ້າຍ
+. ແຕ່ຂ້ອຍບໍ່ໄດ້ເຫັນຫຍັງເລີຍ. ຄູເປີ... ເຈົ້າກັງວົນບໍ?
+
+514
+00:36:39,200 --> 00:36:43,750
+[COOPER]
+I just think we should get back to the shelter before night falls.
+ຂ້ອຍພຽງແຕ່ຄິດວ່າພວກເຮົາຄວນກັບຄືນໄປບ່ອນພັກອາໄສກ່ອນທີ່ຈະຕົກຄືນ.
+
+515
+00:36:44,250 --> 00:36:50,250
+[BRAND]
+Relax. If there are any large organisms here, even predatory ones, they're not going to attack us -- they have no idea what we are.
+ສະບາຍໃຈ. ຖ້າມີຊີວະພາບໃຫຍ່ໃດໆຢູ່ນີ້, ເຖິງແມ່ນວ່າພວກສັດລ້ຽງ,
+ພວກເຂົາຈະບໍ່ໂຈມຕີພວກເຮົາ - ພວກເຂົາບໍ່ຮູ້ວ່າພວກເຮົາເປັນຫຍັງ.
+
+516
+00:36:50,750 --> 00:36:56,750
+[COOPER]
+You don't know that. You just have blind faith this place is going to be some kind of Eden.
+ເຈົ້າບໍ່ຮູ້ເລື່ອງນັ້ນ.
+ເຈົ້າພຽງແຕ່ມີຄວາມເຊື່ອຕາບອດວ່າບ່ອນນີ້ຈະເປັນອະດີນບາງຢ່າງ.
+
+517
+00:36:57,250 --> 00:37:03,250
+[BRAND]
+Faith has nothing to do with it. You know what you are, Cooper? You're just another in a long line of people saying 'no.' That this isn't going to work. And frankly, I don't have to convince you. 83.
+ຄວາມເຊື່ອບໍ່ມີຫຍັງກ່ຽວຂ້ອງກັບມັນ. ເຈົ້າຮູ້ວ່າເຈົ້າເປັນຫຍັງ, ຄູເປີ? ເຈົ້າພຽງແຕ່ອີກຄົນ ຫນຶ່ງ
+ໃນແຖວຄົນຍາວທີ່ເວົ້າວ່າ'ບໍ່. ວ່າສິ່ງນີ້ຈະບໍ່ເຮັດວຽກ. ແລະຢ່າງຈິງໃຈ, ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງຊັກຊວນເຈົ້າ. 83.
+
+518
+00:37:03,750 --> 00:37:05,750
+[COOPER]
+What's that supposed to mean?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ?
+
+519
+00:37:06,250 --> 00:37:12,250
+[BRAND]
+You're on this mission because you're another pair of hands. You want the truth? I told Case we should bring another robot over you. At least then I could just reprogram you to-
+ເຈົ້າຢູ່ໃນພາລະກິດນີ້ເພາະວ່າເຈົ້າເປັນຄູ່ມືອີກຄົນຫນຶ່ງ. ເຈົ້າຢາກຄວາມຈິງບໍ? ຂ້ອຍບອກ Case
+ວ່າພວກເຮົາຄວນເອົາຫຸ່ນຍົນອື່ນມາຫາເຈົ້າ. ຢ່າງຫນ້ອຍຫຼັງຈາກນັ້ນຂ້ອຍສາມາດປ່ຽນໂປແກຼມເຈົ້າໃຫ້ -
+
+520
+00:37:12,750 --> 00:37:14,750
+[COOPER]
+What?
+ຫຍັງ?
+
+521
+00:37:15,250 --> 00:37:19,100
+[BRAND]
+Nothing. I just -- I could have sworn it just moved.
+ບໍ່ມີຫຍັງເລີຍ. ຂ້ອຍພຽງແຕ່ -
+ຂ້ອຍສາມາດສາບານໂຕວ່າມັນພຽງແຕ່ເຄື່ອນຍ້າຍ.
+
+522
+00:37:19,600 --> 00:37:23,800
+[COOPER]
+You know how plants don't usually move? Is that a universal rule?
+ເຈົ້າຮູ້ແລ້ວວ່າພືດບໍ່ເຄື່ອນຍ້າຍປົກກະຕິບໍ
+? ນັ້ນແມ່ນກົດລະບຽບທົ່ວໄປບໍ?
+
+523
+00:37:24,300 --> 00:37:26,400
+[BRAND]
+No. There really aren't any rules.
+ບໍ່. ບໍ່ມີກົດລະບຽບໃດໆແທ້ໆ.
+
+524
+00:37:26,900 --> 00:37:28,900
+[BRAND]
+Remember, we're the aliens.
+ຈື່ໄວ້ວ່າ ພວກເຮົາເປັນຄົນຕ່າງດາວ.
+
+525
+00:37:29,400 --> 00:37:32,200
+[BRAND]
+Hold very still. Don't make any sudden movements.
+ຮັກສາຄວາມງຽບສະຫງົບຫຼາຍ. ຢ່າເຄື່ອນໄຫວຢ່າງກະທັນຫັນໃດໆ.
+
+526
+00:37:32,700 --> 00:37:34,700
+[COOPER]
+Hello there.
+ສະບາຍດີ.
+
+527
+00:37:35,200 --> 00:37:37,200
+[COOPER]
+OK. Now we run.
+ດີແລ້ວ. ດຽວນີ້ພວກເຮົາແລ່ນ.
+
+528
+00:37:37,700 --> 00:37:39,800
+[COOPER]
+We have to reach the shelter.
+ພວກເຮົາຕ້ອງໄປຫາບ່ອນລີ້ໄພ.
+
+529
+00:37:40,300 --> 00:37:42,400
+[DOYLE]
+I think we've got a problem.
+ຂ້ອຍຄິດວ່າພວກເຮົາມີບັນຫາ.
+
+530
+00:37:42,900 --> 00:37:44,900
+[ROTH]
+Fascinating. I think-
+ຫນ້າສົນໃຈ. ຂ້ອຍຄິດວ່າ...
+
+531
+00:37:45,400 --> 00:37:47,400
+[COOPER]
+This way.
+ທາງນີ້.
+
+532
+00:37:47,900 --> 00:37:49,900
+[BRAND]
+No... wait.
+ບໍ່... ລໍຖ້າ.
+
+533
+00:37:50,400 --> 00:37:52,400
+[COOPER]
+I've got you.
+ຂ້ອຍຈັບເຈົ້າແລ້ວ.
+
+534
+00:37:52,900 --> 00:37:54,900
+[BRAND]
+I've got you.
+ຂ້ອຍຈັບເຈົ້າແລ້ວ.
+
+535
+00:37:55,400 --> 00:37:59,600
+[BRAND]
+It's game theory. The best move is always to cooperate at first.
+ມັນເປັນທິດສະດີເກມ.
+ການເຄື່ອນໄຫວທີ່ດີທີ່ສຸດແມ່ນສະເຫມີການຮ່ວມມືໃນເບື້ອງຕົ້ນ.
+
+536
+00:38:00,100 --> 00:38:03,250
+[COOPER]
+By "cooperate" do you mean let it eat me?
+ເຈົ້າຫມາຍຄວາມວ່າ"ຮ່ວມມື" ໃຫ້ມັນຢ່າມາຍຸ້ງກັບຂ້ອຍ!ບໍ?
+
+537
+00:38:03,750 --> 00:38:09,350
+[BRAND]
+These organisms have no interest in us. They survive by photosynthesis. All they need is light.
+ສິ່ງມີຊີວິດເຫຼົ່ານີ້ບໍ່ມີຄວາມສົນໃຈໃນພວກເຮົາ.
+ພວກເຂົາຢູ່ລອດໂດຍການສັງເຄາະແສງສະຫວ່າງ. ສິ່ງດຽວທີ່ພວກເຂົາຕ້ອງການແມ່ນແສງ.
+
+538
+00:38:09,850 --> 00:38:12,300
+[COOPER]
+Then why are they killing each other?
+ຫຼັງຈາກນັ້ນພວກເຂົາ ກໍາ ລັງຂ້າກັນແລະກັນເປັນຫຍັງ?
+
+539
+00:38:12,800 --> 00:38:18,800
+[BRAND]
+I don't know. But we're outnumbered, Cooper. So unless you have a better idea, I suggest we make nice. 87.
+ຂ້ອຍບໍ່ຮູ້. ແຕ່ພວກເຮົາມີຈໍານວນຫນ້ອຍກວ່າ, ຄູເປີ.
+ສະນັ້ນຖ້າເຈົ້າບໍ່ມີແນວຄິດທີ່ດີກວ່າ, ຂ້ອຍແນະ ນໍາ ໃຫ້ພວກເຮົາເຮັດດີ. 87.
+
+540
+00:38:19,300 --> 00:38:21,300
+[COOPER]
+What is it doing?
+ມັນເຮັດຫຍັງຢູ່?
+
+541
+00:38:21,800 --> 00:38:26,000
+[BRAND]
+It's a colony organism. It's trying to incorporate you into its structure.
+ມັນເປັນຊີວະພາບຄລູເນຍ. ມັນ ກໍາ
+ລັງພະຍາຍາມລວມເອົາເຈົ້າເຂົ້າໃນໂຄງສ້າງຂອງມັນ.
+
+542
+00:38:26,500 --> 00:38:28,950
+[COOPER]
+I don't want it to incorporate me.
+ຂ້ອຍບໍ່ຢາກໃຫ້ມັນລວມຕົວຂ້ອຍ.
+
+543
+00:38:29,450 --> 00:38:31,450
+[BRAND]
+Don't open your mouth.
+ຢ່າເປີດປາກ.
+
+544
+00:38:31,950 --> 00:38:37,950
+[WHY N-]
+As he speaks, the creature on his chest extends four spindly, pointed feelers and reaches gently into his mouth.
+ໃນຂະນະທີ່ລາວເວົ້າ,
+ສິ່ງມີຊີວິດຢູ່ເທິງທ້ອງຂອງລາວຍືດອອກສີ່ກະດານທີ່ສວຍງາມແລະແນ່ນອນແລະຍາວເຂົ້າໄປໃນປາກຂອງລາວຢ່າງອ່ອນແອ.
+
+545
+00:38:38,450 --> 00:38:40,450
+[COOPER]
+They're killing each other.
+ພວກເຂົາ ກໍາ ລັງຂ້າກັນແລະກັນ.
+
+546
+00:38:40,950 --> 00:38:46,950
+[BRAND]
+No. They don't bleed... they don't die... they're just competing... trying out different shapes, looking for the best one. 88.
+ບໍ່. ພວກເຂົາບໍ່ເລືອດ... ພວກເຂົາບໍ່ຕາຍ... ພວກເຂົາພຽງແຕ່ແຂ່ງຂັນ
+... ພະຍາຍາມຮູບຮ່າງທີ່ແຕກຕ່າງກັນ, ຊອກຫາທີ່ດີທີ່ສຸດ. 88.
+
+547
+00:38:47,450 --> 00:38:50,600
+[COOPER]
+I'd say they have a long way to go.
+ຂ້ອຍຈະເວົ້າວ່າ ພວກເຂົາມີທາງໄກທີ່ຈະໄປ.
+
+548
+00:38:51,100 --> 00:38:53,100
+[BRAND]
+They do this every night.
+ພວກເຂົາເຮັດແບບນີ້ທຸກໆຄືນ.
+
+549
+00:38:53,600 --> 00:38:58,500
+[BRAND]
+The behavior changes as the animals get bigger and bigger. More sophisticated. More calculated.
+ການປະພຶດປ່ຽນແປງໃນຂະນະທີ່ສັດໃຫຍ່ຂຶ້ນແລະໃຫຍ່ຂຶ້ນ
+. ສັບສົນກວ່າເກົ່າ. ຄິດໄລ່ຫຼາຍຂຶ້ນ.
+
+550
+00:38:59,000 --> 00:39:01,100
+[COOPER]
+But what are they competing for?
+ແຕ່ພວກເຂົາແຂ່ງຂັນກັນຫຍັງ?
+
+551
+00:39:01,600 --> 00:39:03,600
+[BRAND]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+552
+00:39:04,100 --> 00:39:10,100
+[BRAND]
+These creatures are billions of years older than we are. But they're relatively primitive. They haven't developed tools, culture, language.
+ສິ່ງມີຊີວິດເຫຼົ່ານີ້ມີອາຍຸຫຼາຍພັນລ້ານປີກວ່າພວກເຮົາ.
+ແຕ່ພວກມັນເປັນຕົ້ນສະບັບສົມດຸນ. ພວກເຂົາບໍ່ໄດ້ພັດທະນາເຄື່ອງມື, ວັດທະນະທໍາ, ພາສາ.
+
+553
+00:39:10,600 --> 00:39:12,600
+[COOPER]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+554
+00:39:13,100 --> 00:39:19,100
+[BRAND]
+I don't know. No one knows how intelligent life began on Earth. But the surface of this planet has virtually no craters. No impacts. It's been sheltered by the local black holes.
+ຂ້ອຍບໍ່ຮູ້. ບໍ່ມີໃຜຮູ້ວ່າຊີວິດທີ່ສະຫຼາດໄດ້ເລີ່ມຕົ້ນແນວໃດໃນໂລກ.
+ແຕ່ພື້ນຜິວຂອງໂລກນີ້ບໍ່ມີກະທູ້ເກືອບບໍ່ມີ. ບໍ່ມີຜົນກະທົບ. ມັນຖືກປົກປ້ອງໂດຍຮູ ດໍາ ທ້ອງຖິ່ນ.
+
+555
+00:39:19,600 --> 00:39:21,600
+[COOPER]
+What difference would that make?
+ມັນຈະມີຄວາມແຕກຕ່າງຫຍັງ?
+
+556
+00:39:22,100 --> 00:39:27,700
+[BRAND]
+Maybe not enough has gone wrong here. Maybe bad luck is the key to intelligent life.
+ບາງທີບໍ່ພຽງພໍໄດ້ຜິດພາດຢູ່ນີ້.
+ບາງທີໂຊກຮ້າຍແມ່ນປຸ່ມ ສໍາ ຄັນຂອງຊີວິດທີ່ສະຫຼາດ.
+
+557
+00:39:28,200 --> 00:39:30,200
+[COOPER]
+Murph's Law.
+ກົດ ຫມາຍ ຂອງມໍຟ.
+
+558
+00:39:30,700 --> 00:39:36,700
+[BRAND]
+Exactly. Maybe our interaction with them will push them over the top. Maybe that's part of the plan.
+ແທ້ຈິງແລ້ວ. ບາງທີການພົວພັນຂອງພວກເຮົາກັບພວກເຂົາຈະຊຸກຍູ້ພວກເຂົາໄປເທິງສຸດ
+. ບາງຄົນນັ້ນເປັນສ່ວນ ຫນຶ່ງ ຂອງແຜນການ.
+
+559
+00:39:37,200 --> 00:39:39,200
+[COOPER]
+The plan.
+ແຜນການ.
+
+560
+00:39:39,700 --> 00:39:45,650
+[BRAND]
+Why is it so hard for you to accept that someone might be trying to help us?
+ເປັນຫຍັງມັນຈຶ່ງຍາກຫຼາຍ ສໍາ
+ລັບເຈົ້າທີ່ຈະຍອມຮັບວ່າບາງຄົນອາດຈະພະຍາຍາມຊ່ວຍພວກເຮົາ?
+
+561
+00:39:46,150 --> 00:39:52,150
+[COOPER]
+I was in Denver during the first year of the famine. I was just a kid. We kept waiting for someone to come help us. People starved to death sitting on the ground, waiting for someone to come. 90.
+ຂ້ອຍຢູ່ເດັນເວີໃນປີ ທໍາ ອິດຂອງຄວາມອຶດຫິວ. ຂ້ອຍພຽງແຕ່ເປັນເດັກນ້ອຍ.
+ພວກເຮົາສືບຕໍ່ລໍຖ້າຄົນມາຊ່ວຍພວກເຮົາ. ຄົນຕາຍຍ້ອນຄວາມຫິວນັ່ງຢູ່ເທິງດິນ, ລໍຖ້າຄົນທີ່ມາ. 90.
+
+562
+00:39:52,650 --> 00:39:58,650
+[COOPER]
+I only made it because I realized that nobody was coming to save us. We were on our own.
+ຂ້ອຍເຮັດໄດ້ພຽງແຕ່ເພາະວ່າຂ້ອຍຮູ້ວ່າບໍ່ມີໃຜຈະມາຊ່ວຍພວກເຮົາ
+. ພວກເຮົາຢູ່ດ້ວຍຕົນເອງ.
+
+563
+00:39:59,150 --> 00:40:05,150
+[COOPER]
+Honestly? After the things I saw... you want to know why I don't believe that someone would be trying to help us? Because I'm not sure we're worth saving.
+ຢ່າງຈິງໃຈບໍ? ຫຼັງຈາກສິ່ງຕ່າງໆທີ່ຂ້ອຍເຫັນ...
+ເຈົ້າຢາກຮູ້ວ່າເປັນຫຍັງຂ້ອຍບໍ່ເຊື່ອວ່າໃຜຈະພະຍາຍາມຊ່ວຍພວກເຮົາບໍ? ເພາະວ່າຂ້ອຍບໍ່ແນ່ໃຈວ່າພວກເຮົາຄວນຊ່ວຍເຫຼືອ.
+
+564
+00:40:05,650 --> 00:40:11,650
+[BRAND]
+They're not going to move now, Cooper. They need to spread themselves as thin as they can to absorb the light. 91.
+ພວກເຂົາຈະບໍ່ເຄື່ອນຍ້າຍດຽວນີ້, ຄູເປີ.
+ພວກເຂົາຕ້ອງແຜ່ກະຈາຍຕົວເອງອ່ອນເທົ່າທີ່ພວກເຂົາສາມາດ absorb ແສງສະຫວ່າງໄດ້. 91.
+
+565
+00:40:12,150 --> 00:40:14,600
+[BRAND]
+Cooper, honestly, you're a bit of a-
+ຄູເປີ, ຢ່າງຈິງໃຈ, ເຈົ້າເປັນບາງຢ່າງຂອງ...
+
+566
+00:40:15,100 --> 00:40:18,600
+[DOYLE]
+Looks like the Chinese picked a fight with the locals.
+ເບິ່ງຄືວ່າຊາວຈີນໄດ້ເລືອກການຕໍ່ສູ້ກັບຄົນທ້ອງຖິ່ນ.
+
+567
+00:40:19,100 --> 00:40:21,100
+[COOPER]
+Looks like they lost.
+ເບິ່ງຄືວ່າພວກເຂົາໄດ້ສູນເສຍ.
+
+568
+00:40:21,600 --> 00:40:27,600
+[DOYLE]
+Look at the size of this place. They built it for thousands of people. But no one came.
+ເບິ່ງຂະຫນາດຂອງບ່ອນນີ້ແມ. ພວກເຂົາກໍ່ສ້າງມັນ
+ສໍາ ລັບຄົນຫຼາຍພັນຄົນ. ແຕ່ບໍ່ມີໃຜມາ.
+
+569
+00:40:28,100 --> 00:40:32,650
+[BRAND]
+They will. We can salvage it. This place will save us years. 92.
+ພວກເຂົາຈະເຮັດ. ພວກເຮົາສາມາດຊ່ວຍມັນໄດ້
+. ສະຖານທີ່ນີ້ຈະຊ່ວຍພວກເຮົາຫຼາຍປີ. 92.
+
+570
+00:40:33,150 --> 00:40:35,150
+[COOPER]
+But why didn't they come?
+ແຕ່ເປັນຫຍັງພວກເຂົາບໍ່ໄດ້ມາ?
+
+571
+00:40:35,650 --> 00:40:41,650
+[BRAND]
+The Chinese government collapsed, same as ours. The people who knew about this mission probably died years ago. We had the same problems.
+ລັດຖະບານຈີນໄດ້ລົ້ມເຫຼວ, ເຊັ່ນດຽວກັນກັບຂອງພວກເຮົາ.
+ຄົນທີ່ຮູ້ກ່ຽວກັບພາລະກິດນີ້ອາດຈະຕາຍຫຼາຍປີກ່ອນ. ພວກເຮົາມີບັນຫາດຽວກັນ.
+
+572
+00:40:42,150 --> 00:40:44,150
+[BRAND]
+What happened here?
+ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+573
+00:40:44,650 --> 00:40:46,650
+[ROTH]
+They were testing something.
+ພວກເຂົາ ກໍາ ລັງທົດສອບບາງສິ່ງບາງຢ່າງ.
+
+574
+00:40:47,150 --> 00:40:49,150
+[COOPER]
+Testing what?
+ການທົດສອບຫຍັງ?
+
+575
+00:40:49,650 --> 00:40:51,650
+[COOPER]
+Is that a chair?
+ນັ້ນແມ່ນຕັ່ງບໍ?
+
+576
+00:40:52,150 --> 00:40:56,700
+[COOPER]
+Everything in here is bolted down.  What do you think this thing does?
+ທຸກຢ່າງໃນບ່ອນນີ້ຖືກປິດລົງ. ເຈົ້າຄິດວ່າສິ່ງນີ້ເຮັດຫຍັງ?
+
+577
+00:40:57,200 --> 00:40:59,200
+[ROTH]
+Let's find out.
+ພວກເຮົາຈະຮູ້ວ່າ.
+
+578
+00:40:59,700 --> 00:41:04,600
+[COOPER]
+I wouldn't turn it on until we can figure out what it does, Roth.
+ຂ້ອຍຈະບໍ່ເປີດມັນຈົນກວ່າພວກເຮົາຈະຮູ້ວ່າມັນເຮັດຫຍັງ, ໂຣສຕ໌.
+
+579
+00:41:05,100 --> 00:41:07,100
+[BRAND]
+Cooper. Come look at this.
+ຄູເປີ ມາເບິ່ງສິ່ງນີ້ແມ.
+
+580
+00:41:07,600 --> 00:41:10,400
+[CASE]
+I've found the Chinese mission logs. They're encrypted.
+ຂ້ອຍໄດ້ພົບບັນທຶກພາລະກິດຈີນແລ້ວ. ພວກມັນຖືກລະຫັດ.
+
+581
+00:41:10,900 --> 00:41:14,750
+[COOPER]
+Old military-grade encryption. It's not very robust.  No offense. Hang on.
+ການເຂົ້າລະຫັດຊັ້ນທະຫານເກົ່າ.
+ມັນບໍ່ແຂງແຮງຫຼາຍ. ບໍ່ເປັນການໂຊກຮ້າຍ. ລໍຖ້າ.
+
+582
+00:41:15,250 --> 00:41:17,700
+[COOPER]
+That should open up most of it.
+ນັ້ນຄວນເປີດສ່ວນໃຫຍ່ຂອງມັນ.
+
+583
+00:41:18,200 --> 00:41:24,200
+[CASE]
+They got here twenty years ago. The human crew was killed by radiation the first day. But the robots survived. They built the colony and radioed home. But they didn't receive a response.
+ພວກເຂົາມາຮອດບ່ອນນີ້ເມື່ອສິບປີກ່ອນ. ທີມງານມະນຸດຖືກຂ້າຕາຍໂດຍແສງສະຫວ່າງໃນມື້ ທໍາ ອິດ.
+ແຕ່ຫຸ່ນຍົນລອດຊີວິດ. ພວກເຂົາສ້າງຄລູເນຍແລະສົ່ງວິທະຍຸກັບບ້ານ. ແຕ່ພວກເຂົາບໍ່ໄດ້ໄດ້ຮັບ ຄໍາ ຕອບ.
+
+584
+00:41:24,700 --> 00:41:26,700
+[COOPER]
+No one was listening.
+ບໍ່ມີໃຜຟັງ.
+
+585
+00:41:27,200 --> 00:41:30,000
+[CASE]
+After a few years they discovered a problem.
+ຫຼັງຈາກສອງສາມປີພວກເຂົາໄດ້ຄົ້ນພົບບັນຫາ.
+
+586
+00:41:30,500 --> 00:41:32,500
+[DOYLE]
+What problem?
+ບັນຫາຫຍັງ?
+
+587
+00:41:33,000 --> 00:41:39,000
+[CASE]
+It doesn't say. Their science team took the ship to continue exploring the system. It says they found some kind of... ...The word literally means 'treasure.'
+ມັນບໍ່ໄດ້ບອກ. ທີມງານວິທະຍາສາດຂອງພວກເຂົາໄດ້ເອົາເຮືອເພື່ອສືບຕໍ່ຄົ້ນຄວ້າລະບົບ.
+ມັນເວົ້າວ່າພວກເຂົາພົບບາງປະເພດຂອງ...... ຄໍາ ວ່າຕົວຈິງ ຫມາຍ ຄວາມວ່າ'ຊັບສິນ'.
+
+588
+00:41:39,500 --> 00:41:45,500
+[CASE]
+The science team returned after five years with a new technology. They began the experiments upstairs, then they left again and never returned. 95.
+ທີມງານວິທະຍາສາດກັບມາຫຼັງຈາກຫ້າປີດ້ວຍເຕັກໂນໂລຢີ ໃຫມ່. ພວກເຂົາເລີ່ມຕົ້ນການທົດລອງຢູ່ເທິງ
+, ຫຼັງຈາກນັ້ນພວກເຂົາອອກຈາກອີກຄັ້ງແລະບໍ່ເຄີຍກັບມາ. 95.
+
+589
+00:41:46,000 --> 00:41:48,000
+[BRAND]
+Where did they go?
+ພວກເຂົາໄປໃສ?
+
+590
+00:41:48,500 --> 00:41:52,350
+[CASE]
+I don't know. They've deleted their mission plan. There's nothing else.
+ຂ້ອຍບໍ່ຮູ້. ພວກເຂົາໄດ້ລຶບແຜນການພາລະກິດຂອງພວກເຂົາແລ້ວ
+. ບໍ່ມີຫຍັງອີກເລີຍ.
+
+591
+00:41:52,850 --> 00:41:55,650
+[DOYLE]
+I think I know what the problem is.
+ຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ວ່າບັນຫາແມ່ນຫຍັງ.
+
+592
+00:41:56,150 --> 00:41:58,150
+[DOYLE]
+Look.
+ເບິ່ງແມ
+
+593
+00:41:58,650 --> 00:42:04,650
+[DOYLE]
+There's a small black hole moving into the system. Too small for us to have seen in our survey. It's not going to hit the planet, but it's going to come close.
+ມີຮູສີດໍານ້ອຍໆ ກໍາ ລັງເຄື່ອນຍ້າຍເຂົ້າໄປໃນລະບົບ. ນ້ອຍເກີນໄປ ສໍາ
+ລັບພວກເຮົາທີ່ຈະເຫັນໃນການ ສໍາ ຫຼວດຂອງພວກເຮົາ. ມັນຈະບໍ່ຕີໂລກ, ແຕ່ມັນຈະໃກ້ຊິດ.
+
+594
+00:42:05,150 --> 00:42:08,300
+[DOYLE]
+This place isn't paradise. It's doomed. Just like us.
+ບ່ອນນີ້ບໍ່ແມ່ນສະຫວັນນະເຂດ. ມັນຖືກຕັດສິນລົງໂທດ. ຄືກັບພວກເຮົາ.
+
+595
+00:42:08,800 --> 00:42:10,900
+[COOPER]
+How long does this place have?
+ບ່ອນນີ້ມີເວລາຫຼາຍປານໃດ?
+
+596
+00:42:11,400 --> 00:42:13,850
+[CASE]
+A few years. A decade at most.
+ສອງສາມປີ. ຫຼາຍທີ່ສຸດສິບປີ.
+
+597
+00:42:14,350 --> 00:42:16,350
+[DOYLE]
+So much for the plan.
+ຫຼາຍຕໍ່ແຜນການ.
+
+598
+00:42:16,850 --> 00:42:21,400
+[BRAND]
+But I don't understand... why are we here? What are we here for?
+ແຕ່ຂ້ອຍບໍ່ເຂົ້າໃຈ... ພວກເຮົາຢູ່ບ່ອນນີ້ເປັນຫຍັງ
+? ພວກເຮົາມາບ່ອນນີ້ເພື່ອຫຍັງ?
+
+599
+00:42:21,900 --> 00:42:27,500
+[BRAND]
+What the hell are we here for? I trained my whole life to reach this place.
+ພວກເຮົາຢູ່ບ່ອນນີ້ເປັນຫຍັງ?
+ຂ້ອຍຝຶກອົບຮົມຕະຫຼອດຊີວິດເພື່ອບັນລຸບ່ອນນີ້.
+
+600
+00:42:28,000 --> 00:42:31,850
+[COOPER]
+Maybe... maybe Roth's right... maybe we just don't understand it yet.
+ບາງທີ... ບາງທີ ໂຣສຕ໌ຖືກຕ້ອງ..
+.ບາງທີພວກເຮົາພຽງແຕ່ບໍ່ເຂົ້າໃຈມັນເທື່ອ.
+
+601
+00:42:32,350 --> 00:42:34,350
+[COOPER]
+Case, what is that?
+ກໍລະນີ, ນັ້ນແມ່ນຫຍັງ?
+
+602
+00:42:34,850 --> 00:42:38,000
+[CASE]
+It's nighttime. The native life- forms are mobile again.
+ມັນເປັນຕອນກາງຄືນ. ຮູບແບບຊີວິດພື້ນເມືອງແມ່ນເຄື່ອນຍ້າຍອີກຄັ້ງ.
+
+603
+00:42:38,500 --> 00:42:40,600
+[COOPER]
+No. It's closer than that. Roth.
+ບໍ່. ມັນໃກ້ຊິດກວ່ານັ້ນ. ໂຣສຕ໌.
+
+604
+00:42:41,100 --> 00:42:43,100
+[COOPER]
+Quick -- hold onto something.
+ໄວ - ຈັບບາງສິ່ງບາງຢ່າງໄວ້.
+
+605
+00:42:43,600 --> 00:42:45,600
+[DOYLE]
+What the hell is happening?
+ເກີດຫຍັງຂຶ້ນ?
+
+606
+00:42:46,100 --> 00:42:51,000
+[ROTH]
+The control panel is beneath you. See if you can turn it off. 98.
+ກະດານຄວບຄຸມຢູ່ພາຍໃຕ້ເຈົ້າ. ເບິ່ງວ່າເຈົ້າສາມາດປິດມັນໄດ້ບໍ. 98.
+
+607
+00:42:51,500 --> 00:42:53,600
+[COOPER]
+I found it. Hold onto something.
+ຂ້ອຍພົບມັນແລ້ວ. ຈັບບາງສິ່ງບາງຢ່າງໄວ້.
+
+608
+00:42:54,100 --> 00:42:56,550
+[COOPER]
+They found a way to make gravity.
+ພວກເຂົາໄດ້ພົບວິທີທີ່ຈະເຮັດໃຫ້ຄວາມດຶງດູດ.
+
+609
+00:42:57,050 --> 00:43:03,050
+[ROTH]
+Not make it. Adjust it. Dial it up, or down. I think they were experimenting with it -- firing these into the black hole to try to save this planet.
+ບໍ່ເຮັດມັນ. ປັບມັນ. ໂທມັນຂຶ້ນ, ຫຼືລົງ. ຂ້ອຍຄິດວ່າພວກເຂົາ ກໍາ
+ລັງທົດລອງກັບມັນ - ຍິງສິ່ງເຫຼົ່ານີ້ເຂົ້າໄປໃນຮູສີດໍາເພື່ອພະຍາຍາມຊ່ວຍໂລກນີ້.
+
+610
+00:43:03,550 --> 00:43:05,650
+[DOYLE]
+All that from one tiny box.
+ທັງ ຫມົດ ນັ້ນຈາກກ່ອງນ້ອຍໆດຽວ.
+
+611
+00:43:06,150 --> 00:43:12,150
+[ROTH]
+It barely uses any power. I'm only beginning to understand what it does but I think it sends a signal out into the bulk. It must tap into the same technologies that were used to create the wormholes in the first place.
+ມັນເກືອບບໍ່ໃຊ້ພະລັງງານໃດໆ. ຂ້ອຍພຽງແຕ່ເລີ່ມເຂົ້າໃຈວ່າມັນເຮັດຫຍັງແຕ່ຂ້ອຍຄິດວ່າມັນສົ່ງສັນຍານອອກສູ່ສ່ວນໃຫຍ່
+. ມັນຕ້ອງເຂົ້າໄປໃນເຕັກໂນໂລຢີດຽວກັນທີ່ຖືກ ນໍາ ໃຊ້ເພື່ອສ້າງຮູແມງໄມ້ໃນອັນດັບ ທໍາ ອິດ.
+
+612
+00:43:12,650 --> 00:43:14,650
+[COOPER]
+What does that mean? 99.
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ? 99.
+
+613
+00:43:15,150 --> 00:43:19,350
+[ROTH]
+It means whoever built the wormhole probably doesn't exist inside our universe.
+ມັນຫມາຍຄວາມວ່າໃຜກໍ່ສ້າງຮູແມງໄມ້ອາດຈະບໍ່ມີຢູ່ພາຍໃນຈັກກະວານຂອງພວກເຮົາ
+.
+
+614
+00:43:19,850 --> 00:43:25,850
+[COOPER]
+But how did the Chinese develop the technology? This would take decades, maybe hundreds of years, to create.
+ແຕ່ຊາວຈີນໄດ້ພັດທະນາເຕັກໂນໂລຢີແນວໃດ?
+ມັນຈະໃຊ້ເວລາຫຼາຍສິບປີ, ບາງທີຫຼາຍຮ້ອຍປີ, ເພື່ອສ້າງ.
+
+615
+00:43:26,350 --> 00:43:30,550
+[CASE]
+Wherever they went, they found something that allowed them to build it.
+ທຸກບ່ອນທີ່ພວກເຂົາໄປ,
+ພວກເຂົາພົບບາງສິ່ງບາງຢ່າງທີ່ອະນຸຍາດໃຫ້ພວກເຂົາສ້າງມັນ.
+
+616
+00:43:31,050 --> 00:43:37,050
+[ROTH]
+They came back here and tried to use these devices to save this planet. But they didn't work. Nothing would be strong enough to weaken a black hole.
+ພວກເຂົາກັບມາບ່ອນນີ້ແລະພະຍາຍາມໃຊ້ອຸປະກອນເຫຼົ່ານີ້ເພື່ອຊ່ວຍໂລກນີ້
+. ແຕ່ພວກເຂົາບໍ່ໄດ້ເຮັດວຽກ. ບໍ່ມີຫຍັງຈະແຂງແຮງພໍທີ່ຈະອ່ອນແອຮູ ດໍາ.
+
+617
+00:43:37,550 --> 00:43:41,050
+[BRAND]
+Maybe we could work with it. Try to improve it.
+ບາງທີພວກເຮົາສາມາດເຮັດວຽກກັບມັນໄດ້. ພະຍາຍາມປັບປຸງມັນ.
+
+618
+00:43:41,550 --> 00:43:47,550
+[ROTH]
+No. You're missing the bigger picture. The robots had strict mission parameters. They were told to build a colony and report back. They tried to. But they failed. Like us they were fixated on this place.
+ບໍ່. ເຈົ້າ ກໍາ ລັງຂາດຮູບພາບທີ່ໃຫຍ່ກວ່າເກົ່າ. ໂຣບຕ໌ມີມາດຕະຖານພາລະກິດທີ່ເຂັ້ມງວດ.
+ພວກເຂົາຖືກບອກໃຫ້ສ້າງຄລູເນຍແລະລາຍງານຄືນ. ພວກເຂົາພະຍາຍາມເຮັດ. ແຕ່ພວກເຂົາລົ້ມເຫຼວ. ຄືກັບພວກເຮົາພວກເຂົາຖືກສຸມໃສ່ບ່ອນນີ້.
+
+619
+00:43:48,050 --> 00:43:54,050
+[ROTH]
+They didn't realize they had already found something that would save us all.  This. This is the prize.
+ພວກເຂົາບໍ່ຮູ້ວ່າພວກເຂົາໄດ້ພົບບາງສິ່ງບາງຢ່າງແລ້ວທີ່ຈະຊ່ວຍພວກເຮົາທຸກຄົນ
+. ນີ້ແມ່ນ. ນີ້ແມ່ນລາງວັນ.
+
+620
+00:43:54,550 --> 00:44:00,500
+[ROTH]
+Don't you see? Earth's gravity is like a prison. But this is like a master key. 100.
+ເຈົ້າບໍ່ເຫັນບໍ? ຄວາມດຶງດູດຂອງໂລກຄືກັບຄຸກ
+. ແຕ່ນີ້ແມ່ນຄືກັບປຸ່ມຫຼັກ. 100.
+
+621
+00:44:01,000 --> 00:44:07,000
+[ROTH]
+If we could build more of these, we could turn down the earth's gravitational field enough to save millions of people. We wouldn't have to pick a handful of people to survive. With this we can save everyone.
+ຖ້າພວກເຮົາສາມາດສ້າງສິ່ງເຫຼົ່ານີ້ຫຼາຍຂຶ້ນ, ພວກເຮົາສາມາດປະຕິເສດສະ ຫນາມ ດຶງດູດຂອງໂລກພຽງພໍເພື່ອຊ່ວຍຊີວິດຄົນຫຼາຍລ້ານຄົນ
+. ພວກເຮົາບໍ່ຈໍາເປັນຕ້ອງເລືອກຄົນ ຈໍາ ນວນ ຫນ້ອຍ ເພື່ອຢູ່ລອດ. ດ້ວຍສິ່ງນີ້ພວກເຮົາສາມາດຊ່ວຍທຸກຄົນໄດ້.
+
+622
+00:44:07,500 --> 00:44:09,500
+[BRAND]
+And go where?
+ແລະໄປໃສ?
+
+623
+00:44:10,000 --> 00:44:16,000
+[ROTH]
+Wherever we want. We don't belong in any one place. Can't you see that now? Not Earth. Not this place. Nowhere. If the human race is going to survive, we need to keep moving. Split up. Spread out. Fly. With this, we can.
+ບ່ອນໃດທີ່ພວກເຮົາຕ້ອງການ. ພວກເຮົາບໍ່ຂຶ້ນກັບບ່ອນໃດຫນຶ່ງ. ເຈົ້າບໍ່ເຫັນມັນດຽວນີ້ບໍ? ບໍ່ແມ່ນໂລກ. ບໍ່ແມ່ນບ່ອນນີ້. ບໍ່ມີບ່ອນໃດ
+. ຖ້າເຊື້ອຊາດມະນຸດຈະຢູ່ລອດ, ພວກເຮົາຕ້ອງຍ້າຍຕໍ່ໄປ. ແບ່ງອອກ. ແຜ່ກະຈາຍອອກ. ບິນ. ດ້ວຍສິ່ງນີ້, ພວກເຮົາສາມາດເຮັດໄດ້.
+
+624
+00:44:16,500 --> 00:44:19,650
+[CASE]
+In the morning we're taking this and going home.
+ໃນຕອນເຊົ້າພວກເຮົາຈະເອົາສິ່ງນີ້ແລະກັບບ້ານ.
+
+625
+00:44:20,150 --> 00:44:25,750
+[COOPER]
+I know this isn't exactly what you trained for. But I think Roth might be right.
+ຂ້ອຍຮູ້ວ່າສິ່ງນີ້ບໍ່ແມ່ນສິ່ງທີ່ເຈົ້າຝຶກອົບຮົມ
+ສໍາ ລັບ. ແຕ່ຂ້ອຍຄິດວ່າໂຣສອາດຈະຖືກຕ້ອງ.
+
+626
+00:44:26,250 --> 00:44:32,200
+[BRAND]
+That doesn't help this planet. This creature is doomed. Unlike us it doesn't have anywhere to go.
+ນັ້ນບໍ່ໄດ້ຊ່ວຍໂລກນີ້. ສິ່ງມີຊີວິດນີ້ຖືກຕັດສິນລົງໂທດ
+. ບໍ່ຄືກັບພວກເຮົາມັນບໍ່ມີບ່ອນໃດທີ່ຈະໄປ.
+
+627
+00:44:32,700 --> 00:44:38,300
+[CASE]
+We need to hurry. We only have a few hours to reach the ice before nightfall.
+ພວກເຮົາຕ້ອງໄວ. ພວກເຮົາມີພຽງແຕ່ສອງສາມຊົ່ວໂມງທີ່ຈະບັນລຸນ້
+ໍາ ກ້ອນກ່ອນຕອນກາງຄືນ.
+
+628
+00:44:38,800 --> 00:44:43,000
+[COOPER]
+Don't make any sudden movements. They can't hurt us if we're unarmed.
+ຢ່າເຄື່ອນໄຫວຢ່າງກະທັນຫັນໃດໆ.
+ພວກເຂົາບໍ່ສາມາດເຮັດໃຫ້ພວກເຮົາເຈັບປວດໄດ້ຖ້າພວກເຮົາບໍ່ມີອາວຸດ.
+
+629
+00:44:43,500 --> 00:44:45,500
+[BRAND]
+Who?
+ໃຜ?
+
+630
+00:44:46,000 --> 00:44:52,000
+[CHINESE OFFICER]
+Ni Hao. My name is Technical Sergeant Liu, 177th reconnaissance Marines, Army of the People's Republic. Welcome to New China. Please put down your weapon.
+ນີ ຮາວ. ຂ້ອຍຊື່ວ່າ ພົນຈັດຕະວາເຕັກນິກ ລູ, ທະຫານເຮືອການຄົ້ນຄວ້າທີ 177,
+ກອງທັບຂອງສາທາລະນະລັດປະຊາຊົນ. ຍິນດີຕ້ອນຮັບໃນຈີນໃຫມ່. ກະລຸນາວາງອາວຸດຂອງທ່ານລົງ.
+
+631
+00:44:52,500 --> 00:44:58,500
+[CASE]
+This is a scientific expedition, not a military one. We are making our way back to our ship.
+ນີ້ແມ່ນການເດີນທາງທາງວິທະຍາສາດ, ບໍ່ແມ່ນການທະຫານ.
+ພວກເຮົາ ກໍາ ລັງເດີນທາງກັບຄືນໄປບ່ອນເຮືອຂອງພວກເຮົາ.
+
+632
+00:44:59,000 --> 00:45:05,000
+[LIU]
+I'm afraid I cannot let you do that. We will provide food and shelter and await further instructions. 102.
+ຂ້ອຍຢ້ານວ່າຂ້ອຍບໍ່ສາມາດປ່ອຍໃຫ້ເຈົ້າເຮັດແບບນັ້ນໄດ້. ພວກເຮົາຈະສະ
+ຫນອງ ອາຫານແລະບ່ອນພັກອາໄສແລະລໍຖ້າ ຄໍາ ແນະ ນໍາ ຕໍ່ໄປ. 102.
+
+633
+00:45:05,500 --> 00:45:08,650
+[LIU]
+We are sorry if this causes you any inconvenience.
+ພວກເຮົາຂໍໂທດຖ້າສິ່ງນີ້ເຮັດໃຫ້ເຈົ້າມີຄວາມບໍ່ສະບາຍໃດໆ.
+
+634
+00:45:09,150 --> 00:45:14,050
+[BRAND]
+This planet is being pulled into the black hole. We all need to leave.
+ໂລກນີ້ຖືກດຶງເຂົ້າໄປໃນຮູສີດໍາ. ພວກເຮົາທຸກຄົນຕ້ອງອອກຈາກ.
+
+635
+00:45:14,550 --> 00:45:16,550
+[LIU]
+We will await further orders.
+ພວກເຮົາຈະລໍຖ້າຄໍາສັ່ງຕໍ່ໄປ.
+
+636
+00:45:17,050 --> 00:45:23,050
+[COOPER]
+Further orders aren't coming. Your government is gone. It ran out of money, same as ours. You're on your own.
+ຄໍາ ສັ່ງຕໍ່ໄປບໍ່ໄດ້ມາ. ລັດຖະບານຂອງທ່ານຫາຍໄປແລ້ວ.
+ມັນຫມົດເງິນ, ເຊັ່ນດຽວກັນກັບຂອງພວກເຮົາ. ເຈົ້າຢູ່ດ້ວຍຕົນເອງ.
+
+637
+00:45:23,550 --> 00:45:29,550
+[LIU]
+We can offer you food and shelter as long as you require. The facilities here are quite comfortable.
+ພວກເຮົາສາມາດສະ ເຫນີ ອາຫານແລະບ່ອນພັກອາໄສໃຫ້ທ່ານໄດ້ດົນເທົ່າທີ່ທ່ານຕ້ອງການ
+. ສິ່ງອໍານວຍຄວາມສະດວກຢູ່ນີ້ມີຄວາມສະບາຍຫຼາຍ.
+
+638
+00:45:30,050 --> 00:45:32,500
+[COOPER]
+They're never going to let us go.
+ພວກເຂົາຈະບໍ່ປ່ອຍພວກເຮົາໄປເລີຍ.
+
+639
+00:45:33,000 --> 00:45:38,950
+[BRAND]
+Your mission is a humanitarian one, wasn't it? You were sent to start a colony. Like us.
+ພາລະກິດຂອງທ່ານແມ່ນພາລະກິດມະນຸດສະທໍາ, ແມ່ນບໍ?
+ເຈົ້າຖືກສົ່ງໄປເພື່ອເລີ່ມຕົ້ນຄລູເນຍ. ຄືກັບພວກເຮົາ.
+
+640
+00:45:39,450 --> 00:45:44,000
+[LIU]
+Our mission was to prepare for the evacuation. This site was deemed unacceptable.
+ພາລະກິດຂອງພວກເຮົາແມ່ນການກະກຽມ ສໍາ
+ລັບການຍົກຍ້າຍ. ສະຖານທີ່ນີ້ຖືກຖືວ່າບໍ່ຍອມຮັບໄດ້.
+
+641
+00:45:44,500 --> 00:45:50,500
+[BRAND]
+This device that you have built -- this could save millions of people. We need to get it back home.
+ອຸປະກອນນີ້ທີ່ທ່ານໄດ້ສ້າງ - ນີ້ແມ່ນສາມາດຊ່ວຍຊີວິດຄົນຫຼາຍລ້ານຄົນໄດ້
+. ພວກເຮົາຕ້ອງເອົາມັນກັບບ້ານ.
+
+642
+00:45:51,000 --> 00:45:54,500
+[LIU]
+These technologies are the property of the People's Republic. 103.
+ເທັກໂນໂລຢີເຫຼົ່ານີ້ແມ່ນຊັບສິນຂອງສາທາລະນະລັດປະຊາຊົນ. 103.
+
+643
+00:45:55,000 --> 00:46:01,000
+[LIU]
+We have been ordered to prevent anyone from taking them. We have been ordered to prevent anyone from following.
+ພວກເຮົາໄດ້ຖືກສັ່ງໃຫ້ປ້ອງກັນບໍ່ໃຫ້ໃຜເອົາພວກມັນ
+. ພວກເຮົາຖືກສັ່ງໃຫ້ກີດກັ້ນບໍ່ໃຫ້ຄົນໃດຕິດຕາມ.
+
+644
+00:46:01,500 --> 00:46:03,500
+[ROTH]
+Following? Following where?
+ຕິດຕາມ? ຕິດຕາມໃສ?
+
+645
+00:46:04,000 --> 00:46:06,000
+[LIU]
+We will await further orders.
+ພວກເຮົາຈະລໍຖ້າຄໍາສັ່ງຕໍ່ໄປ.
+
+646
+00:46:06,500 --> 00:46:12,500
+[ROTH]
+Your name means six. Where did the others go? One through five? Is that who were not supposed to follow.
+ຊື່ຂອງທ່ານຫມາຍຄວາມວ່າຫົກ. ຄົນອື່ນໄປໃສ?
+ຫນຶ່ງ ຫາຫ້າ? ນັ້ນແມ່ນຜູ້ທີ່ບໍ່ຄວນຕິດຕາມ.
+
+647
+00:46:13,000 --> 00:46:19,000
+[CASE]
+Take the others up to the lander. Keep going. No matter what happens, don't come back for me.
+ເອົາຄົນອື່ນຂຶ້ນໄປບ່ອນລົງຈອດ. ສືບຕໍ່ໄປ.
+ບໍ່ວ່າຈະເກີດຫຍັງຂຶ້ນ, ຢ່າກັບມາຫາຂ້ອຍ.
+
+648
+00:46:19,500 --> 00:46:21,500
+[COOPER]
+Come on.
+ມາແລ້ວ.
+
+649
+00:46:22,000 --> 00:46:24,450
+[BRAND]
+We can't leave them all to die.
+ພວກເຮົາບໍ່ສາມາດປ່ອຍພວກເຂົາທັງ ຫມົດ ໃຫ້ຕາຍໄດ້.
+
+650
+00:46:24,950 --> 00:46:27,050
+[BRAND]
+Was that the last of them?
+ນັ້ນແມ່ນຄົນສຸດທ້າຍບໍ?
+
+651
+00:46:27,550 --> 00:46:32,450
+[DOYLE]
+We're not going to stick around to count them. Let's get out of here.
+ພວກເຮົາຈະບໍ່ຢູ່ອ້ອມຂ້າງເພື່ອນັບພວກມັນ. ໄປຈາກບ່ອນນີ້.
+
+652
+00:46:32,950 --> 00:46:34,950
+[COOPER]
+We're too late.
+ພວກເຮົາຊ້າເກີນໄປ.
+
+653
+00:46:35,450 --> 00:46:38,600
+[COOPER]
+The main thruster fuel supply. We're not going anywhere.
+ການສະ ຫນອງ ນ້ ໍາ ມັນກະຕຸ້ນຫຼັກ. ພວກເຮົາຈະບໍ່ໄປໃສເລີຍ.
+
+654
+00:46:39,100 --> 00:46:45,100
+[DOYLE]
+What about the escape rocket at the Chinese base camp? One of us could fit into it. 105.
+ຈະເປັນແນວໃດກັບລູກສອນໄຟທີ່ຫນີຢູ່ຄ້າຍຖານຈີນ?
+ຫນຶ່ງ ໃນພວກເຮົາສາມາດເຂົ້າໄປໃນມັນໄດ້. 105.
+
+655
+00:46:45,600 --> 00:46:51,550
+[BRAND]
+It doesn't matter how many of us make it. We have to get this back to earth.
+ມັນບໍ່ສໍາຄັນວ່າພວກເຮົາຈະເຮັດໄດ້ຫຼາຍປານໃດ
+. ພວກເຮົາຕ້ອງເອົາສິ່ງນີ້ກັບຄືນສູ່ໂລກ.
+
+656
+00:46:52,050 --> 00:46:55,200
+[ROTH]
+Can the secondary thrusters still fire on the lander?
+ເຄື່ອງຊຸກຍູ້ທາງສອງຍັງສາມາດຍິງໃສ່ເຄື່ອງລົງຈອດໄດ້ບໍ?
+
+657
+00:46:55,700 --> 00:46:59,550
+[DOYLE]
+Sure. But we don't have nearly enough power for lift off.
+ແນ່ນອນ. ແຕ່ພວກເຮົາບໍ່ມີພະລັງງານພຽງພໍ ສໍາ ລັບການຍົກຂຶ້ນ.
+
+658
+00:47:00,050 --> 00:47:02,050
+[ROTH]
+Yes we do.
+ແມ່ນແລ້ວ ພວກເຮົາເຮັດ.
+
+659
+00:47:02,550 --> 00:47:08,550
+[ROTH]
+I can reach one of the moons in low orbit and turn up its gravity. As it passes overhead it should be able to slingshot the lander away from the planet's surface. Along with everything else.
+ຂ້ອຍສາມາດບັນລຸດວງຈັນ ຫນຶ່ງ ໃນວົງຈອນຕໍ່າແລະເພີ່ມຄວາມດຶງດູດຂອງມັນໄດ້.
+ໃນຂະນະທີ່ມັນຜ່ານເທິງຫົວມັນຄວນສາມາດຍິງເຄື່ອງລົງຈອດອອກຈາກພື້ນຜິວຂອງໂລກໄດ້. ພ້ອມກັບສິ່ງອື່ນໆທັງ ຫມົດ.
+
+660
+00:47:09,050 --> 00:47:12,550
+[COOPER]
+But we need to take the box back to earth.
+ແຕ່ພວກເຮົາຕ້ອງເອົາກ່ອງກັບຄືນສູ່ໂລກ.
+
+661
+00:47:13,050 --> 00:47:18,300
+[ROTH]
+You don't need this -- only the idea. The knowledge of how to build it.
+ເຈົ້າບໍ່ຕ້ອງການສິ່ງນີ້ - ພຽງແຕ່ຄວາມຄິດ
+. ຄວາມຮູ້ກ່ຽວກັບວິທີສ້າງມັນ.
+
+662
+00:47:18,800 --> 00:47:24,800
+[COOPER]
+I'm going to image the operating code and the architecture onto the probe's hard drive. It'll be garbled, but it should give you and me enough to rebuild it when we get back.
+ຂ້ອຍຈະຖ່າຍຮູບລະຫັດປະຕິບັດງານແລະສະຖາປັດຕະຍະກໍາໃສ່ຮາດດິດຂອງເຄື່ອງກວດສອບ.
+ມັນຈະຈົບແນ່, ແຕ່ມັນຄວນໃຫ້ເຈົ້າແລະຂ້ອຍພຽງພໍທີ່ຈະສ້າງມັນຄືນເມື່ອພວກເຮົາກັບມາ.
+
+663
+00:47:25,300 --> 00:47:27,750
+[ROTH]
+Not me. But you'll make it work.
+ບໍ່ແມ່ນຂ້ອຍ. ແຕ່ເຈົ້າຈະເຮັດໃຫ້ມັນເຮັດວຽກໄດ້.
+
+664
+00:47:28,250 --> 00:47:30,700
+[ROTH]
+This is a one-way trip for me.
+ນີ້ແມ່ນການເດີນທາງທາງດຽວ ສໍາ ລັບຂ້ອຍ.
+
+665
+00:47:31,200 --> 00:47:36,450
+[BRAND]
+This isn't right, Roth. We can find a way for all of us to leave.
+ນີ້ແມ່ນບໍ່ຖືກຕ້ອງ, ໂຣສຕ໌.
+ພວກເຮົາສາມາດຊອກຫາວິທີທີ່ຈະໃຫ້ພວກເຮົາທຸກຄົນອອກຈາກ.
+
+666
+00:47:36,950 --> 00:47:42,950
+[ROTH]
+This is the only way. Keep the lander upright and fire the secondary boosters when the moon passes overhead.
+ນີ້ແມ່ນວິທີດຽວ.
+ຮັກສາເຄື່ອງລົງຈອດຢູ່ເທິງແລະຍິງເຄື່ອງຊຸກຍູ້ທາງສອງເມື່ອດວງຈັນຜ່ານເທິງຫົວ.
+
+667
+00:47:43,450 --> 00:47:45,450
+[COOPER]
+Let me take it.
+ຂໍໃຫ້ຂ້ອຍເອົາມັນ.
+
+668
+00:47:45,950 --> 00:47:51,550
+[ROTH]
+No. You need to make it home. You're going to need to build more of these.
+ບໍ່. ເຈົ້າຕ້ອງກັບບ້ານ. ເຈົ້າຈະຕ້ອງສ້າງສິ່ງເຫຼົ່ານີ້ຫຼາຍຂຶ້ນ.
+
+669
+00:47:52,050 --> 00:47:58,050
+[ROTH]
+I understand the plan, now. Whatever happens, you have to keep exploring. Keep learning. One good idea isn't enough. You'll need more and more of them just to survive. Do you understand?
+ຂ້ອຍເຂົ້າໃຈແຜນການ, ດຽວນີ້. ບໍ່ວ່າຈະເກີດຫຍັງຂຶ້ນ, ເຈົ້າຕ້ອງສືບຕໍ່ຄົ້ນຄວ້າ. ສືບຕໍ່ຮຽນຮູ້.
+ແນວຄິດທີ່ດີດຽວບໍ່ພຽງພໍ. ເຈົ້າຈະຕ້ອງການຫຼາຍຂຶ້ນແລະຫຼາຍຂຶ້ນພຽງແຕ່ເພື່ອຢູ່ລອດ. ເຈົ້າເຂົ້າໃຈບໍ?
+
+670
+00:47:58,550 --> 00:48:00,550
+[BRAND]
+Thank you.
+ຂອບໃຈ
+
+671
+00:48:01,050 --> 00:48:07,000
+[DOYLE]
+Control systems inside are online. I've lost sight of the rocket. Do you think he made it?
+ລະບົບຄວບຄຸມພາຍໃນແມ່ນອອນລາຍ. ຂ້ອຍໄດ້ສູນເສຍສາຍຕາຂອງລູກສອນໄຟ
+. ເຈົ້າຄິດວ່າລາວໄດ້ເຮັດໄດ້ບໍ?
+
+672
+00:48:07,500 --> 00:48:09,950
+[COOPER]
+We're going to find out soon enough.
+ພວກເຮົາຈະຮູ້ວ່າໄວພໍສົມຄວນ.
+
+673
+00:48:10,450 --> 00:48:12,450
+[BRAND]
+Someone's coming.
+ມີຄົນມາ.
+
+674
+00:48:12,950 --> 00:48:14,950
+[DOYLE]
+Close the door.
+ປິດປະຕູ.
+
+675
+00:48:15,450 --> 00:48:17,450
+[COOPER]
+Where's Brand?
+ແບຣນຢູ່ໃສ?
+
+676
+00:48:17,950 --> 00:48:22,850
+[COOPER]
+Dammit. If I don't make it back, just keep going.  Get that thing home.
+ສະບາຍດີ. ຖ້າຂ້ອຍບໍ່ກັບມາ, ພຽງແຕ່ສືບຕໍ່ໄປ. ເອົາສິ່ງນັ້ນກັບບ້ານ.
+
+677
+00:48:23,350 --> 00:48:25,350
+[BRAND]
+You caught me. Now what?
+ເຈົ້າຈັບຂ້ອຍແລ້ວ. ດຽວນີ້ຫຍັງ?
+
+678
+00:48:25,850 --> 00:48:31,450
+[COOPER]
+I don't know. I figured if you were floating out into space, you'd want some company.
+ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍຄິດວ່າຖ້າເຈົ້າ ກໍາ
+ລັງລອຍອອກໄປສູ່ອະວະກາດ, ເຈົ້າຈະຕ້ອງການບໍລິສັດບາງຢ່າງ.
+
+679
+00:48:31,950 --> 00:48:35,450
+[BRAND]
+Between you and utter solitude, Cooper, frankly, I'm not sure.
+ລະຫວ່າງເຈົ້າແລະຄວາມໂດດດ່ຽວຢ່າງສົມບູນ
+, ຄູເປີ, ໂດຍກົງ, ຂ້ອຍບໍ່ແນ່ໃຈ.
+
+680
+00:48:35,950 --> 00:48:39,800
+[COOPER]
+Guess you were right -- too much gravity, or not enough.
+ຂ້ອຍຄິດວ່າເຈົ້າຖືກຕ້ອງ - ຄວາມດຶງດູດຫຼາຍເກີນໄປ, ຫຼືບໍ່ພຽງພໍ.
+
+681
+00:48:40,300 --> 00:48:42,300
+[COOPER]
+Roth.
+ໂຣສ.
+
+682
+00:48:42,800 --> 00:48:44,800
+[BRAND]
+He's gone.
+ລາວໄປແລ້ວ.
+
+683
+00:48:45,300 --> 00:48:47,750
+[DOYLE]
+I'm setting a course for the wormhole.
+ຂ້ອຍ ກໍາ ລັງຕັ້ງເສັ້ນທາງໄປຫາຮູແມງໄມ້.
+
+684
+00:48:48,250 --> 00:48:50,250
+[COOPER]
+How is that working?
+ມັນເຮັດວຽກແນວໃດ?
+
+685
+00:48:50,750 --> 00:48:52,750
+[CASE]
+Very well, thank you.
+ດີຫຼາຍ, ຂອບໃຈ.
+
+686
+00:48:53,250 --> 00:48:56,750
+[COOPER]
+Good. We've already set the course, skipper. We're going home.
+ດີແລ້ວ. ພວກເຮົາໄດ້ຕັ້ງທິດທາງແລ້ວ, ຄັບປິນ. ພວກເຮົາ ກໍາ ລັງກັບບ້ານ.
+
+687
+00:48:57,250 --> 00:48:59,250
+[BRAND]
+We're safe now.
+ພວກເຮົາປອດໄພແລ້ວ.
+
+688
+00:48:59,750 --> 00:49:05,750
+[COOPER]
+Now I know why we weren't able to hit the relay. It's not interference -- the blue-shift from the black hole is more than we thought it would be.
+ດຽວນີ້ຂ້ອຍຮູ້ວ່າເປັນຫຍັງພວກເຮົາບໍ່ສາມາດຕີສາຍສົ່ງໄດ້. ມັນບໍ່ແມ່ນການແຊກແຊງ
+- ການປ່ຽນສີຟ້າຈາກຮູສີດໍາແມ່ນຫຼາຍກ່ວາທີ່ພວກເຮົາຄິດວ່າມັນຈະເປັນ.
+
+689
+00:49:06,250 --> 00:49:08,250
+[BRAND]
+Cooper, wait--
+ຄູເປີ, ລໍຖ້າ...
+
+690
+00:49:08,750 --> 00:49:14,750
+[COOPER]
+Nothing. Wait. The ship cached one long garbled transmission when we first fell into the swirl. If we account for the blue shift then the computer might find something in there.
+ບໍ່ມີຫຍັງເລີຍ. ລໍຖ້າ. ເຮືອໄດ້ເກັບຮັກສາການສົ່ງອອກທີ່ສໍ້ໂກງ ຫນຶ່ງ ທີ່ຍາວນານເມື່ອພວກເຮົາຕົກລົງໃນຫມູນວຽນຄັ້ງ
+ທໍາ ອິດ. ຖ້າພວກເຮົາຄິດໄລ່ການປ່ຽນແປງສີຟ້າຫຼັງຈາກນັ້ນຄອມພິວເຕີອາດຈະພົບບາງສິ່ງບາງຢ່າງໃນນັ້ນ.
+
+691
+00:49:15,250 --> 00:49:21,250
+[BRAND]
+Listen to me -- the blueshift also means we've lost time. More time than we thought we would.
+ຟັງຂ້ອຍ - ການປ່ຽນສີຟ້າຍັງ ຫມາຍ ຄວາມວ່າພວກເຮົາໄດ້ສູນເສຍເວລາ
+. ເວລາຫຼາຍກ່ວາທີ່ພວກເຮົາຄິດວ່າພວກເຮົາຈະເຮັດ.
+
+692
+00:49:21,750 --> 00:49:23,750
+[COOPER]
+How much?
+ຫຼາຍປານໃດ?
+
+693
+00:49:24,250 --> 00:49:26,700
+[BRAND]
+A lot... Cooper, maybe it's best if
+ຫຼາຍ... ຄູເປີ, ບາງທີມັນດີທີ່ສຸດຖ້າ
+
+694
+00:49:27,200 --> 00:49:31,400
+[WE DON'T-]
+The comms equipment TONES as it translates a packet. Then another. 113.
+ອຸປະກອນການສື່ສານສຽງໃນຂະນະທີ່ມັນແປຊຸດຫນຶ່ງ
+. ຫຼັງຈາກນັ້ນອີກຫນຶ່ງ. 113.
+
+695
+00:49:31,900 --> 00:49:33,900
+[COOPER]
+Forty seven years.
+ສີ່ສິບເຈັດປີ.
+
+696
+00:49:34,400 --> 00:49:36,400
+[DOYLE]
+My kids...
+ລູກຂອງຂ້ອຍ...
+
+697
+00:49:36,900 --> 00:49:42,900
+[BRAND]
+The relay will have lost power years ago. That's why we couldn't contact it, even after we reached the planet.
+ການສົ່ງຕໍ່ຈະໄດ້ສູນເສຍພະລັງງານຫຼາຍປີກ່ອນ.
+ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຮົາບໍ່ສາມາດຕິດຕໍ່ກັບມັນໄດ້, ເຖິງແມ່ນວ່າຫຼັງຈາກພວກເຮົາຮອດໂລກ.
+
+698
+00:49:43,400 --> 00:49:46,900
+[COOPER]
+We could bypass the relay. Send a conventional shortwave signal.
+ພວກເຮົາສາມາດຂ້າມສາຍສົ່ງໄດ້. ສົ່ງສັນຍານກະດານສັ້ນແບບປົກກະຕິ.
+
+699
+00:49:47,400 --> 00:49:53,400
+[BRAND]
+Only a tiny portion of the signal would make it though the wormhole. Besides, no one will be listening anymore.
+ພຽງແຕ່ສ່ວນນ້ອຍໆຂອງສັນຍານຈະເຮັດມັນຜ່ານຮູແມງໄມ້
+. ນອກຈາກນັ້ນ, ບໍ່ມີໃຜຈະຟັງອີກຕໍ່ໄປ.
+
+700
+00:49:53,900 --> 00:49:58,450
+[COOPER]
+You knew, didn't you? You and Case figured it out when we landed.
+ເຈົ້າຮູ້ແລ້ວ, ແມ່ນບໍ? ເຈົ້າແລະເຄສໄດ້ຄິດມັນເມື່ອພວກເຮົາລົງຈອດ.
+
+701
+00:49:58,950 --> 00:50:01,050
+[BRAND]
+I thought... I couldn't be sure.
+ຂ້ອຍຄິດວ່າ... ຂ້ອຍບໍ່ແນ່ໃຈໄດ້.
+
+702
+00:50:01,550 --> 00:50:04,700
+[COOPER]
+Sure you could. You're brilliant. You know everything. 114.
+ແນ່ນອນວ່າເຈົ້າສາມາດເຮັດໄດ້. ເຈົ້າສວຍງາມ. ເຈົ້າຮູ້ທຸກຢ່າງ. 114.
+
+703
+00:50:05,200 --> 00:50:09,050
+[BRAND]
+Cooper... we needed to keep going. I'm so sorry. Your children...
+ຄູເປີ... ພວກເຮົາຕ້ອງສືບຕໍ່ໄປ. ຂ້ອຍຂໍໂທດຫຼາຍ. ລູກຂອງທ່ານ...
+
+704
+00:50:09,550 --> 00:50:13,050
+[COOPER]
+They're not children any more... if they're even still alive.
+ພວກເຂົາບໍ່ແມ່ນເດັກນ້ອຍອີກແລ້ວ... ຖ້າພວກເຂົາຍັງມີຊີວິດຢູ່.
+
+705
+00:50:13,550 --> 00:50:19,550
+[BRAND]
+Listen, the important thing is that we're going home, now. And we have something that can save everyone. It's more important than the people we left behind-
+ຟັງ, ສິ່ງສໍາຄັນແມ່ນວ່າພວກເຮົາ ກໍາ ລັງກັບບ້ານ, ດຽວນີ້. ແລະພວກເຮົາມີບາງສິ່ງບາງຢ່າງທີ່ສາມາດຊ່ວຍທຸກຄົນໄດ້
+. ມັນມີຄວາມສໍາຄັນກວ່າຄົນທີ່ພວກເຮົາປ່ອຍໄວ້ຢູ່ເບື້ອງຫຼັງ -
+
+706
+00:50:20,050 --> 00:50:23,900
+[DOYLE]
+That's easy for you to say. You didn't leave anyone behind.
+ມັນງ່າຍຕໍ່ເຈົ້າທີ່ຈະເວົ້າ. ເຈົ້າບໍ່ໄດ້ປ່ອຍໃຜຢູ່ເບື້ອງຫຼັງ.
+
+707
+00:50:24,400 --> 00:50:26,400
+[COOPER]
+Yes she did.
+ແມ່ນແລ້ວ ນາງເຮັດ.
+
+708
+00:50:26,900 --> 00:50:29,700
+[COOPER]
+That's why you were upset -- your father.
+ນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າໂຊກຮ້າຍ - ພໍ່ເຈົ້າ.
+
+709
+00:50:30,200 --> 00:50:35,450
+[BRAND]
+He's gone. But there are other people who still need our help. There's still time...
+ລາວໄປແລ້ວ. ແຕ່ມີຄົນອື່ນທີ່ຍັງຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງພວກເຮົາ
+. ຍັງມີເວລາ...
+
+710
+00:50:35,950 --> 00:50:37,950
+[BRAND]
+Case... what are you doing?
+ກໍລະນີ... ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+711
+00:50:38,450 --> 00:50:40,450
+[BRAND]
+Wait... no... 115.
+ລໍຖ້າ... ບໍ່... 115.
+
+712
+00:50:40,950 --> 00:50:44,100
+[LIU]
+I'm sorry. I have my orders. No one follows...
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍມີຄໍາສັ່ງຂອງຂ້ອຍ. ບໍ່ມີໃຜປະຕິບັດຕາມ...
+
+713
+00:50:44,600 --> 00:50:46,600
+[LIU]
+No one follows-
+ບໍ່ມີໃຜຕິດຕາມ...
+
+714
+00:50:47,100 --> 00:50:49,550
+[BRAND]
+No... We're being pulled back to Pantagruel.
+ບໍ່... ພວກເຮົາຖືກດຶງກັບຄືນໄປບ່ອນ Pantagruel.
+
+715
+00:50:50,050 --> 00:50:53,900
+[COOPER]
+We can't let that happen. We'll lose more time... too much...
+ພວກເຮົາບໍ່ສາມາດປ່ອຍໃຫ້ມັນເກີດຂຶ້ນໄດ້.
+ພວກເຮົາຈະສູນເສຍເວລາຫຼາຍຂຶ້ນ... ຫຼາຍເກີນໄປ...
+
+716
+00:50:54,400 --> 00:50:56,400
+[COOPER]
+We're losing years.
+ພວກເຮົາ ກໍາ ລັງສູນເສຍຫຼາຍປີ.
+
+717
+00:50:56,900 --> 00:51:01,450
+[DOYLE]
+The wormhole. Look -- it's being pulled into the black hole as well.
+ຮູແມງໄມ້. ເບິ່ງ - ມັນຖືກດຶງເຂົ້າໄປໃນຮູສີດໍາເຊັ່ນກັນ.
+
+718
+00:51:01,950 --> 00:51:04,050
+[BRAND]
+It's orbit mirrored the ice planet's.
+ມັນເປັນວົງຈອນທີ່ສະແດງໃຫ້ເຫັນຂອງໂລກນ້ ໍາ ກ້ອນ.
+
+719
+00:51:04,550 --> 00:51:06,550
+[COOPER]
+What will happen to it?
+ຈະເກີດຫຍັງຂຶ້ນກັບມັນ?
+
+720
+00:51:07,050 --> 00:51:09,150
+[BRAND]
+It'll be destroyed, like everything else.
+ມັນຈະຖືກທໍາລາຍ, ເຊັ່ນດຽວກັນກັບສິ່ງອື່ນໆທັງຫມົດ.
+
+721
+00:51:09,650 --> 00:51:13,500
+[COOPER]
+This is the crew of the Endurance. We... (gives up on
+ນີ້ແມ່ນລູກເຮືອຂອງຄວາມທົນທານ. ພວກເຮົາ... (ຍອມຮັບ
+
+722
+00:51:14,000 --> 00:51:18,550
+[FORMALITIES)]
+Murph, I'm sorry. I'm sorry I didn't make it back, like I promised.
+ມໍຟ໌, ຂ້ອຍຂໍໂທດ. ຂ້ອຍ
+ຂໍໂທດວ່າຂ້ອຍບໍ່ສາມາດກັບມາໄດ້, ດັ່ງທີ່ຂ້ອຍສັນຍາ.
+
+723
+00:51:19,050 --> 00:51:21,500
+[DOYLE]
+How much time are we losing? 117.
+ພວກເຮົາ ກໍາ ລັງສູນເສຍເວລາຫຼາຍປານໃດ? 117.
+
+724
+00:51:22,000 --> 00:51:24,000
+[BRAND]
+Decades...hundreds of years.
+ຫຼາຍສິບປີ... ຫຼາຍຮ້ອຍປີ.
+
+725
+00:51:24,500 --> 00:51:28,700
+[COOPER]
+All of those people back home... none of them will make it.
+ຄົນທັງ ຫມົດ ທີ່ກັບບ້ານ... ບໍ່ມີໃຜຈະເຮັດໄດ້.
+
+726
+00:51:29,200 --> 00:51:32,350
+[DOYLE]
+This is it. We're going to be pulled in.
+ນີ້ແມ່ນມັນ. ພວກເຮົາຈະຖືກດຶງເຂົ້າມາ.
+
+727
+00:51:32,850 --> 00:51:34,850
+[BRAND]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+728
+00:51:35,350 --> 00:51:41,350
+[COOPER]
+Case said the Chinese found something else. The location was scrubbed from their records. But I bet he knows it.
+ກໍລະນີເວົ້າວ່າຊາວຈີນໄດ້ພົບບາງສິ່ງບາງຢ່າງອື່ນ.
+ສະຖານທີ່ໄດ້ຖືກລ້າງອອກຈາກບັນທຶກຂອງພວກເຂົາ. ແຕ່ຂ້ອຍແນ່ໃຈວ່າລາວຮູ້ມັນ.
+
+729
+00:51:41,850 --> 00:51:43,850
+[DOYLE]
+Hurry up.
+ໄວຂຶ້ນ.
+
+730
+00:51:44,350 --> 00:51:46,350
+[COOPER]
+Here. Can we reach it?
+ມາແລ້ວ. ພວກເຮົາສາມາດບັນລຸໄດ້ບໍ?
+
+731
+00:51:46,850 --> 00:51:52,800
+[BRAND]
+We can use the thrusters to keep us on the critical orbit. Then slingshot us towards Gargantua.
+ພວກເຮົາສາມາດໃຊ້ເຄື່ອງຊຸກຍູ້ເພື່ອເຮັດໃຫ້ພວກເຮົາຢູ່ໃນວົງຈອນທີ່ສໍາຄັນ
+. ຫຼັງຈາກນັ້ນຍິງພວກເຮົາໄປສູ່ Gargantua.
+
+732
+00:51:53,300 --> 00:51:55,300
+[GARGANTUA]
+EXT. SPACE AROUND GARGANTUA
+ອອກໄປ. ສະພາບແວດລ້ອມ GARGANTUA
+
+733
+00:51:55,800 --> 00:52:01,800
+[DOYLE]
+We only have a few minutes before we're swallowed into that thing. What are we even looking for?
+ພວກເຮົາມີເວລາພຽງແຕ່ສອງສາມນາທີກ່ອນທີ່ພວກເຮົາຈະຖືກຈູດເຂົ້າໄປໃນສິ່ງນັ້ນ
+. ພວກເຮົາ ກໍາ ລັງຊອກຫາຫຍັງຢູ່?
+
+734
+00:52:02,300 --> 00:52:04,300
+[COOPER]
+That? What is it?
+ນັ້ນແມ່ນຫຍັງ?
+
+735
+00:52:04,800 --> 00:52:06,800
+[BRAND]
+It's another wormhole.
+ມັນເປັນຮູແມງໄມ້ອີກຫນຶ່ງ.
+
+736
+00:52:07,300 --> 00:52:11,500
+[DOYLE]
+We're not going to be able to slow down. Hold onto something.
+ພວກເຮົາຈະບໍ່ສາມາດຊ້າລົງໄດ້. ຈັບບາງສິ່ງບາງຢ່າງໄວ້.
+
+737
+00:52:12,000 --> 00:52:15,500
+[WHITENESS.]
+As the light fades, Cooper and the others come to.
+ໃນຂະນະທີ່ແສງສະຫວ່າງຫາຍໄປ, ຄູເປີແລະຄົນອື່ນມາ.
+
+738
+00:52:16,000 --> 00:52:18,000
+[COOPER]
+Where are we?
+ພວກເຮົາຢູ່ໃສ?
+
+739
+00:52:18,500 --> 00:52:23,050
+[BRAND]
+I don't know. It's like we entered the wormhole and never left it.
+ຂ້ອຍບໍ່ຮູ້.
+ມັນຄືກັບວ່າພວກເຮົາເຂົ້າໄປໃນຮູແມງໄມ້ແລະບໍ່ເຄີຍອອກຈາກມັນເລີຍ.
+
+740
+00:52:23,550 --> 00:52:29,550
+[BRAND]
+I'm sorry. I should have told you. I didn't have the right. But you should watch the recordings. You should know what happened to your kids.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍຄວນບອກເຈົ້າ. ຂ້ອຍບໍ່ມີສິດ.
+ແຕ່ເຈົ້າຄວນເບິ່ງການບັນທຶກ. ເຈົ້າຄວນຮູ້ວ່າເກີດຫຍັງຂຶ້ນກັບລູກຂອງທ່ານ.
+
+741
+00:52:30,050 --> 00:52:36,050
+[BRAND'S FATHER]
+I'm not going to make it much longer. The machines will continue to maintain the station as long as they can and the communications will run as long as the station here still has power. I'm sorry. I hope wherever you are, darling, you're safe.
+ຂ້ອຍຈະບໍ່ເຮັດໃຫ້ມັນຍາວນານຫຼາຍ. ເຄື່ອງຈັກຈະສືບຕໍ່ຮັກສາສະຖານີຈົນກວ່າພວກເຂົາສາມາດແລະການສື່ສານຈະແລ່ນຈົນກວ່າສະຖານີທີ່ນີ້ຍັງມີພະລັງງານ
+. ຂ້ອຍຂໍໂທດ. ຂ້ອຍຫວັງວ່າເຈົ້າຢູ່ໃສກໍ່ຕາມ, ແມ, ເຈົ້າປອດໄພ.
+
+742
+00:52:36,550 --> 00:52:42,550
+[BRAND]
+Our last trip past the black hole cost us another 100, maybe 200 years. Which means there's a good chance we're the only humans alive anywhere. 121.
+ການເດີນທາງສຸດທ້າຍຂອງພວກເຮົາຜ່ານຮູສີດໍາໄດ້ເສຍຄ່າໃຫ້ພວກເຮົາອີກ 100, ບາງທີ 200 ປີ.
+ຊຶ່ງຫມາຍຄວາມວ່າມີໂອກາດທີ່ດີທີ່ພວກເຮົາເປັນມະນຸດຄົນດຽວທີ່ມີຊີວິດຢູ່ບ່ອນໃດກໍ່ຕາມ. 121.
+
+743
+00:52:43,050 --> 00:52:48,650
+[BRAND]
+I think the last human beings should have a little more fight in them than that.
+ຂ້ອຍຄິດວ່າມະນຸດຄົນສຸດທ້າຍຄວນມີການຕໍ່ສູ້ຫຼາຍກ່ວານັ້ນ.
+
+744
+00:52:49,150 --> 00:52:51,150
+[TOM]
+Hi, Dad.
+ສະບາຍດີ, ພໍ່.
+
+745
+00:52:51,650 --> 00:52:55,850
+[TOM]
+I met another girl, Dad. I really think this is the one.
+ຂ້ອຍພົບກັບເດັກຍິງຄົນອື່ນ, ພໍ່. ຂ້ອຍຄິດວ່ານີ້ແມ່ນຄົນດຽວ.
+
+746
+00:52:56,350 --> 00:53:00,900
+[TOM]
+Murph stole Grandpa's car. He crashed it. He's OK, though. No broken bones.
+ມູຟໄດ້ລັກລົດຂອງພໍ່ເຖົ້າ. ລາວຕົກມັນ. ລາວບໍ່ເປັນຫຍັງ
+, ເຖິງຢ່າງໃດກໍ່ຕາມ. ບໍ່ມີກະດູກທີ່ແຕກ.
+
+747
+00:53:01,400 --> 00:53:04,900
+[TOM]
+I've got a surprise for you, Dad. You're a grandpa.
+ຂ້ອຍມີຄວາມແປກໃຈ ສໍາ ລັບເຈົ້າ, ພໍ່. ເຈົ້າເປັນພໍ່ເຖົ້າ.
+
+748
+00:53:05,400 --> 00:53:11,000
+[TOM]
+Congratulations. Grandpa said he already earned the "great" bit so we just leave it at that.
+ຂໍສະແດງຄວາມຍິນດີ. ພໍ່ເຖົ້າເວົ້າວ່າລາວໄດ້ໄດ້ຮັບສ່ວນ"ຍິ່ງໃຫຍ່"
+ແລ້ວ ສະນັ້ນພວກເຮົາພຽງແຕ່ປ່ອຍມັນຢູ່ບ່ອນນັ້ນ.
+
+749
+00:53:11,500 --> 00:53:13,950
+[TOM]
+Hi, Dad. I'm sorry it's been awhile.
+ສະບາຍດີ, ພໍ່. ຂ້ອຍຂໍໂທດວ່າມັນເປັນເວລາດົນນານ.
+
+750
+00:53:14,450 --> 00:53:20,450
+[TOM]
+Grandpa died last week. We buried him out in the back forty, next to Mom. Where we'd have buried you, if you'd ever come back.
+ພໍ່ເຖົ້າຕາຍໃນອາທິດທີ່ຜ່ານມາ. ພວກເຮົາຝັງລາວຢູ່ດ້ານຫຼັງສີ່ສິບ,
+ຢູ່ຂ້າງແມ່. ບ່ອນທີ່ພວກເຮົາຈະຝັງເຈົ້າ, ຖ້າເຈົ້າກັບມາອີກຄັ້ງ.
+
+751
+00:53:20,950 --> 00:53:26,950
+[TOM]
+Murph was there for the funeral. It's been a few years since I've seen him. He's been down in the Gulf Coast. He's an engineer. I guess someone followed in your footsteps after all.
+ມູຟສ໌ຢູ່ບ່ອນນັ້ນ ສໍາ ລັບການຝັງສົບ. ມັນເປັນເວລາສອງສາມປີທີ່ຂ້ອຍບໍ່ເຫັນລາວ.
+ລາວຢູ່ລຸ່ມໃນແຄມຝັ່ງທະເລຊາຍຟອງ. ລາວເປັນວິສະວະກອນ. ຂ້ອຍຄິດວ່າມີຄົນຕິດຕາມຕາມບາດກ້າວຂອງທ່ານຫຼັງຈາກນັ້ນ.
+
+752
+00:53:27,450 --> 00:53:33,450
+[TOM]
+You're not listening to this. I know that. All of these messages are just out there, drifting in the darkness.
+ເຈົ້າບໍ່ໄດ້ຟັງສິ່ງນີ້. ຂ້ອຍຮູ້ແລ້ວ. ຂໍ້ຄວາມທັງ
+ຫມົດ ເຫຼົ່ານີ້ແມ່ນຢູ່ບ່ອນນັ້ນ, ຍ່າງຢູ່ໃນຄວາມມືດ.
+
+753
+00:53:33,950 --> 00:53:39,950
+[TOM]
+You're gone. You're never coming back. And I've known that for a long time. Lois says -- that's my wife, Dad -- she says I have to let you go. So I am. 123.
+ເຈົ້າໄປແລ້ວ. ເຈົ້າຈະບໍ່ກັບມາອີກເລີຍ. ແລະຂ້ອຍຮູ້ແລ້ວເປັນເວລາດົນນານ. ໂລຍສ໌ເວົ້າວ່າ
+- ນັ້ນແມ່ນເມຍຂອງຂ້ອຍ, ພໍ່ - ນາງເວົ້າວ່າຂ້ອຍຕ້ອງປ່ອຍເຈົ້າໄປ. ສະນັ້ນຂ້ອຍເປັນ. 123.
+
+754
+00:53:40,450 --> 00:53:43,950
+[TOM]
+Wherever you are, I hope you're at peace. Goodbye, Dad.
+ເຈົ້າຢູ່ໃສກໍ່ຕາມ, ຂ້ອຍຫວັງວ່າເຈົ້າຢູ່ໃນຄວາມສະຫງົບ. ສະບາຍດີ, ພໍ່.
+
+755
+00:53:44,450 --> 00:53:46,450
+[MURPH]
+Hello, Dad. You sonofabitch.
+ສະບາຍດີ, ພໍ່. ເຈົ້າເປັນໄອ້ສັດນະລົກ.
+
+756
+00:53:46,950 --> 00:53:52,950
+[MURPH]
+It's your 60th birthday today. Thought I would celebrate with you a bit. I guess I understand why you left. The corn is dying now, too. Tom says there's less and less at harvest every year.
+ມັນເປັນວັນເກີດທີ 60 ຂອງເຈົ້າມື້ນີ້. ຂ້ອຍຄິດວ່າຂ້ອຍຈະສະເຫຼີມສະຫຼອງກັບເຈົ້າເລັກນ້ອຍ. ຂ້ອຍວ່າຂ້ອຍເຂົ້າໃຈວ່າເປັນຫຍັງເຈົ້າໄດ້ອອກຈາກ
+. ເຂົ້າຈີ່ ກໍາ ລັງຕາຍດຽວນີ້ເຊັ່ນກັນ. ໂຕມເວົ້າວ່າມີ ຫນ້ອຍ ແລະ ຫນ້ອຍ ໃນການເກັບກ່ຽວທຸກໆປີ.
+
+757
+00:53:53,450 --> 00:53:59,450
+[MURPH]
+Rot's setting in. I guess you were right for clearing out while you had the chance.  Good luck, old man. I hope you made it. I really do.
+ໂຣດ ກໍາ ລັງເຂົ້າມາ. ຂ້ອຍຄິດວ່າເຈົ້າຖືກຕ້ອງໃນການ ທໍາ ຄວາມສະອາດໃນຂະນະທີ່ເຈົ້າມີໂອກາດ
+. ໂຊກດີ, ພໍ່ເຖົ້າ. ຂ້ອຍຫວັງວ່າເຈົ້າໄດ້ເຮັດໄດ້. ຂ້ອຍເຮັດແທ້ໆ.
+
+758
+00:53:59,950 --> 00:54:04,850
+[COOPER]
+Not a single drink on the whole ship. What kind of mission is this?
+ບໍ່ມີດື່ມດຽວໃນເຮືອທັງ ຫມົດ. ນີ້ແມ່ນພາລະກິດປະເພດໃດ?
+
+759
+00:54:05,350 --> 00:54:09,200
+[BRAND]
+I think Doyle's been experimenting with the coolant from his spacesuit.
+ຂ້ອຍຄິດວ່າດອຍລ໌ ກໍາ ລັງທົດລອງດ້ວຍແຫຼ່ງເຢັນຈາກຊຸດອະວະກາດຂອງລາວ.
+
+760
+00:54:09,700 --> 00:54:12,850
+[COOPER]
+You really think we're the last humans alive anywhere?
+ເຈົ້າຄິດວ່າພວກເຮົາເປັນມະນຸດຄົນສຸດທ້າຍທີ່ຢູ່ອາໄສຢູ່ບ່ອນໃດບໍ?
+
+761
+00:54:13,350 --> 00:54:15,350
+[BRAND]
+I don't know. Maybe.  Yes.
+ຂ້ອຍບໍ່ຮູ້. ບາງທີ. ແມ່ນແລ້ວ.
+
+762
+00:54:15,850 --> 00:54:17,950
+[COOPER]
+So that's it, then? That's all?
+ສະນັ້ນນັ້ນແມ່ນມັນ, ຫຼັງຈາກນັ້ນ? ນັ້ນແມ່ນທັງຫມົດບໍ?
+
+763
+00:54:18,450 --> 00:54:24,450
+[BRAND]
+It's happened a billion times over. Stars explode. The pieces drift in space. Gravity pulls them back together. They form new stars. Then planets. Then us. We die. It starts all over again.
+ມັນເກີດຂຶ້ນຫຼາຍພັນລ້ານຄັ້ງແລ້ວ. ດາວລະເບີດ. ຊິ້ນສ່ວນຂັບເຄື່ອນໃນອະວະກາດ. ຄວາມດຶງດູດດຶງພວກມັນກັບຄືນໄປບ່ອນກັນ
+. ພວກເຂົາສ້າງດາວ ໃຫມ່. ຫຼັງຈາກນັ້ນດາວໂລກ. ຈາກນັ້ນພວກເຮົາ. ພວກເຮົາຕາຍ. ມັນເລີ່ມຕົ້ນອີກຄັ້ງ.
+
+764
+00:54:24,950 --> 00:54:27,750
+[COOPER]
+What about the plan? The grand scheme. 125.
+ແຜນການແນວໃດ? ແຜນການທີ່ຍິ່ງໃຫຍ່. 125.
+
+765
+00:54:28,250 --> 00:54:30,700
+[BRAND]
+I thought you didn't believe in one.
+ຂ້ອຍຄິດວ່າເຈົ້າບໍ່ເຊື່ອໃນຫນຶ່ງ.
+
+766
+00:54:31,200 --> 00:54:34,000
+[COOPER]
+I didn't. But you were bringing me round.
+ຂ້ອຍບໍ່ໄດ້ເຮັດ. ແຕ່ເຈົ້າ ກໍາ ລັງພາຂ້ອຍມາ.
+
+767
+00:54:34,500 --> 00:54:38,700
+[COOPER]
+What the hell was the point? What did it add up to?
+ຈຸດປະສົງແມ່ນຫຍັງ? ມັນເພີ່ມຂຶ້ນເປັນຫຍັງ?
+
+768
+00:54:39,200 --> 00:54:42,700
+[BRAND]
+I don't know. Maybe it just adds up to this.
+ຂ້ອຍບໍ່ຮູ້. ບາງທີມັນພຽງແຕ່ເພີ່ມຂຶ້ນກັບສິ່ງນີ້.
+
+769
+00:54:43,200 --> 00:54:49,200
+[COOPER]
+This? You're saying the end result of ten billion years is the atoms from dead stars standing here disagreeing with each other.
+ນີ້ແມ່ນບໍ? ເຈົ້າ ກໍາ
+ລັງເວົ້າວ່າຜົນໄດ້ຮັບສຸດທ້າຍຂອງສິບລ້ານປີແມ່ນອາໂຕມຈາກດາວຕາຍທີ່ຢືນຢູ່ບ່ອນນີ້ບໍ່ເຫັນດີກັບກັນແລະກັນ.
+
+770
+00:54:49,700 --> 00:54:51,700
+[BRAND]
+Maybe that's enough.
+ບາງທີມັນພຽງພໍແລ້ວ.
+
+771
+00:54:52,200 --> 00:54:55,000
+[DOYLE]
+It's happening... it's happening again... Get up here...
+ມັນກໍາລັງເກີດຂຶ້ນ... ມັນ ກໍາ
+ລັງເກີດຂຶ້ນອີກເທື່ອຫນຶ່ງ... ຂຶ້ນມາບ່ອນນີ້...
+
+772
+00:54:55,500 --> 00:54:57,500
+[DOYLE]
+They just appeared.
+ພວກເຂົາຫາກໍ່ປາກົດຕົວ.
+
+773
+00:54:58,000 --> 00:55:01,500
+[BRAND]
+I think these are the creatures that built the wormhole.
+ຂ້ອຍຄິດວ່ານີ້ແມ່ນສັດທີ່ສ້າງຮູແມງໄມ້.
+
+774
+00:55:02,000 --> 00:55:04,100
+[COOPER]
+This thing is made of... gravity?
+ສິ່ງນີ້ເຮັດດ້ວຍ... ຄວາມດຶງດູດບໍ?
+
+775
+00:55:04,600 --> 00:55:10,600
+[BRAND]
+No. I don't think it's in our universe at all. I think it lives in the bulk -- the space that the wormholes traverse. And it can only interact with us using gravity.
+ບໍ່. ຂ້ອຍບໍ່ຄິດວ່າມັນຢູ່ໃນຈັກກະວານຂອງພວກເຮົາເລີຍ. ຂ້ອຍຄິດວ່າມັນອາໄສຢູ່ໃນສ່ວນໃຫຍ່ -
+ສະຖານທີ່ທີ່ຮູແມງໄມ້ຂ້າມຜ່ານ. ແລະມັນພຽງແຕ່ສາມາດພົວພັນກັບພວກເຮົາໂດຍໃຊ້ແຮງດຶງດູດເທົ່ານັ້ນ.
+
+776
+00:55:11,100 --> 00:55:13,100
+[COOPER]
+Can we communicate with them?
+ພວກເຮົາສາມາດສື່ສານກັບພວກເຂົາໄດ້ບໍ?
+
+777
+00:55:13,600 --> 00:55:15,700
+[BRAND]
+Where would we even start? Maybe--
+ພວກເຮົາຈະເລີ່ມຕົ້ນຈາກໃສ? ບາງທີ...
+
+778
+00:55:16,200 --> 00:55:18,200
+[DOYLE]
+That's our solar system.
+ນັ້ນແມ່ນລະບົບແສງຕາເວັນຂອງພວກເຮົາ.
+
+779
+00:55:18,700 --> 00:55:20,700
+[COOPER]
+What is that?
+ນັ້ນແມ່ນຫຍັງ?
+
+780
+00:55:21,200 --> 00:55:25,050
+[BRAND]
+That's us. That's where they've brought us. We're in the bulk.
+ນັ້ນແມ່ນພວກເຮົາ. ນັ້ນແມ່ນບ່ອນທີ່ພວກເຂົາໄດ້ນໍາພວກເຮົາມາ
+. ພວກເຮົາຢູ່ໃນສ່ວນໃຫຍ່.
+
+781
+00:55:25,550 --> 00:55:27,550
+[BRAND]
+They're moving us.
+ພວກເຂົາ ກໍາ ລັງຍ້າຍພວກເຮົາໄປ.
+
+782
+00:55:28,050 --> 00:55:30,050
+[DOYLE]
+Where?
+ຢູ່ໃສ?
+
+783
+00:55:30,550 --> 00:55:32,550
+[COOPER]
+There's something out there.
+ມີບາງສິ່ງບາງຢ່າງຢູ່ນອກນັ້ນ.
+
+784
+00:55:33,050 --> 00:55:35,850
+[TARS]
+I guess this isn't robot heaven after all.
+ຂ້ອຍຄິດວ່ານີ້ບໍ່ແມ່ນສະຫວັນຫຸ່ນຍົນໃນທີ່ສຸດ.
+
+785
+00:55:36,350 --> 00:55:42,350
+[TARS]
+I orbited the black hole seven times before I hit the second wormhole. Then I drifted until I found this place.
+ຂ້ອຍໄດ້ອ້ອມຮອບຮູສີດໍາເຈັດຄັ້ງກ່ອນທີ່ຈະຕີຮູແມງໄມ້ທີສອງ
+. ຫຼັງຈາກນັ້ນຂ້ອຍຍ່າງຈົນກວ່າຂ້ອຍຈະພົບບ່ອນນີ້.
+
+786
+00:55:42,850 --> 00:55:48,850
+[COOPER]
+This is what the Chinese were protecting. How they could have built all this in just a handful of years.
+ນີ້ແມ່ນສິ່ງທີ່ຊາວຈີນ ກໍາ ລັງປົກປ້ອງ. ພວກເຂົາສາມາດສ້າງສິ່ງທັງ
+ຫມົດ ນີ້ໄດ້ແນວໃດໃນເວລາພຽງສອງສາມປີເທົ່ານັ້ນ.
+
+787
+00:55:49,350 --> 00:55:53,900
+[TARS]
+They didn't. It took them four thousand.  Time moves very slowly here 130.
+ພວກເຂົາບໍ່ໄດ້ເຮັດ. ມັນໃຊ້ເວລາພວກເຂົາສີ່ພັນ
+. ເວລາເຄື່ອນຍ້າຍຊ້າຫຼາຍຢູ່ນີ້ 130.
+
+788
+00:55:54,400 --> 00:55:56,400
+[BRAND]
+How do you know?
+ເຈົ້າຮູ້ແນວໃດ?
+
+789
+00:55:56,900 --> 00:56:00,400
+[TARS]
+Because I've been waiting for you for three hundred years.
+ເພາະຂ້ອຍ ກໍາ ລັງລໍຖ້າເຈົ້າເປັນເວລາສາມຮ້ອຍປີແລ້ວ.
+
+790
+00:56:00,900 --> 00:56:06,900
+[BRAND]
+Time. That's what the bulk beings wanted to give us. That was the treasure the Chinese found. Enough time to let us save ourselves.
+ເວລາ. ນັ້ນແມ່ນສິ່ງທີ່ສິ່ງທີ່ມີສ່ວນໃຫຍ່ຢາກໃຫ້ພວກເຮົາ.
+ນີ້ແມ່ນຊັບສິນທີ່ຊາວຈີນພົບເຫັນ. ເວລາພຽງພໍທີ່ຈະປ່ອຍໃຫ້ພວກເຮົາຊ່ວຍຕົວເອງ.
+
+791
+00:56:07,400 --> 00:56:10,550
+[TARS]
+I have catalogued almost everything they had built here.
+ຂ້ອຍໄດ້ຈັດລາຍຊື່ເກືອບທຸກຢ່າງທີ່ພວກເຂົາສ້າງຢູ່ບ່ອນນີ້.
+
+792
+00:56:11,050 --> 00:56:13,150
+[COOPER]
+Must have taken you a while.
+ມັນຕ້ອງໃຊ້ເວລາເຈົ້າຊົ່ວຄາວ.
+
+793
+00:56:13,650 --> 00:56:15,650
+[TARS]
+One hundred and fifty-seven years.
+ຫນຶ່ງຮ້ອຍຫ້າສິບເຈັດປີ.
+
+794
+00:56:16,150 --> 00:56:19,650
+[COOPER]
+How are they keeping the lights on in this thing?
+ພວກເຂົາເຮັດໃຫ້ແສງສະຫວ່າງໃນສິ່ງນີ້ຢູ່ແນວໃດ?
+
+795
+00:56:20,150 --> 00:56:22,150
+[TARS]
+Follow me.
+ຕິດຕາມຂ້ອຍ.
+
+796
+00:56:22,650 --> 00:56:28,600
+[TARS]
+It's a mini black hole. A remnant of the big bang. It will power this place forever.
+ມັນເປັນຮູສີດໍາຂະຫນາດນ້ອຍ. ສິ່ງທີ່ເຫຼືອຈາກການລະເບີດໃຫຍ່
+. ມັນຈະເຮັດໃຫ້ບ່ອນນີ້ມີພະລັງງານຕະຫຼອດໄປ.
+
+797
+00:56:29,100 --> 00:56:31,100
+[COOPER]
+It's a map?
+ມັນເປັນແຜນທີ່ບໍ?
+
+798
+00:56:31,600 --> 00:56:36,500
+[TARS]
+No. Not a map. This is a simulation of the Earth. A perfect simulation.
+ບໍ່. ບໍ່ແມ່ນແຜນທີ່. ນີ້ແມ່ນການທົດລອງຂອງໂລກ
+. ການທົດລອງທີ່ສົມບູນແບບ.
+
+799
+00:56:37,000 --> 00:56:43,000
+[TARS]
+They tested each of the technologies hundreds of times, trying to find the one that would cause the least damage and still allow us to leave Earth.
+ພວກເຂົາໄດ້ທົດສອບເຕັກໂນໂລຢີແຕ່ລະຢ່າງຫຼາຍຮ້ອຍຄັ້ງ,
+ພະຍາຍາມຊອກຫາຫນຶ່ງທີ່ຈະເຮັດໃຫ້ຄວາມເສຍຫາຍ ຫນ້ອຍ ທີ່ສຸດແລະຍັງອະນຸຍາດໃຫ້ພວກເຮົາອອກຈາກໂລກ.
+
+800
+00:56:43,500 --> 00:56:49,500
+[TARS]
+This was their best solution. A massive version of the box we found on the ice planet, allowing the entire human population to escape.
+ນີ້ແມ່ນວິທີແກ້ໄຂທີ່ດີທີ່ສຸດຂອງພວກເຂົາ. ເວີຊັນຂະຫນາດໃຫຍ່ຂອງກ່ອງທີ່ພວກເຮົາພົບເຫັນໃນໂລກນ້
+ໍາ ກ້ອນ, ອະນຸຍາດໃຫ້ປະຊາກອນມະນຸດທັງ ຫມົດ ຫນີ ໄປ.
+
+801
+00:56:50,000 --> 00:56:53,500
+[COOPER]
+So why didn't they return? Why didn't they save us?
+ສະນັ້ນເປັນຫຍັງພວກເຂົາບໍ່ກັບມາ? ເປັນຫຍັງພວກເຂົາຈຶ່ງບໍ່ຊ່ວຍພວກເຮົາ?
+
+802
+00:56:54,000 --> 00:57:00,000
+[BRAND]
+Because they were too late. By the time they found this place, the people who sent them were dead. They were unable to fulfill their mission.
+ເພາະວ່າພວກເຂົາຊ້າເກີນໄປ. ໃນເວລາທີ່ພວກເຂົາພົບບ່ອນນີ້,
+ຄົນທີ່ສົ່ງພວກເຂົາຕາຍແລ້ວ. ພວກເຂົາບໍ່ສາມາດປະຕິບັດພາລະກິດຂອງພວກເຂົາໄດ້.
+
+803
+00:57:00,500 --> 00:57:03,650
+[TARS]
+That was the final problem they tried to solve.
+ນັ້ນແມ່ນບັນຫາສຸດທ້າຍທີ່ພວກເຂົາພະຍາຍາມແກ້ໄຂ.
+
+804
+00:57:04,150 --> 00:57:06,150
+[BRAND]
+Where do they lead?
+ພວກເຂົາພາໄປໃສ?
+
+805
+00:57:06,650 --> 00:57:12,650
+[TARS]
+There are millions of them, connecting virtually every planetary system in the universe. There are thousands in our galaxy alone. But the Chinese stopped mapping them when they found what they were looking for.
+ມີພວກມັນຫຼາຍລ້ານຄົນ, ເຊື່ອມຕໍ່ເກືອບທຸກລະບົບດາວທຽມໃນຈັກກະວານ. ມີຫຼາຍພັນຄົນໃນກະທູ້ຂອງພວກເຮົາເທົ່ານັ້ນ
+. ແຕ່ຊາວຈີນຢຸດການແຜນທີ່ພວກມັນເມື່ອພວກເຂົາພົບສິ່ງທີ່ພວກເຂົາ ກໍາ ລັງຊອກຫາ.
+
+806
+00:57:13,150 --> 00:57:19,150
+[TARS]
+This was their final creation. They had to capture the mini black hole just to have enough power to try it.
+ນີ້ແມ່ນການສ້າງສັນສຸດທ້າຍຂອງພວກເຂົາ.
+ພວກເຂົາຕ້ອງຈັບຮູສີດໍາຂະຫນາດນ້ອຍພຽງແຕ່ເພື່ອມີພະລັງງານພຽງພໍທີ່ຈະພະຍາຍາມມັນ.
+
+807
+00:57:19,650 --> 00:57:21,650
+[DOYLE]
+What does it do?
+ມັນເຮັດຫຍັງ?
+
+808
+00:57:22,150 --> 00:57:28,150
+[COOPER]
+They weren't interested in the other wormholes because their mission was to return home. That one leads back to Earth. The Earth they were told to return to.
+ພວກເຂົາບໍ່ສົນໃຈຮູແມງໄມ້ອື່ນໆເພາະວ່າພາລະກິດຂອງພວກເຂົາແມ່ນກັບບ້ານ.
+ນັ້ນ ຫນຶ່ງ ນໍາ ກັບຄືນສູ່ໂລກ. ໂລກທີ່ພວກເຂົາຖືກບອກໃຫ້ກັບຄືນໄປບ່ອນ.
+
+809
+00:57:28,650 --> 00:57:30,650
+[BRAND]
+But that's impossible...
+ແຕ່ມັນບໍ່ສາມາດເຮັດໄດ້...
+
+810
+00:57:31,150 --> 00:57:37,150
+[TARS]
+It was only used once. The Chinese team attempted to travel back in time, to Earth just a few years after they had left.
+ມັນຖືກໃຊ້ພຽງແຕ່ຄັ້ງດຽວ. ທີມງານຈີນພະຍາຍາມເດີນທາງກັບຄືນໄປບ່ອນໃນເວລາ
+, ກັບໂລກພຽງແຕ່ສອງສາມປີຫຼັງຈາກພວກເຂົາໄດ້ອອກຈາກ.
+
+811
+00:57:37,650 --> 00:57:39,650
+[COOPER]
+Did they make it?
+ພວກເຂົາເຮັດໄດ້ບໍ?
+
+812
+00:57:40,150 --> 00:57:42,150
+[TARS]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+813
+00:57:42,650 --> 00:57:44,750
+[DOYLE]
+Do you really think it works?
+ເຈົ້າຄິດວ່າມັນເຮັດວຽກແທ້ບໍ?
+
+814
+00:57:45,250 --> 00:57:47,250
+[COOPER]
+We're going to find out.
+ພວກເຮົາຈະຮູ້ວ່າ.
+
+815
+00:57:47,750 --> 00:57:50,900
+[BRAND]
+You know it doesn't work. Time travel isn't possible.
+ເຈົ້າຮູ້ວ່າມັນບໍ່ເຮັດວຽກ. ການເດີນທາງໃນເວລາບໍ່ສາມາດເຮັດໄດ້.
+
+816
+00:57:51,400 --> 00:57:53,400
+[COOPER]
+You don't know that.
+ເຈົ້າບໍ່ຮູ້ເລື່ອງນັ້ນ.
+
+817
+00:57:53,900 --> 00:57:59,900
+[BRAND]
+Yes, I do. If it worked, the Chinese would have suddenly discovered all of these incredible technologies. But they never made it. You can't go back, Cooper. You can slow things down, but you can't ever go back. Our home is gone.  You listened to all of those messages from your family. If you had made it back, we would already know. There would already be some evidence.
+ແມ່ນແລ້ວ, ຂ້ອຍເຮັດ. ຖ້າມັນເຮັດວຽກໄດ້, ຊາວຈີນຈະຄົ້ນພົບເຕັກໂນໂລຢີທີ່ຍິ່ງໃຫຍ່ທັງ ຫມົດ ເຫຼົ່ານີ້ຢ່າງກະທັນຫັນ. ແຕ່ພວກເຂົາບໍ່ເຄີຍເຮັດມັນ. ເຈົ້າບໍ່ສາມາດກັບຄືນໄປບ່ອນໄດ້, ຄູເປີ.
+ເຈົ້າສາມາດຊ້າຊ້າສິ່ງຕ່າງໆໄດ້, ແຕ່ເຈົ້າບໍ່ສາມາດກັບມາໄດ້ເລີຍ. ເຮືອນຂອງພວກເຮົາຫາຍໄປແລ້ວ. ເຈົ້າໄດ້ຟັງຂໍ້ຄວາມທັງ ຫມົດ ຈາກຄອບຄົວຂອງທ່ານ. ຖ້າເຈົ້າໄດ້ກັບມາແລ້ວ, ພວກເຮົາຈະຮູ້ແລ້ວ. ຈະມີຫຼັກຖານບາງຢ່າງແລ້ວ.
+
+818
+00:58:00,400 --> 00:58:05,650
+[BRAND]
+If you try to use it, you'll die, just like the people who built it.
+ຖ້າເຈົ້າພະຍາຍາມໃຊ້ມັນ, ເຈົ້າຈະຕາຍ, ຄືກັບຄົນທີ່ສ້າງມັນ.
+
+819
+00:58:06,150 --> 00:58:12,150
+[BRAND]
+Roth was right, Cooper. We have to keep going. Keep exploring. We have an obligation to try to survive. From here we could find a thousand places where life could thrive. And you're going to return to the one place where it can't.
+ໂຣສຕ໌ເວົ້າຖືກຕ້ອງ, ຄູເປີ. ພວກເຮົາຕ້ອງສືບຕໍ່ໄປ. ສືບຕໍ່ຄົ້ນຄວ້າ. ພວກເຮົາມີພັນທະໃນການພະຍາຍາມຢູ່ລອດຊີວິດ.
+ຈາກບ່ອນນີ້ພວກເຮົາສາມາດຊອກຫາສະຖານທີ່ພັນບ່ອນທີ່ຊີວິດສາມາດຈະເລີນຮຸ່ງເຮືອງໄດ້. ແລະເຈົ້າຈະກັບຄືນໄປບ່ອນດຽວທີ່ມັນບໍ່ສາມາດເຮັດໄດ້.
+
+820
+00:58:12,650 --> 00:58:14,650
+[COOPER]
+I made a promise.
+ຂ້ອຍໄດ້ສັນຍາໄວ້.
+
+821
+00:58:15,150 --> 00:58:17,150
+[BRAND]
+I came to say goodbye.
+ຂ້ອຍມາອວຍພອນ.
+
+822
+00:58:17,650 --> 00:58:20,800
+[COOPER]
+You could have taken one of the other ships.
+ເຈົ້າສາມາດເອົາເຮືອອື່ນໄດ້.
+
+823
+00:58:21,300 --> 00:58:24,450
+[BRAND]
+This one's done all right by us so far.
+ນີ້ແມ່ນເຮັດໄດ້ດີໂດຍພວກເຮົາຈົນເຖິງປະຈຸບັນ.
+
+824
+00:58:24,950 --> 00:58:30,950
+[BRAND]
+Will you take this with you? It's the last of its kind as well. Thought we should double its chances of survival. In case I'm wrong.
+ເຈົ້າຈະເອົາສິ່ງນີ້ກັບເຈົ້າບໍ? ມັນເປັນຄົນສຸດທ້າຍຂອງປະເພດຂອງມັນເຊັ່ນກັນ.
+ຄິດວ່າພວກເຮົາຄວນເພີ່ມໂອກາດການຢູ່ລອດຂອງມັນສອງເທົ່າ. ໃນກໍລະນີທີ່ຂ້ອຍຜິດ.
+
+825
+00:58:31,450 --> 00:58:33,550
+[COOPER]
+Where are you going to go?
+ເຈົ້າຈະໄປໃສ?
+
+826
+00:58:34,050 --> 00:58:36,500
+[BRAND]
+I don't know. Up there, I guess.
+ຂ້ອຍບໍ່ຮູ້. ຢູ່ເທິງນັ້ນ, ຂ້ອຍຄິດວ່າ.
+
+827
+00:58:37,000 --> 00:58:39,000
+[COOPER]
+You're going, too?
+ເຈົ້າຈະໄປຄືກັນບໍ?
+
+828
+00:58:39,500 --> 00:58:43,000
+[TARS]
+I'm curious. It's my nature. See you down the road?
+ຂ້ອຍຢາກຮູ້ສຶກ. ມັນເປັນ ທໍາ ມະຊາດຂອງຂ້ອຍ. ພົບກັນທາງລຸ່ມບໍ?
+
+829
+00:58:43,500 --> 00:58:48,750
+[BRAND]
+Come with us. Please. You wanted your whole life to explore. This is your chance.
+ມາກັບພວກເຮົາ. ກະລຸນາ. ເຈົ້າຢາກຄົ້ນຄວ້າຊີວິດທັງ
+ຫມົດ ຂອງເຈົ້າ. ນີ້ແມ່ນໂອກາດຂອງທ່ານ.
+
+830
+00:58:49,250 --> 00:58:54,500
+[COOPER]
+I'm sorry. I have to find out what happened to my sons. I promised them.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍຕ້ອງຮູ້ວ່າເກີດຫຍັງຂຶ້ນກັບລູກຊາຍຂອງຂ້ອຍ
+. ຂ້ອຍສັນຍາໃຫ້ພວກເຂົາ.
+
+831
+00:58:55,000 --> 00:58:58,500
+[BRAND]
+You're a man who keeps his promises. Make me one-
+ເຈົ້າເປັນຜູ້ຊາຍທີ່ຮັກສາຄໍາຫມັ້ນສັນຍາຂອງລາວ
+. ເຮັດໃຫ້ຂ້ອຍເປັນຫນຶ່ງ -
+
+832
+00:58:59,000 --> 00:59:01,100
+[BRAND]
+After you're done... come find me.
+ຫຼັງຈາກເຈົ້າເຮັດແລ້ວ... ມາຊອກຫາຂ້ອຍ.
+
+833
+00:59:01,600 --> 00:59:03,600
+[COOPER]
+I promise.
+ຂ້ອຍສັນຍາ.
+
+834
+00:59:04,100 --> 00:59:06,100
+[DOYLE]
+Let's go home.
+ໄປບ້ານ.
+
+835
+00:59:06,600 --> 00:59:08,600
+[COOPER]
+The probe...
+ການກວດສອບ...
+
+836
+00:59:09,100 --> 00:59:15,100
+[DOYLE]
+We get back to earth, you and I can try to make sense of the code. Rebuild the gravity machine.
+ພວກເຮົາກັບຄືນສູ່ໂລກ, ເຈົ້າແລະຂ້ອຍສາມາດພະຍາຍາມເຂົ້າໃຈລະຫັດໄດ້
+. ສ້າງເຄື່ອງຈັກດຶງດູດຄືນ.
+
+837
+00:59:15,600 --> 00:59:17,600
+[COOPER]
+It's going to work.
+ມັນຈະເຮັດວຽກໄດ້.
+
+838
+00:59:18,100 --> 00:59:20,200
+[DOYLE]
+Of course it's going to work.
+ແນ່ນອນວ່າມັນຈະເຮັດວຽກໄດ້.
+
+839
+00:59:20,700 --> 00:59:25,250
+[COOPER]
+That's not what I mean. This is the probe I found in Galveston.
+ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍຫມາຍຄວາມ.
+ນີ້ແມ່ນການກວດສອບທີ່ຂ້ອຍພົບໃນ Galveston.
+
+840
+00:59:25,750 --> 00:59:31,750
+[COOPER]
+Brand said there'd be some evidence we'd made it. And there was. This.  But only this. Everything will be destroyed except for this.
+ແບຣນດ໌ເວົ້າວ່າຈະມີຫຼັກຖານບາງຢ່າງທີ່ພວກເຮົາໄດ້ເຮັດມັນ. ແລະມີ. ນີ້ແມ່ນ.
+ແຕ່ພຽງແຕ່ສິ່ງນີ້ເທົ່ານັ້ນ. ທຸກສິ່ງທຸກຢ່າງຈະຖືກ ທໍາ ລາຍຍົກເວັ້ນສິ່ງນີ້.
+
+841
+00:59:32,250 --> 00:59:34,250
+[COOPER]
+We have to stop.
+ພວກເຮົາຕ້ອງຢຸດເຊົາ.
+
+842
+00:59:34,750 --> 00:59:40,700
+[DOYLE]
+I don't know what you're talking about, but you're not touching the controls. I'm going home. 138.
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ,
+ແຕ່ເຈົ້າບໍ່ໄດ້ຈັບການຄວບຄຸມ. ຂ້ອຍຈະກັບບ້ານ. 138.
+
+843
+00:59:41,200 --> 00:59:47,200
+[COOPER]
+You don't need to do this. We won't make it back, but this does. The secrets are already right on it. Maybe someone found it. There's hope. But we don't get to go with.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງເຮັດສິ່ງນີ້. ພວກເຮົາຈະບໍ່ກັບມາ, ແຕ່ສິ່ງນີ້ເຮັດ.
+ຄວາມລັບແມ່ນຢູ່ເທິງມັນແລ້ວ. ບາງທີບາງຄົນໄດ້ພົບມັນ. ມີຄວາມຫວັງ. ແຕ່ພວກເຮົາບໍ່ສາມາດໄປກັບ.
+
+844
+00:59:47,700 --> 00:59:50,150
+[DOYLE]
+You're not stopping me. I'm going home.
+ເຈົ້າບໍ່ໄດ້ຢຸດຂ້ອຍ. ຂ້ອຍຈະກັບບ້ານ.
+
+845
+00:59:50,650 --> 00:59:52,650
+[OF VIDEO:]
+139.
+139.
+
+846
+00:59:53,150 --> 00:59:56,300
+[MURPH]
+It's done. Auto-pilot's packed up for the last time.
+ມັນເຮັດແລ້ວ. ນັກບິນອັດຕະໂນມັດຖືກຫຸ້ມຫໍ່ເປັນຄັ້ງສຸດທ້າຍ.
+
+847
+00:59:56,800 --> 00:59:59,600
+[FARMER]
+You can't make it work a little longer?
+ເຈົ້າບໍ່ສາມາດເຮັດໃຫ້ມັນເຮັດວຽກໄດ້ອີກຊົ່ວຄາວບໍ?
+
+848
+01:00:00,100 --> 01:00:05,000
+[MURPH]
+Can't do anything for you. There aren't any more parts for these. Not anywhere.
+ຂ້ອຍບໍ່ສາມາດເຮັດຫຍັງໄດ້ ສໍາ ລັບເຈົ້າ. ບໍ່ມີສ່ວນໃດອີກ
+ສໍາ ລັບສິ່ງເຫຼົ່ານີ້. ບໍ່ຢູ່ບ່ອນໃດເລີຍ.
+
+849
+01:00:05,500 --> 01:00:11,500
+[FARMER]
+You don't understand. We're getting less than a hundred pounds per acre. We need to plant more, not less.
+ເຈົ້າບໍ່ເຂົ້າໃຈ. ພວກເຮົາ ກໍາ ລັງໄດ້ຮັບ ຫນ້ອຍ
+ກວ່າສິບປອນຕໍ່ເຮັກຕາ. ພວກເຮົາຕ້ອງປູກຫຼາຍຂຶ້ນ, ບໍ່ແມ່ນ ຫນ້ອຍ ລົງ.
+
+850
+01:00:12,000 --> 01:00:18,000
+[FARMER]
+You've got to find us some more parts, Murph. It's getting desperate. Isn't there anywhere you can look?
+ເຈົ້າຕ້ອງຊອກຫາສ່ວນເພີ່ມເຕີມໃຫ້ພວກເຮົາ, ມູຟ. ມັນ ກໍາ
+ລັງຕົກໃຈຫຼາຍຂຶ້ນ. ບໍ່ມີບ່ອນໃດທີ່ທ່ານສາມາດເບິ່ງໄດ້ບໍ?
+
+851
+01:00:18,500 --> 01:00:21,650
+[MURPH'S WIFE]
+Would you get that thing off of the table?
+ເຈົ້າເອົາສິ່ງນັ້ນອອກຈາກໂຕະບໍ?
+
+852
+01:00:22,150 --> 01:00:25,300
+[EMILY COOPER]
+Dad? You said you'd take us to the game.
+ພໍ່? ເຈົ້າບອກວ່າເຈົ້າຈະພາພວກເຮົາໄປເກມ.
+
+853
+01:00:25,800 --> 01:00:27,800
+[MURPH]
+Did I?
+ຂ້ອຍເຮັດບໍ?
+
+854
+01:00:28,300 --> 01:00:30,750
+[MURPH]
+All right. Let me get my jacket.
+ດີແລ້ວ. ຂໍໃຫ້ຂ້ອຍເອົາເສື້ອຜ້າຂອງຂ້ອຍ.
+
+855
+01:00:31,250 --> 01:00:33,700
+[EMILY COOPER]
+What is it supposed to do, Dad?
+ມັນຄວນເຮັດຫຍັງ, ພໍ່?
+
+856
+01:00:34,200 --> 01:00:36,200
+[MURPH]
+I have no idea.
+ຂ້ອຍບໍ່ຮູ້ເລີຍ.
+
+857
+01:00:36,700 --> 01:00:40,200
+[COOPER]
+This is the crew of the Endurance... Murph... I'm sorry...
+ນີ້ແມ່ນລູກເຮືອຂອງຄວາມທົນທານ... ມູຟ... ຂ້ອຍຂໍໂທດ...
+
+858
+01:00:40,700 --> 01:00:42,700
+[MURPH]
+Where's Emily?
+ເອເມລີຢູ່ໃສ?
+
+859
+01:00:43,200 --> 01:00:47,400
+[WIFE]
+Out in the barn. She's been tinkering with your old projects. 143.
+ຢູ່ພາຍນອກໃນຈານ. ນາງ ກໍາ ລັງເຮັດວຽກກັບໂຄງການເກົ່າຂອງທ່ານ. 143.
+
+860
+01:00:47,900 --> 01:00:53,500
+[EMILY COOPER]
+Dad... I'm sorry... I made some changes to the machine. I think I did something wrong.
+ພໍ່... ຂ້ອຍຂໍໂທດ... ຂ້ອຍໄດ້ເຮັດການປ່ຽນແປງບາງຢ່າງຕໍ່ເຄື່ອງຈັກ
+. ຂ້ອຍຄິດວ່າຂ້ອຍເຮັດບາງສິ່ງບາງຢ່າງຜິດ.
+
+861
+01:00:54,000 --> 01:00:56,100
+[MURPH]
+Do you remember what you changed?
+ເຈົ້າຈື່ວ່າເຈົ້າປ່ຽນຫຍັງບໍ?
+
+862
+01:00:56,600 --> 01:00:58,600
+[BLACK]
+FADE IN:
+ສິ້ນສຸດລົງ:
+
+863
+01:00:59,100 --> 01:01:02,600
+[DOCTOR]
+Good morning. Don't go outside just yet, Mr. Cooper. 146.
+ສະບາຍດີ. ຢ່າອອກໄປນອກເທື່ອ, ທ້າວຄູເປີ. 146.
+
+864
+01:01:03,100 --> 01:01:05,200
+[DOCTOR]
+This will help with the disorientation.
+ນີ້ແມ່ນຈະຊ່ວຍໃນການຜິດທິດທາງ.
+
+865
+01:01:05,700 --> 01:01:11,700
+[DOCTOR]
+Wait a minute for that to take effect. It can be a bit of an adjustment.  You had some frostbite. Nothing too serious.
+ລໍຖ້າດົນຫນຶ່ງເພື່ອໃຫ້ມັນມີຜົນກະທົບ. ມັນອາດຈະເປັນການປັບປຸງ
+ຫນ້ອຍ ຫນຶ່ງ. ເຈົ້າມີຄວາມເຢັນບາງຢ່າງ. ບໍ່ມີຫຍັງຮ້າຍແຮງເກີນໄປ.
+
+866
+01:01:12,200 --> 01:01:14,200
+[COOPER]
+Where am I?
+ຂ້ອຍຢູ່ໃສ?
+
+867
+01:01:14,700 --> 01:01:20,650
+[DOCTOR]
+It's a bit of a coincidence, really. When the rangers found you, we were the nearest facility.
+ມັນເປັນຄວາມສອດຄ່ອງເລັກນ້ອຍ, ແທ້ຈິງແລ້ວ.
+ເມື່ອເຈົ້າຫນ້າທີ່ປ່າໄມ້ພົບເຈົ້າ, ພວກເຮົາເປັນສະຖານທີ່ທີ່ໃກ້ທີ່ສຸດ.
+
+868
+01:01:21,150 --> 01:01:23,250
+[COOPER]
+What's coincidence? What is this place?
+ຄວາມສອດຄ່ອງແມ່ນຫຍັງ? ບ່ອນນີ້ເປັນຫຍັງ?
+
+869
+01:01:23,750 --> 01:01:26,200
+[DOCTOR]
+We have a lot to show you.
+ພວກເຮົາມີຫຼາຍຢ່າງທີ່ຈະສະແດງໃຫ້ເຈົ້າ.
+
+870
+01:01:26,700 --> 01:01:32,650
+[DOCTOR]
+You're OK. We get this from people who move here from planetary colonies all the time. 147.
+ເຈົ້າບໍ່ເປັນຫຍັງ.
+ພວກເຮົາໄດ້ຮັບສິ່ງນີ້ຈາກຄົນທີ່ຍ້າຍມາບ່ອນນີ້ຈາກຄລູເນຍໂລກຕະຫຼອດເວລາ. 147.
+
+871
+01:01:33,150 --> 01:01:35,150
+[COOPER]
+Where... where are we?
+ພວກເຮົາຢູ່ໃສ?
+
+872
+01:01:35,650 --> 01:01:41,650
+[DOCTOR]
+Like I said. It was a coincidence. There was a facility closer to Earth, but they had a problem, so you wound up here.  This is the Space Station Joseph A. Cooper.
+ດັ່ງທີ່ຂ້ອຍບອກແລ້ວ. ມັນເປັນຄວາມກົງກັນຂ້າມ. ມີສະຖານທີ່ໃກ້ກັບໂລກ, ແຕ່ພວກເຂົາມີບັນຫາ
+, ສະນັ້ນເຈົ້າຈຶ່ງສິ້ນສຸດລົງຢູ່ນີ້. ນີ້ແມ່ນສະຖານີອະວະກາດໂຈເຊຟ ເອ ຄູເປີ.
+
+873
+01:01:42,150 --> 01:01:44,950
+[DOCTOR]
+I've got someone who wants to meet you.
+ຂ້ອຍມີຄົນຫນຶ່ງທີ່ຢາກພົບເຈົ້າ.
+
+874
+01:01:45,450 --> 01:01:51,450
+[DOCTOR]
+He was moved here after they found you. He's a little old for a transfer, but they made an exception.
+ລາວຖືກຍ້າຍມາບ່ອນນີ້ຫຼັງຈາກພວກເຂົາພົບເຈົ້າ.
+ລາວອາຍຸຫຼາຍເກີນໄປ ສໍາ ລັບການໂອນ, ແຕ່ພວກເຂົາໄດ້ຍົກເວັ້ນ.
+
+875
+01:01:51,950 --> 01:01:53,950
+[DOCTOR]
+That's him. 148.
+ນັ້ນແມ່ນລາວ. 148.
+
+876
+01:01:54,450 --> 01:02:00,450
+[DOCTOR]
+His name is Anthony Welling. Anthony Cooper Welling. He's your great great grandson. He's been waiting a long time for you.
+ຊື່ລາວແມ່ນແອນໂຕນີ ເວລິງ. ແອນໂຕເນຍ ຄູເປີ ເວລິ່ງ.
+ລາວເປັນລູກຫຼານຂອງທ່ານ. ລາວ ກໍາ ລັງລໍຖ້າທ່ານດົນນານແລ້ວ.
+
+877
+01:02:00,950 --> 01:02:06,950
+[ADMINISTRATOR]
+You're a hero, Mr. Cooper. Let's just start off by saying that. It's an incredible and... unexpected honor to have you here with us.
+ເຈົ້າເປັນວິລະຊົນ, ທ້າວ ຄູເປີ. ພວກເຮົາພຽງແຕ່ເລີ່ມຕົ້ນໂດຍການເວົ້ານັ້ນ.
+ມັນເປັນກຽດຕິຍົດທີ່ຍິ່ງໃຫຍ່ແລະ... ບໍ່ຄາດຫວັງທີ່ຈະມີເຈົ້າຢູ່ບ່ອນນີ້ກັບພວກເຮົາ.
+
+878
+01:02:07,450 --> 01:02:13,450
+[ADMINISTRATOR]
+None of us would be here without the efforts of you and the other crewmembers of the Endurance.  So I don't want you to take this the wrong way. But there are some questions I've been told to ask.
+ບໍ່ມີໃຜໃນພວກເຮົາຈະຢູ່ບ່ອນນີ້ໂດຍບໍ່ມີຄວາມພະຍາຍາມຂອງທ່ານແລະສະມາຊິກທີມງານຄົນອື່ນຂອງຄວາມທົນທານ.
+ສະນັ້ນຂ້ອຍບໍ່ຢາກໃຫ້ເຈົ້າເອົາເລື່ອງນີ້ໃນທາງທີ່ບໍ່ຖືກຕ້ອງ. ແຕ່ມີ ຄໍາ ຖາມບາງຢ່າງທີ່ຂ້ອຍຖືກບອກໃຫ້ຖາມ.
+
+879
+01:02:13,950 --> 01:02:15,950
+[COOPER]
+Shoot. 149.
+ຍິງ. 149.
+
+880
+01:02:16,450 --> 01:02:22,450
+[ADMINISTRATOR]
+The rangers who found you reported that you had released a sample of an alien life-form into the wild. Which is, unfortunately, against regulations.
+ພວກເຈົ້າຫນ້າທີ່ປ່າໄມ້ທີ່ພົບເຈົ້າໄດ້ລາຍງານວ່າເຈົ້າໄດ້ປ່ອຍຕົວຢ່າງຂອງຮູບແບບຊີວິດຕ່າງດາວເຂົ້າໄປໃນທໍາມະຊາດ
+. ເຊິ່ງເປັນໂຊກຮ້າຍ, ຕໍ່ຕ້ານກົດລະບຽບ.
+
+881
+01:02:22,950 --> 01:02:26,450
+[COOPER]
+It was last of its kind. Their planet was destroyed.
+ມັນເປັນຄົນສຸດທ້າຍຂອງປະເພດຂອງຕົນ. ໂລກຂອງພວກເຂົາໄດ້ຖືກທໍາລາຍ.
+
+882
+01:02:26,950 --> 01:02:32,950
+[ADMINISTRATOR]
+The rangers attempted to isolate the life-form, but it had already spread out of control. It seems to be thriving.
+ພວກເຈົ້າຫນ້າທີ່ປ່າໄມ້ພະຍາຍາມແຍກຕົວແບບຊີວິດ,
+ແຕ່ມັນໄດ້ແຜ່ລາມອອກຈາກການຄວບຄຸມແລ້ວ. ມັນເບິ່ງຄືວ່າຈະເລີນຮຸ່ງເຮືອງ.
+
+883
+01:02:33,450 --> 01:02:38,350
+[ADMINISTRATOR]
+Can you tell me why you... elected to release the life-form back on earth?
+ເຈົ້າບອກຂ້ອຍໄດ້ບໍວ່າເປັນຫຍັງເຈົ້າ...
+ໄດ້ເລືອກທີ່ຈະປ່ອຍຮູບແບບຊີວິດກັບຄືນສູ່ໂລກ?
+
+884
+01:02:38,850 --> 01:02:40,850
+[COOPER]
+Because that was the plan.
+ເພາະວ່ານັ້ນແມ່ນແຜນການ.
+
+885
+01:02:41,350 --> 01:02:43,350
+[ADMINISTRATOR]
+Whose plan?
+ແຜນການຂອງໃຜ?
+
+886
+01:02:43,850 --> 01:02:45,850
+[COOPER]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+887
+01:02:46,350 --> 01:02:50,900
+[ADMINISTRATOR]
+My assistant tells me you've applied for a position with the exploration fleet.
+ຜູ້ຊ່ວຍຂອງຂ້ອຍບອກຂ້ອຍວ່າເຈົ້າໄດ້ສະ
+ຫມັກ ຕໍາ ແຫນ່ງ ກັບເຮືອຄົ້ນຄວ້າ.
+
+888
+01:02:51,400 --> 01:02:54,550
+[COOPER]
+Feel like I should be pulling my weight. 150.
+ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍຄວນດຶງນ້ ໍາ ຫນັກ ຂອງຂ້ອຍ. 150.
+
+889
+01:02:55,050 --> 01:03:01,050
+[ADMINISTRATOR]
+That's admirable, Mr. Cooper. The truth is, most of the fleet's personnel are automated. There are a small number of crewed ships. But there are great numbers of candidates. Very well trained candidates.
+ນັ້ນແມ່ນຫນ້າຊົມເຊີຍ, ທ້າວຄູເປີ. ຄວາມຈິງແມ່ນ, ສ່ວນໃຫຍ່ຂອງພະນັກງານຂອງເຮືອແມ່ນອັດຕະໂນມັດ. ມີເຮືອທີ່ມີລູກເຮືອ
+ຈໍາ ນວນ ຫນ້ອຍ. ແຕ່ມີຜູ້ສະຫມັກ ຈໍາ ນວນຫຼວງຫຼາຍ. ຜູ້ສະ ຫມັກ ທີ່ໄດ້ຮັບການຝຶກອົບຮົມດີຫຼາຍ.
+
+890
+01:03:01,550 --> 01:03:07,550
+[COOPER]
+I was hoping to enroll in a course. Try to get myself up to speed on the new systems.
+ຂ້ອຍຫວັງວ່າຈະລົງທະບຽນໃນຫຼັກສູດ.
+ພະຍາຍາມເຮັດໃຫ້ຕົວເອງມີຄວາມໄວກ່ຽວກັບລະບົບ ໃຫມ່.
+
+891
+01:03:08,050 --> 01:03:14,050
+[ADMINISTRATOR]
+I don't want you to take this the wrong way, Mr. Cooper -- like I said, you're a hero. But the truth is we have somewhat limited resources.
+ຂ້ອຍບໍ່ຢາກໃຫ້ເຈົ້າເອົາເລື່ອງນີ້ໃນທາງທີ່ບໍ່ຖືກຕ້ອງ, ທ້າວ ຄູເປີ - ດັ່ງທີ່ຂ້ອຍບອກແລ້ວ
+, ເຈົ້າເປັນວິລະຊົນ. ແຕ່ຄວາມຈິງແມ່ນວ່າພວກເຮົາມີຊັບພະຍາກອນ ຈໍາ ກັດບາງຢ່າງ.
+
+892
+01:03:14,550 --> 01:03:16,650
+[COOPER]
+No one's heard anything from Brand?
+ບໍ່ມີໃຜໄດ້ຍິນຫຍັງຈາກແບຣນດ໌ບໍ?
+
+893
+01:03:17,150 --> 01:03:23,150
+[ADMINISTRATOR]
+I'm sorry. Officially, she's been listed as missing for over 200 years. Mind you, I guess you turned up eventually, didn't you?
+ຂ້ອຍຂໍໂທດ. ຢ່າງເປັນທາງການ, ນາງຖືກລົງທະບຽນວ່າຫາຍສາບສູນເປັນເວລາຫຼາຍກວ່າ
+200 ປີ. ຈື່ໄວ້, ຂ້ອຍຄິດວ່າເຈົ້າປາກົດຕົວໃນທີ່ສຸດ, ແມ່ນບໍ?
+
+894
+01:03:23,650 --> 01:03:29,650
+[COOPER]
+Am I really going to hurt anybody by going to look for her? I just need a small ship. I made a promise.
+ຂ້ອຍຈະເຮັດໃຫ້ໃຜເຈັບປວດແທ້ບໍໂດຍການໄປຊອກຫານາງ
+? ຂ້ອຍພຽງແຕ່ຕ້ອງການເຮືອນ້ອຍໆ. ຂ້ອຍໄດ້ສັນຍາ.
+
+895
+01:03:30,150 --> 01:03:36,150
+[ADMINISTRATOR]
+Listen. Mr. Cooper. You're a hero. You're the oldest man in the human race. Don't you want to take it easy?  I hope you understand, we all you hold you in the highest possible regard. Which is why they're never going to let you go off by yourself in a spaceship. I'm sorry.
+ຟັງ. ທ່ານ ຄູເປີ. ເຈົ້າເປັນວິລະຊົນ. ເຈົ້າແມ່ນຜູ້ຊາຍອາຍຸສູງທີ່ສຸດໃນເຊື້ອຊາດມະນຸດ. ເຈົ້າບໍ່ຢາກເອົາມັນຢ່າງສະຫງົບສຸກບໍ? ຂ້ອຍຫວັງວ່າເຈົ້າຈະເຂົ້າໃຈ
+, ພວກເຮົາທຸກຄົນເຈົ້າຖືເຈົ້າໃນຄວາມເຄົາລົບສູງສຸດທີ່ເປັນໄປໄດ້. ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຂົາຈະບໍ່ປ່ອຍໃຫ້ເຈົ້າອອກໄປດ້ວຍຕົນເອງໃນເຮືອອະວະກາດ. ຂ້ອຍຂໍໂທດ.
+
+896
+01:03:36,650 --> 01:03:42,650
+[ADMINISTRATOR]
+I've got some good news, however. We all know about your early life, Mr Cooper. I wrote a paper on it when I was a boy. And I think we found something you'll really enjoy.
+ຂ້ອຍມີຂ່າວດີບາງຢ່າງ, ເຖິງຢ່າງໃດກໍ່ຕາມ. ພວກເຮົາທຸກຄົນຮູ້ກ່ຽວກັບຊີວິດຕົ້ນຂອງທ່ານ, ທ້າວຄູເປີ.
+ຂ້ອຍໄດ້ຂຽນບົດຂຽນກ່ຽວກັບມັນເມື່ອຂ້ອຍເປັນເດັກຊາຍ. ແລະຂ້ອຍຄິດວ່າພວກເຮົາພົບບາງສິ່ງບາງຢ່າງທີ່ທ່ານຈະເພີດເພີນຫຼາຍ.
+
+897
+01:03:43,150 --> 01:03:49,150
+[ADMINISTRATOR]
+The machines do most of the work, of course, but we were able to get you a few acres. You're going to be a farmer again.
+ເຄື່ອງຈັກເຮັດວຽກສ່ວນໃຫຍ່ແນ່ນອນ,
+ແຕ່ພວກເຮົາສາມາດເອົາເຈົ້າໄດ້ສອງສາມເຮັກຕາ. ເຈົ້າຈະເປັນຊາວກະສິກອນອີກຄັ້ງ.
+
+898
+01:03:49,650 --> 01:03:51,650
+[ROBOT]
+Settings: general settings, security
+ປັບແຕ່ງ: ປັບປຸງທົ່ວໄປ, ຄວາມປອດໄພ
+
+899
+01:03:52,150 --> 01:03:54,250
+[COOPER]
+Curiosity. New level setting. 100 percent.
+ຄວາມຢາກຮູ້ສຶກ. ການຕັ້ງລະດັບໃຫມ່. 100 ເປີເຊັນ.
+
+900
+01:03:54,750 --> 01:03:57,900
+[ROBOT]
+Confirmed. Would you like to make any additional changes?
+ຢືນຢັນແລ້ວ. ເຈົ້າຢາກເຮັດການປ່ຽນແປງເພີ່ມເຕີມບໍ?
+
+901
+01:03:58,400 --> 01:04:02,250
+[COOPER]
+Sense of humor. New level setting. 100 percent. Wait. 80 percent.
+ຄວາມຮູ້ສຶກມ່ວນຊື່ນ. ການຕັ້ງລະດັບໃຫມ່
+. 100 ເປີເຊັນ. ລໍຖ້າ. 80 ເປີ ເຊັນ.
+
+902
+01:04:02,750 --> 01:04:05,200
+[COOPER]
+Where do you want to go first?
+ເຈົ້າຢາກໄປໃສກ່ອນ?
+

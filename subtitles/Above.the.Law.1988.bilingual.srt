@@ -1,0 +1,3564 @@
+1
+00:00:10,000 --> 00:00:12,000
+[ABOVE THE LAW]
+Screenplay by
+ຮູບເງົາໂດຍ
+
+2
+00:00:12,500 --> 00:00:18,500
+[FINAL DRAFT]
+March 27, 1987 WARNER BROS. INC.                       � 1987 4000 Warner Boulevard                   WARNER BROS. INC. Burbank, California 91522               All Rights Reserved
+ວັນທີ 27 ມີນາປີ 1987 Warner Bros. INC. 1987 4000 Warner Boulevard
+WARNER Bros. Inc. Burbank, California 91522 ສິດທັງ ຫມົດ ຖືກສະຫງວນໄວ້
+
+3
+00:00:19,000 --> 00:00:21,100
+[FOX]
+You ever see chemical interrogation before?
+ເຈົ້າເຄີຍເຫັນການສອບສວນທາງເຄມີກ່ອນບໍ?
+
+4
+00:00:21,600 --> 00:00:23,600
+[NICO]
+These assholes are agency?
+ພວກໂຊກຮ້າຍເຫຼົ່ານີ້ແມ່ນອົງການບໍ?
+
+5
+00:00:24,100 --> 00:00:30,100
+[FOX]
+We're all C.I.A. But these guys are from a page that ain't on the map. 10   EXT. JUNGLE - LATE AFTERNOON Nico in the point,   leading Fox and the three CIT    men down an unmarked, twisting trail. We see from Nico's   gait that he is athletic, a born leader and totally at home   in the jungle. 11   TRAIL - LATE AFTERNOON snakes along a ridge line, high enough to give us a view and let us know these guys are way out in the boonies.
+ພວກເຮົາທັງ ຫມົດ ແມ່ນ C.I.A ແຕ່ພວກຜູ້ຊາຍເຫຼົ່ານີ້ແມ່ນມາຈາກ ຫນ້າ ທີ່ທີ່ບໍ່ຢູ່ໃນແຜນທີ່. 10 EXT. Jungle - ຕອນບ່າຍນິກໂກໃນຈຸດ, ນໍາພາຟອກສ໌ແລະຜູ້ຊາຍ CIT ສາມຄົນລົງເສັ້ນທາງທີ່ບໍ່ມີເຄື່ອງ ຫມາຍ, ການຫັນປ່ຽນ
+. ພວກເຮົາເຫັນຈາກການຍ່າງຂອງນິໂກວ່າລາວເປັນນັກກິລາ, ຜູ້ນໍາທີ່ເກີດແລະຢູ່ເຮືອນຢ່າງສົມບູນໃນປ່າໄມ້. 11 TRAIL - ແລງຊ້າງຕາມເສັ້ນທາງພູເຂົາ, ສູງພໍທີ່ຈະໃຫ້ພວກເຮົາເຫັນແລະໃຫ້ພວກເຮົາຮູ້ວ່າພວກຜູ້ຊາຍເຫລົ່ານີ້ຢູ່
+
+6
+00:00:30,600 --> 00:00:33,050
+[ZAGON]
+How long till we're across the border?
+ມັນຈະໃຊ້ເວລາຫຼາຍປານໃດຈົນກວ່າພວກເຮົາຈະຂ້າມຊາຍແດນ?
+
+7
+00:00:33,550 --> 00:00:38,100
+[NICO]
+We've been over for the past hour. The group continues along the ridge.
+ພວກເຮົາຢູ່ແລ້ວໃນຊົ່ວໂມງທີ່ຜ່ານມາ. ກຸ່ມສືບຕໍ່ຕາມພູເຂົາ.
+
+8
+00:00:38,600 --> 00:00:40,700
+[ZAGON]
+What are you looking at, hotshot?
+ເຈົ້າ ກໍາ ລັງເບິ່ງຫຍັງ, hotshot?
+
+9
+00:00:41,200 --> 00:00:43,300
+[NICO]
+Why don't you light a bonfire?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຮັດໃຫ້ໄຟໄຫມ້?
+
+10
+00:00:43,800 --> 00:00:45,800
+[ZAGON]
+Just drive the taxi, ace.
+ພຽງແຕ່ຂັບລົດແທັກຊີ, ເອສ.
+
+11
+00:00:46,300 --> 00:00:48,300
+[FOX]
+They're in there.
+ພວກເຂົາຢູ່ໃນບ່ອນນັ້ນ.
+
+12
+00:00:48,800 --> 00:00:54,800
+[NICO]
+I don't trust these yo-yo's. 15   FULL SHOT - BASE CAMP We see Nico moving like a shadow from one defensive position to another, checking the perimeter. We can vaguely hear him ROUSTING the Cambodian lookouts, speaking in dialect.
+ຂ້ອຍບໍ່ເຊື່ອຖືພວກໂຢໂຢເຫຼົ່ານີ້. 15 ການຍິງເຕັມ - ຄ້າຍພື້ນຖານ ພວກເຮົາເຫັນນິກໂກເຄື່ອນຍ້າຍຄືກັບເງົາຈາກ ຕໍາ ແຫນ່ງ ການປ້ອງກັນຄວາມສະຫງົບ
+ຫນຶ່ງ ໄປຫາອີກບ່ອນ ຫນຶ່ງ, ກວດສອບຂອບເຂດ. ພວກເຮົາສາມາດຍິນລາວໄດ້ຢ່າງຊັດເຈນທີ່ເຮັດໃຫ້ຄົນເບິ່ງແຍງ ກໍາປູເຈຍ, ເວົ້າໃນພາສາພາສາ.
+
+13
+00:00:55,300 --> 00:01:00,200
+[ZAGON]
+That's the nice thing about modern technology. You don't have to wait for results.
+ນັ້ນແມ່ນສິ່ງທີ່ດີເລີດກ່ຽວກັບເຕັກໂນໂລຢີທັນສະໄຫມ
+. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງລໍຖ້າຜົນໄດ້ຮັບ.
+
+14
+00:01:00,700 --> 00:01:06,700
+[ZAGON]
+Where is it, Charley? You got six tons of our shit -- The prisoner tries to speak, but he's in such torment all that comes out is a blood-curdling wail -- 21   EXT. BAST CAMP - NICO
+ມັນຢູ່ໃສ, ແຊລລີ? ເຈົ້າມີສິບໂຕນຂອງສິ່ງຂອງຂອງພວກເຮົາ - ນັກໂທດພະຍາຍາມເວົ້າ, ແຕ່ລາວຢູ່ໃນຄວາມທຸກທໍລະມານທີ່ຍິ່ງໃຫຍ່ທັງ
+ຫມົດ ທີ່ອອກມາແມ່ນການຮ້ອງໄຫ້ທີ່ເຮັດໃຫ້ເລືອດສັ່ນສະເທືອນ - 21 EXT. BAST CAMP - NICO
+
+15
+00:01:07,200 --> 00:01:09,650
+[ZAGON]
+Don't you die on me, fucker --
+ຢ່າຕາຍຢູ່ເທິງຂ້ອຍ, ຄົນໂຊກຮ້າຍ -
+
+16
+00:01:10,150 --> 00:01:12,150
+[FOX]
+What the hell's wrong?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+17
+00:01:12,650 --> 00:01:14,750
+[ZAGON]
+This pussy can't hold his liquor.
+ແມວນີ້ບໍ່ສາມາດຖືເຫຼົ້າຂອງລາວໄດ້.
+
+18
+00:01:15,250 --> 00:01:21,250
+[ZAGON]
+So my little doctor bag doesn't                      * scare you, eh? Well I don't need                     * it to open your yap.                                 * Zagon reaches to a scabbard on his Western belt, pulls out a fearsome serrated blade -- a cross between a bowie knife and a scalpel. He steps toward the prisoner, displaying the blade in the lantern light.
+ຄຸເຂົ່າລົງ
+
+19
+00:01:21,750 --> 00:01:27,750
+[ZAGON]
+Where's our load, you sack of slime? What did you do with my shit? -- 27   ZAGON punches  the prisoner full in the face, holding the knife handle  in his fist to double the force of the blow and to terrify  him with the proximity of the blade. The prisoner crashes  sideways, face bloody --
+ການໂຫຼດຂອງພວກເຮົາຢູ່ໃສ, ເຈົ້າຖົງຂອງສະລາມ? ເຈົ້າເຮັດຫຍັງກັບສິ່ງຂອງຂ້ອຍ? - 27 ZAGON ຕີນັກໂທດເຕັມໃນໃບຫນ້າ,
+ຖືມືມີດຕັດໃນມືຂອງລາວເພື່ອເພີ່ມສອງເທົ່າຄວາມເຂັ້ມແຂງຂອງການຕີແລະຢ້ານກົວລາວດ້ວຍຄວາມໃກ້ຊິດຂອງກະດານ. ນັກໂທດຕົກຂ້າງ, ໃບຫນ້າເລືອດ -
+
+20
+00:01:28,250 --> 00:01:33,850
+[ZAGON]
+I'm gonna teach you good. I'm gonna teach you never to fuck with my opium --
+ຂ້ອຍຈະສອນເຈົ້າຢ່າງດີ.
+ຂ້ອຍຈະຮຽນໃຫ້ເຈົ້າບໍ່ເຄີຍສໍ້ໂກງກັບ opium ຂອງຂ້ອຍ -
+
+21
+00:01:34,350 --> 00:01:40,350
+[ZAGON]
+You're a hard nigger, aren't you, boy? You took it from the Chinks... you took it from the French. You'll be fucked if some Yankee peckerwood's gonna start your gums flapping -- Nico watches Zagon move the knife blade closer to the prisoner.
+ເຈົ້າເປັນຄົນນິກເກີທີ່ແຂງແຮງ, ແມ່ນບໍ, ເດັກຊາຍ? ເຈົ້າເອົາມັນຈາກຄົນຈີນ... ເຈົ້າເອົາມັນຈາກຊາວຝຣັ່ງ.
+ເຈົ້າຈະຖືກໂຊກຮ້າຍຖ້າບາງຄົນຢານກີ peckerwood ຈະເລີ່ມຕົ້ນແຂ້ວຂອງທ່ານ flapping - ນິກໂກເບິ່ງ Zagon ຍ້າຍກະດານມີດຕັດໃກ້ຊິດກັບນັກໂທດ.
+
+22
+00:01:40,850 --> 00:01:46,450
+[ZAGON]
+-- Well, you're gonna chirp for me, tough guy. You're gonna sing like a choir --
+- ດີ, ເຈົ້າຈະສັ່ນສະເທືອນ ສໍາ ລັບຂ້ອຍ,
+ຜູ້ຊາຍແຂງແຮງ. ເຈົ້າຈະຮ້ອງເພງຄືກັບຄະນະຮ້ອງເພງ -
+
+23
+00:01:46,950 --> 00:01:50,800
+[NICO]
+What the fuck does this have to do with military intelligence?
+ເລື່ອງນີ້ກ່ຽວຂ້ອງກັບການສືບລັບທາງທະຫານແນວໃດ?
+
+24
+00:01:51,300 --> 00:01:56,200
+[ZAGON]
+Your orders are 'assist and observe' cherry -- Zagon turns to face Nico --
+ຄໍາ ສັ່ງຂອງທ່ານແມ່ນ'ຊ່ວຍເຫຼືອແລະສັງເກດເບິ່ງ'
+cherry - Zagon ຫັນໄປຕໍ່ຫນ້ານິກໂກ -
+
+25
+00:01:56,700 --> 00:02:02,700
+[FOX]
+Back off, partner -- Zagon turns from Nico. He moves close to the second prisoner, close as a lover, displaying the blade in the lamplight.
+ກັບຄືນໄປບ່ອນ, ຄູ່ຮ່ວມງານ - ຊາກອນຫັນຈາກນິກໂກ.
+ລາວເຄື່ອນຍ້າຍໃກ້ກັບນັກໂທດທີສອງ, ໃກ້ຊິດເປັນຄົນຮັກ, ສະແດງກະດານໃນແສງໄຟ.
+
+26
+00:02:03,200 --> 00:02:09,200
+[ZAGON]
+I'm gonna start carving at your ankles. We'll throw your feet in that box right over there. Then I'm gonna take off your arms -- One of the CIT men yanks the prisoner's leg forward, clamping it to the ground with his hands. The prisoner still hasn't flinched. He seems as locked into this dance of death as Zagon.
+ຂ້ອຍຈະເລີ່ມຕົ້ນຕັດຕີນຕີນຂອງທ່ານ. ພວກເຮົາຈະຖິ້ມຕີນໃນກ່ອງນັ້ນຢູ່ບ່ອນນັ້ນ. ຫຼັງຈາກນັ້ນຂ້ອຍຈະເອົາແຂນຂອງທ່ານອອກ - ຫນຶ່ງໃນຜູ້ຊາຍ CIT
+ຍ່າງຕີນຂອງນັກໂທດໄປຂ້າງຫນ້າ, ຈັບມັນໃສ່ດິນດ້ວຍມືຂອງລາວ. ນັກໂທດຍັງບໍ່ສັ່ນສະເທືອນ. ລາວເບິ່ງຄືວ່າຖືກລັອກເຂົ້າໄປໃນເຕັ້ນຕາຍນີ້ຄືກັບຊາກອນ.
+
+27
+00:02:09,700 --> 00:02:11,700
+[NICO]
+Fox --
+ຟອກສ໌...
+
+28
+00:02:12,200 --> 00:02:14,200
+[FOX]
+Shut up, Nico.
+ປິດງຽບ, ນິກໂກ.
+
+29
+00:02:14,700 --> 00:02:18,200
+[ZAGON]
+You can disappear as easy as this slope, kid --
+ເຈົ້າສາມາດຫາຍໄປໄດ້ງ່າຍດາຍເທົ່າກັບທ້ອງຖິ່ນນີ້, ເດັກນ້ອຍ -
+
+30
+00:02:18,700 --> 00:02:24,700
+[FOX]
+Are you crazy?!!  What the fuck's the matter with you?!!! Nico is shaking with rage and fear. He takes several steps away from the hooch, then draws up abruptly. Nico pulls his .45 from his holster, pops the safety, starts back for the hooch --
+ເຈົ້າໂຊກຮ້າຍບໍ?!! ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?!!! ນິກໂກ ກໍາ ລັງສັ່ນສະເທືອນດ້ວຍຄວາມໂຊຄຮ້າຍແລະຄວາມຢ້ານກົວ. ລາວເອົາບາດກ້າວຫຼາຍຢ່າງຫ່າງຈາກຮູຈ໌
+, ຫຼັງຈາກນັ້ນດຶງຂຶ້ນຢ່າງກະທັນຫັນ. ນິກອກດຶງ.45 ຂອງລາວຈາກກະຕູ້ຂອງລາວ, ປັບຄວາມປອດໄພ, ເລີ່ມຄືນໄປບ່ອນ ສໍາ ລັບຮຸຈ໌ -
+
+31
+00:02:25,200 --> 00:02:27,200
+[FOX]
+Nico!
+ນິກໂກ!
+
+32
+00:02:27,700 --> 00:02:31,200
+[NICO]
+I don't cap him now, he's gonna do me later.
+ຂ້ອຍບໍ່ຈັບລາວດຽວນີ້, ລາວຈະເຮັດຂ້ອຍຕໍ່ມາ.
+
+33
+00:02:31,700 --> 00:02:34,150
+[FOX]
+I'll cover this. Get back to the
+ຂ້ອຍຈະປົກຄຸມເລື່ອງນີ້. ກັບຄືນໄປບ່ອນ
+
+34
+00:02:34,650 --> 00:02:40,650
+[L.Z. --]
+-- I'll fix it! Get out! Get the fuck outa here! The CIT man calls out to the Cambodian troops, in dialect, pointing at Nico. The soldiers start toward Nico, as if to seize him. Fox, too, starts yelling to the troops in dialect, apparently countermanding the orders of the CIT men. The troops, confused, hold up for a moment.
+- ຂ້ອຍຈະແກ້ໄຂມັນ! ອອກໄປ! ອອກຈາກບ່ອນນີ້! ຜູ້ຊາຍ CIT ຮ້ອງໄຫ້ໃຫ້ທະຫານກໍາປູເຈຍ, ໃນພາສາພາສາ, ຊີ້ໃຫ້ເຫັນນິກໂກ. ທະຫານເລີ່ມຕົ້ນໄປຫານິກັອກ, ຄືກັບວ່າຈະຈັບລາວ
+. ຟອກສ໌ເຊັ່ນກັນ, ເລີ່ມຮ້ອງໄຫ້ອາຍຕໍ່ທະຫານໃນພາສາພາສາສາທາລະນະ, ເບິ່ງຄືວ່າປະຕິເສດຄໍາສັ່ງຂອງຜູ້ຊາຍ CIT. ກອງທັບ, ຄວາມສັບສົນ, ຢືນຢັນຊົ່ວຄາວຫນຶ່ງ.
+
+35
+00:02:41,150 --> 00:02:43,950
+[FOX]
+I'll call for a chopper... get outa here!
+ຂ້ອຍຈະໂທຫາເຮລິຄອບເຕີ... ອອກຈາກບ່ອນນີ້!
+
+36
+00:02:44,450 --> 00:02:49,350
+[ROSA]
+Nico had one just like this.   Thank you, Cora. Cora, an aunt, proudly smiles.
+ນິກໂກມີຫນຶ່ງເຊັ່ນນີ້. ຂອບໃຈ, ໂກຣາ. ໂກລາ
+, ແມ່ຕູ້, ມ່ວນຊື່ນດ້ວຍຄວາມພາກພູມໃຈ.
+
+37
+00:02:49,850 --> 00:02:52,650
+[NICO]
+I think we got a little problem here.
+ຂ້ອຍຄິດວ່າພວກເຮົາມີບັນຫານ້ອຍໆຢູ່ນີ້.
+
+38
+00:02:53,150 --> 00:02:59,150
+[NICO]
+That's what you get for not marrying a Sicilian. Sara lets Nico struggle a moment, then takes over.               *
+ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າໄດ້ຮັບ ສໍາ ລັບການບໍ່ແຕ່ງງານຄົນຊີຊີລີ
+. ຊາຣາປ່ອຍໃຫ້ນິກໂກຕໍ່ສູ້ຊົ່ວຄາວ, ຫຼັງຈາກນັ້ນຮັບຜິດຊອບ. *
+
+39
+00:02:59,650 --> 00:03:05,600
+[LUKICH]
+Toscani holds the record... for havin' more relatives under federal indictment than any other cop in Chicago.
+ໂຕສການີຖືບັນທຶກ...
+ສໍາລັບການມີພີ່ນ້ອງຫຼາຍຄົນພາຍໃຕ້ການກ່າວຫາລັດຖະບານກາງກ່ວາຕໍາຫຼວດອື່ນໆໃນຊິຄາໂກ.
+
+40
+00:03:06,100 --> 00:03:12,100
+[BRANCA]
+Look at these stiff dicks. A free meal and they come out like flies. 37   STREET OUTSIDE NICO'S HOUSE - DAY
+ເບິ່ງແມວທີ່ແຂງແຮງເຫຼົ່ານີ້ແມ. ອາຫານຟຣີແລະພວກເຂົາອອກມາຄືກັບແມງໄມ້
+. 37 ຖະຫນົນຫົນທາງນອກເຮືອນຂອງນິກໂກ - ມື້
+
+41
+00:03:12,600 --> 00:03:15,050
+[STROZAH]
+I didn't do nothing, Counselor.    I'm clean.
+ຂ້ອຍບໍ່ໄດ້ເຮັດຫຍັງເລີຍ, ທີ່ປຶກສາ. ຂ້ອຍສະອາດ.
+
+42
+00:03:15,550 --> 00:03:19,050
+[JACKSON]
+Eight more days, Lieutenant. You better start preparing your defense.
+ອີກແປດມື້, ສະຫມັກ. ເຈົ້າຄວນເລີ່ມກະກຽມການປ້ອງກັນຂອງທ່ານ.
+
+43
+00:03:19,550 --> 00:03:22,000
+[HENDERSON]
+Baby, I'm gonna put you on retainer.
+ແມ, ຂ້ອຍຈະເອົາເຈົ້າໃສ່ຜູ້ຮັກສາໄວ້.
+
+44
+00:03:22,500 --> 00:03:28,500
+[LUKICH]
+You passed the bar? I make it a point never to pass the bar. Jackson sees Nico and Sara across the yard, waves and          * starts toward them -- 39   BACK TO BRANCA AND LUIGI
+ເຈົ້າຜ່ານແບຣ໌ບໍ? ຂ້ອຍເຮັດໃຫ້ມັນເປັນຈຸດທີ່ຈະບໍ່ເຄີຍຜ່ານແຊຣ໌ເລີຍ. ແຈກຊອນເຫັນນິກໂກ
+ແລະ ຊາຣາຂ້າມເດີ່ນ, ຄື້ນຟອງແລະ * ເລີ່ມໄປຫາພວກເຂົາ - 39 ກັບຄືນໄປບ່ອນບຣານກາແລະລູຈີ
+
+45
+00:03:29,000 --> 00:03:35,000
+[LUIGI]
+Now this cop.    She can bust me any day. 40   NICK, SARA AND ROSA                             * Jackson comes up, makes a theatrical appreciation of Nico's stylish attire, kisses Sara and greets Nico's mom warmly.      * She starts oohing and ahhing over the baby. 41   VARIOUS SHOTS
+ດຽວນີ້ຕໍາຫຼວດຄົນນີ້. ນາງສາມາດຈັບຂ້ອຍໄດ້ທຸກມື້. 40 ນິກກ໌, ຊາຣາ ແລະ ໂຣຊາ * ແຈກຊັນຂຶ້ນມາ, ເຮັດໃຫ້ການຍ້ອງຍໍລະຄອນຂອງເຄື່ອງນຸ່ງຫົ່ມທີ່ສວຍງາມຂອງນີໂກ
+, ຈູບຊາຣາແລະອວຍພອນແມ່ຂອງນິໂກຢ່າງອົບອຸ່ນ. * ນາງເລີ່ມຮ້ອງໄຫ້ແລະອາຮິງຢູ່ເທິງເດັກນ້ອຍ. 41 ການຍິງທີ່ແຕກຕ່າງກັນ
+
+46
+00:03:35,500 --> 00:03:38,300
+[JACKSON]
+Look at this little bundle.    What a cupcake!
+ເບິ່ງກະດານນ້ອຍໆນີ້ແມ. ຄາບເຄັກຫຼາຍປານໃດ!
+
+47
+00:03:38,800 --> 00:03:44,800
+[NICO]
+You give up being the D.A. and hurry up and find the right fella, Jax. You might have time for one of these yourself.
+ເຈົ້າຢຸດການເປັນໄອຍະການແລະໄວແລະຊອກຫາຜູ້ຊາຍທີ່ຖືກຕ້ອງ,
+ເຈັກສ໌. ເຈົ້າອາດຈະມີເວລາ ສໍາ ລັບ ຫນຶ່ງ ໃນສິ່ງເຫຼົ່ານີ້ເອງ.
+
+48
+00:03:45,300 --> 00:03:47,300
+[NICO]
+Watanabe!   Say hey, Doc.
+ວາຕານາເບ! ສະບາຍດີ, ດອກ.
+
+49
+00:03:47,800 --> 00:03:52,350
+[BRANCA]
+You're a father now. Are you gonna take me up on my offer?
+ເຈົ້າເປັນພໍ່ແລ້ວ. ເຈົ້າຈະຍອມຮັບຂໍ້ສະ ເຫນີ ຂອງຂ້ອຍບໍ?
+
+50
+00:03:52,850 --> 00:03:58,850
+[NICO]
+I'm happy, Branca.    I like what I do. Branca glances seriously to the other uncles, then, with a smile, pats Nico's cheek.
+ຂ້ອຍມີຄວາມສຸກ, Branca. ຂ້ອຍມັກສິ່ງທີ່ຂ້ອຍເຮັດ. Branca
+ເບິ່ງພໍ່ເຖົ້າຄົນອື່ນຢ່າງຈິງໃຈ, ຫຼັງຈາກນັ້ນ, ດ້ວຍຄວາມມ່ວນຊື່ນ, ຕີໃບຫນ້າຂອງນິກໂກ.
+
+51
+00:03:59,350 --> 00:04:05,350
+[BRANCA]
+Look at this face! Six-foot-four, pretty as the statue of David. And he's a cop! Branca laughs. From a distance, Watanabe watches, missing nothing. Across the porch, Lukich and several other cops observe and try to listen.
+ເບິ່ງໃບຫນ້ານີ້ແມ! ຫົກຕີນສີ່ຕີນ, ງາມຄືກັບຮູບປັ້ນຂອງດາວິດ. ແລະລາວເປັນຕໍາຫຼວດ! Branca ມ່ວນຊື່ນ.
+ຈາກໄລຍະຫ່າງໄກ, Watanabe ເບິ່ງ, ຂາດຫຍັງເລີຍ. ຂ້າມໂຊກແຊງ, Lukich ແລະ ຕໍາຫຼວດອື່ນໆຫຼາຍຄົນສັງເກດແລະພະຍາຍາມຟັງ.
+
+52
+00:04:05,850 --> 00:04:11,850
+[BRANCA]
+This face should be sticking up from a white shirt. It should be a banker, a businessman, someone who earns a decent living for his family!
+ໃບຫນ້ານີ້ຄວນໂດດເດັ່ນຈາກເສື້ອຜ້າສີຂາວ. ມັນຄວນເປັນນັກທະນາຄານ,
+ນັກທຸລະກິດ, ຄົນທີ່ມີຊີວິດການເປັນຢູ່ທີ່ ເຫມາະ ສົມ ສໍາ ລັບຄອບຄົວຂອງລາວ!
+
+53
+00:04:12,350 --> 00:04:14,350
+[NICO]
+We're happy.
+ພວກເຮົາມີຄວາມສຸກ.
+
+54
+00:04:14,850 --> 00:04:20,800
+[LUIGI]
+Nickels and dimes. Your wife's a woman with class. What did she run -- a ballet school...?
+ນິກເກວແລະໄມສ໌. ເມຍຂອງທ່ານແມ່ນແມ່ຍິງທີ່ມີຊັ້ນຮຽນ
+. ນາງ ດໍາ ເນີນຫຍັງ - ໂຮງຮຽນບາເລ...?
+
+55
+00:04:21,300 --> 00:04:23,300
+[NICO]
+An art gallery.
+ຫ້ອງວາງສະແດງສິລະປະ.
+
+56
+00:04:23,800 --> 00:04:29,800
+[BRANCA]
+Same thing. She wants a husband who carries a briefcase, not a shoulder holster. Jackson watches Nico trying to keep his good humor. This is serious stuff, despite the light tone. Branca's eyes meet Nico's.
+ຄຸເຂົ່າລົງ
+
+57
+00:04:30,300 --> 00:04:36,300
+[BRANCA]
+You wanted to get shot, you got shot. You wanted to get knifed, you got knifed. You've had your fun. Basta! Enough!
+ເຈົ້າຢາກຖືກຍິງ, ເຈົ້າຖືກຍິງ. ເຈົ້າຢາກໄດ້ຮັບການດອກໄມ້,
+ເຈົ້າໄດ້ຖືກດູດ. ເຈົ້າໄດ້ມ່ວນຊື່ນແລ້ວ. ພຽງແຕ່! ພຽງພໍ!
+
+58
+00:04:36,800 --> 00:04:38,900
+[UNCLE GUISEPPE]
+Let your family help you, Nico.
+ໃຫ້ຄອບຄົວຂອງເຈົ້າຊ່ວຍເຈົ້າ, ນິກໂກ.
+
+59
+00:04:39,400 --> 00:04:45,400
+[NICO]
+Uncle Gio, that kind of help I don't need. I'd rather get shot by someone I don't know. Jackson and Lukich crack up. The others follow.   For the moment, the tension is dispelled.
+ພໍ່ເຖົ້າຈິໂອ, ການຊ່ວຍເຫລືອປະເພດນັ້ນຂ້ອຍບໍ່ຕ້ອງການ. ຂ້ອຍມັກຈະຖືກຍິງໂດຍຄົນທີ່ຂ້ອຍບໍ່ຮູ້ຈັກ
+. ແຈກຊອນແລະລຸກິກສ໌ແຕກຂຶ້ນ. ຄົນອື່ນຕິດຕາມ. ໃນເວລານີ້, ຄວາມເຄັ່ງຕຶງຖືກລົບລ້າງ.
+
+60
+00:04:45,900 --> 00:04:51,900
+[NICO]
+What are you doing in here, Mama? Go join the party... Nico comes down the hall, tucking in his shirt -- stops to give his mother a squeeze. O.S. from the bedroom: the sound of QUIET SOBBING. Nico glances in. 46   INT. NURSERY - DAY                                           * Sara and another woman sit on the bed, comforting a 60-ish   * grandmother Zingaro, who is crying. Nico comes in. He kneels before MRS. ZINGARO, concerned.
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ບ່ອນນີ້, ແມ່? ໄປເຂົ້າຮ່ວມງານລ້ຽງ... ນິກໂກລົງທາງເດີ່ນ, ປິດເສື້ອຜ້າຂອງລາວ - ຢຸດເຊົາເພື່ອໃຫ້ແມ່ຂອງລາວກົດດັນ. O.S ຈາກຫ້ອງນອນ: ສຽງຂອງ SOBBING
+ງຽບສະຫງົບ. ນິໂກເບິ່ງເຂົ້າມາ. 46 INT. ໂຮງຫມໍພະຍາບານ - ມື້ * ຊາຣາແລະແມ່ຍິງຄົນອື່ນນັ່ງຢູ່ເທິງຕຽງ, ສະບາຍໃຈແມ່ເຖົ້າອາຍຸ 60 ປີ * ຊິງກາໂຣ, ຜູ້ທີ່ຮ້ອງໄຫ້. ນິໂກເຂົ້າມາ
+
+61
+00:04:52,400 --> 00:04:58,400
+[NICO]
+Mrs. Z.  Is this a way to act on the day of my son's baptism? The poor woman can't meet Nico's eyes.
+ທ່ານນາງ Z. ນີ້ແມ່ນວິທີທີ່ຈະປະຕິບັດໃນມື້ຂອງການບັບຕິສະມາຂອງລູກຊາຍຂອງຂ້ອຍບໍ
+? ແມ່ຍິງທຸກຍາກບໍ່ສາມາດພົບກັບຕາຂອງນິກໂກໄດ້.
+
+62
+00:04:58,900 --> 00:05:03,450
+[NICO]
+It's that kid from the bar on Damen? The one with the drugs?
+ມັນເປັນເດັກນ້ອຍຄົນນັ້ນຈາກບາໃນ Damen? ຄົນທີ່ມີຢາເສບຕິດບໍ?
+
+63
+00:05:03,950 --> 00:05:09,950
+[NICO]
+Listen to me, Mrs. Z. Are you listening?  I have to go to work now. But I'll come by tonight. You'll be at the bakery?
+ຟັງຂ້ອຍ, ທ່ານນາງ Z. ເຈົ້າຟັງບໍ? ຂ້ອຍຕ້ອງໄປເຮັດວຽກດຽວນີ້
+. ແຕ່ຂ້ອຍຈະມາໃນຄືນນີ້. ເຈົ້າຈະຢູ່ໂຮງງານອົບບໍ?
+
+64
+00:05:10,450 --> 00:05:12,450
+[MRS. ZINGARO]
+Si, Nico.
+ແມ່ນແລ້ວ, ນິກໂກ.
+
+65
+00:05:12,950 --> 00:05:17,150
+[NICO]
+We'll talk, okay? We'll find a way to take care of this.
+ພວກເຮົາຈະເວົ້າກັນ, ດີບໍ?
+ພວກເຮົາຈະຊອກຫາວິທີທີ່ຈະເບິ່ງແຍງເລື່ອງນີ້.
+
+66
+00:05:17,650 --> 00:05:22,900
+[JACKSON]
+Unit Ten Tango X-ray.    We're up and clear. 49   EXT. VARIOUS STREETS - UNMARKED CAR
+ຫນ່ວຍງານສິບແສງ X Tango. ພວກເຮົາຂຶ້ນແລະສະອາດ. 49
+ອອກ. ຖະຫນົນຫົນທາງທີ່ແຕກຕ່າງກັນ - ລົດທີ່ບໍ່ ຫມາຍ
+
+67
+00:05:23,400 --> 00:05:29,400
+[NICO]
+I promised the Lieutenant, I'm gonna take care of you. Broken windows and lost kittens for your last week. WIDEN SHOT to include Nico and Jackson.
+ຂ້ອຍສັນຍາໃຫ້ເລັກຕັນນ໌, ຂ້ອຍຈະເບິ່ງແຍງເຈົ້າ. ປ່ອງຢ້ຽມທີ່ແຕກແລະແມວທີ່ສູນເສຍ
+ສໍາ ລັບອາທິດທີ່ຜ່ານມາຂອງທ່ານ. ການຍິງຢ່າງກວ້າງຂວາງເພື່ອລວມທັງນິກໂກແລະຈັກຊອນ.
+
+68
+00:05:29,900 --> 00:05:35,150
+[JACKSON]
+And then you're gonna come visit me in a nice, clean, air conditioned office --
+ແລະຫຼັງຈາກນັ້ນເຈົ້າຈະມາຢ້ຽມຢາມຂ້ອຍໃນຫ້ອງການທີ່ດີເລີດ
+, ສະອາດ, ອາກາດເຢັນ -
+
+69
+00:05:35,650 --> 00:05:38,450
+[NICO]
+I gotta take a quick leak. Stay put.
+ຂ້ອຍຕ້ອງສູບຢາໄວໆ. ຢູ່ບ່ອນນັ້ນ.
+
+70
+00:05:38,950 --> 00:05:44,200
+[NICO]
+Gentlemen. One Jacket treats him like he doesn't exist, and begins to pick his nose.
+ພວກເຈົ້າ. Jacket ຫນຶ່ງ ຈັດການກັບລາວຄືກັບວ່າລາວບໍ່ມີຢູ່
+, ແລະເລີ່ມເລືອກດັງຂອງລາວ.
+
+71
+00:05:44,700 --> 00:05:50,700
+[FIRST ARMY JACKET]
+I thought this was a kosher bar. They didn't allow no pork in here. The two others snicker, then so does the rest of the bar. Nico holds out a photo of a young girl .
+ຂ້ອຍຄິດວ່ານີ້ເປັນແບຣ໌ໂກເຊີ. ພວກເຂົາບໍ່ອະນຸຍາດໃຫ້ມີຊີ້ນຫມູເຂົ້າມາບ່ອນນີ້. ຄົນອື່ນສອງຄົນ
+snicker, ຫຼັງຈາກນັ້ນຍັງເຮັດສ່ວນທີ່ເຫຼືອຂອງແບຮ໌. ນິກໂກຖືຮູບຂອງເດັກຍິງຫນຸ່ມ.
+
+72
+00:05:51,200 --> 00:05:53,200
+[NICO]
+You seen this girl?
+ເຈົ້າເຫັນເດັກຍິງຄົນນີ້ບໍ?
+
+73
+00:05:53,700 --> 00:05:56,150
+[SECOND ARMY JACKET]
+I seen the top of her head.
+ຂ້ອຍເຫັນເທິງສຸດຂອງຫົວຂອງນາງ.
+
+74
+00:05:56,650 --> 00:05:58,650
+[NICO]
+That's witty.
+ນັ້ນແມ່ນຄວາມມ່ວນຊື່ນ.
+
+75
+00:05:59,150 --> 00:06:01,950
+[NICO]
+Come on.   Show me something. No one moves.
+ມາແລ້ວ. ສະແດງໃຫ້ຂ້ອຍເຫັນບາງສິ່ງບາງຢ່າງ. ບໍ່ມີໃຜເຄື່ອນຍ້າຍ.
+
+76
+00:06:02,450 --> 00:06:05,950
+[NICO]
+I get it.   It's a gay bar.   Is that it?
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ມັນເປັນບາ gay. ນັ້ນແມ່ນມັນບໍ?
+
+77
+00:06:06,450 --> 00:06:12,450
+[NICO]
+You seen the top of her head, huh? Like I seen your mother's --  Or was it yours?  Or yours?  I couldn't tell, it looked like her ass -- Nico rages like a beast.
+ເຈົ້າເຫັນສ່ວນເທິງຂອງຫົວຂອງນາງ, ແມ່ນບໍ? ຄືກັບທີ່ຂ້ອຍເຫັນຂອງແມ່ຂອງເຈົ້າ - ຫຼືມັນເປັນຂອງເຈົ້າບໍ
+? ຫຼືຂອງເຈົ້າ? ຂ້ອຍບໍ່ສາມາດບອກໄດ້, ມັນເບິ່ງຄືວ່າຫລັງຂອງນາງ - ນິກໂກໂຊກຮ້າຍຄືກັບສັດປ່າ.
+
+78
+00:06:12,950 --> 00:06:18,950
+[NICO]
+Come on, motherfuckers.    Do it. Do it! One man -- Nico lunges for the Bad Dude, grabs him like he's about to tear his face off --
+ມາແລ້ວ, ຄົນໂຊກແຊງ. ເຮັດມັນ. ເຮັດໃຫ້ມັນ! ຜູ້ຊາຍຄົນຫນຶ່ງ -
+ນິກໂກລັ່ງໄປຫາຄົນຮ້າຍ, ຈັບລາວຄືກັບວ່າລາວ ກໍາ ລັງຈະຕັດໃບຫນ້າຂອງລາວອອກ -
+
+79
+00:06:19,450 --> 00:06:25,450
+[BAD DUDE]
+Upstairs!  She's upstairs! 4-D! Nico drags the Dude from behind the bar.     Holding him, Nico turns, glowering, to all.
+ເທິງ! ນາງຢູ່ເທິງ! 4-D! ນິກໂກ້ດຶງຄົນຊາຍຈາກຫຼັງແຖບ
+. ຖືລາວ, ນິກັອກຫັນໄປ, ສົດໃສ, ຕໍ່ທຸກຄົນ.
+
+80
+00:06:25,950 --> 00:06:30,150
+[NICO]
+You cocksuckers are brave enough with 14-year-old girls. 55A   INT. FLOPHOUSE HALLWAY
+ພວກເຈົ້າເປັນຄົນສູບທຽນແມ່ນກ້າຫານພໍສົມຄວນກັບເດັກຍິງອາຍຸ
+14 ປີ. 55A INT. FLOPHOUSE HALLWAY
+
+81
+00:06:30,650 --> 00:06:33,450
+[NICO]
+Get outta here. We look in the apartment.
+ອອກຈາກບ່ອນນີ້. ພວກເຮົາເບິ່ງໃນອາພາດເມັນ.
+
+82
+00:06:33,950 --> 00:06:35,950
+[NICO]
+This ain't your day, kid.
+ນີ້ແມ່ນບໍ່ແມ່ນມື້ຂອງເຈົ້າ, ເດັກນ້ອຍ.
+
+83
+00:06:36,450 --> 00:06:39,250
+[PIMP]
+Wait, man.   It ain't like it looks --
+ລໍຖ້າແມ. ມັນບໍ່ແມ່ນຄືກັບວ່າມັນເບິ່ງຄືວ່າ -
+
+84
+00:06:39,750 --> 00:06:45,700
+[NICO]
+That's two years. He jerks the Pimp back, rips open a drawer.    More pills and glacene bags.
+ນັ້ນແມ່ນສອງປີ. ລາວເຮັດໃຫ້ຄົນໂຊກແຊງກັບຄືນໄປບ່ອນ
+, ເປີດກະຕູ້. ເມັດແລະຖົງແກ້ວຫຼາຍຂຶ້ນ.
+
+85
+00:06:46,200 --> 00:06:52,200
+[NICO]
+That's four.  She'll get you eight   more. And I'm just warming up   -- Lucy is crying hysterically. Nico flings the Pimp, face          * bloody, toward the open door.                                    *
+ນັ້ນແມ່ນສີ່. ນາງຈະເອົາອີກແປດຄົນໃຫ້ເຈົ້າ. ແລະຂ້ອຍພຽງແຕ່ອົບອຸ່ນຂຶ້ນ - ລູຊີ ກໍາ
+ລັງຮ້ອງໄຫ້ຢ່າງໂຊກຮ້າຍ. ນິກໂກຖິ້ມຄົນສໍ້ໂກງ, ໃບຫນ້າ * ມີເລືອດ, ໄປສູ່ປະຕູເປີດ. *
+
+86
+00:06:52,700 --> 00:06:55,150
+[PIMP]
+Take it, baby. It's all yours --
+ເອົາມັນແມ. ມັນທັງ ຫມົດ ແມ່ນຂອງເຈົ້າ -
+
+87
+00:06:55,650 --> 00:06:57,650
+[NICO]
+Get your clothes on, Lucy.
+ໃສ່ເຄື່ອງນຸ່ງຫົ່ມຂອງທ່ານ, ລູຊີ.
+
+88
+00:06:58,150 --> 00:07:03,050
+[PIMP]
+There's money. Three grand in the mattress...  ... I can get ya more --
+ມີເງິນຢູ່. ສາມພັນໃນຕູ້...... ຂ້ອຍສາມາດເອົາອີກຫຼາຍ -
+
+89
+00:07:03,550 --> 00:07:05,550
+[STUD]
+Hey, sister, what it be?
+ເຮ້, ເອື້ອຍ, ມັນເປັນຫຍັງ?
+
+90
+00:07:06,050 --> 00:07:08,050
+[LUCY]
+Let him alone! He's beautiful!
+ຢ່າມາຍຸ້ງກັບລາວ! ລາວສວຍງາມ!
+
+91
+00:07:08,550 --> 00:07:14,550
+[NICO]
+Not when I get through with him. Nico lifts the Pimp by the throat, pins him to the wall.
+ບໍ່ແມ່ນເມື່ອຂ້ອຍສິ້ນສຸດກັບລາວ.
+ນິກໂກຍົກຄົນໂຊກແຊງໂດຍຄໍ, ປິດລາວໃສ່ກໍາແພງ.
+
+92
+00:07:15,050 --> 00:07:18,200
+[PIMP]
+No, man, wait! I'll give you something! Something big!
+ບໍ່, ຜູ້ຊາຍ, ລໍຖ້າ! ຂ້ອຍຈະໃຫ້ເຈົ້າບາງຢ່າງ! ບາງສິ່ງບາງຢ່າງໃຫຍ່!
+
+93
+00:07:18,700 --> 00:07:20,700
+[LUCY]
+Please, Nico!    Don't!
+ກະລຸນາ, ນິກໂກ! ຢ່າເຮັດ!
+
+94
+00:07:21,200 --> 00:07:25,400
+[PIMP]
+It's huge! I swear it! A shipment... coming in next Tuesday --
+ມັນໃຫຍ່ຫຼວງ! ຂ້ອຍສາບານໂຕ! ການຂົນສົ່ງ
+... ເຂົ້າມາໃນວັນອັງຄານມື້ອື່ນ -
+
+95
+00:07:25,900 --> 00:07:27,900
+[NICO]
+Shipment, my ass.
+ການຂົນສົ່ງ, ຫລັງຂອງຂ້ອຍ.
+
+96
+00:07:28,400 --> 00:07:34,400
+[PIMP]
+This is square! On my mother's soul! You can't send me up -- Nico glances to Lucy. Half of him wants to tear the Pimp apart, the other half doesn't want to make the poor girl's life any more tragic. Besides, he's a good cop -- and maybe this "shipment" is on the level.
+ນີ້ແມ່ນສີ່ຫຼ່ຽມ! ຕໍ່ຈິດວິນຍານຂອງແມ່ຂອງຂ້ອຍ! ເຈົ້າບໍ່ສາມາດສົ່ງຂ້ອຍຂຶ້ນໄດ້ - ນິກໂກເບິ່ງລູຊີ. ເຄິ່ງຫນຶ່ງຂອງລາວຢາກຕັດຄົນຢອກຊື່ໆ ແຊງ,
+ເຄິ່ງອື່ນບໍ່ຢາກເຮັດໃຫ້ຊີວິດຂອງເດັກຍິງທຸກຍາກຮ້າຍແຮງກວ່າເກົ່າ. ນອກຈາກນັ້ນ, ລາວເປັນຕໍາຫຼວດທີ່ດີ - ແລະບາງທີ"ການຂົນສົ່ງ" ນີ້ຢູ່ໃນລະດັບ.
+
+97
+00:07:34,900 --> 00:07:40,900
+[PIMP]
+I heard it from a hooker friend of mine. She's banging some big coke lawyer, he told her. I swear to Jesus!
+ຂ້ອຍໄດ້ຍິນມັນຈາກເພື່ອນໂຊກແຊງຂອງຂ້ອຍ. ນາງ ກໍາ
+ລັງຈັບທະນາຍຄວາມໂກເກຍໃຫຍ່ບາງຄົນ, ລາວບອກນາງ. ຂ້ອຍສາບານໂຕວ່າພຣະເຢຊູ!
+
+98
+00:07:41,400 --> 00:07:43,400
+[NICO]
+What lawyer?
+ທະນາຍຄວາມໃດ?
+
+99
+00:07:43,900 --> 00:07:49,900
+[PIMP]
+I don't know.  That platinum chola... Carla DeCarlo... she knows. Nico tightens his grip on the Pimp's throat.
+ຂ້ອຍບໍ່ຮູ້. ໂຊລາປລາຕິນຽມນັ້ນ... ຄາລາ ເດຄາລໂລ
+... ນາງຮູ້. ນິກໂກແຫນ້ນແຟ້ນຄໍຂອງຄົນໂຊກແຊງ.
+
+100
+00:07:50,400 --> 00:07:54,600
+[PIMP]
+She got popped this afternoon. She's downtown. Red dress, lizard shoes --
+ຄຸເຂົ່າລົງ
+
+101
+00:07:55,100 --> 00:07:57,550
+[JACKSON]
+It's okay, girl. Mama Jax is here.
+ມັນບໍ່ເປັນຫຍັງ, ເດັກຍິງ. ແມ່ແຈກສ໌ຢູ່ບ່ອນນີ້.
+
+102
+00:07:58,050 --> 00:08:03,650
+[JACKSON]
+That was some leak you took. From the door of the bar, several bloodied heads peek.
+ນັ້ນແມ່ນການຮົ່ວໄຫລບາງຢ່າງທີ່ທ່ານໄດ້ເອົາ
+. ຈາກປະຕູຂອງບາ, ຫົວເລືອດຫຼາຍຄົນເບິ່ງ.
+
+103
+00:08:04,150 --> 00:08:08,700
+[JACKSON]
+Broken windows and lost pussy cats, huh. Jackson checks out her battered partner.
+ປ່ອງຢ້ຽມທີ່ແຕກແລະແມວ pussy ທີ່ສູນເສຍ, ແມ່ນບໍ
+. ແຈກຊັນກວດເບິ່ງຄູ່ຮ່ວມງານທີ່ຖືກຕີຂອງນາງ.
+
+104
+00:08:09,200 --> 00:08:14,450
+[JACKSON]
+You're one crazy bastard, Toscani. Nico opens the rear door, helps Jackson ease Lucy in.
+ເຈົ້າເປັນຄົນໂຊກຮ້າຍຄົນໂສການີ. ນິກໂກເປີດປະຕູຫຼັງ
+, ຊ່ວຍແຈກຊັນເຮັດໃຫ້ລູຊີເຂົ້າມາງ່າຍດາຍ.
+
+105
+00:08:14,950 --> 00:08:20,950
+[NICO]
+We'll get her some clothes and a bath. I'm not bringing her home to her grandmother like this. DISSOLVE TO:
+ພວກເຮົາຈະເອົາເຄື່ອງນຸ່ງຫົ່ມແລະອາບນ້ ໍາ ໃຫ້ນາງ.
+ຂ້ອຍຈະບໍ່ພານາງກັບບ້ານກັບແມ່ເຖົ້າຂອງນາງແບບນີ້. ແກ້ໄຂໃຫ້:
+
+106
+00:08:21,450 --> 00:08:27,450
+[JACKSON]
+I don't get you, Toscani.  What the hell are you doing being a shitheel cop? With your background? For a long moment Nico says nothing.   Then, quietly, look- ing straight ahead:
+ຂ້ອຍບໍ່ເຂົ້າໃຈເຈົ້າ, ໂຕສກາເນຍ. ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງເປັນຕໍາຫຼວດໂຊກແຊງ? ດ້ວຍພື້ນຖານຂອງທ່ານ
+? ເປັນເວລາດົນນານນິກໂກບໍ່ເວົ້າຫຍັງເລີຍ. ຫຼັງຈາກນັ້ນ, ຢ່າງງຽບສະຫງົບ, ເບິ່ງຕໍ່ຫນ້າໂດຍກົງ:
+
+107
+00:08:27,950 --> 00:08:33,950
+[NICO]
+When I was overseas, I saw some things. Things that eat your guts out. Things that stay in front of your eyes like they were burned in and branded. He turns to Jackson.
+ເມື່ອຂ້ອຍຢູ່ຕ່າງປະເທດ, ຂ້ອຍເຫັນບາງສິ່ງບາງຢ່າງ. ສິ່ງບາງຢ່າງທີ່ກິນທ້ອງຂອງທ່ານອອກ.
+ສິ່ງຕ່າງໆທີ່ຢູ່ຕໍ່ຫນ້າຕາຂອງທ່ານຄືກັບວ່າພວກເຂົາຖືກເຜົາໄຫມ້ແລະເຄື່ອງຫມາຍ. ລາວຫັນໄປຫາແຈກຊັນ.
+
+108
+00:08:34,450 --> 00:08:40,450
+[NICO]
+You can walk away from them, Jax. You can quit, but you know it's still going on. You try something anyway --  -- I know I'm not going to change the world. I can't stop the tonnage coming in, I can't fight the boys behind the desks pushing their buttons --
+ເຈົ້າສາມາດຍ່າງຈາກພວກເຂົາໄດ້, ເຈັກສ໌. ເຈົ້າສາມາດຢຸດເຊົາໄດ້, ແຕ່ເຈົ້າຮູ້ວ່າມັນຍັງ ດໍາ ເນີນຢູ່. ເຈົ້າພະຍາຍາມບາງສິ່ງບາງຢ່າງຢ່າງຢ່າງ -
+- ຂ້ອຍຮູ້ວ່າຂ້ອຍຈະບໍ່ປ່ຽນໂລກ. ຂ້ອຍບໍ່ສາມາດຢຸດການເຂົ້າເຖິງໂຕນໄດ້, ຂ້ອຍບໍ່ສາມາດຕໍ່ສູ້ກັບເດັກຊາຍຢູ່ເບື້ອງຫຼັງໂຕະທີ່ກົດປຸ່ມຂອງພວກເຂົາ -
+
+109
+00:08:40,950 --> 00:08:46,950
+[NICO]
+But maybe here, huh?  Maybe in my own city, my own neighborhood, on my own block -- maybe here I can do something.
+ແຕ່ບາງທີຢູ່ນີ້, ແມ່ນບໍ? ບາງທີໃນເມືອງຂອງຂ້ອຍເອງ, ບ້ານໃກ້ຄຽງຂອງຂ້ອຍເອງ
+, ໃນບລັອກຂອງຂ້ອຍເອງ - ບາງທີຢູ່ບ່ອນນີ້ຂ້ອຍສາມາດເຮັດບາງຢ່າງໄດ້.
+
+110
+00:08:47,450 --> 00:08:49,550
+[NICO]
+That's why I'm a shitheel cop.
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍເປັນຕໍາຫຼວດໂຊກຮ້າຍ.
+
+111
+00:08:50,050 --> 00:08:54,600
+[COP]
+You can see your client. As soon as she's through eating her dinner.
+ເຈົ້າສາມາດເຫັນລູກຄ້າຂອງທ່ານໄດ້.
+ທັນທີທີ່ນາງສໍາເລັດການກິນອາຫານຄໍ່າຂອງນາງ.
+
+112
+00:08:55,100 --> 00:08:59,300
+[NICO]
+Carla... Carla -- I just want the name of your boyfriend --
+ຄາຣາ... ຄາລາ - ຂ້ອຍພຽງແຕ່ຢາກມີຊື່ຂອງແຟນຂອງທ່ານ -
+
+113
+00:08:59,800 --> 00:09:05,050
+[CARLA]
+I got 200 boyfriends. The hooker, Carla DeCarlo, slaps the box away, cursing in Spanish.
+ຂ້ອຍມີແຟນຊາຍ 200 ຄົນ. ໂຊກແຊງ, ຄາລາ
+ເດຄາລໂລ, ຕີກ່ອງໄປ, ສາບນາມໃນພາສາສະເປນ.
+
+114
+00:09:05,550 --> 00:09:07,550
+[CARLA]
+Pinchi cabron, cabeza colon!
+ປິນຈີ ຄາບຣອນ, ຫົວຄໍລອນ!
+
+115
+00:09:08,050 --> 00:09:11,900
+[JACKSON]
+Why can't you sons-a-bitches ever treat someone with a little respect?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ສາມາດຮັກສາຄົນໃດດ້ວຍຄວາມເຄົາລົບ
+ຫນ້ອຍ ຫນຶ່ງ ໄດ້?
+
+116
+00:09:12,400 --> 00:09:14,400
+[NICO]
+Take it easy, sister.
+ສະບາຍໃຈ, ເອື້ອຍ.
+
+117
+00:09:14,900 --> 00:09:20,900
+[JACKSON]
+I ain't your goddamn sister.   We ain't got the same mother, motherfucka. Carla fires one final parting salvo of obscenities, then sags back among the women. Carla starts to cry. Jackson comforts her; Carla responds, lets herself be comforted. CUT TO: 66   EXT. DOWNTOWN - FINANCIAL DISTRICT - DAY Jackson, back in her normal daytime wear, exits a building. She gets into Nico's car.
+ຂ້ອຍບໍ່ແມ່ນເອື້ອຍຂອງເຈົ້າ. ພວກເຮົາມີແມ່ດຽວກັນ, ຄົນໂຊກແຊງ. ຄາລາຍິງລະເບີດການແຍກກັນຄັ້ງສຸດທ້າຍ ຫນຶ່ງ ຂອງຄວາມສໍ້ໂກງ, ຫຼັງຈາກນັ້ນຊັກຊ້າກັບຄືນໄປບ່ອນໃນບັນດາແມ່ຍິງ. ກາລາເລີ່ມຮ້ອງໄຫ້
+. ແຈກຊັນບັນເທົາທຸກນາງ; ກາລາຕອບສະ ຫນອງ, ໃຫ້ຕົວເອງໄດ້ຮັບການບັນເທືອນໃຈ. ຕັດອອກໄປ: 66 ອອກຈາກເມືອງ - ເຂດການເງິນ - ວັນແຈກເຊັນ, ກັບຄືນໄປໃນຊຸດປົກກະຕິຂອງມື້, ອອກຈາກອາຄານ. ນາງເຂົ້າ
+
+118
+00:09:21,400 --> 00:09:27,400
+[JACKSON]
+The lawyer's name is Abandano. He's on the third floor. I got a look at him. I couldn't get how he's connected, but according to Carla, he's a lousy lay.
+ຊື່ຂອງທະນາຍຄວາມແມ່ນອາບານດານໂກ້. ລາວຢູ່ຊັ້ນທີສາມ. ຂ້ອຍໄດ້ເບິ່ງລາວ.
+ຂ້ອຍບໍ່ສາມາດເຂົ້າໃຈວ່າລາວເຊື່ອມໂຍງແນວໃດ, ແຕ່ຕາມຄາລາລາ, ລາວເປັນຄົນນອນທີ່ບໍ່ດີ.
+
+119
+00:09:27,900 --> 00:09:33,150
+[NICO]
+Maybe we can bust him for that. Jackson spots something, gestures subtly out window --
+ບາງທີພວກເຮົາສາມາດຈັບລາວໄດ້ ສໍາ ລັບສິ່ງນັ້ນ.
+ແຈກຊັນເຫັນບາງສິ່ງບາງຢ່າງ, ການກະຕຸ້ນຢ່າງລະອຽດອ່ອນອອກຈາກປ່ອງຢ້ຽມ -
+
+120
+00:09:33,650 --> 00:09:35,650
+[JACKSON]
+That's our stud.
+ຄຸເຂົ່າລົງ
+
+121
+00:09:36,150 --> 00:09:40,350
+[SALVANO]
+-- I brought you in for your muscles, Nardo, not your mouth.
+- ຂ້ອຍເອົາເຈົ້າມາເພື່ອກ້າມຊີ້ນຂອງທ່ານ, ນາໂດ, ບໍ່ແມ່ນປາກຂອງທ່ານ.
+
+122
+00:09:40,850 --> 00:09:42,850
+[NARDO]
+I'm sorry, boss.
+ຂ້ອຍຂໍໂທດ, ຫົວຫນ້າ.
+
+123
+00:09:43,350 --> 00:09:48,950
+[SALVANO]
+Your English is getting good... You're showing it off. Showing it off on the street --
+ພາສາອັງກິດຂອງທ່ານ ກໍາ ລັງດີຂຶ້ນ... ເຈົ້າ ກໍາ
+ລັງສະແດງມັນອອກ. ສະແດງມັນອອກໃນຖະຫນົນຫົນທາງ -
+
+124
+00:09:49,450 --> 00:09:52,600
+[NARDO]
+I keep quiet.    I never talk no more --
+ຂ້ອຍງຽບສະຫງົບ. ຂ້ອຍບໍ່ເຄີຍເວົ້າອີກຕໍ່ໄປ -
+
+125
+00:09:53,100 --> 00:09:59,100
+[SALVANO]
+Make yourself useful.  Get downstairs, bring me one of these.  Then get back to work. 75   INT. RESTAURANT BASEMENT STOREROOM - LATE AFTERNOON
+ເຮັດໃຫ້ຕົວເອງເປັນປະໂຫຍດ. ລົງລຸ່ມ, ເອົາສິ່ງເຫຼົ່ານີ້ໃຫ້ຂ້ອຍຫນຶ່ງ.
+ຫຼັງຈາກນັ້ນກັບຄືນໄປບ່ອນເຮັດວຽກ. 75 INT. ຫ້ອງເກັບຮັກສາຊັ້ນລຸ່ມຮ້ານອາຫານ - ຕອນບ່າຍ
+
+126
+00:09:59,600 --> 00:10:03,800
+[NARDO]
+I thought I was dead, man.  I thought I was fucking dead.
+ຂ້ອຍຄິດວ່າຂ້ອຍຕາຍແລ້ວ, ຜູ້ຊາຍ. ຂ້ອຍຄິດວ່າມັນຕາຍແລ້ວ.
+
+127
+00:10:04,300 --> 00:10:06,300
+[CHI CHI]
+You were right, cabron.                            *
+ເຈົ້າເວົ້າຖືກຕ້ອງ, ຄາບຣອນ. *
+
+128
+00:10:06,800 --> 00:10:12,050
+[SALVANO]
+Clean up this mess. CHI CHI                                  * Who knows who else is talking --                       *
+ສະອາດຄວາມສັບສົນນີ້. CHI CHI * ໃຜຮູ້ວ່າໃຜອີກຄົນໃດ ກໍາ ລັງເວົ້າ - *
+
+129
+00:10:12,550 --> 00:10:17,450
+[CHI CHI]
+We're crazy waiting for this bullshit 'shipment.' Let me waste the other fucker now.
+ພວກເຮົາໂຊກຮ້າຍລໍຖ້າ'ການຂົນສົ່ງ' ນີ້
+. ຂໍໃຫ້ຂ້ອຍ ທໍາ ລາຍຄົນອື່ນດຽວນີ້.
+
+130
+00:10:17,950 --> 00:10:22,500
+[SALVANO]
+Be patient. This will be done the way it was planned. CUT TO:
+ຈົ່ງອົດທົນ. ນີ້ແມ່ນຈະເຮັດຕາມວິທີທີ່ວາງແຜນໄວ້. ຕັດອອກ:
+
+131
+00:10:23,000 --> 00:10:25,800
+[JACKSON]
+Toscani, you're going to have me doing time.
+ໂຕສການີ, ເຈົ້າຈະເຮັດໃຫ້ຂ້ອຍຖືກລົງໂທດ.
+
+132
+00:10:26,300 --> 00:10:29,450
+[NICO]
+Lighten up, Jax. No one's bringing this into court.
+ສະບາຍໃຈ, ເຈັກສ໌. ບໍ່ມີໃຜຈະ ນໍາ ເລື່ອງນີ້ໄປສານ.
+
+133
+00:10:29,950 --> 00:10:31,950
+[JACKSON]
+Except against us.
+ຍົກເວັ້ນຕໍ່ຕ້ານພວກເຮົາ.
+
+134
+00:10:32,450 --> 00:10:38,450
+[NICO]
+I don't give a shit how we do it. I just wanna get there. Jackson gives Nico a dirty look, but stifles her protest.
+ຂ້ອຍບໍ່ສົນໃຈວ່າພວກເຮົາເຮັດແນວໃດ. ຂ້ອຍພຽງແຕ່ຢາກໄປບ່ອນນັ້ນ
+. ແຈກຊອນເບິ່ງນິກໂກຢ່າງເປື້ອນ, ແຕ່ບິດການປະທ້ວງຂອງນາງ.
+
+135
+00:10:38,950 --> 00:10:44,950
+[JACKSON]
+I thought you said you were gonna protect me. Cover my butt. Be my guardian angel -- Nico hears something through the earphones.    Gestures for silence -- 80   ANGLE THROUGH OFFICE WINDOW Chi Chi listens with increased intensity to something on the phone. He starts writing it down -- 81   BACK TO NICO In unmarked car.   He's writing it down too.
+ຂ້ອຍຄິດວ່າເຈົ້າບອກວ່າເຈົ້າຈະປົກປ້ອງຂ້ອຍ. ປົກຄຸມບາກຂອງຂ້ອຍ. ເປັນເທວະດາປົກປ້ອງຂອງຂ້ອຍ - ນິກໂກໄດ້ຍິນບາງສິ່ງບາງຢ່າງຜ່ານຫູຟັງ. ການກະຕຸ້ນ ສໍາ ລັບຄວາມງຽບສະຫງົບ - 80
+ມຸມຜ່ານປ່ອງຢ້ຽມຫ້ອງການ Chi Chi ຟັງດ້ວຍຄວາມເຂັ້ມແຂງເພີ່ມຂຶ້ນບາງຢ່າງໃນໂທລະສັບ. ລາວເລີ່ມຕົ້ນຂຽນມັນລົງ - 81 ກັບຄືນໄປບ່ອນນິກໂກ້ໃນລົດທີ່ບໍ່ມີເຄື່ອງ ຫມາຍ. ລາວ ກໍາ ລັງຂຽນມັນໄວ້ເຊັ່ນກັນ.
+
+136
+00:10:45,450 --> 00:10:47,450
+[NICO]
+I got the shipment.                                  *
+ຂ້ອຍໄດ້ສົ່ງສິນຄ້າແລ້ວ. *
+
+137
+00:10:47,950 --> 00:10:49,950
+[JACKSON]
+What?    What's he saying?
+ຫຍັງ? ລາວເວົ້າຫຍັງ?
+
+138
+00:10:50,450 --> 00:10:56,050
+[NICO]
+'... Engine block has cleared customs. Serial number VA-748. Pick up Tuesday, 3 May as authorized.'
+ບລັອກເຄື່ອງຈັກໄດ້ຜ່ານພາສີແລ້ວ. ເລກຊຸດ VA-748.
+ເອົາວັນອັງຄານ, ວັນທີ 3 ພຶດສະພາຕາມທີ່ອະນຸຍາດ.
+
+139
+00:10:56,550 --> 00:11:00,050
+[NICO]
+Unit Ten Tango X-ray. I need a vehicle registration I.D.
+ຂ້ອຍຕ້ອງການໃບຢັ້ງຢືນທະບຽນຍານພາຫະນະ.
+
+140
+00:11:00,550 --> 00:11:02,550
+[POLICE RADIO]
+Go ahead, please.
+ໄປກ່ອນ, ກະລຸນາ.
+
+141
+00:11:03,050 --> 00:11:05,500
+[NICO]
+'86 Lincoln.    Illinois 354 Dog '67.                *
+ປີ 86 ລິນຄອນ. Illinois 354 ຫມາປີ 67. *
+
+142
+00:11:06,000 --> 00:11:12,000
+[POLICE RADIO]
+Vehicle registration follows. Leaseholder: Ramon Testamente, registered alien. Nation of origin: Venezuela. Do you wish criminal record search?
+ການຈົດທະບຽນລົດແມ່ນຕໍ່ໄປນີ້. ເຈົ້າເຊົ່າ: ຣາມອນ ເຕສເຕມານເຕ, ຄົນຕ່າງດ້າວທີ່ຈົດ
+ທະບຽນ. ປະເທດທີ່ມາຈາກ: ເວເນຊູເອລາ. ເຈົ້າຢາກຄົ້ນຫາບັນທຶກອາຊະຍາກໍາບໍ?
+
+143
+00:11:12,500 --> 00:11:18,500
+[NICO]
+I want to know when he wipes his                     * behind.                                              * 85   SERIES OF SHOTS As Nico and Jackson tail the Lincoln out of the industrial zone into a fancier, non-Latin neighborhood. On the sidewalks we glimpse theatergoers, fashionable white couples out on the town. 86   LINCOLN
+ຂ້ອຍຢາກຮູ້ວ່າລາວຈະລ້າງ * ຫລັງຂອງລາວເມື່ອໃດ. * 85 ຊຸດການຍິງໃນຂະນະທີ່ນິກໂກ ແລະ ແຈກຊັນຕິດຕາມລິນຄອນອອກຈາກເຂດອຸດສາຫະ ກໍາ
+ເຂົ້າໄປໃນເຂດບ້ານທີ່ສວຍງາມກວ່າ, ທີ່ບໍ່ແມ່ນລາຕິນ. ໃນຖະຫນົນຫົນທາງພວກເຮົາເຫັນຄົນໄປໂຮງລະຄອນ, ຄູ່ຜົວເມຍສີຂາວທີ່ທັນສະໄຫມຢູ່ເມືອງ. 86 ລິນຄອນ
+
+144
+00:11:19,000 --> 00:11:21,000
+[JACKSON]
+Salvano?
+ແຊລວານໍ?
+
+145
+00:11:21,500 --> 00:11:23,500
+[NICO]
+Jackpot.
+ຈັກໂພຕ໌.
+
+146
+00:11:24,000 --> 00:11:26,000
+[HOSTESS]
+Two for dinner?
+ສອງຄົນກິນອາຫານຄໍ່າບໍ?
+
+147
+00:11:26,500 --> 00:11:32,500
+[NICO]
+Two for drinks. They elbow up to the packed bar, standing.   Nico squints toward the rear dining room.
+ສອງຄົນ ສໍາ ລັບເຄື່ອງດື່ມ. ພວກເຂົາເອົາມືຂຶ້ນໄປຫາແຖບທີ່ເຕັມໄປດ້ວຍຄົນ
+, ຢືນຢູ່. ນິກໂກສ໌ສ່ອງແສງໄປສູ່ຫ້ອງກິນອາຫານດ້ານຫຼັງ.
+
+148
+00:11:33,000 --> 00:11:35,100
+[JACKSON]
+Gimme something stiff.   I need it.
+ໃຫ້ຂ້ອຍບາງສິ່ງບາງຢ່າງທີ່ແຂງແຮງ. ຂ້ອຍຕ້ອງການມັນ.
+
+149
+00:11:35,600 --> 00:11:37,600
+[BARMAID]
+Who doesn't?
+ໃຜບໍ່ຮູ້?
+
+150
+00:11:38,100 --> 00:11:43,000
+[NICO]
+You'll have your engine block next Tuesday, boss. 93   BACK TO NICO AND JACKSON
+ເຈົ້າຈະມີໂບລກເຄື່ອງຈັກຂອງທ່ານໃນວັນອັງຄານມື້ອື່ນ
+, ຫົວຫນ້າ. 93 ກັບຄືນໄປບ່ອນນິກໂກແລະແຈກສັນ
+
+151
+00:11:43,500 --> 00:11:49,500
+[JACKSON]
+Why couldn't it be a week from Tuesday? I could read about it in the paper. Nico grabs her waist, pulls her onto the dance floor, and does a playful twirl.
+ເປັນຫຍັງມັນບໍ່ສາມາດເປັນອາທິດ ຫນຶ່ງ ຈາກວັນອັງຄານ? ຂ້ອຍສາມາດອ່ານກ່ຽວກັບມັນໃນຫນັງສືພິມໄດ້
+. ນິກໂກຈັບແອວຂອງນາງ, ດຶງນາງລົງພື້ນເຕັ້ນ, ແລະເຮັດການຫມູນວຽນທີ່ຫຼິ້ນ.
+
+152
+00:11:50,000 --> 00:11:52,800
+[NICO]
+Cheer up, partner.   I'm gonna make you famous.
+ສະບາຍດີ, ຄູ່ຮ່ວມງານ. ຂ້ອຍຈະເຮັດໃຫ້ເຈົ້າມີຊື່ສຽງ.
+
+153
+00:11:53,300 --> 00:11:55,400
+[JACKSON]
+You missed a few spots, boys.
+ເຈົ້າພາດຈຸດບາງຢ່າງ, ເດັກຊາຍ.
+
+154
+00:11:55,900 --> 00:11:58,700
+[LUKICH]
+I'm takin' it home t'a make kilbasa, boss.
+ຂ້ອຍຈະເອົາມັນກັບບ້ານເພື່ອເຮັດກິລບາຊາ, ຫົວຫນ້າ.
+
+155
+00:11:59,200 --> 00:12:02,000
+[LUKICH]
+This ain't a bust -- it's a convention.
+ນີ້ແມ່ນບໍ່ແມ່ນການຈັບກຸມ - ມັນແມ່ນກອງປະຊຸມໃຫຍ່.
+
+156
+00:12:02,500 --> 00:12:08,500
+[NICO]
+Don't you like company, Luke?  We got all the scouts here -- Drug Enforcement Agency, the Alcohol, Tobacco and Firearms --
+ເຈົ້າບໍ່ມັກບໍລິສັດບໍ, ລຸກ? ພວກເຮົາມີນັກສະກູທັງ ຫມົດ ຢູ່ບ່ອນນີ້
+- ອົງການບັງຄັບໃຊ້ຢາເສບຕິດ, ເຫຼົ້າເຫຼົ້າ, ຢາສູບແລະອາວຸດໄຟ -
+
+157
+00:12:09,000 --> 00:12:15,000
+[WALKIE-TALKIE]
+Keep this channel clear, Toscani. We realize Nico, Jackson and Lukich are wired, with mikes out of sight under their coats. Nico glances to the pick- up, near to which three men can be spotted in the alley. Apparently one of them is the walkie-talkie voice.
+ຮັກສາຊ່ອງທາງນີ້ໃຫ້ສະອາດ, ໂຕສການີ. ພວກເຮົາຮູ້ວ່ານິກໂກ, ແຈກຊອນ ແລະ ລູຊິຈ໌ມີສາຍໄຟ, ມີໄມຄ໌ອອກຈາກສາຍຕາພາຍໃຕ້ເສື້ອຜ້າຂອງພວກເຂົາ.
+ນິກໂກ້ເບິ່ງເຄື່ອງເກັບເອົາ, ໃກ້ກັບທີ່ຜູ້ຊາຍສາມຄົນສາມາດເຫັນໄດ້ໃນຖະຫນົນຫົນທາງ. ເບິ່ງຄືວ່າ ຫນຶ່ງ ໃນນັ້ນແມ່ນສຽງ walkie-talkie.
+
+158
+00:12:15,500 --> 00:12:18,300
+[NICO]
+This is our channel, dickhead. And our collar.
+ນີ້ແມ່ນຊ່ອງທາງຂອງພວກເຮົາ, ຄົນໂຊກຮ້າຍ. ແລະຄໍຂອງພວກເຮົາ.
+
+159
+00:12:18,800 --> 00:12:21,950
+[ANOTHER WALKIE-TALKIE]
+That's enough, all of you! Keep this channel clear.
+ນັ້ນພຽງພໍ, ທຸກຄົນ! ຮັກສາຊ່ອງທາງນີ້ສະອາດ.
+
+160
+00:12:22,450 --> 00:12:28,450
+[JACKSON]
+'... And so I quit the police department... got myself a steady job -- ' The van accelerates slightly, turns a corner, vanishes. Silence. LUKICH                                * They spotted me. I'm too good- looking to be a meat slopper.                       * Will you hot dogs shut up? The van returns.   On a cross street.   Heading behind the packing plant.
+ແລະດັ່ງນັ້ນຂ້ອຍອອກຈາກພະແນກຕໍາຫຼວດ... ໄດ້ຮັບວຽກທີ່ ຫມັ້ນ ຄົງຕົວເອງ - ລົດບັນທຸກເລັ່ງເລັກນ້ອຍ, ຫັນມຸມ, ສູນຫາຍໄປ. ຄວາມງຽບສະຫງົບ. LUKICH *
+ພວກເຂົາເຫັນຂ້ອຍ. ຂ້ອຍດີເກີນໄປ - ຊອກຫາເປັນຄົນລ້າງຊີ້ນ. * ເຈົ້າຈະງຽບຫູຮ້ອນບໍ? ລົດບັນຈຸກັບມາ. ໃນຖະຫນົນຂ້າມທາງ. ໄປຢູ່ເບື້ອງຫຼັງໂຮງງານຫຸ້ມຫໍ່.
+
+161
+00:12:28,950 --> 00:12:32,800
+[NICO]
+Here we go, boys and girls --  You stay put.                                       *
+ມາແລ້ວ, ເດັກຊາຍແລະເດັກຍິງ - ເຈົ້າຢູ່ບ່ອນນັ້ນ. *
+
+162
+00:12:33,300 --> 00:12:39,300
+[NICO]
+It's going down now. Move! 103   EXT. REAR OF PACKING PLANT - DAY The station wagon men heave their rear door open, the van men start to open their side door. The Lincoln is stopped at a distance. Suddenly -- 104   NICO AND LUKICH burst from the rear door of the packing plant, guns drawn.
+ມັນ ກໍາ ລັງລົງດຽວນີ້. ເຄື່ອນຍ້າຍ! 103 ອອກຈາກດ້ານຫຼັງຂອງໂຮງງານຫຸ້ມຫໍ່ - ມື້ຜູ້ຊາຍລົດຖີບສະຖານີຍົກປະຕູຫຼັງຂອງພວກເຂົາເປີດ,
+ຜູ້ຊາຍລົດບັນທຸກເລີ່ມຕົ້ນເປີດປະຕູຂ້າງຂອງພວກເຂົາ. ລິນຄອນຖືກຢຸດຢູ່ຫ່າງໄກ. ທັນທີ - 104 NICO ແລະ LUKICH ລະເບີດຈາກປະຕູຫລັງຂອງໂຣງງານຫ້າຫໍ່, ປືນດຶງ.
+
+163
+00:12:39,800 --> 00:12:45,050
+[LUKICH]
+Police! 105   QUICK CUTS - VAN AND STATION WAGON MEN grab for their weapons --
+ຕໍາຫຼວດ! 105 ການຕັດໄວ -
+ລົດຖີບແລະລົດຖີບສະຖານີຜູ້ຊາຍຈັບອາວຸດຂອງພວກເຂົາ -
+
+164
+00:12:45,550 --> 00:12:47,550
+[LUKICH]
+Nico!   The Lincoln!
+ນິກໂກ! ລິນຄອນ!
+
+165
+00:12:48,050 --> 00:12:54,050
+[NICO]
+How many kilos you got in there, Skivuzo? Salvano couldn't answer if he wanted to. The other cops look at Nico with awe. Lukich whips the van door open, yanks a tarp off the cargo. 123   INT. VAN The engine block sits in a wooden shipping frame, wrapped with industrial plastic. Nico climbs into the van, rips the plastic sheeting off, grabs the wood slats of the shipping frame, tears them off. In the background, ambulances are arriving to care for the wounded cops and criminals.
+ຄຸເຂົ່າລົງ
+
+166
+00:12:54,550 --> 00:12:57,350
+[NICO]
+What kinda fuckin' high is this? CUT TO:
+ນີ້ແມ່ນສູງປານໃດ? ຕັດອອກ:
+
+167
+00:12:57,850 --> 00:13:02,050
+[SALVANO]
+-- I'll tell you what this cop is. He's a fucking menace!
+- ຂ້ອຍຈະບອກເຈົ້າວ່າຕໍາຫຼວດຄົນນີ້ເປັນຫຍັງ. ລາວເປັນໄພຂົ່ມຂູ່!
+
+168
+00:13:02,550 --> 00:13:05,000
+[SALVANO]
+You see what he did to me?!
+ເຈົ້າເຫັນວ່າລາວເຮັດຫຍັງກັບຂ້ອຍບໍ?
+
+169
+00:13:05,500 --> 00:13:09,000
+[AGENT HALLORAN]
+Your problem is being handled right now, Mr. Salv --
+ບັນຫາຂອງທ່ານ ກໍາ ລັງຖືກຈັດການໃນເວລານີ້, ທ້າວ Salv -
+
+170
+00:13:09,500 --> 00:13:15,500
+[SALVANO]
+Yeah? Well, it shoulda been handled twelve hours ago. I don't know who's running this outfit, but somebody better get his goddamn wires straight! AGENT NEELEY                           *  -- yes, sir... yes, sir, I understand --
+ແມ່ນແລ້ວ? ດີ, ມັນຄວນຖືກຈັດການເມື່ອສິບສອງຊົ່ວໂມງກ່ອນ. ຂ້ອຍບໍ່ຮູ້ວ່າໃຜ ກໍາ ລັງ ດໍາ ເນີນງານຊຸດນີ້,
+ແຕ່ບາງຄົນຄວນເຮັດໃຫ້ສາຍໄຟຂອງລາວກົງກັນຂ້າມ! ຕົວແທນນີລີ * - ແມ່ນແລ້ວ, ທ້າວ... ແມ່ນແລ້ວທ້າວ, ຂ້ອຍເຂົ້າໃຈ -
+
+171
+00:13:16,000 --> 00:13:22,000
+[SALVANO]
+That maniac should be wearing a number, not a badge. Salvano knows what the call is about. He straightens the tie beneath his bruised neck, assuming the attitude of a respectable citizen who has been unjustly wronged. AGENT NEELEY                           *  -- count on it, sir. Right. You'll have our full cooperation. Neeley hangs up. Glances dubiously to Halloran. Then turns     * grimly to Salvano, Chi Chi and the lawyer Abandano.
+ຄົນໂຊກຮ້າຍນັ້ນຄວນໃສ່ເລກ, ບໍ່ແມ່ນປ້າຍ. ຊາລວານໍຮູ້ວ່າການໂທຫາແມ່ນຫຍັງ. ລາວເຮັດໃຫ້ສາຍແອວຢູ່ພາຍໃຕ້ຄໍທີ່ບາດເຈັບຂອງລາວ, ຖືວ່າທັດສະນະຂອງພົນລະເມືອງທີ່ເຄົາລົບທີ່ຖືກ ທໍາ ຄວາມຜິດຢ່າງບໍ່ຍຸຕິທໍາ
+. ຕົວແທນນີລີ * - ຄິດໄລ່ມັນ, ທ້າວ. ແມ່ນແລ້ວ. ເຈົ້າຈະມີການຮ່ວມມືຢ່າງເຕັມທີ່ຂອງພວກເຮົາ. ນີລີປິດ. ເບິ່ງ Halloran ຢ່າງສົງໄສ. ຫຼັງຈາກນັ້ນຫັນໄປຫາ Salvano, Chi Chi ແລະທະນາຍຄວາມ Abandano
+
+172
+00:13:22,500 --> 00:13:28,500
+[LIEUTENANT STROZAH]
+-- This is no reflection on the work you officers have done. I feel, and the whole department feels, extremely proud of your initiative and gallantry. That "spare me the horseshit" look on Nico's face. He's fuming. Strozah sees Nico's bitter expression. It's on the others' faces too.
+- ນີ້ແມ່ນບໍ່ແມ່ນການສະທ້ອນກ່ຽວກັບວຽກງານທີ່ທ່ານເຈົ້າຫນ້າທີ່ໄດ້ເຮັດ. ຂ້ອຍຮູ້ສຶກ, ແລະພະແນກທັງ ຫມົດ ຮູ້ສຶກ, ມີຄວາມພາກພູມໃຈຫຼາຍຕໍ່ການລິເລີ່ມແລະຄວາມກ້າຫານຂອງທ່ານ
+. ນັ້ນ"ປະຢັດຂ້ອຍຢອກຊື່ໆກະຊ່າ" ເບິ່ງໃບຫນ້າຂອງນິກໂກ. ລາວ ກໍາ ລັງສູບຢາ. ສຕຣູຊາເຫັນການສະແດງຄວາມກຽດແຄ້ນຂອງ ນິກໂກ້. ມັນຢູ່ໃນໃບ ຫນ້າ ຂອງຄົນອື່ນເຊັ່ນກັນ.
+
+173
+00:13:29,000 --> 00:13:35,000
+[LIEUTENANT STROZAH]
+As all of you   are well aware, possession of   these explosives is a federal   offense and under jurisdiction   of the F.B.I. Nico's eyes meet Lieutenant Strozah's. There's respect between the two, but it's plainly under a helluva strain.
+ດັ່ງທີ່ເຈົ້າທຸກຄົນຮູ້ດີ, ການເປັນເຈົ້າຂອງສິ່ງລະເບີດເຫຼົ່ານີ້ແມ່ນອາຊະຍາກໍາລັດຖະບານກາງແລະພາຍໃຕ້ອໍານາດການປົກຄອງຂອງ
+FBI. ຕາຂອງນິກໂກພົບກັບຂອງເລັກຕັນສຕຣູຊາ. ມີຄວາມເຄົາລົບລະຫວ່າງທັງສອງ, ແຕ່ມັນຢູ່ໃນຄວາມກົດດັນ helluva ຢ່າງຈະແຈ້ງ.
+
+174
+00:13:35,500 --> 00:13:41,500
+[NICO]
+Sir. With all respect to our brothers in the Bureau --                             * -- That's no answer. It's no answer to why one of the biggest dealers in the city is out on the street now, free as a bird!
+ເຈົ້າ. ດ້ວຍຄວາມເຄົາລົບທັງ ຫມົດ ຕໍ່ອ້າຍນ້ອງຂອງພວກເຮົາໃນຫ້ອງການ - * - ນັ້ນບໍ່ແມ່ນຄໍາຕອບ. ມັນບໍ່ແມ່ນ
+ຄໍາ ຕອບວ່າເປັນຫຍັງ ຫນຶ່ງ ໃນຜູ້ຂາຍໃຫຍ່ທີ່ສຸດໃນເມືອງແມ່ນຢູ່ຖະຫນົນຫົນທາງດຽວນີ້, ຟຣີຄືກັບນົກ!
+
+175
+00:13:42,000 --> 00:13:48,000
+[LIEUTENANT STROZAH]
+Keep it in your pants, Nico. These men have a job to do, just like us. Nico stifles his outrage. The other cops exchange glances -- upset and angry. Agent Neeley clears his throat.          *
+ຮັກສາມັນໄວ້ໃນກະເປົ໋າຂອງທ່ານ, ນິກໂກ. ຜູ້ຊາຍເຫຼົ່ານີ້ມີວຽກເຮັດງານທໍາທີ່ຈະເຮັດ, ຄືກັບພວກເຮົາ.
+ນິໂກຄວບຄຸມຄວາມໂຊກຮ້າຍຂອງລາວ. ຕໍາຫຼວດຄົນອື່ນແລກປ່ຽນຕາ - ໂຊກແຊງແລະໂຊມຮ້າຍ. ຕົວແທນນີລີ ທໍາ ຄວາມສະອາດຄໍຂອງລາວ. *
+
+176
+00:13:48,500 --> 00:13:52,700
+[AGENT NEELEY]
+They've risked their lives. I understand one man is in the hospital.
+ພວກເຂົາໄດ້ສ່ຽງຊີວິດຂອງພວກເຂົາ.
+ຂ້ອຍເຂົ້າໃຈວ່າຜູ້ຊາຍຄົນ ຫນຶ່ງ ຢູ່ໂຮງຫມໍ.
+
+177
+00:13:53,200 --> 00:13:55,200
+[LIEUTENANT STROZAH]
+The tapes too.
+ຖ່າຍທອດເຊັ່ນກັນ.
+
+178
+00:13:55,700 --> 00:13:57,700
+[NICO]
+That's my Lawrence Welk collection!
+ນັ້ນແມ່ນການເກັບກໍາຂອງໂລຣັນສ໌ ເວລກ໌ຂອງຂ້ອຍ!
+
+179
+00:13:58,200 --> 00:14:04,200
+[LIEUTENANT STROZAH]
+I want everything you got on this one. Reluctantly, Nico hands over the tapes.   The Lieutenant eyes the bugs and wires.
+ຂ້ອຍຢາກທຸກຢ່າງທີ່ທ່ານມີກ່ຽວກັບເລື່ອງນີ້. ບໍ່ຢາກ
+, ນິກໂກມອບເທບຕ່າງໆ. ສະຫມັກເບິ່ງແມງໄມ້ແລະສາຍໄຟ.
+
+180
+00:14:04,700 --> 00:14:10,700
+[LIEUTENANT STROZAH]
+I know you don't give a shit about yourself, Toscani.  But you're gonna put Jackson's ass in a sling, too, with these illegal wires.
+ຂ້ອຍຮູ້ວ່າເຈົ້າບໍ່ສົນໃຈຕົວເອງ, ໂຕສກາເນຍ.
+ແຕ່ເຈົ້າຈະເອົາບາກຂອງແຈກຊອນໃສ່ກະດານກະຕູ້ເຊັ່ນກັນ, ດ້ວຍສາຍຜິດກົດຫມາຍເຫຼົ່ານີ້.
+
+181
+00:14:11,200 --> 00:14:17,200
+[AGENT HALLORAN]
+What's the story on your partner, Jackson? Did he learn this style or was he born with a brick up his ass? Jackson checks Halloran out. He's black too and, despite herself, there's a certain rapport.
+ຄຸເຂົ່າລົງ
+
+182
+00:14:17,700 --> 00:14:20,850
+[JACKSON]
+He has ethics. Unlike certain others on this case.
+ລາວມີສິນທໍາ. ບໍ່ຄືກັບຄົນອື່ນບາງຄົນໃນກໍລະນີນີ້.
+
+183
+00:14:21,350 --> 00:14:25,200
+[AGENT HALLORAN]
+His 'ethics' are gonna cost him his badge and his gun.
+ຄວາມ'ສິນທໍາ' ຂອງລາວຈະເຮັດໃຫ້ລາວເສຍປ້າຍແລະປືນຂອງລາວ.
+
+184
+00:14:25,700 --> 00:14:30,250
+[JACKSON]
+You don't wanna catch him without no gun. Halloran's look asks why not?
+ເຈົ້າບໍ່ຢາກຈັບລາວໂດຍບໍ່ມີປືນ. ການເບິ່ງຂອງຮາລໍານຖາມວ່າເປັນຫຍັງບໍ່?
+
+185
+00:14:30,750 --> 00:14:34,950
+[JACKSON]
+'Cause what he do with his hands... make bullet holes look pretty.
+ເພາະວ່າສິ່ງທີ່ລາວເຮັດດ້ວຍມືຂອງລາວ... ເຮັດໃຫ້ຮູລູກປືນເບິ່ງສວຍງາມ.
+
+186
+00:14:35,450 --> 00:14:37,450
+[AGENT HALLORAN]
+He bad?
+ລາວບໍ່ດີບໍ?
+
+187
+00:14:37,950 --> 00:14:39,950
+[JACKSON]
+Bad bad.
+ໂຊກຮ້າຍ.
+
+188
+00:14:40,450 --> 00:14:45,000
+[JACKSON]
+Is that enough? Can we do something normal now -- like eat lunch?
+ມັນພຽງພໍບໍ? ພວກເຮົາສາມາດເຮັດບາງສິ່ງບາງຢ່າງປົກກະຕິໄດ້ດຽວນີ້
+- ເຊັ່ນກິນອາຫານທ່ຽງບໍ?
+
+189
+00:14:45,500 --> 00:14:47,950
+[NICO]
+Anything you say, Jax.   How about Salvano's?
+ທຸກຢ່າງທີ່ທ່ານເວົ້າ, Jax. ຈະເປັນແນວໃດກັບຂອງ Salvano ໄດ້?
+
+190
+00:14:48,450 --> 00:14:50,450
+[JACKSON]
+Let it be, Nico.
+ໃຫ້ມັນເປັນ, ນິກໂກ.
+
+191
+00:14:50,950 --> 00:14:56,950
+[JACKSON]
+What... you kept his tape, too? Nico already has it in the PLAYER. We hear FRAGMENTS of the telephone tap from the body shop in Spanish and English. Jackson looks frustrated. Nico listens care- fully to what appears to be the taped PHONE CONVERSATION.
+ຫຍັງ... ເຈົ້າຍັງຮັກສາເທບຂອງລາວເຊັ່ນກັນບໍ? ນິກໂກມີມັນຢູ່ໃນ PLAYER ແລ້ວ. ພວກເຮົາໄດ້ຍິນສິ້ນສ່ວນຂອງກະດານໂທລະສັບຈາກຮ້ານຂາຍຮ່າງກາຍໃນພາສາສະເປນແລະພາສາອັງກິດ
+. ແຈກຊັນເບິ່ງຄືວ່າໂຊກຮ້າຍ. ນິໂກຟັງຢ່າງລະມັດລະວັງ - ຢ່າງເຕັມທີ່ກັບສິ່ງທີ່ປາກົດວ່າເປັນການສົນທະນາໂທລະສັບທີ່ຖືກບັນທຶກໄວ້.
+
+192
+00:14:57,450 --> 00:15:00,950
+[NICO]
+Poetry, ain't it? 140   EXT. REAR SALVANO'S RESTAURANT - DAY
+ເປັນກະວີ, ແມ່ນບໍ? 140 ອອກ. ຮ້ານອາຫານຂອງຊານວານໍຫຼັງ - ມື້
+
+193
+00:15:01,450 --> 00:15:03,450
+[NICO]
+And now for some dessert.
+ແລະດຽວນີ້ສໍາລັບອາຫານຫວານບາງຢ່າງ.
+
+194
+00:15:03,950 --> 00:15:09,200
+[NICO]
+And that must be Mrs. Sal. So nice to see married couples still in love.
+ແລະນັ້ນຕ້ອງເປັນທ່ານນາງຊັລ.
+ດີໃຈຫຼາຍທີ່ເຫັນຄູ່ຜົວເມຍທີ່ແຕ່ງງານຍັງຮັກກັນຢູ່.
+
+195
+00:15:09,700 --> 00:15:12,150
+[JACKSON]
+This is your mother's church, isn't it?
+ນີ້ແມ່ນສາດສະຫນາຈັກຂອງແມ່ເຈົ້າ, ແມ່ນບໍ?
+
+196
+00:15:12,650 --> 00:15:17,900
+[NICO]
+Yeah. But I bet she's never seen these boys in the choir. 150    NICO'S POV
+ແມ່ນແລ້ວ. ແຕ່ຂ້ອຍແນ່ໃຈວ່ານາງບໍ່ເຄີຍເຫັນພວກເດັກຊາຍເຫຼົ່ານີ້ໃນໂຊກແຊງ
+. 150 POV ຂອງນິກໂກ
+
+197
+00:15:18,400 --> 00:15:21,900
+[FATHER GENARRO]
+Nicola! That can't be you in church without the family!
+ນິກາລາ! ນັ້ນບໍ່ສາມາດເປັນເຈົ້າໃນສາດສະຫນາຈັກໄດ້ໂດຍບໍ່ມີຄອບຄົວ!
+
+198
+00:15:22,400 --> 00:15:26,250
+[NICO]
+Father Genarro. The priest seizes Nico's hand warmly, smiles at Jackson.
+ພໍ່ເຈນາໂຣ. ພະສົງຈັບມືຂອງນິກໂກຢ່າງອົບອຸ່ນ, ມ່ວນຊື່ນກັບຈັກຊອນ.
+
+199
+00:15:26,750 --> 00:15:32,750
+[FATHER GENARRO]
+This must be your partner in crime.  I'm Father Genarro. I saw you at the baptismal party.  What a partner.
+ນີ້ແມ່ນຕ້ອງເປັນຄູ່ຮ່ວມງານຂອງທ່ານໃນອາຊະຍາກໍາ. ຂ້ອຍເປັນພໍ່ເຈນາໂຣ
+. ຂ້ອຍເຫັນເຈົ້າໃນງານລ້ຽງການບັບຕິສະມາ. ເປັນຄູ່ຮ່ວມມືຫຼາຍປານໃດ.
+
+200
+00:15:33,250 --> 00:15:35,700
+[JACKSON]
+Dolores Jackson  Nico, we gotta go --
+ໂດໂລເຣສ ຈາຊອນ ນິກໂກ, ພວກເຮົາຕ້ອງໄປ -
+
+201
+00:15:36,200 --> 00:15:42,200
+[FATHER GENARRO]
+No, please --  It's good you stopped by. I have to show you something. Please. The priest begins leading Nico and Jackson. Jackson keeps glancing back out the alley to see Salvano's car slowly driving by. 153   INT. CHURCH BASEMENT - DAY
+ບໍ່, ກະລຸນາ - ມັນດີທີ່ເຈົ້າມາ. ຂ້ອຍຕ້ອງສະແດງບາງສິ່ງບາງຢ່າງໃຫ້ເຈົ້າ. ກະລຸນານ. ພະສົງເລີ່ມ ນໍາພານິກໂກແລະແຈກຊັນ.
+ແຈກສອນສືບຕໍ່ເບິ່ງຄືນໄປບ່ອນໃນຖະຫນົນຫົນທາງເພື່ອເຫັນລົດຂອງຊາລວານໍຂັບລົດຊ້າໆ. 153 INT. ຖານດິນຂອງສາດສະຫນາຈັກ - ມື້
+
+202
+00:15:42,700 --> 00:15:44,700
+[FATHER GENARRO]
+The rats are getting bigger.
+ແມວ ກໍາ ລັງໃຫຍ່ຂຶ້ນ.
+
+203
+00:15:45,200 --> 00:15:47,200
+[NICO]
+When did this happen?
+ເລື່ອງນີ້ເກີດຂຶ້ນເມື່ອໃດ?
+
+204
+00:15:47,700 --> 00:15:50,500
+[FATHER GENARRO]
+Two nights ago. I didn't call the police.
+ສອງຄືນກ່ອນ. ຂ້ອຍບໍ່ໄດ້ໂທຫາຕໍາຫຼວດ.
+
+205
+00:15:51,000 --> 00:15:53,450
+[FATHER GENARRO]
+It's all right, son. These are friends.
+ມັນບໍ່ເປັນຫຍັງ, ລູກຊາຍ. ນີ້ແມ່ນເພື່ອນມິດ.
+
+206
+00:15:53,950 --> 00:15:56,400
+[FATHER GENARRO]
+These are friends.  This is Father Tomassino.
+ນີ້ແມ່ນເພື່ອນມິດ. ນີ້ແມ່ນພໍ່ໂຕມາຊີໂນ.
+
+207
+00:15:56,900 --> 00:16:02,900
+[FATHER TOMASSINO]
+How do you do? Nico shakes the young priest's hand. There is a moment between them as Nico meets Tomassino's eyes, liking what he sees. The refugees are relieved, however, when Father Genarro, Nico and Jackson take their leave. 155   NICO, JACKSON AND FATHER GENARRO
+ເຈົ້າເຮັດແນວໃດ? ນິກໂກຍຍືດມືຂອງປະໂລຫິດຫນຸ່ມ. ມີຊົ່ວຄາວລະຫວ່າງພວກເຂົາໃນຂະນະທີ່ນິໂກພົບກັບຕາຂອງໂຕມາຊີໂນ, ມັກສິ່ງທີ່ລາວເຫັນ.
+ພວກອົບພະຍົບໄດ້ຮັບການຜ່ອນຜັນ, ເຖິງຢ່າງໃດກໍ່ຕາມ, ເມື່ອພໍ່ເຈນາຣໂຣ, ນິກັສ ແລະ ແຈກຊັນອອກຈາກ. 155 ນິກອກໂກ, ຈາຄຊອນແລະພໍ່ເຈນາຣໂຣ
+
+208
+00:16:03,400 --> 00:16:06,550
+[JACKSON]
+I didn't know this church was a sanctuary, Father.
+ຂ້ອຍບໍ່ຮູ້ວ່າສາດສະຫນາຈັກນີ້ແມ່ນບ່ອນສັກສິດ, ພໍ່.
+
+209
+00:16:07,050 --> 00:16:09,850
+[FATHER GENARRO]
+Yes. But, perhaps not such a safe one.
+ແມ່ນແລ້ວ. ແຕ່, ບາງທີບໍ່ແມ່ນອັນປອດໄພຫຼາຍ.
+
+210
+00:16:10,350 --> 00:16:12,450
+[NICO]
+How long have they been here?
+ພວກເຂົາຢູ່ບ່ອນນີ້ດົນປານໃດ?
+
+211
+00:16:12,950 --> 00:16:16,800
+[FATHER GENARRO]
+Too long. At least the kids can go to our school.
+ດົນເກີນໄປ. ຢ່າງຫນ້ອຍເດັກນ້ອຍສາມາດໄປໂຮງຮຽນຂອງພວກເຮົາໄດ້.
+
+212
+00:16:17,300 --> 00:16:19,300
+[NICO]
+Who did it, Father?
+ໃຜເຮັດມັນ, ພໍ່?
+
+213
+00:16:19,800 --> 00:16:22,950
+[FATHER GENARRO]
+Kids, maybe.  Maybe worse. It's not the first time.
+ເດັກນ້ອຍ, ບາງທີ. ບາງທີຮ້າຍແຮງກວ່າເກົ່າ. ມັນບໍ່ແມ່ນຄັ້ງ ທໍາ ອິດ.
+
+214
+00:16:23,450 --> 00:16:26,600
+[JACKSON]
+We can have a car check by, every hour.
+ພວກເຮົາສາມາດມີການກວດກາລົດໄດ້, ທຸກໆຊົ່ວໂມງ.
+
+215
+00:16:27,100 --> 00:16:29,200
+[FATHER GENARRO]
+No... please.    Police frighten these people.
+ບໍ່... ກະລຸນາ. ຕໍາຫຼວດເຮັດໃຫ້ຄົນເຫຼົ່ານີ້ຢ້ານກົວ.
+
+216
+00:16:29,700 --> 00:16:31,800
+[NICO]
+Really, I don't mind coming by.
+ແທ້ຈິງແລ້ວ, ຂ້ອຍບໍ່ສົນໃຈທີ່ຈະມາ.
+
+217
+00:16:32,300 --> 00:16:35,100
+[FATHER GENARRO]
+Tell me, Nico... When was your last confession?
+ບອກຂ້ອຍ, ນິກໂກ... ການຍອມຮັບຄັ້ງສຸດທ້າຍຂອງທ່ານແມ່ນເມື່ອໃດ?
+
+218
+00:16:35,600 --> 00:16:39,450
+[NICO]
+I'm a married man, Father.   I've got no sins to confess.
+ຂ້ອຍເປັນຜູ້ຊາຍທີ່ແຕ່ງງານແລ້ວ, ພໍ່. ຂ້ອຍບໍ່ມີຄວາມບາບທີ່ຈະຍອມຮັບ.
+
+219
+00:16:39,950 --> 00:16:43,450
+[FATHER GENARRO]
+You're a police officer, you have many sins to confess.
+ເຈົ້າເປັນຕໍາຫຼວດ, ເຈົ້າມີຄວາມບາບຫຼາຍຢ່າງທີ່ຈະຍອມຮັບ.
+
+220
+00:16:43,950 --> 00:16:46,050
+[JACKSON]
+Amen. Nico and Jackson start off.
+ອາເມນ. ນິກໂກ ແລະ ແຈກຊັນເລີ່ມຕົ້ນ.
+
+221
+00:16:46,550 --> 00:16:52,550
+[FATHER GENARRO]
+You come back Sunday. I feel better when I see Nicola in church.  You don't show, I'm phoning your mother! DISSOLVE TO: 157   SAME CHURCH - POV FROM WINDOW - EARLY MORNING
+ເຈົ້າກັບມາໃນວັນອາທິດ. ຂ້ອຍຮູ້ສຶກດີກວ່າເມື່ອຂ້ອຍເຫັນນິກາລາໃນສາດສະຫນາຈັກ. ເຈົ້າບໍ່ປາກົດຕົວ, ຂ້ອຍ
+ກໍາ ລັງໂທຫາແມ່ຂອງທ່ານ! ຖືກລະລາຍໃຫ້: 157 ສາດສະຫນາຄົມດຽວກັນ - POV ຈາກປ່ອງຢ້ຽມ - ຕອນເຊົ້າກ່ອນ
+
+222
+00:16:53,050 --> 00:16:57,950
+[ROSA]
+Father Genarro! I have you to thank for getting my son back into church!
+ພໍ່ເຈນາໂຣ!
+ຂ້ອຍຕ້ອງຂອບໃຈເຈົ້າທີ່ເຮັດໃຫ້ລູກຊາຍຂອງຂ້ອຍກັບຄືນໄປບ່ອນໃນສາດສະຫນາຈັກ!
+
+223
+00:16:58,450 --> 00:17:00,550
+[FATHER GENARRO]
+It's amazing what shame can accomplish.
+ມັນຫນ້າແປກໃຈວ່າຄວາມໂຊກຮ້າຍສາມາດເຮັດໄດ້ຫຼາຍປານໃດ.
+
+224
+00:17:01,050 --> 00:17:05,250
+[FATHER GENARRO]
+In nomine patris, filius et spiritu sancti...  162   SARA AND JULIAN                                                *
+ໃນຊື່ພໍ່, ລູກຊາຍແລະຈິດວິນຍານສັກສິດ... 162 ຊາຣາ ແລະ ຈູລຽນ *
+
+225
+00:17:05,750 --> 00:17:07,850
+[ROSA]
+Help the others! Help them, Nico!
+ຊ່ວຍຄົນອື່ນ! ຊ່ວຍພວກເຂົາ, ນິກໂກ!
+
+226
+00:17:08,350 --> 00:17:14,350
+[NICO]
+Help each other move outside.   Be calm. 175   EXT. SIDE OF CHURCH - MORNING From a doorway and a shattered window smoke pours forth. We hear SCREAMS from inside. 176   INT. CHURCH Nico on his feet, plainly the leader in this moment of terror. Worshippers, shattered and bleeding, pour past him toward the door. Nico grabs a stout-looking church- goer.
+ຊ່ວຍກັນແລະກັນເຄື່ອນຍ້າຍອອກໄປພາຍນອກ. ມີຄວາມສະຫງົບໃຈ. 175 ທາງອອກຂອງສາດສະຫນາຈັກ - ຕອນເຊົ້າຈາກປະຕູແລະສ່ອງຢ້ຽມທີ່ແຕກຫັກສູບອອກມາ. ພວກເຮົາໄດ້ຍິນສຽງຮ້ອງໄຫ້ຈາກພາຍໃນ
+. 176 INT. ສາດສະ ຫນາ ຈັກນິກໂກຢູ່ເທິງຕີນຂອງລາວ, ຢ່າງຈະແຈ້ງເປັນຜູ້ນໍາໃນຊົ່ວຄາວຂອງຄວາມຢ້ານກົວນີ້. ຜູ້ບູຊາ, ແຕກຫັກແລະເລືອດ, ຖອກຜ່ານລາວໄປສູ່ປະຕູ. ນິກໂ
+
+227
+00:17:14,850 --> 00:17:20,850
+[NICO]
+Call 911. Tell 'em to send everything they got!  Sara, get the baby and Mama                        * outside. Nico starts for the altar where the damage is worst.
+ໂທ 911. ບອກພວກເຂົາໃຫ້ສົ່ງທຸກຢ່າງທີ່ພວກເຂົາມີ! ຊາຣາ, ເອົາເດັກນ້ອຍແລະແມ່
+* ອອກໄປ. ນິກໂກເລີ່ມຕົ້ນໄປຫາໂບດທີ່ຄວາມເສຍຫາຍຮ້າຍແຮງທີ່ສຸດ.
+
+228
+00:17:21,350 --> 00:17:25,550
+[NICO]
+I want a list of everyone that's been treated here today. Everyone.
+ຂ້ອຍຢາກມີລາຍຊື່ຂອງທຸກຄົນທີ່ໄດ້ຮັບການປິ່ນປົວຢູ່ນີ້ມື້ນີ້. ທຸກຄົນ.
+
+229
+00:17:26,050 --> 00:17:28,050
+[JACKSON]
+Right.
+ແມ່ນແລ້ວ.
+
+230
+00:17:28,550 --> 00:17:34,550
+[NICO]
+Then find those sanctuary people, the ones we saw in the church basement -- As Jackson makes notes.
+ຫຼັງຈາກນັ້ນຊອກຫາຄົນສັກສິດນັ້ນ,
+ຄົນທີ່ພວກເຮົາເຫັນໃນຊັ້ນລຸ່ມຂອງສາດສະຫນາຈັກ - ໃນຂະນະທີ່ແຈກຊັນຂຽນຂໍ້ສັງເກດ.
+
+231
+00:17:35,050 --> 00:17:39,250
+[NICO]
+Find out where they're from, why anyone would want to harm them.
+ຊອກຫາວ່າພວກເຂົາມາຈາກໃສ, ເປັນຫຍັງໃຜຈຶ່ງຢາກເຮັດໃຫ້ພວກເຂົາເຈັບປວດ.
+
+232
+00:17:39,750 --> 00:17:41,750
+[JACKSON]
+Where are you gonna be?
+ເຈົ້າຈະຢູ່ໃສ?
+
+233
+00:17:42,250 --> 00:17:45,050
+[NICO]
+Just stay near a radio.   I'll find you.
+ພຽງແຕ່ຢູ່ໃກ້ກັບວິທະຍຸ. ຂ້ອຍຈະຊອກຫາເຈົ້າ.
+
+234
+00:17:45,550 --> 00:17:51,550
+[NICO]
+Sara... go down to the car; I'll                    * be with you in a minute. He hails Neeley.                                              *
+ຊາຣາ... ລົງໄປຫາລົດ; ຂ້ອຍຈະ *
+ຢູ່ກັບເຈົ້າໃນນາທີຫນຶ່ງ. ລາວຕ້ອນຮັບນີລີ. *
+
+235
+00:17:52,050 --> 00:17:58,050
+[NICO]
+I need to talk to you.  ... Alone. Neeley nods. Nico leads him off the corridor, through a       * fire exit door -- 185   STAIRWELL LANDING The door closes behind them. Nico and the FBI man are alone on the stairway landing. AGENT NEELEY                          *  What the hell is it, Toscani? Without warning, Nico grabs Neeley by both lapels, slams      * him furiously into the wall!
+ຂ້ອຍຕ້ອງເວົ້າກັບເຈົ້າ.... ຄົນດຽວ. ນີລີຍຍືດຫົວ. ນິກໂກພາລາວອອກຈາກທາງເດີນທາງ, ຜ່ານປະຕູອອກໄຟ * - 185 STAIRWELL Landing ປະຕູປິດຢູ່ເບື້ອງຫຼັງພວກເຂົາ. ນິໂກແລະຜູ້ຊາຍ
+FBI ແມ່ນຄົນດຽວໃນການລົງທະບຽນຂັ້ນເທິງ. ຕົວແທນນີລີ * ມັນແມ່ນຫຍັງ, ໂຕສການີ? ໂດຍບໍ່ມີການເຕືອນລ່ວງຫນ້າ, ນິກ໊ອກຈັບນິລີຍດ້ວຍທັງສອງກະທູ້, ຕີລາວ * ຢ່າງໂຊກຮ້າຍຕໍ່ກໍາແພງ
+
+236
+00:17:58,550 --> 00:18:04,550
+[NICO]
+You.   That's what the hell it is! AGENT NEELEY                          * Get your goddam hands off me! Neeley tries to shake free; Nico won't let him.               *
+ເຈົ້າ. ນັ້ນແມ່ນສິ່ງທີ່ມັນເປັນ! ຕົວແທນນີລີ * ເອົາມືຂອງທ່ານຈາກຂ້ອຍ
+! ນີລີພະຍາຍາມສັ່ນສະເທືອນອິດສະຫຼະ; ນິກໂກຈະບໍ່ປ່ອຍໃຫ້ລາວ. *
+
+237
+00:18:05,050 --> 00:18:11,050
+[NICO]
+You let Salvano walk. AGENT NEELEY                          * Salvano?! Are you crazy?  What does he have to do with this?
+ເຈົ້າປ່ອຍໃຫ້ຊາລວານອນຍ່າງ. ຕົວແທນນີລີ * ຊາລວາໂນ?
+! ເຈົ້າໂຊກຮ້າຍບໍ? ລາວກ່ຽວຂ້ອງກັບເລື່ອງນີ້ແນວໃດ?
+
+238
+00:18:11,550 --> 00:18:16,450
+[NICO]
+That was no cherry bomb in there. That was C-fucking-4!  I've used that shit.
+ນັ້ນບໍ່ແມ່ນລະເບີດ cherry ຢູ່ບ່ອນນັ້ນ. ນັ້ນແມ່ນ
+C- ສະບາຍດີ-4! ຂ້ອຍໄດ້ໃຊ້ສິ່ງນັ້ນແລ້ວ.
+
+239
+00:18:16,950 --> 00:18:21,500
+[NICO]
+I know what it smells like, I know what it blows like --
+ຂ້ອຍຮູ້ວ່າມັນກິ່ນຫອມແນວໃດ, ຂ້ອຍຮູ້ວ່າມັນລະເບີດແນວໃດ -
+
+240
+00:18:22,000 --> 00:18:28,000
+[NICO]
+I tailed Salvano. Two days ago. Him and one of his apes were in that church -- and they weren't taking communion. I saw some broad saw who was with his lawyer plant the bomb. Now I want some goddamn answers. AGENT NEELEY                       * You tailed him? After I ordered you off?
+ຂ້ອຍຕິດຕາມຊາລວານໂກ້. ສອງມື້ກ່ອນ. ລາວແລະແມວຄົນ ຫນຶ່ງ ຂອງລາວຢູ່ໃນສາດສະຫນາຈັກນັ້ນ - ແລະພວກເຂົາບໍ່ໄດ້ກິນໂຊກແຊງ.
+ຂ້ອຍເຫັນບາງຄົນໃຫຍ່ທີ່ຢູ່ກັບທະນາຍຄວາມຂອງລາວປູກລະເບີດ. ດຽວນີ້ຂ້ອຍຕ້ອງການ ຄໍາ ຕອບບາງຢ່າງ. ຕົວແທນນີລີ * ເຈົ້າຕິດຕາມລາວບໍ? ຫຼັງຈາກຂ້ອຍສັ່ງໃຫ້ເຈົ້າອອກໄປ?
+
+241
+00:18:28,500 --> 00:18:34,500
+[NICO]
+Where is he?    Where's Salvano? AGENT NEELEY                       * My orders were release him.    Not babysit him. Neeley brushes Nico's fingermarks off his lapels.         * AGENT NEELEY                       * You think you're rough stuff, Toscani -- martial arts hero, chop suey crap. Well I'll tell you something: you're not bullet- proof. You're not even a good cop.  You sneak around, playing your street dick games. But all you come up with is conjecture, wild coincidence and bullshit.
+ຄຸເຂົ່າລົງ
+
+242
+00:18:35,000 --> 00:18:38,150
+[NICO]
+I want the agent who signed for the explosives.
+ຂ້ອຍຢາກມີຕົວແທນທີ່ລົງນາມ ສໍາ ລັບລະເບີດ.
+
+243
+00:18:38,650 --> 00:18:40,650
+[NICO]
+Bank on it, pal.
+ທະນາຄານໃສ່ມັນ, ເພື່ອນ.
+
+244
+00:18:41,150 --> 00:18:46,400
+[MAID]
+You gonna be in real trouble, mister, when El Senor Salvano find out about dis.
+ເຈົ້າຈະຢູ່ໃນຄວາມຫຍຸ້ງຍາກແທ້ໆ, ທ້າວ, ເມື່ອ
+El Señor Salvano ຮູ້ກ່ຽວກັບ dis ໄດ້.
+
+245
+00:18:46,900 --> 00:18:52,900
+[FIRST LATINO]
+'Cuse me, sir. Can I bum a light? Nico slows, eyeing the   guy dubiously. As he reaches to his jacket -- The side   door of the van flashes open. A .38 is leveled straight   at Nico's head. Instantly three other Latino hoods leap   to the sidewalk.
+ຂໍໂທດຂ້ອຍເດີ. ຂ້ອຍສາມາດຕີແສງໄດ້ບໍ? ນິກໂກຊ້າລົງ, ເບິ່ງຜູ້ຊາຍຢ່າງສົງໄສ. ໃນຂະນະທີ່ລາວຍ່າງໄປຫາເສື້ອຜ້າຂອງລາວ -
+ປະຕູຂ້າງຂອງລົດບັນທຸກເປີດແສງສະຫວ່າງ. A.38 ຖືກທຽບໃສ່ຫົວຂອງນິກໂກ້ໂດຍກົງ. ທັນທີ Hood ລາຕິນໂກສ໌ອີກສາມຄົນໂດດໄປທາງບາບ.
+
+246
+00:18:53,400 --> 00:18:59,400
+[FIRST LATINO]
+Don't even think about it, motherfucker. Machete Man  snatches Nico's gun from its shoulder holster. Two hoods shove Nico back into the alley. Nico checks out his assailants quickly. Four of them. Machete, CROWBAR, BALL BAT, GUN.
+ຄຸເຂົ່າລົງ
+
+247
+00:18:59,900 --> 00:19:05,500
+[MACHETE MAN]
+You come to our streets... fuck with our people. Now our people gonna fuck with you.
+ເຈົ້າມາຕາມຖະຫນົນຫົນທາງຂອງພວກເຮົາ... ໄປໂຊກຮ້າຍກັບຄົນຂອງພວກເຮົາ
+. ດຽວນີ້ຄົນຂອງພວກເຮົາຈະໄປໂຊງຮ້າຍກັບເຈົ້າ.
+
+248
+00:19:06,000 --> 00:19:12,000
+[PIPE MAN]
+We ain't gonna shoot you, man. We gonna beat you to death. You gonna learn what it means to 'get down.'
+ພວກເຮົາຈະບໍ່ຍິງເຈົ້າແມ. ພວກເຮົາຈະຕີເຈົ້າຈົນຕາຍ
+. ເຈົ້າຈະຮຽນຮູ້ວ່າ'ລົງລົງ' ຫມາຍ ຄວາມວ່າແນວໃດ.
+
+249
+00:19:12,500 --> 00:19:14,500
+[FIRST GIRL]
+Fly, baby! 194   NICO
+ບິນແມ! 194 NICO
+
+250
+00:19:15,000 --> 00:19:17,000
+[MACHETE MAN]
+No, hermano. Please --
+ບໍ່, ອ້າຍ. ກະລຸນາ...
+
+251
+00:19:17,500 --> 00:19:19,500
+[NICO]
+Who put up the money?
+ໃຜໄດ້ເອົາເງິນໄວ້?
+
+252
+00:19:20,000 --> 00:19:22,000
+[MACHETE MAN]
+What money?
+ເງິນໃດ?
+
+253
+00:19:22,500 --> 00:19:27,050
+[NICO]
+You didn't come after me for a piece of ass.  Who paid you?
+ເຈົ້າບໍ່ໄດ້ມາຕາມຂ້ອຍເພື່ອສິ້ນສ່ວນຂອງບາກ. ໃຜຈ່າຍເງິນໃຫ້ເຈົ້າ?
+
+254
+00:19:27,550 --> 00:19:33,550
+[MACHETE MAN]
+I told ya!    No one! Nico slams him with a fierce shot to the ribs. The hood doubles over, gasping. The flower girls shriek even louder. Nico turns to the girls with a ferocious glare.
+ຂ້ອຍບອກເຈົ້າແລ້ວ! ບໍ່ມີໃຜ! ນິກໂກໄດ້ຕີລາວດ້ວຍການຍິງຢ່າງຮຸນແຮງຕໍ່ກະດູກ. ກະດູກກະຕູ້ສອງເທົ່າ,
+ຫາຍໃຈ. ເດັກຍິງດອກໄມ້ຮ້ອງໄຫ້ອີກຢ່າງແຮງກວ່າເກົ່າ. ນິໂກຫັນໄປຫາເດັກຍິງດ້ວຍແສງສະຫວ່າງທີ່ຮ້າຍແຮງ.
+
+255
+00:19:34,050 --> 00:19:40,050
+[NICO]
+Shut up! The girls instantly go silent in terror. Nico turns back to Machete Man, spins him violently face-down, jacking the punk's right arm straight out behind him. We see that Nico can break his elbow with one blow.
+ຄຸເຂົ່າລົງ
+
+256
+00:19:40,550 --> 00:19:44,050
+[NICO]
+Give it to me! Nico raises his fist to strike.
+ໃຫ້ມັນໃຫ້ຂ້ອຍ! ນິກໂກຍົກມືເພື່ອໂຈມຕີ.
+
+257
+00:19:44,550 --> 00:19:50,550
+[MACHETE MAN]
+Jimmy Constanza! Nico shoves the hood into the ground, tearing the hood's wallet from his trouser pocket. Nico rips the wallet a- part, seizes the kid's identification and holds it up. He grabs the punk by the hair with his free hand. Machete Man is staring up in terror, wondering what this means.
+ຈິມມີ ຄອນສຕານຊາ! ນິກໂກຍເອົາກະເປົາໃສ່ດິນ, ການແຕກກະເປົ໋າຂອງກະເປືອຂົງຈາກຖົງກະເປືອກກະເປັ໋າຂອງລາວ. ນິກ໊ອກກະເປົ້າກະເປື້ອນເປັນສ່ວນຫນຶ່ງ,
+ຈັບໃບຢັ້ງຢືນຂອງເດັກນ້ອຍແລະຖືມັນຂຶ້ນ. ລາວຈັບຄົນໂຊກຮ້າຍຈາກຜົມດ້ວຍມືຟຣີຂອງລາວ. ຜູ້ຊາຍ Machete ກໍາ ລັງເບິ່ງຂຶ້ນດ້ວຍຄວາມຢ້ານກົວ, ຖາມວ່າສິ່ງນີ້ ຫມາຍ ຄວາມວ່າແນວໃດ.
+
+258
+00:19:51,050 --> 00:19:56,650
+[NICO]
+If you're lying to me, I'll come and kill you right in your own fucking kitchen.
+ຖ້າເຈົ້າຕົວະຂ້ອຍ, ຂ້ອຍຈະມາຂ້າເຈົ້າຢູ່ເຮືອນຄົວຂອງເຈົ້າເອງ.
+
+259
+00:19:57,150 --> 00:19:59,150
+[MACHETE MAN]
+Salvano!   Bautista Salvano!
+ຊາລວານໍ! ບາຕິສຕາ ຊາລວາໂນ!
+
+260
+00:19:59,650 --> 00:20:01,650
+[NICO]
+Gracias, muchacho. Nico walks away.
+ຂອບໃຈ, ເດັກຊາຍ. ນິກໂກຍ່າງໄປ.
+
+261
+00:20:02,150 --> 00:20:08,150
+[NICO]
+Of course I will. I've been waiting to hear from Jax. She was supposed to get back to me by now.
+ແນ່ນອນວ່າຂ້ອຍຈະເຮັດ. ຂ້ອຍ ກໍາ ລັງລໍຖ້າທີ່ຈະຍິນຈາກແຈກສ໌
+. ນາງຄວນຈະກັບມາຫາຂ້ອຍໃນເວລານີ້.
+
+262
+00:20:08,650 --> 00:20:14,650
+[SARA]
+Thank God you couldn't find your shoes. We would of have been sitting in the front row.  Alright, I know the rules -- I don't ask you don't tell. But could've died today and I deserve to know.  Why did we go to church this morning?
+ຂອບໃຈພຣະເຈົ້າທີ່ເຈົ້າບໍ່ສາມາດຊອກຫາເກີບຂອງທ່ານໄດ້. ພວກເຮົາຈະນັ່ງຢູ່ແຖວຫນ້າ. ດີ, ຂ້ອຍຮູ້ກົດລະບຽບ -
+ຂ້ອຍບໍ່ຂໍໃຫ້ເຈົ້າບໍ່ບອກ. ແຕ່ສາມາດຕາຍໃນມື້ນີ້ແລະຂ້ອຍຄວນຮູ້. ເປັນຫຍັງພວກເຮົາຈຶ່ງໄປໂບດໃນຕອນເຊົ້ານີ້?
+
+263
+00:20:15,150 --> 00:20:21,150
+[NICO]
+I'm willing to break   the rules; I'm willing to tell   you whatever I know. But I need    some time. Could you just give   me some time? Nico leans to kiss her, but is cut off by the HARSH RING of a PHONE. Sara starts at the sound. She and Nico glance at each other --
+ຂ້ອຍເຕັມໃຈທີ່ຈະລະເມີດກົດລະບຽບ; ຂ້ອຍພ້ອມທີ່ຈະບອກເຈົ້າທຸກຢ່າງທີ່ຂ້ອຍຮູ້. ແຕ່ຂ້ອຍຕ້ອງການເວລາບາງຢ່າງ. ເຈົ້າພຽງແຕ່ສາມາດໃຫ້ຂ້ອຍເວລາບາງຄັ້ງບໍ
+? ນິກໂກຍຍຍອມເພື່ອຈູບນາງ, ແຕ່ຖືກຕັດໂດຍແມວທີ່ຮຸນແຮງຂອງໂທລະສັບ. ຊາຣາເລີ່ມຕົ້ນດ້ວຍສຽງ. ນາງແລະນິກໂກ້ເບິ່ງກັນແລະກັນ -
+
+264
+00:20:21,650 --> 00:20:24,800
+[SARA]
+I'll bet that's her. Nico picks up the phone.
+ຂ້ອຍແນ່ໃຈວ່ານັ້ນແມ່ນນາງ. ນິກໂກເອົາໂທລະສັບ.
+
+265
+00:20:25,300 --> 00:20:27,300
+[NICO]
+This better be good, Jax.
+ມັນດີກວ່າວ່າມັນຈະດີ, ເຈັກສ໌.
+
+266
+00:20:27,800 --> 00:20:29,800
+[MAN]
+It's bad, Nico.
+ມັນບໍ່ດີ, ນິກໂກ.
+
+267
+00:20:30,300 --> 00:20:32,300
+[NICO]
+Long time, Nelson.
+ດົນນານແລ້ວ, ເນລສັນ.
+
+268
+00:20:32,800 --> 00:20:38,800
+[FOX]
+You should know not to use a name on an open line.  I'm gonna talk for fifteen seconds, then I'm getting off. You're in trouble, Nico. 204   BACK TO NICO'S BEDROOM - LATE NIGHT
+ເຈົ້າຄວນຮູ້ວ່າບໍ່ຄວນໃຊ້ຊື່ໃນສາຍເປີດ. ຂ້ອຍຈະເວົ້າເປັນເວລາສິບຫ້າວິນາທີ, ຫຼັງຈາກນັ້ນຂ້ອຍຈະລົງ
+. ເຈົ້າຢູ່ໃນຄວາມຫຍຸ້ງຍາກ, ນິກໂກ. 204 ກັບຄືນໄປບ່ອນນອນຂອງນິກໂກ້ - ຕອນແລງ
+
+269
+00:20:39,300 --> 00:20:45,300
+[FOX]
+Serious, serious trouble. Take your wife and family and get them someplace safe now. 205   BACK TO STREET - PHONE BOOTH - LATE NIGHT
+ຄວາມຫຍຸ້ງຍາກທີ່ຮ້າຍແຮງ, ທີ່ຮ້າຍແຮງ. ເອົາເມຍແລະຄອບຄົວຂອງທ່ານແລະເອົາພວກເຂົາໄປບ່ອນປອດໄພດຽວນີ້
+. 205 ກັບຄືນໄປບ່ອນຖະຫນົນຫົນທາງ - ຫ້ອງໂທລະສັບ - ຕອນແລງຄືນ
+
+270
+00:20:45,800 --> 00:20:51,800
+[FOX]
+You hear me? Now. I'm risking my ass by telling you this. Good luck, kid. 206   BACK TO NICO'S BEDROOM - LATE NIGHT The PHONE CLICKS DEAD. Nico tries to keep a casual ex- pression. Sara sees through it -- she knows he's shaken.     * SARA                                 *  That was Fox, wasn't it?
+ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ? ດຽວນີ້. ຂ້ອຍ ກໍາ ລັງສ່ຽງຫລັງຂອງຂ້ອຍໂດຍການບອກເຈົ້າສິ່ງນີ້. ໂຊກດີ, ເດັກນ້ອຍ. 206 ກັບຄືນໄປບ່ອນຫ້ອງນອນຂອງນິກໂກ - ຕອນແລງໂທລະສັບຄລິກຕາຍ
+. ນິກໂກ້ພະຍາຍາມຮັກສາຄວາມກົດດັນເກົ່າແບບບໍ່ເປັນທາງການ. ຊາຣາເຫັນຜ່ານມັນ - ນາງຮູ້ວ່າລາວຖືກສັ່ນສະເທືອນ. * ຊາຣາ * ນັ້ນແມ່ນຟອກສ໌, ແມ່ນບໍ?
+
+271
+00:20:52,300 --> 00:20:58,300
+[NICO]
+It's okay, sweetheart --  -- You know what a crazy bastard Fox is. He gets drunk and forgets he's halfway around the world. He calls me. Nico gives her a squeeze and a smile.
+ມັນບໍ່ເປັນຫຍັງ, ແມ - - ເຈົ້າຮູ້ວ່າໂຟກສ໌ເປັນຄົນໂຊກຮ້າຍຫຼາຍປານໃດ.
+ລາວດື່ມແລະລືມວ່າລາວຢູ່ເຄິ່ງທາງທົ່ວໂລກ. ລາວໂທຫາຂ້ອຍ. ນິກໂກໃຫ້ນາງກົດແລະມ່ວນຊື່ນ.
+
+272
+00:20:58,800 --> 00:21:02,650
+[NICO]
+He just wanted to make sure we got his Christmas card.
+ລາວພຽງແຕ່ຢາກແນ່ໃຈວ່າພວກເຮົາໄດ້ຮັບບັດຄຣິສມັສຂອງລາວ.
+
+273
+00:21:03,150 --> 00:21:09,150
+[VOICE THROUGH DOOR]
+F.B.I., Toscani. Open up. Nico pulls aside a curtained glass panel; he recognizes two uniformed police officers, plus Neeley and Halloran,       * the FBI agents who authorized the release of Salvano. He lowers his gun, opens the door. The cops surge in.
+FBI, Toscani. ເປີດ. ນິກໂກດເອົາກະດານແກ້ວທີ່ປົກຄຸມໄວ້ຂ້າງຫນຶ່ງ; ລາວຮັບຮູ້ເຈົ້າຫນ້າທີ່ຕໍາຫຼວດສອງຄົນໃສ່ຊຸດ, ບວກກັບ
+Neeley ແລະ Halloran, * ຕົວແທນ FBI ທີ່ອະນຸຍາດໃຫ້ປ່ອຍຕົວ Salvano ໄດ້. ລາວຫຼຸດປືນຂອງລາວ, ເປີດປະຕູ. ຕໍາຫຼວດເຂົ້າມາ.
+
+274
+00:21:09,650 --> 00:21:12,100
+[NICO]
+It's a little early for breakfast, O'Hara.
+ມັນໄວເກີນໄປ ສໍາ ລັບອາຫານເຊົ້າ, ໂອຮາຣາ.
+
+275
+00:21:12,600 --> 00:21:14,600
+[O'HARA]
+Sorry, Nico.  You're under arrest.
+ຂໍໂທດ, ນິກໂກ. ເຈົ້າຖືກຈັບກຸມແລ້ວ.
+
+276
+00:21:15,100 --> 00:21:18,250
+[NICO]
+No, you won't. I'm gonna give it to you.
+ບໍ່, ເຈົ້າຈະບໍ່ເຮັດ. ຂ້ອຍຈະໃຫ້ມັນໃຫ້ເຈົ້າ.
+
+277
+00:21:18,750 --> 00:21:20,750
+[NICO]
+It's all right, darling.
+ມັນບໍ່ເປັນຫຍັງແມ.
+
+278
+00:21:21,250 --> 00:21:27,250
+[ROSA]
+Who do you think you are -- coming in here like this, treating my son like a criminal? SARA                                    * Why are you terrifying us? There's an infant here! Nico pulls on a jacket. He looks like he could kill.    He restrains himself for his family's sake.
+ເຈົ້າຄິດວ່າເຈົ້າເປັນໃຜ - ເຂົ້າມາບ່ອນນີ້ແບບນີ້, ການປິ່ນປົວລູກຊາຍຂອງຂ້ອຍຄືກັບອາຊະຍາກໍາ? ຊາຣາ * ເປັນຫຍັງເຈົ້າຈຶ່ງເຮັດໃຫ້ພວກເຮົາຢ້ານກົວ
+? ມີເດັກນ້ອຍຢູ່ບ່ອນນີ້! ນິກໂກດໃສ່ເສື້ອຜ້າ. ລາວເບິ່ງຄືວ່າລາວສາມາດຂ້າໄດ້. ລາວຄວບຄຸມຕົວເອງເພື່ອຜົນປະໂຫຍດຂອງຄອບຄົວຂອງລາວ.
+
+279
+00:21:27,750 --> 00:21:29,750
+[AGENT HALLORAN]
+Check that coat.
+ເບິ່ງເສື້ອຜ້ານັ້ນແມ.
+
+280
+00:21:30,250 --> 00:21:36,250
+[NICO]
+It's all a mistake, Sara -- It's                      * gonna be all right. The cops steer Nico toward the door.
+ມັນເປັນຄວາມຜິດພາດທັງ ຫມົດ, ຊາຣາ - ມັນຈະ
+* ດີດີ. ຕໍາຫຼວດ ນໍາ ນິກໂກໄປສູ່ປະຕູ.
+
+281
+00:21:36,750 --> 00:21:38,750
+[AGENT HALLORAN]
+Illegal wiretaps. Unauthorized surveillance.
+ການກວດສອບໂທລະສັບຜິດກົດຫມາຍ. ການຕິດຕາມກວດກາທີ່ບໍ່ໄດ້ຮັບອະນຸຍາດ.
+
+282
+00:21:39,250 --> 00:21:44,850
+[NICO]
+When were you born, asshole? AGENT NEELEY                             * Associating with known felons. Disobeying direct orders --
+ເຈົ້າເກີດເມື່ອໃດ, ຄົນໂຊກຮ້າຍ? ຕົວແທນນີລີ *
+ການພົວພັນກັບອາຊະຍາກໍາທີ່ຮູ້ຈັກກັນດີ. ການບໍ່ປະຕິບັດຕາມຄໍາສັ່ງໂດຍກົງ -
+
+283
+00:21:45,350 --> 00:21:47,350
+[NICO]
+Where's Jackson?
+ແຈກສັນຢູ່ໃສ?
+
+284
+00:21:47,850 --> 00:21:53,850
+[AGENT HALLORAN]
+You're the rotten apple in this barrel, Toscani. We don't have to look any farther than you and your 'family.'
+ເຈົ້າເປັນ ຫມາກ ໄມ້ທີ່ສໍ້ໂກງໃນຖັງນີ້, ໂຕສການີ.
+ພວກເຮົາບໍ່ຈໍາເປັນຕ້ອງເບິ່ງໄກກວ່າເຈົ້າແລະ'ຄອບຄົວ' ຂອງທ່ານ.
+
+285
+00:21:54,350 --> 00:22:00,350
+[NICO]
+You'll never build a frame on this chickenshit. AGENT NEELEY                          *  You were ordered to back off on Salvano. But you had too big a hard-on for that, didn't you--
+ເຈົ້າຈະບໍ່ສ້າງກອບໃສ່ຢອກຊື່ໆນີ້ເລີຍ. ຕົວແທນນີລີ * ເຈົ້າຖືກສັ່ງໃຫ້ຖອນຕົວອອກຈາກຊາລວານໂກ້
+. ແຕ່ເຈົ້າມີຄວາມແຂງແຮງຫຼາຍເກີນໄປ ສໍາ ລັບນັ້ນ, ເຈົ້າບໍ່ -
+
+286
+00:22:00,850 --> 00:22:06,850
+[NICO]
+Fred.   You can't be in on this. Nico faces his lieutenant -- a look that calls on long       * years of comradeship and loyalty. Strozah is torn. He's a good man, over his head in a situation he doesn't com- pletely understand. LIEUTENANT STROZAH                    * You're officially suspended, Toscani. I want your tin... and your iron. Neeley leans past Nico; drops Nico's gun  onto the table. Nico looks to Strozah, who averts his eyes. Nico flips his badge onto the table.
+ຟຣີດ. ເຈົ້າບໍ່ສາມາດເຂົ້າໄປໃນເລື່ອງນີ້ໄດ້. ນິກໂກປະເຊີນກັບເລັກຕັນນ໌ຂອງລາວ - ການເບິ່ງທີ່ຮຽກຮ້ອງໃຫ້ຄວາມເປັນເພື່ອນມິດແລະຄວາມສັດຊື່ເປັນເວລາຍາວນານ. ສຕຣູຊາຖືກແຕກແຍກ. ລາວເປັນຜູ້ຊາຍທີ່ດີ
+, ຢູ່ເທິງຫົວຂອງລາວໃນສະຖານະການທີ່ລາວບໍ່ເຂົ້າໃຈຢ່າງສົມບູນ. ເລັກຕິນນ໌ ສຕຼູຊາ * ເຈົ້າຖືກໂຈະຢ່າງເປັນທາງການ, ໂຕສການີ. ຂ້ອຍຢາກທາດຂອງທ່ານ... ແລະເຫຼັກຂອງທ່ານ. ນີລີຍອມຜ່ານນິກ
+
+287
+00:22:07,350 --> 00:22:09,350
+[NICO]
+You holding me?
+ເຈົ້າຖືຂ້ອຍບໍ?
+
+288
+00:22:09,850 --> 00:22:12,300
+[NICO]
+Sara, I'm okay. I love you.                         *
+ຊາຣາ, ຂ້ອຍບໍ່ເປັນຫຍັງ. ຂ້ອຍຮັກເຈົ້າ. *
+
+289
+00:22:12,800 --> 00:22:18,800
+[NICO]
+I'll be home later. Lukich will                     * be there. Tell mama not to worry. Jackson and Lukich are waiting by Nico's car.    They see Nico emerge from the phone booth.
+ຂ້ອຍຈະກັບບ້ານຕໍ່ມາ. ລຸກິກຈະ * ຢູ່ບ່ອນນັ້ນ. ບອກແມ່ບໍ່ຕ້ອງກັງວົນ. ແຈກຊອນແລະລຸກິກ
+ກໍາ ລັງລໍຖ້າຢູ່ແຄມລົດຂອງນິກໂກ. ພວກເຂົາເຫັນນີໂກອອກມາຈາກກະຕູ້ໂທລະສັບ.
+
+290
+00:22:19,300 --> 00:22:21,400
+[JACKSON]
+-- I found the sanctuary people.
+- ຊັນພບຄນທີ່ສັກສິດ
+
+291
+00:22:21,900 --> 00:22:27,850
+[JACKSON]
+They're refugees from El Salvador, Guatemala, Chile. They won't talk                  * to me, they're terrified of cops.
+ພວກເຂົາເປັນອົບພະຍົບຈາກເອວຊາລເວດໍ, ກົວເຕມາລາ, ຊີລີ.
+ພວກເຂົາຈະບໍ່ເວົ້າ * ກັບຂ້ອຍ, ພວກເຂົາຢ້ານກົວຕໍາຫຼວດ.
+
+292
+00:22:28,350 --> 00:22:34,300
+[JACKSON]
+Ready for this? One of the people killed at the church was definitely not a congregation member.
+ພ້ອມແລ້ວ ສໍາ ລັບສິ່ງນີ້ບໍ? ຫນຶ່ງ
+ໃນຄົນທີ່ຖືກຂ້າຕາຍໃນສາດສະຫນາຈັກແມ່ນແນ່ນອນບໍ່ແມ່ນສະມາຊິກຂອງສະມາຄົມ.
+
+293
+00:22:34,800 --> 00:22:38,650
+[JACKSON]
+Alan Singletary. He's an aide to Senator Harrison. Nico is electrified.
+ແອລານ ຊິງເລຕຣີ. ລາວເປັນຜູ້ຊ່ວຍຂອງສະມາຊິກສະພາສູງຮາຣີສັນ
+. ນິກໂກຖືກໄຟຟ້າ.
+
+294
+00:22:39,150 --> 00:22:45,150
+[JACKSON]
+That's right. Harrison. Foreign relations committee. The guy who's been crawling all over the Central American drug connections.
+ນັ້ນແມ່ນຄວາມຈິງ. ຮາຣີສັນ. ຄະນະກໍາມະການພົວພັນຕ່າງປະເທດ.
+ຜູ້ຊາຍທີ່ ກໍາ ລັງຍ່າງໄປທົ່ວການເຊື່ອມຕໍ່ຢາເສບຕິດອາເມລິກາກາງ.
+
+295
+00:22:45,650 --> 00:22:48,100
+[NICO]
+You're gonna make a helluva D.A., Jax.
+ເຈົ້າຈະກາຍເປັນໄອຍະການທີ່ສວຍງາມ, ເຈັກສ໌.
+
+296
+00:22:48,600 --> 00:22:50,600
+[LUKICH]
+God help us.
+ພຣະເຈົ້າຊ່ວຍພວກເຮົາ.
+
+297
+00:22:51,100 --> 00:22:57,100
+[JACKSON]
+I've been at the Tribune all night, wearing out their Xerox machine. Harrison's staff has been compiling some kind of white paper. He's due to release it next week. Nico's mind races.
+ຂ້ອຍຢູ່ Tribune ຕະຫຼອດຄືນ, ໃສ່ເຄື່ອງຈັກ Xerox ຂອງພວກເຂົາ. ພະນັກງານຂອງຮາຣີສັນ
+ກໍາ ລັງເກັບກໍາເຈ້ຍຂາວບາງປະເພດ. ລາວຈະປ່ອຍມັນໃນອາທິດຫນ້າ. ຈິດໃຈຂອງນິກໂກແຂ່ງຂັນ.
+
+298
+00:22:57,600 --> 00:22:59,600
+[NICO]
+That's how Fox knew.
+ນັ້ນແມ່ນວິທີທີ່ຟອກສ໌ຮູ້.
+
+299
+00:23:00,100 --> 00:23:02,100
+[JACKSON]
+What?
+ຫຍັງ?
+
+300
+00:23:02,600 --> 00:23:08,600
+[NICO]
+Luke. I  want you to go to my house.  Call Branca... my mother has the number. Get my family ready to move out.
+ລຸກ. ຂ້ອຍຢາກໃຫ້ເຈົ້າໄປເຮືອນຂອງຂ້ອຍ. ໂທຫາບຣານກາ...
+ແມ່ຂອງຂ້ອຍມີເບີ. ໃຫ້ຄອບຄົວຂອງຂ້ອຍພ້ອມທີ່ຈະຍ້າຍອອກໄປ.
+
+301
+00:23:09,100 --> 00:23:11,100
+[LUKICH]
+You got it, buddy.
+ເຈົ້າເຮັດແລ້ວ, ເພື່ອນ.
+
+302
+00:23:11,600 --> 00:23:13,700
+[NICO]
+Stay with 'em. We'll be there.
+ຢູ່ກັບພວກເຂົາ. ພວກເຮົາຈະຢູ່ບ່ອນນັ້ນ.
+
+303
+00:23:14,200 --> 00:23:16,300
+[LUKICH]
+What's going on, Nico?   What happened?
+ເກີດຫຍັງຂຶ້ນ, ນິກໂກ? ເກີດຫຍັງຂື້ນ?
+
+304
+00:23:16,800 --> 00:23:22,800
+[NICO]
+I got a call last night. An old agency friend. He told me my family was in danger. Jax and Lukich can't put all the pieces together yet.    But if it's drugs-CIA-Senate, it's got to be heavy.
+ຂ້ອຍໄດ້ຮັບໂທລະສັບມື້ວານນີ້. ເພື່ອນເກົ່າຂອງອົງການ. ລາວບອກຂ້ອຍວ່າຄອບຄົວຂອງຂ້ອຍຢູ່ໃນອັນຕະລາຍ.
+ເຈັກສ໌ແລະລູຊິຈ໌ຍັງບໍ່ສາມາດເອົາທຸກຊິ້ນສ່ວນເຂົ້າກັນໄດ້ເທື່ອ. ແຕ່ຖ້າມັນເປັນຢາເສບຕິດ - ສະພາສູງຊີໄອເອ, ມັນຕ້ອງ ຫນັກ.
+
+305
+00:23:23,300 --> 00:23:29,300
+[LUKICH]
+You got a weapon? Lukich knows he doesn't. He glances up and down the street, makes sure no one's watching -- then cracks the driver's door of his car. There's a bulge in the map pocket. Nico  pulls out a Sig Saur .45.
+ເຈົ້າມີອາວຸດບໍ? ລູຈິກຮູ້ວ່າລາວບໍ່ເຮັດ. ລາວເບິ່ງຂຶ້ນແລະລົງຖະຫນົນຫົນທາງ, ໃຫ້ແນ່ໃຈວ່າບໍ່ມີໃຜເບິ່ງ
+- ຫຼັງຈາກນັ້ນແຕກປະຕູຜູ້ຂັບຂີ່ຂອງລົດຂອງລາວ. ມີກະດານກະເປົາແຜນທີ່. ນິກໂກດເອົາ Sig Saur.45.
+
+306
+00:23:29,800 --> 00:23:34,350
+[LUKICH]
+Try this on. Jackson watches Luke slip Nico a clip.                         * CUT TO:
+ພະຍາຍາມສິ່ງນີ້. ແຈກຊັນເບິ່ງລຸກເອົາຄລິບນິກໂກ. * ຕັດອອກ:
+
+307
+00:23:34,850 --> 00:23:38,700
+[NICO]
+Sister... you know me. Tell them there's no need for fear.
+ເອື້ອຍ... ເຈົ້າຮູ້ຈັກຂ້ອຍ.
+ບອກພວກເຂົາວ່າບໍ່ມີຄວາມຢ້ານກົວທີ່ຈໍາເປັນ.
+
+308
+00:23:39,200 --> 00:23:42,000
+[SISTER BONIFACIA]
+There is rubble all over the yard, Nicola.
+ມີຂີ້ເຫຍື້ອຢູ່ທົ່ວເດີ່ນ, ນິກາລາ.
+
+309
+00:23:42,500 --> 00:23:48,500
+[NICO]
+I was there... in the church. They tried to kill my family, too. Several of the refugees look like they want to speak, but they are terrified.
+ຂ້ອຍຢູ່ບ່ອນນັ້ນ... ໃນສາດສະຫນາຈັກ. ພວກເຂົາພະຍາຍາມຂ້າຄອບຄົວຂອງຂ້ອຍເຊັ່ນກັນ
+. ພວກອົບພະຍົບຫຼາຍຄົນເບິ່ງຄືວ່າພວກເຂົາຢາກເວົ້າ, ແຕ່ພວກເຂົາຢ້ານກົວ.
+
+310
+00:23:49,000 --> 00:23:55,000
+[NICO]
+I know there was a man here, from an American senator's office. Who was he going to speak to? The refugees become increasingly anxious.
+ຂ້ອຍຮູ້ວ່າມີຜູ້ຊາຍຄົນຫນຶ່ງຢູ່ນີ້, ຈາກຫ້ອງການຂອງສະມາຊິກສະພາສູງອາເມລິກາ
+. ລາວຈະເວົ້າກັບໃຜ? ພວກອົບພະຍົບກາຍເປັນຄວາມກັງວົນຫຼາຍຂຶ້ນ.
+
+311
+00:23:55,500 --> 00:24:00,400
+[NICO]
+Was it you, senora?  Was it you? More silence.    Glances among the people.   Finally:
+ມັນເປັນເຈົ້າບໍ, ແມ່? ແມ່ນເຈົ້າບໍ?
+ຄວາມງຽບສະຫງົບຫຼາຍຂຶ້ນ. ການເບິ່ງໃນບັນດາຄົນ. ສຸດທ້າຍ:
+
+312
+00:24:00,900 --> 00:24:04,400
+[REFUGEE WOMAN]
+The priest. The others shrink.   The Woman glances to them.
+ພະສົງ. ຄົນອື່ນຫຼຸດລົງ. ແມ່ຍິງເບິ່ງພວກມັນ.
+
+313
+00:24:04,900 --> 00:24:06,900
+[NICO]
+Who?  Father Genarro?
+ໃຜ? ພໍ່ເຈນາໂຣ?
+
+314
+00:24:07,400 --> 00:24:09,400
+[REFUGEE WOMAN]
+The other one.
+ຄົນອື່ນ.
+
+315
+00:24:09,900 --> 00:24:12,350
+[REFUGEE WOMAN]
+No. The young one. From Costa Rica.
+ບໍ່. ຄົນຫນຸ່ມ. ຈາກໂກສຕາຣີກາ.
+
+316
+00:24:12,850 --> 00:24:14,850
+[SISTER BONIFACIA]
+Father Tomassino.
+ພໍ່ໂຕມາຊີໂນ.
+
+317
+00:24:15,350 --> 00:24:20,600
+[SISTER BONIFACIA]
+He came alone... two weeks ago. He had papers. Papers to give to the senator.
+ລາວມາຄົນດຽວ... ສອງອາທິດກ່ອນ. ລາວມີເອກະສານ
+. ເອກະສານທີ່ຈະໃຫ້ສະມາຊິກສະພາສູງ.
+
+318
+00:24:21,100 --> 00:24:24,950
+[NICO]
+But the bomb... The bomb was planted to destroy the pulpit.
+ຄຸເຂົ່າລົງ
+
+319
+00:24:25,450 --> 00:24:31,400
+[SISTER BONIFACIA]
+Father Tomassino was going to give the Mass that day.  Father Genarro talked him out of it.
+ພໍ່ໂຕມາຊີໂນຈະໃຫ້ໂມຊາໃນມື້ນັ້ນ. ພໍ່ເຈນາໂຣໄດ້ເວົ້າລາວອອກຈາກມັນ.
+
+320
+00:24:31,900 --> 00:24:35,050
+[NICO]
+It was Father Tomassino they were trying to kill.
+ພວກເຂົາ ກໍາ ລັງພະຍາຍາມຂ້າພໍ່ໂຕມາຊີໂນ.
+
+321
+00:24:35,550 --> 00:24:41,550
+[NICO]
+Where is Tomassino?   Where is he now? The nun shakes her head.   Nico looks to the refugees. They don't know, either.
+ໂຕມາຊີໂນຢູ່ໃສ? ລາວຢູ່ໃສດຽວນີ້? ພະສົງຍືດຫົວ.
+ນິກໂກເບິ່ງພວກອົບພະຍົບ. ພວກເຂົາບໍ່ຮູ້ຄືກັນ.
+
+322
+00:24:42,050 --> 00:24:44,150
+[REFUGEE MAN]
+He run, mister. He go --
+ລາວແລ່ນ, ທ້າວ. ລາວໄປ -
+
+323
+00:24:44,650 --> 00:24:50,650
+[NICO]
+If you know where he is, you've got to tell me. I want to help him. I can help him. The refugees lower their eyes. Bonifacia continues her soft weeping. Nico glances to Jackson; her look says "Enough, let's leave these poor people alone." Nico stands, touches Bonifacia one more time on the shoulder -- 218   EXT. CHURCH DAY CARE BUILDING - DAY
+ຖ້າເຈົ້າຮູ້ວ່າລາວຢູ່ໃສ, ເຈົ້າຕ້ອງບອກຂ້ອຍ. ຂ້ອຍຢາກຊ່ວຍລາວ. ຂ້ອຍສາມາດຊ່ວຍລາວໄດ້. ພວກອົບພະຍົບຫຼຸດຕາລົງ. ໂບນີຟາຊີຍສືບຕໍ່ຮ້ອງໄຫ້ທີ່ອ່ອນແອຂອງນາງ. ນິກໂກເບິ່ງແຈກຊັນ;
+ການເບິ່ງຂອງນາງເວົ້າວ່າ" ພຽງພໍ, ຢ່າມາຍຸ້ງກັບຄົນທຸກຍາກເຫຼົ່ານີ້." ນິໂກຢືນຢູ່, ຈັບໂບນີເຟຊີຍອີກຄັ້ງຫນຶ່ງໃນຈານ - 218 EXT. ການກໍ່ສ້າງວັນການດູແລຂອງສາດສະຫນາຈັກ - ວັນ
+
+324
+00:24:51,150 --> 00:24:53,250
+[NICO]
+You're outa this, Jax.    Go home.
+ເຈົ້າອອກຈາກເລື່ອງນີ້, ເຈັກສ໌. ກັບບ້ານ.
+
+325
+00:24:53,750 --> 00:24:56,550
+[JACKSON]
+You see this list? Well, I'm not done.
+ເຈົ້າເຫັນລາຍຊື່ນີ້ບໍ? ດີ, ຂ້ອຍຍັງບໍ່ສໍາເລັດ.
+
+326
+00:24:57,050 --> 00:25:03,050
+[JACKSON]
+I'm not a rookie, Toscani. Now, go home. Get your family out of here. Nico agrees.    The pair starts to split.
+ຂ້ອຍບໍ່ແມ່ນຄົນໃຫມ່, ໂຕສການີ. ດຽວນີ້, ກັບບ້ານ.
+ເອົາຄອບຄົວຂອງທ່ານອອກຈາກບ່ອນນີ້. ນິກໂກເຫັນດີ. ຄູ່ຄູ່ເລີ່ມແຍກກັນ.
+
+327
+00:25:03,550 --> 00:25:05,550
+[NICO]
+Just paperwork, you understand?
+ພຽງແຕ່ວຽກງານເອກະສານ, ເຈົ້າເຂົ້າໃຈບໍ?
+
+328
+00:25:06,050 --> 00:25:12,050
+[NICO]
+Over here, you sons-a-bitches! Nico's rage is superhuman. The men stare in conster- nation. One of the men has a fresh magazine half into his weapon --
+ຢູ່ບ່ອນນີ້, ພວກເຈົ້າເປັນລູກແຊກແຊງ! ຄວາມໂຊກຮ້າຍຂອງນິກໂກແມ່ນ superhuman.
+ຜູ້ຊາຍເບິ່ງໃນປະເທດທີ່ຍິ່ງໃຫຍ່. ຫນຶ່ງ ໃນຜູ້ຊາຍມີວາລະສານສົດເຄິ່ງໃນອາວຸດຂອງລາວ -
+
+329
+00:25:12,550 --> 00:25:14,550
+[NICO]
+Try it. Be my guest.
+ພະຍາຍາມມັນ. ເປັນແຂກຂອງຂ້ອຍ.
+
+330
+00:25:15,050 --> 00:25:21,050
+[NICO]
+Over there! Move it! -- Now!! The men are scared shitless. They put their hands in back of their heads; trot jelly-legged --
+ຢູ່ບ່ອນນັ້ນ! ຍ້າຍມັນ! - ດຽວນີ້!! ຜູ້ຊາຍຢ້ານກົວຢ່າງບໍ່ເປັນຫຍັງ
+. ພວກເຂົາເອົາມືໃສ່ຫຼັງຫົວຂອງພວກເຂົາ; ຍ່າງດ້ວຍຕີນເຈເລຍ -
+
+331
+00:25:21,550 --> 00:25:25,750
+[NICO]
+Hands on the counter! Three men do it; the fourth is slow.
+ມືໃສ່ໂຕະ! ຜູ້ຊາຍສາມຄົນເຮັດມັນ; ຄົນທີສີ່ຊ້າຊ້າ.
+
+332
+00:25:26,250 --> 00:25:32,250
+[NICO]
+Don't tempt me, ASSHOLE -- The fourth obeys. Nico moves to the pay phone on the wall, covering the men with his .45. He grabs the re-         * ceiver in his free hand; tries to dial. Adrenaline makes his hand shake; the dials spin wrong -- One of the men sees Nico's dilemma. To hit 911, Nico has to take his eye momentarily off his captives. As Nico turns again to the dial -- A free-standing sales display hurtles toward him, crashing into his gun hand. One of the men has lunged into the display; now he dives atop Nico a second later. The whole human pile crashes, thundering into a glass freezer. Somehow Nico gets to his feet. One of the men grabs Nico's gun; Nico swings one of the freezer doors -- Wham! -- smack into the man's face. The GLASS SHATTERS; the man drops like a rock. Now it's three against one -- prime odds for Nico. He wades into his attackers. A coffee stand goes flying. A body sails into a makeup display. One fool is lucky enough to land a blow that bloodies Nico's nose; he pays with a shattered forearm and a head-first heave into an ice cream locker --
+ຢ່າຊັກຊວນຂ້ອຍ, ASSHOLE - ຄົນທີສີ່ຍອມຮັບຟັງ. ນິກໂກຍ້າຍໄປຫາໂທລະສັບຈ່າຍເງິນຢູ່ເທິງກໍາແພງ, ປົກຄຸມຜູ້ຊາຍດ້ວຍ.45. ລາວຈັບ re- * ceiver ໃນມືຟຣີຂອງລາວ; ພະຍາຍາມໂທ.
+ອາເດຣານາລິນເຮັດໃຫ້ມືຂອງລາວສັ່ນສະເທືອນ; ການໂທຫັນຜິດ - ຫນຶ່ງ ໃນຜູ້ຊາຍເຫັນບັນຫາທີ່ຫຍຸ້ງຍາກຂອງນິກໂກ້. ເພື່ອຕີ 911, ນິກັສຕ້ອງເອົາຕາອອກຈາກຄົນຖືກຈັບຂອງລາວຊົ່ວຄາວ. ໃນຂະນະທີ່ນິກ
+
+333
+00:25:32,750 --> 00:25:34,750
+[LUKICH]
+Yeah?
+ແມ່ນແລ້ວບໍ?
+
+334
+00:25:35,250 --> 00:25:41,250
+[NICO]
+Get their stuff into the car now. Do it in the alley, not the driveway. I'll be there in five minutes. CUT TO: 241   TWO MORE POLICE CARS
+ເອົາສິ່ງຂອງຂອງພວກເຂົາໃສ່ລົດດຽວນີ້. ເຮັດມັນໃນຖະຫນົນຫົນທາງ, ບໍ່ແມ່ນທາງເຂົ້າ
+. ຂ້ອຍຈະຢູ່ບ່ອນນັ້ນໃນເວລາຫ້ານາທີ. ຕັດອອກ: 241 ລົດຕໍາຫຼວດອີກສອງຄົນ
+
+335
+00:25:41,750 --> 00:25:43,750
+[NICO]
+Sara...                                               *
+ຊາຣາ... *
+
+336
+00:25:44,250 --> 00:25:48,800
+[NICO]
+You'll be safe with Uncle Branca. It's gotta be this way... I'm sorry.
+ເຈົ້າຈະປອດໄພກັບພໍ່ເຖົ້າບຣານກາ. ມັນຕ້ອງເຮັດແບບນີ້... ຂ້ອຍຂໍໂທດ.
+
+337
+00:25:49,300 --> 00:25:55,300
+[NICO]
+Don't you think I'd rather be with you? He holds her passionately.    Rosa coughs loudly in the doorway.
+ເຈົ້າບໍ່ຄິດວ່າຂ້ອຍມັກຢູ່ກັບເຈົ້າບໍ?
+ລາວຖືນາງດ້ວຍຄວາມກະຕືລືລົ້ນ. ໂຣຊາໂຊກຮ້າຍຢ່າງແຮງໃນປະຕູ.
+
+338
+00:25:55,800 --> 00:26:01,800
+[ROSA]
+I know about babies. We glimpse other relatives in the hallway; Nico hands them a pair of suitcases; they hurry off -- SARA                                    *  You sure you're all right?
+ຂ້ອຍຮູ້ກ່ຽວກັບເດັກນ້ອຍ. ພວກເຮົາເຫັນຍາດພີ່ນ້ອງຄົນອື່ນໃນທາງເດີ່ນ;
+ນິກໂກມອບກະເປົາສອງຄູ່ໃຫ້ພວກເຂົາ; ພວກເຂົາໄວອອກໄປ - ຊາຣາ * ເຈົ້າແນ່ໃຈວ່າເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+339
+00:26:02,300 --> 00:26:08,300
+[NICO]
+I am if you are. SARA                                    *  Don't worry --  We needed a vacation, anyway. Sara takes her suitcase, hurries out --                        *
+ຂ້ອຍເປັນຖ້າເຈົ້າເປັນ. ຊາຣາ * ຢ່າກັງວົນ - ພວກເຮົາຕ້ອງການພັກຜ່ອນ
+, ຢ່າງໃດກໍຕາມ. ຊາລາເອົາກະເປົາຂອງນາງ, ອອກໄວ - *
+
+340
+00:26:08,800 --> 00:26:14,800
+[NICO]
+* I'll give you five minutes start.    We have to do it this way. They get their suitcases into the sedan. Mama and the baby are already aboard. Sara gets into the passenger seat.       * Lukich comes around from the front, glancing around like a lookout.
+* ຂ້ອຍຈະໃຫ້ເຈົ້າເລີ່ມຕົ້ນຫ້ານາທີ. ພວກເຮົາຕ້ອງເຮັດມັນແບບນີ້. ພວກເຂົາເອົາກະເປົາຂອງພວກເຂົາໃສ່ລົດເຊດານ.
+ແມ່ແລະເດັກນ້ອຍຢູ່ເທິງເຮືອແລ້ວ. ຊາຣາເຂົ້າໄປໃນບ່ອນນັ່ງຜູ້ໂດຍສານ. * ລູຊິຈ໌ມາຈາກທາງຫນ້າ, ເບິ່ງຢູ່ອ້ອມຂ້າງຄືກັບຄົນເບິ່ງແຍງ.
+
+341
+00:26:15,300 --> 00:26:17,300
+[NICO]
+Where's Jax?
+ແຈກສ໌ຢູ່ໃສ?
+
+342
+00:26:17,800 --> 00:26:21,300
+[LUKICH]
+She thinks there may be documents at some guy's apartment.
+ນາງຄິດວ່າອາດຈະມີເອກະສານຢູ່ເຮືອນຂອງຜູ້ຊາຍບາງຄົນ.
+
+343
+00:26:21,800 --> 00:26:24,600
+[NICO]
+They killed the wrong priest. Lukich doesn't understand.
+ພວກເຂົາໄດ້ຂ້າປະໂລຫິດທີ່ບໍ່ຖືກຕ້ອງ. ລູຈິກບໍ່ເຂົ້າໃຈ.
+
+344
+00:26:25,100 --> 00:26:31,100
+[NICO]
+There was a second priest... from Costa Rica... hiding at the church. He was the one they meant to kill. Nico starts to remove a large piece of ducting from the basement heater.
+ມີພະສົງຄົນທີສອງ... ຈາກໂກສຕາ ຣິກາ... ເຊື່ອງໄວ້ໃນສາດສະຫນາຈັກ. ລາວເປັນຄົນທີ່ພວກເຂົາ ຫມາຍ
+ຄວາມວ່າຈະຂ້າ. ນິກໂກເລີ່ມເອົາຊິ້ນສ່ວນຂະຫນາດໃຫຍ່ຂອງທໍ່ຈາກເຄື່ອງເຮັດຄວາມຮ້ອນຊັ້ນລຸ່ມ.
+
+345
+00:26:31,600 --> 00:26:34,050
+[LUKICH]
+And you know where to find him?
+ແລະເຈົ້າຮູ້ວ່າຈະຊອກຫາລາວຢູ່ໃສ?
+
+346
+00:26:34,550 --> 00:26:36,550
+[NICO]
+No.
+ບໍ່
+
+347
+00:26:37,050 --> 00:26:41,600
+[LUKICH]
+You're gonna need help. Nico grabs the pistols, starts to strap them on.
+ເຈົ້າຈະຕ້ອງການຄວາມຊ່ວຍເຫຼືອ. ນິກໂກຈັບປືນ, ເລີ່ມຕິດພວກມັນໃສ່.
+
+348
+00:26:42,100 --> 00:26:47,700
+[NICO]
+Just stay with my family Nico replaces the piece of foundation, starts back up the steps.
+ພຽງແຕ່ຢູ່ກັບຄອບຄົວຂອງຂ້ອຍ ນິກໂກປ່ຽນສ່ວນພື້ນຖານ
+, ເລີ່ມຂຶ້ນຂັ້ນຕອນຄືນໄປບ່ອນ.
+
+349
+00:26:48,200 --> 00:26:50,200
+[LUKICH]
+What are you gonna do?
+ເຈົ້າຈະເຮັດແນວໃດ?
+
+350
+00:26:50,700 --> 00:26:54,550
+[NICO]
+You don't want to know. 248    EXT. ALLEY BEHIND NICO'S HOUSE
+ເຈົ້າບໍ່ຢາກຮູ້. 248 ອອກໄປ. ຖະຫນົນທາງຢູ່ເບື້ອງຫຼັງເຮືອນຂອງນິກໂກ
+
+351
+00:26:55,050 --> 00:27:01,050
+[BRANCA]
+My sister's cousin's place. You're safe -- not even I can find this joint. The family enters the back room.    They take in their sanctuary.
+ເຮືອນຂອງອ້າຍນ້ອງຂອງເອື້ອຍຂອງຂ້ອຍ. ເຈົ້າປອດໄພ - ເຖິງແມ່ນວ່າຂ້ອຍບໍ່ສາມາດຊອກຫາບ່ອນນີ້ໄດ້
+. ຄອບຄົວເຂົ້າໄປໃນຫ້ອງຫຼັງ. ພວກເຂົາເອົາບ່ອນສັກສິດຂອງພວກເຂົາ.
+
+352
+00:27:01,550 --> 00:27:03,550
+[NICO]
+Don't forget your seat belt.
+ຢ່າລືມສາຍຄວາມປອດໄພຂອງທ່ານ.
+
+353
+00:27:04,050 --> 00:27:07,200
+[NICO]
+Keep walking --  -- I'm bucking for number one.
+ສືບຕໍ່ຍ່າງ - - ຂ້ອຍ ກໍາ ລັງກ້າຫານອັນດັບ ຫນຶ່ງ.
+
+354
+00:27:07,700 --> 00:27:11,900
+[CLERK]
+What can I do for you, lads? Neeley presents his ID.                                       *
+ຂ້ອຍສາມາດເຮັດຫຍັງໄດ້ ສໍາ ລັບເຈົ້າ, ພວກຜູ້ຊາຍ
+? ນີລີ ນໍາ ສະ ເຫນີ ບັດປະຈໍາຕົວຂອງລາວ. *
+
+355
+00:27:12,400 --> 00:27:14,400
+[CLERK]
+Hell, that's gone.
+ສະບາຍດີ, ນັ້ນຫາຍໄປແລ້ວ.
+
+356
+00:27:14,900 --> 00:27:16,900
+[NICO]
+When?
+ເມື່ອໃດ?
+
+357
+00:27:17,400 --> 00:27:22,650
+[CLERK]
+Right away, pardner. They scooped that stuff outa here before we even got it tagged.
+ທັນທີ, ຄູ່ຮ່ວມງານ.
+ພວກເຂົາເອົາສິ່ງນັ້ນອອກຈາກບ່ອນນີ້ກ່ອນທີ່ພວກເຮົາຈະໃສ່ປ້າຍມັນເລີຍ.
+
+358
+00:27:23,150 --> 00:27:25,150
+[NICO]
+Who?    Who took it?
+ໃຜ? ໃຜເອົາມັນ?
+
+359
+00:27:25,650 --> 00:27:31,650
+[C.I.A.]
+Nico reacts, nudges Neeley once more.                         * AGENT NEELEY                          *  We'd like to see the paperwork. The Clerk has an accordion file right under the counter. He indicates a sign-in book.
+ນິກໂກປະຕິກິລິຍາ, ກະຕຸ້ນນີລີອີກຄັ້ງຫນຶ່ງ. * ຕົວແທນນີລີ * ພວກເຮົາຢາກເຫັນເອກະສານ
+. ເຈົ້າຫນ້າທີ່ມີເອກະບຽນອາຄໍເນຍຢູ່ພາຍໃຕ້ໂຕະ. ລາວຊີ້ໃຫ້ເຫັນປື້ມເຂົ້າສູ່ລະບົບ.
+
+360
+00:27:32,150 --> 00:27:34,150
+[CLERK]
+You gotta sign.
+ເຈົ້າຕ້ອງລົງນາມ.
+
+361
+00:27:34,650 --> 00:27:40,650
+[CLERK]
+Yeah... I remember that guy. Flew in special from Langley. Bomb tech. Real nice fella --  -- Here it is. Fox. Nelson Fox.
+ແມ່ນແລ້ວ... ຂ້ອຍຈື່ຄົນນັ້ນ. ບິນໂດຍສະເພາະຈາກລັງເລີ. ເຕັກໂນໂລຢີລະເບີດ
+. ຜູ້ຊາຍທີ່ດີແທ້ໆ - - ນີ້ແມ່ນມັນ. ຟອກສ໌. ເນລສັນ ຟອກຊ໌.
+
+362
+00:27:41,150 --> 00:27:45,000
+[FEMALE]
+-- Here it is, sir. Coming in from Langley now --
+- ມັນຢູ່ບ່ອນນີ້ເດີ. ມາຈາກລັງເລີດຽວນີ້ -
+
+363
+00:27:45,500 --> 00:27:51,500
+[FEMALE]
+-- That agent has been with the Central American desk, uh, since '84 -- AGENT NEELEY                              *  Thank you. That's what I wanted. Nico takes the mike, clicks it back into its cradle.     Neeley    * freezes, unsure what Nico's going to do with him.
+- ຕົວແທນຄົນນັ້ນຢູ່ກັບໂຕະອາເມລິກາກາງ, ອູ, ນັບຕັ້ງແຕ່ປີ 84 - ຕົວຈິງເນລີ * ຂອບໃຈ. ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຕ້ອງການ
+. ນິກໂກເອົາໄມຄ໌, ຄລິກມັນກັບຄືນໄປບ່ອນຕູ້ຂອງມັນ. ນີລີ * ກ້ອນ, ບໍ່ແນ່ໃຈວ່ານີໂກຈະເຮັດຫຍັງກັບລາວ.
+
+364
+00:27:52,000 --> 00:27:57,250
+[NICO]
+Dump your shoes. Ditch your I.D. on the floor. Nico watches the FBI man obey.
+ເອົາເກີບຂອງທ່ານລົງ. ຖິ້ມໃບຢັ້ງຢືນຂອງທ່ານລົງເທິງພື້ນ
+. ນິກໂກເບິ່ງຜູ້ຊາຍ FBI ຍອມຮັບ.
+
+365
+00:27:57,750 --> 00:28:03,750
+[NICO]
+So you think I'm a lousy cop, huh, Neeley? Maybe I am. But I haven't got                   * my face buried up Washington's ass. AGENT NEELEY                              * Nobody buys me, Toscani.
+ສະນັ້ນເຈົ້າຄິດວ່າຂ້ອຍເປັນຕໍາຫຼວດທີ່ບໍ່ດີ, ແມ່ນບໍ, ນີລີ? ບາງທີຂ້ອຍເປັນ. ແຕ່ຂ້ອຍບໍ່ມີ
+* ໃບຫນ້າຂອງຂ້ອຍຖືກຝັງໄວ້ໃນບາກຂອງວໍຊິງຕັນ. ຕົວແທນນີລີ * ບໍ່ມີໃຜຊື້ຂ້ອຍ, ໂຕສການີ.
+
+366
+00:28:04,250 --> 00:28:10,250
+[NICO]
+Yeah? Then somebody pulled the plug on your brain, pal. You didn't come up with the second priest, did you? Or Harrison's dead aide.  Hurry up!                                 * You heard the radio. The Agency's pushing buttons and bodies are dropping like flies. You assholes are missing half the case!
+ແມ່ນແລ້ວ? ຫຼັງຈາກນັ້ນບາງຄົນໄດ້ດຶງປັອກໄຟໃນສະຫມອງຂອງທ່ານ, ເພື່ອນ. ເຈົ້າບໍ່ໄດ້ຄິດກັບປະໂລຫິດທີສອງ, ແມ່ນບໍ? ຫຼືຜູ້ຊ່ວຍຕາຍຂອງຮາຣີສັນ
+. ໄວຂຶ້ນ! * ເຈົ້າໄດ້ຍິນວິທະຍຸ. ອົງການ ກໍາ ລັງກົດປຸ່ມແລະຮ່າງກາຍ ກໍາ ລັງຕົກລົງຄືກັບແມງໄມ້. ເຈົ້າຢອກຊື່ໆຮ້າຍຂາດເຄິ່ງກໍລະນີ!
+
+367
+00:28:10,750 --> 00:28:12,750
+[NICO]
+Watch your step.
+ລະວັງຂັ້ນຕອນຂອງທ່ານ.
+
+368
+00:28:13,250 --> 00:28:19,250
+[NEWSWOMAN]
+Police sources also speculate that Toscani may be connected to the suspect in the bombing of St. Elizabeth's parish church --
+ແຫຼ່ງຂ່າວຕໍາຫຼວດຍັງຄາດວ່າ
+ໂຕສການີອາດຈະເຊື່ອມໂຍງກັບຜູ້ຕ້ອງສົງໄສໃນການວາງລະເບີດໃນສາດສະຫນາຈັກຂອງສະຕ໌ ເອລີຊາບິດ -
+
+369
+00:28:19,750 --> 00:28:25,750
+[NEWSWOMAN]
+-- the suspect is likely to be armed and considered to be extremely dangerous -- Nico's police ID photo appears on the news.   He blends back into the crowd.
+- ຜູ້ຕ້ອງສົງໄສອາດຈະມີອາວຸດແລະຖືວ່າເປັນອັນຕະລາຍຫຼາຍ -
+ຮູບບັດຕໍາຫຼວດຂອງນິກໂກປາກົດຢູ່ໃນຂ່າວ. ລາວປະສົມກັບຄືນໄປບ່ອນໃນຄົນຊົມເຊີຍ.
+
+370
+00:28:26,250 --> 00:28:32,200
+[NEWSWOMAN]
+In other news, Senator Ernest Harrison's presidential bid has... Nico moves swiftly through the convention center floor
+ໃນຂ່າວອື່ນໆ, ການສະຫມັກເລືອກຕັ້ງປະທານາທິບໍດີຂອງສະມາຊິກສະພາສູງເອຣນສຕ໌
+ຮາຣີສັນໄດ້... ນິກໂກຍຍຍ້າຍຢ່າງໄວວາຜ່ານຊັ້ນສູນປະຊຸມ
+
+371
+00:28:32,700 --> 00:28:38,700
+[WATANABE]
+So good to see you again, sir!  Come back near closing... five- thirty... we'll place your order then. Nico nods, fades like a shadow into the throng.     MUSIC
+ດີໃຈທີ່ເຫັນເຈົ້າອີກຄັ້ງເດີ! ກັບມາໃກ້ປິດ... ຫ້າ - ສາມສິບ...
+ພວກເຮົາຈະສັ່ງຂອງທ່ານຫຼັງຈາກນັ້ນ. ນິກໂກຍຫົວ, ສິ້ນສຸດລົງຄືກັບເງົາໃນຄົນຊົມເຊີຍ. ດົນຕີ
+
+372
+00:28:39,200 --> 00:28:43,050
+[NICO]
+Listen, Wat... you know I wouldn't call in a favor --
+ຟັງ, ວັດ... ເຈົ້າຮູ້ວ່າຂ້ອຍຈະບໍ່ຮ້ອງຂໍຄວາມຊ່ວຍເຫຼືອ -
+
+373
+00:28:43,550 --> 00:28:49,550
+[WATANABE]
+Of course not. Just because you kept a few 'friendly' tribesmen from cutting my heart out and serving it up as Pad Thai? With a wink, Watanabe escorts Nico into a back area off the floor. Carpeted office dividers set off a small area, packed with super sophisticated computer equipment.
+ຄຸເຂົ່າລົງ
+
+374
+00:28:50,050 --> 00:28:56,050
+[WATANABE]
+The last six years I've been risking nothing but money. It's a kick to risk my ass again.
+ໃນຫົກປີທີ່ຜ່ານມາຂ້ອຍບໍ່ໄດ້ສ່ຽງຫຍັງນອກຈາກເງິນ
+. ມັນເປັນການຕີທີ່ຈະສ່ຽງຫລັງຂອງຂ້ອຍອີກຄັ້ງ.
+
+375
+00:28:56,550 --> 00:28:58,550
+[NICO]
+The old Spook.
+ສະປຸກເກົ່າ.
+
+376
+00:28:59,050 --> 00:29:05,050
+[CUT AWAY TO:]
+263   OMITTED & 264 265   INT. JACKSON'S APARTMENT - NIGHT Jackson has the Senator's aide's papers spread before her, cataloging them with interest. The PHONE RINGS. Jackson picks it up.
+263 OMITTED & 264 265 INT. ອາພາດເມັນຂອງແຈກຊອນ - ໃນຕອນກາງຄືນແຈັກຊອນມີເອກະສານຂອງຜູ້ຊ່ວຍຂອງສະມາຊິກສະພາສູງແຜ່ລາມຢູ່ຕໍ່ຫນ້ານາງ
+, ບັນທຶກພວກມັນດ້ວຍຄວາມສົນໃຈ. ແມວໂທລະສັບ. ແຈກສອນເອົາມັນ.
+
+377
+00:29:05,550 --> 00:29:09,750
+[JACKSON]
+Jackson. Whoever the voice is , it makes Jackson forget the documents.
+ແຈກສັນ. ສຽງແມ່ນໃຜກໍ່ຕາມ, ມັນເຮັດໃຫ້ແຈກຊັນລືມເອກະສານ.
+
+378
+00:29:10,250 --> 00:29:15,850
+[JACKSON]
+-- Yes... yes, of course, sister, I know who you are.  -- where... where are you?
+- ແມ່ນແລ້ວ... ແມ່ນແລ້ວ, ແນ່ນອນ, ເອື້ອຍ,
+ຂ້ອຍຮູ້ວ່າເຈົ້າເປັນໃຜ. - ຢູ່ໃສ... ເຈົ້າຢູ່ໃສ?
+
+379
+00:29:16,350 --> 00:29:22,350
+[WATANABE]
+-- No way to access Covert Ops directly. But Ornstein's at Princeton, he's got a database bigger than Langley --  If I can't crack that turkey's code, it's time to hang up my rock and roll shoes -- Nico watches Watanabe work.
+- ບໍ່ມີທາງທີ່ຈະເຂົ້າເຖິງການປະຕິບັດງານທີ່ປິດບັງໂດຍກົງ. ແຕ່ Ornstein ຢູ່ປຣິນສຕັນ, ລາວມີຖານຂໍ້ມູນທີ່ໃຫຍ່ກວ່າລັງເລີ -
+ຖ້າຂ້ອຍບໍ່ສາມາດ crack ລະຫັດຂອງ turkey ນັ້ນໄດ້, ມັນເຖິງເວລາທີ່ຈະວາງເກີບຫີນແລະ roll ຂອງຂ້ອຍ - ນິກໂກເບິ່ງວຽກງານ Watanabe ໄດ້.
+
+380
+00:29:22,850 --> 00:29:28,850
+[WATANABE]
+-- ah, here! Here's a little trap door. Let's see if we can wriggle up into --  Personnel files! Operative dossiers. Will that do?
+- ອາ, ຢູ່ບ່ອນນີ້! ນີ້ແມ່ນປະຕູແຄບນ້ອຍໆ. ມາເບິ່ງວ່າພວກເຮົາສາມາດຍືດຫຍຸ່ນຂຶ້ນໄດ້ບໍ
+- ໄຟລ໌ພະນັກງານ! ໄຟລໍປະຕິບັດງານ. ມັນຈະເຮັດໄດ້ບໍ?
+
+381
+00:29:29,350 --> 00:29:35,350
+[NICO]
+It's a start. Nico sits down beside Watanabe. DISSOLVE TO: 267   FULL ASHTRAY Watanabe stubs out a cigarette. Empty coffee cups all around. Nico paces, reading a hard-copy printout.
+ມັນເປັນການເລີ່ມຕົ້ນ. ນິກໂກນັ່ງຢູ່ຂ້າງວາດາເນບ. ລະລາຍໄປຫາ: 267 ອາສຕຣາເຕັມໆ
+ວາດາ ເນບສ໌ສູບຢາ. ຈອກກາເຟຫວ່າງຢູ່ທົ່ວໄປ. ນິໂກຍຍ່າງ, ອ່ານການພິມແບບແຂງ.
+
+382
+00:29:35,850 --> 00:29:41,850
+[NICO]
+Fox has had a helluva career.  '69 to '76, Cambodia, Laos. Operation Phoenix. Operation Green Mountain. Operaton Northstar. This is all Vang Pao, it's all heroin --
+ຟອກສ໌ມີອາຊີບເຮລູວາ. ປີ 69 ຫາປີ 76, ກໍາປູເຈຍ, ລາວ. ການປະຕິບັດງານຟີນິກສ໌. ການ ດໍາ
+ເນີນງານພູສີຂຽວ. ການດໍາເນີນງານດາວເຫນືອ. ນີ້ແມ່ນວັງປາໂກ້ທັງ ຫມົດ, ມັນແມ່ນເຮໂຣອິນທັງ ຫມົດ -
+
+383
+00:29:42,350 --> 00:29:44,450
+[WATANABE]
+You friend has found his metier.
+ເພື່ອນຂອງເຈົ້າໄດ້ພົບອາຊີບຂອງລາວແລ້ວ.
+
+384
+00:29:44,950 --> 00:29:50,950
+[NICO]
+Run personnel retrievals on all these operations. I want the names of every company man who was on them.
+ຂ້ອຍຢາກມີຊື່ຂອງຜູ້ຊາຍບໍລິສັດທຸກຄົນທີ່ຢູ່ໃນພວກມັນ.
+
+385
+00:29:51,450 --> 00:29:57,450
+[NICO]
+Altshuler. Cosgrove. I know half these guys --  Okay... now run me an update. Where are these fuckers now? QUICK DISSOLVE TO:
+ແອລສຊູເລີ. ຄັສກຣູຟ. ຂ້ອຍຮູ້ຈັກເຄິ່ງຄົນເຫຼົ່ານີ້ - ດີແລ້ວ...
+ດຽວນີ້ແລ່ນໃຫ້ຂ້ອຍອັບເດດ. ຄົນໂຊກຮ້າຍເຫຼົ່ານີ້ຢູ່ໃສດຽວນີ້? ການແກ້ໄຂຢ່າງໄວວາ:
+
+386
+00:29:57,950 --> 00:30:00,750
+[WATANABE]
+Central American desk. Central American desk. Central --
+ໂຕະອາເມລິກາກາງ. ໂຕະອາເມຣິກາກາງ. ສູນກາງ -
+
+387
+00:30:01,250 --> 00:30:07,250
+[NICO]
+Thirty names from secret drug operations... and two-thirds of 'em are in Central America.  All right. Run these two names: Bautista Salvano and Ramon 'Chi Chi' Testamente.
+ຊື່ສາມສິບຊື່ຈາກການປະຕິບັດງານຢາເສບຕິດລັບ... ແລະສອງສ່ວນສາມຂອງພວກມັນຢູ່ໃນອາເມລິກາກາງ
+. ດີແລ້ວ. ດໍາ ເນີນຊື່ທັງສອງນີ້: Bautista Salvano ແລະ Ramon'Chi Chi' Testament.
+
+388
+00:30:07,750 --> 00:30:13,750
+[WATANABE]
+Those street dealers you were talking about? They're not gonna be in here. Nico gives her a look.    Watanabe starts punching keys.     * 270   CLOSE - COMPUTER SCREEN Official biographies of Salvano and Chi Chi come up.
+ພວກພໍ່ຄ້າຖະຫນົນທີ່ເຈົ້າ ກໍາ ລັງເວົ້າກ່ຽວກັບບໍ? ພວກເຂົາຈະບໍ່ຢູ່ໃນບ່ອນນີ້. ນິກໂກສ໌ເບິ່ງນາງ.
+ວັດານາເບຍເລີ່ມຕີປຸ່ມ. * 270 ໃກ້ຊິດ - ຫນ້າ ຈໍຄອມພິວເຕີຊີວະປະຫວັດທາງການຂອງຊາລເວໂນແລະ Chi Chi ອອກມາ.
+
+389
+00:30:14,250 --> 00:30:20,250
+[WATANABE]
+Well, kiss my ass.  Both former Somoza secret police.  Recruited by agency, 1975. Trained Fort Benning, counter insurgency...
+ດີ, ຈູບຫລັງຂອງຂ້ອຍ. ທັງສອງເປັນຕໍາຫຼວດລັບໂຊໂມຊາເກົ່າ.
+ຖືກຈ້າງໂດຍອົງການ, ປີ 1975. ຝຶກອົບຮົມ Fort Benning, ຕ້ານການກະບົດ...
+
+390
+00:30:20,750 --> 00:30:24,950
+[NICO]
+Where's Fox's printout?  1976... Fort Benning. He recruited these pricks! DISSOLVE TO:
+ການພິມຂອງຟອກສ໌ຢູ່ໃສ? ປີ 1976... ຟອດ ເບນນິງ
+. ລາວໄດ້ຈ້າງຄົນໂຊກຮ້າຍເຫຼົ່ານີ້! ແກ້ໄຂໃຫ້:
+
+391
+00:30:25,450 --> 00:30:28,600
+[WATANABE]
+There's nothing left, Nico.     We've wrung these files dry.
+ບໍ່ມີຫຍັງເຫຼືອແລ້ວ, ນິກໂກ.
+ພວກເຮົາໄດ້ສັ່ນສະເທືອນເອກະສານເຫຼົ່ານີ້ແຫ້ງ.
+
+392
+00:30:29,100 --> 00:30:35,100
+[NICO]
+Fox is here, in Chicago... or was here...  ... Listen. Can this thing tap into airlines? Reservations records --
+ຟອກສ໌ຢູ່ບ່ອນນີ້, ໃນຊິຄາໂກ... ຫຼືຢູ່ບ່ອນນີ້ແມ່ນ......
+ຟັງ. ສິ່ງນີ້ສາມາດເຂົ້າເຖິງສາຍການບິນໄດ້ບໍ? ບັນທຶກການຈອງ -
+
+393
+00:30:35,600 --> 00:30:39,100
+[WATANABE]
+I can get you the ball scores, too. DISSOLVE TO:
+ຂ້ອຍສາມາດເອົາຄະແນນບານໃຫ້ເຈົ້າໄດ້ເຊັ່ນກັນ. ແກ້ໄຂໃຫ້:
+
+394
+00:30:39,600 --> 00:30:45,600
+[NICO]
+Five agents   from Central American desk. All trained   assassins. All arrived in Chicago in   the last week -- and none of them has   left. Nico grabs his coat, gulps a last swallow of coffee --
+ຕົວແທນຫ້າຄົນຈາກໂຕະອາເມລິກາກາງ. ພວກຄາດຕະກໍາທີ່ໄດ້ຮັບການຝຶກອົບຮົມທັງ ຫມົດ. ທັງ ຫມົດ
+ໄດ້ມາຮອດຊິຄາໂກໃນອາທິດທີ່ຜ່ານມາ - ແລະບໍ່ມີໃຜອອກຈາກພວກເຂົາ. ນິກໂກຈັບເສື້ອຜ້າຂອງລາວ, ຈູດກາເຟສຸດທ້າຍ -
+
+395
+00:30:46,100 --> 00:30:50,300
+[NICO]
+Thanks, Wat. You finally may have done some good for your country.
+ຂອບໃຈ, ວັດ. ເຈົ້າອາດຈະໄດ້ເຮັດສິ່ງທີ່ດີ
+ສໍາ ລັບປະເທດຂອງທ່ານໃນທີ່ສຸດ.
+
+396
+00:30:50,800 --> 00:30:52,800
+[WATANABE]
+Where are you going?
+ເຈົ້າໄປໃສ?
+
+397
+00:30:53,300 --> 00:30:55,300
+[NICO]
+To find a priest.
+ເພື່ອຊອກຫາພະສົງ.
+
+398
+00:30:55,800 --> 00:30:57,800
+[NICO]
+How did ya find him?
+ເຈົ້າພົບລາວແນວໃດ?
+
+399
+00:30:58,300 --> 00:31:04,300
+[JACKSON]
+The nun phoned me. She said two men had been sneaking around the church. She sounded scared --
+ນາງພະສົງໂທຫາຂ້ອຍ.
+ນາງເວົ້າວ່າຜູ້ຊາຍສອງຄົນໄດ້ລັກລອບຢູ່ທົ່ວສາດສະຫນາຈັກ. ນາງສຽງຢ້ານກົວ -
+
+400
+00:31:04,800 --> 00:31:10,800
+[JACKSON]
+There's more. I got the papers from that senator's aide's apartment. Everything Harrison's been working on. It's all at my place. CUT TO:
+ມີອີກຫຼາຍຢ່າງ. ຂ້ອຍໄດ້ຮັບເຈ້ຍຈາກເຮືອນຂອງຜູ້ຊ່ວຍຂອງສະມາຊິກສະພາສູງນັ້ນ.
+ທຸກສິ່ງທຸກຢ່າງທີ່ຮາຣີສັນ ກໍາ ລັງເຮັດວຽກຢູ່. ມັນທັງ ຫມົດ ຢູ່ເຮືອນຂອງຂ້ອຍ. ຕັດອອກ:
+
+401
+00:31:11,300 --> 00:31:17,300
+[VOICE]
+Once you're inside, you'll signal us. 277   INT. CAR - CLOSEUP ON TREMBLING WOMAN  It is the Middle-aged Woman who left the bomb, seen in Father Genarro's church. A police sketch of her was seen on tele- vision. She is looking up at the third-floor window, getting instructions. She turns around occasionally to see who's talking to her.
+ເມື່ອເຈົ້າຢູ່ໃນພາຍໃນ, ເຈົ້າຈະແຈ້ງໃຫ້ພວກເຮົາ. 277 INT ລົດ - CLOSEUP ກ່ຽວກັບແມ່ຍິງທີ່ສັ່ນສະເທືອນ ມັນແມ່ນແມ່ຍິງອາຍຸກາງທີ່ອອກຈາກລະເບີດ, ເຫັນໃນສາດສະຫນາຈັກຂອງພໍ່ເຈນາຣໂຣ
+. ຮູບແຕ້ມຕໍາຫຼວດຂອງນາງໄດ້ຖືກເຫັນໃນໂທລະພາບ. ນາງ ກໍາ ລັງເບິ່ງປ່ອງຢ້ຽມຊັ້ນທີສາມ, ໄດ້ຮັບ ຄໍາ ແນະ ນໍາ. ນາງຫັນໄປບາງຄັ້ງເພື່ອເບິ່ງວ່າໃຜເວົ້າກັບນາງ.
+
+402
+00:31:17,800 --> 00:31:23,800
+[SALVANO]
+Don't be scared. Your life depends on this. 278   CLOSE ON DRIVER It is one of Salvano's goons we've seen before.    He is checking his gun. 279   INT. TENEMENT HALLWAY - NIGHT
+ຢ່າຢ້ານກົວ. ຊີວິດຂອງທ່ານຂຶ້ນກັບສິ່ງນີ້. 278 ໃກ້ກັບຄົນຂັບຂີ່ມັນເປັນ ຫນຶ່ງ
+ໃນຄົນຮ້າຍຂອງຊາລວານູທີ່ພວກເຮົາເຄີຍເຫັນກ່ອນ. ລາວ ກໍາ ລັງກວດສອບປືນຂອງລາວ. 279 INT. TENEMENT HALLWAY - ຄືນ
+
+403
+00:31:24,300 --> 00:31:26,400
+[MIDDLE-AGED WOMAN]
+Exusame, por favor. Tiene dinero para...
+ຂໍໂທດຂ້ອຍ, ກະລຸນາ. ມີເງິນ ສໍາ ລັບ...
+
+404
+00:31:26,900 --> 00:31:32,900
+[ZAGON]
+You'll be in heaven in a few minutes, padre. But first I'm going to put you through hell. 293   EXT. CHICAGO STREET - NIGHT
+ເຈົ້າຈະຢູ່ໃນສະຫວັນໃນສອງສາມນາທີ, ພໍ່.
+ແຕ່ກ່ອນຂ້ອຍຈະເຮັດໃຫ້ເຈົ້າຜ່ານອານາໄມ. 293 ອອກ. ຖະຫນົນຊິກາໂກ - ຄືນ
+
+405
+00:31:33,400 --> 00:31:37,950
+[ZAGON]
+You came here to talk to the                        * Senator's aide, didn't you?                         *
+ເຈົ້າມາບ່ອນນີ້ເພື່ອເວົ້າກັບ * ຜູ້ຊ່ວຍຂອງສະມາຊິກສະພາສູງ, ແມ່ນບໍ? *
+
+406
+00:31:38,450 --> 00:31:41,250
+[FATHER TOMASSINO]
+I tried.   But you killed him first.                *
+ຂ້ອຍພະຍາຍາມ. ແຕ່ເຈົ້າໄດ້ຂ້າລາວກ່ອນ. *
+
+407
+00:31:41,750 --> 00:31:44,200
+[ZAGON]
+Who told you about our plans?                       *
+ໃຜບອກເຈົ້າກ່ຽວກັບແຜນການຂອງພວກເຮົາ? *
+
+408
+00:31:44,700 --> 00:31:47,500
+[FATHER TOMASSINO]
+This is from confession. I tell no one.
+ນີ້ແມ່ນມາຈາກການຍອມຮັບ. ຂ້ອຍບໍ່ບອກໃຜເລີຍ.
+
+409
+00:31:48,000 --> 00:31:51,150
+[ZAGON]
+You wouldn't lie to me, Father?   It's a sin.
+ເຈົ້າຈະບໍ່ຕົວະຂ້ອຍບໍ, ພໍ່? ມັນເປັນຄວາມບາບ.
+
+410
+00:31:51,650 --> 00:31:57,600
+[ZAGON]
+If you spoke to anyone, tell me now --  -- and I won't have to use this.
+ຖ້າເຈົ້າເວົ້າກັບໃຜ, ບອກຂ້ອຍດຽວນີ້ - - ແລະຂ້ອຍຈະບໍ່ຕ້ອງໃຊ້ສິ່ງນີ້.
+
+411
+00:31:58,100 --> 00:32:04,100
+[NICO]
+You're our backup. If we come out running, then you can shoot. Nico's eyes meet his partner's. It's plain he'll break her leg if he has to, to keep her safe by the car. Jackson accepts this reluctantly.
+ເຈົ້າເປັນການສະ ຫນັບ ສະ ຫນູນ ຂອງພວກເຮົາ. ຖ້າພວກເຮົາອອກແລ່ນ, ຫຼັງຈາກນັ້ນເຈົ້າສາມາດຍິງໄດ້. ຕາຂອງນິກໂກພົບກັບຂອງຄູ່ຮ່ວມງານຂອງລາວ
+. ມັນຈະແຈ້ງວ່າລາວຈະຕັດຕີນຂອງນາງຖ້າລາວຕ້ອງເຮັດ, ເພື່ອຮັກສານາງປອດໄພຢູ່ຂ້າງລົດ. ແຈກຊອນຍອມຮັບສິ່ງນີ້ບໍ່ຢາກ.
+
+412
+00:32:04,600 --> 00:32:07,750
+[ZAGON]
+Speak to me, Father -- who did you tell?
+ເວົ້າກັບຂ້ອຍ, ພໍ່ - ເຈົ້າບອກໃຜ?
+
+413
+00:32:08,250 --> 00:32:12,100
+[FATHER TOMASSINO]
+I know what you are. I know what beasts you are.
+ຂ້ອຍຮູ້ວ່າເຈົ້າເປັນຫຍັງ. ຂ້ອຍຮູ້ວ່າເຈົ້າເປັນສັດໃດ.
+
+414
+00:32:12,600 --> 00:32:15,050
+[ZAGON]
+I want to know who you told.
+ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າບອກໃຜ.
+
+415
+00:32:15,550 --> 00:32:21,550
+[FATHER TOMASSINO]
+I told them... you make the ninos... see... castrating their fathers -- raping... mutilating their mothers ... And...  ... and sometimes... to the ninos... 302   NICO'S POV - HALLWAY
+ຂ້ອຍບອກພວກເຂົາວ່າ... ເຈົ້າເຮັດໃຫ້ຄົນໂນໂກ້... ເບິ່ງ... ການຕັດພໍ່ຂອງພວກເຂົາ - ການຂົ່ມຂືນ...
+ການຂັດຂວາງແມ່ຂອງພວກເຂົາ... ແລະ...... ແລະບາງຄັ້ງ... ກັບຄົນໂອນໂກ້... 302 NICO'S POV - HALLWAY
+
+416
+00:32:22,050 --> 00:32:28,050
+[ZAGON]
+-- Tell me the truth, Father -- The priest's eyes roll grotesquely; he convulses, sweat beading on his forehead. He looks like a man in the agonies of some narcotic hell.
+- ບອກຂ້ອຍຄວາມຈິງ, ພໍ່ - ຕາຂອງປະໂລຫິດລວດລ້ອມຢ່າງໂຊກຮ້າຍ; ລາວສັ່ນສະເທືອນ,
+ຄວາມຫວານທີ່ສົດໃສຢູ່ຫນ້າເອິກຂອງລາວ. ລາວເບິ່ງຄືວ່າເປັນຜູ້ຊາຍໃນຄວາມທຸກທໍລະມານຂອງອານາໄມຢາເສບຕິດບາງຢ່າງ.
+
+417
+00:32:28,550 --> 00:32:34,550
+[ZAGON]
+-- Can we kill him? If you told anyone, about our plans to kill the senator, we cannot do it.
+- ພວກເຮົາສາມາດຂ້າລາວໄດ້ບໍ? ຖ້າເຈົ້າບອກໃຜ,
+ກ່ຽວກັບແຜນການຂອງພວກເຮົາທີ່ຈະຂ້າສະມາຊິກສະພາສູງ, ພວກເຮົາບໍ່ສາມາດເຮັດໄດ້.
+
+418
+00:32:35,050 --> 00:32:41,050
+[FATHER TOMASSINO]
+Nadie.   Nadie. Nadie.                             * 305   NICO AND LUKICH IN HALLWAY O.S. we hear another ELEVATED TRAIN APPROACHING outside. Nico kicks the apartment door in! He and Lukich burst in, guns clutched two-handed. 306   QUICK CUTS
+ບໍ່ມີໃຜ. ບໍ່ໃຜ. ໃຜ. * 305 NICO ແລະ LUKICH ໃນ HALLWAY O.S ພວກເຮົາໄດ້ຍິນລົດໄຟທີ່ສູງຂຶ້ນອີກຄົນ ຫນຶ່ງ
+ໃກ້ຊິດຢູ່ພາຍນອກ. ນິກໂກຕີປະຕູອາພາດເມັນເຂົ້າມາ! ລາວແລະລູຊິຈ໌ລະເບີດເຂົ້າມາ, ປືນຈັບດ້ວຍສອງມື. 306 ຕັດໄວ
+
+419
+00:32:41,550 --> 00:32:46,100
+[NICO]
+Go!   Go! -- Simultaneously FIRING back through the kicked-in door, EMPTYING his GUN.
+ໄປ! ໄປ! - ໃນເວລາດຽວກັນຍິງຄືນຜ່ານປະຕູທີ່ຖືກຕີເຂົ້າ, ປົດປືນຂອງລາວ.
+
+420
+00:32:46,600 --> 00:32:48,600
+[ZAGON]
+Get him! Finish him!
+ຈັບລາວ! ຈົບລາວ!
+
+421
+00:32:49,100 --> 00:32:55,100
+[ZAGON]
+Now! Nico bolts for the stairwell to the roof, clawing for a new clip as he goes. Salvano and Zagon burst into the hallway, SHOOTING at Nico. 308   INTERCUT - ELEVATED TRAIN THUNDERING along the tracks adjacent to the building.
+ຄຸເຂົ່າລົງ
+
+422
+00:32:55,600 --> 00:33:01,600
+[NICO]
+-- Had to be a hero... another fucking hero. I'm sorry Jax. He reaches for a small calendar, looks at it.
+- ຕ້ອງເປັນວິລະຊົນ... ວິລະຊົນອີກຄົນຫນຶ່ງ.
+ຂ້ອຍຂໍໂທດແຈກສ໌. ລາວຍືດຕາຕະລາງນ້ອຍໆ, ເບິ່ງມັນ.
+
+423
+00:33:02,100 --> 00:33:08,100
+[NICO]
+-- Senator... --  -- dumb fuck... think they're gonna let you put 'em outta business -- 327A   INT. EMERGENCY ROOM CORRIDOR - NIGHT
+- ສະມາຊິກສະພາສູງ... - - ຄົນໂງ່... ຄິດວ່າພວກເຂົາຈະປ່ອຍໃຫ້ເຈົ້າເອົາພວກມັນອອກຈາກທຸລະກິດ
+- 327A INT. ເສັ້ນທາງຫ້ອງສຸກເສີນ - ຄືນ
+
+424
+00:33:08,600 --> 00:33:12,800
+[JACKSON]
+You call Nico's goddamn Uncle and find out if he's heard anything.
+ເຈົ້າໂທຫາພໍ່ເຖົ້າຂອງນິກໂກແລະຮູ້ວ່າລາວໄດ້ຍິນຫຍັງບໍ.
+
+425
+00:33:13,300 --> 00:33:16,100
+[LUKICH]
+You just shutup and take it easy, pal.
+ເຈົ້າພຽງແຕ່ປິດແລະຜ່ອນຄາຍ, ເພື່ອນ.
+
+426
+00:33:16,600 --> 00:33:22,600
+[LUKICH]
+We don't know what happened to him, Branca. Ya, she's gonna be alright. 328B   INT. BRANCA'S SAFE HOUSE - NIGHT Branca, a bodyguard next to him, grimly puts down the phone. He looks devastated.
+ພວກເຮົາບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນກັບລາວ, Branca. ແມ່ນແລ້ວ, ນາງຈະດີດີ. 328B INT. ເຮືອນທີ່ປອດໄພຂອງ Branca
+- ຄືນ Branca, ຄົນປົກປ້ອງຮ່າງກາຍຢູ່ຂ້າງລາວ, ວາງໂທລະສັບລົງຢ່າງໂຊກຮ້າຍ. ລາວເບິ່ງຄືວ່າຖືກທໍາລາຍ.
+
+427
+00:33:23,100 --> 00:33:25,100
+[BRANCA]
+Jesus Christ!
+ພຣະເຢຊູຄຣິດ!
+
+428
+00:33:25,600 --> 00:33:27,600
+[NICO]
+The motherfuckas got Jackson.
+ພວກໂຊກຮ້າຍຈັບແຈກຊັນແລ້ວ.
+
+429
+00:33:28,100 --> 00:33:34,100
+[BRANCA]
+Lukich called. She's not dead. She's gonna make it. She was wearing a vest. Nico can't believe it. In spite of it all, life comes to him. A little smile...
+ລູຊິຈ໌ໄດ້ໂທ. ນາງບໍ່ໄດ້ຕາຍ. ນາງຈະເຮັດໄດ້. ນາງໃສ່ເສື້ອຜ້າເສື້ອຍືດ.
+ນິກໂກບໍ່ສາມາດເຊື່ອມັນໄດ້. ເຖິງແມ່ນວ່າສິ່ງທັງ ຫມົດ, ຊີວິດມາຫາລາວ. ຄວາມມ່ວນຊື່ນນ້ອຍໆ...
+
+430
+00:33:34,600 --> 00:33:40,600
+[NICO]
+That broad didn't trust me. CUT TO: 331   EXT. BRANCA'S SAFE HOUSE - POV FROM WINDOW - NIGHT
+ແມ່ຍິງຄົນນັ້ນບໍ່ເຊື່ອຂ້ອຍ. ຕັດອອກໄປ: 331 ອອກໄປ.
+ເຮືອນທີ່ປອດໄພຂອງບຣານກາ - POV ຈາກປ່ອງຢ້ຽມ - ຄືນ
+
+431
+00:33:41,100 --> 00:33:44,250
+[BRANCA]
+It was picked up with your mail this afternoon.
+ມັນຖືກເອົາກັບຈົດຫມາຍຂອງທ່ານໃນຕອນບ່າຍນີ້.
+
+432
+00:33:44,750 --> 00:33:50,000
+[BRANCA]
+Don't worry, they're booked on an early plane. They'll be out of the country tomorrow.
+ຢ່າກັງວົນ, ພວກເຂົາຖືກຈອງໄວ້ໃນເຮືອບິນຕອນເຊົ້າ
+. ພວກເຂົາຈະອອກຈາກປະເທດມື້ອື່ນ.
+
+433
+00:33:50,500 --> 00:33:53,300
+[BRANCA]
+He's fine.   The boy has ribs of steel!
+ລາວບໍ່ເປັນຫຍັງ. ເດັກຊາຍມີກະດູກເຫຼັກ!
+
+434
+00:33:53,800 --> 00:33:59,800
+[ROSA]
+Enough of your humor. Sara clings to Nico's arm, tears in her eyes. Rosa               * crosses herself. Sara begins to weep. The doctor finishes.       * There's a long awkward moment. Then:
+ພຽງພໍກັບຄວາມມ່ວນຊື່ນຂອງທ່ານ. ຊາຣາຕິດຢູ່ແຂນຂອງນິກໂກ, ນໍ້າຕາໃນຕາຂອງນາງ. ໂຣຊາ * ຂ້າມຕົວເອງ
+. ຊາລາເລີ່ມຮ້ອງໄຫ້. ທ່ານຫມໍສິ້ນສຸດລົງ. * ມີຊົ່ວຄາວທີ່ຫຍຸ້ງຍາກຍາວນານ. ຫຼັງຈາກນັ້ນ:
+
+435
+00:34:00,300 --> 00:34:02,300
+[BRANCA]
+Leave them. Leave them alone.
+ຢ່າມາຍຸ້ງກັບພວກເຂົາ.
+
+436
+00:34:02,800 --> 00:34:08,800
+[SARA]
+-- You've got to do it, Nico.    You know you have to. Whatever Sara is proposing, Nico is dead set against it.
+- ເຈົ້າຕ້ອງເຮັດມັນ, ນິກໂກ. ເຈົ້າຮູ້ວ່າເຈົ້າຕ້ອງເຮັດ.
+ບໍ່ວ່າຊາຣາ ກໍາ ລັງສະເຫນີຫຍັງ, ນິໂກຕັ້ງໃຈຕໍ່ຕ້ານມັນຢ່າງຕາຍ.
+
+437
+00:34:09,300 --> 00:34:15,300
+[ROSA]
+Listen to her, Nicola.  Whatever you think of him, Federico is family. He is our family. Nico makes no response.   Instead, he lifts Julian, nuzzles him tenderly.
+ຟັງນາງ, ນິກາລາ. ບໍ່ວ່າເຈົ້າຄິດຫຍັງກ່ຽວກັບລາວ, ຟີເດຣິກໂກແມ່ນຄອບຄົວ.
+ລາວເປັນຄອບຄົວຂອງພວກເຮົາ. ນິໂກບໍ່ຕອບໂຕ້. ແທນທີ່ຈະ, ລາວຍົກຈູລຽນ, ຈັບລາວດ້ວຍຄວາມອ່ອນແອ.
+
+438
+00:34:15,800 --> 00:34:21,050
+[NICO]
+Ever notice how clean babies smell? Like nothing in the world has touched them yet.
+ເຈົ້າເຄີຍສັງເກດເຫັນວ່າເດັກນ້ອຍກິ່ນຫອມສະອາດຫຼາຍປານໃດບໍ
+? ຄືກັບວ່າບໍ່ມີຫຍັງໃນໂລກທີ່ ສໍາ ຜັດພວກມັນເທື່ອ.
+
+439
+00:34:21,550 --> 00:34:24,350
+[SARA]
+If you won't go to him, I will.
+ຖ້າເຈົ້າບໍ່ໄປຫາລາວ, ຂ້ອຍຈະໄປ.
+
+440
+00:34:24,850 --> 00:34:29,750
+[NICO]
+Don't push me like this -- Her eyes meet his -- loving, but desperate.
+ຢ່າກົດຂ້ອຍແບບນີ້ - ຕາຂອງນາງພົບກັບຂອງລາວ - ຮັກແພງ, ແຕ່ຫວັງຫວັງ.
+
+441
+00:34:30,250 --> 00:34:36,250
+[SARA]
+Branca can put us on a plane -- but where can we fly to? Tibet? The moon? There's nowhere they can't find us.
+ບຣານກາສາມາດເອົາພວກເຮົາໃສ່ເຮືອບິນໄດ້ - ແຕ່ພວກເຮົາສາມາດບິນໄປໃສໄດ້
+? ທິເບດ? ດວງຈັນ? ບໍ່ມີບ່ອນໃດທີ່ພວກເຂົາບໍ່ສາມາດຊອກຫາພວກເຮົາໄດ້.
+
+442
+00:34:36,750 --> 00:34:39,900
+[NICO]
+You don't know what the hell you're talking about.
+ເຈົ້າບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງຢູ່.
+
+443
+00:34:40,400 --> 00:34:44,950
+[SARA]
+I'm talking about everything I've learned from you in the past five years.
+ຂ້ອຍ ກໍາ
+ລັງເວົ້າກ່ຽວກັບທຸກຢ່າງທີ່ຂ້ອຍໄດ້ຮຽນຮູ້ຈາກເຈົ້າໃນຫ້າປີທີ່ຜ່ານມາ.
+
+444
+00:34:45,450 --> 00:34:50,350
+[NICO]
+You know I can't go to him. Sara takes both his hands in hers.
+ເຈົ້າຮູ້ວ່າຂ້ອຍບໍ່ສາມາດໄປຫາລາວໄດ້.
+ຊາຣາເອົາມືທັງສອງຂອງລາວໃນມືຂອງນາງ.
+
+445
+00:34:50,850 --> 00:34:56,850
+[SARA]
+Do you know why I love you? Do you know what it is about you that I've always loved?  Pride. It's what you have inside. You don't live the way other people live. You trust what you see as right and won't let anyone or anything make you stray from it.
+ເຈົ້າຮູ້ວ່າຂ້ອຍຮັກເຈົ້າເປັນຫຍັງບໍ? ເຈົ້າຮູ້ວ່າມັນກ່ຽວກັບເຈົ້າທີ່ຂ້ອຍຮັກຢູ່ສະເຫມີບໍ? ຄວາມພາກພູມໃຈ. ມັນແມ່ນສິ່ງທີ່ເຈົ້າມີພາຍໃນ.
+ເຈົ້າບໍ່ດໍາລົງຊີວິດຕາມວິທີທີ່ຄົນອື່ນ ດໍາລົງຊີວິດ. ເຈົ້າເຊື່ອຖືສິ່ງທີ່ເຈົ້າເຫັນວ່າຖືກຕ້ອງແລະຈະບໍ່ປ່ອຍໃຫ້ໃຜຫຼືສິ່ງໃດເຮັດໃຫ້ເຈົ້າຫ່າງຈາກມັນ.
+
+446
+00:34:57,350 --> 00:35:03,350
+[SARA]
+But now that pride may kill all of us.  You've got to swallow that pride, Nico. Choke on it if you have to. Lay it aside.
+ແຕ່ດຽວນີ້ຄວາມກຽດຊັງນັ້ນອາດຈະຂ້າພວກເຮົາທຸກຄົນ. ເຈົ້າຕ້ອງຈູດຄວາມກ້າຫານນັ້ນ
+, ນິກໂກ. ຈັບມັນຖ້າເຈົ້າຕ້ອງເຮັດ. ເອົາມັນໄວ້ຂ້າງຫນຶ່ງ.
+
+447
+00:35:03,850 --> 00:35:05,850
+[MAN]
+Is this the attorney?
+ນີ້ແມ່ນທະນາຍຄວາມບໍ?
+
+448
+00:35:06,350 --> 00:35:12,350
+[ANOTHER MAN]
+You can come now, Mr. Carlucci. O.S. we hear a METALLIC sound BEGIN, VERY CLOSE -- PULL BACK TO:
+ເຈົ້າສາມາດມາໄດ້ດຽວນີ້, ທ້າວ ຄາລູຊີ. ໂອເອສ
+ພວກເຮົາໄດ້ຍິນສຽງໂລຫະເລີ່ມຕົ້ນ, ໃກ້ຊິດຫຼາຍ - ດຶງກັບຄືນໄປບ່ອນ:
+
+449
+00:35:12,850 --> 00:35:18,850
+[FREDERICO LARUSSO]
+I am only an old man. An old man with a cancer. The two are like an old and a young lion, appraising each other -- using all five senses and more.
+ຂ້ອຍພຽງແຕ່ເປັນຜູ້ຊາຍເຖົ້າຄົນດຽວ. ຜູ້ຊາຍອາຍຸທີ່ມີມະເຮັງ. ທັງສອງແມ່ນຄືກັບຊ້າງເຖົ່າແລະຊ້າງຫນຸ່ມ
+, ການປະເມີນກັນແລະກັນ - ໂດຍໃຊ້ຄວາມຮູ້ສຶກທັງຫ້າແລະຫຼາຍກວ່ານັ້ນ.
+
+450
+00:35:19,350 --> 00:35:25,350
+[NICO]
+I don't have much time, Uncle.    So I must speak plainly. Larusso listens.   Nico waits for a beat.   Then:
+ຂ້ອຍບໍ່ມີເວລາຫຼາຍ, ພໍ່ເຖົ້າ. ສະນັ້ນຂ້ອຍຕ້ອງເວົ້າຢ່າງງ່າຍດາຍ
+. ລາຣູສໂກ້ຟັງ. ນິກໂກລໍຖ້າການຕີ. ຫຼັງຈາກນັ້ນ:
+
+451
+00:35:25,850 --> 00:35:31,850
+[NICO]
+-- For as long as I've been old enough to think, I've hated you and hated everything you stood for. Larusso takes this in without a flicker.
+- ຕະຫຼອດເວລາທີ່ຂ້ອຍມີອາຍຸພຽງພໍທີ່ຈະຄິດ, ຂ້ອຍກຽດຊັງເຈົ້າແລະກຽດ
+ຊັງທຸກຢ່າງທີ່ທ່ານຢືນຢູ່. ລາຣູສໂກ້ຮັບເອົາສິ່ງນີ້ໂດຍບໍ່ມີການສ່ອງແສງ.
+
+452
+00:35:32,350 --> 00:35:38,350
+[NICO]
+I was so sure that you and I were on opposite sides of the fence... and that you and your people were destroying this country -- Nico pauses, glances away across the grounds.
+ຂ້ອຍແນ່ໃຈວ່າເຈົ້າແລະຂ້ອຍຢູ່ທາງກົງກັນຂ້າມຂອງແຄບ... ແລະເຈົ້າແລະຄົນຂອງທ່ານ
+ກໍາ ລັງ ທໍາ ລາຍປະເທດນີ້ - ນິກໂກຢຸດເຊົາ, ເບິ່ງໄປທົ່ວພື້ນທີ່.
+
+453
+00:35:38,850 --> 00:35:44,850
+[NICO]
+-- The most painful realization of my life was that the people I worked for and you are not far apart.  -- And there's not much difference between what you are and what I was. Larusso studies Nico a long moment.    Then takes Nico's elbow. * * 347   OMITTED                                                         * 348   NICO AND LARUSSO
+ຄຸເຂົ່າລົງ
+
+454
+00:35:45,350 --> 00:35:51,350
+[FREDERICO LARUSSO]
+I will be    candid with you. I knew, probably    before you did, that you would be    coming to me. I knew what you would    ask... and I had every intention    of refusing you.
+ຂ້ອຍຈະເວົ້າຢ່າງຈິງໃຈກັບເຈົ້າ. ຂ້ອຍຮູ້ແລ້ວ, ບາງທີກ່ອນເຈົ້າຈະເຮັດ, ວ່າເຈົ້າຈະມາຫາຂ້ອຍ
+. ຂ້ອຍຮູ້ວ່າເຈົ້າຈະຖາມຫຍັງ... ແລະຂ້ອຍມີຈຸດປະສົງທັງ ຫມົດ ທີ່ຈະປະຕິເສດເຈົ້າ.
+
+455
+00:35:51,850 --> 00:35:57,450
+[FREDERICO LARUSSO]
+But it is a form of wisdom to know when to cease relying only upon yourself.
+ແຕ່ມັນເປັນຮູບແບບຂອງຄວາມສະຫຼາດທີ່ຈະຮູ້ວ່າຈະຢຸດເຊົາການອີງໃສ່ຕົວເອງເທົ່ານັ້ນເມື່ອໃດ
+.
+
+456
+00:35:57,950 --> 00:36:03,950
+[FREDERICO LARUSSO]
+You know, of course, that this Senator Harrison will never live to make his speech tomorrow.  You know, too, that as long as this man... this torturer --
+ເຈົ້າຮູ້ແລ້ວ, ແນ່ນອນວ່າສະມາຊິກສະພາສູງຮາຣີສັນນີ້ຈະບໍ່ດໍາລົງຊີວິດເພື່ອໃຫ້ການກ່າວຄໍາປາໄສມື້ອື່ນ
+. ເຈົ້າຍັງຮູ້ເຊັ່ນກັນ, ວ່າໃນຂະນະທີ່ຜູ້ຊາຍຄົນນີ້... ຜູ້ທໍລະມານຄົນນີ້ -
+
+457
+00:36:04,450 --> 00:36:06,450
+[NICO]
+Kurt Zagon.
+ຄູຕ ຊາກອນ.
+
+458
+00:36:06,950 --> 00:36:12,950
+[FREDERICO LARUSSO]
+-- As long as this Zagon lives, nothing I can do will guarantee your family's safety.  'Ecce non uomine, ecce bestie.' You know Dante?  'These are not men, these are animals.'
+- ຕາບໃດທີ່ຊາກອນຄົນນີ້ຍັງມີຊີວິດຢູ່, ບໍ່ມີຫຍັງທີ່ຂ້ອຍສາມາດເຮັດໄດ້ທີ່ຈະຮັບປະກັນຄວາມປອດໄພຂອງຄອບຄົວຂອງທ່ານ
+.'Ecce ບໍ່ເປັນແມ່ຍິງ, exce bestie. ເຈົ້າຮູ້ຈັກດັນເຕ?' ເຫຼົ່ານີ້ບໍ່ແມ່ນຜູ້ຊາຍ, ເຫຼົ່ານີ້ແມ່ນສັດ.
+
+459
+00:36:13,450 --> 00:36:15,450
+[FREDERICO LARUSSO]
+Memorize this address.
+ຈື່ທີ່ຢູ່ນີ້ໄວ້.
+
+460
+00:36:15,950 --> 00:36:21,900
+[FREDERICO LARUSSO]
+Have you got it in your mind? Nico nods.    Larusso tears the paper into tiny shreds.             *
+ເຈົ້າມີມັນຢູ່ໃນຈິດໃຈບໍ? ນິກໂກຍຫົວ.
+ລາຣູສໂກ້ແຕກເຈ້ຍເປັນສິ້ນສ່ວນນ້ອຍໆ. *
+
+461
+00:36:22,400 --> 00:36:27,650
+[FREDERICO LARUSSO]
+Thank you, Mr. Carlucci. I trust you will give my love to my niece, Rosa.
+ຂອບໃຈທ່ານ ຄາລູຊີ.
+ຂ້ອຍເຊື່ອວ່າເຈົ້າຈະໃຫ້ຄວາມຮັກຂອງຂ້ອຍໃຫ້ນ້ອງສາວຂອງຂ້ອຍ, ໂຣຊາ.
+
+462
+00:36:28,150 --> 00:36:32,350
+[NICO]
+I will do that, Mr. Larusso.  I hope you will be well.
+ຂ້ອຍຈະເຮັດແບບນັ້ນ, ທ້າວລາຣູສໂກ້. ຂ້ອຍຫວັງວ່າເຈົ້າຈະດີດີ.
+
+463
+00:36:32,850 --> 00:36:38,450
+[BRANCA]
+You got the architect's drawings? Wiring, floor plans -- Nico indicates a briefcase he is carrying.
+ເຈົ້າມີຮູບແຕ້ມຂອງນັກສະຖາປັດຕະຍະກໍາບໍ? ສາຍໄຟ,
+ແຜນພື້ນ - ນິກໂກຊີ້ໃຫ້ເຫັນກະເປົາທີ່ລາວຖືຢູ່.
+
+464
+00:36:38,950 --> 00:36:43,150
+[NICO]
+It's all here. Nico turns to his uncle.    Regards him with affection.
+ມັນທັງ ຫມົດ ຢູ່ບ່ອນນີ້. ນິກໂກຫັນໄປຫາພໍ່ເຖົ້າຂອງລາວ
+. ເບິ່ງແຍງລາວດ້ວຍຄວາມຮັກ.
+
+465
+00:36:43,650 --> 00:36:46,100
+[BRANCA]
+I could help you from here on.
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ຈາກບ່ອນນີ້.
+
+466
+00:36:46,600 --> 00:36:48,600
+[NICO]
+It's not your business.
+ມັນບໍ່ແມ່ນເລື່ອງຂອງເຈົ້າ.
+
+467
+00:36:49,100 --> 00:36:51,550
+[NICO]
+Grazie, tio caro. Branca pats Nico's cheek.
+ຂອບໃຈ, ພໍ່ເຖົ້າແມ. Branca ຕີໃບຫນ້າຂອງນິກໂກ.
+
+468
+00:36:52,050 --> 00:36:54,500
+[BRANCA]
+Take care of yourself, Nicola. CUT TO:
+ເບິ່ງແຍງຕົວເອງ, ນິກາລາ. ຕັດອອກ:
+
+469
+00:36:55,000 --> 00:37:01,000
+[VOICE]
+Not even you can hit him at this range, Nico. O.S. behind Nico: the unmistakable sound of a .45 SAFETY being CLICKED OFF. Nico freezes, his back to the voice. He raises his hands.
+ເຖິງແມ່ນວ່າເຈົ້າບໍ່ສາມາດຕີລາວໄດ້ໃນໄລຍະນີ້, ນິກໂກ. O.S ຢູ່ເບື້ອງຫຼັງນິກໂກ້:
+ສຽງທີ່ບໍ່ສາມາດສັບສົນໄດ້ຂອງ.45 ຄວາມປອດໄພຖືກຄລິກປິດ. ນິໂກກກ້ອນ, ກັບຄືນໄປບ່ອນສຽງ. ລາວຍົກມືຂອງລາວ.
+
+470
+00:37:01,500 --> 00:37:07,500
+[NICO]
+That wasn't the plan, Nelson. 366   NELSON FOX covers Nico from behind with a silencer-fitted .45. He glances to the briefcase and building plans, on the floor.
+ນັ້ນບໍ່ແມ່ນແຜນການ, ເນລສັນ. 366 ເນລຊັນ ຟອກສ໌ປົກຄຸມນິກໂກຈາກຫຼັງດ້ວຍ.45
+ທີ່ຕິດຕັ້ງເຄື່ອງປິດສຽງ. ລາວເບິ່ງກະເປົາແລະແຜນການກໍ່ສ້າງ, ຢູ່ເທິງພື້ນ.
+
+471
+00:37:08,000 --> 00:37:12,200
+[FOX]
+Close range, huh? Never work. Place is rigged, scanned every 35 seconds.
+ໄລຍະໃກ້ຊິດ, ແມ່ນບໍ? ບໍ່ເຄີຍເຮັດວຽກ.
+ສະຖານທີ່ຈົບແນ່, ສະແກນທຸກໆ 35 ວິນາທີ.
+
+472
+00:37:12,700 --> 00:37:17,950
+[NICO]
+I was thinking of a mine on the roof. Remote-triggered, when the chopper comes in.
+ຂ້ອຍ ກໍາ ລັງຄິດກ່ຽວກັບແຮ່ທາດຢູ່ເທິງເຮືອນຫລັງ.
+ຖືກກະຕຸ້ນຈາກໄລຍະໄກ, ເມື່ອເຮືອບິນເຮລິຄອບເຕີເຂົ້າມາ.
+
+473
+00:37:18,450 --> 00:37:23,350
+[FOX]
+Roof's wired too.   Sensors every fifteen feet. Fox's finger rests ready on the trigger.
+ເຮືອນຫລັງຍັງຕິດສາຍແອວເຊັ່ນກັນ. ເຊັນເຊີທຸກໆສິບຫ້າແມັດ
+. ນິ້ວມືຂອງຟອກສ໌ພັກພ້ອມຢູ່ເທິງກະຕຸ້ນ.
+
+474
+00:37:23,850 --> 00:37:29,850
+[FOX]
+You can turn now.   Slowly.   Slooowly... Nico turns. We see Fox clearly now. His boyish features have weathered since his "spook" days in Vietnam. There is grey in his hair now: he wears an expensive suit and is alone.
+ເຈົ້າສາມາດຫັນໄປດຽວນີ້ໄດ້. ຊ້າໆ. ຊ່ອຍໆ... ນິກໂກຫັນມາ. ພວກເຮົາເຫັນຟອກສ໌ຢ່າງຈະແຈ້ງດຽວນີ້.
+ລັກສະນະຂອງເດັກຊາຍຂອງລາວໄດ້ສະພາບອາກາດນັບຕັ້ງແຕ່ມື້" spook" ຂອງລາວໃນຫວຽດນາມ. ມີສີຂີ້ເຖົ່າໃນຜົມຂອງລາວດຽວນີ້: ລາວໃສ່ຊຸດທີ່ແພງແລະຢູ່ຄົນດຽວ.
+
+475
+00:37:30,350 --> 00:37:33,500
+[FOX]
+I figured you'd do your recon from this building.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະເຮັດການກວດສອບຈາກອາຄານນີ້.
+
+476
+00:37:34,000 --> 00:37:36,000
+[NICO]
+You're looking fit, Nelson.
+ເຈົ້າເບິ່ງຄືວ່າແຂງແຮງ, ເນລສັນ.
+
+477
+00:37:36,500 --> 00:37:38,600
+[FOX]
+Getting a bit of a tire.
+ຂ້ອຍ ກໍາ ລັງເອົາລົດຖີບບາງຢ່າງ.
+
+478
+00:37:39,100 --> 00:37:41,100
+[NICO]
+Your own tailor?
+ຜູ້ຕັດຜ້າຂອງທ່ານເອງບໍ?
+
+479
+00:37:41,600 --> 00:37:43,600
+[FOX]
+Hong Kong.
+ຮ່ອງກົງ.
+
+480
+00:37:44,100 --> 00:37:50,100
+[NICO]
+You've gone a long way. Fox motions for Nico to dump his gun; Nico complies, dropping it gently into the briefcase. Nico takes half a step toward Fox. Fox shakes his head in warning.
+ເຈົ້າໄດ້ໄປທາງຍາວນານແລ້ວ. ຟອກສ໌ເຄື່ອນໄຫວໃຫ້ນິກໂກຖິ້ມປືນຂອງລາວ; ນິໂກປະຕິບັດຕາມ,
+ຖິ້ມມັນຢ່າງອ່ອນແອໃນກະເປົາກະເປົ໋າ. ນິກໂກ້ເອົາເຄິ່ງບາດກ້າວໄປຫາຟອກຊ໌. ຟຸກສ໌ສັ່ນຫົວເພື່ອເຕືອນ.
+
+481
+00:37:50,600 --> 00:37:56,600
+[FOX]
+Uh uh.  Uhhh-uh...  I know what you can do when you get too close to a man. 367    CLOSEUP - NICO                                                  * NICO                                    * I don't believe you, Fox.                             * 367A   INT. BUILDING CORRIDOR - NIGHT                                  *
+ໂອ້. ໂອ້... ຂ້ອຍຮູ້ວ່າເຈົ້າສາມາດເຮັດຫຍັງໄດ້ເມື່ອເຈົ້າໃກ້ຊິດກັບຜູ້ຊາຍເກີນໄປ. 367 CLOSEUP
+- NICO * ນິກໂກ * ຂ້ອຍບໍ່ເຊື່ອເຈົ້າ, ຟອກສ໌. * 367A INT. ການກໍ່ສ້າງທາງເດີນທາງ - ຄືນ *
+
+482
+00:37:57,100 --> 00:38:02,000
+[FOX]
+-- What's so hard to believe. I want to help you, you dumb guinea!
+- ຂ້ອຍຢາກຊ່ວຍເຈົ້າ, ເຈົ້າກີເນຍໂງ່!
+
+483
+00:38:02,500 --> 00:38:04,500
+[NICO]
+Fox the fixer.
+ຟອກສ໌ຜູ້ແກ້ໄຂ.
+
+484
+00:38:05,000 --> 00:38:11,000
+[FOX]
+If I wanted to cap you, I'd have saved myself this chit-chat. Make big points for me to bring in your scalp. I'd be White House material.
+ຖ້າຂ້ອຍຢາກປິດເຈົ້າ, ຂ້ອຍຈະປະຢັດຕົວເອງການສົນທະນານີ້. ເຮັດຈຸດໃຫຍ່ ສໍາ
+ລັບຂ້ອຍທີ່ຈະ ນໍາ ເອົາຜິວຫົວຂອງທ່ານ. ຂ້ອຍຈະເປັນວັດສະດຸຂອງທໍານຽບຂາວ.
+
+485
+00:38:11,500 --> 00:38:15,000
+[NICO]
+Is that what Zagon is?    One of your basement boys?
+ນັ້ນແມ່ນສິ່ງທີ່ຊາກອນແມ່ນບໍ? ຫນຶ່ງໃນເດັກຊາຍຊັ້ນລຸ່ມຂອງທ່ານບໍ?
+
+486
+00:38:15,500 --> 00:38:19,000
+[FOX]
+Zagon's a rancher. 4000 acres in Costa Rica. Beautiful place.
+ຊາກອນເປັນຜູ້ລ້ຽງສັດ. 4000 ເຮັກຕາໃນໂກສຕາ ຣິກາ. ສະຖານທີ່ທີ່ສວຍງາມ.
+
+487
+00:38:19,500 --> 00:38:21,950
+[NICO]
+Bought with what -- opium from Cambodia?
+ຊື້ດ້ວຍຫຍັງ - opium ຈາກກໍາປູເຈຍ?
+
+488
+00:38:22,450 --> 00:38:25,950
+[FOX]
+And a ton a week of coke from other places.
+ແລະໂກເກຍຫຼາຍໂຕນຕໍ່ອາທິດຈາກສະຖານທີ່ອື່ນ.
+
+489
+00:38:26,450 --> 00:38:30,650
+[NICO]
+Which he funnels here through Salvano. With the Company getting its cut.
+ເຊິ່ງລາວສົ່ງມາບ່ອນນີ້ຜ່ານ Salvano
+. ດ້ວຍບໍລິສັດໄດ້ຮັບສ່ວນແບ່ງຂອງຕົນ.
+
+490
+00:38:31,150 --> 00:38:33,150
+[FOX]
+Legal tender.
+ເງິນທີ່ຖືກຕ້ອງຕາມກົດ ຫມາຍ.
+
+491
+00:38:33,650 --> 00:38:35,750
+[NICO]
+Still dodging appropriations committees, eh, Nelson?
+ຍັງຫຼີກເວັ້ນຄະນະກໍາມະການເງິນທຶນ, ແມ່ນບໍ, ເນລສັນ?
+
+492
+00:38:36,250 --> 00:38:39,400
+[FOX]
+That's my job, Nico. They arrive at an elevator.
+ນັ້ນແມ່ນວຽກຂອງຂ້ອຍ, ນິກໂກ. ພວກເຂົາມາຮອດຍົກ.
+
+493
+00:38:39,900 --> 00:38:45,900
+[FOX]
+Keep your nose in the corner. When we get out, stay five paces ahead of me. Cross down to the garage. 367B   INT. LOWER CORRIDOR Nico and Fox emerge from the elevator. Nico lowers his hands from behind his head. Fox keeps his gun out of sight as he and Nico step past. 368    ELEVATOR BANK - NIGHT
+ຮັກສາດັງຂອງທ່ານຢູ່ໃນແຄມ. ເມື່ອພວກເຮົາອອກໄປ, ຢູ່ຫ້າບາດກ້າວກ່ອນຂ້ອຍ. ຂ້າມລົງໄປບ່ອນ garage ໄດ້. 367B INT. ທາງລຸ່ມ Nico ແລະ Fox
+ອອກຈາກ lift ໄດ້. Nico ຫຼຸດມືຈາກຫຼັງຫົວຂອງລາວ. Fox ຮັກສາປືນຂອງລາວອອກຈາກສາຍຕາໃນຂະນະທີ່ລາວແລະ Nico ຍ່າງຜ່ານ. 368 ELEVATOR BANK - ຄືນ
+
+494
+00:38:46,400 --> 00:38:52,400
+[NICO]
+The Senator couldn't be bought, could he? He was gonna blow the lid off, so you cleared Zagon to frost him --
+ສະມາຊິກສະພາສູງບໍ່ສາມາດຊື້ໄດ້ບໍ? ລາວຈະລະເບີດຜ້າປິດ
+, ສະນັ້ນເຈົ້າໄດ້ປ່ອຍ Zagon ເພື່ອກ້ອນລາວ -
+
+495
+00:38:52,900 --> 00:38:54,900
+[FOX]
+Keep walking.
+ຍ່າງຕໍ່ໄປ.
+
+496
+00:38:55,400 --> 00:39:01,400
+[NICO]
+But the priest found out somehow and ran here. You couldn't do the Senator's number 'till you knew if the priest had talked. So Zagon flew in with his little medical bag. Only by then I was in on it -- and you thought I might recognize his handiwork.
+ແຕ່ປະໂລຫິດໄດ້ຮູ້ຢ່າງໃດກໍ່ຕາມແລະແລ່ນມາບ່ອນນີ້. ເຈົ້າບໍ່ສາມາດເຮັດຕົວເລກຂອງສະມາຊິກສະພາສູງໄດ້ຈົນກວ່າເຈົ້າຈະຮູ້ວ່າຜູ້ນໍາໄດ້ເວົ້າແລ້ວບໍ
+. ສະນັ້ນຊາກອນໄດ້ບິນເຂົ້າມາດ້ວຍຖົງການແພດນ້ອຍຂອງລາວ. ພຽງແຕ່ໃນເວລານັ້ນຂ້ອຍຢູ່ໃນມັນ - ແລະເຈົ້າຄິດວ່າຂ້ອຍອາດຈະຮັບຮູ້ວຽກງານມືຂອງລາວ.
+
+497
+00:39:01,900 --> 00:39:07,900
+[FOX]
+If your name was Joe Smith I never would have caught it. But how many Nicola Toscani's are there?
+ຖ້າຊື່ເຈົ້າແມ່ນໂຈ ສມິດ ຂ້ອຍຈະບໍ່ຈັບມັນເລີຍ
+. ແຕ່ມີນິກາລາ ໂຕສການີຫຼາຍປານໃດ?
+
+498
+00:39:08,400 --> 00:39:10,850
+[NICO]
+You got it off the arrest sheet.
+ເຈົ້າເອົາມັນຈາກໃບຈັບກຸມ.
+
+499
+00:39:11,350 --> 00:39:17,350
+[FOX]
+I tried to warn you, old buddy. I knew you had wiretaps. and I knew you wouldn't let 'em go.
+ຂ້ອຍພະຍາຍາມເຕືອນເຈົ້າ, ເພື່ອນເກົ່າ. ຂ້ອຍຮູ້ວ່າເຈົ້າມີການຟັງສຽງ
+. ແລະຂ້ອຍຮູ້ວ່າເຈົ້າຈະບໍ່ປ່ອຍພວກມັນໄປ.
+
+500
+00:39:17,850 --> 00:39:23,850
+[NICO]
+Only I was too dumb to crack it. I was so busy trying to figure a code, I didn't even recognize Zagon's voice. It's all crystal clear to Nico now.
+ພຽງແຕ່ຂ້ອຍໂງ່ເກີນໄປທີ່ຈະແຕກມັນ. ຂ້ອຍມີວຽກເຮັດງານທໍາຫຼາຍໃນການພະຍາຍາມຄິດລະຫັດ,
+ຂ້ອຍຍັງບໍ່ຮູ້ສຽງຂອງຊາກອນເລີຍ. ມັນທັງ ຫມົດ ແມ່ນສະອາດສະອາດ ສໍາ ລັບນິກໂກດຽວນີ້.
+
+501
+00:39:24,350 --> 00:39:26,800
+[NICO]
+So we kill our own senators now.
+ສະນັ້ນພວກເຮົາຈະຂ້າສະມາຊິກສະພາສູງຂອງພວກເຮົາເອງດຽວນີ້.
+
+502
+00:39:27,300 --> 00:39:29,300
+[FOX]
+Why not?   The Romans did.
+ເປັນຫຍັງບໍ່? ຊາວໂຣມໄດ້ເຮັດ.
+
+503
+00:39:29,800 --> 00:39:31,800
+[NICO]
+Are we the Romans?
+ພວກເຮົາເປັນຊາວໂຣມບໍ?
+
+504
+00:39:32,300 --> 00:39:34,300
+[FOX]
+We're an empire too.
+ພວກເຮົາເປັນອານາຈັກເຊັ່ນກັນ.
+
+505
+00:39:34,800 --> 00:39:40,800
+[FOX]
+Would you rather spoon borscht and quote Lenin?  I'm trying to save you, asshole! I got a spot for you. Thailand, deep under, no names, no numbers --
+ເຈົ້າມັກເອົາໂບສຕ໌ແລະອ້າງອີງເລນິນບໍ? ຂ້ອຍ ກໍາ ລັງພະຍາຍາມຊ່ວຍເຈົ້າ, ຄົນໂຊກຮ້າຍ
+! ຂ້ອຍມີບ່ອນ ສໍາ ລັບເຈົ້າ. ໄທແລນ, ເລິກຢູ່ພາຍໃຕ້, ບໍ່ມີຊື່, ບໍ່ມີຕົວເລກ -
+
+506
+00:39:41,300 --> 00:39:43,300
+[NICO]
+Doing what -- processing heroin?
+ເຮັດຫຍັງ - ການປຸງແຕ່ງເຮໂຣອິນບໍ?
+
+507
+00:39:43,800 --> 00:39:49,800
+[FOX]
+You 'consult.' You 'assist.' You send checks to your family. Zagon won't touch you, you'll be on the team --
+ເຈົ້າ'ປຶກສາຫາລື.' ເຈົ້າ'ຊ່ວຍເຫຼືອ.' ເຈົ້າສົ່ງໃບຢັ້ງຢືນໃຫ້ຄອບຄົວຂອງທ່ານ
+. ຊາກອນຈະບໍ່ຈັບເຈົ້າ, ເຈົ້າຈະຢູ່ໃນທີມງານ -
+
+508
+00:39:50,300 --> 00:39:52,300
+[NICO]
+Fuck you.
+ເຈົ້າໄປໂຊກຮ້າຍ.
+
+509
+00:39:52,800 --> 00:39:58,800
+[FOX]
+In five years you're out, with a fat Swiss account and a GS-15 pension. Nico stares at his old friend with contempt. He sees the gun under Fox's coat, but he's too tired and too disgusted to care --
+ໃນຫ້າປີເຈົ້າຈະອອກໄປ, ດ້ວຍບັນຊີສະວິດເຊີແລນທີ່ໄຂມັນແລະເງິນບໍານານ GS-15. ນິກໂກເບິ່ງເພື່ອນເກົ່າຂອງລາວດ້ວຍຄວາມປະຫມາດ
+. ລາວເຫັນປືນພາຍໃຕ້ເສື້ອຜ້າຂອງຟອກສ໌, ແຕ່ລາວເມື່ອຍເກີນໄປແລະກຽດຊັງເກີນໄປທີ່ຈະສົນໃຈ -
+
+510
+00:39:59,300 --> 00:40:05,300
+[NICO]
+You know, Fox, right now in Israel they're trying some 80-year-old camp guard for war crimes. And all around our country there are guys on Death Row for killing one person, two people. And probably they all deserve it -- He takes a step toward Fox.   Fox's hand tightens on his gun.
+ເຈົ້າຮູ້ແລ້ວ, ຟອກສ໌, ດຽວນີ້ໃນອິດສະຣາແອນພວກເຂົາ ກໍາ ລັງພິພາກສາຄົນປົກປ້ອງຄ້າຍອາຍຸ 80 ປີບາງຄົນ ສໍາ ລັບອາຊະຍາກໍາສົງຄາມ. ແລະໃນທົ່ວປະເທດຂອງພວກເຮົາມີຜູ້ຊາຍຢູ່ໃນຄໍຕາຍ
+ສໍາ ລັບການຂ້າຄົນ ຫນຶ່ງ, ຄົນສອງຄົນ. ແລະອາດຈະພວກເຂົາທຸກຄົນສົມຄວນມັນ - ລາວເຮັດບາດກ້າວໄປສູ່ຟອກສສ໌. ມືຂອງຟຸກສ໌ແຫນ້ນໃສ່ປືນຂອງລາວ.
+
+511
+00:40:05,800 --> 00:40:11,800
+[NICO]
+-- but you and I know a couple guys personally who are responsible for the murder of at least what... 60,000 non- military personnel.  Viet. Lao. Thai. Cambodian. Librarians, teachers, doctors... women, children... and that's just a sliver of it. Fox tries to maintain a hard face.   But his own guilty conscience is working --
+- ແຕ່ເຈົ້າແລະຂ້ອຍຮູ້ຈັກຜູ້ຊາຍສອງສາມຄົນໂດຍສ່ວນຕົວທີ່ຮັບຜິດຊອບການຄາດຕະກໍາຢ່າງຫນ້ອຍຫຍັງ... ພະນັກງານທີ່ບໍ່ແມ່ນທະຫານ 60,000 ຄົນ. ຫວຽດນາມ. ລາວ. ໄຕແລນ. ກໍາປູເຈຍ
+. ນັກສະຫມຸດ, ຄູອາຈານ, ຫມໍ... ແມ່ຍິງ, ເດັກນ້ອຍ... ແລະນັ້ນພຽງແຕ່ສ່ວນ ຫນຶ່ງ ຂອງມັນ. ຟອກສ໌ພະຍາຍາມຮັກສາໃບຫນ້າແຂງແຮງ. ແຕ່ຈິດໃຈຜິດຂອງຕົນເອງ ກໍາ ລັງເຮັດວຽກ -
+
+512
+00:40:12,300 --> 00:40:16,150
+[NICO]
+We've wiped out entire fucking countries. And not one agent --
+ພວກເຮົາໄດ້ທໍາລາຍປະເທດທັງ ຫມົດ ແລ້ວ. ແລະບໍ່ມີຕົວແທນຄົນດຽວ -
+
+513
+00:40:16,650 --> 00:40:18,650
+[FOX]
+Stop right there!
+ຢຸດຢູ່ບ່ອນນັ້ນ!
+
+514
+00:40:19,150 --> 00:40:25,150
+[NICO]
+-- not one C.I.A. agent has ever been tried or convicted, much less accused of any crimes.  You motherfuckers think you're above the law --  Well, you ain't above mine. Nico holds himself, trembling with intensity. At that moment -- O.S. from the garage entrance ramp: the SQUEAL of APPROACHING TIRES. Nico and Fox turn to see -- *NOTE* 4-17-87. THE FOLLOWING SEQUENCE  WILL BE MODIFIED TO CONFORM TO LOCATION. DO NOT BUILD OR PURCHASE WITHOUT CHECKING WITH STUNT COORDINATOR AND ASSISTANT DIRECTORS. STORYBOARDS AND NEW PAGES WILL BE AVAILABLE NEXT WEEK. 371   A BIG CAR                                                      * SCREECHES to a halt in front of them. Five men dismount        * swiftly. Salvano, Bad Dude, and two agent types from the       * tenement... and Zagon!                                         * Zagon and his men are forty feet from Nico and Fox, playing it cool so as not to alarm any innocent bystanders, but the bulk under their jackets is unmistakably guns.
+- ບໍ່ມີຕົວແທນຊີໄອເອຄົນໃດເຄີຍຖືກດໍາເນີນຄະດີຫຼືຖືກຕັດສິນໂທດ, ຫນ້ອຍ ກວ່າຖືກກ່າວຫາວ່າເປັນອາຊະຍາກໍາໃດໆ. ພວກເຈົ້າຄິດວ່າເຈົ້າຢູ່ເທິງກົດ ຫມາຍ - ດີ, ເຈົ້າບໍ່ໄດ້ຢູ່ເທິງຂອງຂ້ອຍ.
+ນິກໂກຖືຕົວເອງ, ຢ້ານກົວດ້ວຍຄວາມເຂັ້ມແຂງ. ໃນເວລານັ້ນ - O.S ຈາກລໍາບາກເຂົ້າໄປໃນ garage: ການສັ່ນສະເທືອນຂອງລົດຖີບທີ່ໃກ້ຊິດ. ນິໂກແລະຟັກສ໌ຫັນໄປເບິ່ງ - * ຫມາຍ ເຫດ * 4-17-87. ລໍາ
+
+515
+00:40:25,650 --> 00:40:28,450
+[NICO]
+Well... well.    What a team we have here.
+ດີ... ດີ. ພວກເຮົາມີທີມງານທີ່ນີ້ຫຼາຍປານໃດ.
+
+516
+00:40:28,950 --> 00:40:33,150
+[ZAGON]
+We've been looking for you, Nelson.    I see you've found our friend.
+ພວກເຮົາ ກໍາ ລັງຊອກຫາເຈົ້າ, ເນລສັນ.
+ຂ້ອຍເຫັນວ່າເຈົ້າໄດ້ພົບເພື່ອນຂອງພວກເຮົາແລ້ວ.
+
+517
+00:40:33,650 --> 00:40:35,650
+[NICO]
+Thanks for the help, Fox.
+ຂອບໃຈ ສໍາ ລັບການຊ່ວຍເຫຼືອ, ຟອກສ໌.
+
+518
+00:40:36,150 --> 00:40:38,950
+[FOX]
+I didn't bring him, Nico.    I swear it!
+ຂ້ອຍບໍ່ໄດ້ເອົາລາວມາ, ນິກໂກ. ຂ້ອຍສາບານໂຕ!
+
+519
+00:40:39,450 --> 00:40:44,000
+[ZAGON]
+Have you two been sharing fond memories? Reminiscing about the good old days?
+ເຈົ້າທັງສອງ ກໍາ ລັງແບ່ງປັນຄວາມຊົງຈໍາທີ່ສວຍງາມບໍ
+? ຈື່ຄືນກ່ຽວກັບມື້ເກົ່າທີ່ດີບໍ?
+
+520
+00:40:44,500 --> 00:40:46,500
+[FOX]
+Stay still!  Don't fucking move!!
+ຢູ່ຢ່າງງຽບສະຫງົບ! ຢ່າເຄື່ອນຍ້າຍ!!
+
+521
+00:40:47,000 --> 00:40:49,000
+[EVENING GOWN WOMAN]
+Jack --
+ແຈກ...
+
+522
+00:40:49,500 --> 00:40:53,700
+[ZAGON]
+Bring in our friend, Nelson. Salvano's muzzle covers Fox and Nico --
+ເອົາເພື່ອນຂອງພວກເຮົາມາ, ເນລສັນ.
+ປາກຂອງຊາລວານໍປົກຄຸມຟອກສ໌ແລະນິກໂກ -
+
+523
+00:40:54,200 --> 00:40:56,650
+[ZAGON]
+Be a good boy -- 372   FOX
+ເປັນເດັກຊາຍທີ່ດີ - 372 FOX
+
+524
+00:40:57,150 --> 00:41:03,150
+[FOX]
+Dive, Nico!! He FIRES -- at Salvano! In the same instant, Salvano pulls his own trigger! Salvano's MACHINE GUN BURST cuts Fox down, a milli-second before Fox's .45 SLUG BLOWS Salvano off his feet! Pandemonium. Fox, dying, slings his .45 to Nico, who snatches it from the ground just as a HAIL of MACHINE GUN FIRE THUNDERS around him. Nico dives headlong behind a concrete column, which is instantly chewed to shreds by GUNFIRE. Zagon FIRES his MAC-10 on full automatic. A second agent hurries forward to outflank Nico. Nico pops from behind the column, DRILLS the agent broadside behind the ear, blowing the whole side of his head off! Guests and valets are shrieking in terror, hitting the deck in clusters, clawing and scrambling over each other for safety.
+ລອຍນ້ ໍາ, ນິກໂກ!! ລາວຍິງ - ຕໍ່ຊານວານ! ໃນທັນທີດຽວກັນ, ຊາລວານອນດຶງກະຕຸ້ນຂອງຕົນເອງ! ການລະເບີດປືນເຄື່ອງຈັກຂອງຊາລວາໂນຕັດຟອກສ໌ລົງ, ຫນຶ່ງ ມິລລີວິນາທີກ່ອນທີ່
+.45 SLUG ຂອງຟຸກສ໌ພັດ Salvano ອອກຈາກຕີນຂອງລາວ! Pandemonium. ປືນ, ກໍາ ລັງຕາຍ, ວາງ.45 ຂອງລາວໃຫ້ນິກໂກ້, ຜູ້ທີ່ຈັບມັນຈາກພື້ນດິນຄືກັບ Hail ຂອງປືນໄຟເຄື່ອງຈັກອ
+
+525
+00:41:03,650 --> 00:41:09,650
+[ZAGON]
+Move! Nico springs from cover, FIRING, trying to bolt down the garage ramp, toward the lower levels. His path puts the first agent directly in Zagon's line of fire. Zagon doesn't hesitate; he OPENS UP on Nico, cutting down his own man -- Salvano has gotten to his feet, wounded, but still handling his gun. He  joins Zagon, rushing forward --
+ຍ້າຍໄປ! ນິກໂກໂດສຈາກການປົກຄຸມ, ຍິງ, ພະຍາຍາມລຸ່ມລໍາບາກ garage, ໄປສູ່ລະດັບຕໍ່າກວ່າ. ເສັ້ນທາງຂອງລາວເຮັດໃຫ້ຕົວແທນ ທໍາ ອິດໂດຍກົງໃນສາຍໄຟຂອງຊາກອນ.
+ຊາກອນບໍ່ລັງເລ; ລາວເປີດໃຫ້ນິກໂກ້, ຕັດຜູ້ຊາຍຂອງຕົນເອງ - ຊາລວານໍໄດ້ຂຶ້ນຕີນຂອງລາວ, ບາດເຈັບ, ແຕ່ຍັງຄວບຄຸມປືນຂອງລາວ. ລາວເຂົ້າຮ່ວມຊາກົງ, ແລ່ນໄປຂ້າງຫນ້າ -
+
+526
+00:41:10,150 --> 00:41:12,150
+[FIRST SECURITY GUARD]
+You there --
+ເຈົ້າຢູ່ບ່ອນນັ້ນ...
+
+527
+00:41:12,650 --> 00:41:17,900
+[ZAGON]
+No!   I want him! I want him alive! 402   EXT. MIDLAND HOTEL - NIGHT                                       *
+ບໍ່! ຂ້ອຍຕ້ອງການລາວ! ຂ້ອຍຢາກໃຫ້ລາວມີຊີວິດຢູ່
+! 402 ອອກໄປ. ໂຮງແຮມມິດແລນ - ຄືນ *
+
+528
+00:41:18,400 --> 00:41:21,900
+[PISTOL AGENT]
+-- this is bullshit, Zagon. We got work to do.
+- ນີ້ແມ່ນຄວາມຢອກຊື່ໆ ແຊກ. ພວກເຮົາມີວຽກເຮັດງານທໍາ.
+
+529
+00:41:22,400 --> 00:41:25,900
+[ZAGON]
+All work and no play makes Jack a dull boy.
+ການເຮັດວຽກທັງ ຫມົດ ແລະ
+ບໍ່ມີການຫຼິ້ນເຮັດໃຫ້ແຈກເປັນເດັກຊາຍທີ່ໂຊກຮ້າຍ.
+
+530
+00:41:26,400 --> 00:41:32,400
+[ZAGON]
+We've got an hour before the honorable senator.  You've got to learn to take time, smell the roses.
+ພວກເຮົາມີເວລາ ຫນຶ່ງ ຊົ່ວໂມງກ່ອນສະມາຊິກສະພາສູງທີ່ເຄົາລົບ
+. ເຈົ້າຕ້ອງຮຽນຮູ້ທີ່ຈະໃຊ້ເວລາ, ກິ່ນຫອມດອກໄມ້.
+
+531
+00:41:32,900 --> 00:41:38,900
+[NICO]
+How are you gonna do him, Zagon? In a motorcade? Or passing through a hotel kitchen? The Noose agent jerks his cable tight, making Nico gag and choke. Zagon motions to slacken off. He stops at a small table before Nico -- unrolls a well-worn felt pouch. Zagon watches Nico's reaction as the tools of the inter- rogator's trade come into view -- drug vials, syringes, scalpels, surgical tools.
+ເຈົ້າຈະເຮັດລາວແນວໃດ, ຊາໂກນ? ໃນຂະບວນລົດບໍ? ຫຼືຜ່ານເຮືອນຄົວໂຮງແຮມບໍ? ຕົວແທນ Noose ຍັບສາຍໄຟຂອງລາວຢ່າງເຂັ້ມງວດ, ເຮັດໃຫ້ນິກໂກງແລະບິດບິດ. Zagon ເຄື່ອນໄຫວເພື່ອຜ່ອນຜັນລົງ
+. ລາວຢຸດຢູ່ໂຕະນ້ອຍໆກ່ອນນິໂກ - ເປີດກະເປົາ felt ທີ່ໃສ່ດີ. ຊາກອນເບິ່ງການປະຕິກິລິຍາຂອງນິກອກໃນຂະນະທີ່ເຄື່ອງມືຂອງການຄ້າຂອງຜູ້ແລກປ່ຽນເຂົ້າມາເບິ່ງ - ກະເປົາຢາເສບຕິດ
+
+532
+00:41:39,400 --> 00:41:45,400
+[ZAGON]
+I've used these little beauties many times to extract information --  -- This'll be the first time I've ever used them... just for fun.
+ຂ້ອຍໄດ້ໃຊ້ຄວາມງາມນ້ອຍໆເຫຼົ່ານີ້ຫຼາຍຄັ້ງເພື່ອດຶງຂໍ້ມູນ - -
+ນີ້ແມ່ນຄັ້ງ ທໍາ ອິດທີ່ຂ້ອຍເຄີຍໃຊ້ພວກມັນ... ພຽງແຕ່ເພື່ອມ່ວນຊື່ນ.
+
+533
+00:41:45,900 --> 00:41:51,900
+[ZAGON]
+Take his arms. Pistol agent and Bad Dude move in, one on each side,         * seizing Nico's forearms. Shotgun agent holds his weapon tight to Nico's head.
+ເອົາແຂນຂອງລາວ. ຕົວແທນປືນແລະຄົນຮ້າຍຍ້າຍເຂົ້າມາ, ຫນຶ່ງ ໃນແຕ່ລະດ້ານ, *
+ຈັບແຂນຂ້າງຫນ້າຂອງນິກໂກ. ຕົວຈິງປືນປືນຖືອາວຸດຂອງລາວຢ່າງເຂັ້ມງວດຕໍ່ຫົວຂອງ ນິກໂກ້.
+
+534
+00:41:52,400 --> 00:41:58,400
+[ZAGON]
+Hold him up! Pistol agent and Bad Dude lift Nico. Zagon slams him again. Again. Nico's cheekbone is broken; blood drains from his nose. Zagon aims a two-handed blow; backhands Nico, crushing the other side of his face! Zagon backs off, chest heaving. Pistol agent and Bad Dude plop Nico back in the chair, gagging, choked by the noose. Nico looks like the Viet prisoner -- the one we saw in the opening sequence. Like the prisoner, Nico takes his beating -- still conscious, still meeting Zagon's eyes with defiance.
+ຄຸເຂົ່າລົງ
+
+535
+00:41:58,900 --> 00:42:04,900
+[ZAGON]
+This is where you came in, Toscani. Only, now it's where you're gonna check out. He takes off his glove, grabs the syringe. Pistol agent and Bad Dude clamp Nico's right arm down tight. Zagon injects Nico.
+ນີ້ແມ່ນບ່ອນທີ່ທ່ານເຂົ້າມາ, ໂຕສການີ. ພຽງແຕ່, ດຽວນີ້ມັນແມ່ນບ່ອນທີ່ທ່ານຈະກວດສອບອອກ.
+ລາວເອົາກະທູ້ຂອງລາວອອກ, ຈັບສີດຢາ. ຕົວແທນປືນແລະຄົນຮ້າຍຄັດແຂນຂວາຂອງນິກໂກລົງຢ່າງເຂັ້ມງວດ. ຊາກອນສີດນິໂກ.
+
+536
+00:42:05,400 --> 00:42:11,400
+[ZAGON]
+That's it. Fight it, cherry. Fight it, so it speeds faster on its way -- Nico struggles more violently.
+ນັ້ນແມ່ນມັນ. ຕໍ່ສູ້ກັບມັນ, cherry. ຕໍ່ຕ້ານມັນ,
+ສະນັ້ນມັນຈະໄວຂຶ້ນໃນທາງຂອງຕົນ - ນິກໂກຕໍ່ສູ້ຢ່າງຮຸນແຮງກວ່າເກົ່າ.
+
+537
+00:42:11,900 --> 00:42:17,850
+[ZAGON]
+Fight it. Till the vessels burst in your brain. Till the arteries rupture in your heart --
+ຕໍ່ສູ້ກັບມັນ. ຈົນກວ່າທາດໃນສະຫມອງຂອງທ່ານຈະແຕກ
+. ຈົນກ່ວາເສັ້ນເລືອດຈະແຕກໃນຫົວໃຈຂອງທ່ານ -
+
+538
+00:42:18,350 --> 00:42:24,350
+[ZAGON]
+That's my boy. That's what I was waiting for -- Zagon produces his famous knife. He motions Pistol agent and Bad Dude to release Nico's arms. Noose agent slackens his grip on the choke cable. Zagon moves in closer, gloating, cooing --
+ນັ້ນແມ່ນລູກຊາຍຂອງຂ້ອຍ. ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງລໍຖ້າ - ຊາກອນຜະລິດມີດຕັດທີ່ມີຊື່ສຽງຂອງລາວ.
+ລາວເຄື່ອນຍ້າຍຕົວແທນປືນແລະຄົນຮ້າຍເພື່ອປ່ອຍແຂນຂອງນິກໂກ. ຕົວແທນ Noose ອ່ອນແອການຄວບຄຸມຂອງລາວໃສ່ສາຍບິດ. Zagon ຍ້າຍເຂົ້າໃກ້ຊິດ, ໂຊກດີ, ກຽດຊັງ -
+
+539
+00:42:24,850 --> 00:42:30,850
+[ZAGON]
+A fool learns from his own mistakes. But a wise man learns from the mistakes of others --  You should have killed me when you had the chance, Toscani --
+ຄົນໂງ່ຮຽນຮູ້ຈາກຄວາມຜິດພາດຂອງຕົນເອງ. ແຕ່ຜູ້ຊາຍທີ່ສະຫຼາດຮຽນຈາກຄວາມ
+ຜິດພາດຂອງຄົນອື່ນ - ເຈົ້າຄວນຂ້າຂ້ອຍເມື່ອເຈົ້າມີໂອກາດ, ໂຕສການີ -
+
+540
+00:42:31,350 --> 00:42:35,900
+[ZAGON]
+Can you feel the chemicals, cherry? You can't fight 'em much longer --
+ເຈົ້າຮູ້ສຶກສານເຄມີໄດ້ບໍ, cherry?
+ເຈົ້າບໍ່ສາມາດຕໍ່ສູ້ກັບພວກມັນໄດ້ດົນນານ -
+
+541
+00:42:36,400 --> 00:42:42,400
+[NICO]
+Long enough to finish you. Sweating, half-spitting, Zagon slashes at Nico like an animal -- Nico traps the knife, and enters, smashes Zagon in the face with one lightning blow. We see Zagon's nose and face completely cave in. Nico comes under Zagon's elbow, the arm that still holds the knife clamping it in a vise-like grip and bending it backwards, slowly, against the joint -- which now starts to rip in half. Zagon is screaming and cursing, writhing in agony -- The drugs have hit Nico full force now. He's weakening, his eyes are starting to roll. Zagon tries one last surge of strength to save himself; it almost seems he'll wriggle free when: the elbow JOINT SNAPS in half with a sicken- ing sound.
+ຄຸເຂົ່າລົງ
+
+542
+00:42:42,900 --> 00:42:45,350
+[LUKICH]
+Is there a hotel doctor?    Call 911!
+ມີຫມໍໂຮງແຮມບໍ? ໂທ 911!
+
+543
+00:42:45,850 --> 00:42:51,850
+[T.V. REPORTER]
+-- Senator Harrison has today issued a statement calling for the appointment of a special prosecutor -- CUT TO:
+- ສະມາຊິກສະພາສູງຮາຣີສັນໄດ້ອອກຖະແຫຼງການໃນມື້ນີ້ທີ່ຮຽກຮ້ອງໃຫ້ແຕ່ງຕັ້ງໄອຍະການພິເສດ
+- ຕັດອອກ:
+
+544
+00:42:52,350 --> 00:42:57,950
+[ANCHOR]
+Earlier this week, the Harrison Commission delivered its report on the growing C.I.A. scandal to Congress...
+ໃນຕົ້ນອາທິດນີ້, ຄະນະກໍາມະການຮາຣີສັນໄດ້ສົ່ງບົດລາຍງານກ່ຽວກັບຄວາມໂຊກຮ້າຍຂອງ
+CIA ທີ່ເຕີບໃຫຍ່ຂຶ້ນຕໍ່ລັດຖະສະພາ...
+
+545
+00:42:58,450 --> 00:43:03,700
+[SENATOR HARRISON]
+-- officially-sanctioned deceit, murder and corruption, will continue until these men are brought to justice.
+- ການຫຼອກລວງທີ່ຖືກອະນຸມັດຢ່າງເປັນທາງການ, ການຄາດຕະກໍາແລະການສໍ້ລາດບັງຫຼວງ
+, ຈະສືບຕໍ່ຈົນກວ່າຜູ້ຊາຍເຫຼົ່ານີ້ຈະຖືກ ນໍາ ມາໃຫ້ຄວາມຍຸຕິທໍາ.
+
+546
+00:43:04,200 --> 00:43:10,200
+[SENATOR HARRISON]
+Detective Toscani. I wanted to personally thank you. You are making it possible for a sliver of truth to finally come out.
+ນັກສືບໂຕສການີ. ຂ້ອຍຢາກຂອບໃຈເຈົ້າໂດຍສ່ວນຕົວ. ເຈົ້າ ກໍາ
+ລັງເຮັດໃຫ້ເປັນໄປໄດ້ ສໍາ ລັບຄວາມຈິງບາງຢ່າງທີ່ຈະອອກມາໃນທີ່ສຸດ.
+
+547
+00:43:10,700 --> 00:43:14,200
+[SENATOR HARRISON]
+And this is Clayton Alspaugh of the fifth circuit court.
+ແລະນີ້ແມ່ນຄເລຕັນ ອາລສປາໂກ ຈາກສານວົງຈອນທີຫ້າ.
+
+548
+00:43:14,700 --> 00:43:20,700
+[NICO]
+Your Honor. The Judge nods to his stenographer, who swiftly sets up her equipment, takes a seat. Rosa makes a face at Branca, who rises, clearing a seat for the Judge. Sara moves              * in tight beside Nico.
+ເຈົ້າຫນ້າທີ່. ຜູ້ພິພາກສາຍືດຫົວໃຫ້ຜູ້ຂຽນສຕີນໍຟີຂອງລາວ, ຜູ້ທີ່ຕັ້ງອຸປະກອນຂອງນາງຢ່າງໄວວາ, ນັ່ງ.
+ໂຣຊາເຮັດໃຫ້ໃບຫນ້າຢູ່ບຣານກາ, ຜູ້ທີ່ຂຶ້ນ, ສະອາດບ່ອນນັ່ງ ສໍາ ລັບຜູ້ພິພາກສານ. ຊາຣາຍ້າຍ * ເຂົ້າໃກ້ກັບນິກໂກ.
+
+549
+00:43:21,200 --> 00:43:27,200
+[JUDGE ALSPAUGH]
+Are you sure you're feeling well enough? Nico glances to Sara, to the supporting faces around              * him. Lukich. Neeley. Strozah. Jackson. The others.                *
+ເຈົ້າແນ່ໃຈວ່າເຈົ້າຮູ້ສຶກດີພໍບໍ? ນິກໂກເບິ່ງຊາຣາ,
+ຕໍ່ໃບຫນ້າທີ່ສະຫນັບສະຫນູນຢູ່ອ້ອມຂ້າງລາວ * ລາວ. ລູຄິກ. ນີລີ. ສຕຣູຊາ. ແຈກຊອນ. ຄົນອື່ນ. *
+
+550
+00:43:27,700 --> 00:43:33,700
+[NICO]
+If you're ready to listen, I'm ready to talk. 423   CLOSE - STENOGRAPHER'S HANDS As the Judge's VOICE begins OVER, "slating" the depo- sitions, the stenographer's fingers start moving. PULL BACK TO: 424   ANGLE FROM OUTSIDE ROOM
+ຖ້າເຈົ້າພ້ອມທີ່ຈະຟັງ, ຂ້ອຍພ້ອມທີ່ຈະເວົ້າ. 423 ໃກ້ຊິດ - ມືຂອງສເຕໂນແກຣມ ໃນຂະນະທີ່ສຽງຂອງຜູ້ພິພາກສາເລີ່ມຕົ້ນ
+OVER,"slating" ການ depo- ກອງປະຊຸມ, ນິ້ວມືຂອງສແຕໂນແກຼມເລີ່ມຕົ້ນເຄື່ອນຍ້າຍ. ດຶງກັບຄືນໄປບ່ອນ: 424 ມຸມຈາກຫ້ອງນອກ
+

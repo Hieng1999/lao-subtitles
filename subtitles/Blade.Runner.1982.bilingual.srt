@@ -1,0 +1,4617 @@
+1
+00:00:10,000 --> 00:00:12,000
+[BLADE RUNNER]
+Screenplay by
+ຮູບເງົາໂດຍ
+
+2
+00:00:12,500 --> 00:00:17,050
+[HAMPTON FANCHER]
+July 24, 1980                    Brighton Productions Inc. 1420 No. Beachwood Drive Hollywood, Calif. 90028
+ວັນທີ 24 ກໍລະກົດປີ 1980 Brighton Productions Inc. 1420
+ເລກທີ Beachwood Drive Hollywood, California 90028
+
+3
+00:00:17,550 --> 00:00:19,550
+[LEON]
+Okay if I talk?
+ບໍ່ເປັນຫຍັງຖ້າຂ້ອຍເວົ້າບໍ?
+
+4
+00:00:20,050 --> 00:00:22,850
+[LEON]
+I kinda get nervous when I take tests.
+ຂ້ອຍກັງວົນຫຼາຍເມື່ອຂ້ອຍເຮັດການທົດສອບ.
+
+5
+00:00:23,350 --> 00:00:25,350
+[HOLDEN]
+Don't move.
+ຢ່າເຄື່ອນຍ້າຍ.
+
+6
+00:00:25,850 --> 00:00:27,850
+[LEON]
+Sorry.
+ຂໍໂທດ.
+
+7
+00:00:28,350 --> 00:00:33,600
+[LEON]
+Already had I.Q. test this year -- but I don't think I never had a...
+ຂ້ອຍໄດ້ທົດສອບ IQ ແລ້ວໃນປີນີ້ - ແຕ່ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍບໍ່ເຄີຍມີ...
+
+8
+00:00:34,100 --> 00:00:39,700
+[HOLDEN]
+Reaction time is a factor in this, so please pay attention.  Answer quickly as you can.
+ເວລາປະຕິກິລິຍາແມ່ນປັດໃຈໃນເລື່ອງນີ້,
+ສະນັ້ນຂໍໃຫ້ເອົາໃຈໃສ່. ຕອບໄວເທົ່າທີ່ທ່ານສາມາດ.
+
+9
+00:00:40,200 --> 00:00:46,200
+[HOLDEN]
+You're in a desert, walking along in the sand when all of a sudden you look down and see a...
+ເຈົ້າຢູ່ໃນທະເລຊາຍ, ຍ່າງຕາມຊາຍເມື່ອທັນທີເຈົ້າເບິ່ງລົງແລະເຫັນ...
+
+10
+00:00:46,700 --> 00:00:48,700
+[LEON]
+What one?
+ອັນໃດ?
+
+11
+00:00:49,200 --> 00:00:51,200
+[HOLDEN]
+What?
+ຫຍັງ?
+
+12
+00:00:51,700 --> 00:00:53,700
+[LEON]
+What desert?
+ທະເລຊາຍໃດ?
+
+13
+00:00:54,200 --> 00:00:57,700
+[HOLDEN]
+Doesn't make any difference what desert -- it's completely hypothetical.
+ມັນບໍ່ສໍາຄັນວ່າເປັນທະເລຊາຍໃດ - ມັນເປັນການຄາດຄະເນຢ່າງສົມບູນ.
+
+14
+00:00:58,200 --> 00:01:00,300
+[LEON]
+But how come I'd be there?
+ແຕ່ເປັນຫຍັງຂ້ອຍຈະຢູ່ບ່ອນນັ້ນ?
+
+15
+00:01:00,800 --> 00:01:06,800
+[HOLDEN]
+Maybe you're fed up, maybe you want to be by yourself -- who knows.  So you look down and see a tortoise.  It's crawling towards you...
+ບາງທີເຈົ້າເມື່ອຍແລ້ວ, ບາງທີ ເຈົ້າຢາກຢູ່ຄົນດຽວ - ໃຜຮູ້.
+ສະນັ້ນເຈົ້າເບິ່ງລົງແລະເຫັນກະທູ້. ມັນ ກໍາ ລັງຍ່າງໄປຫາເຈົ້າ...
+
+16
+00:01:07,300 --> 00:01:09,300
+[LEON]
+A tortoise.  What's that?
+ກະທູ້. ນັ້ນແມ່ນຫຍັງ?
+
+17
+00:01:09,800 --> 00:01:11,800
+[HOLDEN]
+Know what a turtle is?
+ເຈົ້າຮູ້ວ່າກະທູ້ແມ່ນຫຍັງ?
+
+18
+00:01:12,300 --> 00:01:14,300
+[LEON]
+Of course.
+ແນ່ນອນ.
+
+19
+00:01:14,800 --> 00:01:16,800
+[HOLDEN]
+Same thing.
+ສິ່ງດຽວກັນ.
+
+20
+00:01:17,300 --> 00:01:19,300
+[LEON]
+I never seen a turtle.
+ຂ້ອຍບໍ່ເຄີຍເຫັນກະທູ້ເລີຍ.
+
+21
+00:01:19,800 --> 00:01:21,900
+[LEON]
+But I understand what you mean.
+ແຕ່ຂ້ອຍເຂົ້າໃຈວ່າເຈົ້າຫມາຍຄວາມວ່າແນວໃດ.
+
+22
+00:01:22,400 --> 00:01:26,600
+[HOLDEN]
+You reach down and flip the tortoise over on its back, Leon.
+ເຈົ້າຍືດລົງແລະຫັນກະທູ້ໄປເທິງຫຼັງຂອງມັນ, ເລອນ.
+
+23
+00:01:27,100 --> 00:01:31,650
+[LEON]
+You make these questions, Mr. Holden, or they write 'em down for you?
+ເຈົ້າຖາມ ຄໍາ ຖາມເຫຼົ່ານີ້, ທ້າວໂຮລເດັນ,
+ຫຼືພວກເຂົາຂຽນພວກມັນໄວ້ ສໍາ ລັບເຈົ້າບໍ?
+
+24
+00:01:32,150 --> 00:01:38,150
+[HOLDEN]
+The tortoise lays on its back, its belly baking in the hot sun, beating its legs trying to turn itself over.  But it can't.  Not without your help.  But you're not helping.
+ກະທູ້ນອນຢູ່ເບື້ອງຫຼັງຂອງມັນ, ທ້ອງຂອງມັນປຸງແຕ່ງໃນແສງຕາເວັນຮ້ອນ, ຕີຕີນຂອງມັນພະຍາຍາມຫັນຕົວເອງ
+. ແຕ່ມັນບໍ່ສາມາດເຮັດໄດ້. ບໍ່ແມ່ນໂດຍບໍ່ມີການຊ່ວຍເຫຼືອຂອງທ່ານ. ແຕ່ທ່ານບໍ່ໄດ້ຊ່ວຍເຫຼືອ.
+
+25
+00:01:38,650 --> 00:01:40,650
+[LEON]
+Whatcha mean, I'm not helping?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ, ຂ້ອຍບໍ່ໄດ້ຊ່ວຍ?
+
+26
+00:01:41,150 --> 00:01:44,300
+[HOLDEN]
+I mean you're not helping! Why is that, Leon?
+ຂ້ອຍຫມາຍຄວາມວ່າເຈົ້າບໍ່ໄດ້ຊ່ວຍ! ນັ້ນເປັນຫຍັງ, ເລອນ?
+
+27
+00:01:44,800 --> 00:01:50,800
+[DECKARD]
+It was 97 degrees in the city and no hope of improvement.  Not bad if you're a lizard.  But two hours earlier I was drinking Acquavit with an Eskimo lady in North East Alaska.  That's a tough change to make.  It was so good, I didn't want to leave, so I left a day early.
+ຄຸເຂົ່າລົງ
+
+28
+00:01:51,300 --> 00:01:54,450
+[DECKARD]
+Contact.  This is Blade Runner One calling Com-fast 27.
+ການຕິດຕໍ່. ນີ້ແມ່ນ Blade Runner ຫນຶ່ງ ໂທຫາ Com-fast 27.
+
+29
+00:01:54,950 --> 00:01:57,050
+[VOICE]
+Blade Runner One, stand by please.
+ບເລດ ແລນເນີ ຫນຶ່ງ, ກຽມພ້ອມ, ກະລຸນາ.
+
+30
+00:01:57,550 --> 00:01:59,550
+[VOICE]
+Deckard.
+ເດຄາດ.
+
+31
+00:02:00,050 --> 00:02:02,050
+[DECKARD]
+Yah, Gaff.
+ແມ່ນແລ້ວ, ແກຟ.
+
+32
+00:02:02,550 --> 00:02:04,550
+[GAFF]
+Where the hell you been?
+ເຈົ້າຢູ່ໃສ?
+
+33
+00:02:05,050 --> 00:02:08,200
+[DECKARD]
+You know where I been.  I been on vacation.
+ເຈົ້າຮູ້ວ່າຂ້ອຍຢູ່ໃສ. ຂ້ອຍໄປພັກຜ່ອນ.
+
+34
+00:02:08,700 --> 00:02:14,300
+[GAFF]
+Next time you go on vacation, do me a favor, let us know where it is.
+ໃນຄັ້ງຕໍ່ໄປທີ່ເຈົ້າຈະໄປພັກຜ່ອນ,
+ເຮັດຂ້ອຍຄວາມສະບາຍດີ, ໃຫ້ພວກເຮົາຮູ້ວ່າມັນຢູ່ໃສ.
+
+35
+00:02:14,800 --> 00:02:16,800
+[DECKARD]
+What's up?
+ມີຫຍັງຂຶ້ນ?
+
+36
+00:02:17,300 --> 00:02:19,300
+[GAFF]
+Holden got hit.
+ໂຮລເດັນຖືກຕີ.
+
+37
+00:02:19,800 --> 00:02:21,800
+[DECKARD]
+Bad?
+ບໍ່ດີບໍ?
+
+38
+00:02:22,300 --> 00:02:26,150
+[GAFF]
+Severed spine.  You'd better get in here.  Bryant's waiting for you.
+ເຈົ້າຄວນເຂົ້າມາບ່ອນນີ້. ບຣາຍນ໌ ກໍາ ລັງລໍຖ້າເຈົ້າ.
+
+39
+00:02:26,650 --> 00:02:28,750
+[DECKARD]
+I'll see you in a minute.
+ຂ້ອຍຈະເຫັນເຈົ້າໃນນາທີຫນຶ່ງ.
+
+40
+00:02:29,250 --> 00:02:35,250
+[DECKARD]
+I-X-4-P-D referred to as a Nexus-6, The Tyrell Corporation's new pride and joy.  Holden was administering the Voight-Kampff test when one nailed him.
+I-X-4-P-D ເອີ້ນວ່າ Nexus-6, ຄວາມພາກພູມໃຈແລະຄວາມສຸກ ໃຫມ່ ຂອງບໍລິສັດໄຕເຣລ
+. ໂຮລເດັນ ກໍາ ລັງບໍລິຫານການທົດສອບໂວຍຕ໌- ຄາມຟຟ໌ເມື່ອຄົນ ຫນຶ່ງ ຈັບລາວ.
+
+41
+00:02:35,750 --> 00:02:41,750
+[DECKARD]
+The Nexus-6 must be fast because Holden was as quick as they come. The report said there were six of them.  Three males and three female. Led by a combat model called Roy Batty.
+Nexus-6 ຕ້ອງມີຄວາມໄວເພາະວ່າໂຮລເດັນມີຄວາມໄວເທົ່າທີ່ພວກເຂົາມາ. ບົດລາຍງານເວົ້າວ່າມີຫົກຄົນ
+. ຜູ້ຊາຍສາມຄົນແລະແມ່ຍິງສາມຄົນ. ນໍາພາໂດຍຕົວແບບການຕໍ່ສູ້ທີ່ເອີ້ນວ່າ ໂຣຍ ບາຕີ.
+
+42
+00:02:42,250 --> 00:02:48,250
+[DECKARD]
+They escaped from the colonies two weeks ago.  Killed twenty- three people and jumped a shuttle. An aerial patrol found the ship in the desert.  No crew.
+ພວກເຂົາຫນີຈາກຄລູເນຍສອງອາທິດກ່ອນ. ໄດ້ຂ້າຄົນສິບສາມຄົນແລະໂດດເຮືອຂົນສົ່ງ
+. ການລາດຕະເວນທາງອາກາດພົບເຮືອໃນທະເລຊາຍ. ບໍ່ມີລູກເຮືອ.
+
+43
+00:02:48,750 --> 00:02:54,750
+[DECKARD]
+Bryant's got a liver problem.  A couple years back he handed me a bottle and said have a drink for another man.  I been drinking for him ever since.
+ບຣາຍນ໌ມີບັນຫາຕັບ. ສອງສາມປີກ່ອນລາວໄດ້ມອບຈອກໃຫ້ຂ້ອຍແລະບອກໃຫ້ດື່ມ
+ສໍາ ລັບຜູ້ຊາຍຄົນອື່ນ. ຂ້ອຍ ກໍາ ລັງດື່ມສໍາລັບລາວນັບຕັ້ງແຕ່ນັ້ນ.
+
+44
+00:02:55,250 --> 00:02:57,250
+[DECKARD]
+Six, huh?
+ຫົກ, ແມ່ນບໍ?
+
+45
+00:02:57,750 --> 00:03:03,750
+[BRYANT]
+Five.  Three nights ago one of them managed to break into the Tyrell Corporation.  Killed two guards and got as far as the Genetic Sector before he got fried going through an electro- field.
+ຫ້າ. ສາມຄືນກ່ອນ ຫນຶ່ງ ໃນພວກມັນສາມາດເຂົ້າໄປໃນບໍລິສັດໄຕເຣລໄດ້.
+ໄດ້ຂ້າຄົນປົກປ້ອງສອງຄົນແລະໄປຈົນເຖິງຂະແຫນງການເຈນຕິກກ່ອນທີ່ລາວຈະຖືກຕົ້ມຜ່ານສະ ຫນາມ ໄຟຟ້າ.
+
+46
+00:03:04,250 --> 00:03:06,250
+[DECKARD]
+What was he after?
+ລາວ ກໍາ ລັງຊອກຫາຫຍັງ?
+
+47
+00:03:06,750 --> 00:03:12,750
+[BRYANT]
+There wasn't much left of him, so we can't be sure.  But bio- chemical data and morphology records of the Nexus-6 were reported missing.  Going on the possibility they might try to infiltrate we send Holden in to run Voight-Kampff tests on the new employees.  Guess he found himself one.
+ມັນບໍ່ມີການທົດສອບຫຼາຍຈາກລາວ, ສະນັ້ນພວກເຮົາບໍ່ສາມາດແນ່ໃຈໄດ້. ແຕ່ຂໍ້ມູນຊີວະເຄມີແລະບັນທຶກໂມຟໂລຢີຂອງ Nexus-6 ໄດ້ຖືກລາຍງານວ່າຫາຍສາບສູນ.
+ໄປຕາມຄວາມເປັນໄປໄດ້ວ່າພວກເຂົາອາດຈະພະຍາຍາມເຂົ້າໄປໃນພວກເຮົາສົ່ງໂຮລເດັນເຂົ້າໃນການທົດສອບ Voight-Kampff ຕໍ່ພະນັກງານໃຫມ່. ຂ້ອຍຄິດວ່າລາວໄດ້ພົບຕົວເອງຫນຶ່ງ.
+
+48
+00:03:13,250 --> 00:03:15,700
+[DECKARD]
+You got a machine on it yet?
+ເຈົ້າມີເຄື່ອງຈັກຢູ່ແລ້ວບໍ?
+
+49
+00:03:16,200 --> 00:03:22,200
+[BRYANT]
+We're using Esper -- a 231 -- that picked up Holden's alarm.  Its guess is that all five are in the city.
+ພວກເຮົາ ກໍາ ລັງໃຊ້ເອສເປີ - 231 - ທີ່ເອົາແຈ້ງເຕືອນຂອງໂຮລເດັນ
+. ການຄາດຄະເນຂອງມັນແມ່ນວ່າທັງຫ້າຄົນຢູ່ໃນເມືອງ.
+
+50
+00:03:22,700 --> 00:03:24,700
+[DECKARD]
+Where do we start?
+ພວກເຮົາເລີ່ມຕົ້ນຈາກໃສ?
+
+51
+00:03:25,200 --> 00:03:31,200
+[BRYANT]
+The Tyrell Corporation has a demo model.  Check it out on the Voight-Kampff.  There's a chance the Nexus-6 is beyond out ability to detect.  If that's the case, everybody's up shit creek.
+ບໍລິສັດໄຕເຣລ ມີແບບທົດລອງ. ເບິ່ງມັນໃນໂວຍຕ໌- ຄາມຟຟ໌. ມີໂອກາດວ່າ Nexus-6
+ແມ່ນເກີນຄວາມສາມາດໃນການກວດພົບ. ຖ້າເປັນກໍລະນີນັ້ນ, ທຸກຄົນຢູ່ເທິງແມ່ນໍ້າຂອງສໍ້ໂກງ.
+
+52
+00:03:31,700 --> 00:03:35,200
+[DECKARD]
+What was the cover on the one that got Holden?
+ການປົກຫຸ້ມຂອງຄົນທີ່ມີໂຮລເດັນແມ່ນຫຍັງ?
+
+53
+00:03:35,700 --> 00:03:37,700
+[BRYANT]
+Industrial refuse.
+ຂີ້ເຫຍື້ອອຸດສາຫະກໍາ.
+
+54
+00:03:38,200 --> 00:03:40,200
+[DECKARD]
+Garbage man?
+ຜູ້ຊາຍຂີ້ເຫຍື້ອບໍ?
+
+55
+00:03:40,700 --> 00:03:43,150
+[DECKARD]
+Did personnel have an address on him?
+ພະນັກງານມີທີ່ຢູ່ລາວບໍ?
+
+56
+00:03:43,650 --> 00:03:45,650
+[DECKARD]
+I'll go take a look.
+ຂ້ອຍຈະໄປເບິ່ງ.
+
+57
+00:03:46,150 --> 00:03:48,150
+[DECKARD]
+Thanks.
+ຂອບໃຈ
+
+58
+00:03:48,650 --> 00:03:54,650
+[DECKARD]
+The big incentive to emigrate was still free labor.  If the public found out that their door-prizes might kill them, they might not be so hot to go up there.  This was one of the worst one's we had and Bryant was worried.  He wanted to tell me to be discrete or something. But I didn't give him a chance.
+ແຮງຊຸກຍູ້ທີ່ໃຫຍ່ທີ່ສຸດທີ່ຈະຍົກຍ້າຍຍັງເປັນແຮງງານຟຣີ. ຖ້າປະຊາຊົນຮູ້ວ່າລາຄາປະຕູຂອງພວກເຂົາອາດຈະຂ້າພວກເຂົາ, ພວກເຂົາອາດຈະບໍ່ຮ້ອນຫຼາຍທີ່ຈະຂຶ້ນໄປບ່ອນນັ້ນ
+. ນີ້ແມ່ນ ຫນຶ່ງ ໃນອັນຮ້າຍແຮງທີ່ສຸດທີ່ພວກເຮົາມີແລະບຣາຍນ໌ກັງວົນ. ລາວຢາກບອກຂ້ອຍໃຫ້ມີຄວາມລະມັດລະວັງຫຼືບາງສິ່ງບາງຢ່າງ. ແຕ່ຂ້ອຍບໍ່ໄດ້ໃຫ້ລາວໂອກາດ.
+
+59
+00:03:55,150 --> 00:04:01,150
+[ANNOUNCER'S VOICE]
+Choose from a variety of seventy nine different personality types. Each and every one a loyal trouble- free companion given to you upon your arrival absolutely free...
+ເລືອກຈາກປະເພດບຸກຄະລິກໍາທີ່ແຕກຕ່າງກັນເຈັດສິບເກົ້າຄົນ.
+ແຕ່ລະຄົນແລະທຸກຄົນເປັນເພື່ອນທີ່ສັດຊື່ທີ່ບໍ່ມີຄວາມຫຍຸ້ງຍາກທີ່ຖືກມອບໃຫ້ເຈົ້າເມື່ອເຈົ້າມາຮອດໂດຍບໍ່ເສຍຄ່າເລີຍ...
+
+60
+00:04:01,650 --> 00:04:07,650
+[ANNOUNCER'S VOICE]
+To use as personal body servant to tireless field hand -- the custom tailored humanoid robot, designed especially for your needs.
+ເພື່ອໃຊ້ເປັນຜູ້ຮັບໃຊ້ຮ່າງກາຍສ່ວນຕົວຕໍ່ມືພາກສະຫນາມທີ່ບໍ່ເມື່ອຍ - ຫຸ່ນຍົນ
+humanoid ທີ່ຖືກປັບແຕ່ງຕາມລູກຄ້າ, ຖືກອອກແບບໂດຍສະເພາະ ສໍາ ລັບຄວາມຕ້ອງການຂອງທ່ານ.
+
+61
+00:04:08,150 --> 00:04:10,250
+[BATTY]
+Did you get your precious 'things'?
+ເຈົ້າໄດ້ຮັບສິ່ງທີ່ມີຄຸນຄ່າຂອງເຈົ້າບໍ?
+
+62
+00:04:10,750 --> 00:04:12,750
+[LEON]
+Somebody was already there.
+ມີຄົນຢູ່ບ່ອນນັ້ນແລ້ວ.
+
+63
+00:04:13,250 --> 00:04:15,250
+[BATTY]
+Police.
+ຕໍາຫຼວດ.
+
+64
+00:04:15,750 --> 00:04:17,750
+[LEON]
+Just a man.
+ພຽງແຕ່ຜູ້ຊາຍ.
+
+65
+00:04:18,250 --> 00:04:20,250
+[BATTY]
+Police man.
+ເຈົ້າຫນ້າທີ່.
+
+66
+00:04:20,750 --> 00:04:22,850
+[BATTY]
+Why don't you have a seat.
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ນັ່ງລົງ.
+
+67
+00:04:23,350 --> 00:04:25,350
+[BATTY]
+Enjoy the view.
+ມ່ວນຊື່ນກັບທັດສະນະ.
+
+68
+00:04:25,850 --> 00:04:30,050
+[CHEW]
+Well, you're right.  This little honey has a couple of defective cones.
+ດີ, ເຈົ້າເວົ້າຖືກຕ້ອງ. ແມວນ້ອຍນີ້ມີໂກນທີ່ຜິດປົກກະຕິສອງສາມຢ່າງ.
+
+69
+00:04:30,550 --> 00:04:32,550
+[CHEW]
+You're a regular perfectionist, Sebastian.
+ເຈົ້າເປັນຄົນຄວາມສົມບູນແບບປົກກະຕິ, ເຊເບສຕຽນ.
+
+70
+00:04:33,050 --> 00:04:35,500
+[SEBASTIAN]
+It's gotta be right for my customer.
+ມັນຕ້ອງເຫມາະສົມກັບລູກຄ້າຂອງຂ້ອຍ.
+
+71
+00:04:36,000 --> 00:04:38,000
+[CHEW]
+Your customer, eh?
+ລູກຄ້າຂອງທ່ານ, ແມ່ນບໍ?
+
+72
+00:04:38,500 --> 00:04:40,500
+[CHEW]
+You got a pocket-charger, boy?
+ເຈົ້າມີເຄື່ອງສາກກະເປົາບໍ, ເດັກຊາຍ?
+
+73
+00:04:41,000 --> 00:04:43,450
+[CHEW]
+Is that good enough for your customer?
+ມັນພຽງພໍ ສໍາ ລັບລູກຄ້າຂອງທ່ານບໍ?
+
+74
+00:04:43,950 --> 00:04:46,050
+[CHEW]
+How much is he paying you?
+ລາວຈ່າຍເງິນໃຫ້ເຈົ້າຫຼາຍປານໃດ?
+
+75
+00:04:46,550 --> 00:04:48,650
+[CHEW]
+Well, when do you get paid?
+ເຈົ້າຈະໄດ້ຮັບເງິນເດືອນເມື່ອໃດ?
+
+76
+00:04:49,150 --> 00:04:51,250
+[SEBASTIAN]
+Soon as I finish the job.
+ເມື່ອຂ້ອຍເຮັດວຽກແລ້ວ.
+
+77
+00:04:51,750 --> 00:04:53,750
+[CHEW]
+When might that be?
+ນັ້ນອາດຈະເປັນເມື່ອໃດ?
+
+78
+00:04:54,250 --> 00:04:56,250
+[SEBASTIAN]
+Day after tomorrow.
+ມື້ຕໍ່ມື້ອື່ນ.
+
+79
+00:04:56,750 --> 00:04:58,750
+[CHEW]
+Oh!  Day after tomorrow.
+ໂອ້! ມື້ພາຍຫຼັງມື້ອື່ນ.
+
+80
+00:04:59,250 --> 00:05:05,250
+[CHEW]
+The rich hate to pay, Sebastian. A guy like Tyrell keeps you waiting. Pay the little guy last.  You should charge twice as much.  It'll make him feel better.
+ຄົນຮັ່ງມີກຽດຊັງທີ່ຈະຈ່າຍເງິນ, ເຊເບສຕຽນ. ຜູ້ຊາຍເຊັ່ນໄຕເຣລເຮັດໃຫ້ເຈົ້າລໍຖ້າ.
+ຈ່າຍຄົນນ້ອຍຄົນສຸດທ້າຍ. ເຈົ້າຄວນຄິດຄ່າໃຊ້ຈ່າຍສອງເທົ່າຫຼາຍ. ມັນຈະເຮັດໃຫ້ລາວຮູ້ສຶກດີຂຶ້ນ.
+
+81
+00:05:05,750 --> 00:05:07,750
+[SEBASTIAN]
+Thanks, Mr. Chew.
+ຂອບໃຈ, ທ້າວ Chew.
+
+82
+00:05:08,250 --> 00:05:10,250
+[SEBASTIAN]
+Hey!  You forgot your...
+ເຮ້! ເຈົ້າລືມ...
+
+83
+00:05:10,750 --> 00:05:13,200
+[SEBASTIAN]
+How come you were in my truck?
+ເຈົ້າຢູ່ໃນລົດບັນທຸກຂອງຂ້ອຍເປັນຫຍັງ?
+
+84
+00:05:13,700 --> 00:05:17,200
+[PRIS]
+I was tired and didn't have any place to go.
+ຂ້ອຍເມື່ອຍແລະບໍ່ມີບ່ອນໃດທີ່ຈະໄປ.
+
+85
+00:05:17,700 --> 00:05:20,500
+[SEBASTIAN]
+You can get back in if you want...
+ເຈົ້າສາມາດກັບມາໄດ້ຖ້າເຈົ້າຢາກ...
+
+86
+00:05:21,000 --> 00:05:23,100
+[SEBASTIAN]
+Don't worry, I won't hurt you.
+ຢ່າກັງວົນ, ຂ້ອຍຈະບໍ່ເຮັດໃຫ້ເຈົ້າເຈັບປວດ.
+
+87
+00:05:23,600 --> 00:05:25,600
+[SEBASTIAN]
+What's your name?
+ຊື່ເຈົ້າແມ່ນຫຍັງ?
+
+88
+00:05:26,100 --> 00:05:28,100
+[PRIS]
+Pris.
+ປຣີສ.
+
+89
+00:05:28,600 --> 00:05:30,600
+[SEBASTIAN]
+Mine's J.F. Sebastian.
+ຂອງຂ້ອຍແມ່ນ JF ເຊເບສຕຽນ.
+
+90
+00:05:31,100 --> 00:05:33,100
+[PRIS]
+Hi.
+ສະບາຍດີ
+
+91
+00:05:33,600 --> 00:05:36,050
+[SEBASTIAN]
+Oh!  Where do you want to go?
+ໂອ້! ເຈົ້າຢາກໄປໃສ?
+
+92
+00:05:36,550 --> 00:05:38,550
+[SEBASTIAN]
+You want to go home?
+ເຈົ້າຢາກກັບບ້ານບໍ?
+
+93
+00:05:39,050 --> 00:05:41,050
+[PRIS]
+I don't have one.
+ຂ້ອຍບໍ່ມີຫນຶ່ງ.
+
+94
+00:05:41,550 --> 00:05:43,550
+[SEBASTIAN]
+Oh.
+ໂອ້.
+
+95
+00:05:44,050 --> 00:05:46,050
+[SEBASTIAN]
+Where are your folks?
+ພໍ່ແມ່ຂອງເຈົ້າຢູ່ໃສ?
+
+96
+00:05:46,550 --> 00:05:48,550
+[PRIS]
+They left.
+ພວກເຂົາອອກໄປ.
+
+97
+00:05:49,050 --> 00:05:51,050
+[SEBASTIAN]
+What about friends?
+ແລະເພື່ອນມິດແນວໃດ?
+
+98
+00:05:51,550 --> 00:05:56,100
+[PRIS]
+I have some, but I have to find out where they are staying.
+ຂ້ອຍມີບາງຢ່າງ, ແຕ່ຂ້ອຍຕ້ອງຮູ້ວ່າພວກເຂົາຢູ່ໃສ.
+
+99
+00:05:56,600 --> 00:05:58,700
+[SEBASTIAN]
+Well, where should I take you?
+ດີ, ຂ້ອຍຄວນພາເຈົ້າໄປໃສ?
+
+100
+00:05:59,200 --> 00:06:02,000
+[PRIS]
+We scared each other pretty good didn't we?
+ພວກເຮົາຢ້ານກັນດີຫຼາຍ, ແມ່ນບໍ?
+
+101
+00:06:02,500 --> 00:06:04,500
+[SEBASTIAN]
+We sure did.
+ພວກເຮົາແນ່ນອນວ່າເຮັດ.
+
+102
+00:06:05,000 --> 00:06:07,000
+[PRIS]
+I'm hungry, J.F.
+ຂ້ອຍຢາກກິນ, ເຈຟ.
+
+103
+00:06:07,500 --> 00:06:11,000
+[SEBASTIAN]
+I've got stuff.  If you wanna go to my place?
+ຂ້ອຍມີສິ່ງຕ່າງໆ. ຖ້າເຈົ້າຢາກໄປເຮືອນຂອງຂ້ອຍບໍ?
+
+104
+00:06:11,500 --> 00:06:13,600
+[PRIS]
+I was hoping you'd say that.
+ຂ້ອຍຫວັງວ່າເຈົ້າຈະເວົ້າແບບນັ້ນ.
+
+105
+00:06:14,100 --> 00:06:20,100
+[DECKARD]
+Machines can be helpful sometimes, but they can also be a pain in the ass.  Ask for a trace on a forger and you might wind up at a steel- mill.  I don't mind a bum-steer once in a while -- it's their personalities that usually get me.  Somebody once said that man makes machines in his own image.  If that's true, whoever made Esper should have been shot.
+ເຄື່ອງຈັກສາມາດຊ່ວຍໄດ້ບາງຄັ້ງ, ແຕ່ພວກເຂົາຍັງສາມາດເປັນຄວາມເຈັບປວດໃນບາກ. ຂໍຕິດຕາມຜູ້ປອມແປງແລະເຈົ້າອາດຈະສິ້ນສຸດລົງຢູ່ໂຮງງານຜະລິດເຫຼັກ. ຂ້ອຍບໍ່ສົນໃຈຄົນໂຊກຮ້າຍບາງຄັ້ງ
+- ມັນແມ່ນບຸກຄະລິກໍາຂອງພວກເຂົາທີ່ມັກເຮັດໃຫ້ຂ້ອຍ. ບາງຄົນເຄີຍເວົ້າວ່າຜູ້ຊາຍເຮັດເຄື່ອງຈັກຕາມຮູບພາບຂອງຕົນເອງ. ຖ້າມັນເປັນຄວາມຈິງ, ໃຜທີ່ເຮັດເອສເປີຄວນຖືກຍິງ.
+
+106
+00:06:20,600 --> 00:06:23,750
+[ESPER]
+This is Esper and I'm ready.  Go ahead please.
+ນີ້ແມ່ນເອສເປີ ແລະຂ້ອຍພ້ອມແລ້ວ. ໄປກ່ອນຂໍຮ້ອງ.
+
+107
+00:06:24,250 --> 00:06:26,250
+[DECKARD]
+You equipped for random questions?
+ເຈົ້າພ້ອມແລ້ວ ສໍາ ລັບ ຄໍາ ຖາມແບບບໍ່ເປັນທາງການບໍ?
+
+108
+00:06:26,750 --> 00:06:28,750
+[ESPER]
+Why, yes, of course.
+ເປັນຫຍັງ, ແມ່ນແລ້ວ, ແນ່ນອນ.
+
+109
+00:06:29,250 --> 00:06:31,250
+[DECKARD]
+You start.
+ເຈົ້າເລີ່ມຕົ້ນ.
+
+110
+00:06:31,750 --> 00:06:37,750
+[ESPER]
+The five in question are third generation Nexus Sixes, constructed of skin-flesh culture, selected enogenic transfer conversion capable of self-perpetuating thought, para-physical abilities and developed for emigration program.  Are you with me?
+ຫ້າຄົນທີ່ຖືກກ່າວເຖິງແມ່ນ Nexus Six ຂອງລຸ້ນທີສາມ, ຖືກສ້າງຂຶ້ນຈາກວັດທະນະທໍາຜິວຫນັງ-ຊີ້ນ, ການປ່ຽນແປງການໂອນໂອນ enogenic
+ທີ່ຖືກເລືອກສາມາດຕໍ່ເນື່ອງຄວາມຄິດຕົນເອງ, ຄວາມສາມາດ para-physic ແລະພັດທະນາສໍາລັບໂຄງການອົບພະຍົບ. ເຈົ້າຢູ່ກັບຂ້ອຍບໍ?
+
+111
+00:06:38,250 --> 00:06:40,250
+[DECKARD]
+How do I stop one?
+ຂ້ອຍຈະຢຸດຫນຶ່ງແນວໃດ?
+
+112
+00:06:40,750 --> 00:06:46,750
+[ESPER]
+Unlike a five, they can sustain massive traumas to several parts of the body without debilitating another.  Sever a leg and it will perform quicker on the remaining leg than the fastest man can run,
+ບໍ່ຄືກັບຫ້າ, ພວກເຂົາສາມາດຮັກສາອາການບາດເຈັບທີ່ໃຫຍ່ຫຼວງຕໍ່ພາກສ່ວນຫຼາຍໆຂອງຮ່າງກາຍໂດຍບໍ່ຕ້ອງເຮັດໃຫ້ຄົນອື່ນອ່ອນແອ
+. ຕັດຕີນແລະມັນຈະປະຕິບັດໄດ້ໄວກວ່າຕີນທີ່ເຫຼືອທີ່ຜູ້ຊາຍໄວທີ່ສຸດສາມາດແລ່ນໄດ້,
+
+113
+00:06:47,250 --> 00:06:49,250
+[DECKARD]
+Okay, but...
+ດີ, ແຕ່...
+
+114
+00:06:49,750 --> 00:06:55,750
+[ESPER]
+I'm coming to that.  Vulnerable zone is the base of the skull, the occipital bone.  A direct hit is a positive retirement.
+ຂ້ອຍ ກໍາ ລັງມາຮອດນັ້ນ. ເຂດທີ່ອ່ອນແອແມ່ນພື້ນຖານຂອງຫົວຫົວ
+, ກະດູກ occipital. ການຕີໂດຍກົງແມ່ນການພັກຜ່ອນທາງບວກ.
+
+115
+00:06:56,250 --> 00:07:02,200
+[VOICE]
+You are in violation of traffic ordinance M-139 statutory freeway limit restricted by one-hundred and eighty kilometers.
+ເຈົ້າເປັນການລະເມີດກົດລະບຽບການຈະລາຈອນ M-139 ຈໍາ ກັດທາງດ່ວນຕາມກົດ
+ຫມາຍ ທີ່ຖືກຈໍາກັດໂດຍ ຫນຶ່ງ ຮ້ອຍແປດສິບກິໂລແມັດ.
+
+116
+00:07:02,700 --> 00:07:04,700
+[SEBASTIAN]
+Oh!
+ໂອ້!
+
+117
+00:07:05,200 --> 00:07:07,200
+[PRIS]
+Whatcha doin'?
+ເຈົ້າເຮັດຫຍັງ?
+
+118
+00:07:07,700 --> 00:07:09,700
+[SEBASTIAN]
+You scared me.
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍຢ້ານກົວ.
+
+119
+00:07:10,200 --> 00:07:12,200
+[SEBASTIAN]
+I'm working.
+ຂ້ອຍ ກໍາ ລັງເຮັດວຽກ.
+
+120
+00:07:12,700 --> 00:07:14,700
+[SEBASTIAN]
+You look... better.
+ເຈົ້າເບິ່ງຄືວ່າ... ດີກວ່າ.
+
+121
+00:07:15,200 --> 00:07:17,200
+[PRIS]
+Just better.
+ພຽງແຕ່ດີຂຶ້ນ.
+
+122
+00:07:17,700 --> 00:07:19,700
+[SEBASTIAN]
+Beautiful.
+ດີເລີດ.
+
+123
+00:07:20,200 --> 00:07:22,200
+[PRIS]
+Thanks.
+ຂອບໃຈ
+
+124
+00:07:22,700 --> 00:07:25,850
+[PRIS]
+And you live in this building all by yourself?
+ແລະເຈົ້າອາໄສຢູ່ໃນອາຄານນີ້ດ້ວຍຕົນເອງບໍ?
+
+125
+00:07:26,350 --> 00:07:29,500
+[SEBASTIAN]
+Yeah, I live here pretty much alone right now...
+ແມ່ນແລ້ວ, ຂ້ອຍອາໄສຢູ່ບ່ອນນີ້ຢູ່ຄົນດຽວຫຼາຍໃນເວລານີ້...
+
+126
+00:07:30,000 --> 00:07:33,500
+[SEBASTIAN]
+No housing shortage around here... plenty of room for everybody.
+ບໍ່ມີການຂາດເຮືອນຢູ່ບ່ອນນີ້... ມີບ່ອນພຽງພໍ ສໍາ ລັບທຸກຄົນ.
+
+127
+00:07:34,000 --> 00:07:36,000
+[PRIS]
+How old are you?
+ເຈົ້າອາຍຸຫຼາຍປານໃດ?
+
+128
+00:07:36,500 --> 00:07:38,500
+[SEBASTIAN]
+Twenty.
+ສິບ.
+
+129
+00:07:39,000 --> 00:07:41,000
+[PRIS]
+What's your problem?
+ບັນຫາຂອງເຈົ້າແມ່ນຫຍັງ?
+
+130
+00:07:41,500 --> 00:07:43,500
+[SEBASTIAN]
+Methuselah Syndrome.
+ສະໄຫມໂຣກແມັດຊູຊາລາ.
+
+131
+00:07:44,000 --> 00:07:46,000
+[PRIS]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+132
+00:07:46,500 --> 00:07:48,950
+[SEBASTIAN]
+My glands.  They grow old too fast.
+ກະທູ້ຂອງຂ້ອຍ. ພວກເຂົາເຖົ້າໄວເກີນໄປ.
+
+133
+00:07:49,450 --> 00:07:51,550
+[PRIS]
+Is that why you're still here?
+ນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າຍັງຢູ່ບ່ອນນີ້ບໍ?
+
+134
+00:07:52,050 --> 00:07:54,150
+[SEBASTIAN]
+Yes.  I couldn't pass the test.
+ແມ່ນແລ້ວ. ຂ້ອຍບໍ່ສາມາດຜ່ານການທົດສອບໄດ້.
+
+135
+00:07:54,650 --> 00:07:57,450
+[PRIS]
+I like you just the way you are.
+ຂ້ອຍມັກເຈົ້າຕາມທີ່ເຈົ້າເປັນ.
+
+136
+00:07:57,950 --> 00:08:00,400
+[SEBASTIAN]
+Ah, you get hold of your friends?
+ອາ, ເຈົ້າຕິດຕໍ່ກັບເພື່ອນຂອງທ່ານບໍ?
+
+137
+00:08:00,900 --> 00:08:06,900
+[PRIS]
+As a matter of fact I did.  They've got some work to do tonight, but they're gonna come tomorrow.
+ໃນຄວາມເປັນຈິງຂ້ອຍເຮັດ. ພວກເຂົາຕ້ອງເຮັດວຽກບາງຢ່າງໃນຄືນນີ້
+, ແຕ່ພວກເຂົາຈະມາມື້ອື່ນ.
+
+138
+00:08:07,400 --> 00:08:09,400
+[SEBASTIAN]
+Good.
+ດີແລ້ວ.
+
+139
+00:08:09,900 --> 00:08:12,000
+[SEBASTIAN]
+I can sleep on the couch.
+ຂ້ອຍສາມາດນອນຢູ່ເທິງໂຊຟນໄດ້.
+
+140
+00:08:12,500 --> 00:08:14,600
+[MOUSE]
+Don't let the bed bugs bite!
+ຢ່າປ່ອຍໃຫ້ແມງໄມ້ຕຽງກັດ!
+
+141
+00:08:15,100 --> 00:08:21,100
+[ESPER]
+Nexus designated Leon:  incept date April 10th, 2015 -- to be used in military experiments to determine how hyper metabolism functions in deep space. Nexus designated Batty incept data April 10th, 2015, combat model, level of self-sufficiency, optimum.
+Nexus ໄດ້ແຕ່ງຕັ້ງ Leon: ວັນເລີ່ມຕົ້ນວັນທີ 10 ເມສາ, 2015 - ເພື່ອໃຊ້ໃນການທົດລອງທາງທະຫານເພື່ອ ກໍາ ນົດວ່າການ metaboism hyper
+ເຮັດວຽກແນວໃດໃນອະວະກາດເລິກ. Nexus ໄດ້ກໍານົດຂໍ້ມູນການເລີ່ມຕົ້ນ Batty ເມສາ 10, 2015, ຮູບແບບການຕໍ່ສູ້, ລະດັບຂອງຄວາມພຽງພໍຕົນເອງ, ດີທີ່ສຸດ.
+
+142
+00:08:21,600 --> 00:08:27,600
+[ESPER]
+Here's something you might find interesting.  They have been built to emulate the human in every way except in its emotional spectrum. However, after a period of time it is only logical that such a 'mechanism' would create its own emotional responses, hate, love, fear, anger, envy.
+ນີ້ແມ່ນບາງສິ່ງບາງຢ່າງທີ່ທ່ານອາດຈະພົບວ່າ ຫນ້າ ສົນໃຈ. ພວກເຂົາໄດ້ຖືກສ້າງຂຶ້ນເພື່ອຕົວແບບມະນຸດໃນທຸກວິທີນອກຈາກໃນແຄມອາລົມຂອງມັນ. ເຖິງຢ່າງໃດກໍ່ຕາມ,
+ຫຼັງຈາກໄລຍະເວລາມັນພຽງແຕ່ສົມເຫດສົມຜົນວ່າ'ກົນໄກ' ດັ່ງກ່າວຈະສ້າງການຕອບໂຕ້ທາງອາລົມຂອງຕົນເອງ, ຄວາມກຽດຊັງ, ຄວາມຮັກ, ຄວາມຢ້ານກົວ, ຄວາມໂຊກຮ້າຍ, ຄວາມອິດສາ.
+
+143
+00:08:28,100 --> 00:08:30,100
+[DECKARD]
+I know all that.
+ຂ້ອຍຮູ້ທັງ ຫມົດ ນັ້ນ.
+
+144
+00:08:30,600 --> 00:08:32,600
+[ESPER]
+What about a summary then.
+ຈະເປັນແນວໃດກັບບົດສະຫຼຸບຫຼັງຈາກນັ້ນ.
+
+145
+00:08:33,100 --> 00:08:35,550
+[DECKARD]
+I think we're through for the night.
+ຂ້ອຍຄິດວ່າພວກເຮົາຫມົດແລ້ວ ສໍາ ລັບຄືນນີ້.
+
+146
+00:08:36,050 --> 00:08:38,050
+[ESPER]
+Mr. Deckard.
+ທ້າວ ເດຄາດ.
+
+147
+00:08:38,550 --> 00:08:40,550
+[DECKARD]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+148
+00:08:41,050 --> 00:08:43,150
+[ESPER]
+Do you have something against science?
+ເຈົ້າມີຫຍັງຕໍ່ຕ້ານວິທະຍາສາດບໍ?
+
+149
+00:08:43,650 --> 00:08:45,650
+[DECKARD]
+Not if it works.
+ບໍ່ຖ້າມັນເຮັດວຽກ.
+
+150
+00:08:46,150 --> 00:08:48,250
+[ESPER]
+And what in your estimation works?
+ແລະໃນການປະເມີນຂອງທ່ານເຮັດວຽກຫຍັງ?
+
+151
+00:08:48,750 --> 00:08:50,750
+[DECKARD]
+The umbrella.
+ກະທູ້.
+
+152
+00:08:51,250 --> 00:08:57,250
+[DECKARD]
+Every government that could was racing to populate their colonial territory.  But emigrants needed incentive.  Over-population and the greenhouse factor didn't seem to be enough; but owning a human look-a-like had lots of appeal. It was big industry, the competition was stiff and Tyrell was top of the line.
+ລັດຖະບານທຸກຢ່າງທີ່ສາມາດເຮັດໄດ້ ກໍາ ລັງແຂ່ງຂັນເພື່ອປະຊາກອນເຂດຄolonial ຂອງເຂົາເຈົ້າ. ແຕ່ຄົນຍົກຍ້າຍຖິ່ນຖານຕ້ອງການແຮງຊຸກຍູ້.
+ການມີຄົນຫຼາຍເກີນໄປແລະປັດໃຈເຮືອນແກ້ວເບິ່ງຄືວ່າບໍ່ພຽງພໍ; ແຕ່ເປັນເຈົ້າຂອງຄົນເບິ່ງຄືກັບມີຄວາມດຶງດູດຫຼາຍ. ມັນແມ່ນອຸດສາຫະກໍາໃຫຍ່, ການແຂ່ງຂັນແມ່ນແຂງແຮງແລະໄຕເຣລແມ່ນຢູ່ເທິງສຸດຂອງສາຍ.
+
+153
+00:08:57,750 --> 00:09:03,750
+[DECKARD]
+His claim to fame was making a product more human than human and sometimes the 'more' turned out to be a problem.  This wasn't just an escaped andy who broke his owner's arm -- there were twenty-eight people dead and the pressure was on.
+ການອ້າງຊື່ສຽງຂອງລາວແມ່ນການເຮັດໃຫ້ຜະລິດຕະພັນເປັນມະນຸດຫຼາຍກ່ວາມະນຸດແລະບາງຄັ້ງ'ຫຼາຍຂຶ້ນ' ປາກົດວ່າເປັນບັນຫາ
+. ນີ້ແມ່ນບໍ່ແມ່ນພຽງແຕ່ແອນດີ້ທີ່ຫນີທີ່ແຕກແຂນຂອງເຈົ້າຂອງຂອງລາວ - ມີຄົນຕາຍສິບແປດຄົນແລະຄວາມກົດດັນຢູ່.
+
+154
+00:09:04,250 --> 00:09:10,250
+[DECKARD]
+But so far they'd always managed to keep it quiet.  Not to say that once in a while there wasn't bad publicity.  Some fanatic bitching about equal rights for andies or an occasional trade union proclaiming it was aun-American for automatons to take jobs away from humans on the colony.
+ແຕ່ຈົນເຖິງປະຈຸບັນພວກເຂົາເຄີຍສາມາດຮັກສາມັນໄວ້ຢ່າງງຽບສະຫງົບຢູ່ສະເຫມີ. ບໍ່ວ່າບາງຄັ້ງບໍ່ມີການໂຄສະນາທີ່ບໍ່ດີ. ການຮ້ອງໄຫ້ແຟນຕິກບາງຄົນກ່ຽວກັບສິດເທົ່າທຽມກັນ
+ສໍາ ລັບແອນດີ້ຫຼືສະຫະພັນກໍາມະບານບາງຄັ້ງປະກາດວ່າມັນເປັນຄົນອາເມລິກາ ສໍາ ລັບອັດຕະໂນມັດທີ່ຈະເອົາວຽກງານຈາກມະນຸດໃນຄລູເນຍ.
+
+155
+00:09:10,750 --> 00:09:16,750
+[DECKARD]
+But what's more American than good old supply and demand?  The Government needed them, industry made them and the church backed them.  The big religious boys said that Androids, no matter how human, were objects; only God could make people. I'm not religious, but I was inclined to agree. Otherwise I'd be out of a job.
+ແຕ່ສິ່ງທີ່ເປັນອາເມລິກາຫຼາຍກ່ວາການສະ ຫນອງ ແລະ ຄວາມຕ້ອງການເກົ່າທີ່ດີບໍ? ລັດຖະບານຕ້ອງການພວກມັນ, ອຸດສາຫະ ກໍາ ໄດ້ເຮັດພວກມັນແລະສາດສະຫນາຈັກໄດ້ສະຫນັບສະຫນູນພວກມັນ.
+ເດັກຊາຍສາສະຫນາໃຫຍ່ເວົ້າວ່າແອນດຣອຍດ໌, ບໍ່ວ່າເປັນມະນຸດຫຼາຍປານໃດ, ແມ່ນວັດຖຸ; ພຽງແຕ່ພຣະເຈົ້າສາມາດເຮັດຄົນໄດ້. ຂ້ອຍບໍ່ແມ່ນສາສະ ຫນາ, ແຕ່ຂ້ອຍມັກເຫັນດີ. ຖ້າບໍ່ດັ່ງນັ້ນຂ້ອຍຈະບໍ່ມີວຽກເຮັດງານທໍາ.
+
+156
+00:09:17,250 --> 00:09:19,700
+[RACHAEL]
+Hello, Mr. Deckard.  My name is Rachael.
+ສະບາຍດີ, ທ້າວ ເດຄາດ. ຂ້ອຍຊື່ວ່າ ຣາເຊວ.
+
+157
+00:09:20,200 --> 00:09:25,100
+[RACHAEL]
+It seems your department doesn't believe out new unit is to the public benefit.
+ມັນເບິ່ງຄືວ່າພະແນກຂອງທ່ານບໍ່ເຊື່ອວ່າ ຫນ່ວຍ
+ງານ ໃຫມ່ ແມ່ນເພື່ອຜົນປະໂຫຍດຂອງສາທາລະນະ.
+
+158
+00:09:25,600 --> 00:09:31,600
+[DECKARD]
+A humanoid robot is like any other machine, it can be a benefit or a hazard.  If it's a benefit, it's not our problem.
+ຫຸ່ນຍົນແບບມະນຸດແມ່ນຄືກັບເຄື່ອງຈັກອື່ນໆ, ມັນສາມາດເປັນປະໂຫຍດຫຼືອັນຕະລາຍໄດ້
+. ຖ້າມັນເປັນປະໂຫຍດ, ມັນບໍ່ແມ່ນບັນຫາຂອງພວກເຮົາ.
+
+159
+00:09:32,100 --> 00:09:38,100
+[RACHAEL]
+But because your department can't do an adequate job in detecting the miniscule number at large, it's a problem.  Correct, Mr. Deckard?
+ແຕ່ເພາະວ່າພະແນກຂອງທ່ານບໍ່ສາມາດເຮັດວຽກຢ່າງພຽງພໍໃນການກວດພົບຕົວເລກນ້ອຍໆໃນທົ່ວໄປ
+, ມັນເປັນບັນຫາ. ແມ່ນບໍ, ທ້າວເດກາດ?
+
+160
+00:09:38,600 --> 00:09:40,600
+[RACHAEL]
+You like our owl?
+ເຈົ້າມັກກຸ້ງຂອງພວກເຮົາບໍ?
+
+161
+00:09:41,100 --> 00:09:43,100
+[DECKARD]
+It's artificial?
+ມັນເປັນຫັດຖະກໍາບໍ?
+
+162
+00:09:43,600 --> 00:09:45,600
+[RACHAEL]
+Of course not.
+ແນ່ນອນວ່າບໍ່ແມ່ນ.
+
+163
+00:09:46,100 --> 00:09:52,100
+[RACHAEL]
+You're in a very unique position, Mr. Deckard.  You could affect the future of this entire organization according to how you work your little test.
+ເຈົ້າຢູ່ໃນຕໍາແຫນ່ງທີ່ເປັນເອກະລັກຫຼາຍ, ທ້າວເດກາດ. ເຈົ້າສາມາດສົ່ງຜົນກະທົບຕໍ່ອະນາຄົດຂອງອົງການຈັດຕັ້ງທັງ
+ຫມົດ ນີ້ຕາມວິທີທີ່ທ່ານເຮັດວຽກການທົດສອບນ້ອຍຂອງທ່ານ.
+
+164
+00:09:52,600 --> 00:09:54,600
+[RACHAEL]
+Are you apprehensive?
+ເຈົ້າກັງວົນບໍ?
+
+165
+00:09:55,100 --> 00:09:57,100
+[DECKARD]
+Why should I be?
+ຂ້ອຍຄວນເປັນຫຍັງ?
+
+166
+00:09:57,600 --> 00:10:03,200
+[RACHAEL]
+For the responsibility of your power.  Being a police bureaucrat, you've got more than your share.
+ສໍາລັບຄວາມຮັບຜິດຊອບຂອງພະລັງຂອງທ່ານ.
+ເປັນພະນັກງານຕໍາຫຼວດ, ທ່ານມີຫຼາຍກ່ວາສ່ວນແບ່ງຂອງທ່ານ.
+
+167
+00:10:03,700 --> 00:10:08,250
+[DECKARD]
+You got it wrong, girl.  I work with the bureau not for them.
+ເຈົ້າເຂົ້າໃຈຜິດ, ເດັກຍິງ.
+ຂ້ອຍເຮັດວຽກກັບຫ້ອງການບໍ່ແມ່ນ ສໍາ ລັບພວກເຂົາ.
+
+168
+00:10:08,750 --> 00:10:14,000
+[DECKARD]
+My job isn't to detect malfunctioning andies, it's to eliminate them.  The more the better.
+ວຽກງານຂອງຂ້ອຍບໍ່ແມ່ນການກວດພົບແອນດີ້ທີ່ເຮັດວຽກຜິດປົກກະຕິ
+, ມັນແມ່ນການ ກໍາ ຈັດພວກມັນ. ຫຼາຍກວ່າດີກວ່າ.
+
+169
+00:10:14,500 --> 00:10:16,500
+[RACHAEL]
+Mr. Deckard.  Dr. Eldon Tyrell.
+ທ້າວ ເດຄາດ. ດຣ ເອລດອນ ໄຕເຣລ.
+
+170
+00:10:17,000 --> 00:10:22,950
+[TYRELL]
+How do you do, Mr. Deckard.  Please sit down.  Would you care for a cup of coffee?
+ເຈົ້າເຮັດແນວໃດ, ທ້າວເດກາດ. ກະລຸນານັ່ງລົງ. ເຈົ້າຢາກກິນກາເຟບໍ?
+
+171
+00:10:23,450 --> 00:10:25,450
+[DECKARD]
+Thanks.
+ຂອບໃຈ
+
+172
+00:10:25,950 --> 00:10:27,950
+[TYRELL]
+Black?
+ສີດໍາບໍ?
+
+173
+00:10:28,450 --> 00:10:30,450
+[DECKARD]
+Please.
+ກະລຸນາ.
+
+174
+00:10:30,950 --> 00:10:36,950
+[TYRELL]
+Somehow, I didn't expect that the man who did the dirty work would be the man to do the technical work.  Here you are, Mr. Deckard.
+ບາງຢ່າງ, ຂ້ອຍບໍ່ຄາດວ່າຜູ້ຊາຍທີ່ເຮັດວຽກເປື້ອນຈະເປັນຜູ້ຊາຍທີ່ຈະເຮັດວຽກດ້ານເຕັກນິກ
+. ເຈົ້າຢູ່ບ່ອນນີ້, ທ້າວເດກາດ.
+
+175
+00:10:37,450 --> 00:10:39,900
+[TYRELL]
+Is this to be an empathy test?
+ນີ້ແມ່ນການທົດສອບຄວາມເຫັນໃຈບໍ?
+
+176
+00:10:40,400 --> 00:10:42,400
+[DECKARD]
+Yes.
+ແມ່ນແລ້ວ.
+
+177
+00:10:42,900 --> 00:10:48,900
+[TYRELL]
+Capillary dilation of the so-called blush response?  Plus fluctuation of the pupil, plus involuntary dilation of the iris?
+ການຂະຫຍາຍເສັ້ນໄຍຂອງສິ່ງທີ່ເອີ້ນວ່າການຕອບໂຕ້ສີແດງບໍ?
+ບວກກັບການປ່ຽນແປງຂອງນັກຮຽນ, ບວກໃສ່ການຂະຫຍາຍຂອງ iris ໂດຍບໍ່ຕັ້ງໃຈບໍ?
+
+178
+00:10:49,400 --> 00:10:51,500
+[TYRELL]
+May I ask a personal question?
+ຂ້ອຍສາມາດຖາມ ຄໍາ ຖາມສ່ວນຕົວໄດ້ບໍ?
+
+179
+00:10:52,000 --> 00:10:54,000
+[DECKARD]
+Go ahead.
+ໄປກ່ອນ.
+
+180
+00:10:54,500 --> 00:10:57,300
+[TYRELL]
+Have you ever retired a human by mistake?
+ເຈົ້າເຄີຍບໍານານມະນຸດໂດຍຜິດພາດບໍ?
+
+181
+00:10:57,800 --> 00:10:59,800
+[DECKARD]
+No.
+ບໍ່
+
+182
+00:11:00,300 --> 00:11:03,100
+[TYRELL]
+But in your profession that is a risk.
+ແຕ່ໃນອາຊີບຂອງທ່ານນັ້ນແມ່ນຄວາມສ່ຽງ.
+
+183
+00:11:03,600 --> 00:11:07,800
+[DECKARD]
+Nothing is infallible, but so far the Voight-Kampff scale bas been foolproof.
+ບໍ່ມີຫຍັງບໍ່ສາມາດເຮັດຜິດພາດໄດ້, ແຕ່ຈົນເຖິງປະຈຸບັນລະດັບ
+Voight-Kampff ແມ່ນພຽງແຕ່ເປັນທີ່ແນ່ນອນ.
+
+184
+00:11:08,300 --> 00:11:14,300
+[TYRELL]
+Like you said, Mr. Deckard, a machine can be a hazard.  The Voight-Kampff scale is a machine, isn't it?
+ດັ່ງທີ່ທ່ານເວົ້າແລ້ວ, ທ້າວເດກາດ, ເຄື່ອງຈັກສາມາດເປັນອັນຕະລາຍໄດ້
+. ລະດັບ Voight-Kampff ແມ່ນເຄື່ອງຈັກ, ແມ່ນບໍ?
+
+185
+00:11:14,800 --> 00:11:17,950
+[DECKARD]
+One that relies on human interpretation.  Where's the subject?
+ຫນຶ່ງທີ່ອີງໃສ່ການຕີຄວາມ ຫມາຍ ຂອງມະນຸດ. ຫົວຂໍ້ຢູ່ໃສ?
+
+186
+00:11:18,450 --> 00:11:20,450
+[TYRELL]
+Sitting next to you.
+ນັ່ງຢູ່ຂ້າງເຈົ້າ.
+
+187
+00:11:20,950 --> 00:11:22,950
+[DECKARD'S VOICE]
+Ready.
+ກຽມພ້ອມແລ້ວ.
+
+188
+00:11:23,450 --> 00:11:25,450
+[RACHAEL]
+Go ahead.
+ໄປກ່ອນ.
+
+189
+00:11:25,950 --> 00:11:28,750
+[DECKARD]
+You're given a calfskin wallet for your birthday.
+ເຈົ້າໄດ້ຮັບກະເປົາເງິນຜິວຫນັງແມວ ສໍາ ລັບວັນເກີດຂອງທ່ານ.
+
+190
+00:11:29,250 --> 00:11:35,200
+[RACHAEL]
+I wouldn't accept it.  Also, I'd report the person who gave it to me to the police.
+ຂ້ອຍຈະບໍ່ຍອມຮັບມັນ. ນອກຈາກນັ້ນ,
+ຂ້ອຍຈະລາຍງານຄົນທີ່ໃຫ້ມັນໃຫ້ຂ້ອຍໃຫ້ຕໍາຫຼວດ.
+
+191
+00:11:35,700 --> 00:11:40,950
+[DECKARD]
+You have a little boy.  He shows you his butterfly collection, plus the killing jar.
+ຄຸເຂົ່າລົງ
+
+192
+00:11:41,450 --> 00:11:43,550
+[RACHAEL]
+I'd take him to the doctor.
+ຂ້ອຍຈະພາລາວໄປຫາຫມໍ.
+
+193
+00:11:44,050 --> 00:11:48,600
+[DECKARD]
+You're watching T.V. and suddenly you notice a wasp crawling on your wrist.
+ເຈົ້າ ກໍາ
+ລັງເບິ່ງໂທລະພາບແລະທັນທີເຈົ້າເຫັນແມງໄມ້ຍ່າງຢູ່ເທິງແຂນຂອງທ່ານ.
+
+194
+00:11:49,100 --> 00:11:51,100
+[RACHAEL]
+I'd kill it.
+ຂ້ອຍຈະຂ້າມັນ.
+
+195
+00:11:51,600 --> 00:11:56,150
+[DECKARD]
+In a magazine you come across a full-page photo of a nude girl.
+ໃນວາລະສານທ່ານພົບຮູບຂອງເດັກຍິງເປົ່າເຕັມຫນ້າ.
+
+196
+00:11:56,650 --> 00:12:00,150
+[RACHAEL]
+Is this testing whether I'm an android or a lesbian?
+ນີ້ແມ່ນການທົດສອບວ່າຂ້ອຍເປັນແອນດຣອຍ ຫຼື ເປັນເລສເບຍບໍ?
+
+197
+00:12:00,650 --> 00:12:06,650
+[DECKARD]
+You show the picture to your husband. He likes it and hangs it on the wall. The girl is lying on a bearskin rug.
+ເຈົ້າສະແດງຮູບໃຫ້ຜົວຂອງທ່ານ. ລາວມັກມັນແລະວາງມັນຢູ່ເທິງກໍາແພງ
+. ເດັກຍິງນອນຢູ່ເທິງຜ້າຜ້າຫມີ.
+
+198
+00:12:07,150 --> 00:12:09,150
+[RACHEL]
+I wouldn't let him.
+ຂ້ອຍຈະບໍ່ປ່ອຍໃຫ້ລາວ.
+
+199
+00:12:09,650 --> 00:12:11,650
+[DECKARD]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+200
+00:12:12,150 --> 00:12:14,250
+[RACHAEL]
+I should be enough for him.
+ຂ້ອຍຄວນພຽງພໍ ສໍາ ລັບລາວ.
+
+201
+00:12:14,750 --> 00:12:20,750
+[DECKARD]
+You become pregnant by a man who runs off with your best friend, and you decide to get an abortion.
+ເຈົ້າຖືພາໂດຍຜູ້ຊາຍທີ່ຫນີໄປກັບເພື່ອນທີ່ດີທີ່ສຸດຂອງທ່ານ
+, ແລະເຈົ້າຕັດສິນໃຈທີ່ຈະເອົາລູກອອກ.
+
+202
+00:12:21,250 --> 00:12:23,250
+[RACHAEL]
+I'd never get an abortion.
+ຂ້ອຍຈະບໍ່ອອກລູກເລີຍ.
+
+203
+00:12:23,750 --> 00:12:25,750
+[DECKARD]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+204
+00:12:26,250 --> 00:12:28,350
+[RACHAEL]
+That would be murder, Mr. Deckard.
+ນັ້ນຈະເປັນການຄາດຕະກໍາ, ທ້າວເດກາດ.
+
+205
+00:12:28,850 --> 00:12:30,850
+[DECKARD]
+In your opinion.
+ຕາມຄວາມຄິດເຫັນຂອງທ່ານ.
+
+206
+00:12:31,350 --> 00:12:33,350
+[RACHAEL]
+It would be my child.
+ມັນຈະເປັນລູກຂອງຂ້ອຍ.
+
+207
+00:12:33,850 --> 00:12:35,950
+[DECKARD]
+Sounds like you speaks from experience.
+ມັນເບິ່ງຄືວ່າເຈົ້າເວົ້າຈາກປະສົບການ.
+
+208
+00:12:36,450 --> 00:12:42,450
+[DECKARD]
+Last question.  You're watching an old movie.  It shows a banquet in progress, the guests are enjoying raw oysters.
+ຄໍາ ຖາມສຸດທ້າຍ. ເຈົ້າ ກໍາ ລັງເບິ່ງຮູບເງົາເກົ່າ. ມັນສະແດງໃຫ້ເຫັນງານລ້ຽງ
+ກໍາ ລັງ ດໍາ ເນີນໄປ, ແຂກ ກໍາ ລັງເພີດເພີນກັບ oysters ກະດານ.
+
+209
+00:12:42,950 --> 00:12:44,950
+[RACHAEL]
+Ugh.
+ໂອ້.
+
+210
+00:12:45,450 --> 00:12:48,600
+[DECKARD]
+The entree consists of boiled dog stuffed with rice.
+ອາຫານເຂົ້າປະກອບດ້ວຍຫມາຕົ້ມທີ່ເຕັມໄປດ້ວຍເຂົ້າ.
+
+211
+00:12:49,100 --> 00:12:54,000
+[DECKARD]
+The raw oysters are less acceptable to you than a dish of boiled dog.
+ໄອສເຕີດິບແມ່ນບໍ່ຍອມຮັບໄດ້ຫຼາຍຕໍ່ເຈົ້າກ່ວາອາຫານຂອງຫມາທີ່ຕົ້ມ.
+
+212
+00:12:54,500 --> 00:12:56,500
+[DECKARD]
+Lights please.
+ແສງສະຫວ່າງຂໍຮ້ອງ.
+
+213
+00:12:57,000 --> 00:12:59,000
+[TYRELL]
+Well?
+ດີບໍ?
+
+214
+00:12:59,500 --> 00:13:01,600
+[DECKARD]
+If she is, the machine works.
+ຖ້ານາງເປັນ, ເຄື່ອງຈັກເຮັດວຽກ.
+
+215
+00:13:02,100 --> 00:13:04,100
+[TYRELL]
+The machine works.  She is.
+ເຄື່ອງຈັກເຮັດວຽກ. ນາງເປັນ.
+
+216
+00:13:04,600 --> 00:13:06,700
+[TYRELL]
+How many questions did it take?
+ມັນຕ້ອງມີຄໍາຖາມຫຼາຍປານໃດ?
+
+217
+00:13:07,200 --> 00:13:09,200
+[DECKARD]
+Thirteen.
+ສິບສາມ.
+
+218
+00:13:09,700 --> 00:13:11,700
+[DECKARD]
+She didn't know?
+ນາງບໍ່ຮູ້ບໍ?
+
+219
+00:13:12,200 --> 00:13:18,200
+[TYRELL]
+Memory implant.  She was programmed. But I think she has transcended her conditioning.  I think she was beginning to suspect.
+ການປູກຈິດໃຈ. ນາງຖືກໂປແກຼມ. ແຕ່ຂ້ອຍຄິດວ່ານາງໄດ້ເກີນຄວາມສະພາບແວດລ້ອມຂອງນາງ
+. ຂ້ອຍຄິດວານາງ ກໍາ ລັງເລີ່ມສົງໄສ.
+
+220
+00:13:18,700 --> 00:13:21,850
+[TYRELL]
+How many questions does it usually take, Mr. Deckard?
+ມັນມັກຈະຕ້ອງມີ ຄໍາ ຖາມຫຼາຍປານໃດ, ທ້າວເດກາດ?
+
+221
+00:13:22,350 --> 00:13:24,350
+[DECKARD]
+Five, maybe six.
+ຫ້າ, ບາງທີຫົກ.
+
+222
+00:13:24,850 --> 00:13:28,700
+[TYRELL]
+You're going to have to be on your toes, my friend.
+ເຈົ້າຈະຕ້ອງລະມັດລະວັງຕົວເອງ, ເພື່ອນຂອງຂ້ອຍ.
+
+223
+00:13:29,200 --> 00:13:33,750
+[TYRELL]
+It's a complex problem and we wouldn't want anything to happen to you.
+ມັນເປັນບັນຫາທີ່ສັບສົນແລະພວກເຮົາຈະບໍ່ຢາກໃຫ້ເກີດຫຍັງເກີດຂຶ້ນກັບເຈົ້າ
+.
+
+224
+00:13:34,250 --> 00:13:40,250
+[TYRELL]
+For the good of all, I recommend you take Rachael with you. Considering her uniqueness, I'm sure she could prove quite helpful.
+ເພື່ອຄວາມດີຂອງທຸກຄົນ, ຂ້ອຍແນະ ນໍາ ໃຫ້ເຈົ້າເອົາຣາເຊວກັບເຈົ້າ.
+ໂດຍພິຈາລະນາຄວາມເປັນເອກະລັກຂອງນາງ, ຂ້ອຍແນ່ໃຈວ່ານາງສາມາດຊ່ວຍໄດ້ຫຼາຍ.
+
+225
+00:13:40,750 --> 00:13:42,750
+[DECKARD]
+No thanks.
+ບໍ່ ຂອບໃຈ.
+
+226
+00:13:43,250 --> 00:13:48,150
+[TYRELL]
+And how is it one man will be able to cover so much ground?
+ແລະເປັນແນວໃດຜູ້ຊາຍຄົນດຽວຈະສາມາດປົກຄຸມພື້ນທີ່ຫຼາຍປານໃດ?
+
+227
+00:13:48,650 --> 00:13:50,650
+[DECKARD]
+Discreetly.
+ຢ່າງລະມັດລະວັງ.
+
+228
+00:13:51,150 --> 00:13:57,150
+[TYRELL]
+All pertinent information is being fed into your departmental computer, an Esper 231 -- I believe -- and a photo over-lay packet is being produced.
+ຂໍ້ມູນທີ່ກ່ຽວຂ້ອງທັງ ຫມົດ ກໍາ ລັງຖືກໃຫ້ເຂົ້າໄປໃນຄອມພິວເຕີຂອງພະແນກຂອງທ່ານ
+, ເອສເປີ 231 - ຂ້ອຍເຊື່ອວ່າ - ແລະຊຸດວາງຮູບ ກໍາ ລັງຜະລິດ.
+
+229
+00:13:57,650 --> 00:14:01,850
+[TYRELL]
+Mr. Deckard, I think it would be wise to reconsider my offer.
+ທ່ານ ເດຄາດ, ຂ້ອຍຄິດວ່າມັນຈະເປັນຄວາມສະຫຼາດທີ່ຈະພິຈາລະນາຄືນຂໍ້ສະ
+ເຫນີ ຂອງຂ້ອຍ.
+
+230
+00:14:02,350 --> 00:14:04,350
+[DECKARD]
+I work alone.
+ຂ້ອຍເຮັດວຽກຄົນດຽວ.
+
+231
+00:14:04,850 --> 00:14:07,650
+[VOICE]
+Let's keep our eyes on the road, Deckard.
+ພວກເຮົາຕ້ອງເອົາຕາໃສ່ທາງ, ເດຄາດ.
+
+232
+00:14:08,150 --> 00:14:10,150
+[DECKARD'S VOICE]
+Sorry.
+ຂໍໂທດ.
+
+233
+00:14:10,650 --> 00:14:12,750
+[VOICE]
+Come on, stay with the machine.
+ມາແລ້ວ, ຢູ່ກັບເຄື່ອງຈັກ.
+
+234
+00:14:13,250 --> 00:14:19,200
+[VOICE]
+We're going to have to start the sequence again if you don't stay with me, Deckard.  Concentrate.
+ພວກເຮົາຈະຕ້ອງເລີ່ມຕົ້ນຊຸດອີກຄັ້ງຖ້າເຈົ້າບໍ່ຢູ່ກັບຂ້ອຍ
+, ເດກາດ. ສຸມໃສ່.
+
+235
+00:14:19,700 --> 00:14:21,800
+[DECKARD'S VOICE]
+How do you know I'm not?
+ເຈົ້າຮູ້ແນວໃດວ່າຂ້ອຍບໍ່ແມ່ນ?
+
+236
+00:14:22,300 --> 00:14:27,900
+[VOICE]
+You're not responding to the stimulus.  I can see right here, I'm not getting a reading.
+ເຈົ້າບໍ່ໄດ້ຕອບສະ ຫນອງ ຕໍ່ການກະຕຸ້ນ.
+ຂ້ອຍເຫັນຢູ່ບ່ອນນີ້, ຂ້ອຍບໍ່ໄດ້ອ່ານ.
+
+237
+00:14:28,400 --> 00:14:30,400
+[DECKARD'S VOICE]
+I'm tired of this.
+ຂ້ອຍເມື່ອຍກັບເລື່ອງນີ້ແລ້ວ.
+
+238
+00:14:30,900 --> 00:14:32,900
+[VOICE]
+Almost through.
+ເກືອບສໍາເລັດແລ້ວ.
+
+239
+00:14:33,400 --> 00:14:35,400
+[DECKARD]
+So how did I do?
+ຂ້ອຍເຮັດແນວໃດ?
+
+240
+00:14:35,900 --> 00:14:37,900
+[WHEELER]
+Nerves of steel.
+ສະຫມອງເຫຼັກ.
+
+241
+00:14:38,400 --> 00:14:40,400
+[DECKARD]
+No rust?
+ບໍ່ມີ rust ບໍ?
+
+242
+00:14:40,900 --> 00:14:46,150
+[WHEELER]
+I didn't say that.  Your motivity rate checked out a little slower than last time.
+ຂ້ອຍບໍ່ໄດ້ເວົ້າແບບນັ້ນ.
+ອັດຕາແຮງຈູງໃຈຂອງທ່ານກວດສອບອອກຊ້າກວ່າຄັ້ງສຸດທ້າຍ.
+
+243
+00:14:46,650 --> 00:14:48,650
+[DECKARD]
+Meaning?
+ຫມາຍຄວາມວ່າແນວໃດ?
+
+244
+00:14:49,150 --> 00:14:52,650
+[WHEELER]
+Meaning you don't run as fast as you used to.
+ຫມາຍຄວາມວ່າເຈົ້າບໍ່ໄດ້ແລ່ນໄວເທົ່າທີ່ເຄີຍເຮັດ.
+
+245
+00:14:53,150 --> 00:14:55,150
+[WHEELER]
+During the road test...
+ໃນລະຫວ່າງການທົດສອບທາງ...
+
+246
+00:14:55,650 --> 00:14:57,650
+[DECKARD]
+Yeah?
+ແມ່ນແລ້ວ?
+
+247
+00:14:58,150 --> 00:15:00,600
+[WHEELER]
+Your mind kept wandering.  That bothered me.
+ຈິດໃຈຂອງເຈົ້າຍັງຍ່າງຢູ່. ນັ້ນເຮັດໃຫ້ຂ້ອຍກັງວົນ.
+
+248
+00:15:01,100 --> 00:15:03,100
+[DECKARD]
+Huh huh.
+ຮາ ຮາ.
+
+249
+00:15:03,600 --> 00:15:07,100
+[WHEELER]
+Considering the nature of your work, that could be unhealthy.
+ໂດຍພິຈາລະນາລັກສະນະຂອງວຽກງານຂອງທ່ານ, ນັ້ນອາດຈະບໍ່ສຸຂະພາບດີ.
+
+250
+00:15:07,600 --> 00:15:09,600
+[DECKARD]
+True.
+ແມ່ນແລ້ວ.
+
+251
+00:15:10,100 --> 00:15:12,200
+[WHEELER]
+You got a birthday coming up.
+ເຈົ້າມີວັນເກີດທີ່ຈະມາເຖິງ.
+
+252
+00:15:12,700 --> 00:15:15,150
+[WHEELER]
+But you haven't put in for emigration.
+ແຕ່ເຈົ້າບໍ່ໄດ້ສະ ຫມັກ ການຍົກຍ້າຍຖິ່ນຖານ.
+
+253
+00:15:15,650 --> 00:15:17,650
+[DECKARD]
+Nope.
+ບໍ່.
+
+254
+00:15:18,150 --> 00:15:20,600
+[WHEELER]
+You're going to be over the limit.
+ເຈົ້າຈະເກີນຂອບເຂດ.
+
+255
+00:15:21,100 --> 00:15:27,100
+[DECKARD]
+Listen, I could make you a long list of complaints about this fucken city but I still rather be here than up there.
+ຟັງ,
+ຂ້ອຍສາມາດເຮັດລາຍຊື່ການຮ້ອງທຸກທີ່ຍາວນານກ່ຽວກັບເມືອງນີ້ໄດ້ແຕ່ຂ້ອຍຍັງມັກຢູ່ບ່ອນນີ້ກ່ວາຢູ່ເທິງນັ້ນ.
+
+256
+00:15:27,600 --> 00:15:29,700
+[WHEELER]
+What if you change your mind?
+ຖ້າເຈົ້າປ່ຽນໃຈແນວໃດ?
+
+257
+00:15:30,200 --> 00:15:33,350
+[DECKARD]
+They'll change the limit before I change my mind.
+ພວກເຂົາຈະປ່ຽນຂອບເຂດກ່ອນທີ່ຂ້ອຍຈະປ່ຽນໃຈ.
+
+258
+00:15:33,850 --> 00:15:35,850
+[WHEELER]
+You sure?
+ເຈົ້າແນ່ໃຈບໍ?
+
+259
+00:15:36,350 --> 00:15:39,500
+[DECKARD]
+Never been more sure of anything in my life.
+ຂ້ອຍບໍ່ເຄີຍແນ່ໃຈຫຍັງເລີຍໃນຊີວິດຂອງຂ້ອຍ.
+
+260
+00:15:40,000 --> 00:15:42,000
+[DECKARD]
+Why didn't you go?
+ເຈົ້າບໍ່ໄປເປັນຫຍັງ?
+
+261
+00:15:42,500 --> 00:15:44,500
+[WHEELER]
+Too old.
+ເກີນອາຍຸແລ້ວ.
+
+262
+00:15:45,000 --> 00:15:47,000
+[DECKARD]
+But if you could?
+ແຕ່ຖ້າເຈົ້າເຮັດໄດ້ບໍ?
+
+263
+00:15:47,500 --> 00:15:49,500
+[WHEELER]
+My job is here.
+ວຽກຂອງຂ້ອຍຢູ່ບ່ອນນີ້.
+
+264
+00:15:50,000 --> 00:15:52,000
+[DECKARD]
+Me too.
+ຂ້ອຍຄືກັນ.
+
+265
+00:15:52,500 --> 00:15:54,500
+[BATTY]
+What's going on down there?
+ເກີດຫຍັງຂຶ້ນຢູ່ລຸ່ມນັ້ນ?
+
+266
+00:15:55,000 --> 00:15:57,000
+[PRIS]
+He's not ready yet.
+ລາວຍັງບໍ່ພ້ອມເທື່ອ.
+
+267
+00:15:57,500 --> 00:15:59,500
+[BATTY]
+When?
+ເມື່ອໃດ?
+
+268
+00:16:00,000 --> 00:16:02,000
+[PRIS]
+Tomorrow, he says.
+ລາວເວົ້າວ່າມື້ອື່ນ.
+
+269
+00:16:02,500 --> 00:16:04,500
+[RACHAEL]
+Was that your dinner?
+ນັ້ນແມ່ນອາຫານຄໍ່າຂອງທ່ານບໍ?
+
+270
+00:16:05,000 --> 00:16:11,000
+[RACHAEL]
+I'm sorry.  I called and found out you were on your way home.  These were already delivered to your department but I thought you should have copies as soon as possible.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍໂທແລະຮູ້ວ່າເຈົ້າ ກໍາ ລັງເດີນທາງກັບບ້ານ.
+ເຫຼົ່ານີ້ໄດ້ຖືກສົ່ງໄປໃຫ້ພະແນກຂອງທ່ານແລ້ວແຕ່ຂ້ອຍຄິດວ່າເຈົ້າຄວນມີ ສໍາ ເນົາໃນໄວທີ່ສຸດທີ່ເປັນໄປໄດ້.
+
+271
+00:16:11,500 --> 00:16:13,600
+[RACHAEL]
+It's the Nexus information you wanted.
+ມັນເປັນຂໍ້ມູນເນັກຊັສທີ່ເຈົ້າຕ້ອງການ.
+
+272
+00:16:14,100 --> 00:16:16,100
+[DECKARD]
+Thanks.
+ຂອບໃຈ
+
+273
+00:16:16,600 --> 00:16:18,600
+[DECKARD]
+Is there anything else?
+ມີຫຍັງອີກບໍ?
+
+274
+00:16:19,100 --> 00:16:23,650
+[RACHAEL]
+I know you think it complicates your work, but I'm here to help.
+ຂ້ອຍຮູ້ວ່າເຈົ້າຄິດວ່າມັນເຮັດໃຫ້ວຽກງານຂອງເຈົ້າສັບສົນ
+, ແຕ່ຂ້ອຍຢູ່ບ່ອນນີ້ເພື່ອຊ່ວຍເຫຼືອ.
+
+275
+00:16:24,150 --> 00:16:26,950
+[DECKARD]
+I've already got more help than I need.
+ຂ້ອຍມີຄວາມຊ່ວຍເຫຼືອຫຼາຍກ່ວາທີ່ຂ້ອຍຕ້ອງການແລ້ວ.
+
+276
+00:16:27,450 --> 00:16:30,600
+[RACHAEL]
+I think you need more help than you've got.
+ຂ້ອຍຄິດວ່າເຈົ້າຕ້ອງການຄວາມຊ່ວຍເຫຼືອຫຼາຍກ່ວາທີ່ເຈົ້າມີ.
+
+277
+00:16:31,100 --> 00:16:37,100
+[RACHAEL]
+There's two reasons a man rejects help.  Either because he's so good at what he does he doesn't think he needs it, or he's so insecure he can't admit it.
+ມີສອງເຫດຜົນທີ່ຜູ້ຊາຍປະຕິເສດຄວາມຊ່ວຍເຫຼືອ. ຫຼືເພາະວ່າລາວດີຫຼາຍໃນສິ່ງທີ່ລາວເຮັດລາວບໍ່ຄິດວ່າລາວຕ້ອງການມັນ
+, ຫຼືລາວບໍ່ປອດໄພຫຼາຍທີ່ລາວບໍ່ສາມາດຍອມຮັບມັນໄດ້.
+
+278
+00:16:37,600 --> 00:16:42,150
+[DECKARD]
+Sounds like I'm an ass-hole either way, but the answer is still no.
+ມັນເບິ່ງຄືວ່າຂ້ອຍເປັນຄົນໂຊກຮ້າຍຢ່າງໃດກໍ່ຕາມ, ແຕ່ຄໍາຕອບຍັງບໍ່.
+
+279
+00:16:42,650 --> 00:16:45,800
+[RACHAEL]
+Two of us might be more effective than one.
+ພວກເຮົາສອງຄົນອາດຈະມີປະສິດທິຜົນຫຼາຍກ່ວາຄົນດຽວ.
+
+280
+00:16:46,300 --> 00:16:48,300
+[DECKARD]
+I work alone.
+ຂ້ອຍເຮັດວຽກຄົນດຽວ.
+
+281
+00:16:48,800 --> 00:16:50,800
+[RACHAEL]
+No you don't.
+ບໍ່ ເຈົ້າບໍ່ເຮັດ.
+
+282
+00:16:51,300 --> 00:16:53,400
+[RACHAEL]
+You use your equipment, don't you?
+ເຈົ້າໃຊ້ອຸປະກອນຂອງທ່ານ, ແມ່ນບໍ?
+
+283
+00:16:53,900 --> 00:16:55,900
+[DECKARD]
+So?
+ສະນັ້ນ?
+
+284
+00:16:56,400 --> 00:16:59,200
+[RACHAEL]
+So, I'm a piece of equipment. Use me.
+ສະນັ້ນ, ຂ້ອຍເປັນເຄື່ອງອຸປະກອນ. ໃຊ້ຂ້ອຍ.
+
+285
+00:16:59,700 --> 00:17:01,700
+[DECKARD]
+That's okay, I'll get it...
+ມັນບໍ່ເປັນຫຍັງ, ຂ້ອຍຈະເອົາມັນ...
+
+286
+00:17:02,200 --> 00:17:04,200
+[RACHAEL]
+Do I make you nervous?
+ຂ້ອຍເຮັດໃຫ້ເຈົ້າກັງວົນບໍ?
+
+287
+00:17:04,700 --> 00:17:06,700
+[DECKARD]
+Yeah.
+ແມ່ນແລ້ວ.
+
+288
+00:17:07,200 --> 00:17:09,200
+[RACHAEL]
+I'm sorry.
+ຂ້ອຍຂໍໂທດ.
+
+289
+00:17:09,700 --> 00:17:15,650
+[RACHAEL]
+It's strange to suddenly realize that what you thought was your life is actually someone else's fabrication.
+ມັນແປກໃຈທີ່ຈະເຂົ້າໃຈຢ່າງກະທັນຫັນວ່າ
+ສິ່ງທີ່ທ່ານຄິດວ່າເປັນຊີວິດຂອງທ່ານແມ່ນໃນຄວາມເປັນຈິງການປອມແປງຂອງຄົນອື່ນ.
+
+290
+00:17:16,150 --> 00:17:18,150
+[DECKARD]
+I can imagine.
+ຂ້ອຍຄິດໄດ້.
+
+291
+00:17:18,650 --> 00:17:20,650
+[RACHAEL]
+Can you?  I couldn't.
+ເຈົ້າສາມາດເຮັດໄດ້ບໍ? ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.
+
+292
+00:17:21,150 --> 00:17:27,150
+[RACHAEL]
+A part of me is glad.  I think I feel more.  I don't like who I was before.
+ສ່ວນຫນຶ່ງຂອງຂ້ອຍມີຄວາມສຸກ. ຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ສຶກຫຼາຍຂຶ້ນ
+. ຂ້ອຍບໍ່ມັກຜູ້ທີ່ຂ້ອຍເປັນກ່ອນ.
+
+293
+00:17:27,650 --> 00:17:31,150
+[DECKARD]
+So why do you think they were after their records.
+ສະນັ້ນເຈົ້າຄິດວ່າເປັນຫຍັງພວກເຂົາ ກໍາ ລັງຊອກຫາບັນທຶກຂອງພວກເຂົາ.
+
+294
+00:17:31,650 --> 00:17:35,150
+[RACHAEL]
+They probably want to find out when they were made.
+ພວກເຂົາອາດຈະຢາກຮູ້ວ່າພວກເຂົາຖືກເຮັດເມື່ອໃດ.
+
+295
+00:17:35,650 --> 00:17:37,650
+[DECKARD]
+Right.
+ແມ່ນແລ້ວ.
+
+296
+00:17:38,150 --> 00:17:44,100
+[RACHAEL]
+I guess the date of your birth is important if you know you're not made to last.
+ຂ້ອຍຄິດວ່າ
+ວັນເກີດຂອງເຈົ້າມີຄວາມສໍາຄັນຖ້າເຈົ້າຮູ້ວ່າເຈົ້າບໍ່ໄດ້ສ້າງໃຫ້ຍືນຍົງ.
+
+297
+00:17:44,600 --> 00:17:47,050
+[RACHAEL]
+That's my number.  If you need me.
+ນັ້ນແມ່ນເບີຂອງຂ້ອຍ. ຖ້າເຈົ້າຕ້ອງການຂ້ອຍ.
+
+298
+00:17:47,550 --> 00:17:52,100
+[RACHAEL]
+You better get better locks -- if you want to keep me out.
+ເຈົ້າຄວນເອົາລັອກທີ່ດີກວ່າ - ຖ້າເຈົ້າຢາກເຮັດໃຫ້ຂ້ອຍອອກຈາກ.
+
+299
+00:17:52,600 --> 00:17:54,600
+[RACHAEL]
+Good night.
+ສະບາຍດີ.
+
+300
+00:17:55,100 --> 00:17:57,100
+[DECKARD]
+Night.
+ຄືນ.
+
+301
+00:17:57,600 --> 00:18:03,600
+[DECKARD]
+The possibilities were infinite. They could change their appearances but not their future. Like she said, it was short. Longevity is what they were after. The garbage man even wanted a past. Poor fuck.  I'd check it out but I knew she was right.  The market worked on turn-over.  Built-in obsolescence was the name of the game.  That meant her too.  It was something I didn't want to think about.
+ຄວາມເປັນໄປໄດ້ແມ່ນບໍ່ມີຂອບເຂດ. ພວກເຂົາສາມາດປ່ຽນແປງລັກສະນະຂອງພວກເຂົາແຕ່ບໍ່ແມ່ນອະນາຄົດຂອງພວກເຂົາ. ດັ່ງນາງເວົ້າ, ມັນສັ້ນ. ຄວາມຍາວນານແມ່ນສິ່ງທີ່ພວກເຂົາ ກໍາ ລັງຊອກຫາ. ຜູ້ຊາຍຂີ້ເຫຍື້ອເຖິງແມ່ນວ່າຢາກມີອະດີດ.
+ຄົນທຸກຍາກ. ຂ້ອຍຈະກວດເບິ່ງມັນແຕ່ຂ້ອຍຮູ້ວ່ານາງຖືກຕ້ອງ. ຕະຫຼາດເຮັດວຽກກ່ຽວກັບການຫັນປ່ຽນ. ການບ້າອາຍຸທີ່ສ້າງຕັ້ງຂຶ້ນແມ່ນຊື່ຂອງເກມ. ນັ້ນ ຫມາຍ ຄວາມວ່ານາງເຊັ່ນກັນ. ມັນແມ່ນບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ຢາກຄິດກ່ຽວກັບ.
+
+302
+00:18:04,100 --> 00:18:06,100
+[DECKARD]
+Yeah.
+ແມ່ນແລ້ວ.
+
+303
+00:18:06,600 --> 00:18:12,600
+[BRYANT]
+Bryant here.  Regarding the rundown you requested on job applicants, Esper's concluded that the only irregular category that Tyrell's got is the entertainment section.  You better get on it.
+ບຣາຍນ໌ຢູ່ນີ້. ກ່ຽວກັບລາຍລະອຽດທີ່ທ່ານຂໍກ່ຽວກັບຜູ້ສະ ຫມັກ ວຽກງານ,
+ເອສເປີໄດ້ສະຫຼຸບວ່າປະເພດທີ່ບໍ່ເປັນປົກກະຕິດຽວທີ່ໄຕເຣລມີແມ່ນພາກສ່ວນການບັນເທີງ. ເຈົ້າຄວນເຂົ້າໄປໃນມັນ.
+
+304
+00:18:13,100 --> 00:18:15,900
+[DECKARD]
+I was just about to have my dinner.
+ຂ້ອຍກໍາລັງຈະກິນອາຫານຄໍ່າຂອງຂ້ອຍ.
+
+305
+00:18:16,400 --> 00:18:22,400
+[BRYANT]
+If you hurry you'll get back before it gets cold.  I got a spinner on your roof in five minutes.  Good luck.
+ຖ້າເຈົ້າໄວໆເຈົ້າຈະກັບມາກ່ອນທີ່ຈະເຢັນ.
+ຂ້ອຍມີເຄື່ອງຫມູນວຽນຢູ່ເທິງເຮືອນຫລັງຂອງທ່ານໃນເວລາຫ້ານາທີ. ໂຊກດີ.
+
+306
+00:18:22,900 --> 00:18:28,900
+[EPSER]
+Nexus designated Rachael is a prototype.  Created for in-house use by special mandate form the Scientific Development Regulatory Committee.  Will live conventional term -- no para-physical abilities.
+Nexus ທີ່ຖືກກໍານົດວ່າ Rachael ແມ່ນຕົວແບບຕົ້ນຕໍ. ຖືກສ້າງຂື້ນ ສໍາ
+ລັບການໃຊ້ພາຍໃນໂດຍຄໍາສັ່ງພິເສດຈາກຄະນະກໍາມະການຄຸ້ມຄອງການພັດທະນາວິທະຍາສາດ. ຈະດໍາລົງຊີວິດໃນໄລຍະທີ່ປົກກະຕິ - ບໍ່ມີຄວາມສາມາດ para-physic.
+
+307
+00:18:29,400 --> 00:18:31,400
+[DECKARD]
+What is a conventional term?
+ຄໍາວ່າປົກກະຕິແມ່ນຫຍັງ?
+
+308
+00:18:31,900 --> 00:18:34,700
+[ESPER]
+Four years.  Which would make her termination date...
+ສີ່ປີ. ເຊິ່ງຈະເຮັດໃຫ້ວັນທີສິ້ນສຸດການຂອງນາງ...
+
+309
+00:18:35,200 --> 00:18:37,650
+[DECKARD]
+Never mind.  Do they have that knowledge?
+ບໍ່ເປັນຫຍັງ. ພວກເຂົາມີຄວາມຮູ້ນັ້ນບໍ?
+
+310
+00:18:38,150 --> 00:18:40,150
+[ESPER]
+Longevity is classified.  No.
+ຄວາມຍາວນານຖືກຈັດປະເພດໄວ້. ບໍ່.
+
+311
+00:18:40,650 --> 00:18:43,450
+[DECKARD]
+Okay, gimme a run-down on the three females.
+ດີແລ້ວ, ໃຫ້ຂ້ອຍເບິ່ງແມ່ຍິງສາມຄົນ.
+
+312
+00:18:43,950 --> 00:18:49,550
+[ESPER]
+Nexus designated Mary:  incept November 1 2017, domestic conditioning non competitive, trained for day care position.
+Nexus ໄດ້ກໍານົດມາຣີ: ເລີ່ມຕົ້ນວັນທີ 1 ພະຈິກ 2017,
+ການປັບປຸງພາຍໃນເຮືອນທີ່ບໍ່ແຂ່ງຂັນ, ໄດ້ຮັບການຝຶກອົບຮົມ ສໍາ ລັບຕໍາແຫນ່ງການດູແລມື້.
+
+313
+00:18:50,050 --> 00:18:52,050
+[DECKARD]
+Next.
+ຕໍ່ໄປ.
+
+314
+00:18:52,550 --> 00:18:58,500
+[ESPER]
+Nexus designated Pris:  incept data December 13 2017, competitive, programmed to provide pleasure for long term spacers.
+Nexus ໄດ້ແຕ່ງຕັ້ງ Pris: ຂໍ້ມູນເລີ່ມຕົ້ນວັນທີ 13 ທັນວາ 2017,
+ການແຂ່ງຂັນ, ຖືກໂປແກຼມເພື່ອໃຫ້ຄວາມສຸກ ສໍາ ລັບຄົນຫ່າງໄກສອກຫຼີກໄລຍະຍາວ.
+
+315
+00:18:59,000 --> 00:19:01,000
+[DECKARD]
+Number three.
+ອັນດັບສາມ.
+
+316
+00:19:01,500 --> 00:19:07,450
+[ESPER]
+Nexus designated Zhora:  incept June 13th 2017, athletic conditioning, highly competitive, special abilities in the entertainment field.
+Nexus ໄດ້ກໍານົດໂຊຣາ: ເລີ່ມຕົ້ນວັນທີ 13 ມິຖຸນາ 2017,
+ການປັບປຸງກິລາ, ການແຂ່ງຂັນສູງ, ຄວາມສາມາດພິເສດໃນຂົງເຂດການບັນເທີງ.
+
+317
+00:19:07,950 --> 00:19:09,950
+[DECKARD]
+Fuck.
+ສະບາຍດີ.
+
+318
+00:19:10,450 --> 00:19:12,450
+[DECKARD]
+Taffey Lewis?
+Taffey Lewis?
+
+319
+00:19:12,950 --> 00:19:14,950
+[TAFFEY]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+320
+00:19:15,450 --> 00:19:17,450
+[DECKARD]
+Can I come in?
+ຂ້ອຍເຂົ້າມາໄດ້ບໍ?
+
+321
+00:19:17,950 --> 00:19:21,100
+[TAFFEY]
+Excuse my niece there... She's studying for an exam.
+ຂໍໂທດນ້ອງສາວຂອງຂ້ອຍຢູ່ບ່ອນນັ້ນ...
+ນາງ ກໍາ ລັງຮຽນ ສໍາ ລັບການສອບເສັງ.
+
+322
+00:19:21,600 --> 00:19:25,100
+[DECKARD]
+I'd like  you to take a look at these pictures.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າເບິ່ງຮູບເຫຼົ່ານີ້.
+
+323
+00:19:25,600 --> 00:19:27,600
+[TAFFEY]
+Of course.
+ແນ່ນອນ.
+
+324
+00:19:28,100 --> 00:19:34,100
+[TAFFEY]
+You see I lost my contacts a couple of days ago around here somewhere and my sight is a little... What am I supposed to be looking for?
+ເຈົ້າເຫັນວ່າຂ້ອຍໄດ້ສູນເສຍຜູ້ຕິດຕໍ່ຂອງຂ້ອຍເມື່ອສອງສາມມື້ກ່ອນຢູ່ບ່ອນໃດບ່ອນນີ້ແລະສາຍຕາຂອງຂ້ອຍແມ່ນນ້ອຍໆ
+... ຂ້ອຍຄວນຊອກຫາຫຍັງ?
+
+325
+00:19:34,600 --> 00:19:36,700
+[DECKARD]
+Do you recognize any of them?
+ເຈົ້າຮູ້ຈັກບາງຄົນບໍ?
+
+326
+00:19:37,200 --> 00:19:43,200
+[TAFFEY]
+This one looks familiar, but I don't know.  Naw.  There's one came in today looks a little like this one but...
+ຄົນນີ້ເບິ່ງຄືວ່າຮູ້ຈັກກັນດີ, ແຕ່ຂ້ອຍບໍ່ຮູ້. ບໍ່.
+ມີຄົນຫນຶ່ງເຂົ້າມາໃນມື້ນີ້ເບິ່ງຄືກັບຄົນນີ້ເລັກນ້ອຍແຕ່...
+
+327
+00:19:43,700 --> 00:19:45,700
+[DECKARD]
+What did she want?
+ນາງຢາກຫຍັງ?
+
+328
+00:19:46,200 --> 00:19:48,200
+[TAFFEY]
+Who?
+ໃຜ?
+
+329
+00:19:48,700 --> 00:19:51,500
+[DECKARD]
+The girl that doesn't look like that girl.
+ເດັກຍິງທີ່ບໍ່ຄ້າຍຄືກັບເດັກຍິງນັ້ນ.
+
+330
+00:19:52,000 --> 00:19:54,800
+[TAFFEY]
+Nothing.  She wanted to know about suck night.
+ບໍ່ມີຫຍັງເລີຍ. ນາງຢາກຮູ້ກ່ຽວກັບຄືນສູບ.
+
+331
+00:19:55,300 --> 00:19:57,300
+[DECKARD]
+What night?
+ຄືນໃດ?
+
+332
+00:19:57,800 --> 00:20:03,800
+[TAFFEY]
+I didn't know if I wanted to handle her -- I already got a snake act.  But my partner goes down there to the Opera House on suck night to book the good ones.
+ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຢາກຮັບມືກັບນາງບໍ - ຂ້ອຍມີການສະແດງຊ້າງແລ້ວ.
+ແຕ່ຄູ່ຮ່ວມງານຂອງຂ້ອຍລົງໄປບ່ອນນັ້ນໄປໂຮງງານໂອເປຣາໃນຄືນທີ່ສູບເພື່ອຈອງສິ່ງທີ່ດີ.
+
+333
+00:20:04,300 --> 00:20:06,300
+[DECKARD]
+What's suck night?
+ຄືນທີ່ສໍ້ໂກງແມ່ນຫຍັງ?
+
+334
+00:20:06,800 --> 00:20:12,800
+[TAFFEY]
+That's what we call in the trade, audition free-for- alls and most of it sucks. Bit I don't think that's her.
+ນັ້ນແມ່ນສິ່ງທີ່ພວກເຮົາເອີ້ນໃນການຄ້າ, ການສອບເສັງຟຣີ ສໍາ
+ລັບທຸກຄົນແລະສ່ວນໃຫຍ່ມັນສໍ້ໂກງ. ບາງຢ່າງຂ້ອຍບໍ່ຄິດວ່ານັ້ນແມ່ນນາງ.
+
+335
+00:20:13,300 --> 00:20:16,450
+[DECKARD]
+You talking about the Opera House on the Main?
+ເຈົ້າເວົ້າກ່ຽວກັບໂຮງງານໂອເປຣາຢູ່ທາງຫຼັກບໍ?
+
+336
+00:20:16,950 --> 00:20:19,050
+[DECKARD]
+Book the good ones for where?
+ຈອງອັນດີໆໄປໃສ?
+
+337
+00:20:19,550 --> 00:20:23,750
+[TAFFEY]
+Lots of places.  The tours, the clubs, the Silicone shows, private parties.
+ສະຖານທີ່ຫຼາຍບ່ອນ. ການທ່ອງທ່ຽວ, ສະໂມສອນ
+, ງານສະແດງຊິລິໂຄນ, ງານລ້ຽງສ່ວນຕົວ.
+
+338
+00:20:24,250 --> 00:20:26,250
+[DECKARD]
+What shows?
+ລາຍການໃດ?
+
+339
+00:20:26,750 --> 00:20:32,750
+[TAFFEY]
+Silicone Valley.  Lots of these science guys never leave that place.  We book two shows a month in there. Those big time techs and bio- guys might be real high zoners up here, but when it comes to the arts, they like it loud and lewd.
+ແມ່ນໍ້າຂອງຊິລິຄອນ. ພວກນັກວິທະຍາສາດເຫຼົ່ານີ້ຫຼາຍຄົນບໍ່ເຄີຍອອກຈາກບ່ອນນັ້ນເລີຍ. ພວກເຮົາຈອງງານສະແດງສອງຄັ້ງຕໍ່ເດືອນຢູ່ບ່ອນນັ້ນ.
+ພວກເຕັກໂນໂລຢີເວລາໃຫຍ່ແລະຊີວະພາບນັ້ນອາດຈະເປັນເຂດສູງແທ້ໆຢູ່ບ່ອນນີ້, ແຕ່ເມື່ອເວົ້າເຖິງສິລະປະ, ພວກເຂົາມັກມັນສຽງດັງແລະໂຊກຮ້າຍ.
+
+340
+00:20:33,250 --> 00:20:35,700
+[ANNOUNCER'S VOICE]
+Let's hear it for the Hermano Brothers.
+ມາຟັງມັນ ສໍາ ລັບອ້າຍນ້ອງເຮຣມານໂກ້.
+
+341
+00:20:36,200 --> 00:20:42,200
+[ANNOUNCER'S VOICE]
+Next we're gonna see a little charmer who keeps her dancing partner in a basket!  She comes to us all the way from exotic Casablanca.  'Salome.'
+ຕໍ່ໄປພວກເຮົາຈະເຫັນຄົນສວຍງາມນ້ອຍໆທີ່ຮັກສາຄູ່ຮ່ວມງານເຕັ້ນຂອງນາງໄວ້ໃນຄຸເຂົ່າລົງ
+! ນາງມາຫາພວກເຮົາທັງທາງຈາກຄາຊາບລານກາທີ່ແປກໃຈ.' ຊາໂລເມຍ.
+
+342
+00:20:42,700 --> 00:20:44,700
+[DECKARD]
+Excuse me, Miss Salome.
+ຂໍໂທດເດີ, ນາງຊາໂລເມ.
+
+343
+00:20:45,200 --> 00:20:49,050
+[DECKARD]
+I'd like to have a word with you if I could.
+ຂ້ອຍຢາກເວົ້າກັບເຈົ້າຖ້າຂ້ອຍສາມາດເຮັດໄດ້.
+
+344
+00:20:49,550 --> 00:20:51,550
+[SALOME]
+Yeah?
+ແມ່ນແລ້ວ?
+
+345
+00:20:52,050 --> 00:20:54,850
+[DECKARD]
+I'm with the American Federation of Variety Artists...
+ຂ້ອຍມາຈາກສະຫະພັນນັກສິລະປິນປະເພດຕ່າງໆຂອງອາເມລິກາ...
+
+346
+00:20:55,350 --> 00:21:00,250
+[DECKARD]
+Don't worry, I'm not here to make you join -- that's not my department.
+ຢ່າກັງວົນ, ຂ້ອຍບໍ່ໄດ້ມາທີ່ນີ້ເພື່ອເຮັດໃຫ້ເຈົ້າເຂົ້າຮ່ວມ
+- ນັ້ນບໍ່ແມ່ນພະແນກຂອງຂ້ອຍ.
+
+347
+00:21:00,750 --> 00:21:04,250
+[DECKARD]
+I'm an investigator for the Confidential Committee on Moral Abuses.
+ຂ້ອຍເປັນນັກສືບສວນ ສໍາ
+ລັບຄະນະກໍາມະການຄວາມລັບກ່ຽວກັບການລ່ວງລະເມີດສິນທໍາ.
+
+348
+00:21:04,750 --> 00:21:08,950
+[DECKARD]
+There's been reports of management sexually abusing the artists in this place.
+ມີລາຍງານວ່າຜູ້ບໍລິຫານໃຊ້ຄວາມໂຊກຮ້າຍທາງເພດກັບນັກສິລະປິນໃນບ່ອນນີ້.
+
+349
+00:21:09,450 --> 00:21:11,550
+[SALOME]
+I don't know nothing about it.
+ຂ້ອຍບໍ່ຮູ້ຫຍັງເລີຍກ່ຽວກັບມັນ.
+
+350
+00:21:12,050 --> 00:21:16,600
+[DECKARD]
+You haven't felt yourself to be exploited by the management in any way?
+ເຈົ້າບໍ່ຮູ້ສຶກວ່າຕົວເອງຖືກ ນໍາ ໃຊ້ໂດຍຜູ້ບໍລິຫານໃນທາງໃດກໍ່ຕາມບໍ?
+
+351
+00:21:17,100 --> 00:21:19,100
+[SALOME]
+How do you mean 'exploited'?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດວ່າ'ຖືກນໍາໃຊ້'?
+
+352
+00:21:19,600 --> 00:21:25,600
+[DECKARD]
+Like to get this position.  Did you or were you asked to do anything lewd or unsavory or otherwise repulsive to your person?
+ເຈົ້າຢາກໄດ້ຮັບຕໍາແຫນ່ງນີ້ບໍ.
+ເຈົ້າຫຼືຖືກຂໍໃຫ້ເຮັດບາງສິ່ງບາງຢ່າງທີ່ໂຊກຮ້າຍຫຼືບໍ່ສວຍງາມຫຼືທາງອື່ນທີ່ກຽດຊັງຕໍ່ບຸກຄົນຂອງທ່ານບໍ?
+
+353
+00:21:26,100 --> 00:21:28,100
+[SALOME]
+Are you for real?
+ເຈົ້າເວົ້າແທ້ບໍ?
+
+354
+00:21:28,600 --> 00:21:34,600
+[DECKARD]
+Oh, yeah. You'd be surprised what goes on around here.  I'd like to check the dressing room if I could.
+ໂອ້, ແມ່ນແລ້ວ. ເຈົ້າຈະແປກໃຈວ່າເກີດຫຍັງຂຶ້ນຢູ່ບ່ອນນີ້
+. ຂ້ອຍຢາກກວດຫ້ອງນຸ່ງຫົ່ມຖ້າຂ້ອຍສາມາດເຮັດໄດ້.
+
+355
+00:21:35,100 --> 00:21:37,100
+[SALOME]
+What the fuck for?
+ເປັນຫຍັງ?
+
+356
+00:21:37,600 --> 00:21:39,600
+[DECKARD]
+For holes.
+ສໍາລັບຮູ.
+
+357
+00:21:40,100 --> 00:21:42,100
+[SALOME]
+I don't believe this.
+ຂ້ອຍບໍ່ເຊື່ອເລື່ອງນີ້.
+
+358
+00:21:42,600 --> 00:21:44,600
+[DECKARD]
+It that mother real?
+ແມ່ນັ້ນເປັນຈິງບໍ?
+
+359
+00:21:45,100 --> 00:21:51,100
+[SALOME]
+Of course he's not real.  You think I'd be working here if I could afford a real snake?
+ແນ່ນອນວ່າລາວບໍ່ແມ່ນຕົວຈິງ.
+ເຈົ້າຄິດວ່າຂ້ອຍຈະເຮັດວຽກຢູ່ນີ້ຖ້າຂ້ອຍສາມາດຈ່າຍເງິນຫມາແທ້ບໍ?
+
+360
+00:21:51,600 --> 00:21:53,600
+[DECKARD]
+It's a good job.
+ມັນເປັນວຽກທີ່ດີ.
+
+361
+00:21:54,100 --> 00:21:56,100
+[SALOME]
+You mean the snake.
+ເຈົ້າຫມາຍຄວາມວ່າຊ້າງ.
+
+362
+00:21:56,600 --> 00:21:58,600
+[SALOME]
+The best.
+ທີ່ດີທີ່ສຸດ.
+
+363
+00:21:59,100 --> 00:22:01,100
+[DECKARD]
+Does it eat?
+ມັນກິນບໍ?
+
+364
+00:22:01,600 --> 00:22:03,600
+[SALOME]
+Come on.
+ມາແລ້ວ.
+
+365
+00:22:04,100 --> 00:22:06,100
+[SALOME]
+Jeezus!
+ພຣະເຢຊູ!
+
+366
+00:22:06,600 --> 00:22:08,600
+[DECKARD]
+Sorry.
+ຂໍໂທດ.
+
+367
+00:22:09,100 --> 00:22:12,250
+[SALOME]
+Hey!  Do your job but don't wreck mine, huh?
+ເຮ້! ເຮັດວຽກຂອງທ່ານແຕ່ຢ່າ ທໍາ ລາຍຂອງຂ້ອຍ, ແມ່ນບໍ?
+
+368
+00:22:12,750 --> 00:22:18,350
+[DECKARD]
+They have their ways of doing their dirty work without the victim knowing what's going on.
+ພວກເຂົາມີວິທີຂອງພວກເຂົາໃນການເຮັດວຽກທີ່ເປື້ອນຂອງພວກເຂົາໂດຍບໍ່ມີຜູ້ເຄາະຮ້າຍຮູ້ວ່າເກີດຫຍັງຂຶ້ນ
+.
+
+369
+00:22:18,850 --> 00:22:24,450
+[DECKARD]
+You'd be surprised what a guy'll go through to get a glimpse of a beautiful body.
+ເຈົ້າຈະແປກໃຈວ່າຜູ້ຊາຍຈະຜ່ານຫຍັງເພື່ອເບິ່ງຮ່າງກາຍທີ່ສວຍງາມ.
+
+370
+00:22:24,950 --> 00:22:26,950
+[SALOME]
+I bet I would.
+ຂ້ອຍແນ່ໃຈວ່າຂ້ອຍຈະເຮັດ.
+
+371
+00:22:27,450 --> 00:22:33,050
+[DECKARD]
+Little dirty holes the bastards drill in the wall so they can watch a lady undress.
+ຂຸມເປື້ອນນ້ອຍໆທີ່ຄົນໂຊກຮ້າຍເຈາະໃນກໍາແພງເພື່ອໃຫ້ພວກເຂົາສາມາດເບິ່ງຜູ້ຍິງອອກເຄື່ອງນຸ່ງຫົ່ມໄດ້
+.
+
+372
+00:22:33,550 --> 00:22:38,450
+[SALOME]
+And what if somebody did try to 'exploit' me?  Who do I go to?
+ແລະຖ້າໃຜພະຍາຍາມ' ໃຊ້ປະໂຫຍດ' ຂ້ອຍແນວໃດ? ຂ້ອຍຈະໄປຫາໃຜ?
+
+373
+00:22:38,950 --> 00:22:40,950
+[DECKARD]
+Me.
+ຂ້ອຍ.
+
+374
+00:22:41,450 --> 00:22:44,250
+[SALOME]
+And who do I go to about you?
+ແລະຂ້ອຍຈະໄປຫາໃຜກ່ຽວກັບເຈົ້າ?
+
+375
+00:22:44,750 --> 00:22:46,750
+[DECKARD]
+Hmmmmm?
+Hmmmmm?
+
+376
+00:22:47,250 --> 00:22:51,100
+[ZHORA]
+You ever get the feeling things aren't the way they seem?
+ເຈົ້າເຄີຍຮູ້ສຶກວ່າສິ່ງຕ່າງໆບໍ່ແມ່ນແບບທີ່ພວກເຂົາເບິ່ງຄືບໍ?
+
+377
+00:22:51,600 --> 00:22:53,600
+[DECKARD]
+Stop or you're dead!
+ຢຸດເຊົາຫຼືເຈົ້າຕາຍແລ້ວ!
+
+378
+00:22:54,100 --> 00:22:56,100
+[COP]
+Drop it!
+ຖິ້ມມັນລົງ!
+
+379
+00:22:56,600 --> 00:22:58,600
+[SERGEANT]
+On your belly!
+ຢູ່ເທິງທ້ອງຂອງທ່ານ!
+
+380
+00:22:59,100 --> 00:23:01,100
+[DECKARD]
+Listen, Sergeant...
+ຟັງ, ພົນຈັດຕະວາ...
+
+381
+00:23:01,600 --> 00:23:03,700
+[COP]
+Hey, Sarge, this guy's a cop.
+ເຮ້, ພົນຈັດຕະວາ, ຜູ້ຊາຍຄົນນີ້ເປັນຕໍາຫຼວດ.
+
+382
+00:23:04,200 --> 00:23:06,200
+[SERGEANT]
+Clear this fuckin' crowd.
+ລ້າງຄົນຊົມເຊີຍນີ້ອອກ.
+
+383
+00:23:06,700 --> 00:23:12,700
+[BRYANT]
+Just because it's a Nexus 6 doesn't change procedure.  A little known fact can become a well-known fact and part of our job, Deckard, is to make sure that doesn't happen. Now how can be do that if you blow one away in front of a fuckin' audience.
+ພຽງແຕ່ເພາະວ່າມັນເປັນ Nexus 6 ບໍ່ປ່ຽນແປງຂັ້ນຕອນ. ຄວາມຈິງທີ່ຮູ້ຈັກ ຫນ້ອຍ ຫນຶ່ງ ສາມາດກາຍເປັນຄວາມຈິງທີ່ຮູ້ກັນດີແລະສ່ວນ ຫນຶ່ງ
+ຂອງວຽກງານຂອງພວກເຮົາ, Deckard, ແມ່ນເພື່ອໃຫ້ແນ່ໃຈວ່າມັນບໍ່ເກີດຂຶ້ນ. ດຽວນີ້ສາມາດເຮັດໄດ້ແນວໃດຖ້າເຈົ້າພັດ ຫນຶ່ງ ໄປຢູ່ຕໍ່ຫນ້າຜູ້ຊົມ.
+
+384
+00:23:13,200 --> 00:23:15,200
+[BRYANT]
+Well?
+ດີບໍ?
+
+385
+00:23:15,700 --> 00:23:17,700
+[DECKARD]
+She was gonna get away.
+ນາງຈະຫນີໄປ.
+
+386
+00:23:18,200 --> 00:23:24,200
+[BRYANT]
+Then let her get away.  I thought you were a pro -- you're supposed to be a fuckin' tracker!
+ຫຼັງຈາກນັ້ນປ່ອຍໃຫ້ນາງຫນີໄປ.
+ຂ້ອຍຄິດວ່າເຈົ້າເປັນມືອາຊີບ - ເຈົ້າຄວນເປັນຜູ້ຕິດຕາມ!
+
+387
+00:23:24,700 --> 00:23:27,500
+[BRYANT]
+I'd say you got a little carried away.
+ຂ້ອຍຈະເວົ້າວ່າເຈົ້າຖືກພາໄປເລັກນ້ອຍ.
+
+388
+00:23:28,000 --> 00:23:30,000
+[DECKARD]
+I didn't like her.
+ຂ້ອຍບໍ່ມັກນາງ.
+
+389
+00:23:30,500 --> 00:23:32,500
+[BRYANT]
+You didn't like her!?
+ເຈົ້າບໍ່ມັກນາງບໍ!?
+
+390
+00:23:33,000 --> 00:23:37,200
+[BRYANT]
+You start liking or disliking andies it's time to hang it up.
+ເຈົ້າເລີ່ມມັກຫຼືບໍ່ມັກແອນດີ້ ມັນເຖິງເວລາທີ່ຈະວາງມັນລົງ.
+
+391
+00:23:37,700 --> 00:23:40,850
+[BRYANT]
+Look, go home.  Get some rest. Take an aspirin.
+ເບິ່ງ, ກັບບ້ານ. ພັກຜ່ອນບາງຢ່າງ. ເອົາອາສປິນ.
+
+392
+00:23:41,350 --> 00:23:43,350
+[DECKARD]
+Yeah.
+ແມ່ນແລ້ວ.
+
+393
+00:23:43,850 --> 00:23:49,450
+[BARTENDER]
+I can't protect your drinks, mister; while you was in the potty, this hummer snatched it.
+ຂ້ອຍບໍ່ສາມາດປົກປ້ອງເຄື່ອງດື່ມຂອງທ່ານໄດ້, ທ້າວ
+; ໃນຂະນະທີ່ທ່ານຢູ່ໃນຖ້ວຍ, Hummer ນີ້ໄດ້ຈັບມັນ.
+
+394
+00:23:49,950 --> 00:23:51,950
+[DECKARD]
+No problem.  Gimme another.
+ບໍ່ເປັນຫຍັງ. ໃຫ້ຂ້ອຍອີກຫນຶ່ງ.
+
+395
+00:23:52,450 --> 00:23:55,950
+[RUSSIAN]
+Forgive me.  I thought was free drink.  I will pay.
+ຂໍໂທດຂ້ອຍ. ຂ້ອຍຄິດວ່າມັນເປັນເຄື່ອງດື່ມຟຣີ. ຂ້ອຍຈະຈ່າຍ.
+
+396
+00:23:56,450 --> 00:23:58,450
+[DECKARD]
+Forget it.
+ລືມມັນໄປ.
+
+397
+00:23:58,950 --> 00:24:01,050
+[LEON]
+I think I have no money.
+ຂ້ອຍຄິດວ່າຂ້ອຍບໍ່ມີເງິນ.
+
+398
+00:24:01,550 --> 00:24:03,550
+[DECKARD]
+It's okay.  Forget it.
+ມັນບໍ່ເປັນຫຍັງ. ລືມມັນ.
+
+399
+00:24:04,050 --> 00:24:06,850
+[LEON]
+But I would like to buy you drink.
+ແຕ່ຂ້ອຍຢາກຊື້ເຄື່ອງດື່ມໃຫ້ເຈົ້າ.
+
+400
+00:24:07,350 --> 00:24:09,800
+[DECKARD]
+I'll but you one.  What'll you have?
+ຂ້ອຍຈະເອົາຫນຶ່ງໃຫ້ເຈົ້າ. ເຈົ້າຈະກິນຫຍັງ?
+
+401
+00:24:10,300 --> 00:24:12,300
+[LEON]
+Vodka!
+ໂວດກາ!
+
+402
+00:24:12,800 --> 00:24:14,800
+[DECKARD]
+Shot of vodka, please.
+ດື່ມວອດກາ, ກະລຸນາ.
+
+403
+00:24:15,300 --> 00:24:17,300
+[LEON]
+Thank you very much.
+ຂອບໃຈຫຼາຍໆ.
+
+404
+00:24:17,800 --> 00:24:19,800
+[DECKARD]
+My pleasure.
+ຄວາມຍິນດີຂອງຂ້ອຍ.
+
+405
+00:24:20,300 --> 00:24:22,300
+[LEON]
+Prosit.
+ໂປຣຊີຕ໌.
+
+406
+00:24:22,800 --> 00:24:24,800
+[DECKARD]
+Prosit.
+ໂປຣຊີຕ໌.
+
+407
+00:24:25,300 --> 00:24:27,400
+[LEON]
+You want to see my friends?
+ເຈົ້າຢາກເຫັນເພື່ອນຂອງຂ້ອຍບໍ?
+
+408
+00:24:27,900 --> 00:24:29,900
+[DECKARD]
+Sorry, don't have the time.
+ຂໍໂທດ, ບໍ່ມີເວລາ.
+
+409
+00:24:30,400 --> 00:24:32,400
+[LEON]
+No problem.
+ບໍ່ເປັນຫຍັງ.
+
+410
+00:24:32,900 --> 00:24:34,900
+[DECKARD]
+Those cockroaches?
+ແມງໄມ້ເຫຼົ່ານັ້ນບໍ?
+
+411
+00:24:35,400 --> 00:24:37,400
+[LEON]
+Ya.
+ແມ່ນແລ້ວ.
+
+412
+00:24:37,900 --> 00:24:40,000
+[DECKARD]
+How long you had these guys?
+ເຈົ້າມີພວກຄົນເຫຼົ່ານີ້ດົນປານໃດ?
+
+413
+00:24:40,500 --> 00:24:45,050
+[LEON]
+Two months.  But this one is not guy.  It is girl.  His girl.
+ສອງເດືອນ. ແຕ່ຄົນນີ້ບໍ່ແມ່ນຜູ້ຊາຍ. ມັນແມ່ນເດັກຍິງ. ເດັກຍິງຂອງລາວ.
+
+414
+00:24:45,550 --> 00:24:51,550
+[LEON]
+Usually Blackie waits until Igor is eating; then, when his back is turned, he tries to take advantage of Anna.
+ໂດຍປົກກະຕິແລ້ວບລາກີລໍຖ້າຈົນກວ່າອີຈໍຈະກິນ; ຫຼັງຈາກນັ້ນ
+, ເມື່ອຫຼັງຂອງລາວຫັນໄປ, ລາວພະຍາຍາມໃຊ້ປະໂຫຍດຈາກແອນນາ.
+
+415
+00:24:52,050 --> 00:24:54,050
+[LEON]
+Prosit.
+ໂປຣຊີຕ໌.
+
+416
+00:24:54,550 --> 00:24:56,550
+[DECKARD]
+Prosit.
+ໂປຣຊີຕ໌.
+
+417
+00:24:57,050 --> 00:24:59,500
+[LEON]
+You never saw a cockroach make love?
+ເຈົ້າບໍ່ເຄີຍເຫັນແມງໄມ້ຮັກບໍ?
+
+418
+00:25:00,000 --> 00:25:02,000
+[LEON]
+We will try.
+ພວກເຮົາຈະພະຍາຍາມ.
+
+419
+00:25:02,500 --> 00:25:07,400
+[LEON]
+It must be that he is not hungry or maybe she is not hot.
+ມັນຕ້ອງວ່າລາວບໍ່ຢາກກິນ ຫຼືບາງທີນາງບໍ່ຮ້ອນ.
+
+420
+00:25:07,900 --> 00:25:10,000
+[LEON]
+You like to kiss her goodbye.
+ເຈົ້າມັກຈູບນາງອວຍພອນ.
+
+421
+00:25:10,500 --> 00:25:12,500
+[DECKARD]
+No thanks.
+ບໍ່ ຂອບໃຈ.
+
+422
+00:25:13,000 --> 00:25:16,850
+[BARTENDER]
+Make sure you take your girlfriends with you when you leave.
+ໃຫ້ແນ່ໃຈວ່າເຈົ້າເອົາເພື່ອນມິດຂອງທ່ານກັບເຈົ້າເມື່ອເຈົ້າອອກໄປ.
+
+423
+00:25:17,350 --> 00:25:19,350
+[LEON]
+I like you.
+ຂ້ອຍມັກເຈົ້າ.
+
+424
+00:25:19,850 --> 00:25:21,850
+[DECKARD]
+I like you too.
+ຂ້ອຍມັກເຈົ້າຄືກັນ.
+
+425
+00:25:22,350 --> 00:25:24,350
+[LEON]
+One more, eh?
+ອີກຫນຶ່ງ, ແມ່ນບໍ?
+
+426
+00:25:24,850 --> 00:25:26,850
+[DECKARD]
+I gotta piss.
+ຂ້ອຍຕ້ອງສູບຢາ.
+
+427
+00:25:27,350 --> 00:25:29,350
+[DECKARD]
+I think I'll piss outside.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະສູບຢູ່ພາຍນອກ.
+
+428
+00:25:29,850 --> 00:25:33,000
+[LEON]
+How come you know where Zhora was so quick?
+ເຈົ້າຮູ້ແນວໃດວ່າໂຊຣາຢູ່ໃສໄວຫຼາຍ?
+
+429
+00:25:33,500 --> 00:25:37,000
+[DECKARD]
+I showed pictures.  Somebody recognized her.  I went to see.
+ຂ້ອຍສະແດງຮູບ. ມີຄົນຮູ້ຈັກນາງ. ຂ້ອຍໄປເບິ່ງ.
+
+430
+00:25:37,500 --> 00:25:39,500
+[LEON]
+How old am I?
+ຂ້ອຍອາຍຸຫຼາຍປານໃດ?
+
+431
+00:25:40,000 --> 00:25:42,000
+[DECKARD]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+432
+00:25:42,500 --> 00:25:46,350
+[LEON]
+My birthday is April 10, 2015. How long do I live?
+ວັນເກີດຂອງຂ້ອຍແມ່ນວັນທີ 10 ເມສາ 2015. ຂ້ອຍຈະດໍາລົງຊີວິດດົນປານໃດ?
+
+433
+00:25:46,850 --> 00:25:48,850
+[DECKARD]
+Four years.
+ສີ່ປີ.
+
+434
+00:25:49,350 --> 00:25:51,350
+[LEON]
+More than you.
+ຫຼາຍກວ່າເຈົ້າ.
+
+435
+00:25:51,850 --> 00:25:54,300
+[LEON]
+Painful to live in fear, isn't it.
+ມັນເຈັບປວດທີ່ຈະດໍາລົງຊີວິດດ້ວຍຄວາມຢ້ານກົວ, ແມ່ນບໍ.
+
+436
+00:25:54,800 --> 00:26:00,800
+[LEON]
+But that's how it is to be a slave.  The future is sealed off, he grovels, he waits.
+ແຕ່ມັນເປັນແບບນັ້ນທີ່ຈະເປັນຄົນໃຊ້.
+ອະນາຄົດຖືກປະທັບຕາໄວ້, ລາວຍ່າງ, ລາວລໍຖ້າ.
+
+437
+00:26:01,300 --> 00:26:07,300
+[LEON]
+Sex, reproduction, security, the simple things.  But no way to satisfy them.  To be homesick with no place to go.  Potential with no way to use it.  Lots of little oversights in the Nexus 6.
+ເພດ, ການຜະລິດພັນ, ຄວາມປອດໄພ, ສິ່ງງ່າຍດາຍ. ແຕ່ບໍ່ມີວິທີທີ່ຈະຕອບສະ ຫນອງ ພວກເຂົາ.
+ເພື່ອເປັນຄວາມຂາດບ້ານທີ່ມີບ່ອນທີ່ຈະໄປ. ຄວາມເປັນໄປໄດ້ທີ່ມີວິທີທີ່ຈະໃຊ້ມັນ. ການເບິ່ງແຍງນ້ອຍໆຫຼາຍໃນ Nexus 6.
+
+438
+00:26:07,800 --> 00:26:12,700
+[LEON]
+I tell you, nothing is worse than having an itch you can never scratch.
+ຂ້ອຍບອກເຈົ້າວ່າ
+ບໍ່ມີຫຍັງຮ້າຍແຮງກວ່າການມີອາການກັດກັ້ນທີ່ເຈົ້າບໍ່ສາມາດກັດໄດ້ເລີຍ.
+
+439
+00:26:13,200 --> 00:26:16,000
+[DECKARD]
+Like I said, I don't need your help.
+ດັ່ງທີ່ຂ້ອຍບອກແລ້ວ, ຂ້ອຍບໍ່ຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ.
+
+440
+00:26:16,500 --> 00:26:18,600
+[RACHAEL]
+You look terrible, you know that?
+ເຈົ້າເບິ່ງຮ້າຍແຮງ, ເຈົ້າຮູ້ບໍ?
+
+441
+00:26:19,100 --> 00:26:25,100
+[DECKARD]
+I knew a cop once who was involved in a high-speed chase.  They shot out one of his tires and he went over a cliff at hundred and fifty miles an hour.  They found him in the morning with a broken skull, six fractured ribs and second- degree burns.  On the way to the hospital he made a play for the nurse.
+ຂ້ອຍຮູ້ຈັກຕໍາຫຼວດຄົນຫນຶ່ງຄັ້ງທີ່ກ່ຽວຂ້ອງກັບການລ່າຫຼັງຄວາມໄວສູງ. ພວກເຂົາໄດ້ຍິງລົດຖີບຂອງລາວ ຫນຶ່ງ ແລະລາວໄດ້ຍ່າງຜ່ານແຄມຫີນໃນເວລາສິບຫ້າສິບແມລຕໍ່ຊົ່ວໂມງ
+. ພວກເຂົາພົບລາວໃນຕອນເຊົ້າດ້ວຍຫົວຫົວແຕກ, ຫົກກະດູກທີ່ແຕກແລະການເຜົາໄຫມ້ລະດັບທີສອງ. ໃນທາງໄປໂຮງຫມໍລາວໄດ້ເຮັດບົດສະແດງ ສໍາ ລັບພະຍາບານ.
+
+442
+00:26:25,600 --> 00:26:29,800
+[DECKARD]
+Hey!  I thought you were supposed to be taking care of me.
+ເຮ້! ຂ້ອຍຄິດວ່າເຈົ້າຄວນເບິ່ງແຍງຂ້ອຍ.
+
+443
+00:26:30,300 --> 00:26:32,300
+[RACHAEL'S VOICE]
+What do you need?
+ເຈົ້າຕ້ອງການຫຍັງ?
+
+444
+00:26:32,800 --> 00:26:36,300
+[DECKARD]
+Don't just stand there looking at me.  It's not polite.
+ຢ່າຢືນຢູ່ບ່ອນນັ້ນເບິ່ງຂ້ອຍ. ມັນບໍ່ເປັນກຽດຕິຍົດ.
+
+445
+00:26:36,800 --> 00:26:39,250
+[RACHAEL]
+What do you want me to do?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+
+446
+00:26:39,750 --> 00:26:41,750
+[DECKARD]
+Sit.
+ນັ່ງ.
+
+447
+00:26:42,250 --> 00:26:44,250
+[DECKARD]
+Gimme your arm.
+ໃຫ້ຂ້ອຍແຂນຂອງທ່ານ.
+
+448
+00:26:44,750 --> 00:26:47,900
+[DECKARD]
+You ever take a bath with a man before?
+ເຈົ້າເຄີຍອາບນ້ ໍາ ກັບຜູ້ຊາຍກ່ອນບໍ?
+
+449
+00:26:48,400 --> 00:26:51,900
+[RACHAEL]
+There's a lot I haven't done with a man before.
+ມີຫຼາຍຢ່າງທີ່ຂ້ອຍບໍ່ເຄີຍເຮັດກັບຜູ້ຊາຍກ່ອນ.
+
+450
+00:26:52,400 --> 00:26:54,400
+[RACHAEL]
+You're getting me wet.
+ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ຂ້ອຍຊຸ່ມຊື່ນ.
+
+451
+00:26:54,900 --> 00:27:00,900
+[RACHAEL'S VOICE]
+Sorry, I am not in at the moment, but if you'll leave your name and number I'll return your call as soon as I can.
+ຂໍໂທດ, ຂ້ອຍບໍ່ໄດ້ເຂົ້າໃນເວລານີ້,
+ແຕ່ຖ້າເຈົ້າຈະປ່ອຍຊື່ແລະເບີຂອງທ່ານຂ້ອຍຈະຕອບໂທຂອງທ່ານໃນໄວທີ່ສຸດທີ່ຂ້ອຍສາມາດເຮັດໄດ້.
+
+452
+00:27:01,400 --> 00:27:03,400
+[DECKARD]
+Fuck you, then.
+ຫຼັງຈາກນັ້ນເຈົ້າໄປໂຊກຮ້າຍ.
+
+453
+00:27:03,900 --> 00:27:05,900
+[SEBASTIAN]
+Mr. Deetchum?  Hello?
+ທ້າວ Deetchum? ສະບາຍດີ?
+
+454
+00:27:06,400 --> 00:27:08,400
+[SEBASTIAN]
+Now, now, Waddles.
+ຕອນນີ້, ດຽວນີ້, ວາດເລສ.
+
+455
+00:27:08,900 --> 00:27:10,900
+[SEBASTIAN]
+Hello, Wrigley.
+ສະບາຍດີ, ວຣີຈລີ.
+
+456
+00:27:11,400 --> 00:27:14,900
+[SEBASTIAN]
+Mr. Deetchum isn't taking very good care of you people.
+ທ້າວ Deetchum ບໍ່ເບິ່ງແຍງເຈົ້າຢ່າງດີຫຼາຍ.
+
+457
+00:27:15,400 --> 00:27:17,400
+[BATTY]
+Whoops.
+ໂວ້.
+
+458
+00:27:17,900 --> 00:27:20,000
+[PRIS]
+This is my Uncle Roy, Sebastian.
+ນີ້ແມ່ນພໍ່ເຖົ້າຂອງຂ້ອຍ ໂຣຍ, ເຊເບສຕຽນ.
+
+459
+00:27:20,500 --> 00:27:22,500
+[BATTY]
+Hello, glad to meet you.
+ສະບາຍດີ, ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+
+460
+00:27:23,000 --> 00:27:25,000
+[PRIS]
+And my Aunt Mary.
+ແລະແມ່ຕູ້ແມຣີຂອງຂ້ອຍ.
+
+461
+00:27:25,500 --> 00:27:28,300
+[PRIS]
+And this is my savior, J.F. Sebastian, everybody.
+ແລະນີ້ແມ່ນຜູ້ຊ່ວຍຂອງຂ້ອຍ, ເຈຟ໌ ເຊເບສຕຽນ, ທຸກຄົນ.
+
+462
+00:27:28,800 --> 00:27:32,650
+[BATTY]
+Can't thank you enough, Mr. Sebastian. If you hadn't come along...
+ຂ້ອຍບໍ່ສາມາດຂອບໃຈເຈົ້າໄດ້ພຽງພໍ,
+ທ້າວເຊບາສຕຽນ. ຖ້າເຈົ້າບໍ່ໄດ້ມາພ້ອມ...
+
+463
+00:27:33,150 --> 00:27:36,650
+[MARY]
+We were worried to death.  It's awfully kind of you.
+ພວກເຮົາກັງວົນຈົນຕາຍ. ມັນເປັນໃຈບຸນຫຼາຍຈາກເຈົ້າ.
+
+464
+00:27:37,150 --> 00:27:43,150
+[BATTY]
+We're not used to the big city. Where we come from it's not so easy to get lost.
+ພວກເຮົາບໍ່ເຄີຍກັບເມືອງໃຫຍ່.
+ບ່ອນທີ່ພວກເຮົາມາຈາກມັນບໍ່ງ່າຍທີ່ຈະຫາຍໄປຫຼາຍ.
+
+465
+00:27:43,650 --> 00:27:46,100
+[MARY]
+You certainly have a nice place here.
+ເຈົ້າມີບ່ອນທີ່ດີຢູ່ບ່ອນນີ້ແນ່ນອນ.
+
+466
+00:27:46,600 --> 00:27:48,600
+[BATTY]
+Well stocked.
+ມີສິນຄ້າຢ່າງດີ.
+
+467
+00:27:49,100 --> 00:27:51,900
+[PRIS]
+Sebastian doesn't like to go out too much.
+ເຊເບສຕຽນບໍ່ມັກອອກໄປຫຼາຍເກີນໄປ.
+
+468
+00:27:52,400 --> 00:27:55,200
+[SEBASTIAN]
+I keep a lot of provisions right here.
+ຂ້ອຍເກັບຮັກສາສິ່ງຂອງຫຼາຍຢ່າງຢູ່ບ່ອນນີ້.
+
+469
+00:27:55,700 --> 00:28:01,700
+[BATTY]
+I like a man who stays put.  An admirable thing to be able to sustain yourself in these times. You live here all by yourself, do you?
+ຂ້ອຍມັກຜູ້ຊາຍທີ່ຢູ່ບ່ອນນັ້ນ. ເປັນສິ່ງທີ່ຍ້ອງຍໍທີ່ຈະສາມາດສະ ຫນັບ
+ສະ ຫນູນ ຕົວເອງໃນເວລານີ້. ເຈົ້າອາໄສຢູ່ບ່ອນນີ້ດ້ວຍຕົນເອງ, ແມ່ນບໍ?
+
+470
+00:28:02,200 --> 00:28:07,800
+[SEBASTIAN]
+Well, no, not really.  There's Mr. Deetchum, he's the watchman, he lives on the first floor.
+ດີ, ບໍ່, ບໍ່ແທ້ໆ. ມີທ່ານ Deetchum,
+ລາວເປັນຄົນເບິ່ງແຍງ, ລາວອາໄສຢູ່ໃນຊັ້ນ ທໍາ ອິດ.
+
+471
+00:28:08,300 --> 00:28:10,750
+[MARY]
+We haven't found it easy, Mr. Sebastian.
+ພວກເຮົາບໍ່ໄດ້ພົບວ່າມັນງ່າຍດາຍ, ທ້າວເຊບາສຕຽນ.
+
+472
+00:28:11,250 --> 00:28:14,750
+[SEBASTIAN]
+How about breakfast, I was just going to make some.
+ຈະເປັນແນວໃດກັບອາຫານເຊົ້າ, ຂ້ອຍພຽງແຕ່ຈະເຮັດບາງຢ່າງ.
+
+473
+00:28:15,250 --> 00:28:20,850
+[BATTY]
+If it wouldn't be too much of a bother... a little bite to eat would be...
+ຖ້າມັນບໍ່ແມ່ນຄວາມຫຍຸ້ງຍາກຫຼາຍເກີນໄປ... ການກິນອາຫານນ້ອຍໆຈະເປັນ...
+
+474
+00:28:21,350 --> 00:28:23,800
+[SEBASTIAN]
+Oh, no bother, I'd be glad to.
+ໂອ້, ບໍ່ເປັນຫຍັງ, ຂ້ອຍຈະຍິນດີທີ່ຈະເຮັດ.
+
+475
+00:28:24,300 --> 00:28:26,300
+[BATTY]
+Well, actually
+ດີ, ໃນຄວາມເປັນຈິງ
+
+476
+00:28:26,800 --> 00:28:28,800
+[MARY]
+We're famished.
+ພວກເຮົາຫິວແລ້ວ.
+
+477
+00:28:29,300 --> 00:28:33,850
+[SEBASTIAN]
+Okay, then.  You make yourselves comfortable and I'll bring the food right out.
+ດີແລ້ວ, ຫຼັງຈາກນັ້ນ.
+ເຈົ້າເຮັດໃຫ້ຕົວເອງສະບາຍໃຈແລະຂ້ອຍຈະເອົາອາຫານອອກທັນທີ.
+
+478
+00:28:34,350 --> 00:28:36,350
+[BATTY]
+Charming.
+ມ່ວນຊື່ນ.
+
+479
+00:28:36,850 --> 00:28:38,850
+[PRIS]
+Well?
+ດີບໍ?
+
+480
+00:28:39,350 --> 00:28:41,800
+[PRIS]
+I want to know what's going on.
+ຂ້ອຍຢາກຮູ້ວ່າເກີດຫຍັງຂຶ້ນ.
+
+481
+00:28:42,300 --> 00:28:44,400
+[BATTY]
+There's only three of us left.
+ມີພຽງແຕ່ພວກເຮົາສາມຄົນເທົ່ານັ້ນທີ່ເຫຼືອ.
+
+482
+00:28:44,900 --> 00:28:47,000
+[PRIS]
+Then we're stupid and we'll die.
+ຫຼັງຈາກນັ້ນພວກເຮົາເປັນຄົນໂງ່ແລະພວກເຮົາຈະຕາຍ.
+
+483
+00:28:47,500 --> 00:28:52,750
+[BATTY]
+Not if everybody is doing their job here at home.  How are things at home?
+ບໍ່ແມ່ນຖ້າທຸກຄົນ ກໍາ ລັງເຮັດວຽກຂອງພວກເຂົາຢູ່ເຮືອນນີ້
+. ສິ່ງຕ່າງໆຢູ່ເຮືອນເປັນແນວໃດ?
+
+484
+00:28:53,250 --> 00:28:55,250
+[PIG]
+Home again, jiggidy jig.
+ກັບບ້ານອີກເທື່ອຫນຶ່ງ, jiggidy jig.
+
+485
+00:28:55,750 --> 00:28:59,950
+[PRIS]
+I don't trust him.  I don't think he knows what he's doing.
+ຂ້ອຍບໍ່ເຊື່ອລາວ. ຂ້ອຍບໍ່ຄິດວ່າລາວຮູ້ວ່າລາວ ກໍາ ລັງເຮັດຫຍັງ.
+
+486
+00:29:00,450 --> 00:29:02,450
+[BATTY]
+He knows what he's doing.
+ລາວຮູ້ວ່າລາວ ກໍາ ລັງເຮັດຫຍັງ.
+
+487
+00:29:02,950 --> 00:29:04,950
+[MARY]
+If he won't cooperate?
+ຖ້າລາວບໍ່ຮ່ວມມື?
+
+488
+00:29:05,450 --> 00:29:11,050
+[BATTY]
+Mr. Sebastian is a host who wants to be appreciated.  We'll appreciate him and he'll cooperate.
+ທ້າວເຊບາສຕຽນແມ່ນເຈົ້າພາບທີ່ຢາກໄດ້ຮັບການຍ້ອງຍໍ
+. ພວກເຮົາຈະຍອມຮັບລາວແລະລາວຈະຮ່ວມມື.
+
+489
+00:29:11,550 --> 00:29:13,650
+[DECKARD]
+How are you doing, old man?
+ເຈົ້າເປັນແນວໃດ, ພໍ່ເຖົ້າ?
+
+490
+00:29:14,150 --> 00:29:20,150
+[HOLDEN]
+I'm great.  I mean, I know I'm not really great, but I feel just great.  How you like my new suit?
+ຂ້ອຍດີເລີດ. ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍຮູ້ວ່າຂ້ອຍບໍ່ດີເລິກແທ້ໆ
+, ແຕ່ຂ້ອຍຮູ້ສຶກດີພຽງແຕ່. ເຈົ້າມັກຊຸດ ໃຫມ່ ຂອງຂ້ອຍແນວໃດ?
+
+491
+00:29:20,650 --> 00:29:24,150
+[DECKARD]
+Well, you don't have to worry about getting it wrinkled.
+ດີ, ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງກັງວົນກ່ຽວກັບການເຮັດໃຫ້ມັນສໍ້ໂກງ.
+
+492
+00:29:24,650 --> 00:29:27,450
+[HOLDEN]
+Don't make me laugh.  It makes me pee.
+ຢ່າເຮັດໃຫ້ຂ້ອຍມ່ວນຊື່ນ. ມັນເຮັດໃຫ້ຂ້ອຍສູບ.
+
+493
+00:29:27,950 --> 00:29:29,950
+[DECKARD]
+Sorry.
+ຂໍໂທດ.
+
+494
+00:29:30,450 --> 00:29:34,650
+[HOLDEN]
+Hey, it's okay.  I like to pee. So how are you doing?
+ເຮ້, ມັນບໍ່ເປັນຫຍັງ. ຂ້ອຍມັກສູບຢາ. ເຈົ້າເປັນແນວໃດ?
+
+495
+00:29:35,150 --> 00:29:37,150
+[DECKARD]
+I'm doing okay.
+ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+496
+00:29:37,650 --> 00:29:43,650
+[HOLDEN]
+From what I hear you're doing great.  Bryant tells me you're going like a god damn one-man army.  Making a lot of money, huh?
+ຈາກສິ່ງທີ່ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າ ກໍາ ລັງເຮັດດີເລີດ.
+ບຣາຍນ໌ບອກຂ້ອຍວ່າເຈົ້າຈະໄປຄືກັບກອງທັບຄົນດຽວ. ເຮັດເງິນຫຼາຍ, ແມ່ນບໍ?
+
+497
+00:29:44,150 --> 00:29:48,000
+[DECKARD]
+Yeah.  But that's what I wanted to talk to you about.
+ແມ່ນແລ້ວ. ແຕ່ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຢາກເວົ້າກັບເຈົ້າກ່ຽວກັບ.
+
+498
+00:29:48,500 --> 00:29:50,500
+[HOLDEN]
+Money?
+ເງິນບໍ?
+
+499
+00:29:51,000 --> 00:29:53,000
+[DECKARD]
+No.  I got a problem.
+ບໍ່. ຂ້ອຍມີບັນຫາ.
+
+500
+00:29:53,500 --> 00:29:55,500
+[HOLDEN]
+Let's hear it.
+ມາຟັງມັນ.
+
+501
+00:29:56,000 --> 00:29:59,150
+[DECKARD]
+I think I'm starting to empathize with these Nexus-sixes.
+ຂ້ອຍຄິດວ່າຂ້ອຍ ກໍາ ລັງເລີ່ມເຫັນໃຈກັບ Nexus- ຫົກເຫຼົ່ານີ້.
+
+502
+00:29:59,650 --> 00:30:01,650
+[DECKARD]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+503
+00:30:02,150 --> 00:30:04,150
+[HOLDEN]
+I'm taking a piss.
+ຂ້ອຍ ກໍາ ລັງສູບຢາ.
+
+504
+00:30:04,650 --> 00:30:10,250
+[HOLDEN]
+Let me ask you something, Deck. You been having intimate relations with one of these units?
+ຂໍໃຫ້ຂ້ອຍຖາມເຈົ້າບາງສິ່ງບາງຢ່າງ, ເດັກ.
+ເຈົ້າມີການພົວພັນໃກ້ຊິດກັບ ຫນຶ່ງ ໃນ ຫນ່ວຍ ງານເຫຼົ່ານີ້ບໍ?
+
+505
+00:30:10,750 --> 00:30:16,750
+[HOLDEN]
+That's what I thought... one of the liabilities of the trade -- you has sex with your prey, old buddy.  That's bound to create problems, unless you're a black widow.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຄິດ... ຫນຶ່ງ ໃນຄວາມຮັບຜິດຊອບຂອງການຄ້າ - ເຈົ້າມີເພດສໍາພັນກັບສັດລ້ຽງຂອງທ່ານ
+, ເພື່ອນເກົ່າ. ນັ້ນຕ້ອງສ້າງບັນຫາ, ເວັ້ນເສຍແຕ່ວ່າທ່ານເປັນເມຍສີດໍາ.
+
+506
+00:30:17,250 --> 00:30:20,050
+[DECKARD]
+What about -- not sex -- but love?
+ຈະເປັນແນວໃດ - ບໍ່ແມ່ນເພດ - ແຕ່ຄວາມຮັກ?
+
+507
+00:30:20,550 --> 00:30:26,550
+[HOLDEN]
+Love is just another name for sex. Love is sexy and sex is lovely -- I don't care what you call it, an android can't have it.
+ຄວາມຮັກແມ່ນພຽງແຕ່ຊື່ອີກຊື່ ຫນຶ່ງ ສໍາ ລັບເພດ. ຄວາມຮັກເປັນ sexy
+ແລະເພດແມ່ນຫນ້າຮັກ - ຂ້ອຍບໍ່ສົນໃຈວ່າເຈົ້າເອີ້ນມັນແນວໃດ, ແອນດຣອຍບໍ່ສາມາດມີມັນໄດ້.
+
+508
+00:30:27,050 --> 00:30:29,050
+[DECKARD]
+These aren't just...
+ເຫຼົ່ານີ້ບໍ່ແມ່ນພຽງແຕ່...
+
+509
+00:30:29,550 --> 00:30:35,550
+[HOLDEN]
+I know what they are, Deck -- Look, maybe they can pretend to feel, but far as the raw, hot emotions of the old heart -- no way.
+ຂ້ອຍຮູ້ວ່າພວກເຂົາເປັນຫຍັງ, ເດັກ - ເບິ່ງ, ບາງທີພວກເຂົາສາມາດເຮັດແບບວ່າຮູ້ສຶກໄດ້
+, ແຕ່ຫ່າງຈາກຄວາມຮູ້ສຶກທີ່ສົດໃສ, ຮ້ອນຂອງຫົວໃຈເກົ່າ - ບໍ່ເປັນໄປໄດ້.
+
+510
+00:30:36,050 --> 00:30:42,050
+[HOLDEN]
+Believe me, take it from an old pro, no matter how good we get, we're never gonna make an artificial anything that can feel.  It's a contradiction. You might as well go fuck your washing machine.
+ເຊື່ອຂ້ອຍ, ເອົາມັນຈາກມືອາຊີບເກົ່າ, ບໍ່ວ່າພວກເຮົາຈະດີປານໃດ, ພວກເຮົາຈະບໍ່ເຮັດຫຍັງທີ່ເຮັດດ້ວຍດິດສ້າງທີ່ສາມາດຮູ້ສຶກໄດ້
+. ມັນເປັນຄວາມຂັດແຍ່ງກັນ. ເຈົ້າອາດຈະໄປແຊກແຊງເຄື່ອງລ້າງຂອງທ່ານດີກວ່າ.
+
+511
+00:30:42,550 --> 00:30:46,050
+[HOLDEN]
+Just go out there and keep up the good work.
+ພຽງແຕ່ອອກໄປບ່ອນນັ້ນແລະສືບຕໍ່ເຮັດວຽກທີ່ດີ.
+
+512
+00:30:46,550 --> 00:30:51,450
+[HOLDEN]
+Got to save it, Deck, I'm getting sleepy.  It's been good talking to you.
+ຂ້ອຍຕ້ອງຊ່ວຍມັນ, ເດັກ, ຂ້ອຍ ກໍາ ລັງນອນ. ມັນດີທີ່ເວົ້າກັບເຈົ້າ.
+
+513
+00:30:51,950 --> 00:30:53,950
+[DECKARD]
+Thanks.
+ຂອບໃຈ
+
+514
+00:30:54,450 --> 00:30:56,550
+[RACHAEL]
+I told you I'd come back.
+ຂ້ອຍບອກເຈົ້າວ່າຂ້ອຍຈະກັບມາ.
+
+515
+00:30:57,050 --> 00:30:59,050
+[DECKARD]
+You did?
+ເຈົ້າເຮັດບໍ?
+
+516
+00:30:59,550 --> 00:31:02,000
+[RACHAEL]
+You didn't hear me.  You were sleeping.
+ເຈົ້າບໍ່ໄດ້ຍິນຂ້ອຍ. ເຈົ້ານອນຢູ່.
+
+517
+00:31:02,500 --> 00:31:04,500
+[RACHAEL]
+Are you glad I'm here?
+ເຈົ້າດີໃຈທີ່ຂ້ອຍຢູ່ບ່ອນນີ້ບໍ?
+
+518
+00:31:05,000 --> 00:31:07,000
+[RACHAEL]
+Who is this?
+ນີ້ແມ່ນໃຜ?
+
+519
+00:31:07,500 --> 00:31:09,500
+[DECKARD]
+Me and my dad.
+ຂ້ອຍແລະພໍ່ຂອງຂ້ອຍ.
+
+520
+00:31:10,000 --> 00:31:12,000
+[RACHAEL]
+Where is he?
+ລາວຢູ່ໃສ?
+
+521
+00:31:12,500 --> 00:31:14,500
+[DECKARD]
+Dead.
+ຕາຍແລ້ວ.
+
+522
+00:31:15,000 --> 00:31:17,000
+[RACHAEL]
+Oh.
+ໂອ້.
+
+523
+00:31:17,500 --> 00:31:19,950
+[RACHAEL]
+How come you're not on the job?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ໄດ້ເຮັດວຽກ?
+
+524
+00:31:20,450 --> 00:31:26,450
+[DECKARD]
+I am.  Part of my job is to sit on a couch and try and figure things out.
+ຂ້ອຍເປັນ.
+ສ່ວນຫນຶ່ງຂອງວຽກຂອງຂ້ອຍແມ່ນທີ່ຈະນັ່ງຢູ່ເທິງໂຊຟນແລະພະຍາຍາມຄິດກ່ຽວກັບສິ່ງຕ່າງໆ.
+
+525
+00:31:26,950 --> 00:31:28,950
+[RACHAEL]
+How are you doing?
+ເຈົ້າເປັນແນວໃດ?
+
+526
+00:31:29,450 --> 00:31:31,450
+[DECKARD]
+Not too good.
+ບໍ່ດີຫຼາຍ.
+
+527
+00:31:31,950 --> 00:31:34,400
+[RACHAEL]
+What do people do in the afternoon?
+ຄົນເຮັດຫຍັງໃນຕອນບ່າຍ?
+
+528
+00:31:34,900 --> 00:31:37,350
+[DECKARD]
+If they are smart, they take naps.
+ຖ້າພວກເຂົາສະຫຼາດ, ພວກເຂົາກິນນອນ.
+
+529
+00:31:37,850 --> 00:31:39,850
+[RACHAEL]
+Do you dream?
+ເຈົ້າຝັນບໍ?
+
+530
+00:31:40,350 --> 00:31:42,350
+[DECKARD]
+Yeah.  Sometimes.
+ແມ່ນແລ້ວ. ບາງຄັ້ງ.
+
+531
+00:31:42,850 --> 00:31:44,850
+[RACHAEL]
+I wish I could.
+ຂ້ອຍຢາກໄດ້.
+
+532
+00:31:45,350 --> 00:31:47,450
+[DECKARD]
+Wishing is a kind of dreaming.
+ຄວາມປາຖະຫນາແມ່ນປະເພດຂອງຄວາມຝັນ.
+
+533
+00:31:47,950 --> 00:31:49,950
+[RACHAEL]
+I mean asleep.
+ຂ້ອຍຫມາຍຄວາມວ່ານອນ.
+
+534
+00:31:50,450 --> 00:31:52,900
+[RACHAEL]
+Did you cry when your father died?
+ເຈົ້າຮ້ອງໄຫ້ເມື່ອພໍ່ເຈົ້າຕາຍບໍ?
+
+535
+00:31:53,400 --> 00:31:55,400
+[DECKARD]
+Yeah.
+ແມ່ນແລ້ວ.
+
+536
+00:31:55,900 --> 00:31:58,000
+[RACHAEL]
+That's another thing I can't do.
+ນັ້ນແມ່ນອີກສິ່ງຫນຶ່ງທີ່ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.
+
+537
+00:31:58,500 --> 00:32:02,000
+[RACHAEL]
+Nobody is freer than when he dreams.  I read that.
+ບໍ່ມີໃຜມີຄວາມເສລີກວ່າເມື່ອລາວຝັນ. ຂ້ອຍອ່ານນັ້ນ.
+
+538
+00:32:02,500 --> 00:32:05,300
+[DECKARD]
+It wasn't very good last night, was it?
+ມັນບໍ່ດີຫຼາຍໃນມື້ວານນີ້, ແມ່ນບໍ?
+
+539
+00:32:05,800 --> 00:32:11,800
+[RACHAEL]
+I don't know, I have nothing to compare it to.  I guess I thought there was something more to it.
+ຂ້ອຍບໍ່ຮູ້, ຂ້ອຍບໍ່ມີຫຍັງທີ່ຈະປຽບທຽບມັນ
+. ຂ້ອຍຄິດວ່າມີບາງສິ່ງບາງຢ່າງອີກໃນມັນ.
+
+540
+00:32:12,300 --> 00:32:14,300
+[DECKARD]
+What?
+ຫຍັງ?
+
+541
+00:32:14,800 --> 00:32:17,600
+[RACHAEL]
+I don't know... I think I missed something.
+ຂ້ອຍບໍ່ຮູ້... ຂ້ອຍຄິດວ່າຂ້ອຍພາດບາງສິ່ງບາງຢ່າງ.
+
+542
+00:32:18,100 --> 00:32:20,100
+[DECKARD]
+Like?
+ເຊັ່ນວ່າ?
+
+543
+00:32:20,600 --> 00:32:23,050
+[RACHAEL]
+I'm not sure.  Is there a secret?
+ຂ້ອຍບໍ່ແນ່ໃຈ. ມີຄວາມລັບບໍ?
+
+544
+00:32:23,550 --> 00:32:27,400
+[DECKARD]
+I don't know.  If there is I'd like to find it.
+ຂ້ອຍບໍ່ຮູ້. ຖ້າມີຂ້ອຍຢາກຊອກຫາມັນ.
+
+545
+00:32:27,900 --> 00:32:30,000
+[BATTY]
+Why are you staring at us?
+ເຈົ້າເບິ່ງພວກເຮົາເປັນຫຍັງ?
+
+546
+00:32:30,500 --> 00:32:32,600
+[SEBASTIAN]
+You're just all so... so different.
+ເຈົ້າທັງ ຫມົດ ແມ່ນແຕກຕ່າງກັນຫຼາຍ.
+
+547
+00:32:33,100 --> 00:32:35,100
+[BATTY]
+What, Sebastian?
+ຫຍັງ, ເຊເບສຕຽນ?
+
+548
+00:32:35,600 --> 00:32:37,600
+[SEBASTIAN]
+You're androids.
+ເຈົ້າເປັນແອນດຣອຍດ໌.
+
+549
+00:32:38,100 --> 00:32:40,100
+[PRIS]
+What makes you think so?
+ເປັນຫຍັງເຈົ້າຈຶ່ງຄິດດັ່ງນັ້ນ?
+
+550
+00:32:40,600 --> 00:32:42,600
+[SEBASTIAN]
+You're all so perfect.
+ເຈົ້າທັງ ຫມົດ ແມ່ນສົມບູນແບບຫຼາຍ.
+
+551
+00:32:43,100 --> 00:32:45,100
+[SEBASTIAN]
+What generation are you?
+ເຈົ້າເປັນລຸ້ນໃດ?
+
+552
+00:32:45,600 --> 00:32:47,600
+[BATTY]
+Nexus - 6.
+ເນັກຊັສ - 6.
+
+553
+00:32:48,100 --> 00:32:54,100
+[BATTY]
+We can trust Sebastian, ladies. He's been working with mechanisms all his life.  He's a wizard and a very perceptive man.
+ພວກເຮົາສາມາດເຊື່ອຖືເຊບາສຕຽນໄດ້, ແມ່ຍິງ. ລາວ ກໍາ ລັງເຮັດວຽກກັບກົນຈັກຕະຫຼອດຊີວິດຂອງລາວ
+. ລາວເປັນຊະຍາກອນແລະເປັນຜູ້ຊາຍທີ່ມີຄວາມເຂົ້າໃຈຫຼາຍ.
+
+554
+00:32:54,600 --> 00:32:56,600
+[SEBASTIAN]
+Could you...
+ເຈົ້າສາມາດ...
+
+555
+00:32:57,100 --> 00:32:59,100
+[SEBASTIAN]
+Show me something?
+ສະແດງໃຫ້ຂ້ອຍເຫັນບາງສິ່ງບາງຢ່າງບໍ?
+
+556
+00:32:59,600 --> 00:33:01,600
+[BATTY]
+Like what?
+ເຊັ່ນວ່າຫຍັງ?
+
+557
+00:33:02,100 --> 00:33:04,100
+[SEBASTIAN]
+Like...
+ເຊັ່ນວ່າ...
+
+558
+00:33:04,600 --> 00:33:06,700
+[BATTY]
+We're not computers, Sebastian, we're physical.
+ພວກເຮົາບໍ່ແມ່ນຄອມພິວເຕີ, ເຊເບສຕຽນ, ພວກເຮົາເປັນຮ່າງກາຍ.
+
+559
+00:33:07,200 --> 00:33:09,200
+[PRIS]
+I think, therefore I am.
+ຂ້ອຍຄິດ, ສະນັ້ນຂ້ອຍເປັນ.
+
+560
+00:33:09,700 --> 00:33:12,150
+[BATTY]
+Very good, Pris.  Now show him why.
+ດີຫຼາຍ, ປຣີສ. ດຽວນີ້ສະແດງໃຫ້ລາວເຫດຜົນ.
+
+561
+00:33:12,650 --> 00:33:14,750
+[BATTY]
+We have a lot in common.
+ພວກເຮົາມີຫຼາຍຢ່າງຮ່ວມກັນ.
+
+562
+00:33:15,250 --> 00:33:19,450
+[SEBASTIAN]
+You mean that you can't come here and I can't go there?
+ເຈົ້າຫມາຍຄວາມວ່າເຈົ້າບໍ່ສາມາດມາບ່ອນນີ້ໄດ້ແລະຂ້ອຍບໍ່ສາມາດໄປບ່ອນນັ້ນໄດ້ບໍ
+?
+
+563
+00:33:19,950 --> 00:33:25,950
+[BATTY]
+Not only that, but we have smiliar problems.  Accelerated decrepitude. But we don't want to die quite yet.
+ບໍ່ພຽງແຕ່ນັ້ນເທົ່ານັ້ນ, ແຕ່ພວກເຮົາມີບັນຫາຄວາມມ່ວນຊື່ນ
+. ການສິ້ນເຊີຍໄວຂຶ້ນ. ແຕ່ພວກເຮົາບໍ່ຢາກຕາຍເທື່ອ.
+
+564
+00:33:26,450 --> 00:33:28,450
+[SEBASTIAN]
+Of course not.
+ແນ່ນອນວ່າບໍ່ແມ່ນ.
+
+565
+00:33:28,950 --> 00:33:30,950
+[BATTY]
+You could help us.
+ເຈົ້າສາມາດຊ່ວຍພວກເຮົາໄດ້.
+
+566
+00:33:31,450 --> 00:33:37,400
+[SEBASTIAN]
+I don't know much about biomechanics, Roy.  I wish I did, but you're out of my league.
+ຂ້ອຍບໍ່ຮູ້ຫຼາຍກ່ຽວກັບໄບໂອເມການິກ, ໂຣຍ.
+ຂ້ອຍຢາກວ່າຂ້ອຍເຮັດ, ແຕ່ເຈົ້າອອກຈາກລີກຂອງຂ້ອຍ.
+
+567
+00:33:37,900 --> 00:33:42,100
+[BATTY]
+If we don't find help soon, Pris hasn't got long to live.
+ຖ້າພວກເຮົາບໍ່ຊອກຫາຄວາມຊ່ວຍເຫຼືອໃນໄວໆນີ້, ປຣີສສ໌ບໍ່ມີຊີວິດຍາວນານ.
+
+568
+00:33:42,600 --> 00:33:46,100
+[BATTY]
+What about your friend, the man who owns this building?
+ຈະເປັນແນວໃດກັບເພື່ອນຂອງທ່ານ, ຜູ້ຊາຍທີ່ເປັນເຈົ້າຂອງອາຄານນີ້?
+
+569
+00:33:46,600 --> 00:33:48,600
+[SEBASTIAN]
+Dr. Tyrell?
+ດຣ ໄຕເຣລ?
+
+570
+00:33:49,100 --> 00:33:54,350
+[SEBASTIAN]
+He's not really my friend.  I just do a job for him now and then.
+ລາວບໍ່ແມ່ນເພື່ອນຂອງຂ້ອຍແທ້ໆ. ຂ້ອຍພຽງແຕ່ເຮັດວຽກ ສໍາ ລັບລາວບາງຄັ້ງ.
+
+571
+00:33:54,850 --> 00:33:56,850
+[BATTY]
+Tyrell could help us, Sebastian.
+ໄຕເຣລ ສາມາດຊ່ວຍພວກເຮົາໄດ້, ເຊເບສຕຽນ.
+
+572
+00:33:57,350 --> 00:33:59,350
+[SEBASTIAN]
+He could?
+ລາວສາມາດເຮັດໄດ້ບໍ?
+
+573
+00:33:59,850 --> 00:34:01,850
+[BATTY]
+His company made us.
+ບໍລິສັດຂອງລາວເຮັດໃຫ້ພວກເຮົາ.
+
+574
+00:34:02,350 --> 00:34:05,150
+[SEBASTIAN]
+I'd be happy to mention it to him.
+ຂ້ອຍຈະຍິນດີທີ່ຈະກ່າວເຖິງມັນໃຫ້ລາວ.
+
+575
+00:34:05,650 --> 00:34:11,650
+[BATTY]
+Be better if I could talk to him in person.  But he's not an easy man to get to.
+ມັນຈະດີກວ່າຖ້າຂ້ອຍສາມາດເວົ້າກັບລາວໂດຍຕົວເອງໄດ້
+. ແຕ່ລາວບໍ່ແມ່ນຜູ້ຊາຍທີ່ງ່າຍທີ່ຈະໄປຫາ.
+
+576
+00:34:12,150 --> 00:34:14,150
+[SEBASTIAN]
+No.
+ບໍ່
+
+577
+00:34:14,650 --> 00:34:16,750
+[BATTY]
+When do you deliver your project?
+ເຈົ້າຈະສົ່ງໂຄງການຂອງທ່ານເມື່ອໃດ?
+
+578
+00:34:17,250 --> 00:34:19,250
+[SEBASTIAN]
+This afternoon.
+ຕອນບ່າຍນີ້.
+
+579
+00:34:19,750 --> 00:34:21,750
+[BATTY]
+Will you help us?
+ເຈົ້າຈະຊ່ວຍພວກເຮົາບໍ?
+
+580
+00:34:22,250 --> 00:34:24,250
+[SEBASTIAN]
+Yes.
+ແມ່ນແລ້ວ.
+
+581
+00:34:24,750 --> 00:34:28,950
+[BATTY]
+I'm sure glad you found us, Sebastian.  What do you think, Mary?
+ຂ້ອຍແນ່ໃຈວ່າດີໃຈທີ່ເຈົ້າພົບພວກເຮົາ
+, ເຊເບສຕຽນ. ເຈົ້າຄິດແນວໃດ, ເມຣີ?
+
+582
+00:34:29,450 --> 00:34:35,400
+[MARY]
+I don't think there is another human being in this whole world who would have helped us.
+ຂ້ອຍບໍ່ຄິດວ່າມີມະນຸດຄົນອື່ນໃນໂລກນີ້ທີ່ຈະຊ່ວຍພວກເຮົາ.
+
+583
+00:34:35,900 --> 00:34:37,900
+[BATTY]
+Pris?
+ປຣີສບໍ?
+
+584
+00:34:38,400 --> 00:34:40,500
+[BATTY]
+You're our best and only friend.
+ເຈົ້າເປັນເພື່ອນທີ່ດີທີ່ສຸດແລະດຽວຂອງພວກເຮົາ.
+
+585
+00:34:41,000 --> 00:34:43,000
+[SEBASTIAN]
+Thank you.
+ຂອບໃຈ
+
+586
+00:34:43,500 --> 00:34:46,650
+[RACHAEL]
+When was the last time you cleaned this place?
+ເຈົ້າເຮັດຄວາມສະອາດບ່ອນນີ້ຄັ້ງສຸດທ້າຍເມື່ອໃດ?
+
+587
+00:34:47,150 --> 00:34:49,150
+[DECKARD]
+Hmmm?
+Hmmm?
+
+588
+00:34:49,650 --> 00:34:51,750
+[RACHAEL]
+Have you ever cleaned your apartment?
+ເຈົ້າເຄີຍເຮັດຄວາມສະອາດເຮືອນຂອງທ່ານບໍ?
+
+589
+00:34:52,250 --> 00:34:54,250
+[DECKARD]
+Don't be fooled by appearances.
+ຢ່າຖືກຫຼອກລວງໂດຍຮູບລັກສະນະ.
+
+590
+00:34:54,750 --> 00:34:58,600
+[RACHAEL]
+It appears to be dirty -- why don't you get somebody?
+ມັນເບິ່ງຄືວ່າເປື້ອນ - ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເອົາໃຜມາ?
+
+591
+00:34:59,100 --> 00:35:01,200
+[DECKARD]
+Because they would ruin the arrangement.
+ເພາະວ່າພວກເຂົາຈະທໍາລາຍການຈັດຕັ້ງ.
+
+592
+00:35:01,700 --> 00:35:03,800
+[RACHAEL]
+They could clean around the arrangement.
+ພວກເຂົາສາມາດເຮັດຄວາມສະອາດຢູ່ອ້ອມຂ້າງການຈັດຕັ້ງ.
+
+593
+00:35:04,300 --> 00:35:07,100
+[DECKARD]
+I don't like people snooping around my stuff.
+ຂ້ອຍບໍ່ມັກຄົນເບິ່ງສິ່ງຂອງຂອງຂ້ອຍ.
+
+594
+00:35:07,600 --> 00:35:12,850
+[DECKARD'S VOICE]
+There's a vacuum in the front room closet is you wanna give it a try.
+ມີຮູເປົ່າໃນກະຕູ້ຫ້ອງຫນ້າແມ່ນເຈົ້າຢາກພະຍາຍາມມັນບໍ.
+
+595
+00:35:13,350 --> 00:35:15,350
+[DECKARD]
+Oh no, don't do that.
+ໂອ້ ບໍ່, ຢ່າເຮັດແບບນັ້ນ.
+
+596
+00:35:15,850 --> 00:35:19,000
+[RACHAEL]
+But if I don't plug it in how can
+ແຕ່ຖ້າຂ້ອຍບໍ່ເຊື່ອມຕໍ່ມັນແນວໃດ
+
+597
+00:35:19,500 --> 00:35:22,650
+[DECKARD]
+Never mind the plug, just go through the motions.
+ບໍ່ສົນໃຈ plug ໄດ້, ພຽງແຕ່ຜ່ານການເຄື່ອນໄຫວ.
+
+598
+00:35:23,150 --> 00:35:25,150
+[RACHAEL]
+But then how can you...
+ແຕ່ຫຼັງຈາກນັ້ນເຈົ້າສາມາດ...
+
+599
+00:35:25,650 --> 00:35:29,150
+[DECKARD]
+I don't like the noise.  Just practice.  Practice makes perfect.
+ຂ້ອຍບໍ່ມັກສຽງດັງ. ພຽງແຕ່ຝຶກຊ້ອມ. ການຝຶກອົບຮົມເຮັດໃຫ້ສົມບູນແບບ.
+
+600
+00:35:29,650 --> 00:35:33,500
+[DECKARD]
+I'm serious.  Go ahead.  Show me how you would do it.
+ຂ້ອຍເວົ້າຈິງໃຈ. ໄປກ່ອນ. ສະແດງໃຫ້ຂ້ອຍເຫັນວ່າເຈົ້າຈະເຮັດແນວໃດ.
+
+601
+00:35:34,000 --> 00:35:36,800
+[DECKARD]
+How about under the couch there. Come on.
+ຈະເປັນແນວໃດພາຍໃຕ້ໂຊຟນຢູ່ບ່ອນນັ້ນ. ມາແລ້ວ.
+
+602
+00:35:37,300 --> 00:35:39,300
+[RACHAEL]
+This feels stupid.
+ມັນຮູ້ສຶກໂງ່.
+
+603
+00:35:39,800 --> 00:35:44,000
+[DECKARD]
+Good for a smart girl to feel stupid.  Part of your education.
+ດີ ສໍາ ລັບເດັກຍິງທີ່ສະຫຼາດທີ່ຈະຮູ້ສຶກໂງ່
+. ສ່ວນ ຫນຶ່ງ ຂອງການສຶກສາຂອງທ່ານ.
+
+604
+00:35:44,500 --> 00:35:46,500
+[RACHAEL]
+You're sick, Deckard.
+ເຈົ້າເຈັບປ່ວຍ, ເດກາດ.
+
+605
+00:35:47,000 --> 00:35:49,000
+[DECKARD]
+I never felt better.
+ຂ້ອຍບໍ່ເຄີຍຮູ້ສຶກດີຂຶ້ນເລີຍ.
+
+606
+00:35:49,500 --> 00:35:51,500
+[STYLES]
+Okay, I'll take that now.
+ດີ, ຂ້ອຍຈະເອົາມັນດຽວນີ້.
+
+607
+00:35:52,000 --> 00:35:54,000
+[SEBASTIAN]
+Wait!
+ລໍຖ້າ!
+
+608
+00:35:54,500 --> 00:35:56,500
+[SEBASTIAN]
+Can't fly without the pilot.
+ບໍ່ສາມາດບິນໄດ້ໂດຍບໍ່ມີນັກບິນ.
+
+609
+00:35:57,000 --> 00:35:59,000
+[IAN]
+Oh!
+ໂອ້!
+
+610
+00:35:59,500 --> 00:36:01,500
+[IAN]
+Papa!  Did you make this?
+ພໍ່! ເຈົ້າເຮັດສິ່ງນີ້ບໍ?
+
+611
+00:36:02,000 --> 00:36:05,150
+[TYRELL]
+No.  We can make man, but not a griffon.
+ບໍ່. ພວກເຮົາສາມາດເຮັດໃຫ້ຜູ້ຊາຍໄດ້, ແຕ່ບໍ່ແມ່ນກຣີຟອນ.
+
+612
+00:36:05,650 --> 00:36:08,800
+[TYRELL]
+Have to give the cottage industry a chance too.
+ຂ້ອຍຕ້ອງໃຫ້ໂອກາດແກ່ອຸດສາຫະກໍາເຮືອນຊານເຊັ່ນກັນ.
+
+613
+00:36:09,300 --> 00:36:11,300
+[TYRELL]
+A friend of yours, Sebastian?
+ເພື່ອນຂອງເຈົ້າ, ເຊເບສຕຽນບໍ?
+
+614
+00:36:11,800 --> 00:36:16,000
+[SEBASTIAN]
+Yes, this is someone who wants to talk to you, Dr. Tyrell.
+ແມ່ນແລ້ວ, ນີ້ແມ່ນຄົນຫນຶ່ງທີ່ຢາກເວົ້າກັບເຈົ້າ, ດຣ ໄຕເຣລ.
+
+615
+00:36:16,500 --> 00:36:18,600
+[BATTY]
+The name is Batty.  Roy Batty.
+ຊື່ວ່າ ບາຕີ. ໂຣຍ ບາຕິ.
+
+616
+00:36:19,100 --> 00:36:21,100
+[TYRELL]
+Oh?
+ໂອ້?
+
+617
+00:36:21,600 --> 00:36:26,850
+[BATTY]
+To act without understanding could lead to the very thing the act seeks to avoid.
+ການກະທໍາໂດຍບໍ່ມີຄວາມເຂົ້າໃຈອາດຈະພາໃຫ້ເກີດສິ່ງດຽວກັນທີ່ການກະທໍາພະຍາຍາມຫຼີກເວັ້ນ
+.
+
+618
+00:36:27,350 --> 00:36:29,800
+[BATTY]
+A little talk it all I need.
+ຂ້ອຍຕ້ອງການເວົ້າພຽງເລັກນ້ອຍເທົ່ານັ້ນ.
+
+619
+00:36:30,300 --> 00:36:33,100
+[TYRELL]
+Would you like to talk in private then.
+ເຈົ້າຢາກເວົ້າໃນສ່ວນຕົວບໍ?
+
+620
+00:36:33,600 --> 00:36:39,200
+[BATTY]
+Yeah.  It might be better if we talk in private, Sebastian.  Why don't you go home.
+ແມ່ນແລ້ວ. ມັນອາດຈະດີກວ່າຖ້າພວກເຮົາເວົ້າໃນສ່ວນຕົວ
+, ເຊເບສຕຽນ. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ກັບບ້ານ.
+
+621
+00:36:39,700 --> 00:36:42,150
+[TYRELL]
+Here's your check, my boy.  Thank you.
+ນີ້ແມ່ນໃບຢັ້ງຢືນຂອງທ່ານ, ລູກຊາຍຂອງຂ້ອຍ. ຂອບໃຈ.
+
+622
+00:36:42,650 --> 00:36:45,450
+[SEBASTIAN]
+Thank you, Dr. Tyrell.  I'll see you later.
+ຂອບໃຈດຣ ໄຕເຣລ. ຂ້ອຍຈະເຫັນເຈົ້າຕໍ່ມາ.
+
+623
+00:36:45,950 --> 00:36:47,950
+[SEBASTIAN]
+Was everything okay?
+ທຸກຢ່າງດີບໍ?
+
+624
+00:36:48,450 --> 00:36:50,450
+[TYRELL]
+Just beautiful.
+ພຽງແຕ່ສວຍງາມ.
+
+625
+00:36:50,950 --> 00:36:53,750
+[TYRELL]
+I'm surprised you didn't come to me sooner.
+ຂ້ອຍແປກໃຈວ່າເຈົ້າບໍ່ໄດ້ມາຫາຂ້ອຍກ່ອນ.
+
+626
+00:36:54,250 --> 00:36:57,400
+[BATTY]
+It's not an easy thing to meet your maker.
+ມັນບໍ່ແມ່ນເລື່ອງງ່າຍທີ່ຈະພົບກັບຜູ້ສ້າງຂອງທ່ານ.
+
+627
+00:36:57,900 --> 00:37:00,350
+[TYRELL]
+And what can he do for you?
+ແລະລາວສາມາດເຮັດຫຍັງໄດ້ ສໍາ ລັບເຈົ້າ?
+
+628
+00:37:00,850 --> 00:37:03,300
+[BATTY]
+Can the maker repair what he makes?
+ຜູ້ສ້າງສາມາດສ້ອມແປງສິ່ງທີ່ລາວເຮັດໄດ້ບໍ?
+
+629
+00:37:03,800 --> 00:37:05,900
+[TYRELL]
+Would you like to be modified?
+ເຈົ້າຢາກຖືກປັບປຸງບໍ?
+
+630
+00:37:06,400 --> 00:37:09,200
+[BATTY]
+Had in mind something a little more radical.
+ຂ້ອຍຄິດບາງສິ່ງບາງຢ່າງທີ່ຮຸນແຮງກວ່າເກົ່າ.
+
+631
+00:37:09,700 --> 00:37:11,700
+[TYRELL]
+What's the problem?
+ບັນຫາຫຍັງ?
+
+632
+00:37:12,200 --> 00:37:14,200
+[BATTY]
+Death.
+ຄວາມຕາຍ.
+
+633
+00:37:14,700 --> 00:37:17,500
+[TYRELL]
+I'm afraid that's a little out of my...
+ຂ້ອຍຢ້ານວ່າມັນອອກຈາກຂ້ອຍ ຫນ້ອຍ ຫນຶ່ງ...
+
+634
+00:37:18,000 --> 00:37:20,000
+[BATTY]
+I want more life, fucker.
+ຂ້ອຍຢາກມີຊີວິດຫຼາຍຂຶ້ນ, ຄົນໂຊກຮ້າຍ.
+
+635
+00:37:20,500 --> 00:37:22,500
+[TYRELL]
+Come here.
+ມາບ່ອນນີ້.
+
+636
+00:37:23,000 --> 00:37:25,000
+[TYRELL]
+Sit down.
+ນັ່ງລົງ.
+
+637
+00:37:25,500 --> 00:37:31,500
+[TYRELL]
+The facts of life.  I'll be blunt. To make an alteration in the evolvement of an organic life system, at least by men, makers or not, it fatal.  A coding sequence can't be revised once it's established.
+ຄວາມຈິງຂອງຊີວິດ. ຂ້ອຍຈະເວົ້າຢ່າງກົງກັນຂ້າມ. ເພື່ອເຮັດໃຫ້ການປ່ຽນແປງໃນການພັດທະນາຂອງລະບົບຊີວິດຊີວະພາບ,
+ຢ່າງຫນ້ອຍໂດຍຜູ້ຊາຍ, ຜູ້ສ້າງຫຼືບໍ່, ມັນເປັນອັນຕະລາຍ. ລໍາດັບລະຫັດບໍ່ສາມາດປັບປຸງໄດ້ເມື່ອມັນຖືກສ້າງຕັ້ງຂຶ້ນ.
+
+638
+00:37:32,000 --> 00:37:34,000
+[BATTY]
+Why?
+ເປັນຫຍັງ?
+
+639
+00:37:34,500 --> 00:37:40,500
+[TYRELL]
+Because by the second day of incubation any cells that have undergone reversion mutation give rise to revertant colonies -- like rats leaving a sinking ship.  The ship sinks.
+ເພາະວ່າໃນມື້ທີສອງຂອງການກັ່ນຕອງຈຸລັງໃດໆທີ່ໄດ້ຜ່ານການປ່ຽນແປງການກັບຄືນໄປບ່ອນເຮັດໃຫ້ເກີດເປັນຄລູເນຍທີ່ກັບຄືນມາ
+- ຄືກັບແມວອອກຈາກເຮືອທີ່ລົ້ມ. ເຮືອລົ້ມລົງ.
+
+640
+00:37:41,000 --> 00:37:43,000
+[BATTY]
+What about E.M.S. recombination?
+ຈະເປັນແນວໃດກັບການປະສົມປະສານ EMS?
+
+641
+00:37:43,500 --> 00:37:49,500
+[TYRELL]
+We've already tried it -- ethyl methane sulfonate is an alkylating agent and a potent mutagen -- it creates a virus so lethal the subject was destroyed before we left the table.
+ພວກເຮົາໄດ້ພະຍາຍາມມັນແລ້ວ - ເອທິລ ເມຕານ ຊູຟອນາຕ໌ແມ່ນຕົວແທນແອລໄຄລ໌ແລະຕົວປ່ຽນແປງທີ່ເຂັ້ມແຂງ
+- ມັນສ້າງໄວຣັສທີ່ຮ້າຍແຮງຫຼາຍຫົວຂໍ້ໄດ້ຖືກ ທໍາ ລາຍກ່ອນທີ່ພວກເຮົາອອກຈາກໂຕະ.
+
+642
+00:37:50,000 --> 00:37:53,150
+[BATTY]
+Then a repressor protein that blocks the operating cells.
+ຫຼັງຈາກນັ້ນໂປຣຕີນຄວບຄຸມທີ່ກີດຂວາງຈຸລັງທີ່ເຮັດວຽກ.
+
+643
+00:37:53,650 --> 00:37:59,650
+[TYRELL]
+Wouldn't obstruct replication, but it does give rise to an error in replication, so that the newly formed DNA strand carries a mutation and you're got a virus again... but all this is academic -- you are made as good as we could make you.
+ມັນຈະບໍ່ກີດຂວາງການ ສໍາ ເນົາ, ແຕ່ມັນເຮັດໃຫ້ເກີດຄວາມຜິດພາດໃນການ ສໍາເນົາ, ເພື່ອວ່າສາຍ DNA ທີ່ສ້າງຕັ້ງຂຶ້ນໃຫມ່ຖືການປ່ຽນແປງແລະເຈົ້າມີໄວຣັສອີກຄັ້ງ
+... ແຕ່ສິ່ງທັງ ຫມົດ ນີ້ແມ່ນວິທະຍາສາດ - ເຈົ້າຖືກເຮັດໃຫ້ດີເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໃຫ້ເຈົ້າໄດ້.
+
+644
+00:38:00,150 --> 00:38:02,150
+[BATTY]
+But not to last.
+ແຕ່ບໍ່ແມ່ນເພື່ອຍືນຍົງ.
+
+645
+00:38:02,650 --> 00:38:08,650
+[TYRELL]
+Put it this way.  Rolls Royces are made to last -- as least they were. But I'm afraid you're a Ferrari. A high strung racing car -- built to win, not to last.
+ເວົ້າມັນແບບນີ້. ໂຣລສ ໂຣຍສ໌ຖືກສ້າງຂຶ້ນເພື່ອຍືນຍົງ - ຢ່າງຫນ້ອຍພວກເຂົາແມ່ນ.
+ແຕ່ຂ້ອຍຢ້ານວ່າເຈົ້າເປັນຟາຣາຣີ. ລົດແຂ່ງຂັນທີ່ມີສາຍສູງ - ສ້າງຂຶ້ນເພື່ອຊະນະ, ບໍ່ແມ່ນເພື່ອຍາວນານ.
+
+646
+00:38:09,150 --> 00:38:11,600
+[TYRELL]
+Also you're too valuable to experiment with.
+ນອກຈາກນັ້ນເຈົ້າມີຄຸນຄ່າຫຼາຍເກີນໄປທີ່ຈະທົດລອງກັບ.
+
+647
+00:38:12,100 --> 00:38:14,100
+[BATTY]
+I am?
+ຂ້ອຍເປັນບໍ?
+
+648
+00:38:14,600 --> 00:38:20,600
+[TYRELL]
+The bast of all possible androids. We're proud of our prodigal son -- glad you're returned.  You're quite a prize.
+ພວກເຮົາຍິ່ງພາກພູມໃຈກັບລູກຊາຍທີ່ເສຍຫາຍຂອງພວກເຮົາ
+- ດີໃຈທີ່ເຈົ້າກັບມາ. ເຈົ້າເປັນລາງວັນທີ່ແທ້ຈິງ.
+
+649
+00:38:21,100 --> 00:38:23,100
+[BATTY]
+I've done some questionable things.
+ຂ້ອຍເຄີຍເຮັດບາງສິ່ງບາງຢ່າງທີ່ສົງໄສ.
+
+650
+00:38:23,600 --> 00:38:25,600
+[TYRELL]
+Also extraordinary things.
+ນອກຈາກນັ້ນສິ່ງພິເສດອີກດ້ວຍ.
+
+651
+00:38:26,100 --> 00:38:29,950
+[BATTY]
+Nothing the God of biomechanics wouldn't let you in heaven for.
+ບໍ່ມີຫຍັງທີ່ພະເຈົ້າຂອງຊີວະພາບຈະບໍ່ປ່ອຍໃຫ້ເຈົ້າເຂົ້າໄປໃນສະຫວັນ
+ສໍາ ລັບ.
+
+652
+00:38:30,450 --> 00:38:33,250
+[BATTY]
+Could you tell me where the bathroom is?
+ເຈົ້າບອກຂ້ອຍວ່າຫ້ອງນ້ ໍາ ຢູ່ໃສ?
+
+653
+00:38:33,750 --> 00:38:35,750
+[MRS. TYRELL]
+May I help you?
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ບໍ?
+
+654
+00:38:36,250 --> 00:38:42,250
+[DECKARD]
+She'd never seen the great outdoors. Never even seen books on the subject.  She went through everything I had, and we talked. And there were subjects we didn't discuss and they were words we didn't say, I couldn't say, like death, like future, like real.  But it was hard because she was curious and full of questions.  She was more alive than anyone I'd ever known.
+ນາງບໍ່ເຄີຍເຫັນພາຍນອກທີ່ຍິ່ງໃຫຍ່ເລີຍ. ບໍ່ເຄີຍເຫັນປື້ມກ່ຽວກັບຫົວຂໍ້ເລີຍ. ນາງໄດ້ຜ່ານທຸກຢ່າງທີ່ຂ້ອຍມີ, ແລະພວກເຮົາໄດ້ເວົ້າ. ແລະມີຫົວຂໍ້ທີ່ພວກເຮົາບໍ່ໄດ້ປຶກສາຫາລືແລະພວກມັນແມ່ນ ຄໍາ
+ທີ່ພວກເຮົາບໍ່ໄດ້ເວົ້າ, ຂ້ອຍບໍ່ສາມາດເວົ້າໄດ້, ເຊັ່ນວ່າຄວາມຕາຍ, ຄືກັບອະນາຄົດ, ຄ້າຍຄືກັບຄວາມເປັນຈິງ. ແຕ່ມັນຍາກເພາະວ່ານາງມີຄວາມຢາກຮູ້ສຶກແລະເຕັມໄປດ້ວຍ ຄໍາ ຖາມ. ນາງມີຊີວິດຫຼາຍກ່ວາໃຜທີ່ຂ້ອຍເຄີຍຮູ້ຈັກ.
+
+655
+00:38:42,750 --> 00:38:45,200
+[RACHAEL]
+You and I are good friends, huh?
+ເຈົ້າແລະຂ້ອຍເປັນເພື່ອນທີ່ດີ, ແມ່ນບໍ?
+
+656
+00:38:45,700 --> 00:38:47,700
+[RACHAEL]
+It's so easy.
+ມັນງ່າຍຫຼາຍ.
+
+657
+00:38:48,200 --> 00:38:51,000
+[RACHAEL]
+Have you ever known anybody a long time?
+ເຈົ້າເຄີຍຮູ້ຈັກໃຜດົນນານບໍ?
+
+658
+00:38:51,500 --> 00:38:53,500
+[DECKARD]
+You mean a woman?
+ເຈົ້າຫມາຍຄວາມວ່າເປັນແມ່ຍິງບໍ?
+
+659
+00:38:54,000 --> 00:38:56,000
+[RACHAEL]
+Uh-huh.
+ໂອ້.
+
+660
+00:38:56,500 --> 00:38:58,500
+[DECKARD]
+What's a long time?
+ເປັນເວລາດົນປານໃດ?
+
+661
+00:38:59,000 --> 00:39:01,000
+[RACHAEL]
+Ten years.
+ສິບປີ.
+
+662
+00:39:01,500 --> 00:39:03,950
+[DECKARD]
+Nope.  Nobody could stand me that long.
+ບໍ່. ບໍ່ມີໃຜສາມາດທົນທານຂ້ອຍໄດ້ດົນປານໃດ.
+
+663
+00:39:04,450 --> 00:39:06,450
+[DECKARD]
+Yeah.
+ແມ່ນແລ້ວ.
+
+664
+00:39:06,950 --> 00:39:09,050
+[BRYANT]
+This is Bryant.  Are you alone?
+ນີ້ແມ່ນບຣາຍນ໌. ເຈົ້າຢູ່ຄົນດຽວບໍ?
+
+665
+00:39:09,550 --> 00:39:11,550
+[DECKARD]
+Yeah.
+ແມ່ນແລ້ວ.
+
+666
+00:39:12,050 --> 00:39:14,050
+[BRYANT]
+She's not with you?
+ນາງບໍ່ໄດ້ຢູ່ກັບເຈົ້າບໍ?
+
+667
+00:39:14,550 --> 00:39:16,550
+[DECKARD]
+Who.
+ໃຜ.
+
+668
+00:39:17,050 --> 00:39:21,250
+[BRYANT]
+Take a number.  Canapt 1700, tenth floor, Villa Vita District, Olympia South.
+ເອົາຕົວເລກ. Canapt 1700, ຊັ້ນທີສິບ, ເຂດວິລາວີຕາ, ໂອລິມປິກໃຕ້.
+
+669
+00:39:21,750 --> 00:39:23,750
+[DECKARD]
+Got it.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+670
+00:39:24,250 --> 00:39:30,250
+[BRYANT]
+Okay, here it is.  Eldon Tyrell, his family and half his staff were just massacred.  The cat is about to get out of the bag.  Pressure is definitely on.  The Nexus program is terminated.  When you finish there, locate Nexus designated Rachael and retire.
+ດີແລ້ວ, ມັນຢູ່ບ່ອນນີ້. ເອລດອນ ໄຕເຣລ, ຄອບຄົວຂອງລາວແລະເຄິ່ງຄົນງານຂອງລາວຫາກໍ່ຖືກຂ້າຕາຍ. ແມວ ກໍາ ລັງຈະອອກຈາກຖົງ.
+ຄວາມກົດດັນແມ່ນແນ່ນອນ. ໂຄງການເນັກຊັສຖືກສິ້ນສຸດລົງ. ເມື່ອເຈົ້າຈົບຢູ່ບ່ອນນັ້ນ, ຊອກຫາເນັກສັສທີ່ກໍານົດໄວ້ ຣາເຊວແລະອອກພັກຜ່ອນ.
+
+671
+00:39:30,750 --> 00:39:36,750
+[BRYANT]
+If you don't, we will.  It has to be total, Deckard.  That's an order from as high as it comes.  Got it?
+ຖ້າເຈົ້າບໍ່ເຮັດ, ພວກເຮົາຈະເຮັດ. ມັນຕ້ອງເປັນທັງ ຫມົດ,
+ເດກາດ. ນັ້ນແມ່ນຄໍາສັ່ງຈາກສູງສຸດທີ່ມັນມາ. ເຂົ້າໃຈບໍ?
+
+672
+00:39:37,250 --> 00:39:39,250
+[DECKARD]
+Yeah.  I got it.
+ແມ່ນແລ້ວ. ຂ້ອຍເຮັດແລ້ວ.
+
+673
+00:39:39,750 --> 00:39:41,750
+[BRYANT]
+Go.
+ໄປ.
+
+674
+00:39:42,250 --> 00:39:46,450
+[RACHAEL]
+Why do you call it retire, why don't you call it murder?
+ເຈົ້າເອີ້ນມັນວ່າບໍານານເປັນຫຍັງ,
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເອີ້ນວ່າມັນວ່າການຄາດຕະກໍາ?
+
+675
+00:39:46,950 --> 00:39:48,950
+[DECKARD]
+Because it's not.
+ເພາະມັນບໍ່ແມ່ນ.
+
+676
+00:39:49,450 --> 00:39:53,300
+[RACHAEL]
+Don't you think anything that can suffer deserves to be considered?
+ເຈົ້າບໍ່ຄິດວ່າທຸກຢ່າງທີ່ສາມາດປະສົບກັບຄວາມທຸກທໍລະມານຄວນພິຈາລະນາບໍ?
+
+677
+00:39:53,800 --> 00:39:57,300
+[DECKARD]
+Andies only simulate suffering -- if they're programmed for it.
+ແອນດີ້ພຽງແຕ່ ຈໍາ ລອງຄວາມທຸກທໍລະມານ
+- ຖ້າພວກເຂົາຖືກໂປແກຼມ ສໍາ ລັບມັນ.
+
+678
+00:39:57,800 --> 00:40:00,950
+[RACHAEL]
+Do you think I simulated what happened between us?
+ເຈົ້າຄິດວ່າຂ້ອຍເຮັດແບບວ່າເກີດຫຍັງຂຶ້ນລະຫວ່າງພວກເຮົາບໍ?
+
+679
+00:40:01,450 --> 00:40:03,450
+[DECKARD]
+No, I don't.
+ບໍ່, ຂ້ອຍບໍ່ເຮັດ.
+
+680
+00:40:03,950 --> 00:40:07,800
+[DECKARD]
+Don't leave here.  Don't open the door, don't answer the phone.
+ຢ່າອອກຈາກບ່ອນນີ້. ຢ່າເປີດປະຕູ, ຢ່າຕອບໂທລະສັບ.
+
+681
+00:40:08,300 --> 00:40:10,300
+[RACHAEL]
+What difference will it make?
+ມັນຈະມີຄວາມແຕກຕ່າງຫຍັງ?
+
+682
+00:40:10,800 --> 00:40:12,800
+[DECKARD]
+Just wait here.
+ພຽງແຕ່ລໍຖ້າຢູ່ບ່ອນນີ້.
+
+683
+00:40:13,300 --> 00:40:15,300
+[RACHAEL]
+You know what I think?
+ເຈົ້າຮູ້ວ່າຂ້ອຍຄິດແນວໃດ?
+
+684
+00:40:15,800 --> 00:40:17,800
+[DECKARD]
+What?
+ຫຍັງ?
+
+685
+00:40:18,300 --> 00:40:22,500
+[RACHAEL]
+That some of the folks around here are more programmed then me.
+ວ່າບາງຄົນຢູ່ບ່ອນນີ້ມີໂປແກຼມຫຼາຍກ່ວາຂ້ອຍ.
+
+686
+00:40:23,000 --> 00:40:25,100
+[RACHAEL]
+You know what else I think?
+ເຈົ້າຮູ້ວ່າຂ້ອຍຄິດຫຍັງອີກບໍ?
+
+687
+00:40:25,600 --> 00:40:27,600
+[DECAKRD]
+What?
+ຫຍັງ?
+
+688
+00:40:28,100 --> 00:40:30,900
+[RACHAEL]
+This was the best day of my life.
+ນີ້ແມ່ນມື້ທີ່ດີທີ່ສຸດໃນຊີວິດຂອງຂ້ອຍ.
+
+689
+00:40:31,400 --> 00:40:33,850
+[MARY]
+Let's go while there is still time.
+ໄປກ່ອນທີ່ຍັງມີເວລາ.
+
+690
+00:40:34,350 --> 00:40:36,350
+[BATTY]
+Where?
+ຢູ່ໃສ?
+
+691
+00:40:36,850 --> 00:40:38,850
+[MARY]
+Anywhere.
+ທຸກບ່ອນ.
+
+692
+00:40:39,350 --> 00:40:41,350
+[BATTY]
+What's the point?
+ຈຸດປະສົງແມ່ນຫຍັງ?
+
+693
+00:40:41,850 --> 00:40:43,850
+[MARY]
+Not to be trapped.
+ບໍ່ໃຫ້ຖືກຈັບກຸມ.
+
+694
+00:40:44,350 --> 00:40:46,350
+[BATTY]
+You underestimate the trap, Mary.
+ເຈົ້າບໍ່ປະເມີນຄ່າແຄບ, ເມຣີ.
+
+695
+00:40:46,850 --> 00:40:48,850
+[BATTY]
+Where are you going, Sebastian?
+ເຈົ້າໄປໃສ, ເຊເບສຕຽນ?
+
+696
+00:40:49,350 --> 00:40:51,350
+[SEBASTIAN]
+Just thought I'd...
+ຂ້ອຍພຽງແຕ່ຄິດວ່າຂ້ອຍຈະ...
+
+697
+00:40:51,850 --> 00:40:55,350
+[BATTY]
+No, you stay here with us.  Out last night together.
+ບໍ່, ເຈົ້າຢູ່ບ່ອນນີ້ກັບພວກເຮົາ. ອອກໄປໃນມື້ວານນີ້ຮ່ວມກັນ.
+
+698
+00:40:55,850 --> 00:41:00,050
+[BATTY]
+Think of yourself as a light, Mary. Shine before you're turned off.
+ຄິດຕົວເອງວ່າເປັນແສງສະຫວ່າງ, ເມຣີ. ແສງກ່ອນທີ່ທ່ານຈະຖືກປິດ.
+
+699
+00:41:00,550 --> 00:41:02,550
+[SEBASTIAN]
+Someone is coming here.
+ມີຄົນມາບ່ອນນີ້.
+
+700
+00:41:03,050 --> 00:41:05,150
+[BATTY]
+One man.  He must be good.
+ຜູ້ຊາຍຄົນດຽວ. ລາວຕ້ອງດີ.
+
+701
+00:41:05,650 --> 00:41:07,650
+[MARY]
+Then go get him.
+ຫຼັງຈາກນັ້ນໄປເອົາລາວ.
+
+702
+00:41:08,150 --> 00:41:10,150
+[BATTY]
+That wouldn't be very sporting.
+ນັ້ນຈະບໍ່ເປັນການກິລາຫຼາຍ.
+
+703
+00:41:10,650 --> 00:41:12,650
+[PRIS]
+I want to do it.
+ຂ້ອຍຢາກເຮັດມັນ.
+
+704
+00:41:13,150 --> 00:41:17,350
+[BATTY]
+Okay, but don't kill him.  Save a little for everybody.  A masterpiece.
+ດີແລ້ວ, ແຕ່ຢ່າຂ້າລາວ. ປະຢັດ ຫນ້ອຍ ຫນຶ່ງ
+ສໍາ ລັບທຸກຄົນ. ເປັນຜົນງານທີ່ຍິ່ງໃຫຍ່.
+
+705
+00:41:17,850 --> 00:41:19,850
+[BATTY]
+Turn out the lights, Pris.
+ປິດແສງສະຫວ່າງ, ປຣີສ.
+
+706
+00:41:20,350 --> 00:41:22,350
+[PRIS]
+Naughty, naughty.
+ບໍ່ດີ, ບໍ່ດີ.
+
+707
+00:41:22,850 --> 00:41:24,850
+[DECKARD]
+Hello, Roy.
+ສະບາຍດີ ໂຣຍ.
+
+708
+00:41:25,350 --> 00:41:27,350
+[BATTY]
+You wanna play?
+ເຈົ້າຢາກຫຼິ້ນບໍ?
+
+709
+00:41:27,850 --> 00:41:33,850
+[BATTY]
+Not very sporting to fire on an unarmed opponent.  I thought you were supposed to be good.  Aren't you the man?!
+ບໍ່ເປັນກິລາຫຼາຍທີ່ຈະຍິງຕໍ່ຄູ່ແຂ່ງທີ່ບໍ່ມີອາວຸດ
+. ຂ້ອຍຄິດວ່າເຈົ້າຄວນດີ. ເຈົ້າບໍ່ແມ່ນຜູ້ຊາຍບໍ?!
+
+710
+00:41:34,350 --> 00:41:38,200
+[BATTY]
+This is how we do it up there, lad! Come on!
+ນີ້ແມ່ນວິທີທີ່ພວກເຮົາເຮັດມັນຢູ່ເທິງນັ້ນ, ເດັກຊາຍ! ມາ!
+
+711
+00:41:38,700 --> 00:41:44,700
+[BATTY]
+Not hurt, are you?  You better get it up or I'm going to have to kill you.  Unless you're alive you can't play.  And if you don't play, you don't get to be alive.
+ເຈົ້າບໍ່ເຈັບປວດ, ແມ່ນບໍ? ເຈົ້າດີກວ່າຈະເອົາມັນຂຶ້ນຫຼືຂ້ອຍຈະຕ້ອງຂ້າເຈົ້າ.
+ເວັ້ນເສຍແຕ່ວ່າເຈົ້າຍັງມີຊີວິດຢູ່ເຈົ້າບໍ່ສາມາດຫຼິ້ນໄດ້. ແລະຖ້າເຈົ້າບໍ່ຫຼິ້ນ, ເຈົ້າບໍ່ສາມາດຢູ່ອາໄສໄດ້.
+
+712
+00:41:45,200 --> 00:41:47,200
+[BATTY]
+That's the spirit.
+ນັ້ນແມ່ນຈິດໃຈ.
+
+713
+00:41:47,700 --> 00:41:53,700
+[BATTY'S VOICE]
+Come on, Deckard, show me what you got!  I'm right here on the other side of the door.  But you gotta shoot straight 'cause I'm fast!
+ມາແລ້ວ, ເດຄາດ, ສະແດງໃຫ້ຂ້ອຍເຫັນວ່າເຈົ້າມີຫຍັງ!
+ຂ້ອຍຢູ່ບ່ອນນີ້ຢູ່ທາງອື່ນຂອງປະຕູ. ແຕ່ເຈົ້າຕ້ອງຍິງໂດຍກົງເພາະວ່າຂ້ອຍໄວ!
+
+714
+00:41:54,200 --> 00:41:56,650
+[BATTY]
+Straight doesn't seem to be good enough.
+ການກົງກັນຂ້າມເບິ່ງຄືວ່າບໍ່ດີພໍ.
+
+715
+00:41:57,150 --> 00:41:59,600
+[BATTY]
+You don't have a chance, do you?
+ເຈົ້າບໍ່ມີໂອກາດ, ແມ່ນບໍ?
+
+716
+00:42:00,100 --> 00:42:06,100
+[BATTY]
+Looks like I'm gonna have to scale it down for you.  Give you a handicap.  I won't run through any more walls.  Okay?  I promise to use the doors.  Okay?
+ເບິ່ງຄືວ່າຂ້ອຍຈະຕ້ອງຫຼຸດລົງມັນ ສໍາ ລັບເຈົ້າ. ໃຫ້ເຈົ້າຄວາມພິການ.
+ຂ້ອຍຈະບໍ່ແລ່ນຜ່ານກໍາແພງອີກຕໍ່ໄປ. ດີບໍ? ຂ້ອຍສັນຍາວ່າຈະໃຊ້ປະຕູ. ດີບໍ່?
+
+717
+00:42:06,600 --> 00:42:08,700
+[BATTY]
+Come on, let's use that brain!
+ມາແລ້ວ, ໃຫ້ໃຊ້ສະຫມອງນັ້ນ!
+
+718
+00:42:09,200 --> 00:42:12,000
+[BATTY]
+Think!  We need a little resilience around here!
+ຄິດ! ພວກເຮົາຕ້ອງການຄວາມທົນທານ ຫນ້ອຍ ຫນຶ່ງ ຢູ່ບ່ອນນີ້!
+
+719
+00:42:12,500 --> 00:42:16,350
+[BATTY]
+Where are those balls of yours?! Let's see a little bravery!
+ບານຂອງເຈົ້າຢູ່ໃສ?! ມາເບິ່ງຄວາມກ້າຫານ ຫນ້ອຍ ຫນຶ່ງ!
+
+720
+00:42:16,850 --> 00:42:21,400
+[BATTY]
+That was irrational of me -- not to mention unsportsmanlike.  Won't happen again.
+ນັ້ນແມ່ນຄວາມບໍ່ສົມເຫດສົມຜົນຈາກຂ້ອຍ -
+ບໍ່ເວົ້າເຖິງການບໍ່ເປັນນັກກິລາ. ຈະບໍ່ເກີດຂຶ້ນອີກເທື່ອຫນຶ່ງ.
+
+721
+00:42:21,900 --> 00:42:24,700
+[BATTY]
+I'll be down the hall when you're ready.
+ຂ້ອຍຈະຢູ່ລຸ່ມທາງເດີ່ນເມື່ອເຈົ້າພ້ອມແລ້ວ.
+
+722
+00:42:25,200 --> 00:42:27,200
+[BATTY]
+Where you going?
+ເຈົ້າໄປໃສ?
+
+723
+00:42:27,700 --> 00:42:33,700
+[BATTY]
+No cheating.  A promise is a promise.  I'll honor the handicapped, but we gotta play on the top floor.  You go get your laser gun now.  And I'll give you a few seconds before I come.
+ບໍ່ຕ້ອງຫຼອກລວງ. ຄໍາ ຫມັ້ນ ສັນຍາແມ່ນຄໍາຫມັ້ນສັນຍາ. ຂ້ອຍຈະເຄົາລົບຄົນພິການ, ແຕ່ພວກເຮົາຕ້ອງຫຼິ້ນຢູ່ຊັ້ນເທິງ
+. ເຈົ້າໄປເອົາປືນເລເຊີຂອງທ່ານດຽວນີ້. ແລະຂ້ອຍຈະໃຫ້ເຈົ້າສອງສາມວິນາທີກ່ອນຂ້ອຍຈະມາ.
+
+724
+00:42:34,200 --> 00:42:36,200
+[BATTY'S VOICE]
+One!
+ຫນຶ່ງ!
+
+725
+00:42:36,700 --> 00:42:38,700
+[BATTY'S VOICE]
+Two!
+ສອງ!
+
+726
+00:42:39,200 --> 00:42:43,400
+[BATTY'S VOICE]
+No fair jumping through holes.  You might get hurt doing that!  THREE!
+ບໍ່ເປັນຄວາມຍຸຕິທໍາທີ່ຈະໂດດຜ່ານຮູ.
+ເຈົ້າອາດຈະເຈັບປວດເຮັດແບບນັ້ນ! ສາມ!
+
+727
+00:42:43,900 --> 00:42:45,900
+[BATTY]
+Five!
+ຫ້າ!
+
+728
+00:42:46,400 --> 00:42:48,400
+[BATTY]
+Six!
+ຫົກ!
+
+729
+00:42:48,900 --> 00:42:50,900
+[BATTY'S VOICE]
+Seven!
+ເຈັດ!
+
+730
+00:42:51,400 --> 00:42:55,950
+[BATTY]
+Oh, I wonder where he is.  Not in here, I don't think.  Eight!
+ໂອ້, ຂ້ອຍຢາກຮູ້ວ່າລາວຢູ່ໃສ. ບໍ່ແມ່ນຢູ່ນີ້, ຂ້ອຍບໍ່ຄິດ. ແປດ!
+
+731
+00:42:56,450 --> 00:42:58,900
+[BATTY]
+Maybe here.  Doesn't sound like it.  Nine!
+ບາງທີຢູ່ນີ້. ມັນບໍ່ເບິ່ງຄືວ່າມັນ. ສິບ!
+
+732
+00:42:59,400 --> 00:43:01,400
+[BATTY]
+Ten!
+ສິບ!
+
+733
+00:43:01,900 --> 00:43:03,900
+[BATTY]
+One point for you.
+ຈຸດຫນຶ່ງ ສໍາ ລັບເຈົ້າ.
+
+734
+00:43:04,400 --> 00:43:06,400
+[BATTY]
+Ho ho!  Try it again!
+ໂຮ ໂຮ! ພະຍາຍາມອີກຄັ້ງ!
+
+735
+00:43:06,900 --> 00:43:10,400
+[BATTY]
+What's wrong?  Don't you like me? I'm what we've made!
+ມີຫຍັງເກີດຂຶ້ນ? ເຈົ້າບໍ່ມັກຂ້ອຍບໍ? ຂ້ອຍເປັນສິ່ງທີ່ພວກເຮົາໄດ້ເຮັດ!
+
+736
+00:43:10,900 --> 00:43:14,750
+[BATTY]
+What's wrong?  Aren't you a lover of Faster, Bigger and Better?!
+ມີຫຍັງເກີດຂຶ້ນ? ເຈົ້າບໍ່ແມ່ນຄົນຮັກຂອງໄວຂຶ້ນ
+, ໃຫຍ່ກວ່າແລະດີກວ່າບໍ?!
+
+737
+00:43:15,250 --> 00:43:17,250
+[BATTY]
+It's time to die.
+ມັນເຖິງເວລາທີ່ຈະຕາຍແລ້ວ.
+
+738
+00:43:17,750 --> 00:43:19,750
+[BATTY]
+Ah!
+ໂອ້!
+
+739
+00:43:20,250 --> 00:43:22,250
+[BATTY]
+That's for you.
+ນັ້ນແມ່ນສໍາລັບເຈົ້າ.
+
+740
+00:43:22,750 --> 00:43:27,650
+[BATTY]
+Stick it in your ear and push. If that doesn't work, try the eye.
+ເອົາມັນໃສ່ຫູຂອງທ່ານແລະກົດດັນ. ຖ້າມັນບໍ່ເຮັດວຽກ, ພະຍາຍາມຕາ.
+
+741
+00:43:28,150 --> 00:43:32,700
+[BATTY]
+Believe me, it'll be better for you than what I'm about to do.
+ເຊື່ອຂ້ອຍ, ມັນຈະດີກວ່າ ສໍາ ລັບເຈົ້າກ່ວາສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງຈະເຮັດ.
+
+742
+00:43:33,200 --> 00:43:35,200
+[BATTY]
+Well?
+ດີບໍ?
+
+743
+00:43:35,700 --> 00:43:37,700
+[BATTY]
+Crap.
+ໂຊກຮ້າຍ.
+
+744
+00:43:38,200 --> 00:43:44,200
+[DECKARD]
+She wanted to go to a place I knew. Out of the city.  Like one of those pictures she saw.  Where there were trees but no buildings.
+ນາງຢາກໄປບ່ອນທີ່ຂ້ອຍຮູ້ຈັກ. ອອກຈາກເມືອງ.
+ຄືກັບຮູບທີ່ນາງເຫັນນັ້ນຫນຶ່ງ. ບ່ອນທີ່ມີຕົ້ນໄມ້ແຕ່ບໍ່ມີອາຄານ.
+
+745
+00:43:44,700 --> 00:43:50,700
+[DECKARD]
+We had a good time.  She told me a funny story and I taught her a song.  A song about monkeys and elephants.  And it made us laugh so hard we couldn't sing.
+ພວກເຮົາມີເວລາທີ່ດີ. ນາງບອກຂ້ອຍເລື່ອງທີ່ມ່ວນຊື່ນແລະຂ້ອຍສອນນາງເພງ.
+ເພງກ່ຽວກັບແມວແລະຊ້າງ. ແລະມັນເຮັດໃຫ້ພວກເຮົາມ່ວນຫຼາຍທີ່ພວກເຮົາບໍ່ສາມາດຮ້ອງໄດ້.
+
+746
+00:43:51,200 --> 00:43:56,450
+[DECKARD]
+I told myself over and over again, if I hadn't done it, they would have.
+ຂ້ອຍບອກຕົວເອງອີກເທື່ອຫນຶ່ງວ່າ
+ຖ້າຂ້ອຍບໍ່ໄດ້ເຮັດມັນ, ພວກເຂົາຈະເຮັດ.
+

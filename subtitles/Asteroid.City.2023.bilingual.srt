@@ -1,0 +1,5166 @@
+1
+00:00:10,000 --> 00:00:16,000
+[HOST]
+Tonight's program takes us backstage to witness first-hand the creation, start to finish, of a new play mounted on the American stage.
+ລາຍການໃນຄືນນີ້ພາພວກເຮົາໄປທາງຫຼັງເວທີເພື່ອເປັນພະຍານການສ້າງຂື້ນດ້ວຍມື ທໍາ
+ອິດ, ເລີ່ມຕົ້ນຈົນສິ້ນສຸດ, ຂອງບົດສະແດງ ໃຫມ່ ທີ່ຕິດຕັ້ງຢູ່ເວທີອາເມລິກາ.
+
+2
+00:00:16,500 --> 00:00:22,500
+[HOST]
+"Asteroid City" does not exist. It is an imaginary drama created expressly for this broadcast. The characters are fictional, the text hypothetical, the events an apocryphal fabrication -- but together they present an authentic account of the inner-workings of a modern theatrical production.
+"ເມືອງ Asteroid" ບໍ່ມີຢູ່. ມັນແມ່ນລະຄອນຈິນຕະນາການທີ່ສ້າງຂື້ນໂດຍສະເພາະ ສໍາ ລັບການອອກອາກາດນີ້. ຕົວລະຄອນແມ່ນເລື່ອງປອມ, ຂໍ້ຄວາມເປັນຄວາມຄິດເຫັນ
+, ເຫດການເປັນການຜະລິດ apcryphal - ແຕ່ຮ່ວມກັນພວກເຂົາ ນໍາ ສະ ເຫນີ ບັນທຶກທີ່ແທ້ຈິງກ່ຽວກັບການເຮັດວຽກພາຍໃນຂອງການຜະລິດລະຄອນທັນສະໄຫມ.
+
+3
+00:00:23,000 --> 00:00:26,150
+[HOST]
+Our story begins, of course, with an ink ribbon.
+ເລື່ອງຂອງພວກເຮົາເລີ່ມຕົ້ນດ້ວຍ, ແນ່ນອນ, ດ້ວຍສາຍແອວສີ.
+
+4
+00:00:26,650 --> 00:00:32,650
+[HOST]
+Conrad Earp, playwright, native of upper Wyoming. Well-known for his romantic/ poetic tapestries of life west of the Rocky Mountains.
+ຄອນຣາດ ເອຣັບ, ນັກຂຽນລະຄອນ, ເກີດຈາກເຂດເທິງຂອງວາຍໂອມິງ. ເປັນທີ່ຮູ້ຈັກກັນດີ
+ສໍາ ລັບກະທູ້ຄວາມຮັກ / ກະທູ້ຂອງຊີວິດຂອງລາວທາງທິດຕາເວັນຕົກຂອງພູຫີນຫີນ.
+
+5
+00:00:33,150 --> 00:00:38,400
+[HOST]
+There is little amusement to be had, however, in watching a man type. Skip  2.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ມີຄວາມມ່ວນຊື່ນ ຫນ້ອຍ
+ທີ່ສາມາດມີໄດ້, ໃນການເບິ່ງຜູ້ຊາຍປະເພດ. skip 2.
+
+6
+00:00:38,900 --> 00:00:44,900
+[HOST]
+-- and join our company as they take the stage for their first read-through rehearsal. Location: the Tarkington Theatre, 345 South Northwest Avenue.
+- ແລະເຂົ້າຮ່ວມບໍລິສັດຂອງພວກເຮົາໃນຂະນະທີ່ພວກເຂົາຂຶ້ນເວທີ ສໍາ ລັບການທົດລອງອ່ານຜ່ານຄັ້ງ
+ທໍາ ອິດຂອງພວກເຂົາ. ສະຖານທີ່: ໂຮງລະຄອນຕາກິງຕັນ, 345 ຖະຫນົນທາງພາກໃຕ້ພາກເຫນືອຕາເວັນຕົກ.
+
+7
+00:00:45,400 --> 00:00:49,950
+[PLAYWRIGHT]
+Curtain rises on a desert bus-stop halfway between Parched Gulch and Arid Plains.
+ກະຕ່າຂຶ້ນຢູ່ບ່ອນຢຸດລົດເມທະເລຊາຍເຄິ່ງທາງລະຫວ່າງ
+Parched Gulch ແລະ Plains Arid.
+
+8
+00:00:50,450 --> 00:00:55,700
+[PLAYWRIGHT]
+Main scenography includes: a twelve-stool luncheonette, a one-pump filling station, and a ten-cabin motor-court hotel.
+ຮູບພາບການສະແດງຕົ້ນຕໍປະກອບມີ: ໂຕະອາຫານທ່ຽງທີ່ມີຕັ່ງສິບສອງຄົນ
+, ສະຖານີເຕີມນ້ ໍາ ຫນຶ່ງ ເຄື່ອງ, ແລະໂຮງແຮມລົດຈັກສິບຫ້ອງ.
+
+9
+00:00:56,200 --> 00:01:02,200
+[PLAYWRIGHT]
+Up-stage left: the Tomahawk Mountains . Up-stage right: an unfinished highway overpass which vaults up twenty feet then chops off mid-air behind a permanent road- block. Down-front: an impact crater a hundred feet in depth and diameter encircled by a low Little League-variety chainlink fence. Off-stage, distant: a 650-car freight train which click-clacks by at five miles an hour. Note to chief electrician: 3.
+ຢູ່ເທິງເວທີຊ້າຍ: ພູໂຕະໂມຮັອກ. ຢູ່ທາງຂວາເວທີ: ຂົວຂ້າມທາງດ່ວນທີ່ຍັງບໍ່ສໍາເລັດທີ່ກະຕຸ້ນຂຶ້ນສິບແມັດຫຼັງຈາກນັ້ນຕັດອອກຈາກກາງອາກາດຢູ່ເບື້ອງຫຼັງບລັອກທາງຖາວອນ. ຢູ່ລຸ່ມຫນ້າ
+: ກະຕຸ້ນຜົນກະທົບທີ່ມີຄວາມເລິກແລະເສັ້ນຜ່າກາງ ຫນຶ່ງ ຮ້ອຍແມັດທີ່ອ້ອມຮອບໂດຍແຄບເຊື່ອມຕໍ່ຕ່ ໍາ ຂອງປະເພດ Little League. ນອກເວທີ, ຫ່າງໄກ: ລົດໄຟຂົນສົ່ງສິນຄ້າ 650 ຄັນທີ່ຄລິກ
+
+10
+00:01:02,700 --> 00:01:08,700
+[PLAYWRIGHT]
+The light of the desert sun is neither warm nor cool, but always clean -- and, above all: unforgiving.
+ແສງສະຫວ່າງຂອງແສງຕາເວັນທະເລຊາຍບໍ່ຮ້ອນແລະບໍ່ເຢັນ
+, ແຕ່ສະອາດສະເຫມີ - ແລະ, ກ່ອນອື່ນ ຫມົດ: ບໍ່ອະໄພ.
+
+11
+00:01:09,200 --> 00:01:13,400
+[PLAYWRIGHT]
+Cast: Augie Steenbeck, war photographer, early forties. His son, Woodrow, fourteen .
+ຜູ້ສະແດງ: ໂອຈີ ສຕີນເບັກ, ນັກຖ່າຍຮູບສົງຄາມ,
+ຕົ້ນສີ່ສິບປີ. ລູກຊາຍຂອງລາວ, ວູດຣູ, ສິບສີ່ປີ.
+
+12
+00:01:13,900 --> 00:01:17,050
+[PLAYWRIGHT]
+Midge Campbell, late-thirties, film actress. Her daughter, Dinah, fifteen.
+ມິດຈ໌ ແຄມບລ, ທ້າຍສາມສິບປີ, ນັກສະແດງຮູບເງົາ
+. ລູກສາວຂອງນາງ, ດີນາ, ສິບຫ້າປີ.
+
+13
+00:01:17,550 --> 00:01:19,650
+[PLAYWRIGHT]
+June Douglas, schoolteacher. Grif Gibson, five-star-general.
+ຈູນ ດອກລາສ, ຄູສອນໂຮງຮຽນ. ແກຣຟີຈັບສັນ, ນາຍພົນຫ້າດາວ.
+
+14
+00:01:20,150 --> 00:01:23,300
+[PLAYWRIGHT]
+J.J. Kellogg, Roger Cho, Sandy Borden; Clifford, Ricky, Shelly.
+ເຈຈີ ເຄລລັອກ, ໂຣເຈີ ໂຊ, ແຊນດີ ບອດເດັນ; ຄລິຟຟອດ, ຣິກກີ, ເຊລລີ.
+
+15
+00:01:23,800 --> 00:01:25,800
+[PLAYWRIGHT]
+Stanley Zak, sixty-five, retired.
+ແສຕັນລີ ຊາກ, ຫົກສິບຫ້າປີ, ອອກບໍານານ.
+
+16
+00:01:26,300 --> 00:01:32,300
+[PLAYWRIGHT]
+The action of the play takes place in September of 1955. Act I. Friday morning, 7am. Act II. The next day. Act III. One week later.
+ການກະ ທໍາ ຂອງບົດສະແດງເກີດຂຶ້ນໃນເດືອນກັນຍາປີ 1955. ບົດບາດທີ I. ຕອນເຊົ້າວັນສຸກ
+, 7 ໂມງເຊົ້າ. ບົດບາດທີ່ II. ມື້ຕໍ່ມາ. ການສະແດງທີ III. ຫນຶ່ງ ອາທິດຕໍ່ມາ
+
+17
+00:01:32,800 --> 00:01:34,900
+[RAMP CLOSED INDEFINITELY]
+Department of Roads and Rails 5.
+ກົມຖະຫນົນຫົນທາງແລະລົດໄຟ 5.
+
+18
+00:01:35,400 --> 00:01:38,200
+[AUGIE]
+Five orders of flapjacks and a black coffee.
+ຄໍາສັ່ງແຟລຈັກສ໌ຫ້າຢ່າງແລະກາເຟສີດໍາ.
+
+19
+00:01:38,700 --> 00:01:40,700
+[AUGIE]
+Who needs to pee?
+ໃຜຕ້ອງສູບຢາ?
+
+20
+00:01:41,200 --> 00:01:47,200
+[WOODROW]
+Our average speed is eighty-three feet per second. Poor fuel efficiency due to excess wind resistance.  Based on data before the loss of power, obviously.
+ຄວາມໄວສະເລ່ຍຂອງພວກເຮົາແມ່ນສິບສາມແມັດຕໍ່ວິນາທີ.
+ປະສິດທິພາບເຊື້ອໄຟທີ່ບໍ່ດີຍ້ອນຄວາມຕ້ານທານລົມເກີນໄປ. ອີງຕາມຂໍ້ມູນກ່ອນການສູນເສຍພະລັງງານ, ແນ່ນອນ.
+
+21
+00:01:47,700 --> 00:01:50,500
+[WAITRESS]
+What do you little princesses want to drink?
+ເຈົ້າສາວນ້ອຍຢາກດື່ມຫຍັງ?
+
+22
+00:01:51,000 --> 00:01:57,000
+[PANDORA]
+I'm a mummy in Egypt who got buried alive and came back to life with his head chopped off.
+ຂ້ອຍເປັນມູມີຍໃນອີຈິບ
+ຜູ້ທີ່ຖືກຝັງໄວ້ຊີວິດແລະກັບມາສູ່ຊີວິດດ້ວຍຫົວທີ່ຖືກຕັດອອກ.
+
+23
+00:01:57,500 --> 00:01:59,950
+[WAITRESS]
+How about a glass of strawberry milk?
+ຈະເປັນແນວໃດກັບແກ້ວນົມສຕຣັບເບຣີ?
+
+24
+00:02:00,450 --> 00:02:02,450
+[AUGIE]
+What was that?
+ນັ້ນແມ່ນຫຍັງ?
+
+25
+00:02:02,950 --> 00:02:04,950
+[CASHIER]
+Another atom bomb test.
+ການທົດລອງລະເບີດອະໂຕມອີກຄັ້ງ.
+
+26
+00:02:05,450 --> 00:02:11,450
+[MECHANIC]
+I've seen this combination of symptoms twice before in the `52 Estate Model. In one case, it was a quick fix of a 75 cent part. In the other case, it was a difficult, costly, time-consuming disassembly and remantling of the entire drivetrain and lubrication mechanism which didn't work. The motor exploded itself, and the body was stripped and sold for scrap.
+ຂ້ອຍເຄີຍເຫັນການປະສົມປະສານຂອງອາການນີ້ສອງຄັ້ງກ່ອນໃນຕົວແບບຊັບສິນ ` 52. ໃນກໍລະນີ ຫນຶ່ງ, ມັນແມ່ນການແກ້ໄຂຢ່າງໄວວາຂອງສ່ວນ 75 ເຊັນ. ໃນກໍລະນີດື່ນ, ມັນເປັນການລະລາຍທີ່ຫຍຸ້ງຍາກ
+, ລາຄາແພງ, ໃຊ້ເວລາແລະການເກັບກູ້ຄືນຂອງລະບົບຂັບເຄື່ອນທັງ ຫມົດ ແລະ ກົນໄກນ້ ໍາ ມັນທີ່ບໍ່ໄດ້ເຮັດວຽກ. ເຄື່ອງຈັກລະເບີດຕົວເອງ, ແລະຮ່າງກາຍຖືກຖິ້ມແລະຂາຍເປັນສິ່ງເສດເຫຼືອ.
+
+27
+00:02:11,950 --> 00:02:13,950
+[AUGIE]
+Which one've we got?
+ພວກເຮົາມີອັນໃດ?
+
+28
+00:02:14,450 --> 00:02:16,450
+[MECHANIC]
+We're about to find out.
+ພວກເຮົາກໍາລັງຈະຮູ້ວ່າ.
+
+29
+00:02:16,950 --> 00:02:18,950
+[MECHANIC]
+You got the first one.
+ເຈົ້າໄດ້ຮັບອັນທໍາອິດ.
+
+30
+00:02:19,450 --> 00:02:21,550
+[AUGIE]
+How much do I owe you?
+ຂ້ອຍຫນີ້ເຈົ້າຫຼາຍປານໃດ?
+
+31
+00:02:22,050 --> 00:02:24,150
+[MECHANIC]
+Nothing. Ten dollars for the tow.
+ບໍ່ມີຫຍັງເລີຍ. ເງິນສິບໂດລາ ສໍາ ລັບການດຶງ.
+
+32
+00:02:24,650 --> 00:02:26,650
+[AUGIE]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+33
+00:02:27,150 --> 00:02:29,150
+[MECHANIC]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+34
+00:02:29,650 --> 00:02:33,500
+[MECHANIC]
+I think you got a third problem we've never seen before.
+ຂ້ອຍຄິດວ່າເຈົ້າມີບັນຫາທີສາມທີ່ພວກເຮົາບໍ່ເຄີຍເຫັນກ່ອນ.
+
+35
+00:02:34,000 --> 00:02:36,000
+[HOUSEBOY]
+Zak residence.
+ບ້ານພັກຂອງແຊກ.
+
+36
+00:02:36,500 --> 00:02:38,500
+[AUGIE]
+Romulus, this is Augie Steenbeck.
+ໂຣມູລັສ, ນີ້ແມ່ນໂອຈີ ສຕີນເບັກ.
+
+37
+00:02:39,000 --> 00:02:41,800
+[HOUSEBOY]
+Good morning, Mr. Augie. The gate is open.
+ສະບາຍດີ, ທ້າວໂອຈີ. ປະຕູເປີດແລ້ວ.
+
+38
+00:02:42,300 --> 00:02:44,300
+[AUGIE]
+We're not there.
+ພວກເຮົາບໍ່ໄດ້ຢູ່ບ່ອນນັ້ນ.
+
+39
+00:02:44,800 --> 00:02:46,800
+[HOUSEBOY]
+You're not here?
+ເຈົ້າບໍ່ໄດ້ຢູ່ບ່ອນນີ້ບໍ?
+
+40
+00:02:47,300 --> 00:02:49,400
+[AUGIE]
+May I speak to Mr. Zak?
+ຂ້ອຍສາມາດເວົ້າກັບທ່ານ Zak ໄດ້ບໍ?
+
+41
+00:02:49,900 --> 00:02:51,900
+[HOUSEBOY]
+Yes, Mr. Augie.
+ແມ່ນແລ້ວ, ທ້າວໂອຈີ.
+
+42
+00:02:52,400 --> 00:02:54,400
+[STANLEY]
+You're not here?
+ເຈົ້າບໍ່ໄດ້ຢູ່ບ່ອນນີ້ບໍ?
+
+43
+00:02:54,900 --> 00:02:58,400
+[AUGIE]
+We're not there. The car exploded. Come get the girls.
+ພວກເຮົາບໍ່ໄດ້ຢູ່ບ່ອນນັ້ນ. ລົດໄດ້ລະເບີດ. ມາເອົາເດັກຍິງ.
+
+44
+00:02:58,900 --> 00:03:00,900
+[STANLEY]
+The car -- exploded?
+ລົດ - ລະເບີດບໍ?
+
+45
+00:03:01,400 --> 00:03:05,250
+[AUGIE]
+Parts of the car. Exploded itself, yes. Come get the girls.
+ສ່ວນຂອງລົດ. ລະເບີດຕົວເອງ, ແມ່ນແລ້ວ. ມາເອົາເດັກຍິງ.
+
+46
+00:03:05,750 --> 00:03:09,250
+[STANLEY]
+I'm not the chauffeur. I'm the grandfather. Where are you?
+ຂ້ອຍບໍ່ແມ່ນຄົນຂັບຂີ່. ຂ້ອຍເປັນພໍ່ເຖົ້າ. ເຈົ້າຢູ່ໃສ?
+
+47
+00:03:09,750 --> 00:03:15,700
+[AUGIE]
+Asteroid City. Farm-route Six, mile 75. Come get the girls. I have to stay here with Woodrow.
+ເມືອງ Asteroid. ເສັ້ນທາງກະສິກໍາຫົກ, ໄມລ໌ 75
+. ມາເອົາເດັກຍິງ. ຂ້ອຍຕ້ອງຢູ່ບ່ອນນີ້ກັບວູດຣູ.
+
+48
+00:03:16,200 --> 00:03:18,200
+[STANLEY]
+What are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+49
+00:03:18,700 --> 00:03:20,800
+[AUGIE]
+The thing. For Woodrow. We're there.
+ສິ່ງນັ້ນ. ສໍາລັບວູດຣູ. ພວກເຮົາຢູ່ບ່ອນນັ້ນ.
+
+50
+00:03:21,300 --> 00:03:23,300
+[STANLEY]
+Hm.
+ເຮມ.
+
+51
+00:03:23,800 --> 00:03:25,800
+[STANLEY]
+How'd they take it?
+ພວກເຂົາຮັບມັນແນວໃດ?
+
+52
+00:03:26,300 --> 00:03:28,300
+[AUGIE]
+They didn't. 11.
+ພວກເຂົາບໍ່ໄດ້ເຮັດ. 11.
+
+53
+00:03:28,800 --> 00:03:30,800
+[STANLEY]
+No?
+ບໍ່?
+
+54
+00:03:31,300 --> 00:03:33,300
+[AUGIE]
+No.
+ບໍ່
+
+55
+00:03:33,800 --> 00:03:35,800
+[STANLEY]
+No!
+ບໍ່!
+
+56
+00:03:36,300 --> 00:03:38,300
+[AUGIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+57
+00:03:38,800 --> 00:03:40,800
+[STANLEY]
+You promised.
+ເຈົ້າສັນຍາແລ້ວ.
+
+58
+00:03:41,300 --> 00:03:43,300
+[AUGIE]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+59
+00:03:43,800 --> 00:03:45,800
+[AUGIE]
+The time is never right.
+ເວລາບໍ່ເຄີຍຖືກຕ້ອງເລີຍ.
+
+60
+00:03:46,300 --> 00:03:48,300
+[STANLEY]
+The time is always wrong.
+ເວລາແມ່ນຜິດຢູ່ສະເຫມີ.
+
+61
+00:03:48,800 --> 00:03:50,800
+[STANLEY]
+Are you OK?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+62
+00:03:51,300 --> 00:03:53,300
+[AUGIE]
+No.
+ບໍ່
+
+63
+00:03:53,800 --> 00:03:56,250
+[AUGIE]
+You never liked me, did you? 12.
+ເຈົ້າບໍ່ເຄີຍມັກຂ້ອຍເລີຍ, ແມ່ນບໍ? 12.
+
+64
+00:03:56,750 --> 00:03:58,750
+[STANLEY]
+I never loved you.
+ຂ້ອຍບໍ່ເຄີຍຮັກເຈົ້າເລີຍ.
+
+65
+00:03:59,250 --> 00:04:01,350
+[STANLEY]
+Yes. We're saying the same thing.
+ແມ່ນແລ້ວ. ພວກເຮົາເວົ້າຄືກັນ.
+
+66
+00:04:01,850 --> 00:04:04,300
+[STANLEY]
+Gas up the Cadillac. Tell the kids.
+ຈູດນໍ້າມັນໃສ່ຄາດີລາກ. ບອກເດັກນ້ອຍ.
+
+67
+00:04:04,800 --> 00:04:07,250
+[STANLEY]
+I'll be there when I get there.
+ຂ້ອຍຈະຢູ່ບ່ອນນັ້ນເມື່ອຂ້ອຍມາຮອດບ່ອນນັ້ນ.
+
+68
+00:04:07,750 --> 00:04:09,850
+[AUGIE]
+It's the end of that car.
+ມັນເປັນຕອນທ້າຍຂອງລົດນັ້ນ.
+
+69
+00:04:10,350 --> 00:04:16,350
+[AUGIE]
+Andromeda: check under the floor mats. Pandora: check the side pockets. Cassiopeia: check the cracks between the seats. Take everything.  What do you think, Woodrow?
+ແອນດຣອມເດດາ: ກວດເບິ່ງພາຍໃຕ້ກະຕ່າພື້ນ. ປານດໍຣາ: ເບິ່ງກະເປົາຂ້າງ.
+ຄາຊິໂອເປຍ: ເບິ່ງຮອຍແຕກລະຫວ່າງບ່ອນນັ່ງ. ເອົາທຸກຢ່າງ. ເຈົ້າຄິດແນວໃດ, ວູດຣູ?
+
+70
+00:04:16,850 --> 00:04:18,950
+[WOODROW]
+I think it's kind of sad.
+ຂ້ອຍຄິດວ່າມັນໂຊກຮ້າຍຫຼາຍ.
+
+71
+00:04:19,450 --> 00:04:21,450
+[BUS DRIVER]
+Rest stop!  Thirteen minutes.
+ຢຸດພັກຜ່ອນ! ສາມສິບສາມນາທີ.
+
+72
+00:04:21,950 --> 00:04:23,950
+[JUNE]
+Head count! Boys and girls?
+ການນັບຫົວ! ເດັກຊາຍແລະເດັກຍິງບໍ?
+
+73
+00:04:24,450 --> 00:04:29,700
+[JUNE]
+Plus Libby, Margie, and me. All present. Let's give thanks for a safe journey. Billy?
+ບວກກັບລີບບີ, ມາຈີ, ແລະຂ້ອຍ. ທຸກຄົນທີ່ຢູ່.
+ມາຂອບໃຈ ສໍາ ລັບການເດີນທາງທີ່ປອດໄພ. ບີລີ?
+
+74
+00:04:30,200 --> 00:04:36,200
+[FRECKLED BOY]
+Dear Heavenly Father, We thank Thee kindly for a terrific bus ride. I ate three boxes of Crackerjacks and got a dog- whistle and a miniature map of the original thirteen colonies. Also: we saw a coyote get run over by a fourteen- wheeler, and it left him flat as a pancake. Boy, oh, boy! What else? The bus driver had to stop twice because Bernice couldn't hold it.
+ພໍ່ສະຫວັນທີ່ຮັກແພງ, ພວກເຮົາຂອບໃຈເຈົ້າຢ່າງດີໃຈ ສໍາ ລັບການຂີ່ລົດເມທີ່ຍິ່ງໃຫຍ່. ຂ້ອຍກິນກ່ອງສາມກະຕູ້ຂອງ Crackerjacks ແລະໄດ້ຮັບສຽງຫມາແລະແຜນທີ່ຂະຫນາດນ້ອຍຂອງຄລູເນຍຕົ້ນສະບັບສິບສາມ
+. ນອກຈາກນັ້ນ: ພວກເຮົາເຫັນໂກໂຢຕ໌ຖືກຂັບຂີ່ໂດຍລົດຈັກສິບສີ່ລໍ້, ແລະມັນເຮັດໃຫ້ລາວສຽບຄືກັບ pancake. ເດັກຊາຍ, ໂອ້, ເດັກຊາຍ! ມີຫຍັງອີກ? ຜູ້ຂັບລົດເມຕ້ອງຢຸດສອງຄັ້ງເພາະວ່າເບ
+
+75
+00:04:36,700 --> 00:04:38,700
+[CURLY-HAIRED GIRL]
+Could so!
+ມັນເປັນໄປໄດ້!
+
+76
+00:04:39,200 --> 00:04:41,200
+[JUNE]
+Amen.
+ອາເມນ
+
+77
+00:04:41,700 --> 00:04:43,700
+[JUNE]
+Lunchtime! Line up single-file.
+ເວລາອາຫານທ່ຽງ! ຈັດແຖວດຽວ.
+
+78
+00:04:44,200 --> 00:04:46,200
+[MIDGE]
+My word! It's hot.
+ຄໍາ ຫມັ້ນ ສັນຍາຂອງຂ້ອຍ! ມັນຮ້ອນ.
+
+79
+00:04:46,700 --> 00:04:48,800
+[DINAH]
+It's the desert. What'd you expect?
+ມັນເປັນທະເລຊາຍ. ເຈົ້າຄາດວ່າຫຍັງ?
+
+80
+00:04:49,300 --> 00:04:55,300
+[MIDGE]
+Well, I don't know if I expected one thing or another -- but I'm wilting like a cut petunia.
+ດີ, ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຄາດຫວັງສິ່ງ ຫນຶ່ງ ຫຼືສິ່ງອື່ນບໍ
+- ແຕ່ຂ້ອຍ ກໍາ ລັງແຫ້ງຄືກັບ petunia ທີ່ຕັດ.
+
+81
+00:04:55,800 --> 00:04:57,800
+[CLIFFORD]
+You dare me?
+ເຈົ້າທ້າທາຍຂ້ອຍບໍ?
+
+82
+00:04:58,300 --> 00:05:00,300
+[J.J.]
+Dare you what?
+ເຈົ້າກ້າຫານຫຍັງ?
+
+83
+00:05:00,800 --> 00:05:03,600
+[CLIFFORD]
+To eat this hot pepper. It's an experiment.
+ເພື່ອກິນຜັກຮ້ອນນີ້. ມັນເປັນການທົດລອງ.
+
+84
+00:05:04,100 --> 00:05:06,100
+[J.J.]
+No.
+ບໍ່
+
+85
+00:05:06,600 --> 00:05:08,600
+[SHELLY]
+Holy Toledo. That's Midge Campbell.
+ໂຕເລໂດສັກສິດ. ນັ້ນແມ່ນມິດຈ໌ ແຄມບລ.
+
+86
+00:05:09,100 --> 00:05:11,100
+[SANDY]
+Where? Who?
+ຢູ່ໃສ? ໃຜ?
+
+87
+00:05:11,600 --> 00:05:14,750
+[SHELLY]
+Right smack in back of you. Don't look. 16.
+ຢູ່ທາງຫຼັງເຈົ້າ. ຢ່າເບິ່ງ. 16.
+
+88
+00:05:15,250 --> 00:05:21,250
+[MOTEL MANAGER]
+Mr. Cho? You're in cabin seven. Well, tent seven. Here's the key, but there's no door . Ha-ha.
+ທ່ານໂຊ? ເຈົ້າຢູ່ໃນກະຕູ້ທີເຈັດ. ດີ, ກະຕ່າທີເຖົ້າ
+. ນີ້ແມ່ນປຸ່ມປຸ່ມ, ແຕ່ບໍ່ມີປະຕູ. Ha-ha.
+
+89
+00:05:21,750 --> 00:05:23,750
+[ROGER]
+Tent?
+ກະຕ່າບໍ?
+
+90
+00:05:24,250 --> 00:05:26,250
+[MOTEL MANAGER]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+91
+00:05:26,750 --> 00:05:32,750
+[MOTEL MANAGER]
+I upgraded the electrical system Tuesday morning. Better lighting, power for the ice-machine, and a wall-mounted bug- zapper. Unfortunately, a mistake got made, and cabin seven burned to the ground. It's a tent now.
+ຂ້ອຍໄດ້ປັບປຸງລະບົບໄຟຟ້າໃນຕອນເຊົ້າວັນອັງຄານ. ແສງສະຫວ່າງທີ່ດີກວ່າ, ພະລັງງານ ສໍາ ລັບເຄື່ອງຈັກນ້ ໍາ ກ້ອນ,
+ແລະເຄື່ອງຊັບບັກທີ່ຕິດຕັ້ງຢູ່ເທິງກໍາແພງ. ໂຊກຮ້າຍ, ຄວາມຜິດພາດຖືກເຮັດ, ແລະກະຕ່າເຈັດຖືກເຜົາໄຫມ້ລົງ. ມັນແມ່ນແຖບດຽວນີ້.
+
+92
+00:05:33,250 --> 00:05:36,050
+[ROGER]
+We don't want to sleep in a tent.
+ພວກເຮົາບໍ່ຢາກນອນໃນແຖບ.
+
+93
+00:05:36,550 --> 00:05:42,550
+[MOTEL MANAGER]
+Of course, I understand. May I say: I think you'll find it very comfortable.  Is the young gentleman in distress?
+ແນ່ນອນ, ຂ້ອຍເຂົ້າໃຈ. ຂ້ອຍສາມາດເວົ້າໄດ້ບໍ:
+ຂ້ອຍຄິດວ່າເຈົ້າຈະເຫັນວ່າມັນສະບາຍໃຈຫຼາຍ. ຜູ້ຊາຍຫນຸ່ມຢູ່ໃນຄວາມຫຍຸ້ງຍາກບໍ?
+
+94
+00:05:43,050 --> 00:05:45,050
+[J.J.]
+He's thirsty. 17.
+ລາວຢາກດື່ມ. 17.
+
+95
+00:05:45,550 --> 00:05:49,400
+[MOTEL MANAGER]
+Of course, I understand.  Juice preference, please. Apple, orange, or tomato?
+ແນ່ນອນ, ຂ້ອຍເຂົ້າໃຈ. ຄວາມມັກນ້ ໍາ ມັນ, ກະລຸນາ
+. ຫມາກ ໄມ້, ຫມາກ ໂມຣນຈ໌, ຫຼືຫມາກ tomato?
+
+96
+00:05:49,900 --> 00:05:51,900
+[MOTEL MANAGER]
+Excuse me, sir?
+ຂໍໂທດເດີເດີເດີ?
+
+97
+00:05:52,400 --> 00:05:55,200
+[MONTANA]
+This bucket of nuts just stole my quarter.
+ກະຕູ້ຫມາກນັດນີ້ຫາກໍ່ລັກເງິນສີ່ແສນຂອງຂ້ອຍ.
+
+98
+00:05:55,700 --> 00:05:57,700
+[MOTEL MANAGER]
+I beg your pardon.
+ຂ້ອຍຂໍໂທດ.
+
+99
+00:05:58,200 --> 00:06:04,200
+[AUGIE]
+And, to put it bluntly, after all the surgeries, therapies, and interventions, after two years of struggling and suffering: she succumbed to her illnesses. 18.
+ແລະ, ເພື່ອເວົ້າຢ່າງກົງກັນຂ້າມ, ຫຼັງຈາກການຜ່າຕັດທັງ ຫມົດ, ການປິ່ນປົວ, ແລະການແຊກແຊງ
+, ຫຼັງຈາກສອງປີຂອງການຕໍ່ສູ້ແລະທຸກທໍລະມານ: ນາງຍອມຮັບກັບພະຍາດຂອງນາງ. 18.
+
+100
+00:06:04,700 --> 00:06:10,700
+[AUGIE]
+I'm sorry. I didn't know how to tell you then. I couldn't figure out how to tell you later. I didn't know what to do. The time was never right.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ຮູ້ວິທີບອກເຈົ້າໃນເວລານັ້ນ. ຂ້ອຍບໍ່ສາມາດຄິດໄດ້ວ່າຈະບອກເຈົ້າແນວໃດຕໍ່ມາ
+. ຂ້ອຍບໍ່ໄດ້ຮູ້ວ່າຈະເຮັດຫຍັງ. ເວລາບໍ່ເຄີຍຖືກຕ້ອງເລີຍ.
+
+101
+00:06:11,200 --> 00:06:14,000
+[WOODROW]
+You're saying our mother died three weeks ago?
+ເຈົ້າເວົ້າວ່າແມ່ຂອງພວກເຮົາຕາຍເມື່ອສາມອາທິດກ່ອນບໍ?
+
+102
+00:06:14,500 --> 00:06:16,500
+[AUGIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+103
+00:06:17,000 --> 00:06:19,000
+[ANDROMEDA]
+When is she coming back?
+ນາງຈະກັບມາເມື່ອໃດ?
+
+104
+00:06:19,500 --> 00:06:25,500
+[AUGIE]
+She's not coming back. Let's say she's in heaven, which doesn't exist for me, of course -- but you're Episcopalian.
+ນາງຈະບໍ່ກັບມາ. ໃຫ້ເວົ້າວ່ານາງຢູ່ໃນສະຫວັນ, ເຊິ່ງບໍ່ມີຢູ່
+ສໍາ ລັບຂ້ອຍ, ແນ່ນອນ - ແຕ່ເຈົ້າເປັນ Episcopalian.
+
+105
+00:06:26,000 --> 00:06:28,000
+[AUGIE]
+Did you know? Already.
+ເຈົ້າຮູ້ບໍ? ແລ້ວແລ້ວ.
+
+106
+00:06:28,500 --> 00:06:30,500
+[WOODROW]
+I think so.
+ຂ້ອຍຄິດວ່າເປັນ.
+
+107
+00:06:31,000 --> 00:06:37,000
+[AUGIE]
+She'd been away so long.  We're going to be OK. Your grandfather's on his way. We're going to stay with him for -- a period of time which has yet to be determined how long it's going to be.
+ນາງຢູ່ຫ່າງໄກດົນນານ. ພວກເຮົາຈະດີດີ. ພໍ່ເຖົ້າຂອງທ່ານ ກໍາ ລັງເດີນທາງໄປ. ພວກເຮົາ ກໍາ
+ລັງຈະຢູ່ກັບລາວເປັນເວລາດົນນານ - ໄລຍະເວລາທີ່ຍັງບໍ່ທັນຖືກ ກໍາ ນົດວ່າມັນຈະຍາວນານປານໃດ.
+
+108
+00:06:37,500 --> 00:06:39,500
+[AUGIE]
+Yes. She's in the Tupperware.
+ແມ່ນແລ້ວ. ນາງຢູ່ໃນ Tupperware.
+
+109
+00:06:40,000 --> 00:06:42,000
+[AUGIE]
+Cremated.
+ຖືກເຜົາໄຫມ້.
+
+110
+00:06:42,500 --> 00:06:44,500
+[PANDORA]
+Are we orphans now?
+ພວກເຮົາເປັນເດັກເຖົ້າແລ້ວບໍ?
+
+111
+00:06:45,000 --> 00:06:47,000
+[AUGIE]
+No, because I'm still alive.
+ບໍ່, ເພາະວ່າຂ້ອຍຍັງມີຊີວິດຢູ່.
+
+112
+00:06:47,500 --> 00:06:53,500
+[AUGIE]
+When my father died, my mother told me, "He's in the stars." I told her, "The closest star other than that one --"  "-- is four and half light years away with a surface temperature over 5000 degrees centigrade. He's not in the stars," I said. "He's in the ground." She thought it would comfort me.  The other thing she said which is incorrect: "Time heals all wounds." No. Maybe it can be a Band-Aid. Your concept of time is completely distorted, though. I don't think any of you except Woodrow even understands what fifteen minutes means.
+ເມື່ອພໍ່ຂອງຂ້ອຍຕາຍ, ແມ່ຂອງຂ້ອຍບອກຂ້ອຍວ່າ,"ລາວຢູ່ໃນດາວ." ຂ້ອຍບອກນາງວ່າ, ດາວທີ່ໃກ້ທີ່ສຸດນອກຈາກຄົນນັ້ນ -"" - ແມ່ນຫ່າງຈາກສີ່ປີແສງສະຫວ່າງເຄິ່ງທີ່ມີອຸນຫະພູມພື້ນຜິວຫຼາຍກວ່າ 5000 ອົງສາເຊັນຕິກາດ
+. ລາວບໍ່ແມ່ນໃນດາວ," ຂ້ອຍເວົ້າວ່າ." ລາວຢູ່ໃນດິນ." ນາງຄິດວ່າມັນຈະບັນເທົາທຸກໃຈຂ້ອຍ. ສິ່ງອື່ນທີ່ນາງເວົ້າທີ່ບໍ່ຖືກຕ້ອງ:" ເວລາປິ່ນປົວບາດເຈັບທັງ ຫມົດ." ບໍ່. ບາງທີມັນສາມາດເປັນຜ້າຊ່ວຍ
+
+113
+00:06:54,000 --> 00:06:56,100
+[PANDORA]
+Fifteen minutes is sixty-two hundred hours.
+ສິບຫ້ານາທີແມ່ນຫົກສິບສອງຮ້ອຍຊົ່ວໂມງ.
+
+114
+00:06:56,600 --> 00:07:02,600
+[AUGIE]
+Exactly. That's not your fault. I definitely handled this wrong, by the way -- but handling it right wouldn't've helped, either.
+ແທ້ຈິງແລ້ວ. ນັ້ນບໍ່ແມ່ນຄວາມຜິດຂອງເຈົ້າ. ຂ້ອຍໄດ້ຈັດການເລື່ອງນີ້ຜິດຢ່າງແນ່ນອນ
+, ເຖິງຢ່າງໃດກໍ່ຕາມ - ແຕ່ການຈັດການມັນຢ່າງຖືກຕ້ອງຈະບໍ່ຊ່ວຍໄດ້, ເຊັ່ນກັນ.
+
+115
+00:07:03,100 --> 00:07:08,700
+[AUGIE]
+If you could have anything in the world to eat right now: what would it be?
+ຖ້າເຈົ້າສາມາດກິນຫຍັງໃນໂລກໄດ້ໃນເວລານີ້: ມັນຈະເປັນຫຍັງ?
+
+116
+00:07:09,200 --> 00:07:11,300
+[MIDGE]
+You took a picture of me.
+ເຈົ້າຖ່າຍຮູບຂ້ອຍ.
+
+117
+00:07:11,800 --> 00:07:13,800
+[AUGIE]
+Uh-huh.
+ໂອ້.
+
+118
+00:07:14,300 --> 00:07:16,300
+[MIDGE]
+Why?
+ເປັນຫຍັງ?
+
+119
+00:07:16,800 --> 00:07:18,800
+[AUGIE]
+I'm a photographer.
+ຂ້ອຍເປັນນັກຖ່າຍຮູບ.
+
+120
+00:07:19,300 --> 00:07:21,300
+[MIDGE]
+You didn't ask permission.
+ເຈົ້າບໍ່ໄດ້ຂໍອະນຸຍາດ.
+
+121
+00:07:21,800 --> 00:07:23,800
+[AUGIE]
+I never ask permission.
+ຂ້ອຍບໍ່ເຄີຍຂໍອະນຸຍາດເລີຍ.
+
+122
+00:07:24,300 --> 00:07:26,300
+[MIDGE]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+123
+00:07:26,800 --> 00:07:30,300
+[AUGIE]
+Because I work in trenches, battlefields, and combat zones. 21.
+ເພາະວ່າຂ້ອຍເຮັດວຽກຢູ່ໃນຮ່ອມຮ່ອນ, ສະຫນາມສູ້ຮົບ, ແລະເຂດຕໍ່ສູ້. 21.
+
+124
+00:07:30,800 --> 00:07:32,800
+[MIDGE]
+Really?
+ແທ້ບໍ?
+
+125
+00:07:33,300 --> 00:07:35,300
+[AUGIE]
+Uh-huh.
+ໂອ້.
+
+126
+00:07:35,800 --> 00:07:37,900
+[MIDGE]
+You mean you're a war photographer.
+ເຈົ້າຫມາຍຄວາມວ່າເຈົ້າເປັນນັກຖ່າຍຮູບສົງຄາມ.
+
+127
+00:07:38,400 --> 00:07:42,250
+[AUGIE]
+Mostly. Sometimes I cover sporting events. My name is Augie Steenbeck.
+ສ່ວນໃຫຍ່. ບາງຄັ້ງຂ້ອຍລາຍງານເຫດການກິລາ. ຂ້ອຍຊື່ວ່າໂອຈີ ສຕີນເບັກ.
+
+128
+00:07:42,750 --> 00:07:46,250
+[MIDGE]
+What are you going to do with it? That picture.
+ເຈົ້າຈະເຮັດຫຍັງກັບມັນ? ຮູບນັ້ນ.
+
+129
+00:07:46,750 --> 00:07:52,750
+[AUGIE]
+If it's any good, I guess I'll try to sell it to a magazine, now that you mention it. "Midge Campbell Eating a Waffle."
+ຖ້າມັນດີໃດໆ, ຂ້ອຍຄິດວ່າຂ້ອຍຈະພະຍາຍາມຂາຍມັນໃຫ້ວາລະສານ
+, ດຽວນີ້ທີ່ທ່ານກ່າວເຖິງມັນ."ມິດຈ໌ ແຄມບລ ກິນ Waffle."
+
+130
+00:07:53,250 --> 00:07:55,700
+[MIDGE]
+Make me a print first. To approve.
+ເຮັດໃຫ້ຂ້ອຍພິມກ່ອນ. ເພື່ອອະນຸມັດ.
+
+131
+00:07:56,200 --> 00:07:58,200
+[AUGIE]
+Uh-huh.
+ໂອ້.
+
+132
+00:07:58,700 --> 00:08:00,700
+[MIDGE]
+This is Dinah.
+ນີ້ແມ່ນດິນາ.
+
+133
+00:08:01,200 --> 00:08:03,200
+[AUGIE]
+This is Woodrow.
+ນີ້ແມ່ນວູດຣູ.
+
+134
+00:08:03,700 --> 00:08:05,700
+[DINAH]
+I have a question.
+ຂ້ອຍມີຄໍາຖາມຫນຶ່ງ.
+
+135
+00:08:06,200 --> 00:08:08,200
+[AUGIE]
+Uh-huh. 22.
+ອູຮູ. 22.
+
+136
+00:08:08,700 --> 00:08:11,150
+[DINAH]
+Have you ever been shot? With bullets.
+ເຈົ້າເຄີຍຖືກຍິງບໍ? ດ້ວຍລູກປືນ.
+
+137
+00:08:11,650 --> 00:08:13,650
+[AUGIE]
+Once or twice. Just grazed.
+ຫນຶ່ງ ຫຼືສອງຄັ້ງ. ພຽງແຕ່ລ້ຽງສັດ.
+
+138
+00:08:14,150 --> 00:08:18,350
+[WOODROW]
+He got shrapneled in the back of the head, too.  Show her.
+ລາວຖືກແຕກໃນດ້ານຫຼັງຂອງຫົວເຊັ່ນກັນ. ສະແດງໃຫ້ນາງ.
+
+139
+00:08:18,850 --> 00:08:22,350
+[MIDGE]
+I don't say I forgive you yet, by the way.
+ຂ້ອຍບໍ່ໄດ້ເວົ້າວ່າຂ້ອຍຂໍໂທດເຈົ້າເທື່ອ, ເຖິງຢ່າງໃດກໍ່ຕາມ.
+
+140
+00:08:22,850 --> 00:08:28,100
+[GENERAL GIBSON]
+Welcome! From the United States Military- science Research and Experimentation Division . We salute you.
+ຍິນດີຕ້ອນຮັບ! ຈາກພະແນກຄົ້ນຄວ້າແລະທົດລອງວິທະຍາສາດທະຫານສະຫະລັດ
+. ພວກເຮົາອວຍພອນທ່ານ.
+
+141
+00:08:28,600 --> 00:08:34,600
+[GENERAL GIBSON]
+Each year we celebrate "Asteroid Day," commemorating September 23, 3007 B.C. when the Arid Plains meteorite made earth- impact.
+ທຸກໆປີພວກເຮົາສະເຫຼີມສະຫຼອງ"ວັນ Asteroid," ເພື່ອລະນຶກເຖິງວັນທີ
+23 ກັນຍາ 3007 BC ໃນເວລາທີ່ meteorit ທົ່ງພຽງແຫ້ງແລ້ງໄດ້ກະທົບໂລກ.
+
+142
+00:08:35,100 --> 00:08:41,100
+[GENERAL GIBSON]
+The itinerary for this three-day celebration includes a tour of the newly refurbished observatory with Dr. Hickenlooper and her staff --
+ແຜນການເດີນທາງ ສໍາ ລັບການສະເຫຼີມສະຫຼອງສາມມື້ນີ້ລວມທັງການທ່ອງທ່ຽວຂອງໂຮງສະຫມຸດທີ່ຖືກປັບປຸງ
+ໃຫມ່ ໃຫມ່ ກັບດຣ ຮິກເກນລູເປີແລະພະນັກງານຂອງນາງ -
+
+143
+00:08:41,600 --> 00:08:46,150
+[GENERAL GIBSON]
+-- a picnic supper of chili and frankfurters with evening fireworks display --
+-
+ອາຫານຄໍ່າປິກນິກຂອງຊິລີແລະແຟຣນກຟູເຕີພ້ອມກັບການສະແດງໄຟຟ້າໃນຕອນແລງ -
+
+144
+00:08:46,650 --> 00:08:50,500
+[GENERAL GIBSON]
+-- the viewing of the Astronomical Ellipses at its peak  --
+- ການເບິ່ງເອລິບສ໌ທາງດາວທຽມໃນຈຸດສູງສຸດຂອງມັນ -
+
+145
+00:08:51,000 --> 00:08:56,250
+[GENERAL GIBSON]
+-- and finally, the awarding of the annual Hickenlooper Scholarship after Monday's banquet lunch. 24.
+- ແລະໃນທີ່ສຸດ, ການມອບທຶນຮອນ Hickenlooper
+ປະຈໍາປີຫຼັງຈາກອາຫານທ່ຽງບຸນວັນຈັນ. 24.
+
+146
+00:08:56,750 --> 00:09:02,350
+[GENERAL GIBSON]
+I'll start by presenting the commemorative medals -- but, first, I'll do my speech, first .
+ຂ້ອຍຈະເລີ່ມຕົ້ນດ້ວຍການ ນໍາ ສະ ເຫນີ ຫຼຽນລະລຶກ - ແຕ່
+, ກ່ອນອື່ນ ຫມົດ, ຂ້ອຍຈະເວົ້າ ຄໍາ ປາໄສຂອງຂ້ອຍກ່ອນ.
+
+147
+00:09:02,850 --> 00:09:08,850
+[GENERAL GIBSON]
+"Chapter one: I walked to school eighteen miles each morning, milked the goats, plucked the chickens, played hooky, caught fireflies, went skinny-dipping in the watering hole, said my prayers every night, and got whipped with a maple switch twice a week. That was life. Chapter two: my father went off to fight in the war to end all wars , and what-was-left-of-him came back in a pine box with a flag on top. End of chapter two. Next: I went to officer school and twenty years passed at the speed of a dream. A wife, a son, a daughter, a poodle. Chapter three: another war. Arms and legs blown off like popcorn. Eyeballs gouged out, figuratively and literally. The men put on shows under the palm fronds dressed as women in hula skirts. That was life. In the meantime, somebody else's story: a man thinks up a number, divides it by a trillion, plugs it into the square root of the circumference of the earth multiplied by the speed of a splitting atom -- and voila! Progress. I'm not a scientist. You are. End of chapter three. Junior Stargazers and Space Cadets --"
+ບົດທີຫນຶ່ງ: ຂ້ອຍຍ່າງໄປໂຮງຮຽນສິບແປດແມລທຸກໆເຊົ້າ, ນົມແມວ, ເອົາໄກ່, ຫຼິ້ນ hooky, ຈັບແມງໄມ້ໄຟ, ໄປລອຍນ້ ໍາ ອ່ອນໃນຮູນ້ ໍາ, ເວົ້າຄໍາອະທິຖານຂອງຂ້ອຍທຸກໆຄືນ,
+ແລະຖືກຕີດ້ວຍປຸ່ມແມບສອງຄັ້ງຕໍ່ອາທິດ. ນັ້ນແມ່ນຊີວິດ. ບົດທີສອງ: ພໍ່ຂອງຂ້ອຍໄດ້ອອກໄປຕໍ່ສູ້ໃນສົງຄາມເພື່ອສິ້ນສຸດສົງຄາມທັງ ຫມົດ, ແລະສິ່ງທີ່ຢູ່ເບື້ອງຊ້າຍຂອງລາວກັບມາໃນກ່ອງປິນທີ່ມີທຸງຢູ່ເທິງ
+
+148
+00:09:09,350 --> 00:09:15,350
+[GENERAL GIBSON]
+"-- we watch, transfixed, as you enter into uncharted territories of the brains and spirit. If you wanted to live a nice, quiet, peaceful life: you picked the  25.
+ພວກເຮົາເບິ່ງ, ແປກໃຈ, ໃນຂະນະທີ່ເຈົ້າເຂົ້າໄປໃນເຂດທີ່ບໍ່ເຄີຍຄົ້ນພົບຂອງສະຫມອງແລະຈິດວິນຍານ
+. ຖ້າເຈົ້າຢາກລອດຊີວິດທີ່ດີເລີດ, ງຽບສະຫງົບ, ສັນຕິພາບ: ເຈົ້າເລືອກ 25.
+
+149
+00:09:15,850 --> 00:09:21,850
+[GENERAL GIBSON]
+Be notified: you are each the guardian of your own safety. Maintain alert caution throughout the following demonstrations.
+ຂໍແຈ້ງໃຫ້ຊາບ: ເຈົ້າແຕ່ລະຄົນແມ່ນຜູ້ປົກປ້ອງຄວາມປອດໄພຂອງທ່ານເອງ
+. ຮັກສາຄວາມລະມັດລະວັງລະວົນຕະຫຼອດການສະແດງຕໍ່ໄປນີ້.
+
+150
+00:09:22,350 --> 00:09:26,550
+[GENERAL GIBSON]
+To Ricky Cho, for his work in the field of Aeronautical Induction:
+ຕໍ່ ຣິກກີ ໂຊ, ສໍາລັບວຽກງານຂອງລາວໃນຂົງເຂດການນໍາພາທາງອາກາດ:
+
+151
+00:09:27,050 --> 00:09:29,150
+[GENERAL GIBSON]
+"The Collapsing Star Ribbon of Success."
+ກະດານດາວທີ່ຕົກລົງຂອງຄວາມສໍາເລັດ.
+
+152
+00:09:29,650 --> 00:09:33,850
+[GENERAL GIBSON]
+To Clifford Kellogg, for his work in the study of Particle Disintegration:
+ຕໍ່ຄລິຟຟອດ ເຄລລັອກ, ສໍາລັບວຽກງານຂອງລາວໃນການສຶກສາການລະລາຍຊິ້ນສ່ວນ:
+
+153
+00:09:34,350 --> 00:09:36,450
+[GENERAL GIBSON]
+"The Black Hole Badge of Triumph."
+ປ້າຍຮູສີດໍາຂອງ Triumph.
+
+154
+00:09:36,950 --> 00:09:41,150
+[GENERAL GIBSON]
+To Dinah Campbell, for her work in the area of Botanical Acceleration:
+ຕໍ່ດິນາ ແຄມບລ, ສໍາລັບວຽກງານຂອງນາງໃນຂົງເຂດຄວາມໄວ Botanical:
+
+155
+00:09:41,650 --> 00:09:46,200
+[DINAH]
+It's fueled by cosmic radiation instead of sunlight. Unfortunately, it makes vegetables toxic.
+ມັນຖືກຊຸກຍູ້ໂດຍແສງສະຫວ່າງໂກສມິກແທນທີ່ຈະເປັນແສງຕາເວັນ
+. ໂຊກຮ້າຍ, ມັນເຮັດໃຫ້ຜັກເປັນພິດ.
+
+156
+00:09:46,700 --> 00:09:48,800
+[GENERAL GIBSON]
+"The Red Giant Sash of Honor."
+ກະທູ້ກຽດຕິຍົດສີແດງ.
+
+157
+00:09:49,300 --> 00:09:53,500
+[GENERAL GIBSON]
+To Shelly Borden, for her work in the realm of Mineral Fabrication:
+ຕໍ່ Shelly Borden, ສໍາລັບວຽກງານຂອງນາງໃນຂົງເຂດການຜະລິດແຮ່ທາດ:
+
+158
+00:09:54,000 --> 00:09:59,600
+[SHELLY]
+I synthesized an extraterrestrial element. It's going to be added to the periodic table next year.
+ຂ້ອຍໄດ້ສັງເຄາະອົງປະກອບພາຍນອກໂລກ.
+ມັນຈະຖືກເພີ່ມເຂົ້າໃນຕາຕະລາງໄລຍະເວລາໃນປີຫນ້າ.
+
+159
+00:10:00,100 --> 00:10:02,100
+[GENERAL GIBSON]
+"The Distant Nebula Laurel Crown."
+ຄໍຣອນລາເລລຂອງເນບູລາທີ່ຢູ່ຫ່າງໄກສອກຫຼີກ.
+
+160
+00:10:02,600 --> 00:10:06,800
+[GENERAL GIBSON]
+To Woodrow Steenbeck, for his work in the sphere of Astronomical Imaging:
+ຕໍ່ວູດຣູ ສຕີນເບັກ, ສໍາລັບວຽກງານຂອງລາວໃນຂົງເຂດການຖ່າຍຮູບດາວທຽມ:
+
+161
+00:10:07,300 --> 00:10:09,750
+[GENERAL GIBSON]
+"The White Dwarf Medal of Achievement." 27.
+" ຫຼຽນໄຊຄວາມສໍາເລັດຂອງ Dwarf ສີຂາວ." 27.
+
+162
+00:10:10,250 --> 00:10:13,750
+[WOODROW]
+It may have applications in the development of interstellar advertising.
+ມັນອາດຈະມີການ ນໍາ ໃຊ້ໃນການພັດທະນາການໂຄສະນາລະຫວ່າງດາວ.
+
+163
+00:10:14,250 --> 00:10:20,250
+[DR. HICKENLOOPER]
+Our little tour ends here. Thank you for your attention -- and thank you to the Larkings Foundation for their generous funding.
+ການທ່ອງທ່ຽວນ້ອຍຂອງພວກເຮົາສິ້ນສຸດລົງຢູ່ນີ້. ຂອບໃຈ ສໍາ ລັບການເອົາໃຈໃສ່ຂອງທ່ານ
+- ແລະຂອບໃຈສະຖາບັນລາກິງສ໌ ສໍາ ລັບການສະຫນອງທຶນຢ່າງມ່ວນຊື່ນຂອງພວກເຂົາ.
+
+164
+00:10:20,750 --> 00:10:22,750
+[WOODROW]
+What do those pulses indicate?
+ກະທູ້ເຫຼົ່ານັ້ນສະແດງໃຫ້ເຫັນຫຍັງ?
+
+165
+00:10:23,250 --> 00:10:29,250
+[DR. HICKENLOOPER]
+What? Oh, the beeps and blips. We don't know. Indecipherable radio emissions from outer space. Probably a red herring.
+ຫຍັງ? ໂອ້, ສຽງບີບແລະບີບ. ພວກເຮົາບໍ່ຮູ້.
+ການປ່ອຍວິທະຍຸທີ່ບໍ່ສາມາດລະບຸໄດ້ຈາກອະວະກາດພາຍນອກ. ບາງທີເປັນຮີລິງແດງ.
+
+166
+00:10:29,750 --> 00:10:31,750
+[WOODROW]
+Does it change? Ever.
+ມັນປ່ຽນແປງບໍ? ບໍ່ເຄີຍ.
+
+167
+00:10:32,250 --> 00:10:34,250
+[DR. HICKENLOOPER]
+Not to my knowledge.
+ບໍ່ຕາມທີ່ຂ້ອຍຮູ້.
+
+168
+00:10:34,750 --> 00:10:36,750
+[WOODROW]
+It's a date. Maybe. 28.
+ມັນເປັນວັນທີ. ບາງທີ. 28.
+
+169
+00:10:37,250 --> 00:10:39,250
+[DR. HICKENLOOPER]
+Mary!
+ແມຣີ!
+
+170
+00:10:39,750 --> 00:10:42,900
+[DR. HICKENLOOPER]
+We think it's a date on the galactic calendar.
+ພວກເຮົາຄິດວ່າມັນເປັນວັນທີໃນປະຕິທິນແກລັກສິກ.
+
+171
+00:10:43,400 --> 00:10:45,400
+[ASSISTANT]
+Wow!
+ໂວ້!
+
+172
+00:10:45,900 --> 00:10:47,900
+[WOODROW]
+Is it always today?
+ມັນເປັນມື້ນີ້ຢູ່ສະເຫມີບໍ?
+
+173
+00:10:48,400 --> 00:10:54,400
+[FRECKLED BOY]
+We thank Thee for the ketchup, and we thank Thee for the mustard. We thank Thee for the relish, and we thank Thee for the onions. We thank Thee for the --
+ພວກເຮົາຂໍຂອບໃຈເຈົ້າ ສໍາ ລັບ ketchup, ແລະພວກເຮົາຂໍຂອບອຸນຫະພູມ ສໍາ ລັບ mustard ໄດ້. ພວກເຮົາຂອບໃຈ
+ເຈົ້າ ສໍາ ລັບລົດຊາດ, ແລະພວກເຮົາຍັງຂໍຂອບຄຸນເຈົ້າ ສໍາ ລັບການຜັກທຽມ. ພວກເຮົາມາຂອບໃຈທ່ານ ສໍາ ລັບ -
+
+174
+00:10:54,900 --> 00:10:56,900
+[JUNE]
+Head count! 29.
+ການນັບຫົວ! 29.
+
+175
+00:10:57,400 --> 00:10:59,400
+[JUNE]
+Where's Dwight?
+ດວາຍຕ໌ຢູ່ໃສ?
+
+176
+00:10:59,900 --> 00:11:05,900
+[J.J.]
+Less than zero-point-zero-zero-zero-zero- zero-zero percent chance exists of extraterrestrial life in the entire universe. It's a scientific fact. Other than space bugs and microscopic worms.
+ຄວາມເປັນໄປໄດ້ ຫນ້ອຍ ກ່ວາສູນເລີດ-ສູນເລົາ-ສູນເລົາ - ສູນເລີກ-ສິບເປີເຊັນມີຊີວິດພາຍນອກໂລກໃນຈັກກະວານທັງ
+ຫມົດ. ມັນແມ່ນຄວາມຈິງທາງວິທະຍາສາດ. ນອກຈາກແມງໄມ້ອະວະກາດແລະແມງໄມໂຄສໂກບິກ.
+
+177
+00:11:06,400 --> 00:11:08,400
+[ROGER]
+I assertively disagree.
+ຂ້ອຍບໍ່ເຫັນດີຢ່າງແນ່ນອນ.
+
+178
+00:11:08,900 --> 00:11:11,700
+[SANDY]
+So do I. It's not a scientific fact.
+ຂ້ອຍຄືກັນ. ມັນບໍ່ແມ່ນຄວາມຈິງທາງວິທະຍາສາດ.
+
+179
+00:11:12,200 --> 00:11:14,200
+[MOTEL MANAGER]
+How's the chili?
+ຊີລີເປັນແນວໃດ?
+
+180
+00:11:14,700 --> 00:11:16,700
+[J.J.]
+Fine.
+ດີແລ້ວ.
+
+181
+00:11:17,200 --> 00:11:23,150
+[ROGER]
+Consider the constants: endless space and immeasurable time. The likelihood is increased by a factor of infinity.
+ພິຈາລະນາຕົວຄົງທີ່: ອະວະກາດທີ່ບໍ່ມີສິ້ນສຸດແລະເວລາທີ່ບໍ່ສາມາດວັດແທກໄດ້
+. ຄວາມເປັນໄປໄດ້ເພີ່ມຂຶ້ນດ້ວຍປັດໃຈຂອງຄວາມບໍ່ຈໍາກັດ.
+
+182
+00:11:23,650 --> 00:11:25,650
+[J.J.]
+Where'd you get that?
+ເຈົ້າເອົາມັນມາຈາກໃສ?
+
+183
+00:11:26,150 --> 00:11:28,150
+[MOTEL MANAGER]
+The cantina machine. 30.
+ເຄື່ອງຈັກຄາຕິນາ. 30.
+
+184
+00:11:28,650 --> 00:11:31,800
+[AUGIE]
+Can you see anything? With those on your face.
+ເຈົ້າເຫັນຫຍັງບໍ? ດ້ວຍພວກມັນຢູ່ເທິງໃບຫນ້າຂອງທ່ານ.
+
+185
+00:11:32,300 --> 00:11:34,750
+[AUGIE]
+Gadzooks. What'd you do to deserve that?
+ເຈົ້າເຮັດຫຍັງເພື່ອສົມຄວນນັ້ນ?
+
+186
+00:11:35,250 --> 00:11:37,250
+[MIDGE]
+Nothing.
+ບໍ່ມີຫຍັງເລີຍ.
+
+187
+00:11:37,750 --> 00:11:39,750
+[AUGIE]
+Who hit you?
+ໃຜຕີເຈົ້າ?
+
+188
+00:11:40,250 --> 00:11:42,250
+[MIDGE]
+Nobody.
+ບໍ່ມີໃຜ.
+
+189
+00:11:42,750 --> 00:11:46,600
+[MIDGE]
+It's greasepaint. To feel like my character. It's there on purpose.
+ມັນເປັນສີໄຂມັນ. ເພື່ອຮູ້ສຶກຄືກັບຕົວລະຄອນຂອງຂ້ອຍ
+. ມັນຢູ່ບ່ອນນັ້ນດ້ວຍຈຸດປະສົງ.
+
+190
+00:11:47,100 --> 00:11:49,100
+[AUGIE]
+Oh.
+ໂອ້.
+
+191
+00:11:49,600 --> 00:11:53,100
+[AUGIE]
+How does she get a black eye? In the story.
+ນາງໄດ້ຮັບຕາສີດໍາແນວໃດ? ໃນເລື່ອງ.
+
+192
+00:11:53,600 --> 00:11:56,750
+[MIDGE]
+She doesn't. In the story. It's on the inside.
+ນາງບໍ່ເຮັດ. ໃນເລື່ອງ. ມັນຢູ່ພາຍໃນ.
+
+193
+00:11:57,250 --> 00:12:03,250
+[EXECUTIVE]
+The Larkings Foundation claims permanent, incontestable rights to all patents or inventions derived from any and every submission, without exception. 31.
+ມູນນິທິລາກິງສ໌ອ້າງວ່າມີສິດຖາວອນ, ທີ່ບໍ່ສາມາດຂັດແຍ່ງໄດ້ຕໍ່ສິດທິບັດຫຼືການຄົ້ນຄວ້າທັງ
+ຫມົດ ທີ່ມາຈາກການຍື່ນທຸກຢ່າງແລະທຸກຢ່າງ, ໂດຍບໍ່ມີຂໍ້ຍົກເວັ້ນ. 31.
+
+194
+00:12:03,750 --> 00:12:07,250
+[GENERAL GIBSON]
+Not for teenagers.  The projects all belong to Uncle Sam.
+ບໍ່ແມ່ນສໍາລັບໄວລຸ້ນ. ໂຄງການທັງ ຫມົດ ແມ່ນຂອງພໍ່ເຖົ້າແຊມ.
+
+195
+00:12:07,750 --> 00:12:12,300
+[CLIFFORD]
+I call it: "Triple Orbit and Return without Burning up in the Atmosphere."
+ຂ້ອຍເອີ້ນມັນວ່າ
+:"ວົງຈອນສາມຄັ້ງແລະກັບຄືນໄປບ່ອນໂດຍບໍ່ຕ້ອງເຜົາໄຫມ້ໃນບັນຍາກາດ."
+
+196
+00:12:12,800 --> 00:12:15,600
+[DINAH]
+Why are you sitting there all by yourself?
+ເຈົ້ານັ່ງຢູ່ບ່ອນນັ້ນດ້ວຍຕົນເອງເປັນຫຍັງ?
+
+197
+00:12:16,100 --> 00:12:18,100
+[DINAH]
+Are you shy?
+ເຈົ້າໂຊກຮ້າຍບໍ?
+
+198
+00:12:18,600 --> 00:12:21,750
+[WOODROW]
+I'm a late bloomer. So I've been told .
+ຂ້ອຍເປັນຄົນດອກໄມ້ຊ້າ. ສະນັ້ນຂ້ອຍໄດ້ຖືກບອກແລ້ວ.
+
+199
+00:12:22,250 --> 00:12:24,250
+[CLIFFORD]
+Are you intimidated by us?
+ເຈົ້າຢ້ານກົວພວກເຮົາບໍ?
+
+200
+00:12:24,750 --> 00:12:26,750
+[WOODROW]
+No.
+ບໍ່
+
+201
+00:12:27,250 --> 00:12:29,250
+[CLIFFORD]
+Let's do a personality test.
+ພວກເຮົາຈະເຮັດການທົດສອບບຸກຄະລິກໍາ.
+
+202
+00:12:29,750 --> 00:12:31,750
+[WOODROW]
+Woodrow L. Steenbeck.
+ໂວດຣູ ລ໌ ສຕີນເບັກ.
+
+203
+00:12:32,250 --> 00:12:34,250
+[RICKY]
+What's the "L" for?
+"L" ຫມາຍຄວາມວ່າຫຍັງ?
+
+204
+00:12:34,750 --> 00:12:36,750
+[WOODROW]
+Lindbergh. 32.
+ລິນດເບີກ. 32.
+
+205
+00:12:37,250 --> 00:12:39,250
+[CLIFFORD]
+Everybody: look at Woodrow.
+ທຸກຄົນ: ເບິ່ງວູດຣູແມ.
+
+206
+00:12:39,750 --> 00:12:41,850
+[CLIFFORD]
+I agree: shy, but not intimidated.
+ຂ້ອຍເຫັນດີ: ໂຊກຮ້າຍ, ແຕ່ບໍ່ຢ້ານກົວ.
+
+207
+00:12:42,350 --> 00:12:44,350
+[RICKY]
+Move over here, Woodrow.
+ຍ້າຍມາບ່ອນນີ້, ວູດຣູ.
+
+208
+00:12:44,850 --> 00:12:50,100
+[DINAH]
+"Brainiac." It sort of goes without saying, doesn't it? Everybody already knows we're abnormally intelligent.
+ມັນບໍ່ຕ້ອງເວົ້າເລີຍ, ແມ່ນບໍ?
+ທຸກຄົນຮູ້ແລ້ວວ່າພວກເຮົາມີຄວາມສະຫຼາດຜິດປົກກະຕິ.
+
+209
+00:12:50,600 --> 00:12:56,600
+[WOODROW]
+That's true. My mother made it for me. It's supposed to be funny  -- but it's not as hilarious as it was originally.
+ນັ້ນແມ່ນຄວາມຈິງ. ແມ່ຂອງຂ້ອຍເຮັດມັນ ສໍາ ລັບຂ້ອຍ.
+ມັນຄວນມ່ວນຊື່ນ - ແຕ່ມັນບໍ່ມ່ວນຫຼາຍເທົ່າທີ່ມັນເປັນຕົ້ນສະບັບ.
+
+210
+00:12:57,100 --> 00:12:59,100
+[DINAH]
+How come?
+ເປັນຫຍັງ?
+
+211
+00:12:59,600 --> 00:13:02,400
+[WOODROW]
+Because she was alive then. Now she's dead.
+ເພາະວ່ານາງຍັງມີຊີວິດຢູ່ເວລານັ້ນ. ດຽວນີ້ນາງຕາຍແລ້ວ.
+
+212
+00:13:02,900 --> 00:13:04,900
+[DINAH]
+Oh.
+ໂອ້.
+
+213
+00:13:05,400 --> 00:13:07,400
+[WOODROW]
+Ha-ha.
+Ha-ha.
+
+214
+00:13:07,900 --> 00:13:09,900
+[DINAH]
+What was she like?
+ນາງເປັນແນວໃດ?
+
+215
+00:13:10,400 --> 00:13:12,400
+[WOODROW]
+Like this.
+ແບບນີ້.
+
+216
+00:13:12,900 --> 00:13:14,900
+[DINAH]
+When'd you lose her?
+ເຈົ້າສູນເສຍນາງເມື່ອໃດ?
+
+217
+00:13:15,400 --> 00:13:17,400
+[WOODROW]
+Officially? This morning .
+ຢ່າງເປັນທາງການບໍ? ຕອນເຊົ້ານີ້.
+
+218
+00:13:17,900 --> 00:13:19,900
+[CLIFFORD]
+Howdy!
+ສະບາຍດີ!
+
+219
+00:13:20,400 --> 00:13:22,500
+[SHELLY]
+What are you doing up there?
+ເຈົ້າເຮັດຫຍັງຢູ່ເທິງນັ້ນ?
+
+220
+00:13:23,000 --> 00:13:25,000
+[CLIFFORD]
+Just enjoying the night air.
+ພຽງແຕ່ເພີດເພີນກັບອາກາດໃນຕອນກາງຄືນ.
+
+221
+00:13:25,500 --> 00:13:27,500
+[CLIFFORD]
+You dare me?
+ເຈົ້າທ້າທາຍຂ້ອຍບໍ?
+
+222
+00:13:28,000 --> 00:13:30,000
+[SHELLY]
+Dare you what?
+ເຈົ້າກ້າຫານຫຍັງ?
+
+223
+00:13:30,500 --> 00:13:33,650
+[CLIFFORD]
+To jump off this bungalow. It's an experiment. 34.
+ເພື່ອໂດດຈາກບັງຄາລູນີ້. ມັນເປັນການທົດລອງ. 34.
+
+224
+00:13:34,150 --> 00:13:36,150
+[RICKY]
+No.
+ບໍ່
+
+225
+00:13:36,650 --> 00:13:41,550
+[WOODROW]
+I love gravity. It might be my favorite law of physics, at the moment.
+ຂ້ອຍມັກແຮງດຶງດູດ. ມັນອາດຈະເປັນກົດ ຫມາຍ
+ທາງດ້ານຟີຊິກທີ່ຂ້ອຍມັກທີ່ສຸດໃນເວລານີ້.
+
+226
+00:13:42,050 --> 00:13:48,000
+[J.J.]
+Be that as it may, I strongly question whether your daughter's Silly-Putty resembles anything from outer space.
+ເຖິງຢ່າງໃດກໍ່ຕາມ,
+ຂ້ອຍສົງໄສຢ່າງແຂງແຮງວ່າປູຕີ້ໂງ່ຂອງລູກສາວຂອງທ່ານຄ້າຍຄືກັບສິ່ງໃດໆຈາກອະວະກາດພາຍນອກບໍ.
+
+227
+00:13:48,500 --> 00:13:50,500
+[SANDY]
+It's called S'morestozium.
+ມັນເອີ້ນວ່າ S'morestozium.
+
+228
+00:13:51,000 --> 00:13:53,000
+[J.J.]
+This is excellent.
+ນີ້ແມ່ນດີເລີດ.
+
+229
+00:13:53,500 --> 00:13:56,300
+[MOTEL MANAGER]
+Thank you. It's really all the machine's doing.
+ຂອບໃຈ. ມັນເປັນທັງຫມົດທີ່ເຄື່ອງຈັກ ກໍາ ລັງເຮັດ.
+
+230
+00:13:56,800 --> 00:14:01,000
+[SANDY]
+What the devil do you know about Astrogeology, anyway, J.J. ? 35.
+ເຈົ້າຮູ້ຫຍັງກ່ຽວກັບວິທະຍາສາດດາວທຽມ, ຢ່າງໃດກໍຕາມ, ເຈຈີ? 35.
+
+231
+00:14:01,500 --> 00:14:03,500
+[MOTEL MANAGER]
+I just maintain the workings.
+ຂ້ອຍພຽງແຕ່ຮັກສາການເຮັດວຽກ.
+
+232
+00:14:04,000 --> 00:14:06,100
+[SANDY]
+Shelly's thesis is supported by --
+ບົດຂຽນຂອງເຊລລີໄດ້ຮັບການສະຫນັບສະຫນູນໂດຍ -
+
+233
+00:14:06,600 --> 00:14:08,600
+[ROGER]
+"Flimsy, outdated evidence."
+ຫຼັກຖານທີ່ອ່ອນແອ, ເກົ່າແກ່.
+
+234
+00:14:09,100 --> 00:14:11,100
+[SANDY]
+I beg your pardon?
+ຂ້ອຍຂໍໂທດບໍ?
+
+235
+00:14:11,600 --> 00:14:16,850
+[ROGER]
+Not in my opinion. I liked the Silly- Putty . I'm quoting what he said.
+ບໍ່ຕາມຄວາມຄິດເຫັນຂອງຂ້ອຍ. ຂ້ອຍມັກປູຕີ້ໂງ່
+. ຂ້ອຍ ກໍາ ລັງອ້າງເຖິງສິ່ງທີ່ລາວເວົ້າ.
+
+236
+00:14:17,350 --> 00:14:21,900
+[J.J.]
+Your son's project very well might've killed us all today, by the way.
+ໂຄງການຂອງລູກຊາຍຂອງທ່ານດີຫຼາຍອາດຈະໄດ້ຂ້າພວກເຮົາທຸກຄົນໃນມື້ນີ້
+, ເຖິງຢ່າງໃດກໍ່ຕາມ.
+
+237
+00:14:22,400 --> 00:14:25,900
+[SANDY]
+Coming from the family that brought us the electromagnetic death-ray.
+ມາຈາກຄອບຄົວທີ່ນໍາເອົາແສງໄຟຟ້າແມັກນີຕິກຕາຍມາໃຫ້ພວກເຮົາ.
+
+238
+00:14:26,400 --> 00:14:28,850
+[J.J.]
+It's a weapon. Of course, it's lethal.
+ມັນເປັນອາວຸດ. ແນ່ນອນ, ມັນເປັນອັນຕະລາຍ.
+
+239
+00:14:29,350 --> 00:14:31,350
+[SANDY]
+So you admit it!
+ສະນັ້ນເຈົ້າຍອມຮັບມັນ!
+
+240
+00:14:31,850 --> 00:14:36,400
+[J.J.]
+Not to mention Brainiac's flag. Is he trying to provoke World War III?
+ບໍ່ເວົ້າເຖິງທຸງຂອງບຣາຍນິກ. ລາວ ກໍາ
+ລັງພະຍາຍາມກະຕຸ້ນສົງຄາມໂລກທີສາມບໍ?
+
+241
+00:14:36,900 --> 00:14:42,900
+[ROGER]
+The jet propulsion belt is eminently safe. I'd allow an eight-year-old boy to operate it. In fact, I did , and he broke the solo- flight altitude record.
+ສາຍແອວຂັບເຄື່ອນເຮືອບິນ Jet ແມ່ນປອດໄພຢ່າງສູງ. ຂ້ອຍຈະອະນຸຍາດໃຫ້ເດັກຊາຍອາຍຸແປດປີ ດໍາ
+ເນີນມັນ. ໃນຄວາມເປັນຈິງ, ຂ້ອຍເຮັດແລ້ວ, ແລະລາວໄດ້ ທໍາ ລາຍບັນທຶກຄວາມສູງການບິນຄົນດຽວ.
+
+242
+00:14:43,400 --> 00:14:47,250
+[MOTEL MANAGER]
+They're strange aren't they? Your children. Compared to normal people. 36.
+ພວກເຂົາແປກໃຈບໍ່? ລູກຂອງທ່ານ. ເມື່ອທຽບໃສ່ຄົນປົກກະຕິ. 36.
+
+243
+00:14:47,750 --> 00:14:53,750
+[DINAH]
+After that, the second person says the name the first one said and adds another; then the third person says both plus a new name; then the next person keeps going and so on in a circle. It's a memory game. Get it?
+ຫຼັງຈາກນັ້ນ, ຄົນທີສອງເວົ້າຊື່ທີ່ຄົນ ທໍາ ອິດເວົ້າແລະເພີ່ມອີກຄົນຫນຶ່ງ; ຫຼັງຈາກນັ້ນຄົນທີສາມເວົ້າທັງສອງບວກກັບຊື່
+ໃຫມ່; ຈາກນັ້ນຄົນຕໍ່ໄປສືບຕໍ່ແລະອື່ນໆໃນວົງຈອນ. ມັນແມ່ນເກມຄວາມຊົງຈໍາ. ເຂົ້າໃຈບໍ?
+
+244
+00:14:54,250 --> 00:14:56,250
+[RICKY]
+I think so.
+ຂ້ອຍຄິດວ່າເປັນ.
+
+245
+00:14:56,750 --> 00:14:58,750
+[DINAH]
+I'll start. Cleopatra.
+ຂ້ອຍຈະເລີ່ມຕົ້ນ. ຄລີໂອບາຕຣາ.
+
+246
+00:14:59,250 --> 00:15:01,350
+[RICKY]
+Cleopatra, Jagadish Chandra Bose. Like that?
+ຄລີໂອບາຕຣາ, ຈາຈາດິສ ຈັນດຣາ ໂບສ. ເຊັ່ນນັ້ນບໍ?
+
+247
+00:15:01,850 --> 00:15:04,300
+[SHELLY]
+Cleopatra, Jagadish Chandra Bose, Antonie van Leeuwenhoek.
+Cleopatra, Jagadish Chandra Bose, ແອນໂຕນີ ວານ Leeuwenhoek.
+
+248
+00:15:04,800 --> 00:15:07,950
+[CLIFFORD]
+Cleopatra, Jagadish Chandra Bose, Antonie van Leeuwenhoek -- Paracelsus.
+ຄລີໂອບາຕຣາ, ຈາຈາດິສ ຈັນດຣາ ໂບສ,
+ແອນໂຕນີ ວານ ເລວເວນຮຸກ - ປາຣາເຊລສັສ.
+
+249
+00:15:08,450 --> 00:15:12,300
+[WOODROW]
+Cleopatra, Jagadish Chandra Bose, Antonie van Leeuwenhoek, Paracelsus --  Kurt G�del.
+ຄລີໂອບາຕຣາ, ຈາຈາດິສ ຈັນດຣາ ໂບສ, ແອນໂຕນີ
+ວານ ເລວເວນຮຸກ, ປາຣາເຊລສັສ - ຄູຕ໌ ຈີ ເດລ.
+
+250
+00:15:12,800 --> 00:15:17,350
+[DINAH]
+Cleopatra, Jagadish Chandra Bose, Antonie van Leeuwenhoek, Paracelsus, Kurt G�del --  William Bragg.
+ຄລີໂອບາຕຣາ, ຈາຈາດິສ ຈັນດຣາ ໂບສ, ແອນໂຕນີ ວານ
+ເລວເວນຮຸກ, ປາຣາເຊລສັສ, ຄູຕ໌ ຈີ ເດລ - ວິລຍາມ ບຣາກ.
+
+251
+00:15:17,850 --> 00:15:19,850
+[CLIFFORD]
+Which one?
+ອັນໃດ?
+
+252
+00:15:20,350 --> 00:15:22,350
+[RICKY]
+There's two.
+ມີສອງຄົນ.
+
+253
+00:15:22,850 --> 00:15:24,850
+[DINAH]
+William Henry Bragg.
+ວິລຍາມ ເຮນຣີ ບຣາຈກ໌.
+
+254
+00:15:25,350 --> 00:15:27,800
+[RICKY]
+Cleopatra, Jagadish Chandra Bose, Antonie van --
+ຄລີໂອບາຕຣາ, ຈາຈາດິສ ຈັນດຣາ ໂບສ, ແອນໂຕນີ ວານ -
+
+255
+00:15:28,300 --> 00:15:30,400
+[RICKY]
+Paracelsus, Kurt G�del, William Henry Bragg.
+Paracelsus, ຄູຕ໌ G del, ວິລຍາມ ເຮນຣີ ບຣາກ.
+
+256
+00:15:30,900 --> 00:15:36,500
+[SHELLY]
+Cleopatra, Jagadish Chandra Bose, Antonie van Leeuwenhoek, Paracelsus, Kurt G�del, William Henry Bragg, Lord Kelvin --
+ຄລີໂອບາຕຣາ, ຈາຈາດິສ ຈັນດຣາ ໂບສ, ແອນໂຕນີ ວານ ເລວເວນຮຸກ, ປາຣາເຊລສັສ
+, ຄູຕ໌ ຈີ ເດລ, ວິລຍາມ ເຮນຣີ ບຣາກ, ພຣະຜູ້ເປັນເຈົ້າ ເຄລວິນ -
+
+257
+00:15:37,000 --> 00:15:39,000
+[SHELLY]
+-- Midge Campbell.  38.
+- ມິດຈ໌ ແຄມບລ. 38.
+
+258
+00:15:39,500 --> 00:15:44,050
+[DINAH]
+As long as she's a real person. You can say anybody you like.
+ຕາບໃດທີ່ນາງເປັນຄົນແທ້ຈິງ. ເຈົ້າສາມາດເວົ້າໃຜທີ່ທ່ານມັກໄດ້.
+
+259
+00:15:44,550 --> 00:15:46,550
+[CLIFFORD]
+Cleopatra, Jagadish Chandra Bose --
+ຄລີໂອບາຕຣາ, ຈາຈາດິສ ຈັນດຣາ ໂບສ -
+
+260
+00:15:47,050 --> 00:15:53,050
+[CLIFFORD]
+My turn. Jagadish Chandra Bose, Antonie van Leeuwenhoek, Paracelsus, Kurt G�del, William Bragg , Lord Kelvin , Midge Campbell  --  -- Konstantin Tsiolkovsky .
+ໂມງຂອງຂ້ອຍ. ຈາຈາດິສ ຈັນດຣາ ໂບສ, ແອນໂຕນີ ວານ ເລວເວນຮຸກ, ປາຣາເຊລສັສສ໌, ຄູຕ໌ ຈີ ເດລ
+, ວິລຍາມ ບຣັກກ໌, ພຣະຜູ້ເປັນເຈົ້າເຄລວິນ, ມິດຈ໌ ແຄມເບລ - - ຄອນສຕິນຕິນ ຊີໂອລໂກສກີ.
+
+261
+00:15:53,550 --> 00:15:59,550
+[RICKY]
+I don't know if this game works with us. Brainiacs, I mean. I think it might go on forever.
+ຂ້ອຍບໍ່ຮູ້ວ່າເກມນີ້ເຮັດວຽກກັບພວກເຮົາບໍ. Brainiacs,
+ຂ້ອຍຫມາຍຄວາມວ່າ. ຂ້ອຍຄິດວ່າມັນອາດຈະສືບຕໍ່ຕະຫຼອດໄປ.
+
+262
+00:16:00,050 --> 00:16:06,050
+[SHELLY]
+I don't mind. In my school, nobody'd play this game with me in a million years -- plus the names'd be too obvious.
+ຂ້ອຍບໍ່ສົນໃຈ. ໃນໂຮງຮຽນຂອງຂ້ອຍ, ບໍ່ມີໃຜຈະຫຼິ້ນເກມນີ້ກັບຂ້ອຍໃນ
+ຫນຶ່ງ ລ້ານປີ - ບວກກັບຊື່ຈະແຈ້ງເກີນໄປ.
+
+263
+00:16:06,550 --> 00:16:08,650
+[CLIFFORD]
+I know my next one. Diophantus.
+ຂ້ອຍຮູ້ຈັກຄົນຕໍ່ໄປຂອງຂ້ອຍ. Diophantus.
+
+264
+00:16:09,150 --> 00:16:12,300
+[DINAH]
+Try it backwards, Brainiac. Say the new one first.
+ພະຍາຍາມມັນກັບຄືນໄປບ່ອນ, Brainiac. ເວົ້າຄົນໃຫມ່ກ່ອນ.
+
+265
+00:16:12,800 --> 00:16:14,800
+[WOODROW]
+Hj Tokiyuki.
+HJ Tokyuki.
+
+266
+00:16:15,300 --> 00:16:19,150
+[WOODROW]
+Konstantin Tsiolkovsky, Midge Campbell, Lord Kelvin, William Henry Bragg, Kurt  39.
+ຄອນສຕິນ ຊີໂອລໂກສກີ, ມິດຈ໌ ແຄມເບລ, ພຣະຜູ້ເປັນເຈົ້າ
+ເຄລວິນ, ວິລຍາມ ເຮນຣີ ບຣາກ, ຄູຕ໌ 39.
+
+267
+00:16:19,650 --> 00:16:21,650
+[WOODROW]
+Cleopatra.
+ຄລີໂອບາຕຣາ.
+
+268
+00:16:22,150 --> 00:16:24,150
+[JUNE]
+Put out that cigarette, Dwight.
+ປິດຢາສູບນັ້ນ, ດວາຍຕ໌.
+
+269
+00:16:24,650 --> 00:16:27,100
+[JUNE]
+You men should be ashamed of yourselves.
+ພວກເຈົ້າຜູ້ຊາຍຄວນໂຊກຮ້າຍດ້ວຍຕົວເອງ.
+
+270
+00:16:27,600 --> 00:16:29,600
+[JUNE]
+Are you?
+ເຈົ້າເປັນບໍ?
+
+271
+00:16:30,100 --> 00:16:32,550
+[MONTANA]
+Yes, ma'am. We didn't give him that.
+ແມ່ນແລ້ວ, ແມ່. ພວກເຮົາບໍ່ໄດ້ໃຫ້ລາວນັ້ນ.
+
+272
+00:16:33,050 --> 00:16:36,550
+[MONTANA]
+No, ma'am. He just must've got it his own self.
+ບໍ່, ແມ່. ລາວພຽງແຕ່ຕ້ອງໄດ້ມັນເອງ.
+
+273
+00:16:37,050 --> 00:16:39,500
+[JUNE]
+I almost believe you.  Let's go. 40.
+ຂ້ອຍເກືອບເຊື່ອເຈົ້າ. ໄປ. 40.
+
+274
+00:16:40,000 --> 00:16:45,600
+[MIDGE]
+"Was I ever there? Was I ever there? Was I ever there? Did you actually --"
+ຂ້ອຍເຄີຍຢູ່ທີ່ນັ້ນບໍ? ຂ້ອຍເຄີຍຢູ່ບ່ອນນັ້ນບໍ
+?! ຂ້ອຍເຄີຍຢູ່ໃນບ່ອນນັ້ນ ບໍ? ເຈົ້າແທ້ໆ -"
+
+275
+00:16:46,100 --> 00:16:48,100
+[MIDGE]
+Memorizing my lines.
+ຂ້ອຍ ກໍາ ລັງຈົດ ຈໍາ ຄໍາ ເວົ້າຂອງຂ້ອຍ.
+
+276
+00:16:48,600 --> 00:16:50,600
+[AUGIE]
+Uh-huh.
+ໂອ້.
+
+277
+00:16:51,100 --> 00:16:53,100
+[MIDGE]
+Approved.
+ເຫັນດີແລ້ວ.
+
+278
+00:16:53,600 --> 00:16:56,750
+[MIDGE]
+I do a nude scene. Want to see it?
+ຂ້ອຍເຮັດຮູບພາບເປົ່າ. ເຈົ້າຢາກເຫັນມັນບໍ?
+
+279
+00:16:57,250 --> 00:16:59,250
+[AUGIE]
+Did I say, "Yes?"
+ຂ້ອຍຕອບວ່າ, ແມ່ນບໍ?
+
+280
+00:16:59,750 --> 00:17:01,750
+[MIDGE]
+You didn't say anything.
+ເຈົ້າບໍ່ໄດ້ເວົ້າຫຍັງເລີຍ.
+
+281
+00:17:02,250 --> 00:17:05,050
+[AUGIE]
+I meant, "Yes." My mouth didn't speak. 41.
+ຂ້ອຍຫມາຍຄວາມວ່າ," ແມ່ນແລ້ວ." ປາກຂອງຂ້ອຍບໍ່ໄດ້ເວົ້າ. 41.
+
+282
+00:17:05,550 --> 00:17:09,400
+[MIDGE]
+It's a monologue. It starts when I turn off the shower.
+ມັນເປັນໂມໂນໂລຈີ. ມັນເລີ່ມຕົ້ນເມື່ອຂ້ອຍປິດອາບນ້ ໍາ.
+
+283
+00:17:09,900 --> 00:17:15,900
+[MIDGE]
+"When you first picked me out of the secretarial pool, I had a hundred and eleven dollars in my bank account. I lived alone with a cat and a parakeet in a one-room dishwater flat. I sold the DeSoto to lend you the down-payment for my engagement ring. It was spring... I'm not sore: I know you're a good man. I'm not sorry: I never deceived you. Remember me as a blur in the rearview mirror. Was I ever there? Did you actually see me? I can't even see myself anymore -- but here I am.
+ເມື່ອເຈົ້າເອົາຂ້ອຍອອກຈາກສະລອຍນ້ ໍາ ເລຂາທິການຄັ້ງ ທໍາ ອິດ, ຂ້ອຍມີເງິນສິບຫນຶ່ງໂດລາໃນບັນຊີທະນາຄານຂອງຂ້ອຍ. ຂ້ອຍອາໄສຢູ່ຄົນດຽວກັບແມວແລະປ່າປ່າໃນເຮືອນຊານນ້ ໍາ ກະຕ່າ ຫນຶ່ງ ຫ້ອງ. ຂ້ອຍໄດ້ຂາຍ DeSoto
+ເພື່ອໃຫ້ເງິນກູ້ຢືມເຈົ້າ ສໍາ ລັບແມວນັກແຕ່ງງານຂອງຂ້ອຍ. ມັນແມ່ນພາກຮຽນ spring... ຂ້ອຍບໍ່ເຈັບປວດ: ຂ້ອຍຮູ້ວ່າເຈົ້າເປັນຜູ້ຊາຍທີ່ດີ. ຂ້ອຍບໍ່ເສຍໃຈ: ຂ້ອຍບໍ່ເຄີຍຫຼອກລວງເຈົ້າ. ຈື່ຂ້ອຍເປັນ blur ໃນຈໍເບິ່ງຫຼັງ
+
+284
+00:17:16,400 --> 00:17:18,400
+[MIDGE]
+Let's get divorced."
+ພວກເຮົາຈະແຍກກັນ.
+
+285
+00:17:18,900 --> 00:17:24,900
+[MIDGE]
+It'll be done tastefully, of course. We cut to the back of my legs when the towel falls down.
+ມັນຈະເຮັດດ້ວຍລົດຊາດແນ່ນອນ.
+ພວກເຮົາຕັດໄປທາງຫຼັງຂອງຕີນຂອງຂ້ອຍເມື່ອກະທູ້ຕົກລົງ.
+
+286
+00:17:25,400 --> 00:17:27,400
+[AUGIE]
+Sometimes they do a stunt-double.
+ບາງຄັ້ງພວກເຂົາເຮັດການກະຕຸ້ນສອງຄັ້ງ.
+
+287
+00:17:27,900 --> 00:17:31,750
+[MIDGE]
+Sometimes. I don't know if I like beards, by the way.
+ບາງຄັ້ງ. ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍມັກຜົມບໍ, ເຖິງຢ່າງໃດກໍ່ຕາມ.
+
+288
+00:17:32,250 --> 00:17:35,400
+[AUGIE]
+Oh. Can I take another picture? Not for publication.
+ໂອ້. ຂ້ອຍສາມາດຖ່າຍຮູບອີກໄດ້ບໍ? ບໍ່ແມ່ນເພື່ອເຜີຍແຜ່.
+
+289
+00:17:35,900 --> 00:17:38,000
+[MIDGE]
+I thought you never ask permission.
+ຂ້ອຍຄິດວ່າເຈົ້າບໍ່ເຄີຍຂໍອະນຸຍາດເລີຍ.
+
+290
+00:17:38,500 --> 00:17:44,500
+[MIDGE]
+I prefer to play abused, tragic alcoholics, and one day I'll probably be discovered lifeless in an overflowing bathtub with an empty bottle of sleeping pills spilled all over the floor -- but the sad thing is: I'm actually a very gifted comedienne.
+ຂ້ອຍມັກຫຼີ້ນຄົນດື່ມເຫຼົ້າທີ່ຖືກລ່ວງລະເມີດ, ໂຊກຮ້າຍ, ແລະມື້ຫນຶ່ງຂ້ອຍອາດຈະຖືກຄົ້ນພົບບໍ່ມີຊີວິດໃນຖ້ວມນ້ ໍາ
+ທີ່ເຕັມໄປດ້ວຍນ້ ໍາ ດ້ວຍຈອກເປົ່າຂອງຢານອນທີ່ຖິ້ມລົງທົ່ວພື້ນ - ແຕ່ສິ່ງທີ່ໂຊກເສົ້າແມ່ນ: ຂ້ອຍເປັນນັກໂມດິນທີ່ມີຄວາມສາມາດຫຼາຍ.
+
+291
+00:17:45,000 --> 00:17:47,000
+[AUGIE]
+That's true.
+ນັ້ນແມ່ນຄວາມຈິງ.
+
+292
+00:17:47,500 --> 00:17:49,500
+[MIDGE]
+Are you married?
+ເຈົ້າແຕ່ງງານບໍ?
+
+293
+00:17:50,000 --> 00:17:53,150
+[AUGIE]
+I'm a widower -- but don't tell my kids.
+ຂ້ອຍເປັນໂສດ - ແຕ່ຢ່າບອກລູກຂອງຂ້ອຍ.
+
+294
+00:17:53,650 --> 00:17:57,150
+[MIDGE]
+Why not? I mean: I wasn't going to. I'm sorry.
+ເປັນຫຍັງບໍ່? ຂ້ອຍຫມາຍຄວາມວ່າ: ຂ້ອຍຈະບໍ່ເຮັດ. ຂ້ອຍຂໍໂທດ.
+
+295
+00:17:57,650 --> 00:18:01,850
+[AUGIE]
+Thank you. They do know, by the way -- but just barely.
+ຂອບໃຈ. ພວກເຂົາຮູ້, ເຖິງຢ່າງໃດກໍ່ຕາມ - ແຕ່ພຽງແຕ່ເກືອບ.
+
+296
+00:18:02,350 --> 00:18:04,450
+[PANDORA]
+Put the potion in it. 43.
+ເອົາຢາດື່ມໃສ່ມັນ. 43.
+
+297
+00:18:04,950 --> 00:18:10,900
+[CASSIOPEIA]
+Friskity, triskity, briskity, boo; knickerty, knockerty, tockerty, too! And with this spell: Mama comes back -- alive!
+ຄວາມຟຣີສຕິກ, ຄວາມສັ່ນສະເທືອນ, ຄວາມໄວ, ບູ; knickerty, knockarty,
+tockerty ເຊັ່ນກັນ! ແລະດ້ວຍຄໍາຊະຍາກອນນີ້: ແມ່ກັບມາ - ມີຊີວິດຢູ່!
+
+298
+00:18:11,400 --> 00:18:13,400
+[ANDROMEDA]
+God save these bones.
+ພຣະເຈົ້າຊ່ວຍກະດູກເຫຼົ່ານີ້.
+
+299
+00:18:13,900 --> 00:18:15,900
+[STANLEY]
+What's in the Tupperware?
+ມີຫຍັງຢູ່ໃນ Tupperware?
+
+300
+00:18:16,400 --> 00:18:18,400
+[STANLEY]
+He finally told you.
+ລາວບອກເຈົ້າໃນທີ່ສຸດ.
+
+301
+00:18:18,900 --> 00:18:20,900
+[PANDORA]
+Who's this old man?
+ຜູ້ເຖົ້າຄົນນີ້ແມ່ນໃຜ?
+
+302
+00:18:21,400 --> 00:18:23,400
+[CASSIOPEIA]
+Poppy, I think.
+ຂ້ອຍຄິດວ່າໂປເປຍ.
+
+303
+00:18:23,900 --> 00:18:25,900
+[STANLEY]
+You don't remember me?
+ເຈົ້າບໍ່ຈື່ຂ້ອຍບໍ?
+
+304
+00:18:26,400 --> 00:18:28,400
+[ANDROMEDA]
+I remember his smell.
+ຂ້ອຍຈື່ກິ່ນຫອມຂອງລາວ.
+
+305
+00:18:28,900 --> 00:18:34,900
+[STANLEY]
+We're not going to abandon my daughter at a motel in the middle of the desert buried next to the communal showers.
+ພວກເຮົາຈະບໍ່ປະຖິ້ມລູກສາວຂອງຂ້ອຍຢູ່ໂມເຕລໃນກາງທະເລຊາຍທີ່ຝັງໄວ້ຢູ່ຂ້າງອາບນ້
+ໍາ ປະຊາຄົມ.
+
+306
+00:18:35,400 --> 00:18:37,850
+[ANDROMEDA]
+If you torture us, we'll sacrifice you.
+ຖ້າເຈົ້າທໍລະມານພວກເຮົາ, ພວກເຮົາຈະເສຍສະຫຼະເຈົ້າ.
+
+307
+00:18:38,350 --> 00:18:44,350
+[STANLEY]
+I understand. Thank you for your -- clarity. I'll tell you what: we'll leave her alone in the ground until tomorrow morning. Then we'll exhume the Tupperware, bring her with us in the Cadillac, and bury her again this weekend in the backyard next to the seventh hole at Rancho Palms where I live in a beautiful house with a swimming pool. Agreed?
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ຂອບໃຈ ສໍາ ລັບ - ຄວາມຊັດເຈນຂອງທ່ານ. ຂ້ອຍຈະບອກເຈົ້າວ່າ: ພວກເຮົາຈະປ່ອຍນາງຢູ່ຄົນດຽວໃນດິນຈົນຮອດຕອນເຊົ້າມື້ອື່ນ. ຫຼັງຈາກນັ້ນພວກເຮົາຈະຂຸດຄົ້ນ Tupperware
+, ເອົານາງກັບພວກເຮົາໃນ Cadillac, ແລະຝັງນາງອີກຄັ້ງໃນທ້າຍອາທິດນີ້ໃນສວນຫຼັງຂ້າງຮູທີເຈັດໃນ Rancho Palms ບ່ອນທີ່ຂ້ອຍອາໄສຢູ່ໃນເຮືອນທີ່ສວຍງາມທີ່ມີສະລອຍນ້ ໍາ. ເຫັນດີບໍ?
+
+308
+00:18:44,850 --> 00:18:50,850
+[STANLEY]
+Let's hope a coyote doesn't dig her up in the meantime. Nothing we can do about it, anyway. Look at that.
+ພວກເຮົາຫວັງວ່າໂກຢອດຈະບໍ່ຂຸດຄົ້ນນາງໃນເວລານັ້ນ.
+ບໍ່ມີຫຍັງທີ່ພວກເຮົາສາມາດເຮັດໄດ້ກ່ຽວກັບມັນ, ຢ່າງໃດກໍຕາມ. ເບິ່ງນັ້ນ.
+
+309
+00:18:51,350 --> 00:18:55,200
+[MONTANA]
+What do you swap for out a'this pertickler jukebox, mister? 45.
+ເຈົ້າປ່ຽນກ່ອງດົນຕີ pertickler ນີ້ເປັນຫຍັງ, ທ້າວ? 45.
+
+310
+00:18:55,700 --> 00:18:58,500
+[MOTEL MANAGER]
+Of course, I understand. This machine: sells land.
+ແນ່ນອນ, ຂ້ອຍເຂົ້າໃຈ. ເຄື່ອງຈັກນີ້: ຂາຍດິນ.
+
+311
+00:18:59,000 --> 00:19:01,000
+[MONTANA]
+Land, you say?
+ເຈົ້າເວົ້າວ່າດິນບໍ?
+
+312
+00:19:01,500 --> 00:19:05,000
+[MOTEL MANAGER]
+Yes, indeed. The properties just beyond these cottages, in fact.
+ແມ່ນແລ້ວ, ແທ້ຈິງແລ້ວ.
+ຊັບສິນຢູ່ເບື້ອງຫຼັງເຮືອນຊານເຫຼົ່ານີ້, ໃນຄວາມເປັນຈິງ.
+
+313
+00:19:05,500 --> 00:19:07,600
+[MONTANA]
+Out a' this here soder-pop machine?
+ອອກຈາກເຄື່ອງຈັກໂຊດເປີ-ປັອບນີ້ບໍ?
+
+314
+00:19:08,100 --> 00:19:10,100
+[MOTEL MANAGER]
+Yes, indeed.
+ແມ່ນແລ້ວ, ແທ້ຈິງແລ້ວ.
+
+315
+00:19:10,600 --> 00:19:16,600
+[MONTANA]
+Well, now, I ain't callin' you a liar to your face, but that sounds to me like some kind a' toadswindle.
+ດີ, ດຽວນີ້, ຂ້ອຍບໍ່ໄດ້ເອີ້ນເຈົ້າວ່າຕົວະຕໍ່ໃບຫນ້າຂອງທ່ານ
+, ແຕ່ມັນເບິ່ງຄືວ່າຂ້ອຍຄືກັບການສໍ້ໂກງແມງໄມ້ບາງຢ່າງ.
+
+316
+00:19:17,100 --> 00:19:23,100
+[MOTEL MANAGER]
+Of course, I understand. It's not a toadswindle. You put in the money: you receive a notarized deed to the land.
+ແນ່ນອນ, ຂ້ອຍເຂົ້າໃຈ. ມັນບໍ່ແມ່ນກະຕຸ້ນກະຕູ້ກະຕູ້ນີ້. ເຈົ້າເອົາເງິນໄວ້
+: ເຈົ້າໄດ້ຮັບໃບຢັ້ງຢືນທີ່ຖືກຕ້ອງຕາມກົດ ຫມາຍ ສໍາ ລັບດິນ.
+
+317
+00:19:23,600 --> 00:19:25,600
+[MONTANA]
+How big a spread?
+ການແຜ່ກະຈາຍໃຫຍ່ປານໃດ?
+
+318
+00:19:26,100 --> 00:19:29,250
+[MOTEL MANAGER]
+For $10 in quarters: approximately half a tennis court.
+ສໍາລັບ 10 ໂດລາໃນສີ່ແສນ: ປະມານເຄິ່ງຫນຶ່ງຂອງສະຫນາມເທັນນິສ.
+
+319
+00:19:29,750 --> 00:19:35,750
+[DR. HICKENLOOPER]
+Tonight you're in for a real treat. I don't know how many of you ever observed an Astronomical Ellipses before. Can we get a show-of-hands? 46.
+ມື້ນີ້ເຈົ້າຈະໄດ້ຮັບຄວາມຊົມເຊີຍທີ່ແທ້ຈິງ.
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເຄີຍສັງເກດເຫັນເອລິບສ໌ທາງດາວທຽມຫຼາຍປານໃດກ່ອນ. ພວກເຮົາສາມາດສະແດງມືໄດ້ບໍ? 46.
+
+320
+00:19:36,250 --> 00:19:42,250
+[DR. HICKENLOOPER]
+Nobody! Wow. OK, well, what you're going to see is a very simple, "dot, dot, dot": three pin-points of light inside your refracting-box, which may not sound very exciting, at first -- until you consider how those dots managed to transmit themselves across a thousand billion miles of space onto that little scrap of black cardboard. Twice every fifty-seven years, when the earth, the sun, the moon, and the galactic plane of the Milky Way all combobulate along the same angle of orbital interest, the radiant energy of three neighboring stellar systems induces a parallel ecliptic transit; thus, all but proving the hypothesis of Celestial Flirtation. The hitch, of course, is that the math doesn't work! But maybe one of you, one day, will be the genius who solves that problem.  The event will begin in thirty seconds.
+ບໍ່ມີໃຜ! ໂວ້. ດີ, ດີ, ສິ່ງທີ່ທ່ານຈະເຫັນແມ່ນງ່າຍດາຍຫຼາຍ,"ຈຸດ, ຈຸດ, ຈຸດ": ສາມຈຸດແສງສະຫວ່າງພາຍໃນກ່ອງ refracting ຂອງທ່ານ, ເຊິ່ງອາດຈະບໍ່ສຽງທີ່ ຫນ້າ ຕື່ນເຕັ້ນຫຼາຍ, ໃນຕອນ ທໍາ ອິດ
+- ຈົນກວ່າທ່ານຈະພິຈາລະນາວ່າຈຸດເຫຼົ່ານັ້ນສາມາດສົ່ງຕົວເອງຜ່ານອະວະກາດພັນລ້ານແມລໃນກະດານກະຕູ້ສີດໍານ້ອຍໆນັ້ນໄດ້ແນວໃດ. ສອງຄັ້ງໃນທຸກໆຫ້າສິບເຈັດປີ, ເມື່ອໂລກ, ແສງຕາເວັນ, ດວງຈັນ, ແລະທ
+
+321
+00:19:42,750 --> 00:19:48,750
+[DR. HICKENLOOPER]
+Remember: if you look directly at the ellipses rather than through your refracting-box, not only will you not actually see the effect -- but you'll burn the dots straight into your retina, probably permanently. I know that for a fact, because they're still burned into mine from when I was eleven-going-on- twelve. That's when I realized I wanted to be an astronomer, which is another story.  Here we go!
+ຈື່ໄວ້ວ່າ: ຖ້າເຈົ້າເບິ່ງເອລິບສ໌ໂດຍກົງແທນທີ່ຈະຜ່ານກ່ອງການສັ່ນສະເທືອນຂອງທ່ານ, ບໍ່ພຽງແຕ່ເຈົ້າຈະບໍ່ເຫັນຜົນກະທົບແທ້ໆ - ແຕ່ເຈົ້າຈະເຜົາໄຫມ້ຈຸດໂດຍກົງເຂົ້າໄປໃນ retina ຂອງທ່ານ, ບາງທີເປັນຢ່າງຍືນຍົງ.
+ຂ້ອຍຮູ້ວ່າມັນເປັນຄວາມຈິງ, ເພາະວ່າພວກມັນຍັງຖືກເຜົາ ໄຫມ້ເຂົ້າໄປໃນຂອງຂ້ອຍຕັ້ງແຕ່ຂ້ອຍອາຍຸສິບຫນຶ່ງ- ຕໍ່ໄປສິບສອງ. ນັ້ນແມ່ນເວລາທີ່ຂ້ອຍຮູ້ວ່າຂ້ອຍຢາກເປັນນັກວິທະຍາສາດດາວທຽມ, ເຊິ່ງເປັນເລື່ອງອື່ນ. ມາແລ້ວ!
+
+322
+00:19:49,250 --> 00:19:51,250
+[WOODROW]
+There it is.
+ມັນຢູ່ບ່ອນນັ້ນ.
+
+323
+00:19:51,750 --> 00:19:56,650
+[DR. HICKENLOOPER]
+These are just marvelously luminous colors, aren't they? Very exciting! Who doesn't see it?
+ນີ້ແມ່ນພຽງແຕ່ສີທີ່ສົດໃສຢ່າງຍິ່ງໃຫຍ່,
+ແມ່ນບໍ? ຫນ້າ ຕື່ນເຕັ້ນຫຼາຍ! ໃຜບໍ່ເຫັນມັນ?
+
+324
+00:19:57,150 --> 00:19:59,600
+[FRECKLED BOY]
+I don't! I just see a staple.
+ຂ້ອຍບໍ່ເຮັດ! ຂ້ອຍພຽງແຕ່ເຫັນກະດານຫຼັກ.
+
+325
+00:20:00,100 --> 00:20:02,100
+[FRECKLED BOY]
+Yipe! It works.
+ຍິບ! ມັນເຮັດວຽກໄດ້.
+
+326
+00:20:02,600 --> 00:20:04,600
+[MIDGE]
+Are you Shelly?
+ເຈົ້າເປັນເຊລລີບໍ?
+
+327
+00:20:05,100 --> 00:20:07,100
+[SHELLY]
+Huh? Yeah!
+ຮາ? ແມ່ນແລ້ວ!
+
+328
+00:20:07,600 --> 00:20:09,700
+[MIDGE]
+I'm your idol. What's your rank?
+ຂ້ອຍເປັນຮູບປັ້ນຂອງເຈົ້າ. ຕໍາ ແຫນ່ງຂອງເຈົ້າແມ່ນຫຍັງ?
+
+329
+00:20:10,200 --> 00:20:12,200
+[SHELLY]
+Commanding-secretary. 48.
+ເລຂາທິການຜູ້ບັນຊາການ. 48.
+
+330
+00:20:12,700 --> 00:20:14,800
+[MIDGE]
+I was a Cookie Trooper, myself.
+ຂ້ອຍເອງເປັນທະຫານຄຸກເກີ.
+
+331
+00:20:15,300 --> 00:20:18,100
+[SHELLY]
+Really? Wow! What'll they say in Squad 75?
+ແທ້ຈິງບໍ? ໂວ້! ພວກເຂົາຈະເວົ້າຫຍັງໃນທີມງານ 75?
+
+332
+00:20:18,600 --> 00:20:20,600
+[WOODROW]
+Hm?
+ເຮມ?
+
+333
+00:20:21,100 --> 00:20:23,100
+[AUGIE]
+The alien stole the asteroid.
+ຄົນຕ່າງດາວໄດ້ລັກດາວທຽມ.
+
+334
+00:20:23,600 --> 00:20:29,600
+[HOST]
+The character of Augie Steenbeck in the imaginary tale of our production was to become famously and indelibly connected to the actor who "created" the role -- a former carpenter discovered in a bit part by the play's director, Schubert Green.
+ລັກສະນະຂອງໂອຈີ ສຕີນເບັກໃນເລື່ອງຈິນຕະນາການຂອງການຜະລິດຂອງພວກເຮົາແມ່ນທີ່ຈະກາຍເປັນທີ່ຮູ້ຈັກແລະເຊື່ອມໂຍງທີ່ບໍ່ສາມາດລຶບລ້າງໄດ້ກັບນັກສະແດງທີ່"ສ້າງ"
+ບົດບາດ - ນັກຕັດໄມ້ເກົ່າທີ່ຄົ້ນພົບໃນບົດບາດ ຫນ້ອຍ ຫນຶ່ງ ໂດຍຜູ້ອໍານວຍການຂອງບົດສະແດງ, ຊູເບີດ ແກຣນ.
+
+335
+00:20:30,100 --> 00:20:34,650
+[PLAYWRIGHT]
+I've finished my correspondence, Analisse. Please, bring me my cocktail and my pill.
+ຂ້ອຍໄດ້ສິ້ນສຸດການສື່ສານຂອງຂ້ອຍແລ້ວ, ການວິເຄາະ.
+ກະລຸນາ, ເອົາຄັອກເກວຂອງຂ້ອຍແລະເມັດຂອງຂ້ອຍມາໃຫ້ຂ້ອຍ.
+
+336
+00:20:35,150 --> 00:20:37,150
+[SECRETARY]
+Remember, the gentleman --
+ຈື່ໄວ້ວ່າ, ຜູ້ຊາຍຄົນນັ້ນ -
+
+337
+00:20:37,650 --> 00:20:39,650
+[PLAYWRIGHT]
+Oh, no.
+ໂອ້ ບໍ່
+
+338
+00:20:40,150 --> 00:20:42,950
+[SECRETARY]
+-- referred by Mr. Green. Has arrived --
+- ທີ່ຖືກອ້າງໂດຍທ່ານແກຣນ. ໄດ້ມາຮອດແລ້ວ -
+
+339
+00:20:43,450 --> 00:20:49,450
+[PLAYWRIGHT]
+Send him away. Put him up at the Salty Skipper  and tell him to come back in the morning --  -- but not before eleven.
+ສົ່ງລາວໄປ. ເອົາລາວຂຶ້ນຢູ່ Salty Skipper
+ແລະບອກລາວໃຫ້ກັບມາໃນຕອນເຊົ້າ - - ແຕ່ບໍ່ແມ່ນກ່ອນເວລາສິບຫນຶ່ງ.
+
+340
+00:20:49,950 --> 00:20:55,950
+[HOST]
+The occasion of the first meeting between playwright and player is now  a matter of theatrical lore and legend. Setting: late autumn,  51.
+ໂອກາດການພົບປະຄັ້ງ ທໍາ ອິດລະຫວ່າງນັກຂຽນລະຄອນແລະນັກສະແດງແມ່ນປັດຈຸບັນເປັນເລື່ອງຂອງຄວາມຮູ້ແລະນິທານລະຄອນ
+. ການຕັ້ງຄ່າ: ທ້າຍລະດູໃບໄມ້ລົ່ນ, 51.
+
+341
+00:20:56,450 --> 00:21:02,400
+[PLAYWRIGHT]
+Oh, no, again. I beg your pardon. I'm sorry: did Miss Watson not inform you? I'm indisposed.
+ໂອ້, ບໍ່, ອີກເທື່ອຫນຶ່ງ. ຂ້ອຍຂໍໂທດ. ຂ້ອຍ ຂໍໂທດ:
+ນາງວອດຊັນບໍ່ໄດ້ແຈ້ງໃຫ້ທ່ານຮູ້ບໍ? ຂ້ອຍບໍ່ສະບາຍໃຈ.
+
+342
+00:21:02,900 --> 00:21:05,700
+[ACTOR/AUGIE]
+I know, but the ice cream would've melted.
+ຂ້ອຍຮູ້ແລ້ວ, ແຕ່ນ້ ໍາ ກ້ອນຈະລະລາຍ.
+
+343
+00:21:06,200 --> 00:21:08,200
+[PLAYWRIGHT]
+What's this?
+ນີ້ແມ່ນຫຍັງ?
+
+344
+00:21:08,700 --> 00:21:14,700
+[ACTOR/AUGIE]
+I think it's the one you like. Gooseberry Wriggle from the Frosty Spoon on East Rotterdam. I wrapped it in sawdust, newspaper, and peanut shells.
+ຂ້ອຍຄິດວ່າມັນເປັນຄົນທີ່ທ່ານມັກ. Gooseberry Wriggle ຈາກກະຕ່າ Frosty ໃນຕາເວັນອອກ
+Rotterdam. ຂ້ອຍຫຸ້ມຫໍ່ມັນໃນຂີ້ເຫຍື້ອຕັດ, ຫນັງສືພິມ, ແລະກະດານຫມາກນັດ.
+
+345
+00:21:15,200 --> 00:21:19,400
+[PLAYWRIGHT]
+You shouldn't waste your spending money on an old fool like me.
+ເຈົ້າບໍ່ຄວນເສຍເງິນໃຊ້ຈ່າຍຂອງທ່ານໃສ່ຄົນໂງ່ເກົ່າຄືກັບຂ້ອຍ.
+
+346
+00:21:19,900 --> 00:21:25,900
+[ACTOR/AUGIE]
+They gave me ten dollars bus fare, so I bought us a half-bucket, hitch-hiked, and pocketed the change.
+ພວກເຂົາໃຫ້ຂ້ອຍຄ່າທໍານຽມລົດເມສິບໂດລາ,
+ສະນັ້ນຂ້ອຍຈຶ່ງຊື້ເຄິ່ງຖັງໃຫ້ພວກເຮົາ, ຍ່າງໂດຍສານ, ແລະເກັບເງິນປ່ຽນ.
+
+347
+00:21:26,400 --> 00:21:28,400
+[PLAYWRIGHT]
+Cool and delicious.
+ເຢັນແລະແຊບ.
+
+348
+00:21:28,900 --> 00:21:31,700
+[PLAYWRIGHT]
+How long have you been in the service?
+ເຈົ້າຢູ່ໃນບໍລິການດົນປານໃດ?
+
+349
+00:21:32,200 --> 00:21:36,050
+[ACTOR/AUGIE]
+The service. What service? I don't know what you're talking about.
+ການບໍລິການ. ການບໍລິການໃດ? ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ.
+
+350
+00:21:36,550 --> 00:21:42,550
+[PLAYWRIGHT]
+Well, unless I've been deliberately misinformed, I believe those stripes indicate the status of a Ranking Corporal, 2nd class.
+ດີ, ເວັ້ນເສຍແຕ່ວ່າຂ້ອຍຖືກຂໍ້ມູນຜິດຢ່າງຕັ້ງໃຈ,
+ຂ້ອຍເຊື່ອວ່າສາຍເຫຼົ່ານັ້ນຊີ້ໃຫ້ເຫັນສະຖານະພາບຂອງພົນຈັດຕະວາຊັ້ນສູງ, ຊັ້ນທີສອງ.
+
+351
+00:21:43,050 --> 00:21:48,650
+[ACTOR/AUGIE]
+Oh. No.  I'm G.I. #3 in "Bugle Boy Blows the Blues." Was, anyway. We closed tonight.
+ໂອ້. ບໍ່. ຂ້ອຍເປັນ GI # 3 ໃນ"ເດັກຊາຍບູເກວພັດບລູສ
+." ແມ່ນ, ຢ່າງໃດກໍຕາມ. ພວກເຮົາປິດໃນຄືນນີ້.
+
+352
+00:21:49,150 --> 00:21:51,600
+[PLAYWRIGHT]
+I see. Property of the wardrobe department.
+ຂ້ອຍເຫັນແລ້ວ. ເປັນຊັບສິນຂອງພະແນກເຄື່ອງນຸ່ງຫົ່ມ.
+
+353
+00:21:52,100 --> 00:21:54,100
+[ACTOR/AUGIE]
+Not anymore.
+ບໍ່ອີກແລ້ວ.
+
+354
+00:21:54,600 --> 00:21:56,700
+[PLAYWRIGHT]
+How was it, by the way?
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ມັນເປັນແນວໃດ?
+
+355
+00:21:57,200 --> 00:22:01,400
+[ACTOR/AUGIE]
+The play? It stunk. You mind if I crack open a window?
+ການສະແດງ? ມັນກິ່ນຫອມ. ເຈົ້າບໍ່ເປັນຫຍັງຖ້າຂ້ອຍເປີດປ່ອງຢ້ຽມບໍ?
+
+356
+00:22:01,900 --> 00:22:04,350
+[PLAYWRIGHT]
+Not at all. It's sweltering, isn't it?
+ບໍ່ເລີຍ. ມັນຮ້ອນແຮງ, ແມ່ນບໍ?
+
+357
+00:22:04,850 --> 00:22:10,100
+[PLAYWRIGHT]
+Even the daisies and buttercups are drooping in the --  That window sticks a bit.
+ເຖິງແມ່ນວ່າດອກໄມ້ແລະ buttercups
+ແມ່ນຕົກລົງໃນ - ປ່ອງຢ້ຽມນັ້ນຕິດຢູ່ເລັກນ້ອຍ.
+
+358
+00:22:10,600 --> 00:22:13,750
+[ACTOR/AUGIE]
+Why does Augie burn his hand on the Quicky-Griddle?
+ເປັນຫຍັງໂອຈີຈຶ່ງເຜົາໄຫມ້ມືໃສ່ກຣີດລ໌ Quickie?
+
+359
+00:22:14,250 --> 00:22:20,250
+[PLAYWRIGHT]
+Well, I don't even know, myself, to tell you the truth. I hadn't planned it that way -- he just sort of did it while I was typing. Is it too extraordinary?
+ດີ, ຂ້ອຍບໍ່ຮູ້ເລີຍ, ຕົວເອງ, ເພື່ອບອກເຈົ້າຄວາມຈິງ. ຂ້ອຍບໍ່ໄດ້ວາງແຜນມັນແບບນັ້ນ
+- ລາວພຽງແຕ່ເຮັດມັນໃນຂະນະທີ່ຂ້ອຍ ກໍາ ລັງພິມ. ມັນພິເສດເກີນໄປບໍ?
+
+360
+00:22:20,750 --> 00:22:26,750
+[ACTOR/AUGIE]
+I guess the way I read it: he was looking for an excuse why his heart was beating so fast.
+ຂ້ອຍຄິດວ່າວິທີທີ່ຂ້ອຍອ່ານມັນ: ລາວ ກໍາ
+ລັງຊອກຫາເຫດຜົນວ່າເປັນຫຍັງຫົວໃຈຂອງລາວຕີໄວຫຼາຍ.
+
+361
+00:22:27,250 --> 00:22:33,250
+[PLAYWRIGHT]
+Oh. What an interesting sentiment. I love that idea. Maybe he should say it? It's a very good line.
+ໂອ້. ຄວາມຮູ້ສຶກທີ່ ຫນ້າ ສົນໃຈຫຼາຍປານໃດ. ຂ້ອຍມັກຄວາມຄິດນັ້ນ
+. ບາງທີລາວຄວນເວົ້າມັນບໍ? ມັນແມ່ນສາຍທີ່ດີຫຼາຍ.
+
+362
+00:22:33,750 --> 00:22:35,750
+[PLAYWRIGHT]
+I suppose not. Not necessary.
+ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ. ບໍ່ຈໍາເປັນ.
+
+363
+00:22:36,250 --> 00:22:42,250
+[ACTOR/AUGIE]
+"It's a fact: we're not alone. The alien stole the asteroid. `Long-thought to be a lunar splinter fragmented from the lesser moon of the hypothetical planet Magnavox- 27; now considered a rogue pygmy  54.
+ມັນເປັນຄວາມຈິງ: ພວກເຮົາບໍ່ແມ່ນຄົນດຽວ. ຄົນຕ່າງດາວໄດ້ລັກດາວທຽມ. `
+ດົນນານຄິດວ່າເປັນກະແສດວງເດືອນທີ່ແຕກແຍກຈາກດວງຈັນທີ່ນ້ອຍກວ່າຂອງໂລກ Magnavox - 27; ດຽວນີ້ຖືວ່າເປັນ pygmy ໂຊກຮ້າຍ 54.
+
+364
+00:22:42,750 --> 00:22:45,900
+[ACTOR/AUGIE]
+Who knows, Woodrow? Maybe she is in the stars."
+ໃຜຮູ້, ວູດຣູ? ບາງທີນາງຢູ່ໃນດາວ."
+
+365
+00:22:46,400 --> 00:22:52,400
+[PLAYWRIGHT]
+Normally, I'd offer my advice and suggestions, but your interpretation is so perceptive and precise -- anything you do is bound to be dramatically true. You're perfect. I don't think there's anything else to say.
+ປົກກະຕິແລ້ວ, ຂ້ອຍຈະສະ ເຫນີ ຄໍາ ແນະ ນໍາ ແລະ ຂໍ້ສະເຫນີຂອງຂ້ອຍ, ແຕ່ການແປພາສາຂອງທ່ານມີຄວາມເຂົ້າໃຈແລະຖືກຕ້ອງຫຼາຍ
+- ທຸກສິ່ງທີ່ທ່ານເຮັດຕ້ອງເປັນຄວາມຈິງຢ່າງຫຼວງຫຼາຍ. ເຈົ້າສົມບູນແບບ. ຂ້ອຍບໍ່ຄິດວ່າມີຫຍັງອີກທີ່ຈະເວົ້າ.
+
+366
+00:22:52,900 --> 00:22:58,150
+[HOST]
+Often, it is the unexpected human connections which lead to the surprises of artistic discovery.
+ມັກຈະເປັນການເຊື່ອມໂຍງຂອງມະນຸດທີ່ບໍ່ຄາດຫວັງທີ່ພາໃຫ້ເກີດຄວາມແປກໃຈຂອງການຄົ້ນພົບດ້ານສິລະປະ
+.
+
+367
+00:22:58,650 --> 00:23:04,650
+[HOST]
+Players of the stage, a tribe of troubadours and non-conformists; they lead unconventional, sometimes dangerous, lives which nourish and elevate their artistic aspirations -- and illuminate the human condition. Next: ten weeks later, the eve of "Asteroid City's" first public preview, a drawing room onboard the Apache Plainsliner bound for the California coast.
+ນັກຫຼິ້ນເວທີ, ຊົນເຜົ່າຂອງ trubadurs ແລະ nonconformists; ພວກເຂົາ ດໍາ ເນີນຊີວິດທີ່ບໍ່ປົກກະຕິ, ບາງຄັ້ງອັນຕະລາຍ, ເຊິ່ງໃຫ້ອາຫານແລະຍົກສູງຄວາມປາຖະຫນາສິລະປະຂອງພວກເຂົາ -
+ແລະເຮັດໃຫ້ສະພາບມະນຸດແສງສະຫວ່າງ. ຕໍ່ໄປ: ສິບອາທິດຕໍ່ມາ, ໃນຕອນບ່າຍຂອງການເບິ່ງສາທາລະນະຄັ້ງ ທໍາ ອິດຂອງ"ເມືອງ Asteroid", ຫ້ອງແຕ້ມຮູບໃນເຮືອ Apache Plainsliner ທີ່ໄປຫາແຄມຝັ່ງລັດຄາລີຟໍເນຍ.
+
+368
+00:23:05,150 --> 00:23:07,150
+[ACTRESS/MIDGE]
+It's open.
+ມັນເປີດແລ້ວ.
+
+369
+00:23:07,650 --> 00:23:10,100
+[YOUNG MAN/WOODROW]
+Schubert says you got to come back.
+ຊູເບີດເວົ້າວ່າ ເຈົ້າຕ້ອງກັບມາ.
+
+370
+00:23:10,600 --> 00:23:13,750
+[ACTRESS/MIDGE]
+If I'm so important, why isn't he here himself?
+ຖ້າຂ້ອຍມີຄວາມສໍາຄັນຫຼາຍ, ເປັນຫຍັງລາວບໍ່ໄດ້ຢູ່ບ່ອນນີ້ເອງ?
+
+371
+00:23:14,250 --> 00:23:20,250
+[YOUNG MAN/WOODROW]
+Probably too busy. Too busy to go chasing after you. They sent me. You know who I am?
+ບາງທີມີວຽກຫຼາຍ. ມີວຽກຫຼາຍທີ່ຈະໄປຕາມເຈົ້າ
+. ພວກເຂົາສົ່ງຂ້ອຍ. ເຈົ້າຮູ້ວ່າຂ້ອຍເປັນໃຜ?
+
+372
+00:23:20,750 --> 00:23:22,750
+[ACTRESS/MIDGE]
+I think so. Understudy.
+ຂ້ອຍຄິດວ່າເປັນ. ການສຶກສາ.
+
+373
+00:23:23,250 --> 00:23:25,700
+[YOUNG MAN/WOODROW]
+Understudy. That's right. Let me just --
+ການສຶກສາພາຍໃຕ້. ນັ້ນແມ່ນຄວາມຈິງ. ຂໍໃຫ້ຂ້ອຍພຽງແຕ່ -
+
+374
+00:23:26,200 --> 00:23:32,200
+[YOUNG MAN/WOODROW]
+He said if you're crying, I read you this one.  That's not it. Here it is.  If you're hopping mad, I read you this one.
+ລາວເວົ້າວ່າຖ້າເຈົ້າຮ້ອງໄຫ້, ຂ້ອຍອ່ານຄົນນີ້ໃຫ້ເຈົ້າ. ນັ້ນບໍ່ແມ່ນມັນ
+. ມັນຢູ່ບ່ອນນີ້. ຖ້າເຈົ້າໂດດໂຊກຮ້າຍ, ຂ້ອຍ ອ່ານຄົນນີ້ໃຫ້ທ່ານ.
+
+375
+00:23:32,700 --> 00:23:34,700
+[ACTRESS/MIDGE]
+Give me both.
+ໃຫ້ຂ້ອຍທັງສອງ.
+
+376
+00:23:35,200 --> 00:23:38,350
+[YOUNG MAN/WOODROW]
+Not what he said. He said if you're --
+ບໍ່ແມ່ນສິ່ງທີ່ລາວເວົ້າ. ລາວເວົ້າວ່າຖ້າເຈົ້າເປັນ -
+
+377
+00:23:38,850 --> 00:23:40,850
+[ACTRESS/MIDGE]
+Give me both.
+ໃຫ້ຂ້ອຍທັງສອງ.
+
+378
+00:23:41,350 --> 00:23:47,350
+[ACTRESS/MIDGE]
+"Tell her she's a stuck up, low-class snob -- but she's got no good reason to be. If she sasses you, sass her back. Tell her she's a borderline neurotic with an Achilles Heel complex."
+ບອກນາງວ່ານາງເປັນຄົນໂຊກຮ້າຍທີ່ຕິດຢູ່ເທິງ, ຊັ້ນຕໍ່າ - ແຕ່ນາງບໍ່ມີເຫດຜົນທີ່ດີທີ່ຈະເປັນ.
+ຖ້ານາງກ້າຫານເຈົ້າ, ກ້າຫານຫຼັງນາງ. ບອກວ່ານນາງເປັນໂຣກ neurosis ຊາຍແດນທີ່ມີສັບສົນ Achilles Heel."
+
+379
+00:23:47,850 --> 00:23:53,850
+[ACTRESS/MIDGE]
+"Tell her she relies on her beauty like a wobbly crutch. It's her deepest weakness. Tell her she's got the potential for genuine greatness -- but I say with absolute certainty: she will never achieve it."
+ບອກນາງວ່ານາງອີງໃສ່ຄວາມງາມຂອງນາງຄືກັບກະຕູ້ທີ່ສັ່ນສະເທືອນ. ມັນແມ່ນຄວາມອ່ອນແອທີ່ເລິກເຊິ່ງທີ່ສຸດຂອງນາງ.
+ບອກນາງວ່ານາງມີທ່າແຮງ ສໍາ ລັບຄວາມຍິ່ງໃຫຍ່ທີ່ແທ້ຈິງ - ແຕ່ຂ້ອຍເວົ້າວ່າດ້ວຍຄວາມແນ່ໃຈຢ່າງສົມບູນ: ນາງຈະບໍ່ບັນລຸມັນເລີຍ.
+
+380
+00:23:54,350 --> 00:23:56,350
+[ACTRESS/MIDGE]
+Anything else?
+ມີຫຍັງອີກບໍ?
+
+381
+00:23:56,850 --> 00:24:02,850
+[YOUNG MAN/WOODROW]
+Uh-huh. He said if you're cool and collected , then that means you probably really don't want to come back, and I got to give you this.
+ອູຮູ. ລາວເວົ້າວ່າຖ້າເຈົ້າເຢັນແລະເກັບກໍາໄວ້,
+ຫຼັງຈາກນັ້ນມັນຫມາຍຄວາມວ່າເຈົ້າອາດຈະບໍ່ຢາກກັບມາແທ້ໆ, ແລະຂ້ອຍຕ້ອງໃຫ້ເຈົ້າສິ່ງນີ້.
+
+382
+00:24:03,350 --> 00:24:05,350
+[ACTRESS/MIDGE]
+Read it.
+ອ່ານມັນ.
+
+383
+00:24:05,850 --> 00:24:11,800
+[YOUNG MAN/WOODROW]
+Not what he said. He said this one's private. Just the two of you. He said --
+ບໍ່ແມ່ນສິ່ງທີ່ລາວເວົ້າ. ລາວເວົ້າວ່າຄົນນີ້ເປັນສ່ວນຕົວ
+. ພຽງແຕ່ເຈົ້າທັງສອງ. ລາວເວົ້າວ່າ -
+
+384
+00:24:12,300 --> 00:24:18,300
+[YOUNG MAN/WOODROW]
+"Dear Kim, I'm sorry I shouted and called you a spoiled bitch and a minor talent . Given that I have always considered you to be the most consummately gifted living actress and a person of great intelligence and character, these statements  do not accurately reflect my true feelings. Yes, I may be a `manipulative snake', as you once characterized me behind my back  -- but I love you like a sister, other than that one time in the bathroom the day we met which has never been  58.
+ຄິມທີ່ຮັກແພງ, ຂ້ອຍຂໍໂທດທີ່ຂ້ອຍຮ້ອງໄຫ້ແລະເອີ້ນເຈົ້າວ່າໂຊກແຊງແລະຄວາມສາມາດນ້ອຍໆ. ເນື່ອງຈາກວ່າຂ້ອຍເຄີຍຖືວ່າເຈົ້າເປັນນັກສະແດງທີ່ມີພອນສະຫວັນທີ່ສິ້ນສຸດທີ່ສຸດແລະເປັນຄົນທີ່ມີຄວາມສະຫຼາດແລະລັກສະນະທີ່ຍິ່ງໃຫຍ່,
+ຄໍາ ຖະແຫຼງເຫຼົ່ານີ້ບໍ່ໄດ້ສະທ້ອນຄວາມຮູ້ສຶກທີ່ແທ້ຈິງຂອງຂ້ອຍຢ່າງຖືກຕ້ອງ. ແມ່ນແລ້ວ, ຂ້ອຍອາດຈະເປັນຫມາທີ່ manipulative, ດັ່ງທີ່ທ່ານເຄີຍລະບຸຕົວຂ້ອຍຢູ່ເບື້ອງຫຼັງຂອງຂ້ອຍ - ແຕ່ຂ້ອຍຮັກເຈົ້າຄືກັບເອື້ອຍ, ນອກຈາກ
+
+385
+00:24:18,800 --> 00:24:20,800
+[ACTRESS/MIDGE]
+What's your name, understudy?
+ຊື່ເຈົ້າແມ່ນຫຍັງ, ຜູ້ແທນ?
+
+386
+00:24:21,300 --> 00:24:27,300
+[HOST]
+They continued through the night as far as Ohio, then disembarked and caught the return flight arriving two hours prior to curtain.
+ພວກເຂົາສືບຕໍ່ຕະຫຼອດຄືນຈົນຮອດໂອໄຮໂອ,
+ຫຼັງຈາກນັ້ນລົງເຮືອແລະຈັບຖ້ຽວບິນກັບມາທີ່ມາຮອດສອງຊົ່ວໂມງກ່ອນການປົກຫຸ້ມ.
+
+387
+00:24:27,800 --> 00:24:29,800
+[HOST]
+Schubert Green, born Shylock Grzworvszowski.
+ຊູເບີດ ແກຣນ, ເກີດເປັນ Shylock Grzworvszowski.
+
+388
+00:24:30,300 --> 00:24:34,150
+[HOST]
+Actor, immigrant, former student of the great theatrical guru Saltzburg Keitel.
+ນັກສະແດງ, ຄົນເຂົ້າເມືອງ, ອະດີດນັກຮຽນຂອງ
+guru ລະຄອນທີ່ຍິ່ງໃຫຍ່ Saltzburg Keitel.
+
+389
+00:24:34,650 --> 00:24:40,650
+[HOST]
+Known for his limitless energy, his voracious enthusiasms , and his long, deep, and intimate relationship with success.
+ຮູ້ຈັກດ້ວຍພະລັງງານທີ່ບໍ່ມີຂອບເຂດ, ຄວາມກະຕືລືລົ້ນທີ່ຮຸນແຮງ,
+ແລະຄວາມສໍາພັນທີ່ຍາວນານ, ເລິກເຊິ່ງ, ແລະ ໃກ້ຊິດກັບຄວາມສໍາເລັດ.
+
+390
+00:24:41,150 --> 00:24:43,150
+[DIRECTOR]
+What do you think, Lunky?
+ເຈົ້າຄິດແນວໃດ, ລັນກີ?
+
+391
+00:24:43,650 --> 00:24:45,650
+[STAGEHAND]
+Good.
+ດີແລ້ວ.
+
+392
+00:24:46,150 --> 00:24:50,000
+[POLLY]
+I'm not going to ask what the hell's going on here.
+ຂ້ອຍຈະບໍ່ຖາມວ່າເກີດຫຍັງຂຶ້ນຢູ່ນີ້.
+
+393
+00:24:50,500 --> 00:24:56,450
+[HOST]
+His wife, Polly, left him for an All Star second baseman during the first week of rehearsals.
+ເມຍຂອງລາວ, ໂປລີ, ໄດ້ອອກຈາກລາວ ສໍາ ລັບນັກເຕະທີສອງ
+All Star ໃນອາທິດ ທໍາ ອິດຂອງການທົດລອງ.
+
+394
+00:24:56,950 --> 00:24:58,950
+[DIRECTOR]
+My living quarters.
+ບ່ອນຢູ່ອາໄສຂອງຂ້ອຍ.
+
+395
+00:24:59,450 --> 00:25:01,450
+[POLLY]
+Sign this.
+ເຊັນນີ້.
+
+396
+00:25:01,950 --> 00:25:03,950
+[DIRECTOR]
+It's Clark's report card.
+ມັນເປັນບັດລາຍງານຂອງຄລາກ.
+
+397
+00:25:04,450 --> 00:25:06,550
+[POLLY]
+Uh-huh. What'd you think it was?
+ເຈົ້າຄິດວ່າມັນເປັນຫຍັງ?
+
+398
+00:25:07,050 --> 00:25:09,500
+[DIRECTOR]
+I thought maybe we were already divorced.
+ຂ້ອຍຄິດວ່າບາງທີພວກເຮົາໄດ້ແຍກກັນແລ້ວ.
+
+399
+00:25:10,000 --> 00:25:12,100
+[POLLY]
+Oh. Not yet -- but eventually.
+ໂອ້. ຍັງບໍ່ທັນ - ແຕ່ໃນທີ່ສຸດ.
+
+400
+00:25:12,600 --> 00:25:14,700
+[DIRECTOR]
+He made the honor roll again.
+ລາວໄດ້ເຮັດບົດຂຽນກຽດຕິຍົດອີກຄັ້ງ.
+
+401
+00:25:15,200 --> 00:25:21,200
+[POLLY]
+I'm staying at Diego's penthouse; Clark's at my mother's; the apartment's empty. Why don't you just go home?
+ຂ້ອຍຢູ່ເຮືອນຊັ້ນສູງຂອງເດໂກ; ຄລາກຢູ່ເຮືອນແມ່ຂອງຂ້ອຍ;
+ອາພາດເມັນຫວ່າງ. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ກັບບ້ານພຽງແຕ່?
+
+402
+00:25:21,700 --> 00:25:26,250
+[DIRECTOR]
+I don't think I should be alone in a building with real windows.
+ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍຄວນຢູ່ຄົນດຽວໃນອາຄານທີ່ມີປ່ອງຢ້ຽມທີ່ແທ້ຈິງ.
+
+403
+00:25:26,750 --> 00:25:32,750
+[DIRECTOR]
+Props makes my lunches and dinners. Make- up cuts my hair and shaves me. Costumes washes my dungarees. This is where I belong. For now.
+ເຄື່ອງອຸປະກອນເຮັດອາຫານທ່ຽງແລະອາຫານຄໍ່າຂອງຂ້ອຍ. ເຄື່ອງແຕ່ງກາຍຕັດຜົມຂອງຂ້ອຍແລະຕັດຂ້ອຍ
+. ເຄື່ອງນຸ່ງຫົ່ມລ້າງຜ້າຂົນຂອງຂ້ອຍ. ນີ້ແມ່ນບ່ອນທີ່ຂ້ອຍຂຶ້ນກັບ. ສໍາລັບດຽວນີ້.
+
+404
+00:25:33,250 --> 00:25:35,700
+[POLLY]
+Much better. Did you do the green?
+ດີກວ່າຫຼາຍ. ເຈົ້າເຮັດສີຂຽວບໍ?
+
+405
+00:25:36,200 --> 00:25:42,200
+[POLLY]
+It's been a great ten years, Schubert. I don't regret a second of it. Clark still loves you. I still love you.
+ມັນເປັນເວລາສິບປີທີ່ຍິ່ງໃຫຍ່, ຊູເບີດ. ຂ້ອຍບໍ່ເສຍໃຈວິນາທີຫນຶ່ງຂອງມັນ
+. ຄລາກຍັງຮັກເຈົ້າ. ຂ້ອຍຍັງຮັກເຈົ້ານັ້ນ.
+
+406
+00:25:42,700 --> 00:25:44,700
+[DIRECTOR]
+But not like before.
+ແຕ່ບໍ່ແມ່ນແບບກ່ອນ.
+
+407
+00:25:45,200 --> 00:25:47,200
+[POLLY]
+But not like before.
+ແຕ່ບໍ່ແມ່ນແບບກ່ອນ.
+
+408
+00:25:47,700 --> 00:25:53,700
+[HOST]
+Schubert Green lived in the scenic bay of the Tarkington Theatre for all 785 performances of "Asteroid City." Dark nights, he stayed in the Governor's Suite of the Nebraska Hotel.
+ຊູເບີດ ແກຣນອາໄສຢູ່ໃນແຄມທະເລທີ່ສວຍງາມຂອງໂຮງລະຄອນຕາກິງຕັນ ສໍາ ລັບການສະແດງທັງ ຫມົດ 785
+ຄັ້ງຂອງ"ເມືອງ Asteroid." ໃນຄືນມືດ, ລາວພັກຢູ່ໃນຫ້ອງຫ້ອງການຂອງຜູ້ປົກຄອງຂອງໂຮງແຮມເນບຣາສກາ.
+
+409
+00:25:54,200 --> 00:26:00,200
+[POLLY]
+One last note: when Midge makes her exit in Act 3, Scene V -- try having her say the line after she closes the door.
+ຂໍ້ສັງເກດສຸດທ້າຍຫນຶ່ງ: ເມື່ອມິດຈ໌ອອກຈາກໃນບົດທີ 3,
+ສະພາບການ V - ພະຍາຍາມໃຫ້ນາງເວົ້າສາຍຫຼັງຈາກນາງປິດປະຕູ.
+
+410
+00:26:00,700 --> 00:26:02,700
+[DIRECTOR]
+I will.
+ຂ້ອຍຈະເຮັດ.
+
+411
+00:26:03,200 --> 00:26:05,200
+[POLLY]
+Goodbye.
+ສະບາຍດີ.
+
+412
+00:26:05,700 --> 00:26:11,700
+[GENERAL GIBSON]
+I've just informed the president. He authorized me to read and implement the provisions of National Security Emergency Scrimmage Plan X. Here I go.
+ຂ້ອຍຫາກໍ່ແຈ້ງໃຫ້ປະທານາທິບໍດີຮູ້.
+ລາວອະນຸຍາດໃຫ້ຂ້ອຍອ່ານແລະປະຕິບັດຂໍ້ກໍານົດຂອງແຜນການກະຕຸ້ນສຸກເສີນຄວາມປອດໄພແຫ່ງຊາດ X. ຂ້ອຍໄປແລ້ວ.
+
+413
+00:26:12,200 --> 00:26:16,750
+[GENERAL GIBSON]
+"The following Top Secret directive was mandated into law on July first, 1950."
+ຄໍາ ແນະ ນໍາ ທີ່ລັບທີ່ສຸດຕໍ່ໄປນີ້ໄດ້ຖືກສັ່ງໃຫ້ເປັນກົດ
+ຫມາຍ ໃນວັນທີ ຫນຶ່ງ ເດືອນກໍລະກົດປີ 1950.
+
+414
+00:26:17,250 --> 00:26:23,250
+[GENERAL GIBSON]
+"In the event of unforeseen engagement with intelligent life-form or -forms from any planet not specifically defined as our `earth', be advised to initiate the following protocols:   63.
+ໃນກໍລະນີການພົວພັນທີ່ບໍ່ຄາດຫວັງກັບຮູບແບບຊີວິດທີ່ສະຫຼາດຫຼື - ຮູບແບບຈາກໂລກໃດທີ່ບໍ່ໄດ້
+ກໍາ ນົດໂດຍສະເພາະວ່າເປັນໂລກຂອງພວກເຮົາ, ຂໍແນະ ນໍາ ໃຫ້ເລີ່ມຕົ້ນໂປໂຕໂກລຕໍ່ໄປນີ້: 63.
+
+415
+00:26:23,750 --> 00:26:26,200
+[AIDE-DE-CAMP]
+He certainly didn't give me that impression.
+ລາວແນ່ນອນວ່າບໍ່ໄດ້ເຮັດໃຫ້ຂ້ອຍມີຄວາມປະທັບໃຈນັ້ນ.
+
+416
+00:26:26,700 --> 00:26:32,700
+[GENERAL GIBSON]
+"Two. Confirm the life-form does not intend to annex, colonize, vaporize, or expropriate the resources of the sovereign territories of the United States of America."
+ສອງ. ຢືນຢັນວ່າຮູບແບບຊີວິດບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະຕິດພັນ, ຄolonize,
+vaporise, ຫຼືເອົາຊັບພະຍາກອນຂອງເຂດປົກຄອງຂອງສະຫະລັດອາເມລິກາ."
+
+417
+00:26:33,200 --> 00:26:36,350
+[AIDE-DE-CAMP]
+I doubt it. He took the asteroid and went.
+ຂ້ອຍສົງໄສມັນ. ລາວເອົາດາວທຽມແລະໄປ.
+
+418
+00:26:36,850 --> 00:26:42,850
+[GENERAL GIBSON]
+"Three. Identify and detain all possible witnesses and place them under group arrest for a period of no less than one week , during which time they be subjected to a prescribed battery of medical and psychological examinations and cross- examinations."
+ສາມ. ກໍາ ນົດແລະກັກຕົວພະຍານທັງ ຫມົດ ທີ່ເປັນໄປໄດ້ແລະວາງພວກມັນພາຍໃຕ້ການຈັບກຸມກຸ່ມເປັນເວລາບໍ່ຫນ້ອຍກວ່າ ຫນຶ່ງ ອາທິດ
+, ໃນຊ່ວງເວລານັ້ນພວກເຂົາຈະຖືກພົວພັນກັບແບັດເຕີຣີທີ່ ກໍາ ນົດໄວ້ຂອງການກວດສອບທາງການແພດແລະຈິດໃຈແລະການສອບເສັງຂ້າມກັນ.
+
+419
+00:26:43,350 --> 00:26:45,450
+[AIDE-DE-CAMP]
+Standard procedure. Already in the works.
+ຂັ້ນຕອນມາດຕະຖານ. ກໍາ ລັງເຮັດວຽກຢູ່ແລ້ວ.
+
+420
+00:26:45,950 --> 00:26:51,950
+[GENERAL GIBSON]
+"Four. Secure the site; cease the dissemination of information; collect and transport the totality of evidence to a hermetically-enclosed/deep-underground secret storage facility; and publicly deny all aspects of the event including its existence for a period of no less than 100 years ." End of directive.
+ສີ່. ປ້ອງກັນສະຖານທີ່; ຢຸດການແຜ່ກະຈາຍຂໍ້ມູນ; ເກັບກໍາແລະຂົນສົ່ງຫຼັກຖານທັງ ຫມົດ ໄປບ່ອນເກັບຮັກສາຄວາມລັບທີ່ປິດລ້ອມ /
+ໃຕ້ດິນເລິກເຊິ່ງ; ແລະປະຕິເສດທຸກດ້ານຂອງເຫດການລວມທັງການມີຢູ່ຂອງມັນເປັນເວລາບໍ່ຕໍ່າກວ່າ 100 ປີ." ການສິ້ນສຸດຂອງຄໍາແນະນໍາ.
+
+421
+00:26:52,450 --> 00:26:54,450
+[EXECUTIVE]
+What do we tell them?
+ພວກເຮົາຈະບອກພວກເຂົາຫຍັງ?
+
+422
+00:26:54,950 --> 00:26:56,950
+[GENERAL GIBSON]
+Who?
+ໃຜ?
+
+423
+00:26:57,450 --> 00:27:00,950
+[EXECUTIVE]
+The Junior Stargazers. The Space Cadets. The moms and dads.
+ພວກນັກເບິ່ງດາວ Junior. ພວກນັກສຶກສາອະວະກາດ. ແມ່ແລະພໍ່.
+
+424
+00:27:01,450 --> 00:27:03,450
+[AIDE-DE-CAMP]
+Midge Campbell.
+ມິດຈ໌ ແຄມບລ.
+
+425
+00:27:03,950 --> 00:27:06,050
+[GENERAL GIBSON]
+Tell them -- it didn't happen?
+ບອກພວກເຂົາ - ມັນບໍ່ໄດ້ເກີດຂຶ້ນບໍ?
+
+426
+00:27:06,550 --> 00:27:10,050
+[GENERAL GIBSON]
+No, obviously, we'll need to formulate a suitable cover story.
+ບໍ່, ແນ່ນອນ, ພວກເຮົາຈະຕ້ອງສ້າງເລື່ອງປົກຄຸມທີ່ ເຫມາະ ສົມ.
+
+427
+00:27:10,550 --> 00:27:13,000
+[CLIFFORD]
+You dare me? To press that button.
+ເຈົ້າທ້າທາຍຂ້ອຍບໍ? ເພື່ອກົດປຸ່ມນັ້ນ.
+
+428
+00:27:13,500 --> 00:27:15,500
+[J.J.]
+I'll break your neck.
+ຂ້ອຍຈະຕັດຄໍເຈົ້າ.
+
+429
+00:27:16,000 --> 00:27:22,000
+[SHELLY]
+That's an alien doing jumping jacks. That's an alien in a top hat. That's an alien climbing a ladder. That's an alien on a racehorse.
+ນັ້ນແມ່ນຄົນຕ່າງດາວທີ່ ກໍາ ລັງໂດດແຈກ. ນັ້ນແມ່ນຊາວຕ່າງດ້າວໃສ່ ຫມວກ ເທິງ.
+ນັ້ນເປັນຄົນຕ່າງປະເທດທີ່ຂຶ້ນຂັ້ນເທິງ. ນີ້ແມ່ນຄົນຕ່າງປະເທດເທິງມ້າແຂ່ງຂັນ.
+
+430
+00:27:22,500 --> 00:27:24,600
+[DETECTIVE #1]
+Let's take it from the top.
+ມາເອົາມັນຈາກເທິງສຸດ.
+
+431
+00:27:25,100 --> 00:27:29,300
+[RICKY]
+I told you fifty times. The alien picked up the asteroid --
+ຂ້ອຍບອກເຈົ້າຫ້າສິບຄັ້ງແລ້ວ. ຄົນຕ່າງດາວໄດ້ເອົາດາວທຽມ -
+
+432
+00:27:29,800 --> 00:27:31,800
+[DETECTIVE #2]
+Alleged alien.
+ຜູ້ຖືກກ່າວຫາວ່າເປັນຄົນຕ່າງດາວ.
+
+433
+00:27:32,300 --> 00:27:34,300
+[RICKY]
+I know what I saw!
+ຂ້ອຍຮູ້ວ່າຂ້ອຍເຫັນຫຍັງ!
+
+434
+00:27:34,800 --> 00:27:40,800
+[DETECTIVE #2]
+This is a microfiche of your school newspaper. Your byline accompanies an article criticizing the principal's disciplinary methods. Who were your sources?
+ນີ້ແມ່ນ microfiche ຂອງຫນັງສືພິມໂຮງຮຽນຂອງທ່ານ.
+ການລົງນາມຂອງທ່ານພ້ອມກັບບົດຂຽນທີ່ວິພາກວິຈານວິທີການວິໄນຂອງຜູ້ອໍານວຍການ. ແຫຼ່ງຂອງທ່ານແມ່ນໃຜ?
+
+435
+00:27:41,300 --> 00:27:43,750
+[RICKY]
+I was in the sixth grade --
+ຂ້ອຍຢູ່ໃນຊັ້ນທີຫົກ -
+
+436
+00:27:44,250 --> 00:27:46,250
+[DETECTIVE #2]
+Just answer the question! 66.
+ພຽງແຕ່ຕອບຄໍາຖາມ! 66.
+
+437
+00:27:46,750 --> 00:27:49,200
+[RICKY]
+-- and I will not name names!
+- ແລະຂ້ອຍຈະບໍ່ຊື່ຊື່!
+
+438
+00:27:49,700 --> 00:27:51,700
+[DINAH]
+Which way did he go?
+ລາວໄປທາງໃດ?
+
+439
+00:27:52,200 --> 00:27:56,750
+[DR. HICKENLOOPER]
+He went from here. To here. To here.  To I don't know where.
+ລາວໄດ້ໄປຈາກບ່ອນນີ້. ມາບ່ອນນີ້ແມ່ນ. ໄປບ່ອນນີ້, ຂ້ອຍບໍ່ຮູ້ວ່າຢູ່ໃສ.
+
+440
+00:27:57,250 --> 00:28:03,250
+[WOODROW]
+My mother couldn't remember which was which, so she made up her own constellations.  That one's "The Coat Hanger." That one's "The Leaky Faucet." Over there's "Fried Egg with Spatula."
+ແມ່ຂອງຂ້ອຍບໍ່ສາມາດຈື່ໄດ້ວ່າແມ່ນຫຍັງ, ສະນັ້ນນາງໄດ້ສ້າງດາວທຽມຂອງນາງເອງ. ນັ້ນແມ່ນ"The
+Coat Hanger." ນັ້ນແມ່ນ" The Leaky Faucet." ຢູ່ບ່ອນນັ້ນມີ" ໄຂ່ທີ່ຕົ້ມດ້ວຍ Spatula."
+
+441
+00:28:03,750 --> 00:28:09,750
+[DINAH]
+My mother is a constellation. At least, part of one. A Swiss scientist named a hypothetical star after her.
+ແມ່ຂອງຂ້ອຍເປັນດາວທຽມ. ຢ່າງຫນ້ອຍ, ສ່ວນຫນຶ່ງຂອງຫນຶ່ງ.
+ນັກວິທະຍາສາດສະວິດເຊີແລນໄດ້ຕັ້ງຊື່ດາວ hypothetical ຫຼັງຈາກນາງ.
+
+442
+00:28:10,250 --> 00:28:12,250
+[DR. HICKENLOOPER]
+What's it called?
+ມັນເອີ້ນວ່າແນວໃດ?
+
+443
+00:28:12,750 --> 00:28:14,750
+[DINAH]
+Midge Campbell X-9 Major. 67.
+ມິດຈ໌ ແຄມບລ X-9 ຫຼັກ. 67.
+
+444
+00:28:15,250 --> 00:28:17,250
+[DR. HICKENLOOPER]
+I'll look it up.
+ຂ້ອຍຈະຊອກຫາມັນ.
+
+445
+00:28:17,750 --> 00:28:20,200
+[WOODROW]
+Is she interested in astronomy? Your mother.
+ນາງສົນໃຈວິທະຍາສາດດາວທຽມບໍ? ແມ່ຂອງທ່ານ.
+
+446
+00:28:20,700 --> 00:28:26,700
+[DINAH]
+Not exactly. She's interested in stardom. I don't mean that as a criticism, by the way. It's her job.  Anyway: I'm tired of her face, but I love her voice. She should do more radio.
+ບໍ່ແນ່ນອນ. ນາງສົນໃຈຄວາມເປັນດາວ. ຂ້ອຍບໍ່ໄດ້ ຫມາຍ ຄວາມວ່ານັ້ນເປັນການວິຈານ, ໂດຍທາງ. ມັນແມ່ນວຽກງານຂອງນາງ
+. ຢ່າງໃດກໍ່ຕາມ: ຂ້ອຍເມື່ອຍຈາກໃບຫນ້າຂອງນາງ, ແຕ່ຂ້ອຍມັກສຽງຂອງລາວກັບ. ນາງຄວນເຮັດວິທະຍຸຫຼາຍຂຶ້ນ.
+
+447
+00:28:27,200 --> 00:28:31,400
+[DR. HICKENLOOPER]
+I never had children. Sometimes I wonder if I wish I should've.
+ຂ້ອຍບໍ່ເຄີຍມີລູກເລີຍ. ບາງຄັ້ງຂ້ອຍສົງໄສວ່າຂ້ອຍຢາກໄດ້ບໍ.
+
+448
+00:28:31,900 --> 00:28:35,050
+[DR. HICKENLOOPER]
+Right there. It's partly blocked by that burnt-out lightbulb.
+ຢູ່ບ່ອນນັ້ນ. ມັນຖືກກີດຂວາງບາງສ່ວນໂດຍແສງໄຟທີ່ຖືກເຜົາໄຫມ້ນັ້ນ.
+
+449
+00:28:35,550 --> 00:28:40,100
+[DR. HICKENLOOPER]
+Don't spin it around! I had it how I want it. What's happening?
+ຢ່າຫັນມັນຢູ່ທົ່ວໄປ! ຂ້ອຍມີມັນຕາມທີ່ຂ້ອຍຕ້ອງການ. ເກີດຫຍັງຂຶ້ນ?
+
+450
+00:28:40,600 --> 00:28:42,600
+[WOODROW]
+After you.
+ຫຼັງຈາກເຈົ້າ.
+
+451
+00:28:43,100 --> 00:28:47,650
+[DINAH]
+Sometimes, I think, mentally: I feel more at home outside the earth's atmosphere.
+ບາງຄັ້ງ, ຂ້ອຍຄິດວ່າ, ທາງຈິດໃຈ:
+ຂ້ອຍຮູ້ສຶກຢູ່ເຮືອນຫຼາຍຂຶ້ນນອກຈາກບັນຍາກາດໂລກ.
+
+452
+00:28:48,150 --> 00:28:50,150
+[WOODROW]
+Me, too.
+ຂ້ອຍຄືກັນ.
+
+453
+00:28:50,650 --> 00:28:52,650
+[MIDGE]
+Did it come out?
+ມັນອອກມາບໍ?
+
+454
+00:28:53,150 --> 00:28:55,150
+[AUGIE]
+All my pictures come out.
+ຮູບທັງ ຫມົດ ຂອງຂ້ອຍອອກມາ.
+
+455
+00:28:55,650 --> 00:28:57,650
+[MIDGE]
+I mean the other one.
+ຂ້ອຍຫມາຍຄວາມວ່າຄົນອື່ນ.
+
+456
+00:28:58,150 --> 00:29:00,150
+[AUGIE]
+Oh.
+ໂອ້.
+
+457
+00:29:00,650 --> 00:29:02,650
+[MIDGE]
+You feel different? 69.
+ເຈົ້າຮູ້ສຶກແຕກຕ່າງກັນບໍ? 69.
+
+458
+00:29:03,150 --> 00:29:05,250
+[AUGIE]
+I don't feel anything at all.
+ຂ້ອຍບໍ່ຮູ້ສຶກຫຍັງເລີຍ.
+
+459
+00:29:05,750 --> 00:29:07,750
+[MIDGE]
+Me, neither.
+ຂ້ອຍຄືກັນ.
+
+460
+00:29:08,250 --> 00:29:10,250
+[MIDGE]
+I'm not a good mother.
+ຂ້ອຍບໍ່ແມ່ນແມ່ທີ່ດີ.
+
+461
+00:29:10,750 --> 00:29:12,750
+[AUGIE]
+Uh-huh.
+ໂອ້.
+
+462
+00:29:13,250 --> 00:29:19,250
+[MIDGE]
+I love my daughter, but I'm not a good mother, because : she's not my first priority. On account of there's always already the thing I plan to do next. I love my daughter, by the way.
+ຂ້ອຍຮັກລູກສາວຂອງຂ້ອຍ, ແຕ່ຂ້ອຍບໍ່ແມ່ນແມ່ທີ່ດີ, ເພາະວ່າ: ນາງບໍ່ແມ່ນບູລິມະສິດ ທໍາ ອິດຂອງຂ້ອຍ.
+ເນື່ອງຈາກວ່າມີສິ່ງທີ່ຂ້ອຍວາງແຜນທີ່ຈະເຮັດຕໍ່ໄປຢູ່ສະເຫມີແລ້ວ. ຂ້ອຍຮັກເດັກຍິງຂອງຂ້ອຍ, ເຖິງຢ່າງໃດກໍ່ຕາມ.
+
+463
+00:29:19,750 --> 00:29:25,750
+[MIDGE]
+We have a magical time when we're together. I have another girl and a boy. They live with my second ex-husband in Utah.
+ພວກເຮົາມີເວລາທີ່ມະຫັດສະຈັນເມື່ອພວກເຮົາຢູ່ຮ່ວມກັນ.
+ຂ້ອຍມີເດັກຍິງຄົນອື່ນແລະເດັກຊາຍຄົນຫນຶ່ງ. ພວກເຂົາອາໄສຢູ່ກັບຜົວເກົ່າຂອງຂ້ອຍທີສອງໃນຢູຕາ.
+
+464
+00:29:26,250 --> 00:29:28,250
+[AUGIE]
+Uh-huh.
+ໂອ້.
+
+465
+00:29:28,750 --> 00:29:30,750
+[MIDGE]
+He rarely sees them, either.
+ລາວບໍ່ມັກເຫັນພວກມັນເຊັ່ນກັນ.
+
+466
+00:29:31,250 --> 00:29:33,250
+[AUGIE]
+Uh-huh.
+ໂອ້.
+
+467
+00:29:33,750 --> 00:29:39,750
+[MIDGE]
+I wish, at least, I felt guilty -- but I don't experience that emotion . I've played it, of course.
+ຂ້ອຍຢາກວ່າ, ຢ່າງຫນ້ອຍ, ຂ້ອຍຮູ້ສຶກຜິດ -
+ແຕ່ຂ້ອຍບໍ່ປະສົບກັບຄວາມຮູ້ສຶກນັ້ນ. ຂ້ອຍໄດ້ຫຼິ້ນມັນແລ້ວ, ແນ່ນອນ.
+
+468
+00:29:40,250 --> 00:29:43,050
+[AUGIE]
+You never feel guilty? In real life. 70.
+ເຈົ້າບໍ່ເຄີຍຮູ້ສຶກຜິດບໍ? ໃນຊີວິດທີ່ແທ້ຈິງ. 70.
+
+469
+00:29:43,550 --> 00:29:48,450
+[MIDGE]
+Not to my knowledge. I think because of my history with violent men .
+ບໍ່ຕາມຄວາມຮູ້ຂອງຂ້ອຍ.
+ຂ້ອຍຄິດວ່າຍ້ອນປະຫວັດສາດຂອງຂ້ອຍກັບຜູ້ຊາຍທີ່ມີຄວາມຮຸນແຮງ.
+
+470
+00:29:48,950 --> 00:29:54,950
+[AUGIE]
+Uh-huh. There's always already the thing I plan to do next, too. Usually, it's a war. Nobody can compete with that. Can they?
+ອູຮູ. ມີສິ່ງທີ່ຂ້ອຍວາງແຜນທີ່ຈະເຮັດຕໍ່ໄປອີກດ້ວຍ. ໂດຍປົກກະຕິແລ້ວ,
+ມັນແມ່ນສົງຄາມ. ບໍ່ມີໃຜສາມາດແຂ່ງຂັນກັບສິ່ງນັ້ນໄດ້. ພວກເຂົາສາມາດເຮັດໄດ້ບໍ?
+
+471
+00:29:55,450 --> 00:29:57,450
+[MIDGE]
+Probably not.
+ບາງທີບໍ່ແມ່ນ.
+
+472
+00:29:57,950 --> 00:30:00,750
+[MIDGE]
+I think I see how I see us.
+ຂ້ອຍຄິດວ່າຂ້ອຍເຫັນວິທີທີ່ຂ້ອຍເຫັນພວກເຮົາ.
+
+473
+00:30:01,250 --> 00:30:03,250
+[AUGIE]
+Hm?
+ເຮມ?
+
+474
+00:30:03,750 --> 00:30:09,750
+[MIDGE]
+I mean, I think I know now what I realize we are: two catastrophically wounded people who don't express the depths of their pain -- because we don't want to. That's our connection. Do you agree?
+ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ແລ້ວວ່າຂ້ອຍຮູ້ວ່າພວກເຮົາເປັນຫຍັງ: ປະຊາຊົນສອງຄົນທີ່ບາດເຈັບຢ່າງຮ້າຍແຮງທີ່ບໍ່ສະແດງຄວາມເລິກເຊິ່ງຂອງຄວາມເຈັບປວດຂອງພວກເຂົາ
+- ເພາະວ່າພວກເຮົາບໍ່ຢາກເຮັດ. ນັ້ນແມ່ນການເຊື່ອມຕໍ່ຂອງພວກເຮົາ. ເຈົ້າເຫັນດີບໍ?
+
+475
+00:30:10,250 --> 00:30:12,250
+[AUGIE]
+Uh-huh.
+ໂອ້.
+
+476
+00:30:12,750 --> 00:30:14,750
+[AUGIE]
+Let's change the subject.
+ພວກເຮົາປ່ຽນຫົວຂໍ້.
+
+477
+00:30:15,250 --> 00:30:17,250
+[MIDGE]
+It's open.
+ມັນເປີດແລ້ວ.
+
+478
+00:30:17,750 --> 00:30:19,750
+[STANLEY]
+Hello? 71.
+ສະບາຍດີ? 71.
+
+479
+00:30:20,250 --> 00:30:22,250
+[MIDGE]
+In here.
+ຢູ່ບ່ອນນີ້.
+
+480
+00:30:22,750 --> 00:30:28,750
+[STANLEY]
+Hello! I'm just your neighbor. Stanley Zak. I wanted to make sure you and your daughter have everything you might need, at the moment.
+ສະບາຍດີ! ຂ້ອຍພຽງແຕ່ເປັນເພື່ອນບ້ານຂອງທ່ານ. ສະຕັນລີ ຊັກ.
+ຂ້ອຍຢາກແນ່ໃຈວ່າເຈົ້າແລະລູກສາວຂອງທ່ານມີທຸກຢ່າງທີ່ທ່ານອາດຈະຕ້ອງການ, ໃນເວລານີ້.
+
+481
+00:30:29,250 --> 00:30:31,250
+[MIDGE]
+Thank you. I think so.
+ຂອບໃຈ. ຂ້ອຍຄິດວ່າເປັນ.
+
+482
+00:30:31,750 --> 00:30:37,750
+[STANLEY]
+What a strange experience this is, isn't it? I went to law school with your former agent, by the way.
+ນີ້ແມ່ນປະສົບການທີ່ແປກໃຈຫຼາຍປານໃດ, ແມ່ນບໍ?
+ຂ້ອຍໄປໂຮງຮຽນກົດ ຫມາຍ ກັບຕົວແທນເກົ່າຂອງທ່ານ, ໂດຍທາງ.
+
+483
+00:30:38,250 --> 00:30:40,250
+[STANLEY]
+Yes. Mort. Oh --
+ແມ່ນແລ້ວ. ມອດຕ໌. ໂອ້ -
+
+484
+00:30:40,750 --> 00:30:42,750
+[STANLEY]
+That came out.
+ມັນອອກມາແລ້ວ.
+
+485
+00:30:43,250 --> 00:30:45,250
+[AUGIE]
+All my pictures come out.
+ຮູບທັງ ຫມົດ ຂອງຂ້ອຍອອກມາ.
+
+486
+00:30:45,750 --> 00:30:51,750
+[STANLEY]
+Anyway, as I say, we're just across the driveway, as my son-in-law seems to have established. Send my best wishes to Mort.
+ຢ່າງໃດກໍຕາມ, ດັ່ງທີ່ຂ້ອຍເວົ້າ, ພວກເຮົາຢູ່ທາງກົງກັນຂ້າມທາງເຂົ້າ,
+ດັ່ງລູກຊາຍຂອງຂ້ອຍເບິ່ງຄືວ່າໄດ້ສ້າງຕັ້ງຂຶ້ນ. ສົ່ງຄວາມອວຍພອນຂອງຂ້ອຍໃຫ້ໂມຕ໌.
+
+487
+00:30:52,250 --> 00:30:58,250
+[MIDGE]
+If and when we're permitted contact with the outside world -- though I don't speak to him, to tell you the truth. 72.
+ຖ້າແລະເມື່ອພວກເຮົາຖືກອະນຸຍາດໃຫ້ຕິດຕໍ່ກັບໂລກພາຍນອກ -
+ເຖິງແມ່ນວ່າຂ້ອຍບໍ່ເວົ້າກັບລາວ, ເພື່ອບອກເຈົ້າຄວາມຈິງ. 72.
+
+488
+00:30:58,750 --> 00:31:00,850
+[STANLEY]
+I love your hairdo like that.
+ຂ້ອຍມັກການຕັດຜົມຂອງທ່ານແບບນັ້ນ.
+
+489
+00:31:01,350 --> 00:31:03,350
+[MIDGE]
+Thank you.
+ຂອບໃຈ
+
+490
+00:31:03,850 --> 00:31:09,850
+[JUNE]
+I'm going to attempt to proceed with the lesson plan I originally prepared. Just to keep orderliness under the circumstances. I expect some of our information about outer space may no longer be completely accurate; but, anyway, there's still only nine planets in the solar system, as far as we know.  Billy?
+ຂ້ອຍຈະພະຍາຍາມສືບຕໍ່ແຜນການຮຽນທີ່ຂ້ອຍກຽມໄວ້ໃນເບື້ອງຕົ້ນ. ພຽງແຕ່ເພື່ອຮັກສາຄວາມເປັນລະບຽບຮຽບຮ້ອຍພາຍໃຕ້ສະພາບການ.
+ຂ້ອຍຄາດວ່າບາງຂໍ້ມູນຂອງພວກເຮົາກ່ຽວກັບອະວະກາດພາຍນອກອາດຈະບໍ່ຖືກຕ້ອງຢ່າງສົມບູນ; ແຕ່, ຢ່າງໃດກໍ່ຕາມ, ຍັງມີພຽງແຕ່ເກົ້າດາວໂລກໃນລະບົບແສງຕາເວັນ, ເທົ່າທີ່ພວກເຮົາຮູ້. ບີລີ?
+
+491
+00:31:10,350 --> 00:31:12,350
+[FRECKLED BOY]
+Except now there's a' alien!
+ຍົກເວັ້ນດຽວນີ້ມີຄົນຕ່າງດາວ!
+
+492
+00:31:12,850 --> 00:31:18,850
+[JUNE]
+True, by all appearances. Nevertheless: Neptune. Fourth largest planet , Neptune orbits the sun only once every 165 years.  Bernice?
+ແມ່ນແລ້ວ, ຕາມລັກສະນະທັງ ຫມົດ. ເຖິງຢ່າງໃດກໍ່ຕາມ: ເນປຕູນ. ດາວໂລກທີ່ໃຫຍ່ທີ່ສຸດທີສີ່
+, ເນັບຕູນ ຫມູນ ວຽນແສງຕາເວັນພຽງແຕ່ຄັ້ງດຽວໃນແຕ່ລະ 165 ປີ. ເບຣນິກສ໌?
+
+493
+00:31:19,350 --> 00:31:21,350
+[CURLY-HAIRED GIRL]
+Maybe the alien went there!
+ບາງທີຄົນຕ່າງດາວໄດ້ໄປບ່ອນນັ້ນ!
+
+494
+00:31:21,850 --> 00:31:27,800
+[JUNE]
+Well -- maybe? I don't think anybody knows where the alien went or came from.  Dwight? 73.
+ດີ - ບາງທີ? ຂ້ອຍບໍ່ຄິດວ່າໃຜຮູ້ບ່ອນທີ່ຄົນຕ່າງດາວໄປຫຼືມາຈາກ
+. ດວາຍຕ໌? 73.
+
+495
+00:31:28,300 --> 00:31:34,300
+[BOY WITH COWLICK]
+At first, I thought the alien was kind of sneaky, but now I think he was probably nervous to go to earth. He's never been here before, I betch'a.
+ໃນເບື້ອງຕົ້ນ, ຂ້ອຍຄິດວ່າຄົນຕ່າງດາວແມ່ນກະຕຸ້ນບາງຢ່າງ,
+ແຕ່ດຽວນີ້ຂ້ອຍຄິດວ່າລາວອາດຈະກັງວົນທີ່ຈະໄປໂລກ. ລາວບໍ່ເຄີຍຢູ່ບ່ອນນີ້ກ່ອນ, ຂ້ອຍແນ່ໃຈວ່າ.
+
+496
+00:31:34,800 --> 00:31:39,000
+[FRECKLED BOY]
+Then why'd he steal our asteroid then, if he's such a gentleman?
+ຫຼັງຈາກນັ້ນເປັນຫຍັງລາວຈຶ່ງລັກດາວທຽມຂອງພວກເຮົາຫຼັງຈາກນັ້ນ
+, ຖ້າລາວເປັນຜູ້ຊາຍທີ່ແທ້ຈິງ?
+
+497
+00:31:39,500 --> 00:31:45,500
+[JUNE]
+These are all reasonable questions; but, at this time, let's stick to Neptune -- because I haven't had time to prepare any lesson plan on this subject we're talking about.
+ເຫຼົ່ານີ້ທັງ ຫມົດ ແມ່ນ ຄໍາ ຖາມທີ່ສົມເຫດສົມຜົນ; ແຕ່, ໃນເວລານີ້, ໃຫ້ຍຶດຫມັ້ນກັບເນປຕູນ -
+ເພາະວ່າຂ້ອຍບໍ່ມີເວລາທີ່ຈະກະກຽມແຜນການຮຽນໃດໆກ່ຽວກັບຫົວຂໍ້ທີ່ພວກເຮົາ ກໍາ ລັງເວົ້າກ່ຽວກັບ.
+
+498
+00:31:46,000 --> 00:31:48,000
+[FRECKLED BOY]
+The alien!
+ຄົນຕ່າງດາວ!
+
+499
+00:31:48,500 --> 00:31:54,500
+[JUNE]
+The alien, yes. Neptune: named after the god of the sea, of course -- and, by the way, I'm not trying to evade your questions. I want to emphasize: you're safe. We all are.  Your parents have been notified of, at least, something. America remains at peace.  Yes, Montana?
+ຄົນຕ່າງດາວ, ແມ່ນແລ້ວ. ເນປຕູນ: ຊື່ຈາກພະເຈົ້າທະເລ, ແນ່ນອນ - ແລະ, ໂດຍທາງ, ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມຫຼີກເວັ້ນ ຄໍາ ຖາມຂອງທ່ານ. ຂ້ອຍຢາກເນັ້ນ ຫນັກ ວ່າ:
+ເຈົ້າປອດໄພ. ພວກເຮົາທຸກຄົນແມ່ນ. ພໍ່ແມ່ຂອງທ່ານໄດ້ຖືກແຈ້ງໃຫ້ຊາບກ່ຽວກັບ, ຢ່າງຫນ້ອຍ, ບາງສິ່ງບາງຢ່າງ. ອາເມລິກາຍັງຢູ່ໃນຄວາມສະຫງົບ. ແມ່ນແລ້ວ, ໂມນຕານາ?
+
+500
+00:31:55,000 --> 00:31:58,850
+[MONTANA]
+I'd like to parley a notion, myself, if I could, June.
+ຂ້ອຍຢາກປຶກສາຫາລືຄວາມຄິດເຫັນ, ຕົວເອງ, ຖ້າຂ້ອຍສາມາດເຮັດໄດ້, ຈູນ.
+
+501
+00:31:59,350 --> 00:32:05,350
+[MONTANA]
+I figger this here alien come from a tribe we don't know nothin' `bout, do we? Anything we say'd just be pure speckalation! But I tell you what I reckon: I reckon that alien don't mean no harm `tall. I reckon he just took hisself down here to have a looksy at the land  74.
+ຂ້ອຍຄິດວ່າຄົນຕ່າງດ້າວຄົນນີ້ມາຈາກຊົນເຜົ່າທີ່ພວກເຮົາບໍ່ຮູ້ຫຍັງເລີຍ, ແມ່ນບໍ? ທຸກສິ່ງທຸກຢ່າງທີ່ພວກເຮົາເວົ້າຈະພຽງແຕ່ເປັນການຄາດຄະເນທີ່ບໍລິສຸດ!
+ແຕ່ຂ້ອຍບອກເຈົ້າສິ່ງທີ່ຂ້ອຍຄິດວ່າ: ຂ້ອຍຄິດວ່ານັກຕ່າງດາວບໍ່ໄດ້ ຫມາຍ ຄວາມວ່າບໍ່ມີຄວາມເສຍຫາຍຫຍັງເລີຍ. ຂ້ອຍຄິດວ່າມັນພຽງແຕ່ເອົາຕົວເອງລົງມາບ່ອນນີ້ເພື່ອເບິ່ງດິນ 74.
+
+502
+00:32:05,850 --> 00:32:07,950
+[JUNE]
+I agree with Montana. Now: Neptune.
+ຂ້ອຍເຫັນດີກັບແມນຕານາ. ດຽວນີ້: ເນປຕູນ.
+
+503
+00:32:08,450 --> 00:32:14,050
+[MOTEL MANAGER]
+You see that wonderful crackly-patch right out there between the dead cactuses and the dried-up riverbed?
+ເຈົ້າເຫັນແຜ່ນທີ່ແຕກທີ່ສວຍງາມຢູ່ບ່ອນນັ້ນລະຫວ່າງ
+cactuses ຕາຍແລະຕຽງແມ່ນໍ້າທີ່ແຫ້ງແຫ້ງບໍ?
+
+504
+00:32:14,550 --> 00:32:16,550
+[J.J.]
+I think so.
+ຂ້ອຍຄິດວ່າເປັນ.
+
+505
+00:32:17,050 --> 00:32:19,050
+[MOTEL MANAGER]
+That's your parcel.
+ນັ້ນແມ່ນຊຸດຂອງທ່ານ.
+
+506
+00:32:19,550 --> 00:32:22,000
+[J.J.]
+How much of it? Do I own.
+ມັນຫຼາຍປານໃດ? ຂ້ອຍເປັນເຈົ້າຂອງບໍ.
+
+507
+00:32:22,500 --> 00:32:28,500
+[MOTEL MANAGER]
+Well, it's actually an interesting financial mechanism. You don't technically own anything outright. You own stock in the town. In the form of a loan. With a fifty year maturity rate. Then: at the end -- the loan is forgiven.
+ດີ, ມັນເປັນກົນໄກການເງິນທີ່ ຫນ້າ ສົນໃຈແທ້ໆ. ເຈົ້າບໍ່ໄດ້ເປັນເຈົ້າຂອງຫຍັງຢ່າງແທ້ຈິງທາງດ້ານເຕັກນິກ.
+ເຈົ້າເປັນເຈົ້າຂອງຮຸ້ນໃນເມືອງ. ໃນຮູບແບບເງິນກູ້ຢືມ. ດ້ວຍອັດຕາຄວາມໄວສິບປີ. ຫຼັງຈາກນັ້ນ: ໃນທີ່ສຸດ - ເງິນກູ້ ຢືມຖືກອະໄພ.
+
+508
+00:32:29,000 --> 00:32:31,000
+[CLIFFORD]
+You dare me?
+ເຈົ້າທ້າທາຍຂ້ອຍບໍ?
+
+509
+00:32:31,500 --> 00:32:33,500
+[J.J.]
+How about water?
+ຈະເປັນແນວໃດກັບນໍ້າ?
+
+510
+00:32:34,000 --> 00:32:38,200
+[MOTEL MANAGER]
+Of course, I understand. There isn't any. This is a desert opportunity.
+ແນ່ນອນ, ຂ້ອຍເຂົ້າໃຈ. ບໍ່ມີຫຍັງເລີຍ. ນີ້ແມ່ນໂອກາດໃນທະເລຊາຍ.
+
+511
+00:32:38,700 --> 00:32:40,700
+[CLIFFORD]
+It's an experiment.
+ມັນເປັນການທົດລອງ.
+
+512
+00:32:41,200 --> 00:32:47,200
+[J.J.]
+I don't care anymore. I dare you, or I don't dare you. It doesn't matter. Do what you wish. I give up.
+ຂ້ອຍບໍ່ສົນໃຈອີກຕໍ່ໄປ. ຂ້ອຍທ້າທາຍເຈົ້າ, ຫຼືຂ້ອຍບໍ່ທ້າ
+ທາຍເຈົ້າ. ມັນບໍ່ສໍາຄັນ. ເຮັດຕາມທີ່ເຈົ້າຕ້ອງການ. ຂ້ອຍຍອມຮັບ.
+
+513
+00:32:47,700 --> 00:32:52,600
+[J.J.]
+What's the cause? What's the meaning? Why do you always have to dare something?
+ເຫດຜົນແມ່ນຫຍັງ? ຄວາມ ຫມາຍ ແມ່ນຫຍັງ?
+ເປັນຫຍັງເຈົ້າຕ້ອງກ້າຫານບາງສິ່ງບາງຢ່າງຢູ່ສະເຫມີ?
+
+514
+00:32:53,100 --> 00:32:59,100
+[CLIFFORD]
+I don't know. Maybe it's because I'm afraid, otherwise, nobody'll -- notice -- my existence -- in the universe?
+ຂ້ອຍບໍ່ຮູ້. ບາງທີມັນເພາະວ່າຂ້ອຍຢ້ານກົວ, ຖ້າບໍ່ດັ່ງນັ້ນ,
+ບໍ່ມີໃຜຈະ - ສັງເກດເຫັນ - ການມີຢູ່ຂອງຂ້ອຍ - ໃນຈັກກະວານບໍ?
+
+515
+00:32:59,600 --> 00:33:02,050
+[CLIFFORD]
+To climb that cactus out there. 76.
+ເພື່ອຂຶ້ນຄັກຕັສນັ້ນຢູ່ນອກນັ້ນ. 76.
+
+516
+00:33:02,550 --> 00:33:08,550
+[AUGIE]
+If I sleep on a cot instead of the sofa- bed that might leave room for me to set up a darkroom in the pool house. Is that possible? As a compromise.
+ຖ້າຂ້ອຍນອນຢູ່ເທິງຕຽງແທນທີ່ຈະເປັນໂຊຟາຕຽງທີ່ອາດຈະປ່ອຍບ່ອນໃຫ້ຂ້ອຍຕັ້ງຫ້ອງມືດໃນເຮືອນສະລອຍນ້
+ໍາ ໄດ້ບໍ? ເປັນການຕົກລົງກັນ.
+
+517
+00:33:09,050 --> 00:33:15,050
+[STANLEY]
+Depends on the measurements. I can actually carpool the girls to school by golf-cart, you know. If I cut across the fourteenth tee.
+ມັນຂຶ້ນກັບການວັດແທກ. ຂ້ອຍສາມາດຂັບລົດເດັກຍິງໄປໂຮງຮຽນໂດຍລົດໂກລຟ໌
+, ເຈົ້າຮູ້ແລ້ວ. ຖ້າຂ້ອຍຕັດທາງທີສິບສີ່.
+
+518
+00:33:15,550 --> 00:33:17,550
+[AUGIE]
+It's that close? The elementary.
+ມັນໃກ້ຊິດຫຼາຍປານໃດ? ໂຮງຮຽນປະຖົມ.
+
+519
+00:33:18,050 --> 00:33:23,300
+[WOODROW]
+How can you two even think about this? The world will never be the same!
+ເຈົ້າທັງສອງສາມາດຄິດກ່ຽວກັບເລື່ອງນີ້ໄດ້ແນວໃດ? ໂລກຈະບໍ່ຄືກັນເລີຍ!
+
+520
+00:33:23,800 --> 00:33:29,800
+[WOODROW]
+What happens next? Nobody knows! Will he visit us again? Will he speak to us? What will he say? Why did he steal our asteroid? Was it ours in the first place? Does he -- like us? Nobody knows!
+ຈະເກີດຫຍັງຂຶ້ນຕໍ່ໄປ? ບໍ່ມີໃຜຮູ້! ລາວຈະມາຢ້ຽມຢາມພວກເຮົາອີກຄັ້ງບໍ? ລາວຈະເວົ້າກັບພວກເຮົາບໍ? ລາວກ່າວຫຍັງ?
+ເປັນຫຍັງລາວຈຶ່ງລັກດາວທຽມຂອງພວກເຮົາ? ມັນແມ່ນຂອງພວກເຮົາໃນອັນດັບ ທໍາ ອິດບໍ? ເຂົາຍັງ - ຄືກັບພວກເຮົາມີບໍ? ບໍ່ມີຄົນຮູ້!
+
+521
+00:33:30,300 --> 00:33:32,300
+[AUGIE]
+That's true.
+ນັ້ນແມ່ນຄວາມຈິງ.
+
+522
+00:33:32,800 --> 00:33:37,350
+[WOODROW]
+What's out there? Something! The meaning of life? Maybe there is one! 77.
+ມີຫຍັງຢູ່ພາຍນອກນັ້ນ? ບາງສິ່ງບາງຢ່າງ!
+ຄວາມຫມາຍຂອງຊີວິດ? ບາງທີມີຫນຶ່ງ! 77.
+
+523
+00:33:37,850 --> 00:33:39,850
+[STANLEY]
+I hope you're still Episcopalian.
+ຂ້ອຍຫວັງວ່າເຈົ້າຍັງເປັນ Episcopalian.
+
+524
+00:33:40,350 --> 00:33:42,350
+[WOODROW]
+You took his picture, Dad!
+ເຈົ້າໄດ້ຖ່າຍຮູບລາວ, ພໍ່!
+
+525
+00:33:42,850 --> 00:33:44,850
+[AUGIE]
+You really want us, Stanley?
+ເຈົ້າຢາກພວກເຮົາແທ້ບໍ, ສຕັນລີ?
+
+526
+00:33:45,350 --> 00:33:47,350
+[STANLEY]
+No, but you need me.
+ບໍ່, ແຕ່ເຈົ້າຕ້ອງການຂ້ອຍ.
+
+527
+00:33:47,850 --> 00:33:49,950
+[AUGIE]
+She did love me, you know.
+ນາງຮັກຂ້ອຍແທ້ໆ, ເຈົ້າຮູ້ແລ້ວ.
+
+528
+00:33:50,450 --> 00:33:55,700
+[STANLEY]
+Who says she didn't? I've been on my own for twelve years, after all .
+ໃຜບອກວ່ານາງບໍ່ໄດ້ເຮັດ?
+ຂ້ອຍຢູ່ດ້ວຍຕົນເອງເປັນເວລາສິບສອງປີແລ້ວ, ຫຼັງຈາກນັ້ນ.
+
+529
+00:33:56,200 --> 00:33:58,300
+[AUGIE]
+I don't know what that means.
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນຫມາຍຄວາມວ່າແນວໃດ.
+
+530
+00:33:58,800 --> 00:34:04,800
+[STANLEY]
+In my loneliness , I've learned not to judge people; to take people as I find them, not as others find them; and, most of all, to give complete and unquestioning faith to the people I love. That doesn't include you, but it included my daughter -- and your four children -- and you're welcome to stay with me as long as you wish, whether I like it or not .
+ໃນຄວາມໂດດດ່ຽວຂອງຂ້ອຍ, ຂ້ອຍໄດ້ຮຽນຮູ້ບໍ່ຕ້ອງຕັດສິນໃຈຄົນ; ເພື່ອເອົາຄົນຕາມທີ່ຂ້ອຍພົບພວກເຂົາ, ບໍ່ແມ່ນຕາມທີ່ຄົນອື່ນພົບພວກເຂົາ; ແລະ, ຫຼາຍທີ່ສຸດ, ເພື່ອໃຫ້ຄວາມເຊື່ອທີ່ສົມບູນແບບແລະບໍ່ມີຂໍ້ສົງໄສຕໍ່ຄົນທີ່ຂ້ອຍຮັກ
+. ນັ້ນບໍ່ລວມທັງເຈົ້າ, ແຕ່ມັນລວມທັງລູກສາວຂອງຂ້ອຍ - ແລະລູກສີ່ຄົນຂອງທ່ານ - ແລະເຈົ້າຍິນດີຕ້ອນຮັບທີ່ຈະຢູ່ກັບຂ້ອຍຕະຫຼອດເວລາທີ່ທ່ານຕ້ອງການ, ບໍ່ວ່າຂ້ອຍມັກຫຼືບໍ່.
+
+531
+00:34:05,300 --> 00:34:07,400
+[AUGIE]
+Stop helping us. We're in grief!
+ຢຸດການຊ່ວຍພວກເຮົາ. ພວກເຮົາຢູ່ໃນຄວາມທຸກທໍລະມານ!
+
+532
+00:34:07,900 --> 00:34:09,900
+[STANLEY]
+Me, too!
+ຂ້ອຍຄືກັນ!
+
+533
+00:34:10,400 --> 00:34:12,500
+[WOODROW]
+Are you planning to abandon us?
+ເຈົ້າ ກໍາ ລັງວາງແຜນທີ່ຈະປະຖິ້ມພວກເຮົາບໍ?
+
+534
+00:34:13,000 --> 00:34:15,000
+[AUGIE]
+I was  --
+ຂ້ອຍແມ່ນ...
+
+535
+00:34:15,500 --> 00:34:17,500
+[STANLEY]
+What?
+ຫຍັງ?
+
+536
+00:34:18,000 --> 00:34:20,100
+[AUGIE]
+-- but I decided against it.
+- ແຕ່ຂ້ອຍຕັດສິນໃຈບໍ່ເຮັດ.
+
+537
+00:34:20,600 --> 00:34:22,700
+[WOODROW]
+I knew it. I sensed it.
+ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍຮູ້ສຶກມັນ.
+
+538
+00:34:23,200 --> 00:34:25,200
+[STANLEY]
+I didn't!
+ຂ້ອຍບໍ່ໄດ້ເຮັດ!
+
+539
+00:34:25,700 --> 00:34:30,250
+[AUGIE]
+I'm not planning to abandon you. Anymore. Even as a temporary measure .
+ຂ້ອຍບໍ່ໄດ້ວາງແຜນທີ່ຈະປະຖິ້ມເຈົ້າ.
+ອີກຕໍ່ໄປ. ເຖິງແມ່ນວ່າເປັນມາດຕະການຊົ່ວຄາວ.
+
+540
+00:34:30,750 --> 00:34:32,850
+[WOODROW]
+I forgive you for considering it.
+ຂ້ອຍຂໍໂທດເຈົ້າທີ່ພິຈາລະນາມັນ.
+
+541
+00:34:33,350 --> 00:34:35,350
+[AUGIE]
+What about you? 79.
+ເຈົ້າແນວໃດ? 79.
+
+542
+00:34:35,850 --> 00:34:41,850
+[ANDROMEDA]
+We're going to sleep under the floor of the house in a secret prison powered by electricity from an erupting volcano.
+ພວກເຮົາຈະນອນພາຍໃຕ້ພື້ນເຮືອນໃນຄຸກລັບທີ່ໃຊ້ໄຟຟ້າຈາກພູເຂົາໄຟທີ່ລະເບີດ
+.
+
+543
+00:34:42,350 --> 00:34:46,550
+[AUGIE]
+OK. Who needs to pee? Let's go inside and order some chili.
+ດີແລ້ວ. ໃຜຕ້ອງສູບຢາ? ໄປພາຍໃນແລະສັ່ງຈີລີບາງຢ່າງ.
+
+544
+00:34:47,050 --> 00:34:53,050
+[GENERAL GIBSON]
+For the official Military-science Division archive: this is a forensic re- enactment of events that occurred on this site exactly sixteen hours ago --  -- now.
+ສໍາລັບເອກະສານທາງການຂອງພະແນກວິທະຍາສາດການທະຫານ:
+ນີ້ແມ່ນການປັບປຸງຄືນຄວາມເປັນຈິງຂອງເຫດການທີ່ເກີດຂຶ້ນໃນເວັບໄຊທ໌ນີ້ເມື່ອສິບຫົກຊົ່ວໂມງກ່ອນ - - ດຽວນີ້.
+
+545
+00:34:53,550 --> 00:34:59,550
+[GENERAL GIBSON]
+Dr. Hickenlooper, would you like to repeat the remarks you said yesterday? To the best of your recollection.
+ດຣ ຮິກເກນລູເປີ, ເຈົ້າຢາກຊໍ້າຂໍ້ສັງເກດທີ່ທ່ານເວົ້າມື້ວານນີ້ບໍ
+? ເຖິງຄວາມຊົງຈໍາທີ່ດີທີ່ສຸດຂອງທ່ານ.
+
+546
+00:35:00,050 --> 00:35:04,950
+[DR. HICKENLOOPER]
+Well, I began by describing various properties of the Astronomical Ellipses.  What's that noise?
+ດີ, ຂ້ອຍເລີ່ມຕົ້ນໂດຍການອະທິບາຍຄຸນສົມບັດຕ່າງໆຂອງ
+Ellipses Astronomical ໄດ້. ສຽງນັ້ນແມ່ນຫຍັງ?
+
+547
+00:35:05,450 --> 00:35:07,450
+[AIDE-DE-CAMP]
+Fritos. 80.
+ຟຣີສຕັສ. 80.
+
+548
+00:35:07,950 --> 00:35:11,450
+[DR. HICKENLOOPER]
+Were you eating those last night? When the alien came.
+ເຈົ້າກິນພວກນັ້ນໃນມື້ວານນີ້ບໍ? ເມື່ອຄົນຕ່າງດາວມາ.
+
+549
+00:35:11,950 --> 00:35:15,100
+[AIDE-DE-CAMP]
+How could I? The snack machine was turned off.
+ຂ້ອຍເຮັດໄດ້ແນວໃດ? ເຄື່ອງຈັກອາຫານຫວ່າງຖືກປິດລົງ.
+
+550
+00:35:15,600 --> 00:35:17,600
+[DR. HICKENLOOPER]
+Then give it.
+ຫຼັງຈາກນັ້ນໃຫ້ມັນ.
+
+551
+00:35:18,100 --> 00:35:24,100
+[DR. HICKENLOOPER]
+Twice every fifty-seven years, when the earth, the sun, the moon, and the galactic plane of the Milky Way --
+ສອງຄັ້ງໃນທຸກໆຫ້າສິບເຈັດປີ, ເມື່ອໂລກ, ແສງຕາເວັນ
+, ດວງຈັນ, ແລະເຮືອບິນແກລັກສິກຂອງ Milky Way -
+
+552
+00:35:24,600 --> 00:35:26,600
+[AIDE-DE-CAMP]
+What's that contraption?
+ເຄື່ອງຈັກນັ້ນແມ່ນຫຍັງ?
+
+553
+00:35:27,100 --> 00:35:33,100
+[MECHANIC]
+I've never seen an assembly of this kind on any American make or model  in all my experience. I thought maybe it might be some kind of hot rod power-booster ; but, then, after what occurred and so on, I figured it's my duty to bring it to the attention of the proper authorities. In case it comes from outer space.
+ຂ້ອຍບໍ່ເຄີຍເຫັນການໂຮມຊຸມນຸມແບບນີ້ໃນຍີ່ຫໍ້ຫຼືຮູບແບບອາເມລິກາໃດໆໃນປະສົບການຂອງຂ້ອຍທັງ ຫມົດ. ຂ້ອຍຄິດວ່າມັນອາດຈະເປັນການເພີ່ມພະລັງງານກະດານຮ້ອນບາງປະເພດ; ແຕ່, ຫຼັງຈາກນັ້ນ
+, ຫຼັງຈາກສິ່ງທີ່ເກີດຂຶ້ນແລະອື່ນໆ, ຂ້ອຍຄິດວ່າມັນເປັນຫນ້າທີ່ຂອງຂ້ອຍທີ່ຈະ ນໍາ ມັນໄປສູ່ຄວາມສົນໃຈຂອງເຈົ້າຫນ້າທີ່ທີ່ ເຫມາະ ສົມ. ໃນກໍລະນີທີ່ມັນມາຈາກອະວະກາດພາຍນອກ.
+
+554
+00:35:33,600 --> 00:35:39,600
+[GENERAL GIBSON]
+It might be from space, or it might be from earth. Impossible to tell.  What do you think?
+ມັນອາດຈະມາຈາກອະວະກາດ, ຫຼືມັນອາດຈະມາຈາກໂລກ
+. ບໍ່ສາມາດບອກໄດ້. ເຈົ້າຄິດແນວໃດ?
+
+555
+00:35:40,100 --> 00:35:42,100
+[EXECUTIVE]
+No idea. 81.
+ບໍ່ຮູ້ເລີຍ. 81.
+
+556
+00:35:42,600 --> 00:35:45,750
+[GENERAL GIBSON]
+Put it in a box and mark it: "unknown."
+ເອົາມັນໃສ່ກ່ອງແລະຫມາຍມັນວ່າ:"ບໍ່ຮູ້".
+
+557
+00:35:46,250 --> 00:35:48,350
+[AIDE-DE-CAMP]
+Yes, sir. Like we always do.
+ແມ່ນແລ້ວເດີ. ດັ່ງທີ່ພວກເຮົາເຮັດຢູ່ສະເຫມີ.
+
+558
+00:35:48,850 --> 00:35:54,850
+[DR. HICKENLOOPER]
+After that, I said something like, "Boy, aren't these just luminously marvelous colors?" Then I warned everybody not to look right at it.
+ຫຼັງຈາກນັ້ນ, ຂ້ອຍເວົ້າບາງສິ່ງບາງຢ່າງເຊັ່ນວ່າ,"ເດັກຊາຍ, ເຫຼົ່ານີ້ບໍ່ແມ່ນພຽງແຕ່ສີທີ່ສວຍງາມຢ່າງສົດໃສບໍ
+?" ຫຼັງຈາກນັ້ນຂ້ອຍເຕືອນທຸກຄົນບໍ່ໃຫ້ເບິ່ງມັນຢ່າງຖືກຕ້ອງ.
+
+559
+00:35:55,350 --> 00:35:57,350
+[CLIFFORD]
+Evening, Chief.
+ຕອນແລງ, ຫົວຫນ້າ.
+
+560
+00:35:57,850 --> 00:36:02,750
+[CLIFFORD]
+Can I ask you to stick this dime in the payphone for me, please?
+ຂ້ອຍຂໍໃຫ້ເຈົ້າເອົາເງິນສິບນີ້ໃສ່ໂທລະສັບຈ່າຍເງິນ ສໍາ ລັບຂ້ອຍໄດ້ບໍ?
+
+561
+00:36:03,250 --> 00:36:06,750
+[GUARD]
+All public telephone service has been suspended until further notice.
+ການບໍລິການໂທລະສັບສາທາລະນະທັງ ຫມົດ
+ໄດ້ຖືກໂຈະໄວ້ຈົນກວ່າຈະແຈ້ງການຕໍ່ໄປ.
+
+562
+00:36:07,250 --> 00:36:13,250
+[CLIFFORD]
+I know it. The thing is: right before the hubbub yesterday, I made a trunk call to my cousin , and the  82.
+ຂ້ອຍຮູ້ມັນ. ເລື່ອງແມ່ນ: ກ່ອນການກະຕຸ້ນມື້ວານນີ້
+, ຂ້ອຍໄດ້ໂທຫາລູກອ້າຍຂອງຂ້ອຍ, ແລະ 82.
+
+563
+00:36:13,750 --> 00:36:17,250
+[DINAH]
+Although it might convey a different meaning on his planet.
+ເຖິງແມ່ນວ່າມັນອາດຈະສົ່ງຄວາມຫມາຍທີ່ແຕກຕ່າງກັນໃນໂລກຂອງລາວ.
+
+564
+00:36:17,750 --> 00:36:23,350
+[WOODROW]
+That's true -- if he even has a planet, by the way! He might be nomadic?
+ນັ້ນແມ່ນຄວາມຈິງ - ຖ້າລາວມີໂລກ,
+ເຖິງຢ່າງໃດກໍ່ຕາມ! ລາວອາດຈະເປັນຄົນຍ້າຍຖິ່ນບໍ?
+
+565
+00:36:23,850 --> 00:36:26,650
+[RICKY]
+Operator? Kismet-nine, seven-seven-oh. Station to station. Thank you.
+ຜູ້ປະຕິບັດງານ? ກິສເມັດເກົ້າ, ເຈັດເຈັດໂອ້. ສະຖານີຕໍ່ສະຖານີ. ຂອບໃຈ.
+
+566
+00:36:27,150 --> 00:36:29,150
+[MOTHER]
+Hello? Who's calling? 83.
+ສະບາຍດີ? ໃຜໂທ? 83.
+
+567
+00:36:29,650 --> 00:36:34,550
+[RICKY]
+Good evening, Mrs. Weatherford. It's Ricky Cho. May I have a word with --
+ສະບາຍດີ, ທ່ານນາງເວດເຟອດ. ມັນແມ່ນຣິກກີ ໂຊ. ຂ້ອຍສາມາດເວົ້າກັບ -
+
+568
+00:36:35,050 --> 00:36:39,950
+[MOTHER]
+It's after nine, Ricky. He's already drinking his Ovaltine. Can't this wait until tomorrow?
+ມັນຜ່ານເວລາເກົ້າແລ້ວ, ຣິກກີ. ລາວ ກໍາ ລັງດື່ມ Ovaltine
+ຂອງລາວແລ້ວ. ສິ່ງນີ້ບໍ່ສາມາດລໍຖ້າຈົນຮອດມື້ອື່ນບໍ?
+
+569
+00:36:40,450 --> 00:36:46,450
+[RICKY]
+I'm afraid not, Mrs. Weatherford. I wouldn't disturb you if it weren't of the utmost importance to the Weekly Bobcat. I just need a minute of his time.
+ຂ້ອຍຢ້ານວ່າບໍ່ແມ່ນ, ທ່ານນາງເວທີຟອດ. ຂ້ອຍຈະບໍ່ລົບກວນທ່ານຖ້າມັນບໍ່ແມ່ນຄວາມສໍາຄັນທີ່ສຸດຕໍ່ໂບບແຄຕ໌ປະຈໍາອາທິດ
+. ຂ້ອຍພຽງແຕ່ຕ້ອງການເວລາຂອງລາວ ຫນຶ່ງ ນາທີ.
+
+570
+00:36:46,950 --> 00:36:49,050
+[MOTHER]
+All right, Ricky. Hold the line.
+ດີແລ້ວ, ຣິກກີ. ຮັກສາສາຍ.
+
+571
+00:36:49,550 --> 00:36:52,700
+[SHELLY]
+Some kind of romance between the two of you?
+ຄວາມຮັກບາງຢ່າງລະຫວ່າງເຈົ້າທັງສອງບໍ?
+
+572
+00:36:53,200 --> 00:36:55,200
+[WOODROW]
+Who?
+ໃຜ?
+
+573
+00:36:55,700 --> 00:36:57,700
+[SHELLY]
+Who. You.
+ໃຜ. ເຈົ້າ.
+
+574
+00:36:58,200 --> 00:37:00,200
+[DINAH]
+Who?
+ໃຜ?
+
+575
+00:37:00,700 --> 00:37:02,700
+[DINAH]
+We only met yesterday.
+ພວກເຮົາພົບກັນພຽງແຕ່ມື້ວານນີ້.
+
+576
+00:37:03,200 --> 00:37:06,700
+[WOODROW]
+I feel she doesn't like me in that way. 84.
+ຂ້ອຍຮູ້ສຶກວ່ານາງບໍ່ມັກຂ້ອຍໃນທາງນັ້ນ. 84.
+
+577
+00:37:07,200 --> 00:37:11,750
+[SHELLY]
+Uh-huh. Well, I think you're pretty smart, but I think you're pretty dumb.
+ອູຮູ. ດີ, ຂ້ອຍຄິດວ່າເຈົ້າສະຫຼາດຫຼາຍ, ແຕ່ຂ້ອຍຄິດວ່າທ່ານໂງ່ຫຼາຍ.
+
+578
+00:37:12,250 --> 00:37:14,250
+[SLEEPY BOY]
+Hello?
+ສະບາຍດີ?
+
+579
+00:37:14,750 --> 00:37:17,200
+[RICKY]
+Shh!  Skip? Ricky. We got a scoop.
+ສະຫງົບ! ສະກິບ? ຣິກກີ. ພວກເຮົາມີກະຕຸ້ນ.
+
+580
+00:37:17,700 --> 00:37:23,700
+[HOST]
+The first hints of the future existence of "Asteroid City" were revealed during a special seminar scheduled at the playwright's request.
+ຂໍ້ແນະນໍາທໍາອິດກ່ຽວກັບການມີຢູ່ໃນອະນາຄົດຂອງ"ເມືອງ Asteroid"
+ໄດ້ຖືກເປີດເຜີຍໃນລະຫວ່າງກອງປະຊຸມສໍາມະນາພິເສດທີ່ວາງແຜນຕາມຄໍາຮ້ອງຂໍຂອງນັກຂຽນລະຄອນ.
+
+581
+00:37:24,200 --> 00:37:26,650
+[TEACHER]
+Conrad Earp: how can we help you?
+ຄອນຣາດ ເອຣັບ: ພວກເຮົາສາມາດຊ່ວຍທ່ານໄດ້ແນວໃດ?
+
+582
+00:37:27,150 --> 00:37:33,150
+[PLAYWRIGHT]
+Well, the thing is, Saltzie: I'd like to make a scene where all my characters are each gently/privately seduced into the  85.
+ດີ, ເລື່ອງແມ່ນ, ໂຊລຊີ: ຂ້ອຍຢາກເຮັດເວທີທີ່ຕົວລະຄອນຂອງຂ້ອຍທັງ
+ຫມົດ ຖືກດຶງດູດເຂົ້າໄປໃນ 85.
+
+583
+00:37:33,650 --> 00:37:35,650
+[TEACHER]
+A sleeping scene.
+ສະຖານທີ່ນອນ.
+
+584
+00:37:36,150 --> 00:37:40,700
+[PLAYWRIGHT]
+A scene of sleeping -- but I don't know how to write it!
+ສະຖານທີ່ນອນ - ແຕ່ຂ້ອຍບໍ່ຮູ້ວິທີຂຽນມັນ!
+
+585
+00:37:41,200 --> 00:37:43,200
+[TEACHER]
+Yet.
+ແຕ່ວ່າ.
+
+586
+00:37:43,700 --> 00:37:49,650
+[PLAYWRIGHT]
+Yet. I thought, perhaps, if you and your wonderfully talented pupils just improvise? Something might reveal itself.
+ເຖິງຢ່າງໃດກໍ່ຕາມ. ຂ້ອຍຄິດວ່າ, ບາງທີ, ຖ້າເຈົ້າແລະນັກຮຽນທີ່ມີຄວາມສາມາດທີ່ຍິ່ງໃຫຍ່ຂອງທ່ານພຽງແຕ່
+improvise ໄດ້ບໍ? ບາງສິ່ງບາງຢ່າງອາດຈະເປີດເຜີຍຕົວເອງ.
+
+587
+00:37:50,150 --> 00:37:56,150
+[HOST]
+Who wasn't going to be famous? On any given day: roll-call in Saltzburg Keitel's classroom was a now-dazzling list of undiscovered luminaries:
+ໃຜຈະບໍ່ເປັນຄົນທີ່ມີຊື່ສຽງ? ໃນມື້ໃດກໍ່ຕາມ: ການໂທຫາຊື່ໃນຫ້ອງຮຽນຂອງໂຊລສບີກ
+Keitel ແມ່ນບັນຊີລາຍຊື່ທີ່ສວຍງາມຂອງແສງສະຫວ່າງທີ່ຍັງບໍ່ພົບເຫັນ:
+
+588
+00:37:56,650 --> 00:38:01,550
+[HOST]
+Linus Mao, Lucretia Shaver, Walter Geronimo, Asquith Eden, Mercedes Ford. Even, unofficially: Jones Hall.
+ລິນູສ ມາໂກ້, ລູເກຕີຍາ ເຊເວີ, ວາລເຕີ ເຈຣອນິໂມ, ອາສກວິດ ເອດັນ
+, ເມຣເຊດສ໌ ຟອດດ໌. ເຖິງແມ່ນວ່າ, ຢ່າງບໍ່ເປັນທາງການ: ໂຈນສ໌ ຮອລ.
+
+589
+00:38:02,050 --> 00:38:04,050
+[ACTOR/ROGER]
+What's it about? The play.
+ມັນກ່ຽວກັບຫຍັງ? ການສະແດງ.
+
+590
+00:38:04,550 --> 00:38:07,000
+[PLAYWRIGHT]
+Infinity, and I don't know what else.
+ຄວາມບໍ່ສິ້ນສຸດ, ແລະຂ້ອຍບໍ່ຮູ້ວ່າອີກຫຍັງອີກ.
+
+591
+00:38:07,500 --> 00:38:09,500
+[ACTRESS/SHELLY]
+Is there a title?
+ມີຫົວຂໍ້ບໍ?
+
+592
+00:38:10,000 --> 00:38:13,850
+[PLAYWRIGHT]
+I'm torn. Perhaps: "The Cosmic Wilderness." Do you like that one?
+ຂ້ອຍແຕກແຍກ. ບາງທີ:" ເຂດປ່າໄມ້ໂກສມິກ." ເຈົ້າມັກຄົນນັ້ນບໍ?
+
+593
+00:38:14,350 --> 00:38:16,350
+[ACTRESS/MIDGE]
+Not really.
+ບໍ່ແທ້ໆ.
+
+594
+00:38:16,850 --> 00:38:18,950
+[ACTOR/MONTANA]
+What's the other? Title, I mean.
+ອີກອັນໃດ? ຫົວຂໍ້, ຂ້ອຍຫມາຍຄວາມວ່າ.
+
+595
+00:38:19,450 --> 00:38:25,050
+[PLAYWRIGHT]
+It's the name of the small town on the California/Nevada/Arizona desert where the story takes place.
+ມັນເປັນຊື່ຂອງເມືອງນ້ອຍໆໃນທະເລຊາຍຄາລີຟໍເນຍ
+/ ເນວາດາ / ອາຣີໂຊນາ ບ່ອນທີ່ເລື່ອງເກີດຂຶ້ນ.
+
+596
+00:38:25,550 --> 00:38:31,500
+[TEACHER]
+Who here has fallen asleep ever onstage during a live performance? In front of a paying audience.
+ໃຜຢູ່ບ່ອນນີ້ເຄີຍນອນຢູ່ເທິງເວທີໃນລະຫວ່າງການສະແດງສົດ
+? ຢູ່ຕໍ່ຫນ້າຜູ້ຊົມທີ່ຈ່າຍເງິນ.
+
+597
+00:38:32,000 --> 00:38:34,000
+[DIRECTOR]
+Me.
+ຂ້ອຍ.
+
+598
+00:38:34,500 --> 00:38:40,500
+[DIRECTOR]
+I spent the first three-quarters of Act II of "The Welterweight" on a massage table with no lines until the last minute and a half. One night, I nodded off.
+ຂ້ອຍໄດ້ໃຊ້ເວລາສາມສີ່ສ່ວນ ທໍາ ອິດຂອງກະຕຸ້ນທີສອງຂອງ"The Welterweight"
+ຢູ່ເທິງໂຕະມຊ່າໂດຍບໍ່ມີສາຍຈົນຮອດນາທີສຸດທ້າຍແລະເຄິ່ງ. ໃນຄືນຫນຶ່ງ, ຂ້ອຍນອນລົງ.
+
+599
+00:38:41,000 --> 00:38:43,000
+[TEACHER]
+On purpose? You did this.
+ເຈົ້າເຮັດແບບນີ້ບໍ?
+
+600
+00:38:43,500 --> 00:38:45,500
+[DIRECTOR]
+No.
+ບໍ່
+
+601
+00:38:46,000 --> 00:38:48,100
+[TEACHER]
+Did you miss your cue? 87.
+ເຈົ້າພາດຊີ້ບອກບໍ? 87.
+
+602
+00:38:48,600 --> 00:38:53,500
+[DIRECTOR]
+Almost. I heard it, and I woke up  -- but I knew my lines.
+ເກືອບ. ຂ້ອຍໄດ້ຍິນມັນ, ແລະຂ້ອຍຕື່ນຂຶ້ນ - ແຕ່ຂ້ອຍຮູ້ສາຍຂອງຂ້ອຍ.
+
+603
+00:38:54,000 --> 00:38:56,000
+[TEACHER]
+Good morning, Schubert.
+ສະບາຍດີ, ຊູເບີດ.
+
+604
+00:38:56,500 --> 00:38:58,500
+[DIRECTOR]
+Good morning, Saltzie.
+ສະບາຍດີ, ໂຊລຊີ.
+
+605
+00:38:59,000 --> 00:39:02,850
+[TEACHER]
+What brings you here today? Haven't seen you in six weeks.
+ເຈົ້າມາທີ່ນີ້ເປັນຫຍັງມື້ນີ້?
+ຂ້ອຍບໍ່ໄດ້ເຫັນເຈົ້າເປັນເວລາຫົກອາທິດແລ້ວ.
+
+606
+00:39:03,350 --> 00:39:06,500
+[DIRECTOR]
+"Lavender and Lemons" opened last night . I'm available.
+"Lavender ແລະ Lemons" ເປີດໃນມື້ວານນີ້. ຂ້ອຍສາມາດໃຊ້ໄດ້.
+
+607
+00:39:07,000 --> 00:39:09,000
+[DIRECTOR]
+Hello, Connie.
+ສະບາຍດີ ຄອນນີ.
+
+608
+00:39:09,500 --> 00:39:11,500
+[HOST]
+What did he teach? Example:
+ລາວສອນຫຍັງ? ຕົວຢ່າງ:
+
+609
+00:39:12,000 --> 00:39:18,000
+[TEACHER]
+Sleep: is not death. The body keeps busy . Maybe you pay visit to your dead mother. Maybe you go to bed with ex-wife. Or husband! Maybe you climb the Matterhorn. Connie: you wake up with new scene three- quarters written in the head already. Schubert: you wake up with a hangover. Important things happen. Is there something to play? I think so. Let's work on scene from the outside in: be inert -- then dream.
+ການນອນ: ບໍ່ແມ່ນຄວາມຕາຍ. ຮ່າງກາຍຍັງມີວຽກເຮັດງານທໍາຢູ່. ບາງທີເຈົ້າໄປຢ້ຽມຢາມແມ່ທີ່ຕາຍຂອງທ່ານ. ບາງຄົນເຈົ້າໄປນອນກັບເມຍເກົ່າຂອງທ່ານ. ຫຼືຜົວຂອງທ່ານ! ບາງທີທ່ານຂຶ້ນ Matterhorn ໄດ້. ຄອນນີ:
+ເຈົ້າຕື່ນກັບສະຖານະພາບໃຫມ່ສາມສີ່ແສນທີ່ຂຽນໄວ້ໃນຫົວແລ້ວ. ຊູເບີດ: ທ່ານຕື່ນດ້ວຍ hangover ໄດ້. ມີບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນເກີດຂຶ້ນບໍ? ຂ້ອຍຄິດດັ່ງນັ້ນ. ມາເຮັດວຽກໃນສະຖານະການຈາກພາຍນອກໃນ: ເປັນ in
+
+610
+00:39:18,500 --> 00:39:21,650
+[TEACHER]
+Where are we, Connie? And when. Talk to us!
+ພວກເຮົາຢູ່ໃສ, ຄອນນີ? ແລະເມື່ອໃດ. ເວົ້າກັບພວກເຮົາ!
+
+611
+00:39:22,150 --> 00:39:24,150
+[PLAYWRIGHT]
+All right.
+ດີແລ້ວ.
+
+612
+00:39:24,650 --> 00:39:30,650
+[PLAYWRIGHT]
+One week later. Our cast of characters' already tenuous grasp of reality has further slipped in quarantine, and the group begins to occupy a space of the most peculiar emotional dimensions. Meanwhile: the information blockade spearheaded by General Grif Gibson has been, it appears, incomplete...
+ຫນຶ່ງ ອາທິດຕໍ່ມາ. ການຈັບໃຈຄວາມເປັນຈິງທີ່ອ່ອນແອຂອງຕົວລະຄອນຂອງພວກເຮົາໄດ້ລອຍລົງໃນການກັກກັນອີກຕໍ່ໄປ, ແລະກຸ່ມເລີ່ມຄອບຄອງພື້ນທີ່ຂອງຂະຫນາດທາງຈິດໃຈທີ່ແປກໃຈທີ່ສຸດ
+. ໃນຂະນະດຽວກັນ: ການປິດລ້ອມຂໍ້ມູນທີ່ນໍາພາໂດຍພົນຈັດຕະວາກຣີຟ ແກບຊັນແມ່ນ, ມັນເບິ່ງຄືວ່າ, ບໍ່ສົມບູນແບບ...
+
+613
+00:39:31,150 --> 00:39:33,150
+[NEWSBOY]
+Extra! Extra! Late Edition!
+ເຕີບໂຕ! ເພີ່ມເຕີມ! ສະບັບຫຼ້າສຸດ!
+
+614
+00:39:33,650 --> 00:39:39,650
+[GENERAL GIBSON]
+I hope you're aware: you and your accomplices may still face felony prosecution. Possibly, even, a treason charge.
+ຂ້ອຍຫວັງວ່າເຈົ້າຮູ້: ເຈົ້າແລະຜູ້ຮ່ວມມືຂອງທ່ານຍັງອາດຈະປະເຊີນກັບການດໍາເນີນຄະດີອາຊະຍາກໍາ
+. ບາງທີ, ເຖິງແມ່ນວ່າ, ການກ່າວຫາການປະທ້ວງ.
+
+615
+00:39:40,150 --> 00:39:45,400
+[RICKY]
+I'll fight it all the way to the Supreme Court, if necessary -- and win.
+ຂ້ອຍຈະຕໍ່ສູ້ມັນຈົນເຖິງສານສູງສຸດ, ຖ້າຈໍາເປັນ - ແລະຊະນະ.
+
+616
+00:39:45,900 --> 00:39:48,000
+[AIDE-DE-CAMP]
+This just in: from the president.
+ນີ້ແມ່ນຫາກໍ່ເຂົ້າມາ: ຈາກປະທານາທິບໍດີ.
+
+617
+00:39:48,500 --> 00:39:50,500
+[GENERAL GIBSON]
+He's furious. Thanks, Ricky.
+ລາວໂຊກຮ້າຍ. ຂອບໃຈ, ຣິກກີ.
+
+618
+00:39:51,000 --> 00:39:54,500
+[ROGER]
+I don't know what to say, General Gibson. I'm sorry.
+ຂ້ອຍບໍ່ຮູ້ວ່າຈະເວົ້າຫຍັງ, ນາຍພົນຈິບສັນ. ຂ້ອຍຂໍໂທດ.
+
+619
+00:39:55,000 --> 00:39:58,850
+[RICKY]
+Don't apologize, Dad. The public has a right to the truth.
+ຢ່າຂໍໂທດ, ພໍ່. ປະຊາຊົນມີສິດທີ່ຈະຮູ້ຄວາມຈິງ.
+
+620
+00:39:59,350 --> 00:40:01,350
+[ROGER]
+You made your point.
+ເຈົ້າເວົ້າໄດ້ແລ້ວ.
+
+621
+00:40:01,850 --> 00:40:03,850
+[RICKY]
+This tribunal is a mockery!
+ສານນີ້ເປັນການໂຊກຮ້າຍ!
+
+622
+00:40:04,350 --> 00:40:10,350
+[EXECUTIVE]
+What about Steenbeck? Who took the photograph. It's on the front page of every newspaper on the planet. Can't we arrest him, as well? 90.
+ຈະເປັນແນວໃດກັບສຕີນເບັກ? ຜູ້ທີ່ຖ່າຍຮູບ. ມັນຢູ່ໃນຫນ້າທໍາອິດຂອງຫນັງສືພິມທຸກຢ່າງໃນໂລກ
+. ພວກເຮົາບໍ່ສາມາດຈັບລາວໄດ້ເຊັ່ນກັນບໍ? 90.
+
+623
+00:40:10,850 --> 00:40:16,850
+[GENERAL GIBSON]
+Unfortunately, no. He dropped a print in the mail  first thing Tuesday morning, and the postman got it before we did. He's innocent. Supposedly, he did a nude of Midge Campbell, too.
+ໂຊກຮ້າຍ, ບໍ່. ລາວໄດ້ຖິ້ມພິມໃນຈົດ ຫມາຍ ໃນສິ່ງ ທໍາ ອິດໃນຕອນເຊົ້າວັນອັງຄານ,
+ແລະຜູ້ສົ່ງຈົດຫມາຍໄດ້ຮັບມັນກ່ອນພວກເຮົາເຮັດ. ລາວບໍ່ຜິດພາດ. ຄາດວ່າ, ລາວໄດ້ເຮັດຮູບເປົ່າຂອງມິດຈ໌ ແຄມບລ໌ເຊັ່ນກັນ.
+
+624
+00:40:17,350 --> 00:40:21,550
+[SANDY]
+How long can they keep us in Asteroid City? Legally, I mean.
+ພວກເຂົາສາມາດຮັກສາພວກເຮົາໄວ້ໃນເມືອງ Asteroid
+ໄດ້ດົນປານໃດ? ທາງກົດ ຫມາຍ, ຂ້ອຍຫມາຍຄວາມວ່າ.
+
+625
+00:40:22,050 --> 00:40:28,050
+[J.J.]
+Well, I'm not an attorney, but I'd say: "As long as they like." I think we'd have to file an injunction and successfully argue the case. Six months to a year? Of course, we'd also initiate a civil suit for loss of income.
+ດີ, ຂ້ອຍບໍ່ແມ່ນທະນາຍຄວາມ, ແຕ່ຂ້ອຍຈະເວົ້າວ່າ:" ຕາບໃດທີ່ພວກເຂົາຕ້ອງການ." ຂ້ອຍຄິດວ່າພວກເຮົາຕ້ອງຍື່ນຄໍາສັ່ງສັ່ງແລະໂຕ້ຖຽງຄະດີຢ່າງປະສົບຜົນສໍາເລັດ
+. ຫົກເດືອນຫາ ຫນຶ່ງ ປີ? ແນ່ນອນ, ພວກເຮົາຍັງຈະເລີ່ມຕົ້ນການຟ້ອງຮ້ອງພົນລະເຮືອນ ສໍາ ລັບການສູນເສຍລາຍໄດ້.
+
+626
+00:40:28,550 --> 00:40:34,550
+[STANLEY]
+Maybe we should just walk out right now. I'm not sure they can stop us. Without killing somebody.
+ບາງທີພວກເຮົາຄວນອອກໄປດຽວນີ້.
+ຂ້ອຍບໍ່ແນ່ໃຈວ່າພວກເຂົາສາມາດຢຸດພວກເຮົາໄດ້. ໂດຍບໍ່ຕ້ອງຂ້າໃຜ.
+
+627
+00:40:35,050 --> 00:40:39,250
+[J.J.]
+Interesting idea. What kind of mileage you think that jet pack gets?
+ຄວາມຄິດທີ່ຫນ້າສົນໃຈ.
+ເຈົ້າຄິດວ່າກະເປົາເຮືອບິນນັ້ນຈະໄດ້ຮັບໄລຍະທາງໃດ?
+
+628
+00:40:39,750 --> 00:40:43,950
+[SANDY]
+Ask Roger . Apparently, he's being prosecuted for revealing state secrets. 91.
+ຖາມໂຣເຈີ. ເບິ່ງຄືວ່າ,
+ລາວຖືກດໍາເນີນຄະດີຍ້ອນການເປີດເຜີຍຄວາມລັບຂອງລັດ. 91.
+
+629
+00:40:44,450 --> 00:40:46,450
+[J.J.]
+They'll never make it stick.
+ພວກເຂົາຈະບໍ່ເຮັດໃຫ້ມັນຕິດຢູ່ເລີຍ.
+
+630
+00:40:46,950 --> 00:40:50,800
+[STANLEY]
+I'm in no hurry. I like the desert. I like aliens.
+ຂ້ອຍບໍ່ຮີບດ່ວນ. ຂ້ອຍມັກທະເລຊາຍ. ຂ້ອຍຮັກຄົນຕ່າງດາວ.
+
+631
+00:40:51,300 --> 00:40:53,300
+[GUARD]
+How'd you get that back?
+ເຈົ້າເອົາມັນຄືນແນວໃດ?
+
+632
+00:40:53,800 --> 00:40:59,750
+[GUARD]
+The projects remain under secure lockdown. No Stargazer is permitted personal access without the express permission --
+ໂຄງການຍັງຢູ່ພາຍໃຕ້ການປິດລ້ອມທີ່ປອດໄພ. ບໍ່ມີ Stargazer
+ແມ່ນອະນຸຍາດໃຫ້ເຂົ້າເຖິງສ່ວນຕົວໂດຍບໍ່ມີການອະນຸຍາດໂດຍກົງ -
+
+633
+00:41:00,250 --> 00:41:02,250
+[J.J.]
+My son invented this death-ray.
+ລູກຊາຍຂອງຂ້ອຍໄດ້ຄົ້ນພົບແສງຕາຍນີ້.
+
+634
+00:41:02,750 --> 00:41:05,550
+[GUARD]
+That may be true; but my orders --
+ນັ້ນອາດຈະເປັນຄວາມຈິງ; ແຕ່ຄໍາສັ່ງຂອງຂ້ອຍ -
+
+635
+00:41:06,050 --> 00:41:08,050
+[J.J.]
+Step back!
+ກັບຄືນໄປບ່ອນ!
+
+636
+00:41:08,550 --> 00:41:11,000
+[STANLEY]
+Easy, fellas. We're not in Guadalcanal anymore.
+ສະບາຍດີ, ພວກຜູ້ຊາຍ. ພວກເຮົາບໍ່ໄດ້ຢູ່ໃນ Guadalcanal ອີກແລ້ວ.
+
+637
+00:41:11,500 --> 00:41:15,350
+[AIDE-DE-CAMP]
+OK! Calm down, please. Everybody. It's been a difficult quarantine. 92.
+ດີແລ້ວ! ສະບາຍໃຈ, ກະລຸນາ. ທຸກຄົນ. ມັນເປັນການກັກກັນທີ່ຫຍຸ້ງຍາກ. 92.
+
+638
+00:41:15,850 --> 00:41:21,850
+[AIDE-DE-CAMP]
+Stand down! You see? General Gibson says, "Stand down." We'll re-confiscate the projects at a later time. Probably after dinner.
+ຢຸດລົງ! ເຈົ້າເຫັນບໍ? ນາຍພົນຈິບຊັນເວົ້າວ່າ," ຢືນລົງ."
+ພວກເຮົາຈະຍຶດໂຄງການຄືນໃນເວລາຕໍ່ມາ. ບາງທີຫຼັງຈາກອາຫານຄໍ່າ.
+
+639
+00:41:22,350 --> 00:41:24,350
+[J.J.]
+Try it.
+ພະຍາຍາມມັນ.
+
+640
+00:41:24,850 --> 00:41:29,750
+[AUGIE]
+This was on an old roll I forgot to develop in the glove box.
+ນີ້ແມ່ນຢູ່ໃນລວດເກົ່າທີ່ຂ້ອຍລືມພັດທະນາໃນກ່ອງມືຖື.
+
+641
+00:41:30,250 --> 00:41:32,250
+[AUGIE]
+"Self-portrait with Shrapnel."
+ຮູບພາບຕົວເອງດ້ວຍ Shrapnel.
+
+642
+00:41:32,750 --> 00:41:34,750
+[MIDGE]
+Do page forty-five.
+ເຮັດຫນ້າສີ່ສິບຫ້າ.
+
+643
+00:41:35,250 --> 00:41:37,700
+[AUGIE]
+"What've you done? How could you?" 93.
+ເຈົ້າເຮັດຫຍັງ? ເຈົ້າເຮັດໄດ້ແນວໃດ? 93.
+
+644
+00:41:38,200 --> 00:41:40,200
+[MIDGE]
+It says, "shouting and crying."
+ມັນຂຽນວ່າ,"ຮ້ອງໄຫ້ແລະຮ້ອງທຸກ."
+
+645
+00:41:40,700 --> 00:41:42,700
+[AUGIE]
+Uh-huh.
+ໂອ້.
+
+646
+00:41:43,200 --> 00:41:45,200
+[MIDGE]
+So shout and cry.
+ສະນັ້ນຮ້ອງໄຫ້ແລະຮ້ອງໄຫວ.
+
+647
+00:41:45,700 --> 00:41:47,700
+[AUGIE]
+"How could you!
+ເຈົ້າເຮັດໄດ້ແນວໃດ!
+
+648
+00:41:48,200 --> 00:41:50,200
+[MIDGE]
+How couldn't I?
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ແນວໃດ?
+
+649
+00:41:50,700 --> 00:41:52,700
+[AUGIE]
+How -- couldn't -- you?
+ເຈົ້າເຮັດແນວໃດ - ບໍ່ສາມາດ - ເຈົ້າ?
+
+650
+00:41:53,200 --> 00:41:55,200
+[MIDGE]
+That's what I'm asking.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຖາມ.
+
+651
+00:41:55,700 --> 00:42:01,700
+[AUGIE]
+It was over. Already. You were free. What's the point of committing suicide when there's nothing left to escape?
+ມັນຫມົດແລ້ວ. ແລ້ວແລ້ວ. ເຈົ້າເປັນອິດສະຫຼະ.
+ຈຸດປະສົງຂອງການຂ້າຕົວເອງແມ່ນຫຍັງເມື່ອບໍ່ມີຫຍັງເຫຼືອທີ່ຈະຫນີ?
+
+652
+00:42:02,200 --> 00:42:04,650
+[MIDGE]
+Maybe that was the problem all along."
+ບາງທີມັນເປັນບັນຫາຕະຫຼອດເວລາ.
+
+653
+00:42:05,150 --> 00:42:08,300
+[AUGIE]
+Now it says I smash everything off the shelf.
+ດຽວນີ້ມັນເວົ້າວ່າຂ້ອຍຈະທໍາລາຍທຸກຢ່າງຈາກກະຕ່າ.
+
+654
+00:42:08,800 --> 00:42:10,900
+[MIDGE]
+So smash everything off the --
+ສະນັ້ນທໍາລາຍທຸກຢ່າງຈາກ...
+
+655
+00:42:11,400 --> 00:42:17,000
+[AUGIE]
+"Such a sickening waste. Think of the people. Think of the places. Think of the --"
+ການເສຍຫາຍທີ່ໂຊກຮ້າຍຫຼາຍປານໃດ.
+ຄິດກ່ຽວກັບຄົນ. ຄິດເຖິງສະຖານທີ່. ຄິດວ່າ -"
+
+656
+00:42:17,500 --> 00:42:19,500
+[MIDGE]
+Use your grief. 94.
+ໃຊ້ຄວາມໂຊກຮ້າຍຂອງທ່ານ. 94.
+
+657
+00:42:20,000 --> 00:42:24,550
+[AUGIE]
+For a rehearsal? I'm not even in this picture. I'm a war photographer.
+ສໍາລັບການທົດລອງບໍ? ຂ້ອຍຍັງບໍ່ຢູ່ໃນຮູບນີ້ເລີຍ
+. ຂ້ອຍເປັນນັກຖ່າຍຮູບສົງຄາມ.
+
+658
+00:42:25,050 --> 00:42:31,050
+[AUGIE]
+"Such a sickening waste. Think of the people. Think of the places. Think of the world you could've seen, Dolores.
+ຄວາມເສຍຫາຍທີ່ໂຊກຮ້າຍຫຼາຍປານໃດ. ຄິດກ່ຽວກັບຄົນ.
+ຄິດເຖິງສະຖານທີ່. ຄິດໂລກທີ່ທ່ານສາມາດເຫັນໄດ້, ໂດໂລເຣສ.
+
+659
+00:42:31,550 --> 00:42:33,550
+[MIDGE]
+I've already seen it."
+ຂ້ອຍເຫັນແລ້ວ.
+
+660
+00:42:34,050 --> 00:42:36,050
+[AUGIE]
+Is she a ghost?
+ນາງເປັນຈິດວິນຍານບໍ?
+
+661
+00:42:36,550 --> 00:42:38,550
+[MIDGE]
+It's not clear.
+ມັນບໍ່ແນ່ນອນ.
+
+662
+00:42:39,050 --> 00:42:45,050
+[AUGIE]
+Then the coroner comes in. Orders me out of the room. I slowly turn away and close the door. Scene. My sandwich is burning.
+ຫຼັງຈາກນັ້ນນັກກວດສອບເຂົ້າມາ. ສັ່ງຂ້ອຍອອກຈາກຫ້ອງ.
+ຂ້ອຍຫັນໄປຊ້າໆແລະປິດປະຕູ. ສະຖານທີ່. ແຊນວິດຈ໌ຂອງຂ້ອຍ ກໍາ ລັງເຜົາໄຫມ້.
+
+663
+00:42:45,550 --> 00:42:47,550
+[MIDGE]
+My daughter saw us.
+ລູກສາວຂອງຂ້ອຍເຫັນພວກເຮົາ.
+
+664
+00:42:48,050 --> 00:42:50,050
+[AUGIE]
+What?
+ຫຍັງ?
+
+665
+00:42:50,550 --> 00:42:54,050
+[MIDGE]
+Dinah saw us. Through this window. In your bedroom yesterday.
+ດີນາເຫັນພວກເຮົາ. ຜ່ານປ່ອງຢ້ຽມນີ້. ໃນຫ້ອງນອນຂອງທ່ານມື້ວານນີ້.
+
+666
+00:42:54,550 --> 00:42:57,700
+[AUGIE]
+Did you tell her we were rehearsing again? 95.
+ເຈົ້າບອກນາງວ່າພວກເຮົາ ກໍາ ລັງທົດລອງອີກຄັ້ງບໍ? 95.
+
+667
+00:42:58,200 --> 00:43:03,450
+[MIDGE]
+I didn't think of that. I should've. Now it's too late, because I admitted everything.
+ຂ້ອຍບໍ່ໄດ້ຄິດເລື່ອງນັ້ນ. ຂ້ອຍຄວນ.
+ດຽວນີ້ມັນຊ້າເກີນໄປ, ເພາະວ່າຂ້ອຍຍອມຮັບທຸກຢ່າງ.
+
+668
+00:43:03,950 --> 00:43:05,950
+[AUGIE]
+Did she tell Woodrow?
+ນາງບອກວູດຣູບໍ?
+
+669
+00:43:06,450 --> 00:43:11,350
+[MIDGE]
+Hard to say. She can keep a secret. I don't know if she will.
+ມັນຍາກທີ່ຈະເວົ້າ. ນາງສາມາດຮັກສາຄວາມລັບໄດ້
+. ຂ້ອຍບໍ່ຮູ້ວ່ານາງຈະເຮັດບໍ.
+
+670
+00:43:11,850 --> 00:43:14,300
+[MIDGE]
+This isn't the beginning of something, Augie.
+ນີ້ແມ່ນບໍ່ແມ່ນການເລີ່ມຕົ້ນຂອງບາງສິ່ງບາງຢ່າງ, ອູຈີ.
+
+671
+00:43:14,800 --> 00:43:16,800
+[AUGIE]
+Isn't it?
+ແມ່ນບໍ?
+
+672
+00:43:17,300 --> 00:43:19,300
+[MIDGE]
+Is it?
+ແມ່ນບໍ?
+
+673
+00:43:19,800 --> 00:43:21,800
+[AUGIE]
+Probably not.
+ບາງທີບໍ່ແມ່ນ.
+
+674
+00:43:22,300 --> 00:43:25,800
+[AUGIE]
+I don't like the way that guy looked at us.
+ຂ້ອຍບໍ່ມັກວິທີທີ່ຄົນນັ້ນເບິ່ງພວກເຮົາ.
+
+675
+00:43:26,300 --> 00:43:28,300
+[MIDGE]
+Which guy?
+ຜູ້ຊາຍໃດ?
+
+676
+00:43:28,800 --> 00:43:30,800
+[AUGIE]
+The alien. 96.
+ຄົນຕ່າງດາວ. 96.
+
+677
+00:43:31,300 --> 00:43:33,300
+[MIDGE]
+Oh. How'd he --
+ໂອ້ ລາວເຮັດແນວໃດ...
+
+678
+00:43:33,800 --> 00:43:35,800
+[AUGIE]
+Like we're doomed.
+ຄືກັບວ່າພວກເຮົາຖືກຕັດສິນລົງໂທດ.
+
+679
+00:43:36,300 --> 00:43:38,300
+[MIDGE]
+What'd you just do?
+ເຈົ້າຫາກໍ່ເຮັດຫຍັງ?
+
+680
+00:43:38,800 --> 00:43:41,250
+[AUGIE]
+I burned my hand on the Quicky-Griddle.
+ຂ້ອຍໄດ້ເຜົາໄຫມ້ມືຂອງຂ້ອຍໃສ່ກຣີດລ໌ Quickie.
+
+681
+00:43:41,750 --> 00:43:43,750
+[MIDGE]
+Why?
+ເປັນຫຍັງ?
+
+682
+00:43:44,250 --> 00:43:46,250
+[AUGIE]
+It's not clear.
+ມັນບໍ່ແນ່ນອນ.
+
+683
+00:43:46,750 --> 00:43:48,750
+[MIDGE]
+Show me.
+ສະແດງໃຫ້ຂ້ອຍເຫັນ.
+
+684
+00:43:49,250 --> 00:43:51,700
+[MIDGE]
+You really did it! That actually happened.
+ເຈົ້າເຮັດມັນແທ້ໆ! ມັນເກີດຂຶ້ນແທ້ໆ.
+
+685
+00:43:52,200 --> 00:43:58,200
+[JUNE]
+As you know, boys and girls, your parents arrived late last night by military helicopter. They've been sequestered in that metal hut over there --
+ດັ່ງທີ່ທ່ານຮູ້ແລ້ວ, ເດັກຊາຍແລະເດັກຍິງ, ພໍ່ແມ່ຂອງທ່ານໄດ້ມາຮອດໃນຕອນແລງມື້ວານນີ້ໂດຍເຮລິຄອບເຕີທະຫານ
+. ພວກເຂົາໄດ້ຖືກກັກຕົວໄວ້ໃນຈານໂລຫະນັ້ນຢູ່ບ່ອນນັ້ນ -
+
+686
+00:43:58,700 --> 00:44:04,700
+[JUNE]
+-- for the past several hours while the government scientists explain the situation to them . It's my understanding they're about to go onto this closed-circuit television set? At any moment.
+- ໃນສອງສາມຊົ່ວໂມງທີ່ຜ່ານມາໃນຂະນະທີ່ນັກວິທະຍາສາດລັດຖະບານອະທິບາຍສະຖານະການໃຫ້ພວກເຂົາ.
+ມັນເປັນຄວາມເຂົ້າໃຈຂອງຂ້ອຍວ່າພວກເຂົາ ກໍາ ລັງຈະເຂົ້າໄປໃນໂທລະພາບວົງຈອນປິດນີ້ບໍ? ໃນເວລາໃດກໍ່ຕາມ.
+
+687
+00:44:05,200 --> 00:44:07,200
+[GARDENER/HANDYMAN]
+Everything's connected, but nothing's working.
+ທຸກຢ່າງເຊື່ອມຕໍ່ກັນ, ແຕ່ບໍ່ມີຫຍັງເຮັດວຽກ.
+
+688
+00:44:07,700 --> 00:44:11,200
+[JUNE]
+Let's carry on with the lesson plan, then. Jupiter:  Billy?
+ພວກເຮົາຈະສືບຕໍ່ແຜນການຮຽນຮູ້, ຫຼັງຈາກນັ້ນ. ຈູປເຕີ: ບີລີ?
+
+689
+00:44:11,700 --> 00:44:16,950
+[FRECKLED BOY]
+I did the alien's flying saucer with a hubcap and a chicken pot pie tin.
+ຂ້ອຍເຮັດຈອກບິນຂອງຄົນຕ່າງດ້າວດ້ວຍກະເປົາ hub ແລະ ຖັງ pie ໄກ່.
+
+690
+00:44:17,450 --> 00:44:23,450
+[JUNE]
+Good work. Very accurate. Fifth planet from the sun, largest in our solar system, Jupiter --  Bernice? 98.
+ວຽກງານທີ່ດີ. ຖືກຕ້ອງຫຼາຍ. ດາວໂລກທີຫ້າຈາກແສງຕາເວັນ,
+ໃຫຍ່ທີ່ສຸດໃນລະບົບແສງອາທິດຂອງພວກເຮົາ, ຈູປີສ໌ - ເບຣນິກສ໌? 98.
+
+691
+00:44:23,950 --> 00:44:26,750
+[CURLY-HAIRED GIRL]
+I did the alien on his home planet.
+ຂ້ອຍເຮັດຄົນຕ່າງດາວໃນໂລກບ້ານຂອງລາວ.
+
+692
+00:44:27,250 --> 00:44:33,250
+[JUNE]
+Well done. How wonderful. Due to extreme atmospheric conditions, an anticyclonic storm has raged on Jupiter's surface for over --  Dwight?
+ເຮັດໄດ້ດີ. ດີເລີດຫຼາຍປານໃດ. ເນື່ອງຈາກສະພາບອາກາດທີ່ຮ້າຍແຮງທີ່ສຸດ,
+ພາຍຸຕ້ານລົມພາຍຸໄດ້ໂຊກຮ້າຍຢູ່ເທິງພື້ນຜິວຂອງຈູເປເຕີເປັນເວລາຫຼາຍກ່ວາ - ດວາຍຕ໌?
+
+693
+00:44:33,750 --> 00:44:35,850
+[BOY WITH COWLICK]
+I wrote a song about him.
+ຂ້ອຍຂຽນເພງກ່ຽວກັບລາວ.
+
+694
+00:44:36,350 --> 00:44:41,950
+[JUNE]
+Oh. Um. This may not be the time for a musical performance. Let's --  Yes, Montana?
+ໂອ້. ອູມ. ນີ້ແມ່ນອາດຈະບໍ່ແມ່ນເວລາ ສໍາ
+ລັບການສະແດງດົນຕີ. ມາ - ແມ່ນແລ້ວ, ໂມນຕານາ?
+
+695
+00:44:42,450 --> 00:44:48,450
+[MONTANA]
+Pardon th' interuption, June. The boys and I heard ol' Dwight was scribblin' up a little warble, so we learned ourselves to play it.
+ຂໍໂທດການຢຸດເຊົາ, ມິຖຸນາ. ຂ້ອຍແລະເດັກຊາຍໄດ້ຍິນວ່າດວາຍຕ໌ເກົ່າ ກໍາ
+ລັງຂຽນກະທູ້ນ້ອຍໆ, ສະນັ້ນພວກເຮົາໄດ້ຮຽນຮູ້ຕົວເອງທີ່ຈະຫຼິ້ນມັນ.
+
+696
+00:44:48,950 --> 00:44:54,950
+[BOY WITH COWLICK]
+Dear alien, who art in heaven, Lean and skinny, 'bout six-foot-seven; Though we know ye ain't our brother: Are you friend or foe ? 99.
+ຄົນຕ່າງດ້າວທີ່ຮັກແພງ, ຜູ້ທີ່ຢູ່ໃນສະຫວັນ, Lean ແລະ skinny, ປະມານຫົກຕີນເຈັດ;
+ເຖິງແມ່ນວ່າພວກເຮົາຮູ້ວ່າເຈົ້າບໍ່ແມ່ນອ້າຍຂອງພວກເຮົາ: ເຈົ້າເປັນເພື່ອນຫຼືສັດຕູບໍ? 99.
+
+697
+00:44:55,450 --> 00:45:01,450
+[CHORUS]
+Hop on one foot, Skip on two; Dance the Spaceman, Howdly-do! Bounce on four foot, Spring on three; Let's be Spacemen,  Howdly-dee!
+ໂດດເທິງຕີນດຽວ, ກະໂດດໃສ່ສອງ; ເຕັ້ນຄົນອະວະກາດ, ໂຮດລີ-ເຮັດ!
+ກະໂດງໃສ່ຕີນສີ່, ພາກຮຽນ spring ໃນສາມ; ມາເປັນຄົນອະວຸໂສ, ໂຫດລີ - ດີ!
+
+698
+00:45:01,950 --> 00:45:07,950
+[DINAH]
+-- Tab Hunter, Doris Day, out, Jack the Ripper, out, Bing Crosby, Shirley Temple, out, out, Orson Welles, Lucille Ball, out, Marlon Brando, out, Queen Elizabeth, Mickey Mantle, out, out, Yul Bryner, Louis Armstrong, out, Lana Turner, out -- 100.
+- Tab Hunter, ດໍຣີສ ວັນ, ອອກ, ແຈກ໌ ຜູ້ກະຕຸ້ນ, ອອກໄປ, ບິງ ຄຣັສບີ, ສິລລີ ວັດສະດຸ, ອອກມາ, ອອກຈາກ, ໂອຣສັນ ເວລສ໌, ລູຊີລ
+ບາລ, ອອກມາຈາກ, ມາລອນ ບຣານໂດ, ອອກອອກຈາກ, ລາຊິນີ ເອລີຊາບິດ, ມິກກີ ແມນຕລ,ອອກ, ອອກອອກ, ຢູລ ບຣິນເນີ, ລຸຍສ໌ ອາຣມສຕຣ໌, ອອກ
+
+699
+00:45:08,450 --> 00:45:13,700
+[DINAH]
+-- Betty Grable, Ella Fitzgerald, out, out, Rock Hudson, out, Jerry Lewis, out, out --
+- ເບຕຕີ້ ແກຣບລ໌, ເອລາ ຟິດສເຈຣລດ໌, ອອກ, ອອກໄປ,
+ໂຣກ ຮັດສັນ, ອອກມາ, ເຈຣີ ເລວິສ, ອອກຈາກ, ອອກ -
+
+700
+00:45:14,200 --> 00:45:19,800
+[DR. HICKENLOOPER]
+Who's responsible for stealing my radio telescope, my signal-processing receiver, and my entire spectrographical monitoring network?
+ໃຜເປັນຜູ້ຮັບຜິດຊອບໃນການລັກໂທລະທັດວິທະຍຸຂອງຂ້ອຍ, ເຄື່ອງຮັບການປະມວນຜົນສັນຍານຂອງຂ້ອຍ
+, ແລະເຄືອຂ່າຍຕິດຕາມກວດກາແສງສະຫວ່າງທັງ ຫມົດ ຂອງຂ້ອຍ?
+
+701
+00:45:20,300 --> 00:45:22,400
+[WOODROW]
+We're trying to contact the alien.
+ພວກເຮົາ ກໍາ ລັງພະຍາຍາມຕິດຕໍ່ກັບຄົນຕ່າງດາວ.
+
+702
+00:45:22,900 --> 00:45:28,900
+[DR. HICKENLOOPER]
+I appreciate that -- but what about Dr. Hickenlooper? I personally designed most of this equipment. I lobbied for congressional support. I cultivated dubious relationships in the private sector . Plus: I sit up there in my observatory every night. Watching and listening. If you're trying to contact the alien: include me!  Did you hear anything from him? So far.
+ຂ້ອຍຍ້ອງຍໍມັນ - ແຕ່ແນວໃດກັບດຣ ຮິກເກນລູເປີ? ຂ້ອຍໄດ້ອອກແບບອຸປະກອນສ່ວນໃຫຍ່ຂອງອຸປະກອນນີ້ໂດຍສ່ວນຕົວ. ຂ້ອຍໄດ້ກົດດັນເພື່ອການສະຫນັບສະຫນູນຂອງລັດຖະສະພາ. ຂ້ອຍປູກພົວພັນທີ່ສົງໄສໃນພາກສ່ວນເອກະຊົນ
+. ບວກກັບ: ຂ້ອຍນັ່ງຢູ່ເທິງບ່ອນນັ້ນໃນສະຖານີສັງເກດການຂອງຂ້ອຍທຸກໆຄືນ. ເບິ່ງແລະຟັງ. ຖ້າເຈົ້າ ກໍາ ລັງພະຍາຍາມຕິດຕໍ່ກັບຄົນຕ່າງດາວ: ລວມທັງຂ້ອຍ! ເຈົ້າໄດ້ຍິນຫຍັງຈາກລາວບໍ? ຈົນເຖິງປະຈຸບັນ.
+
+703
+00:45:29,400 --> 00:45:31,400
+[WOODROW]
+No.
+ບໍ່
+
+704
+00:45:31,900 --> 00:45:35,050
+[DR. HICKENLOOPER]
+The squiggle control is disabled, by the way. 101.
+ການຄວບຄຸມການສັ່ນສະເທືອນຖືກປິດໃຊ້ງານ, ເຖິງຢ່າງໃດກໍ່ຕາມ. 101.
+
+705
+00:45:35,550 --> 00:45:39,050
+[RICKY]
+We thought that might reduce resistance in the secondary circuit.
+ພວກເຮົາຄິດວ່າມັນອາດຈະຫຼຸດຜ່ອນຄວາມຕ້ານທານໃນວົງຈອນທີສອງ.
+
+706
+00:45:39,550 --> 00:45:44,800
+[DR. HICKENLOOPER]
+I doubt it. If you want to borrow my stuff, ask first. What's all this?
+ຂ້ອຍສົງໄສມັນ. ຖ້າເຈົ້າຢາກກູ້ຢືມສິ່ງຂອງຂອງຂ້ອຍ
+, ຖາມກ່ອນ. ສິ່ງທັງ ຫມົດ ນີ້ແມ່ນຫຍັງ?
+
+707
+00:45:45,300 --> 00:45:51,300
+[WOODROW]
+I put the American flag just to be patriotic. Now we need to really mean something. A universal message. Not only to earthlings.
+ຂ້ອຍເອົາທຸງຊາດອາເມລິກາພຽງແຕ່ເພື່ອເປັນຄົນຮັກຊາດ. ດຽວນີ້ພວກເຮົາຕ້ອງ ຫມາຍ
+ຄວາມວ່າບາງສິ່ງບາງຢ່າງແທ້ໆ. ຂໍ້ຄວາມທົ່ວໄປ. ບໍ່ແມ່ນພຽງແຕ່ຄົນໂລກເທົ່ານັ້ນ.
+
+708
+00:45:51,800 --> 00:45:57,800
+[RICKY]
+We already thought of everything we could think of: a cross, a star, a four-leaf- clover; letters, numbers, hieroglyphics.
+ພວກເຮົາໄດ້ຄິດແລ້ວທຸກຢ່າງທີ່ພວກເຮົາສາມາດຄິດໄດ້: ເສັ້ນຂ້າມ
+, ດາວ, ຫມາກ ໄມ້ໃບສີ່ໃບ; ຕົວອັກສອນ, ຕົວເລກ, hieroglyphics.
+
+709
+00:45:58,300 --> 00:46:01,800
+[DR. HICKENLOOPER]
+What's the point of projecting a star onto the moon?
+ຈຸດປະສົງຂອງການວາງດາວໃສ່ດວງຈັນແມ່ນຫຍັງ?
+
+710
+00:46:02,300 --> 00:46:04,300
+[WOODROW]
+Exactly.
+ແມ່ນແລ້ວ.
+
+711
+00:46:04,800 --> 00:46:06,800
+[DR. HICKENLOOPER]
+I ask that sincerely.
+ຂ້ອຍຂໍຖາມຢ່າງຈິງໃຈ.
+
+712
+00:46:07,300 --> 00:46:09,750
+[SHELLY]
+How about "E=mc2?" I still think --
+ຈະເປັນແນວໃດກັບ"E = mc2?" ຂ້ອຍຍັງຄິດວ່າ -
+
+713
+00:46:10,250 --> 00:46:14,450
+[WOODROW]
+This is our chance to be actually -- worthwhile. In our lifetimes.
+ນີ້ແມ່ນໂອກາດຂອງພວກເຮົາທີ່ຈະເປັນຕົວຈິງ - ມີຄ່າ. ໃນຊີວິດຂອງພວກເຮົາ.
+
+714
+00:46:14,950 --> 00:46:18,450
+[DR. HICKENLOOPER]
+I see what you mean. Whose turn was it? 102.
+ຂ້ອຍເຫັນວ່າເຈົ້າຫມາຍຄວາມວ່າແນວໃດ. ມັນເປັນເວລາຂອງໃຜ? 102.
+
+715
+00:46:18,950 --> 00:46:24,950
+[DINAH]
+The middle of mine. I better start over. Cleopatra, Jagadish Chandra Bose, Antonie van Leeuwenhoek, Paracelsus, Kurt G�del, William Henry Bragg, Lord Kelvin, Midge Campbell, Konstantin Tsiolkovsky --
+ກາງຂອງຂ້ອຍ. ຂ້ອຍຄວນເລີ່ມຕົ້ນໃຫມ່. ຄລີໂອບາຕຣາ, ຈາຈາດິສ ຈານດຣາ ໂບສ, ແອນໂຕນີ ວານ ເລວເວນຮຸກ, ປາຣາເຊລສັສສ໌
+, ຄູຕ໌ ຈີ ເດລ, ວິລຍາມ ເຮນຣີ ບຣາກ, ພຣະຜູ້ເປັນເຈົ້າ ເຄລວິນ, ມິດຈ໌ ແຄມເບລ, ຄອນສຕິນ ຊີໂອລໂກສກີ -
+
+716
+00:46:25,450 --> 00:46:30,700
+[DR. HICKENLOOPER]
+A word, Woodrow. About the settings on the spectrograph. Note: the warning label indicates --
+ຄໍາ ເວົ້າ ຫນຶ່ງ, ວູດຣູ. ກ່ຽວກັບການຕັ້ງຄ່າໃນສເປັກຕຣໍແກຣມ
+. ຫມາຍ ເຫດ: ປ້າຍເຕືອນບອກວ່າ -
+
+717
+00:46:31,200 --> 00:46:34,700
+[DR. HICKENLOOPER]
+-- the risk of electrocution is sharply increased when --
+- ຄວາມສ່ຽງຂອງການຕົກໄຟຟ້າເພີ່ມຂຶ້ນຢ່າງແຮງເມື່ອ -
+
+718
+00:46:35,200 --> 00:46:38,350
+[DR. HICKENLOOPER]
+It's all worthwhile. In your lifetime. This, I mean.
+ມັນທັງ ຫມົດ ມີຄ່າ. ໃນຊີວິດຂອງທ່ານ. ນີ້ແມ່ນ, ຂ້ອຍຫມາຍຄວາມວ່າ.
+
+719
+00:46:38,850 --> 00:46:42,000
+[DR. HICKENLOOPER]
+Your curiosity is your most important asset. Trust it.
+ຄວາມຢາກຮູ້ຂອງທ່ານແມ່ນຊັບສິນທີ່ສໍາຄັນທີ່ສຸດຂອງທ່ານ. ເຊື່ອມັນ.
+
+720
+00:46:42,500 --> 00:46:48,500
+[DR. HICKENLOOPER]
+The resources of my lab will always be available to you. After this thing is over, I mean. You can sort of be my prot�g�, if you like.
+ຊັບພະຍາກອນຂອງຫ້ອງທົດລອງຂອງຂ້ອຍຈະສາມາດໃຊ້ໄດ້ ສໍາ ລັບເຈົ້າຢູ່ສະເຫມີ. ຫຼັງຈາກສິ່ງນີ້ສິ້ນສຸດລົງ
+, ຂ້ອຍຫມາຍຄວາມວ່າ. ເຈົ້າສາມາດເປັນຜູ້ປົກປ້ອງຂອງຂ້ອຍໄດ້ບາງຢ່າງ, ຖ້າເຈົ້າຕ້ອງການ.
+
+721
+00:46:49,000 --> 00:46:52,850
+[WOODROW]
+Maybe we can prove the hypothesis of Celestial Flirtation . 103.
+ບາງທີພວກເຮົາສາມາດພິສູດແນວຄິດຂອງການຟລິຕຕ໌ສະຫວັນໄດ້. 103.
+
+722
+00:46:53,350 --> 00:46:55,350
+[DR. HICKENLOOPER]
+Let's try.
+ພວກເຮົາພະຍາຍາມ.
+
+723
+00:46:55,850 --> 00:47:00,050
+[WOODROW]
+I think I see the dots. From space. Burned into your eyeballs.
+ຂ້ອຍຄິດວ່າຂ້ອຍເຫັນຈຸດຕ່າງໆ. ຈາກອະວະກາດ
+. ຖືກເຜົາໄຫມ້ເຂົ້າໄປໃນຕາຂອງທ່ານ.
+
+724
+00:47:00,550 --> 00:47:05,450
+[DR. HICKENLOOPER]
+I'm sorry about your mother. I miss mine, too. She died forty-six years ago.
+ຂ້ອຍຂໍໂທດກ່ຽວກັບແມ່ຂອງເຈົ້າ. ຂ້ອຍຂາດຂອງຂ້ອຍເຊັ່ນກັນ
+. ນາງຕາຍເມື່ອສີ່ສິບຫົກປີກ່ອນ.
+
+725
+00:47:05,950 --> 00:47:07,950
+[WOODROW]
+Thank you.
+ຂອບໃຈ
+
+726
+00:47:08,450 --> 00:47:14,450
+[MOTEL MANAGER]
+I've already petitioned the State Assembly to change the name of the town from "Asteroid City" to "Alien Landing, U.S.A." This municipality might end up being the center of a vast community of -- Stargazers and Space Cadets. It's a historic offering.
+ຂ້ອຍໄດ້ຮ້ອງຂໍສະພາລັດແລ້ວທີ່ຈະປ່ຽນຊື່ຂອງເມືອງຈາກ"ເມືອງ Asteroid" ເປັນ" ການລົງຈອດຄົນຕ່າງດ້າວ, ສະຫະລັດອາເມລິກາ"
+ເມືອງນີ້ອາດຈະສິ້ນສຸດລົງເປັນສູນກາງຂອງຊຸມຊົນທີ່ກວ້າງຂວາງຂອງ - ຜູ້ເບິ່ງດາວແລະນັກສຶກສາອະວະກາດ. ມັນແມ່ນການສະ ເຫນີ ປະຫວັດສາດ.
+
+727
+00:47:14,950 --> 00:47:20,950
+[GENERAL GIBSON]
+As you know, the "Asteroid Day" itinerary had to be suspended last week due to the factual reality of -- our circumstances. However: I have an announcement to make. Dr. Hickenlooper and the Military-science Research and Experimentation Division  have officially selected a recipient for this year's Hickenlooper Scholarship --  -- and you're all going home. First thing tomorrow morning. The president has opted to lift the quarantine .
+ດັ່ງທີ່ທ່ານຮູ້ແລ້ວ, ແຜນການເດີນທາງຂອງ"ວັນ Asteroid" ຕ້ອງຖືກໂຈະໃນອາທິດທີ່ຜ່ານມາເນື່ອງຈາກຄວາມເປັນຈິງຂອງ - ສະພາບການຂອງພວກເຮົາ. ເຖິງຢ່າງໃດກໍ່ຕາມ: ຂ້ອຍມີການປະກາດທີ່ຈະເຮັດ. ດຣ
+ຮິກເກນລູເປີແລະພະແນກຄົ້ນຄວ້າແລະທົດລອງວິທະຍາສາດທະຫານໄດ້ເລືອກຜູ້ໄດ້ຮັບຢ່າງເປັນທາງການ ສໍາ ລັບທຶນການສຶກສາ Hickenlooper ປີນີ້ - - ແລະເຈົ້າທຸກຄົນຈະກັບບ້ານ. ສິ່ງ ທໍາ ອິດໃນຕອນເຊົ້າມື້ອື່ນ. ປະທານປະເທດໄດ້ເລືອກທີ່ຈະຍົກເລີກການກັກກັນ
+
+728
+00:47:21,450 --> 00:47:27,400
+[GENERAL GIBSON]
+I'd like to take this opportunity -- and, by the way, all of this year's projects  --
+ຂ້ອຍຢາກໃຊ້ໂອກາດນີ້ - ແລະ, ເຖິງຢ່າງໃດກໍ່ຕາມ
+, ໂຄງການທັງ ຫມົດ ຂອງປີນີ້ -
+
+729
+00:47:27,900 --> 00:47:33,900
+[GENERAL GIBSON]
+-- were of the very highest calibre, without exception -- to formally declare and congratulate the winner of the 1955 Hickenlooper Scholarship --  What's happening now?
+- ແມ່ນມີລະດັບສູງສຸດທີ່ສຸດ, ໂດຍບໍ່ມີຂໍ້ຍົກເວັ້ນ -
+ເພື່ອປະກາດຢ່າງເປັນທາງການແລະອວຍພອນຜູ້ຊະນະຂອງສະຫມັກ Hickenlooper ປີ 1955 - ເກີດຫຍັງຂຶ້ນດຽວນີ້?
+
+730
+00:47:34,400 --> 00:47:36,400
+[WOODROW]
+It's today again.
+ມັນເປັນມື້ນີ້ອີກເທື່ອຫນຶ່ງ.
+
+731
+00:47:36,900 --> 00:47:39,350
+[AUGIE]
+I think he only borrowed the asteroid.
+ຂ້ອຍຄິດວ່າລາວພຽງແຕ່ຢືມດາວທຽມເທົ່ານັ້ນ.
+
+732
+00:47:39,850 --> 00:47:41,850
+[GENERAL GIBSON]
+It's been inventoried.
+ມັນຖືກເກັບກໍາໄວ້ແລ້ວ.
+
+733
+00:47:42,350 --> 00:47:44,350
+[EXECUTIVE]
+Re-confiscate the projects.
+ຈັບເອົາໂຄງການຄືນ.
+
+734
+00:47:44,850 --> 00:47:50,850
+[GENERAL GIBSON]
+Under the provisions of National Security Emergency Scrimmage Plan X: the lifting of the quarantine  is now canceled  due to the unexpected/new event which just --
+ພາຍໃຕ້ຂໍ້ກໍານົດຂອງແຜນການກະຕຸ້ນສຸກເສີນຄວາມປອດໄພແຫ່ງຊາດ X:
+ການຍົກເລີກການກັກກັນດຽວນີ້ຖືກຍົກເລົາເນື່ອງຈາກເຫດການທີ່ບໍ່ຄາດຫວັງ / ໃຫມ່ ທີ່ພຽງແຕ່ -
+
+735
+00:47:51,350 --> 00:47:56,600
+[AUGIE]
+Why does Augie burn his hand on the Quicky-Griddle?  I still don't understand the play.
+ເປັນຫຍັງໂອຈີຈຶ່ງເຜົາໄຫມ້ມືໃສ່ກະດານກະຕູ້ກະຕ່າຍກະຕຸ້ນກະຕູ້ນະ
+? ຂ້ອຍຍັງບໍ່ເຂົ້າໃຈບົດສະແດງ.
+
+736
+00:47:57,100 --> 00:47:59,100
+[HOST]
+Where you going?
+ເຈົ້າໄປໃສ?
+
+737
+00:47:59,600 --> 00:48:01,600
+[ACTOR/AUGIE]
+I'll be right back.
+ຂ້ອຍຈະກັບມາທັນທີ.
+
+738
+00:48:02,100 --> 00:48:08,050
+[ACTOR/ALIEN]
+I don't play him as an alien, actually. I play him as a metaphor. That's my interpretation.
+ຂ້ອຍບໍ່ໄດ້ຫຼິ້ນລາວເປັນຄົນຕ່າງດາວ, ໃນຄວາມເປັນຈິງ.
+ຂ້ອຍຫຼິ້ນລາວກັບຕົວແບບ. ນັ້ນແມ່ນການຕີຄວາມ ຫມາຍ ຂອງຂ້ອຍ.
+
+739
+00:48:08,550 --> 00:48:10,550
+[ACTRESS/SHELLY]
+Metaphor for what? 107.
+ຕົວແທນ ສໍາ ລັບຫຍັງ? 107.
+
+740
+00:48:11,050 --> 00:48:13,050
+[ACTOR/ALIEN]
+I don't know yet.
+ຂ້ອຍຍັງບໍ່ຮູ້ເທື່ອ.
+
+741
+00:48:13,550 --> 00:48:15,550
+[ACTOR/AUGIE]
+Schubert. Schubert. Schubert.
+ຊູເບີດ. ຊູເປີຕ໌. ສູເບັດ.
+
+742
+00:48:16,050 --> 00:48:18,500
+[DIRECTOR]
+Huh? Yes! What's wrong?  Are you on?
+ຮາ? ແມ່ນແລ້ວ! ມີຫຍັງເກີດຂຶ້ນ? ເຈົ້າຢູ່ບໍ?
+
+743
+00:48:19,000 --> 00:48:25,000
+[ACTOR/AUGIE]
+Technically, but General Gibson just started the scene where the president doesn't accept his resignation. I've got six-and-a-half minutes before my next line. I need an answer to a question I want to ask.
+ທາງດ້ານເຕັກນິກ, ແຕ່ພົນຈັດຕະວາຈິບສັນຫາກໍ່ເລີ່ມຕົ້ນເວທີທີ່ປະທານາທິບໍດີບໍ່ຍອມຮັບການລາອອກຈາກຕໍາແຫນ່ງຂອງລາວ
+. ຂ້ອຍມີເວລາຫົກນາທີເຄິ່ງກ່ອນສາຍຕໍ່ໄປຂອງຂ້ອຍ. ຂ້ອຍຕ້ອງການ ຄໍາ ຕອບຕໍ່ ຄໍາ ຖາມທີ່ຂ້ອຍຢາກຖາມ.
+
+744
+00:48:25,500 --> 00:48:27,500
+[ACTOR/AUGIE]
+Am I doing him right?
+ຂ້ອຍເຮັດລາວຢ່າງຖືກຕ້ອງບໍ?
+
+745
+00:48:28,000 --> 00:48:34,000
+[DIRECTOR]
+Well, I told you before: there's too much business. With the pipe, with the lighter, with the camera, with the eyebrow; but, aside from that, on the whole, in answer to your question --
+ດີ, ຂ້ອຍບອກເຈົ້າກ່ອນ: ມີທຸລະກິດຫຼາຍເກີນໄປ. ດ້ວຍທໍ່, ດ້ວຍເຄື່ອງແສງສະຫວ່າງ,
+ດ້ວຍກ້ອງຖ່າຍຮູບ, ດ້ວຍກະຕ່າຕາ; ແຕ່, ນອກຈາກນັ້ນ, ໂດຍລວມແລ້ວ, ໃນການຕອບ ຄໍາ ຖາມຂອງທ່ານ -
+
+746
+00:48:34,500 --> 00:48:40,500
+[DIRECTOR]
+-- you're doing him just right. In fact, in my opinion, you didn't just become Augie: he became you.
+- ເຈົ້າ ກໍາ ລັງເຮັດລາວຢ່າງຖືກຕ້ອງແທ້ໆ. ໃນຄວາມເປັນຈິງ,
+ໃນຄວາມຄິດເຫັນຂອງຂ້ອຍ, ເຈົ້າບໍ່ໄດ້ກາຍເປັນໂອຈີພຽງແຕ່: ລາວກາຍເປັນເຈົ້າ.
+
+747
+00:48:41,000 --> 00:48:43,000
+[ACTOR/AUGIE]
+I feel lost.
+ຂ້ອຍຮູ້ສຶກຫາຍໄປ.
+
+748
+00:48:43,500 --> 00:48:45,500
+[DIRECTOR]
+Good!
+ດີແລ້ວ!
+
+749
+00:48:46,000 --> 00:48:48,100
+[ACTOR/AUGIE]
+I still don't understand the play.
+ຂ້ອຍຍັງບໍ່ເຂົ້າໃຈບົດສະແດງ.
+
+750
+00:48:48,600 --> 00:48:50,600
+[DIRECTOR]
+Good!
+ດີແລ້ວ!
+
+751
+00:48:51,100 --> 00:48:57,100
+[ACTOR/AUGIE]
+He's such a wounded guy. He had everything he wanted -- then lost it. Before he even noticed! I feel like my heart is getting broken. My own, personal heart. Every night.
+ລາວເປັນຜູ້ຊາຍທີ່ບາດເຈັບຫຼາຍ. ລາວມີທຸກຢ່າງທີ່ລາວຕ້ອງການ - ຫຼັງຈາກນັ້ນສູນເສຍມັນ.
+ກ່ອນທີ່ລາວຈະສັງເກດເຫັນເລີຍ! ຂ້ອຍຮູ້ສຶກວ່າຫົວໃຈຂອງຂ້ອຍ ກໍາ ລັງແຕກ. ຫົວໃຈສ່ວນຕົວຂອງຂ້ອຍເອງ. ທຸກຄືນ.
+
+752
+00:48:57,600 --> 00:48:59,600
+[DIRECTOR]
+Good!
+ດີແລ້ວ!
+
+753
+00:49:00,100 --> 00:49:02,200
+[ACTOR/AUGIE]
+Do I just keep doing it?
+ຂ້ອຍພຽງແຕ່ສືບຕໍ່ເຮັດມັນບໍ?
+
+754
+00:49:02,700 --> 00:49:04,700
+[DIRECTOR]
+Yes!
+ແມ່ນແລ້ວ!
+
+755
+00:49:05,200 --> 00:49:07,200
+[ACTOR/AUGIE]
+Without knowing anything?
+ໂດຍບໍ່ຮູ້ຫຍັງເລີຍບໍ?
+
+756
+00:49:07,700 --> 00:49:09,700
+[DIRECTOR]
+Yes!
+ແມ່ນແລ້ວ!
+
+757
+00:49:10,200 --> 00:49:16,200
+[ACTOR/AUGIE]
+Isn't there supposed to be some kind of answer? Out there in the cosmic wilderness. Woodrow's line about the meaning of life?
+ມັນບໍ່ຄວນມີ ຄໍາ ຕອບບາງຢ່າງບໍ? ຢູ່ບ່ອນນັ້ນໃນປ່າໄມ້ໂກສມິກ
+. ເສັ້ນທາງຂອງວູດຣູກ່ຽວກັບຄວາມ ຫມາຍ ຂອງຊີວິດບໍ?
+
+758
+00:49:16,700 --> 00:49:18,700
+[DIRECTOR]
+"Maybe there is one!"
+ບາງທີມີຄົນຫນຶ່ງ!
+
+759
+00:49:19,200 --> 00:49:23,400
+[ACTOR/AUGIE]
+Right. Well, that's my question. I still don't understand the play. 109.
+ແມ່ນແລ້ວ. ດີ, ນັ້ນແມ່ນ ຄໍາ ຖາມຂອງຂ້ອຍ
+. ຂ້ອຍຍັງບໍ່ເຂົ້າໃຈບົດສະແດງ. 109.
+
+760
+00:49:23,900 --> 00:49:28,100
+[DIRECTOR]
+It doesn't matter. Just keep telling the story. You're doing him right.
+ມັນບໍ່ສໍາຄັນ. ພຽງແຕ່ສືບຕໍ່ບອກເລື່ອງ
+. ເຈົ້າ ກໍາ ລັງເຮັດລາວຢ່າງຖືກຕ້ອງ.
+
+761
+00:49:28,600 --> 00:49:31,050
+[ACTOR/AUGIE]
+I need a breath of fresh air.
+ຂ້ອຍຕ້ອງການຫາຍໃຈອາກາດສົດ.
+
+762
+00:49:31,550 --> 00:49:33,650
+[DIRECTOR]
+OK: but you won't find one.
+ດີ: ແຕ່ເຈົ້າຈະບໍ່ພົບຫນຶ່ງ.
+
+763
+00:49:34,150 --> 00:49:36,150
+[ACTRESS/WIFE]
+Hello.
+ສະບາຍດີ.
+
+764
+00:49:36,650 --> 00:49:39,800
+[ACTOR/AUGIE]
+Oh! It's you. The wife who played my actress.
+ໂອ້! ມັນແມ່ນເຈົ້າ. ເມຍທີ່ຫຼິ້ນນັກສະແດງຂອງຂ້ອຍ.
+
+765
+00:49:40,300 --> 00:49:42,750
+[ACTRESS/WIFE]
+My scene was cut after one rehearsal.
+ສະຖານທີ່ຂອງຂ້ອຍຖືກຕັດອອກຫຼັງຈາກການທົດລອງຄັ້ງດຽວ.
+
+766
+00:49:43,250 --> 00:49:45,250
+[ACTOR/AUGIE]
+We still use your photograph.
+ພວກເຮົາຍັງໃຊ້ຮູບຂອງທ່ານ.
+
+767
+00:49:45,750 --> 00:49:47,750
+[ACTRESS/WIFE]
+Do you remember the dialogue?
+ເຈົ້າຈື່ການສົນທະນາບໍ?
+
+768
+00:49:48,250 --> 00:49:50,250
+[ACTOR/AUGIE]
+No.
+ບໍ່
+
+769
+00:49:50,750 --> 00:49:53,900
+[ACTRESS/WIFE]
+We meet in a dream on the alien's planet.
+ພວກເຮົາພົບກັນໃນຄວາມຝັນໃນໂລກຂອງຄົນຕ່າງດ້າວ.
+
+770
+00:49:54,400 --> 00:49:57,550
+[ACTOR/AUGIE]
+Magnavox-27. Actually, it's one of the moons of it.
+Magnavox-27. ໃນຄວາມເປັນຈິງ, ມັນແມ່ນ ຫນຶ່ງ ໃນດວງຈັນຂອງມັນ.
+
+771
+00:49:58,050 --> 00:50:04,050
+[ACTRESS/WIFE]
+You say: "Did you talk to the alien?" I say: "Not yet." You say: "Why not? I thought for sure you would've yelled at him or made him laugh." I say: "Or asked him the secrets of the universe?" You say: "Exactly!" I say: "I think he's shy." You say: "So's Woodrow, but I'm sure he'll grow out of it. I mean, at least, I hope he will. Without a mother." I say: "He's a late bloomer -- but maybe, I think, you'll need to replace me." You say: "What? Why? How? I can't." I say: "Maybe, I think, you'll need to try. I'm not coming back, Augie." Then you take a picture of me and start crying, and I say: "I hope it comes out."
+ເຈົ້າເວົ້າວ່າ: ເຈົ້າໄດ້ເວົ້າກັບຄົນຕ່າງດາວບໍ? ຂ້ອຍເວົ້າວ່າ:" ຍັງບໍ່ທັນ." ເຈົ້າບອກວ່າ:" ເປັນຫຍັງບໍ່? ຂ້ອຍຄິດວ່າແນ່ໃຈວ່າເຈົ້າຈະຮ້ອງໄຫ້ລາວຫຼືເຮັດໃຫ້ລາວມ່ວນຊື່ນ." ຂ້ອຍຕອບ ວ່າ:"
+ຫຼືຖາມລາວຄວາມລັບຂອງຈັກກະວານບໍ? ເຈົ້າເວົ້າວ່າ:" ຢ່າງແນ່ນອນ!" ຂ້ອຍກ່າວວ່າ:" ຂ້ອຍຄິດວູດຣູເປັນຄົນໂຊກຮ້າຍເຊັ່ນກັນ, ແຕ່ຂ້ອຍແນ່ໃຈວ່ານາງຈະເຕີບໃຫຍ່ຈາກມັນ. ຂ້ອຍ ຫມາຍ ຄວາມວ່າ, ຢ່າງຫນ້ອຍ, ຂ້ອຍຫວັງວ່າລາວຈະເຮັດ.
+
+772
+00:50:04,550 --> 00:50:09,450
+[ACTOR/AUGIE]
+And I say: "All my pictures come out."  Good memory. Why'd they cut it?
+ແລະຂ້ອຍເວົ້າວ່າ:" ຮູບຂອງຂ້ອຍທັງ ຫມົດ ອອກມາ."
+ຄວາມຊົງຈໍາທີ່ດີ. ເປັນຫຍັງພວກເຂົາຈຶ່ງຕັດມັນ?
+
+773
+00:50:09,950 --> 00:50:15,900
+[ACTRESS/WIFE]
+Running time? Now I'm First Lady-in- Waiting to the Queen Consort in "Fruit of a Withering Vine."
+ເວລາແລ່ນບໍ? ດຽວນີ້ຂ້ອຍເປັນຜູ້ຍິງຄົນທໍາອິດໃນການລໍຖ້າຜູ້ເປັນພັນລະຍາລາຊິນີໃນ"
+ຫມາກ ໄມ້ທີ່ແຫ້ງ."
+
+774
+00:50:16,400 --> 00:50:22,400
+[ACTOR/MOTEL MANAGER]
+You missed your cue! June and the cowboy are already necking in the station wagon. They're bandaging the understudy's hand right now.
+ເຈົ້າພາດຊີ້ແຈງຂອງທ່ານ! ຈູນ ແລະ ຄາວໂບຍ ກໍາ ລັງຄໍຢູ່ໃນລົດຖີບສະຖານີແລ້ວ
+. ພວກເຂົາ ກໍາ ລັງຜູກແຂນຂອງຜູ້ແທນໃນເວລານີ້.
+
+775
+00:50:22,900 --> 00:50:26,750
+[ACTOR/MOTEL MANAGER]
+Oh! It's you. We almost would've had a scene together. Hello.
+ໂອ້! ມັນແມ່ນເຈົ້າ. ພວກເຮົາເກືອບຈະມີເວທີຮ່ວມກັນ. ສະບາຍດີ.
+
+776
+00:50:27,250 --> 00:50:33,250
+[HOST]
+Six months into the run, the company received the news: a catastrophic automobile accident. Conrad Earp, American playwright unequaled in passion and imagination, dead at fifty.
+ໃນເວລາຫົກເດືອນໃນການແລ່ນ, ບໍລິສັດໄດ້ຮັບຂ່າວ: ອຸບັດຕິເຫດລົດໃຫຍ່ທີ່ຮ້າຍແຮງ. ຄອນຣາດ ເອຣັບ,
+ນັກຂຽນລະຄອນອາເມລິກາທີ່ບໍ່ເທົ່າທຽມກັນໃນຄວາມກະຕຸ້ນໃຈແລະຄວາມຄິດເຫັນ, ເສຍຊີວິດໃນອາຍຸສິບປີ.
+
+777
+00:50:33,750 --> 00:50:39,750
+[PLAYWRIGHT]
+I'd like to make a scene where all my characters are each gently/privately seduced into the deepest, dreamiest slumber of their lives as a result of their shared experience of a bewildering and bedazzling celestial mystery...
+ຂ້ອຍຢາກເຮັດເວທີທີ່ຕົວລະຄອນຂອງຂ້ອຍທັງ ຫມົດ ຖືກຊັກຊວນຢ່າງອ່ອນແອ / ສ່ວນຕົວເຂົ້າໄປໃນຄວາມນອນທີ່ເລິກເຊິ່ງທີ່ສຸດ
+, ຄວາມຝັນທີ່ສຸດໃນຊີວິດຂອງພວກເຂົາເປັນຜົນມາຈາກປະສົບການຮ່ວມກັນຂອງຄວາມລັບສະຫວັນທີ່ສັບສົນແລະສວຍງາມ...
+
+778
+00:50:40,250 --> 00:50:43,750
+[ACTOR/AUGIE]
+You can't wake up if you don't fall asleep. 112.
+ເຈົ້າບໍ່ສາມາດຕື່ນໄດ້ຖ້າເຈົ້າບໍ່ນອນ. 112.
+
+779
+00:50:44,250 --> 00:50:47,400
+[ACTRESS/SHELLY]
+You can't wake up if you don't fall asleep.
+ເຈົ້າບໍ່ສາມາດຕື່ນໄດ້ຖ້າເຈົ້າບໍ່ນອນ.
+
+780
+00:50:47,900 --> 00:50:51,050
+[ACTOR/MECHANIC]
+You can't wake up if you don't fall asleep.
+ເຈົ້າບໍ່ສາມາດຕື່ນໄດ້ຖ້າເຈົ້າບໍ່ນອນ.
+
+781
+00:50:51,550 --> 00:50:54,700
+[ACTRESS/MIDGE]
+You can't wake up if you don't fall asleep!
+ເຈົ້າບໍ່ສາມາດຕື່ນໄດ້ຖ້າເຈົ້າບໍ່ນອນ!
+
+782
+00:50:55,200 --> 00:50:58,350
+[TEACHER]
+You can't wake up if you don't fall asleep!
+ເຈົ້າບໍ່ສາມາດຕື່ນໄດ້ຖ້າເຈົ້າບໍ່ນອນ!
+
+783
+00:50:58,850 --> 00:51:02,700
+[LIFTED]
+by order of the United States Military-science Research and Experimentation Division
+ໂດຍຄໍາສັ່ງຂອງພະແນກຄົ້ນຄວ້າ ແລະ ການທົດລອງວິທະຍາສາດທະຫານສະຫະລັດ
+
+784
+00:51:03,200 --> 00:51:05,200
+[AUGIE]
+Where'd they go?
+ພວກເຂົາໄປໃສ?
+
+785
+00:51:05,700 --> 00:51:09,200
+[MOTEL MANAGER]
+Good morning, Mr. Steenbeck! Juice preference? Apple, orange, or tomato.
+ສະບາຍດີ, ທ້າວສຕີນເບັກ! ຄວາມມັກນ້ ໍາ ມັນບໍ
+? ຫມາກ ໄມ້, ຫມາກ ໂມດານ, ຫຼື ຫມາກ ໂຕມອດ.
+
+786
+00:51:09,700 --> 00:51:11,700
+[AUGIE]
+Where'd they go? Everybody.
+ພວກເຂົາໄປໃສ? ທຸກຄົນ.
+
+787
+00:51:12,200 --> 00:51:18,200
+[MOTEL MANAGER]
+Of course, I understand. The president lifted the quarantine, after all. At midnight! He sent the whole gang home. The troops, the cowboys, the Junior Stargazers and Space Cadets. Even the lookie-loos. You're free to return -- back to wherever you came from.  We had eleven check-outs this morning.  I guess you overslept. They returned your science projects, by the way.
+ແນ່ນອນ, ຂ້ອຍເຂົ້າໃຈ. ປະທານາທິບໍດີໄດ້ຍົກເລີກການກັກກັນ, ຫຼັງຈາກນັ້ນ. ໃນຕອນກາງຄືນ! ລາວໄດ້ສົ່ງກຸ່ມຄົນທັງ ຫມົດ ກັບບ້ານ. ທະຫານ, ຄາວໂບຍ, ນັກເບິ່ງດາວ Junior ແລະນັກສຶກສາອະວະກາດ. ເຖິງແມ່ນວ່າຄົນເບິ່ງ-loos
+ໄດ້. ເຈົ້າເປັນອິດສະຫຼະທີ່ຈະກັບຄືນໄປບ່ອນ - ກັບໄປບ່ອນທີ່ທ່ານມາຈາກ. ພວກເຮົາມີການກວດສອບສິບຫນຶ່ງໃນຕອນເຊົ້ານີ້. ຂ້ອຍຄິດວ່າເຈົ້ານອນເກີນໄປ. ພວກເຂົາໄດ້ກັບຄືນໂຄງການວິທະຍາສາດຂອງທ່ານ, ໂດຍທາງ.
+
+788
+00:51:18,700 --> 00:51:20,700
+[AUGIE]
+Tomato.
+ໂຕມາໂຕ.
+
+789
+00:51:21,200 --> 00:51:23,200
+[MOTEL MANAGER]
+Right away!
+ທັນທີ!
+
+790
+00:51:23,700 --> 00:51:29,700
+[STANLEY]
+The plan was to shovel it up and take her with us. Like I said: we'll exhume the Tupperware. We don't have any burial rights to this plot here.
+ແຜນການແມ່ນເພື່ອ shovel ມັນຂຶ້ນແລະເອົານາງກັບພວກເຮົາ. ດັ່ງທີ່ຂ້ອຍບອກແລ້ວ:
+ພວກເຮົາຈະຂຸດຄົ້ນ Tupperware ໄດ້. ພວກເຮົາມີສິດຝັງສົບໃດໆຕໍ່ plot ນີ້ຢູ່ນີ້.
+
+791
+00:51:30,200 --> 00:51:33,350
+[AUGIE]
+I would question whether it even is a plot.
+ຂ້ອຍຈະສົງໄສວ່າມັນເປັນກະຕຸ້ນບໍ.
+
+792
+00:51:33,850 --> 00:51:35,850
+[STANLEY]
+It isn't.
+ມັນບໍ່ແມ່ນ.
+
+793
+00:51:36,350 --> 00:51:38,350
+[ANDROMEDA]
+Let us pray.
+ພວກເຮົາຈະອະທິຖານ.
+
+794
+00:51:38,850 --> 00:51:40,850
+[ANDROMEDA]
+Poppy!
+ໂປປປີ້!
+
+795
+00:51:41,350 --> 00:51:47,350
+[STANLEY]
+Ugh. Dear Heavenly Father, we thank Thee for the life of this magnificent woman, who was once just a little girl like these three -- witches? In-training.
+ໂອ້. ພໍ່ສະຫວັນທີ່ຮັກແພງ, ພວກເຮົາຂອບໃຈເຈົ້າ ສໍາ ລັບຊີວິດຂອງແມ່ຍິງທີ່ຍິ່ງໃຫຍ່ນີ້
+, ຜູ້ທີ່ເຄີຍເປັນພຽງແຕ່ເດັກຍິງນ້ອຍຄືກັບສາມຄົນນີ້ - ສາວມິດ? ໃນການຝຶກອົບຮົມ.
+
+796
+00:51:47,850 --> 00:51:53,850
+[STANLEY]
+Like these three witches, at one time. We had no intention of permanently burying her next to this unmarked cactus, but I no longer have the strength to fight for her dignity, nor/neither does Augie.
+ຄືກັບຊະຍາກອນສາມຄົນນີ້, ໃນເວລາດຽວກັນ. ພວກເຮົາບໍ່ມີຈຸດປະສົງທີ່ຈະຝັງນາງຢູ່ຂ້າງ kaktus ທີ່ບໍ່ມີເຄື່ອງ ຫມາຍ
+ນີ້ຢ່າງຖາວອນ, ແຕ່ຂ້ອຍບໍ່ມີຄວາມເຂັ້ມແຂງທີ່ຈະຕໍ່ສູ້ເພື່ອກຽດຕິຍົດຂອງນາງອີກຕໍ່ໄປ, ຫຼື / ບໍ່ເປັນ Augie ໄດ້.
+
+797
+00:51:54,350 --> 00:51:56,350
+[AUGIE]
+No.
+ບໍ່
+
+798
+00:51:56,850 --> 00:52:01,750
+[STANLEY]
+So we'll defer to the wishes of her stubborn daughters. Woodrow? Any final farewell.
+ສະນັ້ນພວກເຮົາຈະເລື່ອນໄປຕາມຄວາມປາຖະຫນາຂອງລູກສາວທີ່ແຂງແຮງຂອງນາງ
+. ວູດຣູ? ການອວຍພອນສຸດທ້າຍໃດໆ.
+
+799
+00:52:02,250 --> 00:52:04,350
+[WOODROW]
+I don't believe in God anymore.
+ຂ້ອຍບໍ່ເຊື່ອໃນພຣະເຈົ້າອີກແລ້ວ.
+
+800
+00:52:04,850 --> 00:52:06,850
+[STANLEY]
+Fair enough. Amen.
+ຍຸຕິທໍາພໍສົມຄວນ. ອາເມນ.
+
+801
+00:52:07,350 --> 00:52:10,500
+[AUGIE]
+Five orders of flapjacks and two black coffees. 116.
+ຄໍາ ສັ່ງແຟລຈັກສ໌ຫ້າຢ່າງແລະກາເຟສີດໍາສອງຢ່າງ. 116.
+
+802
+00:52:11,000 --> 00:52:13,000
+[AUGIE]
+Who needs to pee?
+ໃຜຕ້ອງສູບຢາ?
+
+803
+00:52:13,500 --> 00:52:15,950
+[WAITRESS]
+How about a glass of strawberry milk?
+ຈະເປັນແນວໃດກັບແກ້ວນົມສຕຣັບເບຣີ?
+
+804
+00:52:16,450 --> 00:52:18,450
+[STANLEY]
+Did somebody win? That scholarship.
+ມີໃຜຊະນະບໍ? ທຶນການສຶກສານັ້ນ.
+
+805
+00:52:18,950 --> 00:52:20,950
+[WOODROW]
+I did.
+ຂ້ອຍເຮັດແລ້ວ.
+
+806
+00:52:21,450 --> 00:52:23,450
+[AUGIE]
+When?
+ເມື່ອໃດ?
+
+807
+00:52:23,950 --> 00:52:29,950
+[WOODROW]
+Last night. General Gibson slipped it to me in line at the communal showers. I think he just wanted to get it over with. It's actually a standard-sized check of typical dimensions. The big one's only for show.
+ໃນມື້ວານນີ້. ນາຍພົນຈິບຊັນໄດ້ເລື່ອນມັນໃຫ້ຂ້ອຍໃນແຖວໃນອາບນ້ ໍາ ຄົມມະນາຄົມ. ຂ້ອຍຄິດວ່າລາວພຽງແຕ່ຢາກເຮັດໃຫ້ມັນສິ້ນສຸດລົງ
+. ມັນແມ່ນຕົວຢ່າງຂະຫນາດມາດຕະຖານຂອງຂະຫນາດປົກກະຕິ. ຂະຫນາດໃຫຍ່ແມ່ນພຽງແຕ່ເພື່ອສະແດງ.
+
+808
+00:52:30,450 --> 00:52:32,450
+[AUGIE]
+Congratulations, Woodrow. That's stupendous!
+ຂໍສະແດງຄວາມຍິນດີ, ວູດຣູ. ນັ້ນແມ່ນຍິ່ງໃຫຍ່!
+
+809
+00:52:32,950 --> 00:52:35,400
+[STANLEY]
+You must be some kind of genius.
+ເຈົ້າຕ້ອງເປັນວິລະຊົນບາງຢ່າງ.
+
+810
+00:52:35,900 --> 00:52:37,900
+[AUGIE]
+I agree. 117.
+ຂ້ອຍເຫັນດີ. 117.
+
+811
+00:52:38,400 --> 00:52:41,200
+[STANLEY]
+You must be some kind of -- "Brainiac."
+ເຈົ້າຕ້ອງເປັນບາງຊະນິດ -"Brainiac."
+
+812
+00:52:41,700 --> 00:52:47,700
+[STANLEY]
+Has it got any strings attached to it? It's made out to you, personally. How you plan to use it?
+ມັນມີສາຍໃດທີ່ຕິດກັບມັນບໍ? ມັນຖືກເຮັດໃຫ້ເຈົ້າ
+, ສ່ວນຕົວ. ເຈົ້າວາງແຜນທີ່ຈະໃຊ້ມັນແນວໃດ?
+
+813
+00:52:48,200 --> 00:52:50,300
+[WOODROW]
+Probably spend it on my girlfriend.
+ບາງທີຈະໃຊ້ມັນໃສ່ແຟນຂອງຂ້ອຍ.
+
+814
+00:52:50,800 --> 00:52:53,600
+[STANLEY]
+What do you write? In that little book.
+ເຈົ້າຂຽນຫຍັງ? ໃນປື້ມນ້ອຍນັ້ນ.
+
+815
+00:52:54,100 --> 00:52:56,100
+[WOODROW]
+Next year's project. Confidentially.
+ໂຄງການປີຫນ້າ. ເປັນຄວາມລັບ.
+
+816
+00:52:56,600 --> 00:52:58,700
+[WAITRESS]
+Midge Campbell left you her address.
+ມິດຈ໌ ແຄມບລ ໄດ້ປ່ອຍທີ່ຢູ່ຂອງນາງໃຫ້ເຈົ້າ.
+
+817
+00:52:59,200 --> 00:53:01,300
+[AUGIE]
+That's none of your business, Stanley.
+ນັ້ນບໍ່ແມ່ນເລື່ອງຂອງເຈົ້າ, ສຕັນເລີ.
+
+818
+00:53:01,800 --> 00:53:04,250
+[STANLEY]
+I know. Of course, it isn't.   118.
+ຂ້ອຍຮູ້ແລ້ວ. ແນ່ນອນ, ມັນບໍ່ແມ່ນ. 118.
+
+819
+00:53:04,750 --> 00:53:06,750
+[AUGIE]
+That's true.
+ນັ້ນແມ່ນຄວາມຈິງ.
+
+820
+00:53:07,250 --> 00:53:09,250
+[CASHIER]
+Another atom bomb test.
+ການທົດລອງລະເບີດອະໂຕມອີກຄັ້ງ.
+

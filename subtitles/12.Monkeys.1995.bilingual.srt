@@ -1,0 +1,4950 @@
+1
+00:00:10,000 --> 00:00:12,000
+[TWELVE MONKEYS]
+An original screenplay by
+ບົດຂຽນຕົ້ນສະບັບໂດຍ
+
+2
+00:00:12,500 --> 00:00:17,750
+[P.A. SYSTEM]
+Flight 784 for San Francisco is now ready for boarding at inmate number 66578, Greely.
+ຖ້ຽວບິນ 784 ໄປແຊນຟຣານຊິສໂກດຽວນີ້ພ້ອມແລ້ວທີ່ຈະຂຶ້ນຢູ່ນັກໂທດເລກທີ
+66578, Greely.
+
+3
+00:00:18,250 --> 00:00:20,700
+[PRISON P.A. SYSTEM]
+--number 5429, Garcia -- number 87645, Cole...
+- ເລກ 5429, ແກຣສຊີ - ເລກ 87645, ຄໍລ...
+
+4
+00:00:21,200 --> 00:00:23,200
+[COLE]
+Ssssst!  Jose, what's going on?
+ໂຊເຊ, ເກີດຫຍັງຂຶ້ນ?
+
+5
+00:00:23,700 --> 00:00:25,700
+[JOSE]
+"Volunteers" again.
+ພວກອາສາສະຫມັກອີກເທື່ອຫນຶ່ງ.
+
+6
+00:00:26,200 --> 00:00:28,200
+[SCARFACE]
+"Volunteer duty".
+ຫນ້າທີ່ອາສາສະຫມັກ.
+
+7
+00:00:28,700 --> 00:00:30,700
+[COLE]
+I didn't volunteer.
+ຂ້ອຍບໍ່ໄດ້ສະຫມັກໃຈ.
+
+8
+00:00:31,200 --> 00:00:33,200
+[SCARFACE]
+You causing trouble again?
+ເຈົ້າເຮັດໃຫ້ເກີດຄວາມຫຍຸ້ງຍາກອີກບໍ?
+
+9
+00:00:33,700 --> 00:00:35,700
+[COLE]
+No trouble.
+ບໍ່ເປັນຫຍັງ.
+
+10
+00:00:36,200 --> 00:00:38,200
+[TINY]
+James Cole.  Cleared from quarantine.
+ເຈມສ໌ ຄໍລ. ຖືກຍົກເລີກຈາກການກັກກັນ.
+
+11
+00:00:38,700 --> 00:00:40,800
+[MICROBIOLOGIST]
+Thank you.  You two wait outside.
+ຂອບໃຈ. ເຈົ້າທັງສອງລໍຖ້າຢູ່ພາຍນອກ.
+
+12
+00:00:41,300 --> 00:00:43,400
+[SCARFACE]
+He's got a history, Doctor.  Violence.
+ລາວມີປະຫວັດສາດ, ດອກຕໍ. ຄວາມຮຸນແຮງ.
+
+13
+00:00:43,900 --> 00:00:46,350
+[SCARFACE]
+Anti-social six -- doing 25 to life.
+ການຕໍ່ຕ້ານສັງຄົມຫົກ - ເຮັດ 25 ຕໍ່ຊີວິດ.
+
+14
+00:00:46,850 --> 00:00:52,850
+[ENGINEER]
+I don't think he's going to hurt us.  You're not going to hurt us, are you Mr. Cole?
+ຂ້ອຍບໍ່ຄິດວ່າລາວຈະເຮັດໃຫ້ພວກເຮົາເຈັບປວດ.
+ເຈົ້າຈະບໍ່ເຮັດໃຫ້ພວກເຮົາຍາ, ເຈົ້າເປັນທ່ານໂກລບໍ?
+
+15
+00:00:53,350 --> 00:00:55,350
+[COLE]
+No, sir.
+ບໍ່, ທ້າວ.
+
+16
+00:00:55,850 --> 00:00:58,300
+[MICROBIOLOGIST]
+Why don't you sit down, Mr. Cole.
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ນັ່ງລົງ, ທ້າວໂກລ.
+
+17
+00:00:58,800 --> 00:01:01,950
+[ASTROPHYSICIST]
+We want you to tell us about last night.
+ພວກເຮົາຢາກໃຫ້ເຈົ້າບອກພວກເຮົາກ່ຽວກັບມື້ວານນີ້.
+
+18
+00:01:02,450 --> 00:01:07,000
+[COLE]
+I went to the surface and I collected specimens like I was told.
+ຂ້ອຍໄປເທິງພື້ນຜິວແລະເກັບຕົວຢ່າງຕາມທີ່ຂ້ອຍຖືກບອກ.
+
+19
+00:01:07,500 --> 00:01:09,600
+[COLE]
+I mashed the spider, didn't I?
+ຂ້ອຍໄດ້ສັ່ນສະເທືອນແມງໄມ້, ແມ່ນບໍ?
+
+20
+00:01:10,100 --> 00:01:16,100
+[MICROBIOLOGIST]
+We'll get to the spider later, Mr. Cole.  Right now, we want to know everything that you saw.
+ພວກເຮົາຈະໄປຫາແມງໄມ້ຕໍ່ມາ, ທ້າວໂກລ.
+ດຽວນີ້, ພວກເຮົາຢາກຮູ້ທຸກຢ່າງທີ່ທ່ານເຫັນ.
+
+21
+00:01:16,600 --> 00:01:19,750
+[ASTPOPHYSICIST]
+Where you collected sample #4, what street was that?
+ບ່ອນທີ່ທ່ານເກັບຕົວຢ່າງ # 4, ນັ້ນແມ່ນຖະຫນົນໃດ?
+
+22
+00:01:20,250 --> 00:01:22,250
+[COLE]
+Uh...
+ໂອ້...
+
+23
+00:01:22,750 --> 00:01:24,750
+[BOTANIST]
+It's important to observe everything.
+ມັນສໍາຄັນທີ່ຈະສັງເກດເບິ່ງທຸກຢ່າງ.
+
+24
+00:01:25,250 --> 00:01:28,400
+[COLE]
+I think it was...I'm sure it was 2nd Street.
+ຂ້ອຍຄິດວ່າມັນແມ່ນ... ຂ້ອຍແນ່ໃຈວ່າມັນແມ່ນຖະຫນົນທີສອງ.
+
+25
+00:01:28,900 --> 00:01:31,000
+[TERRIFIED TRAVELER]
+Just exactly why did you volunteer?
+ເຈົ້າເປັນອາສາສະຫມັກເປັນຫຍັງແທ້ໆ?
+
+26
+00:01:31,500 --> 00:01:33,500
+[ASTROPHYSICIST]
+Wake up, Cole.
+ຕື່ນຂຶ້ນ, ຄໍລ.
+
+27
+00:01:34,000 --> 00:01:36,000
+[COLE]
+Uh, I didn't hear the...
+ໂອ້, ຂ້ອຍບໍ່ໄດ້ຍິນ...
+
+28
+00:01:36,500 --> 00:01:38,950
+[MICROBIOLOGIST]
+I asked you, why did you volunteer?
+ຂ້ອຍຖາມເຈົ້າວ່າ ເປັນຫຍັງເຈົ້າຈຶ່ງສະຫມັກ?
+
+29
+00:01:39,450 --> 00:01:43,300
+[COLE]
+Well, the guard woke me up.  He told me I volunteered.
+ດີ, ເຈົ້າຫນ້າທີ່ຮັກສາຄວາມປອດໄພຕື່ນຂ້ອຍ
+. ລາວບອກຂ້ອຍວ່າຂ້ອຍສະຫມັກສະ ຫມັກ.
+
+30
+00:01:43,800 --> 00:01:47,300
+[ENGINEER]
+We appreciate you volunteering.  You're a very good observer, Cole.
+ພວກເຮົາຍ້ອງຍໍວ່າເຈົ້າເປັນອາສາສະຫມັກ.
+ເຈົ້າເປັນຜູ້ສັງເກດການທີ່ດີຫຼາຍ, ຄໍລ.
+
+31
+00:01:47,800 --> 00:01:49,800
+[COLE]
+Uh, thank you.
+ໂອ້, ຂອບໃຈ.
+
+32
+00:01:50,300 --> 00:01:52,400
+[ENGINEER]
+You'll get a reduction in sentence.
+ເຈົ້າຈະໄດ້ຮັບການຫຼຸດຜ່ອນໂທດ.
+
+33
+00:01:52,900 --> 00:01:55,350
+[ASTROPHYSICIST]
+To be determined by the proper authorities.
+ເພື່ອຖືກ ກໍາ ນົດໂດຍເຈົ້າຫນ້າທີ່ທີ່ ເຫມາະ ສົມ.
+
+34
+00:01:55,850 --> 00:02:00,750
+[ENGINEER]
+You don't want to jeopardize that reduction, do you, Cole?  Have it taken away?
+ເຈົ້າບໍ່ຢາກເຮັດໃຫ້ການຫຼຸດຜ່ອນນັ້ນເປັນອັນຕະລາຍ
+, ແມ່ນບໍ, ຄໍລ? ມັນຖືກເອົາໄປບໍ?
+
+35
+00:02:01,250 --> 00:02:03,250
+[COLE]
+No, sir!
+ບໍ່, ທ້າວ!
+
+36
+00:02:03,750 --> 00:02:08,300
+[ASTROPHYSICIST]
+We have a very advanced program, something very different, requires very skilled people.
+ພວກເຮົາມີໂປແກຼມທີ່ກ້າວຫນ້າຫຼາຍ,
+ບາງສິ່ງບາງຢ່າງທີ່ແຕກຕ່າງກັນຫຼາຍ, ຕ້ອງການຄົນທີ່ມີຄວາມສາມາດຫຼາຍ.
+
+37
+00:02:08,800 --> 00:02:11,250
+[MICROBIOLOGIST]
+An opportunity to reduce your sentence considerably...
+ໂອກາດທີ່ຈະຫຼຸດລົງໂທດຂອງທ່ານຢ່າງຫຼວງຫຼາຍ...
+
+38
+00:02:11,750 --> 00:02:17,700
+[ZOOLOGIST]
+And possibly play an important role in returning the human race to the surface of the earth.
+ແລະອາດຈະມີບົດບາດສໍາຄັນໃນການສົ່ງເຊື້ອຊາດມະນຸດກັບຄືນສູ່ພື້ນຜິວຂອງໂລກ
+.
+
+39
+00:02:18,200 --> 00:02:22,750
+[ENGINEER]
+We want tough minded people.  Strong mentally.  We've had some...misfortunes with "unstable" types.
+ພວກເຮົາຕ້ອງການຄົນທີ່ມີຈິດໃຈແຂງແຮງ. ມີຄວາມເຂັ້ມແຂງທາງຈິດວິນຍານ
+. ພວກເຮົາມີບາງ... ຄວາມໂຊກຮ້າຍກັບປະເພດ"ບໍ່ຫມັ້ນຄົງ".
+
+40
+00:02:23,250 --> 00:02:25,700
+[ASTROPHYSICIST]
+For a man in your position...an opportunity.
+ສໍາລັບຜູ້ຊາຍໃນຕໍາແຫນ່ງຂອງທ່ານ... ເປັນໂອກາດ.
+
+41
+00:02:26,200 --> 00:02:29,000
+[BOTANIST]
+Not to volunteer could be a real mistake.
+ບໍ່ເປັນອາສາສະຫມັກອາດຈະເປັນຄວາມຜິດພາດທີ່ແທ້ຈິງ.
+
+42
+00:02:29,500 --> 00:02:31,500
+[MICROBIOLOGIST]
+Definitely a mistake!
+ມັນເປັນຄວາມຜິດພາດຢ່າງແນ່ນອນ!
+
+43
+00:02:32,000 --> 00:02:38,000
+[POET]
+Still among the myriad microwaves, the infra-red messages, the gigabytes of ones and zeroes, we find words, infinitesimally small, byte-sized now, tinier even than science lurking in some vague electricity where, if we listen we can hear the solitary voice of that poet telling us, "We are no other than a moving row Of Magic shadow-shapes that come and go Round with the Sun-illumined Lantern hold In Midnight by the Master of the show."
+ຍັງຢູ່ໃນບັນດາກະແສໄມໂຄຣເວວທີ່ຫຼາກຫຼາຍ, ຂໍ້ຄວາມອິນຟຣາຣ໌ດ໌, ກິແກບໄຕຂອງ ຫນຶ່ງ ແລະ ໂຊລ໌, ພວກເຮົາພົບຄໍາເວົ້າ, ຂະຫນາດນ້ອຍທີ່ສຸດ, ຂະ ຫນາດ ໄບຕ໌ດຽວນີ້,
+ນ້ອຍກວ່າວິທະຍາສາດເຊື່ອງໄວ້ໃນໄຟຟ້າບາງຢ່າງທີ່ບໍ່ແນ່ນອນບ່ອນທີ່, ຖ້າພວກເຮົາຟັງພວກເຮົາສາມາດໄດ້ຍິນສຽງໂດດດ່ຽວຂອງນັກກະວີທີ່ບອກພວກເຮົາວ່າ,"ພວກເຮົາບໍ່ແມ່ນຫຍັງນອກຈາກແຖວທີ່ເຄື່ອນຍ້າຍຂອງຮູບຊົງເງົາທີ່ມາແລະໄປ
+
+44
+00:02:38,500 --> 00:02:44,500
+[POET]
+"Yesterday This Day's Madness did prepare; Tomorrow's Silence, Triumph or Despair: Drink!  for you know not whence you came, nor why: Drink!  for you know not why you go, nor where."
+ມື້ວານນີ້ຄວາມໂຊກຮ້າຍຂອງມື້ນີ້ໄດ້ກະກຽມ; ຄວາມງຽບສະຫງົບຂອງມື້ອື່ນ, ການຊະນະຫຼືຄວາມຫວັງ: ດື່ມ!
+ເພາະເຈົ້າບໍ່ຮູ້ວ່າເຈົ້າມາຈາກໃສ, ຫຼືເປັນຫຍັງ:ດື່ມ! ເພາະວ່າເຈົ້າບໍ່ຮູ້ວ່າເຈົ້າໄປເປັນຫຍັງ, ຫຼືບ່ອນໃດ."
+
+45
+00:02:45,000 --> 00:02:51,000
+[FRANKI]
+-- so they get there and they ask the guy real nice for some kind of i.d., and he gets agitated, starts screaming about viruses. Totally irrational, totally disoriented, doesn't know where he is, what day it is, alla that stuff.  All they got was his name.  They figure he's stoned out of his mind, it's some kinda psychotic episode, so they're gonna bring him...
+- ສະນັ້ນພວກເຂົາຈຶ່ງມາຮອດບ່ອນນັ້ນແລະພວກເຂົາຖາມຜູ້ຊາຍຢ່າງດີເລີດ ສໍາ ລັບຕົວຕົນບາງຊະນິດ, ແລະລາວຖືກກະຕຸ້ນໃຈ, ເລີ່ມຮ້ອງໄຫ້ກ່ຽວກັບໄວຣັສ. ບໍ່ສົມເຫດສົມຜົນຢ່າງສົມບູນ, ບໍ່ແນ່ນອນ,
+ບໍ່ຮູ້ວ່າລາວຢູ່ໃສ, ມື້ໃດ, ສິ່ງທັງ ຫມົດ ນັ້ນ. ພວກເຂົາມີພຽງແຕ່ຊື່ຂອງລາວເທົ່ານັ້ນ. ພວກເຂົາຄິດວ່າລາວຖືກຫີນອອກຈາກຈິດໃຈຂອງລາວ, ມັນແມ່ນເຫດການຈິດວິນຍານບາງຢ່າງ, ສະນັ້ນພວກເຂົາຈະພາລາວ...
+
+46
+00:02:51,500 --> 00:02:53,500
+[RAILLY]
+He's been tested for drugs?
+ລາວຖືກກວດສອບຢາເສບຕິດບໍ?
+
+47
+00:02:54,000 --> 00:03:00,000
+[FRANKI]
+Negative for drugs.  But he took on five cops like he was dusted to the eyeballs.  No drugs.  You believe that?
+ບໍ່ເປັນຫຍັງ ສໍາ ລັບຢາເສບຕິດ. ແຕ່ລາວໄດ້ຕໍ່ສູ້ກັບຕໍາຫຼວດຫ້າຄົນຄືກັບວ່າລາວຖືກຂີ້ຝຸ່ນຈົນເຖິງກະດານຕາ
+. ບໍ່ມີຢາເສພຕິດ. ເຈົ້າເຊື່ອບໍ?
+
+48
+00:03:00,500 --> 00:03:02,500
+[RAILLY]
+You have him in restraints.
+ເຈົ້າມີລາວຢູ່ໃນການຈໍາກັດ.
+
+49
+00:03:03,000 --> 00:03:09,000
+[FRANKI]
+Were you listening?  We got two officers in the hospital.  Yeah, he's in restraints, plus the medic gave him enough stellazine to kill a horse.  Look at him!  Still on his feet.
+ເຈົ້າຟັງບໍ? ພວກເຮົາມີເຈົ້າຫນ້າທີ່ສອງຄົນໃນໂຮງຫມໍ. ແມ່ນແລ້ວ, ລາວຢູ່ໃນການຈໍາກັດ,
+ບວກກັບແພດໄດ້ໃຫ້ລາວ stellazine ພຽງພໍທີ່ຈະຂ້າມມມ້າ. ເບິ່ງລາວ! ຍັງຢູ່ເທິງຕີນຂອງລາວ.
+
+50
+00:03:09,500 --> 00:03:12,650
+[RAILLY]
+That would explain the bruises, I guess.  The struggle.
+ນັ້ນຈະອະທິບາຍຄວາມບາດເຈັບ, ຂ້ອຍຄິດວ່າ. ການຕໍ່ສູ້.
+
+51
+00:03:13,150 --> 00:03:15,600
+[FRANKI]
+You want to go in?  Examine him?
+ເຈົ້າຢາກເຂົ້າມາບໍ? ກວດລາວບໍ?
+
+52
+00:03:16,100 --> 00:03:18,900
+[RAILLY]
+Yes, please.  You said he gave a name...
+ແມ່ນແລ້ວ, ກະລຸນາ. ເຈົ້າບອກວ່າລາວໃຫ້ຊື່...
+
+53
+00:03:19,400 --> 00:03:25,400
+[FRANKI]
+James Cole.  That's everything we got.  None of the James Coles on the computer match him. No license, no prints, no warrants.  Nothing. You want me to go in with you?
+ເຈມສ໌ ຄໍລ໌. ນັ້ນແມ່ນທຸກຢ່າງທີ່ພວກເຮົາມີ. ບໍ່ມີໃຜໃນເຈມສັອກໂກລ໌ໃນຄອມພິວເຕີທີ່ເຫມາະສົມກັບລາວ.
+ບໍ່ມີໃບອະນຸຍາດ, ບໍ່ມີນິ້ວມື, ບໍ່ມີຄໍາສັ່ງ. ບໍ່ມີຫຍັງເລີຍ. ເຈົ້າຢາກໃຫ້ຂ້ອຍເຂົ້າກັບເຈົ້າບໍ?
+
+54
+00:03:25,900 --> 00:03:27,900
+[RAILLY]
+No, thank you.
+ບໍ່ ຂອບໃຈ
+
+55
+00:03:28,400 --> 00:03:30,500
+[FRANKI]
+I'll be right here...just in case.
+ຂ້ອຍຈະຢູ່ບ່ອນນີ້... ພຽງແຕ່ໃນກໍລະນີໃດ.
+
+56
+00:03:31,000 --> 00:03:37,000
+[RAILLY]
+Mr. Cole?  My name is Doctor Railly. I'm a psychiatrist.  I work for the County -- I don't work for the police. My only concern is your well being -- do you understand that?
+ທ້າວ ຄໍລ໌? ຂ້ອຍຊື່ວ່າ ດອກຕໍ ຣາລີ. ຂ້ອຍເປັນແພດຈິດໃຈ. ຂ້ອຍເຮັດວຽກ ສໍາ ລັບເມືອງ -
+ຂ້ອຍບໍ່ໄດ້ເຮັດວຽກສໍາລັບຕໍາຫຼວດ. ຄວາມກັງວົນຂອງຂ້ອຍດຽວແມ່ນສຸຂະພາບຂອງທ່ານ - ເຈົ້າເຂົ້າໃຈບໍ?
+
+57
+00:03:37,500 --> 00:03:39,500
+[COLE]
+I need to go now.
+ຂ້ອຍຕ້ອງໄປດຽວນີ້.
+
+58
+00:03:40,000 --> 00:03:46,000
+[RAILLY]
+I'm going to be completely honest.  I'm not going to lie to you.  I can't make the police let you go...but I do want to help you.  And I want you to trust me.  Can you do that, James?  May I call you "James"?
+ຂ້ອຍຈະເວົ້າຄວາມຈິງໃຈຢ່າງສົມບູນ. ຂ້ອຍຈະບໍ່ຕົວະເຈົ້າ. ຂ້ອຍບໍ່ສາມາດເຮັດໃຫ້ຕໍາຫຼວດປ່ອຍເຈົ້າໄປໄດ້...
+ແຕ່ຂ້ອຍຢາກຊ່ວຍເຈົ້າ. ແລະຂ້ອຍຢາກໃຫ້ເຈົ້າເຊື່ອຂ້ອຍ. ເຈົ້າສາມາດເຮັດໄດ້ບໍ, ເຈມສ໌? ຂ້ອຍສາມາດເອີ້ນເຈົ້າວ່າ"ເຈັມສ໌" ໄດ້ບໍ?
+
+59
+00:03:46,500 --> 00:03:48,600
+[COLE]
+"James"!  Nobody ever calls me that.
+ເຈມສ໌! ບໍ່ມີໃຜເອີ້ນຂ້ອຍແບບນັ້ນເລີຍ.
+
+60
+00:03:49,100 --> 00:03:53,300
+[RAILLY]
+Have you been a patient at County? Have I seen you someplace?
+ເຈົ້າເປັນຄົນເຈັບຢູ່ເມືອງບໍ? ຂ້ອຍເຫັນເຈົ້າຢູ່ບ່ອນໃດບໍ?
+
+61
+00:03:53,800 --> 00:03:59,750
+[COLE]
+No, not possible.  Listen, I have to get out of here.  I'm supposed to be getting information.
+ບໍ່, ບໍ່ເປັນໄປໄດ້. ຟັງ,
+ຂ້ອຍຕ້ອງອອກຈາກບ່ອນນີ້. ຂ້ອຍຄວນໄດ້ຮັບຂໍ້ມູນ.
+
+62
+00:04:00,250 --> 00:04:02,250
+[RAILLY]
+What kind of information?
+ຂໍ້ມູນປະເພດໃດ?
+
+63
+00:04:02,750 --> 00:04:07,650
+[COLE]
+It won't help you.  You can't do anything about it.  You can't change anything.
+ມັນຈະບໍ່ຊ່ວຍເຈົ້າ. ເຈົ້າບໍ່ສາມາດເຮັດຫຍັງກ່ຽວກັບມັນໄດ້
+. ເຈົ້າສາມາດປ່ຽນແປງຫຍັງໄດ້.
+
+64
+00:04:08,150 --> 00:04:10,150
+[RAILLY]
+Change what?
+ປ່ຽນຫຍັງ?
+
+65
+00:04:10,650 --> 00:04:12,650
+[COLE]
+I need to go.
+ຂ້ອຍຕ້ອງໄປ.
+
+66
+00:04:13,150 --> 00:04:15,600
+[RAILLY]
+Do you know why you're here, James.
+ເຈົ້າຮູ້ວ່າເຈົ້າຢູ່ບ່ອນນີ້ເປັນຫຍັງ, ເຈມສ໌.
+
+67
+00:04:16,100 --> 00:04:19,950
+[COLE]
+Because I'm a good observer.  Because I have a tough mind.
+ເພາະຂ້ອຍເປັນຜູ້ສັງເກດການທີ່ດີ. ເພາະວ່າຂ້ອຍມີຈິດໃຈແຂງແຮງ.
+
+68
+00:04:20,450 --> 00:04:23,950
+[RAILLY]
+I see.  You don't remember assaulting a police officer...several officers?
+ຂ້ອຍເຫັນແລ້ວ. ເຈົ້າບໍ່ຈື່ການໂຈມຕີເຈົ້າຫນ້າທີ່ຕໍາຫຼວດ
+... ເຈົ້າຫນ້າທີ່ຫຼາຍຄົນບໍ?
+
+69
+00:04:24,450 --> 00:04:29,350
+[COLE]
+They wanted identification.  I don't have any identification.  I wasn't trying to hurt them.
+ພວກເຂົາຕ້ອງການເອກະສານປະຈໍາຕົວ. ຂ້ອຍບໍ່ມີໃບຢັ້ງຢືນໃດໆ
+. ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມເຮັດໃຫ້ພວກເຂົາເຈັບປວດ.
+
+70
+00:04:29,850 --> 00:04:34,050
+[RAILLY]
+You don't have a driver's license, James?  Or a Social Security card?
+ເຈົ້າບໍ່ມີໃບຂັບຂີ່ບໍ, ເຈມສ໌? ຫຼືບັດປະກັນສັງຄົມບໍ?
+
+71
+00:04:34,550 --> 00:04:36,550
+[COLE]
+No.
+ບໍ່
+
+72
+00:04:37,050 --> 00:04:39,500
+[RAILLY]
+Why not?  Most people have some ID.
+ເປັນຫຍັງບໍ່? ຄົນສ່ວນໃຫຍ່ມີໃບຢັ້ງຢືນບາງຢ່າງ.
+
+73
+00:04:40,000 --> 00:04:42,000
+[COLE]
+You wouldn't understand.
+ເຈົ້າຈະບໍ່ເຂົ້າໃຈ.
+
+74
+00:04:42,500 --> 00:04:46,000
+[RAILLY]
+You've been in an institution, haven't you, James?  A hospital?
+ເຈົ້າເຄີຍຢູ່ໃນສະຖາບັນ, ແມ່ນບໍ, ເຈມສ໌? ໂຮງຫມໍ?
+
+75
+00:04:46,500 --> 00:04:48,500
+[COLE]
+I have to go.
+ຂ້ອຍຕ້ອງໄປ.
+
+76
+00:04:49,000 --> 00:04:51,000
+[RAILLY]
+A jail?  Prison?
+ຄຸກ? ຄຸກບໍ?
+
+77
+00:04:51,500 --> 00:04:53,500
+[COLE]
+Underground.
+ພາຍໃຕ້ດິນ.
+
+78
+00:04:54,000 --> 00:04:56,000
+[RAILLY]
+Hiding?
+ການເຊື່ອງໄວ້ບໍ?
+
+79
+00:04:56,500 --> 00:04:59,300
+[COLE]
+I love this air.  This is wonderful air.
+ຂ້ອຍມັກອາກາດນີ້. ນີ້ແມ່ນອາກາດທີ່ຍິ່ງໃຫຍ່.
+
+80
+00:04:59,800 --> 00:05:01,900
+[RAILLY]
+What's wonderful about the air, James?
+ມີຫຍັງດີເລີດກ່ຽວກັບອາກາດ, ເຈມສ໌?
+
+81
+00:05:02,400 --> 00:05:04,400
+[COLE]
+It's so clean.  No germs.
+ມັນສະອາດຫຼາຍ. ບໍ່ມີເຊື້ອແມວ.
+
+82
+00:05:04,900 --> 00:05:06,900
+[RAILLY]
+You're afraid of germs?
+ເຈົ້າຢ້ານແມວບໍ?
+
+83
+00:05:07,400 --> 00:05:09,400
+[COLE]
+I have to go.
+ຂ້ອຍຕ້ອງໄປ.
+
+84
+00:05:09,900 --> 00:05:14,100
+[RAILLY]
+Why do you think there aren't any germs in the air, James?
+ເຈົ້າຄິດວ່າເປັນຫຍັງບໍ່ມີເຊື້ອໄວຣັສໃດໆໃນອາກາດ, ເຈມສ໌?
+
+85
+00:05:14,600 --> 00:05:16,600
+[COLE]
+This is April, right?
+ນີ້ແມ່ນເດືອນເມສາ, ແມ່ນບໍ?
+
+86
+00:05:17,100 --> 00:05:19,100
+[RAILLY]
+July.
+ເດືອນກໍລະກົດ.
+
+87
+00:05:19,600 --> 00:05:21,600
+[COLE]
+July?!
+ເດືອນກໍລະກົດບໍ?
+
+88
+00:05:22,100 --> 00:05:24,550
+[RAILLY]
+Do you know what year it is?
+ເຈົ້າຮູ້ວ່າປີໃດ?
+
+89
+00:05:25,050 --> 00:05:27,050
+[COLE]
+What year is it?
+ມັນເປັນປີໃດ?
+
+90
+00:05:27,550 --> 00:05:30,000
+[RAILLY]
+What year do you think it is?
+ເຈົ້າຄິດວ່າມັນເປັນປີໃດ?
+
+91
+00:05:30,500 --> 00:05:32,500
+[COLE]
+1995?
+ປີ 1995?
+
+92
+00:05:33,000 --> 00:05:39,000
+[RAILLY]
+You think it's July of 1995?  That's the future, James.  Do you think you're living in the future?
+ເຈົ້າຄິດວ່າມັນເປັນເດືອນກໍລະກົດປີ 1995 ບໍ? ນັ້ນແມ່ນອະນາຄົດ
+, ເຈມສ໌. ເຈົ້າຄິດວ່າເຈົ້າ ກໍາ ລັງດໍາລົງຊີວິດໃນອະ ນາຄົດບໍ?
+
+93
+00:05:39,500 --> 00:05:41,500
+[COLE]
+No, 1995 is the past.
+ບໍ່, ປີ 1995 ແມ່ນອະດີດແລ້ວ.
+
+94
+00:05:42,000 --> 00:05:44,800
+[RAILLY]
+1995 is the future, James.  This is 1989.
+ປີ 1995 ແມ່ນອະນາຄົດ, ເຈມສ໌. ນີ້ແມ່ນປີ 1989.
+
+95
+00:05:45,300 --> 00:05:47,300
+[COLE]
+Where are you taking me?
+ເຈົ້າພາຂ້ອຍໄປໃສ?
+
+96
+00:05:47,800 --> 00:05:51,300
+[POLICEMAN #1]
+South of France, buddy.  Fancy hotel. You're gonna love it.
+ໃຕ້ຝຣັ່ງ, ເພື່ອນ. ໂຮງແຮມທີ່ສວຍງາມ. ເຈົ້າຈະມັກມັນ.
+
+97
+00:05:51,800 --> 00:05:57,800
+[COLE]
+South of France?!  I don't want to go to the South of France.  I want to make a telephone call.
+ໃຕ້ຝຣັ່ງບໍ?! ຂ້ອຍບໍ່ຢາກໄປທາງໃຕ້ຂອງຝລັ່ງ. ຂ້ອຍຢາກໂທໂທລະສັບ.
+
+98
+00:05:58,300 --> 00:06:03,900
+[POLICEMAN #2]
+Zip it, scumbag -- you fooled the shrink with your act, but you don't fool us.
+ປິດມັນໄວ້, ຄົນໂຊກແຊງ - ເຈົ້າໄດ້ຫລອກລວງຈິດໃຈດ້ວຍການສະແດງຂອງທ່ານ
+, ແຕ່ເຈົ້າບໍ່ໄດ້ຫຼອກລືມພວກເຮົາ.
+
+99
+00:06:04,400 --> 00:06:08,600
+[BILLINGS]
+Lemme see your head, Jimbo, see if you got any creepy crawlies.
+ຂໍໃຫ້ເບິ່ງຫົວຂອງທ່ານ, ຈິມໂບ, ເບິ່ງວ່າທ່ານມີ
+crawlies ທີ່ຫນ້າຢ້ານກົວໃດໆບໍ.
+
+100
+00:06:09,100 --> 00:06:11,550
+[COLE]
+I need to make a telephone call.
+ຂ້ອຍຕ້ອງໂທຫາໂທລະສັບ.
+
+101
+00:06:12,050 --> 00:06:17,650
+[BILLINGS]
+Gotta work that out with a doctor, Jimbo. Can't make no calls 'til the doctor says.
+ຂ້ອຍຕ້ອງແກ້ໄຂເລື່ອງນັ້ນກັບຫມໍ,
+ຈິມໂບ. ບໍ່ສາມາດໂທໄດ້ຈົນກວ່າຫມໍຈະບອກ.
+
+102
+00:06:18,150 --> 00:06:20,150
+[COLE]
+It's very important.
+ມັນສໍາຄັນຫຼາຍ.
+
+103
+00:06:20,650 --> 00:06:26,650
+[BILLINGS]
+What chew gotta do, Jimbo, is take it easy, relax into things.  We all gonna get along fine if you just relax.
+ສິ່ງທີ່ Chew ຕ້ອງເຮັດ, ຈິມໂບ, ແມ່ນເອົາມັນຢ່າງສະຫງົບສຸກ,
+ສະບາຍໃຈໃນສິ່ງຕ່າງໆ. ພວກເຮົາທຸກຄົນຈະເຂົ້າກັນໄດ້ດີຖ້າເຈົ້າພຽງແຕ່ສະບາຍໃຈ.
+
+104
+00:06:27,150 --> 00:06:33,150
+[BILLINGS]
+Jeffrey.  Yo!  Jeffrey.  This here is James. Whyncha show James around?  Tell him the TV rules, show him the games an' stuff, okay?
+ເຈຟຣີ. ໂຢ! ເຈຟຣິກ. ນີ້ແມ່ນເຈມສ໌. ເປັນຫຍັງວິນຊ້າຈຶ່ງສະແດງເຈັມສ໌ຢູ່ອ້ອມຂ້າງ
+? ບອກລາວກົດລະບຽບໂທລະພາບ, ສະແດງໃຫ້ລາວເກມແລະສິ່ງຕ່າງໆ, ດີບໍ?
+
+105
+00:06:33,650 --> 00:06:37,850
+[JEFFREY]
+How much you gonna pay me?  Huh?  I'd be doing your job.
+ເຈົ້າຈະຈ່າຍເງິນໃຫ້ຂ້ອຍຫຼາຍປານໃດ? ຮາ? ຂ້ອຍຈະເຮັດວຽກຂອງທ່ານ.
+
+106
+00:06:38,350 --> 00:06:43,950
+[BILLINGS]
+Five thousand dollars, my man.  That enough?  I'll wire it to your account as usual, okay?
+ເງິນຫ້າພັນໂດລາ, ຜູ້ຊາຍຂອງຂ້ອຍ. ນັ້ນພຽງພໍບໍ?
+ຂ້ອຍຈະສົ່ງມັນໄປຫາບັນຊີຂອງທ່ານຕາມປົກກະຕິ, ດີບໍ?
+
+107
+00:06:44,450 --> 00:06:50,400
+[JEFFREY]
+Okay, Billings.  Five thousand.  That's enough.  Five thousand dollars.  I'll give him the Deluxe Mental Hospital Tour.
+ດີແລ້ວ, ບິລລິງສ໌. ຫ້າພັນ. ນັ້ນພຽງພໍ. ຫ້ານໂດລາ
+. ຂ້ອຍຈະໃຫ້ລາວການທ່ອງທ່ຽວໂຮງຫມໍຈິດໃຈ Deluxe.
+
+108
+00:06:50,900 --> 00:06:56,900
+[JEFFREY]
+Kid around, kid around.  It makes them feel good, we're all pals.  We're prisoners, they're the guards, but it's all in good fun, you see?
+ເດັກນ້ອຍຢູ່ອ້ອມຂ້າງ, ເດັກນ້ອຍໃນອ້ອມແອ້ມ. ມັນເຮັດໃຫ້ພວກເຂົາຮູ້ສຶກດີ, ພວກເຮົາທຸກຄົນເປັນເພື່ອນມິດ
+. ພວກເຮົາເປັນນັກໂທດ, ພວກເຂົາເປັນຄົນປົກປ້ອງ, ແຕ່ມັນທັງ ຫມົດ ມີຄວາມມ່ວນຊື່ນດີ, ເຈົ້າເຫັນບໍ?
+
+109
+00:06:57,400 --> 00:07:03,000
+[JEFFREY]
+Here's the games.  Games vegitize you. If you play the games, you're voluntarily taking a tranquilizer.
+ນີ້ແມ່ນເກມ. ເກມເຮັດໃຫ້ເຈົ້າເປັນຜັກ. ຖ້າເຈົ້າຫຼິ້ນເກມ
+, ເຈົ້າ ກໍາ ລັງກິນຢາບັນເທົາທຸກຢ່າງສະຫມັກໃຈ.
+
+110
+00:07:03,500 --> 00:07:08,400
+[JEFFREY]
+What'd they give you?  Thorazine?  How much?  Learn your drugs -- know your doses.
+ພວກເຂົາໃຫ້ເຈົ້າຫຍັງ? Thorazine? ຫຼາຍປານໃດ
+? ຮຽນຮູ້ຢາຂອງທ່ານ - ຮູ້ປະລິມານຂອງທ່ານ.
+
+111
+00:07:08,900 --> 00:07:11,350
+[COLE]
+I need to make a telephone call.
+ຂ້ອຍຕ້ອງໂທຫາໂທລະສັບ.
+
+112
+00:07:11,850 --> 00:07:17,850
+[JEFFREY]
+A telephone call?  That's communication with the outside world!  Doctor's discretion.  Hey, if alla these nuts could just make phone calls, it could spread.  Insanity oozing through telephone cables, oozing into the ears of all those poor sane people, infecting them!  Whackos everywhere!  A plague of madness.  In fact, very few of us here are actually mentally ill.  I'm not saying you're not mentally ill, for all I know you're crazy as a loon.  But that's not why you're here.  Why you're here is because of the system, because of the economy.  There's the TV.  It's all right there. Commercials.  We are not productive anymore, they don't need us to make things anymore, it's all automated.  What are we for then?  We're consumers.  Okay, buy a lot of stuff, you're a good citizen. But if you don't buy a lot of stuff, you know what?  You're mentally ill! That's a fact!  If you don't buy things...toilet paper, new cars, computerized blenders, electrically operated sexual devices...  SCREWDRIVERS WITH MINIATURE BUILT-IN RADAR DEVICES, STEREO SYSTEMS WITH BRAIN IMPLANTED HEADPHONES, VOICE- ACTIVATED COMPUTERS, AND...
+ການໂທໂທລະສັບບໍ? ນັ້ນແມ່ນການສື່ສານກັບໂລກພາຍນອກ! ຄວາມພິຈາລະນາຂອງຫມໍ. ເຮ້, ຖ້າຄົນໂຊກແຊງທັງ ຫມົດ ເຫຼົ່ານີ້ພຽງແຕ່ສາມາດໂທລະສັບໄດ້, ມັນສາມາດແຜ່ກະຈາຍໄດ້. ຄວາມຜິດປົກກະຕິທີ່ໄຫຼຜ່ານສາຍໂທລະສັບ
+, ໄຫຼເຂົ້າໄປໃນຫູຂອງຄົນທຸກຍາກທີ່ສຸຂະພາບແຂງແຮງທັງ ຫມົດ ນັ້ນ, ຕິດເຊື້ອພວກເຂົາ! Whackos ທຸກບ່ອນ! ໂຣກຮ້າຍຂອງຄວາມໂມໂຫ. ໃນຄວາມເປັນຈິງ, ຄົນ ຫນ້ອຍ ທີ່ພວກເຮົາຢູ່ນີ້ແມ່ນເຈັບປ
+
+113
+00:07:18,350 --> 00:07:20,450
+[TERRY]
+Take it easy, Jeffrey.  Be calm.
+ສະບາຍດີ, ເຈຟຣີ. ສະບາຍໃຈ.
+
+114
+00:07:20,950 --> 00:07:26,950
+[JEFFREY]
+So if you want to watch a particular program, say "All My Children" or something, you go to the Charge Nurse and tell her what day and time the show you want to see is on.  But you have to tell her before the show is scheduled to be on.  There was this one guy who was always requesting shows that had already played.  He couldn't quite grasp the idea that the Charge Nurse couldn't just make it be yesterday for him, turn back time ha ha.  What a fruitcake!!
+ສະນັ້ນຖ້າເຈົ້າຢາກເບິ່ງໂປແກຼມສະເພາະ, ເວົ້າວ່າ" ເດັກນ້ອຍຂອງຂ້ອຍທັງ ຫມົດ" ຫຼືບາງສິ່ງບາງຢ່າງ, ເຈົ້າໄປຫາພະຍາບານທີ່ຮັບຜິດຊອບແລະບອກນາງວ່າລາຍການທີ່ທ່ານຕ້ອງການເບິ່ງແມ່ນຢູ່ມື້ໃດແລະເວລາໃດ. ແຕ່ເຈົ້າຕ້ອງບອກນາງກ່ອນທີ່ລາຍການຖືກວາງແຜນທີ່ຈະຢູ່
+. ມີຜູ້ຊາຍຄົນ ຫນຶ່ງ ທີ່ ກໍາ ລັງຂໍລາຍການທີ່ເຄີຍຫຼິ້ນແລ້ວ. ລາວບໍ່ສາມາດເຂົ້າໃຈຄວາມຄິດທີ່ວ່າພະຍາຫານທີ່ໄດ້ຮັບຜິດຊອບບໍ່ສາມາດເຮັດໃຫ້ມັນເປັນມື້ວານນີ້ ສໍາ ລັບລາວ, ກັບຄືນໄປບ່ອນເວລາ ha ha. ເປັນກະຕູ້ ຫມາກ ໄມ້
+
+115
+00:07:27,450 --> 00:07:33,450
+[JEFFREY]
+Seriously, more and more people are being defined now as mentally ill.  Why? Because they're not consuming on their own.  But as patients, they becone consumers of mental health care.  And this gives the so-called sane people work!  WHOOO!  SHOCK THERAPY!  GROUP THERAPY! HALLUCINATIONS!  THERAPEUTIC DRUGS! IGGIDY DIGGIDY DIG!  PERFECT!  THE SYSTEM IN HARMONY LIKE A BIG MACHINE...
+ຢ່າງຈິງໃຈ, ປະຊາຊົນຫຼາຍຂຶ້ນແລະຫຼາຍຂຶ້ນ ກໍາ ລັງຖືກ ກໍາ ນົດໄວ້ໃນປັດຈຸບັນວ່າເປັນຄົນເຈັບທາງຈິດໃຈ. ເປັນຫຍັງ? ເພາະວ່າພວກເຂົາບໍ່ໄດ້ບໍລິໂພກດ້ວຍຕົນເອງ. ແຕ່ເປັນຜູ້ເຈັບປ່ວຍ,
+ພວກເຂົາກາຍເປັນຜູ້ຊົມໃຊ້ການເບິ່ງແຍງສຸຂະພາບຈິດ. ແລະສິ່ງນີ້ເຮັດໃຫ້ຄົນທີ່ເອີ້ນວ່າຄົນສະຕິປັນຍາເຮັດວຽກ! WHOOO! ການປິ່ນປົວໂຊກ! ຢາປິ່ນ ປົວກຸ່ມ! HALUCINATIONS! ຢານາໄມ! ສົມບູນແບບ! ລະບົບໃນຄວາມສອດຄ່ອງຄືກັບ
+
+116
+00:07:33,950 --> 00:07:38,150
+[TERRY]
+Okay, that's it, Jeffrey, you're gonna get a shot.  I warned you...
+ດີແລ້ວ, ນັ້ນແມ່ນມັນ, ເຈຟຣີ,
+ເຈົ້າຈະໄດ້ຮັບການຍິງ. ຂ້ອຍເຕືອນເຈົ້າວ່າ...
+
+117
+00:07:38,650 --> 00:07:43,900
+[JEFFREY]
+Right!  Right!  Carried away, heh heh. I got "carried away".  Explaining the workings of...the institution.
+ດີ! ດີ! ຖືກພາໄປ, ເຮເຮ. ຂ້ອຍຖືກ"ພາໄປ"
+. ອະທິບາຍການເຮັດວຽກຂອງ... ສະຖາບັນ.
+
+118
+00:07:44,400 --> 00:07:46,850
+[TJ WASHINGTON]
+I don't really come from outer space.
+ຂ້ອຍບໍ່ໄດ້ມາຈາກອະວະກາດ.
+
+119
+00:07:47,350 --> 00:07:51,900
+[JEFFREY]
+This is TJ Washington, Jim -- he doesn't really come from outer space.
+ນີ້ແມ່ນ TJ ວໍຊິງຕັນ, ຈິມ - ລາວບໍ່ໄດ້ມາຈາກອະວະກາດນອກແທ້ໆ.
+
+120
+00:07:52,400 --> 00:07:58,400
+[TJ WASHINGTON]
+Don't mock me, my friend.  It's a condition of "mental divergence". I find myself on another planet, Ogo, part of an intellectual elite, preparing to subjugate barbarian hordes on Pluto. But even though it's a totally convincing reality in every way...I can feel, breathe, hear...nevertheless, Ogo is actually a construct of my psyche.  I am mentally divergent in that I am escaping certain unnamed realities that plague my life here.  When I stop going there, I will be well.  Are you also divergent, friend?
+ຢ່າໂຊກຮ້າຍຂ້ອຍ, ເພື່ອນຂອງຂ້ອຍ. ມັນເປັນສະພາບຂອງ"ຄວາມແຕກຕ່າງທາງຈິດໃຈ". ຂ້ອຍພົບຕົວເອງຢູ່ໃນໂລກອື່ນ, ໂອໂກ, ສ່ວນ ຫນຶ່ງ ຂອງ elite ທາງປັນຍາ, ກຽມພ້ອມທີ່ຈະຄວບຄຸມ hordes barbaria ໃນປລູໂຕ.
+ແຕ່ເຖິງແມ່ນວ່າມັນເປັນຄວາມເປັນຈິງທີ່ເຊື່ອຖືຢ່າງສົມບູນໃນທຸກວິທີທາງ... ຂ້ອຍສາມາດຮູ້ສຶກ, ຫາຍໃຈ, ໄດ້ຍິນ... ເຖິງຢ່າງໃດກໍ່ຕາມ, ໂກແມ່ນການກໍ່ສ້າງຂອງຈິດວິນຍານຂອງຂ້ອຍ. ຂ້ອຍມີຄວາມແຕກຕ່າງກັນທາງຈິນຕະນາການໃນທີ່ຂ້ອຍ ກໍາ ລັງ
+
+121
+00:07:58,900 --> 00:08:02,750
+[JEFFREY]
+Staff!  Whoo!  Time for Staff.  Now the geniuses cure you.  Hallelujah!
+ພະນັກງານ! ໂວ້! ມັນເຖິງເວລາ ສໍາ ລັບພະນັກງານ
+. ດຽວນີ້ນັກວິຊາການປິ່ນປົວເຈົ້າ. Hallelujah!
+
+122
+00:08:03,250 --> 00:08:06,750
+[COLE]
+This is a place for crazy people!  I'm not crazy!
+ນີ້ແມ່ນບ່ອນ ສໍາ ລັບຄົນໂຊກຮ້າຍ! ຂ້ອຍບໍ່ແມ່ນຄົນໂສກໃຈ!
+
+123
+00:08:07,250 --> 00:08:09,700
+[RESIDENT #1]
+We don't use that term..."crazy", Mr. Cole.
+ພວກເຮົາບໍ່ໃຊ້ຄໍາວ່ານັ້ນ..."ໂຊກຮ້າຍ", ທ້າວໂກລ.
+
+124
+00:08:10,200 --> 00:08:16,200
+[COLE]
+Well, you've got some real nuts in here! Listen to me, all of you -- I have to tell you something that's going to be difficult for you to understand, but...
+ດີ, ເຈົ້າມີ ຫມາກ ນັດທີ່ແທ້ຈິງຢູ່ບ່ອນນີ້! ຟັງຂ້ອຍ, ທຸກຄົນ -
+ຂ້ອຍຕ້ອງບອກເຈົ້າບາງສິ່ງບາງຢ່າງທີ່ຈະຍາກ ສໍາ ລັບເຈົ້າທີ່ຈະເຂົ້າໃຈ, ແຕ່...
+
+125
+00:08:16,700 --> 00:08:20,900
+[DR. RAILLY]
+James...please.  These are all doctors here and we want to help you.
+ເຈມສ໌... ກະລຸນາ. ນີ້ແມ່ນຫມໍທັງ ຫມົດ
+ຢູ່ບ່ອນນີ້ແລະພວກເຮົາຢາກຊ່ວຍເຈົ້າ.
+
+126
+00:08:21,400 --> 00:08:27,400
+[DR. FLETCHER]
+Mr. Cole -- last night you told Dr. Railly you thought it was...  1995. ... How about right now?  Do you know what year it is right now?
+ທ່ານ ຄໍລ໌ - ໃນມື້ວານນີ້ທ່ານບອກດຣ ຣາລີວ່າທ່ານຄິດວ່າມັນເປັນ... ປີ
+1995.... ຈະເປັນແນວໃດໃນເວລານີ້? ເຈົ້າຮູ້ວ່າມັນເປັນປີໃດດຽວນີ້ບໍ?
+
+127
+00:08:27,900 --> 00:08:33,500
+[COLE]
+1989.  Look, I'm not confused.  There's been a mistake, I've been sent to the wrong place.
+ປີ 1989. ເບິ່ງ, ຂ້ອຍບໍ່ສັບສົນ. ມີຄວາມຜິດພາດ
+, ຂ້ອຍຖືກສົ່ງໄປບ່ອນທີ່ບໍ່ຖືກຕ້ອງ.
+
+128
+00:08:34,000 --> 00:08:36,450
+[COLE]
+Hey, I'm not going to hurt anybody.
+ເຮ້, ຂ້ອຍຈະບໍ່ເຮັດໃຫ້ໃຜເຈັບປວດ.
+
+129
+00:08:36,950 --> 00:08:42,950
+[COLE]
+Do any of you know anything about the Army of the Twelve Monkeys?  They paint this, stencil it, on buildings, all over the place.
+ມີໃຜຮູ້ຫຍັງກ່ຽວກັບກອງທັບແມວສິບສອງຄົນບໍ?
+ພວກເຂົາແຕ້ມຮູບນີ້, stencil ມັນ, ໃນອາຄານ, ທົ່ວທຸກບ່ອນ.
+
+130
+00:08:43,450 --> 00:08:45,450
+[DR. CASEY]
+Mr. Cole...
+ທ້າວ ຄໍລ...
+
+131
+00:08:45,950 --> 00:08:51,950
+[COLE]
+Right.  I guess you wouldn't, this is 1989, they're probably not active yet. That makes sense!  Okay.  Listen to me, three billion people died in 1995. Three billion, got that?  Almost the whole population.  Of the world! Only about one percent survived.
+ແມ່ນແລ້ວ. ຂ້ອຍຄິດວ່າເຈົ້າຈະບໍ່ເຮັດ, ນີ້ແມ່ນປີ 1989, ພວກເຂົາອາດຈະບໍ່ເຄື່ອນໄຫວເທື່ອ. ມັນມີຄວາມ ຫມາຍ! ດີ. ຟັງຂ້ອຍ,
+ປະຊາຊົນສາມພັນລ້ານຄົນຕາຍໃນປີ 1995. ສາມພັນລື້ຄົນ, ເຂົ້າໃຈບໍ? ເກືອບປະຊາກອນທັງ ຫມົດ ຂອງໂລກ! ພຽງແຕ່ປະມານ ຫນຶ່ງ ເປີເຊັນທີ່ລອດຊີວິດ.
+
+132
+00:08:52,450 --> 00:08:55,250
+[RESIDENT #2]
+Are you going to save us, Mr. Cole?
+ເຈົ້າຈະຊ່ວຍພວກເຮົາບໍ, ທ້າວໂກລ?
+
+133
+00:08:55,750 --> 00:09:01,750
+[COLE]
+Save you?  How can I save you?  It already happened!  I can't save you.  I'm simply trying to get some information for people in the present so that someday...  You don't believe me.  You think I'm crazy.  But I'm not crazy.  I'm a convict, sure, I have a quick temper, but I'm as sane as anyone in this room.  I...
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ແນວໃດ? ມັນເກີດຂຶ້ນແລ້ວ! ຂ້ອຍບໍ່ສາມາດຊ່ວຍເຈົ້າບໍ່ໄດ້. ຂ້ອຍພຽງແຕ່ພະຍາຍາມທີ່ຈະໄດ້ຮັບຂໍ້ມູນບາງຢ່າງ ສໍາ ລັບຄົນໃນປະຈຸບັນເພື່ອວ່າມື້ຫນຶ່ງ...
+ເຈົ້າບໍ່ເຊື່ອຂ້ອຍ. ເຈົ້າຄິດວ່າຂ້ອຍໂຊກຮ້າຍ. ແຕ່ຂ້ອຍບໍ່ແມ່ນໂຊຄຮ້າຍ. ຂ້ອຍເປັນນັກໂທດ, ແນ່ນອນ, ຂ້ອຍມີຄວາມໂຊມຮ້າຍໄວ, ແຕ່ຂ້ອຍມີສະຕິປັນຍາຄືກັບໃຜໃນຫ້ອງນີ້. ຂ້ອຍ...
+
+134
+00:09:02,250 --> 00:09:06,450
+[DR. RAILLY]
+Can you tell us the name of the prison you've come from?
+ເຈົ້າບອກພວກເຮົາຊື່ຄຸກທີ່ເຈົ້າມາຈາກໄດ້ບໍ?
+
+135
+00:09:06,950 --> 00:09:09,050
+[DR. FLETCHER]
+Does this bother you, Mr. Cole?
+ນີ້ກັງວົນເຈົ້າບໍ, ທ້າວໂກລ?
+
+136
+00:09:09,550 --> 00:09:15,550
+[COLE]
+No!  Look, I don't belong here!  What I need to do is make a telephone call to straighten everything out.
+ບໍ່! ເບິ່ງ, ຂ້ອຍບໍ່ຂຶ້ນກັບບ່ອນນີ້!
+ສິ່ງທີ່ຂ້ອຍຕ້ອງເຮັດແມ່ນໂທຫາໂທລະສັບເພື່ອແກ້ໄຂທຸກຢ່າງ.
+
+137
+00:09:16,050 --> 00:09:19,900
+[DR. FLETCHER]
+Who would you call, Mr. Cole, who would straighten everything out?
+ເຈົ້າຈະໂທຫາໃຜ, ທ້າວໂກລ, ຜູ້ທີ່ຈະແກ້ໄຂທຸກຢ່າງ?
+
+138
+00:09:20,400 --> 00:09:26,400
+[COLE]
+Scientists.  I'm supposed to report in to them.  They'll want to know they sent me to the wrong time.
+ພວກນັກວິທະຍາສາດ. ຂ້ອຍຄວນລາຍງານໃຫ້ພວກເຂົາ.
+ພວກເຂົາຈະຢາກຮູ້ວ່າພວກເຂົາສົ່ງຂ້ອຍໄປໃນເວລາທີ່ບໍ່ຖືກຕ້ອງ.
+
+139
+00:09:26,900 --> 00:09:32,500
+[DR. FLETCHER]
+So you could talk to these scientists and they do what?  Send you to the future?
+ສະນັ້ນເຈົ້າສາມາດເວົ້າກັບນັກວິທະຍາສາດເຫຼົ່ານີ້ແລະພວກເຂົາເຮັດຫຍັງ
+? ສົ່ງເຈົ້າໄປໃນອະນາຄົດບໍ?
+
+140
+00:09:33,000 --> 00:09:39,000
+[COLE]
+No, no.  I can't talk to them.  It's called, "voice mail".  I'm supposed to leave messages. They monitor it from the present.
+ບໍ່, ບໍ່. ຂ້ອຍບໍ່ສາມາດເວົ້າກັບພວກເຂົາໄດ້. ມັນເອີ້ນວ່າ
+,"ຈົດຫມາຍສຽງ". ຂ້ອຍຄວນປ່ອຍຂໍ້ຄວາມ. ພວກເຂົາຕິດຕາມມັນຈາກປະຈຸບັນ.
+
+141
+00:09:39,500 --> 00:09:43,350
+[RESIDENT #2]
+"From the present."  We're not in the present now, Mr. Cole?
+ຈາກປະຈຸບັນ. ພວກເຮົາບໍ່ໄດ້ຢູ່ໃນປະຈຸບັນດຽວນີ້, ທ້າວໂກລ?
+
+142
+00:09:43,850 --> 00:09:47,700
+[COLE]
+No, no.  This is the past.  This has already happened.  Listen...
+ບໍ່, ບໍ່. ນີ້ແມ່ນອະດີດ. ນີ້ແມ່ນເກີດຂຶ້ນແລ້ວ. ຟັງ...
+
+143
+00:09:48,200 --> 00:09:52,750
+[RESIDENT #3]
+Mr. Cole, you belong in 1995 -- that's the present, is that it?
+ທ່ານ ຄໍລ໌, ເຈົ້າຂຶ້ນກັບປີ 1995 - ນັ້ນແມ່ນປະຈຸບັນ, ແມ່ນບໍ?
+
+144
+00:09:53,250 --> 00:09:55,700
+[COLE]
+No, 1995 is the past, too.  Look...
+ບໍ່, ປີ 1995 ແມ່ນອະດີດເຊັ່ນກັນ. ເບິ່ງ...
+
+145
+00:09:56,200 --> 00:09:59,350
+[DR. FLETCHER]
+These scientists, Mr. Cole?  Are they doctors like ourselves?
+ພວກນັກວິທະຍາສາດເຫຼົ່ານີ້, ທ້າວໂກລ? ພວກເຂົາເປັນຫມໍຄືກັບພວກເຮົາບໍ?
+
+146
+00:09:59,850 --> 00:10:05,850
+[COLE]
+No!  I mean yes, but... Look, I've been given a lot of drugs but I'm still perfectly lucid. You have to let me use the phone.  One call!
+ບໍ່! ຂ້ອຍຫມາຍຄວາມວ່າແມ່ນແລ້ວ, ແຕ່... ເບິ່ງ,
+ຂ້ອຍໄດ້ຮັບຢາເສບຕິດຫຼາຍຢ່າງແຕ່ຂ້ອຍຍັງມີຄວາມສະອາດຢ່າງສົມບູນແບບ. ເຈົ້າຕ້ອງປ່ອຍໃຫ້ຂ້ອຍໃຊ້ໂທລະສັບ. ການໂທດຽວ!
+
+147
+00:10:06,350 --> 00:10:12,350
+[MOTHER]
+Yes?  Whaaaaat?  "Voice mail"!  I don't know what you're talkin' about. ... Is this a joke?  I don't know any scientists. James who?  Never heard of you!
+ແມ່ນແລ້ວ? Whaaaaat?"ຈົດຫມາຍສຽງ"! ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ....
+ນີ້ແມ່ນຢອກຊື່ໆບໍ? ຂ້ອຍບໍ່ຮູ້ຈັກນັກວິທະຍາສາດໃດໆ. ເຈມສ໌ໃຜ? ບໍ່ເຄີຍໄດ້ຍິນເຈົ້າເລີຍ!
+
+148
+00:10:12,850 --> 00:10:14,850
+[RAILLY]
+It wasn't who you expected?
+ມັນບໍ່ແມ່ນຄົນທີ່ເຈົ້າຄາດຫວັງບໍ?
+
+149
+00:10:15,350 --> 00:10:18,150
+[COLE]
+It was some lady.  She didn't know anything.
+ມັນເປັນແມ່ຍິງບາງຄົນ. ນາງບໍ່ຮູ້ຫຍັງເລີຍ.
+
+150
+00:10:18,650 --> 00:10:20,750
+[RAILLY]
+Perhaps it was a wrong number...
+ບາງທີມັນເປັນເລກທີ່ບໍ່ຖືກຕ້ອງ...
+
+151
+00:10:21,250 --> 00:10:25,100
+[COLE]
+No.  That's the reason they chose me -- I remember things.
+ບໍ່. ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຂົາເລືອກຂ້ອຍ - ຂ້ອຍຈື່ສິ່ງບາງຢ່າງ.
+
+152
+00:10:25,600 --> 00:10:29,800
+[RAILLY]
+James, where did you grow up?  Was it around here?  Around Baltimore?
+ເຈມສ໌, ເຈົ້າເຕີບໃຫຍ່ຢູ່ໃສ? ມັນຢູ່ບ່ອນນີ້ບໍ? ຢູ່ອ້ອມແອ້ມບາລຕິມໍບໍ?
+
+153
+00:10:30,300 --> 00:10:32,300
+[COLE]
+What?
+ຫຍັງ?
+
+154
+00:10:32,800 --> 00:10:38,050
+[RAILLY]
+I have the...strangest feeling I've met you before...a long time ago, perhaps. Were you ever...?
+ຂ້ອຍມີຄວາມຮູ້ສຶກທີ່ແປກໃຈທີ່ສຸດທີ່ຂ້ອຍເຄີຍພົບເຈົ້າກ່ອນ
+... ດົນນານແລ້ວ, ບາງທີ. ເຈົ້າເຄີຍ...?
+
+155
+00:10:38,550 --> 00:10:44,550
+[COLE]
+Wait!  This is only 1989!  I'm supposed to be leaving messages in 1995.  It's not the right number yet.  That's the problem.  Damn!  How can I contact them?
+ລໍຖ້າ! ນີ້ແມ່ນພຽງແຕ່ປີ 1989! ຂ້ອຍຄວນຈະປ່ອຍຂໍ້ຄວາມໃນປີ 1995.
+ມັນຍັງບໍ່ແມ່ນເບີທີ່ຖືກຕ້ອງເທື່ອ. ນັ້ນແມ່ນບັນຫາ. ສະບາຍດີ! ຂ້ອຍສາມາດຕິດຕໍ່ຫາພວກເຂົາໄດ້ແນວໃດ?
+
+156
+00:10:45,050 --> 00:10:51,050
+[RAILLY]
+James, take these.  Please -- I helped you like I said I would.  Now I want you to trust me.
+ເຈມສ໌, ເອົາສິ່ງເຫຼົ່ານີ້. ກະລຸນາ -
+ຂ້ອຍຊ່ວຍເຈົ້າຕາມທີ່ຂ້ອຍບອກວ່າຂ້ອຍຈະເຮັດ. ດຽວນີ້ຂ້ອຍຢາກໃຫ້ເຈົ້າເຊື່ອຂ້ອຍ.
+
+157
+00:10:51,550 --> 00:10:55,750
+[JEFFREY]
+You think you can remove the grill but you can't.  It's welded.
+ເຈົ້າຄິດວ່າເຈົ້າສາມາດເອົາກຣີລໄດ້ແຕ່ເຈົ້າບໍ່ສາມາດເຮັດໄດ້
+. ມັນຖືກເຊື່ອມໂລຫະ.
+
+158
+00:10:56,250 --> 00:11:02,250
+[JEFFREY]
+See?  I toldja.  And all the doors are locked, too.  They're protecting the people on the outside from us.  But the people outside are as crazy as us.
+ເຈົ້າເຫັນບໍ? ຂ້ອຍບອກເຈົ້າ. ແລະປະຕູທັງ ຫມົດ ຖືກລັອກໄວ້ເຊັ່ນກັນ. ພວກເຂົາ
+ກໍາ ລັງປົກປ້ອງຄົນຢູ່ພາຍນອກຈາກພວກເຮົາ. ແຕ່ຄົນຢູ່ນອກແມ່ນໂຊກຮ້າຍຄືກັບພວກເຮົາ.
+
+159
+00:11:02,750 --> 00:11:07,300
+[JEFFREY]
+You know what "crazy" is?  "crazy" is "majority rules".  Take germs for example.
+ເຈົ້າຮູ້ແລ້ວວ່າ"ໂຊກຮ້າຍ" ແມ່ນຫຍັງ?"ໂ ຊກຮ້າຍ"
+ແມ່ນ" ກົດລະບຽບສ່ວນໃຫຍ່". ເອົາເຊື້ອແມວເປັນຕົວຢ່າງ.
+
+160
+00:11:07,800 --> 00:11:09,800
+[COLE]
+Germs?!
+ແບຣກແມວບໍ?
+
+161
+00:11:10,300 --> 00:11:16,300
+[JEFFREY]
+In the 18th century there was no such thing!  Nobody'd ever imagined such a thing -- no sane person anyway.  Along comes this doctor...Semmelweiss, I think.  He tries to convince people... other doctors mostly...that there are these teeny tiny invisible "bad things" called germs that get into your body and make you...sick!  He's trying to get doctors to wash their hands.  What is this guy...crazy?  Teeny tiny invisible whaddayou call 'em?..."germs"!
+ໃນສະຕະວັດທີ 18 ບໍ່ມີສິ່ງດັ່ງກ່າວ! ບໍ່ມີໃຜເຄີຍຄິດສິ່ງດັ່ງກ່າວເລີຍ - ບໍ່ມີຄົນທີ່ມີສະຕິປັນຍາຢ່າງໃດກໍ່ຕາມ. ມີຫມໍຄົນນີ້ມາພ້ອມ... ເຊເມລເວສ, ຂ້ອຍຄິດວ່າ. ລາວພະຍາຍາມຊັກຊວນຄົນ... ຫມໍຄົນອື່ນສ່ວນໃຫຍ່...
+ວ່າມີສິ່ງນ້ອຍໆທີ່ເບິ່ງບໍ່ເຫັນທີ່ເອີ້ນວ່າ"ສິ່ງບໍ່ດີ" ທີ່ເຂົ້າໄປໃນຮ່າງກາຍຂອງທ່ານແລະເຮັດໃຫ້ທ່ານ... ເຈັບປ່ວຍ! ລາວ ກໍາ ລັງພະຍາຍາມເຮັດໃຫ້ຫມໍລ້າງມືຂອງພວກເຂົາ. ຜູ້ຊາຍຄົນນີ້... ໂຊກຮ້າຍຫຍັງ? ສິ່ງທີ່ເຈົ້າເອີ້ນວ່າພວກມັນ?..."
+
+162
+00:11:16,800 --> 00:11:22,800
+[JEFFREY]
+"What about the germs?"  I say.  He goes, "I don't believe in germs.  Germs are just a plot they made up so they can sell you disinfectants and soap!" Now, he's crazy, right?  Hey, you believe in germs, don't you?
+ຂ້ອຍຖາມວ່າ"ແມັກຊີມິນແນວໃດ?" ລາວເວົ້າວ່າ,"ຂ້ອຍບໍ່ເຊື່ອໃນແມກຊີມີນ.
+ແມັກຊິມິນແມ່ນພຽງແຕ່ກະທູ້ທີ່ພວກເຂົາສ້າງຂຶ້ນເພື່ອໃຫ້ພວກເຂົາສາມາດຂາຍຢາຂ້າເຊື້ອແລະຊັບປິນໃຫ້ເຈົ້າໄດ້!" ດຽວນີ້, ລາວໂຊກຮ້າຍ, ແມ່ນບໍ? ເຮ້, ເຈົ້າເຊື່ອຢູ່ໃນແມວ, ບໍ່?
+
+163
+00:11:23,300 --> 00:11:25,300
+[COLE]
+I'm not crazy.
+ຂ້ອຍບໍ່ແມ່ນຄົນໂຊກຮ້າຍ.
+
+164
+00:11:25,800 --> 00:11:31,800
+[JEFFREY]
+Of course not, I never thought you were. You want to escape, right?  That's very sane.  I can help you.  You want me to, don't you?  Get you out?
+ແນ່ນອນວ່າບໍ່ແມ່ນ, ຂ້ອຍບໍ່ເຄີຍຄິດວ່າເຈົ້າເປັນ. ເຈົ້າຢາກຫນີ, ແມ່ນບໍ? ນັ້ນແມ່ນສະຕິປັນຍາຫຼາຍ
+. ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້. ເຈົ້າຕ້ອງການໃຫ້ຂ້ອຍເຮັດ, ເຈົ້າບໍ່? ເອົາເຈົ້າອອກບໍ?
+
+165
+00:11:32,300 --> 00:11:35,450
+[COLE]
+If you know how to escape, why don't you...?
+ຖ້າເຈົ້າຮູ້ວິທີຫນີ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່...?
+
+166
+00:11:35,950 --> 00:11:41,950
+[JEFFREY]
+Why don't I escape, that's what you were going to ask me, right?  'Cause I'd be crazy to escape!  I'm all taken care of, see?  I've sent out word.
+ເປັນຫຍັງຂ້ອຍຈຶ່ງບໍ່ຫນີ, ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຈະຖາມຂ້ອຍ, ແມ່ນບໍ? ເພາະວ່າຂ້ອຍຈະໂຊກຮ້າຍທີ່ຈະຫນີ
+! ຂ້ອຍໄດ້ຮັບການເບິ່ງແຍງທັງ ຫມົດ, ເບິ່ງບໍ? ຂ້ອຍໄດ້ສົ່ງຂ່າວອອກແລ້ວ.
+
+167
+00:11:42,450 --> 00:11:44,450
+[COLE]
+What's that mean?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ?
+
+168
+00:11:44,950 --> 00:11:50,950
+[JEFFREY]
+I've managed to contact certain underlings, evil spirits, secretaries of secretaries, and assorted minions, who will contact my father. When he learns I'm in this kind of place, he'll have them transfer me to one of those classy joints where they treat you...properly. LIKE A GUEST!  LIKE A PERSON!  SHEETS! TOWELS!  LIKE A BIG HOTEL WITH GREAT DRUGS FOR THE NUT CASE LUNATIC MANIAC DEVILS...
+ຂ້ອຍສາມາດຕິດຕໍ່ພະນັກງານພາຍໃຕ້ບາງຄົນ, ຈິດວິນຍານຮ້າຍແຮງ, ເລຂາທິການຂອງເລຂາ, ແລະຄົນຮັບໃຊ້ທີ່ຫຼາກຫຼາຍ, ຜູ້ທີ່ຈະຕິດຕໍ່ກັບພໍ່ຂອງຂ້ອຍ. ເມື່ອລາວຮູ້ວ່າຂ້ອຍຢູ່ໃນສະຖານທີ່ປະເພດນີ້,
+ລາວຈະໃຫ້ພວກເຂົາໂອນຂ້ອຍໄປບ່ອນ ຫນຶ່ງ ໃນບັນດາສ່ວນແບ່ງປັນທີ່ມີສະໄຫມທີ່ພວກເຂົາປິ່ນປົວເຈົ້າ... ຢ່າງຖືກຕ້ອງ. ເປັນແຂກ! ເປັນຄົນ! ແຜ່ນ! ກະເປົາ! ຄືກັບໂຮງແຮມໃຫຍ່ທີ່ມີຢາເສບຕິດທີ່ຍິ່ງໃຫຍ່ ສໍາ ລັບກໍລະນີໂຊກແຊ
+
+169
+00:11:51,450 --> 00:11:57,450
+[JEFFREY]
+Sorry.  Really sorry.  Got a little agitated.  The thought of escaping crossed my mind and suddenly...suddenly I felt LIKE BENDING THE FUCKING BARS BACK, RIPPING OFF THE GODDAMN WINDOW FRAMES AND...EATING THEM, YES, EATING THEM, AND LEAPING, LEAPING...
+ຂໍໂທດ. ຂໍໂທດແທ້ໆ. ໄດ້ກະຕຸ້ນເລັກນ້ອຍ. ຄວາມຄິດທີ່ຈະຫນີໄດ້ຂ້າມຈິດໃຈຂອງຂ້ອຍແລະທັນທີ...
+ທັນທີຂ້ອຍຮູ້ສຶກວ່າຢາກບິດແບຣ໌ທີ່ໂຊກຮ້າຍກັບຄືນໄປບ່ອນ, ເອົາກອບປ່ອງຢ້ຽມຂອງພຣະເຈົ້າແລະ... ກິນພວກເຂົາ, ແມ່ນແລ້ວ, ກິນພວກມັນ, ແລະໂດດ, ໂດດ...
+
+170
+00:11:57,950 --> 00:12:03,950
+[JEFFREY]
+You dumb assholes!  I'm a mental patient! I'm supposed to act out.  Wait til you morons find out who I am.  My father's gonna be really upset.  AND WHEN MY FATHER GETS UPSET, THE GROUND SHAKES! MY FATHER IS GOD!  I WORSHIP MY FATHER.
+ພວກເຈົ້າຄົນຢອກຊື່ໆ ແຊງແຊນແຊມແຊ້ງແຊງ! ຂ້ອຍເປັນຄົນເຈັບຈິດໃຈ! ຂ້ອຍຄວນປະຕິບັດງານອອກ
+. ລໍຖ້າຈົນກວ່າເຈົ້າໂຊຄແຊບແຊວແຊ້ມແຊ່ງແຊ່ແຊ້ແຊະແຊ້ນແຊດແຊຊຊ໌ແຊ
+
+171
+00:12:04,450 --> 00:12:06,450
+[COLE]
+They hurt you!
+ພວກເຂົາເຮັດໃຫ້ເຈົ້າເຈັບປວດ!
+
+172
+00:12:06,950 --> 00:12:10,100
+[JEFFREY]
+Not as bad as what they're doing to kitty.
+ບໍ່ຮ້າຍແຮງເທົ່າກັບສິ່ງທີ່ພວກເຂົາ ກໍາ ລັງເຮັດກັບແມວ.
+
+173
+00:12:10,600 --> 00:12:15,850
+[COLE]
+Look at those assholes, they're asking for it!  Maybe people deserved to be wiped out!
+ເບິ່ງຄົນໂຊກຮ້າຍເຫລົ່ານັ້ນແມ, ພວກເຂົາ
+ກໍາ ລັງຂໍມັນ! ບາງທີຄົນຄວນຖືກລົບລ້າງ!
+
+174
+00:12:16,350 --> 00:12:22,350
+[JEFFREY]
+Wiping cut the human race!  That's a great idea!  But it's more of a long term thing -- right now we have to focus on more immediate goals.  I didn't say a word about "you know what".
+ການລ້າງຕັດເຊື້ອຊາດມະນຸດ! ນັ້ນແມ່ນຄວາມຄິດທີ່ດີເລີດ! ແຕ່ມັນເປັນເລື່ອງໄລຍະຍາວຫຼາຍຂຶ້ນ -
+ດຽວນີ້ພວກເຮົາຕ້ອງສຸມໃສ່ເປົ້າຫມາຍທີ່ທັນທີຫຼາຍຂຶ້ນ. ຂ້ອຍບໍ່ໄດ້ເວົ້າຫຍັງກ່ຽວກັບ"ເຈົ້າຮູ້ຫຍັງ".
+
+175
+00:12:22,850 --> 00:12:24,850
+[COLE]
+What are you talking about???
+ເຈົ້າເວົ້າຫຍັງຢູ່???
+
+176
+00:12:25,350 --> 00:12:27,350
+[JEFFREY]
+You know -- your plan.
+ເຈົ້າຮູ້ແລ້ວ - ແຜນການຂອງທ່ານ.
+
+177
+00:12:27,850 --> 00:12:29,950
+[JEFFREY]
+What're you writing?  You a reporter?
+ເຈົ້າຂຽນຫຍັງ? ເຈົ້າເປັນນັກຂ່າວບໍ?
+
+178
+00:12:30,450 --> 00:12:32,450
+[COLE]
+It's private.
+ມັນເປັນເລື່ອງສ່ວນຕົວ.
+
+179
+00:12:32,950 --> 00:12:35,400
+[JEFFREY]
+A lawsuit?  You going to sue them?
+ເຈົ້າຈະຟ້ອງຮ້ອງພວກເຂົາບໍ?
+
+180
+00:12:35,900 --> 00:12:38,700
+[BILLINGS]
+Yo, James -- time to take your meds.
+ໂຢ, ເຈມສ໌ - ມັນເຖິງເວລາທີ່ຈະກິນຢາຂອງທ່ານ.
+
+181
+00:12:39,200 --> 00:12:41,650
+[JEFFREY]
+Get it?  Monk - Key.  Monk!  Key!
+ເຂົ້າໃຈບໍ? ໂມນກ໌ - ປຸ່ມປຸ່ມ. Monk! ປຸ່ມ!
+
+182
+00:12:42,150 --> 00:12:44,150
+[COLE]
+What....???
+ຫຍັງ....???
+
+183
+00:12:44,650 --> 00:12:50,650
+[JEFFREY]
+Wooooo, they really dosed you, bro. Major load!  Listen up -- try and get it together.  Focus!  Focus!  The plan! Remember?  I did my part.
+Wooooo, ພວກເຂົາໄດ້ດອກຢາເຈົ້າແທ້ໆ, ອ້າຍ. ການໂຫຼດໃຫຍ່! ຟັງຂຶ້ນ -
+ພະຍາຍາມແລະເຮັດໃຫ້ມັນພ້ອມກັນ. ສຸມໃສ່! ສຸມໃສ່ມັນ! ແຜນການ! ຈື່ໄວ້ບໍ? ຂ້ອຍເຮັດສ່ວນຂອງຂ້ອຍ.
+
+184
+00:12:51,150 --> 00:12:53,150
+[COLE]
+What...???
+ຫຍັງ...???
+
+185
+00:12:53,650 --> 00:12:55,650
+[JEFFREY]
+Not, "what", babe!  When!
+ບໍ່ແມ່ນ,"ຫຍັງ", ແມ! ເມື່ອໃດ!
+
+186
+00:12:56,150 --> 00:12:58,150
+[JEFFREY]
+Now!
+ດຽວນີ້!
+
+187
+00:12:58,650 --> 00:13:01,450
+[BILLINGS]
+God damn you, Jeffrey, quit playing the fool.
+ສະຫວັນນະເຂດ, ເຈຟຣີ, ຢຸດການຫຼິ້ນຄົນໂງ່.
+
+188
+00:13:01,950 --> 00:13:06,500
+[PATIENT]
+Place to go would be...Florida.  The keys are lovely this tine of year.
+ບ່ອນທີ່ຈະໄປແມ່ນ... ຟລໍຣິດາ. ປຸ່ມແມ່ນສວຍງາມໃນສິບປີນີ້.
+
+189
+00:13:07,000 --> 00:13:09,800
+[PATIENT]
+Be careful.  J. Edgar Hoover isn't really dead.
+ລະມັດລະວັງ. ເຈີ ເອດກາຮູເວີບໍ່ໄດ້ຕາຍແທ້ໆ.
+
+190
+00:13:10,300 --> 00:13:15,900
+[DR. CASEY]
+This was in my box, but I have a slight suspicion it wasn't meant for me.
+ນີ້ແມ່ນຢູ່ໃນກ່ອງຂອງຂ້ອຍ, ແຕ່ຂ້ອຍມີຄວາມສົງໄສເລັກນ້ອຍວ່າມັນບໍ່ໄດ້
+ຫມາຍ ຄວາມວ່າ ສໍາ ລັບຂ້ອຍ.
+
+191
+00:13:16,400 --> 00:13:22,400
+[DR. CASEY]
+"You are the most beautiful woman I have ever seen.  You live in a beautiful world.  But you don't know it.  You have freedom, sunshine, air you can breathe."
+ເຈົ້າເປັນແມ່ຍິງທີ່ສວຍງາມທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນ. ເຈົ້າອາໄສຢູ່ໃນໂລກທີ່ສົດໃສ
+. ແຕ່ເຈົ້າບໍ່ຮູ້ມັນ. ເຈົ້າມີເສລີພາບ, ແສງແດດ, ອາກາດທີ່ທ່ານສາມາດຫາຍໃຈໄດ້.
+
+192
+00:13:22,900 --> 00:13:24,900
+[RAILLY]
+Cole.  James Cole -- right?
+ຄໍລ໌. ເຈມສ໌ ຄອນລ໌ - ແມ່ນບໍ?
+
+193
+00:13:25,400 --> 00:13:30,300
+[DR. CASEY]
+"I would do anything to stay here, but I must leave.  Please, help me."
+ຂ້ອຍຈະເຮັດທຸກຢ່າງເພື່ອຢູ່ບ່ອນນີ້,
+ແຕ່ຂ້ອຍຕ້ອງອອກຈາກ. ກະລຸນາ, ຊ່ວຍຂ້ອຍ.
+
+194
+00:13:30,800 --> 00:13:32,800
+[RAILLY]
+Poor man...
+ຜູ້ທຸກຍາກ...
+
+195
+00:13:33,300 --> 00:13:36,450
+[DR. GOODINS]
+Hey, Kathryn, James Cole is one of yours, right?
+ເຮ້, ຄາຕຣິນ, ເຈມສ໌ ຄໍລ໌ແມ່ນຄົນຂອງເຈົ້າ, ແມ່ນບໍ?
+
+196
+00:13:36,950 --> 00:13:41,150
+[DR. GOODINS]
+He got out.  Took off.  Last seen, he was up on nine.
+ລາວອອກໄປ. ອອກໄປ. ເຫັນຄັ້ງສຸດທ້າຍ, ລາວຢູ່ເທິງເກົ້າ.
+
+197
+00:13:41,650 --> 00:13:47,250
+[DOCTOR]
+Just relax -- don't fight it.  We have to know exactly what's there so we can...
+ພຽງແຕ່ຜ່ອນຄາຍ - ຢ່າຕໍ່ສູ້ກັບມັນ.
+ພວກເຮົາຕ້ອງຮູ້ຢ່າງແນ່ນອນວ່າມີຫຍັງຢູ່ບ່ອນນັ້ນເພື່ອໃຫ້ພວກເຮົາສາມາດ...
+
+198
+00:13:47,750 --> 00:13:50,200
+[DOCTOR]
+Eh, excuse me.  Can I help you?
+ເອ້, ຂໍໂທດຂ້ອຍ. ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ບໍ?
+
+199
+00:13:50,700 --> 00:13:53,150
+[RAILLY]
+It's just a shot to calm you.
+ມັນພຽງແຕ່ເປັນການຍິງເພື່ອເຮັດໃຫ້ເຈົ້າສະຫງົບໃຈ.
+
+200
+00:13:53,650 --> 00:13:55,650
+[COLE]
+No more drugs.  Please...
+ບໍ່ມີຢາເສບຕິດອີກຕໍ່ໄປ. ກະລຸນາ...
+
+201
+00:13:56,150 --> 00:13:59,300
+[RAILLY]
+I have to do this, James.  You're very confused.
+ຂ້ອຍຕ້ອງເຮັດສິ່ງນີ້, ເຈມສ໌. ເຈົ້າສັບສົນຫຼາຍ.
+
+202
+00:13:59,800 --> 00:14:02,600
+[DR. FLETCHER]
+Don't be defensive, Kathryn, this isn't an inquisition.
+ຢ່າເປັນການປ້ອງກັນ, ຄາຕຣິນ, ນີ້ແມ່ນບໍ່ແມ່ນການສອບສວນ.
+
+203
+00:14:03,100 --> 00:14:06,600
+[RAILLY]
+I didn't think I was being defensive. I was just...
+ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍ ກໍາ ລັງປ້ອງກັນຕົວ. ຂ້ອຍພຽງແຕ່...
+
+204
+00:14:07,100 --> 00:14:13,100
+[DR. FLETCHER]
+He should have been in restraints.  It was bad judgment on your part, plain and simple.  why not just cop to it?
+ລາວຄວນຢູ່ໃນການຈໍາກັດ. ມັນເປັນການຕັດສິນໃຈທີ່ບໍ່ດີຈາກສ່ວນຂອງທ່ານ
+, ງ່າຍດາຍແລະງ່າຍດາຍ. ເປັນຫຍັງບໍ່ພຽງແຕ່ຕໍາຫຼວດມັນ?
+
+205
+00:14:13,600 --> 00:14:19,600
+[RAILLY]
+Okay, it was bad judgment.  But I have the strangest feeling about him -- I've seen him somewhere and...
+ດີແລ້ວ, ມັນເປັນການຕັດສິນໃຈທີ່ບໍ່ດີ.
+ແຕ່ຂ້ອຍມີຄວາມຮູ້ສຶກທີ່ແປກໃຈທີ່ສຸດກ່ຽວກັບລາວ - ຂ້ອຍເຄີຍເຫັນລາວຢູ່ບ່ອນໃດແລະ...
+
+206
+00:14:20,100 --> 00:14:26,100
+[DR. FLETCHER]
+Two policemen were already in the hospital and now we have an orderly with a broken arm and a Security Officer with a fractured skull.
+ເຈົ້າຫນ້າທີ່ຕໍາຫຼວດສອງຄົນຢູ່ໂຮງຫມໍແລ້ວ ແລະ
+ດຽວນີ້ພວກເຮົາມີເຈົ້າຫນ້າທີ່ຮັກສາສຸຂະພາບທີ່ມີແຂນແຕກ ແລະ ເຈົ້າຫນ້າທີ່ຄວາມປອດໄພທີ່ມີຫົວຫົວແຕກ.
+
+207
+00:14:26,600 --> 00:14:31,500
+[RAILLY]
+I said it was bad judgment!  What else do you want me to say?
+ຂ້ອຍບອກວ່າມັນເປັນການຕັດສິນໃຈທີ່ບໍ່ດີ
+! ເຈົ້າຢາກໃຫ້ຂ້ອຍເວົ້າຫຍັງອີກ?
+
+208
+00:14:32,000 --> 00:14:36,550
+[DR. FLETCHER]
+You see what I mean?  You're being defensive.  Isn't she being defensive, Bob?
+ເຈົ້າເຫັນວ່າຂ້ອຍຫມາຍຄວາມວ່າແນວໃດ? ເຈົ້າ ກໍາ
+ລັງປ້ອງກັນຕົວ. ນາງບໍ່ໄດ້ປ້ອງກັນໂຕບໍ, ໂບບ?
+
+209
+00:14:37,050 --> 00:14:39,850
+[BILLINGS]
+Uh, Dr. Fletcher -- we got another... situation.
+ໂອ້, ດຣ ຟເລສເຕີ - ພວກເຮົາມີອີກ... ສະຖານະການ.
+
+210
+00:14:40,350 --> 00:14:43,850
+[DR. FLETCHER]
+He was in full restraints?  And the door was locked?
+ລາວຖືກຄວບຄຸມຢ່າງເຕັມທີ່ບໍ? ແລະປະຕູຖືກລັອກບໍ?
+
+211
+00:14:44,350 --> 00:14:46,350
+[BILLINGS]
+Yes, sir.  Did it myself.
+ແມ່ນແລ້ວເດີ. ຂ້ອຍເຮັດເອງ.
+
+212
+00:14:46,850 --> 00:14:48,850
+[DR. FLETCHER]
+And he was fully sedated?
+ແລະລາວຖືກດູດຊຶມຢ່າງເຕັມທີ່ບໍ?
+
+213
+00:14:49,350 --> 00:14:51,350
+[RAILLY]
+He was fully sedated!
+ລາວຖືກດູດຊຶມຢ່າງເຕັມທີ່!
+
+214
+00:14:51,850 --> 00:14:57,850
+[DR. FLETCHER]
+Then are you trying to tell me that a fully sedated, fully restrained patient somehow slipped out that vent, replaced the grill behind him and that he's wriggling through the ventilation system right now?
+ຫຼັງຈາກນັ້ນເຈົ້າ ກໍາ ລັງພະຍາຍາມບອກຂ້ອຍວ່າຄົນເຈັບທີ່ຖືກບັນເທົາທຸກຢ່າງເຕັມທີ່, ຖືກຄວບຄຸມຢ່າງເຕັມສ່ວນໄດ້ລອຍອອກຈາກລະບາຍອາກາດນັ້ນຢ່າງໃດກໍ່ຕາມ
+, ປ່ຽນ grill ຢູ່ເບື້ອງຫຼັງລາວແລະວ່າລາວ ກໍາ ລັງຍ່າງຜ່ານລະບົບລະບາຍລົມໃນເວລານີ້ບໍ?
+
+215
+00:14:58,350 --> 00:15:01,850
+[P.A. SYSTEM]
+Flight 784 to San Francisco now boarding at Gate 38...
+ຖ້ຽວບິນ 784 ໄປແຊນຟຣານຊິສໂກ ດຽວນີ້ຂຶ້ນຢູ່ປະຕູ 38...
+
+216
+00:15:02,350 --> 00:15:07,950
+[BRUNETTE/P. A. SYSTEM]
+The Freedom For Animals Headquarters now boarding on Second Avenue.  The Army of the Twelve Monkeys...
+ສໍານັກງານໃຫຍ່ເສລີພາບ ສໍາ ລັບສັດດຽວນີ້ຂຶ້ນທາງທາງທີສອງ
+. ກອງທັບຂອງແມວສິບສອງຄົນ...
+
+217
+00:15:08,450 --> 00:15:11,950
+[UNEARTHLY VOICE/P.A. SYSTEM]
+-- they're the ones who are going to do it...
+- ພວກເຂົາແມ່ນຜູ້ທີ່ຈະເຮັດມັນ...
+
+218
+00:15:12,450 --> 00:15:15,950
+[UNEARTHLY VOICE/TAPE RECORDER]
+I can't do anything more.  The Police are after me.
+ຂ້ອຍບໍ່ສາມາດເຮັດຫຍັງອີກໄດ້. ຕໍາຫຼວດ ກໍາ ລັງຕິດຕາມຂ້ອຍ.
+
+219
+00:15:16,450 --> 00:15:18,450
+[ASTROPHYSICIST]
+Well?
+ດີບໍ?
+
+220
+00:15:18,950 --> 00:15:20,950
+[COLE]
+Uh, what?
+ໂອ້, ຫຍັງ?
+
+221
+00:15:21,450 --> 00:15:24,950
+[ENGINEER]
+He's drugged out of his mind!  He's completely zoned out.
+ລາວຖືກຢາເສບຕິດອອກຈາກຈິດໃຈຂອງລາວ! ລາວຖືກແຍກອອກຈາກເຂດຢ່າງສົມບູນ.
+
+222
+00:15:25,450 --> 00:15:28,950
+[ASTROPHYSICIST]
+Cole, did you or did you not record that message?
+ຄໍລ, ເຈົ້າໄດ້ບັນທຶກຂໍ້ຄວາມນັ້ນຫຼືບໍ່?
+
+223
+00:15:29,450 --> 00:15:31,450
+[COLE]
+Uh, that message...me?
+ໂອ້, ຂໍ້ຄວາມນັ້ນ... ຂ້ອຍບໍ?
+
+224
+00:15:31,950 --> 00:15:37,950
+[MICROBIOLOGIST]
+It's a digital reconstruction of a message, Cole, from a weak signal on our contact number.  Did you make that call?
+ມັນເປັນການສ້າງສັນແບບດິຈິຕອນຂອງຂໍ້ຄວາມ, ຄໍລ,
+ຈາກສັນຍານທີ່ອ່ອນແອໃນເບີຕິດຕໍ່ຂອງພວກເຮົາ. ເຈົ້າໄດ້ໂທນັ້ນບໍ?
+
+225
+00:15:38,450 --> 00:15:43,000
+[COLE]
+I couldn't call!  You sent me to the wrong year!  It was 1989.
+ຂ້ອຍບໍ່ສາມາດໂທໄດ້!
+ເຈົ້າສົ່ງຂ້ອຍໄປໃນປີທີ່ບໍ່ຖືກຕ້ອງ! ມັນແມ່ນປີ 1989.
+
+226
+00:15:43,500 --> 00:15:45,500
+[SCIENTISTS]
+1989!
+ປີ 1989!
+
+227
+00:15:46,000 --> 00:15:48,000
+[ZOOLOGIST]
+You're certain of that?
+ເຈົ້າແນ່ໃຈບໍ?
+
+228
+00:15:48,500 --> 00:15:53,750
+[GEOLOGIST]
+What did you do with your time, Cole? Did you waste it on drugs?  Women?
+ເຈົ້າເຮັດຫຍັງກັບເວລາຂອງທ່ານ, ຄໍລ?
+ເຈົ້າເສຍມັນໃສ່ຢາເສບຕິດບໍ? ແມ່ຍິງ?
+
+229
+00:15:54,250 --> 00:15:56,350
+[COLE]
+They forced me to take drugs.
+ພວກເຂົາບັງຄັບໃຫ້ຂ້ອຍກິນຢາເສບຕິດ.
+
+230
+00:15:56,850 --> 00:16:00,350
+[BOTANIST]
+Forced you!  Why would someone force you to take drugs?
+ບັງຄັບໃຫ້ເຈົ້າ! ເປັນຫຍັງໃຜຈຶ່ງບັງຄັບໃຫ້ນເຈົ້າກິນຢາເສບຕິດ?
+
+231
+00:16:00,850 --> 00:16:06,850
+[COLE]
+I got into trouble.  I got arrested. But I still got you a specimen -- a spider -- but I didn't have anyplace to put it, so I ate it.  It was the wrong year anyway, so I guess it doesn't matter.
+ຂ້ອຍເຂົ້າໄປໃນຄວາມຫຍຸ້ງຍາກ. ຂ້ອຍຖືກຈັບກຸມ. ແຕ່ຂ້ອຍຍັງເອົາຕົວຢ່າງໃຫ້ເຈົ້າ - ແມງໄມ້ - ແຕ່ຂ້ອຍບໍ່ມີບ່ອນໃດທີ່ຈະວາງມັນ
+, ສະນັ້ນຂ້ອຍກິນມັນ. ມັນແມ່ນປີທີ່ບໍ່ຖືກຕ້ອງຢ່າງໃດກໍ່ຕາມ, ດັ່ງນັ້ນຂ້ອຍຄິດວ່າມັນບໍ່ສໍາຄັນ.
+
+232
+00:16:07,350 --> 00:16:09,350
+[ENGINEER]
+What about it, Cole?
+ມັນແນວໃດ, ຄໍລ?
+
+233
+00:16:09,850 --> 00:16:11,850
+[ZOOLOGIST]
+Did you see it?
+ເຈົ້າເຫັນມັນບໍ?
+
+234
+00:16:12,350 --> 00:16:14,350
+[COLE]
+Uh, no, sir.  I...
+ໂອ້, ບໍ່, ທ້າວ. ຂ້ອຍ...
+
+235
+00:16:14,850 --> 00:16:18,700
+[ASTROPHYSICIST]
+What about these people?  Did you see any of these people?
+ຄົນເຫຼົ່ານີ້ແນວໃດ? ເຈົ້າເຫັນຄົນເຫຼົ່ານີ້ບໍ?
+
+236
+00:16:19,200 --> 00:16:21,200
+[ASTROPHYSICIST]
+Him?  You saw that man?
+ລາວ? ເຈົ້າເຫັນຜູ້ຊາຍຄົນນັ້ນບໍ?
+
+237
+00:16:21,700 --> 00:16:24,500
+[COLE]
+Uh, I think so.  In the mental hospital.
+ໂອ້, ຂ້ອຍຄິດວ່າເປັນ. ໃນໂຮງຫມໍຈິດໃຈ.
+
+238
+00:16:25,000 --> 00:16:27,100
+[MICRO3IOLOGIST]
+You were in a mental institution?!
+ເຈົ້າຢູ່ໃນສະຖາບັນຈິດໃຈບໍ?
+
+239
+00:16:27,600 --> 00:16:30,400
+[ASTROPHYSICIST]
+You were sent to make very important observations!
+ເຈົ້າຖືກສົ່ງໄປເພື່ອເຮັດການສັງເກດເຫັນທີ່ສໍາຄັນຫຼາຍ!
+
+240
+00:16:30,900 --> 00:16:33,350
+[BOTANIST]
+You could have made a real contribution.
+ເຈົ້າສາມາດປະກອບສ່ວນຢ່າງແທ້ຈິງໄດ້.
+
+241
+00:16:33,850 --> 00:16:35,850
+[GEOLOGIST]
+Helped to reclaim the planet...
+ຊ່ວຍໃນການຟື້ນຟູໂລກ...
+
+242
+00:16:36,350 --> 00:16:38,450
+[ZOOLOGIST]
+As well as reducing your sentence.
+ເຊັ່ນດຽວກັນກັບການຫຼຸດຜ່ອນໂທດຂອງທ່ານ.
+
+243
+00:16:38,950 --> 00:16:42,450
+[MICROBIOLOGIST]
+The question is, Cole -- "Do you want another chance?"
+ຄໍາຖາມແມ່ນ, ຄໍລ - ເຈົ້າຢາກມີໂອກາດອີກຄັ້ງບໍ?
+
+244
+00:16:42,950 --> 00:16:44,950
+[COLE]
+Where are you?
+ເຈົ້າຢູ່ໃສ?
+
+245
+00:16:45,450 --> 00:16:47,450
+[COLE]
+My name's not "Bob".
+ຂ້ອຍບໍ່ແມ່ນໂບບ.
+
+246
+00:16:47,950 --> 00:16:49,950
+[COLE]
+Where are you?
+ເຈົ້າຢູ່ໃສ?
+
+247
+00:16:50,450 --> 00:16:53,950
+[COLE]
+What do you mean, "maybe"?  What's that supposed to mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ,"ບາງທີ"? ນັ້ນຄວນ ຫມາຍ ຄວາມວ່າແນວໃດ?
+
+248
+00:16:54,450 --> 00:16:56,450
+[COLE]
+1989.
+ປີ 1989.
+
+249
+00:16:56,950 --> 00:16:59,050
+[COLE]
+It was supposed to be 1995.
+ມັນຄວນຈະເປັນປີ 1995.
+
+250
+00:16:59,550 --> 00:17:01,550
+[GEOLOGIST]
+No mistakes this time, Cole.
+ບໍ່ມີຄວາມຜິດພາດໃນຄັ້ງນີ້, ຄໍລ.
+
+251
+00:17:02,050 --> 00:17:04,150
+[ASTROPHYSICIST]
+Stay alert.  Keep your eyes open.
+ຈົ່ງລະມັດລະວັງ. ຈົ່ງເປີດຕາໄວ້.
+
+252
+00:17:04,650 --> 00:17:09,200
+[ZOOLOGIST]
+Good thinking about that spider, Cole. Try and do something like that again.
+ຄິດດີກ່ຽວກັບແມງໄມ້ນັ້ນ, ຄໍລ.
+ພະຍາຍາມເຮັດບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນອີກຄັ້ງ.
+
+253
+00:17:09,700 --> 00:17:15,700
+[MICROBIOLOGIST]
+Just relax now -- don't fight it.  We have to know exactly what's there so we can fix it.
+ພຽງແຕ່ຜ່ອນຄາຍດຽວນີ້ - ຢ່າຕໍ່ສູ້ກັບມັນ.
+ພວກເຮົາຕ້ອງຮູ້ວ່າມີຫຍັງຢູ່ບ່ອນນັ້ນເພື່ອໃຫ້ພວກເຮົາສາມາດແກ້ໄຂມັນໄດ້.
+
+254
+00:17:16,200 --> 00:17:20,050
+[SERGEANT]
+Where's your mask?!  And your clothes... and your weapon, you idiot?!
+ຫນ້າ ກາກຂອງທ່ານຢູ່ໃສ?! ແລະເຄື່ອງນຸ່ງຫົ່ມຂອງທ່ານ
+... ແລະອາວຸດຂອງທ່ານ, ເຈົ້າໂງ່ບໍ?!
+
+255
+00:17:20,550 --> 00:17:22,550
+[COLE]
+What?  What??
+ຫຍັງ? ຫຍັງ??
+
+256
+00:17:23,050 --> 00:17:25,500
+[SERGEANT]
+Captain!  A Kraut!  We got a Kraut!
+ຄັບປິນ! ຄົນກຣູຕ໌! ພວກເຮົາມີຄົນກຣຸຕສ໌!
+
+257
+00:17:26,000 --> 00:17:28,100
+[COLE]
+I don't understand.  Where am I?
+ຂ້ອຍບໍ່ເຂົ້າໃຈ. ຂ້ອຍຢູ່ໃສ?
+
+258
+00:17:28,600 --> 00:17:32,800
+[CAPTAIN]
+How'd you get here, soldier?  What's your rank?  Where are your clothes?
+ເຈົ້າມາບ່ອນນີ້ແນວໃດ, ທະຫານ? ຕໍາ
+ແຫນ່ງຂອງທ່ານແມ່ນຫຍັງ? ເຄື່ອງນຸ່ງຫົ່ມຂອງທ່ານຢູ່ໃສ?
+
+259
+00:17:33,300 --> 00:17:35,300
+[COLE]
+I...don't understand.
+ຂ້ອຍ... ບໍ່ເຂົ້າໃຈ.
+
+260
+00:17:35,800 --> 00:17:38,600
+[CAPTAIN]
+German!  Speak German!  What are you doing here?
+ເຈົ້າເວົ້າເຢຍລະມັນ! ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+261
+00:17:39,100 --> 00:17:41,550
+[JOSE]
+Cole!  Oh, God, Cole, where are we?
+ໂຄລ! ໂອ້ ພຣະເຈົ້າ, ໂກລ, ພວກເຮົາຢູ່ໃສ?
+
+262
+00:17:42,050 --> 00:17:48,050
+[DR. PETERS]
+I think, Dr. Railly, you have given your alarmists a bad name.  Surely there is very real and very convincing data that the planet cannot survive the excesses of the human race:  proliferation of atomic devices, uncontrolled breeding habits, the rape of the environment, the pollution of land, sea, and air.  In this context, isn't it obvious that "Chicken Little" represents the sane vision and that Homo Sapiens' motto, "Let's go shopping!" is the cry of the true lunatic?
+ຂ້ອຍຄິດວ່າ, ດຣ ຣາລີ, ເຈົ້າໄດ້ໃຫ້ຊື່ທີ່ບໍ່ດີຕໍ່ພວກກະຕຸ້ນຂອງທ່ານ. ແນ່ນອນວ່າມີຂໍ້ມູນທີ່ແທ້ຈິງແລະເຊື່ອຖືຫຼາຍວ່າໂລກບໍ່ສາມາດຢູ່ລອດໄດ້ຈາກຄວາມເກີນໄປຂອງເຊື້ອຊາດມະນຸດ:
+ການແຜ່ລາມຂອງອຸປະກອນອະນູມິເຄລຍ, ນິໄສການລ້ຽງສັດທີ່ບໍ່ຄວບຄຸມໄດ້, ການຂົ່ມຂືນສິ່ງແວດລ້ອມ, ການມົນລະພິດຂອງດິນ, ທະເລ, ແລະອາກາດ. ໃນສະພາບການນີ້, ມັນບໍ່ແນ່ນອນວ່າ"ໄກ່ນ້ອຍ" ສະແດງໃຫ້ເຫັນ
+
+263
+00:17:48,550 --> 00:17:54,550
+[DISHEVELED PROFESSOR]
+Doctor Railly -- please!  I wonder if you're aware of my own studies which indicate that certain cycles of the moon actually impact on the incidence of apocalyptic predictions as observed in urban emergency rooms and...
+ດອກຕໍ ຣາລີ - ກະລຸນາ! ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າຮູ້ກ່ຽວກັບການສຶກສາຂອງຂ້ອຍເອງທີ່ຊີ້ໃຫ້ເຫັນວ່າວົງຈອນບາງຢ່າງຂອງດວງຈັນມີຜົນກະທົບຕໍ່ການເກີດຂອງການຄາດຄະເນ
+apocalyptic ດັ່ງທີ່ສັງເກດເຫັນໃນຫ້ອງສຸກເສີນໃນເມືອງແລະ...
+
+264
+00:17:55,050 --> 00:17:57,050
+[MARILOU]
+You were great.
+ເຈົ້າດີເລີດ.
+
+265
+00:17:57,550 --> 00:17:59,550
+[RAILLY]
+You're leaving?
+ເຈົ້າ ກໍາ ລັງອອກໄປບໍ?
+
+266
+00:18:00,050 --> 00:18:03,200
+[MARILOU]
+The reservation's at nine thirty -- it's getting late.
+ການຈອງແມ່ນເວລາສິບສາມ - ມັນ ກໍາ ລັງຊ້າແລ້ວ.
+
+267
+00:18:03,700 --> 00:18:06,850
+[DISHEVELED PROFESSOR]
+Doctor Railly -- please -- this is very important!
+ດອກຕໍ ຣາລີ - ກະລຸນາ - ນີ້ແມ່ນມີຄວາມສໍາຄັນຫຼາຍ!
+
+268
+00:18:07,350 --> 00:18:09,800
+[WAYNE CHANG]
+You sure you're gonna be all right?
+ເຈົ້າແນ່ໃຈວ່າເຈົ້າຈະດີບໍ?
+
+269
+00:18:10,300 --> 00:18:12,400
+[RAILLY]
+I'll be there in twenty minutes.
+ຂ້ອຍຈະມາຮອດໃນເວລາສິບນາທີ.
+
+270
+00:18:12,900 --> 00:18:18,500
+[DISHEVELED PROFESSOR]
+Dr. Railly, I simply cannot understand your exclusion of the moon in relation to apocalyptic dementia...
+ດຣ ຣາລີ, ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດເຂົ້າໃຈການຍົກເວັ້ນຂອງທ່ານຂອງດວງຈັນໃນຄວາມກ່ຽວຂ້ອງກັບໂຣກຈິດໃຈ
+apocalyptic...
+
+271
+00:18:19,000 --> 00:18:21,000
+[MAN'S VOICE]
+Get in!
+ເຂົ້າມາ!
+
+272
+00:18:21,500 --> 00:18:23,500
+[MAN'S VOICE]
+I've got a gun.
+ຂ້ອຍມີປືນ.
+
+273
+00:18:24,000 --> 00:18:28,550
+[RAILLY]
+You can have my purse.  I have a lot of cash and credit...
+ເຈົ້າສາມາດເອົາກະເປົາຂອງຂ້ອຍໄດ້. ຂ້ອຍມີເງິນສົດແລະສິນເຊື່ອຫຼາຍ...
+
+274
+00:18:29,050 --> 00:18:31,850
+[RAILLY]
+Here!  You can have the keys.  You can...
+ມາແລ້ວ! ເຈົ້າສາມາດເອົາປຸ່ມໄດ້. ເຈົ້າສາມາດ...
+
+275
+00:18:32,350 --> 00:18:34,350
+[RAILLY]
+Where... where are we going'
+ພວກເຮົາຈະໄປໃສ?
+
+276
+00:18:34,850 --> 00:18:37,650
+[MAN]
+I need you to drive me to Philadelphia.
+ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າຂັບຂີ່ຂ້ອຍໄປຟີລາຟີເລຍ.
+
+277
+00:18:38,150 --> 00:18:40,600
+[RAILLY]
+But that's... that's more than 200 miles!
+ແຕ່ນັ້ນແມ່ນ... ນັ້ນແມ່ນຫຼາຍກວ່າ 200 ໄມລ໌!
+
+278
+00:18:41,100 --> 00:18:44,600
+[MAN]
+That's why I can't walk there.  Turn here... I think...
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍບໍ່ສາມາດຍ່າງໄປບ່ອນນັ້ນໄດ້
+. ຫັນມາບ່ອນນີ້... ຂ້ອຍຄິດວ່າ...
+
+279
+00:18:45,100 --> 00:18:51,100
+[RAILLY]
+If you make me go with you, it's kidnapping.  That's a serious crime. If you let me go, you could just take the car and...
+ຖ້າເຈົ້າເຮັດໃຫ້ຂ້ອຍໄປກັບເຈົ້າ, ມັນແມ່ນການລັກພາຕົວ.
+ນັ້ນແມ່ນອາຊະຍາກໍາທີ່ຮ້າຍແຮງ. ຖ້າເຈົ້າປ່ອຍຂ້ອຍໄປ, ເຈົ້າພຽງແຕ່ສາມາດເອົາລົດແລະ...
+
+280
+00:18:51,600 --> 00:18:57,600
+[MAN]
+I don't know how to drive!  We went underground when I was nine, I told you that.  When you come to the corner, turn right.
+ຂ້ອຍບໍ່ຮູ້ວິທີຂັບລົດ! ພວກເຮົາໄປໃຕ້ດິນເມື່ອຂ້ອຍອາຍຸເກົ້າປີ
+, ຂ້ອຍບອກເຈົ້າວ່າ. ເມື່ອເຈົ້າມາຮອດແຄມ, ຫັນຂວາ.
+
+281
+00:18:58,100 --> 00:19:02,300
+[RAILLY]
+Cole!  James Cole!  You escaped from a locked room six years ago.
+ຄໍລ໌! ເຈມສ໌ ຄໍເລ! ເຈົ້າໄດ້ຫນີອອກຈາກຫ້ອງທີ່ລັອກໄວ້ຫົກປີກ່ອນ.
+
+282
+00:19:02,800 --> 00:19:06,300
+[COLE]
+1989.  Six years for you.  There's the sign!  Right here!
+ປີ 1989. ຫົກປີ ສໍາ ລັບເຈົ້າ. ມີປ້າຍນັ້ນ! ຢູ່ບ່ອນນີ້!
+
+283
+00:19:06,800 --> 00:19:11,350
+[RAILLY]
+I can't believe this is a coincidence, Mr. Cole.  Have you been...following me?
+ຂ້ອຍບໍ່ເຊື່ອວ່າມັນເປັນຄວາມສອດຄ່ອງ,
+ທ້າວໂກລ. ເຈົ້າໄດ້... ຕິດຕາມຂ້ອຍບໍ?
+
+284
+00:19:11,850 --> 00:19:17,850
+[COLE]
+You told me you'd help me.  I know this isn't what you meant, but...I was desperate... no money...bum leg... sleeping on the streets. I probably smell bad.  Sorry about that. But then I saw your book in a store window with a notice about your lecture.  I can read, remember?
+ເຈົ້າບອກຂ້ອຍວ່າເຈົ້າຈະຊ່ວຍຂ້ອຍ. ຂ້ອຍຮູ້ວ່າສິ່ງນີ້ບໍ່ແມ່ນສິ່ງທີ່ເຈົ້າຫມາຍຄວາມວ່າ, ແຕ່... ຂ້ອຍມີຄວາມຫວັງ... ບໍ່ມີເງິນ... ຂາໂຊກຮ້າຍ... ນອນຢູ່ຖະຫນົນຫົນທາງ.
+ຂ້ອຍອາດຈະກິ່ນຫອມບໍ່ດີ. ຂໍໂທດກ່ຽວກັບນັ້ນ. ແຕ່ຫຼັງຈາກນັ້ນຂ້ອຍເຫັນປື້ມຂອງທ່ານໃນປ່ອງຢ້ຽມຮ້ານຄ້າທີ່ມີແຈ້ງການກ່ຽວກັບການສອນຂອງທ່ານ. ຂ້ອຍສາມາດອ່ານໄດ້, ຈື່ໄວ້ບໍ?
+
+285
+00:19:18,350 --> 00:19:22,200
+[RAILLY]
+Yes, I remember.  Why do you want to go to Philadelphia?
+ແມ່ນແລ້ວ, ຂ້ອຍຈື່ໄວ້. ເຈົ້າຢາກໄປຟີລາຟີເລຍເປັນຫຍັງ?
+
+286
+00:19:22,700 --> 00:19:28,700
+[COLE]
+It's the next step.  I checked out the Baltimore information, it was nothing. It's Philadelphia, that's where they are, the ones who killed everyone.  Zs that a radio?  Does it play music?
+ມັນເປັນບາດກ້າວຕໍ່ໄປ. ຂ້ອຍໄດ້ກວດສອບຂໍ້ມູນບາລຕິມໍ, ມັນບໍ່ມີຫຍັງເລີຍ. ມັນແມ່ນຟາລາຟີເລຍ
+, ນັ້ນແມ່ນບ່ອນທີ່ພວກເຂົາຢູ່, ຜູ້ທີ່ຂ້າທຸກຄົນ. ນັ້ນແມ່ນວິທະຍຸບໍ? ມັນຫຼິ້ນດົນຕີບໍ?
+
+287
+00:19:29,200 --> 00:19:31,200
+[COLE]
+I've never seen the ocean!
+ຂ້ອຍບໍ່ເຄີຍເຫັນມະຫາສະຫມຸດເລີຍ!
+
+288
+00:19:31,700 --> 00:19:37,700
+[RAILLY]
+It's an advertisement, Mr. Cole.  You do understand that, don't you?  It's not really a special message to you.
+ມັນເປັນໂຄສະນາ, ທ້າວໂກລ. ເຈົ້າເຂົ້າໃຈມັນແທ້ໆ,
+ແມ່ນບໍ? ມັນບໍ່ແມ່ນຂໍ້ຄວາມພິເສດຕໍ່ເຈົ້າແທ້ໆ.
+
+289
+00:19:38,200 --> 00:19:40,300
+[COLE]
+You used to call me "James".
+ເຈົ້າເຄີຍເອີ້ນຂ້ອຍວ່າ"ເຈມສ໌".
+
+290
+00:19:40,800 --> 00:19:45,000
+[RAILLY]
+You'd prefer that? ... James...you don't really have a gun, do you.
+ເຈົ້າມັກນັ້ນບໍ?... ເຈມສ໌... ເຈົ້າບໍ່ມີປືນແທ້ໆ, ແມ່ນບໍ.
+
+291
+00:19:45,500 --> 00:19:47,950
+[COLE]
+Everybody's got a gun.  In this city...
+ທຸກຄົນມີປືນ. ໃນເມືອງນີ້...
+
+292
+00:19:48,450 --> 00:19:54,400
+[COLE]
+Can you...can you make it louder?  I love hearing twentieth century music! Hearing music and breathing air!
+ເຈົ້າສາມາດ... ເຈົ້າສາມາດເຮັດໃຫ້ມັນສຽງດັງຂຶ້ນໄດ້ບໍ?
+ຂ້ອຍມັກຟັງດົນຕີສະຕະວັດທີສິບ! ການຍິນດົນຕີແລະຫາຍໃຈອາກາດ!
+
+293
+00:19:54,900 --> 00:19:56,900
+[COLE]
+"Never cry wolf!"
+ຢ່າຮ້ອງໄຫ້ແມວເລີຍ!
+
+294
+00:19:57,400 --> 00:19:59,400
+[RAILLY]
+What?
+ຫຍັງ?
+
+295
+00:19:59,900 --> 00:20:05,500
+[COLE]
+My father told me that.  "Never cry wolf."  Then people won't believe you if...something really happens.
+ພໍ່ຂອງຂ້ອຍບອກຂ້ອຍວ່າ." ຢ່າຮ້ອງໄຫ້ແມວເລີຍ."
+ຫຼັງຈາກນັ້ນຄົນຈະບໍ່ເຊື່ອເຈົ້າຖ້າ... ບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນແທ້ໆ.
+
+296
+00:20:06,000 --> 00:20:08,100
+[RAILLY]
+"If something really happens"...like what, James?
+ຖ້າບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນແທ້ໆ... ເຊັ່ນວ່າຫຍັງ, ເຈມສ໌?
+
+297
+00:20:08,600 --> 00:20:13,500
+[COLE]
+Something bad.  Is that all the music? I don't want to hear this stuff...
+ບາງສິ່ງບາງຢ່າງທີ່ບໍ່ດີ. ນັ້ນແມ່ນດົນຕີທັງ
+ຫມົດ ບໍ? ຂ້ອຍບໍ່ຢາກໄດ້ຍິນສິ່ງນີ້...
+
+298
+00:20:14,000 --> 00:20:18,900
+[RAILLY]
+Did something terrible happen to you when you were a child?  Something so bad...?
+ມີຫຍັງຮ້າຍແຮງເກີດຂຶ້ນກັບເຈົ້າເມື່ອເຈົ້າເປັນເດັກນ້ອຍບໍ
+? ບາງສິ່ງບາງຢ່າງຮ້າຍແຮງຫຼາຍ...?
+
+299
+00:20:19,400 --> 00:20:22,200
+[COLE]
+Ohhhh, that one!  Can we hear that one?
+ໂອ້, ຄົນນັ້ນ! ພວກເຮົາສາມາດຍິນຄົນນັ້ນໄດ້ບໍ?
+
+300
+00:20:22,700 --> 00:20:28,700
+[ANSWERING MACHINE]
+Dr. Railly -- this is Palmer from Psych Admitting.  There was a guy here this afternoon looking for you.  He seemed very agitated.  We tried to keep him, but he refused 'n I kept thinking, I know this guy.  Then, just a few minutes ago, it came to me.  It's Cole!  James Cole. Remember him?  The paranoid who pulled the Houdini back in '89.  Well, he's back and he's...cuckoo...and he's looking for you.  I thought you oughta know.
+ດຣ ຣາລີ - ນີ້ແມ່ນປາມເລີຈາກການຍອມຮັບຈິດໃຈ. ມີຜູ້ຊາຍຄົນຫນຶ່ງຢູ່ນີ້ຕອນບ່າຍນີ້ ກໍາ ລັງຊອກຫາເຈົ້າ. ລາວເບິ່ງຄືວ່າກະຕຸ້ນຫຼາຍ. ພວກເຮົາພະຍາຍາມຮັກສາລາວໄວ້, ແຕ່ລາວປະຕິເສດຂ້ອຍສືບຕໍ່ຄິດ
+, ຂ້ອຍຮູ້ຈັກຜູ້ຊາຍຄົນນີ້. ຫຼັງຈາກນັ້ນ, ພຽງແຕ່ສອງສາມນາທີກ່ອນ, ມັນມາຫາຂ້ອຍ. ມັນແມ່ນໂກລ! ເຈມສ໌ ໂກລ. ຈື່ລາວບໍ? ຄົນໂຊກຮ້າຍທີ່ດຶງໂຮດິນີກັບຄືນໃນປີ 89. ດີ, ລາວກັບມາແລະລາວ...
+
+301
+00:20:29,200 --> 00:20:35,200
+[MARILOU MARTIN]
+It's just as I told you -- my husband and I had gone ahead -- she never showed.  That's totally unlike her!
+ມັນຄືກັບທີ່ຂ້ອຍບອກເຈົ້າ - ຂ້ອຍແລະຜົວຂອງຂ້ອຍໄດ້ໄປຂ້າງຫນ້າ
+- ນາງບໍ່ເຄີຍປາກົດຕົວເລີຍ. ນັ້ນແຕກຕ່າງຈາກນາງຢ່າງສົມບູນ!
+
+302
+00:20:35,700 --> 00:20:39,200
+[OFFICER TWO]
+Do you happen to know the make of her car?
+ເຈົ້າຮູ້ລົດຂອງນາງບໍ?
+
+303
+00:20:39,700 --> 00:20:44,250
+[MARILOU MARTIN]
+Um...Acura...'92 Acura. ... Also, that cat's starving!  She would never neglect her cat!
+ອູມ... ອາກູຣາ...' 92 ອາກຸຣາ.... ນອກຈາກນັ້ນ,
+ແມວນັ້ນ ກໍາ ລັງຫິວ! ນາງຈະບໍ່ລືມແມວຂອງນາງເລີຍ!
+
+304
+00:20:44,750 --> 00:20:50,700
+[COLE]
+You were in my dream just now.  Your hair was different, but I'm sure it was you.
+ເຈົ້າຢູ່ໃນຄວາມຝັນຂອງຂ້ອຍດຽວນີ້.
+ຜົມຂອງເຈົ້າແຕກຕ່າງກັນ, ແຕ່ຂ້ອຍແນ່ໃຈວ່າມັນແມ່ນເຈົ້າ.
+
+305
+00:20:51,200 --> 00:20:57,200
+[RAILLY]
+We dream about what's important in our lives. And I seem to have become pretty important in yours.  What was the dream about?
+ພວກເຮົາຝັນກ່ຽວກັບສິ່ງທີ່ສໍາຄັນໃນຊີວິດຂອງພວກເຮົາ.
+ແລະຂ້ອຍເບິ່ງຄືວ່າໄດ້ກາຍເປັນທີ່ສໍາຄັນຫຼາຍໃນຂອງທ່ານ. ຄວາມຝັນແມ່ນກ່ຽວກັບຫຍັງ?
+
+306
+00:20:57,700 --> 00:21:03,700
+[COLE]
+About an airport...before everything happened.  It's the same dream I always have -- the only one.  I'm a little kid in it.
+ກ່ຽວກັບສະຫນາມບິນ... ກ່ອນທຸກຢ່າງເກີດຂຶ້ນ.
+ມັນເປັນຄວາມຝັນດຽວກັນທີ່ຂ້ອຍມີຢູ່ສະເຫມີ - ດຽວດຽວ. ຂ້ອຍເປັນເດັກນ້ອຍນ້ອຍໃນມັນ.
+
+307
+00:21:04,200 --> 00:21:07,350
+[RAILLY]
+And I was in it?  What did I do?
+ແລະຂ້ອຍຢູ່ໃນມັນບໍ? ຂ້ອຍເຮັດຫຍັງ?
+
+308
+00:21:07,850 --> 00:21:13,850
+[COLE]
+You were very upset.  You're always very upset in the dream, but I never knew it was you before.
+ເຈົ້າຮູ້ສຶກໂຊກຮ້າຍຫຼາຍ. ເຈົ້າມີຄວາມຜິດໃຈຫຼາຍໃນຄວາມຝັນຢູ່ສະເຫມີ
+, ແຕ່ຂ້ອຍບໍ່ເຄີຍຮູ້ວ່າມັນແມ່ນເຈົ້າກ່ອນ.
+
+309
+00:21:14,350 --> 00:21:19,600
+[RAILLY]
+It wasn't me before, James.  It's become me now because of...what's happening.  Please untie me.
+ມັນບໍ່ແມ່ນຂ້ອຍກ່ອນ, ເຈມສ໌. ມັນກາຍເປັນຂ້ອຍດຽວນີ້ຍ້ອນ
+... ສິ່ງທີ່ເກີດຂຶ້ນ. ກະລຸນາຕັດຂ້ອຍ.
+
+310
+00:21:20,100 --> 00:21:23,600
+[COLE]
+No, I think it was always you.  It's very strange.
+ບໍ່, ຂ້ອຍຄິດວ່າມັນເປັນເຈົ້າຢູ່ສະເຫມີ. ມັນແປກໃຈຫຼາຍ.
+
+311
+00:21:24,100 --> 00:21:29,700
+[RAILLY]
+You're flushed.  And you were moaning. I think you're running a fever.  What are you doing?
+ເຈົ້າສົ້ມ. ແລະເຈົ້າ ກໍາ ລັງຮ້ອງໄຫ້.
+ຂ້ອຍຄິດວ່າເຈົ້າມີໄຂ້. ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+312
+00:21:30,200 --> 00:21:32,300
+[COLE]
+I'll be back in a minute.
+ຂ້ອຍຈະກັບມາໃນນາທີຫນຶ່ງ.
+
+313
+00:21:32,800 --> 00:21:35,250
+[RAILLY]
+No!  Don't leave me here like this!
+ບໍ່! ຢ່າປ່ອຍຂ້ອຍຢູ່ບ່ອນນີ້ແບບນີ້!
+
+314
+00:21:35,750 --> 00:21:40,650
+[TV ANCHORMAN]
+And in Fresno, California...crews continue to attempt to rescue nine year old Ricky Neuman.
+ແລະໃນຟຣັສໂນ, ຄາລີຟໍເນຍ... ທີມງານສືບຕໍ່ພະຍາຍາມຊ່ວຍເຫຼືອ
+Ricky Neuman ອາຍຸເກົ້າປີ.
+
+315
+00:21:41,150 --> 00:21:43,150
+[COLE]
+My notes.  Observations.  Clues.
+ບັນທຶກຂອງຂ້ອຍ. ການສັງເກດການ. ຂໍ້ແນະນໍາ.
+
+316
+00:21:43,650 --> 00:21:45,650
+[RAILLY]
+Clues?  What kind of clues?
+ຫຼັກຊີ້? ຫຼັກສີ້ປະເພດໃດ?
+
+317
+00:21:46,150 --> 00:21:52,150
+[COLE]
+A secret army.  The Army of The Twelve Monkeys.  I've told you about them. They spread the virus.  That's why we have to get to Philadelphia.  I have to find them -- it's my assignment.
+ກອງທັບລັບ. ກອງທັບຂອງແມວສິບສອງຄົນ. ຂ້ອຍໄດ້ບອກເຈົ້າກ່ຽວກັບພວກເຂົາ. ພວກເຂົາແຜ່ລະບາດໄວຣັສ.
+ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຮົາຕ້ອງໄປຟີລາຟີເລຍ. ຂ້ອຍຕ້ອງຊອກຫາພວກເຂົາ - ມັນແມ່ນຫນ້າທີ່ຂອງຂ້ອຍ.
+
+318
+00:21:52,650 --> 00:21:55,450
+[RAILLY]
+What will you do...when you find this...secret army?
+ເຈົ້າຈະເຮັດແນວໃດ... ເມື່ອເຈົ້າພົບກອງທັບລັບນີ້?
+
+319
+00:21:55,950 --> 00:22:01,950
+[COLE]
+I just have to locate the virus in its original form before it mutates.  So scientists can come back and study it and find a cure.  So that those of us who survived can go back to the surface of the earth.
+ຂ້ອຍພຽງແຕ່ຕ້ອງຊອກຫາໄວຣັສໃນຮູບແບບຕົ້ນສະບັບກ່ອນທີ່ມັນຈະປ່ຽນແປງ.
+ສະນັ້ນນັກວິທະຍາສາດສາມາດກັບມາສຶກສາມັນແລະຊອກຫາຢາປິ່ນປົວ. ເພື່ອວ່າພວກທີ່ລອດຊີວິດສາມາດກັບຄືນໄປບ່ອນພື້ນຜິວຂອງໂລກໄດ້.
+
+320
+00:22:02,450 --> 00:22:08,450
+[COLE]
+You won't think I'm crazy next month. People are going to start dying.  At first the papers will say it's some weird fever, some virus.  Then they'll begin to catch on.  They'll get it.
+ເຈົ້າຈະບໍ່ຄິດວ່າຂ້ອຍໂຊກຮ້າຍໃນເດືອນຫນ້າ. ຄົນຈະເລີ່ມຕາຍ. ໃນເບື້ອງຕົ້ນຫນັງສືພິມຈະເວົ້າວ່າມັນເປັນໄຂ້ແປກໃຈບາງຢ່າງ
+, ໄວຣັສບາງຢ່າງ. ຫຼັງຈາກນັ້ນພວກເຂົາຈະເລີ່ມຕົ້ນຈັບມັນ. ພວກເຂົາຈະໄດ້ຮັບມັນ.
+
+321
+00:22:08,950 --> 00:22:14,900
+[COLE]
+I thought it was about us.  I thought maybe they'd found us and arrested me or something.
+ຂ້ອຍຄິດວ່າມັນກ່ຽວກັບພວກເຮົາ.
+ຂ້ອຍຄິດວ່າບາງທີພວກເຂົາໄດ້ພົບພວກເຮົາແລະຈັບຂ້ອຍຫຼືບາງສິ່ງບາງຢ່າງ.
+
+322
+00:22:15,400 --> 00:22:17,400
+[COLE]
+Just a joke.
+ພຽງແຕ່ໂຊກຮ້າຍ.
+
+323
+00:22:17,900 --> 00:22:22,450
+[RAILLY]
+Does that disturb you, James?  Thinking about that little boy in the well?
+ມັນກັງວົນເຈົ້າບໍ, ເຈມສ໌? ຄິດກ່ຽວກັບເດັກຊາຍນ້ອຍຄົນນັ້ນໃນຮູບໍ?
+
+324
+00:22:22,950 --> 00:22:28,950
+[COLE]
+When I was a kid I identified with that kid, down there alone in that pipe...a hundred feet down -- doesn't know if they're going to save him.
+ເມື່ອຂ້ອຍເປັນເດັກນ້ອຍຂ້ອຍໄດ້ລະບຸຕົວກັບເດັກນ້ອຍນັ້ນ,
+ຢູ່ລຸ່ມນັ້ນຄົນດຽວໃນທໍ່ນັ້ນ... ສິບແມັດລຸ່ມ - ບໍ່ຮູ້ວ່າພວກເຂົາຈະຊ່ວຍລາວຫຼືບໍ່.
+
+325
+00:22:29,450 --> 00:22:32,950
+[RAILLY]
+What do you mean -- when you were a kid?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ - ເມື່ອເຈົ້າເປັນເດັກນ້ອຍ?
+
+326
+00:22:33,450 --> 00:22:39,450
+[COLE]
+Nevermind.  It's not real -- it's a hoax.  A prank.  He's hiding in a barn. Hey, turn left here.  Left!
+ບໍ່ສົນໃຈເລີຍ. ມັນບໍ່ແມ່ນຄວາມຈິງ - ມັນເປັນໂຊກແຊງ. ໂຊກ
+ແຊງແຊ່ງແຊ້ງແຊັງ. ເຮ້, ຫັນໄປທາງຊ້າຍຢູ່ນີ້. ທາງຊ້າຍ!
+
+327
+00:22:39,950 --> 00:22:45,950
+[EVANGELIST]
+"And the wild beasts of the islands shall cry in their desolate houses and dragons in their pleasant palaces:  and her time is near to come, and her days shall not be prolonged."
+ແລະສັດປ່າຂອງເກາະຈະຮ້ອງໄຫ້ໃນເຮືອນທີ່ເປື້ອນຂອງພວກເຂົາແລະດຣາກອນໃນທໍານຽບທີ່ສວຍງາມຂອງພວກເຂົາ
+: ແລະເວລາຂອງນາງໃກ້ຈະມາຮອດ, ແລະມື້ຂອງນາງຈະບໍ່ຍາວນານ."
+
+328
+00:22:46,450 --> 00:22:52,450
+[COLE]
+Where I come from we think of this as Eden. If we could just see the sun, eat sun-grown food.  Eden!  Look at them!  They donut know what they have.  They don't see the sky.  They don't feel the air!
+ບ່ອນທີ່ຂ້ອຍມາຈາກພວກເຮົາຄິດວ່າສິ່ງນີ້ເປັນເອເດັນ. ຖ້າພວກເຮົາພຽງແຕ່ສາມາດເຫັນແສງຕາເວັນໄດ້, ກິນອາຫານທີ່ເຕີບໃຫຍ່ຈາກແສງອາທິດ
+. ເອເດັນ! ເບິ່ງພວກເຂົາ! ພວກເຂົາບໍ່ຮູ້ວ່າພວກເຂົາມີຫຍັງ. ພວກເຂົາບໍ່ເຫັນສະຫວັນ. ພວກເຂົາບໍ່ໄດ້ຮູ້ສຶກອາກາດ!
+
+329
+00:22:52,950 --> 00:22:55,750
+[COLE]
+The Twelve Monkeys!!!  They're here.  Somewhere.  Come on!
+ແມວສິບສອງຄົນ!!! ພວກເຂົາຢູ່ບ່ອນນີ້. ຢູ່ບ່ອນໃດຫນຶ່ງ. ມາ!
+
+330
+00:22:56,250 --> 00:23:01,500
+[COLE]
+Look, I'm warning you.  You do anything, I'm going to go crazy -- hurt people!
+ເບິ່ງ, ຂ້ອຍເຕືອນເຈົ້າ. ເຈົ້າເຮັດຫຍັງເລີຍ
+, ຂ້ອຍຈະໂຊກຮ້າຍ - ເຮັດໃຫ້ຄົນເຈັບປວດ!
+
+331
+00:23:02,000 --> 00:23:08,000
+[RAILLY]
+I'm not going to "do" anything, I promise.  But you need help, James. None of this is what you think it is.
+ຂ້ອຍຈະບໍ່"ເຮັດ" ຫຍັງເລີຍ, ຂ້ອຍສັນຍາ. ແຕ່ເຈົ້າຕ້ອງການຄວາມຊ່ວຍເຫຼືອ
+, ເຈມສ໌. ບໍ່ມີຫຍັງໃນສິ່ງນີ້ແມ່ນສິ່ງທີ່ເຈົ້າຄິດວ່າມັນເປັນ.
+
+332
+00:23:08,500 --> 00:23:14,500
+[LOUIE]
+No, sir, Old Bob -- don't even try.  They hear everything.  They got that tracking device on you.  They can find you anywhere.  Anytime.  Ha Ha!
+ບໍ່, ເຈົ້າ, ໂບບເກົ່າ - ຢ່າພະຍາຍາມເລີຍ. ພວກເຂົາໄດ້ຍິນທຸກຢ່າງ.
+ພວກເຂົາມີອຸປະກອນຕິດຕາມນັ້ນຢູ່ເທິງເຈົ້າ. ພວກເຂົາສາມາດຊອກຫາເຈົ້າໄດ້ທຸກບ່ອນ. ທຸກເວລາ. Ha Ha!
+
+333
+00:23:15,000 --> 00:23:18,850
+[LOUIE]
+In the tooth, Bob!  Right?  But I fooled 'em, old buddy!
+ໃນແຂ້ວ, ໂບບ! ແມ່ນບໍ? ແຕ່ຂ້ອຍໄດ້ຫຼອກລວງພວກເຂົາ, ເພື່ອນເກົ່າ!
+
+334
+00:23:19,350 --> 00:23:21,450
+[COLE]
+They're keeping an eye on me.
+ພວກເຂົາ ກໍາ ລັງຕິດຕາມຂ້ອຍຢູ່.
+
+335
+00:23:21,950 --> 00:23:24,050
+[RAILLY]
+Who's keeping an eye on you?
+ໃຜເບິ່ງແຍງເຈົ້າ?
+
+336
+00:23:24,550 --> 00:23:28,750
+[COLE]
+The man...with the voice.  I recognized him.  He's from the present.  He...
+ຜູ້ຊາຍ... ມີສຽງ. ຂ້ອຍຮູ້ຈັກລາວ. ລາວມາຈາກປະຈຸບັນ. ລາວ...
+
+337
+00:23:29,250 --> 00:23:31,700
+[RAILLY]
+James, no -- we shouldn't be here!
+ເຈມສ໌, ບໍ່ - ພວກເຮົາບໍ່ຄວນຢູ່ບ່ອນນີ້!
+
+338
+00:23:32,200 --> 00:23:35,000
+[RAILLY]
+James!  We have to go back.  Those men...
+ເຈມສ໌! ພວກເຮົາຕ້ອງກັບຄືນໄປບ່ອນ. ຜູ້ຊາຍເຫຼົ່ານັ້ນ...
+
+339
+00:23:35,500 --> 00:23:37,500
+[FIRST THUG]
+Hey, buddy.
+ເຮ້, ເພື່ອນ.
+
+340
+00:23:38,000 --> 00:23:40,000
+[SECOND THUG]
+Stick around, bitch.
+ຢູ່ໃກ້ໆ, ໂຊກຮ້າຍ.
+
+341
+00:23:40,500 --> 00:23:42,500
+[COLE]
+Please!  Please don't hurt me!
+ຂໍຮ້ອງ! ຂໍຮ້ອງຢ່າເຮັດໃຫ້ຂ້ອຍເຈັບປວດ!
+
+342
+00:23:43,000 --> 00:23:45,000
+[COLE]
+Are you hurt?
+ເຈົ້າເຈັບປວດບໍ?
+
+343
+00:23:45,500 --> 00:23:48,300
+[RAILLY]
+Uh, no.  Yes.  I mean, just some scrapes...
+ໂອ້, ບໍ່. ແມ່ນແລ້ວ. ຂ້ອຍຫມາຍຄວາມວ່າ, ພຽງແຕ່ບາງກະດານ...
+
+344
+00:23:48,800 --> 00:23:50,800
+[RAILLY]
+Is he...alive?
+ລາວ... ຍັງມີຊີວິດຢູ່ບໍ?
+
+345
+00:23:51,300 --> 00:23:55,150
+[COLE]
+Come an.  We're running out of time. You can't help him.
+ມາແລ້ວ. ພວກເຮົາ ກໍາ ລັງຫມົດເວລາ. ເຈົ້າບໍ່ສາມາດຊ່ວຍລາວໄດ້.
+
+346
+00:23:55,650 --> 00:23:57,750
+[RAILLY]
+Oh, Jesus, James!  You killed him!
+ໂອ້ ພຣະເຢຊູ, ເຈມສ໌! ເຈົ້າໄດ້ຂ້າລາວ!
+
+347
+00:23:58,250 --> 00:24:01,050
+[COLE]
+I did him a favor.  Now come on.
+ຂ້ອຍເຮັດລາວດີ. ດຽວນີ້ມາ.
+
+348
+00:24:01,550 --> 00:24:04,350
+[RAILLY]
+You didn't have a gun before, did you?
+ເຈົ້າບໍ່ມີປືນກ່ອນ, ແມ່ນບໍ?
+
+349
+00:24:04,850 --> 00:24:06,850
+[COLE]
+I've got one now.
+ຂ້ອຍມີຫນຶ່ງດຽວນີ້.
+
+350
+00:24:07,350 --> 00:24:10,150
+[EVANGELIST]
+You!  You!  You're one of us, aren't you?
+ເຈົ້າ! ເຈົ້າ!ເຈົ້າເປັນຄົນ ຫນຶ່ງ ໃນພວກເຮົາ, ແມ່ນບໍ?
+
+351
+00:24:10,650 --> 00:24:12,650
+[FALE]
+Uh, can we help you?
+ໂອ້, ພວກເຮົາສາມາດຊ່ວຍທ່ານໄດ້ບໍ?
+
+352
+00:24:13,150 --> 00:24:15,950
+[FALE]
+Excuse me.  You looking for something in particular?
+ຂໍໂທດຂ້ອຍ. ເຈົ້າ ກໍາ ລັງຊອກຫາບາງສິ່ງບາງຢ່າງສະເພາະບໍ?
+
+353
+00:24:16,450 --> 00:24:19,600
+[RAILLY]
+It's all right, James -- it's just a tape.
+ມັນບໍ່ເປັນຫຍັງ, ເຈມສ໌ - ມັນເປັນພຽງແຕ່ເທບ.
+
+354
+00:24:20,100 --> 00:24:24,650
+[COLE]
+I, uh, I'm looking for the, ah, the Army of the Twelve Monkeys.
+ຂ້ອຍ, ອູ, ຂ້ອຍ ກໍາ ລັງຊອກຫາ, ອາ, ກອງທັບຂອງແມວສິບສອງຄົນ.
+
+355
+00:24:25,150 --> 00:24:31,150
+[TEDDY]
+We don't know anything about any "Army of the Twelve Monkeys", so why don't you and your friend disappear, okay?
+ພວກເຮົາບໍ່ຮູ້ຫຍັງເລີຍກ່ຽວກັບ"ກອງທັບຂອງແມວສິບສອງຄົນ"
+, ສະນັ້ນເປັນຫຍັງເຈົ້າແລະເພື່ອນຂອງທ່ານບໍ່ຫາຍໄປ, ດີບໍ?
+
+356
+00:24:31,650 --> 00:24:33,650
+[COLE]
+I just need some information...
+ຂ້ອຍພຽງແຕ່ຕ້ອງການຂໍ້ມູນບາງຢ່າງ...
+
+357
+00:24:34,150 --> 00:24:36,250
+[TEDDY]
+Didn't you hear me?  We're not...
+ເຈົ້າບໍ່ໄດ້ຍິນຂ້ອຍບໍ? ພວກເຮົາບໍ່ແມ່ນ...
+
+358
+00:24:36,750 --> 00:24:42,750
+[RAILLY]
+James, no -- don't hurt them.  Please, I'm a psychiatrist -- just do whatever he tells you to do.  He's... upset -- disturbed.  Please -- he's dangerous -- just cooperate.
+ເຈມສ໌, ບໍ່ - ຢ່າເຮັດໃຫ້ພວກເຂົາເຈັບປວດ. ກະລຸນາ, ຂ້ອຍເປັນແພດຈິດໃຈ - ພຽງແຕ່ເຮັດທຸກຢ່າງທີ່ລາວບອກເຈົ້າໃຫ້ເຮັດ
+. ລາວ... ໂຊກຮ້າຍ - ກະຕຸ້ນໃຈ. ຂໍຮ້ອງ - ລາວເປັນອັນຕະລາຍ - ພຽງແຕ່ວຽກຮ່ວມມື.
+
+359
+00:24:43,250 --> 00:24:47,450
+[FALE]
+What do you want -- money?  We only have a few bucks.
+ເຈົ້າຕ້ອງການຫຍັງ - ເງິນບໍ? ພວກເຮົາມີພຽງແຕ່ສອງສາມໂດລາເທົ່ານັ້ນ.
+
+360
+00:24:47,950 --> 00:24:51,100
+[COLE]
+I told you what I want.  Lock the door!
+ຂ້ອຍບອກເຈົ້າວ່າຂ້ອຍຢາກຫຍັງ. ປິດປະຕູ!
+
+361
+00:24:51,600 --> 00:24:53,600
+[RAILLY]
+James, why don't we...?
+ເຈມສ໌, ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່...?
+
+362
+00:24:54,100 --> 00:24:56,100
+[COLE]
+Lock it now!
+ປິດມັນດຽວນີ້!
+
+363
+00:24:56,600 --> 00:25:01,150
+[BEN]
+I told you that fuckhead Mason would get us into something like this.
+ຂ້ອຍບອກເຈົ້າວ່າແມຊອນຄົນໂຊກຮ້າຍຈະເຮັດໃຫ້ພວກເຮົາເຂົ້າໄປໃນສິ່ງນີ້.
+
+364
+00:25:01,650 --> 00:25:03,650
+[FALE]
+Shut up!
+ປິດງຽບ!
+
+365
+00:25:04,150 --> 00:25:06,150
+[COLE]
+Mason???
+ແມຊອນ???
+
+366
+00:25:06,650 --> 00:25:08,650
+[RAILLY]
+Jeffrey Mason?
+ເຈຟຣີ ເມຊັນ?
+
+367
+00:25:09,150 --> 00:25:11,150
+[BEN]
+Yeah, tucking, crazy Jeffrey Mason.
+ແມ່ນແລ້ວ, ກະຕຸ້ນ, ເຈຟຣີ ເມຊັນທີ່ໂຊກຮ້າຍ.
+
+368
+00:25:11,650 --> 00:25:17,650
+[FALE]
+Then, Jeffrey becomes like this...big star -- the media latch on to him because he's picketing his own father, a "famous Nobel Prize winning virologist". You musta seen all that on TV.
+ຫຼັງຈາກນັ້ນ, ເຈຟຣີກາຍເປັນແບບນີ້... ດາວໃຫຍ່ - ສື່ມວນຊົນຕິດຕໍ່ລາວເພາະວ່າລາວ ກໍາ ລັງເລືອກຕັ້ງພໍ່ຂອງລາວເອງ
+, ເປັນ"ນັກວິທະຍາສາດໄວຣັສທີ່ໄດ້ຮັບລາງວັນໂນເບລທີ່ມີຊື່ສຽງ". ເຈົ້າຕ້ອງໄດ້ເຫັນທັງ ຫມົດ ນັ້ນໃນໂທລະພາບ.
+
+369
+00:25:18,150 --> 00:25:20,150
+[COLE]
+No, I don't watch TV.
+ບໍ່, ຂ້ອຍບໍ່ເບິ່ງໂທລະພາບ.
+
+370
+00:25:20,650 --> 00:25:22,750
+[COLE]
+Is this him -- Dr. Mason?
+ນີ້ແມ່ນລາວບໍ - ດຣ ເມຊັນ?
+
+371
+00:25:23,250 --> 00:25:25,250
+[FALE]
+That's him.
+ນັ້ນແມ່ນລາວ.
+
+372
+00:25:25,750 --> 00:25:28,550
+[BEN]
+What are you going to do with us?
+ເຈົ້າຈະເຮັດຫຍັງກັບພວກເຮົາ?
+
+373
+00:25:29,050 --> 00:25:31,050
+[COLE]
+Tell me more about Jeffrey.
+ບອກຂ້ອຍອີກກ່ຽວກັບເຈຟຣີ.
+
+374
+00:25:31,550 --> 00:25:37,550
+[FALE]
+Jeffrey started getting bored with the shit we do...picketing, leafleting, letter-writing stuff.  He said we were, "ineffectual liberal jerkoffs".  He wanted to do guerrilla "actions" to "educate" the public.
+ເຈຟຣີເລີ່ມເບື່ອຫນ່າຍກັບສິ່ງແວດລ້ອມທີ່ພວກເຮົາເຮັດ... ການເລືອກຕັ້ງ, ແຜ່ນໃບໄມ້ລົ່ນ, ສິ່ງຂຽນຈົດຫມາຍ.
+ລາວເວົ້າວ່າພວກເຮົາແມ່ນ,"ຄົນໂຊກຮ້າຍເສລີທີ່ບໍ່ມີປະສິດທິຜົນ". ລາວຢາກເຮັດ"ການກະທໍາ" ຂອງພວກນັກຮົບເພື່ອ"ສຶກສາ" ປະຊາຊົນ.
+
+375
+00:25:38,050 --> 00:25:42,250
+[FALE]
+Yeah, that's when he let a hundred snakes loose in the Senate.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນເວລາທີ່ລາວປ່ອຍຊ້າງສິບຄົນອອກໃນສະພາສູງ.
+
+376
+00:25:42,750 --> 00:25:47,650
+[TEDDY]
+But we weren't into that kind of stuff. It's counter productive, we told him.
+ແຕ່ພວກເຮົາບໍ່ມັກສິ່ງນັ້ນ. ມັນບໍ່ຜົນຜະລິດ, ພວກເຮົາບອກລາວ.
+
+377
+00:25:48,150 --> 00:25:52,000
+[FALE]
+So he and eleven others split off and became this underground..."army"
+ສະນັ້ນລາວແລະຄົນອື່ນສິບຫນຶ່ງໄດ້ແຍກອອກແລະກາຍເປັນກອງທັບໃຕ້ດິນນີ້
+..."ກອງທັບ"
+
+378
+00:25:52,500 --> 00:25:54,600
+[COLE]
+The Army of The Twelve Monkeys.
+ກອງທັບຂອງແມວສິບສອງຄົນ.
+
+379
+00:25:55,100 --> 00:25:57,200
+[BEN]
+They started planning a "Human Hunt".
+ພວກເຂົາເລີ່ມວາງແຜນການ"ການລ່າສັດມະນຸດ".
+
+380
+00:25:57,700 --> 00:26:03,700
+[TEDDY]
+They bought stun guns and nets and bear traps.  They were gonna go to Wall Street and trap lawyers and bankers...
+ພວກເຂົາຊື້ປືນສັ່ນສະເທືອນແລະເຄືອຂ່າຍແລະແຄບແມວ.
+ພວກເຂົາຈະໄປຫາວໍລສຕຣີແລະຈັບທະນາຍຄວາມແລະນັກທະນາຄານ...
+
+381
+00:26:04,200 --> 00:26:08,050
+[BEN]
+But they didn't do it.  They didn't do any of it.
+ແຕ່ພວກເຂົາບໍ່ໄດ້ເຮັດມັນ. ພວກເຂົາບໍ່ໄດ້ເຮັດຫຍັງເລີຍ.
+
+382
+00:26:08,550 --> 00:26:12,400
+[TEDDY]
+Yeah, just like always, Mr. Big Shot sold his friends out!
+ແມ່ນແລ້ວ, ຄືກັບປົກກະຕິແລ້ວ, ທ້າວ Big Shot ໄດ້ຂາຍເພື່ອນຂອງລາວອອກ!
+
+383
+00:26:12,900 --> 00:26:14,900
+[COLE]
+What's that mean?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ?
+
+384
+00:26:15,400 --> 00:26:21,400
+[FALE]
+He goes on TV, gives a news conference, tells the whole world he just realized his daddy's experiments are vital for humanity and that the use of animals is absolutely necessary and that he, Jeffrey Mason, from now on, is going to personally supervise the labs to make sure all the little animals aren't going to suffer.
+ລາວໄປທາງໂທລະພາບ, ໃຫ້ກອງປະຊຸມຂ່າວ, ບອກໂລກທັງ ຫມົດ ວ່າລາວຫາກໍ່ຮູ້ວ່າການທົດລອງຂອງພໍ່ຂອງລາວມີຄວາມສໍາຄັນ ສໍາ ລັບມະນຸດແລະວ່າການໃຊ້ສັດແມ່ນມີຄວາມຈໍາເປັນຢ່າງສົມບູນແລະວ່າລາວ
+, ເຈຟຣີ ເມຊັນ, ຈາກປັດຈຸບັນນີ້, ຈະຄຸ້ມຄອງຫ້ອງທົດລອງສ່ວນຕົວເພື່ອແນ່ໃຈວ່າສັດນ້ອຍທັງ ຫມົດ ຈະບໍ່ປະສົບກັບຄວາມທຸກທໍລະມານ.
+
+385
+00:26:21,900 --> 00:26:23,900
+[COLE]
+What's this?
+ນີ້ແມ່ນຫຍັງ?
+
+386
+00:26:24,400 --> 00:26:28,950
+[RAILLY]
+If those young men don't get loose, they could die in that basement.
+ຖ້າພວກຜູ້ຊາຍຫນຸ່ມເຫຼົ່ານັ້ນບໍ່ປ່ອຍຕົວ
+, ພວກເຂົາອາດຈະຕາຍໃນຊັ້ນລຸ່ມນັ້ນ.
+
+387
+00:26:29,450 --> 00:26:32,950
+[COLE]
+All I see are dead people.  Everywhere. What's three more?
+ຂ້ອຍເຫັນພຽງແຕ່ຄົນຕາຍເທົ່ານັ້ນ. ທຸກບ່ອນ. ອີກສາມຄົນແມ່ນຫຍັງ?
+
+388
+00:26:33,450 --> 00:26:39,450
+[RAILLY]
+You know Dr. Mason's son, Jeffrey Mason, don't you, James?  You met him in the County Hospital six years ago.
+ເຈົ້າຮູ້ຈັກລູກຊາຍຂອງດຣ ເມຊອນ, ເຈຟຣີ ເມຊັນ, ເຈົ້າບໍ່
+, ເຈມສ໌? ເຈົ້າພົບລາວໃນໂຮງຫມໍເມືອງຫົກປີກ່ອນ.
+
+389
+00:26:39,950 --> 00:26:42,050
+[COLE]
+The guy was a total fruitcake.
+ຜູ້ຊາຍຄົນນັ້ນເປັນກະຕ່າຫມາກໄມ້ຢ່າງສົມບູນ.
+
+390
+00:26:42,550 --> 00:26:46,400
+[RAILLY]
+And he told you then his father was a famous virologist.
+ແລະລາວບອກເຈົ້າວ່າໃນເວລານັ້ນພໍ່ຂອງລາວເປັນນັກວິທະຍາສາດໄວຣັສທີ່ມີຊື່ສຽງ
+.
+
+391
+00:26:46,900 --> 00:26:49,700
+[COLE]
+No -- he said his father was "God"!
+ບໍ່ - ລາວເວົ້າວ່າພໍ່ຂອງລາວແມ່ນ"ພຣະເຈົ້າ"!
+
+392
+00:26:50,200 --> 00:26:54,400
+[RAILLY]
+This can't go on, James.  You're not well.  You're burning with fever.
+ນີ້ບໍ່ສາມາດສືບຕໍ່ໄປໄດ້, ເຈມສ໌.
+ເຈົ້າບໍ່ດີ. ເຈົ້າກໍາລັງເຜົາໄຫມ້ດ້ວຍໄຂ້.
+
+393
+00:26:54,900 --> 00:26:56,900
+[COLE]
+We need gas.
+ພວກເຮົາຕ້ອງການແກັສ.
+
+394
+00:26:57,400 --> 00:27:00,200
+[RAILLY]
+I thought you didn't know how to drive.
+ຂ້ອຍຄິດວ່າເຈົ້າບໍ່ຮູ້ວິທີຂັບລົດ.
+
+395
+00:27:00,700 --> 00:27:05,600
+[COLE]
+I said I was too young to drive.  I didn't say I was stupid.
+ຂ້ອຍບອກວ່າຂ້ອຍຍັງນ້ອຍເກີນໄປທີ່ຈະຂັບລົດ
+. ຂ້ອຍບໍ່ໄດ້ເວົ້າວ່າຂ້ອຍໂງ່.
+
+396
+00:27:06,100 --> 00:27:08,200
+[RAILLY]
+What's the matter with your leg?
+ມີຫຍັງເກີດຂຶ້ນກັບຕີນຂອງທ່ານ?
+
+397
+00:27:08,700 --> 00:27:12,550
+[COLE]
+I got shot.  Look -- there's a gas station up ahead.
+ຂ້ອຍຖືກຍິງ. ເບິ່ງ - ມີສະຖານີນໍ້າມັນເຊື້ອໄຟຢູ່ທາງຫນ້າ.
+
+398
+00:27:13,050 --> 00:27:15,050
+[RAILLY]
+Shot!  Who shot you?
+ຖືກຍິງ! ໃຜຍິງເຈົ້າ?
+
+399
+00:27:15,550 --> 00:27:20,450
+[COLE]
+It was some kind of...war.  Never mind, you wouldn't believe me.  Turn off here.
+ມັນເປັນສົງຄາມບາງຢ່າງ. ບໍ່ເປັນຫຍັງ
+, ເຈົ້າຈະບໍ່ເຊື່ອຂ້ອຍ. ປິດບ່ອນນີ້.
+
+400
+00:27:20,950 --> 00:27:25,150
+[COLE]
+You were going to run out off gas on purpose, weren't you?
+ເຈົ້າຈະຫມົດແກັສດ້ວຍຈຸດປະສົງ, ແມ່ນບໍ?
+
+401
+00:27:25,650 --> 00:27:31,650
+[RAILLY]
+No.  I want you to turn yourself in, James -- It'll go much better for you if you do -- but I'm not going to trick you.
+ບໍ່. ຂ້ອຍຢາກໃຫ້ເຈົ້າມອບຕົວເອງ, ເຈມສ໌ - ມັນຈະດີກວ່າຫຼາຍ
+ສໍາ ລັບເຈົ້າຖ້າເຈົ້າເຮັດ - ແຕ່ຂ້ອຍຈະບໍ່ຫຼອກລວງເຈົ້າ.
+
+402
+00:27:32,150 --> 00:27:35,300
+[COLE]
+That has your name on it.  Give him cash.
+ນັ້ນມີຊື່ຂອງທ່ານຢູ່ເທິງມັນ. ໃຫ້ລາວເງິນສົດ.
+
+403
+00:27:35,800 --> 00:27:37,800
+[COLE]
+Where are you going?
+ເຈົ້າໄປໃສ?
+
+404
+00:27:38,300 --> 00:27:44,300
+[RAILLY]
+You can come with me.  I have to get some things.  Scissors, bandages, some alcohol or whiskey. ... I have to look at your leg, James.  I'm a doctor.
+ເຈົ້າສາມາດມາກັບຂ້ອຍໄດ້. ຂ້ອຍຕ້ອງເອົາບາງສິ່ງບາງຢ່າງ. ກະດານກະດານ, ຜ້າຫຸ້ມຫໍ່,
+ເຫຼົ້າເຫຼົ້າບາງຢ່າງຫຼືວິສກີ.... ຂ້ອຍຕ້ອງເບິ່ງຕີນຂອງທ່ານ, ເຈມສ໌. ຂ້ອຍເປັນຫມໍ.
+
+405
+00:27:44,800 --> 00:27:50,800
+[RAILLY]
+You shouldn't put your weight on it. You need stitches and antibiotics. Lucky for you it was near the surface.
+ເຈົ້າບໍ່ຄວນເອົານ້ ໍາ ຫນັກ ຂອງເຈົ້າໃສ່ມັນ. ເຈົ້າຕ້ອງການການຕັດແລະຢາຕ້ານເຊື້ອ
+. ໂຊກດີ ສໍາ ລັບເຈົ້າວ່າມັນຢູ່ໃກ້ກັບພື້ນຜິວ.
+
+406
+00:27:51,300 --> 00:27:53,300
+[COLE]
+I love seeing the sun.
+ຂ້ອຍມັກເຫັນແສງແດດ.
+
+407
+00:27:53,800 --> 00:27:55,900
+[RAILLY]
+Wait -- let me help you.
+ລໍຖ້າ - ຂໍໃຫ້ຂ້ອຍຊ່ວຍເຈົ້າ.
+
+408
+00:27:56,400 --> 00:27:58,400
+[COLE]
+You smell so good.
+ເຈົ້າກິ່ນຫອມດີຫຼາຍ.
+
+409
+00:27:58,900 --> 00:28:01,700
+[RAILLY]
+You have to give yourself up, you know.
+ເຈົ້າຕ້ອງມອບຕົວເອງ, ເຈົ້າຮູ້ແລ້ວ.
+
+410
+00:28:02,200 --> 00:28:07,450
+[COLE]
+I have to do something now.  Something I don't want to do.  I'm so sorry.
+ຂ້ອຍຕ້ອງເຮັດບາງຢ່າງດຽວນີ້.
+ບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ຢາກເຮັດ. ຂ້ອຍຂໍໂທດຫຼາຍ.
+
+411
+00:28:07,950 --> 00:28:10,050
+[COLE]
+I have a mission.  It's important.
+ຂ້ອຍມີພາລະກິດ. ມັນສໍາຄັນ.
+
+412
+00:28:10,550 --> 00:28:12,550
+[FIRST AGENT]
+They find him?
+ພວກເຂົາພົບລາວບໍ?
+
+413
+00:28:13,050 --> 00:28:15,050
+[SECOND AGENT]
+Who??
+ໃຜ??
+
+414
+00:28:15,550 --> 00:28:18,000
+[FIRST AGENT]
+That kid.  The one in the pipe.
+ເດັກນ້ອຍຄົນນັ້ນ. ຄົນໃນທໍ່.
+
+415
+00:28:18,500 --> 00:28:24,500
+[SECOND AGENT]
+You believe this?  They're dropping a monkey down there with a miniature infra-red camera strapped on him and a roast beef sandwich wrapped in tinfoil.
+ເຈົ້າເຊື່ອສິ່ງນີ້ບໍ? ພວກເຂົາ ກໍາ
+ລັງຖິ້ມແມວລົງບ່ອນນັ້ນດ້ວຍກ້ອງຖ່າຍຮູບອິນຟຣາຣ໌ດ໌ຂະຫນາດນ້ອຍທີ່ຕິດຢູ່ເທິງລາວແລະແຊນວິດຊີບຊີ້ນເຜັດທີ່ຫຸ້ມຫໍ່ໃນແຜ່ນຢາງ.
+
+416
+00:28:25,000 --> 00:28:27,000
+[FIRST AGENT]
+You're making that up!
+ເຈົ້າ ກໍາ ລັງຄິດມັນຂຶ້ນ!
+
+417
+00:28:27,500 --> 00:28:33,500
+[DR. MASON]
+Would that I could enjoy this opulent dinner and this excellent and stimulating company for itself, with no sense of purpose.  But alas, I am "burdened" with the sense that with all this excess of public attention and this cacophony of praise, there comes great responsibility.  Indeed, I practically feel a soapbox growing under my feet whenever I stand for more than a few seconds.
+ຂ້ອຍຢາກໄດ້ເພີດເພີນກັບອາຫານຄໍ່າທີ່ອຸດົມສົມບູນນີ້ແລະບໍລິສັດທີ່ດີເລີດແລະກະຕຸ້ນໃຈນີ້ ສໍາ ລັບຕົວເອງ, ໂດຍບໍ່ມີຄວາມຮູ້ສຶກຂອງຈຸດປະສົງ. ແຕ່ໂຊກຮ້າຍ, ຂ້ອຍຖືກ"ໂຫຼດ"
+ດ້ວຍຄວາມຄິດວ່າດ້ວຍຄວາມສົນໃຈຂອງສາທາລະນະຫຼາຍເກີນໄປນີ້ແລະ cacophony ຂອງການຍ້ອງຍໍນີ້, ມີຄວາມຮັບຜິດຊອບທີ່ຍິ່ງໃຫຍ່. ແທ້ຈິງແລ້ວ, ຂ້ອຍເກືອບຮູ້ສຶກວ່າກ່ອງສະບູທີ່ເຕີບໃຫຍ່ຢູ່ພາຍໃຕ້ຕີນຂອງຂ້ອຍທຸກ
+
+418
+00:28:34,000 --> 00:28:37,850
+[JEFFREY]
+What are you talking about?  What friend?  I'm not expecting anyone.
+ເຈົ້າເວົ້າຫຍັງ? ເພື່ອນໃດ? ຂ້ອຍບໍ່ຄາດຫວັງໃຜເລີຍ.
+
+419
+00:28:38,350 --> 00:28:44,350
+[DR. MASON]
+Current genetic engineering as well as my own work with viruses has presented us with powers as terrifying as any...
+ວິສະວະກໍາພັນທຸ ກໍາ ປະຈຸບັນເຊັ່ນດຽວກັນກັບວຽກງານຂອງຂ້ອຍເອງກັບໄວຣັສໄດ້
+ນໍາ ສະ ເຫນີ ໃຫ້ພວກເຮົາດ້ວຍພະລັງທີ່ ຫນ້າ ຢ້ານກົວເທົ່າກັບໃດໆ...
+
+420
+00:28:44,850 --> 00:28:48,350
+[JEFFREY]
+This is ridiculous.  My father is making a major address.
+ນີ້ແມ່ນໂຊກຮ້າຍ. ພໍ່ຂອງຂ້ອຍ ກໍາ ລັງກ່າວຄໍາປາໄສທີ່ສໍາຄັນ.
+
+421
+00:28:48,850 --> 00:28:54,850
+[AGENT #3]
+Normally if we caught a guy sneaking around like this with no I.D., we'd bust his ass, excuse the French, but this one said he knows you...  -- and, since you seem to have had some...uh...unusual...uh..."associates", we certainly didn't want to arrest one of your, uh, closest...pals.
+ປົກກະຕິແລ້ວຖ້າພວກເຮົາຈັບຜູ້ຊາຍຄົນລັກລອບແບບນີ້ໂດຍບໍ່ມີໃບຢັ້ງຢືນ, ພວກເຮົາຈະທໍາລາຍຫລັງຂອງລາວ, ຂໍໂທດຊາວຝຣັ່ງ, ແຕ່ຄົນນີ້ເວົ້າວ່າລາວຮູ້ຈັກເຈົ້າ... - ແລະ,
+ເນື່ອງຈາກວ່າເຈົ້າເບິ່ງຄືວ່າມີບາງຄົນ... ອູ... ບໍ່ປົກກະຕິ... ໂອ້..."ເພື່ອນຮ່ວມງານ", ພວກເຮົາແນ່ນອນບໍ່ຢາກຈັບຄົນ ຫນຶ່ງ ໃນ, ອູ, ເພື່ອນໃກ້ຊິດທີ່ສຸດຂອງທ່ານ.
+
+422
+00:28:55,350 --> 00:29:01,350
+[JEFFREY]
+Never saw him before in my life.  Go ahead and shoot him or torture him or whatever it is you do.
+ຂ້ອຍບໍ່ເຄີຍເຫັນລາວກ່ອນໃນຊີວິດຂອງຂ້ອຍ.
+ໄປກ່ອນແລະຍິງລາວຫຼືທໍລະມານລາວຫຼືສິ່ງໃດກໍ່ຕາມທີ່ທ່ານເຮັດ.
+
+423
+00:29:01,850 --> 00:29:04,650
+[COLE]
+You do know me.  You helped me once.
+ເຈົ້າຮູ້ຈັກຂ້ອຍແທ້ໆ. ເຈົ້າຊ່ວຍຂ້ອຍຄັ້ງຫນຶ່ງ.
+
+424
+00:29:05,150 --> 00:29:11,150
+[JEFFREY]
+That would be totally out of character. Helping people is against my principles.  See, he definitely doesn't know me.  Now, I'm going to go back and listen to my father's very eloquent discourse on the perils of science WHILE YOU TORTURE THIS INTRUDER TO DEATH.
+ນັ້ນຈະເປັນການຜິດລັກສະນະຢ່າງສົມບູນ. ການຊ່ວຍຄົນແມ່ນກົງກັນຂ້າມຫຼັກການຂອງຂ້ອຍ. ເບິ່ງ, ລາວແນ່ນອນບໍ່ຮູ້ຈັກຂ້ອຍ. ດຽວນີ້,
+ຂ້ອຍຈະກັບຄືນໄປບ່ອນແລະຟັງການກ່າວປາໄສທີ່ສວຍງາມຫຼາຍຂອງພໍ່ຂອງຂ້ອຍກ່ຽວກັບອັນຕະລາຍຂອງວິທະຍາສາດໃນຂະນະທີ່ເຈົ້າທໍລະມານຄົນເຂົ້າມານີ້ຈົນເຖິງຄວາມຕາຍ.
+
+425
+00:29:11,650 --> 00:29:13,650
+[COLE]
+I'm here about some monkeys.
+ຂ້ອຍຢູ່ບ່ອນນີ້ກ່ຽວກັບແມວບາງຢ່າງ.
+
+426
+00:29:14,150 --> 00:29:16,600
+[JEFFREY]
+Excuse me -- what did you say?
+ຂໍໂທດຂ້ອຍ - ເຈົ້າເວົ້າຫຍັງ?
+
+427
+00:29:17,100 --> 00:29:19,100
+[COLE]
+Monkeys.  Twelve of them.
+ແມວ. ມີສິບສອງຄົນ.
+
+428
+00:29:19,600 --> 00:29:21,600
+[JEFFREY]
+Arnold...Arnold.
+ແອຣນລາດ... ແອຮນລອດ.
+
+429
+00:29:22,100 --> 00:29:25,950
+[JEFFREY]
+My God, Arnie, what's happened to you? You look like shit
+ພຣະເຈົ້າຂອງຂ້ອຍ, ອາຣນີ, ເກີດຫຍັງຂຶ້ນກັບເຈົ້າ
+? ເຈົ້າເບິ່ງຄືວ່າໂຊກຮ້າຍ
+
+430
+00:29:26,450 --> 00:29:28,450
+[AGENT #3]
+You know this man?
+ເຈົ້າຮູ້ຈັກຜູ້ຊາຍຄົນນີ້ບໍ?
+
+431
+00:29:28,950 --> 00:29:34,950
+[JEFFREY]
+Of course I know him.  What do you think -- I act like this to strangers? Listen -- you fellas are terrific.  I thought you were pulling a number on me.  What a terrible thing if you'd thrown old Arnie out.  I owe you guys the big apologia!  Mea culpa, fellas.  Christ, Arnie, it's black tie!  I mean, I said, "drop by," but, like, this is Dad's big "do"...vips, senators, secret service, and...and everything.
+ແນ່ນອນວ່າຂ້ອຍຮູ້ຈັກລາວ. ເຈົ້າຄິດແນວໃດ - ຂ້ອຍປະຕິບັດແບບນີ້ຕໍ່ຄົນແປກໃຈ? ຟັງ - ພວກເຈົ້າດີເລີດ. ຂ້ອຍຄິດວ່າເຈົ້າ ກໍາ ລັງດຶງຕົວເລກໃສ່ຂ້ອຍ. ສິ່ງທີ່ຮ້າຍແຮງຫຼາຍປານໃດຖ້າເຈົ້າໄດ້ຖິ້ມອາຣນີເກົ່າອອກ.
+ຂ້ອຍເປັນຫນີ້ໃຫ້ເຈົ້າຂໍໂທດທີ່ໃຫຍ່! ຄວາມຜິດຂອງຂ້ອຍ, ພວກຜູ້ຊາຍ. ພຣະຄຣິດ, ອາຣນີ, ມັນແມ່ນສາຍພັນສີ ດໍາ! ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍເວົ້າວ່າ,"ລົງໄປ," ແຕ່, ເຊັ່ນວ່າ, ນີ້ແມ່ນ"ເຮັດ" ທີ່ໃຫຍ່ຂອງພໍ່... VIP, ສະມາຊິກສະພາ
+
+432
+00:29:35,450 --> 00:29:37,450
+[AGENT #4]
+"Arnie?"
+ແອຣນນີ?
+
+433
+00:29:37,950 --> 00:29:43,950
+[JEFFREY]
+Arnold Pettibone.  Old Arnie Pettibone. Used to be my best friend.  Still is. What've you lost, Arnie -- forty pounds? No wonder I didn't know you. You hungry? Lots of dead cow, dead lamb, dead pig. Real killer feast we're putting on tonight.
+ແອຣນລ໌ດ໌ ເປຕຕິໂບນ. ອາຣນນີ ເພຕຕິບອນເກົ່າ. ເຄີຍເປັນເພື່ອນທີ່ດີທີ່ສຸດຂອງຂ້ອຍ. ຍັງເປັນ. ເຈົ້າໄດ້ສູນເສຍຫຍັງ, ອາຣັນນີ - ສີ່ສິບປອນ?
+ບໍ່ແປກໃຈທີ່ຂ້ອຍບໍ່ຮູ້ຈັກເຈົ້າ. ເຈົ້າຢາກກິນບໍ? ງົວຕາຍຫຼາຍ, ແມວຕາຍ, ຫມູຕາຍ. ງານບຸນຜູ້ຂ້າທີ່ແທ້ຈິງທີ່ພວກເຮົາ ກໍາ ລັງຈັດໃນຄືນນີ້.
+
+434
+00:29:44,450 --> 00:29:47,950
+[AGENT #4]
+These people -- all of 'em -- are true weirdoes!
+ຄົນເຫຼົ່ານີ້ - ທຸກຄົນ - ແມ່ນຄົນແປກໃຈແທ້ໆ!
+
+435
+00:29:48,450 --> 00:29:54,450
+[AGENT #3]
+I'm gonna call in a description of this "Pettibone" character.  You go keep an eye on him.  Make sure he doesn't do one of the guests with a fork.
+ຂ້ອຍຈະໂທຫາການອະທິບາຍຂອງຕົວລະຄອນ"ເປຕຕິໂບນ" ນີ້.
+ເຈົ້າໄປເບິ່ງແຍງລາວ. ໃຫ້ແນ່ໃຈວ່າລາວບໍ່ເຮັດ ຫນຶ່ງ ໃນແຂກດ້ວຍກະດານ.
+
+436
+00:29:54,950 --> 00:30:00,550
+[JEFFREY]
+Hey, nice ta see ya.  Lookin' good!  Hi, there.  Yes, it has been a long time.
+ເຮ້, ດີໃຈທີ່ເຫັນເຈົ້າ. ເບິ່ງດີ! ສະບາຍດີ,
+ຢູ່ບ່ອນນັ້ນ. ແມ່ນແລ້ວ, ມັນເປັນເວລາດົນນານແລ້ວ.
+
+437
+00:30:01,050 --> 00:30:07,050
+[JEFFREY]
+County Hospital, right?  1989.  The "Immaculate Escape" -- am I right?  Why, thank you -- you look wonderful, too.
+ໂຮງຫມໍເມືອງ, ແມ່ນບໍ? ປີ 1989. ການ"ການຫນີທີ່ບໍ່ມີຂໍ້ບົກຜ່ອງ"
+- ຂ້ອຍຖືກຕ້ອງບໍ? ເປັນຫຍັງ, ຂອບໃຈ - ເຈົ້າເບິ່ງດີເລີດເຊັ່ນກັນ.
+
+438
+00:30:07,550 --> 00:30:13,550
+[COLE]
+Listen to me -- I can't do anything about what you're going to do. I can't change anything.  I can't stop you.  I just want some information...
+ຟັງຂ້ອຍ - ຂ້ອຍບໍ່ສາມາດເຮັດຫຍັງເລີຍກ່ຽວກັບສິ່ງທີ່ເຈົ້າຈະເຮັດ.
+ຂ້ອຍບໍ່ສາມາດປ່ຽນແປງຫຍັງເລີຍ. ຂ້ອຍສາມາດຢຸດເຈົ້າໄດ້. ຂ້ອຍພຽງແຕ່ຕ້ອງການຂໍ້ມູນບາງຢ່າງ...
+
+439
+00:30:14,050 --> 00:30:20,050
+[JEFFREY]
+We need to talk.  Come on.  Upstairs.  I am a new person!  I'm completely adjusted.  Witness the tux.  It's Armani.  Who chattered?  Goines?  Weller?
+ພວກເຮົາຕ້ອງເວົ້າກັນ. ມາ. ຢູ່ເທິງ. ຂ້ອຍເປັນຄົນໃຫມ່! ຂ້ອຍປັບຕົວຢ່າງສົມບູນ
+. ເປັນພະຍານຂອງສມັອກສ໌. ມັນແມ່ນອາຣມານີ. ໃຜເວົ້າ? ໂກນສ໌? ເວລເລີ?
+
+440
+00:30:20,550 --> 00:30:25,800
+[COLE]
+I just need to have access to the pure virus, that's all!  For the future!
+ຂ້ອຍພຽງແຕ່ຕ້ອງເຂົ້າເຖິງໄວຣັສທີ່ບໍລິສຸດ
+, ນັ້ນແມ່ນທັງຫມົດ! ສໍາລັບອະນາຄົດ!
+
+441
+00:30:26,300 --> 00:30:29,450
+[JEFFREY]
+Come on, follow me.  You don't lock so good.
+ມາແລ້ວ, ຕິດຕາມຂ້ອຍ. ເຈົ້າບໍ່ລັອກດີຫຼາຍ.
+
+442
+00:30:29,950 --> 00:30:35,950
+[COLE]
+I don't have time to go upstairs.  The police are looking for me.  I need to know where it is and exactly what it is.
+ຂ້ອຍບໍ່ມີເວລາທີ່ຈະຂຶ້ນເທິງ. ຕໍາຫຼວດ ກໍາ ລັງຊອກຫາຂ້ອຍ
+. ຂ້ອຍຕ້ອງຮູ້ວ່າມັນຢູ່ໃສແລະມັນເປັນຫຍັງຢ່າງແນ່ນອນ.
+
+443
+00:30:36,450 --> 00:30:39,600
+[JEFFREY]
+I get it!  This is your old plan, right?
+ຂ້ອຍເຂົ້າໃຈແລ້ວ! ນີ້ແມ່ນແຜນການເກົ່າຂອງທ່ານ, ແມ່ນບໍ?
+
+444
+00:30:40,100 --> 00:30:42,200
+[COLE]
+Plan?  What are you talking about?
+ແຜນການ? ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+445
+00:30:42,700 --> 00:30:48,700
+[JEFFREY]
+Remember?  We were in the dayroom, watching TV, and you were all upset about the...desecration of the planet. And you said to me, "Wouldn't it be great if there was a germ or a virus that could wipe out mankind and leave the plants and animals just as they are?"  You do remember that, don't you?
+ຈື່ໄວ້ບໍ? ພວກເຮົາຢູ່ໃນຫ້ອງຮັບແຂກ, ເບິ່ງໂທລະພາບ, ແລະເຈົ້າທັງ ຫມົດ ມີຄວາມໂຊກຮ້າຍກ່ຽວກັບ... ການສັກສິດຂອງໂລກ. ແລະເຈົ້າບອກຂ້ອຍວ່າ
+,"ມັນຈະບໍ່ດີເລີດຖ້າມີເຊື້ອແມວຫຼືໄວຣັສທີ່ສາມາດລົບລ້າງມະນຸດແລະປ່ອຍພືດແລະສັດຕາມທີ່ພວກເຂົາເປັນບໍ?" ເຈົ້າຈື່ສິ່ງນັ້ນ, ແມ່ນບໍ?
+
+446
+00:30:49,200 --> 00:30:51,300
+[COLE]
+Bulishit!  You're fucking with my head!
+ເຈົ້າ ກໍາ ລັງໂຊກຮ້າຍຫົວຂອງຂ້ອຍ!
+
+447
+00:30:51,800 --> 00:30:57,800
+[JEFFREY]
+And that's when I told you my father was this famous virologist and you said, "Hey, he could make a germ and we could steal it!"
+ແລະນັ້ນແມ່ນເວລາທີ່ຂ້ອຍບອກເຈົ້າວ່າພໍ່ຂອງຂ້ອຍເປັນນັກວິທະຍາສາດໄວຣັສທີ່ມີຊື່ສຽງແລະເຈົ້າເວົ້າວ່າ
+," ເຮ້, ລາວສາມາດເຮັດເຊື້ອພະຍາດແລະພວກເຮົາສາມາດລັກມັນໄດ້!"
+
+448
+00:30:58,300 --> 00:31:04,300
+[COLE]
+Listen, you dumb fuck!  The thing mutates We live underground!  The world belongs to the fucking dogs and cats.  We're like moles or worms.  All we want to do is study the original...
+ຟັງຟັງ, ເຈົ້າໂຊກແຊງໂງ່! ສິ່ງແວດລ້ອມພວກເຮົາອາໄສຢູ່ພາຍໃຕ້ດິນ! ໂລກແມ່ນຂອງຫມາແລະແມວແມ
+. ພວກເຮົາຄືກັບກະຕ່າຫຼືແມງໄມ້. ສິ່ງດຽວທີ່ພວກເຮົາຢາກເຮັດແມ່ນການສຶກສາຕົ້ນສະບັບ...
+
+449
+00:31:04,800 --> 00:31:09,000
+[AGENT #4'S VOICE]
+Okay -- take it easy.  We know who you are, Mr. Cole.
+ດີແລ້ວ - ສະບາຍໃຈ. ພວກເຮົາຮູ້ວ່າເຈົ້າເປັນໃຜ, ທ້າວໂກລ.
+
+450
+00:31:09,500 --> 00:31:14,050
+[AGENT #4]
+Let's go somewhere and talk this thing over. Okay? Just come with me...
+ໄປບ່ອນໃດຫນຶ່ງແລະເວົ້າເລື່ອງນີ້. ດີບໍ? ພຽງແຕ່ມາກັບຂ້ອຍ...
+
+451
+00:31:14,550 --> 00:31:20,550
+[JEFFREY]
+You're right!  Absolutely right.  Me's a nut case, totally deranged.  Delusional! Paranoid.  HIS PROCESSOR'S ALL FUCKED UP, HIS INFORMATION TRAY IS JAMMED.
+ເຈົ້າເວົ້າຖືກຕ້ອງ! ເວົ້າຖືກຕ້ອງຢ່າງສົມບູນ. ຂ້ອຍເປັນກໍລະນີໂຊກຮ້າຍ, ໂຊກແຊງຢ່າງສົມ ບູນ.
+ຄວາມຜິດປົກກະຕິ! ໂປຣໂກ້. ຜູ້ປະມວນຜົນຂອງລາວທັງ ຫມົດ ຈົບແນ່, ເສັ້ນທາງຂໍ້ມູນຂອງລາວຖືກປິດບັງ.
+
+452
+00:31:21,050 --> 00:31:24,200
+[AGENT #3]
+Take it easy, Mr. Mason, we've got him. Everything's...
+ສະບາຍໃຈເດີ, ທ້າວແມຊອນ, ພວກເຮົາມີລາວ. ທຸກຢ່າງແມ່ນ...
+
+453
+00:31:24,700 --> 00:31:27,150
+[AGENT #4]
+Did a man just come through here...limping?
+ຜູ້ຊາຍຄົນຫນຶ່ງຫາກໍ່ຜ່ານບ່ອນນີ້... ຂັບຂີ່ບໍ?
+
+454
+00:31:27,650 --> 00:31:29,650
+[PILOT]
+There!  He's showing lights.
+ນັ້ນແລ້ວ! ລາວ ກໍາ ລັງສະແດງແສງສະຫວ່າງ.
+
+455
+00:31:30,150 --> 00:31:32,150
+[PILOT]
+Goddamnit!  Where is he?
+ລາວຢູ່ໃສ?
+
+456
+00:31:32,650 --> 00:31:34,650
+[CO-PILOT]
+There!  Over there.
+ນັ້ນແລ້ວ! ຢູ່ບ່ອນນັ້ນ.
+
+457
+00:31:35,150 --> 00:31:37,150
+[PILOT]
+Where?
+ຢູ່ໃສ?
+
+458
+00:31:37,650 --> 00:31:39,750
+[CO-PILOT]
+Eight o'clock!  He was right there.
+ເວລາແປດໂມງ! ລາວຢູ່ບ່ອນນັ້ນ.
+
+459
+00:31:40,250 --> 00:31:42,700
+[PILOT]
+He musta turned his lights of if.
+ລາວຕ້ອງເຮັດໃຫ້ແສງສະຫວ່າງຂອງລາວປິດຖ້າ.
+
+460
+00:31:43,200 --> 00:31:47,050
+[CO-PILOT]
+Couldn't drive down there without lights.  We just can't see 'em.
+ຂ້ອຍບໍ່ສາມາດຂັບລົດລົງໄປບ່ອນນັ້ນໄດ້ໂດຍບໍ່ມີແສງສະຫວ່າງ
+. ພວກເຮົາພຽງແຕ່ບໍ່ສາມາດເຫັນພວກມັນໄດ້.
+
+461
+00:31:47,550 --> 00:31:49,550
+[PILOT]
+Maybe he's not driving!
+ບາງທີລາວບໍ່ໄດ້ຂັບລົດ!
+
+462
+00:31:50,050 --> 00:31:52,050
+[POLICE OFFICER]
+He's not in here.
+ລາວບໍ່ໄດ້ຢູ່ບ່ອນນີ້.
+
+463
+00:31:52,550 --> 00:31:54,550
+[RAILLY]
+You bastard!  You total bastard!
+ເຈົ້າໂຊກຮ້າຍ! ເຈົ້າໂສກຮ້າຍຢ່າງສົມບູນ!
+
+464
+00:31:55,050 --> 00:32:00,650
+[RAILLY]
+I could have died in there.  If something had happened to you I would have died.
+ຂ້ອຍອາດຈະຕາຍຢູ່ບ່ອນນັ້ນ.
+ຖ້າບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນກັບເຈົ້າຂ້ອຍຈະຕາຍ.
+
+465
+00:32:01,150 --> 00:32:03,150
+[COLE]
+I...I...I'm really sorry.
+ຜມ... ຜມ ຂໍໂທດຈຮິງໆ
+
+466
+00:32:03,650 --> 00:32:06,100
+[RAILLY]
+What have you done?  Did you...kill someone?
+ເຈົ້າເຮັດຫຍັງແລ້ວ? ເຈົ້າ... ໄດ້ຂ້າຄົນໃດບໍ?
+
+467
+00:32:06,600 --> 00:32:12,200
+[COLE]
+No!  I...don't think so.  I stole a car and they chased me.  I hit a tree.
+ບໍ່! ຂ້ອຍ... ບໍ່ຄິດດັ່ງນັ້ນ.
+ຂ້ອຍລັກລົດແລະພວກເຂົາລ່າຫຼັງຂ້ອຍ. ຂ້ອຍຕີຕົ້ນໄມ້.
+
+468
+00:32:12,700 --> 00:32:15,150
+[RAILLY]
+See -- you can drive after all!
+ເບິ່ງ - ເຈົ້າສາມາດຂັບລົດໄດ້ແລ້ວ!
+
+469
+00:32:15,650 --> 00:32:21,650
+[COLE]
+Yeah, sort of, I guess.  I...I'm sorry I locked you up.  I thought...I thought... I think maybe I am crazy!
+ແມ່ນແລ້ວ, ບາງຢ່າງ, ຂ້ອຍຄິດວ່າ. ຂ້ອຍ... ຂ້ອຍຂໍໂທດທີ່ຂ້ອຍໄດ້ລັອກເຈົ້າໄວ້
+. ຂ້ອຍຄິດ... ຂ້ອຍຄິດ... ຂ້ອຍຄິດວ່ານຂ້ອຍອາດຈະໂຊກຮ້າຍ!
+
+470
+00:32:22,150 --> 00:32:24,150
+[RAILLY]
+What made you think that?
+ເປັນຫຍັງເຈົ້າຈຶ່ງຄິດແບບນັ້ນ?
+
+471
+00:32:24,650 --> 00:32:30,650
+[COLE]
+Jeffrey Mason said it was my idea about the virus.  And suddenly, I wasn't sure.  We talked when I was in the institution, and it was all...fuzzy. The drugs and stuff.  You think maybe I'm the one who wiped out the human race?  It was my idea?
+ເຈຟຣີ ເມຊັນເວົ້າວ່າ ມັນເປັນຄວາມຄິດຂອງຂ້ອຍກ່ຽວກັບໄວຣັສ. ແລະທັນທີ, ຂ້ອຍບໍ່ແນ່ໃຈ. ພວກເຮົາໄດ້ເວົ້າກັນເມື່ອຂ້ອຍຢູ່ໃນສະຖາບັນ, ແລະມັນທັງ
+ຫມົດ ແມ່ນ... ບໍ່ແນ່ນອນ. ຢາເສບຕິດແລະສິ່ງອື່ນໆ. ເຈົ້າຄິດວ່າບາງທີຂ້ອຍເປັນຄົນທີ່ ທໍາ ລາຍເຊື້ອຊາດມະນຸດບໍ? ມັນແມ່ນຄວາມຄິດຂອງຂ້ອຍບໍ?
+
+472
+00:32:31,150 --> 00:32:37,150
+[RAILLY]
+Nobody is going to wipe out the human race.  Not you or Jeffrey or anybody else.  You've created something in your mind, James -- a substitute reality. In order to avoid something you don't want to face.
+ບໍ່ມີໃຜຈະລົບລ້າງເຊື້ອຊາດມະນຸດ. ບໍ່ແມ່ນເຈົ້າຫຼືເຈຟຣີ ຫຼືໃຜອື່ນ. ເຈົ້າໄດ້ສ້າງບາງສິ່ງບາງຢ່າງໃນຈິດໃຈຂອງທ່ານ
+, ເຈມສ໌ - ຄວາມເປັນຈິງທີ່ທົດແທນ. ເພື່ອຫຼີກເວັ້ນສິ່ງທີ່ທ່ານບໍ່ຢາກປະເຊີນຫນ້າ.
+
+473
+00:32:37,650 --> 00:32:40,450
+[COLE]
+I'm..."mentally divergent".  I would love to believe that.
+ຂ້ອຍ..."ຄວາມແຕກຕ່າງທາງຈິດໃຈ". ຂ້ອຍຢາກເຊື່ອເລື່ອງນັ້ນ.
+
+474
+00:32:40,950 --> 00:32:46,200
+[RAILLY]
+It can be dealt with, but only if you want to.  I can help you.
+ມັນສາມາດຈັດການໄດ້, ແຕ່ພຽງແຕ່ຖ້າເຈົ້າຕ້ອງການ
+. ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້.
+
+475
+00:32:46,700 --> 00:32:49,850
+[COLE]
+I need help all right.  They're coming after me.
+ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອດີ. ພວກເຂົາ ກໍາ ລັງມາຕາມຂ້ອຍ.
+
+476
+00:32:50,350 --> 00:32:55,600
+[RAILLY]
+First, it's important that you surrender to them instead of them catching you running.  Okay?
+ກ່ອນອື່ນ ຫມົດ,
+ມັນມີຄວາມສໍາຄັນວ່າເຈົ້າຍອມຮັບພວກເຂົາແທນທີ່ຈະພວກເຂົາຈັບເຈົ້າແລ່ນ. ດີບໍ?
+
+477
+00:32:56,100 --> 00:33:02,100
+[COLE]
+It would be great if I'm crazy.  If I'm wrong about everything...the world will be okay.  I'll never have to live underground.
+ມັນຈະດີຫຼາຍຖ້າຂ້ອຍໂຊກຮ້າຍ. ຖ້າຂ້ອຍຜິດກ່ຽວກັບທຸກຢ່າງ
+... ໂລກຈະດີດີ. ຂ້ອຍຈະບໍ່ຕ້ອງອາໄສຢູ່ພາຍໃຕ້ດິນເລີຍ.
+
+478
+00:33:02,600 --> 00:33:04,600
+[RAILLY]
+Give me the gun.
+ໃຫ້ປືນໃຫ້ຂ້ອຍ.
+
+479
+00:33:05,100 --> 00:33:07,200
+[COLE]
+The gun! ... I lost it
+ປືນ!... ຂ້ອຍໄດ້ສູນເສຍມັນ
+
+480
+00:33:07,700 --> 00:33:09,700
+[RAILLY]
+You're sure?
+ເຈົ້າແນ່ໃຈບໍ?
+
+481
+00:33:10,200 --> 00:33:13,350
+[COLE]
+No gun!  Stars!  Air!  I can live here.  Breathe!
+ບໍ່ມີປືນ! ດາວ! ອາກາດ! ຂ້ອຍສາມາດຢູ່ບ່ອນນີ້ໄດ້. ຫາຍໃຈ!
+
+482
+00:33:13,850 --> 00:33:18,400
+[RAILLY]
+I'm going to attract their attention, let them know where we are, okay?
+ຂ້ອຍຈະດຶງດູດຄວາມສົນໃຈຂອງພວກເຂົາ,
+ໃຫ້ພວກເຂົາຮູ້ວ່າພວກເຮົາຢູ່ໃສ, ດີບໍ?
+
+483
+00:33:18,900 --> 00:33:24,900
+[RAILLY]
+They'll tell you to put your hands on top of your head.  Do what they tell you.  You're going to get better, James -- I know it!
+ພວກເຂົາຈະບອກເຈົ້າໃຫ້ເອົາມືໃສ່ເທິງຫົວຂອງທ່ານ.
+ເຮັດຕາມທີ່ພວກເຂົາບອກເຈົ້າ. ເຈົ້າຈະດີຂຶ້ນ, ເຈມສ໌ - ຂ້ອຍຮູ້ມັນ!
+
+484
+00:33:25,400 --> 00:33:27,400
+[COLE]
+I love this world!
+ຂ້ອຍຮັກໂລກນີ້!
+
+485
+00:33:27,900 --> 00:33:32,800
+[RAILLY]
+Remember, I'm going to help you.  I'll stay with you.  I won't let them...
+ຈື່ໄວ້ວ່າ, ຂ້ອຍຈະຊ່ວຍເຈົ້າ.
+ຂ້ອຍຈະຢູ່ກັບເຈົ້າ.ຂ້ອຍຈະບໍ່ປ່ອຍໃຫ້ພວກເຂົາ...
+
+486
+00:33:33,300 --> 00:33:39,300
+[RAILLY]
+Then I said something to him about cooperating and he said he would do that, so I got in the car and started honking the horn.  When I got out, he was gone.
+ຫຼັງຈາກນັ້ນຂ້ອຍເວົ້າບາງສິ່ງບາງຢ່າງກັບລາວກ່ຽວກັບການຮ່ວມມືແລະລາວເວົ້າວ່າລາວຈະເຮັດສິ່ງນັ້ນ
+, ສະນັ້ນຂ້ອຍເຂົ້າໄປໃນລົດແລະເລີ່ມຕົ້ນສຽງດັງ. ເມື່ອຂ້ອຍອອກມາ, ລາວຫາຍໄປແລ້ວ.
+
+487
+00:33:39,800 --> 00:33:45,750
+[LIEUTENANT HALPERIN]
+You lucked out.  For a while we thought you were a body they found down state... mutilated.
+ເຈົ້າໂຊກດີ. ເປັນເວລາດົນນານພວກເຮົາຄິດວ່າເຈົ້າເປັນສົບທີ່ພວກເຂົາພົບເຫັນຢູ່ລັດ
+... ຖືກຕັດຕັດ.
+
+488
+00:33:46,250 --> 00:33:49,050
+[RAILLY]
+He wouldn't do something like that -- he...
+ລາວຈະບໍ່ເຮັດສິ່ງນັ້ນ - ລາວ...
+
+489
+00:33:49,550 --> 00:33:51,550
+[LIEUTENANT RALPERIN]
+This the man he attacked?
+ນີ້ແມ່ນຜູ້ຊາຍທີ່ລາວໂຈມຕີບໍ?
+
+490
+00:33:52,050 --> 00:33:58,050
+[RAILLY]
+I'd like to be clear about this.  That man and the other one were..."severely" beating us.  James Cole didn't start it.  In fact -- he saved me!
+ຂ້ອຍຢາກຈະແຈ້ງກ່ຽວກັບເລື່ອງນີ້. ຜູ້ຊາຍຄົນນັ້ນແລະຄົນອື່ນແມ່ນ..."ຢ່າງຮຸນແຮງ"
+ເອົາຊະນະພວກເຮົາ. ເຈມສ໌ ຄໍລບໍ່ໄດ້ເລີ່ມຕົ້ນມັນ. ໃນຄວາມເປັນຈິງ - ລາວຊ່ວຍຂ້ອຍ!
+
+491
+00:33:58,550 --> 00:34:04,550
+[LIEUTENANT RALPERIN]
+Funny thing, Doctor, maybe you can explain it to me, you being a psychiatrist -- why do kidnap victims almost always try to tell us about the guys who grabbed 'em and try to make us understand how kind these bastards really were?
+ສິ່ງທີ່ຫນ້າມ່ວນ, ດອກຕໍ, ບາງທີເຈົ້າສາມາດອະທິບາຍມັນໃຫ້ຂ້ອຍໄດ້, ເຈົ້າເປັນແພດຈິດໃຈ -
+ເປັນຫຍັງຜູ້ເຄາະຮ້າຍການລັກພາຕົວເກືອບຈະພະຍາຍາມບອກພວກເຮົາກ່ຽວກັບຜູ້ຊາຍທີ່ຈັບພວກມັນແລະພະຍາຍາມເຮັດໃຫ້ພວກເຮົາເຂົ້າໃຈວ່າຄົນໂຊກຮ້າຍເຫຼົ່ານີ້ເປັນແນວໃດແທ້ໆ?
+
+492
+00:34:05,050 --> 00:34:11,050
+[RAILLY]
+It's a normal reaction to a life- threatening situation.  He's sick.  He thinks he comes from the future.  He's been living in a carefully constructed fantasy world and that world is starting to disintegrate.  He needs help!
+ມັນເປັນການປະຕິກິລິຍາປົກກະຕິຕໍ່ສະຖານະການທີ່ຂົ່ມຂູ່ຊີວິດ. ລາວເຈັບປ່ວຍ. ລາວຄິດວ່າລາວມາຈາກອະນາຄົດ. ລາວ ກໍາ
+ລັງອາໄສຢູ່ໃນໂລກຄວາມຝັນທີ່ສ້າງຂຶ້ນຢ່າງລະມັດລະວັງແລະໂລກນັ້ນ ກໍາ ລັງເລີ່ມຕົ້ນແຕກແຍກລົງ. ລາວຕ້ອງການຄວາມຊ່ວຍເຫຼືອ!
+
+493
+00:34:11,550 --> 00:34:13,550
+[ASTROPHYSICIST'S VOICE]
+Wake up! Wake up!
+ຕື່ນຕົວ! ຕື່ນຂຶ້ນ!
+
+494
+00:34:14,050 --> 00:34:16,500
+[GEOLOGIST'S VOICE]
+I think we gave him too much.
+ຂ້ອຍຄິດວ່າພວກເຮົາໃຫ້ລາວຫຼາຍເກີນໄປ.
+
+495
+00:34:17,000 --> 00:34:19,000
+[ASTROPHYSICIST]
+Come on, Cole, cooperate!
+ມາແລ້ວ, ຄໍລ, ຮ່ວມມື!
+
+496
+00:34:19,500 --> 00:34:23,700
+[GEOLOGIST]
+Spit it out... you went to the home of a famous virologist...
+ປາກມັນອອກ... ເຈົ້າໄປເຮືອນຂອງນັກວິທະຍາສາດໄວຣັສທີ່ມີຊື່ສຽງ...
+
+497
+00:34:24,200 --> 00:34:26,200
+[COLE]
+You...don't...exist!  You're in my mind...
+ເຈົ້າ... ບໍ່... ມີຢູ່! ເຈົ້າຢູ່ໃນຈິດໃຈຂອງຂ້ອຍ...
+
+498
+00:34:26,700 --> 00:34:28,700
+[WAYNE]
+Sorry.
+ຂໍໂທດ.
+
+499
+00:34:29,200 --> 00:34:33,400
+[RAILLY]
+No -- I'm in a state of hyper- alertness.  I can't sleep.
+ບໍ່ - ຂ້ອຍຢູ່ໃນສະພາບຕື່ນເຕັ້ນສູງ. ຂ້ອຍບໍ່ສາມາດນອນໄດ້.
+
+500
+00:34:33,900 --> 00:34:35,900
+[MARILOU]
+Did you take the sedative?
+ເຈົ້າກິນຢາບັນເທົາທຸກບໍ?
+
+501
+00:34:36,400 --> 00:34:39,550
+[RAILLY]
+I hate those things.  They mess my head up.
+ຂ້ອຍກຽດຊັງສິ່ງເຫຼົ່ານັ້ນ. ພວກເຂົາເຮັດໃຫ້ຫົວຂອງຂ້ອຍສັບສົນ.
+
+502
+00:34:40,050 --> 00:34:42,850
+[RAILLY]
+He's dead, isn't he -- that little boy?
+ລາວຕາຍແລ້ວ, ແມ່ນບໍ - ເດັກຊາຍນ້ອຍນັ້ນ?
+
+503
+00:34:43,350 --> 00:34:47,550
+[WAYNE]
+He's fine.  It was just a "prank" he and his friends pulled.
+ລາວບໍ່ເປັນຫຍັງ. ມັນເປັນພຽງແຕ່"ກະຕຸ້ນ" ທີ່ລາວແລະເພື່ອນຂອງລາວດຶງ.
+
+504
+00:34:48,050 --> 00:34:50,150
+[SCIENTISTS]
+---found my thrills on Blueberry Hill...
+- ພົບຄວາມຕື່ນເຕັ້ນຂອງຂ້ອຍຢູ່ບລູເບຣີ ຮິລ...
+
+505
+00:34:50,650 --> 00:34:54,500
+[SCIENTISTS]
+Well done, James!  Well done!  Nice going!  Congratulations!  Good for you!
+ເຮັດດີ, ເຈມສ໌! ເຮັດດີ! ໄປດີ! ຂໍສະແດງຄວາມຍິນດີ! ດີຕໍ່ເຈົ້າ!
+
+506
+00:34:55,000 --> 00:34:59,900
+[BOTANIST]
+During your "interview," while you were..."under the influence," you told us you liked music!
+ໃນລະຫວ່າງການ"ສໍາພາດ" ຂອງທ່ານ, ໃນຂະນະທີ່ທ່ານແມ່ນ..
+."ພາຍໃຕ້ອິດທິພົນ," ທ່ານບອກພວກເຮົາວ່າທ່ານມັກດົນຕີ!
+
+507
+00:35:00,400 --> 00:35:02,400
+[ZOOLOGIST]
+This isn't the prison, James.
+ນີ້ແມ່ນບໍ່ແມ່ນຄຸກ, ເຈມສ໌.
+
+508
+00:35:02,900 --> 00:35:04,900
+[BOTANIST]
+This is a hospital.
+ນີ້ແມ່ນໂຮງຫມໍ.
+
+509
+00:35:05,400 --> 00:35:08,200
+[ASTROPHYSICIST]
+But just until you recover your, uh,... equilibrium.
+ແຕ່ພຽງແຕ່ຈົນກວ່າເຈົ້າຈະຟື້ນຟູຄວາມສົມດຸນຂອງທ່ານ.
+
+510
+00:35:08,700 --> 00:35:10,700
+[ENGINEER]
+You're still a little... disoriented.
+ເຈົ້າຍັງໂຊກຮ້າຍຢູ່ເລັກນ້ອຍ.
+
+511
+00:35:11,200 --> 00:35:13,200
+[GEOLOGIST]
+Stress!  Time travel!
+ຄວາມກົດດັນ! ການເດີນທາງໃນເວລາ!
+
+512
+00:35:13,700 --> 00:35:15,800
+[ASTROPHYSICIST]
+You stood up very well, considering...
+ເຈົ້າຢືນຂຶ້ນດີຫຼາຍ, ໂດຍພິຈາລະນາວ່າ...
+
+513
+00:35:16,300 --> 00:35:18,300
+[GEOLOGIST]
+Superior work!  Superior!
+ວຽກງານທີ່ດີເລີດ! ສູງສຸດ!
+
+514
+00:35:18,800 --> 00:35:24,400
+[BOTANIST]
+You connected the Army of the 12 Monkeys to a world famous virologist and his son...
+ເຈົ້າໄດ້ເຊື່ອມຕໍ່ກອງທັບຂອງແມວ 12
+ກັບນັກວິທະຍາສາດໄວຣັສທີ່ມີຊື່ສຽງທົ່ວໂລກແລະລູກຊາຍຂອງລາວ...
+
+515
+00:35:24,900 --> 00:35:26,900
+[MICROBIOLOGIST]
+Others will take over now...
+ຄົນອື່ນຈະຮັບຜິດຊອບດຽວນີ້...
+
+516
+00:35:27,400 --> 00:35:31,250
+[ZOOLOGIST]
+We'll be back on the surface in a matter of months....
+ພວກເຮົາຈະກັບຄືນສູ່ພື້ນຜິວໃນເວລາສອງສາມເດືອນ....
+
+517
+00:35:31,750 --> 00:35:33,750
+[GEOLOGIST]
+We'll retake the planet.
+ພວກເຮົາຈະເອົາໂລກຄືນ.
+
+518
+00:35:34,250 --> 00:35:36,350
+[ASTROPHYSICIST]
+We're very close!  Because of you!
+ພວກເຮົາໃກ້ຊິດຫຼາຍ! ຍ້ອນເຈົ້າ!
+
+519
+00:35:36,850 --> 00:35:39,650
+[ENGINEER]
+This is it, James...what you've been working for.
+ນີ້ແມ່ນມັນ, ເຈມສ໌... ສິ່ງທີ່ເຈົ້າ ກໍາ ລັງເຮັດວຽກຢູ່.
+
+520
+00:35:40,150 --> 00:35:42,150
+[BOTANIST]
+A full pardon!
+ການອະໄພຢ່າງເຕັມທີ່!
+
+521
+00:35:42,650 --> 00:35:45,450
+[MICROBIOLOGIST]
+You'll be out of here in no time.
+ເຈົ້າຈະອອກຈາກບ່ອນນີ້ໃນເວລາບໍ່ເທົ່າໃດ.
+
+522
+00:35:45,950 --> 00:35:48,750
+[ASTROPHYSICIST]
+Women will want to get to know you...
+ແມ່ຍິງຈະຢາກຮູ້ຈັກເຈົ້າ...
+
+523
+00:35:49,250 --> 00:35:53,450
+[ASTROPHYSICIST]
+Of course you want to be well, James. And you will be...soon.
+ແນ່ນອນວ່າເຈົ້າຢາກດີ, ເຈມສ໌. ແລະເຈົ້າຈະ... ໃນໄວໆນີ້.
+
+524
+00:35:53,950 --> 00:35:59,900
+[RAILLY]
+He not only used the word "prank" -- he said the boy was hiding in a barn.
+ລາວບໍ່ພຽງແຕ່ໃຊ້ຄໍາວ່າ"ຢອກຊື່ໆ" ເທົ່ານັ້ນ -
+ລາວເວົ້າວ່າເດັກຊາຍ ກໍາ ລັງເຊື່ອງໄວ້ໃນຈານ.
+
+525
+00:36:00,400 --> 00:36:06,400
+[DR. FLETCHER]
+He kidnapped you, Kathryn.  You saw him murder someone.  You knew there was a real possibility he would kill you, too.  You were under tremendous emotional stress.
+ລາວລັກພາຕົວເຈົ້າ, ຄາຕຣິນ. ເຈົ້າເຫັນລາວຂ້າຄົນຫນຶ່ງ.
+ເຈົ້າຮູ້ວ່າມີຄວາມເປັນໄປໄດ້ທີ່ແທ້ຈິງວ່າລາວຈະຂ້າເຈົ້າເຊັ່ນກັນ. ເຈົ້າຢູ່ໃນຄວາມກົດດັນທາງຈິດໃຈທີ່ຍິ່ງໃຫຍ່.
+
+526
+00:36:06,900 --> 00:36:12,900
+[RAILLY]
+For God sakes, Owen, listen to me -- he knew about the boy in Fresno and he says three billion people are going to die!
+ສໍາລັບພຣະເຈົ້າ, ໂອເວນ, ຟັງຂ້ອຍ -
+ລາວຮູ້ກ່ຽວກັບເດັກຊາຍໃນຟຣີສໂນແລະລາວເວົ້າວ່າຄົນສາມພັນລ້ານຄົນຈະຕາຍ!
+
+527
+00:36:13,400 --> 00:36:19,400
+[DR. FLETCHER]
+Kathryn, you know he can't possibly know that.  You're a rational person. You're a trained psychiatrist.  You know the difference between what's real and what's not.
+ຄາຕຣິນ, ເຈົ້າຮູ້ວ່າລາວບໍ່ສາມາດຮູ້ສິ່ງນັ້ນໄດ້. ເຈົ້າເປັນຄົນທີ່ມີເຫດຜົນ.
+ເຈົ້າແມ່ນແພດຈິດໃຈທີ່ໄດ້ຮັບການຝຶກອົບຮົມ. ເຈົ້າຮູ້ຄວາມແຕກຕ່າງລະຫວ່າງສິ່ງທີ່ເປັນຈິງແລະສິ່ງທີ່ບໍ່ແມ່ນ.
+
+528
+00:36:19,900 --> 00:36:25,900
+[RAILLY]
+And what we believe is what's accepted as "truth" now, isn't it, Owen?  Psychiatry -- it's the latest religion.  And we're the priests -- we decide what's right and what's wrong --we decide who's crazy and who isn't. ... I'm in trouble, Owen.  I'm losing my faith.
+ແລະສິ່ງທີ່ພວກເຮົາເຊື່ອແມ່ນສິ່ງທີ່ຖືກຍອມຮັບວ່າເປັນ"ຄວາມຈິງ" ດຽວນີ້, ແມ່ນບໍ, ໂອເວນ? ຈິດໃຈ - ມັນແມ່ນສາສະຫນາຫຼ້າສຸດ. ແລະພວກເຮົາເປັນປະໂລຫິດ -
+ພວກເຮົາຕັດສິນໃຈວ່າສິ່ງທີ່ຖືກຕ້ອງແລະສິ່ງທີ່ຜິດ - ພວກເຮົາຍິນໃຈວ່າໃຜເປັນຄົນໂຊກຮ້າຍແລະໃຜບໍ່ແມ່ນ.... ຂ້ອຍຢູ່ໃນຄວາມຫຍຸ້ງຍາກ, ໂອບເວນ. ຂ້ອຍ ກໍາ ລັງສູນເສຍຄວາມເຊື່ອຂອງຂ້ອຍ.
+
+529
+00:36:26,400 --> 00:36:32,400
+[COLE]
+I saw you! In 1995!  In the real world! You were a bum!  You pulled out your teeth.
+ຂ້ອຍເຫັນເຈົ້າ! ໃນປີ 1995! ໃນໂລກທີ່ແທ້ຈິງ!
+ເຈົ້າເປັນຄົນໂຊກຮ້າຍ! ເຈົ້າດຶງແຂ້ວຂອງທ່ານອອກ.
+
+530
+00:36:32,900 --> 00:36:35,000
+[COLE]
+Oh, yeah?  What do I want?
+ໂອ້, ແມ່ນແລ້ວ? ຂ້ອຍຢາກຫຍັງ?
+
+531
+00:36:35,500 --> 00:36:37,950
+[COLE]
+Tell me.  Tell me what I want.
+ບອກຂ້ອຍ. ບອກຂ້ອຍວ່າຂ້ອຍຢາກຫຍັງ.
+
+532
+00:36:38,450 --> 00:36:40,450
+[COLE]
+More...than...anything.
+ຫຼາຍກວ່າ... ກວ່າ... ທຸກຢ່າງ.
+
+533
+00:36:40,950 --> 00:36:45,150
+[LIEUTENANT HALPERIN]
+Dr. Railly?  Jim Halperin, Philly P.D.. Sorry to call so early but...
+ດຣ ຣາລີ? ຈິມ ຮາລເປຣິນ, ຕໍາຫຼວດຟິລລີ.. ຂໍໂທດທີ່ໂທໄວຫຼາຍແຕ່...
+
+534
+00:36:45,650 --> 00:36:48,100
+[RAILLY]
+You found him?  Is he all right?
+ເຈົ້າພົບລາວບໍ? ລາວບໍ່ເປັນຫຍັງບໍ?
+
+535
+00:36:48,600 --> 00:36:54,600
+[LIEUTENANT HALPERIN]
+Au contraire, Doctor.  No sign of your good friend, the kidnapper.  However, the plot thickens.  I have a ballistic report on my desk that says the bullet you claim you removed from Mr. Cole's thigh is an antique...and all indications are it was fired...sometime prior to 1920.
+ກົງກັນຂ້າມ, ດອກຕໍ. ບໍ່ມີສັນຍານຂອງເພື່ອນທີ່ດີຂອງທ່ານ, ຜູ້ລັກພາຕົວ. ເຖິງຢ່າງໃດກໍ່ຕາມ, ແຜນການເພີ່ມຄວາມຫນາແຫນ້ນ.
+ຂ້ອຍມີບົດລາຍງານບາລີສຕິກຢູ່ເທິງໂຕະຂອງຂ້ອຍທີ່ເວົ້າວ່າລູກປືນທີ່ທ່ານອ້າງວ່າເຈົ້າເອົາອອກຈາກກະຕ່າຂອງທ່ານໂກລແມ່ນວັດຖຸບູຮານ... ແລະທຸກຊີ້ບອກວ່າມັນຖືກຍິງ... ບາງຄັ້ງກ່ອນປີ 1920.
+
+536
+00:36:55,100 --> 00:37:01,100
+[LIEUTENANT RALPERIN]
+So what I was thinking was, maybe if I sent a detective down there to talk with you, you could maybe revise or amplify on the circumstances.... Hello?  Hello?  Dr. Railly?
+ສະນັ້ນສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງຄິດແມ່ນ, ບາງທີຖ້າຂ້ອຍສົ່ງນັກສືບລົງບ່ອນນັ້ນເພື່ອເວົ້າກັບເຈົ້າ
+, ເຈົ້າອາດຈະທົບທວນຄືນຫຼືຂະຫຍາຍກ່ຽວກັບສະພາບການ.... ສະບາຍດີ? ສະບາຍ ດີ? ດຣ ຣາຍລີ?
+
+537
+00:37:01,600 --> 00:37:03,600
+[RAILLY]
+No!
+ບໍ່!
+
+538
+00:37:04,100 --> 00:37:10,100
+[ASTROPHYSICIST]
+The food, the sky, the certain, uh, sexual temptations -- you haven't become "addicted" have you, Cole?  To that "dying" world'
+ອາຫານ, ສະຫວັນ, ຄວາມຊັກຊວນທາງເພດບາງຢ່າງ -
+ເຈົ້າບໍ່ໄດ້ກາຍເປັນ"ຕິດ" ແມ່ນບໍ, ຄໍລ? ກັບໂລກທີ່"ຕາຍ" ນັ້ນ
+
+539
+00:37:10,600 --> 00:37:16,600
+[COLE]
+No, sir!  I just want to do my part. To get us back on top...in charge of the planet.  And I have the experience, I know who the people are...
+ບໍ່, ເຈົ້າ! ຂ້ອຍພຽງແຕ່ຢາກເຮັດສ່ວນຂອງຂ້ອຍ. ເພື່ອເຮັດໃຫ້ພວກເຮົາກັບຄືນໄປບ່ອນເທິງສຸດ
+... ຮັບຜິດຊອບໂລກ. ແລະຂ້ອຍມີປະສົບການ, ຂ້ອຍຮູ້ວ່າຄົນແມ່ນໃຜ...
+
+540
+00:37:17,100 --> 00:37:19,200
+[BIOLOGIST]
+He really is the most qualified...
+ລາວເປັນຄົນທີ່ມີຄຸນສົມບັດທີ່ສຸດ...
+
+541
+00:37:19,700 --> 00:37:21,700
+[GEOLOGIST]
+But all that..."behavior"...
+ແຕ່ທັງ ຫມົດ ນັ້ນ..."ພຶດຕິກໍາ"...
+
+542
+00:37:22,200 --> 00:37:24,300
+[ASTROPHYSICIST]
+You said we weren't "real," Cole...
+ເຈົ້າບອກວ່າພວກເຮົາບໍ່ແມ່ນ"ແທ້ຈິງ", ຄໍລ...
+
+543
+00:37:24,800 --> 00:37:30,800
+[COLE]
+Well, sir, I don't think the human mind was built to exist in two different... whatever you call it..."dimensions." It's stressful, you said it yourselves, it gets you confused.  You don't know what's real and what's not.
+ດີ, ເຈົ້າ, ຂ້ອຍບໍ່ຄິດວ່າຈິດໃຈຂອງມະນຸດຖືກສ້າງຂຶ້ນເພື່ອມີຢູ່ໃນສອງຢ່າງທີ່ແຕກຕ່າງກັນ... ບໍ່ວ່າເຈົ້າເອີ້ນມັນວ່າແນວໃດ..
+."ຂະຫນາດ." ມັນມີຄວາມເຄັ່ງຕຶງ, ເຈົ້າເວົ້າມັນເອງ, ມັນເຮັດໃຫ້ເຈົ້າສັບສົນ. ເຈົ້າບໍ່ຮູ້ວ່າສິ່ງທີ່ເປັນຈິງແລະສິ່ງທີ່ບໍ່ແມ່ນ.
+
+544
+00:37:31,300 --> 00:37:33,400
+[MICROBIOLOGIST]
+But you know what's real now?
+ແຕ່ເຈົ້າຮູ້ວ່າສິ່ງທີ່ແທ້ຈິງດຽວນີ້ແມ່ນຫຍັງ?
+
+545
+00:37:33,900 --> 00:37:35,900
+[COLE]
+Yes, sir.
+ແມ່ນແລ້ວເດີ.
+
+546
+00:37:36,400 --> 00:37:40,950
+[GEOLOGIST]
+He'd have to bone up, catch up to our research, the latest clues...
+ລາວຕ້ອງຟື້ນຟູ, ຕິດຕາມການຄົ້ນຄວ້າຂອງພວກເຮົາ, ຂໍ້ແນະນໍາຫຼ້າສຸດ...
+
+547
+00:37:41,450 --> 00:37:43,900
+[ZOOLOGIST]
+He's proved to be a quick study...
+ລາວໄດ້ພິສູດວ່າເປັນການສຶກສາຢ່າງໄວວາ...
+
+548
+00:37:44,400 --> 00:37:47,550
+[ASTROPHYSICIST]
+You can't trick us, you know.  It wouldn't work.
+ເຈົ້າບໍ່ສາມາດຫຼອກລວງພວກເຮົາໄດ້, ເຈົ້າຮູ້ແລ້ວ. ມັນຈະບໍ່ເຮັດວຽກໄດ້.
+
+549
+00:37:48,050 --> 00:37:52,600
+[BIOLOGIST]
+And why would you want to?  It'll be dangerously close to the end.
+ແລະເຈົ້າຢາກເຮັດຫຍັງ? ມັນຈະໃກ້ທີ່ສຸດຢ່າງອັນຕະລາຍ.
+
+550
+00:37:53,100 --> 00:37:55,200
+[COLE]
+I understand.  There'd be no point.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ມັນບໍ່ມີຈຸດປະສົງເລີຍ.
+
+551
+00:37:55,700 --> 00:38:00,600
+[ASTROPHYSICIST]
+We're going to think about it, Cole. Among ourselves.  We'll get back to you.
+ພວກເຮົາຈະຄິດກ່ຽວກັບມັນ, ຄໍລ.
+ໃນລະຫວ່າງພວກເຮົາເອງ. ພວກເຮົາຈະກັບມາຫາເຈົ້າ.
+
+552
+00:38:01,100 --> 00:38:06,000
+[DR. MASON]
+You have reason to believe that my son may be planning to do what?!!!
+ເຈົ້າມີເຫດຜົນທີ່ຈະເຊື່ອວ່າລູກຊາຍຂອງຂ້ອຍອາດຈະວາງແຜນທີ່ຈະເຮັດຫຍັງ
+?!!!
+
+553
+00:38:06,500 --> 00:38:08,950
+[RAILLY]
+Please, I know it sounds insane but...
+ກະລຸນາ, ຂ້ອຍຮູ້ວ່າມັນເບິ່ງຄືວ່າໂຊກຮ້າຍແຕ່...
+
+554
+00:38:09,450 --> 00:38:15,450
+[DR. MASON]
+I'm afraid this doesn't seem very professional to me, in fact it's distressingly unprofessional for some- one who treated my son briefly  to take a sudden unsolicited interest in his mental health six years later, and to telephone a parent to express opinions that would be inappropriate...  I don't know anything about "Monkey armies", Doctor.  Nothing whatsoever. If my son ever was involved in...  It would be doubly inappropriate to discuss matters of security with you, Dr. Railly, but if it will put you at ease, neither my son nor any other unauthorized person has access to any potentially dangerous organisms in this laboratory.  Thank you for your concern.
+ຂ້ອຍຢ້ານວ່າສິ່ງນີ້ເບິ່ງຄືວ່າບໍ່ແມ່ນມືອາຊີບຫຼາຍຕໍ່ຂ້ອຍ, ໃນຄວາມເປັນຈິງມັນບໍ່ເປັນມືອາ ຊີບຢ່າງກັງວົນ ສໍາ ລັບບາງຄົນ - ຄົນທີ່ປິ່ນປົວລູກຊາຍຂອງຂ້ອຍສັ້ນໆເພື່ອເອົາຄວາມສົນໃຈທີ່ບໍ່ຖືກຮ້ອງຂໍຢ່າງກະທັນຫັນຕໍ່ສຸຂະພາບຈິດຂອງລາວຫົກປີຕໍ່ມາ
+, ແລະໂທຫາພໍ່ແມ່ເພື່ອສະແດງຄວາມຄິດເຫັນທີ່ບໍ່ເຫມາະສົມ... ຂ້ອຍບໍ່ຮູ້ຫຍັງກ່ຽວກັບ"ກອງທັບແມວ", ດອກຕໍ. ບໍ່ມີຫຍັງເລີຍ. ຖ້າລູກຂອງຂ້ອຍມີສ່ວນຮ່ວມໃນ... ມັນຈະບໍ່ເຫ
+
+555
+00:38:15,950 --> 00:38:21,950
+[DR. MASON]
+The psychiatrist who was kidnapped by that man who broke into my house.  She seems to have been suddenly struck by the most preposterous notion about Jeffrey.
+ທ່ານຫມໍຈິດໃຈທີ່ຖືກລັກພາຕົວໂດຍຜູ້ຊາຍຄົນນັ້ນທີ່ລັກລອບເຂົ້າໄປໃນເຮືອນຂອງຂ້ອຍ
+. ນາງເບິ່ງຄືວ່າຖືກຕີໂດຍຄວາມຄິດທີ່ໂຊກຮ້າຍທີ່ສຸດກ່ຽວກັບເຈຟຣີ.
+
+556
+00:38:22,450 --> 00:38:28,450
+[DR. MASON]
+Given the nature of our work, we can't ever be careful enough.  I think we should review our security procedures, perhaps upgrade them.
+ຍ້ອນລັກສະນະຂອງວຽກງານຂອງພວກເຮົາ, ພວກເຮົາບໍ່ສາມາດລະມັດລະວັງພຽງພໍໄດ້ເລີຍ.
+ຂ້ອຍຄິດວ່າພວກເຮົາຄວນທົບທວນຂັ້ນຕອນຄວາມປອດໄພຂອງພວກເຮົາ, ບາງທີປັບປຸງພວກມັນ.
+
+557
+00:38:28,950 --> 00:38:34,950
+[BOTANIST]
+Let's consider again our current information -- if the symptoms were first detected in Philadelphia on June 28, 1995, that makes us know that...?
+ມາພິຈາລະນາຂໍ້ມູນປະຈຸບັນຂອງພວກເຮົາອີກຄັ້ງ - ຖ້າອາການຖືກກວດພົບຄັ້ງ ທໍາ
+ອິດໃນຟີລາເດຟຍໃນວັນທີ 28 ມິຖຸນາປີ 1995, ນັ້ນເຮັດໃຫ້ພວກເຮົາຮູ້ວ່າ...?
+
+558
+00:38:35,450 --> 00:38:38,950
+[COLE]
+It was released in Philadelphia, probably on June 14, 1995.
+ມັນຖືກປ່ອຍອອກມາໃນຟີລາແດລຟີເລຍ, ບາງທີໃນວັນທີ 14 ມິຖຸນາປີ 1995.
+
+559
+00:38:39,450 --> 00:38:41,900
+[BOTANIST]
+And it appeared sequentially after that in...?
+ແລະມັນປາກົດຕົວຕາມລໍາດັບຫຼັງຈາກນັ້ນໃນ...?
+
+560
+00:38:42,400 --> 00:38:46,950
+[COLE]
+San Francisco, New Orleans, Rio de Janeiro, Rome, Kinshasa, Karachi, Bangkok, then Peking.
+ແຊນຟຣານຊິສໂກ, ນິວໂອເລນສ໌, ຣີໂອ ເດ ເຈເນໂຣ, ໂຣມ
+, ຄິນຊາຊາ, ຄາຣາຊີ, ບາງກອກ, ຫຼັງຈາກນັ້ນປັກກິ່ງ.
+
+561
+00:38:47,450 --> 00:38:49,450
+[BOTANIST]
+Meaning...???
+ຫມາຍຄວາມວ່າ...???
+
+562
+00:38:49,950 --> 00:38:55,950
+[COLE]
+That the virus was taken from Philadelphia to San Francisco, then to New Orleans, Rio de Janeiro, Rome, Kinshasa, Karachi, Bangkok, then Peking.
+ວ່າໄວຣັສໄດ້ຖືກນໍາຈາກຟີລາຟີເລຍ ໄປແຊນຟຣານຊິສໂກ, ຫຼັງຈາກນັ້ນໄປນິວໂອເລນສ໌
+, ຣີໂອ ເດ ເຈເນໂຣ, ໂຣມ, ຄິນຊາຊາ, ຄາຣາຈີ, ບັງກອກ, ຈາກນັ້ນປັກກິ່ງ.
+
+563
+00:38:56,450 --> 00:38:58,450
+[BOTANIST]
+And your only goal is...???
+ແລະເປົ້າຫມາຍດຽວຂອງທ່ານແມ່ນ...???
+
+564
+00:38:58,950 --> 00:39:04,950
+[COLE]
+To find out where the virus is so a qualified scientist can travel back into the past and study the original virus.
+ເພື່ອຮູ້ວ່າໄວຣັສຢູ່ໃສ
+ເພື່ອໃຫ້ນັກວິທະຍາສາດທີ່ມີຄຸນສົມບັດສາມາດເດີນທາງກັບຄືນໄປບ່ອນໃນອະດີດແລະສຶກສາໄວຣັດຕົ້ນສະບັບໄດ້.
+
+565
+00:39:05,450 --> 00:39:07,450
+[BOTANIST]
+So that...???
+ສະນັ້ນ...???
+
+566
+00:39:07,950 --> 00:39:13,950
+[COLE]
+Uh, so that a vaccine can be developed that will, uh, allow mankind to reclaim the surface of the earth.
+ໂອ້, ເພື່ອໃຫ້ສາມາດພັດທະນາຢາວັກຊີນທີ່ຈະ, ໂອ້ຍ
+, ອະນຸຍາດໃຫ້ມະນຸດເພື່ອຟື້ນຟູພື້ນຜິວຂອງໂລກ.
+
+567
+00:39:14,450 --> 00:39:20,050
+[FALE]
+It's the kidnap woman -- the one who was with the guy who tied us up.
+ມັນເປັນແມ່ຍິງທີ່ລັກພາຕົວ - ຄົນທີ່ຢູ່ກັບຜູ້ຊາຍທີ່ເຊື່ອມຕໍ່ພວກເຮົາ.
+
+568
+00:39:20,550 --> 00:39:22,550
+[BEN]
+What's she doing?
+ນາງ ກໍາ ລັງເຮັດຫຍັງ?
+
+569
+00:39:23,050 --> 00:39:29,050
+[FALE]
+She's drawing attention to us, that's what she's doing. ... I don't know what you're up to this time, Mason, but you're gonna get us in deep shit!
+ນາງ ກໍາ ລັງດຶງດູດຄວາມສົນໃຈຕໍ່ພວກເຮົາ, ນັ້ນແມ່ນສິ່ງທີ່ນາງ ກໍາ ລັງເຮັດ.... ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າ
+ກໍາ ລັງຄິດຫຍັງໃນຄັ້ງນີ້, ເມຊອນ, ແຕ່ເຈົ້າຈະເຮັດໃຫ້ພວກເຮົາຢູ່ໃນຄວາມເລິກເຊິ່ງ!
+
+570
+00:39:29,550 --> 00:39:34,100
+[JEFFREY]
+Whine, whine, whine.  What about walkie talkies?  We used to have walkie talkies.
+ການຮ້ອງໄຫ້, ຮ້ອງໄຫ້ອາລົມ. ຈະເປັນແນວໃດກັບໂທລະສັບສົນທະນາທາງໄກ
+? ພວກເຮົາມີໂທລະສັບເວົ້າທາງໄກເຄີຍມີ.
+
+571
+00:39:34,600 --> 00:39:37,400
+[LOUIE]
+That's what they do -- secret weird stuff!
+ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາເຮັດ - ສິ່ງລັບທີ່ແປກໃຈ!
+
+572
+00:39:37,900 --> 00:39:39,900
+[RAILLY]
+You!  I know you!
+ເຈົ້າ! ຂ້ອຍຮູ້ຈັກເຈົ້າ!
+
+573
+00:39:40,400 --> 00:39:46,400
+[LOUIE]
+Not just on them.  Do 'em on people, too -- down at the shelters.  Feed 'em chemicals 'n take pictures of 'em.
+ບໍ່ພຽງແຕ່ໃສ່ພວກມັນເທົ່ານັ້ນ. ເຮັດພວກມັນໃສ່ຄົນອີກດ້ວຍ -
+ຢູ່ລຸ່ມບ່ອນຢູ່ອາໄສ. ໃຫ້ພວກມັນອາຫານເຄມີແລະຖ່າຍຮູບພວກມັນ.
+
+574
+00:39:46,900 --> 00:39:49,350
+[RAILLY]
+Have you seen James Cole?  The man...?
+ເຈົ້າເຫັນເຈມສ໌ ຄໍລບໍ? ຜູ້ຊາຍ...?
+
+575
+00:39:49,850 --> 00:39:51,850
+[LOUIE]
+They're watchin' you.  Takin' pictures.
+ພວກເຂົາ ກໍາ ລັງເບິ່ງເຈົ້າ. ຖ່າຍຮູບ.
+
+576
+00:39:52,350 --> 00:39:58,350
+[RAILLY]
+The police.  I know.  Listen, I need to talk to James, but he has to be careful how he contacts me.  He mustn't get caught.  Do you understand me?
+ຕໍາຫຼວດ. ຂ້ອຍຮູ້ແລ້ວ. ຟັງ, ຂ້ອຍຕ້ອງເວົ້າກັບເຈມສ໌,
+ແຕ່ລາວຕ້ອງລະມັດລະວັງວິທີທີ່ລາວຕິດຕໍ່ຂ້ອຍ. ລາວບໍ່ຄວນຖືກຈັບ. ເຈົ້າເຂົ້າໃຈຂ້ອຍບໍ?
+
+577
+00:39:58,850 --> 00:40:00,850
+[LOUIS]
+Uh, yeah, sure.  Uh...who's James?
+ໂອ້, ແມ່ນແລ້ວ, ແນ່ນອນ. ໂອ້... ເຈມສ໌ແມ່ນໃຜ?
+
+578
+00:40:01,350 --> 00:40:07,350
+[RAILLY]
+He was with me, he spoke to you. Several weeks ago.  He said you were from the future...watching him.
+ລາວຢູ່ກັບຂ້ອຍ, ລາວເວົ້າກັບເຈົ້າ. ຫລາຍອາທິດກ່ອນ
+. ລາວເວົ້າວ່າເຈົ້າມາຈາກອະນາຄົດ... ເບິ່ງລາວ.
+
+579
+00:40:07,850 --> 00:40:09,850
+[JEFFREY]
+You get the bolt cutters?
+ເຈົ້າເອົາເຄື່ອງຕັດກະດານບໍ?
+
+580
+00:40:10,350 --> 00:40:12,450
+[KWESKIN]
+One dozen.  They're in the van.
+ຫນຶ່ງສິບຄົນ. ພວກເຂົາຢູ່ໃນລົດບັນທຸກ.
+
+581
+00:40:12,950 --> 00:40:17,500
+[FALE]
+One dozen bolt cutters!  Whadda you gonna do with one dozen bolt cutters?
+ເຈົ້າຈະເຮັດຫຍັງກັບເຄື່ອງຕັດໂບລຕ໌ສິບຄົນ?
+
+582
+00:40:18,000 --> 00:40:20,000
+[JEFFREY]
+You really want to know?
+ເຈົ້າຢາກຮູ້ແທ້ບໍ?
+
+583
+00:40:20,500 --> 00:40:22,950
+[FALE]
+No!  Absolutely not. Don't tell me anything.
+ບໍ່! ແນ່ນອນວ່າບໍ່ແມ່ນ. ຢ່າບອກຂ້ອຍຫຍັງເລີຍ.
+
+584
+00:40:23,450 --> 00:40:25,900
+[BEN]
+Hey!  Do you know what she's doing?
+ເຮ້! ເຈົ້າຮູ້ວ່ານາງ ກໍາ ລັງເຮັດຫຍັງບໍ?
+
+585
+00:40:26,400 --> 00:40:28,400
+[TEDDY]
+What's it say?
+ມັນຂຽນວ່າແນວໃດ?
+
+586
+00:40:28,900 --> 00:40:30,900
+[BEN]
+I can't see it.
+ຂ້ອຍບໍ່ເຫັນມັນ.
+
+587
+00:40:31,400 --> 00:40:34,200
+[FALE]
+Your psychiatrist?  Did you just say, "your psychiatrist"?
+ທ່ານຫມໍຈິດໃຈຂອງທ່ານບໍ? ເຈົ້າຫາກໍ່ເວົ້າວ່າ,"ແພດຈິດວິນຍານຂອງທ່ານ"?
+
+588
+00:40:34,700 --> 00:40:37,500
+[JEFFREY]
+Ex-psychiatrist!  Now, what about flashlights?  How many flashlights...?
+ອະດີດແພດຈິດໃຈ! ດຽວນີ້, ຈະເປັນແນວໃດກັບແສງໄຟ? ແສງໄຟຫຼາຍປານໃດ...?
+
+589
+00:40:38,000 --> 00:40:41,850
+[FALE]
+That woman is...was...your... psychiatrist?  And now she's spray- painting our building?
+ແມ່ຍິງຄົນນັ້ນແມ່ນ... ແມ່ນ... ຂອງເຈົ້າ... ແພດຈິດໃຈບໍ?
+ແລະດຽວນີ້ນາງ ກໍາ ລັງສີດນ້ ໍາ - ແຕ້ມອາຄານຂອງພວກເຮົາບໍ?
+
+590
+00:40:42,350 --> 00:40:44,350
+[COLE]
+Kathryn!
+ແຄຕຣິນ!
+
+591
+00:40:44,850 --> 00:40:46,850
+[RAILLY]
+James!
+ເຈມສ໌!
+
+592
+00:40:47,350 --> 00:40:51,900
+[RAILLY]
+James!  That's a policeman.  Pretend you don't know me.  If he sees you...
+ເຈມສ໌! ນັ້ນແມ່ນຕໍາຫຼວດ.
+ປອມວ່າເຈົ້າບໍ່ຮູ້ຈັກຂ້ອຍ. ຖ້າລາວເຫັນເຈົ້າ...
+
+593
+00:40:52,400 --> 00:40:58,400
+[COLE]
+No, I want to turn myself in.  Where is he?  Don't worry -- it's all okay now.  I'm not crazy any more!  I mean, I am crazy, mentally divergent, actually, but I know it now and I want you to help me.  I want to get well...
+ບໍ່, ຂ້ອຍຢາກມອບຕົວເອງ. ລາວຢູ່ໃສ? ຢ່າກັງວົນ - ທຸກຢ່າງບໍ່ເປັນຫຍັງດຽວນີ້. ຂ້ອຍບໍ່ໂຊກຮ້າຍອີກຕໍ່ໄປ! ຂ້ອຍຫມາຍຄວາມວ່າ,
+ຂ້ອຍໂຊ ກຮ້າຍ, ຄວາມແຕກຕ່າງທາງຈິດໃຈ, ໃນຄວາມເປັນຈິງ, ແຕ່ຂ້ອຍຮູ້ມັນດຽວນີ້ແລະຂ້ອຍຢາກໃຫ້ເຈົ້າຊ່ວຍຂ້ອຍ. ຂ້ອຍຢາກດີດີ...
+
+594
+00:40:58,900 --> 00:41:03,450
+[RAILLY]
+James -- put your hands down and listen to me.  Things have changed!
+ເຈມສ໌ - ເອົາມືລົງແລະຟັງຂ້ອຍ. ສິ່ງຕ່າງໆໄດ້ປ່ຽນແປງແລ້ວ!
+
+595
+00:41:03,950 --> 00:41:07,450
+[RAILLY]
+James, come on!  We have to get out of here!
+ເຈມສ໌, ມາ! ພວກເຮົາຕ້ອງອອກຈາກບ່ອນນີ້!
+
+596
+00:41:07,950 --> 00:41:11,800
+[SOURCE?  THREE BILLION DIE?]
+It's the graffiti COLE saw in the future, in the picture!
+ມັນເປັນກາຟຟິຕິທີ່ໂກລເຫັນໃນອະນາຄົດ, ໃນຮູບ!
+
+597
+00:41:12,300 --> 00:41:14,300
+[COLE]
+I've seen that...before.
+ຂ້ອຍເຄີຍເຫັນແລ້ວ... ກ່ອນ.
+
+598
+00:41:14,800 --> 00:41:18,650
+[RAILLY]
+James, trust me.  We're in terrible trouble.  We have to run.
+ເຈມສ໌, ເຊື່ອຂ້ອຍ. ພວກເຮົາຢູ່ໃນຄວາມຫຍຸ້ງຍາກທີ່ຮ້າຍແຮງ
+. ພວກເຮົາຕ້ອງແລ່ນ.
+
+599
+00:41:19,150 --> 00:41:24,750
+[BEN]
+Wow, a guy in a Chevy is chasing her and some other guy I can't see.
+ໂວ້, ຜູ້ຊາຍຄົນຫນຶ່ງໃນ Chevy ກໍາ
+ລັງລ່າຫຼັງນາງແລະຜູ້ຊາຍຄົນອື່ນທີ່ຂ້ອຍບໍ່ສາມາດເຫັນໄດ້.
+
+600
+00:41:25,250 --> 00:41:31,250
+[FALE]
+Hey, no problem, it's probably just another kidnapping featuring Jeffrey's shrink, pardon me, make that ex-shrink.  This is your leader, a certifiable lunatic who told his former psychiatrist all his plans for God knows what whacko irresponsible schemes, and now who knows what she's painted out there on our wall?
+ເຮ້, ບໍ່ມີບັນຫາ, ມັນອາດຈະພຽງແຕ່ການລັກພາຕົວອີກຄັ້ງ ຫນຶ່ງ ທີ່ສະແດງໃຫ້ເຫັນຈິດໃຈຂອງເຈຟຣີ, ຂໍໂທດຂ້ອຍ, ເຮັດໃຫ້ອະດີດຈິດວິນຍານນັ້ນ. ນີ້ແມ່ນຜູ້ນໍາຂອງທ່ານ,
+ຄົນໂຊກຮ້າຍທີ່ສາມາດຢັ້ງຢືນໄດ້ທີ່ບອກແພດສຸຂະພາບຈິດເກົ່າຂອງລາວແຜນການທັງ ຫມົດ ສໍາ ລັບພຣະເຈົ້າຮູ້ວ່າແຜນການທີ່ບໍ່ຮັບຜິດຊອບຫຍັງ, ແລະດຽວນີ້ໃຜຮູ້ວ່ານາງແຕ້ມຫຍັງຢູ່ບ່ອນນັ້ນເທິງກໍາແພງຂອງພວກເຮົາ?
+
+601
+00:41:31,750 --> 00:41:37,750
+[JEFFREY]
+WHO CARES WHAT PSYCHIATRISTS WRITE ON WALLS?  You think I told her about the Army of the 12 Monkeys?  Impossible!  Know why, you pathetically ineffectual and pusillanimous "pretend-friend-to- animals"?!  I'll tell you why:  because when I had anything to do with her six years ago, there was no such thing -- I hadn't even thought of it yet!
+ໃຜສົນໃຈວ່ານັກຈິດໃຈຂຽນຫຍັງໃສ່ກໍາແພງ? ເຈົ້າຄິດວ່າຂ້ອຍບອກນາງກ່ຽວກັບກອງທັບຂອງແມວ 12 ຄົນບໍ? ບໍ່ເປັນໄປໄດ້! ຮູ້ວ່າເປັນຫຍັງ, ເຈົ້າບໍ່ມີປະສິດທິຜົນແລະໂຊກຮ້າຍຢ່າງຫນ້າເສຍໃຈ"ເຮັດຕົວເປັນເພື່ອນກັບສັດ"
+?! ຂ້ອຍຈະບອກເຈົ້າວ່າເປັນແນວໃດ: ເພາະວ່າເມື່ອຂ້ອຍມີຫຍັງກ່ຽວຂ້ອງກັບນາງຫົກປີກ່ອນ, ບໍ່ມີສິ່ງດັ່ງກ່າວ - ຂ້ອຍຍັງບໍ່ຄິດເຖິງມັນເທື່ອ!
+
+602
+00:41:38,250 --> 00:41:41,050
+[FALE]
+Then how come she knows what's going on?
+ຫຼັງຈາກນັ້ນເປັນຫຍັງນາງຮູ້ວ່າເກີດຫຍັງຂຶ້ນ?
+
+603
+00:41:41,550 --> 00:41:47,550
+[JEFFREY]
+Here's my theory on that.  While I was institutionalized, my brain was studied exhaustively in the guise of mental health. I was interrogated, x-rayed, studied thoroughly.  Then, everything about me was entered into a computer where they created a model of my mind.
+ນີ້ແມ່ນທິດສະດີຂອງຂ້ອຍກ່ຽວກັບເລື່ອງນັ້ນ. ໃນຂະນະທີ່ຂ້ອຍຖືກຈັດຕັ້ງໄວ້, ສະຫມອງຂອງຂ້ອຍຖືກສຶກສາຢ່າງເຕັມທີ່ໃນຮູບແບບຂອງສຸຂະພາບຈິດໃຈ. ຂ້ອຍຖືກສອບຖາມ
+, ການຖ່າຍແສງ X, ສຶກສາຢ່າງລະອຽດ. ຫຼັງຈາກນັ້ນ, ທຸກສິ່ງທຸກຢ່າງກ່ຽວກັບຂ້ອຍຖືກໃສ່ໃນຄອມພິວເຕີບ່ອນທີ່ພວກເຂົາສ້າງຮູບແບບຂອງຈິດວິນຍານຂອງຂ້ອຍ.
+
+604
+00:41:48,050 --> 00:41:54,050
+[JEFFREY]
+Now I have to get going -- do my part. You guys check all this stuff out and load up the van.  Make sure you have everything.  I'm outta here.
+ດຽວນີ້ຂ້ອຍຕ້ອງໄປ - ເຮັດສ່ວນຂອງຂ້ອຍ. ພວກເຈົ້າເບິ່ງສິ່ງທັງ ຫມົດ
+ນີ້ອອກແລະໂຫຼດລົດບັນທຸກ. ໃຫ້ແນ່ໃຈວ່າເຈົ້າມີທຸກຢ່າງ. ຂ້ອຍອອກຈາກບ່ອນນີ້.
+
+605
+00:41:54,550 --> 00:41:57,000
+[FALE]
+He's seriously crazy -- you know that.
+ລາວໂຊກຮ້າຍຢ່າງຈິງຈັງ - ເຈົ້າຮູ້ແລ້ວ.
+
+606
+00:41:57,500 --> 00:41:59,500
+[RAILLY]
+James!  Come on.
+ເຈມສ໌! ມາແລ້ວ.
+
+607
+00:42:00,000 --> 00:42:02,100
+[COLE]
+I don't understand what we're doing.
+ຂ້ອຍບໍ່ເຂົ້າໃຈວ່າພວກເຮົາ ກໍາ ລັງເຮັດຫຍັງ.
+
+608
+00:42:02,600 --> 00:42:05,750
+[RAILLY]
+We're avoiding the police until I can....talk to you.
+ພວກເຮົາ ກໍາ ລັງຫຼີກເວັ້ນຕໍາຫຼວດຈົນກວ່າຂ້ອຍຈະສາມາດ
+... ເວົ້າກັບເຈົ້າໄດ້.
+
+609
+00:42:06,250 --> 00:42:12,250
+[COLE]
+You mean, treat me?  Cure me?  Kathryn, those words on the wall -- I've seen them before...  I...I...dreamed them.
+ເຈົ້າຫມາຍຄວາມວ່າ, ແກ້ໄຂຂ້ອຍບໍ? ປິ່ນປົວຂ້ອຍ? ຄາຕຣິນ, ຄໍາ
+ເວົ້າເຫລົ່ານັ້ນຢູ່ເທິງກໍາແພງ - ຂ້ອຍເຄີຍເຫັນພວກມັນກ່ອນ... ຂ້ອຍ... ຂ້ອຍ... ຝັນພວກມັນ.
+
+610
+00:42:12,750 --> 00:42:14,750
+[DESK CLERK]
+Twenty five bucks an hour.
+ສອງສິບຫ້າໂດລາຕໍ່ຊົ່ວໂມງ.
+
+611
+00:42:15,250 --> 00:42:17,250
+[RAILLY]
+An hour?!
+ຫນຶ່ງຊົ່ວໂມງບໍ?
+
+612
+00:42:17,750 --> 00:42:20,200
+[DESK CLERK]
+You want quarter hours, go someplace else.
+ເຈົ້າຢາກສີ່ແສນຊົ່ວໂມງ, ໄປບ່ອນອື່ນ.
+
+613
+00:42:20,700 --> 00:42:23,150
+[RAILLY]
+Here's ninety eight.  For the night.  Deal?
+ນີ້ແມ່ນສິບແປດ. ສໍາລັບຄືນນີ້. ຂໍ້ຕົກລົງບໍ?
+
+614
+00:42:23,650 --> 00:42:26,450
+[DESK CLERK]
+Forty four.  Fourth floor, turn right. Elevator's busted.
+ສີ່ສິບສີ່. ຊັ້ນທີສີ່, ຫັນໄປທາງຂວາ. ລົດຍົກຖືກທໍາລາຍ.
+
+615
+00:42:26,950 --> 00:42:32,950
+[DESK CLERK]
+Tommy?  This is Charlie at the Globe. You know if Wallace has a new girl? Sort of a rookie type?  Blonde?
+ໂຕມມີ? ນີ້ແມ່ນແຊລລີຢູ່ໂລກໂລກ. ເຈົ້າຮູ້ວ່າວາວລາສມີເດັກຍິງຄົນໃຫມ່ບໍ
+? ເປັນປະເພດຄົນ ໃຫມ່ ບໍ? ບລອນດ໌ບໍ?
+
+616
+00:42:33,450 --> 00:42:38,000
+[RAILLY]
+Okay...you were standing there looking at the moon...you were eating grass... then what?
+ດີແລ້ວ... ເຈົ້າຢືນຢູ່ບ່ອນນັ້ນເບິ່ງດວງຈັນ..
+. ເຈົ້າ ກໍາ ລັງກິນຫຍ້າ... ຫຼັງຈາກນັ້ນຫຍັງ?
+
+617
+00:42:38,500 --> 00:42:40,600
+[COLE]
+I thought I was in...prison again.
+ຂ້ອຍຄິດວ່າຂ້ອຍຢູ່ໃນຄຸກອີກແລ້ວ.
+
+618
+00:42:41,100 --> 00:42:43,550
+[RAILLY]
+Just like that?  You were in prison?
+ພຽງແຕ່ແບບນັ້ນບໍ? ເຈົ້າຢູ່ໃນຄຸກບໍ?
+
+619
+00:42:44,050 --> 00:42:47,550
+[COLE]
+No, not really.  It's...it's in my mind.  Like you said.
+ບໍ່, ບໍ່ແທ້ໆ. ມັນເປັນ... ມັນຢູ່ໃນຈິດໃຈຂອງຂ້ອຍ. ດັ່ງທີ່ທ່ານເວົ້າ.
+
+620
+00:42:48,050 --> 00:42:54,050
+[RAILLY]
+You disappeared!  One minute you were there, the next minute you were gone. Did you run through the woods?
+ເຈົ້າຫາຍໄປ! ຫນຶ່ງ ນາທີເຈົ້າຢູ່ບ່ອນນັ້ນ,
+ໃນນາທີຕໍ່ໄປເຈົ້າຫາຍໄປ. ເຈົ້າແລ່ນຜ່ານປ່າບໍ?
+
+621
+00:42:54,550 --> 00:42:57,000
+[COLE]
+I don't know -- I don't remember.
+ຂ້ອຍບໍ່ຮູ້ - ຂ້ອຍບໍ່ຈື່.
+
+622
+00:42:57,500 --> 00:43:02,400
+[RAILLY]
+The boy in the well.  How did you know that was just a hoax?
+ເດັກຊາຍໃນຮູ. ເຈົ້າຮູ້ແນວໃດວ່າມັນພຽງແຕ່ເປັນໂຊກແຊງເທົ່ານັ້ນ?
+
+623
+00:43:02,900 --> 00:43:04,900
+[COLE]
+It was?  I didn't...know.
+ມັນເປັນບໍ? ຂ້ອຍບໍ່... ຮູ້.
+
+624
+00:43:05,400 --> 00:43:08,550
+[RAILLY]
+James, you said he was hiding in the barn...
+ເຈມສ໌, ເຈົ້າບອກວ່າລາວເຊື່ອງໄວ້ໃນຈານ...
+
+625
+00:43:09,050 --> 00:43:15,000
+[COLE]
+I think I saw a TV show like that when I was a kid.  Where a boy...
+ຂ້ອຍຄິດວ່າຂ້ອຍເຫັນລາຍການໂທລະພາບແບບນັ້ນເມື່ອຂ້ອຍເປັນເດັກນ້ອຍ
+. ບ່ອນທີ່ເດັກຊາຍ...
+
+626
+00:43:15,500 --> 00:43:21,500
+[COLE]
+Well, maybe that kid saw the same TV show and copied it.  Listen, you were right, it's all in my head.  I'm mentally ill, I imagine all that stuff.  I know they're not real, I can trick them, make them do what I want.  I just worked on them in my head and I got back here.  I can get better.  I can stay here.
+ດີ, ບາງທີເດັກນັ້ນໄດ້ເຫັນລາຍການໂທລະພາບດຽວກັນແລະ ສໍາ ເນົາມັນ. ຟັງ, ເຈົ້າຖືກຕ້ອງ, ມັນທັງ ຫມົດ ຢູ່ໃນຫົວຂອງຂ້ອຍ. ຂ້ອຍເຈັບປ່ວຍທາງຈິດໃຈ, ຂ້ອຍຄິດເຫັນສິ່ງທັງ ຫມົດ ນັ້ນ. ຂ້ອຍຮູ້ວ່າພວກມັນບໍ່ແມ່ນຄວາມຈິງ
+, ຂ້ອຍສາມາດຫຼອກລວງພວກເຂົາ, ເຮັດໃຫ້ພວກເຂົາເຮັດສິ່ງທີ່ຂ້ອຍຕ້ອງການ. ຂ້ອຍພຽງແຕ່ເຮັດວຽກກ່ຽວກັບພວກມັນໃນຫົວຂອງຂ້ອຍແລະຂ້ອຍກັບມາບ່ອນນີ້. ຂ້ອຍສາມາດດີຂຶ້ນໄດ້. ຂ້າພະເຈົ້າສາມາດຢູ່ບ່ອນນີ້ໄດ້.
+
+627
+00:43:22,000 --> 00:43:24,100
+[RAILLY]
+What does this mean to you?
+ນີ້ຫມາຍຄວາມວ່າແນວໃດຕໍ່ເຈົ້າ?
+
+628
+00:43:24,600 --> 00:43:27,050
+[COLE]
+...I had a dream about...something like that.
+ຂ້ອຍມີຄວາມຝັນກ່ຽວກັບ... ບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ.
+
+629
+00:43:27,550 --> 00:43:33,500
+[RAILLY]
+You had a bullet from World War One in your leg, James!  How did it get there?
+ເຈົ້າມີລູກປືນຈາກສົງຄາມໂລກຄັ້ງທໍາອິດໃນຕີນຂອງທ່ານ
+, ເຈມສ໌! ມັນໄດ້ໄປບ່ອນນັ້ນແນວໃດ?
+
+630
+00:43:34,000 --> 00:43:40,000
+[COLE]
+You said I had delusions -- that I created a world -- you said you could explain everything...
+ເຈົ້າເວົ້າວ່າຂ້ອຍມີຄວາມຜິດພາດ - ວ່າຂ້ອຍສ້າງໂລກ
+- ເຈົ້າເວົ້າວ່າເຈົ້າສາມາດອະທິບາຍທຸກຢ່າງໄດ້...
+
+631
+00:43:40,500 --> 00:43:46,500
+[RAILLY]
+Well, I can't. ... I mean...I'm trying to.  I can't believe that everything we do or say has already happened, that we can't change what's going to happen, that I'm one of the three billion people who are going to die...soon.
+ດີ, ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.... ຂ້ອຍຫມາຍຄວາມວ່າ... ຂ້ອຍ ກໍາ ລັງພະຍາຍາມ. ຂ້ອຍບໍ່ເຊື່ອວ່າທຸກຢ່າງທີ່ພວກເຮົາເຮັດຫຼືເວົ້າໄດ້ເກີດຂຶ້ນແລ້ວ
+, ວ່າພວກເຮົາບໍ່ສາມາດປ່ຽນແປງສິ່ງທີ່ຈະເກີດຂຶ້ນໄດ້, ວ່າຂ້ອຍເປັນ ຫນຶ່ງ ໃນສາມລ້ານຄົນທີ່ຈະຕາຍ... ໃນໄວໆນີ້.
+
+632
+00:43:47,000 --> 00:43:53,000
+[COLE]
+I want to be here.  In this time.  With you.  I want to become...become a whole person.  I want this to be the present. I want the future to be unknown.
+ຂ້ອຍຢາກຢູ່ບ່ອນນີ້. ໃນເວລານີ້. ກັບເຈົ້າ. ຂ້ອຍຢາກກາຍເປັນ... ກາຍເປັນຄົນທັງ
+ຫມົດ. ຂ້ອຍຕ້ອງການໃຫ້ສິ່ງນີ້ເປັນປະຈຸບັນ. ຂ້ອຍຂໍໃຫ້ອະນາຄົດບໍ່ຮູ້.
+
+633
+00:43:53,500 --> 00:43:58,400
+[RAILLY]
+James...do you remember...six years ago...you had a phone number!  You tried to call and...
+ເຈມສ໌... ເຈົ້າຈື່ບໍ... ເມື່ອຫົກປີກ່ອນ...
+ເຈົ້າມີເບີໂທລະສັບ! ເຈົ້າພະຍາຍາມໂທແລະ...
+
+634
+00:43:58,900 --> 00:44:00,900
+[WALLACE]
+This is my territory, bitch!
+ນີ້ແມ່ນເຂດຂອງຂ້ອຍ, ໂຊກຮ້າຍ!
+
+635
+00:44:01,400 --> 00:44:05,250
+[COLE]
+Is this real -- or is this one of my delusions?
+ນີ້ແມ່ນແທ້ຈິງບໍ - ຫຼືນີ້ແມ່ນ ຫນຶ່ງ ໃນຄວາມຜິດພາດຂອງຂ້ອຍບໍ?
+
+636
+00:44:05,750 --> 00:44:10,650
+[RAILLY]
+This is definitely real:  Excuse me, I think we have a little misunderstanding here...
+ນີ້ແມ່ນແທ້ຈິງແນ່ນອນ: ຂໍໂທດຂ້ອຍ,
+ຂ້ອຍຄິດວ່າພວກເຮົາມີຄວາມເຂົ້າໃຈຜິດນ້ອຍໆຢູ່ນີ້...
+
+637
+00:44:11,150 --> 00:44:17,150
+[WALLACE]
+What're you -- some kind of tough guy? You wanna be a hero?  You gonna try and mess with me?  Come on...
+ເຈົ້າເປັນຫຍັງ - ຄົນແຂງແຮງບາງຊະນິດບໍ? ເຈົ້າຢາກເປັນວິລະຊົນບໍ
+? ທ່ານຈະພະຍາຍາມຢອກຊື່ໆກັບຂ້ອຍບໍ? ມາ...
+
+638
+00:44:17,650 --> 00:44:23,650
+[WALLACE]
+Now that's a smart boy.  But you, honey, you think you can go 'round me and peddle your fancy ass in this part of town, you bet your life we got what I would call a major goddamn misunderstandin'.
+ດຽວນີ້ນັ້ນແມ່ນເດັກຊາຍທີ່ສະຫຼາດ. ແຕ່ເຈົ້າແມ, ເຈົ້າຄິດວ່າເຈົ້າສາມາດໄປຢູ່ອ້ອມຂ້ອຍແລະຂາຍຫລັງທີ່ສວຍງາມຂອງທ່ານໃນພາກສ່ວນນີ້ຂອງເມືອງ
+, ເຈົ້າແນ່ໃຈວ່າຊີວິດຂອງທ່ານພວກເຮົາມີສິ່ງທີ່ຂ້ອຍຈະເອີ້ນວ່າຄວາມເຂົ້າໃຈຜິດທີ່ໃຫຍ່ຫຼວງ.
+
+639
+00:44:24,150 --> 00:44:26,150
+[WALLACE]
+You...heard...her.  Don't do it, man.
+ເຈົ້າ... ໄດ້ຍິນ... ນາງ. ຢ່າເຮັດມັນ, ຜູ້ຊາຍ.
+
+640
+00:44:26,650 --> 00:44:30,500
+[RAILLY]
+Put him in the closet, ... But get his money first.
+ເອົາລາວໄວ້ໃນກະຕູ້,... ແຕ່ເອົາເງິນຂອງລາວກ່ອນ.
+
+641
+00:44:31,000 --> 00:44:33,100
+[COLE]
+You want me to rob him?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍລັກລາວບໍ?
+
+642
+00:44:33,600 --> 00:44:35,600
+[RAILLY]
+I...I...We need cash, James.
+ຂ້ອຍ... ຂ້ອຍ... ພວກເຮົາຕ້ອງການເງິນສົດ, ເຈມສ໌.
+
+643
+00:44:36,100 --> 00:44:42,100
+[WALLACE]
+You two are crazy.  I got friends.  You put me in a closet, they're gonna be really pissed.
+ເຈົ້າທັງສອງໂຊກຮ້າຍ. ຂ້ອຍມີເພື່ອນ.
+ເຈົ້າເອົາຂ້ອຍໄວ້ໃນກະຕູ້, ພວກເຂົາຍັງຈະໂສກຮ້າຍແທ້ໆ.
+
+644
+00:44:42,600 --> 00:44:44,600
+[RAILLY]
+James, no!
+ເຈມສ໌, ບໍ່!
+
+645
+00:44:45,100 --> 00:44:48,250
+[WALLACE]
+I have friends, man -- if you cut me...
+ຂ້ອຍມີເພື່ອນ, ຜູ້ຊາຍ - ຖ້າເຈົ້າຕັດຂ້ອຍ...
+
+646
+00:44:48,750 --> 00:44:50,750
+[WALLACE]
+What...the...fuck..are you doing???
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ບໍ???
+
+647
+00:44:51,250 --> 00:44:54,050
+[RAILLY]
+Oh, my God, James.  Did you kill him?
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ, ເຈມສ໌. ເຈົ້າໄດ້ຂ້າລາວບໍ?
+
+648
+00:44:54,550 --> 00:45:00,550
+[COLE]
+Just...just in case.  In case I'm not crazy...  That's how they find us.  By our teeth.  I don't want them to find me.  Ever.  I don't want to go back.
+ພຽງແຕ່... ພຽງແຕ່ໃນກໍລະນີ. ໃນກໍລະນີທີ່ຂ້ອຍບໍ່ໂຊກຮ້າຍ... ນັ້ນແມ່ນວິທີທີ່ພວກເຂົາຊອກຫາພວກເຮົາ
+. ໂດຍແຂ້ວຂອງພວກເຮົາ. ຂ້ອຍບໍ່ຢາກໃຫ້ພວກເຂົາຊອກຫາຂ້ອຍ. ບໍ່ເຄີຍ. ຂ້ອຍບໍ່ໄດ້ຢາກກັບຄືນໄປບ່ອນ.
+
+649
+00:45:01,050 --> 00:45:03,050
+[RAILLY]
+Push it tight!
+ກົດມັນຢ່າງເຂັ້ມງວດ!
+
+650
+00:45:03,550 --> 00:45:08,100
+[RAILLY]
+Wait here.  I'm going to try that phone number.  Let's hope it's nothing!
+ລໍຖ້າຢູ່ບ່ອນນີ້. ຂ້ອຍຈະພະຍາຍາມເບີໂທລະສັບນັ້ນ
+. ຂໍຫວັງວ່າມັນບໍ່ມີຫຍັງເລີຍ!
+
+651
+00:45:08,600 --> 00:45:11,400
+[RAILLY]
+James!  James!  It's okay.  We're insane!  We're crazy!
+ເຈມສ໌! ເຈມຊ໌! ມັນບໍ່ເປັນຫຍັງ. ພວກເຮົາໂຊກຮ້າຍ! ພວກເຮົາໂສກໃຈ!
+
+652
+00:45:11,900 --> 00:45:13,900
+[RAILLY]
+It's a Carpet Cleaning Company...
+ມັນເປັນບໍລິສັດເຮັດຄວາມສະອາດກະເປົາ...
+
+653
+00:45:14,400 --> 00:45:16,400
+[COLE]
+A Carpet Cleaning Company?
+ບໍລິສັດເຮັດຄວາມສະອາດກະຕ່າບໍ?
+
+654
+00:45:16,900 --> 00:45:22,900
+[RAILLY]
+No superiors!  No scientists.  No people from the future.  It's just a Carpet Cleaning Company.  They have voice mail -- you leave a message telling them when you want your carpet cleaned.
+ບໍ່ມີຜູ້ອໍານວຍການ! ບໍ່ມີນັກວິທະຍາສາດ. ບໍ່ມີຄົນຈາກອະນາຄົດ. ມັນແມ່ນພຽງແຕ່ບໍລິສັດເຮັດຄວາມສະອາດຜ້າແພ
+. ພວກເຂົາມີຈົດຫມາຍສຽງ - ເຈົ້າປ່ອຍຂໍ້ຄວາມບອກພວກເຂົາວ່າເມື່ອເຈົ້າຕ້ອງການຜ້າຜ້າຂອງທ່ານຖືກເຮັດສະອາດ.
+
+655
+00:45:23,400 --> 00:45:25,500
+[COLE]
+You... you left them a message?
+ເຈົ້າ... ເຈົ້າໄດ້ປ່ອຍຂໍ້ຄວາມໃຫ້ພວກເຂົາບໍ?
+
+656
+00:45:26,000 --> 00:45:32,000
+[RAILLY]
+I couldn't resist.  I was so relieved. Wait'll they hear this nutty woman telling them...they better watch out for the Army of the Twelve Monkeys...
+ຂ້ອຍບໍ່ສາມາດຕໍ່ຕ້ານໄດ້. ຂ້ອຍມີຄວາມສະບາຍໃຈຫຼາຍ.
+ລໍຖ້າພວກເຂົາຈະໄດ້ຍິນແມ່ຍິງຄົນໂຊກຮ້າຍຄົນນີ້ບອກພວກເຂົາ... ພວກເຂົາຄວນລະວັງກອງທັບຂອງແມວສິບສອງຄົນ...
+
+657
+00:45:32,500 --> 00:45:38,500
+[COLE]
+"The Army of the Twelve Monkeys -- they're the ones who are going to do it.  I can't do anything more.  The police are watching me."
+ກອງທັບຂອງແມວສິບສອງຄົນ - ພວກເຂົາແມ່ນຜູ້ທີ່ຈະເຮັດມັນ.
+ຂ້ອຍບໍ່ສາມາດເຮັດຫຍັງອີກໄດ້. ຕໍາຫຼວດ ກໍາ ລັງເບິ່ງຂ້ອຍ.
+
+658
+00:45:39,000 --> 00:45:41,100
+[RAILLY]
+You... you couldn't have heard me.
+ເຈົ້າ... ເຈົ້າບໍ່ສາມາດໄດ້ຍິນຂ້ອຍໄດ້.
+
+659
+00:45:41,600 --> 00:45:47,600
+[COLE]
+They got your message, Kathryn.  They played it for me.  It was a bad recording...distorted.  I didn't recognize your voice.
+ພວກເຂົາໄດ້ຮັບຂໍ້ຄວາມຂອງທ່ານ, ຄາຕຣິນ. ພວກເຂົາໄດ້ຫຼິ້ນມັນ ສໍາ
+ລັບຂ້ອຍ. ມັນແມ່ນການບັນທຶກທີ່ບໍ່ດີ... ຈົບແນ່. ຂ້ອຍບໍ່ຮູ້ສຽງຂອງທ່ານ.
+
+660
+00:45:48,100 --> 00:45:50,100
+[RAILLY]
+Come on.
+ມາແລ້ວ.
+
+661
+00:45:50,600 --> 00:45:52,600
+[RAILLY]
+And this.  Anything else?
+ແລະສິ່ງນີ້. ມີຫຍັງອີກບໍ?
+
+662
+00:45:53,100 --> 00:45:55,100
+[RAILLY]
+I guess that's it.
+ຂ້ອຍຄິດວ່າມັນແມ່ນມັນ.
+
+663
+00:45:55,600 --> 00:45:58,400
+[CLERK]
+Shall I put this on your account, Ma'am?
+ຂ້ອຍຈະເອົາສິ່ງນີ້ໃສ່ບັນຊີຂອງທ່ານບໍ, ແມ່?
+
+664
+00:45:58,900 --> 00:46:00,900
+[RAILLY]
+No -- I'll pay cash.
+ບໍ່ - ຂ້ອຍຈະຈ່າຍເງິນສົດ.
+
+665
+00:46:01,400 --> 00:46:03,850
+[RAILLY]
+What floor are the wigs on, please?
+ກະທູ້ຢູ່ຊັ້ນໃດ, ກະລຸນາ?
+
+666
+00:46:04,350 --> 00:46:10,350
+[KWESKIN]
+So then he goes into this incredible riff about how his shrink, like, replicated his brain while he was in the nut house. Turned it into a computer.
+ສະນັ້ນຫຼັງຈາກນັ້ນລາວເຂົ້າໄປໃນ riff ທີ່ຍິ່ງໃຫຍ່ນີ້ກ່ຽວກັບວິທີທີ່ຈິດໃຈຂອງລາວ, ເຊັ່ນວ່າ
+, ການສໍາເນົາສະຫມອງຂອງລາວໃນຂະນະທີ່ລາວຢູ່ໃນເຮືອນໂຊກຮ້າຍ. ປ່ຽນມັນເປັນຄອມພິວເຕີ.
+
+667
+00:46:10,850 --> 00:46:12,850
+[WELLER]
+And Fale believed it?
+ແລະຟາເລຍເຊື່ອມັນບໍ?
+
+668
+00:46:13,350 --> 00:46:19,350
+[KWESKIN]
+Oh, you know Fale!  He's like, "If you guys get nailed -- and I'm sure you will -- I never saw you before in nay life!"
+ໂອ້, ເຈົ້າຮູ້ຈັກຟາເລ! ລາວຄືກັບວ່າ,"ຖ້າເຈົ້າຖືກຈັບ -
+ແລະຂ້ອຍແນ່ໃຈວ່າເຈົ້າຈະເຮັດ - ຂ້ອຍບໍ່ເຄີຍເຫັນເຈົ້າກ່ອນໃນຊີວິດຂອງຂ້ອຍ!"
+
+669
+00:46:19,850 --> 00:46:21,850
+[JEFFREY]
+Let's do it!
+ພວກເຮົາເຮັດມັນ!
+
+670
+00:46:22,350 --> 00:46:26,550
+[JEFFREY]
+Okay, that's Stage One.  In Stage Two, Monkey Four is over here...
+ດີແລ້ວ, ນັ້ນແມ່ນຂັ້ນຕອນທີຫນຶ່ງ. ໃນຂັ້ນຕອນສອງ, ແມວສີ່ຢູ່ບ່ອນນີ້...
+
+671
+00:46:27,050 --> 00:46:30,900
+[GOINES]
+What's the harm in opening the bag? His eyes are taped.
+ຄວາມເສຍຫາຍຫຍັງໃນການເປີດຖົງ? ຕາຂອງລາວຖືກຕິດເທບ.
+
+672
+00:46:31,400 --> 00:46:33,850
+[SANDY]
+Yeah, it's cruel leaving him like that.
+ແມ່ນແລ້ວ, ມັນເປັນຄວາມໂຊກຮ້າຍທີ່ຈະປ່ອຍລາວແບບນັ້ນ.
+
+673
+00:46:34,350 --> 00:46:36,450
+[JEFFREY]
+Ah, but cruelty is his specialty.
+ອາ, ແຕ່ຄວາມໂຊກຮ້າຍແມ່ນຄວາມພິເສດຂອງລາວ.
+
+674
+00:46:36,950 --> 00:46:39,400
+[ICHIOKA]
+So why should we be like him?
+ສະນັ້ນເປັນຫຍັງພວກເຮົາຄວນເປັນຄືກັບລາວ?
+
+675
+00:46:39,900 --> 00:46:41,900
+[JEFFREY]
+Want the full effect?
+ເຈົ້າຢາກຜົນກະທົບຢ່າງເຕັມທີ່ບໍ?
+
+676
+00:46:42,400 --> 00:46:45,900
+[DR. MASON]
+Jeffrey?  I know it's you, Jeffrey.  I recognize your voice.
+ເຈຟຣີ? ຂ້ອຍຮູ້ວ່າມັນແມ່ນເຈົ້າ, ເຈັບຣີ. ຂ້ອຍຮູ້ຈັກສຽງຂອງທ່ານ.
+
+677
+00:46:46,400 --> 00:46:52,400
+[DR. MASON]
+JEFFREY???  ... Very well.  You're out of your mind, Jeffrey.  I know all about your insane plan.  That woman -- your psychiatrist -- she told me.
+ເຈຟຟຣີ???... ດີຫຼາຍ. ເຈົ້າບໍ່ໄດ້ຈິດໃຈຂອງທ່ານ, ເຈຟຣີ.
+ຂ້ອຍຮູ້ທຸກຢ່າງກ່ຽວກັບແຜນການໂຊກຮ້າຍຂອງທ່ານ. ແມ່ຍິງຄົນນັ້ນ - ຫມໍຈິດວິນຍານຂອງທ່ານ - ນາງບອກຂ້ອຍ.
+
+678
+00:46:52,900 --> 00:46:58,900
+[DR. MASON]
+I didn't believe her -- it seemed too crazy even for you.  But, just in case, I took steps to make sure you couldn't do it.  I took myself out of the loop!  I don't have the code any more.  I don't have access to the virus.  So, go ahead -- torture me, but you can't extract anything of use to yourself.
+ຂ້ອຍບໍ່ເຊື່ອນາງ - ມັນເບິ່ງຄືວ່າໂຊກຮ້າຍຫຼາຍເຖິງແມ່ນວ່າ ສໍາ ລັບເຈົ້າ. ແຕ່, ພຽງແຕ່ໃນກໍລະນີ, ຂ້ອຍໄດ້ເອົາບາດກ້າວເພື່ອແນ່ໃຈວ່າເຈົ້າບໍ່ສາມາດເຮັດໄດ້.
+ຂ້ອຍເອົາຕົວເອງອອກຈາກວົງຈອນ! ຂ້ອຍບໍ່ມີລະຫັດອີກແລ້ວ. ຂ້ອຍບໍ່ມີການເຂົ້າເຖິງໄວຣັສ. ສະນັ້ນ, ໄປກ່ອນ - ທໍລະມານຂ້ອຍ, ແຕ່ເຈົ້າບໍ່ສາມາດດຶງຫຍັງທີ່ເປັນປະໂຫຍດຕໍ່ຕົວເອງໄດ້.
+
+679
+00:46:59,400 --> 00:47:01,400
+[JEFFREY]
+What...virus?
+ໄວຣັສໃດ?
+
+680
+00:47:01,900 --> 00:47:06,450
+[DR. MASON]
+She knew about it, Jeffrey.  She knew you were going to try this.
+ນາງຮູ້ກ່ຽວກັບມັນ, ເຈຟຣີ. ນາງຮູ້ວ່າເຈົ້າຈະພະຍາຍາມສິ່ງນີ້.
+
+681
+00:47:06,950 --> 00:47:09,400
+[JEFFREY]
+What virus are we talking about, Dad?
+ພວກເຮົາ ກໍາ ລັງເວົ້າກ່ຽວກັບໄວຣັສໃດ, ພໍ່?
+
+682
+00:47:09,900 --> 00:47:11,900
+[DR. MASON]
+You're insane, Jeffrey.
+ເຈົ້າໂຊກຮ້າຍ, ເຈຟຣີ.
+
+683
+00:47:12,400 --> 00:47:18,400
+[JEFFREY]
+You "develop" viruses and you're calling me insane?  Typical.  What does this virus attack?  Don't tell me, you sick fuck, it doesn't matter.  Have I ever "developed" a virus?  Do I put helpless animals in cages and measure their reactions to electrical stimuli? Do I inject radioactive substances into living creatures and examine their bowel movements?  Wow!  And I'm crazy!
+ເຈົ້າ"ພັດທະນາ" ໄວຣັສແລະເຈົ້າ ກໍາ ລັງເອີ້ນຂ້ອຍວ່າໂຊກຮ້າຍບໍ? ແບບປົກກະຕິ. ໄວຣັດນີ້ໂຈມຕີຫຍັງ? ຢ່າບອກຂ້ອຍ, ເຈົ້າຄົນເຈັບປ່ວຍ, ມັນບໍ່ສົນໃຈ. ຂ້ອຍເຄີຍ"ພັດທະນາວີຣັດ" ບໍ?
+ຂ້ອຍເອົາສັດທີ່ບໍ່ມີຄວາມຊ່ວຍເຫຼືອໃນກະຕຸ້ນແລະວັດແທກການປະຕິກິລິຍາຂອງພວກເຂົາຕໍ່ກະຕຸກກະຕານໄຟຟ້າບໍ? ຂ້ອຍສີດສານວິທະຍຸໃນສິ່ງມີຊີວິດແລະກວດກາການເຄື່ອນໄຫວຂອງທ້ອງຂອງພວກເຂົາບໍ? ໂວ້!
+
+684
+00:47:18,900 --> 00:47:24,900
+[DR. MASON]
+Please tell me, Jeffrey, what exactly are you going to do?  I don't have to tell you I'm afraid.
+ກະລຸນາບອກຂ້ອຍ, ເຈຟຣີ, ເຈົ້າຈະເຮັດຫຍັງແທ້ໆ?
+ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງບອກເຈົ້າວ່າຂ້ອຍຢ້ານກົວ.
+
+685
+00:47:25,400 --> 00:47:27,400
+[RAILLY]
+Here, let me help you.
+ມາ, ຂໍໃຫ້ຂ້ອຍຊ່ວຍເຈົ້າ.
+
+686
+00:47:27,900 --> 00:47:33,500
+[COLE]
+I think I've seen this movie before. When I was a kid.  It was on TV.
+ຂ້ອຍຄິດວ່າຂ້ອຍເຄີຍເຫັນຮູບເງົານີ້ກ່ອນ.
+ເມື່ອຂ້ອຍເປັນເດັກນ້ອຍ. ມັນຢູ່ໃນໂທລະພາບ.
+
+687
+00:47:34,000 --> 00:47:36,100
+[RAILLY]
+Shh -- don't talk.  Hold still.
+ສະຫງວນ - ຢ່າເວົ້າ. ຢຸດເຊົາ.
+
+688
+00:47:36,600 --> 00:47:42,600
+[COLE]
+I have seen it, but I don't remember this part.  Funny, it's like what's happening to us, like the past.  The movie never changes -- it can't change -- but everytime you see it, it seems to be different because you're different -- you notice different things.
+ຂ້ອຍເຄີຍເຫັນມັນແລ້ວ, ແຕ່ຂ້ອຍບໍ່ຈື່ສ່ວນນີ້. ມ່ວນຊື່ນ, ມັນຄືກັບສິ່ງທີ່ ກໍາ ລັງເກີດຂຶ້ນກັບພວກເຮົາ, ຄືກັບອະດີດ. ຮູບເງົາບໍ່ເຄີຍປ່ຽນແປງ -
+ມັນບໍ່ສາມາດປ່ຽນແປງໄດ້ - ແຕ່ທຸກຄັ້ງທີ່ທ່ານເຫັນມັນ, ມັນເບິ່ງຄືວ່າແຕກຕ່າງກັນເພາະວ່າທ່ານແຕກຕ່າງກັນ - ເຈົ້າສັງເກດເຫັນສິ່ງຕ່າງໆທີ່ແຕກຕ່າງກັນ.
+
+689
+00:47:43,100 --> 00:47:49,050
+[RAILLY]
+If we can't change anything...because it's already happened, then we ought to at least smell the flowers.
+ຖ້າພວກເຮົາບໍ່ສາມາດປ່ຽນແປງຫຍັງໄດ້... ເພາະວ່າມັນເກີດຂຶ້ນແລ້ວ
+, ຫຼັງຈາກນັ້ນພວກເຮົາຄວນກິ່ນຫອມດອກໄມ້ຢ່າງຫນ້ອຍ.
+
+690
+00:47:49,550 --> 00:47:51,550
+[COLE]
+Flowers!  What flowers?
+ດອກໄມ້!ດອກໄມ້ໃດ?
+
+691
+00:47:52,050 --> 00:47:54,050
+[RAILLY]
+It's an expression.  Here...
+ມັນເປັນການສະແດງອອກ. ຢູ່ບ່ອນນີ້...
+
+692
+00:47:54,550 --> 00:47:56,550
+[COLE]
+Why are we doing this?
+ພວກເຮົາເຮັດແບບນີ້ເປັນຫຍັງ?
+
+693
+00:47:57,050 --> 00:48:03,050
+[RAILLY]
+So we can stick our heads out the window and feel the wind and listen to the music.  So we can appreciate what we have while we have it.  Forgive me, psychiatrists don't cry.
+ສະນັ້ນພວກເຮົາສາມາດເອົາຫົວອອກຈາກປ່ອງຢ້ຽມແລະຮູ້ສຶກລົມແລະຟັງດົນຕີ.
+ດັ່ງນັ້ນພວກເຮົາສາມາດຍ້ອງຍໍສິ່ງທີ່ພວກເຮົາມີໃນຂະນະທີ່ພວກເຮົາມີມັນ. ຂໍໂທດຂ້ອຍ, ນັກຈິດໃຈບໍ່ຮ້ອງໄຫ້.
+
+694
+00:48:03,550 --> 00:48:07,400
+[COLE]
+But maybe I'm wrong.  Maybe you're wrong.  Maybe we're both crazy.
+ແຕ່ບາງທີຂ້ອຍຜິດ. ບາງທີເຈົ້າຜິດ.ບາງທີພວກເຮົາທັງສອງໂຊກຮ້າຍ.
+
+695
+00:48:07,900 --> 00:48:13,900
+[RAILLY]
+In a few weeks, it will have started or it won't.  If there are still baseball games and traffic jams, armed robberies and boring TV shows -- we'll be so happy, we'll be glad to turn ourselves in to the police.
+ໃນສອງສາມອາທິດ, ມັນຈະເລີ່ມຕົ້ນຫຼືມັນຈະບໍ່. ຖ້າຍັງມີເກມບານເຕະແລະຄວາມຫຍຸ້ງຍາກທາງລົດ,
+ການລັກລອບດ້ວຍອາວຸດແລະລາຍການໂທລະພາບທີ່ເບື່ອຫນ່າຍ - ພວກເຮົາຈະມີຄວາມສຸກຫຼາຍ, ພວກເຮົາຈະຍິນດີທີ່ຈະມອບຕົວເອງໃຫ້ຕໍາຫຼວດ.
+
+696
+00:48:14,400 --> 00:48:17,200
+[COLE]
+Where can we hide for a few weeks?
+ພວກເຮົາສາມາດເຊື່ອງໄວ້ໃສໄດ້ສອງສາມອາທິດ?
+
+697
+00:48:17,700 --> 00:48:20,150
+[RAILLY]
+You said you'd never seen the ocean...
+ເຈົ້າບອກວ່າເຈົ້າບໍ່ເຄີຍເຫັນມະຫາສະຫມຸດເລີຍ...
+
+698
+00:48:20,650 --> 00:48:22,650
+[COLE]
+Kathryn?!
+ແຄຕຣິນບໍ?
+
+699
+00:48:23,150 --> 00:48:26,300
+[BRUNETTE]
+We're booked on a 9:30 flight to Key West.
+ພວກເຮົາຈອງເຮືອບິນໃນເວລາ 9:30 ໄປຫາ Key West.
+
+700
+00:48:26,800 --> 00:48:30,650
+[COLE]
+You were in my dream just now.  I didn't recognize you.
+ເຈົ້າຢູ່ໃນຄວາມຝັນຂອງຂ້ອຍດຽວນີ້. ຂ້ອຍບໍ່ຮູ້ຈັກເຈົ້າ.
+
+701
+00:48:31,150 --> 00:48:33,250
+[RAILLY]
+Well, you look pretty different, too.
+ດີ, ເຈົ້າເບິ່ງແຕກຕ່າງກັນຫຼາຍເຊັ່ນກັນ.
+
+702
+00:48:33,750 --> 00:48:39,750
+[COLE]
+I mean in my dream -- I didn't realize it was you.  Then...I woke up and I...I thought you were gone.
+ຂ້ອຍຫມາຍຄວາມວ່າໃນຄວາມຝັນຂອງຂ້ອຍ - ຂ້ອຍບໍ່ຮູ້ວ່າມັນແມ່ນເຈົ້າ.
+ຫຼັງຈາກນັ້ນ... ຂ້ອຍຕື່ນແລະຂ້ອຍ... ຂ້ອຍຄິດວ່າເຈົ້າຫາຍໄປແລ້ວ.
+
+703
+00:48:40,250 --> 00:48:45,850
+[RAILLY]
+I remember you...like this.  I feel I've known you before.  I feel I've always known you.
+ຂ້ອຍຈື່ເຈົ້າ... ແບບນີ້. ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍເຄີຍຮູ້ຈັກເຈົ້າກ່ອນ
+. ຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ຈັກເຈົ້າຕະຫຼອດໄປ.
+
+704
+00:48:46,350 --> 00:48:48,350
+[RAILLY]
+Nine thirty
+ໂມງເກົ້າສິບ
+
+705
+00:48:48,850 --> 00:48:50,850
+[WOMAN CABBIE]
+Might be tight.
+ມັນອາດຈະແຫນ້ນແຟ້ນ.
+
+706
+00:48:51,350 --> 00:48:53,350
+[RAILLY]
+Tight?  My watch says 7:30.
+ແຫນ້ນແຫນ້ນບໍ? ໂມງຂອງຂ້ອຍບອກເວລາ 7:30 ໂມງ.
+
+707
+00:48:53,850 --> 00:48:59,800
+[WOMAN CABBIE]
+On your normal mornin', okay, plenty a time, but today, gotta take inta account your Army-of-the-Twelve-Monkeys factor.
+ໃນຕອນເຊົ້າປົກກະຕິຂອງທ່ານ, ດີ, ເວລາຫຼາຍ, ແຕ່ມື້ນີ້
+, ຕ້ອງເອົາໃຈໃສ່ປັດໃຈກອງທັບຂອງແມວສິບສອງຂອງທ່ານ.
+
+708
+00:49:00,300 --> 00:49:02,300
+[RAILLY]
+What?  What did you say?
+ຫຍັງ? ເຈົ້າເວົ້າຫຍັງ?
+
+709
+00:49:02,800 --> 00:49:07,350
+[WOMAN CABBIE]
+Twelve Monkeys, honey.  Guess you folks didn't turn on your radio this morning.
+ແມວສິບສອງແມວແມ.
+ຂ້ອຍຄິດວ່າເຈົ້າບໍ່ໄດ້ເປີດວິທະຍຸຂອງທ່ານໃນຕອນເຊົ້ານີ້.
+
+710
+00:49:07,850 --> 00:49:13,850
+[WOMAN CABBIE]
+Bunch a weirdoes let all the animals outta the zoo last night.  Then they locked up this big shot scientist in one of the cages. Scientist's own kid was one a the ones did it!
+ພວກຄົນແປກໃຈຫຼາຍຄົນປ່ອຍສັດທັງ ຫມົດ ອອກຈາກສວນສັດໃນມື້ວານນີ້.
+ຫຼັງຈາກນັ້ນພວກເຂົາໄດ້ລັອກນັກວິທະຍາສາດທີ່ໃຫຍ່ນີ້ໄວ້ໃນຫນຶ່ງໃນຈານ. ລູກຂອງນັກວິທະຍາສາດເອງແມ່ນ ຫນຶ່ງ ໃນຜູ້ທີ່ເຮັດມັນ!
+
+711
+00:49:14,350 --> 00:49:17,150
+[RAILLY]
+That's what they were up to!  Freeing animals!
+ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາ ກໍາ ລັງເຮັດ! ການປ່ອຍສັດ!
+
+712
+00:49:17,650 --> 00:49:22,550
+[COLE]
+On the walls -- they meant the animals when they said, "We did it."
+ຢູ່ເທິງກໍາແພງ - ພວກເຂົາຫມາຍຄວາມວ່າສັດເມື່ອພວກເຂົາເວົ້າວ່າ
+,"ພວກເຮົາເຮັດມັນ."
+
+713
+00:49:23,050 --> 00:49:26,550
+[WOMAN CABBIE]
+You can hear it on the radio all the stations...
+ເຈົ້າສາມາດຍິນມັນໄດ້ໃນວິທະຍຸທັງ ຫມົດ ສະຖານີ...
+
+714
+00:49:27,050 --> 00:49:29,150
+[RAILLY]
+Maybe it's going to be okay.
+ບາງທີມັນຈະດີດີ.
+
+715
+00:49:29,650 --> 00:49:35,650
+[DETECTIVE]
+Tell your people if they spot either one of them, not to try and apprehend then.  They should notify us and...
+ບອກຄົນຂອງທ່ານຖ້າພວກເຂົາເຫັນໃດ ຫນຶ່ງ ໃນພວກມັນ,
+ບໍ່ພະຍາຍາມຈັບແລະຈັບຫຼັງຈາກນັ້ນ. ພວກເຂົາຄວນແຈ້ງໃຫ້ພວກເຮົາຮູ້ແລະ...
+
+716
+00:49:36,150 --> 00:49:40,700
+[P.A. SYSTEM]
+-- Flight 531 for Chicago is now ready for boarding at Gate Seventeen.
+- ຖ້ຽວບິນ 531 ໄປຊິຄາໂກດຽວນີ້ພ້ອມແລ້ວທີ່ຈະຂຶ້ນຢູ່ປະຕູສິບເຈັດ.
+
+717
+00:49:41,200 --> 00:49:44,350
+[COLE]
+I know this place! ... This is my dream.
+ຂ້ອຍຮູ້ຈັກບ່ອນນີ້!... ນີ້ແມ່ນຄວາມຝັນຂອງຂ້ອຍ.
+
+718
+00:49:44,850 --> 00:49:49,050
+[RAILLY]
+Airports all look the same.  Maybe it's...  James!  Your moustache!  It's slipping.
+ສະຫນາມບິນທັງ ຫມົດ ເບິ່ງຄືວ່າຄືກັນ. ບາງທີມັນແມ່ນ
+... ເຈມສ໌! mustache ຂອງທ່ານ! ມັນລອຍລົງ.
+
+719
+00:49:49,550 --> 00:49:55,550
+[COLE]
+It's not just my dream.  I was actually here!  I remember now.  My parents brought me to meet my uncle.  About a week or two before...before...before everybody started dying.
+ມັນບໍ່ແມ່ນພຽງແຕ່ຄວາມຝັນຂອງຂ້ອຍເທົ່ານັ້ນ. ຂ້ອຍຢູ່ບ່ອນນີ້ແທ້ໆ! ຂ້ອຍຈື່ດຽວນີ້.
+ພໍ່ແມ່ຂອງຂ້ອຍໄດ້ພາຂ້ອຍໄປພົບພໍ່ເຖົ້າຂອງຂ້ອຍ. ປະມານ ຫນຶ່ງ ອາທິດຫຼືສອງອາທິດກ່ອນ... ກ່ອນ... ກ່ອນທີ່ທຸກຄົນຈະເລີ່ມຕາຍ.
+
+720
+00:49:56,050 --> 00:50:02,000
+[RAILLY]
+They may be looking for us, James.  Use this.  You can fix it in the Men's Room.
+ພວກເຂົາອາດຈະ ກໍາ ລັງຊອກຫາພວກເຮົາ, ເຈມສ໌. ໃຊ້ສິ່ງນີ້
+. ເຈົ້າສາມາດແກ້ໄຂມັນໄດ້ໃນຫ້ອງນ້ ໍາ ຜູ້ຊາຍ.
+
+721
+00:50:02,500 --> 00:50:08,500
+[COLE]
+I was here...as a kid.  I think you were here, too.  But you...looked just like you look now.
+ຂ້ອຍຢູ່ບ່ອນນີ້... ໃນຖານະເປັນເດັກນ້ອຍ. ຂ້ອຍຄິດວ່າເຈົ້າຍັງຢູ່ນີ້ເຊັ່ນກັນ
+. ແຕ່ເຈົ້າ... ເບິ່ງຄືວ່າເຈົ້າເບິ່ງຄືວ່າດຽວນີ້.
+
+722
+00:50:09,000 --> 00:50:13,900
+[RAILLY]
+James, if we're identified, they're going to send us someplace...but not to Key West!
+ເຈມສ໌, ຖ້າພວກເຮົາຖືກລະບຸຕົວ,
+ພວກເຂົາຈະສົ່ງພວກເຮົາໄປບ່ອນໃດຫນຶ່ງ... ແຕ່ບໍ່ແມ່ນໄປຫາ Key West!
+
+723
+00:50:14,400 --> 00:50:17,200
+[COLE]
+Right!  You're right.  I have to fix this.
+ແມ່ນແລ້ວ! ເຈົ້າເວົ້າຖືກຕ້ອງ. ຂ້ອຍຕ້ອງແກ້ໄຂເລື່ອງນີ້.
+
+724
+00:50:17,700 --> 00:50:21,550
+[RAILLY]
+I'll get the tickets and meet you... in the Gift Shop.
+ຂ້ອຍຈະເອົາປີ້ແລະພົບກັບເຈົ້າ... ໃນຮ້ານຂາຍຂອງຂວັນ.
+
+725
+00:50:22,050 --> 00:50:24,850
+[RAILLY]
+Judy Simmons.  I have reservations for Key West.
+ຈູດີ ຊີມມອນສ໌. ຂ້ອຍມີການຈອງໄວ້ ສໍາ ລັບ Key West.
+
+726
+00:50:25,350 --> 00:50:31,350
+[COLE]
+Listen, I don't know whether you're there or not.  Maybe you just clean carpets.  If you do, you're lucky -- you're gonna live a long, happy life. But if you other guys exist and you're picking this up -- forget about the Army of The Twelve Monkeys -- they didn't do it.  It was a mistake' Someone else did it.  The Army of The Twelve Monkeys are just dumb kids playing revolutionaries.  It was someone else!
+ຟັງ, ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າຢູ່ບ່ອນນັ້ນຫຼືບໍ່. ບາງທີເຈົ້າພຽງແຕ່ເຮັດຄວາມສະອາດຜ້າຝ້າຍ. ຖ້າເຈົ້າເຮັດ, ເຈົ້າໂຊກດີ - ເຈົ້າຈະດໍາລົງຊີວິດທີ່ຍາວນານ, ມີຄວາມສຸກ. ແຕ່ຖ້າເຈົ້າຄົນອື່ນມີຢູ່ແລະເຈົ້າ ກໍາ
+ລັງເອົາສິ່ງນີ້ - ລືມກ່ຽວກັບກອງທັບຂອງແມວສິບສອງຄົນ - ພວກເຂົາບໍ່ໄດ້ເຮັດມັນ. ມັນແມ່ນຄວາມຜິດພາດ' ຄົນອື່ນເຮັດມັນໄດ້. ກອງທັບຂອງ ແມວ ສິບສອງແມ່ນພຽງແຕ່ເດັກນ້ອຍໂງ່ທີ່ຫຼິ້ນນັກປະຕິວັດ. ມັນແມ່ນຄົນອື່ນ!
+
+727
+00:50:31,850 --> 00:50:37,100
+[COLE]
+I've done my job.  I did what you wanted. Good luck.  I'm not coming back!
+ຂ້ອຍໄດ້ເຮັດວຽກຂອງຂ້ອຍແລ້ວ.
+ຂ້ອຍເຮັດສິ່ງທີ່ເຈົ້າຕ້ອງການ. ໂຊກດີ. ຂ້ອຍຈະບໍ່ກັບມາ!
+
+728
+00:50:37,600 --> 00:50:40,050
+[TICKET AGENT]
+Don't see a lot of this... cash.
+ບໍ່ເຫັນເງິນສົດຫຼາຍປານໃດ.
+
+729
+00:50:40,550 --> 00:50:42,550
+[RAILLY]
+It's...a long story.
+ມັນເປັນເລື່ອງທີ່ຍາວນານ.
+
+730
+00:50:43,050 --> 00:50:47,600
+[TICKET AGENT]
+They'll begin boarding in about twenty minutes.  Have a nice flight, Mrs. Simmons.
+ພວກເຂົາຈະເລີ່ມຕົ້ນຂຶ້ນໃນເວລາປະມານສິບນາທີ
+. ມີການບິນທີ່ດີເລີດ, ທ່ານນາງຊີມມອນສ໌.
+
+731
+00:50:48,100 --> 00:50:52,650
+[COLE]
+Leave me alone!  I made a report.  I didn't have to do that.
+ຢ່າມາຍຸ້ງກັບຂ້ອຍ! ຂ້ອຍໄດ້ລາຍງານ. ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງເຮັດແບບນັ້ນ.
+
+732
+00:50:53,150 --> 00:50:59,150
+[COLE]
+This is the present.  This is not the past. This is not the future.  This is right now!
+ນີ້ແມ່ນປະຈຸບັນ. ນີ້ແມ່ນບໍ່ແມ່ນອະດີດ
+. ນີ້ບໍ່ແມ່ນອະນາຄົດ. ນີ້ແມ່ນດຽວນີ້!
+
+733
+00:50:59,650 --> 00:51:03,150
+[COLE]
+I'm staying here! You got that?  You can't stop me!
+ຂ້ອຍຈະຢູ່ບ່ອນນີ້! ເຈົ້າເຂົ້າໃຈບໍ? ເຈົ້າບໍ່ສາມາດຢຸດຂ້ອຍໄດ້!
+
+734
+00:51:03,650 --> 00:51:06,800
+[PLUMP MAN]
+Anything you say, chief.  It's none of my business.
+ທຸກຢ່າງທີ່ທ່ານເວົ້າ, ຫົວຫນ້າ. ມັນບໍ່ແມ່ນເລື່ອງຂອງຂ້ອຍ.
+
+735
+00:51:07,300 --> 00:51:13,300
+[TICKET AGENT]
+Woooo-eeee.  San Francisco, New Orleans, Rio de Janeiro, Rome, Kinshasa, Karachi, Bangkok, Peking! That's some trip you're taking, sir, All in one week!
+Woooo-eeee. San Francisco, New Orleans, Rio de Janeiro, Rome, Kinshasa, Karachi,
+Bangkok, Peking! ນັ້ນແມ່ນການເດີນທາງທີ່ທ່ານ ກໍາ ລັງເຮັດ, ທ້າວ, ທັງ ຫມົດ ໃນ ຫນຶ່ງ ອາທິດ!
+
+736
+00:51:13,800 --> 00:51:15,800
+[TICKET AGENT]
+Have a good one, sir.
+ຈົ່ງມີຄົນທີ່ດີເດີເດີເດີ.
+
+737
+00:51:16,300 --> 00:51:18,300
+[COLE]
+Jo...Jose????
+ໂຈ... ໂຈເຊສ໌????
+
+738
+00:51:18,800 --> 00:51:22,650
+[JOSE]
+Pulling out the tooth, man, that was nuts!  Here, take this.
+ການດຶງແຂ້ວ, ຜູ້ຊາຍ, ນັ້ນແມ່ນຫມາກນັດ! ມາ, ເອົາສິ່ງນີ້.
+
+739
+00:51:23,150 --> 00:51:25,250
+[COLE]
+What?  What for?  Are you crazy?
+ຫຍັງ? ເປັນຫຍັງ? ເຈົ້າໂຊກຮ້າຍບໍ?
+
+740
+00:51:25,750 --> 00:51:31,750
+[JOSE]
+Me?  Are you kiddin?  You're the one! You were a hero, man.  They gave you a pardon!  And whadda you do?  You come back and fuck with your teeth!  Wow!
+ຂ້ອຍ? ເຈົ້າ ກໍາ ລັງໂຊກແຊງບໍ? ເຈົ້າເປັນຄົນດຽວ! ເຈົ້າເປັນວິລະຊົນ, ຜູ້ຊາຍ.
+ພວກເຂົາໃຫ້ເຈົ້າອະໄພໂທດ! ແລະເຈົ້າເຮັດຫຍັງ? ເຈົ້າກັບມາແລະຟັກກັບແຂ້ວຂອງທ່ານ! ໂວ້!
+
+741
+00:51:32,250 --> 00:51:34,250
+[COLE]
+How did you find me?
+ເຈົ້າພົບຂ້ອຍແນວໃດ?
+
+742
+00:51:34,750 --> 00:51:37,200
+[JOSE]
+The phone call, man.  The phone call.
+ການໂທໂທລະສັບ, ຜູ້ຊາຍ. ການໂທ.
+
+743
+00:51:37,700 --> 00:51:40,500
+[COLE]
+The call I just made?  Five minutes ago?
+ການໂທທີ່ຂ້ອຍຫາກໍ່ເຮັດບໍ? ຫ້ານາທີກ່ອນ?
+
+744
+00:51:41,000 --> 00:51:47,000
+[JOSE]
+Hey, five minutes ago, thirty years ago! Yes, that phone call.  I been in training for this a couple a months now -- ever since I got back from that... "weird" war we were in.  You remember that?  Here, take it, man!  You could still be a hero if you'd cooperate!
+ເຮ້, ຫ້ານາທີກ່ອນ, ສາມສິບປີກ່ອນ! ແມ່ນແລ້ວ, ການໂທໂທລະສັບນັ້ນ. ຂ້ອຍ ກໍາ ລັງຝຶກອົບຮົມ ສໍາ ລັບສິ່ງນີ້ສອງສາມເດືອນແລ້ວ -
+ນັບຕັ້ງແຕ່ຂ້ອຍກັບມາຈາກສົງຄາມທີ່"ແປກໃຈ" ທີ່ພວກເຮົາຢູ່ໃນ. ເຈົ້າຈື່ສິ່ງນັ້ນບໍ? ຢູ່ບ່ອນນີ້, ເອົາມັນ, ຜູ້ຊາຍ! ເຈົ້າຍັງສາມາດເປັນວິລະຊົນຖ້າເຈົ້າຮ່ວມມື!
+
+745
+00:51:47,500 --> 00:51:53,500
+[DR. PETERS]
+Isn't it obvious that "Chicken Little" represents the sane vision and that Homo Sapiens' motto, "Let's go shopping!" is the cry of the true lunatic?
+ມັນບໍ່ແນ່ນອນບໍວ່າ"ໄກ່ນ້ອຍ" ສະແດງໃຫ້ເຫັນວິໄສທັດທີ່ສົມເຫດສົມຜົນແລະຄໍາຂວັນຂອງ
+Homo Sapiens ວ່າ,"ໄປຊື້ເຄື່ອງ!" ແມ່ນການຮ້ອງໄຫ້ຂອງຄົນໂຊກຮ້າຍທີ່ແທ້ຈິງບໍ?
+
+746
+00:51:54,000 --> 00:51:56,000
+[RAILLY]
+Oh, my God!
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ!
+
+747
+00:51:56,500 --> 00:52:01,400
+[P.A  SYSTEM]
+-- flight 764 for San Francisco is now ready for boarding at Gate 36.
+- ຖ້ຽວບິນ 764 ໄປແຊນຟຣານຊິສໂກແມ່ນພ້ອມແລ້ວທີ່ຈະຂຶ້ນຢູ່ປະຕູ 36.
+
+748
+00:52:01,900 --> 00:52:07,900
+[JOSE]
+Coma on, Cole, don't be an asshole.  Look, I got orders, man!  You know what I'm sposed to do if you don't go along? I'm sposed to shoot the lady!  You got that?  They said, "If Cole don't obey this time, Garcia, you gotta shoot his girlfriend!"
+ໂກມາ, ຄໍລ, ຢ່າເປັນຄົນໂຊກຮ້າຍ. ເບິ່ງ, ຂ້ອຍມີຄໍາສັ່ງ, ຜູ້ຊາຍ! ເຈົ້າຮູ້ວ່າຂ້ອຍຖືກແຕ່ງງານເພື່ອເຮັດຫຍັງຖ້າເຈົ້າບໍ່ໄປຮ່ວມກັນບໍ?
+ຂ້ອຍຖືກແຕ່ງຕັ້ງເພື່ອຍິງຜູ້ຍິງ! ເຈົ້າເຂົ້າໃຈມັນບໍ? ພວກເຂົາເວົ້າວ່າ,"ຖ້າຄໍລບໍ່ຍອມຮັບໃນຄັ້ງນີ້, ແກຣສຊີ, ເຈົ້າຕ້ອງຍິງແຟນຂອງລາວ!"
+
+749
+00:52:08,400 --> 00:52:12,950
+[JOSE]
+I got no choice, man.  These are my orders.  Just take it, okay?
+ຂ້ອຍບໍ່ມີທາງເລືອກ, ຜູ້ຊາຍ.
+ນີ້ແມ່ນຄໍາສັ່ງຂອງຂ້ອຍ. ພຽງແຕ່ເອົາມັນ, ດີບໍ?
+
+750
+00:52:13,450 --> 00:52:16,250
+[COLE]
+This part isn't about the virus, is it?
+ສ່ວນນີ້ບໍ່ແມ່ນກ່ຽວກັບໄວຣັສ, ແມ່ນບໍ?
+
+751
+00:52:16,750 --> 00:52:18,750
+[JOSE]
+Hey, man...
+ເຮ້, ຜູ້ຊາຍ...
+
+752
+00:52:19,250 --> 00:52:22,050
+[COLE]
+It's about obeying, about doing what you're told.
+ມັນກ່ຽວກັບການຍອມຮັບ, ກ່ຽວກັບການເຮັດຕາມທີ່ເຈົ້າຖືກບອກ.
+
+753
+00:52:22,550 --> 00:52:25,350
+[JOSE]
+They gave you a pardon, man.  Whatdaya want?
+ພວກເຂົາໃຫ້ເຈົ້າອະໄພ, ຜູ້ຊາຍ. ເຈົ້າຕ້ອງການຫຍັງ?
+
+754
+00:52:25,850 --> 00:52:27,950
+[COLE]
+Who am I supposed to shoot?
+ຂ້ອຍຄວນຍິງໃຜ?
+
+755
+00:52:28,450 --> 00:52:34,450
+[RAILLY]
+James!  Thank God!  I thought you'd disappeared.  Listen, I think I know who it is!  I saw him!  It's Dr. Mason's assistant.  An apocalypse nut!  The next flight to San Francisco leaves from Gate 38. If he's there, it has to be him.
+ເຈມສ໌! ຂໍຂອບໃຈພຣະເຈົ້າ! ຂ້ອຍຄິດວ່າເຈົ້າຫາຍໄປແລ້ວ. ຟັງ, ຂ້ອຍຄິດວ່າມັນຮູ້ວ່າມັນເປັນໃຜ! ຂ້ອຍເຫັນລາວ! ມັນແມ່ນຜູ້ຊ່ວຍຂອງດຣ
+ເມຊັນ. ຄົນໂຊກຮ້າຍ Apocalypse! ຖ້ຽວບິນຕໍ່ໄປໄປແຊນຟຣານຊິສໂກອອກຈາກປະຕູ 38. ຖ້າລາວຢູ່ບ່ອນນັ້ນ, ມັນຕ້ອງເປັນລາວ.
+
+756
+00:52:34,950 --> 00:52:37,050
+[COLE]
+I love you, Kathryn.  Remember that.
+ຂ້ອຍຮັກເຈົ້າ, ຄາຕຣິນ. ຈື່ໄວ້ວ່າ.
+
+757
+00:52:37,550 --> 00:52:41,400
+[RAILLY]
+Maybe we can stop him.  Maybe we can actually do something.
+ບາງທີພວກເຮົາສາມາດຢຸດລາວໄດ້.
+ບາງທີພວກເຮົາມີຄວາມສາມາດເຮັດບາງສິ່ງບາງຢ່າງໄດ້ແທ້ໆ.
+
+758
+00:52:41,900 --> 00:52:47,850
+[SECURITY OFFICER]
+Excuse me, sir.  Would you mind letting me have a look at the contents of your bag?
+ຂໍໂທດເດີ. ເຈົ້າບໍ່ເປັນຫຍັງໃຫ້ຂ້ອຍເບິ່ງເນື້ອໃນຂອງຖົງຂອງທ່ານບໍ?
+
+759
+00:52:48,350 --> 00:52:52,550
+[DR. PETERS]
+Me?  Oh, yes, of course.  My samples. I have the appropriate papers.
+ຂ້ອຍ? ໂອ້, ແມ່ນແລ້ວ, ແນ່ນອນ.
+ຕົວຢ່າງຂອງຂ້ອຍ. ຂ້ອຍມີເຈ້ຍທີ່ ເຫມາະ ສົມ.
+
+760
+00:52:53,050 --> 00:52:55,850
+[RAILLY]
+Oh, God, we don't have time for this.
+ໂອ້ ພຣະເຈົ້າ, ພວກເຮົາບໍ່ມີເວລາ ສໍາ ລັບສິ່ງນີ້.
+
+761
+00:52:56,350 --> 00:52:59,150
+[DR. PETERS]
+Biological samples.  I have the paperwork right here.
+ຕົວຢ່າງຊີວະພາບ. ຂ້ອຍມີເອກະສານຢູ່ບ່ອນນີ້.
+
+762
+00:52:59,650 --> 00:53:03,500
+[SECURITY OFFICER]
+I'm going to have to ask you to open this, sir.
+ຂ້ອຍຈະຕ້ອງຂໍໃຫ້ທ່ານເປີດສິ່ງນີ້ເດີເດີ.
+
+763
+00:53:04,000 --> 00:53:06,000
+[DR. PETERS]
+Open it?  Of course.
+ເປີດມັນບໍ? ແນ່ນອນ.
+
+764
+00:53:06,500 --> 00:53:11,750
+[DR. PETERS]
+Here!  You see?  Biological!  Check the papers -- it's all proper.  I have a permit.
+ຢູ່ບ່ອນນີ້! ເຈົ້າເຫັນບໍ? ຊີວະພາບ! ກວດສອບເຈ້ຍ
+- ມັນທັງ ຫມົດ ແມ່ນຖືກຕ້ອງ. ຂ້ອຍມີໃບອະນຸຍາດ.
+
+765
+00:53:12,250 --> 00:53:14,250
+[SECURITY OFFICER]
+It's empty!
+ມັນເປົ່າແລ້ວ!
+
+766
+00:53:14,750 --> 00:53:19,650
+[DR. PETERS]
+Well, yes, to be sure, it looks empty! But I assure you, it's not.
+ດີ, ແມ່ນແລ້ວ, ເພື່ອແນ່ໃຈວ່າ, ມັນເບິ່ງຄືວ່າເປົ່າ
+! ແຕ່ຂ້ອຍຮັບປະກັນເຈົ້າ, ມັນບໍ່ແມ່ນ.
+
+767
+00:53:20,150 --> 00:53:23,300
+[RAILLY]
+Please listen to me -- this is very urgent!
+ກະລຸນາຟັງຂ້ອຍ - ນີ້ແມ່ນມີຄວາມຮີບດ່ວນຫຼາຍ!
+
+768
+00:53:23,800 --> 00:53:26,250
+[SECOND SECURITY OFFICER]
+You'll have to get in line, ma'am.
+ເຈົ້າຕ້ອງເຂົ້າແຖວ, ແມ່.
+
+769
+00:53:26,750 --> 00:53:30,600
+[TRAVELER]
+We're all in a hurry, lady.  What's so special about you?
+ພວກເຮົາທຸກຄົນມີຄວາມຮີບດ່ວນ, ແມ່ຍິງ. ມີຫຍັງພິເສດຫຼາຍກ່ຽວກັບເຈົ້າ?
+
+770
+00:53:31,100 --> 00:53:33,900
+[DR. PETERS]
+You see!  Also invisible to the naked eye.
+ເຈົ້າເຫັນແລ້ວ! ນອກຈາກນັ້ນບໍ່ສາມາດເບິ່ງເຫັນໄດ້ດ້ວຍຕາເປົ່າ.
+
+771
+00:53:34,400 --> 00:53:36,500
+[DR. PETERS]
+It doesn't even have an odor.
+ມັນບໍ່ມີກິ່ນຫອມເລີຍ.
+
+772
+00:53:37,000 --> 00:53:42,250
+[SECURITY OFFICER]
+That's not necessary, sir.  Here you go.  Thanks for your cooperation.  Have a good flight.
+ນັ້ນບໍ່ຈໍາເປັນເດີ. ມາແລ້ວ. ຂອບໃຈ ສໍາ
+ລັບການຮ່ວມມືຂອງທ່ານ. ມີການບິນທີ່ດີ.
+
+773
+00:53:42,750 --> 00:53:44,850
+[SECOND SECURITY OFFICER]
+Who are you calling a "moron"?
+ເຈົ້າເອີ້ນໃຜວ່າ"ໂຊກຮ້າຍ"?
+
+774
+00:53:45,350 --> 00:53:47,350
+[COLE]
+Get your hands off her!
+ເອົາມືອອກຈາກນາງ!
+
+775
+00:53:47,850 --> 00:53:53,100
+[COLE]
+I said, get your hands off her.  She's not a criminal.  She's a doctor...a psychiatrist.
+ຂ້ອຍບອກວ່າ, ເອົາມືອອກຈາກນາງ.
+ນາງບໍ່ແມ່ນອາຊະຍາກໍາ. ນາງເປັນຫມໍ... ເປັນແພດຈິດໃຈ.
+
+776
+00:53:53,600 --> 00:53:56,400
+[FIRST DETECTIVE]
+Police Officers.  Would you step over here, please.
+ເຈົ້າຫນ້າທີ່ຕໍາຫຼວດ. ເຈົ້າຈະມາບ່ອນນີ້ບໍ, ກະລຸນາ.
+
+777
+00:53:56,900 --> 00:54:02,900
+[STOP OR I'LL SHOOT!]
+ANGLE ON COLE, gun in hand, sprinting along the concourse toward DR. PETERS as frightened TRAVELERS SCREAM and dive for cover.
+ມຸມໃສ່ໂກລ, ປືນໃນມື, ແລ່ນຕາມເດີ່ນທາງໄປຫາດຣ
+ເປຕຣ໌ສ໌ໃນຂະນະທີ່ນັກທ່ອງທ່ຽວທີ່ຢ້ານກົວຮ້ອງໄຫ້ແລະລອຍລົງເພື່ອປົກປ້ອງ.
+
+778
+00:54:03,400 --> 00:54:08,300
+[DR. PETERS]
+I think you're right. sir.  I think you've hit the nail on the head.
+ຂ້ອຍຄິດວ່າເຈົ້າຖືກຕ້ອງເດີ. ຂ້ອຍຄິດວ່າທ່ານໄດ້ຕີກະດູກໃສ່ຫົວແລ້ວ.
+
+779
+00:54:08,800 --> 00:54:11,250
+[ASTROPHYSICIST]
+Jones is my name.  I'm in insurance.
+ໂຈນສ໌ແມ່ນຊື່ຂອງຂ້ອຍ. ຂ້ອຍເຮັດວຽກໃນປະກັນໄພ.
+

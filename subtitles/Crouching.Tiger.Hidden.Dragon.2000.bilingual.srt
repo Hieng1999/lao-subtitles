@@ -1,0 +1,3322 @@
+1
+00:00:10,000 --> 00:00:12,000
+[WORKER]
+Master Li is here!
+ເຈົ້າລີມາແລ້ວ!
+
+2
+00:00:12,500 --> 00:00:14,500
+[AUNT WU]
+Shu Lien!
+ຊູ ເລນ!
+
+3
+00:00:15,000 --> 00:00:17,000
+[AUNT WU]
+Li Mu Bai is here!
+ລີ ມູ ບາຍຢູ່ບ່ອນນີ້!
+
+4
+00:00:17,500 --> 00:00:19,500
+[LI]
+How's everything?
+ທຸກຢ່າງເປັນແນວໃດ?
+
+5
+00:00:20,000 --> 00:00:22,000
+[AUNT WU]
+Fine.  Please come in.
+ດີ. ກະລຸນາເຂົ້າມາ.
+
+6
+00:00:22,500 --> 00:00:24,500
+[YU]
+Mu Bai...It's been too long.
+ມູ ບາຍ... ມັນດົນເກີນໄປແລ້ວ.
+
+7
+00:00:25,000 --> 00:00:27,000
+[LI]
+It has.  How's business?
+ມັນມີ. ທຸລະກິດເປັນແນວໃດ?
+
+8
+00:00:27,500 --> 00:00:29,500
+[YU]
+Good.  And how are you?
+ດີ. ແລະເຈົ້າເປັນແນວໃດ?
+
+9
+00:00:30,000 --> 00:00:32,000
+[LI]
+Fine.
+ດີແລ້ວ.
+
+10
+00:00:32,500 --> 00:00:37,750
+[YU]
+Monk Zheng said you were at Wudan Mountain.  He said you were practicing deep meditation.
+ພຣະສົງເຈງເວົ້າວ່າເຈົ້າຢູ່ພູວູດານ. ລາວເວົ້າວ່າເຈົ້າ
+ກໍາ ລັງຝຶກຊ້ອມການສະມາທິທີ່ເລິກເຊິ່ງ.
+
+11
+00:00:38,250 --> 00:00:40,250
+[LI]
+Yes.
+ແມ່ນແລ້ວ.
+
+12
+00:00:40,750 --> 00:00:46,750
+[YU]
+The mountain must be so peaceful... I envy you.  My work keeps me so busy, I hardly get any rest.
+ພູເຂົາຕ້ອງມີຄວາມສະຫງົບຫຼາຍ... ຂ້ອຍໂຊກຮ້າຍເຈົ້າ.
+ວຽກຂອງຂ້ອຍເຮັດໃຫ້ຂ້ອຍມີວຽກເຮັດງານທໍາຫຼາຍ, ຂ້ອຍເກືອບບໍ່ພັກຜ່ອນເລີຍ.
+
+13
+00:00:47,250 --> 00:00:49,250
+[LI]
+I left the training early.
+ຂ້ອຍອອກຈາກການຝຶກອົບຮົມກ່ອນ.
+
+14
+00:00:49,750 --> 00:00:52,550
+[YU]
+Why?  You're a Wudan fighter. Training is everything.
+ເປັນຫຍັງ? ເຈົ້າເປັນນັກຕໍ່ສູ້ວູດານ. ການຝຶກອົບຮົມແມ່ນທຸກຢ່າງ.
+
+15
+00:00:53,050 --> 00:00:59,050
+[LI]
+During my meditation training... I came to a place of deep silence... I was surrounded by light... Time and space disappeared.  I had come to a place my master had never told me about.
+ໃນລະຫວ່າງການຝຶກອົບຮົມການສະມາທິຂອງຂ້ອຍ... ຂ້ອຍມາບ່ອນທີ່ງຽບສະຫງົບຢ່າງເລິກເຊິ່ງ...
+ຂ້ອຍຖືກອ້ອມຮອບດ້ວຍແສງສະຫວ່າງ... ເວລາແລະພື້ນທີ່ຫາຍໄປ. ຂ້ອຍໄດ້ມາບ່ອນທີ່ທ່ານເຈົ້າຂອງຂ້ອຍບໍ່ເຄີຍບອກຂ້ອຍກ່ຽວກັບ.
+
+16
+00:00:59,550 --> 00:01:01,550
+[YU]
+You were enlightened?
+ເຈົ້າໄດ້ຮັບຄວາມສະຫວ່າງບໍ?
+
+17
+00:01:02,050 --> 00:01:08,050
+[LI]
+No.  I didn't feel the bliss of enlightenment.  Instead... I was surrounded by an endless sorrow.  I couldn't bear it.  I broke off my meditation.  I couldn't go on. There was something... pulling me back.
+ບໍ່. ຂ້ອຍບໍ່ຮູ້ສຶກຄວາມສຸກຂອງການແສງສະຫວ່າງ. ແທນທີ່ຈະ... ຂ້ອຍຖືກອ້ອມຮອບດ້ວຍຄວາມໂຊກເສົ້າທີ່ບໍ່ມີສິ້ນສຸດ.
+ຂ້ອຍບໍ່ສາມາດທົນມັນໄດ້. ຂ້ອຍຢຸດການສະມາທິຂອງຂ້ອຍ. ຂ້ອຍສາມາດສືບຕໍ່ໄດ້. ມີບາງສິ່ງບາງຢ່າງ... ດຶງຂ້ອຍກັບຄືນໄປບ່ອນ.
+
+18
+00:01:08,550 --> 00:01:10,550
+[YU]
+What was it?
+ມັນເປັນຫຍັງ?
+
+19
+00:01:11,050 --> 00:01:14,550
+[LI]
+Something I can't let go of.  You are leaving soon?
+ບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ສາມາດປ່ອຍໄປໄດ້. ເຈົ້າຈະອອກໄປໄວໆນີ້ບໍ?
+
+20
+00:01:15,050 --> 00:01:18,200
+[YU]
+We're preparing a convoy for a delivery to Peking.
+ພວກເຮົາ ກໍາ ລັງກະກຽມລົດບັນທຸກ ສໍາ ລັບການສົ່ງໄປປັກກິ່ງ.
+
+21
+00:01:18,700 --> 00:01:23,250
+[LI]
+Perhaps I could ask you to deliver something to Sir Te for me.
+ບາງທີຂ້ອຍສາມາດຂໍໃຫ້ເຈົ້າສົ່ງບາງສິ່ງບາງຢ່າງໃຫ້ເຈົ້າເທ ສໍາ ລັບຂ້ອຍ.
+
+22
+00:01:23,750 --> 00:01:27,250
+[YU]
+The Green Destiny Sword?  You're giving it to Sir Te?
+ເຈົ້າ ກໍາ ລັງໃຫ້ມັນໃຫ້ເຈົ້າເທບໍ?
+
+23
+00:01:27,750 --> 00:01:30,900
+[LI]
+I am.  He has always been our greatest protector.
+ຂ້ອຍເປັນ. ລາວເປັນຜູ້ປົກປ້ອງທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດຂອງພວກເຮົາຕະຫຼອດໄປ.
+
+24
+00:01:31,400 --> 00:01:36,650
+[YU]
+I don't understand.  How can you part with it?  It has always been with you.
+ຂ້ອຍບໍ່ເຂົ້າໃຈ. ເຈົ້າສາມາດແຍກມັນໄດ້ແນວໃດ? ມັນຢູ່ກັບເຈົ້າຕະຫຼອດໄປ.
+
+25
+00:01:37,150 --> 00:01:43,150
+[LI]
+Too many men have died at its edge. It only looks pure because blood washes so easily from its blade.
+ຜູ້ຊາຍຫຼາຍເກີນໄປໄດ້ຕາຍຢູ່ແຄມຂອງມັນ.
+ມັນພຽງແຕ່ເບິ່ງຄືວ່າບໍລິສຸດເພາະວ່າເລືອດລ້າງຈາກກະດານຂອງມັນງ່າຍດາຍຫຼາຍ.
+
+26
+00:01:43,650 --> 00:01:46,450
+[YU]
+You use it justly, you're worthy of it.
+ເຈົ້າໃຊ້ມັນຢ່າງຍຸຕິທໍາ, ເຈົ້າສົມຄວນມັນ.
+
+27
+00:01:46,950 --> 00:01:49,750
+[LI]
+It's time for me to leave it behind.
+ມັນເຖິງເວລາແລ້ວທີ່ຂ້ອຍຈະປ່ອຍມັນຢູ່ເບື້ອງຫຼັງ.
+
+28
+00:01:50,250 --> 00:01:52,350
+[YU]
+So what will you do now?
+ເຈົ້າຈະເຮັດແນວໃດດຽວນີ້?
+
+29
+00:01:52,850 --> 00:01:58,850
+[YU]
+Come with me to Peking.  You can give the sword to Sir Te yourself. It'll be just like old times.
+ມາກັບຂ້ອຍໄປປັກກິ່ງ. ເຈົ້າສາມາດໃຫ້ກະທູ້ໃຫ້ເຈົ້າເທເອງໄດ້
+. ມັນຈະເປັນຄືກັບສະໄຫມເກົ່າ.
+
+30
+00:01:59,350 --> 00:02:05,350
+[LI]
+First I must visit my master's grave.  It's been many years since Jade Fox murdered him.  I have yet to avenge his death.  And yet I'm thinking of quitting.  I must pray for his forgiveness.
+ກ່ອນອື່ນຂ້ອຍຕ້ອງໄປຢ້ຽມຢາມຝັງສົບຂອງເຈົ້າຂອງຂ້ອຍ. ມັນເປັນເວລາຫຼາຍປີນັບຕັ້ງແຕ່ເຈດ ຟອກສ໌ໄດ້ຄາດຕະກໍາລາວ.
+ຂ້ອຍຍັງບໍ່ທັນແກ້ແຄ້ນຄວາມຕາຍຂອງລາວ. ແລະເຖິງຢ່າງໃດກໍ່ຕາມຂ້ອຍ ກໍາ ລັງຄິດທີ່ຈະອອກຈາກ. ຂ້ອຍຕ້ອງອະທິຖານຂໍໂທດຂອງລາວ.
+
+31
+00:02:05,850 --> 00:02:10,400
+[YU]
+Join me once you have finished.  I can wait for you in Peking.
+ເຂົ້າຮ່ວມຂ້ອຍເມື່ອເຈົ້າສໍາເລັດແລ້ວ
+. ຂ້ອຍສາມາດລໍຖ້າເຈົ້າຢູ່ປັກກິ່ງໄດ້.
+
+32
+00:02:10,900 --> 00:02:12,900
+[LI]
+Perhaps.
+ບາງທີ.
+
+33
+00:02:13,400 --> 00:02:15,400
+[GUARDS]
+Ok.  Pass.
+ດີແລ້ວ. ຜ່ານໄປ.
+
+34
+00:02:15,900 --> 00:02:18,000
+[YU]
+Thanks.  Let's go into the city.
+ຂອບໃຈ. ໄປເມືອງ.
+
+35
+00:02:18,500 --> 00:02:20,950
+[GIAO]
+Everything got here safely.  I'm much obliged.
+ທຸກຢ່າງໄດ້ມາຮອດບ່ອນນີ້ຢ່າງປອດໄພ. ຂ້ອຍຂອບໃຈຫຼາຍ.
+
+36
+00:02:21,450 --> 00:02:23,450
+[YU]
+Just doing my job.
+ຂ້ອຍພຽງແຕ່ເຮັດວຽກຂອງຂ້ອຍເທົ່ານັ້ນ.
+
+37
+00:02:23,950 --> 00:02:29,900
+[GIAO]
+Sun Security has been the best since your father started it. You're a credit to his memory.
+ຄວາມປອດໄພແສງຕາເວັນແມ່ນທີ່ດີທີ່ສຸດນັບຕັ້ງແຕ່ພໍ່ຂອງທ່ານເລີ່ມຕົ້ນມັນ
+. ເຈົ້າເປັນຄວາມຍ້ອງຍໍຕໍ່ຄວາມຊົງຈໍາຂອງລາວ.
+
+38
+00:02:30,400 --> 00:02:32,400
+[YU]
+Thank you.
+ຂອບໃຈ
+
+39
+00:02:32,900 --> 00:02:34,900
+[GIAO]
+I mean it.
+ຂ້ອຍເວົ້າແທ້ໆ.
+
+40
+00:02:35,400 --> 00:02:41,400
+[SIR TE]
+This is Li's personal sword, a great hero's weapon!  He is the only one in the world worthy of carrying it.  It's too fine a gift. I cannot accept it.
+ນີ້ແມ່ນກະທູ້ສ່ວນຕົວຂອງລີ, ອາວຸດຂອງວິລະຊົນທີ່ຍິ່ງໃຫຍ່! ລາວເປັນຄົນດຽວໃນໂລກທີ່ສົມຄວນທີ່ຈະຖືມັນ
+. ມັນເປັນຂອງຂວັນທີ່ສວຍງາມເກີນໄປ. ຂ້ອຍບໍ່ສາມາດຍອມຮັບມັນໄດ້.
+
+41
+00:02:41,900 --> 00:02:47,900
+[YU]
+Sir Te!  It has brought him as much trouble as glory.  Help him to leave these troubles behind. Otherwise, he'll never be able to start anew.
+ທ້າວເທ! ມັນໄດ້ເຮັດໃຫ້ລາວມີຄວາມຫຍຸ້ງຍາກຫຼາຍເທົ່າກັບຄວາມສະຫງ່າສະຫວັນ.
+ຊ່ວຍລາວໃຫ້ປ່ອຍຄວາມຫຍຸ່ງຍາກເຫຼົ່ານີ້ຢູ່ເບື້ອງຫຼັງ. ຖ້າບໍ່ດັ່ງນັ້ນ, ລາວຈະບໍ່ສາມາດເລີ່ມຕົ້ນ ໃຫມ່ ໄດ້ເລີຍ.
+
+42
+00:02:48,400 --> 00:02:51,200
+[SIR TE]
+All right.  I'll act as the sword's custodian.
+ດີແລ້ວ. ຂ້ອຍຈະປະຕິບັດງານເປັນຜູ້ປົກຄອງກະທູ້.
+
+43
+00:02:51,700 --> 00:02:53,700
+[DE LU]
+Governor Yu has arrived.
+ເຈົ້າແຂວງຢູໄດ້ມາແລ້ວ.
+
+44
+00:02:54,200 --> 00:02:56,200
+[SIR TE]
+I must change.
+ຂ້ອຍຕ້ອງປ່ຽນ.
+
+45
+00:02:56,700 --> 00:03:01,950
+[YU]
+You've always been so good to Li Mu Bai and me.  Please accept our thanks.
+ເຈົ້າເປັນຄົນດີຫຼາຍຕໍ່ລີ ມູ ບາຍ ແລະຂ້ອຍຢູ່ສະເຫມີ
+. ກະລຸນາຍອມຮັບຄວາມຂອບໃຈຂອງພວກເຮົາ.
+
+46
+00:03:02,450 --> 00:03:08,450
+[SIR TE]
+Please do not be such a stranger. You'll stay the night as my guest. Now, Shu Lien... tell me something. And forgive me for prying.  Your father was a great friend to me, and I think of you as my own daughter.
+ກະລຸນາຢ່າເປັນຄົນແປກໃຈຫຼາຍ. ເຈົ້າຈະຢູ່ຄືນນີ້ເປັນແຂກຂອງຂ້ອຍ. ດຽວນີ້, ຊູ ລຽນ... ບອກຂ້ອຍບາງສິ່ງບາງຢ່າງ. ແລະຂໍໂທດຂ້ອຍ
+ສໍາ ລັບການສົນໃຈ. ພໍ່ຂອງທ່ານເປັນເພື່ອນທີ່ດີເລີດ ສໍາ ລັບຂ້ອຍ, ແລະຂ້ອຍຄິດວ່າເຈົ້າເປັນລູກສາວຂອງຂ້ອຍເອງ.
+
+47
+00:03:08,950 --> 00:03:11,050
+[YU]
+Please, Sir Te, what is it?
+ກະລຸນາ, ທ້າວເທ, ມັນແມ່ນຫຍັງ?
+
+48
+00:03:11,550 --> 00:03:17,550
+[SIR TE]
+Li Mu Bai giving up his sword and his warrior days... maybe he's trying to tell you something?
+ລີ ມູ ບາຍ ກໍາ ລັງປະຖິ້ມກະທູ້ຂອງລາວແລະມື້ນັກຮົບຂອງລາວ
+... ບາງທີລາວ ກໍາ ລັງພະຍາຍາມບອກເຈົ້າບາງສິ່ງບາງຢ່າງບໍ?
+
+49
+00:03:18,050 --> 00:03:20,050
+[YU]
+I don't know...
+ຂ້ອຍບໍ່ຮູ້...
+
+50
+00:03:20,550 --> 00:03:26,550
+[SIR TE]
+Don't be coy.  I've always known about your feelings for each other. All these years, it's a shame... neither of you is brave enough to admit the truth to the other. You're both wasting precious time.
+ຢ່າເປັນຄົນກຽດຊັງ. ຂ້ອຍຮູ້ກ່ຽວກັບຄວາມຮູ້ສຶກຂອງທ່ານຕໍ່ກັນແລະກັນຕະຫຼອດປີນີ້, ມັນເປັນຄວາມໂຊກຮ້າຍ...
+ບໍ່ມີໃຜໃນເຈົ້າມີຄວາມກ້າຫານພໍທີ່ຈະຍອມຮັບຄວາມຈິງຕໍ່ຄົນອື່ນ. ເຈົ້າທັງສອງ ກໍາ ລັງເສຍເວລາທີ່ມີຄຸນຄ່າ.
+
+51
+00:03:27,050 --> 00:03:30,900
+[YU]
+I beg your pardon.  Li Mu Bai and I aren't cowards.
+ຂ້ອຍຂໍໂທດເຈົ້າ. ຂ້ອຍແລະລີ ມູ ບາຍບໍ່ແມ່ນຄົນກ້າຫານ.
+
+52
+00:03:31,400 --> 00:03:37,400
+[SIR TE]
+When it comes to emotions, even great heroes can be idiots.  Tell me if Li Mu Bai is not more open the next time you see him.  I'll give him an earful!
+ເມື່ອເວົ້າເຖິງຄວາມຮູ້ສຶກ, ເຖິງແມ່ນວ່າວິລະຊົນທີ່ຍິ່ງໃຫຍ່ກໍ່ສາມາດເປັນຄົນໂງ່ໄດ້.
+ບອກຂ້ອຍວ່າ Li Mu Bai ບໍ່ເປີດກວ້າງຫຼາຍຂຶ້ນໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານເຫັນລາວ. ຂ້ອຍຈະໃຫ້ລາວຫູເຕັມ!
+
+53
+00:03:37,900 --> 00:03:41,050
+[DE LU]
+Sir Te said to leave the sword in here.
+ທ້າວເທບອກໃຫ້ປ່ອຍກະທູ້ໄວ້ບ່ອນນີ້.
+
+54
+00:03:41,550 --> 00:03:43,550
+[DE LU]
+Who are you?
+ເຈົ້າເປັນໃຜ?
+
+55
+00:03:44,050 --> 00:03:47,200
+[JEN]
+I'm your guest today.  I am Governor Yu's daughter.
+ຂ້ອຍເປັນແຂກຂອງທ່ານມື້ນີ້. ຂ້ອຍເປັນລູກສາວຂອງຜູ້ປົກຄອງຢູ.
+
+56
+00:03:47,700 --> 00:03:50,850
+[DE LU]
+This is Sir Te's study.  You are here to...
+ນີ້ແມ່ນຫ້ອງການຂອງທ່ານເທ. ເຈົ້າຢູ່ບ່ອນນີ້ເພື່ອ...
+
+57
+00:03:51,350 --> 00:03:53,800
+[JEN]
+I was looking for a quiet corner.
+ຂ້ອຍ ກໍາ ລັງຊອກຫາແຄມທີ່ງຽບສະຫງົບ.
+
+58
+00:03:54,300 --> 00:03:58,850
+[DE LU]
+I am Sir Te's head servant.  And this is another of our guests.
+ຂ້ອຍເປັນຄົນຮັບໃຊ້ຫົວຫນ້າຂອງເຈົ້າເທ.
+ແລະນີ້ແມ່ນແຂກອີກຄົນຫນຶ່ງຂອງພວກເຮົາ.
+
+59
+00:03:59,350 --> 00:04:02,500
+[JEN]
+It's heavy for such a thin piece of metal!
+ມັນຫນັກຫຼາຍ ສໍາ ລັບໂລຫະທີ່ອ່ອນແອຫຼາຍ!
+
+60
+00:04:03,000 --> 00:04:09,000
+[YU]
+The handle is heavy.  And the blade is no ordinary metal.  Still, the sword is the lightest of weapons. You're just not used to handling it.
+ກະຕູ້ແມ່ນຫນັກ. ແລະກະດານບໍ່ແມ່ນໂລຫະ ທໍາ ມະດາ. ເຖິງຢ່າງໃດກໍ່ຕາມ
+, ກະທູ້ແມ່ນອາວຸດທີ່ເບົາທີ່ສຸດ. ເຈົ້າພຽງແຕ່ບໍ່ເຄີຍຮັບມືກັບມັນ.
+
+61
+00:04:09,500 --> 00:04:15,500
+[JEN]
+But I have had much practice.  As a child in the West, a platoon lived with us.  They'd let me play with their weapons.  The scabbard is so beautiful.
+ຄຸເຂົ່າລົງ
+
+62
+00:04:16,000 --> 00:04:22,000
+[YU]
+Beautiful but dangerous.  Once you see it tainted with blood, its beauty is hard to admire.  It's 400 years old.
+ງາມແຕ່ອັນຕະລາຍ. ເມື່ອເຈົ້າເຫັນມັນຖືກເປື້ອນດ້ວຍເລືອດ
+, ຄວາມງາມຂອງມັນຍາກທີ່ຈະຍ້ອງຍໍ. ມັນອາຍຸ 400 ປີ.
+
+63
+00:04:22,500 --> 00:04:24,600
+[JEN]
+Exquisite!  You said it belongs to...
+ດີເລີດ! ເຈົ້າບອກວ່າມັນຂຶ້ນກັບ...
+
+64
+00:04:25,100 --> 00:04:30,000
+[YU]
+My friend Li Mu Bai.  He's given it to Sir Te as a gift.
+ເພື່ອນຂອງຂ້ອຍລີ ມູ ບາຍ. ລາວໄດ້ໃຫ້ມັນໃຫ້ເຈົ້າເທເປັນຂອງຂວັນ.
+
+65
+00:04:30,500 --> 00:04:35,750
+[JEN]
+Li Mu Bai!  The famous warrior? Why would he give his sword to Sir Te?
+ລີ ມູ ບາຍ! ນັກຮົບທີ່ມີຊື່ສຽງ?
+ເປັນຫຍັງລາວຈຶ່ງໃຫ້ກະທູ້ຂອງລາວໃຫ້ເຈົ້າເທ?
+
+66
+00:04:36,250 --> 00:04:38,250
+[YU]
+You're too young to understand.
+ເຈົ້າຍັງຫນຸ່ມເກີນໄປທີ່ຈະເຂົ້າໃຈ.
+
+67
+00:04:38,750 --> 00:04:40,750
+[JEN]
+You're a sword fighter too?
+ເຈົ້າເປັນນັກຕໍ່ສູ້ກະທູ້ເຊັ່ນກັນບໍ?
+
+68
+00:04:41,250 --> 00:04:46,500
+[YU]
+Yes, I am.  But I prefer the machete.  Certain moves, however, call for a sword.
+ແມ່ນແລ້ວ, ຂ້ອຍເປັນ. ແຕ່ຂ້ອຍມັກ machete ໄດ້.
+ການເຄື່ອນໄຫວບາງຢ່າງ, ເຖິງຢ່າງໃດກໍ່ຕາມ, ຮຽກຮ້ອງໃຫ້ມີດາວ.
+
+69
+00:04:47,000 --> 00:04:49,000
+[JEN]
+Really?
+ແທ້ບໍ?
+
+70
+00:04:49,500 --> 00:04:53,700
+[JEN]
+It must be exciting to be a fighter, to be totally free!
+ມັນຕ້ອງມີຄວາມຕື່ນເຕັ້ນທີ່ຈະເປັນນັກຕໍ່ສູ້
+, ເພື່ອເປັນອິດສະຫຼະຢ່າງສົມບູນ!
+
+71
+00:04:54,200 --> 00:04:59,100
+[YU]
+Fighters have rules too: friendship, trust, integrity... Without rules, we wouldn't survive for long.
+ພວກນັກຕໍ່ສູ້ຍັງມີກົດລະບຽບເຊັ່ນກັນ: ມິດຕະພາບ, ຄວາມໄວ້ວາງໃຈ,
+ຄວາມຊື່ສັດ... ໂດຍບໍ່ມີ ກົດລະບຽບ, ພວກເຮົາຈະບໍ່ຢູ່ລອດດົນນານ.
+
+72
+00:04:59,600 --> 00:05:05,550
+[JEN]
+I've read all about people like you. Roaming wild, beating up anyone who gets in your way!
+ຂ້ອຍໄດ້ອ່ານທຸກຢ່າງກ່ຽວກັບຄົນຄືກັບເຈົ້າ.
+ການຍ່າງປ່າໄມ້, ການຕີໃຜທີ່ເຂົ້າໄປໃນທາງຂອງທ່ານ!
+
+73
+00:05:06,050 --> 00:05:10,250
+[YU]
+Writers wouldn't sell many books if they told how it really is.
+ນັກຂຽນຈະບໍ່ຂາຍປື້ມຫຼາຍຖ້າພວກເຂົາບອກວ່າມັນເປັນແນວໃດແທ້ໆ.
+
+74
+00:05:10,750 --> 00:05:13,900
+[JEN]
+But you're just like the characters in the stories.
+ແຕ່ເຈົ້າຄ້າຍຄືກັບຕົວລະຄອນໃນເລື່ອງ.
+
+75
+00:05:14,400 --> 00:05:20,400
+[YU]
+Sure.  No place to bathe for days, sleeping in flea-infested beds... They tell you all about that in those books?
+ແນ່ນອນ. ບໍ່ມີບ່ອນລ້າງເປັນເວລາຫຼາຍມື້, ນອນໃນຕຽງທີ່ຕິດເຊື້ອ fleas
+... ພວກເຂົາບອກເຈົ້າກ່ຽວກັບສິ່ງນັ້ນທັງຫມົດໃນປື້ມເຫຼົ່ານັ້ນບໍ?
+
+76
+00:05:20,900 --> 00:05:26,850
+[JEN]
+You know what I mean.  I'm getting married soon, but I haven't lived the life I want.
+ເຈົ້າຮູ້ວ່າຂ້ອຍຫມາຍຄວາມວ່າແນວໃດ. ຂ້ອຍຈະແຕ່ງງານໃນໄວໆນີ້
+, ແຕ່ຂ້ອຍບໍ່ໄດ້ດໍາລົງຊີວິດຕາມທີ່ຂ້ອຍຕ້ອງການ.
+
+77
+00:05:27,350 --> 00:05:32,600
+[YU]
+So I heard.  Congratulations.  It's the most important step in a woman's life, isn't it?
+ສະນັ້ນຂ້ອຍໄດ້ຍິນແລ້ວ. ຂໍສະແດງຄວາມຍິນດີ.
+ມັນແມ່ນບາດກ້າວທີ່ສໍາຄັນທີ່ສຸດໃນຊີວິດຂອງແມ່ຍິງ, ແມ່ນບໍ?
+
+78
+00:05:33,100 --> 00:05:35,100
+[JEN]
+You're not married, are you?
+ເຈົ້າບໍ່ໄດ້ແຕ່ງງານ, ແມ່ນບໍ?
+
+79
+00:05:35,600 --> 00:05:37,600
+[YU]
+What do you think?
+ເຈົ້າຄິດແນວໃດ?
+
+80
+00:05:38,100 --> 00:05:41,250
+[JEN]
+No!  You couldn't roam around freely if you were.
+ບໍ່! ເຈົ້າບໍ່ສາມາດຍ່າງຢູ່ທົ່ວໄປຢ່າງເສລີຖ້າເຈົ້າເປັນ.
+
+81
+00:05:41,750 --> 00:05:43,750
+[YU]
+You're probably right.
+ເຈົ້າອາດຈະເວົ້າຖືກຕ້ອງ.
+
+82
+00:05:44,250 --> 00:05:46,250
+[SIR TE]
+Go ahead, Governor Yu.
+ໄປກ່ອນ, ຜູ້ປົກຄອງຢູ.
+
+83
+00:05:46,750 --> 00:05:52,750
+[SIR TE]
+Two feet 9 inches long.  1 inch wide.  The handle is 1 inch deep, 2.6 inches wide.  Seven-tenths of an inch thick.  With seven rubies missing from the hilt.  You can tell the design dates back to before the Chin era.  Engraved with a technique lost by the time of the Han Dynasty.
+ຄວາມຍາວສອງຕີນ 9 ນິ້ວ. ຄວາມກວ້າງ 1 ນິ້ວ, ຄວາມເລິກຂອງກະດານແມ່ນ 1ນິ້ວ, ຂະຫນາດກວ້າງ 2.6 ນິ້ວ; ຄວາມຫນາຂອງເຈັດສິບຂອງນິ້ວ.
+ມີຫີນຣູເບຍເຈັດທີ່ຂາດຈາກການຈັບ. ເຈົ້າສາມາດບອກໄດ້ວ່າການອອກແບບແມ່ນກັບຄືນໄປບ່ອນກ່ອນສະໄຫມຈີນ. ຖືກແຕ້ມດ້ວຍເຕັກນິກທີ່ສູນເສຍໂດຍເວລາຂອງລາຊະອານາຈັກຮານ.
+
+84
+00:05:53,250 --> 00:05:55,350
+[GOVERNOR YU]
+Your knowledge is remarkable, Sir Te.
+ຄວາມຮູ້ຂອງທ່ານແມ່ນຍິ່ງໃຫຍ່, ທ້າວເທ.
+
+85
+00:05:55,850 --> 00:06:00,400
+[SIR TE]
+A sword by itself rules nothing. It comes alive only through skillful manipulation.
+ກະທູ້ເອງບໍ່ໄດ້ປົກຄອງຫຍັງເລີຍ.
+ມັນມີຊີວິດພຽງແຕ່ຜ່ານການຄວບຄຸມທີ່ມີຄວາມສາມາດເທົ່ານັ້ນ.
+
+86
+00:06:00,900 --> 00:06:03,000
+[GOVERNOR YU]
+I see your point.  Please continue.
+ຂ້ອຍເຫັນຈຸດຫມາຍຂອງທ່ານ. ກະລຸນາສືບຕໍ່.
+
+87
+00:06:03,500 --> 00:06:09,500
+[SIR TE]
+The Imperial Court isn't the problem.  With royalty and officials everywhere, the Royal Guard keeps security tight.  But Peking is not like the West.  Here, you'll find all sorts of characters.  Proceed with caution in your quest for law and order.  Don't depend only on the court.  Contacts in the Giang Hu underworld can ensure your position.  Be strong, yet supple. This is the way to rule.
+ສານອານາຈັກບໍ່ແມ່ນບັນຫາ. ດ້ວຍເຈົ້າຊີວິດແລະເຈົ້າຫນ້າທີ່ຢູ່ທຸກບ່ອນ, ເຈົ້າຫນ້າທີ່ປ້ອງກັນຄວາມປອດໄພຂອງລາຊານຮັກສາຄວາມປອດໄພຢ່າງເຂັ້ມງວດ. ແຕ່ປັກກິ່ງບໍ່ແມ່ນຄືກັບຕາເວັນຕົກ. ຢູ່ບ່ອນນີ້, ເຈົ້າຈະພົບຕົວລະຄອນທຸກຊະນິດ.
+ດໍາ ເນີນການດ້ວຍຄວາມລະມັດລະວັງໃນການຊອກຫາກົດ ຫມາຍ ແລະ ຄວາມເປັນລະບຽບຮຽບຮ້ອຍຂອງທ່ານ. ຢ່າອີງໃສ່ພຽງແຕ່ສານເທົ່ານັ້ນ. ການຕິດຕໍ່ໃນໂລກໃຕ້ດິນຈຽນຮູສາມາດຮັບປະກັນ ຕໍາ ແຫນ່ງ ຂອງທ່ານໄດ້. ມີຄວາມແຂງແຮງ, ເຖິງຢ່າງໃດກໍ່ຕາມ
+
+88
+00:06:10,000 --> 00:06:12,000
+[MAID]
+Governess...
+ເຈົ້າຫນ້າທີ່...
+
+89
+00:06:12,500 --> 00:06:14,500
+[GOVERNESS]
+Let me do it.
+ຂໍໃຫ້ຂ້ອຍເຮັດມັນ.
+
+90
+00:06:15,000 --> 00:06:17,000
+[JEN]
+Please sit.
+ກະລຸນານັ່ງລົງ.
+
+91
+00:06:17,500 --> 00:06:21,700
+[GOVERNESS]
+I've made you silk pajamas.  Do you want to change into them?
+ຂ້ອຍໄດ້ເຮັດຜ້າປິຈາມາມາສິບ ສໍາ
+ລັບເຈົ້າແລ້ວ. ເຈົ້າຢາກປ່ຽນເປັນພວກມັນບໍ?
+
+92
+00:06:22,200 --> 00:06:24,200
+[JEN]
+Put them down.
+ເອົາພວກມັນລົງ.
+
+93
+00:06:24,700 --> 00:06:27,150
+[GOVERNESS]
+I heard you met Shu Lien today.
+ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າພົບກັບຊູ ລຽນມື້ນີ້.
+
+94
+00:06:27,650 --> 00:06:29,650
+[JEN]
+Do you know her?
+ເຈົ້າຮູ້ຈັກນາງບໍ?
+
+95
+00:06:30,150 --> 00:06:35,050
+[GOVERNESS]
+She's one of those.  Your mother would not want you consorting with her kind.
+ນາງເປັນຄົນ ຫນຶ່ງ ໃນນັ້ນ.
+ແມ່ຂອງເຈົ້າຈະບໍ່ຢາກໃຫ້ເຈົ້າຮ່ວມກັບຄົນຂອງນາງ.
+
+96
+00:06:35,550 --> 00:06:37,650
+[JEN]
+I'll socialize with whomever I please.
+ຂ້ອຍຈະພົວພັນກັບໃຜທີ່ຂ້ອຍມັກ.
+
+97
+00:06:38,150 --> 00:06:40,600
+[GOVERNESS]
+Don't invite danger into your father's house.
+ຢ່າເຊີນອັນຕະລາຍເຂົ້າໄປໃນເຮືອນຂອງພໍ່ເຈົ້າ.
+
+98
+00:06:41,100 --> 00:06:43,100
+[JEN]
+I'm tired now.
+ຂ້ອຍເມື່ອຍແລ້ວ.
+
+99
+00:06:43,600 --> 00:06:49,600
+[GOVERNESS]
+Go to bed then.  Miss has grown up, and is getting married soon.  God knows what the future will bring.
+ຫຼັງຈາກນັ້ນໄປນອນ. ນາງໄດ້ເຕີບໃຫຍ່ແລ້ວ, ແລະຈະແຕ່ງງານໃນໄວໆນີ້
+. ພຣະເຈົ້າຮູ້ວ່າອະນາຄົດຈະ ນໍາ ມາແນວໃດ.
+
+100
+00:06:50,100 --> 00:06:53,250
+[JEN]
+It will be just the same.  Enough! I'm tired.
+ມັນຈະເປັນຄືກັນ. ພຽງພໍ! ຂ້ອຍເມື່ອຍແລ້ວ.
+
+101
+00:06:53,750 --> 00:06:56,900
+[GOVERNESS]
+Autumn is coming.  I'll shut the windows for you.
+ລະດູໃບໄມ້ລົ່ນ ກໍາ ລັງມາຮອດ. ຂ້ອຍຈະປິດປ່ອງຢ້ຽມ ສໍາ ລັບເຈົ້າ.
+
+102
+00:06:57,400 --> 00:06:59,400
+[MASTER BO]
+Chilly, eh?
+ເຢັນ, ແມ່ນບໍ?
+
+103
+00:06:59,900 --> 00:07:05,500
+[BO]
+Someone help!  Stop him!  He's on the roof!  The sword's been stolen! Stop thief!  Stop him!
+ບາງຄົນຊ່ວຍ! ຢຸດລາວ! ລາວຢູ່ເທິງເຮືອນຫລັງ
+! ກະທູ້ຖືກລັກ! ຍຸດຄົນລັກ! ຈັບລາວ!
+
+104
+00:07:06,000 --> 00:07:08,000
+[TSAI]
+It's Jade Fox!
+ມັນເປັນເຈດ ຟອກສ໌!
+
+105
+00:07:08,500 --> 00:07:10,500
+[MAY]
+We must avenge mother!
+ພວກເຮົາຕ້ອງແກ້ແຄ້ນແມ່!
+
+106
+00:07:11,000 --> 00:07:13,000
+[BO]
+Do something!  He's getting away!
+ເຮັດບາງສິ່ງບາງຢ່າງ! ລາວ ກໍາ ລັງຫນີໄປ!
+
+107
+00:07:13,500 --> 00:07:16,300
+[YU]
+Return the sword, and I'll let you go.
+ກັບຄືນກະທູ້, ແລະຂ້ອຍຈະປ່ອຍເຈົ້າໄປ.
+
+108
+00:07:16,800 --> 00:07:18,800
+[YU]
+You've been trained at Wudan?
+ເຈົ້າໄດ້ຮັບການຝຶກອົບຮົມຢູ່ວູດານບໍ?
+
+109
+00:07:19,300 --> 00:07:22,450
+[TSAI]
+You're mistaken.  We're just street performers.  We were rehearsing.
+ເຈົ້າຜິດພາດ. ພວກເຮົາພຽງແຕ່ເປັນນັກສະແດງຖະຫນົນຫົນທາງ
+. ພວກເຮົາ ກໍາ ລັງທົດລອງ.
+
+110
+00:07:22,950 --> 00:07:24,950
+[MAY]
+Father!
+ພໍ່!
+
+111
+00:07:25,450 --> 00:07:28,600
+[BO]
+You were rehearsing?  Who are you trying to fool?
+ເຈົ້າ ກໍາ ລັງທົດລອງບໍ? ເຈົ້າພະຍາຍາມຫຼອກລວງໃຜ?
+
+112
+00:07:29,100 --> 00:07:31,100
+[BO]
+Where did that thief go?
+ຄົນລັກນັ້ນໄປໃສ?
+
+113
+00:07:31,600 --> 00:07:33,600
+[BO]
+Governor Yu's house!
+ເຮືອນຂອງຜູ້ປົກຄອງຢູ!
+
+114
+00:07:34,100 --> 00:07:36,550
+[YU]
+Get down here!  Give back the sword!
+ລົງມາບ່ອນນີ້! ໃຫ້ກະທູ້ຄືນ!
+
+115
+00:07:37,050 --> 00:07:39,050
+[DE LU]
+Sir Te awaits you.
+ທ້າວເທ ກໍາ ລັງລໍຖ້າທ່ານ.
+
+116
+00:07:39,550 --> 00:07:42,700
+[BO]
+I'm sure the thief is in the Yu household.
+ຂ້ອຍແນ່ໃຈວ່າຄົນລັກແມ່ນຢູ່ໃນຄອບຄົວຢູ.
+
+117
+00:07:43,200 --> 00:07:45,200
+[SIR TE]
+How dare you imply?
+ເຈົ້າກ້າຊີ້ໃຫ້ເຫັນແນວໃດ?
+
+118
+00:07:45,700 --> 00:07:47,700
+[BO]
+But I say --
+ແຕ່ຂ້ອຍເວົ້າວ່າ...
+
+119
+00:07:48,200 --> 00:07:50,200
+[SIR TE]
+-- Enough.
+- ພອແລ້ວ
+
+120
+00:07:50,700 --> 00:07:53,150
+[YU]
+Has Governor Yu ever seen the sword?
+ເຈົ້າແຂວງຢູເຄີຍເຫັນກະທູ້ບໍ?
+
+121
+00:07:53,650 --> 00:07:56,450
+[SIR TE]
+Yes, though I doubt he's involved in this.
+ແມ່ນແລ້ວ, ເຖິງແມ່ນວ່າຂ້ອຍສົງໄສວ່າລາວກ່ຽວຂ້ອງກັບເລື່ອງນີ້.
+
+122
+00:07:56,950 --> 00:07:59,750
+[YU]
+But the sword could be in his compound.
+ແຕ່ກະທູ້ອາດຈະຢູ່ໃນສະໂມສອນຂອງລາວ.
+
+123
+00:08:00,250 --> 00:08:04,800
+[SIR TE]
+Then someone's trying to set him up. We should inform Li Mu Bai.
+ຫຼັງຈາກນັ້ນບາງຄົນ ກໍາ ລັງພະຍາຍາມວາງແຜນລາວ
+. ພວກເຮົາຄວນແຈ້ງໃຫ້ລີ ມູ ບາຍຮູ້.
+
+124
+00:08:05,300 --> 00:08:07,300
+[MADAM YU]
+What is it?
+ມັນເປັນຫຍັງ?
+
+125
+00:08:07,800 --> 00:08:09,900
+[MAID]
+Madam Yu, someone's put up posters.
+ທ່ານນາງຢູ, ມີຄົນວາງປ້າຍ.
+
+126
+00:08:10,400 --> 00:08:12,400
+[MADAM YU]
+Let me see.
+ຂໍໃຫ້ຂ້ອຍເບິ່ງ.
+
+127
+00:08:12,900 --> 00:08:16,400
+[GOVERNESS]
+Someone is after Jade Fox. Preposterous, looking for her here!
+ມີຄົນ ກໍາ ລັງຕິດຕາມເຈດ ຟອກສ໌. ໂຊກຮ້າຍ, ຊອກຫານາງຢູ່ນີ້!
+
+128
+00:08:16,900 --> 00:08:18,900
+[BO]
+Where are they?
+ພວກເຂົາຢູ່ໃສ?
+
+129
+00:08:19,400 --> 00:08:22,900
+[HOMELESS MAN]
+I don't know.  I haven't seen them in two days.
+ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍບໍ່ໄດ້ເຫັນພວກເຂົາເປັນເວລາສອງມື້ແລ້ວ.
+
+130
+00:08:23,400 --> 00:08:26,900
+[MAID]
+There is a Miss Shu Lien here to see you.
+ມີນາງ Shu Lien ຢູ່ບ່ອນນີ້ເພື່ອເຫັນເຈົ້າ.
+
+131
+00:08:27,400 --> 00:08:29,400
+[GOVERNESS]
+Miss is busy right now.
+ນາງມີວຽກເຮັດຢູ່ດຽວນີ້.
+
+132
+00:08:29,900 --> 00:08:31,900
+[MAID]
+I'll tell her.
+ຂ້ອຍຈະບອກນາງ.
+
+133
+00:08:32,400 --> 00:08:34,400
+[JEN]
+Show her in.
+ນໍານາງເຂົ້າມາ.
+
+134
+00:08:34,900 --> 00:08:36,900
+[GOVERNESS]
+This spells trouble.
+ນີ້ແມ່ນຫມາຍຄວາມວ່າຄວາມຫຍຸ້ງຍາກ.
+
+135
+00:08:37,400 --> 00:08:39,400
+[JEN]
+I have a guest.
+ຂ້ອຍມີແຂກ.
+
+136
+00:08:39,900 --> 00:08:41,900
+[MAID]
+This way please.
+ທາງນີ້ຂໍຮ້ອງ.
+
+137
+00:08:42,400 --> 00:08:44,400
+[JEN]
+I've missed you.
+ຂ້ອຍຄິດຮອດເຈົ້າຫຼາຍ.
+
+138
+00:08:44,900 --> 00:08:46,900
+[YU]
+How so?
+ເປັນແນວໃດ?
+
+139
+00:08:47,400 --> 00:08:49,400
+[JEN]
+I'm bored.
+ຂ້ອຍເມື່ອຍແລ້ວ.
+
+140
+00:08:49,900 --> 00:08:51,900
+[YU]
+You're doing calligraphy?
+ເຈົ້າ ກໍາ ລັງເຮັດກາລີແກຣຟີບໍ?
+
+141
+00:08:52,400 --> 00:08:54,850
+[JEN]
+I'll write your name.  Just for fun.
+ຂ້ອຍຈະຂຽນຊື່ເຈົ້າ. ພຽງແຕ່ເພື່ອມ່ວນຊື່ນ.
+
+142
+00:08:55,350 --> 00:08:58,150
+[YU]
+I never realized my name looks like "sword."
+ຂ້ອຍບໍ່ເຄີຍຮູ້ວ່າຊື່ຂອງຂ້ອຍເບິ່ງຄືວ່າ"ກະທູ້".
+
+143
+00:08:58,650 --> 00:09:01,800
+[YU]
+You write gracefully.  Calligraphy is so similar to fencing.
+ເຈົ້າຂຽນຢ່າງສວຍງາມ. ກາລີກາຟີຄ້າຍຄືກັບການແຊກແຊງຫຼາຍ.
+
+144
+00:09:02,300 --> 00:09:04,400
+[JEN]
+Maybe it is.  I wouldn't know.
+ບາງທີມັນເປັນ. ຂ້ອຍຈະບໍ່ຮູ້.
+
+145
+00:09:04,900 --> 00:09:06,900
+[JEN]
+Please.
+ກະລຸນາ.
+
+146
+00:09:07,400 --> 00:09:13,400
+[YU]
+Thank you for seeing me.  I hear your wedding day is near.  You must be overwhelmed by the preparations.
+ຂອບໃຈທີ່ເຫັນຂ້ອຍ. ຂ້ອຍໄດ້ຍິນວ່າມື້ແຕ່ງງານຂອງທ່ານໃກ້ຈະມາຮອດແລ້ວ
+. ເຈົ້າຕ້ອງຖືກກັ່ນຕອງໂດຍການກະກຽມ.
+
+147
+00:09:13,900 --> 00:09:19,900
+[JEN]
+I'm hardly doing a thing.  The less I think of it the better.  My parents are arranging everything. The Gous are a very powerful family. My marrying one will be good for my father's career.
+ຂ້ອຍເກືອບບໍ່ໄດ້ເຮັດຫຍັງເລີຍ. ຂ້ອຍຄິດ ຫນ້ອຍ ກວ່າມັນດີກວ່າເກົ່າ. ພໍ່ແມ່ຂອງຂ້ອຍ ກໍາ ລັງຈັດການທຸກຢ່າງ
+. ຄອບຄົວໂກສ໌ແມ່ນຄອບຄົວທີ່ມີພະລັງຫຼາຍ. ການແຕ່ງງານຂອງຂ້ອຍຈະດີຕໍ່ອາຊີບຂອງພໍ່ຂອງຂ້ອຍ.
+
+148
+00:09:20,400 --> 00:09:23,900
+[YU]
+You are fornuate to marry into such a noble family.
+ເຈົ້າມີຄວາມພ້ອມທີ່ຈະແຕ່ງງານກັບຄອບຄົວທີ່ຍິ່ງໃຫຍ່ເຊັ່ນນັ້ນ.
+
+149
+00:09:24,400 --> 00:09:30,400
+[JEN]
+Am I?  I wish I were like the heroes in the books I read.  Like you and Li Mu Bai.  I guess I'm happy to be marrying.  But to be free to live my own life, to choose whom I love... That is true happiness.
+ຂ້ອຍເປັນບໍ? ຂ້ອຍຢາກເປັນຄືກັບວິລະຊົນໃນປື້ມທີ່ຂ້ອຍອ່ານ. ຄືກັບເຈົ້າແລະ Li Mu Bai. ຂ້ອຍຄິດວ່າຂ້ອຍມີຄວາມສຸກທີ່ຈະແຕ່ງງານ
+. ແຕ່ທີ່ຈະເປັນອິດສະຫຼະທີ່ຈະດໍາລົງຊີວິດຂອງຂ້ອຍເອງ, ເລືອກຜູ້ທີ່ຂ້ອຍຮັກ... ນັ້ນແມ່ນຄວາມສຸກທີ່ແທ້ຈິງ.
+
+150
+00:09:30,900 --> 00:09:34,400
+[YU]
+Do you think so?  Let me tell you a story.
+ເຈົ້າຄິດດັ່ງນັ້ນບໍ? ຂໍໃຫ້ຂ້ອຍບອກເຈົ້າເລື່ອງຫນຶ່ງ.
+
+151
+00:09:34,900 --> 00:09:37,000
+[JEN]
+About you and Li Mu Bai?
+ກ່ຽວກັບເຈົ້າແລະລີ ມູ ບາຍບໍ?
+
+152
+00:09:37,500 --> 00:09:41,350
+[YU]
+Yes.  Did you know I was once engaged to be married?
+ແມ່ນແລ້ວ. ເຈົ້າຮູ້ບໍວ່າຂ້ອຍເຄີຍແຕ່ງງານແລ້ວບໍ?
+
+153
+00:09:41,850 --> 00:09:43,850
+[JEN]
+No, really?
+ບໍ່, ແທ້ບໍ?
+
+154
+00:09:44,350 --> 00:09:50,350
+[YU]
+His name was Meng Si Zhao.  He was a brother to Li Mu Bai by oath. One day, while in battle, he was killed by the sword of Li Mu Bai's enemy.  After, Li Mu Bai and I went through a lot together.  Our feelings for each other grew stronger.  But how could we dishonor Meng's memory?  So the freedom you talk about, I too desire it.  But I have never tasted it.
+ຊື່ຂອງລາວແມ່ນແມນຊີ ຈາໂກ້. ລາວເປັນອ້າຍຂອງລີ ມູ ບາຍໂດຍຄໍາສາບານໂຕ. ມື້ຫນຶ່ງ, ໃນຂະນະທີ່ຢູ່ໃນການຕໍ່ສູ້, ລາວຖືກຂ້າຕາຍໂດຍກະທູ້ຂອງສັດຕູຂອງລີມູ ບາ. ຫຼັງຈາກນັ້ນ, ລີມຸ ບາແລະຂ້ອຍໄດ້ຜ່ານຫຼາຍຢ່າງຮ່ວມກັນ
+. ຄວາມຮູ້ສຶກຂອງພວກເຮົາຕໍ່ກັນແລະກັນໄດ້ເຕີບໃຫຍ່ຂຶ້ນຢ່າງແຂງແຮງ. ແຕ່ພວກເຮົາສາມາດເຮັດໃຫ້ຄວາມຊົງຈໍາຂອງແມງບໍ່ເປັນຫຍັງ? ສະນັ້ນຄວາມເສລີພາບທີ່ທ່ານເວົ້າກ່ຽວກັບ, ຂ້ອຍກໍ່ຢາກມັນ. ແຕ່ຂ້ອຍບໍ່ເຄີຍລົດຊາດ
+
+155
+00:09:50,850 --> 00:09:55,400
+[JEN]
+Too bad for Meng, but it's not your fault, or Li Mu Bai's.
+ໂຊກຮ້າຍຫຼາຍສໍາລັບແມນ,
+ແຕ່ມັນບໍ່ແມ່ນຄວາມຜິດຂອງເຈົ້າ, ຫຼື Li Mu Bai ຂອງ.
+
+156
+00:09:55,900 --> 00:10:01,500
+[YU]
+I am not an aristocrat, as you are... but I must still respect a woman's duties.
+ຂ້ອຍບໍ່ແມ່ນຄົນຮຸ່ງເຮືອງ, ເຊັ່ນເຈົ້າ...
+ແຕ່ຂ້ອຍຍັງຕ້ອງເຄົາລົບຫນ້າທີ່ຂອງແມ່ຍິງ.
+
+157
+00:10:02,000 --> 00:10:05,500
+[JEN]
+Don't distance us.  From now on, let's be like sisters.
+ຢ່າຫ່າງຈາກພວກເຮົາ. ຈາກປັດຈຸບັນນີ້, ພວກເຮົາຈະເປັນຄືກັບເອື້ອຍນ້ອງ.
+
+158
+00:10:06,000 --> 00:10:10,200
+[YU]
+Then as a sister, let me wish you happiness in your marriage.
+ຫຼັງຈາກນັ້ນເປັນເອື້ອຍ,
+ຂໍອວຍພອນໃຫ້ເຈົ້າມີຄວາມສຸກໃນການແຕ່ງງານຂອງທ່ານ.
+
+159
+00:10:10,700 --> 00:10:16,700
+[MADAM YU]
+What a godforsaken place!  Can't your father be appointed closer to civilization?  Jen... are you listening to me?
+ສະຖານທີ່ທີ່ຖືກລືມຈາກພຣະເຈົ້າຫຼາຍປານໃດ!
+ພໍ່ຂອງທ່ານບໍ່ສາມາດຖືກແຕ່ງຕັ້ງໃຫ້ໃກ້ຊິດກັບວັດທະນະທໍາໄດ້ບໍ? ເຈນ... ເຈົ້າຟັງຂ້ອຍບໍ?
+
+160
+00:10:17,200 --> 00:10:19,200
+[TSAI]
+Let's go!
+ໄປ!
+
+161
+00:10:19,700 --> 00:10:21,700
+[TSAI]
+Who are you?
+ເຈົ້າເປັນໃຜ?
+
+162
+00:10:22,200 --> 00:10:24,200
+[BO]
+Wait!  I'm a friend!
+ລໍຖ້າ! ຂ້ອຍເປັນເພື່ອນ!
+
+163
+00:10:24,700 --> 00:10:26,800
+[TSAI]
+I don't care about your sword.
+ຂ້ອຍບໍ່ສົນໃຈປືນຂອງເຈົ້າ.
+
+164
+00:10:27,300 --> 00:10:29,750
+[BO]
+Why were you spying on the Yus?
+ເຈົ້າ ກໍາ ລັງສືບລັບ Yus ເປັນຫຍັງ?
+
+165
+00:10:30,250 --> 00:10:36,250
+[TSAI]
+I'm looking for someone.  Jade Fox. I'm a police inspector from Shaan Xi, Gen Su district.  Jade Fox is a master criminal.  I hear she infiltrated the Yus.  She must have come with them when they transferred here.  But with Yu's reputation, I can't just go in and accuse her.
+ຂ້ອຍ ກໍາ ລັງຊອກຫາຄົນໃດຫນຶ່ງ. ເຈດ ຟອກສ໌. ຂ້ອຍເປັນຜູ້ກວດກາຕໍາຫຼວດຈາກຊານ ຊີ, ເຂດເຈນ ຊູ. ເຈີດ ຟຸກສ໌ເປັນອາຊະຍາກໍາທີ່ຍິ່ງໃຫຍ່. ຂ້ອຍໄດ້ຍິນວ່ານາງໄດ້ເຂົ້າໄປໃນ
+Yus. ນາງຕ້ອງໄດ້ມາພ້ອມກັບພວກເຂົາເມື່ອພວກເຂົາຖືກໂອນມາບ່ອນນີ້. ແຕ່ດ້ວຍຊື່ສຽງຂອງ Yu, ຂ້ອຍບໍ່ສາມາດເຂົ້າມາແລະກ່າວຫານາງໄດ້ພຽງແຕ່.
+
+166
+00:10:36,750 --> 00:10:38,850
+[BO]
+This Jade Fox is a woman?
+ເຈດ ຟອກສ໌ຄົນນີ້ເປັນແມ່ຍິງບໍ?
+
+167
+00:10:39,350 --> 00:10:41,350
+[TSAI]
+Yes.
+ແມ່ນແລ້ວ.
+
+168
+00:10:41,850 --> 00:10:43,850
+[BO]
+Then leave her to me.
+ຫຼັງຈາກນັ້ນປ່ອຍນາງໃຫ້ຂ້ອຍ.
+
+169
+00:10:44,350 --> 00:10:50,350
+[TSAI]
+Pardon me, but I doubt you can handle her.  My wife was quite a martial arts expert.  Jade Fox killed her.  So you see, this is personal.  Leave her to me.
+ຂໍໂທດຂ້ອຍ, ແຕ່ຂ້ອຍສົງໄສວ່າເຈົ້າສາມາດຮັບມືກັບນາງໄດ້. ເມຍຂອງຂ້ອຍເປັນຜູ້ຊ່ຽວຊານດ້ານສິລະປະການຕໍ່ສູ້ຫຼາຍ
+. ເຈດ ຟອກສ໌ໄດ້ຂ້ານາງ. ສະນັ້ນເຈົ້າເຫັນ, ນີ້ແມ່ນສ່ວນຕົວ. ໃຫ້ນາງໃຫ້ຂ້ອຍ.
+
+170
+00:10:50,850 --> 00:10:52,850
+[MAY]
+It's ready!
+ມັນພ້ອມແລ້ວ!
+
+171
+00:10:53,350 --> 00:10:55,350
+[BO]
+I'm ready for anything!
+ຂ້ອຍພ້ອມແລ້ວ ສໍາ ລັບທຸກຢ່າງ!
+
+172
+00:10:55,850 --> 00:10:57,850
+[MAY]
+Father gets first dip.
+ພໍ່ໄດ້ຮັບນ້ ໍາ ທໍາ ອິດ.
+
+173
+00:10:58,350 --> 00:11:00,350
+[TSAI]
+They're gone.
+ພວກເຂົາໄປແລ້ວ.
+
+174
+00:11:00,850 --> 00:11:02,850
+[MAY]
+What does it say?
+ມັນຂຽນວ່າແນວໃດ?
+
+175
+00:11:03,350 --> 00:11:08,950
+[TSAI]
+"We'll settle this at midnight on Yellow Hill."  Good, the fox is out of her hole.
+ພວກເຮົາຈະແກ້ໄຂເລື່ອງນີ້ໃນຕອນກາງຄືນຢູ່ພູສີເຫຼືອງ
+. ດີ, ແມວອອກຈາກຮູຂອງນາງ.
+
+176
+00:11:09,450 --> 00:11:11,450
+[SIR TE]
+Shu Lien, look who's here.
+ຊູ ເລນ, ເບິ່ງວ່າໃຜຢູ່ບ່ອນນີ້ແມ.
+
+177
+00:11:11,950 --> 00:11:15,800
+[LI]
+Sir Te believes it's a ploy cast suspicion on Governor Yu.
+ທ້າວເທເຊື່ອວ່າມັນເປັນກະຕຸ້ນທີ່ຈະເຮັດໃຫ້ຜູ້ປົກຄອງຢູສົງໄສ.
+
+178
+00:11:16,300 --> 00:11:19,450
+[YU]
+But something is going on at the Yu household.
+ແຕ່ມີບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນຢູ່ເຮືອນຢູ.
+
+179
+00:11:19,950 --> 00:11:21,950
+[LI]
+What have you discovered?
+ເຈົ້າໄດ້ຄົ້ນພົບຫຍັງ?
+
+180
+00:11:22,450 --> 00:11:24,450
+[LI]
+Jade Fox?  Impossible.
+ເຈດ ຟອກສ໌? ບໍ່ເປັນໄປໄດ້.
+
+181
+00:11:24,950 --> 00:11:27,750
+[YU]
+You always suspected she'd fled to the West.
+ເຈົ້າສົງໄສວ່ານາງໄດ້ຫນີໄປທາງຕາເວັນຕົກຢູ່ສະເຫມີ.
+
+182
+00:11:28,250 --> 00:11:31,400
+[LI]
+I didn't think she'd dare come back to Peking!
+ຂ້ອຍບໍ່ຄິດວ່ານາງຈະກ້າກັບມາປັກກິ່ງ!
+
+183
+00:11:31,900 --> 00:11:36,100
+[YU]
+Is there any place safer than under the nose of Governor Yu?
+ມີບ່ອນໃດທີ່ປອດໄພກວ່າພາຍໃຕ້ດັງຂອງຜູ້ປົກຄອງຢູບໍ?
+
+184
+00:11:36,600 --> 00:11:39,750
+[LI]
+So I shall avenge my master's death after all.
+ສະນັ້ນຂ້ອຍຈະແກ້ແຄ້ນຄວາມຕາຍຂອງເຈົ້າຂອງຂ້ອຍໃນທີ່ສຸດ.
+
+185
+00:11:40,250 --> 00:11:46,250
+[YU]
+Be careful.  Sir Te requires discretion.  Official business is difficult enough.  Don't let personal feelings make it worse. And I don't know... even this poster... could be some sort of trap.
+ລະມັດລະວັງ. ທ້າວເທຕ້ອງການຄວາມລະອຽດອ່ອນ. ທຸລະກິດທາງການຍາກພໍສົມຄວນ.
+ຢ່າປ່ອຍໃຫ້ຄວາມຮູ້ສຶກສ່ວນຕົວເຮັດໃຫ້ມັນຮ້າຍແຮງຂຶ້ນ. ແລະຂ້ອຍບໍ່ຮູ້... ເຖິງແມ່ນວ່າປ້າຍນີ້... ອາດຈະເປັນແຄບບາງປະເພດ.
+
+186
+00:11:46,750 --> 00:11:48,850
+[LI]
+Did you see who posted it?
+ເຈົ້າເຫັນໃຜໂພສມັນບໍ?
+
+187
+00:11:49,350 --> 00:11:51,350
+[YU]
+No.
+ບໍ່
+
+188
+00:11:51,850 --> 00:11:57,850
+[LI]
+It says Jade Fox is hiding at Yu's. On the night of the theft there was a brawl near Yu's.  Were you involved?
+ມັນເວົ້າວ່າ ເຈດ ຟອກສ໌ ກໍາ ລັງເຊື່ອງຢູ່ເຮືອນຢູ.
+ໃນຄືນຂອງການລັກລອບມີການຕໍ່ສູ້ຢູ່ໃກ້ກັບເຮືອນຢູ. ເຈົ້າມີສ່ວນຮ່ວມບໍ?
+
+189
+00:11:58,350 --> 00:12:03,600
+[YU]
+It was Bo, Sir Te's man.  I hear he followed the thief to the Yus'.
+ມັນເປັນໂບ, ຜູ້ຊາຍຂອງທ່ານເທ.
+ຂ້ອຍໄດ້ຍິນວ່າລາວຕິດຕາມຄົນລັກໄປຫາຊາວຢູສ໌.
+
+190
+00:12:04,100 --> 00:12:06,100
+[LI]
+Have you questioned him yet?
+ເຈົ້າຖາມລາວແລ້ວບໍ?
+
+191
+00:12:06,600 --> 00:12:08,600
+[YU]
+No, not yet...
+ບໍ່, ຍັງບໍ່ທັນ...
+
+192
+00:12:09,100 --> 00:12:11,900
+[LI]
+But your men are watching over Yu's compund?
+ແຕ່ຜູ້ຊາຍຂອງທ່ານ ກໍາ ລັງເບິ່ງແຍງສະໂມສອນຂອງຢູບໍ?
+
+193
+00:12:12,400 --> 00:12:18,400
+[YU]
+No, I'd already sent them home. You can blame me for losing the sword, but please trust that I'll get it back soon using my own methods.
+ບໍ່, ຂ້ອຍໄດ້ສົ່ງພວກມັນກັບບ້ານແລ້ວ. ເຈົ້າສາມາດກ່າວໂທດຂ້ອຍໄດ້ວ່າໄດ້ສູນເສຍກະທູ້
+, ແຕ່ຂໍເຊື່ອວ່າຂ້ອຍຈະເອົາມັນຄືນໃນໄວໆນີ້ໂດຍໃຊ້ວິທີການຂອງຂ້ອຍເອງ.
+
+194
+00:12:18,900 --> 00:12:22,750
+[LI]
+That's not what I meant.  I don't care about the sword.
+ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍຫມາຍຄວາມ. ຂ້ອຍບໍ່ສົນໃຈກ່ຽວກັບກະທູ້.
+
+195
+00:12:23,250 --> 00:12:27,100
+[YU]
+What do you mean?  Didn't you come back here for it?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ? ເຈົ້າບໍ່ໄດ້ກັບມາບ່ອນນີ້ເພື່ອມັນບໍ?
+
+196
+00:12:27,600 --> 00:12:31,100
+[LI]
+I don't know it was stolen until I got here.
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນຖືກລັກຈົນກວ່າຂ້ອຍຈະມາຮອດບ່ອນນີ້.
+
+197
+00:12:31,600 --> 00:12:33,600
+[YU]
+Then, why did you come?
+ຫຼັງຈາກນັ້ນ, ເຈົ້າມາເປັນຫຍັງ?
+
+198
+00:12:34,100 --> 00:12:36,100
+[LI]
+Well, we had talked...
+ດີ, ພວກເຮົາໄດ້ເວົ້າກັນແລ້ວ...
+
+199
+00:12:36,600 --> 00:12:39,750
+[DE LU]
+Pardon my intrusion.  Master Li, your room is ready.
+ຂໍໂທດການເຂົ້າມາຂອງຂ້ອຍ. ພຣະອາຈານລີ, ຫ້ອງຂອງທ່ານພ້ອມແລ້ວ.
+
+200
+00:12:40,250 --> 00:12:42,350
+[LI]
+Thank you.  Please lead the way.
+ຂອບໃຈ. ກະລຸນານໍາທາງ.
+
+201
+00:12:42,850 --> 00:12:47,050
+[BO]
+The fox doesn't care much for punctuality.  Still no sign of her.
+ແມວບໍ່ສົນໃຈຄວາມຖືກຕ້ອງຕາມເວລາຫຼາຍ. ຍັງບໍ່ມີສັນຍານຂອງນາງ.
+
+202
+00:12:47,550 --> 00:12:49,550
+[TSAI]
+Enough!  Show yourself.
+ພຽງພໍແລ້ວ! ສະແດງຕົວເອງ.
+
+203
+00:12:50,050 --> 00:12:53,200
+[FOX]
+Tsai... you dog!  You will pay for your stubbornness.
+ໄຊ... ເຈົ້າເປັນຫມາ! ເຈົ້າຈະຈ່າຍຄ່າ ສໍາ ລັບຄວາມແຂງແຮງຂອງທ່ານ.
+
+204
+00:12:53,700 --> 00:12:55,800
+[BO]
+That's what you think, old witch!
+ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຄິດ, ແມວເຖົ້າ!
+
+205
+00:12:56,300 --> 00:13:02,250
+[TSAI]
+If you surrender now, you'll suffer less.  But if you resist, I won't stop until you're dead.
+ຖ້າເຈົ້າຍອມຮັບດຽວນີ້, ເຈົ້າຈະທຸກທໍລະມານ ຫນ້ອຍ ກວ່າ.
+ແຕ່ຖ້າເຈົ້າຕໍ່ຕ້ານ, ຂ້ອຍຈະບໍ່ຢຸດຈົນກວ່າເຈົ້າຈະຕາຍ.
+
+206
+00:13:02,750 --> 00:13:05,200
+[MAY]
+Father!  Let me avenge my mother's death.
+ພໍ່! ຂໍໃຫ້ຂ້ອຍແກ້ແຄ້ນຄວາມຕາຍຂອງແມ່ຂອງຂ້ອຍ.
+
+207
+00:13:05,700 --> 00:13:08,850
+[FOX]
+You'll soon end up like her, you little whore!
+ເຈົ້າຈະສິ້ນສຸດລົງຄືກັບນາງໃນໄວໆນີ້, ເຈົ້າໂຊກຮ້າຍນ້ອຍ!
+
+208
+00:13:09,350 --> 00:13:11,350
+[BO]
+You'll pay for that!
+ເຈົ້າຈະຈ່າຍຄ່ານັ້ນ!
+
+209
+00:13:11,850 --> 00:13:13,850
+[TSAI]
+She's going to paralyze you!
+ນາງຈະເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ!
+
+210
+00:13:14,350 --> 00:13:16,350
+[TSAI]
+May!
+ເມຍ!
+
+211
+00:13:16,850 --> 00:13:18,950
+[FOX]
+Tsai, you filthy mongrel!  An ambush!
+Tsai, ເຈົ້າເປັນຄົນຢອກຊື່ໆຮ້າຍ! ການວາງຂົ່ມຂືນ!
+
+212
+00:13:19,450 --> 00:13:21,450
+[MAY]
+Father, are you all right?
+ພໍ່, ເຈົ້າດີບໍ?
+
+213
+00:13:21,950 --> 00:13:27,950
+[LI]
+Wudan should have gotten rid of you long ago.  It's been a long time, Jade Fox!  You don't remember me... But you should remember my master. You infiltrated Wudan while I was away.  You stole our master!  Now it's time for you to pay!
+ວູແດນຄວນ ກໍາ ຈັດເຈົ້າກ່ອນຫນ້ານີ້. ມັນເປັນເວລາດົນນານແລ້ວ, ເຈດ ຟອກສ໌! ເຈົ້າບໍ່ຈື່ຂ້ອຍ... ແຕ່ເຈົ້າຄວນຈື່ເຈົ້າຂອງຂ້ອຍ
+. ເຈົ້າເຂົ້າໄປໃນວູເດັນໃນຂະນະທີ່ຂ້ອຍຢູ່ຫ່າງໄກ. ເຈົ້າລັກເຈົ້າຂອງພວກເຮົາ! ດຽວນີ້ມັນເຖິງເວລາ ສໍາ ລັບເຈົ້າທີ່ຈະຈ່າຍ!
+
+214
+00:13:28,450 --> 00:13:34,450
+[FOX]
+Your master underestimated us women. Sure, he'd sleep with me, but he would never teach me.  He deserved to die by a woman's hand!
+ເຈົ້າຂອງເຈົ້າໄດ້ປະເມີນຕໍ່າພວກເຮົາແມ່ຍິງ. ແນ່ນອນ, ລາວຈະນອນກັບຂ້ອຍ
+, ແຕ່ລາວຈະບໍ່ສອນຂ້ອຍເລີຍ. ລາວສົມຄວນທີ່ຈະຕາຍໂດຍມືຂອງແມ່ຍິງ!
+
+215
+00:13:34,950 --> 00:13:40,950
+[LI]
+You stole the secrets of Wudan's highest martial arts.  But after ten years of training, your moves are still undisciplined.  And today, under a Wudan sword... you will die!
+ເຈົ້າລັກຄວາມລັບຂອງສິລະປະການຕໍ່ສູ້ສູງສຸດຂອງວູແດນ. ແຕ່ຫຼັງຈາກການຝຶກອົບຮົມສິບປີ,
+ການເຄື່ອນໄຫວຂອງທ່ານຍັງບໍ່ມີວິໄນ. ແລະມື້ນີ້, ພາຍໃຕ້ກະທູ້ວູເດັນ... ເຈົ້າຈະຕາຍ!
+
+216
+00:13:41,450 --> 00:13:43,450
+[FOX]
+Disciple, we'll kill them all!
+ນັກຮຽນ, ພວກເຮົາຈະຂ້າພວກເຂົາທັງ ຫມົດ!
+
+217
+00:13:43,950 --> 00:13:45,950
+[FIGURE IN BLACK]
+Let's go!
+ໄປ!
+
+218
+00:13:46,450 --> 00:13:48,450
+[BO]
+Another one!
+ອີກຫນຶ່ງ!
+
+219
+00:13:48,950 --> 00:13:51,050
+[FOX]
+I must get rid of Tsai!
+ຂ້ອຍຕ້ອງ ກໍາ ຈັດ Tsai ໄດ້!
+
+220
+00:13:51,550 --> 00:13:55,400
+[LI]
+Who are you?  Why is the Green Destiny in your possession?
+ເຈົ້າເປັນໃຜ? ເປັນຫຍັງຈຸດຫມາຍປາຍທາງສີຂຽວຢູ່ໃນເຈົ້າ?
+
+221
+00:13:55,900 --> 00:13:57,900
+[FIGURE IN BLACK]
+What's it to you?
+ມັນເປັນຫຍັງກັບເຈົ້າ?
+
+222
+00:13:58,400 --> 00:14:04,400
+[LI]
+My name is Li Mu Bai.  The Green Destiny is mine.  Jade Fox can't be your master.  Where did you learn that "Xuan Piu" move?
+ຂ້ອຍຊື່ວ່າ ລີ ມູ ບາຍ. ຈຸດຫມາຍປາຍທາງສີຂຽວແມ່ນຂອງຂ້ອຍ. ເຈດ
+ຟອກສ໌ບໍ່ສາມາດເປັນເຈົ້າຂອງເຈົ້າໄດ້. ເຈົ້າໄດ້ຮຽນຮູ້ການເຄື່ອນໄຫວ"ຊວນ ປິວ" ນັ້ນຢູ່ໃສ?
+
+223
+00:14:04,900 --> 00:14:06,900
+[FIGURE IN BLACK]
+I'm just playing around.
+ຂ້ອຍພຽງແຕ່ຫຼິ້ນຢູ່ທົ່ວໄປ.
+
+224
+00:14:07,400 --> 00:14:09,500
+[LI]
+Tell me, who is your master?
+ບອກຂ້ອຍ, ເຈົ້າຂອງເຈົ້າແມ່ນໃຜ?
+
+225
+00:14:10,000 --> 00:14:12,000
+[FIGURE IN BLACK]
+Let's go!
+ໄປ!
+
+226
+00:14:12,500 --> 00:14:14,500
+[FOX]
+We must kill them!
+ພວກເຮົາຕ້ອງຂ້າພວກເຂົາ!
+
+227
+00:14:15,000 --> 00:14:17,000
+[MAY]
+Father!
+ພໍ່!
+
+228
+00:14:17,500 --> 00:14:19,500
+[TE]
+This is Tsai?
+ນີ້ແມ່ນ Tsai ບໍ?
+
+229
+00:14:20,000 --> 00:14:22,100
+[MAY]
+My father.  Police Inspector from Shaan.
+ພໍ່ຂອງຂ້ອຍ. ຜູ້ກວດກາຕໍາຫຼວດຈາກຊານ.
+
+230
+00:14:22,600 --> 00:14:28,600
+[TE]
+This should be reported to Governor Yu.  The victim is an officer.  You believe the killer is hiding out in his compound.
+ນີ້ແມ່ນຄວນລາຍງານໃຫ້ຜູ້ປົກຄອງຢູ. ຜູ້ເຄາະຮ້າຍແມ່ນເຈົ້າຫນ້າທີ່
+. ເຈົ້າເຊື່ອວ່າຜູ້ຂ້າ ກໍາ ລັງເຊື່ອງໄວ້ໃນສະໂມສອນຂອງລາວ.
+
+231
+00:14:29,100 --> 00:14:31,200
+[YU]
+I'd bet my life on it!
+ຂ້ອຍຈະພະນັນຊີວິດຂອງຂ້ອຍໃສ່ມັນ!
+
+232
+00:14:31,700 --> 00:14:33,700
+[TE]
+Come with me.
+ມາກັບຂ້ອຍ.
+
+233
+00:14:34,200 --> 00:14:36,650
+[SIR TE]
+This needs to be resolved, and quickly.
+ເລື່ອງນີ້ຕ້ອງຖືກແກ້ໄຂ, ແລະໄວ.
+
+234
+00:14:37,150 --> 00:14:42,750
+[LI]
+I'll get into the Yu household and get her.  I'll ferret out Fox and her gang.
+ຂ້ອຍຈະເຂົ້າໄປໃນຄອບຄົວຢູແລະເອົານາງ
+. ຂ້ອຍຈະຈັບຟອກສ໌ແລະກຸ່ມຂອງນາງອອກ.
+
+235
+00:14:43,250 --> 00:14:49,250
+[YU]
+We must be careful.  Governor Yu is a court official, and in charge of security.  Any disturbance will cast suspicion on him.  It might get Sir Te in trouble.
+ພວກເຮົາຕ້ອງລະມັດລະວັງ. ຜູ້ປົກຄອງຢູແມ່ນເຈົ້າຫນ້າທີ່ສານ, ແລະຮັບຜິດຊອບຄວາມປອດໄພ
+. ການລົບກວນໃດກໍ່ຈະເຮັດໃຫ້ສົງໄສລາວ. ມັນອາດຈະເຮັດໃຫ້ທ່ານເທຢູ່ໃນຄວາມຫຍຸ້ງຍາກ.
+
+236
+00:14:49,750 --> 00:14:51,750
+[SIR TE]
+This is a delicate matter.
+ນີ້ແມ່ນເລື່ອງທີ່ລະອຽດອ່ອນ.
+
+237
+00:14:52,250 --> 00:14:57,150
+[YU]
+Sir Te, can you find some excuse to invite Madam Yu and her daughter?
+ເຈົ້າເທ, ເຈົ້າສາມາດຊອກຫາເຫດຜົນໃດໆໄດ້ບໍທີ່ຈະເຊີນທ່ານນາງຢູ
+ແລະລູກສາວຂອງນາງ?
+
+238
+00:14:57,650 --> 00:14:59,750
+[SIR TE]
+What do you have in mind?
+ເຈົ້າຄິດຫຍັງຢູ່?
+
+239
+00:15:00,250 --> 00:15:04,100
+[YU]
+The best way to trap a fox is through her cubs.
+ວິທີທີ່ດີທີ່ສຸດທີ່ຈະຈັບແມວແມ່ນຜ່ານລູກຫຼານຂອງນາງ.
+
+240
+00:15:04,600 --> 00:15:09,500
+[MADAM YU]
+Madam Te is certainly spoiling us with these wedding gifts.  She's being so considerate.
+ແມ່ຕູ້ເທ ກໍາ ລັງ ທໍາ ລາຍພວກເຮົາຢ່າງແນ່ນອນດ້ວຍຂອງຂວັນແຕ່ງງານເຫຼົ່ານີ້
+. ນາງມີຄວາມຄິດເຫັນຫຼາຍ.
+
+241
+00:15:10,000 --> 00:15:13,850
+[YU]
+I'm sorry she's not feeling well enough to receive you today.
+ຂ້ອຍຂໍໂທດວ່ານາງບໍ່ຮູ້ສຶກດີພໍທີ່ຈະຕ້ອນຮັບເຈົ້າມື້ນີ້.
+
+242
+00:15:14,350 --> 00:15:18,900
+[MADAM YU]
+I heard Sir Te lost something.  And now Madame Te's not feeling well...
+ຂ້ອຍໄດ້ຍິນວ່າ ທ້າວເທ ໄດ້ສູນເສຍບາງສິ່ງບາງຢ່າງ
+. ແລະດຽວນີ້ທ່ານນາງເທບໍ່ຮູ້ສຶກດີ...
+
+243
+00:15:19,400 --> 00:15:25,400
+[YU]
+We know who stole the missing item. If the thief returns it, I'm sure Sir Te will pursue the matter no further.
+ພວກເຮົາຮູ້ວ່າໃຜລັກສິ່ງຫາຍໄປ. ຖ້າຄົນລັກສົ່ງມັນຄືນ
+, ຂ້ອຍແນ່ໃຈວ່າທ່ານເທຈະສືບຕໍ່ເລື່ອງຕໍ່ໄປອີກຕໍ່ໄປ.
+
+244
+00:15:25,900 --> 00:15:30,800
+[MADAM YU]
+That's good.  Sometimes the help can't keep their hands to themselves. It's very embarassing.
+ນັ້ນດີ. ບາງຄັ້ງຜູ້ຊ່ວຍບໍ່ສາມາດຮັກສາມືຂອງພວກເຂົາໄວ້ກັບຕົວເອງໄດ້
+. ມັນໂຊກຮ້າຍຫຼາຍ.
+
+245
+00:15:31,300 --> 00:15:37,300
+[YU]
+Sir Te knows that even well-meaning people can make mistakes... that can bring ruin to themselves and their families.
+ທ້າວເທຍຮູ້ວ່າ ເຖິງແມ່ນວ່າຄົນທີ່ມີຄວາມຕັ້ງໃຈດີກໍ່ສາມາດເຮັດຄວາມຜິດພາດໄດ້
+... ທີ່ສາມາດເຮັດໃຫ້ຄວາມເສຍຫາຍແກ່ຕົວເອງແລະຄອບຄົວຂອງພວກເຂົາ.
+
+246
+00:15:37,800 --> 00:15:39,800
+[MADAM YU]
+But don't be too lenient.
+ແຕ່ຢ່າອ່ອນແອເກີນໄປ.
+
+247
+00:15:40,300 --> 00:15:44,850
+[YU]
+No mercy will be shown toward the murderer who turned up in Peking.
+ບໍ່ມີຄວາມເມດຕາທີ່ຈະສະແດງໃຫ້ເຫັນຕໍ່ຜູ້ຂ້າທີ່ປາກົດຕົວໃນປັກກິ່ງ.
+
+248
+00:15:45,350 --> 00:15:47,350
+[MADAM YU]
+A murderer?
+ຜູ້ຂ້າບໍ?
+
+249
+00:15:47,850 --> 00:15:53,850
+[YU]
+Yes.  The very killer of Li Mu Bai's own master.  Last night, she killed a policeman who had tracked her down.
+ແມ່ນແລ້ວ. ຜູ້ຂ້າຂອງເຈົ້າຂອງລີ ມູ ບາຍເອງ.
+ໃນມື້ວານນີ້, ນາງໄດ້ຂ້າຕໍາຫຼວດທີ່ໄດ້ຕິດຕາມນາງ.
+
+250
+00:15:54,350 --> 00:15:56,450
+[MADAM YU]
+A female criminal!  Now that's news!
+ຜູ້ກໍ່ອາຊະຍາກໍາຍິງ! ດຽວນີ້ມັນເປັນຂ່າວ!
+
+251
+00:15:56,950 --> 00:15:59,050
+[JEN]
+You say she killed a policeman?
+ເຈົ້າເວົ້າວ່ານາງໄດ້ຂ້າຕໍາຫຼວດບໍ?
+
+252
+00:15:59,550 --> 00:16:03,750
+[YU]
+Yes, from the West.  He went undercover and and followed her here,
+ແມ່ນແລ້ວ, ຈາກຕາເວັນຕົກ. ລາວໄດ້ໄປລັບແລະແລະຕິດຕາມນາງມາບ່ອນນີ້,
+
+253
+00:16:04,250 --> 00:16:08,100
+[MADAM YU]
+Maybe the murderer and the thief are one and the same.
+ບາງທີຜູ້ຂ້າແລະຄົນລັກແມ່ນຄົນດຽວກັນ.
+
+254
+00:16:08,600 --> 00:16:11,400
+[YU]
+I doubt it.  This thief... it very unusual...
+ຂ້ອຍສົງໄສມັນ. ຄົນລັກຄົນນີ້... ມັນແປກໃຈຫຼາຍ...
+
+255
+00:16:11,900 --> 00:16:14,700
+[YU]
+...And most likely smarter than a mere killer.
+ແລະອາດຈະສະຫຼາດກວ່າຜູ້ຂ້າພຽງແຕ່.
+
+256
+00:16:15,200 --> 00:16:17,200
+[JEN]
+Greetings, Sir Te.
+ສະບາຍດີ, ທ້າວເທ.
+
+257
+00:16:17,700 --> 00:16:21,550
+[SIR TE]
+Hello, Madam Yu.  This is Li Mu Bai, the renowned swordsman.
+ສະບາຍດີ, ທ່ານນາງຢູ. ນີ້ແມ່ນລີ ມູ ບາຍ, ນັກປືນທີ່ມີຊື່ສຽງ.
+
+258
+00:16:22,050 --> 00:16:24,050
+[LI]
+Delighted to meet you.
+ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+
+259
+00:16:24,550 --> 00:16:27,000
+[TE]
+Miss Yu is soon to be married.
+ນາງຢູຈະແຕ່ງງານໃນໄວໆນີ້.
+
+260
+00:16:27,500 --> 00:16:29,500
+[LI]
+Congratulations.
+ຂໍສະແດງຄວາມຍິນດີ.
+
+261
+00:16:30,000 --> 00:16:32,000
+[MAY]
+Why don't you come in?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຂົ້າມາ?
+
+262
+00:16:32,500 --> 00:16:34,500
+[BO]
+I'm standing guard.
+ຂ້ອຍ ກໍາ ລັງຮັກສາຄວາມປອດໄພ.
+
+263
+00:16:35,000 --> 00:16:37,000
+[MAY]
+Come in.  It's cold.
+ເຂົ້າມາ. ມັນເຢັນ.
+
+264
+00:16:37,500 --> 00:16:41,700
+[MAY]
+Come in.  We don't have to fear Jade Fox if we're together.
+ເຂົ້າມາ. ພວກເຮົາບໍ່ຈໍາເປັນຕ້ອງຢ້ານກົວເຈດ
+ຟອກສ໌ຖ້າພວກເຮົາຢູ່ຮ່ວມກັນ.
+
+265
+00:16:42,200 --> 00:16:47,100
+[LI]
+Isn't it a bit too late to be out? You've brought me the sword?
+ມັນບໍ່ຊ້າເກີນໄປບໍທີ່ຈະອອກໄປ? ເຈົ້າໄດ້ເອົາກະທູ້ມາໃຫ້ຂ້ອຍບໍ?
+
+266
+00:16:47,600 --> 00:16:49,600
+[FIGURE]
+I do as I please.
+ຂ້ອຍເຮັດຕາມທີ່ຂ້ອຍຕ້ອງການ.
+
+267
+00:16:50,100 --> 00:16:52,100
+[LI]
+Where's your master?
+ເຈົ້າຂອງເຈົ້າຢູ່ໃສ?
+
+268
+00:16:52,600 --> 00:16:54,600
+[FIGURE]
+What's it to you?
+ມັນເປັນຫຍັງກັບເຈົ້າ?
+
+269
+00:16:55,100 --> 00:17:01,100
+[LI]
+Had enough flying?  You've got potential.  You've studied the Wudan Manual but you don't understand it.  You need a real master.
+ເຈົ້າມີການບິນພຽງພໍບໍ? ເຈົ້າມີທ່າແຮງ.
+ເຈົ້າໄດ້ສຶກສາຄູ່ມືວູດານແຕ່ເຈົ້າບໍ່ເຂົ້າໃຈມັນ. ເຈົ້າຕ້ອງການຜູ້ສອນທີ່ແທ້ຈິງ.
+
+270
+00:17:01,600 --> 00:17:04,400
+[FIGURE]
+Do you think you are a real master?
+ເຈົ້າຄິດວ່າເຈົ້າເປັນເຈົ້າຂອງແທ້ບໍ?
+
+271
+00:17:04,900 --> 00:17:10,900
+[LI]
+Like most things, I am nothing. It's the same for this sword.  All of it is simply a state of mind.
+ຄືກັບສິ່ງສ່ວນໃຫຍ່, ຂ້ອຍບໍ່ມີຫຍັງເລີຍ. ມັນຄືກັນກັບກະທູ້ນີ້
+. ທັງ ຫມົດ ແມ່ນພຽງແຕ່ສະພາບຈິດໃຈເທົ່ານັ້ນ.
+
+272
+00:17:11,400 --> 00:17:13,850
+[FIGURE]
+Stop talking like a monk!  Just fight!
+ຢຸດການເວົ້າຄືກັບພະສົງ! ພຽງແຕ່ຕໍ່ສູ້!
+
+273
+00:17:14,350 --> 00:17:16,800
+[LI]
+Then tell me where Jade Fox is.
+ຫຼັງຈາກນັ້ນບອກຂ້ອຍວ່າ ເຈດ ຟອກສ໌ຢູ່ໃສ.
+
+274
+00:17:17,300 --> 00:17:19,300
+[FIGURE]
+On guard!
+ລະວັງ!
+
+275
+00:17:19,800 --> 00:17:21,800
+[LI]
+Real sharpness comes without effort.
+ຄວາມກະທັນຫັນທີ່ແທ້ຈິງມາໂດຍບໍ່ມີຄວາມພະຍາຍາມ.
+
+276
+00:17:22,300 --> 00:17:28,300
+[LI]
+No growth without assistant.  No action without reaction.  No desire without restraint.  Now give yourself up and find yourself again. There is a lesson for you.
+ບໍ່ມີການເຕີບໃຫຍ່ໂດຍບໍ່ມີຜູ້ຊ່ວຍ. ບໍ່ມີການກະ ທໍາ ໂດຍບໍ່ມີການປະຕິກິລິຍາ.
+ບໍ່ມີຄວາມປາຖະຫນາໂດຍບໍ່ມີການຄວບຄຸມຕົວ. ດຽວນີ້ໃຫ້ຕົວເອງແລະຊອກຫາຕົວເອງອີກຄັ້ງ. ມີບົດຮຽນ ສໍາ ລັບເຈົ້າ.
+
+277
+00:17:28,800 --> 00:17:30,800
+[FIGURE]
+Go ahead.
+ໄປກ່ອນ.
+
+278
+00:17:31,300 --> 00:17:37,300
+[LI]
+Why should I?  You need practice. I can teach you to fight with the Green Destiny, but first you must learn to hold it in stillness.
+ຂ້ອຍຄວນເຮັດຫຍັງ? ເຈົ້າຕ້ອງການການຝຶກຊ້ອມ. ຂ້ອຍສາມາດສອນເຈົ້າໃຫ້ຕໍ່ສູ້ກັບ
+Destiny ສີຂຽວໄດ້, ແຕ່ກ່ອນເຈົ້າຕ້ອງຮຽນຮູ້ທີ່ຈະຖືມັນໃນຄວາມງຽບສະຫງົບ.
+
+279
+00:17:37,800 --> 00:17:40,250
+[FIGURE]
+Why do you want to teach me?
+ເຈົ້າຢາກສອນຂ້ອຍເປັນຫຍັງ?
+
+280
+00:17:40,750 --> 00:17:43,900
+[LI]
+I've always wanted a disciple worthy of Wudan's secrets.
+ຂ້ອຍຢາກມີນັກຮຽນທີ່ເຫມາະສົມກັບຄວາມລັບຂອງວູດານຢູ່ສະເຫມີ.
+
+281
+00:17:44,400 --> 00:17:47,200
+[FIGURE]
+And if I use them to kill you?
+ແລະຖ້າຂ້ອຍໃຊ້ພວກມັນເພື່ອຂ້າເຈົ້າ?
+
+282
+00:17:47,700 --> 00:17:53,650
+[LI]
+That's a risk I'm willing to take. Deep down, you're good.  Even Jade Fox couldn't corrupt you.
+ນັ້ນແມ່ນຄວາມສ່ຽງທີ່ຂ້ອຍພ້ອມທີ່ຈະເອົາ. ເລິກໃນໃຈ, ເຈົ້າດີ
+. ເຖິງແມ່ນວ່າເຈດ ຟອກສ໌ບໍ່ສາມາດສໍ້ລາດບັງຫຼວງເຈົ້າໄດ້.
+
+283
+00:17:54,150 --> 00:17:56,600
+[FIGURE]
+Wudan is a whorehouse!  Keep your lessons!
+ວູແດນແມ່ນເຮືອນໂຊກແຊງ! ຮັກສາບົດຮຽນຂອງທ່ານ!
+
+284
+00:17:57,100 --> 00:17:59,900
+[FOX]
+You're home late... or should I say early?
+ເຈົ້າກັບບ້ານຊ້າ... ຫຼືຂ້ອຍຄວນເວົ້າວ່າກ່ອນບໍ?
+
+285
+00:18:00,400 --> 00:18:06,400
+[JEN]
+Why are you still here?  You killed a policeman.  You should leave! You'll bring ruin on my whole family.
+ເຈົ້າຍັງຢູ່ບ່ອນນີ້ເປັນຫຍັງ? ເຈົ້າໄດ້ຂ້າຕໍາຫຼວດ.
+ເຈົ້າຄວນອອກຈາກ! ເຈົ້າຈະເຮັດໃຫ້ຄອບຄົວຂອງຂ້ອຍທັງ ຫມົດ ເສຍຫາຍ.
+
+286
+00:18:06,900 --> 00:18:12,900
+[FOX]
+They wouldn't have found me if you hadn't stolen the sword.  Like a little girl, you thought stealing would be fun?  You, too, are responsible for that death.  Come with me.  You don't want to waste your life as the wife of some bureaucrat.  Denied your talent... As a master and disciple we will rule.
+ພວກເຂົາຈະບໍ່ພົບຂ້ອຍຖ້າເຈົ້າບໍ່ໄດ້ລັກກະທູ້. ຄືກັບເດັກຍິງນ້ອຍ, ເຈົ້າຄິດວ່າການລັກຈະມ່ວນຊື່ນບໍ? ເຈົ້າເຊັ່ນກັນ, ມີຄວາມຮັບຜິດຊອບຕໍ່ຄວາມຕາຍນັ້ນ
+. ມາກັບຂ້ອຍ. ເຈົ້າບໍ່ຢາກເສຍຊີວິດຂອງທ່ານເປັນເມຍຂອງເຈົ້າຫນ້າທີ່ບາງຄົນ. ປະຕິເສດຄວາມສາມາດຂອງທ່ານ... ໃນຖານະເປັນຜູ້ສອນແລະນັກຮຽນພວກເຮົາຈະປົກຄອງ.
+
+287
+00:18:13,400 --> 00:18:15,500
+[JEN]
+I'll never live as a thief!
+ຂ້ອຍຈະບໍ່ດໍາລົງຊີວິດເປັນຄົນລັກເລີຍ!
+
+288
+00:18:16,000 --> 00:18:18,000
+[FOX]
+You're already a thief.
+ເຈົ້າເປັນຄົນລັກແລ້ວ.
+
+289
+00:18:18,500 --> 00:18:23,050
+[JEN]
+That was just for fun.  How can I leave?  Where would I go?
+ນັ້ນແມ່ນພຽງແຕ່ເພື່ອມ່ວນຊື່ນ. ຂ້ອຍຈະອອກໄປໄດ້ແນວໃດ? ຂ້ອຍຈະໄປໃສ?
+
+290
+00:18:23,550 --> 00:18:28,450
+[FOX]
+Wherever we want.  We'll get rid of anyone in our way.  Even your father.
+ບ່ອນໃດທີ່ພວກເຮົາຕ້ອງການ. ພວກເຮົາຈະ ກໍາ
+ຈັດໃຜໃນທາງຂອງພວກເຮົາ. ເຖິງແມ່ນວ່າພໍ່ຂອງທ່ານ.
+
+291
+00:18:28,950 --> 00:18:30,950
+[JEN]
+Shut up!
+ປິດງຽບ!
+
+292
+00:18:31,450 --> 00:18:36,000
+[FOX]
+It's the Giang Hu fighter lifestyle... kill or be killed. Exciting, isn't it?
+ມັນເປັນແບບຊີວິດຂອງນັກຕໍ່ສູ້ຈຽນຮູ...
+ຂ້າຫຼືຖືກຂ້າ. ຫນ້າ ຕື່ນເຕັ້ນ, ແມ່ນບໍ?
+
+293
+00:18:36,500 --> 00:18:38,500
+[JEN]
+I owe you nothing.
+ຂ້ອຍຫນີ້ເຈົ້າຫຍັງເລີຍ.
+
+294
+00:18:39,000 --> 00:18:41,800
+[FOX]
+Yes, you do!  You are still my disciple.
+ແມ່ນແລ້ວ, ເຈົ້າເຮັດ! ເຈົ້າຍັງເປັນນັກຮຽນຂອງຂ້ອຍ.
+
+295
+00:18:42,300 --> 00:18:48,300
+[JEN]
+You think you've been teaching me all these years from the manual? You couldn't even decipher the symbols!
+ເຈົ້າຄິດວ່າເຈົ້າ ກໍາ ລັງສອນຂ້ອຍຕະຫຼອດປີນີ້ຈາກຄູ່ມືບໍ
+? ເຈົ້າຍັງບໍ່ສາມາດຄົ້ນພົບສັນຍາລັກໄດ້ເລີຍ!
+
+296
+00:18:48,800 --> 00:18:51,950
+[FOX]
+I studied the diagrams.  But you hid the details!
+ຂ້ອຍໄດ້ສຶກສາຮູບພາບ. ແຕ່ເຈົ້າເຊື່ອງລາຍລະອຽດ!
+
+297
+00:18:52,450 --> 00:18:58,450
+[JEN]
+You wouldn't have understood, even if I had tried to explain.  You know... you've gone as far as you can go.  I hid my skills so as not to hurt you.
+ເຈົ້າຈະບໍ່ເຂົ້າໃຈ, ເຖິງແມ່ນວ່າຂ້ອຍຈະພະຍາຍາມອະທິບາຍ. ເຈົ້າຮູ້ແລ້ວ...
+ເຈົ້າໄດ້ໄປໄກທີ່ສຸດທີ່ທ່ານສາມາດໄປໄດ້. ຂ້ອຍເຊື່ອງຄວາມສາມາດຂອງຂ້ອຍເພື່ອບໍ່ເຮັດໃຫ້ເຈົ້າເຈັບປວດ.
+
+298
+00:18:58,950 --> 00:19:04,950
+[FOX]
+If I hadn't seen you fight with Li Mu Bai, I'd still be ignorant of all you've hidden from me.
+ຖ້າຂ້ອຍບໍ່ເຫັນເຈົ້າຕໍ່ສູ້ກັບລີ ມູ ບາຍ,
+ຂ້ອຍຍັງບໍ່ຮູ້ທຸກຢ່າງທີ່ເຈົ້າເຊື່ອງໄວ້ຈາກຂ້ອຍ.
+
+299
+00:19:05,450 --> 00:19:11,450
+[JEN]
+Master... I started learning from you in secret when I was 10.  You enchanted me with the world of Giang Hu.  But once I realized I could surpass you, I became so frightened!  Everything fell apart. I had no one to guide me, no one to learn from.
+ເຈົ້າ... ຂ້ອຍເລີ່ມຮຽນຮູ້ຈາກເຈົ້າໃນຄວາມລັບເມື່ອຂ້ອຍອາຍຸ 10. ເຈົ້າເຮັດໃຫ້ຂ້ອຍປະທັບໃຈດ້ວຍໂລກຂອງຈຽນຮູ.
+ແຕ່ເມື່ອຂ້ອຍຮູ້ວ່າຂ້ອຍສາມາດຜ່ານເຈົ້າໄດ້, ຂ້ອຍກາຍເປັນຢ້ານກົວຫຼາຍ! ທຸກສິ່ງທຸກຢ່າງຕົກລົງກັນ. ຂ້ອຍບໍ່ມີໃຜທີ່ຈະ ນໍາ ພາຂ້ອຍ, ບໍ່ມີໃຜທີ່ຈະຮຽນຈາກ.
+
+300
+00:19:11,950 --> 00:19:15,800
+[FOX]
+Believe me, I've a lesson or two left to teach you!
+ເຊື່ອຂ້ອຍ, ຂ້ອຍຍັງເຫຼືອບົດຮຽນ ຫນຶ່ງ ຫຼືສອງຢ່າງທີ່ຈະສອນເຈົ້າ!
+
+301
+00:19:16,300 --> 00:19:18,750
+[YU]
+The sword is back... are you happy?
+ກະທູ້ກັບມາແລ້ວ... ເຈົ້າມີຄວາມສຸກບໍ?
+
+302
+00:19:19,250 --> 00:19:23,800
+[LI]
+I admit, getting it back makes me realize how much I'd missed it.
+ຂ້ອຍຍອມຮັບວ່າ, ການເອົາມັນຄືນເຮັດໃຫ້ຂ້ອຍຮູ້ວ່າຂ້ອຍຂາດມັນຫຼາຍປານໃດ.
+
+303
+00:19:24,300 --> 00:19:28,500
+[YU]
+But it's not your sword anymore. You gave it to Sir Te.
+ແຕ່ມັນບໍ່ແມ່ນກະທູ້ຂອງເຈົ້າອີກແລ້ວ. ເຈົ້າໄດ້ໃຫ້ມັນໃຫ້ເຈົ້າເທ.
+
+304
+00:19:29,000 --> 00:19:35,000
+[LI]
+True.  But I must borrow it for one last mission.  Jade Fox must die at its edge.  Did you know what you were hiding when you covered for that girl?
+ແມ່ນແລ້ວ. ແຕ່ຂ້ອຍຕ້ອງກູ້ຢືມມັນ ສໍາ ລັບພາລະກິດສຸດທ້າຍຫນຶ່ງ. ເຈດ ຟອກສ໌ຕ້ອງຕາຍຢູ່ແຄມຂອງມັນ
+. ເຈົ້າຮູ້ວ່າເຈົ້າ ກໍາ ລັງເຊື່ອງຫຍັງໃນເວລາທີ່ເຈົ້າປົກປ້ອງເດັກຍິງນັ້ນບໍ?
+
+305
+00:19:35,500 --> 00:19:41,500
+[YU]
+My job was to get the sword back, without embarassing anyone.  I wasn't about to ruin her life, or her father's.
+ວຽກງານຂອງຂ້ອຍແມ່ນເພື່ອເອົາກະທູ້ຄືນ, ໂດຍບໍ່ຕ້ອງເຮັດໃຫ້ໃຜໂຊກຮ້າຍ
+. ຂ້ອຍບໍ່ໄດ້ ກໍາ ລັງຈະ ທໍາ ລາຍຊີວິດຂອງນາງ, ຫຼືຂອງພໍ່ຂອງນາງ.
+
+306
+00:19:42,000 --> 00:19:46,550
+[LI]
+You did your job well.  But, this girl... I saw her last night.
+ເຈົ້າເຮັດວຽກຂອງຕົນຢ່າງດີ. ແຕ່,
+ເດັກຍິງຄົນນີ້... ຂ້ອຍເຫັນນາງໃນມື້ວານນີ້.
+
+307
+00:19:47,050 --> 00:19:49,150
+[YU]
+I knew she would intrigue you.
+ຂ້ອຍຮູ້ວ່ານາງຈະເຮັດໃຫ້ເຈົ້າສົນໃຈ.
+
+308
+00:19:49,650 --> 00:19:51,650
+[LI]
+She needs direction... and training.
+ນາງຕ້ອງການທິດທາງ... ແລະການຝຶກອົບຮົມ.
+
+309
+00:19:52,150 --> 00:19:58,150
+[YU]
+She's an aristocrat's daughter. She's not one of us.  In any case, it will all be over soon.  You'll kill Fox, and she'll marry.
+ນາງເປັນລູກສາວຂອງຄົນຮັ່ງມີ. ນາງບໍ່ແມ່ນຄົນ ຫນຶ່ງ ໃນພວກເຮົາ. ໃນກໍລະນີໃດກໍ່ຕາມ
+, ມັນທັງ ຫມົດ ຈະສິ້ນສຸດລົງໃນໄວໆນີ້. ເຈົ້າຈະຂ້າຟອກສ໌, ແລະນາງຈະແຕ່ງງານ.
+
+310
+00:19:58,650 --> 00:20:03,200
+[LI]
+That's not for her.  She should come to Wudan and become a disciple.
+ນັ້ນບໍ່ແມ່ນສໍາລັບນາງ. ນາງຄວນມາວູດານແລະກາຍເປັນນັກຮຽນ.
+
+311
+00:20:03,700 --> 00:20:05,800
+[YU]
+But Wudan does not accept women.
+ແຕ່ວູດານບໍ່ຍອມຮັບແມ່ຍິງ.
+
+312
+00:20:06,300 --> 00:20:11,900
+[LI]
+For her, they might make an exception.  If not, I'm afraid she'll become a poisoned dragon.
+ສໍາລັບນາງ, ພວກເຂົາອາດຈະເຮັດຂໍ້ຍົກເວັ້ນ. ຖ້າບໍ່ດັ່ງນັ້ນ
+, ຂ້ອຍຢ້ານວ່ານາງຈະກາຍເປັນດຣາກອນທີ່ເປັນພິດ.
+
+313
+00:20:12,400 --> 00:20:16,950
+[YU]
+It's not our affair.  Even if Wudan accepts her, her husband might object.
+ມັນບໍ່ແມ່ນເລື່ອງຂອງພວກເຮົາ.
+ເຖິງແມ່ນວ່າວູດານຈະຍອມຮັບນາງ, ຜົວຂອງນາງອາດຈະຄັດຄ້ານ.
+
+314
+00:20:17,450 --> 00:20:23,450
+[LI]
+I thought by giving away the sword, I could escape the Giang Hu world. But the cycle of bloodshed continues.
+ຂ້ອຍຄິດວ່າໂດຍການໃຫ້ກະທູ້, ຂ້ອຍສາມາດຫນີຈາກໂລກຈຽນຮູໄດ້
+. ແຕ່ວົງຈອນການໄຫຼເລືອດຍັງສືບຕໍ່.
+
+315
+00:20:23,950 --> 00:20:28,150
+[YU]
+I wish there were something more I could do to help you.
+ຂ້ອຍຢາກມີບາງສິ່ງບາງຢ່າງອີກທີ່ຂ້ອຍສາມາດເຮັດໄດ້ເພື່ອຊ່ວຍເຈົ້າ.
+
+316
+00:20:28,650 --> 00:20:31,100
+[LI]
+Just be patient with me, Shu Lien.
+ພຽງແຕ່ມີຄວາມອົດທົນກັບຂ້ອຍ, ຊູ ລຽນ.
+
+317
+00:20:31,600 --> 00:20:33,600
+[JEN]
+Lo?
+ໂລ?
+
+318
+00:20:34,100 --> 00:20:36,100
+[LO]
+Jen!
+ເຈນ!
+
+319
+00:20:36,600 --> 00:20:38,600
+[JEN]
+You shouldn't have come.
+ເຈົ້າບໍ່ຄວນມາ.
+
+320
+00:20:39,100 --> 00:20:45,100
+[LO]
+With all the traffic on your rooftop these days... it took me a while to get in here.  I can't wait any longer.  I was wrong to let you go.  Come back with me.  You'll be happy in the desert.  You'll be free there.
+ດ້ວຍການຈະລາຈອນທັງ ຫມົດ ຢູ່ເທິງເຮືອນຫລັງຂອງທ່ານໃນມື້ນີ້... ມັນໃຊ້ເວລາຂ້ອຍບາງຊົ່ວຄາວເພື່ອເຂົ້າມາບ່ອນນີ້.
+ຂ້ອຍບໍ່ສາມາດລໍຖ້າອີກຕໍ່ໄປໄດ້. ຂ້ອຍຜິດທີ່ຈະປ່ອຍເຈົ້າໄປ. ກັບມາກັບຂ້ອຍ. ເຈົ້າຈະມີຄວາມສຸກໃນທະເລຊາຍ. ເຈົ້າຈະເປັນອິດສະຫຼະຢູ່ບ່ອນນັ້ນ.
+
+321
+00:20:45,600 --> 00:20:48,400
+[JEN]
+You've been looking for me all this time?
+ເຈົ້າ ກໍາ ລັງຊອກຫາຂ້ອຍຕະຫຼອດເວລານີ້ບໍ?
+
+322
+00:20:48,900 --> 00:20:50,900
+[MADAM YU]
+Jen... stop playing with it.
+ເຈນ... ຢຸດການຫຼິ້ນກັບມັນ.
+
+323
+00:20:51,400 --> 00:20:53,400
+[JEN]
+I won't break it.
+ຂ້ອຍຈະບໍ່ທໍາລາຍມັນ.
+
+324
+00:20:53,900 --> 00:20:56,350
+[GUARD A]
+It's Dark Cloud!  Dark Cloud is coming!
+ມັນເປັນ Cloud Dark! Cloud Dark ກໍາ ລັງມາ!
+
+325
+00:20:56,850 --> 00:20:59,650
+[MADAM YU]
+Lower the shade, don't let them see you!
+ຫຼຸດເງົາລົງ, ຢ່າໃຫ້ພວກເຂົາເຫັນເຈົ້າ!
+
+326
+00:21:00,150 --> 00:21:02,150
+[DARK CLOUD]
+Don't touch the women!
+ຢ່າຈັບແມ່ຍິງ!
+
+327
+00:21:02,650 --> 00:21:04,650
+[LO]
+Let's go!
+ໄປ!
+
+328
+00:21:05,150 --> 00:21:07,150
+[LO]
+Come get your comb.
+ມາເອົາກະທູ້ຂອງທ່ານ.
+
+329
+00:21:07,650 --> 00:21:09,650
+[LO]
+Hurry back to your mother.
+ກັບຄືນໄປບ່ອນແມ່ຂອງເຈົ້າໄວໆ.
+
+330
+00:21:10,150 --> 00:21:12,150
+[LO]
+She's mine.
+ນາງເປັນຂອງຂ້ອຍ.
+
+331
+00:21:12,650 --> 00:21:14,650
+[LO]
+Let's stop a moment.
+ພວກເຮົາຢຸດຊົ່ວຄາວຫນຶ່ງ.
+
+332
+00:21:15,150 --> 00:21:17,150
+[JEN]
+Give it back!
+ໃຫ້ມັນຄືນ!
+
+333
+00:21:17,650 --> 00:21:22,550
+[LO]
+You're tired.  You need rest.  Your horse needs water.  There's a creek up here.
+ເຈົ້າເມື່ອຍແລ້ວ. ເຈົ້າຕ້ອງການພັກຜ່ອນ.
+ມ້າຂອງທ່ານຕ້ອງການນ້ ໍາ. ມີສາຍນໍ້າຢູ່ເທິງນີ້.
+
+334
+00:21:23,050 --> 00:21:29,050
+[LO]
+Well, there used to be!  What's your name?  I'm Lo.  The Hans call me Dark Cloud.  I'm not that tall or big, but I'm quick as lightning.
+ດີ, ເຄີຍມີ! ຊື່ຂອງທ່ານແມ່ນຫຍັງ? ຂ້ອຍເປັນໂລ. ຊາວຮານສ໌ເອີ້ນຂ້ອຍວ່າ
+Cloud Dark. ຂ້ອຍບໍ່ສູງຫຼືໃຫຍ່ຫຼາຍ, ແຕ່ຂ້ອຍໄວຄືກັບແສງສະຫວ່າງ.
+
+335
+00:21:29,550 --> 00:21:31,550
+[JEN]
+My comb!
+ກະທູ້ຂອງຂ້ອຍ!
+
+336
+00:21:32,050 --> 00:21:38,050
+[LO]
+If you like that arrow, I can make you a bow.  Great for hunting wild chicken.  They're delicious.
+ຖ້າເຈົ້າມັກປືນນັ້ນ, ຂ້ອຍສາມາດເຮັດກະທູ້ໃຫ້ເຈົ້າໄດ້
+. ດີເລີດ ສໍາ ລັບການລ່າໄກ່ປ່າ. ພວກມັນແຊບຫຼາຍ.
+
+337
+00:21:38,550 --> 00:21:43,100
+[LO]
+You need to eat, understand?  Then you'll have the strength to fight. Understand?
+ເຈົ້າຕ້ອງກິນ, ເຂົ້າໃຈບໍ?
+ຫຼັງຈາກນັ້ນເຈົ້າຈະມີຄວາມເຂັ້ມແຂງທີ່ຈະຕໍ່ສູ້. ເຂົ້າໃຈ?
+
+338
+00:21:43,600 --> 00:21:45,600
+[LO]
+You're eating too fast.  Slowly.
+ເຈົ້າກິນໄວເກີນໄປ. ຊ້າໆ.
+
+339
+00:21:46,100 --> 00:21:49,250
+[LO]
+You've got quite a temper.  It's better this way.
+ເຈົ້າມີຄວາມໂຊກຮ້າຍຫຼາຍ. ມັນດີກວ່າແບບນີ້.
+
+340
+00:21:49,750 --> 00:21:51,750
+[JEN]
+You coward!
+ເຈົ້າເປັນຄົນກ້າຫານ!
+
+341
+00:21:52,250 --> 00:21:56,450
+[LO]
+Still in a bad mood?  At least you're speaking.  What's your name?
+ຍັງຢູ່ໃນອາລົມບໍ່ດີບໍ? ຢ່າງຫນ້ອຍເຈົ້າ
+ກໍາ ລັງເວົ້າ. ຊື່ເຈົ້າແມ່ນຫຍັງ?
+
+342
+00:21:56,950 --> 00:22:00,100
+[LO]
+I didn't think the Hans had names like that.
+ຂ້ອຍບໍ່ຄິດວ່າຮານສ໌ມີຊື່ແບບນັ້ນ.
+
+343
+00:22:00,600 --> 00:22:06,600
+[LO]
+Relax.  If I had wanted to, I would already have done it.  You must be dying for a bath.  Fresh water's hard to get here.  But I managed to bring some up.  You can wear my clothes when you're done.  They're clean.  Don't worry.  I'll sing, so you'll know where I am.  After the bath, you'll be calmer.
+ສະບາຍໃຈ. ຖ້າຂ້ອຍຢາກ, ຂ້ອຍຈະເຮັດມັນແລ້ວ. ເຈົ້າຕ້ອງຕາຍເພື່ອອາບນ້ ໍາ. ນ້ ໍາ ສະອາດຍາກທີ່ຈະມາບ່ອນນີ້. ແຕ່ຂ້ອຍສາມາດເອົາບາງຢ່າງຂຶ້ນມາໄດ້.
+ເຈົ້າສາມາດໃສ່ເຄື່ອງນຸ່ງຂອງຂ້ອຍໄດ້ເມື່ອເຈົ້າເຮັດແລ້ວ. ພວກເຂົາສະອາດ. ຢ່າກັງວົນ. ຂ້ອຍຈະຮ້ອງເພງ, ສະນັ້ນເຈົ້າຈະຮູ້ວ່າຂ້ອຍຢູ່ໃສ. ຫຼັງຈາກອາບນໍ້າ, ເຈົ້າຈະສະຫງົບກວ່າເກົ່າ.
+
+344
+00:22:07,100 --> 00:22:11,300
+[LO]
+No more hitting on the head!  All this trouble for a comb?
+ບໍ່ຕ້ອງຕີຫົວອີກຕໍ່ໄປ! ຄວາມຫຍຸ້ງຍາກທັງ ຫມົດ ນີ້ ສໍາ ລັບກະດູກບໍ?
+
+345
+00:22:11,800 --> 00:22:16,700
+[JEN]
+It's mine.  It means a lot to me. A barbarian like you wouldn't understand.
+ມັນເປັນຂອງຂ້ອຍ. ມັນຫມາຍຄວາມຫຼາຍຕໍ່ຂ້ອຍ
+. ຄົນໂຊກຮ້າຍເຊັ່ນເຈົ້າຈະບໍ່ເຂົ້າໃຈ.
+
+346
+00:22:17,200 --> 00:22:21,400
+[LO]
+Not true.  I can use it to pick fleas from my horse.
+ບໍ່ເປັນຄວາມຈິງ. ຂ້ອຍສາມາດໃຊ້ມັນເພື່ອເອົາ fleas ຈາກມ້າຂອງຂ້ອຍໄດ້.
+
+347
+00:22:21,900 --> 00:22:24,350
+[JEN]
+By the way, I'm a real Manchurian.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍເປັນຄົນແມນຈູເຣຍແທ້ໆ.
+
+348
+00:22:24,850 --> 00:22:28,700
+[LO]
+I'm sorry... I guessed wrong.  I though you were a Han.
+ຂ້ອຍຂໍໂທດ... ຂ້ອຍຄິດຜິດ. ຂ້ອຍຄິດວ່າເຈົ້າເປັນຄົນຮານ.
+
+349
+00:22:29,200 --> 00:22:31,200
+[JEN]
+Give me back my comb.
+ໃຫ້ຂ້ອຍຟື້ນຟູກະດານຂອງຂ້ອຍ.
+
+350
+00:22:31,700 --> 00:22:33,800
+[LO]
+I don't take orders from anyone.
+ຂ້ອຍບໍ່ຮັບຄໍາສັ່ງຈາກໃຜເລີຍ.
+
+351
+00:22:34,300 --> 00:22:36,300
+[JEN]
+Give it back.
+ໃຫ້ມັນຄືນ.
+
+352
+00:22:36,800 --> 00:22:42,800
+[LO]
+When I was a boy, one night, I saw a thousand shooting stars.  I thought, where did they all go? I'm an orphan.  I used to look for stars alone.  I thought if I rode to the other end of the desert, I'd find them.  I've been riding in the desert ever since.
+ເມື່ອຂ້ອຍເປັນເດັກຊາຍ, ໃນຄືນຫນຶ່ງ, ຂ້ອຍເຫັນດາວຕົກພັນດາວ. ຂ້ອຍຄິດວ່າ, ພວກເຂົາທັງ ຫມົດ ໄປໃສ? ຂ້ອຍເປັນເດັກເຖົ້າ
+. ຂ້ອຍເຄີຍຊອກຫາດາວຄົນດຽວ. ຂ້ອຍ ຄິດວ່າຖ້າຂ້ອຍຂີ່ໄປທາງອື່ນຂອງທະເລຊາຍ, ຂ້ອຍຈະພົບພວກມັນ. ຂ້ອຍຂີ່ຢູ່ໃນທະເລ since.
+
+353
+00:22:43,300 --> 00:22:49,300
+[JEN]
+And so, the little boy became a fearsome bandit.  He couldn't find the stars, so he stole my comb.
+ແລະດັ່ງນັ້ນ, ເດັກຊາຍນ້ອຍໄດ້ກາຍເປັນຄົນຮ້າຍທີ່ຢ້ານກົວ.
+ລາວບໍ່ສາມາດຊອກຫາດາວໄດ້, ສະນັ້ນລາວໄດ້ລັກກະດານຂອງຂ້ອຍ.
+
+354
+00:22:49,800 --> 00:22:55,800
+[LO]
+Out here, you always fight for survival.  You have to be part of a gang to stand a chance.  Slowly, your gang becomes your family.  All that Dark Cloud stuff is just to scare people and make my life easier.
+ຢູ່ບ່ອນນີ້, ເຈົ້າຕໍ່ສູ້ເພື່ອຢູ່ລອດຢູ່ສະເຫມີ. ເຈົ້າຕ້ອງເປັນສ່ວນ ຫນຶ່ງ ຂອງກຸ່ມເພື່ອມີໂອກາດ. ຊ້າໆ,
+ກຸ່ມຂອງທ່ານກາຍເປັນຄອບຄົວຂອງທ່ານ. ສິ່ງທັງ ຫມົດ ຂອງ Cloud Dark ແມ່ນພຽງແຕ່ເພື່ອຢ້ານກົວຄົນແລະເຮັດໃຫ້ຊີວິດຂອງຂ້ອຍງ່າຍຂຶ້ນ.
+
+355
+00:22:56,300 --> 00:22:59,800
+[JEN]
+So you're still that little boy looking for shooting stars.
+ສະນັ້ນເຈົ້າຍັງເປັນເດັກຊາຍນ້ອຍທີ່ ກໍາ ລັງຊອກຫາດາວທີ່ຕົກລົງ.
+
+356
+00:23:00,300 --> 00:23:04,850
+[LO]
+I am a man.  And now I've found the brightest star of all.
+ຂ້ອຍເປັນຜູ້ຊາຍ. ແລະດຽວນີ້ຂ້ອຍໄດ້ພົບດາວທີ່ສົດໃສທີ່ສຸດຂອງທັງ ຫມົດ.
+
+357
+00:23:05,350 --> 00:23:07,800
+[LO]
+Your father's men are looking for you.
+ພວກຜູ້ຊາຍຂອງພໍ່ເຈົ້າ ກໍາ ລັງຊອກຫາເຈົ້າ.
+
+358
+00:23:08,300 --> 00:23:13,200
+[LO]
+Your father's men are still looking for you.  They're still out there, circling closer.
+ພວກຜູ້ຊາຍຂອງພໍ່ເຈົ້າຍັງ ກໍາ ລັງຊອກຫາເຈົ້າຢູ່
+. ພວກເຂົາຍັງຢູ່ພາຍນອກນັ້ນ, ຫມູນ ວຽນໃກ້ຊິດ.
+
+359
+00:23:13,700 --> 00:23:15,700
+[JEN]
+Let them look.
+ໃຫ້ພວກເຂົາເບິ່ງ.
+
+360
+00:23:16,200 --> 00:23:18,200
+[LO]
+It is trouble for me.
+ມັນເປັນຄວາມຫຍຸ້ງຍາກ ສໍາ ລັບຂ້ອຍ.
+
+361
+00:23:18,700 --> 00:23:20,700
+[JEN]
+Don't send me back!
+ຢ່າສົ່ງຂ້ອຍກັບມາ!
+
+362
+00:23:21,200 --> 00:23:27,200
+[LO]
+You must decide.  You might get tired of this life.  You might begin to miss your family.  If it were our daughter, we'd look for her too.  She would miss us.  Jen... I want you to be mine forever.  I will make my mark on the world.  I will earn your parents' respect. We have a legend.  Anyone who dares to jump from the mountain, God will grant his wish.  Long ago, a young man's parents were ill, so he jumped.  He didn't die.  He wasn't even hurt.  He floated away, far away, never to return.  He knew his wish had come true.  If you believe, it will happen.  The elders say, "A faithful heart makes wishes come true."
+ເຈົ້າຕ້ອງຕັດສິນໃຈ. ເຈົ້າອາດຈະເມື່ອຍຈາກຊີວິດນີ້. ເຈົ້າອາດເລີ່ມຂາດຄອບຄົວຂອງທ່ານ. ຖ້າມັນເປັນລູກສາວຂອງພວກເຮົາ, ພວກເຮົາຈະຊອກຫານາງເຊັ່ນກັນ. ນາງຈະຂາດພວກເຮົາ. ເຈນ... ຂ້ອຍຢາກໃຫ້ເຈົ້າເປັນຂອງຂ້ອຍຕະຫຼອດໄປ.
+ຂ້ອຍຈະເຮັດເຄື່ອງຫມາຍຂອງຂ້ອຍໃນໂລກ. ຂ້ອຍຈະມີຄວາມເຄົາລົບຂອງພໍ່ແມ່ຂອງທ່ານ. ພວກເຮົາມີນິທານ. ໃຜທີ່ກ້າທີ່ຈະໂດດຈາກພູເຂົາ, ພຣະເຈົ້າຈະຕອບສະ ຫນອງ ຄວາມປາຖະຫນາຂອງລາວ. ດົນນານແລ້ວ, ພໍ່ແມ່ຂອງຜູ້ຊາຍຫນຸ່ມເຈັບປ່ວຍ, ສະນັ້ນລາວໂດດ. ລາວບໍ່ໄດ້ຕາຍ
+
+363
+00:23:27,700 --> 00:23:31,900
+[JEN]
+Keep it safe.  Return it to me when we are together again.
+ຮັກສາມັນໄວ້ຢ່າງປອດໄພ.
+ເອົາມັນກັບມາໃຫ້ຂ້ອຍເມື່ອພວກເຮົາຢູ່ຮ່ວມກັນອີກຄັ້ງ.
+
+364
+00:23:32,400 --> 00:23:34,400
+[LO]
+I will.
+ຂ້ອຍຈະເຮັດ.
+
+365
+00:23:34,900 --> 00:23:40,150
+[JEN]
+If you don't, I'll come after you. And I won't let you off so easy.
+ຖ້າເຈົ້າບໍ່ເຮັດ, ຂ້ອຍຈະມາຕາມເຈົ້າ.
+ແລະຂ້ອຍຈະບໍ່ປ່ອຍເຈົ້າອອກໄປງ່າຍດາຍຫຼາຍ.
+
+366
+00:23:40,650 --> 00:23:46,650
+[LO]
+Wherever I went, someone always recognized me.  I really tried. Later, I heard you came to Peking. I was afraid I'd never see you again.  So I came.  I can't let you marry.
+ຂ້ອຍໄປໃສກໍ່ຕາມ, ບາງຄົນຮູ້ຂ້ອຍຢູ່ສະເຫມີ. ຂ້ອຍພະຍາຍາມແທ້ໆ. ຕໍ່ມາ, ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າມາປັກກິ່ງ.
+ຂ້ອຍຢ້ານວ່າຂ້ອຍຈະບໍ່ເຫັນເຈົ້າອີກເທື່ອຫນຶ່ງ. ສະນັ້ນຂ້ອຍມາ. ຂ້ອຍບໍ່ສາມາດປ່ອຍໃຫ້ເຈົ້າແຕ່ງງານໄດ້.
+
+367
+00:23:47,150 --> 00:23:49,150
+[JEN]
+Go.
+ໄປ.
+
+368
+00:23:49,650 --> 00:23:51,650
+[LO]
+Jen...
+ເຈນ...
+
+369
+00:23:52,150 --> 00:23:54,150
+[JEN]
+Don't ever come back.
+ຢ່າກັບມາເລີຍ.
+
+370
+00:23:54,650 --> 00:23:56,650
+[LO]
+So it's over?
+ສະນັ້ນມັນຫມົດແລ້ວບໍ?
+
+371
+00:23:57,150 --> 00:23:59,150
+[JEN]
+Yes.
+ແມ່ນແລ້ວ.
+
+372
+00:23:59,650 --> 00:24:01,650
+[MAID]
+We heard noises.
+ພວກເຮົາໄດ້ຍິນສຽງດັງ.
+
+373
+00:24:02,150 --> 00:24:04,150
+[JEN]
+It was just a cat.
+ມັນເປັນພຽງແຕ່ແມວເທົ່ານັ້ນ.
+
+374
+00:24:04,650 --> 00:24:07,100
+[YU]
+You think Jade Fox will show up?
+ເຈົ້າຄິດວ່າເຈດ ຟອກສ໌ຈະປາກົດຕົວບໍ?
+
+375
+00:24:07,600 --> 00:24:13,600
+[LI]
+She's out there, but I doubt she'll show herself.  We'll keep our eyes open.  Sooner or later, she'll come for the girl.
+ນາງຢູ່ບ່ອນນັ້ນ, ແຕ່ຂ້ອຍສົງໄສວ່ານາງຈະສະແດງຕົວເອງ.
+ພວກເຮົາຈະເປີດຕາຂອງພວກເຮົາ. ກ່ອນຫຼືຫຼ້າສຸດ, ນາງຈະມາຫາເດັກຍິງ.
+
+376
+00:24:14,100 --> 00:24:16,200
+[LO]
+Jen!  Come with me!  You're mine!
+ເຈນ! ມາກັບຂ້ອຍ! ເຈົ້າເປັນຂອງຂ້ອຍ!
+
+377
+00:24:16,700 --> 00:24:21,250
+[LO]
+Come with me to the desert!  Jen! Come with me to Xin Jiang!
+ມາພ້ອມກັບຂ້ອຍໄປທະເລຊາຍ! ເຈນ! ມາພ້ອມຂ້ອຍໄປຊິນຈຽງ!
+
+378
+00:24:21,750 --> 00:24:23,750
+[LI]
+Where is Jade Fox?
+ເຈດ ຟອກສ໌ຢູ່ໃສ?
+
+379
+00:24:24,250 --> 00:24:26,250
+[YU]
+Come with me!  Hurry!
+ມາກັບຂ້ອຍ! ໄວ!
+
+380
+00:24:26,750 --> 00:24:31,300
+[YU]
+You thought she'd give it all up and go back West with you?
+ເຈົ້າຄິດວ່ານາງຈະປະຖິ້ມທຸກຢ່າງແລະກັບຄືນໄປຕາເວັນຕົກກັບເຈົ້າບໍ?
+
+381
+00:24:31,800 --> 00:24:33,800
+[LO]
+She's mine.
+ນາງເປັນຂອງຂ້ອຍ.
+
+382
+00:24:34,300 --> 00:24:40,300
+[LI]
+Either way, you are no good to her dead.  With the Gou and Yu clans hunting you, you'll soon be in their hands.
+ຢ່າງໃດກໍຕາມ, ເຈົ້າບໍ່ມີປະໂຫຍດຕໍ່ຄົນຕາຍຂອງນາງ. ດ້ວຍຄອບຄົວກູແລະຢູ
+ກໍາ ລັງລ່າເຈົ້າ, ເຈົ້າຈະຢູ່ໃນມືຂອງພວກເຂົາໃນໄວໆນີ້.
+
+383
+00:24:40,800 --> 00:24:42,800
+[LO]
+I don't care anymore.
+ຂ້ອຍບໍ່ສົນໃຈອີກແລ້ວ.
+
+384
+00:24:43,300 --> 00:24:46,450
+[LI]
+If you truly loved her, you wouldn't say that.
+ຖ້າເຈົ້າຮັກນາງແທ້ໆ, ເຈົ້າຈະບໍ່ເວົ້າແບບນັ້ນ.
+
+385
+00:24:46,950 --> 00:24:49,400
+[YU]
+Don't you want to see her again.
+ເຈົ້າບໍ່ຢາກເຫັນນາງອີກບໍ.
+
+386
+00:24:49,900 --> 00:24:55,850
+[LI]
+All right.  I'll write you an introduction.  Take it to Wudan. Wait there for news from me.
+ດີແລ້ວ. ຂ້ອຍຈະຂຽນການ ນໍາ ສະ ເຫນີ ໃຫ້ເຈົ້າ.
+ເອົາມັນໄປວູດານ. ລໍຖ້າຂ່າວຈາກຂ້ອຍຢູ່ບ່ອນນັ້ນ.
+
+387
+00:24:56,350 --> 00:24:58,350
+[LO]
+All right.
+ດີແລ້ວ.
+
+388
+00:24:58,850 --> 00:25:04,850
+[SIR TE]
+When will this end?  They take it, they put it back, they take it again.  My home is turning into a warehouse.
+ເລື່ອງນີ້ຈະສິ້ນສຸດລົງເມື່ອໃດ? ພວກເຂົາເອົາມັນ, ພວກເຂົາວາງມັນກັບຄືນໄປບ່ອນ
+, ພວກເຂົາເອົາມັນອີກຄັ້ງ. ເຮືອນຂອງຂ້ອຍ ກໍາ ລັງກາຍເປັນຮ້ານເກັບມ້ຽນ.
+
+389
+00:25:05,350 --> 00:25:07,350
+[TE]
+Speak!
+ເວົ້າ!
+
+390
+00:25:07,850 --> 00:25:13,850
+[BO]
+Jen has run away!  Gou found the wedding chamber empty.  Governor Yu requests your assistance.  You know the Giang Hu underworld.  He wants to find her, and keep her from harm.
+ເຈນໄດ້ຫນີໄປແລ້ວ! ກູພົບຫ້ອງແຕ່ງງານເປົ່າ. ຜູ້ປົກຄອງຢູຂໍຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ
+. ທ່ານຮູ້ຈັກໂລກໃຕ້ດິນຈຽງຮູ. ລາວຢາກຊອກຫານາງ, ແລະຮັກສານາງຈາກຄວາມເສຍຫາຍ.
+
+391
+00:25:14,350 --> 00:25:17,150
+[LI]
+Sir Te, leave this to us.  Don't worry.
+ເຈົ້າເທ, ໃຫ້ສິ່ງນີ້ໃຫ້ພວກເຮົາ. ຢ່າກັງວົນ.
+
+392
+00:25:17,650 --> 00:25:19,650
+[WAITRESS]
+What can I serve you?
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ແນວໃດ?
+
+393
+00:25:20,150 --> 00:25:22,150
+[JEN]
+The cup is dirty.
+ຈອກເປື້ອນ.
+
+394
+00:25:22,650 --> 00:25:24,650
+[GANGSTER A]
+Hello.  What is your name?
+ສະບາຍດີ. ຊື່ເຈົ້າແມ່ນຫຍັງ?
+
+395
+00:25:25,150 --> 00:25:27,150
+[JEN]
+Long.
+ຍາວນານ.
+
+396
+00:25:27,650 --> 00:25:33,650
+[GANGSTER B]
+It's young Master Long.  My apologies.  I'm Iron Eagle Sung and this is my brother in arms, Flying Cougar Li Yun.  What brings you to Huai An, and where are you headed, Master Long?
+ຄຸເຂົ່າລົງ
+
+397
+00:25:34,150 --> 00:25:36,150
+[JEN]
+Anywhere there's action.
+ທຸກບ່ອນທີ່ມີການກະທໍາ.
+
+398
+00:25:36,650 --> 00:25:39,800
+[GANGSTER A]
+In that case, perhaps we could be of assistance.
+ໃນກໍລະນີນັ້ນ, ບາງທີພວກເຮົາສາມາດຊ່ວຍໄດ້.
+
+399
+00:25:40,300 --> 00:25:42,300
+[JEN]
+Don't bother.
+ຢ່າກັງວົນ.
+
+400
+00:25:42,800 --> 00:25:44,800
+[GANGSTER A]
+You don't seem to understand.
+ເຈົ້າເບິ່ງຄືວ່າບໍ່ເຂົ້າໃຈ.
+
+401
+00:25:45,300 --> 00:25:47,300
+[JEN]
+So what if I don't?
+ສະນັ້ນຖ້າຂ້ອຍບໍ່ເຮັດແນວໃດ?
+
+402
+00:25:47,800 --> 00:25:50,250
+[GANGSTER B]
+We have ways of helping you understand.
+ພວກເຮົາມີວິທີທີ່ຈະຊ່ວຍເຈົ້າເຂົ້າໃຈ.
+
+403
+00:25:50,750 --> 00:25:53,200
+[GANGSTER A]
+Are you related to Li Mu Bai?
+ເຈົ້າເປັນຍາດພີ່ນ້ອງກັບລີ ມູ ບາຍບໍ?
+
+404
+00:25:53,700 --> 00:25:55,700
+[JEN]
+He is my defeated foe!
+ລາວເປັນສັດຕູທີ່ຖືກເອົາຊະນະຂອງຂ້ອຍ!
+
+405
+00:25:56,200 --> 00:25:58,200
+[YU]
+Have some tea.
+ດື່ມຊາ.
+
+406
+00:25:58,700 --> 00:26:04,700
+[LI]
+Shu Lien... The things we touch have no permanence.  My master would say... there is nothing we can hold on to in this world.  Only by letting go can we truly possess what is real.
+ຊູ ລິນ... ສິ່ງຕ່າງໆທີ່ພວກເຮົາຈັບບໍ່ມີຄວາມຖາວອນ. ເຈົ້າຂອງຂ້ອຍຈະເວົ້າວ່າ...
+ບໍ່ມີຫຍັງທີ່ພວກເຮົາສາມາດຖືໄດ້ໃນໂລກນີ້. ພຽງແຕ່ໂດຍການປ່ອຍໄປພວກເຮົາສາມາດເປັນເຈົ້າຂອງສິ່ງທີ່ແທ້ຈິງໄດ້.
+
+407
+00:26:05,200 --> 00:26:08,700
+[YU]
+Not everything is an illusion.  My hand... wasn't that real?
+ບໍ່ແມ່ນທຸກຢ່າງແມ່ນຄວາມຜິດພາດ. ມືຂອງຂ້ອຍ... ມັນບໍ່ແມ່ນຄວາມຈິງບໍ?
+
+408
+00:26:09,200 --> 00:26:15,200
+[LI]
+Your hand, rough and callused from machete practice... All this time, I've never had the courage to touch it.
+ມືຂອງທ່ານ, ຮຸນແຮງແລະ callused ຈາກການຝຶກຊ້ອມ machete.
+.. ຕະຫຼອດເວລານີ້, ຂ້ອຍບໍ່ເຄີຍມີຄວາມກ້າຫານທີ່ຈະຈັບມັນ.
+
+409
+00:26:15,700 --> 00:26:21,700
+[LI]
+Giang Hu is a world of tigers and dragons, full of corruption... I tried sincerely to give it up but I have brought us only trouble.
+ຈຽນຮູແມ່ນໂລກຂອງແມວແລະດຣາກອນ, ເຕັມໄປດ້ວຍການສໍ້ລາດບັງຫຼວງ...
+ຂ້ອຍພະຍາຍາມໃຫ້ມັນໄວ້ຢ່າງຈິງໃຈແຕ່ຂ້ອຍໄດ້ເຮັດໃຫ້ພວກເຮົາມີພຽງແຕ່ຄວາມຫຍຸ້ງຍາກເທົ່ານັ້ນ.
+
+410
+00:26:22,200 --> 00:26:25,000
+[YU]
+To repress one's feelings only makes them stronger.
+ການຄວບຄຸມຄວາມຮູ້ສຶກຂອງຄົນອື່ນພຽງແຕ່ເຮັດໃຫ້ພວກເຂົາແຂງແຮງຂຶ້ນເທົ່ານັ້ນ
+.
+
+411
+00:26:25,500 --> 00:26:31,500
+[LI]
+You're right, but I don't know what to do.  I want to be with you... just like this.  It gives me a sense of peace.
+ເຈົ້າເວົ້າຖືກຕ້ອງ, ແຕ່ຂ້ອຍບໍ່ຮູ້ວ່າຈະເຮັດຫຍັງ. ຂ້ອຍຢາກຢູ່ກັບເຈົ້າ
+... ພຽງແຕ່ແບບນີ້. ມັນເຮັດໃຫ້ຂ້ອຍມີຄວາມຮູ້ສຶກສັນຕິພາບ.
+
+412
+00:26:32,000 --> 00:26:34,000
+[WAITER]
+Please follow me.
+ກະລຸນາຕິດຕາມຂ້ອຍ.
+
+413
+00:26:34,500 --> 00:26:36,500
+[JEN]
+I want a clean room.
+ຂ້ອຍຢາກຫ້ອງສະອາດ.
+
+414
+00:26:37,000 --> 00:26:39,000
+[WAITER]
+We have plenty.  Your order?
+ພວກເຮົາມີຫຼາຍ. ຄໍາ ສັ່ງຂອງທ່ານບໍ?
+
+415
+00:26:39,500 --> 00:26:45,500
+[JEN]
+Steamed whole cod, bite-size meatballs, a little starchy, but keep the sauce light, shark fin soup, mixed vegetables, and some warm wine.
+ຄຸເຂົ່າລົງ
+
+416
+00:26:46,000 --> 00:26:48,800
+[WAITER]
+I have to order from a bigger restaurant.
+ຂ້ອຍຕ້ອງສັ່ງຈາກຮ້ານອາຫານທີ່ໃຫຍ່ກວ່າ.
+
+417
+00:26:49,300 --> 00:26:51,300
+[JEN]
+Hurry then.
+ແລ້ວໄວໆ.
+
+418
+00:26:51,800 --> 00:26:53,800
+[GIANG HU A]
+That's him.
+ນັ້ນແມ່ນລາວ.
+
+419
+00:26:54,300 --> 00:27:00,300
+[MI BIAO]
+I am Iron Arm Mi.  I heard a true master has arrived.  I have come to seek a lesson.
+ຂ້ອຍເປັນແຂນເຫຼັກມິ.
+ຂ້ອຍໄດ້ຍິນວ່າຄູສອນທີ່ແທ້ຈິງໄດ້ມາຮອດ. ຂ້ອຍມາຊອກຫາບົດຮຽນ.
+
+420
+00:27:00,800 --> 00:27:02,800
+[MI BIAO]
+You asked for it!
+ເຈົ້າຂໍມັນ!
+
+421
+00:27:03,300 --> 00:27:05,750
+[JEN]
+What kind of Iron Arm are you?
+ເຈົ້າເປັນແຂນເຫຼັກປະເພດໃດ?
+
+422
+00:27:06,250 --> 00:27:11,150
+[FLYING MACHETE CHANG]
+You have amazing technique!  I am Flying Machete.  Are you related to Southern Crane?
+ເຈົ້າມີເຕັກນິກທີ່ຍິ່ງໃຫຍ່! ຂ້ອຍເປັນ Machete
+Flying. ເຈົ້າກ່ຽວຂ້ອງກັບ Southern Crane ບໍ?
+
+423
+00:27:11,650 --> 00:27:16,900
+[JEN]
+Southern Duck?  I don't eat anything with two feet.  Who could remember such long-winded names?
+ແມວພາກໃຕ້? ຂ້ອຍບໍ່ກິນຫຍັງດ້ວຍສອງຕີນ.
+ໃຜສາມາດຈື່ຊື່ທີ່ມີລົມຍາວແບບນັ້ນໄດ້?
+
+424
+00:27:17,400 --> 00:27:22,650
+[GOU JUN SIHUNG]
+Li Mu Bai is your defeated foe, and you don't know his master, Southern Crane?
+ລີ ມູ ບາຍ ແມ່ນສັດຕູທີ່ຖືກເອົາຊະນະຂອງທ່ານ
+, ແລະທ່ານບໍ່ຮູ້ຈັກເຈົ້າຂອງລາວ, ຄຣານໃຕ້ບໍ?
+
+425
+00:27:23,150 --> 00:27:25,150
+[JEN]
+Who are you?
+ເຈົ້າເປັນໃຜ?
+
+426
+00:27:25,650 --> 00:27:27,650
+[GOU JUN SIHUNG]
+I'm Shining Phoenix Mountain Gou.
+ຂ້ອຍກໍາລັງສ່ອງແສງພູຟີນິກສ໌ ກູ.
+
+427
+00:27:28,150 --> 00:27:34,150
+[JEN]
+Gou?  I hate that name.  It makes me puke!  Too bad you're named Gou. You'll be the first to feel my sword today.
+ກູ? ຂ້ອຍກຽດຊັງຊື່ນັ້ນ. ມັນເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍ! ໂຊກເສຍໃຈວ່າເຈົ້າມີຊື່ວ່າ
+ກູ. ເຈົ້າຈະເປັນຄົນ ທໍາ ອິດທີ່ຈະຮູ້ສຶກປືນຂອງຂ້ອຍໃນມື້ນີ້.
+
+428
+00:27:34,650 --> 00:27:37,100
+[MONK JING]
+Hold it!  Don't you know Monk Jing?
+ຢືນຢັນ! ເຈົ້າບໍ່ຮູ້ຈັກພະສົງຈິງບໍ?
+
+429
+00:27:37,600 --> 00:27:41,450
+[JEN]
+A monk, in a place like this?  You need a lesson!
+ເຈົ້າຕ້ອງການບົດຮຽນ!
+
+430
+00:27:41,950 --> 00:27:43,950
+[MONK JING]
+Who are you?
+ເຈົ້າເປັນໃຜ?
+
+431
+00:27:44,450 --> 00:27:50,450
+[JEN]
+Who am I?  I am... I am the Invincible Sword Goddess.  Armed with the Incredible... Green Destiny.  Be you Li or Southern Crane... lower your head... and ask for mercy.  I am the desert dragon. I leave no trace.  Today I fly over Eu-Mei.  Tomorrow... I'll kick over Wudan Mountain!
+ຂ້ອຍເປັນໃຜ? ຂ້ອຍເປັນ... ຂ້ອຍເປັນພະເຈົ້າກະທູ້ທີ່ບໍ່ສາມາດເອົາຊະນະໄດ້. ອາວຸດດ້ວຍຄວາມບໍ່ຍອມຮັບໄດ້... ຈຸດຫມາຍປາຍທາງສີຂຽວ. ເຈົ້າເປັນລີ ຫຼື Crane ໃຕ້
+... ຫຼຸດຫົວຂອງທ່ານ... ແລະຂໍຄວາມເມດຕາ. ຂ້ອຍເປັນດຣາກອນທະເລຊາຍ. ຂ້ອຍບໍ່ປ່ອຍຮ່ອງຮອຍໃດໆ. ມື້ນີ້ຂ້ອຍບິນຜ່ານ Eu-Mei. ມື້ອື່ນ... ຂ້ອຍຈະຕີຜ່ານພູ Wudan!
+
+432
+00:27:50,950 --> 00:27:56,950
+[FLYING MACHETE CHANG]
+We politely asked for a friendly match, but she showed no respect, and attacked us.  Everyone came by to teach her a lesson.
+ພວກເຮົາຂໍການແຂ່ງຂັນມິດຕະພາບຢ່າງກຽດຕິຍົດ,
+ແຕ່ນາງບໍ່ສະແດງຄວາມເຄົາລົບ, ແລະໂຈມຕີພວກເຮົາ. ທຸກຄົນມາສອນນາງບົດຮຽນ.
+
+433
+00:27:57,450 --> 00:27:59,550
+[MI BIAO]
+Her sword was just too powerful.
+ກະທູ້ຂອງນາງພຽງແຕ່ມີຄວາມເຂັ້ມແຂງເກີນໄປ.
+
+434
+00:28:00,050 --> 00:28:03,200
+[MONK JING]
+I've traveled everywhere, but never met anyone so uncivilized.
+ຂ້ອຍໄດ້ເດີນທາງໄປທຸກບ່ອນ, ແຕ່ບໍ່ເຄີຍພົບໃຜທີ່ບໍ່ເປັນວັດທະນະທໍາຫຼາຍ.
+
+435
+00:28:03,700 --> 00:28:08,950
+[SHINING PHOENIX MOUNTAIN GOD]
+She kept accusing me of being Gou Jun Pei's brother.  Who is this Gou, anyway?
+ນາງສືບຕໍ່ກ່າວຫາຂ້ອຍວ່າເປັນອ້າຍຂອງກູ
+ຈຸນ ເພີ. ກູຄົນນີ້ແມ່ນໃຜ, ຢ່າງໃດກໍຕາມ?
+
+436
+00:28:09,450 --> 00:28:11,450
+[YU]
+Her husband.
+ຜົວຂອງນາງ.
+
+437
+00:28:11,950 --> 00:28:15,450
+[LI]
+We're close to your headquarters. Go home and check in.
+ພວກເຮົາຢູ່ໃກ້ກັບສໍານັກງານໃຫຍ່ຂອງທ່ານ. ໄປເຮືອນແລະກວດສອບ.
+
+438
+00:28:15,950 --> 00:28:17,950
+[YU]
+What about you?
+ເຈົ້າແນວໃດ?
+
+439
+00:28:18,450 --> 00:28:20,900
+[LI]
+I'll look around and catch up later.
+ຂ້ອຍຈະເບິ່ງຢູ່ອ້ອມຂ້າງແລະພົບກັນຕໍ່ມາ.
+
+440
+00:28:21,400 --> 00:28:25,950
+[YU]
+Not a bad idea.  Tonight we'll get a good night's sleep at headquarters.
+ບໍ່ເປັນຄວາມຄິດທີ່ບໍ່ດີ. ມື້ນີ້ພວກເຮົາຈະນອນດີໃນຫ້ອງການໃຫຍ່.
+
+441
+00:28:26,450 --> 00:28:28,450
+[SECURITY MAN A]
+Mistress, you're back.
+ເຈົ້າຍິງ, ເຈົ້າກັບມາແລ້ວ.
+
+442
+00:28:28,950 --> 00:28:30,950
+[YU]
+It's you!  How's everything here?
+ມັນເປັນເຈົ້າ! ທຸກຢ່າງຢູ່ບ່ອນນີ້ເປັນແນວໃດ?
+
+443
+00:28:31,450 --> 00:28:33,550
+[CAPTAIN]
+Fine.  You've been gone a while.
+ດີ. ເຈົ້າຫາຍໄປເປັນເວລາດົນນານແລ້ວ.
+
+444
+00:28:34,050 --> 00:28:37,550
+[YU]
+Yes, and I leave again tomorrow. Your wife was due?
+ແມ່ນແລ້ວ, ແລະຂ້ອຍຈະອອກໄປອີກມື້ອື່ນ. ເມຍຂອງທ່ານມີເວລາບໍ?
+
+445
+00:28:38,050 --> 00:28:40,050
+[AH WAI]
+Yeah, a baby girl.
+ແມ່ນແລ້ວ, ເດັກຍິງນ້ອຍ.
+
+446
+00:28:40,550 --> 00:28:42,550
+[YU]
+Good!
+ດີແລ້ວ!
+
+447
+00:28:43,050 --> 00:28:46,550
+[AH WAI]
+I'll be happy if she's half as strong as you.
+ຂ້ອຍຈະມີຄວາມສຸກຖ້ານາງແຂງແຮງເທົ່າກັບເຈົ້າເຄິ່ງຫນຶ່ງ.
+
+448
+00:28:47,050 --> 00:28:49,050
+[YU]
+Mrs. Wu...
+ທ່ານນາງວູ...
+
+449
+00:28:49,550 --> 00:28:51,550
+[AUNT WU]
+You're back!
+ເຈົ້າກັບມາແລ້ວ!
+
+450
+00:28:52,050 --> 00:28:54,050
+[YU]
+How's the arm?  Still sore?
+ຄຸເຂົ່າລົງ
+
+451
+00:28:54,550 --> 00:28:57,000
+[AUNT WU]
+Much better.  You've been gone so long.
+ດີກວ່າຫຼາຍ. ເຈົ້າໄປດົນນານແລ້ວ.
+
+452
+00:28:57,500 --> 00:29:00,650
+[YU]
+Li Mu Bai is coming to stay the night.
+ລີ ມູ ບາຍ ຈະມາພັກເຊົາຄືນນີ້.
+
+453
+00:29:01,150 --> 00:29:03,600
+[AUNT WU]
+I'll go and make up his room!
+ຂ້ອຍຈະໄປເຮັດຫ້ອງຂອງລາວ!
+
+454
+00:29:04,100 --> 00:29:06,100
+[JEN]
+Sister Shu Lien...
+ເອື້ອຍຊູ ລຽນ...
+
+455
+00:29:06,600 --> 00:29:09,050
+[YU]
+Here you must be in proper attire.
+ເຈົ້າຕ້ອງໃສ່ເຄື່ອງນຸ່ງທີ່ ເຫມາະ ສົມຢູ່ບ່ອນນີ້.
+
+456
+00:29:09,550 --> 00:29:12,700
+[JEN]
+I'm just borrowing some clean clothes.  I'm not staying.
+ຂ້ອຍພຽງແຕ່ກູ້ຢືມເຄື່ອງນຸ່ງທີ່ສະອາດບາງຢ່າງ. ຂ້ອຍຈະບໍ່ຢູ່.
+
+457
+00:29:13,200 --> 00:29:15,200
+[YU]
+I'll give them to you.
+ຂ້ອຍຈະໃຫ້ພວກມັນໃຫ້ເຈົ້າ.
+
+458
+00:29:15,700 --> 00:29:19,200
+[JEN]
+I was just passing by and wondered how you were.
+ຂ້ອຍພຽງແຕ່ຜ່ານໄປແລະສົງໄສວ່າເຈົ້າເປັນແນວໃດ.
+
+459
+00:29:19,700 --> 00:29:21,700
+[JEN]
+You, sister...
+ເຈົ້າ, ເອື້ອຍ...
+
+460
+00:29:22,200 --> 00:29:28,200
+[YU]
+Look at the trouble you've caused. Now you know what Giang Hu life is really like.  If you think of me as your sister, let me give you some sisterly advice.  You can run from marriage, but not your parents.
+ເບິ່ງຄວາມຫຍຸ້ງຍາກທີ່ທ່ານໄດ້ເຮັດໃຫ້ເກີດຂຶ້ນ. ດຽວນີ້ເຈົ້າຮູ້ວ່າຊີວິດຈຽນຮູເປັນແນວໃດແທ້ໆ. ຖ້າເຈົ້າຄິດວ່າຂ້ອຍເປັນເອື້ອຍຂອງເຈົ້າ
+, ຂໍໃຫ້ຂ້ອຍໃຫ້ ຄໍາ ແນະ ນໍາ ເອື້ອຍບາງຢ່າງໃຫ້ເຈົ້າ. ເຈົ້າສາມາດຫນີຈາກການແຕ່ງງານໄດ້, ແຕ່ບໍ່ແມ່ນພໍ່ແມ່ຂອງທ່ານ.
+
+461
+00:29:28,700 --> 00:29:30,700
+[JEN]
+They forced me to marry!
+ພວກເຂົາບັງຄັບໃຫ້ຂ້ອຍແຕ່ງງານ!
+
+462
+00:29:31,200 --> 00:29:35,050
+[YU]
+Go back to them first.  Then you can decide about Lo.
+ກັບຄືນໄປບ່ອນພວກເຂົາກ່ອນ. ຫຼັງຈາກນັ້ນເຈົ້າສາມາດຕັດສິນໃຈກ່ຽວກັບໂລ.
+
+463
+00:29:35,550 --> 00:29:37,550
+[JEN]
+You know about Lo?
+ເຈົ້າຮູ້ກ່ຽວກັບໂລບໍ?
+
+464
+00:29:38,050 --> 00:29:42,950
+[YU]
+He really loves you.  Come back to Peking with me.  We'll find a solution.
+ລາວຮັກເຈົ້າແທ້ໆ. ກັບຄືນໄປປັກກິ່ງກັບຂ້ອຍ. ພວກເຮົາຈະຊອກຫາວິທີແກ້ໄຂ.
+
+465
+00:29:43,450 --> 00:29:45,450
+[JEN]
+Where is he now?
+ລາວຢູ່ໃສດຽວນີ້?
+
+466
+00:29:45,950 --> 00:29:50,150
+[YU]
+Li Mu Bai has made arrangements. He sent him to Wudan Mountain.
+ລີ ມູ ບາຍ ໄດ້ຈັດການແລ້ວ. ລາວສົ່ງລາວໄປພູວູດານ.
+
+467
+00:29:50,650 --> 00:29:53,800
+[JEN]
+You're working together to set me up!  I'm leaving!
+ເຈົ້າ ກໍາ ລັງເຮັດວຽກຮ່ວມກັນເພື່ອວາງແຜນຂ້ອຍ! ຂ້ອຍ ກໍາ ລັງອອກໄປ!
+
+468
+00:29:54,300 --> 00:30:00,300
+[YU]
+How dare you accuse us?  I always knew you had stolen the sword! I've done nothing but protect you and your family.  And you're repaid me with nothing but contempt.  Li Mu Bai himself spared you, and all you do is insult him.  We wanted some peace and you've ruined it all! You're no sister of mine!
+ເຈົ້າກ້າທີ່ຈະກ່າວຫາພວກເຮົາແນວໃດ? ຂ້ອຍຮູ້ຢູ່ສະເຫມີວ່າເຈົ້າໄດ້ລັກກະທູ້! ຂ້ອຍບໍ່ໄດ້ເຮັດຫຍັງເລີຍນອກຈາກການປົກປ້ອງເຈົ້າແລະຄອບຄົວຂອງທ່ານ. ແລະເຈົ້າໄດ້ຈ່າຍເງິນໃຫ້ຂ້ອຍດ້ວຍບໍ່ມີຫຍັງນອກເຫນືອຈາກການປະນາມ
+. ລີ ມູ ບາຍເອງໄດ້ປະຢັດເຈົ້າ, ແລະສິ່ງທີ່ທ່ານເຮັດແມ່ນການໂຊກຮ້າຍລາວ. ພວກເຮົາຕ້ອງການຄວາມສະຫງົບບາງຢ່າງແລະເຈົ້າໄດ້ ທໍາ ລາຍມັນທັງ ຫມົດ! ເຈົ້າບໍ່ແມ່ນເອື້ອຍຂອງຂ້ອຍ!
+
+469
+00:30:00,800 --> 00:30:06,800
+[JEN]
+What do I care?  You were never a real friend anyway.  But I wonder, how long could you last as my enemy?
+ຂ້ອຍສົນໃຈຫຍັງ? ເຈົ້າບໍ່ເຄີຍເປັນເພື່ອນທີ່ແທ້ຈິງຢ່າງໃດກໍ່ຕາມ.
+ແຕ່ຂ້ອຍສົງໄສວ່າ, ເຈົ້າສາມາດຢູ່ເປັນສັດຕູຂອງຂ້ອຍໄດ້ດົນປານໃດ?
+
+470
+00:30:07,300 --> 00:30:09,300
+[YU]
+Put the sword down!
+ເອົາກະທູ້ລົງ!
+
+471
+00:30:09,800 --> 00:30:11,800
+[YU]
+Jen!
+ເຈນ!
+
+472
+00:30:12,300 --> 00:30:14,300
+[YU]
+Everyone out.  Shut the doors.
+ທຸກຄົນອອກໄປ. ປິດປະຕູ.
+
+473
+00:30:14,800 --> 00:30:16,800
+[YU]
+Fine... the friendship is over.
+ດີແລ້ວ... ຄວາມເປັນມິດຕະພາບໄດ້ສິ້ນສຸດລົງ.
+
+474
+00:30:17,300 --> 00:30:20,100
+[YU]
+Don't touch it!  That's Li Mu Bai's sword.
+ຢ່າຈັບມັນ! ນັ້ນແມ່ນກະທູ້ຂອງລີ ມູ ບາຍ.
+
+475
+00:30:20,600 --> 00:30:23,050
+[JEN]
+Come and get it if you can.
+ມາເອົາມັນຖ້າເຈົ້າສາມາດ.
+
+476
+00:30:23,550 --> 00:30:26,000
+[YU]
+Without the Green Destiny, you are nothing.
+ຖ້າບໍ່ມີການກໍານົດສີຂຽວ, ເຈົ້າບໍ່ມີຫຍັງເລີຍ.
+
+477
+00:30:26,500 --> 00:30:31,400
+[JEN]
+Don't be a sore loser.  Go ahead. Take your pick.  I'll wait.  Go ahead.
+ຢ່າເປັນຄົນເສຍຫາຍທີ່ເຈັບປວດ. ໄປກ່ອນ.
+ເລືອກຂອງທ່ານ. ຂ້ອຍຈະລໍຖ້າ. ໄປຕໍ່ໄປ.
+
+478
+00:30:31,900 --> 00:30:33,900
+[YU]
+Give me the sword.
+ໃຫ້ຂ້ອຍກະທູ້.
+
+479
+00:30:34,400 --> 00:30:36,400
+[JEN]
+Take it!
+ເອົາມັນ!
+
+480
+00:30:36,900 --> 00:30:39,700
+[LI]
+Stop it!  You don't deserve the Green Destiny.
+ຢຸດຢັ້ງ! ເຈົ້າບໍ່ສົມຄວນກັບຈຸດຫມາຍປາຍທາງສີຂຽວ.
+
+481
+00:30:40,200 --> 00:30:42,200
+[JEN]
+Not another lecture!  On guard!
+ບໍ່ເປັນການສອນອີກຄັ້ງ! ລະວັງ!
+
+482
+00:30:42,700 --> 00:30:44,700
+[LI]
+Let's end this here.
+ພວກເຮົາຈະສິ້ນສຸດເລື່ອງນີ້ຢູ່ນີ້.
+
+483
+00:30:45,200 --> 00:30:47,300
+[JEN]
+Only the sword will settle this.
+ພຽງແຕ່ກະທູ້ເທົ່ານັ້ນທີ່ຈະແກ້ໄຂເລື່ອງນີ້.
+
+484
+00:30:47,800 --> 00:30:52,350
+[LI]
+I only let you go because I wanted to see the real you.
+ຂ້ອຍປ່ອຍເຈົ້າໄປພຽງແຕ່ເພາະວ່າຂ້ອຍຢາກເຫັນເຈົ້າທີ່ແທ້ຈິງ.
+
+485
+00:30:52,850 --> 00:30:55,650
+[JEN]
+What do you know about a true heart?
+ເຈົ້າຮູ້ຫຍັງກ່ຽວກັບຫົວໃຈທີ່ແທ້ຈິງ?
+
+486
+00:30:56,150 --> 00:30:58,150
+[JEN]
+What do you want?
+ເຈົ້າຢາກຫຍັງ?
+
+487
+00:30:58,650 --> 00:31:01,100
+[LI]
+What I've always wanted, to teach you.
+ສິ່ງທີ່ຂ້ອຍຢາກຢູ່ສະເຫມີ, ເພື່ອສອນເຈົ້າ.
+
+488
+00:31:01,600 --> 00:31:07,200
+[JEN]
+All right.  If you can take back the sword in three moves, I'll go with you.
+ດີແລ້ວ. ຖ້າເຈົ້າສາມາດເອົາກະທູ້ຄືນໄດ້ໃນສາມການເຄື່ອນໄຫວ
+, ຂ້ອຍຈະໄປກັບເຈົ້າ.
+
+489
+00:31:07,700 --> 00:31:09,700
+[JEN]
+Give it back!
+ໃຫ້ມັນຄືນ!
+
+490
+00:31:10,200 --> 00:31:12,200
+[LI]
+Kneel!
+ຄຸເຂົ່າລົງ!
+
+491
+00:31:12,700 --> 00:31:14,700
+[JEN]
+Never!
+ບໍ່ເຄີຍ!
+
+492
+00:31:15,200 --> 00:31:18,000
+[LI]
+Then you have no use for the sword.
+ຫຼັງຈາກນັ້ນເຈົ້າບໍ່ມີປະໂຫຍດຕໍ່ກະທູ້.
+
+493
+00:31:18,500 --> 00:31:24,500
+[FOX]
+Sooner or later, they'd drag you back to Peking.  Your parents will never accept you again.  But why go home?  We've gone this far, we won't stop now.  You'll always be my lady.  At last, we'll be our own masters.  We'll be happy.  That's the most important thing.  All we have left is each other, right? Lie down and rest.
+ກ່ອນຫຼືຫຼ້າສຸດ, ພວກເຂົາຈະດຶງເຈົ້າກັບຄືນໄປປັກກິ່ງ. ພໍ່ແມ່ຂອງທ່ານຈະບໍ່ຍອມຮັບເຈົ້າອີກເທື່ອຫນຶ່ງ. ແຕ່ເປັນຫຍັງກັບບ້ານ? ພວກເຮົາໄດ້ໄປໄກນີ້, ພວກເຮົາຈະບໍ່ຢຸດດຽວນີ້.
+ເຈົ້າຈະເປັນແມ່ຂອງຂ້ອຍຕະຫຼອດໄປ. ສຸດທ້າຍ, ພວກເຮົາຈະເປັນເຈົ້າຂອງຕົວເອງ. ພວກເຮົາຈະມີຄວາມສຸກ. ນັ້ນແມ່ນສິ່ງທີ່ສໍາຄັນທີ່ສຸດ. ສິ່ງດຽວທີ່ພວກເຮົາຍັງເຫຼືອແມ່ນກັນແລະກັນ, ແມ່ນບໍ? ນອນແລະພັກຜ່ອນ.
+
+494
+00:31:25,000 --> 00:31:27,450
+[AUNT WU]
+She's crazy.  You should have killed her.
+ນາງໂຊກຮ້າຍ. ເຈົ້າຄວນຂ້ານາງ.
+
+495
+00:31:27,950 --> 00:31:29,950
+[YU]
+I didn't have the heart.
+ຂ້ອຍບໍ່ມີຫົວໃຈ.
+
+496
+00:31:30,450 --> 00:31:32,900
+[AUNT WU]
+Well, Li Mu Bai can do it.
+ດີ, ລີ ມູ ບາຍສາມາດເຮັດໄດ້.
+
+497
+00:31:33,400 --> 00:31:36,200
+[JEN]
+Is it me or the sword you want?
+ເຈົ້າຢາກຂ້ອຍຫຼືກະທູ້ບໍ?
+
+498
+00:31:36,700 --> 00:31:38,700
+[LI]
+You've been drugged!
+ເຈົ້າຖືກຢາເສບຕິດແລ້ວ!
+
+499
+00:31:39,200 --> 00:31:41,200
+[LI]
+Where is Jade Fox?
+ເຈດ ຟອກສ໌ຢູ່ໃສ?
+
+500
+00:31:41,700 --> 00:31:43,700
+[YU]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+501
+00:31:44,200 --> 00:31:47,350
+[LI]
+Jade Fox drugged her.  How did you get here?
+ເຈດ ຟອກສ໌ໄດ້ຢາເສບຕິດໃຫ້ນາງ. ເຈົ້າມາບ່ອນນີ້ແນວໃດ?
+
+502
+00:31:47,850 --> 00:31:49,850
+[YU]
+We followed Jade Fox.
+ພວກເຮົາຕິດຕາມເຈດ ຟອກສ໌.
+
+503
+00:31:50,350 --> 00:31:52,350
+[LI]
+And so you die.
+ແລະດັ່ງນັ້ນເຈົ້າຈະຕາຍ.
+
+504
+00:31:52,850 --> 00:31:54,850
+[FOX]
+And so shall you!
+ແລະເຈົ້າກໍ່ຄືກັນ!
+
+505
+00:31:55,350 --> 00:31:57,350
+[YU]
+A poisoned needle!
+ກະດານທີ່ເປັນພິດ!
+
+506
+00:31:57,850 --> 00:32:03,850
+[FOX]
+You deserve to die, but the life I was hoping to take... was Jen's. Ten years I devoted to you.  But you deceived me!  You hid the manual's true meaning.  I never improved... but your progress was limitless!  You know what poison is? An eight-year-old girl, full of deceit.  That's poison!  Jen!  My only family... my only enemy...
+ເຈົ້າສົມຄວນທີ່ຈະຕາຍ, ແຕ່ຊີວິດທີ່ຂ້ອຍຫວັງທີ່ຈະເອົາ... ແມ່ນຂອງເຈນ. ຂ້ອຍອຸທິດຕົນໃຫ້ເຈົ້າສິບປີ. ແຕ່ເຈົ້າຫຼອກລວງຂ້ອຍ! ເຈົ້າເຊື່ອງຄວາມ ຫມາຍ ທີ່ແທ້ຈິງຂອງຄູ່ມື. ຂ້ອຍບໍ່ເຄີຍປັບປຸງ
+... ແຕ່ຄວາມກ້າວຫນ້າຂອງທ່ານບໍ່ມີຂອບເຂດ! ເຈົ້າຮູ້ວ່າສານພິດແມ່ນຫຍັງ? ເດັກຍິງອາຍຸແປດປີ, ເຕັມໄປດ້ວຍການຫຼອກ ລວງ. ນັ້ນແມ່ນພິດ! ເຈນ! ຄອບຄົວດຽວຂອງຂ້ອຍ... ສັດຕູດຽວຂອງຂ້ອຍ...
+
+507
+00:32:04,350 --> 00:32:10,350
+[YU]
+You can't die!  Tell us what poison you used!  You can't die!  Tell us the antidote!  You can't let Li Mu Bai die!
+ເຈົ້າບໍ່ສາມາດຕາຍໄດ້! ບອກພວກເຮົາວ່າເຈົ້າໃຊ້ສານພິດໃດ! ເຈົ້າບໍ່ສາມາດເສຍຊີວິດໄດ້
+!ບອກພວກເຮົາຢາຕ້ານເຊື້ອ! ເຈົ້າສາມາດປ່ອຍໃຫ້ລີ ມູ ບາຍຕາຍໄດ້ບໍ່!
+
+508
+00:32:10,850 --> 00:32:15,400
+[JEN]
+She used Purple Yin... Purple Yin poison.  It goes straight to the heart.
+ນາງໃຊ້ຢິນສີບົວ... ຢາພິດຢິນ ສີບົວ. ມັນໄປກົງໄປສູ່ຫົວໃຈ.
+
+509
+00:32:15,900 --> 00:32:21,900
+[LI]
+My blood will soon reverse its flow. It's the same poison she used to kill my master.  There is no antidote.
+ເລືອດຂອງຂ້ອຍຈະປ່ຽນການໄຫຼຂອງມັນໃນໄວໆນີ້.
+ມັນແມ່ນສານພິດດຽວກັນທີ່ນາງໃຊ້ເພື່ອຂ້າເຈົ້າຂອງຂ້ອຍ. ບໍ່ມີຢາຕ້ານທານ.
+
+510
+00:32:22,400 --> 00:32:25,900
+[YU]
+That can't be!  Everything has an antithesis!  Why not this?
+ນັ້ນບໍ່ສາມາດເປັນໄດ້! ທຸກສິ່ງທຸກຢ່າງມີຄວາມກົງກັນຂ້າມ
+! ເປັນຫຍັງບໍ່ແມ່ນສິ່ງນີ້?
+
+511
+00:32:26,400 --> 00:32:32,400
+[JEN]
+The antidote exists.  She taught it to me.  The formula is simple, but it takes time to prepare.  Trust me. As you have helped me, let me help you.
+ຢາຕ້ານຢາມີຢູ່. ນາງໄດ້ສອນມັນໃຫ້ຂ້ອຍ. ຮູບແບບແມ່ນງ່າຍດາຍ, ແຕ່ມັນໃຊ້ເວລາໃນການກະກຽມ
+. ເຊື່ອຂ້ອຍ. ດັ່ງທີ່ທ່ານໄດ້ຊ່ວຍຂ້ອຍ, ຂໍໃຫ້ຂ້ອຍຊ່ວຍເຈົ້າ.
+
+512
+00:32:32,900 --> 00:32:37,100
+[LI]
+All right.  Hurry.  I will hold on as long as I can.
+ດີແລ້ວ. ໄວ. ຂ້ອຍຈະລໍຖ້າໄດ້ດົນເທົ່າທີ່ຂ້ອຍສາມາດເຮັດໄດ້.
+
+513
+00:32:37,600 --> 00:32:43,550
+[YU]
+Take my horse and go to the compound. Give this to Mrs. Wu.  She'll help you.  Hurry!
+ເອົາມ້າຂອງຂ້ອຍໄປທີ່ສະໂມສອນ.
+ມອບສິ່ງນີ້ໃຫ້ທ່ານນາງວູ. ນາງຈະຊ່ວຍທ່ານ. ໄວ!
+
+514
+00:32:44,050 --> 00:32:46,150
+[JEN]
+Spare your energy.  I'll be back!
+ປະຢັດພະລັງງານຂອງທ່ານ. ຂ້ອຍຈະກັບມາ!
+
+515
+00:32:46,650 --> 00:32:48,650
+[JEN]
+Where is Mrs. Wu?
+ທ່ານນາງວູຢູ່ໃສ?
+
+516
+00:32:49,150 --> 00:32:51,150
+[AUNT WU]
+Stop it!
+ຢຸດຢັ້ງ!
+
+517
+00:32:51,650 --> 00:32:54,450
+[JEN]
+Shu Lien told me to show you this.
+ຊູ ລຽນບອກຂ້ອຍໃຫ້ສະແດງສິ່ງນີ້ໃຫ້ເຈົ້າ.
+
+518
+00:32:54,950 --> 00:32:56,950
+[AUNT WU]
+Let her in.
+ໃຫ້ນາງເຂົ້າມາ.
+
+519
+00:32:57,450 --> 00:33:00,250
+[YU]
+Mu Bai, hold on.  Give me some hope...
+ມູ ບາຍ, ລໍຖ້າ. ໃຫ້ຂ້ອຍຄວາມຫວັງບາງຢ່າງ...
+
+520
+00:33:00,750 --> 00:33:02,750
+[LI]
+Shu Lien...
+ຊູ ລຽນ...
+
+521
+00:33:03,250 --> 00:33:05,250
+[YU]
+Save your strength.
+ຮັກສາຄວາມເຂັ້ມແຂງຂອງທ່ານ.
+
+522
+00:33:05,750 --> 00:33:08,900
+[LI]
+My life is departing.  I've only one breath left.
+ຊີວິດຂອງຂ້ອຍ ກໍາ ລັງອອກຈາກ. ຂ້ອຍຍັງເຫຼືອພຽງແຕ່ຫາຍໃຈດຽວເທົ່ານັ້ນ.
+
+523
+00:33:09,400 --> 00:33:15,400
+[YU]
+Use it to meditate.  Free yourself from this world as you have been taught.  Let your soul rise to eternity with your last breath.  Do not waste it... for me.
+ໃຊ້ມັນເພື່ອສະມາທິ. ປົດຕົວເອງຈາກໂລກນີ້ຕາມທີ່ເຈົ້າໄດ້ຖືກສອນ.
+ໃຫ້ຈິດວິນຍານຂອງທ່ານຂຶ້ນໄປສູ່ຄວາມຖາວອນດ້ວຍລົມຫາຍໃຈສຸດທ້າຍຂອງທ່ານ. ຢ່າເສຍມັນ... ສໍາ ລັບຂ້ອຍ.
+
+524
+00:33:15,900 --> 00:33:21,900
+[LI]
+I've already wasted my whole life. I want to tell you with my last breath... I have always loved you. I would rather be a ghost, drifting by your side... as a condemned soul... than enter heaven without you.  Because of your love... I will never be a lonely spirit.
+ຂ້ອຍໄດ້ເສຍຊີວິດທັງ ຫມົດ ຂອງຂ້ອຍແລ້ວ. ຂ້ອຍຢາກບອກເຈົ້າດ້ວຍລົມຫາຍໃຈສຸດທ້າຍຂອງຂ້ອຍ... ຂ້ອຍຮັກເຈົ້າຕະຫຼອດໄປ. ຂ້ອຍມັກຈະເປັນຈິດວິນຍານ,
+ຍ່າງຢູ່ຂ້າງເຈົ້າ... ໃນຖານະເປັນຈິດໃຈທີ່ຖືກຕັດສິນໂທດ... ກ່ວາຈະເຂົ້າສູ່ສະຫວັນໂດຍບໍ່ມີເຈົ້າ. ຍ້ອນຄວາມຮັກຂອງທ່ານ... ຂ້ອຍຈະບໍ່ເປັນຈິໃຈໂດດດ່ຽວເລີຍ.
+
+525
+00:33:22,400 --> 00:33:24,400
+[JEN]
+He's gone?
+ລາວໄປແລ້ວບໍ?
+
+526
+00:33:24,900 --> 00:33:28,050
+[YU]
+Bo... please take this sword back to Sir Te.
+ໂບ... ກະລຸນາເອົາກະທູ້ນີ້ກັບຄືນໄປບ່ອນທ່ານເທ.
+
+527
+00:33:28,550 --> 00:33:34,550
+[YU]
+Now you must go to Wudan Mountain. Lo awaits you there.  Promise me one thing, whatever path you take in this life... be true to yourself.
+ດຽວນີ້ເຈົ້າຕ້ອງໄປພູວູດານ. ໂລລໍຖ້າເຈົ້າຢູ່ບ່ອນນັ້ນ. ສັນຍາໃຫ້ຂ້ອຍສິ່ງດຽວ
+, ເສັ້ນທາງໃດທີ່ທ່ານເອົາໃນຊີວິດນີ້... ເປັນຈິງກັບຕົວເອງ.
+
+528
+00:33:35,050 --> 00:33:38,200
+[JEN]
+Do you remember the legend of the young man?
+ເຈົ້າຈື່ນິທານຂອງຜູ້ຊາຍຫນຸ່ມບໍ?
+
+529
+00:33:38,700 --> 00:33:41,150
+[LO]
+"A faithful heart makes wishes come true."
+ຫົວໃຈທີ່ສັດຊື່ເຮັດໃຫ້ຄວາມປາຖະຫນາເກີດຂຶ້ນ.
+
+530
+00:33:41,650 --> 00:33:43,650
+[JEN]
+Make a wish, Lo.
+ຂໍຄວາມປາຖະຫນາ, ໂລ.
+
+531
+00:33:44,150 --> 00:33:46,950
+[LO]
+To be back in the desert, together again.
+ເພື່ອກັບຄືນໄປບ່ອນໃນທະເລຊາຍ, ພ້ອມກັນອີກຄັ້ງ.
+

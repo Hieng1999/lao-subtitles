@@ -1,0 +1,6776 @@
+1
+00:00:10,000 --> 00:00:12,000
+[ALL THE KING'S MEN]
+Written by
+ຂຽນໂດຍ
+
+2
+00:00:12,500 --> 00:00:14,500
+[SHOOTING DRAFT]
+1949
+ປີ 1949
+
+3
+00:00:15,000 --> 00:00:18,150
+[MAN]
+Burden! Jack Burden! The boss wants to see you.
+ໂບດເດັນ! ແຈກ໌ ບອດເດນ! ຫົວຫນ້າຢາກເຫັນເຈົ້າ.
+
+4
+00:00:18,650 --> 00:00:22,150
+[MADISON]
+Hey, Jack, ever hear of a fellow called Willie Stark?
+ເຮ້, ແຈກ, ເຄີຍໄດ້ຍິນຄົນຊື່ວ່າ ວີລີ ສຕາກບໍ?
+
+5
+00:00:22,650 --> 00:00:24,650
+[JACK]
+No. Who'd he shoot?
+ບໍ່. ລາວຍິງໃຜ?
+
+6
+00:00:25,150 --> 00:00:27,950
+[MADISON]
+Oh, county... uh... treasurer, or something like that.
+ໂອ້, ເມືອງ... ໂອ້... ຜູ້ຈັດການເງິນ, ຫຼືບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ.
+
+7
+00:00:28,450 --> 00:00:30,450
+[JACK]
+What's so special about him?
+ມີຫຍັງພິເສດຫຼາຍໃນລາວ?
+
+8
+00:00:30,950 --> 00:00:36,950
+[MADISON]
+They say he's an honest man. What I want you to do is to hop into your car...
+ພວກເຂົາເວົ້າວ່າລາວເປັນຜູ້ຊາຍທີ່ຊື່ສັດ.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າເຮັດແມ່ນໂດດໃສ່ລົດຂອງທ່ານ...
+
+9
+00:00:37,450 --> 00:00:39,550
+[JACK]
+Why, you promised me a vacation.
+ເປັນຫຍັງ, ເຈົ້າໄດ້ສັນຍາພໍໄດ້ແລ້ວ!
+
+10
+00:00:40,050 --> 00:00:42,050
+[MADISON]
+Well, that can wait.
+ດີ, ນັ້ນສາມາດລໍຖ້າໄດ້.
+
+11
+00:00:42,550 --> 00:00:45,350
+[JACK]
+Yeah... but there's a... a girl I know.
+ແມ່ນແລ້ວ... ແຕ່ມີ... ເດັກຍິງທີ່ຂ້ອຍຮູ້ຈັກ.
+
+12
+00:00:45,850 --> 00:00:47,950
+[MADISON]
+Oh... Well, she can wait too.
+ໂອ້... ດີ, ນາງຍັງສາມາດລໍຖ້າໄດ້.
+
+13
+00:00:48,450 --> 00:00:50,450
+[JACK]
+The question is... can I?
+ຄໍາຖາມແມ່ນ... ຂ້ອຍສາມາດເຮັດໄດ້ບໍ?
+
+14
+00:00:50,950 --> 00:00:53,050
+[MADISON]
+The answer is... get up there.
+ຄໍາຕອບແມ່ນ... ຂຶ້ນໄປບ່ອນນັ້ນ.
+
+15
+00:00:53,550 --> 00:00:57,050
+[JACK]
+Right.  Oh... uh... what did you say his name was?
+ແມ່ນແລ້ວ. ໂອ້... ອູ... ເຈົ້າບອກວ່າຊື່ລາວແມ່ນຫຍັງ?
+
+16
+00:00:57,550 --> 00:00:59,550
+[MADISON]
+Who?
+ໃຜ?
+
+17
+00:01:00,050 --> 00:01:02,050
+[JACK]
+The fellow's name.
+ຊື່ຂອງຄົນນັ້ນ.
+
+18
+00:01:02,550 --> 00:01:04,650
+[MADISON]
+Oh, the... uh... Stark... Willie Stark.
+ໂອ້, ຄົນ... ໂອ້... ສຕາກ... ວີລີສຕາກ.
+
+19
+00:01:05,150 --> 00:01:07,150
+[JACK]
+Willie Stark...
+ວີລີ ສຕາກ...
+
+20
+00:01:07,650 --> 00:01:12,200
+[JACK]
+I found him in Kanoma City. A typical, hot, dusty, backwoods county seat.
+ຂ້ອຍພົບລາວໃນເມືອງຄາໂນມາ.
+ເປັນບ່ອນນັ່ງເມືອງທີ່ປົກກະຕິ, ຮ້ອນ, ຝຸ່ນ, ປ່າໄມ້ຫຼັງ.
+
+21
+00:01:12,700 --> 00:01:18,700
+[WILLIE]
+...to lie to them in order to line their own dirty pockets with the taxpayers' money. When have the citizens of Kanoma County ever witnessed a campaign like this? Why is the opposition so anxious to defeat me? Why have they used every dirty method known to make sure I'm not elected county treasurer? Well, I'll tell you why...
+... ເພື່ອຕົວະຕໍ່ພວກເຂົາເພື່ອເຮັດໃຫ້ກະເປົາເປື້ອນຂອງພວກເຂົາດ້ວຍເງິນຂອງຜູ້ຈ່າຍພາສີ. ພົນລະເມືອງຂອງເມືອງຄາໂນມາເຄີຍເຫັນການໂຄສະນາແບບນີ້ເມື່ອໃດ? ເປັນຫຍັງພັກຝ່າຍຄ້ານຈຶ່ງກັງວົນທີ່ຈະເອົາຊະນະຂ້ອຍຫຼາຍ
+? ເປັນຫຍັງພວກເຂົາຈຶ່ງໃຊ້ວິທີການເປື່ອຍທຸກຢ່າງທີ່ຮູ້ຈັກເພື່ອແນ່ໃຈວ່າຂ້ອຍບໍ່ໄດ້ຖືກເລືອກຕັ້ງເປັນເຈົ້າຊັບພະຍາກອນຂອງເມືອງ? ດີ, ຂ້ອຍຈະບອກເຈົ້າວ່າເປັນຫຍັງ...
+
+22
+00:01:19,200 --> 00:01:25,200
+[WILLIE]
+...Because they're afraid of the truth... and the truth is this. They're trying to steal your money. Yeah, I said steal. The county commissioners rejected the bid on the schoolhouse. Why? Well, they'll tell you their reason is the job will be done better. The county commissioners would have you believe that they're interested in public welfare. They're interested in welfare, sure. But it's their own. Let's look at the reason in the light of the facts and the figures. That brick factory is owned by one of the commissioners. That same brick factory uses convict labor.
+... ເພາະວ່າພວກເຂົາຢ້ານຄວາມຈິງ... ແລະຄວາມຈິງແມ່ນສິ່ງນີ້. ພວກເຂົາ ກໍາ ລັງພະຍາຍາມລັກເງິນຂອງທ່ານ. ແມ່ນແລ້ວ, ຂ້ອຍເວົ້າວ່າລັກ. ຄະນະກໍາມະການເມືອງໄດ້ປະຕິເສດຂໍ້ສະ ເຫນີ ກ່ຽວກັບໂຮງຮຽນ. ເປັນຫຍັງ? ດີ,
+ພວກເຂົາຈະບອກເຈົ້າວ່າເຫດຜົນຂອງພວກເຂົາແມ່ນວຽກງານຈະເຮັດໄດ້ດີກວ່າ. ບັນດາຄະນະ ກໍາ ມະການເມືອງຈະເຮັດໃຫ້ເຈົ້າເຊື່ອວ່າພວກເຂົາສົນໃຈຄວາມສະຫວັດດີການຂອງສາທາລະນະຊົນ. ພວກເຂົາມາເບິ່ງເຫດຜົນໃນແສງສະຫວ່າງຂອງຄວາມຈິງແລະຕົວເລກ. ໂຮງງານຜະລິດຕີນັ້ນ
+
+23
+00:01:25,700 --> 00:01:28,150
+[SHERIFF]
+Sorry, Willie, you'll have to move on.
+ຂໍໂທດ, ວີລີ, ເຈົ້າຕ້ອງຍ້າຍໄປຕໍ່ໄປ.
+
+24
+00:01:28,650 --> 00:01:30,650
+[WILLIE]
+Why?
+ເປັນຫຍັງ?
+
+25
+00:01:31,150 --> 00:01:35,700
+[SHERIFF]
+City Ordinance Number One-Oh-Five: more than five people congregating is disturbing the peace.
+ກົດລະບຽບເມືອງເລກຫນຶ່ງ- ໂອ້ ຫ້າ:
+ຫຼາຍກວ່າຫ້າຄົນທີ່ເຕົ້າໂຮມກັນ ກໍາ ລັງລົບກວນຄວາມສະຫງົບ.
+
+26
+00:01:36,200 --> 00:01:42,200
+[WILLIE]
+If you folks'll be so kind as to read these handbills, my boy will pass them out among you.
+ຖ້າເຈົ້າເປັນຄົນດີໃຈທີ່ຈະອ່ານໃບປະກາດເຫຼົ່ານີ້
+, ລູກຊາຍຂອງຂ້ອຍຈະແຈກຢາຍພວກມັນໃນບັນດາເຈົ້າ.
+
+27
+00:01:42,700 --> 00:01:44,800
+[SHERIFF]
+There's an ordinance against that too.
+ມີຄໍາສັ່ງຕໍ່ຕ້ານນັ້ນເຊັ່ນກັນ.
+
+28
+00:01:45,300 --> 00:01:47,300
+[WILLIE]
+Pass 'em out, Tom.
+ແຈກຢາຍພວກມັນອອກ, ໂຕມ.
+
+29
+00:01:47,800 --> 00:01:49,800
+[WILLIE]
+Let him alone!
+ຢ່າມາຍຸ້ງກັບລາວ!
+
+30
+00:01:50,300 --> 00:01:52,750
+[SHERIFF]
+Get that camera! Willie, you're under arrest.
+ເອົາກ້ອງຖ່າຍຮູບນັ້ນ! ວີລີ, ເຈົ້າຖືກຈັບກຸມ.
+
+31
+00:01:53,250 --> 00:01:55,350
+[JACK]
+Where can I find Tiny Duffy?
+ຂ້ອຍສາມາດຊອກຫາດັຟຟີນ້ອຍໄດ້ຢູ່ໃສ?
+
+32
+00:01:55,850 --> 00:01:57,850
+[PILLSBURY]
+Right over there, mister.
+ຢູ່ບ່ອນນັ້ນ, ທ້າວ.
+
+33
+00:01:58,350 --> 00:02:02,200
+[JACK]
+Uh, they told me I could get my camera back here.
+ພວກເຂົາບອກຂ້ອຍວ່າ ຂ້ອຍສາມາດເອົາກ້ອງຖ່າຍຮູບຂອງຂ້ອຍກັບມາບ່ອນນີ້ໄດ້.
+
+34
+00:02:02,700 --> 00:02:04,700
+[DUFFY]
+Who told you that?
+ໃຜບອກເຈົ້າເລື່ອງນັ້ນ?
+
+35
+00:02:05,200 --> 00:02:07,200
+[JACK]
+People. Can I?
+ຄົນ. ຂ້ອຍສາມາດເຮັດໄດ້ບໍ?
+
+36
+00:02:07,700 --> 00:02:10,500
+[DUFFY]
+You the reporter that's been snoopin' around town?
+ເຈົ້າເປັນນັກຂ່າວທີ່ ກໍາ ລັງກວດເບິ່ງຢູ່ທົ່ວເມືອງບໍ?
+
+37
+00:02:11,000 --> 00:02:13,000
+[JACK]
+Are you Tiny Duffy?
+ເຈົ້າເປັນດັຟຟີນ້ອຍບໍ?
+
+38
+00:02:13,500 --> 00:02:15,500
+[DUFFY]
+What paper?
+ຫນັງສືພິມໃດ?
+
+39
+00:02:16,000 --> 00:02:18,000
+[JACK]
+Chronicle.
+ສະຖິຕິ.
+
+40
+00:02:18,500 --> 00:02:23,400
+[DUFFY]
+You sure come a long way to stick your nose into other people's business.
+ເຈົ້າແນ່ນອນວ່າໄດ້ເດີນທາງໄກເພື່ອເອົາດັງເຂົ້າໄປໃນທຸລະກິດຂອງຄົນອື່ນ.
+
+41
+00:02:23,900 --> 00:02:28,450
+[JACK]
+That's true... Only my boss on the paper can't see it that way.
+ນັ້ນແມ່ນຄວາມຈິງ...
+ພຽງແຕ່ຫົວຫນ້າຂອງຂ້ອຍໃນຫນັງສືພິມບໍ່ສາມາດເຫັນມັນແບບນັ້ນໄດ້.
+
+42
+00:02:28,950 --> 00:02:31,400
+[DUFFY]
+It ain't any of his business either.
+ມັນບໍ່ແມ່ນເລື່ອງລາວເລີຍ.
+
+43
+00:02:31,900 --> 00:02:33,900
+[JACK]
+Whose business is it?
+ມັນເປັນທຸລະກິດຂອງໃຜ?
+
+44
+00:02:34,400 --> 00:02:40,400
+[PILLSBURY]
+Them as is tendin' to it. County commissioners that the voters of Kanoma County elected to tend to their business and not take no buttin' in from nobody.
+ພວກເຂົາຍັງເບິ່ງແຍງມັນ.
+ຄະນະກໍາມະການເມືອງທີ່ຜູ້ມີສິດເລືອກຕັ້ງຂອງເມືອງຄາໂນມາໄດ້ເລືອກຕັ້ງເພື່ອເບິ່ງແຍ່ງທຸລະກິດຂອງພວກເຂົາແລະບໍ່ເອົາການແຊກແຊງຈາກໃຜເລີຍ.
+
+45
+00:02:40,900 --> 00:02:42,900
+[JACK]
+You a commissioner?
+ເຈົ້າເປັນຄະນະກໍາມະການບໍ?
+
+46
+00:02:43,400 --> 00:02:45,400
+[PILLSBURY]
+Yeah. Name's Pillsbury. Dolph Pillsbury.
+ແມ່ນແລ້ວ. ຊື່ແມ່ນປິລສບີຣີ. ໂດລຟ໌ ປິບສບຣີ.
+
+47
+00:02:45,900 --> 00:02:47,900
+[JACK]
+Who isn't a commissioner?
+ໃຜບໍ່ແມ່ນຄະນະກໍາມະການ?
+
+48
+00:02:48,400 --> 00:02:50,400
+[DUFFY]
+He's the head man.
+ລາວເປັນຫົວຫນ້າ.
+
+49
+00:02:50,900 --> 00:02:54,050
+[JACK]
+Then you're in a position to know where --
+ຫຼັງຈາກນັ້ນເຈົ້າຢູ່ໃນຕໍາແຫນ່ງທີ່ຈະຮູ້ວ່າບ່ອນໃດ -
+
+50
+00:02:54,550 --> 00:02:58,400
+[DUFFY]
+He's in a position to know nothin'. And to say nothin'.
+ລາວຢູ່ໃນຕໍາແຫນ່ງທີ່ຈະບໍ່ຮູ້ຫຍັງເລີຍ. ແລະບໍ່ເວົ້າຫຍັງເລີຍ
+
+51
+00:02:58,900 --> 00:03:01,700
+[JACK]
+I thought you said he was head man?
+ຂ້ອຍຄິດວ່າເຈົ້າບອກວ່າລາວເປັນຫົວຫນ້າບໍ?
+
+52
+00:03:02,200 --> 00:03:04,200
+[DUFFY]
+He uses my head.
+ລາວໃຊ້ຫົວຂອງຂ້ອຍ.
+
+53
+00:03:04,700 --> 00:03:10,700
+[PILLSBURY]
+Oh, Tiny, you're a card... Ain't he a card? Yeah, he's a card... Now, who thought up those city ordinances about arresting someone for making a speech?
+ໂອ້, ຕີນີ, ເຈົ້າເປັນບັດ... ລາວບໍ່ແມ່ນບັດບໍ? ແມ່ນແລ້ວ, ລາວແມ່ນບັດ... ດຽວນີ້,
+ໃຜຄິດກົດລະບຽບເມືອງເຫຼົ່ານັ້ນກ່ຽວກັບການຈັບຄົນໃດ ຫນຶ່ງ ສໍາ ລັບການກ່າວຄໍາປາໄສ?
+
+54
+00:03:11,200 --> 00:03:13,650
+[DUFFY]
+Who's arrested? Nobody's been arrested.  Hi, Willie.
+ໃຜຖືກຈັບ? ບໍ່ມີໃຜຖືກຈັບ. ສະບາຍດີ, ວີລີ.
+
+55
+00:03:14,150 --> 00:03:16,150
+[PILLSBURY]
+Hi, Willie.
+ສະບາຍດີ ວີລີ.
+
+56
+00:03:16,650 --> 00:03:18,650
+[DUFFY]
+Did you apologize to Willie?
+ເຈົ້າຂໍໂທດວີລີບໍ?
+
+57
+00:03:19,150 --> 00:03:21,150
+[SHERIFF]
+Yeah, I apologized to Willie.
+ແມ່ນແລ້ວ, ຂ້ອຍຂໍໂທດກັບວີລີ.
+
+58
+00:03:21,650 --> 00:03:24,100
+[DUFFY]
+Did you give him his handbills back?
+ເຈົ້າໄດ້ສົ່ງໃບຢັ້ງຢືນຂອງລາວຄືນບໍ?
+
+59
+00:03:24,600 --> 00:03:26,600
+[SHERIFF]
+Yeah, I gave 'em back.
+ແມ່ນແລ້ວ, ຂ້ອຍໄດ້ສົ່ງພວກມັນຄືນ.
+
+60
+00:03:27,100 --> 00:03:32,000
+[DUFFY]
+Give him back his flag and his bag and...  give this man his camera.
+ໃຫ້ລາວທຸງຊາດແລະຖົງຂອງລາວຄືນແລະ...
+ໃຫ້ຜູ້ຊາຍຄົນນີ້ກ້ອງຖ່າຍຮູບຂອງລາວ.
+
+61
+00:03:32,500 --> 00:03:36,700
+[WILLIE]
+I'm going to be on that same street corner tomorrow, Mr. Duffy.
+ຂ້ອຍຈະຢູ່ແຄມຖະຫນົນດຽວກັນມື້ອື່ນ, ທ້າວດັບຟີ.
+
+62
+00:03:37,200 --> 00:03:43,200
+[DUFFY]
+You go right ahead, Willie. We all believe in free speech. We got to... it's in the Constitution.
+ເຈົ້າໄປກ່ອນ, ວີລີ. ພວກເຮົາທຸກຄົນເຊື່ອໃນຄວາມເສລີພາບໃນການເວົ້າ
+. ພວກເຮົາຕ້ອງ... ມັນຢູ່ໃນລັດຖະທໍາມະນູນ.
+
+63
+00:03:43,700 --> 00:03:46,500
+[WILLIE]
+My boy is out distributing those handbills now.
+ລູກຊາຍຂອງຂ້ອຍ ກໍາ ລັງອອກໄປແຈກຢາຍໃບປະກາດເຫຼົ່ານັ້ນດຽວນີ້.
+
+64
+00:03:47,000 --> 00:03:53,000
+[DUFFY]
+It's a free country, Willie. If you can convince the people to vote for you... you go right ahead.
+ມັນເປັນປະເທດເສລີ, ວີລີ.
+ຖ້າເຈົ້າສາມາດຊັກຊວນປະຊາຊົນໃຫ້ລົງຄະແນນສຽງໃຫ້ເຈົ້າ... ເຈົ້າໄປກ່ອນ.
+
+65
+00:03:53,500 --> 00:03:57,000
+[WILLIE]
+What did you want to see me about, Mr. Duffy?
+ເຈົ້າຢາກເຫັນຂ້ອຍກ່ຽວກັບຫຍັງ, ທ້າວດັບຟີ?
+
+66
+00:03:57,500 --> 00:04:03,500
+[DUFFY]
+I wanted you to meet a fella came all the way up from the state capital to meet you. A reporter. Wants to write you up... maybe put your picture in the paper.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າພົບກັບຜູ້ຊາຍຄົນຫນຶ່ງທີ່ມາຈາກນະຄອນຫຼວງຂອງລັດເພື່ອພົບກັບເຈົ້າ
+. ນັກຂ່າວ. ຢາກຂຽນເຈົ້າຂຶ້ນ... ບາງທີເອົາຮູບຂອງທ່ານໃນຫນັງສືພິມ.
+
+67
+00:04:04,000 --> 00:04:06,100
+[WILLIE]
+I'm happy to know you, sir.
+ຂ້ອຍດີໃຈທີ່ຮູ້ຈັກເຈົ້າເດີເດີ.
+
+68
+00:04:06,600 --> 00:04:11,150
+[JACK]
+Burden's my name... Jack Burden. Can we go somewhere where we can talk?
+ໂບດເດັນແມ່ນຊື່ຂອງຂ້ອຍ... ແຈກ ບອດເດັນ.
+ພວກເຮົາສາມາດໄປບ່ອນໃດທີ່ພວກເຮົາສາມາດເວົ້າໄດ້ບໍ?
+
+69
+00:04:11,650 --> 00:04:16,550
+[DUFFY]
+Now that ain't polite. Don't you want to hear both sides of the story?
+ດຽວນີ້ມັນບໍ່ແມ່ນຄວາມກຽດຕິຍົດ.
+ເຈົ້າບໍ່ຢາກໄດ້ຍິນທັງສອງດ້ານຂອງເລື່ອງບໍ?
+
+70
+00:04:17,050 --> 00:04:22,300
+[JACK]
+I know your side.  What happened to the plate your men took from my camera?
+ຂ້ອຍຮູ້ຈັກດ້ານຂອງທ່ານ.
+ເກີດຫຍັງຂຶ້ນກັບແຜ່ນທີ່ຜູ້ຊາຍຂອງທ່ານເອົາຈາກກ້ອງຖ່າຍຮູບຂອງຂ້ອຍ?
+
+71
+00:04:22,800 --> 00:04:28,750
+[DUFFY]
+Must have dropped out. Oh, come on, fellas, let's relax. It's a hot day... Hey, Sugar Boy...
+ມັນຕ້ອງໄດ້ອອກຈາກ. ໂອ້, ມາແລ້ວ, ພວກຜູ້ຊາຍ, ໃຫ້ພັກຜ່ອນ
+. ມັນເປັນມື້ຮ້ອນ... ເຮ້, ເດັກຊາຍນ້ ໍາ ຕານ...
+
+72
+00:04:29,250 --> 00:04:31,250
+[SUGAR BOY]
+Yeah?
+ແມ່ນແລ້ວ?
+
+73
+00:04:31,750 --> 00:04:34,200
+[DUFFY]
+Bring some cold beer for the boys.
+ເອົາເບຍເຢັນໃຫ້ເດັກຊາຍ.
+
+74
+00:04:34,700 --> 00:04:36,800
+[WILLIE]
+None for me, thank you kindly.
+ບໍ່ມີຫຍັງ ສໍາ ລັບຂ້ອຍ, ຂອບໃຈຢ່າງດີໃຈ.
+
+75
+00:04:37,300 --> 00:04:43,300
+[PILLSBURY]
+Now you know Willie don't drink, Tiny. His wife don't favor drinking. And Willie's the teacher's pet, ain't you, Willie?
+ດຽວນີ້ເຈົ້າຮູ້ວ່າວີລີບໍ່ດື່ມ, Tiny. ເມຍຂອງລາວບໍ່ມັກດື່ມ
+. ແລະວີລີເປັນສັດລ້ຽງຂອງຄູ, ແມ່ນບໍ, ວີລີ?
+
+76
+00:04:43,800 --> 00:04:46,950
+[WILLIE]
+I'll have some orange pop if you don't mind.
+ຂ້ອຍຈະກິນໂປບແອຣັງຈ໌ບາງຢ່າງຖ້າເຈົ້າບໍ່ສົນໃຈ.
+
+77
+00:04:47,450 --> 00:04:51,300
+[DUFFY]
+Orange pop! All right, Sugar Boy. Bring him some orange pop.
+ໂປບແອຣັງຈ໌! ດີແລ້ວ, ເດັກຊາຍນ້ ໍາ ຕານ. ເອົາໂພບແອນຈ໌ບາງຢ່າງໃຫ້ລາວ.
+
+78
+00:04:51,800 --> 00:04:53,800
+[SUGAR BOY]
+Th-th-the p-p-pop's s-s-sold out.
+Th-th-the p-p-pop ໄດ້ຂາຍແລ້ວ.
+
+79
+00:04:54,300 --> 00:04:57,800
+[DUFFY]
+Did you hear that, boys? The p-p- pop's s-s-sold out.
+ເຈົ້າໄດ້ຍິນແລ້ວບໍ, ພວກຜູ້ຊາຍ? ປັບປັບໄດ້ຂາຍແລ້ວ.
+
+80
+00:04:58,300 --> 00:05:00,300
+[PILLSBURY]
+Now ain't he a card?
+ດຽວນີ້ລາວບໍ່ແມ່ນບັດບໍ?
+
+81
+00:05:00,800 --> 00:05:05,350
+[WILLIE]
+He stutters, Mr. Duffy, but you... you don't say anything.  Let's go, mister.
+ລາວສັ່ນສະເທືອນ, ທ້າວດັບຟີ, ແຕ່ທ່ານ..
+. ທ່ານບໍ່ເວົ້າຫຍັງເລີຍ. ໄປເດີເດີເດີ.
+
+82
+00:05:05,850 --> 00:05:08,300
+[WILLIE]
+This is my wife, Lucy, Mr. Burden.
+ນີ້ແມ່ນເມຍຂອງຂ້ອຍ, ລູຊີ, ທ້າວບາເດັນ.
+
+83
+00:05:08,800 --> 00:05:10,800
+[JACK AND LUCY]
+How do you do?
+ເຈົ້າເປັນແນວໃດ?
+
+84
+00:05:11,300 --> 00:05:13,300
+[WILLIE]
+That's my pa.
+ນັ້ນແມ່ນພໍ່ຂອງຂ້ອຍ.
+
+85
+00:05:13,800 --> 00:05:15,800
+[WILLIE]
+Now we'll talk.
+ດຽວນີ້ພວກເຮົາຈະເວົ້າກັນ.
+
+86
+00:05:16,300 --> 00:05:19,450
+[JACK]
+You've been talking for a long time, Mr. Stark.
+ເຈົ້າ ກໍາ ລັງເວົ້າເປັນເວລາດົນນານແລ້ວ, ທ້າວສຕາກ.
+
+87
+00:05:19,950 --> 00:05:22,050
+[PAPPY]
+Willie's got a lot to say.
+ວີລີມີຫຼາຍຢ່າງທີ່ຈະເວົ້າ.
+
+88
+00:05:22,550 --> 00:05:25,700
+[LUCY]
+You sleepy, Pappy? You want to have a nap?
+ເຈົ້ານອນບໍ, ພໍ່? ເຈົ້າຢາກນອນຫຼັບບໍ?
+
+89
+00:05:26,200 --> 00:05:28,300
+[PAPPY]
+No, I want to hear it.
+ບໍ່, ຂ້ອຍຢາກໄດ້ຍິນມັນ.
+
+90
+00:05:28,800 --> 00:05:33,000
+[LUCY]
+I'm worried about Tom. It's getting dark. He should have been home.
+ຂ້ອຍກັງວົນກ່ຽວກັບໂຕມ. ມັນ ກໍາ ລັງມືດລົງ. ລາວຄວນຢູ່ເຮືອນ.
+
+91
+00:05:33,500 --> 00:05:38,400
+[WILLIE]
+He's a strong boy. Don't worry about him. He can take care of himself.
+ລາວເປັນເດັກຊາຍທີ່ແຂງແຮງ. ຢ່າກັງວົນກ່ຽວກັບລາວ
+. ລາວສາມາດເບິ່ງແຍງຕົວເອງໄດ້.
+
+92
+00:05:38,900 --> 00:05:40,900
+[JACK]
+How old is the boy?
+ເດັກຊາຍອາຍຸຫຼາຍປານໃດ?
+
+93
+00:05:41,400 --> 00:05:43,400
+[WILLIE]
+Fifteen.
+ສິບຫ້າ.
+
+94
+00:05:43,900 --> 00:05:46,000
+[JACK]
+How long have you been married?
+ເຈົ້າແຕ່ງງານດົນປານໃດ?
+
+95
+00:05:46,500 --> 00:05:48,500
+[WILLIE]
+Nine years.
+ເກົ້າປີ.
+
+96
+00:05:49,000 --> 00:05:55,000
+[LUCY]
+He was a neighbor's boy. They were poor folks. Both died. I couldn't have any children, so... He's a good boy.
+ລາວເປັນລູກຊາຍຂອງເພື່ອນບ້ານ. ພວກເຂົາເປັນຄົນທຸກຍາກ. ທັງສອງຕາຍ
+. ຂ້ອຍບໍ່ສາມາດມີລູກໃດໆໄດ້, ສະນັ້ນ... ລາວເປັນເດັກທີ່ດີ.
+
+97
+00:05:55,500 --> 00:06:01,500
+[WILLIE]
+Oh, he's the best. I couldn't love him any more if he was my own flesh and blood.
+ໂອ້, ລາວເປັນຄົນທີ່ດີທີ່ສຸດ.
+ຂ້ອຍບໍ່ສາມາດຮັກລາວອີກຕໍ່ໄປໄດ້ຖ້າລາວເປັນຊີ້ນແລະເລືອດຂອງຂ້ອຍເອງ.
+
+98
+00:06:02,000 --> 00:06:04,000
+[JACK]
+And now you, Mrs. Stark?
+ແລະດຽວນີ້ເຈົ້າ, ທ່ານນາງສຕາກ?
+
+99
+00:06:04,500 --> 00:06:07,650
+[LUCY]
+Oh, there isn't very much to tell about me.
+ໂອ້, ບໍ່ມີຫຼາຍຢ່າງທີ່ຈະບອກກ່ຽວກັບຂ້ອຍ.
+
+100
+00:06:08,150 --> 00:06:10,150
+[JACK]
+How did you meet?
+ເຈົ້າພົບກັນແນວໃດ?
+
+101
+00:06:10,650 --> 00:06:16,650
+[LUCY]
+I was teaching school and one day a pupil walked in. It was Willie. I couldn't have a grown man in the class and Willie wanted to learn so badly... so I married him.
+ຂ້ອຍ ກໍາ ລັງສອນໂຮງຮຽນແລະມື້ຫນຶ່ງນັກຮຽນເຂົ້າມາ. ມັນແມ່ນວີລີ.
+ຂ້ອຍບໍ່ສາມາດມີຜູ້ຊາຍໃຫຍ່ໃນຫ້ອງຮຽນແລະວີລີຢາກຮຽນຮູ້ຢ່າງຮ້າຍແຮງ... ສະນັ້ນຂ້ອຍໄດ້ແຕ່ງງານລາວ.
+
+102
+00:06:17,150 --> 00:06:19,150
+[JACK]
+Is that the only reason?
+ນັ້ນແມ່ນເຫດຜົນດຽວບໍ?
+
+103
+00:06:19,650 --> 00:06:21,650
+[LUCY]
+Except that I loved him.
+ຍົກເວັ້ນວ່າຂ້ອຍຮັກລາວ.
+
+104
+00:06:22,150 --> 00:06:24,150
+[WILLIE]
+Get the coffee, Lucy.
+ເອົາກາເຟ, ລູຊີ.
+
+105
+00:06:24,650 --> 00:06:27,100
+[JACK]
+When did they fire you, Mrs. Stark?
+ພວກເຂົາໄລ່ເຈົ້າເມື່ອໃດ, ທ່ານນາງສຕາກ?
+
+106
+00:06:27,600 --> 00:06:33,600
+[LUCY]
+A couple of weeks ago. I'd been teaching for a long time and nobody ever said I wasn't all right. But I don't care. I don't want to teach in a schoolhouse that they built just so somebody can steal some money. And Willie doesn't want to be Treasurer, either, if he has to associate with those dishonest people.
+ສອງສາມອາທິດກ່ອນ. ຂ້ອຍໄດ້ສອນເປັນເວລາດົນນານແລະບໍ່ມີໃຜເຄີຍເວົ້າວ່າຂ້ອຍບໍ່ດີ. ແຕ່ຂ້ອຍບໍ່ສົນໃຈ.
+ຂ້ອຍບໍ່ຢາກສອນໃນໂຮງຮຽນທີ່ພວກເຂົາສ້າງພຽງແຕ່ເພື່ອໃຫ້ຄົນໃດສາມາດລັກເງິນບາງຢ່າງ. ແລະວີລີບໍ່ຢາກເປັນຜູ້ເກັບເງິນເຊັ່ນກັນ, ຖ້າລາວຕ້ອງພົວພັນກັບຄົນທີ່ບໍ່ຊື່ສັດນັ້ນ.
+
+107
+00:06:34,100 --> 00:06:37,600
+[WILLIE]
+I'm going to run. They can't keep me from running.
+ຂ້ອຍຈະແລ່ນ. ພວກເຂົາບໍ່ສາມາດກີດຂວາງຂ້ອຍຈາກການແລ່ນໄດ້.
+
+108
+00:06:38,100 --> 00:06:43,000
+[JACK]
+If you don't mind the truth, Mr. Stark, you haven't much of a chance.
+ຖ້າເຈົ້າບໍ່ສົນໃຈຄວາມຈິງ, ທ້າວສຕາກ, ເຈົ້າບໍ່ມີໂອກາດຫຼາຍ.
+
+109
+00:06:43,500 --> 00:06:48,750
+[WILLIE]
+I'm going to run. They're not going to kick me around like I was dirt.
+ຂ້ອຍຈະແລ່ນໄປ. ພວກເຂົາຈະບໍ່ຕີຂ້ອຍຢູ່ທົ່ວໄປຄືກັບວ່າຂ້ອຍເປັນດິນ.
+
+110
+00:06:49,250 --> 00:06:55,250
+[LUCY]
+I don't care if Willie loses... just so he gets the truth to the people. Isn't that true, Willie?
+ຂ້ອຍບໍ່ສົນໃຈວ່າວີລີຈະສູນເສຍ...
+ພຽງແຕ່ເພື່ອໃຫ້ລາວເອົາຄວາມຈິງໃຫ້ປະຊາຊົນ. ນັ້ນບໍ່ແມ່ນຄວາມຈິງບໍ, ວີລີ?
+
+111
+00:06:55,750 --> 00:06:57,750
+[LUCY]
+Isn't it, Willie?
+ແມ່ນບໍ, ວີລີ?
+
+112
+00:06:58,250 --> 00:07:00,350
+[WILLIE]
+Hmmm?... Yeah, yeah, sure, that's right.
+Hmmm?... ແມ່ນ, ແມ່ນແລ້ວ, ແນ່ນອນ, ນັ້ນແມ່ນຄວາມຈິງ.
+
+113
+00:07:00,850 --> 00:07:06,450
+[LUCY]
+Well, if you lose you can give a little more time to studying your law books.
+ດີ, ຖ້າເຈົ້າສູນເສຍເຈົ້າສາມາດໃຫ້ເວລາເພີ່ມເຕີມ
+ຫນ້ອຍ ຫນຶ່ງ ເພື່ອສຶກສາປື້ມກົດ ຫມາຍ ຂອງທ່ານ.
+
+114
+00:07:06,950 --> 00:07:08,950
+[JACK]
+Oh, you studying law too?
+ໂອ້, ເຈົ້າຮຽນກົດຫມາຍເຊັ່ນກັນບໍ?
+
+115
+00:07:09,450 --> 00:07:11,450
+[WILLIE]
+By myself, at night.
+ດ້ວຍຕົນເອງ, ໃນຕອນກາງຄືນ.
+
+116
+00:07:11,950 --> 00:07:13,950
+[PAPPY]
+Willie's a smart boy.
+ວີລີເປັນເດັກຊາຍທີ່ສະຫຼາດ.
+
+117
+00:07:14,450 --> 00:07:19,700
+[WILLIE]
+If I ever find the time I'm going to take a course at the university.
+ຖ້າຂ້ອຍພົບເວລາຂ້ອຍຈະໄປຮຽນໃນມະຫາວິທະຍາໄລ.
+
+118
+00:07:20,200 --> 00:07:22,650
+[LUCY]
+What happened, Tommy boy? What's the matter?
+ເກີດຫຍັງຂຶ້ນ, ເດັກຊາຍໂຕມມີ? ມີຫຍັງເກີດຂຶ້ນ?
+
+119
+00:07:23,150 --> 00:07:25,250
+[TOM]
+I gave out the handbills, Pa.
+ຂ້ອຍໄດ້ແຈກຢາຍໃບປະກາດ, ພໍ່.
+
+120
+00:07:25,750 --> 00:07:27,750
+[WILLIE]
+Speak up. Speak up.
+ເວົ້າອອກໄປ. ເວົ້າອອກມາ.
+
+121
+00:07:28,250 --> 00:07:31,750
+[LUCY]
+Let him tell it his own way. Go on, Tommy.
+ໃຫ້ລາວເວົ້າມັນຕາມວິທີຂອງຕົນເອງ. ໄປ, ໂຕມມີ.
+
+122
+00:07:32,250 --> 00:07:38,250
+[TOM]
+This time they were waiting for me. They took them away from me. Threw them in the dirt and beat me up. I brought some of them back.
+ໃນຄັ້ງນີ້ພວກເຂົາ ກໍາ ລັງລໍຖ້າຂ້ອຍ. ພວກເຂົາເອົາພວກມັນອອກຈາກຂ້ອຍ
+. ຖິ້ມພວກມັນໃສ່ດິນແລະຕີຂ້ອຍ. ຂ້ອຍເອົາບາງຢ່າງກັບມາ.
+
+123
+00:07:38,750 --> 00:07:41,200
+[WILLIE]
+Good boy. Have you eaten yet, Tom?
+ເດັກຊາຍທີ່ດີ. ເຈົ້າກິນແລ້ວບໍ, ໂຕມ?
+
+124
+00:07:41,700 --> 00:07:43,700
+[LUCY]
+Let him wash up first.
+ໃຫ້ລາວລ້າງກ່ອນ.
+
+125
+00:07:44,200 --> 00:07:50,200
+[WILLIE]
+I'm going to run... and you're not going to stop me. I'm gonna run even if I don't get a single vote.
+ຂ້ອຍຈະແຂ່ງຂັນ... ແລະເຈົ້າຈະບໍ່ຢຸດຂ້ອຍ.
+ຂ້ອຍຈະແລ່ນເຖິງແມ່ນວ່າຂ້ອຍຈະບໍ່ໄດ້ຮັບຄະແນນສຽງດຽວ.
+
+126
+00:07:50,700 --> 00:07:55,600
+[JACK]
+Here you are... the last of the Willie Stark articles. Now can I go?
+ເຈົ້າຢູ່ບ່ອນນີ້... ບົດຂຽນສຸດທ້າຍຂອງວີລີ
+ສຕາກ. ດຽວນີ້ຂ້ອຍສາມາດໄປໄດ້ບໍ?
+
+127
+00:07:56,100 --> 00:08:01,000
+[MADISON]
+Yes. You've earned your vacation. You've been writing these like you really mean them.
+ແມ່ນແລ້ວ. ເຈົ້າໄດ້ຄຸ້ມຄອງການພັກຜ່ອນຂອງທ່ານ. ເຈົ້າ ກໍາ
+ລັງຂຽນສິ່ງເຫຼົ່ານີ້ຄືກັບວ່າເຈົ້າ ຫມາຍ ຄວາມວ່າພວກເຂົາແທ້ໆ.
+
+128
+00:08:01,500 --> 00:08:03,500
+[JACK]
+I do.
+ຂ້ອຍເຮັດ.
+
+129
+00:08:04,000 --> 00:08:10,000
+[JACK]
+I hadn't been home in a long time. Only a hundred and thirty miles from Kanoma City. It was separated from the mainland by a body of water. For the first time I wondered if it wasn't separated by more than that.
+ຂ້ອຍບໍ່ໄດ້ຢູ່ເຮືອນເປັນເວລາດົນນານແລ້ວ. ພຽງແຕ່ສິບສາມສິບແມລຈາກເມືອງຄາໂນມາ.
+ມັນຖືກແຍກອອກຈາກແຜ່ນດິນໃຫຍ່ໂດຍຮ່າງກາຍຂອງນ້ ໍາ. ເປັນຄັ້ງ ທໍາ ອິດຂ້ອຍສົງໄສວ່າມັນບໍ່ໄດ້ແຍກໂດຍຫຼາຍກ່ວານັ້ນບໍ.
+
+130
+00:08:10,500 --> 00:08:12,500
+[JACK]
+Hello, Mother.
+ຮັສຕາ ລາວິສຕາ, ເບບີ້່.
+
+131
+00:08:13,000 --> 00:08:18,950
+[MRS. BURDEN]
+Floyd, Jack's home. Oh, he looks fine... doesn't he look fine?  How do I look, Jackie boy?
+ຟລອຍດ໌, ແຈກຢູ່ເຮືອນ. ໂອ້, ລາວເບິ່ງດີ...
+ລາວເບິ່ງບໍ່ດີບໍ? ຂ້ອຍເບິ່ງແນວໃດ, ເດັກຊາຍຈາເກີ?
+
+132
+00:08:19,450 --> 00:08:21,450
+[JACK]
+You look beautiful, Mother.
+ເຈົ້າເບິ່ງສວຍງາມ, ແມ່.
+
+133
+00:08:21,950 --> 00:08:27,950
+[MRS. BURDEN]
+I've got so many things planned for you... parties and... it'll be just like old times. But first, let's have a drink.
+ຂ້ອຍມີສິ່ງຫຼາຍຢ່າງທີ່ວາງແຜນ ສໍາ ລັບເຈົ້າ... ງານລ້ຽງແລະ
+... ມັນຈະເປັນຄືກັບສະໄຫມເກົ່າ. ແຕ່ກ່ອນ, ໃຫ້ດື່ມ.
+
+134
+00:08:28,450 --> 00:08:30,550
+[MCEVOY]
+Can't that wait until this evening?
+ມັນບໍ່ສາມາດລໍຖ້າຈົນຮອດຕອນແລງນີ້ໄດ້ບໍ?
+
+135
+00:08:31,050 --> 00:08:33,050
+[MRS. BURDEN]
+Floyd... honey... my son's home.
+ຟລອຍດ໌... ແມ... ລູກຊາຍຂອງຂ້ອຍຢູ່ເຮືອນແລ້ວ.
+
+136
+00:08:33,550 --> 00:08:36,000
+[MCEVOY]
+How long do you plan on staying?
+ເຈົ້າວາງແຜນທີ່ຈະຢູ່ດົນປານໃດ?
+
+137
+00:08:36,500 --> 00:08:40,000
+[JACK]
+Two or three weeks. If that's all right with you.
+ສອງສາມອາທິດ. ຖ້າມັນບໍ່ເປັນຫຍັງກັບເຈົ້າ.
+
+138
+00:08:40,500 --> 00:08:42,950
+[MRS. BURDEN]
+I'm sure your father would be --
+ຂ້ອຍແນ່ໃຈວ່າພໍ່ເຈົ້າຈະ...
+
+139
+00:08:43,450 --> 00:08:45,450
+[JACK]
+Stepfather, Mother.
+ພໍ່ຕູ້, ແມ່.
+
+140
+00:08:45,950 --> 00:08:51,900
+[MRS. BURDEN]
+Now, Jackie... here we all are. Floyd, Jackie, myself.  To the best time we've ever had together.
+ດຽວນີ້, ຈາເກີ... ພວກເຮົາທຸກຄົນຢູ່ບ່ອນນີ້. ຟລອຍດ໌, ຈາກເກີ
+, ຂ້ອຍເອງ. ເຖິງເວລາທີ່ດີທີ່ສຸດທີ່ພວກເຮົາເຄີຍມີຮ່ວມກັນ.
+
+141
+00:08:52,400 --> 00:08:54,400
+[JACK]
+Yes, Mother.
+ແມ່ນແລ້ວ, ແມ່.
+
+142
+00:08:54,900 --> 00:08:56,900
+[JACK]
+Excuse me... I...
+ຂໍໂທດຂ້ອຍ... ຂ້ອຍ...
+
+143
+00:08:57,400 --> 00:08:59,400
+[JACK]
+Dr. Stanton, I presume.
+ດຣ ສຕັນຕັນ, ຂ້ອຍຄິດວ່າ.
+
+144
+00:08:59,900 --> 00:09:01,900
+[STANTON]
+Is my shingle showing?
+ກະດານກະດານຂອງຂ້ອຍເຫັນບໍ?
+
+145
+00:09:02,400 --> 00:09:04,850
+[JUDGE]
+Good to see you, boy. Very good.
+ດີໃຈທີ່ເຫັນເຈົ້າ, ເດັກຊາຍ. ດີຫຼາຍ.
+
+146
+00:09:05,350 --> 00:09:10,250
+[JACK]
+Good to see you, Judge. How have you been? What have you been doing?
+ດີໃຈທີ່ເຫັນເຈົ້າ, ຜູ້ພິພາກສາ.
+ເຈົ້າເປັນແນວໃດ? ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່?
+
+147
+00:09:10,750 --> 00:09:16,750
+[JUDGE]
+Oh, just sitting here... waiting for all of you to come home. You know, when a man starts to get old his eyes stray and play funny tricks on him. As I watched you in that boat I thought sure I saw a boy of twelve with a fishing rod in his hands. And I was sure the first thing he'd say would be...
+ໂອ້, ພຽງແຕ່ນັ່ງຢູ່ນີ້... ລໍຖ້າເຈົ້າທັງ ຫມົດ ຈະກັບບ້ານ. ເຈົ້າຮູ້ແລ້ວ, ເມື່ອຜູ້ຊາຍເລີ່ມເຖົ້າຕາຂອງລາວຫ່າງໄປແລະຫຼິ້ນກະຕຸ້ນທີ່ມ່ວນຊື່ນກັບລາວ.
+ໃນຂະນະທີ່ຂ້ອຍເບິ່ງເຈົ້າໃນເຮືອນັ້ນຂ້ອຍຄິດວ່າແນ່ໃຈວ່າຂ້ອຍເຫັນເດັກຊາຍອາຍຸສິບສອງປີທີ່ມີກະດານຫາປາໃນມືຂອງລາວ. ແລະຂ້ອຍແນ່ໃຈວ່ານັດທໍາອິດທີ່ລາວຈະເວົ້າຈະເປັນ...
+
+148
+00:09:17,250 --> 00:09:20,400
+[JACK]
+Do you mind if I kiss your niece, sir?
+ເຈົ້າບໍ່ເປັນຫຍັງຖ້າຂ້ອຍຈູບນ້ອງສາວຂອງທ່ານບໍ, ທ້າວ?
+
+149
+00:09:20,900 --> 00:09:26,900
+[MRS. BURDEN]
+To all the good times we've had together at Burden's Landing. And especially to this one. Because my son's home.
+ເຖິງເວລາທີ່ດີທັງ ຫມົດ ທີ່ພວກເຮົາໄດ້ມີຮ່ວມກັນຢູ່ Burden's
+Landing. ແລະໂດຍສະເພາະກັບຄັ້ງນີ້. ເພາະວ່າລູກຊາຍຂອງຂ້ອຍຢູ່ເຮືອນ.
+
+150
+00:09:27,400 --> 00:09:29,850
+[JACK]
+Thank you, Mother. Thank you very much.
+ຂອບໃຈແມ່. ຂອບໃຈຫຼາຍໆ.
+
+151
+00:09:30,350 --> 00:09:36,350
+[MRS. BURDEN]
+Monty, Anne and I have been discussing Jack's career. What do you think he ought to go in for? Shall he be a lawyer, doctor...
+ໂມນຕິ, ແອນແລະຂ້ອຍ ກໍາ ລັງປຶກສາຫາລືກ່ຽວກັບອາຊີບຂອງແຈກ.
+ເຈົ້າຄິດວ່າລາວຄວນເຂົ້າໄປໃນຫຍັງ? ລາວຈະເປັນທະນາຍຄວາມ, ດອກຕໍ...
+
+152
+00:09:36,850 --> 00:09:39,300
+[ANNE]
+We were just discussing whether you should...
+ພວກເຮົາພຽງແຕ່ປຶກສາຫາລືວ່າເຈົ້າຄວນ...
+
+153
+00:09:39,800 --> 00:09:41,900
+[JACK]
+I like what I'm doing, Mother.
+ຂ້ອຍມັກສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງເຮັດ, ແມ່.
+
+154
+00:09:42,400 --> 00:09:48,400
+[MCEVOY]
+You do very well at it. I read your articles about this fellow... Willie Stark. Very convincing... Too convincing for my tastes.
+ເຈົ້າເຮັດໄດ້ດີຫຼາຍ. ຂ້ອຍອ່ານບົດຂຽນຂອງທ່ານກ່ຽວກັບຄົນນີ້...
+ວີລີ ສຕາກ. ເຊື່ອຖືຫຼາຍ... ເຊື່ອຖືເກີນໄປ ສໍາ ລັບລົດຊາດຂອງຂ້ອຍ.
+
+155
+00:09:48,900 --> 00:09:51,000
+[JACK]
+A lot of people like them.
+ຄົນຫຼາຍຄົນມັກພວກມັນ.
+
+156
+00:09:51,500 --> 00:09:57,500
+[MCEVOY]
+A lot of people are fools. Articles like that shouldn't be permitted. They only tend to incite people.
+ຄົນຫຼາຍຄົນເປັນຄົນໂງ່. ບົດຂຽນເຊັ່ນນັ້ນບໍ່ຄວນອະນຸຍາດ
+. ພວກເຂົາພຽງແຕ່ມັກຊຸກຍູ້ຄົນເທົ່ານັ້ນ.
+
+157
+00:09:58,000 --> 00:10:00,000
+[JACK]
+What are you afraid of?
+ເຈົ້າຢ້ານຫຍັງ?
+
+158
+00:10:00,500 --> 00:10:06,500
+[STANTON]
+I thought they were very good. I was proud of you, Jack. I was particularly interested in Stark's ideas on health and medicine. You know the conditions at the hospital I work in. They're intolerable. I'd like to meet this Willie Stark. He sounds like an honest man.
+ຂ້ອຍຄິດວ່າພວກມັນດີຫຼາຍ. ຂ້ອຍພາກພູມໃຈເຈົ້າ, ແຈກ. ຂ້ອຍສົນໃຈແນວຄິດຂອງສຕາກກ່ຽວກັບສຸຂະພາບແລະການແພດຢ່າງພິເສດ.
+ເຈົ້າຮູ້ເງື່ອນໄຂໃນໂຮງຫມໍທີ່ຂ້ອຍເຮັດວຽກຢູ່. ພວກເຂົາບໍ່ຍອມຮັບໄດ້. ຂ້ອຍຢາກພົບກັບວີລີ ສຕາກຄົນນີ້. ລາວເບິ່ງຄືວ່າເປັນຜູ້ຊາຍຊື່ສັດ.
+
+159
+00:10:07,000 --> 00:10:13,000
+[MCEVOY]
+Honest man? This state is full of these log-cabin Abe Lincolns with price tags on them. The louder he yells the higher his price.
+ຜູ້ຊາຍທີ່ຊື່ສັດບໍ? ລັດນີ້ເຕັມໄປດ້ວຍກະຕູ້ໄມ້ແອບບີ
+ລິນຄອນນ໌ທີ່ມີປ້າຍລາຄາຢູ່ເທິງພວກມັນ. ລາວຮ້ອງໄຫ້ຫຼາຍຂຶ້ນລາຄາຂອງລາວສູງຂຶ້ນ.
+
+160
+00:10:13,500 --> 00:10:16,300
+[JACK]
+You think you can buy anything, don't you?
+ເຈົ້າຄິດວ່າເຈົ້າສາມາດຊື້ທຸກຢ່າງໄດ້, ແມ່ນບໍ?
+
+161
+00:10:16,800 --> 00:10:18,800
+[MCEVOY]
+Yes, don't you?
+ແມ່ນແລ້ວ, ເຈົ້າບໍ່?
+
+162
+00:10:19,300 --> 00:10:21,300
+[MCEVOY]
+What do you think, Judge?
+ເຈົ້າຄິດແນວໃດ, ຜູ້ພິພາກສາ?
+
+163
+00:10:21,800 --> 00:10:24,950
+[JUDGE]
+I think this state could stand a few changes.
+ຂ້ອຍຄິດວ່າລັດນີ້ສາມາດຍອມຮັບການປ່ຽນແປງບາງຢ່າງໄດ້.
+
+164
+00:10:25,450 --> 00:10:28,250
+[MCEVOY]
+Well, I'll tell you what I think --
+ດີ, ຂ້ອຍຈະບອກເຈົ້າວ່າຂ້ອຍຄິດແນວໃດ -
+
+165
+00:10:28,750 --> 00:10:30,850
+[ANNE]
+Oh, please... let's not talk politics.
+ໂອ້, ກະລຸນາ... ຢ່າເວົ້າກ່ຽວກັບການເມືອງ.
+
+166
+00:10:31,350 --> 00:10:37,350
+[MRS. BURDEN]
+Anne is right. I absolutely forbid any more of it. I know what we need, we need another toast.  You propose it, Monty... you're so good at it.
+ແອນແມ່ນຖືກຕ້ອງ. ຂ້ອຍຫ້າມມັນອີກຢ່າງໃດໆ. ຂ້ອຍຮູ້ວ່າພວກເຮົາຕ້ອງການຫຍັງ,
+ພວກເຮົາຕ້ອງການໂຊກແຊງອີກຄັ້ງ. ເຈົ້າສະເຫນີມັນ, ໂມນຕີ້... ເຈົ້າດີຫຼາຍໃນມັນ.
+
+167
+00:10:37,850 --> 00:10:43,850
+[JUDGE]
+To the young people... to Anne, to Jack, to Adam... To what lies before them. To the world they'll make... in spite of the mistakes we've made.
+ຕໍ່ຄົນຫນຸ່ມ... ຕໍ່ແອນ, ກັບແຈກ, ກັບອາດາມ... ຕໍ່ສິ່ງທີ່ຢູ່ຕໍ່ຫນ້າພວກເຂົາ
+. ຕໍ່ໂລກທີ່ພວກເຂົາຈະເຮັດ... ເຖິງແມ່ນວ່າຄວາມຜິດພາດທີ່ພວກເຮົາໄດ້ເຮັດ.
+
+168
+00:10:44,350 --> 00:10:50,350
+[MCEVOY]
+The mistakes you've made, not me. You're all still pretty high and mighty, aren't you? You all think this state needs a change. You don't like the way it's run. Well, who's going to run it? Willie Stark? The Judge?  You? You can be bought too. As a matter of fact you have been. And with my money.
+ຄວາມຜິດພາດທີ່ທ່ານໄດ້ເຮັດ, ບໍ່ແມ່ນຂ້ອຍ. ເຈົ້າທັງ ຫມົດ ຍັງສູງແລະເຂັ້ມແຂງຫຼາຍ, ແມ່ນບໍ? ເຈົ້າທຸກຄົນຄິດວ່າລັດນີ້ຕ້ອງການການປ່ຽນແປງ.
+ເຈົ້າບໍ່ມັກວິທີທີ່ມັນຖືກດໍາເນີນການ. ດີ, ໃຜຈະດໍາເນີນການມັນ? ວີລີ ສຕາກ? ຜູ້ພິພາກສາ? ເຈົ້າ? ເຈົ້າສາມາດຊື້ໄດ້ເຊັ່ນກັນ. ໃນຄວາມເປັນຈິງເຈົ້າໄດ້. ແລະດ້ວຍເງິນຂອງຂ້ອຍ.
+
+169
+00:10:50,850 --> 00:10:54,350
+[MCEVOY]
+That's a waste of good liquor.  Your mother wouldn't approve.
+ນັ້ນແມ່ນການເສຍເຫຼົ້າທີ່ດີ. ແມ່ຂອງທ່ານຈະບໍ່ເຫັນດີ.
+
+170
+00:10:54,850 --> 00:10:56,850
+[MRS. BURDEN]
+Jack...
+ແຈກ...
+
+171
+00:10:57,350 --> 00:10:59,800
+[MRS. BURDEN]
+Jack... you go back in and apologize.
+ແຈກ... ເຈົ້າກັບມາແລະຂໍໂທດ.
+
+172
+00:11:00,300 --> 00:11:02,300
+[JACK]
+Apologize? I'd rather die.
+ຂໍໂທດບໍ? ຂ້ອຍມັກຈະຕາຍ.
+
+173
+00:11:02,800 --> 00:11:04,900
+[MRS. BURDEN]
+I've got to live with him.
+ຂ້ອຍຕ້ອງຢູ່ກັບລາວ.
+
+174
+00:11:05,400 --> 00:11:10,300
+[JACK]
+Well, I don't. Neither do you. You don't love him, Mother. You never did.
+ດີ, ຂ້ອຍບໍ່ເຮັດ. ເຈົ້າກໍ່ບໍ່.
+ເຈົ້າບໍ່ຮັກລາວ, ແມ່. ເຈົ້າບໍ່ໄດ້ເຮັດເລີຍ.
+
+175
+00:11:10,800 --> 00:11:13,950
+[MRS. BURDEN]
+Son, don't spoil anything now... He can help you.
+ລູກຊາຍ, ຢ່າທໍາລາຍຫຍັງເລີຍດຽວນີ້... ລາວສາມາດຊ່ວຍເຈົ້າໄດ້.
+
+176
+00:11:14,450 --> 00:11:20,450
+[JACK]
+I can get along without him. You need this house. And the parties. And the cars and the clothes and the lies. I don't. It's the truth, Mother, face it. For once in your life, face it.
+ຂ້ອຍສາມາດຢູ່ໄດ້ໂດຍບໍ່ມີລາວ. ເຈົ້າຕ້ອງການເຮືອນນີ້. ແລະງານລ້ຽງ. ແລະລົດແລະເຄື່ອງນຸ່ງຫົ່ມແລະຕົວະ
+. ຂ້ອຍບໍ່ເຮັດ. ມັນເປັນຄວາມຈິງ, ແມ່, ປະເຊີນກັບມັນ. ເປັນຄັ້ງດຽວໃນຊີວິດຂອງທ່ານ, ຕໍ່ຫນ້າມັນ.
+
+177
+00:11:20,950 --> 00:11:23,050
+[MRS. BURDEN]
+Anne, please... please make him understand.
+ແອນ, ກະລຸນາ... ກະລຸນາກໍາລັງເຮັດໃຫ້ລາວເຂົ້າໃຈ.
+
+178
+00:11:23,550 --> 00:11:29,550
+[JACK]
+Anne, Burden's Landing is a place on the moon. It isn't real. It doesn't exist. It's me pretending I live on what I earn. It's my mother trying to keep herself young, and drinking herself old doing it. It's you and Adam living in this house as though your father were still alive. It's an old man like the Judge dreaming of the past... Anne, come away with me.
+ແອນນ໌, ການລົງຈອດຂອງບາເດັນແມ່ນບ່ອນຢູ່ເທິງດວງຈັນ. ມັນບໍ່ແມ່ນຄວາມເປັນຈິງ. ມັນບໍ່ມີຢູ່. ມັນແມ່ນຂ້ອຍທີ່ເຮັດຕົວວ່າຂ້ອຍ ດໍາ ລົງຊີວິດຈາກສິ່ງທີ່ຂ້ອຍຫາເງິນໄດ້. ມັນແມ່ນແມ່ຂອງຂ້ອຍທີ່ພະຍາຍາມຮັກສາຕົວເອງເປັນໄວຫນຸ່ມ
+, ແລະດື່ມຕົວເອງອາຍຸເຮັດມັນ. ມັນແມ່ນເຈົ້າແລະແອນດາມທີ່ອາໄສຢູ່ໃນເຮືອນນີ້ຄືກັບວ່າພໍ່ຂອງທ່ານຍັງມີຊີວິດຢູ່. ມັນເປັນຜູ້ຊາຍເຖົ້າຄືກັບຜູ້ພິພາກສາທີ່ຝັນກ່ຽວກັບອະດີດ... ແອນ, ໄປກັບຂ້ອຍ.
+
+179
+00:11:30,050 --> 00:11:32,050
+[ANNE]
+And do what?
+ແລະເຮັດຫຍັງ?
+
+180
+00:11:32,550 --> 00:11:38,500
+[JACK]
+And live in a shack and eat red beans. Anne, what do you want me to do?
+ແລະອາໄສຢູ່ໃນຈານແລະກິນຖົ່ວແດງ. ແອນ, ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+
+181
+00:11:39,000 --> 00:11:45,000
+[ANNE]
+Oh, Jack, Jack, you haven't been sure. You've gone from one thing to the other... a year at law school, and now this job as a reporter...
+ໂອ້, ແຈກ, ແຈັກ, ເຈົ້າບໍ່ແນ່ໃຈ. ເຈົ້າໄດ້ຈາກສິ່ງ ຫນຶ່ງ ໄປຫາສິ່ງອື່ນ
+... ຫນຶ່ງ ປີໃນໂຮງຮຽນກົດ ຫມາຍ, ແລະດຽວນີ້ວຽກງານນີ້ເປັນນັກຂ່າວ...
+
+182
+00:11:45,500 --> 00:11:48,300
+[JACK]
+Are you afraid I can't make a living?
+ເຈົ້າຢ້ານວ່າຂ້ອຍບໍ່ສາມາດຫາເງິນຢູ່ໄດ້ບໍ?
+
+183
+00:11:48,800 --> 00:11:54,800
+[ANNE]
+Oh, no, Jack, it isn't that. I don't care about the money. It... it's just that I... I want you to be something.
+ໂອ້, ບໍ່, ແຈກ, ມັນບໍ່ແມ່ນນັ້ນ. ຂ້ອຍບໍ່ສົນໃຈກ່ຽວກັບເງິນ. ມັນ
+... ມັນພຽງແຕ່ວ່າຂ້ອຍ... ຂ້ອຍຢາກໃຫ້ເຈົ້າເປັນບາງສິ່ງບາງຢ່າງ.
+
+184
+00:11:55,300 --> 00:11:58,100
+[JACK]
+What is it you want me to be?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເປັນຫຍັງ?
+
+185
+00:11:58,600 --> 00:12:03,850
+[ANNE]
+I don't know. It's just that I want you to be... to do... something important.
+ຂ້ອຍບໍ່ຮູ້. ມັນພຽງແຕ່ວ່າຂ້ອຍຢາກໃຫ້ເຈົ້າເປັນ
+... ເພື່ອເຮັດ... ບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນ.
+
+186
+00:12:04,350 --> 00:12:10,300
+[JACK]
+Like your father. All right. I'll run for governor.  Anne, I'm sorry. I'm sorry I said that.
+ຄືກັບພໍ່ຂອງທ່ານ. ດີແລ້ວ. ຂ້ອຍຈະລົງແຂ່ງຂັນເປັນຜູ້ປົກຄອງ
+. ແອນ, ຂ້ອຍຂໍໂທດ. ຂ້ອຍ ຂໍໂທດທີ່ເວົ້າແບບນັ້ນ.
+
+187
+00:12:10,800 --> 00:12:16,400
+[ANNE]
+All right, Jack. I'll go away with you. I'll do anything you want me to do.
+ດີແລ້ວ, ແຈກ. ຂ້ອຍຈະໄປກັບເຈົ້າ.
+ຂ້ອຍເຮັດທຸກຢ່າງທີ່ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດ.
+
+188
+00:12:16,900 --> 00:12:22,900
+[JACK]
+Anne, I've wanted you to say that more than anything in the world, and now that you've said it... Anne, I guess you were right. I'm not sure of anything, including myself. I'm not sure I could live up to the...  Anne, wait for me. Please wait for me.
+ແອນນ໌, ຂ້ອຍຢາກໃຫ້ເຈົ້າເວົ້າແບບນັ້ນຫຼາຍກ່ວາສິ່ງໃດໃນໂລກ, ແລະດຽວນີ້ທີ່ເຈົ້າໄດ້ເວົ້າມັນ... ແອນ, ຂ້ອຍຄິດວ່າເຈົ້າຖືກຕ້ອງ.
+ຂ້ອຍບໍ່ແນ່ໃຈຫຍັງເລີຍ, ລວມທັງຕົວເອງ. ຂ້ອຍບໍ່ໄດ້ແນ່ໃຈວ່າຂ້ອຍສາມາດປະຕິບັດໄດ້ກັບ...ແອນ, ລໍຖ້າຂ້ອຍ. ກະລຸນາລໍຖ້າຂ້າພະເຈົ້າ.
+
+189
+00:12:23,400 --> 00:12:25,400
+[ANNE]
+I'll wait for you.
+ຂ້ອຍຈະລໍຖ້າເຈົ້າ.
+
+190
+00:12:25,900 --> 00:12:28,700
+[MADISON]
+Hello, Jack. Cut your vacation short, didn't you?
+ສະບາຍດີ, ແຈກ. ຕັດການພັກຜ່ອນຂອງທ່ານສັ້ນ, ແມ່ນບໍ?
+
+191
+00:12:29,200 --> 00:12:31,200
+[JACK]
+Yeah.
+ແມ່ນແລ້ວ.
+
+192
+00:12:31,700 --> 00:12:36,250
+[MADISON]
+By the way, Jack, the fellow you wrote the articles about... uh... Stark.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ແຈກ,
+ຜູ້ຊາຍທີ່ທ່ານຂຽນບົດຂຽນກ່ຽວກັບ... ອູ... ສຕາກ.
+
+193
+00:12:36,750 --> 00:12:38,750
+[JACK]
+Yeah?
+ແມ່ນແລ້ວບໍ?
+
+194
+00:12:39,250 --> 00:12:41,250
+[MADISON]
+He lost.
+ລາວສູນເສຍ.
+
+195
+00:12:41,750 --> 00:12:44,900
+[JACK]
+Well, I guess that's the end of Willie Stark.
+ດີ, ຂ້ອຍຄິດວ່ານັ້ນແມ່ນສິ້ນສຸດຂອງວີລີ ສຕາກ.
+
+196
+00:12:45,400 --> 00:12:47,850
+[WILLIE]
+...Measure of the damages is caused by...
+... ການວັດແທກຄວາມເສຍຫາຍແມ່ນເກີດຈາກ...
+
+197
+00:12:48,350 --> 00:12:50,350
+[LUCY]
+A breach...
+ການລະເມີດ...
+
+198
+00:12:50,850 --> 00:12:52,850
+[WILLIE]
+A breach...
+ການລະເມີດ...
+
+199
+00:12:53,350 --> 00:12:55,350
+[LUCY]
+Of an agreement...
+ຂອງຂໍ້ຕົກລົງ...
+
+200
+00:12:55,850 --> 00:12:57,850
+[WILLIE]
+Of an agreement...
+ຂອງຂໍ້ຕົກລົງ...
+
+201
+00:12:58,350 --> 00:13:00,350
+[LUCY]
+To sell personal property...
+ເພື່ອຂາຍຊັບສິນສ່ວນຕົວ...
+
+202
+00:13:00,850 --> 00:13:03,300
+[WILLIE]
+To sell...  Oh, two years of this.
+ເພື່ອຂາຍ... ໂອ້, ສອງປີຂອງສິ່ງນີ້.
+
+203
+00:13:03,800 --> 00:13:05,900
+[LUCY]
+Oh, go on, Willie, go on.
+ໂອ້, ໄປ, ວີລີ, ໄປ.
+
+204
+00:13:06,400 --> 00:13:08,400
+[WILLIE]
+Willie Stark... Bachelor of Law...
+ວີລີ ສຕາກ... Bachelor ຂອງກົດຫມາຍ...
+
+205
+00:13:08,900 --> 00:13:11,700
+[WILLIE]
+If you'll just let me take your case...
+ຖ້າເຈົ້າພຽງແຕ່ປ່ອຍໃຫ້ຂ້ອຍເອົາກໍລະນີຂອງທ່ານ...
+
+206
+00:13:12,200 --> 00:13:17,100
+[WILLIE]
+Really, I'll wait for my fee. Just as long as you want me to.
+ແທ້ຈິງແລ້ວ, ຂ້ອຍຈະລໍຖ້າຄ່າທໍານຽມຂອງຂ້ອຍ.
+ພຽງແຕ່ດົນເທົ່າທີ່ທ່ານຕ້ອງການໃຫ້ຂ້ອຍເຮັດ.
+
+207
+00:13:17,600 --> 00:13:19,600
+[LUCY'S VOICE]
+Go on, Willie, go on.
+ໄປ, ວີລີ, ໄປ.
+
+208
+00:13:20,100 --> 00:13:23,950
+[WILLIE'S VOICE]
+They're not going to kick me around like I was dirt.
+ພວກເຂົາຈະບໍ່ຕີຂ້ອຍຢູ່ທົ່ວໄປຄືກັບວ່າຂ້ອຍເປັນດິນ.
+
+209
+00:13:24,450 --> 00:13:29,350
+[LUCY'S VOICE]
+If you lose you can give a little more time studying your law books.
+ຖ້າເຈົ້າສູນເສຍເຈົ້າສາມາດໃຫ້ເວລາເພີ່ມເຕີມ
+ຫນ້ອຍ ຫນຶ່ງ ໃນການສຶກສາປື້ມກົດ ຫມາຍ ຂອງທ່ານ.
+
+210
+00:13:29,850 --> 00:13:34,050
+[WILLIE'S VOICE]
+I'm going to be on that same street corner tomorrow, Mr. Duffy!
+ຂ້ອຍຈະຢູ່ແຄມຖະຫນົນດຽວກັນມື້ອື່ນ, ທ້າວດັບຟີ!
+
+211
+00:13:34,550 --> 00:13:37,350
+[DUFFY'S VOICE]
+By all means. Free speech, free country, Willie.
+ແນ່ນອນ. ການປາກເວົ້າເສລີ, ປະເທດເສຣີ, ວີລີ.
+
+212
+00:13:37,850 --> 00:13:43,850
+[WILLIE'S VOICE]
+That brick factory is owned by a brother-in-law of one of the commissioners. The county commissioners rejected the low bid on the schoolhouse.
+ໂຮງງານຜະລິດໄມ້ເຫຼັກນັ້ນເປັນເຈົ້າຂອງຂອງອ້າຍນ້ອງຂອງຄະນະກໍາມະການ
+ຫນຶ່ງ. ຄະນະ ກໍາມະການເມືອງໄດ້ປະຕິເສດຂໍ້ສະ ເຫນີ ຕໍ່າ ສໍາ ລັບໂຮງຮຽນ.
+
+213
+00:13:44,350 --> 00:13:47,150
+[TEACHER]
+All right, children, this is a fire drill.
+ດີແລ້ວ, ເດັກນ້ອຍ, ນີ້ແມ່ນການຝຶກອົບຮົມໄຟ.
+
+214
+00:13:47,650 --> 00:13:49,650
+[TEACHER]
+Remember now, walk quietly.
+ຈື່ໄວ້ດຽວນີ້, ຍ່າງຢ່າງງຽບສະຫງົບ.
+
+215
+00:13:50,150 --> 00:13:53,650
+[MAN]
+Oh, Lord, I'm punished for voting against an honest man.
+ໂອ້ ພຣະຜູ້ເປັນເຈົ້າ,
+ຂ້ອຍຖືກລົງໂທດເພາະວ່າໄດ້ລົງຄະແນນສຽງຕໍ່ຕ້ານຜູ້ຊາຍທີ່ຊື່ສັດ.
+
+216
+00:13:54,150 --> 00:14:00,150
+[VOICES OF THE MOURNERS]
+God bless you, Willie. If we had only listened to you, Willie. You were right, Willie. Let me shake your hand, Willie. We should have listened, Willie. You were right all the time.
+ພຣະເຈົ້າໃຫ້ພອນເຈົ້າ, ວິລີ. ຖ້າພວກເຮົາພຽງແຕ່ຟັງເຈົ້າ, ວີລີ. ເຈົ້າເວົ້າຖືກຕ້ອງ,
+ວິດລີ. ຂໍໃຫ້ຂ້ອຍຍືດມືເຈົ້າ, ວິດຣີ. ພວກເຮົາຄວນຟັງ, ວິລີ.ເຈົ້າເວົ້າຖືກຕ້ອງຕະຫຼອດເວລາ.
+
+217
+00:14:00,650 --> 00:14:04,150
+[WILLIE'S VOICE]
+A voice in the wilderness. A man named Willie Stark...
+ສຽງໃນປ່າປ່າ. ຜູ້ຊາຍຊື່ວ່າວີລີ ສຕາກ...
+
+218
+00:14:04,650 --> 00:14:06,750
+[WILLIE]
+How about that, Lucy, that's me.
+ມັນແນວໃດ, ລູຊີ, ນັ້ນແມ່ນຂ້ອຍ.
+
+219
+00:14:07,250 --> 00:14:10,750
+[B. CITIZENS COMMITTEE FORMED]
+Draft Stark to lead fight to rid state of graft.
+ດຣັຟຕ໌ສຕາກ ເພື່ອນໍາພາການຕໍ່ສູ້ເພື່ອ ກໍາ ຈັດລັດຈາກການສໍ້ໂກງ.
+
+220
+00:14:11,250 --> 00:14:16,500
+[MADISON]
+Get up there. Get up there fast. Your friend, Willie, is hotter than a firecracker.
+ຂຶ້ນມາບ່ອນນັ້ນ. ຂຶ້ນໄປບ່ອນນັ້ນຢ່າງໄວວາ.
+ເພື່ອນຂອງທ່ານ, ວີລີ, ແມ່ນຮ້ອນກວ່າໄຟຟ້າ.
+
+221
+00:14:17,000 --> 00:14:19,000
+[MADISON]
+Stay there with him.
+ຢູ່ບ່ອນນັ້ນກັບລາວ.
+
+222
+00:14:19,500 --> 00:14:25,500
+[POLITICIAN]
+Look, before this Kanoma City business we had this whole area tied up. Now we're losing to Hickville.
+ເບິ່ງ, ກ່ອນທຸລະກິດເມືອງຄາໂນມານີ້ພວກເຮົາມີພື້ນທີ່ທັງ ຫມົດ
+ນີ້ຕິດພັນກັນ. ດຽວນີ້ພວກເຮົາ ກໍາ ລັງສູນເສຍຕໍ່ຮິກວິລ.
+
+223
+00:14:26,000 --> 00:14:29,150
+[POLITICIAN]
+We must find a way to split that vote.
+ພວກເຮົາຕ້ອງຊອກຫາວິທີທີ່ຈະແບ່ງຄະແນນສຽງນັ້ນ.
+
+224
+00:14:29,650 --> 00:14:35,650
+[HARRISON]
+Well, all I know is, the way it is now it looks like I'm not going to win.
+ດີ, ສິ່ງດຽວທີ່ຂ້ອຍຮູ້ແມ່ນ,
+ວິທີທີ່ມັນເປັນໃນປັດຈຸບັນມັນເບິ່ງຄືວ່າຂ້ອຍຈະບໍ່ຊະນະ.
+
+225
+00:14:36,150 --> 00:14:38,600
+[POLITICIAN]
+I know a way... find a dummy.
+ຂ້ອຍຮູ້ວິທີ... ຊອກຫາຄົນໂຊກຮ້າຍ.
+
+226
+00:14:39,100 --> 00:14:41,550
+[SADIE]
+Find a dummy.  That's what we've got.
+ຊອກຫາຄົນໂຊກຮ້າຍ. ນັ້ນແມ່ນສິ່ງທີ່ພວກເຮົາມີ.
+
+227
+00:14:42,050 --> 00:14:48,050
+[POLITICIAN]
+A guy from the sticks... strong enough to grab some votes and dumb enough not to ask questions.
+ຜູ້ຊາຍຈາກກະດານ...
+ແຂງແຮງພໍທີ່ຈະຈັບຄະແນນສຽງບາງຢ່າງແລະໂງ່ພໍທີ່ຈະບໍ່ຖາມຄໍາຖາມ.
+
+228
+00:14:48,550 --> 00:14:54,150
+[DUFFY]
+If you want to listen to a boy from the sticks, I know just the guy.
+ຖ້າເຈົ້າຢາກຟັງເດັກຊາຍຈາກກະດານ, ຂ້ອຍຮູ້ຈັກຄົນດຽວ.
+
+229
+00:14:54,650 --> 00:14:56,650
+[JACK]
+No more politics, eh, Willie?
+ບໍ່ມີການເມືອງອີກແລ້ວ, ແມ່ນບໍ, ວີລີ?
+
+230
+00:14:57,150 --> 00:15:03,150
+[WILLIE]
+No, I worked too hard in my time to get there. I think I'll just go on practicing law and make a little more money.
+ບໍ່, ຂ້ອຍເຮັດວຽກ ຫນັກ ເກີນໄປໃນເວລາຂອງຂ້ອຍເພື່ອໄປບ່ອນນັ້ນ.
+ຂ້ອຍຄິດວ່າຂ້ອຍພຽງແຕ່ຈະສືບຕໍ່ປະຕິບັດກົດ ຫມາຍ ແລະເຮັດເງິນເພີ່ມເຕີມ ຫນ້ອຍ ຫນຶ່ງ.
+
+231
+00:15:03,650 --> 00:15:09,250
+[JACK]
+The question I'd like to know is, why all the speeches you're making around the countryside?
+ຄໍາຖາມທີ່ຂ້ອຍຢາກຮູ້ແມ່ນ, ເປັນຫຍັງການກ່າວປາໄສທັງ
+ຫມົດ ທີ່ເຈົ້າ ກໍາ ລັງເວົ້າຢູ່ທົ່ວເຂດຊົນນະບົດ?
+
+232
+00:15:09,750 --> 00:15:11,750
+[WILLIE]
+Wonder who that is?
+ຂ້ອຍຢາກຮູ້ວ່າຄົນນັ້ນແມ່ນໃຜ?
+
+233
+00:15:12,250 --> 00:15:18,250
+[DUFFY]
+Brought some people all the way up from the state capital just to meet you.  Folks, I want you to meet Willie Stark, the next governor of our state.
+ຂ້ອຍໄດ້ເອົາຄົນບາງຄົນຈາກນະຄອນຫຼວງຂອງລັດພຽງແຕ່ເພື່ອພົບກັບເຈົ້າ. ຄົນ
+, ຂ້ອຍຢາກໃຫ້ເຈົ້າພົບກັບວີລີ ສຕາກ, ຜູ້ປົກຄອງຕໍ່ໄປຂອງລັດຂອງພວກເຮົາ.
+
+234
+00:15:18,750 --> 00:15:24,750
+[WILLIE STARK FOR GOVERNOR.]
+The camera pans to the road, where an old Model T comes bouncing along. As it passes we see a poster stuck on its back: WILLIE STARK -- GOVERNOR.
+ກ້ອງຖ່າຍຮູບຍ່າງໄປທາງ, ບ່ອນທີ່ Model T ເກົ່າມາໂດດໄປຕາມ.
+ໃນຂະນະທີ່ມັນຜ່ານໄປພວກເຮົາເຫັນປ້າຍຕິດຢູ່ດ້ານຫຼັງຂອງມັນ: ວີລີ ສຕາກ - ຜູ້ປົກຄອງ.
+
+235
+00:15:25,250 --> 00:15:31,250
+[WILLIE]
+Folks, if you'll just bear patiently with me for a couple of minutes, I'd like to tell you what this state needs. It needs a balanced tax program. Now I'd like to give you the facts and the figures.
+ພວກຄົນ, ຖ້າເຈົ້າພຽງແຕ່ອົດທົນກັບຂ້ອຍເປັນເວລາສອງສາມນາທີ, ຂ້ອຍຢາກບອກເຈົ້າວ່າລັດນີ້ຕ້ອງການຫຍັງ
+. ມັນຕ້ອງການໂປແກຼມພາສີທີ່ສົມດຸນ. ດຽວນີ້ຂ້ອຍຢາກໃຫ້ເຈົ້າຄວາມຈິງແລະຕົວເລກ.
+
+236
+00:15:31,750 --> 00:15:33,750
+[WILLIE]
+How did it sound, Jack?
+ມັນສຽງແນວໃດ, ແຈກ?
+
+237
+00:15:34,250 --> 00:15:36,250
+[JACK]
+Fine, Willie, fine.
+ດີ, ວີລີ, ດີ.
+
+238
+00:15:36,750 --> 00:15:40,250
+[WILLIE]
+Say... I forgot to send a telegram to Lucy... Conductor!
+ເວົ້າ... ຂ້ອຍລືມສົ່ງໂທລະພາບໄປຫາລູຊີ... ຜູ້ຂັບຂີ່!
+
+239
+00:15:40,750 --> 00:15:46,000
+[WILLIE]
+Now right here... right here I'd like to add something about last year's taxes... eh?
+ດຽວນີ້ຢູ່ບ່ອນນີ້...
+ຢູ່ບ່ອນນີ້ຂ້ອຍຢາກເພີ່ມບາງສິ່ງບາງຢ່າງກ່ຽວກັບພາສີປີທີ່ຜ່ານມາ... ແມ່ນບໍ?
+
+240
+00:15:46,500 --> 00:15:50,000
+[DUFFY]
+I wouldn't add a thing. Just give them the facts.
+ຂ້ອຍຈະບໍ່ເພີ່ມຫຍັງເລີຍ. ພຽງແຕ່ໃຫ້ພວກເຂົາຄວາມຈິງ.
+
+241
+00:15:50,500 --> 00:15:52,500
+[PILLSBURY]
+Yeah... and the figures.
+ແມ່ນແລ້ວ... ແລະຕົວເລກ.
+
+242
+00:15:53,000 --> 00:15:55,000
+[DUFFY]
+Great speech.
+ການກ່າວປາໄສທີ່ດີເລີດ.
+
+243
+00:15:55,500 --> 00:16:01,500
+[WILLIE]
+What this state needs is a balanced tax program. Last year, last year the state claimed to have spent on roads...
+ສິ່ງທີ່ລັດນີ້ຕ້ອງການແມ່ນໂຄງການພາສີທີ່ສົມດຸນ. ປີຜ່ານມາ
+, ປີທີ່ຜ່ານມາລັດອ້າງວ່າໄດ້ໃຊ້ຈ່າຍໃນຖະຫນົນຫົນທາງ...
+
+244
+00:16:02,000 --> 00:16:05,150
+[JACK]
+Do you mind if I sit with you, Sadie?
+ເຈົ້າບໍ່ເປັນຫຍັງຖ້າຂ້ອຍນັ່ງຢູ່ກັບເຈົ້າ, ຊາດີ?
+
+245
+00:16:05,650 --> 00:16:07,650
+[SADIE]
+Stand... sit...
+ຢືນ... ນັ່ງ...
+
+246
+00:16:08,150 --> 00:16:11,650
+[JACK]
+Thanks... Tell me, what are you on this merry-go-round for?
+ຂອບໃຈ... ບອກຂ້ອຍ, ເຈົ້າຢູ່ໃນການທ່ອງທ່ຽວນີ້ເປັນຫຍັງ?
+
+247
+00:16:12,150 --> 00:16:14,150
+[SADIE]
+I take notes.
+ຂ້ອຍຂຽນຂໍ້ສັງເກດ.
+
+248
+00:16:14,650 --> 00:16:16,650
+[JACK]
+For whom?
+ສໍາລັບໃຜ?
+
+249
+00:16:17,150 --> 00:16:19,150
+[SADIE]
+For those who pay me.
+ສໍາລັບຜູ້ທີ່ຈ່າຍເງິນໃຫ້ຂ້ອຍ.
+
+250
+00:16:19,650 --> 00:16:21,650
+[JACK]
+Which is.
+ນັ້ນແມ່ນ.
+
+251
+00:16:22,150 --> 00:16:24,150
+[SADIE]
+People.
+ຄົນ.
+
+252
+00:16:24,650 --> 00:16:26,650
+[JACK]
+Smart people.
+ຄົນສະຫຼາດ.
+
+253
+00:16:27,150 --> 00:16:29,950
+[SADIE]
+Oh, yeah. Anybody that pays me is smart.
+ໂອ້, ແມ່ນແລ້ວ. ໃຜທີ່ຈ່າຍເງິນໃຫ້ຂ້ອຍແມ່ນສະຫຼາດ.
+
+254
+00:16:30,450 --> 00:16:35,000
+[JACK]
+You don't have to be smart to frame a guy like Willie Stark.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງສະຫຼາດທີ່ຈະສໍ້ໂກງຄົນເຊັ່ນວີລີ ສຕາກ.
+
+255
+00:16:35,500 --> 00:16:37,500
+[SADIE]
+No. No, brother, you don't.
+ບໍ່. ບໍ່, ອ້າຍ, ເຈົ້າບໍ່ເຮັດ.
+
+256
+00:16:38,000 --> 00:16:40,100
+[JACK]
+It is a frame, isn't it?
+ມັນເປັນກອບ, ແມ່ນບໍ?
+
+257
+00:16:40,600 --> 00:16:43,050
+[SADIE]
+Why don't you give me a cigarette?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ໃຫ້ຂ້ອຍສູບຢາ?
+
+258
+00:16:43,550 --> 00:16:47,400
+[JACK]
+To split the vote and win the election for Harrison, huh?
+ເພື່ອແບ່ງຄະແນນສຽງແລະຊະນະການເລືອກຕັ້ງ ສໍາ ລັບຮາຣີສັນ, ແມ່ນບໍ?
+
+259
+00:16:47,900 --> 00:16:50,350
+[SADIE]
+If you know, why do you ask?
+ຖ້າເຈົ້າຮູ້, ເປັນຫຍັງເຈົ້າຈຶ່ງຖາມ?
+
+260
+00:16:50,850 --> 00:16:52,950
+[JACK]
+I just want to make sure.
+ຂ້ອຍພຽງແຕ່ຢາກແນ່ໃຈວ່າ.
+
+261
+00:16:53,450 --> 00:16:55,450
+[SADIE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+262
+00:16:55,950 --> 00:17:01,950
+[JACK]
+Look, why don't you tell the boys back home to save their money. Willie couldn't steal a vote from... from Abe Lincoln in the Cradle of the Confederacy.
+ເບິ່ງ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກເດັກຊາຍກັບບ້ານໃຫ້ປະຢັດເງິນຂອງພວກເຂົາ
+. ວີລີບໍ່ສາມາດລັກຄະແນນສຽງຈາກ... ຈາກອາເບີ ລິນຄອນໃນຈານຂອງສະຫະພັນ.
+
+263
+00:17:02,450 --> 00:17:08,450
+[SADIE]
+I wish the poor... had enough sense to have somebody give him a good greasing for the beating he's going to get. 'Cause this way all he gets out of it is the ride.  Hey, those speeches! Ain't they awful? Ain't they just plain awful? Question to you: if somebody told him he was a sucker, do you think he'd quit?
+ຂ້ອຍຢາກໃຫ້ຄົນທຸກຍາກ... ມີຄວາມຮູ້ສຶກພຽງພໍທີ່ຈະມີຄົນໃຫ້ລາວນ້ ໍາ ມັນທີ່ດີ ສໍາ ລັບການຕີລາວທີ່ຈະໄດ້ຮັບ. ເພາະວ່າວິທີນີ້ລາວພຽງແຕ່ອອກຈາກມັນແມ່ນການຂັບລົດ. ເຮ້,
+ການກ່າວຄໍາປາໄສເຫຼົ່ານັ້ນ! ພວກເຂົາບໍ່ຮ້າຍແຮງບໍ? ພວກເຂົາບໍ່ພຽງແຕ່ຮ້າຍແຮງແທ້ບໍ? ຄໍາ ຖາມຕໍ່ເຈົ້າ: ຖ້າໃຜບອກລາວວ່າລາວເປັນຄົນໂຊກຮ້າຍ, ເຈົ້າຄິດວ່າລາວຈະຢຸດບໍ?
+
+264
+00:17:08,950 --> 00:17:11,750
+[JACK]
+I don't know, Sadie. I really don't know.
+ຂ້ອຍບໍ່ຮູ້, ຊາດີ. ຂ້ອຍບໍ່ຮູ້ວ່າແທ້ໆ.
+
+265
+00:17:12,250 --> 00:17:14,700
+[WILLIE]
+Did it sound all right, Mr. Burden?
+ມັນສຽງດີບໍ, ທ້າວບາເດັນ?
+
+266
+00:17:15,200 --> 00:17:17,200
+[JACK]
+Fine, Willie, fine.
+ດີ, ວີລີ, ດີ.
+
+267
+00:17:17,700 --> 00:17:19,700
+[WILLIE]
+Thanks.
+ຂອບໃຈ
+
+268
+00:17:20,200 --> 00:17:26,200
+[WILLIE'S VOICE]
+Now, friends, if you will bear patiently with me for a few minutes, I'll give you the figures. What we need is a balanced tax program...
+ດຽວນີ້, ເພື່ອນມິດ, ຖ້າເຈົ້າຈະອົດທົນກັບຂ້ອຍເປັນເວລາສອງສາມນາທີ,
+ຂ້ອຍຈະໃຫ້ຕົວເລກໃຫ້ເຈົ້າ. ສິ່ງທີ່ພວກເຮົາຕ້ອງການແມ່ນໂຄງການພາສີທີ່ສົມດຸນ...
+
+269
+00:17:26,700 --> 00:17:28,700
+[JACK'S VOICE]
+No, Willie, no.
+ບໍ່, ວີລີ, ບໍ່.
+
+270
+00:17:29,200 --> 00:17:32,000
+[SADIE]
+What I need is some sleep. Shut up!
+ຂ້ອຍຕ້ອງການແມ່ນການນອນບາງຢ່າງ. ປິດງຽບ!
+
+271
+00:17:32,500 --> 00:17:36,700
+[JACK]
+Shut up yourself!  Listen, Willie, try it on your feet this time.
+ປິດຕົວເອງ! ຟັງ, ວີລີ, ພະຍາຍາມມັນຢູ່ເທິງຕີນຄັ້ງນີ້.
+
+272
+00:17:37,200 --> 00:17:42,450
+[WILLIE]
+Oh, no. Wait a minute. My feet are killing me. Let me stay here, huh?
+ໂອ້, ບໍ່. ລໍຖ້າດົນຫນຶ່ງ. ຕີນຂອງຂ້ອຍ ກໍາ
+ລັງຂ້າຂ້ອຍ. ຂໍໃຫ້ຂ້ອຍຢູ່ບ່ອນນີ້, ແມ່ນບໍ?
+
+273
+00:17:42,950 --> 00:17:48,950
+[JACK]
+All right... Look, Willie, you tell 'em too much. Just tell 'em you're going to soak the fat boys and forget the rest of the tax stuff.
+ດີແລ້ວ... ເບິ່ງ, ວີລີ, ເຈົ້າບອກພວກເຂົາຫຼາຍເກີນໄປ.
+ພຽງແຕ່ບອກພວກເຂົາວ່າເຈົ້າຈະຊຸ່ມເດັກຊາຍໄຂມັນແລະລືມເລື່ອງພາສີທີ່ເຫຼືອ.
+
+274
+00:17:49,450 --> 00:17:51,450
+[WILLIE]
+That's what I say.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍເວົ້າ.
+
+275
+00:17:51,950 --> 00:17:57,950
+[JACK]
+But it's the way you say it. Willie, make 'em cry. Make 'em laugh, make 'em mad, even mad at you. Stir 'em up and they'll love it and come back for more. But for heaven's sake don't try and improve their minds.
+ແຕ່ມັນເປັນວິທີທີ່ທ່ານເວົ້າມັນ. ວີລີ, ເຮັດໃຫ້ພວກເຂົາຮ້ອງໄຫ້. ເຮັດໃຫ້ພວກເຂົາມ່ວນຊື່ນ, ເຮັດໃຫ້ພວກເຂົາໂຊກຮ້າຍ,
+ເຖິງແມ່ນວ່າໂຊຄຮ້າຍຕໍ່ເຈົ້າ. ກະຕຸ້ນພວກເຂົາຂຶ້ນແລະພວກເຂົາຈະຮັກມັນແລະກັບມາອີກ. ແຕ່ເພື່ອຄວາມຮັກຂອງສະຫວັນຢ່າພະຍາຍາມປັບປຸງຈິດໃຈຂອງພວກເຂົາ.
+
+276
+00:17:58,450 --> 00:18:00,900
+[WILLIE]
+A man don't have to be governor.
+ຜູ້ຊາຍບໍ່ຈໍາເປັນຕ້ອງເປັນຜູ້ປົກຄອງ.
+
+277
+00:18:01,400 --> 00:18:03,400
+[JACK]
+What?
+ຫຍັງ?
+
+278
+00:18:03,900 --> 00:18:06,350
+[WILLIE]
+A man don't have to be governor.
+ຜູ້ຊາຍບໍ່ຈໍາເປັນຕ້ອງເປັນຜູ້ປົກຄອງ.
+
+279
+00:18:06,850 --> 00:18:09,650
+[JACK]
+Well, they haven't counted up the votes yet.
+ດີ, ພວກເຂົາຍັງບໍ່ຄິດຄະແນນສຽງເທື່ອ.
+
+280
+00:18:10,150 --> 00:18:16,150
+[WILLIE]
+Oh, I'm going to lose, Mr. Burden. I know that. Don't try and fool me. I'm not going to lie to you. I wanted it. I wanted it so badly I stayed up nights thinking about it. A man wants something so badly he gets mixed up in knowing what he wants. It's something inside of you. I would have made a good governor. Better than those other fellows.
+ໂອ້, ຂ້ອຍຈະສູນເສຍ, ທ້າວບາເດັນ. ຂ້ອຍຮູ້ແລ້ວ. ຢ່າພະຍາຍາມຫຼອກລວງຂ້ອຍ. ຂ້ອຍຈະບໍ່ຕົວະເຈົ້າ. ຂ້ອຍຢາກມັນ. ຂ້ອຍຕ້ອງການມັນຫຼາຍຈົນຂ້ອຍຢູ່ຕື່ນໃນຕອນກາງຄືນຄິດກ່ຽວກັບມັນ.
+ຜູ້ຊາຍຕ້ອງການບາງສິ່ງບາງຢ່າງຢ່າງຫຼາຍຈົນລາວຖືກປະສົມປະສານໃນການຮູ້ສິ່ງທີ່ລາວຕ້ອງການ. ມັນແມ່ນບາງຢ່າງພາຍໃນເຈົ້າ. ຂ້າພະເຈົ້າຈະເຮັດຜູ້ປົກຄອງທີ່ດີ. ດີກວ່າຄົນອື່ນນັ້ນ.
+
+281
+00:18:16,650 --> 00:18:18,650
+[JACK]
+Come in.
+ເຂົ້າມາ.
+
+282
+00:18:19,150 --> 00:18:21,150
+[WILLIE]
+A great governor.
+ເຈົ້າແຂວງທີ່ຍິ່ງໃຫຍ່.
+
+283
+00:18:21,650 --> 00:18:26,550
+[SADIE]
+Since you won't let me sleep you might at least give me a drink.
+ເນື່ອງຈາກວ່າເຈົ້າຈະບໍ່ປ່ອຍໃຫ້ຂ້ອຍນອນເຈົ້າອາດຈະໃຫ້ຂ້ອຍດື່ມຢ່າງຫນ້ອຍ
+.
+
+284
+00:18:27,050 --> 00:18:30,550
+[WILLIE]
+Build them highways... greatest system of highways in the country.
+ສ້າງທາງດ່ວນໃຫ້ພວກເຂົາ... ລະບົບທາງດົນທີ່ສຸດໃນປະເທດ.
+
+285
+00:18:31,050 --> 00:18:33,050
+[JACK]
+Help yourself.
+ຊ່ວຍຕົວເອງ.
+
+286
+00:18:33,550 --> 00:18:35,550
+[WILLIE]
+I'll build schools.
+ຂ້ອຍຈະສ້າງໂຮງຮຽນ.
+
+287
+00:18:36,050 --> 00:18:38,050
+[SADIE]
+What's up?
+ມີຫຍັງຂຶ້ນ?
+
+288
+00:18:38,550 --> 00:18:43,800
+[JACK]
+Nothing... except Willie here has been saying as how he's not going to be governor.
+ບໍ່ມີຫຍັງເລີຍ... ຍົກເວັ້ນວີລີທີ່ນີ້
+ກໍາ ລັງເວົ້າວ່າລາວຈະບໍ່ເປັນຜູ້ປົກຄອງ.
+
+289
+00:18:44,300 --> 00:18:46,300
+[SADIE]
+So you told him.
+ສະນັ້ນເຈົ້າຈຶ່ງບອກລາວ.
+
+290
+00:18:46,800 --> 00:18:49,600
+[JACK]
+I don't tell anyone anything... I just listen.
+ຂ້ອຍບໍ່ບອກໃຜຫຍັງເລີຍ... ຂ້ອຍພຽງແຕ່ຟັງ.
+
+291
+00:18:50,100 --> 00:18:52,100
+[SADIE]
+Who told you?
+ໃຜບອກເຈົ້າ?
+
+292
+00:18:52,600 --> 00:18:54,700
+[WILLIE]
+Told me what? Told me what?
+ບອກຂ້ອຍຫຍັງ? ບອກຂ້ອຍແນວໃດ?
+
+293
+00:18:55,200 --> 00:18:57,650
+[SADIE]
+That you're not going to be governor.
+ວ່າເຈົ້າຈະບໍ່ເປັນຜູ້ປົກຄອງ.
+
+294
+00:18:58,150 --> 00:19:00,600
+[WILLIE]
+Jack! Told me what?... Told me what?
+ແຈກ! ບອກຂ້ອຍວ່າຫຍັງ?... ບອກຂ້ອຍຫຍັງ?
+
+295
+00:19:01,100 --> 00:19:04,250
+[SADIE]
+All right! That you've been framed, you poor sap.
+ດີແລ້ວ! ວ່າເຈົ້າຖືກວາງແຜນແລ້ວ, ເຈົ້າໂຊກຮ້າຍຄົນທຸກຍາກ.
+
+296
+00:19:04,750 --> 00:19:06,750
+[WILLIE]
+Framed?
+ຖືກກໍານົດໄວ້ບໍ?
+
+297
+00:19:07,250 --> 00:19:13,250
+[SADIE]
+And how! Oh, you decoy, you woodenhead decoy! And you let 'em. You let 'em because you thought you were the little lamb of God. But you know what you are?  Well, you're the goat! You are the sacrificial goat! You are a sap... because you let 'em.
+ແລະແນວໃດ! ໂອ້, ເຈົ້າເປັນຕົວຊັກຊວນ, ເຈົ້າແມ່ນຫົວໄມ້! ແລະເຈົ້າປ່ອຍໃຫ້ພວກມັນ. ເຈົ້າປ່ອຍໃຫ້ພວກເຂົາເພາະວ່າເຈົ້າຄິດວ່າເຈົ້າເປັນແມວນ້ອຍຂອງພຣະເຈົ້າ
+. ແຕ່ເຈົ້າຮູ້ວ່າເຈົ້າເປັນຫຍັງ? ດີ, ເຈົ້າຄືແບ້! ເຈົ້າເປັນແບ່ການເສຍສະຫຼະຊີວິດ! ເຈົ້າແມ່ນໂຊກແຊ... ເພາະວ່າເຈົ້າອະນຸຍາດໃຫ້ພວກເຂົາ.
+
+298
+00:19:13,750 --> 00:19:15,750
+[JACK]
+Sadie! That's enough.
+ຊາດີ! ນັ້ນພຽງພໍແລ້ວ.
+
+299
+00:19:16,250 --> 00:19:22,250
+[SADIE]
+Enough? He didn't even get anything out of it. Oh, they'd have paid you to take a rap like that, but they didn't have to pay a sap like you. Oh, no, you were so full of yourself and hot air, all you wanted was a chance to stand up on your hind legs and make a speech: my friends, what this state needs is a good five-cent cigar. What this state needs is a --
+ພຽງພໍບໍ? ລາວຍັງບໍ່ໄດ້ຮັບຫຍັງເລີຍຈາກມັນ. ໂອ້, ພວກເຂົາຈະຈ່າຍເງິນໃຫ້ເຈົ້າເພື່ອເອົາ rap ແບບນັ້ນ, ແຕ່ພວກເຂົາບໍ່ຈໍາເປັນຕ້ອງຈ່າຍຊັບຄືກັບເຈົ້າ.ໂອ້, ບໍ່,
+ເຈົ້າເຕັມໄປດ້ວຍຕົວເອງແລະອາກາດຮ້ອນຫຼາຍ, ສິ່ງທີ່ທ່ານຕ້ອງການແມ່ນໂອກາດທີ່ຈະຢືນຢູ່ເທິງຕີນຫຼັງຂອງທ່ານແລະເວົ້າ: ເພື່ອນຂອງຂ້ອຍ, ສິ່ງທີ່ລັດນີ້ຕ້ອງການແມ່ນສູບຢາຫ້າເຊັນທີ່ດີ. ສິ່ງທີ່ລັດນີ້ແມ່ນ -
+
+300
+00:19:22,750 --> 00:19:24,750
+[WILLIE]
+Is it true?
+ມັນເປັນຄວາມຈິງບໍ?
+
+301
+00:19:25,250 --> 00:19:27,700
+[SADIE]
+He wants to know if it's true.
+ລາວຢາກຮູ້ວ່າ ມັນເປັນຄວາມຈິງບໍ.
+
+302
+00:19:28,200 --> 00:19:30,200
+[WILLIE]
+Is it true?
+ມັນເປັນຄວາມຈິງບໍ?
+
+303
+00:19:30,700 --> 00:19:32,700
+[JACK]
+That's what they tell me.
+ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາບອກຂ້ອຍ.
+
+304
+00:19:33,200 --> 00:19:35,200
+[SADIE]
+Here.
+ມາແລ້ວ.
+
+305
+00:19:35,700 --> 00:19:38,850
+[JACK]
+Hey, lay off that. You're not used to it.
+ເຮ້, ຢຸດສິ່ງນັ້ນ. ເຈົ້າບໍ່ເຄີຍກັບມັນ.
+
+306
+00:19:39,350 --> 00:19:43,200
+[SADIE]
+He's not used to a lot of things. Are you, Willie?
+ລາວບໍ່ເຄີຍກັບສິ່ງຫຼາຍຢ່າງ. ເຈົ້າບໍ່, ວີລີ?
+
+307
+00:19:43,700 --> 00:19:46,500
+[JACK]
+Why don't you lay off of him, Sadie?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ປ່ອຍລາວໄວ້, ຊາດີ?
+
+308
+00:19:47,000 --> 00:19:51,550
+[SADIE]
+Are you, Willie? Are you? Are you... are you, are you, are you?
+ເຈົ້າເປັນ, ວີລີ? ເຈົ້າເປັນບໍ? ເຈົ້າ
+... ເຈົ້າເປັນແນວໃດ, ເຈົ້າເປັນຫຍັງ?
+
+309
+00:19:52,050 --> 00:19:54,050
+[SADIE]
+Hi.
+ສະບາຍດີ
+
+310
+00:19:54,550 --> 00:19:57,000
+[JACK]
+Well, things seem to have quieted down.
+ດີ, ສິ່ງຕ່າງໆເບິ່ງຄືວ່າໄດ້ງຽບສະຫງົບລົງ.
+
+311
+00:19:57,500 --> 00:19:59,500
+[SADIE]
+Yeah, I quieted him down.
+ແມ່ນແລ້ວ, ຂ້ອຍເຮັດໃຫ້ລາວງຽບສະຫງົບ.
+
+312
+00:20:00,000 --> 00:20:02,000
+[JACK]
+Yeah. How was he? Noisy?
+ແມ່ນແລ້ວ. ລາວເປັນແນວໃດ? ສຽງດັງບໍ?
+
+313
+00:20:02,500 --> 00:20:08,500
+[SADIE]
+Oh, he reared some. He's been telling me all the things he's going to do. He's going to do big things, this fella. He's going to be President. He's going to kill people with his bare hands. I quieted him down... Hey! Who's Lucy?
+ໂອ້, ລາວໄດ້ລ້ຽງບາງຄົນ. ລາວ ກໍາ ລັງບອກຂ້ອຍທຸກສິ່ງທີ່ທ່ານຈະເຮັດ. ລາວຈະເຮັດສິ່ງໃຫຍ່ໆ, ຜູ້ຊາຍຄົນນີ້.
+ລາວຈະເປັນປະທານາທິບໍດີ. ລາວກໍາລັງຂ້າຄົນດ້ວຍມືເປົ່າຂອງລາວ. ຂ້ອຍເຮັດໃຫ້ລາວງຽບສະຫງົບ... ເຮ້! ລູຊີແມ່ນໃຜ?
+
+314
+00:20:09,000 --> 00:20:11,000
+[JACK]
+His wife.
+ເມຍຂອງລາວ.
+
+315
+00:20:11,500 --> 00:20:16,400
+[SADIE]
+He talks like she's his mammy... she's going to blow his nose for him.
+ລາວເວົ້າຄືກັບວ່ານາງເປັນແມ່ຂອງລາວ... ນາງຈະພັດດັງຂອງລາວ ສໍາ ລັບລາວ.
+
+316
+00:20:16,900 --> 00:20:22,150
+[JACK]
+Well, I'll take him from here on in. They're waiting for him at the barbecue.
+ດີ, ຂ້ອຍຈະພາລາວຈາກບ່ອນນີ້ເຂົ້າມາ.
+ພວກເຂົາ ກໍາ ລັງລໍຖ້າລາວຢູ່ບາບີເກວ.
+
+317
+00:20:22,650 --> 00:20:27,900
+[SADIE]
+Yeah, well give me a receipt for the body and I'll be on my way.
+ແມ່ນແລ້ວ, ດີໃຫ້ຂ້ອຍໃບຮັບເງິນ ສໍາ ລັບສົບແລະຂ້ອຍຈະໄປທາງຂອງຂ້ອຍ.
+
+318
+00:20:28,400 --> 00:20:32,250
+[JACK]
+Hey, Willie, Willie... come on, wake up, Willie. Come on, Willie.
+ເຮ້, ວີລີ, ວິດີລີ... ມາແລ້ວ, ຕື່ນຂຶ້ນ, ວິລລີ. ມາແລ້ວວີລີ.
+
+319
+00:20:32,750 --> 00:20:34,750
+[DUFFY]
+Where is he?
+ລາວຢູ່ໃສ?
+
+320
+00:20:35,250 --> 00:20:37,250
+[SADIE]
+There he is.
+ລາວຢູ່ບ່ອນນັ້ນ.
+
+321
+00:20:37,750 --> 00:20:39,750
+[SADIE]
+Whoops!
+ໂວ້!
+
+322
+00:20:40,250 --> 00:20:42,250
+[DUFFY]
+Is he drunk?
+ລາວດື່ມບໍ?
+
+323
+00:20:42,750 --> 00:20:45,550
+[JACK]
+Never touches the stuff. Lucy doesn't favor drinkin'.
+ບໍ່ເຄີຍຈັບສິ່ງນັ້ນເລີຍ. ລູຊີບໍ່ມັກດື່ມ.
+
+324
+00:20:46,050 --> 00:20:49,200
+[SADIE]
+How'd you get him here? He was out stiff.
+ເຈົ້າເອົາລາວມາບ່ອນນີ້ແນວໃດ? ລາວຢູ່ພາຍນອກແຂງແຮງ.
+
+325
+00:20:49,700 --> 00:20:52,150
+[JACK]
+Hair of the dog that bit him.
+ຜົມຂອງຫມາທີ່ກັດລາວ.
+
+326
+00:20:52,650 --> 00:20:55,100
+[SADIE]
+Hair? He must have swallowed the dog.
+ຜົມບໍ? ລາວຕ້ອງໄດ້ຈູດຫມາ.
+
+327
+00:20:55,600 --> 00:21:01,600
+[CHAIRMAN]
+Ladies and gentlemen, it gives me a great deal of pleasure to introduce to you that true man of the people, the next governor of the state... Willie Stark.
+ພວກທ່ານແລະພວກທ່ານ, ມັນເຮັດໃຫ້ຂ້ອຍມີຄວາມສຸກຫຼາຍທີ່ຈະແນະນໍາໃຫ້ທ່ານຜູ້ຊາຍທີ່ແທ້ຈິງຂອງປະຊາຊົນ
+, ຜູ້ປົກຄອງຕໍ່ໄປຂອງລັດ... ວີລີ ສຕາກ.
+
+328
+00:21:02,100 --> 00:21:04,100
+[WILLIE]
+My friends...
+ເພື່ອນຂອງຂ້ອຍ...
+
+329
+00:21:04,600 --> 00:21:06,600
+[WILLIE]
+My friends... I...
+ເພື່ອນຂອງຂ້ອຍ... ຂ້ອຍ...
+
+330
+00:21:07,100 --> 00:21:13,100
+[WILLIE]
+I have a speech here. It's a speech about what this state needs. There's no need in my telling you what this state needs. You are the state and you know what you need... You over there... look at your pants. Have they got holes in the knees? Listen to your stomach. Did you ever hear it rumble from hunger?... And you, what about your crops? Did they ever rot in the field because the road was so bad you couldn't get them to market?... And you. What about your kids? Are they growing up ignorant as dirt, ignorant as you, 'cause there's no school for them?... No, I'm not going to read you any speech.
+ຂ້ອຍມີບົດກ່າວປາໄສຢູ່ນີ້. ມັນແມ່ນບົດເວົ້າກ່ຽວກັບສິ່ງທີ່ລັດນີ້ຕ້ອງການ. ມັນບໍ່ມີຄວາມຈໍາເປັນໃນການບອກເຈົ້າວ່າລັດນີ້ແມ່ນຕ້ອງການຫຍັງ. ເຈົ້າເປັນລັດແລະເຈົ້າຮູ້ວ່າເຈົ້າຕ້ອງການຫຍັງ... ເຈົ້າຢູ່ບ່ອນນັ້ນ... ເບິ່ງກະເປົ໋າຂອງທ່ານ.
+ພວກເຂົາມີຮູໃນເຂົ່າບໍ? ຟັງທ້ອງຂອງທ່ານ. ເຈົ້າເຄີຍໄດ້ຍິນມັນສັ່ນສະເທືອນຈາກຄວາມຮິວ?... ແລະເຈົ້າ, ຈະເປັນແນວໃດກັບຜົນຜະລິດຂອງທ່ານ? ພວກເຂົາເຄີຍສໍ້ໂກງໃນສະ ຫນາມ ເພາະວ່າທາງຮ້າຍແຮງຫຼາຍທີ່ທ່ານບໍ່ສາມາດເອົາພວກມັນໄປຕະຫຼາດໄດ້ບໍ? ແລະເຈົ້າ.
+
+331
+00:21:13,600 --> 00:21:18,150
+[WILLIE]
+But I am going to tell you a story. It's a funny story...
+ແຕ່ຂ້ອຍຈະບອກເຈົ້າເລື່ອງຫນຶ່ງ. ມັນເປັນເລື່ອງທີ່ມ່ວນຊື່ນ...
+
+332
+00:21:18,650 --> 00:21:20,650
+[SADIE]
+Hey!
+ເຮ້!
+
+333
+00:21:21,150 --> 00:21:23,150
+[WILLIE'S VOICE]
+...So get ready to laugh.
+ສະນັ້ນກຽມພ້ອມທີ່ຈະມ່ວນຊື່ນ.
+
+334
+00:21:23,650 --> 00:21:25,650
+[SADIE]
+What's he up to?
+ລາວ ກໍາ ລັງເຮັດຫຍັງຢູ່?
+
+335
+00:21:26,150 --> 00:21:28,150
+[JACK]
+Shut up!
+ປິດງຽບ!
+
+336
+00:21:28,650 --> 00:21:34,650
+[WILLIE]
+Get ready to bust your sides laughing, 'cause it's sure a funny story. It's about a hick... a hick like you, if you please. Yeah, like you. He grew up on the dirt roads and gully washes of a farm. He knew what it was to get up before dawn and get feed and slop and milk before breakfast... and then set out before sunup and walk six miles to a one-room, slab- sided schoolhouse. Oh, this hick knew what it was to be a hick, all right. He figured if he was going to get anything done, he had to do it himself. So he sat up nights and studied books. He studied law because he thought he might be able to change things some... for himself, and for folks like him.
+ກຽມພ້ອມທີ່ຈະທໍາລາຍຂ້າງຂອງທ່ານດ້ວຍຄວາມມ່ວນຊື່ນ, ເພາະວ່າມັນແນ່ນອນວ່າເປັນເລື່ອງທີ່ມ່ວນ. ມັນກ່ຽວກັບຄົນໂຊກແຊງ... ຄົນໂຊຄແຊ່ງຄືກັບເຈົ້າ, ຖ້າເຈົ້າຂໍຮ້ອງ. ແມ່ນແລ້ວ, ເຊັ່ນເຈົ້າ.
+ລາວເຕີບໃຫຍ່ຂຶ້ນໃນຖະຫນົນຫົນທາງດິນແລະລ້າງຮ່ອງຮອຍຂອງຟາມ. ລາວຮູ້ວ່າມັນເປັນຫຍັງທີ່ຈະຕື່ນກ່ອນເຊົ້າແລະໄດ້ຮັບອາຫານແລະ slop ແລະ ນົມກ່ອນອາຫານເຊົ້າ... ແລະຫຼັງຈາກນັ້ນອອກໄປກ່ອນຕອນບ່າຍແລະຍ່າງຫົກແມລໄປໂຮງ
+
+337
+00:21:35,150 --> 00:21:41,150
+[WILLIE]
+No, I'm not going to lie to you. He didn't start off thinking about the hicks and all the wonderful things he was going to do for them. No. No, he started off thinking of number one. But something came to him on the way. How he could do nothing for himself without the help of the people. That's what came to him. And it also came to him, with the powerful force of God's own lightning, back in his home country, when a schoolhouse collapsed because it was built of politics... rotten brick. It killed and mangled a dozen kids. But you know that story. The people were his friends because he fought that rotten brick. And some of the politicians down in the city, they knew that... So they rode up to his house in a big, fine, shiny car and said as how they wanted him to run for governor...
+ບໍ່, ຂ້ອຍຈະບໍ່ຕົວະເຈົ້າ. ລາວບໍ່ໄດ້ເລີ່ມຕົ້ນຄິດກ່ຽວກັບ hicks ແລະສິ່ງມະຫັດສະຈັນທັງ ຫມົດ ທີ່ລາວຈະເຮັດ ສໍາ ລັບພວກເຂົາ. ບໍ່. ບໍ່, ລາວເລີ່ມຄິດກ່ຽວກັບອັນດັບ ຫນຶ່ງ. ແຕ່ບາງສິ່ງບາງຢ່າງມາຫາລາວໃນທາງ. ວິທີທີ່ລາວບໍ່ສາມາດເຮັດຫຍັງ ສໍາ
+ລັບຕົວເອງໂດຍບໍ່ມີການຊ່ວຍເຫຼືອຂອງປະຊາຊົນ. ນັ້ນແມ່ນສິ່ງທີ່ມາຮອດລາວ. ແລະມັນຍັງມາກັບລາວອີກດ້ວຍ, ດ້ວຍພະລັງທີ່ເຂັ້ມແຂງຂອງແສງສະຫວ່າງຂອງພຣະເຈົ້າເອງ, ກັບຄືນປະເທດຂອງລາວ, ເມື່ອໂຮງຮຽນຕົກລົງເພາະວ່າມັນຖືກສ້າງຂຶ້ນດ້ວຍການເມືອງ... ຕີນ
+
+338
+00:21:41,650 --> 00:21:43,650
+[JACK]
+Sadie, he's wonderful... wonderful...
+ແຊດດີ, ລາວດີເລີດ... ດີເລີດ....
+
+339
+00:21:44,150 --> 00:21:50,150
+[WILLIE]
+...So they told the hick... and he swallowed it. He looked in his heart and he thought in all humility how he'd like to try and change things. He was just a country boy who thought that even the plainest, poorest man can be governor if his fellow citizens find he's got the stuff for the job. Well, those fellows in the striped pants... they saw the hick and they took him in.
+ດັ່ງນັ້ນພວກເຂົາຈຶ່ງບອກຄົນໂຊກແຊງ... ແລະລາວຈູດມັນ. ລາວເບິ່ງໃນຫົວໃຈຂອງລາວແລະລາວຄິດດ້ວຍຄວາມອ່ອນແອທັງ ຫມົດ ວ່າລາວຢາກພະຍາຍາມແລະປ່ຽນແປງສິ່ງຕ່າງໆແນວໃດ. ລາວພຽງແຕ່ເປັນເດັກຊາຍຊົນນະບົດທີ່ຄິດວ່າເຖິງແມ່ນວ່າຜູ້ຊາຍທີ່ງ່າຍດາຍທີ່ສຸດ
+, ຄົນທຸກຍາກທີ່ສຸດສາມາດເປັນຜູ້ປົກຄອງໄດ້ຖ້າພົນລະເມືອງຂອງລາວພົບວ່າລາວມີສິ່ງຂອງ ສໍາ ລັບວຽກງານ. ດີ, ພວກຜູ້ຊາຍໃນກະເປົາແຖບ... ພວກເຂົາເຫັນຄົນໂສກແມ້ແລະພວກເຂົາເອົາລາວເຂົ້າໄປໃນ.
+
+340
+00:21:50,650 --> 00:21:53,100
+[DUFFY]
+Willie, what are you trying to do?
+ວີລີ, ເຈົ້າພະຍາຍາມເຮັດຫຍັງ?
+
+341
+00:21:53,600 --> 00:21:58,150
+[WILLIE]
+There he is! There's your Judas Iscariot.  Look at him... lickspittle... nose- wiper.
+ລາວຢູ່ບ່ອນນັ້ນ! ນັ້ນແມ່ນຈູດາອິສກາຣີໂອຕ໌ຂອງທ່ານ
+. ເບິ່ງລາວແມ... ກະດານສີດ... ເຄື່ອງລ້າງດັງ.
+
+342
+00:21:58,650 --> 00:22:00,650
+[DUFFY]
+Play! Play!
+ຫລິ້ນ! ຫຼິ້ນ!
+
+343
+00:22:01,150 --> 00:22:03,150
+[WILLIE]
+Look at him!
+ເບິ່ງລາວແມ!
+
+344
+00:22:03,650 --> 00:22:05,650
+[DUFFY]
+Play anything.
+ຫຼິ້ນທຸກຢ່າງ.
+
+345
+00:22:06,150 --> 00:22:09,300
+[WILLIE]
+Look at him! Joe Harrison's dummy! Look at him!
+ເບິ່ງລາວແມ! ໂຈ ຮາຣີສັນຄົນໂຊກຮ້າຍ! ເບິ່ງລາວກ່ອນ!
+
+346
+00:22:09,800 --> 00:22:11,800
+[DUFFY]
+That's a lie!
+ນັ້ນແມ່ນຕົວະ!
+
+347
+00:22:12,300 --> 00:22:14,300
+[WILLIE]
+Look at him!
+ເບິ່ງລາວແມ!
+
+348
+00:22:14,800 --> 00:22:17,250
+[DUFFY]
+Go get him, boys... go get him.
+ໄປເອົາລາວ, ເດັກຊາຍ... ໄປເອົາລາ.
+
+349
+00:22:17,750 --> 00:22:23,750
+[WILLIE]
+Now, shut up! Shut up, all of you. Now, listen to me, you hicks. Yeah, you're hicks too, and they fooled you a thousand times, just like they fooled me. But this time I'm going to fool somebody. I'm going to stay in this race. I'm on my own and I'm out for blood.
+ດຽວນີ້, ງຽບ! ງຽບ, ພວກເຈົ້າທັງ ຫມົດ. ຕອນນີ້, ຟັງຂ້ອຍ, ເຈົ້າ hicks. ແມ່ນແລ້ວ, ເຈົ້າແມ່ນ hicks ເຊັ່ນກັນ, ແລະພວກເຂົາໄດ້ຫຼອກລວງເຈົ້າຫຼາຍພັນຄັ້ງ
+, ຄືກັບທີ່ພວກເຂົາຫລອກລືມຂ້ອຍ. ແຕ່ຄັ້ງນີ້ຂ້ອຍຈະຫຼົງຄົນໃດຫນຶ່ງ. ຂ້ອຍຈະຢູ່ໃນການແຂ່ງຂັນນີ້. ຂ້ອຍຢູ່ດ້ວຍຕົນເອງແລະຂ້ອຍອອກໄປເພື່ອເລືອດ.
+
+350
+00:22:24,250 --> 00:22:26,250
+[WILLIE]
+Listen to me, you hicks...
+ຟັງຂ້ອຍ, ພວກເຈົ້າ hicks...
+
+351
+00:22:26,750 --> 00:22:32,750
+[WILLIE]
+Listen to me and lift up your eyes and look at God's blessed and unflyblown truth... And this is the truth. You're a hick. And nobody ever helped a hick but a hick himself.
+ຟັງຂ້ອຍແລະຍົກຕາຂອງທ່ານແລະເບິ່ງຄວາມຈິງທີ່ພອນຂອງພຣະເຈົ້າແລະບໍ່ຖືກພັດລົມ...
+ແລະນີ້ແມ່ນຄວາມຈິງ. ເຈົ້າເປັນຄົນໂຊກແຊງ. ແລະບໍ່ມີໃຜເຄີຍຊ່ວຍຄົນໂສກ ແຊງແຕ່ຕົວເອງ.
+
+352
+00:22:33,250 --> 00:22:39,250
+[WILLIE]
+All right, listen to me... listen to me. I was the hick they were going to use to split the hick vote. But I'm standing right here now on my hind legs... even a dog can learn to do that. Are you standing on your hind legs? Have you learned to do that much yet? Here it is, here it is, you hicks. Nail up anybody who stands in your way! Nail up Joe Harrison! Nail up McMurphy! And if they don't deliver, give me a hammer and I'll do it myself.
+ດີແລ້ວ, ຟັງຂ້ອຍ... ຟັງຂ້ອຍ. ຂ້ອຍເປັນຄົນປ່າທີ່ພວກເຂົາຈະໃຊ້ເພື່ອແບ່ງອອກຄະແນນສຽງປ່າ. ແຕ່ຂ້ອຍຢືນຢູ່ບ່ອນນີ້ດຽວນີ້ຢູ່ເທິງຕີນຫຼັງຂອງຂ້ອຍ... ເຖິງແມ່ນວ່າຫມາສາມາດຮຽນຮູ້ທີ່ຈະເຮັດສິ່ງນັ້ນໄດ້.
+ເຈົ້າຢືນຢູ່ຕາມຕີນຫລັງຂອງທ່ານບໍ? ເຈົ້າໄດ້ຮຽນຮູ້ການເຮັດຫຼາຍປານໃດແລ້ວບໍ? ນີ້ແມ່ນ, ນີ້ແມ່ນ, ເຈົ້າ hicks. ປ່າໃຜທີ່ຢືນຢູ່ໃນທາງຂອງທ່ານ! ປ່າໂຈ ຮາຣີສັນ! ປ້າແມັກມຟີ! ແລະຖ້າພວກເຂົາບໍ່ສົ່ງ, ໃຫ້ຂ້ອຍກະດ
+
+353
+00:22:39,750 --> 00:22:43,600
+[NEWSPAPER HEADLINE]
+There is a photograph of Willie and a headline that reads
+ມີຮູບຂອງວີລີ ແລະ ຫົວຂໍ້ທີ່ອ່ານວ່າ
+
+354
+00:22:44,100 --> 00:22:49,350
+[STARK CHANCES BOOMING]
+Superimposed over the newspaper is a shot of a crowd applauding and yelling for Willie.
+ຖືກວາງໄວ້ເທິງຫນັງສືພິມແມ່ນການຖ່າຍຮູບຂອງຄົນຊົມເຊີຍແລະຮ້ອງໄຫ້ສໍາລັບວີລີ
+.
+
+355
+00:22:49,850 --> 00:22:53,000
+[POLITICIAN]
+I want his throat cut, from ear to ear.
+ຂ້ອຍຢາກຕັດຄໍຂອງລາວ, ຈາກຫູຫາຫູ.
+
+356
+00:22:53,500 --> 00:22:57,700
+[MADISON]
+No use going any further, Jack. We aren't printing them any more.
+ມັນບໍ່ມີປະໂຫຍດທີ່ຈະໄປຕໍ່ໄປ, ແຈກ. ພວກເຮົາບໍ່ໄດ້ພິມພວກມັນອີກຕໍ່ໄປ.
+
+357
+00:22:58,200 --> 00:23:00,650
+[JACK]
+I thought the Chronicle line was --
+ຂ້ອຍຄິດວ່າສາຍ Chronicle ແມ່ນ -
+
+358
+00:23:01,150 --> 00:23:07,150
+[MADISON]
+Divide and conquer? Stark is getting too big for his britches and the hicks are getting too smart. We're now supporting Harrison.
+ແບ່ງແຍກແລະເອົາຊະນະບໍ? ສຕາກ ກໍາ ລັງໃຫຍ່ເກີນໄປ ສໍາ ລັບກະທູ້ຂອງລາວແລະ
+hicks ກໍາ ລັງສະຫຼາດເກີນໄປ. ດຽວນີ້ພວກເຮົາ ກໍາ ລັງສະ ຫນັບ ສະ ຫນູນ ຮາຣີສັນ.
+
+359
+00:23:07,650 --> 00:23:09,650
+[JACK]
+How do you square that?
+ເຈົ້າເຮັດແບບໃດ?
+
+360
+00:23:10,150 --> 00:23:12,150
+[MADISON]
+I work here.
+ຂ້ອຍເຮັດວຽກຢູ່ບ່ອນນີ້.
+
+361
+00:23:12,650 --> 00:23:14,750
+[JACK]
+Well, I don't... not any more.
+ດີ, ຂ້ອຍບໍ່... ບໍ່ອີກຕໍ່ໄປ.
+
+362
+00:23:15,250 --> 00:23:17,250
+[MADISON]
+Jack, you fool.
+ແຈກ, ເຈົ້າໂງ່.
+
+363
+00:23:17,750 --> 00:23:20,550
+[JACK]
+If you had any guts you'd print this...
+ຖ້າເຈົ້າມີຄວາມກ້າຫານໃດໆ ເຈົ້າຈະພິມສິ່ງນີ້...
+
+364
+00:23:21,050 --> 00:23:23,150
+[MADISON]
+I work here. I take orders.
+ຂ້ອຍເຮັດວຽກຢູ່ນີ້. ຂ້ອຍຮັບຄໍາສັ່ງ.
+
+365
+00:23:23,650 --> 00:23:28,900
+[JACK]
+I know. You've got a wife and three kids and your boy goes to Princeton.
+ຂ້ອຍຮູ້ແລ້ວ. ເຈົ້າມີເມຍແລະລູກສາມຄົນແລະລູກຊາຍຂອງທ່ານໄປປະຣິນສຕັນ.
+
+366
+00:23:29,400 --> 00:23:32,550
+[MADISON]
+You won't find it easy to get another job.
+ເຈົ້າຈະບໍ່ເຫັນວ່າມັນງ່າຍທີ່ຈະຊອກວຽກອື່ນ.
+
+367
+00:23:33,050 --> 00:23:35,050
+[JACK]
+I'm too rich to work.
+ຂ້ອຍຮັ່ງມີເກີນໄປທີ່ຈະເຮັດວຽກ.
+
+368
+00:23:35,550 --> 00:23:41,550
+[CITY VOTE DECIDES ELECTION]
+Superimposed over newspaper is a crowd cheering at Harrison's victory parade. Willie, raincoat thrown over his shoulders, looking grim, and Sadie and Sugar Boy are part of that crowd. They turn away and walk toward a bar.
+ຖືກວາງຢູ່ເທິງຫນັງສືພິມແມ່ນຄົນຊົມເຊີຍການເດີນຂະບວນການຊະນະຂອງຮາຣີສັນ. ວີລີ, ເສື້ອຜ້າຝົນຖືກຖິ້ມໃສ່ກະຕ່າຂອງລາວ
+, ເບິ່ງໂຊກຮ້າຍ, ແລະຊາດີແລະເດັກຊາຍນ້ ໍາ ຕານແມ່ນສ່ວນ ຫນຶ່ງ ຂອງຄົນນັ້ນ. ພວກເຂົາຫັນໄປແລະຍ່າງໄປສູ່ບາ.
+
+369
+00:23:42,050 --> 00:23:44,050
+[JACK]
+We didn't do so good.
+ພວກເຮົາບໍ່ໄດ້ເຮັດໄດ້ດີຫຼາຍ.
+
+370
+00:23:44,550 --> 00:23:46,550
+[WILLIE]
+Double bourbon.
+ບອດບອນສອງເທົ່າ.
+
+371
+00:23:47,050 --> 00:23:49,050
+[SADIE]
+Same for me.
+ຂ້ອຍຄືກັນ.
+
+372
+00:23:49,550 --> 00:23:53,400
+[WILLIE]
+And a beer.  I hear you got fired from the paper.
+ແລະເບຍ. ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າຖືກໄລ່ອອກຈາກຫນັງສືພິມ.
+
+373
+00:23:53,900 --> 00:23:56,000
+[JACK]
+You heard wrong, Willie. I quit.
+ເຈົ້າໄດ້ຍິນຜິດ, ວີລີ. ຂ້ອຍອອກໄປ.
+
+374
+00:23:56,500 --> 00:24:02,500
+[WILLIE]
+You're smart. 'Cause before I'm through with that mob they're not going to have enough money left to pay the boy that cleans the spittoons.
+ເຈົ້າສະຫຼາດ.
+ເພາະວ່າກ່ອນທີ່ຂ້ອຍຈະສິ້ນສຸດການກັບກຸ່ມຄົນນັ້ນພວກເຂົາຈະບໍ່ມີເງິນພຽງພໍທີ່ຈະຈ່າຍເງິນໃຫ້ເດັກຊາຍທີ່ເຮັດຄວາມສະອາດເຄື່ອງສີດ.
+
+375
+00:24:03,000 --> 00:24:05,000
+[JACK]
+How do you feel, Willie?
+ເຈົ້າຮູ້ສຶກແນວໃດ, ວີລີ?
+
+376
+00:24:05,500 --> 00:24:09,000
+[WILLIE]
+I feel fine, fine. You see, Jack, I learned something.
+ຂ້ອຍຮູ້ສຶກດີ, ດີ. ເຈົ້າເຫັນແລ້ວ,
+ແຈກ, ຂ້ອຍໄດ້ຮຽນຮູ້ບາງສິ່ງບາງຢ່າງ.
+
+377
+00:24:09,500 --> 00:24:11,500
+[JACK]
+Yeah... what?
+ແມ່ນແລ້ວ... ຫຍັງ?
+
+378
+00:24:12,000 --> 00:24:14,000
+[WILLIE]
+How to win.
+ວິທີທີ່ຈະຊະນະ.
+
+379
+00:24:14,500 --> 00:24:18,700
+[JACK]
+I didn't see Willie again until his second campaign... four years later.
+ຂ້ອຍບໍ່ໄດ້ເຫັນວີລີອີກເທື່ອຫນຶ່ງຈົນກວ່າການໂຄສະນາຫາສຽງຄັ້ງທີສອງຂອງລາວ
+... ສີ່ປີຕໍ່ມາ.
+
+380
+00:24:19,200 --> 00:24:21,300
+[JACK]
+I drifted from job to job...
+ຂ້ອຍຍ້າຍຈາກວຽກໄປຫາວຽກ...
+
+381
+00:24:21,800 --> 00:24:24,250
+[JACK]
+...That is, whenever I could find one.
+ນັ້ນແມ່ນ, ທຸກຄັ້ງທີ່ຂ້ອຍສາມາດຊອກຫາຫນຶ່ງໄດ້.
+
+382
+00:24:24,750 --> 00:24:29,650
+[JACK]
+But always further and further away from Anne, and the life at Burden's Landing.
+ແຕ່ຢູ່ສະເຫມີຢູ່ໄກຈາກແອນນ໌, ແລະຊີວິດຢູ່ Burden's Landing ໄດ້.
+
+383
+00:24:30,150 --> 00:24:33,650
+[JACK]
+But Willie wasn't drifting. He knew where he was going.
+ແຕ່ວີລີບໍ່ໄດ້ຍ່າງໄປ. ລາວຮູ້ວ່າລາວ ກໍາ ລັງໄປໃສ.
+
+384
+00:24:34,150 --> 00:24:40,150
+[JACK]
+He had his foot in the door and he kept right on pushing to get in. He had lost the election but he had won the state... and he knew it... and the people knew it.
+ລາວມີຕີນຢູ່ໃນປະຕູແລະລາວສືບຕໍ່ກົດດັນເພື່ອເຂົ້າມາ.
+ລາວໄດ້ສູນເສຍການເລືອກຕັ້ງແຕ່ລາວໄດ້ຊະນະລັດ... ແລະລາວຮູ້ມັນ... ແລະປະຊາຊົນຮູ້ມັນ.
+
+385
+00:24:40,650 --> 00:24:46,650
+[MONTAGE: WILLIE'S LIFE]
+Writing on a fence: THE PEOPLE'S WILL SHOULD BE THE LAW OF THE STATE... WILLIE STARK Painted on a rock: KNOWLEDGE BELONGS
+ການຂຽນໃສ່ແຄບ: ປະຊາຊົນຄວນເປັນກົດ ຫມາຍ
+ຂອງລັດ... ວີລີ ສຕາກແຕ້ມໃສ່ຫີນ: ຄວາມຮູ້ແມ່ນ
+
+386
+00:24:47,150 --> 00:24:53,150
+[TO THE PEOPLE... WILLIE STARK]
+Lettering on a barn: FREE MEDICINE FOR ALL PEOPLE -- NOT AS A CHARITY BUT AS A RIGHT... WILLIE STARK
+ການຂຽນໃສ່ກະຕ່າ: ຢາຟຣີ ສໍາ ລັບຄົນທຸກຄົນ -
+ບໍ່ແມ່ນເປັນການຊ່ວຍເຫຼືອແຕ່ເປັນສິດທິ... ວີລີ ສຕາກ
+
+387
+00:24:53,650 --> 00:24:57,150
+[JACK]
+They were all hopping on his bandwagon... even Tiny Duffy.
+ພວກເຂົາທຸກຄົນ ກໍາ ລັງໂດດໃສ່ລົດຖີບຂອງລາວ... ເຖິງແມ່ນວ່າດັຟຟີນ້ອຍໆ.
+
+388
+00:24:57,650 --> 00:25:00,800
+[JACK]
+Yep, Willie came back like he said he would.
+ແມ່ນແລ້ວ, ວີລີກັບມາຕາມທີ່ລາວບອກວ່າຈະເຮັດ.
+
+389
+00:25:01,300 --> 00:25:07,300
+[WILLIE]
+Do you want to know what my platform is? Here it is: I'm going to soak the fat boys and I'm going to spread it thin.
+ເຈົ້າຢາກຮູ້ວ່າເວທີຂອງຂ້ອຍແມ່ນຫຍັງ? ນີ້ແມ່ນມັນ
+: ຂ້ອຍຈະຊຸ່ມເດັກຊາຍໄຂມັນແລະຂ້ອຍຈະແຜ່ມັນບາງໆ.
+
+390
+00:25:07,800 --> 00:25:10,950
+[JACK]
+Willie was right -- he'd learned how to win...
+ວີລີເວົ້າຖືກຕ້ອງ - ລາວໄດ້ຮຽນຮູ້ວິທີຊະນະ...
+
+391
+00:25:11,450 --> 00:25:17,450
+[JACK]
+He spent a lot of money doing it... an awful lot of money... I was beginning to wonder where he got it from.
+ລາວໃຊ້ເງິນຫຼາຍໃນການເຮັດມັນ... ເງິນຫຼາຍຫຼາຍ..
+. ຂ້ອຍ ກໍາ ລັງເລີ່ມສົງໄສວ່າລາວເອົາມັນມາຈາກໃສ.
+
+392
+00:25:17,950 --> 00:25:23,950
+[JACK]
+There were rumors throughout the state that Willie was making deals with all kinds of people... strange deals... for Willie Stark.
+ມີຂ່າວລືທົ່ວລັດວ່າ ວີລີ ກໍາ ລັງເຮັດຂໍ້ຕົກລົງກັບຄົນທຸກຊະນິດ
+... ຂໍ້ຕົກລົງທີ່ແປກໃຈ... ສໍາ ລັບວີລີ ສຕາກ.
+
+393
+00:25:24,450 --> 00:25:30,450
+[JACK]
+The second time out, it wasn't a campaign... it was a slaughter. It was Saturday night in a mining town.
+ໃນຄັ້ງທີສອງອອກ, ມັນບໍ່ແມ່ນການໂຄສະນາ...
+ມັນແມ່ນການຂ້າສັດ. ມັນແມ່ນຄືນວັນເສົາໃນເມືອງແຮ່ທາດ.
+
+394
+00:25:30,950 --> 00:25:34,100
+[JACK]
+He came back and he took me with him.
+ລາວກັບມາແລະລາວເອົາຂ້ອຍກັບລາວ.
+
+395
+00:25:34,600 --> 00:25:40,600
+[WILLIE]
+This is Jack Burden, a friend of mine. From now on he's going to live here. Give him anything he wants.
+ນີ້ແມ່ນແຈກ ບາເດັນ, ເພື່ອນຂອງຂ້ອຍ.
+ຈາກປັດຈຸບັນລາວຈະອາໄສຢູ່ບ່ອນນີ້. ໃຫ້ລາວທຸກຢ່າງທີ່ລາວຕ້ອງການ.
+
+396
+00:25:41,100 --> 00:25:43,100
+[DUFFY]
+Let these boys through, officer.
+ໃຫ້ພວກຜູ້ຊາຍເຫຼົ່ານີ້ຜ່ານໄປ, ເຈົ້າຫນ້າທີ່.
+
+397
+00:25:43,600 --> 00:25:45,600
+[WILLIE]
+Duffy works for me now.
+ດັບຟີເຮັດວຽກສໍາລັບຂ້ອຍດຽວນີ້.
+
+398
+00:25:46,100 --> 00:25:48,550
+[JACK]
+It looks like everybody works for you.
+ມັນເບິ່ງຄືວ່າທຸກຄົນເຮັດວຽກ ສໍາ ລັບເຈົ້າ.
+
+399
+00:25:49,050 --> 00:25:55,050
+[WILLIE]
+No. No, not yet. But I want to keep him around. He reminds me of something I never want to forget.
+ບໍ່. ບໍ່, ຍັງບໍ່ທັນ. ແຕ່ຂ້ອຍຢາກໃຫ້ລາວຢູ່ໃກ້ໆ.
+ລາວເຕືອນຂ້ອຍກ່ຽວກັບບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ຢາກລືມເລີຍ.
+
+400
+00:25:55,550 --> 00:25:59,750
+[WILLIE]
+Come on, come on, come on, come on. Are these the boys?
+ມາແລ້ວ, ມາ, ມາແລ້ວ. ນີ້ແມ່ນເດັກຊາຍບໍ?
+
+401
+00:26:00,250 --> 00:26:03,400
+[DUFFY]
+These are the boys that can get the boys.
+ນີ້ແມ່ນເດັກຊາຍທີ່ສາມາດເອົາເດັກຊາຍໄດ້.
+
+402
+00:26:03,900 --> 00:26:06,700
+[WILLIE]
+How many do you think we can get?
+ເຈົ້າຄິດວ່າພວກເຮົາສາມາດເອົາໄດ້ຫຼາຍປານໃດ?
+
+403
+00:26:07,200 --> 00:26:09,200
+[DUFFY]
+Fifty.
+ຫ້າສິບ.
+
+404
+00:26:09,700 --> 00:26:11,700
+[WILLIE]
+How much?
+ຫຼາຍປານໃດ?
+
+405
+00:26:12,200 --> 00:26:14,200
+[DUFFY]
+Five dollars a head.
+ຫ້າໂດລາຕໍ່ຫົວຄົນ.
+
+406
+00:26:14,700 --> 00:26:18,550
+[WILLIE]
+What do you think, Sugar? Do they look like good boys?
+ເຈົ້າຄິດແນວໃດ, Sugar? ພວກເຂົາເບິ່ງຄືວ່າເປັນເດັກຊາຍທີ່ດີບໍ?
+
+407
+00:26:19,050 --> 00:26:21,050
+[SUGAR BOY]
+T-t-they b-b-better be.
+T-t- ພວກເຂົາ b-b- ດີກວ່າຈະເປັນ.
+
+408
+00:26:21,550 --> 00:26:27,550
+[WILLIE]
+Get a hundred... All right, go on, all of you. Blow. Blow, blow. You too, Duffy. Go on.
+ເອົາສິບຄົນ... ດີແລ້ວ, ໄປ, ທຸກຄົນ. ບິດ
+. ບີດ, ບີດ. ເຈົ້າເຊັ່ນກັນ, ດັບຟີ. ໄປ.
+
+409
+00:26:28,050 --> 00:26:30,050
+[WILLIE]
+Handbill distributors.
+ຜູ້ຈໍາຫນ່າຍໃບຢັ້ງຢືນມື.
+
+410
+00:26:30,550 --> 00:26:34,750
+[JACK]
+If they all look like them I'd hate not to take one.
+ຖ້າພວກເຂົາທັງ ຫມົດ ເບິ່ງຄືພວກເຂົາຂ້ອຍບໍ່ຢາກເອົາຫນຶ່ງ.
+
+411
+00:26:35,250 --> 00:26:39,450
+[WILLIE]
+That's the object. Not like when they beat up my boy Tom.
+ນັ້ນແມ່ນວັດຖຸ. ບໍ່ແມ່ນຄືກັບເວລາທີ່ພວກເຂົາຕີລູກຊາຍຂອງຂ້ອຍໂຕມ.
+
+412
+00:26:39,950 --> 00:26:41,950
+[JACK]
+How is Tom?
+ໂຕມເປັນແນວໃດ?
+
+413
+00:26:42,450 --> 00:26:45,600
+[WILLIE]
+Oh, he's fine. He starts college in the fall.
+ໂອ້, ລາວບໍ່ເປັນຫຍັງ. ລາວເລີ່ມຕົ້ນວິທະຍາໄລໃນລະດູໃບໄມ້ລົ່ນ.
+
+414
+00:26:46,100 --> 00:26:48,100
+[JACK]
+Oh. And Lucy?
+ໂອ້. ແລະລູຊີ?
+
+415
+00:26:48,600 --> 00:26:50,600
+[WILLIE]
+Fine... fine.
+ດີ... ດີ.
+
+416
+00:26:51,100 --> 00:26:57,100
+[SADIE]
+Hey, I need a boy... Where's a boy?  Take that downstairs; they're waiting for it. Right away, on the double.  Listen, baby, you've got to double- space all of this... he can't read, see.
+ເຮ້, ຂ້ອຍຕ້ອງການເດັກຊາຍ... ເດັກຊາຍຢູ່ໃສ? ເອົາມັນລົງ; ພວກເຂົາ ກໍາ ລັງລໍຖ້າມັນ. ທັນທີ,
+ໃນສອງຄັ້ງ. ຟັງ, ແມ, ເຈົ້າຕ້ອງຈັດພື້ນທີ່ທັງ ຫມົດ ນີ້ສອງຄັ້ງ... ລາວບໍ່ສາມາດອ່ານໄດ້, ເບິ່ງ.
+
+417
+00:26:57,600 --> 00:26:59,600
+[JACK]
+Sadie!
+ແຊດດີ!
+
+418
+00:27:00,100 --> 00:27:03,600
+[SADIE]
+And they need four copies.  Hi, Jack. How are you?
+ແລະພວກເຂົາຕ້ອງການສີ່ ສໍາ ເນົາ. ສະບາຍດີ, ແຈກ. ເຈົ້າເປັນແນວໃດ?
+
+419
+00:27:04,100 --> 00:27:06,900
+[WILLIE]
+Sadie is my secretary now.  Oh, pardon me.
+ຊາດີເປັນເລຂາທິການຂອງຂ້ອຍດຽວນີ້. ໂອ້, ຂໍໂທດຂ້ອຍ.
+
+420
+00:27:07,400 --> 00:27:09,400
+[SADIE]
+Fix your tie, Willie.
+ແກ້ໄຂສາຍຄໍຂອງທ່ານ, ວີລີ.
+
+421
+00:27:09,900 --> 00:27:11,900
+[WILLIE]
+Hey, Sugar.
+ເຮ້, ຊັກເກີ.
+
+422
+00:27:12,400 --> 00:27:17,300
+[WILLIE]
+Keep everybody out of here. I want to talk to Jack and Sadie alone.
+ຮັກສາທຸກຄົນອອກຈາກບ່ອນນີ້. ຂ້ອຍຢາກເວົ້າກັບແຈກ ແລະ ຊາດີຄົນດຽວ.
+
+423
+00:27:17,800 --> 00:27:20,250
+[WILLIE]
+From now on you're working for me.
+ຈາກປັດຈຸບັນນີ້ເຈົ້າຈະເຮັດວຽກສໍາລັບຂ້ອຍ.
+
+424
+00:27:20,750 --> 00:27:22,750
+[JACK]
+Doing what?
+ເຮັດຫຍັງ?
+
+425
+00:27:23,250 --> 00:27:26,750
+[WILLIE]
+I don't know. Something will turn up, won't it, Sadie?
+ຂ້ອຍບໍ່ຮູ້. ບາງສິ່ງບາງຢ່າງຈະປາກົດຕົວ, ແມ່ນບໍ, ຊາດີ?
+
+426
+00:27:27,250 --> 00:27:30,400
+[SADIE]
+Yeah. We need a college man around... for research.
+ແມ່ນແລ້ວ. ພວກເຮົາຕ້ອງການຜູ້ຊາຍວິທະຍາໄລຢູ່ອ້ອມຂ້າງ
+... ສໍາ ລັບການຄົ້ນຄວ້າ.
+
+427
+00:27:30,900 --> 00:27:34,050
+[WILLIE]
+How much did they pay you on that newspaper?
+ພວກເຂົາຈ່າຍເງິນໃຫ້ເຈົ້າຫຼາຍປານໃດໃນຫນັງສືພິມນັ້ນ?
+
+428
+00:27:34,550 --> 00:27:36,550
+[JACK]
+Three hundred dollars a month.
+ເງິນສາມຮ້ອຍໂດລາຕໍ່ເດືອນ.
+
+429
+00:27:37,050 --> 00:27:39,500
+[WILLIE]
+I could buy you cheap, couldn't I?
+ຂ້ອຍສາມາດຊື້ເຈົ້າໄດ້ລາຄາຖືກ, ແມ່ນບໍ?
+
+430
+00:27:40,000 --> 00:27:42,000
+[JACK]
+For a bag of salt.
+ສໍາລັບຖົງເກືອ.
+
+431
+00:27:42,500 --> 00:27:48,500
+[WILLIE]
+No. No, I don't play that way. I like you, boy. I always have. I'll tell you what I'll do. I'll give you four hundred dollars a month and traveling expenses.
+ບໍ່. ບໍ່, ຂ້ອຍບໍ່ຫຼິ້ນແບບນັ້ນ. ຂ້ອຍມັກເຈົ້າ, ເດັກຊາຍ. ຂ້ອຍມີຢູ່ສະເຫມີ.
+ຂ້ອຍຈະບອກເຈົ້າວ່າຂ້ອຍຈະເຮັດແນວໃດ. ຂ້ອຍ ຈະໃຫ້ເຈົ້າສີ່ຮ້ອຍໂດລາຕໍ່ເດືອນແລະຄ່າໃຊ້ຈ່າຍການເດີນທາງ.
+
+432
+00:27:49,000 --> 00:27:51,800
+[JACK]
+You throw money around like it was money.
+ເຈົ້າຖິ້ມເງິນຢູ່ທົ່ວໄປຄືກັບວ່າມັນເປັນເງິນ.
+
+433
+00:27:52,300 --> 00:27:55,450
+[WILLIE]
+Money?... I don't need money. People give me things.
+ເງິນ?... ຂ້ອຍບໍ່ຕ້ອງການເງິນ. ຄົນໃຫ້ຂ້ອຍສິ່ງຕ່າງໆ.
+
+434
+00:27:55,950 --> 00:27:57,950
+[JACK]
+Why?
+ເປັນຫຍັງ?
+
+435
+00:27:58,450 --> 00:28:00,450
+[WILLIE]
+Because they believe in me.
+ເພາະວ່າພວກເຂົາເຊື່ອໃນຂ້ອຍ.
+
+436
+00:28:00,950 --> 00:28:06,950
+[JACK]
+I was going home again. But this time it was different. Now I had a feeling that maybe the waiting was over... for me, and for Anne.
+ຂ້ອຍ ກໍາ ລັງກັບບ້ານອີກຄັ້ງ. ແຕ່ຄັ້ງນີ້ມັນແຕກຕ່າງກັນ.
+ດຽວນີ້ຂ້ອຍມີຄວາມຮູ້ສຶກວ່າບາງທີການລໍຖ້າໄດ້ສິ້ນສຸດລົງ... ສໍາ ລັບຂ້ອຍ, ແລະ ສໍາ ລັບແອນ.
+
+437
+00:28:07,450 --> 00:28:11,650
+[WILLIE]
+It's a far cry from where I come from... to this house.
+ມັນຢູ່ຫ່າງໄກຈາກບ່ອນທີ່ຂ້ອຍມາຈາກ... ເຖິງເຮືອນນີ້.
+
+438
+00:28:12,150 --> 00:28:18,150
+[WILLIE]
+And standing here under the portrait of one of the greatest governors of this state, talking to you people... well, it's an honor I never thought I'd have.
+ແລະຢືນຢູ່ບ່ອນນີ້ພາຍໃຕ້ຮູບພາບຂອງຜູ້ປົກຄອງທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດຂອງລັດນີ້,
+ເວົ້າກັບເຈົ້າຄົນ... ດີ, ມັນແມ່ນກຽດຕິຍົດທີ່ຂ້ອຍບໍ່ເຄີຍຄິດວ່າຂ້ອຍຈະມີ.
+
+439
+00:28:18,650 --> 00:28:20,750
+[JACK]
+Are there any questions?  Mr. McEvoy.
+ມີຄໍາຖາມໃດບໍ? ທ້າວແມັກເວວາຍ.
+
+440
+00:28:21,250 --> 00:28:23,250
+[MCEVOY]
+No, I have no questions.
+ບໍ່, ຂ້ອຍບໍ່ມີຄໍາຖາມເລີຍ.
+
+441
+00:28:23,750 --> 00:28:25,750
+[JACK]
+Judge?
+ຜູ້ພິພາກສາ?
+
+442
+00:28:26,250 --> 00:28:28,350
+[JUDGE]
+A few... but it will hold.
+ບາງຄົນ... ແຕ່ມັນຈະຍືນຍົງ.
+
+443
+00:28:28,850 --> 00:28:30,850
+[STANTON]
+I have a question.
+ຂ້ອຍມີຄໍາຖາມຫນຶ່ງ.
+
+444
+00:28:31,350 --> 00:28:33,350
+[WILLIE]
+Shoot.
+ຍິງ.
+
+445
+00:28:33,850 --> 00:28:39,850
+[STANTON]
+A lot of people in this state have been saying that you've been making deals... some of them with the very groups that you claim you're against. Is that true?
+ຄົນຫຼາຍຄົນໃນລັດນີ້ ກໍາ ລັງເວົ້າວ່າເຈົ້າ ກໍາ ລັງເຮັດຂໍ້ຕົກລົງ...
+ບາງຄົນຂອງພວກເຂົາກັບກຸ່ມດຽວກັນທີ່ທ່ານອ້າງວ່າເຈົ້າຕໍ່ຕ້ານ. ນັ້ນແມ່ນຄວາມຈິງບໍ?
+
+446
+00:28:40,350 --> 00:28:42,450
+[JACK]
+Adam, you know how rumors start...
+ແອັດມາມ, ເຈົ້າຮູ້ວ່າຂ່າວລືເລີ່ມຕົ້ນແນວໃດ...
+
+447
+00:28:42,950 --> 00:28:48,950
+[WILLIE]
+Yes. Yes, that's true. I have nothing to hide. I'll make a deal with the devil if it'll help me carry out my program. But believe me, there are no strings attached to those deals.
+ແມ່ນແລ້ວ. ແມ່ນແລ້ວ, ນັ້ນແມ່ນຄວາມຈິງ. ຂ້ອຍບໍ່ມີຫຍັງທີ່ຈະເຊື່ອງໄວ້.
+ຂ້ອຍຈະເຮັດຂໍ້ຕົກລົງກັບຊາຕານຖ້າມັນຈະຊ່ວຍຂ້ອຍປະຕິບັດໂປແກຼມຂອງຂ້ອຍ. ແຕ່ເຊື່ອຂ້ອຍ, ບໍ່ມີສາຍທີ່ຕິດພັນກັບການຕົກລົງເຫຼົ່ານັ້ນ.
+
+448
+00:28:49,450 --> 00:28:51,450
+[STANTON]
+You're sure about that?
+ເຈົ້າແນ່ໃຈບໍ?
+
+449
+00:28:51,950 --> 00:28:57,950
+[WILLIE]
+Doc, Jack here has been telling me how you feel about things... how you'd like to see a new hospital built, a hospital that's the biggest and best that money can buy. You want those things, Doc, because, well, because you're a man who wants to do good. Now, I'd like to ask you a question.
+ດອກຕໍ, ແຈກຢູ່ນີ້ ກໍາ ລັງບອກຂ້ອຍວ່າເຈົ້າຮູ້ສຶກແນວໃດກ່ຽວກັບສິ່ງຕ່າງໆ... ເຈົ້າຢາກເຫັນໂຮງຫມໍ ໃຫມ່ ຖືກສ້າງຂຶ້ນ, ໂຮງຫມໍທີ່ໃຫຍ່ທີ່ສຸດແລະດີທີ່ສຸດທີ່ເງິນສາມາດຊື້ໄດ້
+. ເຈົ້າຕ້ອງການສິ່ງເຫຼົ່ານັ້ນ, ດອກ, ເພາະວ່າ, ດີ, ເພາະວ່າເຈົ້າເປັນຜູ້ຊາຍທີ່ຢາກເຮັດສິ່ງທີ່ດີ. ດຽວນີ້, ຂ້ອຍຢາກຖາມເຈົ້າ ຄໍາ ຖາມ ຫນຶ່ງ.
+
+450
+00:28:58,450 --> 00:29:00,450
+[STANTON]
+Shoot.
+ຍິງ.
+
+451
+00:29:00,950 --> 00:29:03,750
+[WILLIE]
+Do you know what good comes out of?
+ເຈົ້າຮູ້ບໍວ່າຜົນດີຈະມາຈາກຫຍັງ?
+
+452
+00:29:04,250 --> 00:29:06,250
+[STANTON]
+You tell me, Mr. Stark.
+ເຈົ້າບອກຂ້ອຍ, ທ້າວສຕາກ.
+
+453
+00:29:06,750 --> 00:29:12,750
+[WILLIE]
+Out of bad... that's what good comes out of. Because you can't make it out of anything else. You didn't know that, did you?
+ຈາກຄວາມບໍ່ດີ... ນັ້ນແມ່ນສິ່ງທີ່ດີອອກມາຈາກ.
+ເພາະວ່າເຈົ້າບໍ່ສາມາດເຮັດມັນຈາກສິ່ງອື່ນໄດ້. ເຈົ້າບໍ່ຮູ້ເລື່ອງນັ້ນ, ແມ່ນບໍ?
+
+454
+00:29:13,250 --> 00:29:19,250
+[STANTON]
+No, I didn't... There's another question I'd like to ask you. You say there's only bad to start with and the good must come with the bad. Who's to determine what's good and what's bad?... You?
+ບໍ່, ຂ້ອຍບໍ່ໄດ້... ມີ ຄໍາ ຖາມອີກຫນຶ່ງທີ່ຂ້ອຍຢາກຖາມເຈົ້າ.
+ເຈົ້າເວົ້າວ່າມີພຽງແຕ່ຄວາມຮ້າຍແຮງທີ່ຈະເລີ່ມຕົ້ນດ້ວຍແລະສິ່ງທີ່ດີຕ້ອງມາພ້ອມກັບຄວາມບໍ່ດີ. ໃຜຈະ ກໍາ ນົດສິ່ງທີ່ດີແລະສິ່ງທີ່ບໍ່ດີ?... ເຈົ້າ?
+
+455
+00:29:19,750 --> 00:29:21,750
+[WILLIE]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+456
+00:29:22,250 --> 00:29:24,250
+[STANTON]
+How?
+ແນວໃດ?
+
+457
+00:29:24,750 --> 00:29:28,950
+[WILLIE]
+Why, that's easy. Just... just make it up as you go along.
+ເປັນຫຍັງ, ມັນງ່າຍດາຍ. ພຽງແຕ່... ພຽງແຕ່ຄິດມັນໃນຂະນະທີ່ເຈົ້າໄປຕາມ.
+
+458
+00:29:29,450 --> 00:29:35,450
+[WILLIE]
+Folks, there's a time to talk and there's a time to act. I think the time to act is right now. And with your support, I not only will win but I will do all of the things I promised. I need your help. Oh, I need it badly. But I'm not going to beg for it. In the name of this state which we love... in the name of the governor in whose house we meet... I demand it.
+ພວກຄົນ, ມີເວລາທີ່ຈະເວົ້າແລະມີເວລາທີ່ຈະປະຕິບັດງານ. ຂ້ອຍຄິດວ່າເວລາທີ່ຈະເຮັດງານທໍາແມ່ນດຽວນີ້. ແລະດ້ວຍການສະ ຫນັບ ສະ ຫນູນ ຂອງທ່ານ, ຂ້ອຍຈະບໍ່ພຽງແຕ່ຊະນະເທົ່ານັ້ນແຕ່ຂ້ອຍຈະເຮັດທຸກສິ່ງທຸກຢ່າງທີ່ຂ້ອຍສັນຍາໄວ້
+. ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ. ໂອ້, ຂ້ອຍຕ້ອງການມັນຢ່າງຮ້າຍແຮງ. ແຕ່ຂ້ອຍຈະບໍ່ຂໍຮ້ອງມັນ. ໃນນາມຂອງລັດທີ່ພວກເຮົາຮັກ... ໃນນາມຜູ້ປົກຄອງໃນເຮືອນທີ່ພວກເຮົາພົບກັນ... ຂ້ອຍຮຽກຮ້ອງມັນ.
+
+459
+00:29:35,950 --> 00:29:38,050
+[WILLIE]
+Well, what do you say, sir?
+ເຈົ້າເວົ້າແນວໃດເດີເດີເດີ?
+
+460
+00:29:38,550 --> 00:29:42,050
+[JACK]
+You've got to say yes. With you in the race...
+ເຈົ້າຕ້ອງຕອບວ່າ ແມ່ນແລ້ວ. ກັບເຈົ້າໃນການແຂ່ງຂັນ...
+
+461
+00:29:42,550 --> 00:29:44,550
+[JUDGE]
+I'm an old bird... I...
+ຂ້ອຍເປັນນົກເກົ່າ... ຂ້ອຍ...
+
+462
+00:29:45,050 --> 00:29:47,050
+[WILLIE]
+But a game one.
+ແຕ່ເປັນເກມຫນຶ່ງ.
+
+463
+00:29:47,550 --> 00:29:53,550
+[WILLIE]
+Look, I'll give you complete power as attorney general. You can do anything you see fit. I'll swing the ax to clear the way for you. Is that a deal?
+ເບິ່ງ, ຂ້ອຍຈະໃຫ້ເຈົ້າອໍານາດຢ່າງເຕັມທີ່ເປັນໄອຍະການໃຫຍ່. ເຈົ້າສາມາດເຮັດທຸກຢ່າງທີ່ທ່ານເຫັນວ່າ
+ເຫມາະ ສົມ. ຂ້ອຍຈະຫັນກະດານເພື່ອເປີດທາງ ສໍາ ລັບເຈົ້າ. ນັ້ນແມ່ນຂໍ້ຕົກລົງບໍ?
+
+464
+00:29:54,050 --> 00:29:56,050
+[JUDGE]
+It's a deal.
+ມັນເປັນຂໍ້ຕົກລົງ.
+
+465
+00:29:56,550 --> 00:30:01,450
+[WILLIE]
+Jack, we have to get back to town... a lot to do.  Dr. Stanton.
+ແຈກ, ພວກເຮົາຕ້ອງກັບຄືນໄປເມືອງ... ມີຫຼາຍຢ່າງທີ່ຈະເຮັດ. ດຣ ສຕັນຕັນ.
+
+466
+00:30:01,950 --> 00:30:04,400
+[ANNE]
+I'm very glad to have met you.
+ຂ້ອຍດີໃຈຫຼາຍທີ່ໄດ້ພົບເຈົ້າ.
+
+467
+00:30:04,900 --> 00:30:07,000
+[CROWD]
+We want Willie! We want Willie!
+ພວກເຮົາຢາກວິລລີ! ພວກເຮົາຢາກວີລີ!
+
+468
+00:30:07,500 --> 00:30:13,500
+[WILLIE]
+This is not a time for speechmaking. I should get on my knees and ask God to give me strength to carry out your will.
+ນີ້ແມ່ນບໍ່ແມ່ນເວລາທີ່ຈະເວົ້າ.
+ຂ້ອຍຄວນນັ່ງຢູ່ເທິງເຂົ່າຂອງຂ້ອຍແລະຂໍໃຫ້ພຣະເຈົ້າໃຫ້ຂ້ອຍຄວາມເຂັ້ມແຂງເພື່ອປະຕິບັດຄວາມຕ້ອງການຂອງທ່ານ.
+
+469
+00:30:14,000 --> 00:30:20,000
+[WILLIE]
+This much I swear to you. These things you shall have. I'm going to build a hospital. The biggest that money can buy... and it will belong to you. That any man, woman, or child who is sick or in pain can go through those doors and know that everything will be done for them that man can do. To heal sickness. To ease pain. Free. Not as a charity, but as a right. And it is your right that every child shall have a complete education. That any man who produces anything can take it to market without paying toll. And no poor man's land or farm can be taxed or taken away from him. And it is the right of the people that they will not be deprived of hope...
+ຂ້ອຍສາບານໂຕໃຫ້ເຈົ້າຫຼາຍປານໃດ. ສິ່ງເຫຼົ່ານີ້ເຈົ້າຈະມີ. ຂ້ອຍຈະສ້າງໂຮງຫມໍ. ທີ່ໃຫຍ່ທີ່ສຸດທີ່ເງິນສາມາດຊື້ໄດ້... ແລະມັນຈະເປັນຂອງເຈົ້າ. ວ່າຜູ້ຊາຍ, ແມ່ຍິງ, ຫຼືເດັກນ້ອຍໃດທີ່ເຈັບປ່ວຍຫຼືເຈັບປວດສາມາດຜ່ານປະຕູເຫຼົ່ານັ້ນແລະຮູ້ວ່າທຸກຢ່າງຈະເຮັດ
+ສໍາ ລັບພວກເຂົາທີ່ຜູ້ຊາຍສາມາດເຮັດໄດ້. ເພື່ອປິ່ນປົວພະຍາດ. ເພື່ອຜ່ອນຜັນຄວາມເຈັບປົນ. ຟຣີ. ບໍ່ແມ່ນເປັນການຊ່ວຍເຫຼືອ, ແຕ່ເປັນສິດທິ. ແລະມັນເປັນສິດຂອງທ່ານທີ່ເດັກນ້ອຍທຸກຄົນຈະໄດ້ຮັບການສຶກສາຢ່າງສົມບູນແບບ. ວ່າ
+
+470
+00:30:20,500 --> 00:30:22,950
+[ANNE]
+Does he mean it, Jack? Does he?
+ລາວເວົ້າແທ້ບໍ, ແຈກ? ລາວເຮັດບໍ?
+
+471
+00:30:23,450 --> 00:30:25,450
+[STANTON]
+That's his bribe.
+ນັ້ນແມ່ນການສໍ້ໂກງຂອງລາວ.
+
+472
+00:30:25,950 --> 00:30:31,950
+[JACK]
+What if it was his bribe! He swept the old gang out of office. What if they hollered like stuck pigs? He jammed through bill after bill and the people got what they wanted.
+ຖ້າມັນເປັນເງິນສໍ້ໂກງຂອງລາວແນວໃດ! ລາວໄດ້ລ້າງກຸ່ມເກົ່າອອກຈາກຕໍາແຫນ່ງ. ຖ້າພວກເຂົາຮ້ອງໄຫ້ຄືກັບຫມູທີ່ຕິດຢູ່ບໍ
+? ລາວຍືດຫຍຸ່ນຜ່ານບັນຊີຕໍ່ບັນຊີແລະປະຊາຊົນໄດ້ຮັບສິ່ງທີ່ພວກເຂົາຕ້ອງການ.
+
+473
+00:30:32,450 --> 00:30:38,400
+[WILLIE]
+I demand that this bill be passed. Nobody's going to tell me how to run this state.
+ຂ້ອຍຮຽກຮ້ອງໃຫ້ຮ່າງກົດຫມາຍນີ້ຖືກຮັບຮອງເອົາ
+. ບໍ່ມີໃຜຈະບອກຂ້ອຍວ່າຈະຄຸ້ມຄອງລັດນີ້ແນວໃດ.
+
+474
+00:30:38,900 --> 00:30:44,900
+[JACK]
+He started to build the roads, the schools, the power dams, to change the face of the state from one end to the other... His methods?
+ລາວເລີ່ມສ້າງຖະຫນົນຫົນທາງ, ໂຮງຮຽນ, ເຂື່ອນໄຟຟ້າ,
+ເພື່ອປ່ຽນແປງໃບຫນ້າຂອງລັດຈາກຈຸດຫນຶ່ງໄປຫາອີກຈຸດຫນຶ່ງ... ວິທີການຂອງລາວ?
+
+475
+00:30:45,400 --> 00:30:51,400
+[JACK]
+Politics is a dirty game... and he played it rough and dirty. Willie's little black book was a record of sin and corruption. And me, Jack Burden? I kept the book and added up the accounts.
+ການເມືອງແມ່ນເກມທີ່ສໍ້ໂກງ... ແລະລາວຫຼິ້ນມັນຢ່າງຮຸນແຮງແລະເປື້ອນ.
+ປື້ມສີດໍານ້ອຍໆຂອງວີລີແມ່ນບັນທຶກຂອງຄວາມບາບແລະການສໍ້ລາດບັງຫຼວງ. ແລະຂ້ອຍ, ແຈກ ບາເດັນ? ຂ້ອຍຮັກສາປື້ມແລະລວມບັນຊີ.
+
+476
+00:30:51,900 --> 00:30:57,900
+[JACK]
+Clown, show-off, playboy, they yelled at him. Building football stadiums. Fiercely proud of his son who played in them.
+ຄລາວນ໌, ການສະແດງຕົວ, playboy, ພວກເຂົາຮ້ອງໄຫ້ລາວ. ການກໍ່ສ້າງສະໂມສອນບານເຕະ
+. ມີຄວາມພາກພູມໃຈຢ່າງຮຸນແຮງຕໍ່ລູກຊາຍຂອງລາວທີ່ຫຼິ້ນໃນພວກມັນ.
+
+477
+00:30:58,400 --> 00:31:01,900
+[WILLIE]
+Oh, look at him go. He's going to be All-American.
+ໂອ້, ເບິ່ງລາວໄປແມ. ລາວຈະເປັນຄົນອາເມຣິກັນທັງ ຫມົດ.
+
+478
+00:31:02,400 --> 00:31:07,650
+[JACK]
+They said he was building up a private army. But he was building, always building...
+ພວກເຂົາເວົ້າວ່າລາວ ກໍາ ລັງສ້າງກອງທັບສ່ວນຕົວ
+. ແຕ່ລາວ ກໍາ ກໍາລັງສ້າງ, ສ້າງສະເຫມີ...
+
+479
+00:31:08,150 --> 00:31:13,750
+[JACK]
+Always playing up to the crowd. Letting them trample on tradition. Well, tradition needed trampling on.
+ສະເຫມີຫຼີ້ນກັບຄົນຊົມເຊີຍ.
+ໃຫ້ພວກເຂົາຕີນຕາມປະເພນີ. ດີ, ປະເພນີຕ້ອງຕີນໃສ່.
+
+480
+00:31:14,250 --> 00:31:18,100
+[JACK]
+The crowd loved it... Willie loved it... and so did I.
+ຄົນຊົມເຊີຍມັກມັນ... ວີລີຮັກມັນ... ແລະຂ້ອຍຄືກັນ.
+
+481
+00:31:18,600 --> 00:31:20,600
+[SADIE]
+You low-down, no-good redneck...
+ເຈົ້າເປັນຄົນໂຊກຮ້າຍທີ່ຕໍ່າ, ບໍ່ດີ...
+
+482
+00:31:21,100 --> 00:31:23,100
+[JACK]
+What goes on here?
+ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+483
+00:31:23,600 --> 00:31:28,150
+[SECRETARY]
+That's what Sadie wants to know.  The boss poses for too many pictures.
+ນັ້ນແມ່ນສິ່ງທີ່ຊາດີຢາກຮູ້. ຫົວຫນ້າໂພສ ສໍາ ລັບຮູບຫຼາຍເກີນໄປ.
+
+484
+00:31:28,650 --> 00:31:30,650
+[SADIE]
+I'll kill him.
+ຂ້ອຍຈະຂ້າລາວ.
+
+485
+00:31:31,150 --> 00:31:33,250
+[JACK]
+Why, Sadie, I'm surprised at you.
+ເປັນຫຍັງ, ຊາດີ, ຂ້ອຍແປກໃຈກັບເຈົ້າ.
+
+486
+00:31:33,750 --> 00:31:35,750
+[SADIE]
+I'll kill him.
+ຂ້ອຍຈະຂ້າລາວ.
+
+487
+00:31:36,250 --> 00:31:38,250
+[SADIE]
+I hate all women.
+ຂ້ອຍກຽດຊັງແມ່ຍິງທຸກຄົນ.
+
+488
+00:31:38,750 --> 00:31:40,750
+[SADIE]
+Was she pretty?
+ນາງສວຍງາມບໍ?
+
+489
+00:31:41,250 --> 00:31:43,250
+[SADIE]
+Was she pretty?
+ນາງສວຍງາມບໍ?
+
+490
+00:31:43,750 --> 00:31:47,600
+[JACK]
+If I met her on the street I'd never recognize her.
+ຖ້າຂ້ອຍພົບນາງໃນຖະຫນົນຂ້ອຍຈະບໍ່ຮູ້ຈັກນາງເລີຍ.
+
+491
+00:31:48,100 --> 00:31:50,100
+[SADIE]
+Was she pretty?
+ນາງສວຍງາມບໍ?
+
+492
+00:31:50,600 --> 00:31:56,600
+[JACK]
+How should I know? I wasn't looking at her face... Look, if it's going to cause all this grief, why don't you let him go?
+ຂ້ອຍຄວນຮູ້ແນວໃດ? ຂ້ອຍບໍ່ໄດ້ເບິ່ງໃບຫນ້າຂອງນາງ... ເບິ່ງ,
+ຖ້າມັນຈະເຮັດໃຫ້ຄວາມໂຊກຮ້າຍທັງ ຫມົດ ນີ້, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ປ່ອຍລາວໄປ?
+
+493
+00:31:57,100 --> 00:32:01,650
+[SADIE]
+Let him go? I'll kill him. I'll drive him out of this state.
+ໃຫ້ລາວໄປບໍ? ຂ້ອຍຈະຂ້າລາວ. ຂ້ອຍຈະຂັບລາວອອກຈາກລັດນີ້.
+
+494
+00:32:02,150 --> 00:32:07,400
+[JACK]
+Just because a guy's sitting with a couple of girls on his knees in public...
+ພຽງແຕ່ເພາະວ່າຜູ້ຊາຍຄົນຫນຶ່ງນັ່ງກັບເດັກຍິງສອງສາມຄົນຢູ່ເທິງເຂົ່າຂອງລາວໃນສາທາລະນະ
+...
+
+495
+00:32:07,900 --> 00:32:13,900
+[SADIE]
+Public or private... I know him. How about what happened in Chicago? That girl on skates... and the time you both went to St. Louis... There's a new invention, you know, Photography and newsreels. Willie Stark in a nightclub... Willie Stark with a blonde.
+ສາທາລະນະຫຼືສ່ວນຕົວ... ຂ້ອຍຮູ້ຈັກລາວ. ຈະເປັນແນວໃດກັບສິ່ງທີ່ເກີດຂຶ້ນໃນຊິຄາໂກ? ເດັກຍິງຄົນນັ້ນເທິງສະເກັດ... ແລະເວລາທີ່ເຈົ້າທັງສອງໄປສຕ໌
+ລູຍສ໌... ມີການຄົ້ນຄວ້າ ໃຫມ່, ເຈົ້າຮູ້ແລ້ວ, ການຖ່າຍຮູບແລະລາຍການຂ່າວ. ວີລີ ສຕາກໃນສະໂມສອນກາງຄືນ... ວີລິສຕາກກັບບລອນດ໌.
+
+496
+00:32:14,400 --> 00:32:16,500
+[JACK]
+You could always bleach your hair.
+ເຈົ້າສາມາດເຮັດໃຫ້ຜົມສີຂາວໄດ້ສະເຫມີ.
+
+497
+00:32:17,000 --> 00:32:23,000
+[SADIE]
+I could also break every bone in his neck. After all I've done for him... Now he goes two-timing me.
+ຂ້ອຍຍັງສາມາດແຕກກະດູກທັງ ຫມົດ ໃນຄໍຂອງລາວໄດ້. ຫຼັງຈາກທຸກຢ່າງທີ່ຂ້ອຍໄດ້ເຮັດ
+ສໍາ ລັບລາວ... ດຽວນີ້ລາວ ກໍາ ລັງເຮັດຂ້ອຍສອງຄັ້ງ.
+
+498
+00:32:23,500 --> 00:32:29,100
+[JACK]
+He's been two-timing Lucy. So there's another kind of arithmetic for what he's doing to you.
+ລາວ ກໍາ ລັງເຮັດສອງຄັ້ງກັບລູຊີ. ສະນັ້ນມີການຄິດໄລ່ອີກປະເພດ
+ຫນຶ່ງ ສໍາ ລັບສິ່ງທີ່ລາວ ກໍາ ລັງເຮັດໃຫ້ເຈົ້າ.
+
+499
+00:32:29,600 --> 00:32:35,600
+[SADIE]
+Lucy?  If she had her way he'd be back in Kanoma City slopping the hogs right now. And he knows it. He knows what she'd do for him. She had her chance.
+ລູຊີ? ຖ້ານາງເຮັດຕາມທາງຂອງນາງລາວຈະກັບມາເມືອງຄາໂນມາ ກໍາ ລັງລ້ຽງຫມູໃນເວລານີ້
+. ແລະລາວຮູ້ມັນ. ລາວຮູ້ວ່ານາງຈະເຮັດຫຍັງ ສໍາ ລັບລາວ. ນາງມີໂອກາດຂອງນາງ.
+
+500
+00:32:36,100 --> 00:32:39,950
+[JACK]
+You seem to think Lucy's on her way out, don't you?
+ເຈົ້າເບິ່ງຄືວ່າຄິດວ່າ ລູຊີ ກໍາ ລັງອອກໄປແລ້ວ, ແມ່ນບໍ?
+
+501
+00:32:40,450 --> 00:32:42,550
+[SADIE]
+He'll ditch her... Give him time.
+ລາວຈະຖິ້ມນາງ... ໃຫ້ລາວເວລາ.
+
+502
+00:32:43,050 --> 00:32:45,050
+[JACK]
+You ought to know.
+ເຈົ້າຄວນຮູ້.
+
+503
+00:32:45,550 --> 00:32:50,100
+[JACK]
+Hey, you got the wrong guy. I'm not the hero of this piece.
+ເຮ້, ເຈົ້າຈັບຄົນຜິດ. ຂ້ອຍບໍ່ແມ່ນວິລະຊົນຂອງບົດນີ້.
+
+504
+00:32:50,600 --> 00:32:54,800
+[WILLIE]
+All right, come on, both of you. Let's go, hurry it up.
+ດີແລ້ວ, ມາແລ້ວ, ທັງສອງທ່ານ. ໄປ, ໄວຂຶ້ນ.
+
+505
+00:32:55,300 --> 00:33:01,300
+[WILLIE]
+Come on. Pillsbury put his hand in the pork barrel and got caught. You know, I never did trust that guy.
+ມາແລ້ວ. ປິລສບຣີເອົາມືໃສ່ຖັງຊີ້ນຫມູແລະຖືກຈັບ
+. ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍບໍ່ເຄີຍເຊື່ອຄົນນັ້ນເລີຍ.
+
+506
+00:33:01,800 --> 00:33:07,750
+[NEWSMEN]
+Have you heard about Pillsbury? What do you intend to do about Pillsbury? How about it, Governor?
+ເຈົ້າໄດ້ຍິນກ່ຽວກັບປິລສບຣີບໍ?
+ເຈົ້າຕັ້ງໃຈຈະເຮັດຫຍັງກ່ຽວກັບປິບສບີບໍ? ມັນແນວໃດ, ຜູ້ປົກຄອງ?
+
+507
+00:33:08,250 --> 00:33:14,250
+[WILLIE]
+Later, boys, later.  Say, Jack, go back and get the Judge. Let's get him over to my hotel just as soon as you can.
+ຕໍ່ມາ, ເດັກຊາຍ, ຕໍ່ມາ. ເວົ້າ, ແຈກ, ກັບຄືນໄປບ່ອນແລະເອົາຜູ້ພິພາກສາ
+. ໃຫ້ລາວໄປໂຮງແຮມຂອງຂ້ອຍທັນທີທີ່ທ່ານສາມາດເຮັດໄດ້.
+
+508
+00:33:14,750 --> 00:33:20,350
+[ANNE]
+I waited for you.  Hello.  You promised we could... uh... discuss my charity project... Children's home?
+ຂ້ອຍລໍຖ້າເຈົ້າ. ສະບາຍດີ. ເຈົ້າສັນຍາວ່າພວກເຮົາສາມາດ... ອູ.
+.. ປຶກສາຫາລືໂຄງການການຊ່ວຍເຫຼືອຂອງຂ້ອຍ... ເຮືອນເດັກນ້ອຍບໍ?
+
+509
+00:33:20,850 --> 00:33:26,100
+[WILLIE]
+Well, I'm very sorry. Something very important came up. You'll call me later, won't you?
+ດີ, ຂ້ອຍຂໍໂທດຫຼາຍ. ບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນຫຼາຍເກີດຂຶ້ນ
+. ເຈົ້າຈະໂທຫາຂ້ອຍຕໍ່ມາ, ແມ່ນບໍ?
+
+510
+00:33:26,600 --> 00:33:28,600
+[ANNE]
+Yes, certainly.
+ແມ່ນແລ້ວ, ແນ່ນອນ.
+
+511
+00:33:29,100 --> 00:33:31,100
+[SADIE]
+We're late.
+ພວກເຮົາຊ້າແລ້ວ.
+
+512
+00:33:31,600 --> 00:33:37,600
+[WILLIE]
+Look at you, Pillsbury. Fifty years old, gut-sprung, teeth gone, never had a dime. If the Almighty had intended for you to be rich he'd have taken care of that a long time ago. The idea of you being rich... that's plain blasphemy. Ain't that a fact?
+ເບິ່ງເຈົ້າແມ, ປິລສບຣີ. ອາຍຸຫ້າສິບປີ, ໄຂ່ທ້ອງ, ແຂ້ວຫາຍໄປ, ບໍ່ເຄີຍມີເງິນສົດໃດໆ. ຖ້າຜູ້ມີອໍານາດສູງສຸດໄດ້ຕັ້ງໃຈໃຫ້ເຈົ້າເປັນຄົນຮັ່ງມີລາວຈະເບິ່ງແຍງສິ່ງນັ້ນດົນນານແລ້ວ
+. ຄວາມຄິດວ່າເຈົ້າເປັນຜູ້ຮັ່ງ ມີ... ນັ້ນແມ່ນການໂຊກຮ້າຍທີ່ງ່າຍດາຍ. ນັ້ນບໍ່ແມ່ນຄວາມຈິງບໍ?
+
+513
+00:33:38,100 --> 00:33:40,100
+[WILLIE]
+Answer me!
+ຕອບຂ້ອຍ!
+
+514
+00:33:40,600 --> 00:33:42,600
+[PILLSBURY]
+Yes.
+ແມ່ນແລ້ວ.
+
+515
+00:33:43,100 --> 00:33:47,650
+[WILLIE]
+Louder, man. Don't mumble. Speak up. Say it's a fact, a blasphemous fact.
+ສຽງດັງກວ່າເກົ່າ, ຜູ້ຊາຍ. ຢ່າສັ່ນສະເທືອນ. ເວົ້າຂຶ້ນ
+. ເວົ້າວ່າມັນເປັນຄວາມຈິງ, ຄວາມຈິງທີ່ໂຊກຮ້າຍ.
+
+516
+00:33:48,150 --> 00:33:50,250
+[PILLSBURY]
+It's a fact, a blasphemous fact.
+ມັນເປັນຄວາມຈິງ, ຄວາມຈິງທີ່ໂຊກຮ້າຍ.
+
+517
+00:33:50,750 --> 00:33:55,300
+[SADIE]
+Yeah?... Oh, I see.  Dumond can't come. He says his wife is sick.
+ແມ່ນແລ້ວ?... ໂອ້, ຂ້ອຍເຫັນແລ້ວ.
+ດູມອນບໍ່ສາມາດມາໄດ້. ລາວເວົ້າວ່າເມຍຂອງລາວເຈັບປ່ວຍ.
+
+518
+00:33:55,800 --> 00:34:01,750
+[WILLIE]
+I don't care if she's dying. Sugar, get the car. Get him and bring him over here.
+ຂ້ອຍບໍ່ສົນໃຈວ່ານາງ ກໍາ ລັງຕາຍ. ແຊກເກີ
+, ເອົາລົດ. ເອົາລາວແລະພາລາວມາບ່ອນນີ້.
+
+519
+00:34:02,250 --> 00:34:08,250
+[WILLIE]
+Now, you know what you're supposed to do, don't you, Pillsbury? You're supposed to stay poor and take orders. Oh, there'll be some sweetening for you from time to time... but Duffy'll take care of that. Don't you go setting yourself up on your own again, do you understand that?
+ດຽວນີ້, ເຈົ້າຮູ້ວ່າເຈົ້າຄວນເຮັດຫຍັງ, ແມ່ນບໍ, ປິລສບຣີ? ເຈົ້າຄວນຢູ່ທຸກຍາກແລະຮັບຄໍາສັ່ງ. ໂອ້, ຈະມີເຄື່ອງຫວານບາງຢ່າງ
+ສໍາ ລັບເຈົ້າໃນບາງຄັ້ງ... ແຕ່ດັບຟີຈະເບິ່ງແຍງສິ່ງນັ້ນ. ເຈົ້າບໍ່ໄປຕັ້ງຕົວເອງອີກເທື່ອຫນຶ່ງ, ເຈົ້າເຂົ້າໃຈບໍ?
+
+520
+00:34:08,750 --> 00:34:10,750
+[PILLSBURY]
+Yes.
+ແມ່ນແລ້ວ.
+
+521
+00:34:11,250 --> 00:34:13,700
+[WILLIE]
+Louder, man. And say, I understand that.
+ສຽງດັງຂຶ້ນ, ຜູ້ຊາຍ. ແລະເວົ້າວ່າ, ຂ້ອຍເຂົ້າໃຈນັ້ນ.
+
+522
+00:34:14,200 --> 00:34:16,200
+[PILLSBURY]
+I understand that.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+523
+00:34:16,700 --> 00:34:19,500
+[WILLIE]
+Give him a pen and some paper, Sadie.
+ໃຫ້ລາວກະທູ້ແລະເຈ້ຍບາງຢ່າງ, ຊາດີ.
+
+524
+00:34:20,000 --> 00:34:22,000
+[WILLIE]
+See who that is, Duffy.
+ເບິ່ງວ່າຄົນນັ້ນແມ່ນໃຜ, ດັບຟີ.
+
+525
+00:34:22,500 --> 00:34:28,500
+[WILLIE]
+Oh, hello, Judge. Sit down. I'll be with you in just a couple of seconds.  Now write what I tell you to write... Dear Governor Stark. I wish to resign as auditor due to ill health, to take effect as soon as you can relieve me. Respectfully yours.  Did you sign it?
+ໂອ້, ສະບາຍດີ, ຜູ້ພິພາກສາ. ນັ່ງລົງ. ຂ້ອຍຈະຢູ່ກັບເຈົ້າໃນເວລາພຽງສອງສາມວິນາທີ. ດຽວນີ້ຂຽນສິ່ງທີ່ຂ້ອຍບອກເຈົ້າໃຫ້ຂຽນ... ເຈົ້າແຂວງສຕາກທີ່ຮັກແພງ.
+ຂ້ອຍຢາກລາອອກຈາກຕໍາແຫນ່ງຜູ້ກວດສອບເນື່ອງຈາກສຸຂະພາບບໍ່ດີ, ເພື່ອມີຜົນບັງຄັບໃຊ້ທັນທີທີ່ທ່ານສາມາດຊ່ວຍຂ້ອຍໄດ້. ດ້ວຍຄວາມເຄົາລົບຂອງທ່ານ. ເຈົ້າລົງນາມມັນບໍ?
+
+526
+00:34:29,000 --> 00:34:31,000
+[PILLSBURY]
+No.
+ບໍ່
+
+527
+00:34:31,500 --> 00:34:37,500
+[WILLIE]
+Well, sign it! Don't put any date on it. I can fill that in when I need it.
+ດີ, ເຊັນມັນ! ຢ່າໃສ່ວັນທີໃດໆໃສ່ມັນ.
+ຂ້ອຍສາມາດຕື່ມມັນໄດ້ເມື່ອຂ້ອຍຕ້ອງການມັນ.
+
+528
+00:34:38,000 --> 00:34:40,000
+[WILLIE]
+Now bring it to me.
+ດຽວນີ້ເອົາມັນມາໃຫ້ຂ້ອຍ.
+
+529
+00:34:40,500 --> 00:34:42,500
+[WILLIE]
+Now get out.
+ດຽວນີ້ອອກໄປ.
+
+530
+00:34:43,000 --> 00:34:45,000
+[JUDGE]
+The papers have the story.
+ຫນັງສືພິມມີເລື່ອງນີ້.
+
+531
+00:34:45,500 --> 00:34:47,500
+[WILLIE]
+Yeah, I know.
+ແມ່ນແລ້ວ, ຂ້ອຍຮູ້.
+
+532
+00:34:48,000 --> 00:34:50,000
+[JUDGE]
+They're talking about impeachment proceedings.
+ພວກເຂົາ ກໍາ ລັງເວົ້າກ່ຽວກັບການດໍາເນີນຄະດີຟ້ອງຮ້ອງ.
+
+533
+00:34:50,500 --> 00:34:52,500
+[WILLIE]
+Against who?
+ຕໍ່ຕ້ານໃຜ?
+
+534
+00:34:53,000 --> 00:34:55,000
+[JUDGE]
+This time, Pillsbury.
+ໃນຄັ້ງນີ້, ປິລສບຣີ.
+
+535
+00:34:55,500 --> 00:34:57,600
+[WILLIE]
+I got that "this time," Judge.
+ຂ້ອຍໄດ້ຮັບວ່າ"ຄັ້ງນີ້," ຜູ້ພິພາກສາ.
+
+536
+00:34:58,100 --> 00:35:00,100
+[JUDGE]
+How true is it?
+ມັນເປັນຄວາມຈິງຫຼາຍປານໃດ?
+
+537
+00:35:00,600 --> 00:35:02,600
+[WILLIE]
+It's too true.
+ມັນເປັນຄວາມຈິງຫຼາຍ.
+
+538
+00:35:03,100 --> 00:35:06,600
+[SADIE]
+Yes?  This is it, Willie. Jeff Hopkins on the wire.
+ແມ່ນແລ້ວ? ນີ້ແມ່ນມັນ, ວີລີ. ເຈຟສ໌ ຮອບປິນສ໌ຢູ່ສາຍ.
+
+539
+00:35:07,100 --> 00:35:13,100
+[WILLIE]
+What have we got on Hopkins, Jack?  Hello, Jeff. About that Pillsbury business...  Here's what I want you to do when it comes up in the legislature. Now, wait a minute, wait a minute. You listen to me.  You got a mortgage coming due on that place of yours in about five weeks, haven't you? You'd like to get it renewed, wouldn't you?  All right, Tiny'll talk to you in the morning.
+ພວກເຮົາມີຫຍັງກ່ຽວກັບໂຮປກິນສ໌, ແຈກ? ສະບາຍດີ, ເຈຟສ໌. ກ່ຽວກັບທຸລະກິດປິລສບີຣີນັ້ນ... ນີ້ແມ່ນສິ່ງທີ່ຂ້ອຍຢາກໃຫ້ເຈົ້າເຮັດເມື່ອມັນຂຶ້ນໃນສະພານິຕິບັນຍັດ. ດຽວນີ້, ລໍຖ້າດົນຫນຶ່ງ
+,ລໍຖ້ານາທີຫນຶ່ງ. ເຈົ້າຟັງຂ້ອຍ. ເຈົ້າມີເງິນກູ້ຢືມທີ່ມາຮອດໃນບ່ອນນັ້ນຂອງທ່ານໃນເວລາປະມານຫ້າອາທິດ, ເຈົ້າບໍ່? ເຈົ້າຢາກໃຫ້ມັນຕໍ່ອາຍຸ, ແມ່ນບໍ? ດີ, Tiny ຈະເວົ້າກັບເຈົ້າໃນຕອນເຊົ້າ.
+
+540
+00:35:13,600 --> 00:35:15,600
+[WILLIE]
+Get going, Tiny.
+ໄປ, Tiny.
+
+541
+00:35:16,100 --> 00:35:19,950
+[JUDGE]
+You haven't answered my question. Why are you saving Pillsbury's hide?
+ເຈົ້າບໍ່ໄດ້ຕອບຄໍາຖາມຂອງຂ້ອຍ. ເຈົ້າ ກໍາ
+ລັງຊ່ວຍຜິວ ຫນັງ ຂອງປິລສບຣີເປັນຫຍັງ?
+
+542
+00:35:20,450 --> 00:35:26,450
+[WILLIE]
+I'm not a bit interested in Pillsbury's hide. It's something much more important than that. If the McMurphy boys get the notion they can get away with this, there's no telling where they'll stop.
+ຂ້ອຍບໍ່ສົນໃຈເລັກນ້ອຍກ່ຽວກັບການເຊື່ອງຂອງປິລສບຣີ. ມັນເປັນບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນຫຼາຍກ່ວານັ້ນ.
+ຖ້າຜູ້ຊາຍແມັກມໍຟີໄດ້ຮັບຄວາມຄິດວ່າພວກເຂົາສາມາດຫນີຈາກສິ່ງນີ້ໄດ້, ບໍ່ມີການບອກວ່າພວກເຂົາຈະຢຸດຢູ່ໃສ.
+
+543
+00:35:26,950 --> 00:35:32,950
+[JUDGE]
+Or where you will... Pillsbury is guilty. As attorney general of this state, it's my job to prosecute.
+ຫຼືບ່ອນທີ່ທ່ານຈະ... ປິລສບຣີມີຄວາມຜິດ.
+ໃນຖານະເປັນໄອຍະການໃຫຍ່ຂອງລັດນີ້, ມັນເປັນວຽກຂອງຂ້ອຍທີ່ຈະດໍາເນີນຄະດີ.
+
+544
+00:35:33,450 --> 00:35:39,450
+[WILLIE]
+Judge, you talk like Pillsbury was... was human. He isn't. He's a thing. You don't prosecute an adding machine if the spring goes busted and makes a mistake. You fix it. Well, I fixed him. I'm not a bit interested in Pillsbury. It's something much bigger than that.
+ຜູ້ພິພາກສາ, ເຈົ້າເວົ້າຄືກັບວ່າປິລສບີຣີແມ່ນ... ແມ່ນມະນຸດ. ລາວບໍ່ແມ່ນ. ລາວເປັນສິ່ງຫນຶ່ງ. ເຈົ້າບໍ່ດໍາເນີນຄະດີເຄື່ອງເພີ່ມເຕີມຖ້າພາກຮຽນ spring
+ໄປ busted ແລະເຮັດຄວາມຜິດພາດ. ເຈົ້າແກ້ໄຂມັນ. ດີ, ຂ້ອຍແກ້ໄຂລາວ. ຂ້ອຍບໍ່ສົນໃຈ Pillsbury ຫນ້ອຍ ຫນຶ່ງ. ມັນເປັນບາງສິ່ງບາງຢ່າງທີ່ໃຫຍ່ກວ່ານັ້ນຫຼາຍ.
+
+545
+00:35:39,950 --> 00:35:41,950
+[JUDGE]
+Yes, it is.
+ແມ່ນແລ້ວ, ມັນເປັນ.
+
+546
+00:35:42,450 --> 00:35:45,600
+[JACK]
+He's right, Judge. Can't you see that he's right?
+ລາວເວົ້າຖືກຕ້ອງ, ຜູ້ພິພາກສາ. ເຈົ້າບໍ່ເຫັນວ່າລາວເວົ້າຖືກຕ້ອງບໍ?
+
+547
+00:35:46,100 --> 00:35:52,100
+[JUDGE]
+He's right because you want him to be right. Because you're afraid to admit you've made a mistake. Do it now before it's too late.  I'm offering my resignation as attorney general. You'll have it in writing by messenger in the morning... dated.
+ລາວຖືກຕ້ອງເພາະວ່າເຈົ້າຢາກໃຫ້ລາວຖືກຕ້ອງ. ເພາະວ່າເຈົ້າຢ້ານທີ່ຈະຍອມຮັບວ່າເຈົ້າໄດ້ເຮັດຄວາມຜິດພາດ. ເຮັດມັນດຽວນີ້ກ່ອນທີ່ຈະຊ້າເກີນໄປ
+. ຂ້ອຍ ກໍາ ລັງສະ ເຫນີ ການລາອອກຈາກຕໍາແຫນ່ງເປັນໄອຍະການໃຫຍ່. ເຈົ້າຈະໄດ້ຮັບມັນໂດຍການຂຽນໂດຍຜູ້ສົ່ງສານໃນຕອນເຊົ້າ... ວັນທີ.
+
+548
+00:35:52,600 --> 00:35:58,600
+[WILLIE]
+It took you a long time to make up your mind, Judge. A long time. What made you take such a long time?
+ເຈົ້າໃຊ້ເວລາຫຼາຍເພື່ອຕັດສິນໃຈ, ຜູ້ພິພາກສາ.
+ເປັນເວລາດົນນານ. ເປັນຫຍັງເຈົ້າຈຶ່ງໃຊ້ເວລາຫຼາຍປານໃດ?
+
+549
+00:35:59,100 --> 00:36:01,100
+[JUDGE]
+I wasn't sure.
+ຂ້ອຍບໍ່ແນ່ໃຈ.
+
+550
+00:36:01,600 --> 00:36:03,600
+[WILLIE]
+And now you are?
+ແລະດຽວນີ້ເຈົ້າເປັນບໍ?
+
+551
+00:36:04,100 --> 00:36:10,100
+[WILLIE]
+I'll tell you what you are. You're scared. You sat in that big easy chair of yours for thirty years and played at being a judge. Then all of a sudden I came along and put a bat in your hand, and I said, go ahead, Judge, start swinging. And you did. And you had a wonderful time. But now you're scared. You don't want to get your hands dirty. You want to pick up the marbles... but you don't want to get your hands dirty. Look at my whole program, Judge. How do you think I put that across?
+ຂ້ອຍຈະບອກເຈົ້າວ່າເຈົ້າເປັນຫຍັງ. ເຈົ້າຢ້ານກົວ. ເຈົ້ານັ່ງຢູ່ບ່ອນນັ່ງທີ່ງ່າຍດາຍທີ່ໃຫຍ່ຂອງເຈົ້າເປັນເວລາສາມສິບປີແລະຫຼິ້ນເປັນຜູ້ພິພາກສາ. ຫຼັງຈາກນັ້ນທັນທີຂ້ອຍມາພ້ອມແລະເອົາແມວໃນມືຂອງທ່ານ, ແລະຂ້ອຍເວົ້າວ່າ
+, ໄປກ່ອນ, ຜູ້ພິພາກສ່ວນ, ເລີ່ມຕົ້ນ swinging. ແລະເຈົ້າເຮັດ. ແລະທ່ານມີເວລາທີ່ຍິ່ງໃຫຍ່. ແຕ່ດຽວນີ້ເຈົ້າຢ້ານ. ເຈົ້າບໍ່ຢາກເຮັດໃຫ້ມືຂອງທ່ານເປື້ອນ. ເຈົ້າຢາກເອົາແກ້ວແກ້ວ... ແຕ່ເຈົ້າບໍ່ຢາກໃຫ້ມືຂອງເຈົ້າເປື້
+
+552
+00:36:10,600 --> 00:36:13,400
+[JUDGE]
+I knew how, but I never knew why.
+ຂ້ອຍຮູ້ວິທີເຮັດ, ແຕ່ຂ້ອຍບໍ່ເຄີຍຮູ້ວ່າເປັນຫຍັງ.
+
+553
+00:36:13,900 --> 00:36:18,800
+[WILLIE]
+You're not by any chance thinking of going over to McMurphy's boys, are you?
+ເຈົ້າບໍ່ໄດ້ຄິດທີ່ຈະໄປຫາພວກຊາຍຂອງແມັກມູຟຟີ, ແມ່ນບໍ?
+
+554
+00:36:19,300 --> 00:36:21,300
+[JUDGE]
+I'm through with politics.
+ຂ້ອຍຫມົດການເມືອງແລ້ວ.
+
+555
+00:36:21,800 --> 00:36:24,600
+[WILLIE]
+I'm happy to hear that.  No hard feelings.
+ຂ້ອຍດີໃຈທີ່ໄດ້ຍິນນັ້ນ. ບໍ່ມີຄວາມຮູ້ສຶກຮ້າຍແຮງ.
+
+556
+00:36:25,100 --> 00:36:27,900
+[JUDGE]
+Goodbye, Governor.  Are you coming with me, Jack?
+ສະບາຍດີ, ຜູ້ປົກຄອງ. ເຈົ້າຈະມາພ້ອມກັບຂ້ອຍບໍ, ແຈກ?
+
+557
+00:36:28,400 --> 00:36:30,400
+[JUDGE]
+You're making a mistake.
+ເຈົ້າ ກໍາ ລັງເຮັດຄວາມຜິດພາດ.
+
+558
+00:36:30,900 --> 00:36:35,800
+[WILLIE]
+Do you think he means it when he says he's through with politics, Sadie?
+ເຈົ້າຄິດວ່າລາວເວົ້າແທ້ເມື່ອລາວເວົ້າວ່າລາວສິ້ນສຸດການເມືອງແລ້ວບໍ
+, ຊາດີ?
+
+559
+00:36:36,300 --> 00:36:38,300
+[SADIE]
+No. No, I don't.
+ບໍ່. ບໍ່, ຂ້ອຍບໍ່ເຮັດ.
+
+560
+00:36:38,800 --> 00:36:40,800
+[WILLIE]
+What about you, Jack?
+ເຈົ້າແນວໃດ, ແຈກ?
+
+561
+00:36:41,300 --> 00:36:45,850
+[JACK]
+I've known the Judge all my life. He's always meant everything he's said.
+ຂ້ອຍຮູ້ຈັກຜູ້ພິພາກສາຕະຫຼອດຊີວິດຂອງຂ້ອຍ. ລາວ
+ຫມາຍ ຄວາມວ່າທຸກຢ່າງທີ່ລາວເວົ້າຢູ່ສະເຫມີ.
+
+562
+00:36:46,350 --> 00:36:50,900
+[WILLIE]
+All right. All right. Take it easy. I'll take your word for it.
+ດີ. ດີ. ສະບາຍໃຈ. ຂ້ອຍຈະເຊື່ອຄໍາເວົ້າຂອງທ່ານ ສໍາ ລັບມັນ.
+
+563
+00:36:51,400 --> 00:36:55,950
+[WILLIE]
+Sugar, take Miss Stanton home.  When am I going to see you again?
+ແຊກເກີ, ເອົານາງສຕັນຕັນກັບບ້ານ. ຂ້ອຍຈະເຫັນເຈົ້າອີກຄັ້ງເມື່ອໃດ?
+
+564
+00:36:56,450 --> 00:36:58,450
+[WILLIE]
+What's the matter, Anne?
+ມີຫຍັງເກີດຂຶ້ນແອນ?
+
+565
+00:36:58,950 --> 00:37:01,400
+[ANNE]
+Please take me home now, Sugar Boy.
+ກະລຸນາພາຂ້ອຍກັບບ້ານດຽວນີ້, ເດັກຫວານ.
+
+566
+00:37:01,900 --> 00:37:03,900
+[WILLIE]
+You've got to understand me.
+ເຈົ້າຕ້ອງເຂົ້າໃຈຂ້ອຍ.
+
+567
+00:37:04,400 --> 00:37:07,200
+[ANNE]
+I understand you. It's myself I don't understand.
+ຂ້ອຍເຂົ້າໃຈເຈົ້າ. ມັນເປັນຕົວເອງທີ່ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+568
+00:37:07,700 --> 00:37:13,700
+[WILLIE]
+Do you think I like sneaking around corners any more than you do? But right now, with the Pillsbury business and with your uncle quitting... If I got a divorce...
+ເຈົ້າຄິດວ່າຂ້ອຍມັກລັກລອບຢູ່ແຄມຫຼາຍກ່ວາເຈົ້າບໍ? ແຕ່ໃນເວລານີ້,
+ດ້ວຍທຸລະກິດປິລສບຣີແລະກັບພໍ່ເຖົ້າຂອງທ່ານອອກຈາກ... ຖ້າຂ້ອຍແຍກກັນ...
+
+569
+00:37:14,200 --> 00:37:16,650
+[ANNE]
+Maybe we'd better stop seeing each other.
+ບາງທີພວກເຮົາຄວນຢຸດພົບກັນ.
+
+570
+00:37:17,150 --> 00:37:20,650
+[WILLIE]
+No. No, we won't stop seeing each other, will we?
+ບໍ່. ບໍ່, ພວກເຮົາຈະບໍ່ຢຸດການພົບກັນ, ແມ່ນບໍ?
+
+571
+00:37:21,150 --> 00:37:23,150
+[ANNE]
+No.
+ບໍ່
+
+572
+00:37:23,650 --> 00:37:26,450
+[WILLIE]
+Because you believe in what I tell you.
+ເພາະເຈົ້າເຊື່ອໃນສິ່ງທີ່ຂ້ອຍບອກເຈົ້າ.
+
+573
+00:37:26,950 --> 00:37:29,400
+[ANNE]
+Because I believe what you tell me.
+ເພາະຂ້ອຍເຊື່ອໃນສິ່ງທີ່ເຈົ້າບອກຂ້ອຍ.
+
+574
+00:37:29,900 --> 00:37:35,900
+[SADIE]
+Good evening, Governor Stark.  I thought you might like to know that Judge Stanton kept his promise.  He gave the story to every paper in town.
+ສະບາຍດີແລງ, ຜູ້ປົກຄອງສຕາກ. ຂ້ອຍຄິດວ່າເຈົ້າອາດຈະຢາກຮູ້ວ່າຜູ້ພິພາກສາສຕັນຕັນໄດ້ຮັກສາ
+ຄໍາ ຫມັ້ນ ສັນຍາຂອງລາວ. ລາວໄດ້ໃຫ້ເລື່ອງໃຫ້ທຸກຫນັງສືພິມໃນເມືອງ.
+
+575
+00:37:36,400 --> 00:37:40,250
+[WILLIE]
+Sugar, meet me at the hotel as soon as you can.
+ແຊກເກີ, ພົບຂ້ອຍຢູ່ໂຮງແຮມທັນທີທີ່ທ່ານສາມາດເຮັດໄດ້.
+
+576
+00:37:40,750 --> 00:37:42,850
+[QUASHING PILLSBURY GRAFT]
+Interior: State Legislature Assembly Room, Day
+ພາຍໃນ: ຫ້ອງປະຊຸມສະພານິຕິບັນຍັດຂອງລັດ, ມື້
+
+577
+00:37:43,350 --> 00:37:49,350
+[SENATOR]
+These are serious charges that Judge Stanton has given to the press. This legislature is entitled to a complete and full report on the Pillsbury affair. Let the truth be known.
+ນີ້ແມ່ນການກ່າວຫາທີ່ຮ້າຍແຮງທີ່ຜູ້ພິພາກສາສຕັນຕັນໄດ້ໃຫ້ຕໍ່ສື່ມວນຊົນ.
+ສະພານິຕິບັນຍັດນີ້ມີສິດໃນການລາຍງານຢ່າງສົມບູນແບບແລະສົມບຸນກ່ຽວກັບເລື່ອງປິລສບຣີ. ໃຫ້ຄວາມຈິງຮູ້.
+
+578
+00:37:49,850 --> 00:37:54,050
+[CHAIRMAN]
+All those in favor, say aye... Motion carried. The house is adjourned.
+ທຸກຄົນທີ່ເຫັນດີ, ເວົ້າວ່າແມ່ນແລ້ວ...
+ການເຄື່ອນໄຫວຖືກປະຕິບັດ. ເຮືອນຖືກໂຈະລົງ.
+
+579
+00:37:54,550 --> 00:38:00,150
+[MONTAGE: PILLSBURY SCANDAL]
+Sign on building reads: CITIZENS COMMITTEE MEETING, Subject: PILLSBURY SCANDAL, 8 P.M. Tonight -- Town Hall.
+ປ້າຍໃສ່ອາຄານອ່ານວ່າ: ກອງປະຊຸມຄະນະກໍາມະການພົນລະເມືອງ, ຫົວຂໍ້
+: PILLSBURY SCANDAL, 8 ໂມງແລງມື້ນີ້ - ຫ້ອງປະຊຸມເມືອງ.
+
+580
+00:38:00,650 --> 00:38:05,550
+[MAN]
+If you let Willie Stark get away with the Pillsbury graft, there's no telling...
+ຖ້າເຈົ້າປ່ອຍໃຫ້ວີລີ ສຕາກຫນີໄປດ້ວຍການສັກຢາປິລສບຣີ, ບໍ່ມີການບອກ...
+
+581
+00:38:06,050 --> 00:38:08,850
+[JACK]
+But we beat the Pillsbury rap... It's over.
+ແຕ່ພວກເຮົາໄດ້ເອົາຊະນະ Rap Pillsbury... ມັນສິ້ນສຸດລົງແລ້ວ.
+
+582
+00:38:09,350 --> 00:38:15,350
+[WILLIE]
+These things are never over. I'll tell you what I want you to do, Jack. I want you to start a new page in that black book of yours... under then name of Judge Stanton.
+ສິ່ງເຫຼົ່ານີ້ບໍ່ເຄີຍສິ້ນສຸດລົງເລີຍ. ຂ້ອຍຈະບອກເຈົ້າວ່າຂ້ອຍຢາກໃຫ້ເຈົ້າເຮັດຫຍັງ, ແຈກ.
+ຂ້ອຍຢາກໃຫ້ທ່ານເລີ່ມຕົ້ນຫນ້າໃຫມ່ໃນປື້ມສີດໍານັ້ນຂອງທ່ານ... ພາຍໃຕ້ຊື່ຂອງຜູ້ພິພາກສາສຕັນຕັນ.
+
+583
+00:38:15,850 --> 00:38:18,300
+[JACK]
+You're crazy. There's nothing on the Judge.
+ເຈົ້າໂຊກຮ້າຍ. ບໍ່ມີຫຍັງກ່ຽວກັບຜູ້ພິພາກສາ.
+
+584
+00:38:18,800 --> 00:38:20,900
+[SADIE]
+Why? Because his name is Stanton?
+ເປັນຫຍັງ? ເພາະວ່າຊື່ຂອງລາວແມ່ນສຕັນຕັນບໍ?
+
+585
+00:38:21,400 --> 00:38:23,400
+[WILLIE]
+Ssshhh, easy.
+ສະບາຍດີ.
+
+586
+00:38:23,900 --> 00:38:26,000
+[JACK]
+What if I won't do it?
+ຖ້າຂ້ອຍບໍ່ເຮັດແນວໃດ?
+
+587
+00:38:26,500 --> 00:38:30,000
+[WILLIE]
+You know, some of this has rubbed off on you.
+ເຈົ້າຮູ້ແລ້ວ, ບາງສ່ວນຂອງສິ່ງນີ້ໄດ້ສົ່ງຜົນກະທົບຕໍ່ເຈົ້າ.
+
+588
+00:38:30,500 --> 00:38:33,650
+[JACK]
+What are you going to do? Have me shot?
+ເຈົ້າຈະເຮັດຫຍັງ? ຂ້ອຍຖືກຍິງບໍ?
+
+589
+00:38:34,150 --> 00:38:38,000
+[WILLIE]
+No... no... but I'll have to get myself a new boy.
+ບໍ່... ບໍ່... ແຕ່ຂ້ອຍຕ້ອງເອົາເດັກຊາຍຄົນໃຫມ່ໃຫ້ຕົວເອງ.
+
+590
+00:38:38,500 --> 00:38:41,300
+[JACK]
+I tell you there's nothing on the Judge.
+ຂ້ອຍບອກເຈົ້າວ່າບໍ່ມີຫຍັງກ່ຽວກັບຜູ້ພິພາກສາ.
+
+591
+00:38:41,800 --> 00:38:46,700
+[WILLIE]
+Jack, there's something on everybody. Man is conceived in sin and born in corruption.
+ແຈກ, ມີບາງສິ່ງບາງຢ່າງກ່ຽວກັບທຸກຄົນ.
+ມະນຸດຖືກຖືພາໃນຄວາມບາບແລະເກີດຢູ່ໃນການສໍ້ລາດບັງຫຼວງ.
+
+592
+00:38:47,200 --> 00:38:49,200
+[JACK]
+It's a waste of time.
+ມັນເປັນການເສຍເວລາ.
+
+593
+00:38:49,700 --> 00:38:53,900
+[WILLIE]
+What's the matter, Jack? Are you afraid you might find something out?
+ມີຫຍັງເກີດຂຶ້ນ, ແຈກ? ເຈົ້າຢ້ານວ່າເຈົ້າອາດຈະພົບບາງສິ່ງບາງຢ່າງບໍ?
+
+594
+00:38:54,400 --> 00:39:00,400
+[JACK]
+I kept saying to myself that Willie was wrong about the Judge. If there was anything left at Burden's Landing, it was honor. I had to believe that.
+ຂ້ອຍສືບຕໍ່ບອກຕົວເອງວ່າວີລີຜິດກ່ຽວກັບຜູ້ພິພາກສາ.
+ຖ້າມີຫຍັງຍັງເຫຼືອຢູ່ບ່ອນລົງຈອດຂອງບາເດັນ, ມັນແມ່ນກຽດຕິຍົດ. ຂ້ອຍຕ້ອງເຊື່ອນັ້ນ.
+
+595
+00:39:00,900 --> 00:39:06,150
+[JACK]
+Anne, I want to ask you a question. Was the Judge ever broke? Really broke?
+ແອນ, ຂ້ອຍຢາກຖາມເຈົ້າ ຄໍາ ຖາມຫນຶ່ງ. ຜູ້ພິພາກສາເຄີຍແຕກບໍ? ແຕກແທ້ບໍ?
+
+596
+00:39:06,650 --> 00:39:08,750
+[ANNE]
+Why do you want to know?
+ເຈົ້າຢາກຮູ້ເປັນຫຍັງ?
+
+597
+00:39:09,250 --> 00:39:12,400
+[JACK]
+I don't want to know, but I've got to.
+ຂ້ອຍບໍ່ຢາກຮູ້, ແຕ່ຂ້ອຍຕ້ອງເຮັດ.
+
+598
+00:39:12,900 --> 00:39:14,900
+[ANNE]
+Did he tell you --
+ລາວບອກເຈົ້າບໍ...
+
+599
+00:39:15,400 --> 00:39:17,400
+[JACK]
+Did who tell me?
+ໃຜບອກຂ້ອຍບໍ?
+
+600
+00:39:17,900 --> 00:39:22,800
+[ANNE]
+I don't know. I... how should I know if the Judge was ever broke?
+ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍ... ຂ້ອຍຄວນຮູ້ແນວໃດວ່າຜູ້ພິພາກສາເຄີຍສໍ້ໂກງບໍ?
+
+601
+00:39:23,300 --> 00:39:27,500
+[STANTON]
+Hello... Come on, Anne, take this food and start cooking. I'm hungry.
+ສະບາຍດີ... ມາແອນ,
+ເອົາອາຫານນີ້ແລະເລີ່ມຕົ້ນປຸງແຕ່ງອາຫານ. ຂ້ອຍຢາກກິນ.
+
+602
+00:39:28,000 --> 00:39:31,850
+[JACK]
+Me, I'm on the thirsty side. Bring some glasses, Anne, quick.
+ຂ້ອຍ, ຂ້ອຍຢູ່ດ້ານທີ່ດອກດອກ. ເອົາແກ້ວບາງຢ່າງ, ແອນ, ໄວ.
+
+603
+00:39:32,350 --> 00:39:38,350
+[STANTON]
+It's been a long time since I played this thing. What do you say we wake up the ghosts, huh?
+ມັນເປັນເວລາດົນນານແລ້ວທີ່ຂ້ອຍບໍ່ໄດ້ຫຼິ້ນສິ່ງນີ້.
+ເຈົ້າຄິດວ່າພວກເຮົາຈະຕື່ນຈິດວິນຍານແນວໃດ, ແມ່ນບໍ?
+
+604
+00:39:38,850 --> 00:39:40,950
+[JACK]
+Another glass, Anne, for a ghost.
+ແກ້ວອີກຫນຶ່ງ, ແອນ, ສໍາລັບຈິດວິນຍານ.
+
+605
+00:39:41,450 --> 00:39:45,650
+[STANTON]
+Remember the last time I played this? You and Anne were dancing?
+ເຈົ້າຈື່ເທື່ອສຸດທ້າຍທີ່ຂ້ອຍຫຼິ້ນແບບນີ້ບໍ
+? ເຈົ້າແລະແອນ ກໍາ ລັງເຕັ້ນບໍ?
+
+606
+00:39:46,150 --> 00:39:48,150
+[JACK]
+Shall we dance?
+ພວກເຮົາຈະເຕັ້ນບໍ?
+
+607
+00:39:48,650 --> 00:39:50,750
+[ANNE]
+Let's... let's have a drink first.
+ມາ... ໄປດື່ມກ່ອນ.
+
+608
+00:39:51,250 --> 00:39:57,250
+[JACK]
+No, no... keep playing. Anne and I want to hear this, don't we, Anne?  Adam... ghost... and me.
+ບໍ່, ບໍ່... ສືບຕໍ່ຫຼິ້ນ. ແອນແລະຂ້ອຍຢາກໄດ້ຍິນເລື່ອງນີ້
+, ແມ່ນບໍ, ແອນ? ອາດາມ... ຈິດວິນຍານ... ແລະຂ້ອຍ.
+
+609
+00:39:57,750 --> 00:39:59,750
+[STANTON]
+What shall we drink to?
+ພວກເຮົາຈະດື່ມຫຍັງ?
+
+610
+00:40:00,250 --> 00:40:04,800
+[JACK]
+To the ghost?... To Adam, to the director of the new medical center.
+ກັບຈິດວິນຍານບໍ?... ກັບອາດາມ, ກັບຜູ້ອໍານວຍການສູນການແພດ ໃຫມ່.
+
+611
+00:40:05,300 --> 00:40:07,750
+[STANTON]
+Don't you ever stop working for him?
+ເຈົ້າບໍ່ເຄີຍຢຸດເຮັດວຽກ ສໍາ ລັບລາວບໍ?
+
+612
+00:40:08,250 --> 00:40:10,250
+[ANNE]
+Adam!
+ແອັດມາມ!
+
+613
+00:40:10,750 --> 00:40:13,200
+[STANTON]
+I came up here to get away...
+ຂ້ອຍມາບ່ອນນີ້ເພື່ອຫນີໄປ...
+
+614
+00:40:13,700 --> 00:40:15,700
+[JACK]
+I'm sorry, Adam.
+ຂ້ອຍຂໍໂທດ, ອາດາມ.
+
+615
+00:40:16,200 --> 00:40:21,100
+[ANNE]
+Well, I'm not. What's wrong with being the director of the new medical center?
+ດີ, ຂ້ອຍບໍ່ແມ່ນ. ມີຫຍັງຜິດກັບການເປັນຜູ້ອໍານວຍການສູນການແພດ ໃຫມ່?
+
+616
+00:40:21,600 --> 00:40:24,750
+[STANTON]
+Nothing, except that I'm not going to take it.
+ບໍ່ມີຫຍັງເລີຍ, ຍົກເວັ້ນວ່າຂ້ອຍຈະບໍ່ເອົາມັນ.
+
+617
+00:40:25,250 --> 00:40:27,250
+[JACK]
+Why? Because your uncle resigned?
+ເປັນຫຍັງ? ເພາະວ່າພໍ່ເຖົ້າຂອງທ່ານໄດ້ລາອອກບໍ?
+
+618
+00:40:27,750 --> 00:40:30,200
+[STANTON]
+That's partly it. There are other things.
+ນັ້ນແມ່ນສ່ວນຫນຶ່ງຂອງມັນ. ມີສິ່ງອື່ນໆອີກ.
+
+619
+00:40:30,700 --> 00:40:32,700
+[ANNE]
+What other things?
+ສິ່ງອື່ນໆໃດ?
+
+620
+00:40:33,200 --> 00:40:35,200
+[STANTON]
+You too?
+ເຈົ້າຄືກັນບໍ?
+
+621
+00:40:35,700 --> 00:40:37,700
+[ANNE]
+Yes, me too.
+ແມ່ນແລ້ວ, ຂ້ອຍຄືກັນ.
+
+622
+00:40:38,200 --> 00:40:41,700
+[JACK]
+Anne, if Adam doesn't want to discuss it, let's not.
+ແອນ, ຖ້າແອນດາມບໍ່ຢາກປຶກສາຫາລືມັນ, ພວກເຮົາບໍ່ເຮັດ.
+
+623
+00:40:42,200 --> 00:40:44,200
+[STANTON]
+All right, let's discuss it.
+ດີແລ້ວ, ມາປຶກສາຫາລືມັນ.
+
+624
+00:40:44,700 --> 00:40:46,700
+[ANNE]
+But calmly.
+ແຕ່ຢ່າງສະຫງົບໃຈ.
+
+625
+00:40:47,200 --> 00:40:51,050
+[STANTON]
+Calmly. Go ahead, Jack. Why do you think he wants me?
+ສະບາຍໃຈ. ໄປກ່ອນ, ແຈກ. ເຈົ້າຄິດວ່າລາວຕ້ອງການຂ້ອຍເປັນຫຍັງ?
+
+626
+00:40:51,550 --> 00:40:54,350
+[JACK]
+Because you're the best man for the job.
+ເພາະເຈົ້າເປັນຜູ້ຊາຍທີ່ດີທີ່ສຸດ ສໍາ ລັບວຽກງານ.
+
+627
+00:40:54,850 --> 00:40:58,700
+[STANTON]
+It could have nothing to do with my name being Stanton?
+ມັນອາດຈະບໍ່ມີຫຍັງກ່ຽວຂ້ອງກັບຊື່ຂອງຂ້ອຍແມ່ນສຕັນຕັນບໍ?
+
+628
+00:40:59,200 --> 00:41:01,300
+[JACK]
+It could have. Let's grant that.
+ມັນອາດຈະມີ. ໃຫ້ຍອມຮັບມັນ.
+
+629
+00:41:01,800 --> 00:41:03,800
+[STANTON]
+That's your answer.
+ນັ້ນແມ່ນຄໍາຕອບຂອງທ່ານ.
+
+630
+00:41:04,300 --> 00:41:10,300
+[JACK]
+No, it's not. If that were the only answer I wouldn't be with him any more. There's another side of it. I've learned something from him. You can't make an omelet without cracking eggs.
+ບໍ່, ມັນບໍ່ແມ່ນ. ຖ້າມັນເປັນ ຄໍາ ຕອບດຽວຂ້ອຍຈະບໍ່ຢູ່ກັບລາວອີກຕໍ່ໄປ. ມີອີກດ້ານ ຫນຶ່ງ
+ຂອງມັນ. ຂ້ອຍໄດ້ຮຽນຮູ້ບາງສິ່ງບາງຢ່າງຈາກລາວ. ເຈົ້າບໍ່ສາມາດເຮັດໂອເມເລດໄດ້ໂດຍບໍ່ຕ້ອງແຕກໄຂ່.
+
+631
+00:41:10,800 --> 00:41:12,800
+[STANTON]
+Or heads.
+ຫຼືຫົວ.
+
+632
+00:41:13,300 --> 00:41:18,550
+[ANNE]
+But at least a hospital will be built, and the sick will be cared for.
+ແຕ່ຢ່າງຫນ້ອຍໂຮງຫມໍຈະຖືກສ້າງຂຶ້ນ, ແລະຄົນເຈັບຈະໄດ້ຮັບການເບິ່ງແຍງ.
+
+633
+00:41:19,050 --> 00:41:21,050
+[STANTON]
+At what price?
+ລາຄາໃດ?
+
+634
+00:41:21,550 --> 00:41:23,550
+[JACK]
+At any price.
+ດ້ວຍລາຄາໃດກໍ່ຕາມ.
+
+635
+00:41:24,050 --> 00:41:26,150
+[STANTON]
+Do you really believe that, Jack?
+ເຈົ້າເຊື່ອມັນແທ້ບໍ, ແຈກ?
+
+636
+00:41:26,650 --> 00:41:32,650
+[JACK]
+I really believe that Stark wants to do good. You do too. It's a matter of method. Many times out of evil comes good. Well, pain is an evil. As a doctor you should know that.
+ຂ້ອຍເຊື່ອວ່າສຕາກຢາກເຮັດຄວາມດີແທ້ໆ. ເຈົ້າກໍ່ເຮັດເຊັ່ນກັນ. ມັນເປັນເລື່ອງຂອງວິທີການ.
+ຫຼາຍຄັ້ງຈາກຄວາມຮ້າຍແຮງມາເປັນຄວາມດີ. ດີ, ຄວາມເຈັບປວດແມ່ນຄວາມຊົ່ວຮ້າຍ. ໃນຖານະເປັນຫມໍເຈົ້າຄວນຮູ້ສິ່ງນັ້ນ.
+
+637
+00:41:33,150 --> 00:41:39,100
+[STANTON]
+Pain is an evil; it is not evil. It is not evil in itself. Stark is evil.
+ຄວາມເຈັບປວດແມ່ນຄວາມຊົ່ວຮ້າຍ; ມັນບໍ່ແມ່ນຄວາມຊ້າຍຮ້າຍ.
+ມັນບໍ່ໄດ້ເປັນຄວາມຊ້າຮ້າຍໃນຕົວເອງ. ສຕາກແມ່ນຄວາມຮ້າຍແຮງ.
+
+638
+00:41:39,600 --> 00:41:42,400
+[JACK]
+The people of the state don't think so.
+ປະຊາຊົນຂອງລັດບໍ່ຄິດດັ່ງນັ້ນ.
+
+639
+00:41:42,900 --> 00:41:48,900
+[STANTON]
+How would they know? The first thing he did was to take over the newspapers and the radio stations. Why be so afraid of criticism? If Stark is interested in doing good, he should also be interested in the truth. I don't see how you can separate the two. No, Stark is not for me.
+ພວກເຂົາຈະຮູ້ແນວໃດ? ສິ່ງ ທໍາ ອິດທີ່ລາວເຮັດແມ່ນການຮັບເອົາຫນັງສືພິມແລະສະຖານີວິທະຍຸ. ເປັນຫຍັງຈຶ່ງຢ້ານກົວການວິຈານຫຼາຍ?
+ຖ້າສຕາກສົນໃຈໃນການເຮັດຄວາມດີ, ລາວຄວນສົນໃຈຄວາມຈິງເຊັ່ນກັນ. ຂ້ອຍບໍ່ເຫັນວ່າເຈົ້າສາມາດແຍກສອງຢ່າງໄດ້ແນວໃດ. ບໍ່, ສຕາກບໍ່ແມ່ນ ສໍາ ລັບຂ້ອຍ.
+
+640
+00:41:49,400 --> 00:41:55,400
+[ANNE]
+No, Stark is not for you. Well, what is for you? Pride. Pride, that's all it is... foolish, stupid pride. All you've ever talked about is what you could do if... if somebody would tear down and build. All right, all right, somebody has, and he's given it to you. But he's not for you. No, he's not for you.
+ບໍ່, ສຕາກບໍ່ແມ່ນສໍາລັບເຈົ້າ. ດີ, ແມ່ນຫຍັງແມ່ນສໍາລັບເຈົ້າ? ຄວາມພາກພູມໃຈ. ຄວາມກຽດຊັງ, ນັ້ນແມ່ນທັງຫມົດທີ່ມັນເປັນ... ຄວາມກ້າຫານທີ່ໂງ່, ຄວາມກ້ານກົວທີ່ບໍ່ມີຄວາມຮູ້ສຶກ.
+ສິ່ງດຽວທີ່ທ່ານເຄີຍເວົ້າກ່ຽວກັບແມ່ນສິ່ງທີ່ເຈົ້າສາມາດເຮັດໄດ້ຖ້າ... ຖ້າໃຜຈະທໍາລາຍແລະສ້າງ. ດີແລ້ວ, ດີ, ບາງຄົນມີ, ແລະລາວໄດ້ໃຫ້ມັນໃຫ້ເຈົ້າ. ແຕ່ລາວບໍ່ແມ່ນ ສໍາ ລັບເຈົ້າ. ບໍ່, ລາວບໍ່ແມ່ນ ສໍາ ລັບການເຈົ້າ.
+
+641
+00:41:55,900 --> 00:41:57,900
+[STANTON]
+Anne... Anne...
+ແອນນ໌... ແອນ...
+
+642
+00:41:58,400 --> 00:42:04,400
+[JACK]
+Will I find anything, Judge? Will I? I didn't find it all at once. It takes a long time to go through old courthouse records and musty deeds... a very long time. But it wasn't too hard for me. I was well trained in research, especially this kind.
+ຂ້ອຍຈະພົບຫຍັງເລີຍບໍ, ຜູ້ພິພາກສາ? ຂ້ອຍຈະເຮັດບໍ? ຂ້ອຍບໍ່ໄດ້ພົບມັນທັງ ຫມົດ ໃນເວລາດຽວກັນ. ມັນໃຊ້ເວລາຫຼາຍທີ່ຈະຜ່ານບັນທຶກຂອງສານເກົ່າແລະການກະ
+ທໍາ ທີ່ສັ່ນສະເທືອນ... ເປັນເວລາດົນນານຫຼາຍ. ແຕ່ມັນບໍ່ຍາກຫຼາຍ ສໍາ ລັບຂ້ອຍ. ຂ້ອຍໄດ້ຮັບການຝຶກອົບຮົມຢ່າງດີໃນການຄົ້ນຄວ້າ, ໂດຍສະເພາະປະເພດນີ້.
+
+643
+00:42:04,900 --> 00:42:07,700
+[JACK]
+I found what I didn't want to find.
+ຂ້ອຍພົບສິ່ງທີ່ຂ້ອຍບໍ່ຢາກຊອກຫາ.
+
+644
+00:42:08,200 --> 00:42:12,750
+[JACK]
+Have some photostat copies made of these. I'll be back tomorrow for them.
+ມີ ສໍາ ເນົາຮູບພາບບາງຢ່າງທີ່ເຮັດຈາກສິ່ງເຫຼົ່ານີ້
+. ຂ້ອຍຈະກັບມາມື້ອື່ນເພື່ອພວກມັນ.
+
+645
+00:42:13,250 --> 00:42:15,250
+[JACK]
+Who is it?
+ມັນເປັນໃຜ?
+
+646
+00:42:15,750 --> 00:42:17,750
+[SADIE'S VOICE]
+It's me, Sadie Burke.
+ມັນເປັນຂ້ອຍ, ຊາດີ ເບີກ.
+
+647
+00:42:18,250 --> 00:42:20,250
+[JACK]
+Wait a minute.
+ລໍຖ້າດົນຫນຶ່ງ.
+
+648
+00:42:20,750 --> 00:42:22,750
+[JACK]
+All right, come in.
+ດີແລ້ວ, ເຂົ້າມາ.
+
+649
+00:42:23,250 --> 00:42:27,100
+[SADIE]
+Phew! Awful lot of smoke. Awful lot of whisky. You sober?
+ໂຟ້! ຢາສູບຫຼາຍປານໃດ. ວີສກີຫຼາຍຢ່າງ. ເຈົ້າດື່ມບໍ?
+
+650
+00:42:27,600 --> 00:42:29,600
+[JACK]
+Stone.
+ຫີນ.
+
+651
+00:42:30,100 --> 00:42:33,950
+[SADIE]
+I'll have one with you.  What are you hiding out for?
+ຂ້ອຍຈະກິນຫນຶ່ງກັບເຈົ້າ. ເຈົ້າເຊື່ອງໄວ້ຫຍັງ?
+
+652
+00:42:34,450 --> 00:42:36,450
+[JACK]
+I'm not. I've been sleeping.
+ຂ້ອຍບໍ່ແມ່ນ. ຂ້ອຍນອນຢູ່ແລ້ວ.
+
+653
+00:42:36,950 --> 00:42:40,800
+[SADIE]
+For four days? You've been back in town for four days.
+ເຈົ້າກັບມາເມືອງເປັນເວລາສີ່ມື້ແລ້ວ.
+
+654
+00:42:41,300 --> 00:42:43,300
+[JACK]
+Willie knows everything.
+ວີລີຮູ້ທຸກຢ່າງ.
+
+655
+00:42:43,800 --> 00:42:45,800
+[SADIE]
+Willie's worried about his boy.
+ວີລີກັງວົນກ່ຽວກັບລູກຊາຍຂອງລາວ.
+
+656
+00:42:46,300 --> 00:42:48,750
+[JACK]
+Willie's boy is worried about Willie's boy.
+ລູກຊາຍຂອງວິລລີກັງວົນກ່ຽວກັບລູກຊາຍຂອງວີລລີ.
+
+657
+00:42:49,250 --> 00:42:55,250
+[SADIE]
+Well, why don't you put something on the phonograph -- a low-down, mean blues. Play it over and over again until you're sick of it. Then crack it and go back to work.  I do it all the time.
+ດີ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເອົາບາງສິ່ງບາງຢ່າງໃສ່ໂຟນໂກຣັບ - ບລູສທີ່ຕໍ່າລົງ, ຫມາຍ ຄວາມວ່າ.
+ຫຼິ້ນມັນອີກແລະອີກຈົນກວ່າເຈົ້າຈະເມື່ອຍຈາກມັນ. ຫຼັງຈາກນັ້ນແຕກມັນແລະກັບຄືນໄປບ່ອນເຮັດວຽກ. ຂ້ອຍເຮັດມັນຕະຫຼອດເວລາ.
+
+658
+00:42:55,750 --> 00:42:57,750
+[JACK]
+That's not my problem.
+ນັ້ນບໍ່ແມ່ນບັນຫາຂອງຂ້ອຍ.
+
+659
+00:42:58,250 --> 00:43:03,850
+[SADIE]
+No, it isn't your problem.  I'll wait for you if you want to powder your nose.
+ບໍ່, ມັນບໍ່ແມ່ນບັນຫາຂອງທ່ານ.
+ຂ້ອຍຈະລໍຖ້າທ່ານຖ້າທ່ານຢາກຝຸ່ນດັງຂອງທ່ານ.
+
+660
+00:43:04,350 --> 00:43:06,800
+[JACK]
+I'll be with you in a minute.
+ຂ້ອຍຈະມາຫາເຈົ້າໃນນາທີຫນຶ່ງ.
+
+661
+00:43:07,300 --> 00:43:13,300
+[SADIE]
+Hmmm. Yeah, I can see it. I've got to look in the mirror to be able to see it. Soft, white skin... not like mine.  I had smallpox when I was a kid. Where I lived it seemed nearly all the kids had smallpox...
+Hmmm. ແມ່ນແລ້ວ, ຂ້ອຍສາມາດເຫັນມັນໄດ້. ຂ້ອຍຕ້ອງເບິ່ງໃນຈໍເພື່ອສາມາດເຫັນໄດ້. ຜິວຫນັງອ່ອນໆ, ສີຂາວ... ບໍ່ຄືກັບຂອງຂ້ອຍ.
+ຂ້ອຍມີພະຍາດຫມາກພ້າວເມື່ອຂ້ອຍເປັນເດັກນ້ອຍ. ບ່ອນທີ່ຂ້ອຍອາໄສຢູ່ມັນເບິ່ງຄືວ່າເກືອບເດັກນ້ອຍທັງ ຫມົດ ມີພະຍາດ ຫມາກ ພ້າວ...
+
+662
+00:43:13,800 --> 00:43:19,800
+[SADIE]
+It leaves your face hard. Then she's got poise. Look at the way she holds her head... at just the right angle. That takes training. That takes years of training...
+ມັນເຮັດໃຫ້ໃບຫນ້າຂອງທ່ານແຂງແຮງ. ຫຼັງຈາກນັ້ນນາງມີຄວາມສົມດຸນ. ເບິ່ງວິທີທີ່ນາງຖືຫົວຂອງນາງ
+... ໃນແມວທີ່ຖືກຕ້ອງເທົ່ານັ້ນ. ນັ້ນຕ້ອງການການຝຶກອົບຮົມ. ນັ້ນຕ້ອງມີການຝຶກຝຶກຫຼາຍປີ...
+
+663
+00:43:20,300 --> 00:43:23,800
+[SADIE]
+I see what Willie sees. Willie's got big ideas, Jack.
+ຂ້ອຍເຫັນສິ່ງທີ່ວີລີເຫັນ. ວີລີມີແນວຄິດໃຫຍ່ໆ, ແຈກ.
+
+664
+00:43:24,300 --> 00:43:26,300
+[JACK]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+665
+00:43:26,800 --> 00:43:31,350
+[SADIE]
+A girl like that could be a governor's wife. Or even a President's.
+ເດັກຍິງແບບນັ້ນອາດຈະເປັນເມຍຂອງຜູ້ປົກຄອງ
+. ຫຼືເຖິງແມ່ນວ່າຂອງປະທານາທິບໍດີ.
+
+666
+00:43:31,850 --> 00:43:33,850
+[JACK]
+What are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+667
+00:43:34,350 --> 00:43:37,850
+[SADIE]
+He ditched Lucy, he ditched me, and he'll ditch you.
+ລາວໄດ້ປະຖິ້ມລູຊີ, ລາວໄດ້ປ່ອຍຂ້ອຍ, ແລະລາວຈະປ່ອຍເຈົ້າ.
+
+668
+00:43:38,350 --> 00:43:40,350
+[JACK]
+Answer me!
+ຕອບຂ້ອຍ!
+
+669
+00:43:40,850 --> 00:43:46,850
+[SADIE]
+He'll ditch everybody in the whole world because that's what Willie wants. Nobody in the world but him.
+ລາວຈະຖິ້ມທຸກຄົນໃນໂລກທັງ ຫມົດ
+ເພາະວ່ານັ້ນແມ່ນສິ່ງທີ່ວີລີຕ້ອງການ. ບໍ່ມີໃຜໃນໂລກນອກຈາກລາວ.
+
+670
+00:43:47,350 --> 00:43:49,350
+[JACK]
+What are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+671
+00:43:49,850 --> 00:43:55,850
+[SADIE]
+You and your high-tone friends. What do they know? What do they know about anything? Why did you have to mix her in?
+ເຈົ້າແລະເພື່ອນມິດທີ່ມີສຽງສູງຂອງທ່ານ. ພວກເຂົາຮູ້ຫຍັງ?
+ພວກເຂົາຍັງຮູ້ຫຍັງກ່ຽວກັບຫຍັງເລີຍ? ເປັນຫຍັງເຈົ້າຕ້ອງປະສົມນາງເຂົ້າກັນ?
+
+672
+00:43:56,350 --> 00:43:59,150
+[JACK]
+You're crazy, Sadie. You're out of your mind.
+ເຈົ້າໂຊກຮ້າຍ, ຊາດີ. ເຈົ້າບໍ່ໄດ້ຈິດໃຈແລ້ວ.
+
+673
+00:43:59,650 --> 00:44:05,250
+[SADIE]
+Am I? Well, why don't you go down and ask her. Or ask him. Ask Willie.
+ຂ້ອຍເປັນບໍ? ດີ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ລົງໄປຖາມນາງ
+. ຫຼືຖາມລາວ. ຖາມວີລີ.
+
+674
+00:44:05,750 --> 00:44:07,750
+[JACK]
+Shut up!
+ປິດງຽບ!
+
+675
+00:44:08,250 --> 00:44:10,250
+[SADIE]
+Go ahead, ask him.
+ໄປກ່ອນ, ຖາມລາວ.
+
+676
+00:44:10,750 --> 00:44:12,750
+[JACK]
+Shut up!
+ປິດງຽບ!
+
+677
+00:44:13,250 --> 00:44:15,250
+[SADIE]
+Ask him!
+ຖາມລາວ!
+
+678
+00:44:15,750 --> 00:44:17,750
+[SADIE]
+Ow-oo... oh... oh.
+ໂອ້ ໂອ້... ໂອ້ໂອ້.
+
+679
+00:44:18,250 --> 00:44:20,250
+[JACK]
+He's off today.
+ລາວອອກໄປມື້ນີ້.
+
+680
+00:44:20,750 --> 00:44:26,000
+[WILLIE]
+It's only practice. He'll be all right tomorrow... You been gone a long time, Jack.
+ມັນເປັນພຽງແຕ່ການຝຶກຊ້ອມເທົ່ານັ້ນ.
+ລາວຈະດີດີມື້ອື່ນ... ເຈົ້າຫາຍໄປດົນນານແລ້ວ, ແຈກ.
+
+681
+00:44:26,500 --> 00:44:29,650
+[JACK]
+Yeah. I figured if you needed me you'd yell.
+ແມ່ນແລ້ວ. ຂ້ອຍຄິດວ່າຖ້າເຈົ້າຕ້ອງການຂ້ອຍເຈົ້າຈະຮ້ອງໄຫ້.
+
+682
+00:44:30,150 --> 00:44:32,250
+[WILLIE]
+Why'd you lay around the hotel?
+ເຈົ້ານອນຢູ່ອ້ອມຂ້າງໂຮງແຮມເປັນຫຍັງ?
+
+683
+00:44:32,750 --> 00:44:34,750
+[JACK]
+Thinking.
+ຄິດ.
+
+684
+00:44:35,250 --> 00:44:37,250
+[WILLIE]
+About what?
+ກ່ຽວກັບຫຍັງ?
+
+685
+00:44:37,750 --> 00:44:39,750
+[JACK]
+Things.
+ສິ່ງຕ່າງໆ.
+
+686
+00:44:40,250 --> 00:44:42,700
+[WILLIE]
+What did you find on the Judge?
+ເຈົ້າພົບຫຍັງກ່ຽວກັບຜູ້ພິພາກສາ?
+
+687
+00:44:43,200 --> 00:44:45,200
+[JACK]
+Nothing.
+ບໍ່ມີຫຍັງເລີຍ.
+
+688
+00:44:45,700 --> 00:44:48,850
+[WILLIE]
+You sure you didn't find anything on the Judge?
+ເຈົ້າແນ່ໃຈວ່າເຈົ້າບໍ່ໄດ້ພົບຫຍັງກ່ຽວກັບຜູ້ພິພາກສາບໍ?
+
+689
+00:44:49,350 --> 00:44:51,350
+[JACK]
+Yeah, I'm sure.
+ແມ່ນແລ້ວ, ຂ້ອຍແນ່ໃຈ.
+
+690
+00:44:51,850 --> 00:44:54,300
+[WILLIE]
+You're going to keep trying, aren't you?
+ເຈົ້າຈະສືບຕໍ່ພະຍາຍາມ, ແມ່ນບໍ?
+
+691
+00:44:54,800 --> 00:44:56,800
+[JACK]
+If you want me to.
+ຖ້າເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດ.
+
+692
+00:44:57,300 --> 00:45:01,850
+[WILLIE]
+I want you to. There's something else I want you to do too.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າເຮັດ.
+ມີບາງສິ່ງບາງຢ່າງອີກຢ່າງທີ່ຂ້ອຍຢາກໃຫ້ທ່ານເຮັດເຊັ່ນກັນ.
+
+693
+00:45:02,350 --> 00:45:04,450
+[JACK]
+What? Bucket boy? Towel slinger? What?
+ຫຍັງ? ເດັກຊາຍຖັງ? ຜູ້ຖິ້ມກະທູ້? ຫຍັງ?
+
+694
+00:45:04,950 --> 00:45:06,950
+[WILLIE]
+What's eating you, Jack?
+ເຈົ້າກິນຫຍັງຢູ່, ແຈກ?
+
+695
+00:45:07,450 --> 00:45:10,250
+[JACK]
+What else do you want me to do?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງອີກ?
+
+696
+00:45:10,750 --> 00:45:16,750
+[WILLIE]
+If you've got something on your mind, boy, spit it out. We've been together too long to play games.
+ຖ້າເຈົ້າມີບາງສິ່ງບາງຢ່າງຢູ່ໃນຈິດໃຈ, ເດັກຊາຍ, ປາກມັນອອກ
+. ພວກເຮົາໄດ້ຢູ່ຮ່ວມກັນເປັນເວລາດົນເກີນໄປທີ່ຈະຫຼິ້ນເກມ.
+
+697
+00:45:17,250 --> 00:45:19,700
+[JACK]
+What do you want me to do?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+
+698
+00:45:20,200 --> 00:45:26,200
+[WILLIE]
+I hear your pal Adam Stanton turned down the job as director of the hospital. That's bad. Especially at a time like this.
+ຂ້ອຍໄດ້ຍິນວ່າເພື່ອນຂອງທ່ານແອດມັສຕັນຕັນ
+ໄດ້ປະຕິເສດວຽກງານເປັນຜູ້ອໍານວຍການໂຮງຫມໍ. ນັ້ນບໍ່ດີ. ໂດຍສະເພາະໃນເວລານີ້.
+
+699
+00:45:26,700 --> 00:45:28,800
+[JACK]
+Oh? How did you hear it?
+ໂອ້? ເຈົ້າໄດ້ຍິນມັນແນວໃດ?
+
+700
+00:45:29,300 --> 00:45:31,400
+[WILLIE]
+Why? What difference does it make?
+ເປັນຫຍັງ? ມັນມີຄວາມແຕກຕ່າງຫຍັງ?
+
+701
+00:45:31,900 --> 00:45:33,900
+[JACK]
+I just wanted to know.
+ຂ້ອຍພຽງແຕ່ຢາກຮູ້.
+
+702
+00:45:34,400 --> 00:45:36,400
+[WILLIE]
+I heard it around.
+ຂ້ອຍໄດ້ຍິນມັນຢູ່ອ້ອມຂ້າງ.
+
+703
+00:45:36,900 --> 00:45:40,050
+[JACK]
+How did you hear he turned it down, Willie?
+ເຈົ້າໄດ້ຍິນແນວໃດວ່າລາວປະຕິເສດມັນ, ວີລີ?
+
+704
+00:45:40,550 --> 00:45:44,750
+[WILLIE]
+I'll be right back, Jack. I want to see what's happening here.
+ຂ້ອຍຈະກັບມາທັນທີ, ແຈກ. ຂ້ອຍຢາກເບິ່ງວ່າເກີດຫຍັງຂຶ້ນຢູ່ນີ້.
+
+705
+00:45:45,250 --> 00:45:48,400
+[COACH]
+You going to practice the way I tell you.
+ເຈົ້າຈະຝຶກຊ້ອມຕາມວິທີທີ່ຂ້ອຍບອກເຈົ້າ.
+
+706
+00:45:48,900 --> 00:45:53,100
+[TOM]
+I'm going to do it the way I want to do it.
+ຂ້ອຍຈະເຮັດຕາມທີ່ຂ້ອຍຢາກເຮັດ.
+
+707
+00:45:53,600 --> 00:45:56,050
+[WILLIE]
+Tom, come here. What's going on here?
+ໂຕມ ມາບ່ອນນີ້. ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+708
+00:45:56,550 --> 00:46:01,450
+[COACH]
+I don't care if he is your son, Governor... No special rules for him.
+ຂ້ອຍບໍ່ສົນໃຈວ່າລາວເປັນລູກຊາຍຂອງທ່ານບໍ,
+ຜູ້ປົກຄອງ... ບໍ່ມີກົດລະບຽບພິເສດ ສໍາ ລັບລາວ.
+
+709
+00:46:01,950 --> 00:46:06,850
+[TOM]
+It doesn't make any difference to me either way... whether I play or not.
+ມັນບໍ່ມີຄວາມແຕກຕ່າງໃດໆຕໍ່ຂ້ອຍໃນທາງໃດກໍ່ຕາມ
+... ບໍ່ວ່າຂ້ອຍຈະຫຼິ້ນຫຼືບໍ່.
+
+710
+00:46:07,350 --> 00:46:11,550
+[WILLIE]
+Well, it does to me.  What do you want him to do?
+ດີ, ມັນເຮັດກັບຂ້ອຍ. ເຈົ້າຢາກໃຫ້ລາວເຮັດຫຍັງ?
+
+711
+00:46:12,050 --> 00:46:18,050
+[COACH]
+To behave himself. Like the rest of the boys. Four times this season he's broken training. He comes on the practice field half potted.
+ເພື່ອປະຕິບັດຕົວເອງ. ຄືກັບເດັກຊາຍອື່ນໆ.
+ສີ່ຄັ້ງໃນລະດູການນີ້ລາວໄດ້ຢຸດການຝຶກອົບຮົມ. ລາວມາໃນສະຫນາມຝຶກຊ້ອມເຄິ່ງຖ້ວມ.
+
+712
+00:46:18,550 --> 00:46:24,550
+[WILLIE]
+Tom, you're going to have to obey the rules. Do you hear me? You're going to obey the rules.
+ໂຕມ, ເຈົ້າຈະຕ້ອງປະຕິບັດຕາມກົດລະບຽບ.
+ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ? ເຈົ້າຈະປະຕິບັດຕາມລະບຽບການ.
+
+713
+00:46:25,050 --> 00:46:31,050
+[TOM]
+I put 'em across, don't I? Every Saturday I put 'em across and I can still do it, drunk or sober. That's all you want, isn't it... for me to put 'em across so you can big-shot it around? Isn't that all you want?
+ຂ້ອຍເອົາພວກມັນຂ້າມໄປ, ແມ່ນບໍ? ທຸກໆວັນເສົາຂ້ອຍເອົາພວກເຂົາຍ່າງໄປແລະຂ້ອຍຍັງສາມາດເຮັດໄດ້, ດື່ມຫຼືດື່ມ. ນັ້ນແມ່ນທັງ ຫມົດ ທີ່ເຈົ້າຕ້ອງການ
+, ແມ່ນບໍ່... ສໍາ ລັບຂ້ອຍທີ່ຈະວາງພວກມັນຜ່ານເພື່ອໃຫ້ເຈົ້າສາມາດຍິງມັນໃຫຍ່ຢູ່ອ້ອມຂ້າງໄດ້ບໍ? ນັ້ນແມ່ນທັງຫມົດທີ່ທ່ານຕ້ອງການບໍ?
+
+714
+00:46:31,550 --> 00:46:34,700
+[WILLIE]
+Tom!  He's a little high-strung.  Tom, come here. Tom!
+ໂຕມ! ລາວມີຄວາມເຄັ່ງຕຶງສູງເລັກນ້ອຍ. ໂຕມ, ມາບ່ອນນີ້.ໂຕມ!
+
+715
+00:46:35,200 --> 00:46:38,000
+[HELENE]
+Come on, Tommy... let's go faster. Come on...
+ມາແລ້ວ, ໂຕມມີ... ໄປໄວຂຶ້ນ. ມາແລ້ວ...
+
+716
+00:46:38,500 --> 00:46:44,500
+[GIRL NEAR DEATH IN CRASH]
+Below the headline is a picture of Helene Hale's father. Another picture of Mr. Hale on the front page. Caption reads:
+ຢູ່ລຸ່ມຫົວຂໍ້ມີຮູບຂອງພໍ່ຂອງເຮເລນ ເຮລ.
+ຮູບອີກຫນຶ່ງຂອງທ່ານເຮລໃນຫນ້າທໍາອິດ. ຫົວຂໍ້ອ່ານວ່າ:
+
+717
+00:46:45,000 --> 00:46:47,450
+[LUCY]
+Willie, Mr. Hale's here to see you.
+ວີລີ, ທ້າວເຮລມາພົບເຈົ້າ.
+
+718
+00:46:47,950 --> 00:46:53,550
+[WILLIE]
+Go on upstairs, Lucy. I have some business I want to talk over with Mr. Hale.
+ໄປເທິງ, ລູຊີ. ຂ້ອຍມີທຸລະກິດບາງຢ່າງທີ່ຂ້ອຍຢາກເວົ້າກັບທ່ານເຮລ.
+
+719
+00:46:54,050 --> 00:46:58,250
+[HALE]
+What I've got to say anybody can listen to... Where's your boy?
+ສິ່ງທີ່ຂ້ອຍຕ້ອງເວົ້າທຸກຄົນສາມາດຟັງໄດ້... ລູກຊາຍຂອງທ່ານຢູ່ໃສ?
+
+720
+00:46:58,750 --> 00:47:02,250
+[WILLIE]
+Now... now, don't get excited.  Get me another drink, Sugar.
+ດຽວນີ້... ດຽວນີ້, ຢ່າຕື່ນເຕັ້ນ.
+ເອົາເຄື່ອງດື່ມອີກຫນຶ່ງໃຫ້ຂ້ອຍ, Sugar.
+
+721
+00:47:02,750 --> 00:47:04,750
+[HALE]
+My daughter may die.
+ລູກສາວຂອງຂ້ອຍອາດຈະຕາຍ.
+
+722
+00:47:05,250 --> 00:47:11,250
+[WILLIE]
+She's not going to die. She'll get the best medical attention there is. No expense will be spared.
+ນາງຈະບໍ່ຕາຍ. ນາງຈະໄດ້ຮັບການເບິ່ງແຍງທາງການແພດທີ່ດີທີ່ສຸດທີ່ມີຢູ່
+. ບໍ່ມີຄ່າໃຊ້ຈ່າຍຈະຖືກປະຢັດ.
+
+723
+00:47:11,750 --> 00:47:13,750
+[HALE]
+Where's your boy?
+ລູກຊາຍຂອງທ່ານຢູ່ໃສ?
+
+724
+00:47:14,250 --> 00:47:16,250
+[LUCY]
+I'll get him.
+ຂ້ອຍຈະເອົາລາວ.
+
+725
+00:47:16,750 --> 00:47:22,750
+[WILLIE]
+Wait a minute, Lucy. He's asleep. And the doctor said after a good night's sleep he'll be all right.
+ລໍຖ້າດົນຫນຶ່ງ, ລູຊີ. ລາວນອນ.
+ແລະຫມໍເວົ້າວ່າຫຼັງຈາກນອນດີໃນຕອນກາງຄືນລາວຈະດີດີ.
+
+726
+00:47:23,250 --> 00:47:28,500
+[LUCY]
+No, he won't be all right unless you make him all right. I'll get him.
+ບໍ່, ລາວຈະບໍ່ດີຈົນກວ່າເຈົ້າຈະເຮັດໃຫ້ລາວດີ. ຂ້ອຍຈະເອົາລາວ.
+
+727
+00:47:29,000 --> 00:47:31,100
+[WILLIE]
+Lucy!  You care for a drink?
+ລູຊີ! ເຈົ້າຢາກດື່ມບໍ?
+
+728
+00:47:31,600 --> 00:47:33,600
+[HALE]
+No thanks.
+ບໍ່ ຂອບໃຈ.
+
+729
+00:47:34,100 --> 00:47:36,100
+[WILLIE]
+Accidents will happen, you know.
+ອຸບັດຕິເຫດຈະເກີດຂຶ້ນ, ເຈົ້າຮູ້ແລ້ວ.
+
+730
+00:47:36,600 --> 00:47:38,600
+[HALE]
+Accidents? Your boy was drunk.
+ອຸບັດຕິເຫດບໍ? ລູກຊາຍຂອງທ່ານຖືກດື່ມ.
+
+731
+00:47:39,100 --> 00:47:44,350
+[WILLIE]
+I saw the police report. There... there was nothing about drunkenness on the police report.
+ຂ້ອຍເຫັນບົດລາຍງານຕໍາຫຼວດ. ຢູ່ບ່ອນນັ້ນ...
+ບໍ່ມີຫຍັງກ່ຽວກັບການດື່ມໃນບົດລາຍງານ ຕໍາຫລວດ.
+
+732
+00:47:44,850 --> 00:47:50,100
+[HALE]
+Whose police and whose report? I say the boy was drunk. And I know it.
+ຕໍາຫຼວດຂອງໃຜແລະລາຍງານຂອງໃຜ?
+ຂ້ອຍເວົ້າວ່າເດັກຊາຍຄົນນັ້ນດື່ມ. ແລະຂ້ອຍຮູ້ມັນ.
+
+733
+00:47:50,600 --> 00:47:53,750
+[HALE]
+Right here before your father... I want you --
+ຢູ່ບ່ອນນີ້ກ່ອນພໍ່ຂອງທ່ານ... ຂ້ອຍຢາກໃຫ້ເຈົ້າ -
+
+734
+00:47:54,250 --> 00:47:56,250
+[TOM]
+Mr. Hale --
+ທ້າວເຮລ...
+
+735
+00:47:56,750 --> 00:47:59,550
+[WILLIE]
+Tom, the doctor says you need rest, boy.
+ໂຕມ, ທ່ານຫມໍເວົ້າວ່າເຈົ້າຕ້ອງການພັກຜ່ອນ, ເດັກຊາຍ.
+
+736
+00:48:00,050 --> 00:48:06,050
+[TOM]
+I don't want you to try to cover up for me. I was wrong... that's all there is to it.
+ຂ້ອຍບໍ່ຢາກໃຫ້ເຈົ້າພະຍາຍາມປົກປິດຂ້ອຍ.
+ຂ້ອຍຜິດ... ນັ້ນແມ່ນທັງຫມົດທີ່ມັນມີ.
+
+737
+00:48:06,550 --> 00:48:11,100
+[WILLIE]
+You don't know what you're talking about. I saw the police report --
+ເຈົ້າບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ. ຂ້ອຍເຫັນບົດລາຍງານຕໍາຫຼວດ -
+
+738
+00:48:11,600 --> 00:48:17,600
+[TOM]
+I don't care what the police report says. I was driving and I was drunk. It's all my fault.  Anything you want to do to me, you can do. Whatever you want me to do, I'll do.
+ຂ້ອຍບໍ່ສົນໃຈວ່າບົດລາຍງານຕໍາຫຼວດເວົ້າຫຍັງ. ຂ້ອຍ ກໍາ ລັງຂັບລົດແລະຂ້ອຍດື່ມ. ມັນເປັນຄວາມຜິດຂອງຂ້ອຍທັງ
+ຫມົດ. ທຸກສິ່ງທີ່ທ່ານຢາກເຮັດກັບຂ້ອຍ, ເຈົ້າສາມາດເຮັດໄດ້. ທຸກຢ່າງທີ່ທ່ານຢາກໃຫ້ຂ້ອຍເຮັດ, ຂ້ອຍຈະເຮັດ.
+
+739
+00:48:18,100 --> 00:48:22,300
+[WILLIE]
+Nobody has to do anything. Stop worrying. I'll take care of everything.
+ບໍ່ມີໃຜຕ້ອງເຮັດຫຍັງເລີຍ. ຢຸດການກັງວົນ. ຂ້ອຍຈະເບິ່ງແຍງທຸກຢ່າງ.
+
+740
+00:48:22,800 --> 00:48:25,950
+[TOM]
+I don't want you to take care of anything.
+ຂ້ອຍບໍ່ຢາກໃຫ້ເຈົ້າເບິ່ງແຍງຫຍັງເລີຍ.
+
+741
+00:48:26,450 --> 00:48:31,700
+[WILLIE]
+Tom, go on upstairs and get some rest, boy. Go on... go on... go on.
+ໂຕມ, ໄປເທິງແລະພັກຜ່ອນບາງຢ່າງ, ເດັກຊາຍ. ໄປ... ໄປ...ໄປ. ໄປ.
+
+742
+00:48:32,200 --> 00:48:38,200
+[WILLIE]
+Sugar, help him... Mr. Hale, come on over and sit down. You sure you wouldn't care for a drink, Mr. Hale?
+ແຊກເກີ, ຊ່ວຍລາວ... ທ້າວເຮລ, ມາຢູ່ບ່ອນນີ້ແລະນັ່ງລົງ
+. ເຈົ້າແນ່ໃຈວ່າເຈົ້າບໍ່ຢາກດື່ມບໍ, ທ້າວ ເຮລ?
+
+743
+00:48:38,700 --> 00:48:43,600
+[WILLIE]
+Hey, Tiny, go home. Go on, out of here... out of here. Go on.
+ເຮ້, ຕີນີ, ກັບບ້ານ. ໄປ, ອອກຈາກບ່ອນນີ້... ອອກມາຈາກບ່ອນນີ້. ໄປ.
+
+744
+00:48:44,100 --> 00:48:46,900
+[WILLIE]
+What business did you say you were in?
+ເຈົ້າບອກວ່າເຈົ້າເຮັດທຸລະກິດຫຍັງ?
+
+745
+00:48:47,400 --> 00:48:49,400
+[HALE]
+I didn't say.
+ຂ້ອຍບໍ່ໄດ້ບອກ.
+
+746
+00:48:49,900 --> 00:48:51,900
+[WILLIE]
+What business are you in?
+ເຈົ້າເຮັດທຸລະກິດຫຍັງ?
+
+747
+00:48:52,400 --> 00:48:54,400
+[HALE]
+Trucking business.
+ທຸລະກິດຂົນສົ່ງລົດບັນທຸກ.
+
+748
+00:48:54,900 --> 00:49:00,900
+[WILLIE]
+Trucking business. Trucks run on state roads. If a man in the trucking business had a contract with the state, a big one, that would be pretty good, wouldn't it?  Go on, Jack. Tell him what would happen.
+ທຸລະກິດຂົນສົ່ງລົດບັນທຸກ. ລົດບັນທຸກແລ່ນຕາມຖະຫນົນທາງລັດ. ຖ້າຜູ້ຊາຍໃນທຸລະກິດຂັບເຄື່ອນມີສັນຍາກັບລັດ
+, ຫນຶ່ງ ທີ່ໃຫຍ່, ນັ້ນຈະເປັນດີຫຼາຍ, ແມ່ນບໍ? ໄປ, ແຈກ. ບອກລາວວ່າຈະເກີດຫຍັງຂຶ້ນ.
+
+749
+00:49:01,400 --> 00:49:03,400
+[WILLIE]
+Go on, tell him.
+ໄປ, ບອກລາວ.
+
+750
+00:49:03,900 --> 00:49:06,350
+[HALE]
+You're trying to bribe me, aren't you?
+ເຈົ້າ ກໍາ ລັງພະຍາຍາມສໍ້ໂກງຂ້ອຍ, ແມ່ນບໍ?
+
+751
+00:49:06,850 --> 00:49:12,850
+[WILLIE]
+No, no. No, I'm not trying to bribe you. I'm... I'm only talking things over with you, that's all.
+ບໍ່, ບໍ່. ບໍ່, ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມສໍ້ໂກງເຈົ້າ. ຂ້ອຍແມ່ນ...
+ຂ້ອຍພຽງແຕ່ເວົ້າເລື່ອງກັບເຈົ້າເທົ່ານັ້ນ, ນັ້ນແມ່ນທັງຫມົດ.
+
+752
+00:49:13,350 --> 00:49:19,350
+[HALE]
+You're pretty good at talking. I remember when you first started talking. A place called Upton. You did a lot of talking then and the things you said made sense, to me and a lot of other people. I believed in you... I followed you... and I fought for you. Well, the words are still good. But you're not.  And I don't believe you ever were.
+ເຈົ້າດີຫຼາຍໃນການເວົ້າ. ຂ້ອຍຈື່ເມື່ອເຈົ້າເລີ່ມຕົ້ນເວົ້າຄັ້ງ ທໍາ ອິດ. ສະຖານທີ່ທີ່ເອີ້ນວ່າ Upton. ເຈົ້າເວົ້າຫຼາຍໃນເວລານັ້ນແລະສິ່ງທີ່ທ່ານເວົ້າມີຄວາມ ຫມາຍ, ສໍາ
+ລັບຂ້ອຍແລະຄົນອື່ນຫຼາຍຄົນ. ຂ້ອຍເຊື່ອໃນເຈົ້າ... ຂ້ອຍຕິດຕາມເຈົ້າ... ແລະຂ້ອຍຕໍ່ສູ້ ສໍາ ລັບເຈົ້າ. ດີ, ຄໍາ ເວົ້າຍັງດີ. ແຕ່ເຈົ້າບໍ່ແມ່ນ. ແລະຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າເຄີຍເປັນ.
+
+753
+00:49:19,850 --> 00:49:21,950
+[WILLIE]
+Sugar, follow him. Keep calling in.
+ແຊກເກີ, ຕິດຕາມລາວ. ສືບຕໍ່ໂທຫາ.
+
+754
+00:49:22,450 --> 00:49:24,450
+[WILLIE]
+Lucy!... Lucy!
+ລູຊີ!... ລູຊິ!
+
+755
+00:49:24,950 --> 00:49:30,950
+[JACK]
+I'd like Anne to see you now. I'd like Anne to see you now, you drunken sot!  Come on.
+ຂ້ອຍຢາກໃຫ້ແອນນ໌ເຫັນເຈົ້າດຽວນີ້.
+ຂ້ອຍຢາກໃຫ້ນານ໌ເຫັນເຈົ້ານີ້ດຽວນີ້, ເຈົ້າໂຊຕ໌ທີ່ດື່ມ! ມາ.
+
+756
+00:49:31,450 --> 00:49:34,600
+[NEWSPAPER]
+Photograph of Helene Hale on front page. Headline reads:
+ຮູບຂອງເຮເລນ ເຮລ ໃນຫນ້າທໍາອິດ. ຫົວຂໍ້ອ່ານວ່າ:
+
+757
+00:49:35,100 --> 00:49:37,550
+[GIRL CRASH VICTIM DIES]
+Under the photograph there is a caption:
+ຢູ່ພາຍໃຕ້ຮູບມີຄໍາຂຽນວ່າ:
+
+758
+00:49:38,050 --> 00:49:42,250
+[NEWSMEN]
+What about the girl's father, Governor? Have you a statement to make?
+ພໍ່ຂອງເດັກຍິງແນວໃດ, ຜູ້ປົກຄອງ? ເຈົ້າມີຖະແຫຼງການທີ່ຈະເຮັດບໍ?
+
+759
+00:49:42,750 --> 00:49:48,750
+[WILLIE]
+All right, all right, gentlemen. I'll give you a statement. This whole thing is a mess of lies. It's a frame. The man that made that statement... have him repeat it to my face. He can't. He vanished. Let me ask you some questions. Where has he gone? Where is he?
+ດີ, ດີ, ພວກເຈົ້າ. ຂ້ອຍຈະໃຫ້ ຄໍາ ຖະແຫຼງໃຫ້ເຈົ້າ. ເລື່ອງທັງ ຫມົດ ນີ້ແມ່ນຄວາມສັບສົນຂອງຕົວະ. ມັນແມ່ນກອບ. ຜູ້ຊາຍທີ່ໄດ້ອອກຄໍາຖະແຫຼງນັ້ນ
+... ໃຫ້ລາວຊໍ້າມັນຕໍ່ໃບຫນ້າຂອງຂ້ອຍ. ລາວບໍ່ສາມາດ. ລາວຫາຍໄປ. ຂໍໃຫ້ຂ້ອຍຖາມເຈົ້າບາງ ຄໍາ ຖາມ. ລາວໄປໃສ? ລາວຢູ່ໃສ?
+
+760
+00:49:49,250 --> 00:49:52,050
+[REPORTER]
+Maybe you could answer those questions too, Governor.
+ບາງທີເຈົ້າສາມາດຕອບ ຄໍາ ຖາມເຫລົ່ານັ້ນໄດ້ເຊັ່ນກັນ, ຜູ້ປົກຄອງ.
+
+761
+00:49:52,550 --> 00:49:55,350
+[WILLIE]
+I won't dignify that question with an answer.
+ຂ້ອຍຈະບໍ່ຍ້ອງຍໍ ຄໍາ ຖາມນັ້ນດ້ວຍ ຄໍາ ຕອບ.
+
+762
+00:49:55,850 --> 00:49:58,300
+[ANOTHER REPORTER]
+One more question, Governor... Where's your son?
+ຄໍາຖາມອີກຫນຶ່ງ, ຜູ້ປົກຄອງ... ລູກຊາຍຂອງທ່ານຢູ່ໃສ?
+
+763
+00:49:58,800 --> 00:50:04,800
+[WILLIE]
+At the football stadium, where he's supposed to be. He's going to play for State University, which this administration is responsible for. He's not hiding from anybody, gentlemen. He'll be out there in full view of seventy thousand cheering fans.  One of which will be me. See you, men.
+ຢູ່ສະໂມສອນບານເຕະ, ບ່ອນທີ່ລາວຄວນຢູ່. ລາວຈະຫຼິ້ນ ສໍາ ລັບມະຫາວິທະຍາໄລລັດ, ເຊິ່ງການບໍລິຫານນີ້ເປັນຜູ້ຮັບຜິດຊອບ. ລາວບໍ່ໄດ້ເຊື່ອງຈາກໃຜ
+, ພວກທ່ານ. ລາວຈະເປັນຢູ່ພາຍນອກນັ້ນໃນສາຍຕາເຕັມຂອງແຟນບານທີ່ຊົມເຊີຍສິບພັນຄົນ. ຫນຶ່ງ ໃນນັ້ນຈະເປັນຂ້ອຍ. ພົບກັນກັນ, ຜູ້ຊາຍ.
+
+764
+00:50:05,300 --> 00:50:09,500
+[CROWD VOICES]
+Where's Stark? How about Tommy Stark? Hey, Willie, send your boy in.
+ສຕາກຢູ່ໃສ? ໂຕມມີສຕາກແນວໃດ? ເຮ້, ວີລີ, ສົ່ງລູກຊາຍຂອງທ່ານເຂົ້າມາ.
+
+765
+00:50:10,000 --> 00:50:12,100
+[WILLIE]
+Why don't they put him in!
+ເປັນຫຍັງພວກເຂົາຈຶ່ງບໍ່ເອົາລາວໄວ້!
+
+766
+00:50:12,600 --> 00:50:15,050
+[MAN]
+Come on, Willie... send your boy in.
+ມາແລ້ວ, ວີລີ... ສົ່ງລູກຊາຍຂອງທ່ານເຂົ້າມາ.
+
+767
+00:50:15,550 --> 00:50:20,100
+[DRUNK]
+What's the matter, Willie... is your little boy ashamed to show his face?
+ມີຫຍັງເກີດຂຶ້ນ, ວີລີ...
+ລູກຊາຍນ້ອຍຂອງທ່ານໂຊກຮ້າຍທີ່ຈະສະແດງໃບຫນ້າຂອງລາວບໍ?
+
+768
+00:50:20,600 --> 00:50:22,600
+[DUFFY]
+Shut up!
+ປິດງຽບ!
+
+769
+00:50:23,100 --> 00:50:27,650
+[WILLIE]
+Get that man out of here! Come on, get him out of here.
+ເອົາຜູ້ຊາຍຄົນນັ້ນອອກຈາກບ່ອນນີ້! ມາແລ້ວ, ເອົາລາວອອກຈາກບ່ອນນີ້.
+
+770
+00:50:28,150 --> 00:50:30,150
+[WILLIE]
+They're booing you.
+ພວກເຂົາ ກໍາ ລັງໂຊກຮ້າຍເຈົ້າ.
+
+771
+00:50:30,650 --> 00:50:32,750
+[TOM]
+Ever since the accident, my head...
+ນັບຕັ້ງແຕ່ອຸບັດຕິເຫດ, ຫົວຂອງຂ້ອຍ...
+
+772
+00:50:33,250 --> 00:50:35,350
+[WILLIE]
+The doctor said it was nothing.
+ດອກຕໍເວົ້າວ່າ ມັນບໍ່ມີຫຍັງເລີຍ.
+
+773
+00:50:35,850 --> 00:50:37,850
+[TOM]
+Get dizzy... can't see... dizzy...
+ເຮັດໃຫ້ຫົວສັ່ນສະເທືອນ... ບໍ່ເຫັນໄດ້... ຫົວສັ່ນ...
+
+774
+00:50:38,350 --> 00:50:40,350
+[WILLIE]
+You're scared... plain scared.
+ເຈົ້າຢ້ານ... ຢ້ານແທ້ໆ.
+
+775
+00:50:40,850 --> 00:50:42,850
+[TOM]
+Get out of here!
+ອອກຈາກບ່ອນນີ້!
+
+776
+00:50:43,350 --> 00:50:49,350
+[WILLIE]
+Atta boy... get mad. Show some spirit. Jack, tell him what his playing means. Go on, tell him.
+ເດັກນ້ອຍແອດຕາ... ໂຊກຮ້າຍ. ສະແດງຈິດໃຈບາງຢ່າງ. ແຈກ,
+ບອກລາວວ່າການຫຼິ້ນຂອງລາວ ຫມາຍ ຄວາມວ່າແນວໃດ. ໄປ, ບອກລາ.
+
+777
+00:50:49,850 --> 00:50:54,050
+[JACK]
+You can never tell about a head injury. Maybe the boy's hurt.
+ເຈົ້າບໍ່ສາມາດບອກກ່ຽວກັບການບາດເຈັບຫົວໄດ້ເລີຍ. ບາງທີເດັກຊາຍເຈັບປວດ.
+
+778
+00:50:54,550 --> 00:51:00,550
+[WILLIE]
+He's hurt? I'm hurt. It wasn't me that wrapped that car around the tree. It wasn't me that got drunk. But me, I'm takin' the rap.  Go on, kid. Get out there and play. Show 'em the kind of stuff a Stark is made of.
+ລາວບາດເຈັບບໍ? ຂ້ອຍເຈັບປວດ. ມັນບໍ່ແມ່ນຂ້ອຍທີ່ຫຸ້ມຫໍ່ລົດນັ້ນຢູ່ອ້ອມຕົ້ນໄມ້. ບໍ່ແມ່ນຂ້ອຍທີ່ດື່ມເຫຼົ້າ. ແຕ່ຂ້ອຍ, ຂ້ອຍ
+ກໍາ ລັງຮັບຜິດຊອບ. ໄປຕໍ່ໄປ, ເດັກນ້ອຍ. ອອກໄປບ່ອນນັ້ນແລະຫຼິ້ນ. ສະແດງໃຫ້ພວກເຂົາເຫັນສິ່ງຂອງປະເພດໃດທີ່ສຕາກຖືກເຮັດດ້ວຍ.
+
+779
+00:51:01,050 --> 00:51:03,050
+[TOM]
+I wouldn't know.
+ຂ້ອຍບໍ່ຮູ້ເລີຍ.
+
+780
+00:51:03,550 --> 00:51:05,550
+[JACK]
+Tom... cut it out!
+ໂຕມ... ຢຸດມັນອອກ!
+
+781
+00:51:06,050 --> 00:51:09,200
+[TOM]
+All right, I'll play. Now get out of here.
+ດີແລ້ວ, ຂ້ອຍຈະຫຼິ້ນ. ດຽວນີ້ອອກຈາກບ່ອນນີ້.
+
+782
+00:51:09,700 --> 00:51:11,700
+[P.A. ANNOUNCER]
+Stark's going in!
+ສຕາກ ກໍາ ລັງເຂົ້າມາ!
+
+783
+00:51:12,200 --> 00:51:14,200
+[LUCY]
+Tommy... Tommy... Tommy!
+ທອມມີ... ໂຕມມີ...ໂຕມມີ!
+
+784
+00:51:14,700 --> 00:51:17,150
+[SUGAR BOY]
+B-b-boss, you gotta eat. You g-g- gotta.
+ເຈົ້າຫນ້າທີ່, ເຈົ້າຕ້ອງກິນ. ເຈົ້າ g-g- ຕ້ອງກິນ.
+
+785
+00:51:17,650 --> 00:51:21,500
+[WILLIE]
+I'm the one that made him play. I sent him in.
+ຂ້ອຍເປັນຄົນທີ່ເຮັດໃຫ້ລາວຫຼິ້ນ. ຂ້ອຍສົ່ງລາວເຂົ້າມາ.
+
+786
+00:51:22,000 --> 00:51:24,100
+[LUCY]
+Sit down, Willie. Please sit down.
+ນັ່ງລົງ, ວີລີ. ກະລຸນານັ່ງລົງ.
+
+787
+00:51:24,600 --> 00:51:26,600
+[WILLIE]
+I sent him in.
+ຂ້ອຍສົ່ງລາວເຂົ້າມາ.
+
+788
+00:51:27,100 --> 00:51:29,200
+[LUCY]
+What difference does that make now?
+ມັນມີຄວາມແຕກຕ່າງຫຍັງດຽວນີ້?
+
+789
+00:51:29,700 --> 00:51:31,700
+[WILLIE]
+What goes on?
+ເກີດຫຍັງຂຶ້ນ?
+
+790
+00:51:32,200 --> 00:51:34,200
+[JACK]
+There isn't a plane flying.
+ບໍ່ມີເຮືອບິນບິນ.
+
+791
+00:51:34,700 --> 00:51:38,550
+[WILLIE]
+They gotta fly. This is my son. He's got to live.
+ພວກເຂົາຕ້ອງບິນ. ນີ້ແມ່ນລູກຊາຍຂອງຂ້ອຍ. ລາວຕ້ອງຢູ່ອາໄສ.
+
+792
+00:51:39,050 --> 00:51:45,050
+[STANTON]
+I just got a call from Dr. Birnham. The earliest he can possibly get here will be tomorrow morning.
+ຂ້ອຍຫາກໍ່ໄດ້ຮັບໂທລະສັບຈາກດຣ ບີຣນແມ.
+ຕອນເຊົ້າທີ່ສຸດທີ່ລາວສາມາດມາຮອດບ່ອນນີ້ຈະເປັນຕອນເຊົ້າມື້ອື່ນ.
+
+793
+00:51:45,550 --> 00:51:48,000
+[WILLIE]
+Isn't there anybody else we can get?
+ບໍ່ມີໃຜອີກຄົນໃດທີ່ພວກເຮົາສາມາດເອົາໄດ້ບໍ?
+
+794
+00:51:48,500 --> 00:51:50,950
+[JACK]
+I still think Dr. Stanton should operate.
+ຂ້ອຍຍັງຄິດວ່າ ດຣ ສຕັນຕັນຄວນຜ່າຕັດ.
+
+795
+00:51:51,450 --> 00:51:56,700
+[STANTON]
+That's up to Governor Stark. He wanted another doctor... a specialist. I sent for one.
+ນັ້ນແມ່ນຂຶ້ນກັບຜູ້ປົກຄອງສຕາກ. ລາວຕ້ອງການຫມໍຄົນອື່ນ
+... ຜູ້ຊ່ຽວຊານ. ຂ້ອຍສົ່ງຄົນຫນຶ່ງ.
+
+796
+00:51:57,200 --> 00:51:59,300
+[WILLIE]
+How bad is it really, doctor?
+ມັນຮ້າຍແຮງປານໃດແທ້ໆ, ດອກຕໍ?
+
+797
+00:51:59,800 --> 00:52:01,800
+[STANTON]
+He's unconscious... and paralyzed.
+ລາວບໍ່ມີສະຕິ... ແລະໂຊກຮ້າຍ.
+
+798
+00:52:02,300 --> 00:52:04,300
+[WILLIE]
+Has he got a chance?
+ລາວມີໂອກາດບໍ?
+
+799
+00:52:04,800 --> 00:52:06,800
+[STANTON]
+To live? Yes.
+ເພື່ອດໍາລົງຊີວິດບໍ? ແມ່ນແລ້ວ.
+
+800
+00:52:07,300 --> 00:52:09,300
+[WILLIE]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+801
+00:52:09,800 --> 00:52:15,800
+[STANTON]
+Even if the operation's successful -- that is, if he lives -- I think he'll be paralyzed for life.
+ເຖິງແມ່ນວ່າການປະຕິບັດງານຈະປະສົບຜົນສໍາເລັດ - ນັ້ນແມ່ນ,
+ຖ້າລາວມີຊີວິດຢູ່ - ຂ້ອຍຄິດວ່າລາວຈະໂຊກຮ້າຍຕະຫຼອດຊີວິດ.
+
+802
+00:52:16,300 --> 00:52:22,300
+[WILLIE]
+You'll do everything you can, won't you? Anything between you and me.. that won't count, will it? It doesn't have to. Look, doc, anything you want in the world you just ask for it and you got it. Go on, doc... ask for it.
+ເຈົ້າຈະເຮັດທຸກຢ່າງທີ່ເຈົ້າສາມາດເຮັດໄດ້, ແມ່ນບໍ? ທຸກສິ່ງທຸກຢ່າງລະຫວ່າງເຈົ້າແລະຂ້ອຍ.. ມັນຈະບໍ່ຄິດຄ່າ, ແມ່ນບໍ່?
+ມັນບໍ່ຈໍາເປັນຕ້ອງເຮັດ. ເບິ່ງ, ດອກຕໍ, ສິ່ງທຸກຢ່າງທີ່ທ່ານຕ້ອງການໃນໂລກທ່ານພຽງແຕ່ຂໍມັນແລະເຈົ້າໄດ້ຮັບມັນ. ໄປ, ດູຕໍ... ຂໍມັນ.
+
+803
+00:52:22,800 --> 00:52:28,800
+[STANTON]
+There are some things, Governor Stark, that even you can't buy. Do you want me to operate, or don't you?
+ມີບາງສິ່ງບາງຢ່າງ, ຜູ້ປົກຄອງສຕາກ, ທີ່ເຖິງແມ່ນວ່າເຈົ້າບໍ່ສາມາດຊື້ໄດ້
+. ເຈົ້າຢາກໃຫ້ຂ້ອຍ ດໍາ ເນີນງານບໍ, ຫຼືເຈົ້າບໍ່?
+
+804
+00:52:29,300 --> 00:52:33,500
+[LUCY]
+Yes... I want you to operate.  Please, may I see Tom now?
+ແມ່ນແລ້ວ... ຂ້ອຍຢາກໃຫ້ເຈົ້າປະຕິບັດງານ
+. ກະລຸນາ, ຂ້ອຍສາມາດເຫັນໂຕມໄດ້ບໍ?
+
+805
+00:52:34,000 --> 00:52:36,000
+[STANTON]
+Yes.
+ແມ່ນແລ້ວ.
+
+806
+00:52:36,500 --> 00:52:38,600
+[WILLIE]
+How much does the doc know?
+ດອກຕໍຮູ້ຫຼາຍປານໃດ?
+
+807
+00:52:39,100 --> 00:52:41,100
+[JACK]
+About what?
+ກ່ຽວກັບຫຍັງ?
+
+808
+00:52:41,600 --> 00:52:44,050
+[WILLIE]
+Oh, you know what I'm talking about.
+ໂອ້, ເຈົ້າຮູ້ວ່າຂ້ອຍເວົ້າຫຍັງ.
+
+809
+00:52:44,550 --> 00:52:46,550
+[JACK]
+About what?
+ກ່ຽວກັບຫຍັງ?
+
+810
+00:52:47,050 --> 00:52:49,050
+[WILLIE]
+About Anne and me.
+ກ່ຽວກັບແອນ ແລະ ຂ້ອຍ.
+
+811
+00:52:49,550 --> 00:52:52,350
+[JACK]
+He doesn't know a thing... not a thing.
+ລາວບໍ່ຮູ້ຫຍັງເລີຍ... ບໍ່ມີຫຍັງເລີຍ.
+
+812
+00:52:52,850 --> 00:52:54,850
+[ANNE]
+Jack, how is he?
+ແຈກ, ລາວເປັນແນວໃດ?
+
+813
+00:52:55,350 --> 00:52:57,350
+[JACK]
+The boy?
+ເດັກຊາຍບໍ?
+
+814
+00:52:57,850 --> 00:52:59,850
+[ANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+815
+00:53:00,350 --> 00:53:02,350
+[JACK]
+He'll live.
+ລາວຈະຢູ່ອາໄສ.
+
+816
+00:53:02,850 --> 00:53:04,950
+[ANNE]
+Oh, thank God. How is --
+ໂອ້, ຂອບໃຈພຣະເຈົ້າ. ເປັນແນວໃດ -
+
+817
+00:53:05,450 --> 00:53:07,450
+[JACK]
+Willie?
+ວີລີ?
+
+818
+00:53:07,950 --> 00:53:09,950
+[ANNE]
+He blames himself, doesn't he?
+ລາວກ່າວໂທດຕົວເອງ, ແມ່ນບໍ?
+
+819
+00:53:10,450 --> 00:53:13,950
+[JACK]
+He'll find someone else to blame in a few days.
+ລາວຈະຊອກຫາຄົນອື່ນທີ່ຈະກ່າວໂທດໃນສອງສາມມື້.
+
+820
+00:53:14,450 --> 00:53:18,650
+[ANNE]
+Oh, I tried to call here at the hospital, but I just...
+ໂອ້, ຂ້ອຍພະຍາຍາມໂທຫາທີ່ນີ້ຢູ່ໂຮງຫມໍ, ແຕ່ຂ້ອຍພຽງແຕ່...
+
+821
+00:53:19,150 --> 00:53:21,600
+[JACK]
+Anne... Anne, why did you do it?
+ແອນ... ແອນ, ເຈົ້າເຮັດມັນເປັນຫຍັງ?
+
+822
+00:53:22,100 --> 00:53:24,900
+[ANNE]
+He wasn't like anybody I ever knew before.
+ລາວບໍ່ເຫມືອນໃຜທີ່ຂ້ອຍເຄີຍຮູ້ຈັກກ່ອນ.
+
+823
+00:53:25,400 --> 00:53:27,500
+[JACK]
+You mean he wasn't like me.
+ເຈົ້າຫມາຍຄວາມວ່າລາວບໍ່ແມ່ນຄືກັບຂ້ອຍ.
+
+824
+00:53:28,000 --> 00:53:34,000
+[ANNE]
+He wasn't like anybody I ever knew before. I love him, I guess. I guess that's the reason.
+ລາວບໍ່ແມ່ນຄືກັບໃຜທີ່ຂ້ອຍເຄີຍຮູ້ຈັກກ່ອນ.
+ຂ້ອຍຮັກລາວ, ຂ້ອຍຄິດວ່າ. ຂ້ອຍຄິດວ່ານັ້ນແມ່ນເຫດຜົນ.
+
+825
+00:53:34,500 --> 00:53:36,500
+[JACK]
+Everybody loves him.
+ທຸກຄົນຮັກລາວ.
+
+826
+00:53:37,000 --> 00:53:39,000
+[ANNE]
+He wants to marry me.
+ລາວຢາກແຕ່ງງານຂ້ອຍ.
+
+827
+00:53:39,500 --> 00:53:41,500
+[JACK]
+Are you going to?
+ເຈົ້າຈະເຮັດບໍ?
+
+828
+00:53:42,000 --> 00:53:46,200
+[ANNE]
+Not now. It would hurt him. A divorce would hurt his career.
+ບໍ່ແມ່ນດຽວນີ້. ມັນຈະເຮັດໃຫ້ລາວເຈັບປວດ.
+ການແຍກກັນຈະເຮັດໃຫ້ອາຊີບຂອງລາວເຈັບປ່ວຍ.
+
+829
+00:53:46,700 --> 00:53:48,700
+[JACK]
+His career!
+ອາຊີບຂອງລາວ!
+
+830
+00:53:49,200 --> 00:53:55,200
+[ANNE]
+Jack... Jack, what are you going to do? You can't leave him now. He needs you now more than he ever did before.
+ແຈັກ... ແຈັກ, ເຈົ້າຈະເຮັດຫຍັງ? ເຈົ້າບໍ່ສາມາດປ່ອຍລາວໄດ້ດຽວນີ້
+. ລາວຕ້ອງການເຈົ້າດຽວນີ້ຫຼາຍກ່ວາທີ່ລາວເຄີຍເຮັດກ່ອນ.
+
+831
+00:53:55,700 --> 00:53:57,700
+[JACK]
+What Willie needs, Willie's got.
+ສິ່ງທີ່ວີລີຕ້ອງການ, ວີລີມີ.
+
+832
+00:53:58,200 --> 00:54:04,200
+[ANNE]
+You don't know him. You've known him all these years and you don't really know him at all.
+ເຈົ້າບໍ່ຮູ້ຈັກລາວ.
+ເຈົ້າຮູ້ຈັກລາວຕະຫຼອດປີນີ້ແລະເຈົ້າບໍ່ຮູ້ລາວແທ້ໆເລີຍ.
+
+833
+00:54:04,700 --> 00:54:06,700
+[JACK]
+What about Adam?
+ແອນດາມແນວໃດ?
+
+834
+00:54:07,200 --> 00:54:09,200
+[ANNE]
+Adam?
+ແອັດມາມ?
+
+835
+00:54:09,700 --> 00:54:15,700
+[JACK]
+Well, you don't have to worry about him. If Adam finds out it'll be easy to prove a Stanton is no different than anybody else.  Just show him these. Willie was right... a man is conceived in sin and born in corruption. Even Judge Stanton. Show them to him, Anne. Change the picture of the world that Adam has in his head, just like our picture of it has been changed.
+ດີ, ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງກັງວົນກ່ຽວກັບລາວ. ຖ້າແອັດມິນຮູ້ວ່າມັນຈະງ່າຍທີ່ຈະພິສູດວ່າແສຕັນຕັນບໍ່ແຕກຕ່າງຈາກຄົນອື່ນ. ພຽງແຕ່ສະແດງສິ່ງເຫຼົ່ານີ້ໃຫ້ລາວ. ວີລີຖືກຕ້ອງ...
+ຜູ້ຊາຍຖືກຖືພາໃນຄວາມບາບແລະເກີດໃນການສໍ້ລາດບັງຫຼວງ. ເຖິງແມ່ນວ່າຜູ້ພິພາກສາແຊນຕັນ. ສະແດງໃຫ້ພວກເຂົາໃຫ້ລາວ, ແອນ. ປ່ຽນຮູບພາບຂອງໂລກທີ່ແອດມິນມີໃນຫົວຂອງລາວ, ຄືກັບຮູບພາບຂອງພວກເຮົາຂອງມັນໄດ້ຖືກປ່ຽນແປງ.
+
+836
+00:54:16,200 --> 00:54:22,200
+[JACK]
+Wipe out everything he's ever believed in. It'll be good for him. There's no God but Willie Stark. I'm his prophet and you're his...  Oh, Anne... Anne, I'm sorry. I didn't mean... Anne!
+ລ້າງທຸກຢ່າງທີ່ລາວເຄີຍເຊື່ອໄວ້. ມັນຈະດີ ສໍາ ລັບລາວ. ບໍ່ມີພຣະເຈົ້ານອກຈາກວີລີ ສຕາກ.
+ຂ້ອຍເປັນສາດສະດາຂອງລາວແລະເຈົ້າເປັນຂອງລາວ... ໂອ້, ແອນ... ແອນ, ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າ...ແອນ!
+
+837
+00:54:22,700 --> 00:54:24,700
+[POLICEMAN]
+What's going on here?
+ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+838
+00:54:25,200 --> 00:54:28,700
+[JACK]
+It's all right, officer... we both work for Willie Stark.
+ມັນບໍ່ເປັນຫຍັງ, ເຈົ້າຫນ້າທີ່...
+ພວກເຮົາທັງສອງເຮັດວຽກ ສໍາ ລັບວີລີ ສຕາກ.
+
+839
+00:54:29,200 --> 00:54:35,200
+[WILLIE]
+Right over there, that's going to be the main building... fifteen stories high, like on the model. Over there, that's the laboratory. Finest technical equipment in the world.
+ຢູ່ບ່ອນນັ້ນ, ນັ້ນຈະເປັນອາຄານຕົ້ນຕໍ... ສູງສິບຫ້າຊັ້ນ, ຄືກັບໃນແບບຈໍາລອງ
+. ຢູ່ບ່ອນ ນັ້ນ, ນັ້ນແມ່ນຫ້ອງທົດລອງ. ອຸປະກອນເຕັກນິກທີ່ດີທີ່ສຸດໃນໂລກ.
+
+840
+00:54:35,700 --> 00:54:39,900
+[STANTON]
+What are you trying to convince me of? I've taken the job.
+ເຈົ້າ ກໍາ ລັງພະຍາຍາມຊັກຊວນຂ້ອຍວ່າຫຍັງ? ຂ້ອຍໄດ້ຮັບວຽກແລ້ວ.
+
+841
+00:54:40,400 --> 00:54:42,400
+[WILLIE]
+Why?
+ເປັນຫຍັງ?
+
+842
+00:54:42,900 --> 00:54:46,750
+[STANTON]
+My reasons are my own. Why are you building a hospital?
+ເຫດຜົນຂອງຂ້ອຍແມ່ນຂອງຂ້ອຍເອງ. ເຈົ້າ ກໍາ ລັງສ້າງໂຮງຫມໍເປັນຫຍັງ?
+
+843
+00:54:47,250 --> 00:54:50,750
+[WILLIE]
+To do some good for the people of the state.
+ເພື່ອເຮັດສິ່ງທີ່ດີບາງຢ່າງ ສໍາ ລັບປະຊາຊົນຂອງລັດ.
+
+844
+00:54:51,250 --> 00:54:53,250
+[STANTON]
+And get some votes.
+ແລະເອົາຄະແນນສຽງບາງຢ່າງ.
+
+845
+00:54:53,750 --> 00:54:56,900
+[WILLIE]
+Oh, there are lots of ways to get votes.
+ໂອ້, ມີຫຼາຍວິທີທີ່ຈະໄດ້ຮັບຄະແນນສຽງ.
+
+846
+00:54:57,400 --> 00:55:00,550
+[STANTON]
+Yes, I know... I won't stand for any interference.
+ແມ່ນແລ້ວ, ຂ້ອຍຮູ້... ຂ້ອຍຈະບໍ່ຍອມຮັບການແຊກແຊງໃດໆ.
+
+847
+00:55:01,050 --> 00:55:04,900
+[WILLIE]
+I won't interfere. I may fire you, but I won't interfere.
+ຂ້ອຍຈະບໍ່ແຊກແຊງ. ຂ້ອຍອາດຈະໄລ່ເຈົ້າອອກ, ແຕ່ຂ້ອຍຈະບໍ່ແບ່ງແຍກ.
+
+848
+00:55:05,400 --> 00:55:11,000
+[STANTON]
+If that's a threat, you're wasting your time. You know what I think of your administration.
+ຖ້າມັນເປັນໄພຂົ່ມຂູ່, ເຈົ້າ ກໍາ ລັງເສຍເວລາຂອງທ່ານ.
+ເຈົ້າຮູ້ວ່າຂ້ອຍຄິດແນວໃດກ່ຽວກັບການບໍລິຫານຂອງທ່ານ.
+
+849
+00:55:11,500 --> 00:55:17,500
+[WILLIE]
+Yes, I know. I'll tell you what... You stay on your side of the fence; I'll stay on mine. Is that a deal?
+ແມ່ນແລ້ວ, ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍຈະບອກເຈົ້າວ່າຫຍັງ...
+ເຈົ້າຢູ່ຂ້າງຂອງເຈົ້າຂອງແຄບ; ຂ້ອຍຈະຢູ່ຂ້າງຂອງຂ້ອຍ. ນັ້ນແມ່ນຂໍ້ຕົກລົງບໍ?
+
+850
+00:55:18,000 --> 00:55:23,250
+[JACK]
+Now he had us all... me, Anne, and Adam. Now we all worked for him.
+ດຽວນີ້ລາວມີພວກເຮົາທຸກຄົນ... ຂ້ອຍ, ແອນ, ແລະອາດາມ
+. ດຽວນີ້ພວກເຮົາທຸກຄົນເຮັດວຽກ ສໍາ ລັບລາວ.
+
+851
+00:55:23,750 --> 00:55:29,750
+[NARRATOR'S VOICE]
+And so the eyes of the entire nation are now focused upon Governor Willie Stark, an amazing phenomenon on the American political scene. The whole state is filled with his accomplishments -- each of them, of course, bearing his personal signature, to make sure that no one will ever forget who gave them to the state.
+ແລະດັ່ງນັ້ນຕາຂອງປະເທດທັງ ຫມົດ ດຽວນີ້ຖືກສຸມໃສ່ຜູ້ປົກຄອງວີລີ ສຕາກ, ເປັນປະກົດການທີ່ແປກໃຈໃນເວທີການເມືອງອາເມລິກາ. ລັດທັງ ຫມົດ
+ເຕັມໄປດ້ວຍຜົນສໍາເລັດຂອງລາວ - ແຕ່ລະຄົນຂອງພວກເຂົາ, ແນ່ນອນ, ຖືລາຍເຊັນສ່ວນຕົວຂອງລາວ, ເພື່ອແນ່ໃຈວ່າບໍ່ມີໃຜຈະລືມຜູ້ທີ່ໃຫ້ພວກມັນໃຫ້ລັດ.
+
+852
+00:55:30,250 --> 00:55:36,250
+[MONTAGE: THE NEWSREEL]
+Large plaque on side of the highway: THIS BRIDGE WAS BUILT DURING THE FIRST ADMINISTRATION OF GOVERNOR STARK. A TOLL BRIDGE STOOD HERE FOR FIFTY YEARS... NOW THE PEOPLE TRAVEL
+ປ້າຍໃຫຍ່ຢູ່ຂ້າງທາງດ່ວນ: ຂົວນີ້ຖືກສ້າງຂຶ້ນໃນລະຫວ່າງການບໍລິຫານຄັ້ງ ທໍາ
+ອິດຂອງຜູ້ປົກຄອງສຕາກ. ຂົວພາສີຢືນຢູ່ບ່ອນນີ້ເປັນເວລາຫ້າສິບປີ... ດຽວນີ້ປະຊາຊົນເດີນທາງ
+
+853
+00:55:36,750 --> 00:55:39,200
+[FREE]
+Camera pans to shot of the bridge.
+ກ້ອງຖ່າຍຮູບຈະຖ່າຍຈາກຂົວ.
+
+854
+00:55:39,700 --> 00:55:45,700
+[WILLIE STARK]
+Shot of library -- lettering reads WILLIE STARK LIBRARY. KNOWLEDGE BELONGS TO THE PEOPLE Shot of bad road running through dry, barren land.
+ການຖ່າຍຮູບຂອງຫ້ອງສະຫມຸດ - ຕົວອັກສອນອ່ານ WILLIE STARK LIBRARY.
+ຄວາມຮູ້ຂຶ້ນກັບປະຊາຊົນການຖ່າຍພາບຂອງຖະຫນົນຫົນທາງທີ່ບໍ່ດີທີ່ແລ່ນຜ່ານດິນແຫ້ງ, ບໍ່ເຂັ້ມແຂງ.
+
+855
+00:55:46,200 --> 00:55:52,200
+[NARRATOR'S VOICE]
+This is the way the roads used to be. But there are those who claim that they were adequate for the people's needs, that you don't need a four- or six-lane highway for a horse and buggy.
+ນີ້ແມ່ນວິທີທີ່ຖະຫນົນຫົນທາງເຄີຍເປັນ. ແຕ່ມີຜູ້ທີ່ອ້າງວ່າພວກມັນພຽງພໍ ສໍາ
+ລັບຄວາມຕ້ອງການຂອງປະຊາຊົນ, ວ່າເຈົ້າບໍ່ຕ້ອງການທາງດ່ວນສີ່ຫຼືຫົກເສັ້ນທາງ ສໍາ ລັບມ້າແລະລົດຈັກ.
+
+856
+00:55:52,700 --> 00:55:58,700
+[NARRATOR'S VOICE]
+When Stark boasts of his great school system, his critics say: you can't go to school and work in the fields at the same time. And they question the benefit of these projects, charging that the need and the poverty of the people is as great as before.
+ເມື່ອສຕາກກຽດຊັງລະບົບໂຮງຮຽນທີ່ຍິ່ງໃຫຍ່ຂອງລາວ, ຜູ້ວິຈານຂອງລາວເວົ້າວ່າ: ເຈົ້າບໍ່ສາມາດໄປໂຮງຮຽນແລະເຮັດວຽກໃນສະ ຫນາມ ໃນເວລາດຽວກັນ
+. ແລະພວກເຂົາສົງໄສຜົນປະໂຫຍດຂອງໂຄງການເຫຼົ່ານີ້, ໂດຍກ່າວຫາວ່າຄວາມຕ້ອງການແລະຄວາມທຸກຍາກຂອງປະຊາຊົນແມ່ນໃຫຍ່ເທົ່າກັບກ່ອນ.
+
+857
+00:55:59,200 --> 00:56:04,450
+[NARRATOR'S VOICE]
+Willie Stark has never forgotten the source of his power: the people who supported him.
+ວີລີ ສຕາກບໍ່ເຄີຍລືມແຫຼ່ງຂອງພະລັງຂອງລາວເລີຍ
+: ປະຊາຊົນທີ່ສະຫນັບສະຫນູນລາວ.
+
+858
+00:56:04,950 --> 00:56:10,950
+[NARRATOR'S VOICE]
+He still keeps in touch with these people of the backwoods, making periodic trips to such places as Kanoma City, now famous as his birthplace...
+ລາວຍັງຕິດຕໍ່ພົວພັນກັບຄົນເຫຼົ່ານີ້ຈາກປ່າຫຼັງ, ການເດີນທາງເປັນເວລາບາງຄັ້ງໄປບ່ອນເຊັ່ນເມືອງ
+Kanoma, ດຽວນີ້ເປັນທີ່ຮູ້ຈັກເປັນບ່ອນເກີດຂອງລາວ...
+
+859
+00:56:11,450 --> 00:56:17,450
+[NARRATOR'S VOICE]
+For those who say that Willie Stark is a man of destiny, there are others who claim that he is a man of evil, a man who cares neither for the people nor the state, but only for his own personal power and ambition.
+ສໍາລັບຜູ້ທີ່ເວົ້າວ່າ ວີລີ ສຕາກເປັນຜູ້ຊາຍທີ່ມີຈຸດຫມາຍປາຍທາງ, ມີຄົນອື່ນທີ່ອ້າງວ່າລາວເປັນຜູ້ຊາຍຂອງຄວາມຮ້າຍແຮງ
+, ຜູ້ຊາຍທີ່ບໍ່ສົນໃຈປະຊາຊົນຫຼືລັດ, ແຕ່ພຽງແຕ່ສໍາລັບພະລັງແລະຄວາມຕັ້ງໃຈສ່ວນຕົວຂອງຕົນເອງເທົ່ານັ້ນ.
+
+860
+00:56:17,950 --> 00:56:23,950
+[NARRATOR'S VOICE]
+Obviously, these ambitions go far beyond the boundaries of the state. Just how far, only time will tell. Meanwhile, he is here...
+ແນ່ນອນວ່າຄວາມຕັ້ງໃຈເຫຼົ່ານີ້ເກີນຂອບເຂດຂອງລັດຫຼາຍ. ພຽງແຕ່ຈະບອກວ່າໄກປານໃດ
+, ພຽງແຕ່ເວລາເທົ່ານັ້ນ. ໃນຂະນະດຽວກັນ, ລາວຢູ່ບ່ອນນີ້...
+
+861
+00:56:24,450 --> 00:56:30,050
+[NARRATOR'S VOICE]
+...and from the looks of things, he is here to stay. Willie Stark: messiah or dictator?
+... ແລະຈາກການເບິ່ງຂອງສິ່ງຕ່າງໆ, ລາວຢູ່ບ່ອນນີ້ເພື່ອຢູ່
+. ວີລີ ສຕາກ: ເມສຊີຍຫຼືຜູ້ນໍາຜະເດັດການ?
+
+862
+00:56:30,550 --> 00:56:32,650
+[PRODUCER]
+How do you like it, Governor?
+ເຈົ້າມັກມັນແນວໃດ, ຜູ້ປົກຄອງ?
+
+863
+00:56:33,150 --> 00:56:35,600
+[WILLIE]
+How many theaters will this play in?
+ນີ້ຈະຫຼິ້ນໃນໂຮງລະຄອນຫຼາຍປານໃດ?
+
+864
+00:56:36,100 --> 00:56:38,100
+[PRODUCER]
+All over the country.
+ທົ່ວປະເທດ.
+
+865
+00:56:38,600 --> 00:56:41,050
+[WILLIE]
+Hear that, Jack. All over the country.
+ຟັງມັນແຈກ. ທົ່ວປະເທດ.
+
+866
+00:56:41,550 --> 00:56:46,800
+[WILLIE]
+Oh, there's one thing in there I didn't like too well. That messiah or dictator.
+ໂອ້, ມີສິ່ງຫນຶ່ງໃນນັ້ນທີ່ຂ້ອຍບໍ່ມັກຫຼາຍ
+. ເມຊີຍຫຼືຜູ້ນໍາຜະເດັດການນັ້ນ.
+
+867
+00:56:47,300 --> 00:56:51,500
+[PRODUCER]
+That's our point of view, Governor. And that's the way it stands.
+ນັ້ນແມ່ນທັດສະນະຂອງພວກເຮົາ, ຜູ້ປົກຄອງ. ແລະມັນຢືນຢູ່ແບບນັ້ນ.
+
+868
+00:56:52,000 --> 00:56:56,200
+[WILLIE]
+All right, all right, that's the way it stands... as of now.
+ດີ, ດີ, ນັ້ນແມ່ນວິທີທີ່ມັນຢືນຢູ່... ນັບຕັ້ງແຕ່ດຽວນີ້.
+
+869
+00:56:56,700 --> 00:57:00,900
+[WILLIE]
+Hello, Lucy... How are you making it, Pa?... How are you, Tom?
+ສະບາຍດີ, ລູຊີ... ເຈົ້າເຮັດແນວໃດ, ພໍ່?... ເຈົ້າເປັນແນວໃດ, ໂຕມ?
+
+870
+00:57:01,400 --> 00:57:04,900
+[LUCY]
+I made some refreshments for your friends. I'll get them.
+ຂ້ອຍເຮັດອາຫານຊົດເຊີຍ ສໍາ ລັບເພື່ອນຂອງທ່ານ. ຂ້ອຍຈະເອົາພວກມັນ.
+
+871
+00:57:05,400 --> 00:57:07,400
+[SADIE]
+I'll help.
+ຂ້ອຍຈະຊ່ວຍ.
+
+872
+00:57:07,900 --> 00:57:10,000
+[LUCY]
+No, thank you. Thank you kindly.
+ບໍ່, ຂອບໃຈ. ຂອບໃຈຢ່າງເປັນໃຈບຸນ.
+
+873
+00:57:10,500 --> 00:57:16,500
+[JACK]
+If you don't mind, Mrs. Stark... the boys have to get back to make the morning editions.  Set 'em up on the porch, fellows. We'll take some pictures out here, first.
+ຖ້າເຈົ້າບໍ່ສົນໃຈ, ທ່ານນາງສຕາກ... ເດັກຊາຍຕ້ອງກັບຄືນໄປບ່ອນເພື່ອເຮັດການພິມຕອນເຊົ້າ
+. ຈັດພວກມັນໄວ້ເທິງໂຕະ, ພວກຜູ້ຊາຍ. ພວກເຮົາຈະຖ່າຍຮູບບາງຢ່າງຢູ່ນີ້ກ່ອນ.
+
+874
+00:57:17,000 --> 00:57:23,000
+[JACK]
+Mrs. Stark, please... All right, fellows, take one down there, will you please... Shoot it up this way.
+ທ່ານນາງສຕາກ, ກະລຸນາ... ດີແລ້ວ, ພວກຜູ້ຊາຍ,
+ເອົາຫນຶ່ງຢູ່ບ່ອນນັ້ນ, ເຈົ້າຂໍຮ້ອງ... ຍິງມັນຂຶ້ນທາງນີ້.
+
+875
+00:57:23,500 --> 00:57:29,500
+[WILLIE]
+You're still a great cook, Lucy. Great cook.  Well, I guess I better be getting back to town. Nice to have spent the day with the family.  Goodbye, Lucy.  Tom.
+ເຈົ້າຍັງເປັນຜູ້ປຸງແຕ່ງອາຫານທີ່ດີເລີດ, ລູຊີ. ຜູ້ປຸງແຕ່ງງານທີ່ດີເລີນ. ດີ,
+ຂ້ອຍຄິດວ່າຂ້ອຍຄວນກັບຄືນໄປເມືອງ. ດີໃຈທີ່ໄດ້ໃຊ້ເວລາມື້ກັບຄອບຄົວ. ສະບາຍດີ, ລຸຊີ. ໂຕມ.
+
+876
+00:57:30,000 --> 00:57:32,000
+[TOM]
+Goodbye.
+ສະບາຍດີ.
+
+877
+00:57:32,500 --> 00:57:38,500
+[WILLIE]
+Take care of yourself, Pappy. Oh, uh... how do you like the new radio I got you?  You know how it works? You can get police calls on it. Come here, come here... I'll show you.
+ເບິ່ງແຍງຕົວເອງ, ພໍ່. ໂອ້, ອູ... ເຈົ້າມັກວິທະຍຸ ໃຫມ່ ທີ່ຂ້ອຍເອົາມາໃຫ້ເຈົ້າແນວໃດ? ເຈົ້າຮູ້ວ່າມັນເຮັດວຽກແນວໃດ
+? ທ່ານສາມາດໄດ້ຮັບໂທລະສັບຕໍາຫຼວດກ່ຽວກັບມັນ. ມາບ່ອນນີ້, ມາທີ່ນີ້... ຂ້ອຍຈະສະແດງໃຫ້ເຈົ້າ.
+
+878
+00:57:39,000 --> 00:57:41,450
+[WILLIE]
+This one for police calls up here.
+ນີ້ແມ່ນສໍາລັບຕໍາຫຼວດໂທຫາບ່ອນນີ້.
+
+879
+00:57:41,950 --> 00:57:46,850
+[POLICE BROADCAST]
+Car sixty-two, proceed to five- eighteen Oak Street. Tom Jones beating his wife again.
+ລົດສິບສອງ, ຍ້າຍໄປຫ້າສິບແປດຖະຫນົນ
+Oak. ໂຕມ ໂຈນສ໌ຕີເມຍຂອງລາວອີກຄັ້ງ.
+
+880
+00:57:47,350 --> 00:57:49,450
+[WILLIE]
+All right, go ahead, go ahead.
+ດີແລ້ວ, ໄປກ່ອນ, ໄປຕໍ່ໄປ.
+
+881
+00:57:49,950 --> 00:57:55,950
+[ANNOUNCER'S VOICE]
+We interrupt this program to bring you a special announcement. This afternoon, the body of Richard Hale, father of the girl who died in the automobile accident involving the governor's son, was found. A medical examination revealed he was beaten to death.
+ພວກເຮົາຢຸດໂຄງການນີ້ເພື່ອ ນໍາ ເອົາການປະກາດພິເສດໃຫ້ທ່ານ. ຕອນບ່າຍນີ້, ສົບຂອງ Richard Hale,
+ພໍ່ຂອງເດັກຍິງທີ່ເສຍຊີວິດໃນອຸບັດຕິເຫດລົດທີ່ກ່ຽວຂ້ອງກັບລູກຊາຍຂອງຜູ້ປົກຄອງ, ໄດ້ຖືກພົບເຫັນ. ການກວດສຸຂະພາບໄດ້ເປີດເຜີຍວ່າລາວຖືກຕີຕາຍ.
+
+882
+00:57:56,450 --> 00:58:02,450
+[ANNOUNCER'S VOICE]
+The ugly charge of "official murder" has been hurled at the administration by a coalition of Stark's opponents, led by Judge Stanton, lately an outspoken critic of the administration.
+ການກ່າວຫາທີ່ໂຊກຮ້າຍວ່າ"ການຄາດຕະກໍາທາງການ" ໄດ້ຖືກຖິ້ມໃສ່ລັດຖະບານໂດຍການປະສົມປະສານຂອງຜູ້ຕໍ່ຕ້ານຂອງສຕາກ
+, ນໍາພາໂດຍຜູ້ພິພາກສາສຕັນຕັນ, ໃນໄລຍະຜ່ານມາເປັນຜູ້ວິພາກວິຈານຢ່າງເປີດເຜີຍຂອງລັດຖະບານ.
+
+883
+00:58:02,950 --> 00:58:04,950
+[WILLIE]
+Your friend, the Judge.
+ເພື່ອນຂອງທ່ານ, ຜູ້ພິພາກສາ.
+
+884
+00:58:05,450 --> 00:58:11,450
+[ANNOUNCER'S VOICE]
+Thus an almost forgotten incident provided the spark that might set off the explosion needed to rock Willie Stark out of power. The latest report is that impeachment proceedings may be instituted...
+ດັ່ງນັ້ນເຫດການທີ່ເກືອບຖືກລືມໄດ້ໃຫ້ແສງສະຫວ່າງທີ່ອາດຈະເຮັດໃຫ້ລະເບີດທີ່ຕ້ອງການເພື່ອເຮັດໃຫ້ວີລີ
+ສຕາກອອກຈາກອໍານາດ. ລາຍງານຫຼ້າສຸດແມ່ນວ່າການດໍາເນີນຄະດີການຟ້ອງຮ້ອງອາດຈະຖືກສ້າງຕັ້ງຂຶ້ນ...
+
+885
+00:58:11,950 --> 00:58:17,950
+[WILLIE]
+How long will it take you to pack? I want you to go back to Capital City with me tonight.
+ເຈົ້າຈະໃຊ້ເວລາຫຼາຍປານໃດທີ່ຈະເກັບເຄື່ອງ?
+ຂ້ອຍຢາກໃຫ້ເຈົ້າກັບຄືນໄປເມືອງຫຼວງກັບຂ້ອຍໃນຄືນນີ້.
+
+886
+00:58:18,450 --> 00:58:20,450
+[LUCY]
+Why?
+ເປັນຫຍັງ?
+
+887
+00:58:20,950 --> 00:58:22,950
+[WILLIE]
+Because I need you.
+ເພາະຂ້ອຍຕ້ອງການເຈົ້າ.
+
+888
+00:58:23,450 --> 00:58:25,450
+[TOM]
+What for?
+ເປັນຫຍັງ?
+
+889
+00:58:25,950 --> 00:58:30,150
+[WILLIE]
+I'll explain all of that later. Now, Lucy, do like I say.
+ຂ້ອຍຈະອະທິບາຍທັງ ຫມົດ ນັ້ນຕໍ່ມາ. ດຽວນີ້, ລູຊີ, ເຮັດຕາມທີ່ຂ້ອຍບອກ.
+
+890
+00:58:30,650 --> 00:58:32,650
+[JACK]
+I'll wait outside.
+ຂ້ອຍຈະລໍຖ້າຢູ່ພາຍນອກ.
+
+891
+00:58:33,150 --> 00:58:38,750
+[WILLIE]
+You stay right here, Jack. I want you bear witness to what I've got to say.
+ເຈົ້າຢູ່ບ່ອນນີ້, ແຈກ.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າເປັນພະຍານກ່ຽວກັບສິ່ງທີ່ຂ້ອຍຕ້ອງເວົ້າ.
+
+892
+00:58:39,250 --> 00:58:41,350
+[LUCY]
+She can be a witness too.
+ນາງສາມາດເປັນພະຍານເຊັ່ນກັນ.
+
+893
+00:58:41,850 --> 00:58:45,700
+[SADIE]
+I'm going back to the capital and get hold of Duffy.
+ຂ້ອຍຈະກັບຄືນໄປເມືອງຫຼວງແລະຈັບດັຟຟີ.
+
+894
+00:58:46,200 --> 00:58:48,200
+[WILLIE]
+You stay right here, Sadie.
+ເຈົ້າຢູ່ບ່ອນນີ້, ຊາດີ.
+
+895
+00:58:48,700 --> 00:58:53,600
+[SADIE]
+Somebody's got to go back to the capital. I'll go in the other car.
+ບາງຄົນຕ້ອງກັບຄືນໄປເມືອງຫຼວງ. ຂ້ອຍຈະຂຶ້ນລົດອື່ນ.
+
+896
+00:58:54,100 --> 00:58:59,700
+[WILLIE]
+All right, then tell Duffy not to do anything or say anything until I get there.
+ດີແລ້ວ, ຫຼັງຈາກນັ້ນບອກດັບຟີບໍ່ໃຫ້ເຮັດຫຍັງເລີຍ
+ຫຼື ເວົ້າຫຍັງເລີຍຈົນກວ່າຂ້ອຍຈະມາຮອດບ່ອນນັ້ນ.
+
+897
+00:59:00,200 --> 00:59:02,200
+[SADIE]
+Yes, Governor.
+ແມ່ນແລ້ວ, ຜູ້ປົກຄອງ.
+
+898
+00:59:02,700 --> 00:59:08,700
+[TOM]
+Now he needs us. Now that he's in trouble he needs us, so he can lead us around like monkeys with rings in our noses. So he can say to people, look at me, feel sorry for me... just a family man with a wife and a crippled son...
+ດຽວນີ້ລາວຕ້ອງການພວກເຮົາ. ດຽວນີ້ທີ່ລາວຢູ່ໃນຄວາມຫຍຸ້ງຍາກລາວຕ້ອງການພວກເຮົາຍັງ, ສະນັ້ນລາວສາມາດນໍາພາພວກເຮົາຢູ່ທົ່ວໄປຄືກັບແມວທີ່ມີວົງຈອນໃນດັງຂອງພວກເຮົາ
+. ດັ່ງນັ້ນລາວສາມາດບອກຄົນ, ເບິ່ງຂ້ອຍ, ຮູ້ສຶກເຫັນໃຈຂ້ອຍ... ພຽງແຕ່ຜູ້ຊາຍຄອບຄົວທີ່ມີເມຍແລະລູກຊາຍພິການ...
+
+899
+00:59:09,200 --> 00:59:11,200
+[WILLIE]
+Shut up!
+ປິດງຽບ!
+
+900
+00:59:11,700 --> 00:59:13,700
+[LUCY]
+Willie!
+ວີລີ!
+
+901
+00:59:14,200 --> 00:59:16,300
+[TOM]
+Why don't you leave us alone?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ປ່ອຍພວກເຮົາໄວ້ຢ່າງສະຫງົບ?
+
+902
+00:59:16,800 --> 00:59:22,050
+[WILLIE]
+Leave him alone. How many scrapes have I gotten him out of? How many girls?
+ຢ່າມາຍຸ້ງກັບລາວ.
+ຂ້ອຍໄດ້ເອົາລາວອອກຈາກການສັ່ນສະເທືອນຫຼາຍປານໃດ? ເດັກຍິງເທົ່າໃດ?
+
+903
+00:59:22,550 --> 00:59:24,550
+[LUCY]
+Willie, stop.
+ວີລີ, ຢຸດເຊົາ.
+
+904
+00:59:25,050 --> 00:59:31,050
+[WILLIE]
+It's not him they're after. It's me. How many halfwitted apes do you think I'm going to have to pay to square this one? What do you think this is going to cost me?
+ມັນບໍ່ແມ່ນລາວທີ່ພວກເຂົາ ກໍາ ລັງຕິດຕາມ. ມັນແມ່ນຂ້ອຍ.
+ເຈົ້າຄິດວ່າຂ້ອຍຈະຕ້ອງຈ່າຍເງິນຫຼາຍປານໃດເພື່ອສຽບແບບນີ້? ເຈົ້າຄິດວ່າມັນຈະເສຍຄ່າຂ້ອຍແນວໃດ?
+
+905
+00:59:31,550 --> 00:59:34,000
+[LUCY]
+What do you think it cost him?
+ເຈົ້າຄິດວ່າມັນເສຍຄ່າລາວຫຼາຍປານໃດ?
+
+906
+00:59:34,500 --> 00:59:38,350
+[WILLIE]
+A man builds for his son. That's all he builds for.
+ຜູ້ຊາຍກໍ່ສ້າງ ສໍາ ລັບລູກຊາຍຂອງລາວ.
+ນັ້ນແມ່ນທັງຫມົດທີ່ລາວກໍ່ສ້າງສໍາລັບ.
+
+907
+00:59:38,850 --> 00:59:40,850
+[LUCY]
+Willie!  Tom... Tom.
+ວີລີ! ໂຕມ... ໂຕມ.
+
+908
+00:59:41,350 --> 00:59:43,350
+[WILLIE]
+Give me a drink, Jack.
+ໃຫ້ຂ້ອຍດື່ມ, ແຈກ.
+
+909
+00:59:43,850 --> 00:59:45,850
+[WILLIE]
+She'll go.
+ນາງຈະໄປ.
+
+910
+00:59:46,350 --> 00:59:48,350
+[PAPPY]
+No good, Willie. No good.
+ບໍ່ດີ, ວີລີ. ບໍ່ດີ.
+
+911
+00:59:48,850 --> 00:59:54,850
+[SENATOR]
+Mr. Speaker, I offer a house resolution. Whereas Willie Stark, governor of this state, has been guilty of incompetence, corruption, and favoritism in office -- yes, and other high crimes -- that he is hereby impeached, and ordered to be tried by the senate.
+ທ່ານປະທານສະພາ, ຂ້ອຍສະ ເຫນີ ມະຕິສະພາ. ໃນຂະນະທີ່ວີລີ ສຕາກ, ຜູ້ປົກຄອງລັດນີ້, ໄດ້ມີຄວາມຜິດຕໍ່ຄວາມບໍ່ສາມາດ, ການສໍ້ລາດບັງຫຼວງ
+, ແລະຄວາມມັກໃນຕໍາແຫນ່ງ - ແມ່ນແລ້ວ, ແລະອາຊະຍາກໍາສູງອື່ນໆ - ວ່າລາວຖືກກ່າວຫາດ້ວຍນີ້, ແລະສັ່ງໃຫ້ຖືກພິພາກສາໂດຍສະພາສູງ.
+
+912
+00:59:55,350 --> 00:59:57,350
+[WILLIE]
+What's the score?
+ຜົນຄະແນນແມ່ນຫຍັງ?
+
+913
+00:59:57,850 --> 01:00:01,350
+[DUFFY]
+They're lined up against you solid. They had a meeting.
+ພວກເຂົາຕິດຕໍ່ກັນກັບເຈົ້າຢ່າງແຂງແຮງ. ພວກເຂົາມີການປະຊຸມ.
+
+914
+01:00:01,850 --> 01:00:04,300
+[WILLIE]
+How do you know? Were you there?
+ເຈົ້າຮູ້ແນວໃດ? ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ?
+
+915
+01:00:04,800 --> 01:00:07,250
+[DUFFY]
+Me? What would I be doing there?
+ຂ້ອຍ? ຂ້ອຍຈະເຮັດຫຍັງຢູ່ບ່ອນນັ້ນ?
+
+916
+01:00:07,750 --> 01:00:09,750
+[WILLIE]
+Selling me out.
+ການຂາຍຂ້ອຍອອກ.
+
+917
+01:00:10,250 --> 01:00:12,350
+[WILLIE]
+How many votes have we got?
+ພວກເຮົາມີຄະແນນສຽງຫຼາຍປານໃດ?
+
+918
+01:00:12,850 --> 01:00:14,850
+[SADIE]
+Eleven.
+ສິບຫນຶ່ງ.
+
+919
+01:00:15,350 --> 01:00:17,350
+[WILLIE]
+We need twenty.
+ພວກເຮົາຕ້ອງການສິບຄົນ.
+
+920
+01:00:17,850 --> 01:00:21,350
+[DUFFY]
+We might be able to dig up a few more.
+ພວກເຮົາອາດຈະສາມາດຂຸດຄົ້ນອີກສອງສາມຄົນໄດ້.
+
+921
+01:00:21,850 --> 01:00:23,850
+[WILLIE]
+Yeah. Do you know how?
+ແມ່ນແລ້ວ. ເຈົ້າຮູ້ວິທີບໍ?
+
+922
+01:00:24,350 --> 01:00:26,350
+[DUFFY]
+No.
+ບໍ່
+
+923
+01:00:26,850 --> 01:00:32,850
+[WILLIE]
+Oh, Jack. Come here. What have you got in your black book about that old friend of yours?
+ໂອ້, ແຈກ. ມາບ່ອນນີ້.
+ເຈົ້າມີຫຍັງຢູ່ໃນປື້ມສີດໍາຂອງທ່ານກ່ຽວກັບເພື່ອນເກົ່າຂອງທ່ານນັ້ນ?
+
+924
+01:00:33,350 --> 01:00:35,350
+[JACK]
+Who do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າໃຜ?
+
+925
+01:00:35,850 --> 01:00:39,700
+[WILLIE]
+You know who I'm talking about... your old friend, the Judge.
+ເຈົ້າຮູ້ວ່າຂ້ອຍເວົ້າກ່ຽວກັບໃຜ... ເພື່ອນເກົ່າຂອງທ່ານ, ຜູ້ພິພາກສາ.
+
+926
+01:00:40,200 --> 01:00:42,300
+[JACK]
+If and when you need it.
+ຖ້າແລະເມື່ອເຈົ້າຕ້ອງການມັນ.
+
+927
+01:00:42,800 --> 01:00:48,800
+[WILLIE]
+If and when? I need it right now. He's got four senators wrapped up in his hip pocket. Come on, come on, boy... what have you got?
+ຖ້າແລະເມື່ອໃດ? ຂ້ອຍຕ້ອງການມັນໃນເວລານີ້.
+ລາວມີສະມາຊິກສະພາສູງສີ່ຄົນຫຸ້ມຫໍ່ໄວ້ໃນກະເປົາກະເປົ໋າຂອງກະຕ່າກະທູ້ກະດູກກະທູ້ນີ້. ມາ, ມາ, ເດັກຊາຍ... ເຈົ້າມີຫຍັງ?
+
+928
+01:00:49,300 --> 01:00:55,300
+[JACK]
+I'm going to give him a break. If he can prove it isn't true, I won't spill it.
+ຂ້ອຍຈະໃຫ້ລາວພັກຜ່ອນ.
+ຖ້າລາວສາມາດພິສູດວ່າມັນບໍ່ແມ່ນຄວາມຈິງ, ຂ້ອຍຈະບໍ່ຖິ້ມມັນ.
+
+929
+01:00:55,800 --> 01:00:57,900
+[WILLIE]
+I ought to bust you, Jack.
+ຂ້ອຍຄວນຈັບເຈົ້າ, ແຈກ.
+
+930
+01:00:58,400 --> 01:01:01,550
+[JACK]
+I promised two people I'd do it this way.
+ຂ້ອຍສັນຍາໃຫ້ສອງຄົນວ່າຂ້ອຍຈະເຮັດແບບນີ້.
+
+931
+01:01:02,050 --> 01:01:04,050
+[WILLIE]
+Who are they?
+ພວກເຂົາແມ່ນໃຜ?
+
+932
+01:01:04,550 --> 01:01:09,800
+[JACK]
+Myself... and someone else. It doesn't matter who. I'm going to give him a break.
+ຂ້ອຍເອງ... ແລະຄົນອື່ນ. ມັນບໍ່ສໍາຄັນວ່າໃຜ. ຂ້ອຍຈະໃຫ້ລາວພັກຜ່ອນ.
+
+933
+01:01:10,300 --> 01:01:16,300
+[WILLIE]
+All right, give him a break. But if you got the facts, you got the facts. The truth is sufficient... just like it says in the Bible.
+ດີແລ້ວ, ໃຫ້ລາວພັກຜ່ອນ. ແຕ່ຖ້າເຈົ້າມີຄວາມຈິງ, ເຈົ້າມີຄວາມຈິງ
+. ຄວາມຈິງພຽງພໍ... ຄືກັບທີ່ມັນເວົ້າໃນພຣະຄໍາພີ.
+
+934
+01:01:16,800 --> 01:01:19,250
+[JACK]
+That's the way it's going to be.
+ນັ້ນແມ່ນວິທີທີ່ມັນຈະເປັນ.
+
+935
+01:01:19,750 --> 01:01:23,250
+[WILLIE]
+All right, boy... I'll trust you. Where are you going?
+ດີແລ້ວ, ເດັກຊາຍ... ຂ້ອຍຈະເຊື່ອໃຈເຈົ້າ. ເຈົ້າໄປໃສ?
+
+936
+01:01:23,750 --> 01:01:25,750
+[JACK]
+I'll be around.
+ຂ້ອຍຈະຢູ່ໃກ້ໆ.
+
+937
+01:01:26,250 --> 01:01:29,050
+[SADIE]
+Who else do you think he promised, Willie?
+ເຈົ້າຄິດວ່າລາວສັນຍາໃຫ້ໃຜອີກ, ວີລີ?
+
+938
+01:01:29,550 --> 01:01:34,800
+[SADIE]
+You'd be smart... play square with him. You're going to need people like us around.
+ເຈົ້າຈະສະຫຼາດ... ຫຼິ້ນສຽບກັບລາວ.
+ເຈົ້າຈະຕ້ອງການຄົນຄືກັບພວກເຮົາຢູ່ອ້ອມຂ້າງ.
+
+939
+01:01:35,300 --> 01:01:37,300
+[WILLIE]
+Are you sure?
+ເຈົ້າແນ່ໃຈບໍ?
+
+940
+01:01:37,800 --> 01:01:39,900
+[MONTAGE: THE IMPEACHMENT]
+Willie's car speeding down a road.
+ລົດຂອງວີລີ ກໍາ ລັງແລ່ນໄວລົງທາງ.
+
+941
+01:01:40,400 --> 01:01:46,400
+[JACK]
+The chips were down, and Willie knew it. He was fighting for his life. He roared across the state making one speech after another. And all of them added up to the same thing... "It's not me they're after, it's you!"
+ຊິບຖືກຫຼຸດລົງ, ແລະວີລີຮູ້ມັນ. ລາວ ກໍາ ລັງຕໍ່ສູ້ເພື່ອຊີວິດຂອງລາວ. ລາວຮ້ອງໄຫ້ທົ່ວລັດໃນການກ່າວຄໍາປາໄສ ຫນຶ່ງ
+ຕໍ່ກັນ. ແລະພວກເຂົາທັງ ຫມົດ ເພີ່ມເຂົ້າໄປໃນສິ່ງດຽວກັນ..."ມັນບໍ່ແມ່ນຂ້ອຍທີ່ພວກເຂົາ ກໍາ ລັງຕິດຕາມ, ມັນແມ່ນເຈົ້າ!"
+
+942
+01:01:46,900 --> 01:01:52,900
+[JACK]
+Willie hollered foul. Willie knew if you hollered long enough, hard enough, and loud enough, people begin to believe you. Just in case they didn't, he organized spontaneous demonstrations.
+ວີລີຮ້ອງໄຫ້ໂຊກຮ້າຍ. ວີລລີຮູ້ວ່າຖ້າເຈົ້າຮ້ອງໄຮດົນພໍສົມຄວນ, ແຂງແຮງພຽງພໍ, ແລະສຽງດັງພຽງພໍແລ້ວ
+, ຄົນຈະເລີ່ມເຊື່ອເຈົ້າ. ພຽງແຕ່ໃນກໍລະນີທີ່ພວກເຂົາບໍ່ເຮັດ, ລາວຈັດການສະແດງແບບສະທັນສະໄຫມ.
+
+943
+01:01:53,400 --> 01:01:59,400
+[WILLIE]
+Tell the boys to get the hicks out. Bring 'em in from the sticks, empty the pool halls. Turn 'em out. Turn the yokels out.
+ບອກເດັກຊາຍໃຫ້ເອົາ hicks ອອກ. ເອົາພວກມັນເຂົ້າຈາກກະດານ,
+ຖິ້ມຫ້ອງບິລລານ. ເຮັດໃຫ້ພວກມັນອອກ. ເຮັດໃຫ້ yoke ໄດ້ອອກ.
+
+944
+01:01:59,900 --> 01:02:05,900
+[JACK]
+In case anyone hollered back, he organized spontaneous slugging. Willie pulled every trick he ever knew -- and added a few more.
+ໃນກໍລະນີທີ່ໃຜຮ້ອງໄຫ້ກັບຄືນໄປບ່ອນ, ລາວຈັດຕັ້ງການຕີຢ່າງສະດວກສະບາຍ
+. ວີລີໄດ້ດຶງກະຕຸ້ນທຸກຢ່າງທີ່ລາວເຄີຍຮູ້ - ແລະເພີ່ມອີກສອງສາມຢ່າງ.
+
+945
+01:02:06,400 --> 01:02:09,200
+[JACK]
+Hey, Sugar!  You'll never live to be impeached!
+ເຮ້, ຊັກເກີ! ເຈົ້າຈະບໍ່ຢູ່ອາໄສຈົນຖືກຟ້ອງຮ້ອງ!
+
+946
+01:02:09,700 --> 01:02:11,800
+[WILLIE]
+Boy, I'll live to be President...
+ເດັກຊາຍ, ຂ້ອຍຈະດໍາລົງຊີວິດເພື່ອເປັນປະທານາທິບໍດີ...
+
+947
+01:02:12,300 --> 01:02:17,550
+[WILLIE]
+I've got fourteen senators to vote against impeachment. If I win, you're out of politics.
+ຂ້ອຍມີສະມາຊິກສະພາສູງສິບສີ່ຄົນທີ່ຈະລົງຄະແນນສຽງຕໍ່ການຟ້ອງຮ້ອງ
+. ຖ້າຂ້ອຍຊະນະ, ເຈົ້າອອກຈາກການເມືອງ.
+
+948
+01:02:18,050 --> 01:02:20,150
+[SENATOR]
+I'll do whatever the Judge says.
+ຂ້ອຍຈະເຮັດທຸກຢ່າງທີ່ຜູ້ພິພາກສາບອກ.
+
+949
+01:02:20,650 --> 01:02:25,200
+[JACK]
+And always the trail led to one place... Burden's Landing... and the Judge.
+ແລະເສັ້ນທາງສະເຫມີພາໄປຫາບ່ອນດຽວ...
+ການລົງຈອດຂອງບາເດັນ... ແລະຜູ້ພິພາກສາ.
+
+950
+01:02:25,700 --> 01:02:29,550
+[WILLIE]
+You sure you don't want me to go in with you?
+ເຈົ້າແນ່ໃຈວ່າເຈົ້າບໍ່ຢາກໃຫ້ຂ້ອຍເຂົ້າກັບເຈົ້າບໍ?
+
+951
+01:02:30,050 --> 01:02:32,050
+[JACK]
+I'm sure.
+ຂ້ອຍແນ່ໃຈວ່າ.
+
+952
+01:02:32,550 --> 01:02:36,050
+[WILLIE]
+Well, hurry it up, boy. We've got places to go.
+ດີ, ໄວຂຶ້ນ, ເດັກຊາຍ. ພວກເຮົາມີບ່ອນທີ່ຈະໄປ.
+
+953
+01:02:36,550 --> 01:02:42,150
+[JACK]
+Judge, I beg you, as a favor to yourself, to me... call up, release your votes.
+ຜູ້ພິພາກສາ, ຂ້ອຍຂໍຮ້ອງເຈົ້າ, ໃນຖານະເປັນຄວາມຊ່ວຍເຫຼືອຕໍ່ຕົວເອງ
+, ຕໍ່ຂ້ອຍ... ໂທຫາ, ປ່ອຍຄະແນນສຽງຂອງທ່ານ.
+
+954
+01:02:42,650 --> 01:02:48,650
+[JUDGE]
+I made a mistake once, Jack... when I resigned. It was too easy then, just resigning, pulling out. No, Jack, I've made my choice. I have nothing more to lose.
+ຂ້ອຍໄດ້ເຮັດຄວາມຜິດພາດຄັ້ງຫນຶ່ງ, ແຈກ... ເມື່ອຂ້ອຍລາອອກ. ມັນງ່າຍເກີນໄປໃນເວລານັ້ນ,
+ພຽງແຕ່ລາອອກ, ຖອນຕົວອອກ. ບໍ່, ແຈັກ, ຂ້ອຍໄດ້ເລືອກຂອງຂ້ອຍແລ້ວ. ຂ້ອຍບໍ່ມີຫຍັງອີກທີ່ຈະສູນເສຍ.
+
+955
+01:02:49,150 --> 01:02:55,150
+[JACK]
+Judge, you know what Stark is capable of. Think it over. I'll leave now. I'll come back tomorrow and we'll talk about it again. You can give me your answer then.
+ຜູ້ພິພາກສາ, ເຈົ້າຮູ້ວ່າສຕາກສາມາດເຮັດຫຍັງໄດ້. ຄິດມັນຄືນ. ຂ້ອຍຈະອອກຈາກດຽວນີ້.
+ຂ້ອຍກັບມາມື້ອື່ນແລະພວກເຮົາຈະເວົ້າກ່ຽວກັບມັນອີກຄັ້ງ. ເຈົ້າສາມາດໃຫ້ຂ້ອຍ ຄໍາ ຕອບຂອງທ່ານໃນເວລານັ້ນ.
+
+956
+01:02:55,650 --> 01:02:59,150
+[WILLIE]
+I can't wait until tomorrow. I'm a very impatient man.
+ຂ້ອຍລໍຖ້າຈົນຮອດມື້ອື່ນບໍ່ໄດ້. ຂ້ອຍເປັນຜູ້ຊາຍທີ່ບໍ່ອົດທົນຫຼາຍ.
+
+957
+01:02:59,650 --> 01:03:02,450
+[JACK]
+I told you not to come in here.
+ຂ້ອຍບອກເຈົ້າວ່າ ຢ່າເຂົ້າມາບ່ອນນີ້.
+
+958
+01:03:02,950 --> 01:03:06,450
+[WILLIE]
+Is it true, Judge, that you're behind the impeachment proceedings?
+ມັນເປັນຄວາມຈິງບໍ, ຜູ້ພິພາກສາ,
+ວ່າເຈົ້າຢູ່ເບື້ອງຫຼັງການດໍາເນີນຄະດີການຟ້ອງຮ້ອງ?
+
+959
+01:03:06,950 --> 01:03:08,950
+[JUDGE]
+Yes, it's true.
+ແມ່ນແລ້ວ, ມັນເປັນຄວາມຈິງ.
+
+960
+01:03:09,450 --> 01:03:13,650
+[WILLIE]
+I wanted to hear you say it with your own silver tongue.
+ຂ້ອຍຢາກໄດ້ຍິນເຈົ້າເວົ້າມັນດ້ວຍພາສາເງິນຂອງເຈົ້າເອງ.
+
+961
+01:03:14,150 --> 01:03:20,150
+[JUDGE]
+Well, you've heard it. If that's all you came to hear you could have saved yourself a trip.
+ດີ, ເຈົ້າໄດ້ຍິນມັນແລ້ວ.
+ຖ້າມັນເປັນສິ່ງດຽວທີ່ເຈົ້າມາຟັງເຈົ້າສາມາດປະຢັດການເດີນທາງຕົວເອງໄດ້.
+
+962
+01:03:20,650 --> 01:03:26,650
+[WILLIE]
+Mind if I pour myself a drink? How about you, Judge, will you have one? You better... You're going to need it.
+ບໍ່ເປັນຫຍັງຖ້າຂ້ອຍຖອກເຄື່ອງດື່ມໃຫ້ຕົວເອງບໍ? ເຈົ້າແນວໃດ, ຜູ້ພິພາກສາ
+, ເຈົ້າຈະກິນ ຫນຶ່ງ ບໍ? ເຈົ້າດີກວ່າ... ເຈົ້າຈະຕ້ອງການມັນ.
+
+963
+01:03:27,150 --> 01:03:29,150
+[WILLIE]
+What'd he say, Jack?
+ລາວເວົ້າຫຍັງ, ແຈກ?
+
+964
+01:03:29,650 --> 01:03:31,650
+[JACK]
+You'll get your answer tomorrow.
+ເຈົ້າຈະໄດ້ຮັບຄໍາຕອບມື້ອື່ນ.
+
+965
+01:03:32,150 --> 01:03:36,350
+[WILLIE]
+Are you kidding? Did you show it to him, or didn't you?
+ເຈົ້າຫຼິ້ນບໍ? ເຈົ້າສະແດງມັນໃຫ້ລາວບໍ, ຫຼືເຈົ້າບໍ່?
+
+966
+01:03:36,850 --> 01:03:38,850
+[JUDGE]
+Show me what?
+ສະແດງໃຫ້ຂ້ອຍເຫັນຫຍັງ?
+
+967
+01:03:39,350 --> 01:03:45,350
+[WILLIE]
+That's what I figured. Let's get down to cases, Judge. Do you remember a man with the name of Littlepaugh?
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຄິດ. ມາລົງໄປຫາກໍລະນີ, ຜູ້ພິພາກສາ
+. ເຈົ້າຈື່ຜູ້ຊາຍທີ່ມີຊື່ວ່າ Littlepaugh ບໍ?
+
+968
+01:03:45,850 --> 01:03:47,850
+[WILLIE]
+Remember the Fortune Electric Company?
+ເຈົ້າຈື່ບໍລິສັດໄຟຟ້າຟໍຊັນບໍ?
+
+969
+01:03:48,350 --> 01:03:51,850
+[JUDGE]
+Of course. I was their counsel for over ten years.
+ແນ່ນອນ. ຂ້ອຍເປັນທະນາຍຄວາມຂອງພວກເຂົາເປັນເວລາຫຼາຍກວ່າສິບປີ.
+
+970
+01:03:52,350 --> 01:03:54,450
+[WILLIE]
+Remember how you got the job?
+ຈື່ບໍ່ວ່າເຈົ້າໄດ້ຮັບວຽກເຮັດງານທໍາແນວໃດ?
+
+971
+01:03:54,950 --> 01:03:56,950
+[JACK]
+How did you find out?
+ເຈົ້າຮູ້ແນວໃດ?
+
+972
+01:03:57,450 --> 01:04:00,250
+[WILLIE]
+Do you remember how you got the job?
+ເຈົ້າຈື່ບໍ່ວ່າເຈົ້າໄດ້ຮັບວຽກເຮັດງານທໍາແນວໃດ?
+
+973
+01:04:00,750 --> 01:04:06,750
+[WILLIE]
+You know, Judge, dirt's a funny thing. Some of it rubs off on everybody. How did you get the job, Judge? Blackmail?
+ເຈົ້າຮູ້ແລ້ວ, ຜູ້ພິພາກສາ, ດິນເປື້ອນແມ່ນສິ່ງທີ່ມ່ວນຊື່ນ.
+ບາງສ່ວນມັນຕິດຕໍ່ກັບທຸກຄົນ. ເຈົ້າໄດ້ຮັບວຽກເຮັດງານທໍາແນວໃດ, ຜູ້ຕັດສິນ? ການຊັກຊວນ?
+
+974
+01:04:07,250 --> 01:04:13,250
+[JUDGE]
+I swear I never even remembered his name. Isn't that remarkable, Jack? I never even remembered his name. It's all so long ago it's hard for me to realize it ever happened.
+ຂ້ອຍສາບານໂຕວ່າຂ້ອຍບໍ່ເຄີຍຈື່ຊື່ລາວເລີຍ. ມັນບໍ່ແປກໃຈບໍ, ແຈກ? ຂ້ອຍບໍ່ເຄີຍ ຈື່ຊື່ຂອງລາວເລີຍ
+. ມັນເປັນທັງ ຫມົດ ດົນນານແລ້ວທີ່ມັນຍາກ ສໍາ ລັບຂ້ອຍທີ່ຈະຮູ້ວ່າມັນເຄີຍເກີດຂຶ້ນ.
+
+975
+01:04:13,750 --> 01:04:15,750
+[WILLIE]
+Yeah. But it did.
+ແມ່ນແລ້ວ. ແຕ່ມັນເຮັດ.
+
+976
+01:04:16,250 --> 01:04:20,100
+[JUDGE]
+Yes, it did. But it's difficult for me to realize it.
+ແມ່ນແລ້ວ, ມັນເຮັດ. ແຕ່ມັນຍາກ ສໍາ ລັບຂ້ອຍທີ່ຈະເຂົ້າໃຈມັນ.
+
+977
+01:04:20,600 --> 01:04:22,600
+[JACK]
+For me too, Judge.
+ສໍາລັບຂ້ອຍເຊັ່ນກັນ, ຜູ້ພິພາກສາ.
+
+978
+01:04:23,100 --> 01:04:25,100
+[JUDGE]
+Thanks for that much.
+ຂອບໃຈຫຼາຍໆ.
+
+979
+01:04:25,600 --> 01:04:29,800
+[WILLIE]
+Well, I guess you know what the next move is, don't you?
+ດີ, ຂ້ອຍຄິດວ່າເຈົ້າຮູ້ວ່າການເຄື່ອນໄຫວຕໍ່ໄປແມ່ນຫຍັງ, ແມ່ນບໍ?
+
+980
+01:04:30,300 --> 01:04:33,450
+[JUDGE]
+Yes, I do. Jack Burden. Willie Stark's hatchet man.
+ແມ່ນແລ້ວ, ຂ້ອຍເຮັດ. ແຈກ ບາເດັນ. ຜູ້ຊາຍກະດານຂອງວີລີ ສຕາກ.
+
+981
+01:04:33,950 --> 01:04:36,750
+[JACK]
+I asked you... how did you find out?
+ຂ້ອຍຖາມເຈົ້າວ່າ... ເຈົ້າຮູ້ແນວໃດ?
+
+982
+01:04:37,250 --> 01:04:43,250
+[JUDGE]
+This would never stand at law, not for a minute. It happened over twenty- five years ago, and you could never get any testimony. Everybody is dead.
+ນີ້ແມ່ນຈະບໍ່ຢືນຢູ່ທາງກົດ ຫມາຍ, ບໍ່ເປັນເວລາ ຫນຶ່ງ ນາທີ. ມັນເກີດຂຶ້ນຫຼາຍກວ່າສິບຫ້າປີກ່ອນ
+, ແລະເຈົ້າບໍ່ສາມາດໄດ້ຮັບຄວາມເຫັນໃດໆໄດ້ເລີຍ. ທຸກຄົນຕາຍແລ້ວ.
+
+983
+01:04:43,750 --> 01:04:49,750
+[WILLIE]
+Everybody except you, Judge. You're alive. And people think you're a certain kind of man. And you just couldn't bear for people to think otherwise.
+ທຸກຄົນນອກຈາກເຈົ້າ, ຜູ້ພິພາກສາ. ເຈົ້າຍັງມີຊີວິດຢູ່.
+ແລະຄົນຄິດວ່າເຈົ້າເປັນຜູ້ຊາຍປະເພດໃດຫນຶ່ງ. ແລະເຈົ້າພຽງແຕ່ບໍ່ສາມາດຍອມຮັບໃຫ້ຄົນຄິດຢ່າງອື່ນໄດ້.
+
+984
+01:04:50,250 --> 01:04:56,250
+[JUDGE]
+Ever since then I... I've done my duty. I... I'm responsible for many good things.  But I also did this.
+ນັບຕັ້ງແຕ່ເວລານັ້ນຂ້ອຍ... ຂ້ອຍໄດ້ປະຕິບັດຫນ້າທີ່ຂອງຂ້ອຍ. ຂ້ອຍ..
+. ຂ້ອຍຮັບຜິດຊອບສິ່ງທີ່ດີຫຼາຍຢ່າງ. ແຕ່ຂ້ອຍຍັງເຮັດສິ່ງນີ້ອີກດ້ວຍ.
+
+985
+01:04:56,750 --> 01:04:58,750
+[WILLIE]
+Yes, yes, you did.
+ແມ່ນ, ແມ່ນແລ້ວ, ເຈົ້າເຮັດ.
+
+986
+01:04:59,250 --> 01:05:03,800
+[JACK]
+Judge, I beg of you, call and release your votes, for your sake.
+ຜູ້ພິພາກສາ, ຂ້ອຍຂໍຮ້ອງເຈົ້າ,
+ໂທຫາແລະປ່ອຍຄະແນນສຽງຂອງທ່ານ, ເພື່ອຜົນປະໂຫຍດຂອງທ່ານ.
+
+987
+01:05:04,300 --> 01:05:08,150
+[JUDGE]
+You have tender sensibilities for a hatchet man.  Good night, gentlemen.
+ເຈົ້າມີຄວາມຮູ້ສຶກທີ່ອ່ອນແອ ສໍາ
+ລັບຜູ້ຊາຍກະທູ້ກະຕູ້. ສະບາຍດີ, ພວກເຈົ້າ.
+
+988
+01:05:08,650 --> 01:05:10,650
+[WILLIE]
+How about my answer?
+ຄໍາຕອບຂອງຂ້ອຍແນວໃດ?
+
+989
+01:05:11,150 --> 01:05:13,250
+[JUDGE]
+You'll have it in the morning.
+ເຈົ້າຈະກິນມັນໃນຕອນເຊົ້າ.
+
+990
+01:05:13,750 --> 01:05:15,750
+[WILLIE]
+I want it tonight.
+ຂ້ອຍຢາກມັນໃນຄືນນີ້.
+
+991
+01:05:16,250 --> 01:05:18,350
+[JUDGE]
+In the morning. Good night, gentlemen.
+ໃນຕອນເຊົ້າ. ສະບາຍດີ, ພວກເຈົ້າ.
+
+992
+01:05:18,850 --> 01:05:20,850
+[JACK]
+How did you find out?
+ເຈົ້າຮູ້ແນວໃດ?
+
+993
+01:05:21,350 --> 01:05:26,600
+[WILLIE]
+We've got a lot to do. It's getting late, Jack. Let's get back to town.
+ພວກເຮົາມີຫຼາຍຢ່າງທີ່ຈະເຮັດ. ມັນ ກໍາ
+ລັງຊ້າແລ້ວ, ແຈກ. ມາກັບຄືນໄປເມືອງ.
+
+994
+01:05:27,100 --> 01:05:29,200
+[JACK]
+You know we're through, don't you?
+ເຈົ້າຮູ້ວ່າພວກເຮົາຫມົດແລ້ວ, ແມ່ນບໍ?
+
+995
+01:05:29,700 --> 01:05:31,800
+[WILLIE]
+Aw, you don't mean that, boy.
+ໂອ້, ເຈົ້າບໍ່ໄດ້ຫມາຍຄວາມວ່ານັ້ນ, ເດັກຊາຍ.
+
+996
+01:05:32,300 --> 01:05:34,300
+[STANTON]
+What are you doing here?
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+997
+01:05:34,800 --> 01:05:39,350
+[WILLIE]
+It's all right, doc. Just here to discuss some politics with the Judge.
+ມັນບໍ່ເປັນຫຍັງ, ດອກຕໍ.
+ພຽງແຕ່ຢູ່ບ່ອນນີ້ເພື່ອປຶກສາຫາລືການເມືອງບາງຢ່າງກັບຜູ້ພິພາກສາ.
+
+998
+01:05:39,850 --> 01:05:41,950
+[STANTON]
+Oh, I see.  Well, good night.
+ໂອ້, ຂ້ອຍເຫັນແລ້ວ. ດີ, ຄືນດີ.
+
+999
+01:05:42,450 --> 01:05:44,450
+[WILLIE]
+Good night.
+ສະບາຍດີ.
+
+1000
+01:05:44,950 --> 01:05:46,950
+[JACK]
+Did you give him --
+ເຈົ້າໃຫ້ລາວບໍ -
+
+1001
+01:05:47,450 --> 01:05:49,450
+[WILLIE]
+Wait a minute, Jack --
+ລໍຖ້າດົນຫນຶ່ງ, ແຈກ...
+
+1002
+01:05:49,950 --> 01:05:52,050
+[JACK]
+Answer me. Did you give --
+ຕອບຂ້ອຍ. ເຈົ້າໃຫ້...
+
+1003
+01:05:52,550 --> 01:05:54,650
+[STANTON]
+Aren't you going back with him?
+ເຈົ້າຈະບໍ່ກັບກັບລາວບໍ?
+
+1004
+01:05:55,150 --> 01:05:57,150
+[JACK]
+No.
+ບໍ່
+
+1005
+01:05:57,650 --> 01:06:03,650
+[STANTON]
+Why not? You belong with him. Jack, how could you have done it? When Anne brought me those papers she told me you promised not to tell Stark until...
+ເປັນຫຍັງບໍ່? ເຈົ້າຂຶ້ນກັບລາວ. ແຈກ, ເຈົ້າສາມາດເຮັດໄດ້ແນວໃດ?
+ເມື່ອແອນເອົາເຈ້ຍເຫຼົ່ານັ້ນມາໃຫ້ຂ້ອຍນາງບອກຂ້ອຍວ່າເຈົ້າສັນຍາວ່າຈະບໍ່ບອກສຕາກຈົນກວ່າ...
+
+1006
+01:06:04,150 --> 01:06:06,950
+[JACK]
+Yeah. I know.  Well, I kept my promise.
+ແມ່ນແລ້ວ. ຂ້ອຍຮູ້ແລ້ວ. ດີ, ຂ້ອຍຮັກສາຄໍາຫມັ້ນສັນຍາຂອງຂ້ອຍ.
+
+1007
+01:06:07,450 --> 01:06:09,450
+[STANTON]
+Anne? Anne?
+ແອນ? ແອນບໍ?
+
+1008
+01:06:09,950 --> 01:06:15,950
+[ANNOUNCER'S VOICE]
+From all over the state they're streaming in. From the hill country and farms, the lumber camps... by boat, by train, by horse, and on foot. Willie Stark's army.
+ຈາກທົ່ວລັດພວກເຂົາ ກໍາ ລັງໄຫຼເຂົ້າມາ. ຈາກເຂດພູເຂົາແລະຟາມ, ຄ້າຍໄມ້
+... ໂດຍເຮືອ, ໂດຍລົດໄຟ, ໂດຍມ້າ, ແລະຍ່າງ. ກອງທັບຂອງວີລີ ສຕາກ.
+
+1009
+01:06:16,450 --> 01:06:22,450
+[ANNOUNCER'S VOICE]
+The state capital is filled with rumors, one of which is that Stark is planning to seize power by force. As commander of the state militia, he has --
+ນະຄອນຫຼວງຂອງລັດເຕັມໄປດ້ວຍຂ່າວລື, ຫນຶ່ງ ໃນນັ້ນແມ່ນວ່າສຕາກ ກໍາ
+ລັງວາງແຜນທີ່ຈະຍຶດອໍານາດດ້ວຍຄວາມເຂັ້ມແຂງ. ໃນຖານະເປັນຜູ້ບັນຊາການຂອງທະຫານລັດ, ລາວມີ -
+
+1010
+01:06:22,950 --> 01:06:24,950
+[JACK]
+Come in. The door's open.
+ເຂົ້າມາ. ປະຕູເປີດແລ້ວ.
+
+1011
+01:06:25,450 --> 01:06:27,450
+[ANNE]
+Jack...
+ແຈກ...
+
+1012
+01:06:27,950 --> 01:06:29,950
+[JACK]
+What do you want?
+ເຈົ້າຢາກຫຍັງ?
+
+1013
+01:06:30,450 --> 01:06:32,900
+[JACK]
+No, I want to see you cry.
+ບໍ່, ຂ້ອຍຢາກເຫັນເຈົ້າຮ້ອງໄຫ້.
+
+1014
+01:06:33,400 --> 01:06:35,400
+[JACK]
+Stop it!
+ຢຸດຢັ້ງ!
+
+1015
+01:06:35,900 --> 01:06:39,050
+[ANNE]
+I called you. All afternoon I've been calling you.
+ຂ້ອຍໂທຫາເຈົ້າ. ຕະຫຼອດຕອນບ່າຍຂ້ອຍໄດ້ໂທຫານເຈົ້າ.
+
+1016
+01:06:39,550 --> 01:06:41,550
+[JACK]
+I know. I was here.
+ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍຢູ່ບ່ອນນີ້.
+
+1017
+01:06:42,050 --> 01:06:45,550
+[ANNE]
+You've got to tell Adam. You've got to see him.
+ເຈົ້າຕ້ອງບອກອາດາມ. ເຈົ້າຕ້ອງເຫັນລາວ.
+
+1018
+01:06:46,050 --> 01:06:48,050
+[JACK]
+Tell him what?
+ບອກລາວຫຍັງ?
+
+1019
+01:06:48,550 --> 01:06:50,550
+[ANNE]
+He knows about me and...
+ລາວຮູ້ກ່ຽວກັບຂ້ອຍແລະ...
+
+1020
+01:06:51,050 --> 01:06:53,050
+[JACK]
+About you and Willie?
+ກ່ຽວກັບເຈົ້າແລະວີລີບໍ?
+
+1021
+01:06:53,550 --> 01:06:59,550
+[ANNE]
+I tried to explain to him. I... I tried to explain to him that it wasn't the way he thought it was.
+ຂ້ອຍພະຍາຍາມອະທິບາຍໃຫ້ລາວ. ຂ້ອຍ...
+ຂ້ອຍພະຍາຍາມອ້າງໃຫ້ລາວວ່າມັນບໍ່ແມ່ນວິທີທີ່ລາວຄິດວ່າມັນເປັນ.
+
+1022
+01:07:00,050 --> 01:07:02,500
+[JACK]
+How was it, Anne? You tell me.
+ມັນເປັນແນວໃດແອນ? ເຈົ້າບອກຂ້ອຍ.
+
+1023
+01:07:03,000 --> 01:07:06,500
+[ANNE]
+He hit me, Jack. My own brother... he hit me.
+ລາວຕີຂ້ອຍ, ແຈກ. ອ້າຍຂອງຂ້ອຍເອງ... ລາວໄດ້ຕີຂ້ອຍ.
+
+1024
+01:07:07,000 --> 01:07:13,000
+[JACK]
+Your brother is an old-fashioned man. He believes in his sister's honor. Me, I'm a modern man.  The twentieth-century type. I run.
+ອ້າຍຂອງທ່ານເປັນຜູ້ຊາຍແບບເກົ່າແກ່. ລາວເຊື່ອໃນກຽດຕິຍົດຂອງເອື້ອຍຂອງລາວ
+. ຂ້ອຍ, ຂ້ອຍເປັນຜູ້ຊາຍທັນສະໄຫມ. ປະເພດຂອງສະຕະວັດທີສິບ. ຂ້ອຍແລ່ນ.
+
+1025
+01:07:13,500 --> 01:07:15,500
+[ANNE]
+I'm frightened, Jack.
+ຂ້ອຍຢ້ານກົວ, ແຈກ.
+
+1026
+01:07:16,000 --> 01:07:18,100
+[JACK]
+For who? Your brother, or Willie?
+ສໍາລັບໃຜ? ອ້າຍຂອງທ່ານ, ຫຼືວີລີ?
+
+1027
+01:07:18,600 --> 01:07:20,600
+[ANNE]
+We're through.
+ພວກເຮົາຫມົດແລ້ວ.
+
+1028
+01:07:21,100 --> 01:07:23,100
+[JACK]
+Who's through with who?
+ໃຜໄດ້ເຮັດແລ້ວກັບໃຜ?
+
+1029
+01:07:23,600 --> 01:07:29,550
+[ANNE]
+He called me this afternoon. He's going back to Lucy. He said it was better that way.
+ລາວໂທຫາຂ້ອຍໃນຕອນບ່າຍນີ້. ລາວຈະກັບຄືນໄປບ່ອນລູຊີ
+. ລາວເວົ້າວ່າມັນດີກວ່າແບບນັ້ນ.
+
+1030
+01:07:30,050 --> 01:07:32,050
+[JACK]
+Better for who? Him.
+ດີກວ່າສໍາລັບໃຜ? ລາວ.
+
+1031
+01:07:32,550 --> 01:07:34,550
+[ANNE]
+Both of us.
+ພວກເຮົາທັງສອງ.
+
+1032
+01:07:35,050 --> 01:07:41,050
+[JACK]
+Did he tell you that too when he asked you to betray the Judge? At least I walked out on him.
+ລາວບອກເຈົ້າອີກບໍເມື່ອລາວຂໍໃຫ້ເຈົ້າປະຫມາດຜູ້ພິພາກສາ
+? ຢ່າງຫນ້ອຍຂ້ອຍອອກຈາກລາວ.
+
+1033
+01:07:41,550 --> 01:07:47,550
+[ANNE]
+Oh Jack... help me, please, please. Adam's all I've got left now. Oh, Jack, if you ever loved me...
+ໂອ້ ແຈກ... ຊ່ວຍຂ້ອຍ, ກະລຸນາ, ກຣຸນາ.
+ແອັດມາມແມ່ນສິ່ງດຽວທີ່ຂ້ອຍຍັງເຫຼືອຢູ່ດຽວນີ້. ໂອ້, ແຈັກ, ຖ້າເຈົ້າຮັກຂ້ອຍ...
+
+1034
+01:07:48,050 --> 01:07:51,200
+[JACK]
+If I ever loved you.  I'll go find Adam.
+ຖ້າຂ້ອຍຮັກເຈົ້າ. ຂ້ອຍຈະໄປຊອກຫາອາດາມ.
+
+1035
+01:07:51,700 --> 01:07:56,250
+[COP]
+Where do you think you're going?  Oh, I'm sorry. I didn't recognize you.
+ເຈົ້າຄິດວ່າເຈົ້າ ກໍາ ລັງໄປໃສ? ໂອ້, ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ຮູ້ຈັກເຈົ້າ.
+
+1036
+01:07:56,750 --> 01:07:59,200
+[JACK]
+Do you know who Dr. Stanton is?
+ເຈົ້າຮູ້ວ່າດຣ ສຕັນຕັນແມ່ນໃຜບໍ?
+
+1037
+01:07:59,700 --> 01:08:01,700
+[COP]
+Yes sir.
+ແມ່ນແລ້ວເດີ.
+
+1038
+01:08:02,200 --> 01:08:05,000
+[JACK]
+Did he try to come through here today?
+ລາວພະຍາຍາມຜ່ານບ່ອນນີ້ມື້ນີ້ບໍ?
+
+1039
+01:08:05,500 --> 01:08:07,500
+[COP]
+Haven't seen him, sir.
+ຂ້ອຍບໍ່ໄດ້ເຫັນລາວເດີເດີ.
+
+1040
+01:08:08,000 --> 01:08:10,450
+[JACK]
+Well, can you check the other entrances?
+ດີ, ເຈົ້າສາມາດກວດເບິ່ງທາງເຂົ້າອື່ນໆໄດ້ບໍ?
+
+1041
+01:08:10,950 --> 01:08:16,550
+[COP]
+If you care to come inside and wait, Mr. Burden, we can find you a seat.
+ຖ້າເຈົ້າຢາກເຂົ້າມາແລະລໍຖ້າ, ທ້າວບາເດັນ
+, ພວກເຮົາສາມາດຊອກຫາບ່ອນນັ່ງໃຫ້ທ່ານໄດ້.
+
+1042
+01:08:17,050 --> 01:08:23,050
+[JACK]
+No, thanks. I'll wait out here. If Dr. Stanton shows up, let me know. Pass the word along to the boys, will you?
+ບໍ່, ຂອບໃຈ. ຂ້ອຍຈະລໍຖ້າຢູ່ນີ້. ຖ້າດຣ ສຕັນຕັນປາກົດຕົວ
+, ໃຫ້ຂ້ອຍຮູ້. ສົ່ງຂ່າວໄປຫາເດັກຊາຍ, ເຈົ້າຈະເຮັດບໍ?
+
+1043
+01:08:23,550 --> 01:08:25,550
+[COP]
+Yes sir.
+ແມ່ນແລ້ວເດີ.
+
+1044
+01:08:26,050 --> 01:08:31,650
+[LOUDSPEAKER]
+All right now. Everybody... that means everybody... let's let Willie know we're here! All together: WE
+ດີແລ້ວດຽວນີ້. ທຸກຄົນ... ນັ້ນຫມາຍຄວາມວ່າທຸກຄົນ...
+ໃຫ້ວີລີຮູ້ວ່າພວກເຮົາຢູ່ບ່ອນນີ້! ທຸກຄົນຮ່ວມກັນ: ພວກເຮົາ
+
+1045
+01:08:32,150 --> 01:08:35,300
+[WANT WILLIE. WE WANT WILLIE.]
+The chant is picked up enthusiastically by the crowd.
+ການຮ້ອງເພງຖືກຮັບເອົາດ້ວຍຄວາມກະຕຸ້ນໃຈໂດຍຄົນຊົມເຊີຍ.
+
+1046
+01:08:35,800 --> 01:08:41,800
+[SPEAKER]
+We will first proceed to take the judgment of the senate on the question of the impeachment of the governor.
+ພວກເຮົາຈະ ດໍາ
+ເນີນການກ່ອນທີ່ຈະຕັດສິນໃຈຂອງສະພາສູງກ່ຽວກັບບັນຫາການຟ້ອງຮ້ອງຜູ້ປົກຄອງ.
+
+1047
+01:08:42,300 --> 01:08:48,300
+[SENATOR]
+Mr. Speaker, this is a farce to ask us to vote in the face of the kind of intimidation and pressure that has been exerted here in the past few weeks. Even that crowd outside, yelling on cue, is part of that pressure.
+ທ່ານປະທານປະເທດ, ນີ້ແມ່ນການໂຊກແຊງທີ່ຈະຂໍໃຫ້ພວກເຮົາລົງຄະແນນສຽງຕໍ່ຕ້ານການຢ້ານກົວແລະກົດດັນປະເພດທີ່ຖືກໃຊ້ຢູ່ບ່ອນນີ້ໃນສອງສາມອາທິດທີ່ຜ່ານມາ
+. ເຖິງແມ່ນວ່າຄົນຊົມເຊີຍຢູ່ພາຍນອກນັ້ນ, ຮ້ອງໄຫ້ຕາມຊີ້ບອກ, ແມ່ນສ່ວນ ຫນຶ່ງ ຂອງກົດດັງນັ້ນ.
+
+1048
+01:08:48,800 --> 01:08:50,900
+[CROWD NOISE]
+We want Willie. We want Willie.
+ພວກເຮົາຢາກວິລລີ. ພວກເຮົາຢາກວີລີ.
+
+1049
+01:08:51,400 --> 01:08:57,400
+[ANNOUNCER]
+Attention, please. Attention, please. This is a special announcement from Willie Stark to you people out there. He doesn't want any one of you to leave...
+ລະມັດລະວັງ, ກະລຸນາ. ລະເມີນລະເມີດ. ນີ້ແມ່ນການປະກາດພິເສດຈາກວີລີ
+ສຕາກກະລຸນາໃຫ້ເຈົ້າຄົນຢູ່ນອກນັ້ນ. ລາວບໍ່ຢາກໃຫ້ໃຜອອກຈາກເຈົ້າ...
+
+1050
+01:08:57,900 --> 01:09:03,900
+[ANNOUNCER]
+He wants you to stay in front of this state Capitol until the fight is over. If you want Willie Stark to win, stay where you are.
+ລາວຢາກໃຫ້ເຈົ້າຢູ່ຕໍ່ຫນ້ານະຄອນຫຼວງຂອງລັດນີ້ຈົນກວ່າການຕໍ່ສູ້ຈະສິ້ນສຸດລົງ
+. ຖ້າເຈົ້າຢາກໃຫ້ວີລີ ສຕາກຊະນະ, ຢູ່ບ່ອນທີ່ທ່ານຢູ່.
+
+1051
+01:09:04,400 --> 01:09:10,400
+[ANNOUNCER]
+Do you hear me... stay where you are. Don't go away. Stay where you are. Don't go away.
+ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ... ຢູ່ບ່ອນທີ່ເຈົ້າຢູ່
+. ຢ່າໄປ. ຢູ່ບ່ອນທີ່ທ່ານຢູ່. ບໍ່ໄປ.
+
+1052
+01:09:10,900 --> 01:09:16,900
+[ANNOUNCER]
+Attention, please. Attention, please. The balloting on the impeachment proceedings against Governor Stark has just ended. This is the result: Willie Stark has won.
+ລະມັດລະວັງ, ກະລຸນາ. ລະວັງແມ. ການລົງຄະແນນສຽງກ່ຽວກັບການດໍາເນີນຄະດີການຟ້ອງຮ້ອງຕໍ່ຜູ້ປົກຄອງສຕາກຫາກໍ່ສິ້ນສຸດລົງແລ້ວ
+. ນີ້ແມ່ນຜົນໄດ້ຮັບ: ວີລີ ສຕາກໄດ້ຊະນະ.
+
+1053
+01:09:17,400 --> 01:09:23,400
+[WILLIE]
+They tried to ruin me. But they are ruined. They tried to ruin me because they did not like what I have done. Do you like what I have done?
+ພວກເຂົາພະຍາຍາມທໍາລາຍຂ້ອຍ. ແຕ່ພວກເຂົາຖືກທໍາລາຍ. ພວກເຂົາພະຍາຍາມ ທໍາ
+ລາຍຂ້ອຍເພາະວ່າພວກເຂົາບໍ່ມັກສິ່ງທີ່ຂ້ອຍເຮັດ. ເຈົ້າມັກສິ່ງທີ່ຂ້າພະເຈົ້າເຮັດບໍ?
+
+1054
+01:09:23,900 --> 01:09:29,900
+[WILLIE]
+Remember, it's not I who have won, but you. Your will is my strength, and your need is my justice, and I shall live in your right and your will. And if any man tries to stop me from fulfilling that right and that will, I'll break him. I'll break him with my bare hands. For I have the strength of many.
+ຈື່ໄວ້ວ່າ, ບໍ່ແມ່ນຂ້ອຍທີ່ໄດ້ຊະນະ, ແຕ່ເຈົ້າ. ຄວາມຕ້ອງການຂອງເຈົ້າແມ່ນຄວາມເຂັ້ມແຂງຂອງຂ້ອຍ, ແລະຄວາມຕ້ອງການຂອງທ່ານແມ່ນຄວາມຍຸຕິ ທໍາ ຂອງຂ້ອຍ, ແລະຂ້ອຍຈະດໍາລົງຊີວິດໃນສິດທິຂອງທ່ານແລະຄວາມຢາກຂອງທ່ານ
+. ແລະຖ້າຜູ້ຊາຍໃດພະຍາຍາມຢຸດຂ້ອຍຈາກການປະຕິບັດສິດທິນັ້ນແລະຄວາມຕ້ອງການນັ້ນ, ຂ້ອຍຈະທໍາລາຍລາວ. ຂ້ອຍຈະ ທໍາ ລາຍລາວດ້ວຍມືເປົ່າຂອງຂ້ອຍ. ເພາະວ່າຂ້ອຍມີຄວາມແຂງແຮງຂອງຫຼາຍຄົນ.
+
+1055
+01:09:30,400 --> 01:09:34,600
+[WILLIE]
+Hello, Jack boy, I'm glad you're here. I knew you'd come back.
+ສະບາຍດີ, ເດັກຊາຍແຈກ, ຂ້ອຍດີໃຈທີ່ເຈົ້າຢູ່ບ່ອນນີ້
+. ຂ້ອຍຮູ້ວ່າເຈົ້າຈະກັບມາ.
+
+1056
+01:09:35,100 --> 01:09:37,900
+[WILLIE]
+Oh, doctor, I'm very glad to see you.
+ໂອ້ ດອກຕໍ, ຂ້ອຍດີໃຈຫຼາຍທີ່ເຫັນເຈົ້າ.
+
+1057
+01:09:38,400 --> 01:09:40,400
+[COP]
+Stand back, everybody. Stand back.
+ຢືນຢູ່ເບື້ອງຫຼັງ, ທຸກຄົນ. ຢືນຢູ່ໃນເບື້ອງຫລັງ.
+
+1058
+01:09:40,900 --> 01:09:44,400
+[SUGAR BOY]
+D-does it hurt m-much, boss? D-d- does it hurt much?
+ມັນເຈັບປວດຫຼາຍບໍ, ຫົວຫນ້າ? D-d - ມັນເຈັບຫຼາຍບໍ?
+
+1059
+01:09:44,900 --> 01:09:47,000
+[JACK]
+Anne, Anne... Where are you going?
+ແອນ, ແອນ... ເຈົ້າໄປໃສ?
+
+1060
+01:09:47,500 --> 01:09:49,600
+[ANNE]
+I don't know. Leave me alone.
+ຂ້ອຍບໍ່ຮູ້. ຢ່າມາຍຸ້ງກັບຂ້ອຍ.
+
+1061
+01:09:50,100 --> 01:09:52,100
+[JACK]
+To do what?
+ເພື່ອເຮັດຫຍັງ?
+
+1062
+01:09:52,600 --> 01:09:54,600
+[ANNE]
+I don't care.
+ຂ້ອຍບໍ່ສົນໃຈ.
+
+1063
+01:09:55,100 --> 01:09:57,100
+[JACK]
+No, that's too easy.
+ບໍ່, ມັນງ່າຍເກີນໄປ.
+
+1064
+01:09:57,600 --> 01:10:00,750
+[ANNE]
+I don't know, I don't know, I don't know.
+ຂ້ອຍບໍ່ຮູ້, ຂ້ອຍບໍ່ຮູ້ວ່າ, ຂ້ອຍບໍ່ໄດ້ຮູ້.
+
+1065
+01:10:01,250 --> 01:10:03,250
+[JACK]
+I do.
+ຂ້ອຍເຮັດ.
+
+1066
+01:10:03,750 --> 01:10:05,750
+[ANNE]
+Leave me alone, please.
+ຢ່າມາຍຸ້ງກັບຂ້ອຍ, ກະລຸນາ.
+
+1067
+01:10:06,250 --> 01:10:08,250
+[JACK]
+No, no more.
+ບໍ່, ບໍ່ອີກຕໍ່ໄປ.
+
+1068
+01:10:08,750 --> 01:10:10,750
+[ANNE]
+He's dead.
+ລາວຕາຍແລ້ວ.
+
+1069
+01:10:11,250 --> 01:10:13,250
+[JACK]
+We're alive.
+ພວກເຮົາຍັງມີຊີວິດຢູ່.
+
+1070
+01:10:13,750 --> 01:10:15,750
+[ANNE]
+My brother's dead.
+ອ້າຍຂອງຂ້ອຍຕາຍແລ້ວ.
+
+1071
+01:10:16,250 --> 01:10:18,350
+[JACK]
+We've got to go on living.
+ພວກເຮົາຕ້ອງສືບຕໍ່ດໍາລົງຊີວິດ.
+
+1072
+01:10:18,850 --> 01:10:20,850
+[ANNE]
+How?
+ແນວໃດ?
+
+1073
+01:10:21,350 --> 01:10:27,350
+[JACK]
+So that Adam's death has meaning, so that it wasn't wasted. Anne, our life has to give his death meaning. Don't you see that? Look at those people...
+ເພື່ອໃຫ້ຄວາມຕາຍຂອງອາດາມມີຄວາມ ຫມາຍ, ເພື່ອວ່າມັນຈະບໍ່ເສຍຫາຍ. ແອນ,
+ຊີວິດຂອງພວກເຮົາຕ້ອງໃຫ້ຄວາມ ຫມາຍ ຂອງຄວາມຕາຍຂອງລາວ. ເຈົ້າບໍ່ເຫັນບໍ? ເບິ່ງຄົນນັ້ນ...
+
+1074
+01:10:27,850 --> 01:10:33,850
+[JACK]
+Look at them! They still believe in him. And we've got to make them see Willie the way Adam saw him, or there's no meaning in anything... anything.
+ເບິ່ງພວກເຂົາແມ! ພວກເຂົາຍັງເຊື່ອໃນລາວ. ແລະພວກເຮົາຕ້ອງເຮັດໃຫ້ພວກເຂົາເຫັນວີລີຕາມວິທີທີ່ອາດາມເຫັນລາວ
+, ຫຼືບໍ່ມີຄວາມ ຫມາຍ ໃນຫຍັງເລີຍ... ຫຍັງເລີຍ.
+
+1075
+01:10:34,350 --> 01:10:38,900
+[POLICEMAN]
+Mr. Burden... the governor's asking for you. You better hurry. He's going fast.
+ທ່ານ ບາເດັນ... ຜູ້ປົກຄອງ ກໍາ ລັງຖາມທ່ານ
+. ເຈົ້າຄວນໄວຂຶ້ນ. ລາວ ກໍາ ລັງໄປໄວ.
+
+1076
+01:10:39,400 --> 01:10:41,400
+[JACK]
+Will you wait here?
+ເຈົ້າຈະລໍຖ້າຢູ່ບ່ອນນີ້ບໍ?
+
+1077
+01:10:41,900 --> 01:10:43,900
+[JACK]
+Will you wait here?
+ເຈົ້າຈະລໍຖ້າຢູ່ບ່ອນນີ້ບໍ?
+
+1078
+01:10:44,400 --> 01:10:50,400
+[WILLIE]
+It could have been the whole world, Willie Stark. The whole world... Willie Stark. Why did he do it to me... Willie Stark? Why?
+ມັນອາດຈະເປັນໂລກທັງ ຫມົດ, ວີລີ ສຕາກ. ໂລກທັງ ຫມົດ... ວີລລີ
+ສຕະກ໌. ເປັນຫຍັງລາວຈຶ່ງເຮັດມັນກັບຂ້ອຍ... ວິລລີສຕາກ? ເປັນຫຍັງ?
+

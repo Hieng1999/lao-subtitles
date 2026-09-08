@@ -1,0 +1,4516 @@
+1
+00:00:10,000 --> 00:00:16,000
+[ARBLUS]
+Transform and flee, Kranix! You must warn all you meet of the horror of Unicron! Suddenly, the pitiful creature is surrounded by the strange energy cloud and it looks like his body has simultaneously caught fire and been doused with acid.
+ປ່ຽນແປງແລະຫນີ, ຄຣານິກສ໌! ເຈົ້າຕ້ອງເຕືອນທຸກຄົນທີ່ທ່ານພົບກ່ຽວກັບຄວາມຢ້ານກົວຂອງ Unicron! ທັນທີ,
+ສັດທີ່ໂຊກຮ້າຍຖືກອ້ອມຮອບໂດຍເມົາພະລັງງານທີ່ແປກໃຈແລະມັນເບິ່ງຄືວ່າຮ່າງກາຍຂອງລາວໄດ້ຈັບໄຟໃນເວລາດຽວກັນແລະຖືກສີດດ້ວຍອາຊິດ.
+
+2
+00:00:16,500 --> 00:00:18,500
+[KRANIX]
+Arblus!   No!
+ອາຣບລັສ! ບໍ່!
+
+3
+00:00:19,000 --> 00:00:25,000
+[NARRATOR]
+It is the year 2005. The treacherous Decepticons have conquered the Autobots' home planet of Cybertron. But from secret staging grounds on two of Cybertron's moons the valiant Autobots prepare to retake their homeland.
+ມັນແມ່ນປີ 2005. ພວກ Decepticons ທີ່ໂຊກແຊງໄດ້ເອົາຊະນະໂລກບ້ານຂອງ Autobots ຂອງ Cybertron.
+ແຕ່ຈາກພື້ນທີ່ການຈັດຕັ້ງລັບໃນສອງດວງຈັນຂອງ Cybertron ໄດ້ autobots ທີ່ກ້າຫານກຽມພ້ອມທີ່ຈະເອົາບ້ານເກີດຂອງພວກເຂົາຄືນ.
+
+4
+00:00:25,500 --> 00:00:31,500
+[IRONHIDE]
+Every time I look into this thing, my circuits sizzle. I'm tired of this waiting game, Prime. When are we gonna start bustin' Deceptichops?
+ທຸກຄັ້ງທີ່ຂ້ອຍເບິ່ງສິ່ງນີ້, ວົງຈອນຂອງຂ້ອຍສັ່ນສະເທືອນ. ຂ້ອຍເມື່ອຍຈາກເກມລໍຖ້ານີ້
+, ນາຍົກລັດຖະມົນຕີ. ພວກເຮົາຈະເລີ່ມຕົ້ນບິດ Deceptichops ເມື່ອໃດ?
+
+5
+00:00:32,000 --> 00:00:36,900
+[OPTIMUS PRIME]
+We still don't have enough Energon cubes to power a full scale assault, Ironhide.
+ພວກເຮົາຍັງບໍ່ມີກ້ອນພະລັງງານພຽງພໍທີ່ຈະເຮັດໃຫ້ການໂຈມຕີຢ່າງເຕັມທີ່
+, Ironhide.
+
+6
+00:00:37,400 --> 00:00:43,400
+[IRONHIDE]
+Then let me make another run to Autobot City on Earth. I'll bring you back more cubes than you'll know what to do with.
+ຫຼັງຈາກນັ້ນປ່ອຍໃຫ້ຂ້ອຍແລ່ນອີກຄັ້ງໄປເມືອງອອດໂບຕ໌ໃນໂລກ
+. ຂ້ອຍຈະເອົາກ້ອນຫຼາຍກ່ວາທີ່ທ່ານຈະຮູ້ວ່າຈະເຮັດຫຍັງກັບ.
+
+7
+00:00:43,900 --> 00:00:46,000
+[PRIME]
+Alright, ready the shuttle for launch.
+ດີແລ້ວ, ກະກຽມເຮືອຂົນສົ່ງ ສໍາ ລັບການເປີດຕົວ.
+
+8
+00:00:46,500 --> 00:00:48,600
+[YAHOO!]
+Your days are numbered now Decepticreeps.
+ມື້ຂອງເຈົ້າຖືກນັບແລ້ວ Decepticreeps.
+
+9
+00:00:49,100 --> 00:00:51,100
+[OPTIMUS PRIME]
+Jazz,    report security status.
+ຈາສ໌, ລາຍງານສະຖານະການຄວາມປອດໄພ.
+
+10
+00:00:51,600 --> 00:00:54,400
+[JAZZ]
+No sign of Decepticons in this sector, Prime.
+ບໍ່ມີສັນຍານຂອງ Decepticons ໃນພາກສ່ວນນີ້, ນາຍົກລັດຖະມົນຕີ.
+
+11
+00:00:54,900 --> 00:00:56,900
+[PRIME]
+What about Moon Base 2?
+ແລະຖານດວງຈັນ 2 ແນວໃດ?
+
+12
+00:00:57,400 --> 00:00:59,400
+[JAZZ]
+Jazz to Moon Base 2.
+ຈາຊ໌ໄປຖານດວງຈັນ 2.
+
+13
+00:00:59,900 --> 00:01:05,900
+[ANOTHER MOON]
+This is the second moon. It is much closer to Cybertron than the first one. This is where Bumblebee and Spike are stationed.
+ນີ້ແມ່ນດວງຈັນທີສອງ. ມັນໃກ້ຊິດກັບໄຊບີຕຣອນຫຼາຍກ່ວາຄັ້ງ
+ທໍາ ອິດ. ນີ້ແມ່ນບ່ອນທີ່ບໍາບີແລະສປາຍກ໌ຕັ້ງຢູ່.
+
+14
+00:01:06,400 --> 00:01:08,400
+[JAZZ]
+Jazz to Moon Base 2.
+ຈາຊ໌ໄປຖານດວງຈັນ 2.
+
+15
+00:01:08,900 --> 00:01:10,900
+[BUMBLEBEE]
+Bumblebee and Spike here.
+ບໍາບີແລະສປາຍກ໌ຢູ່ບ່ອນນີ້.
+
+16
+00:01:11,400 --> 00:01:15,950
+[JAZZ]
+We're about to send up the bird. Any Decepticon shenanigans in your sector?
+ພວກເຮົາ ກໍາ ລັງຈະສົ່ງນົກຂຶ້ນ. ມີການກະຕຸ້ນ
+Decepticon ໃດໃນຂະແຫນງການຂອງທ່ານບໍ?
+
+17
+00:01:16,450 --> 00:01:18,450
+[BUMBLEBEE]
+All clear, Jazz.
+ສະອາດແລ້ວ, ຈາຊ໌.
+
+18
+00:01:18,950 --> 00:01:24,950
+[SPIKE]
+Hey,   Ironhide, tell my son, Daniel, I miss   him, and tell him I'll be coming home   as soon as we've kicked Megatron's tail   across the galaxy.
+ເຮ້, Ironhide, ບອກລູກຊາຍຂອງຂ້ອຍ, ດານີເລ, ຂ້ອຍຂາດລາວ,
+ແລະບອກລາວວ່າຂ້ອຍຈະກັບບ້ານທັນທີທີ່ພວກເຮົາໄດ້ຕີຫອຍຂອງເມກາຕຣອນຂ້າມກາວທຽມ.
+
+19
+00:01:25,450 --> 00:01:27,450
+[IRONHIDE]
+Will do, Spike.
+ຈະເຮັດໄດ້, ສະປາຍກ໌.
+
+20
+00:01:27,950 --> 00:01:29,950
+[PRIME]
+Commence countdown, Cliffjumper.
+ເລີ່ມການນັບຄືນ, Cliffjumper.
+
+21
+00:01:30,450 --> 00:01:32,450
+[CLIFFJUMPER]
+Five...Four...Three...Two...
+ຫ້າ... ສີ່... ສາມ... ສອງ...
+
+22
+00:01:32,950 --> 00:01:34,950
+[CLIFFJUMPER]
+One....
+ຫນຶ່ງ...
+
+23
+00:01:35,450 --> 00:01:37,450
+[CLIFFJUMPER]
+Liftoff.
+ການຍົກຂຶ້ນ.
+
+24
+00:01:37,950 --> 00:01:42,500
+[PRIME]
+Now, all we need is a little Energon and a lot of luck.
+ດຽວນີ້, ສິ່ງດຽວທີ່ພວກເຮົາຕ້ອງການແມ່ນພະລັງງານນ້ອຍໆແລະໂຊກດີຫຼາຍ.
+
+25
+00:01:43,000 --> 00:01:47,550
+[PROWL]
+Slow down, Ironhide. We want to get to Autobot city in one piece.
+ຊ້າລົງ, Ironhide. ພວກເຮົາຢາກໄປຫາເມືອງ Autobot ໃນສິ້ນດຽວ.
+
+26
+00:01:48,050 --> 00:01:53,650
+[IRONHIDE]
+If I can dodge Dececpticon rays, I can sure as shootin' dodge a couple of asteroids.
+ຖ້າຂ້ອຍສາມາດຫຼີກເວັ້ນແສງ Dececpticon ໄດ້,
+ຂ້ອຍສາມາດແນ່ນອນວ່າສາມາດຫລີກເວັ້ນສອງສາມດາວທຽມໄດ້.
+
+27
+00:01:54,150 --> 00:01:56,150
+[PROWL]
+You were saying?
+ເຈົ້າ ກໍາ ລັງເວົ້າບໍ?
+
+28
+00:01:56,650 --> 00:02:01,900
+[IRONHIDE]
+That wasn't an asteroid. There is a blast of light and they turn to see...
+ນັ້ນບໍ່ແມ່ນດາວທຽມ. ມີການລະເບີດແສງສະຫວ່າງແລະພວກເຂົາຫັນໄປເບິ່ງ...
+
+29
+00:02:02,400 --> 00:02:04,400
+[MEGATRON]
+Die Autobots!
+ຕາຍອອດໂບຕ໌!
+
+30
+00:02:04,900 --> 00:02:07,350
+[BRAWN]
+is cut in half by Megatron's blast.
+ຖືກຕັດເປັນເຄິ່ງຫນຶ່ງໂດຍການລະເບີດຂອງ Megatron ໄດ້.
+
+31
+00:02:07,850 --> 00:02:09,850
+[ON PROWL]
+as SCAVENGER MELTS HIM DOWN.
+ໃນຖານະເປັນ SCAVENGER MELTS ລາວລົງ.
+
+32
+00:02:10,350 --> 00:02:16,350
+[THE INSECTICONS]
+...eat away at the hole in the shuttle to make way for... ...an ARMY of other Decepticons including Laserbeak who enter, firing.
+... ກິນໄປຢູ່ຮູໃນເຮືອຂົນສົ່ງເພື່ອເຮັດໃຫ້ມີບ່ອນ ສໍາ ລັບ......
+ກອງທັບຂອງ Decepticons ອື່ນໆລວມທັງ Laserbeak ທີ່ເຂົ້າມາ, ຍິງ.
+
+33
+00:02:16,850 --> 00:02:18,950
+[MEGATRON]
+This was almost too easy, Starscream.
+ນີ້ແມ່ນເກືອບງ່າຍເກີນໄປ, Starscream.
+
+34
+00:02:19,450 --> 00:02:24,350
+[STARSCREAM]
+Much easier, oh mighty Megatron, than attacking the real threat: the Autobots moon base.
+ງ່າຍກວ່າຫຼາຍ, ໂອ້ ເມກາຕຣອນທີ່ເຂັ້ມແຂງ,
+ກ່ວາການໂຈມຕີໄພຂົ່ມຂູ່ທີ່ແທ້ຈິງ: ຖານທໍານຽບດວງຈັນຂອງໂອໂຕໂບຕ໌.
+
+35
+00:02:24,850 --> 00:02:30,850
+[MEGATRON]
+You're an idiot, Starscream. Were we simply to wipe out that minuscule base, they could build another one.
+ເຈົ້າເປັນຄົນໂງ່, Starscream. ຖ້າພວກເຮົາພຽງແຕ່ທໍາລາຍຖານທີ່ນ້ອຍໆນັ້ນ
+, ພວກເຂົາສາມາດສ້າງອີກຫນຶ່ງໄດ້.
+
+36
+00:02:31,350 --> 00:02:37,350
+[MEGATRON]
+But when we slip by their security systems in their own ship and destroy Autobot city, the Autobots will be vanquished forever!
+ແຕ່ເມື່ອພວກເຮົາລອຍຜ່ານລະບົບຄວາມປອດໄພຂອງພວກເຂົາໃນເຮືອຂອງພວກເຂົາເອງແລະ
+ທໍາ ລາຍເມືອງອອດໂບຕ໌, ອອດໂບບຕ໌ຈະຖືກເອົາຊະນະຕະຫຼອດໄປ!
+
+37
+00:02:37,850 --> 00:02:39,850
+[IRONHIDE]
+Fat chance, Megatron!
+ໂອກາດທີ່ຫນາແຫນ້ນ, ເມກາຕຣອນ!
+
+38
+00:02:40,350 --> 00:02:42,350
+[MEGATRON]
+Such heroic nonsense!
+ຄວາມໂຊກຮ້າຍທີ່ວິລະຊົນຫຼາຍປານໃດ!
+
+39
+00:02:42,850 --> 00:02:45,300
+[DANIEL]
+The Shuttle just zipped past checkpoint zeta.
+ເຮືອບິນສົ່ງຫາກໍ່ zip ຜ່ານຈຸດກວດກາ zeta ໄດ້.
+
+40
+00:02:45,800 --> 00:02:51,800
+[ON DANIEL]
+Daniel, a classic twelve year old American boy watches the portable viewer which is like an over-sized Boy Scout compass. WIDEN SHOT to show he is at an old fashioned "fishin' hole" on Earth - surrounded by weeping willows, assorted trees and shrubs, and that his fishing pole is stuck in the dirt, the line floating lazily out on the water.
+ດານີເລ, ເດັກຊາຍອາເມຣິກັນອາຍຸສິບສອງປີທີ່ຄລາສສິກເບິ່ງຜູ້ເບິ່ງມືຖືທີ່ຄ້າຍຄືກັບກະທູ້ Boy Scout ຂະຫນາດເກີນໄປ. ການຍິງຢ່າງກວ້າງຂວາງເພື່ອສະແດງໃຫ້ເຫັນວ່າລາວຢູ່ໃນ"ຮູຫາປາ"
+ແບບເກົ່າແກ່ໃນໂລກ - ອ້ອມຮອບດ້ວຍປ່າໄມ້ທີ່ຮ້ອງໄຫ້, ຕົ້ນໄມ້ແລະຕົ້ນໄມ້ທີ່ຫຼາກຫຼາຍ, ແລະວ່າກະດານຫາປາຂອງລາວຕິດຢູ່ໃນດິນ, ເສັ້ນລອຍອອກໃນນ້ ໍາ.
+
+41
+00:02:52,300 --> 00:02:58,300
+[DANIEL]
+Let's watch Ironhide land it, Hot Rod! As Daniel runs to small skateboard-like device, hits a button, and watches, it transforms into a hoverboard and rides it, like a surfer up a steep, grassy hillside we change angle to feature...
+ຄຸເຂົ່າລົງ
+
+42
+00:02:58,800 --> 00:03:04,800
+[HOT ROD]
+an "adolescent" Autobot. He is in robot mode, sitting with his fishing rod held between two fingers, looking bored with it all.
+ລາວຢູ່ໃນໂຫມດຫຸ່ນຍົນ, ນັ່ງກັບກະດານຫາປາຂອງລາວຖືກຈັບລະຫວ່າງສອງນິ້ວມື
+, ເບິ່ງຄືວ່າເມື່ອຍກັບມັນທັງ ຫມົດ.
+
+43
+00:03:05,300 --> 00:03:07,300
+[HOT ROD]
+Talk about dull......!
+ເວົ້າກ່ຽວກັບຄວາມໂຊກຮ້າຍ......!
+
+44
+00:03:07,800 --> 00:03:09,800
+[DANIEL]
+Hurry or we'll miss it!
+ໄວຫຼືພວກເຮົາຈະພາດມັນ!
+
+45
+00:03:10,300 --> 00:03:12,300
+[HOT ROD]
+lopes up hill after Daniel.
+ຍ່າງຂຶ້ນພູຕາມດານີເລ.
+
+46
+00:03:12,800 --> 00:03:18,800
+[HOT ROD]
+If you're gonna ride, Dan-O ...ride in style! Hot Rod catches up with Daniel, scoops him off his hoverboard, TRANSFORMS to automotive mode and RIDES OVER CREST OF HILL with Daniel in the front seat.
+ຖ້າເຈົ້າຈະຂີ່ລົດ, ດານໂອ... ຂີ່ລົດແບບ! ກະດານຮ້ອນຈັບດານີເລຍ, ເອົາລາວອອກຈາກກະດານ hoverboard
+ຂອງລາວ, ປ່ຽນເປັນໂຫມດລົດແລະຂີ່ຜ່ານ Crest ຂອງ Hill ກັບດານນີເລຍໃນບ່ອນນັ່ງທາງຫນ້າ.
+
+47
+00:03:19,300 --> 00:03:21,300
+[DANIEL]
+Hey!   Let me out.
+ເຮ້! ໃຫ້ຂ້ອຍອອກໄປ.
+
+48
+00:03:21,800 --> 00:03:26,350
+[HOT ROD]
+Why settle for a peek when you can see everything from Lookout Mountain?
+ເປັນຫຍັງຈຶ່ງຍອມຮັບການເບິ່ງເມື່ອເຈົ້າສາມາດເຫັນທຸກຢ່າງຈາກພູ
+Lookout ໄດ້?
+
+49
+00:03:26,850 --> 00:03:30,000
+[DANIEL]
+But we're not supposed to go beyond City limits!
+ແຕ່ພວກເຮົາບໍ່ຄວນໄປເກີນຂອບເຂດຂອງເມືອງ!
+
+50
+00:03:30,500 --> 00:03:32,500
+[HOT ROD]
+Chromo-Chicken!
+ໄກ່ຄຣອມໂມ!
+
+51
+00:03:33,000 --> 00:03:35,800
+[KUP]
+disgustedly watches Hot Rod drive up the mountain.
+ເບິ່ງ Hot Rod ຂັບລົດຂຶ້ນພູດ້ວຍຄວາມກຽດຊັງ.
+
+52
+00:03:36,300 --> 00:03:38,400
+[KUP]
+Cam bustin', turbo revvin' young punk.
+ຄາມບູສຕິນ, ທູບູຟື້ນຟູຄົນໂຊກຮ້າຍຫນຸ່ມ.
+
+53
+00:03:38,900 --> 00:03:42,400
+[HOT ROD]
+This is it! Now take a squint through those babies.
+ນີ້ແມ່ນມັນ! ດຽວນີ້ເບິ່ງເດັກນ້ອຍເຫລົ່ານັ້ນ.
+
+54
+00:03:42,900 --> 00:03:46,050
+[DANIEL]
+Hot Rod, look! There's a hole in the shuttle!
+ໂຣດຮ້ອນ, ເບິ່ງ! ມີຮູໃນເຮືອຂົນສົ່ງ!
+
+55
+00:03:46,550 --> 00:03:48,550
+[HOT ROD]
+What!?
+ຫຍັງ!?
+
+56
+00:03:49,050 --> 00:03:51,050
+[HOT ROD]
+Decepticons!
+Decepticons!
+
+57
+00:03:51,550 --> 00:03:54,000
+[HOT ROD]
+This is for Ironhide.    As so's this!
+ນີ້ແມ່ນສໍາລັບ Ironhide. ເຊັ່ນດຽວກັນກັບສິ່ງນີ້!
+
+58
+00:03:54,500 --> 00:03:56,600
+[STARSCREAM]
+He ducks away from the door.
+ລາວຫຼົບຫນີຈາກປະຕູ.
+
+59
+00:03:57,100 --> 00:03:59,100
+[STARSCREAM]
+I'm hit!
+ຂ້ອຍຖືກຕີແລ້ວ!
+
+60
+00:03:59,600 --> 00:04:01,600
+[THE CONSTRUCTICONS]
+Firing out of the hole.
+ການຍິງອອກຈາກຮູ.
+
+61
+00:04:02,100 --> 00:04:04,100
+[MEGATRON]
+He's furious.
+ລາວໂຊກຮ້າຍ.
+
+62
+00:04:04,600 --> 00:04:06,700
+[MEGATRON]
+You imbecile, our cover is blown!
+ເຈົ້າໂຊກຮ້າຍ, ການປົກຄຸມຂອງພວກເຮົາຖືກລະເບີດ!
+
+63
+00:04:07,200 --> 00:04:09,200
+[STARSCREAM]
+It was your stupid strategy!
+ມັນເປັນຍຸດທະສາດໂງ່ຂອງເຈົ້າ!
+
+64
+00:04:09,700 --> 00:04:13,200
+[KUP]
+What's that darn fool doing? Hound looks up and points.
+ຄົນໂງ່ຄົນນັ້ນ ກໍາ ລັງເຮັດຫຍັງ? ຫມາເບິ່ງຂຶ້ນແລະຊີ້ໃຫ້ເຫັນ.
+
+65
+00:04:13,700 --> 00:04:15,700
+[HOUND]
+Decepticons!
+Decepticons!
+
+66
+00:04:16,200 --> 00:04:18,200
+[MEGATRON]
+Attack!
+ການໂຈມຕີ!
+
+67
+00:04:18,700 --> 00:04:20,700
+[HOT ROD]
+Hang on!
+ລໍຖ້າ!
+
+68
+00:04:21,200 --> 00:04:23,200
+[HOT ROD]
+WHoooooooaaah
+ໂວ້ໂວ້
+
+69
+00:04:23,700 --> 00:04:25,700
+[BLITZWING]
+Come on down, Autobrat!
+ມາລົງ, Autobrat!
+
+70
+00:04:26,200 --> 00:04:28,200
+[HOT ROD]
+Yiiiiiiiiii!
+Yiiiiiiiii!
+
+71
+00:04:28,700 --> 00:04:30,700
+[ON BLITZWING]
+about to fire, when...
+ເກືອບຈະຍິງ, ເມື່ອ...
+
+72
+00:04:31,200 --> 00:04:33,200
+[SHRAPNEL]
+who is flying nearby.
+ຜູ້ທີ່ບິນຢູ່ໃກ້ໆ.
+
+73
+00:04:33,700 --> 00:04:39,700
+[BLITZWING]
+transforms to robot mode and turns as... Kup comes flying, feet first, into Blitzwing knocking him off the mountain ledge.
+ປ່ຽນເປັນໂຫມດຫຸ່ນຍົນແລະຫັນເປັນ... Kup ມາບິນ,
+ຕີນກ່ອນ, ເຂົ້າໄປໃນ Blitzwing ເຮັດໃຫ້ລາວຕົກຈາກແຄມພູ.
+
+74
+00:04:40,200 --> 00:04:42,300
+[HOT ROD]
+Not bad for an old timer!
+ບໍ່ຮ້າຍແຮງ ສໍາ ລັບເວລາເກົ່າ!
+
+75
+00:04:42,800 --> 00:04:48,800
+[KUP]
+Old timer?! That's something you'll never be if you don't get back to the city. You know what we used to do with cocky, insubordinate upstarts?
+ເຈົ້າຮູ້ບໍວ່າພວກເຮົາເຄີຍເຮັດຫຍັງກັບຄົນເລີ່ມຕົ້ນທີ່ກ້າຫານ
+, ບໍ່ຍອມຮັບ?
+
+76
+00:04:49,300 --> 00:04:51,300
+[HOT ROD]
+Save it.
+ຮັກສາມັນໄວ້.
+
+77
+00:04:51,800 --> 00:04:55,650
+[STARSCREAM]
+transforming into jet mode, fires on them with laser bursts which...
+ປ່ຽນເປັນໂຫມດເຮືອບິນ, ຍິງໃສ່ພວກມັນດ້ວຍການລະເບີດເລເຊີເຊິ່ງ...
+
+78
+00:04:56,150 --> 00:05:02,150
+[PERCEPTOR]
+transforms to humanoid and runs toward...... ... Three new Autobots, ARCEE, a lovely female Autobot of about Hot Rod's age, SPRINGER, a very muscular and bantering "Indiana Jones" type Autobot and ULTRA MAGNUS, the large and soldierly City Commander.
+ປ່ຽນແປງເປັນ humanoid ແລະແລ່ນໄປສູ່......... ສາມ Autobots ໃຫມ່, ARCEE, ເປັນ Autobot ແມ່ຍິງທີ່ຫນ້າຮັກຂອງປະມານອາຍຸຂອງ Hot
+Rod ໄດ້, SPRINGER, ເປັນປະເພດ"Indiana Jones" ທີ່ກ້າມຊີ້ນຫຼາຍແລະໂຊກຮ້າຍແລະ ULTRA MAGNUS, ຜູ້ບັນຊາການເມືອງທີ່ໃຫຍ່ແລະທະຫານ.
+
+79
+00:05:02,650 --> 00:05:06,850
+[PERCEPTOR]
+Ultra Magnus.....a cursory evaluation of Decepticon capability indicates a distinct tactical deficit!
+Ultra Magnus..... ການປະເມີນຄວາມສາມາດ Decepticon
+ຢ່າງກະທັນຫັນຊີ້ໃຫ້ເຫັນຄວາມຂາດແຄນທາງເຄື່ອນໄຫວທີ່ແຕກຕ່າງກັນ!
+
+80
+00:05:07,350 --> 00:05:09,350
+[ULTRA MAGNUS]
+In other words, Perceptor...
+ເວົ້າອີກຢ່າງຫນຶ່ງ, ຜູ້ຮັບຮູ້...
+
+81
+00:05:09,850 --> 00:05:11,850
+[SPRINGER]
+We're outnumbered!
+ພວກເຮົາມີຈໍານວນຫນ້ອຍກວ່າ!
+
+82
+00:05:12,350 --> 00:05:14,350
+[ULTRA MAGNUS]
+Springer, Arcee, transform Autobot City!
+ສະປຣິງເກີ, ອາຣຊີ, ປ່ຽນເມືອງໂອໂຕໂບຕ໌!
+
+83
+00:05:14,850 --> 00:05:16,850
+[STARSCREAM]
+Pathetic fools!
+ຄົນໂງ່ທີ່ໂຊກຮ້າຍ!
+
+84
+00:05:17,350 --> 00:05:21,550
+[STARSCREAM]
+TRANSFORMS and hovers in robot mode, firing all around them as they...
+ປ່ຽນແປງແລະຍ່າງຢູ່ໃນໂຫມດຫຸ່ນຍົນ,
+ຍິງຢູ່ອ້ອມຂ້າງພວກເຂົາໃນຂະນະທີ່ພວກເຂົາ...
+
+85
+00:05:22,050 --> 00:05:28,050
+[STARSCREAM]
+There's no escape...Uuuuh! Just then, the floor of the courtyard STARTS TRANSFORMING - - the center line of the floor snaps shut like the halves of a gigantic steel shelled clam, trapping Starscream's foot.
+ບໍ່ມີທາງຫນີ... Uuuuh! ພຽງແຕ່ໃນເວລານັ້ນ, ພື້ນຂອງເດີ່ນເລີ່ມຕົ້ນການປ່ຽນແປງ - -
+ເສັ້ນກາງຂອງພື້ນປິດລົງຄືກັບເຄິ່ງຫນຶ່ງຂອງແມງໄມ້ທີ່ຖືກຍິງດ້ວຍເຫຼັກຂະຫນາດໃຫຍ່, ຈັບຕີນຂອງ Starscream ໄດ້.
+
+86
+00:05:28,550 --> 00:05:30,550
+[STARSCREAM]
+Agggggggh!     My foot!
+Aggggggggh! ຕີນຂອງຂ້ອຍ!
+
+87
+00:05:31,050 --> 00:05:34,900
+[ON MEGATRON]
+as he FLIES OVER SCENE, BLASTING this way and that, shouting
+ໃນຂະນະທີ່ລາວບິນຜ່ານເວທີ, ການລະເບີດທາງນີ້ແລະນັ້ນ, ຮ້ອງໄຫ້
+
+88
+00:05:35,400 --> 00:05:37,400
+[MEGATRON]
+Breach their defenses!
+ລະເມີດການປ້ອງກັນຂອງພວກເຂົາ!
+
+89
+00:05:37,900 --> 00:05:43,900
+[ON INSECTICONS]
+who are trailing Megatron, attack the fast CLOSING CITY, trying to GNAW AND DEVOUR their way through the PORTS and BRIDGES leading inside.
+ຜູ້ທີ່ ກໍາ ລັງຕິດຕາມເມກາຕຣອນ, ໂຈມຕີເມືອງທີ່ປິດໄວ,
+ພະຍາຍາມກັດແລະກິນທາງຜ່ານທ່າເຮືອແລະຂົວທີ່ ນໍາ ໄປພາຍໃນ.
+
+90
+00:05:44,400 --> 00:05:46,400
+[KICKBACK]
+Delicious, eh Shrapnel?
+ດີເລີດ, ແມ່ນບໍ Shrapnel?
+
+91
+00:05:46,900 --> 00:05:49,350
+[SHRAPNEL]
+A little heavy on the electrons. Electrons.
+ຫນັກບາງຢ່າງຕໍ່ເອເລັກໂຕຣນ. ເອເລັກໂທຣນ໌.
+
+92
+00:05:49,850 --> 00:05:51,950
+[KUP]
+The Insecticons are in our way.
+ພວກແມງໄມ້ແມ່ນຢູ່ໃນທາງຂອງພວກເຮົາ.
+
+93
+00:05:52,450 --> 00:05:54,900
+[HOT ROD]
+Wrong!   They're our way in!   Yaaaaaaay- hah!
+ຜິດ! ພວກເຂົາເປັນທາງເຂົ້າຂອງພວກເຮົາ! ຢາອາອາອາ - ຮາ!
+
+94
+00:05:55,400 --> 00:06:01,400
+[ON SHRAPNEL]
+As Shrapnel looks up and reacts... ...Kup hurtles up and over Kickback's back just as Kickback is starting to rise to see what knocked him face down onto the bridge in the first place. ... Kup goes SAILING OT OVER OPEN SPACE between Kickback's back and the doorway into the city- -clobbering Shrapnel, who is in the way and landing on the city doorstep, driving in as...
+ໃນຂະນະທີ່ Shrapnel ເບິ່ງຂຶ້ນແລະປະຕິກິລິຍາ...... Kup ແລ່ນຂຶ້ນແລະຜ່ານຫຼັງຂອງ Kickback ຄືກັບວ່າ Kickback ກໍາ ລັງເລີ່ມຕົ້ນຂຶ້ນເພື່ອເບິ່ງສິ່ງທີ່ເຮັດໃຫ້ລາວຕົກລົງຫນ້າລົງໃສ່ຂົວໃນອັນດັບ
+ທໍາ ອິດ.... Kup ໄປເດີນເຮືອຜ່ານພື້ນທີ່ເປີດລະຫວ່າງຫລັງຂອງ kickback ແລະປະຕູເຂົ້າໄປໃນເມືອງ - - clobbering Shrapnell, ຜູ້ທີ່ຢູ່ໃນທາງແລະລົງຈອດຢູ່ປະຕູຂອງເມືອງ, ຂັບລົດໃນເປັນ...
+
+95
+00:06:01,900 --> 00:06:07,900
+[THE DOORWAY]
+transforms, shutting down with metal shields with a "clank" sound as Kickback and Shrapnel both leap at is to... ... bite Kup and Hot Rod and instead BREAK THEIR TEETH on steel door, falling face down with a grunt as LAST BITS OF CITY
+ຄຸເຂົ່າລົງ
+
+96
+00:06:08,400 --> 00:06:13,300
+[ULTRA MAGNUS]
+You can explain your security violation later, Hot Rod! Now, man your battle station.
+ເຈົ້າສາມາດອະທິບາຍການລະເມີດຄວາມປອດໄພຂອງທ່ານຕໍ່ມາ
+, ຮອດ ໂຣດ! ດຽວນີ້, ຜູ້ຊາຍສະຖານີການຕໍ່ສູ້ຂອງທ່ານ.
+
+97
+00:06:13,800 --> 00:06:18,350
+[HOT ROD]
+I don't have to explain my so called violation to you or anyone...
+ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງອະທິບາຍການລະເມີດທີ່ເອີ້ນວ່າຂອງຂ້ອຍໃຫ້ເຈົ້າຫຼືໃຜ
+...
+
+98
+00:06:18,850 --> 00:06:20,850
+[KUP]
+He said "later!"
+ລາວເວົ້າວ່າ"ຕໍ່ມາ!"
+
+99
+00:06:21,350 --> 00:06:26,950
+[BLASTER]
+Lookout and shout! Yow! Explosions rock the Crows Nest. Blaster swivels around and tilts to see...
+ຄຸເຂົ່າລົງ
+
+100
+00:06:27,450 --> 00:06:29,450
+[BLASTER]
+activates turret type LASER CANNON
+ກະຕຸ້ນປືນເລເຊີ
+
+101
+00:06:29,950 --> 00:06:32,750
+[BLASTER]
+Gonna lay some slugs on those overweight bugs!
+ຂ້ອຍຈະວາງລູກປືນບາງຢ່າງໃສ່ແມງໄມ້ທີ່ມີນ້ ໍາ ຫນັກ ເກີນໄປ!
+
+102
+00:06:33,250 --> 00:06:37,100
+[CANNON SWIVELS]
+LASER BLAST cooks out and we FOLLOW IT OFF SCREEN to...
+ການສັ່ນສະເທືອນເລເຊີເຮັດອາຫານອອກແລະພວກເຮົາຕິດຕາມມັນອອກຈາກ
+ຫນ້າ ຈໍເພື່ອ...
+
+103
+00:06:37,600 --> 00:06:43,600
+[THE INSECTICONS]
+as a Laser BLAST hurls Bombshell up and out of sight and causes Shrapnel and Kickback to get sucked into the vacuum.
+ໃນຂະນະທີ່ Laser BLAST ຖິ້ມລະເບີດຂຶ້ນແລະອອກຈາກສາຍຕາແລະເຮັດໃຫ້
+Shrapnel ແລະ Kickback ຖືກດູດເຂົ້າໄປໃນຄວາມຫວ່າງ.
+
+104
+00:06:44,100 --> 00:06:46,100
+[BLASTER]
+Perceptor joins him.
+ຜູ້ຮັບຮູ້ເຂົ້າຮ່ວມລາວ.
+
+105
+00:06:46,600 --> 00:06:52,600
+[BLASTER]
+I'm talkin' hits here, Autobuddies! Hits with a capital "aitch" like in Hard, Heavy and...  Hey, Perceptor, what's shakin' other than this fortress?
+ຂ້ອຍ ກໍາ ລັງເວົ້າກ່ຽວກັບຜົນກະທົບຢູ່ນີ້, Autobuddies! ຜົນກະທົບດ້ວຍ"aitch"
+ຕົ້ນຕໍຄືກັບໃນ Hard, Heavy ແລະ... ເຮ້, ຜູ້ຮັບຮູ້, ມີຫຍັງສັ່ນສະເທືອນນອກຈາກກໍາແພງນີ້?
+
+106
+00:06:53,100 --> 00:06:56,950
+[PERCEPTOR]
+Blaster, Ultra Magnus sends orders to contact Optimus Prime for reinforcements.
+ບລາສເຕີ, Ultra Magnus ສົ່ງຄໍາສັ່ງໃຫ້ຕິດຕໍ່
+Optimus Prime ສໍາລັບການເສີມຂະຫຍາຍ.
+
+107
+00:06:57,450 --> 00:07:02,700
+[BLASTER]
+Alright! Cover your receptors, Perceptor! Blaster transforms to ghetto blaster mode and broadcasts VISIBLE waves...
+ດີແລ້ວ! ປົກຄຸມເຄື່ອງຮັບຂອງທ່ານ, ຜູ້ຮັບຮູ້! Blaster
+ປ່ຽນເປັນຮູບແບບ blaster ghetto ແລະອອກອາກາດກະແສທີ່ເຫັນໄດ້...
+
+108
+00:07:03,200 --> 00:07:05,200
+[THE WAVES]
+rise and expand into space
+ຂຶ້ນຂຶ້ນ
+
+109
+00:07:05,700 --> 00:07:11,700
+[BLASTER]
+Optimus Prime... Do you read me? The Decepticons are blitzing Autobot City. We're really takin' a pounding. Don't know how much longer we can hold out.
+ໂອປຕິມັສ ປຣາມ... ເຈົ້າອ່ານຂ້ອຍບໍ? ພວກເດເຊັບຕິຄອນ ກໍາ ລັງເຮັດໃຫ້ເມືອງໂອໂຕບອດສົດໃສ
+. ພວກເຮົາ ກໍາ ລັງເອົາການຕີຢ່າງແທ້ຈິງ. ບໍ່ຮູ້ວ່າພວກເຮົາສາມາດທົນໄດ້ດົນປານໃດ.
+
+110
+00:07:12,200 --> 00:07:14,200
+[MEGATRON]
+Soundwave!     Jam that transmission.
+ຄື້ນສຽງ! ເຮັດໃຫ້ການສົ່ງອອກນັ້ນລົບກວນ.
+
+111
+00:07:14,700 --> 00:07:19,250
+[ON SOUNDWAVE]
+SOUNDWAVE moves forward and starts heaving CASSETTES upwards toward Blaster's Crows Nest position.
+ຄຸເຂົ່າລົງ
+
+112
+00:07:19,750 --> 00:07:22,200
+[SOUNDWAVE]
+Rumble! Frenzy! Ravage! Ratbat! Eject! Operation: interference.
+ການສັ່ນສະເທືອນ! ຄວາມໂຊກຮ້າຍ! ການທໍາລາຍ!
+ແຣັດແບຕ໌! ການໄລ່ອອກ! ການປະຕິບັດງານ: ການແຊກແຊງ.
+
+113
+00:07:22,700 --> 00:07:25,500
+[ON CASSETTES]
+as they transform and attack the crows nest.
+ຄຸເຂົ່າລົງ
+
+114
+00:07:26,000 --> 00:07:29,500
+[ON RUMBLE]
+as he starts PILE DRIVER MOTION on Crows Nest windows
+ໃນຂະນະທີ່ລາວເລີ່ມຕົ້ນການເຄື່ອນໄຫວ PILE DRIVER ໃນປ່ອງຢ້ຽມຫູ Crows
+
+115
+00:07:30,000 --> 00:07:33,850
+[RUMBLE]
+First we crack the shell.    Then we crack the nuts inside.
+ກ່ອນອື່ນພວກເຮົາຈະແຕກກະເປົາ.
+ຫຼັງຈາກນັ້ນພວກເຮົາຍ break ຫມາກ ນັດພາຍໃນ.
+
+116
+00:07:34,350 --> 00:07:37,150
+[BLASTER]
+We got Cassette Critters knockin' on the window!
+ພວກເຮົາມີຄາເຊັດຄຣີຕເຕີ ກໍາ ລັງຕີປ່ອງຢ້ຽມ!
+
+117
+00:07:37,650 --> 00:07:43,650
+[ON RUMBLE]
+as he CRACKS THROUGH GLASS and he and others swarm in and attack Perceptor who tries to beat them away
+ໃນຂະນະທີ່ລາວແຕກຜ່ານແກ້ວແລະລາວແລະຄົນອື່ນເຂົ້າມາແລະໂຈມຕີຜູ້ຮັບຮູ້ທີ່ພະຍາຍາມເອົາຊະນະພວກເຂົາ
+
+118
+00:07:44,150 --> 00:07:46,150
+[PERCEPTOR]
+Run, Blaster! Save yourself!
+ແລ່ນ, ບລາສເຕີ! ຊ່ວຍຕົວເອງ!
+
+119
+00:07:46,650 --> 00:07:48,650
+[BLASTER]
+No way. Two can play!
+ບໍ່ເປັນໄປເລີຍ. ສອງຄົນສາມາດຫຼິ້ນໄດ້!
+
+120
+00:07:49,150 --> 00:07:55,150
+[ON BLASTER]
+as he spews out CASSETTES which TRANSFORM into CUBBIE, a lion, STRIPES, a tiger, STINGER, a scorpion and BOLTS, a small, tough robot.
+ຄຸເຂົ່າລົງ
+
+121
+00:07:55,650 --> 00:07:57,650
+[BLASTER]
+Sic 'em!
+ເອົາພວກມັນໄວ້!
+
+122
+00:07:58,150 --> 00:08:02,700
+[ON RUMBLE]
+as Cubbie takes him down by the foot, turning him over and over
+ໃນຂະນະທີ່ Cubbie ເອົາລາວລົງຈາກຕີນ, ຫັນລາວໄປແລະມາ
+
+123
+00:08:03,200 --> 00:08:08,800
+[ON STRIPES]
+as he SNAPS at Ratbat who screams and darts, trying to escape as we move to
+ໃນຂະນະທີ່ລາວ SNAPS ຢູ່ Ratbat ຜູ້ທີ່ຮ້ອງໄຫ້ແລະດາວ
+, ພະຍາຍາມຫນີໃນຂະນະທີ່ພວກເຮົາຍ້າຍໄປຫາ
+
+124
+00:08:09,300 --> 00:08:11,750
+[PERCEPTOR]
+You think you got through to Prime?
+ເຈົ້າຄິດວ່າເຈົ້າໄດ້ເຂົ້າເຖິງພຣາມບໍ?
+
+125
+00:08:12,250 --> 00:08:17,500
+[BLASTER]
+Let's hope so! Cause if I didn't we're gonna look like burnt out toaster ovens!
+ພວກເຮົາຫວັງວ່າເປັນ!
+ເພາະວ່າຖ້າຂ້ອຍບໍ່ເຮັດພວກເຮົາຈະເບິ່ງຄືວ່າເປັນເຕົາອົບຕົ້ມຕົ້ມ!
+
+126
+00:08:18,000 --> 00:08:20,000
+[MEGATRON]
+Constructicons merge for the kill!
+ການສ້າງກະຕຸ້ນປະສົມປະສານເພື່ອການຂ້າ!
+
+127
+00:08:20,500 --> 00:08:24,700
+[SPRINGER]
+Great! Megatron's making his big push and we can't even push...  ...back!
+ດີເລີດ! ເມກາຕຣອນ ກໍາ
+ລັງເຮັດການຊຸກຍູ້ທີ່ໃຫຍ່ຂອງລາວແລະພວກເຮົາບໍ່ສາມາດດັນໄດ້ເລີຍ...... ກັບຄືນໄປບ່ອນ!
+
+128
+00:08:25,200 --> 00:08:28,700
+[KUP]
+Keep at it, Springer, lad! Help's at hand!  Together now!
+ສືບຕໍ່ມັນ, ສປຣິງເກີ, ເດັກຊາຍ!
+ຄວາມຊ່ວຍເຫຼືອຢູ່ໃກ້ຊິດ! ພ້ອມກັນດຽວນີ້!
+
+129
+00:08:29,200 --> 00:08:32,000
+[DANIEL]
+also leans against it, his small legs churning.
+ນອກຈາກນັ້ນຍັງຍອມໃສ່ມັນ, ຕີນນ້ອຍໆຂອງລາວສັ່ນສະເທືອນ.
+
+130
+00:08:32,500 --> 00:08:34,500
+[THE CATAPULT]
+starts moving easily now.
+ເລີ່ມເຄື່ອນຍ້າຍຢ່າງງ່າຍດາຍດຽວນີ້.
+
+131
+00:08:35,000 --> 00:08:38,500
+[ARCEE]
+I was afraid you'd be trapped outside the city walls.
+ຂ້ອຍຢ້ານວ່າເຈົ້າຈະຖືກຈັບຢູ່ພາຍນອກກໍາແພງເມືອງ.
+
+132
+00:08:39,000 --> 00:08:41,800
+[HOT ROD]
+Hey, I wasn't worried for a micro-second, Arcee!
+ເຮ້, ຂ້ອຍບໍ່ກັງວົນເລີຍ, ອາຣຊີ!
+
+133
+00:08:42,300 --> 00:08:48,300
+[ARCEE]
+Then you probably didn't understand the situation. Before Hot Rod can react, Kup steps back from repositioned Catapult
+ຫຼັງຈາກນັ້ນເຈົ້າອາດຈະບໍ່ເຂົ້າໃຈສະຖານະການ. ກ່ອນທີ່ Hot Rod
+ສາມາດປະຕິກິລິຍາໄດ້, Kup ຍ່າງກັບຄືນຈາກ Catapult ທີ່ຕັ້ງຖິ່ນຖານໃຫມ່
+
+134
+00:08:48,800 --> 00:08:50,800
+[KUP]
+That did it!
+ມັນເຮັດແລ້ວ!
+
+135
+00:08:51,300 --> 00:08:53,300
+[DANIEL]
+Kup, Hot Rod! Look!
+ຄູບ, ຮອດ ໂຣດ! ເບິ່ງ!
+
+136
+00:08:53,800 --> 00:08:55,800
+[KUP]
+Devastator!
+ຜູ້ທໍາລາຍ!
+
+137
+00:08:56,300 --> 00:09:02,300
+[ON DEVASTATOR]
+as he rises up and starts FIRING, HAMMERING, TEARING AWAY at metal shields which create armored walls of the transformed City.
+ໃນຂະນະທີ່ລາວຕື່ນຂຶ້ນແລະເລີ່ມຕົ້ນຍິງ, ກະທູ້,
+ການແຕກແຍກຢູ່ກະທູ້ໂລຫະທີ່ສ້າງກໍາແພງປືນຂອງເມືອງທີ່ປ່ຽນແປງ.
+
+138
+00:09:02,800 --> 00:09:05,950
+[SPRINGER]
+I got better things to do today than die.
+ຂ້ອຍມີສິ່ງທີ່ດີກວ່າທີ່ຈະເຮັດໃນມື້ນີ້ກ່ວາຈະຕາຍ.
+
+139
+00:09:06,450 --> 00:09:12,450
+[DEVASTATOR]
+and explode harmlessly as Devastator continues to grunt and tear off armored layers of the city. He grabs Hot Rod and Kup and starts to crush them.
+ແລະລະເບີດຢ່າງບໍ່ມີອັນຕະລາຍໃນຂະນະທີ່ຜູ້ທໍາລາຍສືບຕໍ່ສັ່ນສະເທືອນແລະຕັດຊັ້ນກະທູ້ຂອງເມືອງ
+. ລາວຈັບຮອດຣອດແລະຄູບແລະເລີ່ມຕົ້ນ ທໍາ ລາຍພວກມັນ.
+
+140
+00:09:12,950 --> 00:09:14,950
+[ARCEE]
+Hot Rod!
+ຮອດ ໂຣດ!
+
+141
+00:09:15,450 --> 00:09:17,450
+[OPTIMUS PRIME]
+Dinobots.    Destroy Devastator!
+ດິນໂບຕ໌. ທໍາລາຍຜູ້ທໍາລາຍ!
+
+142
+00:09:17,950 --> 00:09:20,400
+[GRIMLOCK]
+Uhhhh! Me Grimlock love challenge! Dinobots, transform!
+ອູຮ້! ການທ້າທາຍຄວາມຮັກຂອງກຣີມລັອກຂອງຂ້ອຍ! ດິນໂບຕ໌, ປ່ຽນແປງ!
+
+143
+00:09:20,900 --> 00:09:26,900
+[DINOBOTS]
+transform into humanoid mode, and, with Grimlock at the front... ...fly out of the shuttle in wedge formation, blasting in unison.
+ປ່ຽນເປັນໂຫມດ humanoid, ແລະ, ກັບ Grimlock ຢູ່ທາງຫນ້າ......
+ບິນອອກຈາກເຮືອບິນໃນການສ້າງຕັ້ງ wedge, ການລະເບີດໃນ unison.
+
+144
+00:09:27,400 --> 00:09:31,950
+[FOLLOW DINOBOTS]
+In as they transform again and, in dino mode, swoop over to Devastator...
+ໃນຂະນະທີ່ພວກເຂົາປ່ຽນແປງອີກຄັ້ງແລະ,
+ໃນຮູບແບບດິນໂອນ, ບີບໄປຫາຜູ້ທໍາລາຍ...
+
+145
+00:09:32,450 --> 00:09:34,450
+[DEVASTATOR]
+Roars towards the Dinobots.
+ການຮ້ອງໄຫ້ໄປສູ່ Dinobots.
+
+146
+00:09:34,950 --> 00:09:36,950
+[THEIR BATTLE]
+shakes the Earth...
+ສັ່ນສະເທືອນໂລກ...
+
+147
+00:09:37,450 --> 00:09:39,450
+[PRIME]
+Megatron must be stopped.
+ເມກາຕຣອນຕ້ອງຖືກຢຸດເຊົາ.
+
+148
+00:09:39,950 --> 00:09:41,950
+[PRIME]
+No matter the cost.
+ບໍ່ວ່າຄ່າໃຊ້ຈ່າຍໃດກໍ່ຕາມ.
+
+149
+00:09:42,450 --> 00:09:44,450
+[MEGATRON]
+as he commands his troops.
+ໃນຂະນະທີ່ລາວເປັນຜູ້ບັນຊາການທະຫານຂອງລາວ.
+
+150
+00:09:44,950 --> 00:09:47,750
+[MEGATRON]
+Their defenses are broken.    Let the slaughter begin.
+ການປ້ອງກັນຂອງພວກເຂົາຖືກແຕກ. ໃຫ້ການຂ້າສັດເລີ່ມຕົ້ນ.
+
+151
+00:09:48,250 --> 00:09:50,250
+[MEGATRON]
+Prime!?
+ນາຍົກລັດຖະມົນຕີ!?
+
+152
+00:09:50,750 --> 00:09:53,200
+[PRIME]
+smashing through a wall of lesser Decepticons.
+ການທໍາລາຍກໍາແພງຂອງ Decepticons ນ້ອຍກວ່າ.
+
+153
+00:09:53,700 --> 00:09:55,800
+[PRIME]
+One shall stand, one shall fall.
+ຫນຶ່ງຈະຢືນຢູ່, ຫນຶ່ງຈະຕົກລົງ.
+
+154
+00:09:56,300 --> 00:09:58,750
+[MEGATRON]
+Why throw away your life so recklessly?
+ເປັນຫຍັງຈຶ່ງຖິ້ມຊີວິດຂອງທ່ານຢ່າງບໍ່ລະມັດລະວັງຫຼາຍ?
+
+155
+00:09:59,250 --> 00:10:01,700
+[OPTIMUS PRIME]
+That's a question you should ask yourself.
+ນັ້ນແມ່ນຄໍາຖາມທີ່ເຈົ້າຄວນຖາມຕົວເອງ.
+
+156
+00:10:02,200 --> 00:10:08,200
+[MEGATRON]
+hurls himself at Optimus Prime... .... both tumble into the walls of the City... ...denting the walls and causing the electronic panels inside to short circuit, surrounding them with a fiery nimbus of crackling electrical energy.
+ຖິ້ມຕົວເອງໃສ່ Optimus Prime....... ທັງສອງຕົກລົງໃນກໍາແພງຂອງເມືອງ...... ການ denting
+ກໍາແພງແລະເຮັດໃຫ້ກະດານເອເລັກໂຕຣນິກພາຍໃນເປັນວົງຈອນສັ້ນ, ອ້ອມຮອບພວກເຂົາດ້ວຍ nimbus ໄຟຂອງພະລັງງານໄຟຟ້າທີ່ສັ່ນສະເທືອນ.
+
+157
+00:10:08,700 --> 00:10:10,800
+[HOT ROD]
+We've got to save Prime! Punching...
+ພວກເຮົາຕ້ອງຊ່ວຍພຣາຍມ໌! ການຕີ...
+
+158
+00:10:11,300 --> 00:10:13,750
+[KUP]
+That's his fight, lad!   Stay away. Shooting..
+ນັ້ນແມ່ນການຕໍ່ສູ້ຂອງລາວ, ເດັກຊາຍ! ຢູ່ຫ່າງໄກ. ການຍິງ..
+
+159
+00:10:14,250 --> 00:10:18,100
+[MEGATRON]
+grabs a jagged, spearlike piece of steel and hurls it at
+ຈັບກະດານເຫຼັກທີ່ຂັດຂວາງ, ຄ້າຍຄືກັບປືນແລະຖິ້ມມັນໃສ່
+
+160
+00:10:18,600 --> 00:10:24,600
+[PRIME]
+The steel "spear" pierces his side and sticks in him as... ... he charges Megatron, ...dodging shots from Megatron's gun to... ...deliver a huge UPPERCUT which... ...lifts Megatron into the air so high that... ...
+"ປືນ" ເຫຼັກເຈາະຂ້າງຂອງລາວແລະຕິດຢູ່ລາວໃນຂະນະທີ່...... ລາວໂຈມຕີເມກາຕຣອນ,... ຫຼີກລ້ຽງການຍິງຈາກປືນຂອງເມກາທຣອນເພື່ອ
+...... ສົ່ງການຕັດສູງທີ່ໃຫຍ່ຫຼວງເຊິ່ງ...... ຍົກເມກາໂຕຣອນຂຶ້ນອາກາດສູງຫຼາຍທີ່......
+
+161
+00:10:25,100 --> 00:10:28,950
+[PRIME]
+his head butts sharply against overhanging concrete balcony, mashing him down...
+ຫົວຂອງລາວຕີກັນຢ່າງກະທັນຫັນຕໍ່ບາລຄອນກີດທີ່ຕິດຢູ່ເທິງ
+, ມ້າງລາວລົງ...
+
+162
+00:10:29,450 --> 00:10:34,350
+[MEGATRON]
+lands and stealthily slips a laser dagger from his boot, turning and slashing at...
+ຕົກລົງແລະລອກກະດານເລເຊີຈາກເກີບຂອງລາວ, ຫັນແລະຕັດຢູ່...
+
+163
+00:10:34,850 --> 00:10:40,800
+[PRIME]
+as he comes for him, tearing... ...a gash across Prime's midsection, which spews smoke and sparks and...
+ໃນຂະນະທີ່ລາວມາຫາລາວ, ການແຕກ......
+ການຕັດຜ່ານພາກກາງຂອງປຣາມ, ເຊິ່ງຖິ້ມສູບແລະແສງສະຫວ່າງແລະ...
+
+164
+00:10:41,300 --> 00:10:43,300
+[MEGATRON]
+Farewell, Prime!
+ສະບາຍດີ, ນາຍົກລັດຖະມົນຕີ!
+
+165
+00:10:43,800 --> 00:10:49,800
+[OPTIMUS PRIME]
+as he lifts chunks of broken concrete and catches the laser dagger on it, tossing it aside as he lunges at-
+ໃນຂະນະທີ່ລາວຍົກກະດານຄອນກີດທີ່ແຕກແລະຈັບດອກເລເຊີໃສ່ມັນ
+, ຖິ້ມມັນຂ້າງໃນຂະນະທີ່ລາວໂດດໃສ່ -
+
+166
+00:10:50,300 --> 00:10:53,800
+[MEGATRON]
+who claws his fingers and digs them into Prime's eyes
+ຜູ້ທີ່ຈັບນິ້ວມືຂອງລາວແລະຂຸດພວກມັນເຂົ້າໄປໃນຕາຂອງປຣາມ
+
+167
+00:10:54,300 --> 00:11:00,300
+[MEGATRON]
+I'll rip out your optics! Optimus grabs Megatron's clawed hand in one of his hands, twists it in see-sawing test of strength which... Optimus wins in a judo toss which sends Megatron - - skidding face first through steel rubble, in a shower of sparks until he crashes into the side of the city.
+ຂ້ອຍຈະເອົາແສງສະຫວ່າງຂອງທ່ານອອກ! ໂອປຕິມັສຈັບມືທີ່ຖືກຈັບຂອງເມກາຕຣອນໃນມື ຫນຶ່ງ ຂອງລາວ, ຫັນມັນໃນການທົດສອບຄວາມເຂັ້ມແຂງທີ່ເບິ່ງເຫັນເຊິ່ງ..
+. ໂອປຕິມາມສ໌ຊະນະໃນການຖິ້ມຈູໂດທີ່ສົ່ງເມກຕຣົງ - - ຫນ້າທີ່ລອຍລອຍກ່ອນຜ່ານຂີ້ເຫຍື້ອເຫຼັກ, ໃນຖ້ວມຂອງກະຕຸ້ນຈົນກວ່າລາວຈະຕົກລົງໃນຂ້າງຂອງເມືອງ.
+
+168
+00:11:00,800 --> 00:11:02,800
+[HOT ROD]
+That's showing him, Optimus!
+ນັ້ນແມ່ນການສະແດງລາວ, ໂອປຕິມັສ!
+
+169
+00:11:03,300 --> 00:11:06,100
+[KUP]
+knocks two Decepticons on their tails and turns.
+ມັນຕີ Decepticons ສອງຄົນໃສ່ຫຼັງຂອງພວກເຂົາແລະຫັນໄປ.
+
+170
+00:11:06,600 --> 00:11:09,050
+[KUP]
+Finish him off, Prime!   Do it now!
+ສິ້ນສຸດລາວ, ນາຍົກລັດຖະມົນຕີ! ເຮັດມັນດຽວນີ້!
+
+171
+00:11:09,550 --> 00:11:13,400
+[ON MEGATRON]
+as he spots a gun on the ground ahead of him
+ໃນຂະນະທີ່ລາວເຫັນປືນຢູ່ເທິງດິນຢູ່ຕໍ່ຫນ້າລາວ
+
+172
+00:11:13,900 --> 00:11:17,750
+[MEGATRON]
+No more, Optimus Prime!    Grant me mercy, I beg of you!
+ບໍ່ອີກຕໍ່ໄປ, ໂອປຕິມັສ ປຣາມ! ໃຫ້ຂ້ອຍຄວາມເມດຕາ, ຂ້ອຍຂໍຮ້ອງເຈົ້າ!
+
+173
+00:11:18,250 --> 00:11:24,250
+[OPTIMUS PRIME]
+You who are without mercy now plead for it. I thought you were made of sterner stuff, Megatron!
+ເຈົ້າຜູ້ທີ່ບໍ່ມີຄວາມເມດຕາດຽວນີ້ຂໍຮ້ອງມັນ.
+ຂ້ອຍຄິດວ່າເຈົ້າຖືກເຮັດດ້ວຍວັດຖຸທີ່ແຂງແຮງກວ່າ, ເມກາຕຣອນ!
+
+174
+00:11:24,750 --> 00:11:26,850
+[PRIME]
+Out of the way, Hot Rod.
+ອອກຈາກທາງ, ຮອດ ໂຣດ.
+
+175
+00:11:27,350 --> 00:11:29,350
+[ON MEGATRON]
+firing blaster again and again
+ຂັບລູກລະເບີດ
+
+176
+00:11:29,850 --> 00:11:31,850
+[MEGATRON]
+Fall!   Fall!
+ຕົກ! ຕົກ!
+
+177
+00:11:32,350 --> 00:11:36,900
+[MEGATRON]
+I would have waited an eternity for this. Crawl, slave! On your knees!
+ຂ້ອຍຈະລໍຖ້າສິ່ງນີ້ຕະຫຼອດໄປ. ຍ່າງ, ຄົນໃຊ້! ຢູ່ເທິງເຂົ່າຂອງທ່ານ!
+
+178
+00:11:37,400 --> 00:11:39,400
+[OPTIMUS PRIME]
+Never!
+ບໍ່ເຄີຍ!
+
+179
+00:11:39,900 --> 00:11:41,900
+[HOT ROD]
+Optimus!    Forgive me!
+ໂອປຕິມັສ! ຂໍໂທດຂ້ອຍ!
+
+180
+00:11:42,400 --> 00:11:44,500
+[STARSCREAM]
+How do you feel, Mighty Megatron?
+ເຈົ້າຮູ້ສຶກແນວໃດ, ເມກາຕຣອນທີ່ເຂັ້ມແຂງ?
+
+181
+00:11:45,000 --> 00:11:47,000
+[MEGATRON]
+Enshrine me!
+ສັກສິດຂ້ອຍ!
+
+182
+00:11:47,500 --> 00:11:52,050
+[STARSCREAM]
+Take this scrap to Cybertron! Astrotrain, transform and get us out of here!
+ເອົາສິ່ງເສດເຫລົ່ານີ້ໄປຫາໄຊເບີຕຣອນ! ການຝຶກອົບຮົມອະວະກາດ
+, ປ່ຽນແປງແລະເອົາພວກເຮົາອອກຈາກບ່ອນນີ້!
+
+183
+00:11:52,550 --> 00:11:54,550
+[ARCEE]
+The Decepticons are retreating.
+ພວກ Decepticons ກໍາລັງຖອນຕົວ.
+
+184
+00:11:55,050 --> 00:11:58,550
+[KUP]
+Prime did it. He turned the tide! He shoots  into...
+ນາຍົກໄດ້ເຮັດມັນ. ລາວໄດ້ປ່ຽນຄື້ນຟອງ! ລາວຍິງເຂົ້າໄປໃນ...
+
+185
+00:11:59,050 --> 00:12:03,950
+[THE AUTOBOTS]
+fire after them, closing ranks on the shuttle, and pouring shots into the melee.
+ຍິງຕາມພວກເຂົາ, ປິດແຖວໃນເຮືອຂົນສົ່ງ
+, ແລະຖິ້ມການຍິງເຂົ້າໄປໃນການຕໍ່ສູ້.
+
+186
+00:12:04,450 --> 00:12:06,450
+[STARSCREAM]
+Astrotrain, take off.
+ການຝຶກອົບຮົມອະວະກາດ, ອອກໄປ.
+
+187
+00:12:06,950 --> 00:12:12,950
+[OPTIMUS PRIME]
+as he lies on an improvised bier-like platform, a profusion of electricity discharging tubes and "plasma" bottle devices hooked up to his arms and into his gaping middle wound.
+ໃນຂະນະທີ່ລາວນອນຢູ່ເທິງເວທີທີ່ຄ້າຍຄືກັບ bier ທີ່ທັນສະໄຫມ, ທໍ່ປ່ອຍໄຟຟ້າທີ່ອຸດົມສົມບູນແລະອຸປະກອນຈອກ"ປລາສມາ"
+ເຊື່ອມຕໍ່ກັບແຂນຂອງລາວແລະເຂົ້າໄປໃນບາດແຜກາງທີ່ແຕກແຍກຂອງລາວ.
+
+188
+00:12:13,450 --> 00:12:19,400
+[SCANNERS]
+emit bleeps and show oscilloscopic patterns but sounds and wave patterns are steadily growing weaker and weaker.
+ອອກສຽງສັ່ນສະເທືອນແລະສະແດງຮູບແບບ oscilloscopic
+ແຕ່ສຽງແລະຮູບແບບຄື້ນຟອງກໍາລັງເພີ່ມຂຶ້ນອ່ອນແອແລະອ່ອນໄຫວຢ່າງຕໍ່ເນື່ອງ.
+
+189
+00:12:19,900 --> 00:12:25,900
+[PERCEPTOR]
+is bent over Prime, in microscope mode, examining him... He then transforms and straightens up, his voice strained and cracking with emotion.
+ແມ່ນຫັນຢູ່ເທິງ Prime, ໃນຮູບແບບໄມໂຄສໂກບ, ການກວດສອບລາວ...
+ລາວຫຼັງຈາກນັ້ນປ່ຽນແປງແລະກົງຂຶ້ນ, ສຽງຂອງລາວເຄັ່ງຕຶງແລະແຕກຈາກຄວາມຮູ້ສຶກ.
+
+190
+00:12:26,400 --> 00:12:32,400
+[PERCEPTOR]
+I fear the wounds are...  INTERCUT TO HOT ROD, KUP, ARCEE, DANIEL AND OTHER AUTOBOTS as they react.
+ຂ້ອຍຢ້ານວ່າບາດເຈັບແມ່ນ... ການຕັດຕໍ່ກະດານຮ້ອນ, KUP,
+ARCEE, DANIEL ແລະລົດອື່ນໆໃນຂະນະທີ່ພວກເຂົາປະຕິກິລິຍາ.
+
+191
+00:12:32,900 --> 00:12:36,750
+[OPTIMUS PRIME]
+Autobots...do not grieve... Soon, I shall be one with the matrix.
+ໂອບໂບຕ໌... ຢ່າໂຊກເສົ້າ... ໃນໄວໆນີ້, ຂ້ອຍຈະເປັນຫນຶ່ງກັບແມຕຣິກສ໌.
+
+192
+00:12:37,250 --> 00:12:39,250
+[HOT ROD]
+Prime!
+ນາຍົກລັດຖະມົນຕີ!
+
+193
+00:12:39,750 --> 00:12:45,750
+[OPTIMUS PRIME]
+Ultra Magnus! It is to you, old friend, I shall pass the matrix as it was passed to me ....
+Ultra Magnus! ມັນເປັນເຈົ້າ, ເພື່ອນເກົ່າ,
+ຂ້ອຍຈະຜ່ານແມຕຣິກສ໌ດັ່ງທີ່ມັນຖືກສົ່ງໃຫ້ຂ້ອຍ....
+
+194
+00:12:46,250 --> 00:12:49,050
+[MAGNUS]
+Prime, I'm just a soldier.   I'm not worthy.
+ນາຍົກລັດຖະມົນຕີ, ຂ້ອຍພຽງແຕ່ເປັນທະຫານເທົ່ານັ້ນ. ຂ້ອຍບໍ່ສົມຄວນ.
+
+195
+00:12:49,550 --> 00:12:55,550
+[OPTIMUS PRIME]
+Nor was I, but one day, an Autobot shall rise from our ranks and use the powers of the Matrix to light our darkest hour.
+ຂ້ອຍກໍ່ບໍ່, ແຕ່ມື້ຫນຶ່ງ,
+ໂອບໂຕບອດຈະຂຶ້ນຈາກແຖວຂອງພວກເຮົາແລະໃຊ້ພະລັງຂອງແມຕຣິກສ໌ເພື່ອແສງສະຫວ່າງຊົ່ວໂມງທີ່ມືດທີ່ສຸດຂອງພວກເຮົາ.
+
+196
+00:12:56,050 --> 00:12:58,050
+[OPTIMUS PRIME]
+Until that day...
+ຈົນກວ່າມື້ນັ້ນ...
+
+197
+00:12:58,550 --> 00:13:02,050
+[ASTROTRAIN]
+Jettison some weight, or I'll never make it to Cybertron.
+ຖິ້ມນ້ ໍາ ຫນັກ ບາງຢ່າງ, ຫຼືຂ້ອຍຈະບໍ່ໄປຫາໄຊບີຕຣອນເລີຍ.
+
+198
+00:13:02,550 --> 00:13:06,050
+[STARSCREAM]
+Fellow Decepticons, Astrotrain has requested that we lighten our burden!
+ເພື່ອນຮ່ວມງານ Decepticons, Astrotrain
+ໄດ້ຮ້ອງຂໍໃຫ້ພວກເຮົາຜ່ອນຜັນພາສີຂອງພວກເຮົາ!
+
+199
+00:13:06,550 --> 00:13:10,050
+[BONECRUSHER]
+In that case, I say it's survival of the fittest.
+ໃນກໍລະນີນັ້ນ, ຂ້ອຍເວົ້າວ່າ ມັນເປັນການຢູ່ລອດຂອງຄົນແຂງແຮງທີ່ສຸດ.
+
+200
+00:13:10,550 --> 00:13:13,000
+[STARSCREAM]
+So I hear a second on that?
+ສະນັ້ນຂ້ອຍໄດ້ຍິນວິນາທີກ່ຽວກັບເລື່ອງນັ້ນບໍ?
+
+201
+00:13:13,500 --> 00:13:15,500
+[HEALTHY DECEPTICONS]
+Aye!
+ແມ່ນແລ້ວ!
+
+202
+00:13:16,000 --> 00:13:18,000
+[STARSCREAM]
+And against?
+ແລະຕໍ່ຕ້ານບໍ?
+
+203
+00:13:18,500 --> 00:13:20,500
+[STARSCREAM]
+The ayes' have it!
+ພວກ YES ໄດ້ມັນ!
+
+204
+00:13:21,000 --> 00:13:23,800
+[STARSCREAM]
+Oh, how it grieves me to do this.
+ໂອ້, ຂ້ອຍໂຊກຮ້າຍຫຼາຍປານໃດທີ່ຈະເຮັດສິ່ງນີ້.
+
+205
+00:13:24,300 --> 00:13:26,300
+[MEGATRON]
+Wait, I still function!
+ລໍຖ້າ, ຂ້ອຍຍັງເຮັດວຽກຢູ່!
+
+206
+00:13:26,800 --> 00:13:28,800
+[STARSCREAM]
+Wanna bet?
+ເຈົ້າຢາກພະນັນບໍ?
+
+207
+00:13:29,300 --> 00:13:35,250
+[STARSCREAM]
+Well, as Megatron has, how shall we say - departed. I nominate myself as the new leader.
+ດີ, ດັ່ງທີ່ເມກາຕຣອນມີ, ພວກເຮົາຈະເວົ້າແນວໃດ -
+ອອກໄປ. ຂ້ອຍແຕ່ງຕັ້ງຕົວເອງເປັນຜູ້ນໍາຄົນໃຫມ່.
+
+208
+00:13:35,750 --> 00:13:39,600
+[SCRAPPER]
+The Constructicons form Devastator, the most powerful robot. We should rule.
+ພວກ Constructicons ສ້າງ Devastator,
+ຫຸ່ນຍົນທີ່ມີພະລັງທີ່ສຸດ. ພວກເຮົາຄວນປົກຄອງ.
+
+209
+00:13:40,100 --> 00:13:42,100
+[SOUNDWAVE]
+Constructicons inferior.   Soundwave superior.
+ການກໍ່ສ້າງຕໍ່າກວ່າ. ການກະທູ້ສຽງສູງກວ່າ.
+
+210
+00:13:42,600 --> 00:13:44,600
+[BONECRUSHER]
+Who are you calling inferior.
+ເຈົ້າເອີ້ນໃຜວ່າຕໍ່າກວ່າ.
+
+211
+00:13:45,100 --> 00:13:47,900
+[HOOK]
+Nobody would follow an uncharismatic bore like you.
+ບໍ່ມີໃຜຈະຕິດຕາມຄົນໂຊກຮ້າຍທີ່ບໍ່ຄາຣີສມາຕິກຄືກັບເຈົ້າ.
+
+212
+00:13:48,400 --> 00:13:50,400
+[RUMBLE]
+Hey, nobody calls Soundwave uncrazmatic.
+ເຮ້, ບໍ່ມີໃຜເອີ້ນວ່າ Soundwave ບໍ່ໂຊກຮ້າຍ.
+
+213
+00:13:50,900 --> 00:13:52,900
+[FRENZY]
+Yeah!     Let's kick tailgate.
+ແມ່ນແລ້ວ! ມາຕີປະຕູຫຼັງ.
+
+214
+00:13:53,400 --> 00:13:55,400
+[THE CONSTRUCTICONS]
+try to form Devastator, but...
+ພະຍາຍາມສ້າງຕັ້ງຜູ້ທໍາລາຍ, ແຕ່...
+
+215
+00:13:55,900 --> 00:13:57,900
+[HOOK]
+Constructicons, unite!
+ພວກກໍ່ສ້າງ, ສາມັກຄີກັນ!
+
+216
+00:13:58,400 --> 00:14:00,400
+[RUMBLE/FRENZY]
+No way!
+ບໍ່ເປັນໄປເລີຍ!
+
+217
+00:14:00,900 --> 00:14:06,500
+[BLITZWING]
+I am a triple changer. I am worth any two of you. I should run things.
+ຂ້ອຍເປັນຄົນປ່ຽນສາມຄັ້ງ. ຂ້ອຍມີຄ່າສອງຄົນໃດໆຂອງເຈົ້າ
+. ຂ້ອຍຄວນ ດໍາ ເນີນການຕ່າງໆ.
+
+218
+00:14:07,000 --> 00:14:10,500
+[DIRGE]
+Death comes to anyone who crosses me. He attacks Blitzwing.
+ຄວາມຕາຍຈະມາຫາໃຜທີ່ຂ້າມຂ້ອຍ. ລາວໂຈມຕີ Blitzwing.
+
+219
+00:14:11,000 --> 00:14:13,100
+[ASTROTRAIN]
+Stop squabbling or we're gonna crash.
+ຢຸດການຂັດແຍ່ງກັນຫຼືພວກເຮົາຈະຕົກລົງ.
+
+220
+00:14:13,600 --> 00:14:15,600
+[UNICRON]
+Welcome, Megatron.
+ຍິນດີຕ້ອນຮັບ, ເມກາຕຣອນ.
+
+221
+00:14:16,100 --> 00:14:18,100
+[MEGATRON]
+Who said that?
+ໃຜເວົ້າແບບນັ້ນ?
+
+222
+00:14:18,600 --> 00:14:20,600
+[UNICRON]
+I am Unicron.
+ຂ້ອຍເປັນຢູນີຄຣອນ.
+
+223
+00:14:21,100 --> 00:14:23,100
+[MEGATRON]
+Show yourself!
+ສະແດງຕົວເອງ!
+
+224
+00:14:23,600 --> 00:14:26,400
+[UNICRON]
+I have summoned you here for a purpose.
+ຂ້ອຍໄດ້ຮຽກເຈົ້າມາບ່ອນນີ້ດ້ວຍຈຸດປະສົງ.
+
+225
+00:14:26,900 --> 00:14:28,900
+[MEGATRON]
+Nobody summons Megatron!
+ບໍ່ມີໃຜເອີ້ນເມກາຕຣອນ!
+
+226
+00:14:29,400 --> 00:14:32,200
+[UNICRON]
+Then it pleases me to be the first.
+ຫຼັງຈາກນັ້ນຂ້ອຍດີໃຈທີ່ຈະເປັນຄົນ ທໍາ ອິດ.
+
+227
+00:14:32,700 --> 00:14:34,700
+[MEGATRON]
+State your business.
+ບອກທຸລະກິດຂອງທ່ານ.
+
+228
+00:14:35,200 --> 00:14:41,200
+[UNICRON]
+Bring me the Autobot Matrix. It is the one thing - the only thing that can stand in my way.
+ເອົາແມຕຣິກສ໌ໂອໂຕບອດມາໃຫ້ຂ້ອຍ. ມັນແມ່ນສິ່ງດຽວ
+- ສິ່ງດຽວທີ່ສາມາດຢືນຢູ່ທາງຂອງຂ້ອຍໄດ້.
+
+229
+00:14:41,700 --> 00:14:46,950
+[MEGATRON]
+You have nothing to fear. I have already crushed Optimus Prime with my bare hands.
+ເຈົ້າບໍ່ມີຫຍັງຕ້ອງຢ້ານກົວ. ຂ້ອຍໄດ້ທໍາລາຍ
+Optimus Prime ແລ້ວດ້ວຍມືເປົ່າຂອງຂ້ອຍ.
+
+230
+00:14:47,450 --> 00:14:49,450
+[UNICRON]
+You exaggerate.
+ເຈົ້າເກີນໄປ.
+
+231
+00:14:49,950 --> 00:14:54,150
+[MEGATRON]
+The point is, he is dead!   And the Matrix died with him.
+ຈຸດປະສົງແມ່ນ, ລາວຕາຍແລ້ວ! ແລະແມຕຣິກສ໌ຕາຍກັບລາວ.
+
+232
+00:14:54,650 --> 00:14:59,200
+[UNICRON]
+No. It has been passed to their new leader. Get it for me.
+ບໍ່. ມັນໄດ້ຖືກສົ່ງໄປໃຫ້ຜູ້ນໍາຄົນໃຫມ່ຂອງພວກເຂົາ. ເອົາມັນໃຫ້ຂ້ອຍ.
+
+233
+00:14:59,700 --> 00:15:02,500
+[MEGATRON]
+Why should I? What's in it for me?
+ຂ້ອຍຄວນເຮັດຫຍັງ? ມັນມີປະໂຫຍດຫຍັງຕໍ່ຂ້ອຍ?
+
+234
+00:15:03,000 --> 00:15:09,000
+[UNICRON]
+Your bargaining posture is highly dubious, but very well, I will provide you with a new body, and new troops to command.
+ການໂຕ້ຖຽງຂອງທ່ານມີຄວາມສົງໄສຫຼາຍ, ແຕ່ດີຫຼາຍ,
+ຂ້ອຍຈະໃຫ້ເຈົ້າຮ່າງກາຍ ໃຫມ່, ແລະທະຫານໃຫມ່ທີ່ຈະບັນຊາການ.
+
+235
+00:15:09,500 --> 00:15:11,500
+[MEGATRON]
+And...
+ແລະ...
+
+236
+00:15:12,000 --> 00:15:14,000
+[UNICRON]
+And nothing.
+ແລະບໍ່ມີຫຍັງເລີຍ.
+
+237
+00:15:14,500 --> 00:15:16,500
+[MEGATRON]
+I belong to nobody.
+ຂ້ອຍບໍ່ຂຶ້ນກັບໃຜເລີຍ.
+
+238
+00:15:17,000 --> 00:15:23,000
+[UNICRON]
+Perhaps I misjudged you. Proceed on your way to oblivion. The Mist appears and starts to dissolve Megatron.
+ບາງທີຂ້ອຍໄດ້ຕັດສິນໃຈເຈົ້າຜິດ. ສືບຕໍ່ທາງໄປສູ່ການລືມ
+. ຄວາມເມົາປາກົດຕົວແລະເລີ່ມຕົ້ນລະລາຍເມກາຕຣອນ.
+
+239
+00:15:23,500 --> 00:15:26,300
+[MEGATRON]
+No, no. I accept your terms.   I accept!
+ບໍ່, ບໍ່. ຂ້ອຍຍອມຮັບເງື່ອນໄຂຂອງທ່ານ. ຂ້ອຍ ຍອມຮັບ!
+
+240
+00:15:26,800 --> 00:15:32,800
+[UNICRON]
+Excellent! Behold - Galvatron! X-ray images: wiring, circuitry, etc. flash on and off as a new and larger being starts to form, changing from dented Megatron to a huge, new creation: Galvatron.
+ດີເລີດ! ເບິ່ງ - ແກລເວຕຣອນ! ຮູບພາບແສງ X: ສາຍໄຟ, ວົງຈອນ, ແລະອື່ນໆແສງສະຫວ່າງແລະປິດໃນຂະນະທີ່ສິ່ງມີຊີວິດ ໃຫມ່
+ແລະ ໃຫຍ່ກວ່າເລີ່ມຕົ້ນສ້າງຕັ້ງຂຶ້ນ, ປ່ຽນຈາກ Megatron ທີ່ dented ເປັນການສ້າງສັນທີ່ໃຫຍ່ຫຼວງ, ໃຫມ່: ແກວເຕຣອນ.
+
+241
+00:15:33,300 --> 00:15:35,300
+[GALVATRON]
+Long live Galvatron!
+ຍາວນານ Galvatron!
+
+242
+00:15:35,800 --> 00:15:37,900
+[UNICRON]
+And these shall be your minions...
+ແລະພວກນີ້ຈະເປັນຄົນຮັບໃຊ້ຂອງທ່ານ...
+
+243
+00:15:38,400 --> 00:15:44,400
+[SCOURGE]
+SCOURGE  is bearded, fanged and ferocious looking and as soon as he has been CREATED, he roars and stretches and an ARRAY OF SIMILAR CREATURES - smaller and all wearing dark and matching uniforms - are INSTANTLY CREATED FROM OTHERS behind him
+SCOURGE ມີດອກໄມ້, ມີແຂນແລະເບິ່ງຮ້າຍແຮງແລະທັນທີທີ່ລາວຖືກສ້າງຂື້ນ, ລາວຮ້ອງໄຫ້ແລະຍືດຫຍຸ່ນແລະຊຸດຂອງສັດທີ່ຄ້າຍຄືກັນ
+- ນ້ອຍກວ່າແລະທຸກຄົນໃສ່ຊຸດມືດແລະກົງກັນຂ້າມ - ຖືກສ້າງຂື້ນຈາກຄົນອື່ນຢູ່ເບື້ອງຫຼັງລາວທັນທີ
+
+244
+00:15:44,900 --> 00:15:47,000
+[UNICRON]
+Scourge, the tracker....and his huntsmen...the Sweeps....
+Scourge, ຜູ້ຕິດຕາມ.... ແລະນັກລ່າສັດຂອງລາວ... ການລ້າງ....
+
+245
+00:15:47,500 --> 00:15:49,500
+[UNICRON]
+Cyclonus, the warrior...and his armada.....
+Cyclonus, ນັກຮົບ... ແລະກອງທັບຂອງລາວ.....
+
+246
+00:15:50,000 --> 00:15:52,000
+[GALVATRON]
+To Cybertron!
+ໄປຫາໄຊບີຕຣອນ!
+
+247
+00:15:52,500 --> 00:15:57,050
+[UNICRON]
+Bring me the Autobot matrix! DURING UNICRON'S COMMAND we CHANGE ANGLE TO SHOW
+ເອົາແມຕຣິກສ໌ໂອໂຕບອດມາໃຫ້ຂ້ອຍ! ໃນລະຫວ່າງຄໍາສັ່ງຂອງ
+UNICRON ພວກເຮົາປ່ຽນມຸມເພື່ອສະແດງ
+
+248
+00:15:57,550 --> 00:16:01,750
+[GALVATRON]
+I will rip open Autobot after Autobot until it is yours, Unicron.
+ຂ້ອຍຈະເປີດໂອໂຕໂບຕ໌ຕາມອອດໂບບຕ໌ຈົນກວ່າມັນຈະເປັນຂອງເຈົ້າ, ຢູນິກຣອນ.
+
+249
+00:16:02,250 --> 00:16:05,750
+[OTHER DECEPTICONS]
+in neat ranks but their grim expressions show their displeasure.
+ໃນແຖວທີ່ສວຍງາມແຕ່ການສະແດງອອກທີ່ໂຊກຮ້າຍຂອງພວກເຂົາສະແດງໃຫ້ເຫັນຄວາມບໍ່ພໍໃຈຂອງພວກເຂົາ
+.
+
+250
+00:16:06,250 --> 00:16:12,250
+[STARSCREAM]
+Get on with the ceremony! Dirge and others react to EERIE SOUNDS and look up and off. Starscream looks where others are looking and reacts.
+ສືບຕໍ່ພິທີ! ດິຣຈ໌ແລະຄົນອື່ນປະຕິກິລິຍາຕໍ່ສຽງ EERIE ແລະເບິ່ງຂຶ້ນແລະອອກ
+. ການຮ້ອງໄຫ້ດາວເບິ່ງບ່ອນທີ່ຄົນອື່ນ ກໍາ ລັງເບິ່ງແລະປະຕິກີລິຍາ.
+
+251
+00:16:12,750 --> 00:16:14,750
+[STARSCREAM]
+Who disrupts my coronation?
+ໃຜຈະລົບກວນການສັກສີຂອງຂ້ອຍ?
+
+252
+00:16:15,250 --> 00:16:17,250
+[GALVATRON]
+Coronation? This is bad comedy!
+ການສັກສີບໍ? ນີ້ແມ່ນຄອມເມີດີທີ່ບໍ່ດີ!
+
+253
+00:16:17,750 --> 00:16:19,750
+[STARSCREAM]
+Megatron, is that you?
+ເມກາຕຣອນ, ນັ້ນແມ່ນເຈົ້າບໍ?
+
+254
+00:16:20,250 --> 00:16:22,250
+[GALVATRON]
+Here's a clue!
+ນີ້ແມ່ນຂໍ້ແນະນໍາ!
+
+255
+00:16:22,750 --> 00:16:26,600
+[GALVATRON]
+He transforms back to robot mode and confronts other Decepticons boastfully.
+ລາວປ່ຽນຄືນສູ່ໂຫມດຫຸ່ນຍົນແລະປະເຊີນກັບ
+Decepticons ອື່ນໆດ້ວຍຄວາມພາກພູມໃຈ.
+
+256
+00:16:27,100 --> 00:16:29,900
+[GALVATRON]
+Will anyone else attempt to fill his shoes?
+ມີໃຜອີກຄົນໃດຈະພະຍາຍາມຕື່ມເກີບຂອງລາວບໍ?
+
+257
+00:16:30,400 --> 00:16:32,400
+[GALVATRON]
+Galvatron.
+ແກລເວຕຣອນ.
+
+258
+00:16:32,900 --> 00:16:38,900
+[UNICRON]
+Bit by bit, we see new    sections of the planet being generated.    Then, the sinister mist we saw at    the beginning of the film starts pouring    out.
+ບາງຢ່າງບາງຢ່າງ, ພວກເຮົາເຫັນພາກສ່ວນ ໃຫມ່ ຂອງໂລກ ກໍາ ລັງເກີດຂື້ນ. ຫຼັງຈາກນັ້ນ
+, ຄວາມຫມອກທີ່ຮ້າຍແຮງທີ່ພວກເຮົາເຫັນໃນຕອນເລີ່ມຕົ້ນຂອງຮູບເງົາເລີ່ມໄຫຼອອກ.
+
+259
+00:16:39,400 --> 00:16:45,000
+[UNICRON]
+A strange, LOUD HUM fills the air and the ground heaves and SHAKES beneath their feet
+ສຽງດັງທີ່ແປກໃຈ,
+ເຕັມໄປດ້ວຍອາກາດແລະດິນຂຶ້ນແລະສັ່ນສະເທືອນພາຍໃຕ້ຕີນຂອງພວກເຂົາ
+
+260
+00:16:45,500 --> 00:16:47,500
+[JAZZ]
+Where'd that come from?!
+ນັ້ນມາຈາກໃສ?!
+
+261
+00:16:48,000 --> 00:16:51,150
+[CLIFFJUMPER]
+Who cares? I'm more worried about where it's going!
+ໃຜສົນໃຈ? ຂ້ອຍກັງວົນຫຼາຍວ່າມັນຈະໄປໃສ!
+
+262
+00:16:51,650 --> 00:16:55,150
+[JAZZ]
+Talk to me, Earth! We got a situation out here!
+ເວົ້າກັບຂ້ອຍ, ໂລກ! ພວກເຮົາມີສະຖານະການຢູ່ນີ້!
+
+263
+00:16:55,650 --> 00:16:58,450
+[JAZZ]
+Roger me. Wilco me. Anything?    Hello. Hello Earth.
+ເຂົ້າໃຈຂ້ອຍ. ວີລໂກຂ້ອຍ. ບາງສິ່ງບາງຢ່າງບໍ? ສະບາຍດີ.ສະບາຍດີໂລກ.
+
+264
+00:16:58,950 --> 00:17:01,400
+[BLASTER]
+He reacts to muffled transmission from Jazz.
+ລາວປະຕິກິລິຍາຕໍ່ການສົ່ງສຽງທີ່ປິດບັງຈາກຈາຊ໌.
+
+265
+00:17:01,900 --> 00:17:07,900
+[BLASTER]
+I'm pickin' up a faint signal! BLASTER TRANSFORMS to blaster mode and Jazz's VOICE is broadcast loud and clear causing Springer, Arcee, and Daniel to react
+ຂ້ອຍ ກໍາ ລັງຈັບສັນຍານທີ່ອ່ອນແອ! BLASTER ປ່ຽນເປັນໂຫມດ blaster ແລະສຽງຂອງ
+Jazz ຖືກອອກອາກາດຢ່າງແຮງແລະຈະແຈ້ງເຮັດໃຫ້ Springer, Arcee, ແລະດານີເລ react
+
+266
+00:17:08,400 --> 00:17:14,000
+[JAZZ]
+This is Jazz. I gi-normous weird lookin' planet just showed up in the suburbs of Cybertron....
+ນີ້ແມ່ນຈາຊ໌.
+ຂ້ອຍເປັນໂລກທີ່ເບິ່ງແປກໃຈທີ່ແປກໆທີ່ພຽງແຕ່ປາກົດຕົວໃນເຂດແຄມເມືອງຂອງໄຊບີຕຣອນ....
+
+267
+00:17:14,500 --> 00:17:16,500
+[CLIFFJUMPER]
+And it's attack...
+ແລະມັນເປັນການໂຈມຕີ...
+
+268
+00:17:17,000 --> 00:17:19,000
+[ULTRA MAGNUS]
+Jazz!   Cliffjumper!
+ຈາສ໌! ຜູ້ໂດດຈາກແຄມແຄບ!
+
+269
+00:17:19,500 --> 00:17:25,500
+[JAZZ]
+Got ...to....blast free....if we can..... They get in and start retro blasters, the flame of blasters whirling in wild winds as moon is engulfed.
+ຕ້ອງ... ເພື່ອ... ລະເບີດຟຣີ.... ຖ້າພວກເຮົາສາມາດ..... ພວກເຂົາເຂົ້າມາແລະເລີ່ມຕົ້ນລະເບີດ
+retro, ໄຟຂອງ blasters ຫມູນ ວຽນໃນລົມປ່າໄມ້ໃນຂະນະທີ່ດວງຈັນຖືກຈົມ.
+
+270
+00:17:26,000 --> 00:17:28,000
+[CLIFFJUMPER]
+Ignition and....
+ການເປີດໄຟແລະ...
+
+271
+00:17:28,500 --> 00:17:30,500
+[JAZZ]
+Hit it!
+ເອົາມັນ!
+
+272
+00:17:31,000 --> 00:17:34,500
+[GALVATRON]
+How dare Unicron?!  Cybertron and all it's moons are mine!
+ເຈົ້າກ້າຫານແນວໃດ Unicron?!
+ໄຊເບີຕຣອນແລະດວງຈັນທັງ ຫມົດ ຂອງມັນແມ່ນຂອງຂ້ອຍ!
+
+273
+00:17:35,000 --> 00:17:37,100
+[SCOURGE]
+But remember, WE belong to HIM!
+ແຕ່ຈື່ໄວ້ວ່າ, ພວກເຮົາເປັນຂອງລາວ!
+
+274
+00:17:37,600 --> 00:17:43,600
+[GALVATRON]
+I....will obey, Unicron! Decepticons, to Earth! The torture stops and Galvatron clutches his throat and tries to regain his composure as we...
+ຂ້ອຍ... ຈະປະຕິບັດຕາມ, Unicron! Decepticons, ກັບໂລກ! ການທໍລະມານຢຸດເຊົາແລະ
+Galvatron ຈັບຄໍຂອງລາວແລະພະຍາຍາມຟື້ນຟູຄວາມສະຫງົບໃຈຂອງລາວໃນຂະນະທີ່ພວກເຮົາ...
+
+275
+00:17:44,100 --> 00:17:46,550
+[SPIKE]
+It's like a terrible nightmare, Ultra Magnus.
+ມັນຄ້າຍຄືກັບຄວາມຝັນຮ້າຍແຮງ, Ultra Magnus.
+
+276
+00:17:47,050 --> 00:17:51,250
+[BUMBLEBEE]
+This thing - this juggernaut just ripped the first moon to shreds.
+ສິ່ງນີ້ - ຄົນໂຈກເກຣນນີ້ຫາກໍ່ແຕກດອກດວງຈັນ ທໍາ ອິດເປັນສິ້ນສ່ວນ.
+
+277
+00:17:51,750 --> 00:17:53,750
+[SPIKE]
+And it's heading this way.
+ແລະມັນ ກໍາ ລັງໄປທາງນີ້.
+
+278
+00:17:54,250 --> 00:17:56,350
+[BUMBLEBEE]
+We'll try 'n slow it down...
+ພວກເຮົາຈະພະຍາຍາມເຮັດໃຫ້ມັນຊ້າລົງ...
+
+279
+00:17:56,850 --> 00:18:01,050
+[SPIKE]
+But you'd better get here fast because... Suddenly, static obscures the transmission.
+ແຕ່ເຈົ້າຄວນມາບ່ອນນີ້ໄວເພາະວ່າ... ທັນທີ
+, ສະຖຽນລະພາບເຮັດໃຫ້ການສົ່ງອອກປິດບັງ.
+
+280
+00:18:01,550 --> 00:18:03,550
+[DANIEL]
+Dad!
+ພໍ່!
+
+281
+00:18:04,050 --> 00:18:10,050
+[ULTRA MAGNUS]
+Autobots, prepare to board the shuttles. This new menace is more dangerous than all the Decepticons put together. Somehow we must destroy it before it devours Cybertron.
+ໂອບໂຕບອດ, ກຽມພ້ອມທີ່ຈະຂຶ້ນເຮືອຂົນສົ່ງ. ໄພຂົ່ມຂູ່ ໃຫມ່ ນີ້ເປັນອັນຕະລາຍຫຼາຍກ່ວາ
+Decepticons ທັງ ຫມົດ ລວມກັນ. ບາງວິທີທາງພວກເຮົາຕ້ອງທໍາລາຍມັນກ່ອນທີ່ມັນຈະກິນ Cybertron.
+
+282
+00:18:10,550 --> 00:18:15,450
+[DANIEL]
+But what about my dad? He's on the moon between that monster and Cybertron.
+ແຕ່ພໍ່ຂອງຂ້ອຍແນວໃດ? ລາວຢູ່ເທິງດວງຈັນລະຫວ່າງໂມສເຕີນັ້ນແລະໄຊບີຕຣອນ.
+
+283
+00:18:15,950 --> 00:18:18,750
+[ULTRA MAGNUS]
+Daniel, I'll do everything I can for Spike.
+ດານີເລ, ຂ້ອຍຈະເຮັດທຸກຢ່າງທີ່ຂ້ອຍສາມາດເຮັດໄດ້ ສໍາ ລັບສປາຍເກີ.
+
+284
+00:18:19,250 --> 00:18:25,250
+[HOT ROD]
+And what are we going to do when we get there? If that thing crunches moons, it'll make short work of us.
+ແລະພວກເຮົາຈະເຮັດຫຍັງເມື່ອພວກເຮົາຮອດບ່ອນນັ້ນ?
+ຖ້າສິ່ງນັ້ນສັ່ນສະເທືອນດວງຈັນ, ມັນຈະເຮັດໃຫ້ພວກເຮົາເຮັດວຽກສັ້ນໆ.
+
+285
+00:18:25,750 --> 00:18:27,850
+[ULTRA MAGNUS]
+Maybe the Matrix can stop it.
+ບາງທີແມຕຣິກສ໌ສາມາດຢຸດມັນໄດ້.
+
+286
+00:18:28,350 --> 00:18:30,350
+[HOT ROD]
+You're right! It can.
+ເຈົ້າເວົ້າຖືກຕ້ອງ! ມັນສາມາດເຮັດໄດ້.
+
+287
+00:18:30,850 --> 00:18:33,300
+[KUP]
+What do you know about it lad?
+ເຈົ້າຮູ້ຫຍັງກ່ຽວກັບມັນແມ?
+
+288
+00:18:33,800 --> 00:18:35,800
+[HOT ROD]
+It's just a feeling.
+ມັນເປັນພຽງແຕ່ຄວາມຮູ້ສຶກເທົ່ານັ້ນ.
+
+289
+00:18:36,300 --> 00:18:38,300
+[KUP]
+Look!
+ເບິ່ງແມ!
+
+290
+00:18:38,800 --> 00:18:40,800
+[ULTRA MAGNUS]
+To the shuttles!!!
+ໄປຫາເຮືອຂົນສົ່ງ!!!
+
+291
+00:18:41,300 --> 00:18:46,900
+[GALVATRON]
+There is no escape. I, Galvatron will crush you just as the magnificent Megatron crushed Prime!
+ບໍ່ມີທາງຫລົບຫນີ. ຂ້ອຍ,
+ແກລເວຕຣອນຈະທໍາລາຍເຈົ້າຄືກັບທີ່ເມກາໂຕຣນທີ່ຍິ່ງໃຫຍ່ ທໍາລາຍພຣາມ!
+
+292
+00:18:47,400 --> 00:18:52,300
+[ULTRA MAGNUS]
+And you'll die trying just like Megatron! Ultra Magnus fires Laser and hits Galvatron.
+ແລະເຈົ້າຈະຕາຍພະຍາຍາມຄືກັບເມກາຕຣອນ!
+Ultra Magnus ຍິງເລເຊີແລະຕີ Galvatron.
+
+293
+00:18:52,800 --> 00:18:54,800
+[GALVATRON]
+aaaaaaaah!     Autobot cur!!
+ອາອາອາອາ! ຄູໂບຕ໌ອັດຕະໂນມັດ!!
+
+294
+00:18:55,300 --> 00:18:58,450
+[CYCLONUS]
+You want me to gut Ultra Magnus for you?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເອົາ Ultra Magnus ອອກມາ ສໍາ ລັບເຈົ້າບໍ?
+
+295
+00:18:58,950 --> 00:19:02,800
+[GALVATRON]
+There are plenty of Autobots for you. Ultra Magnus is mine!
+ມີຫຸ່ນຍົນອັດຕະໂນມັດຫຼາຍປານໃດ ສໍາ
+ລັບເຈົ້າ. Ultra Magnus ແມ່ນຂອງຂ້ອຍ!
+
+296
+00:19:03,300 --> 00:19:05,300
+[ARCEE]
+Stay close to me, Daniel...
+ຢູ່ໃກ້ຂ້ອຍ, ດານີເລ...
+
+297
+00:19:05,800 --> 00:19:11,800
+[HOT ROD]
+And you better stay close to me... Arcee pulls Hot Rod toward her before he gets hit by laser
+ແລະເຈົ້າຄວນຢູ່ໃກ້ຂ້ອຍ...
+ອາຣຊີດຶງກະດານຮ້ອນໄປຫານາງກ່ອນທີ່ລາວຈະຖືກຕີດ້ວຍເລເຊີ
+
+298
+00:19:12,300 --> 00:19:18,300
+[ARCEE]
+No, you'd better stay close to me. Blurr is trying to get Grimlock into Shuttle with the rest of the Dinobots as Decepticon FIRE COMES IN ALL AROUND. Grimlock is like a "spooked horse" refusing to be shut in the barn.
+ບໍ່, ເຈົ້າຄວນຢູ່ໃກ້ຂ້ອຍ. ບລຣ໌ ກໍາ ລັງພະຍາຍາມເຮັດໃຫ້ກຣີມລັອກເຂົ້າໄປໃນ Shuttle ກັບສ່ວນທີ່ເຫຼືອຂອງ
+Dinobots ໃນຂະນະທີ່ໄຟ Decepticon ມາໃນທົ່ວໄປ. ກຣີມໂລກຄືກັບ"ມ້າທີ່ຢ້ານກົວ" ທີ່ປະຕິເສດທີ່ຈະຖືກປິດໄວ້ໃນຈານ.
+
+299
+00:19:18,800 --> 00:19:24,800
+[BLURR]
+Nice Dino, good, Dino, sweet Dino! Won't you step into the nice spaceship for Blurr? Please, pretty please.
+ດີໂນດີ, ດີ, ດີໂນ, ດີນອນທີ່ຫວານ! ເຈົ້າບໍ່ຢາກເຂົ້າໄປໃນເຮືອອະວະກາດທີ່ສວຍງາມ
+ສໍາ ລັບບລູຣ໌ບໍ? ກະລຸນາ, ຂໍຮ້ອງຫຼາຍ.
+
+300
+00:19:25,300 --> 00:19:28,100
+[GRIMLOCK]
+Me, Grimlock, not "nice Dino!" Me bash brains!
+ຂ້ອຍ, ແກຣມລັອກ, ບໍ່ແມ່ນ"ດີໂນດີ!" ຂ້ອຍຕີສະຫມອງ!
+
+301
+00:19:28,600 --> 00:19:33,150
+[GRIMLOCK]
+He gives FIRE BREATHING BLAST AT JETS as they go by STRAFING THE
+ລາວໃຫ້ການສັ່ນສະເທືອນຫາຍໃຈໄຟຕໍ່ເຮືອບິນບິນໃນຂະນະທີ່ພວກເຂົາໄປໂດຍການລົງໂທດ
+
+302
+00:19:33,650 --> 00:19:36,800
+[ULTRA MAGNUS]
+as Kup, Hot Rod and Arcee MOVE INTO SCENE
+ໃນຂະນະທີ່ຄູບ, ຮອດ ໂຣດ ແລະ ອາຣຊີຍຍຍ້າຍເຂົ້າໄປໃນເວທີ
+
+303
+00:19:37,300 --> 00:19:40,450
+[ULTRA MAGNUS]
+Kup, Hot Rod. Get the Dinobots out of here!
+ຄູບ, ຮອດ ໂຣດ. ເອົາດິນໂບຕ໌ອອກຈາກບ່ອນນີ້!
+
+304
+00:19:40,950 --> 00:19:46,950
+[ON SCOURGE]
+as he TRANSFORMS to Humanoid mode and shouts orders, FIRING AT Blurr who BLURRS PAST and then at Arcee who also SHIPS BY
+ໃນຂະນະທີ່ລາວປ່ຽນເປັນໂຫມດ Humanoid ແລະຮ້ອງຄໍາສັ່ງ, ຍິງໃສ່ Blurr
+ຜູ້ທີ່ BLURRS ທີ່ຜ່ານມາແລະຫຼັງຈາກນັ້ນໃສ່ Arcee ຜູ້ທີ່ຍັງສົ່ງໂດຍ
+
+305
+00:19:47,450 --> 00:19:49,450
+[SCOURGE]
+No survivors!
+ບໍ່ມີຜູ້ລອດຊີວິດ!
+
+306
+00:19:49,950 --> 00:19:55,950
+[KUP]
+This reminds me of the battle on Alpha 9, when the Petro-Rabbits were... Grimlock, get your noodle out of my face!
+ນີ້ແມ່ນຈື່ຂ້ອຍເຖິງການຕໍ່ສູ້ໃນອາລຟາ 9, ເມື່ອ Petro-Rabbit
+ແມ່ນ... Grimlock, ເອົາ noodle ຂອງທ່ານອອກຈາກໃບຫນ້າຂອງຂ້ອຍ!
+
+307
+00:19:56,450 --> 00:19:58,550
+[GRIMLOCK]
+Me, Grimlock, love Kup's war stories!
+ຂ້ອຍ, ແກຣມລັອກ, ຮັກເລື່ອງສົງຄາມຂອງກູບ!
+
+308
+00:19:59,050 --> 00:20:05,050
+[KUP]
+You're living one now!  Engage the boosters for Cybertron's sake! Hot Rod nods and quickly passes his hand over bank of SWITCHES all of which GLOW AND PULSE with the action.
+ເຈົ້າ ກໍາ ລັງດໍາລົງຊີວິດ ຫນຶ່ງ ດຽວນີ້! ເຂົ້າຮ່ວມຜູ້ຊຸກຍູ້ເພື່ອຄວາມເປັນປະໂຫຍດຂອງໄຊບີເຕີຣອນ!
+ໂຣດຮ້ອນຍືດຫົວແລະສົ່ງມືຂອງລາວຜ່ານທະນາຄານຂອງ SWITCHES ຢ່າງໄວວາທັງ ຫມົດ ທີ່ສ່ອງແສງແລະດັນດ້ວຍການກະ ທໍາ.
+
+309
+00:20:05,550 --> 00:20:07,550
+[HOT ROD]
+You got 'em!
+ເຈົ້າຈັບພວກມັນແລ້ວ!
+
+310
+00:20:08,050 --> 00:20:14,050
+[BACK TO KUP AND GRIMLOCK]
+Grimlock still trying to stick his face in the control panel as Kup works furiously and more DECEPTICON FIRE HITS THE SHIP
+Grimlock ຍັງພະຍາຍາມຕິດໃບຫນ້າຂອງລາວໃນກະດານຄວບຄຸມໃນຂະນະທີ່
+Kup ເຮັດວຽກຢ່າງໂຊກຮ້າຍແລະໄຟ DECEPTICON ຫຼາຍຂຶ້ນຕີເຮືອ
+
+311
+00:20:14,550 --> 00:20:16,550
+[GRIMLOCK]
+Tell Grimlock about Petro-Rabbits again.
+ບອກກຣີມລັອກກ່ຽວກັບ Petro-Rabbit ອີກເທື່ອຫນຶ່ງ.
+
+312
+00:20:17,050 --> 00:20:20,550
+[KUP]
+I'll give you Petro-Rabbits. Contact! The Shuttle lurches and shakes
+ຂ້ອຍຈະໃຫ້ເຈົ້າ Petro-Rabbits. ຕິດຕໍ່
+! ເຮືອບິນຂັບເຄື່ອນແລະສັ່ນສະເທືອນ
+
+313
+00:20:21,050 --> 00:20:23,050
+[HOT ROD]
+Yaaaaaaaaho! We're airborne!
+ຢາອາອາຮໍ! ພວກເຮົາຢູ່ໃນອາກາດແລ້ວ!
+
+314
+00:20:23,550 --> 00:20:25,550
+[GRIMLOCK]
+Groooooowwwwwrrrr!
+Groooooowwwwwrrrr!
+
+315
+00:20:26,050 --> 00:20:28,050
+[CYCLONUS]
+Vaporize them!
+ເຮັດໃຫ້ພວກມັນຫາຍໃຈ!
+
+316
+00:20:28,550 --> 00:20:30,550
+[SPRINGER]
+Looks like we're shipmates, squirt!
+ເບິ່ງຄືວ່າພວກເຮົາເປັນເພື່ອນຮ່ວມງານເຮືອ, ສີດ!
+
+317
+00:20:31,050 --> 00:20:33,050
+[DANIEL]
+All right!
+ດີແລ້ວ!
+
+318
+00:20:33,550 --> 00:20:37,050
+[SPRINGER]
+But if you get space sick, you're gonna walk home.
+ແຕ່ຖ້າເຈົ້າເຈັບປ່ວຍຈາກອະວະກາດ, ເຈົ້າຈະຍ່າງກັບບ້ານ.
+
+319
+00:20:37,550 --> 00:20:39,550
+[ULTRA MAGNUS]
+Hurry!
+ໄວໆ!
+
+320
+00:20:40,050 --> 00:20:42,050
+[SPRINGER]
+Jump.
+ກະໂດດ.
+
+321
+00:20:42,550 --> 00:20:46,750
+[ON ARCEE]
+still going up the ramp while the shuttle slowly leaves the ground.
+ຍັງຂຶ້ນທາງລໍາບາກໃນຂະນະທີ່ເຮືອບິນສົ່ງອອກຈາກພື້ນດິນຊ້າໆ.
+
+322
+00:20:47,250 --> 00:20:49,250
+[DANIEL]
+That was close!
+ມັນໃກ້ແລ້ວ!
+
+323
+00:20:49,750 --> 00:20:52,900
+[SPRINGER]
+Believe it or not, this is the fun part.
+ເຊື່ອຫຼືບໍ່ເຊື່ອ, ນີ້ແມ່ນສ່ວນທີ່ມ່ວນຊື່ນ.
+
+324
+00:20:53,400 --> 00:20:56,200
+[ULTRA MAGNUS]
+No time to preheat....Can this ship take it?
+ບໍ່ມີເວລາທີ່ຈະ preheat ໄດ້... ເຮືອນີ້ສາມາດຮັບມັນໄດ້ບໍ?
+
+325
+00:20:56,700 --> 00:21:01,250
+[PERCEPTOR]
+With an accelerated ignition procedure the ceramic housings might create a magnetic flux.
+ດ້ວຍຂັ້ນຕອນການໄຟໄຫມ້ທີ່ໄວຂຶ້ນເຮືອນຊານເຊຣາມິກອາດຈະສ້າງການໄຫຼຂອງແມ່ເຫຼັກ
+.
+
+326
+00:21:01,750 --> 00:21:03,750
+[ULTRA MAGNUS]
+What?
+ຫຍັງ?
+
+327
+00:21:04,250 --> 00:21:06,250
+[SPRINGER]
+He says "go for it!"
+ລາວເວົ້າວ່າ"ໄປເຮັດມັນ!"
+
+328
+00:21:06,750 --> 00:21:08,750
+[HOT ROD]
+gives the thumbs up gesture.
+ໃຫ້ກະຕຸ້ນນິ້ວມືຂຶ້ນ.
+
+329
+00:21:09,250 --> 00:21:12,750
+[ON SPRINGER]
+as he turns and reacts, looking straight up and ahead
+ໃນຂະນະທີ່ລາວຫັນແລະປະຕິກິລິຍາ, ເບິ່ງກົງຂຶ້ນແລະຕໍ່ຫນ້າ
+
+330
+00:21:13,250 --> 00:21:16,750
+[SPRINGER]
+It ought to be smooth sailin' from here on in.
+ມັນຄວນເປັນການເດີນເຮືອຢ່າງລຽບງ່າຍຈາກບ່ອນນີ້ເຂົ້າມາ.
+
+331
+00:21:17,250 --> 00:21:19,250
+[ASTROTRAIN]
+Fuse them!
+ເອົາພວກມັນປະສົມກັນ!
+
+332
+00:21:19,750 --> 00:21:21,750
+[KUP]
+Ultra Magnus...what next?
+Ultra Magnus... ຕໍ່ໄປແມ່ນຫຍັງ?
+
+333
+00:21:22,250 --> 00:21:24,700
+[ULTRA MAGNUS]
+Remember what we did off Beta Four!
+ຈື່ໄວ້ວ່າພວກເຮົາເຮັດຫຍັງຈາກເບຕ້າສີ່!
+
+334
+00:21:25,200 --> 00:21:27,200
+[KUP]
+I remember it well.
+ຂ້ອຍຈື່ມັນດີ.
+
+335
+00:21:27,700 --> 00:21:29,800
+[GALVATRON'S SHIPS]
+which swerve to avoid them as....
+ເຊິ່ງຫັນໄປເພື່ອຫຼີກເວັ້ນພວກມັນເປັນ....
+
+336
+00:21:30,300 --> 00:21:32,300
+[GALVATRON'S SHIP]
+emerges from the chaos.
+ອອກມາຈາກຄວາມສັບສົນ.
+
+337
+00:21:32,800 --> 00:21:37,000
+[CYCLONUS]
+The explosions jammed my sensors.  I have lost track of the Autobots!
+ການລະເບີດເຮັດໃຫ້ເຊັນເຊີຂອງຂ້ອຍສັ່ນສະເທືອນ
+. ຂ້ອຍໄດ້ສູນເສຍການຕິດຕາມຂອງໂອໂຕໂບຕ໌ແລ້ວ!
+
+338
+00:21:37,500 --> 00:21:41,700
+[GALVATRON]
+Damn it!! They did the same thing to me off Beta four!
+ສະບາຍດີ!! ພວກເຂົາເຮັດສິ່ງດຽວກັນກັບຂ້ອຍຈາກເບຕ້າສີ່!
+
+339
+00:21:42,200 --> 00:21:47,100
+[SHUTTLE]
+Possible song - optimistic adventure with the suggestion that all dreams might not happen.
+ເພງທີ່ເປັນໄປໄດ້ - ການຜະຈົນໄພທີ່ມີຄວາມຫວັງດີດ້ວຍຂໍ້ສະເຫນີວ່າຄວາມຝັນທັງ
+ຫມົດ ອາດຈະບໍ່ເກີດຂຶ້ນ.
+
+340
+00:21:47,600 --> 00:21:53,600
+[ULTRA MAGNUS]
+Congratulations Autobots, we've lost 'em at least for a while. So rest up. We'll refuel on the Junk Planet and work out our battle plan there.
+ຂໍສະແດງຄວາມຍິນດີ Autobots, ພວກເຮົາໄດ້ສູນເສຍພວກມັນຢ່າງຫນ້ອຍເປັນເວລາດົນນານ. ສະນັ້ນພັກຜ່ອນ
+. ພວກເຮົາຈະເຕີມນໍ້າມັນໃນໂລກຂີ້ເຫຍື້ອແລະເຮັດວຽກແຜນການສູ້ຮົບຂອງພວກເຮົາຢູ່ບ່ອນນັ້ນ.
+
+341
+00:21:54,100 --> 00:22:00,100
+[KUP]
+Yep, I remember the dust was so thick off Beta 4 had to use windshield wipers on your optic sensors....
+ແມ່ນແລ້ວ, ຂ້ອຍຈື່ວ່າຂີ້ຝຸ່ນຫນາແຫນ້ນຫຼາຍຈາກເບຕ້າ 4
+ຕ້ອງໃຊ້ເຄື່ອງລ້າງຈໍທາງອາກາດໃສ່ເຊັນເຊີ optic ຂອງທ່ານ....
+
+342
+00:22:00,600 --> 00:22:05,150
+[GRIMLOCK]
+Me, Grimlock, know all about wipers! Want to hear good part of story!
+ຂ້ອຍ, ແກຣມລັອກ, ຮູ້ທຸກຢ່າງກ່ຽວກັບເຄື່ອງລ້າງ
+! ຢາກໄດ້ຍິນສ່ວນທີ່ດີຂອງເລື່ອງ!
+
+343
+00:22:05,650 --> 00:22:08,100
+[SWOOP]
+Good part, Kup! Tell Swoop good part!
+ສ່ວນທີ່ດີ, ຄູບ! ບອກ Swoop ສ່ວນທີ່ດີ!
+
+344
+00:22:08,600 --> 00:22:10,600
+[SLAG]
+Good part...tell
+ສ່ວນທີ່ດີ... ບອກ
+
+345
+00:22:11,100 --> 00:22:15,650
+[KUP]
+Okay, Okay. The dust was really thick and then this gigantic Ick Yak...
+ດີ, ດີ. ຝຸ່ນຫນາແຫນ້ນແທ້ໆແລະຫຼັງຈາກນັ້ນ Ick Yak ທີ່ໃຫຍ່ຫຼວງນີ້...
+
+346
+00:22:16,150 --> 00:22:21,050
+[HOT ROD]
+Don't you think we have better things to do now than tell stories Kup?
+ເຈົ້າບໍ່ຄິດວ່າພວກເຮົາມີສິ່ງທີ່ດີກວ່າທີ່ຈະເຮັດໃນປັດຈຸບັນກ່ວາການບອກເລື່ອງຄູບບໍ
+?
+
+347
+00:22:21,550 --> 00:22:23,550
+[KUP]
+Like what?
+ເຊັ່ນວ່າຫຍັງ?
+
+348
+00:22:24,050 --> 00:22:27,200
+[HOT ROD]
+Like maybe figure out how we're gonna stay alive.
+ຄືກັບບາງທີຄິດວ່າພວກເຮົາຈະຢູ່ອາໄສແນວໃດ.
+
+349
+00:22:27,700 --> 00:22:33,700
+[DINOBOTS]
+As he is speaking, Auto-Combatant "sees" its opening and gives Hot Rod a swift kick in the rear, sending him flying
+ໃນຂະນະທີ່ລາວ ກໍາ ລັງເວົ້າ, ຜູ້ຕໍ່ສູ້ລົດ"ເຫັນ"
+ການເປີດຂອງມັນແລະໃຫ້ Hot Rod ການຕີຢ່າງໄວວາໃນດ້ານຫຼັງ, ສົ່ງລາວບິນ
+
+350
+00:22:34,200 --> 00:22:36,200
+[HOT ROD]
+Time out, for Cybertron's sake!
+ເວລາອອກໄປ, ເພື່ອຄວາມດີຂອງໄຊບີຕຣອນ!
+
+351
+00:22:36,700 --> 00:22:42,700
+[AUTO COMBATANT]
+Time out, time out, time out! Suddenly, the shuttle rocks from impact and SPARKS and flames shoot out of large hole in wall
+ເວລາອອກໄປ, ເວລາອອກມາ, ເວລາອອກຈາກ! ທັນທີ,
+ເຮືອບິນສົ່ງຫີນຈາກຜົນກະທົບແລະສປາກແລະໄຟໄຫມ້ອອກຈາກຮູໃຫຍ່ໃນກໍາແພງ
+
+352
+00:22:43,200 --> 00:22:46,700
+[ULTRA MAGNUS]
+Kup! Raise your force fields at once! They're armed with.....
+ຄູບ! ຍົກສະ ຫນາມ ກໍາລັງຂອງທ່ານທັນທີ! ພວກເຂົາມີອາວຸດດ້ວຍ.....
+
+353
+00:22:47,200 --> 00:22:49,200
+[ULTRA MAGNUS]
+Moleculon Missiles!
+ລູກສອນໄຟໂມເລກູລອນ!
+
+354
+00:22:49,700 --> 00:22:51,700
+[HOT ROD]
+They're closing on us!
+ພວກເຂົາ ກໍາ ລັງໃກ້ຊິດພວກເຮົາ!
+
+355
+00:22:52,200 --> 00:22:54,300
+[KUP]
+Yep, like the shrikebats of Dromedon!
+ແມ່ນແລ້ວ, ຄືກັບ shrikebats ຂອງ Dromedon!
+
+356
+00:22:54,800 --> 00:22:56,800
+[HOT ROD]
+Yeah, how'd you beat them?
+ແມ່ນແລ້ວ, ເຈົ້າເອົາຊະນະພວກເຂົາແນວໃດ?
+
+357
+00:22:57,300 --> 00:23:01,500
+[KUP]
+I'm trying to remember...there were an awful lot of casualties that day...
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມຈື່ໄວ້... ມີຜູ້ເສຍຊີວິດຫຼາຍຢ່າງໃນມື້ນັ້ນ...
+
+358
+00:23:02,000 --> 00:23:04,000
+[KUP]
+Oh yeah, we inversed polarities.
+ໂອ້ ແມ່ນແລ້ວ, ພວກເຮົາໄດ້ປ່ຽນ polarities ໄດ້.
+
+359
+00:23:04,500 --> 00:23:06,500
+[HOT ROD]
+That'll tear the ship apart!
+ນັ້ນຈະເຮັດໃຫ້ເຮືອແຕກແຍກອອກ!
+
+360
+00:23:07,000 --> 00:23:13,000
+[KUP]
+You got a better idea?!! With that, the ship seems to stop, on a dime, in mid air! The missiles zoom past it.
+ເຈົ້າມີແນວຄິດທີ່ດີກວ່າບໍ?!! ດ້ວຍນັ້ນ, ເຮືອເບິ່ງຄືວ່າຈະຢຸດເຊົາ
+, ໃນເງິນສິບ, ໃນກາງອາກາດ! ລູກສອນໄຟຂະຫຍາຍຜ່ານມັນ.
+
+361
+00:23:13,500 --> 00:23:15,500
+[HOT ROD]
+Okay, so you were right.
+ດີແລ້ວ, ເຈົ້າເວົ້າຖືກຕ້ອງ.
+
+362
+00:23:16,000 --> 00:23:18,450
+[KUP]
+Don't run your programs until they're debugged.
+ຢ່າແລ່ນໂປແກຼມຂອງທ່ານຈົນກວ່າພວກເຂົາຈະຖືກແກ້ໄຂບັນຫາ.
+
+363
+00:23:18,950 --> 00:23:20,950
+[HOT ROD]
+They're coming back.
+ພວກເຂົາກໍາລັງກັບມາ.
+
+364
+00:23:21,450 --> 00:23:24,250
+[KUP]
+Let's just hope we've screwed up their trajectories.
+ພວກເຮົາພຽງແຕ່ຫວັງວ່າພວກເຮົາໄດ້ເຮັດໃຫ້ເສັ້ນທາງຂອງພວກເຂົາສໍ້ໂກງ.
+
+365
+00:23:24,750 --> 00:23:26,750
+[HOT ROD]
+Whew!!!
+ໂວ້!!!
+
+366
+00:23:27,250 --> 00:23:30,750
+[KUP]
+Yep, I thought we'd had it that time for sure.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າພວກເຮົາຈະເຮັດມັນໃນເວລານັ້ນແນ່ນອນ.
+
+367
+00:23:31,250 --> 00:23:33,250
+[HOT ROD]
+Dive!
+ນ້ ໍາ!
+
+368
+00:23:33,750 --> 00:23:36,200
+[SPRINGER]
+Kup and Hot Rod just bought it!
+ຄູບ ແລະ ຮອດ ໂຣດຫາກໍ່ຊື້ມັນ!
+
+369
+00:23:36,700 --> 00:23:38,800
+[ULTRA MAGNUS]
+I can't deal with that now.
+ຂ້ອຍບໍ່ສາມາດຮັບມືກັບມັນໄດ້ດຽວນີ້.
+
+370
+00:23:39,300 --> 00:23:45,300
+[SPRINGER]
+Face it, Magnus, the Decepticons 're gonna dog us until they see us dead! Ultra Magnus nods solemnly
+ຮັບມືກັບມັນ, ແມຈນັສ, ພວກ Decepticons
+ຈະລ້ຽງພວກເຮົາຈົນກວ່າພວກເຂົາຈະເຫັນພວກເຮົາຕາຍ! Ultra Magnus ຍືດຫົວຢ່າງເປັນທາງການ
+
+371
+00:23:45,800 --> 00:23:48,250
+[ULTRA MAGNUS]
+Then that's exactly what they're gonna see.
+ຫຼັງຈາກນັ້ນນັ້ນນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາຈະເຫັນ.
+
+372
+00:23:48,750 --> 00:23:51,900
+[ON GALVATRON]
+as he works controls which eject more Moleculon Missiles.
+ໃນຂະນະທີ່ລາວເຮັດວຽກຄວບຄຸມທີ່ຖິ້ມລູກສອນໄຟໂມເລກູລອນຫຼາຍຂຶ້ນ.
+
+373
+00:23:52,400 --> 00:23:54,400
+[CYCLONUS]
+The Autobots have been terminated!
+ພວກໂອບໂຕບອດໄດ້ຖືກສິ້ນສຸດລົງແລ້ວ!
+
+374
+00:23:54,900 --> 00:24:00,900
+[GALVATRON]
+Excellent. And soon we shall say the same of that infernal Unicron. Suddenly, Galvatron's body begins to twist, and he writhes in pain.
+ດີເລີດ. ແລະໃນໄວໆນີ້ພວກເຮົາຈະເວົ້າຄືກັນກັບ Unicron ທີ່ໂຊກຮ້າຍນັ້ນ.
+ທັນທີ, ຮ່າງກາຍຂອງ Galvatron ເລີ່ມຫັນ, ແລະລາວສັ່ນສະເທືອນຈາກຄວາມເຈັບປວດ.
+
+375
+00:24:01,400 --> 00:24:03,400
+[GALVATRON]
+Aaaah!   Take me to Unicron...Aaaah!
+ອາອາ! ເອົາຂ້ອຍໄປຫາ Unicron... ອາອາອາ!
+
+376
+00:24:03,900 --> 00:24:07,400
+[ARCEE]
+Did we have to detonate three- quarters of the ship?!
+ພວກເຮົາຕ້ອງລະເບີດສາມສ່ວນສີ່ຂອງເຮືອບໍ?!
+
+377
+00:24:07,900 --> 00:24:13,900
+[SPRINGER]
+Seeing how they would have detonated four quarters, I think it was a good choice. SUDDEN SHUDDER AND THE SHIP DROPS SHARPLY, all holding on to each other and to any protruding handhold
+ເບິ່ງວ່າພວກເຂົາຈະລະເບີດສີ່ແສນແນວໃດ, ຂ້ອຍຄິດວ່າມັນເປັນທາງເລືອກທີ່ດີ. SHUDDER
+Sudden ແລະເຮືອຫຼຸດລົງຢ່າງກະທັນຫັນ, ທັງ ຫມົດ ຈັບກັນແລະກັນແລະມືທີ່ໂດດເດັ່ນໃດໆ
+
+378
+00:24:14,400 --> 00:24:16,850
+[ULTRA MAGNUS]
+Perceptor....can you still locate the Junk Planet?
+ເຈົ້າສາມາດຊອກຫາໂລກຂີ້ເຫຍື້ອໄດ້ບໍ?
+
+379
+00:24:17,350 --> 00:24:21,550
+[PERCEPTOR]
+Gamma waves in this sector of space create marginal navigation probabilities, however.....
+ຄື້ນຟອງແກມາມາໃນພາກສ່ວນນີ້ຂອງອະວະກາດສ້າງຄວາມເປັນໄປໄດ້ໃນການເດີນເຮືອແຄມ
+, ເຖິງຢ່າງໃດກໍ່ຕາມ.....
+
+380
+00:24:22,050 --> 00:24:25,200
+[ULTRA MAGNUS]
+Holds his head in his hands as Springer grimaces
+ຈັບຫົວໄວ້ໃນມືໃນຂະນະທີ່ສປຣິງເກີສັ່ນສະເທືອນ
+
+381
+00:24:25,700 --> 00:24:27,700
+[PERCEPTOR]
+Ahem.....yes I think I can.
+ອາເຮມ... ແມ່ນແລ້ວ ຂ້ອຍຄິດວ່າຂ້ອຍສາມາດເຮັດໄດ້.
+
+382
+00:24:28,200 --> 00:24:33,450
+[HOT ROD]
+still cartwheeling down toward the planet below, trying to change the angle of his fall
+ຍັງຂັບລົດລໍ້ລົງໄປສູ່ໂລກລຸ່ມນີ້, ພະຍາຍາມປ່ຽນມຸມຂອງການຕົກຂອງລາວ
+
+383
+00:24:33,950 --> 00:24:39,950
+[HOT ROD]
+Kup....Grimlock?   Slag!....Anybody? WE FOLLOW him through undersea world as he rounds a "corner" of the Reef Wall and reacts
+Kup... Grimlock? Slag!.... ໃຜ? ພວກເຮົາຕິດຕາມລາວຜ່ານໂລກພາຍໃຕ້ທະເລໃນຂະນະທີ່ລາວ
+ຫມູນ ວຽນ"ມຸມ" ຂອງກໍາແພງ Reef ແລະປະຕິກິລິຍາ
+
+384
+00:24:40,450 --> 00:24:42,450
+[HOT ROD]
+Kup!
+ຄັບ!
+
+385
+00:24:42,950 --> 00:24:44,950
+[THE SQUID]
+angrily streaks toward Hot Rod.
+ເສັ້ນທາງທີ່ໂຊກຮ້າຍໄປສູ່ Hot Rod.
+
+386
+00:24:45,450 --> 00:24:48,250
+[HOT ROD]
+Fires at the Squid, but not stopping him.
+ຍິງໃສ່ Squid ໄດ້, ແຕ່ບໍ່ໄດ້ຢຸດລາວ.
+
+387
+00:24:48,750 --> 00:24:54,750
+[THE SQUID]
+releases a laser print ink stream which boils out in the water in a series of dots and "x" shapes and retreats.
+ປ່ອຍສາຍແອວສີພິມເລເຊີທີ່ຕົ້ມອອກໃນນ້ ໍາ
+ໃນຊຸດຂອງຈຸດແລະຮູບຊົງ"x" ແລະຖອນຕົວ.
+
+388
+00:24:55,250 --> 00:24:57,700
+[HOT ROD]
+Don't worry, I'm not coming after you.
+ຢ່າກັງວົນ, ຂ້ອຍຈະບໍ່ມາຕາມເຈົ້າ.
+
+389
+00:24:58,200 --> 00:25:04,200
+[HOT ROD]
+lowers his head and blows blast of air through head-piece. The air blast clears the water, revealing Kup's head and torso half buried in the "sand"
+ຫຼຸດຫົວລົງແລະພັດລົມຜ່ານກະດານຫົວ. ການລະເບີດອາກາດເຮັດໃຫ້ນ້
+ໍາ ສະອາດ, ເປີດເຜີຍຫົວແລະຮ່າງກາຍຂອງກູບເຄິ່ງຝັງໄວ້ໃນ"ດິນຊາຍ"
+
+390
+00:25:04,700 --> 00:25:06,700
+[HOT ROD]
+Kup!   Say something!
+ຄູບ! ເວົ້າບາງຢ່າງ!
+
+391
+00:25:07,200 --> 00:25:09,200
+[KUP]
+Fix me!
+ແກ້ໄຂຂ້ອຍ!
+
+392
+00:25:09,700 --> 00:25:13,550
+[HOT ROD]
+Sure, Kup....right away! Hot Rod rapidly PULLS KUP'S SCATTERED BODY PARTS
+ແນ່ນອນ, ຄູບ... ທັນທີ!
+ກະດານຮ້ອນດຶງສ່ວນຮ່າງກາຍທີ່ແຕກແຍກຂອງຄູບຢ່າງໄວວາ
+
+393
+00:25:14,050 --> 00:25:20,050
+[HOT ROD]
+Well...what do you think? Kup feels his elbow joint, twists his neck side to side and gets creaks and squeaks and moves legs in odd, creaky way as he is trying himself out.
+ຄຸເຂົ່າລົງ
+
+394
+00:25:20,550 --> 00:25:22,550
+[KUP]
+There's a piece missing.
+ມີສ່ວນຫນຶ່ງຂາດຫາຍໄປ.
+
+395
+00:25:23,050 --> 00:25:29,050
+[HOT ROD]
+No way....  See, this wasn't yours...it's some kind of prehistoric ion cruncher....and this doohickey looks like a funky energon funnel... and this...
+ບໍ່ເປັນໄປເລີຍ... ເບິ່ງ, ນີ້ແມ່ນບໍ່ແມ່ນຂອງເຈົ້າ... ມັນແມ່ນເຄື່ອງຕັດໄອອນກ່ອນປະຫວັດສາດບາງຊະນິດ
+.... ແລະ doohickey ນີ້ເບິ່ງຄືວ່າເປັນທໍ່ພະລັງງານທີ່ສວຍງາມ... ແລະສິ່ງນີ້...
+
+396
+00:25:29,550 --> 00:25:32,700
+[KUP]
+(moving up and back, bending arms and hands, CREAKING,
+(ເຄື່ອນຍ້າຍຂຶ້ນແລະກັບຄືນໄປບ່ອນ, ປັບແຂນແລະມື, ຮ້ອງໄຫ້,
+
+397
+00:25:33,200 --> 00:25:39,200
+[CLUNKING, SQUEAKING)]
+Well, I still think I'm short a part!  But all things considered, you did an amazing job, lad! Amazing!
+ດີ, ຂ້ອຍຍັງຄິດວ່າຂ້ອຍຂາດບົດບາດ! ແຕ່ທຸກສິ່ງທຸກຢ່າງພິຈາລະນາ
+, ເຈົ້າເຮັດວຽກທີ່ຍິ່ງໃຫຍ່, ເດັກຊາຍ! ທີ່ຍິ່ງໃຫຍ່ນ!
+
+398
+00:25:39,700 --> 00:25:41,700
+[HOT ROD]
+Really?
+ແທ້ບໍ?
+
+399
+00:25:42,200 --> 00:25:48,200
+[KUP]
+Yeah, you even got rid of a nasty burr on my rotator! Now, let's find the Dinos and get off this twisted planet!
+ແມ່ນແລ້ວ, ເຈົ້າຍັງໄດ້ ກໍາ ຈັດ burr ທີ່ຮ້າຍແຮງໃນ rotator
+ຂອງຂ້ອຍ! ດຽວນີ້, ມາຊອກຫາ Dinos ແລະອອກຈາກໂລກທີ່ສໍ້ໂກງນີ້!
+
+400
+00:25:48,700 --> 00:25:54,700
+[ON KUP]
+as he transforms it's evident that a fender is misplaced and a wheel mounted improperly so it wobbles and he rides unevenly with much chugging and oil spewing
+ໃນຂະນະທີ່ລາວປ່ຽນແປງມັນຈະແຈ້ງວ່າກະຕູ້ກະຕຸ້ນກະຕູ້ນັ້ນຖືກວາງໄວ້ຢ່າງຜິດພາດແລະລົດຖີບຖືກຕິດຕັ້ງບໍ່ຖືກຕ້ອງ
+ສະນັ້ນມັນຍືດຫຍຸ່ນແລະລາວຂີ່ບໍ່ເທົ່າທຽມກັນດ້ວຍການສັ່ນສະເທືອນຫຼາຍແລະການຖິ້ມນ້ ໍາ ມັນ
+
+401
+00:25:55,200 --> 00:26:00,450
+[KUP]
+Of all the circuit glitched diode blowin' dim-wittery... I told you a part was missin'.
+ໃນວົງຈອນທັງ ຫມົດ ທີ່ຜິດພາດໄດໂອດທີ່ພັດລົມແສງສະຫວ່າງ
+... ຂ້ອຍບອກເຈົ້າວ່າສ່ວນ ຫນຶ່ງ ຂາດຫາຍໄປ.
+
+402
+00:26:00,950 --> 00:26:03,750
+[KUP]
+Don't act hostile. I'll use the universal greeting.
+ຢ່າເຮັດແບບເປັນສັດຕູ. ຂ້ອຍຈະໃຊ້ການອວຍພອນທົ່ວໄປ.
+
+403
+00:26:04,250 --> 00:26:06,250
+[HOT ROD]
+Universal Greeting.
+ການອວຍພອນທົ່ວໄປ.
+
+404
+00:26:06,750 --> 00:26:09,900
+[KUP]
+Watch.   I'll have them eating out of my hand.
+ເບິ່ງແມ. ຂ້ອຍຈະໃຫ້ພວກເຂົາກິນຈາກມືຂອງຂ້ອຍ.
+
+405
+00:26:10,400 --> 00:26:12,400
+[HOT ROD]
+Or our faces.
+ຫຼືໃບຫນ້າຂອງພວກເຮົາ.
+
+406
+00:26:12,900 --> 00:26:14,900
+[KUP]
+Bah-weep-Graaaaagnah wheep ni ni bong...
+ບາ-ຮ້ອງໄຫ້- ແກຣອາອາອາແກນາຮ້ອງໄຮ້ ni ni bong...
+
+407
+00:26:15,400 --> 00:26:18,550
+[HOT ROD]
+Bah-weep-Graaaaagnah wheep ni ni bong... The Sharkticons look interested.
+ບາ-ຮ້ອງໄຫ້- ແກຣອາອາຈານາຮ້ອງໄຮ້ ni ni
+bong... ພວກແຊກແຄນເບິ່ງຄືວ່າສົນໃຈ.
+
+408
+00:26:19,050 --> 00:26:25,050
+[KUP]
+See, the Universal Greeting works every time.  Now, without making any sudden moves, give them an Energon goody. Kup reaches into his belt, presses a button and pulls out an Energon cube. Hot Rod, somewhat suspicious of the whole process does the came.
+ເບິ່ງ, ການອວຍພອນທົ່ວໄປເຮັດວຽກທຸກຄັ້ງ. ດຽວນີ້, ໂດຍບໍ່ຕ້ອງເຄື່ອນໄຫວຢ່າງກະທັນຫັນໃດໆ, ໃຫ້ພວກເຂົາເຄື່ອງທີ່ດີຂອງເອເນຣຈອນ
+. ຄູບຍືດເຂົ້າໄປໃນສາຍແອວຂອງລາວ, ກົດປຸ່ມແລະດຶງກ້ອນເອເນເຣຈອນອອກ. ໂຣດຮ້ອນ, ມີຄວາມສົງໄສບາງຢ່າງຕໍ່ຂະບວນການທັງ ຫມົດ ມາ.
+
+409
+00:26:25,550 --> 00:26:27,550
+[HOT ROD]
+This is getting expensive.
+ນີ້ແມ່ນ ກໍາ ລັງແພງຂຶ້ນ.
+
+410
+00:26:28,050 --> 00:26:34,050
+[KUP]
+Don't worry, they'll reciprocate. They each hand out three Energon goodies to the remaining six Sharkticons... The Sharkticons eat them happily. Then, they back off, eyeing the two Autobots with menace.
+ຢ່າກັງວົນ, ພວກເຂົາຈະຕອບແທນກັນ. ພວກເຂົາແຕ່ລະຄົນແຈກຢາຍເຄື່ອງທີ່ດີຂອງພະລັງງານສາມຢ່າງໃຫ້ຫົກ Sharkticons
+ທີ່ເຫຼືອ... Sharktikons ກິນພວກມັນດ້ວຍຄວາມສຸກ. ຫຼັງຈາກນັ້ນ, ພວກເຂົາຖອຍໄປ, ເບິ່ງສອງ Autobots ດ້ວຍໄພຂົ່ມຂູ່.
+
+411
+00:26:34,550 --> 00:26:37,000
+[HOT ROD]
+I thought they were supposed to reciprocate.
+ຂ້ອຍຄິດວ່າພວກເຂົາຄວນຕອບແທນກັນ.
+
+412
+00:26:37,500 --> 00:26:43,500
+[KUP]
+Customs vary from place to place. Suddenly, the Sharkticons transform to their vicious mode and lunge at them.
+ພຶດຕິກໍາແຕກຕ່າງກັນຈາກສະຖານທີ່ໄປບ່ອນ. ທັນທີ, Sharkticons
+ປ່ຽນແປງເປັນຮູບແບບທີ່ຮ້າຍແຮງຂອງພວກເຂົາແລະລຸກໃສ່ພວກເຂົາ.
+
+413
+00:26:44,000 --> 00:26:47,500
+[KUP]
+Reminds me of the Niter Slave Mines on Golgonath Seven....
+ຈື່ຂ້ອຍເຖິງບໍ່ແຮ່ທາດນິດເຕີ Slave ໃນໂກລໂກນາທ໌ເຈັດ....
+
+414
+00:26:48,000 --> 00:26:50,800
+[HOT ROD]
+Every place reminds you of some place else.....
+ທຸກບ່ອນເຮັດໃຫ້ເຈົ້າຈື່ບ່ອນອື່ນ.....
+
+415
+00:26:51,300 --> 00:26:54,100
+[KUP]
+Experience, lad. You should learn to appreciate it.
+ຄວາມປະສົບການ, ເດັກຊາຍ. ເຈົ້າຄວນຮຽນຮູ້ທີ່ຈະຍ້ອງຍໍມັນ.
+
+416
+00:26:54,600 --> 00:26:57,750
+[HOT ROD]
+A lot of good it's done us so far!
+ມັນໄດ້ເຮັດໃຫ້ພວກເຮົາດີຫຼາຍຈົນເຖິງປະຈຸບັນ!
+
+417
+00:26:58,250 --> 00:27:00,250
+[HOT ROD]
+I can't transform!
+ຂ້ອຍບໍ່ສາມາດປ່ຽນແປງໄດ້!
+
+418
+00:27:00,750 --> 00:27:02,750
+[KUP]
+They're restraining bolts, lad.
+ພວກເຂົາ ກໍາ ລັງກີດຂວາງໂບລຕ໌, ເດັກຊາຍ.
+
+419
+00:27:03,250 --> 00:27:07,450
+[HOT ROD]
+We got to get a new travel agent.... What is this place?
+ພວກເຮົາຕ້ອງເອົາຕົວແທນທ່ອງທ່ຽວຄົນໃຫມ່... ບ່ອນນີ້ເປັນຫຍັງ?
+
+420
+00:27:07,950 --> 00:27:13,950
+[KRANIX]
+The world of the savage Sharkticons and their cruel masters the Quintessons. They hunt down those who try to escape the wrath of Unicron, and put them on trial.
+ໂລກຂອງແຊກຕິກອນທີ່ໂຊກຮ້າຍແລະເຈົ້າຂອງພວກເຂົານຮ້າຍແຮງ ຄວິນເຕຊັນ.
+ພວກເຂົາລ່າລ່າຜູ້ທີ່ພະຍາຍາມຫນີຈາກຄວາມໂກດຮ້າຍຂອງ Unicron, ແລະເຮັດໃຫ້ພວກເຂົາຖືກພິພາກສາ.
+
+421
+00:27:14,450 --> 00:27:16,450
+[KUP]
+But what if they're innocent?
+ແຕ່ຖ້າພວກເຂົາບໍ່ຜິດຫຍັງ?
+
+422
+00:27:16,950 --> 00:27:20,800
+[KRANIX]
+Guilty or innocent, the sentence is always the same - death!
+ມີຄວາມຜິດຫຼືບໍ່ຜິດ, ການຕັດສິນແມ່ນຄືກັນຢູ່ສະເຫມີ - ການຕາຍ!
+
+423
+00:27:21,300 --> 00:27:23,300
+[HOT ROD]
+Unicron?!    Who's Unicron?
+Unicron?! Unicron ແມ່ນໃຜ?
+
+424
+00:27:23,800 --> 00:27:29,050
+[KRANIX]
+A planet six times the size of this one that absorbs everything in its path.
+ໂລກທີ່ໃຫຍ່ກວ່າໂລກນີ້ 6 ເທົ່າ ທີ່ດູດຊຶມທຸກຢ່າງໃນເສັ້ນທາງຂອງມັນ.
+
+425
+00:27:29,550 --> 00:27:31,550
+[KUP]
+So that's the monster's name.
+ສະນັ້ນນັ້ນແມ່ນຊື່ຂອງໂມສເຕີ.
+
+426
+00:27:32,050 --> 00:27:35,550
+[HOT ROD]
+I wonder if there's any connection between it and Galvatron.
+ຂ້ອຍຢາກຮູ້ວ່າມີການເຊື່ອມໂຍງໃດໆລະຫວ່າງມັນແລະ Galvatron ບໍ.
+
+427
+00:27:36,050 --> 00:27:38,050
+[JUROR #1]
+We have your honor.
+ພວກເຮົາມີກຽດຕິຍົດຂອງທ່ານ.
+
+428
+00:27:38,550 --> 00:27:40,650
+[KRANIX]
+Spare me this mockery of justice.
+ປ່ອຍຂ້ອຍຈາກການໂຊກຮ້າຍຄວາມຍຸຕິທໍານີ້.
+
+429
+00:27:41,150 --> 00:27:43,150
+[JURORS]
+Guilty!!
+ມີຄວາມຜິດ!!
+
+430
+00:27:43,650 --> 00:27:46,100
+[KUP]
+Not the end I'd wish for, lad.
+ບໍ່ແມ່ນຈຸດສິ້ນສຸດທີ່ຂ້ອຍຢາກໄດ້, ເດັກຊາຍ.
+
+431
+00:27:46,600 --> 00:27:48,600
+[DANIEL]
+Where are we, Springer?
+ພວກເຮົາຢູ່ໃສ, ສປຣິງເກີ?
+
+432
+00:27:49,100 --> 00:27:52,950
+[SPRINGER]
+The place where everything ends up after you throw it out.
+ບ່ອນທີ່ທຸກຢ່າງສິ້ນສຸດລົງຫຼັງຈາກເຈົ້າຖິ້ມມັນອອກ.
+
+433
+00:27:53,450 --> 00:27:55,450
+[ULTRA MAGNUS]
+Brace for impact!
+ກຽມພ້ອມ ສໍາ ລັບການກະທົບ!
+
+434
+00:27:55,950 --> 00:28:01,950
+[SPRINGER]
+Remind me to give the Auto Pilot a raise... Daniel creeps out from under Arcee and shakes bits of broken metal and dust off his shoulders
+ຄຸເຂົ່າລົງ
+
+435
+00:28:02,450 --> 00:28:05,950
+[DANIEL]
+Wow! That was better'n the Roller Coaster at Future World!
+ໂວ້! ນັ້ນດີກວ່າ roller coaster ໃນໂລກອະນາຄົດ!
+
+436
+00:28:06,450 --> 00:28:12,400
+[PERCEPTOR]
+The composition of this planet seems to be a chaotic amalgam of discarded ferrous and non-ferrous articulations.
+ການປະກອບຂອງໂລກນີ້ເບິ່ງຄືວ່າເປັນການປະສົມປະສານທີ່ໂຊກຮ້າຍຂອງກະດູກເຫຼັກແລະບໍ່ເປັນເຫຼັກທີ່ຖືກຖິ້ມໄວ້
+.
+
+437
+00:28:12,900 --> 00:28:14,900
+[ULTRA MAGNUS]
+How's that?
+ນັ້ນເປັນແນວໃດ?
+
+438
+00:28:15,400 --> 00:28:17,400
+[SPRINGER]
+(opening hull door with a
+(ເປີດປະຕູກະເປົາດ້ວຍ
+
+439
+00:28:17,900 --> 00:28:20,350
+[RIPPING OF METAL)]
+He says the planet's made of junk.
+ລາວເວົ້າວ່າໂລກແມ່ນເຮັດດ້ວຍຂີ້ເຫຍື້ອ.
+
+440
+00:28:20,850 --> 00:28:22,950
+[SPRINGER]
+Yep, this dump is a dump......
+ແມ່ນແລ້ວ, ບ່ອນເກັບມ້ຽນນີ້ແມ່ນບ່ອນເກັບມ້ຽມ......
+
+441
+00:28:23,450 --> 00:28:25,550
+[ULTRA MAGNUS]
+as he straps on TOOL BELT
+ໃນຂະນະທີ່ລາວຕິດສາຍແອວເຄື່ອງມື
+
+442
+00:28:26,050 --> 00:28:32,050
+[ULTRA MAGNUS]
+We might be able to salvage this thing.  Ultra Magnus starts for door followed by Blurr who takes up a saw and tool belt and Perceptor who rolls up Shuttle Plans as Daniel moves out to join them
+ພວກເຮົາອາດຈະສາມາດຊ່ວຍສິ່ງນີ້ໄດ້. Ultra Magnus ເລີ່ມໄປປະຕູຕິດຕາມໂດຍ Blurr ຜູ້ທີ່ເອົາສາຍແອວແລະເຄື່ອງມືແລະ
+Perceptor ຜູ້ທີ່ rolls ເຖິງແຜນການ Shuttle ໃນຂະນະທີ່ດານີເລຍຍຍ້າຍອອກໄປເຂົ້າຮ່ວມພວກເຂົາ
+
+443
+00:28:32,550 --> 00:28:34,550
+[DANIEL]
+Can I help, too?
+ຂ້ອຍສາມາດຊ່ວຍໄດ້ບໍ?
+
+444
+00:28:35,050 --> 00:28:39,600
+[SPRINGER]
+It's rough out there, kid. Stay inside and play with crayons or something.
+ມັນຍາກຢູ່ພາຍນອກ, ເດັກນ້ອຍ.
+ຢູ່ພາຍໃນແລະຫຼິ້ນກັບ crayons ຫຼືບາງສິ່ງບາງຢ່າງ.
+
+445
+00:28:40,100 --> 00:28:45,350
+[ARCEE]
+as she steps forward with a smile, a strange GRID LIKE "SUIT" in her hand
+ໃນຂະນະທີ່ນາງກ້າວໄປຂ້າງຫນ້າດ້ວຍຄວາມມ່ວນຊື່ນ
+, ເຄືອຂ່າຍທີ່ແປກໃຈຄືກັບ"ຊຸດ" ໃນມືຂອງນາງ
+
+446
+00:28:45,850 --> 00:28:50,400
+[ARCEE]
+I think Daniel can make himself useful with....this! It used to be Spike's.
+ຂ້ອຍຄິດວ່າດານີເລສາມາດເຮັດໃຫ້ຕົວເອງເປັນປະໂຫຍດດ້ວຍ
+.... ນີ້ແມ່ນ! ມັນເຄີຍເປັນຂອງສປາຍເກີ.
+
+447
+00:28:50,900 --> 00:28:55,450
+[DANIEL]
+Wow! Dad's exo-suit. He told me about it but I never saw it.
+ໂວ້! ຊຸດພາຍນອກຂອງພໍ່.
+ລາວບອກຂ້ອຍກ່ຽວກັບມັນແຕ່ຂ້ອຍບໍ່ເຄີຍເຫັນມັນເລີຍ.
+
+448
+00:28:55,950 --> 00:28:57,950
+[ARCEE]
+Here, try it on.
+ມາແລ້ວ, ພະຍາຍາມມັນໃສ່.
+
+449
+00:28:58,450 --> 00:29:04,050
+[ON DANIEL]
+as he gets inside the "suit" which fits over his body like a grid-work metal "cage."
+ຄຸເຂົ່າລົງ
+
+450
+00:29:04,550 --> 00:29:08,750
+[SPRINGER]
+Just think about what you want to do before you do it!
+ພຽງແຕ່ຄິດວ່າເຈົ້າຢາກເຮັດຫຍັງກ່ອນທີ່ຈະເຮັດມັນ!
+
+451
+00:29:09,250 --> 00:29:11,250
+[DANIEL]
+brows knitted, thinking.
+ກະທູ້ທີ່ເຄືອບ, ຄິດ.
+
+452
+00:29:11,750 --> 00:29:13,750
+[SPRINGER]
+Don't fight it Dan-O.
+ຢ່າຕໍ່ສູ້ກັບມັນດານໂອ.
+
+453
+00:29:14,250 --> 00:29:16,250
+[DANIEL]
+It's kind of tricky....
+ມັນຍາກບາງຢ່າງ....
+
+454
+00:29:16,750 --> 00:29:19,550
+[ARCEE]
+For the first time out, you were great!
+ສໍາລັບຄັ້ງທໍາອິດອອກໄປ, ເຈົ້າດີເລີດ!
+
+455
+00:29:20,050 --> 00:29:22,850
+[SPRINGER]
+Show time's over! We've got work to do!
+ເວລາສະແດງຫມົດແລ້ວ! ພວກເຮົາມີວຽກເຮັດ!
+
+456
+00:29:23,350 --> 00:29:26,500
+[DANIEL]
+This must be the junk capital of the universe!
+ນີ້ແມ່ນຕ້ອງເປັນນະຄອນຫຼວງຂີ້ເຫຍື້ອຂອງຈັກກະວານ!
+
+457
+00:29:27,000 --> 00:29:30,500
+[WRECK-GAR]
+Stop thief! No welcome-wagon, "hello stranger!" that good coffee flavor
+ຢຸດເຊົາຄົນລັກ! ບໍ່ມີລົດຕ້ອນຮັບ,"
+ສະບາຍດີຄົນແປກໃຈ!" ລົດຊາດກາເຟທີ່ດີນັ້ນ
+
+458
+00:29:31,000 --> 00:29:37,000
+[OTHER JUNKIONS]
+Yeah, or your money back! Wreck-Gar shows large JUNK GUN with all sorts of razor sharp fins and rusty little rocket missiles mounted around the howitzer like barrel
+ແມ່ນແລ້ວ, ຫຼືເງິນຂອງທ່ານກັບຄືນໄປບ່ອນ! Wreck-Gar
+ສະແດງປືນຂີ້ເຫຍື້ອຂະຫນາດໃຫຍ່ທີ່ມີທຸກຊະນິດຂອງກະດານແກະສະຫຼັກແລະລູກສອນໄຟຂະຫນາດນ້ອຍ rusty ຕິດຕັ້ງຢູ່ອ້ອມຮອບ howitzer ເຊັ່ນຖັງ
+
+459
+00:29:37,500 --> 00:29:43,500
+[WRECK-GAR]
+Operators are standing by! They laugh in guttural, clanking sounds and look out at Springer and the others who keep working as we
+ຜູ້ປະຕິບັດງານ ກໍາ ລັງຢືນຢູ່! ພວກເຂົາມ່ວນຊື່ນໃນ guttural, ສຽງ
+clunking ແລະເບິ່ງແຍງສປຣິງເກີແລະຄົນອື່ນທີ່ສືບຕໍ່ເຮັດວຽກຄືກັບພວກເຮົາ
+
+460
+00:29:44,000 --> 00:29:47,150
+[GRIMLOCK]
+Yes, me, Grimlock, noble! Me, Grimlock search for friends.
+ແມ່ນແລ້ວ, ຂ້ອຍ, ແກຣມລັອກ, ສູງສຸດ! ຂ້ອຍ, ກຣີມລາກຊອກຫາເພື່ອນມິດ.
+
+461
+00:29:47,650 --> 00:29:49,650
+[GRIMLOCK]
+Autobots.    Hot Rod and Kup.
+ໂອບໂຕບອດ. ຮອດ ໂຣດ ແລະ ຄູບ.
+
+462
+00:29:50,150 --> 00:29:52,600
+[GRIMLOCK]
+Yes.   You know friends.   Where are they?
+ແມ່ນແລ້ວ. ເຈົ້າຮູ້ຈັກເພື່ອນມິດ. ພວກເຂົາຢູ່ໃສ?
+
+463
+00:29:53,100 --> 00:29:56,600
+[A PATH]
+It probably isn't lined with primroses, but it should be.
+ມັນອາດຈະບໍ່ໄດ້ຖືກປົກຄຸມດ້ວຍດອກໄມ້ຕົ້ນໄມ້, ແຕ່ມັນຄວນຈະເປັນ.
+
+464
+00:29:57,100 --> 00:30:00,600
+[GRIMLOCK]
+GRIMLOCK You good friend to Grimlock.    I reward you, sometime.
+ເຈົ້າເປັນເພື່ອນທີ່ດີກັບກຣີມລັອກ. ຂ້ອຍຈະລາງວັນເຈົ້າ, ບາງຄັ້ງ.
+
+465
+00:30:01,100 --> 00:30:03,100
+[GALVATRON]
+Why do you torture me?!
+ເຈົ້າທໍລະມານຂ້ອຍເປັນຫຍັງ?!
+
+466
+00:30:03,600 --> 00:30:05,600
+[UNICRON]
+You have failed.
+ເຈົ້າລົ້ມເຫຼວແລ້ວ.
+
+467
+00:30:06,100 --> 00:30:08,200
+[GALVATRON]
+No, Unicron. Ultra Magnus is dead.
+ບໍ່, Unicron. Ultra Magnus ແມ່ນຕາຍແລ້ວ.
+
+468
+00:30:08,700 --> 00:30:10,700
+[UNICRON]
+Then where is the matrix?
+ຫຼັງຈາກນັ້ນແມຕຣິກສ໌ຢູ່ໃສ?
+
+469
+00:30:11,200 --> 00:30:13,200
+[GALVATRON]
+Destroyed, with him.
+ຖືກທໍາລາຍ, ກັບລາວ.
+
+470
+00:30:13,700 --> 00:30:19,700
+[UNICRON]
+The matrix can not be destroyed.  And Ultra Magnus lives on the planet of Junk. Stalk him. Cut him open! And bring the matrix to me.
+ແມຕຣິກສ໌ບໍ່ສາມາດທໍາລາຍໄດ້. ແລະ Ultra Magnus ອາໄສຢູ່ໃນໂລກຂອງຂີ້ເຫຍື້ອ
+. ຕິດຕາມລາວ. ຕັດລາວເປີດ! ແລະເອົາແມຕຣີສ໌ມາຫາຂ້ອຍ.
+
+471
+00:30:20,200 --> 00:30:24,400
+[GRIMLOCK]
+Me Grimlock, positive Hot Rod and Kup close! Get thump, thump, thump...
+ຂ້ອຍກຣີມລັອກ, ໂຮຕຣອດບວກແລະຄູບໃກ້ຊິດ! ໄດ້ຮັບການຕີ, ຕີ, ຕີ...
+
+472
+00:30:24,900 --> 00:30:30,850
+[SLAG]
+Me, Slag say you are full of beryllium balony. He is just about to fall in when...
+ຂ້ອຍ, ສລາກເວົ້າວ່າເຈົ້າເຕັມໄປດ້ວຍບາລອນີເບຣີລຽມ
+. ລາວ ກໍາ ລັງຈະຕົກລົງໃນເວລາທີ່...
+
+473
+00:30:31,350 --> 00:30:35,200
+[GRIMLOCK]
+Me, Grimlock, say you full of cesium salami! Slag gets up...
+ຂ້ອຍ, ແກຣມລັອກ, ເວົ້າວ່າເຈົ້າເຕັມໄປດ້ວຍຊາລາມິຊີມ! Slag ຂຶ້ນ...
+
+474
+00:30:35,700 --> 00:30:37,700
+[SLAG]
+Beryllium balony!
+ບາລອນີເບຣີລຽມ!
+
+475
+00:30:38,200 --> 00:30:40,200
+[GRIMLOCK]
+Argh!
+ອາຣ໌!
+
+476
+00:30:40,700 --> 00:30:43,500
+[GRIMLOCK]
+Me, Grimlock think trees here are cheap model.
+ຂ້ອຍ, ແກຣມລັອກຄິດວ່າຕົ້ນໄມ້ທີ່ນີ້ເປັນແບບລາຄາຖືກ.
+
+477
+00:30:44,000 --> 00:30:50,000
+[SLAG]
+Like your head!  Grimlock jumps on Slag and wrestles him to the ground. Suddenly, a SQUEAKY, ODDLY CHILDISH VOICE speaks from o.s.
+ຄືກັບຫົວຂອງທ່ານ! ແກຣມລັອກໂດດໃສ່ສລາກແລະຕໍ່ສູ້ລາວລົງພື້ນດິນ
+. ທັນທີ, ສຽງເດັກນ້ອຍທີ່ສັ່ນສະເທືອນ, ແປກໃຈເວົ້າຈາກ OS.
+
+478
+00:30:50,500 --> 00:30:52,500
+[SQUEAKY VOICE]
+Friends find. Look behind.
+ເພື່ອນພົບເຫັນ. ເບິ່ງຫຼັງ.
+
+479
+00:30:53,000 --> 00:30:55,000
+[GRIMLOCK]
+Who say that?
+ໃຜເວົ້າແບບນັ້ນ?
+
+480
+00:30:55,500 --> 00:30:59,350
+[WHEELIE]
+Friends find. Look behind.   Many Face lie. You fool! You buy!
+ເພື່ອນພົບເຫັນ. ເບິ່ງຫຼັງ. ຫຼາຍໃບຫນ້າຕົວະ. ເຈົ້າໂງ່! ເຈົ້າຊື້!
+
+481
+00:30:59,850 --> 00:31:01,850
+[GRIMLOCK]
+Me, Grimlock, "fool?"
+ຂ້ອຍ, ແກຣມລັອກ,"ຄົນໂງ່ບໍ?"
+
+482
+00:31:02,350 --> 00:31:08,300
+[WHEELIE]
+Picture you got. Now fool you not!  Grimlock raises a claw to swipe Wheelie off Slag's head
+ຄຸເຂົ່າລົງ
+
+483
+00:31:08,800 --> 00:31:10,800
+[GRIMLOCK]
+Me, Grimlock, no like you!
+ຂ້ອຍ, ແກຣມລັອກ, ບໍ່ຄືກັບເຈົ້າ!
+
+484
+00:31:11,300 --> 00:31:17,300
+[ON WHEELIE]
+as he scowls and quickly loads FIRESTONE IN SLING and slings it onto Grimlock's nose where it EXPLODES making Grimlock yowl and pull back, feeling his reddened nose and speaking through his nose angrily
+ໃນຂະນະທີ່ລາວສັ່ນສະເທືອນແລະໂຫຼດຫີນໄຟໃນສະລິງຢ່າງໄວວາແລະເອົາມັນໃສ່ດັງຂອງກຣີມລັອກບ່ອນທີ່ມັນລະເບີດເຮັດໃຫ້ກຣິມລາກຮ້ອງໄຫ້ແລະດຶງກັບຄືນໄປບ່ອນ
+, ຮູ້ສຶກດັງທີ່ແດງຂອງລາວແລະເວົ້າຜ່ານດັງຂອງລາວດ້ວຍຄວາມໂຊກຮ້າຍ
+
+485
+00:31:17,800 --> 00:31:19,900
+[GRIMLOCK]
+Doooooooow! Why boy hit by dose?
+Doooooooow! ເປັນຫຍັງເດັກຊາຍຖືກຕີດ້ວຍຢາ?
+
+486
+00:31:20,400 --> 00:31:24,250
+[WHEELIE]
+Wheelie say, find friends today!  Grimlock and Slag react as we
+ວີລີເວົ້າວ່າ, ຊອກຫາເພື່ອນມິດມື້ນີ້!
+Grimlock ແລະ Slag ຕອບໂຕ້ໃນຂະນະທີ່ພວກເຮົາ
+
+487
+00:31:24,750 --> 00:31:27,200
+[KUP]
+Remember when you put me together today?
+ເຈົ້າຈື່ບໍ່ວ່າເມື່ອເຈົ້າເຮັດໃຫ້ຂ້ອຍພ້ອມກັນໃນມື້ນີ້ບໍ?
+
+488
+00:31:27,700 --> 00:31:30,500
+[HOT ROD]
+Sure, that's all I got to think about.
+ແນ່ນອນ, ນັ້ນແມ່ນທັງຫມົດທີ່ຂ້ອຍຕ້ອງຄິດກ່ຽວກັບ.
+
+489
+00:31:31,000 --> 00:31:33,100
+[KUP]
+I know what part you forgot.
+ຂ້ອຍຮູ້ວ່າເຈົ້າລືມສ່ວນໃດ.
+
+490
+00:31:33,600 --> 00:31:36,400
+[HOT ROD]
+I have nothing but contempt for this court.
+ຂ້ອຍບໍ່ມີຫຍັງນອກຈາກການກຽດຊັງສານນີ້.
+
+491
+00:31:36,900 --> 00:31:42,900
+[KUP]
+That doohickey you lost was part of my shoulder socket. Watch this, lad... without it, I'm double jointed as Houdini.
+ຄຸເຂົ່າລົງ
+
+492
+00:31:43,400 --> 00:31:46,200
+[HOT ROD]
+Wish you'd figured that out a little sooner.
+ຂ້ອຍຢາກວ່າເຈົ້າຈະຄິດມັນກ່ອນເລັກນ້ອຍ.
+
+493
+00:31:46,700 --> 00:31:48,700
+[KUP]
+Better late than never!
+ດີກວ່າຊ້າກວ່າບໍ່ເຄີຍ!
+
+494
+00:31:49,200 --> 00:31:52,350
+[HOT ROD]
+They've got more Sharkticons than we have photon charges!
+ພວກເຂົາມີ Sharkticon ຫຼາຍກວ່າທີ່ພວກເຮົາມີຄ່າໂຟຕັນ!
+
+495
+00:31:52,850 --> 00:31:58,850
+[KUP]
+Let's hold a demolition derby! Then, he roars into a bunch of them, slamming a massive stack into the wall.
+ພວກເຮົາຈະຈັດການເດີບີການທໍາລາຍ! ຫຼັງຈາກນັ້ນ,
+ລາວຮ້ອງໄຫ້ເຂົ້າໄປໃນກຸ່ມຂອງພວກມັນ, ການຕີກະດານທີ່ໃຫຍ່ຫຼວງໃສ່ກໍາແພງ.
+
+496
+00:31:59,350 --> 00:32:01,350
+[HOT ROD]
+Didn't even bend a fender.
+ຂ້ອຍບໍ່ໄດ້ຫັນແຟນເດີເລີຍ.
+
+497
+00:32:01,850 --> 00:32:06,750
+[KUP]
+Yeah, but look. There are a lot more of those cam dinging, grill-crackin' things.
+ແມ່ນແລ້ວ, ແຕ່ເບິ່ງ.
+ມີຫຼາຍຢ່າງອີກຫຼາຍຢ່າງຂອງສິ່ງແວດລ້ອມແຄມແມ, ການແຕກຫັກ grill.
+
+498
+00:32:07,250 --> 00:32:12,850
+[HOT ROD]
+We can't hold out forever, but we can give them one whopper of a repair bill.
+ພວກເຮົາບໍ່ສາມາດຍືນຍົງໄດ້ຕະຫຼອດໄປ,
+ແຕ່ພວກເຮົາສາມາດໃຫ້ພວກເຂົາຄ່າທໍານຽມການສ້ອມແປງທີ່ໃຫຍ່ຫຼວງຫນຶ່ງ.
+
+499
+00:32:13,350 --> 00:32:19,350
+[GRIMLOCK]
+Lowers his teeth to devour a much smaller Sharkticon, the Sharkticon bares his teeth, realizes that he's a second stringer, and scampers away.
+ຫຼຸດແຂ້ວຂອງລາວເພື່ອກິນ Sharkticon ທີ່ນ້ອຍກວ່າຫຼາຍ, Sharktikon
+ເປີດແຂ້ວຂອງຕົນ, ເຂົ້າໃຈວ່າລາວເປັນ stringer ທີສອງ, ແລະ scampers ອອກໄປ.
+
+500
+00:32:19,850 --> 00:32:25,850
+[GRIMLOCK]
+Me Grimlock want to munch metal! Slag barrels into Sharkticons, making a quick shishkebob out of them, while...
+ຂ້ອຍກຣີມລັອກຢາກກິນໂລຫະ! ເອົາຖັງໃສ່ Sharkticons
+, ເຮັດໃຫ້ shishkebob ໄວຈາກພວກເຂົາ, ໃນຂະນະທີ່...
+
+501
+00:32:26,350 --> 00:32:29,500
+[THE SHARKTICONS]
+suddenly back off and begin transforming  to the dinobots.
+ກັບຄືນໄປບ່ອນຢ່າງກະທັນຫັນແລະເລີ່ມຕົ້ນປ່ຽນເປັນດິນໂບຕ໌.
+
+502
+00:32:30,000 --> 00:32:34,200
+[HOT ROD]
+I never thought I'd be so happy to see those big bozos.
+ຂ້ອຍບໍ່ເຄີຍຄິດວ່າຂ້ອຍຈະມີຄວາມສຸກຫຼາຍທີ່ຈະເຫັນໂບໂຊໃຫຍ່ນັ້ນ.
+
+503
+00:32:34,700 --> 00:32:36,800
+[GRIMLOCK]
+Me Grimlock no bozo.   Me king!
+ຂ້ອຍກຣີມລັອກ ບໍ່ມີໂບໂຊ. ຂ້ອຍເປັນກະສັດ!
+
+504
+00:32:37,300 --> 00:32:39,300
+[GRIMLOCK]
+Me Grimlock say execute them.
+ຂ້ອຍກຣີມລັອກບອກໃຫ້ປະຫານຊີວິດພວກເຂົາ.
+
+505
+00:32:39,800 --> 00:32:45,400
+[THE SHARKTICONS]
+for a brief instant, don't seem to know what to do. Then, they charge the Quintessons.
+ສໍາລັບຊົ່ວຄາວສັ້ນໆ, ເບິ່ງຄືວ່າບໍ່ຮູ້ວ່າຈະເຮັດແນວໃດ
+. ຫຼັງຈາກນັ້ນ, ພວກເຂົາຄິດໄລ່ Quintessons ໄດ້.
+
+506
+00:32:45,900 --> 00:32:51,900
+[THE CHASE]
+The Quintessons start to flee, but it's clear that the Sharkticons, who climb over the stacked bodies of other Sharkticons, are going to catch them.
+ພວກ Quintessons ເລີ່ມຫນີ, ແຕ່ມັນຈະແຈ້ງວ່າ Sharkticons ໄດ້,
+ຜູ້ທີ່ຂຶ້ນເທິງຮ່າງກາຍທີ່ຕິດຕັ້ງຂອງ Sharktikons ອື່ນໆ, ຈະຈັບພວກມັນ.
+
+507
+00:32:52,400 --> 00:32:56,600
+[KUP]
+I think the problems on this planet will be solved very shortly.
+ຂ້ອຍຄິດວ່າບັນຫາໃນໂລກນີ້ຈະຖືກແກ້ໄຂໃນໄວໆນີ້.
+
+508
+00:32:57,100 --> 00:33:00,250
+[HOT ROD]
+But what about our problems.    We need a ship.
+ແຕ່ບັນຫາຂອງພວກເຮົາແນວໃດ. ພວກເຮົາຕ້ອງການເຮືອ.
+
+509
+00:33:00,750 --> 00:33:04,250
+[WHEELIE]
+WHEELIE You get a ship if I get a trip.
+ເຈົ້າຈະໄດ້ຮັບເຮືອຖ້າຂ້ອຍໄດ້ເດີນທາງ.
+
+510
+00:33:04,750 --> 00:33:06,750
+[HOT ROD]
+Who are you.
+ເຈົ້າເປັນໃຜ.
+
+511
+00:33:07,250 --> 00:33:09,250
+[SLAG]
+Him Wheelie, him friend.
+ລາວວີລີ, ລາວເປັນເພື່ອນ.
+
+512
+00:33:09,750 --> 00:33:14,300
+[HOT ROD]
+HOT ROD He'll be mine too, if he can find a Quintesson ship.
+ລາວຈະເປັນຂອງຂ້ອຍເຊັ່ນກັນ, ຖ້າລາວສາມາດຊອກຫາເຮືອ Quintesson ໄດ້.
+
+513
+00:33:14,800 --> 00:33:16,800
+[HOT ROD]
+That's a ship?
+ນັ້ນແມ່ນເຮືອບໍ?
+
+514
+00:33:17,300 --> 00:33:19,750
+[SPIKE]
+If this doesn't do it, nothing will.
+ຖ້າສິ່ງນີ້ບໍ່ເຮັດໄດ້, ບໍ່ມີຫຍັງຈະເຮັດໄດ້.
+
+515
+00:33:20,250 --> 00:33:26,250
+[BUMBLEBEE]
+now with a new bumpersticker which is a Unicron with a red circle and slash through it, looks very fidgety.
+ດຽວນີ້ດ້ວຍ bumper sticker ໃຫມ່ ເຊິ່ງເປັນ Unicron
+ທີ່ມີວົງຈອນສີແດງແລະຕັດຜ່ານມັນ, ເບິ່ງຄືວ່າມີຄວາມກັງວົນຫຼາຍ.
+
+516
+00:33:26,750 --> 00:33:28,750
+[BUMBLEBEE]
+Let's get out of here.
+ໄປຈາກບ່ອນນີ້.
+
+517
+00:33:29,250 --> 00:33:31,250
+[THE SPACESHIP]
+takes off.
+ອອກໄປ.
+
+518
+00:33:31,750 --> 00:33:33,750
+[ON UNICRON]
+His mist surrounds the planet...
+ຄວາມຫມອກຂອງລາວອ້ອມຮອບໂລກ...
+
+519
+00:33:34,250 --> 00:33:36,250
+[BUMBLEBEE]
+Five, four, three, two, one...
+ຫ້າ, ສີ່, ສາມ, ສອງ, ຫນຶ່ງ...
+
+520
+00:33:36,750 --> 00:33:38,750
+[BUMBLEBEE]
+It isn't even dented.
+ມັນຍັງບໍ່ເປື້ອນເລີຍ.
+
+521
+00:33:39,250 --> 00:33:41,250
+[SPIKE]
+Let's get out of here!
+ໄປຈາກບ່ອນນີ້!
+
+522
+00:33:41,750 --> 00:33:47,750
+[ON UNICRON]
+The great Maw opens and we hear a grand cosmic roar! Suddenly, the smoke and space junk from the explosion are sucked into his mouth.
+ແມ່ໃຫຍ່ເປີດແລະພວກເຮົາໄດ້ຍິນສຽງໂຫວດໂກສມິກທີ່ຍິ່ງໃຫຍ່! ທັນທີ,
+ຄວັນແລະຂີ້ເຫຍື້ອອະວະກາດຈາກການລະເບີດຖືກດູດເຂົ້າໄປໃນປາກຂອງລາວ.
+
+523
+00:33:48,250 --> 00:33:50,250
+[SPIKE]
+We're being sucked into it!
+ພວກເຮົາຖືກດູດເຂົ້າໄປໃນມັນ!
+
+524
+00:33:50,750 --> 00:33:53,200
+[PERCEPTOR]
+Be sure the fittings are securely welded!
+ໃຫ້ແນ່ໃຈວ່າອຸປະກອນຖືກເຊື່ອມໂລຫະຢ່າງປອດໄພ!
+
+525
+00:33:53,700 --> 00:33:55,700
+[BLURR]
+Absolutely, positively, definitely...
+ແນ່ນອນ, ຢ່າງບວກ, ຢ່າງແນ່ນອນ...
+
+526
+00:33:56,200 --> 00:33:59,350
+[DANIEL]
+This exo-suit is fantastic!  Want me to do that?
+ຊຸດພາຍນອກນີ້ດີເລີດ! ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດແບບນັ້ນບໍ?
+
+527
+00:33:59,850 --> 00:34:05,850
+[BLURR]
+Weld? You? Really? Well, why not? Give it a try, but think it through first! Daniel knits his brow, extends FINGER OF EXO- GLOVE which is part of exo-suit.
+ແວລດ໌? ເຈົ້າ? ແທ້ຈິງບໍ? ດີ, ເປັນຫຍັງບໍ່? ພະຍາຍາມມັນ, ແຕ່ຄິດມັນຜ່ານກ່ອນ!
+ດານີເລຍຕັດໃບຫນ້າຂອງລາວ, ຍືດນິ້ວມືຂອງ EXO- Glove ເຊິ່ງເປັນສ່ວນ ຫນຶ່ງ ຂອງຊຸດ exo.
+
+528
+00:34:06,350 --> 00:34:08,350
+[BLURR]
+Practice, practice, practice!
+ການຝຶກຊ້ອມ!
+
+529
+00:34:08,850 --> 00:34:11,650
+[WRECK-GAR]
+Forward, avanti, apfel and like, go for gusto....
+ຕໍ່ໄປ, ຕໍ່ຫນ້າ, Apfel ແລະເຊັ່ນກັນ, ໄປເພື່ອຄວາມມັກ....
+
+530
+00:34:12,150 --> 00:34:14,950
+[WRECK-GAR]
+Hang on, this be industrial strength We watch...
+ລໍຖ້າ, ນີ້ແມ່ນຄວາມເຂັ້ມແຂງອຸດສາຫະ ກໍາ ພວກເຮົາເບິ່ງ...
+
+531
+00:34:15,450 --> 00:34:20,000
+[ULTRA MAGNUS]
+as he, too, hears and then looks up and sees the Decepticon force
+ໃນຂະນະທີ່ລາວເຊັ່ນກັນ,
+ໄດ້ຍິນແລະຫຼັງຈາກນັ້ນເບິ່ງຂຶ້ນແລະເຫັນກໍາລັງ Decepticon
+
+532
+00:34:20,500 --> 00:34:25,400
+[ULTRA MAGNUS]
+Decepticons!  We've got to draw them off and then double back to the ship!
+ພວກ Decepticons! ພວກເຮົາຕ້ອງດຶງພວກເຂົາອອກແລະຫຼັງຈາກນັ້ນ
+double ກັບຄືນໄປບ່ອນເຮືອ!
+
+533
+00:34:25,900 --> 00:34:27,900
+[SPRINGER]
+Cancel that last order.
+ຍົກເລີກຄໍາສັ່ງສຸດທ້າຍນັ້ນ.
+
+534
+00:34:28,400 --> 00:34:30,400
+[DANIEL]
+What do I do?
+ຂ້ອຍຈະເຮັດແນວໃດ?
+
+535
+00:34:30,900 --> 00:34:32,900
+[BLURR]
+Transform! You can do...  ...it!
+ປ່ຽນແປງ! ເຈົ້າສາມາດເຮັດໄດ້...... ມັນ!
+
+536
+00:34:33,400 --> 00:34:37,250
+[ON DANIEL]
+as he reacts, looks around, thinks, brows knitting, looking off, reacting
+ໃນຂະນະທີ່ລາວປະຕິກິລິຍາ, ເບິ່ງຢູ່ອ້ອມຂ້າງ
+, ຄິດ, ກະທູ້ຜ້າຜ້າ, ເບິ່ງຫ່າງໄກ, ກະຕຸ້ນ
+
+537
+00:34:37,750 --> 00:34:39,750
+[DANIEL]
+Transform....
+ປ່ຽນແປງ...
+
+538
+00:34:40,250 --> 00:34:42,350
+[ON SCAVENGER]
+as he starts reaching for Daniel
+ໃນຂະນະທີ່ລາວເລີ່ມຍຶດເອົາດານີເລ
+
+539
+00:34:42,850 --> 00:34:44,850
+[SCAVENGER]
+Human germ!
+ແມວຂອງມະນຸດ!
+
+540
+00:34:45,350 --> 00:34:50,250
+[ON DANIEL]
+as his Exo-Suit SUDDENLY TRANSFORMS INTO auto mode and takes off and drives through...
+ໃນຂະນະທີ່ຊຸດ Exo
+ຂອງລາວປ່ຽນເປັນໂຫມດລົດໂດຍທັນທີແລະບິນແລະຂັບລົດຜ່ານ...
+
+541
+00:34:50,750 --> 00:34:52,750
+[DANIEL]
+Wooooh!!
+ໂວ້!!
+
+542
+00:34:53,250 --> 00:34:59,250
+[GALVATRON]
+flies up to a ridge in advance of his forces, motioning to them to split off and follow...
+ບິນຂຶ້ນໄປຫາກະທູ້ກ່ອນກອງທັບຂອງລາວ,
+ສະແດງໃຫ້ພວກເຂົາແຍກອອກແລະຕິດຕາມ...
+
+543
+00:34:59,750 --> 00:35:01,750
+[SWEEP]
+He lets out a rayblast...
+ລາວປ່ອຍແສງສະຫວ່າງອອກ...
+
+544
+00:35:02,250 --> 00:35:04,250
+[ULTRA MAGNUS]
+Perceptor!
+ຜູ້ຮັບຮູ້!
+
+545
+00:35:04,750 --> 00:35:06,750
+[ON PERCEPTOR]
+He transforms to humanoid mode.
+ລາວປ່ຽນເປັນໂຫມດ humanoid.
+
+546
+00:35:07,250 --> 00:35:10,050
+[PERCEPTOR]
+It appears that my lacerations were primarily superficial.
+ມັນເບິ່ງຄືວ່າການຕັດຂອງຂ້ອຍແມ່ນພື້ນຜິວສ່ວນໃຫຍ່.
+
+547
+00:35:10,550 --> 00:35:12,550
+[ULTRA MAGNUS]
+Then move it...
+ຫຼັງຈາກນັ້ນຍ້າຍມັນ...
+
+548
+00:35:13,050 --> 00:35:15,500
+[ULTRA MAGNUS]
+Stays behind, taking a few shots at...
+ຢູ່ເບື້ອງຫຼັງ, ຍິງສອງສາມຄັ້ງຕໍ່...
+
+549
+00:35:16,000 --> 00:35:18,100
+[SWEEPS]
+which streak over in deadly formations.
+ທີ່ຍ່າງໄປຕາມຮູບຮ່າງທີ່ຮ້າຍແຮງ.
+
+550
+00:35:18,600 --> 00:35:20,600
+[ULTRA MAGNUS]
+He stands and shoots.
+ລາວຢືນແລະຍິງ.
+
+551
+00:35:21,100 --> 00:35:23,100
+[SPRINGER]
+Ultra Magnus!
+Ultra Magnus!
+
+552
+00:35:23,600 --> 00:35:26,050
+[PERCEPTOR]
+Your estimated survival time is 10 seconds.
+ເວລາການຢູ່ລອດຂອງທ່ານຄາດຄະເນແມ່ນ 10 ວິນາທີ.
+
+553
+00:35:26,550 --> 00:35:32,550
+[ULTRA MAGNUS]
+Then use that time to escape! The Matrix was designed for an emergency like this. I'll try to unleash its power.
+ຫຼັງຈາກນັ້ນໃຊ້ເວລານັ້ນເພື່ອຫນີ! ແມຕຣິກສ໌ຖືກອອກແບບມາ
+ສໍາ ລັບສຸກເສີນແບບນີ້. ຂ້ອຍຈະພະຍາຍາມປ່ອຍພະລັງງານຂອງມັນ.
+
+554
+00:35:33,050 --> 00:35:35,150
+[SPRINGER]
+But what if it doesn't work.
+ແຕ່ຖ້າມັນບໍ່ເຮັດວຽກແນວໃດ.
+
+555
+00:35:35,650 --> 00:35:37,650
+[ULTRA MAGNUS]
+Until all are one!
+ຈົນກວ່າທຸກຄົນຈະເປັນຄົນດຽວ!
+
+556
+00:35:38,150 --> 00:35:40,150
+[ULTRA MAGNUS]
+Damn it!   Open it!
+ສະບາຍດີ! ເປີດມັນ!
+
+557
+00:35:40,650 --> 00:35:44,150
+[ULTRA MAGNUS]
+Prime, you said the Matrix would light our darkest hour.
+ນາຍົກລັດຖະມົນຕີ,
+ເຈົ້າບອກວ່າແມຕຣິກສ໌ຈະເຮັດໃຫ້ໂມງມືດທີ່ສຸດຂອງພວກເຮົາແສງສະຫວ່າງ.
+
+558
+00:35:44,650 --> 00:35:46,650
+[GALVATRON]
+Sweeps, quarter him!
+ການສະກັດກັ້ນ, ສ່ວນສີ່ລາວ!
+
+559
+00:35:47,150 --> 00:35:51,000
+[GALVATRON]
+Unicron, my "master," with this I shall make you my slave!
+ຢູນິກຣອນ,"ເຈົ້າ" ຂອງຂ້ອຍ,
+ດ້ວຍສິ່ງນີ້ຂ້ອຍຈະເຮັດໃຫ້ເຈົ້າເປັນຄົນໃຊ້ຂອງຂ້ອຍ!
+
+560
+00:35:51,500 --> 00:35:55,350
+[DANIEL]
+as he moves out and looks down at Ultra Magnus' remains
+ໃນຂະນະທີ່ລາວຍ້າຍອອກແລະເບິ່ງຢູ່ລຸ່ມຊາກຂອງ Ultra Magnus
+
+561
+00:35:55,850 --> 00:35:57,850
+[DANIEL]
+Ultra Magnus!
+Ultra Magnus!
+
+562
+00:35:58,350 --> 00:36:02,200
+[BLURR]
+Without the Matrix there is no hope.   No hope at all!
+ໂດຍບໍ່ມີແມຕຣິກສ໌ ບໍ່ມີຄວາມຫວັງເລີຍ. ບໍ່ມີຫວັງເລີຍ!
+
+563
+00:36:02,700 --> 00:36:06,200
+[ON WRECK-GAR]
+as he roars into the lead and shows his teeth
+ໃນຂະນະທີ່ລາວຮ້ອງໄຫ້ເຂົ້າໄປໃນທາງນໍາແລະສະແດງແຂ້ວຂອງລາວ
+
+564
+00:36:06,700 --> 00:36:11,600
+[WRECK-GAR]
+Don't look behind door number two, Monty. It's time to play End-of-the-line-my valentine! Geroni-roni-doo-ron-ron-i-mo!
+ຢ່າເບິ່ງຢູ່ເບື້ອງຫຼັງປະຕູອັນດັບສອງ, ໂມນຕິ. ມັນເຖິງເວລາແລ້ວທີ່ຈະຫຼິ້ນ
+End-of-the-line-Valentine ຂອງຂ້ອຍ! Geroni-roni-doo- ron-ron-i-mo!
+
+565
+00:36:12,100 --> 00:36:14,100
+[SPRINGER]
+Get gone!
+ອອກໄປ!
+
+566
+00:36:14,600 --> 00:36:20,600
+[A JUNKION]
+roars alongside Springer on his motorcycle and throws out laser barbed grappling hook, trying to hook Springer. Springer ducks first pass of hook.
+ຮ້ອງໄຫ້ຢູ່ຂ້າງສປຣິງເກີໃນລົດຈັກຂອງລາວແລະຖິ້ມ hook ການຈັບກຸມ laser barbed
+, ພະຍາຍາມ hook Springer ໄດ້. Springer ducks ການຜ່ານ hook ຄັ້ງທໍາອິດ.
+
+567
+00:36:21,100 --> 00:36:23,200
+[ON JUNKION]
+as he hurls GRAPPLING HOOK AGAIN
+ຄຸເຂົ່າລົງ
+
+568
+00:36:23,700 --> 00:36:26,850
+[ON SPRINGER]
+as he catches HOOK BY THE CHAIN AND YANKS
+ໃນຂະນະທີ່ລາວຈັບ Hook ໂດຍຕ່ອງໂສ້ແລະ YANKS
+
+569
+00:36:27,350 --> 00:36:33,350
+[THE JUNKION]
+goes flying off his motorcycle.,, He transforms into a motorcycle as The motorcycle transforms into a rider and hops on the new motorcycle and then...
+ລາວບິນອອກຈາກລົດຈັກຂອງລາວ.,
+ລາວກາຍເປັນລົດຈັກໃນຂະນະທີ່ລົດຈັກກາຍເປັນຄົນຂັບລົດແລະໂດດໃສ່ລົດຈັກ ໃຫມ່ ແລະຫຼັງຈາກນັ້ນ...
+
+570
+00:36:33,850 --> 00:36:35,850
+[ON SPRINGER]
+He looks over, astonished.
+ລາວເບິ່ງໄປ, ແປກໃຈ.
+
+571
+00:36:36,350 --> 00:36:41,950
+[SPRINGER]
+It's not hard to knock 'em down. It's getting them to stay down that's the trick.
+ມັນບໍ່ຍາກທີ່ຈະເອົາພວກມັນລົງ.
+ມັນເຮັດໃຫ້ພວກມັນຢູ່ລຸ່ມນັ້ນແມ່ນກະຕຸ້ນ.
+
+572
+00:36:42,450 --> 00:36:48,450
+[ON ARCEE]
+as she fires at a Junkion who is trying to swerve her off the road knocking him off the motorcycle... The Junkion looks down at his missing arm, digs around in the junk for a minute, comes up with another, and then transforms to a motorcycle.
+ໃນຂະນະທີ່ນາງຍິງໃສ່ຈອນກີໂອນທີ່ ກໍາ ລັງພະຍາຍາມຫັນນາງອອກຈາກຖະຫນົນຫົນທາງເຮັດໃຫ້ລາວຕົກຈາກລົດຈັກ... ຈອນກິໂອນເບິ່ງລົງໃສ່ແຂນທີ່ຫາຍສາບສູນຂອງລາວ
+, ຂຸດຄົ້ນຢູ່ອ້ອມຂ້າງໃນຂີ້ເຫຍື້ອເປັນເວລາ ຫນຶ່ງ ນາທີ, ພົບອີກຫນຶ່ງ, ແລະຫຼັງຈາກນັ້ນປ່ຽນເປັນລົດຈັກ.
+
+573
+00:36:48,950 --> 00:36:50,950
+[ARCEE]
+They're indestructible!
+ພວກເຂົາບໍ່ສາມາດທໍາລາຍໄດ້!
+
+574
+00:36:51,450 --> 00:36:55,650
+[ON DANIEL]
+as he skids, stopping his Exo-Suit as he reacts to what's ahead
+ໃນຂະນະທີ່ລາວລອຍລອຍ, ຢຸດຊຸດ Exo
+ຂອງລາວໃນຂະນະທີ່ລາວປະຕິກິລິຍາຕໍ່ສິ່ງທີ່ຢູ່ຕໍ່ຫນ້າ
+
+575
+00:36:56,150 --> 00:36:58,150
+[DANIEL]
+They're everywhere!
+ພວກເຂົາຢູ່ທຸກບ່ອນ!
+
+576
+00:36:58,650 --> 00:37:04,650
+[ON SPRINGER]
+as he stops and Arcee, Daniel, Perceptor and Blurr stop around him. They close ranks and look out at the Junkions grimly
+ໃນຂະນະທີ່ລາວຢຸດແລະ Arcee, ດານີເລ, Perceptor ແລະ Blurr
+ຢຸດຢູ່ອ້ອມຂ້າງລາວ. ພວກເຂົາປິດແຖວແລະເບິ່ງ Junkions ຢ່າງໂຊກຮ້າຍ
+
+577
+00:37:05,150 --> 00:37:07,950
+[PERCEPTOR]
+Perhaps they're not as vicious as they look.
+ບາງທີພວກເຂົາບໍ່ແມ່ນໂຊກຮ້າຍເທົ່າທີ່ເບິ່ງຄືວ່າ.
+
+578
+00:37:08,450 --> 00:37:14,450
+[ON WRECK-GAR]
+as he gnashes his teeth and grins and then BLINKS HIS EYES which roll to show eyes like ping pong balls. Wreck-Gar makes blipping noises as he does this
+ໃນຂະນະທີ່ລາວສັ່ນແຂ້ວແລະມ່ວນຊື່ນແລະຫຼັງຈາກນັ້ນສັ່ນຕາຂອງລາວທີ່ລວດລ້ອມເພື່ອສະແດງຕາຄືກັບບານປິງປົງ
+. Wreck-Gar ເຮັດໃຫ້ສຽງສັ່ນສະເທືອນໃນຂະນະທີ່ລາວເຮັດສິ່ງນີ້
+
+579
+00:37:14,950 --> 00:37:17,400
+[ON SPRINGER]
+reacting to Wreck-Gar's noises and eyeball display
+ການປະຕິກິລິຍາຕໍ່ສຽງດັງຂອງ Wreck-Gar ແລະ ການສະແດງຕາ
+
+580
+00:37:17,900 --> 00:37:23,900
+[SPRINGER]
+Positive thinking gets    on my nerves. Suddenly, all react to    sound and wind of passing space cruiser    their P.O.V- HOT ROD, KUP AND DINOBOTS    IN CRUISER as it shoots past and banks,    coming back for a closer look
+ຄວາມຄິດທາງບວກເຂົ້າໄປໃນສະຫມອງຂອງຂ້ອຍ. ທັນທີ, ທຸກຄົນປະຕິກິລິຍາຕໍ່ສຽງແລະລົມຂອງເຮືອຂ້າມອະວະກາດທີ່ຜ່ານໄປ P.O
+.V ຂອງເຂົາເຈົ້າ - ROD ຮ້ອນ, KUP ແລະ DINOBOTS ໃນເຮືອບິນຂ້າມໃນຂະນະທີ່ມັນຍິງຜ່ານແລະທະນາຄານ, ກັບມາເບິ່ງໃກ້ຊິດ
+
+581
+00:37:24,400 --> 00:37:26,500
+[SPRINGER]
+It can't be....it's.....Hot Rod!     He's alive!
+ມັນບໍ່ສາມາດເປັນໄດ້... ມັນເປັນ..... ກະດານຮ້ອນ! ລາວຍັງມີຊີວິດຢູ່!
+
+582
+00:37:27,000 --> 00:37:30,150
+[DANIEL]
+as he looks up at passing Cruiser and waves
+ໃນຂະນະທີ່ລາວເບິ່ງຂຶ້ນທີ່ Cruiser ທີ່ຜ່ານໄປແລະຄື້ນຟອງ
+
+583
+00:37:30,650 --> 00:37:33,100
+[DANIEL]
+And Kup and the Dinobots!    We're saved!
+ແລະຄູບ ແລະ ດິນໂບຕ໌! ພວກເຮົາຖືກຊ່ວຍເຫຼືອແລ້ວ!
+
+584
+00:37:33,600 --> 00:37:35,600
+[PERCEPTOR]
+I wouldn't count on that!
+ຂ້ອຍຈະບໍ່ຄິດວ່າ!
+
+585
+00:37:36,100 --> 00:37:40,300
+[KUP]
+Not since the Crocodillos of Strontero have I seen such a sight....
+ບໍ່ຕັ້ງແຕ່ Crocodillos ຂອງສຕຣອນເຕໂຣຂ້ອຍເຄີຍເຫັນການເບິ່ງແບບນີ້....
+
+586
+00:37:40,800 --> 00:37:42,900
+[GRIMLOCK]
+Maybe they make me king, too!
+ບາງທີພວກເຂົາຈະເຮັດໃຫ້ຂ້ອຍເປັນກະສັດເຊັ່ນກັນ!
+
+587
+00:37:43,400 --> 00:37:45,500
+[KUP]
+Don't hold your breath, your majesty.
+ຢ່າຈັບຫາຍໃຈຂອງທ່ານ, ເຈົ້າສູງສຸດ.
+
+588
+00:37:46,000 --> 00:37:50,200
+[WRECK-GAR]
+as he watches Cruiser descend and start gliding in for a landing
+ໃນຂະນະທີ່ລາວເບິ່ງ Cruiser ລົງແລະເລີ່ມຕົ້ນລອຍລົງເພື່ອລົງຈອດ
+
+589
+00:37:50,700 --> 00:37:56,700
+[WRECK-GAR]
+Steady as she goes, mob! Snoopy visitors get mud in the eye bye and bye, and film at five! (gives thumbs up sign, RIDES
+ຢືນຢັນໃນຂະນະທີ່ນາງໄປ, ຝູງຊົນ! ນັກທ່ອງທ່ຽວ Snoopy ໄດ້ຮັບດິນເຜົາໃນຕາ
+bye ແລະ bye, ແລະຮູບເງົາໃນຫ້າ! (ໃຫ້ປ້າຍນິ້ວມືຂຶ້ນ, RIDES
+
+590
+00:37:57,200 --> 00:38:03,200
+[JUNKIONS]
+Everything must go by midnight! With a SINGING ROAR of musical, tribal excitement, the Junkions sweep Springer and our friends along with them, following course of landing Cruiser to
+ທຸກຢ່າງຕ້ອງໄປກ່ອນທ່ຽງຄືນ! ດ້ວຍສຽງຮ້ອງເພງຂອງດົນຕີ, ຄວາມຕື່ນເຕັ້ນຂອງຊົນເຜົ່າ, ພວກຈອນກີໂອນ
+sweep Springer ແລະເພື່ອນຂອງພວກເຮົາພ້ອມກັບພວກເຂົາ, ຕາມຫຼັກການລົງຈອດ Cruiser ກັບ
+
+591
+00:38:03,700 --> 00:38:09,700
+[ON DOORWAY]
+as Hot Rod steps out with big smile and hand full of energon sticks followed by a very wary Kup, and the Dinobots with Wheelie riding Sludge's neck.
+ໃນຂະນະທີ່ຮອດ ໂຣດອອກໄປດ້ວຍຄວາມມ່ວນຊື່ນທີ່ໃຫຍ່ແລະມືເຕັມໄປດ້ວຍກະດານພະລັງງານທີ່ຕິດຕາມດ້ວຍການຄູບທີ່ລະມັດລະວັງຫຼາຍ
+, ແລະ Dinobots ກັບ Wheelie ຂີ່ຄໍຂອງ Sludge ໄດ້.
+
+592
+00:38:10,200 --> 00:38:12,200
+[HOT ROD]
+Guns aren't exactly friendly.
+ປືນບໍ່ແມ່ນມິດຕະພາບແທ້ໆ.
+
+593
+00:38:12,700 --> 00:38:15,500
+[KUP]
+Neither are they in case you haven't noticed.
+ພວກເຂົາຍັງບໍ່ເປັນກໍລະນີທີ່ທ່ານບໍ່ໄດ້ສັງເກດເຫັນ.
+
+594
+00:38:16,000 --> 00:38:18,100
+[HOT ROD]
+What was the Universal greeting again?
+ການອວຍພອນທົ່ວໄປອີກຄັ້ງແມ່ນຫຍັງ?
+
+595
+00:38:18,600 --> 00:38:24,600
+[WRECK-GAR]
+growls and slips a SNIPPER, BLOW TORCH CUTTING TOOL out of a holster and starts toward Hot Rod with it
+ຄຸເຂົ່າລົງ
+
+596
+00:38:25,100 --> 00:38:27,550
+[HOT ROD]
+Bah weep graaaagnah wheep ni ni bong?
+ບາຮ້ອງໄຫ້ Graaaagnah ຮ້ອງໄຮ້ ni ni bong?
+
+597
+00:38:28,050 --> 00:38:30,500
+[WRECK-GAR]
+Bah weep graaaagnah wheep ni ni bong?
+ບາຮ້ອງໄຫ້ Graaaagnah ຮ້ອງໄຮ້ ni ni bong?
+
+598
+00:38:31,000 --> 00:38:33,450
+[HOT ROD]
+Bah weep graaaagnah wheep ni ni bong?
+ບາຮ້ອງໄຫ້ Graaaagnah ຮ້ອງໄຮ້ ni ni bong?
+
+599
+00:38:33,950 --> 00:38:35,950
+[HOT ROD]
+As Hot Rod says this...
+ດັ່ງທີ່ຮອດ ໂຣດເວົ້າແບບນີ້...
+
+600
+00:38:36,450 --> 00:38:42,450
+[EVERYBODY]
+Bah weep graaaagnah wheep ni ni bong Bah weep graaaagnah wheep ni ni bong! Bah weep graaaagnah wheep ni ni bong....
+ບາຮ້ອງໄຫ້ Graaaagnah ໄຫ້ ni ni bong ບາ ຮ້ອງໄຫ່ graaaagneh
+ໄຫ່ ni ni Bong! ບາຣ້ອງໄຫ່ວ Graaaignah ໄຮ້ ni ne bong....
+
+601
+00:38:42,950 --> 00:38:48,950
+[WRECK-GAR]
+hugs Hot Rod, and Perceptor who winces and tries to enjoy it, and then hugs Daniel, Wheelie, Arcee, laughing and dancing as SINGING goes.
+ອ້ອມແອ້ມຮອດ ໂຣດ, ແລະຜູ້ຮັບຮູ້ທີ່ສັ່ນສະເທືອນແລະພະຍາຍາມເພີດເພີນກັບມັນ,
+ແລະຫຼັງຈາກນັ້ນອົບອ້ອມດານີເລ, ວີລີ, ອາຣຊີ, ມ່ວນຊື່ນແລະເຕັ້ນໃນຂະນະທີ່ການຮ້ອງເພງໄປ.
+
+602
+00:38:49,450 --> 00:38:52,250
+[ON GRIMLOCK]
+as he reacts to Wreck-Gar kissing his leg
+ໃນຂະນະທີ່ລາວປະຕິກິລິຍາຕໍ່ Wreck-Gar ຈູບຕີນຂອງລາວ
+
+603
+00:38:52,750 --> 00:38:56,250
+[GRIMLOCK]
+Yuck! Me Grimlock, not a kisser!   Me, Grimlock, a king!
+ໂຢກ! ຂ້ອຍກຣີມລັອກ, ບໍ່ແມ່ນຄົນຈູບ! ຂ້ອຍ, ແກຣມລາກ, ເປັນກະສັດ!
+
+604
+00:38:56,750 --> 00:39:02,750
+[WHEELIE]
+claps his hands and gleefully makes noises as he hops about, dancing with Junkions until we CUT TO
+ຈັບມືແລະເຮັດໃຫ້ສຽງດັງຢ່າງສຸກໃນຂະນະທີ່ລາວໂດດຢູ່ອ້ອມຂ້າງ
+, ເຕັ້ນກັບ Junkions ຈົນກວ່າພວກເຮົາຕັດ
+
+605
+00:39:03,250 --> 00:39:09,250
+[WRECK-GAR]
+as he stands on top of platform and RINGS JUNK BELLS AND SIRENS getting silence and smiling as he waves hands all around
+ໃນຂະນະທີ່ລາວຢືນຢູ່ເທິງເວທີແລະວົງດົນຕີແຊລນ໌ແລະຊີເຣນສ໌
+ກໍາ ລັງງຽບສະຫງົບແລະມ່ວນຊື່ນໃນຂະນະທີ່ລາວຍືດມືຢູ່ທົ່ວໄປ
+
+606
+00:39:09,750 --> 00:39:15,750
+[WRECK-GAR]
+Have a nice day and please, close cover before striking, friends! Amigos, buddies and side kicks, Breep drit, aw rootie! So say the Junkions!
+ມີມື້ທີ່ດີແລະຂໍຮ້ອງ, ການປົກຄຸມໃກ້ຊິດກ່ອນທີ່ຈະໂຈມຕີ, ເພື່ອນ! ເພື່ອນມິດ,
+ຫມູ່ເພື່ອນແລະການຕີຂ້າງ, Breep drit, aw rootie! ສະນັ້ນເວົ້າ Junkions ໄດ້!
+
+607
+00:39:16,250 --> 00:39:19,050
+[HOT ROD]
+Where did you learn to talk like that?
+ເຈົ້າຮຽນເວົ້າແບບນັ້ນຢູ່ໃສ?
+
+608
+00:39:19,550 --> 00:39:22,000
+[THE WATCHMAN]
+On it is a crazy Eddy-type commercial.
+ຢູ່ເທິງມັນມີໂຄສະນາແບບ Eddy ທີ່ໂຊກຮ້າຍ.
+
+609
+00:39:22,500 --> 00:39:24,950
+[WRECK-GAR]
+We talk T.V. You talk some T.V.?
+ພວກເຮົາເວົ້າໂທລະພາບ. ເຈົ້າເວົ້າບາງໂທລະພາບບໍ?
+
+610
+00:39:25,450 --> 00:39:27,450
+[KUP]
+looks around nervously.
+ເບິ່ງຢູ່ອ້ອມຂ້າງດ້ວຍຄວາມກັງວົນ.
+
+611
+00:39:27,950 --> 00:39:33,950
+[KUP]
+I talk some TV. And now, Hot Rod for the news. Don't touch that dial. Void where prohibited. JUNKIONS cheer wildly while the Dinobots react with uncertainty
+ຂ້ອຍເວົ້າໂທລະພາບບາງຢ່າງ. ແລະດຽວນີ້, ຮອດ ໂຣດ ສໍາ ລັບຂ່າວ. ຢ່າຈັບດາວນັ້ນ.
+ຄວາມຫວ່າງບ່ອນທີ່ຖືກຫ້າມ. JUNKIONS ຍິນດີຢ່າງຮຸນແຮງໃນຂະນະທີ່ Dinobots ຕອບໂຕ້ດ້ວຍຄວາມບໍ່ແນ່ໃຈ
+
+612
+00:39:34,450 --> 00:39:40,450
+[WRECK-GAR]
+By George kimosabes your smashed up, blotto friend, soon like brand new with ninety day warranty all iciban parts and labor is!
+ໂດຍຈໍຈ໌ ຄິໂມຊາບສ໌ ເພື່ອນຂອງທ່ານທີ່ຖືກທໍາລາຍ, blotto,
+ໃນໄວໆນີ້ຄືກັບໃຫມ່ທີ່ມີການຮັບປະກັນສິບມື້ທຸກພາກສ່ວນແລະແຮງງານ iciban ແມ່ນ!
+
+613
+00:39:40,950 --> 00:39:42,950
+[WRECK-GAR]
+Happy motoring! Cock-a-doodle-do!
+ການຂັບລົດທີ່ສຸກ! ກະຕຸ້ນກະຕຸ້ນ!
+
+614
+00:39:43,450 --> 00:39:45,450
+[SPRINGER AND OTHERS]
+Ultra Magnus!
+Ultra Magnus!
+
+615
+00:39:45,950 --> 00:39:47,950
+[ULTRA MAGNUS]
+You're all alive...
+ເຈົ້າທັງ ຫມົດ ຍັງມີຊີວິດຢູ່...
+
+616
+00:39:48,450 --> 00:39:50,450
+[HOT ROD]
+The matrix!
+ແມຕຣິກສ໌!
+
+617
+00:39:50,950 --> 00:39:52,950
+[ULTRA MAGNUS]
+It's gone...
+ມັນຫາຍໄປແລ້ວ...
+
+618
+00:39:53,450 --> 00:39:55,450
+[KUP]
+And with it, all hope.
+ແລະດ້ວຍມັນ, ຄວາມຫວັງທັງ ຫມົດ.
+
+619
+00:39:55,950 --> 00:39:58,400
+[HOT ROD]
+No...  The matrix will not fail us.
+ບໍ່... ແມຕຣິກສ໌ຈະບໍ່ລົ້ມເຫຼວພວກເຮົາ.
+
+620
+00:39:58,900 --> 00:40:03,100
+[ARCEE]
+Didn't you hear Ultra Magnus. We don't have it anymore. Galvatron does.
+ເຈົ້າບໍ່ໄດ້ຍິນ Ultra Magnus ບໍ.
+ພວກເຮົາບໍ່ມີມັນອີກແລ້ວ. ແກລເວຕຣອນເຮັດ.
+
+621
+00:40:03,600 --> 00:40:08,850
+[HOT ROD]
+Then we've got to trust in ourselves, and no matter what they odds, destroy Unicron.
+ຫຼັງຈາກນັ້ນພວກເຮົາຕ້ອງເຊື່ອຫມັ້ນຕົວເອງ,
+ແລະບໍ່ວ່າພວກເຂົາຈະຢອກຊື່ໆໃດ, ທໍາ ລາຍ Unicron.
+
+622
+00:40:09,350 --> 00:40:11,350
+[ON WRECK-GAR]
+His eyes light up.
+ຕາຂອງລາວແສງສະຫວ່າງ.
+
+623
+00:40:11,850 --> 00:40:16,400
+[WRECK-GAR]
+Yeah! Destroy Unicron... Kill the grand poobah.... Flush cosmic troubles down the drain.
+ແມ່ນແລ້ວ! ທໍາ ລາຍ Unicron... ຂ້າ poobah
+ທີ່ຍິ່ງໃຫຍ່.... ຖິ້ມບັນຫາໂກສມິກລົງໃນລະບາຍນ້ ໍາ.
+
+624
+00:40:16,900 --> 00:40:21,100
+[JUNKIONS]
+Destroy Unicron... Kill the grand poobah... Flush cosmic troubles down the drain.
+ທໍາລາຍ Unicron... ຂ້າ poobah ທີ່ຍິ່ງໃຫຍ່.
+.. ຖິ້ມຄວາມຫຍຸ້ງຍາກໂກສມິກລົງໃນລະບາຍນ້ ໍາ.
+
+625
+00:40:21,600 --> 00:40:27,600
+[SPRINGER]
+Listen,   I don't want to rain on anybody's parade,   but how are we going to move the army to   Unicron. We don't have enough room on   that ship.
+ຟັງ, ຂ້ອຍບໍ່ຢາກເຮັດໃຫ້ຝົນຕົກໃສ່ການເດີນຂະບວນຂອງໃຜ,
+ແຕ່ພວກເຮົາຈະຍ້າຍກອງທັບໄປ Unicron ແນວໃດ. ພວກເຮົາມີບ່ອນພຽງພໍໃນເຮືອນັ້ນ.
+
+626
+00:40:28,100 --> 00:40:34,100
+[WRECK-GAR]
+No fuss, no muss.  Hurry, hurry. Sale must end! Rush right on down to bridge and test drive latest with no obligation.
+ບໍ່ມີຄວາມວຸ້ນວາຍ, ບໍ່ຕ້ອງ. ໄວ, ໄວ. ການຂາຍຕ້ອງສິ້ນສຸດລົງ
+! ໄວລົງໄປຫາຂົວແລະຂັບລົດທົດລອງຫຼ້າສຸດໂດຍບໍ່ມີພັນທະ.
+
+627
+00:40:34,600 --> 00:40:36,600
+[ULTRA MAGNUS]
+You have ships here?
+ເຈົ້າມີເຮືອຢູ່ບ່ອນນີ້ບໍ?
+
+628
+00:40:37,100 --> 00:40:40,950
+[WRECK-GAR]
+New, improved Junkion planet, is sleek sexy import with turbo handling.
+ໂລກ Junkion ໃຫມ່ ທີ່ປັບປຸງ,
+ແມ່ນການນໍາເຂົ້າທີ່ສວຍງາມ sexy ກັບການຈັດການ turbo.
+
+629
+00:40:41,450 --> 00:40:43,450
+[SPRINGER]
+What's he talking about?
+ລາວເວົ້າຫຍັງຢູ່?
+
+630
+00:40:43,950 --> 00:40:46,750
+[SPRINGER]
+This is what I call traveling in style.
+ນີ້ແມ່ນສິ່ງທີ່ຂ້ອຍເອີ້ນວ່າການເດີນທາງດ້ວຍແບບ.
+
+631
+00:40:47,250 --> 00:40:49,700
+[GALVATRON]
+Listen to me, or suffer the consequences.
+ຟັງຂ້ອຍ, ຫຼືຈະໄດ້ຮັບຜົນກະທົບ.
+
+632
+00:40:50,200 --> 00:40:52,200
+[UNICRON]
+Aren't we getting pompous?
+ພວກເຮົາ ກໍາ ລັງກາຍເປັນຄົນໂຊກຮ້າຍບໍ?
+
+633
+00:40:52,700 --> 00:40:58,700
+[GALVATRON]
+I now possess that which you most fear. Unicron LAUGHS and the force of it rocks the surface of the planet, knocking Galvatron to his knees.
+ຂ້ອຍມີສິ່ງທີ່ເຈົ້າຢ້ານທີ່ສຸດດຽວນີ້. Unicron LAUGHS ແລະພະລັງຂອງມັນ
+rocks ພື້ນຜິວຂອງໂລກ, knocking Galvatron ເຖິງເຂົ່າຂອງລາວ.
+
+634
+00:40:59,200 --> 00:41:02,700
+[GALVATRON]
+You will do my bidding, or... Unicron roars with laughter.
+ເຈົ້າຈະເຮັດຕາມຄໍາສັ່ງຂອງຂ້ອຍ, ຫຼື.
+.. Unicron ຮ້ອງໄຫ້ດ້ວຍຄວາມມ່ວນຊື່ນ.
+
+635
+00:41:03,200 --> 00:41:05,200
+[GALVATRON]
+...taste my wrath.
+... ລົດຊາດຄວາມໂຊກຮ້າຍຂອງຂ້ອຍ.
+
+636
+00:41:05,700 --> 00:41:07,700
+[UNICRON]
+You underestimate me Galvatron.
+ເຈົ້າ underestimate ຂ້ອຍ Galvatron.
+
+637
+00:41:08,200 --> 00:41:14,150
+[UNICRON]
+For a time, I considered sparing your measly little planet, but now you shall witness its dismemberment!
+ເປັນເວລາດົນນານ, ຂ້ອຍໄດ້ພິຈາລະນາການປະຢັດໂລກນ້ອຍໆຂອງທ່ານ
+, ແຕ່ດຽວນີ້ທ່ານຈະເຫັນການແຕກແຍກຂອງມັນ!
+
+638
+00:41:14,650 --> 00:41:16,650
+[GALVATRON]
+No!!!
+ບໍ່!!!
+
+639
+00:41:17,150 --> 00:41:21,000
+[SHOCKWAVE]
+Decepticons...we're under attack...Scramble - Then his voice is cut off as...
+ພວກ Decepticons... ພວກເຮົາຖືກໂຈມຕີ... ການສໍ້ໂກງ
+- ຫຼັງຈາກນັ້ນສຽງຂອງລາວຖືກຕັດອອກເປັນ...
+
+640
+00:41:21,500 --> 00:41:23,600
+[GALVATRON]
+GALVATRON Stop feeding him, you fools!
+ແກລເວຕຣອນ ຢຸດການໃຫ້ອາຫານລາວ, ພວກເຈົ້າໂງ່!
+
+641
+00:41:24,100 --> 00:41:26,100
+[HOT ROD]
+I don't believe it.
+ຂ້ອຍບໍ່ເຊື່ອມັນ.
+
+642
+00:41:26,600 --> 00:41:28,600
+[DANIEL]
+Wow!
+ໂວ້!
+
+643
+00:41:29,100 --> 00:41:31,550
+[HOT ROD]
+Doesn't it remind you of something, Kup?
+ມັນບໍ່ຈື່ເຈົ້າບາງສິ່ງບາງຢ່າງບໍ, ຄູບ?
+
+644
+00:41:32,050 --> 00:41:34,150
+[KUP]
+Nope, never seen anything like it.
+ບໍ່, ບໍ່ເຄີຍເຫັນສິ່ງໃດແບບນີ້ເລີຍ.
+
+645
+00:41:34,650 --> 00:41:38,500
+[HOT ROD]
+I knew there had to be a first time....  Battle stations!
+ຂ້ອຍຮູ້ວ່າຕ້ອງມີຄັ້ງ ທໍາ ອິດ.... ສະຖານີສູ້ຮົບ!
+
+646
+00:41:39,000 --> 00:41:45,000
+[UNICRON'S CHEST]
+Galvatron, the matrix hanging around his neck. Transforms to Cannon and fires up at... ... A bright panel on Unicron's chest...
+ແກລເວຕຣອນ, ແມຕຣິກສ໌ທີ່ຕິດຢູ່ອ້ອມຄໍຂອງລາວ. ປ່ຽນເປັນປືນແລະຍິງໃສ່
+...... ກະດານແສງສະຫວ່າງໃນທ້ອງຂອງຢູນີຄຣອນ...
+
+647
+00:41:45,500 --> 00:41:49,700
+[WRECK-GAR]
+Patented enamel resists fire, rain and corrosion. Five year warranty, satisfaction guaranteed.
+ເຄື່ອງປັ່ນປ່ວນທີ່ມີສິດທິບັດຕໍ່ຕ້ານໄຟ,
+ຝົນຕົກແລະການກັດກັ້ນ. ການຮັບປະກັນຫ້າປີ, ຄວາມພໍໃຈຮັບປະກັນ.
+
+648
+00:41:50,200 --> 00:41:52,200
+[OTHER JUNKIONS]
+Or your money back!
+ຫຼືເງິນຂອງເຈົ້າຄືນ!
+
+649
+00:41:52,700 --> 00:41:54,700
+[CLOSER]
+... tears it in half.
+... ແຕກມັນເປັນເຄິ່ງຫນຶ່ງ.
+
+650
+00:41:55,200 --> 00:41:58,700
+[WRECK-GAR]
+Unshakable, unbreakable, unbeatable. And for a limited time we include...
+ບໍ່ເຄື່ອນຍ້າຍ, ບໍ່ແຕກ, ບໍ່ສາມາດເອົາຊະນະໄດ້
+. ແລະສໍາລັບເວລາຈໍາກັດພວກເຮົາລວມທັງ...
+
+651
+00:41:59,200 --> 00:42:01,200
+[WRECK-GAR]
+Free bonus surprise!
+ຄວາມແປກໃຈໂບນັດຟຣີ!
+
+652
+00:42:01,700 --> 00:42:03,700
+[JUNKIONS]
+Free bonus surprise!
+ຄວາມແປກໃຈໂບນັດຟຣີ!
+
+653
+00:42:04,200 --> 00:42:06,200
+[PERCEPTOR]
+Most unscientific, but... effective.
+ບໍ່ເປັນວິທະຍາສາດຫຼາຍທີ່ສຸດ, ແຕ່... ມີປະສິດທິຜົນ.
+
+654
+00:42:06,700 --> 00:42:12,300
+[THE CRUISER]
+Is suddenly struck by a ray from Unicron's eye, and half of it is knocked off.
+ຖືກຕີໂດຍແສງສະຫວ່າງຈາກຕາຂອງ Unicron ຢ່າງກະທັນຫັນ
+, ແລະເຄິ່ງຫນຶ່ງຂອງມັນຖືກ knocked ອອກ.
+
+655
+00:42:12,800 --> 00:42:14,800
+[UNICRON]
+Graaaaaaaaaaa!
+ສະບາຍດີ!
+
+656
+00:42:15,300 --> 00:42:17,300
+[DANIEL]
+Where's Hot Rod?
+ຮອດ ໂຣດຢູ່ໃສ?
+
+657
+00:42:17,800 --> 00:42:19,800
+[SPRINGER]
+Sees something in the distance.
+ເຫັນບາງສິ່ງບາງຢ່າງຢູ່ຫ່າງໄກ.
+
+658
+00:42:20,300 --> 00:42:23,800
+[SPRINGER]
+I don't know, but I hope they didn't get him.
+ຂ້ອຍບໍ່ຮູ້, ແຕ່ຂ້ອຍຫວັງວ່າພວກເຂົາບໍ່ໄດ້ຈັບລາວ.
+
+659
+00:42:24,300 --> 00:42:26,300
+[KUP]
+Debugoids!
+Debugoids!
+
+660
+00:42:26,800 --> 00:42:28,800
+[ARCEE]
+Quick!   This way.
+ໄວ! ທາງນີ້.
+
+661
+00:42:29,300 --> 00:42:31,300
+[HOT ROD]
+The Autobot Matrix!
+ແມຕຣິກສ໌ໂອໂຕບອດ!
+
+662
+00:42:31,800 --> 00:42:35,650
+[GALVATRON]
+It will do you no good, Autobot.   It cannot be opened.
+ມັນຈະບໍ່ຊ່ວຍເຈົ້າຫຍັງເລີຍ, Autobot. ມັນບໍ່ສາມາດເປີດໄດ້.
+
+663
+00:42:36,150 --> 00:42:38,150
+[HOT ROD]
+Not by a Decepticon.
+ບໍ່ແມ່ນໂດຍ Decepticon.
+
+664
+00:42:38,650 --> 00:42:42,150
+[GALVATRON]
+It is strange that we should find ourselves as allies...
+ມັນແປກໃຈທີ່ພວກເຮົາຄວນພົບຕົວເອງເປັນພັນທະມິດ...
+
+665
+00:42:42,650 --> 00:42:47,200
+[ON GALVATRON]
+Suddenly, his body is violently twisted, and his arms are almost broken off.
+ທັນທີ, ຮ່າງກາຍຂອງລາວຖືກຫັນຢ່າງຮຸນແຮງ, ແລະແຂນຂອງລາວເກືອບຖືກຕັດອອກ.
+
+666
+00:42:47,700 --> 00:42:49,700
+[GALVATRON]
+Uhhhh...
+ໂອ້...
+
+667
+00:42:50,200 --> 00:42:53,700
+[UNICRON]
+Destroy him, or feel yourself torn from limb to limb.
+ທໍາລາຍລາວ, ຫຼືຮູ້ສຶກວ່າຕົວເອງຖືກແຕກຈາກແຂນຕໍ່ແຂນ.
+
+668
+00:42:54,200 --> 00:42:56,200
+[GALVATRON]
+Of course, my master!
+ແນ່ນອນ, ເຈົ້າຂອງຂ້ອຍ!
+
+669
+00:42:56,700 --> 00:42:58,700
+[ON GALVATRON]
+He peers into the gloom.
+ລາວເບິ່ງເຂົ້າໄປໃນຄວາມມືດ.
+
+670
+00:42:59,200 --> 00:43:01,200
+[ON GALVATRON]
+Weapon drawn.
+ປືນຖືກດຶງອອກ.
+
+671
+00:43:01,700 --> 00:43:05,550
+[GALVATRON]
+Puny Autobot, you lack even Prime's courage. There is no response.
+ປູນີ ໂອໂຕບອດ, ເຈົ້າຂາດຄວາມກ້າຫານຂອງພຣາຍມ໌ເລີຍ. ບໍ່ມີການຕອບໂຕ້.
+
+672
+00:43:06,050 --> 00:43:12,050
+[ASSORTED SHOTS]
+Unicron now stands atop Cybertron, fighting the various ships that swarm around him like bees. ... Rays streak from his one good eye. ...
+ຢູນິກຣອນດຽວນີ້ຢືນຢູ່ເທິງໄຊເບີຕຣອນ, ຕໍ່ສູ້ກັບເຮືອຕ່າງໆທີ່ລໍາບາກຢູ່ອ້ອມຂ້າງລາວຄືກັບແມງໄມ້
+.... ແສງສະຫວ່າງຈາກຕາທີ່ດີດຽວຂອງລາວ....
+
+673
+00:43:12,550 --> 00:43:16,050
+[ASSORTED SHOTS]
+His hands smash fighters... ... Fire shoots from his mouth.
+ມືຂອງລາວ ທໍາ ລາຍນັກຕໍ່ສູ້...... ໄຟຍິງຈາກປາກຂອງລາວ.
+
+674
+00:43:16,550 --> 00:43:18,650
+[THE DINOBOTS]
+Now reaching Unicron's butt, start kicking.
+ດຽວນີ້ເຖິງບາກຂອງ Unicron, ເລີ່ມຕີ.
+
+675
+00:43:19,150 --> 00:43:21,150
+[GRIMLOCK]
+Me Grimlock kick Butt.
+ຂ້ອຍກຣີມລັອກຕີບັດ.
+
+676
+00:43:21,650 --> 00:43:23,650
+[GRIMLOCK]
+Me, Grimlock, need new strategy.
+ຂ້ອຍ, ແກຣມລັອກ, ຕ້ອງການຍຸດທະສາດ ໃຫມ່.
+
+677
+00:43:24,150 --> 00:43:26,250
+[DANIEL]
+He looks o.s. towards the others.
+ລາວເບິ່ງ O.S ໄປຫາຄົນອື່ນ.
+
+678
+00:43:26,750 --> 00:43:28,750
+[DANIEL]
+Help...
+ຊ່ວຍເຫຼືອ...
+
+679
+00:43:29,250 --> 00:43:31,250
+[ARCEE]
+Daniel!
+ດານີເລ!
+
+680
+00:43:31,750 --> 00:43:34,200
+[DANIEL]
+I'm okay.    They don't even see me.
+ຂ້ອຍບໍ່ເປັນຫຍັງ. ພວກເຂົາບໍ່ເຫັນຂ້ອຍເລີຍ.
+
+681
+00:43:34,700 --> 00:43:37,500
+[KUP]
+They must not programmed to catch flesh creatures.
+ພວກເຂົາບໍ່ຕ້ອງຖືກຂຽນໂປແກຼມເພື່ອຈັບສັດຊີ້ນ.
+
+682
+00:43:38,000 --> 00:43:40,000
+[SPRINGER]
+Us, on the other hand...
+ພວກເຮົາ, ໃນອີກດ້ານຫນຶ່ງ...
+
+683
+00:43:40,500 --> 00:43:42,950
+[ARCEE]
+Daniel... Try to find help! Arcee fires...
+ດານີເລ... ພະຍາຍາມຊອກຫາຄວາມຊ່ວຍເຫຼືອ! ອາຣຊີຍິງ...
+
+684
+00:43:43,450 --> 00:43:49,450
+[UNICRON'S STOMACH]
+This is the central processing area for Unicron's "food" and "energy." A long conveyer belt drops junk into a clear, bubbling vat, where it is separated into raw material and energy. The energy, which comes out in raw form, goes into a machine and is crunched into energon cubes, while the solid material, is separated into it's component metals and plastics, formed into ingots and sent elsewhere in an assembly line fashion.
+ນີ້ແມ່ນພື້ນທີ່ການປຸງແຕ່ງສູນກາງ ສໍາ ລັບ"ອາຫານ" ແລະ"ພະລັງງານ" ຂອງ Unicron. ສາຍແອວຂົນສົ່ງຍາວໆ ຖິ້ມຂີ້ເຫຍື້ອລົງໃນຖັງທີ່ສະອາດ, ກະຕຸ້ນກະຕຸ້ນ, ບ່ອນທີ່ມັນຖືກແຍກອອກເປັນວັດຖຸດິບແລະພະລັງງານ
+. ພະລັງງານ, ເຊິ່ງອອກໃນຮູບແບບຮິບ, ເຂົ້າໄປໃນເຄື່ອງຈັກແລະຖືກຕັດເປັນກ້ອນພະລັງງານ, ໃນຂະນະທີ່ວັດຖຸແຂງ, ຖືກແຍກອອກຈາກໂລຫະສ່ວນປະກອບແລະພາດສະຕິກ, ສ້າງເປັນ ingots ແລະສົ່ງໄປບ່ອນອື່ນໃນເສັ້ນ
+
+685
+00:43:49,950 --> 00:43:52,400
+[DANIEL]
+watches this with awe until he sees...
+ເບິ່ງສິ່ງນີ້ດ້ວຍຄວາມຢ້ານກົວຈົນກວ່າລາວຈະເຫັນ...
+
+686
+00:43:52,900 --> 00:43:56,050
+[ON DANIEL]
+He dashes to the shores of the glowing lake...
+ລາວແລ່ນໄປຫາແຄມທະເລທີ່ສົດໃສ...
+
+687
+00:43:56,550 --> 00:43:58,550
+[DANIEL]
+Cliffjumper! Jazz!
+ຜູ້ໂດດຈາກແຄມແຄບແຄວແຄກແຄ້ແຄ່ແຄ໊ແຄ
+
+688
+00:43:59,050 --> 00:44:01,050
+[DANIEL]
+Bumblebee!     Dad!
+ບາມບີ! ພໍ່!
+
+689
+00:44:01,550 --> 00:44:04,350
+[SPIKE]
+Shut off the control, Daniel. Daniel looks around.
+ປິດການຄວບຄຸມ, ດານິເລ. ດານີເລເບິ່ງຢູ່ອ້ອມຂ້າງ.
+
+690
+00:44:04,850 --> 00:44:06,950
+[A CONTROL]
+..     which controls the whole thing.
+... ທີ່ຄວບຄຸມສິ່ງທັງ ຫມົດ.
+
+691
+00:44:07,450 --> 00:44:09,900
+[ON DANIEL]
+He runs up a catwalk towards it....
+ລາວແລ່ນຂຶ້ນທາງຜ່ານທາງໄປຫາມັນ....
+
+692
+00:44:10,400 --> 00:44:14,250
+[DANIEL]
+What do I do? It doesn't have any buttons or anything.
+ຂ້ອຍຈະເຮັດແນວໃດ? ມັນບໍ່ມີປຸ່ມໃດໆຫຼືຫຍັງເລີຍ.
+
+693
+00:44:14,750 --> 00:44:16,750
+[SPIKE]
+Shoot it, Son.
+ຍິງມັນ, ລູກຊາຍ.
+
+694
+00:44:17,250 --> 00:44:19,350
+[DANIEL]
+But I don't have a gun.
+ແຕ່ຂ້ອຍບໍ່ມີປືນ.
+
+695
+00:44:19,850 --> 00:44:21,850
+[SPIKE]
+Use your exo-suit.
+ໃຊ້ຊຸດພາຍນອກຂອງທ່ານ.
+
+696
+00:44:22,350 --> 00:44:24,350
+[CLIFFJUMPER]
+Hurry!
+ໄວໆ!
+
+697
+00:44:24,850 --> 00:44:26,850
+[DANIEL]
+Starts frying the command console!
+ເລີ່ມຟຣີຄອນໂຊລການບັນຊາການ!
+
+698
+00:44:27,350 --> 00:44:29,350
+[DANIEL]
+I can't stop it!
+ຂ້ອຍບໍ່ສາມາດຢຸດມັນໄດ້!
+
+699
+00:44:29,850 --> 00:44:31,850
+[DANIEL]
+turns around and sees this.
+ຫັນໄປແລະເຫັນສິ່ງນີ້.
+
+700
+00:44:32,350 --> 00:44:34,350
+[DANIEL]
+Dad!
+ພໍ່!
+
+701
+00:44:34,850 --> 00:44:36,850
+[SPIKE]
+Son.
+ລູກຊາຍ.
+
+702
+00:44:37,350 --> 00:44:39,350
+[SPIKE]
+You did it!
+ເຈົ້າເຮັດໄດ້!
+
+703
+00:44:39,850 --> 00:44:42,650
+[GALVATRON]
+Come out, Autobot. We all must die sometime.
+ອອກມາ, Autobot. ພວກເຮົາທຸກຄົນຕ້ອງຕາຍໃນບາງຄັ້ງ.
+
+704
+00:44:43,150 --> 00:44:45,150
+[GALVATRON]
+stumbles backward.
+ຕົກລົງກັບຄືນໄປບ່ອນ.
+
+705
+00:44:45,650 --> 00:44:51,650
+[GALVATRON]
+No, I will crush you with bare hands. Hot Rod transforms back to car and tries to race away... ... Galvatron jumps after him and catches him... ... Hot Rod, nearly pinned by Galvatron transforms to humanoid mode.
+ບໍ່, ຂ້ອຍຈະສັ່ນສະເທືອນເຈົ້າດ້ວຍມືເປົ່າ. ກະດານຮ້ອນປ່ຽນຄືນເປັນລົດແລະພະຍາຍາມແລ່ນໄປ......
+ແກລເວຕຣອນໂດດຕາມລາວແລະຈັບລາວ...... ກະດາດຮ້ອນ, ເກືອບຖືກກັດກັ້ນໂດຍແກລເວທຣອນປ່ຽນເປັນໂຫມດ humanoid.
+
+706
+00:44:52,150 --> 00:44:58,150
+[GALVATRON]
+First Prime, then Ultra Magnus and now you. It is a pity Autobots die so easily or I might have a sense of satisfaction now. Hot Rod desperately gasps and pulls at Galvatron's hands...
+ກ່ອນອື່ນ Prime, ຫຼັງຈາກນັ້ນ Ultra Magnus ແລະດຽວນີ້ເຈົ້າ. ມັນເປັນຄວາມໂຊກຮ້າຍທີ່ Autobots
+ຕາຍງ່າຍດາຍຫຼາຍຫຼືຂ້ອຍອາດຈະມີຄວາມພໍໃຈດຽວນີ້. Hot Rod ຢ່າງຮຸນແຮງສັ່ນສະເທືອນແລະດຶງມືຂອງ Galvatron...
+
+707
+00:44:58,650 --> 00:45:00,750
+[WRECK-GAR]
+Ashes to ashes. Junk to junk.
+ຂີ້ເຜົາເປັນຂີ້ເຜີ້ງ. ຂີ້ເຫຍື້ອເປັນຂົ່ມເຫີຍງ.
+
+708
+00:45:01,250 --> 00:45:03,250
+[HOT ROD]
+Gasps.
+ການສັ່ນສະເທືອນ.
+
+709
+00:45:03,750 --> 00:45:05,750
+[GALVATRON]
+Die!
+ຕາຍ!
+
+710
+00:45:06,250 --> 00:45:08,250
+[OPTIMUS PRIME]
+Arise, Rodimus Prime.
+ຕື່ນຂຶ້ນ, ໂຣດິມັສ ປຣາມ.
+
+711
+00:45:08,750 --> 00:45:10,750
+[HOT ROD]
+Optimus!
+ໂອປຕິມັສ!
+
+712
+00:45:11,250 --> 00:45:13,250
+[GALVATRON]
+Nooooooo!
+ບໍ່!
+
+713
+00:45:13,750 --> 00:45:19,750
+[HOT ROD]
+This is the end of the road, Galvatron. With that, he picks up the Decepticon and throws him through...
+ນີ້ແມ່ນຈຸດສິ້ນສຸດຂອງທາງ, ແກລເວຕຣອນ. ດ້ວຍນັ້ນ
+, ລາວເອົາ Decepticon ແລະຖິ້ມລາວຜ່ານ...
+
+714
+00:45:20,250 --> 00:45:26,200
+[SPRINGER]
+I'm almost out of energy. Suddenly, he looks up and sees one of the creatures explode above
+ຂ້ອຍເກືອບຫມົດພະລັງງານແລ້ວ. ທັນທີ,
+ລາວເບິ່ງຂຶ້ນແລະເຫັນຫນຶ່ງໃນສັດລະເບີດຢູ່ເທິງ
+
+715
+00:45:26,700 --> 00:45:29,500
+[SPRINGER]
+That's what I call the nick of time.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍເອີ້ນວ່າ nick ຂອງເວລາ.
+
+716
+00:45:30,000 --> 00:45:32,000
+[JAZZ]
+Let's burn rubber!
+ພວກເຮົາຈະເຜົາໄຫມ້ຢາງ!
+
+717
+00:45:32,500 --> 00:45:34,600
+[KUP]
+I knew you had potential, lad!
+ຂ້ອຍຮູ້ວ່າເຈົ້າມີຄວາມສາມາດ, ເດັກຊາຍ!
+
+718
+00:45:35,100 --> 00:45:41,100
+[RODIMUS PRIME]
+Autobots, transform and roll out. Rodimus Prime transforms into truck mode as the other Autobots also transform. Daniel and Spike jump into him. Then, in a continuous line, he shoots off, the other Autobots racing behind him.
+ໂອດໂບຕ໌, ປ່ຽນແປງແລະເປີດຕົວ. ໂຣດິມັສ ປຣາມີສ໌ປ່ຽນເປັນໂຫມດລົດບັນທຸກໃນຂະນະທີ່ໂອດໂບບຕ໌ອື່ນໆກໍ່ປ່ຽນໃຈເຫລື້ອມໃສ.
+ດານີເລແລະສປາຍເກີໂດດເຂົ້າໄປໃນລາວ. ຫຼັງຈາກນັ້ນ, ໃນສາຍຕໍ່ເນື່ອງ, ລາວຍິງອອກໄປ, ໂອບໂຕອື່ນໆແຂ່ງຂັນຢູ່ເບື້ອງຫຼັງລາວ.
+
+719
+00:45:41,600 --> 00:45:47,600
+[RODIMUS PRIME]
+Let this mark the end of the Cybertronian wars as we move forward to a new age of peace and happiness....
+ຂໍໃຫ້ສິ່ງນີ້ ຫມາຍ ເຖິງການສິ້ນສຸດສົງຄາມໄຊເບີຕຣອນຍ໌ໃນຂະນະທີ່ພວກເຮົາກ້າວໄປສູ່ສະໄຫມ
+ໃຫມ່ ຂອງຄວາມສະຫງົບແລະຄວາມສຸກ....
+
+720
+00:45:48,100 --> 00:45:50,100
+[ALL]
+Until all are one!
+ຈົນກວ່າທຸກຄົນຈະເປັນຄົນດຽວ!
+

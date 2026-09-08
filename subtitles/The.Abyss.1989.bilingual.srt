@@ -1,0 +1,4197 @@
+1
+00:00:10,000 --> 00:00:12,000
+[JAMES CAMERON]
+August 2, 1988 Director's Revision
+ການປັບປຸງຂອງຜູ້ອໍານວຍການວັນທີ 2 ສິງຫາປີ 1988
+
+2
+00:00:12,500 --> 00:00:16,700
+[CAPTAIN]
+Sixty knots?  No way, Barnes... the reds don't have anything that fast.
+ຫົກສິບ knots? ບໍ່ເປັນໄປໄດ້, ບາຣນສ໌... ພວກສີແດງບໍ່ມີຫຍັງໄວປານໃດ.
+
+3
+00:00:17,200 --> 00:00:23,200
+[BARNES]
+Checked it twice, skipper.  It's a real unique signature.  No cavitation, no reactor noise... doesn't even sound like screws.
+ກວດເບິ່ງມັນສອງຄັ້ງ, ຄັບປິນ. ມັນແມ່ນລາຍເຊັນທີ່ເປັນເອກະລັກແທ້ໆ. ບໍ່ມີ
+cavitation, ບໍ່ມີສຽງປະຕິກິລິຍາ... ບໍ່ເຖິງແມ່ນວ່າສຽງຄືກັບ screws ໄດ້.
+
+4
+00:00:23,700 --> 00:00:25,700
+[CAPTAIN]
+What the hell is it?
+ມັນເປັນຫຍັງ?
+
+5
+00:00:26,200 --> 00:00:30,050
+[EXEC]
+I'll tell you what it's not, it's not one of ours.
+ຂ້ອຍຈະບອກເຈົ້າວ່າມັນບໍ່ແມ່ນຫຍັງ, ມັນບໍ່ແມ່ນ ຫນຶ່ງ ໃນຂອງພວກເຮົາ.
+
+6
+00:00:30,550 --> 00:00:34,750
+[BARNES]
+Sir!  Contact changing heading to two-one-four, diving.  Speed eighty knots!  Eighty knots!
+ເຈົ້າ! ການຕິດຕໍ່ປ່ຽນເສັ້ນທາງໄປຫາສອງ ຫນຶ່ງ
+ສີ່, ການລອຍນ້ ໍາ. ຄວາມໄວສິບ knots! ສິບ knot!
+
+7
+00:00:35,250 --> 00:00:37,250
+[EXEC]
+Eighty knots...
+ແປດສິບ knots...
+
+8
+00:00:37,750 --> 00:00:43,000
+[BARNES]
+Still diving, depth nine hundred feet.  Port clearance to cliff wall, one hundred fifty feet.
+ຍັງລອຍນ້ ໍາ, ຄວາມເລິກເກົ້າຮ້ອຍແມັດ.
+ຄວາມສະອາດທ່າເຮືອໄປຫາກໍາແພງແຄມ, ຫນຶ່ງຮ້ອຍຫ້າສິບຕີນ.
+
+9
+00:00:43,500 --> 00:00:48,750
+[FRANK]
+Still diving, depth nine hundred feet.  Port clearance to cliff wall, one hundred fifty feet.
+ຍັງລອຍນ້ ໍາ, ຄວາມເລິກເກົ້າຮ້ອຍແມັດ.
+ຄວາມສະອາດທ່າເຮືອໄປຫາກໍາແພງແຄມ, ຫນຶ່ງຮ້ອຍຫ້າສິບຕີນ.
+
+10
+00:00:49,250 --> 00:00:51,250
+[EXEC]
+It's getting tight in here.
+ມັນ ກໍາ ລັງແຫນ້ນແຟ້ນຢູ່ບ່ອນນີ້.
+
+11
+00:00:51,750 --> 00:00:57,700
+[CAPTAIN]
+We can still give him a haircut.  Helm, come right to oh six niner, down five degrees.
+ພວກເຮົາຍັງສາມາດຕັດຜົມໃຫ້ລາວໄດ້. ເຮລມ,
+ມາທາງກົງໄປ oh ຫົກເກົ້າ, ລົງຫ້າລະດັບ.
+
+12
+00:00:58,200 --> 00:01:01,700
+[HELMSMAN]
+Coming right to oh six niner, sir.  Down five degrees.
+ມາຮອດ oh ຫົກເກົ້າ, ທ້າວ. ລົງຫ້າລະດັບ.
+
+13
+00:01:02,200 --> 00:01:08,150
+[NAVIGATOR]
+Port side clearance one hundred twenty feet narrowing to seventy-five.  Sir, we have a proximity warning light.
+ຄວາມສະອາດທາງດ້ານທ່າເຮືອສິບແມັດແຄບລົງເປັນສິບຫ້າແມັດ
+. ເຈົ້າ, ພວກເຮົາມີແສງເຕືອນໃກ້ຊິດ.
+
+14
+00:01:08,650 --> 00:01:11,450
+[EXEC]
+That's too damn close!  We've gotta back off.
+ມັນໃກ້ຊິດເກີນໄປ! ພວກເຮົາຕ້ອງຖອຍໄປ.
+
+15
+00:01:11,950 --> 00:01:17,950
+[BARNES]
+Range to contact, two hundred.  Contact junked to bearing two six oh and accelerated to... one hundred thirty knots, sir!
+ໄລຍະໄປຫາການຕິດຕໍ່, ສອງຮ້ອຍ. ການຕິດຕໍ່ຖືກຖິ້ມໄປສູ່ການຖືສອງຫົກໂອແລະເລັ່ງເຖິງ
+... ຫນຶ່ງຮ້ອຍສາມສິບ knots, ທ້າວ!
+
+16
+00:01:18,450 --> 00:01:20,450
+[EXEC]
+Nothing goes one thirty!
+ບໍ່ມີຫຍັງໄປຮອດເວລາຫນຶ່ງສາມສິບ!
+
+17
+00:01:20,950 --> 00:01:22,950
+[EXEC]
+Turbulence!  We're in its wake!
+ຄວາມວຸ້ນວາຍ! ພວກເຮົາ ກໍາ ລັງຕິດຕາມມັນ!
+
+18
+00:01:23,450 --> 00:01:25,550
+[CAPTAIN]
+Helm, all stop!  Full right rudder!
+ເຮລມ໌, ຢຸດທັງຫມົດ! ຄະນະກໍາມະການຂວາເຕັມ!
+
+19
+00:01:26,050 --> 00:01:30,250
+[HELMSMAN]
+All stop.  Full right rudder.  Hydraulic failure. Planes are not responding, sir!
+ທັງ ຫມົດ ຢຸດເຊົາ. ກະຕູ້ຂວາເຕັມ. ຄວາມລົ້ມເຫຼວໄຮໂດຣລິກ
+. ເຮືອບິນບໍ່ໄດ້ຕອບສະ ຫນອງ, ທ່ານ!
+
+20
+00:01:30,750 --> 00:01:32,750
+[HELMSMAN]
+Hydraulics restored, sir.
+ເຄື່ອງໄຮໂດຣລິກຟື້ນຟູແລ້ວເດີເດີ.
+
+21
+00:01:33,250 --> 00:01:36,050
+[CAPTAIN]
+Collision alarm!  Collision alarm!  Lighten her up, Charlie!
+ແຈ້ງເຕືອນການປະທະກັນ! ແຈ້ງ ເຕືອນການຕໍາກັນ
+! ເຮັດໃຫ້ນາງເບົາບາງຂຶ້ນ, ແຊລລີ!
+
+22
+00:01:36,550 --> 00:01:38,650
+[NAVIGATOR]
+The torpedo room is flooded, sir!
+ຫ້ອງໂຕຣເປໂດຖືກນໍ້າຖ້ວມແລ້ວເດີເດີ!
+
+23
+00:01:39,150 --> 00:01:41,150
+[CAPTAIN]
+Blow all tanks!  Blow everything!
+ລະເບີດລົດຖັງທັງ ຫມົດ!ລະເບີດທຸກຢ່າງ!
+
+24
+00:01:41,650 --> 00:01:43,650
+[HELMSMAN]
+Passing twelve hundred feet...
+ຜ່ານສອງສິບສອງຮ້ອຍແມັດ...
+
+25
+00:01:44,150 --> 00:01:46,150
+[EXEC]
+Blowing main tanks!
+ການລະເບີດຖັງຫຼັກ!
+
+26
+00:01:46,650 --> 00:01:48,650
+[HELMSMAN]
+Twelve hundred fifty feet...
+ສອງສິບສອງຮ້ອຍຫ້າສິບແມັດ...
+
+27
+00:01:49,150 --> 00:01:51,150
+[EXEC]
+Main forward tanks ruptured!
+ລົດຖັງທາງຫນ້າຫຼັກແຕກແລ້ວ!
+
+28
+00:01:51,650 --> 00:01:53,650
+[HELMSMAN]
+Passing thirteen hundred feet...
+ຜ່ານສາມສິບສາມຮ້ອຍແມັດ...
+
+29
+00:01:54,150 --> 00:01:56,150
+[EXEC]
+Too deep to pump auxiliaries!
+ເລິກເກີນໄປທີ່ຈະປັ່ນປ່ວນເຄື່ອງຊ່ວຍເຫຼືອ!
+
+30
+00:01:56,650 --> 00:01:58,750
+[CAPTAIN]
+All back full!  All back full!
+ທັງ ຫມົດ ເຕັມກັບຄືນໄປບ່ອນ! ທັງ ຫມົດ ກັບຄືນມາເຕັມ!
+
+31
+00:01:59,250 --> 00:02:03,800
+[HELMSMAN]
+Answering all back full.  Passing thirteen hundred fifty feet... fourteen hundred... fourteen fifty...
+ຕອບທັງ ຫມົດ ກັບຄືນໄປບ່ອນເຕັມໄປ.
+ຜ່ານສິບສາມຮ້ອຍຫ້າສິບຕີນ... ສິບສີ່ຮ້ອຍ... ສີ່ສິບສິບ...
+
+32
+00:02:04,300 --> 00:02:06,400
+[CAPTAIN]
+We're losing her.  Launch the buoy!
+ພວກເຮົາ ກໍາ ລັງສູນເສຍນາງ. ເປີດບູຍ!
+
+33
+00:02:06,900 --> 00:02:09,000
+[MCBRIDE]
+Does not look good at all.
+ມັນເບິ່ງບໍ່ດີເລີຍ.
+
+34
+00:02:09,500 --> 00:02:12,650
+[DEMARCO]
+No light from the surface.  How deep are they?
+ບໍ່ມີແສງສະຫວ່າງຈາກພື້ນຜິວ. ພວກເຂົາເລິກຫຼາຍປານໃດ?
+
+35
+00:02:13,150 --> 00:02:15,150
+[MCBRIDE]
+Seventeen hundred feet.
+ສິບເຈັດຮ້ອຍແມັດ.
+
+36
+00:02:15,650 --> 00:02:18,800
+[DEMARCO]
+I need them to go to over two thousand.
+ຂ້ອຍຕ້ອງການໃຫ້ພວກເຂົາໄປເກີນສອງພັນ.
+
+37
+00:02:19,300 --> 00:02:22,450
+[KIRKHILL]
+They can do it.  Get Brigman on the line.
+ພວກເຂົາສາມາດເຮັດໄດ້. ເອົາບຣິກແມນໃສ່ສາຍ.
+
+38
+00:02:22,950 --> 00:02:25,400
+[BUD]
+Hey, you guys are milking that job.
+ເຮ້, ພວກເຈົ້າ ກໍາ ລັງນົມວຽກນັ້ນ.
+
+39
+00:02:25,900 --> 00:02:30,450
+[CATFISH]
+That's cause we love freezin' our butts off out here sooo much, boss.
+ນັ້ນແມ່ນຍ້ອນວ່າພວກເຮົາມັກການກ້ອນຫຼັງຂອງພວກເຮົາຢູ່ບ່ອນນີ້ຫຼາຍ
+, ຫົວຫນ້າ.
+
+40
+00:02:30,950 --> 00:02:35,850
+[JAMMER]
+Bud!  Hippy's on the bitch-box.  It's a call from topside.  That new company man.
+ບາດ! ຮິບປີ້ຢູ່ໃນກ່ອງແຊກແຊງ.
+ມັນແມ່ນການໂທຈາກດ້ານເທິງ. ຜູ້ຊາຍບໍລິສັດ ໃຫມ່ ນັ້ນ.
+
+41
+00:02:36,350 --> 00:02:40,550
+[BUD]
+Kirkhill?  That guy doesn't know his butt from a rathole.  Hey, Perry!
+ຄິກຮິລ? ຜູ້ຊາຍຄົນນັ້ນບໍ່ຮູ້ບາກຂອງລາວຈາກຮູແມວ. ເຮ້, ເປຣີ!
+
+42
+00:02:41,050 --> 00:02:47,050
+[BUD]
+Do me a favor and square away the mud hose and those cable slings.  This place is starting to look like my apartment.
+ເຮັດຂ້ອຍຄວາມສະດວກແລະເອົາທໍ່ດິນເຜົາແລະສາຍໄຟເຫຼົ່ານັ້ນໄປ
+. ສະຖານທີ່ນີ້ ກໍາ ລັງເລີ່ມເບິ່ງຄືວ່າອາພາດເມັນຂອງຂ້ອຍ.
+
+43
+00:02:47,550 --> 00:02:49,650
+[BUD]
+I'm coming.  Keep your pantyhose on.
+ຂ້ອຍ ກໍາ ລັງມາ. ເອົາກະເປົາກະເປົ໋າຂອງທ່ານໃສ່.
+
+44
+00:02:50,150 --> 00:02:56,150
+[BUD]
+Brigman here.  Kirkhill?  What's going on?  I am calm.  I'm a calm person.  Is there some reason why I shouldn't be calm?
+ບຣິກແມນຢູ່ນີ້. ຄີຣັກຮິລ? ເກີດຫຍັງຂຶ້ນ? ຂ້ອຍສະຫງົບໃຈ.
+ຂ້ອຍເປັນຄົນສະຫງຽບສະຫງ່າ. ມີເຫດຜົນໃດທີ່ຂ້ອຍບໍ່ຄວນສະຫງ່າງາມບໍ?
+
+45
+00:02:56,650 --> 00:02:58,650
+[BUD]
+Son of a bitch.
+ລູກໂຊກຮ້າຍ.
+
+46
+00:02:59,150 --> 00:03:03,000
+[BUD]
+All divers.  Drop what you're doing.  Everybody out of the pool.
+ທຸກຄົນລອຍນໍ້າ. ຖິ້ມສິ່ງທີ່ເຈົ້າ ກໍາ
+ລັງເຮັດ. ທຸກຄົນອອກຈາກສະລອຍນ້ ໍາ.
+
+47
+00:03:03,500 --> 00:03:05,500
+[SONNY]
+Just in time, sugar.
+ພຽງແຕ່ໃນເວລາ, ແຊກເກີ.
+
+48
+00:03:06,000 --> 00:03:09,500
+[SONNY]
+There was a time when I would have asked why.
+ມີເວລາທີ່ຂ້ອຍຈະຖາມວ່າເປັນຫຍັງ.
+
+49
+00:03:10,000 --> 00:03:12,800
+[FINLER]
+What's goin' on?  How come we got recalled?
+ເກີດຫຍັງຂຶ້ນ? ເປັນຫຍັງພວກເຮົາຈຶ່ງຖືກເອີ້ນຄືນ?
+
+50
+00:03:13,300 --> 00:03:15,300
+[SONNY]
+Hell is I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+51
+00:03:15,800 --> 00:03:21,050
+[CATFISH]
+Just follow standard procedure, will ya... flog the dog till somebody tells us what's happening.
+ພຽງແຕ່ປະຕິບັດຕາມຂັ້ນຕອນມາດຕະຖານ, ເຈົ້າຈະ...
+ຕີຫມາຈົນກວ່າໃຜຈະບອກພວກເຮົາວ່າເກີດຫຍັງຂຶ້ນ.
+
+52
+00:03:21,550 --> 00:03:25,400
+[JAMMER]
+Hey, Catfish, I'll sell you my October Penthouse for twenty bucks.
+ເຮ້, ປາແຄຕສ໌, ຂ້ອຍຈະຂາຍເຮືອນ Penthouse
+ເດືອນຕຸລາຂອງຂ້ອຍໃຫ້ເຈົ້າໃນລາຄາສິບໂດລາ.
+
+53
+00:03:25,900 --> 00:03:27,900
+[JAMMER]
+What's goin' on, Boss?
+ເກີດຫຍັງຂຶ້ນ, ຫົວຫນ້າ?
+
+54
+00:03:28,400 --> 00:03:34,000
+[BUD]
+Folks, I've just been told to shut down the hole and prepare to move the rig.
+ພວກຄົນ, ຂ້ອຍຫາກໍ່ຖືກບອກໃຫ້ປິດຮູແລະກຽມພ້ອມທີ່ຈະຍ້າຍເຄື່ອງຈັກ.
+
+55
+00:03:34,500 --> 00:03:36,500
+[SONNY]
+She-hit.
+ນາງຖືກຕີ.
+
+56
+00:03:37,000 --> 00:03:43,000
+[BUD]
+We're being asked to cooperate in a matter of national security.  Now you know exactly as much as I do.  So just get your gear off and get up to control.  There's some kind of briefing in ten minutes.
+ພວກເຮົາຖືກຮ້ອງຂໍໃຫ້ຮ່ວມມືໃນເລື່ອງຄວາມປອດໄພແຫ່ງຊາດ. ດຽວນີ້ເຈົ້າຮູ້ຫຼາຍເທົ່າກັບຂ້ອຍ.
+ສະນັ້ນພຽງແຕ່ເອົາເຄື່ອງມືຂອງທ່ານອອກແລະຂຶ້ນເພື່ອຄວບຄຸມ. ມີການ briefing ບາງປະເພດໃນສິບນາທີ.
+
+57
+00:03:43,500 --> 00:03:49,500
+[DEMARCO]
+At 09:22 local time this morning, an American nuclear submarine, the USS Montana, with 156 men aboard, went down 22 miles from here.  There has been no contact with the sub since then.  The cause of the incident is not known.
+ໃນເວລາ 09:22 ໂມງໃນທ້ອງຖິ່ນໃນຕອນເຊົ້ານີ້, ເຮືອລອຍນໍ້ານິວເຄລຍອາເມລິກາ, USS Montana, ມີຜູ້ຊາຍ 156 ຄົນຢູ່ເທິງເຮືອ
+, ໄດ້ລົງຈາກບ່ອນນີ້ 22 ໄມລ໌. ບໍ່ມີການຕິດຕໍ່ກັບເຮືອລໍານໍານັ້ນນັບຕັ້ງແຕ່ນັ້ນ. ສາເຫດຂອງເຫດການບໍ່ຮູ້.
+
+58
+00:03:50,000 --> 00:03:56,000
+[DEMARCO]
+Your company has authorized the Navy's use of this facility for a rescue operation.  The code name is Operation Salvor.
+ບໍລິສັດຂອງທ່ານໄດ້ອະນຸຍາດໃຫ້ກອງທັບເຮືອໃຊ້ສະຖານທີ່ນີ້ ສໍາ
+ລັບການປະຕິບັດງານຊ່ວຍເຫຼືອ. ຊື່ລະຫັດແມ່ນການປະຕິບັດງານ Salvor.
+
+59
+00:03:56,500 --> 00:04:02,500
+[DEMARCO]
+No.  We know where it is.  But she's in 2000 feet of water and we can't reach her.  We need divers to enter the sub and search for survivors, if any.
+ບໍ່. ພວກເຮົາຮູ້ວ່າມັນຢູ່ໃສ. ແຕ່ນາງຢູ່ໃນນ້ ໍາ 2000 ຟຸດແລະພວກເຮົາບໍ່ສາມາດບັນລຸນາງໄດ້
+. ພວກເຮົາຕ້ອງການນັກລອຍນໍ້າທີ່ຈະເຂົ້າໄປໃນເຮືອລອຍນໍ້າແລະຊອກຫາຜູ້ລອດຊີວິດ, ຖ້າມີ.
+
+60
+00:04:03,000 --> 00:04:07,200
+[BUD]
+Don't you guys have your own stuff for this type of thing?
+ພວກເຈົ້າບໍ່ມີສິ່ງຂອງຂອງເຈົ້າເອງ ສໍາ ລັບສິ່ງນີ້ບໍ?
+
+61
+00:04:07,700 --> 00:04:13,700
+[DEMARCO]
+By the time we get our rescue submersible here the storm front will be right on us.  But you can get your rig in under the storm and be on- site in fifteen hours.  That makes you our best option right now.
+ໃນເວລາທີ່ພວກເຮົາໄດ້ຮັບເຮືອລອຍນ້ ໍາ ການຊ່ວຍເຫຼືອຂອງພວກເຮົາຢູ່ນີ້ ຫນ້າ ພາຍຸຈະຢູ່ຂ້າງພວກເຮົາ.
+ແຕ່ເຈົ້າສາມາດເອົາເຄື່ອງຈັກຂອງທ່ານເຂົ້າໄປໃນພາຍໃຕ້ພາຍຸແລະຢູ່ໃນສະຖານທີ່ໃນເວລາສິບຫ້າຊົ່ວໂມງ. ນັ້ນເຮັດໃຫ້ເຈົ້າເປັນທາງເລືອກທີ່ດີທີ່ສຸດຂອງພວກເຮົາໃນເວລານີ້.
+
+62
+00:04:14,200 --> 00:04:18,050
+[HIPPY]
+Why should we risk our butts on a job like this?
+ເປັນຫຍັງພວກເຮົາຈຶ່ງຕ້ອງສ່ຽງຫລັງຂອງພວກເຮົາໃນການເຮັດວຽກແບບນີ້?
+
+63
+00:04:18,550 --> 00:04:24,550
+[KIRKHILL]
+I have been authorized to offer you all special- duty bonuses equivalent to three times normal dive pay.
+ຂ້ອຍໄດ້ຮັບອະນຸຍາດໃຫ້ສະ ເຫນີ ໂບນັດພາສີພິເສດທັງ
+ຫມົດ ເທົ່າກັບເງິນຈ້າງລອຍນ້ ໍາ ທໍາ ມະດາສາມເທົ່າ.
+
+64
+00:04:25,050 --> 00:04:30,300
+[CATFISH]
+Hell, for triple time I'd crawl through razor blades and shower off with lime juice.
+ສະຫວັນນະເຂດ, ສໍາລັບເວລາສາມຄັ້ງຂ້ອຍຈະຍ່າງຜ່ານກະດານຕັດຜົມແລະອາບນ້
+ໍາ ດ້ວຍນ້ ໍາ ມັນລີມ.
+
+65
+00:04:30,800 --> 00:04:36,050
+[FINLER]
+I'm here to tell ya', you could set me on fire and call me names.
+ຂ້ອຍມາທີ່ນີ້ເພື່ອບອກເຈົ້າ,
+ເຈົ້າສາມາດເຮັດໃຫ້ຂ້ອຍໄຫມ້ແລະເອີ້ນຂ້ອຍຊື່.
+
+66
+00:04:36,550 --> 00:04:42,550
+[BUD]
+Look, I don't know what kind of a deal you guys worked out with the company, but my people are not qualified for this... they're oil workers.
+ເບິ່ງ, ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າໄດ້ເຮັດຂໍ້ຕົກລົງປະເພດໃດກັບບໍລິສັດ,
+ແຕ່ຄົນຂອງຂ້ອຍບໍ່ໄດ້ມີຄຸນສົມບັດ ສໍາ ລັບສິ່ງນີ້... ພວກເຂົາເປັນຄົນງານນ້ ໍາ ມັນ.
+
+67
+00:04:43,050 --> 00:04:47,600
+[DEMARCO]
+A four-man SEAL team will transfer down to you to supervise the operation.
+ທີມງານ SEAL
+ທີ່ມີຄົນສີ່ຄົນຈະຖືກໂອນລົງມາຫາເຈົ້າເພື່ອເບິ່ງແຍງການປະຕິບັດງານ.
+
+68
+00:04:48,100 --> 00:04:54,100
+[BUD]
+You can send down whoever you like, but I'm the toolpusher on this rig, and when it comes to the safety of these people, there's me... then there's God.  Understand?  If things get dicey, I'm pulling the plug.
+ເຈົ້າສາມາດສົ່ງໃຜທີ່ເຈົ້າມັກລົງໄດ້, ແຕ່ຂ້ອຍເປັນຜູ້ກົດເຄື່ອງມືໃນເຄື່ອງຈັກນີ້, ແລະເມື່ອເວົ້າເຖິງຄວາມປອດໄພຂອງຄົນເຫຼົ່ານີ້
+, ມີຂ້ອຍ... ຫຼັງຈາກນັ້ນມີພຣະເຈົ້າ. ເຂົ້າໃຈບໍ? ຖ້າສິ່ງຕ່າງໆກາຍເປັນອັນຕະລາຍ, ຂ້ອຍ ກໍາ ລັງດຶງ plug ໄດ້.
+
+69
+00:04:54,600 --> 00:05:00,550
+[KIRKHILL]
+I think we're all on the same wavelength, Brigman.  Now let's get the wellhead uncoupled, shall we?
+ຂ້ອຍຄິດວ່າພວກເຮົາທຸກຄົນຢູ່ໃນຄວາມຍາວຄື້ນດຽວກັນ, ບຣິກແມນ
+. ດຽວນີ້ພວກເຮົາຈະເຮັດໃຫ້ຫົວຮູບໍ່ເຊື່ອມໂຍງກັນ, ແມ່ນບໍ?
+
+70
+00:05:01,050 --> 00:05:05,600
+[JAMMER]
+When Lindsey finds out about this, it's not gonna be a pretty sight.
+ເມື່ອລິນດຊີຮູ້ເລື່ອງນີ້, ມັນຈະບໍ່ເປັນພາບທີ່ສວຍງາມ.
+
+71
+00:05:06,100 --> 00:05:11,000
+[PILOT]
+No way I'm putting her down.  I shouldn't even be flying in this shit.
+ບໍ່ເປັນໄປເລີຍວ່າຂ້ອຍຈະເອົານາງລົງ. ຂ້ອຍບໍ່ຄວນບິນໃນສິ່ງນີ້ເລີຍ.
+
+72
+00:05:11,500 --> 00:05:13,600
+[COFFEY]
+Just hold it over the deck.
+ຄຸເຂົ່າລົງ
+
+73
+00:05:14,100 --> 00:05:19,350
+[COFFEY]
+You want to be on that ship, there's only one way it's going to happen.
+ເຈົ້າຢາກຢູ່ເທິງເຮືອນັ້ນ, ມີພຽງແຕ່ວິທີດຽວທີ່ມັນຈະເກີດຂຶ້ນ.
+
+74
+00:05:19,850 --> 00:05:23,700
+[BUD]
+Fred, huh?  I don't know.  Hurricanes should be named after women.
+ຟຣີດ, ແມ່ນບໍ? ຂ້ອຍບໍ່ຮູ້. ພາຍຸເຮືອບິນຄວນຖືກຕັ້ງຊື່ຕາມແມ່ຍິງ.
+
+75
+00:05:24,200 --> 00:05:27,000
+[LINDSEY]
+I can't believe you let them do this!
+ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າປ່ອຍໃຫ້ພວກເຂົາເຮັດສິ່ງນີ້!
+
+76
+00:05:27,500 --> 00:05:30,300
+[BUD]
+Hi, Lins.  I thought you were in Houston.
+ສະບາຍດີ, ລິນສ໌. ຂ້ອຍຄິດວ່າເຈົ້າຢູ່ຮູສຕັນ.
+
+77
+00:05:30,800 --> 00:05:36,800
+[LINDSEY]
+I was, but I managed to bum a ride on the last flight out here.  Only here isn't where I left it, is it, Bud?
+ຂ້ອຍເປັນ, ແຕ່ຂ້ອຍສາມາດຂັບລົດໄດ້ໃນຖ້ຽວບິນສຸດທ້າຍຢູ່ນີ້.
+ພຽງແຕ່ບ່ອນນີ້ບໍ່ແມ່ນບ່ອນທີ່ຂ້ອຍປ່ອຍມັນໄວ້, ແມ່ນບໍ, ບາດ?
+
+78
+00:05:37,300 --> 00:05:39,300
+[BUD]
+Wasn't up to me.
+ມັນບໍ່ໄດ້ຂຶ້ນກັບຂ້ອຍ.
+
+79
+00:05:39,800 --> 00:05:45,800
+[LINDSEY]
+We were that close to proving a submersible drilling platform could work.  We had over seven thousand feet of hole down for Chrissake.  I can't believe you let them grab my rig!
+ພວກເຮົາໃກ້ທີ່ຈະພິສູດວ່າເວທີເຈາະນ້ ໍາ ສາມາດເຮັດວຽກໄດ້. ພວກເຮົາມີຮູຫຼາຍກວ່າເຈັດພັນແມັດລົງ
+ສໍາ ລັບຄຣິສສເກີ. ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າປ່ອຍໃຫ້ພວກເຂົາຈັບເຄື່ອງຈັກຂອງຂ້ອຍ!
+
+80
+00:05:46,300 --> 00:05:48,300
+[BUD]
+Your rig?
+ເຄື່ອງຈັກຂອງທ່ານບໍ?
+
+81
+00:05:48,800 --> 00:05:51,250
+[LINDSEY]
+My rig.  I designed the damn thing.
+ເຄື່ອງຈັກຂອງຂ້ອຍ. ຂ້ອຍໄດ້ອອກແບບສິ່ງນັ້ນ.
+
+82
+00:05:51,750 --> 00:05:57,750
+[BUD]
+Yup, a Benthic Petroleum paid for it.  So as long as they're hold the pink slip, I go where they tell me.
+ແມ່ນແລ້ວ, ນ້ ໍາ ມັນແບນຕິກໄດ້ຈ່າຍຄ່າມັນ.
+ສະນັ້ນຈົນກວ່າພວກເຂົາຈະຖືກະດານສີແດງ, ຂ້ອຍໄປບ່ອນທີ່ພວກເຂົາບອກຂ້ອຍ.
+
+83
+00:05:58,250 --> 00:06:04,250
+[LINDSEY]
+You wimp.  I had a lot riding on this.  They bought you... more like least rented you cheap--
+ເຈົ້າໂຊກຮ້າຍ. ຂ້ອຍມີການຂີ່ລົດຫຼາຍໃນສິ່ງນີ້.
+ພວກເຂົາຊື້ເຈົ້າ... ຫຼາຍກວ່າວ່າຈ້າງເຈົ້າລາຄາຖືກທີ່ສຸດ -
+
+84
+00:06:04,750 --> 00:06:06,750
+[BUD]
+I'm switching off now.
+ຂ້ອຍ ກໍາ ລັງປິດດຽວນີ້.
+
+85
+00:06:07,250 --> 00:06:11,100
+[LINDSEY]
+Virgil, you wiener!  You never could stand up to fight.  You--
+ເວີຈິລ, ເຈົ້າເປັນໂຊກແຊງ!
+ເຈົ້າບໍ່ເຄີຍສາມາດຢືນຂຶ້ນເພື່ອຕໍ່ສູ້ໄດ້. ເຈົ້າ -
+
+86
+00:06:11,600 --> 00:06:13,600
+[BUD]
+Bye.
+ສະບາຍດີ.
+
+87
+00:06:14,100 --> 00:06:16,100
+[HIPPY]
+Virgil?
+ເວີຈິລ?
+
+88
+00:06:16,600 --> 00:06:18,600
+[BUD]
+God, I hate that bitch.
+ພຣະເຈົ້າ, ຂ້ອຍກຽດຊັງໂຊກຮ້າຍນັ້ນ.
+
+89
+00:06:19,100 --> 00:06:22,250
+[HIPPY]
+Yeah, well you never should have married her then.
+ແມ່ນແລ້ວ, ດີເຈົ້າບໍ່ຄວນແຕ່ງງານນາງເລີຍໃນເວລານັ້ນ.
+
+90
+00:06:22,750 --> 00:06:26,600
+[LINDSEY]
+Let's go, gentlemen!  We either launch now or we don't launch.
+ໄປ, ພວກເຈົ້າ! ພວກເຮົາຈະເປີດຕົວດຽວນີ້ຫຼືພວກເຮົາຈະບໍ່ເປີດຕົວ.
+
+91
+00:06:27,100 --> 00:06:29,100
+[LINDSEY]
+Take her up, Byron!
+ເອົານາງຂຶ້ນ, ໄບຣອນ!
+
+92
+00:06:29,600 --> 00:06:35,600
+[KIRKHILL]
+What the hell is she doing out there?  Son of a bitch...  Lindsey... get out of Cab Three.  Bates is taking her down.
+ນາງ ກໍາ ລັງເຮັດຫຍັງຢູ່ພາຍນອກນັ້ນ? ລູກໂຊກຮ້າຍ... ລິນດຊີ
+... ອອກຈາກລົດແທັກຊີສາມ. ເບັດສ໌ ກໍາ ລັງເອົານາງລົງ.
+
+93
+00:06:36,100 --> 00:06:42,100
+[LINDSEY]
+Bates is sick.  Besides I've got more hours in this thing than he does.  A little change of plan.
+ແບຕສ໌ເຈັບປ່ວຍ. ນອກຈາກນັ້ນຂ້ອຍມີເວລາຫຼາຍໃນສິ່ງນີ້ກ່ວາລາວ
+. ການປ່ຽນແປງແຜນການ ຫນ້ອຍ ຫນຶ່ງ.
+
+94
+00:06:42,600 --> 00:06:45,050
+[COFFEY]
+Lady, we better fish or cut bait.
+ແມ່ຍິງ, ພວກເຮົາຄວນຫາປາຫຼືຕັດແຊກແຊງ.
+
+95
+00:06:45,550 --> 00:06:51,500
+[LINDSEY]
+Just hold your water, okay?  So Kirkhill, we gonna do this or we gonna talk about it?
+ພຽງແຕ່ຖືນ້ ໍາ ຂອງທ່ານ, ດີບໍ? ສະນັ້ນ Kirkhill,
+ພວກເຮົາຈະເຮັດສິ່ງນີ້ຫຼືພວກເຮົາຈະເວົ້າກ່ຽວກັບມັນບໍ?
+
+96
+00:06:52,000 --> 00:06:57,250
+[DEMARCO]
+I don't care who drives the damn thing.  Just get my team in the water.
+ຂ້ອຍບໍ່ສົນໃຈວ່າໃຜຂັບລົດສິ່ງນັ້ນ.
+ພຽງແຕ່ເອົາທີມງານຂອງຂ້ອຍເຂົ້າໄປໃນນ້ ໍາ.
+
+97
+00:06:57,750 --> 00:06:59,750
+[KIRKHILL]
+Alright, alright.  Christ Almighty!
+ດີແລ້ວ, ດີແລ້ວ. ພຣະຄຣິດຜູ້ມີອໍານາດສູງສຸດ!
+
+98
+00:07:00,250 --> 00:07:02,700
+[MCBRIDE]
+Cab Three, you are clear to launch.
+ລົດແທັກຊີສາມ, ເຈົ້າສາມາດເປີດຕົວໄດ້.
+
+99
+00:07:03,200 --> 00:07:06,350
+[LINDSEY]
+Roger.  There's only one way it's going to happen...
+ໂຣເຈີ. ມັນຈະເກີດຂຶ້ນພຽງແຕ່ທາງດຽວ...
+
+100
+00:07:06,850 --> 00:07:10,700
+[LINDSEY]
+Touchdown.  The crowd goes wild.  Explorer... Cab Three.  We are styling.
+ການຈັບລົງ. ຄົນຊົມເຊີຍໂຊກຮ້າຍ. ນັກຄົ້ນຄວ້າ
+... ລົດແທັກຊີສາມ. ພວກເຮົາ ກໍາ ລັງອອກແບບ.
+
+101
+00:07:11,200 --> 00:07:15,050
+[BUD/HIPPY]
+... I've been driving every kinda rig that's ever been maaaaade...
+ຂ້ອຍ ກໍາ ລັງຂັບລົດທຸກປະເພດທີ່ເຄີຍເປັນ maaaaade...
+
+102
+00:07:15,550 --> 00:07:18,700
+[LINDSEY]
+Deepcore, Deepcore... this is Cab Three on final approach.
+Deepcore, Deepcore... ນີ້ແມ່ນລົດແທັກຊີສາມໃນການເຂົ້າເຖິງສຸດທ້າຍ.
+
+103
+00:07:19,200 --> 00:07:22,350
+[HIPPY]
+Gotcha, Cab Three.  Who is that?  That You, Lindsey?
+ເຈົ້າໄດ້ແລ້ວ, ລົດແທັກຊີສາມ. ນັ້ນແມ່ນໃຜ? ນັ້ນແມ່ນເຈົ້າ, ລິນດຊີບໍ?
+
+104
+00:07:22,850 --> 00:07:24,850
+[LINDSEY]
+None other.
+ບໍ່ມີຄົນອື່ນເລີຍ.
+
+105
+00:07:25,350 --> 00:07:27,800
+[BUD]
+Oh no... you gotta be kidding me.
+ໂອ້ ບໍ່... ເຈົ້າຕ້ອງໂຊກຮ້າຍຂ້ອຍ.
+
+106
+00:07:28,300 --> 00:07:34,300
+[CATFISH]
+Howdy, y'all.  Hey, Lindsey!  I'll be damned! You shouldn't be down here sweet thing, ya'll might run ya stockings.
+ຄຸເຂົ່າລົງ
+
+107
+00:07:34,800 --> 00:07:39,350
+[LINDSEY]
+Couldn't stay away.  You running mixture for us? Good.  Couldn't ask for better.
+ເຈົ້າບໍ່ສາມາດຢູ່ຫ່າງໄກໄດ້. ເຈົ້າ ກໍາ ລັງ ດໍາ ເນີນການປະສົມ
+ສໍາ ລັບພວກເຮົາບໍ? ດີ. ບໍ່ສາມາດຂໍສິ່ງທີ່ດີກວ່າໄດ້.
+
+108
+00:07:39,850 --> 00:07:42,300
+[CATFISH]
+Okay, here we go.  Start equalizing, y'all.
+ດີແລ້ວ, ມາແລ້ວ. ເລີ່ມປຽບທຽບກັນ, ທຸກຄົນ.
+
+109
+00:07:42,800 --> 00:07:48,800
+[LINDSEY]
+Get comfortable.  The bad news is we got six hours in this can, blowing down.  The worse news is it's gonna take us three weeks to decompress back to the surface later.
+ສະບາຍໃຈ. ຂ່າວບໍ່ດີແມ່ນພວກເຮົາມີເວລາຫົກຊົ່ວໂມງໃນຖັງນີ້, ພັດລົງ.
+ຂ່າວຮ້າຍແຮງກວ່າແມ່ນມັນຈະໃຊ້ເວລາພວກເຮົາສາມອາທິດເພື່ອ decompress ກັບຄືນໄປບ່ອນພື້ນຜິວຕໍ່ມາ.
+
+110
+00:07:49,300 --> 00:07:51,400
+[COFFEY]
+We've been fully briefed, Mrs. Brigman.
+ພວກເຮົາໄດ້ຖືກແຈ້ງເຕືອນຢ່າງເຕັມທີ່ແລ້ວ, ທ່ານນາງບຣິກແມນ.
+
+111
+00:07:51,900 --> 00:07:57,900
+[LINDSEY]
+Don't call me that, okay... I hate that.  Alright, from now on we watch each other closely for signs of HPNS...
+ຢ່າເອີ້ນຂ້ອຍແບບນັ້ນ, ດີ... ຂ້ອຍກຽດຊັງມັນ. ດີ,
+ຈາກປັດຈຸບັນພວກເຮົາເບິ່ງແຍງກັນຢ່າງໃກ້ຊິດ ສໍາ ລັບສັນຍານຂອງ HPNS...
+
+112
+00:07:58,400 --> 00:08:03,300
+[MONK]
+High-Pressure Nervous Syndrome.  Muscle tremors, usually in the hands first.  Nausea, increased excitability, disorientation.
+ໂຣກໂຣກປະສາດຄວາມກົດດັນສູງ. ການສັ່ນສະເທືອນກ້າມຊີ້ນ, ໂດຍປົກກະຕິໃນມືກ່ອນ
+. ຄວາມໂຊກຮ້າຍ, ຄວາມກະຕຸ້ນເພີ່ມຂຶ້ນ, ຄວາມຜິດທິດທາງ.
+
+113
+00:08:03,800 --> 00:08:09,800
+[LINDSEY]
+Very good.  About one person in twenty just can't handle it.  They go buggo.  They're no way to predict who's susceptible, so stay alert.
+ດີຫຼາຍ. ປະມານຄົນ ຫນຶ່ງ ໃນສິບຄົນພຽງແຕ່ບໍ່ສາມາດຮັບມືກັບມັນໄດ້. ພວກເຂົາກາຍເປັນແບກໂກ
+. ພວກເຂົາບໍ່ມີວິທີທີ່ຈະຄາດຄະເນວ່າໃຜມີຄວາມອ່ອນແອ, ສະນັ້ນລະມັດລະວັງ.
+
+114
+00:08:10,300 --> 00:08:14,500
+[COFFEY]
+Look, we've all made chamber runs to this depth. We're checked out.
+ເບິ່ງ, ພວກເຮົາທຸກຄົນໄດ້ເຮັດການແລ່ນຫ້ອງຈົນເຖິງຄວາມເລິກນີ້
+. ພວກເຮົາຖືກກວດສອບແລ້ວ.
+
+115
+00:08:15,000 --> 00:08:19,900
+[LINDSEY]
+Oh... chamber runs.  Uh huh, that's good.  Well, hey... you guys know any songs?
+ໂອ້... ຫ້ອງການແລ່ນ. ໂອ້ ຮາ, ນັ້ນດີ
+. ດີ, ເຮ້... ພວກເຈົ້າຮູ້ເພງໃດບໍ?
+
+116
+00:08:20,400 --> 00:08:24,600
+[CATFISH]
+Those guys ain't so tough.  I fought plenty of guys tougher'n them.
+ພວກຄົນນັ້ນບໍ່ແຂງແຮງຫຼາຍ.
+ຂ້ອຍໄດ້ຕໍ່ສູ້ກັບຜູ້ຊາຍຫຼາຍຄົນທີ່ແຂງແຮງກວ່າພວກເຂົາ.
+
+117
+00:08:25,100 --> 00:08:29,650
+[HIPPY]
+Now we get to hear about how he used to be a contender.
+ດຽວນີ້ພວກເຮົາຈະໄດ້ຍິນກ່ຽວກັບວິທີທີ່ລາວເຄີຍເປັນຜູ້ແຂ່ງຂັນ.
+
+118
+00:08:30,150 --> 00:08:33,650
+[CATFISH]
+You see this?  They used to call this the Hammer.
+ເຈົ້າເຫັນສິ່ງນີ້ບໍ? ພວກເຂົາເຄີຍເອີ້ນສິ່ງນີ້ວ່າ Hammer.
+
+119
+00:08:34,150 --> 00:08:36,150
+[JAMMER]
+Hippy wasn't born then.
+ຮິບປີ້ບໍ່ໄດ້ເກີດໃນເວລານັ້ນ.
+
+120
+00:08:36,650 --> 00:08:38,650
+[COFFEY]
+Curiosity killed the cat.
+ຄວາມຢາກຮູ້ສຶກໄດ້ຂ້າແມວ.
+
+121
+00:08:39,150 --> 00:08:43,000
+[CATFISH]
+Y'all'er done to a turn and ready to serve. Everybody okay?
+ເຈົ້າທັງ ຫມົດ ໄດ້ເຮັດແລ້ວແລະພ້ອມທີ່ຈະຮັບໃຊ້. ທຸກຄົນດີບໍ?
+
+122
+00:08:43,500 --> 00:08:49,100
+[LINDSEY]
+Hey, was there a wall here before?  I don't remember a wall here.  Oh, Jammer!  Hi.
+ເຮ້, ມີກໍາແພງຢູ່ບ່ອນນີ້ກ່ອນບໍ? ຂ້ອຍບໍ່ຈື່
+ກໍາແພງຢູ່ນີ້. ໂອ້, ຈາມເມີ! ສະບາຍດີ.
+
+123
+00:08:49,600 --> 00:08:51,600
+[JAMMER]
+Howdy, there, little lady.
+ສະບາຍດີ, ຢູ່ບ່ອນນັ້ນ, ແມ່ຍິງນ້ອຍ.
+
+124
+00:08:52,100 --> 00:08:56,650
+[COFFEY]
+Show us the dive prep area.  We need to check out your gear.
+ສະແດງໃຫ້ພວກເຮົາເຫັນພື້ນທີ່ກະກຽມລອຍນ້
+ໍາ. ພວກເຮົາຕ້ອງກວດເບິ່ງອຸປະກອນຂອງທ່ານ.
+
+125
+00:08:57,150 --> 00:09:01,000
+[LINDSEY]
+Those guys are about a much fun as a tax audit.
+ພວກຄົນນັ້ນມີຄວາມມ່ວນຊື່ນຫຼາຍຄືກັບການກວດສອບພາສີ.
+
+126
+00:09:01,500 --> 00:09:04,650
+[LINDSEY]
+Hippy, you're going to give that rat a disease.
+ຮິບປີ, ເຈົ້າຈະເຮັດໃຫ້ແມວນັ້ນເປັນພະຍາດ.
+
+127
+00:09:05,150 --> 00:09:07,150
+[BUD]
+Well, well.  Mrs. Brigman.
+ດີ, ດີ. ທ່ານນາງບຣິກແມນ.
+
+128
+00:09:07,650 --> 00:09:09,650
+[LINDSEY]
+Not for long.
+ບໍ່ຍາວນານ.
+
+129
+00:09:10,150 --> 00:09:13,300
+[BUD]
+You never did like being called that, did you?
+ເຈົ້າບໍ່ເຄີຍມັກຖືກເອີ້ນວ່າແບບນັ້ນ, ແມ່ນບໍ?
+
+130
+00:09:13,800 --> 00:09:18,350
+[LINDSEY]
+Not even when it meant something.  Is that One Night up in Flatbed?
+ບໍ່ເຖິງແມ່ນວ່າມັນ ຫມາຍ ຄວາມວ່າບາງສິ່ງບາງຢ່າງ
+. ນັ້ນແມ່ນ One Night ໃນ Flatbed ບໍ?
+
+131
+00:09:18,850 --> 00:09:20,850
+[BUD]
+Who else?
+ໃຜອີກຄົນໃດ?
+
+132
+00:09:21,350 --> 00:09:23,350
+[LINSEY]
+Hi, One Night, it's Lindsey.
+ສະບາຍດີ, ຄືນຫນຶ່ງ, ມັນແມ່ນລິນດຊີ.
+
+133
+00:09:23,850 --> 00:09:29,850
+[BUD]
+I can't believe you were dumb enough to come down.  Now you're stuck here for the storm... dumb, hot-rod... dumb.
+ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າໂງ່ພໍທີ່ຈະລົງມາ. ດຽວນີ້ເຈົ້າຕິດຢູ່ບ່ອນນີ້
+ສໍາ ລັບພາຍຸ... ໂງ່, ກະດານຮ້ອນ... ໂຊກຮ້າຍ.
+
+134
+00:09:30,350 --> 00:09:33,150
+[LINDSEY]
+Look, I didn't come down here to fight.
+ເບິ່ງ, ຂ້ອຍບໍ່ໄດ້ລົງມາບ່ອນນີ້ເພື່ອຕໍ່ສູ້.
+
+135
+00:09:33,650 --> 00:09:35,650
+[BUD]
+Then why'd you come down?
+ຫຼັງຈາກນັ້ນເຈົ້າລົງມາເປັນຫຍັງ?
+
+136
+00:09:36,150 --> 00:09:42,150
+[LINDSEY]
+You need me.  Nobody knows the systems on this rig better than I do.  What is something was to go wrong after the Explorer clears off?  What would have you done?
+ເຈົ້າຕ້ອງການຂ້ອຍ. ບໍ່ມີໃຜຮູ້ລະບົບໃນເຄື່ອງຈັກນີ້ດີກວ່າຂ້ອຍ.
+ບາງສິ່ງບາງຢ່າງຈະຜິດພາດຫຍັງຫຼັງຈາກ Explorer ອອກໄປ? ເຈົ້າຈະເຮັດແນວໃດ?
+
+137
+00:09:42,650 --> 00:09:48,650
+[BUD]
+Wow, you're right!  Us poor dumb ol' boys might've had to think for ourselves.  Coulda been a disaster.
+ໂວ້, ເຈົ້າເວົ້າຖືກຕ້ອງ!
+ພວກເຮົາຍັງໂຊກຮ້າຍໂງ່ເກົ່າອາດຈະຕ້ອງຄິດດ້ວຍຕົນເອງ. ມັນອາດຈະເປັນໄພພິບັດ.
+
+138
+00:09:49,150 --> 00:09:51,250
+[BUD]
+You wanna know what I think?
+ເຈົ້າຢາກຮູ້ວ່າຂ້ອຍຄິດແນວໃດ?
+
+139
+00:09:51,750 --> 00:09:54,900
+[LINDSEY]
+Not particularly.  Jeez, look where this is set! Morons.
+ບໍ່ສະເພາະ. ພຣະເຢຊູ, ເບິ່ງບ່ອນທີ່ສິ່ງນີ້ຖືກຕັ້ງໄວ້! ຄົນໂຊກຮ້າຍ.
+
+140
+00:09:55,400 --> 00:09:57,850
+[BUD]
+I think you were worried about me.
+ຂ້ອຍຄິດວ່າເຈົ້າກັງວົນກ່ຽວກັບຂ້ອຍ.
+
+141
+00:09:58,350 --> 00:10:00,350
+[LINDSEY]
+That must be it.
+ນັ້ນຕ້ອງເປັນມັນ.
+
+142
+00:10:00,850 --> 00:10:04,000
+[BUD]
+No, I think you were.  Come on, admit it.
+ບໍ່, ຂ້ອຍຄິດວ່າເຈົ້າເປັນ. ມາແລ້ວ, ຍອມຮັບມັນ.
+
+143
+00:10:04,500 --> 00:10:09,750
+[LINDSEY]
+I was worried about the rig.  I've got over four years invested in this project.
+ຂ້ອຍກັງວົນກ່ຽວກັບເຄື່ອງຈັກ.
+ຂ້ອຍໄດ້ລົງທືນໃນໂຄງການນີ້ຫຼາຍກວ່າສີ່ປີແລ້ວ.
+
+144
+00:10:10,250 --> 00:10:14,100
+[BUD]
+Oh, yeah, right... and you only had three years with me.
+ໂອ້ ແມ່ນແລ້ວ, ແມ່ນແລ້ວ... ແລະເຈົ້າມີພຽງແຕ່ສາມປີກັບຂ້ອຍເທົ່ານັ້ນ.
+
+145
+00:10:14,600 --> 00:10:16,600
+[LINDSEY]
+You've got to have priorities.
+ເຈົ້າຕ້ອງມີບູລິມະສິດ.
+
+146
+00:10:17,100 --> 00:10:23,100
+[BUD]
+My bunk's the only one I can guarantee won't be occupied.  You can grab a couple hours before we get there.
+ຫ້ອງນອນຂອງຂ້ອຍແມ່ນບ່ອນດຽວທີ່ຂ້ອຍສາມາດຮັບປະກັນວ່າຈະບໍ່ຖືກຄອບຄອງ
+. ເຈົ້າສາມາດຈັບໄດ້ສອງສາມຊົ່ວໂມງກ່ອນທີ່ພວກເຮົາຈະມາຮອດບ່ອນນັ້ນ.
+
+147
+00:10:23,600 --> 00:10:26,050
+[LINDSEY]
+What are you still wearing that for?
+ເຈົ້າຍັງໃສ່ສິ່ງນັ້ນເປັນຫຍັງ?
+
+148
+00:10:26,550 --> 00:10:30,400
+[BUD]
+I don't know.  Divorce ain't final.  Forgot to take it off.
+ຂ້ອຍບໍ່ຮູ້. ການແຍກກັນບໍ່ແມ່ນສຸດທ້າຍ. ລືມເອົາມັນອອກ.
+
+149
+00:10:30,900 --> 00:10:33,000
+[LINDSEY]
+I haven't worn mine in months.
+ຂ້ອຍບໍ່ໄດ້ໃສ່ຂອງຂ້ອຍເປັນເວລາຫຼາຍເດືອນແລ້ວ.
+
+150
+00:10:33,500 --> 00:10:35,950
+[BUD]
+Yeah, what's-his-name wouldn't like it.  The Suit.
+ແມ່ນແລ້ວ, ຊື່ລາວບໍ່ມັກມັນ. ຊຸດ.
+
+151
+00:10:36,450 --> 00:10:42,450
+[LINDSEY]
+Do you always have to call him that?  The Suit? It makes you sound like such a hick.  His name is Michael.
+ເຈົ້າຕ້ອງເອີ້ນລາວແບບນັ້ນຢູ່ສະເຫມີບໍ? ຊຸດ?
+ມັນເຮັດໃຫ້ເຈົ້າສຽງຄືກັບຄົນໂຊກຮ້າຍຫຼາຍ. ຊື່ຂອງລາວແມ່ນໄມເກວ.
+
+152
+00:10:42,950 --> 00:10:47,850
+[BUD]
+So what about "Michael" then... Mr. Brooks Brothers... Mr. BMW.  You still seeing him?
+ສະນັ້ນແນວໃດກັບ"ໄມເກວ" ຫຼັງຈາກນັ້ນ... ທ້າວບຣູສສ໌
+ອ້າຍນ້ອງ... ທ່ານບີເບັມວີ. ເຈົ້າຍັງເຫັນລາວບໍ?
+
+153
+00:10:48,350 --> 00:10:51,500
+[LINDSEY]
+No, I haven't seen him in a few weeks.
+ບໍ່, ຂ້ອຍບໍ່ໄດ້ເຫັນລາວເປັນເວລາສອງສາມອາທິດແລ້ວ.
+
+154
+00:10:52,000 --> 00:10:54,000
+[BUD]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+155
+00:10:54,500 --> 00:10:59,400
+[LINDSEY]
+Bud, why are you doing this?  It's not part of you life any more.
+ບາດ, ເຈົ້າເຮັດສິ່ງນີ້ເປັນຫຍັງ? ມັນບໍ່ແມ່ນສ່ວນ
+ຫນຶ່ງ ຂອງຊີວິດຂອງເຈົ້າອີກແລ້ວ.
+
+156
+00:10:59,900 --> 00:11:05,900
+[BUD]
+I'll tell you what happened... you woke up one day and realized the guy never made you laugh.
+ຂ້ອຍຈະບອກເຈົ້າວ່າເກີດຫຍັງຂຶ້ນ...
+ເຈົ້າຕື່ນຂຶ້ນມື້ຫນຶ່ງແລະຮູ້ວ່າຜູ້ຊາຍຄົນນັ້ນບໍ່ເຄີຍເຮັດໃຫ້ເຈົ້າມ່ວນຊື່ນເລີຍ.
+
+157
+00:11:06,400 --> 00:11:12,400
+[LINDSEY]
+You're right, Bud.  It was just that simple. Aren't you clever?  You should get your own show... Ask Dr. Bud, advice to the lovelorn from three hundred fathoms.
+ເຈົ້າເວົ້າຖືກຕ້ອງ, ບາດ. ມັນງ່າຍດາຍຫຼາຍ. ເຈົ້າບໍ່ສະຫຼາດບໍ?
+ເຈົ້າຄວນໄດ້ຮັບລາຍການຂອງທ່ານເອງ... ຖາມດຣ ບາດ, ຄໍາ ແນະ ນໍາ ຕໍ່ຄົນຮັກຈາກສາມຮ້ອຍຟາມັດ.
+
+158
+00:11:12,900 --> 00:11:18,900
+[AAAARRRGGH!]
+She flops down on the bed, sitting... staring at the wall.  Her armor is gone.  She looks small and vulnerable.  A long beat.  She reaches over to the tiny sink.  Amid the clutter is a bottle of Bud's aftershave.  She unscrews it and takes a sniff.  Catches herself.  Tosses it.
+ນາງຕົກລົງເທິງຕຽງ, ນັ່ງ... ເບິ່ງກໍາແພງ. ກະທູ້ຂອງນາງຫາຍໄປແລ້ວ. ນາງເບິ່ງຄືວ່ານ້ອຍແລະອ່ອນແອ. ການຕີຍາວນານ. ນາງຍ່າງໄປຫາຖ້ວມນ້
+ໍາ ນ້ອຍໆ. ໃນລະຫວ່າງຄວາມສັບສົນແມ່ນຈອກນ້ ໍາ ຫຼັງຈາກຕັດຜົມຂອງບາດ. ນາງເປີດມັນແລະກິ່ນຫອມ. ຈັບຕົວເອງ. ຖິ້ມມັນ.
+
+159
+00:11:19,400 --> 00:11:21,400
+[LINDSEY]
+Shit.
+ສະບາຍດີ.
+
+160
+00:11:21,900 --> 00:11:23,900
+[BUD]
+Shit.
+ສະບາຍດີ.
+
+161
+00:11:24,400 --> 00:11:30,400
+[COFFEY]
+This is us.  We're just on the edge of the Cayman Trough.  The Montana is here, on its side, 300 meters away and 70 meters below us.  We think she slid down the wall, and lodged against this outcropping.
+ນີ້ແມ່ນພວກເຮົາ. ພວກເຮົາພຽງແຕ່ຢູ່ແຄມຂອງກະທູ້ໄຄແມນ. ໂມນຕານາຢູ່ບ່ອນນີ້, ຢູ່ຂ້າງຂອງມັນ, ຫ່າງຈາກ
+300 ແມັດແລະ 70 ແມັດລຸ່ມພວກເຮົາ. ພວກເຮົາຍັງຄິດວ່ານາງລອຍລົງກໍາແພງ, ແລະຈອດຢູ່ຕໍ່ຕ້ານການອອກມານີ້.
+
+162
+00:11:30,900 --> 00:11:33,700
+[SONNY]
+This tells us how much radiation we get?
+ນີ້ແມ່ນບອກພວກເຮົາວ່າພວກເຮົາໄດ້ຮັບແສງສະຫວ່າງຫຼາຍປານໃດ?
+
+163
+00:11:34,200 --> 00:11:38,750
+[HIPPY]
+Hey, whoah... I can't handle no radiation, man. Forget it!  Include me out.
+ເຮ້, ໂວ້... ຂ້ອຍບໍ່ສາມາດຮັບມືກັບແສງສະຫວ່າງໃດໆໄດ້
+, ຜູ້ຊາຍ. ລືມມັນ! ລວມຂ້ອຍອອກ.
+
+164
+00:11:39,250 --> 00:11:41,250
+[CATFISH]
+Hippy, you pussy.
+ຮິບປີ້, ເຈົ້າແຊກແຊງ.
+
+165
+00:11:41,750 --> 00:11:45,950
+[HIPPY]
+What good's the money if your dick drops off in six months?
+ເງິນມີປະໂຫຍດຫຍັງຖ້າທ້ອງຂອງທ່ານຕົກລົງໃນຫົກເດືອນ?
+
+166
+00:11:46,450 --> 00:11:52,450
+[COFFEY]
+We'll take reading as we go.  If the reactor's breached or the warheads have released radioactive debris, we'll back away.  Simple.
+ພວກເຮົາຈະເອົາການອ່ານໃນຂະນະທີ່ພວກເຮົາ ກໍາ ລັງໄປ.
+ຖ້າເຄື່ອງປະຕິກິລິຍາຖືກລະເມີດຫຼືຫົວລະເບີດໄດ້ປ່ອຍຂີ້ເຫຍື້ອວິທະຍຸເຄື່ອນໄຫວ, ພວກເຮົາຈະຖອຍໄປ. ງ່າຍດາຍ.
+
+167
+00:11:52,950 --> 00:11:56,450
+[BUD]
+Okay... Hippy's not going... McWhirter, you can run Little Geek.
+ດີແລ້ວ... ຮິບປີຈະບໍ່ໄປ... ແມັກວີເຕີ, ເຈົ້າສາມາດແລ່ນຈິກນ້ອຍໄດ້.
+
+168
+00:11:56,950 --> 00:12:01,850
+[HIPPY]
+No way!  No way!  He can't fly an ROV worth shit.  I'll go.  Shit!
+ບໍ່ເປັນໄປເລີຍ! ບໍ່ເປັນຫຍັງເລີຍ! ລາວບໍ່ສາມາດບິນ
+ROV ທີ່ມີມູນຄ່າສໍ້ໂກງໄດ້. ຂ້ອຍຈະໄປ. ສະບາຍດີ!
+
+169
+00:12:02,350 --> 00:12:08,350
+[COFFEY]
+On the dive, you will do absolutely nothing without direct orders from me, and you will follow my instructions without discussion.  Is this clear?  Alright, I want everyone finished prep and ready to get wet in fifteen minutes.
+ໃນການລອຍນ້ ໍາ, ເຈົ້າຈະບໍ່ເຮັດຫຍັງເລີຍໂດຍບໍ່ມີຄໍາສັ່ງໂດຍກົງຈາກຂ້ອຍ, ແລະເຈົ້າຈະປະຕິບັດຕາມ ຄໍາ ແນະ ນໍາ
+ຂອງຂ້ອຍໂດຍບໍ່ມີການປຶກສາຫາລື. ນີ້ແມ່ນຈະແຈ້ງບໍ? ດີແລ້ວ, ຂ້ອຍຢາກໃຫ້ທຸກຄົນ ສໍາ ເລັດການກະກຽມແລະພ້ອມທີ່ຈະຊຸ່ມຊື່ນໃນເວລາສິບຫ້ານາທີ.
+
+170
+00:12:08,850 --> 00:12:14,850
+[BUD]
+Look, it's three AM.  These guys are running on bad coffee and four hours sleep.  You better start cutting them some slack.
+ເບິ່ງ, ມັນເປັນເວລາສາມເຊົ້າ. ພວກຜູ້ຊາຍເຫຼົ່ານີ້ ກໍາ
+ລັງແລ່ນຢູ່ຄາເຟທີ່ບໍ່ດີແລະນອນສີ່ຊົ່ວໂມງ. ເຈົ້າຄວນເລີ່ມຕົ້ນຕັດພວກມັນບາງສ່ວນ.
+
+171
+00:12:15,350 --> 00:12:17,350
+[COFFEY]
+I can't afford slack, Brigman.
+ຂ້ອຍບໍ່ສາມາດຈ່າຍເງິນໄດ້, ບຣິກແມນ.
+
+172
+00:12:17,850 --> 00:12:23,850
+[BUD]
+Hey, you come on my rig, you don't talk to me, you start ordering my guys around.  It won't work.  You gotta know how to handle these people... we have a certain way of doing things here.
+ເຮ້, ເຈົ້າມາໃສ່ເຄື່ອງຈັກຂອງຂ້ອຍ, ເຈົ້າບໍ່ເວົ້າກັບຂ້ອຍ, ເຈົ້າເລີ່ມສັ່ງໃຫ້ຄົນຂອງຂ້ອຍຢູ່ອ້ອມຂ້າງ
+. ມັນຈະບໍ່ເຮັດວຽກ. ເຈົ້າຕ້ອງຮູ້ວິທີຮັບມືກັບຄົນເຫຼົ່ານີ້... ພວກເຮົາມີວິທີເຮັດສິ່ງຕ່າງໆທີ່ນີ້.
+
+173
+00:12:24,350 --> 00:12:29,950
+[COFFEY]
+I'm not interested in your way of doing things. Just get your team ready to dive.
+ຂ້ອຍບໍ່ສົນໃຈວິທີເຮັດສິ່ງຕ່າງໆຂອງທ່ານ.
+ພຽງແຕ່ເຮັດໃຫ້ທີມງານຂອງທ່ານພ້ອມທີ່ຈະລອຍນ້ ໍາ.
+
+174
+00:12:30,450 --> 00:12:32,900
+[FINLER]
+Hey, you know your hand is blue?
+ເຮ້, ເຈົ້າຮູ້ວ່າມືຂອງເຈົ້າເປັນສີຟ້າບໍ?
+
+175
+00:12:33,400 --> 00:12:35,850
+[BUD]
+Shut up and get your gear on.
+ປິດງຽບແລະໃສ່ເຄື່ອງມືຂອງທ່ານ.
+
+176
+00:12:36,350 --> 00:12:39,850
+[HIPPY]
+I've been meaning to ask you what this thing is.
+ຂ້ອຍຢາກຖາມເຈົ້າວ່າສິ່ງນີ້ເປັນຫຍັງ.
+
+177
+00:12:40,350 --> 00:12:46,300
+[MONK]
+Fluid breathing system.  We just got them.  We use it if we need to go really deep.
+ລະບົບຫາຍໃຈແຫຼວ. ພວກເຮົາຫາກໍ່ໄດ້ຮັບພວກມັນ.
+ພວກເຮົາໃຊ້ມັນຖ້າພວກເຮົາຕ້ອງການໄປເລິກແທ້ໆ.
+
+178
+00:12:46,800 --> 00:12:48,800
+[HIPPY]
+How deep?
+ເລິກຫຼາຍປານໃດ?
+
+179
+00:12:49,300 --> 00:12:55,300
+[MONK]
+Deep.  It's classified... you know.  Anyway, you breathe liquid, so you can't be compressed. Pressure doesn't get to you.
+ເລິກເຊິ່ງ. ມັນຖືກຈັດປະເພດ... ເຈົ້າຮູ້ແລ້ວ. ຢ່າງໃດກໍ່ຕາມ, ເຈົ້າຫາຍໃຈແຫຼວ
+, ສະນັ້ນເຈົ້າບໍ່ສາມາດຖືກຄວບຄຸມໄດ້. ຄວາມກົດດັນບໍ່ຮອດເຈົ້າ.
+
+180
+00:12:55,800 --> 00:12:58,600
+[CATFISH]
+You're saying you get liquid in your lungs?
+ເຈົ້າ ກໍາ ລັງເວົ້າວ່າເຈົ້າໄດ້ຮັບແຫຼວໃນປອດບໍ?
+
+181
+00:12:59,100 --> 00:13:01,100
+[MONK]
+Oxygenated fluorocarbon emulsion.
+ເອັມູລຊັ່ນຟລູໂຣຄາບອນທີ່ມີອົກຊີເຈນ.
+
+182
+00:13:01,600 --> 00:13:03,600
+[HIPPY]
+Hey!
+ເຮ້!
+
+183
+00:13:04,100 --> 00:13:06,100
+[MONK]
+Check this out.
+ເບິ່ງສິ່ງນີ້ແມ.
+
+184
+00:13:06,600 --> 00:13:08,600
+[MONK]
+See?  He's diggin' it.
+ເຈົ້າເຫັນບໍ? ລາວ ກໍາ ລັງຂຸດຄົ້ນມັນ.
+
+185
+00:13:09,100 --> 00:13:13,300
+[CATFISH]
+This is no bullshit hands down the goddamnedest thing I ever saw.
+ນີ້ແມ່ນບໍ່ແມ່ນຄວາມໂຊກແຊງທີ່ຂ້ອຍເຄີຍເຫັນ.
+
+186
+00:13:13,800 --> 00:13:15,900
+[LINDSEY]
+Com-check, everybody.  Flatbed, you on line?
+ກວດສອບການສື່ສານ, ທຸກຄົນ. ຕຽງຟລາດບິດ, ເຈົ້າຢູ່ໃນສາຍບໍ?
+
+187
+00:13:16,400 --> 00:13:18,400
+[LINDSEY]
+Cab Three?
+ລົດແທັກຊີສາມ?
+
+188
+00:13:18,900 --> 00:13:21,000
+[HIPPY]
+Cab Three, check.  Right behind you.
+ລົດແທັກຊີສາມ, ກວດສອບ. ຢູ່ເບື້ອງຫຼັງເຈົ້າ.
+
+189
+00:13:21,500 --> 00:13:23,500
+[LINDSEY]
+What's you depth, Cab Three?
+ຄວາມເລິກຂອງເຈົ້າເທົ່າໃດ, ລົດແທັກຊີສາມ?
+
+190
+00:13:24,000 --> 00:13:26,000
+[HIPPY]
+1840... 50... 60... 70...
+ປີ 1840... 50... 60... 70...
+
+191
+00:13:26,500 --> 00:13:31,400
+[LINDSEY]
+Going over the wall.  Coming to bearing 065. Everybody stay tight and in sight.
+ໄປຜ່ານກໍາແພງ. ມາຮອດການຖື 065. ທຸກຄົນຢູ່ໃກ້ຊິດແລະເບິ່ງເຫັນ.
+
+192
+00:13:31,900 --> 00:13:33,900
+[BUD]
+Okay so far.
+ດີຈົນຮອດປະຈຸບັນ.
+
+193
+00:13:34,400 --> 00:13:36,400
+[JAMMER]
+How deep's the drop-off here?
+ການສົ່ງຢູ່ບ່ອນນີ້ມີຄວາມເລິກຫຼາຍປານໃດ?
+
+194
+00:13:36,900 --> 00:13:41,450
+[CATFISH]
+This here's the bottomless pit, baby.  Two and a half miles straight down.
+ນີ້ແມ່ນຮູທີ່ບໍ່ມີລຸ່ມ, ແມ. ສອງແມລແລະເຄິ່ງໂດຍກົງລົງ.
+
+195
+00:13:41,950 --> 00:13:45,100
+[COFFEY]
+Knock off the chatter.  Cab One, you getting anything?
+ຢຸດການສົນທະນາ. ລົດແທັກຊີຫນຶ່ງ, ເຈົ້າໄດ້ຮັບຫຍັງບໍ?
+
+196
+00:13:45,600 --> 00:13:48,050
+[COFFEY]
+Cab One, do you see it yet?
+ລົດແທັກຊີຫນຶ່ງ, ເຈົ້າເຫັນມັນແລ້ວບໍ?
+
+197
+00:13:48,550 --> 00:13:54,550
+[LINDSEY]
+The magnetometer is pegged.  Side-scan is showing a big return, but I don't see anything yet.  Are you sure you got the depth right on this?
+ເຄື່ອງວັດທາດແມ່ເຫຼັກຖືກຕິດຕໍ່ກັນ. ການສະແກນຂ້າງ ກໍາ ລັງສະແດງຜົນຕອບແທນທີ່ໃຫຍ່
+, ແຕ່ຂ້ອຍຍັງບໍ່ເຫັນຫຍັງເລີຍ. ເຈົ້າແນ່ໃຈວ່າເຈົ້າມີຄວາມເລິກໃນເລື່ອງນີ້ບໍ?
+
+198
+00:13:55,050 --> 00:13:57,500
+[LINDSEY]
+Uh, yeah, roger that... uh, found it.
+ໂອ້, ແມ່ນແລ້ວ, ໂຣຈເກີວ່າ... ໂອ້ຍ, ພົບມັນ.
+
+199
+00:13:58,000 --> 00:14:00,000
+[COFFEY]
+Cab One, radiation readings?
+ລົດແທັກຊີຫນຶ່ງ, ການອ່ານແສງສະຫວ່າງບໍ?
+
+200
+00:14:00,500 --> 00:14:02,600
+[LINDSEY]
+Neutron counter's not showing very much.
+ເຄື່ອງນັບນິວຕຣອນບໍ່ໄດ້ສະແດງຫຼາຍ.
+
+201
+00:14:03,100 --> 00:14:05,100
+[COFFEY]
+Wilhite, anything?
+ວີລໄຮຕ໌, ມີຫຍັງບໍ?
+
+202
+00:14:05,600 --> 00:14:07,600
+[WILHITE]
+Negative.  Nominal.
+ບໍ່ເປັນຫຍັງ. ຊື່.
+
+203
+00:14:08,100 --> 00:14:10,200
+[COFFEY]
+Just continue forward along the hull.
+ພຽງແຕ່ສືບຕໍ່ໄປຂ້າງຫນ້າຕາມກະເປົາ.
+
+204
+00:14:10,700 --> 00:14:15,600
+[LINDSEY]
+Copy that, continuing forward.  You just want me to get shots of everything, right?
+ເຂົ້າໃຈແລ້ວ, ສືບຕໍ່ຕໍ່ໄປ.
+ເຈົ້າພຽງແຕ່ຢາກໃຫ້ຂ້ອຍຖ່າຍຮູບທຸກຢ່າງ, ແມ່ນບໍ?
+
+205
+00:14:16,100 --> 00:14:21,350
+[COFFEY]
+Roger, document as much as you can, but keep moving.  We're on a tight timeline.
+ໂຣເຈີ, ເອກະສານຫຼາຍເທົ່າທີ່ທ່ານສາມາດເຮັດໄດ້,
+ແຕ່ສືບຕໍ່ເຄື່ອນຍ້າຍ. ພວກເຮົາຢູ່ໃນເສັ້ນເວລາທີ່ແຫນ້ນແຟ້ນ.
+
+206
+00:14:21,850 --> 00:14:23,850
+[LINDSEY]
+Copy that.
+ເຂົ້າໃຈແລ້ວ.
+
+207
+00:14:24,350 --> 00:14:27,500
+[COFFEY]
+That's the midship hatch.  You see it, Cab Three?
+ຄຸເຂົ່າລົງ
+
+208
+00:14:28,000 --> 00:14:30,000
+[HIPPY]
+Roger, I see it.
+ໂຣເຈີ, ຂ້ອຍເຫັນມັນ.
+
+209
+00:14:30,500 --> 00:14:34,000
+[BUD]
+Just get around so your lights are on the hatch.
+ຄຸເຂົ່າລົງ
+
+210
+00:14:34,500 --> 00:14:37,650
+[HIPPY]
+Check.  Then I just hang with these guys, right?
+ກວດສອບ. ຫຼັງຈາກນັ້ນຂ້ອຍພຽງແຕ່ຢູ່ກັບຄົນເຫຼົ່ານີ້, ແມ່ນບໍ?
+
+211
+00:14:38,150 --> 00:14:40,150
+[COFFEY]
+Right.
+ແມ່ນແລ້ວ.
+
+212
+00:14:40,650 --> 00:14:43,100
+[COFFEY]
+Just hold above it.  Alright, A team.
+ພຽງແຕ່ຖືຢູ່ເທິງມັນ. ດີແລ້ວ, ທີມງານ.
+
+213
+00:14:43,600 --> 00:14:45,600
+[MONK]
+Stand by on the ROV.
+ກຽມພ້ອມຢູ່ເທິງ ROV.
+
+214
+00:14:46,100 --> 00:14:52,100
+[HIPPY]
+Perry, stand by on the ROV.  Sorry about this, little buddy.  Better you than me, know what I mean?
+ເປຣີ, ຕຽມພ້ອມໃນ ROV. ຂໍໂທດກ່ຽວກັບເລື່ອງນີ້, ເພື່ອນນ້ອຍ
+. ດີກວ່າເຈົ້າກ່ວາຂ້ອຍ, ເຈົ້າຮູ້ຂ້ອຍຫມາຍຄວາມວ່າແນວໃດ?
+
+215
+00:14:52,600 --> 00:14:55,050
+[MONK]
+It's flooded.  Alright, I'm opening her up.
+ມັນຖືກນໍ້າຖ້ວມ. ດີແລ້ວ, ຂ້ອຍ ກໍາ ລັງເປີດນາງ.
+
+216
+00:14:55,550 --> 00:14:58,700
+[COFFEY]
+Radiation is nominal.  The warheads must still be intact.
+ແສງສະຫວ່າງແມ່ນຊື່ສຽງ. ຫົວລະເບີດຕ້ອງຍັງບໍ່ເສຍຫາຍ.
+
+217
+00:14:59,200 --> 00:15:01,200
+[LINDSEY]
+How many are there?
+ມີຫຼາຍປານໃດ?
+
+218
+00:15:01,700 --> 00:15:04,150
+[COFFEY]
+24 Trident missiles.  Eight MIRVs per missile.
+ລູກສອນໄຟ Trident 24. ແປດ MIRV ຕໍ່ລູກສອນໄຟ.
+
+219
+00:15:04,650 --> 00:15:07,450
+[LINDSEY]
+That's 192 warheads... And how powerful are they?
+ນັ້ນແມ່ນຫົວລະເບີດ 192 ຫົວ... ແລະພວກມັນມີພະລັງຫຼາຍປານໃດ?
+
+220
+00:15:07,950 --> 00:15:12,850
+[SCHOENICK]
+Your MIRV is a tactical nuke, 50 kilotons nominal yield.  Say times time Hiroshima.
+MIRV ຂອງທ່ານແມ່ນລະເບີດນິວເຄລຍແບບກະຕຸ້ນ,
+ຜົນຜະລິດຊື່ສຽງ 50 ກິໂລໂຕນ. ເວົ້າວ່າເວລາ Hiroshima.
+
+221
+00:15:13,350 --> 00:15:16,850
+[LINDSEY]
+Jesus Christ... this is World War Three in a can.
+ພຣະເຢຊູຄຣິດ... ນີ້ແມ່ນສົງຄາມໂລກທີສາມໃນຖັງ.
+
+222
+00:15:17,350 --> 00:15:19,450
+[COFFEY]
+Let's knock off the chatter, please.
+ພວກເຮົາຢຸດການສົນທະນາ, ກະລຸນາ.
+
+223
+00:15:19,950 --> 00:15:21,950
+[MONK]
+Getting a reading?
+ການອ່ານບໍ?
+
+224
+00:15:22,450 --> 00:15:26,300
+[HIPPY]
+It's twitching but it's below the line you said was safe.
+ມັນສັ່ນສະເທືອນແຕ່ມັນຢູ່ພາຍໃຕ້ເສັ້ນທີ່ທ່ານເວົ້າວ່າປອດໄພ.
+
+225
+00:15:26,800 --> 00:15:28,800
+[MONK]
+Alright.  Let's get in there.
+ດີແລ້ວ. ມາເຂົ້າໄປບ່ອນນັ້ນ.
+
+226
+00:15:29,300 --> 00:15:31,750
+[COFFEY]
+We'll go in through that large breach.
+ພວກເຮົາຈະເຂົ້າໄປໃນຜ່ານຮ່ອງຮອຍທີ່ໃຫຍ່ນັ້ນ.
+
+227
+00:15:32,250 --> 00:15:34,250
+[BUD]
+Let's go, guys.
+ໄປ, ພວກຜູ້ຊາຍ.
+
+228
+00:15:34,750 --> 00:15:40,750
+[BUD]
+Take it slow, stay on the line, and stay in sight.  Watch for hatches that could close on you, or any loose equipment that could fall.
+ເອົາມັນຊ້າໆ, ຢູ່ເທິງສາຍ, ແລະຢູ່ຕາມສາຍຕາ.
+ເບິ່ງແຍງສໍາລັບຮູທີ່ສາມາດປິດໃນເຈົ້າ, ຫຼືອຸປະກອນທີ່ວ່າງທີ່ສາມາດຕົກລົງໄດ້.
+
+229
+00:15:41,250 --> 00:15:43,350
+[COFFEY]
+It's jammed.  Give me a hand.
+ມັນຕິດຢູ່. ໃຫ້ຂ້ອຍມື.
+
+230
+00:15:43,850 --> 00:15:48,050
+[COFFEY]
+Alright, let's keep moving.  We knew we were going to see this.
+ດີແລ້ວ, ໄປຕໍ່ໄປ. ພວກເຮົາຮູ້ວ່າພວກເຮົາຈະເຫັນສິ່ງນີ້.
+
+231
+00:15:48,550 --> 00:15:50,550
+[BUD]
+How you guys doing?
+ພວກເຈົ້າເປັນແນວໃດ?
+
+232
+00:15:51,050 --> 00:15:53,050
+[SONNY]
+I'm alright, I'm dealing.
+ຂ້ອຍບໍ່ເປັນຫຍັງ, ຂ້ອຍ ກໍາ ລັງຈັດການ.
+
+233
+00:15:53,550 --> 00:15:57,750
+[CATFISH]
+Triple time sounds like a lotta money, Bud.  It ain't.  I'm sorry...
+ເວລາສາມຄັ້ງເບິ່ງຄືວ່າເປັນເງິນຫຼາຍ, ບາດ. ມັນບໍ່ແມ່ນ. ຂ້ອຍຂໍໂທດ...
+
+234
+00:15:58,250 --> 00:16:00,700
+[BUD]
+We're here now.  Let's get her done.
+ພວກເຮົາຢູ່ບ່ອນນີ້ດຽວນີ້. ມາເຮັດນາງໃຫ້ສໍາເລັດ.
+
+235
+00:16:01,200 --> 00:16:07,200
+[COFFEY]
+This part I do alone.  Brigman, take you men and continue aft.  Split up into two teams of two. Let's get moving... we head back in fourteen minutes.
+ສ່ວນນີ້ຂ້ອຍເຮັດຄົນດຽວ. ບຣິກແມນ, ເອົາເຈົ້າຜູ້ຊາຍແລະສືບຕໍ່ຢູ່ເບື້ອງຫຼັງ.
+ແບ່ງອອກເປັນສອງທີມງານສອງຄົນ. ໄປເຄື່ອນຍ້າຍ... ພວກເຮົາກັບຄືນໄປບ່ອນໃນສິບສີ່ນາທີ.
+
+236
+00:16:07,700 --> 00:16:13,700
+[BUD]
+Okay, Cat, Lew, Sonny.  You guys stay on this deck.  Hook you line onto mine.  Any problem, you tug my line.  Two pulls.  Jammer, you're with me.
+ຄຸເຂົ່າລົງ
+
+237
+00:16:14,200 --> 00:16:16,200
+[JAMMER]
+Where are we?
+ພວກເຮົາຢູ່ໃສ?
+
+238
+00:16:16,700 --> 00:16:19,150
+[BUD]
+Missile compartment.  Those are the launch tubes.
+ຫ້ອງລູກສອນໄຟ. ນັ້ນແມ່ນທໍ່ການປ່ອຍ.
+
+239
+00:16:19,650 --> 00:16:21,650
+[JAMMER]
+Lord Almighty.
+ພຣະເຈົ້າຜູ້ມີອໍານາດສູງສຸດ.
+
+240
+00:16:22,150 --> 00:16:24,150
+[BUD]
+Hey, you okay?
+ເຮ້, ເຈົ້າດີບໍ?
+
+241
+00:16:24,650 --> 00:16:28,500
+[BUD]
+Deep and slow, big guy.  Deep and slow.  Just breathe easy.
+ເລິກແລະຊ້າໆ, ຜູ້ຊາຍໃຫຍ່. ເລິກເຊິ່ງ
+ແລະ ຊ້າໆ. ພຽງແຕ່ຫາຍໃຈຢ່າງງ່າຍດາຍ.
+
+242
+00:16:29,000 --> 00:16:34,250
+[JAMMER]
+I... they're all dead, Bud.  They're all dead. I thought... some of them... you know...
+ຂ້ອຍ... ພວກເຂົາທຸກຄົນຕາຍແລ້ວ, ບາດ. ພວກເຂົາທັງ ຫມົດ
+ຕາຍແລ້ວ. ຂ້ອຍຄິດວ່າ... ບາງຄົນ... ເຈົ້າຮູ້ແລ້ວ...
+
+243
+00:16:34,750 --> 00:16:36,750
+[BUD]
+I'm taking you back out.
+ຂ້ອຍຈະພາເຈົ້າກັບຄືນໄປບ່ອນ.
+
+244
+00:16:37,250 --> 00:16:41,800
+[JAMMER]
+No!  I'm okay now.  I just don't... I can't go any further in.
+ບໍ່! ຂ້ອຍບໍ່ເປັນຫຍັງດຽວນີ້. ຂ້ອຍພຽງແຕ່ບໍ່
+... ຂ້ອຍບໍ່ສາມາດເຂົ້າໄປອີກຕໍ່ໄປໄດ້.
+
+245
+00:16:42,300 --> 00:16:48,300
+[BUD]
+Okay, Jammer.  No problem.  You stay right here. I have to go there to the end... you'll see my lights.  We'll stay in voice contact.  Just hold onto the rope.  Five more minutes.  Okay?
+ດີແລ້ວ, ຈາມເມີ. ບໍ່ເປັນຫຍັງ. ເຈົ້າຢູ່ບ່ອນນີ້. ຂ້ອຍຕ້ອງໄປບ່ອນນັ້ນຈົນເຖິງຕອນທ້າຍ...
+ເຈົ້າຈະເຫັນແສງສະຫວ່າງຂອງຂ້ອຍ. ພວກເຮົາຈະຢູ່ໃນການຕິດຕໍ່ສຽງ. ພຽງແຕ່ຖືສາຍແອວ. ອີກຫ້ານາທີ. ດີບໍ?
+
+246
+00:16:48,800 --> 00:16:50,800
+[JAMMER]
+Yeah, okay.  Okay.
+ແມ່ນແລ້ວ, ດີ. ດີ.
+
+247
+00:16:51,300 --> 00:16:53,400
+[JAMMER]
+Bud?  BUD?!  You readin' me?  BUD?!!
+ບູດ? ບູດ?! ເຈົ້າອ່ານຂ້ອຍບໍ? ບຸດ?!!
+
+248
+00:16:53,900 --> 00:16:55,900
+[JAMMER]
+Bud?  Is that you?
+ບາດ? ນັ້ນແມ່ນເຈົ້າບໍ?
+
+249
+00:16:56,400 --> 00:16:58,400
+[BUD]
+Jammer?  Answer me, buddy,  JAMMER?!
+ຈາມເມີ? ຕອບຂ້ອຍ, ເພື່ອນ, ຈາມເມີ?!
+
+250
+00:16:58,900 --> 00:17:01,000
+[BUD]
+Hang on, big guy.  Hand on!
+ລໍຖ້າ, ຜູ້ໃຫຍ່. ມື!
+
+251
+00:17:01,500 --> 00:17:03,500
+[BUD]
+He's convulsing!
+ລາວກໍາລັງສັ່ນສະເທືອນ!
+
+252
+00:17:04,000 --> 00:17:06,100
+[CATFISH]
+It's his mixture!  Too much oxygen!
+ມັນເປັນປະສົມປະສານຂອງລາວ! ອົກຊີເຈນຫຼາຍເກີນໄປ!
+
+253
+00:17:06,600 --> 00:17:09,400
+[FINLER]
+Crank it down, man!  We're gonna losing him...
+ປັບມັນລົງ, ຜູ້ຊາຍ! ພວກເຮົາຈະສູນເສຍລາວ...
+
+254
+00:17:09,900 --> 00:17:11,900
+[BUD]
+SHIT, it's stuck... goddamnit!
+ໂຊກຮ້າຍ, ມັນຕິດຢູ່... ສະບາຍດີ!
+
+255
+00:17:12,400 --> 00:17:14,500
+[SONNY]
+You got it?!  You got it?
+ເຈົ້າເຂົ້າໃຈແລ້ວບໍ? ເຈົ້າເຂົ້າໃຈບໍ?
+
+256
+00:17:15,000 --> 00:17:17,000
+[BUD]
+Yeah, yeah... yeah.  It's turning.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ... ແມ່ນແລ້ວ. ມັນຫັນໄປ.
+
+257
+00:17:17,500 --> 00:17:21,700
+[BUD]
+We gotta get him out of here.  Come on!  Hang on, buddy.
+ພວກເຮົາຕ້ອງເອົາລາວອອກຈາກບ່ອນນີ້. ມາ! ລໍຖ້າ, ເພື່ອນ.
+
+258
+00:17:22,200 --> 00:17:28,150
+[BUD]
+CAB ONE!  CAB ONE!  Meet me at Flatbed!  This is a diver emergency!!  Do you copy?  Lindsey?!
+ຄາບຫນຶ່ງ! ຄາກັບຫນຶ່ງ! ພົບຂ້ອຍຢູ່ Flatbed!
+ນີ້ແມ່ນຄວາມສຸກເສີນຂອງນັກລອຍນ້ ໍາ!! ເຈົ້າໄດ້ຍິນບໍ? ລິນດຊີ?!
+
+259
+00:17:28,650 --> 00:17:30,750
+[LINDSEY]
+Copy you, Bud.  On my way.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ, ບາດ. ຂ້ອຍ ກໍາ ລັງເດີນທາງໄປ.
+
+260
+00:17:31,250 --> 00:17:33,250
+[BUD]
+Whattya think?
+ເຈົ້າຄິດແນວໃດ?
+
+261
+00:17:33,750 --> 00:17:39,750
+[MONK]
+I'm a medic, which is mostly about patching holes.  This type of thing... there's not much I can do.  The coma could last hours or days.
+ຂ້ອຍເປັນແພດແພດ, ເຊິ່ງສ່ວນໃຫຍ່ແມ່ນກ່ຽວກັບການສ້ອມແປງຮູ. ສິ່ງປະເພດນີ້...
+ບໍ່ມີຫຼາຍຢ່າງທີ່ຂ້ອຍສາມາດເຮັດໄດ້. ໂກມາສາມາດໃຊ້ເວລາຫຼາຍຊົ່ວໂມງຫຼືຫຼາຍມື້.
+
+262
+00:17:40,250 --> 00:17:44,800
+[COFFEY]
+Negative.  But there was definitely a Russian bogey.  The Brigman woman saw it.
+ບໍ່ເປັນຫຍັງ. ແຕ່ມີໂບຈີຣັດເຊຍຢ່າງແນ່ນອນ. ແມ່ຍິງບຣິກແມນເຫັນມັນ.
+
+263
+00:17:45,300 --> 00:17:51,300
+[DEMARCO]
+CINCLANTFLT's gonna go apeshit.  Two Russian attack subs, a Tango and Victor, have been tracked within fifty miles of here... and now we don't know what the hell they are.  Okay, I don't have any choice.  I'm confirming you to go to Phase Two.
+CINCLANTFLT ຈະໄປ apeshit ໄດ້. ສອງເຮືອລໍາໂຈມຕີຣັດເຊຍ, Tango ແລະ Victor ໄດ້ຕິດຕາມພາຍໃນຫ້າສິບແມລຈາກບ່ອນນີ້...
+ແລະດຽວນີ້ພວກເຮົາບໍ່ຮູ້ວ່າພວກເຂົາເປັນຫຍັງ. ດີ, ຂ້ອຍບໍ່ມີທາງເລືອກໃດໆ. ຂ້ອຍ ກໍາ ລັງຢືນຢັນວ່າທ່ານຈະໄປໄລຍະສອງ.
+
+264
+00:17:51,800 --> 00:17:53,800
+[DEMARCO]
+Is there any problem?
+ມີບັນຫາຫຍັງບໍ?
+
+265
+00:17:54,300 --> 00:17:56,400
+[COFFEY]
+Yes... I mean no.  Negative, sir.
+ແມ່ນແລ້ວ... ຂ້ອຍຫມາຍຄວາມວ່າບໍ່. ບໍ່ເປັນຫຍັງເດີເດີ.
+
+266
+00:17:56,900 --> 00:18:00,400
+[BUD]
+Did you get anything on the cameras.  Video or anything?
+ເຈົ້າໄດ້ເຫັນຫຍັງໃນກ້ອງຖ່າຍຮູບບໍ. ວິດີໂອຫຼືຫຍັງ?
+
+267
+00:18:00,900 --> 00:18:04,750
+[LINDSEY]
+No.  Look, forget it.  I don't want to talk about it.
+ບໍ່. ເບິ່ງ, ລືມມັນ. ຂ້ອຍບໍ່ຢາກເວົ້າກ່ຽວກັບມັນ.
+
+268
+00:18:05,250 --> 00:18:07,250
+[BUD]
+Fine.  Be that way.
+ດີ. ເປັນທາງນັ້ນ.
+
+269
+00:18:07,750 --> 00:18:13,750
+[LINDSEY]
+I don't know what I saw.  Okay?  Coffey wants to call it a Russian submersible, fine.  It's a Russian submersible.  No problem.
+ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍເຫັນຫຍັງ. ດີບໍ? ຄັອບເຟຍຢາກເອີ້ນມັນວ່າເຮືອລອຍນໍ້າຣັດເຊຍ
+, ດີ. ມັນແມ່ນເຮືອບົນລອຍນໍ້າຣຸດເຊຍ. ບໍ່ມີບັນຫາ.
+
+270
+00:18:14,250 --> 00:18:17,750
+[BUD]
+But you think it's something else.  What?  One of ours?
+ແຕ່ເຈົ້າຄິດວ່າມັນເປັນບາງສິ່ງບາງຢ່າງອື່ນ
+. ຫຍັງ? ຫນຶ່ງໃນຂອງພວກເຮົາບໍ?
+
+271
+00:18:18,250 --> 00:18:20,250
+[LINDSEY]
+No.
+ບໍ່
+
+272
+00:18:20,750 --> 00:18:22,850
+[BUD]
+Whose then?  Lindsey?  Talk to me...
+ຫຼັງຈາກນັ້ນໃຜ? ລິນດຊີ? ເວົ້າກັບຂ້ອຍ...
+
+273
+00:18:23,350 --> 00:18:27,550
+[LINDSEY]
+Jammer saw something in there, something that scared the hell out him--
+ຈາມເມີເຫັນບາງສິ່ງບາງຢ່າງຢູ່ບ່ອນນັ້ນ,
+ບາງສິ່ງບາງ ຢ່າງທີ່ເຮັດໃຫ້ລາວຢ້ານກົວຫຼາຍ -
+
+274
+00:18:28,050 --> 00:18:31,900
+[BUD]
+His mixture got screwed up.  He panicked and pranged his regulator.
+ການປະສົມປະສານຂອງລາວຈົບແນ່. ລາວຢ້ານກົວແລະໂຈມຕີຜູ້ຄວບຄຸມຂອງລາວ.
+
+275
+00:18:32,400 --> 00:18:35,550
+[LINDSEY]
+But what did he see that made him panic?
+ແຕ່ລາວເຫັນຫຍັງທີ່ເຮັດໃຫ້ລາວຢ້ານກົວ?
+
+276
+00:18:36,050 --> 00:18:38,150
+[BUD]
+What do you think he saw?
+ເຈົ້າຄິດວ່າລາວເຫັນຫຍັງ?
+
+277
+00:18:38,650 --> 00:18:40,750
+[LINDSEY]
+I don't know.  I DON'T KNOW!
+ຂ້ອຍບໍ່ຮູ້ວ່າ. ຂ້ອຍບໍ່ຮູ້!
+
+278
+00:18:41,250 --> 00:18:45,100
+[HIPPY]
+Hey, you guys... hurry up, check this out! They're announcing it.
+ເຮ້, ພວກເຈົ້າ... ໄວຂຶ້ນ, ເບິ່ງສິ່ງນີ້! ພວກເຂົາ ກໍາ ລັງປະກາດມັນ.
+
+279
+00:18:45,600 --> 00:18:47,600
+[CATFISH]
+Quiet!  Quiet!
+ງຽບໆ! ງຽບ!
+
+280
+00:18:48,100 --> 00:18:50,100
+[HIPPY]
+Turn it up, bozo.
+ປັບມັນຂຶ້ນ, ໂບໂຊ.
+
+281
+00:18:50,600 --> 00:18:56,600
+[ANCHORMAN]
+... the Kremlin continues to deny Russian involvement in the sinking of the Trident sub USS Montana.  The Navy has not released the names of the 156 crewmembers, who are all presumed dead at this time.  Civilian employees of a Benthic Petroleum offshore drilling rig--
+... ຄຣເມລິນສືບຕໍ່ປະຕິເສດການມີສ່ວນຮ່ວມຂອງຣັດເຊຍໃນການຈົມເຮືອລໍາລານ Trident USS Montana. ກອງທັບເຮືອບໍ່ໄດ້ເປີດເຜີຍຊື່ຂອງສະມາຊິກທີມງານ
+156 ຄົນ, ຜູ້ທີ່ທຸກຄົນຖືກຄາດວ່າຕາຍໃນເວລານີ້. ພະນັກງານພົນລະເຮືອນຂອງເຄື່ອງເຈາະນ້ ໍາ ມັນແບນຕິກຢູ່ທະເລ -
+
+282
+00:18:57,100 --> 00:18:59,100
+[HIPPY]
+Hey that's us!
+ເຮ້ ນັ້ນແມ່ນພວກເຮົາ!
+
+283
+00:18:59,600 --> 00:19:05,600
+[ANCHORMAN]
+--are apparently participating in the recovery operation but we have little information about their involvement.  On the scene now is--
+- ເບິ່ງຄືວ່າ ກໍາ ລັງເຂົ້າຮ່ວມໃນການປະຕິບັດງານຟື້ນຟູແຕ່ພວກເຮົາມີຂໍ້ມູນ
+ຫນ້ອຍ ກ່ຽວກັບການມີສ່ວນຮ່ວມຂອງພວກເຂົາ. ຢູ່ບ່ອນເກີດເຫດດຽວນີ້ແມ່ນ -
+
+284
+00:19:06,100 --> 00:19:08,100
+[FINLER]
+BOOOOH!  We want names!
+BOOOOH! ພວກເຮົາຢາກມີຊື່!
+
+285
+00:19:08,600 --> 00:19:10,600
+[SONNY]
+Hey, hey!  There's the Explorer.
+ເຮ້, ເຮ້! ນັ້ນແມ່ນນັກຄົ້ນຄວ້າ.
+
+286
+00:19:11,100 --> 00:19:17,100
+[TYLER]
+--there is a tremendous amount of activity. With Cuba only 80 miles away, the massive buildup of US ships and aircraft in the area has drawn official protest from Havana and Moscow and has led to a redirection of Soviet warships into the Caribbean theater.
+- ມີການເຄື່ອນໄຫວຫຼາຍຢ່າງ. ດ້ວຍກູບາຢູ່ຫ່າງໄກພຽງແຕ່ 80 ໄມລ໌, ການສ້າງຕັ້ງເຮືອແລະເຮືອບິນຂອງສະຫະລັດຢ່າງຫຼວງຫຼາຍໃນເຂດດັ່ງກ່າວໄດ້ດຶງດູດການປະທ້ວງຢ່າງເປັນທາງການຈາກ
+Havana ແລະ ມົສກູແລະໄດ້ນໍາໄປສູ່ການປ່ຽນເສັ້ນທາງຂອງເຮືອສົງຄາມໂຊວຽດເຂົ້າໄປໃນໂຮງລະຄອນ Caribbean ໄດ້.
+
+287
+00:19:17,600 --> 00:19:20,050
+[ANCHORMAN]
+How would you describe the mood there?
+ເຈົ້າຈະອະທິບາຍສະພາບອາກາດຢູ່ບ່ອນນັ້ນແນວໃດ?
+
+288
+00:19:20,550 --> 00:19:26,550
+[TYLER]
+The mood is one of suspicion, even confrontation. A number of Russian and Cuban trawlers, undoubtedly surveillance vessels, have been circling within a few miles throughout the day, and Soviet aircraft have repeatedly been warned away from the area...
+ສະພາບແວດລ້ອມແມ່ນ ຫນຶ່ງ ໃນຄວາມສົງໄສ, ເຖິງແມ່ນວ່າການປະເຊີນຫນ້າກັນ. ເຮືອຂັບຂີ່ຣັດເຊຍແລະກູບາ ຈໍາ ນວນ ຫນຶ່ງ,
+ໂດຍບໍ່ຕ້ອງສົງໄສວ່າເຮືອຕິດຕາມກວດກາ, ໄດ້ວົງຈອນພາຍໃນສອງສາມແມລຕະຫຼອດມື້, ແລະເຮືອບິນໂຊວຽດໄດ້ຖືກເຕືອນໃຫ້ຫ່າງຈາກພື້ນທີ່ຫຼາຍຄັ້ງ...
+
+289
+00:19:27,050 --> 00:19:29,050
+[HIPPY]
+This sucks.
+ນີ້ແມ່ນໂຊກຮ້າຍ.
+
+290
+00:19:29,550 --> 00:19:31,550
+[BUD]
+What's the matter with you?
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+291
+00:19:32,050 --> 00:19:38,050
+[HIPPY]
+Now we're right in the middle of this big-time international incident.  Like the Cuban Missile Crisis or something.
+ດຽວນີ້ພວກເຮົາຢູ່ໃນກາງເຫດການສາກົນທີ່ໃຫຍ່ຫຼວງນີ້
+. ເຊັ່ນວິກິດການລູກສອນໄຟກູບາຫຼືບາງສິ່ງບາງຢ່າງ.
+
+292
+00:19:38,550 --> 00:19:41,000
+[LINDSEY]
+Figured that out for yourself, did you?
+ເຈົ້າຄິດມັນເອງ, ແມ່ນບໍ?
+
+293
+00:19:41,500 --> 00:19:47,500
+[HIPPY]
+We got Russian subs creeping around.  Shit! Something goes wrong they could say anything happened down here, man.  Give our folks medals, know what I mean?
+ພວກເຮົາມີເຮືອລໍາເຮືອຣັດເຊຍ ກໍາ ລັງຍ່າງຢູ່ທົ່ວໄປ. ສະບາຍດີ! ບາງສິ່ງບາງຢ່າງຜິດພາດພວກເຂົາສາມາດເວົ້າວ່າຫຍັງກໍ່ເກີດຂຶ້ນຢູ່ບ່ອນນີ້
+, ຜູ້ຊາຍ. ໃຫ້ຫຼຽນຂອງພໍ່ແມ່ຂອງພວກເຮົາ, ເຈົ້າຮູ້ວ່າຂ້ອຍຫມາຍຄວາມວ່າແນວໃດ?
+
+294
+00:19:48,000 --> 00:19:50,800
+[BUD]
+Hippy, just relax.  You're making the women nervous.
+ຮິບປີ, ພຽງແຕ່ຜ່ອນຄາຍ. ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ແມ່ຍິງກັງວົນ.
+
+295
+00:19:51,300 --> 00:19:53,300
+[LINDSEY]
+Cute, Virgil.
+ງາມ, ວີຈິລ.
+
+296
+00:19:53,800 --> 00:19:58,350
+[HIPPY]
+No, I mean it.  Those SEALs aren't telling us diddly.  Something's going on.
+ບໍ່, ຂ້ອຍເວົ້າແທ້ໆ. ພວກ SEAL ນັ້ນບໍ່ໄດ້ບອກພວກເຮົາເລີຍ
+. ບາງສິ່ງບາງຢ່າງ ກໍາ ລັງເກີດຂຶ້ນ.
+
+297
+00:19:58,850 --> 00:20:00,950
+[BUD]
+Hippy, you think everything's a conspiracy.
+ຮິບປີ້, ເຈົ້າຄິດວ່າທຸກຢ່າງແມ່ນການສົມຮູ້ຮ່ວມຄິດ.
+
+298
+00:20:01,450 --> 00:20:03,450
+[HIPPY]
+Everything is.
+ທຸກຢ່າງແມ່ນ.
+
+299
+00:20:03,950 --> 00:20:07,100
+[BUD]
+Goddamnit!  D'you tell him we need it right now?
+ເຈົ້າບອກລາວວ່າພວກເຮົາຕ້ອງການມັນທັນທີບໍ?
+
+300
+00:20:07,600 --> 00:20:09,600
+[BUD]
+Unbelievable.
+ບໍ່ເຊື່ອໄດ້.
+
+301
+00:20:10,100 --> 00:20:15,350
+[MCBRIDE]
+We're trying to get unhooked and get out of here... and your boys go sightseeing!
+ພວກເຮົາ ກໍາ ລັງພະຍາຍາມປ່ອຍການເຊື່ອມຕໍ່ແລະອອກຈາກບ່ອນນີ້
+... ແລະຜູ້ຊາຍຂອງທ່ານໄປທ່ຽວຊົມ!
+
+302
+00:20:15,850 --> 00:20:17,950
+[DEMARCO]
+They'll be back in two hours.
+ພວກເຂົາຈະກັບມາໃນສອງຊົ່ວໂມງ.
+
+303
+00:20:18,450 --> 00:20:24,450
+[MCBRIDE]
+Two hours?!  We're gonna be getting the shit kicked out of us by our friend Fred in two hours!
+ສອງຊົ່ວໂມງ?!
+ພວກເຮົາຈະຖືກແຟຣດເພື່ອນຂອງພວກເຮົາໄລ່ອອກຈາກພວກເຮົາໃນສອງຊົ່ວໂມງ!
+
+304
+00:20:24,950 --> 00:20:30,950
+[NEWS ANCHOR]
+Little is known at this hour about the events leading up to the collision.  The US Navy guided missile  cruiser Appleton apparently struck the Soviet 'Udaloy' class destroyer in low visibility conditions...
+ຮູ້ ຫນ້ອຍ ໃນຊົ່ວໂມງນີ້ກ່ຽວກັບເຫດການທີ່ ນໍາ ໄປສູ່ການຕໍາກັນ. ເຮືອຂົນສົ່ງລູກສອນໄຟທີ່ ນໍາ
+ພາຂອງກອງທັບເຮືອສະຫະລັດ Appleton ເບິ່ງຄືວ່າໄດ້ຕີເຮືອທໍາລາຍຊັ້ນໂຊວຽດ'Udaloy ໃນສະພາບຄວາມເຫັນຕໍ່າ...
+
+305
+00:20:31,450 --> 00:20:37,450
+[NEWS ANCHOR]
+In violent seas little hope remains for over a hundred Russian crewmen still missing after the sinking an hour ago.
+ໃນທະເລທີ່ຮຸນແຮງຄວາມຫວັງ ຫນ້ອຍໆຍັງເຫຼືອໄວ້ ສໍາ
+ລັບລູກເຮືອຣັດເຊຍຫຼາຍກວ່າສິບຄົນທີ່ຍັງຫາຍສາບສູນຫຼັງຈາກການຈົມນ້ ໍາ ຫນຶ່ງ ຊົ່ວໂມງກ່ອນ.
+
+306
+00:20:37,950 --> 00:20:43,200
+[NEWS ANCHOR]
+Soviet military spokesmen have claimed that the collision constituted an unprovoked attack. This was denied--
+ໂຄສົກທະຫານໂຊວຽດໄດ້ອ້າງວ່າການຕໍາກັນແມ່ນເປັນການໂຈມຕີທີ່ບໍ່ຖືກກະຕຸ້ນ
+. ນີ້ແມ່ນຖືກປະຕິເສດ -
+
+307
+00:20:43,700 --> 00:20:45,700
+[LINDSEY]
+Bud, this is big time.
+ບາດ, ນີ້ແມ່ນເວລາທີ່ສໍາຄັນ.
+
+308
+00:20:46,200 --> 00:20:52,200
+[NEWSCASTER]
+... just learned that Soviet negotiators have walked out of the strategic arms limitation summit in protest over the incident this morning.
+...
+ພຽງແຕ່ໄດ້ຮູ້ວ່າຜູ້ເຈລະຈາໂຊວຽດໄດ້ອອກຈາກກອງປະຊຸມສຸດຍອດການຈໍາກັດອາວຸດທາງຍຸດທະສາດເພື່ອປະທ້ວງຕໍ່ເຫດການໃນຕອນເຊົ້ານີ້.
+
+309
+00:20:52,700 --> 00:20:58,700
+[ANOTHER NEWSCASTER]
+... US and NATO military forces have been put on full alert worldwide this morning in the wake of...
+ກໍາລັງທະຫານສະຫະລັດແລະ NATO
+ໄດ້ຖືກວາງຢູ່ໃນຄວາມຕື່ນເຕັ້ນຢ່າງເຕັມທີ່ທົ່ວໂລກໃນຕອນເຊົ້ານີ້ຫຼັງຈາກ...
+
+310
+00:20:59,200 --> 00:21:01,200
+[BUD]
+It's on every channel.
+ມັນຢູ່ໃນທຸກຊ່ອງທາງ.
+
+311
+00:21:01,700 --> 00:21:07,700
+[YOUNG WOMAN]
+You just feel so hopeless.  You can see it coming, but what can you do?  What can anyone do?
+ເຈົ້າພຽງແຕ່ຮູ້ສຶກບໍ່ມີຄວາມຫວັງຫຼາຍ. ເຈົ້າເຫັນວ່າມັນຈະມາເຖິງ
+, ແຕ່ເຈົ້າສາມາດເຮັດຫຍັງໄດ້? ໃຜສາມາດເຮັດແນວໃດໄດ້?
+
+312
+00:21:08,200 --> 00:21:14,200
+[CONSTRUCTION WORKER]
+Hey, they don't want war any more than we do. You think about it, you say... hey, they love their kids too.  So why are we doing this?
+ເຮ້, ພວກເຂົາບໍ່ຢາກສົງຄາມຫຼາຍກ່ວາພວກເຮົາ. ເຈົ້າຄິດກ່ຽວກັບມັນ, ເຈົ້າເວົ້າວ່າ.
+.. ເຮ້ ພວກເຂົາຍັງຮັກລູກຂອງພວກເຂົາເຊັ່ນກັນ. ສະນັ້ນພວກເຮົາເຮັດສິ່ງນີ້ເປັນຫຍັງ?
+
+313
+00:21:14,700 --> 00:21:20,700
+[WOMAN]
+If the Russians sank that submarine, they deserve what they got and a lot more, if you ask me, and you did.  I think we've been pussyfooting around with them long enough.
+ຖ້າຊາວຣັດເຊຍໄດ້ຖິ້ມເຮືອລໍານັ້ນ, ພວກເຂົາສົມຄວນສິ່ງທີ່ພວກເຂົາໄດ້ຮັບແລະຫຼາຍກວ່ານັ້ນ,
+ຖ້າເຈົ້າຖາມຂ້ອຍ, ແລະເຈົ້າເຮັດ. ຂ້ອຍຄິດວ່າພວກເຮົາ ກໍາ ລັງຍ່າງກັບພວກເຂົາດົນພໍສົມຄວນ.
+
+314
+00:21:21,200 --> 00:21:27,200
+[MAN]
+Scared?  I'm scared ____-less.  But if it happens it happens, nothing I can do about it.  Right? So why think about it?
+ຢ້ານກົວບໍ? ຂ້ອຍຢ້ານ ____ ຫນ້ອຍ. ແຕ່ຖ້າມັນເກີດຂຶ້ນມັນເກີດຂື້ນ,
+ບໍ່ມີຫຍັງຂ້ອຍສາມາດເຮັດໄດ້ກ່ຽວກັບມັນ. ແມ່ນບໍ? ສະນັ້ນເປັນຫຍັງຄິດກ່ຽວກັບມັນ?
+
+315
+00:21:27,700 --> 00:21:30,150
+[COFFEY]
+Don't touch that.  Just step away.  Now!
+ຢ່າຈັບສິ່ງນັ້ນ. ພຽງແຕ່ຍ່າງໄປ. ດຽວນີ້!
+
+316
+00:21:30,650 --> 00:21:32,650
+[HIPPY]
+Excusez moi.
+ຂໍໂທດຂ້ອຍ.
+
+317
+00:21:33,150 --> 00:21:35,600
+[BUD]
+Coffey, we're a little pressed for time.
+ຄັອບເຟີ, ພວກເຮົາມີຄວາມກົດດັນເວລາ ຫນ້ອຍ ຫນຶ່ງ.
+
+318
+00:21:36,100 --> 00:21:38,100
+[COFFEY]
+Monk, Schoenick... secure the package.
+ໂມນກ໌, ໂຊນິກ... ປ້ອງກັນຊຸດ.
+
+319
+00:21:38,600 --> 00:21:41,400
+[BUD]
+This ain't no drill, slick.  Make me proud.
+ນີ້ແມ່ນບໍ່ແມ່ນການຝຶກຊ້ອມ, ສະລັອກ. ເຮັດໃຫ້ຂ້ອຍພາກພູມໃຈ.
+
+320
+00:21:41,900 --> 00:21:44,350
+[BENDIX]
+We're losing number two thruster.  Bearing's going.
+ພວກເຮົາ ກໍາ ລັງສູນເສຍເຄື່ອງຊຸກຍູ້ອັນດັບສອງ. ການຖື ກໍາ ລັງໄປ.
+
+321
+00:21:44,850 --> 00:21:47,650
+[BENDIX]
+It's not holding.  We're swinging out of position!
+ມັນບໍ່ຍຶດໄດ້. ພວກເຮົາ ກໍາ ລັງຫັນອອກຈາກ ຕໍາ ແຫນ່ງ!
+
+322
+00:21:48,150 --> 00:21:51,300
+[BUD]
+Topside, topside... pay out some slack, we're getting dragged!
+ທາງເທິງ, ທາງເທິງ... ຈ່າຍຜ່ອນຜັນບາງຢ່າງ, ພວກເຮົາ ກໍາ ລັງຖືກດຶງ!
+
+323
+00:21:51,800 --> 00:21:54,250
+[LINDSEY]
+We're heading right for the drop off!
+ພວກເຮົາ ກໍາ ລັງໄປທາງກົງໄປບ່ອນສົ່ງ!
+
+324
+00:21:54,750 --> 00:21:56,750
+[MCBRIDE]
+Bud!  We've lost the crane!
+ບາດ! ພວກເຮົາໄດ້ສູນເສຍຄຣານແລ້ວ!
+
+325
+00:21:57,250 --> 00:21:59,250
+[BUD]
+What?  Say again.
+ຫຍັງ? ເວົ້າອີກເທື່ອຫນຶ່ງ.
+
+326
+00:21:59,750 --> 00:22:02,200
+[LINDSEY]
+Got it!  It's dropping straight to us.
+ມັນໄດ້ແລ້ວ! ມັນ ກໍາ ລັງຕົກລົງໂດຍກົງມາຫາພວກເຮົາ.
+
+327
+00:22:02,700 --> 00:22:06,550
+[BUD]
+Rig for impact!  Seal all exterior hatches. Move it!  Let's go!
+ກະກຽມ ສໍາ ລັບການກະທົບ! ປິດປະຕູພາຍນອກທັງ ຫມົດ. ຍ້າຍມັນ! ໄປ!
+
+328
+00:22:07,050 --> 00:22:09,050
+[LINDSEY]
+Oh shit.
+ໂອ້ ສະບາຍດີ.
+
+329
+00:22:09,550 --> 00:22:12,000
+[LINDSEY]
+Hey!  Get on this hose, you turkeys!
+ເຮ້! ເອົາທໍ່ນີ້ຂຶ້ນ, ພວກເຈົ້າຄຸເຂົ່າລົງ!
+
+330
+00:22:12,500 --> 00:22:14,500
+[LINDSEY]
+No! Hold it on me!
+ບໍ່! ຢືນຢັນຂ້ອຍ!
+
+331
+00:22:15,000 --> 00:22:17,000
+[BUD]
+Heeyy!!  HHHEEEYYY!!
+ເຮີ້!! ເຮີ້ຍ!!
+
+332
+00:22:17,500 --> 00:22:21,350
+[SONNY]
+Benthic Explorer, Benthic Explorer.  Do you read, over?  This is Deepcore--
+ນັກຄົ້ນຄວ້າແບນຕິກ, ນັກຄົ້ນຫາແບັນຕິກ.
+ເຈົ້າອ່ານບໍ, ຫມົດແລ້ວ? ນີ້ແມ່ນ Deepcore -
+
+333
+00:22:21,850 --> 00:22:23,850
+[BUD]
+Forget it, Sonny.  They're gone.
+ລືມມັນແຊນນີ. ພວກເຂົາໄປແລ້ວ.
+
+334
+00:22:24,350 --> 00:22:26,350
+[BUD]
+Did you find Wilhite?
+ເຈົ້າພົບວີລໄຕບໍ?
+
+335
+00:22:26,850 --> 00:22:28,850
+[COFFEY]
+No.
+ບໍ່
+
+336
+00:22:29,350 --> 00:22:32,500
+[COFFEY]
+Brigman.  I was under orders.  I had no choice.
+ບຣິກແມນ. ຂ້ອຍຢູ່ພາຍໃຕ້ຄໍາສັ່ງ. ຂ້ອຍບໍ່ມີທາງເລືອກ.
+
+337
+00:22:33,000 --> 00:22:35,000
+[BUD]
+What's the scoop, ace?
+ກະທູ້ແມ່ນຫຍັງ, ເອສ?
+
+338
+00:22:35,500 --> 00:22:41,500
+[LINDSEY]
+I can get power to this module and sub-bay if I remote these busses.  I've gotta get past the mains, which are a total melt-down.
+ຂ້ອຍສາມາດເອົາພະລັງງານໃຫ້ໂມດູນນີ້ແລະ sub-bay ຖ້າຂ້ອຍຫ່າງໄກສອກຫຼີກລົດເມເຫຼົ່ານີ້
+. ຂ້ອຍຕ້ອງຜ່ານສາຍໄຟຟ້າ, ເຊິ່ງເປັນການລະລາຍຢ່າງສົມບູນ.
+
+339
+00:22:42,000 --> 00:22:44,000
+[BUD]
+Need some help?
+ເຈົ້າຕ້ອງການຄວາມຊ່ວຍເຫຼືອບໍ?
+
+340
+00:22:44,500 --> 00:22:50,500
+[LINDSEY]
+Thanks.  No, I can handle it.  Bud... there won't be enough to run the heaters.  In a couple hours this place is going to be as cold as a meat locker.
+ຂອບໃຈ. ບໍ່, ຂ້ອຍສາມາດຮັບມືກັບມັນໄດ້. ບາດ... ຈະບໍ່ມີພຽງພໍທີ່ຈະ ດໍາ
+ເນີນເຄື່ອງເຮັດຄວາມຮ້ອນ. ໃນສອງສາມຊົ່ວໂມງບ່ອນນີ້ຈະເຢັນຄືກັບກະຕູ້ຊີ້ນ.
+
+341
+00:22:51,000 --> 00:22:53,000
+[BUD]
+What about O-2?
+ແລະ O-2 ແນວໃດ?
+
+342
+00:22:53,500 --> 00:22:59,450
+[LINDSEY]
+Brace yourself.  We've got about 12 hours worth if we close off the sections we're not using.
+ກຽມຕົວເອງ. ພວກເຮົາມີມູນຄ່າປະມານ 12
+ຊົ່ວໂມງຖ້າພວກເຮົາປິດພາກສ່ວນທີ່ພວກເຮົາບໍ່ໄດ້ໃຊ້.
+
+343
+00:22:59,950 --> 00:23:02,750
+[BUD]
+The storm's gonna last longer than 12 hours.
+ພາຍຸຈະຍາວນານກວ່າ 12 ຊົ່ວໂມງ.
+
+344
+00:23:03,250 --> 00:23:09,250
+[LINDSEY]
+I can extend that.  There's some storage tanks outboard on the wrecked module.  I'll have to go outside to tie onto them.
+ຂ້ອຍສາມາດຂະຫຍາຍມັນໄດ້. ມີຖັງເກັບມ້ຽນບາງຢ່າງຢູ່ພາຍນອກໃນໂມດູນທີ່ຖືກທໍາລາຍ
+. ຂ້ອຍຕ້ອງອອກໄປພາຍໃນເພື່ອເຊື່ອມຕໍ່ກັບພວກມັນ.
+
+345
+00:23:09,750 --> 00:23:11,850
+[BUD]
+Hey, Lins...  I'm glad your here.
+ເຮ້, ລິນສ໌... ຂ້ອຍດີໃຈທີ່ເຈົ້າຢູ່ບ່ອນນີ້.
+
+346
+00:23:12,350 --> 00:23:14,350
+[LINDSEY]
+Yeah?  Well I'm not.
+ແມ່ນແລ້ວ? ດີຂ້ອຍບໍ່ແມ່ນ.
+
+347
+00:23:14,850 --> 00:23:16,850
+[BUD]
+Where're you?
+ເຈົ້າຢູ່ໃສ?
+
+348
+00:23:17,350 --> 00:23:19,350
+[HIPPY]
+Quarters.  Level two.
+ສີ່ແສນ. ລະດັບສອງ.
+
+349
+00:23:19,850 --> 00:23:21,850
+[HIPPY]
+That's Perry.
+ນັ້ນແມ່ນເປຣີ.
+
+350
+00:23:22,350 --> 00:23:25,500
+[BUD]
+That's it then.  Finler, McWhirter, Dietz, and Perry.  Jesus.
+ນັ້ນແມ່ນມັນແລ້ວ. ຟິນເລີ, ແມັກວິເຕີ, ໄດຕສ໌, ແລະເປຣີ. ພຣະເຢຊູ.
+
+351
+00:23:26,000 --> 00:23:28,100
+[HIPPY]
+Do we just leave him there?
+ພວກເຮົາຈະປ່ອຍລາວຢູ່ບ່ອນນັ້ນບໍ?
+
+352
+00:23:28,600 --> 00:23:32,450
+[BUD]
+Yeah, for now.  Our first priority's to get something to breathe.
+ແມ່ນແລ້ວ, ໃນເວລານີ້. ຈຸດປະສົງ ທໍາ
+ອິດຂອງພວກເຮົາແມ່ນເພື່ອໃຫ້ມີບາງສິ່ງບາງຢ່າງທີ່ຈະຫາຍໃຈ.
+
+353
+00:23:32,950 --> 00:23:38,950
+[LINDSEY]
+Cat, you tie onto this manifold.  There's some tanks on the other side; I'm gonna go check them out.
+ແມວ, ເຈົ້າຕິດຕໍ່ກັບເຄື່ອງຈັກນີ້.
+ມີຖັງບາງຢ່າງຢູ່ທາງອື່ນ; ຂ້ອຍຈະໄປກວດເບິ່ງພວກມັນ.
+
+354
+00:23:39,450 --> 00:23:41,450
+[CATFISH]
+You watch yourself.
+ເຈົ້າລະວັງຕົວເອງ.
+
+355
+00:23:41,950 --> 00:23:47,950
+[BUD]
+There we were, side by side, on the same ship, for two months.  I'm tool-pusher and we're testing this automated derrick of hers.  So, we get back on the beach and... we're living together.
+ພວກເຮົາຢູ່ບ່ອນນັ້ນ, ຄຽງຂ້າງກັນ, ໃນເຮືອດຽວກັນ, ເປັນເວລາສອງເດືອນ. ຂ້ອຍເປັນຜູ້ຊຸກຍູ້ເຄື່ອງມືແລະພວກເຮົາ ກໍາ
+ລັງທົດສອບ derrick ອັດຕະໂນມັດຂອງນາງນີ້. ສະນັ້ນ, ພວກເຮົາກັບຄືນໄປຫາດຊາຍແລະ... ພວກເຮົາ ກໍາ ລັງຢູ່ຮ່ວມກັນ.
+
+356
+00:23:48,450 --> 00:23:54,450
+[BUD]
+We were due to go back out on the same ship. Six months of tests.  If you were married you got a state-room.  Otherwise it was bunks.
+ຄຸເຂົ່າລົງ
+
+357
+00:23:54,950 --> 00:24:00,950
+[BUD]
+It was alright for a while, you know.  But then she got promoted to project engineer on this thing, couple years ago.
+ມັນບໍ່ເປັນຫຍັງເປັນເວລາດົນນານ, ເຈົ້າຮູ້ແລ້ວ.
+ແຕ່ຫຼັງຈາກນັ້ນນາງໄດ້ຮັບການສົ່ງເສີມເປັນວິສະວະກອນໂຄງການໃນສິ່ງນີ້, ສອງສາມປີກ່ອນ.
+
+358
+00:24:01,450 --> 00:24:04,950
+[BUD]
+Well, you know Lindsey, too damn aggressive-- Son of a--!!
+ດີ, ເຈົ້າຮູ້ຈັກລິນດຊີ, ໂຊກຮ້າຍເກີນໄປ - ລູກຊາຍຂອງ -!!
+
+359
+00:24:05,450 --> 00:24:08,600
+[BUD]
+She didn't leave me... she just left me behind.
+ນາງບໍ່ໄດ້ອອກຈາກຂ້ອຍ... ນາງພຽງແຕ່ປ່ອຍຂ້ອຍຢູ່ເບື້ອງຫຼັງ.
+
+360
+00:24:09,100 --> 00:24:11,200
+[HIPPY]
+Hey, Lindsey, you reading me?  Over.
+ເຮ້, ລິນດຊີ, ເຈົ້າອ່ານຂ້ອຍບໍ? ຫມົດແລ້ວ.
+
+361
+00:24:11,700 --> 00:24:14,500
+[LINDSEY]
+Yeah, Hippy, I read you.  What's the matter?
+ແມ່ນແລ້ວ, ຮິບປີ, ຂ້ອຍອ່ານເຈົ້າ. ມີຫຍັງເກີດຂຶ້ນ?
+
+362
+00:24:15,000 --> 00:24:17,000
+[BUD]
+Lins, how're you doing?  Lindsey?
+ລິນສ໌, ເຈົ້າເປັນແນວໃດ? ລິນດຊີ?
+
+363
+00:24:17,500 --> 00:24:20,650
+[LINDSEY]
+Catfish... I got a problem here.  You there? Catfish?
+ຂ້ອຍມີບັນຫາຢູ່ບ່ອນນີ້. ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ? ປາແຄຕສ໌?
+
+364
+00:24:21,150 --> 00:24:23,600
+[LINDSEY]
+You better not say you missed that.
+ເຈົ້າບໍ່ຄວນເວົ້າວ່າເຈົ້າພາດນັ້ນ.
+
+365
+00:24:24,100 --> 00:24:26,100
+[CATFISH]
+Missed what?
+ຂາດຫຍັງ?
+
+366
+00:24:26,600 --> 00:24:28,600
+[BUD]
+Nice shot, Lins.
+ການຍິງທີ່ດີເລີດ, ລິນສ໌.
+
+367
+00:24:29,100 --> 00:24:31,900
+[SONNY]
+What is that?  You drop your dive light?
+ນັ້ນແມ່ນຫຍັງ? ເຈົ້າປ່ອຍແສງນ້ ໍາ ຂອງທ່ານລົງບໍ?
+
+368
+00:24:32,400 --> 00:24:38,400
+[LINDSEY]
+Come on, you guys... look, this is the little one right here.  You can see how it's kind of zigging around.
+ມາແລ້ວ, ພວກເຈົ້າ... ເບິ່ງ, ນີ້ແມ່ນຄົນນ້ອຍຢູ່ບ່ອນນີ້
+. ເຈົ້າສາມາດເຫັນວ່າມັນສັ່ນສະເທືອນຢູ່ທົ່ວໄປແນວໃດ.
+
+369
+00:24:38,900 --> 00:24:41,700
+[BUD]
+If you say so.  It could be anything.
+ຖ້າເຈົ້າເວົ້າດັ່ງນັ້ນ. ມັນອາດຈະເປັນທຸກຢ່າງ.
+
+370
+00:24:42,200 --> 00:24:48,200
+[LINDSEY]
+I'm telling you what is there.  You're just not hearing.  The impulses somehow aren't getting from you ears to your brainpan.  There's something down there.  Something not... us.
+ຂ້ອຍ ກໍາ ລັງບອກເຈົ້າວ່າມີຫຍັງຢູ່ບ່ອນນັ້ນ. ເຈົ້າພຽງແຕ່ບໍ່ໄດ້ຍິນ.
+ຄວາມກະຕຸ້ນບໍ່ເຂົ້າຈາກຫູຂອງທ່ານໄປສູ່ກະດານສະຫມອງຂອງທ່ານຢ່າງໃດກໍ່ຕາມ. ມີບາງສິ່ງບາງຢ່າງຢູ່ລຸ່ມນັ້ນ. ບາງຢ່າງບໍ່ແມ່ນ... ພວກເຮົາ.
+
+371
+00:24:48,700 --> 00:24:50,700
+[CATFISH]
+Y'all could be more specific.
+ພວກເຈົ້າສາມາດແນ່ນອນກວ່າເກົ່າໄດ້.
+
+372
+00:24:51,200 --> 00:24:55,050
+[LINDSEY]
+Not us.  Not human.  Get it?  Something non- human, but intelligent...
+ບໍ່ແມ່ນພວກເຮົາ. ບໍ່ແມ່ນມະນຸດ. ເຂົ້າໃຈບໍ?
+ບາງສິ່ງບາງຢ່າງທີ່ບໍ່ແມ່ນມະນຸດ, ແຕ່ສະຫຼາດ...
+
+373
+00:24:55,550 --> 00:24:57,550
+[HIPPY]
+You mean like Coffey?
+ເຈົ້າຫມາຍຄວາມວ່າຄືກັບໂກຟີບໍ?
+
+374
+00:24:58,050 --> 00:25:00,050
+[LINDSEY]
+A non-terrestrial intelligence.
+ຄວາມສະຫຼາດທີ່ບໍ່ແມ່ນໂລກ.
+
+375
+00:25:00,550 --> 00:25:06,500
+[HIPPY]
+Non-Terrestrial Intelligence.  NTIs.  Yeah, I like that better then UFOs.  Although that works too... Underwater Flying Objects.
+ຄວາມສະຫຼາດທີ່ບໍ່ແມ່ນໂລກ. NTI. ແມ່ນແລ້ວ, ຂ້ອຍມັກມັນດີກວ່າ
+UFO. ເຖິງແມ່ນວ່າມັນເຮັດວຽກເຊັ່ນກັນ... ວັດຖຸບິນພາຍໃຕ້ນ້ ໍາ.
+
+376
+00:25:07,000 --> 00:25:09,450
+[CATFISH]
+Are we talkin' little space friend here?
+ພວກເຮົາ ກໍາ ລັງເວົ້າກ່ຽວກັບເພື່ອນອະວະກາດນ້ອຍຢູ່ບ່ອນນີ້ບໍ?
+
+377
+00:25:09,950 --> 00:25:15,950
+[HIPPY]
+Right on!  Hot rods of the Gods.  Right, Lins? Hey, no really!  It could be NTIs.  The CIA has known about them for years.  They abduct people all the time.  There was this woman I knew in Albuquerque who--
+ແມ່ນແລ້ວ! ກະດານຮ້ອນຂອງພະເຈົ້າ. ແມ່ນແລ້ວ, ລິນສ໌? ເຮ້, ບໍ່ແທ້ໆ! ມັນອາດຈະເປັນ NTI ໄດ້. CIA
+ໄດ້ຮູ້ກ່ຽວກັບພວກເຂົາເປັນເວລາຫຼາຍປີແລ້ວ. ພວກເຂົາລັກພາຕົວຄົນຕະຫຼອດເວລາ. ມີແມ່ຍິງຄົນ ຫນຶ່ງ ທີ່ຂ້ອຍຮູ້ຈັກໃນອາລບູເກີເກີທີ່ -
+
+378
+00:25:16,450 --> 00:25:19,600
+[LINDSEY]
+Hippy, do me a favor... stay off my side.
+ຮິບປີ, ເຮັດຂ້ອຍຄວາມສະບາຍໃຈ... ຢູ່ຫ່າງຈາກຂ້າງຂອງຂ້ອຍ.
+
+379
+00:25:20,100 --> 00:25:23,600
+[BUD]
+Lindsey, will you step into my office for a minute...
+ລິນດຊີ, ເຈົ້າຈະເຂົ້າຫ້ອງການຂອງຂ້ອຍເປັນເວລາ ຫນຶ່ງ ນາທີບໍ...
+
+380
+00:25:24,100 --> 00:25:26,100
+[BUD]
+Jesus, Lindsey--
+ພຣະເຢຊູ, ລິນດຊີ...
+
+381
+00:25:26,600 --> 00:25:29,050
+[LINDSEY]
+Bud, something really important is happening here.
+ບາດ, ບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນແທ້ໆ ກໍາ ລັງເກີດຂຶ້ນຢູ່ນີ້.
+
+382
+00:25:29,550 --> 00:25:35,550
+[BUD]
+Look.  I'm just trying to hold this situation together.  I can't allow you to cause this kind of hysteria--
+ເບິ່ງ. ຂ້ອຍພຽງແຕ່ພະຍາຍາມຮັກສາສະຖານະການນີ້ໄວ້ພ້ອມກັນ.
+ຂ້ອຍບໍ່ສາມາດອະນຸຍາດໃຫ້ເຈົ້າເຮັດໃຫ້ຄວາມໂຊກຮ້າຍແບບນີ້ -
+
+383
+00:25:36,050 --> 00:25:38,050
+[LINDSEY]
+Who's hysterical?  Nobody's hysterical!
+ໃຜເປັນຄົນໂຊກຮ້າຍ? ບໍ່ມີໃຜເປັນຄົນທີ່ໂຊຄຮ້າຍ!
+
+384
+00:25:38,550 --> 00:25:44,550
+[BUD]
+All I'm saying is when you're hanging on by your fingernails, you don't go waving you arms around.
+ຄຸເຂົ່າລົງ
+
+385
+00:25:45,050 --> 00:25:51,050
+[LINDSEY]
+I saw something!  I'm not going to go back there and say I didn't see it when I did.  I'm sorry.
+ຂ້ອຍເຫັນບາງສິ່ງບາງຢ່າງ!
+ຂ້ອຍຈະບໍ່ກັບຄືນໄປບ່ອນນັ້ນແລະເວົ້າວ່າຂ້ອຍບໍ່ໄດ້ເຫັນມັນເມື່ອຂ້ອຍເຮັດ. ຂ້ອຍຂໍໂທດ.
+
+386
+00:25:51,550 --> 00:25:55,050
+[BUD]
+God, you are the most stubborn woman I ever knew.
+ພຣະເຈົ້າ, ເຈົ້າເປັນແມ່ຍິງທີ່ແຂງແຮງທີ່ສຸດທີ່ຂ້ອຍເຄີຍຮູ້ຈັກ.
+
+387
+00:25:55,550 --> 00:26:01,550
+[LINDSEY]
+I need you to believe me, Bud.  Look at me.  Do I seem stressed out?  Any of the symptoms of pressure sickness, any tremors, slurred speech?
+ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າເຊື່ອຂ້ອຍ, ບາດ. ເບິ່ງຂ້ອຍແມ. ຂ້ອຍເບິ່ງຄືວ່າມີຄວາມເຄັ່ງຕຶງບໍ
+? ອາການໃດໆຂອງພະຍາດຄວາມກົດດັນ, ຄວາມສັ່ນສະເທືອນໃດໆ, ການເວົ້າທີ່ສັບສົນບໍ?
+
+388
+00:26:02,050 --> 00:26:04,050
+[BUD]
+No.
+ບໍ່
+
+389
+00:26:04,550 --> 00:26:10,550
+[LINDSEY]
+Bud, this is me, Lindsey.  Okay?  You know me better than anybody in the world.  Now watch my lips... I saw these things.  I touched one of them.  And it wasn't some clunky steel can like we would build... it glided.  It was the most beautiful thing I've ever seen.
+ບາດ, ນີ້ແມ່ນຂ້ອຍ, ລິນດຊີ. ດີບໍ? ເຈົ້າຮູ້ຈັກຂ້ອຍດີກວ່າໃຜໃນໂລກ. ດຽວນີ້ເບິ່ງປາກຂອງຂ້ອຍ... ຂ້ອຍເຫັນສິ່ງເຫຼົ່ານີ້. ຂ້ອຍຈັບສິ່ງ
+ຫນຶ່ງ ໃນນັ້ນ. ແລະມັນບໍ່ແມ່ນຖັງເຫຼັກທີ່ໂຊກຮ້າຍບາງຢ່າງທີ່ພວກເຮົາຈະສ້າງ... ມັນລອຍ. ມັນແມ່ນສິ່ງທີ່ສວຍງາມທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນ.
+
+390
+00:26:11,050 --> 00:26:17,050
+[LINDSEY]
+It was a machine, but it seems almost alive. Like a... dance of light.  Bud, you have to trust me... please.  I don't think they mean us harm.  I don't know how I know that, it's just a feeling.
+ມັນເປັນເຄື່ອງຈັກ, ແຕ່ມັນເບິ່ງຄືວ່າເກືອບມີຊີວິດຢູ່. ຄືກັບ... ການເຕັ້ນແສງສະຫວ່າງ. ບາດ, ເຈົ້າຕ້ອງເຊື່ອຂ້ອຍ... ກະລຸນາ.
+ຂ້ອຍບໍ່ຄິດວ່າພວກເຂົາ ຫມາຍ ຄວາມວ່າຈະເຮັດໃຫ້ພວກເຮົາເສຍຫາຍ. ຂ້ອຍບໍ່ໄດ້ຮູ້ວ່າຂ້ອຍຮູ້ສິ່ງນັ້ນແນວໃດ, ມັນແມ່ນພຽງແຕ່ຄວາມຮູ້ສຶກເທົ່ານັ້ນ.
+
+391
+00:26:17,550 --> 00:26:23,150
+[BUD]
+How can I go on a feeling?  You think Coffey's going to go on you 'feeling'?
+ຂ້ອຍສາມາດສືບຕໍ່ຄວາມຮູ້ສຶກໄດ້ແນວໃດ?
+ເຈົ້າຄິດວ່າໂກຟີຈະສືບຕໍ່ເຈົ້າ'ຮູ້ສຶກ'?
+
+392
+00:26:23,650 --> 00:26:29,650
+[LINDSEY]
+We all see what we want to see... Coffey looks and he sees Russians, he sees hate and fear. Bud, you have to look with better eyes than that.
+ພວກເຮົາທຸກຄົນເຫັນສິ່ງທີ່ພວກເຮົາຢາກເຫັນ... ໂກເຟຍເບິ່ງແລະລາວເຫັນຊາວຣັດເຊຍ,
+ລາວເຫັນຄວາມກຽດຊັງແລະຄວາມຢ້ານກົວ. ບາດ, ເຈົ້າຕ້ອງເບິ່ງດ້ວຍຕາທີ່ດີກວ່ານັ້ນ.
+
+393
+00:26:30,150 --> 00:26:32,950
+[BUD]
+I can't, Lindsey.  I'm sorry.  How can I?
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້, ລິນດຊີ. ຂ້ອຍຂໍໂທດ. ຂ້ອຍເຮັດໄດ້ແນວໃດ?
+
+394
+00:26:33,450 --> 00:26:39,450
+[COFFEY]
+I want 'round-the-clock manning of the sonar shack and the exterior cameras.  We need early warning if the Soviet craft try another incursion.
+ຄຸເຂົ່າລົງ
+
+395
+00:26:39,950 --> 00:26:45,950
+[LINDSEY]
+Gimme a break!  Coffey, these things live three and a half miles down on the bottom of an abyssal trench!  Trust me... they're not speaking Russian.
+ໃຫ້ຂ້ອຍພັກຜ່ອນ! ຄາເຟີ, ສິ່ງເຫຼົ່ານີ້ອາໄສຢູ່ລຸ່ມສາມແມລແລະເຄິ່ງໃນລຸ່ມຂອງຮ່ອງຮອຍທີ່ຍິ່ງໃຫຍ່
+! ເຊື່ອຂ້ອຍ... ພວກເຂົາບໍ່ໄດ້ເວົ້າພາສາຣັດເຊຍ.
+
+396
+00:26:46,450 --> 00:26:49,950
+[COFFEY]
+Why haven't you finished repairs on the hydrophone transmitter yet?
+ເປັນຫຍັງເຈົ້າຍັງບໍ່ສິ້ນສຸດການສ້ອມແປງເຄື່ອງສົ່ງໄຮໂດຟອນເທື່ອ?
+
+397
+00:26:50,450 --> 00:26:53,600
+[COFFEY]
+Get something straight.  You people are under my authority--
+ເຂົ້າໃຈບາງສິ່ງບາງຢ່າງຢ່າງຢ່າງ. ເຈົ້າຢູ່ພາຍໃຕ້ອໍານາດຂອງຂ້ອຍ -
+
+398
+00:26:54,100 --> 00:27:00,100
+[CATFISH]
+Look, podner... we don't work for you, we don't take orders from you, and we don't much like you. In addition to which your momma dresses you funny.
+ເບິ່ງ, ໂປດເນີ... ພວກເຮົາບໍ່ໄດ້ເຮັດວຽກ ສໍາ ລັບເຈົ້າ, ພວກເຮົາບໍ່ຮັບຄໍາສັ່ງຈາກເຈົ້າ
+, ແລະພວກເຮົາບໍ່ມັກເຈົ້າຫຼາຍ. ນອກຈາກນັ້ນແມ່ຂອງທ່ານໃສ່ເຄື່ອງນຸ່ງຫົ່ມເຈົ້າມ່ວນຊື່ນ.
+
+399
+00:27:00,600 --> 00:27:02,600
+[BUD]
+'Fish'?
+ປາບໍ?
+
+400
+00:27:03,100 --> 00:27:05,100
+[CATFISH]
+Yuh?
+ໂອ້?
+
+401
+00:27:05,600 --> 00:27:11,600
+[BUD]
+Take the first watch in sonar.  Hippy, you handle the exterior surveillance.  One Night, see if you can get that transmitter working for me, okay?
+ເອົາໂມງ ທໍາ ອິດໃນໂຊນາຣ໌. ຮິບປີ, ເຈົ້າຮັບມືກັບການຕິດຕາມກວດກາພາຍນອກ. ຄືນຫນຶ່ງ
+, ເບິ່ງວ່າເຈົ້າສາມາດເຮັດໃຫ້ເຄື່ອງສົ່ງນັ້ນເຮັດວຽກ ສໍາ ລັບຂ້ອຍໄດ້ບໍ, ດີບໍ?
+
+402
+00:27:12,100 --> 00:27:18,050
+[HIPPY]
+Come on... move to the left... just a little more... come on, A.J. Squared Away... that's it--
+ມາແລ້ວ... ຍ້າຍໄປທາງຊ້າຍ... ພຽງແຕ່ອີກເລັກນ້ອຍ
+... ມາແລ້ວ, ເອຈີສ໌ສີ່ແສນ... ນັ້ນແມ່ນມັນ -
+
+403
+00:27:18,550 --> 00:27:20,550
+[HIPPY]
+Pretty radical, guys.  Pretty radical.
+ພວກຜູ້ຊາຍທີ່ຮຸນແຮງຫຼາຍ. ຮຸນແຮງຫລາຍ.
+
+404
+00:27:21,050 --> 00:27:23,050
+[HIPPY]
+Say hello to MIRV.
+ສະບາຍດີ MIRV.
+
+405
+00:27:23,550 --> 00:27:26,350
+[HIPPY]
+Come on, man.  What else could it be?
+ມາແລ້ວ, ຜູ້ຊາຍ. ມັນອາດຈະເປັນຫຍັງອີກບໍ?
+
+406
+00:27:26,850 --> 00:27:28,850
+[BUD]
+Why bring it here?
+ເປັນຫຍັງຈຶ່ງເອົາມັນມາບ່ອນນີ້?
+
+407
+00:27:29,350 --> 00:27:35,350
+[HIPPY]
+It's gotta be, like, an emergency plan to keep it away from the Russians... Hotwire one of the nukes with some kinda detonator, put it back in the sub, and fry the whole thing, slicker'n snot. Oh, uh... hi, Lins.
+ມັນຕ້ອງເປັນ, ເຊັ່ນວ່າ, ແຜນການສຸກເສີນເພື່ອເຮັດໃຫ້ມັນຢູ່ຫ່າງຈາກຊາວຣັດເຊຍ... ຮອດໄວ ຫນຶ່ງ ໃນລະເບີດນິວເຄລຍທີ່ມີເຄື່ອງລະ
+ເບີດບາງຊະນິດ, ເອົາມັນຄືນໃນລໍາເຮືອ, ແລະ fry ສິ່ງທັງ ຫມົດ, slicker'n snot. ໂອ້, ອູ... ສະບາຍດີ, ລິນສ໌.
+
+408
+00:27:35,850 --> 00:27:39,700
+[LINDSEY]
+Look, goddamnit, if you won't do something about it, I will.
+ເບິ່ງ, ສະບາຍດີ, ຖ້າເຈົ້າບໍ່ເຮັດຫຍັງກ່ຽວກັບມັນ, ຂ້ອຍຈະເຮັດ.
+
+409
+00:27:40,200 --> 00:27:42,200
+[BUD]
+Lindsey!  Wait a second--
+ລິນດຊີ! ລໍຖ້າວິນາທີຫນຶ່ງ...
+
+410
+00:27:42,700 --> 00:27:48,700
+[LINDSEY]
+You've got some huevos bringing this... thing... into my rig!  With everything that's been going on up in the world, you bring a nuclear weapon in here?  Does this strike anyone as particularly psychotic, or is it just me?
+ເຈົ້າມີໄຂ່ບາງຢ່າງທີ່ ນໍາ ເອົາສິ່ງນີ້... ເຂົ້າໄປໃນເຄື່ອງຈັກຂອງຂ້ອຍ! ດ້ວຍທຸກຢ່າງທີ່ ກໍາ ລັງເກີດຂຶ້ນໃນໂລກ,
+ເຈົ້າ ນໍາ ອາວຸດນິວເຄລຍມາບ່ອນນີ້ບໍ? ນີ້ແມ່ນເບິ່ງຄືວ່າໃຜເປັນຄົນຈິດໃຈພິເສດບໍ, ຫຼືມັນພຽງແຕ່ຂ້ອຍເທົ່ານັ້ນບໍ?
+
+411
+00:27:49,200 --> 00:27:54,800
+[COFFEY]
+You don't need to know the details of this mission... you're better off if you don't.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຮູ້ລາຍລະອຽດຂອງພາລະກິດນີ້
+... ເຈົ້າດີກວ່າຖ້າເຈົ້າບໍ່ເຮັດ.
+
+412
+00:27:55,300 --> 00:28:01,300
+[LINDSEY]
+You're right... I don't.  I just need to know that this thing is out of here!  You hear me, Roger Ramjet?
+ເຈົ້າເວົ້າຖືກຕ້ອງ... ຂ້ອຍບໍ່ເຮັດ. ຂ້ອຍພຽງແຕ່ຕ້ອງຮູ້ວ່າສິ່ງນີ້ອອກຈາກບ່ອນນີ້
+! ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ, ໂຣເຈີ ຣາມເຈັດ?
+
+413
+00:28:01,800 --> 00:28:07,800
+[COFFEY]
+Mrs. Brigman, you're becoming a serious impediment to this mission.  I believe the stress is affecting you.  Escort her to quarters and have Monk prepare a tranquilizer.
+ທ່ານນາງບຣິກແມນ, ທ່ານ ກໍາ ລັງກາຍເປັນອຸປະສັກທີ່ຮ້າຍແຮງຕໍ່ພາລະກິດນີ້. ຂ້ອຍເຊື່ອວ່າຄວາມກົດດັນ
+ກໍາ ລັງສົ່ງຜົນກະທົບຕໍ່ທ່ານ. ນໍານາງໄປບ່ອນພັກແລະໃຫ້ໂມນກ໌ກະກຽມຢາບັນເທົາທຸກ.
+
+414
+00:28:08,300 --> 00:28:10,750
+[LINDSEY]
+Bullshit, you can't do that.  Oww... goddamnit!
+ເຈົ້າບໍ່ສາມາດເຮັດແບບນັ້ນໄດ້. ໂອ້... ສະບາຍດີ!
+
+415
+00:28:11,250 --> 00:28:13,250
+[BUD]
+Emergency!  Maintenance room B.  Emergency!
+ຄວາມສຸກເສີນ! ຫ້ອງການຮັກສາ B. ຄວາມຮີບດ່ວນ!
+
+416
+00:28:13,750 --> 00:28:16,200
+[BUD]
+Let her go.  Do it... right now.
+ປ່ອຍນາງໄປ. ເຮັດມັນ... ດຽວນີ້.
+
+417
+00:28:16,700 --> 00:28:18,700
+[LINDSEY]
+You dumb jarhead motherf--
+ເຈົ້າເປັນແມ່ໂຊກຮ້າຍໂງ່...
+
+418
+00:28:19,200 --> 00:28:21,200
+[BUD]
+Chill out, Lindsey!!
+ສະບາຍໃຈ, ລິນດຊີ!!
+
+419
+00:28:21,700 --> 00:28:23,700
+[CATFISH]
+What's the problem?
+ບັນຫາຫຍັງ?
+
+420
+00:28:24,200 --> 00:28:26,650
+[BUD]
+Nothing.  We were just leaving.  Weren't we?
+ບໍ່ມີຫຍັງເລີຍ. ພວກເຮົາພຽງແຕ່ ກໍາ ລັງອອກໄປ. ພວກເຮົາບໍ່?
+
+421
+00:28:27,150 --> 00:28:32,050
+[COFFEY]
+They can't be trusted.  They're turning against us.  We may have to take... steps.
+ພວກເຂົາບໍ່ສາມາດເຊື່ອຖືໄດ້. ພວກເຂົາ ກໍາ
+ລັງຫັນໄປຕໍ່ຕ້ານພວກເຮົາ. ພວກເຮົາອາດຈະຕ້ອງເອົາ... ຂັ້ນຕອນ.
+
+422
+00:28:32,550 --> 00:28:35,700
+[BUD]
+Lins, stay away from that guy.  I mean it.
+ລິນສ໌, ຢູ່ຫ່າງຈາກຄົນນັ້ນ. ຂ້ອຍເວົ້າແທ້ໆ.
+
+423
+00:28:36,200 --> 00:28:39,700
+[HIPPY]
+Yeah.  The dude's in bad shape... you see his hands?
+ແມ່ນແລ້ວ. ຜູ້ຊາຍຢູ່ໃນສະພາບທີ່ບໍ່ດີ... ເຈົ້າເຫັນມືຂອງລາວບໍ?
+
+424
+00:28:40,200 --> 00:28:42,200
+[LINDSEY]
+He's got the shakes?
+ລາວສັ່ນສະເທືອນບໍ?
+
+425
+00:28:42,700 --> 00:28:48,700
+[BUD]
+Look, the guy's operating on his own, cut off from chain of command.  He's exhibiting symptoms of pressure-induced psychosis.  And he's got a nuclear weapon.  So, as a personal favor to me... will you put your tongue in neutral for a while?
+ເບິ່ງ, ຜູ້ຊາຍຄົນນີ້ ກໍາ ລັງ ດໍາ ເນີນງານດ້ວຍຕົນເອງ, ຖືກຕັດອອກຈາກຕ່ອງໂສ້ການບັນຊາການ. ລາວ ກໍາ ລັງສະແດງອາການຂອງໂຣກຈິດໃຈທີ່ເກີດຈາກຄວາມກົດດັນ
+. ແລະລາວມີອາວຸດນິວເຄລຍ. ສະນັ້ນ, ໃນຖານະເປັນຄວາມຊົມເຊີຍສ່ວນຕົວຕໍ່ຂ້ອຍ... ເຈົ້າຈະເອົາພາສາຂອງທ່ານເປັນກາງເປັນເວລາດົນນານບໍ?
+
+426
+00:28:49,200 --> 00:28:53,050
+[HIPPY]
+Man, I give this a sphincter-factor of about nine point five.
+ຜູ້ຊາຍ, ຂ້ອຍໃຫ້ປັດໃຈ sphincter ນີ້ປະມານເກົ້າຈຸດຫ້າ.
+
+427
+00:28:53,550 --> 00:28:59,550
+[LINDSEY]
+Look, you can just punch into his little chip where you want him to go, and he goes, right?
+ເບິ່ງ, ເຈົ້າພຽງແຕ່ສາມາດຕີໃນຊິບນ້ອຍຂອງລາວບ່ອນທີ່ທ່ານຢາກໃຫ້ລາວໄປ
+, ແລະລາວຈະໄປ, ແມ່ນບໍ?
+
+428
+00:29:00,050 --> 00:29:06,050
+[HIPPY]
+Well, yeah, but the tether off it ain't gonna be fancy.  When he gets down there he'll just sit, like a dumb-shit.  Unless something wanders through view of the camera, you'll get nada.
+ດີ, ແມ່ນແລ້ວ, ແຕ່ສາຍແອວມັນຈະບໍ່ສວຍງາມ. ເມື່ອລາວລົງໄປບ່ອນນັ້ນລາວພຽງແຕ່ນັ່ງ, ຄືກັບຄົນໂງ່
+. ເວັ້ນເສຍແຕ່ວ່າບາງສິ່ງບາງຢ່າງຍ່າງຜ່ານການເບິ່ງຂອງກ້ອງຖ່າຍຮູບ, ເຈົ້າຈະໄດ້ຮັບຫຍັງເລີຍ.
+
+429
+00:29:06,550 --> 00:29:09,350
+[LINDSEY]
+Let's go for it.  We could get lucky.
+ໄປເຮັດມັນ. ພວກເຮົາອາດຈະໂຊກດີ.
+
+430
+00:29:09,850 --> 00:29:13,700
+[HIPPY]
+I don't know.  I really oughta talk to Bud about this.
+ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍຄວນເວົ້າກັບບາດກ່ຽວກັບເລື່ອງນີ້ແທ້ໆ.
+
+431
+00:29:14,200 --> 00:29:20,200
+[LINDSEY]
+No.  Just you and me.  We get some proof, then tell them.  Hippy, look... if was can prove to Coffey it's not Russians, maybe he'll ease off the button a little.
+ບໍ່. ພຽງແຕ່ເຈົ້າແລະຂ້ອຍ. ພວກເຮົາໄດ້ຮັບຫຼັກຖານບາງຢ່າງ, ຫຼັງຈາກນັ້ນບອກພວກເຂົາ. ຮິບປີ,
+ເບິ່ງ... ຖ້າສາມາດພິສູດໃຫ້ໂກຟີວ່າມັນບໍ່ແມ່ນຊາວຣັດເຊຍ, ບາງທີລາວຈະຜ່ອນຜັນປຸ່ມ ຫນ້ອຍ ຫນຶ່ງ.
+
+432
+00:29:20,700 --> 00:29:26,700
+[HIPPY]
+I gotta tell you, that guy scares me a lot more than whatever's down there.  A.J. Squared Away goddamn jarhead robot.  Okay, gimme a couple hours on this.
+ຂ້ອຍຕ້ອງບອກເຈົ້າ, ຜູ້ຊາຍຄົນນັ້ນເຮັດໃຫ້ຂ້ອຍຢ້ານກົວຫຼາຍກ່ວາສິ່ງໃດກໍ່ຕາມທີ່ຢູ່ລຸ່ມນັ້ນ
+. ເອຈີສ໌ສີ່ແສນຫ່າງໄກຈາກຫຸ່ນຍົນຫົວຈານ. ດີ, ໃຫ້ຂ້ອຍສອງສາມຊົ່ວໂມງກ່ຽວກັບເລື່ອງນີ້.
+
+433
+00:29:27,200 --> 00:29:29,200
+[MONK]
+Thanks.
+ຂອບໃຈ
+
+434
+00:29:29,700 --> 00:29:31,700
+[LINDSEY]
+Virgil, turn on your side.
+ເວີຈິລ, ຫັນໄປຂ້າງຂອງທ່ານ.
+
+435
+00:29:32,200 --> 00:29:37,450
+[HIPPY]
+All set, big guy.  Hey, I told you to wipe that grin off your face.
+ພ້ອມແລ້ວ, ຜູ້ໃຫຍ່. ເຮ້,
+ຂ້ອຍບອກເຈົ້າໃຫ້ລ້າງຄວາມມ່ວນຊື່ນຈາກໃບຫນ້າຂອງທ່ານ.
+
+436
+00:29:37,950 --> 00:29:39,950
+[BUD]
+I think it likes you.
+ຂ້ອຍຄິດວ່າມັນມັກເຈົ້າ.
+
+437
+00:29:40,450 --> 00:29:42,450
+[LINDSEY]
+It's trying to communicate.
+ມັນກໍາລັງພະຍາຍາມສື່ສານ.
+
+438
+00:29:42,950 --> 00:29:44,950
+[LINDSEY]
+Seawater.
+ນ້ ໍາ ທະເລ.
+
+439
+00:29:45,450 --> 00:29:47,450
+[LINDSEY]
+Show off.
+ສະແດງຕົວ.
+
+440
+00:29:47,950 --> 00:29:53,900
+[LINDSEY]
+Okay, raise your hand if you think that was a Russian water-tentacle.  Lieutenant?  No?  Well, a breakthrough.
+ຄຸເຂົ່າລົງ
+
+441
+00:29:54,400 --> 00:29:56,400
+[BUD]
+You done impressing yourself, ace?
+ເຈົ້າເຮັດແລ້ວທີ່ຈະປະທັບໃຈຕົວເອງບໍ, ເອສ?
+
+442
+00:29:56,900 --> 00:30:02,900
+[LINDSEY]
+They must've learned how to control water... I mean at a molecular level.  They can plasticize it, polymerize it... whatever.  Put it under intelligent control.
+ພວກເຂົາຕ້ອງໄດ້ຮຽນຮູ້ວິທີຄວບຄຸມນ້ ໍາ... ຂ້ອຍ ຫມາຍ ຄວາມວ່າໃນລະດັບໂມເລກູເລຍ.
+ພວກເຂົາສາມາດເຮັດມັນເປັນພາດສະຕິກ, ໂປລິເມຣີມັນ... ສິ່ງໃດກໍ່ຕາມ. ເອົາມັນພາຍໃຕ້ການຄວບຄອງທີ່ສະຫຼາດ.
+
+443
+00:30:03,400 --> 00:30:06,900
+[BUD]
+Maybe their whole technology is based on that. Controlling water.
+ບາງທີເຕັກໂນໂລຢີທັງ ຫມົດ ຂອງພວກເຂົາແມ່ນອີງໃສ່ນັ້ນ. ການຄວບຄຸມນ້ ໍາ.
+
+444
+00:30:07,400 --> 00:30:11,600
+[HIPPY]
+That thing was probably their version of Big Geek... like an ROV.
+ສິ່ງນັ້ນອາດຈະເປັນເວີຊັນຂອງພວກເຂົາຂອງ Big Geek... ຄືກັບ ROV.
+
+445
+00:30:12,100 --> 00:30:14,550
+[CATFISH]
+Just checking is out, huh?  How come?
+ພຽງແຕ່ກວດສອບແມ່ນອອກແລ້ວ, ແມ່ນບໍ? ເປັນຫຍັງ?
+
+446
+00:30:15,050 --> 00:30:19,600
+[LINDSEY]
+They're curious, maybe.  We could be the first people they've seen up close.
+ພວກເຂົາຢາກຮູ້ສຶກ, ບາງທີ. ພວກເຮົາອາດຈະເປັນຄົນ
+ທໍາ ອິດທີ່ພວກເຂົາເຫັນໃກ້ຊິດ.
+
+447
+00:30:20,100 --> 00:30:23,250
+[SONNY]
+Hope they don't judge the whole race offa us.
+ຫວັງວ່າພວກເຂົາຈະບໍ່ຕັດສິນໃຈການແຂ່ງຂັນທັງ ຫມົດ ຂອງພວກເຮົາ.
+
+448
+00:30:23,750 --> 00:30:25,750
+[CATFISH]
+Maybe I oughta shave.
+ບາງທີຂ້ອຍຄວນຕັດຜົມ.
+
+449
+00:30:26,250 --> 00:30:30,100
+[COFFEY]
+It went straight for the warhead.  And they think it's cute.
+ມັນໄປກົງໄປຫາຫົວລະເບີດ. ແລະພວກເຂົາຄິດວ່າມັນຫນ້າຮັກ.
+
+450
+00:30:30,600 --> 00:30:32,700
+[SCHOENICK]
+You need to get some sleep.
+ເຈົ້າຕ້ອງນອນບາງຢ່າງ.
+
+451
+00:30:33,200 --> 00:30:38,100
+[COFFEY]
+We have no way of warning the surface.  Do you know what that means?
+ພວກເຮົາບໍ່ມີທາງທີ່ຈະເຕືອນພື້ນຜິວ.
+ເຈົ້າຮູ້ວ່າມັນ ຫມາຍ ຄວາມວ່າແນວໃດ?
+
+452
+00:30:38,600 --> 00:30:41,400
+[COFFEY]
+It means... whatever happens is up to us.
+ມັນຫມາຍຄວາມວ່າ... ທຸກຢ່າງທີ່ເກີດຂຶ້ນແມ່ນຂຶ້ນກັບພວກເຮົາ.
+
+453
+00:30:41,900 --> 00:30:47,850
+[LINDSEY]
+I think they're from 'you know'.  Some place that has similar conditions... cold, intense pressure.  No light.
+ຂ້ອຍຄິດວ່າພວກເຂົາມາຈາກ'ເຈົ້າຮູ້ແລ້ວ'. ບາງບ່ອນທີ່ມີສະພາບທີ່ຄ້າຍຄືກັນ
+... ຄວາມຫນາວເຢັນ, ຄວາມກົດດັນຢ່າງແຮງ. ບໍ່ມີແສງສະຫວ່າງ.
+
+454
+00:30:48,350 --> 00:30:51,500
+[CATFISH]
+Happy as hogs in a waller down there, prob'ly.
+ມີຄວາມສຸກຄືກັບຫມູໃນຈານຝາທີ່ຢູ່ລຸ່ມນັ້ນ, prob'ly.
+
+455
+00:30:52,000 --> 00:30:54,100
+[COFFEY]
+Sniff something did you, rat boy?
+ເຈົ້າກິ່ນຫອມບາງສິ່ງບາງຢ່າງບໍ, ເດັກແມວ?
+
+456
+00:30:54,600 --> 00:30:59,850
+[COFFEY]
+FREEZE!  Don't move.  That's it.  Here, hold this a second.  We're going to phase three.
+ຟຣີສ໌! ຢ່າເຄື່ອນຍ້າຍ. ນັ້ນແມ່ນມັນ. ຢູ່ບ່ອນນີ້,
+ຈັບສິ່ງນີ້ຊົ່ວຄາວຫນຶ່ງ. ພວກເຮົາຈະໄປສູ່ໄລຍະທີສາມ.
+
+457
+00:31:00,350 --> 00:31:06,350
+[HIPPY]
+They're using Big Geek to take the bomb to the NTIs!  We set it up to go right to them.
+ພວກເຂົາ ກໍາ ລັງໃຊ້ Big Geek ເພື່ອເອົາລະເບີດໄປຫາ
+NTI! ພວກເຮົາຕັ້ງມັນເພື່ອໄປຫາພວກເຂົາໂດຍກົງ.
+
+458
+00:31:06,850 --> 00:31:12,800
+[LINDSEY]
+Oh my God...  Oh no...  Please, you can't.  Coffey, think about what you're doing... for God's sake--
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ... ໂອ້ ບໍ່... ກະລຸນາ, ເຈົ້າບໍ່ສາມາດເຮັດໄດ້
+. ໂກຟີ, ຄິດກ່ຽວກັບສິ່ງທີ່ເຈົ້າ ກໍາ ລັງເຮັດ... ສໍາລັບພຣະເຈົ້າ -
+
+459
+00:31:13,300 --> 00:31:16,800
+[GET BACK!]
+Bud freezes.  The rifle's muzzle is aimed for a heart-shot.
+ບາດກ້ອນ. ປືນຂອງປືນແມ່ນແນໃສ່ການຍິງຫົວໃຈ.
+
+460
+00:31:17,300 --> 00:31:21,500
+[COFFEY]
+This is something I've wanted to do since I first met you.
+ນີ້ແມ່ນບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍຢາກເຮັດຕັ້ງແຕ່ຂ້ອຍພົບເຈົ້າຄັ້ງ
+ທໍາ ອິດ.
+
+461
+00:31:22,000 --> 00:31:28,000
+[HIPPY]
+You boss is having a full-on meltdown.  Guy's fixing to pull the pin on fifty kilotons and we're all ringside!
+ຫົວຫນ້າຂອງທ່ານ ກໍາ ລັງມີການລະລາຍຢ່າງເຕັມທີ່. ຜູ້ຊາຍ ກໍາ
+ລັງກຽມພ້ອມທີ່ຈະດຶງປິນໃສ່ຫ້າສິບກິໂລໂຕນແລະພວກເຮົາທຸກຄົນຢູ່ຂ້າງວົງ!
+
+462
+00:31:28,500 --> 00:31:30,500
+[MONK]
+What's the timer set for?
+ເຄື່ອງເວລາຖືກຕັ້ງໄວ້ເພື່ອຫຍັງ?
+
+463
+00:31:31,000 --> 00:31:33,000
+[SCHOENICK]
+Three hours.
+ສາມຊົ່ວໂມງ.
+
+464
+00:31:33,500 --> 00:31:35,500
+[COFFEY]
+Shut up!  Don't talk!
+ປິດງຽບ! ຢ່າເວົ້າ!
+
+465
+00:31:36,000 --> 00:31:42,000
+[MONK]
+We can't get to minimum-safe-distance in three hours.  The shockwave will kill us.  It'll crush this rig like a semi driving over a beer can.
+ພວກເຮົາບໍ່ສາມາດໄປຫາໄລຍະຫ່າງທີ່ປອດໄພຕໍ່າສຸດໃນເວລາສາມຊົ່ວໂມງ.
+ຄື້ນຟອງກະຕຸ້ນຈະຂ້າພວກເຮົາ. ມັນຈະສັ່ນສະເທືອນເຄື່ອງຈັກນີ້ຄືກັບລົດເຄິ່ງຂັບລົດຜ່ານຖັງເບຍ.
+
+466
+00:31:42,500 --> 00:31:45,650
+[COFFEY]
+Shut up!  SHUT UP!  What's the matter with you?!
+ງຽບງຽບ! ງຽບ! ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?!
+
+467
+00:31:46,150 --> 00:31:48,950
+[COFFEY]
+Just stay calm.  The situation is under control.
+ພຽງແຕ່ສະຫງົບໃຈ. ສະຖານະການຖືກຄວບຄຸມ.
+
+468
+00:31:49,450 --> 00:31:51,450
+[COFFEY]
+Stay here.
+ຢູ່ບ່ອນນີ້.
+
+469
+00:31:51,950 --> 00:31:56,150
+[LINDSEY]
+Schoenick... your Lieutenant is about to make a real bad career move...
+ໂຊນິກ... ພົນຈັດຕະວາຂອງທ່ານ ກໍາ
+ລັງຈະເຮັດການເຄື່ອນໄຫວອາຊີບທີ່ບໍ່ດີແທ້ໆ...
+
+470
+00:31:56,650 --> 00:31:58,750
+[HIPPY]
+That guy's crazier'n a shithouse rat!
+ຜູ້ຊາຍຄົນນັ້ນໂຊກຮ້າຍກວ່າແມວເຮືອນສໍ້ໂກງ!
+
+471
+00:31:59,250 --> 00:32:01,350
+[BUD]
+We have to stop him!  Schoenick!!
+ພວກເຮົາຕ້ອງຢຸດລາວ! ໂຊນິກ!!
+
+472
+00:32:01,850 --> 00:32:07,850
+[LINDSEY]
+... he's about to declare war on an alien species, Schoenick, just when they're trying to make contact with us.  I think I'm reaching him.
+ລາວ ກໍາ ລັງຈະປະກາດສົງຄາມຕໍ່ຊະນິດຕ່າງດາວ, ໂຊນິກ, ພຽງແຕ່ໃນເວລາທີ່ພວກເຂົາ
+ກໍາ ລັງພະຍາຍາມຕິດຕໍ່ພົວພັນກັບພວກເຮົາ. ຂ້ອຍຄິດວ່າຂ້ອຍ ກໍາ ລັງຕິດຕໍ່ລາວ.
+
+473
+00:32:08,350 --> 00:32:10,350
+[LINDSEY]
+See?
+ເຈົ້າເຫັນບໍ?
+
+474
+00:32:10,850 --> 00:32:12,950
+[MONK]
+I'm the least of your problems.
+ຂ້ອຍເປັນບັນຫານ້ອຍທີ່ສຸດຂອງເຈົ້າ.
+
+475
+00:32:13,450 --> 00:32:15,550
+[BUD]
+Thanks.  How you feeling, big guy?
+ຂອບໃຈ. ເຈົ້າຮູ້ສຶກແນວໃດ, ຜູ້ໃຫຍ່?
+
+476
+00:32:16,050 --> 00:32:20,600
+[JAMMER]
+Figured I was dead, there, when I seen that angel comin' toward me.
+ຂ້ອຍຄິດວ່າຂ້ອຍຕາຍແລ້ວ, ຢູ່ບ່ອນນັ້ນ,
+ເມື່ອຂ້ອຍເຫັນເທວະດາຄົນນັ້ນມາຫາຂ້ອຍ.
+
+477
+00:32:21,100 --> 00:32:25,300
+[BUD]
+Uh, okay, right.  You can tell us about it later.  Let's go.
+ໂອ້, ດີ, ແມ່ນແລ້ວ. ເຈົ້າສາມາດບອກພວກເຮົາກ່ຽວກັບມັນຕໍ່ມາ. ໄປ.
+
+478
+00:32:25,800 --> 00:32:27,800
+[BUD]
+He's jammed the mechanism.
+ລາວໄດ້ບິດກົນຈັກ.
+
+479
+00:32:28,300 --> 00:32:30,300
+[LINDSEY]
+Now what?
+ດຽວນີ້ຫຍັງ?
+
+480
+00:32:30,800 --> 00:32:36,750
+[BUD]
+Okay, I'm gonna free-swim to hatch six... get inside, get the door open from the other side.
+ດີແລ້ວ, ຂ້ອຍຈະລອຍຟຣີເພື່ອລອຍຫົກ...
+ເຂົ້າໄປໃນ, ເປີດປະຕູຈາກອີກດ້ານຫນຶ່ງ.
+
+481
+00:32:37,250 --> 00:32:40,400
+[LINDSEY]
+Bud, that water's only a couple degrees above freezing.
+ບາດ, ນ້ ໍາ ນັ້ນພຽງແຕ່ສອງສາມລະດັບສູງກວ່າຄວາມເຢັນ.
+
+482
+00:32:40,900 --> 00:32:44,050
+[BUD]
+Then I guess you better wish me luck, huh?
+ຫຼັງຈາກນັ້ນຂ້ອຍຄິດວ່າເຈົ້າຄວນອວຍພອນຂ້ອຍໂຊກດີ, ແມ່ນບໍ?
+
+483
+00:32:44,550 --> 00:32:50,500
+[CATFISH]
+Wish us luck.  'Case I don't die.  Okay, Bud... let's go, podner, I ain't got all day.
+ຂໍຄວາມໂຊກດີໃຫ້ພວກເຮົາ. ໃນກໍລະນີທີ່ຂ້ອຍບໍ່ຕາຍ.
+ດີ, ບາດ... ໄປ, ໂປດເນີ, ຂ້ອຍບໍ່ມີມື້ທັງ ຫມົດ.
+
+484
+00:32:51,000 --> 00:32:53,800
+[BUD]
+Hafta... go on to... the moonpool.  Only way.
+Hafta... ໄປຫາ... ສະລອຍນ້ ໍາ ດວງຈັນ. ທາງດຽວ.
+
+485
+00:32:54,300 --> 00:32:56,300
+[CATFISH]
+I can't... make it... podner.
+ຂ້ອຍບໍ່ສາມາດ... ເຮັດໄດ້... ໂປດເນີ.
+
+486
+00:32:56,800 --> 00:32:58,800
+[BUD]
+Okay, Cat.  You head back.
+ດີແຄຕ໌. ເຈົ້າກັບຄືນໄປບ່ອນ.
+
+487
+00:32:59,300 --> 00:33:04,900
+[HIPPY]
+He can't get to the door... I think he's going to try and take him himself.
+ລາວບໍ່ສາມາດເຂົ້າໄປໃນປະຕູໄດ້... ຂ້ອຍຄິດວ່າລາວຈະພະຍາຍາມເອົາລາວເອງ.
+
+488
+00:33:05,400 --> 00:33:11,400
+[LINDSEY]
+He couldn't be that dumb.  The guy's a trained killer.  Bud's idea of a fight is arm-wrestling One Night over laundry duty.
+ລາວບໍ່ສາມາດໂງ່ຫຼາຍປານໃດ. ຜູ້ຊາຍຄົນນັ້ນເປັນຜູ້ຂ້າທີ່ໄດ້ຮັບການຝຶກອົບຮົມ.
+ຄວາມຄິດຂອງບາດກ່ຽວກັບການຕໍ່ສູ້ແມ່ນການສູ້ຮົບແຂນໃນຄືນຫນຶ່ງກ່ຽວກັບຫນ້າທີ່ລ້າງເຄື່ອງ.
+
+489
+00:33:11,900 --> 00:33:16,800
+[MONK]
+I tool the liberty of removing this before I gave it back to him.
+ຂ້ອຍໃຊ້ເຄື່ອງມືຄວາມເສລີພາບໃນການເອົາສິ່ງນີ້ອອກກ່ອນທີ່ຂ້ອຍຈະສົ່ງມັນຄືນໃຫ້ລາວ
+.
+
+490
+00:33:17,300 --> 00:33:19,300
+[CATFISH]
+Hey!
+ເຮ້!
+
+491
+00:33:19,800 --> 00:33:21,800
+[BUD]
+Get the door!
+ເປີດປະຕູ!
+
+492
+00:33:22,300 --> 00:33:26,500
+[SHOOT!]
+Hippy's squeezing the trigger and nothing's happening.  Flatbed's hatch tower goes under.
+ຄຸເຂົ່າລົງ
+
+493
+00:33:27,000 --> 00:33:30,850
+[CATFISH]
+Safety's on!  On the side... the lever!  Up, push it up!
+ຄວາມປອດໄພເປີດແລ້ວ! ຢູ່ຂ້າງ... ກະຕຸ້ນ! ຂຶ້ນ, ດັນມັນຂຶ້ນ!
+
+494
+00:33:31,350 --> 00:33:33,350
+[CATFISH]
+Give me that!!
+ໃຫ້ຂ້ອຍມັນ!!
+
+495
+00:33:33,850 --> 00:33:35,950
+[LINDSEY]
+Forget that... go for Big Geek!
+ລືມມັນ... ໄປຫາ Big Geek!
+
+496
+00:33:36,450 --> 00:33:38,450
+[BUD]
+Gimme a hand!
+ຊ່ວຍຂ້ອຍ!
+
+497
+00:33:38,950 --> 00:33:44,900
+[BUD]
+Get the rest of my gear.  Grab that hat there... let's go guys!  Come on, come on!
+ເອົາເຄື່ອງມືຂອງຂ້ອຍທີ່ເຫຼືອ. ເອົາ
+ຫມວກ ນັ້ນຢູ່ບ່ອນນັ້ນ... ໄປແມ! ມາ, ມາ!
+
+498
+00:33:45,400 --> 00:33:47,400
+[BUD]
+Helmet... helmet!  Work fast.
+ຫມວກ... ຫມວກ! ເຮັດວຽກຢ່າງໄວວາ.
+
+499
+00:33:47,900 --> 00:33:49,900
+[LINDSEY]
+Get in!
+ເຂົ້າມາ!
+
+500
+00:33:50,400 --> 00:33:52,400
+[LINDSEY]
+You owe me one, Virgil.
+ເຈົ້າເປັນຫນີ້ຂ້ອຍຫນຶ່ງ, ວີຈິລ.
+
+501
+00:33:52,900 --> 00:33:55,350
+[BUD]
+Can we negotiate later?  There's Big Geek.
+ພວກເຮົາສາມາດເຈລະຈາໄດ້ຕໍ່ມາບໍ? ມີ Big Geek.
+
+502
+00:33:55,850 --> 00:33:58,300
+[BUD]
+Go after it!  We gotta catch it!
+ໄປຕາມມັນ! ພວກເຮົາຕ້ອງຈັບມັນ!
+
+503
+00:33:58,800 --> 00:34:01,950
+[LINDSEY]
+You did okay, back there.  I was fairly impressed.
+ເຈົ້າເຮັດໄດ້ດີ, ຢູ່ບ່ອນນັ້ນ. ຂ້ອຍປະທັບໃຈຫຼາຍ.
+
+504
+00:34:02,450 --> 00:34:05,600
+[BUD]
+Not good enough.  We still gotta catch Big Geek.
+ບໍ່ດີພໍ. ພວກເຮົາຍັງຕ້ອງຈັບ Big Geek ໄດ້.
+
+505
+00:34:06,100 --> 00:34:08,100
+[LINDSEY]
+Not in this thing.
+ບໍ່ແມ່ນໃນສິ່ງນີ້.
+
+506
+00:34:08,600 --> 00:34:10,600
+[BUD]
+You totaled it, huh?
+ເຈົ້າເຮັດມັນທັງ ຫມົດ, ແມ່ນບໍ?
+
+507
+00:34:11,100 --> 00:34:13,100
+[LINDSEY]
+Yeah.  So sue me.
+ແມ່ນແລ້ວ. ສະນັ້ນຟ້ອງຮ້ອງຂ້ອຍ.
+
+508
+00:34:13,600 --> 00:34:16,400
+[BUD]
+It's flooding like a son of the bitch.
+ມັນ ກໍາ ລັງຖ້ວມນ້ ໍາ ຄືກັບລູກແຊກຮ້າຍ.
+
+509
+00:34:16,900 --> 00:34:18,900
+[LINDSEY]
+You noticed.
+ເຈົ້າເຫັນແລ້ວ.
+
+510
+00:34:19,400 --> 00:34:21,850
+[LINDSEY]
+Deepcore, Deepcore, this is Cab One, over.
+ດີບຄໍ, ດີບກໍ, ນີ້ແມ່ນແທັກຊີຫນຶ່ງ, ສິ້ນສຸດລົງ.
+
+511
+00:34:22,350 --> 00:34:24,350
+[BUD]
+Try again.
+ພະຍາຍາມອີກເທື່ອຫນຶ່ງ.
+
+512
+00:34:24,850 --> 00:34:28,700
+[LINDSEY]
+Deepcore, this is Cab One.  We need assistance, over.  Deepcore, this--
+Deepcore, ນີ້ແມ່ນແທັກຊີຫນຶ່ງ.
+ພວກເຮົາຕ້ອງການຄວາມຊ່ວຍເຫຼືອ, ສິ້ນສຸດລົງ. ດີບຄໍ, ນີ້ແມ່ນ -
+
+513
+00:34:29,200 --> 00:34:31,200
+[LINDSEY]
+Well, that's that.
+ດີ, ນັ້ນແມ່ນມັນ.
+
+514
+00:34:31,700 --> 00:34:33,800
+[BUD]
+Wonderful.  There's some light from somewhere...
+ດີເລີດ. ມີແສງສະຫວ່າງບາງຢ່າງຈາກບ່ອນໃດ...
+
+515
+00:34:34,300 --> 00:34:36,300
+[LINDSEY]
+Over there.  It's the rig.
+ຢູ່ບ່ອນນັ້ນ. ມັນແມ່ນເຄື່ອງຈັກ.
+
+516
+00:34:36,800 --> 00:34:38,800
+[BUD]
+Good hundred yards, I'd say.
+ຂ້ອຍຈະເວົ້າວ່າສິບແມັດດີ.
+
+517
+00:34:39,300 --> 00:34:41,300
+[LINDSEY]
+They'll come out after us.
+ພວກເຂົາຈະອອກມາຕາມພວກເຮົາ.
+
+518
+00:34:41,800 --> 00:34:47,750
+[BUD]
+Yeah, but it's gonna take them a while to find us.  We better get this flooding stopped.
+ແມ່ນແລ້ວ, ແຕ່ມັນຈະໃຊ້ເວລາພວກເຂົາທີ່ຈະຊອກຫາພວກເຮົາ
+. ພວກເຮົາຄວນເຮັດໃຫ້ນໍ້າຖ້ວມນີ້ຢຸດເຊົາ.
+
+519
+00:34:48,250 --> 00:34:50,350
+[LINDSEY]
+You see where it's coming in?
+ເຈົ້າເຫັນວ່າມັນເຂົ້າມາໃສ?
+
+520
+00:34:50,850 --> 00:34:52,950
+[BUD]
+Somewhere behind this panel.  Hold this.
+ບາງບ່ອນຢູ່ເບື້ອງຫຼັງກະດານນີ້. ຖືສິ່ງນີ້.
+
+521
+00:34:53,450 --> 00:34:58,350
+[BUD]
+Can't get to it.  Have to pull this panel off. You go any tools?
+ເຈົ້າບໍ່ສາມາດໄປຫາມັນໄດ້. ຕ້ອງດຶງກະດານນີ້ອອກ. ເຈົ້າໄປເຄື່ອງມືໃດບໍ?
+
+522
+00:34:58,850 --> 00:35:00,850
+[LINDSEY]
+I don't know, look around.
+ຂ້ອຍບໍ່ຮູ້, ເບິ່ງຢູ່ອ້ອມຂ້າງ.
+
+523
+00:35:01,350 --> 00:35:05,550
+[BUD]
+Nothing.  Son of a bitch.  All I need's a goddamn crescent wrench.
+ບໍ່ມີຫຍັງເລີຍ. ລູກແຊກແຊງ.
+ຂ້ອຍພຽງແຕ່ຕ້ອງການປຸ່ມເຄິ່ງເດືອນເທົ່ານັ້ນ.
+
+524
+00:35:06,050 --> 00:35:08,050
+[BUD]
+Son of a bitch!
+ລູກໂຊກຮ້າຍ!
+
+525
+00:35:08,550 --> 00:35:10,550
+[LINDSEY]
+Calm down, Bud.
+ສະບາຍໃຈ, ບາດ.
+
+526
+00:35:11,050 --> 00:35:14,200
+[BUD]
+Okay... okay.  We gotta get you out of here.
+ດີແລ້ວ... ດີແລ້ວ. ພວກເຮົາຕ້ອງເອົາເຈົ້າອອກຈາກບ່ອນນີ້.
+
+527
+00:35:14,700 --> 00:35:16,700
+[LINDSEY]
+How?
+ແນວໃດ?
+
+528
+00:35:17,200 --> 00:35:19,200
+[BUD]
+I don't know how!
+ຂ້ອຍບໍ່ຮູ້ວິທີ!
+
+529
+00:35:19,700 --> 00:35:21,700
+[LINDSEY]
+We've only got one suit.
+ພວກເຮົາມີຊຸດດຽວເທົ່ານັ້ນ.
+
+530
+00:35:22,200 --> 00:35:26,050
+[BUD]
+I know!  I know!  But we better come up with something.
+ຂ້ອຍຮູ້ແລ້ວ! ຂ້ອຍຮູ້ວ່າ! ແຕ່ພວກເຮົາຄວນຄິດບາງສິ່ງບາງຢ່າງ.
+
+531
+00:35:26,550 --> 00:35:28,550
+[LINDSEY]
+Aaargh!!  I'm freezing!
+ອາອາຣ໌!! ຂ້ອຍກໍາລັງເຢັນ!
+
+532
+00:35:29,050 --> 00:35:33,600
+[LINDSEY]
+Okay, look, you swim to the rig and come back with another suit.
+ດີແລ້ວ, ເບິ່ງ, ເຈົ້າລອຍໄປຫາເຄື່ອງຈັກແລະກັບມາດ້ວຍຊຸດອື່ນ.
+
+533
+00:35:34,100 --> 00:35:40,100
+[BUD]
+Seven, eight minute swim each way... not enough time.  Look at this...  Time I get back you'll be--
+ເຈັດ, ແປດນາທີລອຍທຸກທາງ... ບໍ່ພຽງພໍເວລາ.
+ເບິ່ງສິ່ງນີ້... ໃນເວລາທີ່ຂ້ອຍກັບມາເຈົ້າຈະ -
+
+534
+00:35:40,600 --> 00:35:42,600
+[BUD]
+Alright, put this on.
+ດີແລ້ວ, ໃສ່ສິ່ງນີ້.
+
+535
+00:35:43,100 --> 00:35:48,350
+[LINDSEY]
+What, you growing gills all of a sudden?  You got it on, keep it on.
+ຄຸເຂົ່າລົງ
+
+536
+00:35:48,850 --> 00:35:50,850
+[BUD]
+Don't argue, goddamnit, just--
+ຢ່າໂຕ້ຖຽງກັນ, ສະບາຍດີ, ພຽງແຕ່ -
+
+537
+00:35:51,350 --> 00:35:53,800
+[LINDSEY]
+No way!  Forget it.  Not an option.
+ບໍ່ເປັນໄປເລີຍ! ລືມມັນ. ບໍ່ແມ່ນທາງເລືອກ.
+
+538
+00:35:54,300 --> 00:35:57,450
+[BUD]
+Lindsey, just put the thing on and shut up--
+ລິນດຊີ, ພຽງແຕ່ໃສ່ສິ່ງນັ້ນແລະງຽບ...
+
+539
+00:35:57,950 --> 00:36:00,050
+[LINDSEY]
+NO!!  Now be logical, Bud, you're--
+ບໍ່!! ດຽວນີ້ເປັນຄວາມສົມເຫດສົມຜົນ, ບາດ, ເຈົ້າແມ່ນ -
+
+540
+00:36:00,550 --> 00:36:06,550
+[FUCK LOGIC!!]
+They're both right up against the ceiling, water up to their chests. Lindsey's lips are blue and trembling from the cold.
+ພວກເຂົາທັງສອງຢູ່ເທິງຊັ້ນເທິງ, ນ້ ໍາ ເຖິງທ້ອງຂອງພວກເຂົາ
+. ປາກຂອງລິນດຊີແມ່ນສີຟ້າແລະສັ່ນສະເທືອນຈາກຄວາມເຢັນ.
+
+541
+00:36:07,050 --> 00:36:13,050
+[LINDSEY]
+Listen... will you listen to me for a second!? You're for the suit on and you're a better swimmer than me.  Right?  So I got a plan...
+ຟັງ... ເຈົ້າຈະຟັງຂ້ອຍເປັນວິນາທີບໍ!? ເຈົ້າມັກຊຸດໃສ່ແລະເຈົ້າເປັນນັກລອຍນ້
+ໍາ ທີ່ດີກວ່າຂ້ອຍ. ແມ່ນບໍ? ສະນັ້ນຂ້ອຍມີແຜນການ...
+
+542
+00:36:13,550 --> 00:36:15,550
+[BUD]
+What's the plan?
+ແຜນການແມ່ນຫຍັງ?
+
+543
+00:36:16,050 --> 00:36:19,200
+[LINDSEY]
+I drown, you tow me back to the rig--
+ຂ້ອຍຈົມນ້ ໍາ, ເຈົ້າດຶງຂ້ອຍກັບຄືນໄປບ່ອນເຄື່ອງຈັກ -
+
+544
+00:36:19,700 --> 00:36:25,700
+[WHAT KIND OF PLAN IS THAT!??]
+Lindsey's gut-scared... shaking violently, her eyes wide.  But she's keeping it together.  Thinking it out.  Bud see the bottomless pit opening to take her and he can barely think.
+ລິນດຊີຢ້ານກົວທ້ອງ... ສັ່ນສະເທືອນຢ່າງຮຸນແຮງ, ຕາຂອງນາງກວ້າງຂວາງ. ແຕ່ນາງ ກໍາ ລັງຮັກສາມັນໄວ້ພ້ອມກັນ
+. ຄິດມັນອອກ. ບາດເຫັນຮູທີ່ບໍ່ມີລຸ່ມເປີດເພື່ອເອົານາງແລະລາວເກືອບບໍ່ສາມາດຄິດໄດ້.
+
+545
+00:36:26,200 --> 00:36:32,200
+[LINDSEY]
+Look, this water is only a couple degrees above freezing.  I drown.  I go into deep hypothermia... my blood like icewater.  I can maybe be revived after ten, fifteen minutes.  You got all the stuff to do it on the rig.
+ເບິ່ງ, ນ້ ໍາ ນີ້ພຽງແຕ່ສອງສາມລະດັບສູງກວ່າຄວາມເຢັນ. ຂ້ອຍຈົມນ້ ໍາ. ຂ້ອຍເຂົ້າໄປໃນ hypothermia ເລິກເຊິ່ງ...
+ເລືອດຂອງຂ້ອຍຄືກັບນ້ ໍາ ກ້ອນ. ຂ້ອຍອາດຈະຖືກຟື້ນຟູພາຍຫຼັງສິບ, ສິບຫ້ານາທີ. ເຈົ້າມີທຸກສິ່ງທຸກຢ່າງທີ່ຈະເຮັດມັນໃນເຄື່ອງຈັກ.
+
+546
+00:36:32,700 --> 00:36:34,700
+[BUD]
+It is insane.
+ມັນໂຊກຮ້າຍ.
+
+547
+00:36:35,200 --> 00:36:38,000
+[LINDSEY]
+It's the only way, Bud.  Now trust me.
+ມັນເປັນວິທີດຽວ, ບາດ. ດຽວນີ້ເຊື່ອຂ້ອຍ.
+
+548
+00:36:38,500 --> 00:36:40,950
+[BUD]
+Jesus, I don't believe this is happening.
+ພຣະເຢຊູ, ຂ້ອຍບໍ່ເຊື່ອວ່າສິ່ງນີ້ ກໍາ ລັງເກີດຂຶ້ນ.
+
+549
+00:36:41,450 --> 00:36:43,450
+[BUD]
+Oh God, Lins... I--
+ໂອ້ ພຣະເຈົ້າ, ລິນສ໌... ຂ້ອຍ...
+
+550
+00:36:43,950 --> 00:36:45,950
+[LINDSEY]
+Tell me later.
+ບອກຂ້ອຍຕໍ່ມາ.
+
+551
+00:36:46,450 --> 00:36:49,950
+[LINDSEY]
+This is maybe not such a great plan, is it?
+ນີ້ແມ່ນບາງທີບໍ່ແມ່ນແຜນທີ່ຍິ່ງໃຫຍ່ຫຼາຍ, ແມ່ນບໍ?
+
+552
+00:36:50,450 --> 00:36:53,250
+[LINDSEY]
+Hold me.  Hold me, Bud... I'm so scared...
+ຖືຂ້ອຍ. ຖືຂ້ອຍ, ບາດ... ຂ້ອຍຢ້ານຫຼາຍ...
+
+553
+00:36:53,750 --> 00:36:59,350
+[NOOOOO!!!]
+The freezing seawater races into her lungs.  Her finger go slack, and her hands float lifelessly.
+ນ້ ໍາ ທະເລທີ່ເຢັນແລ່ນເຂົ້າໄປໃນປອດຂອງນາງ.
+ນິ້ວມືຂອງນາງກາຍເປັນອ່ອນແອ, ແລະມືຂອງລາວລອຍບໍ່ມີຊີວິດ.
+
+554
+00:36:59,850 --> 00:37:01,850
+[HIPPY]
+Read you, Bud.  We're here.
+ອ່ານເຈົ້າ, ບາດ. ພວກເຮົາຢູ່ບ່ອນນີ້.
+
+555
+00:37:02,350 --> 00:37:08,350
+[BUD]
+Go to the infirmary... get the cart .. oxygen... de-fib kit... adrenaline in a... ten cc syringe... and some... heating blankets. You got all that?
+ໄປໂຮງຫມໍປິ່ນປົວ... ເອົາກະຕູ້.. ອົກຊີເຈນ... ຊຸດ de-fib... ອາເດຣນາລິນໃນ
+... ສີດສິບ cc... ແລະບາງ... ຜ້າຜ້າອົບອຸ່ນ. ເຈົ້າມີທັງ ຫມົດ ນັ້ນບໍ?
+
+556
+00:37:08,850 --> 00:37:10,850
+[HIPPY]
+Got it. Over.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ຫມົດແລ້ວ.
+
+557
+00:37:11,350 --> 00:37:13,800
+[BUD]
+Meet me in the moonpool.  Move fast.
+ພົບຂ້ອຍໃນສະລອຍນ້ ໍາ ດວງຈັນ. ຍ້າຍໄວ.
+
+558
+00:37:14,300 --> 00:37:16,300
+[SONNY]
+Here he comes!
+ລາວມາແລ້ວ!
+
+559
+00:37:16,800 --> 00:37:18,800
+[BUD]
+Turn her over!
+ຫັນນາງໄປ!
+
+560
+00:37:19,300 --> 00:37:21,400
+[BUD]
+Come on, hurry!  Gimme the de-fib...
+ມາແລ້ວ, ໄວ! ໃຫ້ຂ້ອຍ de-fib...
+
+561
+00:37:21,900 --> 00:37:26,450
+[CATFISH]
+Here, here, here... no, you got to have bare skin, or it won't...
+ນີ້, ນີ້, ນີ້ແມ່ນ... ບໍ່, ເຈົ້າຕ້ອງມີຜິວຫນັງເປົ່າ, ຫຼືມັນຈະບໍ່...
+
+562
+00:37:26,950 --> 00:37:31,500
+[BUD]
+Jesus.  Gimme those, come on.  Catfish, move it, man!  Come on... come on!
+ພຣະເຢຊູ. ໃຫ້ຂ້ອຍພວກນັ້ນ, ມາ. ປາແຄຕ໌, ຍ້າຍໄປ, ຜູ້ຊາຍ! ມາ... ມາ!
+
+563
+00:37:32,000 --> 00:37:34,100
+[BUD]
+Is that it?  Is this right?
+ນັ້ນແມ່ນມັນບໍ? ນີ້ແມ່ນຖືກຕ້ອງບໍ?
+
+564
+00:37:34,600 --> 00:37:37,750
+[HIPPY]
+Yeah!  I mean, I don't know... it looks right.
+ແມ່ນແລ້ວ! ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍບໍ່ຮູ້... ມັນເບິ່ງຄືວ່າຖືກຕ້ອງ.
+
+565
+00:37:38,250 --> 00:37:40,250
+[BUD]
+All right.  Do it!
+ດີແລ້ວ. ເຮັດມັນ!
+
+566
+00:37:40,750 --> 00:37:43,550
+[BUD]
+Do it again, One Night.  Zap her again!
+ເຮັດມັນອີກຄັ້ງ, One Night. Zap ນາງອີກຄັ້ງ!
+
+567
+00:37:44,050 --> 00:37:47,200
+[BUD]
+Aw.  Christ... come on, baby.  Again!  Do it again!
+ໂອ້ ພຣະຄຣິດ... ມາແມ. ອີກເທື່ອຫນຶ່ງ! ເຮັດມັນອີກຄັ້ງ!
+
+568
+00:37:47,700 --> 00:37:50,850
+[BUD]
+Come on, One Night... what are you waiting for?
+ມາແລ້ວ, ຄືນຫນຶ່ງ... ເຈົ້າລໍຖ້າຫຍັງຢູ່?
+
+569
+00:37:51,350 --> 00:37:53,450
+[CATFISH]
+Bud, it's over, man.  It's over.
+ບາດ, ມັນຫມົດແລ້ວ, ຜູ້ຊາຍ. ມັນ ຫມົດແລ້ວ.
+
+570
+00:37:53,950 --> 00:37:59,950
+[BUD]
+No!  NO!  She's not... her heart is strong, she wants to live... can't you see that?  Come on, Lins.  Come on, baby!  Zap her again!  Do it... DO IT!
+ບໍ່! ບໍ່! ນາງບໍ່ແມ່ນ... ຫົວໃຈຂອງນາງແຂງແຮງ, ນາງຢາກດໍາລົງຊີວິດ...
+ເຈົ້າບໍ່ເຫັນມັນບໍ? ມາ, ລິນສ໌. ມາ, ແມ! ປັບນາງອີກຄັ້ງ! ເຮັດມັນ... ເຮັດມັນ!
+
+571
+00:38:00,450 --> 00:38:06,400
+[BUD]
+Come on, breath!  Goddamn it, you bitch, you never backed down from anything in life... now fight!
+ມາແລ້ວ, ຫາຍໃຈ! ສະບາຍດີ, ເຈົ້າແຊກແຊງ,
+ເຈົ້າບໍ່ເຄີຍຖອຍຫຼັງຈາກຫຍັງເລີຍໃນຊີວິດ... ດຽວນີ້ຕໍ່ສູ້!
+
+572
+00:38:06,900 --> 00:38:08,900
+[BUD]
+Fight, Goddamnit!
+ຕໍ່ສູ້, ສະຫວັນນະເຂດ!
+
+573
+00:38:09,400 --> 00:38:15,400
+[FIGHT!!]
+TIGHT ON LINDSEY, still.  Then something incredible happens.  Something they will never forget as long as they live.  Lindsey coughs once, weakly, and her hands clench in a spasm.
+ແຫນ້ນແຫນ້ນຕໍ່ລິນດຊີ, ຍັງ. ຫຼັງຈາກນັ້ນບາງສິ່ງບາງຢ່າງທີ່ຍິ່ງໃຫຍ່ເກີດຂຶ້ນ. ບາງສິ່ງບາງ
+ຢ່າງທີ່ພວກເຂົາຈະບໍ່ລືມຕະຫຼອດເວລາທີ່ພວກເຂົາດໍາລົງຊີວິດ. ລີນດຊີ咳一次, weakly, ແລະມືຂອງນາງ clench ໃນ spasm ໄດ້.
+
+574
+00:38:15,900 --> 00:38:20,100
+[BUD]
+Come on, Lins.  You can do it... fight your way back, baby...
+ມາແລ້ວ, ລິນສ໌. ເຈົ້າສາມາດເຮັດໄດ້... ຕໍ່ສູ້ກັບຄືນໄປບ່ອນ, ແມ...
+
+575
+00:38:20,600 --> 00:38:22,600
+[BUD]
+You did it, ace.
+ເຈົ້າເຮັດແລ້ວ, ເອສ.
+
+576
+00:38:23,100 --> 00:38:25,200
+[LINDSEY]
+Hey... big boys don't cry, remember?
+ເຮ້... ເດັກຊາຍໃຫຍ່ບໍ່ຮ້ອງໄຫ້, ຈື່ບໍ?
+
+577
+00:38:25,700 --> 00:38:27,700
+[BUD]
+Hi, lady.
+ຮັສຕາ ລາວິສຕາ, ເບບີ້່ຍິງ.
+
+578
+00:38:28,200 --> 00:38:31,000
+[LINDSEY]
+Hi, tough guy.  I guess it worked, huh?
+ສະບາຍດີ, ຜູ້ຊາຍແຂງແຮງ. ຂ້ອຍຄິດວ່າມັນເຮັດວຽກໄດ້, ແມ່ນບໍ?
+
+579
+00:38:31,500 --> 00:38:35,350
+[BUD]
+'Course is worked.  You're never wrong, are you? How d'you feel.
+ເຈົ້າບໍ່ເຄີຍຜິດເລີຍ, ແມ່ນບໍ? ເຈົ້າຮູ້ສຶກແນວໃດ.
+
+580
+00:38:35,850 --> 00:38:39,000
+[LINDSEY]
+I've been better.  Next time it's your turn, okay?
+ຂ້ອຍດີກວ່າເກົ່າ. ໃນຄັ້ງຕໍ່ໄປມັນເປັນເວລາຂອງເຈົ້າ, ດີບໍ?
+
+581
+00:38:39,500 --> 00:38:41,500
+[BUD]
+Well, you got that right.
+ດີ, ເຈົ້າເວົ້າຖືກຕ້ອງ.
+
+582
+00:38:42,000 --> 00:38:44,000
+[LINDSEY]
+No, Bud, no... not you.
+ບໍ່, ບາດ, ບໍ່... ບໍ່ແມ່ນເຈົ້າ.
+
+583
+00:38:44,500 --> 00:38:46,500
+[BUD]
+Who then?
+ຫຼັງຈາກນັ້ນໃຜ?
+
+584
+00:38:47,000 --> 00:38:51,550
+[MONK]
+The fluid prevents your larynx from making sound.  It'll feel a little strange.
+ນ້ ໍາ ມັນປ້ອງກັນທ້ອງທ້ອງຂອງທ່ານບໍ່ໃຫ້ສຽງອອກ
+. ມັນຈະຮູ້ສຶກແປກໃຈເລັກນ້ອຍ.
+
+585
+00:38:52,050 --> 00:38:54,050
+[BUD]
+Okay.  Let's rock and roll.
+ດີແລ້ວ. ມາຫີນແລະລໍລ໌.
+
+586
+00:38:54,550 --> 00:39:00,550
+[MONK]
+Relax now, Bud.  Just keep breathing as it fills... don't fight it.  Take it in.  Just let yourself take it in.
+ສະບາຍໃຈດຽວນີ້, ບາດ. ພຽງແຕ່ສືບຕໍ່ຫາຍໃຈໃນຂະນະທີ່ມັນເຕັມໄປ...
+ຢ່າຕໍ່ສູ້ກັບມັນ. ເອົາມັນເຂົ້າໄປໃນ. ພຽງແຕ່ວາງຕົວເອງເອົາມັນເຂົ້າໃນ.
+
+587
+00:39:01,050 --> 00:39:07,050
+[MONK]
+Hold him.  Hold him.  This is normal... it'll pass in a second.  You're gonna be okay.  We all breathe liquid for nine months, Bud.  Your body will remember.
+ຈັບລາວໄວ້. ຈັບເຂົາໄວ້. ນີ້ແມ່ນປົກກະຕິ... ມັນຈະຜ່ານໄປໃນວິນາທີຫນຶ່ງ. ເຈົ້າຈະດີດີ
+. ພວກເຮົາທຸກຄົນຫາຍໃຈແຫຼວເປັນເວລາເກົ້າເດືອນ, ບາດ. ຮ່າງກາຍຂອງທ່ານຈະຈື່ໄວ້.
+
+588
+00:39:07,550 --> 00:39:10,350
+[LINDSEY]
+Can you hear me okay?  Try your keypad.
+ເຈົ້າໄດ້ຍິນຂ້ອຍໄດ້ບໍ? ພະຍາຍາມກະດານແປ້ນພິມຂອງທ່ານ.
+
+589
+00:39:10,850 --> 00:39:12,850
+[LINDSEY]
+I already have, moron.
+ຂ້ອຍເຮັດແລ້ວ, ຄົນໂຊກຮ້າຍ.
+
+590
+00:39:13,350 --> 00:39:19,350
+[HIPPY]
+I redid Little Geek's chip the same as Big Geek! He should take you right to it.  All you gotta do is hang on!
+ຂ້ອຍໄດ້ເຮັດຊິບຂອງຈິກນ້ອຍຄືກັນກັບຈິກໃຫຍ່!
+ລາວຄວນພາເຈົ້າໄປຫາມັນໂດຍກົງ. ເຈົ້າພຽງແຕ່ຕ້ອງເຮັດແມ່ນລໍຖ້າ!
+
+591
+00:39:19,850 --> 00:39:24,750
+[LINDSEY]
+We're right here with you, Bud.  Your depth is 3800 feet.  You're doing fine.
+ພວກເຮົາຢູ່ບ່ອນນີ້ກັບເຈົ້າ, ບາດ.
+ຄວາມເລິກຂອງທ່ານແມ່ນ 3800 ຟຸດ. ເຈົ້າເຮັດໄດ້ດີ.
+
+592
+00:39:25,250 --> 00:39:27,250
+[MONK]
+4800 feet.  It's official.
+4800 ຟຸດ. ມັນເປັນທາງການ.
+
+593
+00:39:27,750 --> 00:39:33,750
+[LINDSEY]
+Bud, according to Monk here, you just set a record for the deepest suit dive.  Bet you didn't think you'd be doing this when you got up this morning.
+ບາດ, ອີງຕາມໂມນກ໌ຢູ່ນີ້, ເຈົ້າຫາກໍ່ສ້າງບັນທຶກ ສໍາ ລັບການຖິ້ມຊຸດທີ່ເລິກທີ່ສຸດ
+. ຂ້ອຍແນ່ໃຈວ່າເຈົ້າບໍ່ຄິດວ່າເຈົ້າຈະເຮັດສິ່ງນີ້ເມື່ອເຈົ້າຕື່ນໃນຕອນເຊົ້ານີ້.
+
+594
+00:39:34,250 --> 00:39:36,350
+[HIPPY]
+One mile down and still grinnin'.
+ຫນຶ່ງ ໄມລ໌ລົງແລະຍັງມ່ວນຊື່ນ.
+
+595
+00:39:36,850 --> 00:39:38,850
+[LINDSEY]
+8500 feet, Bud.  Everything okay?
+8500 ຟຸດ, ບາດ. ທຸກຢ່າງດີບໍ?
+
+596
+00:39:39,350 --> 00:39:42,500
+[MONK]
+Ask him a pressure effects.  Tremors, vision problems, euphoria.
+ຖາມລາວຜົນກະທົບຄວາມກົດດັນ.
+ຄວາມສັ່ນສະເທືອນ, ບັນຫາຄວາມເຫັນ, ຄວາມສຸກ.
+
+597
+00:39:43,000 --> 00:39:45,800
+[LINDSEY]
+Ensign Monk want to know how you feel.
+ພົນຈັດຕະວາ Monk ຢາກຮູ້ວ່າເຈົ້າຮູ້ສຶກແນວໃດ.
+
+598
+00:39:46,300 --> 00:39:48,300
+[LINDSEY]
+Big baby.
+ເດັກນ້ອຍໃຫຍ່.
+
+599
+00:39:48,800 --> 00:39:51,600
+[MONK]
+It's starting.  It hits the nervous system first.
+ມັນ ກໍາ ລັງເລີ່ມຕົ້ນ. ມັນຕີລະບົບປະສາດກ່ອນ.
+
+600
+00:39:52,100 --> 00:39:58,100
+[LINDSEY]
+Don't forget Bud, you're being graded on spelling as well as sentence structure, so concentrate, okay?  Bud, I... uh, there's some things I want to say. It's hard for me.  I'm not of those softy, gooey- center-type people.  It's not easy, you know, being a cast-iron bitch.  It takes discipline and years of training.  A lot of people don't appreciate that.
+ຢ່າລືມບູດ, ເຈົ້າ ກໍາ ລັງຖືກປະເມີນກ່ຽວກັບການຂຽນເປັນພາສາພ້ອມທັງໂຄງສ້າງປະໂຫຍກ, ສະນັ້ນສຸມໃສ່, ດີບໍ? ບູດ, ຂ້ອຍ... ອູ, ມີບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍຢາກເວົ້າ. ມັນຍາກ ສໍາ ລັບຂ້ອຍ
+. ຂ້ອຍບໍ່ແມ່ນຄົນປະເພດສູນທີ່ອ່ອນແອ, gooey ນັ້ນ. ມັນບໍ່ງ່າຍ, ເຈົ້າຮູ້ແລ້ວ, ເປັນຢອກຊື່ໆ ແຊ. ມັນຕ້ອງມີການຄວບຄຸມແລະການຝຶກອົບຮົມຫຼາຍປີ. ຄົນຫຼາຍຄົນບໍ່ຍ້ອງຍໍສິ່ງນັ້ນ.
+
+601
+00:39:58,600 --> 00:40:04,600
+[LINDSEY]
+But is wasn't all bad.  I know that.  You remember that bike trip... we rode the Honda up through Oregon?  It took me a week to get my hair untangled, but I've never been happier.  It was the most... free... I've ever felt.  I'm sorry I can't tell you these things to your face.
+ແຕ່ມັນບໍ່ແມ່ນເລື່ອງຮ້າຍແຮງທັງ ຫມົດ. ຂ້ອຍຮູ້ແລ້ວ. ເຈົ້າຈື່ການເດີນທາງລົດຖີບນັ້ນບໍ... ພວກເຮົາຂີ່ລົດໂຮນດາຂຶ້ນຜ່ານໂອເຣແກນບໍ? ມັນໃຊ້ເວລາຂ້ອຍ ຫນຶ່ງ ອາທິດເພື່ອເຮັດໃຫ້ຜົມຂອງຂ້ອຍບໍ່ສັບສົນ
+, ແຕ່ຂ້ອຍບໍ່ເຄີຍມີຄວາມສຸກຫຼາຍຂຶ້ນ. ມັນແມ່ນຫຼາຍທີ່ສຸດ... ຟຣີ... ຂ້ອຍເຄີຍຮູ້ສຶກ. ຂ້ອຍຂໍໂທດຂ້ອຍບໍ່ສາມາດບອກສິ່ງເຫຼົ່ານີ້ໃຫ້ເຈົ້າໃນໃບຫນ້າຂອງທ່ານໄດ້.
+
+602
+00:40:05,100 --> 00:40:09,650
+[HIPPY]
+Two miles down and still grinnin'  Comin' up on the big ten thou'.
+ສອງແມລລົງແລະຍັງມ່ວນຊື່ນ ກໍາ ລັງຂຶ້ນເທິງສິບພັນໃຫຍ່.
+
+603
+00:40:10,150 --> 00:40:13,300
+[HIPPY]
+12000 feet.  Jesus, I don't believe he's doing this.
+12000 ຟຸດ. ພຣະເຢຊູ, ຂ້ອຍບໍ່ເຊື່ອວ່າລາວ ກໍາ ລັງເຮັດສິ່ງນີ້.
+
+604
+00:40:13,800 --> 00:40:16,250
+[LINDSEY]
+Shut up, Hippy.  Bud, how you doing?
+ປິດງຽບ, ຮິບປີ. ບາດ, ເຈົ້າເປັນແນວໃດ?
+
+605
+00:40:16,750 --> 00:40:18,750
+[HIPPY]
+Uh, oh...
+ໂອ້, ໂອ້...
+
+606
+00:40:19,250 --> 00:40:21,350
+[LINDSEY]
+What kind of luminous things, Bud?
+ສິ່ງແສງສະຫວ່າງປະເພດໃດ, ບາດ?
+
+607
+00:40:21,850 --> 00:40:23,850
+[CATFISH]
+Maybe it's... you know... them.
+ບາງທີມັນແມ່ນ... ເຈົ້າຮູ້ແລ້ວ... ພວກເຂົາ.
+
+608
+00:40:24,350 --> 00:40:27,850
+[MONK]
+He's losing it.  Talk to him.  Keep him with us.
+ລາວ ກໍາ ລັງສູນເສຍມັນ. ເວົ້າກັບລາວ. ຮັກສາລາວຢູ່ກັບພວກເຮົາ.
+
+609
+00:40:28,350 --> 00:40:33,950
+[LINDSEY]
+Bud, it's the pressure.  Try to concentrate. Concentrate on my voice.  Just listen to my voice.
+ບາດ, ມັນແມ່ນຄວາມກົດດັນ. ພະຍາຍາມສຸມໃສ່.
+ສຸມໃສ່ສຽງຂອງຂ້ອຍ. ພຽງແຕ່ຟັງສຽງຂອງຂ້ອຍເທົ່ານັ້ນ.
+
+610
+00:40:34,450 --> 00:40:40,450
+[LINDSEY]
+I'm not going away, Bud.  I'm right here, right here with you.  This is Lindsey, Bud.  I'm right here.
+ຂ້ອຍຈະບໍ່ໄປ, ບາດ. ຂ້ອຍຢູ່ບ່ອນນີ້, ຢູ່ບ່ອນນີ້ກັບເຈົ້າ
+. ນີ້ແມ່ນລິນດຊີ, ບັດ. ຂ້ອຍຢູ່ໃນບ່ອນນີ້.
+
+611
+00:40:40,950 --> 00:40:45,500
+[HIPPY]
+We're losing juice... kill everything we don't need.  Catfish, knock out those lights.
+ພວກເຮົາ ກໍາ ລັງສູນເສຍນ້ ໍາ ມັນ...
+ຂ້າທຸກຢ່າງທີ່ພວກເຮົາບໍ່ຕ້ອງການ. ປາແຄຕ໌, ປິດແສງໄຟນັ້ນ.
+
+612
+00:40:46,000 --> 00:40:49,150
+[CATFISH]
+Seventeen thousand feet.  Good Christ Almighty, this is insane.
+ສິບເຈັດພັນຕີນ. ພຣະຄຣິດເຈົ້າຜູ້ມີອໍານາດສູງສຸດ, ນີ້ແມ່ນໂຊກຮ້າຍ.
+
+613
+00:40:49,650 --> 00:40:51,650
+[HIPPY]
+Bye, little buddy.
+ສະບາຍດີ, ເພື່ອນນ້ອຍ.
+
+614
+00:40:52,150 --> 00:40:54,150
+[MONK]
+He can still make it.
+ລາວຍັງສາມາດເຮັດໄດ້.
+
+615
+00:40:54,650 --> 00:41:00,650
+[LINDSEY]
+I know how alone you feel... alone in all that cold blackness... but I'm there in the dark with you, Bud you're not alone...
+ຂ້ອຍຮູ້ວ່າເຈົ້າຮູ້ສຶກຄົນດຽວຫຼາຍປານໃດ... ຄົນດຽວໃນຄວາມສີດໍາທີ່ເຢັນທັງ ຫມົດ
+ນັ້ນ... ແຕ່ຂ້ອຍຢູ່ບ່ອນນັ້ນໃນຄວາມມືດກັບເຈົ້າ, ບາດເຈົ້າບໍ່ແມ່ນຄົນດຽວ...
+
+616
+00:41:01,150 --> 00:41:07,150
+[LINDSEY]
+You remember that time, you were pretty drunk, you probably don't remember... the power went out at the old apartment, the one on Orange Street... and we were staring at that one little candle, and I said something really dumb like that candle is me, like every one of us is out there alone in the dark in this life...
+ເຈົ້າຈື່ເວລານັ້ນ, ເຈົ້າດື່ມຫຼາຍ, ເຈົ້າອາດຈະບໍ່ຈື່... ພະລັງງານໄດ້ປິດຢູ່ອາພາດເມັນເກົ່າ, ຄົນໃນຖະຫນົນໂອຣັງຈ໌... ແລະພວກເຮົາ ກໍາ ລັງເບິ່ງແສງສະຫວ່າງນ້ອຍດຽວນັ້ນ
+, ແລະຂ້ອຍເວົ້າວ່າບາງສິ່ງບາງຢ່າງທີ່ໂງ່ແທ້ໆຄືກັບແມງສະຫວ່າງນັ້ນແມ່ນຂ້ອຍ, ຄືກັບວ່າພວກເຮົາທຸກຄົນຢູ່ບ່ອນນັ້ນຄົນດຽວໃນຄວາມມືດໃນຊີວິດນີ້...
+
+617
+00:41:07,650 --> 00:41:13,650
+[LINDSEY]
+... and you lit another candle and put it beside mine and said "that's me"... and we stared at the two candles, and then we... well, if you remember any of it, I'm sure you remember the next part.  Bud, there are two candles in the dark.  I'm with you.  I'll always be with you.
+ແລະເຈົ້າເຮັດໃຫ້ແສງສະຫວ່າງອີກຫນຶ່ງແລະວາງມັນຢູ່ຂ້າງຂອງຂ້ອຍແລະເວົ້າວ່າ" ນັ້ນແມ່ນຂ້ອຍ"... ແລະພວກເຮົາເບິ່ງແມງໄມ້ສອງຢ່າງ, ແລະຫຼັງຈາກນັ້ນພວກເຮົາ... ດີ
+, ຖ້າເຈົ້າຈື່ບາງສິ່ງບາງຢ່າງຂອງມັນ, ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຈົດຈໍາສ່ວນຕໍ່ໄປ. ບາດ, ມີແສງໄຟສອງຢ່າງໃນຄວາມມືດ. ຂ້ອຍຢູ່ກັບເຈົ້າ. ຂ້ອຍຈະຢູ່ជាមួយເຈົ້າຕະຫຼອດໄປ.
+
+618
+00:41:14,150 --> 00:41:18,700
+[CATFISH]
+How you doin', podner?  Still with us, come-back? Talk to us, Buddy boy.
+ເຈົ້າເປັນແນວໃດ, ໂປດເນີ? ຍັງຢູ່ກັບພວກເຮົາ
+, ກັບມາ? ສົນທະນາກັບພວກເຮົາ, ເດັກຊາຍບາດດີ.
+
+619
+00:41:19,200 --> 00:41:23,400
+[LINDSEY]
+Bud?  You hangin' in there?  Talk to me, Bud. Are you okay?
+ບາດ? ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ? ເວົ້າກັບຂ້ອຍ, ບາດ. ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+620
+00:41:23,900 --> 00:41:25,900
+[LINDSEY]
+What kind of light?
+ແສງສະຫວ່າງໃດ?
+
+621
+00:41:26,400 --> 00:41:28,400
+[MONK]
+He's hallucinating badly.
+ລາວ ກໍາ ລັງໂຊກຮ້າຍຢ່າງຮ້າຍແຮງ.
+
+622
+00:41:28,900 --> 00:41:34,150
+[MONK]
+Okay, Bud, we'll go step by step.  Take the cover plate off the firing box.
+ດີແລ້ວ, ບາດ, ພວກເຮົາຈະໄປຂັ້ນຕອນຕໍ່ຂັ້ນຕອນ
+. ເອົາແຜ່ນປົກຫຸ້ມຈາກກ່ອງຍິງ.
+
+623
+00:41:34,650 --> 00:41:39,550
+[MONK]
+All right, Bud, you have to cut the ground wire, not the lead wire...
+ດີແລ້ວ, ບາດ, ເຈົ້າຕ້ອງຕັດສາຍດິນ, ບໍ່ແມ່ນສາຍນໍາ...
+
+624
+00:41:40,050 --> 00:41:46,050
+[MONK]
+It's the blue wire with the white stripe, not... I repeat... NOT the black wire with the yellow stripe.
+ມັນເປັນສາຍສີຟ້າທີ່ມີສາຍສີຂາວ, ບໍ່ແມ່ນ...
+ຂ້ອຍຊໍ້າອີກ... ບໍ່ແມ່ນສາຍສີ ດໍາ ທີ່ມີສາຍສີເຫຼືອງ.
+
+625
+00:41:46,550 --> 00:41:48,550
+[LINDSEY]
+Would we see the flash?
+ພວກເຮົາຈະເຫັນແສງສະຫວ່າງບໍ?
+
+626
+00:41:49,050 --> 00:41:51,850
+[MONK]
+Through three miles of water?   I don't know.
+ຜ່ານນໍ້າສາມແມລບໍ? ຂ້ອຍບໍ່ຮູ້.
+
+627
+00:41:52,350 --> 00:41:54,450
+[CATFISH]
+Quiet, quiet!  Save you air, goddamnit.
+ງຽບ, ງຽບ! ປະຢັດອາກາດໃຫ້ເຈົ້າ, ສະບາຍດີ.
+
+628
+00:41:54,950 --> 00:41:58,450
+[MONK]
+Bud, give me a reading off you liquid oxygen gauge.
+ບາດ, ໃຫ້ຂ້ອຍອ່ານຈາກເຄື່ອງວັດແທກອົກຊີເຈນແຫຼວຂອງທ່ານ.
+
+629
+00:41:58,950 --> 00:42:02,450
+[HIPPY]
+It took him over an hour to get down there--
+ມັນໃຊ້ເວລາລາວຫຼາຍກວ່າ ຫນຶ່ງ ຊົ່ວໂມງເພື່ອລົງໄປບ່ອນນັ້ນ -
+
+630
+00:42:02,950 --> 00:42:07,150
+[LINDSEY]
+Drop you weights and start back now!  The gauge could be wrong...
+ຫຼຸດນ້ ໍາ ຫນັກ ແລະເລີ່ມຕົ້ນຄືນດຽວນີ້! ເຄື່ອງວັດແທກອາດຈະຜິດ...
+
+631
+00:42:07,650 --> 00:42:13,650
+[LINDSEY]
+No!  You can make it!  You hear me?  Drop your weights... you... can breathe shallow... you... it could be wrong--
+ບໍ່! ເຈົ້າສາມາດເຮັດໄດ້! ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ? ຫຼຸດນ້ ໍາ ຫນັກ ຂອງທ່ານລົງ
+... ເຈົ້າ... ສາມາດຫາຍໃຈເລິກເຊິ່ງໄດ້... ເຈົ້າ... ມັນອາດຈະຜິດພາດ -
+
+632
+00:42:14,150 --> 00:42:16,150
+[LINDSEY]
+Oh God, Virgil, please...
+ໂອ້ ພຣະເຈົ້າ, ເວີຈິລ, ກະລຸນາ...
+
+633
+00:42:16,650 --> 00:42:18,650
+[LINDSEY]
+Love you.
+ຂ້ອຍຮັກເຈົ້າ.
+
+634
+00:42:19,150 --> 00:42:21,250
+[BUD]
+Howdy, Uuuh... how you guys doin'?
+ສະບາຍດີ, ອູອູ... ເຈົ້າເປັນແນວໃດ?
+
+635
+00:42:21,750 --> 00:42:27,750
+[BUD]
+You watch out TV?  That what you're trying to say?  That you know what's been going on up there?
+ເຈົ້າລະວັງໂທລະພາບບໍ? ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າພະຍາຍາມເວົ້າບໍ
+? ວ່າເຈົ້າຮູ້ວ່າເກີດຫຍັງຂຶ້ນຢູ່ເທິງນັ້ນບໍ?
+
+636
+00:42:28,250 --> 00:42:34,250
+[REPORTER]
+... a Caltech scientist who is among those reporting an unprecedented disturbance in the world's oceans.  Dr. Breg, can you give us a clearer explanation then we're getting?
+... ນັກວິທະຍາສາດຄາລເທັກເຊິ່ງຢູ່ໃນບັນດາຜູ້ທີ່ລາຍງານການລົບກວນທີ່ບໍ່ເຄີຍມີມາກ່ອນໃນມະຫາສະຫມຸດຂອງໂລກ
+. ດຣ ບຣັກ, ເຈົ້າສາມາດໃຫ້ພວກເຮົາ ຄໍາ ອະທິບາຍທີ່ຊັດເຈນກວ່າທີ່ພວກເຮົາ ກໍາ ລັງໄດ້ຮັບບໍ?
+
+637
+00:42:34,750 --> 00:42:40,750
+[BERG]
+They're acoustic shockwaves, like tsunamis, but with no seismological source.  The waves are propagating toward the shorelines of every continent--
+ພວກມັນເປັນຄື້ນຟອງກະຕຸ້ນສຽງ, ຄືກັບສຸນາມິ, ແຕ່ບໍ່ມີແຫຼ່ງແຜ່ນດິນໄຫວ
+. ຄື້ນຟູ ກໍາ ລັງແຜ່ກະຈາຍໄປສູ່ແຄມຝັ່ງທະເລຂອງທຸກທະວີບ -
+
+638
+00:42:41,250 --> 00:42:47,250
+[BERG]
+Yeah.  I'll be right there... I have to go. Look, we don't know what it is!  Okay?  Not the slightest goddamn idea!
+ແມ່ນແລ້ວ. ຂ້ອຍຈະຢູ່ບ່ອນນັ້ນທັນທີ... ຂ້ອຍຕ້ອງໄປ. ເບິ່ງ,
+ພວກເຮົາບໍ່ຮູ້ວ່າມັນເປັນຫຍັງ! ດີບໍ? ບໍ່ແມ່ນຄວາມຄິດ ຫນ້ອຍ ທີ່ສຸດ!
+
+639
+00:42:47,750 --> 00:42:53,750
+[BUD]
+You're doing it!  Right?  That's what you're telling me.  Yeah, you can control water... that's your technology.  But why?
+ເຈົ້າ ກໍາ ລັງເຮັດມັນ! ແມ່ນບໍ? ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າ ກໍາ ລັງບອກຂ້ອຍ. ແມ່ນແລ້ວ
+, ເຈົ້າສາມາດຄວບຄຸມນ້ ໍາ ໄດ້... ນັ້ນແມ່ນເຕັກໂນໂລຢີຂອງທ່ານ. ແຕ່ເປັນຫຍັງ?
+
+640
+00:42:54,250 --> 00:43:00,250
+[BUD]
+Hey, you don't know they're really gonna do it. Where do you get off passing judgment on us, when you can't be sure?  How do you know?
+ເຮ້, ເຈົ້າບໍ່ຮູ້ວ່າພວກເຂົາຈະເຮັດມັນແທ້ໆ. ເຈົ້າຈະອອກຈາກການຕັດສິນໃຈພວກເຮົາຢູ່ໃສ
+, ເມື່ອເຈົ້າບໍ່ສາມາດແນ່ໃຈໄດ້ບໍ? ເຈົ້າຮູ້ແນວໃດ?
+
+641
+00:43:00,750 --> 00:43:06,750
+[REPORTER]
+The horizon has gone dark... the crowd is starting to run... some are just staring, unable to move... the wave... the wave is... it's... I don't know... maybe a thousand feet high already... getting bigger as I'm watching... still miles out... oh my God, Jesus... I can hear it...
+ທ້ອງຖິ່ນໄດ້ມືດລົງ... ຄົນຊົມເຊີຍ ກໍາ ລັງເລີ່ມແລ່ນ... ບາງຄົນພຽງແຕ່ເບິ່ງ, ບໍ່ສາມາດເຄື່ອນຍ້າຍໄດ້... ຄື້ນຟອງ... ຄວ້າແມ່ນ... ມັນ... ຂ້ອຍບໍ່ຮູ້...
+ບາງທີສູງເປັນພັນແມັດແລ້ວ... ກໍາ ລັງໃຫຍ່ຂຶ້ນໃນຂະນະທີ່ຂ້ອຍ ກໍາ ລັງເບິ່ງ... ຍັງຢູ່ຫ່າງໄກ... ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ, ພຣະເຢຊູ... ຂ້ອຍສາມາດຍິນມັນໄດ້...
+
+642
+00:43:07,250 --> 00:43:12,500
+[GUY]
+Somebody just laid it down to us, man.  Things ain't never gonna be the same!
+ບາງຄົນຫາກໍ່ວາງມັນໄວ້ໃຫ້ພວກເຮົາ,
+ຜູ້ຊາຍ. ສິ່ງຕ່າງໆຈະບໍ່ເປັນຄືກັນເລີຍ!
+
+643
+00:43:13,000 --> 00:43:15,800
+[BUD]
+Why?  You could've done it.  Why didn't you?
+ເປັນຫຍັງ? ເຈົ້າສາມາດເຮັດໄດ້. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຮັດ?
+
+644
+00:43:16,300 --> 00:43:19,450
+[MCBRIDE]
+Deepcore, do you read?  This is Benthic Explorer, over.
+Deepcore, ເຈົ້າອ່ານບໍ? ນີ້ແມ່ນນັກຄົ້ນຄວ້າແບນຕິກ, ສິ້ນສຸດລົງ.
+
+645
+00:43:19,950 --> 00:43:24,850
+[CATFISH]
+Hell yes, we read!  Good of you to join us.  How's that storm doin'?
+ແມ່ນແລ້ວ, ພວກເຮົາອ່ານ!
+ດີໃຈທີ່ເຈົ້າເຂົ້າຮ່ວມພວກເຮົາ. ພາຍຸນັ້ນເປັນແນວໃດ?
+
+646
+00:43:25,350 --> 00:43:31,350
+[MCBRIDE]
+Well, it's strange... it just kind've blew itself out all of the sudden.  We're up here in a flat sea with no wind.  But then a lot of weird things've been happening.
+ດີ, ມັນແປກໃຈ... ມັນພຽງແຕ່ບາງຢ່າງໄດ້ລະເບີດຕົວເອງຢ່າງກະທັນຫັນ.
+ພວກເຮົາຢູ່ເທິງນີ້ໃນທະເລທີ່ທຽບທຽບບໍ່ມີລົມ. ແຕ່ຫຼັງຈາກນັ້ນສິ່ງແປກຫຼາຍຢ່າງ ກໍາ ລັງເກີດຂຶ້ນ.
+
+647
+00:43:31,850 --> 00:43:37,450
+[CATFISH]
+Well, hell, son.  You better get us a line down here, we're in moderately poor shape.
+ດີ, ສະຫວັນນະເຂດ, ລູກຊາຍ. ເຈົ້າຄວນເອົາສາຍໃຫ້ພວກເຮົາຢູ່ບ່ອນນີ້
+, ພວກເຮົາຢູ່ໃນສະພາບທີ່ບໍ່ດີພໍສົມຄວນ.
+
+648
+00:43:37,950 --> 00:43:41,100
+[MCBRIDE]
+They figure is was over a half mile high.
+ພວກເຂົາຄິດວ່າມັນສູງກວ່າເຄິ່ງແມລ.
+
+649
+00:43:41,600 --> 00:43:43,600
+[MONK]
+That's impossible.
+ມັນບໍ່ສາມາດເຮັດໄດ້.
+
+650
+00:43:44,100 --> 00:43:46,100
+[LINDSEY]
+No it's not.
+ບໍ່ ມັນບໍ່ແມ່ນ.
+
+651
+00:43:46,600 --> 00:43:48,600
+[MCBRIDE]
+What's it say?
+ມັນຂຽນວ່າແນວໃດ?
+
+652
+00:43:49,100 --> 00:43:55,100
+[LINDSEY]
+It says... "VIRGIL BRIGMAN BACK ON THE AIR/HAVE SOME NEW FRIENDS DOWN HERE/I GUESS THEYVE BEEN HERE AWHILE/ THEYVE LEFT US ALONE BUT IT BOTHERS THEM TO SEE US HURTING EACH OTHER/GETTING OUT OF HAND LATELY"
+ມັນຂຽນວ່າ..."VIRGIL BRIGMAN ກັບຄືນໄປບ່ອນອາກາດ / ມີເພື່ອນໃຫມ່ບາງຄົນຢູ່ລຸ່ມນີ້ / ຂ້ອຍຄິດວ່າພວກເຂົາເຄີຍຢູ່ບ່ອນນີ້
+AWILE / ພວກເຂົາປ່ອຍພວກເຮົາຢູ່ຄົນດຽວແຕ່ມັນທັງສອງພວກເຂົາທີ່ຈະເຫັນພວກເຮົາເຮັດໃຫ້ເຈັບປວດກັນແລະກັນ / ອອກຈາກມືໃນຕອນທ້າຍ"
+
+653
+00:43:55,600 --> 00:43:58,050
+[CATFISH]
+I'd say that's a big 10-4, jack.
+ຂ້ອຍຈະເວົ້າວ່າ ນັ້ນແມ່ນ 10-4 ຂະຫນາດໃຫຍ່.
+
+654
+00:43:58,550 --> 00:44:01,700
+[MCBRIDE]
+Looks like you boys might by out of business.
+ເບິ່ງຄືວ່າເຈົ້າອາດຈະອອກຈາກທຸລະກິດ.
+
+655
+00:44:02,200 --> 00:44:05,700
+[BENDIX]
+Something's going on down there.  I'm getting some big readings....
+ບາງສິ່ງບາງຢ່າງ ກໍາ ລັງເກີດຂຶ້ນຢູ່ລຸ່ມນັ້ນ
+. ຂ້ອຍ ກໍາ ລັງອ່ານບາງຢ່າງທີ່ໃຫຍ່ຫຼວງ....
+
+656
+00:44:06,200 --> 00:44:10,750
+[BENDIX]
+Active is pinging back something big... it's enormous!  Coming up right under us.
+ການເຄື່ອນໄຫວ ກໍາ ລັງປິງກັບຄືນໄປບ່ອນບາງສິ່ງບາງຢ່າງທີ່ໃຫຍ່ຫຼວງ
+... ມັນໃຫຍ່ຫຼວງ! ມາຢູ່ພາຍໃຕ້ພວກເຮົາ.
+
+657
+00:44:11,250 --> 00:44:13,250
+[DEMARCO]
+Where?
+ຢູ່ໃສ?
+
+658
+00:44:13,750 --> 00:44:15,850
+[BENDIX]
+Where?  EVERYWHERE!!  Over there!  Port bow.
+ຢູ່ໃສ? ທຸກບ່ອນ!! ຢູ່ບ່ອນນັ້ນ! ກະດານທ່າເຮືອ.
+
+659
+00:44:16,350 --> 00:44:18,350
+[BENDIX]
+Look...
+ເບິ່ງ...
+
+660
+00:44:18,850 --> 00:44:21,300
+[LINDSEY]
+We should be dead.  We didn't decompress.
+ພວກເຮົາຄວນຕາຍແລ້ວ. ພວກເຮົາບໍ່ໄດ້ຫຼຸດຄວາມກົດດັນ.
+
+661
+00:44:21,800 --> 00:44:25,650
+[CATFISH]
+Out blood oughta be fizzin' like a warm, shook- up Coke.
+ເລືອດອອກຄວນສັ່ນສະເທືອນຄືກັບໂກກາທີ່ອົບອຸ່ນ, ສັ່ນສະ ເທືອນ.
+
+662
+00:44:26,150 --> 00:44:28,250
+[HIPPY]
+They must've done something to us.
+ພວກເຂົາຕ້ອງໄດ້ເຮັດບາງສິ່ງບາງຢ່າງກັບພວກເຮົາ.
+
+663
+00:44:28,750 --> 00:44:31,550
+[LINDSEY]
+Oh, yes.  I think you could say that.
+ໂອ້, ແມ່ນແລ້ວ. ຂ້ອຍຄິດວ່າເຈົ້າສາມາດເວົ້າແບບນັ້ນໄດ້.
+
+664
+00:44:32,050 --> 00:44:34,050
+[LINDSEY]
+Hello, Brigman.
+ສະບາຍດີ, ບຣິກແມນ.
+
+665
+00:44:34,550 --> 00:44:36,550
+[BUD]
+Hello, Mrs. Brigman.
+ສະບາຍດີ, ທ່ານນາງບຣິກແມນ.
+

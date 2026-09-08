@@ -1,0 +1,4852 @@
+1
+00:00:10,000 --> 00:00:12,000
+["AFFLICTION"]
+Screenplay by
+ຮູບເງົາໂດຍ
+
+2
+00:00:12,500 --> 00:00:18,500
+[CREDITS]
+Still-life tableaus. Lawford, N.H., a town of fifty buildings on a glacial ridge, neither mountain nor plateau. Developed as 1880's forestland, discarded in the Depression. Winter has set in. Halloween day. Snowy fields yield to overcast skies: oppressive, horizonless, flourescent.
+ຕາຕະລາງທີ່ຍັງມີຊີວິດຢູ່. Lawford, N.H, ເມືອງທີ່ມີອາຄານຫ້າສິບແຫ່ງຢູ່ເທິງກະດານ glacial, ບໍ່ເປັນພູເຂົາຫຼື plateau. ພັດທະນາເປັນເຂດປ່າໄມ້ຂອງປີ
+1880, ຖືກຖິ້ມໃນຄວາມກົດດັນ. ລະດູຫນາວໄດ້ເຂົ້າມາ. ມື້ Halloween. ສະ ຫນາມ ຫິມະຍອມໃຫ້ສະຫວັນປົກຫຸ້ມ: ກົດດັນ, ບໍ່ມີມຸມມອງ, ສົດໃສ.
+
+3
+00:00:19,000 --> 00:00:25,000
+[ROLFE]
+This is the story of my older brother's strange criminal behavior and disappearance. We who loved him no longer speak of Wade. It's as if he never existed. By telling his story like this, as his brother, I separate myself from his family and those who loved him. Everything of importance -- that is, everything that gives rise to the telling of this story -- occurred during a single deer-hunting season in a small town in upstate New Hampshire where Wade was raised and so was I. One night something changed and my relation to Wade's story was different from what it had been since childhood. I mark this change by Wade's tone of voice during a phone call two nights after Halloween. Something I had not heard before. Let us imagine that around eight o'clock on Halloween Eve, speeding past Toby's, Route 29, comes a pale green eight-year-old Ford Fairlane with a police bubble on top. A square-faced man wearing a trooper's cap is driving the vehicle. Beside him sits a child, a little girl with a plastic tiger mask covering her face. The man is driving fast --
+ນີ້ແມ່ນເລື່ອງຂອງພຶດຕິກໍາອາຊະຍາກໍາທີ່ແປກໃຈແລະຫາຍສາບສູນຂອງອ້າຍໃຫຍ່ຂອງຂ້ອຍ. ພວກເຮົາທີ່ຮັກລາວບໍ່ເວົ້າກ່ຽວກັບເວດອີກຕໍ່ໄປ. ມັນຄືກັບວ່າລາວບໍ່ເຄີຍມີຢູ່ເລີຍ. ໂດຍການບອກເລື່ອງລາວແບບນີ້, ໃນຖານະເປັນອ້າຍຂອງລາວ
+, ຂ້ອຍແຍກຕົວເອງຈາກຄອບຄົວຂອງລາວແລະຜູ້ທີ່ຮັກລາວ. ທຸກຢ່າງທີ່ມີຄວາມສໍາຄັນ - ນັ້ນແມ່ນ, ທຸກຢ່າງທີ່ເຮັດໃຫ້ເກີດການເວົ້າເລື່ອງນີ້ - ເກີດຂຶ້ນໃນລະດູການລ່າແມວດຽວໃນເມືອງນ້ອຍໃນພາກເຫນືອຂອງລັດນິວແຮມເຊີ ບ່ອນທີ່
+
+4
+00:00:25,500 --> 00:00:31,500
+[WADE]
+I'm sorry for the screw-up. But I couldn't help it it's too late to go trick-or-treating now. I couldn't help it I had to stop at Penny's for the costume. And you were hungry, remember.
+ຂ້ອຍຂໍໂທດຕໍ່ຄວາມຜິດພາດ. ແຕ່ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ມັນມັນຊ້າເກີນໄປທີ່ຈະໄປກະຕຸ້ນຫຼືການປິ່ນປົວດຽວນີ້
+. ຂ້ອຍບໍ່ສາມາດຊ່ວຍມັນໄດ້ຂ້ອຍຕ້ອງຢຸດຢູ່ເຮືອນເປນນີ ສໍາ ລັບຊຸດ. ແລະເຈົ້າຢາກກິນ, ຈື່ໄວ້.
+
+5
+00:00:32,000 --> 00:00:37,250
+[JILL]
+Who's fault is it then if it's not yours? You're the one in charge, Daddy.
+ມັນເປັນຄວາມຜິດຂອງໃຜຖ້າມັນບໍ່ແມ່ນຂອງເຈົ້າ
+? ເຈົ້າເປັນຜູ້ຮັບຜິດຊອບ, ພໍ່.
+
+6
+00:00:37,750 --> 00:00:39,750
+[WADE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+7
+00:00:40,250 --> 00:00:43,750
+[JILL]
+Look. Those kids are still trick-or- treating. They're still out.
+ເບິ່ງ. ເດັກນ້ອຍເຫລົ່ານັ້ນຍັງເຮັດກະຕຸ້ນຫຼືການປິ່ນປົວ
+. ພວກເຂົາຍັງຢູ່ພາຍນອກ.
+
+8
+00:00:44,250 --> 00:00:46,250
+[WADE]
+Those are the Hoyts.
+ນັ້ນແມ່ນຊາວໂຮຕ໌.
+
+9
+00:00:46,750 --> 00:00:48,750
+[JILL]
+I don't care. They're out.
+ຂ້ອຍບໍ່ສົນໃຈ. ພວກເຂົາອອກໄປແລ້ວ.
+
+10
+00:00:49,250 --> 00:00:55,250
+[WADE]
+Can't you see... look out there. Nobody's got their porch lights on anymore. It's too late. Those Hoyt kids are just out to get in trouble. See, they put shaving cream all over that mailbox there. They chopped down Herb Crane's new bushes. Little bastards. Jesus H. Christ.
+ເຈົ້າບໍ່ເຫັນບໍ... ເບິ່ງຢູ່ພາຍນອກນັ້ນ. ບໍ່ມີໃຜມີແສງສະຫວ່າງໂຊກແຊງຂອງພວກເຂົາອີກແລ້ວ. ມັນຊ້າເກີນໄປ. ເດັກນ້ອຍໂຮຍຕ໌ເຫລົ່ານັ້ນພຽງແຕ່ອອກໄປເພື່ອເຂົ້າໄປໃນຄວາມຫຍຸ້ງຍາກ
+. ເບິ່ງ, ພວກເຂົາເອົາຄຣີມຕັດຜົມຢູ່ທົ່ວປ່ອງຈົດຫມາຍນັ້ນຢູ່ບ່ອນນັ້ນ. ພວກເຂົາຕັດຕົ້ນໄມ້ ໃຫມ່ ຂອງເຮຣບ ຄຣານ. ຄົນສໍ້ໂກງນ້ອຍໆ. ພຣະເຢຊູ H. ພຣະຄຣິດ.
+
+11
+00:00:55,750 --> 00:00:57,750
+[JILL]
+Why do they do that?
+ພວກເຂົາເຮັດແບບນັ້ນເປັນຫຍັງ?
+
+12
+00:00:58,250 --> 00:01:00,250
+[WADE]
+Do what?
+ເຮັດຫຍັງ?
+
+13
+00:01:00,750 --> 00:01:02,750
+[JILL]
+You know.
+ເຈົ້າຮູ້ແລ້ວ.
+
+14
+00:01:03,250 --> 00:01:05,250
+[WADE]
+Break stuff?
+ທໍາລາຍສິ່ງຕ່າງໆບໍ?
+
+15
+00:01:05,750 --> 00:01:07,750
+[JILL]
+Yeah. It's stupid.
+ແມ່ນແລ້ວ. ມັນເປັນໂງ່.
+
+16
+00:01:08,250 --> 00:01:10,250
+[WADE]
+I guess they're stupid.
+ຂ້ອຍຄິດວ່າພວກເຂົາໂງ່.
+
+17
+00:01:10,750 --> 00:01:13,900
+[JILL]
+Did you do that when you were a kid?
+ເຈົ້າເຮັດແບບນັ້ນເມື່ອເຈົ້າເປັນເດັກນ້ອຍບໍ?
+
+18
+00:01:14,400 --> 00:01:20,400
+[WADE]
+Well, yeah. Sort of. Nothing really mean. Me and my pals, me and my brothers. It was kind of funny then. Stealing pumpkins, soaping windows. Stuff like that.
+ດີ, ແມ່ນແລ້ວ. ບາງຢ່າງ. ບໍ່ມີຫຍັງ ຫມາຍ ຄວາມວ່າແທ້ໆ. ຂ້ອຍແລະເພື່ອນຂອງຂ້ອຍ, ຂ້ອຍແລະອ້າຍນ້ອງຂອງຂ້ອຍ
+. ມັນມ່ວນຊື່ນບາງຢ່າງໃນເວລານັ້ນ. ການລັກປອກເປືອກ, ສະບູປ່ອງຢ້ຽມ. ສິ່ງຕ່າງໆເຊັ່ນນັ້ນ.
+
+19
+00:01:20,900 --> 00:01:22,900
+[JILL]
+Was it funny?
+ມັນມ່ວນບໍ?
+
+20
+00:01:23,400 --> 00:01:25,400
+[WADE]
+To us it was.
+ສໍາລັບພວກເຮົາມັນເປັນ.
+
+21
+00:01:25,900 --> 00:01:27,900
+[JILL]
+But it's not funny now.
+ແຕ່ມັນບໍ່ມ່ວນຊື່ນດຽວນີ້.
+
+22
+00:01:28,400 --> 00:01:34,400
+[WADE]
+It's not funny now. I'm a cop and I gotta listen to all the complaints people make. I'm not a kid anymore. You change.
+ມັນບໍ່ມ່ວນຊື່ນດຽວນີ້. ຂ້ອຍເປັນຕໍາຫຼວດແລະຂ້ອຍຕ້ອງຟັງການຮ້ອງທຸກທັງ
+ຫມົດ ທີ່ຄົນເຮັດ. ຂ້ອຍບໍ່ແມ່ນເດັກນ້ອຍອີກແລ້ວ. ເຈົ້າປ່ຽນແປງ.
+
+23
+00:01:34,900 --> 00:01:37,700
+[JILL]
+I bet you did lots of bad things.
+ຂ້ອຍແນ່ໃຈວ່າເຈົ້າເຮັດສິ່ງບໍ່ດີຫຼາຍຢ່າງ.
+
+24
+00:01:38,200 --> 00:01:40,200
+[WADE]
+What are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+25
+00:01:40,700 --> 00:01:43,500
+[JILL]
+I just think you used to be bad.
+ຂ້ອຍພຽງແຕ່ຄິດວ່າເຈົ້າເຄີຍເປັນຄົນຮ້າຍ.
+
+26
+00:01:44,000 --> 00:01:50,000
+[WADE]
+No. I didn't used to be bad. No sir. Where do you get this stuff? From your mother?
+ບໍ່. ຂ້ອຍບໍ່ເຄີຍເປັນຄົນຮ້າຍ. ບໍ່ເດີ.
+ເຈົ້າເອົາສິ່ງນີ້ຈາກໃສ? ຈາກແມ່ຂອງທ່ານບໍ?
+
+27
+00:01:50,500 --> 00:01:52,950
+[JILL]
+No. She doesn't talk about you anymore.
+ບໍ່. ນາງບໍ່ເວົ້າກ່ຽວກັບເຈົ້າອີກຕໍ່ໄປ.
+
+28
+00:01:53,450 --> 00:01:59,450
+[LARIVIERE]
+We're looking for the funniest costume! And the scariest! And the most imaginative! And the best costume of all!
+ພວກເຮົາ ກໍາ ລັງຊອກຫາເຄື່ອງນຸ່ງຫົ່ມທີ່ມ່ວນຊື່ນທີ່ສຸດ! ແລະທີ່ຢ້ານກົວທີ່ສຸດ
+!ແລະຄວາມຄິດສ້າງສັນທີ່ສຸດ! ພ້ອມທັງເຄື່ອງນູ່ງທີ່ດີທີ່ສຸດທັງ ຫມົດ!
+
+29
+00:01:59,950 --> 00:02:05,200
+[WADE]
+Got here just in time. Go ahead. Jump in line. Maybe you'll win a prize.
+ມາຮອດບ່ອນນີ້ທັນເວລາ. ໄປກ່ອນ. ໂດດແຖວ. ບາງທີເຈົ້າຈະຊະນະລາງວັນ.
+
+30
+00:02:05,700 --> 00:02:09,200
+[WADE]
+Go on, Jill. Some of those kids you still know.
+ໄປ, ຈິລ. ບາງເດັກນ້ອຍທີ່ເຈົ້າຍັງຮູ້ຈັກ.
+
+31
+00:02:09,700 --> 00:02:11,700
+[JILL]
+I don't want to.
+ຂ້ອຍບໍ່ຢາກເຮັດ.
+
+32
+00:02:12,200 --> 00:02:18,200
+[WADE]
+Why? Why not? You know these kids from when you went to school here. It hasn't been that long.
+ເປັນຫຍັງ? ເປັນຫຍັງບໍ່?
+ເຈົ້າຮູ້ຈັກເດັກນ້ອຍເຫຼົ່ານີ້ຕັ້ງແຕ່ເຈົ້າໄປໂຮງຮຽນຢູ່ນີ້. ມັນບໍ່ດົນປານໃດ.
+
+33
+00:02:18,700 --> 00:02:20,700
+[JILL]
+It's not that.
+ມັນບໍ່ແມ່ນເລື່ອງນັ້ນ.
+
+34
+00:02:21,200 --> 00:02:23,200
+[WADE]
+What then?
+ຫຼັງຈາກນັ້ນຫຍັງ?
+
+35
+00:02:23,700 --> 00:02:25,700
+[JILL]
+It's stupid.
+ມັນເປັນໂງ່.
+
+36
+00:02:26,200 --> 00:02:28,200
+[WADE]
+It's fun.
+ມັນມ່ວນຊື່ນ.
+
+37
+00:02:28,700 --> 00:02:32,200
+[JILL]
+I want to go home.  I don't like it here.
+ຂ້ອຍຢາກກັບບ້ານ. ຂ້ອຍບໍ່ມັກບ່ອນນີ້.
+
+38
+00:02:32,700 --> 00:02:38,700
+[WADE]
+Oh, Jesus, come on, will you? Don't mess this up anymore than it's already been messed up. Join the other kids. Do that and before you know it you'll be as happy as a goddamned clam.
+ໂອ້, ພຣະເຢຊູ, ມາແລ້ວ, ເຈົ້າຈະເຮັດບໍ? ຢ່າເຮັດໃຫ້ສິ່ງນີ້ສໍ້ໂກງອີກຕໍ່ໄປກ່ວາມັນຖືກສໍ້ ໂກງແລ້ວ.
+ເຂົ້າຮ່ວມກັບເດັກນ້ອຍຄົນອື່ນ. ເຮັດສິ່ງນັ້ນແລະກ່ອນທີ່ທ່ານຈະຮູ້ມັນເຈົ້າຈະມີຄວາມສຸກຄືກັບແມວແມ.
+
+39
+00:02:39,200 --> 00:02:43,400
+[LARIVIERE]
+Wade! And who's that tiger? Is that Jill? Come and join us.
+ເວດ! ແລະແມວນັ້ນແມ່ນໃຜ? ນັ້ນແມ່ນຈິລບໍ? ມາເຂົ້າຮ່ວມພວກເຮົາ.
+
+40
+00:02:43,900 --> 00:02:46,000
+[WADE]
+What are you boys up to?
+ພວກເຈົ້າເຮັດຫຍັງຢູ່?
+
+41
+00:02:46,500 --> 00:02:48,500
+[CHICK]
+Same old shit.
+ສິ່ງເກົ່າໆດຽວກັນ.
+
+42
+00:02:49,000 --> 00:02:53,200
+[FRANKIE]
+You see the damage these little sons- of bitches been raising tonight?
+ເຈົ້າເຫັນຄວາມເສຍຫາຍທີ່ລູກແມວນ້ອຍໆເຫຼົ່ານີ້
+ກໍາ ລັງເຮັດໃຫ້ເກີດຂຶ້ນໃນຄືນນີ້ບໍ?
+
+43
+00:02:53,700 --> 00:02:56,500
+[WADE]
+You're going to have to move your pickup.
+ເຈົ້າຈະຕ້ອງຍ້າຍລົດບັນທຸກຂອງທ່ານ.
+
+44
+00:02:57,000 --> 00:02:59,000
+[JACK]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+45
+00:02:59,500 --> 00:03:01,500
+[CHICK]
+Take a bite.
+ກິນຊະນິດຫນຶ່ງ.
+
+46
+00:03:02,000 --> 00:03:04,000
+[WADE]
+Don't mind if I do.
+ບໍ່ເປັນຫຍັງຖ້າຂ້ອຍເຮັດ.
+
+47
+00:03:04,500 --> 00:03:09,050
+[JACK]
+LaRiviere's having a hell of a time in there. Master of fucking ceremonies.
+ລາຣີເວີເຣ ກໍາ ລັງມ່ວນຊື່ນຢູ່ບ່ອນນັ້ນ. ເຈົ້າຂອງພິທີທີ່ສໍ້ໂກງ.
+
+48
+00:03:09,550 --> 00:03:12,350
+[WADE]
+Where's that gun you were bragging on today?
+ປືນທີ່ເຈົ້າພາກພູມໃຈໃນມື້ນີ້ຢູ່ໃສ?
+
+49
+00:03:12,850 --> 00:03:14,850
+[JACK]
+No brag. Just fact.
+ບໍ່ຕ້ອງພາກພູມໃຈ. ພຽງແຕ່ຄວາມຈິງ.
+
+50
+00:03:15,350 --> 00:03:17,800
+[WADE]
+Got you for -- 450, 500 bucks?
+ຂ້ອຍໄດ້ເຈົ້າ ສໍາ ລັບ - 450, 500 ໂດລາບໍ?
+
+51
+00:03:18,300 --> 00:03:20,300
+[FRANKIE]
+Nice.
+ດີເລີດ.
+
+52
+00:03:20,800 --> 00:03:23,950
+[JACK]
+See you got Jill tonight. How'd you manage that?
+ຂ້ອຍເຫັນວ່າເຈົ້າມີຈິລໃນຄືນນີ້. ເຈົ້າຈັດການມັນແນວໃດ?
+
+53
+00:03:24,450 --> 00:03:26,550
+[WADE]
+Don't forget to move your truck.
+ຢ່າລືມຍ້າຍລົດບັນທຸກຂອງທ່ານ.
+
+54
+00:03:27,050 --> 00:03:33,050
+[WADE]
+Some party, huh? Sorry I lost sight of you. I had to step outside for a smoke. You find anybody you know here? There must be some kids you used to know from school. You want to go tomorrow? See your old teachers? Be more fun than hanging out with me all day.
+ງານລ້ຽງບາງຢ່າງ, ແມ່ນບໍ? ຂໍໂທດຂ້ອຍໄດ້ສູນເສຍເຈົ້າ. ຂ້ອຍຕ້ອງອອກໄປພາຍນອກເພື່ອສູບຢາ. ເຈົ້າພົບໃຜທີ່ທ່ານຮູ້ຈັກຢູ່ນີ້ບໍ?
+ຕ້ອງມີເດັກນ້ອຍບາງຄົນທີ່ທ່ານເຄີຍຮູ້ຈັກຈາກໂຮງຮຽນ. ເຈົ້າຢາກໄປມື້ອື່ນບໍ? ເບິ່ງຄູເກົ່າຂອງທ່ານບໍ? ມີຄວາມມ່ວນຊື່ນຫຼາຍກ່ວາການຢູ່ກັບຂ້ອຍຕະຫຼອດມື້.
+
+55
+00:03:33,550 --> 00:03:35,550
+[JILL]
+No.
+ບໍ່
+
+56
+00:03:36,050 --> 00:03:38,050
+[WADE]
+No what?
+ບໍ່ຫຍັງ?
+
+57
+00:03:38,550 --> 00:03:44,550
+[JILL]
+No I didn't see anybody I know. No I don't want to go to school here tomorrow. I want to go home.
+ບໍ່ຂ້ອຍບໍ່ໄດ້ເຫັນໃຜທີ່ຂ້ອຍຮູ້ຈັກ.
+ບໍ່ຂ້ອຍບໍ່ຢາກໄປໂຮງຮຽນຢູ່ນີ້ມື້ອື່ນ. ຂ້ອຍຢາກກັບບ້ານ.
+
+58
+00:03:45,050 --> 00:03:49,250
+[WADE]
+You are home. There are lots of kids you still know here.
+ເຈົ້າຢູ່ເຮືອນແລ້ວ. ມີເດັກນ້ອຍຫຼາຍຄົນທີ່ເຈົ້າຍັງຮູ້ຈັກຢູ່ບ່ອນນີ້.
+
+59
+00:03:49,750 --> 00:03:55,750
+[JILL]
+I don't want to be here. Don't worry, I love you, Daddy, I do. But I want to go home.
+ຂ້ອຍບໍ່ຢາກຢູ່ບ່ອນນີ້. ຢ່າກັງວົນ, ຂ້ອຍຮັກເຈົ້າ
+, ພໍ່, ຂ້ອຍເຮັດ. ແຕ່ຂ້ອຍຢາກກັບບ້ານ.
+
+60
+00:03:56,250 --> 00:04:02,250
+[WADE]
+Jesus. Listen, Jill, tell you what. Tomorrow morning, you still want to go home, I'll drive you down. I'll get off work or something.
+ພຣະເຢຊູ. ຟັງ, ຈິລ, ຂ້ອຍຈະບອກເຈົ້າວ່າແນວໃດ. ໃນຕອນເຊົ້າມື້ອື່ນ, ເຈົ້າຍັງຢາກກັບບ້ານ
+, ຂ້າພະເຈົ້າຈະຂັບລົດເຈົ້າລົງ. ຂ້ອຍຈະອອກຈາກວຽກຫຼືບາງສິ່ງບາງຢ່າງ.
+
+61
+00:04:02,750 --> 00:04:04,750
+[JILL]
+I called Mommy.
+ຂ້ອຍໂທຫາແມ່.
+
+62
+00:04:05,250 --> 00:04:07,350
+[WADE]
+What? You called Mommy? Just now?
+ຫຍັງ? ເຈົ້າໂທຫາແມ່ບໍ? ພຽງແຕ່ດຽວນີ້ບໍ?
+
+63
+00:04:07,850 --> 00:04:09,850
+[JILL]
+Yes.
+ແມ່ນແລ້ວ.
+
+64
+00:04:10,350 --> 00:04:12,350
+[WADE]
+Jesus, why?
+ພຣະເຢຊູ, ເປັນຫຍັງ?
+
+65
+00:04:12,850 --> 00:04:17,750
+[JILL]
+I... because I want to go home. She said she'd come and get me.
+ຂ້ອຍ... ເພາະວ່າຂ້ອຍຢາກກັບບ້ານ. ນາງເວົ້າວ່ານາງຈະມາເອົາຂ້ອຍ.
+
+66
+00:04:18,250 --> 00:04:24,250
+[WADE]
+Come and get you! Shit! It's a damn half hour drive each way. Why didn't you talk to me about it first?
+ມາເອົາເຈົ້າ! ສະບາຍດີ! ມັນຂັບລົດເຄິ່ງຊົ່ວໂມງໃນແຕ່ລະທາງ
+. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເວົ້າກັບຂ້ອຍກ່ຽວກັບມັນກ່ອນ?
+
+67
+00:04:24,750 --> 00:04:26,850
+[JILL]
+See, I knew you'd be mad.
+ເຈົ້າເຫັນແລ້ວ, ຂ້ອຍຮູ້ວ່າເຈົ້າຈະໂຊກຮ້າຍ.
+
+68
+00:04:27,350 --> 00:04:31,550
+[WADE]
+Yeah. Yeah, right, I'm mad. What'd you tell her, for Christ sake?
+ແມ່ນແລ້ວ. ແມ່ນແລ້ວ, ຖືກ, ຂ້ອຍໂຊກຮ້າຍ
+. ເຈົ້າບອກນາງຫຍັງ, ສໍາລັບພຣະຄຣິດ?
+
+69
+00:04:32,050 --> 00:04:36,950
+[JILL]
+I told her I wanted to come home. Daddy, don't be mad at me.
+ຂ້ອຍບອກນາງວ່າຂ້ອຍຢາກກັບບ້ານ. ພໍ່, ຢ່າໂຊກຮ້າຍກັບຂ້ອຍ.
+
+70
+00:04:37,450 --> 00:04:43,450
+[WADE]
+Well, I guess I am. I planned this, I planned all this, you know. I mean, it's sort of pathetic, but I planned it. You shouldn't have called your mother.  C'mon, we're gonna call her before she leaves.
+ດີ, ຂ້ອຍຄິດວ່າຂ້ອຍເປັນ. ຂ້ອຍໄດ້ວາງແຜນສິ່ງນີ້, ຂ້ອຍວາງແຜນທັງ ຫມົດ ນີ້, ເຈົ້າຮູ້ແລ້ວ. ຂ້ອຍຫມາຍຄວາມວ່າ,
+ມັນເປັນຄວາມໂຊກຮ້າຍບາງຢ່າງ, ແຕ່ຂ້ອຍວາງແຜນມັນ. ເຈົ້າບໍ່ຄວນໂທຫາແມ່ຂອງທ່ານ. ມາ, ພວກເຮົາຈະໂທຫານາງກ່ອນທີ່ນາງຈະອອກໄປ.
+
+71
+00:04:43,950 --> 00:04:46,400
+[WADE]
+She's gone already!  Gone already! Couldn't wait.
+ນາງໄປແລ້ວ! ໄປແລ້ວ! ບໍ່ລໍຖ້າໄດ້.
+
+72
+00:04:46,900 --> 00:04:48,900
+[JILL]
+Yes.
+ແມ່ນແລ້ວ.
+
+73
+00:04:49,400 --> 00:04:51,850
+[WADE]
+That's all you got to say? "Yes".
+ນັ້ນແມ່ນທັງຫມົດທີ່ທ່ານຕ້ອງເວົ້າບໍ?" ແມ່ນແລ້ວ".
+
+74
+00:04:52,350 --> 00:04:54,350
+[JILL]
+Yes.
+ແມ່ນແລ້ວ.
+
+75
+00:04:54,850 --> 00:05:00,100
+[WADE]
+She won't be here for a half hour. Think you can stand it that long?
+ນາງຈະບໍ່ຢູ່ບ່ອນນີ້ເປັນເວລາເຄິ່ງຊົ່ວໂມງ.
+ເຈົ້າຄິດວ່າເຈົ້າສາມາດທົນໄດ້ດົນປານໃດບໍ?
+
+76
+00:05:00,600 --> 00:05:02,600
+[JILL]
+Yes.
+ແມ່ນແລ້ວ.
+
+77
+00:05:03,100 --> 00:05:09,050
+[WADE]
+Where do you expect to wait for her? Obviously downstairs with the other kids isn't good enough.
+ເຈົ້າຄາດວ່າຈະລໍຖ້ານາງຢູ່ໃສ?
+ແນ່ນອນວ່າຢູ່ລຸ່ມກັບເດັກນ້ອຍຄົນອື່ນບໍ່ພຽງພໍ.
+
+78
+00:05:09,550 --> 00:05:15,550
+[WADE]
+Sit right there by yourself if you want. Wait for her by yourself. That's fine with me. Just dandy. I'm going downstairs.
+ນັ່ງຢູ່ບ່ອນນັ້ນດ້ວຍຕົນເອງຖ້າເຈົ້າຕ້ອງການ. ລໍຖ້ານາງດ້ວຍຕົນເອງ
+. ມັນບໍ່ເປັນຫຍັງກັບຂ້ອຍ. ພຽງແຕ່ດີ. ຂ້ອຍຈະລົງລຸ່ມ.
+
+79
+00:05:16,050 --> 00:05:20,600
+[JILL]
+That's fine with me too. When Mommy comes, tell her I'm up here.
+ມັນບໍ່ເປັນຫຍັງກັບຂ້ອຍເຊັ່ນກັນ.
+ເມື່ອແມ່ມາ, ບອກນາງວ່າຂ້ອຍຢູ່ເທິງນີ້.
+
+80
+00:05:21,100 --> 00:05:24,250
+[WADE]
+I thought I told you to move that truck!
+ຂ້ອຍຄິດວ່າຂ້ອຍບອກເຈົ້າໃຫ້ຍ້າຍລົດບັນທຸກນັ້ນ!
+
+81
+00:05:24,750 --> 00:05:27,200
+[JACK]
+Relax, Chief. We're leaving. You wanna toke?
+ສະບາຍໃຈ, ຫົວຫນ້າ. ພວກເຮົາ ກໍາ ລັງອອກໄປ. ເຈົ້າຢາກເຮັດບໍ?
+
+82
+00:05:27,700 --> 00:05:33,700
+[WADE]
+You gotta be more careful about that shit. Gordon or one of those guys sees you smoking that wacky tabacky around me they'll expect me to bust you. And I'll be outta a job.
+ເຈົ້າຕ້ອງລະມັດລະວັງຫຼາຍຂຶ້ນກ່ຽວກັບສິ່ງນັ້ນ. ໂກດອນຫຼືຄົນ ຫນຶ່ງ
+ໃນພວກຄົນນັ້ນເຫັນເຈົ້າສູບຢາຢາທີ່ໂຊກຮ້າຍຢູ່ອ້ອມຂ້າງຂ້ອຍພວກເຂົາຈະຄາດວ່າຂ້ອຍຈະຈັບເຈົ້າ. ແລະຂ້ອຍຈະບໍ່ມີວຽກເຮັດງານທໍາ.
+
+83
+00:05:34,200 --> 00:05:40,200
+[JACK]
+Some job. Here, have a hit. Don't be such a hardass. I know you got problems, but everybody's got problems.
+ວຽກງານບາງຢ່າງ. ຢູ່ບ່ອນນີ້, ມີຜົນກະທົບ. ຢ່າເປັນຄົນແຂງແຮງຫຼາຍ
+. ຂ້ອຍຮູ້ວ່າເຈົ້າມີບັນຫາ, ແຕ່ທຸກຄົນມີບັນຫາ.
+
+84
+00:05:40,700 --> 00:05:42,700
+[WADE]
+Not here.
+ບໍ່ຢູ່ບ່ອນນີ້.
+
+85
+00:05:43,200 --> 00:05:47,750
+[JACK]
+Well, c'mon, then. Get in and we'll take a little ride, my man.
+ດີ, ມາແລ້ວ. ເຂົ້າມາແລະພວກເຮົາຈະຂີ່ລົດນ້ອຍໆ, ຜູ້ຊາຍຂອງຂ້ອຍ.
+
+86
+00:05:48,250 --> 00:05:54,250
+[JACK]
+Got a job first thing in the morning, first day of season. Saturday I'll hunt for myself. Twombley something. - Er --
+ຂ້ອຍມີວຽກເຮັດງານທໍາໃນຕອນເຊົ້າ, ມື້ ທໍາ ອິດຂອງລະດູການ.
+ວັນເສົາຂ້ອຍຈະລ່າສັດ ສໍາ ລັບຕົວເອງ. Twombley ບາງສິ່ງບາງຢ່າງ. - ເອຣ໌ -
+
+87
+00:05:54,750 --> 00:05:58,250
+[WADE]
+Evan. He's a mucky-muck union official from Massachusetts. You're lucky.
+ເອວານ. ລາວເປັນເຈົ້າຫນ້າທີ່ສະຫະພັນຄົນໂຊກຮ້າຍຈາກແມຊຊູເຊັດສ໌
+. ເຈົ້າໂຊຄດີ.
+
+88
+00:05:58,750 --> 00:06:04,750
+[JACK]
+Don't know about lucky. The guy's a full-blown asshole. Pay's good, though. $100 a day. I got to guarantee a kill, of course. Which I can do. There's some monster bucks hiding out up there.
+ຂ້ອຍບໍ່ຮູ້ກ່ຽວກັບໂຊກດີ. ຜູ້ຊາຍຄົນນັ້ນເປັນຄົນໂງ່ຢ່າງເຕັມທີ່. ຄ່າຈ່າຍດີ, ເຖິງຢ່າງໃດກໍ່ຕາມ. $ 100
+ຕໍ່ມື້. ຂ້ອຍຕ້ອງຮັບປະກັນການຂ້າ, ແນ່ນອນ. ເຊິ່ງຂ້ອຍສາມາດເຮັດໄດ້. ມີເງິນໂມສເຕີບາງຢ່າງເຊື່ອງຢູ່ເທິງນັ້ນ.
+
+89
+00:06:05,250 --> 00:06:07,250
+[WADE]
+How'd you get the job?
+ເຈົ້າໄດ້ຮັບວຽກເຮັດງານທໍາແນວໃດ?
+
+90
+00:06:07,750 --> 00:06:13,350
+[JACK]
+Gordon, he's always got some angle working. He wants to keep Twombley happy, I'm his boy.
+ໂກດອນ, ລາວມີມຸມບາງຢ່າງເຮັດວຽກຢູ່ສະເຫມີ.
+ລາວຢາກເຮັດໃຫ້ຕວອມບລີມີຄວາມສຸກ, ຂ້ອຍເປັນລູກຊາຍຂອງລາວ.
+
+91
+00:06:13,850 --> 00:06:15,850
+[HETTIE]
+What's wrong with you?
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+92
+00:06:16,350 --> 00:06:20,550
+[WADE]
+Toothache.  You should get close to him. Make yourself irreplaceable. Guy's loaded.
+ເຈັບແຂ້ວ. ເຈົ້າຄວນເຂົ້າໃກ້ລາວ.
+ເຮັດໃຫ້ຕົວເອງບໍ່ສາມາດທົດແທນໄດ້. ຜູ້ຊາຍຖືກໂຫຼດ.
+
+93
+00:06:21,050 --> 00:06:23,050
+[JACK]
+Like you and Gordon?
+ເຊັ່ນເຈົ້າແລະໂກດອນບໍ?
+
+94
+00:06:23,550 --> 00:06:26,350
+[WADE]
+Right. The sonofabitch couldn't get along without me.
+ແມ່ນແລ້ວ. ໄອ້ສັດນະລົກບໍ່ສາມາດຢູ່ໄດ້ໂດຍບໍ່ມີຂ້ອຍ.
+
+95
+00:06:26,850 --> 00:06:30,000
+[JACK]
+Yeah, he'd go broke tomorrow if you quit him.
+ແມ່ນແລ້ວ, ລາວຈະສໍ້ໂກງມື້ອື່ນຖ້າເຈົ້າອອກຈາກລາວ.
+
+96
+00:06:30,500 --> 00:06:32,500
+[WADE]
+Right!
+ແມ່ນແລ້ວ!
+
+97
+00:06:33,000 --> 00:06:35,100
+[JACK]
+Bastard's got his high beams on.
+ຄົນໂຊກຮ້າຍມີແສງໄຟສູງຂອງລາວໃສ່.
+
+98
+00:06:35,600 --> 00:06:37,600
+[WADE]
+Shit.
+ສະບາຍດີ.
+
+99
+00:06:38,100 --> 00:06:40,100
+[HETTIE]
+What?
+ຫຍັງ?
+
+100
+00:06:40,600 --> 00:06:46,200
+[WADE]
+My ex-wife Lillian and her husband. That was them in the Audi that just passed us.
+ເມຍເກົ່າຂອງຂ້ອຍ ລີລິນ ແລະ ຜົວຂອງນາງ.
+ນັ້ນແມ່ນພວກເຂົາໃນລົດໂອດີທີ່ຫາກໍ່ຜ່ານພວກເຮົາ.
+
+101
+00:06:46,700 --> 00:06:48,700
+[JACK]
+Audi's a good car.
+ໂອດີເປັນລົດທີ່ດີ.
+
+102
+00:06:49,200 --> 00:06:51,200
+[HETTIE]
+What's she up here for?
+ນາງຢູ່ເທິງນີ້ເປັນຫຍັງ?
+
+103
+00:06:51,700 --> 00:06:57,700
+[WADE]
+Aw, shit, she's here to get Jill. Me and Jill had a little argument. Jack, I got to get back, get back to town. Move this thing, will you? See if you can get back to the Town Hall before they get there, okay?
+ໂອ້, ສະບາຍດີ, ນາງຢູ່ບ່ອນນີ້ເພື່ອເອົາຈິລ. ຂ້ອຍແລະຈີລໄດ້ໂຕ້ຖຽງນ້ອຍໆ. ແຈກ, ຂ້ອຍຕ້ອງກັບຄືນໄປບ່ອນ, ກັບຄືນໄປເມືອງ
+. ຍ້າຍສິ່ງນີ້, ເຈົ້າຈະເຮັດບໍ? ເບິ່ງວ່າເຈົ້າສາມາດກັບມາຫາຫ້ອງປະຊຸມເມືອງກ່ອນພວກເຂົາຈະມາຮອດບ່ອນນັ້ນ, ດີບໍ?
+
+104
+00:06:58,200 --> 00:07:00,200
+[JACK]
+Piece of fucking cake.
+ກະຕູ້ກະຕູ້.
+
+105
+00:07:00,700 --> 00:07:02,700
+[WADE]
+Lillian!
+ລີລິນ!
+
+106
+00:07:03,200 --> 00:07:05,200
+[LILLIAN]
+Where's Jill?
+ຈິລຢູ່ໃສ?
+
+107
+00:07:05,700 --> 00:07:11,700
+[WADE]
+Me and Jill, we just had a little spat. She felt kind of left out, I guess, from not knowing some of the new kids --
+ຂ້ອຍແລະຈິລ, ພວກເຮົາພຽງແຕ່ມີການກະທູ້ນ້ອຍໆ. ນາງຮູ້ສຶກວ່າຖືກຍົກເວັ້ນບາງຢ່າງ
+, ຂ້ອຍຄິດວ່າ, ຈາກການບໍ່ຮູ້ຈັກເດັກນ້ອຍ ໃຫມ່ ບາງຄົນ -
+
+108
+00:07:12,200 --> 00:07:16,400
+[LILLIAN]
+Where is she now? Is she in the truck with your friends?
+ນາງຢູ່ໃສດຽວນີ້? ນາງຢູ່ໃນລົດບັນທຸກກັບເພື່ອນຂອງທ່ານບໍ?
+
+109
+00:07:16,900 --> 00:07:20,400
+[WADE]
+She told me she wanted to wait for you. Inside.
+ນາງບອກຂ້ອຍວ່ານາງຢາກລໍຖ້າເຈົ້າ. ຢູ່ພາຍໃນ.
+
+110
+00:07:20,900 --> 00:07:26,900
+[LILLIAN]
+While you went off for a few beers with your friends? Is that Hettie Rodgers there, with whatzizname?
+ໃນຂະນະທີ່ເຈົ້າອອກໄປກິນເບຍສອງສາມຄົນກັບເພື່ອນຂອງທ່ານບໍ
+? ນັ້ນແມ່ນ Hettie Rodgers ຢູ່ບ່ອນນັ້ນ, ມີຊື່ຫຍັງ?
+
+111
+00:07:27,400 --> 00:07:29,400
+[WADE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+112
+00:07:29,900 --> 00:07:32,000
+[LILLIAN]
+She's grown up some, hasn't she?
+ນາງເຕີບໃຫຍ່ແລ້ວບາງຢ່າງ, ແມ່ນບໍ?
+
+113
+00:07:32,500 --> 00:07:38,500
+[WADE]
+Oh, Jesus, lay off, will you? It looks like you've won this fucking round already, so lay off a little, for Christ's sake.
+ໂອ້, ພຣະເຢຊູ, ຢຸດເຊົາ, ເຈົ້າຈະເຮັດແນວໃດ?
+ມັນເບິ່ງຄືວ່າເຈົ້າໄດ້ຊະນະຮອບນີ້ແລ້ວ, ສະນັ້ນຢຸດຜ່ອນເລັກນ້ອຍ, ສໍາລັບພຣະຄຣິດ.
+
+114
+00:07:39,000 --> 00:07:45,000
+[WADE]
+Horner! Leave her be. This's got nothing to do with you, so just act like the chauffeur. Got it?
+ໂຮນເນີ! ຢ່າມາຍຸ້ງກັບນາງ. ນີ້ແມ່ນບໍ່ມີຫຍັງກ່ຽວຂ້ອງກັບເຈົ້າ
+, ສະນັ້ນພຽງແຕ່ປະຕິບັດຄືກັບຄົນຂັບຂີ່. ເຂົ້າໃຈບໍ?
+
+115
+00:07:45,500 --> 00:07:47,500
+[HORNER]
+Wade. Nobody wants any trouble.
+ເວດ. ບໍ່ມີໃຜຢາກມີຄວາມຫຍຸ້ງຍາກໃດໆ.
+
+116
+00:07:48,000 --> 00:07:50,450
+[WADE]
+I don't want her to go, Lillian.
+ຂ້ອຍບໍ່ຢາກໃຫ້ນາງໄປ, ລີລິນ.
+
+117
+00:07:50,950 --> 00:07:56,550
+[LILLIAN]
+Don't cause a scene. No one's trying to win any 'rounds'. Don't make it any worse.
+ຢ່າເຮັດໃຫ້ເກີດເຫດ. ບໍ່ມີໃຜພະຍາຍາມຊະນະ'ຮອບໃດໆ'
+. ຢ່າເຮັດໃຫ້ມັນຮ້າຍແຮງກວ່າເກົ່າ.
+
+118
+00:07:57,050 --> 00:08:03,050
+[WADE]
+I'm not making it any worse. You are. Me and Jill could've worked this thing out. It's normal, it's even normal for me to get a little touchy about it. Believe it or not. How do you think this makes me look, treating her like some tragic victim or something?
+ຂ້ອຍບໍ່ໄດ້ເຮັດໃຫ້ມັນຮ້າຍແຮງກວ່າເກົ່າ. ເຈົ້າເປັນ. ຂ້ອຍແລະຈິລສາມາດແກ້ໄຂເລື່ອງນີ້ໄດ້. ມັນເປັນປົກກະຕິ, ມັນແມ່ນປົກກະຕິ ສໍາ ລັບຂ້ອຍທີ່ຈະມີຄວາມເຄັ່ງຕຶງເລັກນ້ອຍກ່ຽວກັບມັນ
+. ເຊື່ອມັນຫຼືບໍ່. ເຈົ້າຄິດວ່າສິ່ງນີ້ເຮັດໃຫ້ຂ້ອຍເບິ່ງຄືແນວໃດ, ການປິ່ນປົວນາງຄືກັບຜູ້ເຄາະຮ້າຍທີ່ໂຊກຮ້າຍບາງຢ່າງຫຼືບາງສິ່ງບາງຢ່າງ?
+
+119
+00:08:03,550 --> 00:08:05,650
+[WADE]
+Just wait till we're through, goddamnit!
+ພຽງແຕ່ລໍຖ້າຈົນກວ່າພວກເຮົາຈະສໍາເລັດແລ້ວ, ສະບາຍດີ!
+
+120
+00:08:06,150 --> 00:08:11,400
+[WADE]
+Don't you say a word. I didn't hit him. I'm not going to hit anybody.
+ຢ່າເວົ້າຫຍັງເລີຍ. ຂ້ອຍບໍ່ໄດ້ຕີລາວ. ຂ້ອຍຈະບໍ່ຕີໃຜເລີຍ.
+
+121
+00:08:11,900 --> 00:08:14,000
+[MARGIE]
+New hat?  Jill's up, I see.
+ຫມວກ ໃຫມ່ບໍ? ຈິລຂຶ້ນແລ້ວ, ຂ້ອຍເຫັນແລ້ວ.
+
+122
+00:08:14,500 --> 00:08:16,500
+[WADE]
+For a while.
+ເປັນເວລາດົນນານ.
+
+123
+00:08:17,000 --> 00:08:19,000
+[MARGIE]
+How's she doing?
+ນາງເປັນແນວໃດ?
+
+124
+00:08:19,500 --> 00:08:21,500
+[WADE]
+Okay. She's fine.
+ດີແລ້ວ. ນາງບໍ່ເປັນຫຍັງ.
+
+125
+00:08:22,000 --> 00:08:28,000
+[MARGIE]
+You two want to do anything tomorrow and need a third party, give me a call, okay? I'm off.
+ເຈົ້າທັງສອງຢາກເຮັດຫຍັງເລີຍມື້ອື່ນແລະຕ້ອງການພາກສ່ວນທີສາມ
+, ໂທຫາຂ້ອຍ, ດີບໍ? ຂ້ອຍອອກໄປແລ້ວ.
+
+126
+00:08:28,500 --> 00:08:34,500
+[WICKHAM]
+Like hell you are. Tomorrow's first day of deer season. I'll need you at least in the morning.
+ເຈົ້າເປັນແທ້ໆ. ມື້ນີ້ແມ່ນມື້ ທໍາ ອິດຂອງລະດູພັນສາ
+. ຂ້ອຍຈະຕ້ອງການເຈົ້າຢ່າງຫນ້ອຍໃນຕອນເຊົ້າ.
+
+127
+00:08:35,000 --> 00:08:37,000
+[MARGIE]
+Well, that's that.
+ດີ, ນັ້ນແມ່ນມັນ.
+
+128
+00:08:37,500 --> 00:08:39,500
+[NICK]
+Take care, Wade.
+ລະວັງຕົວເອງ, ເວດ.
+
+129
+00:08:40,000 --> 00:08:45,600
+[WADE]
+You be careful of that little bastard. He's dying to get in your pants, you know.
+ເຈົ້າລະມັດລະວັງຄົນໂຊກແຊງນ້ອຍນັ້ນ. ລາວ ກໍາ
+ລັງຕາຍເພື່ອເຂົ້າໄປໃນກະເປົາຂອງທ່ານ, ເຈົ້າຮູ້ແລ້ວ.
+
+130
+00:08:46,100 --> 00:08:51,350
+[MARGIE]
+Don't worry. I can protect my virtue. I mean, c'mon, Wade, give me a break.
+ຢ່າກັງວົນ. ຂ້ອຍສາມາດປົກປ້ອງຄຸນງາມຄວາມດີຂອງຂ້ອຍໄດ້
+. ຂ້ອຍຫມາຍຄວາມວ່າ, ມາ, ເວດ, ພໍໄດ້ແລ້ວ!
+
+131
+00:08:51,850 --> 00:08:53,850
+[WADE]
+See you tomorrow, maybe.
+ພົບກັນມື້ອື່ນ, ບາງທີ.
+
+132
+00:08:54,350 --> 00:08:56,350
+[MARGIE]
+You okay?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+133
+00:08:56,850 --> 00:08:58,850
+[WADE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+134
+00:08:59,350 --> 00:09:01,350
+[WADE]
+Tomorrow, Gordon.
+ມື້ນີ້, ໂກດອນ.
+
+135
+00:09:01,850 --> 00:09:04,300
+[LARIVIERE]
+Watch this snow. It's coming down tonight.
+ເບິ່ງຫິມະນີ້ແມ. ມັນຈະຕົກໃນຄືນນີ້.
+
+136
+00:09:04,800 --> 00:09:10,800
+[WADE]
+Lugene? Wade. Hoya doin?  Look, I was wondering, with the snow and all, if you got school today?  How the hell do I know? You're the principal. All I'm supposed to do is direct traffic from 7:30 to 8:30.  Yeah, okay, I'm sorry -- I only just now saw it was snowing, that's all. My whole day is fucked. I gotta plow all day. If I don't get over to LaRiviere's early enough, I'm stuck with the grader. I was just hoping you'd have called school off.  You check the weather bureau?  Okay, I hear you. I'll be over in a bit.
+ລູເຈນ? ເວດ. ໂຮຍເຮັດບໍ? ເບິ່ງ, ຂ້ອຍ ກໍາ ລັງສົງໄສວ່າ, ດ້ວຍຫິມະແລະທັງ ຫມົດ, ເຈົ້າມີໂຮງຮຽນມື້ນີ້ບໍ? ຂ້ອຍຮູ້ແນວໃດ? ເຈົ້າເປັນຜູ້ອໍານວຍການ. ສິ່ງດຽວທີ່ຂ້ອຍຄວນເຮັດແມ່ນການຈະລາຈອນໂດຍກົງຈາກ 7
+:30 ເຖິງ 8:30. ແມ່ນແລ້ວ, ດີ, ຂ້ອຍຂໍໂທດ - ຂ້ອຍພຽງແຕ່ດຽວນີ້ເຫັນວ່າມັນມີຫິມ, ນັ້ນແມ່ນທັງຫມົດ. ມື້ຂອງຂ້ອຍທັງ ຫມົດ ແມ່ນສໍ້ໂກງ. ຂ້ອຍຕ້ອງປູກຕະຫຼອດມື້. ຖ້າຂ້ອຍບໍ່ໄປຮອດ LaRiviere ໃນໄວພໍສົມ
+
+137
+00:09:11,300 --> 00:09:15,850
+[TWOMBLEY]
+It's not enough snow, not for tracking the bastards. No advantage there, kid.
+ມັນບໍ່ພຽງພໍຫິມະ, ບໍ່ແມ່ນເພື່ອຕິດຕາມຄົນໂຊກຮ້າຍ
+. ບໍ່ມີຂໍ້ດີຢູ່ບ່ອນນັ້ນ, ເດັກນ້ອຍ.
+
+138
+00:09:16,350 --> 00:09:22,350
+[JACK]
+Don't worry, Mr. Twombley, I know where those suckers are. Rain or shine, snow or no snow. I know deer. We'll kill us a buck today. Guaranteed. Before ten.
+ຢ່າກັງວົນ, ທ້າວຕວອມບລີ, ຂ້ອຍຮູ້ວ່າຄົນສູບນັ້ນຢູ່ໃສ. ຝົນຫລືແສງສະຫວ່າງ,
+ຫິມະຫຼືບໍ່ມີຫິມະ. ຂ້ອຍຮູ້ຫມູ. ພວກເຮົາຈະຂ້າພວກເຮົາເງິນໂດລາມື້ນີ້. ຮັບປະກັນ. ກ່ອນສິບ.
+
+139
+00:09:22,850 --> 00:09:24,850
+[TWOMBLEY]
+Guaranteed, eh?
+ຮັບປະກັນ, ແມ່ນບໍ?
+
+140
+00:09:25,350 --> 00:09:31,350
+[JACK]
+Yep. Right about now the does are holing up in the brush piles. The bucks are right behind them and we're right behind the bucks.  This gun gets fired before ten o'clock. Whether it kills a deer or not is more less up to you. I'll put you inside 30, 35 yards of a buck the first four hours of the season. That's what you're paying me for, ain't it?
+ແມ່ນແລ້ວ. ໃນເວລານີ້ພວກມັນ ກໍາ ລັງຮວບຮວມຢູ່ໃນຈານກະທູ້ກະຕຸ້ນກະຕູ້ນັ້ນ. ເງິນໂດລາແມ່ນຢູ່ເບື້ອງຫຼັງພວກເຂົາແລະພວກເຮົາຢູ່ເບື່ອງຫຼັງເງິນໂດລາ. ປືນນີ້ຖືກຍິງກ່ອນເວລາສິບໂມງ.
+ບໍ່ວ່າມັນຈະຂ້າຫມູຫຼືບໍ່ແມ່ນຂຶ້ນກັບເຈົ້າຫຼາຍຫນ້ອຍກວ່າ. ຂ້ອຍຈະເອົາເຈົ້າຢູ່ພາຍໃນ 30, 35 ແມັດຂອງເງິນໂດລານໃນເວລາສີ່ຊົ່ວໂມງ ທໍາ ອິດຂອງລະດູການ. ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າ ກໍາ ລັງຈ່າຍເງິນໃຫ້ຂ້ອຍ, ແມ່ນບໍ?
+
+141
+00:09:31,850 --> 00:09:33,850
+[TWOMBLEY]
+Damn straight!
+ມັນກົງກັນຂ້າມ!
+
+142
+00:09:34,350 --> 00:09:36,800
+[JACK]
+Done much shooting with that rifle yet?
+ເຈົ້າໄດ້ຍິງປືນນັ້ນຫຼາຍແລ້ວບໍ?
+
+143
+00:09:37,300 --> 00:09:43,300
+[TWOMBLEY]
+Tell you what. You get me close to a big buck by ten, kid, there's another hundred bucks in it.
+ຂ້ອຍຈະບອກເຈົ້າວ່າແນວໃດ. ເຈົ້າເຮັດໃຫ້ຂ້ອຍໃກ້ກັບເງິນໃຫຍ່ໃນເວລາສິບ
+, ເດັກນ້ອຍ, ມີເງິນອີກສິບໂດລາໃນມັນ.
+
+144
+00:09:43,800 --> 00:09:45,800
+[JACK]
+If you get it?
+ຖ້າເຈົ້າເຂົ້າໃຈມັນບໍ?
+
+145
+00:09:46,300 --> 00:09:48,300
+[TWOMBLEY]
+Yeah.
+ແມ່ນແລ້ວ.
+
+146
+00:09:48,800 --> 00:09:50,800
+[JACK]
+You might not kill it.
+ເຈົ້າອາດຈະບໍ່ຂ້າມັນ.
+
+147
+00:09:51,300 --> 00:09:53,300
+[TWOMBLEY]
+You think so.
+ເຈົ້າຄິດດັ່ງນັ້ນ.
+
+148
+00:09:53,800 --> 00:09:59,800
+[JACK]
+You might gut-shoot it or cripple it for somebody else to find and tag. Can't guarantee that won't happen, especially with a new gun. I may have to shoot it.
+ເຈົ້າອາດຈະຍິງມັນໃນທ້ອງຫຼືເຮັດໃຫ້ມັນບົກຜ່ອງ ສໍາ ລັບຄົນອື່ນທີ່ຈະຊອກຫາແລະປ້າຍ.
+ບໍ່ສາມາດຮັບປະກັນວ່າມັນຈະບໍ່ເກີດຂຶ້ນ, ໂດຍສະເພາະກັບປືນ ໃຫມ່. ຂ້ອຍອາດຈະຕ້ອງຍິງມັນ.
+
+149
+00:10:00,300 --> 00:10:04,500
+[TWOMBLEY]
+You take care of your end, kid, I'll take care of mine.
+ເຈົ້າເບິ່ງແຍງສ່ວນຂອງເຈົ້າ, ເດັກນ້ອຍ, ຂ້ອຍຈະເບິ່ງແຍກຂອງຂ້ອຍ.
+
+150
+00:10:05,000 --> 00:10:07,000
+[JACK]
+Mmm.
+ມມມມ
+
+151
+00:10:07,500 --> 00:10:13,450
+[TWOMBLEY]
+You understand what I'm saying? I want a deer, a dead one, not a cripple or whatthefuck.
+ເຈົ້າເຂົ້າໃຈວ່າຂ້ອຍເວົ້າຫຍັງ? ຂ້ອຍຢາກມີງົວ
+, ຄົນຕາຍ, ບໍ່ແມ່ນຄົນພິການຫຼືສິ່ງໃດກໍ່ຕາມ.
+
+152
+00:10:13,950 --> 00:10:19,950
+[JACK]
+I get it.  No sweat. You'll get yourself a deer and you'll get him dead. And you'll have him by coffee time.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ບໍ່ມີຫວານ. ເຈົ້າຈະເອົາງົວໃຫ້ຕົວເອງແລະເຈົ້າຈະເຮັດໃຫ້ລາວຕາຍ
+. ແລະເຈົ້າຈະມີລາວໃນເວລາກາເຟ.
+
+153
+00:10:20,450 --> 00:10:22,900
+[TWOMBLEY]
+And you'll get your extra hundred bucks.
+ແລະເຈົ້າຈະໄດ້ຮັບເງິນອີກສິບໂດລາ.
+
+154
+00:10:23,400 --> 00:10:25,400
+[JACK]
+Wonderful!
+ດີເລີດ!
+
+155
+00:10:25,900 --> 00:10:30,450
+[LUGENE]
+Are you okay, Wade? What was wrong? Why were you holding everyone up?
+ເຈົ້າບໍ່ເປັນຫຍັງ, ເວດ? ມີຫຍັງເກີດຂຶ້ນ? ເຈົ້າລໍຖ້າທຸກຄົນເປັນຫຍັງ?
+
+156
+00:10:30,950 --> 00:10:35,150
+[WADE]
+Did you see that sonofabitch in the BMW? He could've killed somebody.
+ເຈົ້າເຫັນຄົນໄອ້ສັດນະລົກນັ້ນໃນ BMW ບໍ? ລາວອາດຈະໄດ້ຂ້າຄົນໃດຫນຶ່ງ.
+
+157
+00:10:35,650 --> 00:10:37,650
+[LUGENE]
+Did you get his number?
+ເຈົ້າໄດ້ຮັບເບີຂອງລາວບໍ?
+
+158
+00:10:38,150 --> 00:10:40,150
+[WADE]
+I know who it is.
+ຂ້ອຍຮູ້ວ່າເປັນໃຜ.
+
+159
+00:10:40,650 --> 00:10:42,650
+[LUGENE]
+Good. Who?
+ດີ. ໃຜ?
+
+160
+00:10:43,150 --> 00:10:45,150
+[WADE]
+Mel Gordon.
+ແມລ ແກຣດອນ.
+
+161
+00:10:45,650 --> 00:10:47,650
+[LUGENE]
+I still don't understand --
+ຂ້ອຍຍັງບໍ່ເຂົ້າໃຈ...
+
+162
+00:10:48,150 --> 00:10:54,150
+[WADE]
+From Boston. Evan Twombley's son-in- law -- he was driving. I know where they're headed. Up the lake, Agaway. The old man's out deer hunting with Jack Hewitt, so they probably got some big weekend party planned.
+ຈາກໂບສຕັນ. ລູກຊາຍຂອງເອວານ ຕວອມບລີ - ລາວ ກໍາ ລັງຂັບລົດ. ຂ້ອຍຮູ້ວ່າພວກເຂົາ ກໍາ ລັງໄປໃສ. ຂຶ້ນທະເລ, ອາຄາເວຍ.
+ຜູ້ເຖົ້າຄົນນັ້ນ ກໍາ ລັງອອກໄປລ່າແມວກັບແຈກ ເຮວິດຕ໌, ສະນັ້ນພວກເຂົາອາດຈະມີການຈັດງານບຸນທ້າຍອາທິດໃຫຍ່ບາງຢ່າງ.
+
+163
+00:10:54,650 --> 00:10:56,650
+[JACK]
+Safety on?
+ຄວາມປອດໄພຢູ່ບໍ?
+
+164
+00:10:57,150 --> 00:10:59,150
+[TWOMBLEY]
+I'm okay.
+ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+165
+00:10:59,650 --> 00:11:02,100
+[JACK]
+Follow close. We'll cross the next meadow.
+ຕິດຕາມຢ່າງໃກ້ຊິດ. ພວກເຮົາຈະຂ້າມທົ່ງຫຍ້າຕໍ່ໄປ.
+
+166
+00:11:02,600 --> 00:11:04,600
+[JACK]
+I used to play ball.
+ຂ້ອຍເຄີຍຫຼິ້ນບານເຕະ.
+
+167
+00:11:05,100 --> 00:11:07,100
+[TWOMBLEY]
+Yeah?
+ແມ່ນແລ້ວ?
+
+168
+00:11:07,600 --> 00:11:09,600
+[JACK]
+Drafted by the Red Sox.
+ຖືກດັດແກ້ໂດຍ Red Sox.
+
+169
+00:11:10,100 --> 00:11:12,100
+[TWOMBLEY]
+You played for the Sox?
+ເຈົ້າຫຼິ້ນສໍາລັບ Sox ບໍ?
+
+170
+00:11:12,600 --> 00:11:14,600
+[JACK]
+Double A. New Britain.
+Double A. ອັງກິດໃຫມ່.
+
+171
+00:11:15,100 --> 00:11:17,100
+[TWOMBLEY]
+Oh.
+ໂອ້.
+
+172
+00:11:17,600 --> 00:11:21,800
+[JACK]
+Pitcher. "Best ballplayer to come out of New Hampshire since Carlton Fisk."
+ນັກຖິ້ມ.
+ນັກເຕະບານທີ່ດີທີ່ສຸດທີ່ອອກມາຈາກນິວແຮມເຊີນັບຕັ້ງແຕ່ຄາລຕັນ ຟິສກ໌.
+
+173
+00:11:22,300 --> 00:11:24,300
+[TWOMBLEY]
+Really.
+ແທ້ໆ.
+
+174
+00:11:24,800 --> 00:11:26,800
+[JACK]
+They said.
+ພວກເຂົາເວົ້າວ່າ.
+
+175
+00:11:27,300 --> 00:11:29,300
+[TWOMBLEY]
+Hmm.
+ອືມ
+
+176
+00:11:29,800 --> 00:11:34,700
+[JACK]
+The only difference between me and that Clemens on TV is luck, shit luck.
+ຄວາມແຕກຕ່າງດຽວລະຫວ່າງຂ້ອຍແລະຄເລເມນສ໌ໃນໂທລະພາບແມ່ນໂຊກດີ, ໂຊກຮ້າຍ.
+
+177
+00:11:35,200 --> 00:11:37,200
+[TWOMBLEY]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+178
+00:11:37,700 --> 00:11:43,700
+[JACK]
+Ruined my arm. Brought me along too fast. Why'd it have to be my fucking arm, I used to think. Then I realized it had to be somebody's fucking arm.
+ຂ້ອຍເຄີຍຄິດວ່າເປັນຫຍັງມັນຕ້ອງເປັນແຂນຂອງຂ້ອຍ.
+ຫຼັງຈາກນັ້ນຂ້ອຍຮູ້ວ່າມັນຕ້ອງແມ່ນແຂນຂອງຄົນອື່ນ.
+
+179
+00:11:44,200 --> 00:11:46,300
+[TWOMBLEY]
+Hey, Hewitt! Slow the fuck down!
+ເຮ້, ເຮວິດ! ຊ້າລົງ!
+
+180
+00:11:46,800 --> 00:11:48,800
+[JACK]
+Safety on?
+ຄວາມປອດໄພຢູ່ບໍ?
+
+181
+00:11:49,300 --> 00:11:51,300
+[TWOMBLEY]
+Yeah.
+ແມ່ນແລ້ວ.
+
+182
+00:11:51,800 --> 00:11:53,800
+[JACK]
+This way.
+ທາງນີ້.
+
+183
+00:11:54,300 --> 00:11:56,300
+[TWOMBLEY]
+Sun's gettin high.
+ແສງຕາເວັນ ກໍາ ລັງສູງຂຶ້ນ.
+
+184
+00:11:56,800 --> 00:11:58,800
+[JACK]
+Deers have ears too.
+ແມວມີຫູເຊັ່ນກັນ.
+
+185
+00:11:59,300 --> 00:12:02,800
+[LARIVIERE]
+Told you the snow was coming down. Take the grader.
+ຂ້ອຍບອກເຈົ້າວ່າຫິມະຈະຕົກລົງ. ເອົາເຄື່ອງຈັດຊັ້ນ.
+
+186
+00:12:03,300 --> 00:12:05,300
+[WADE]
+Where's the plow?
+ກະດານປູກຢູ່ໃສ?
+
+187
+00:12:05,800 --> 00:12:08,950
+[LARIVIERE]
+Jimmy took it. Jack's out hunting with Evan Twombley.
+ຈິມມີເອົາມັນ. ແຈກອອກໄປລ່າສັດກັບເອວານ ຕວອມບລີ.
+
+188
+00:12:09,450 --> 00:12:11,550
+[WADE]
+His son-in-law damn near killed me.
+ລູກຊາຍຂອງລາວເກືອບຈະຂ້າຂ້ອຍ.
+
+189
+00:12:12,050 --> 00:12:14,050
+[LARIVIERE]
+Huh?
+ຮາ?
+
+190
+00:12:14,550 --> 00:12:20,150
+[WADE]
+At the school crossing. In his BMW. Coulda hurt some kids. I'm gonna bust his ass.
+ຢູ່ທາງຂ້າມໂຮງຮຽນ. ໃນ BMW ຂອງລາວ.
+ລາວອາດຈະເຮັດໃຫ້ເດັກນ້ອຍບາງຄົນເຈັບປວດ. ຂ້ອຍຈະທໍາລາຍຫລັງລາວ.
+
+191
+00:12:20,650 --> 00:12:22,650
+[LARIVIERE]
+Don't go playing policeman.
+ຢ່າໄປຫຼິ້ນຕໍາຫຼວດ.
+
+192
+00:12:23,150 --> 00:12:28,400
+[WADE]
+What am I -- a security guard? You hired me, you and your Selectman friends.
+ຂ້ອຍເປັນຫຍັງ - ເຈົ້າຫນ້າທີ່ຮັກສາຄວາມປອດໄພບໍ?
+ເຈົ້າຈ້າງຂ້ອຍ, ເຈົ້າແລະເພື່ອນຄົນເລືອກຂອງທ່ານ.
+
+193
+00:12:28,900 --> 00:12:31,350
+[LARIVIERE]
+You don't want the extra police pay?
+ເຈົ້າບໍ່ຢາກຈ່າຍເງິນຕໍາຫຼວດເພີ່ມເຕີມບໍ?
+
+194
+00:12:31,850 --> 00:12:33,850
+[WADE]
+I'm not saying that.
+ຂ້ອຍບໍ່ໄດ້ເວົ້າແບບນັ້ນ.
+
+195
+00:12:34,350 --> 00:12:40,350
+[LARIVIERE]
+Get the grader. Go out 29 past Toby's. Don't let Lillian get to you. She didn't belong here. That's why she left.
+ເອົານັກຮຽນຊັ້ນຮຽນ. ອອກໄປ 29 ຜ່ານໂຕບີ. ຢ່າປ່ອຍໃຫ້ລີລິນໄປຫາເຈົ້າ
+. ນາງບໍ່ຂຶ້ນກັບບ່ອນນີ້. ນັ້ນແມ່ນເຫດຜົນທີ່ນາງອອກຈາກ.
+
+196
+00:12:40,850 --> 00:12:42,850
+[WADE]
+Fuck you.
+ເຈົ້າໄປໂຊກຮ້າຍ.
+
+197
+00:12:43,350 --> 00:12:47,200
+[LARIVIERE]
+That's what I love about a small town. You know everybody.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍມັກກ່ຽວກັບເມືອງນ້ອຍໆ. ເຈົ້າຮູ້ຈັກທຸກຄົນ.
+
+198
+00:12:47,700 --> 00:12:49,800
+[JACK]
+Stay here, stand where I am.
+ຢູ່ບ່ອນນີ້, ຢືນຢູ່ບ່ອນທີ່ຂ້ອຍຢູ່.
+
+199
+00:12:50,300 --> 00:12:55,200
+[JACK]
+Fresh tracks.  Deer shit. Big one. Here's your buck, Mr. Twombley. I'll circle around.
+ເສັ້ນທາງສົດໆ. ສິ່ງແມວແມ. ໃຫຍ່ໆ. ນີ້ແມ່ນເງິນຂອງທ່ານ
+, ທ້າວ Twombley. ຂ້ອຍຈະວົງຈອນຢູ່ອ້ອມຂ້າງ.
+
+200
+00:12:55,700 --> 00:12:59,900
+[TWOMBLEY]
+You only got a little while if you want your hundred bucks.
+ເຈົ້າມີເວລາພຽງເລັກນ້ອຍຖ້າເຈົ້າຕ້ອງການເງິນສິບໂດລາຂອງທ່ານ.
+
+201
+00:13:00,400 --> 00:13:02,400
+[JIMMY]
+How's it goin?
+ມັນເປັນແນວໃດ?
+
+202
+00:13:02,900 --> 00:13:04,900
+[WADE]
+Cold. How you think?
+ເຢັນ. ເຈົ້າຄິດແນວໃດ?
+
+203
+00:13:05,400 --> 00:13:11,000
+[JIMMY]
+Sorry about that. Why's it every year, come first snow, you get stuck with the grader?
+ຂໍໂທດກ່ຽວກັບເລື່ອງນັ້ນ. ເປັນຫຍັງມັນເປັນທຸກໆປີ
+, ຕົກຫິມະ ທໍາ ອິດ, ເຈົ້າຕິດກັບນັກຮຽນຊັ້ນ?
+
+204
+00:13:11,500 --> 00:13:14,300
+[WADE]
+School. Traffic crossing.  I gotta quit these things.
+ໂຮງຮຽນ. ການຂ້າມທາງຈະລາຈອນ. ຂ້ອຍຕ້ອງຢຸດສິ່ງເຫຼົ່ານີ້.
+
+205
+00:13:14,800 --> 00:13:20,800
+[JIMMY]
+What we doing after? Wells?  Don't work too fast. Business the way it is, Gordon's probably looking to lay me off earlier than usual this year. He's got too much money as it is. Why's it always the little guy that gets kicked in the butt in hard times?
+ພວກເຮົາຈະເຮັດຫຍັງຫຼັງຈາກນັ້ນ? ເວລສ໌? ຢ່າເຮັດວຽກໄວເກີນໄປ. ທຸລະກິດຕາມວິທີທີ່ມັນເປັນ, ໂກດອນອາດຈະ ກໍາ
+ລັງຊອກຫາທີ່ຈະໄລ່ຂ້ອຍກ່ອນກວ່າປົກກະຕິໃນປີນີ້. ລາວມີເງິນຫຼາຍເກີນໄປໃນຖານະເປັນ. ເປັນຫຍັງມັນຈຶ່ງເປັນຜູ້ຊາຍນ້ອຍທີ່ຖືກຕີໃນບາກໃນເວລາທີ່ຍາກ?
+
+206
+00:13:21,300 --> 00:13:27,300
+[LACOY]
+...That was no pisser. I'll tell you who was a pisser. Glen Whitehouse. There was a real pisser. He was mean normal, but when he drank it was like he burst on fire. Canadian Club. Always drank CC. One Christmas there's this cord of wood out back he forgot about and he decides to have his two boys stack it. Except it's been out back two months and it's snowed and rained and froze so now the wood's all iced in. He takes the boys. He was drunk, of course.
+ນັ້ນບໍ່ແມ່ນຄົນສູບຢາ. ຂ້ອຍຈະບອກເຈົ້າວ່າໃຜເປັນຄົນສູດຢາ. ແກລນ ວາຍຕ໌ຮາວສ໌. ມີຄົນສົ້ມຢາທີ່ແທ້ຈິງ. ລາວເປັນປົກກະຕິຢ່າງຮ້າຍແຮງ, ແຕ່ເມື່ອລາວດື່ມມັນຄືກັບວ່າລາວລະເບີດໄຟ.
+ສະໂມສອນການາດາ. ດື່ມ CC ຕະຫຼອດເວລາ. ວັນຄຣິດສະມາດຫນຶ່ງມີສາຍໄມ້ນີ້ຢູ່ດ້ານຫຼັງລາວລືມແລະລາວຕັດສິນໃຈໃຫ້ລູກຊາຍສອງຄົນຂອງລາວເກັບມັນໄວ້. ຍົກເວັ້ນວ່າມັນຢູ່ພາຍຫຼັງສອງເດືອນແລະມັນມີຫິ
+
+207
+00:13:27,800 --> 00:13:29,900
+[POP]
+Move it! Daylight in the swamps!
+ຍ້າຍໄປ! ແສງສະຫວ່າງຂອງມື້ໃນສະບາ!
+
+208
+00:13:30,400 --> 00:13:32,850
+[ROLFE]
+Pop, the kids are waiting for us.
+ພໍ່, ເດັກນ້ອຍ ກໍາ ລັງລໍຖ້າພວກເຮົາ.
+
+209
+00:13:33,350 --> 00:13:35,350
+[WADE]
+Rolfe.
+ໂຣລຟ໌.
+
+210
+00:13:35,850 --> 00:13:41,850
+[POP]
+A lesson in work and its rewards. You'll thank me for this one day.  Sally, turn off that TV!
+ບົດຮຽນໃນວຽກງານແລະລາງວັນຂອງມັນ. ເຈົ້າຈະຂອບໃຈຂ້ອຍ
+ສໍາ ລັບສິ່ງນີ້ມື້ຫນຶ່ງ. ແຊລລີ, ປິດໂທລະພາບນັ້ນ!
+
+211
+00:13:42,350 --> 00:13:44,350
+[WADE]
+Just do it.
+ພຽງແຕ່ເຮັດມັນ.
+
+212
+00:13:44,850 --> 00:13:46,850
+[POP]
+Atta-go.
+ໂຈມຕີໄປ.
+
+213
+00:13:47,350 --> 00:13:49,350
+[ROLFE]
+Please, Pop. Let's go back.
+ກະລຸນາ, ພໍ່. ໄປກັບຄືນໄປບ່ອນ.
+
+214
+00:13:49,850 --> 00:13:51,850
+[POP]
+What are you, a quitter?
+ເຈົ້າເປັນຫຍັງ, ຜູ້ອອກໄປບໍ?
+
+215
+00:13:52,350 --> 00:13:54,350
+[LONG-HAIRED LOCAL]
+So what happened?
+ສະນັ້ນເກີດຫຍັງຂຶ້ນ?
+
+216
+00:13:54,850 --> 00:14:00,850
+[LACOY]
+Beats me. That's all I heard. Wade would know more about it.  Wade! We were just talking about your Old Man. "What are you, a quitter!"
+ມັນເອົາຊະນະຂ້ອຍ. ນັ້ນແມ່ນທັງ ຫມົດ ທີ່ຂ້ອຍໄດ້ຍິນ. ເວດຈະຮູ້ຫຼາຍຂຶ້ນກ່ຽວກັບມັນ
+. ເວດ! ພວກເຮົາພຽງແຕ່ເວົ້າກ່ຽວກັບພໍ່ເຖົ້າຂອງທ່ານ."ເຈົ້າເປັນຫຍັງ, ຜູ້ອອກໄປ!"
+
+217
+00:14:01,350 --> 00:14:07,350
+[WADE]
+Jesus, LaCoy, you got nothing better to do than sit around and tell stories. Pity is, some college student will come some day and believe this shit cause you're the only one dumb enough to talk to him. Take care.
+ພຣະເຢຊູ, LaCoy, ເຈົ້າບໍ່ມີຫຍັງດີກວ່າທີ່ຈະເຮັດຈາກການນັ່ງຢູ່ແລະບອກເລື່ອງ. ໂຊກຮ້າຍແມ່ນ,
+ນັກສຶກສາວິທະຍາໄລບາງຄົນຈະມາໃນມື້ຫນຶ່ງແລະເຊື່ອສິ່ງນີ້ເພາະວ່າເຈົ້າເປັນຄົນດຽວທີ່ໂງ່ພໍທີ່ຈະເວົ້າກັບລາວ. ລະວັງຕົວເອງ.
+
+218
+00:14:07,850 --> 00:14:09,850
+[POP]
+That was some job.
+ນັ້ນແມ່ນວຽກທີ່ແທ້ຈິງ.
+
+219
+00:14:10,350 --> 00:14:12,450
+[ROLFE]
+We'll work at it everyday, promise.
+ພວກເຮົາຈະເຮັດວຽກຢູ່ມັນທຸກໆມື້, ສັນຍາ.
+
+220
+00:14:12,950 --> 00:14:15,050
+[POP]
+I think we made the point.
+ຂ້ອຍຄິດວ່າພວກເຮົາໄດ້ສະແດງໃຫ້ເຫັນ.
+
+221
+00:14:15,550 --> 00:14:17,550
+[WADE]
+You just needed a drink.
+ເຈົ້າພຽງແຕ່ຕ້ອງການດື່ມ.
+
+222
+00:14:18,050 --> 00:14:22,250
+[POP]
+What was that?  You got something to say, say it! Say it!
+ນັ້ນແມ່ນຫຍັງ? ເຈົ້າມີບາງສິ່ງບາງຢ່າງທີ່ຈະເວົ້າ, ເວົ້າມັນ! ບອກມັນ!
+
+223
+00:14:22,750 --> 00:14:24,750
+[WADE]
+Nothing.
+ບໍ່ມີຫຍັງເລີຍ.
+
+224
+00:14:25,250 --> 00:14:27,250
+[POP]
+You no-good pup!
+ເຈົ້າແມວທີ່ບໍ່ດີ!
+
+225
+00:14:27,750 --> 00:14:29,750
+[WADE]
+It don't look right.
+ມັນເບິ່ງຄືວ່າບໍ່ຖືກຕ້ອງ.
+
+226
+00:14:30,250 --> 00:14:32,250
+[NICK]
+What?
+ຫຍັງ?
+
+227
+00:14:32,750 --> 00:14:36,250
+[WADE]
+The sign. It looks like it's spelled wrong or something.
+ປ້າຍ. ມັນເບິ່ງຄືວ່າມັນຖືກຂຽນຜິດຫຼືບາງສິ່ງບາງຢ່າງ.
+
+228
+00:14:36,750 --> 00:14:42,750
+[NICK]
+Fuck. Wade Whitehouse. It's people like you that keep this fucking town from prospering. Whatever somebody does to improve things around here, you gotta find fault with it.
+ສະບາຍດີ. ເວດ ວາຍຕ໌ຮາວສ໌. ມັນແມ່ນຄົນຄືກັບເຈົ້າທີ່ເຮັດໃຫ້ເມືອງນີ້ບໍ່ຈະເລີນຮຸ່ງເຮືອງ
+. ບໍ່ວ່າໃຜຈະເຮັດຫຍັງເພື່ອປັບປຸງສິ່ງຕ່າງໆຢູ່ບ່ອນນີ້, ເຈົ້າຕ້ອງຊອກຫາຂໍ້ຜິດພາດໃນມັນ.
+
+229
+00:14:43,250 --> 00:14:49,250
+[WADE]
+I'm not finding fault. It's a good idea, good for you, good for the town. Real modern too.
+ຂ້ອຍບໍ່ໄດ້ຊອກຫາຂໍ້ຜິດພາດ. ມັນເປັນຄວາມຄິດທີ່ດີ, ດີ
+ສໍາ ລັບເຈົ້າ, ດີຕໍ່ເມືອງ. ທັນສະໄຫມແທ້ໆເຊັ່ນກັນ.
+
+230
+00:14:49,750 --> 00:14:51,750
+[NICK]
+This town sucks.
+ເມືອງນີ້ໂຊກຮ້າຍ.
+
+231
+00:14:52,250 --> 00:14:58,250
+[WADE]
+Aw, c'mon, I was only saying there's something wrong with "Home Made Cooking", that's all. The sign's fine. What it says is wrong.
+ໂອ້, ມາແລ້ວ, ຂ້ອຍພຽງແຕ່ເວົ້າວ່າມີບາງສິ່ງບາງຢ່າງຜິດກັບ"ການປຸງແຕ່ງອາຫານທີ່ເຮັດຢູ່ເຮືອນ"
+, ນັ້ນແມ່ນທັງຫມົດ. ປ້າຍບໍ່ເປັນຫຍັງ. ສິ່ງທີ່ມັນເວົ້າແມ່ນຜິດ.
+
+232
+00:14:58,750 --> 00:15:04,750
+[MARGIE]
+Who needs it? Everybody who comes here has been coming for years so what they need a sign for?
+ໃຜຕ້ອງການມັນ? ທຸກຄົນທີ່ມາບ່ອນນີ້ ກໍາ
+ລັງມາເປັນເວລາຫຼາຍປີແລ້ວ ສະນັ້ນພວກເຂົາຕ້ອງການປ້າຍຫຍັງ?
+
+233
+00:15:05,250 --> 00:15:07,250
+[MARGIE]
+You okay?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+234
+00:15:07,750 --> 00:15:09,750
+[WADE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+235
+00:15:10,250 --> 00:15:12,350
+[MARGIE]
+I'm sorry about what I said.
+ຂ້ອຍຂໍໂທດກ່ຽວກັບສິ່ງທີ່ຂ້ອຍເວົ້າ.
+
+236
+00:15:12,850 --> 00:15:14,850
+[WADE]
+Said what?
+ເວົ້າຫຍັງ?
+
+237
+00:15:15,350 --> 00:15:20,250
+[MARGIE]
+About you and Jill and needing a third person. She went back to Lillian?
+ກ່ຽວກັບເຈົ້າແລະຈິລ ແລະ ຕ້ອງການຄົນທີສາມ. ນາງກັບຄືນໄປບ່ອນລີລິນບໍ?
+
+238
+00:15:20,750 --> 00:15:22,750
+[WADE]
+Forget it.
+ລືມມັນໄປ.
+
+239
+00:15:23,250 --> 00:15:25,250
+[MARGIE]
+I'm sorry.
+ຂ້ອຍຂໍໂທດ.
+
+240
+00:15:25,750 --> 00:15:31,700
+[WADE]
+I'm going to start one of those custody suits. I don't give a fucking shit. You know?
+ຂ້ອຍຈະເລີ່ມຕົ້ນ ຫນຶ່ງ ໃນຊຸດການປົກຄອງນັ້ນ
+. ຂ້ອຍບໍ່ສົນໃຈເລີຍ. ເຈົ້າຮູ້ບໍ?
+
+241
+00:15:32,200 --> 00:15:34,200
+[MARGIE]
+You don't mean that.
+ເຈົ້າບໍ່ໄດ້ຫມາຍຄວາມວ່າ.
+
+242
+00:15:34,700 --> 00:15:36,700
+[WADE]
+Yeah. I mean that.
+ແມ່ນແລ້ວ. ຂ້ອຍເວົ້າແທ້ໆ.
+
+243
+00:15:37,200 --> 00:15:43,200
+[MARGIE]
+No you don't. You're pissed, that's all. You ought to cool off for a few days then have a long talk with Lillian. You know? Work it out with her, tell her how you feel. Lillian's not out to get you.
+ບໍ່ເຈົ້າບໍ່ເຮັດ. ເຈົ້າໂຊກຮ້າຍ, ນັ້ນແມ່ນທັງຫມົດ. ເຈົ້າຄວນເຢັນລົງເປັນເວລາສອງສາມມື້ຫຼັງຈາກນັ້ນມີການສົນທະນາທີ່ຍາວນານກັບລີລິນ
+. ເຈົ້າຮູ້ບໍ? ແກ້ໄຂມັນກັບນາງ, ບອກນາງວ່າທ່ານຮູ້ສຶກແນວໃດ. ລີລິນບໍ່ໄດ້ອອກໄປຫາເຈົ້າ.
+
+244
+00:15:43,700 --> 00:15:49,700
+[WADE]
+The hell she isn't. Lillian's been trying to nail me to a cross since the day I met her. I'm gonna hire me a fucking lawyer from Concord and get this thing, this divorce thing, rearranged. I've been thinking about it a lot. It's like she owns Jill or something. Nobody owns nobody, especially not kids. And I pay her.
+ນາງບໍ່ແມ່ນ. ລີລິນ ກໍາ ລັງພະຍາຍາມຈັບຂ້ອຍໃສ່ກະທູ້ຕັ້ງແຕ່ມື້ທີ່ຂ້ອຍພົບນາງ. ຂ້ອຍຈະຈ້າງທະນາຍຄວາມຈາກຄອນກອດແລະເອົາສິ່ງນີ້, ເລື່ອງການແຍກກັນນີ້, ຈັດຕັ້ງຄືນ.
+ຂ້ອຍ ກໍາ ລັງຄິດກ່ຽວກັບມັນຫຼາຍ. ມັນຄືກັບວ່ານາງເປັນເຈົ້າຂອງຈິລຫຼືບາງສິ່ງບາງຢ່າງ. ບໍ່ມີໃຜເປັນເຈົ້າຂອງໃຜ, ໂດຍສະເພາະບໍ່ແມ່ນເດັກນ້ອຍ. ແລະຂ້ອຍຈ່າຍໃຫ້ນາງ.
+
+245
+00:15:50,200 --> 00:15:52,200
+[NICK]
+Marg!
+ມາຮໍກ!
+
+246
+00:15:52,700 --> 00:15:58,700
+[WADE]
+That goddamned woman. Thinks she can cart Jill off and leave me alone like this. I'm more than pissed, Margie. I'm a whole lot more than pissed. I been that plenty and I know the difference. This is different.
+ແມ່ຍິງຄົນນັ້ນ. ຄິດວ່ານາງສາມາດຂັບຈິລໄປແລະປ່ອຍຂ້ອຍຢູ່ຄົນດຽວແບບນີ້. ຂ້ອຍຫຼາຍກວ່າໂຊກຮ້າຍ
+, ມາຈີ. ຂ້ອຍຫຼາຍກ່ວາໂສກຮ້າຍ. ຂ້ອຍເປັນຫຼາຍແລະຂ້ອຍຮູ້ຄວາມແຕກຕ່າງ. ນີ້ແມ່ນແຕກຕ່າງກັນ.
+
+247
+00:15:59,200 --> 00:16:01,200
+[NICK]
+Marg! You got orders!
+ມາຣກ໌! ເຈົ້າໄດ້ຮັບຄໍາສັ່ງ!
+
+248
+00:16:01,700 --> 00:16:03,700
+[MARGIE]
+Call me.
+ໂທຫາຂ້ອຍ.
+
+249
+00:16:04,200 --> 00:16:06,200
+[WADE]
+Tonight. Let's get together.
+ມື້ນີ້. ມາເຕົ້າໂຮມກັນ.
+
+250
+00:16:06,700 --> 00:16:08,700
+[MARGIE]
+Okay.
+ດີແລ້ວ.
+
+251
+00:16:09,200 --> 00:16:11,200
+[NICK]
+You talked to Jack?
+ເຈົ້າເວົ້າກັບແຈກບໍ?
+
+252
+00:16:11,700 --> 00:16:14,850
+[WADE]
+Not since last night. He took a guy hunting.
+ບໍ່ນັບຕັ້ງແຕ່ມື້ວານນີ້. ລາວເອົາຜູ້ຊາຍໄປລ່າສັດ.
+
+253
+00:16:15,350 --> 00:16:20,950
+[NICK]
+The fucker shot himself. Ker-bang! That's what it sounds like. Not on purpose. I assume accidental.
+ຄົນໂຊກຮ້າຍໄດ້ຍິງຕົວເອງ. Ker-bang! ນັ້ນແມ່ນສິ່ງທີ່ມັນເບິ່ງຄືວ່າ
+. ບໍ່ແມ່ນດ້ວຍຈຸດປະສົງ. ຂ້ອຍຄິດວ່າເປັນອຸບັດຕິເຫດ.
+
+254
+00:16:21,450 --> 00:16:23,450
+[WADE]
+Jack?
+ແຈກ?
+
+255
+00:16:23,950 --> 00:16:25,950
+[NICK]
+The other guy.
+ຜູ້ຊາຍຄົນອື່ນ.
+
+256
+00:16:26,450 --> 00:16:28,450
+[WADE]
+Where... how'd you hear that?
+ເຈົ້າໄດ້ຍິນເລື່ອງນັ້ນແນວໃດ?
+
+257
+00:16:28,950 --> 00:16:34,950
+[NICK]
+CB. Little while ago. One of the boys on the way in picked up Jack on the CB calling for state troopers. I figured you'd know what really happened. The fucking guy kill himself? This Twombley, who the fuck is he, anyhow?
+CB. ບໍ່ດົນມານີ້. ຫນຶ່ງໃນເດັກຊາຍທີ່ ກໍາ ລັງເຂົ້າມາໄດ້ເອົາແຈກໃນ CB ຮ້ອງຂໍທະຫານລັດ.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະຮູ້ວ່າເກີດຫຍັງຂຶ້ນແທ້ໆ. ຜູ້ຊາຍຄົນນີ້ຂ້າຕົວເອງບໍ? Twombley ນີ້, ລາວເປັນໃຜ, ຢ່າງໃດກໍ່ຕາມ?
+
+258
+00:16:35,450 --> 00:16:41,450
+[WADE]
+No, I... I've been out on the grader all morning. Twombley's summer people. Massachusetts. Friend of Gordon's. It was his idea for Jack to take him hunting.  I gotta go.
+ບໍ່, ຂ້ອຍ... ຂ້ອຍຢູ່ໂຮງຮຽນຊັ້ນຮຽນຕະຫຼອດຕອນເຊົ້າ. ຄົນລະດູຮ້ອນຂອງຕວອມບລີ. ມາຊາເຊັດສ໌
+. ເພື່ອນຂອງໂກດອນ. ມັນແມ່ນຄວາມຄິດຂອງລາວ ສໍາ ລັບແຈກທີ່ຈະພາລາວໄປລ່າສັດ. ຂ້ອຍຕ້ອງໄປ.
+
+259
+00:16:41,950 --> 00:16:43,950
+[NICK]
+He don't care for you.
+ລາວບໍ່ສົນໃຈເຈົ້າ.
+
+260
+00:16:44,450 --> 00:16:46,450
+[MARGIE]
+Stop being jealous.
+ຢຸດການໂຊກຮ້າຍ.
+
+261
+00:16:46,950 --> 00:16:48,950
+[LARIVIERE]
+What's the hurry?
+ຄວາມຮີບດ່ວນແມ່ນຫຍັງ?
+
+262
+00:16:49,450 --> 00:16:51,550
+[WADE]
+A hunting accident. Jack and Twombley.
+ອຸບັດຕິເຫດການລ່າສັດ. ແຈກ ແລະ ຕວອມບລີ.
+
+263
+00:16:52,050 --> 00:16:54,050
+[LARIVIERE]
+Huh?
+ຮາ?
+
+264
+00:16:54,550 --> 00:16:56,550
+[WADE]
+I figured you already heard.
+ຂ້ອຍຄິດວ່າເຈົ້າໄດ້ຍິນແລ້ວ.
+
+265
+00:16:57,050 --> 00:17:03,050
+[LARIVIERE]
+Twombley, Jesus. We got to get moving: I got to get up there. How would I know? C'mon, you drive. We'll take my truck.
+Twombley, ພຣະເຢຊູ. ພວກເຮົາຕ້ອງເຄື່ອນຍ້າຍ: ຂ້ອຍຕ້ອງຂຶ້ນໄປບ່ອນນັ້ນ
+. ຂ້ອຍຈະຮູ້ແນວໃດ? ມາ, ເຈົ້າຂັບລົດ. ພວກເຮົາຈະເອົາລົດບັນທຸກຂອງຂ້ອຍ.
+
+266
+00:17:03,550 --> 00:17:08,100
+[LARIVIERE]
+Fuck. Turn it off.  All you heard was there was some kinda accident?
+ສະບາຍດີ. ປິດມັນ. ເຈົ້າໄດ້ຍິນພຽງແຕ່ວ່າມີອຸບັດຕິເຫດບາງຢ່າງບໍ?
+
+267
+00:17:08,600 --> 00:17:12,450
+[WADE]
+Twombley's shot. I heard that. Not Jack. He's okay, I assume.
+Twombley ຖືກຍິງ. ຂ້ອຍໄດ້ຍິນນັ້ນ.
+ບໍ່ແມ່ນແຈກ. ລາວບໍ່ເປັນຫຍັງ, ຂ້ອຍຄິດວ່າ.
+
+268
+00:17:12,950 --> 00:17:15,750
+[LARIVIERE]
+Fuck. You don't know how bad or anything?
+ເຈົ້າບໍ່ຮູ້ວ່າມັນຮ້າຍແຮງຫຼາຍປານໃດຫຼືຫຍັງ?
+
+269
+00:17:16,250 --> 00:17:18,250
+[WADE]
+You mean Twombley?
+ເຈົ້າຫມາຍຄວາມວ່າ Twombley ບໍ?
+
+270
+00:17:18,750 --> 00:17:22,950
+[LARIVIERE]
+Yes, Wade, I mean Twombley. Put out that cigarette. Fuck. Fuck. Fuck.
+ແມ່ນແລ້ວ, ເວດ, ຂ້ອຍຫມາຍຄວາມວ່າ Twombley
+. ປິດຢາສູບນັ້ນ. ສະບາຍດີ. ສະຫວັດດີການ.
+
+271
+00:17:23,450 --> 00:17:29,050
+[WADE]
+He more than likely just shot himself in the foot or something. That's what usually happens.
+ລາວອາດຈະພຽງແຕ່ຍິງຕົວເອງໃນຕີນຫຼືບາງສິ່ງບາງຢ່າງ
+. ນັ້ນແມ່ນສິ່ງທີ່ມັກເກີດຂຶ້ນ.
+
+272
+00:17:29,550 --> 00:17:32,000
+[LARIVIERE]
+I shoulda sent you instead of Jack.
+ຂ້ອຍຄວນສົ່ງເຈົ້າແທນທີ່ຈະແຈກ.
+
+273
+00:17:32,500 --> 00:17:38,500
+[WADE]
+I wish you had. I'd rather be deer hunting instead of freezing my ass on that fucking grader.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າມີ.
+ຂ້ອຍມັກຈະລ່າແມວແທນທີ່ຈະກ້ອນຫລັງຂອງຂ້ອຍໃສ່ຊັ້ນຮຽນນັ້ນ.
+
+274
+00:17:39,000 --> 00:17:43,900
+[LARIVIERE]
+You ain't the hunter Jack is. And he can't drive the grader worth shit.
+ເຈົ້າບໍ່ແມ່ນນັກລ່າແຈກ.
+ແລະລາວບໍ່ສາມາດຂັບລົດນັກຮຽນທີ່ມີຄຸນຄ່າຫຍັງເລີຍ.
+
+275
+00:17:44,400 --> 00:17:46,400
+[WADE]
+Like hell.
+ຄືກັບໂຊກຮ້າຍ.
+
+276
+00:17:46,900 --> 00:17:50,400
+[LARIVIERE]
+That must've been Twombley. Jesus. I bet that was Twombley.
+ນັ້ນຕ້ອງເປັນຕວອມບລີ. ພຣະເຢຊູ. ຂ້ອຍແນ່ໃຈວ່າມັນເປັນຕູບລີ.
+
+277
+00:17:50,900 --> 00:17:53,700
+[WADE]
+You want me to follow them to Littleton?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍຕິດຕາມພວກເຂົາໄປຫາ Littleton ບໍ?
+
+278
+00:17:54,200 --> 00:18:00,200
+[LARIVIERE]
+Let's get to the top and talk to Jack first. He'll know what happened. He fucking better. If this coulda been avoided, I'll put that kid's ass in a sling.
+ພວກເຮົາໄປເທິງສຸດແລະເວົ້າກັບແຈກກ່ອນ. ລາວຈະຮູ້ວ່າເກີດຫຍັງຂຶ້ນ. ລາວດີກວ່າເກົ່າ
+. ຖ້າສິ່ງນີ້ສາມາດຫຼີກເວັ້ນໄດ້, ຂ້ອຍຈະເອົາຫລັງຂອງເດັກນ້ອຍນັ້ນໃສ່ກະດານ.
+
+279
+00:18:00,700 --> 00:18:02,700
+[JACK]
+You heard the news.
+ເຈົ້າໄດ້ຍິນຂ່າວແລ້ວ.
+
+280
+00:18:03,200 --> 00:18:05,200
+[LARIVIERE]
+I hear Twombley got shot.
+ຂ້ອຍໄດ້ຍິນວ່າ Twombley ຖືກຍິງ.
+
+281
+00:18:05,700 --> 00:18:07,700
+[JACK]
+Yeah.
+ແມ່ນແລ້ວ.
+
+282
+00:18:08,200 --> 00:18:13,100
+[BROWN]
+Watch the dog, Wade. Takes a mind to, he'll tear your fucking head off.
+ລະວັງຫມາ, ເວດ. ຖ້າລາວຕັດສິນໃຈ, ລາວຈະຕັດຫົວຂອງທ່ານອອກ.
+
+283
+00:18:13,600 --> 00:18:15,600
+[LARIVIERE]
+Bad?
+ບໍ່ດີບໍ?
+
+284
+00:18:16,100 --> 00:18:18,100
+[BROWN]
+Thirty-thirty at close range.
+ເວລາສາມສິບຢູ່ໄລຍະໃກ້ຊິດ.
+
+285
+00:18:18,600 --> 00:18:20,600
+[LARIVIERE]
+Jesus.
+ພຣະເຢຊູ.
+
+286
+00:18:21,100 --> 00:18:23,100
+[WADE]
+Will he make it?
+ລາວຈະເຮັດໄດ້ບໍ?
+
+287
+00:18:23,600 --> 00:18:29,600
+[BROWN]
+D.O.A. Blew the bastard wide open. Had a hole in back you could put your head into. Pretty big hole in front too. You could've put your fist into that one.
+D.O.A ໄດ້ລະເບີດໂຊກຮ້າຍຢ່າງກວ້າງຂວາງ. ມີຮູໃນຫຼັງທີ່ທ່ານສາມາດໃສ່ຫົວຂອງທ່ານໄດ້
+. ຮູທີ່ໃຫຍ່ຫຼາຍຢູ່ທາງຫນ້າເຊັ່ນກັນ. ເຈົ້າສາມາດໃສ່ມືຂອງທ່ານໃນນັ້ນໄດ້.
+
+288
+00:18:30,100 --> 00:18:32,100
+[LARIVIERE]
+You see it?
+ເຈົ້າເຫັນມັນບໍ?
+
+289
+00:18:32,600 --> 00:18:38,600
+[JACK]
+Nope. Heard it. We wasn't far apart. I spotted this buck, then I heard the gun go off and Twombley was gone. I looked over the little cliff we was using for a stand and there the fucker was, deader'n shit. Called it right in.
+ບໍ່. ໄດ້ຍິນມັນ. ພວກເຮົາບໍ່ໄດ້ຢູ່ຫ່າງໄກກັນ. ຂ້ອຍເຫັນເງິນນີ້, ຫຼັງຈາກນັ້ນຂ້ອຍໄດ້ຍິນປືນແຕກແລະ Twombley ໄດ້ຫາຍໄປ.
+ຂ້ອຍເບິ່ງຜ່ານກະຕ່ານ້ອຍທີ່ພວກເຮົາ ກໍາ ລັງໃຊ້ເປັນບ່ອນຢືນແລະບ່ອນນັ້ນຄົນໂຊກຮ້າຍແມ່ນ, ຄົນຕາຍ. ເອີ້ນມັນເຂົ້າມາທັນທີ.
+
+290
+00:18:39,100 --> 00:18:45,100
+[LARIVIERE]
+This is gonna be one fucking mess to clean up. Twombley's son-in-law and daughter are up the weekend. Didn't you say you'd seen him, Wade?
+ນີ້ແມ່ນຈະເປັນຄວາມສັບສົນທີ່ຕ້ອງເຮັດຄວາມສະອາດ. ລູກຊາຍແລະລູກສາວຂອງ
+Twombley ແມ່ນຂຶ້ນໃນທ້າຍອາທິດ. ເຈົ້າບໍ່ໄດ້ບອກວ່າເຈົ້າເຫັນລາວ, ເວດບໍ?
+
+291
+00:18:45,600 --> 00:18:48,050
+[WADE]
+I seen 'em. Near ran me over.
+ຂ້ອຍເຫັນພວກມັນ. ໃກ້ຈະແລ່ນຂ້າໄປ.
+
+292
+00:18:48,550 --> 00:18:52,050
+[BROWN]
+You wanna tell 'em, Gordon? You knew the old man.
+ເຈົ້າຢາກບອກພວກເຂົາບໍ, ໂກດອນ? ເຈົ້າຮູ້ຈັກພໍ່ເຖົ້າ.
+
+293
+00:18:52,550 --> 00:18:58,550
+[LARIVIERE]
+What the fuck. My day's already ruined.  Give me the keys. You can go back with Jack. You still got a shitload of plowing to do.
+ເຈົ້າສາມາດກັບຄືນໄປບ່ອນກັບແຈກໄດ້.
+ເຈົ້າຍັງມີການປູກຝັງຫຼາຍຢ່າງທີ່ຈະເຮັດ.
+
+294
+00:18:59,050 --> 00:19:01,850
+[WADE]
+It ain't done, if that's what you mean.
+ມັນບໍ່ໄດ້ເຮັດແລ້ວ, ຖ້າເຈົ້າຫມາຍຄວາມວ່ານັ້ນ.
+
+295
+00:19:02,350 --> 00:19:04,350
+[LARIVIERE]
+Something bugging you?
+ມີບາງສິ່ງບາງຢ່າງທີ່ກັງວົນເຈົ້າບໍ?
+
+296
+00:19:04,850 --> 00:19:06,850
+[WADE]
+Yeah. A few things.
+ແມ່ນແລ້ວ. ບາງຢ່າງ.
+
+297
+00:19:07,350 --> 00:19:13,350
+[LARIVIERE]
+Well, right now we're not too interested. Finish up what you gotta do, then you can get bugged on your own time.
+ດີ, ດຽວນີ້ພວກເຮົາບໍ່ສົນໃຈຫຼາຍ. ສິ້ນສຸດສິ່ງທີ່ເຈົ້າຕ້ອງເຮັດ
+, ຫຼັງຈາກນັ້ນເຈົ້າສາມາດໄດ້ຮັບການຟັງໃນເວລາຂອງທ່ານເອງ.
+
+298
+00:19:13,850 --> 00:19:19,850
+[LARIVIERE]
+Might as well take the rest of the day off. You look sort of fucked up. You've been paid for the day, anyhow, right?
+ເຈົ້າເບິ່ງຄືວ່າສໍ້ໂກງບາງຢ່າງ. ເຈົ້າໄດ້ຮັບການຈ່າຍເງິນ
+ສໍາ ລັບມື້, ຢ່າງໃດກໍ່ຕາມ, ແມ່ນບໍ?
+
+299
+00:19:20,350 --> 00:19:23,150
+[JACK]
+Not exactly. I mean, he never paid me.
+ບໍ່ແນ່ນອນ. ຂ້ອຍຫມາຍຄວາມວ່າ, ລາວບໍ່ເຄີຍຈ່າຍເງິນໃຫ້ຂ້ອຍເລີຍ.
+
+300
+00:19:23,650 --> 00:19:29,650
+[LARIVIERE]
+You'll get your money. Don't talk to any newspapers about this. Twombley's a big deal down in Massachusetts, you know. Tell them your lawyer says you shouldn't comment.
+ເຈົ້າຈະໄດ້ຮັບເງິນຂອງທ່ານ. ຢ່າເວົ້າກັບຫນັງສືພິມໃດໆກ່ຽວກັບເລື່ອງນີ້. Twombley ແມ່ນເລື່ອງໃຫຍ່ຢູ່ລຸ່ມໃນ
+Massachusetts, ເຈົ້າຮູ້ແລ້ວ. ບອກພວກເຂົາວ່າທະນາຍຄວາມຂອງທ່ານເວົ້າວ່າເຈົ້າບໍ່ຄວນໃຫ້ ຄໍາ ເຫັນ.
+
+301
+00:19:30,150 --> 00:19:32,600
+[JACK]
+Lawyer? I don't need no lawyer, do
+ຂ້ອຍບໍ່ຕ້ອງການທະນາຍຄວາມເລີຍ, ແມ່ນບໍ?
+
+302
+00:19:33,100 --> 00:19:36,250
+[LARIVIERE]
+No, of course not. Just say it, that's all.
+ບໍ່, ແນ່ນອນວ່າບໍ່ແມ່ນ. ພຽງແຕ່ເວົ້າມັນ, ນັ້ນແມ່ນທັງຫມົດ.
+
+303
+00:19:36,750 --> 00:19:38,750
+[WADE]
+Where'd Twombley get shot?
+Twombley ຖືກຍິງຢູ່ໃສ?
+
+304
+00:19:39,250 --> 00:19:41,250
+[JACK]
+In the chest.
+ໃນກະທູ້.
+
+305
+00:19:41,750 --> 00:19:43,750
+[WADE]
+No, I mean whereabouts.
+ບໍ່, ຂ້ອຍຫມາຍຄວາມວ່າຢູ່ໃສ.
+
+306
+00:19:44,250 --> 00:19:47,400
+[JACK]
+A half mile in, along the old lumber road.
+ເຄິ່ງແມລເຂົ້າໄປໃນ, ຕາມເສັ້ນທາງໄມ້ເກົ່າ.
+
+307
+00:19:47,900 --> 00:19:51,050
+[WADE]
+You bring him up yourself? That's a steep climb.
+ເຈົ້າເອົາລາວຂຶ້ນເອງບໍ? ນັ້ນແມ່ນການຂຶ້ນສູງ.
+
+308
+00:19:51,550 --> 00:19:53,650
+[JACK]
+The ambulance guys lugged him up.
+ພວກຄົນລົດສຸກເສີນເອົາລາວຂຶ້ນ.
+
+309
+00:19:54,150 --> 00:19:56,150
+[WADE]
+You stayed away?
+ເຈົ້າຢູ່ຫ່າງໄກບໍ?
+
+310
+00:19:56,650 --> 00:19:58,650
+[JACK]
+Yeah.
+ແມ່ນແລ້ວ.
+
+311
+00:19:59,150 --> 00:20:01,150
+[WADE]
+Where'd you get the blood?
+ເຈົ້າເອົາເລືອດມາຈາກໃສ?
+
+312
+00:20:01,650 --> 00:20:03,650
+[JACK]
+What blood?
+ເລືອດໃດ?
+
+313
+00:20:04,150 --> 00:20:06,150
+[WADE]
+On your sleeve.
+ຢູ່ເທິງແຂນຂອງທ່ານ.
+
+314
+00:20:06,650 --> 00:20:09,800
+[JACK]
+Musta... How'd I know? What're you doing, playing cop?
+ມັສຕາ... ຂ້ອຍຮູ້ແນວໃດ? ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ, ຫຼິ້ນຕໍາຫຼວດບໍ?
+
+315
+00:20:10,300 --> 00:20:16,300
+[WADE]
+I gotta make a report to Fish and Game. I was just wondering, that's all. What'd he do, to shoot himself, I mean?
+ຂ້ອຍຕ້ອງລາຍງານໃຫ້ Fish and Game. ຂ້ອຍພຽງແຕ່ສົງໄສ,
+ນັ້ນແມ່ນທັງຫມົດ. ລາວເຮັດຫຍັງ, ເພື່ອຍິງຕົວເອງ, ຂ້ອຍຫມາຍຄວາມວ່າ?
+
+316
+00:20:16,800 --> 00:20:22,050
+[JACK]
+Who the fuck knows? Musta slipped or something. I just heard the gun go off.
+ໃຜຮູ້? ມັສຕ້າລອຍລົງຫຼືບາງສິ່ງບາງຢ່າງ. ຂ້ອຍພຽງແຕ່ໄດ້ຍິນປືນແຕກ.
+
+317
+00:20:22,550 --> 00:20:27,800
+[WADE]
+I never seen a man shot before. Not even in the service. Must be something.
+ຂ້ອຍບໍ່ເຄີຍເຫັນຜູ້ຊາຍຖືກຍິງກ່ອນ.
+ບໍ່ເຖິງແມ່ນວ່າຢູ່ໃນບໍລິການ. ມັນຕ້ອງມີບາງສິ່ງບາງຢ່າງ.
+
+318
+00:20:28,300 --> 00:20:32,150
+[JACK]
+Well, I didn't actually see him do it. Like I said.
+ດີ, ຂ້ອຍບໍ່ໄດ້ເຫັນລາວເຮັດມັນແທ້ໆ. ດັ່ງທີ່ຂ້ອຍບອກແລ້ວ.
+
+319
+00:20:32,650 --> 00:20:34,650
+[WADE]
+Sure you did.
+ແນ່ນອນວ່າເຈົ້າເຮັດ.
+
+320
+00:20:35,150 --> 00:20:37,150
+[JACK]
+What?
+ຫຍັງ?
+
+321
+00:20:37,650 --> 00:20:39,650
+[WADE]
+Saw him do it?
+ເຫັນລາວເຮັດມັນບໍ?
+
+322
+00:20:40,150 --> 00:20:46,150
+[JACK]
+What the fuck you telling me, Wade? I never seen the guy get shot, I told you that.
+ເຈົ້າບອກຂ້ອຍຫຍັງ, ເວດ?
+ຂ້ອຍບໍ່ເຄີຍເຫັນຜູ້ຊາຍຖືກຍິງ, ຂ້ອຍບອກເຈົ້າແລ້ວ.
+
+323
+00:20:46,650 --> 00:20:50,150
+[WADE]
+You musta seen him get shot. I know you did.
+ເຈົ້າຕ້ອງໄດ້ເຫັນລາວຖືກຍິງ. ຂ້ອຍຮູ້ວ່າເຈົ້າເຮັດ.
+
+324
+00:20:50,650 --> 00:20:54,850
+[JACK]
+Let's get the fuck outta here. You're not making any sense, man.
+ພວກເຮົາອອກຈາກບ່ອນນີ້. ເຈົ້າບໍ່ໄດ້ເຮັດຄວາມ ຫມາຍ ຫຍັງເລີຍ, ຜູ້ຊາຍ.
+
+325
+00:20:55,350 --> 00:21:01,350
+[WADE]
+There's your old twenty-gauge, and that there's the new Browning you was showing me last night. This must be Twombley's gun. Brand new. Very fancy tooling. Probably fired one time. It's a beautiful piece of work.  But what the hell, Jack, I guess you deserve it. Right's right.
+ນັ້ນແມ່ນວັດແທກສິບເກົ່າຂອງທ່ານ, ແລະວ່າມີບຣາວນິງ ໃຫມ່ ທີ່ທ່ານ ກໍາ ລັງສະແດງໃຫ້ຂ້ອຍໃນມື້ວານນີ້. ນີ້ແມ່ນຕ້ອງເປັນປືນຂອງຕວອມບລີ. ໃຫມ່ໆ
+ຢ່າງສົມບູນແບບ. ເຄື່ອງມືທີ່ສວຍງາມຫຼາຍ. ອາດຖືກຍິງຄັ້ງດຽວ. ມັນແມ່ນວຽກງານທີ່ດີເລີດ. ແຕ່ຫຍັງແຈກ, ຂ້ອຍຄິດວ່າເຈົ້າສົມຄວນມັນ. ແມ່ນແລ້ວ.
+
+326
+00:21:01,850 --> 00:21:03,850
+[JACK]
+Yeah.
+ແມ່ນແລ້ວ.
+
+327
+00:21:04,350 --> 00:21:07,500
+[WADE]
+Twombley sure as hell won't be shooting it again.
+Twombley ແນ່ນອນວ່າຈະບໍ່ຖ່າຍມັນອີກເທື່ອຫນຶ່ງ.
+
+328
+00:21:08,000 --> 00:21:10,000
+[JACK]
+He sure as hell won't.
+ລາວແນ່ນອນວ່າຈະບໍ່ເຮັດ.
+
+329
+00:21:10,500 --> 00:21:12,500
+[WADE]
+Rolfe.
+ໂຣລຟ໌.
+
+330
+00:21:13,000 --> 00:21:15,000
+[ROLFE]
+Wade?
+ເວດ?
+
+331
+00:21:15,500 --> 00:21:21,500
+[WADE]
+Yeah, brother, look, I was calling cause -- has there been anything on TV in Boston about a hunting accident with a guy named Twombley, Evan Twombley?
+ແມ່ນແລ້ວ, ອ້າຍ, ເບິ່ງ, ຂ້ອຍ ກໍາ ລັງໂທຫາເຫດຜົນ -
+ມີຫຍັງຢູ່ໃນໂທລະພາບໃນໂບສຕັນກ່ຽວກັບອຸບັດຕິເຫດການລ່າສັດກັບຜູ້ຊາຍຊື່ວ່າ Twombley, ເອວານ Twombly ບໍ?
+
+332
+00:21:22,000 --> 00:21:24,800
+[ROLFE]
+There was something. It happened up your way.
+ມີບາງສິ່ງບາງຢ່າງ. ມັນເກີດຂຶ້ນທາງຂອງທ່ານ.
+
+333
+00:21:25,300 --> 00:21:31,300
+[WADE]
+Yeah, I know him -- the kid that was with him. Maybe you do too. Jack Hewitt. He works for LaRiviere with me. He's my best friend.
+ແມ່ນແລ້ວ, ຂ້ອຍຮູ້ຈັກລາວ - ເດັກນ້ອຍທີ່ຢູ່ກັບລາວ. ບາງທີເຈົ້າເຮັດເຊັ່ນກັນ. ແຈກ
+ເຮວິດຕ໌. ລາວເຮັດວຽກ ສໍາ ລັບລາຣີເວີກັບຂ້ອຍ. ລາວເປັນເພື່ອນທີ່ດີທີ່ສຸດຂອງຂ້ອຍ.
+
+334
+00:21:31,800 --> 00:21:37,800
+[ROLFE]
+Wade, it's late. I know you're probably at Toby's, but I'm in bed reading. We got different habits.
+ເວດ, ມັນຊ້າແລ້ວ. ຂ້ອຍຮູ້ວ່າເຈົ້າອາດຈະຢູ່ເຮືອນໂຕບີ
+, ແຕ່ຂ້ອຍຢູ່ໃນຕຽງອ່ານ. ພວກເຮົາມີນິໄສທີ່ແຕກຕ່າງກັນ.
+
+335
+00:21:38,300 --> 00:21:44,300
+[WADE]
+No, not tonight. I'm in bed too. I'm calling because I need you to listen. You're supposed to be a smart guy. You're a professor. I got this theory. Jack says he didn't see Twombley shot but he did.
+ບໍ່, ບໍ່ແມ່ນໃນຄືນນີ້. ຂ້ອຍຢູ່ໃນຕຽງເຊັ່ນກັນ. ຂ້ອຍໂທເພາະວ່າຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າຟັງ. ເຈົ້າຄວນເປັນຜູ້ຊາຍສະຫຼາດ
+. ເຈົ້າເປັນສາດສະດາຈານ. ຂ້ອຍມີທິດສະດີນີ້. ແຈກເວົ້າວ່າລາວບໍ່ໄດ້ເຫັນການຍິງ Twombley ແຕ່ລາວເຮັດ.
+
+336
+00:21:44,800 --> 00:21:49,000
+[WADE]
+It'll come out Jack lied and the kid'll get hung for it.
+ມັນຈະອອກມາວ່າແຈກສໍ້ໂກງແລະເດັກຈະຖືກວາງໄວ້ ສໍາ ລັບມັນ.
+
+337
+00:21:49,500 --> 00:21:55,500
+[ROLFE]
+He was scheduled to testify for a committee investigating organized crime in New England and the construction business.
+ລາວມີກໍານົດທີ່ຈະໃຫ້ຄວາມເຫັນ ສໍາ
+ລັບຄະນະກໍາມະການທີ່ສືບສວນອາຊະຍາກໍາທີ່ຈັດຕັ້ງຢູ່ໃນນິວອັງກິດແລະທຸລະກິດການກໍ່ສ້າງ.
+
+338
+00:21:56,000 --> 00:21:58,000
+[WADE]
+Who?
+ໃຜ?
+
+339
+00:21:58,500 --> 00:22:00,500
+[ROLFE]
+Twombley.
+Twombley.
+
+340
+00:22:01,000 --> 00:22:03,000
+[WADE]
+No shit.
+ບໍ່ເປັນຫຍັງ.
+
+341
+00:22:03,500 --> 00:22:05,500
+[ROLFE]
+You think Jack shot him?
+ເຈົ້າຄິດວ່າແຈກໄດ້ຍິງລາວບໍ?
+
+342
+00:22:06,000 --> 00:22:08,000
+[WADE]
+Well, it was an accident.
+ດີ, ມັນເປັນອຸບັດຕິເຫດ.
+
+343
+00:22:08,500 --> 00:22:14,500
+[ROLFE]
+They were out deer hunting, right? Jack probably heard the gun go off, then came back and found the body.
+ພວກເຂົາອອກໄປລ່າແມວ, ແມ່ນບໍ? ແຈກອາດຈະໄດ້ຍິນປືນແຕກ
+, ຫຼັງຈາກນັ້ນກັບມາແລະພົບສົບ.
+
+344
+00:22:15,000 --> 00:22:17,000
+[WADE]
+Lillian was here. In Lawford.
+ລີລິນຢູ່ບ່ອນນີ້. ໃນ Lawford.
+
+345
+00:22:17,500 --> 00:22:19,500
+[ROLFE]
+Huh?
+ຮາ?
+
+346
+00:22:20,000 --> 00:22:22,000
+[WADE]
+The night before the shooting.
+ໃນຄືນກ່ອນການຍິງ.
+
+347
+00:22:22,500 --> 00:22:24,500
+[ROLFE]
+How was she?
+ນາງເປັນແນວໃດ?
+
+348
+00:22:25,000 --> 00:22:31,000
+[WADE]
+Picked up Jill. She was supposed to visit for the weekend for Halloween. She wanted to go home.
+ຂ້ອຍເອົາຈິລ. ນາງຄວນໄປຢ້ຽມຢາມໃນທ້າຍອາທິດ
+ສໍາ ລັບຮາໂລວິນ. ນາງຢາກກັບບ້ານ.
+
+349
+00:22:31,500 --> 00:22:33,500
+[ROLFE]
+Who?
+ໃຜ?
+
+350
+00:22:34,000 --> 00:22:38,550
+[WADE]
+Jill. I was thinking of getting a lawyer. Maybe you can help me.
+ຈິລ. ຂ້ອຍ ກໍາ ລັງຄິດທີ່ຈະເອົາທະນາຍຄວາມ
+. ບາງທີເຈົ້າສາມາດຊ່ວຍຂ້ອຍໄດ້.
+
+351
+00:22:39,050 --> 00:22:41,050
+[ROLFE]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+352
+00:22:41,550 --> 00:22:45,400
+[WADE]
+A divorce lawyer. A custody lawyer. You know, 'cause of Jill.
+ທະນາຍຄວາມແຍກກັນ. ທະນົນຕີການປົກຄອງ. ເຈົ້າຮູ້ແລ້ວ, ຍ້ອນຈິລ.
+
+353
+00:22:45,900 --> 00:22:48,000
+[ROLFE]
+Don't think about it. You're exhausted.
+ຢ່າຄິດກ່ຽວກັບມັນ. ເຈົ້າເມື່ອຍແລ້ວ.
+
+354
+00:22:48,500 --> 00:22:50,500
+[WADE]
+Yeah, I guess.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າ.
+
+355
+00:22:51,000 --> 00:22:53,000
+[ROLFE]
+Get some sleep.
+ນອນບາງຢ່າງ.
+
+356
+00:22:53,500 --> 00:22:59,500
+[WADE]
+I get to feeling like a whipped dog some days, Rolfe, and some night I'm going to bite back. I swear it.
+ຂ້ອຍຮູ້ສຶກຄືກັບຫມາທີ່ຖືກຕີບາງມື້, ໂຣລຟ໌,
+ແລະໃນຄືນໃດຫນຶ່ງຂ້ອຍຈະກັດຄືນ. ຂ້ອຍສາບານໂຕ.
+
+357
+00:23:00,000 --> 00:23:02,800
+[ROLFE]
+Haven't you already done a bit of that?
+ເຈົ້າບໍ່ໄດ້ເຮັດສິ່ງນັ້ນແລ້ວບໍ?
+
+358
+00:23:03,300 --> 00:23:08,200
+[WADE]
+No, no, I haven't. Not really. I've growled a little, but I haven't bit.
+ບໍ່, ບໍ່, ຂ້ອຍບໍ່ໄດ້ເຮັດ. ບໍ່ແທ້ໆ.
+ຂ້ອຍໄດ້ຮ້ອງໄຫ້ເລັກນ້ອຍ, ແຕ່ຂ້ອຍບໍ່ໄດ້ກັດ.
+
+359
+00:23:08,700 --> 00:23:10,700
+[MRS. GORDON]
+Who are you?
+ເຈົ້າເປັນໃຜ?
+
+360
+00:23:11,200 --> 00:23:15,400
+[WADE]
+I was... I'm Wade Whitehouse. I was wondering, is your husband here?
+ຂ້ອຍເປັນ... ຂ້ອຍເປັນເວດ ວາຍຕ໌ຮາວສ໌.
+ຂ້ອຍຢາກຮູ້ວ່າ, ຜົວຂອງທ່ານຢູ່ບ່ອນນີ້ບໍ?
+
+361
+00:23:15,900 --> 00:23:18,350
+[MRS. GORDON]
+He's asleep. We were up very late.
+ລາວນອນແລ້ວ. ພວກເຮົາຕື່ນຊ້າຫຼາຍ.
+
+362
+00:23:18,850 --> 00:23:24,450
+[WADE]
+Well, yes, I'm... I want to say that I'm real sorry about your father, Mrs. Twombley.
+ດີ, ແມ່ນແລ້ວ, ຂ້ອຍ...
+ຂ້ອຍຢາກເວົ້າວ່າຂ້ອຍຂໍໂທດແທ້ໆກ່ຽວກັບພໍ່ຂອງທ່ານ, ທ່ານນາງຕວອມບລີ.
+
+363
+00:23:24,950 --> 00:23:26,950
+[MRS. GORDON]
+Mrs. Gordon. Thank you.
+ທ່ານນາງໂກດອນ. ຂອບໃຈ.
+
+364
+00:23:27,450 --> 00:23:33,450
+[WADE]
+Well, yeah, I suppose. Sure. I just had a little business to settle with Mr. Gordon. I'm the local police officer.
+ດີ, ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າ. ແນ່ນອນ. ຂ້ອຍພຽງແຕ່ມີທຸລະກິດນ້ອຍໆທີ່ຈະຕົກລົງກັບທ່ານໂກດອນ
+. ຂ້ອຍເປັນເຈົ້າຫນ້າທີ່ຕໍາຫຼວດທ້ອງຖິ່ນ.
+
+365
+00:23:33,950 --> 00:23:35,950
+[MRS. GORDON]
+Something about my father?
+ມີຫຍັງກ່ຽວກັບພໍ່ຂອງຂ້ອຍບໍ?
+
+366
+00:23:36,450 --> 00:23:40,650
+[WADE]
+Oh, no. No, it's a... it's a traffic thing. No big deal.
+ໂອ້, ບໍ່. ບໍ່, ມັນເປັນ...
+ມັນເປັນເລື່ອງການຈະລາຈອນ. ບໍ່ມີເລື່ອງໃຫຍ່.
+
+367
+00:23:41,150 --> 00:23:43,150
+[MRS. GORDON]
+Can't it wait, then?
+ຫຼັງຈາກນັ້ນມັນບໍ່ສາມາດລໍຖ້າໄດ້ບໍ?
+
+368
+00:23:43,650 --> 00:23:45,650
+[MEL GORDON]
+Whitehouse. Next time, phone ahead.
+ທໍານຽບຂາວ. ໃນຄັ້ງຕໍ່ໄປ, ໂທຫາທາງຫນ້າ.
+
+369
+00:23:46,150 --> 00:23:48,150
+[WADE]
+How's that?
+ນັ້ນເປັນແນວໃດ?
+
+370
+00:23:48,650 --> 00:23:50,750
+[MEL GORDON]
+I said, 'Next time, phone ahead.'
+ຂ້ອຍເວົ້າວ່າ,' ໃນຄັ້ງຕໍ່ໄປ, ໂທລະສັບຕໍ່ຫນ້າ.
+
+371
+00:23:51,250 --> 00:23:57,250
+[WADE]
+Jesus Christ. Mr. Gordon, when I come all the way to serve somebody a summons, I don't call ahead for an appointment.
+ພຣະເຢຊູຄຣິດ. ທ້າວໂກດອນ, ເມື່ອຂ້ອຍມາຈົນເຖິງທາງເພື່ອຮັບໃຊ້ຜູ້ໃດຜູ້
+ຫນຶ່ງ ການຮຽກຮ້ອງ, ຂ້ອຍບໍ່ໂທກ່ອນ ສໍາ ລັບການພົບປະ.
+
+372
+00:23:57,750 --> 00:24:00,200
+[MEL GORDON]
+What the hell are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+373
+00:24:00,700 --> 00:24:03,150
+[WADE]
+I'm issuing you a ticket. Moving violation.
+ຂ້ອຍ ກໍາ ລັງອອກປີ້ໃຫ້ເຈົ້າ. ການລະເມີດການເຄື່ອນຍ້າຍ.
+
+374
+00:24:03,650 --> 00:24:09,650
+[MEL GORDON]
+Moving violation! I just got out of bed and you're telling me you're giving me a goddamn speeding ticket? Now? Are you nuts? Is that it, Whitehouse? You're nuts?
+ການລະເມີດການເຄື່ອນຍ້າຍ! ຂ້ອຍຫາກໍ່ຕື່ນຈາກຕຽງແລະເຈົ້າ ກໍາ ລັງບອກຂ້ອຍວ່າ ເຈົ້າ ກໍາ
+ລັງໃຫ້ຂ້ອຍປີ້ຄວາມໄວທີ່ຮ້າຍແຮງບໍ? ດຽວນີ້? ເຈົ້າໂຊກຮ້າຍບໍ? ນັ້ນແມ່ນມັນບໍ, ເຮືອນຂາວ? ເຈົ້າແຊກແຊງບໍ?
+
+375
+00:24:10,150 --> 00:24:15,400
+[WADE]
+Yesterday morning, you passed a stopped school bus, which was flashing its lights, then you--
+ໃນຕອນເຊົ້າມື້ວານນີ້, ເຈົ້າຜ່ານລົດເມໂຮງຮຽນທີ່ຢຸດເຊົາ
+, ເຊິ່ງ ກໍາ ລັງສ່ອງແສງຂອງມັນ, ຫຼັງຈາກນັ້ນເຈົ້າ -
+
+376
+00:24:15,900 --> 00:24:17,900
+[MEL GORDON]
+Hold on!
+ລໍຖ້າ!
+
+377
+00:24:18,400 --> 00:24:21,550
+[WADE]
+Don't ever put your hands on me, Mr. Gordon.
+ຢ່າເອົາມືໃສ່ຂ້ອຍເລີຍ, ທ້າວໂກດອນ.
+
+378
+00:24:22,050 --> 00:24:28,050
+[MEL GORDON]
+You're talking about a goddamned ticket, from when I passed you at the school where you were deciding to hold up traffic while dreaming of becoming a traffic cop or something?
+ເຈົ້າ ກໍາ ລັງເວົ້າກ່ຽວກັບປີ້, ຈາກເວລາທີ່ຂ້ອຍຜ່ານເຈົ້າຢູ່ໂຮງຮຽນບ່ອນທີ່ທ່ານ ກໍາ
+ລັງຕັດສິນໃຈຢຸດການຈະລາຈອນໃນຂະນະທີ່ຝັນທີ່ຈະກາຍເປັນຕໍາຫຼວດຈະລາ ຈອນຫຼືບາງສິ່ງບາງຢ່າງບໍ?
+
+379
+00:24:28,550 --> 00:24:32,400
+[WADE]
+Don't give me a hard time, Mr. Gordon. I'm just --
+ຢ່າເຮັດໃຫ້ຂ້ອຍຫຍຸ້ງຍາກ, ທ້າວໂກດອນ. ຂ້ອຍພຽງແຕ່ -
+
+380
+00:24:32,900 --> 00:24:36,400
+[MEL GORDON]
+Doing your fucking job. I know. I watch television too.
+ເຮັດວຽກຂອງເຈົ້າ. ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍເບິ່ງໂທລະພາບເຊັ່ນກັນ.
+
+381
+00:24:36,900 --> 00:24:38,900
+[WADE]
+Yes. Here's your ticket.
+ແມ່ນແລ້ວ. ນີ້ແມ່ນປີ້ຂອງທ່ານ.
+
+382
+00:24:39,400 --> 00:24:45,400
+[MEL GORDON]
+You get the hell out of my house now, asshole. And know this -- you are going to be a lucky asshole if I haven't got you fired before the day is out. I can do it with one phone call, and I'm pissed enough to do it now!
+ເຈົ້າອອກຈາກເຮືອນຂອງຂ້ອຍດຽວນີ້, ຄົນໂຊກຮ້າຍ. ແລະຮູ້ສິ່ງນີ້ - ເຈົ້າຈະເປັນຄົນໂຊຄຮ້າຍໂຊຊກດີຖ້າຂ້ອຍບໍ່ໄດ້ເຮັດໃຫ້ເຈົ້າຖືກໄລ່ອອກກ່ອນມື້ຈະສິ້ນສຸດລົງ
+. ຂ້ອຍສາມາດເຮັດໄດ້ດ້ວຍການໂທໂທລະສັບດຽວ, ແລະຂ້ອຍໂຊງຮ້າຍພໍທີ່ຈະເຮັດມັນດຽວນີ້!
+
+383
+00:24:45,900 --> 00:24:51,850
+[MARGIE]
+Jack's sort of sensitive, I guess. More than most. But he'll be okay in a few weeks.
+ແຈກມີຄວາມຮູ້ສຶກບາງຢ່າງ, ຂ້ອຍຄິດວ່າ.
+ຫຼາຍກວ່າສ່ວນໃຫຍ່. ແຕ່ລາວຈະດີໃນສອງສາມອາທິດ.
+
+384
+00:24:52,350 --> 00:24:56,550
+[WADE]
+There's something funny about that shooting. There's lots funny about it, actually.
+ມີບາງສິ່ງບາງຢ່າງທີ່ຫນ້າມ່ວນກ່ຽວກັບການຍິງນັ້ນ.
+ມີຫຼາຍຢ່າງທີ່ ຫນ້າ ມ່ວນກ່ຽວກັບມັນ, ໃນຄວາມເປັນຈິງ.
+
+385
+00:24:57,050 --> 00:25:03,050
+[MARGIE]
+I heard he was drunk at Toby's last night and got in a fight with Hettie. He drove off without her...
+ຂ້ອຍໄດ້ຍິນວ່າລາວດື່ມຢູ່ເຮືອນໂຕບີມື້ວານນີ້ແລະເຂົ້າໃນການຕໍ່ສູ້ກັບເຮຕີ
+. ລາວຂັບລົດໄປໂດຍບໍ່ມີນາງ...
+
+386
+00:25:03,550 --> 00:25:08,100
+[WADE]
+I'm sure, I'm positive it didn't happen the way Jack says it did.
+ຂ້ອຍແນ່ໃຈວ່າ ມັນບໍ່ໄດ້ເກີດຂຶ້ນຕາມວິທີທີ່ແຈກເວົ້າ.
+
+387
+00:25:08,600 --> 00:25:14,600
+[MARGIE]
+...Jack's turned into one of those men who are permanently angry. He used to be a sweet kid, but it's like, when he found out he couldn't play ball anymore, he changed. Now he's like everyone else.
+ແຈກໄດ້ກາຍເປັນຄົນ ຫນຶ່ງ ໃນຜູ້ຊາຍທີ່ໂຊກຮ້າຍຢ່າງຖາວອນ. ລາວເຄີຍເປັນເດັກນ້ອຍທີ່ຫວານ, ແຕ່ມັນຄືກັບວ່າ
+, ເມື່ອລາວຮູ້ວ່າລາວບໍ່ສາມາດຫຼິ້ນບານເຕະໄດ້ອີກຕໍ່ໄປ, ລາວໄດ້ປ່ຽນແປງ. ດຽວນີ້ລາວຄືກັບຄົນອື່ນທຸກຄົນ.
+
+388
+00:25:15,100 --> 00:25:21,100
+[WADE]
+I've been wondering if maybe Jack shot Twombley, instead of Twombley shooting himself. I've been wondering maybe Jack shot him on purpose.
+ຂ້ອຍ ກໍາ ລັງສົງໄສວ່າບາງທີແຈກໄດ້ຍິງຕວອມບລີ, ແທນທີ່ຈະຕວໍາບລີໄດ້ຍິງຕົວເອງ
+. ຂ້ອຍໄດ້ສົງໄສບາງທີຈັກໄດ້ຍິງລາວດ້ວຍຈຸດປະສົງ.
+
+389
+00:25:21,600 --> 00:25:27,600
+[MARGIE]
+Wade! How can you even think such a thing? Why would Jack Hewitt do that, shoot Twombley on purpose?
+ເວດ! ເຈົ້າສາມາດຄິດສິ່ງດັ່ງກ່າວໄດ້ແນວໃດ? ເປັນຫຍັງແຈກ
+ເຮວິດຈຶ່ງເຮັດແບບນັ້ນ, ຍິງຕວອມບລີດ້ວຍຈຸດປະສົງ?
+
+390
+00:25:28,100 --> 00:25:30,100
+[WADE]
+Money.
+ເງິນ.
+
+391
+00:25:30,600 --> 00:25:32,600
+[MARGIE]
+Jack doesn't need money.
+ແຈກບໍ່ຕ້ອງການເງິນ.
+
+392
+00:25:33,100 --> 00:25:38,700
+[WADE]
+Everybody needs money. Except guys like Twombley and that sonofabitch son-in-law of his. People like that.
+ທຸກຄົນຕ້ອງການເງິນ. ຍົກເວັ້ນຜູ້ຊາຍເຊັ່ນ Twombley
+ແລະລູກຊາຍ sonfabitch ຂອງລາວນັ້ນ. ຄົນເຊັ່ນນັ້ນ.
+
+393
+00:25:39,200 --> 00:25:42,700
+[MARGIE]
+Jack wouldn't kill for it. Besides, who would pay him?
+ແຈກຈະບໍ່ຂ້າເພື່ອມັນ. ນອກຈາກນັ້ນ, ໃຜຈະຈ່າຍເງິນໃຫ້ລາວ?
+
+394
+00:25:43,200 --> 00:25:49,200
+[WADE]
+Lots of people. Guy like Evan Twombley, Boston union official, probably got lots of people want to see him dead. The Government's been investigating his links with the Mafia.
+ຄົນຫຼາຍຄົນ. ຜູ້ຊາຍເຊັ່ນເອວານ ຕວອມບລີ, ເຈົ້າຫນ້າທີ່ສະຫະພັນໂບສຕັນ,
+ບາງທີມີຄົນຫຼາຍຄົນຢາກເຫັນລາວຕາຍ. ລັດຖະບານ ກໍາ ລັງສືບສວນການເຊື່ອມໂຍງຂອງລາວກັບມາຟີຍ.
+
+395
+00:25:49,700 --> 00:25:51,700
+[MARGIE]
+The Mafia hire Jack Hewitt?
+ພວກມາຟີຍຈ້າງແຈກ ເຮວິດບໍ?
+
+396
+00:25:52,200 --> 00:25:58,200
+[WADE]
+No, I just know Jack's lying about what happened. He just seemed -- I know that kid, what he's like inside. He's a lot like I was at his age.
+ບໍ່, ຂ້ອຍພຽງແຕ່ຮູ້ວ່າແຈກ ກໍາ ລັງຕົວະກ່ຽວກັບສິ່ງທີ່ເກີດຂຶ້ນ. ລາວພຽງແຕ່ເບິ່ງຄືວ່າ
+- ຂ້ອຍຮູ້ຈັກເດັກຄົນນັ້ນ, ລາວເປັນແນວໃດພາຍໃນ. ລາວຄ້າຍຄືກັບຂ້ອຍໃນອາຍຸຂອງລາວຫຼາຍ.
+
+397
+00:25:58,700 --> 00:26:02,550
+[MARGIE]
+You wouldn't have done anything like that, shot someone for money.
+ເຈົ້າຈະບໍ່ເຮັດຫຍັງແບບນັ້ນ, ຍິງຄົນອື່ນເພື່ອເງິນ.
+
+398
+00:26:03,050 --> 00:26:09,050
+[WADE]
+No. Not for money. But, if somebody'd given me half a damned excuse -- I was pretty fucked up, you know.
+ບໍ່. ບໍ່ແມ່ນເພື່ອເງິນ. ແຕ່, ຖ້າໃຜໄດ້ໃຫ້ຂ້ອຍເຫດຜົນເຄິ່ງຫນຶ່ງ
+- ຂ້ອຍໂຊກຮ້າຍຫຼາຍ, ເຈົ້າຮູ້ແລ້ວ.
+
+399
+00:26:09,550 --> 00:26:11,550
+[MARGIE]
+But not now.
+ແຕ່ບໍ່ແມ່ນດຽວນີ້.
+
+400
+00:26:12,050 --> 00:26:14,500
+[MARGIE]
+When you gonna get that tooth fixed?
+ເຈົ້າຈະສ້ອມແປງແຂ້ວນັ້ນເມື່ອໃດ?
+
+401
+00:26:15,000 --> 00:26:18,500
+[WADE]
+I can see what you looked like as a kid.
+ຂ້ອຍເຫັນວ່າເຈົ້າເບິ່ງຄືແນວໃດໃນເວລາທີ່ເປັນເດັກນ້ອຍ.
+
+402
+00:26:19,000 --> 00:26:21,100
+[MARGIE]
+You knew me as a kid.
+ເຈົ້າຮູ້ຈັກຂ້ອຍເປັນເດັກນ້ອຍ.
+
+403
+00:26:21,600 --> 00:26:27,600
+[WADE]
+Yeah, but never what you looked like. Not really. Never really studied your face, like now. I was never able to see you as a kid when you were a kid until now, this way.
+ແມ່ນແລ້ວ, ແຕ່ບໍ່ເຄີຍເຫັນວ່າເຈົ້າເບິ່ງຄືແນວໃດ. ບໍ່ແທ້ໆ. ບໍ່ເຄີຍສຶກສາໃບຫນ້າຂອງທ່ານແທ້ໆ,
+ເຊັ່ນດຽວນີ້. ຂ້ອຍບໍ່ເຄີຍສາມາດເຫັນເຈົ້າເປັນເດັກນ້ອຍໃນເວລາທີ່ເຈົ້າເປັນເດັກຈົນຮອດປະຈຸບັນນີ້, ທາງນີ້.
+
+404
+00:26:28,100 --> 00:26:30,100
+[MARGIE]
+What way?
+ທາງໃດ?
+
+405
+00:26:30,600 --> 00:26:35,850
+[WADE]
+After making love. I like it. It's nice to see that in a grown-up person.
+ຫຼັງຈາກການຮັກ. ຂ້ອຍມັກມັນ. ມັນດີທີ່ຈະເຫັນມັນໃນຄົນໃຫຍ່.
+
+406
+00:26:36,350 --> 00:26:38,350
+[MARGIE]
+It's nice.
+ມັນດີເລີດ.
+
+407
+00:26:38,850 --> 00:26:44,850
+[MARGIE]
+Don't you think, do you still think it's a good idea to press this custody thing -- just now?
+ເຈົ້າບໍ່ຄິດບໍ,
+ເຈົ້າຍັງຄິດວ່າມັນເປັນຄວາມຄິດທີ່ດີທີ່ຈະກົດເລື່ອງການປົກຄອງນີ້ - ດຽວນີ້ບໍ?
+
+408
+00:26:45,350 --> 00:26:51,350
+[WADE]
+I'm her father -- supposed to be, but I'm not able to. Yes. Yes, I am. It may be the only thing in my life I've been so clear about wanting. Even if it takes a big fight.
+ຂ້ອຍເປັນພໍ່ຂອງນາງ - ຄວນຈະເປັນ, ແຕ່ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້. ແມ່ນແລ້ວ. ແທ້ຈິງ, ຂ້ອຍເປັນ.
+ມັນອາດຈະເປັນສິ່ງດຽວໃນຊີວິດຂອງຂ້ອຍທີ່ຂ້ອຍມີຄວາມຈະແຈ້ງຫຼາຍກ່ຽວກັບຄວາມຕ້ອງການ. ເຖິງແມ່ນວ່າມັນຕ້ອງຕໍ່ສູ້ຢ່າງໃຫຍ່.
+
+409
+00:26:51,850 --> 00:26:53,950
+[MARGIE]
+Then... I guess you have to.
+ຫຼັງຈາກນັ້ນ... ຂ້ອຍຄິດວ່າເຈົ້າຕ້ອງເຮັດ.
+
+410
+00:26:54,450 --> 00:27:00,450
+[WADE]
+There's another thing I've been thinking about. I don't know how you feel about the idea, Margie, because we've never talked about it. But I've been thinking lately, I've been thinking we should get married sometime. You and me.
+ມີອີກສິ່ງຫນຶ່ງທີ່ຂ້ອຍ ກໍາ ລັງຄິດຢູ່. ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າຮູ້ສຶກແນວໃດກ່ຽວກັບຄວາມຄິດ, ມາຈີ,
+ເພາະວ່າພວກເຮົາບໍ່ເຄີຍເວົ້າກ່ຽວກັບມັນເລີຍ. ແຕ່ຂ້ອຍໄດ້ຄິດໃນໄລຍະຜ່ານມາ, ຂ້ອຍໄດ້ຄິດວ່າພວກເຮົາຄວນແຕ່ງງານໃນບາງຄັ້ງ. ເຈົ້າແລະຂ້ອຍ.
+
+411
+00:27:00,950 --> 00:27:02,950
+[MARGIE]
+Oh, Wade.
+ໂອ້ ເວດ.
+
+412
+00:27:03,450 --> 00:27:05,900
+[WADE]
+I've been thinking about it, that's all.
+ຂ້ອຍ ກໍາ ລັງຄິດກ່ຽວກັບມັນ, ນັ້ນແມ່ນທັງຫມົດ.
+
+413
+00:27:06,400 --> 00:27:08,400
+[MARGIE]
+You've been married twice --
+ເຈົ້າໄດ້ແຕ່ງງານສອງຄັ້ງແລ້ວ -
+
+414
+00:27:08,900 --> 00:27:14,900
+[WADE]
+It was to the same woman. I was just a kid...  It's not like a marriage proposal or anything, just a thought. Something for you and me to talk about and think about. You know?
+ມັນເປັນກັບແມ່ຍິງດຽວກັນ. ຂ້ອຍພຽງແຕ່ເປັນເດັກນ້ອຍ... ມັນບໍ່ແມ່ນຄືກັບການສະເຫນີແຕ່ງງານຫຼືຫຍັງເລີຍ
+, ພຽງແຕ່ຄວາມຄິດ. ບາງສິ່ງບາງຢ່າງ ສໍາ ລັບເຈົ້າແລະຂ້ອຍທີ່ຈະເວົ້າແລະຄິດກ່ຽວກັບ. ເຈົ້າຮູ້ບໍ?
+
+415
+00:27:15,400 --> 00:27:17,400
+[MARGIE]
+Alright. I'll think about it.
+ດີແລ້ວ. ຂ້ອຍຈະຄິດກ່ຽວກັບມັນ.
+
+416
+00:27:17,900 --> 00:27:19,900
+[WADE]
+Good.
+ດີແລ້ວ.
+
+417
+00:27:20,400 --> 00:27:26,400
+[POP]
+I've got sons, Goddamnit, oh my God, have I got sons! Wade? Rolfe? Elbourne? You love me boys? Do you love your Pop? Of course you do!
+ຂ້ອຍມີລູກຊາຍ, ພຣະເຈົ້າ, ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ, ມີລູກຊາຍບໍ! ເວດ? ໂຣລຟ໌?
+ເອລບອນ? ເຈົ້າຮັກຂ້ອຍເດັກຊາຍບໍ? ເຈົ້າມັກພໍ່ຂອງທ່ານບໍ? ແນ່ນອນວ່າເຈົ້າເຮັດ!
+
+418
+00:27:26,900 --> 00:27:28,900
+[SALLY]
+Glen, stop --
+ແກລນ, ຢຸດເຊົາ...
+
+419
+00:27:29,400 --> 00:27:35,400
+[POP]
+Oh, Jesus, Sally, you are such a Goddamned good person! Capital G. You are so much better than I am, I who am no good at all, you who are a truly good person, like a fucking saint! Beyond fucking com-pare.
+ໂອ້ ພຣະເຢຊູ, ແຊລລີ, ເຈົ້າເປັນຄົນດີຫຼາຍ! ນະຄອນຫຼວງຈີ. ເຈົ້າດີກວ່າຂ້ອຍຫຼາຍ,
+ຂ້ອຍທີ່ບໍ່ດີເລີຍ, ເຈົ້າທີ່ເປັນຄົນດີແທ້ໆ, ຄືກັບຜູ້ສັກສິດ! ນອກຈາກການປຽບທຽບກັນ.
+
+420
+00:27:35,900 --> 00:27:39,750
+[POP]
+My big boy bursting out of the seams of his jeans!
+ລູກຊາຍໃຫຍ່ຂອງຂ້ອຍແຕກອອກຈາກສາຍແອວຂອງຈິນສ໌ຂອງລາວ!
+
+421
+00:27:40,250 --> 00:27:42,250
+[SALLY]
+Don't!
+ຢ່າເຮັດ!
+
+422
+00:27:42,750 --> 00:27:44,750
+[POP]
+You little prick!
+ເຈົ້າໂຊກຮ້າຍນ້ອຍໆ!
+
+423
+00:27:45,250 --> 00:27:47,250
+[SALLY]
+Glen, stop!
+ແກລນ, ຢຸດເຊົາ!
+
+424
+00:27:47,750 --> 00:27:50,550
+[MARGIE]
+Did you tell them?  That we were coming?
+ເຈົ້າບອກພວກເຂົາບໍ? ວ່າພວກເຮົາຈະມາ?
+
+425
+00:27:51,050 --> 00:27:56,300
+[WADE]
+Don't you think it's proper for a fella to introduce his girl to his parents?
+ເຈົ້າບໍ່ຄິດວ່າມັນ ເຫມາະ ສົມ ສໍາ
+ລັບຜູ້ຊາຍທີ່ຈະແນະນໍາເດັກຍິງຂອງລາວໃຫ້ພໍ່ແມ່ຂອງລາວບໍ?
+
+426
+00:27:56,800 --> 00:27:58,800
+[MARGIE]
+I know your parents.
+ຂ້ອຍຮູ້ຈັກພໍ່ແມ່ຂອງເຈົ້າ.
+
+427
+00:27:59,300 --> 00:28:04,900
+[WADE]
+I just want to pick up my divorce papers. For the lawyer. It won't take long.
+ຂ້ອຍພຽງແຕ່ຢາກເອົາເອກະສານແຍກກັນຂອງຂ້ອຍ.
+ສໍາລັບທະນາຍຄວາມ. ມັນຈະບໍ່ໃຊ້ເວລາຫຼາຍ.
+
+428
+00:28:05,400 --> 00:28:08,200
+[MARGIE]
+Are you sure they're home? Did you call?
+ເຈົ້າແນ່ໃຈວ່າພວກເຂົາຢູ່ເຮືອນບໍ? ເຈົ້າໂທບໍ?
+
+429
+00:28:08,700 --> 00:28:12,900
+[WADE]
+The truck's here. Looks like they've stayed inside since the snow started.
+ລົດບັນທຸກຢູ່ບ່ອນນີ້.
+ເບິ່ງຄືວ່າພວກເຂົາໄດ້ຢູ່ພາຍໃນນັບຕັ້ງແຕ່ຫິມະເລີ່ມຕົ້ນ.
+
+430
+00:28:13,400 --> 00:28:15,400
+[WADE]
+Strange.
+ແປກໃຈ.
+
+431
+00:28:15,900 --> 00:28:17,900
+[MARGIE]
+Think they're alright?
+ເຈົ້າຄິດວ່າພວກເຂົາບໍ່ເປັນຫຍັງບໍ?
+
+432
+00:28:18,400 --> 00:28:20,400
+[WADE]
+Of course! I would've heard.
+ແນ່ນອນ! ຂ້ອຍຈະໄດ້ຍິນ.
+
+433
+00:28:20,900 --> 00:28:22,900
+[MARGIE]
+How?
+ແນວໃດ?
+
+434
+00:28:23,400 --> 00:28:25,500
+[WADE]
+I don't know for Christ's sake!
+ຂ້ອຍບໍ່ຮູ້ເລີຍ!
+
+435
+00:28:26,000 --> 00:28:28,000
+[WADE]
+Pop, Pop, you okay?
+ພໍ່, ພໍ່, ເຈົ້າດີບໍ?
+
+436
+00:28:28,500 --> 00:28:33,050
+[WADE]
+Jesus, Pop, how can you stand the cold, dressed like that? Where's Ma?
+ພຣະເຢຊູ, ພໍ່, ເຈົ້າສາມາດທົນຄວາມເຢັນໄດ້ແນວໃດ
+, ໃສ່ເຄື່ອງນຸ່ງຫົ່ມແບບນັ້ນ? ແມ່ຢູ່ໃສ?
+
+437
+00:28:33,550 --> 00:28:35,550
+[POP]
+Sleeping.
+ນອນຢູ່.
+
+438
+00:28:36,050 --> 00:28:38,050
+[WADE]
+You remember Margie Fogg?
+ເຈົ້າຈື່ມາຣຈີ ຟອກບໍ?
+
+439
+00:28:38,550 --> 00:28:41,350
+[POP]
+From Wickham's. Been a while. Like some coffee?
+ຈາກເຮືອນວິກແມ. ເປັນເວລາດົນນານແລ້ວ. ຢາກກິນກາເຟບໍ?
+
+440
+00:28:41,850 --> 00:28:46,400
+[WADE]
+How you and Ma doing? Haven't seen you in town for a while.
+ເຈົ້າແລະແມ່ເປັນແນວໃດ?
+ຂ້ອຍບໍ່ໄດ້ເຫັນເຈົ້າໃນເມືອງເປັນເວລາດົນນານແລ້ວ.
+
+441
+00:28:46,900 --> 00:28:50,750
+[POP]
+We're alright. Your Ma's sleeping. You want me to get her?
+ພວກເຮົາບໍ່ເປັນຫຍັງ. ແມ່ຂອງທ່ານນອນຢູ່. ເຈົ້າຢາກໃຫ້ຂ້ອຍເອົານາງບໍ?
+
+442
+00:28:51,250 --> 00:28:53,250
+[WADE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+443
+00:28:53,750 --> 00:28:55,750
+[WADE]
+Jesus. Nothing's changed around here.
+ພຣະເຢຊູ. ບໍ່ມີຫຍັງປ່ຽນແປງຢູ່ບ່ອນນີ້.
+
+444
+00:28:56,250 --> 00:28:58,250
+[WADE]
+Where's Ma?
+ແມ່ຢູ່ໃສ?
+
+445
+00:28:58,750 --> 00:29:00,750
+[POP]
+She's coming.
+ນາງ ກໍາ ລັງມາ.
+
+446
+00:29:01,250 --> 00:29:05,100
+[MARGIE]
+Have you been heating the house? Not just with the stove.
+ເຈົ້າ ກໍາ ລັງເຮັດຄວາມຮ້ອນເຮືອນບໍ?
+ບໍ່ແມ່ນພຽງແຕ່ດ້ວຍເຕົາອົບເທົ່ານັ້ນ.
+
+447
+00:29:05,600 --> 00:29:07,600
+[POP]
+There's a furnace.
+ມີເຕົາອົບ.
+
+448
+00:29:08,100 --> 00:29:10,100
+[MARGIE]
+You're not using it today?
+ເຈົ້າບໍ່ໄດ້ໃຊ້ມັນມື້ນີ້ບໍ?
+
+449
+00:29:10,600 --> 00:29:14,100
+[POP]
+It's broke I guess. There's an electric in the bedroom.
+ຂ້ອຍຄິດວ່າມັນແຕກແລ້ວ. ມີໄຟຟ້າໃນຫ້ອງນອນ.
+
+450
+00:29:14,600 --> 00:29:20,200
+[MARGIE]
+Maybe Wade should take a look at it. Your pipes'll freeze.  Wade, would you do that?
+ບາງທີເວດຄວນເບິ່ງມັນ. ທໍ່ຂອງທ່ານຈະກ້ອນ. ເວດ, ເຈົ້າຈະເຮັດແບບນັ້ນບໍ?
+
+451
+00:29:20,700 --> 00:29:23,150
+[WADE]
+Ma? It's Wade. Can I come in?
+ແມ່? ມັນແມ່ນເວດ. ຂ້ອຍເຂົ້າມາໄດ້ບໍ?
+
+452
+00:29:23,650 --> 00:29:25,650
+[WADE]
+Oh, Lord.
+ໂອ້ ພຣະຜູ້ເປັນເຈົ້າ.
+
+453
+00:29:26,150 --> 00:29:28,150
+[POP]
+Coffee's perked.
+ກາເຟແລ້ວ.
+
+454
+00:29:28,650 --> 00:29:30,650
+[MARGIE]
+When did she die?
+ນາງຕາຍເມື່ອໃດ?
+
+455
+00:29:31,150 --> 00:29:33,150
+[POP]
+Is...? She's dead then?
+ນາງຕາຍແລ້ວບໍ?
+
+456
+00:29:33,650 --> 00:29:35,650
+[WADE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+457
+00:29:36,150 --> 00:29:42,150
+[POP]
+I checked on her. She had the electric heater. Cold don't bother her as much as me. Which is why I give her the heater.
+ຂ້ອຍກວດເບິ່ງນາງ. ນາງມີເຄື່ອງເຮັດຄວາມຮ້ອນໄຟຟ້າ. ຄວາມເຢັນບໍ່ກັງວົນນາງຫຼາຍເທົ່າກັບຂ້ອຍ
+. ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍໃຫ້ເຄື່ອງເຮັດໃຫ້ຮ້ອນໃຫ້ນາງ.
+
+458
+00:29:42,650 --> 00:29:45,100
+[WADE]
+Is there something wrong with the phone?
+ມີຫຍັງຜິດກັບໂທລະສັບບໍ?
+
+459
+00:29:45,600 --> 00:29:47,600
+[POP]
+In the living room.
+ໃນຫ້ອງຮັບແຂກ.
+
+460
+00:29:48,100 --> 00:29:51,250
+[WADE]
+Why didn't you call and have the furnace fixed?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ໂທຫາແລະເຮັດໃຫ້ເຕົາໄຟຖືກສ້ອມແປງ?
+
+461
+00:29:51,750 --> 00:29:55,600
+[POP]
+Wade. I thought she was alright. Till this morning she was.
+ເວດ. ຂ້ອຍຄິດວ່ານາງບໍ່ເປັນຫຍັງ. ຈົນຮອດຕອນເຊົ້ານີ້ນາງເປັນ.
+
+462
+00:29:56,100 --> 00:29:58,100
+[POP]
+It makes me sad.
+ມັນເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍ.
+
+463
+00:29:58,600 --> 00:30:00,600
+[MARGIE]
+Can --?
+ສາມາດ - ໄດ້ບໍ?
+
+464
+00:30:01,100 --> 00:30:05,300
+[POP]
+Makes me sad it was her. Instead of me. I shoulda froze.
+ມັນເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍວ່າມັນແມ່ນນາງ. ແທນຂ້ອຍ. ຂ້ອຍຄວນກ້ອນ.
+
+465
+00:30:05,800 --> 00:30:11,800
+[ROLFE]
+Wade called me, as usual, late at night. I knew it was Wade -- no one else calls me at that hour -- and I was ready to listen to another chapter in one of his ongoing sagas. There was the detective story concerning the shooting of Evan Twombley and the family melodrama about Wade's custody fight with Lillian. But not this time.
+ເວດໄດ້ໂທຫາຂ້ອຍ, ຕາມປົກກະຕິແລ້ວ, ໃນຕອນແລງ. ຂ້ອຍຮູ້ວ່າມັນແມ່ນເວດ - ບໍ່ມີໃຜອີກຄົນໃດທີ່ເອີ້ນຂ້ອຍໃນຊົ່ວໂມງນັ້ນ - ແລະຂ້ອຍພ້ອມທີ່ຈະຟັງບົດອື່ນໃນ ຫນຶ່ງ
+ໃນເລື່ອງລາວທີ່ ກໍາ ລັງ ດໍາ ເນີນຢູ່. ມີເລື່ອງນັກສືບກ່ຽວກັບການຍິງຂອງເອວານ ຕວອມບລີແລະບົດລະຄອນຄອບຄົວກ່ຽວກັບການຕໍ່ສູ້ການປົກຄອງຂອງເວດກັບລີລຽນ. ແຕ່ບໍ່ແມ່ນຄັ້ງນີ້.
+
+466
+00:30:12,300 --> 00:30:18,300
+[ROLFE]
+Wade was telling a different story, or so it seemed then, one in which I myself was a character. He had called to tell me that sometime the previous night our mother had died, and he had discovered the body when he'd gone over to visit her and our father with Margie Fogg. Pop was okay, but kind of out of it. Worse than usual, maybe, though no drunker than usual.
+ເວດ ກໍາ ລັງບອກເລື່ອງທີ່ແຕກຕ່າງກັນ, ຫຼືດັ່ງນັ້ນມັນເບິ່ງຄືວ່າໃນເວລານັ້ນ, ຫນຶ່ງ ໃນທີ່ຂ້ອຍເອງເປັນຕົວລະຄອນ. ລາວໄດ້ໂທຫາບອກຂ້ອຍວ່າບາງຄັ້ງໃນຄືນກ່ອນຫນ້ານີ້ແມ່ຂອງພວກເຮົາໄດ້ຕາຍ,
+ແລະລາວໄດ້ຄົ້ນພົບສົບເມື່ອລາວໄດ້ໄປຢ້ຽມຢາມນາງແລະພໍ່ຂອງພວກເຮົາກັບມາຈີ ຟອກກ໌. ພໍ່ບໍ່ເປັນຫຍັງ, ແຕ່ບາງຢ່າງອອກຈາກມັນ. ຮ້າຍກວ່າປົກກະຕິ, ບາງທີ, ເຖິງແມ່ນວ່າບໍ່ມີດື່ມຫຼາຍກວ່າປົກກະຕິ.
+
+467
+00:30:18,800 --> 00:30:23,000
+[WADE]
+Shouldn't we get this show on the road, now that Rolfe's here?
+ພວກເຮົາບໍ່ຄວນເອົາລາຍການນີ້ລົງທາງບໍ, ດຽວນີ້ທີ່ໂຣລຟ໌ຢູ່ບ່ອນນີ້?
+
+468
+00:30:23,500 --> 00:30:27,700
+[WADE]
+Pointless to stand around in church with nothing to do, I guess.
+ຂ້ອຍຄິດວ່າບໍ່ມີຄວາມ ຫມາຍ
+ທີ່ຈະຢືນຢູ່ໃນສາດສະຫນາຈັກໂດຍບໍ່ມີຫຍັງເຮັດ.
+
+469
+00:30:28,200 --> 00:30:30,650
+[ROLFE]
+What about Jill? Is Lillian bringing her?
+ຈິລແນວໃດ? ລີລິນຈະເອົານາງມາບໍ?
+
+470
+00:30:31,150 --> 00:30:33,950
+[MARGIE]
+They'll be at the church and the cemetery.
+ພວກເຂົາຈະຢູ່ໂບດແລະສົບ.
+
+471
+00:30:34,450 --> 00:30:36,450
+[WADE]
+Anyone else want one? Rolfe?
+ມີໃຜອີກຄົນໃດຢາກມີຫນຶ່ງບໍ? ໂຣລຟ໌?
+
+472
+00:30:36,950 --> 00:30:38,950
+[ROLFE]
+No thanks. I don't drink.
+ບໍ່ ຂອບໃຈ. ຂ້ອຍບໍ່ດື່ມ.
+
+473
+00:30:39,450 --> 00:30:41,450
+[WADE]
+Yeah. I forgot.
+ແມ່ນແລ້ວ. ຂ້ອຍລືມແລ້ວ.
+
+474
+00:30:41,950 --> 00:30:43,950
+[LARIVIERE]
+How you holding up, Wade?
+ເຈົ້າຢູ່ແນວໃດ, ເວດ?
+
+475
+00:30:44,450 --> 00:30:46,450
+[WADE]
+I'm fine, fine.
+ຂ້ອຍບໍ່ເປັນຫຍັງ, ດີ.
+
+476
+00:30:46,950 --> 00:30:51,500
+[LARIVIERE]
+You Rolfe?  I remember you from high school. You're a teacher now? Harvard?
+ເຈົ້າເປັນໂຣລຟ໌ບໍ? ຂ້ອຍຈື່ເຈົ້າຈາກໂຮງຮຽນມັດທະຍົມຕອນປາຍ
+. ເຈົ້າເປັນຄູສອນດຽວນີ້ບໍ? ຮາເວີດບໍ?
+
+477
+00:30:52,000 --> 00:30:57,950
+[LARIVIERE]
+I haven't seen you around. I don't suppose there's much reason for you to come this way.
+ຂ້ອຍບໍ່ໄດ້ເຫັນເຈົ້າຢູ່ອ້ອມຂ້າງ.
+ຂ້ອຍບໍ່ຄິດວ່າມີເຫດຜົນຫຼາຍ ສໍາ ລັບເຈົ້າທີ່ຈະມາທາງນີ້.
+
+478
+00:30:58,450 --> 00:31:04,050
+[REV. DOUGHTY]
+Come, Glen, join us. Let's kneel for a moment of prayer before the service. Wade? Rolfe?
+ມາ, ແກລນ, ເຂົ້າຮ່ວມພວກເຮົາ.
+ມາຕີນເພື່ອອະທິຖານຊົ່ວຄາວກ່ອນການບໍລິການ. ເວດ? ໂຣລຟ໌?
+
+479
+00:31:04,550 --> 00:31:06,550
+[ROLFE]
+Well...
+ດີ...
+
+480
+00:31:07,050 --> 00:31:09,050
+[WADE]
+This is nuts.
+ນີ້ແມ່ນໂຊກຮ້າຍ.
+
+481
+00:31:09,550 --> 00:31:11,550
+[MARGIE]
+Wade.
+ເວດ
+
+482
+00:31:12,050 --> 00:31:18,050
+[REV. DOUGHTY]
+Dear Heavenly Father, Lord of Hosts, we come to Thee to beseech Thy blessings and commend to You the soul of our beloved wife and mother, Sally Whitehouse, to be one with You and walk with You --
+ພໍ່ສະຫວັນທີ່ຮັກແພງ, ພຣະຜູ້ເປັນເຈົ້າຂອງກອງທັບ, ພວກເຮົາມາຫາເຈົ້າເພື່ອຂໍພອນຂອງເຈົ້າແລະຍ້ອງຍໍໃຫ້ເຈົ້າຈິດວິນຍານຂອງເມຍແລະແມ່ທີ່ຮັກຂອງພວກເຮົາ
+, ແຊລລີ ວາຍຕ໌ຮາວສ໌, ເພື່ອເປັນ ຫນຶ່ງ ກັບເຈົ້າແລະການຍ່າງກັບເຈົ້າ -
+
+483
+00:31:18,550 --> 00:31:20,550
+[POP]
+...goddamned hair on her head.
+... ຜົມທີ່ຮ້າຍແຮງຢູ່ເທິງຫົວຂອງນາງ.
+
+484
+00:31:21,050 --> 00:31:26,300
+[POP]
+Not a one of you is worth a goddamned hair on that good woman's head!
+ບໍ່ມີໃຜໃນເຈົ້າມີຄ່າຜົມໃດໆໃນຫົວຂອງແມ່ຍິງທີ່ດີນັ້ນ!
+
+485
+00:31:26,800 --> 00:31:28,900
+[WADE]
+Pop! Don't do this now, Pop.
+ພໍ່! ຢ່າເຮັດແບບນີ້ດຽວນີ້, ພໍ່.
+
+486
+00:31:29,400 --> 00:31:32,200
+[LARIVIERE]
+Maybe I'll head on over to the church.
+ບາງທີຂ້ອຍຈະໄປຫາສາດສະຫນາຈັກ.
+
+487
+00:31:32,700 --> 00:31:34,700
+[REV. DOUGHTY]
+This is a difficult time.
+ນີ້ແມ່ນເວລາທີ່ຫຍຸ້ງຍາກ.
+
+488
+00:31:35,200 --> 00:31:37,300
+[WADE]
+Listen, it's no big deal, Pop.
+ຟັງ, ມັນບໍ່ແມ່ນເລື່ອງໃຫຍ່, ພໍ່.
+
+489
+00:31:37,800 --> 00:31:43,800
+[POP]
+Come on, smart guy. Tell how it's no big deal. Tell me how a single one of you is worth a single hair on that woman's head.
+ມາແລ້ວ, ຜູ້ຊາຍສະຫຼາດ. ບອກວ່າມັນບໍ່ແມ່ນເລື່ອງໃຫຍ່.
+ບອກຂ້ອຍວ່າຄົນດຽວໃນເຈົ້າມີມູນຄ່າຜົມດຽວໃນຫົວຂອງແມ່ຍິງນັ້ນແນວໃດ.
+
+490
+00:31:44,300 --> 00:31:46,300
+[REV. DOUGHTY]
+Give up this demon.
+ໃຫ້ໂຊກຮ້າຍນີ້ໄວ້.
+
+491
+00:31:46,800 --> 00:31:48,800
+[POP]
+Go fuck yourself!
+ໄປໂຊກຮ້າຍຕົວເອງ!
+
+492
+00:31:49,300 --> 00:31:51,300
+[ROLFE]
+Wade, just leave it.
+ເວດ, ພຽງແຕ່ປ່ອຍມັນໄວ້.
+
+493
+00:31:51,800 --> 00:31:57,800
+[POP]
+Listen to your little brother. 'Wade, just leave it.' Candy-asses. All of you. That's what I've got for children. Candyasses. 'Wade, just leave it.' Praise the Lord! 'Just leave it!'
+ຟັງອ້າຍນ້ອຍຂອງທ່ານ.' ເວດ, ພຽງແຕ່ປ່ອຍມັນ.
+ແຊກແຊງແຊມແຊນແຊັງແຊ້ນແຊ່ນແຊ້ງແຊ່ງແຊວນແຊັນແຊ່ແຊ
+
+494
+00:31:58,300 --> 00:32:02,500
+[WADE]
+If you ever touch her again, I'll kill you. I swear it.
+ຖ້າເຈົ້າຈັບນາງອີກຄັ້ງ, ຂ້ອຍຈະຂ້າເຈົ້າ. ຂ້ອຍສາບານໂຕ.
+
+495
+00:32:03,000 --> 00:32:09,000
+[ROLFE]
+The day of the funeral was almost springlike. The snowline crossed New Hampshire west to east, retreating northward to Concord where it melted by midmorning.
+ມື້ການຝັງສົບແມ່ນເກືອບຄືກັບພາກຮຽນ spring. ສາຍຫິມະຂ້າມນິວແຮມເຊີຕາເວັນຕົກໄປທາງຕາເວັນອອກ
+, ຖອນຕົວໄປທາງທິດເຫນືອໄປຫາ Concord ບ່ອນທີ່ມັນລະລາຍໃນຕອນກາງເຊົ້າ.
+
+496
+00:32:09,500 --> 00:32:11,500
+[JILL]
+Dad.
+ພໍ່.
+
+497
+00:32:12,000 --> 00:32:15,500
+[WADE]
+I'm glad you're here. Can you stay for a while?
+ຂ້ອຍດີໃຈທີ່ເຈົ້າຢູ່ບ່ອນນີ້. ເຈົ້າສາມາດຢູ່ໄດ້ບໍ?
+
+498
+00:32:16,000 --> 00:32:18,800
+[WADE]
+You ever come to your father's grave anymore?
+ເຈົ້າເຄີຍມາທີ່ຝັງຝັງຂອງພໍ່ເຈົ້າອີກບໍ?
+
+499
+00:32:19,300 --> 00:32:22,100
+[LILLIAN]
+No, not anymore. It's too... it's too far.
+ບໍ່, ບໍ່ອີກຕໍ່ໄປ. ມັນເກີນໄປ... ມັນໄກເກີນໄປ.
+
+500
+00:32:22,600 --> 00:32:24,600
+[WADE]
+We should talk.
+ພວກເຮົາຄວນເວົ້າກັນ.
+
+501
+00:32:25,100 --> 00:32:27,200
+[LILLIAN]
+We've done all our talking, Wade.
+ພວກເຮົາໄດ້ເວົ້າທັງ ຫມົດ ແລ້ວ, ເວດ.
+
+502
+00:32:27,700 --> 00:32:29,700
+[WADE]
+It's just...
+ມັນພຽງແຕ່...
+
+503
+00:32:30,200 --> 00:32:36,200
+[LILLIAN]
+Let the past be.  I'm sorry about your mother. I liked her. You never know how much women like that suffer. It's like they live their lives with the sound turned off -- and then they're gone.
+ໃຫ້ອະດີດເປັນ. ຂ້ອຍຂໍໂທດກ່ຽວກັບແມ່ຂອງເຈົ້າ. ຂ້ອຍມັກນາງ. ເຈົ້າບໍ່ເຄີຍຮູ້ວ່າແມ່ຍິງແບບນັ້ນເຈັບປວດຫຼາຍປານໃດ
+. ມັນຄືກັບວ່າພວກເຂົາ ດໍາ ລົງຊີວິດຂອງພວກເຂົາດ້ວຍສຽງປິດ - ແລະຫຼັງຈາກນັ້ນພວກເຂົາໄປແລ້ວ.
+
+504
+00:32:36,700 --> 00:32:38,700
+[JILL]
+Mom.
+ແມ່.
+
+505
+00:32:39,200 --> 00:32:41,650
+[LILLIAN]
+She has an ice-skating lesson at four.
+ນາງມີບົດຮຽນສະເກັດກ້ອນໃນເວລາສີ່.
+
+506
+00:32:42,150 --> 00:32:44,150
+[JILL]
+I'm taking ice-skating, Daddy!
+ຂ້ອຍ ກໍາ ລັງໄປລອຍນ້ ໍາ ກ້ອນ, ພໍ່!
+
+507
+00:32:44,650 --> 00:32:49,200
+[WADE]
+Let's dig out Pop's truck before the skin of the snow freezes up.
+ພວກເຮົາຈະຂຸດຄົ້ນລົດບັນທຸກຂອງພໍ່ກ່ອນຜິວຫນັງຂອງຫິມະຈະກ້ອນລົງ.
+
+508
+00:32:49,700 --> 00:32:51,700
+[ROLFE]
+What about Margie?
+ມາຈີແນວໃດ?
+
+509
+00:32:52,200 --> 00:32:54,200
+[WADE]
+What about her?
+ນາງແນວໃດ?
+
+510
+00:32:54,700 --> 00:32:57,500
+[ROLFE]
+Well, do you still plan to get married?
+ດີ, ເຈົ້າຍັງວາງແຜນທີ່ຈະແຕ່ງງານບໍ?
+
+511
+00:32:58,000 --> 00:33:04,000
+[WADE]
+Yeah. She'll probably quit her job and stay out here with Pop. We can't leave him alone here, he'll set the damn place on fire. With Jill here a lot, it'll be good to have Margie around. Things are going to change in that department, by the way. I got a custody lawyer in Concord. I'm gonna see him tomorrow. All hell's gonna break loose, but it's worth it.
+ແມ່ນແລ້ວ. ນາງອາດຈະອອກຈາກວຽກງານແລະຢູ່ຢູ່ນີ້ກັບພໍ່. ພວກເຮົາບໍ່ສາມາດປ່ອຍລາວຢູ່ບ່ອນນີ້ຄົນດຽວໄດ້, ລາວຈະເຮັດໃຫ້ບ່ອນທີ່ຮ້າຍແຮງໄຟໄຫມ້. ດ້ວຍຈິລຢູ່ນີ່ຫຼາຍ,
+ມັນຈະດີທີ່ຈະມີມາຈີຢູ່ໃກ້ຊິດ. ສິ່ງຕ່າງໆຈະປ່ຽນແປງໃນພະແນກນັ້ນ, ໂດຍວິທີທາງ. ຂ້ອຍມີທະນາຍຄວາມການປົກຄອງໃນຄອນຄອນດ໌. ຂ້ອຍຈະເຫັນລາວມື້ອື່ນ. ທັງ ຫມົດ ຈະແຕກໂຕນ, ແຕ່ມັນມີຄ່າ.
+
+512
+00:33:04,500 --> 00:33:10,500
+[WADE]
+I want to let the gas run out. I don't want the bastard driving drunk, and he's always drunk now. After, we'll hide the keys.
+ຂ້ອຍຢາກປ່ອຍແກັສຫມົດໄປ. ຂ້ອຍບໍ່ຢາກໃຫ້ຄົນຢອກຊື່ໆ ແຊງຂັບລົດດື່ມ,
+ແລະລາວດື່ມຢູ່ສະເຫມີດຽວນີ້. ຫຼັງຈາກນັ້ນ, ພວກເຮົາຈະເຊື່ອງປຸ່ມ.
+
+513
+00:33:11,000 --> 00:33:13,100
+[ROLFE]
+Anything new about the shooting? Twombley?
+ມີຫຍັງໃຫມ່ກ່ຽວກັບການຍິງບໍ? Twombley?
+
+514
+00:33:13,600 --> 00:33:16,750
+[WADE]
+I guess it was an accident, like everybody thinks.
+ຂ້ອຍຄິດວ່າມັນເປັນອຸບັດຕິເຫດ, ດັ່ງທີ່ທຸກຄົນຄິດ.
+
+515
+00:33:17,250 --> 00:33:19,700
+[ROLFE]
+Want to know what I think happened?
+ເຈົ້າຢາກຮູ້ວ່າຂ້ອຍຄິດວ່າເກີດຫຍັງຂຶ້ນບໍ?
+
+516
+00:33:20,200 --> 00:33:22,200
+[WADE]
+Find them everywhere.
+ຊອກຫາພວກມັນຢູ່ທຸກບ່ອນ.
+
+517
+00:33:22,700 --> 00:33:27,250
+[ROLFE]
+I think your first response to the Twombley shooting was the correct one.
+ຂ້ອຍຄິດວ່າການຕອບໂຕ້ຄັ້ງ ທໍາ
+ອິດຂອງທ່ານຕໍ່ການຍິງ Twombley ແມ່ນທີ່ຖືກຕ້ອງ.
+
+518
+00:33:27,750 --> 00:33:29,750
+[WADE]
+Which is?
+ນັ້ນແມ່ນຫຍັງ?
+
+519
+00:33:30,250 --> 00:33:32,250
+[ROLFE]
+That it wasn't an accident.
+ວ່າມັນບໍ່ແມ່ນອຸບັດຕິເຫດ.
+
+520
+00:33:32,750 --> 00:33:34,750
+[WADE]
+Then who shot him?
+ຫຼັງຈາກນັ້ນໃຜໄດ້ຍິງລາວ?
+
+521
+00:33:35,250 --> 00:33:37,700
+[ROLFE]
+Well, your friend, I think. Jack Hewitt.
+ດີ, ເພື່ອນຂອງທ່ານ, ຂ້ອຍຄິດວ່າ. ແຈກ ເຮວິດ.
+
+522
+00:33:38,200 --> 00:33:40,300
+[WADE]
+Motive. You gotta have a motive.
+ເຫດຜົນ. ເຈົ້າຕ້ອງມີເຫດຜົນ.
+
+523
+00:33:40,800 --> 00:33:42,800
+[ROLFE]
+Money.
+ເງິນ.
+
+524
+00:33:43,300 --> 00:33:48,900
+[WADE]
+Who'd pay him that kind of money? Not the mob. They got their own guys. Specialists.
+ໃຜຈະຈ່າຍເງິນໃຫ້ລາວຫຼາຍປານໃດ? ບໍ່ແມ່ນກຸ່ມໂຊກຮ້າຍ
+. ພວກເຂົາມີຜູ້ຊາຍຂອງພວກເຂົາເອງ. ຜູ້ຊ່ຽວຊານ.
+
+525
+00:33:49,400 --> 00:33:55,000
+[ROLFE]
+They wouldn't deal with a guy like Jack. Who else benefits if Twombley is suddenly dead?
+ພວກເຂົາຈະບໍ່ຮັບມືກັບຄົນຄືກັບແຈກ.
+ໃຜອີກຄົນໃດໄດ້ຮັບຜົນປະໂຫຍດຖ້າຕວອມບລີຕາຍທັນທີ?
+
+526
+00:33:55,500 --> 00:33:57,600
+[WADE]
+I don't know. You tell me.
+ຂ້ອຍບໍ່ຮູ້. ເຈົ້າບອກຂ້ອຍ.
+
+527
+00:33:58,100 --> 00:34:04,100
+[ROLFE]
+Okay. It's likely there are people in the union who don't want Twombley to testify. They probably include his son-in-law who's vice-president and will probably be the next president. I read that in the papers. What's his name, Mel Gordon?
+ດີແລ້ວ. ມັນອາດຈະມີຄົນໃນສະຫະພັນທີ່ບໍ່ຢາກໃຫ້ຕວອມບລີໃຫ້ຄວາມເຫັນ.
+ພວກເຂົາອາດຈະລວມທັງລູກຊາຍຂອງລາວທີ່ເປັນຮອງປະທານາທິບໍດີແລະອາດຈະເປັນປະທານາທິບໍດີຕໍ່ໄປ. ຂ້ອຍອ່ານມັນໃນຫນັງສືພິມ. ຊື່ຂອງລາວແມ່ນຫຍັງ, ເມລ ແກຣດອນ?
+
+528
+00:34:04,600 --> 00:34:09,500
+[WADE]
+Yeah, the guy with the BMW I told you about. I did, didn't I?
+ແມ່ນແລ້ວ, ຜູ້ຊາຍທີ່ມີ BMW
+ທີ່ຂ້ອຍບອກເຈົ້າກ່ຽວກັບ. ຂ້ອຍເຮັດ, ແມ່ນບໍ?
+
+529
+00:34:10,000 --> 00:34:16,000
+[ROLFE]
+Here's my theory. Twombley, unaware of illegal union loans or whatever, starts nosing around cause of the investigation and finds out. Finds out his son-in-law is involved.
+ນີ້ແມ່ນທິດສະດີຂອງຂ້ອຍ. Twombley, ບໍ່ຮູ້ກ່ຽວກັບການກູ້ຢືມສະຫະພັນທີ່ບໍ່ຖືກຕ້ອງຕາມກົດ ຫມາຍ
+ຫຼືສິ່ງໃດກໍ່ຕາມ, ເລີ່ມຕົ້ນດັງຢູ່ອ້ອມຂ້າງເຫດຜົນຂອງການສືບສວນແລະຮູ້ວ່າ. ພົບວ່າລູກຊາຍຂອງລາວມີສ່ວນຮ່ວມ.
+
+530
+00:34:16,500 --> 00:34:22,500
+[WADE]
+So Mel Gordon wouldn't want a professional hit. That'd make the feds dig deeper. He wants an accident.
+ສະນັ້ນແມລ ແກຣດອນຈະບໍ່ຕ້ອງການການຕີມືອາຊີບ.
+ນັ້ນຈະເຮັດໃຫ້ລັດຖະບານກາງຂຸດຄົ້ນເລິກເຊິ່ງກວ່າເກົ່າ. ລາວຕ້ອງການອຸບັດຕິເຫດ.
+
+531
+00:34:23,000 --> 00:34:25,000
+[ROLFE]
+A hunting accident is perfect.
+ອຸບັດຕິເຫດການລ່າສັດແມ່ນສົມບູນແບບ.
+
+532
+00:34:25,500 --> 00:34:31,500
+[WADE]
+Shit, around here, you shoot somebody in the woods, you say it was an accident, you get fined fifty bucks and your hunting license lifted. Jack's probably saying the guy shot himself cause he ain't got his deer yet and don't want his license pulled.
+ສະບາຍດີ, ຢູ່ບ່ອນນີ້, ເຈົ້າຍິງຄົນໃດໃນປ່າໄມ້, ເຈົ້າເວົ້າວ່າມັນເປັນອຸບັດຕິເຫດ, ເຈົ້າຖືກປັບໃຫມຫ້າສິບໂດລາແລະໃບອະນຸຍາດລ່າສັດຂອງທ່ານຖືກຍົກເລີກ
+. ແຈກອາດຈະເວົ້າວ່າຜູ້ຊາຍໄດ້ຍິງຕົວເອງເພາະວ່າລາວຍັງບໍ່ມີແມວຂອງລາວແລະບໍ່ຢາກໃບອະນຸຍາດຂອງລາວຖືກຖອນອອກ.
+
+533
+00:34:32,000 --> 00:34:38,000
+[WADE]
+It's too neat. Things ain't that neat. It makes me mad. That somebody can pay to kill somebody, his own father-in-law, and not be punished for it. Don't that piss you off?
+ມັນສວຍງາມເກີນໄປ. ສິ່ງຕ່າງໆບໍ່ແມ່ນສົດໃສຫຼາຍ. ມັນເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍ. ວ່າບາງຄົນສາມາດຈ່າຍເງິນເພື່ອຂ້າຄົນອື່ນ
+, ພໍ່ຕູ້ຂອງລາວເອງ, ແລະບໍ່ຖືກລົງໂທດ ສໍາ ລັບມັນ. ມັນບໍ່ເຮັດໃຫ້ເຈົ້າໂຊງຮ້າຍບໍ?
+
+534
+00:34:38,500 --> 00:34:40,500
+[ROLFE]
+Not particularly.
+ບໍ່ເປັນຫຍັງເລີຍ.
+
+535
+00:34:41,000 --> 00:34:43,800
+[WADE]
+Right's right, goddamnit! Don't you care what's right?
+ແມ່ນແລ້ວ, ສະບາຍດີ! ເຈົ້າບໍ່ສົນໃຈວ່າສິ່ງທີ່ຖືກຕ້ອງແມ່ນຫຍັງບໍ?
+
+536
+00:34:44,300 --> 00:34:48,850
+[ROLFE]
+I care about what happened. The truth. I'm a student of history, remember?
+ຂ້ອຍສົນໃຈວ່າເກີດຫຍັງຂຶ້ນ. ຄວາມຈິງ.
+ຂ້ອຍເປັນນັກສຶກສາປະຫວັດສາດ, ຈື່ບໍ?
+
+537
+00:34:49,350 --> 00:34:55,350
+[ROLFE]
+I was thinking about that story you told me, about Pop and chopping the firewood out of the ice and after.
+ຂ້ອຍ ກໍາ ລັງຄິດກ່ຽວກັບເລື່ອງທີ່ເຈົ້າບອກຂ້ອຍ,
+ກ່ຽວກັບພໍ່ແລະຕັດໄມ້ໄຟອອກຈາກນ້ ໍາ ກ້ອນແລະຫຼັງຈາກນັ້ນ.
+
+538
+00:34:55,850 --> 00:34:57,850
+[WADE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+539
+00:34:58,350 --> 00:35:02,200
+[ROLFE]
+I hate to disappoint you, but I don't think it happened.
+ຂ້ອຍບໍ່ຢາກເຮັດໃຫ້ເຈົ້າຜິດຫວັງ, ແຕ່ຂ້ອຍບໍ່ຄິດວ່າມັນເກີດຂຶ້ນ.
+
+540
+00:35:02,700 --> 00:35:06,200
+[WADE]
+Of course it happened. Why would I lie about it?
+ແນ່ນອນວ່າມັນເກີດຂຶ້ນ. ຂ້ອຍຈະຕົວະກ່ຽວກັບມັນເປັນຫຍັງ?
+
+541
+00:35:06,700 --> 00:35:10,200
+[ROLFE]
+It may have happened, but not the way you said.
+ມັນອາດຈະເກີດຂຶ້ນ, ແຕ່ບໍ່ແມ່ນວິທີທີ່ທ່ານເວົ້າ.
+
+542
+00:35:10,700 --> 00:35:13,850
+[WADE]
+You think I wouldn't remember a thing like that?
+ເຈົ້າຄິດວ່າຂ້ອຍຈະບໍ່ຈື່ສິ່ງນັ້ນບໍ?
+
+543
+00:35:14,350 --> 00:35:20,350
+[ROLFE]
+It wasn't me. I wasn't there, but I heard about it. When I heard about it, it was about Elbourne.
+ມັນບໍ່ແມ່ນຂ້ອຍ. ຂ້ອຍບໍ່ໄດ້ຢູ່ບ່ອນນັ້ນ, ແຕ່ຂ້ອຍໄດ້ຍິນກ່ຽວກັບມັນ
+. ເມື່ອຂ້ອຍໄດ້ຟັງກ່ຽວກັບມັນ, ມັນແມ່ນກ່ຽວກັບເອລບອນ.
+
+544
+00:35:20,850 --> 00:35:24,350
+[WADE]
+We'd have to go digging in Vietnam to ask him.
+ພວກເຮົາຕ້ອງໄປຂຸດຄົ້ນຢູ່ຫວຽດນາມເພື່ອຖາມລາວ.
+
+545
+00:35:24,850 --> 00:35:30,850
+[ROLFE]
+And Elbourne and Mom took you to the doctor and told him you fell from the hay loft.
+ແລະເອລບອນ ແລະ
+ແມ່ພາເຈົ້າໄປຫາທ່ານຫມໍແລະບອກລາວວ່າເຈົ້າຕົກຈາກໂຕະຫົ່ມຫ້ວຍ.
+
+546
+00:35:31,350 --> 00:35:33,450
+[WADE]
+Well, I never heard that one.
+ດີ, ຂ້ອຍບໍ່ເຄີຍຍິນເລື່ອງນັ້ນເລີຍ.
+
+547
+00:35:33,950 --> 00:35:39,950
+[ROLFE]
+I remember clearly cause when I heard I became real careful around Pop. I was a careful child and I became a careful adult, but at least I wasn't afflicted by that man's violence.
+ຂ້ອຍຈື່ໄວ້ຢ່າງຈະແຈ້ງວ່າເປັນຫຍັງເມື່ອຂ້ອຍໄດ້ຍິນຂ້ອຍກາຍເປັນຄວາມລະມັດລະວັງແທ້ໆຢູ່ໃກ້ກັບພໍ່.
+ຂ້ອຍເປັນເດັກນ້ອຍທີ່ລະມັດຣະວັງແລະຂ້ອຍກາຍມາເປັນຜູ້ໃຫຍ່ທີ່ມີຄວາມລະດູແລວ, ແຕ່ຢ່າງຫນ້ອຍຂ້ອຍບໍ່ໄດ້ຖືກກະທົບຈາກຄວາມຮຸນແຮງຂອງຜູ້ຊາຍນັ້ນ.
+
+548
+00:35:40,450 --> 00:35:42,450
+[WADE]
+That's what you think.
+ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຄິດ.
+
+549
+00:35:42,950 --> 00:35:45,750
+[ROLFE]
+I gotta head back. It's a long drive.
+ຂ້ອຍຕ້ອງກັບຄືນໄປບ່ອນ. ມັນເປັນການຂັບລົດທີ່ຍາວນານ.
+
+550
+00:35:46,250 --> 00:35:48,250
+[LARIVIERE]
+Put out that fucking cigarette!
+ເອົາຢາສູບນັ້ນອອກ!
+
+551
+00:35:48,750 --> 00:35:50,750
+[LARIVIERE]
+Not there, asshole. Flush it!
+ບໍ່ຢູ່ບ່ອນນັ້ນ, ຄົນໂຊກຮ້າຍ. ຖິ້ມມັນອອກ!
+
+552
+00:35:51,250 --> 00:35:53,250
+[WADE]
+Morning, Gordon.
+ຕອນເຊົ້າ, ໂກດອນ.
+
+553
+00:35:53,750 --> 00:35:55,750
+[JACK]
+I'm fucking out of here.
+ຂ້ອຍຈະອອກຈາກບ່ອນນີ້.
+
+554
+00:35:56,250 --> 00:35:58,250
+[WADE]
+Lawford?
+ໂລຟອດ?
+
+555
+00:35:58,750 --> 00:36:03,650
+[JACK]
+Out of this fucking job. This job sucks. Working outside in the winter sucks.
+ອອກຈາກວຽກງານນີ້. ວຽກງານນີ້ໂຊກຮ້າຍ.
+ການເຮັດວຽກຢູ່ພາຍນອກໃນລະດູຫນາວໂຊງຮ້າຍ.
+
+556
+00:36:04,150 --> 00:36:06,150
+[JACK]
+Open the door, will ya?
+ເປີດປະຕູ, ເຈົ້າຈະເຮັດແນວໃດ?
+
+557
+00:36:06,650 --> 00:36:10,150
+[WADE]
+Why don't you quit now, you want out so bad?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ອອກຈາກດຽວນີ້, ເຈົ້າຢາກອອກຈາກຫຼາຍ?
+
+558
+00:36:10,650 --> 00:36:12,650
+[JACK]
+Open the door. We're late.
+ເປີດປະຕູ. ພວກເຮົາຊ້າແລ້ວ.
+
+559
+00:36:13,150 --> 00:36:19,150
+[WADE]
+I mean it -- you got enough money now. Head out for California. Surf's up, Jack, and you're digging wells in the snow.
+ຂ້ອຍເວົ້າແທ້ໆ - ເຈົ້າມີເງິນພຽງພໍດຽວນີ້. ອອກໄປຄາລີຟໍເນຍ.
+ການເດີນເຮືອຂຶ້ນແລ້ວ, ແຈກ, ແລະເຈົ້າ ກໍາ ລັງຂຸດຄົ້ນນ້ ໍາ ໃນຫິມະ.
+
+560
+00:36:19,650 --> 00:36:23,850
+[JACK]
+What do you mean I got money? I'm as broke as you.
+ເຈົ້າຫມາຍຄວາມວ່າຂ້ອຍມີເງິນແນວໃດ? ຂ້ອຍສໍ້ໂກງຄືກັນກັບເຈົ້າ.
+
+561
+00:36:24,350 --> 00:36:26,450
+[WADE]
+Looney Tunes, Jack. Fucking Looney Tunes!
+Looney Tunes, ແຈກ. ໂລນີທູນສ໌!
+
+562
+00:36:26,950 --> 00:36:28,950
+[ELAINE]
+Mr. Gordon!
+ທ້າວໂກດອນ!
+
+563
+00:36:29,450 --> 00:36:31,450
+[MEL GORDON]
+The boss in?
+ຫົວຫນ້າເຂົ້າມາບໍ?
+
+564
+00:36:31,950 --> 00:36:33,950
+[ELAINE]
+Yes indeedy!
+ແມ່ນແລ້ວແທ້ໆ!
+
+565
+00:36:34,450 --> 00:36:40,450
+[WADE]
+I screwed up the divorce. I agreed with everything she said. I wanted her to like me. I just want to be a good father.
+ຂ້ອຍເຮັດໃຫ້ການແຍກກັນຜິດພາດ. ຂ້ອຍເຫັນດີກັບທຸກຢ່າງທີ່ນາງເວົ້າ
+. ຂ້ອຍຢາກໃຫ້ນາງມັກຂ້ອຍ. ຂ້ອຍພຽງແຕ່ຢາກເປັນພໍ່ທີ່ດີ.
+
+566
+00:36:40,950 --> 00:36:46,550
+[HAND]
+It would help if you were married, if there was someone at home while you work.
+ມັນຈະຊ່ວຍຖ້າເຈົ້າແຕ່ງງານ, ຖ້າມີຄົນຢູ່ເຮືອນໃນຂະນະທີ່ເຈົ້າເຮັດວຽກ.
+
+567
+00:36:47,050 --> 00:36:49,050
+[WADE]
+I plan to. Soon.
+ຂ້ອຍວາງແຜນທີ່ຈະເຮັດ. ໄວໆນີ້.
+
+568
+00:36:49,550 --> 00:36:51,550
+[HAND]
+How soon?
+ໄວປານໃດ?
+
+569
+00:36:52,050 --> 00:36:54,050
+[WADE]
+This spring.
+ໃນລະດູໃບໄມ້ປົ່ງນີ້.
+
+570
+00:36:54,550 --> 00:37:00,550
+[HAND]
+Good. It would help if there were some drug or alcohol abuse on the part of your ex-wife. Sexual problems upsetting to the child.
+ດີ. ມັນຈະຊ່ວຍຖ້າມີການໃຊ້ຢາເສບຕິດຫຼືເຫຼົ້າເຫຼົ້າບາງຢ່າງຈາກສ່ວນຂອງເມຍເກົ່າຂອງທ່ານ
+. ບັນຫາທາງເພດທີ່ເຮັດໃຫ້ລູກໂຊກຮ້າຍ.
+
+571
+00:37:01,050 --> 00:37:03,150
+[WADE]
+It looks pretty hopeless, don't it?
+ມັນເບິ່ງຄືວ່າບໍ່ມີຄວາມຫວັງຫຼາຍ, ແມ່ນບໍ?
+
+572
+00:37:03,650 --> 00:37:09,650
+[HAND]
+No, not exactly. I'll look at the divorce decree, see if we can get it redrawn. Interview your daughter. Jill, right?
+ບໍ່, ບໍ່ແນ່ນອນ. ຂ້ອຍຈະເບິ່ງຂໍ້ຕົກລົງການແຍກກັນ,
+ເບິ່ງວ່າພວກເຮົາສາມາດເຮັດໄດ້ບໍ. ສໍາ ພາດລູກສາວຂອງທ່ານ. ຈິລ, ແມ່ນບໍ?
+
+573
+00:37:10,150 --> 00:37:12,150
+[WADE]
+Yes.
+ແມ່ນແລ້ວ.
+
+574
+00:37:12,650 --> 00:37:16,150
+[HAND]
+Fine. I'll need a $500 retainer. You can mail it.
+ດີ. ຂ້ອຍຈະຕ້ອງການເງິນເກັບໄວ້ 500 ໂດລາ. ເຈົ້າສາມາດສົ່ງມັນໄດ້.
+
+575
+00:37:16,650 --> 00:37:20,150
+[WADE]
+Jesus. How much... how much will the whole thing cost?
+ພຣະເຢຊູ. ຄ່າໃຊ້ຈ່າຍທັງ ຫມົດ ຈະຫຼາຍປານໃດ?
+
+576
+00:37:20,650 --> 00:37:26,650
+[HAND]
+Hard to say. If we go for custody, depositions, psychiatric evaluations, it could drag on. Ten or twelve thousand dollars. She could win on appeal. If we just want to get the visitation rights redrawn, assuming they're unduly restrictive, it wouldn't be more than twenty-five hundred.
+ຍາກທີ່ຈະເວົ້າ. ຖ້າພວກເຮົາໄປຫາການຄຸ້ມຄອງ, ການຖິ້ມຄໍາເຫັນ, ການປະເມີນທາງຈິດໃຈ, ມັນອາດຈະດົນນານ. ສິບຫຼືສິບສອງພັນໂດລາ.
+ນາງສາມາດຊະນະໃນການຮ້ອງຂໍ. ຖ້າພວກເຮົາມັກທີ່ຈະໄດ້ຮັບສິດການຢ້ຽມຢາມຄືນ, assuming they are unduly restrictive, ມັນຈະບໍ່ຫຼາຍກ່ວາສິບຫ້າຮ້ອຍ.
+
+577
+00:37:27,150 --> 00:37:29,150
+[WADE]
+Oh.
+ໂອ້.
+
+578
+00:37:29,650 --> 00:37:35,250
+[HAND]
+You might be better off legally as well as financially to just go for the --
+ເຈົ້າອາດຈະດີກວ່າທາງກົດ ຫມາຍ
+ພ້ອມທັງທາງດ້ານການເງິນທີ່ຈະພຽງແຕ່ໄປ ສໍາ ລັບ -
+
+579
+00:37:35,750 --> 00:37:41,750
+[WADE]
+Yeah. I know. The custody suit thing was just my getting back at her. I'm not as dumb as I look. Whatever you say. I love my daughter.  I'll send you the five hundred.
+ແມ່ນແລ້ວ. ຂ້ອຍຮູ້ແລ້ວ. ເລື່ອງຂອງຊຸດປົກຄອງແມ່ນພຽງແຕ່ການຕອບໂຕ້ກັບນາງ. ຂ້ອຍບໍ່ແມ່ນຄົນໂງ່ເທົ່າທີ່ຂ້ອຍເບິ່ງຄືວ່າ
+. ບໍ່ວ່າເຈົ້າຈະເວົ້າຫຍັງ. ຂ້ອຍຮັກລູກສາວຂອງຂ້ອຍ. ຂ້ອຍຈະສົ່ງເງິນຫ້າຮ້ອຍໃຫ້ເຈົ້າ.
+
+580
+00:37:42,250 --> 00:37:46,100
+[WADE]
+Sorry about the long lunch. My clutch is going out again.
+ຂໍໂທດກ່ຽວກັບອາຫານທ່ຽງທີ່ຍາວນານ. ກະດານຂອງຂ້ອຍ ກໍາ ລັງອອກອີກຄັ້ງ.
+
+581
+00:37:46,600 --> 00:37:49,750
+[LARIVIERE]
+You ever think of getting a new car, Wade?
+ເຈົ້າເຄີຍຄິດທີ່ຈະຊື້ລົດໃຫມ່ບໍ, ເວດ?
+
+582
+00:37:50,250 --> 00:37:52,250
+[WADE]
+On what you pay me?
+ເຈົ້າຈ່າຍເງິນໃຫ້ຂ້ອຍແນວໃດ?
+
+583
+00:37:52,750 --> 00:37:57,650
+[LARIVIERE]
+Elaine! Call Chub Meritt and have him pick up Wade's car, fix the clutch.
+ເອເລນ! ໂທຫາ Chub Meritt
+ແລະໃຫ້ລາວເອົາລົດຂອງເວດ, ປັບປຸງ clutch ໄດ້.
+
+584
+00:37:58,150 --> 00:38:00,150
+[ELAINE]
+What!
+ຫຍັງ!
+
+585
+00:38:00,650 --> 00:38:06,650
+[LARIVIERE]
+Use the pickup. I'll bill it to the town. You're the town police officer and the town police officer should have a decent car. You want a new car or not?
+ໃຊ້ລົດບັນທຸກ. ຂ້ອຍຈະຄິດໄລ່ມັນໃຫ້ເມືອງ. ເຈົ້າເປັນເຈົ້າຫນ້າທີ່ຕໍາຫຼວດເມືອງແລະເຈົ້າຫນ້າທີ່
+ຕໍາຫລວດເມືອງຄວນມີລົດທີ່ ເຫມາະ ສົມ. ເຈົ້າຕ້ອງການລົດ ໃຫມ່ ຫຼືບໍ່?
+
+586
+00:38:07,150 --> 00:38:09,950
+[WADE]
+What do I have to do for it?
+ຂ້ອຍຕ້ອງເຮັດຫຍັງເພື່ອມັນ?
+
+587
+00:38:10,450 --> 00:38:16,450
+[LARIVIERE]
+Nothing, Wade, I've been thinking. You don't get enough appreciation around here and it's time we changed things a little.
+ບໍ່ມີຫຍັງເລີຍ, ເວດ, ຂ້ອຍ ກໍາ ລັງຄິດ.
+ເຈົ້າບໍ່ໄດ້ຮັບການຍ້ອງຍໍພຽງພໍຢູ່ບ່ອນນີ້ແລະມັນເຖິງເວລາແລ້ວທີ່ພວກເຮົາຈະປ່ຽນແປງສິ່ງບາງຢ່າງ ຫນ້ອຍ ຫນຶ່ງ.
+
+588
+00:38:16,950 --> 00:38:19,750
+[WADE]
+I saw Mel Gordon in here this morning.
+ຂ້ອຍເຫັນແມລ ແກຣດອນຢູ່ນີ້ໃນຕອນເຊົ້ານີ້.
+
+589
+00:38:20,250 --> 00:38:22,250
+[LARIVIERE]
+So?
+ສະນັ້ນ?
+
+590
+00:38:22,750 --> 00:38:28,000
+[WADE]
+He say anything about the summons I tried to give him? Sonofabitch wouldn't accept it.
+ລາວເວົ້າຫຍັງກ່ຽວກັບການຮຽກຮ້ອງທີ່ຂ້ອຍພະຍາຍາມໃຫ້ລາວບໍ
+? ໄອ້ສັດນະລົກຈະບໍ່ຍອມຮັບມັນ.
+
+591
+00:38:28,500 --> 00:38:34,500
+[LARIVIERE]
+Wade, that wasn't smart. Going out right after the man's father-in-law shot himself. Let it go. Call it a favor to me.
+ເວດ, ນັ້ນບໍ່ແມ່ນຄວາມສະຫຼາດ. ອອກໄປທັນທີຫຼັງຈາກພໍ່ຕູ້ຂອງຜູ້ຊາຍໄດ້ຍິງຕົວເອງ
+. ໃຫ້ມັນໄປ. ເອີ້ນມັນວ່າເປັນຄວາມຊ່ວຍເຫຼືອຕໍ່ຂ້ອຍ.
+
+592
+00:38:35,000 --> 00:38:37,000
+[WADE]
+You? Why?
+ເຈົ້າ? ເປັນຫຍັງ?
+
+593
+00:38:37,500 --> 00:38:43,500
+[LARIVIERE]
+Mel's doing some business with me. It's nice to do favors for people you do business with. He was in a hurry. No big deal.
+ເມລ ກໍາ ລັງເຮັດທຸລະກິດບາງຢ່າງກັບຂ້ອຍ. ມັນດີທີ່ຈະເຮັດຄວາມສະດວກ
+ສໍາ ລັບຄົນທີ່ເຈົ້າເຮັດທຸລະກິດກັບ. ລາວມີຄວາມໄວ. ບໍ່ມີເລື່ອງໃຫຍ່.
+
+594
+00:38:44,000 --> 00:38:47,150
+[WADE]
+That was before Twombley was shot. Before he knew.
+ນັ້ນແມ່ນກ່ອນທີ່ຕວອມບລີຖືກຍິງ. ກ່ອນລາວຈະຮູ້.
+
+595
+00:38:47,650 --> 00:38:53,650
+[LARIVIERE]
+What's the difference? Take my truck, take a rest -- stop worrying about Mel Gordon. Have you decided what to do with your old man's place -- he going to stay there?
+ຄວາມແຕກຕ່າງແມ່ນຫຍັງ? ເອົາລົດບັນທຸກຂອງຂ້ອຍ, ພັກຜ່ອນ - ຢຸດການກັງວົນກ່ຽວກັບແມລ ແກຣດອນ
+. ເຈົ້າໄດ້ຕັດສິນໃຈວ່າຈະເຮັດຫຍັງກັບເຮືອນຂອງພໍ່ເຖົ້າຂອງທ່ານ - ລາວຈະຢູ່ບ່ອນນັ້ນບໍ?
+
+596
+00:38:54,150 --> 00:38:56,150
+[WADE]
+Want to buy?
+ເຈົ້າຢາກຊື້ບໍ?
+
+597
+00:38:56,650 --> 00:38:59,100
+[LARIVIERE]
+Don't light that in here. I'm allergic.
+ຢ່າເຮັດໃຫ້ມັນແສງຢູ່ບ່ອນນີ້. ຂ້ອຍເປັນອາເລັກຊີ.
+
+598
+00:38:59,600 --> 00:39:01,600
+[WADE]
+I won't. You interested?
+ຂ້ອຍຈະບໍ່ເຮັດ. ເຈົ້າສົນໃຈບໍ?
+
+599
+00:39:02,100 --> 00:39:04,100
+[LARIVIERE]
+Maybe.
+ບາງທີ.
+
+600
+00:39:04,600 --> 00:39:06,600
+[WADE]
+You and Mel Gordon?
+ເຈົ້າແລະແມລ ແກຣດອນບໍ?
+
+601
+00:39:07,100 --> 00:39:09,100
+[LARIVIERE]
+Could be.
+ມັນອາດຈະເປັນ.
+
+602
+00:39:09,600 --> 00:39:15,600
+[WADE]
+Always count on old Wade for a good screwing. Why should I always pay more, sell cheap? Why should you guys make all the money. You and Mel and Jack. Right's right.
+ຂ້ອຍຕ້ອງຄິດໃສ່ເວດເກົ່າຢູ່ສະເຫມີ ສໍາ ລັບການຟັກທີ່ດີ. ເປັນຫຍັງຂ້ອຍຈຶ່ງຕ້ອງຈ່າຍຫຼາຍຂຶ້ນສະ
+ເຫມີ, ຂາຍລາຄາຖືກ? ເປັນຫຍັງເຈົ້າຈຶ່ງຄວນຫາເງິນທັງ ຫມົດ. ເຈົ້າແລະເມລ ແລະ ແຈກ. ແມ່ນແລ້ວ.
+
+603
+00:39:16,100 --> 00:39:18,100
+[LARIVIERE]
+Out! Out!
+ອອກ! ອອກ!
+
+604
+00:39:18,600 --> 00:39:23,500
+[JACK]
+You crazy sonofabitch! You'll sink us both! Get off the fucking ice! Get off!
+ເຈົ້າໄອ້ສັດນະລົກທີ່ໂຊນໂຊນາບິກ!
+ເຈົ້າຈະເຮັດໃຫ້ພວກເຮົາທັງສອງຈົມລົງ! ອອກຈາກນ້ ໍາ ກ້ອນ! ອອກໄປ!
+
+605
+00:39:24,000 --> 00:39:30,000
+[JACK]
+I'll shoot you, Wade, I swear it! I'll fucking shoot you dead if you don't move away from that truck!
+ຂ້ອຍຈະຍິງເຈົ້າ, ເວດ, ຂ້ອຍສາບານໂຕ! ຂ້ອຍຈະ
+ຍິງເຈົ້າຕາຍຖ້າເຈົ້າບໍ່ຍ້າຍຈາກລົດບັນທຸກນັ້ນ!
+
+606
+00:39:30,500 --> 00:39:33,650
+[JACK]
+Don't move! I'll shoot you dead if you move!
+ຢ່າເຄື່ອນໄຫວ! ຂ້ອຍຈະຍິງເຈົ້າຕາຍຖ້າເຈົ້າເຄື່ອນຍ້າຍ!
+
+607
+00:39:34,150 --> 00:39:40,150
+[NICK]
+Your father's in back, Wade. Marg had to babysit him. She moved in with you, huh?  What happened?
+ພໍ່ເຈົ້າຢູ່ດ້ານຫຼັງ, ເວດ. ມາຣກຕ້ອງເບິ່ງແຍງລາວ
+. ນາງຍ້າຍມາຢູ່ກັບເຈົ້າ, ແມ່ນບໍ? ເກີດຫຍັງຂຶ້ນ?
+
+608
+00:39:40,650 --> 00:39:42,650
+[POP]
+Ah, the prodigal son.
+ອາ, ລູກຊາຍທີ່ເສຍຫາຍ.
+
+609
+00:39:43,150 --> 00:39:45,150
+[NICK]
+About fucking time.
+ມັນເຖິງເວລາແລ້ວ.
+
+610
+00:39:45,650 --> 00:39:49,500
+[POP]
+Look, got me a new job, second cook and bottle washer!
+ເບິ່ງ, ໄດ້ເອົາວຽກໃຫມ່ໃຫ້ຂ້ອຍ,
+ເຄື່ອງປຸງແຕ່ງອາຫານທີສອງແລະເຄື່ອງລ້າງຂວດ!
+
+611
+00:39:50,000 --> 00:39:52,000
+[MARGIE]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+612
+00:39:52,500 --> 00:39:56,000
+[WADE]
+Jesus Christ, Pop, let's go home. I got waylaid. Sorry.
+ພຣະເຢຊູຄຣິດ, ພໍ່, ໄປເຮືອນ. ຂ້ອຍຖືກຂັດຂວາງ. ຂໍໂທດ.
+
+613
+00:39:56,500 --> 00:40:01,750
+[POP]
+The fuck you got waylaid. You follow your prick around like it was your nose.
+ເຈົ້າຖືກຂັດຂວາງ.
+ເຈົ້າຕິດຕາມໂຊກແຊງຂອງທ່ານຢູ່ທົ່ວໄປຄືກັບວ່າມັນເປັນດັງຂອງທ່ານ.
+
+614
+00:40:02,250 --> 00:40:07,850
+[NICK]
+Can it, Whitehouse.  Get him out of here. It was funny at first, but I'm tired.
+ເຮັດໄດ້ບໍ, ເຮືອນຂາວ. ເອົາລາວອອກຈາກບ່ອນນີ້.
+ມັນມ່ວນຊື່ນໃນຕອນ ທໍາ ອິດ, ແຕ່ຂ້ອຍເມື່ອຍແລ້ວ.
+
+615
+00:40:08,350 --> 00:40:10,350
+[MARGIE]
+There's clothes in the back.
+ມີເຄື່ອງນຸ່ງຫົ່ມຢູ່ດ້ານຫຼັງ.
+
+616
+00:40:10,850 --> 00:40:16,850
+[POP]
+Let's go home? What home is that? Your home? My home? Let's have a talk about that. You're fucking sly, Wade. Your mother's dead so she can't make any excuses for you anymore! You gotta deal with me! No more sugar tit, asshole.
+ໄປເຮືອນບໍ? ນັ້ນແມ່ນເຮືອນໃດ? ເຮືອນຂອງທ່ານບໍ? ເຮືອນຂອງຂ້ອຍບໍ? ມາເວົ້າກ່ຽວກັບເລື່ອງນັ້ນ. ເຈົ້າເປັນຄົນສະຫຼາດແທ້ໆ, ເວດ.
+ແມ່ຂອງທ່ານຕາຍແລ້ວ ສະນັ້ນນາງບໍ່ສາມາດຂໍໂທດຫຍັງ ສໍາ ລັບເຈົ້າອີກຕໍ່ໄປ! ເຈົ້າຕ້ອງຮັບມືກັບຂ້ອຍ! ບໍ່ມີທ້ອງນ້ ໍາ ຕານອີກຕໍ່ໄປ, ຄົນໂຊກຮ້າຍ.
+
+617
+00:40:17,350 --> 00:40:19,350
+[WADE]
+Pop, for Christ's sake!
+ພໍ່, ເພື່ອພຣະຄຣິດ!
+
+618
+00:40:19,850 --> 00:40:23,350
+[POP]
+You think you can take me now? Come on, try.
+ເຈົ້າຄິດວ່າເຈົ້າສາມາດເອົາຂ້ອຍໄດ້ດຽວນີ້ບໍ? ມາແລ້ວ, ພະຍາຍາມ.
+
+619
+00:40:23,850 --> 00:40:25,950
+[NICK]
+Marg, get out of this. Fast.
+ມາຣກ, ອອກຈາກສິ່ງນີ້. ໄວ.
+
+620
+00:40:26,450 --> 00:40:28,450
+[MARGIE]
+I can't.
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.
+
+621
+00:40:28,950 --> 00:40:30,950
+[WADE]
+I wish you would die.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າຕາຍ.
+
+622
+00:40:31,450 --> 00:40:33,900
+[MARGIE]
+Stop it! Stop it! Just stop it!
+ຢຸດ! ຢຸດຢັ້ງ! ພຽງແຕ່ຢຸດເຊົາ!
+
+623
+00:40:34,400 --> 00:40:40,400
+[WADE]
+No shit, Rolfe, I glanced up and there he was, only it was me. But it was like I had never seen myself before. It was a stranger's face. Hard to explain. You fly on automatic pilot, like I was doing all night, and you disappear.
+ບໍ່ເປັນຫຍັງ, ໂຣລຟ໌, ຂ້ອຍເບິ່ງຂຶ້ນແລະລາວຢູ່ບ່ອນນັ້ນ, ພຽງແຕ່ມັນແມ່ນຂ້ອຍ. ແຕ່ມັນຄືກັບວ່າຂ້ອຍບໍ່ເຄີຍເຫັນຕົວເອງກ່ອນ.
+ມັນແມ່ນໃບຫນ້າຂອງຄົນແປກໃຈ. ຍາກທີ່ຈະອະທິບາຍ. ເຈົ້າບິນດ້ວຍນັກບິນອັດຕະໂນມັດ, ເຊັ່ນວ່າຂ້ອຍ ກໍາ ລັງເຮັດຕະຫຼອດຄືນ, ແລະເຈົ້າຫາຍໄປ.
+
+624
+00:40:40,900 --> 00:40:46,900
+[WADE]
+Then you accidentally see your body, or your face, or whatever, and you don't know who the hell it belongs to. Strange. It's the business with the old man, I know, and how incredibly pissed I was at him, and also chasing Jack Hewitt like that, and the Goddamned truck going through the ice, not to mention Margie's being so upset -- one thing on top of another.
+ຫຼັງຈາກນັ້ນເຈົ້າເຫັນຮ່າງກາຍຂອງທ່ານໂດຍບໍ່ sengaja, ຫຼືໃບຫນ້າຂອງທ່ານ, ຫຼືສິ່ງໃດກໍ່ຕາມ, ແລະເຈົ້າບໍ່ຮູ້ວ່າມັນຂຶ້ນກັບໃຜ. ແປກໃຈ. ມັນແມ່ນທຸລະກິດກັບພໍ່ເຖົ້າ, ຂ້ອຍຮູ້ແລ້ວ
+, ແລະຂ້ອຍໂຊກຮ້າຍຫຼາຍປານໃດຕໍ່ລາວ, ແລະຍັງລ່າຫຼັງແຈກ ເຮວິດແບບນັ້ນ, ແລະລົດບັນທຸກທີ່ຮ້າຍແຮງທີ່ຜ່ານນ້ ໍາ ກ້ອນ, ບໍ່ເວົ້າເຖິງການໂຊງຮ້າຍຫຼາຍຂອງມາຈີ - ສິ່ງ ຫນຶ່ງ ເທິງອື່ນ.
+
+625
+00:40:47,400 --> 00:40:49,400
+[ROLFE]
+Wade, are you alright?
+ເວດ, ເຈົ້າດີບໍ?
+
+626
+00:40:49,900 --> 00:40:55,900
+[WADE]
+But you gotta hear this. You won't believe it. Mel Gordon had come by to visit LaRiviere and so now I'm in his office.
+ແຕ່ເຈົ້າຕ້ອງໄດ້ຍິນສິ່ງນີ້. ເຈົ້າຈະບໍ່ເຊື່ອມັນ. ເມລ
+ແກຣດອນໄດ້ມາຢ້ຽມຢາມລາຣີເວີແລະດັ່ງນັ້ນດຽວນີ້ຂ້ອຍຢູ່ໃນຫ້ອງການຂອງລາວ.
+
+627
+00:40:56,400 --> 00:40:58,400
+[LARIVIERE]
+He's on to us!
+ລາວຕິດຕາມພວກເຮົາແລ້ວ!
+
+628
+00:40:58,900 --> 00:41:01,000
+[JACK]
+Shit! What are we gonna do?
+ພວກເຮົາຈະເຮັດແນວໃດ?
+
+629
+00:41:01,500 --> 00:41:05,350
+[LARIVIERE]
+Maybe I can buy him off. I gotta talk to Mel.
+ບາງທີຂ້ອຍສາມາດຊື້ລາວໄດ້. ຂ້ອຍຕ້ອງເວົ້າກັບແມລ.
+
+630
+00:41:05,850 --> 00:41:07,850
+[JACK]
+You can't buy Wade off.
+ເຈົ້າບໍ່ສາມາດຊື້ເວດໄດ້.
+
+631
+00:41:08,350 --> 00:41:10,350
+[LARIVIERE]
+We bought you.
+ພວກເຮົາຊື້ເຈົ້າ.
+
+632
+00:41:10,850 --> 00:41:12,850
+[JACK]
+That was me.
+ນັ້ນແມ່ນຂ້ອຍ.
+
+633
+00:41:13,350 --> 00:41:16,150
+[ALMA]
+Wade! Come in! Have a cup of coffee.
+ເວດ! ເຂົ້າມາ! ດື່ມກາເຟ.
+
+634
+00:41:16,650 --> 00:41:18,750
+[WADE]
+You got yourself a computer, Alma.
+ເຈົ້າໄດ້ຄອມພິວເຕີເອງ, ອາລມາ.
+
+635
+00:41:19,250 --> 00:41:23,100
+[ALMA]
+Been putting my files into it. You take sugar and milk?
+ເຈົ້າເອົານ້ ໍາ ຕານແລະນົມບໍ?
+
+636
+00:41:23,600 --> 00:41:25,600
+[WADE]
+No. Black.
+ບໍ່. ສີດໍາ.
+
+637
+00:41:26,100 --> 00:41:28,100
+[ALMA]
+Are you alright, Wade?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ, ເວດ?
+
+638
+00:41:28,600 --> 00:41:34,600
+[WADE]
+Yeah, sure. Why? I got this damned tooth, I got a few things bugging me, like everybody else. But I'm okay.
+ແມ່ນແລ້ວ, ແນ່ນອນ. ເປັນຫຍັງ? ຂ້ອຍມີແຂ້ວນີ້,
+ຂ້ອຍມີບາງສິ່ງບາງຢ່າງທີ່ກັງວົນຂ້ອຍ, ຄືກັບຄົນອື່ນທຸກຄົນ. ແຕ່ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+639
+00:41:35,100 --> 00:41:41,100
+[ALMA]
+Well, you look... sad. Upset. I don't mean to pry. I'm sorry about your mother. It was a nice funeral.
+ດີ, ເຈົ້າເບິ່ງຄືວ່າ... ເສົ້າໃຈ. ໂຊກຮ້າຍ. ຂ້ອຍບໍ່ຕັ້ງໃຈທີ່ຈະສົນໃຈ
+. ຂ້ອຍຂໍໂທດກ່ຽວກັບແມ່ຂອງທ່ານ. ມັນແມ່ນການຝັງສົບທີ່ດີເລີດ.
+
+640
+00:41:41,600 --> 00:41:45,800
+[WADE]
+Alma, I think there's some dirty business going on in this town.
+ແອລມາມາ, ຂ້ອຍຄິດວ່າມີທຸລະກິດທີ່ເປື້ອນບາງຢ່າງ
+ກໍາ ລັງເກີດຂຶ້ນໃນເມືອງນີ້.
+
+641
+00:41:46,300 --> 00:41:48,300
+[ALMA]
+Always has been.
+ມັນເຄີຍເປັນຢູ່ສະເຫມີ.
+
+642
+00:41:48,800 --> 00:41:54,800
+[WADE]
+This is maybe worse than you and I are used to.  What I'm talking about, I'm talking about murder. Among other things.
+ນີ້ແມ່ນບາງທີຮ້າຍແຮງກວ່າເຈົ້າແລະຂ້ອຍເຄີຍເຮັດ. ສິ່ງທີ່ຂ້ອຍເວົ້າກ່ຽວກັບ
+, ຂ້ອຍເວົ້າກ່ຽວກັບການຄາດຕະກໍາ. ໃນບັນດາສິ່ງອື່ນໆ.
+
+643
+00:41:55,300 --> 00:41:57,300
+[ALMA]
+Who?
+ໃຜ?
+
+644
+00:41:57,800 --> 00:42:01,650
+[WADE]
+Evan Twombley, the union boss who got shot. Somebody murdered him.
+ເອວານ ຕວອມບລີ, ຫົວຫນ້າສະຫະພັນທີ່ຖືກຍິງ. ບາງຄົນໄດ້ຄາດຕະກໍາລາວ.
+
+645
+00:42:02,150 --> 00:42:04,150
+[ALMA]
+Who?
+ໃຜ?
+
+646
+00:42:04,650 --> 00:42:07,800
+[WADE]
+You know Jack Hewitt, the kid I work with?
+ເຈົ້າຮູ້ຈັກແຈກ ເຮວິດ, ເດັກນ້ອຍທີ່ຂ້ອຍເຮັດວຽກກັບບໍ?
+
+647
+00:42:08,300 --> 00:42:13,550
+[WADE]
+...if Jack told the truth, he could be free by the time he's my age.
+ຖ້າແຈກເວົ້າຄວາມຈິງ, ລາວອາດຈະເປັນອິດສະຫຼະໃນເວລາທີ່ລາວອາຍຸຂອງຂ້ອຍ.
+
+648
+00:42:14,050 --> 00:42:18,600
+[ALMA]
+Sometimes things are simpler than you think. Let me ask you a question.
+ບາງຄັ້ງສິ່ງບາງຢ່າງງ່າຍດາຍກວ່າທີ່ທ່ານຄິດ. ຂໍຖາມທ່ານ ຄໍາ ຖາມ ຫນຶ່ງ.
+
+649
+00:42:19,100 --> 00:42:21,100
+[WADE]
+You don't believe me?
+ເຈົ້າບໍ່ເຊື່ອຂ້ອຍບໍ?
+
+650
+00:42:21,600 --> 00:42:26,850
+[ALMA]
+About Jack? No. Have you checked out the tax bill on your father's farm lately?
+ກ່ຽວກັບແຈກບໍ? ບໍ່.
+ເຈົ້າໄດ້ກວດສອບບັນຊີພາສີໃນຟາມຂອງພໍ່ຂອງທ່ານເມື່ອບໍ່ດົນມານີ້ບໍ?
+
+651
+00:42:27,350 --> 00:42:33,350
+[WADE]
+I know he's due for the last two years. I was thinking of paying it when the insurance comes in.
+ຂ້ອຍຮູ້ວ່າລາວຕ້ອງຈ່າຍເງິນໃນສອງປີທີ່ຜ່ານມາ. ຂ້ອຍ
+ກໍາ ລັງຄິດທີ່ຈະຈ່າຍມັນເມື່ອປະກັນໄພເຂົ້າມາ.
+
+652
+00:42:33,850 --> 00:42:35,950
+[ALMA]
+Has anybody offered to buy it?
+ມີໃຜສະເຫນີທີ່ຈະຊື້ມັນບໍ?
+
+653
+00:42:36,450 --> 00:42:38,900
+[WADE]
+As a mater of fact, yes. LaRiviere.
+ໃນຖານະເປັນຄວາມຈິງ, ແມ່ນແລ້ວ. LaRiviere.
+
+654
+00:42:39,400 --> 00:42:45,400
+[ALMA]
+This is all the real estate transactions in this town the last year. Most of it unused land. Most of it for little more than the back taxes owed.
+ນີ້ແມ່ນການເຮັດທຸລະກໍາອະສັງຫາລິມະຊັບທັງ ຫມົດ ໃນເມືອງນີ້ໃນປີທີ່ຜ່ານມາ.
+ສ່ວນໃຫຍ່ແມ່ນດິນທີ່ບໍ່ຖືກ ນໍາ ໃຊ້. ສ່ວນຫຼາຍແມ່ນຫຼາຍກ່ວາພາສີທີ່ຕ້ອງຈ່າຍ.
+
+655
+00:42:45,900 --> 00:42:49,050
+[ALMA]
+This is from three years ago. Some difference, huh?
+ນີ້ແມ່ນມາຈາກສາມປີກ່ອນ. ຄວາມແຕກຕ່າງບາງຢ່າງ, ແມ່ນບໍ?
+
+656
+00:42:49,550 --> 00:42:51,650
+[WADE]
+What is the Northcountry Development Association?
+ສະມາຄົມພັດທະນາພາກເຫນືອແມ່ນຫຍັງ?
+
+657
+00:42:52,150 --> 00:42:58,150
+[ALMA]
+I went down to Concord to check it out. The president is Mel Gordon. The vice-president and treasurer is Gordon LaRiviere. Those boys are buying up the mountain, Wade. $364,000 this year. I believe that's out of LaRiviere's league.
+ຂ້ອຍລົງໄປຄອນກອດເພື່ອກວດເບິ່ງມັນ. ປະທານປະເທດແມ່ນແມລ ແກຣດອນ. ຮອງປະທານາທິບໍດີແລະຜູ້ເກັບເງິນແມ່ນແກຣດັນ ລາຣີເວີ
+. ເດັກຊາຍເຫຼົ່ານັ້ນ ກໍາ ລັງຊື້ພູເຂົາ, ເວດ. ເງິນໂດລາ 364,000 ປີນີ້. ຂ້ອຍເຊື່ອວ່າມັນອອກຈາກລີກຂອງລາຣີເວຣີ.
+
+658
+00:42:58,650 --> 00:43:00,650
+[WADE]
+Twombley involved?
+Twombley ມີສ່ວນຮ່ວມບໍ?
+
+659
+00:43:01,150 --> 00:43:03,150
+[ALMA]
+No.
+ບໍ່
+
+660
+00:43:03,650 --> 00:43:08,900
+[WADE]
+He musta found out. They had to get rid of him. And Jack'll get blamed.
+ລາວຕ້ອງຮູ້ວ່າ. ພວກເຂົາຕ້ອງ ກໍາ ຈັດລາວອອກ. ແລະແຈກຈະຖືກກ່າວໂທດ.
+
+661
+00:43:09,400 --> 00:43:15,400
+[ALMA]
+All the figures show is that Gordon LaRiviere is going to be a very rich man using his position as Selectman. In a year or two, you won't recognize this town.
+ຕົວເລກທັງ ຫມົດ ສະແດງໃຫ້ເຫັນວ່າໂກດອນ ລາຣີເວີຈະເປັນຜູ້ຊາຍທີ່ຮັ່ງມີຫຼາຍໂດຍໃຊ້ຕໍາແຫນ່ງຂອງລາວເປັນຜູ້ເລືອກ
+. ໃນ ຫນຶ່ງ ປີຫຼືສອງປີ, ເຈົ້າຈະບໍ່ຮູ້ຈັກເມືອງນີ້.
+
+662
+00:43:15,900 --> 00:43:21,900
+[WADE]
+You sneaky sonofabitch! I've got your number now, Gordon! All these years I actually thought you were a decent man.  Can you believe that?
+ເຈົ້າໄອ້ສັດນະລົກທີ່ກະຕຸ້ນ! ຂ້ອຍມີເບີຂອງທ່ານດຽວນີ້, ໂກດອນ!
+ຕະຫຼອດປີນີ້ຂ້ອຍຄິດວ່າເຈົ້າເປັນຜູ້ຊາຍທີ່ສົມຄວນແທ້ໆ. ເຈົ້າເຊື່ອໄດ້ບໍ?
+
+663
+00:43:22,400 --> 00:43:25,550
+[LARIVIERE]
+Wade, you're done.  Let me have the shop keys.
+ເວດ, ເຈົ້າເຮັດແລ້ວ. ໃຫ້ຂ້ອຍເອົາປຸ່ມຮ້ານຄ້າ.
+
+664
+00:43:26,050 --> 00:43:32,050
+[WADE]
+You two, don't you get it? He's using you. You're his slaves.  Jesus Christ, Jack, don't you see that?
+ເຈົ້າທັງສອງ, ເຈົ້າບໍ່ເຂົ້າໃຈບໍ? ລາວ ກໍາ ລັງໃຊ້ເຈົ້າ.
+ເຈົ້າເປັນຄົນຮັບໃຊ້ຂອງລາວ. ພຣະເຢຊູຄຣິດ, ແຈກ, ເຈົ້າບໍ່ໄດ້ເຫັນນັ້ນບໍ?
+
+665
+00:43:32,550 --> 00:43:34,550
+[LARIVIERE]
+The key, Wade.
+ປຸ່ມ, ເວດ.
+
+666
+00:43:35,050 --> 00:43:41,050
+[WADE]
+Yeah, you can have the key. It's the key that's kept me locked to you all these years. I give it to you with pleasure.  Now I'm free. See how easy it is, Jack? All you got to do is give back what the man gave you, and you're free of him.  I've got to call my brother.
+ແມ່ນແລ້ວ, ເຈົ້າສາມາດເອົາປຸ່ມໄດ້. ມັນແມ່ນປຸ່ມທີ່ເຮັດໃຫ້ຂ້ອຍຖືກລັອກໄວ້ຕໍ່ເຈົ້າຕະຫຼອດປີນີ້. ຂ້ອຍໃຫ້ມັນໃຫ້ເຈົ້າດ້ວຍຄວາມສຸກ. ດຽວນີ້ຂ້ອຍເປັນອິດສະຫຼະ
+. ເບິ່ງວ່າມັນງ່າຍປານໃດ, ແຈກ? ເຈົ້າຕ້ອງເຮັດພຽງແຕ່ກັບຄືນສິ່ງທີ່ຜູ້ຊາຍໃຫ້ເຈົ້າ, ແລະເຈົ້າເປັນອິດສະຫລະຈາກລາວ. ຂ້ອຍຕ້ອງໂທຫາອ້າຍຂອງຂ້ອຍ.
+
+667
+00:43:41,550 --> 00:43:46,450
+[WADE]
+I know what it means. I'm just running out of ways to use it.
+ຂ້ອຍຮູ້ວ່າມັນຫມາຍຄວາມວ່າແນວໃດ.
+ຂ້ອຍພຽງແຕ່ ກໍາ ລັງ ຫມົດ ວິທີທີ່ຈະໃຊ້ມັນ.
+
+668
+00:43:46,950 --> 00:43:48,950
+[ROLFE]
+For what?
+ສໍາລັບຫຍັງ?
+
+669
+00:43:49,450 --> 00:43:55,450
+[WADE]
+To help, Jack, of course -- and to nail those sonsofbitches, the Two Gordons. That's what Alma calls them. Jesus, Rolfe, whose side are you on?
+ເພື່ອຊ່ວຍເຫຼືອ, ແຈກ, ແນ່ນອນ - ແລະເພື່ອຈັບລູກແຊກແຊງເຫຼົ່ານັ້ນ, ສອງໂກດອນ
+. ນັ້ນແມ່ນສິ່ງທີ່ອາລມາເອີ້ນພວກເຂົາ. ພຣະເຢຊູ, ໂຣລຟ໌, ເຈົ້າຢູ່ຂ້າງໃຜ?
+
+670
+00:43:55,950 --> 00:44:01,950
+[ROLFE]
+Take care of the little things first, the things that are distracting you from taking care of the big things. Call Chub Merritt, get your car back, call a dentist, for God's sake, and get your tooth pulled, don't trust the locals, get your facts straight and go straight to the state police. Let them work on this.
+ເອົາໃຈໃສ່ສິ່ງນ້ອຍໆກ່ອນ, ສິ່ງຕ່າງໆທີ່ ກໍາ ລັງລົບກວນເຈົ້າຈາກການເບິ່ງແຍງສິ່ງໃຫຍ່ໆ. ໂທ Chub Merritt, ເອົາລົດຂອງທ່ານກັບຄືນໄປບ່ອນ, ໂທຫມໍແຂ້ວ, ສໍາລັບພຣະເຈົ້າ
+, ແລະໄດ້ຮັບການດຶງແຂ້ວຂອງທ່ານ, ຢ່າເຊື່ອຄົນທ້ອງຖິ່ນ, ໄດ້ຮັບຄວາມຈິງຂອງທ່ານໂດຍກົງແລະໄປຫາຕໍາຫຼວດລັດໂດຍກົງ. ໃຫ້ພວກເຂົາເຮັດວຽກກ່ຽວກັບເລື່ອງນີ້.
+
+671
+00:44:02,450 --> 00:44:07,700
+[CHICK]
+The good news is we haven't got to your car yet. The bad news --
+ຂ່າວດີແມ່ນວ່າພວກເຮົາຍັງບໍ່ຮອດລົດຂອງທ່ານເທື່ອ. ຂ່າວບໍ່ດີ -
+
+672
+00:44:08,200 --> 00:44:11,000
+[WADE]
+Just tell me when you'll have it fixed.
+ພຽງແຕ່ບອກຂ້ອຍວ່າເຈົ້າຈະສ້ອມແປງມັນເມື່ອໃດ.
+
+673
+00:44:11,500 --> 00:44:17,500
+[CHICK]
+-- the bad news is there's a problem with Gordon's truck what somebody drove through the ice last night. Figured you'd know something about that, Wade.
+- ຂ່າວບໍ່ດີແມ່ນມີບັນຫາກັບລົດບັນທຸກຂອງໂກດອນທີ່ຄົນໃດຄົນຂັບລົດຜ່ານນ້ ໍາ
+ກ້ອນໃນມື້ວານນີ້. ຂ້ອຍຄິດວ່າເຈົ້າຈະຮູ້ບາງສິ່ງບາງຢ່າງກ່ຽວກັບເລື່ອງນັ້ນ, ເວດ.
+
+674
+00:44:18,000 --> 00:44:20,000
+[WADE]
+Yeah. I know about that.
+ແມ່ນແລ້ວ. ຂ້ອຍຮູ້ກ່ຽວກັບເລື່ອງນັ້ນ.
+
+675
+00:44:20,500 --> 00:44:26,500
+[CHICK]
+LaRiviere says he ain't gonna pay for the fixin' of your car. A couple hundred for the clutch. I got some more bad news. Wanna hear it?
+ລາຣີເວີຣ໌ເວົ້າວ່າລາວຈະບໍ່ຈ່າຍເງິນ ສໍາ ລັບການສ້ອມແປງລົດຂອງທ່ານ.
+ສອງສາມຮ້ອຍ ສໍາ ລັບຄລັອກ. ຂ້ອຍມີຂ່າວບໍ່ດີອີກບາງຢ່າງ. ເຈົ້າຢາກຍິນມັນບໍ?
+
+676
+00:44:27,000 --> 00:44:29,000
+[WADE]
+Tell me.
+ບອກຂ້ອຍ.
+
+677
+00:44:29,500 --> 00:44:31,500
+[CHICK]
+Chub says you're fired.
+Chub ກ່າວວ່າເຈົ້າຖືກໄລ່ອອກແລ້ວ.
+
+678
+00:44:32,000 --> 00:44:35,500
+[WADE]
+He can't fire me. LaRiviere already did that this morning.
+ລາວບໍ່ສາມາດໄລ່ຂ້ອຍໄດ້. LaRiviere ໄດ້ເຮັດແລ້ວໃນຕອນເຊົ້ານີ້.
+
+679
+00:44:36,000 --> 00:44:42,000
+[CHICK]
+He's a Selectman. The town. He said to tell you to turn your badge in and clean out your office. I'm supposed to pull the CB and police light out of your car. They're town property.
+ລາວເປັນຜູ້ຄັດເລືອກ. ເມືອງ. ລາວບອກໃຫ້ບອກເຈົ້າໃຫ້ສົ່ງປ້າຍຂອງທ່ານແລະເຮັດຄວາມສະອາດຫ້ອງການຂອງທ່ານ
+. ຂ້ອຍຄວນດຶງແສງ CB ແລະ ຕໍາຫຼວດອອກຈາກລົດຂອງທ່ານ. ພວກເຂົາເປັນຊັບສິນຂອງເມືອງ.
+
+680
+00:44:42,500 --> 00:44:47,050
+[WADE]
+What do you mean, you can't take me today? I told you --
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ,
+ເຈົ້າບໍ່ສາມາດເອົາຂ້ອຍໄດ້ມື້ນີ້ບໍ? ຂ້ອຍບອກເຈົ້າວ່າ -
+
+681
+00:44:47,550 --> 00:44:52,100
+[MARGIE]
+What on earth is happening to you? Why are you acting this way?
+ເກີດຫຍັງຂຶ້ນກັບເຈົ້າ? ເຈົ້າເຮັດແບບນີ້ເປັນຫຍັງ?
+
+682
+00:44:52,600 --> 00:44:57,500
+[WADE]
+It's my tooth! My fucking tooth! I can't even think anymore because of it.
+ມັນເປັນແຂ້ວຂອງຂ້ອຍ! ແຂ້ວຂອງຂ້ອຍແມ! ຂ້ອຍບໍ່ສາມາດຄິດອີກເລີຍຍ້ອນມັນ.
+
+683
+00:44:58,000 --> 00:45:01,850
+[MARGIE]
+I heard you talking. You got fired this morning, didn't you?
+ຂ້ອຍໄດ້ຍິນເຈົ້າເວົ້າ. ເຈົ້າຖືກໄລ່ອອກໃນຕອນເຊົ້ານີ້, ແມ່ນບໍ?
+
+684
+00:45:02,350 --> 00:45:08,350
+[WADE]
+Look, that's temporary, believe me. There's so much shit gonna hit the fan the next few days, my getting fired by LaRiviere and Merritt won't matter a bit.
+ເບິ່ງ, ນັ້ນແມ່ນຊົ່ວຄາວ, ເຊື່ອຂ້ອຍ. ມີສິ່ງແວດລ້ອມຫຼາຍຢ່າງທີ່ຈະຕີແຟນໃນສອງສາມມື້ຕໍ່ໄປ
+, ການຖືກໄລ່ອອກຈາກຂ້ອຍໂດຍ LaRiviere ແລະ Merritt ຈະບໍ່ສໍາຄັນເລັກນ້ອຍ.
+
+685
+00:45:08,850 --> 00:45:14,850
+[WADE]
+I'll get another job. People are going to need me. After this is over, they'll make me into a Goddamned hero. You wait: you'll see, I'll deliver. I'll be the best father who ever lived. You need me, even Pop, for Christ's sake, he needs me. This town needs me. Maybe now they think they can send me howling into a corner like a kicked dog, but my God, it'll be different soon.
+ຂ້ອຍຈະໄດ້ຮັບວຽກອື່ນ. ປະຊາຊົນຈະຕ້ອງການຂ້ອຍ. ຫຼັງຈາກສິ່ງນີ້ສິ້ນສຸດລົງ, ພວກເຂົາຈະເຮັດໃຫ້ຂ້ອຍເປັນວິລະຊົນທີ່ໂຊກຮ້າຍ. ເຈົ້າລໍຖ້າ: ເຈົ້າຈະເຫັນ, ຂ້ອຍຈະສົ່ງ. ຂ້ອຍຈະເປັນພໍ່ທີ່ດີທີ່ສຸດທີ່ເຄີຍມີຊີວິດຢູ່. ເຈົ້າຕ້ອງການຂ້ອຍ
+, ເຖິງແມ່ນວ່າພໍ່, ເພື່ອຄວາມຮັກຂອງພຣະຄຣິດ, ລາວຕ້ອງຂ້ອຍ. ເມືອງນີ້ຕ້ອງການຂ້ອຍໄດ້. ບາງທີດຽວນີ້ພວກເຂົາຄິດວ່າພວກເຂົາສາມາດສົ່ງຂ້ອຍເຂົ້າໄປໃນແຄມຄືກັບຫມາທີ່ຖືກຕີ, ແຕ່ພຣະເຈົ້າຂອງຂ້ອຍ, ມັນຈະແຕກຕ່າງກັນໃນໄວໆນີ້.
+
+686
+00:45:15,350 --> 00:45:17,350
+[WADE]
+Leave the bottle out!
+ໃຫ້ຈອກອອກໄປ!
+
+687
+00:45:17,850 --> 00:45:23,850
+[ROLFE]
+You will say I should have known terrible things were about to happen, and perhaps I should have. But even so, what could I have done by then? Wade never went inside. He lived almost wholly out there on his skin, with no interior space to retreat to, even in a crisis.
+ເຈົ້າຈະເວົ້າວ່າຂ້ອຍຄວນຮູ້ວ່າສິ່ງຮ້າຍແຮງ ກໍາ ລັງຈະເກີດຂຶ້ນ, ແລະບາງທີຂ້ອຍຄວນ. ແຕ່ເຖິງຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍສາມາດເຮັດຫຍັງໄດ້ໃນເວລານັ້ນ?
+ເວດບໍ່ເຄີຍເຂົ້າໄປໃນ. ລາວອາໄສຢູ່ພາຍນອກເກືອບທັງ ຫມົດ ຢູ່ເທິງຜິວ ຫນັງ ຂອງລາວ, ບໍ່ມີພື້ນທີ່ພາຍໃນທີ່ຈະຖອນຕົວໄປ, ເຖິງແມ່ນວ່າໃນວິກິດການ.
+
+688
+00:45:24,350 --> 00:45:29,600
+[LILLIAN]
+Wait there. She'll be right out.  Is there snow on the ground up in Lawford?
+ລໍຖ້າຢູ່ບ່ອນນັ້ນ. ນາງຈະອອກມາທັນທີ.
+ມີຫິມະຢູ່ເທິງດິນຢູ່ເທິງໃນ Lawford ບໍ?
+
+689
+00:45:30,100 --> 00:45:32,100
+[WADE]
+Yeah, lots.
+ແມ່ນແລ້ວ, ຫຼາຍ.
+
+690
+00:45:32,600 --> 00:45:34,600
+[LILLIAN]
+See. Get your boots.
+ເບິ່ງ. ເອົາເກີບຂອງທ່ານ.
+
+691
+00:45:35,100 --> 00:45:37,100
+[WADE]
+Hi honey.
+ສະບາຍດີແມ.
+
+692
+00:45:37,600 --> 00:45:39,600
+[JILL]
+Hi.
+ສະບາຍດີ
+
+693
+00:45:40,100 --> 00:45:42,550
+[LILLIAN]
+Have her back tomorrow night by six.
+ເອົານາງກັບມາມື້ອື່ນໃນຕອນແລງເວລາຫົກ.
+
+694
+00:45:43,050 --> 00:45:45,050
+[WADE]
+No problem. Look, I...
+ບໍ່ເປັນຫຍັງ. ເບິ່ງ, ຂ້ອຍ...
+
+695
+00:45:45,550 --> 00:45:49,400
+[LILLIAN]
+You make me sick. I can't believe you've sunk so low.
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍເຈັບປວດ. ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າຕົກລົງລົງຫຼາຍປານໃດ.
+
+696
+00:45:49,900 --> 00:45:55,500
+[WADE]
+Low as what? What have I done? It's bad to want to see your own daughter?
+ຕໍ່າກວ່າຫຍັງ? ຂ້ອຍເຮັດຫຍັງ?
+ມັນບໍ່ດີທີ່ຈະຢາກເຫັນລູກສາວຂອງທ່ານເອງບໍ?
+
+697
+00:45:56,000 --> 00:46:02,000
+[LILLIAN]
+You know what I'm talking about. For what you're doing to me and to the child you say you love so much. Love. You won't get away with it.
+ເຈົ້າຮູ້ວ່າຂ້ອຍເວົ້າຫຍັງ. ສໍາລັບສິ່ງທີ່ເຈົ້າ ກໍາ
+ລັງເຮັດກັບຂ້ອຍແລະກັບເດັກນ້ອຍທີ່ທ່ານເວົ້າວ່າເຈົ້າຮັກຫຼາຍ. ຄວາມຮັກ. ເຈົ້າຈະບໍ່ຫນີຈາກມັນ.
+
+698
+00:46:02,500 --> 00:46:05,300
+[LILLIAN]
+Bye, honey! Call me tonight if you want.
+ສະບາຍດີແມ! ໂທຫາຂ້ອຍໃນຄືນນີ້ຖ້າເຈົ້າຕ້ອງການ.
+
+699
+00:46:05,800 --> 00:46:07,800
+[JILL]
+Are we going in this?
+ພວກເຮົາຈະເຂົ້າໄປໃນສິ່ງນີ້ບໍ?
+
+700
+00:46:08,300 --> 00:46:11,450
+[WADE]
+Yeah. My car's in the shop. This'll be fine.
+ແມ່ນແລ້ວ. ລົດຂອງຂ້ອຍຢູ່ໃນຮ້ານຄ້າ. ນີ້ຈະດີດີ.
+
+701
+00:46:11,950 --> 00:46:13,950
+[JILL]
+It's pretty old.
+ມັນເກົ່າຫຼາຍ.
+
+702
+00:46:14,450 --> 00:46:16,450
+[WADE]
+It belongs to Pop.
+ມັນຂຶ້ນກັບພໍ່.
+
+703
+00:46:16,950 --> 00:46:18,950
+[JILL]
+Pop?
+ພໍ່?
+
+704
+00:46:19,450 --> 00:46:21,450
+[WADE]
+Grandpa. My father. It's his.
+ພໍ່ເຖົ້າ. ພໍ່ຂອງຂ້ອຍ. ມັນແມ່ນຂອງລາວ.
+
+705
+00:46:21,950 --> 00:46:23,950
+[JILL]
+Oh.
+ໂອ້.
+
+706
+00:46:24,450 --> 00:46:26,450
+[WADE]
+How about a Big Mac?
+ຈະເປັນແນວໃດກັບ Big Mac?
+
+707
+00:46:26,950 --> 00:46:31,850
+[JILL]
+Mommy won't let me eat fast food. You know that. It's bad for you.
+ແມ່ບໍ່ປ່ອຍໃຫ້ຂ້ອຍກິນອາຫານໄວ. ເຈົ້າຮູ້ແລ້ວ. ມັນບໍ່ດີຕໍ່ເຈົ້າ.
+
+708
+00:46:32,350 --> 00:46:38,350
+[WADE]
+C'mon, we can always sneak a Big Mac. And a cherry turnover. Your favorite. What do you say?
+ມາແລ້ວ, ພວກເຮົາສາມາດລັກເອົາ Big Mac ໄດ້ສະເຫມີ.
+ແລະການຫັນປ່ຽນ cherry. ທີ່ມັກຂອງທ່ານ. ເຈົ້າເວົ້າແນວໃດ?
+
+709
+00:46:38,850 --> 00:46:40,850
+[JILL]
+No.
+ບໍ່
+
+710
+00:46:41,350 --> 00:46:43,350
+[WADE]
+What do you want, then?
+ເຈົ້າຢາກຫຍັງ, ຫຼັງຈາກນັ້ນ?
+
+711
+00:46:43,850 --> 00:46:45,850
+[JILL]
+Nothing.
+ບໍ່ມີຫຍັງເລີຍ.
+
+712
+00:46:46,350 --> 00:46:49,850
+[WADE]
+You can't have nothing, Jill. We need lunch. Mr. Pizza?
+ເຈົ້າບໍ່ສາມາດກິນຫຍັງໄດ້, ຈິລ.
+ພວກເຮົາຕ້ອງການອາຫານທ່ຽງ. ທ້າວປິຊາບໍ?
+
+713
+00:46:50,350 --> 00:46:52,450
+[JILL]
+Same thing, Daddy. Mommy says --
+ສິ່ງດຽວກັນ, ພໍ່. ແມ່ເວົ້າວ່າ -
+
+714
+00:46:52,950 --> 00:46:56,450
+[WADE]
+I know what Mommy says. I'm in charge today, though.
+ຂ້ອຍຮູ້ວ່າແມ່ເວົ້າຫຍັງ.
+ຂ້ອຍເປັນຜູ້ຮັບຜິດຊອບໃນມື້ນີ້, ເຖິງຢ່າງໃດກໍ່ຕາມ.
+
+715
+00:46:56,950 --> 00:47:00,800
+[JILL]
+Okay. So we'll get what you want. What do you want?
+ດີແລ້ວ. ສະນັ້ນພວກເຮົາຈະໄດ້ຮັບສິ່ງທີ່ເຈົ້າຕ້ອງການ
+. ເຈົ້າຕ້ອງການຫຍັງ?
+
+716
+00:47:01,300 --> 00:47:07,300
+[WADE]
+Nothing, I guess. I guess I can wait till we get home. Maybe we'll stop by Wickham's for a hamburger when we get to Lawford. That suit you? You always like Wickham's.
+ບໍ່ມີຫຍັງເລີຍ, ຂ້ອຍຄິດວ່າ. ຂ້ອຍ ຄິດວ່າຂ້ອຍສາມາດລໍຖ້າຈົນກວ່າພວກເຮົາຈະກັບບ້ານໄດ້. ບາງທີພວກເຮົາຈະຢຸດຢູ່ເຮືອນວິກແມ
+ສໍາ ລັບແຮມເບີເກີເມື່ອພວກເຮົາຮອດ Lawford. ນັ້ນ ເຫມາະ ສົມກັບເຈົ້າບໍ? ເຈົ້າມັກເຮືອນວີກແມສະເຫມີ.
+
+717
+00:47:07,800 --> 00:47:09,800
+[JILL]
+Okay.
+ດີແລ້ວ.
+
+718
+00:47:10,300 --> 00:47:12,300
+[WADE]
+Fine.
+ດີແລ້ວ.
+
+719
+00:47:12,800 --> 00:47:15,950
+[WADE]
+Oh, Jesus, Jill, I'm sorry. What's the matter, honey?
+ໂອ້ ພຣະເຢຊູ, ຈິລ, ຂ້ອຍຂໍໂທດ. ມີຫຍັງເກີດຂຶ້ນແມ?
+
+720
+00:47:16,450 --> 00:47:18,450
+[WADE]
+Please don't cry. Please, honey.
+ຂໍຮ້ອງຢ່າຮ້ອງ. ຂໍຮ້ອງ, ແມ.
+
+721
+00:47:18,950 --> 00:47:20,950
+[JILL]
+What are you sorry for?
+ເຈົ້າຂໍໂທດຫຍັງ?
+
+722
+00:47:21,450 --> 00:47:27,450
+[WADE]
+I don't know. For the food business. I guess. I just thought, you know, we'd sneak a Big Mac on Mommy, like we used to.
+ຂ້ອຍບໍ່ຮູ້. ສໍາລັບທຸລະກິດອາຫານ. ຂ້ອຍຄິດວ່າ. ຂ້ອຍພຽງແຕ່ຄິດວ່າ,
+ເຈົ້າຮູ້ແລ້ວ, ພວກເຮົາຈະລັກເອົາ Big Mac ໃສ່ແມ່, ດັ່ງທີ່ພວກເຮົາເຄີຍເຮັດ.
+
+723
+00:47:27,950 --> 00:47:29,950
+[JILL]
+I want to go home.
+ຂ້ອຍຢາກກັບບ້ານ.
+
+724
+00:47:30,450 --> 00:47:32,450
+[WADE]
+You can't.
+ເຈົ້າບໍ່ສາມາດເຮັດໄດ້.
+
+725
+00:47:32,950 --> 00:47:34,950
+[JILL]
+That's illegal, you know.
+ນັ້ນແມ່ນຜິດກົດຫມາຍ, ເຈົ້າຮູ້ແລ້ວ.
+
+726
+00:47:35,450 --> 00:47:37,450
+[WADE]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+727
+00:47:37,950 --> 00:47:39,950
+[JILL]
+You're a policeman.
+ເຈົ້າເປັນຕໍາຫຼວດ.
+
+728
+00:47:40,450 --> 00:47:42,550
+[WADE]
+Nope. Not anymore. I'm nothing anymore.
+ບໍ່. ບໍ່ອີກແລ້ວ. ຂ້ອຍບໍ່ມີຫຍັງອີກຕໍ່ໄປ.
+
+729
+00:47:43,050 --> 00:47:45,050
+[JILL]
+Oh.
+ໂອ້.
+
+730
+00:47:45,550 --> 00:47:48,000
+[WADE]
+Jillie, you want a cheese grilled sandwich?
+ຈິລລີ, ເຈົ້າຢາກ sandwich cheese grilled ບໍ?
+
+731
+00:47:48,500 --> 00:47:51,300
+[NICK]
+It's called a grilled cheese sandwich, you dub.
+ມັນເອີ້ນວ່າ sandwich cheese grilled, ເຈົ້າ Dub.
+
+732
+00:47:51,800 --> 00:47:53,900
+[WADE]
+Jill, please, it's alright. Nothing happened.
+ຈິລ, ກະລຸນາ, ມັນບໍ່ເປັນຫຍັງ. ບໍ່ມີຫຍັງເກີດຂຶ້ນ.
+
+733
+00:47:54,400 --> 00:47:56,400
+[JILL]
+I want to go home.
+ຂ້ອຍຢາກກັບບ້ານ.
+
+734
+00:47:56,900 --> 00:47:58,900
+[WADE]
+Okay, let's go home, then.
+ດີແລ້ວ, ໄປເຮືອນ, ຫຼັງຈາກນັ້ນ.
+
+735
+00:47:59,400 --> 00:48:05,400
+[NICK]
+Wade, I got a message for you.  Jack Hewitt, he's looking for you. Wants you to clear your stuff out of his office in Town Hall.
+ເວດ, ຂ້ອຍມີຂໍ້ຄວາມ ສໍາ ລັບເຈົ້າ. ແຈກ ເຮວິດ, ລາວ ກໍາ ລັງຊອກຫາເຈົ້າ
+. ຢາກໃຫ້ເຈົ້າເອົາສິ່ງຂອງຂອງທ່ານອອກຈາກຫ້ອງການຂອງລາວໃນສະໂມສອນເມືອງ.
+
+736
+00:48:05,900 --> 00:48:08,350
+[WADE]
+His office. You mean my old office.
+ເຈົ້າຫມາຍຄວາມວ່າຫ້ອງການເກົ່າຂອງຂ້ອຍ.
+
+737
+00:48:08,850 --> 00:48:11,650
+[NICK]
+Well, I guess -- that's what he said.
+ດີ, ຂ້ອຍຄິດວ່າ - ນັ້ນແມ່ນສິ່ງທີ່ລາວເວົ້າ.
+
+738
+00:48:12,150 --> 00:48:14,150
+[WADE]
+He got his deer yet?
+ລາວໄດ້ແມວຂອງລາວແລ້ວບໍ?
+
+739
+00:48:14,650 --> 00:48:20,650
+[NICK]
+No, he's out now. Somewhere on the mountain. I'd stay away from him if I were you. He's real pissed.
+ບໍ່, ລາວຢູ່ພາຍນອກດຽວນີ້. ຢູ່ບ່ອນໃດຫນຶ່ງໃນພູ.
+ຂ້ອຍຈະຢູ່ຫ່າງຈາກລາວຖ້າຂ້ອຍເປັນເຈົ້າ. ລາວໂຊກຮ້າຍແທ້ໆ.
+
+740
+00:48:21,150 --> 00:48:23,150
+[WADE]
+Going somewhere, Margie?
+ເຈົ້າ ກໍາ ລັງໄປບ່ອນໃດບໍ, ມາຈີ?
+
+741
+00:48:23,650 --> 00:48:29,650
+[MARGIE]
+I'm just cleaning out some of this stuff that's built up. For the rummage sale. And some things for the cleaners. And the laundromat.
+ຂ້ອຍພຽງແຕ່ ກໍາ ລັງເຮັດຄວາມສະອາດບາງສິ່ງບາງຢ່າງທີ່ຖືກສ້າງຂຶ້ນ. ສໍາ
+ລັບການຂາຍເຄື່ອງລວດລ້ອມ. ແລະບາງສິ່ງ ບາງຢ່າງ ສໍາ ລັບເຄື່ອງລ້າງ. ແລະຫ້ອງລ້າງເຄື່ອງ.
+
+742
+00:48:30,150 --> 00:48:34,000
+[WADE]
+Don't lie to me. You're leaving me, I can see that.
+ຢ່າຕົວະຂ້ອຍ. ເຈົ້າ ກໍາ ລັງອອກຈາກຂ້ອຍ, ຂ້ອຍເຫັນໄດ້.
+
+743
+00:48:34,500 --> 00:48:36,500
+[MARGIE]
+Don't be silly. Hi, Jill.
+ຢ່າເປັນຄົນໂງ່. ສະບາຍດີ, ຈິລ.
+
+744
+00:48:37,000 --> 00:48:39,000
+[WADE]
+Marg.
+ມາຮໍຈ
+
+745
+00:48:39,500 --> 00:48:41,600
+[MARGIE]
+Leave me alone! Leave me alone!
+ຢ່າມາຍຸ້ງກັບຂ້ອຍ! ໃຫ້ຂ້ອຍຢູ່ໃນຄວາມສະຫງຽບ!
+
+746
+00:48:42,100 --> 00:48:44,200
+[JILL]
+Leave her alone! Leave her alone!
+ຢ່າມາຍຸ້ງກັບນາງ! ໃຫ້ນາງຢູ່ໃນສະງຽບ!
+
+747
+00:48:44,700 --> 00:48:46,700
+[MARGIE]
+Get in.
+ເຂົ້າມາ.
+
+748
+00:48:47,200 --> 00:48:50,700
+[JILL]
+I want to go home. Will you take me home?
+ຂ້ອຍຢາກກັບບ້ານ. ເຈົ້າຈະພາຂ້ອຍກັບບ້ານບໍ?
+
+749
+00:48:51,200 --> 00:48:53,200
+[MARGIE]
+Yes.
+ແມ່ນແລ້ວ.
+
+750
+00:48:53,700 --> 00:48:59,700
+[POP]
+You! By Christ, you -- I know you.  Yeah, you goddamn sonofabitch, I know you. You're a goddamn fucking piece of my heart!
+ເຈົ້າ! ໂດຍພຣະຄຣິດ, ເຈົ້າ - ຂ້ອຍຮູ້ຈັກເຈົ້າ. ແມ່ນແລ້ວ,
+ເຈົ້າໄອ້ສັດນະລົກສ໌ໂຊນຟາກສ໌, ຂ້ອຍຮູ້ເຈົ້າ. ເຈົ້າເປັນສ່ວນ ຫນຶ່ງ ຂອງຫົວໃຈຂອງຂ້ອຍ!
+
+751
+00:49:00,200 --> 00:49:04,750
+[WADE]
+You don't know me. You don't know me!  So fuck you. Fuck you.
+ເຈົ້າບໍ່ຮູ້ຂ້ອຍ. ເຈົ້າບໍ່ຮູ້ຈັກຂ້ອຍ! ສະນັ້ນເຈົ້າໄປໂຊກຮ້າຍ. ເຈົ້າ.
+
+752
+00:49:05,250 --> 00:49:11,250
+[POP]
+Nah-nah-naw! You done done finally done it! Like a man done it. Done it right. I love you, you mean sonofabitch!
+ບໍ່- ນາ- ນາວ! ເຈົ້າເຮັດແລ້ວເຮັດແລ້ວ! ຄືກັບຜູ້ຊາຍເຮັດມັນ.
+ເຮັດມັນຢ່າງຖືກຕ້ອງ. ຂ້ອຍຮັກເຈົ້າ, ເຈົ້າຫມາຍຄວາມວ່າໄອ້ສັດນະລົກ!
+
+753
+00:49:11,750 --> 00:49:14,900
+[WADE]
+Love! What the fuck do you know about love?
+ຄວາມຮັກ! ເຈົ້າຮູ້ຫຍັງກ່ຽວກັບຄວາມຮັກ?
+
+754
+00:49:15,400 --> 00:49:17,400
+[POP]
+Love! I'm made of love!
+ຄວາມຮັກ! ຂ້ອຍເຮັດດ້ວຍຄວາມຮັກ!
+
+755
+00:49:17,900 --> 00:49:19,900
+[WADE]
+Call it what you want.
+ເອີ້ນມັນຕາມທີ່ເຈົ້າຢາກ.
+
+756
+00:49:20,400 --> 00:49:22,500
+[POP]
+Everything you know is from me.
+ທຸກຢ່າງທີ່ເຈົ້າຮູ້ແມ່ນມາຈາກຂ້ອຍ.
+
+757
+00:49:23,000 --> 00:49:25,000
+[WADE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+758
+00:49:25,500 --> 00:49:27,500
+[POP]
+Bang!
+ບັງ!
+
+759
+00:49:28,000 --> 00:49:30,000
+[WADE]
+You and me.
+ເຈົ້າແລະຂ້ອຍ.
+
+760
+00:49:30,500 --> 00:49:36,500
+[POP]
+Where the Christ you going? You sonofabitch, you leave my fucking truck where it is! I need... Give me the Goddamn keys! I need to get me to town!
+ເຈົ້າໄປໃສ? ເຈົ້າໄອ້ສັດນະລົກສ໌, ເຈົ້າປ່ອຍລົດບັນທຸກຂອງຂ້ອຍຢູ່ບ່ອນທີ່ມັນຢູ່
+! ຂ້ອຍຕ້ອງການ... ໃຫ້ຂ້ອຍປຸ່ມທີ່ຮ້າຍແຮງ! ຂ້ອຍຕ້ອງພາຂ້ອຍໄປເມືອງ!
+
+761
+00:49:37,000 --> 00:49:39,000
+[WADE]
+Crawl!
+ກະຕຸ້ນ!
+
+762
+00:49:39,500 --> 00:49:45,500
+[POP]
+Nothing in the fucking house to drink. Not a fucking thing. My house, my money, my truck -- stolen!
+ບໍ່ມີຫຍັງໃນເຮືອນທີ່ຈະດື່ມ. ບໍ່ມີຫຍັງເລີຍ.
+ເຮືອນຂອງຂ້ອຍ, ເງິນຂອງຂ້ອຍ, ລົດບັນທຸກຂອງຂ້ອຍ - ຖືກລັກ!
+
+763
+00:49:46,000 --> 00:49:50,200
+[WADE]
+I don't know you. My goddamn father and I don't know you.
+ຂ້ອຍບໍ່ຮູ້ເຈົ້າ. ພໍ່ຂອງຂ້ອຍແລະຂ້ອຍບໍ່ຮູ້ຈັກເຈົ້າ.
+
+764
+00:49:50,700 --> 00:49:53,500
+[WADE]
+I know you now. I love you too.
+ຂ້ອຍຮູ້ຈັກເຈົ້າແລ້ວ. ຂ້ອຍຮັກເຈົ້າຄືກັນ.
+
+765
+00:49:54,000 --> 00:49:56,000
+[WADE]
+Joke. You scared me.
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍຢ້ານກົວ.
+
+766
+00:49:56,500 --> 00:50:02,500
+[ROLFE]
+The historical facts are known by everyone -- all of Lawford, all of New Hampshire, some of Massachusetts. Facts do not make history. Our stories, Wade's and mine, describe the lives of boys and men for thousands of years, boys who were beaten by their fathers, whose capacity for love and trust was crippled almost at birth and whose best hope, if any, for connection with other human beings lay in an elegiac detachment, as if life were over.
+ຄວາມຈິງທາງປະຫວັດສາດແມ່ນຮູ້ຈັກໂດຍທຸກຄົນ - ທັງຫມົດ Lawford, ທັງຫມົດຂອງນິວແຮມເຊສເຕີ, ບາງສ່ວນຂອງແມຊຊັສເຕີສ໌. ຄວາມຈິງບໍ່ໄດ້ສ້າງປະວັດສາດ. ເລື່ອງຂອງພວກເຮົາ, ຂອງເວດແລະຂອງຂ້ອຍ, ອະທິບາຍຊີວິດຂອງເດັກຊາຍແລະຜູ້ຊາຍເປັນເວລາຫຼາຍພັນປີ
+, ເດັກຊາຍທີ່ຖືກຕີໂດຍພໍ່ຂອງພວກເຂົາ, ຄວາມສາມາດໃນການຮັກແລະຄວາມເຊື່ອຖືໄດ້ຖືກບົກຜ່ອງເກືອບໃນເວລາເກີດແລະຄວາມຫວັງທີ່ດີທີ່ສຸດຂອງພວກເຂົາ, ຖ້າມີ, ສໍາ ລັບການເຊື່ອມຕໍ່ກັບມະນຸດອື່ນໆຢູ່ໃນການແຍກອອກຈາກ elegiac, ຄືກັບວ່າຊີວິດ
+
+767
+00:50:03,000 --> 00:50:09,000
+[ROLFE]
+It's how we keep from destroying in turn our own children and terrorizing the women who have the misfortune to love us; how we absent ourselves from the tradition of male violence; how we decline the seduction of revenge.
+ມັນເປັນວິທີທີ່ພວກເຮົາຫຼີກເວັ້ນການ ທໍາ ລາຍລູກຂອງພວກເຮົາເອງແລະຢ້ານກົວແມ່ຍິງທີ່ມີໂຊກຮ້າຍທີ່ຈະຮັກພວກເຮົາ;
+ວິທີທີ່ພວກເຮົາບໍ່ມີຕົວເອງຈາກປະເພນີຂອງຄວາມຮຸນແຮງຂອງຜູ້ຊາຍ; ວິທີການທີ່ພວກເຮົາປະຕິເສດການຊັກຊວນຂອງການແກ້ແຄ້ນ.
+
+768
+00:50:09,500 --> 00:50:15,500
+[ROLFE]
+Jack's truck turned up three days later in a shopping mall in Toronto. Even without the footprints, the bullet, Wade's utter disappearance seemed evidence enough of his guilt.
+ລົດບັນທຸກຂອງແຈກໄດ້ປາກົດຕົວສາມມື້ຕໍ່ມາໃນສູນການຄ້າໃນໂຕຣອນໂຕ. ເຖິງແມ່ນວ່າບໍ່ມີຮ່ອງຮອຍຕີນ
+, ລູກປືນ, ການຫາຍສາບສູນຢ່າງສົມບູນຂອງເວດເບິ່ງຄືວ່າເປັນຫຼັກຖານພຽງພໍຂອງຄວາມຜິດຂອງລາວ.
+
+769
+00:50:16,000 --> 00:50:22,000
+[ROLFE]
+LaRiviere and Mel Gordon were indeed in business. The Parker Mountain Ski Resort is now advertised all across the country. Jimmy Dame tends bar at the lodge. Chub Merritt opened a snowmobile dealership, Nick Wickham runs the new Burger King. Margie Fogg moved to Littleton, nearer her mother; Lillian and Jill went with Bob Horner to a new job in Seattle.
+LaRiviere ແລະ Mel Gordon ແມ່ນຢູ່ໃນທຸລະກິດແທ້ໆ. ໂຮງແຮມສະກີພູ Parker ດຽວນີ້ຖືກໂຄສະນາທົ່ວປະເທດ. ຈິມມີ ເດັມເບິ່ງແຍງແບຣ໌ຢູ່ໂລດຈ໌. Chub Merritt
+ເປີດຮ້ານຂາຍລົດຫິມະ, ນິກວິກແມແລ່ນ Burger King ໃຫມ່. ມາຈີ ຟອກຍ້າຍໄປ Littleton, ໃກ້ກັບແມ່ຂອງນາງ; ລີລຽນແລະຈິລໄດ້ໄປກັບໂບບ ຮໍເນີໄປເຮັດວຽກໃຫມ່ໃນຊີຕລ໌.
+
+770
+00:50:22,500 --> 00:50:28,500
+[ROLFE]
+We want to believe Wade died, died that same November, froze to death on a bench or a sidewalk. You cannot understand how a man, a normal man, a man like you and me, could do such a terrible thing. Unless the police happen to arrest a vagrant who turns out to be Wade Whitehouse -- or maybe he won't be a vagrant; maybe he will have turned himself into one of those faceless fellows working at the video store and lives in a town-house apartment at the edge of town until his mailman recognizes him from the picture at the post office -- unless that happens, there will be no more mention of him and his friend Jack Hewitt and our father. The story will be over. Except that I continue.
+ພວກເຮົາຢາກເຊື່ອວ່າເວດຕາຍ, ຕາຍໃນເດືອນພະຈິກດຽວກັນນັ້ນ, ກ້ອນຈົນຕາຍຢູ່ເທິງກະຕ່າຫຼືທາງຍ່າງ. ເຈົ້າບໍ່ສາມາດເຂົ້າໃຈໄດ້ວ່າຜູ້ຊາຍຄົນປົກກະຕິ, ຜູ້ຊາຍຄືກັບເຈົ້າແລະຂ້ອຍ, ສາມາດເຮັດສິ່ງຮ້າຍແຮງດັ່ງກ່າວໄດ້ແນວໃດ
+. ເວັ້ນເສຍແຕ່ວ່າຕໍາຫຼວດເກີດຂຶ້ນທີ່ຈະຈັບຄົນຍ່າງທີ່ປາກົດວ່າເປັນເວດ ວາຍທ໌ວາຍຕ໌ຮາວສ໌ - ຫຼືບາງທີລາວຈະບໍ່ເປັນຜູ້ຍ່າງ; ບາງທີລາວຈະໄດ້ປ່ຽນຕົວເອງເປັນ ຫນຶ່ງ ໃນຄົນບໍ່ມີໃບຫນ້າທີ່ເຮັດວຽກຢູ່ຮ້ານຂາຍວິດີໂອ
+

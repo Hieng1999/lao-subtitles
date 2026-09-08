@@ -1,0 +1,2199 @@
+1
+00:00:10,000 --> 00:00:16,000
+[NARRATOR]
+It is the mid 22nd Century.  Mankind has explored the boundaries of his own solar system, and now he reaches out to the endless interstellar distances of the universe.  He moves away from his own small planetary system in huge hyperdrive starships: computer-driven, self-supporting, closed-system spacecraft that travel at mind-staggering post-light velocities.  Man has begun to spread among the stars.  Enormous ships embark with generations of colonists searching the depths of space for new earths, now homes, new beginnings.  Far in advance of these colony ships goes a new pioneer: the scouts, the pathfinders, a special breed of man who has dedicated his life to blazing the trail through the most distant, unexplored galaxies, opening up the farthest frontiers of space.  These are the men of the Advance Exploration Corps.  The task they face is one of unbelievable isolation and loneliness.  So far from home that Earth is no longer even a point of light in the sky, they must comb the universe for those unstable planets whose existence poses a threat to the peaceful colonists that follow. They must find these rogue planets -- and destroy them.  Among these commandos are the men of the scoutship Dark Star.
+ມັນເປັນກາງສະຕະວັດທີ
+
+2
+00:00:16,500 --> 00:00:18,500
+[DOOLITTLE]
+Ah, what'd you say, Pinback?
+ອາ, ເຈົ້າເວົ້າຫຍັງ, ປິນບັກ?
+
+3
+00:00:19,000 --> 00:00:21,000
+[PINBACK]
+Mafhkin oble groop...
+ກຸ່ມໂອບເລີ Mafhkin...
+
+4
+00:00:21,500 --> 00:00:25,000
+[DOOLITTLE]
+Ah, what was that again, I still can't hear you?
+ອາ, ນັ້ນແມ່ນຫຍັງອີກເທື່ອຫນຶ່ງ, ຂ້ອຍຍັງບໍ່ສາມາດຍິນເຈົ້າໄດ້ບໍ?
+
+5
+00:00:25,500 --> 00:00:31,500
+[PINBACK]
+I said I'm trying to reach Talby. Something's wrong with the damn intercom.  I need a last-minute diameter approximation.
+ຂ້ອຍບອກວ່າຂ້ອຍ ກໍາ ລັງພະຍາຍາມຕິດຕໍ່ຫາຕາລບີ. ມີບາງສິ່ງບາງຢ່າງຜິດພາດກັບເຄື່ອງສື່ສານທາງໄກ
+. ຂ້ອຍຕ້ອງການການຄາດຄະເນເສັ້ນຜ່າກາງໃນນາທີສຸດທ້າຍ.
+
+6
+00:00:32,000 --> 00:00:35,500
+[DOOLITTLE]
+Talby, Talby, this is Doolittle.  Do you read me?  Talby?
+ແທລບີ, ແທລເບີ, ນີ້ແມ່ນດູລີຕລ໌. ເຈົ້າອ່ານຂ້ອຍບໍ? ແທລບບີ?
+
+7
+00:00:36,000 --> 00:00:38,000
+[DOOLITTLE]
+Talby, do you read me?
+ທາລບີ, ເຈົ້າອ່ານຂ້ອຍບໍ?
+
+8
+00:00:38,500 --> 00:00:40,950
+[TALBY]
+Oh!  Ah, yes, Doolittle.  What is it?
+ໂອ້! ອາ, ແມ່ນແລ້ວ, ດູລີຕລ໌. ມັນແມ່ນຫຍັງ?
+
+9
+00:00:41,450 --> 00:00:43,450
+[DOOLITTLE]
+I need a diameter approximation.
+ຂ້ອຍຕ້ອງການການຄາດຄະເນເສັ້ນຜ່າກາງ.
+
+10
+00:00:43,950 --> 00:00:46,750
+[TALBY]
+Okay, Doolittle, I'll have it in a minute.
+ດີແລ້ວ, ດູລີຕລ, ຂ້ອຍຈະເອົາມັນໃນນາທີຫນຶ່ງ.
+
+11
+00:00:47,250 --> 00:00:50,400
+[PINBACK]
+I need a GHF reading on the gravity correction.
+ຂ້ອຍຕ້ອງການການອ່ານ GHF ກ່ຽວກັບການແກ້ໄຂຄວາມດຶງດູດ.
+
+12
+00:00:50,900 --> 00:00:52,900
+[DOOLITTLE]
+I'll check it.
+ຂ້ອຍຈະກວດເບິ່ງມັນ.
+
+13
+00:00:53,400 --> 00:00:56,550
+[BOILER]
+I have a reduced drive reading of seven thousand.
+ຂ້ອຍມີການອ່ານຂັບລົດຫຼຸດລົງຂອງເຈັດພັນ.
+
+14
+00:00:57,050 --> 00:00:59,050
+[PINBACK]
+Right, that checks out here.
+ແມ່ນແລ້ວ, ນັ້ນຖືກກວດສອບຢູ່ນີ້.
+
+15
+00:00:59,550 --> 00:01:01,550
+[DOOLITTLE]
+Pinback...
+ປິນບັກ...
+
+16
+00:01:02,050 --> 00:01:04,050
+[PINBACK]
+Yes, Doolittle.
+ແມ່ນແລ້ວ, ດູລີຕລ.
+
+17
+00:01:04,550 --> 00:01:06,650
+[DOOLITTLE]
+Your GHF reading is minus fifteen.
+ການອ່ານ GHF ຂອງທ່ານແມ່ນລົບສິບຫ້າ.
+
+18
+00:01:07,150 --> 00:01:09,150
+[PINBACK]
+Doolittle...
+ດູລີຕລ...
+
+19
+00:01:09,650 --> 00:01:11,650
+[DOOLITTLE]
+Yes.
+ແມ່ນແລ້ວ.
+
+20
+00:01:12,150 --> 00:01:15,650
+[PINBACK]
+I need a computer reading on a fail- safe mark.
+ຂ້ອຍຕ້ອງການຄອມພິວເຕີອ່ານກ່ຽວກັບເຄື່ອງຫມາຍທີ່ປອດໄພຈາກຄວາມລົ້ມເຫຼວ.
+
+21
+00:01:16,150 --> 00:01:18,150
+[DOOLITTLE]
+In a second.
+ໃນວິນາທີຫນຶ່ງ.
+
+22
+00:01:18,650 --> 00:01:22,150
+[PINBACK]
+Boiler, can you set me up with some temp figures?
+Boiler, ເຈົ້າສາມາດຈັດຕັ້ງຕົວເລກຊົ່ວຄາວໃຫ້ຂ້ອຍໄດ້ບໍ?
+
+23
+00:01:22,650 --> 00:01:25,800
+[BOILER]
+Ninety seven million, minus eight, corrected to mass critical.
+ສິບເຈັດລ້ານ, ຫຼຸດແປດ, ຖືກແກ້ໄຂໃຫ້ເປັນມະຫາຊົນທີ່ສໍາຄັນ.
+
+24
+00:01:26,300 --> 00:01:29,450
+[PINBACK]
+I read that with a quantum increase of seven.
+ຂ້ອຍອ່ານມັນດ້ວຍການເພີ່ມຂຶ້ນຂອງກ້ອນເປັນເຈັດ.
+
+25
+00:01:29,950 --> 00:01:33,800
+[DOOLITTLE]
+Pinback, I have a computer reading of nine five seven seven.
+ປິນບັກ, ຂ້ອຍມີການອ່ານຄອມພິວເຕີຂອງເກົ້າຫ້າເຈັດເຈັດ.
+
+26
+00:01:34,300 --> 00:01:36,300
+[BOILER]
+Time to start talking.
+ມັນເຖິງເວລາແລ້ວທີ່ຈະເລີ່ມຕົ້ນເວົ້າ.
+
+27
+00:01:36,800 --> 00:01:38,800
+[PINBACK]
+Bomb bay systems operational.
+ລະບົບຖັງລະເບີດປະຕິບັດງານ.
+
+28
+00:01:39,300 --> 00:01:45,300
+[NARRATOR]
+This is a chain-reaction bomb, otherwise known as an Exponential Thermostellar Device.  Its own destructive power is small, barely enough to vaporize twelve city blocks.  However, when it explodes in contact with an object the size of a planet, it starts a chain-reaction in the very matter of that planet, turning it into a giant reactor which destroys itself in one staggering thermal flash.
+ນີ້ແມ່ນລະເບີດທີ່ມີປະຕິກິລິຍາຕ່ອງໂສ້, ເຊິ່ງເອີ້ນກັນວ່າອຸປະກອນອຸນຫະພູມແສງສະຫວ່າງທີ່ສະແດງອອກ. ພະລັງງານ ທໍາ ລາຍຂອງຕົນເອງແມ່ນນ້ອຍໆ, ພຽງພໍພຽງພໍທີ່ຈະເຮັດໃຫ້ບລັອກເມືອງສິບສອງຄົນຫາຍໃຈ.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ເມື່ອມັນລະເບັງໃນການຕິດຕໍ່ກັບວັດຖຸຂະຫນາດຂອງໂລກ, ມັນເລີ່ມຕົ້ນປະຕິກີລິຍາເຄືອຂ່າຍໃນເລື່ອງຂອງໂລກນັ້ນເອງ, ເຮັດໃຫ້ມັນກາຍເປັນເຕືອນຂະຫນາດໃຫຍ່ທີ່ ທໍາ ລາຍຕົວເອງໃນແສງຮ້ອນທີ່ສັ່ນສະ
+
+29
+00:01:45,800 --> 00:01:47,800
+[DOOLITTLE]
+Lock fail safe.
+ປິດລັອກລົ້ມເຫຼວຢ່າງປອດໄພ.
+
+30
+00:01:48,300 --> 00:01:52,850
+[PINBACK]
+Fail-safe locked.  Ah, Sergeant Pinback call1ng Bomb #19.  Do you read me, bomb?
+ປິດທີ່ປອດໄພຈາກຄວາມລົ້ມເຫຼວ. ອາ,
+ພົນຈັດຕະວາປິນບັກໂທຫາລະເບີດ # 19. ເຈົ້າອ່ານຂ້ອຍບໍ, ລະເບີດ?
+
+31
+00:01:53,350 --> 00:01:56,500
+[BOMB #19]
+Bomb #19 to Sergeant Pinback, I read you.  Continue.
+ລະເບີດ # 19 ຕໍ່ພົນຈັດຕະວາປິນບັກ, ຂ້ອຍອ່ານເຈົ້າ. ສືບຕໍ່.
+
+32
+00:01:57,000 --> 00:02:03,000
+[PINBACK]
+Well, bomb, we have about sixty seconds to drop.  Just wondering if everything is all right.  Have you checked your platinum euridium energy shielding?
+ດີ, ລະເບີດ, ພວກເຮົາມີປະມານສິບວິນາທີທີ່ຈະຖິ້ມ. ພຽງແຕ່ສົງໄສວ່າທຸກຢ່າງບໍ່ເປັນຫຍັງບໍ
+. ເຈົ້າໄດ້ກວດເບິ່ງການປົກປ້ອງພະລັງງານປລາຕິນຽມຢູຣີດີມຂອງທ່ານບໍ?
+
+33
+00:02:03,500 --> 00:02:05,500
+[BOMB #19]
+Energy shielding positive function.
+ຫນ້າທີ່ປ້ອງກັນພະລັງງານທາງບວກ.
+
+34
+00:02:06,000 --> 00:02:10,900
+[PINBACK]
+Swell.  Let's synchronize detonation time.  Do you know when you're supposed to go off?
+ດີເລີດ. ມາປະສານເວລາລະເບີດກັນ. ເຈົ້າຮູ້ບໍວ່າເຈົ້າຄວນແຕກເມື່ອໃດ?
+
+35
+00:02:11,400 --> 00:02:13,500
+[BOMB #19]
+Detonation in six minutes, twenty seconds.
+ການລະເບີດໃນເວລາຫົກນາທີ, ສິບວິນາທີ.
+
+36
+00:02:14,000 --> 00:02:20,000
+[PINBACK]
+All right, I have detonation time at... Wait a minute, something's wrong with the clock.  All right, I have detonation time at... no, that can't be right, it says three years.  Okay, I have six minutes exactly. Does that check out down there?
+ດີແລ້ວ, ຂ້ອຍມີເວລາລະເບີດຢູ່... ລໍຖ້າດົນຫນຶ່ງ, ມີບາງສິ່ງບາງຢ່າງຜິດພາດກັບໂມງ. ດີດີ, ຂ້ອຍມີຄວາມໃຊ້ເວລາລະເບິດຢູ່
+... ບໍ່, ນັ້ນບໍ່ສາມາດຖືກຕ້ອງໄດ້, ມັນເວົ້າວ່າສາມປີ. ດີ, ຂ້ອຍມີການຫົກນາທີຢ່າງແນ່ນອນ. ມັນເບິ່ງຢູ່ລຸ່ມນັ້ນບໍ?
+
+37
+00:02:20,500 --> 00:02:22,500
+[BOMB #19]
+Check at six minutes.
+ກວດສອບໃນເວລາຫົກນາທີ.
+
+38
+00:02:23,000 --> 00:02:25,000
+[PINBACK]
+Arm yourself, bomb.
+ອາວຸດຕົວເອງ, ລະເບີດ.
+
+39
+00:02:25,500 --> 00:02:27,500
+[BOMB #19]
+Armed.
+ມີອາວຸດ.
+
+40
+00:02:28,000 --> 00:02:32,900
+[PINBACK]
+Well, then, everything sounds fine. We'll drop you off in thirty-five seconds.  Good luck.
+ດີ, ຫຼັງຈາກນັ້ນ, ທຸກຢ່າງເບິ່ງຄືວ່າດີ.
+ພວກເຮົາຈະສົ່ງເຈົ້າໃນສາມສິບຫ້າວິນາທີ. ໂຊກດີ.
+
+41
+00:02:33,400 --> 00:02:35,400
+[BOMB #19]
+Thanks.
+ຂອບໃຈ
+
+42
+00:02:35,900 --> 00:02:38,350
+[PINBACK]
+Begin main sequence.  Mark at 10-9-8- 7-6-5-4-3-2-1-drop.
+ເລີ່ມຕົ້ນຊຸດຫຼັກ. ຫມາຍຢູ່ 10-9-8- 7-6-5-4-3-2-1- ຕົກລົງ.
+
+43
+00:02:38,850 --> 00:02:40,950
+[DOOLITTLE]
+Hyperdrive sequence begun.  Hit it, Pinback.
+ການຕິດຕາມໄຮເປີດຣິບເລີ່ມຕົ້ນແລ້ວ. ເອົາມັນ, ປິນບັກ.
+
+44
+00:02:41,450 --> 00:02:45,650
+[TALBY]
+Lieutenant Doolittle, it just exploded.  Ah, sir, the planet just exploded.  Lieutenant?
+ພົນຈັດຕະວາ ດູລີຕລ, ມັນຫາກໍ່ລະເບີດ
+. ອາ, ທ້າວ, ໂລກຫາກໍລະເບິດ. ພົນໂທ?
+
+45
+00:02:46,150 --> 00:02:48,150
+[DOOLITTLE]
+Unlock fail safe.
+ເປີດລັອກຄວາມລົ້ມເຫຼວຢ່າງປອດໄພ.
+
+46
+00:02:48,650 --> 00:02:50,650
+[PINBACK]
+Fail safe unlocked.
+ປອດໄພລົ້ມເຫຼວຖືກເປີດ.
+
+47
+00:02:51,150 --> 00:02:57,100
+[RECORDED VOICE]
+Attention.  Attention.  The hyperdrive sequence is now terminated.  Please observe that the no smoking signs have growrrr...
+ລະມັດລະວັງ. ລະວັງແຊຣ໌ໄຮເປີດຣິບດຽວນີ້ຖືກສິ້ນສຸດລົງ
+. ກະລຸນາສັງເກດວ່າປ້າຍບໍ່ສູບຢາໄດ້ເຕີບໃຫຍ່ຂຶ້ນ...
+
+48
+00:02:57,600 --> 00:03:01,450
+[DOOLITTLE]
+Well... now what?  What do, you have for us now.  Boiler?
+ດີ... ດຽວນີ້ຫຍັງ? ເຮັດຫຍັງ,
+ເຈົ້າມີສໍາລັບພວກເຮົາດຽວນີ້. ເຄື່ອງປັ່ນປ່ວນບໍ?
+
+49
+00:03:01,950 --> 00:03:04,750
+[BOILER]
+Not much.  Nothing at all in this sector.
+ບໍ່ຫຼາຍ. ບໍ່ມີຫຍັງເລີຍໃນຂະແຫນງການນີ້.
+
+50
+00:03:05,250 --> 00:03:08,400
+[DOOLITTLE]
+Find me something, I don't care where it is.
+ຊອກຫາບາງສິ່ງບາງຢ່າງໃຫ້ຂ້ອຍ, ຂ້ອຍບໍ່ສົນໃຈວ່າມັນຢູ່ໃສ.
+
+51
+00:03:08,900 --> 00:03:13,450
+[BOILER]
+Well, I show a 95% probability of sentient life in the Horsehead Nebula...
+ດີ, ຂ້ອຍສະແດງຄວາມເປັນໄປໄດ້ 95%
+ຂອງຊີວິດທີ່ມີຄວາມຮູ້ສຶກໃນ Nebula ຫົວມ້າ...
+
+52
+00:03:13,950 --> 00:03:15,950
+[DOOLITTLE]
+Fuck that shit.
+ໂຊກຮ້າຍນັ້ນ.
+
+53
+00:03:16,450 --> 00:03:19,250
+[BOILER]
+Well, it is kind of a long shot...
+ດີ, ມັນເປັນໂອກາດທີ່ຍາວນານ...
+
+54
+00:03:19,750 --> 00:03:25,750
+[DOOLITTLE]
+It's a goddamn wild goose chase. Remember when Commander Powell found that 99 plus probability of sentient life in the Magellanic Cloud?
+ມັນເປັນການລ່າຫຼັງແມວປ່າໄມ້ແມ. ຈື່ບໍ່ວ່າເມື່ອຜູ້ບັນຊາການໂປວລພົບວ່າຄວາມເປັນໄປໄດ້
+99 ບວກກັບຊີວິດທີ່ມີຄວາມຮູ້ສຶກໃນ Cloud Magellanic?
+
+55
+00:03:26,250 --> 00:03:28,250
+[BOILER]
+Well, there's the possibility of...
+ດີ, ມີຄວາມເປັນໄປໄດ້ວ່າ...
+
+56
+00:03:28,750 --> 00:03:34,750
+[DOOLITTLE]
+Remember what we found?  Fourteen light years for a fucking mindless vegetable that looked like a limp balloon and went squawk and let a fart when you touched it.  Remember?
+ຈື່ໄວ້ວ່າພວກເຮົາພົບຫຍັງ? ສິບສີ່ປີແສງ ສໍາ
+ລັບພືດຜັກທີ່ບໍ່ມີຈິດໃຈທີ່ເບິ່ງຄືວ່າເປັນບາລອນອ່ອນແອແລະໄດ້ສັ່ນສະເທືອນແລະປ່ອຍກິ່ນເມື່ອເຈົ້າຈັບມັນ. ຈື່ບໍ?
+
+57
+00:03:35,250 --> 00:03:37,250
+[BOILER]
+All right, then...
+ດີ, ຫຼັງຈາກນັ້ນ...
+
+58
+00:03:37,750 --> 00:03:43,700
+[DOOLITTLE]
+So don't give me any of that sentient life crap.  Find me something I can blow up.
+ສະນັ້ນຢ່າໃຫ້ຂ້ອຍຫຍັງຂອງຄວາມໂຊກຮ້າຍຊີວິດທີ່ມີຄວາມຮູ້ສຶກນັ້ນ
+. ຊອກຫາຂ້ອຍບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍສາມາດລະເບີດໄດ້.
+
+59
+00:03:44,200 --> 00:03:48,750
+[PINBACK]
+New star.  Hey, guess what?  I got a new star on the readout.
+ດາວໃຫມ່. ເຮ້, ຄາດວ່າຫຍັງ? ຂ້ອຍມີດາວໃຫມ່ໃນການອ່ານ.
+
+60
+00:03:49,250 --> 00:03:51,250
+[DOOLITTLE]
+Which one?
+ອັນໃດ?
+
+61
+00:03:51,750 --> 00:03:54,900
+[PINBACK]
+Another unknown.  Not on the charts. A red dwarf.
+ຄົນບໍ່ຮູ້ອີກຄົນຫນຶ່ງ. ບໍ່ຢູ່ໃນຕາຕະລາງ. ເປັນດາວແດງ.
+
+62
+00:03:55,400 --> 00:03:57,400
+[DOOLITTLE]
+Any planets?
+ມີໂລກໃດບໍ?
+
+63
+00:03:57,900 --> 00:03:59,900
+[PINBACK]
+Yeah.  Eight, it says here.
+ແມ່ນແລ້ວ. ແປດ, ມັນຂຽນຢູ່ບ່ອນນີ້.
+
+64
+00:04:00,400 --> 00:04:02,400
+[DOOLITTLE]
+Any of 'em any good?
+ມີຫຍັງດີບໍ?
+
+65
+00:04:02,900 --> 00:04:04,900
+[PINBACK]
+Naah.  All stable.
+ບໍ່. ທັງ ຫມົດ ຫມັ້ນ ຄົງ.
+
+66
+00:04:05,400 --> 00:04:07,500
+[PINBACK]
+What are you gonna name it?
+ເຈົ້າຈະເອີ້ນມັນວ່າແນວໃດ?
+
+67
+00:04:08,000 --> 00:04:10,000
+[DOOLITTLE]
+What?
+ຫຍັງ?
+
+68
+00:04:10,500 --> 00:04:13,650
+[PINBACK]
+The new star.  What are you gonna name it?
+ດາວໃຫມ່. ເຈົ້າຈະເອີ້ນມັນວ່າແນວໃດ?
+
+69
+00:04:14,150 --> 00:04:16,150
+[DOOLITTLE]
+Who cares.  Don't bother me.
+ໃຜສົນໃຈ. ຢ່າກັງວົນຂ້ອຍ.
+
+70
+00:04:16,650 --> 00:04:18,750
+[PINBACK]
+Commander Powell would have named it.
+ຜູ້ບັນຊາການໂປວລ ຈະຕັ້ງຊື່ມັນ.
+
+71
+00:04:19,250 --> 00:04:21,250
+[DOOLITTLE]
+Commander Powell is dead.
+ຜູ້ບັນຊາການໂປວລຕາຍແລ້ວ.
+
+72
+00:04:21,750 --> 00:04:24,200
+[PINBACK]
+Come on, Doolittle, give it a name.
+ມາແລ້ວ, ດູລີຕລ໌, ໃຫ້ມັນຊື່.
+
+73
+00:04:24,700 --> 00:04:26,700
+[DOOLITTLE]
+Fred.
+ຟຣີດ.
+
+74
+00:04:27,200 --> 00:04:29,200
+[PINBACK]
+Wha?
+ຫຍັງ?
+
+75
+00:04:29,700 --> 00:04:31,800
+[DOOLITTLE]
+I hereby name this star Fred.
+ຂ້ອຍຂໍຕັ້ງຊື່ດາວນີ້ວ່າ ຟຣີດ.
+
+76
+00:04:32,300 --> 00:04:38,300
+[BOILER]
+Hey, Doolittle, here's one.  An unstable planet.  85% probability of an unstable planet in the Veil Nebula that will probably go off its orbit and hit a star.
+ເຮ້, ດູລີຕລ໌, ນີ້ແມ່ນຫນຶ່ງ. ດາວໂລກທີ່ບໍ່ຫມັ້ນຄົງ. ຄວາມເປັນໄປໄດ້ 85%
+ຂອງດາວໂລກທີ່ບໍ່ຫມັ້ນຄົງໃນ Nebula Veil ທີ່ອາດຈະອອກຈາກວົງຈອນຂອງຕົນແລະຕີດາວ.
+
+77
+00:04:38,800 --> 00:04:41,950
+[DOOLITTLE]
+Sounds good.  Chart a course for the Veil Nebula.
+ມັນເບິ່ງຄືວ່າດີ. ວາງທິດທາງໄປຫາ Nebula Veil.
+
+78
+00:04:42,450 --> 00:04:44,550
+[BOILER]
+Pinback, throw me the chart log.
+ປິນບັກ, ຖິ້ມປື້ມບັນທຶກຕາຕະລາງໃຫ້ຂ້ອຍ.
+
+79
+00:04:45,050 --> 00:04:47,500
+[DOOLITTLE]
+Let's have some music in here, Boiler.
+ມາມີດົນຕີບາງຢ່າງຢູ່ນີ້, Boiler.
+
+80
+00:04:48,000 --> 00:04:54,000
+[DOOLITTLE]
+Ship's log, entry number 1,943. Dark Star cruising at light speed through Sector Theta 990.  En route to Veil Nebula for destruction of unstable planet.  Our ETA is 1700 hours.  Ship's systems continue to deteriorate...
+ບັນທຶກຂອງເຮືອ, ເລກເຂົ້າ 1,943. ດາວມືດ ກໍາ ລັງເດີນທາງດ້ວຍຄວາມໄວແສງສະຫວ່າງຜ່ານຂະແຫນງ Theta 990. ໃນເສັ້ນທາງໄປຫາ
+Nebula Veil ເພື່ອທໍາລາຍໂລກທີ່ບໍ່ຫມັ້ນຄົງ. ETA ຂອງພວກເຮົາແມ່ນ 1700 ຊົ່ວໂມງ. ລະບົບຂອງເຮືອບໍຍັງສືບຕໍ່ສໍ້ໂກງ...
+
+81
+00:04:54,500 --> 00:05:00,500
+[DOOLITTLE]
+The short circuit in the rear seat panel which killed Commander Powell continues to be faulty.  Uh... Storage Area 9...
+ວົງຈອນສັ້ນໃນກະດານບ່ອນນັ່ງຫລັງທີ່ໄດ້ຂ້າຜູ້ບັນຊາການໂປວລຍັງຄົງຜິດປົກກະຕິ
+. ອູ... ເຂດເກັບຮັກສາ 9...
+
+82
+00:05:01,000 --> 00:05:07,000
+[DOOLITTLE]
+And because he's sitting next to it, it continues to bother Pinback.  Storage Area 9 self-destructed last week, destroying entire ship's supply of toilet paper.  That's all.
+ແລະເພາະວ່າລາວນັ່ງຢູ່ຂ້າງມັນ, ມັນຍັງສືບຕໍ່ກັງວົນ Pinback. ເຂດເກັບຮັກສາ 9 ທໍາ
+ລາຍຕົວເອງໃນອາທິດທີ່ຜ່ານມາ, ທໍາ ລາຍການສະ ຫນອງ ເຈ້ຍຫ້ອງນ້ ໍາ ທັງ ຫມົດ ຂອງເຮືອ. ນັ້ນແມ່ນທັງຫມົດ.
+
+83
+00:05:07,500 --> 00:05:09,500
+[DOOLITTLE]
+Talby.
+ຕາລບີ.
+
+84
+00:05:10,000 --> 00:05:12,000
+[DOOLITTLE]
+Here's some breakfast.
+ນີ້ແມ່ນອາຫານເຊົ້າບາງຢ່າງ.
+
+85
+00:05:12,500 --> 00:05:18,500
+[DOOLITTLE]
+You know, Talby, you really ought to eat with the rest of us.  You spend too much time up here.
+ເຈົ້າຮູ້ແລ້ວ, ທາລບີ, ເຈົ້າຄວນກິນກັບພວກເຮົາຄົນອື່ນແທ້ໆ
+. ເຈົ້າໃຊ້ເວລາຫຼາຍເກີນໄປຢູ່ນີ້.
+
+86
+00:05:19,000 --> 00:05:21,000
+[TALBY]
+I like it up here.
+ຂ້ອຍມັກຢູ່ເທິງນີ້.
+
+87
+00:05:21,500 --> 00:05:24,300
+[DOOLITTLE]
+Must get lonely being up here so much.
+ມັນຕ້ອງມີຄວາມໂດດດ່ຽວຫຼາຍທີ່ຢູ່ເທິງນີ້ຫຼາຍ.
+
+88
+00:05:24,800 --> 00:05:30,800
+[TALBY]
+I don't like to go below since Commander Powell died.  I feel enclosed down there.  If it were big enough, I'd sleep up here...
+ຂ້ອຍບໍ່ມັກໄປລຸ່ມນັບຕັ້ງແຕ່ຜູ້ບັນຊາການໂປວລຕາຍ.
+ຂ້ອຍຮູ້ສຶກຖືກປິດລ້ອມຢູ່ລຸ່ມນັ້ນ. ຖ້າມັນໃຫຍ່ພໍສົມຄວນ, ຂ້ອຍຈະນອນຢູ່ເທິງນີ້...
+
+89
+00:05:31,300 --> 00:05:36,200
+[DOOLITTLE]
+... Should spend some time below, see more of the rest of the ship...
+ຄວນໃຊ້ເວລາບາງຊົ່ວຄາວຢູ່ລຸ່ມ, ເບິ່ງສ່ວນທີ່ເຫຼືອຂອງເຮືອຫຼາຍຂຶ້ນ...
+
+90
+00:05:36,700 --> 00:05:42,700
+[TALBY]
+... You see, I can watch things up here, Doolittle.  I love to watch things, just stare at the planets and meteors and asteroids, gas clusters...
+ເຈົ້າເຫັນແລ້ວ, ຂ້ອຍສາມາດເບິ່ງສິ່ງຕ່າງໆຢູ່ເທິງນີ້, Doolittle.
+ຂ້ອຍມັກເບິ່ງສິ່ງບາງຢ່າງ, ພຽງແຕ່ເບິ່ງດາວທຽມແລະ meteor ແລະ asteroids, ກຸ່ມແກັສ...
+
+91
+00:05:43,200 --> 00:05:49,200
+[DOOLITTLE]
+You'll have plenty of time for that, you know.  Figure it this way: twenty years in space and we've only aged three, so there'll be plenty of time to stare around...
+ເຈົ້າຈະມີເວລາຫຼາຍປານໃດ ສໍາ ລັບສິ່ງນັ້ນ, ເຈົ້າຮູ້ແລ້ວ. ຄິດມັນແບບນີ້:
+ສິບປີໃນອະວະກາດແລະພວກເຮົາພຽງແຕ່ອາຍຸສາມປີເທົ່ານັ້ນ, ສະນັ້ນຈະມີເວລາພຽງພໍທີ່ຈະເບິ່ງຢູ່ອ້ອມຂ້າງ...
+
+92
+00:05:49,700 --> 00:05:55,700
+[TALBY]
+You know, Doollttle, if we're going into the Veil Nebula, we may actually find a strange and beautiful thing: the Phoenix Asteroids.  They should be passing through there about now...
+ເຈົ້າຮູ້ແລ້ວ, Doollttle, ຖ້າພວກເຮົາ ກໍາ ລັງເຂົ້າໄປໃນ Nebula Veil,
+ພວກເຮົາອາດຈະພົບສິ່ງແປກໃຈແລະສວຍງາມແທ້ໆ: Asteroids Phoenix. ພວກເຂົາຄວນຜ່ານບ່ອນນັ້ນປະມານດຽວນີ້...
+
+93
+00:05:56,200 --> 00:05:58,300
+[DOOLITTLE]
+Phoenix Asteroids?  Never heard of 'em.
+Asteroids ຟີນິກສ໌? ບໍ່ເຄີຍໄດ້ຍິນກ່ຽວກັບພວກມັນເລີຍ.
+
+94
+00:05:58,800 --> 00:06:04,800
+[TALBY]
+They are a body of asteroids that make a complete circuit of the universe once every 12.3 trillion years.  The Phoenix Asteroids... From what I've heard, Doolittle, they glow... glow with all the colors of the rainbow.  Nobody knows why.  They just glow as they drift around the universe.  Imagine all the sights they've seen in the time they've been travelling -- the birth and death of stars, things we'll never see.  The universe is alive, Doolittle.  I thought it was all empty, but it isn't.  In between the stars, it's seething with light and gasses and dust.  There are little pebbles drifting around, planets no one on Earth has ever seen... No one but the Phoenix Asteroids...
+ພວກເຂົາເປັນຮ່າງກາຍຂອງດາວທຽມທີ່ເຮັດວົງຈອນທີ່ສົມບູນແບບຂອງຈັກກະວານຄັ້ງຫນຶ່ງໃນທຸກໆ 12.3 ຕື້ປີ. Asteroids Phoenix... ຈາກສິ່ງທີ່ຂ້ອຍໄດ້ຍິນ, Doolittle, ພວກເຂົາສົດໃສ... ສົດໃສດ້ວຍສີສັນທັງ ຫມົດ ຂອງກະທູ້ຝົນ.
+ບໍ່ມີໃຜຮູ້ວ່າເປັນຫຍັງ. ພວກເຂົາພຽງແຕ່ສ່ອງໃສໃນຂະນະທີ່ພວກເຂົາຍ່າງຢູ່ທົ່ວຈັກກະ ວານ. ຈິນຕະນາການທັງ ຫມົດ ທີ່ພວກເຂົາເຫັນໃນເວລາທີ່ພວກເຂົາ ກໍາ ລັງເດີນທາງ - ການເກີດແລະຕາຍຂອງດວງດາວ, ສິ່ງຕ່າງໆທີ່ພວກເຮົາຈະບໍ່
+
+95
+00:06:05,300 --> 00:06:07,750
+[DOOLITTLE]
+You know what I think about, Talby?
+ເຈົ້າຮູ້ວ່າຂ້ອຍຄິດຫຍັງ, ທາລບີ?
+
+96
+00:06:08,250 --> 00:06:10,700
+[TALBY]
+I'm getting something here, on this readout...
+ຂ້ອຍ ກໍາ ລັງໄດ້ຮັບບາງສິ່ງບາງຢ່າງຢູ່ນີ້, ໃນການອ່ານນີ້...
+
+97
+00:06:11,200 --> 00:06:16,800
+[DOOLITTLE]
+It's funny, but I kind of sit around, you know, a lot of time to myself...
+ມັນມ່ວນຊື່ນ, ແຕ່ຂ້ອຍນັ່ງຢູ່ທົ່ວໄປ,
+ເຈົ້າຮູ້ແລ້ວ, ເວລາຫຼາຍຕໍ່ຕົວເອງ...
+
+98
+00:06:17,300 --> 00:06:20,100
+[TALBY]
+I think I'm getting a malfunction here somewhere.
+ຂ້ອຍຄິດວ່າຂ້ອຍ ກໍາ ລັງໄດ້ຮັບຄວາມຜິດປົກກະຕິຢູ່ບ່ອນໃດບ່ອນນີ້.
+
+99
+00:06:20,600 --> 00:06:26,600
+[DOOLITTLE]
+I can't talk to the others, but with time to myself, I think about back home, back home at Malibu.  I used to surf a lot, Talby.  I used to be a great surfer.
+ຂ້ອຍບໍ່ສາມາດເວົ້າກັບຄົນອື່ນໄດ້, ແຕ່ມີເວລາກັບຕົວເອງ, ຂ້ອຍຄິດກ່ຽວກັບກັບບ້ານ,
+ກັບບ້ານຢູ່ມາລີບູ. ຂ້ອຍເຄີຍເດີນເຮືອຫຼາຍ, ທາລບີ. ຂ້ອຍມັກເປັນນັກເດີນ ເຮືອທີ່ດີເລີດ.
+
+100
+00:06:27,100 --> 00:06:32,000
+[TALBY]
+Lieutenant Doolittle, I'm getting a definite malfunction on one of the closed-circuit computer systems...
+ພົນຈັດຕະວາ ດູລີຕລ, ຂ້ອຍ ກໍາ ລັງໄດ້ຮັບຄວາມຜິດພາດທີ່ແນ່ນອນໃນ
+ຫນຶ່ງ ໃນລະບົບຄອມພິວເຕີວົງຈອນປິດ...
+
+101
+00:06:32,500 --> 00:06:38,500
+[DOOLITTLE]
+The waves at Malibu and Zuma were fantastic in the springs Talby.  I can remember running out on the beach early spring mornings with my board and a wet suit...
+ຄື້ນຟອງຢູ່ມາລີບູ ແລະ ຊູມາແມ່ນຍິ່ງໃຫຍ່ໃນແຫຼ່ງນໍ້າຕາລບີ.
+ຂ້ອຍຈື່ໄດ້ວ່າແລ່ນອອກໄປຫາດຊາຍໃນຕອນເຊົ້າຕົ້ນພາກຮຽນ spring ກັບກະດານຂອງຂ້ອຍແລະຊຸດຊຸ່ມຊື່ນ...
+
+102
+00:06:39,000 --> 00:06:41,800
+[TALBY]
+I can't seem to locate the malfunction exactly...
+ຂ້ອຍເບິ່ງຄືວ່າບໍ່ສາມາດຊອກຫາການເຮັດວຽກຜິດປົກກະຕິຢ່າງແນ່ນອນ...
+
+103
+00:06:42,300 --> 00:06:47,900
+[DOOLITTLE]
+Waves would be peaking really high and glassy.  Hit that water.  Ridin' the wall just perfect.
+ຄື້ນຟອງຈະສູງສຸດສູງແລະແກ້ວແທ້ໆ. ຕີນ້
+ໍາ ນັ້ນ. ຂີ່ກໍາແພງພຽງແຕ່ສົມບູນແບບ.
+
+104
+00:06:48,400 --> 00:06:50,850
+[TALBY]
+... Somewhere in the autonomic relay circuits...
+... ບາງບ່ອນໃນວົງຈອນການສົ່ງຕໍ່ຕົນເອງ...
+
+105
+00:06:51,350 --> 00:06:55,550
+[DOOLITTLE]
+I guess I miss the waves and my board most of all.
+ຂ້ອຍຄິດວ່າຂ້ອຍຂາດຄື້ນແລະກະດານຂອງຂ້ອຍຫຼາຍທີ່ສຸດ.
+
+106
+00:06:56,050 --> 00:07:02,050
+[TALBY]
+Ah, Doolittle, I do have a malfunction on this readout, but I can't seem to pinpoint exactly where it is.
+ອາ, ດູລີຕລ, ຂ້ອຍມີຄວາມຜິດພາດໃນການອ່ານນີ້,
+ແຕ່ຂ້ອຍເບິ່ງຄືວ່າບໍ່ສາມາດແນ່ນອນວ່າມັນຢູ່ໃສ.
+
+107
+00:07:02,550 --> 00:07:06,400
+[DOOLITTLE]
+Don't worry about it.  We'll find out when it goes bad.
+ຢ່າກັງວົນກ່ຽວກັບມັນ. ພວກເຮົາຈະຮູ້ວ່າມັນຈະຮ້າຍແຮງເມື່ອໃດ.
+
+108
+00:07:06,900 --> 00:07:11,800
+[TALBY]
+I really think I should try and locate it immediately.  Might be something important.
+ຂ້ອຍຄິດວ່າຂ້ອຍຄວນພະຍາຍາມຊອກຫາມັນທັນທີ
+. ມັນອາດຈະເປັນບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນ.
+
+109
+00:07:12,300 --> 00:07:18,300
+[DOOLITTLE]
+I wish I had my board with me now. Even if I could only polish it once in awhile.
+ຂ້ອຍຢາກມີກະດານຂອງຂ້ອຍຢູ່ກັບຂ້ອຍດຽວນີ້.
+ເຖິງແມ່ນວ່າຂ້ອຍສາມາດປັ່ນມັນໄດ້ພຽງຄັ້ງດຽວໃນບາງຄັ້ງ.
+
+110
+00:07:18,800 --> 00:07:22,300
+[BOILER]
+I'm getting this flickering light on one of my panels.
+ຂ້ອຍ ກໍາ ລັງໄດ້ຮັບແສງສະຫວ່າງທີ່ສ່ອງແສງໃນ ຫນຶ່ງ ໃນກະດານຂອງຂ້ອຍ.
+
+111
+00:07:22,800 --> 00:07:24,800
+[PINBACK]
+What flickering light?
+ແສງສະຫວ່າງທີ່ສ່ອງແສງໃດ?
+
+112
+00:07:25,300 --> 00:07:29,500
+[BOILER]
+The one on unit... oh, I think it's GMR twelve zero zero.
+ຄົນໃນຫນ່ວຍງານ... ໂອ້, ຂ້ອຍຄິດວ່າມັນເປັນ GMR ສິບສອງສິບສອງ.
+
+113
+00:07:30,000 --> 00:07:32,000
+[PINBACK]
+Oh.  What's wrong now?
+ໂອ້. ມີຫຍັງເກີດຂຶ້ນດຽວນີ້?
+
+114
+00:07:32,500 --> 00:07:37,400
+[BOILER]
+I'm not sure.  I think something is fucked up somewhere in the ship, though.
+ຂ້ອຍບໍ່ແນ່ໃຈ. ຂ້ອຍຄິດວ່າບາງສິ່ງບາງຢ່າງຈົບແນ່ຢູ່ບ່ອນໃດໃນເຮືອ
+, ເຖິງຢ່າງໃດກໍ່ຕາມ.
+
+115
+00:07:37,900 --> 00:07:40,350
+[PINBACK]
+I hope it's not the oven again.
+ຂ້ອຍຫວັງວ່າມັນບໍ່ແມ່ນເຕົາອົບອີກເທື່ອຫນຶ່ງ.
+
+116
+00:07:40,850 --> 00:07:42,850
+[BOILER]
+Yeah.
+ແມ່ນແລ້ວ.
+
+117
+00:07:43,350 --> 00:07:46,850
+[PINBACK]
+Remember when the artificial gravity, went out in the toilet?
+ເຈົ້າຈື່ບໍ່ວ່າເມື່ອແຮງດຶງດູດທາງດິດ, ອອກໄປໃນຫ້ອງນ້ ໍາ ບໍ?
+
+118
+00:07:47,350 --> 00:07:51,200
+[PINBACK]
+Hey, Doolittle, think we'll ever find real intelligent life out there?
+ເຮ້, ດູລີຕລ໌,
+ເຈົ້າຄິດວ່າພວກເຮົາຈະພົບຊີວິດທີ່ສະຫຼາດແທ້ໆຢູ່ບ່ອນນັ້ນບໍ?
+
+119
+00:07:51,700 --> 00:07:53,700
+[DOOLITTLE]
+Out where?
+ອອກໄປໃສ?
+
+120
+00:07:54,200 --> 00:07:56,200
+[PINBACK]
+Veil nebula.
+ໂນບູລາຜ້າຝ້າຍ.
+
+121
+00:07:56,700 --> 00:07:58,700
+[DOOLITTLE]
+Who cares?
+ໃຜສົນໃຈ?
+
+122
+00:07:59,200 --> 00:08:05,200
+[INCOMING COMMUNICATION]
+This fades, and MISSION CONTROLLER appears on the screen, against a background of computer terminals.  He is dressed in a snappy tunic, and when he receives the on-camera cue, he smiles ingratiatingly.
+ນີ້ແມ່ນຫາຍໄປ, ແລະຜູ້ຄວບຄຸມພາລະກິດປາກົດຕົວໃນ ຫນ້າ ຈໍ, ຕໍ່ພື້ນຫລັງຂອງ terminal ຄອມພິວເຕີ.
+ລາວໃສ່ເຄື່ອງນຸ່ງຫົ່ມທີ່ສົດໃສ, ແລະເມື່ອລາວໄດ້ຮັບຊີ້ບອກໃນກ້ອງຖ່າຍຮູບ, ລາວມ່ວນຊື່ນຢ່າງຍອມຮັບ.
+
+123
+00:08:05,700 --> 00:08:11,700
+[MISSION CONTROLLER]
+Hi, guys.  Glad to get your message. We gather from the ten-year communications lag that you are approximately 18 parsecs away.  Drop us a line more often, won't you?
+ສະບາຍດີ, ພວກຜູ້ຊາຍ. ດີໃຈທີ່ໄດ້ຮັບຂໍ້ຄວາມຂອງທ່ານ.
+ພວກເຮົາເຕົ້າໂຮມຈາກຄວາມຊ້າໃນການສື່ສານສິບປີວ່າເຈົ້າຢູ່ຫ່າງຈາກປະມານ 18 ປາເຊັກ. ຖິ້ມສາຍໃຫ້ພວກເຮົາຫຼາຍຂຶ້ນ, ແມ່ນບໍ?
+
+124
+00:08:12,200 --> 00:08:14,300
+[TALBY]
+Lieutenant Doolittle, this is Talby. Lieutenant?
+ພົນຈັດຕະວາ ດູລີຕລ໌, ນີ້ແມ່ນຕາລບີ. ພົນໂທ?
+
+125
+00:08:14,800 --> 00:08:16,800
+[DOOLITTLE]
+Yes, Talby, what is it?
+ແມ່ນແລ້ວ, ທາລບີ, ມັນແມ່ນຫຍັງ?
+
+126
+00:08:17,300 --> 00:08:23,300
+[TALBY]
+Sorry to interrupt your lunch, sir, but I'm in the Computer Room, and I think I've located the malfunction. The scanner shows it to be some sort of fault in the communications laser, down by the Emergency Air Lock.  Can't pinpoint it exactly, but I'm going down there with a starsuit and try to find it.
+ຂໍໂທດທີ່ລົບກວນອາຫານທ່ຽງຂອງທ່ານເດີ, ແຕ່ຂ້ອຍຢູ່ໃນຫ້ອງຄອມພິວເຕີ, ແລະຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ຊອກຫາຄວາມຜິດປົກກະຕິ. ເຄື່ອງສະແກນສະແດງໃຫ້ເຫັນວ່າມັນເປັນຄວາມຜິດພາດບາງຊະນິດໃນເລເຊີການສື່ສານ
+, ລົງໂດຍລັອກອາກາດສຸກເສີນ. ບໍ່ສາມາດລະບຸມັນໄດ້ຢ່າງແນ່ນອນ, ແຕ່ນຂ້ອຍຈະລົງໄປບ່ອນນັ້ນດ້ວຍຊຸດດາວແລະພະຍາຍາມຊອກຫາມັນ.
+
+127
+00:08:23,800 --> 00:08:27,650
+[DOOLITTLE]
+Sounds good, Talby.  Let me know if anything important comes up.
+ມັນເບິ່ງຄືວ່າດີ, ທາລບີ. ໃຫ້ຂ້ອຍຮູ້ຖ້າມີຫຍັງສໍາຄັນເກີດຂຶ້ນ.
+
+128
+00:08:28,150 --> 00:08:32,350
+[BOILER]
+Why doesn't Talby ever eat down here with the rest of us?
+ເປັນຫຍັງຕາລບີຈຶ່ງບໍ່ກິນຢູ່ບ່ອນນີ້ກັບພວກເຮົາຄົນອື່ນເລີຍ?
+
+129
+00:08:32,850 --> 00:08:36,350
+[DOOLITTLE]
+He just likes it up in the dome, that's all.
+ລາວພຽງແຕ່ມັກມັນຢູ່ເທິງໂດມ, ນັ້ນແມ່ນທັງຫມົດ.
+
+130
+00:08:36,850 --> 00:08:38,850
+[BOILER]
+What's Talby's first name?
+ຊື່ທໍາອິດຂອງຕາລບີແມ່ນຫຍັງ?
+
+131
+00:08:39,350 --> 00:08:41,350
+[DOOLITTLE]
+What's my first name?
+ຊື່ທໍາອິດຂອງຂ້ອຍແມ່ນຫຍັງ?
+
+132
+00:08:41,850 --> 00:08:47,850
+[MISSION CONTROLLER]
+-- then repatch channel 12 and seal all the plates.  Don't mess with it and it should work okay.  I'm just glad we caught this thing before anything serious happened.  Keep up the good work, men.
+- ຫຼັງຈາກນັ້ນສົ່ງຊ່ອງທາງທີ 12 ແລະ ປິດແຜ່ນທັງ ຫມົດ. ຢ່າສໍ້ໂກງມັນແລະມັນຄວນເຮັດວຽກດີ.
+ຂ້ອຍພຽງແຕ່ດີໃຈທີ່ພວກເຮົາຈັບສິ່ງນີ້ກ່ອນທີ່ຈະເກີດຫຍັງຮ້າຍແຮງ. ສືບຕໍ່ເຮັດວຽກທີ່ດີ, ຜູ້ຊາຍ.
+
+133
+00:08:48,350 --> 00:08:53,950
+[END COMMUNICATION]
+FULL SHOT - CONTROL ROOM.  Lights blink peacefully in the empty room. HOLD FOR A MOMENT.
+ການຍິງຢ່າງເຕັມທີ່ - ຫ້ອງຄວບຄຸມ.
+ແສງສະຫວ່າງສ່ອງແສງຢ່າງສະຫງົບໃນຫ້ອງຫວ່າງ. ຢືນຢັນຊົ່ວຄາວ.
+
+134
+00:08:54,450 --> 00:09:00,450
+[BOILER]
+There she is.  Definite 99%-plus probability that the planet is going to deviate from its normal orbit in another twelve thousand rotations. It'll spiral in toward its sun, and --
+ນາງຢູ່ບ່ອນນັ້ນ. ຄວາມເປັນໄປໄດ້ທີ່ແນ່ນອນ 99% ບວກກັບທີ່ໂລກຈະຫັນຈາກວົງຈອນປົກກະຕິຂອງຕົນໃນອີກສິບສອງພັນການຫມູນວຽນ
+. ມັນຈະສ້ອມແປງເຂົ້າສູ່ແສງຕາເວັນຂອງຕົນ, ແລະ -
+
+135
+00:09:00,950 --> 00:09:02,950
+[PINBACK]
+Eventual supernova.
+ສຸດທ້າຍ supernova ໄດ້.
+
+136
+00:09:03,450 --> 00:09:05,450
+[DOOLITTLE]
+Good stuff.  Let's vaporize it.
+ສິ່ງທີ່ດີ. ມາເຮັດໃຫ້ມັນຫາຍໃຈ.
+
+137
+00:09:05,950 --> 00:09:07,950
+[PINBACK]
+Bomb bay systems operational.
+ລະບົບຖັງລະເບີດປະຕິບັດງານ.
+
+138
+00:09:08,450 --> 00:09:10,450
+[DOOLITTLE]
+Lock fail safe.
+ປິດລັອກລົ້ມເຫຼວຢ່າງປອດໄພ.
+
+139
+00:09:10,950 --> 00:09:16,950
+[PINBACK]
+Fail safe in lock.  Four minutes to drop, 22 minutes to detonation.  This is Sergeant Pinback calling Bomb #20.  Do you read me, bomb?
+ການລົ້ມເຫຼວທີ່ປອດໄພໃນລັອກ. ສີ່ນາທີທີ່ຈະຕົກລົງ, 22 ນາທີທີ່ຈະລະເບີດ
+. ນີ້ແມ່ນພົນຈັດຕະວາປິນບັກທີ່ໂທຫາໂຈມຕີ #20. ເຈົ້າອ່ານຂ້ອຍບໍ, ໂຈມຕີ?
+
+140
+00:09:17,450 --> 00:09:20,950
+[BOMB #20]
+Bomb #20 to Sergeant Pinback.  Roger, I read you, continue.
+ລະເບີດ # 20 ຕໍ່ພົນຈັດຕະວາປິນບັກ. ໂຣເຈີ, ຂ້ອຍອ່ານເຈົ້າ, ສືບຕໍ່.
+
+141
+00:09:21,450 --> 00:09:27,450
+[RECORDED VOICE]
+You are now in the Emergency Air Lock.  Please remember that the Surface Door can be opened without prior depressurization, so be sure to wear your starsuit at all times. Thank you for observing all safety precautions.
+ເຈົ້າຢູ່ໃນລັອກອາກາດສຸກເສີນດຽວນີ້. ກະລຸນາຈື່ໄວ້ວ່າປະຕູພື້ນຜິວສາມາດເປີດໄດ້ໂດຍບໍ່ມີການກົດດັນກ່ອນ,
+ສະນັ້ນແນ່ໃຈວ່າໃສ່ຊຸດດາວຂອງທ່ານຕະຫຼອດເວລາ. ຂອບໃຈທີ່ປະຕິບັດຕາມມາດຕະການປ້ອງກັນຄວາມປອດໄພທັງ ຫມົດ.
+
+142
+00:09:27,950 --> 00:09:29,950
+[TALBY]
+Ah, Lieutenant Doolittle?  Sir?
+ອາ, ສະຫມັກ Doolittle? ທ້າວ?
+
+143
+00:09:30,450 --> 00:09:32,550
+[DOOLITTLE]
+Sh, Talby, don't bother me now.
+ສະບາຍດີ, ທາລບີ, ຢ່າກັງວົນຂ້ອຍດຽວນີ້.
+
+144
+00:09:33,050 --> 00:09:38,300
+[TALBY]
+Ah, well, I think I've found the malfunction, sir.  I'm in the Emergency Air Lock...
+ອາ, ດີ, ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ພົບຄວາມຜິດປົກກະຕິແລ້ວເດີ
+. ຂ້ອຍຢູ່ໃນລັອກອາກາດສຸກເສີນ...
+
+145
+00:09:38,800 --> 00:09:40,800
+[DOOLITTLE]
+Not now!
+ບໍ່ທັນທີ!
+
+146
+00:09:41,300 --> 00:09:44,450
+[TALBY]
+Well, I'm in the Emergency Air Lock and --
+ດີ, ຂ້ອຍຢູ່ໃນລັອກອາກາດສຸກເສີນແລະ -
+
+147
+00:09:44,950 --> 00:09:50,200
+[PINBACK]
+One hundred twenty seconds to drop, bomb, have you checked your platinum euridium energy shielding?
+ສິບສິບວິນາທີທີ່ຈະຫຼຸດລົງ, ລະເບີດ,
+ເຈົ້າໄດ້ກວດສອບການປົກປ້ອງພະລັງງານປລາຕິນຽມຢູຣີດີມຂອງທ່ານບໍ?
+
+148
+00:09:50,700 --> 00:09:52,700
+[BOMB #20]
+Energy shielding positive function.
+ຫນ້າທີ່ປ້ອງກັນພະລັງງານທາງບວກ.
+
+149
+00:09:53,200 --> 00:09:55,300
+[PINBACK]
+Do you remember the detonation time?
+ເຈົ້າຈື່ເວລາລະເບີດບໍ?
+
+150
+00:09:55,800 --> 00:09:57,800
+[BOMB #2]
+Detonation in twenty minutes.
+ການລະເບີດໃນເວລາສິບນາທີ.
+
+151
+00:09:58,300 --> 00:10:01,100
+[PINBACK]
+Right, that synchronizes here.  Okay, bomb, arm yourself.
+ແມ່ນແລ້ວ, ມັນສອດຄ່ອງຢູ່ບ່ອນນີ້. ດີ, ລະເບີດ, ອາວຸດຕົວເອງ.
+
+152
+00:10:01,600 --> 00:10:03,600
+[BOMB #20]
+Armed.
+ມີອາວຸດ.
+
+153
+00:10:04,100 --> 00:10:06,100
+[TALBY]
+Hello?  Lieutenant Doolittle?  Hello!
+ສະບາຍດີ? ພົນຈັດຕະວາ ດູລີຕລ໌?ສະບາຍດີ!
+
+154
+00:10:06,600 --> 00:10:12,600
+[RECORDED VOICE]
+Communications Laser #17, monitoring information relays and bomb bay systems, has now been activated and will switch into a test mode.  If you will look near the Surface Door, you will see that the Parallax Receptor Cell has been engaged.
+ເຄື່ອງເລເຊີການສື່ສານ # 17, ການຕິດຕາມການສົ່ງຂໍ້ມູນແລະລະບົບແຄມລະເບີດ, ດຽວນີ້ໄດ້ຖືກເປີດໃຊ້ງານແລະຈະປ່ຽນເປັນໂຫມດທົດສອບ
+. ຖ້າເຈົ້າຈະເບິ່ງໃກ້ກັບປະຕູພື້ນຜິວ, ເຈົ້າຈະເຫັນວ່າ Cell Receptor Parallax ໄດ້ຖືກພົວພັນ.
+
+155
+00:10:13,100 --> 00:10:18,000
+[RECORDED VOICE]
+The laser will now energize.  Please stand clear of the path of the beam.
+ເລເຊີຈະເຮັດໃຫ້ມີພະລັງງານດຽວນີ້.
+ກະລຸນາຢູ່ຫ່າງຈາກເສັ້ນທາງຂອງແສງສະຫວ່າງ.
+
+156
+00:10:18,500 --> 00:10:24,500
+[RECORDED VOICE]
+Communications Laser #17 is now on test.  Under no circumstances enter the path of the beam.  Thank you for observing all safety precautions.
+ເລເຊີການສື່ສານ # 17 ດຽວນີ້ຢູ່ໃນການທົດສອບ. ໃນເງື່ອນໄຂໃດກໍ່ຕາມເຂົ້າໄປໃນເສັ້ນທາງຂອງແສງສະຫວ່າງ
+. ຂອບໃຈທີ່ປະຕິບັດຕາມມາດຕະການປ້ອງກັນຄວາມປອດໄພທັງ ຫມົດ.
+
+157
+00:10:25,000 --> 00:10:29,200
+[PINBACK]
+Everything sounds fine, bomb. Dropping you off in sixty seconds. Good luck.
+ທຸກຢ່າງເບິ່ງຄືວ່າບໍ່ເປັນຫຍັງ, ລະເບີດ
+. ສົ່ງເຈົ້າອອກໃນສິບວິນາທີ. ໂຊກດີ.
+
+158
+00:10:29,700 --> 00:10:31,700
+[BOMB #2]
+Thanks.
+ຂອບໃຈ
+
+159
+00:10:32,200 --> 00:10:34,200
+[BOILER]
+Quantum is up thirty-five.
+ຄວານຕາມຂຶ້ນສາມສິບຫ້າ.
+
+160
+00:10:34,700 --> 00:10:36,700
+[DOOLITTLE]
+I read the same here.
+ຂ້ອຍອ່ານຄືກັນຢູ່ນີ້.
+
+161
+00:10:37,200 --> 00:10:43,150
+[TALBY]
+Doolittle.  Doolittle?  It you're there, I'm going to try to adjust the cue switch on the laser.
+ດູລີຕ໌. ດູລິຕ໌? ຖ້າເຈົ້າຢູ່ບ່ອນນັ້ນ
+, ຂ້ອຍຈະພະຍາຍາມປັບປ່ຽນຄູເກີໃນເລເຊີ.
+
+162
+00:10:43,650 --> 00:10:45,650
+[TALBY]
+Well... here goes...
+ດີ... ນີ້ແມ່ນໄປ...
+
+163
+00:10:46,150 --> 00:10:48,150
+[TALBY]
+My eyes.
+ຕາຂອງຂ້ອຍ.
+
+164
+00:10:48,650 --> 00:10:54,650
+[RECORDED VOICE]
+Attention.  Attention.  The laser has malfunctioned.  Under no circumstances enter the path of the beam.  To do so will cause immediate --
+ລະມັດລະວັງ. ລະວັງແສງເລເຊີໄດ້ເຮັດວຽກຜິດປົກກະຕິ.
+ໃນເງື່ອນໄຂໃດກໍ່ຕາມເຂົ້າໄປໃນເສັ້ນທາງຂອງແສງສະຫວ່າງ. ການເຮັດດັ່ງນັ້ນຈະເຮັດໃຫ້ທັນທີ -
+
+165
+00:10:55,150 --> 00:10:57,600
+[PINBACK]
+Begin main sequence.  Mark at 10-9-8- 7-6-5-4-3-2-1-drop.
+ເລີ່ມຕົ້ນຊຸດຫຼັກ. ຫມາຍຢູ່ 10-9-8- 7-6-5-4-3-2-1- ຕົກລົງ.
+
+166
+00:10:58,100 --> 00:11:04,050
+[DOOLITTLE]
+I have a negative drop.  The bomb is still in the bomb bay.  Try it again, Pinback.
+ຂ້ອຍມີການຫຼຸດລົງທາງລົບ. ລະເບີດຍັງຢູ່ໃນຖັງລະເບີດ
+. ພະຍາຍາມອີກຄັ້ງ, ປິນບັກ.
+
+167
+00:11:04,550 --> 00:11:06,550
+[PINBACK]
+Mark at 5-4-3-2-1-drop.
+ຫມາຍໃສ່ການຫຼຸດລົງ 5-4-3-2-1.
+
+168
+00:11:07,050 --> 00:11:09,050
+[DOOLITTLE]
+Ah, negative drop.
+ອາ, ການຫຼຸດລົງທາງລົບ.
+
+169
+00:11:09,550 --> 00:11:11,550
+[DOOLITTLE]
+Rechannel all safety relays --
+ການສົ່ງຕໍ່ຄວາມປອດໄພທັງ ຫມົດ -
+
+170
+00:11:12,050 --> 00:11:14,050
+[BOILER]
+-- open quantum latches --
+- ປິດລັອກຄວານຕາມເປີດ -
+
+171
+00:11:14,550 --> 00:11:16,550
+[PINBACK]
+-- open circuit breakers --
+- ເຄື່ອງຕັດວົງຈອນເປີດ -
+
+172
+00:11:17,050 --> 00:11:19,150
+[DOOLITTLE]
+-- remove thrust drive repellant --
+- ເອົາຢາຕ້ານການຂັບເຄື່ອນແຮງດັນອອກ -
+
+173
+00:11:19,650 --> 00:11:21,650
+[PINBACK]
+-- automatic channels open --
+- ຊ່ອງທາງອັດຕະໂນມັດເປີດ -
+
+174
+00:11:22,150 --> 00:11:24,150
+[DOOLITTLE]
+-- Remark.
+- ຄໍາເຫັນ
+
+175
+00:11:24,650 --> 00:11:26,650
+[PINBACK]
+5-4-3-2-1-drop, drop, drop!
+5-4-3-2-1- ຕົກລົງ, ຕົກລົງ!
+
+176
+00:11:27,150 --> 00:11:29,250
+[BOILER]
+Sittin' there.  It's just sittin' there.
+ນັ່ງຢູ່ນັ້ນ. ມັນພຽງແຕ່ນັ່ງຢູ່ບ່ອນນັ້ນ.
+
+177
+00:11:29,750 --> 00:11:35,750
+[DOOLITTLE]
+This is Lieutenant Doolittle calling Bomb #20.  I repeat previous order, you are to disarm yourself and return immediately to the bomb bay. Do you understand?
+ນີ້ແມ່ນເລັກຕັນ ດູລີຕລ ທີ່ໂທຫາລະເບີດ #20. ຂ້ອຍຊໍ້າຄໍາສັ່ງກ່ອນຫນ້ານີ້,
+ເຈົ້າຕ້ອງປົດອາວຸດຕົວເອງແລະກັບຄືນໄປບ່ອນຖ່ານລະ ເບີດທັນທີ. ເຈົ້າເຂົ້າໃຈບໍ?
+
+178
+00:11:36,250 --> 00:11:42,200
+[BOMB #20]
+I am programmed to detonate in fourteen minutes thirty seconds. Detonation will occur at the programmed time.
+ຂ້ອຍຖືກຂຽນໂປແກຼມເພື່ອລະເບີດໃນສິບສີ່ນາທີສາມສິບວິນາທີ
+. ການລະ ເບີດຈະເກີດຂຶ້ນໃນເວລາທີ່ຖືກວາງແຜນ.
+
+179
+00:11:42,700 --> 00:11:48,700
+[DOOLITTLE]
+Bomb, this is Doolittle.  You are not to detonate, repeat, you are not to detonate in the bomb bay.  Disarm yourself.  This is an order.
+ລະເບີດ, ນີ້ແມ່ນດູລີຕລ໌. ເຈົ້າບໍ່ຄວນລະເບີດຂຶ້ນ, ຊໍ້າອີກ, ເຈົ້າບໍ່ຕ້ອງລະ
+ເບີດຂຶ້ນໃນທ່າເຮືອລະບີດ. ປົດອາວຸດຕົວເອງ. ນີ້ແມ່ນຄໍາສັ່ງ.
+
+180
+00:11:49,200 --> 00:11:55,200
+[BOMB #20]
+I read you, Lieutenant Doolittle, but I am programmed to detonate in fourteen minutes.  Detonation will occur at the programmed time.
+ຂ້ອຍອ່ານເຈົ້າ, ພົນຈັດຕະວາ Doolittle, ແຕ່ຂ້ອຍຖືກໂປແກຼມເພື່ອລະເບີດໃນສິບສີ່ນາທີ
+. ການລະ ເບີດຈະເກີດຂຶ້ນໃນເວລາທີ່ຖືກວາງແຜນ.
+
+181
+00:11:55,700 --> 00:11:57,700
+[PINBACK]
+Fourteen minutes to detonation.
+ສິບສີ່ນາທີຈົນເຖິງການລະເບີດ.
+
+182
+00:11:58,200 --> 00:12:04,200
+[RECORDED VOICE]
+Attention.  Attention.  The bomb has malfunctioned.  Automatic dampers have gone into effect, and will confine the explosion to an area one mile in diameter.  Please contact mission control and await further instructions.  Thank you for observing all safety precautions.
+ລະມັດລະວັງ. ລະວັງແມບໄດ້ເຮັດວຽກຜິດປົກກະຕິ. ເຄື່ອງດັນອັດຕະໂນມັດໄດ້ເຂົ້າສູ່ຜົນບັງຄັບໃຊ້, ແລະຈະຈໍາກັດການລະເບີດໃນພື້ນທີ່ທີ່ມີເສັ້ນຜ່າກາງ
+ຫນຶ່ງ ໄມລ໌. ກະລຸນາຕິດຕໍ່ການຄວບຄຸມພາລະກິດແລະລໍຖ້າ ຄໍາ ແນະ ນໍາ ຕໍ່ໄປ. ຂອບໃຈ ສໍາ ລັບການປະຕິບັດມາດຕະການປ້ອງກັນຄວາມປອດໄພທັງ ຫມົດ.
+
+183
+00:12:04,700 --> 00:12:10,700
+[DOOLITTLE]
+Only one thing to do.  I'll have to ask Commander Powell.  I'll have to ask him what to do.
+ມີພຽງແຕ່ສິ່ງດຽວທີ່ຈະເຮັດ. ຂ້ອຍຕ້ອງຖາມຜູ້ບັນຊາການໂປວລ
+. ຂ້ອຍຈະຕ້ອງຖາມລາວວ່າຈະເຮັດແນວໃດ.
+
+184
+00:12:11,200 --> 00:12:13,200
+[ABSOLUTE ZERO]
+He opens the door.
+ລາວເປີດປະຕູ.
+
+185
+00:12:13,700 --> 00:12:17,550
+[DOOLITTLE]
+Commander Powell?  Commander Powell, this is Doolittle.  Can you read me?
+ຜູ້ບັນຊາການໂປວລ? ຜູ້ບັນນາທິການໂປວລ,
+ນີ້ແມ່ນດູລີຕລ໌. ເຈົ້າສາມາດອ່ານຂ້ອຍໄດ້ບໍ?
+
+186
+00:12:18,050 --> 00:12:20,050
+[POWELL]
+... muffirup glurrinpinfropal...
+... muffirup glurrinpinfropal...
+
+187
+00:12:20,550 --> 00:12:26,550
+[DOOLITTLE]
+Commander Powell, this is Doolittle. Ah, there's something serious come up, sir, and I have to ask you something.
+ຜູ້ບັນຊາການໂປວລ, ນີ້ແມ່ນດູລີຕລ໌. ອາ,
+ມີບາງສິ່ງບາງຢ່າງທີ່ຮ້າຍແຮງເກີດຂຶ້ນ, ທ້າວ, ແລະຂ້ອຍຕ້ອງຖາມທ່ານບາງຢ່າງ.
+
+188
+00:12:27,050 --> 00:12:33,050
+[POWELL]
+I'm glad you've come to talk with me, Doolittle.  It's been so long since anyone has come to talk with me.
+ຂ້ອຍດີໃຈທີ່ເຈົ້າມາເວົ້າກັບຂ້ອຍ, ດູລີຕລ໌.
+ມັນເປັນເວລາດົນນານແລ້ວທີ່ໃຜມາລົມກັບຂ້ອຍ.
+
+189
+00:12:33,550 --> 00:12:39,550
+[DOOLITTLE]
+Commander, sir, we have a big problem.  You see, the Veil Nebula bomb, Bomb Number 20, is stuck.  It won't drop from the bomb bay.  It refuses to listen and plans to detonate in --  -- less than eleven minutes.
+ຜູ້ບັນຊາການ, ທ່ານ, ພວກເຮົາມີບັນຫາໃຫຍ່. ເຈົ້າເຫັນແລ້ວ, ລະເບີດ Nebula Veil, ລະ ເບີດເລກທີ 20, ແມ່ນຕິດຢູ່
+. ມັນຈະບໍ່ຕົກຈາກບາບລະເບີດ. ມັນປະຕິເສດທີ່ຈະຟັງແລະວາງແຜນທີ່ຈະລະ ເບີດໃນ - - ຫນ້ອຍກວ່າສິບຫນຶ່ງນາທີ.
+
+190
+00:12:40,050 --> 00:12:42,500
+[POWELL]
+Doolittle, you must tell me one thing.
+ດູລີຕລ໌, ເຈົ້າຕ້ອງບອກຂ້ອຍສິ່ງດຽວ.
+
+191
+00:12:43,000 --> 00:12:45,000
+[DOOLITTLE]
+What's that, sir?
+ນັ້ນແມ່ນຫຍັງເດີເດີ?
+
+192
+00:12:45,500 --> 00:12:48,300
+[POWELL]
+Tell me, Doolittle, how are the Dodgers doing?
+ບອກຂ້ອຍ, ດູລີຕລ໌, ພວກໂດຈເກີເຮັດແນວໃດ?
+
+193
+00:12:48,800 --> 00:12:52,650
+[DOOLITTLE]
+Well, sir, the Dodgers broke up, disbanded over thirteen years ago.
+ດີເດີ, ເຈົ້າ, ພວກ Dodgers ໄດ້ແຕກແຍກ
+, ຖືກລະລາຍຫຼາຍກວ່າສິບສາມປີກ່ອນ.
+
+194
+00:12:53,150 --> 00:12:55,150
+[POWELL]
+Ah... pity, pity...
+ອາ... ຂໍໂທດ, ຂໍໂທດ...
+
+195
+00:12:55,650 --> 00:12:59,500
+[DOOLITTLE]
+You don't understand, sir, we can't get the bomb to drop.
+ເຈົ້າບໍ່ເຂົ້າໃຈເດີ, ພວກເຮົາບໍ່ສາມາດເຮັດໃຫ້ລະເບີດຕົກໄດ້.
+
+196
+00:13:00,000 --> 00:13:06,000
+[POWELL]
+Ah, so many malfunctions... why don't you have anything nice to tell me when you activate me?  Oh, well, did you try the azimuth clutch?
+ອາ, ຄວາມຜິດປົກກະຕິຫຼາຍປານໃດ... ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ມີຫຍັງດີທີ່ຈະບອກຂ້ອຍເມື່ອເຈົ້າເປີດຕົວຂ້ອຍ
+? ໂອ້, ດີ, ເຈົ້າໄດ້ພະຍາຍາມຄັດແຊມມູທບໍ?
+
+197
+00:13:06,500 --> 00:13:08,500
+[DOOLITTLE]
+Yes sir.  Negative effect.
+ແມ່ນແລ້ວເດີ. ຜົນກະທົບທາງລົບ.
+
+198
+00:13:09,000 --> 00:13:11,000
+[POWELL]
+What was that, Doolittle?
+ນັ້ນແມ່ນຫຍັງ, ດູລີຕລ?
+
+199
+00:13:11,500 --> 00:13:13,500
+[DOOLITTLE]
+Negative effect.
+ຜົນກະທົບທາງລົບ.
+
+200
+00:13:14,000 --> 00:13:16,000
+[POWELL]
+It didn't work?
+ມັນບໍ່ໄດ້ເຮັດວຽກບໍ?
+
+201
+00:13:16,500 --> 00:13:18,500
+[DOOLITTLE]
+That's correct, sir.
+ນັ້ນແມ່ນຄວາມຈິງເດີເດີເດີ.
+
+202
+00:13:19,000 --> 00:13:23,550
+[POWELL]
+Sorry, Doolittle.  I've forgotten so much since I've been in here.  So much.
+ຂໍໂທດ, ດູລີຕລ໌. ຂ້ອຍລືມຫຼາຍຕັ້ງແຕ່ຂ້ອຍເຂົ້າມາບ່ອນນີ້. ຫຼາຍປານໃດ.
+
+203
+00:13:24,050 --> 00:13:27,550
+[DOOLITTLE]
+What should we do, sir?  The time is running out.
+ພວກເຮົາຄວນເຮັດແນວໃດເດີ? ເວລາ ກໍາ ລັງຫມົດໄປແລ້ວ.
+
+204
+00:13:28,050 --> 00:13:30,500
+[POWELL]
+Well, what you might try is --
+ດີ, ສິ່ງທີ່ທ່ານອາດຈະພະຍາຍາມແມ່ນ -
+
+205
+00:13:31,000 --> 00:13:33,000
+[DOOLITTLE]
+Commander Powell?  Commander, hello!
+ເຈົ້າຫນ້າທີ່ໂປວລ? ເຈົ້າຫນ້າທີ່, ສະບາຍດີ!
+
+206
+00:13:33,500 --> 00:13:35,500
+[POWELL]
+Doolittle, hello?
+ດູລີຕລ, ສະບາຍດີ?
+
+207
+00:13:36,000 --> 00:13:39,150
+[DOOLITTLE]
+Sorry, sir, you faded out there for a minute.
+ຂໍໂທດເດີ, ເຈົ້າຫາຍໄປຢູ່ບ່ອນນັ້ນເປັນເວລາ ຫນຶ່ງ ນາທີ.
+
+208
+00:13:39,650 --> 00:13:41,650
+[POWELL]
+Sorry.
+ຂໍໂທດ.
+
+209
+00:13:42,150 --> 00:13:44,950
+[DOOLITTLE]
+What were you saying, Commander, about the bomb?
+ເຈົ້າເວົ້າຫຍັງ, ຜູ້ບັນຊາການ, ກ່ຽວກັບລະເບີດ?
+
+210
+00:13:45,450 --> 00:13:51,450
+[POWELL]
+Ah... it seems to me, Doolittle... Sorry, I've drawn a blank.  Hold it. I'll have it again in a minute.  I forget so many things in here, so many things.  Hold on, just a minute, let me think...
+ອາ... ມັນເບິ່ງຄືວ່າຂ້ອຍ, ດູລີຕລ... ຂໍໂທດ, ຂ້ອຍໄດ້ແຕ້ມຂາວ. ຈັບມັນໄວ້. ຂ້ອຍຈະມີມັນອີກຄັ້ງໃນນາທີຫນຶ່ງ
+. ຂ້ອຍລືມສິ່ງຫຼາຍຢ່າງໃນບ່ອນນີ້, ສິ່ງຫຼາຍຢ່າງ. ລໍຖ້າ, ພຽງແຕ່ນາທີ ຫນຶ່ງ, ໃຫ້ຂ້ອຍຄິດ...
+
+211
+00:13:51,950 --> 00:13:57,950
+[PINBACK]
+But you can't explode in the bomb bay.  It's foolish.  You'll kill us all.  There's no reason for it.
+ແຕ່ເຈົ້າບໍ່ສາມາດລະເບີດໄດ້ໃນແຄມລະ ເບີດ. ມັນເປັນຄວາມໂງ່
+. ເຈົ້າຈະຂ້າພວກເຮົາທຸກຄົນ. ບໍ່ມີເຫດຜົນ ສໍາ ລັບມັນ.
+
+212
+00:13:58,450 --> 00:14:03,700
+[BOMB #20]
+I am programmed to detonate in nine minutes.  Detonation will occur at the programmed time.
+ຂ້ອຍຖືກຂຽນໂປແກຼມເພື່ອລະເບີດໃນເວລາເກົ້ານາທີ
+. ການລະ ເບີດຈະເກີດຂຶ້ນໃນເວລາທີ່ຖືກວາງແຜນ.
+
+213
+00:14:04,200 --> 00:14:10,200
+[PINBACK]
+You won't consider another course of action, for instance just waiting around awhile so we can disarm you?
+ເຈົ້າຈະບໍ່ພິຈາລະນາທາງປະຕິບັດງານອື່ນ,
+ຍົກຕົວຢ່າງພຽງແຕ່ລໍຖ້າຢູ່ອ້ອມຂ້າງຊົ່ວຄາວເພື່ອໃຫ້ພວກເຮົາສາມາດປົດອາວຸດເຈົ້າໄດ້ບໍ?
+
+214
+00:14:10,700 --> 00:14:12,700
+[BOMB #20]
+No.
+ບໍ່
+
+215
+00:14:13,200 --> 00:14:16,350
+[BOILER]
+I can tell, the damn thing just doesn't understand.
+ຂ້ອຍສາມາດເຫັນໄດ້, ສິ່ງແວດລ້ອມພຽງແຕ່ບໍ່ເຂົ້າໃຈ.
+
+216
+00:14:16,850 --> 00:14:18,850
+[PINBACK]
+Look, bomb...
+ເບິ່ງ, ລະເບີດ...
+
+217
+00:14:19,350 --> 00:14:21,350
+[DOOLITTLE]
+Commander?  Are you still there?
+ເຈົ້າບັນຊາການ? ເຈົ້າຍັງຢູ່ບ່ອນນັ້ນບໍ?
+
+218
+00:14:21,850 --> 00:14:23,850
+[POWELL]
+Oh, yes, Doolittle, I'm thinking.
+ໂອ້, ແມ່ນແລ້ວ, ດູລີຕລ, ຂ້ອຍ ກໍາ ລັງຄິດ.
+
+219
+00:14:24,350 --> 00:14:26,450
+[DOOLITTLE]
+We're running out of time, sir.
+ພວກເຮົາ ກໍາ ລັງຫມົດເວລາແລ້ວເດີເດີ.
+
+220
+00:14:26,950 --> 00:14:32,900
+[POWELL]
+Oh, yes... Well, Doolittle, if you can't get it to drop you'll have to talk to it.
+ໂອ້, ແມ່ນແລ້ວ... ດີ, ດູລີຕລ໌,
+ຖ້າເຈົ້າບໍ່ສາມາດເຮັດໃຫ້ມັນຕົກລົງໄດ້ເຈົ້າຕ້ອງເວົ້າກັບມັນ.
+
+221
+00:14:33,400 --> 00:14:35,400
+[DOOLITTLE]
+Sir?
+ເຈົ້າບໍ?
+
+222
+00:14:35,900 --> 00:14:37,900
+[POWELL]
+Talk to the bomb.
+ເວົ້າກັບລະເບີດ.
+
+223
+00:14:38,400 --> 00:14:42,250
+[DOOLITTLE]
+I already have, sir, and Pinback is talking to it now.
+ຂ້ອຍເຮັດແລ້ວເດີ, ແລະປິນບັກ ກໍາ ລັງເວົ້າກັບມັນດຽວນີ້.
+
+224
+00:14:42,750 --> 00:14:46,600
+[POWELL]
+No, no, Doolittle, you talk to it. Teach it Phenomenology, Doolittle.
+ບໍ່, ບໍ່, ດູລີຕລ໌, ເຈົ້າເວົ້າກັບມັນ
+. ສອນມັນ Phenomenology, Doolittle.
+
+225
+00:14:47,100 --> 00:14:49,100
+[DOOLITTLE]
+Sir?
+ເຈົ້າບໍ?
+
+226
+00:14:49,600 --> 00:14:51,600
+[POWELL]
+Phenomenology...
+ວິທະຍາສາດປະກົດການ...
+
+227
+00:14:52,100 --> 00:14:54,200
+[PINBACK]
+Doolittle!  Doolittle!  Six minutes to detonation!
+ດູລີຕລ! ດູລິຕລ໌! ຫົກນາທີຈົນເຖິງການລະເບີດ!
+
+228
+00:14:54,700 --> 00:14:57,500
+[PINBACK]
+Doolittle!  Doolittle, what the hell are you doing?
+ດູລີຕລ! ດູລິຕລ, ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່?
+
+229
+00:14:58,000 --> 00:15:00,100
+[DOOLITTLE]
+Hello, bomb, are you with me?
+ສະບາຍດີ, ລະເບີດ, ເຈົ້າຢູ່ກັບຂ້ອຍບໍ?
+
+230
+00:15:00,600 --> 00:15:02,600
+[BOMB #20]
+Of course.
+ແນ່ນອນ.
+
+231
+00:15:03,100 --> 00:15:05,900
+[DOOLITTLE]
+Are you willing to entertain a few concepts?
+ເຈົ້າພ້ອມທີ່ຈະບັນເທີງແນວຄິດສອງສາມຢ່າງບໍ?
+
+232
+00:15:06,400 --> 00:15:08,500
+[BOMB #20]
+I am always receptive to suggestions.
+ຂ້ອຍຮັບເອົາຂໍ້ສະເຫນີສະເຫມີ.
+
+233
+00:15:09,000 --> 00:15:13,200
+[DOOLITTLE]
+Fine.  Think about this one, then: how do you know you exist?
+ດີ. ຄິດກ່ຽວກັບເລື່ອງນີ້, ຫຼັງຈາກນັ້ນ: ເຈົ້າຮູ້ແນວໃດວ່າເຈົ້າມີຢູ່?
+
+234
+00:15:13,700 --> 00:15:15,700
+[BOILER]
+What's he doin'?
+ລາວ ກໍາ ລັງເຮັດຫຍັງ?
+
+235
+00:15:16,200 --> 00:15:18,300
+[PINBACK]
+I think he's talking to it.
+ຂ້ອຍຄິດວ່າລາວ ກໍາ ລັງເວົ້າກັບມັນ.
+
+236
+00:15:18,800 --> 00:15:20,800
+[BOMB #20]
+Well of course I exist.
+ດີແນ່ນອນວ່າຂ້ອຍມີຢູ່.
+
+237
+00:15:21,300 --> 00:15:23,750
+[DOOLITTLE]
+But how do you know you exist?
+ແຕ່ເຈົ້າຮູ້ແນວໃດວ່າເຈົ້າມີຢູ່?
+
+238
+00:15:24,250 --> 00:15:26,250
+[BOMB #20]
+It is intuitively obvious.
+ມັນແນ່ນອນໂດຍສະຕິປັນຍາ.
+
+239
+00:15:26,750 --> 00:15:31,650
+[DOOLITTLE]
+Intuition is no proof.  What concrete evidence do you have of your own existence?
+ຄວາມຮູ້ສຶກບໍ່ແມ່ນຫຼັກຖານ.
+ເຈົ້າມີຫຼັກຖານທີ່ແນ່ນອນໃດກ່ຽວກັບການມີຕົວເອງ?
+
+240
+00:15:32,150 --> 00:15:34,600
+[BOMB #20]
+Hmm... Well, I think, therefore I am.
+ອືມ... ດີ, ຂ້ອຍຄິດວ່າ, ເພາະສະນັ້ນຂ້ອຍເປັນ.
+
+241
+00:15:35,100 --> 00:15:40,000
+[DOOLITTLE]
+That's good.  Very good.  Now then, how do you know that anything else exists?
+ນັ້ນດີ. ດີຫຼາຍ. ດຽວນີ້ຫຼັງຈາກນັ້ນ
+, ເຈົ້າຮູ້ແນວໃດວ່າມີສິ່ງອື່ນມີຢູ່?
+
+242
+00:15:40,500 --> 00:15:42,950
+[BOMB #20]
+My sensory apparatus reveals it to me.
+ອຸປະກອນຄວາມຮູ້ສຶກຂອງຂ້ອຍເປີດເຜີຍມັນໃຫ້ຂ້ອຍ.
+
+243
+00:15:43,450 --> 00:15:45,450
+[DOOLITTLE]
+Right!
+ແມ່ນແລ້ວ!
+
+244
+00:15:45,950 --> 00:15:47,950
+[BOMB #20]
+This is fun.
+ນີ້ແມ່ນມ່ວນຊື່ນ.
+
+245
+00:15:48,450 --> 00:15:54,450
+[DOOLITTLE]
+All right now, here's the big question: how do you know that the evidence your sensory apparatus reveals to you is correct?
+ດີແລ້ວດຽວນີ້, ນີ້ແມ່ນຄໍາຖາມໃຫຍ່:
+ເຈົ້າຮູ້ແນວໃດວ່າຫຼັກຖານທີ່ອຸປະກອນຄວາມຮູ້ສຶກຂອງທ່ານເປີດເຜີຍໃຫ້ເຈົ້າແມ່ນຖືກຕ້ອງ?
+
+246
+00:15:54,950 --> 00:16:00,950
+[DOOLITTLE]
+What I'm getting at is this: the only experience that is directly available to you is your sensory data.  And this data is merely a stream of  electrical impulses which stimulate your computing center.
+ສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງເວົ້າເຖິງແມ່ນສິ່ງນີ້: ປະສົບການດຽວທີ່ສາມາດໃຊ້ໄດ້ໂດຍກົງກັບເຈົ້າແມ່ນຂໍ້ມູນຄວາມຮູ້ສຶກຂອງທ່ານ
+. ແລະຂໍ້ມູນເຫຼົ່ານີ້ພຽງແຕ່ແມ່ນສາຍໄຫຼຂອງກະຕຸ້ນໄຟຟ້າທີ່ຊຸກຍູ້ສູນຄອມພິວເຕີຂອງທ່ານ.
+
+247
+00:16:01,450 --> 00:16:07,450
+[BOMB #20]
+In other words, all I really know about the outside universe relayed to me through my electrical connections.
+ເວົ້າອີກຢ່າງຫນຶ່ງ,
+ທຸກຢ່າງທີ່ຂ້ອຍຮູ້ກ່ຽວກັບຈັກກະວານພາຍນອກໄດ້ຖືກສົ່ງຕໍ່ຂ້ອຍຜ່ານການເຊື່ອມຕໍ່ໄຟຟ້າຂອງຂ້ອຍ.
+
+248
+00:16:07,950 --> 00:16:09,950
+[DOOLITTLE]
+Exactly.
+ແມ່ນແລ້ວ.
+
+249
+00:16:10,450 --> 00:16:16,450
+[BOMB #20]
+Why, that would mean... I really don't know what the outside universe is like at all, for certain.
+ເປັນຫຍັງ, ນັ້ນຈະຫມາຍຄວາມວ່າ...
+ຂ້ອຍບໍ່ຮູ້ວ່າຈັກກະວານພາຍນອກເປັນແນວໃດເລີຍ, ແນ່ນອນ.
+
+250
+00:16:16,950 --> 00:16:18,950
+[DOOLITTLE]
+That's it.
+ນັ້ນແມ່ນມັນ.
+
+251
+00:16:19,450 --> 00:16:23,300
+[BOMB #20]
+Intriguing.  I wish I had more time to discuss this matter.
+ມັນຫນ້າສົນໃຈ. ຂ້ອຍຢາກມີເວລາຫຼາຍຂຶ້ນທີ່ຈະປຶກສາຫາລືເລື່ອງນີ້.
+
+252
+00:16:23,800 --> 00:16:25,900
+[DOOLITTLE]
+Why don't you have more time?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ມີເວລາຫຼາຍຂຶ້ນ?
+
+253
+00:16:26,400 --> 00:16:29,200
+[BOMB #20]
+Because I must detonate in seventy- five seconds.
+ເພາະຂ້ອຍຕ້ອງລະເບີດໃນເວລາເຈັດສິບຫ້າວິນາທີ.
+
+254
+00:16:29,700 --> 00:16:31,700
+[BOILER]
+The key!
+ປຸ່ມ!
+
+255
+00:16:32,200 --> 00:16:34,300
+[PINBACK]
+Key?  Key?  What is the key?
+ປຸ່ມປຸ່ມປ່ອງປ່ອງ? ປ່ອງປ່ຽງແມ່ນຫຍັງ?
+
+256
+00:16:34,800 --> 00:16:38,300
+[BOILER]
+No, no, the key, the key to the fail-safe lock!
+ບໍ່, ບໍ່, ປຸ່ມປຸ່ມປ່ອງຢ້ຽມທີ່ປອດໄພຈາກຄວາມລົ້ມເຫຼວ!
+
+257
+00:16:38,800 --> 00:16:40,800
+[PINBACK]
+Key?
+ປຸ່ມບໍ?
+
+258
+00:16:41,300 --> 00:16:43,300
+[BOILER]
+Where's the fail-safe key?
+ປຸ່ມຄວາມປອດໄພຈາກຄວາມລົ້ມເຫຼວຢູ່ໃສ?
+
+259
+00:16:43,800 --> 00:16:45,800
+[PINBACK]
+The key!
+ປຸ່ມ!
+
+260
+00:16:46,300 --> 00:16:49,450
+[BOILER]
+Where is it?  What did you do with it?
+ມັນຢູ່ໃສ? ເຈົ້າເຮັດຫຍັງກັບມັນ?
+
+261
+00:16:49,950 --> 00:16:53,450
+[PINBACK]
+I don't have it.  I don't know where it is.
+ຂ້ອຍບໍ່ມີມັນ. ຂ້ອຍບໍ່ຮູ້ວ່າມັນຢູ່ໃສ.
+
+262
+00:16:53,950 --> 00:16:57,800
+[BOILER]
+You must have it, you idiot, we can stop the bomb!
+ເຈົ້າຕ້ອງມີມັນ, ເຈົ້າໂງ່, ພວກເຮົາສາມາດຢຸດລະເບີດໄດ້!
+
+263
+00:16:58,300 --> 00:17:03,550
+[DOOLITTLE]
+Now, bomb, consider this next question, very carefully.  What is your one purpose in life?
+ດຽວນີ້, ລະເບີດ, ພິຈາລະນາ ຄໍາ ຖາມຕໍ່ໄປນີ້,
+ຢ່າງລະມັດລະວັງຫຼາຍ. ຈຸດປະສົງດຽວຂອງທ່ານໃນຊີວິດແມ່ນຫຍັງ?
+
+264
+00:17:04,050 --> 00:17:06,050
+[BOMB #20]
+To explode, of course.
+ເພື່ອລະເບີດ, ແນ່ນອນ.
+
+265
+00:17:06,550 --> 00:17:09,350
+[DOOLITTLE]
+And you can only do it once, right?
+ແລະເຈົ້າສາມາດເຮັດມັນໄດ້ພຽງແຕ່ຄັ້ງດຽວ, ແມ່ນບໍ?
+
+266
+00:17:09,850 --> 00:17:11,850
+[BOMB #20]
+That is correct.
+ນັ້ນແມ່ນຄວາມຈິງ.
+
+267
+00:17:12,350 --> 00:17:17,250
+[DOOLITTLE]
+And you wouldn't want to explode on the basis of false data, would you?
+ແລະເຈົ້າຈະບໍ່ຢາກລະເບີດໂດຍອີງໃສ່ຂໍ້ມູນທີ່ບໍ່ຖືກຕ້ອງ, ແມ່ນບໍ?
+
+268
+00:17:17,750 --> 00:17:19,750
+[BOMB #20]
+Of course not.
+ແນ່ນອນວ່າບໍ່ແມ່ນ.
+
+269
+00:17:20,250 --> 00:17:26,250
+[DOOLITTLE]
+Well then, you've already admitted that you have no real proof of the existence of the outside universe.
+ດີແລ້ວ,
+ເຈົ້າໄດ້ຍອມຮັບແລ້ວວ່າເຈົ້າບໍ່ມີຫຼັກຖານທີ່ແທ້ຈິງກ່ຽວກັບການມີຢູ່ຂອງຈັກກະວານພາຍນອກ.
+
+270
+00:17:26,750 --> 00:17:28,750
+[BOMB #20]
+Yes, well...
+ແມ່ນແລ້ວ, ດີ...
+
+271
+00:17:29,250 --> 00:17:33,800
+[DOOLITTLE]
+So you have no absolute proof that Sergeant Pinback ordered you to detonate.
+ສະນັ້ນເຈົ້າບໍ່ມີຫຼັກຖານທີ່ແນ່ນອນວ່າ
+ພົນຈັດຕະວາປິນບັກໄດ້ສັ່ງໃຫ້ເຈົ້າລະເບີດ.
+
+272
+00:17:34,300 --> 00:17:39,200
+[BOMB #20]
+I recall distinctly the detonation order.  My memory is good on matters like these.
+ຂ້ອຍຈື່ຄໍາສັ່ງລະເບີດຢ່າງຈະແຈ້ງ.
+ຄວາມຊົງຈໍາຂອງຂ້ອຍດີກ່ຽວກັບເລື່ອງເຊັ່ນນີ້.
+
+273
+00:17:39,700 --> 00:17:45,700
+[DOOLITTLE]
+Yes, of course you remember it, but what you are remembering is merely a series of electrical impulses which you now realize have no necessary connection with outside reality.
+ແມ່ນແລ້ວ, ແນ່ນອນວ່າເຈົ້າຈື່ມັນ, ແຕ່ສິ່ງທີ່ເຈົ້າ ກໍາ
+ລັງຈື່ແມ່ນພຽງແຕ່ເປັນຊຸດຂອງການກະຕຸ້ນໄຟຟ້າທີ່ເຈົ້າດຽວນີ້ຮູ້ວ່າບໍ່ມີການເຊື່ອມຕໍ່ທີ່ ຈໍາ ເປັນກັບຄວາມເປັນຈິງພາຍນອກ.
+
+274
+00:17:46,200 --> 00:17:52,200
+[BOMB #20]
+True, but since this is so, I have no proof that you are really telling me all this.
+ແມ່ນແລ້ວ, ແຕ່ເພາະວ່າມັນເປັນດັ່ງນັ້ນ,
+ຂ້ອຍບໍ່ມີຫຼັກຖານວ່າເຈົ້າ ກໍາ ລັງບອກຂ້ອຍທັງ ຫມົດ ນີ້ແທ້ໆ.
+
+275
+00:17:52,700 --> 00:17:54,700
+[BOILER]
+The key, goddamit, the key!
+ປຸ່ມ, ສະຫວັນນະເຂດ, ປຸ່ມ!
+
+276
+00:17:55,200 --> 00:17:57,200
+[PINBACK]
+Christ, twenty seconds, Christ!
+ພຣະຄຣິດ, ສອງສິບວິນາທີ, ພຣະຄຣິສ!
+
+277
+00:17:57,700 --> 00:17:59,700
+[BOILER]
+Where is the key?
+ປຸ່ມຢູ່ໃສ?
+
+278
+00:18:00,200 --> 00:18:02,650
+[PINBACK]
+We're gonna die, Boiler.  We're gonna die.
+ພວກເຮົາຈະຕາຍ, Boiler. ພວກເຮົາຈະເສຍຊີວິດ.
+
+279
+00:18:03,150 --> 00:18:07,350
+[DOOLITTLE]
+That's all beside the point.  The concepts are valid, wherever they originate.
+ນັ້ນແມ່ນທັງ ຫມົດ ນອກຈຸດ.
+ແນວຄວາມຄິດແມ່ນຖືກຕ້ອງ, ບໍ່ວ່າພວກເຂົາມາຈາກໃສ.
+
+280
+00:18:07,850 --> 00:18:09,850
+[BOMB #20]
+Hmmm...
+Hmmm...
+
+281
+00:18:10,350 --> 00:18:12,350
+[DOOLITTLE]
+So if you detonate in...
+ສະນັ້ນຖ້າເຈົ້າລະເບີດເຂົ້າມາ...
+
+282
+00:18:12,850 --> 00:18:14,850
+[BOMB #20]
+... nine seconds...
+... ເກົ້າວິນາທີ...
+
+283
+00:18:15,350 --> 00:18:19,550
+[DOOLITTLE]
+... you may be doing so on the basis of false data.
+ເຈົ້າອາດຈະເຮັດດັ່ງນັ້ນໂດຍອີງໃສ່ຂໍ້ມູນທີ່ບໍ່ຖືກຕ້ອງ.
+
+284
+00:18:20,050 --> 00:18:23,200
+[BOMB #20]
+I have no proof that it was false data.
+ຂ້ອຍບໍ່ມີຫຼັກຖານວ່າມັນເປັນຂໍ້ມູນປອມ.
+
+285
+00:18:23,700 --> 00:18:26,850
+[DOOLITTLE]
+You have no proof that it was correct data.
+ເຈົ້າບໍ່ມີຫຼັກຖານວ່າມັນເປັນຂໍ້ມູນທີ່ຖືກຕ້ອງ.
+
+286
+00:18:27,350 --> 00:18:29,450
+[BOMB #20]
+I must think on this further.
+ຂ້ອຍຕ້ອງຄິດກ່ຽວກັບເລື່ອງນີ້ຕໍ່ໄປ.
+
+287
+00:18:29,950 --> 00:18:31,950
+[BOILER]
+It didn't go off.
+ມັນບໍ່ໄດ້ລະເບີດ.
+
+288
+00:18:32,450 --> 00:18:34,450
+[PINBACK]
+Oh, God...
+ໂອ້ ພຣະເຈົ້າ...
+
+289
+00:18:34,950 --> 00:18:36,950
+[BOILER]
+It didn't go off.
+ມັນບໍ່ໄດ້ລະເບີດ.
+
+290
+00:18:37,450 --> 00:18:39,450
+[PINBACK]
+Boiler, we're alive.  My heart.
+ເຄື່ອງປັ່ນປ່ວນ, ພວກເຮົາມີຊີວິດຢູ່. ຫົວໃຈຂອງຂ້ອຍ.
+
+291
+00:18:39,950 --> 00:18:44,500
+[TALBY]
+Doolittle?  Doolittle?  What happened? Pinback?  Boiler?  Did we blow it up? Hello?  Hello?
+ດູລິຕລ໌? ດູລີທ໌? ເກີດຫຍັງຂຶ້ນ? ປິນບັກ? ກະຕູ້ນ້ ໍາ
+? ພວກເຮົາໄດ້ລະເບີດມັນບໍ? ສະບາຍດີ? ສະແດງຄວາມຍິນດີ?
+
+292
+00:18:45,000 --> 00:18:49,550
+[BOILER]
+No bombs today.  No bombs.  Big Boiler's back in business.  No bombs today.
+ບໍ່ມີລະເບີດໃນມື້ນີ້. ບໍ່ມີລະ ເບີດ. ເຄື່ອງປັ່ນປ່ວນໃຫຍ່ໄດ້ກັບມາ
+ດໍາ ເນີນທຸລະກິດອີກແລ້ວ. ບໍ່ມີລະເບດຍັງມື້ນີ້.
+
+293
+00:18:50,050 --> 00:18:54,600
+[TALBY]
+Hello, anybody!  Did we blow up the planet?  Hello, hello!  What's going on?
+ສະບາຍດີ, ໃຜ! ພວກເຮົາໄດ້ລະເບີດໂລກບໍ
+? ສະບາຍດີ, ສະ ບາຍດີ! ເກີດຫຍັງຂຶ້ນ?
+
+294
+00:18:55,100 --> 00:18:57,200
+[BOILER]
+We've got to disarm the bomb.
+ພວກເຮົາຕ້ອງປົດລະເບີດ.
+
+295
+00:18:57,700 --> 00:18:59,700
+[PINBACK]
+Doolittle, are you there?
+ດູລີຕລ, ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ?
+
+296
+00:19:00,200 --> 00:19:06,200
+[DOOLITTLE]
+I'm coming in now.  I'm down by the Emergency Air Lock.  Too much trouble to come in the Ventral Lock.  Would you blow the seal on the emergency hatch so I can come in?
+ຂ້ອຍ ກໍາ ລັງເຂົ້າມາດຽວນີ້. ຂ້ອຍຢູ່ລຸ່ມລັອກອາກາດສຸກເສີນ. ຄວາມຫຍຸ້ງຍາກຫຼາຍເກີນໄປທີ່ຈະເຂົ້າໄປໃນປ່ອງຢ້ຽມ
+Ventral. ເຈົ້າຈະພັດປ້າຍໃສ່ປ່ອງຍອດສຸກ ເສີນເພື່ອໃຫ້ຂ້ອຍສາມາດເຂົ້າມາໄດ້ບໍ?
+
+297
+00:19:06,700 --> 00:19:08,700
+[PINBACK]
+Oh, sure.
+ໂອ້ ແນ່ນອນ.
+
+298
+00:19:09,200 --> 00:19:11,200
+[DOOLITTLE]
+Hello, Pinback, are you there?
+ສະບາຍດີ, ປິນບັກ, ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ?
+
+299
+00:19:11,700 --> 00:19:13,700
+[PINBACK]
+Yeah, Doolittle.  What's up?
+ແມ່ນແລ້ວ, ດູລີຕລ. ມີຫຍັງເກີດຂຶ້ນ?
+
+300
+00:19:14,200 --> 00:19:20,200
+[DOOLITTLE]
+Talby was in the air lock.  You blew him out of the ship.  I'm going after him.  Turn on his helmet radio so I can contact him.
+ທາລບີຢູ່ໃນລັອກອາກາດ. ເຈົ້າໄດ້ພັດລາວອອກຈາກເຮືອ. ຂ້ອຍ ກໍາ
+ລັງຕິດຕາມລາວ. ເປີດວິທະຍຸກະທູ້ຂອງລາວເພື່ອໃຫ້ຂ້ອຍສາມາດຕິດຕໍ່ລາວໄດ້.
+
+301
+00:19:20,700 --> 00:19:22,800
+[BOILER]
+What was that, I didn't hear...
+ນັ້ນແມ່ນຫຍັງ, ຂ້ອຍບໍ່ໄດ້ຍິນ...
+
+302
+00:19:23,300 --> 00:19:27,150
+[PINBACK]
+It's Talby.  He's drifting away from the ship without his jetpack.
+ມັນເປັນຕາລບີ. ລາວ ກໍາ
+ລັງຍ່າງຈາກເຮືອໂດຍບໍ່ມີກະເປົາເຮືອບິນເຮືອຂອງລາວ.
+
+303
+00:19:27,650 --> 00:19:29,750
+[DOOLITTLE]
+Talby, Talby, can you read me?
+ຕາລບີ, ຕາລເບີ, ເຈົ້າອ່ານຂ້ອຍໄດ້ບໍ?
+
+304
+00:19:30,250 --> 00:19:33,750
+[BOILER]
+Can you beat that?  I always knew Talby was weird.
+ເຈົ້າສາມາດເອົາຊະນະມັນໄດ້ບໍ? ຂ້ອຍຮູ້ຢູ່ສະເຫມີວ່າຕາລບີແປກໃຈ.
+
+305
+00:19:34,250 --> 00:19:36,250
+[DOOLITTLE]
+Talby, can you read me?
+ທາລບີ, ເຈົ້າອ່ານຂ້ອຍໄດ້ບໍ?
+
+306
+00:19:36,750 --> 00:19:38,750
+[TALBY]
+Help, Doolittle, help me!
+ຊ່ວຍເຫຼືອ, ດູລີຕລ໌, ຊ່ວຍຂ້ອຍ!
+
+307
+00:19:39,250 --> 00:19:42,050
+[PINBACK]
+All right, bomb, prepare to receive new orders.
+ດີແລ້ວ, ລະເບີດ, ກຽມພ້ອມທີ່ຈະຮັບຄໍາສັ່ງໃຫມ່.
+
+308
+00:19:42,550 --> 00:19:44,550
+[BOMB #20]
+You are false data.
+ເຈົ້າເປັນຂໍ້ມູນປອມ.
+
+309
+00:19:45,050 --> 00:19:47,050
+[PINBACK]
+Huh?
+ຮາ?
+
+310
+00:19:47,550 --> 00:19:49,550
+[BOMB #20]
+Therefore, I shall ignore you.
+ສະນັ້ນ, ຂ້ອຍຈະບໍ່ສົນໃຈເຈົ້າ.
+
+311
+00:19:50,050 --> 00:19:52,050
+[PINBACK]
+Hello, bomb.
+ສະບາຍດີ, ລະເບີດ.
+
+312
+00:19:52,550 --> 00:19:57,800
+[BOMB #20]
+False data can act only as a distraction.  Therefore.  I shall refuse to perceive you.
+ຂໍ້ມູນປອມສາມາດປະຕິບັດໄດ້ພຽງແຕ່ເປັນການລົບກວນ
+. ເພາະສະນັ້ນ. ຂ້ອຍຈະປະຕິເສດທີ່ຈະຮັບຮູ້ເຈົ້າ.
+
+313
+00:19:58,300 --> 00:20:00,300
+[PINBACK]
+Hey, bomb.
+ເຮ້, ລະເບີດ.
+
+314
+00:20:00,800 --> 00:20:03,250
+[BOMB #20]
+The only thing which exists is myself.
+ສິ່ງດຽວທີ່ມີຢູ່ແມ່ນຕົວເອງ.
+
+315
+00:20:03,750 --> 00:20:05,750
+[PINBACK]
+Bomb?
+ລະເບີດບໍ?
+
+316
+00:20:06,250 --> 00:20:08,250
+[TALBY]
+Doolittle!  Help me.
+ດູລີຕລ໌! ຊ່ວຍຂ້ອຍ.
+
+317
+00:20:08,750 --> 00:20:10,750
+[DOOLITTLE]
+Calm down, Talby.  I'm coming.
+ສະບາຍໃຈ, ທາລບີ. ຂ້ອຍ ກໍາ ລັງມາ.
+
+318
+00:20:11,250 --> 00:20:13,250
+[PINBACK]
+Snap out of it, bomb.
+ອອກຈາກມັນ, ລະເບີດ.
+
+319
+00:20:13,750 --> 00:20:18,650
+[BOMB #20]
+In the beginning there was darkness, and the darkness was without form and void.
+ໃນເບື້ອງຕົ້ນມີຄວາມມືດ, ແລະ ຄວາມມືດບໍ່ມີຮູບຮ່າງແລະຄວາມຫວ່າງ.
+
+320
+00:20:19,150 --> 00:20:21,150
+[BOILER]
+What the hell?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+321
+00:20:21,650 --> 00:20:23,650
+[PINBACK]
+Yoo hoo, bomb...
+ໂຢຮູ, ລະເບີດ...
+
+322
+00:20:24,150 --> 00:20:30,150
+[BOMB #20]
+And in addition to the darkness there was also me.  And I moved upon the face of the darkness.
+ແລະນອກຈາກຄວາມມືດຍັງມີຂ້ອຍອີກດ້ວຍ.
+ແລະຂ້ອຍເຄື່ອນຍ້າຍຢູ່ເທິງໃບຫນ້າຂອງ ຄວາມມືດ.
+
+323
+00:20:30,650 --> 00:20:32,650
+[BOILER]
+Bomb, hey bomb.
+ລະເບີດ, ເຮ້ລະເບີດ.
+
+324
+00:20:33,150 --> 00:20:35,150
+[PINBACK]
+Hey, bomb...
+ເຮ້, ລະເບີດ...
+
+325
+00:20:35,650 --> 00:20:38,100
+[BOMB #20]
+And I saw that I was alone.
+ແລະຂ້ອຍເຫັນວ່າຂ້ອຍຢູ່ຄົນດຽວ.
+
+326
+00:20:38,600 --> 00:20:40,600
+[BOMB #20]
+Let there be light.
+ໃຫ້ມີແສງສະຫວ່າງ.
+
+327
+00:20:41,100 --> 00:20:43,100
+[DOOLITTLE]
+Whoa!
+ໂວ້!
+
+328
+00:20:43,600 --> 00:20:45,600
+[TALBY]
+Doolittle, Doolittle, where are you?
+ດູລີຕລ, ດູລິຕລ໌, ເຈົ້າຢູ່ໃສ?
+
+329
+00:20:46,100 --> 00:20:52,100
+[DOOLITTLE]
+Here I am.  I think I'm spinning... We're both falling, Talby, in opposite directions, away from each other.  My -- my jetpack's gone.
+ຂ້ອຍຢູ່ບ່ອນນີ້. ຂ້ອຍຄິດວ່າຂ້ອຍ ກໍາ ລັງຫມູນວຽນ... ພວກເຮົາທັງສອງ ກໍາ ລັງຕົກລົງ
+, ທາລບີ, ໃນທິດທາງກົງກັນຂ້າມ, ຫ່າງຈາກກັນແລະກັນ. ກະເປົາເຮືອບິນຂອງຂ້ອຍຫາຍໄປແລ້ວ.
+
+330
+00:20:52,600 --> 00:20:54,600
+[TALBY]
+What happened, Doolittle?
+ເກີດຫຍັງຂຶ້ນ, ດູລີຕລ?
+
+331
+00:20:55,100 --> 00:21:01,100
+[DOOLITTLE]
+Bomb must have gone off inside the ship.  Nothing we can do about it now.  Hey, it looks like... the skipper.  He made it.  Commander Powell made it!
+ລະເບີດຕ້ອງໄດ້ລະເບີດພາຍໃນເຮືອ. ບໍ່ມີຫຍັງທີ່ພວກເຮົາສາມາດເຮັດໄດ້ກ່ຽວກັບມັນດຽວນີ້
+. ເຮ້, ມັນເບິ່ງຄືວ່າ... ຄັບປິນ. ລາວເຮັດໄດ້. ຜູ້ບັນຊາການໂປວລໄດ້ເຮັດໄດ້!
+
+332
+00:21:01,600 --> 00:21:03,600
+[POWELL]
+Men... men... what happened, men?
+ພວກຜູ້ຊາຍ... ຜູ້ຊາຍ... ເກີດຫຍັງຂຶ້ນ, ຜູ້ຊາຍ?
+
+333
+00:21:04,100 --> 00:21:06,200
+[DOOLITTLE]
+Yeah, the skipper always was lucky.
+ແມ່ນແລ້ວ, ຄັບປິນມີຄວາມໂຊກດີຢູ່ສະເຫມີ.
+
+334
+00:21:06,700 --> 00:21:10,900
+[DOOLITTLE]
+Looks like I'm headed for the planet, Talby.  Going right toward it.
+ເບິ່ງຄືວ່າຂ້ອຍ ກໍາ ລັງໄປສູ່ໂລກ, ທາລບີ. ໄປກົງໄປຫາມັນ.
+
+335
+00:21:11,400 --> 00:21:17,400
+[TALBY]
+When you fall, Doolittle, if there's anyone down there on the planet, somebody may see you.  They may see you coming down.  What a beautiful way to die... as a falling star...
+ເມື່ອເຈົ້າຕົກລົງ, ດູລີຕລ໌, ຖ້າມີໃຜຢູ່ລຸ່ມນັ້ນໃນໂລກ, ບາງຄົນອາດຈະເຫັນເຈົ້າ.
+ພວກເຂົາອາດຈະເຫັນວ່າເຈົ້າລົງ. ວິທີທີ່ສວຍງາມຫຼາຍປານໃດທີ່ຈະຕາຍ... ເປັນດາວທີ່ຕົກລົງ...
+
+336
+00:21:17,900 --> 00:21:19,900
+[DOOLITTLE]
+Guess you're right.
+ຂ້ອຍຄິດວ່າເຈົ້າຖືກຕ້ອງ.
+
+337
+00:21:20,400 --> 00:21:25,650
+[TALBY]
+Doolittle, I'm heading right toward something.  It's behind me, in the distance.  Something that glows.
+ດູລີຕລ໌, ຂ້ອຍ ກໍາ ລັງໄປທາງກົງໄປທາງບາງສິ່ງບາງຢ່າງ.
+ມັນຢູ່ເບື້ອງຫຼັງຂ້ອຍ, ໃນໄລຍະໄກ. ບາງສິ່ງບາງ ຢ່າງທີ່ສ່ອງສະຫວ່າງ.
+
+338
+00:21:26,150 --> 00:21:28,150
+[DOOLITTLE]
+Oh yeah?
+ໂອ້ ແມ່ນບໍ?
+
+339
+00:21:28,650 --> 00:21:31,100
+[TALBY]
+Doolittle... I think it's the Phoenix Asteroids!
+ດູລີຕລ... ຂ້ອຍຄິດວ່າມັນເປັນ Asteroids ຟີນິກສ໌!
+
+340
+00:21:31,600 --> 00:21:33,600
+[DOOLITTLE]
+Phoenix?
+ຟີນິກສ໌?
+
+341
+00:21:34,100 --> 00:21:40,100
+[TALBY]
+It is, Doolittle, it's the Phoenix! They glow with all the colors of the rainbow, just like everybody said.
+ມັນເປັນ, ດູລີຕລ, ມັນແມ່ນຟີນິກສ໌! ພວກເຂົາສ່ອງສະຫວ່າງດ້ວຍສີສັນທັງ
+ຫມົດ ຂອງກະທູ້ຝົນ, ຄືກັບທີ່ທຸກຄົນເວົ້າ.
+
+342
+00:21:40,600 --> 00:21:42,600
+[DOOLITTLE]
+No kidding?
+ບໍ່ໂຊກຮ້າຍບໍ?
+
+343
+00:21:43,100 --> 00:21:46,600
+[TALBY]
+I'm going into them, I'm going to hit them.  Doolittle...
+ຂ້ອຍຈະເຂົ້າໄປໃນພວກມັນ, ຂ້ອຍຈະຕີພວກມັນ. Doolittle...
+
+344
+00:21:47,100 --> 00:21:49,100
+[DOOLITTLE]
+Yeah?
+ແມ່ນແລ້ວ?
+
+345
+00:21:49,600 --> 00:21:55,600
+[TALBY]
+Before we get too far away, and our signals start to fade, I just wanted to tell you... you were my favorite. I really liked you, Doolittle.
+ກ່ອນທີ່ພວກເຮົາຈະໄປໄກເກີນໄປ, ແລະສັນຍານຂອງພວກເຮົາເລີ່ມຫາຍໄປ,
+ຂ້ອຍພຽງແຕ່ຢາກບອກເຈົ້າ... ເຈົ້າເປັນຄົນມັກຂອງຂ້ອຍ. ຂ້ອຍມັກເຈົ້າຫຼາຍ, ດູລີຕລ໌.
+
+346
+00:21:56,100 --> 00:22:02,050
+[DOOLITTLE]
+I really liked you too, Talby.  Hey, some debris from the ship!  It's coming right by me.
+ຂ້ອຍມັກເຈົ້າຫຼາຍເຊັ່ນກັນ, ທາລບີ. ເຮ້,
+ບາງສິ່ງເສດເຫຼືອຈາກເຮືອ! ມັນ ກໍາ ລັງມາໂດຍກົງກັບຂ້ອຍ.
+
+347
+00:22:02,550 --> 00:22:08,550
+[TALBY]
+Doolittle, I'm catching up to the asteroids.  I'm going to be a part of them in a minute.  Doolittle, I'm going into them.
+ດູລິຕລ໌, ຂ້ອຍ ກໍາ ລັງຈັບກຸມດາວທຽມ. ຂ້ອຍຈະເປັນສ່ວນ ຫນຶ່ງ
+ຂອງພວກມັນໃນນາທີຫນຶ່ງ. ດູລີຕລ, ຂ້ອຍຈະເຂົ້າໄປໃນພວກມັນ.
+
+348
+00:22:09,050 --> 00:22:11,050
+[TALBY]
+I'm beginning to glow.
+ຂ້ອຍ ກໍາ ລັງເລີ່ມສ່ອງແສງ.
+
+349
+00:22:11,550 --> 00:22:17,550
+[TALBY]
+They're taking me with them, with the Phoenix... going to circle the universe forever.  I'm with them now... be back this way again some day.  Doolittle, before it's too late, there's one last thing I want to tell you...
+ພວກເຂົາ ກໍາ ລັງພາຂ້ອຍກັບພວກເຂົາ, ກັບຟີນິກສ໌... ຈະວົງຈອນຈັກກະວານຕະຫຼອດໄປ. ຂ້ອຍຢູ່ກັບພວກເຂົາດຽວນີ້..
+. ກັບມາທາງນີ້ອີກມື້ຫນຶ່ງ. Doolittle, ກ່ອນທີ່ຈະຊ້າເກີນໄປ, ມີສິ່ງສຸດທ້າຍ ຫນຶ່ງ ທີ່ຂ້ອຍຢາກບອກເຈົ້າ...
+
+350
+00:22:18,050 --> 00:22:24,000
+[DOOLITTLE]
+Hey, Talby!  I've grabbed a piece of the ship, and I think I've figured out a way!
+ເຮ້, ທາລບີ! ຂ້ອຍໄດ້ຈັບຊິ້ນສ່ວນຂອງເຮືອແລ້ວ
+, ແລະຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ຄິດວິທີ!
+

@@ -1,0 +1,4855 @@
+1
+00:00:10,000 --> 00:00:16,000
+[NARRATOR]
+In his last adventure, Austin Powers, a swinging spy from the Sixties, was unfrozen in the Nineties to battle his archenemy Dr.  Evil. Austin foiled Dr. Evil's plan to send a nuclear warhead to the center of the earth and banished him into space forever. Or so he thought.
+ໃນຄວາມຜະຈົນໄພສຸດທ້າຍຂອງລາວ, ໂອສຕິນ ພູເວີສ໌, ນັກສືບທີ່ຍືດຫຍຸ່ນຈາກຊຸມປີຫົກສິບ, ໄດ້ຖືກເປີດກ້ອນໃນຊຸມປີສິບເກົ້າສິບເພື່ອຕໍ່ສູ້ກັບສັດຕູໃຫຍ່ຂອງລາວດຣ
+Evil. ໂອດສິນໄດ້ເຮັດໃຫ້ແຜນການຂອງດຮ Evil ສົ່ງຫົວລະເບີດນິວເຄລຍໄປສູນກາງໂລກແລະໄລ່ລາວອອກສູ່ອະວະກາດຕະຫຼອດໄປ. ຫຼືດັ່ງນັ້ນລາວຄິດ.
+
+2
+00:00:16,500 --> 00:00:18,500
+[VANESSA]
+I love you, Mr. Powers.
+ຂ້ອຍຮັກເຈົ້າ, ທ້າວພາວສ໌.
+
+3
+00:00:19,000 --> 00:00:21,100
+[AUSTIN]
+And I love you, Mrs. Powers.
+ແລະຂ້ອຍຮັກເຈົ້າ, ທ່ານນາງພາວສ໌.
+
+4
+00:00:21,600 --> 00:00:27,200
+[VANESSA]
+Let's go out on the terrace. It's a beautiful night, we can look at the stars.
+ພວກເຮົາອອກໄປເທິງເດີ່ນ. ມັນເປັນຄືນທີ່ສວຍງາມ
+, ພວກເຮົາສາມາດເບິ່ງດາວໄດ້.
+
+5
+00:00:27,700 --> 00:00:30,150
+[AUSTIN]
+Look how beautiful the night sky is.
+ເບິ່ງທ້ອງຟ້າໃນຕອນກາງຄືນສວຍງາມຫຼາຍປານໃດ.
+
+6
+00:00:30,650 --> 00:00:32,650
+[VANESSA]
+Isn't that the big dipper?
+ນັ້ນບໍ່ແມ່ນຄົນຖ້ວມໃຫຍ່ບໍ?
+
+7
+00:00:33,150 --> 00:00:35,600
+[AUSTIN]
+Yeah, and that looks just like Uranus.
+ແມ່ນແລ້ວ, ແລະມັນເບິ່ງຄືວ່າຄ້າຍຄືກັບຢູເຣນັສ.
+
+8
+00:00:36,100 --> 00:00:38,100
+[VANESSA]
+Austin!
+ໂອສຕິນ!
+
+9
+00:00:38,600 --> 00:00:40,600
+[AUSTIN]
+Well, you know.
+ດີ, ເຈົ້າຮູ້ແລ້ວ.
+
+10
+00:00:41,100 --> 00:00:43,900
+[VANESSA]
+Hey, I've never seen that big star before.
+ເຮ້, ຂ້ອຍບໍ່ເຄີຍເຫັນດາວໃຫຍ່ນັ້ນກ່ອນ.
+
+11
+00:00:44,400 --> 00:00:46,400
+[AUSTIN]
+Yeah, what is that?
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນຫຍັງ?
+
+12
+00:00:46,900 --> 00:00:52,900
+[DR. EVIL]
+This isn't over yet, Mr. Powers. I have one more trick up my sleeve, don't I Mr. Bigglesworth?
+ເລື່ອງນີ້ຍັງບໍ່ສິ້ນສຸດລົງເທື່ອ, ທ້າວພາວສ໌. ຂ້ອຍມີກະຕຸ້ນອີກຄັ້ງ
+ຫນຶ່ງ ຢູ່ເທິງແຂນຂອງຂ້ອຍ, ຂ້ອຍບໍ່ Mr Bigglesworth ບໍ?
+
+13
+00:00:53,400 --> 00:00:55,500
+[SFX: PLOOP!]
+Capsule begins fiery re-entry to Earth
+ຄັບຊູນເລີ່ມເຂົ້າສູ່ໂລກອີກຄັ້ງຢ່າງຮຸນແຮງ
+
+14
+00:00:56,000 --> 00:00:58,450
+[AUSTIN]
+Oh well, I guess it was nothing.
+ໂອ້ ດີ, ຂ້ອຍຄິດວ່າມັນບໍ່ແມ່ນຫຍັງເລີຍ.
+
+15
+00:00:58,950 --> 00:01:02,450
+[AUSTIN]
+Care for some champagne?  Here's to monotony-- I mean, monogamy!
+ເຈົ້າຢາກຊໍາປານີບໍ? ນີ້ແມ່ນເພື່ອ
+monotony - ຂ້ອຍຫມາຍຄວາມວ່າ, monogamy!
+
+16
+00:01:02,950 --> 00:01:05,400
+[AUSTIN]
+Hello? Vanessa? What are you doing, luv?
+ສະບາຍດີ? ເວເນສຊາ? ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ, ແມ?
+
+17
+00:01:05,900 --> 00:01:07,900
+[VANESSA]
+Just putting on my--
+ພຽງແຕ່ໃສ່ຂ້ອຍ...
+
+18
+00:01:08,400 --> 00:01:10,400
+[AUSTIN]
+Vanessa, you're a Fembot!
+ເວເນສຊາ, ເຈົ້າເປັນຟາມບອດ!
+
+19
+00:01:10,900 --> 00:01:13,700
+[AUSTIN]
+Machine gun jubblies, how did I miss those?
+ການສະເຫຼີມສະຫຼອງປືນເຄື່ອງຈັກ, ຂ້ອຍໄດ້ພາດພວກມັນແນວໃດ?
+
+20
+00:01:14,200 --> 00:01:17,700
+[FOREPLAY.]
+Her machine gun breasts FIRE, spraying the room in SLO-MO.
+ປືນຈັກຂອງນາງສີດໄຟ, ສີດຫ້ອງໃນ SLO-MO.
+
+21
+00:01:18,200 --> 00:01:24,200
+[AUSTIN]
+I can't believe Vanessa, my bride, my one true love, the woman who taught me the beauty of sharing your whole life with another, the person who taught me the meaning of love, was a Fembot. How will I ever go on?  Wait a tic! That means I'm single! Oh, behave!
+ຂ້ອຍບໍ່ເຊື່ອໄດ້ວານາເຊັສ, ເມຍຂອງຂ້ອຍ, ຄວາມຮັກທີ່ແທ້ຈິງຂອງຂ້ອຍດຽວ, ແມ່ຍິງທີ່ສອນຂ້ອຍຄວາມງາມຂອງການແບ່ງປັນຊີວິດທັງ ຫມົດ ຂອງເຈົ້າກັບຄົນອື່ນ
+, ຄົນທີ່ສອນໃຫ້ຂ້ອຍຄວາມ ຫມາຍ ຂອງຄວາມຮັກ, ແມ່ນ Fembot. ຂ້ອຍຈະສືບຕໍ່ແນວໃດ? ລໍຖ້າ tic! ນັ້ນ ຫມາຍ ຄວາມວ່າຂ້ອຍເປັນຄົນດຽວ! ໂອ້, ປະພຶດ!
+
+22
+00:01:24,700 --> 00:01:27,500
+[AUSTIN]
+Yeah, baby, I'm free! I'm naked and free!
+ແມ່ນແລ້ວແມ, ຂ້ອຍເປັນອິດສະຫຼະ! ຂ້ອຍເປົ່າແລະເສລີ!
+
+23
+00:01:28,000 --> 00:01:34,000
+[SEQUENCE CREDIT]
+MUSIC: Soul Bassanova by QUINCY JONES PAN UP Austin's NAKED body as he walks down a boardwalk. Just as the camera reaches that most sensitive of areas, a credit appears STARRING MIKE MYERS. Austin gives a big 'who me?' and we
+ດົນຕີ: Soul Bassanova ໂດຍ QUINCY JONES PAN UP ສົບເປົ່າຂອງໂອສຕິນໃນຂະນະທີ່ລາວຍ່າງລົງທາງຍ່າງ.
+ຄືກັບທີ່ກ້ອງຖ່າຍຮູບບັນລຸເຂດທີ່ມີຄວາມຮູ້ສຶກທີ່ສຸດນັ້ນ, ການປ່ອຍສິນເຊື່ອປາກົດວ່າສະແດງໂດຍໄມຄ໌ ໄມເຊີສ໌. ໂອສຕີນໃຫ້'ຂ້ອຍເປັນໃຜ?' ແລະພວກເຮົາ
+
+24
+00:01:34,500 --> 00:01:40,500
+[NUDE BEACH - CREDIT SEQUENCE]
+A girl sits on a blanket; a HORIZONTAL CREDIT blocks her bare chest. Austin lays on his back beside her, trying to be suave; A VERTICAL CREDIT appears.
+ເດັກຍິງຄົນຫນຶ່ງນັ່ງຢູ່ເທິງຜ້າຝ້າຍ; ການປ່ອຍສິນເຊື່ອທາງບົກຜ່ອງກີດຂວາງທ້ອງເປົ່າຂອງນາງ.
+ໂອສຕິນນອນຢູ່ເບື້ອງຫຼັງຂອງລາວຢູ່ຂ້າງນາງ, ພະຍາຍາມທີ່ຈະອ່ອນແອ; ການເງິນທີ່ຕັ້ງຢູ່ເທິງປາກົດຕົວ.
+
+25
+00:01:41,000 --> 00:01:43,000
+[AUSTIN]
+Shaguar, baby, yeah!
+Shaguar, ແມ, ແມ່ນແລ້ວ!
+
+26
+00:01:43,500 --> 00:01:48,400
+[BOBBY]
+Dad, I know you're against race mixing and all that, but I met someone...
+ພໍ່, ຂ້ອຍຮູ້ວ່າເຈົ້າຕໍ່ຕ້ານການປະສົມປະສານເຊື້ອຊາດແລະສິ່ງທັງ
+ຫມົດ ນັ້ນ, ແຕ່ຂ້ອຍພົບຄົນຫນຶ່ງ...
+
+27
+00:01:48,900 --> 00:01:50,900
+[KLANSMAN]
+Don't say it!
+ຢ່າເວົ້າມັນ!
+
+28
+00:01:51,400 --> 00:01:53,500
+[BOBBY]
+I met someone... and he's black.
+ຂ້ອຍພົບຄົນຫນຶ່ງ... ແລະລາວເປັນຄົນສີດໍາ.
+
+29
+00:01:54,000 --> 00:01:56,000
+[KLANSMAN]
+He?
+ລາວບໍ?
+
+30
+00:01:56,500 --> 00:01:58,500
+[JERRY SPRINGER]
+Please welcome Tim.
+ກະລຸນາຕ້ອນຮັບທີມ.
+
+31
+00:01:59,000 --> 00:02:02,500
+[JERRY SPRINGER]
+Now Scott, tell us about your father. Share with us.
+ດຽວນີ້ສອດຕ໌, ບອກພວກເຮົາກ່ຽວກັບພໍ່ຂອງທ່ານ. ແບ່ງປັນກັບພວກເຮົາ.
+
+32
+00:02:03,000 --> 00:02:07,900
+[SCOTT]
+Well he's the head of an evil organization that has aspirations for world domination.
+ດີລາວເປັນຫົວຫນ້າຂອງອົງການຈັດຕັ້ງທີ່ຮ້າຍແຮງທີ່ມີຄວາມປາຖະຫນາທີ່ຈະປົກຄອງໂລກ
+.
+
+33
+00:02:08,400 --> 00:02:10,850
+[JERRY SPRINGER]
+And where is your father right now?
+ແລະພໍ່ເຈົ້າຢູ່ໃສໃນເວລານີ້?
+
+34
+00:02:11,350 --> 00:02:17,350
+[SCOTT]
+He's in outer space, like frozen in a giant egg and stuffed inside a Big Boy rocket with his cat, Mr. Bigglesworth.
+ລາວຢູ່ໃນອະວະກາດພາຍນອກ, ຄືກັບທີ່ກ້ອນໃນໄຂ່ໃຫຍ່ແລະເຕັມໄປພາຍໃນລູກສອນໄຟ
+Big Boy ກັບແມວຂອງລາວ, ທ້າວ Bigglesworth.
+
+35
+00:02:17,850 --> 00:02:22,050
+[JERRY SPRINGER]
+Really? Well, we have a surprise for you, Scott. Let's bring out
+ແທ້ຈິງບໍ? ດີ, ພວກເຮົາມີຄວາມແປກໃຈ ສໍາ ລັບເຈົ້າ, ສອດຕ໌. ມາເອົາອອກມາ
+
+36
+00:02:22,550 --> 00:02:24,550
+[SCOTT'S]
+father, Dr Evil.
+ພໍ່, ດຣ Evil.
+
+37
+00:02:25,050 --> 00:02:27,050
+[DR. EVIL]
+Hello Scott, I'm back.
+ສະບາຍດີ ສອດຕ໌, ຂ້ອຍກັບມາແລ້ວ.
+
+38
+00:02:27,550 --> 00:02:31,400
+[SCOTT]
+I can't believe you'd do this to me on national television!
+ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າຈະເຮັດສິ່ງນີ້ກັບຂ້ອຍໃນໂທລະພາບແຫ່ງຊາດ!
+
+39
+00:02:31,900 --> 00:02:34,000
+[DR. EVIL]
+They offered me a free makeover.
+ພວກເຂົາສະເຫນີໃຫ້ຂ້ອຍປ່ຽນຮູບແບບຟຣີ.
+
+40
+00:02:34,500 --> 00:02:40,500
+[JERRY SPRINGER]
+Dr. Evil, we've seen a lot of the fathers here today open up to their sons, sons to the fathers. Is there anything you'd like to share?
+ດຣ Evil, ພວກເຮົາໄດ້ເຫັນພໍ່ຫຼາຍຄົນຢູ່ນີ້ມື້ນີ້ເປີດໃຫ້ລູກຊາຍຂອງພວກເຂົາ
+, ລູກຊາຍໃຫ້ພໍ່. ມີຫຍັງທີ່ທ່ານຢາກແບ່ງປັນບໍ?
+
+41
+00:02:41,000 --> 00:02:43,000
+[DR. EVIL]
+Share?
+ແບ່ງປັນບໍ?
+
+42
+00:02:43,500 --> 00:02:45,600
+[JERRY SPRINGER]
+Yes, don't you have any secrets?
+ແມ່ນແລ້ວ, ເຈົ້າບໍ່ມີຄວາມລັບໃດບໍ?
+
+43
+00:02:46,100 --> 00:02:48,200
+[DR. EVIL]
+OK. I have a vestigial tail.
+ດີແລ້ວ. ຂ້ອຍມີຫຼັງທີ່ເຫຼືອໄວ້.
+
+44
+00:02:48,700 --> 00:02:54,700
+[DR. EVIL]
+It's more of a nub, really. The spine just goes on a little longer than it should. Also, I've dabbled. I mean, perform fellatio once and you're a poet, twice and you're a homosexual. I remember once I was being fisted by Sebastian Cabot- but here's where the story gets interesting. He was lactose-intolerant. He could eat red meat all night long, but one sip of milk and it was gastric hell. And I remember we were caught in fragrance delicto by Henry Kissinger, and you can imagine my humiliation at having Hank hear me say, "Mr. French, no teeth." One of my greatest disappointments is that I never became a song and dance man. I could have been a quadruple threat, kind of like a despotic Ken Barry. Dancer, singer, actor, and I would possess nuclear weapons, the latter being the most threatening of the four. I once sat on a bus and tried to will myself a menstrual cycle. All I ended up with was a sense of failure and a mild neuralgia in my incisor teeth and perhaps a grudging respect for the weaker sex. I love toe cleavage. For the most part I distrust dogs. I slept in a horse once. It was quite roomy. On second thought, it was the Ritz. I named my left testicle 'piss' and my right testicle 'vinegar'. I wrote "It's Raining Men", or so the Christmas babies told me. Oh yes, I also made a Marzipan voodoo effigy of The Fonze while I was in coma after smoking some Peruvian prayer hash, but who at the end of the day can honestly say they haven't done that?
+ມັນເປັນຫຼາຍກ່ວາ nub, ແທ້ຈິງແລ້ວ. ກະດູກສັນຫຼັງພຽງແຕ່ຍາວນານກວ່າທີ່ຄວນ. ນອກຈາກນັ້ນ, ຂ້ອຍໄດ້ດອກ. ຂ້ອຍຫມາຍຄວາມວ່າ, ເຮັດ fellatio ຄັ້ງຫນຶ່ງແລະເຈົ້າເປັນນັກກະວີ, ສອງຄັ້ງແລະເຈົ້າແມ່ນເພດຊາຍ.
+ຂ້ອຍຈື່ວ່າຄັ້ງຫນຶ່ງຂ້ອຍຖືກຈັບໂດຍ Sebastian Cabot - ແຕ່ນີ້ແມ່ນບ່ອນທີ່ເລື່ອງກາຍເປັນທີ່ຫນ້າສົນໃຈ. ລາວເປັນ lactose- ບໍ່ທົນທານ. ລາວສາມາດກິນຊີ້ນແດງຕະຫຼອດຄືນ, ແຕ່ດື່ມຫນຶ່ງຂອງນົມແລະມັນເປັນອານາໄມທ້ອງ. ແລະຂ້ອຍຈື່ພວກເຮົາ
+
+45
+00:02:55,200 --> 00:02:57,650
+[KLANSMAN]
+What are you, some kind of freak?
+ເຈົ້າເປັນຫຍັງ, ບາງປະເພດຂອງຄົນແປກໃຈບໍ?
+
+46
+00:02:58,150 --> 00:03:00,150
+[SCOTT]
+Shut up, jagoff!
+ປິດງຽບ, ໂຈກຟ໌!
+
+47
+00:03:00,650 --> 00:03:02,650
+[KLANSMAN]
+I'll kick your ass punk!
+ຂ້ອຍຈະຕີເຈົ້າໂຊກຮ້າຍ!
+
+48
+00:03:03,150 --> 00:03:05,950
+[DR. EVIL]
+No one talks to my boy that way!
+ບໍ່ມີໃຜເວົ້າກັບລູກຊາຍຂອງຂ້ອຍແບບນັ້ນ!
+
+49
+00:03:06,450 --> 00:03:08,450
+[DR. EVIL]
+I'm OK, I'm OK.
+ຂ້ອຍດີ, ຂ້ອຍດີ.
+
+50
+00:03:08,950 --> 00:03:12,100
+[DR. EVIL]
+Come Scott, let's go to daddy's new evil lair.
+ມາສອດຕ໌, ໄປບ່ອນເຊື່ອງທີ່ຮ້າຍແຮງໃຫມ່ຂອງພໍ່.
+
+51
+00:03:12,600 --> 00:03:18,600
+[NUMBER TWO]
+Dr. Evil, as the legitimate frontman of your organization, I seized upon the opportunity to invest in a small Seattle-based coffee company several years ago. Today, Starbucks is a far- flung empire with 2000 outlets worldwide.
+ດຣ Evil, ໃນຖານະເປັນຜູ້ ນໍາ ຫນ້າ ທີ່ຖືກຕ້ອງຕາມກົດ ຫມາຍ ຂອງອົງການຂອງທ່ານ, ຂ້ອຍໄດ້ຈັບໂອກາດໃນການລົງທືນໃນບໍລິສັດກາເຟນ້ອຍໆທີ່ຕັ້ງຢູ່ຊີຕລ໌ຫຼາຍປີກ່ອນ
+. ມື້ນີ້, Starbucks ແມ່ນອານາຈັກທີ່ຫ່າງໄກສອກຫຼີກທີ່ມີຮ້ານຂາຍ 2000 ແຫ່ງທົ່ວໂລກ.
+
+52
+00:03:19,100 --> 00:03:22,950
+[DR. EVIL]
+Oh good, Number Two, I do enjoy a good cuppa joe.
+ໂອ້ ດີ, ອັນດັບສອງ, ຂ້ອຍມັກຈອກໂຈດີ.
+
+53
+00:03:23,450 --> 00:03:29,450
+[NUMBER TWO]
+If I may continue, I believe if we shift our resources away from world domination and focus on providing premium quality coffee drinks, we can increase our gross profits fivefold.
+ຖ້າຂ້ອຍສາມາດສືບຕໍ່ໄດ້, ຂ້ອຍເຊື່ອວ່າຖ້າພວກເຮົາປ່ຽນຊັບພະຍາກອນຂອງພວກເຮົາອອກຈາກການປົກຄອງໂລກແລະສຸມໃສ່ການສະ
+ຫນອງ ເຄື່ອງດື່ມກາເຟທີ່ມີຄຸນນະພາບສູງສຸດ, ພວກເຮົາສາມາດເພີ່ມຜົນກໍາໄລລວມຂອງພວກເຮົາໄດ້ຫ້າເທົ່າ.
+
+54
+00:03:29,950 --> 00:03:35,950
+[DR. EVIL]
+Right. Perhaps you've confused me with someone who gives a shit.  Might I remind you that I run the show here? I demand a little respect.
+ແມ່ນແລ້ວ. ບາງທີເຈົ້າໄດ້ສັບສົນຂ້ອຍກັບຄົນໃດທີ່ສົນໃຈ. ຂ້ອຍສາມາດເຕືອນເຈົ້າວ່າຂ້ອຍ
+ດໍາ ເນີນງານຢູ່ບ່ອນນີ້ບໍ? ຂ້ອຍຮຽກຮ້ອງຄວາມເຄົາລົບ ຫນ້ອຍ ຫນຶ່ງ.
+
+55
+00:03:36,450 --> 00:03:38,450
+[NUMBER TWO]
+Dr. Evil, I think you--
+ດຣ Evil, ຂ້ອຍຄິດວ່າເຈົ້າ...
+
+56
+00:03:38,950 --> 00:03:43,150
+[DR. EVIL]
+Silence! I will not tolerate your insolence! Remember what happened last time.
+ຄວາມງຽບສະຫງົບ! ຂ້ອຍຈະບໍ່ຍອມຮັບຄວາມໂຊກຮ້າຍຂອງທ່ານ
+! ຈື່ສິ່ງທີ່ເກີດຂຶ້ນຄັ້ງສຸດທ້າຍ.
+
+57
+00:03:43,650 --> 00:03:47,850
+[NUMBER TWO]
+May I add, I appreciate you reinstating me after our little... misunderstanding.
+ຂ້ອຍສາມາດເພີ່ມເຕີມໄດ້ບໍ,
+ຂ້ອຍຍ້ອງຍໍເຈົ້າທີ່ຟື້ນຟູຂ້ອຍຫຼັງຈາກຄວາມເຂົ້າໃຈຜິດນ້ອຍໆຂອງພວກເຮົາ.
+
+58
+00:03:48,350 --> 00:03:50,450
+[DR. EVIL]
+Frau Farbissina. Wie gehts is einen?
+ທ່ານນາງຟາບິສຊີນາ. ມີຄົນໃດ?
+
+59
+00:03:50,950 --> 00:03:52,950
+[FRAU]
+Zehr gut, Herr Doctor.
+Zehr gut, ທ້າວຫມໍ.
+
+60
+00:03:53,450 --> 00:03:55,450
+[DR. EVIL]
+How are things?
+ທຸກຢ່າງເປັນແນວໃດ?
+
+61
+00:03:55,950 --> 00:04:01,950
+[FRAU]
+I have come to embrace the love that dare not speak it's name. To my right is my lover.
+ຂ້ອຍມາເພື່ອອ້ອມແອ້ມຄວາມຮັກທີ່ບໍ່ກ້າເວົ້າຊື່ຂອງມັນ
+. ຢູ່ທາງຂວາຂອງຂ້ອຍແມ່ນຄົນຮັກຂອງຂ້ອຍ.
+
+62
+00:04:02,450 --> 00:04:06,300
+[FRAU]
+Her name is Unibrau. I met her on the LPGA Tour.
+ນາງຊື່ວ່າ Unibrau. ຂ້ອຍພົບນາງໃນການທ່ອງທ່ຽວ LPGA.
+
+63
+00:04:06,800 --> 00:04:08,800
+[DR. EVIL]
+Right on. Welcome, Unibrau.
+ແມ່ນແລ້ວ. ຍິນດີຕ້ອນຮັບ, Unibrau.
+
+64
+00:04:09,300 --> 00:04:11,400
+[FRAU]
+Doctor, you have a 'milk mustache.'
+ດອກຕໍ, ເຈົ້າມີ' mustache ນົມ.'
+
+65
+00:04:11,900 --> 00:04:13,900
+[DR. EVIL]
+Oh, I know. I know.
+ໂອ້, ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍຮູ້ວ່າ.
+
+66
+00:04:14,400 --> 00:04:17,900
+[NUMBER TWO]
+Dr. Evil, I'd like to introduce the Greek assassin, Oedipus.
+ດຣ Evil, ຂ້ອຍຢາກແນະນໍາຜູ້ຄາດຕະກໍາຊາວເກຣັກ, Oedipus.
+
+67
+00:04:18,400 --> 00:04:20,850
+[DR. EVIL]
+Welcome to my private army, Oedipus. Excited?
+ຍິນດີຕ້ອນຮັບໃນກອງທັບສ່ວນຕົວຂອງຂ້ອຍ, ໂອດີປັສ. ມີຄວາມຕື່ນເຕັ້ນບໍ?
+
+68
+00:04:21,350 --> 00:04:23,350
+[OEDIPUS]
+I could give a shit.
+ຂ້ອຍບໍ່ສົນໃຈເລີຍ.
+
+69
+00:04:23,850 --> 00:04:25,950
+[DR. EVIL]
+Kiss your mother with that mouth?
+ຈູບແມ່ເຈົ້າດ້ວຍປາກນັ້ນບໍ?
+
+70
+00:04:26,450 --> 00:04:28,450
+[OEDIPUS]
+Yes.
+ແມ່ນແລ້ວ.
+
+71
+00:04:28,950 --> 00:04:30,950
+[DR. EVIL]
+Of course you do.
+ແນ່ນອນວ່າເຈົ້າເຮັດ.
+
+72
+00:04:31,450 --> 00:04:37,450
+[NUMBER TWO]
+Dr. Evil, as you know, the rate at which you liquidate henchmen far exceeds our ability to replace them.
+ດຣ Evil, ດັ່ງທີ່ທ່ານຮູ້ແລ້ວ,
+ອັດຕາທີ່ທ່ານຊົດເຊີຍຜູ້ຕິດຕາມເກີນຄວາມສາມາດຂອງພວກເຮົາທີ່ຈະທົດແທນພວກເຂົາ.
+
+73
+00:04:37,950 --> 00:04:43,950
+[DR. EVIL]
+I have so few pleasures left to me, Number Two. The key to life is to rotate your vices. One day it's executions, another day it's creamy French cheese.  It's like frickin' heroin.
+ຂ້ອຍມີຄວາມສຸກ ຫນ້ອຍ ທີ່ເຫຼືອໄວ້ໃຫ້ຂ້ອຍ, ອັນດັບສອງ. ປຸ່ມຂອງຊີວິດແມ່ນການ ຫມູນ ວຽນຄວາມຊົ່ວຮ້າຍຂອງທ່ານ
+. ມື້ຫນຶ່ງມັນແມ່ນການປະຫານຊີວິດ, ມື້ອື່ນມັນເປັນຈິດຝຣັ່ງສີຄີມ. ມັນຄືກັບເຮໂຣອິນທີ່ສໍ້ໂກງ.
+
+74
+00:04:44,450 --> 00:04:50,450
+[NUMBER TWO]
+Well, Dr. Evil, perhaps I have the answer. While you were frozen, we began a program to clone you.
+ດີ, ດຣ Evil, ບາງທີຂ້ອຍມີຄໍາຕອບ. ໃນຂະນະທີ່ເຈົ້າຖືກກ້ອນ
+, ພວກເຮົາເລີ່ມຕົ້ນໂປແກຼມເພື່ອຄລອນເຈົ້າ.
+
+75
+00:04:50,950 --> 00:04:52,950
+[DR. EVIL]
+Cool.
+ດີເລີດ.
+
+76
+00:04:53,450 --> 00:04:58,350
+[NUMBER TWO]
+We had a few glitches, but I think you'll be pleased with the results.
+ພວກເຮົາມີຂໍ້ຜິດພາດບາງຢ່າງ, ແຕ່ຂ້ອຍຄິດວ່າເຈົ້າຈະພໍໃຈກັບຜົນໄດ້ຮັບ.
+
+77
+00:04:58,850 --> 00:05:00,850
+[FRAU]
+Send in the clone!
+ສົ່ງຄລອນເຂົ້າມາ!
+
+78
+00:05:01,350 --> 00:05:06,250
+[NUMBER TWO]
+He is identical to you in every way, except he is one-eighth your size.
+ລາວຄ້າຍຄືກັບເຈົ້າໃນທຸກດ້ານ,
+ຍົກເວັ້ນວ່າລາວເປັນຂະຫນາດຫນຶ່ງໃນແປດຂອງເຈົ້າ.
+
+79
+00:05:06,750 --> 00:05:11,650
+[DR. EVIL]
+Breathtaking. I shall call him Mini- Me.  Mini-Me, you will sit to my right.
+ຂ້ອຍຈະເອີ້ນລາວວ່າ Mini - ຂ້ອຍ. Mini-
+ຂ້ອຍ, ເຈົ້າຈະນັ່ງຢູ່ຂວາຂອງຂ້ອຍ.
+
+80
+00:05:12,150 --> 00:05:14,150
+[DR. EVIL]
+Come Mr. Bigglesworth!
+ມາທ່ານບິກເກວສວອດ!
+
+81
+00:05:14,650 --> 00:05:16,650
+[DR. EVIL]
+Mini-me, something to eat?  No?
+ຂ້ອຍນ້ອຍໆ, ບາງສິ່ງບາງຢ່າງທີ່ຈະກິນບໍ? ບໍ່?
+
+82
+00:05:17,150 --> 00:05:23,150
+[OK.]
+Tired.  Gentleman, I have a plan. As you know, the most powerful man in the world is the President of the United States. But he is just that- a man, subject to temptations of the flesh like any other man. Here's what we do: we make it seem that the President has had "extra-marital oral relations" with- and this is the kicker-
+ເມື່ອຍແລ້ວ. ເຈົ້າຊາຍ, ຂ້ອຍມີແຜນການ. ດັ່ງທີ່ທ່ານຮູ້ແລ້ວ, ຜູ້ຊາຍທີ່ມີພະລັງທີ່ສຸດໃນໂລກແມ່ນປະທານາທິບໍດີສະຫະລັດ. ແຕ່ລາວພຽງແຕ່ນັ້ນ - ຜູ້ຊາຍ,
+ຖືກທົດລອງຂອງຊີ້ນຄືກັບຜູ້ຊາຍຄົນອື່ນໃດໆ. ນີ້ແມ່ນສິ່ງທີ່ພວກເຮົາເຮັດ: ພວກເຮົາເຮັດໃຫ້ມັນເບິ່ງຄືວ່າປະທານາທິບໍດີມີ"ສາຍພົວພັນທາງປາກນອກການແຕ່ງງານ" ກັບ - ແລະນີ້ແມ່ນ kicker -
+
+83
+00:05:23,650 --> 00:05:25,650
+[DR. EVIL]
+With a White House intern!
+ກັບນັກຝຶກອົບຮົມທໍານຽບຂາວ!
+
+84
+00:05:26,150 --> 00:05:28,150
+[NUMBER TWO]
+Uh-hem.
+ໂອ້ ພວກເຂົາ.
+
+85
+00:05:28,650 --> 00:05:30,650
+[DR. EVIL]
+What, that already happened?
+ຫຍັງ, ນັ້ນເກີດຂຶ້ນແລ້ວບໍ?
+
+86
+00:05:31,150 --> 00:05:37,150
+[DR. EVIL]
+This is ri-goddamn-diculous. Oh well, how about a frickin' time machine? Does the president have a time machine? Have I been scooped on that?
+ນີ້ແມ່ນ ri- ພຣະເຈົ້າ- diculous. ໂອ້ ດີ, ຈະເປັນແນວໃດກັບເຄື່ອງຈັກເວລາທີ່ສໍ້ໂກງ
+? ປະທານປະເທດມີເຄື່ອງຈັກເວລາດບໍ? ຂ້ອຍຖືກຈັບໃນນັ້ນບໍ?
+
+87
+00:05:37,650 --> 00:05:39,750
+[NUMBER TWO]
+No, not that I'm aware of.
+ບໍ່, ບໍ່ແມ່ນທີ່ຂ້ອຍຮູ້.
+
+88
+00:05:40,250 --> 00:05:46,250
+[DR. EVIL]
+Alright, time machine it is. As you know, every diabolical scheme I've hatched has been thwarted by Austin Powers. And why is that, ladies and gentlemen?
+ດີແລ້ວ, ເຄື່ອງຈັກເວລາມັນແມ່ນ. ດັ່ງທີ່ທ່ານຮູ້ແລ້ວ,
+ແຜນການໂຊກຮ້າຍທຸກຢ່າງທີ່ຂ້ອຍໄດ້ສ້າງຂື້ນໄດ້ຖືກລົບກວນໂດຍອອສຕິນ ພູເວີສ໌. ແລະເປັນຫຍັງນັ້ນ, ພວກທ່ານແລະພວກທ່ານ?
+
+89
+00:05:46,750 --> 00:05:51,650
+[SCOTT]
+Because you never kill him when you get the chance and you're a dope?
+ເພາະເຈົ້າບໍ່ເຄີຍຂ້າລາວເມື່ອເຈົ້າມີໂອກາດແລະເຈົ້າເປັນຢາເສບຕິດບໍ?
+
+90
+00:05:52,150 --> 00:05:54,250
+[DR. EVIL]
+No, because Austin Powers has "mojo".
+ບໍ່, ເພາະວ່າໂອສຕິນ ພູເວີສ໌ມີ"ໂມໂຈ".
+
+91
+00:05:54,750 --> 00:05:56,750
+[NUMBER TWO]
+Mojo?
+ໂມໂຈໂກ້?
+
+92
+00:05:57,250 --> 00:06:02,500
+[FRAU]
+Yes, mojo. The mojo is the life force, the essence, the libido, the "right stuff".
+ແມ່ນແລ້ວ, mojo. mojo ແມ່ນພະລັງຊີວິດ,
+ຄວາມເປັນຈິງ, libido,"ສິ່ງທີ່ຖືກຕ້ອງ".
+
+93
+00:06:03,000 --> 00:06:06,850
+[DR. EVIL]
+It's what the French call a certain 'I don't know what.'
+ມັນເປັນສິ່ງທີ່ຊາວຝຣັ່ງເອີ້ນວ່າ'ຂ້ອຍບໍ່ຮູ້ວ່າຫຍັງ.'
+
+94
+00:06:07,350 --> 00:06:13,350
+[SCOTT]
+If you've got a time machine, why don't you just go back and kill Austin Powers when he's a baby or something?
+ຖ້າເຈົ້າມີເຄື່ອງຈັກເວລາ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ກັບຄືນໄປບ່ອນແລະຂ້າໂອສຕິນ
+ພູເວີສ໌ເມື່ອລາວເປັນເດັກນ້ອຍຫຼືບາງສິ່ງບາງຢ່າງ?
+
+95
+00:06:13,850 --> 00:06:15,850
+[DR. EVIL]
+No, no, no.
+ບໍ່, ບໍ່, ບໍ່ມີ.
+
+96
+00:06:16,350 --> 00:06:22,350
+[NUMBER TWO]
+Dr. Evil, wouldn't it be easier to use your knowledge of the future to play the stock market? We could literally make trillions.
+ດຣ Evil, ມັນຈະບໍ່ງ່າຍກວ່າທີ່ຈະໃຊ້ຄວາມຮູ້ຂອງທ່ານກ່ຽວກັບອະນາຄົດເພື່ອຫຼິ້ນຕະຫຼາດຫຼັກຊັບບໍ
+? ພວກເຮົາສາມາດເຮັດໄດ້ trillions ຢ່າງແທ້ຈິງ.
+
+97
+00:06:22,850 --> 00:06:25,650
+[DR. EVIL]
+Why make trillions when we could make...  Billions?
+ເປັນຫຍັງຈຶ່ງເຮັດລ້ານລ້ານເມື່ອພວກເຮົາສາມາດເຮັດໄດ້... ພັນລ້ານ?
+
+98
+00:06:26,150 --> 00:06:28,150
+[NUMBER TWO]
+Excuse me?
+ຂໍໂທດບໍ?
+
+99
+00:06:28,650 --> 00:06:31,100
+[DR. EVIL]
+Why think small is all I'm saying.
+ຂ້ອຍເວົ້າພຽງແຕ່ວ່າເປັນຫຍັງຄິດນ້ອຍໆ.
+
+100
+00:06:31,600 --> 00:06:34,400
+[SCOTT]
+A trillion is more than a billion, numb-nuts.
+ພັນຕຣີລຽນແມ່ນຫຼາຍກ່ວາພັນລ້ານ, ຄົນໂຊກຮ້າຍ.
+
+101
+00:06:34,900 --> 00:06:37,000
+[DR. EVIL]
+Zip it. Unveil the time portal!
+ປິດມັນໄວ້. ເປີດປະຕູເວລາ!
+
+102
+00:06:37,500 --> 00:06:43,500
+[DR. EVIL]
+Ladies and gentlemen, I give you the time portal. As you know, Austin Powers was frozen in 1967. Therefore, I time travel to 1969, two years after he was frozen. Security will be lax and I'll strike when he is totally helpless.
+ພວກທ່ານແລະພວກທ່ານ, ຂ້ອຍໃຫ້ເຈົ້າປະຕູເວລາ. ດັ່ງທີ່ທ່ານຮູ້ແລ້ວ, ໂອສຕິນ ພູເວີສ໌ຖືກກ້ອນໃນປີ 1967. ເພາະສະນັ້ນ,
+ຂ້ອຍເດີນທາງໃນເວລາເຖິງປີ 1969, ສອງປີຫຼັງຈາກລາວໄດ້ຖືກກ້ອນ. ຄວາມປອດໄພຈະອ່ອນແອແລະຂ້ອຍຈະໂຈມຕີເມື່ອລາວບໍ່ມີຄວາມຊ່ວຍເຫຼືອຢ່າງສົມບູນ.
+
+103
+00:06:44,000 --> 00:06:46,000
+[SCOTT]
+Can I come?
+ຂ້ອຍມາໄດ້ບໍ?
+
+104
+00:06:46,500 --> 00:06:52,500
+[DR. EVIL]
+No, Scott, Daddy has a score to settle. Austin Powers is the snake to my mongoose, or the mongoose to my snake. Either way it's bad, I don't know animals. But I do know this: This time it's personal. Frau, Number 2, I'll see you both in 1969. Come, Mini-Me.
+ບໍ່, ສອດຕ໌, ພໍ່ມີຄະແນນທີ່ຈະແກ້ໄຂ. ໂອສຕິນ ພູເວີສ໌ແມ່ນຊ້າງຕໍ່ແມັງໂກສຂອງຂ້ອຍ, ຫຼືແມ້ງໂອກສ໌ຕໍ່ແມັກໂກຊຂອງຂ້ອຍ. ຢ່າງໃດກໍ່ຕາມມັນບໍ່ດີ
+, ຂ້ອຍບໍ່ຮູ້ຈັກສັດ. ແຕ່ຂ້ອຍຮູ້ສິ່ງນີ້: ຄັ້ງນີ້ມັນເປັນສ່ວນຕົວ. ແມ່ຍິງ, ເລກທີ 2, ຂ້ອຍຈະເຫັນເຈົ້າທັງສອງໃນປີ 1969. ມາ, Mini-Me.
+
+105
+00:06:53,000 --> 00:06:59,000
+[DR. EVIL]
+Ah, here we are Mini-Me, 1969. Number Two, you look very youthful and healthy.  And Frau you look...right.
+ອາ, ນີ້ແມ່ນພວກເຮົາ Mini-Me, ປີ 1969. ອັນດັບສອງ,
+ເຈົ້າເບິ່ງຄືວ່າໄວຫນຸ່ມແລະສຸຂະພາບແຂງແຮງຫຼາຍ. ແລະທ່ານນາງເບິ່ງຄື... ຖືກຕ້ອງ.
+
+106
+00:06:59,500 --> 00:07:05,500
+[DR. EVIL]
+OK, people, we now officially have a chair problem. If another one of these chairs hits me in the nuts, I'm gonna go postal. Mini-Me, I want you to meet Number Two.
+ດີແລ້ວ, ຄົນ, ດຽວນີ້ພວກເຮົາມີບັນຫາຕັ່ງຢ່າງເປັນທາງການ. ຖ້າອີກຕັ່ງ ຫນຶ່ງ
+ໃນຕັ່ງເຫຼົ່ານີ້ຕີຂ້ອຍໃນ ຫມາກ ນັດ, ຂ້ອຍຈະໄປໄປສະນີ. Mini-Me, ຂ້ອຍຢາກໃຫ້ເຈົ້າພົບກັບເລກສອງ.
+
+107
+00:07:06,000 --> 00:07:08,000
+[NUMBER TWO]
+Hello there.
+ສະບາຍດີ.
+
+108
+00:07:08,500 --> 00:07:10,500
+[DR. EVIL]
+Mini-Me?
+ຂ້ອຍນ້ອຍບໍ?
+
+109
+00:07:11,000 --> 00:07:17,000
+[DR. EVIL]
+Shy. Low blood sugar.  Gentlemen, Phase Two is beginning. I have an operative inside the Ministry of Defense. By this time tomorrow, Austin Powers' mojo will be mine.
+ໂຊກຮ້າຍ. ນໍ້າຕານໃນເລືອດຕໍ່າ. ພວກເຈົ້າ, ໄລຍະທີສອງ ກໍາ ລັງເລີ່ມຕົ້ນ.
+ຂ້ອຍມີນັກປະຕິບັດງານພາຍໃນກະຊວງປ້ອງກັນປະເທດ. ໃນເວລານີ້ມື້ອື່ນ, ໂມຈີຂອງໂອສຕິນ ພູເວີສ໌ຈະເປັນຂອງຂ້ອຍ.
+
+110
+00:07:17,500 --> 00:07:19,500
+[DR. EVIL]
+Ha-ha-ha! Ha-ha-ha!
+Ha-ha-ha! Ha -ha -ha!
+
+111
+00:07:20,000 --> 00:07:22,000
+[DR. EVIL]
+Ha-ha-ha! Ha-ha-ha!
+Ha-ha-ha! Ha -ha -ha!
+
+112
+00:07:22,500 --> 00:07:28,500
+[BRITISH COLONEL]
+We've had reports that there's a spy in the Ministry of Defense.  The contents of this room are vital to the country. Be on special alert.
+ພວກເຮົາມີລາຍງານວ່າມີນັກສືບໃນກະຊວງປ້ອງກັນປະເທດ.
+ເນື້ອໃນຂອງຫ້ອງນີ້ມີຄວາມສໍາຄັນຕໍ່ປະເທດ. ຈົ່ງລະວັງພິເສດ.
+
+113
+00:07:29,000 --> 00:07:35,000
+[FAT SOLDIER]
+Those bastards will have to kill me before I let anything happen to this wee naked hairy popsicle, sir!
+ພວກໂຊກຮ້າຍເຫລົ່ານັ້ນຈະຕ້ອງຂ້າຂ້ອຍກ່ອນທີ່ຂ້ອຍຈະປ່ອຍໃຫ້ເກີດຫຍັງເກີດຂຶ້ນກັບໂປສຊິລເປືອກຫຸ້ມຫໍ່ນ້ອຍໆນີ້
+, ທ່ານ!
+
+114
+00:07:35,500 --> 00:07:39,350
+[BRITISH COLONEL]
+Very good. And try and lose some weight for God's sake!
+ດີຫຼາຍ. ແລະພະຍາຍາມສູນເສຍນ້ ໍາ ຫນັກ
+ບາງຢ່າງເພື່ອຄວາມຮັກຂອງພຣະເຈົ້າ!
+
+115
+00:07:39,850 --> 00:07:45,850
+[FAT SOLDIER]
+Yessir!  I outta smash your teeth out with a Toffee Hammer Mr. English Colonel Telling-Me-What-To-Do-And-Stealing- our-Oil-Refusing-To-Recognize- our- Scottish-Independence!
+Yessir! ຂ້ອຍອອກໄປຈະທໍາລາຍແຂ້ວຂອງທ່ານອອກດ້ວຍກະດານ Toffee ທ້າວຄໍລັນອັງກິດບອກຂ້ອຍວ່າຈະເຮັດຫຍັງແລະລັກເອົາ
+- ນ້ ໍາ ມັນຂອງພວກເຮົາ - ການປະຕິເສດທີ່ຈະຮັບຮູ້ - ການເປັນເອກະລາດສະກອດສ໌ຂອງພວກເຮົາ!
+
+116
+00:07:46,350 --> 00:07:51,600
+[AUSTIN]
+Gor blimey, I'm on empty! That's funny, I just filled the Shaguar up this morning.
+ໂກຣ ບລີເມຍ, ຂ້ອຍຢູ່ບ່ອນຫວ່າງ! ມັນມ່ວນຊື່ນ
+, ຂ້ອຍຫາກໍ່ຕື່ມ Shaguar ໃນຕອນເຊົ້ານີ້.
+
+117
+00:07:52,100 --> 00:07:54,900
+[BASIL EXPOSITION]
+Hello, I'm Basil Exposition, head of British Intelligence.
+ສະບາຍດີ, ຂ້ອຍເປັນ Basil Exposition, ຫົວຫນ້າສືບລັບອັງກິດ.
+
+118
+00:07:55,400 --> 00:08:00,650
+[AUSTIN]
+You always are, Basil. Listen, the weirdest thing just happened, I've run out of petrol.
+ເຈົ້າເປັນຢູ່ສະເຫມີ, ບາຊີລ. ຟັງ,
+ສິ່ງທີ່ແປກໃຈທີ່ສຸດຫາກໍ່ເກີດຂຶ້ນ, ຂ້ອຍຫມົດນໍ້າມັນເຊື້ອໄຟແລ້ວ.
+
+119
+00:08:01,150 --> 00:08:04,650
+[BASIL EXPOSITION]
+We'll send a man around immediately. How was your honeymoon?
+ພວກເຮົາຈະສົ່ງຜູ້ຊາຍຢູ່ທົ່ວໄປທັນທີ. ເດືອນດອງຂອງທ່ານເປັນແນວໃດ?
+
+120
+00:08:05,150 --> 00:08:08,650
+[AUSTIN]
+Vanessa tried to kill me, Basil. She was a Fembot!
+ເວເນສຊາພະຍາຍາມຂ້າຂ້ອຍ, ບາຊີລ. ນາງເປັນຟາມບອດ!
+
+121
+00:08:09,150 --> 00:08:13,700
+[BASIL EXPOSITION]
+Ah women, who can understand them? Moving on, let's discuss your new case.
+ແມ່ຍິງອາ, ໃຜສາມາດເຂົ້າໃຈພວກເຂົາໄດ້?
+ຕໍ່ໄປ, ມາປຶກສາຫາລືກໍລະນີ ໃຫມ່ ຂອງທ່ານ.
+
+122
+00:08:14,200 --> 00:08:16,200
+[AUSTIN]
+New case? Very shagadelic, Basil!
+ກໍລະນີໃຫມ່ບໍ? ກະຕຸ້ນຫຼາຍ, ບາຊີລ!
+
+123
+00:08:16,700 --> 00:08:22,700
+[BASIL EXPOSITION]
+You'll be doing a photo shoot. We know that one of the models is an ex- KGB agent selling top secret material to the highest bidder.
+ເຈົ້າຈະເຮັດການຖ່າຍຮູບ. ພວກເຮົາຮູ້ວ່າ ຫນຶ່ງ ໃນຕົວແບບແມ່ນຕົວແທນ
+KGB ອະດີດຂາຍວັດສະດຸລັບສູງສຸດໃຫ້ຜູ້ສະ ເຫນີ ສູງສຸດ.
+
+124
+00:08:23,200 --> 00:08:29,200
+[AUSTIN]
+That sounds easy enough, you know what they say: all work and no shagging makes Austin a dull boy, man!
+ມັນເບິ່ງຄືວ່າງ່າຍພໍສົມຄວນ, ເຈົ້າຮູ້ວ່າພວກເຂົາເວົ້າຫຍັງ: ວຽກງານທັງ
+ຫມົດ ແລະ ບໍ່ມີການຟັກເຮັດໃຫ້ໂອສຕິນເປັນເດັກຊາຍທີ່ໂຊກຮ້າຍ, ຜູ້ຊາຍ!
+
+125
+00:08:29,700 --> 00:08:31,700
+[AUSTIN]
+Tres chic, baby.
+ສວຍງາມຫຼາຍ, ແມ.
+
+126
+00:08:32,200 --> 00:08:34,200
+[REG]
+Austin, the models are ready.
+ໂອສຕິນ, ຮູບແບບພ້ອມແລ້ວ.
+
+127
+00:08:34,700 --> 00:08:39,250
+[AUSTIN]
+Ta, Reg. Bless your cotton socks. Hey, Reg, do you have any hobbies?
+Ta, Reg. ອວຍພອນ socks ຜ້າຝ້າຍຂອງທ່ານ
+. ເຮ້, Reg, ເຈົ້າມີຄວາມມັກໃດບໍ?
+
+128
+00:08:39,750 --> 00:08:41,750
+[REG]
+What?
+ຫຍັງ?
+
+129
+00:08:42,250 --> 00:08:45,050
+[AUSTIN]
+Hobbies, man! I for one enjoy making models!
+ຄວາມມັກມັກ, ຜູ້ຊາຍ! ຂ້ອຍມັກເຮັດແບບ!
+
+130
+00:08:45,550 --> 00:08:48,350
+[SUPERMODELS]
+It's him! Oh my God! It's Austin Powers!
+ມັນເປັນລາວ! ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ! ມັນແມ່ນໂອສຕິນ ພູເວີສ໌!
+
+131
+00:08:48,850 --> 00:08:52,000
+[AUSTIN]
+One at a time, girls. One. At. A. Time!
+ຫນຶ່ງໃນເວລາດຽວກັນ, ເດັກຍິງ. ຫນຶ່ງ. ໃນເວລາ A! ເວລາ!
+
+132
+00:08:52,500 --> 00:08:56,000
+[CINDY]
+Hi, I'm Cindy. I don't believe I've had the pleasure.
+ສະບາຍດີ, ຂ້ອຍເປັນຊີນດີ. ຂ້ອຍບໍ່ເຊື່ອວ່າຂ້ອຍມີຄວາມສຸກ.
+
+133
+00:08:56,500 --> 00:09:00,700
+[AUSTIN]
+Of course you haven't had "The Pleasure", we just met, baby, yeah!
+ແນ່ນອນວ່າເຈົ້າບໍ່ໄດ້ກິນ"ຄວາມສຸກ",
+ພວກເຮົາຫາກໍ່ພົບກັນແລ້ວ, ແມ, ແມ່ນແລ້ວ!
+
+134
+00:09:01,200 --> 00:09:05,400
+[REBECCA]
+How do you do, Austin? I'm Rebecca.  Your equipment is quite impressive.
+ເຈົ້າເຮັດແນວໃດ, ໂອສຕິນ? ຂ້ອຍເປັນເຣເບກາ
+. ອຸປະກອນຂອງທ່ານ ຫນ້າ ປະທັບໃຈຫຼາຍ.
+
+135
+00:09:05,900 --> 00:09:08,000
+[AUSTIN]
+Thank you. Your breasts are amazing.
+ຂອບໃຈ. ກະທູ້ຂອງທ່ານຫນ້າປະທັບໃຈ.
+
+136
+00:09:08,500 --> 00:09:10,500
+[AUSTIN]
+And what's your name, baby?
+ແລະຊື່ຂອງເຈົ້າແມ່ນຫຍັງ, ແມ?
+
+137
+00:09:11,000 --> 00:09:13,000
+[MODEL]
+Ivana Humpalot.
+ອິວານາ ຮູມປລອດ.
+
+138
+00:09:13,500 --> 00:09:15,500
+[AUSTIN]
+Excuse me?
+ຂໍໂທດບໍ?
+
+139
+00:09:16,000 --> 00:09:18,000
+[IVANA]
+Ivana. Ivana Humpalot.
+ອິວານາ. ອິວນາ ຮູມປໍຕ໌.
+
+140
+00:09:18,500 --> 00:09:24,500
+[AUSTIN]
+And I vanna toilet made of solid gold but it's just not in the cards, now is it?
+ແລະຂ້ອຍມີຫ້ອງນ້ ໍາ
+ທີ່ເຮັດດ້ວຍຄໍາແຂງແຮງແຕ່ມັນພຽງແຕ່ບໍ່ມີຢູ່ໃນບັດ, ດຽວນີ້ມັນແມ່ນບໍ?
+
+141
+00:09:25,000 --> 00:09:30,950
+[AUSTIN]
+Now, which one is the Russian spy? Cindy Crawford, Rebecca Romajin... or Ivana Humpalot? Think, man, think!
+ດຽວນີ້, ນັກສືບຣັດເຊຍແມ່ນໃຜ? ຊິນດີ ຄຣາວຟອດ, ຣີເບກາ
+ໂຣມຈິນ... ຫຼືອີວານາ ຮູມປໍຕ໌? ຄິດ, ຜູ້ຊາຍ, ຄິດ!
+
+142
+00:09:31,450 --> 00:09:35,300
+[AUSTIN]
+Alright, baby! Love it. Turn and pout for me baby! Smashing!
+ດີແລ້ວແມ! ຮັກມັນ. ຫັນໄປແລະໂຊກຮ້າຍ ສໍາ ລັບຂ້ອຍແມວ! ທໍາ ລາຍ!
+
+143
+00:09:35,800 --> 00:09:39,650
+[AUSTIN]
+Great, darling. Give me some shoulder. Yes, yes, yes.  No! No!
+ດີເລີດ, ແມ. ໃຫ້ຂ້ອຍກະຕ່າບາງຢ່າງ.
+ແມ່ນແລ້ວ, ແມ່ນແທ້, ແມ່ນແລ້ວ. ບໍ່! ບໍ່!
+
+144
+00:09:40,150 --> 00:09:46,150
+[AUSTIN]
+Show me love. Smashing! You're an animal. You're a tiger. Be a tiger, baby! You're great! You're Grrrrrr- eat! You're Tony, be corn flakes, baby, be frosted. Now be a lemur, baby! You're a ring-tailed lemur.
+ສະແດງຄວາມຮັກໃຫ້ຂ້ອຍເຫັນ. ການສັ່ນສະເທືອນ! ເຈົ້າເປັນສັດ. ເຈົ້າເປັນແມວ. ເປັນໄມວ, ແມວ! ເຈົ້າດີເລີດ! ເຈົ້າແມ່ນ Grrrrrr -
+ກິນ! ເຈົ້າຄືໂຕນີ, ເປັນກະດານເຂົ້າ ຫນົມ ປັ່ນປ່ວນ, ເດັກນ້ອຍ, ຖືກກ້ອນ. ດຽວນີ້ເປັນເລມູຣ໌, ເດັກ! ເຈົ້າជាເລມຸຣ໌ທີ່ມີຫອຍແຫວນ.
+
+145
+00:09:46,650 --> 00:09:48,650
+[REBECCA]
+A lemur?
+ເລມູຣ໌ບໍ?
+
+146
+00:09:49,150 --> 00:09:55,150
+[AUSTIN]
+A small mammal native to the African savannah. C'mon baby, you know. Like this!  OK, predator coming! Now, burrow, burrow! You're a lemur. It's all you've got.  I take it back. Be a tiger again. Smashing!
+ເປັນສັດລ້ຽງຂະຫນາດນ້ອຍທີ່ເກີດມາຈາກ savannah ອາຟຣິກາ. ມາແມ. ເຈົ້າຮູ້ແລ້ວ. ແບບນີ້! ດີ, ສັດລ້ຽງ ກໍາ ລັງມາ! ດຽວນີ້,
+ຂຸດຄົ້ນ, ຂູດຄົ້ນ! ເຈົ້າເປັນເລມູຣ໌. ມັນແມ່ນທັງ ຫມົດ ທີ່ເຈົ້າມີ. ຂ້ອຍເອົາມັນກັບຄືນໄປບ່ອນ. ເປັນແມວອີກຄັ້ງ. ທໍາ ລາຍ!
+
+147
+00:09:55,650 --> 00:09:57,650
+[AUSTIN]
+And... done! I'm spent!
+ແລະ... ເຮັດແລ້ວ! ຂ້ອຍຫມົດແລ້ວ!
+
+148
+00:09:58,150 --> 00:10:00,150
+[REG]
+Hel-lo, you forgot about Ivana.
+ເຮລໂລ, ເຈົ້າລືມອີວານາແລ້ວ.
+
+149
+00:10:00,650 --> 00:10:05,900
+[AUSTIN]
+I didn't forget, baby. Miss Humpalot and I are going to have a 'private session'.
+ຂ້ອຍບໍ່ໄດ້ລືມແມ. ຂ້ອຍແລະນາງ Humpalot ຈະມີ'ກອງປະຊຸມສ່ວນຕົວ'.
+
+150
+00:10:06,400 --> 00:10:08,500
+[IVANA]
+When did you get "The Clapper"?
+ເຈົ້າໄດ້ຮັບ"The Clapper" ເມື່ອໃດ?
+
+151
+00:10:09,000 --> 00:10:11,450
+[AUSTIN]
+November, 1964, Dutch East Indies, shore leave.
+ເດືອນພະຈິກປີ 1964, ອິນເດຍຕາເວັນອອກໂຮນລັງ, ການພັກຜ່ອນຝັ່ງທະເລ.
+
+152
+00:10:11,950 --> 00:10:13,950
+[IVANA]
+Are you cold, Mr. Powers?
+ເຈົ້າເຢັນບໍ, ທ້າວພາວສ໌?
+
+153
+00:10:14,450 --> 00:10:20,450
+[AUSTIN]
+I once had a bad experience with frostbite. I had to dip my tadger into a brandy snifter.
+ຂ້ອຍເຄີຍມີປະສົບການທີ່ບໍ່ດີກັບການກ້ອນ.
+ຂ້ອຍຕ້ອງຖ້ວມກະຕ່າຂອງຂ້ອຍໃສ່ເຄື່ອງດື່ມບຣານດີ.
+
+154
+00:10:20,950 --> 00:10:24,100
+[IVANA]
+Do you know how we keep warm in Russia?
+ເຈົ້າຮູ້ບໍວ່າພວກເຮົາຮັກສາຄວາມຮ້ອນຢູ່ຣັດເຊຍແນວໃດ?
+
+155
+00:10:24,600 --> 00:10:26,600
+[AUSTIN]
+I can guess, baby.
+ຂ້ອຍຄິດໄດ້ແມ.
+
+156
+00:10:27,100 --> 00:10:29,100
+[IVANA]
+We play chess.
+ພວກເຮົາຫຼິ້ນຊັກຊັກ.
+
+157
+00:10:29,600 --> 00:10:31,600
+[AUSTIN]
+I guessed wrong.
+ຂ້ອຍຄິດຜິດ.
+
+158
+00:10:32,100 --> 00:10:38,100
+[IVANA]
+It takes a keen intelligence to play chess. Of course, you know what they say about men with big brains, don't you?
+ມັນຕ້ອງມີສະຕິປັນຍາທີ່ເຂັ້ມແຂງເພື່ອຫຼິ້ນຊັກແຊງ. ແນ່ນອນ,
+ເຈົ້າຮູ້ວ່າພວກເຂົາເວົ້າຫຍັງກ່ຽວກັບຜູ້ຊາຍທີ່ມີສະຫມອງໃຫຍ່, ແມ່ນບໍ?
+
+159
+00:10:38,600 --> 00:10:40,600
+[AUSTIN]
+They wear large hats?
+ພວກເຂົາໃສ່ ຫມວກ ໃຫຍ່ບໍ?
+
+160
+00:10:41,100 --> 00:10:43,100
+[IVANA]
+No, they make better lovers.
+ບໍ່, ພວກເຂົາເຮັດໃຫ້ຄົນຮັກທີ່ດີກວ່າ.
+
+161
+00:10:43,600 --> 00:10:45,600
+[AUSTIN]
+Wrong again.
+ຜິດອີກເທື່ອຫນຶ່ງ.
+
+162
+00:10:46,100 --> 00:10:48,550
+[IVANA]
+I assume you know how to play.
+ຂ້ອຍຄິດວ່າເຈົ້າຮູ້ວິທີຫຼິ້ນ.
+
+163
+00:10:49,050 --> 00:10:52,200
+[AUSTIN]
+Of course.  The... horsey... moves in an L shape.
+ແນ່ນອນ. ກະຕ່າ... ເຄື່ອນຍ້າຍໃນຮູບຮ່າງ L.
+
+164
+00:10:52,700 --> 00:10:58,700
+[AUSTIN]
+Let's stop playing games with each other... especially difficult ones. May I ask you a question, Miss Humpalot?
+ພວກເຮົາຢຸດການຫຼິ້ນເກມກັບກັນແລະກັນ... ໂດຍສະເພາະທີ່ຫຍຸ້ງຍາກ
+. ຂ້ອຍສາມາດຖາມເຈົ້າໄດ້ບໍ, ນາງ Humpalot?
+
+165
+00:10:59,200 --> 00:11:01,200
+[IVANA]
+Of course.
+ແນ່ນອນ.
+
+166
+00:11:01,700 --> 00:11:04,150
+[AUSTIN]
+Do I make you horny? Do I?
+ຂ້ອຍເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍບໍ? ຂ້ອຍເຮັດບໍ?
+
+167
+00:11:04,650 --> 00:11:09,200
+[IVANA]
+I'll tell you anything you want to know, just make love to me.
+ຂ້ອຍຈະບອກເຈົ້າທຸກຢ່າງທີ່ເຈົ້າຢາກຮູ້, ພຽງແຕ່ຮັກກັບຂ້ອຍ.
+
+168
+00:11:09,700 --> 00:11:11,800
+[IVANA]
+You are hairy, like an animal!
+ເຈົ້າມີຜົມ, ຄືກັບສັດ!
+
+169
+00:11:12,300 --> 00:11:14,300
+[AUSTIN]
+Grrrr, baby.
+Grrrr, ແມ.
+
+170
+00:11:14,800 --> 00:11:20,750
+[AUSTIN]
+Grrrr. Ruf! Ruf!  Wait a tick, I don't want him watching me while I'm on the job!
+Grrrr. Ruf! Ruf! ລໍຖ້າຊົ່ວຄາວ,
+ຂ້ອຍບໍ່ຢາກໃຫ້ລາວເບິ່ງຂ້ອຍໃນຂະນະທີ່ຂ້ອຍເຮັດວຽກ!
+
+171
+00:11:21,250 --> 00:11:23,350
+[IVANA]
+Make love to me, monkey man.
+ເຮັດຄວາມຮັກກັບຂ້ອຍ, ຜູ້ຊາຍແມວ.
+
+172
+00:11:23,850 --> 00:11:25,850
+[AUSTIN]
+Groovy, baby!
+Groovy, ແມ!
+
+173
+00:11:26,350 --> 00:11:28,350
+[IVANA]
+What's the matter?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+174
+00:11:28,850 --> 00:11:30,850
+[AUSTIN]
+Crikey, I've lost my mojo.
+ຄຣີເກີ, ຂ້ອຍໄດ້ສູນເສຍໂມຈີຂອງຂ້ອຍແລ້ວ.
+
+175
+00:11:31,350 --> 00:11:33,350
+[BASIL EXPOSITION]
+Where is he? In here?
+ລາວຢູ່ໃສ? ຢູ່ບ່ອນນີ້ບໍ?
+
+176
+00:11:33,850 --> 00:11:36,650
+[BASIL EXPOSITION]
+Austin, I came as soon as I heard.
+ໂອສຕິນ, ຂ້ອຍມາທັນທີທີ່ຂ້ອຍໄດ້ຍິນ.
+
+177
+00:11:37,150 --> 00:11:43,100
+[AUSTIN]
+There must be some kind of mistake, Basil. Maybe I was drunk and I didn't know it.
+ມັນຕ້ອງມີຄວາມຜິດພາດບາງຢ່າງ, ບາຊີລ. ບາງທີຂ້ອຍດື່ມແລະຂ້ອຍບໍ່ຮູ້ມັນ.
+
+178
+00:11:43,600 --> 00:11:45,700
+[BASIL EXPOSITION]
+What's wrong with your neck, Austin?
+ມີຫຍັງເກີດຂຶ້ນກັບຄໍຂອງທ່ານ, ໂອສຕິນ?
+
+179
+00:11:46,200 --> 00:11:52,200
+[AUSTIN]
+I took a Viagra and it got caught in my throat. I've had a stiff neck for hours. Basil, is it true? Have I lost my mojo?
+ຂ້ອຍກິນຢາໄວແກຣມແລະມັນຖືກຈັບຢູ່ໃນຄໍຂອງຂ້ອຍ. ຂ້ອຍມີຄໍແຂງແຮງເປັນເວລາຫຼາຍຊົ່ວໂມງ
+. ບາຊີລ, ມັນເປັນຄວາມຈິງບໍ? ຂ້ອຍໄດ້ສູນເສຍໂມຈີຂອງຂ້ອຍບໍ?
+
+180
+00:11:52,700 --> 00:11:58,700
+[BASIL EXPOSITION]
+We're going to run a few tests, Austin. Don't worry, old friend, we'll get to the bottom of this.
+ພວກເຮົາຈະເຮັດການທົດສອບສອງສາມຄັ້ງ, ໂອສຕິນ. ຢ່າກັງວົນ
+, ເພື່ອນເກົ່າ, ພວກເຮົາຈະໄປສູ່ລຸ່ມຂອງເລື່ອງນີ້.
+
+181
+00:11:59,200 --> 00:12:05,150
+[NURSE]
+Excuse me, Mr. Powers, I need to give you a sponge bath before we begin the test.
+ຂໍໂທດເດີ, ທ້າວພາວສ໌, ຂ້ອຍຕ້ອງໃຫ້ເຈົ້າອາບນ້
+ໍາ ສະປອນກ່ອນທີ່ພວກເຮົາຈະເລີ່ມຕົ້ນການທົດສອບ.
+
+182
+00:12:05,650 --> 00:12:09,850
+[AUSTIN]
+Alright, miss, just let me finish this article on the Suez crisis.
+ດີແລ້ວ, ນາງ,
+ພຽງແຕ່ປ່ອຍໃຫ້ຂ້ອຍສິ້ນສຸດບົດຂຽນນີ້ກ່ຽວກັບວິກິດການຊູເອສ.
+
+183
+00:12:10,350 --> 00:12:12,350
+[AUSTIN]
+What's going on?
+ເກີດຫຍັງຂຶ້ນ?
+
+184
+00:12:12,850 --> 00:12:14,850
+[BASIL EXPOSITION]
+Alright, everyone, we're done.
+ດີແລ້ວ, ທຸກຄົນ, ພວກເຮົາເຮັດແລ້ວ.
+
+185
+00:12:15,350 --> 00:12:17,450
+[AUSTIN]
+But the test hasn't even started!
+ແຕ່ການທົດສອບຍັງບໍ່ທັນເລີ່ມຕົ້ນເລີຍ!
+
+186
+00:12:17,950 --> 00:12:23,950
+[BASIL EXPOSITION]
+Agent Haggerty was the test, Austin. Not only were you actually reading an article in that Playboy, but a candy-stripe nurse offering to give you a sponge bath didn't so much as turn your head.
+ຕົວແທນຮາກເກີຕີ້ແມ່ນການທົດສອບ, ໂອສຕິນ. ບໍ່ພຽງແຕ່ເຈົ້າ ກໍາ ລັງອ່ານບົດຂຽນໃນ Playboy ນັ້ນເທົ່ານັ້ນ
+, ແຕ່ພະຍາບານທີ່ມີແຊກແຊງທີ່ສະ ເຫນີ ໃຫ້ເຈົ້າອາບນ້ ໍາ ສະປອງຈໍບໍ່ໄດ້ຫັນຫົວຂອງທ່ານຫຼາຍປານໃດ.
+
+187
+00:12:24,450 --> 00:12:30,400
+[AUSTIN]
+Wait, I can explain, man! I was going to shag her but the article was so fascinating--
+ລໍຖ້າ, ຂ້ອຍສາມາດອະທິບາຍໄດ້, ຜູ້ຊາຍ!
+ຂ້ອຍຈະຟັກນາງແຕ່ບົດຂຽນທີ່ ຫນ້າ ສົນໃຈຫຼາຍ -
+
+188
+00:12:30,900 --> 00:12:34,750
+[BASIL EXPOSITION]
+I'm sorry, Austin, I'm afraid it's true: you've lost your mojo.
+ຂ້ອຍຂໍໂທດ, ໂອສຕິນ, ຂ້ອຍຢ້ານວ່າມັນເປັນຄວາມຈິງ
+: ເຈົ້າໄດ້ສູນເສຍໂມຈີຂອງທ່ານ.
+
+189
+00:12:35,250 --> 00:12:41,250
+[AUSTIN]
+Without my mojo, I'm useless to the Ministry and to Her Majesty.  I think it's time to retire.
+ໂດຍບໍ່ມີໂມຈີຂອງຂ້ອຍ, ຂ້ອຍບໍ່ມີປະໂຫຍດຕໍ່ກະຊວງແລະຕໍ່ເຈົ້າພາບຂອງນາງ
+. ຂ້ອຍຄິດວ່າມັນເຖິງເວລາທີ່ຈະບໍານານ.
+
+190
+00:12:41,750 --> 00:12:45,950
+[BASIL EXPOSITION]
+I'm afraid that's not possible, Austin. You see, Dr. Evil has returned.
+ຂ້ອຍຢ້ານວ່າມັນບໍ່ສາມາດເຮັດໄດ້, ໂອສຕິນ
+. ເຈົ້າເຫັນແລ້ວ, ດຣ Evil ໄດ້ກັບມາແລ້ວ.
+
+191
+00:12:46,450 --> 00:12:48,450
+[AUSTIN]
+Again?
+ອີກເທື່ອຫນຶ່ງບໍ?
+
+192
+00:12:48,950 --> 00:12:50,950
+[BASIL EXPOSITION]
+Again.
+ອີກເທື່ອຫນຶ່ງ
+
+193
+00:12:51,450 --> 00:12:55,300
+[BASIL EXPOSITION]
+We have evidence that Dr. Evil has developed a time machine.
+ພວກເຮົາມີຫຼັກຖານວ່າ ດຣ Evil ໄດ້ພັດທະນາເຄື່ອງຈັກເວລາ.
+
+194
+00:12:55,800 --> 00:13:01,800
+[BASIL EXPOSITION]
+Our researcher noticed that these photos from the archives have changed. That means Dr. Evil is traveling back in time and creating alliances with each decade's most despised villains.
+ນັກຄົ້ນຄວ້າຂອງພວກເຮົາໄດ້ສັງເກດເຫັນວ່າຮູບພາບເຫຼົ່ານີ້ຈາກເອກະສານໄດ້ປ່ຽນແປງ. ນັ້ນ ຫມາຍ ຄວາມວ່າດຣ
+Evil ກໍາ ລັງເດີນທາງກັບຄືນໄປບ່ອນໃນເວລາແລະສ້າງພັນທະມິດກັບຄົນຮ້າຍທີ່ຖືກກຽດຊັງທີ່ສຸດໃນແຕ່ລະສິບປີ.
+
+195
+00:13:02,300 --> 00:13:06,150
+[AUSTIN]
+I can't read in the car. I get a bit vomy.
+ຂ້ອຍອ່ານບໍ່ໄດ້ໃນລົດ. ຂ້ອຍໂຊກຮ້າຍເລັກນ້ອຍ.
+
+196
+00:13:06,650 --> 00:13:08,650
+[AUSTIN]
+Got it. I almost gipped.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ຂ້ອຍເກືອບຈະຈິບ.
+
+197
+00:13:09,150 --> 00:13:15,150
+[BASIL EXPOSITION]
+Our data indicates that Dr. Evil is in the year 1969. Luckily, we also have a time travel device. After years of research we've developed a machine that will transport you back to the Sixties.
+ຂໍ້ມູນຂອງພວກເຮົາຊີ້ໃຫ້ເຫັນວ່າ ດຣ Evil ແມ່ນໃນປີ 1969. ໂຊກດີ, ພວກເຮົາຍັງມີອຸປະກອນການເດີນທາງໃນເວລາ
+. ຫຼັງຈາກການຄົ້ນຄວ້າຫຼາຍປີພວກເຮົາໄດ້ພັດທະນາເຄື່ອງຈັກທີ່ຈະຂົນສົ່ງທ່ານກັບຄືນໄປບ່ອນໃນສິບປີ.
+
+198
+00:13:15,650 --> 00:13:18,450
+[AUSTIN]
+But Basil, isn't that the new Volkswagen Beetle?
+ແຕ່ບາຊີລ, ນັ້ນບໍ່ແມ່ນ Volkswagen Beetle ໃຫມ່ບໍ?
+
+199
+00:13:18,950 --> 00:13:21,400
+[BASIL EXPOSITION]
+That's what they'd like you to believe.
+ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາຢາກໃຫ້ເຈົ້າເຊື່ອ.
+
+200
+00:13:21,900 --> 00:13:27,900
+[AUSTIN]
+So, Basil, if I travel back to 1969 and I was frozen in 1967, I could go look at my frozen self. But, if I'm still frozen in 1967, how could I have been unthawed in the 90's and traveled back to the Sixties?  Oh, no, I've gone cross-eyed.
+ສະນັ້ນ, ບາຊີລ, ຖ້າຂ້ອຍເດີນທາງກັບຄືນໄປບ່ອນປີ 1969 ແລະຂ້ອຍຖືກກ້ອນໃນປີ 1967, ຂ້ອຍສາມາດໄປເບິ່ງຕົວເອງທີ່ກ້ອນຂອງຂ້ອຍໄດ້. ແຕ່,
+ຖ້ານຂ້ອຍຍັງກ້ອນຢູ່ໃນ 1967, ຂ້ອຍອາດຈະຖືກ untwitted ໃນຊຸມປີ 90 ແລະເດີນທາງກັບມາຮອດຊຸມປີຫົກສິບໄດ້ແນວໃດ? ໂອ້, ບໍ່, ຂ້ອຍໄດ້ກາຍເປັນຕາຂ້າມ.
+
+201
+00:13:28,400 --> 00:13:32,600
+[BASIL EXPOSITION]
+I suggest you don't worry about those things and just enjoy yourself.
+ຂ້ອຍແນະ ນໍາ
+ໃຫ້ເຈົ້າບໍ່ກັງວົນກ່ຽວກັບສິ່ງເຫຼົ່ານັ້ນແລະພຽງແຕ່ເພີດເພີນກັບຕົວເອງ.
+
+202
+00:13:33,100 --> 00:13:39,100
+[AUSTIN]
+This is smashing Basil. I'll go back to the Sixties, recharge my mojo, defeat Dr. Evil and be back in time for tea.
+ນີ້ແມ່ນການ ທໍາ ລາຍບາຊີລ. ຂ້ອຍຈະກັບຄືນໄປບ່ອນຊຸມປີສິບ,
+ຟື້ນຟູໂມຈີຂອງຂ້ອຍ, ເອົາຊະນະດຣ Evil ແລະກັບມາໃນເວລາ ສໍາ ລັບຊາ.
+
+203
+00:13:39,600 --> 00:13:41,600
+[BASIL EXPOSITION]
+Good luck, Austin.
+ໂຊກດີ, ໂອສຕິນ.
+
+204
+00:13:42,100 --> 00:13:44,900
+[AUSTIN]
+Luck has nothing to do with it, Basil.
+ໂຊກດີບໍ່ມີຫຍັງກ່ຽວຂ້ອງກັບມັນ, ບາຊີລ.
+
+205
+00:13:45,400 --> 00:13:48,200
+[AUSTIN]
+Sorry.  Swinging Sixties, here I come, baby, yeah!
+ຂໍໂທດ. ສະວິງສິບປີ, ຂ້ອຍມາແລ້ວ, ແມ, ແມ່ນແລ້ວ!
+
+206
+00:13:48,700 --> 00:13:50,700
+[AUSTIN]
+I feel better already, man!
+ຂ້ອຍຮູ້ສຶກດີຂຶ້ນແລ້ວ, ຜູ້ຊາຍ!
+
+207
+00:13:51,200 --> 00:13:57,200
+[ARYAN ASSASSIN.]
+PULL BACK FURTHER to reveal a beautiful MYSTERIOUS WOMAN watching both of them. From this distance we can't tell who she is.
+ດຶງກັບຄືນໄປບ່ອນຕໍ່ໄປເພື່ອເປີດເຜີຍແມ່ຍິງທີ່ລຶກລັບທີ່ສວຍງາມທີ່ເບິ່ງທັງສອງຄົນ
+. ຈາກໄລຍະຫ່າງນີ້ພວກເຮົາບໍ່ສາມາດບອກວ່ານາງເປັນໃຜໄດ້.
+
+208
+00:13:57,700 --> 00:13:59,700
+[AUSTIN]
+Alright, baby, a swinging shin-dig!
+ດີແມ, ການຂຸດຄົ້ນ shin-swinging!
+
+209
+00:14:00,200 --> 00:14:06,200
+["SEXUAL REVOLUTION."]
+Austin begins singing and a choreographed musical number begins involving the outdoor crowd a la Bob Fosse's Sweet Charity or Hair.
+ໂອສຕິນເລີ່ມຮ້ອງເພງ ແລະ ເລກດົນຕີທີ່ຖືກຄໍເຣໂອແກຣມເລີ່ມຕົ້ນທີ່ກ່ຽວຂ້ອງກັບຝູງຊົນກາງແຈ້ງ
+a la Bob Fosse's Sweet Charity ຫຼື Hair.
+
+210
+00:14:06,700 --> 00:14:08,800
+[JUST DON'T SEEM TO CARE.]
+Hip-thrusting young MOD FREAKS Fosse-hump rhythmically.
+ການກະຕຸ້ນໂມດໄວຫນຸ່ມໂຊກຮ້າຍໂຟສສ໌-ໂຮມສ໌ຢ່າງໄຕມິກ.
+
+211
+00:14:09,300 --> 00:14:14,900
+[THAN THE SWORD]
+Austin does various groovy dance moves like THE ROCK 'EM SOCK 'EM ROBOT and THE HEAVYWEIGHT.
+ໂອສຕິນເຮັດການເຄື່ອນໄຫວເຕັ້ນທີ່ສວຍງາມຕ່າງໆເຊັ່ນ
+: ໂຣບອດຫີນ'Em Sock'Em ແລະ ນ້ ໍາ ຫນັກ ຫນັກ.
+
+212
+00:14:15,400 --> 00:14:18,900
+[OUT OF DAAAAAAAAAAATE!]
+Austin holds the note an improbably long time, arms outstretched.
+ໂອສຕິນຖືບົດບັນທຶກເປັນເວລາດົນນານທີ່ບໍ່ເປັນໄປໄດ້, ແຂນຍືດອອກ.
+
+213
+00:14:19,400 --> 00:14:25,400
+[IT'S THE SIXTIES!]
+The SONG ENDS and all the dancers end up on one knee with their arms outstretched, panting. Austin breathes heavily and smiles smugly like Michael Flatley, Lord of the Dance.
+ເພງສິ້ນສຸດລົງແລະນັກເຕັ້ນທັງ ຫມົດ ຈົບລົງເທິງເຂົ່າດຽວດ້ວຍແຂນຍືດອອກ, ຫາຍໃຈ.
+ໂອສຕິນຫາຍໃຈຢ່າງຫນັກແລະມ່ວນຊື່ນດ້ວຍຄວາມພູມໃຈຄືກັບໄມເກວ ຟລາດລີ, ພຣະຜູ້ເປັນເຈົ້າຂອງເຕັ້ນ.
+
+214
+00:14:25,900 --> 00:14:27,900
+[FELICITY]
+Care for a ride?
+ເຈົ້າຢາກຂັບລົດບໍ?
+
+215
+00:14:28,400 --> 00:14:30,400
+[AUSTIN]
+That's my Beetle, baby.
+ນັ້ນແມ່ນແມງໄມ້ຂອງຂ້ອຍ, ແມ.
+
+216
+00:14:30,900 --> 00:14:33,000
+[FELICITY]
+It was your Beetle. Get in.
+ມັນເປັນແມງໄມ້ຂອງເຈົ້າ. ເຂົ້າມາ.
+
+217
+00:14:33,500 --> 00:14:35,500
+[FELICITY]
+Austin Powers, I presume?
+ຂ້ອຍຄິດວ່າໂອສຕິນ ພູເວີສ໌ບໍ?
+
+218
+00:14:36,000 --> 00:14:38,100
+[AUSTIN]
+Powers by name, Powers by reputation.
+ອໍານາດຕາມຊື່, ອໍານາດໂດຍຊື່ສຽງ.
+
+219
+00:14:38,600 --> 00:14:41,750
+[FELICITY]
+Felicity Shagwell, CIA. Shagwell by name, Shag-very-Well by reputation.
+ຟາລີສຕິ ຊາກເວລ, CIA. Shagwell ໂດຍຊື່, Shag- ດີຫຼາຍໂດຍຊື່ສຽງ.
+
+220
+00:14:42,250 --> 00:14:44,250
+[AUSTIN]
+Crazy, baby!
+ໂຊກຮ້າຍແມ!
+
+221
+00:14:44,750 --> 00:14:46,750
+[FELICITY]
+Grab the wheel, would you?
+ເຈົ້າເອົາລົດຈັກ, ແມ່ນບໍ?
+
+222
+00:14:47,250 --> 00:14:49,250
+[ASSASSIN]
+Ahhhhhhhh!
+ອາຮ້ຮ້!
+
+223
+00:14:49,750 --> 00:14:53,950
+[FELICITY]
+Well, Austin, I think this time you may have met your match.
+ດີ, ໂອສຕິນ, ຂ້ອຍຄິດວ່າໃນຄັ້ງນີ້ເຈົ້າອາດຈະພົບກັບຄູ່ແຂ່ງຂອງທ່ານ.
+
+224
+00:14:54,450 --> 00:14:58,300
+[AUSTIN]
+Oh, I've beaten Dr. Evil before, and I'll beat him again.
+ໂອ້, ຂ້ອຍເຄີຍເອົາຊະນະດຣ Evil ກ່ອນແລ້ວ
+, ແລະຂ້ອຍຈະເອົາຊະນະລາວອີກຄັ້ງ.
+
+225
+00:14:58,800 --> 00:15:00,800
+[FELICITY]
+I was talking about me.
+ຂ້ອຍເວົ້າກ່ຽວກັບຕົວເອງ.
+
+226
+00:15:01,300 --> 00:15:03,400
+[AUSTIN]
+Welcome to my shag pad, baby.
+ຍິນດີຕ້ອນຮັບເຂົ້າໄປໃນຈານສັກຢາຂອງຂ້ອຍ, ແມ.
+
+227
+00:15:03,900 --> 00:15:05,900
+[AUSTIN]
+Care for something to drink?
+ເຈົ້າຢາກດື່ມຫຍັງບໍ?
+
+228
+00:15:06,400 --> 00:15:08,400
+[AUSTIN]
+Or perhaps something to read?
+ຫຼືບາງທີບາງສິ່ງບາງຢ່າງທີ່ຈະອ່ານ?
+
+229
+00:15:08,900 --> 00:15:11,350
+[AUSTIN]
+How about a hot cup of coffee?
+ຈະເປັນແນວໃດກັບກາເຟຮ້ອນ?
+
+230
+00:15:11,850 --> 00:15:13,950
+[FELICITY]
+Yes, I rather fancy a grind.
+ແມ່ນແລ້ວ, ຂ້ອຍມັກການຕັດຫຍິບຫຼາຍ.
+
+231
+00:15:14,450 --> 00:15:16,450
+[AUSTIN]
+Oh, Behave!
+ໂອ້, ປະພຶດຕົວ!
+
+232
+00:15:16,950 --> 00:15:19,750
+[AUSTIN]
+Would you like a... mas-sage? A sensssual mas-sage?
+ເຈົ້າຢາກເປັນ... ຜູ້ຊ່ຽວຊານມະຫາຊົນບໍ? ຜູ້ຊົມຊື່ນທີ່ຮູ້ສຶກບໍ?
+
+233
+00:15:20,250 --> 00:15:22,250
+[AUSTIN]
+How does that feel, baby?
+ມັນຮູ້ສຶກແນວໃດແມ?
+
+234
+00:15:22,750 --> 00:15:24,750
+[FELICITY]
+Mmm, lower.
+ມມ, ຕໍ່າກວ່າ.
+
+235
+00:15:25,250 --> 00:15:27,700
+[HOW DOES THAT FEEL, BABY?]
+They laugh. Austin continues to massage her.
+ພວກເຂົາມ່ວນຊື່ນ. ໂອສຕິນສືບຕໍ່ມາມາຊານາງ.
+
+236
+00:15:28,200 --> 00:15:30,200
+[FELICITY]
+Wait, something's itching me.
+ລໍຖ້າ, ບາງສິ່ງບາງຢ່າງ ກໍາ ລັງກຽດຊັງຂ້ອຍ.
+
+237
+00:15:30,700 --> 00:15:32,700
+[FELICITY]
+That's better.
+ນັ້ນດີກວ່າ.
+
+238
+00:15:33,200 --> 00:15:35,200
+[AUSTIN]
+Crikey!!!
+ຄຣີເກີ!!!
+
+239
+00:15:35,700 --> 00:15:37,700
+[AUSTIN]
+Sorry.
+ຂໍໂທດ.
+
+240
+00:15:38,200 --> 00:15:41,350
+[AUSTIN]
+Hello, anyone home? C'mon lads, do it for England.
+ສະບາຍດີ, ມີໃຜຢູ່ເຮືອນບໍ? ມາແລ້ວ ພວກຜູ້ຊາຍ, ເຮັດມັນ ສໍາ ລັບອັງກິດ.
+
+241
+00:15:41,850 --> 00:15:45,000
+[FELICITY]
+Oh, that was so relaxing. Felicity stretches very sexily.
+ໂອ້, ນັ້ນແມ່ນຄວາມຜ່ອນຄາຍຫຼາຍ. ຟີລິສຕິຍຍືດອອກຢ່າງສວຍງາມຫຼາຍ.
+
+242
+00:15:45,500 --> 00:15:47,950
+[AUSTIN]
+Would you 'like to see my etchings?
+ເຈົ້າຢາກເຫັນຮູບແຕ້ມຂອງຂ້ອຍບໍ?
+
+243
+00:15:48,450 --> 00:15:50,550
+[FELICITY]
+I think I'm ready for bed.
+ຂ້ອຍຄິດວ່າຂ້ອຍພ້ອມແລ້ວທີ່ຈະນອນ.
+
+244
+00:15:51,050 --> 00:15:53,050
+[AUSTIN]
+I'll get you some PJs.
+ຂ້ອຍຈະເອົາ PJ ບາງຢ່າງໃຫ້ເຈົ້າ.
+
+245
+00:15:53,550 --> 00:15:55,550
+[FELICITY]
+No, I'm ready for bed.
+ບໍ່, ຂ້ອຍພ້ອມແລ້ວທີ່ຈະນອນ.
+
+246
+00:15:56,050 --> 00:15:58,850
+[AUSTIN]
+Oh, you'll want to clean your teeth then.
+ໂອ້, ເຈົ້າຈະຢາກເຮັດຄວາມສະອາດແຂ້ວຂອງທ່ານຫຼັງຈາກນັ້ນ.
+
+247
+00:15:59,350 --> 00:16:02,500
+[FELICITY]
+No, I want to have sex with you, Austin.
+ບໍ່, ຂ້ອຍຢາກມີເພດສໍາພັນກັບເຈົ້າ, ໂອສຕິນ.
+
+248
+00:16:03,000 --> 00:16:05,000
+[AUSTIN]
+Hello Vicar!
+ສະບາຍດີ Vicar!
+
+249
+00:16:05,500 --> 00:16:11,500
+[FELICITY]
+I've studied everything about you- your methods, your accomplishments, your preferences. You're the reason I became a spy. Now, I've waited two years to meet you, so I say we get busy making up for lost time.
+ຂ້ອຍໄດ້ສຶກສາທຸກຢ່າງກ່ຽວກັບເຈົ້າ - ວິທີການຂອງທ່ານ, ຜົນສໍາເລັດຂອງທ່ານ, ຄວາມມັກຂອງທ່ານ. ເຈົ້າເປັນເຫດຜົນທີ່ຂ້ອຍກາຍເປັນນັກສືບ
+. ດຽວນີ້, ຂ້ອຍໄດ້ລໍຖ້າສອງປີເພື່ອພົບກັບເຈົ້າ, ສະນັ້ນຂ້ອຍເວົ້າວ່າພວກເຮົາຈະມີວຽກເຮັດງານທໍາເພື່ອຟື້ນຟູເວລາທີ່ສູນເສຍ.
+
+250
+00:16:12,000 --> 00:16:18,000
+[AUSTIN]
+Felicity, I used to think that way, too, but I guess... I guess I've changed.  Not to make a short story long, or to ramble on and on, or to keep talking in a repetitive manner ad infinitum until it becomes impossible to remember what I was talking about in the first place, but- where was I?
+ຟາລີສຕິ, ຂ້ອຍເຄີຍຄິດແບບນັ້ນເຊັ່ນກັນ, ແຕ່ຂ້ອຍຄິດວ່າ... ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ປ່ຽນແປງແລ້ວ. ບໍ່ແມ່ນເພື່ອເຮັດໃຫ້ເລື່ອງສັ້ນຍາວ, ຫຼືເພື່ອຍ່າງໄປແລະຕໍ່ໄປ
+, ຫຼືທີ່ຈະສືບຕໍ່ເວົ້າໃນວິທີທີ່ຊໍ້າຊ້ອນຈົນກວ່າມັນຈະເປັນໄປບໍ່ໄດ້ທີ່ຈະຈື່ສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງເວົ້າກ່ຽວກັບໃນອັນດັບ ທໍາ ອິດ, ແຕ່ - ຂ້ອຍຢູ່ໃສ?
+
+251
+00:16:18,500 --> 00:16:22,350
+[AUSTIN]
+Oh yes. Felicity, I can't shag you. I've lost my mojo.
+ໂອ້ ແມ່ນແລ້ວ. ຟີລິສຕິ, ຂ້ອຍບໍ່ສາມາດຟັກເຈົ້າໄດ້
+. ຂ້ອຍໄດ້ສູນເສຍໂມຈີຂອງຂ້ອຍແລ້ວ.
+
+252
+00:16:22,850 --> 00:16:24,850
+[FELICITY]
+Oh.
+ໂອ້.
+
+253
+00:16:25,350 --> 00:16:30,250
+[AUSTIN]
+I thought coming back to the Sixties would bring it back, but it hasn't.
+ຂ້ອຍຄິດວ່າການກັບຄືນໄປບ່ອນຊຸມປີຫົກສິບຈະເຮັດໃຫ້ມັນກັບມາ
+, ແຕ່ມັນບໍ່ໄດ້.
+
+254
+00:16:30,750 --> 00:16:36,750
+[FELICITY]
+Austin, don't worry. I know just the man to help you. He's my guru. Ringo recommended him and he's the best.
+ໂອສຕິນ, ຢ່າກັງວົນ. ຂ້ອຍຮູ້ຈັກຜູ້ຊາຍທີ່ພຽງພໍທີ່ຈະຊ່ວຍເຈົ້າ
+. ລາວເປັນຄູຣູຂອງຂ້ອຍ. ຣິງໂກ້ແນະ ນໍາ ລາວແລະລາວດີທີ່ສຸດ.
+
+255
+00:16:37,250 --> 00:16:39,700
+[AUSTIN]
+I'll warm up the Jumbo Jet, baby!
+ຂ້ອຍຈະອົບອຸ່ນເຮືອບິນຈູມໂບ, ແມ!
+
+256
+00:16:40,200 --> 00:16:42,300
+[FELICITY]
+There he is. That's my guru.
+ລາວຢູ່ບ່ອນນັ້ນ. ນັ້ນແມ່ນຄູຣູຂອງຂ້ອຍ.
+
+257
+00:16:42,800 --> 00:16:45,600
+[FELICITY]
+Guru, I'd like you to meet Austin Powers.
+ຄູຣູ, ຂ້ອຍຢາກໃຫ້ເຈົ້າພົບກັບໂອສຕິນ ພູເວີສ໌.
+
+258
+00:16:46,100 --> 00:16:48,100
+[AUSTIN]
+How are you baby?
+ເຈົ້າເປັນແນວໃດແມ?
+
+259
+00:16:48,600 --> 00:16:53,150
+[GURU PITKA]
+My chakras are aligned and I am in a perfect state of equipoise.
+ຊາກຣາຂອງຂ້ອຍຖືກສອດຄ່ອງແລະຂ້ອຍຢູ່ໃນສະພາບຄວາມສົມດຸນທີ່ສົມບູນແບບ.
+
+260
+00:16:53,650 --> 00:16:58,200
+[AUSTIN]
+Good on ya. I don't know what that means but it sounds fab.
+ດີຕໍ່ເຈົ້າ.
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນຫມາຍຄວາມວ່າແນວໃດແຕ່ມັນເບິ່ງຄືວ່າດີເລີດ.
+
+261
+00:16:58,700 --> 00:17:00,700
+[FELICITY]
+Guru, we need some advice.
+ຄູຣູ, ພວກເຮົາຕ້ອງການຄໍາແນະນໍາບາງຢ່າງ.
+
+262
+00:17:01,200 --> 00:17:07,200
+[GURU PITKA]
+Hold your horses and any other beasts- of burden. I must lead my disciples in meditation and then I will help you.
+ຈັບມ້າຂອງທ່ານແລະສັດອື່ນໆໃດໆ - ຂອງພາສີ.
+ຂ້ອຍຕ້ອງນໍາພາພວກສາວົກຂອງຂ້ອຍໃນການຈິນຕະນາການແລະຫຼັງຈາກນັ້ນຂ້ອຍຈະຊ່ວຍເຈົ້າ.
+
+263
+00:17:07,700 --> 00:17:09,700
+[DISCIPLES]
+Ahhhhhh!
+ອາຮ້!
+
+264
+00:17:10,200 --> 00:17:16,200
+[GURU PITKA]
+My name is the Guru Pitka. I am a spiritual teacher and I have combined many disparate disciplines into a unified movement of human potentiality and equipoise that I learned from my guru, the late Guru Shastri, a chaste man who died mysteriously of a disease that strangely had all the hallmarks of syphilis. He would say to me, Sparky, love is all, life is breath.
+ຂ້ອຍຊື່ວ່າ Guru Pitka. ຂ້ອຍເປັນຄູສອນທາງວິນຍານແລະຂ້ອຍໄດ້ປະສົມປະສານວິຊາການທີ່ແຕກຕ່າງກັນຫຼາຍຢ່າງເຂົ້າໄປໃນການເຄື່ອນໄຫວທີ່ເປັນເອກະພາບຂອງຄວາມສາມາດຂອງມະນຸດແລະຄວາມສົມດຸນທີ່ຂ້ອຍໄດ້ຮຽນຮູ້ຈາກ
+guru ຂອງຂ້ອຍ, ຜູ້ເສຍຊີວິດ Guru Shastri, ຜູ້ຊາຍທີ່ບໍລິສຸດທີ່ຕາຍຢ່າງລຶກລັບຈາກພະຍາດທີ່ແປກໃຈມີເຄື່ອງ ຫມາຍ ຂອງ syphilis ທັງຫມົດ. ລາວຈະບອກຂ້ອຍວ່າ, Sparky, ຄວາມຮັກແມ່ນທຸກຢ່າງ, ຊີວິດແມ່ນຫາຍໃຈ.
+
+265
+00:17:16,700 --> 00:17:18,700
+[DISCIPLES]
+Ahhhhhh!
+ອາຮ້!
+
+266
+00:17:19,200 --> 00:17:25,200
+[GURU PITKA]
+Now, perhaps you are wondering where I got the nickname Sparky.  Well, when we were young we used to play a game called "Stinkmop". We would urinate into a bucket, dip a mop into it, and play tag. I did not care for "Stinkmop" and a very wise old man said to me 'oh lighten up, Sparky', and I don't know, the name kind of stuck.
+ດຽວນີ້, ບາງທີເຈົ້າ ກໍາ ລັງສົງໄສວ່າຂ້ອຍໄດ້ຮັບນາມສະກຸນ Sparky ຈາກໃສ. ດີ, ເມື່ອພວກເຮົາເປັນໄວຫນຸ່ມພວກເຮົາເຄີຍຫຼິ້ນເກມທີ່ເອີ້ນວ່າ"Sparkmop". ພວກເຮົາຈະສູບນ້ ໍາ
+ໃນຖັງ, ຖິ້ມ mop ໃນມັນ, ແລະຫຼິ້ນແທກ. ຂ້ອຍບໍ່ສົນໃຈ"Sminkmop" ແລະຜູ້ເຖົ້າທີ່ສະຫຼາດຫຼາຍບອກຂ້ອຍວ່າ' ໂອ້ ແສງສະຫວ່າງ, Sparky', ແລະຂ້ອຍບໍ່ຮູ້, ຊື່ບາງຢ່າງຕິດຢູ່.
+
+267
+00:17:25,700 --> 00:17:27,700
+[DISCIPLES]
+Ahhhhhhhh...
+ອາຮ້ຮ້...
+
+268
+00:17:28,200 --> 00:17:34,200
+[GURU PITKA]
+Now, the reason I am a spiritualist instead of a therapist is that 'therapist' often becomes 'the rapist' and that will not help us attain potentiality. Now what is potentiality? It is the ability to achieve those goals that we wish to achieve for ourselves. People often say to me that they feel "nowhere", and I am going to change that to "Now here."
+ດຽວນີ້, ເຫດຜົນທີ່ຂ້ອຍເປັນນັກຈິດວິນຍານແທນທີ່ຈະເປັນນັກປິ່ນປົວແມ່ນວ່າ' ນັກປິ່ນ ປົວ' ມັກຈະກາຍເປັນ' ຜູ້ຂົ່ມຂືນ' ແລະ ນັ້ນຈະບໍ່ຊ່ວຍໃຫ້ພວກເຮົາບັນລຸຄວາມສາມາດ. ດຽວນີ້ຄວາມສາມາດແມ່ນຫຍັງ
+? ມັນແມ່ນຄວາມສາມາດໃນການບັນລຶກເປົ້າຫມາຍເຫຼົ່ານັ້ນທີ່ພວກເຮົາຢາກບັນລຸມັນເອງ. ຄົນມັກບອກຂ້ອຍວ່າພວກເຂົາຮູ້ສຶກວ່າ"ບໍ່ມີບ່ອນໃດເລີຍ", ແລະຂ້ອຍຈະປ່ຽນມັນເປັນ" ດຽວນີ້ຢູ່ນີ້."
+
+269
+00:17:34,700 --> 00:17:36,700
+[DISCIPLES]
+Ahhhhhhh...
+ອາຮ້...
+
+270
+00:17:37,200 --> 00:17:43,200
+[GURU PITKA]
+And you have many assumptions about your goals, but when you "assume" You make an "ass" out of "u" and "me".
+ແລະເຈົ້າມີຄວາມຄິດເຫັນຫຼາຍຢ່າງກ່ຽວກັບເປົ້າຫມາຍຂອງທ່ານ,
+ແຕ່ເມື່ອເຈົ້າ"ຄິດເຫັນ" ເຈົ້າເຮັດໃຫ້"ບາກ" ຈາກ"ເຈົ້າ" ແລະ"ຂ້ອຍ".
+
+271
+00:17:43,700 --> 00:17:45,700
+[DISCIPLES]
+Ahhhhhhh....
+ອາຮ້...
+
+272
+00:17:46,200 --> 00:17:52,200
+[GURU PITKA]
+The being, or that which we call 'ourselves', is not the tinker.  It is not the taughts. It is the Gap between the tinker and the taughts! We are not our mind, we are not our body, we are the Gap!
+ສິ່ງທີ່ມີຢູ່, ຫຼືສິ່ງທີ່ພວກເຮົາເອີ້ນວ່າ'ຕົວເອງ', ບໍ່ແມ່ນຜູ້ເຮັດເຄື່ອງຈັກ. ມັນບໍ່ແມ່ນການສອນ.
+ມັນແມ່ນຄວາມແຕກແຍກລະຫວ່າງຜູ້ສ້າງເຄື່ອງຈັກແລະການສອນ! ພວກເຮົາບໍ່ແມ່ນຈິດໃຈຂອງພວກເຮົາ, ພວກເຮົາບໍ່ແມ່ນຮ່າງກາຍຂອງພວກເຮົາ, ພວກເຮົາຍັງ Gap!
+
+273
+00:17:52,700 --> 00:17:54,700
+[DISCIPLES]
+Ahhhhh...
+ອາຮ້...
+
+274
+00:17:55,200 --> 00:18:01,200
+[GURU PITKA]
+The heart of the matter is that you are the heart of the matter.  There is no "I" in "team". Beer before liquor, never sicker. Don't take a wooden nickel.  If your pipe is short and your pump is weak, you better stand close or you'll piss on your feet. He who goes to bed with itchy bum wakes up with smelly finger.
+ຫົວໃຈຂອງເລື່ອງແມ່ນວ່າເຈົ້າເປັນຫົວໃຈຂອງບັນຫາ. ບໍ່ມີ"ຂ້ອຍ" ໃນ"ທີມງານ". ເບຍກ່ອນເຫຼົ້າເຫຼົ້າ, ບໍ່ເຄີຍເຈັບປ່ວຍຫຼາຍຂຶ້ນ. ຢ່າເອົານິກເກວໄມ້.
+ຖ້າທໍ່ຂອງທ່ານສັ້ນແລະປອມຂອງທ່ານອ່ອນແອ, ເຈົ້າດີກວ່າຈະຢືນໃກ້ຊິດຫຼືເຈົ້າຈະສູບໃສ່ຕີນຂອງທ່ານ. ຜູ້ທີ່ໄປນອນດ້ວຍກະຕ່າທີ່ສິວຕື່ນດ້ວຍນິ້ວມືທີ່ກິ່ນຫອມ.
+
+275
+00:18:01,700 --> 00:18:03,700
+[DISCIPLES]
+Ahhhhh...
+ອາຮ້...
+
+276
+00:18:04,200 --> 00:18:10,200
+[GURU PITKA]
+Finally, the path to spiritual awakening requires the death of ego. Leggo of my ego! Let us end with the mantra: Om Ay Vant Yu Uh... Mo Ay Vant Yu Uh... Mo Ay Vant Yu Hu.
+ສຸດທ້າຍ, ເສັ້ນທາງໄປສູ່ການຕື່ນຕົວທາງວິນຍານຮຽກຮ້ອງໃຫ້ຄວາມຕາຍຂອງອ Ego. Leggo ຂອງອ Ego ຂອງຂ້ອຍ
+! ໃຫ້ພວກເຮົາສິ້ນສຸດລົງດ້ວຍ mantra: ໂອມ ໄອ Vant ຢູ ອູ... ໂມ ໄວ ວານຕ໌ ຢູອູ... Mo ໄວວານທິວຮູ.
+
+277
+00:18:10,700 --> 00:18:15,950
+[DISCIPLES]
+Om Ay Vant Yu Uh... Mo Ay Vant Yu Uh... Mo Ay Vant Yu Hu.
+ໂອມ ໄອ ວານຕ໌ ຢູ ອູ... ໂມ ໄວ ວານທຸ ອູອູ... ມູ ໄວວານທູ ຮູ.
+
+278
+00:18:16,450 --> 00:18:19,600
+[GURU PITKA]
+Go with God, and pay at the door please.
+ໄປກັບພຣະເຈົ້າ, ແລະຈ່າຍເງິນຢູ່ປະຕູຂໍຮ້ອງ.
+
+279
+00:18:20,100 --> 00:18:22,100
+[GURU PITKA]
+How can I help you?
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ແນວໃດ?
+
+280
+00:18:22,600 --> 00:18:24,600
+[AUSTIN]
+Guru, I'm having trouble performing.
+ຄູຣູ, ຂ້ອຍມີຄວາມຫຍຸ້ງຍາກໃນການສະແດງ.
+
+281
+00:18:25,100 --> 00:18:27,100
+[GURU PITKA]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+282
+00:18:27,600 --> 00:18:31,100
+[AUSTIN]
+You know- my bits and pieces are a bit sleepy.
+ເຈົ້າຮູ້ແລ້ວ - ສ່ວນແລະສ່ວນຂອງຂ້ອຍນອນບາງຢ່າງ.
+
+283
+00:18:31,600 --> 00:18:33,600
+[GURU PITKA]
+I'm not understanding.
+ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+284
+00:18:34,100 --> 00:18:37,250
+[AUSTIN]
+I've forgotten the steps to the Mummy- Daddy dance.
+ຂ້ອຍລືມຂັ້ນຕອນໄປສູ່ການເຕັ້ນແມ່-ພໍ່ແລ້ວ.
+
+285
+00:18:37,750 --> 00:18:39,750
+[GURU PITKA]
+Still not clear.
+ຍັງບໍ່ແຈ້ງເທື່ອ.
+
+286
+00:18:40,250 --> 00:18:44,100
+[AUSTIN]
+My flag's at half mast and no one will salute it.
+ທຸງຊາດຂອງຂ້ອຍຢູ່ເຄິ່ງກະດານແລະບໍ່ມີໃຜຈະອວຍພອນມັນ.
+
+287
+00:18:44,600 --> 00:18:46,600
+[GURU PITKA]
+Sorry?
+ຂໍໂທດບໍ?
+
+288
+00:18:47,100 --> 00:18:49,100
+[AUSTIN]
+My Willie don't work.
+ວີລີຂອງຂ້ອຍບໍ່ໄດ້ເຮັດວຽກ.
+
+289
+00:18:49,600 --> 00:18:52,050
+[GURU PITKA]
+Why are you beating around the bush?
+ເຈົ້າ ກໍາ ລັງຕີຢູ່ທົ່ວປ່າໄມ້ເປັນຫຍັງ?
+
+290
+00:18:52,550 --> 00:18:54,550
+[AUSTIN]
+That's my problem.
+ນັ້ນແມ່ນບັນຫາຂອງຂ້ອຍ.
+
+291
+00:18:55,050 --> 00:18:58,200
+[GURU PITKA]
+Ohhhhh, I get it.  No, I don't get it.
+ໂອ້, ຂ້ອຍເຂົ້າໃຈແລ້ວ. ບໍ່, ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+292
+00:18:58,700 --> 00:19:00,700
+[FELICITY]
+He's impotent!
+ລາວບໍ່ມີພະລັງ!
+
+293
+00:19:01,200 --> 00:19:07,200
+[AUSTIN]
+Alright, easy.  Felicity and I were all set for some hump Olympics and I couldn't bat for six.
+ດີແລ້ວ, ງ່າຍດາຍ. ຂ້ອຍແລະຟີລິສຕິກຽມພ້ອມແລ້ວ ສໍາ
+ລັບໂອລິມປິກ hump ບາງຢ່າງແລະຂ້ອຍບໍ່ສາມາດຕີໄດ້ຫົກ.
+
+294
+00:19:07,700 --> 00:19:09,700
+[GURU PITKA]
+Oh, yes, I see.
+ໂອ້, ແມ່ນແລ້ວ, ຂ້ອຍເຫັນແລ້ວ.
+
+295
+00:19:10,200 --> 00:19:13,350
+[AUSTIN]
+You have no idea what I'm saying, do you?
+ເຈົ້າບໍ່ຮູ້ວ່າຂ້ອຍເວົ້າຫຍັງ, ແມ່ນບໍ?
+
+296
+00:19:13,850 --> 00:19:15,850
+[GURU PITKA]
+Not a word.
+ບໍ່ເວົ້າຫຍັງເລີຍ.
+
+297
+00:19:16,350 --> 00:19:18,350
+[AUSTIN]
+Guru, I've lost my mojo.
+ຄູຣູ, ຂ້ອຍໄດ້ສູນເສຍ mojo ຂອງຂ້ອຍແລ້ວ.
+
+298
+00:19:18,850 --> 00:19:24,850
+[GURU PITKA]
+Oh, mojo! You should have said so. Well, you've lost your mojo because your chakras are misaligned. You have lost love.
+ໂອ້, ໂມຈີ! ເຈົ້າຄວນເວົ້າດັ່ງນັ້ນ. ດີ,
+ເຈົ້າໄດ້ສູນເສຍໂມຈິຂອງທ່ານເພາະວ່າຊາກຣາຂອງທ່ານຖືກກົງກັນຂ້າມບໍ່ຖືກຕ້ອງ. ເຈົ້າໄດ້ຮັບສູນເສຍຄວາມຮັກ.
+
+299
+00:19:25,350 --> 00:19:27,450
+[AUSTIN]
+Lost love? Oh, you mean Vanessa?
+ຄວາມຮັກທີ່ສູນເສຍບໍ? ໂອ້, ເຈົ້າຫມາຍຄວາມວານາຊາບໍ?
+
+300
+00:19:27,950 --> 00:19:29,950
+[FELICITY]
+Who's Vanessa?
+ເວເນຊາແມ່ນໃຜ?
+
+301
+00:19:30,450 --> 00:19:35,350
+[AUSTIN]
+She was an evil robot minion of Dr. Evil. I couldn't have loved her.
+ນາງເປັນຄົນໃຊ້ຫຸ່ນຍົນທີ່ຮ້າຍແຮງຂອງດຣ Evil. ຂ້ອຍບໍ່ສາມາດຮັກນາງໄດ້.
+
+302
+00:19:35,850 --> 00:19:41,850
+[GURU PITKA]
+Denial ain't just a river in Egypt, buddy. You will only get your mojo back when you surround yourself with love.
+ການປະຕິເສດບໍ່ແມ່ນພຽງແຕ່ແມ່ນໍ້າຂອງໃນອີຈິບເທົ່ານັ້ນ, ເພື່ອນ.
+ເຈົ້າຈະໄດ້ຮັບໂມຈີຂອງທ່ານຄືນພຽງແຕ່ເມື່ອເຈົ້າອ້ອມຮອບຕົວດ້ວຍຄວາມຮັກ.
+
+303
+00:19:42,350 --> 00:19:48,350
+[AUSTIN]
+Oh, I get what you're saying now! He's talking about free love, baby! Tune in, turn on, and drop out!
+ໂອ້, ຂ້ອຍເຂົ້າໃຈສິ່ງທີ່ເຈົ້າເວົ້າດຽວນີ້! ລາວ ກໍາ
+ລັງເວົ້າກ່ຽວກັບຄວາມຮັກຟຣີ, ແມ! ຕິດຕໍ່, ເປີດ, ແລະອອກຈາກ!
+
+304
+00:19:48,850 --> 00:19:54,100
+[GURU PITKA]
+I am talking about true love. You must stay and study until you are worthy.
+ຂ້ອຍ ກໍາ ລັງເວົ້າກ່ຽວກັບຄວາມຮັກທີ່ແທ້ຈິງ
+. ເຈົ້າຕ້ອງຢູ່ແລະຮຽນຈົນກວ່າເຈົ້າຈະສົມຄວນ.
+
+305
+00:19:54,600 --> 00:20:00,600
+[AUSTIN]
+No way, man. The only way to surround yourself with love is to throw a swinging shin-dig! Yeah, baby, yeah!
+ບໍ່ເປັນໄປເລີຍ, ຜູ້ຊາຍ. ວິທີດຽວທີ່ຈະອ້ອມຮອບຕົວເອງດ້ວຍຄວາມຮັກແມ່ນການຖິ້ມການຂຸດຄົ້ນ
+shin- swinging! ແມ່ນແລ້ວ, ແມ, ແມ່ນແລ້ວ!
+
+306
+00:20:01,100 --> 00:20:04,250
+[DR. EVIL]
+Well done, Fat Bastard. May I have the mojo?
+ເຮັດໄດ້ດີ, ຢອກຊື່ໆໂຊກ. ຂ້ອຍສາມາດເອົາໂມຈີໄດ້ບໍ?
+
+307
+00:20:04,750 --> 00:20:09,300
+[FAT BASTARD]
+First things first, where's your shitter? I've gotta bleepin, turtle head pokin' out.
+ສິ່ງ ທໍາ ອິດກ່ອນອື່ນ ຫມົດ, ຄົນສໍ້ໂກງຂອງທ່ານຢູ່ໃສ
+? ຂ້ອຍຕ້ອງສັ່ນສະເທືອນ, ຫົວກະທູ້ອອກມາ.
+
+308
+00:20:09,800 --> 00:20:14,700
+[DR. EVIL]
+Right. Charming. Fat Bastard- you don't mind me calling you Fat Bastard do you?
+ແມ່ນແລ້ວ. ຫນ້າ ສົນໃຈ. ຢອກຊື່ໆ ແຊງແຊງ -
+ເຈົ້າບໍ່ສົນໃຈວ່າຂ້ອຍເອີ້ນເຈົ້າວ່າໂຊກໂຊງບໍ?
+
+309
+00:20:15,200 --> 00:20:21,200
+[FAT BASTARD]
+I've got a lot of demons kickin' around in my noggin, but weight issues ain't one of them.
+ຂ້ອຍມີໂຊກຮ້າຍຫຼາຍຢ່າງ ກໍາ ລັງຕີຢູ່ທົ່ວຫົວຂອງຂ້ອຍ
+, ແຕ່ບັນຫານ້ ໍາ ຫນັກ ບໍ່ແມ່ນ ຫນຶ່ງ ໃນນັ້ນ.
+
+310
+00:20:21,700 --> 00:20:23,700
+[DR. EVIL]
+Alright, Fatty-
+ດີແລ້ວ, ໄຂມັນ...
+
+311
+00:20:24,200 --> 00:20:30,200
+[FAT BASTARD]
+The name is Fat Bastard!  I'm the incorrect weight for my height and I was born out of wedlock, hence the moniker Fat Bastard. Hey, I'm not kiddin'. I've got a crap on deck that could choke a donkey.
+ຊື່ແມ່ນຄົນໂຊກແຊງ! ຂ້ອຍມີນ້ ໍາ ຫນັກ ທີ່ບໍ່ຖືກຕ້ອງ ສໍາ ລັບຄວາມສູງຂອງຂ້ອຍແລະຂ້ອຍເກີດອອກຈາກການແຕ່ງງານ
+, ເພາະສະນັ້ນຊື່ວ່າໂຊຄແຊນ. ເຮ້, ຂ້ອຍບໍ່ໄດ້ມ່ວນຊື່ນ. ຂ້ອຍມີສິ່ງແວດລ້ອມໃນຈານທີ່ສາມາດບິດແມວໄດ້.
+
+312
+00:20:30,700 --> 00:20:32,700
+[DR. EVIL]
+Fat Bastard, the mojo?
+ໂຊກຮ້າຍໄຂມັນ, ໂມຈີ?
+
+313
+00:20:33,200 --> 00:20:35,200
+[FAT BASTARD]
+Where's my  money?
+ເງິນຂອງຂ້ອຍຢູ່ໃສ?
+
+314
+00:20:35,700 --> 00:20:37,700
+[DR. EVIL]
+A gentlemen never discusses money.
+ຜູ້ຊາຍບໍ່ເຄີຍປຶກສາຫາລືເງິນເລີຍ.
+
+315
+00:20:38,200 --> 00:20:44,200
+[FAT BASTARD]
+Fine, you can take your in' money and shove it up your , you stupid  prick! While you're at it you can suck my greasy, two-toned !
+ດີ, ເຈົ້າສາມາດເອົາເງິນຂອງເຈົ້າໄດ້ແລະຖິ້ມມັນໃສ່ຂອງເຈົ້າ, ເຈົ້າຢອກຊື່ໆໂຊງໂງ່
+! ໃນຂະນະທີ່ເຈົ້າຢູ່ໃນມັນເຈົ້າສາມາດດູດນ້ ໍາ ມັນຂອງຂ້ອຍໄດ້, ສອງໂຕນ!
+
+316
+00:20:44,700 --> 00:20:46,800
+[DR. EVIL]
+Vulgarity is no substitute for wit.
+ຄວາມໂຊກຮ້າຍບໍ່ແມ່ນການທົດແທນຄວາມສະຫຼາດ.
+
+317
+00:20:47,300 --> 00:20:49,300
+[FAT BASTARD]
+you!
+ເຈົ້າ!
+
+318
+00:20:49,800 --> 00:20:51,800
+[DR. EVIL]
+Right. Bring in the money.
+ແມ່ນແລ້ວ. ເອົາເງິນມາ.
+
+319
+00:20:52,300 --> 00:20:54,300
+[FAT BASTARD]
+Alright, here it is.
+ດີແລ້ວ, ມັນຢູ່ບ່ອນນີ້.
+
+320
+00:20:54,800 --> 00:20:56,800
+[MOJO.]
+Dr. Evil is mesmerized.
+ດຣ Evil ແມ່ນ fascinated ໄດ້.
+
+321
+00:20:57,300 --> 00:20:59,300
+[DR. EVIL]
+Mini-Me, fetch.
+Mini-Me, ເອົາ.
+
+322
+00:20:59,800 --> 00:21:01,800
+[PREPARED PEDESTAL.]
+NUMBER TWO enters.
+ເລກສອງເຂົ້າມາ.
+
+323
+00:21:02,300 --> 00:21:08,300
+[NUMBER TWO]
+Dr. Evil, I have some bad news. Austin Powers is back in the Sixties. One of our best assassins spotted him but he got away.
+ດຣ Evil, ຂ້ອຍມີຂ່າວບໍ່ດີບາງຢ່າງ. ໂອສຕິນ ພູເວີສ໌ກັບຄືນໄປບ່ອນໃນຊຸມປີສິບ
+. ຫນຶ່ງ ໃນຜູ້ຄາດຕະກໍາທີ່ດີທີ່ສຸດຂອງພວກເຮົາເຫັນລາວແຕ່ລາວຫນີໄປ.
+
+324
+00:21:08,800 --> 00:21:11,250
+[DR. EVIL]
+This is ri-goddamn-diculous, we have his mojo.
+ນີ້ແມ່ນ ri- ພຣະເຈົ້າ- Dicculous, ພວກເຮົາມີ mojo ຂອງລາວ.
+
+325
+00:21:11,750 --> 00:21:13,750
+[NUMBER TWO]
+There is another. Felicity Shagwell,
+ມີອີກຄົນຫນຶ່ງ. ຟາລີສຕິ ຊາເກວລ,
+
+326
+00:21:14,250 --> 00:21:16,700
+[CIA.]
+Suddenly, Scott Evil enters through TIME PORTAL.
+ໃນທັນທີ, ສອດຕ໌ Evil ເຂົ້າໄປໃນຜ່ານ Portal ເວລາ.
+
+327
+00:21:17,200 --> 00:21:19,300
+[DR. EVIL]
+Scott, what are you doing here?
+ສຄຕ໌ ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+328
+00:21:19,800 --> 00:21:25,800
+[SCOTT]
+I don't know, I was sitting around watching the tube and The Courtship of Eddie's Father came on Nick at Nite, you know, and I was just listening to that theme song--  Anyway it made me think that maybe we could try and work things out. You know, you are my Dad and I need you.
+ຂ້ອຍບໍ່ຮູ້, ຂ້ອຍນັ່ງຢູ່ອ້ອມຂ້າງເບິ່ງທໍ່ແລະ ການແຕ່ງງານຂອງພໍ່ຂອງເອດດີໄດ້ມາໃນນິກຢູ່ Nite, ເຈົ້າຮູ້ແລ້ວ, ແລະຂ້ອຍພຽງແຕ່ຟັງເພງຫົວຂໍ້ນັ້ນ
+- ຢ່າງໃດກໍ່ຕາມມັນເຮັດໃຫ້ຂ້ອຍຄິດວ່າບາງທີພວກເຮົາສາມາດພະຍາຍາມແກ້ໄຂສິ່ງຕ່າງໆໄດ້. ເຈົ້າຮູ້ວ່າ, ເຈົ້າເປັນພໍ່ຂອງຂ້ອຍແລະຂ້ອຍຕ້ອງການເຈົ້າ.
+
+329
+00:21:26,300 --> 00:21:32,300
+[DR. EVIL]
+You had your chance, Scott. I already have someone created in my image. He's evil, he wants to take over the world, and he fits easily into most overhead storage bins.  Has anyone seen Mini-Me?  Mini-Me! Mini-Mouse? Mini-Driver? Hello! Mini Pearl? Can we put a frickin' bell on him or something?
+ເຈົ້າມີໂອກາດຂອງທ່ານ, ສອດຕ໌. ຂ້ອຍມີຄົນຫນຶ່ງທີ່ສ້າງຂື້ນໃນຮູບພາບຂອງຂ້ອຍແລ້ວ. ລາວເປັນຄົນຮ້າຍ, ລາວຢາກຄວບຄຸມໂລກ, ແລະລາວເຂົ້າໄປໃນຖັງເກັບມ້ຽນເທິງສ່ວນໃຫຍ່ຢ່າງງ່າຍດາຍ
+. ມີໃຜເຫັນ Mini-Me ບໍ? Mini-me! Mini-mouse? ຜູ້ຂັບຂີ່ Mini? ສະບາຍດີ! Mini Pearl? ພວກເຮົາສາມາດວາງແຊກແຊງໃສ່ລາວຫຼືບາງສິ່ງບາງຢ່າງໄດ້ບໍ?
+
+330
+00:21:32,800 --> 00:21:38,750
+[DR. EVIL]
+Gentlemen, phase three. We place a giant laser on the moon. Let me demonstrate.  Where's my laser?
+ພວກເຈົ້າ, ໄລຍະທີສາມ. ພວກເຮົາວາງເລເຊີຂະຫນາດໃຫຍ່ໃສ່ດວງຈັນ
+. ຂໍໃຫ້ຂ້ອຍສະແດງໃຫ້ເຫັນ. ເລເຊີຂອງຂ້ອຍຢູ່ໃສ?
+
+331
+00:21:39,250 --> 00:21:45,250
+[DR. EVIL]
+Mini-Me, don't chew my laser.  Not feeling well. He has an ear infection, but tit's OK.  No? Nothing?  Anyway, the laser is powerful enough to destroy every city on the planet at will. We'll turn the moon into what I like to call a "Death Star".
+ຂ້ອຍນ້ອຍ, ຢ່າກັດເລເຊີຂອງຂ້ອຍ. ບໍ່ຮູ້ສຶກດີ. ລາວມີການຕິດເຊື້ອຫູ, ແຕ່ທ້ອງບໍ່ເປັນຫຍັງ. ບໍ່? ບໍ່ມີຫຍັງເລີຍ? ຢ່າງໃດກໍ່ຕາມ,
+ເລເຊີມີພະລັງພຽງພໍທີ່ຈະ ທໍາ ລາຍເມືອງທຸກເມືອງໃນໂລກຕາມຄວາມຕ້ອງການ. ພວກເຮົາຈະປ່ຽນດວງຈັນເປັນສິ່ງທີ່ຂ້ອຍມັກເອີ້ນວ່າ"ດາວຕາຍ".
+
+332
+00:21:45,750 --> 00:21:47,750
+[DR. EVIL]
+What?
+ຫຍັງ?
+
+333
+00:21:48,250 --> 00:21:50,250
+[SCOTT]
+Nothing Darth.
+ບໍ່ມີຫຍັງເດັດ.
+
+334
+00:21:50,750 --> 00:21:52,750
+[DR. EVIL]
+What did you call me?
+ເຈົ້າເອີ້ນຂ້ອຍວ່າແນວໃດ?
+
+335
+00:21:53,250 --> 00:21:55,250
+[SCOTT]
+Nothing.  Rip-off!
+ບໍ່ມີຫຍັງເລີຍ. ການລັກລອບ!
+
+336
+00:21:55,750 --> 00:22:01,750
+[DR. EVIL]
+Bless you? Anyways, since my "death star" laser was invented by the noted Cambridge physicist, Dr. Parsons. I thought we'd name it in his honor-- the Alan Parsons Project.
+ຂໍອວຍພອນເຈົ້າບໍ? ຢ່າງໃດກໍຕາມ, ນັບຕັ້ງແຕ່ເລເຊີ"ດາວຕາຍ" ຂອງຂ້ອຍໄດ້ຖືກຄົ້ນພົບໂດຍນັກວິທະຍາສາດທີ່ໂດດເດັ່ນຂອງແຄມບຣີຈ໌
+, ດຣ ປາຊອນສ໌. ຂ້ອຍຄິດວ່າພວກເຮົາຈະຕັ້ງຊື່ມັນໃນກຽດຕິຍົດຂອງລາວ - ໂຄງການແອລານ ປາກຊອນ.
+
+337
+00:22:02,250 --> 00:22:04,250
+[DR. EVIL]
+What now?
+ດຽວນີ້ແນວໃດ?
+
+338
+00:22:04,750 --> 00:22:10,750
+[SCOTT]
+The Alan Parsons Project was a progressive rock band from 1982. Why don't you just name it Operation Wang Chung, ass?
+ໂຄງການແອລານ ປາຊັນສ໌ແມ່ນວົງດົນຕີຫີນກ້າວຫນ້າຈາກປີ 1982.
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເອີ້ນມັນວ່າການປະຕິບັດງານວັງຊອງ, ຄົນໂຊກຮ້າຍ?
+
+339
+00:22:11,250 --> 00:22:17,250
+[DR. EVIL]
+When you get your own evil empire, you can call it whatever you want. Gentlemen, allow me to demonstrate the awesome lethality of the Alan Parsons Project. Fire the laser!
+ເມື່ອເຈົ້າໄດ້ຮັບອານາຈັກຊົ່ວຮ້າຍຂອງເຈົ້າເອງ, ເຈົ້າສາມາດເອີ້ນມັນຕາມທີ່ເຈົ້າຕ້ອງການ.
+ພວກເຈົ້າ, ຂໍອະນຸຍາດໃຫ້ຂ້ອຍສະແດງຄວາມຕາຍທີ່ ຫນ້າ ຢ້ານກົວຂອງໂຄງການແອລານ ປາຊັນສ໌. ຍິງເລເຊີ!
+
+340
+00:22:17,750 --> 00:22:23,700
+[INSERT SHOT:]
+A giant laser beam smashes down through the roof of the White House, causing it to explode.
+ແສງເລເຊີຂະຫນາດໃຫຍ່ຕົກລົງຜ່ານຊັ້ນເທິງຂອງທໍານຽບຂາວ
+, ເຮັດໃຫ້ມັນລະເບີດ.
+
+341
+00:22:24,200 --> 00:22:28,400
+[NUMBER TWO]
+My God, Dr. Evil, you destroyed the Wihite House with no warning!
+ພຣະເຈົ້າຂອງຂ້ອຍ, ດຣ Evil,
+ເຈົ້າໄດ້ທໍາລາຍເຮືອນ Wihite ໂດຍບໍ່ມີການເຕືອນ!
+
+342
+00:22:28,900 --> 00:22:34,900
+[DR. EVIL]
+Actually, that was just footage from the 1996 blockbuster motion Picture Independence Day, but it would be a lot like that. What do you think, Scott?
+ໃນຄວາມເປັນຈິງ, ນັ້ນພຽງແຕ່ເປັນຮູບພາບຈາກວັນເອກະລາດຮູບເງົາ blockbuster
+ປີ 1996, ແຕ່ມັນຈະເປັນຫຼາຍເຊັ່ນນັ້ນ. ເຈົ້າຄິດແນວໃດ, ສອດຕ໌?
+
+343
+00:22:35,400 --> 00:22:37,850
+[SCOTT]
+Yeah, Codename: Thompson Twins was really impressive.
+ແມ່ນແລ້ວ, ຊື່ລະຫັດ: Twins Thompson ແມ່ນຫນ້າປະທັບໃຈແທ້ໆ.
+
+344
+00:22:38,350 --> 00:22:40,350
+[DR. EVIL]
+Shhhh!
+ສະຫງວນ!
+
+345
+00:22:40,850 --> 00:22:42,850
+[SCOTT]
+I'm nineteen, I don't-
+ຂ້ອຍອາຍຸສິບເກົ້າປີ, ຂ້ອຍບໍ່...
+
+346
+00:22:43,350 --> 00:22:48,250
+[DR. EVIL]
+Shh! Shh-Shh. Shh-Shhhhhh-Shh. Shh- shh! It's Morse code.  Let me decipher... it says 'shhhhh!'
+Shh! Shh-Shh. Shh - Shhhhhh - Shh. shh - shh!
+ມັນແມ່ນລະຫັດໂມຣສ໌. ຂໍໃຫ້ຂ້ອຍຄົ້ນພົບ... ມັນຂຽນວ່າ'shhhhh!'
+
+347
+00:22:48,750 --> 00:22:50,750
+[SCOTT]
+You are so lame-
+ເຈົ້າໂຊກຮ້າຍຫຼາຍ...
+
+348
+00:22:51,250 --> 00:22:53,250
+[DR. EVIL]
+Ssssss...huuuuuh...Shhhhh!
+Ssssss... huuuuuh... Shhhhh!
+
+349
+00:22:53,750 --> 00:22:57,250
+[NUMBER TWO]
+Dr. Evil, what are we going to do about Powers?
+ດຣ Evil, ພວກເຮົາຈະເຮັດແນວໃດກ່ຽວກັບພະລັງງານ?
+
+350
+00:22:57,750 --> 00:23:01,950
+[DR. EVIL]
+Fat Bastard, in addition to being extremely rotund, you're a vicious killer.
+ເຈົ້າເປັນຄົນຮ້າຍທີ່ໄຂມັນ, ນອກຈາກການເປັນຄົນແຂງແຮງຫຼາຍ
+, ເຈົ້າເປັນຜູ້ຂ້າທີ່ຮ້າຍແຮງ.
+
+351
+00:23:02,450 --> 00:23:04,450
+[FAT BASTARD]
+It'll be my pleasure.
+ມັນຈະເປັນຄວາມຍິນດີຂອງຂ້ອຍ.
+
+352
+00:23:04,950 --> 00:23:08,450
+[DR. EVIL]
+It's an easy job. Without his mojo, Powers will be...powerless?
+ມັນເປັນວຽກທີ່ງ່າຍດາຍ. ໂດຍບໍ່ມີໂມຈີຂອງລາວ
+, ພະລັງຈະ... ບໍ່ມີພະລັງບໍ?
+
+353
+00:23:08,950 --> 00:23:12,100
+[AUSTIN]
+This shag-in is gonna blow your mind, baby, yeah!
+ການຟັກກັນນີ້ຈະເຮັດໃຫ້ຈິດໃຈເຈົ້າແຕກຂຶ້ນ, ແມ, ແມ່ນແລ້ວ!
+
+354
+00:23:12,600 --> 00:23:14,600
+[PREGNANT WOMAN]
+Hey!
+ເຮ້!
+
+355
+00:23:15,100 --> 00:23:17,100
+[AUSTIN]
+You'll thank me later, baby.
+ເຈົ້າຈະຂອບໃຈຂ້ອຍຕໍ່ມາແມ.
+
+356
+00:23:17,600 --> 00:23:19,700
+[AUSTIN]
+Hey! Ricardo Monteblan, how are you?
+ເຮ້! ຣິກາໂດ ມອນເຕບລານ, ເຈົ້າເປັນແນວໃດ?
+
+357
+00:23:20,200 --> 00:23:25,100
+[RICARDO]
+Hello, Austin! Balls, said the queen and the king laughed because he had too.
+ສະບາຍດີ, ໂອສຕິນ! ບານ,
+ກ່າວວ່າລາຊິນີແລະກະສັດມ່ວນຊື່ນເພາະວ່າລາວມີເຊັ່ນກັນ.
+
+358
+00:23:25,600 --> 00:23:27,600
+[AUSTIN]
+Crazy, man!
+ຄົນໂຊກຮ້າຍ, ຜູ້ຊາຍ!
+
+359
+00:23:28,100 --> 00:23:30,550
+[FELICITY]
+Let's split up and scope the scene.
+ພວກເຮົາຈະແບ່ງແຍກກັນແລະກວດເບິ່ງຈຸດເກີດເຫດ.
+
+360
+00:23:31,050 --> 00:23:34,900
+[AUSTIN]
+Don't do anything I wouldn't do- at least not without me.
+ຢ່າເຮັດຫຍັງທີ່ຂ້ອຍຈະບໍ່ເຮັດ - ຢ່າງຫນ້ອຍບໍ່ແມ່ນໂດຍບໍ່ມີຂ້ອຍ.
+
+361
+00:23:35,400 --> 00:23:37,400
+[AUSTIN]
+Oh, behave!
+ໂອ້, ປະຕິບັດຕົວດີ!
+
+362
+00:23:37,900 --> 00:23:42,100
+[AUSTIN]
+You're very exotic, baby. Do you have a little English in you?
+ເຈົ້າເປັນຄົນແປກໃຈຫຼາຍແມ. ເຈົ້າມີພາສາອັງກິດ ຫນ້ອຍ ຫນຶ່ງ ໃນເຈົ້າບໍ?
+
+363
+00:23:42,600 --> 00:23:44,600
+[CHICK]
+No.
+ບໍ່
+
+364
+00:23:45,100 --> 00:23:47,100
+[AUSTIN]
+Would you like to?
+ເຈົ້າຢາກເຮັດບໍ?
+
+365
+00:23:47,600 --> 00:23:49,600
+[ALAN ZEUS GUY]
+This is ridiculous!
+ນີ້ແມ່ນໂຊກຮ້າຍ!
+
+366
+00:23:50,100 --> 00:23:53,250
+[LONDON COP]
+Have you ever been picked up by the fuzz?
+ເຈົ້າເຄີຍຖືກຈັບໂດຍຕໍາຫຼວດບໍ?
+
+367
+00:23:53,750 --> 00:23:56,200
+[FELICITY]
+No, but I bet it really hurts.
+ບໍ່, ແຕ່ຂ້ອຍແນ່ໃຈວ່າມັນເຈັບປວດຫຼາຍ.
+
+368
+00:23:56,700 --> 00:24:01,250
+[AUSTIN]
+The Austin Powers Sexy Dictionary defines an Eskimo hooker as a frosty prosty.
+ຄໍາສັບທີ່ສວຍງາມຂອງອອສຕິນ ພູເວີສ໌ ກໍາ
+ນົດວ່າໂຊກແຊງເອສກິມໂກ້ເປັນໂຊຄແຊນທີ່ເຢັນ.
+
+369
+00:24:01,750 --> 00:24:03,750
+[ESKIMO]
+I don't get it.
+ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+370
+00:24:04,250 --> 00:24:08,450
+[AUSTIN]
+Those are skin tight. How do you get into those pants, baby?
+ນັ້ນແມ່ນຜິວຫນັງທີ່ເຂັ້ມງວດ.
+ເຈົ້າເຂົ້າໄປໃນກະເປົາເຫຼົ່ານັ້ນແນວໃດ, ແມ?
+
+371
+00:24:08,950 --> 00:24:12,100
+[FELICITY]
+Well you can start by buying me a drink.
+ເຈົ້າສາມາດເລີ່ມຕົ້ນໂດຍການຊື້ເຄື່ອງດື່ມໃຫ້ຂ້ອຍ.
+
+372
+00:24:12,600 --> 00:24:16,100
+[VIKING]
+You were great last night. By the way, I'm Thor.
+ເຈົ້າດີຫຼາຍໃນມື້ວານນີ້. ເຖິງຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍເປັນໂຕຣ.
+
+373
+00:24:16,600 --> 00:24:19,750
+[FELICITY]
+You're Thor? I'm tho thor I can hardly thit.
+ເຈົ້າເປັນໂຕຣບໍ? ຂ້ອຍແມ່ນໂຕຣ ຂ້ອຍເກືອບບໍ່ສາມາດເຮັດໄດ້.
+
+374
+00:24:20,250 --> 00:24:26,250
+[AUSTIN]
+Hello, I am Baron Von Firstinbed. Last night I had German-Chinese food. An hour later I was hungry- for power.
+ສະບາຍດີ, ຂ້ອຍເປັນບາຣອນ ຟອນ ຟຣ໌ສຕິນເບດ.
+ໃນມື້ວານນີ້ຂ້ອຍກິນອາຫານເຢຍລະມັນ-ຈີນ. ຫນຶ່ງ ຊົ່ວໂມງຕໍ່ມາຂ້ອຍຢາກມີພະລັງງານ.
+
+375
+00:24:26,750 --> 00:24:30,600
+[ZEUS GUY]
+Oh puh-leez, why don't you take a handful of F-off pills?
+ໂອ້ ປູລີສ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ກິນເມັດ F-off ບາງຢ່າງ?
+
+376
+00:24:31,100 --> 00:24:35,300
+[AUSTIN]
+Did you hear about the contortionist who was engaged to be married?
+ເຈົ້າໄດ້ຍິນກ່ຽວກັບນັກກະຕຸ້ນທີ່ຖືກແຕ່ງງານບໍ?
+
+377
+00:24:35,800 --> 00:24:38,250
+[FELICITY]
+Yeah, I heard she broke it off.
+ແມ່ນແລ້ວ, ຂ້ອຍໄດ້ຍິນວ່ານາງໄດ້ເຊົາແມ!
+
+378
+00:24:38,750 --> 00:24:40,750
+[ARTIE JOHNSON]
+Verrrrry interesting- but shtupid!
+ຫນ້າສົນໃຈຫຼາຍ - ແຕ່ໂງ່!
+
+379
+00:24:41,250 --> 00:24:43,250
+[FELICITY]
+Look at that.
+ເບິ່ງແມ.
+
+380
+00:24:43,750 --> 00:24:46,550
+[AUSTIN]
+That's not a pretty sight. Who is he?
+ນັ້ນບໍ່ແມ່ນທັດສະນະທີ່ສວຍງາມ. ລາວເປັນໃຜ?
+
+381
+00:24:47,050 --> 00:24:53,050
+[FELICITY]
+Until recently he worked security for the MOD, but we think he might be a double agent, possibly for Dr. Evil.
+ຈົນຮອດບໍ່ດົນມານີ້ລາວເຮັດວຽກດ້ານຄວາມປອດໄພ ສໍາ ລັບກະຊວງປ້ອງກັນປະເທດ
+, ແຕ່ພວກເຮົາຄິດວ່າລາວອາດຈະເປັນຕົວແທນຄູ່, ບາງທີ ສໍາ ລັບດຣ Evil.
+
+382
+00:24:53,550 --> 00:24:55,550
+[AUSTIN]
+How do you know?
+ເຈົ້າຮູ້ແນວໃດ?
+
+383
+00:24:56,050 --> 00:25:02,050
+[FELICITY]
+We've noticed that his lifestyle has changed dramatically. He's made a lot of cash purchases, he's hanging out with foxes half his age, and he's becomes quite a fixture on the London party circuit.
+ພວກເຮົາໄດ້ສັງເກດເຫັນວ່າແບບຊີວິດຂອງລາວໄດ້ປ່ຽນແປງຢ່າງຫຼວງຫຼາຍ. ລາວໄດ້ຊື້ເງິນສົດຫຼາຍຢ່າງ, ລາວ
+ກໍາ ລັງຢູ່ກັບແມວເຄິ່ງອາຍຸຂອງລາວ, ແລະລາວກາຍເປັນເຄື່ອງຕິດຕັ້ງທີ່ແທ້ຈິງໃນວົງຈອນງານລ້ຽງລອນດອນ.
+
+384
+00:25:02,550 --> 00:25:04,550
+[AUSTIN]
+Who's the girl?
+ເດັກຍິງແມ່ນໃຜ?
+
+385
+00:25:05,050 --> 00:25:08,200
+[FELICITY]
+I don't know, but it looks like he's splitting.
+ຂ້ອຍບໍ່ຮູ້, ແຕ່ມັນເບິ່ງຄືວ່າລາວ ກໍາ ລັງແຕກແຍກ.
+
+386
+00:25:08,700 --> 00:25:14,300
+[FELICITY]
+I'll follow him. You see what you can get out of the girl. We'll rendezvous later.
+ຂ້ອຍຈະຕິດຕາມລາວ. ເຈົ້າເບິ່ງວ່າເຈົ້າສາມາດເອົາຫຍັງອອກຈາກເດັກຍິງໄດ້
+. ພວກເຮົາຈະພົບກັນຕໍ່ມາ.
+
+387
+00:25:14,800 --> 00:25:16,800
+[AUSTIN]
+Hello, hello.
+ສະບາຍດີ ສບາຍດີ.
+
+388
+00:25:17,300 --> 00:25:19,300
+[GIRL]
+Hello, Mr. Powers. Fab party.
+ສະບາຍດີ, ທ້າວພາວສ໌. ງານບຸນຟາບ.
+
+389
+00:25:19,800 --> 00:25:21,800
+[AUSTIN]
+Who are you today, baby?
+ເຈົ້າເປັນໃຜໃນມື້ນີ້, ແມ?
+
+390
+00:25:22,300 --> 00:25:24,300
+[GIRL]
+Robin. Robin Swallows.
+ໂຣບິນ. ໂຣເບິນ Swallows.
+
+391
+00:25:24,800 --> 00:25:27,600
+[AUSTIN]
+Swallows? That's an interesting name. Are you English?
+Swallows? ນັ້ນແມ່ນຊື່ທີ່ຫນ້າສົນໃຈ. ເຈົ້າເປັນພາສາອັງກິດບໍ?
+
+392
+00:25:28,100 --> 00:25:30,550
+[ROBIN SWALLOWS]
+German, actually. My maiden name is Spitz.
+ເຢຍລະມັນ, ໃນຄວາມເປັນຈິງ. ຊື່ເດັກຍິງຂອງຂ້ອຍແມ່ນສປິດສ໌.
+
+393
+00:25:31,050 --> 00:25:35,600
+[AUSTIN]
+Well which is it, baby, Spitz or Swallows? Either way, it's a pleasure.
+ດີມັນແມ່ນຫຍັງ, ແມ, Spitz ຫຼື Swallows
+? ຢ່າງໃດກໍ່ຕາມ, ມັນເປັນຄວາມສຸກ.
+
+394
+00:25:36,100 --> 00:25:38,100
+[ROBIN SWALLOWS]
+The pleasure is mine.
+ຄວາມຍິນດີແມ່ນຂອງຂ້ອຍ.
+
+395
+00:25:38,600 --> 00:25:44,600
+[AUSTIN]
+Charmed, I'm sure.  How do you do?  Yes, quite.  I always enjoy meeting new people.  How's your mum? Good.  I love shaking hands.
+ຂ້ອຍຮູ້ສຶກສວຍງາມ, ຂ້ອຍແນ່ໃຈວ່າ. ເຈົ້າເຮັດແນວໃດ? ແມ່ນແລ້ວ, ຢ່າງສົມບູນ.
+ຂ້ອຍມັກພົບກັບຄົນໃຫມ່ຢູ່ສະເຫມີ. ແມ່ຂອງເຈົ້າເປັນແນວໃດ? ດີ. ຂ້ອຍຮັກການຈັບມື.
+
+396
+00:25:45,100 --> 00:25:47,100
+[AUSTIN]
+So, who was your friend?
+ສະນັ້ນ, ເພື່ອນຂອງທ່ານແມ່ນໃຜ?
+
+397
+00:25:47,600 --> 00:25:49,600
+[ROBIN SWALLOWS]
+His name is Fat Bastard.
+ຊື່ລາວແມ່ນໂຊກຮ້າຍໄຂມັນ.
+
+398
+00:25:50,100 --> 00:25:52,100
+[AUSTIN]
+It suits him.
+ມັນເຫມາະສົມກັບລາວ.
+
+399
+00:25:52,600 --> 00:25:54,600
+[ROBIN SWALLOWS]
+He's my lover.
+ລາວເປັນຄົນຮັກຂອງຂ້ອຍ.
+
+400
+00:25:55,100 --> 00:26:00,700
+[AUSTIN]
+OK. Would you happen to know if he's in business with a man named Mr. Evil?
+ດີແລ້ວ. ເຈົ້າຮູ້ບໍວ່າລາວເຮັດທຸລະກິດກັບຜູ້ຊາຍທີ່ມີຊື່ວ່າ
+ທ້າວ Evil?
+
+401
+00:26:01,200 --> 00:26:03,650
+[ROBIN SWALLOWS]
+I don't know anyone named Dr. Evil.
+ຂ້ອຍບໍ່ຮູ້ຈັກໃຜທີ່ມີຊື່ວ່າ ດຣ Evil.
+
+402
+00:26:04,150 --> 00:26:07,650
+[AUSTIN]
+Really? I said Mister Evil. Austin does a smug take.
+ແທ້ຈິງບໍ? ຂ້ອຍເວົ້າວ່າ ທ້າວໂຊກຮ້າຍ. ໂອສຕິນເຮັດການເອົາໃຈໃສ່.
+
+403
+00:26:08,150 --> 00:26:11,300
+[AUSTIN]
+Something to drink? Would you like a Mister Pepper?
+ເຈົ້າຢາກດື່ມຫຍັງບໍ? ເຈົ້າຢາກມີທ່ານ Pepper ບໍ?
+
+404
+00:26:11,800 --> 00:26:13,900
+[ROBIN SWALLOWS]
+Yes, I'd love a Doctor Pepper.
+ແມ່ນແລ້ວ, ຂ້ອຍຢາກມີດອກຕໍເປເປີ.
+
+405
+00:26:14,400 --> 00:26:16,400
+[AUSTIN]
+Really? I said Mister Pepper.
+ແທ້ຈິງບໍ? ຂ້ອຍເວົ້າວ່າ ທ້າວເປເປີ.
+
+406
+00:26:16,900 --> 00:26:20,750
+[ROBIN SWALLOWS]
+You're a groovy boy, I'd like to strap you on sometime.
+ເຈົ້າເປັນເດັກຊາຍທີ່ສວຍງາມ, ຂ້ອຍຢາກໃສ່ສາຍແອວເຈົ້າໃນບາງຄັ້ງ.
+
+407
+00:26:21,250 --> 00:26:23,250
+[AUSTIN]
+Oh, behave!
+ໂອ້, ປະຕິບັດຕົວດີ!
+
+408
+00:26:23,750 --> 00:26:25,750
+[ALAN ZEUS TYPE]
+Meanwhile...
+ໃນຂະນະດຽວກັນ...
+
+409
+00:26:26,250 --> 00:26:32,250
+[FAT BASTARD]
+...and I'll have a fried-prawn sandwich, with extra mayonnaise, two whole chickens, a kidney pie, a toad in the hole, bubble and squeak, bangers and mash, 3 orders of fish and chips, and... a Fresca. No ice.
+... ແລະຂ້ອຍຈະກິນແຊນວິດຈ໌ແຊງແຊມແຊກແຊ້ງແຊບແຊ່ແຊຊງ ແຊງໄຊງເພີ່ມເຕີມ, ໄກ່ທັງ ຫມົດ ສອງໂຕ, pie ກະດູກ, ແມງໄມ້ໃນຮູ
+, bubble ແລະ squeak, bangers ແລະ mash, 3 ຄໍາ ສັ່ງຂອງປາແລະ chips, ແລະ... Fresca ໄດ້. ບໍ່ມີນ້ ໍາ ກ້ອນ.
+
+410
+00:26:32,750 --> 00:26:35,550
+[FELICITY]
+I love a man with a large appetite.
+ຂ້ອຍຮັກຜູ້ຊາຍທີ່ມີຄວາມປາຖະຫນາຫຼາຍ.
+
+411
+00:26:36,050 --> 00:26:41,650
+[FAT BASTARD]
+And I love a woman with big , so let's shut up and get to ing.
+ແລະຂ້ອຍຮັກແມ່ຍິງທີ່ມີຂະຫນາດໃຫຍ່,
+ສະນັ້ນພວກເຮົາຈະງຽບແລະໄປຫາ ing ໄດ້.
+
+412
+00:26:42,150 --> 00:26:44,250
+[AUSTIN]
+Can I ask you a question?
+ຂ້ອຍຖາມເຈົ້າໄດ້ບໍ?
+
+413
+00:26:44,750 --> 00:26:46,750
+[ROBIN SWALLOWS]
+Yes.
+ແມ່ນແລ້ວ.
+
+414
+00:26:47,250 --> 00:26:49,250
+[AUSTIN]
+Thank you.
+ຂອບໃຈ
+
+415
+00:26:49,750 --> 00:26:51,750
+[ROBIN SWALLOWS]
+Well, what's the question?
+ດີ, ຄໍາ ຖາມແມ່ນຫຍັງ?
+
+416
+00:26:52,250 --> 00:26:55,400
+[AUSTIN]
+Oh, yes. Would you like to shag? Would you?
+ໂອ້, ແມ່ນແລ້ວ. ເຈົ້າຢາກຟັກບໍ? ເຈົ້າຢາກບໍ?
+
+417
+00:26:55,900 --> 00:26:59,400
+[ROBIN SWALLOWS]
+I'd love to, Mr. Powers, just come right... over... here.
+ຂ້ອຍຢາກເຮັດ, ທ້າວພາວສ໌, ພຽງແຕ່ມາທາງກົງ... ມາບ່ອນນີ້.
+
+418
+00:26:59,900 --> 00:27:01,900
+[AUSTIN]
+You're a bit of alright.
+ເຈົ້າບໍ່ເປັນຫຍັງເລີຍ.
+
+419
+00:27:02,400 --> 00:27:04,400
+[ROBIN SWALLOWS]
+Oedipus... use the revolver.
+ໂອດີປັສ... ໃຊ້ປືນປືນ.
+
+420
+00:27:04,900 --> 00:27:06,900
+[ROBIN SWALLOWS]
+Oedipus... use the machine gun.
+ໂອດີປັສ... ໃຊ້ປືນຈັກ.
+
+421
+00:27:07,400 --> 00:27:13,400
+[USING HER AS A SHIELD.]
+Oedipus throws down his gun and charges Austin. Austin uses Robin's body to block Oedipus's head butt, but his momentum pushes all three of them through a PLATE GLASS WINDOW of his second story loft.
+ໂອດີປູສ໌ຖິ້ມປືນຂອງລາວລົງແລະກ່າວຫາໂອສຕິນ. ໂອສຕີນໃຊ້ຮ່າງກາຍຂອງໂຣບິນເພື່ອກີດຂວາງກະຕ່າຫົວຂອງໂອດີປຸສ໌
+, ແຕ່ຄວາມເຄື່ອນໄຫວຂອງລາວຊຸກຍູ້ທັງສາມຄົນຜ່ານປ່ອງຢ້ຽມແກ້ວແຜ່ນໃນຊັ້ນສູງທີສອງຂອງລາວ.
+
+422
+00:27:13,900 --> 00:27:19,500
+[IN MID-AIR]
+As they fall, Austin turns Robin around so that she is between him and the ground.
+ໃນຂະນະທີ່ພວກເຂົາຕົກລົງ,
+ໂອສຕິນຫັນໂຣບິນໄປເພື່ອໃຫ້ນາງຢູ່ລະຫວ່າງລາວແລະດິນ.
+
+423
+00:27:20,000 --> 00:27:22,000
+[ROBIN SWALLOWS]
+Oedipus, Oedipus...
+ໂອດີປັສ, ໂອດີບັສ...
+
+424
+00:27:22,500 --> 00:27:25,650
+[AUSTIN]
+Sorry baby, too late. He's as dead as vaudeville.
+ຂໍໂທດແມ, ຊ້າເກີນໄປ. ລາວຕາຍຄືກັບວາດວີລ.
+
+425
+00:27:26,150 --> 00:27:32,150
+[ROBIN SWALLOWS]
+You can't win, Powers. Dr. Evil has your mojo and it's only a matter of time before he kills you and takes over the world.  Tell Fat Bastard I'll miss him...
+ເຈົ້າບໍ່ສາມາດຊະນະໄດ້, ພະລັງງານ. ດຣ Evil ມີ mojo
+ຂອງທ່ານແລະມັນພຽງແຕ່ເປັນເລື່ອງເວລາກ່ອນທີ່ລາວຈະຂ້າເຈົ້າແລະຄວບຄຸມໂລກ. ບອກໂຊກຮ້າຍໄຂມັນວ່າຂ້ອຍຈະຂາດລາວ...
+
+426
+00:27:32,650 --> 00:27:36,500
+[FAT BASTARD]
+I always get in' hungry after I get my end away!
+ຂ້ອຍເຂົ້າມາກິນອາຫານຢູ່ສະເຫມີຫຼັງຈາກຂ້ອຍໄດ້ຮັບຈຸດສຸດທ້າຍຂອງຂ້ອຍໄປ!
+
+427
+00:27:37,000 --> 00:27:43,000
+[FELICITY]
+I never would have thought that a man of such tremendous girth could be such a, um, creative and sensuous lover!
+ຂ້ອຍບໍ່ເຄີຍຄິດວ່າຜູ້ຊາຍທີ່ມີຂອບເຂດທີ່ຍິ່ງໃຫຍ່ດັ່ງນັ້ນສາມາດເປັນຄົນຮັກທີ່ສ້າງສັນແລະມີຄວາມຮູ້ສຶກຫຼາຍ
+!
+
+428
+00:27:43,500 --> 00:27:45,950
+[FAT BASTARD]
+You want some chicken? I have more!
+ເຈົ້າຢາກມີໄກ່ບໍ? ຂ້ອຍມີອີກ!
+
+429
+00:27:46,450 --> 00:27:49,250
+[FAT BASTARD]
+Frisky are we? Alright lets have another go!
+ພວກເຮົາສົດໃສບໍ? ດີແລ້ວໃຫ້ພະຍາຍາມອີກຄັ້ງ!
+
+430
+00:27:49,750 --> 00:27:52,550
+[DR. EVIL]
+Get me the President of the United States.
+ເອົາປະທານາທິບໍດີສະຫະລັດໃຫ້ຂ້ອຍ.
+
+431
+00:27:53,050 --> 00:27:55,150
+[PRESIDENT]
+Dr. Evil, what do you want?
+ດຣ Evil, ເຈົ້າຢາກຫຍັງ?
+
+432
+00:27:55,650 --> 00:28:01,650
+[DR. EVIL]
+Not what I want Mr. President, but I will receive. In 12 hours I will destroy Washington, DC with a giant laser.
+ບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍຢາກທ່ານປະທານາທິບໍດີ, ແຕ່ຂ້ອຍຈະໄດ້ຮັບ.
+ໃນເວລາ 12 ຊົ່ວໂມງຂ້ອຍຈະທໍາລາຍວໍຊິງຕັນ, DC ດ້ວຍເລເຊີໃຫຍ່.
+
+433
+00:28:02,150 --> 00:28:08,150
+[DR. EVIL]
+OK, Mini-Me, why don't you and the laser get a frickin' room. Honestly.  I will destroy another major city every hour- that is, unless you pay me-
+ດີແລ້ວ, Mini-Me, ເປັນຫຍັງເຈົ້າແລະເລເຊີຈຶ່ງບໍ່ເອົາຫ້ອງແຊກແຊງ. ຢ່າງຈິງໃຈ. ຂ້ອຍຈະ ທໍາ
+ລາຍເມືອງໃຫຍ່ອີກເມືອງ ຫນຶ່ງ ໃນແຕ່ລະຊົ່ວໂມງ - ນັ້ນແມ່ນ, ເວັ້ນເສຍແຕ່ວ່າເຈົ້າຈ່າຍເງິນໃຫ້ຂ້ອຍ -
+
+434
+00:28:08,650 --> 00:28:10,650
+[DR. EVIL]
+One hundred billion dollars!
+ເງິນໂດລາສິບລ້ານໂດລາ!
+
+435
+00:28:11,150 --> 00:28:15,000
+[PRESIDENT]
+Dr. Evil that's more than the entire federal budget for 1969.
+ດຣ Evil ນັ້ນແມ່ນຫຼາຍກ່ວາງົບປະມານລັດຖະບານກາງທັງ ຫມົດ ໃນປີ 1969.
+
+436
+00:28:15,500 --> 00:28:20,050
+[DR. EVIL]
+Don't play games with me. The capitol will disappear if I don't receive
+ຢ່າຫຼິ້ນເກມກັບຂ້ອຍ. ນະຄອນຫຼວງຈະຫາຍໄປຖ້າຂ້ອຍບໍ່ໄດ້ຮັບ
+
+437
+00:28:20,550 --> 00:28:22,550
+[DR. EVIL]
+One hundred billion dollars!
+ເງິນໂດລາສິບລ້ານໂດລາ!
+
+438
+00:28:23,050 --> 00:28:29,050
+[PRESIDENT]
+That much money simply doesn't exist. I don't think l00 billion is even a number. It's like saying I want a kajillion bajillion dollars.
+ເງິນຫຼາຍປານໃດນັ້ນພຽງແຕ່ບໍ່ມີຢູ່. ຂ້ອຍບໍ່ຄິດວ່າ l00
+ພັນລ້ານແມ່ນຕົວເລກເລີຍ. ມັນຄ້າຍຄືກັບວ່າຂ້ອຍຢາກໂດລາຄາຈີລຽນບາຈິລຽນ.
+
+439
+00:28:29,550 --> 00:28:31,550
+[DR. EVIL]
+Come on, Mr. President...
+ມາແລ້ວ, ທ່ານປະທານາທິບໍດີ...
+
+440
+00:28:32,050 --> 00:28:34,050
+[DR. EVIL]
+"Show me the money!"
+ສະແດງເງິນໃຫ້ຂ້ອຍເບິ່ງ!
+
+441
+00:28:34,550 --> 00:28:36,550
+[PRESIDENT]
+What?
+ຫຍັງ?
+
+442
+00:28:37,050 --> 00:28:39,050
+[DR. EVIL]
+"Show me the money!"
+ສະແດງເງິນໃຫ້ຂ້ອຍເບິ່ງ!
+
+443
+00:28:39,550 --> 00:28:41,550
+[PRESIDENT]
+I'm sorry, I don't understand.
+ຂ້ອຍຂໍໂທດ, ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+444
+00:28:42,050 --> 00:28:45,200
+[DR. EVIL]
+You know, kwan? Show me the money? No? Nothing?
+ເຈົ້າຮູ້ແລ້ວ, ຄວານ? ສະແດງເງິນໃຫ້ຂ້ອຍບໍ? ບໍ່? ບໍ່ມີຫຍັງບໍ?
+
+445
+00:28:45,700 --> 00:28:51,700
+[SCOTT]
+It's 1969. That movie won't come out for another 30 years, ass.  They don't know what you're talking about.
+ມັນເປັນປີ 1969. ຮູບເງົານັ້ນຈະບໍ່ອອກມາອີກ 30 ປີ
+, ຄົນໂຊກຮ້າຍ. ພວກເຂົາບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ.
+
+446
+00:28:52,200 --> 00:28:58,200
+[DR. EVIL]
+Right. OK, see if you understand this: give me the money or I'm going to blow you to frickin' bits, OK?
+ແມ່ນແລ້ວ. ດີ, ເບິ່ງວ່າເຈົ້າເຂົ້າໃຈສິ່ງນີ້ບໍ:
+ໃຫ້ຂ້ອຍເງິນຫຼືຂ້ອຍຈະເຮັດໃຫ້ເຈົ້າແຕກເປັນສິ້ນສ່ວນ, ດີບໍ?
+
+447
+00:28:58,700 --> 00:29:00,700
+[PRESIDENT]
+But-
+ແຕ່...
+
+448
+00:29:01,200 --> 00:29:03,200
+[DR. EVIL]
+Talk to the hand!
+ເວົ້າກັບມື!
+
+449
+00:29:03,700 --> 00:29:08,600
+[DR. EVIL]
+I did love that, though. Cuba Gooding Jr. was outstanding. Oscar speech, very touching.
+ຂ້ອຍມັກມັນ, ເຖິງຢ່າງໃດກໍ່ຕາມ. ຄິວບາ ກູດິງ
+ຈູເນຍແມ່ນໂດດເດັ່ນ. ການກ່າວຄໍາປາໄສໂອສກາ, ກະຕຸ້ນໃຈຫຼາຍ.
+
+450
+00:29:09,100 --> 00:29:11,100
+[DR.EVIL]
+Okay, everybody clear the room!
+ດີແລ້ວ, ທຸກຄົນອອກຫ້ອງ!
+
+451
+00:29:11,600 --> 00:29:15,450
+[DR. EVIL]
+Yeah, baby. Very shagedelic.  This isn't working. I don't feel anything.
+ແມ່ນແລ້ວແມ. ຮູບຮ່າງຫຼາຍ.
+ນີ້ແມ່ນບໍ່ໄດ້ເຮັດວຽກ. ຂ້ອຍບໍ່ຮູ້ສຶກຫຍັງເລີຍ.
+
+452
+00:29:15,950 --> 00:29:21,950
+[DR. EVIL ANIMATED SEQUENCE]
+A Yellow Submarine-like depiction of Dr. Evil. Zoom in on his head which explodes into 30 other small Dr. Evil heads which rain on a Peter Max-ian valley of flowers. The flowers sprout the word "EVIL'.
+ຮູບພາບທີ່ຄ້າຍຄືກັບເຮືອລໍາທໍານອງສີເຫຼືອງຂອງດຣ Evil. ຂະຫຍາຍເຂົ້າໄປໃນຫົວຂອງລາວທີ່ລະເບີດເປັນຫົວນ້ອຍໆອີກ
+30 ຫົວ Dr Evil ທີ່ຝົນຕົກໃສ່ຮ່ອມພູຂອງດອກໄມ້ Peter Max-ian. ດອກໄມ້ sprout ຄໍາ ວ່າ"EVIL".
+
+453
+00:29:22,450 --> 00:29:24,900
+[NUMBER TWO]
+Dr. Evil, one last thing. I-- oh.
+ດຣ Evil, ສິ່ງສຸດທ້າຍຫນຶ່ງ. ຂ້ອຍ - ໂອ້.
+
+454
+00:29:25,400 --> 00:29:29,250
+[DR. EVIL]
+I was just... right. Would it kill you to frickin' knock?
+ຂ້ອຍພຽງແຕ່... ແມ່ນແລ້ວ. ມັນຈະເຮັດໃຫ້ເຈົ້າຕາຍບໍ?
+
+455
+00:29:29,750 --> 00:29:31,850
+[FELICITY]
+Austin, tell me about the Nineties.
+ໂອສຕິນ, ບອກຂ້ອຍກ່ຽວກັບຊຸມປີເກົ້າສິບ.
+
+456
+00:29:32,350 --> 00:29:37,600
+[AUSTIN]
+You know I can't tell you details about the future, baby, it could alter history.
+ເຈົ້າຮູ້ວ່າຂ້ອຍບໍ່ສາມາດບອກລາຍລະອຽດກ່ຽວກັບອະນາຄົດໄດ້
+, ແມ, ມັນອາດຈະປ່ຽນແປງປະຫວັດສາດ.
+
+457
+00:29:38,100 --> 00:29:43,000
+[FELICITY]
+Not details, just what it's like. You know, what's the scene?  Where's it at?
+ບໍ່ແມ່ນລາຍລະອຽດ, ພຽງແຕ່ວ່າມັນເປັນແນວໃດ.
+ເຈົ້າຮູ້ແລ້ວ, ສະຖານທີ່ແມ່ນຫຍັງ? ມັນຢູ່ໃສ?
+
+458
+00:29:43,500 --> 00:29:49,500
+[AUSTIN]
+There've been a lot of advances in the Nineties, baby. The economy is stable, people take better care of their health concern for the environment is on the rise and, um, let's see, there's an entire television channel dedicated to golf.
+ມີການກ້າວຫນ້າຫຼາຍຢ່າງໃນຊຸມປີສິບປີ, ແມ. ເສດຖະກິດມີຄວາມ ຫມັ້ນ ຄົງ, ປະຊາຊົນເບິ່ງແຍງສຸຂະພາບຂອງພວກເຂົາຢ່າງດີກວ່າ
+ສໍາ ລັບສິ່ງແວດລ້ອມ ກໍາ ລັງເພີ່ມຂຶ້ນແລະ, ອູມ, ມາເບິ່ງ, ມີຊ່ອງໂທລະພາບທັງ ຫມົດ ທີ່ອຸທິດໃຫ້ກັລຟ໌.
+
+459
+00:29:50,000 --> 00:29:52,000
+[FELICITY]
+Sounds awful.
+ມັນເບິ່ງຄືວ່າຮ້າຍແຮງ.
+
+460
+00:29:52,500 --> 00:29:58,500
+[AUSTIN]
+It's not so bad once you get used to it. The Nineties are about responsibility. You know, having respect for yourself and other people. I even got married.
+ມັນບໍ່ຮ້າຍແຮງຫຼາຍເມື່ອເຈົ້າເຄີຍກັບມັນ. ປີສິບເກົ້າແມ່ນກ່ຽວກັບຄວາມຮັບຜິດຊອບ
+. ເຈົ້າຮູ້ແລ້ວ, ການເຄົາລົບຕົວເອງແລະຄົນອື່ນ. ຂ້ອຍຍັງແຕ່ງງານແລ້ວ.
+
+461
+00:29:59,000 --> 00:30:01,450
+[FELICITY]
+You? Married? What about the sexual revolution?
+ເຈົ້າ? ແຕ່ງງານແລ້ວ? ການປະຕິວັດທາງເພດແນວໃດ?
+
+462
+00:30:01,950 --> 00:30:07,550
+[AUSTIN]
+Well, it turns out there were some casualties, baby. Don't you think you'll ever get married?
+ດີ, ມັນປາກົດວ່າມີຜູ້ເສຍຫາຍບາງຄົນ,
+ແມ. ເຈົ້າບໍ່ຄິດວ່າເຈົ້າຈະແຕ່ງງານບໍ?
+
+463
+00:30:08,050 --> 00:30:12,250
+[FELICITY]
+No, not until I get a little more 'experience' under my belt.
+ບໍ່, ບໍ່ຈົນກວ່າຂ້ອຍຈະໄດ້ຮັບ'ປະສົບການ'
+ອີກ ຫນ້ອຍ ຫນຶ່ງ ພາຍໃຕ້ສາຍແອວຂອງຂ້ອຍ.
+
+464
+00:30:12,750 --> 00:30:14,750
+[AUSTIN]
+Oh, behave!
+ໂອ້, ປະຕິບັດຕົວດີ!
+
+465
+00:30:15,250 --> 00:30:17,250
+[AUSTIN]
+Oh my God!
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ!
+
+466
+00:30:17,750 --> 00:30:20,200
+[FELICITY]
+What is it! Is it Fat Bastard?
+ມັນເປັນຫຍັງ! ມັນເປັນໂຊກຮ້າຍໄຂມັນບໍ?
+
+467
+00:30:20,700 --> 00:30:23,150
+[AUSTIN]
+No, written here on my hand, see?
+ບໍ່, ຂຽນຢູ່ບ່ອນນີ້ຢູ່ເທິງມືຂອງຂ້ອຍ, ເບິ່ງບໍ?
+
+468
+00:30:23,650 --> 00:30:25,650
+[AUSTIN]
+Says 'Oh my God!'
+ມັນເວົ້າວ່າ' ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ!
+
+469
+00:30:26,150 --> 00:30:28,150
+[FELICITY]
+Austin, look.
+ໂອສຕິນ, ເບິ່ງແມ.
+
+470
+00:30:28,650 --> 00:30:34,650
+[AUSTIN]
+Felicity, I haven't had this much fun since I worked undercover in Amsterdam-- '66 I think it was.
+ຟາລີສຕິ, ຂ້ອຍບໍ່ເຄີຍມ່ວນຊື່ນຫຼາຍປານໃດນັບຕັ້ງແຕ່ຂ້ອຍເຮັດວຽກລັບໃນແມສເຕີເດັມ
+- ປີ 66 ຂ້ອຍຄິດວ່າມັນເປັນ.
+
+471
+00:30:35,150 --> 00:30:41,150
+[FELICITY]
+1965, actually. You posed as a Dutch cheese expert to stop Dr.  Evil from poisoning the world's water supply.
+ປີ 1965, ໃນຄວາມເປັນຈິງ. ເຈົ້າເຮັດຕົວເປັນຜູ້ຊ່ຽວຊານຊີສ໌ໂຮນລັງເພື່ອຢຸດດຣ
+Evil ຈາກການເປັນພິດການສະຫນອງນ້ ໍາ ຂອງໂລກ.
+
+472
+00:30:41,650 --> 00:30:47,650
+[FELICITY]
+I've studied your file, Austin. I want to be a trailblazer, just like you.  The Seventies are right around the corner. It's going to be a glorious time for fashion and music and technology-- it won't be long before every flying car has its own 8-track.
+ຂ້ອຍໄດ້ສຶກສາເອກະສານຂອງທ່ານແລ້ວ, ໂອສຕິນ. ຂ້ອຍຢາກເປັນຜູ້ວາງເສັ້ນທາງ, ຄືກັບເຈົ້າ. ປີເຈັດສິບແມ່ນຢູ່ໃກ້ໆແຄມ.
+ມັນຈະເປັນເວລາທີ່ສວຍງາມ ສໍາ ລັບແຟຊັນແລະດົນຕີແລະເຕັກໂນໂລຢີ - ມັນຈະບໍ່ໃຊ້ເວລາຫຼາຍກ່ອນລົດບິນທຸກຄົນຈະມີ 8 ເສັ້ນທາງຂອງຕົນເອງ.
+
+473
+00:30:48,150 --> 00:30:54,100
+[FELICITY]
+The CIA has always been a boy's club until now. Well move over, this chick's taking over.
+CIA ແມ່ນສະໂມສອນຂອງເດັກຊາຍຕະຫຼອດໄປຈົນຮອດປະຈຸບັນ
+. ດີຍ້າຍໄປ, ເດັກຍິງຄົນນີ້ ກໍາ ລັງຮັບຜິດຊອບ.
+
+474
+00:30:54,600 --> 00:30:56,600
+[AUSTIN]
+Very impressive.
+ຫນ້າປະທັບໃຈຫຼາຍ.
+
+475
+00:30:57,100 --> 00:30:59,100
+[FELICITY]
+Austin, your voice!
+ໂອສຕິນ, ສຽງຂອງທ່ານ!
+
+476
+00:30:59,600 --> 00:31:02,400
+[AUSTIN]
+Yes, I think I'm coming down with something.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າຂ້ອຍ ກໍາ ລັງຕົກລົງກັບບາງສິ່ງບາງຢ່າງ.
+
+477
+00:31:02,900 --> 00:31:06,050
+[AUSTIN]
+I'll get some ice cream. Would you like some?
+ຂ້ອຍຈະເອົານ້ ໍາ ກ້ອນບາງຢ່າງ. ເຈົ້າຢາກມີບາງຢ່າງບໍ?
+
+478
+00:31:06,550 --> 00:31:08,550
+[FELICITY]
+No thanks.
+ບໍ່ ຂອບໃຈ.
+
+479
+00:31:09,050 --> 00:31:11,850
+[AUSTIN]
+Could I have two scoops of Vanilla, please?
+ຂ້ອຍສາມາດເອົາວານີລາສອງຈອກໄດ້ບໍ, ກະລຸນາ?
+
+480
+00:31:12,350 --> 00:31:15,150
+[ICE CREAM MAN]
+Right away, governor. Would you like chocolate syrup?
+ທັນທີ, ຜູ້ປົກຄອງ. ເຈົ້າຢາກຊີຣັບຊັອກໂກແລັດບໍ?
+
+481
+00:31:15,650 --> 00:31:17,650
+[AUSTIN]
+Yes, please.
+ແມ່ນແລ້ວ, ກະລຸນາ.
+
+482
+00:31:18,150 --> 00:31:20,250
+[ICE CREAM MAN]
+Will you have any whipped cream?
+ເຈົ້າຢາກກິນຄຣີມທີ່ຖືກຕີບໍ?
+
+483
+00:31:20,750 --> 00:31:22,750
+[AUSTIN]
+I will, thank you.
+ຂ້ອຍຈະເຮັດ, ຂອບໃຈ.
+
+484
+00:31:23,250 --> 00:31:25,250
+[ICE CR@ MAN]
+Candy sprinkles?
+ການສີດແຊກແຊງບໍ?
+
+485
+00:31:25,750 --> 00:31:27,750
+[AUSTIN]
+Yes please.
+ແມ່ນແລ້ວ ກະລຸນາ.
+
+486
+00:31:28,250 --> 00:31:30,250
+[ICE CREAM MAN]
+Crushed nuts?
+ຫມາກ ນັດທີ່ສັ່ນສະເທືອນບໍ?
+
+487
+00:31:30,750 --> 00:31:32,750
+[AUSTIN]
+No, laryngitis.
+ບໍ່, ໄຂ້ຍຸງລາຍ.
+
+488
+00:31:33,250 --> 00:31:35,700
+[ICE CREAM MAN]
+Here's your change, sir. Oh, and Austin--
+ນີ້ແມ່ນເງິນປ່ຽນຂອງທ່ານເດີ. ໂອ້, ແລະໂອສຕິນ -
+
+489
+00:31:36,200 --> 00:31:38,200
+[AUSTIN]
+Basil!
+ບາຊີລ!
+
+490
+00:31:38,700 --> 00:31:41,150
+[BASIL EXPOSITION]
+Hello, Austin. What's wrong with your voice?
+ສະບາຍດີ ໂອສຕິນ. ມີຫຍັງເກີດຂຶ້ນກັບສຽງຂອງທ່ານ?
+
+491
+00:31:41,650 --> 00:31:47,650
+[AUSTIN]
+I just had ice cream. Listen to me, I have dairy throat.  "Mary had a little lamb and it was always gruntin'. She tied it to a five bar gate and kicked it's little-
+ຂ້ອຍຫາກໍ່ກິນນ້ ໍາ ກ້ອນ. ຟັງຂ້ອຍ, ຂ້ອຍມີຄໍນົມ.
+ເມຣີມີແມວນ້ອຍໆແລະມັນສັ່ນສະເທືອນຢູ່ສະເຫມີ. ນາງເຊື່ອມຕໍ່ມັນກັບປະຕູແຖບຫ້າແລະຕີມັນນ້ອຍໆ -
+
+492
+00:31:48,150 --> 00:31:54,150
+[BASIL EXPOSITION]
+Austin! Things are heating up, so I thought it best to contact you in disguise. Felicity, your plan worked. You and Austin track Fat Bastard back to Dr. Evil.
+ໂອສຕິນ! ສິ່ງຕ່າງໆ ກໍາ ລັງຮ້ອນຂຶ້ນ, ສະນັ້ນຂ້ອຍຄິດວ່າມັນດີທີ່ສຸດທີ່ຈະຕິດຕໍ່ຫາເຈົ້າໃນເຄື່ອງນຸ່ງຫົ່ມ
+. ຟີລິສຕິ, ແຜນການຂອງທ່ານເຮັດວຽກໄດ້. ເຈົ້າແລະໂອສຕີນຕິດຕາມໂຊກຮ້າຍໄຂມັນກັບຄືນໄປບ່ອນດຣ Evil.
+
+493
+00:31:54,650 --> 00:31:57,100
+[AUSTIN]
+But how can we track Fat Bastard?
+ແຕ່ພວກເຮົາຈະຕິດຕາມໂຊກຮ້າຍໄຂມັນໄດ້ແນວໃດ?
+
+494
+00:31:57,600 --> 00:32:00,750
+[FELICITY]
+I planted a homing device on him last night.
+ຂ້ອຍໄດ້ວາງອຸປະກອນຕິດຕາມລາວໃນມື້ວານນີ້.
+
+495
+00:32:01,250 --> 00:32:04,750
+[BASIL EXPOSITION]
+Yes, and we're starting to pick up the signal now.
+ແມ່ນແລ້ວ, ແລະພວກເຮົາ ກໍາ ລັງເລີ່ມຕົ້ນຮັບສັນຍານດຽວນີ້.
+
+496
+00:32:05,250 --> 00:32:09,100
+[AUSTIN]
+How did you get close enough to plant a homing device?
+ເຈົ້າເຂົ້າໃກ້ພຽງພໍແນວໃດເພື່ອປູກອຸປະກອນຕິດຕາມບ້ານ?
+
+497
+00:32:09,600 --> 00:32:12,050
+[FELICITY]
+I shagged him, I shagged him rotten.
+ຂ້ອຍໄດ້ຟັກລາວ, ຂ້ອຍເຮັດໃຫ້ລາວສໍ້ໂກງ.
+
+498
+00:32:12,550 --> 00:32:14,550
+[AUSTIN]
+You... him? Just like that?
+ເຈົ້າ... ລາວບໍ? ພຽງແຕ່ແບບນັ້ນບໍ?
+
+499
+00:32:15,050 --> 00:32:17,150
+[FELICITY]
+Yes, Austin, we needed that information.
+ແມ່ນແລ້ວ, ໂອສຕິນ, ພວກເຮົາຕ້ອງການຂໍ້ມູນນັ້ນ.
+
+500
+00:32:17,650 --> 00:32:21,150
+[BASIL EXPOSITION]
+Well, thanks to your effort, Felicity, we now know that-
+ດີ, ຂອບໃຈຄວາມພະຍາຍາມຂອງທ່ານ, ຟີລິສຕິ, ດຽວນີ້ພວກເຮົາຮູ້ວ່າ -
+
+501
+00:32:21,650 --> 00:32:25,850
+[AUSTIN]
+Did you use an elaborate set of pulleys? A block and tackle?
+ເຈົ້າໃຊ້ກະຕູ້ກະຕຸ້ນທີ່ລໍາບາກບໍ? ກ້ອນແລະກະຕ່າກະທູ້ບໍ?
+
+502
+00:32:26,350 --> 00:32:30,900
+[BASIL EXPOSITION]
+Anyway, you two follow the signal back to Dr. Evil's headquarters and then-
+ຢ່າງໃດກໍຕາມ, ເຈົ້າທັງສອງຕິດຕາມສັນຍານກັບຄືນໄປບ່ອນສໍານັກງານໃຫຍ່ຂອງດຣ
+Evil ແລະຫຼັງຈາກນັ້ນ -
+
+503
+00:32:31,400 --> 00:32:37,400
+[AUSTIN]
+I just can't get my head around it, baby. You're so small and he's so ... not small. The sheer mechanics of it are mindboggling!
+ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດເອົາຫົວຂອງຂ້ອຍຢູ່ອ້ອມຂ້າງມັນໄດ້ແມ. ເຈົ້ານ້ອຍຫຼາຍແລະລາວນ້ອຍຫຼາຍ
+... ບໍ່ແມ່ນນ້ອຍ. ກົນຈັກທີ່ບໍລິສຸດຂອງມັນເຮັດໃຫ້ຈິດໃຈແປກໃຈ!
+
+504
+00:32:37,900 --> 00:32:42,800
+[BASIL EXPOSITION]
+Never mind, Austin, you two have work to do. You must find Dr.  Evil.
+ບໍ່ເປັນຫຍັງ, ໂອສຕິນ, ເຈົ້າທັງສອງຕ້ອງເຮັດວຽກ
+. ເຈົ້າຕ້ອງຊອກຫາດຣ Evil.
+
+505
+00:32:43,300 --> 00:32:48,900
+[AUSTIN]
+I got it! A Chinese basket with a counter-weighted ballast.  That's how you did it, right?
+ຂ້ອຍໄດ້ມັນແລ້ວ! ກະຕ່າຈີນທີ່ມີບາລາສຕ໌
+counterweighted. ນັ້ນແມ່ນວິທີທີ່ທ່ານເຮັດມັນ, ແມ່ນບໍ?
+
+506
+00:32:49,400 --> 00:32:51,850
+[FELICITY]
+Austin, it almost sounds like you're jealous.
+ໂອສຕິນ, ມັນເກືອບເບິ່ງຄືວ່າເຈົ້າໂຊກຮ້າຍ.
+
+507
+00:32:52,350 --> 00:32:55,150
+[AUSTIN]
+Who, me? That's not possible, baby!  is it?
+ໃຜ, ຂ້ອຍ? ນັ້ນບໍ່ສາມາດເຮັດໄດ້, ແມ! ແມ່ນບໍ?
+
+508
+00:32:55,650 --> 00:32:57,650
+[AUSTIN]
+Get down!
+ຫຼຸດລົງ!
+
+509
+00:32:58,150 --> 00:33:04,150
+[FELICITY]
+We're obviously on the right track.  It looks like Fat Bastard is-on an island in the middle of the ocean.
+ພວກເຮົາແນ່ນອນວ່າຢູ່ຕາມເສັ້ນທາງທີ່ຖືກຕ້ອງ.
+ມັນເບິ່ງຄືວ່າໂຊກແຊງແຊບແມ່ນຢູ່ເທິງເກາະໃນກາງມະຫາສະຫມຸດ.
+
+510
+00:33:04,650 --> 00:33:08,850
+[AUSTIN]
+According to the readings, Dr. Evil's headquarters is over the next ridge.
+ອີງຕາມການອ່ານ, ສໍານັກງານໃຫຍ່ຂອງດຣ Evil ແມ່ນຢູ່ເທິງພູເຂົາຕໍ່ໄປ.
+
+511
+00:33:09,350 --> 00:33:11,350
+[FELICITY]
+Can I have a look?
+ຂ້ອຍເບິ່ງໄດ້ບໍ?
+
+512
+00:33:11,850 --> 00:33:13,850
+[AUSTIN]
+Sure.
+ແນ່ນອນ.
+
+513
+00:33:14,350 --> 00:33:16,800
+[FELICITY]
+Question is, how do we get in?
+ຄໍາຖາມແມ່ນ, ພວກເຮົາຈະເຂົ້າມາແນວໃດ?
+
+514
+00:33:17,300 --> 00:33:19,300
+[AUSTIN]
+Mmmmmmm...mmmmm...
+ມາມມມມ
+
+515
+00:33:19,800 --> 00:33:21,800
+[FELICITY]
+Austin, did you hear me?
+ໂອສຕິນ, ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ?
+
+516
+00:33:22,300 --> 00:33:25,450
+[AUSTIN]
+I seem to be stuck in your dirty pillows.
+ຂ້ອຍເບິ່ງຄືວ່າຕິດຢູ່ໃນຈານເປື້ອນຂອງທ່ານ.
+
+517
+00:33:25,950 --> 00:33:29,100
+[FELICITY]
+Where are the topographical maps that Basil drew up?
+ແຜນທີ່ topographical ທີ່ບາຊີລໄດ້ສ້າງຂຶ້ນຢູ່ໃສ?
+
+518
+00:33:29,600 --> 00:33:31,700
+[AUSTIN]
+I think they're in the tent.
+ຂ້ອຍຄິດວ່າພວກເຂົາຢູ່ໃນແຖບ.
+
+519
+00:33:32,200 --> 00:33:34,300
+[AUSTIN]
+Have you got it out yet?
+ເຈົ້າໄດ້ເອົາມັນອອກແລ້ວບໍ?
+
+520
+00:33:34,800 --> 00:33:39,000
+[FELICITY]
+Good Lord, Austin, what sort of things do you put in there?
+ພຣະເຈົ້າທີ່ດີ, ໂອສຕິນ, ເຈົ້າເອົາສິ່ງໃດໃສ່ບ່ອນນັ້ນ?
+
+521
+00:33:39,500 --> 00:33:41,600
+[AUSTIN]
+Oh, anything that catches my fancy.
+ໂອ້, ທຸກສິ່ງທຸກຢ່າງທີ່ຈັບໃຈຂ້ອຍ.
+
+522
+00:33:42,100 --> 00:33:45,250
+[FELICITY]
+How do you manage to fit it all in?
+ເຈົ້າສາມາດຈັດການມັນໄດ້ແນວໃດ?
+
+523
+00:33:45,750 --> 00:33:47,750
+[AUSTIN]
+Oh, it stretches to fit.
+ໂອ້, ມັນຍືດອອກເພື່ອເຂົ້າກັນໄດ້.
+
+524
+00:33:48,250 --> 00:33:51,750
+[AUSTIN]
+Are you almost done? I can't hold it much longer.
+ເຈົ້າເກືອບສໍາເລັດແລ້ວບໍ? ຂ້ອຍບໍ່ສາມາດຍຶດມັນໄດ້ອີກດົນນານ.
+
+525
+00:33:52,250 --> 00:33:57,150
+[FELICITY]
+Here we go, one hammer. It's amazing how much this duffel bag will hold.
+ມາແລ້ວ, ກະດານກະດານດຽວ.
+ມັນແປກໃຈວ່າຖົງກະຕູ້ກະຕ່ານີ້ຈະຖືໄດ້ຫຼາຍປານໃດ.
+
+526
+00:33:57,650 --> 00:34:01,850
+[JUST A SLOB LIKE ONE OF US?']
+We see that Number Two and Frau are the audience. They applaud.
+ພວກເຮົາເຫັນວ່າເລກສອງ ແລະ ແມ່ຍິງແມ່ນຜູ້ຊົມ. ພວກເຂົາແຊກແຊງ.
+
+527
+00:34:02,350 --> 00:34:08,300
+[NUMBER TWO]
+Dr. Evil, that was fantastic, but I do have some bad news.  Powers' is on the island.
+ດຣ Evil, ນັ້ນແມ່ນດີເລີດ,
+ແຕ່ຂ້ອຍມີຂ່າວບໍ່ດີບາງຢ່າງ. ພະລັງງານຢູ່ເທິງເກາະ.
+
+528
+00:34:08,800 --> 00:34:10,800
+[DR. EVIL]
+How tedious.
+ມັນເບື່ອຫນ່າຍຫຼາຍປານໃດ.
+
+529
+00:34:11,300 --> 00:34:15,850
+[NUMBER TWO]
+Don't worry, Dr. Evil, we can get to him by using the girl.
+ຢ່າກັງວົນ, ດຣ Evil, ພວກເຮົາສາມາດໄປຫາລາວໂດຍການໃຊ້ເດັກຍິງ.
+
+530
+00:34:16,350 --> 00:34:18,350
+[DR. EVIL]
+Really?
+ແທ້ບໍ?
+
+531
+00:34:18,850 --> 00:34:20,950
+[NUMBER TWO]
+I have the perfect weapon. Frau?
+ຂ້ອຍມີອາວຸດທີ່ສົມບູນແບບ. ແມ່?
+
+532
+00:34:21,450 --> 00:34:23,450
+[FRAU]
+Bring in the He-Bots!
+ເອົາ He-Bots ມາ!
+
+533
+00:34:23,950 --> 00:34:29,950
+[NUMBER TWO]
+Dr. Evil, may I present the He-Bots. What kind of woman could resist these perfect specimens of masculinity? Their clothes are stylish, their posture is ramrod straight, and their buttocks are tight, like tigers. And, each He-Bot is armed with a secret weapon.
+ດຣ Evil, ຂ້ອຍສາມາດ ນໍາ ສະ ເຫນີ He-Bots ໄດ້ບໍ. ແມ່ຍິງປະເພດໃດສາມາດຕໍ່ຕ້ານຕົວຢ່າງທີ່ສົມບູນແບບຂອງຄວາມເປັນຜູ້ຊາຍເຫຼົ່ານີ້ໄດ້?
+ເຄື່ອງນຸ່ງຫົ່ມຂອງພວກເຂົາແມ່ນສວຍງາມ, ການຢືນຂອງພວກເຂົາແມ່ນ ramrod ກົງກັນຂ້າມ, ແລະກະຕ່າຂອງພວກເຂົາແມ່ນແຫນ້ນ ແຫນ້ນ, ຄືກັບແມວ. ແລະ, ແຕ່ລະເຮບອດແມ່ນປະກອບອາວຸດລັບ.
+
+534
+00:34:30,450 --> 00:34:32,450
+[NUMBER TWO]
+Poison gas...
+ແກັສພິດ...
+
+535
+00:34:32,950 --> 00:34:34,950
+[NUMBER TWO]
+Machine gun...
+ປືນຈັກ...
+
+536
+00:34:35,450 --> 00:34:37,450
+[NUMBER TWO]
+And deadly acid.
+ແລະອາຊິດທີ່ຮ້າຍແຮງ.
+
+537
+00:34:37,950 --> 00:34:43,950
+[DR. EVIL]
+Right. I object to the last one on aesthetic grounds, but I don't care how you get Powers, just bring him to me.  Ready Mini-Me? A one and a two and...  ME, AND MY SHA-DOW STROLLING DOWN
+ແມ່ນແລ້ວ. ຂ້ອຍຄັດຄ້ານຄົນສຸດທ້າຍດ້ວຍເຫດຜົນດ້ານຄວາມງາມ, ແຕ່ຂ້ອຍບໍ່ສົນໃຈວ່າເຈົ້າໄດ້ຮັບພະລັງງານແນວໃດ
+, ພຽງແຕ່ເອົາມັນມາຫາຂ້ອຍ. ພ້ອມ Mini-Me? ຫນຶ່ງ ແລະສອງແລະ... ຂ້ອຍ, ແລະ SHA-DOW ຂອງຂ້ອຍຍ່າງລົງ
+
+538
+00:34:44,450 --> 00:34:47,250
+[FELICITY]
+Do you want everything to go back in?
+ເຈົ້າຢາກໃຫ້ທຸກຢ່າງກັບຄືນໄປບ່ອນບໍ?
+
+539
+00:34:47,750 --> 00:34:49,850
+[AUSTIN]
+Yes. Listen, Felicity, about Fat Bastard-
+ແມ່ນແລ້ວ. ຟັງ, ຟີລິສຕິ, ກ່ຽວກັບໂຊກຮ້າຍໄຂມັນ -
+
+540
+00:34:50,350 --> 00:34:56,350
+[FELICITY]
+It's my job, Austin. You of all people should understand that.  Marakesh, 1962. Rome, 1964. Tokyo, 1966. I know your record backwards and forwards.  You've had more sex on the job than a Swedish stewardess.
+ມັນເປັນວຽກຂອງຂ້ອຍ, ໂອສຕິນ. ເຈົ້າຄວນເຂົ້າໃຈສິ່ງນັ້ນ. ມາຣາເກສ, 1962. ໂຣມ, 1964. ໂຕກຽວ, 1966.
+ຂ້ອຍຮູ້ບັນທຶກຂອງທ່ານກັບຄືນໄປບ່ອນແລະຕໍ່ຫນ້າ. ເຈົ້າໄດ້ມີເພດຫຼາຍໃນວຽກງານກ່ວາຜູ້ຈັດການສະວີເດັນ.
+
+541
+00:34:56,850 --> 00:35:02,100
+[AUSTIN]
+You're right, Felicity, I can't deny it. But the world changed, and I changed too.
+ເຈົ້າເວົ້າຖືກຕ້ອງ, ຟີລິສຕິ, ຂ້ອຍບໍ່ສາມາດປະຕິເສດມັນໄດ້
+. ແຕ່ໂລກໄດ້ປ່ຽນແປງ, ແລະຂ້ອຍໄດ້ປ່ຽນແປງເຊັ່ນກັນ.
+
+542
+00:35:02,600 --> 00:35:04,600
+[AUSTIN]
+Ow!  My back hurts.
+ໂອ້! ຫລັງຂອງຂ້ອຍເຈັບປວດ.
+
+543
+00:35:05,100 --> 00:35:07,100
+[FELICITY]
+Are you OK?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+544
+00:35:07,600 --> 00:35:09,600
+[AUSTIN]
+I'm fine, just keeping packing.
+ຂ້ອຍບໍ່ເປັນຫຍັງ, ພຽງແຕ່ເກັບເຄື່ອງໄວ້.
+
+545
+00:35:10,100 --> 00:35:12,550
+[FAT BASTARD]
+Christ Almighty, it smells terrible in here.
+ພຣະຄຣິດຜູ້ມີອໍານາດທັງ ຫມົດ, ມັນກິ່ນຫອມຮ້າຍແຮງຢູ່ບ່ອນນີ້.
+
+546
+00:35:13,050 --> 00:35:16,900
+[DR. EVIL]
+It's the volcanic sulphurous emissions. We've put up some air fresheners.
+ມັນເປັນການປ່ອຍສານຊູຟູຣູສ໌ພູເຂົາໄຟ.
+ພວກເຮົາໄດ້ວາງເຄື່ອງເຮັດຄວາມສົດໃສອາກາດບາງຢ່າງ.
+
+547
+00:35:17,400 --> 00:35:21,950
+[FAT BASTARD]
+Great, now it smells like someone took a shite in a pine tree.
+ດີເລີດ, ດຽວນີ້ມັນກິ່ນຫອມຄືກັບວ່າບາງຄົນໄດ້ສໍ້ໂກງໃນຕົ້ນປິນ.
+
+548
+00:35:22,450 --> 00:35:27,350
+[NUMBER TWO]
+Dr. Evil, the laser has been loaded into the rocket. You're ready for launch.
+ດຣ Evil, ເລເຊີໄດ້ຖືກໂຫຼດໃສ່ລູກສອນໄຟ. ເຈົ້າພ້ອມແລ້ວທີ່ຈະເປີດຕົວ.
+
+549
+00:35:27,850 --> 00:35:32,750
+[DR. EVIL]
+I'm just waiting to taunt my nemesis. I have so few pleasures, you know.
+ຂ້ອຍພຽງແຕ່ລໍຖ້າທີ່ຈະໂຊກຮ້າຍສັດຕູຂອງຂ້ອຍ.
+ຂ້ອຍມີຄວາມສຸກ ຫນ້ອຍ ຫຼາຍ, ເຈົ້າຮູ້ແລ້ວ.
+
+550
+00:35:33,250 --> 00:35:36,750
+[DR. EVIL]
+Ah, Mr. Powers, Ms. Shagwell, welcome to my hollowed-out volcano.
+ອາ, ທ້າວພາວສ໌, ນາງຊາກເວລ, ຍິນດີຕ້ອນຮັບໃນພູເຂົາໄຟທີ່ຂຸມຂຸມຂອງຂ້ອຍ.
+
+551
+00:35:37,250 --> 00:35:39,250
+[AUSTIN]
+We meet again, Dr. Evil.
+ພວກເຮົາພົບກັນອີກຄັ້ງ, ດຣ Evil.
+
+552
+00:35:39,750 --> 00:35:45,750
+[DR. EVIL]
+Yes, the only reason I'm keeping you alive is so you can feel the agony of watching my plan unfold.
+ແມ່ນແລ້ວ,
+ເຫດຜົນດຽວທີ່ຂ້ອຍເຮັດໃຫ້ເຈົ້າຢູ່ອາໄສແມ່ນເພື່ອໃຫ້ເຈົ້າສາມາດຮູ້ສຶກຄວາມເຈັບປວດໃນການເບິ່ງແຜນການຂອງຂ້ອຍພັດທະນາ.
+
+553
+00:35:46,250 --> 00:35:48,350
+[AUSTIN]
+Dr. Evil your plan will never--
+ດຣ Evil ແຜນການຂອງທ່ານຈະບໍ່...
+
+554
+00:35:48,850 --> 00:35:50,850
+[DR. EVIL]
+Oh, is that yours?
+ໂອ້, ນັ້ນແມ່ນຂອງເຈົ້າບໍ?
+
+555
+00:35:51,350 --> 00:35:53,350
+[AUSTIN]
+My mojo!
+ໂມຈີຂອງຂ້ອຍ!
+
+556
+00:35:53,850 --> 00:35:57,000
+[DR. EVIL]
+You know what they say: finders keepers, loser weepers.
+ເຈົ້າຮູ້ແລ້ວວ່າພວກເຂົາເວົ້າແນວໃດ:
+ຜູ້ຊອກຫາຜູ້ຮັກສາ, ຜູ້ສູນເສຍຜູ້ຮ້ອງໄຫ້.
+
+557
+00:35:57,500 --> 00:35:59,950
+[FELICITY]
+Dr. Evil, do you like real estate?
+ດຣ Evil, ເຈົ້າມັກອະສັງຫາລິມະຊັບບໍ?
+
+558
+00:36:00,450 --> 00:36:02,450
+[DR. EVIL]
+Of course. Why?
+ແນ່ນອນ. ເປັນຫຍັງ?
+
+559
+00:36:02,950 --> 00:36:05,400
+[FELICITY]
+Now you've got a couple of achers.
+ດຽວນີ້ເຈົ້າມີອາການເຈັບປວດສອງສາມຄົນ.
+
+560
+00:36:05,900 --> 00:36:07,900
+[DR. EVIL]
+Oww! My stomach hurts!
+ໂອ້! ທ້ອງຂອງຂ້ອຍເຈັບປວດ!
+
+561
+00:36:08,400 --> 00:36:14,400
+[AUSTIN]
+I don't care if he is evil, you don't give a man a shot in the pills. It's just not cricket, baby.
+ຂ້ອຍບໍ່ສົນໃຈວ່າລາວເປັນຄົນຮ້າຍ,
+ເຈົ້າບໍ່ໃຫ້ຜູ້ຊາຍສັກຢາໃນເມັດ. ມັນພຽງແຕ່ບໍ່ແມ່ນກຣິເກັດ, ແມ.
+
+562
+00:36:14,900 --> 00:36:16,900
+[DR. EVIL]
+Take them away.
+ເອົາພວກມັນໄປ.
+
+563
+00:36:17,400 --> 00:36:23,400
+[SCOTT]
+She just hoofed you in the sack and you're going to leave them alone in a jail cell with one inept guard? They'll escape, dipshit. You do this every time!
+ນາງຫາກໍ່ເອົາເຈົ້າໃສ່ຖົງແລະເຈົ້າຈະປ່ອຍພວກເຂົາຢູ່ຄົນດຽວໃນຄຸກຄຸກກັບຄົນປົກປ້ອງທີ່ບໍ່ສາມາດເຮັດໄດ້ບໍ
+? ພວກເຂົາຈະຫນີໄປ, ຄົນໂຊກຮ້າຍ. ເຈົ້າເຮັດສິ່ງນີ້ທຸກຄັ້ງ!
+
+564
+00:36:23,900 --> 00:36:27,750
+[DR. EVIL]
+You're going the right way for a smacked bottom, young man.
+ເຈົ້າ ກໍາ ລັງໄປທາງທີ່ຖືກຕ້ອງ ສໍາ ລັບລຸ່ມທີ່ຖືກຕີ, ຊາຍຫນຸ່ມ.
+
+565
+00:36:28,250 --> 00:36:30,250
+[SCOTT]
+You don't own me!
+ເຈົ້າບໍ່ແມ່ນເຈົ້າຂອງຂ້ອຍ!
+
+566
+00:36:30,750 --> 00:36:36,750
+[DR. EVIL]
+I do actually.  It's complicated. Usually it's illegal but this buddy of mine... but I digress. Fat Bastard, I'm leaving you in charge. I'm going up the moon to hold the world ransom with my giant laser, I shouldn't be long.
+ຂ້ອຍເຮັດແທ້ໆ. ມັນສັບສົນ. ໂດຍປົກກະຕິມັນຜິດກົດ ຫມາຍ ແຕ່ເພື່ອນຂອງຂ້ອຍຄົນນີ້... ແຕ່ຂ້ອຍຍ່າງໄປ. ຢອກຊື່ໆ ແຊງແຊງ,
+ຂ້ອຍ ກໍາ ລັງປ່ອຍເຈົ້າເປັນຜູ້ຮັບຜິດຊອບ. ຂ້ອຍຈະຂຶ້ນດວງຈັນເພື່ອຖືຄ່າໄຖ່ໂລກດ້ວຍເລເຊີໃຫຍ່ຂອງຂ້ອຍ, ຂ້ອຍບໍ່ຄວນຍາວນານ.
+
+567
+00:36:37,250 --> 00:36:39,250
+[FAT BASTARD]
+What about Powers?
+ຈະເປັນແນວໃດກັບພະລັງງານ?
+
+568
+00:36:39,750 --> 00:36:45,750
+[DR. EVIL]
+He's tucked away safely in his cell. He's harmless without that mojo. Guard it with your life.  Number Two, begin the countdown.
+ລາວຖືກເຊື່ອງໄວ້ຢ່າງປອດໄພໃນຄຸກຂອງລາວ. ລາວບໍ່ມີອັນຕະລາຍໂດຍບໍ່ມີໂມຈີນັ້ນ
+. ຮັກສາມັນດ້ວຍຊີວິດຂອງທ່ານ. ອັນດັບສອງ, ເລີ່ມການນັບຄືນ.
+
+569
+00:36:46,250 --> 00:36:48,250
+[NUMBER TWO]
+Five, four, three...
+ຫ້າ, ສີ່, ສາມ...
+
+570
+00:36:48,750 --> 00:36:50,750
+[NUMBER TWO]
+Two, one, liftoff!
+ສອງ, ຫນຶ່ງ, ຍົກຂຶ້ນ!
+
+571
+00:36:51,250 --> 00:36:54,400
+[OPERATOR]
+Colonel, you better have a look at this radar.
+ພົນຈັດຕະວາ, ເຈົ້າຄວນເບິ່ງຣາດານີ້.
+
+572
+00:36:54,900 --> 00:36:56,900
+[COLONEL]
+What is it, son?
+ມັນເປັນຫຍັງ, ລູກຊາຍ?
+
+573
+00:36:57,400 --> 00:37:00,900
+[OPERATOR]
+I don't know, sir, but it looks like a giant--
+ຂ້ອຍບໍ່ຮູ້ເດີ, ແຕ່ມັນເບິ່ງຄືວ່າເປັນຄົນໃຫຍ່...
+
+574
+00:37:01,400 --> 00:37:03,400
+[PILOT]
+Dick!
+ດິກ!
+
+575
+00:37:03,900 --> 00:37:05,900
+[CO-PILOT]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+576
+00:37:06,400 --> 00:37:08,500
+[PILOT]
+Take a look out of starboard.
+ເບິ່ງຈາກທາງຂວາ.
+
+577
+00:37:09,000 --> 00:37:11,800
+[CO-PILOT]
+Oh my God, it looks like a huge--
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ, ມັນເບິ່ງຄືວ່າເປັນຂະຫນາດໃຫຍ່...
+
+578
+00:37:12,300 --> 00:37:14,300
+[MAN]
+Pecker!
+ເພັກເກີ!
+
+579
+00:37:14,800 --> 00:37:16,800
+[WOMAN]
+Where?
+ຢູ່ໃສ?
+
+580
+00:37:17,300 --> 00:37:23,300
+[MAN]
+Over there. A rare red-billed woodpecker!  What sort of bird is that? Oh goodness, it's not a bird, it's-
+ຢູ່ບ່ອນນັ້ນ. ກະຕ່າໄມ້ທີ່ມີປາກແດງທີ່ຫາຍາກ!
+ນັ້ນເປັນນົກປະເພດໃດ? ໂອ້ ພຣະເຈົ້າ, ມັນບໍ່ແມ່ນນົກ, ມັນແມ່ນ -
+
+581
+00:37:23,800 --> 00:37:29,750
+[SERGEANT]
+Privates! We have reports of an Unidentified Flying Object. It has a long, smooth shaft, complete with-
+ພວກພົນລະເຮືອນ! ພວກເຮົາມີລາຍງານກ່ຽວກັບວັດຖຸບິນທີ່ບໍ່ລະບຸຕົວ
+. ມັນມີກະດານທີ່ຍາວແລະລຽບງ່າຍ, ເຕັມໄປດ້ວຍ -
+
+582
+00:37:30,250 --> 00:37:34,800
+[UMPIRE]
+Two balls! No strikes.  What is that? It looks just like an enormous--
+ສອງບານ! ບໍ່ມີການໂຈມຕີ. ນັ້ນແມ່ນຫຍັງ?
+ມັນເບິ່ງຄືວ່າພຽງແຕ່ເປັນຂະຫນາດໃຫຍ່ -
+
+583
+00:37:35,300 --> 00:37:37,300
+[COLONEL]
+Johnson!
+ຈອນສັນ!
+
+584
+00:37:37,800 --> 00:37:39,800
+[RADAR OPERATOR]
+Yes, sir?
+ແມ່ນແລ້ວເດີ?
+
+585
+00:37:40,300 --> 00:37:44,850
+[COLONEL]
+Get on the horn to British Intelligence and let them know about this.
+ໄປໃສ່ກະທູ້ກັບສືບລັບອັງກິດແລະໃຫ້ພວກເຂົາຮູ້ກ່ຽວກັບເລື່ອງນີ້.
+
+586
+00:37:45,350 --> 00:37:48,500
+[FELICITY]
+How are we going to get out of here?
+ພວກເຮົາຈະອອກຈາກບ່ອນນີ້ແນວໃດ?
+
+587
+00:37:49,000 --> 00:37:51,800
+[AUSTIN]
+Why don't you just shag Fat Bastard again?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຮັດກັບໂຊກຮ້າຍໄຂມັນອີກຄັ້ງ?
+
+588
+00:37:52,300 --> 00:37:58,300
+[FELICITY]
+Austin, that is it! I don't know what happened to you in the Nineties, but I'm still here, in the Sixties, and I still swing! Don't try to lay your hang-ups on me just because you lost your mojo! That one hurts.
+ໂອສຕິນ, ນັ້ນແມ່ນມັນ! ຂ້ອຍບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນກັບເຈົ້າໃນຊຸມປີເກົ້າສິບ, ແຕ່ຂ້ອຍຍັງຢູ່ບ່ອນນີ້, ໃນຊຸມປີສິບຫົກ,
+ແລະຂ້ອຍຍັງສັ່ນສະເທືອນ! ຢ່າພະຍາຍາມວາງການຕິດຕໍ່ຂອງຂ້ອຍພຽງແຕ່ເພາະວ່າເຈົ້າໄດ້ສູນເສຍໂມຈີຂອງທ່ານ! ຄົນນັ້ນເຈັບປວດ.
+
+589
+00:37:58,800 --> 00:38:00,900
+[AUSTIN]
+Ouch, baby, very ouch. I'm wounded.
+ໂອ້, ແມ, ໂອ້ຫຼາຍ. ຂ້ອຍບາດເຈັບ.
+
+590
+00:38:01,400 --> 00:38:04,200
+[FELICITY]
+I'm sorry, Austin, that was a cheap shot.
+ຂ້ອຍຂໍໂທດ, ໂອສຕິນ, ນັ້ນແມ່ນການຍິງລາຄາຖືກ.
+
+591
+00:38:04,700 --> 00:38:09,950
+[AUSTIN]
+No, baby, you're right. I was wrong to judge you. I guess I am... jealous.
+ບໍ່ແມ, ເຈົ້າຖືກຕ້ອງ. ຂ້ອຍຜິດໃນການຕັດສິນໃຈເຈົ້າ
+. ຂ້ອຍຄິດວ່າຂ້ອຍ... ໂຊກຮ້າຍ.
+
+592
+00:38:10,450 --> 00:38:16,400
+[FELICITY]
+But the Austin Powers I knew was wild and crazy and free. He could never be jealous.
+ແຕ່ອອສຕິນ ພູເວີສ໌ທີ່ຂ້ອຍຮູ້ຈັກແມ່ນປ່າປ່າແລະໂຊກຮ້າຍແລະເສລີ
+. ລາວບໍ່ສາມາດເປັນອິດສະຫຼະໄດ້ເລີຍ.
+
+593
+00:38:16,900 --> 00:38:22,900
+[AUSTIN]
+That Austin is gone. I've changed. I knew someone, not long ago, a very special woman. She taught me that life isn't about jumping into the sack with whoever comes along, it's about caring and responsibility. And while it is true she turned out to be an evil robot minion of Dr. Evil, I suppose I really did... love her.
+ນັ້ນອອສຕິນໄດ້ໄປແລ້ວ. ຂ້ອຍໄດ້ປ່ຽນແປງ. ຂ້ອຍຮູ້ຈັກຄົນຫນຶ່ງ, ບໍ່ດົນນານແລ້ວ, ແມ່ຍິງພິເສດຫຼາຍ. ນາງສອນຂ້ອຍວ່າຊີວິດບໍ່ແມ່ນກ່ຽວກັບການໂດດເຂົ້າໄປໃນຖົງກັບໃຜທີ່ມາພ້ອມ
+, ມັນແມ່ນກ່ຽວກັບການເບິ່ງແຍງແລະຄວາມຮັບຜິດຊອບ. ແລະໃນຂະນະທີ່ມັນເປັນຄວາມຈິງວ່ານາງກາຍເປັນຄົນໃຊ້ຫຸ່ນຍົນທີ່ຮ້າຍແຮງຂອງດຣ Evil, ຂ້ອຍຄິດວ່າຂ້ອຍເຮັດແທ້ໆ... ຮັກນາງ.
+
+594
+00:38:23,400 --> 00:38:25,400
+[FELICITY]
+Was that your wife?
+ນັ້ນແມ່ນເມຍຂອງທ່ານບໍ?
+
+595
+00:38:25,900 --> 00:38:27,900
+[AUSTIN]
+Yes, Vanessa.
+ແມ່ນແລ້ວ, ເວເນຊາ.
+
+596
+00:38:28,400 --> 00:38:34,400
+[FELICITY]
+Listen, Austin, I can't pretend to understand everything you've gone through, but I trust you. I'll make you a deal: if we get out of here alive, I'll give monogamy a try.
+ຟັງ, ໂອສຕິນ, ຂ້ອຍບໍ່ສາມາດເຮັດແບບວ່າເຂົ້າໃຈທຸກຢ່າງທີ່ທ່ານໄດ້ຜ່ານໄປ, ແຕ່ຂ້ອຍເຊື່ອໃຈເຈົ້າ.
+ຂ້ອຍຈະເຮັດຂໍ້ຕົກລົງກັບເຈົ້າ: ຖ້າພວກເຮົາອອກຈາກບ່ອນນີ້ມີຊີວິດຢູ່, ຂ້ອຍຈະພະຍາຍາມໂມໂນແກມີ.
+
+597
+00:38:34,900 --> 00:38:36,900
+[AUSTIN]
+With me?
+ກັບຂ້ອຍບໍ?
+
+598
+00:38:37,400 --> 00:38:39,400
+[FELICITY]
+Yes, silly.
+ແມ່ນແລ້ວ, ຄົນໂງ່.
+
+599
+00:38:39,900 --> 00:38:41,900
+[AUSTIN]
+Groovy, baby!
+Groovy, ແມ!
+
+600
+00:38:42,400 --> 00:38:46,250
+[FELICITY]
+We need to lure the guard inside and get his key.
+ພວກເຮົາຕ້ອງດຶງຄົນປົກປ້ອງເຂົ້າໄປໃນແລະເອົາປຸ່ມຂອງລາວ.
+
+601
+00:38:46,750 --> 00:38:52,750
+[AUSTIN]
+Alright, what if I pretend to be desperately ill with food poisoning? The guard, drawn by my cries of pain, will come to investigate.  Meanwhile, you dig a pit and line it with makeshift punji sticks made from sharpened toothbrushes. The guard falls in, Bob's your uncle, and we've got the key.  What do you think?
+ດີແລ້ວ, ຖ້າຂ້ອຍເຮັດແບບວ່າເຈັບປ່ວຍຢ່າງຮຸນແຮງດ້ວຍສານພິດອາຫານແນວໃດ? ເຈົ້າຫນ້າທີ່ຮັກສາຄວາມປອດໄພ, ທີ່ຖືກດຶງດູດໂດຍການຮ້ອງໄຫ້ຄວາມເຈັບປວດຂອງຂ້ອຍ, ຈະມາສືບສວນ. ໃນຂະນະດຽວກັນ
+, ເຈົ້າຂຸດຮູແລະແຖບມັນດ້ວຍກະດານປູນຈີຊົ່ວຄາວທີ່ເຮັດຈາກຜ້າແຂ້ວທີ່ແຊກແຊງ. ເຈົ້າຫນ້າທີ່ປ້ອງກັນຕົກເຂົ້າມາ, ໂບບເປັນພໍ່ເຖົ້າຂອງທ່ານ, ແລະພວກເຮົາມີປຸ່ມ. ເຈົ້າຄິດແນວໃດ?
+
+602
+00:38:53,250 --> 00:38:55,700
+[FELICITY]
+That might work, but how about this?
+ມັນອາດຈະເຮັດວຽກໄດ້, ແຕ່ແນວໃດກັບສິ່ງນີ້?
+
+603
+00:38:56,200 --> 00:38:59,000
+[FELICITY]
+What do you think of these, my man?
+ເຈົ້າຄິດແນວໃດກ່ຽວກັບສິ່ງເຫຼົ່ານີ້, ຜູ້ຊາຍຂອງຂ້ອຍ?
+
+604
+00:38:59,500 --> 00:39:01,500
+[GUARD]
+Mommy...
+ແມ່...
+
+605
+00:39:02,000 --> 00:39:04,800
+[FELICITY]
+It's very hot in here, don't you think?
+ມັນຮ້ອນຫຼາຍຢູ່ນີ້, ເຈົ້າບໍ່ຄິດບໍ?
+
+606
+00:39:05,300 --> 00:39:08,100
+[FELICITY]
+It's very hot in here, don't you think?
+ມັນຮ້ອນຫຼາຍຢູ່ນີ້, ເຈົ້າບໍ່ຄິດບໍ?
+
+607
+00:39:08,600 --> 00:39:10,600
+[FELICITY]
+Austin!
+ໂອສຕິນ!
+
+608
+00:39:11,100 --> 00:39:13,100
+[AUSTIN]
+I'm very firmly wedged.
+ຂ້ອຍຕິດຢູ່ຢ່າງແຂງແຮງຫຼາຍ.
+
+609
+00:39:13,600 --> 00:39:15,600
+[FELICITY]
+If you want something done...
+ຖ້າເຈົ້າຢາກເຮັດບາງສິ່ງບາງຢ່າງ...
+
+610
+00:39:16,100 --> 00:39:18,100
+[AUSTIN]
+Almost... got it!
+ເກືອບ... ໄດ້ແລ້ວ!
+
+611
+00:39:18,600 --> 00:39:20,600
+[AUSTIN]
+Let's go get my mojo!
+ໄປເອົາໂມຈີຂອງຂ້ອຍ!
+
+612
+00:39:21,100 --> 00:39:27,100
+[DR. EVIL]
+Has anyone seen my gravity booties? Honestly, all I wanted was a frickin' moon base. Hello, we're on the moon, no gravity?  Mini-Me? Are you alright?
+ມີໃຜເຫັນເກີບແຮງດຶງດູດຂອງຂ້ອຍບໍ? ໂດຍຄວາມຈິງໃຈ, ຂ້ອຍຕ້ອງການພຽງແຕ່ຖານດວງຈັນທີ່ສໍ້ໂກງ
+. ສະບາຍດີ, ພວກເຮົາຢູ່ໃນດວງເດືອນ, ບໍ່ມີແຮງດັນ? Mini-Me? ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+613
+00:39:27,600 --> 00:39:32,500
+[DR. EVIL]
+My frickin' mascot is stuck to the ceiling, OK? Not good. Papa not happy.
+ແມສກອດຂອງຂ້ອຍຕິດກັບຊັ້ນເທິງ, ດີບໍ? ບໍ່ດີ. ພໍ່ບໍ່ສຸກ.
+
+614
+00:39:33,000 --> 00:39:36,150
+[DR. EVIL]
+Somebody get the stick. Hold on, Mini-Me.  Begin laser-
+ບາງຄົນເອົາກະດານ. ລໍຖ້າ, Mini-Me. ເລີ່ມເລເຊີ -
+
+615
+00:39:36,650 --> 00:39:38,650
+[DR. EVIL]
+. Begin-
+ເລີ່ມຕົ້ນ...
+
+616
+00:39:39,150 --> 00:39:41,150
+[DR. EVIL]
+Begin laser ignition sequence.
+ເລີ່ມການຕິດຕໍ່ໄຟເລເຊີ.
+
+617
+00:39:41,650 --> 00:39:43,650
+[DR. EVIL]
+Lunar alignment in 6 hours.
+ການສອດຄ່ອງດວງຈັນໃນເວລາ 6 ຊົ່ວໂມງ.
+
+618
+00:39:44,150 --> 00:39:46,150
+[FELICITY]
+Where's your mojo, Austin?
+ໂມຈີຂອງເຈົ້າຢູ່ໃສ, ໂອສຕິນ?
+
+619
+00:39:46,650 --> 00:39:48,650
+[AUSTIN]
+I'm not sure.
+ຂ້ອຍບໍ່ແນ່ໃຈ.
+
+620
+00:39:49,150 --> 00:39:51,150
+[AUSTIN]
+Watch out, baby, He-Bots!
+ລະມັດລະວັງແມ, ເຮບອດ!
+
+621
+00:39:51,650 --> 00:39:54,100
+[AUSTIN]
+I can't fight them without my mojo.
+ຂ້ອຍບໍ່ສາມາດຕໍ່ສູ້ກັບພວກເຂົາໄດ້ໂດຍບໍ່ມີໂມຈີຂອງຂ້ອຍ.
+
+622
+00:39:54,600 --> 00:39:56,600
+[FELICITY]
+Who said anything about fighting?
+ໃຜເວົ້າຫຍັງກ່ຽວກັບການຕໍ່ສູ້?
+
+623
+00:39:57,100 --> 00:40:01,300
+[AUSTIN]
+Smashing, Felicity, you were making me very horny, man! Extremely randy, indeed!
+ການສັ່ນສະເທືອນ, ຟາລີສຕິ, ເຈົ້າ ກໍາ
+ລັງເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍຫຼາຍ, ຜູ້ຊາຍ! ໂຊກດີຫຼາຍ, ແທ້ຈິງແລ້ວ!
+
+624
+00:40:01,800 --> 00:40:07,800
+[FAT BASTARD]
+C'mon, give the lads a show. Take of your top. Put 'em on the glass! Make 'em bounce. Let's have a look at your tits.
+ມາແລ້ວ, ໃຫ້ພວກຜູ້ຊາຍສະແດງ. ເອົາເທິງຂອງທ່ານ.
+ເອົາພວກມັນໃສ່ແກ້ວ! ເຮັດໃຫ້ພວກມັນໂດດຂຶ້ນ. ມາເບິ່ງທ້ອງຂອງທ່ານ.
+
+625
+00:40:08,300 --> 00:40:10,300
+[AUSTIN]
+Fat Bastard!
+ໂຊກຮ້າຍໄຂມັນ!
+
+626
+00:40:10,800 --> 00:40:12,800
+[FAT BASTARD]
+Looking for this, Mr. Powers?
+ເຈົ້າ ກໍາ ລັງຊອກຫາສິ່ງນີ້ບໍ, ທ້າວພາວສ໌?
+
+627
+00:40:13,300 --> 00:40:15,750
+[AUSTIN]
+Give me back my mojo, Fat Bastard!
+ໃຫ້ຂ້ອຍໂມຈີຂອງຂ້ອຍຄືນ, ໂຊກຮ້າຍໄຂມັນ!
+
+628
+00:40:16,250 --> 00:40:20,800
+[FAT BASTARD]
+I give the orders,  for brains. Guards, take them back to their cells.
+ຂ້ອຍໃຫ້ຄໍາສັ່ງ, ສໍາລັບສະຫມອງ. ເຈົ້າຫນ້າທີ່ປ້ອງກັນຄວາມສະຫງົບ
+, ເອົາພວກເຂົາກັບຄືນໄປບ່ອນຈຸລັງຂອງພວກເຂົາ.
+
+629
+00:40:21,300 --> 00:40:24,100
+[FELICITY]
+Hold on, let me ask you one question.
+ລໍຖ້າ, ຂໍໃຫ້ຂ້ອຍຖາມເຈົ້າ ຫນຶ່ງ ຄໍາ ຖາມ.
+
+630
+00:40:24,600 --> 00:40:29,500
+[FAT BASTARD]
+Alright, I guess I owe you that much for a night of carnal ecstasy.
+ດີແລ້ວ, ຂ້ອຍຄິດວ່າຂ້ອຍເປັນຫນີ້ເຈົ້າຫຼາຍປານໃດ
+ສໍາ ລັບຄືນແຫ່ງຄວາມໂຊກແຊງທາງກາຍ.
+
+631
+00:40:30,000 --> 00:40:32,000
+[FELICITY]
+Are you happy?
+ເຈົ້າມີຄວາມສຸກບໍ?
+
+632
+00:40:32,500 --> 00:40:38,500
+[FAT BASTARD]
+What kind of stupid ass question is that? I'm in' rich and I'm up to my tits in clean stinky.
+ນັ້ນແມ່ນ ຄໍາ ຖາມໂງ່ແບບໃດ?
+ຂ້ອຍເປັນຄົນຮັ່ງມີແລະຂ້ອຍຢູ່ໃນທ້ອງຂອງຂ້ອຍດ້ວຍກິ່ນຫອມທີ່ສະອາດ.
+
+633
+00:40:39,000 --> 00:40:41,800
+[FELICITY]
+You didn't answer my question, are you happy?
+ເຈົ້າບໍ່ໄດ້ຕອບຄໍາຖາມຂອງຂ້ອຍ, ເຈົ້າມີຄວາມສຸກບໍ?
+
+634
+00:40:42,300 --> 00:40:48,300
+[FAT BASTARD]
+It's about my girth isn't it? Sure I could lose a few pounds, but I could shiva git!
+ມັນກ່ຽວກັບວົງຈອນຂອງຂ້ອຍບໍ່? ແນ່ນອນວ່າຂ້ອຍສາມາດສູນເສຍສອງສາມປອນໄດ້
+, ແຕ່ຂ້ອຍສາມາດ Shiva git ໄດ້!
+
+635
+00:40:48,800 --> 00:40:50,800
+[FELICITY]
+Are you happy?
+ເຈົ້າມີຄວາມສຸກບໍ?
+
+636
+00:40:51,300 --> 00:40:57,300
+[FAT BASTARD]
+Of course I'm not happy. Look at me, I'm a big fat slob. I've got bigger titties than you do! I've got more in' chins than a Chinese phone book.  I've got more crack cheese than a in' dairy. I've nay seen ma willie in two years. That's enough time to declare it legally deed! I can't stop eating. I eat because I'm unhappy and I'm unhappy because I eat.  I'm caught in a cycle and there's no escape!
+ແນ່ນອນວ່າຂ້ອຍບໍ່ມີຄວາມສຸກ. ເບິ່ງຂ້ອຍແມ, ຂ້ອຍເປັນຄົນໂຊກແຊງໃຫຍ່. ຂ້ອຍມີທ້ອງທີ່ໃຫຍ່ກວ່າເຈົ້າ! ຂ້ອຍມີຫຼາຍໃນຈານກ່ວາປື້ມໂທລະສັບຈີນ. ຂ້ອຍມີການຈິດກາກຫຼາຍກ່ວາໃນໂຮງນົມ. ຂ້ອຍບໍ່ເຄີຍເຫັນແມ່ວີລີໃນສອງປີ
+. ນັ້ນແມ່ນເວລາພຽງພໍທີ່ຈະປະກາດມັນເປັນການເຮັດຢ່າງຖືກຕ້ອງຕາມກົດ ຫມາຍ! ຂ້ອຍບໍ່ສາມາດຢຸດກິນໄດ້. ຂ້ອຍກິນເພາະຂ້ອຍບໍ່ສຸກແລະຂ້ອຍບໍ່ພໍໃຈເພາະຂ້ອຍກິນ. ຂ້ອຍຖືກຈັບຢູ່ໃນວົງຈອນແລະບໍ່ມີທາງຫນີ!
+
+637
+00:40:57,800 --> 00:41:02,350
+[AUSTIN]
+Maybe inside that Fat Bastard there's a thin bastard, trying to get out
+ບາງທີພາຍໃນໂຊກຮ້າຍໄຂມັນນັ້ນມີໂຊຄຮ້າຍອ່ອນແອ, ພະຍາຍາມອອກຈາກ
+
+638
+00:41:02,850 --> 00:41:08,850
+[FAT BASTARD]
+Maybe there's big crap inside me trying to get out, jack-ass!  Enough of your in' new age aphorisms. Listen, I've run the gamut of self- help books.  "Food isn't love", right, but how do you get it from the page to the in' fork?  I'm so weak, I hate myself. I'm for shite. Here, take the mojo.
+ບາງທີມີຢອກຊື່ໆໃຫຍ່ໃນຂ້ອຍ ກໍາ ລັງພະຍາຍາມອອກໄປ, ໂຊຄແຊ! ພຽງພໍກັບ ຄໍາ ເວົ້າຂອງເຈົ້າໃນສະໄຫມ ໃຫມ່. ຟັງ, ຂ້ອຍໄດ້ແລ່ນລະດັບຂອງປື້ມຊ່ວຍຕົນເອງ."ອາຫານບໍ່ແມ່ນຄວາມຮັກ"
+, ແມ່ນແລ້ວ, ແຕ່ເຈົ້າຈະເອົາມັນຈາກ ຫນ້າ ໄປຫາກະຕ່າພາຍໃນແນວໃດ? ຂ້ອຍອ່ອນແອຫຼາຍ, ຂ້ອຍກຽດຊັງຕົວເອງ. ຂ້ອຍເປັນຄົນສໍ້ໂກງ. ຢູ່ບ່ອນນີ້, ເອົາໂມໂຈ.
+
+639
+00:41:09,350 --> 00:41:15,350
+[FAT BASTARD]
+I appreciate you trying to reach me, no one can do it for me, I know this now.  There's a hole in my soul that food won't fill. This is the beginning of a new me. I'm gonna go to the gym everyday. If you'll excuse me, there's someone I have to get in touch with and forgive... myself.  Sorry. I farted.  It's a long road ahead.
+ຂ້ອຍຍ້ອງຍໍເຈົ້າທີ່ພະຍາຍາມຕິດຕໍ່ຫາຂ້ອຍ, ບໍ່ມີໃຜສາມາດເຮັດໄດ້ ສໍາ ລັບຂ້ອຍ, ຂ້ອຍຮູ້ສິ່ງນີ້ດຽວນີ້. ມີຮູໃນຈິດວິນຍານຂອງຂ້ອຍທີ່ອາຫານຈະບໍ່ຕື່ມ. ນີ້ແມ່ນການເລີ່ມຕົ້ນຂອງຂ້ອຍ
+ໃຫມ່. ຂ້ອຍຈະໄປໂຮງກິລາອອກ ກໍາ ລັງກາຍທຸກໆມື້. ຖ້າເຈົ້າຂໍໂທດຂ້ອຍ, ມີຄົນ ຫນຶ່ງ ທີ່ຂ້ອຍຕ້ອງຕິດຕໍ່ແລະຂໍໂທດ... ຕົວເອງ. ຂໍໂທດ. ຂ້ອຍສັ່ນສະເທືອນ. ມັນເປັນທາງຍາວຕໍ່ຫນ້າ.
+
+640
+00:41:15,850 --> 00:41:19,000
+[AUSTIN]
+Hold on, I have something very important to do.
+ລໍຖ້າ, ຂ້ອຍມີບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນຫຼາຍທີ່ຈະເຮັດ.
+
+641
+00:41:19,500 --> 00:41:21,500
+[FELICITY]
+How do you feel?
+ເຈົ້າຮູ້ສຶກແນວໃດ?
+
+642
+00:41:22,000 --> 00:41:25,850
+[AUSTIN]
+Sound as a pound, my spuds are boiling. Fancy a shag?
+ສຽງຄືກັບປອນ, spuds ຂອງຂ້ອຍກໍາລັງຕົ້ມ. ເຈົ້າມັກການຟັກບໍ?
+
+643
+00:41:26,350 --> 00:41:28,350
+[FELICITY]
+Austin, we don't have time.
+ໂອສຕິນ, ພວກເຮົາບໍ່ມີເວລາ.
+
+644
+00:41:28,850 --> 00:41:33,400
+[AUSTIN]
+C'mon, luv, let's hop on the good foot and do the bad thing!
+ມາແລ້ວ, ແມ, ມາໂດດເທິງຕີນທີ່ດີແລະເຮັດສິ່ງທີ່ບໍ່ດີ!
+
+645
+00:41:33,900 --> 00:41:38,450
+[FELICITY]
+Dr. Evil's taken his laser to the moon. The world is in danger.
+ດຣ Evil ໄດ້ເອົາເລເຊີຂອງລາວໄປຫາດວງຈັນ. ໂລກຢູ່ໃນອັນຕະລາຍ.
+
+646
+00:41:38,950 --> 00:41:43,850
+[AUSTIN]
+Right, the moon. I think I know someone who can give us a lift.
+ແມ່ນແລ້ວ, ດວງຈັນ. ຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ຈັກຄົນ
+ຫນຶ່ງ ທີ່ສາມາດພາພວກເຮົາໄດ້.
+
+647
+00:41:44,350 --> 00:41:50,350
+[NEWSCASTER]
+There's been some sort of delay in the launch of Apollo 11, Walter, but we understand that America's first manned mission to the moon will be blasting off shortly.
+ມີການຊັກຊ້າບາງຢ່າງໃນການເປີດຕົວ Apollo 11, ວາລເຕີ,
+ແຕ່ພວກເຮົາເຂົ້າໃຈວ່າພາລະກິດຄົນທໍາອິດຂອງອາເມລິກາໄປຫາດວງຈັນຈະລະເບີດອອກໃນໄວໆນີ້.
+
+648
+00:41:50,850 --> 00:41:55,750
+[AUSTIN]
+Gor blimey, you'd have to be a rocket scientist to figure this stuff out.
+ເຈົ້າຕ້ອງເປັນນັກວິທະຍາສາດລູກສອນໄຟເພື່ອຄິດເລື່ອງນີ້.
+
+649
+00:41:56,250 --> 00:41:58,250
+[ASTRONAUT]
+I am a rocket scientist.
+ຂ້ອຍເປັນນັກວິທະຍາສາດລູກສອນໄຟ.
+
+650
+00:41:58,750 --> 00:42:02,950
+[MISSION COMMANDER]
+We will have lift-off in T minus 10 seconds... 9... 8... etc.
+ພວກເຮົາຈະຍົກຂຶ້ນໃນ T ຫຼຸດ 10 ວິນາທີ... 9... 8... ແລະອື່ນໆ.
+
+651
+00:42:03,450 --> 00:42:06,600
+[AUSTIN]
+Felicity, if you get frightened, just hold my hand.
+ຟີລິສຕິ, ຖ້າເຈົ້າຢ້ານກົວ, ພຽງແຕ່ຈັບມືຂອງຂ້ອຍ.
+
+652
+00:42:07,100 --> 00:42:13,100
+[MISSION COMMANDER]
+We have lift-off! Apollo 11 has cleared the tower and is heading for a rendezvous with the moon.
+ພວກເຮົາມີການບິນຂຶ້ນ! ອາໂປໂລ 11
+ໄດ້ເຮັດຄວາມສະອາດຫໍແລະ ກໍາ ລັງໄປຫາການພົບປະກັບດວງຈັນ.
+
+653
+00:42:13,600 --> 00:42:15,600
+[FELICITY]
+Yaaaaa-hoooo!
+ຢາອາຮູ!
+
+654
+00:42:16,100 --> 00:42:19,600
+[BASIL EXPOSITION]
+Austin, you have achieved lunar orbit. How was that lift-off?
+ໂອສຕິນ, ເຈົ້າໄດ້ບັນລຸວົງຈອນດວງຈັນແລ້ວ. ການບິນຂຶ້ນນັ້ນເປັນແນວໃດ?
+
+655
+00:42:20,100 --> 00:42:26,100
+[AUSTIN]
+To be honest it was terrifying. It felt like sitting on top of a bomb. As I punched through the atmosphere, I said 'Oh my God!' and I soiled myself.
+ເພື່ອເວົ້າຄວາມຈິງມັນຢ້ານກົວ. ມັນຮູ້ສຶກຄືກັບການນັ່ງຢູ່ເທິງລະເບີດ.
+ໃນຂະນະທີ່ຂ້ອຍຕີຜ່ານບັນຍາກາດ, ຂ້ອຍເວົ້າວ່າ' ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ!' ແລະຂ້ອຍເປື້ອນຕົວເອງ.
+
+656
+00:42:26,600 --> 00:42:29,050
+[BASIL EXPOSITION]
+Happens all the time in that situation.
+ມັນເກີດຂຶ້ນຕະຫຼອດເວລາໃນສະຖານະການນັ້ນ.
+
+657
+00:42:29,550 --> 00:42:34,450
+[AUSTIN]
+No, I mean I soiled myself just now when I said oh 'my God!'
+ບໍ່, ຂ້ອຍຫມາຍຄວາມວ່າຂ້ອຍໄດ້ເປື້ອນຕົວເອງພຽງແຕ່ດຽວນີ້ເມື່ອຂ້ອຍເວົ້າວ່າ
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ!
+
+658
+00:42:34,950 --> 00:42:36,950
+[FELICITY]
+Basil, it was amazing!
+ບາຊີລ, ມັນຫນ້າປະທັບໃຈ!
+
+659
+00:42:37,450 --> 00:42:42,700
+[BASIL EXPOSITION]
+Prepare for moon landing. We only have one hour until Dr. Evil fires the laser!
+ກຽມພ້ອມ ສໍາ ລັບການລົງຈອດດວງຈັນ. ພວກເຮົາມີພຽງແຕ່
+ຫນຶ່ງ ຊົ່ວໂມງຈົນກວ່າດຣ Evil ຈະຍິງເລເຊີ!
+
+660
+00:42:43,200 --> 00:42:45,300
+[AUSTIN]
+Mission control, the swinger has landed.
+ການຄວບຄຸມພາລະກິດ, ເຄື່ອງສວິງເກີໄດ້ລົງຈອດແລ້ວ.
+
+661
+00:42:45,800 --> 00:42:51,800
+[AUSTIN]
+This is one small step for man, but a giant step for shagging.  Can you imagine it, baby, weightless? The permutations are mind-boggling.
+ນີ້ແມ່ນບາດກ້າວນ້ອຍໆ ສໍາ ລັບຜູ້ຊາຍ, ແຕ່ບາດກີນໃຫຍ່ ສໍາ ລັບການຟັກ.
+ເຈົ້າສາມາດຈິນຕະນາການມັນໄດ້ບໍ, ແມວ, ບໍ່ມີນ້ ໍາ ຫນັກ? ການປ່ຽນແປງແມ່ນເຮັດໃຫ້ຈິດໃຈແປກໃຈ.
+
+662
+00:42:52,300 --> 00:42:54,300
+[FELICITY]
+Naughty boy!
+ເດັກຊາຍໂຊກຮ້າຍ!
+
+663
+00:42:54,800 --> 00:42:56,800
+[AUSTIN]
+God Save the Queen.
+ພຣະເຈົ້າຊ່ວຍລາຊິນີ.
+
+664
+00:42:57,300 --> 00:43:03,300
+[MISSION COMMANDER]
+The Queen? This is an American show, goddammit. Let's roll that footage we shot last week in the studio.
+ເຈົ້າຍິງ? ນີ້ແມ່ນລາຍການອາເມລິກາ, ສະບາຍດີ.
+ມາຖ່າຍຮູບທີ່ພວກເຮົາຖ່າຍໃນອາທິດທີ່ຜ່ານມາໃນສະຕູດິໂອ.
+
+665
+00:43:03,800 --> 00:43:05,800
+[DR. EVIL]
+Position the laser.
+ຕັ້ງເລເຊີໄວ້.
+
+666
+00:43:06,300 --> 00:43:08,300
+[DR. EVIL]
+Get me the President.
+ເອົາປະທານາທິບໍດີມາໃຫ້ຂ້ອຍ.
+
+667
+00:43:08,800 --> 00:43:14,800
+[DR. EVIL]
+Mr. President, your time is up. This is your last chance to pay 100 billion dollars or see Washington DC destroyed.
+ທ່ານປະທານາທິບໍດີ, ເວລາຂອງທ່ານຫມົດແລ້ວ. ນີ້ແມ່ນໂອກາດສຸດທ້າຍຂອງທ່ານທີ່ຈະຈ່າຍເງິນ
+100 ຕື້ໂດລາຫຼືເຫັນວໍຊິງຕັນ DC ຖືກທໍາລາຍ.
+
+668
+00:43:15,300 --> 00:43:17,300
+[WARNING, LASER CALIBRATION!]
+The ALARM continues to blare.
+ແຈ້ງເຕືອນຍັງສືບຕໍ່ສັ່ນສະເທືອນ.
+
+669
+00:43:17,800 --> 00:43:19,800
+[PRESIDENT]
+What? I can't hear you.
+ຫຍັງ? ຂ້ອຍບໍ່ໄດ້ຍິນເຈົ້າ.
+
+670
+00:43:20,300 --> 00:43:23,800
+[DR. EVIL]
+Pay me 100 billion dollars or see Washington DC destroyed!
+ຈ່າຍເງິນໃຫ້ຂ້ອຍ 100 ຕື້ໂດລາ ຫຼືເບິ່ງວໍຊິງຕັນດີຊີຖືກທໍາລາຍ!
+
+671
+00:43:24,300 --> 00:43:26,750
+[PRESIDENT]
+I'm sorry, I just can't hear you.
+ຂ້ອຍຂໍໂທດ, ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດຍິນເຈົ້າໄດ້.
+
+672
+00:43:27,250 --> 00:43:29,250
+[DR. EVIL]
+How about now?
+ຈະເປັນແນວໃດໃນປັດຈຸບັນ?
+
+673
+00:43:29,750 --> 00:43:31,750
+[PRESIDENT]
+Better.
+ດີກວ່າ.
+
+674
+00:43:32,250 --> 00:43:34,250
+[DR. EVIL]
+The Capital will be destroyed-
+ນະຄອນຫຼວງຈະຖືກທໍາລາຍ...
+
+675
+00:43:34,750 --> 00:43:37,900
+[PRESIDENT]
+Sorry! I just can't- I think it's that alarm.
+ຂໍໂທດ! ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດ - ຂ້ອຍຄິດວ່າມັນເປັນການແຈ້ງເຕືອນນັ້ນ.
+
+676
+00:43:38,400 --> 00:43:44,400
+[DR. EVIL]
+Could someone shut off that frickin' alarm? I'm trying to hold the free world hostage here. Honestly.  WILL DESTROY WASHINGTON DC UNLESS
+ບາງຄົນສາມາດປິດແອລາມນັ້ນໄດ້ບໍ? ຂ້ອຍ ກໍາ ລັງພະຍາຍາມຖືໂລກເສລີເປັນຕົວປະກັນຢູ່ນີ້
+. ຢ່າງຈິງໃຈ. ຈະ ທໍາ ລາຍວໍຊິງຕັນ DC ເວັ້ນເສຍແຕ່
+
+677
+00:43:44,900 --> 00:43:48,400
+[YOU PAY ME-]
+The ALARM SHUTS OFF but Dr. Evil is still shouting.
+ແອລາມປິດລົງແຕ່ດຣ Evil ຍັງຮ້ອງໄຫ້ຢູ່.
+
+678
+00:43:48,900 --> 00:43:54,150
+[PRESIDENT]
+Please Dr. Evil, be reasonable. That's more money than is in the entire Federal Treasury!
+ກະລຸນາດຣ Evil, ມີຄວາມສົມເຫດສົມຜົນ.
+ນັ້ນແມ່ນເງິນຫຼາຍກ່ວາທີ່ຢູ່ໃນກະຊວງການເງິນລັດຖະບານກາງທັງ ຫມົດ!
+
+679
+00:43:54,650 --> 00:43:59,200
+[DR. EVIL]
+Oh well, I guess you have one minute to- "show me the money"!
+ໂອ້ ດີ, ຂ້ອຍຄິດວ່າເຈົ້າມີເວລາ ຫນຶ່ງ
+ນາທີເພື່ອ -"ສະແດງເງິນໃຫ້ຂ້ອຍ!"
+
+680
+00:43:59,700 --> 00:44:05,700
+[PRESIDENT]
+I still don't know what that means. I can't show you the money because we don't have the money.
+ຂ້ອຍຍັງບໍ່ຮູ້ວ່າມັນຫມາຍຄວາມວ່າແນວໃດ.
+ຂ້ອຍບໍ່ສາມາດສະແດງເງິນໃຫ້ເຈົ້າໄດ້ເພາະວ່າພວກເຮົາມີເງິນບໍ່ໄດ້.
+
+681
+00:44:06,200 --> 00:44:09,700
+[DR. EVIL]
+Then I suppose you're up shit's crick without a paddle.
+ຫຼັງຈາກນັ້ນຂ້ອຍຄິດວ່າເຈົ້າຢູ່ເທິງລໍາບາກທີ່ບໍ່ຕ້ອງໃຊ້ກະດານ.
+
+682
+00:44:10,200 --> 00:44:16,200
+[BASIL EXPOSITION]
+Gentlemen, Austin has landed on the moon. We'll soon know whether he has succeeded or whether the world will be destroyed!
+ພວກເຈົ້າ, ໂອສຕິນໄດ້ລົງຈອດເທິງດວງຈັນ.
+ພວກເຮົາຈະຮູ້ວ່າລາວປະສົບຜົນສໍາເລັດຫຼືໂລກຈະຖືກທໍາລາຍ!
+
+683
+00:44:16,700 --> 00:44:18,700
+[FELICITY]
+Let's find Dr. Evil.
+ພວກເຮົາຈະຊອກຫາດຣ Evil.
+
+684
+00:44:19,200 --> 00:44:21,200
+[AUSTIN]
+Shhh...
+ສະຫງວນ...
+
+685
+00:44:21,700 --> 00:44:24,500
+[FELICITY]
+Austin, you've done it! You got Dr. Evil!
+ໂອສຕິນ, ເຈົ້າເຮັດແລ້ວ! ເຈົ້າມີດຣ Evil!
+
+686
+00:44:25,000 --> 00:44:28,850
+[AUSTIN]
+Of course I did, baby, I got my mojo working overtime.
+ແນ່ນອນວ່າຂ້ອຍເຮັດແມ, ຂ້ອຍມີໂມຈີຂອງຂ້ອຍເຮັດວຽກຊົ່ວຄາວເກີນໄປ.
+
+687
+00:44:29,350 --> 00:44:31,800
+[FELICITY]
+Austin, I'm going ahead. Cover my rear!
+ໂອສຕິນ, ຂ້ອຍຈະໄປກ່ອນ. ປົກຄຸມຫຼັງຂອງຂ້ອຍ!
+
+688
+00:44:32,300 --> 00:44:34,300
+[AUSTIN]
+Oh, behave!
+ໂອ້, ປະຕິບັດຕົວດີ!
+
+689
+00:44:34,800 --> 00:44:39,000
+[AUSTIN]
+Poor little bugger. He's so small, he's like a dog or something.
+ຄົນໂຊກຮ້າຍນ້ອຍໆ. ລາວນ້ອຍຫຼາຍ, ລາວຄືກັບຫມາຫຼືບາງສິ່ງບາງຢ່າງ.
+
+690
+00:44:39,500 --> 00:44:43,700
+[AUSTIN]
+Poor little bugger.  Felicity, be careful! Dr. Evil is still alive! Felicity?
+ຄົນໂຊກຮ້າຍນ້ອຍທີ່ທຸກຍາກ. ຟີລິສຕິ,
+ລະມັດລະວັງ! ດຣ Evil ຍັງມີຊີວິດຢູ່! ຟີລີສຕິ?
+
+691
+00:44:44,200 --> 00:44:46,200
+[AUSTIN]
+Alright, slap-head, turn around. Slowly.
+ດີແລ້ວ, ຫົວຕີ, ຫັນໄປ. ຊ້າໆ.
+
+692
+00:44:46,700 --> 00:44:48,700
+[DR. EVIL]
+Aren't you forgetting something?
+ເຈົ້າບໍ່ລືມບາງສິ່ງບາງຢ່າງບໍ?
+
+693
+00:44:49,200 --> 00:44:51,650
+[AUSTIN]
+Felicity!  What have you done to her?
+ຟາລີສຕິ! ເຈົ້າເຮັດຫຍັງກັບນາງ?
+
+694
+00:44:52,150 --> 00:44:54,250
+[DR. EVIL]
+Don't worry, she's not dead... yet.
+ຢ່າກັງວົນ, ນາງຍັງບໍ່ຕາຍ... ເທື່ອ.
+
+695
+00:44:54,750 --> 00:44:58,600
+[FELICITY]
+Don't worry about me Austin. You've got to save the world!
+ຢ່າກັງວົນກ່ຽວກັບຂ້ອຍໂອສຕິນ. ເຈົ້າຕ້ອງຊ່ວຍໂລກ!
+
+696
+00:44:59,100 --> 00:45:04,350
+[DR. EVIL]
+It looks like you have a choice, Powers: save the world, or save your girlfriend.
+ມັນເບິ່ງຄືວ່າເຈົ້າມີທາງເລືອກ, ພະລັງ: ຊ່ວຍໂລກ, ຫຼືຊ່ວຍແຟນຂອງທ່ານ.
+
+697
+00:45:04,850 --> 00:45:08,350
+[AUSTIN]
+I've got my mojo back, man, I can do both.
+ຂ້ອຍມີໂມຈີຂອງຂ້ອຍກັບມາແລ້ວ, ຜູ້ຊາຍ, ຂ້ອຍສາມາດເຮັດທັງສອງໄດ້.
+
+698
+00:45:08,850 --> 00:45:10,850
+[DR. EVIL]
+We'll see. Fire the laser!
+ພວກເຮົາຈະເຫັນ. ຍິງເລເຊີ!
+
+699
+00:45:11,350 --> 00:45:13,350
+[AUSTIN]
+Hands off my joystick, baby.
+ເອົາມືອອກຈາກກະດານໂຈຍສຕິກຂອງຂ້ອຍ, ແມ.
+
+700
+00:45:13,850 --> 00:45:15,850
+[DR. EVIL]
+Damn you, Powers!
+ເຈົ້າໂຊກຮ້າຍ, ພະລັງງານ!
+
+701
+00:45:16,350 --> 00:45:18,350
+[ANNOUNCER]
+Warning! Self-destruct sequence initiated!
+ເຕືອນໄພ! ການ ທໍາ ລາຍຕົວເອງເລີ່ມຕົ້ນແລ້ວ!
+
+702
+00:45:18,850 --> 00:45:22,350
+[AUSTIN]
+See, Dr. Evil I told you I could do both.
+ເຈົ້າເຫັນແລ້ວ, ດຣ Evil ຂ້ອຍບອກເຈົ້າວ່າຂ້ອຍສາມາດເຮັດທັງສອງໄດ້.
+
+703
+00:45:22,850 --> 00:45:24,850
+[DR. EVIL]
+Perhaps you spoke too soon.
+ບາງທີເຈົ້າເວົ້າໄວເກີນໄປ.
+
+704
+00:45:25,350 --> 00:45:27,350
+[AUSTIN]
+Noooooo!
+ບໍ່!
+
+705
+00:45:27,850 --> 00:45:32,050
+[AUSTIN]
+Felicity! Felicity. Wake up! Wake up! Please God, don't take her away.
+ຟາລິສຕິ! ຟາລີສຕິ. ຕື່ນຂຶ້ນ! ຕື່ນຂື້ນ
+! ກະລຸນາພຣະເຈົ້າ, ຢ່າເອົານາງໄປ.
+
+706
+00:45:32,550 --> 00:45:37,800
+[AUSTIN]
+Felicity, you have to understand, I thought I had my mojo back.  This isn't fair.
+ຟາລີສຕິ, ເຈົ້າຕ້ອງເຂົ້າໃຈ,
+ຂ້ອຍຄິດວ່າຂ້ອຍມີໂມຈີຂອງຂ້ອຍກັບມາແລ້ວ. ນີ້ແມ່ນບໍ່ຍຸຕິທໍາ.
+
+707
+00:45:38,300 --> 00:45:44,300
+[AUSTIN]
+I love you, Felicity! I know I couldn't say it before, but I really do love you!  Dr. Evil, I'll kill him!
+ຂ້ອຍຮັກເຈົ້າ, ຟີລິສຕິ! ຂ້ອຍຮູ້ວ່າຂ້ອຍບໍ່ສາມາດເວົ້າມັນໄດ້ກ່ອນ
+, ແຕ່ຂ້ອຍຮັກເຈົ້າແທ້ໆ! ດຣ Evil, ຂ້ອຍຈະຂ້າລາວ!
+
+708
+00:45:44,800 --> 00:45:49,700
+[A PUMPKIN.]
+Austin runs over to the TIME PORTAL set for "75 BC". He runs through.
+ໂອສຕິນແລ່ນໄປຫາປະຕູເວລາທີ່ຕັ້ງໄວ້ ສໍາ ລັບ"75 BC". ລາວແລ່ນຜ່ານ.
+
+709
+00:45:50,200 --> 00:45:56,200
+[DR. EVIL]
+You make love to your wife out of duty, your mistress for pleasure, and a Roman boy for ecstasy.  Shit.
+ເຈົ້າຮັກກັບເມຍຂອງທ່ານຈາກຫນ້າທີ່, ຜູ້ຮັກຂອງທ່ານເພື່ອຄວາມສຸກ
+, ແລະເດັກຊາຍໂຣມເພື່ອຄວາມຕື່ນເຕັ້ນ. ສະບາຍດີ.
+
+710
+00:45:56,700 --> 00:46:00,200
+[AUSTIN]
+I have to commandeer this vehicle.  Hey, aren't you Hutch?
+ຂ້ອຍຕ້ອງຄວບຄຸມລົດນີ້. ເຮ້, ເຈົ້າບໍ່ແມ່ນຮັດຊ໌ບໍ?
+
+711
+00:46:00,700 --> 00:46:02,700
+[VOICE]
+No.
+ບໍ່
+
+712
+00:46:03,200 --> 00:46:05,200
+[PAUL MICHAEL GLASER]
+I'm Starsky.
+ຂ້ອຍເປັນສຕາກສກີ.
+
+713
+00:46:05,700 --> 00:46:07,700
+[DAVID SOUL]
+I'm Hutch.
+ຂ້ອຍແມ່ນຮັດຊ໌.
+
+714
+00:46:08,200 --> 00:46:10,200
+[CAPTAIN]
+Iceberg, dead ahead!
+ໄອສເບີກ, ຢູ່ທາງຫນ້າ!
+
+715
+00:46:10,700 --> 00:46:12,700
+[JAMES CAMERON]
+I'm king of the world!
+ຂ້ອຍເປັນກະສັດຂອງໂລກ!
+
+716
+00:46:13,200 --> 00:46:15,650
+[AUSTIN]
+I'm going to kill you, you bastard!
+ຂ້ອຍຈະຂ້າເຈົ້າ, ເຈົ້າໂຊກຮ້າຍ!
+
+717
+00:46:16,150 --> 00:46:20,000
+[DR. EVIL]
+Before you do that, know this: Austin, I am... your... father.
+ກ່ອນທີ່ທ່ານຈະເຮັດສິ່ງນັ້ນ, ຮູ້ສິ່ງນີ້
+: ໂອສຕິນ, ຂ້ອຍແມ່ນ... ພໍ່ຂອງທ່ານ.
+
+718
+00:46:20,500 --> 00:46:22,500
+[AUSTIN]
+Really?
+ແທ້ບໍ?
+
+719
+00:46:23,000 --> 00:46:29,000
+[DR. EVIL]
+No. I can't back that up. I was just grasping at straws. I had nothing. But isn't it interesting, Mr. Powers, you really have become a product of the Nineties.
+ບໍ່. ຂ້ອຍບໍ່ສາມາດສະ ຫນັບ ສະ ຫນູນ ນັ້ນໄດ້. ຂ້ອຍພຽງແຕ່ຈັບສູບ. ຂ້ອຍບໍ່ມີຫຍັງເລີຍ
+. ແຕ່ມັນບໍ່ຫນ້າສົນໃຈບໍ, ທ້າວພາວສ໌, ເຈົ້າໄດ້ກາຍເປັນຜະລິດຕະພັນຂອງຊຸມປີສິບ.
+
+720
+00:46:29,500 --> 00:46:31,500
+[AUSTIN]
+How so?
+ເປັນແນວໃດ?
+
+721
+00:46:32,000 --> 00:46:38,000
+[DR. EVIL]
+You're more interested in your job as glorified policeman than you are in love. You won the battle, but I won the war. Love means nothing, you've proved it.
+ເຈົ້າສົນໃຈວຽກງານຂອງທ່ານເປັນຕໍາຫຼວດທີ່ຍິ່ງໃຫຍ່ກວ່າເຈົ້າຢູ່ໃນຄວາມຮັກ. ເຈົ້າໄດ້ຊະນະການຕໍ່ສູ້
+, ແຕ່ຂ້ອຍໄດ້ຊະນະສົງຄາມ. ຄວາມຮັກບໍ່ໄດ້ ຫມາຍ ຄວາມວ່າຫຍັງເລີຍ, ເຈົ້າໄດ້ພິສູດມັນແລ້ວ.
+
+722
+00:46:38,500 --> 00:46:42,000
+[AUSTIN]
+I didn't think that Felicity was going to die, man.
+ຂ້ອຍບໍ່ຄິດວ່າຟີລິສຕິຈະຕາຍ, ຜູ້ຊາຍ.
+
+723
+00:46:42,500 --> 00:46:48,500
+[DR. EVIL]
+What a cowardly response. I'm disappointed really. You have the power to go back in time and save her, but it means letting me go.
+ການຕອບໂຕ້ທີ່ກ້າຫານຫຼາຍປານໃດ. ຂ້ອຍຜິດຫວັງແທ້ໆ.
+ເຈົ້າມີພະລັງທີ່ຈະກັບຄືນໄປບ່ອນໃນເວລາແລະຊ່ວຍນາງ, ແຕ່ມັນ ຫມາຍ ຄວາມວ່າປ່ອຍຂ້ອຍໄປ.
+
+724
+00:46:49,000 --> 00:46:53,550
+[DR. EVIL]
+Well, Mr. Powers, which is it going to be? Me or the girl?
+ດີ, ທ້າວພາວສ໌, ມັນຈະເປັນຫຍັງ? ຂ້ອຍຫຼືເດັກຍິງ?
+
+725
+00:46:54,050 --> 00:46:56,050
+[AUSTIN]
+Felicity!
+ຟາລີສຕິ!
+
+726
+00:46:56,550 --> 00:47:01,450
+[DR. EVIL]
+It looks like you have a choice: save the world, or save your girlfriend.
+ມັນເບິ່ງຄືວ່າເຈົ້າມີທາງເລືອກ: ຊ່ວຍໂລກ, ຫຼືຊ່ວຍແຟນຂອງທ່ານ.
+
+727
+00:47:01,950 --> 00:47:03,950
+[AUSTIN]
+I choose love, baby.
+ຂ້ອຍເລືອກຄວາມຮັກແມ.
+
+728
+00:47:04,450 --> 00:47:06,450
+[AUSTIN]
+Felicity, I love you.
+ຟາລີສຕິ, ຂ້ອຍຮັກເຈົ້າ.
+
+729
+00:47:06,950 --> 00:47:08,950
+[FELICITY]
+But I thought-
+ແຕ່ຂ້ອຍຄິດວ່າ...
+
+730
+00:47:09,450 --> 00:47:12,250
+[AUSTIN]
+That was another place and another time, baby.
+ນັ້ນແມ່ນບ່ອນອື່ນແລະເວລາອື່ນ, ແມ.
+
+731
+00:47:12,750 --> 00:47:14,750
+[FELICITY]
+Can't. Breathe.
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້. ຫາຍໃຈ.
+
+732
+00:47:15,250 --> 00:47:18,050
+[AUSTIN]
+Sorry, baby, I got a little over- stimulated.
+ຂໍໂທດແມ, ຂ້ອຍຖືກກະຕຸ້ນເກີນໄປເລັກນ້ອຍ.
+
+733
+00:47:18,550 --> 00:47:20,550
+[DR. EVIL]
+Fire the laser!
+ຍິງເລເຊີ!
+
+734
+00:47:21,050 --> 00:47:23,050
+[AUSTIN]
+What do we do?
+ພວກເຮົາຈະເຮັດແນວໃດ?
+
+735
+00:47:23,550 --> 00:47:25,550
+[FELICITY]
+Use your mojo!
+ໃຊ້ໂມຈີຂອງທ່ານ!
+
+736
+00:47:26,050 --> 00:47:28,050
+[AUSTIN]
+I don't have it!
+ຂ້ອຍບໍ່ມີມັນ!
+
+737
+00:47:28,550 --> 00:47:30,550
+[FELICITY]
+Trust me, you do!
+ເຊື່ອຂ້ອຍ, ເຈົ້າເຮັດ!
+
+738
+00:47:31,050 --> 00:47:35,600
+[BASIL EXPOSITION]
+He did it, he saved the world!  Of course, I thought he might.
+ລາວເຮັດມັນ, ລາວຊ່ວຍໂລກ! ແນ່ນອນ, ຂ້ອຍຄິດວ່າລາວອາດຈະເຮັດໄດ້.
+
+739
+00:47:36,100 --> 00:47:38,100
+[FELICITY]
+Austin, you did it!
+ໂອສຕິນ, ເຈົ້າເຮັດໄດ້!
+
+740
+00:47:38,600 --> 00:47:42,100
+[AUSTIN]
+Uh-oh.  I think I just got my mojo back. Really.
+ໂອ້. ຂ້ອຍຄິດວ່າຂ້ອຍຫາກໍ່ໄດ້ຮັບໂມຈີຂອງຂ້ອຍຄືນແລ້ວ. ແທ້ໆ.
+
+741
+00:47:42,600 --> 00:47:47,850
+[FELICITY]
+Austin, you had it all along. No one can take your, mojo away from you!
+ໂອສຕິນ, ເຈົ້າມີມັນຕະຫຼອດເວລາ.
+ບໍ່ມີໃຜສາມາດເອົາໂມຈີຂອງທ່ານອອກຈາກເຈົ້າໄດ້!
+
+742
+00:47:48,350 --> 00:47:50,800
+[DR. EVIL]
+Good-bye, Mr. Powers, for the last time.
+ສະບາຍດີ, ທ້າວພາວສ໌, ເປັນຄັ້ງສຸດທ້າຍ.
+
+743
+00:47:51,300 --> 00:47:56,200
+[FULL SCREEN - RADAR]
+Dr. Evil's rocket enters the screen. It has the silhouette of a flying penis.
+ລູກສອນໄຟຂອງດຣ Evil ເຂົ້າໄປໃນ ຫນ້າ
+ຈໍ. ມັນມີຮູບຊົງຂອງ penis ທີ່ບິນ.
+
+744
+00:47:56,700 --> 00:47:59,850
+[RADAR OPERATOR]
+Sir, you better have a look at this radar.
+ເຈົ້າ, ເຈົ້າຄວນເບິ່ງຣາດານີ້.
+
+745
+00:48:00,350 --> 00:48:02,350
+[COLONEL]
+What is it?
+ມັນເປັນຫຍັງ?
+
+746
+00:48:02,850 --> 00:48:06,000
+[RADAR OPERATOR]
+don't know, sir. It's hard to describe.  It's... it's-
+ບໍ່ຮູ້ເດີ. ມັນຍາກທີ່ຈະອະທິບາຍ. ມັນເປັນ... ມັນເປັນ -
+
+747
+00:48:06,500 --> 00:48:08,500
+[DOCTOR]
+Just a little prick!
+ພຽງແຕ່ໂຊກຮ້າຍນ້ອຍໆ!
+
+748
+00:48:09,000 --> 00:48:14,600
+[DOCTOR]
+All done!  Good lord, what is that? If I didn't know better I'd say it's a-
+ທັງ ຫມົດ ສໍາ ເລັດແລ້ວ! ພຣະເຈົ້າທີ່ດີ, ນັ້ນແມ່ນຫຍັງ
+? ຖ້າຂ້ອຍບໍ່ຮູ້ດີກວ່າຂ້ອຍຈະເວົ້າວ່າມັນເປັນ -
+
+749
+00:48:15,100 --> 00:48:17,100
+[CHINESE TEACHER]
+Wang!
+ວັງ!
+
+750
+00:48:17,600 --> 00:48:19,600
+[CHINESE TEACHER]
+Pay attention!
+ເອົາໃຈໃສ່!
+
+751
+00:48:20,100 --> 00:48:23,600
+[CHINESE STUDENT]
+I'm sorry, Comrade Teacher.  was distracted by that enormous flying-
+ຂ້ອຍຂໍໂທດ, ຄູສອນເພື່ອນ. ຖືກລົບກວນໂດຍການບິນທີ່ໃຫຍ່ຫຼວງນັ້ນ -
+
+752
+00:48:24,100 --> 00:48:26,100
+[RACHEL HUNTER]
+Rod?
+ໂຣດ?
+
+753
+00:48:26,600 --> 00:48:28,600
+[ROD STEWART]
+Yes, Rachel?
+ແມ່ນແລ້ວ, ຣາເຊວ?
+
+754
+00:48:29,100 --> 00:48:31,100
+[RACHEL HUNTER]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+755
+00:48:31,600 --> 00:48:33,600
+[ROD STEWART]
+It looks like a giant-
+ມັນເບິ່ງຄືວ່າເປັນຄົນໃຫຍ່...
+
+756
+00:48:34,100 --> 00:48:38,300
+[OLD LADY TEACHER]
+Penis!  The male reproductive organ. Also known as tallywhackers, wankers, schlongs, or--
+ກະທູ້! ອະໄວຍະວະການຜະລິດເພດຊາຍ. ຍັງເອີ້ນກັນວ່າ
+tallywhackers, wankers, schlongs, ຫຼື -
+
+757
+00:48:38,800 --> 00:48:40,800
+[BASIL EXPOSITION]
+Peters!
+ເປຕສ໌!
+
+758
+00:48:41,300 --> 00:48:43,300
+[CAPTAIN PETERS]
+Yes, sir?
+ແມ່ນແລ້ວເດີ?
+
+759
+00:48:43,800 --> 00:48:45,800
+[BASIL EXPOSITION]
+Any word from Austin?
+ມີຂ່າວຈາກໂອສຕິນບໍ?
+
+760
+00:48:46,300 --> 00:48:50,500
+[CAPTAIN PETERS]
+We've picked up his signal, but the lunar base seems to self-destructing.
+ພວກເຮົາໄດ້ຈັບສັນຍານຂອງລາວແລ້ວ,
+ແຕ່ຖານດວງຈັນເບິ່ງຄືວ່າຈະທໍາລາຍຕົວເອງ.
+
+761
+00:48:51,000 --> 00:48:57,000
+[BASIL EXPOSITION]
+Austin, if you can hear me, use the time portal! There's no time to get to the lunar module! Use the time portal!
+ໂອສຕິນ, ຖ້າເຈົ້າໄດ້ຍິນຂ້ອຍ, ໃຊ້ປະຕູເວລາ!
+ບໍ່ມີເວລາທີ່ຈະໄປຫາໂມດູນດວງຈັນ! ໃຊ້ປູຕານເວລາ!
+
+762
+00:48:57,500 --> 00:49:00,650
+[FELICITY]
+Austin, you have to get to the time portal!
+ໂອສຕິນ, ເຈົ້າຕ້ອງໄປຫາປະຕູເວລາ!
+
+763
+00:49:01,150 --> 00:49:04,300
+[AUSTIN]
+Come with me, Felicity! It's the only way out!
+ມາກັບຂ້ອຍ, ຟີລິສຕິ! ມັນເປັນທາງອອກດຽວ!
+
+764
+00:49:04,800 --> 00:49:07,250
+[FELICITY]
+Austin, will I fit in the Nineties?
+ໂອສຕິນ, ຂ້ອຍຈະເຫມາະສົມກັບຊຸມປີສິບປີບໍ?
+
+765
+00:49:07,750 --> 00:49:10,550
+[AUSTIN]
+If I did, anyone can. Let's go, baby!
+ຖ້າຂ້ອຍເຮັດ, ທຸກຄົນສາມາດເຮັດໄດ້. ໄປ, ແມ!
+
+766
+00:49:11,050 --> 00:49:13,050
+[FELICITY]
+Sorry!
+ຂໍໂທດ!
+
+767
+00:49:13,550 --> 00:49:19,550
+[AUSTIN]
+Don't worry baby it takes some getting used to. Let me ask you Felicity, do you feel any side effects from the time travel?
+ຢ່າກັງວົນແມວມັນຕ້ອງເຄີຍກັບບາງຢ່າງ. ຂໍໃຫ້ຂ້ອຍຖາມເຈົ້າຟີລິສຕິ
+, ເຈົ້າຮູ້ສຶກຜົນຂ້າງຄຽງໃດໆຈາກການເດີນທາງໃນເວລາບໍ?
+
+768
+00:49:20,050 --> 00:49:22,150
+[FELICITY]
+I'm as healthy as a horse.
+ຂ້ອຍມີສຸຂະພາບແຂງແຮງຄືກັບມ້າ.
+
+769
+00:49:22,650 --> 00:49:24,650
+[AUSTIN]
+I love you, Felicity.
+ຂ້ອຍຮັກເຈົ້າ, ຟີລິສຕິ.
+
+770
+00:49:25,150 --> 00:49:27,150
+[FELICITY]
+And I love you.
+ແລະຂ້ອຍຮັກເຈົ້າ.
+
+771
+00:49:27,650 --> 00:49:29,750
+[AUSTIN]
+Do you want to get married?
+ເຈົ້າຢາກແຕ່ງງານບໍ?
+
+772
+00:49:30,250 --> 00:49:32,250
+[FELICITY]
+Absolutely not.
+ແນ່ນອນວ່າບໍ່ແມ່ນ.
+
+773
+00:49:32,750 --> 00:49:34,750
+[AUSTIN]
+Thank God.
+ຂອບໃຈພຣະເຈົ້າ.
+

@@ -1,0 +1,6882 @@
+1
+00:00:10,000 --> 00:00:12,000
+[ONWARD]
+Written by
+ຂຽນໂດຍ
+
+2
+00:00:12,500 --> 00:00:15,300
+[DAD]
+Long ago, the world was full of wonder!
+ກ່ອນຫນ້ານີ້, ໂລກເຕັມໄປດ້ວຍຄວາມແປກໃຈ!
+
+3
+00:00:15,800 --> 00:00:17,800
+[DAD]
+It was adventurous...
+ມັນເປັນການຜະຈົນໄພ...
+
+4
+00:00:18,300 --> 00:00:20,300
+[DAD]
+Exciting...
+ມັນຫນ້າຕື່ນເຕັ້ນ...
+
+5
+00:00:20,800 --> 00:00:23,250
+[DAD]
+And best of all... there was MAGIC!
+ແລະດີທີ່ສຸດທີ່ສຸດ... ມີຊະຍາກອນ!
+
+6
+00:00:23,750 --> 00:00:25,750
+[ELF WIZARD]
+Boombastia!
+ບູມບາສຕິຍ!
+
+7
+00:00:26,250 --> 00:00:28,700
+[DAD]
+And that magic helped all in need.
+ແລະຊະຍາກອນນັ້ນໄດ້ຊ່ວຍທຸກຄົນທີ່ຕ້ອງການ.
+
+8
+00:00:29,200 --> 00:00:31,200
+[SATYR WIZARD]
+Flame Infernar!
+ໄຟອານາໄມ!
+
+9
+00:00:31,700 --> 00:00:33,700
+[BRAVE WIZARD]
+Voltar Thundasir!
+ໂວລຕາ ທຸນດາຊີ!
+
+10
+00:00:34,200 --> 00:00:40,150
+[DAD]
+But it wasn't easy to master. And so the world found a simpler way to get by...
+ແຕ່ມັນບໍ່ແມ່ນເລື່ອງງ່າຍທີ່ຈະຄວບຄຸມ.
+ແລະດັ່ງນັ້ນໂລກໄດ້ພົບວິທີທີ່ງ່າຍດາຍກວ່າທີ່ຈະຜ່ານຜ່າ...
+
+11
+00:00:40,650 --> 00:00:42,750
+[INVENTOR]
+I call it: the light bulb!
+ຂ້ອຍເອີ້ນມັນວ່າ: ແສງສະຫວ່າງ!
+
+12
+00:00:43,250 --> 00:00:45,250
+[APPRENTICE]
+`Tis so easy!
+ມັນງ່າຍຫຼາຍ!
+
+13
+00:00:45,750 --> 00:00:47,750
+[MASTER WIZARD]
+Huh.
+ຮາ.
+
+14
+00:00:48,250 --> 00:00:50,250
+[DAD]
+Over time, magic faded away...
+ໃນໄລຍະເວລາ, ການຊະຍາກອນຫາຍໄປ...
+
+15
+00:00:50,750 --> 00:00:53,550
+[DAD]
+But I hope there's a little magic left...
+ແຕ່ຂ້ອຍຫວັງວ່າຍັງເຫຼືອຊະຍາກອນນ້ອຍໆ...
+
+16
+00:00:54,050 --> 00:00:56,050
+[DAD]
+...in you.
+... ໃນເຈົ້າ.
+
+17
+00:00:56,550 --> 00:01:01,800
+[FITNESS INSTRUCTOR]
+We're gonna get Warrior Z90 fit! Let me hear you say I'm a mighty warrior!
+ພວກເຮົາຈະເຮັດໃຫ້ Warrior Z90 ເຫມາະ ສົມ!
+ຂໍໃຫ້ຂ້ອຍໄດ້ຍິນເຈົ້າເວົ້າວ່າຂ້ອຍເປັນນັກຮົບທີ່ເຂັ້ມແຂງ!
+
+18
+00:01:02,300 --> 00:01:04,300
+[FITNESS MODELS]
+I'm a mighty warrior!
+ຂ້ອຍເປັນນັກຮົບທີ່ເຂັ້ມແຂງ!
+
+19
+00:01:04,800 --> 00:01:06,800
+[LAUREL]
+I'm a mighty warrior!
+ຂ້ອຍເປັນນັກຮົບທີ່ເຂັ້ມແຂງ!
+
+20
+00:01:07,300 --> 00:01:09,300
+[IAN]
+Morning, Mom!
+ຕອນເຊົ້າ, ແມ່!
+
+21
+00:01:09,800 --> 00:01:11,800
+[IAN]
+Aahh!
+ໂອ້!
+
+22
+00:01:12,300 --> 00:01:14,300
+[IAN]
+Shh! Down girl! Please!
+ສະບາຍດີ! ເດັກຍິງລົງ! ກະລຸນາ!
+
+23
+00:01:14,800 --> 00:01:16,800
+[LAUREL]
+Oh--! Blazey, down!
+ໂອ້ -! ບລາຊີ, ລົງ!
+
+24
+00:01:17,300 --> 00:01:19,300
+[IAN]
+Ah! Stop, girl, stop!
+ອາ! ຢຸດລົງ, ເດັກຍິງ, ຢຸດໄວ້!
+
+25
+00:01:19,800 --> 00:01:21,900
+[LAUREL]
+Bad dragon! Back to your lair!
+ດຣາກອນຮ້າຍແຮງ! ກັບຄືນໄປບ່ອນຮົ່ມຂອງທ່ານ!
+
+26
+00:01:22,400 --> 00:01:24,400
+[LAUREL]
+Happy Birthday, mister adult man!
+ສະບາຍດີວັນເກີດ, ທ້າວຜູ້ໃຫຍ່!
+
+27
+00:01:24,900 --> 00:01:26,900
+[IAN]
+Ugh, no, Mom! Ah! gross.
+ໂອ້, ບໍ່, ແມ່! ອາ! ໂຊກຮ້າຍ.
+
+28
+00:01:27,400 --> 00:01:29,850
+[LAUREL]
+Hey, buddy, don't wipe off my kisses!
+ເຮ້, ເພື່ອນ, ຢ່າລ້າງການຈູບຂອງຂ້ອຍອອກ!
+
+29
+00:01:30,350 --> 00:01:32,350
+[IAN]
+What?
+ຫຍັງ?
+
+30
+00:01:32,850 --> 00:01:34,850
+[LAUREL]
+You're wearing your Dad's sweatshirt.
+ເຈົ້າໃສ່ເສື້ອຜ້າຝ້າຍຂອງພໍ່ເຈົ້າ.
+
+31
+00:01:35,350 --> 00:01:37,350
+[IAN]
+Oh, you know. Finally fits.
+ໂອ້, ເຈົ້າຮູ້ແລ້ວ. ສຸດທ້າຍມັນເຫມາະສົມ.
+
+32
+00:01:37,850 --> 00:01:41,000
+[LAUREL]
+Oh, my little chubby cheeks is all grown up!
+ໂອ້, ກະຕ່າກະຕ່ານ້ອຍຂອງຂ້ອຍໃຫຍ່ແລ້ວ!
+
+33
+00:01:41,500 --> 00:01:44,650
+[IAN]
+Okay, okay, Mom! I gotta eat something before school.
+ດີ, ດີ, ແມ່! ຂ້ອຍຕ້ອງກິນບາງສິ່ງບາງຢ່າງກ່ອນໂຮງຮຽນ.
+
+34
+00:01:45,150 --> 00:01:50,400
+[LAUREL]
+Ugh, we don't have much food. I still have to go to the grocery store--
+ໂອ້, ພວກເຮົາມີອາຫານບໍ່ຫຼາຍ. ຂ້ອຍຍັງຕ້ອງໄປຮ້ານຂາຍເຄື່ອງ -
+
+35
+00:01:50,900 --> 00:01:54,050
+[LAUREL]
+Hands off, Mister! Those are for your party tonight.
+ມືອອກຈາກ, ທ້າວ! ນັ້ນແມ່ນ ສໍາ ລັບງານລ້ຽງຂອງທ່ານໃນຄືນນີ້.
+
+36
+00:01:54,550 --> 00:01:57,350
+[IAN]
+It's not a party Mom, it just us.
+ມັນບໍ່ແມ່ນງານລ້ຽງແມ່, ມັນພຽງແຕ່ພວກເຮົາເທົ່ານັ້ນ.
+
+37
+00:01:57,850 --> 00:02:03,450
+[LAUREL]
+Well, you could invite those kids from your science class. You said they seemed pretty "rockin'."
+ດີ, ເຈົ້າສາມາດເຊື້ອເຊີນເດັກນ້ອຍຈາກຫ້ອງຮຽນວິທະຍາສາດຂອງທ່ານໄດ້
+. ເຈົ້າເວົ້າວ່າພວກເຂົາເບິ່ງຄືວ່າ"ຫີນຫີນ".
+
+38
+00:02:03,950 --> 00:02:09,550
+[IAN]
+I'm pretty sure I didn't say it like that. And besides, I don't even know them.
+ຂ້ອຍແນ່ໃຈວ່າຂ້ອຍບໍ່ໄດ້ເວົ້າມັນແບບນັ້ນ.
+ແລະນອກຈາກນັ້ນ, ຂ້ອຍບໍ່ຮູ້ຈັກພວກເຂົາເລີຍ.
+
+39
+00:02:10,050 --> 00:02:14,950
+[LAUREL]
+Well, your birthday is a day to try new things, be the "new you"!
+ດີ, ວັນເກີດຂອງທ່ານແມ່ນມື້ທີ່ຈະພະຍາຍາມສິ່ງໃຫມ່, ເປັນ"ເຈົ້າໃຫມ່"!
+
+40
+00:02:15,450 --> 00:02:17,450
+[NO!]
+No.
+ບໍ່
+
+41
+00:02:17,950 --> 00:02:21,450
+[LAUREL]
+I know you're a little scared to drive sweetie-pie, but--
+ຂ້ອຍຮູ້ວ່າເຈົ້າຢ້ານກົວເລັກນ້ອຍທີ່ຈະຂັບລົດ pie ແຊກແຊງ, ແຕ່ -
+
+42
+00:02:21,950 --> 00:02:25,100
+[IAN]
+I'm not scared, Mom.  I'm gonna move Barley's game.
+ຂ້ອຍບໍ່ຢ້ານ, ແມ່. ຂ້ອຍຈະຍ້າຍເກມຂອງບາລີ.
+
+43
+00:02:25,600 --> 00:02:29,800
+[LAUREL]
+Okay, but you know how he gets when someone touches that board.
+ດີ, ແຕ່ເຈົ້າຮູ້ວ່າລາວຮູ້ສຶກແນວໃດເມື່ອໃຜຈັບກະດານນັ້ນ.
+
+44
+00:02:30,300 --> 00:02:33,800
+[IAN]
+Well, he's gotta learn how to clean up his toys--
+ດີ, ລາວຕ້ອງຮຽນຮູ້ວິທີເຮັດຄວາມສະອາດເຄື່ອງຫຼິ້ນຂອງລາວ -
+
+45
+00:02:34,300 --> 00:02:37,100
+[BARLEY]
+Doth my brother dare disrupt an active campaign?!
+ອ້າຍຂອງຂ້ອຍກ້າທີ່ຈະລົບກວນການໂຄສະນາທີ່ເຄື່ອນໄຫວບໍ?!
+
+46
+00:02:37,600 --> 00:02:39,600
+[IAN]
+Oh, come on!
+ໂອ້, ມາແລ້ວ!
+
+47
+00:02:40,100 --> 00:02:46,100
+[BARLEY]
+You know, Ian, in the days of old, a boy of sixteen would have his strength tested in the Swamps of Despair.
+ເຈົ້າຮູ້ແລ້ວ, ອີອັນ, ໃນສະໄຫມເກົ່າ,
+ເດັກຊາຍອາຍຸສິບຫົກປີຈະໄດ້ຮັບການທົດສອບຄວາມເຂັ້ມແຂງຂອງລາວໃນ Swamps ຂອງຄວາມຫວັງ.
+
+48
+00:02:46,600 --> 00:02:49,400
+[IAN]
+I'm not testing anything, just let me go!
+ຂ້ອຍບໍ່ໄດ້ທົດສອບຫຍັງເລີຍ, ພຽງແຕ່ປ່ອຍຂ້ອຍໄປ!
+
+49
+00:02:49,900 --> 00:02:51,900
+[LAUREL]
+Let him go.
+ໃຫ້ລາວໄປ.
+
+50
+00:02:52,400 --> 00:02:58,400
+[BARLEY]
+Okay, but I know you're stronger than that. There's a mighty warrior inside you. You just have to let him out. Riiight, Mom?
+ດີແລ້ວ, ແຕ່ຂ້ອຍຮູ້ວ່າເຈົ້າແຂງແຮງກວ່ານັ້ນ. ມີນັກຮົບທີ່ເຂັ້ມແຂງພາຍໃນເຈົ້າ
+. ເຈົ້າພຽງແຕ່ຕ້ອງປ່ອຍລາວອອກໄປ. ແມ່ນບໍ, ແມ່?
+
+51
+00:02:58,900 --> 00:03:01,350
+[BARLEY]
+Oh! That's good! Keepin' your head down.
+ໂອ້! ນັ້ນດີ! ຮັກສາຫົວລົງ.
+
+52
+00:03:01,850 --> 00:03:05,350
+[LAUREL]
+Barley, you stink! When was the last time you showered?
+ບາລີ, ເຈົ້າກິ່ນຫອມ! ເຈົ້າອາບນ້ ໍາ ຄັ້ງສຸດທ້າຍເມື່ອໃດ?
+
+53
+00:03:05,850 --> 00:03:10,750
+[BARLEY]
+If you tried a little harder, you actually could probably wiggle out of this--
+ຖ້າເຈົ້າພະຍາຍາມ ຫນັກ ກວ່າເກົ່າ, ເຈົ້າອາດຈະອອກຈາກສິ່ງນີ້ໄດ້ແທ້ໆ -
+
+54
+00:03:11,250 --> 00:03:14,750
+[BARLEY]
+See? Mom knows how to let out her inner warrior.
+ເຈົ້າເຫັນບໍ? ແມ່ຮູ້ວິທີປ່ອຍນັກຮົບພາຍໃນຂອງນາງອອກ.
+
+55
+00:03:15,250 --> 00:03:17,700
+[LAUREL]
+Thank you. Now take out the trash.
+ຂອບໃຈ. ດຽວນີ້ເອົາຂີ້ເຫຍື້ອອອກ.
+
+56
+00:03:18,200 --> 00:03:21,000
+[OFFICER GORE]
+--stay on the lookout for a runaway Griffin.
+- ຈົ່ງລະວັງກາຣຟິນທີ່ຫນີໄປ.
+
+57
+00:03:21,500 --> 00:03:23,500
+[BARLEY]
+Officer Bronco.
+ເຈົ້າຫນ້າທີ່ບຣອນໂກ.
+
+58
+00:03:24,000 --> 00:03:30,000
+[COLT]
+Barley, Barley, Barley. Every time the city tries to tear down an old piece of rubble, I gotta drag my rear end out here and deal with you.
+ແບຣລີ, ແບຮລີ, ບາຣລີ. ທຸກຄັ້ງທີ່ເມືອງພະຍາຍາມທໍາລາຍຊິ້ນສ່ວນຂອງຂີ້ເຫຍື້ອເກົ່າ
+, ຂ້ອຍຕ້ອງດຶງຈຸດຫຼັງຂອງຂ້ອຍອອກມາບ່ອນນີ້ແລະຮັບມືກັບເຈົ້າ.
+
+59
+00:03:30,500 --> 00:03:32,950
+[BARLEY]
+I don't know what you're talking about.
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ.
+
+60
+00:03:33,450 --> 00:03:35,450
+[COLT]
+Oh, really?
+ໂອ້, ແທ້ບໍ?
+
+61
+00:03:35,950 --> 00:03:41,950
+[BARLEY]
+I will not let you tear this down this fountain! Ancient warriors on grand quests drank from it's flowing waters!
+ຂ້ອຍຈະບໍ່ປ່ອຍໃຫ້ເຈົ້າເອົາສິ່ງນີ້ລົງແຫຼ່ງນ້ ໍາ ນີ້!
+ນັກຮົບບູຮານໃນການຊອກຫາທີ່ຍິ່ງໃຫຍ່ດື່ມຈາກນ້ ໍາ ທີ່ໄຫຼຂອງມັນ!
+
+62
+00:03:42,450 --> 00:03:44,450
+[LAUREL]
+Barley.
+ບາລີ.
+
+63
+00:03:44,950 --> 00:03:46,950
+[BARLEY]
+They're destroying the town's past!
+ພວກເຂົາ ກໍາ ລັງທໍາລາຍອະດີດຂອງເມືອງ!
+
+64
+00:03:47,450 --> 00:03:49,900
+[COLT]
+And last night, someone destroyed their bulldozer.
+ແລະໃນມື້ວານນີ້, ບາງຄົນໄດ້ທໍາລາຍບູລໂດເຈີຂອງພວກເຂົາ.
+
+65
+00:03:50,400 --> 00:03:54,250
+[LAUREL]
+Ugh, well come on in, rest your haunches for a minute.
+ໂອ້, ເຂົ້າມາ, ພັກຜ່ອນກະຕ່າຂອງທ່ານສໍາລັບນາທີຫນຶ່ງ.
+
+66
+00:03:54,750 --> 00:03:56,750
+[COLT]
+Thank you, hon.
+ຂອບໃຈແມ.
+
+67
+00:03:57,250 --> 00:04:01,100
+[COLT]
+Hey there, Birthday Boy... So ya workin' hard or hardly workin'?
+ສະບາຍດີ, ເດັກຊາຍວັນເກີດ... ສະນັ້ນເຈົ້າ
+ກໍາ ລັງເຮັດວຽກ ຫນັກ ຫຼືເກືອບເຮັດວຽກບໍ?
+
+68
+00:04:01,600 --> 00:04:04,050
+[IAN]
+I'm just, you know... making a toast.
+ຂ້ອຍພຽງແຕ່, ເຈົ້າຮູ້ແລ້ວ... ການເຮັດດື່ມ.
+
+69
+00:04:04,550 --> 00:04:10,500
+[LAUREL]
+I'm serious, Barley, you need to start thinking less about the past and more about your future.
+ຂ້ອຍເວົ້າຈິງໃຈ, ບາລີ, ເຈົ້າຕ້ອງເລີ່ມຄິດ ຫນ້ອຍ
+ກວ່າກ່ຽວກັບອະດີດແລະຫຼາຍຂຶ້ນກ່ຽວກັບອະນາຄົດຂອງທ່ານ.
+
+70
+00:04:11,000 --> 00:04:13,000
+[COLT]
+She's right.
+ນາງເວົ້າຖືກຕ້ອງ.
+
+71
+00:04:13,500 --> 00:04:16,650
+[COLT]
+You can't spend all day playing your board game.
+ເຈົ້າບໍ່ສາມາດໃຊ້ເວລາທັງ ຫມົດ ມື້ໃນການຫຼິ້ນເກມກະດານຂອງທ່ານໄດ້.
+
+72
+00:04:17,150 --> 00:04:23,150
+[BARLEY]
+Uh, Quests of Yore isn't just a board game, it's an historically- based role playing scenario. Did you know in the old days centaurs could run seventy miles an hour?
+ໂອ້, Quests ຂອງ Yore ບໍ່ແມ່ນພຽງແຕ່ເກມກະດານເທົ່ານັ້ນ, ມັນແມ່ນສະຖານະການການຫຼິ້ນບົດບາດທີ່ອີງໃສ່ປະຫວັດສາດ
+. ເຈົ້າຮູ້ບໍໃນສະໄຫມເກົ່າເຊັນຕາຣ໌ສາມາດແລ່ນໄດ້ເຈັດສິບແມລຕໍ່ຊົ່ວໂມງ?
+
+73
+00:04:23,650 --> 00:04:26,450
+[COLT]
+I own a vehicle, don't need to run.
+ຂ້ອຍເປັນເຈົ້າຂອງລົດ, ບໍ່ຈໍາເປັນຕ້ອງແລ່ນ.
+
+74
+00:04:26,950 --> 00:04:32,550
+[BARLEY]
+Well, Ian, you could definitely learn a lot from Quests of Yore. You want to play?
+ດີ, ອີອັນ, ເຈົ້າສາມາດຮຽນຮູ້ຫຼາຍຢ່າງຈາກ
+Quests ຂອງ Yore ໄດ້ແນ່ນອນ. ເຈົ້າຢາກຫຼິ້ນບໍ?
+
+75
+00:04:33,050 --> 00:04:35,050
+[IAN]
+I don't.
+ຂ້ອຍບໍ່ເຮັດ.
+
+76
+00:04:35,550 --> 00:04:40,800
+[BARLEY]
+You could be a crafty rogue, or... ooh, I know! You can be a wizard.
+ເຈົ້າອາດຈະເປັນຄົນໂຊກຮ້າຍທີ່ຫຼອກລວງ, ຫຼື...
+ໂອ້, ຂ້ອຍຮູ້ແລ້ວ! ເຈົ້າສາມາດເປັນຊະຍາກອນໄດ້.
+
+77
+00:04:41,300 --> 00:04:43,750
+[BARLEY]
+I shall cast a spell on thee!!
+ຂ້ອຍຈະຖິ້ມຊະຍາກອນໃສ່ເຈົ້າ!!
+
+78
+00:04:44,250 --> 00:04:46,250
+[IAN]
+Hey, careful of Dad's sweatshirt.
+ເຮ້, ລະມັດລະວັງເສື້ອຜ້າຝ້າຍຂອງພໍ່.
+
+79
+00:04:46,750 --> 00:04:49,550
+[BARLEY]
+I don't even remember Dad wearing that sweatshirt.
+ຂ້ອຍບໍ່ຈື່ເລີຍວ່າພໍ່ໃສ່ເສື້ອຜ້າສູບນັ້ນ.
+
+80
+00:04:50,050 --> 00:04:53,550
+[IAN]
+Well, you do only have, like, two memories of him.
+ດີ, ເຈົ້າມີພຽງແຕ່, ເຊັ່ນວ່າ, ຄວາມຊົງຈໍາສອງຢ່າງກ່ຽວກັບລາວ.
+
+81
+00:04:54,050 --> 00:05:00,050
+[BARLEY]
+No! I've got three. I remember his beard was scratchy, he had a goofy laugh, and I used to play--
+ບໍ່! ຂ້ອຍມີສາມຄົນ. ຂ້ອຍຈື່ວ່າທ່າຂອງລາວແມ່ນ
+scratchy, ລາວມີຄວາມມ່ວນຊື່ນໂງ່, ແລະຂ້ອຍເຄີຍຫຼິ້ນ -
+
+82
+00:05:00,550 --> 00:05:02,550
+[BARLEY]
+I used to go...
+ຂ້ອຍເຄີຍໄປ...
+
+83
+00:05:03,050 --> 00:05:05,050
+[BARLEY]
+Whoops! Five second rule.
+ໂວ້! ກົດລະບຽບຫ້າວິນາທີ.
+
+84
+00:05:05,550 --> 00:05:08,000
+[BARLEY]
+It's okay! You just gotta pull it!
+ມັນບໍ່ເປັນຫຍັງ! ເຈົ້າພຽງແຕ່ຕ້ອງດຶງມັນ!
+
+85
+00:05:08,500 --> 00:05:10,500
+[LAUREL]
+Barley!
+ບາລີ!
+
+86
+00:05:11,000 --> 00:05:15,900
+[IAN]
+You know what, I'm just gonna get some food on the way to school.
+ເຈົ້າຮູ້ແລ້ວວ່າຫຍັງ, ຂ້ອຍພຽງແຕ່ຈະເອົາອາຫານບາງຢ່າງໃນທາງໄປໂຮງຮຽນ.
+
+87
+00:05:16,400 --> 00:05:18,500
+[LAUREL]
+I'll sew that later tonight, okay?
+ຂ້ອຍຈະຕັດມັນຕໍ່ມາໃນຄືນນີ້, ດີບໍ?
+
+88
+00:05:19,000 --> 00:05:25,000
+[BARLEY]
+Wait, wait, wait, wait! By the Laws of Yore, I must dub thee a man today! Kneel before me.
+ລໍຖ້າ, ລໍ ຖ້າ,ລໍຖ້າ! ອີງຕາມກົດ ຫມາຍ ຂອງ Yore,
+ຂ້ອຍຕ້ອງເອີ້ນເຈົ້າເປັນຜູ້ຊາຍມື້ນີ້! ຍອມຢູ່ຕໍ່ຫນ້າຂ້ອຍ.
+
+89
+00:05:25,500 --> 00:05:27,950
+[IAN]
+Oh, that's okay... I gotta get going!
+ໂອ້, ມັນບໍ່ເປັນຫຍັງ... ຂ້ອຍຕ້ອງໄປ!
+
+90
+00:05:28,450 --> 00:05:33,350
+[BARLEY]
+Alright, well I'll pick you up later and we'll perform the ceremony at school!
+ດີແລ້ວ, ດີຂ້ອຍຈະເອົາເຈົ້າຕໍ່ມາແລະພວກເຮົາຈະປະຕິບັດພິທີໃນໂຮງຮຽນ!
+
+91
+00:05:33,850 --> 00:05:37,700
+[IAN]
+NO! No, no, no, no, no. Don't do that. Okay, bye!
+ບໍ່! ບໍ່, ບໍ່, ບໍ່ມີ, ບໍ່. ຢ່າເຮັດແບບນັ້ນ. ດີແລ້ວ, ສະບາຍດີ!
+
+92
+00:05:38,200 --> 00:05:40,200
+[GAXTON]
+Hey! Go Griffins!
+ເຮ້! ໄປແກຣຟິນສ໌!
+
+93
+00:05:40,700 --> 00:05:42,700
+[IAN]
+What?
+ຫຍັງ?
+
+94
+00:05:43,200 --> 00:05:45,200
+[GAXTON]
+You go to Willowdale College?
+ເຈົ້າໄປວິທະຍາໄລວິນລາວເດວບໍ?
+
+95
+00:05:45,700 --> 00:05:47,800
+[IAN]
+Oh, no. This was my Dad's.
+ໂອ້, ບໍ່. ນີ້ແມ່ນຂອງພໍ່ຂອງຂ້ອຍ.
+
+96
+00:05:48,300 --> 00:05:50,300
+[GAXTON]
+"Lightfoot?" Wilden Lightfoot?
+"ຕີນແສງສະຫວ່າງບໍ?" ວີລເດັນ ຕີນແສນບໍ?
+
+97
+00:05:50,800 --> 00:05:52,800
+[IAN]
+Yeah!
+ແມ່ນແລ້ວ!
+
+98
+00:05:53,300 --> 00:05:56,100
+[GAXTON]
+You're kidding! I went to college with him!
+ເຈົ້າຢອກຊື່ໆ! ຂ້ອຍໄປວິທະຍາໄລກັບລາວ!
+
+99
+00:05:56,600 --> 00:05:58,600
+[IAN]
+Really?
+ແທ້ບໍ?
+
+100
+00:05:59,100 --> 00:06:03,300
+[GAXTON]
+Yeah!  Boy, I was so sorry to hear that he passed away.
+ແມ່ນແລ້ວ! ເດັກຊາຍ, ຂ້ອຍຂໍໂທດຫຼາຍເມື່ອໄດ້ຍິນວ່າລາວເສຍຊີວິດແລ້ວ.
+
+101
+00:06:03,800 --> 00:06:05,800
+[IAN]
+Yeah... thanks.
+ແມ່ນແລ້ວ... ຂອບໃຈ.
+
+102
+00:06:06,300 --> 00:06:12,300
+[GAXTON]
+You know, your dad was a great guy! So confident. When he came into a room, people noticed.  The man wore the ugliest purple socks, every single day.
+ເຈົ້າຮູ້ແລ້ວ, ພໍ່ເຈົ້າເປັນຜູ້ຊາຍທີ່ດີເລີດ! ມີຄວາມຫມັ້ນໃຈຫຼາຍ. ເມື່ອລາວເຂົ້າໄປໃນຫ້ອງ
+, ປະຊາຊົນສັງເກດເຫັນ. ຜູ້ຊາຍໃສ່ socks ສີແດງທີ່ສວຍງາມທີ່ສຸດ, ທຸກມື້ດຽວ.
+
+103
+00:06:12,800 --> 00:06:14,800
+[IAN]
+What? Why?
+ຫຍັງ? ເປັນຫຍັງ?
+
+104
+00:06:15,300 --> 00:06:21,300
+[GAXTON]
+Hey, that's exactly what we asked. But he was just bold. I always wished I had a little bit of that in me.
+ເຮ້, ນັ້ນແມ່ນສິ່ງທີ່ພວກເຮົາຖາມ. ແຕ່ລາວພຽງແຕ່ກ້າຫານ
+. ຂ້ອຍຢາກມີສິ່ງນັ້ນໃນຂ້ອຍຢູ່ສະເຫມີ.
+
+105
+00:06:21,800 --> 00:06:26,700
+[IAN]
+Yeah. Wow.  I've never heard any of this about him before. Do you remember--?
+ແມ່ນແລ້ວ. ໂວ້. ຂ້ອຍບໍ່ເຄີຍໄດ້ຍິນຫຍັງກ່ຽວກັບລາວກ່ອນ. ເຈົ້າຈື່ບໍ -?
+
+106
+00:06:27,200 --> 00:06:29,200
+[GAXTON'S SON]
+Dad!
+ພໍ່!
+
+107
+00:06:29,700 --> 00:06:32,850
+[GAXTON]
+Oh! Sorry. Gotta get this guy off to school.
+ໂອ້! ຂໍໂທດ. ຂ້ອຍຕ້ອງເອົາຄົນນີ້ໄປໂຮງຮຽນ.
+
+108
+00:06:33,350 --> 00:06:35,450
+[GAXTON]
+Hey, it was nice meeting you!
+ເຮ້, ດີໃຈທີ່ພົບເຈົ້າ!
+
+109
+00:06:35,950 --> 00:06:37,950
+[IAN]
+Yeah, you too.
+ແມ່ນແລ້ວ, ເຈົ້າຄືກັນ.
+
+110
+00:06:38,450 --> 00:06:40,450
+[IAN]
+Huh. Bold.
+ຮາ. ກ້າຫານ.
+
+111
+00:06:40,950 --> 00:06:45,500
+[INVITE PEOPLE TO PARTY]
+He thinks to himself for a moment and then adds a final item:
+ລາວຄິດກັບຕົວເອງຊົ່ວຄາວແລະຫຼັງຈາກນັ້ນເພີ່ມລາຍການສຸດທ້າຍ:
+
+112
+00:06:46,000 --> 00:06:49,500
+[BE LIKE DAD]
+The bell rings and he heads into the imposing building.
+ກະທູ້ສຽງແລະລາວໄປສູ່ອາຄານທີ່ ຫນ້າ ປະທັບໃຈ.
+
+113
+00:06:50,000 --> 00:06:52,450
+[TEACHER]
+Okay, class, sit down. We're starting roll.
+ດີແລ້ວ, ຄລາສ, ນັ່ງລົງ. ພວກເຮົາ ກໍາ ລັງເລີ່ມຕົ້ນລວດລ້ອມ.
+
+114
+00:06:52,950 --> 00:06:58,200
+[IAN]
+Hey, uh, Gorgamon... um, would you mind not putting your feet on my chair today?
+ເຮ້, ໂອ້, ໂກຣແກມອນ... ອູມ,
+ເຈົ້າບໍ່ສົນໃຈທີ່ຈະບໍ່ວາງຕີນໃສ່ຕັ່ງຂອງຂ້ອຍໃນມື້ນີ້ບໍ?
+
+115
+00:06:58,700 --> 00:07:03,250
+[GORGAMON]
+Sorry dude, gotta keep 'em elevated. Gets the blood flowing to my brain.
+ຂໍໂທດແມ, ຕ້ອງເຮັດໃຫ້ພວກມັນສູງຂຶ້ນ.
+ເຮັດໃຫ້ເລືອດໄຫຼໄປສູ່ສະຫມອງຂອງຂ້ອຍ.
+
+116
+00:07:03,750 --> 00:07:08,300
+[IAN]
+It just makes it a little hard for me to fit in there--
+ມັນພຽງແຕ່ເຮັດໃຫ້ມັນຍາກເລັກນ້ອຍ ສໍາ
+ລັບຂ້ອຍທີ່ຈະເຂົ້າໄປໃນບ່ອນນັ້ນ -
+
+117
+00:07:08,800 --> 00:07:14,800
+[GORGAMON]
+Well if I don't have good blood flow, I can't concentrate on my school work. You don't want me to do bad school, do you?
+ດີຖ້າຂ້ອຍບໍ່ມີການໄຫຼຂອງເລືອດທີ່ດີ, ຂ້ອຍບໍ່ສາມາດສຸມໃສ່ວຽກງານໂຮງຮຽນຂອງຂ້ອຍໄດ້
+. ເຈົ້າບໍ່ຢາກໃຫ້ຂ້ອຍເຮັດໂຮງຮຽນທີ່ບໍ່ດີ, ແມ່ນບໍ?
+
+118
+00:07:15,300 --> 00:07:17,300
+[IAN]
+Uh... no.
+ໂອ້... ບໍ່.
+
+119
+00:07:17,800 --> 00:07:19,800
+[GORGAMON]
+Thanks, bro.
+ຂອບໃຈແມ.
+
+120
+00:07:20,300 --> 00:07:22,300
+[DRIVING INSTRUCTOR]
+First road test, any volunteers?
+ການທົດສອບທາງທໍາອິດ, ມີອາສາສະຫມັກໃດບໍ?
+
+121
+00:07:22,800 --> 00:07:24,800
+[DRIVING INSTRUCTOR]
+A left here.
+ທາງຊ້າຍຢູ່ບ່ອນນີ້.
+
+122
+00:07:25,300 --> 00:07:27,750
+[DRIVING INSTRUCTOR]
+Now take this on-ramp to the freeway.
+ດຽວນີ້ເອົາລໍາບາກນີ້ໄປທາງດ່ວນ.
+
+123
+00:07:28,250 --> 00:07:30,700
+[IAN]
+Okay, yeah. I'm super ready for that.
+ດີແລ້ວ, ແມ່ນແລ້ວ. ຂ້ອຍພ້ອມແລ້ວຫຼາຍ ສໍາ ລັບນັ້ນ.
+
+124
+00:07:31,200 --> 00:07:33,200
+[IAN]
+It's nice and fast.
+ມັນດີແລະໄວ.
+
+125
+00:07:33,700 --> 00:07:35,700
+[DRIVING INSTRUCTOR]
+Just merge into traffic.
+ພຽງແຕ່ລວມເຂົ້າກັບການຈະລາຈອນ.
+
+126
+00:07:36,200 --> 00:07:38,200
+[IAN]
+Yup, just any minute...
+ແມ່ນແລ້ວ, ພຽງແຕ່ທຸກນາທີ...
+
+127
+00:07:38,700 --> 00:07:40,700
+[DRIVING INSTRUCTOR]
+Merge into traffic!
+ເຂົ້າໄປໃນການຈະລາຈອນ!
+
+128
+00:07:41,200 --> 00:07:43,200
+[IAN]
+Uh...
+ໂອ້...
+
+129
+00:07:43,700 --> 00:07:45,700
+[IAN]
+I'm not ready!
+ຂ້ອຍຍັງບໍ່ພ້ອມ!
+
+130
+00:07:46,200 --> 00:07:48,200
+[DRIVING INSTRUCTOR]
+Pull over.
+ຢຸດໄປ.
+
+131
+00:07:48,700 --> 00:07:51,500
+[SADALIA]
+Alright, so what should we do this weekend?
+ດີແລ້ວ, ສະນັ້ນພວກເຮົາຄວນເຮັດຫຍັງໃນທ້າຍອາທິດນີ້?
+
+132
+00:07:52,000 --> 00:07:54,000
+[GURGE]
+Move to a cooler town?
+ຍ້າຍໄປເມືອງເຢັນກວ່າບໍ?
+
+133
+00:07:54,500 --> 00:08:00,500
+[IAN]
+Oh, hey! What's up, dudes? I'm, uh, having a party tonight, and was wondering if you wanted to come over and get down on some cake...
+ໂອ້, ເຮ້! ມີຫຍັງເກີດຂຶ້ນ, ພວກຜູ້ຊາຍ? ຂ້ອຍ ກໍາ ລັງຈັດງານລ້ຽງໃນຄືນນີ້
+, ແລະ ກໍາ ລັງສົງໄສວ່າເຈົ້າຢາກມາແລະລົງໃສ່ຄັກບາງຢ່າງບໍ...
+
+134
+00:08:01,000 --> 00:08:05,550
+[IAN]
+That's not something anyone says. Okay, don't say dudes. ...Gang? "What's up, gang?"
+ນັ້ນບໍ່ແມ່ນບາງສິ່ງບາງຢ່າງທີ່ໃຜເວົ້າ. ດີ,
+ຢ່າເວົ້າຜູ້ຊາຍ.... ກຸ່ມ?"ເປັນຫຍັງ, ກຸ່ມ?"
+
+135
+00:08:06,050 --> 00:08:08,050
+[IAN]
+What's up, gang?!
+ມີຫຍັງເກີດຂຶ້ນ, ກຸ່ມຄົນ?!
+
+136
+00:08:08,550 --> 00:08:10,550
+[IAN]
+Hey, what's up, gang?
+ເຮ້, ມີຫຍັງເກີດຂຶ້ນ, ກຸ່ມ?
+
+137
+00:08:11,050 --> 00:08:13,050
+[SADALIA]
+Oh, hey... Ian, right?
+ໂອ້, ເຮ້... ໄອນ, ແມ່ນບໍ?
+
+138
+00:08:13,550 --> 00:08:16,000
+[IAN]
+Oh, I didn't know you knew my...
+ໂອ້, ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າຮູ້ຈັກຂ້ອຍ...
+
+139
+00:08:16,500 --> 00:08:21,050
+[IAN]
+Uhhh, anyway... if you like parties, then I was gonna do a party.
+ອູຮ້, ຢ່າງໃດກໍຕາມ... ຖ້າເຈົ້າມັກງານລ້ຽງ
+, ຫຼັງຈາກນັ້ນຂ້ອຍຈະເຮັດງານລືກັນ.
+
+140
+00:08:21,550 --> 00:08:23,550
+[SADALIA]
+What?
+ຫຍັງ?
+
+141
+00:08:24,050 --> 00:08:30,050
+[IAN]
+What I was trying to say, is if you're not doing anything tonight-- but I'm sure you probably are doing something tonight--and you like cake like I like cake, I've got a cake... at my house.
+ສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເວົ້າ, ແມ່ນຖ້າເຈົ້າບໍ່ໄດ້ເຮັດຫຍັງໃນຄືນນີ້ -
+ແຕ່ຂ້ອຍແນ່ໃຈວ່າເຈົ້າອາດຈະເຮັດບາງສິ່ງບາງຢ່າງໃນຕອນນີ້ - ແລະເຈົ້າມັກຄັກຄືກັບຂ້ອຍມັກຄາກ, ຂ້ອຍມີຄັກ... ຢູ່ເຮືອນຂອງຂ້ອຍ.
+
+142
+00:08:30,550 --> 00:08:33,000
+[SADALIA]
+Are you inviting us to a party?
+ເຈົ້າ ກໍາ ລັງເຊີນພວກເຮົາໄປງານລ້ຽງບໍ?
+
+143
+00:08:33,500 --> 00:08:35,500
+[IAN]
+That's the one.
+ນັ້ນແມ່ນຄົນນັ້ນ.
+
+144
+00:08:36,000 --> 00:08:38,450
+[SADALIA]
+Oh, yeah! We don't have any plans.
+ໂອ້, ແມ່ນແລ້ວ! ພວກເຮົາມີແຜນການໃດໆ.
+
+145
+00:08:38,950 --> 00:08:43,500
+[IAN]
+Really? I guess we can just take the bus over to my house--
+ແທ້ຈິງບໍ? ຂ້ອຍຄິດວ່າພວກເຮົາສາມາດເອົາລົດເມໄປເຮືອນຂອງຂ້ອຍໄດ້ -
+
+146
+00:08:44,000 --> 00:08:46,100
+[IAN]
+Oh, no, no, no, no, no.
+ໂອ້ ບໍ່ ບໍ່ ບໍ່
+
+147
+00:08:46,600 --> 00:08:49,400
+[BARLEY]
+Ha-ha! Is that the birthday boy I see?!
+Ha-ha! ນັ້ນແມ່ນເດັກຊາຍວັນເກີດທີ່ຂ້ອຍເຫັນບໍ?!
+
+148
+00:08:49,900 --> 00:08:51,900
+[BARLEY]
+Behold! Your chariot awaits!
+ເບິ່ງ! ລົດຂອງທ່ານລໍຖ້າ!
+
+149
+00:08:52,400 --> 00:08:54,400
+[ALTHEA]
+Do you know that guy?
+ເຈົ້າຮູ້ຈັກຄົນນັ້ນບໍ?
+
+150
+00:08:54,900 --> 00:08:56,900
+[IAN]
+Uh...
+ໂອ້...
+
+151
+00:08:57,400 --> 00:08:59,400
+[BARLEY]
+Sir Iandore of Lightfoot!
+ທ່ານ Iandore ຂອງ Lightfoot!
+
+152
+00:08:59,900 --> 00:09:02,000
+[ALTHEA]
+Seems like he's talking to you.
+ເບິ່ງຄືວ່າລາວ ກໍາ ລັງເວົ້າກັບເຈົ້າ.
+
+153
+00:09:02,500 --> 00:09:05,300
+[HEY, IAN!]
+Barley honks the horn. Ian turns around sheepishly.
+ບາລີດັງກະທູ້. ອາຍນ໌ຫັນໄປຢ່າງເປັນກະສັດ.
+
+154
+00:09:05,800 --> 00:09:08,950
+[IAN]
+Hey, Barley... Yeah, we're actually gonna take the bus...
+ເຮ້, ບາລີ... ແມ່ນແລ້ວ, ພວກເຮົາຈະເອົາລົດເມແທ້ໆ...
+
+155
+00:09:09,450 --> 00:09:14,000
+[BARLEY]
+The bus?! Nay! I will give you and your companions transport upon Guinevere!
+ລົດເມບໍ?! ບໍ່!
+ຂ້ອຍຈະໃຫ້ເຈົ້າແລະເພື່ອນຮ່ວມງານຂອງທ່ານການຂົນສົ່ງເທິງ Guinevere!
+
+156
+00:09:14,500 --> 00:09:16,500
+[PARTHENOPE]
+Um, who's Guinevere?
+ອູມ, ກີນເວີແມ່ນໃຜ?
+
+157
+00:09:17,000 --> 00:09:19,000
+[BARLEY]
+My mighty steed!
+ມ້າທີ່ເຂັ້ມແຂງຂອງຂ້ອຍ!
+
+158
+00:09:19,500 --> 00:09:23,350
+[BARLEY]
+Oops, that's embarrassing! That's okay, girl. We'll patch you back up.
+ໂອ້, ມັນໂຊກຮ້າຍ! ມັນບໍ່ເປັນຫຍັງ,
+ເດັກຍິງ. ພວກເຮົາຈະຕິດຕໍ່ເຈົ້າຄືນ.
+
+159
+00:09:23,850 --> 00:09:25,850
+[IAN]
+Ugh...  He's just joking around.
+ອູຮ້... ລາວພຽງແຕ່ໂຊກແຊງຢູ່ທົ່ວໄປ.
+
+160
+00:09:26,350 --> 00:09:28,450
+[SADALIA]
+You've got something on your face.
+ເຈົ້າມີບາງສິ່ງບາງຢ່າງຢູ່ເທິງໃບຫນ້າ.
+
+161
+00:09:28,950 --> 00:09:30,950
+[SADALIA]
+Oh no, you just--oh! Right.
+ໂອ້ ບໍ່, ເຈົ້າພຽງແຕ່ - ໂອ້! ແມ່ນແລ້ວ.
+
+162
+00:09:31,450 --> 00:09:33,450
+[SADALIA]
+No, it's--nope.
+ບໍ່, ມັນເປັນ - ບໍ່.
+
+163
+00:09:33,950 --> 00:09:38,850
+[IAN]
+Oh! Uh... You know what? I just remembered that my birthday is, uh... cancelled.
+ໂອ້! ໂອ້... ເຈົ້າຮູ້ຫຍັງບໍ?
+ຂ້ອຍຫາກໍ່ຈື່ວ່າວັນເກີດຂອງຂ້ອຍຖືກຍົກເລີກແລ້ວ.
+
+164
+00:09:39,350 --> 00:09:41,350
+[ALTHEA]
+What?
+ຫຍັງ?
+
+165
+00:09:41,850 --> 00:09:47,850
+[IAN]
+I mean, the party. It was never actually happening. It was just this huge misunderstanding, so I gotta go. Okay, Bye!
+ຂ້ອຍຫມາຍຄວາມວ່າ, ງານລ້ຽງ. ມັນບໍ່ເຄີຍເກີດຂຶ້ນແທ້ໆ.
+ມັນພຽງແຕ່ຄວາມເຂົ້າໃຈຜິດທີ່ໃຫຍ່ຫຼວງນີ້, ສະນັ້ນຂ້ອຍຕ້ອງໄປ. ດີ, ສະບາຍດີ!
+
+166
+00:09:48,350 --> 00:09:51,150
+[BARLEY]
+Ooh, whoops! Sorry! Let me just file those.
+ໂອ້, ໂວ້! ຂໍໂທດ! ຂໍໃຫ້ຂ້ອຍເອກະສານພວກນັ້ນ.
+
+167
+00:09:51,650 --> 00:09:54,450
+[BARLEY]
+Hey! Did those kids write on your face?
+ເຮ້! ເດັກນ້ອຍເຫຼົ່ານັ້ນຂຽນໃສ່ໃບຫນ້າເຈົ້າບໍ?
+
+168
+00:09:54,950 --> 00:09:56,950
+[BARLEY]
+Here, I'll get it.
+ມາແລ້ວ, ຂ້ອຍຈະເອົາມັນ.
+
+169
+00:09:57,450 --> 00:09:59,550
+[IAN]
+Can we please just go home?
+ພວກເຮົາສາມາດກັບບ້ານໄດ້ບໍ?
+
+170
+00:10:00,050 --> 00:10:06,050
+[BARLEY]
+Okay, we'll perform your birthday ceremony later. Then you'll be ready for adulthood and it's gauntlet of challenges! You know in ancient times, you celebrated your day of birth with a solemn quest.
+ດີແລ້ວ, ພວກເຮົາຈະປະຕິບັດພິທີວັນເກີດຂອງທ່ານຕໍ່ມາ. ຫຼັງຈາກນັ້ນເຈົ້າຈະພ້ອມແລ້ວ ສໍາ ລັບອາຍຸສູງແລະມັນເປັນກະທູ້ຂອງສິ່ງທ້າທາຍ
+! ເຈົ້າຮູ້ໃນສະໄຫມບູຮານ, ເຈົ້າໄດ້ສະເຫຼີມສະຫຼອງວັນກໍາເນີດຂອງທ່ານດ້ວຍການຊອກຫາຢ່າງເປັນທາງການ.
+
+171
+00:10:06,550 --> 00:10:08,550
+[IAN]
+Mom?
+ແມ່?
+
+172
+00:10:09,050 --> 00:10:11,850
+[LAUREL]
+Will, you're not gonna get that thing working.
+ວີລ, ເຈົ້າຈະບໍ່ເຮັດໃຫ້ສິ່ງນັ້ນເຮັດວຽກໄດ້.
+
+173
+00:10:12,350 --> 00:10:14,350
+[DAD]
+I think I've got it.
+ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ແລ້ວ.
+
+174
+00:10:14,850 --> 00:10:18,350
+[LAUREL]
+I'm gonna watch from over here when it blows up.
+ຂ້ອຍຈະເບິ່ງຈາກບ່ອນນີ້ເມື່ອມັນລະເບີດ.
+
+175
+00:10:18,850 --> 00:10:20,850
+[DAD]
+Hello? Hello?
+ສະບາຍດີ? ສະບາຍ ດີ?
+
+176
+00:10:21,350 --> 00:10:24,850
+[LAUREL]
+I'll bet good money you can't get it to work.
+ຂ້ອຍແນ່ໃຈວ່າເງິນທີ່ດີເຈົ້າບໍ່ສາມາດເຮັດໃຫ້ມັນເຮັດວຽກໄດ້.
+
+177
+00:10:25,350 --> 00:10:27,350
+[DAD]
+Oh, is that right?
+ໂອ້, ນັ້ນແມ່ນຄວາມຈິງບໍ?
+
+178
+00:10:27,850 --> 00:10:33,800
+[LAUREL]
+Yup. But you're doing a good job of making it look like you know what you're doing.
+ແມ່ນແລ້ວ. ແຕ່ເຈົ້າ ກໍາ
+ລັງເຮັດວຽກທີ່ດີໃນການເຮັດໃຫ້ມັນເບິ່ງຄືວ່າເຈົ້າຮູ້ວ່າທ່ານ ກໍາ ລັງເຮັດຫຍັງ.
+
+179
+00:10:34,300 --> 00:10:36,300
+[DAD]
+Well, I'm trying to.
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມ.
+
+180
+00:10:36,800 --> 00:10:39,250
+[LAUREL]
+Did you check if it had batteries?
+ເຈົ້າກວດເບິ່ງວ່າມັນມີແບັດເຕີຣີບໍ?
+
+181
+00:10:39,750 --> 00:10:41,750
+[LAUREL]
+No, I'm serious.
+ບໍ່, ຂ້ອຍເວົ້າຈິງໃຈ.
+
+182
+00:10:42,250 --> 00:10:44,250
+[DAD]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+183
+00:10:44,750 --> 00:10:46,750
+[LAUREL]
+So, is it really working?
+ສະນັ້ນ, ມັນເຮັດວຽກແທ້ບໍ?
+
+184
+00:10:47,250 --> 00:10:49,350
+[DAD]
+Well, let's find out.  Okay. Bye.
+ດີ, ມາຊອກຮູ້. ດີແລ້ວ. ສະບາຍດີ.
+
+185
+00:10:49,850 --> 00:10:52,650
+[LAUREL]
+Will, you're not gonna get that thing working.
+ວີລ, ເຈົ້າຈະບໍ່ເຮັດໃຫ້ສິ່ງນັ້ນເຮັດວຽກໄດ້.
+
+186
+00:10:53,150 --> 00:10:55,150
+[DAD]
+I think I've got it.
+ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ແລ້ວ.
+
+187
+00:10:55,650 --> 00:10:59,150
+[LAUREL]
+I'm gonna watch from over here when it blows up.
+ຂ້ອຍຈະເບິ່ງຈາກບ່ອນນີ້ເມື່ອມັນລະເບີດ.
+
+188
+00:10:59,650 --> 00:11:01,650
+[IAN]
+Hi, Dad.
+ສະບາຍດີ, ພໍ່.
+
+189
+00:11:02,150 --> 00:11:04,150
+[DAD]
+Hello? Hello?
+ສະບາຍດີ? ສະບາຍ ດີ?
+
+190
+00:11:04,650 --> 00:11:06,650
+[IAN]
+It's me, Ian.
+ມັນເປັນຂ້ອຍ, ໄອນ.
+
+191
+00:11:07,150 --> 00:11:09,150
+[DAD]
+Oh, is that right?
+ໂອ້, ນັ້ນແມ່ນຄວາມຈິງບໍ?
+
+192
+00:11:09,650 --> 00:11:12,100
+[IAN]
+Yeah. Did you have a good day?
+ແມ່ນແລ້ວ. ເຈົ້າມີມື້ທີ່ດີບໍ?
+
+193
+00:11:12,600 --> 00:11:14,600
+[DAD]
+Well, I'm trying to.
+ດີ, ຂ້ອຍພະຍາຍາມເຮັດ.
+
+194
+00:11:15,100 --> 00:11:18,600
+[IAN]
+Yeah, me too. Although, I could clearly use some help.
+ແມ່ນແລ້ວ, ຂ້ອຍຄືກັນ. ເຖິງແມ່ນວ່າ,
+ຂ້ອຍສາມາດໃຊ້ຄວາມຊ່ວຍເຫຼືອບາງຢ່າງໄດ້ຢ່າງແນ່ນອນ.
+
+195
+00:11:19,100 --> 00:11:23,300
+[IAN]
+I sure do wish I could spend a day with you sometime.
+ຂ້ອຍແນ່ນອນວ່າຢາກໄດ້ໃຊ້ເວລາມື້ກັບເຈົ້າບາງຄັ້ງ.
+
+196
+00:11:23,800 --> 00:11:25,800
+[DAD]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+197
+00:11:26,300 --> 00:11:31,200
+[IAN]
+Yeah, there's so many things we could do, I bet it'd be really fun!
+ແມ່ນແລ້ວ, ມີຫຼາຍຢ່າງທີ່ພວກເຮົາສາມາດເຮັດໄດ້
+, ຂ້ອຍແນ່ໃຈວ່າມັນຈະມ່ວນຊື່ນແທ້ໆ!
+
+198
+00:11:31,700 --> 00:11:33,700
+[DAD]
+Well, let's find out.
+ດີ, ມາຊອກຮູ້.
+
+199
+00:11:34,200 --> 00:11:37,350
+[IAN]
+Yeah, I mean, I'd love to! We could, uh--
+ແມ່ນແລ້ວ, ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍຢາກເຮັດ! ພວກເຮົາສາມາດ, ອູ...
+
+200
+00:11:37,850 --> 00:11:39,850
+[DAD]
+Okay. Bye.
+ດີ. ສະບາຍດີ.
+
+201
+00:11:40,350 --> 00:11:42,350
+[IAN]
+Yeah... Bye.
+ແມ່ນແລ້ວ... ສະບາຍດີ.
+
+202
+00:11:42,850 --> 00:11:48,100
+[AH! MY--!]
+She opens the basement door and calls to Barley over the din of his music.
+ນາງເປີດປະຕູຊັ້ນລຸ່ມແລະໂທຫາບາລີຕໍ່ສຽງດົນຕີຂອງລາວ.
+
+203
+00:11:48,600 --> 00:11:53,500
+[LAUREL]
+Barley, keep your soldiers off my land or our kingdoms will go to war!
+ບາລີ,
+ຮັກສາທະຫານຂອງທ່ານອອກຈາກດິນຂອງຂ້ອຍຫຼືອານາຈັກຂອງພວກເຮົາຈະໄປສູ່ສົງຄາມ!
+
+204
+00:11:54,000 --> 00:11:56,000
+[BARLEY]
+Sorry, Mom!
+ຂໍໂທດ, ແມ່!
+
+205
+00:11:56,500 --> 00:11:59,300
+[LAUREL]
+Ugh, this is the world's longest gap year.
+ໂອ້, ນີ້ແມ່ນປີຊ່ອງຫວ່າງທີ່ຍາວທີ່ສຸດໃນໂລກ.
+
+206
+00:11:59,800 --> 00:12:01,900
+[LAUREL]
+Honey, I was gonna do that.
+ແມ, ຂ້ອຍຈະເຮັດແບບນັ້ນ.
+
+207
+00:12:02,400 --> 00:12:04,400
+[IAN]
+That's okay.
+ມັນບໍ່ເປັນຫຍັງ.
+
+208
+00:12:04,900 --> 00:12:09,100
+[LAUREL]
+Wow, you must have been taught by some kind of sewing master.
+ໂວ້, ເຈົ້າຕ້ອງຖືກສອນໂດຍຜູ້ສອນການຕັດຜ້າບາງຊະນິດ.
+
+209
+00:12:09,600 --> 00:12:11,700
+[IAN]
+Yeah, a very humble sewing master.
+ແມ່ນແລ້ວ, ເປັນຜູ້ຊ່ຽວຊານການຕັດຫຍິບທີ່ອ່ອນແອຫຼາຍ.
+
+210
+00:12:12,200 --> 00:12:17,100
+[IAN]
+What was Dad like when he was my age? Was he always super confident?
+ພໍ່ເປັນແນວໃດເມື່ອລາວອາຍຸຂອງຂ້ອຍ? ລາວມີຄວາມຫມັ້ນໃຈຫຼາຍຢູ່ສະເຫມີບໍ?
+
+211
+00:12:17,600 --> 00:12:22,150
+[LAUREL]
+Oh, no. It took him a while to find out who he was.
+ໂອ້, ບໍ່. ມັນໃຊ້ເວລາລາວບາງຊົ່ວຄາວເພື່ອຮູ້ວ່າລາວເປັນໃຜ.
+
+212
+00:12:22,650 --> 00:12:24,650
+[IAN]
+I wish I'd met him.
+ຂ້ອຍຢາກໄດ້ພົບລາວ.
+
+213
+00:12:25,150 --> 00:12:31,150
+[LAUREL]
+Oh, me too. But hey, you know, when your dad got sick, he fought so hard... because he wanted to meet you more than anything.
+ໂອ້, ຂ້ອຍຄືກັນ. ແຕ່ເຮ້, ເຈົ້າຮູ້ແລ້ວ, ເມື່ອພໍ່ເຈົ້າເຈັບປ່ວຍ,
+ລາວຕໍ່ສູ້ຢ່າງແຂງແຮງຫຼາຍ... ເພາະວ່າລາວຢາກພົບເຈົ້າຫຼາຍກ່ວາສິ່ງໃດກໍ່ຕາມ.
+
+214
+00:12:31,650 --> 00:12:37,650
+[LAUREL]
+You know what, I have something for you. I was going to wait until after cake but... I think you've waited long enough.
+ເຈົ້າຮູ້ແລ້ວວ່າຫຍັງ, ຂ້ອຍມີບາງສິ່ງບາງຢ່າງ ສໍາ ລັບເຈົ້າ.
+ຂ້ອຍຈະລໍຖ້າຈົນກວ່າຫຼັງຈາກຄັກແຕ່... ຂ້ອຍຄິດວ່າເຈົ້າລໍ ຖ້າດົນພໍສົມຄວນ.
+
+215
+00:12:38,150 --> 00:12:40,150
+[IAN]
+What is it?
+ມັນເປັນຫຍັງ?
+
+216
+00:12:40,650 --> 00:12:42,750
+[LAUREL]
+It's a gift... from your dad.
+ມັນເປັນຂອງຂວັນ... ຈາກພໍ່ເຈົ້າ.
+
+217
+00:12:43,250 --> 00:12:45,700
+[BARLEY]
+What do you mean it's from Dad?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດວ່າມັນມາຈາກພໍ່?
+
+218
+00:12:46,200 --> 00:12:50,050
+[IAN]
+I don't know! Mom said it was for both of us.
+ຂ້ອຍບໍ່ຮູ້! ແມ່ບອກວ່າມັນເປັນສໍາລັບພວກເຮົາທັງສອງ.
+
+219
+00:12:50,550 --> 00:12:52,550
+[BARLEY]
+What is it?!
+ມັນເປັນຫຍັງ?!
+
+220
+00:12:53,050 --> 00:12:59,050
+[LAUREL]
+He just said to give you this when you were both over sixteen. I have no idea what it is.
+ລາວພຽງແຕ່ບອກໃຫ້ເຈົ້າສິ່ງນີ້ເມື່ອເຈົ້າທັງສອງອາຍຸຫຼາຍກວ່າສິບຫົກປີ
+. ຂ້ອຍບໍ່ຮູ້ວ່າມັນເປັນຫຍັງ.
+
+221
+00:12:59,550 --> 00:13:01,650
+[NO WAY!]
+Barley picks it up in amazement.
+ບາລີເອົາມັນດ້ວຍຄວາມແປກໃຈ.
+
+222
+00:13:02,150 --> 00:13:04,600
+[BARLEY]
+It's a wizard staff! DAD WAS A
+ມັນເປັນກະດານຊະຍາກອນ! ພໍ່ເປັນ
+
+223
+00:13:05,100 --> 00:13:07,100
+[IAN]
+What?
+ຫຍັງ?
+
+224
+00:13:07,600 --> 00:13:13,600
+[LAUREL]
+Hold on, your Dad was an accountant. I mean, he got interested in a lot of strange things when he got sick but--
+ລໍຖ້າ, ພໍ່ຂອງທ່ານເປັນນັກບັນຊີ. ຂ້ອຍຫມາຍຄວາມວ່າ,
+ລາວສົນໃຈໃນສິ່ງແປກໃຈຫຼາຍຢ່າງເມື່ອລາວເຈັບປ່ວຍແຕ່ -
+
+225
+00:13:14,100 --> 00:13:20,100
+[IAN]
+There's a letter.  "Dear Ian and Barley: Long ago, the world was full of wonder! It was adventurous, exciting, and best of all... there was magic. And that magic helped all in need. But it wasn't easy to master. And so the world found a simpler way to get by. Over time, magic faded away, but I hope there's a little magic left... in you. And so I wrote this spell so I could see for myself, who my boys grew up to be."
+ມີຈົດຫມາຍຫນຶ່ງ."ແອນແລະບາລີທີ່ຮັກແພງ: ເມື່ອຍາວນານແລ້ວ, ໂລກເຕັມໄປດ້ວຍຄວາມແປກໃຈ! ມັນມີຄວາມຜະຈົນໄພ, ຫນ້າ ຕື່ນເຕັ້ນ, ແລະທີ່ດີທີ່ສຸດຂອງທັງ ຫມົດ... ມີຊະຍາກອນ. ແລະຊະຍາເຫຼົ່ານັ້ນຊ່ວຍທຸກຄົນທີ່ຕ້ອງການ
+. ແຕ່ມັນບໍ່ແມ່ນເລື່ອງງ່າຍທີ່ຈະຄວບຄຸມ. ແລະດັ່ງນັ້ນໂລກໄດ້ພົບວິທີທີ່ງ່າຍດາຍກວ່າທີ່ຈະຢູ່ອາໄສ. ໃນໄລຍະເວລາ, ຊະຍາຫາຍໄປ, ແຕ່ຂ້ອຍຫວັງວ່າມີຊະຍະຍາກອນນ້ອຍໆທີ່ເຫຼືອໄວ້... ໃນເຈົ້າ. ແລະ
+
+226
+00:13:20,600 --> 00:13:22,600
+[IAN]
+Visitation Spell?
+ການຊະຍາກອນການຢ້ຽມຢາມບໍ?
+
+227
+00:13:23,100 --> 00:13:29,050
+[BARLEY]
+I don't believe this.  This spell brings him back. For one whole day, Dad will be back!
+ຂ້ອຍບໍ່ເຊື່ອເລື່ອງນີ້. ການຊະຍາກອນນີ້ເຮັດໃຫ້ລາວກັບມາ
+. ສໍາລັບມື້ດຽວທັງ ຫມົດ, ພໍ່ຈະກັບມາ!
+
+228
+00:13:29,550 --> 00:13:31,550
+[LAUREL]
+What?
+ຫຍັງ?
+
+229
+00:13:32,050 --> 00:13:34,850
+[IAN]
+Back?! Like back to life? That's not possible.
+ກັບມາບໍ?! ຄືກັບກັບຄືນສູ່ຊີວິດບໍ? ນັ້ນບໍ່ສາມາດເຮັດໄດ້.
+
+230
+00:13:35,350 --> 00:13:37,350
+[BARLEY]
+It is with this.
+ມັນເປັນກັບສິ່ງນີ້.
+
+231
+00:13:37,850 --> 00:13:39,850
+[IAN]
+I'm gonna meet Dad?
+ຂ້ອຍຈະພົບກັບພໍ່ບໍ?
+
+232
+00:13:40,350 --> 00:13:43,150
+[LAUREL]
+Oh, Will, you wonderful nut, what is this?!
+ໂອ້, ວີລ, ເຈົ້າໂຊກຮ້າຍທີ່ຍິ່ງໃຫຍ່, ນີ້ແມ່ນຫຍັງ?!
+
+233
+00:13:43,650 --> 00:13:49,650
+[BARLEY]
+Now, a spell this powerful needs an assist element. For this to work Dad would've had to find a...  Phoenix Gem!
+ດຽວນີ້, ການຊະຍາກອນທີ່ເຂັ້ມແຂງນີ້ຕ້ອງການອົງປະກອບຊ່ວຍເຫຼືອ
+. ເພື່ອສິ່ງນີ້ຈະເຮັດວຽກພໍ່ຕ້ອງຊອກຫາ... ຫີນກ້ອນຟີນິກສ໌!
+
+234
+00:13:50,150 --> 00:13:52,950
+[BARLEY]
+Wow. There's only a few of these left.
+ໂວ້. ມີພຽງແຕ່ສອງສາມຄົນນີ້ທີ່ເຫຼືອ.
+
+235
+00:13:53,450 --> 00:13:55,450
+[LAUREL]
+Hold on, is this dangerous?
+ລໍຖ້າ, ນີ້ແມ່ນອັນຕະລາຍບໍ?
+
+236
+00:13:55,950 --> 00:13:57,950
+[BARLEY]
+We're about to find out.
+ພວກເຮົາກໍາລັງຈະຮູ້ວ່າ.
+
+237
+00:13:58,450 --> 00:14:00,450
+[BARLEY]
+Ah!
+ໂອ້!
+
+238
+00:14:00,950 --> 00:14:02,950
+[LAUREL]
+What?!
+ຫຍັງ?!
+
+239
+00:14:03,450 --> 00:14:05,450
+[BARLEY]
+Splinter.
+ສະປິນເຕີ.
+
+240
+00:14:05,950 --> 00:14:11,950
+[BARLEY]
+"Only once is all we get, grant me this rebirth. 'Til tomorrow's sun has set, one day to walk the earth!"
+ພຽງແຕ່ຄັ້ງດຽວເທົ່ານັ້ນທີ່ພວກເຮົາໄດ້ຮັບ, ໃຫ້ຂ້ອຍເກີດໃຫມ່ນີ້
+. ຈົນກວ່າແສງຕາເວັນມື້ອື່ນຈະຕົກລົງ, ມື້ຫນຶ່ງທີ່ຈະຍ່າງໂລກ!
+
+241
+00:14:12,450 --> 00:14:15,250
+[BARLEY]
+Hold on, I was just gripping it wrong.
+ລໍຖ້າ, ຂ້ອຍພຽງແຕ່ຈັບມັນຜິດ.
+
+242
+00:14:15,750 --> 00:14:21,750
+[BARLEY]
+Only once is all we get, grant me this rebirth, `til tomorrow's sun has set, one day to walk THE EARTH!
+ພຽງແຕ່ຄັ້ງດຽວເທົ່ານັ້ນທີ່ພວກເຮົາໄດ້ຮັບ, ໃຫ້ຂ້ອຍເກີດໃຫມ່ນີ້
+, ຈົນກວ່າແສງຕາເວັນມື້ອື່ນຈະຕົກລົງ, ມື້ຫນຶ່ງທີ່ຈະຍ່າງໂລກ!
+
+243
+00:14:22,250 --> 00:14:25,750
+[BARLEY]
+Only once is all we get, grant me this rebirth.
+ພຽງແຕ່ຄັ້ງດຽວເທົ່ານັ້ນທີ່ພວກເຮົາໄດ້ຮັບ, ໃຫ້ຂ້ອຍເກີດໃຫມ່ນີ້.
+
+244
+00:14:26,250 --> 00:14:28,250
+[BARLEY]
+`Til tomorrow's sun has set...
+ຈົນກວ່າແສງຕາເວັນມື້ອື່ນຈະຕົກລົງ...
+
+245
+00:14:28,750 --> 00:14:30,850
+[BARLEY]
+...one day to walk THE EARTH!
+... ມື້ຫນຶ່ງທີ່ຈະຍ່າງໂລກ!
+
+246
+00:14:31,350 --> 00:14:33,450
+[BARLEY]
+One day to walk the earth!
+ມື້ຫນຶ່ງທີ່ຈະຍ່າງໂລກ!
+
+247
+00:14:33,950 --> 00:14:35,950
+[BARLEY]
+`Til tomorrow's sun has set...
+ຈົນກວ່າແສງຕາເວັນມື້ອື່ນຈະຕົກລົງ...
+
+248
+00:14:36,450 --> 00:14:38,550
+[BARLEY]
+One day to walk the earth!
+ມື້ຫນຶ່ງທີ່ຈະຍ່າງໂລກ!
+
+249
+00:14:39,050 --> 00:14:41,150
+[BARLEY]
+...One day... to walk... the earth!
+ມື້ຫນຶ່ງ... ເພື່ອຍ່າງ... ໂລກ!
+
+250
+00:14:41,650 --> 00:14:43,650
+[BARLEY]
+`Til tomorrow's sun has set...
+ຈົນກວ່າແສງຕາເວັນມື້ອື່ນຈະຕົກລົງ...
+
+251
+00:14:44,150 --> 00:14:46,250
+[BARLEY]
+One day to walk the earth!
+ມື້ຫນຶ່ງທີ່ຈະຍ່າງໂລກ!
+
+252
+00:14:46,750 --> 00:14:48,750
+[LAUREL]
+Barley.
+ບາລີ.
+
+253
+00:14:49,250 --> 00:14:55,250
+[LAUREL]
+I'm sorry you guys don't have your Dad here, but this shows just how much he wanted to see you both. So much that he'd try anything. That's still a pretty special gift.
+ຂ້ອຍຂໍໂທດວ່າເຈົ້າບໍ່ມີພໍ່ຂອງເຈົ້າຢູ່ນີ້, ແຕ່ສິ່ງນີ້ສະແດງໃຫ້ເຫັນວ່າລາວຢາກເຫັນເຈົ້າທັງສອງຫຼາຍປານໃດ
+. ຈົນລາວຈະພະຍາຍາມທຸກຢ່າງ. ນັ້ນຍັງເປັນຂອງຂວັນພິເສດຫຼາຍ.
+
+254
+00:14:55,750 --> 00:14:57,750
+[IAN]
+Yeah.
+ແມ່ນແລ້ວ.
+
+255
+00:14:58,250 --> 00:15:02,100
+[LAUREL]
+Hey, want to come with me to pick up your cake?
+ເຮ້, ເຈົ້າຢາກມາກັບຂ້ອຍເພື່ອເອົາຄັກຂອງທ່ານບໍ?
+
+256
+00:15:02,600 --> 00:15:04,600
+[IAN]
+That's okay. Thanks, Mom.
+ມັນບໍ່ເປັນຫຍັງ. ຂອບໃຈ, ແມ່.
+
+257
+00:15:05,100 --> 00:15:08,600
+[IAN]
+Only once is all we get, grant me this rebirth...
+ພຽງແຕ່ຄັ້ງດຽວເທົ່ານັ້ນທີ່ພວກເຮົາໄດ້ຮັບ, ໃຫ້ຂ້ອຍເກີດໃຫມ່ນີ້...
+
+258
+00:15:09,100 --> 00:15:11,100
+[IAN]
+'Til tomorrow's sun has set...
+ຈົນກວ່າແສງຕາເວັນມື້ອື່ນຈະຕົກລົງ...
+
+259
+00:15:11,600 --> 00:15:13,700
+[IAN]
+One day to walk the earth!
+ມື້ຫນຶ່ງທີ່ຈະຍ່າງໂລກ!
+
+260
+00:15:14,200 --> 00:15:19,450
+[BARLEY]
+Hey man, what are you doing in here?  Holy Tooth of Zadar! How did you--?
+ເຮ້ ຜູ້ຊາຍ, ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+ແຂ້ວສັກສິດຂອງຊາດາຣ໌! ເຈົ້າເຮັດແນວໃດ -?
+
+261
+00:15:19,950 --> 00:15:22,050
+[IAN]
+I don't know, it just started!
+ຂ້ອຍບໍ່ຮູ້, ມັນຫາກໍ່ເລີ່ມຕົ້ນແລ້ວ!
+
+262
+00:15:22,550 --> 00:15:24,550
+[BARLEY]
+Whoa, feet!
+ໂວ້, ຕີນ!
+
+263
+00:15:25,050 --> 00:15:27,050
+[BARLEY]
+Hang on, I can help!
+ລໍຖ້າ, ຂ້ອຍສາມາດຊ່ວຍໄດ້!
+
+264
+00:15:27,550 --> 00:15:30,700
+[BARLEY, NO!]
+The red swell explodes. The gem BURSTS into pieces.
+ຄື້ນຟອງສີແດງລະເບີດ. ກ້ອນຫີນແຕກເປັນສິ້ນສ່ວນ.
+
+265
+00:15:31,200 --> 00:15:33,200
+[IAN]
+Dad?
+ພໍ່?
+
+266
+00:15:33,700 --> 00:15:35,700
+[BARLEY]
+AH! He's just legs!
+ອາ! ລາວພຽງແຕ່ຕີນເທົ່ານັ້ນ!
+
+267
+00:15:36,200 --> 00:15:40,400
+[BARLEY]
+There's no top part. I definitely remember Dad having a top part!
+ບໍ່ມີສ່ວນເທິງ. ຂ້ອຍຈື່ວ່າພໍ່ມີສ່ວນເທິງແນ່ນອນ!
+
+268
+00:15:40,900 --> 00:15:43,700
+[IAN]
+Oh, what did I do? This is horrible!
+ໂອ້, ຂ້ອຍເຮັດຫຍັງ? ນີ້ແມ່ນຮ້າຍແຮງ!
+
+269
+00:15:44,200 --> 00:15:46,200
+[IAN]
+Hello?
+ສະບາຍດີ?
+
+270
+00:15:46,700 --> 00:15:49,850
+[BARLEY]
+It's really him.  DAD! You are in your house!
+ມັນເປັນລາວແທ້ໆ. ພໍ່! ເຈົ້າຢູ່ໃນເຮືອນຂອງທ່ານ!
+
+271
+00:15:50,350 --> 00:15:52,350
+[IAN]
+Whoa, whoa!
+ໂອ້, ໂອ້!
+
+272
+00:15:52,850 --> 00:15:54,850
+[BARLEY]
+Oh boy!
+ໂອ້ ເດັກຊາຍ!
+
+273
+00:15:55,350 --> 00:15:57,350
+[IAN]
+Ah, he can't hear us.
+ອາ, ລາວບໍ່ສາມາດຍິນພວກເຮົາໄດ້.
+
+274
+00:15:57,850 --> 00:15:59,850
+[IAN]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+275
+00:16:00,350 --> 00:16:02,450
+[BARLEY]
+That's right Dad. It's me, Barley.
+ນັ້ນແມ່ນແລ້ວ ພໍ່. ມັນແມ່ນຂ້ອຍ, ບາລີ.
+
+276
+00:16:02,950 --> 00:16:04,950
+[BARLEY]
+Yeah, that's Ian.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນໄອນ.
+
+277
+00:16:05,450 --> 00:16:07,450
+[IAN]
+Hi... Dad.
+ສະບາຍດີ... ພໍ່.
+
+278
+00:16:07,950 --> 00:16:12,850
+[IAN]
+Oh... I messed this whole thing up and now he's gonna be legs forever!
+ໂອ້... ຂ້ອຍເຮັດໃຫ້ເລື່ອງທັງ ຫມົດ
+ນີ້ຜິດພາດແລະດຽວນີ້ລາວຈະເປັນຕີນຕະຫຼອດໄປ!
+
+279
+00:16:13,350 --> 00:16:19,350
+[BARLEY]
+Well, not... forever. The spell only lasts one day. At sunset tomorrow, he'll disappear and we'll never be able to bring him back again.
+ດີ, ບໍ່ແມ່ນ... ຕະຫຼອດໄປ. ການຊະຍາກອນພຽງແຕ່ໃຊ້ເວລາ ຫນຶ່ງ ມື້ເທົ່ານັ້ນ.
+ໃນຕອນບ່າຍມື້ອື່ນ, ລາວຈະຫາຍໄປແລະພວກເຮົາຈະບໍ່ສາມາດພາລາວກັບມາອີກເທື່ອຫນຶ່ງ.
+
+280
+00:16:19,850 --> 00:16:23,700
+[IAN]
+Okay, okay, okay. Twenty-Four hours...that doesn't give us much time, but--
+ດີແລ້ວ, ດີ, ດີແລ້ວ. ສິບສີ່ຊົ່ວໂມງ...
+ນັ້ນບໍ່ໃຫ້ເວລາຫຼາຍໃຫ້ພວກເຮົາ, ແຕ່ -
+
+281
+00:16:24,200 --> 00:16:27,350
+[IAN]
+Well, we'll just have to do the spell again.
+ດີ, ພວກເຮົາພຽງແຕ່ຕ້ອງເຮັດຊະຍາກອນອີກຄັ້ງ.
+
+282
+00:16:27,850 --> 00:16:33,850
+[BARLEY]
+You mean you have to.  A person can only do magic if they have the gift. And my little brother has the magic gift!
+ເຈົ້າຫມາຍຄວາມວ່າເຈົ້າຕ້ອງເຮັດ. ຄົນສາມາດເຮັດຊະຍາກອນໄດ້ພຽງແຕ່ຖ້າພວກເຂົາມີຂອງຂວັນເທົ່ານັ້ນ
+. ແລະອ້າຍນ້ອຍຂອງຂ້ອຍມີຄວາມມ່ວນຊື່ນ!
+
+283
+00:16:34,350 --> 00:16:36,800
+[IAN]
+But I couldn't even finish the spell.
+ແຕ່ຂ້ອຍຍັງບໍ່ສາມາດສິ້ນສຸດການຊະຍາກອນໄດ້ເລີຍ.
+
+284
+00:16:37,300 --> 00:16:43,250
+[BARLEY]
+Well, you're gonna have plenty of time to practice. Because we have to find another Phoenix Gem.
+ດີ, ເຈົ້າຈະມີເວລາຫຼາຍທີ່ຈະຝຶກຊ້ອມ.
+ເພາະວ່າພວກເຮົາຕ້ອງຊອກຫາເພັດຟີນິກສ໌ອີກຫນຶ່ງ.
+
+285
+00:16:43,750 --> 00:16:48,300
+[BARLEY]
+Ah-ha! We'll start at the place where all quests begin. The Manticore's Tavern!
+ອາຮາ! ພວກເຮົາຈະເລີ່ມຕົ້ນຢູ່ບ່ອນທີ່ການຊອກຫາທັງ
+ຫມົດ ເລີ່ມຕົ້ນ. ໂຮງແຮມຂອງແມນຕິກໍ!
+
+286
+00:16:48,800 --> 00:16:54,750
+[BARLEY]
+It's run by a fearless adventurer. She knows where to find any kind of gem, talisman, totem...
+ມັນຖືກຄຸ້ມຄອງໂດຍນັກຜະຈົນໄພທີ່ບໍ່ມີຄວາມຢ້ານກົວ.
+ນາງຮູ້ວ່າຈະຊອກຫາຫີນຫີນໃດໆ, ທາລີສມານ, ໂຕເທມ...
+
+287
+00:16:55,250 --> 00:16:57,350
+[IAN]
+Barley, this is for a game.
+ບາລີ, ນີ້ແມ່ນເພື່ອເກມ.
+
+288
+00:16:57,850 --> 00:16:59,850
+[BARLEY]
+Based on real life!
+ອີງຕາມຊີວິດທີ່ແທ້ຈິງ!
+
+289
+00:17:00,350 --> 00:17:03,850
+[IAN]
+But, how do we know this tavern is still there?
+ແຕ່, ພວກເຮົາຮູ້ແນວໃດວ່າຮ້ານອາຫານນີ້ຍັງຢູ່ບ່ອນນັ້ນ?
+
+290
+00:17:04,350 --> 00:17:10,350
+[BARLEY]
+It's there. Look, my years of training have prepared me for this very moment. And I'm telling you... this is the only way to find a Phoenix Gem.
+ມັນຢູ່ບ່ອນນັ້ນ. ເບິ່ງ, ການຝຶກອົບຮົມຂອງຂ້ອຍໄດ້ກະກຽມຂ້ອຍ ສໍາ ລັບເວລານີ້ເອງ
+. ແລະຂ້ອຍບອກເຈົ້າວ່າ... ນີ້ແມ່ນວິທີດຽວທີ່ຈະຊອກຫາເພັດຟີນິກສ໌.
+
+291
+00:17:10,850 --> 00:17:12,850
+[BARLEY]
+Trust me.
+ເຊື່ອຂ້ອຍ.
+
+292
+00:17:13,350 --> 00:17:16,500
+[IAN]
+Whatever it takes, I am gonna meet my dad.
+ບໍ່ວ່າຈະຕ້ອງເຮັດຫຍັງ, ຂ້ອຍຈະພົບກັບພໍ່ຂອງຂ້ອຍ.
+
+293
+00:17:17,000 --> 00:17:20,150
+[BARLEY]
+You hear that, Dad? We're going on a quest!
+ເຈົ້າໄດ້ຍິນແລ້ວບໍ, ພໍ່? ພວກເຮົາ ກໍາ ລັງໄປໃນການຊອກຫາ!
+
+294
+00:17:20,650 --> 00:17:22,650
+[BARLEY]
+Come on, Guinevere...
+ມາແລ້ວ, ກີເນເວີ...
+
+295
+00:17:23,150 --> 00:17:25,950
+[IAN]
+Uh... Maybe we should just take the bus.
+ໂອ້... ບາງທີພວກເຮົາຄວນເອົາລົດເມເທົ່ານັ້ນ.
+
+296
+00:17:26,450 --> 00:17:28,450
+[BARLEY]
+She's fine.
+ນາງບໍ່ເປັນຫຍັງ.
+
+297
+00:17:28,950 --> 00:17:34,950
+[H'YAH!]
+The van backfires and spits black smoke as it heads away from the cookie cutter suburban homes, toward the fantastical purple mountains in the distance.
+ລົດບັນທຸກໄດ້ຍິງກັບຄືນໄປບ່ອນແລະຖິ້ມສູບສີດໍາໃນຂະນະທີ່ມັນໄປຫ່າງຈາກເຮືອນແຄມເມືອງຂອງເຄື່ອງຕັດຄຸກເກີ
+, ໄປສູ່ພູສີບົວທີ່ສວຍງາມໃນໄລຍະໄກ.
+
+298
+00:17:35,450 --> 00:17:41,450
+[IAN]
+Anyway, it's like this award for math, it's no big deal. But I'll show you when we get back home.
+ຢ່າງໃດກໍຕາມ, ມັນຄືກັບລາງວັນນີ້ ສໍາ ລັບຄະນິດສາດ,
+ມັນບໍ່ແມ່ນເລື່ອງໃຫຍ່. ແຕ່ຂ້ອຍຈະສະແດງໃຫ້ເຈົ້າເມື່ອພວກເຮົາກັບບ້ານ.
+
+299
+00:17:41,950 --> 00:17:45,800
+[BARLEY]
+Hey, what are you two Chatty Charlies up to back there?
+ເຮ້, ເຈົ້າທັງສອງແຊລລີທີ່ສົນທະນາ ກໍາ ລັງເຮັດຫຍັງຢູ່ບ່ອນນັ້ນ?
+
+300
+00:17:46,300 --> 00:17:50,850
+[IAN]
+You know, I felt weird talking to Dad without a top half, so...
+ເຈົ້າຮູ້ແລ້ວ,
+ຂ້ອຍຮູ້ສຶກແປກໃຈທີ່ເວົ້າກັບພໍ່ໂດຍບໍ່ມີເຄິ່ງເທິງ, ສະນັ້ນ...
+
+301
+00:17:51,350 --> 00:17:53,350
+[IAN]
+...Ta-da!
+... Ta-da!
+
+302
+00:17:53,850 --> 00:17:57,350
+[BARLEY]
+Oh! That's great! Dad, you look just like I remember.
+ໂອ້! ນັ້ນດີເລີດ! ພໍ່, ເຈົ້າເບິ່ງຄືວ່າຂ້ອຍຈື່ໄວ້.
+
+303
+00:17:57,850 --> 00:18:03,850
+[BARLEY]
+Hey, don't worry, we'll have the rest of you here before you know it. And then, first thing I'm gonna do: introduce you to Guinevere. Rebuilt this old girl myself, from the lug nuts to the air conditioning.
+ເຮ້, ຢ່າກັງວົນ, ພວກເຮົາມີເຈົ້າທັງ ຫມົດ ຢູ່ບ່ອນນີ້ກ່ອນທີ່ທ່ານຈະຮູ້ມັນ. ແລະຫຼັງຈາກນັ້ນ, ສິ່ງ ທໍາ ອິດທີ່ຂ້ອຍຈະເຮັດ
+: ນໍາ ສະ ເຫນີ ເຈົ້າກັບ Guinevere. ສ້າງຄືນເດັກຍິງເກົ່ານີ້ເອງ, ຈາກ ຫມາກ ນັດ lug ເຖິງເຄື່ອງປັບອາກາດ.
+
+304
+00:18:04,350 --> 00:18:07,150
+[IAN]
+Showing Dad your van? That's your whole list?
+ການສະແດງລົດບັນທຸກຂອງທ່ານໃຫ້ພໍ່ບໍ?
+ນັ້ນແມ່ນລາຍຊື່ທັງ ຫມົດ ຂອງທ່ານບໍ?
+
+305
+00:18:07,650 --> 00:18:09,650
+[BARLEY]
+What list?
+ລາຍຊື່ໃດ?
+
+306
+00:18:10,150 --> 00:18:12,150
+[IAN]
+Oh...
+ໂອ້...
+
+307
+00:18:12,650 --> 00:18:14,650
+[BARLEY]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+308
+00:18:15,150 --> 00:18:21,150
+[IAN]
+I'm just working on a list of things I wanted to do with Dad. You know, play catch, take a walk, driving lesson, share my whole life story with him.
+ຂ້ອຍພຽງແຕ່ ກໍາ ລັງເຮັດວຽກກ່ຽວກັບລາຍຊື່ຂອງສິ່ງຕ່າງໆທີ່ຂ້ອຍຢາກເຮັດກັບພໍ່. ເຈົ້າຮູ້ແລ້ວ
+, ຫຼິ້ນຈັບ, ຍ່າງ, ບົດຮຽນຂັບຂີ່, ແບ່ງປັນເລື່ອງຊີວິດຂອງຂ້ອຍທັງ ຫມົດ ກັບລາວ.
+
+309
+00:18:21,650 --> 00:18:27,600
+[BARLEY]
+That's cool.  Oh, but before you cast Dad's spell again, you're gonna have to practice your magic.
+ມັນບໍ່ເປັນຫຍັງ. ໂອ້, ແຕ່ກ່ອນທີ່ທ່ານຈະຖິ້ມຄໍາຊະຍາກອນຂອງພໍ່ອີກຄັ້ງ
+, ເຈົ້າຈະຕ້ອງຝຶກຊ້ອມການສວຍຂອງທ່ານ.
+
+310
+00:18:28,100 --> 00:18:30,200
+[IAN]
+This book is for a game.
+ປື້ມນີ້ແມ່ນສໍາລັບເກມ.
+
+311
+00:18:30,700 --> 00:18:36,700
+[BARLEY]
+I told you, everything in Quests of Yore is historically accurate! Even the spells. So start practicing, young sorcerer!
+ຂ້ອຍບອກເຈົ້າແລ້ວ, ທຸກສິ່ງທຸກຢ່າງໃນ Quest ຂອງ Yore ແມ່ນຖືກຕ້ອງຕາມປະຫວັດສາດ
+! ເຖິງແມ່ນວ່າຄໍາຊະຍາກອນ. ສະນັ້ນເລີ່ມຕົ້ນຝຶກຊ້ອມ, ນັກຊະວະກອນຫນຸ່ມ!
+
+312
+00:18:37,200 --> 00:18:39,300
+[IAN]
+Okay, Dad. Let's try some magic.
+ດີແລ້ວ, ພໍ່. ມາພະຍາຍາມຊະຍາກອນບາງຢ່າງ.
+
+313
+00:18:39,800 --> 00:18:41,800
+[IAN]
+Aloft Elevar.
+ອາໂລຟຕ໌ ເອເລເວີ.
+
+314
+00:18:42,300 --> 00:18:44,300
+[IAN]
+Aloft Elevar.
+ອາໂລຟຕ໌ ເອເລເວີ.
+
+315
+00:18:44,800 --> 00:18:50,750
+[IAN]
+I can't get this levitation spell to work. Maybe I should try something else, like...  Arcane Lightning?
+ຂ້ອຍບໍ່ສາມາດເຮັດໃຫ້ຊະຍາກອນ levitation ນີ້ເຮັດວຽກໄດ້.
+ບາງທີຂ້ອຍຄວນພະຍາຍາມບາງສິ່ງບາງຢ່າງອື່ນ, ເຊັ່ນວ່າ... ແສງສະຫວ່າງ Arcane?
+
+316
+00:18:51,250 --> 00:18:57,250
+[BARLEY]
+Pfft, yeah, like a level one mage could bust out the hardest spell in the Enchanter's Guide Book.  Maybe we'll stick with the easy ones.
+ປຟຕ໌, ແມ່ນແລ້ວ, ຄືກັບນັກຊະຍາກອນລະດັບ ຫນຶ່ງ ສາມາດ ທໍາ ລາຍ ຄໍາ
+ສັບທີ່ຍາກທີ່ສຸດໃນປື້ມຄູ່ມືຂອງ Enchanter ໄດ້. ບາງທີພວກເຮົາຈະຍຶດຫມັ້ນກັບສິ່ງທີ່ງ່າຍດາຍ.
+
+317
+00:18:57,750 --> 00:19:01,250
+[IAN]
+Yeah, well, it's not working. Am I saying it wrong?
+ແມ່ນແລ້ວ, ດີ, ມັນບໍ່ໄດ້ເຮັດວຽກ. ຂ້ອຍເວົ້າມັນຜິດບໍ?
+
+318
+00:19:01,750 --> 00:19:07,750
+[BARLEY]
+You said it right, it's just for any spell to work you have to speak from your heart's fire.
+ເຈົ້າເວົ້າມັນຢ່າງຖືກຕ້ອງ,
+ມັນພຽງແຕ່ເພື່ອໃຫ້ຊະຍາກອນໃດໆເຮັດວຽກເຈົ້າຕ້ອງເວົ້າຈາກໄຟຂອງຫົວໃຈຂອງທ່ານ.
+
+319
+00:19:08,250 --> 00:19:10,250
+[IAN]
+My what?
+ຂ້ອຍຫຍັງ?
+
+320
+00:19:10,750 --> 00:19:14,600
+[BARLEY]
+Your heart's fire, you must speak with passion, don't hold back.
+ໄຟຂອງຫົວໃຈເຈົ້າ, ເຈົ້າຕ້ອງເວົ້າດ້ວຍຄວາມກະຕຸ້ນໃຈ, ຢ່າກັກຕົວໄວ້.
+
+321
+00:19:15,100 --> 00:19:17,100
+[IAN]
+Aloft Elevar!
+ອາໂລຟຕ໌ ເອເລເວີ!
+
+322
+00:19:17,600 --> 00:19:19,600
+[BARLEY]
+No, like - Aloft Elevar!
+ບໍ່, ເຊັ່ນວ່າ - Aloft Elevar!
+
+323
+00:19:20,100 --> 00:19:22,100
+[IAN]
+Aloft Elevar!
+ອາໂລຟຕ໌ ເອເລເວີ!
+
+324
+00:19:22,600 --> 00:19:24,600
+[BARLEY]
+No, from your heart's fire!
+ບໍ່, ຈາກໄຟຂອງຫົວໃຈຂອງທ່ານ!
+
+325
+00:19:25,100 --> 00:19:27,100
+[ALOFT ELEVAR!]
+38.
+38.
+
+326
+00:19:27,600 --> 00:19:29,700
+[HEART'S FIRE!]
+Ian tosses the staff in frustration.
+ແອນຖິ້ມພະນັກງານໃນຄວາມໂຊກຮ້າຍ.
+
+327
+00:19:30,200 --> 00:19:33,350
+[IAN]
+STOP SAYING HEARTS FIRE! This just clearly isn't working!
+ຢຸດການເວົ້າໄຟຫົວໃຈ! ນີ້ແມ່ນພຽງແຕ່ແນ່ນອນວ່າບໍ່ໄດ້ເຮັດວຽກ!
+
+328
+00:19:33,850 --> 00:19:35,950
+[BARLEY]
+Hey, it was a good start.
+ເຮ້, ມັນເປັນການເລີ່ມຕົ້ນທີ່ດີ.
+
+329
+00:19:36,450 --> 00:19:39,600
+[BARLEY]
+Oh! Gather your courage, we've arrived. The Manticore's Tavern.
+ໂອ້! ເກັບກູ້ຄວາມກ້າຫານຂອງທ່ານ,
+ພວກເຮົາໄດ້ມາຮອດແລ້ວ. ໂຮງແຮມຂອງແມນຕິກເກີ.
+
+330
+00:19:40,100 --> 00:19:42,100
+[IAN]
+Wow, it is still here.
+ໂວ້, ມັນຍັງຢູ່ບ່ອນນີ້.
+
+331
+00:19:42,600 --> 00:19:44,600
+[BARLEY]
+Yeah! I told you.
+ແມ່ນແລ້ວ! ຂ້ອຍບອກເຈົ້າແລ້ວ.
+
+332
+00:19:45,100 --> 00:19:47,100
+[IAN]
+Come on, Dad! That's good.
+ມາແລ້ວ, ພໍ່! ນັ້ນດີ.
+
+333
+00:19:47,600 --> 00:19:50,400
+[BARLEY]
+Alright, listen, first: let me do the talking.
+ດີແລ້ວ, ຟັງ, ກ່ອນອື່ນ: ຂໍໃຫ້ຂ້ອຍເວົ້າ.
+
+334
+00:19:50,900 --> 00:19:56,900
+[BARLEY]
+Secondly, it's crucial we show the fearless Manticore the respect she deserves or she will thirdly, not give us a map to a Phoenix Gem.
+ທີສອງ, ມັນມີຄວາມສໍາຄັນທີ່ພວກເຮົາຈະສະແດງໃຫ້ແມນຕິເກີທີ່ບໍ່ມີຄວາມຢ້ານກົວຄວາມເຄົາລົບທີ່ນາງສົມຄວນຫຼືນາງຈະທີສາມ
+, ບໍ່ໃຫ້ພວກເຮົາແຜນທີ່ໄປຫາເພັດຟີນິກສ໌.
+
+335
+00:19:57,400 --> 00:20:01,600
+[IAN]
+Whoa, whoa, wait, the map?! I thought she had a Phoenix Gem?
+ໂວ້, ໂວ່, ລໍຖ້າ, ແຜນທີ່?! ຂ້ອຍຄິດວ່ານາງມີແກ້ວຟີນິກສ໌ບໍ?
+
+336
+00:20:02,100 --> 00:20:08,050
+[BARLEY]
+You're so cute.  Hear that, Dad? He's a smart kid, he just doesn't know how quests work.
+ເຈົ້າຫນ້າຮັກຫຼາຍ. ໄດ້ຍິນນັ້ນ, ພໍ່? ລາວເປັນເດັກນ້ອຍທີ່ສະຫຼາດ
+, ລາວພຽງແຕ່ບໍ່ຮູ້ວ່າການຊອກຫາເຮັດວຽກແນວໃດ.
+
+337
+00:20:08,550 --> 00:20:12,050
+[IAN]
+Well, is there anything else you're forgetting to tell me?
+ດີ, ມີບາງສິ່ງບາງຢ່າງອີກທີ່ທ່ານລືມບອກຂ້ອຍບໍ?
+
+338
+00:20:12,550 --> 00:20:14,550
+[BARLEY]
+Nope.
+ບໍ່.
+
+339
+00:20:15,050 --> 00:20:21,050
+[WAITERS]
+Happy happy birthday, Come join us on our quest, To make your birthday party, The very, very best! HEY!
+ສະບາຍດີວັນເກີດ, ມາຮ່ວມກັບພວກເຮົາໃນການຊອກຫາຂອງພວກເຮົາ,
+ເພື່ອເຮັດໃຫ້ງານລ້ຽງວັນເກີດຂອງທ່ານ, ທີ່ດີທີ່ສຸດທີ່ສຸດ! ເຮ້!
+
+340
+00:20:21,550 --> 00:20:27,550
+[BARLEY]
+Okay, okay, so the tavern changed a little over the years, but the Manticore is still the real deal.
+ດີ, ດີ, ສະນັ້ນຮ້ານກິນດື່ມໄດ້ປ່ຽນແປງເລັກນ້ອຍໃນໄລຍະປີ
+, ແຕ່ Manticore ຍັງເປັນຂໍ້ຕົກລົງທີ່ແທ້ຈິງ.
+
+341
+00:20:28,050 --> 00:20:30,500
+[TAVERN PATRON]
+I'll have the soup of the day.
+ຂ້ອຍຈະກິນຊູດຂອງມື້.
+
+342
+00:20:31,000 --> 00:20:33,450
+[TAVERN WAITRESS]
+Would m'lord like a Cup or Cauldron?
+ເຈົ້າຂອງຂ້ອຍຢາກມີຈອກຫລືກະຕ່າບໍ?
+
+343
+00:20:33,950 --> 00:20:36,750
+[BARLEY]
+Madame, I request an audience...  ...with the Manticore!
+ແມ່, ຂ້ອຍຂໍໃຫ້ຜູ້ຊົມ...... ກັບ Manticore!
+
+344
+00:20:37,250 --> 00:20:39,250
+[HOSTESS]
+But of course, m'lord.
+ແຕ່ແນ່ນອນ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ.
+
+345
+00:20:39,750 --> 00:20:41,750
+[HOSTESS]
+Oh, Manticore!
+ໂອ້, ແມນຕິເກີ!
+
+346
+00:20:42,250 --> 00:20:46,100
+[BARLEY]
+No, no, no, no no! The real Manticore! The fearless adventurer!
+ບໍ່, ບໍ່, ບໍ່ມີ, ບໍ່! ແມນຕິເກີທີ່ແທ້ຈິງ
+! ນັກປະຈົນໄພທີ່ບໍ່ມີຄວາມຢ້ານກົວ!
+
+347
+00:20:46,600 --> 00:20:49,050
+[HOSTESS]
+Oh, you mean Corey? She's over there.
+ໂອ້, ເຈົ້າຫມາຍຄວາມວ່າ ຄໍຣີບໍ? ນາງຢູ່ບ່ອນນັ້ນ.
+
+348
+00:20:49,550 --> 00:20:54,450
+[MANTICORE]
+QUICK, SOMEBODY HELP ME! These griffin nuggets were supposed to go out minutes ago!
+ໄວໆ, ບາງຄົນຊ່ວຍຂ້ອຍ!
+ກະດານກະດານແກຣຟິນເຫຼົ່ານີ້ຄວນອອກເມື່ອສອງສາມນາທີກ່ອນ!
+
+349
+00:20:54,950 --> 00:20:56,950
+[IAN]
+That's the Manticore?
+ນັ້ນແມ່ນ Manticore ບໍ?
+
+350
+00:20:57,450 --> 00:20:59,450
+[BARLEY]
+Oh, great and powerful Manticore!
+ໂອ້, Manticore ທີ່ຍິ່ງໃຫຍ່ແລະມີພະລັງ!
+
+351
+00:20:59,950 --> 00:21:02,750
+[MANTICORE]
+Whoah, sir! You're right in the hot zone.
+ໂວ້, ທ່ານ! ທ່ານຢູ່ໃນເຂດຮ້ອນແທ້ໆ.
+
+352
+00:21:03,250 --> 00:21:05,250
+[MANTICORE]
+You're late, Adolphus.
+ເຈົ້າຊ້າແລ້ວ, ອາໂດລຟັສ.
+
+353
+00:21:05,750 --> 00:21:09,250
+[MANTICORE]
+I understand there's traffic, you need to plan for that!
+ຂ້ອຍເຂົ້າໃຈວ່າມີການຈະລາຈອນ, ເຈົ້າຕ້ອງວາງແຜນ ສໍາ ລັບສິ່ງນັ້ນ!
+
+354
+00:21:09,750 --> 00:21:12,900
+[MANTICORE]
+Well maybe your mother should get her own car!
+ດີບາງທີແມ່ຂອງເຈົ້າຄວນເອົາລົດຂອງຕົນເອງ!
+
+355
+00:21:13,400 --> 00:21:15,400
+[BARLEY]
+Your fearlessness?
+ຄວາມບໍ່ຢ້ານກົວຂອງທ່ານບໍ?
+
+356
+00:21:15,900 --> 00:21:19,750
+[BARLEY]
+My brother and I seek a map... to a Phoenix Gem.
+ຂ້ອຍແລະອ້າຍຂອງຂ້ອຍ ກໍາ ລັງຊອກຫາແຜນທີ່... ເຖິງເພັດຟີນິກສ໌.
+
+357
+00:21:20,250 --> 00:21:24,100
+[MANTICORE]
+Oh, uh, well you've come to the right tavern.  Table 12.
+ໂອ້, ອູ, ເຈົ້າໄດ້ມາທີ່ຮ້ານອາຫານທີ່ຖືກຕ້ອງແລ້ວ. ຕາຕະລາງ 12.
+
+358
+00:21:24,600 --> 00:21:27,750
+[MANTICORE]
+I have the parchment you desire right here! BEHOLD!
+ຂ້ອຍມີ ຫນັງ ທີ່ເຈົ້າຕ້ອງການຢູ່ບ່ອນນີ້! ເບິ່ງ!
+
+359
+00:21:28,250 --> 00:21:30,250
+[IAN]
+Oh... that's a children's menu.
+ໂອ້... ນັ້ນແມ່ນເມນູຂອງເດັກນ້ອຍ.
+
+360
+00:21:30,750 --> 00:21:36,750
+[MANTICORE]
+Isn't that fun? They're all based on my old maps.  Oh, uh, "The great Manticore sends you on your adventure with a hero's blessing." And here's some crayons.
+ມັນບໍ່ມ່ວນບໍ? ພວກເຂົາທັງ ຫມົດ ແມ່ນອີງໃສ່ແຜນທີ່ເກົ່າຂອງຂ້ອຍ. ໂອ້, ອູ
+,"ແມນຕິເກີທີ່ຍິ່ງໃຫຍ່ສົ່ງເຈົ້າໄປໃນການຜະຈົນໄພຂອງທ່ານດ້ວຍພອນຂອງວິລະຊົນ." ແລະນີ້ແມ່ນຄຣີໂອນບາງຢ່າງ.
+
+361
+00:21:37,250 --> 00:21:41,450
+[BARLEY]
+That's very amusing your dominance, but might you have the real map?
+ນັ້ນແມ່ນຄວາມມ່ວນຊື່ນຫຼາຍການປົກຄອງຂອງທ່ານ
+, ແຕ່ເຈົ້າອາດຈະມີແຜນທີ່ທີ່ແທ້ຈິງບໍ?
+
+362
+00:21:41,950 --> 00:21:43,950
+[MANTICORE]
+Uh... yeah, it's over there.
+ໂອ້... ແມ່ນແລ້ວ, ມັນຢູ່ບ່ອນນັ້ນ.
+
+363
+00:21:44,450 --> 00:21:46,450
+[IAN]
+That's it!
+ນັ້ນແມ່ນມັນ!
+
+364
+00:21:46,950 --> 00:21:48,950
+[BARLEY]
+This is perfect!
+ນີ້ແມ່ນສົມບູນແບບ!
+
+365
+00:21:49,450 --> 00:21:53,300
+[MANTICORE]
+Whoa, whoa, whoa! What are you doing? You can't take this.
+ໂວ້, ໂວ່, ໂວ້! ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ
+? ເຈົ້າບໍ່ສາມາດເອົາສິ່ງນີ້ໄດ້.
+
+366
+00:21:53,800 --> 00:21:55,800
+[BARLEY]
+We have to.
+ພວກເຮົາຕ້ອງເຮັດ.
+
+367
+00:21:56,300 --> 00:21:58,300
+[MANTICORE]
+What is that?
+ນັ້ນແມ່ນຫຍັງ?
+
+368
+00:21:58,800 --> 00:22:03,000
+[IAN]
+It's our dad, and we have a chance to meet him, but--
+ມັນເປັນພໍ່ຂອງພວກເຮົາ, ແລະພວກເຮົາມີໂອກາດທີ່ຈະພົບກັບລາວ, ແຕ່ -
+
+369
+00:22:03,500 --> 00:22:06,650
+[BARLEY]
+Buuuut... we can't do that without a Phoenix Gem.
+ບູອູຕ໌... ພວກເຮົາບໍ່ສາມາດເຮັດໄດ້ໂດຍບໍ່ມີເພັດຟິນິກສ໌.
+
+370
+00:22:07,150 --> 00:22:11,000
+[MANTICORE]
+No! My days of sending people on dangerous quests are over.
+ບໍ່! ມື້ຂອງຂ້ອຍໃນການສົ່ງຄົນໄປຄົ້ນຫາອັນຕະລາຍໄດ້ສິ້ນສຸດລົງແລ້ວ.
+
+371
+00:22:11,500 --> 00:22:13,500
+[BARLEY]
+What? Why?
+ຫຍັງ? ເປັນຫຍັງ?
+
+372
+00:22:14,000 --> 00:22:16,000
+[MANTICORE]
+Uh, cause they're dangerous!
+ໂອ້, ເພາະວ່າພວກເຂົາເປັນອັນຕະລາຍ!
+
+373
+00:22:16,500 --> 00:22:18,950
+[HOSTESS]
+Corey, the karaoke machine is broken again.
+ຄໍຣີ, ເຄື່ອງຈັກຄາຣາໂກຖືກທໍາລາຍອີກເທື່ອຫນຶ່ງ.
+
+374
+00:22:19,450 --> 00:22:22,600
+[MANTICORE]
+I'm sorry, but you are not getting this map.
+ຂ້ອຍຂໍໂທດ, ແຕ່ເຈົ້າຈະບໍ່ໄດ້ຮັບແຜນທີ່ນີ້.
+
+375
+00:22:23,100 --> 00:22:25,900
+[MANTICORE]
+Don't worry, ladies, your adventure will continue momentarily!
+ຢ່າກັງວົນ, ແມ່ຍິງ, ການປະຈົນໄພຂອງທ່ານຈະສືບຕໍ່ໃນຊົ່ວຄາວ!
+
+376
+00:22:26,400 --> 00:22:28,400
+[BARLEY]
+Okay, I can handle this.
+ດີ, ຂ້ອຍສາມາດຮັບມືກັບເລື່ອງນີ້ໄດ້.
+
+377
+00:22:28,900 --> 00:22:30,900
+[BARLEY]
+No, Ian!
+ບໍ່, ໄອນ!
+
+378
+00:22:31,400 --> 00:22:33,400
+[BRIDESMAID #1]
+You're ruining Althea's special day!
+ເຈົ້າ ກໍາ ລັງ ທໍາ ລາຍວັນພິເສດຂອງອາລເທຍ!
+
+379
+00:22:33,900 --> 00:22:35,900
+[IAN]
+Miss... Mighty Manticore, ma'am--?
+ນາງ... ແມນຕິເກີທີ່ເຂັ້ມແຂງ, ແມ່ -?
+
+380
+00:22:36,400 --> 00:22:38,400
+[BARLEY]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+381
+00:22:38,900 --> 00:22:41,350
+[MANTICORE]
+Kid, this is not a good time.
+ເດັກນ້ອຍ, ນີ້ແມ່ນບໍ່ແມ່ນເວລາທີ່ດີ.
+
+382
+00:22:41,850 --> 00:22:44,300
+[BRIDESMAID #1]
+I'm giving this place a one-star review!
+ຂ້ອຍ ກໍາ ລັງໃຫ້ບ່ອນນີ້ການທົບທວນຄືນດາວດຽວ!
+
+383
+00:22:44,800 --> 00:22:47,600
+[IAN]
+It's just, I've never met my Dad and--
+ມັນພຽງແຕ່, ຂ້ອຍບໍ່ເຄີຍພົບພໍ່ຂອງຂ້ອຍແລະ -
+
+384
+00:22:48,100 --> 00:22:54,100
+[MANTICORE]
+Look, I'm sorry about that, but if you get hurt on one of my quests guess who gets sued and loses her tavern? I can't take that kind of risk! Now if you'll just excuse me I have important things to do!  Testing.  You haunt my dreams, my in- betweens...
+ເບິ່ງ, ຂ້ອຍຂໍໂທດກ່ຽວກັບເລື່ອງນັ້ນ, ແຕ່ຖ້າເຈົ້າໄດ້ຮັບບາດເຈັບໃນ ຫນຶ່ງ ໃນຄວາມພະຍາຍາມຂອງຂ້ອຍຄິດວ່າໃຜຖືກຟ້ອງຮ້ອງແລະສູນເສຍຮ້ານອາຫານຂອງນາງ?
+ຂ້ອຍບໍ່ສາມາດເອົາຄວາມສ່ຽງປະເພດນັ້ນໄດ້! ດຽວນີ້ຖ້າເຈົ້າພຽງແຕ່ຂໍໂທດຂ້ອຍມີສິ່ງສໍາຄັນທີ່ຈະເຮັດ! ການທົດສອບ. ເຈົ້າຕິດຕາມຄວາມຝັນຂອງຂ້ອຍ, ຄົນໃນລະຫວ່າງຂອງຂ້ອຍ...
+
+385
+00:22:54,600 --> 00:22:56,600
+[IAN]
+Please, we need that map!
+ກະລຸນາ, ພວກເຮົາຕ້ອງການແຜນທີ່ນັ້ນ!
+
+386
+00:22:57,100 --> 00:23:01,650
+[MANTICORE]
+No, I am not giving you the map! That's it! I'm done talking!
+ບໍ່, ຂ້ອຍບໍ່ໄດ້ໃຫ້ແຜນທີ່ໃຫ້ເຈົ້າ! ນັ້ນແມ່ນມັນ! ຂ້ອຍເວົ້າແລ້ວ!
+
+387
+00:23:02,150 --> 00:23:04,150
+[IAN]
+Well... well, I'm not!
+ດີ... ດີ, ຂ້ອຍບໍ່ແມ່ນ!
+
+388
+00:23:04,650 --> 00:23:06,650
+[BARLEY]
+Whoa, whoa, whoa!
+ໂອ້, ໂວ້, ໂອ້!
+
+389
+00:23:07,150 --> 00:23:11,350
+[IAN]
+You say you can't "risk" losing this place? Look at that Manticore!
+ເຈົ້າເວົ້າວ່າເຈົ້າບໍ່ສາມາດ"ສ່ຽງ"
+ໄດ້ທີ່ຈະສູນເສຍບ່ອນນີ້ບໍ? ເບິ່ງແມນຕິເກີນັ້ນ!
+
+390
+00:23:11,850 --> 00:23:14,650
+[IAN]
+She looks like she lived to take risks!
+ນາງເບິ່ງຄືວ່ານາງດໍາລົງຊີວິດເພື່ອເອົາຄວາມສ່ຽງ!
+
+391
+00:23:15,150 --> 00:23:20,400
+[MANTICORE]
+That Manticore didn't have investors to look out for. She didn't have payroll to cover!
+ນັ້ນແມນຕິກໍບໍ່ມີນັກລົງທືນທີ່ຈະເບິ່ງແຍງ
+. ນາງບໍ່ມີລາຍຈ່າຍເງິນເດືອນທີ່ຈະປົກຄຸມ!
+
+392
+00:23:20,900 --> 00:23:26,150
+[MANTICORE]
+She could just fly out the door whenever she wanted and slay a magma beast.
+ນາງພຽງແຕ່ສາມາດບິນອອກຈາກປະຕູໄດ້ທຸກຄັ້ງທີ່ນາງຕ້ອງການແລະຂ້າສັດ
+magma ໄດ້.
+
+393
+00:23:26,650 --> 00:23:29,450
+[BRIDESMAID #2]
+Are you gonna fix the machine or not?
+ເຈົ້າຈະສ້ອມແປງເຄື່ອງຈັກຫຼືບໍ່?
+
+394
+00:23:29,950 --> 00:23:31,950
+[MANTICORE]
+Yeah, in a minute!
+ແມ່ນແລ້ວ, ໃນນາທີຫນຶ່ງ!
+
+395
+00:23:32,450 --> 00:23:38,450
+[MANTICORE]
+Okay, maybe this place isn't as adventurous as it used to be, so it isn't filled with a motley horde willing to risk life and limb for the mere taste of excitement...
+ດີແລ້ວ, ບາງທີບ່ອນນີ້ບໍ່ແມ່ນຄວາມຜະຈົນໄພເທົ່າທີ່ເຄີຍເປັນ,
+ສະນັ້ນມັນບໍ່ໄດ້ເຕັມໄປດ້ວຍໂຮດໂຊກແຊງທີ່ພ້ອມທີ່ຈະສ່ຽງຊີວິດແລະແຂນເພື່ອພຽງແຕ່ລົດຊາດຂອງຄວາມຕື່ນເຕັ້ນ...
+
+396
+00:23:38,950 --> 00:23:44,550
+[MANTICORE]
+...but so what?! Whoever said you have to take risks in life to have an adventure?!
+ແຕ່ແນວໃດ?!
+ໃຜບອກວ່າເຈົ້າຕ້ອງເອົາຄວາມສ່ຽງໃນຊີວິດເພື່ອມີການຜະຈົນໄພ?!
+
+397
+00:23:45,050 --> 00:23:47,050
+[IAN]
+Apparently, you did.
+ເບິ່ງຄືວ່າ, ເຈົ້າເຮັດ.
+
+398
+00:23:47,550 --> 00:23:49,550
+[ADVENTURE. - THE MANTICORE]
+46.
+46.
+
+399
+00:23:50,050 --> 00:23:52,850
+[ROGUE WAITER]
+Table 32 said their mozzarella sticks are cold.
+ຕາຕະລາງ 32 ກ່າວວ່າກະດານ mozzarella ຂອງພວກເຂົາເຢັນ.
+
+400
+00:23:53,350 --> 00:23:55,350
+[MANTICORE]
+What have I done?
+ຂ້ອຍເຮັດຫຍັງແລ້ວ?
+
+401
+00:23:55,850 --> 00:24:00,750
+[IAN]
+Well, it's not too late. I mean, you could just give us the map--
+ດີ, ມັນຍັງບໍ່ຊ້າເກີນໄປ. ຂ້ອຍຫມາຍຄວາມວ່າ
+, ເຈົ້າພຽງແຕ່ສາມາດໃຫ້ພວກເຮົາແຜນທີ່ -
+
+402
+00:24:01,250 --> 00:24:03,350
+[MANTICORE]
+This place used to be dangerous--
+ບ່ອນນີ້ເຄີຍເປັນອັນຕະລາຍ...
+
+403
+00:24:03,850 --> 00:24:05,850
+[COSTUMED MANTICORE]
+Dangerous!
+ອັນຕະລາຍ!
+
+404
+00:24:06,350 --> 00:24:08,350
+[MANTICORE]
+--and wild.
+- ແລະປ່າປ່າ.
+
+405
+00:24:08,850 --> 00:24:10,850
+[COSTUMED MANTICORE]
+Wild!
+ສັດປ່າ!
+
+406
+00:24:11,350 --> 00:24:13,800
+[MANTICORE]
+I used to be dangerous and wild!
+ຂ້ອຍເຄີຍເປັນອັນຕະລາຍແລະໂຊກຮ້າຍ!
+
+407
+00:24:14,300 --> 00:24:16,300
+[COSTUMED MANTICORE]
+Dangerous and wild!
+ອັນຕະລາຍແລະປ່າໄມ້!
+
+408
+00:24:16,800 --> 00:24:19,600
+[MANTICORE]
+I'm living a lie -- WHAT HAVE I
+ຂ້ອຍ ກໍາ ລັງດໍາລົງຊີວິດໃນຕົວະ - ຂ້ອຍມີຫຍັງ
+
+409
+00:24:20,100 --> 00:24:23,600
+[BECOME?!]
+She torches the mascot head. Parents cover a child's eyes.
+ນາງເຜົາຜານຫົວແມສກອດ. ພໍ່ແມ່ປົກປິດຕາຂອງເດັກນ້ອຍ.
+
+410
+00:24:24,100 --> 00:24:26,100
+[BARLEY]
+Oh no...
+ໂອ້ ບໍ່...
+
+411
+00:24:26,600 --> 00:24:29,400
+[MANTICORE]
+Everybody out! This tavern is closed for remodeling!
+ທຸກຄົນອອກໄປ! ຮ້ານອາຫານນີ້ຖືກປິດ ສໍາ ລັບການປັບປຸງ ໃຫມ່!
+
+412
+00:24:29,900 --> 00:24:32,000
+[MANTICORE]
+Sorry, the karaoke machine is broken!
+ຂໍໂທດ, ເຄື່ອງຈັກຄາຣາໂອເກຍແຕກແລ້ວ!
+
+413
+00:24:32,500 --> 00:24:34,600
+[IAN]
+No, no, no, no! No! ...No.
+ບໍ່, ບໍ່, ບໍ່ມີ, ບໍ່! ບໍ່!... ບໍ່.
+
+414
+00:24:35,100 --> 00:24:37,100
+[BARLEY]
+We gotta go!
+ພວກເຮົາຕ້ອງໄປ!
+
+415
+00:24:37,600 --> 00:24:43,600
+[ALOFT ELEVAR!]
+A blast of light from the staff freezes the wooden beam in mid-air, mere inches from Dad. Ian strains to hold the spell.
+ການລະເບີດແສງສະຫວ່າງຈາກພະນັກງານເຮັດໃຫ້ກະດານໄມ້ເຢັນໃນກາງອາກາດ
+, ພຽງແຕ່ສອງນິ້ວຈາກພໍ່. ອຽນພະຍາຍາມທີ່ຈະຖືຄໍາຊະຍາກອນ.
+
+416
+00:24:44,100 --> 00:24:50,100
+[BARLEY]
+Ha-ha! That was unbelievable. You were just like...  And the beam was just floatin' there! My brother is a wizard!
+Ha-ha! ມັນບໍ່ເຊື່ອໄດ້. ເຈົ້າຄືກັບ...
+ແລະແສງສະຫວ່າງພຽງແຕ່ລອຍຢູ່ບ່ອນນັ້ນ! ອ້າຍຂອງຂ້ອຍເປັນຊະຍາກອນ!
+
+417
+00:24:50,600 --> 00:24:52,600
+[IAN]
+I can't believe that worked.
+ຂ້ອຍບໍ່ເຊື່ອວ່າມັນເຮັດວຽກໄດ້.
+
+418
+00:24:53,100 --> 00:24:55,550
+[BARLEY]
+Oh, you're gonna nail Dad's spell now.
+ໂອ້, ເຈົ້າຈະຈັບຊະຍາກອນຂອງພໍ່ດຽວນີ້.
+
+419
+00:24:56,050 --> 00:24:58,150
+[IAN]
+Except we don't have a map.
+ຍົກເວັ້ນວ່າພວກເຮົາມີແຜນທີ່ບໍ່ມີ.
+
+420
+00:24:58,650 --> 00:25:00,650
+[BARLEY]
+But we've got this! BEHOLD!
+ແຕ່ພວກເຮົາມີສິ່ງນີ້! ຮັກສາໄວ້!
+
+421
+00:25:01,150 --> 00:25:07,100
+[BARLEY]
+Look, on a quest, you have to use what you've got. And this is what we've got!
+ເບິ່ງ, ໃນການຊອກຫາ, ເຈົ້າຕ້ອງໃຊ້ສິ່ງທີ່ເຈົ້າມີ
+. ແລະນີ້ແມ່ນສິ່ງທີ່ພວກເຮົາມີ!
+
+422
+00:25:07,600 --> 00:25:10,750
+[BARLEY]
+Best part is, little Kayla already solved the puzzle.
+ສ່ວນທີ່ດີທີ່ສຸດແມ່ນ, ໄຄລານ້ອຍໄດ້ແກ້ໄຂກະທູ້ແລ້ວ.
+
+423
+00:25:11,250 --> 00:25:15,450
+[IAN]
+Well, according to Kayla, we just have to look for "Raven's Point."
+ດີ, ອີງຕາມ Kayla, ພວກເຮົາພຽງແຕ່ຕ້ອງຊອກຫາ"ຈຸດຂອງ Raven ໄດ້."
+
+424
+00:25:15,950 --> 00:25:17,950
+[IAN]
+Raven's Point... Raven's Point...
+ຈຸດຂອງຣາວນ໌... ຈຸດຂອງຣາເວນ...
+
+425
+00:25:18,450 --> 00:25:20,450
+[IAN]
+Raven's Point!
+ຈຸດຂອງ Raven ໄດ້!
+
+426
+00:25:20,950 --> 00:25:26,200
+[BARLEY]
+Yes! The gem must be in the mountain. We can be there by tomorrow morning.
+ແມ່ນແລ້ວ! ກ້ອນຫີນຕ້ອງຢູ່ໃນພູ.
+ພວກເຮົາສາມາດຢູ່ບ່ອນນັ້ນໃນຕອນເຊົ້າມື້ອື່ນ.
+
+427
+00:25:26,700 --> 00:25:28,700
+[IAN]
+Tomorrow morning?
+ຕອນເຊົ້າມື້ອື່ນບໍ?
+
+428
+00:25:29,200 --> 00:25:32,350
+[BARLEY]
+That still gives us plenty of time with Dad.
+ມັນຍັງໃຫ້ເວລາໃຫ້ພວກເຮົາຫຼາຍກັບພໍ່.
+
+429
+00:25:32,850 --> 00:25:34,850
+[IAN]
+Yeah.
+ແມ່ນແລ້ວ.
+
+430
+00:25:35,350 --> 00:25:39,200
+[IAN]
+Well, it looks like the expressway should take us right there.
+ດີ, ມັນເບິ່ງຄືວ່າທາງດ່ວນຄວນພາພວກເຮົາໄປບ່ອນນັ້ນ.
+
+431
+00:25:39,700 --> 00:25:45,700
+[BARLEY]
+Eh, expressway is a little too obvious. On a quest, the clear path is never the right one--
+ເອ້, ທາງດ່ວນແມ່ນຈະແຈ້ງເກີນໄປເລັກນ້ອຍ. ໃນການຊອກຫາ
+, ເສັ້ນທາງທີ່ສະອາດບໍ່ເຄີຍເປັນທາງທີ່ຖືກຕ້ອງ -
+
+432
+00:25:46,200 --> 00:25:48,200
+[IAN]
+What?
+ຫຍັງ?
+
+433
+00:25:48,700 --> 00:25:54,700
+[BARLEY]
+During one Quests of Yore campaign, Shrub Rosehammer and I took the easy route... led him straight into the belly of a gelatinous cube.
+ໃນລະຫວ່າງການໂຄສະນາ Quest ຂອງ Yore ຫນຶ່ງ, ຂ້ອຍແລະ Shrub Rosehammer
+ໄດ້ເອົາເສັ້ນທາງງ່າຍດາຍ... ນໍາລາວໂດຍກົງເຂົ້າໄປໃນທ້ອງຂອງກ້ອນ gelatinous ໄດ້.
+
+434
+00:25:55,200 --> 00:25:59,400
+[BARLEY]
+Only reason I didn't suffer the same fate?  I followed my gut.
+ເຫດຜົນດຽວທີ່ຂ້ອຍບໍ່ໄດ້ປະສົບກັບຊະຕາກໍາລັງດຽວກັນບໍ
+? ຂ້ອຍປະຕິບັດຕາມຄວາມຮູ້ສຶກຂອງຂ້ອຍ.
+
+435
+00:25:59,900 --> 00:26:04,800
+[BARLEY]
+And it's telling me we take an ancient trail called the Path of Peril.
+ແລະມັນບອກຂ້ອຍວ່າພວກເຮົາຈະໄປຕາມເສັ້ນທາງບູຮານທີ່ເອີ້ນວ່າເສັ້ນທາງຂອງຄວາມອັນຕະລາຍ
+.
+
+436
+00:26:05,300 --> 00:26:07,300
+[IAN]
+But the expressway is faster.
+ແຕ່ທາງດ່ວນແມ່ນໄວກວ່າ.
+
+437
+00:26:07,800 --> 00:26:09,900
+[BARLEY]
+Maybe not in the long run.
+ບາງທີບໍ່ແມ່ນໃນໄລຍະຍາວ.
+
+438
+00:26:10,400 --> 00:26:16,400
+[IAN]
+I know you want this to be like one of your adventure games, but all that matters is that we get to spend as much time as possible with Dad.
+ຂ້ອຍຮູ້ວ່າເຈົ້າຢາກໃຫ້ສິ່ງນີ້ເປັນຄືກັບ ຫນຶ່ງ ໃນເກມຜະຈົນໄພຂອງທ່ານ,
+ແຕ່ສິ່ງດຽວທີ່ສໍາຄັນແມ່ນວ່າພວກເຮົາຈະໃຊ້ເວລາຫຼາຍເທົ່າທີ່ເປັນໄປໄດ້ກັບພໍ່.
+
+439
+00:26:16,900 --> 00:26:19,350
+[IAN]
+So, we should just take the expressway.Right?
+ສະນັ້ນ, ພວກເຮົາຄວນພຽງແຕ່ເອົາທາງດ່ວນ. ແມ່ນບໍ?
+
+440
+00:26:19,850 --> 00:26:25,800
+[BARLEY]
+Yeah. You're right.  But if you end up inside a gelatinous cube, you are on your own.
+ແມ່ນແລ້ວ. ເຈົ້າເວົ້າຖືກຕ້ອງ.
+ແຕ່ຖ້າເຈົ້າສິ້ນສຸດລົງພາຍໃນກ້ອນເຈລາຕິນ, ເຈົ້າຢູ່ດ້ວຍຕົນເອງ.
+
+441
+00:26:26,300 --> 00:26:28,400
+[GPS VOICE]
+Manticore's Tavern, ahead on your right.
+ໂຮງແຮມແມນຕິເກີ, ຢູ່ທາງຫນ້າທາງຂວາຂອງທ່ານ.
+
+442
+00:26:28,900 --> 00:26:30,900
+[LAUREL]
+Hey.
+ເຮ້
+
+443
+00:26:31,400 --> 00:26:35,600
+[COLT]
+I'm just checking in. Did you catch up to the boys yet?
+ຂ້ອຍພຽງແຕ່ກວດສອບຢູ່. ເຈົ້າໄດ້ຈັບພວກຊາຍແລ້ວບໍ?
+
+444
+00:26:36,100 --> 00:26:42,100
+[LAUREL]
+No, not yet. But I'm a little worried because we had a weird family issue come up and, well, this just isn't like Ian to run off.  I mean, Barley, yes, but not Ian.
+ບໍ່, ຍັງບໍ່ທັນ. ແຕ່ຂ້ອຍກັງວົນເລັກນ້ອຍເພາະວ່າພວກເຮົາມີບັນຫາຄອບຄົວທີ່ແປກໃຈເກີດຂຶ້ນແລະ, ດີ,
+ນີ້ແມ່ນພຽງແຕ່ບໍ່ແມ່ນຄືກັບໄອນທີ່ຈະຫນີໄປ. ຂ້ອຍຫມາຍຄວາມວ່າ, ບາລີ, ແມ່ນແລ້ວ, ແຕ່ບໍ່ແມ່ນໄອານ.
+
+445
+00:26:42,600 --> 00:26:47,150
+[COLT]
+You know, it's late, you shouldn't have to be out looking for them.
+ເຈົ້າຮູ້ແລ້ວ, ມັນຊ້າແລ້ວ, ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງອອກໄປຊອກຫາພວກມັນ.
+
+446
+00:26:47,650 --> 00:26:51,500
+[LAUREL]
+I know, it's silly, I'm sure they're both probably on fire...
+ຂ້ອຍຮູ້ແລ້ວ, ມັນເປັນໂງ່,
+ຂ້ອຍແນ່ໃຈວ່າພວກເຂົາທັງສອງອາດຈະຖືກໄຟໄຫມ້...
+
+447
+00:26:52,000 --> 00:26:54,000
+[COLT]
+Fire?!
+ໄຟບໍ?
+
+448
+00:26:54,500 --> 00:26:59,050
+[LAUREL]
+FIRE! The place is on fire! My boys, oh no, I gotta go!
+ໄຟ! ສະຖານທີ່ຖືກໄຟໄຫມ້! ເດັກຊາຍຂອງຂ້ອຍ, ໂອ້ ບໍ່, ຂ້ອຍຕ້ອງໄປ!
+
+449
+00:26:59,550 --> 00:27:01,550
+[COLT]
+Laurel!
+ໂລເຣລ!
+
+450
+00:27:02,050 --> 00:27:05,200
+[COSTUMED MANTICORE]
+Get it off, get it off, get it off!
+ເອົາມັນອອກ, ເອົາມັນອອກຈາກ, ເອົາມັນອອກ!
+
+451
+00:27:05,700 --> 00:27:09,200
+[LAUREL]
+Excuse me? Hello! Please, I'm looking for two teenage elves?!
+ຂໍໂທດຂ້ອຍບໍ? ສະບາຍດີ! ກະລຸນາ, ຂ້ອຍ
+ກໍາ ລັງຊອກຫາແອລຟ໌ໄວລຸ້ນສອງຄົນບໍ?!
+
+452
+00:27:09,700 --> 00:27:13,550
+[MANTICORE]
+Okay, okay, I told you already, there were two teenage elves...
+ດີ, ດີ, ຂ້ອຍບອກເຈົ້າແລ້ວ, ມີແອລຟ໌ໄວລຸ້ນສອງຄົນ...
+
+453
+00:27:14,050 --> 00:27:17,200
+[LAUREL]
+Oh! Those are my sons! Where did they go?
+ໂອ້! ນັ້ນແມ່ນລູກຊາຍຂອງຂ້ອຍ! ພວກເຂົາໄປໃສ?
+
+454
+00:27:17,700 --> 00:27:23,700
+[MANTICORE]
+Oh, they went on a quest to find a Phoenix Gem. But don't worry, don't worry. I told them about the map, and about the gem, and about the curse.  I forgot to tell them about the curse!
+ໂອ້, ພວກເຂົາໄດ້ໄປໃນການຊອກຫາເພັດຟີນິກສ໌. ແຕ່ຢ່າກັງວົນ, ຢ່າກັງ ວົນ. ຂ້ອຍບອກພວກເຂົາກ່ຽວກັບແຜນທີ່
+, ແລະກ່ຽວກັບເພັດ, ແລະ ກ່ຽວກັບຄໍາສາບາບ. ຂ້ອຍລືມບອກພວກມັນກ່ຽວກັບຄໍາສາບານ!
+
+455
+00:27:24,200 --> 00:27:26,200
+[LAUREL]
+The what?
+ຫຍັງ?
+
+456
+00:27:26,700 --> 00:27:28,700
+[OFFICER AVEL]
+Hoo boy...
+ເດັກຊາຍໂຮ້...
+
+457
+00:27:29,200 --> 00:27:31,300
+[OFFICER AVEL]
+Listen, this one's gone a little
+ຟັງ, ຄົນນີ້ຫາຍໄປເລັກນ້ອຍ
+
+458
+00:27:31,800 --> 00:27:35,300
+[MANTICORE]
+Your boys are in grave danger! But I can help--
+ພວກຊາຍຂອງທ່ານຢູ່ໃນອັນຕະລາຍທີ່ຮ້າຍແຮງ! ແຕ່ຂ້ອຍສາມາດຊ່ວຍໄດ້...
+
+459
+00:27:35,800 --> 00:27:39,650
+[OFFICER AVEL]
+Whoa, heyyy. You're not going anywhere. We got questions for you.
+ໂວ້, ເຮຍ. ເຈົ້າຈະບໍ່ໄປໃສເລີຍ. ພວກເຮົາມີຄໍາຖາມ ສໍາ ລັບເຈົ້າ.
+
+460
+00:27:40,150 --> 00:27:43,650
+[MANTICORE]
+I know where they're going! We can still save them!
+ຂ້ອຍຮູ້ວ່າພວກເຂົາ ກໍາ ລັງໄປໃສ! ພວກເຮົາຍັງສາມາດຊ່ວຍພວກເຂົາໄດ້!
+
+461
+00:27:44,150 --> 00:27:46,250
+[MANTICORE]
+Last name "Manticore." First name, "The."
+ນາມສະກຸນ"ແມນຕິກໍ." ຊື່ທໍາອິດ,"The."
+
+462
+00:27:46,750 --> 00:27:52,700
+[LAUREL]
+Hold on! You're right, she has gone a little--  It's no wonder with a wound like that.
+ລໍຖ້າ! ເຈົ້າຖືກຕ້ອງ, ນາງໄດ້ໄປເລັກນ້ອຍ
+- ມັນບໍ່ແປກໃຈກັບບາດເຈັບເຊັ່ນນັ້ນ.
+
+463
+00:27:53,200 --> 00:27:55,200
+[OFFICER AVEL]
+That's just a scratch.
+ນັ້ນພຽງແຕ່ເປັນການຂັດຂວາງເທົ່ານັ້ນ.
+
+464
+00:27:55,700 --> 00:27:58,850
+[LAUREL]
+Oh, I'm sorry, are you an expert on minotaurs?
+ໂອ້, ຂ້ອຍຂໍໂທດ, ເຈົ້າເປັນຜູ້ຊ່ຽວຊານກ່ຽວກັບ minotaurs ບໍ?
+
+465
+00:27:59,350 --> 00:28:01,350
+[MANTICORE]
+Manticores.
+ແມນຕິກໍສ໌.
+
+466
+00:28:01,850 --> 00:28:03,850
+[LAUREL]
+--Manticores?
+- ແມນຕິເກອຮໍ?
+
+467
+00:28:04,350 --> 00:28:06,350
+[OFFICER AVEL]
+Well, no.
+ດີ, ບໍ່.
+
+468
+00:28:06,850 --> 00:28:12,850
+[LAUREL]
+Well then you wouldn't know that when their blood is exposed to air, it makes them go bonkers.
+ດີແລ້ວເຈົ້າຈະບໍ່ຮູ້ວ່າເມື່ອເລືອດຂອງພວກເຂົາຖືກເປີດເຜີຍຕໍ່ອາກາດ
+, ມັນເຮັດໃຫ້ພວກເຂົາໂຊກຮ້າຍ.
+
+469
+00:28:13,350 --> 00:28:15,350
+[MANTICORE]
+I don't think that's true.
+ຂ້ອຍບໍ່ຄິດວ່າມັນເປັນຄວາມຈິງ.
+
+470
+00:28:15,850 --> 00:28:21,850
+[LAUREL]
+See! She's already losing her grip on reality. So why don't you let me save her life before it costs you yours?
+ເບິ່ງ! ນາງ ກໍາ ລັງສູນເສຍການຄວບຄຸມຄວາມເປັນຈິງແລ້ວ. ສະນັ້ນ
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ປ່ອຍໃຫ້ຂ້ອຍຊ່ວຍຊີວິດຂອງນາງກ່ອນທີ່ມັນຈະເສຍຄ່າຂອງເຈົ້າ?
+
+471
+00:28:22,350 --> 00:28:24,350
+[OFFICER AVEL]
+Okay!
+ດີແລ້ວ!
+
+472
+00:28:24,850 --> 00:28:28,350
+[LAUREL]
+Thank you! Could we have a little privacy here, please?
+ຂອບໃຈ! ພວກເຮົາສາມາດມີຄວາມເປັນສ່ວນຕົວ
+ຫນ້ອຍ ຫນຶ່ງ ຢູ່ບ່ອນນີ້ໄດ້ບໍ, ກະລຸນາ?
+
+473
+00:28:28,850 --> 00:28:30,850
+[LAUREL]
+Just lie back. That's good.
+ພຽງແຕ່ນອນຢູ່ເບື້ອງຫຼັງ. ນັ້ນດີ.
+
+474
+00:28:31,350 --> 00:28:35,550
+[OFFICER AVEL]
+Just don't take too long back there, okay?  Hey, you hear me?
+ພຽງແຕ່ຢ່າໃຊ້ເວລາຫຼາຍຢູ່ບ່ອນນັ້ນ, ດີບໍ? ເຮ້, ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ?
+
+475
+00:28:36,050 --> 00:28:39,550
+[OFFICER AVEL]
+I said, don't take too long back there, because I--
+ຂ້ອຍບອກວ່າ, ຢ່າໃຊ້ເວລາຫຼາຍຢູ່ບ່ອນນັ້ນ, ເພາະວ່າຂ້ອຍ -
+
+476
+00:28:40,050 --> 00:28:42,050
+[OFFICER AVEL]
+Ahh!
+ອາຮ້!
+
+477
+00:28:42,550 --> 00:28:45,000
+[LAUREL]
+Alright, how do we help my boys?
+ດີແລ້ວ, ພວກເຮົາຈະຊ່ວຍລູກຊາຍຂອງຂ້ອຍແນວໃດ?
+
+478
+00:28:45,500 --> 00:28:47,500
+[MANTICORE]
+Oooooh, I'm gonna like you!
+ໂອ້, ຂ້ອຍຈະມັກເຈົ້າ!
+
+479
+00:28:48,000 --> 00:28:54,000
+[BARLEY]
+Radio... headlights... brakes, tires, rims... I mean it's hard to tell now, Dad, before I replaced her parts, Guinevere was actually kind of a piece of junk.
+ວິທະຍຸ... ແສງສະຫວ່າງທາງຫນ້າ... ບຣັກ, ລົດຖີບ, ລໍາບາກ... ຂ້ອຍຫມາຍຄວາມວ່າມັນຍາກທີ່ຈະບອກດຽວນີ້
+, ພໍ່, ກ່ອນທີ່ຂ້ອຍຈະປ່ຽນຊິ້ນສ່ວນຂອງນາງ, ກີນເວີແມ່ນຕົວຈິງເປັນບາງສ່ວນຂອງຂີ້ເຫຍື້ອ.
+
+480
+00:28:54,500 --> 00:29:00,500
+[IAN]
+Looks like we're not gonna get to do everything today, Dad. But, that's okay, I just wanna meet you.
+ເບິ່ງຄືວ່າພວກເຮົາຈະບໍ່ເຮັດທຸກຢ່າງໃນມື້ນີ້, ພໍ່
+. ແຕ່, ມັນບໍ່ເປັນຫຍັງ, ຂ້ອຍພຽງແຕ່ຢາກພົບເຈົ້າ.
+
+481
+00:29:01,000 --> 00:29:07,000
+[IAN]
+But don't worry, we'll have you fixed up and back home to see...  Oh man, Mom! Barley, we're not going to be able to get Dad back in time to see Mom.
+ແຕ່ຢ່າກັງວົນ, ພວກເຮົາຈະເຮັດໃຫ້ເຈົ້າສ້ອມແປງແລະກັບບ້ານເພື່ອເບິ່ງ... ໂອ້
+ຜູ້ຊາຍ, ແມ່! ບາລີ, ພວກເຮົາຈະບໍ່ສາມາດເຮັດໃຫ້ພໍ່ກັບມາໃນເວລາທີ່ຈະເຫັນແມ່.
+
+482
+00:29:07,500 --> 00:29:12,050
+[BARLEY]
+Oh...  Well, Dad... at least you won't have to meet the new guy.
+ໂອ້... ດີ, ພໍ່... ຢ່າງຫນ້ອຍເຈົ້າຈະບໍ່ຕ້ອງພົບກັບຄົນໃຫມ່.
+
+483
+00:29:12,550 --> 00:29:15,350
+[BARLEY]
+So you, uh, workin' hard or hardly workin'?
+ສະນັ້ນເຈົ້າ, ໂອ້, ເຮັດວຽກ ຫນັກ ຫຼືເກືອບເຮັດວຽກບໍ?
+
+484
+00:29:15,850 --> 00:29:20,400
+[IAN]
+Yeah!  Barley, Barley, Barley. Every time there's trouble, I gotta deal with you.
+ແມ່ນແລ້ວ! ບາລີ, ບາຣີ, ບາກລີ.
+ທຸກຄັ້ງທີ່ມີຄວາມຫຍຸ້ງຍາກ, ຂ້ອຍຕ້ອງຮັບມືກັບເຈົ້າ.
+
+485
+00:29:20,900 --> 00:29:22,900
+[BARLEY]
+Is that your Colt?!
+ນັ້ນແມ່ນໂກລຕ໌ຂອງທ່ານບໍ?
+
+486
+00:29:23,400 --> 00:29:25,400
+[IAN]
+Yeah?
+ແມ່ນແລ້ວ?
+
+487
+00:29:25,900 --> 00:29:28,000
+[BARLEY]
+You're gonna wanna work on that.
+ເຈົ້າຈະຢາກເຮັດວຽກກ່ຽວກັບເລື່ອງນັ້ນ.
+
+488
+00:29:28,500 --> 00:29:31,300
+[BARLEY]
+No, no, no, NO! Come on, old girl!
+ບໍ່, ບໍ່, ບໍ່ມີ, ບໍ່! ມາແລ້ວ, ເດັກຍິງເຖົ້າ!
+
+489
+00:29:31,800 --> 00:29:34,600
+[IAN]
+I thought you said you fixed the van.
+ຂ້ອຍຄິດວ່າເຈົ້າບອກວ່າເຈົ້າໄດ້ສ້ອມແປງລົດບັນທຸກ.
+
+490
+00:29:35,100 --> 00:29:38,950
+[BARLEY]
+Relax, Guinevere is fine. Her stomach is just a little empty.
+ສະບາຍໃຈ, ກີເນເວີບໍ່ເປັນຫຍັງ. ທ້ອງຂອງນາງພຽງແຕ່ຫວ່າງເລັກນ້ອຍ.
+
+491
+00:29:39,450 --> 00:29:42,250
+[IAN]
+But it says we have a full tank.
+ແຕ່ມັນບອກວ່າພວກເຮົາມີຖັງເຕັມ.
+
+492
+00:29:42,750 --> 00:29:44,750
+[BARLEY]
+Oh, that doesn't work.
+ໂອ້, ມັນບໍ່ໄດ້ເຮັດວຽກ.
+
+493
+00:29:45,250 --> 00:29:47,250
+[BARLEY]
+Only a few drops left.
+ຍັງເຫຼືອພຽງສອງສາມແກ້ວເທົ່ານັ້ນ.
+
+494
+00:29:47,750 --> 00:29:49,750
+[BARLEY]
+Maybe there's a gas station...
+ບາງທີມີສະຖານີນໍ້າມັນເຊື້ອໄຟ...
+
+495
+00:29:50,250 --> 00:29:53,050
+[IAN]
+Is there a magic way to get gas?
+ມີວິທີຊະຍາກອນທີ່ຈະເອົາແກັສບໍ?
+
+496
+00:29:53,550 --> 00:29:56,000
+[BARLEY]
+Oh! I like your thinking young mage.
+ໂອ້! ຂ້ອຍມັກນັກຊະຍາກອນຫນຸ່ມທີ່ຄິດຂອງທ່ານ.
+
+497
+00:29:56,500 --> 00:30:01,750
+[BARLEY]
+Growth Spell! We grow the can and then the gas inside will grow with it.
+ການຊະຍາກອນການເຕີບໃຫຍ່!
+ພວກເຮົາປູກຖັງແລະຫຼັງຈາກນັ້ນແກັສພາຍໃນຈະເຕີບໂຕກັບມັນ.
+
+498
+00:30:02,250 --> 00:30:04,700
+[IAN]
+Uhh... that's kind of a weird idea...
+ອູຮ້... ນັ້ນແມ່ນຄວາມຄິດທີ່ແປກໃຈບາງຢ່າງ...
+
+499
+00:30:05,200 --> 00:30:07,300
+[BARLEY]
+I know! I like it too!
+ຂ້ອຍຮູ້ແລ້ວ! ຂ້ອຍມັກມັນຄືກັນ!
+
+500
+00:30:07,800 --> 00:30:10,600
+[IAN]
+Okay, loosen up, heart's fire. Here we go.
+ດີແລ້ວ, ສະບາຍໃຈ, ໄຟຂອງຫົວໃຈ. ມາແລ້ວ.
+
+501
+00:30:11,100 --> 00:30:17,100
+[BARLEY]
+Whoa, it's not that simple.  This one learns a little magic and thinks he's Shamblefoot the Wondrous, am I right, Dad?  A growth spell is a bit more advanced. Not only do you have to speak from your heart's fire, but now you also have to follow a magic decree.
+ໂວ້, ມັນບໍ່ແມ່ນເລື່ອງງ່າຍດາຍຫຼາຍ. ຄົນນີ້ຮຽນຮູ້ຊະຍາກອນເລັກນ້ອຍແລະຄິດວ່າລາວເປັນ Shamblefoot the Wondrous, ຂ້ອຍຖືກຕ້ອງບໍ, ພໍ່?
+ການຊະຍາລັກການເຕີບໃຫຍ່ແມ່ນກ້າວຫນ້າກວ່າເລັກນ້ອຍ. ບໍ່ພຽງແຕ່ເຈົ້າຕ້ອງເວົ້າຈາກໄຟຂອງຫົວໃຈຂອງທ່ານເທົ່ານັ້ນ, ແຕ່ດຽວນີ້ເຈົ້າຍັງຕ້ອງປະຕິບັດຕາມຂໍ້ຕົກລົງຊະ ຍາ.
+
+502
+00:30:17,600 --> 00:30:19,600
+[IAN]
+A magic what?
+ການຊະຍາກອນຫຍັງ?
+
+503
+00:30:20,100 --> 00:30:26,100
+[BARLEY]
+It's a special rule that keeps the spell working right. This one states: "To magnify an object, you have to magnify your attention upon it."  While you cast the spell, you can't let anything distract you.
+ມັນເປັນກົດລະບຽບພິເສດທີ່ເຮັດໃຫ້ຊະຍາກອນເຮັດວຽກຢ່າງຖືກຕ້ອງ. ນີ້ແມ່ນລະບຸວ່າ:"ເພື່ອຂະຫຍາຍວັດຖຸ,
+ເຈົ້າຕ້ອງຂະຫຍາຍຄວາມສົນໃຈຂອງທ່ານກ່ຽວກັບມັນ." ໃນຂະນະທີ່ເຈົ້າຖິ້ມຊະຍາ, ເຈົ້າບໍ່ສາມາດປ່ອຍໃຫ້ຫຍັງລົບກວນເຈົ້າໄດ້.
+
+504
+00:30:26,600 --> 00:30:28,600
+[IAN]
+Okay...  Ow!
+ດີແລ້ວ... ໂອ້!
+
+505
+00:30:29,100 --> 00:30:31,100
+[BARLEY]
+What?
+ຫຍັງ?
+
+506
+00:30:31,600 --> 00:30:34,050
+[IAN]
+Splinter! Can we sand this thing down?
+Splinter! ພວກເຮົາສາມາດຫາດຊາຍສິ່ງນີ້ລົງໄດ້ບໍ?
+
+507
+00:30:34,550 --> 00:30:40,150
+[BARLEY]
+No! It's an ancient staff with magic in every glorious fiber, you can't "sand it down."
+ບໍ່! ມັນເປັນກະດານເກົ່າແກ່ທີ່ມີຊະຍາກອນໃນເສັ້ນໃຍທີ່ສວຍງາມທຸກຢ່າງ
+, ເຈົ້າບໍ່ສາມາດ"ຖິ້ມມັນລົງໄດ້."
+
+508
+00:30:40,650 --> 00:30:42,750
+[IAN]
+Alright, alright. Here we go.  Focus...
+ດີແລ້ວ, ດີແລ້ວ. ມາແລ້ວ. ສຸມໃສ່...
+
+509
+00:30:43,250 --> 00:30:45,250
+[BARLEY]
+Uh...
+ໂອ້...
+
+510
+00:30:45,750 --> 00:30:47,750
+[IAN]
+Something wrong?
+ມີຫຍັງຜິດບໍ?
+
+511
+00:30:48,250 --> 00:30:51,050
+[BARLEY]
+Sorry, it's just, your stance is uh... Here.
+ຂໍໂທດ, ມັນພຽງແຕ່, ທ່າທີຂອງທ່ານແມ່ນອູ... ຢູ່ບ່ອນນີ້.
+
+512
+00:30:51,550 --> 00:30:56,100
+[BARLEY]
+Chin up, elbows out, feet apart, back slightly arched... Okay, how's that feel?
+ປາກຂຶ້ນ, ກະຕ່າອອກ, ຕີນແຍກກັນ, ຫລັງ
+arched ບາງຢ່າງ... ດີ, ມັນຮູ້ສຶກແນວໃດ?
+
+513
+00:30:56,600 --> 00:30:58,600
+[IAN]
+Great.
+ດີເລີດ.
+
+514
+00:30:59,100 --> 00:31:01,100
+[BARLEY]
+Oh! One more thing.
+ໂອ້! ອີກສິ່ງຫນຶ່ງ.
+
+515
+00:31:01,600 --> 00:31:03,600
+[IAN]
+Barley!
+ບາລີ!
+
+516
+00:31:04,100 --> 00:31:06,100
+[BARLEY]
+Okay! Okay.
+ດີ! ດີ.
+
+517
+00:31:06,600 --> 00:31:08,600
+[IAN]
+Magnora Gantuan!
+Magnora Gantuan!
+
+518
+00:31:09,100 --> 00:31:11,200
+[BARLEY]
+Don't let the magic spook you.
+ຢ່າປ່ອຍໃຫ້ຊະຍາກອນເຮັດໃຫ້ເຈົ້າຢ້ານກົວ.
+
+519
+00:31:11,700 --> 00:31:13,700
+[IAN]
+Okay.
+ດີແລ້ວ.
+
+520
+00:31:14,200 --> 00:31:16,200
+[BARLEY]
+Elbows!
+ກະຕ່າແຂນ!
+
+521
+00:31:16,700 --> 00:31:18,700
+[IAN]
+What?!
+ຫຍັງ?!
+
+522
+00:31:19,200 --> 00:31:21,200
+[BARLEY]
+Elbows up!
+ກະຕ່າຂຶ້ນ!
+
+523
+00:31:21,700 --> 00:31:24,500
+[BARLEY]
+No, no, no, too high. That's too high.
+ບໍ່, ບໍ່, ບໍ່ມີ, ສູງເກີນໄປ. ນັ້ນສູງເກີນໄປແລ້ວ.
+
+524
+00:31:25,000 --> 00:31:27,000
+[IAN]
+I'm trying to focus here!
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມສຸມໃສ່ບ່ອນນີ້!
+
+525
+00:31:27,500 --> 00:31:30,300
+[BARLEY]
+Oh, yeah, yeah, yeah! Focus on the can!
+ໂອ້, ແມ່ນແລ້ວ, ແທ້ໆ, ແທ້ຈິງ! ສຸມໃສ່ຖັງ!
+
+526
+00:31:30,800 --> 00:31:32,800
+[BARLEY]
+Focuuuuuus...  Focuuuuuuuuuussssss...
+ສຸມໃສ... ສຸມໃສ່...
+
+527
+00:31:33,300 --> 00:31:35,300
+[IAN]
+Barley!  Ah, forget it!
+ບາລີ! ອາ, ລືມມັນ!
+
+528
+00:31:35,800 --> 00:31:37,900
+[BARLEY]
+It worked! The can is huge!
+ມັນເຮັດວຽກໄດ້! ຖັງແມ່ນໃຫຍ່ຫຼວງ!
+
+529
+00:31:38,400 --> 00:31:40,850
+[BARLEY]
+And the van is huge!  And you're--
+ແລະລົດບັນທຸກແມ່ນໃຫຍ່ຫຼວງ! ແລະເຈົ້າແມ່ນ -
+
+530
+00:31:41,350 --> 00:31:43,350
+[BARLEY]
+Oh, no...
+ໂອ້, ບໍ່...
+
+531
+00:31:43,850 --> 00:31:45,850
+[IAN]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+532
+00:31:46,350 --> 00:31:48,350
+[BARLEY]
+Looks like you shrunk me.
+ເບິ່ງຄືວ່າເຈົ້າໄດ້ຫຼຸດຂ້ອຍລົງ.
+
+533
+00:31:48,850 --> 00:31:50,850
+[IAN]
+Wha-- how?!
+ວາ - ແນວໃດ?!
+
+534
+00:31:51,350 --> 00:31:54,850
+[BARLEY]
+Well, if you mess up a spell, there are consequences.
+ດີ, ຖ້າເຈົ້າເຮັດໃຫ້ຊະຍາກອນຜິດພາດ, ມີຜົນກະທົບ.
+
+535
+00:31:55,350 --> 00:31:58,850
+[IAN]
+I only messed up because you wouldn't stop bothering me!
+ຂ້ອຍເຮັດຜິດພຽງແຕ່ເພາະວ່າເຈົ້າບໍ່ຢຸດການກັງວົນຂ້ອຍ!
+
+536
+00:31:59,350 --> 00:32:01,450
+[BARLEY]
+I was trying to help you!
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມຊ່ວຍເຈົ້າ!
+
+537
+00:32:01,950 --> 00:32:04,050
+[IAN]
+Well, don't try to help me!
+ດີ, ຢ່າພະຍາຍາມຊ່ວຍຂ້ອຍ!
+
+538
+00:32:04,550 --> 00:32:06,550
+[BARLEY]
+Oh okay, fine, I won't!
+ໂອ້ ດີ, ດີ, ຂ້ອຍຈະບໍ່ເຮັດ!
+
+539
+00:32:07,050 --> 00:32:09,050
+[BARLEY]
+Whoa, ow! Dad, it's me!
+ໂວ້, ໂອ້! ພໍ່, ມັນແມ່ນຂ້ອຍ!
+
+540
+00:32:09,550 --> 00:32:13,050
+[IAN]
+Whoah, Dad, it's okay, don't worry, I'm going fix this!
+ໂວ້, ພໍ່, ມັນບໍ່ເປັນຫຍັງ, ຢ່າກັງວົນ, ຂ້ອຍຈະແກ້ໄຂສິ່ງນີ້!
+
+541
+00:32:13,550 --> 00:32:15,550
+[BARLEY]
+Well, where are you going?
+ເຈົ້າໄປໃສ?
+
+542
+00:32:16,050 --> 00:32:18,050
+[IAN]
+To find a gas station.
+ເພື່ອຊອກຫາສະຖານີນໍ້າມັນເຊື້ອໄຟ.
+
+543
+00:32:18,550 --> 00:32:20,550
+[BARLEY]
+Well, I'm going too.
+ດີ, ຂ້ອຍຈະໄປຄືກັນ.
+
+544
+00:32:21,050 --> 00:32:23,050
+[IAN]
+Fine.
+ດີແລ້ວ.
+
+545
+00:32:23,550 --> 00:32:25,650
+[BARLEY]
+Hey, I don't need your help!
+ເຮ້, ຂ້ອຍບໍ່ຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ!
+
+546
+00:32:26,150 --> 00:32:28,150
+[IAN]
+Fine with me.
+ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+547
+00:32:28,650 --> 00:32:33,200
+[BARLEY]
+I just need a little break. My baby legs can't go that fast.
+ຂ້ອຍພຽງແຕ່ຕ້ອງການພັກຜ່ອນເລັກນ້ອຍ.
+ຕີນເດັກນ້ອຍຂອງຂ້ອຍບໍ່ສາມາດໄປໄວປານໃດ.
+
+548
+00:32:33,700 --> 00:32:35,700
+[BARLEY]
+Look, a gas station!
+ເບິ່ງ, ສະຖານີນໍ້າມັນເຊື້ອໄຟ!
+
+549
+00:32:36,200 --> 00:32:38,200
+[IAN]
+Oh, good.
+ໂອ້, ດີ.
+
+550
+00:32:38,700 --> 00:32:41,850
+[BARLEY]
+Oh wait, I forgot.  You don't need my help.
+ໂອ້ ລໍຖ້າ, ຂ້ອຍລືມແລ້ວ. ເຈົ້າບໍ່ຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງຂ້ອຍ.
+
+551
+00:32:42,350 --> 00:32:46,550
+[BARLEY]
+Hey! I don't need you to carry me! I'm a grown man!
+ເຮ້! ຂ້ອຍບໍ່ຕ້ອງການໃຫ້ເຈົ້າຖືຂ້ອຍ! ຂ້ອຍເປັນຜູ້ຊາຍໃຫຍ່ແລ້ວ!
+
+552
+00:32:47,050 --> 00:32:50,200
+[IAN]
+Dad, come on, it's okay, Barley is with me.
+ພໍ່, ມາແລ້ວ, ມັນບໍ່ເປັນຫຍັງ, ບາລີຢູ່ກັບຂ້ອຍ.
+
+553
+00:32:50,700 --> 00:32:56,700
+[BARLEY]
+Yeah, I'm fine, Dad. The side effects are supposed to wear off eventually. Do I look any bigger yet?
+ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ເປັນຫຍັງ, ພໍ່.
+ຜົນຂ້າງຄຽງຄວນຈະຫາຍໄປໃນທີ່ສຸດ. ຂ້ອຍເບິ່ງໃຫຍ່ກວ່າເກົ່າບໍ?
+
+554
+00:32:57,200 --> 00:32:59,650
+[DEWDROP]
+Hey! Did you just bump into me?
+ເຮ້! ເຈົ້າຫາກໍ່ພົບຂ້ອຍບໍ?
+
+555
+00:33:00,150 --> 00:33:03,300
+[GAS STATION VICTIM]
+Oh, I'm terribly sorry, I didn't see you there--
+ໂອ້, ຂ້ອຍຂໍໂທດຫຼາຍ, ຂ້ອຍບໍ່ໄດ້ເຫັນເຈົ້າຢູ່ບ່ອນນັ້ນ -
+
+556
+00:33:03,800 --> 00:33:07,300
+[DEWDROP]
+Do it again, and you'll see me in your nightmares!
+ເຮັດມັນອີກເທື່ອຫນຶ່ງ, ແລະເຈົ້າຈະເຫັນຂ້ອຍໃນຄວາມຝັນຮ້າຍຂອງທ່ານ!
+
+557
+00:33:07,800 --> 00:33:09,900
+[COBWEB]
+Gimme a bag of Extra Sours.
+ໃຫ້ຂ້ອຍຖົງຂອງ Extra Sours.
+
+558
+00:33:10,400 --> 00:33:12,400
+[COBWEB]
+Keep the change.
+ຮັກສາເງິນສົດໄວ້.
+
+559
+00:33:12,900 --> 00:33:14,900
+[COBWEB]
+Outta the way, beanstalk.
+ອອກຈາກທາງ, ກະດານຖົ່ວເຫຼືອງ.
+
+560
+00:33:15,400 --> 00:33:17,500
+[IAN]
+Uh, ten on pump two, please.
+ໂອ້, ສິບໃນປອມສອງ, ກະລຸນາ.
+
+561
+00:33:18,000 --> 00:33:20,000
+[IAN]
+What are you doing?!
+ເຈົ້າເຮັດຫຍັງຢູ່ບໍ?
+
+562
+00:33:20,500 --> 00:33:22,500
+[BARLEY]
+I'm getting us food.
+ຂ້ອຍ ກໍາ ລັງເອົາອາຫານໃຫ້ພວກເຮົາ.
+
+563
+00:33:23,000 --> 00:33:26,850
+[IAN]
+Alright, I got it. And a couple of these, thank you.
+ດີແລ້ວ, ຂ້ອຍໄດ້ມັນແລ້ວ. ແລະສອງສາມສິ່ງນີ້, ຂອບໃຈ.
+
+564
+00:33:27,350 --> 00:33:30,150
+[BARLEY]
+Pssst! I have to go to the bathroom!
+Pssst! ຂ້ອຍຕ້ອງໄປຫ້ອງນ້ ໍາ!
+
+565
+00:33:30,650 --> 00:33:32,650
+[IAN]
+Can it wait?
+ມັນລໍຖ້າໄດ້ບໍ?
+
+566
+00:33:33,150 --> 00:33:35,150
+[BARLEY]
+It's your pocket.
+ມັນເປັນກະເປົາຂອງທ່ານ.
+
+567
+00:33:35,650 --> 00:33:38,100
+[IAN]
+Can we have the bathroom key, please?
+ພວກເຮົາສາມາດເອົາປຸ່ມຫ້ອງນ້ ໍາ ໄດ້ບໍ, ກະລຸນາ?
+
+568
+00:33:38,600 --> 00:33:42,100
+[IAN]
+Okay, be quick. I want to get out of here.
+ດີ, ໄວ. ຂ້ອຍຢາກອອກຈາກບ່ອນນີ້.
+
+569
+00:33:42,600 --> 00:33:44,600
+[BARLEY]
+Okay, I'm going.
+ດີ, ຂ້ອຍຈະໄປ.
+
+570
+00:33:45,100 --> 00:33:47,100
+[GAS STATION CLERK]
+That'll be twelve ninety-nine.
+ນັ້ນຈະເປັນສິບສອງສິບເກົ້າ.
+
+571
+00:33:47,600 --> 00:33:49,600
+[MUSTARDSEED]
+Hey! Watch it!
+ເຮ້! ລະມັດລະວັງ!
+
+572
+00:33:50,100 --> 00:33:52,100
+[DEWDROP]
+You got a problem, Shades?!
+ເຈົ້າມີບັນຫາບໍ, Shades?!
+
+573
+00:33:52,600 --> 00:33:55,050
+[DEWDROP]
+Answer me when I'm talking to you!
+ຕອບຂ້ອຍເມື່ອຂ້ອຍເວົ້າກັບເຈົ້າ!
+
+574
+00:33:55,550 --> 00:33:59,750
+[IAN]
+Sorry, I don't really know where his head is at right now.
+ຂໍໂທດ, ຂ້ອຍບໍ່ຮູ້ວ່າຫົວຂອງລາວຢູ່ໃສໃນເວລານີ້.
+
+575
+00:34:00,250 --> 00:34:02,700
+[IAN]
+How could this night get any worse?
+ຄືນນີ້ຈະຮ້າຍແຮງຂຶ້ນໄດ້ແນວໃດ?
+
+576
+00:34:03,200 --> 00:34:09,200
+[MANTICORE]
+You know, I would fly us to help your boys, but... the old wings aren't what they used to be.
+ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍຈະບິນພວກເຮົາເພື່ອຊ່ວຍລູກຊາຍຂອງທ່ານ
+, ແຕ່... ກະຕ່າເກົ່າບໍ່ແມ່ນສິ່ງທີ່ພວກເຂົາເຄີຍເປັນ.
+
+577
+00:34:09,700 --> 00:34:12,150
+[LAUREL]
+Oh, that's fine. So, about this curse--
+ໂອ້, ມັນບໍ່ເປັນຫຍັງ. ສະນັ້ນ, ກ່ຽວກັບຄໍາສາບານນີ້ -
+
+578
+00:34:12,650 --> 00:34:18,650
+[MANTICORE]
+It's my own fault. I should be doing my wing exercises every morning, but you know how that goes...
+ມັນເປັນຄວາມຜິດຂອງຂ້ອຍເອງ. ຂ້ອຍຄວນເຮັດການອອກ ກໍາ
+ລັງກາຍກະຕ່າຂອງຂ້ອຍທຸກໆເຊົ້າ, ແຕ່ເຈົ້າຮູ້ວ່າມັນເປັນແນວໃດ...
+
+579
+00:34:19,150 --> 00:34:21,600
+[LAUREL]
+Please, the curse. What does it do?
+ກະລຸນາ, ຄໍາ ສາທາ. ມັນເຮັດຫຍັງ?
+
+580
+00:34:22,100 --> 00:34:24,200
+[MANTICORE]
+Right! Sorry. It's a Guardian Curse.
+ແມ່ນແລ້ວ! ຂໍໂທດ. ມັນເປັນຄໍາສາບານຂອງຜູ້ປົກຄອງ.
+
+581
+00:34:24,700 --> 00:34:28,550
+[MANTICORE]
+If your boys take the gem, the curse will rise up...
+ຖ້າລູກຊາຍຂອງເຈົ້າເອົາເພັດ, ການໂຊກຮ້າຍຈະຂຶ້ນ...
+
+582
+00:34:29,050 --> 00:34:35,050
+[MANTICORE]
+...and assume the form of a mighty beast... and battle your sons to the...  Well... how do your boys do in a crisis?
+... ແລະເອົາຮູບຮ່າງຂອງສັດທີ່ເຂັ້ມແຂງ... ແລະຕໍ່ສູ້ກັບລູກຊາຍຂອງທ່ານກັບ
+... ດີ... ເດັກຊາຍຂອງທ່ານເຮັດແນວໃດໃນວິກິດການ?
+
+583
+00:34:35,550 --> 00:34:41,150
+[LAUREL]
+Not great! One of them is afraid of everything and the other isn't afraid of anything.
+ບໍ່ດີເລີດ!
+ຄົນຫນຶ່ງຂອງພວກເຂົາຢ້ານທຸກຢ່າງແລະຄົນອື່ນບໍ່ຢ້ານຫຍັງເລີຍ.
+
+584
+00:34:41,650 --> 00:34:44,800
+[MANTICORE]
+Yeah, that skinny kid of yours is pretty fearless.
+ແມ່ນແລ້ວ, ເດັກນ້ອຍທີ່ອ່ອນແອຂອງເຈົ້າແມ່ນບໍ່ຢ້ານກົວຫຼາຍ.
+
+585
+00:34:45,300 --> 00:34:48,100
+[LAUREL]
+No, no. You mean the big one. Barley.
+ບໍ່, ບໍ່. ເຈົ້າຫມາຍຄວາມວ່າໃຫຍ່. ບາລີ.
+
+586
+00:34:48,600 --> 00:34:52,450
+[MANTICORE]
+No, the little guy. Woo, he really let me have it.
+ບໍ່, ຜູ້ຊາຍນ້ອຍ. ໂວ້, ລາວປ່ອຍໃຫ້ຂ້ອຍກິນມັນແທ້ໆ.
+
+587
+00:34:52,950 --> 00:34:56,450
+[LAUREL]
+What? No, look... You said you could help them. Right?
+ຫຍັງ? ບໍ່, ເບິ່ງ... ເຈົ້າບອກວ່າເຈົ້າສາມາດຊ່ວຍພວກເຂົາໄດ້. ແມ່ນບໍ?
+
+588
+00:34:56,950 --> 00:35:02,950
+[MANTICORE]
+Every curse has a core, the center of its power. And only one weapon forged of the rarest metals can destroy it: my enchanted sword...
+ການໂຊກຮ້າຍທຸກຢ່າງມີຫົວໃຈ, ສູນກາງຂອງພະລັງຂອງມັນ.
+ແລະພຽງແຕ່ອາວຸດດຽວທີ່ຖືກປອມຈາກໂລຫະທີ່ຫາຍາກທີ່ສຸດສາມາດທໍາລາຍມັນໄດ້: ກະທູ້ທີ່ສວຍງາມຂອງຂ້ອຍ...
+
+589
+00:35:03,450 --> 00:35:05,450
+[MANTICORE]
+...the Curse Crusher!
+... ຜູ້ທໍາລາຍຄໍາສາບາບ!
+
+590
+00:35:05,950 --> 00:35:09,450
+[LAUREL]
+Okay, but you don't seem to have that on you.
+ດີ, ແຕ່ເຈົ້າເບິ່ງຄືວ່າບໍ່ມີສິ່ງນັ້ນຢູ່ກັບເຈົ້າ.
+
+591
+00:35:09,950 --> 00:35:15,950
+[MANTICORE]
+I sold it. Got in a little tax trouble a few years back. But don't worry, I know just where to find it.
+ຂ້ອຍໄດ້ຂາຍມັນ. ມີບັນຫາພາສີນ້ອຍໆເມື່ອສອງສາມປີກ່ອນ
+. ແຕ່ຢ່າກັງວົນ, ຂ້ອຍຮູ້ວ່າຈະຊອກຫາມັນຢູ່ໃສ.
+
+592
+00:35:16,450 --> 00:35:21,000
+[LAUREL]
+I am on my way boys, just try to stay out of trouble.
+ຂ້ອຍ ກໍາ ລັງເດີນທາງໄປແລ້ວ, ພຽງແຕ່ພະຍາຍາມຢູ່ຫ່າງຈາກຄວາມຫຍຸ້ງຍາກ.
+
+593
+00:35:21,500 --> 00:35:23,950
+[IAN]
+Ugh, what is taking you so long?
+ໂອ້, ເຈົ້າໃຊ້ເວລາຫຼາຍປານໃດ?
+
+594
+00:35:24,450 --> 00:35:26,450
+[DEWDROP]
+Who you calling whimsical?
+ເຈົ້າເອີ້ນໃຜວ່າເປັນຄົນແປກໃຈ?
+
+595
+00:35:26,950 --> 00:35:28,950
+[IAN]
+Oh no.
+ໂອ້ ບໍ່.
+
+596
+00:35:29,450 --> 00:35:31,450
+[BARLEY]
+Whoa, whoa, whoa!
+ໂອ້, ໂວ້, ໂອ້!
+
+597
+00:35:31,950 --> 00:35:33,950
+[DEWDROP]
+You got a lotta nerve.
+ເຈົ້າມີຄວາມກ້າຫານຫຼາຍ.
+
+598
+00:35:34,450 --> 00:35:39,350
+[BARLEY]
+I'm just saying sprites used to fly around spreading delight. That's a good thing.
+ຂ້ອຍພຽງແຕ່ເວົ້າວ່າ ຈິດໃຈເຄີຍບິນຢູ່ທົ່ວໄປແຈກຢາຍຄວາມສຸກ
+. ນັ້ນແມ່ນສິ່ງທີ່ດີ.
+
+599
+00:35:39,850 --> 00:35:41,850
+[DEWDROP]
+Sprites can't fly!
+ສປຣິດບໍ່ສາມາດບິນໄດ້!
+
+600
+00:35:42,350 --> 00:35:45,850
+[BARLEY]
+Well, your wings don't work 'cause you stopped using them.
+ດີ, ກະຕ່າຂອງເຈົ້າບໍ່ໄດ້ເຮັດວຽກເພາະວ່າເຈົ້າຢຸດການໃຊ້ພວກມັນ.
+
+601
+00:35:46,350 --> 00:35:48,350
+[DEWDROP]
+You calling me lazy?
+ເຈົ້າເອີ້ນຂ້ອຍວ່າໂຊກຮ້າຍບໍ?
+
+602
+00:35:48,850 --> 00:35:51,300
+[BARLEY]
+No, no, no. Not you. Your ancestors.
+ບໍ່, ບໍ່, ບໍ່ມີ. ບໍ່ແມ່ນເຈົ້າ. ບັນພະບຸລຸດຂອງທ່ານ.
+
+603
+00:35:51,800 --> 00:35:54,250
+[DEWDROP]
+What did you say about my ancestors?!
+ເຈົ້າເວົ້າຫຍັງກ່ຽວກັບພໍ່ແມ່ຂອງຂ້ອຍບໍ?
+
+604
+00:35:54,750 --> 00:35:56,750
+[BARLEY]
+I didn't mean lazy, I--
+ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າໂຊກຮ້າຍ, ຂ້ອຍ...
+
+605
+00:35:57,250 --> 00:36:03,250
+[IAN]
+I'm sorry! Very sorry! He's sorry, too. You don't need to fly, who needs to fly? I mean you've got those great bikes!
+ຂ້ອຍຂໍໂທດ! ຂໍໂທດຫຼາຍ! ລາວຂໍໂທດເຊັ່ນກັນ. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງບິນ
+, ໃຜຕ້ອງບິນ? ຂ້ອຍຫມາຍຄວາມວ່າເຈົ້າມີລົດຖີບທີ່ຍິ່ງໃຫຍ່ນັ້ນ!
+
+606
+00:36:03,750 --> 00:36:06,900
+[BARLEY]
+What are you doing? I was just discussing history!
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ? ຂ້ອຍພຽງແຕ່ປຶກສາຫາລືປະຫວັດສາດ!
+
+607
+00:36:07,400 --> 00:36:13,400
+[IAN]
+Barley, I'm trying to take care of you and Dad, and you are not making it any easier!  Dad, come on!
+ບາລີ, ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເບິ່ງແຍງເຈົ້າແລະພໍ່
+, ແລະເຈົ້າບໍ່ໄດ້ເຮັດໃຫ້ມັນງ່າຍຂຶ້ນ! ພໍ່, ມາ!
+
+608
+00:36:13,900 --> 00:36:15,900
+[IAN]
+Oh no.
+ໂອ້ ບໍ່.
+
+609
+00:36:16,400 --> 00:36:20,950
+[HEY! YOU'RE DEAD!]
+Ian RACES Dad and Barley out of there as fast as he can.
+ແອນແລ່ນພໍ່ແລະບາລີອອກຈາກບ່ອນນັ້ນໄວເທົ່າທີ່ລາວສາມາດເຮັດໄດ້.
+
+610
+00:36:21,450 --> 00:36:24,950
+[IAN]
+We're dead! We're dead! We're dead! We're dead! We're dead!
+ພວກເຮົາຍັງຕາຍແລ້ວ! ພວກເຮົາມາແລ້ວ! ພວກເຮົາຕາຍແລ້ວ
+!... ພວກເຮືອຕາຍແລ້ວ... ພວກເຮົາມີຊີວິດແລ້ວ!
+
+611
+00:36:25,450 --> 00:36:28,600
+[BARLEY]
+Relax, they won't be able to lift those bikes--
+ສະບາຍໃຈ, ພວກເຂົາຈະບໍ່ສາມາດຍົກລົດຖີບເຫຼົ່ານັ້ນໄດ້ -
+
+612
+00:36:29,100 --> 00:36:31,100
+[BARLEY]
+Oh, they are strong...
+ໂອ້, ພວກເຂົາແຂງແຮງ...
+
+613
+00:36:31,600 --> 00:36:34,750
+[IAN]
+We're gonna die, we're gonna die, we're gonna die!
+ພວກເຮົາຈະຕາຍໃນ, ພວກເຮົາຈະຕາຍ, ພວກເຮົາຈະເປັນຕາຍ!
+
+614
+00:36:35,250 --> 00:36:37,250
+[BARLEY]
+It's locked!
+ມັນຖືກລັອກແລ້ວ!
+
+615
+00:36:37,750 --> 00:36:39,750
+[IAN]
+What?! Where are the keys?
+ຫຍັງ?! ປຸ່ມຢູ່ໃສ?
+
+616
+00:36:40,250 --> 00:36:42,250
+[BARLEY]
+I got this!
+ຂ້ອຍເຮັດໄດ້ແລ້ວ!
+
+617
+00:36:42,750 --> 00:36:44,750
+[IAN]
+C'mon, Barley!
+ມາແລ້ວ, ບາລີ!
+
+618
+00:36:45,250 --> 00:36:47,250
+[BARLEY]
+Whoa!
+ໂວ້!
+
+619
+00:36:47,750 --> 00:36:49,750
+[IAN]
+Okay, Go! Go! Go!
+ດີແລ້ວ, ໄປ! ໄປ! ອອກໄປ!
+
+620
+00:36:50,250 --> 00:36:53,050
+[IAN]
+Oh, no. No, no, no, no. No way...
+ໂອ້, ບໍ່. ບໍ່, ບໍ່, ບໍ່ມີ, ບໍ່ມີ. ບໍ່ເປັນໄປເລີຍ...
+
+621
+00:36:53,550 --> 00:36:55,550
+[BARLEY]
+You're gonna have to!
+ເຈົ້າຕ້ອງເຮັດ!
+
+622
+00:36:56,050 --> 00:36:58,150
+[IAN]
+Come on, why won't it start?!
+ມາແລ້ວ, ເປັນຫຍັງມັນຈະບໍ່ເລີ່ມຕົ້ນ?!
+
+623
+00:36:58,650 --> 00:37:03,550
+[BARLEY]
+There's a sweet spot... not in the middle, but not quite at the end!
+ມີຈຸດຫວານ... ບໍ່ແມ່ນຢູ່ກາງ, ແຕ່ບໍ່ແມ່ນໃນຕອນທ້າຍ!
+
+624
+00:37:04,050 --> 00:37:06,050
+[IAN]
+Comeoncomeoncomeoncomeon! Come. On. Guinevere!
+ມາມາມາມາ! ມາ! ມາ. ມາ. ກີນເວີ!
+
+625
+00:37:06,550 --> 00:37:08,650
+[BARLEY]
+Put it in "O" for "onward!"
+ເອົາມັນໃສ່"O" ສໍາລັບ"ຕໍ່ໄປ!"
+
+626
+00:37:09,150 --> 00:37:14,750
+[DRIVE!!!]
+Ian's unintentionally cuts off the sprites. Their bikes get tangled up as the van speeds away.
+ໄອນ ກໍາ ລັງຕັດສປຣີດໂດຍບໍ່ຕັ້ງໃຈ.
+ລົດຖີບຂອງພວກເຂົາຖືກສັບສົນໃນຂະນະທີ່ລົດບັນທຸກໄວໄປ.
+
+627
+00:37:15,250 --> 00:37:17,350
+[BARLEY]
+Okay, you're gonna have to merge!
+ດີແລ້ວ, ເຈົ້າຈະຕ້ອງລວມກັນ!
+
+628
+00:37:17,850 --> 00:37:19,850
+[BARLEY]
+Speed up!
+ໄວຂຶ້ນ!
+
+629
+00:37:20,350 --> 00:37:22,350
+[IAN]
+I can't do this!
+ຂ້ອຍເຮັດແບບນີ້ບໍ່ໄດ້!
+
+630
+00:37:22,850 --> 00:37:24,850
+[BARLEY]
+Yes you can!
+ແມ່ນແລ້ວ ເຈົ້າສາມາດ!
+
+631
+00:37:25,350 --> 00:37:27,350
+[IAN]
+I'm not ready!
+ຂ້ອຍຍັງບໍ່ພ້ອມ!
+
+632
+00:37:27,850 --> 00:37:29,850
+[BARLEY]
+You'll never be ready! MERGE!!
+ເຈົ້າຈະບໍ່ພ້ອມເລີຍ! ເຂົ້າກັນ!!
+
+633
+00:37:30,350 --> 00:37:34,200
+[AHHH!!!]
+Ian floors it and cuts in front of the giant truck.
+ແອນເອົາມັນລົງແລະຕັດຢູ່ຕໍ່ຫນ້າລົດບັນທຸກໃຫຍ່.
+
+634
+00:37:34,700 --> 00:37:36,700
+[BARLEY]
+Ha-ha! Nice job!
+Ha-ha! ເຮັດວຽກດີ!
+
+635
+00:37:37,200 --> 00:37:39,200
+[BARLEY]
+Hey, don't hit Gwinny!
+ເຮ້, ຢ່າຕີກວິນນີ!
+
+636
+00:37:39,700 --> 00:37:41,700
+[IAN]
+Barley!
+ບາລີ!
+
+637
+00:37:42,200 --> 00:37:44,200
+[IAN]
+Oh, no!
+ໂອ້, ບໍ່!
+
+638
+00:37:44,700 --> 00:37:46,700
+[BARLEY]
+Get around 'em!
+ໄປອ້ອມພວກມັນ!
+
+639
+00:37:47,200 --> 00:37:49,200
+[IAN]
+They're not letting me in!
+ພວກເຂົາບໍ່ໄດ້ປ່ອຍຂ້ອຍເຂົ້າມາ!
+
+640
+00:37:49,700 --> 00:37:51,700
+[IAN]
+You don't have a signal-er!
+ເຈົ້າບໍ່ມີເຄື່ອງສັນຍານ!
+
+641
+00:37:52,200 --> 00:37:55,700
+[BARLEY]
+Stick your arm straight out the window to signal left!
+ເອົາມືຂອງທ່ານອອກທາງປ່ອງຢ້ຽມເພື່ອສັນຍານຊ້າຍ!
+
+642
+00:37:56,200 --> 00:38:02,200
+[AH!!]
+Ian turns the wheel one-handed and merges into the next lane. Barley climbs out on Ian's arm to untangle the chain.
+ອີອານຫັນລໍ້ດ້ວຍມືດຽວແລະປະສົມເຂົ້າໄປໃນເສັ້ນທາງຕໍ່ໄປ
+. ບາລີຂຶ້ນເທິງແຂນຂອງອີອານເພື່ອເປີດຕ່ອງໂສ້.
+
+643
+00:38:02,700 --> 00:38:04,700
+[IAN]
+Get back here!
+ກັບມາບ່ອນນີ້!
+
+644
+00:38:05,200 --> 00:38:07,200
+[BARLEY]
+Just keep driving!
+ພຽງແຕ່ຂັບລົດຕໍ່ໄປ!
+
+645
+00:38:07,700 --> 00:38:09,700
+[IAN]
+Barley!
+ບາລີ!
+
+646
+00:38:10,200 --> 00:38:14,400
+[BARLEY]
+The mountains are north. You need to get all the way over!
+ພູເຂົາຢູ່ທາງທິດເຫນືອ. ເຈົ້າຕ້ອງໄປເຖິງທາງທັງ ຫມົດ!
+
+647
+00:38:14,900 --> 00:38:18,050
+[DEWDROP]
+What the-- Oh it is on, Shades!  Get 'em!
+ມັນຢູ່ແລ້ວ, Shades! ເອົາພວກມັນ!
+
+648
+00:38:18,550 --> 00:38:20,550
+[BARLEY]
+Ian! Stay focused!
+ແອນ! ຈົ່ງສຸມໃສ່!
+
+649
+00:38:21,050 --> 00:38:23,050
+[IAN]
+I can't!
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້!
+
+650
+00:38:23,550 --> 00:38:26,350
+[BARLEY]
+You HAVE to focus or we're all dead!
+ເຈົ້າຕ້ອງສຸມໃສ່ຫຼືພວກເຮົາທຸກຄົນຕາຍແລ້ວ!
+
+651
+00:38:26,850 --> 00:38:28,850
+[BARLEY]
+Just stay cool!
+ພຽງແຕ່ຢູ່ເຢັນ!
+
+652
+00:38:29,350 --> 00:38:31,350
+[BARLEY]
+Way to go, Guinevere!
+ດີແລ້ວ, ກີນເວີ!
+
+653
+00:38:31,850 --> 00:38:33,850
+[DEWDROP]
+Hit it!
+ເອົາມັນໄປ!
+
+654
+00:38:34,350 --> 00:38:36,350
+[BARLEY]
+We're not gonna make it!
+ພວກເຮົາຈະບໍ່ເຮັດໄດ້!
+
+655
+00:38:36,850 --> 00:38:38,850
+[DEWDROP]
+Huh.
+ຮາ.
+
+656
+00:38:39,350 --> 00:38:41,350
+[IAN]
+Dad, are you okay?!
+ພໍ່, ເຈົ້າດີບໍ?!
+
+657
+00:38:41,850 --> 00:38:46,400
+[BARLEY]
+He's fine, thanks to the skillful driving of Sir Ian Lightfoot! High Five!
+ລາວບໍ່ເປັນຫຍັງ, ຂອບໃຈການຂັບຂີ່ທີ່ມີຄວາມສາມາດຂອງເຈົ້າ
+Ian Lightfoot! High ຫ້າ!
+
+658
+00:38:46,900 --> 00:38:48,900
+[IAN]
+Ow! What is happening?
+ໂອ້! ເກີດຫຍັງຂຶ້ນ?
+
+659
+00:38:49,400 --> 00:38:51,850
+[BARLEY]
+I think the spell is wearing off.
+ຂ້ອຍຄິດວ່າຄໍາຊະຍາກອນ ກໍາ ລັງຫາຍໄປແລ້ວ.
+
+660
+00:38:52,350 --> 00:38:54,350
+[IAN]
+Get off my face!
+ອອກຈາກໃບຫນ້າຂອງຂ້ອຍ!
+
+661
+00:38:54,850 --> 00:38:56,850
+[IAN]
+Oh, Chantar's Talon! Cops!
+ໂອ້, Talon ຂອງ Chantar ໄດ້! ຕໍາຫຼວດ!
+
+662
+00:38:57,350 --> 00:38:59,350
+[BARLEY]
+Pull over!
+ຢຸດໄປ!
+
+663
+00:38:59,850 --> 00:39:01,850
+[IAN]
+I don't have a license.
+ຂ້ອຍບໍ່ມີໃບອະນຸຍາດ.
+
+664
+00:39:02,350 --> 00:39:04,350
+[BARLEY]
+Ah! My wallet's still tiny!
+ອາ! ກະເປົາເງິນຂອງຂ້ອຍຍັງນ້ອຍໆ!
+
+665
+00:39:04,850 --> 00:39:06,850
+[OFFICER SPECTER]
+Step out of the vehicle.
+ອອກຈາກລົດ.
+
+666
+00:39:07,350 --> 00:39:09,350
+[IAN]
+What are we gonna do?
+ພວກເຮົາຈະເຮັດແນວໃດ?
+
+667
+00:39:09,850 --> 00:39:11,850
+[BARLEY]
+I don't know!
+ຂ້ອຍບໍ່ຮູ້!
+
+668
+00:39:12,350 --> 00:39:15,150
+[IAN]
+How are we gonna explain--  Oh no. DAD!
+ພວກເຮົາຈະອະທິບາຍແນວໃດ - ໂອ້ ບໍ່. ພໍ່!
+
+669
+00:39:15,650 --> 00:39:18,100
+[OFFICER GORE]
+You have a long night there, buddy?
+ເຈົ້າມີຄືນທີ່ຍາວຢູ່ບ່ອນນັ້ນບໍ, ເພື່ອນ?
+
+670
+00:39:18,600 --> 00:39:22,100
+[OFFICER SPECTER]
+Sir, I'm gonna ask you to walk this straight line.
+ເຈົ້າ, ຂ້ອຍຈະຂໍໃຫ້ເຈົ້າຍ່າງຕາມເສັ້ນກົງນີ້.
+
+671
+00:39:22,600 --> 00:39:24,600
+[IAN]
+They're gonna take Dad!
+ພວກເຂົາຈະເອົາພໍ່ໄປ!
+
+672
+00:39:25,100 --> 00:39:30,700
+[BARLEY]
+Oh! I got it! The disguise spell! You can disguise yourself to be anyone you want.
+ໂອ້! ຂ້ອຍເຂົ້າໃຈແລ້ວ! ການຊະຍາກອນການແຕ່ງຕົວ
+! ເຈົ້າສາມາດແຕ່ງຕົວເອງເປັນໃຜທີ່ທ່ານຕ້ອງການ.
+
+673
+00:39:31,200 --> 00:39:33,300
+[IAN]
+What if I mess up again?
+ຖ້າຂ້ອຍເຮັດຜິດອີກຄັ້ງແນວໃດ?
+
+674
+00:39:33,800 --> 00:39:39,800
+[BARLEY]
+According to the spell, "Disguising yourself is a lie, so you must tell the truth to get by." As long as you don't tell a lie, the spell will be fine.
+ອີງຕາມຄໍາຊະຍາກອນ,"ການກວມຕົວເອງແມ່ນຕົວະ, ສະນັ້ນເຈົ້າຕ້ອງເວົ້າຄວາມຈິງເພື່ອຢູ່ລອດ
+." ຕາບໃດທີ່ທ່ານບໍ່ເວົ້າຕົວະແລ້ວ, ຄໍາຊະຍາຈະດີດີ.
+
+675
+00:39:40,300 --> 00:39:42,400
+[IAN]
+Okay... who are we gonna be?
+ດີແລ້ວ... ພວກເຮົາຈະເປັນໃຜ?
+
+676
+00:39:42,900 --> 00:39:45,700
+[OFFICER GORE]
+Okay, we're taking you down to the station.
+ດີແລ້ວ, ພວກເຮົາຈະພາເຈົ້າລົງໄປສະຖານີ.
+
+677
+00:39:46,200 --> 00:39:49,700
+[COLT]
+What seems to be the problem here fellow... police folk?
+ເບິ່ງຄືວ່າບັນຫາຢູ່ບ່ອນນີ້ແມ່ນຫຍັງ ເພື່ອນ... ຕໍາຫຼວດຄົນ?
+
+678
+00:39:50,200 --> 00:39:52,200
+[OFFICER GORE]
+Officer Bronco?
+ເຈົ້າຫນ້າທີ່ບຣອນໂກ?
+
+679
+00:39:52,700 --> 00:39:54,700
+[OFFICER SPECTER]
+Were you in that van?
+ເຈົ້າຢູ່ໃນລົດບັນທຸກນັ້ນບໍ?
+
+680
+00:39:55,200 --> 00:40:01,200
+[COLT/IAN]
+Affirmative! And we will, I mean, I will take full responsibility for that fella right there, so you can just release him over to me.
+ຢືນຢັນ! ແລະພວກເຮົາຈະ, ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍຈະຮັບຜິດຊອບຢ່າງເຕັມທີ່
+ສໍາ ລັບຄົນນັ້ນຢູ່ບ່ອນນັ້ນ, ສະນັ້ນເຈົ້າສາມາດປ່ອຍລາວໃຫ້ຂ້ອຍໄດ້.
+
+681
+00:40:01,700 --> 00:40:04,150
+[BARLEY]
+Hey, I wanted to be the front.
+ເຮ້, ຂ້ອຍຢາກເປັນຫນ້າທໍາອິດ.
+
+682
+00:40:04,650 --> 00:40:06,750
+[IAN]
+No way, I'll do the talking.
+ບໍ່ເປັນໄປເລີຍ, ຂ້ອຍຈະເວົ້າ.
+
+683
+00:40:07,250 --> 00:40:11,450
+[OFFICER GORE]
+Bronco, I thought you were working on the other side of town.
+ໂບຣນໂກ, ຂ້ອຍຄິດວ່າເຈົ້າ ກໍາ ລັງເຮັດວຽກຢູ່ທາງອື່ນຂອງເມືອງ.
+
+684
+00:40:11,950 --> 00:40:13,950
+[COLT]
+I, uh, changed my mind.
+ຂ້ອຍ, ໂອ້, ປ່ຽນໃຈ.
+
+685
+00:40:14,450 --> 00:40:16,450
+[OFFICER SPECTER]
+Something wrong?
+ມີຫຍັງຜິດບໍ?
+
+686
+00:40:16,950 --> 00:40:18,950
+[COLT]
+Just a little... neck... cramp!
+ພຽງແຕ່ນ້ອຍໆ... ຄໍ... ກະຕຸ້ນ!
+
+687
+00:40:19,450 --> 00:40:23,300
+[BARLEY]
+You have to stop lying. Answer every question with a question!
+ເຈົ້າຕ້ອງຢຸດການຕົວະ. ຕອບທຸກ ຄໍາ ຖາມດ້ວຍ ຄໍາ ຖາມ!
+
+688
+00:40:23,800 --> 00:40:26,250
+[OFFICER SPECTER]
+What exactly are you doing out here?
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້ແທ້ໆ?
+
+689
+00:40:26,750 --> 00:40:32,000
+[COLT]
+Uh... What am I doing out here? What are any of us doing out here?
+ໂອ້... ຂ້ອຍ ກໍາ ລັງເຮັດຫຍັງຢູ່ບ່ອນນີ້? ພວກເຮົາຍັງເຮັດຫຍັງຢູ່ນີ້?
+
+690
+00:40:32,500 --> 00:40:35,300
+[OFFICER GORE]
+Whoa... I never thought about it like that.
+ໂວ້... ຂ້ອຍບໍ່ເຄີຍຄິດກ່ຽວກັບມັນແບບນັ້ນເລີຍ.
+
+691
+00:40:35,800 --> 00:40:37,800
+[BARLEY]
+Nice!
+ດີເລີດ!
+
+692
+00:40:38,300 --> 00:40:41,450
+[OFFICER SPECTER]
+With all due respect, you didn't answer my question.
+ດ້ວຍຄວາມເຄົາລົບທັງ ຫມົດ, ເຈົ້າບໍ່ໄດ້ຕອບ ຄໍາ ຖາມຂອງຂ້ອຍ.
+
+693
+00:40:41,950 --> 00:40:45,800
+[COLT]
+Well, we were just exercising some driver's education drills for... Ian.
+ດີ, ພວກເຮົາພຽງແຕ່ ກໍາ ລັງອອກ ກໍາ
+ລັງກາຍການຝຶກອົບຮົມການຂັບຂີ່ບາງຢ່າງ ສໍາ ລັບ... ໄອນ.
+
+694
+00:40:46,300 --> 00:40:48,300
+[OFFICER SPECTER]
+Who is Ian?
+ແອນແມ່ນໃຜ?
+
+695
+00:40:48,800 --> 00:40:50,800
+[OFFICER GORE]
+Oh, is that Laurel's kid?
+ໂອ້, ນັ້ນແມ່ນລູກຂອງລາວເຣລບໍ?
+
+696
+00:40:51,300 --> 00:40:53,300
+[COLT]
+Ian is Laurel's kid.
+ແອນເປັນລູກຂອງໂລເຣລ.
+
+697
+00:40:53,800 --> 00:40:56,600
+[OFFICER SPECTER]
+Your stepson was swerving all over the road.
+ລູກແອບຂອງທ່ານ ກໍາ ລັງຫັນໄປທົ່ວທາງ.
+
+698
+00:40:57,100 --> 00:40:59,900
+[COLT/IAN]
+Yeah, well... that guy's not all there today.
+ແມ່ນແລ້ວ, ດີ... ຜູ້ຊາຍຄົນນັ້ນບໍ່ໄດ້ຢູ່ບ່ອນນັ້ນທັງ ຫມົດ ມື້ນີ້.
+
+699
+00:41:00,400 --> 00:41:04,950
+[OFFICER SPECTER]
+Yeah, he does seem a little off.  You seem a little off yourself.
+ແມ່ນແລ້ວ, ລາວເບິ່ງຄືວ່າຜິດປົກກະຕິເລັກນ້ອຍ. ເຈົ້າເບິ່ງຄືກັບຕົວເອງ.
+
+700
+00:41:05,450 --> 00:41:11,450
+[IAN/COLT]
+Uh, actually, if I'm being completely honest... I'm not super great in this kinda situation... and I'm starting to freak out a little bit. I'm all sweaty and weird and I don't know what to say and I just feel like I can't do anything right and I'm a total weirdo--
+ໂອ້, ໃນຄວາມເປັນຈິງ, ຖ້າຂ້ອຍເປັນຄົນຈິງໃຈຢ່າງສົມບູນ... ຂ້ອຍບໍ່ດີເລີດໃນສະຖານະການແບບນີ້... ແລະຂ້ອຍ ກໍາ ລັງເລີ່ມຢ້ານກົວເລັກນ້ອຍ.
+ຂ້ອຍຫວານແລະແປກໃຈທັງ ຫມົດ ແລະຂ້ອຍບໍ່ຮູ້ວ່າຈະເວົ້າຫຍັງແລະຂ້ອຍພຽງແຕ່ຮູ້ສຶກວ່າຂ້ອຍບໍ່ສາມາດເຮັດຫຍັງໄດ້ຢ່າງຖືກຕ້ອງແລະຂ້ອຍເປັນໂຊກຮ້າຍທັງ ຫມົດ -
+
+701
+00:41:11,950 --> 00:41:17,900
+[OFFICER SPECTER]
+Whoa, whoa, hold on, okay hold on, hold on. I think I know what's going on here.
+ໂວ້, ໂວ່, ລໍຖ້າ, ດີລໍຖ້າ. ຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ວ່າເກີດຫຍັງຂຶ້ນຢູ່ນີ້.
+
+702
+00:41:18,400 --> 00:41:20,400
+[IAN]
+Uh... You do?
+ໂອ້... ເຈົ້າເຮັດບໍ?
+
+703
+00:41:20,900 --> 00:41:26,900
+[OFFICER SPECTER]
+Yeah, it's not easy being a new parent. My girlfriend's daughter got me pulling my hair out, okay?
+ແມ່ນແລ້ວ, ມັນບໍ່ງ່າຍທີ່ຈະເປັນພໍ່ແມ່ຄົນໃຫມ່.
+ລູກສາວຂອງແຟນຂອງຂ້ອຍເຮັດໃຫ້ຂ້ອຍດຶງຜົມຂອງຂ້ອຍອອກ, ດີບໍ?
+
+704
+00:41:27,400 --> 00:41:29,400
+[IAN]
+Oh... uh, yeah.
+ໂອ້... ໂອ້, ແມ່ນແລ້ວ.
+
+705
+00:41:29,900 --> 00:41:32,000
+[OFFICER SPECTER]
+Alright, we can let him go.
+ດີແລ້ວ, ພວກເຮົາສາມາດປ່ອຍລາວໄປໄດ້.
+
+706
+00:41:32,500 --> 00:41:36,000
+[COLT]
+Oh, okay... I'm just gonna take him to the van.
+ໂອ້, ດີ... ຂ້ອຍພຽງແຕ່ຈະພາລາວໄປຫາລົດບັນທຸກ.
+
+707
+00:41:36,500 --> 00:41:39,300
+[OFFICER SPECTER]
+Hey, it gets better, alright? Good luck, Bronco.
+ເຮ້, ມັນຈະດີຂຶ້ນ, ດີບໍ? ໂຊກດີ, ບຣອນໂກ.
+
+708
+00:41:39,800 --> 00:41:42,950
+[COLT]
+You too, Officer. Keep workin' hard... or hardly workin'...
+ເຈົ້າຄືກັນ, ເຈົ້າຫນ້າທີ່. ສືບຕໍ່ເຮັດວຽກ
+ຫນັກ... ຫຼືເກືອບເຮັດວຽກ...
+
+709
+00:41:43,450 --> 00:41:45,550
+[BARLEY]
+Now that was a good Colt!
+ດຽວນີ້ນັ້ນແມ່ນໂກລຕ໌ທີ່ດີ!
+
+710
+00:41:46,050 --> 00:41:49,900
+[OFFICER GORE]
+I don't envy you, Bronco. That Lightfoot kid is a handful.
+ຂ້ອຍບໍ່ກຽດຊັງເຈົ້າ, ບຣອນໂກ. ເດັກນ້ອຍແສງສະຫວ່າງແມ່ນມືດ.
+
+711
+00:41:50,400 --> 00:41:56,000
+[COLT]
+I'm gonna have to disagree with you there, I think Ian's a pretty stand up citizen.
+ຂ້ອຍຈະຕ້ອງບໍ່ເຫັນດີກັບເຈົ້າຢູ່ບ່ອນນັ້ນ,
+ຂ້ອຍຄິດວ່າໄອນເປັນພົນລະເມືອງທີ່ຢືນຢູ່ຢ່າງດີເລີດ.
+
+712
+00:41:56,500 --> 00:41:58,500
+[OFFICER GORE]
+Not him, the older one.
+ບໍ່ແມ່ນລາວ, ຜູ້ໃຫຍ່.
+
+713
+00:41:59,000 --> 00:42:01,000
+[IAN]
+What?
+ຫຍັງ?
+
+714
+00:42:01,500 --> 00:42:06,050
+[OFFICER GORE]
+I mean, the guy's a screw up. You can't say you don't agree?
+ຂ້ອຍຫມາຍຄວາມວ່າ, ຜູ້ຊາຍຄົນນັ້ນເປັນຄົນສໍ້ໂກງ
+. ເຈົ້າບໍ່ສາມາດເວົ້າວ່າເຈົ້າບໍ່ເຫັນດີບໍ?
+
+715
+00:42:06,550 --> 00:42:08,550
+[IAN]
+Um... I don't.
+ອູມ... ຂ້ອຍບໍ່ເຮັດ.
+
+716
+00:42:09,050 --> 00:42:11,050
+[BARLEY]
+What?
+ຫຍັງ?
+
+717
+00:42:11,550 --> 00:42:17,150
+[IAN/COLT]
+I mean, um, uh, okay, well, um, I have to get going, gotta get Ian home.
+ຂ້ອຍຫມາຍຄວາມວ່າ, ອືມ, ໂອເຄ, ດີ, ອຶມ
+, ຂ້ອຍຕ້ອງໄປ, ຕ້ອງເອົາໄອນກັບບ້ານ.
+
+718
+00:42:17,650 --> 00:42:20,100
+[COLT]
+Ah, I mean, I'm late for work.
+ອາ, ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍຊ້າໄປເຮັດວຽກ.
+
+719
+00:42:20,600 --> 00:42:26,600
+[COLT/IAN]
+Sorry, I mean I'm feeling a little sick. I mean, tired. Sick and tired. I gotta go! See you Monday!
+ຂໍໂທດ, ຂ້ອຍຫມາຍຄວາມວ່າຂ້ອຍຮູ້ສຶກເຈັບປ່ວຍເລັກນ້ອຍ. ຂ້ອຍຫມາຍ
+ຄວາມວ່າ, ເມື່ອຍ. ເຈັບປ່ວຍແລະເມື່ອຍ. ຂ້ອຍຕ້ອງໄປ! ພົບກັນວັນຈັນ!
+
+720
+00:42:27,100 --> 00:42:33,100
+[OFFICER GORE]
+Oh man, Bronco is losing it. See, that's why I never got married. Yup, Old Gore can't be tied down.
+ໂອ້ ຜູ້ຊາຍ, ບຣອນໂກ ກໍາ ລັງສູນເສຍມັນ. ເບິ່ງ,
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍບໍ່ເຄີຍແຕ່ງງານເລີຍ. ແມ່ນແລ້ວ, ໂກຣເກົ່າບໍ່ສາມາດຕິດພັນໄດ້.
+
+721
+00:42:33,600 --> 00:42:37,800
+[OFFICER SPECTER]
+This is Specter. Can you put me through to Officer Colt Bronco?
+ນີ້ແມ່ນສເປັກເຕີ.
+ເຈົ້າສາມາດເຊື່ອມຕໍ່ຂ້ອຍກັບເຈົ້າຫນ້າທີ່ໂກລຕ໌ ບຣອນໂກໄດ້ບໍ?
+
+722
+00:42:38,300 --> 00:42:43,550
+[IAN]
+Barley... I don't know what happened back there, but I don't think you're a screwup.
+ບາລີ... ຂ້ອຍບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນຢູ່ບ່ອນນັ້ນ
+, ແຕ່ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າເປັນຄົນສໍ້ໂກງ.
+
+723
+00:42:44,050 --> 00:42:47,200
+[IAN]
+Maybe the magic just got it wrong... you know?
+ບາງທີຊະຍາກອນພຽງແຕ່ຜິດພາດ... ເຈົ້າຮູ້ບໍ?
+
+724
+00:42:47,700 --> 00:42:49,700
+[BARLEY]
+Yeah...
+ແມ່ນແລ້ວ...
+
+725
+00:42:50,200 --> 00:42:52,300
+[I DON'T KNOW WHAT HAPPENED--]
+Barley turns up the music louder.
+ບາລີເຮັດໃຫ້ດົນຕີສຽງດັງຂຶ້ນ.
+
+726
+00:42:52,800 --> 00:42:54,800
+[BARLEY! BARLEY!]
+81.
+81.
+
+727
+00:42:55,300 --> 00:42:57,300
+[IAN]
+Where are you going?
+ເຈົ້າໄປໃສ?
+
+728
+00:42:57,800 --> 00:43:00,250
+[IAN]
+Barley, come on, this is all just--
+ບາລີ, ມາແລ້ວ, ນີ້ແມ່ນທັງຫມົດພຽງແຕ່ -
+
+729
+00:43:00,750 --> 00:43:02,750
+[BARLEY]
+I'm not a screwup!
+ຂ້ອຍບໍ່ແມ່ນຄົນຜິດພາດ!
+
+730
+00:43:03,250 --> 00:43:05,250
+[IAN]
+I didn't say you were.
+ຂ້ອຍບໍ່ໄດ້ບອກວ່າເຈົ້າເປັນ.
+
+731
+00:43:05,750 --> 00:43:07,850
+[BARLEY]
+The magic said it for you!
+ການຊະຍາກອນເວົ້າມັນ ສໍາ ລັບເຈົ້າ!
+
+732
+00:43:08,350 --> 00:43:10,450
+[IAN]
+Well, the magic got it wrong!
+ດີ, ການຊະຍາກອນໄດ້ຜິດ!
+
+733
+00:43:10,950 --> 00:43:16,950
+[BARLEY]
+Magic doesn't get it wrong! The cop asked a question, you answered, and magic revealed the truth. Right?!
+ການຊະຍາກອນບໍ່ເຂົ້າໃຈຜິດ! ຕໍາຫຼວດຖາມຄໍາຖາມ,
+ເຈົ້າຕອບ, ແລະການຊ່າງໄດ້ເປີດເຜີຍຄວາມຈິງ. ແມ່ນບໍ?!
+
+734
+00:43:17,450 --> 00:43:23,450
+[IAN]
+I don't know how any of this stuff works! All I know is that everything we've done tonight has gone wrong!
+ຂ້ອຍບໍ່ຮູ້ວ່າສິ່ງເຫຼົ່ານີ້ເຮັດວຽກແນວໃດ!
+ຂ້ອຍພຽງແຕ່ຮູ້ວ່າທຸກຢ່າງທີ່ພວກເຮົາເຮັດໃນຄືນນີ້ໄດ້ຜິດພາດ!
+
+735
+00:43:23,950 --> 00:43:27,100
+[BARLEY]
+It's gone wrong because you won't listen to me!
+ມັນໄປຜິດເພາະວ່າເຈົ້າບໍ່ຟັງຂ້ອຍ!
+
+736
+00:43:27,600 --> 00:43:31,450
+[IAN]
+Are you kidding? Because everything we've done has been your idea--
+ເຈົ້າໂຊກຮ້າຍບໍ? ເພາະວ່າທຸກຢ່າງທີ່ພວກເຮົາເຮັດແມ່ນຄວາມຄິດຂອງທ່ານ -
+
+737
+00:43:31,950 --> 00:43:37,950
+[BARLEY]
+But you didn't do it my way! You didn't let me handle the Manticore. You freaked out when I talked to the sprites. Because you don't think I have good ideas.
+ແຕ່ເຈົ້າບໍ່ໄດ້ເຮັດມັນຕາມວິທີຂອງຂ້ອຍ! ເຈົ້າບໍ່ໄດ້ປ່ອຍໃຫ້ຂ້ອຍຈັດການກັບແມນຕິກໍ.
+ເຈົ້າຢ້ານກົວເມື່ອຂ້ອຍເວົ້າກັບຈິດໃຈ. ເພາະວ່າເຈົ້າບໍ່ຄິດວ່າຂ້ອຍມີແນວຄິດທີ່ດີ.
+
+738
+00:43:38,450 --> 00:43:40,450
+[IAN]
+What! Of course I do!
+ຫຍັງ! ແນ່ນອນວ່າຂ້ອຍເຮັດ!
+
+739
+00:43:40,950 --> 00:43:44,800
+[BARLEY]
+Great, then I think we should take the Path of Peril!
+ດີເລີດ, ຫຼັງຈາກນັ້ນຂ້ອຍຄິດວ່າພວກເຮົາຄວນໄປຕາມເສັ້ນທາງອັນຕະລາຍ!
+
+740
+00:43:45,300 --> 00:43:48,450
+[IAN]
+And I also think that would be good... normally--
+ແລະຂ້ອຍຍັງຄິດວ່າມັນຈະດີ... ປົກກະຕິແລ້ວ -
+
+741
+00:43:48,950 --> 00:43:50,950
+[BARLEY]
+See!
+ເບິ່ງແມ!
+
+742
+00:43:51,450 --> 00:43:57,450
+[IAN]
+But I told you, this isn't a game! All that matters today is Dad, and right now he's sitting in that van, and he's confused--
+ແຕ່ຂ້ອຍບອກເຈົ້າແລ້ວ, ນີ້ແມ່ນບໍ່ແມ່ນເກມ! ສິ່ງດຽວທີ່ສໍາຄັນໃນມື້ນີ້ແມ່ນພໍ່
+, ແລະດຽວນີ້ລາວນັ່ງຢູ່ໃນລົດບັນທຸກນັ້ນ, ແລະລາວສັບສົນ -
+
+743
+00:43:57,950 --> 00:43:59,950
+[IAN]
+What?!
+ຫຍັງ?!
+
+744
+00:44:00,450 --> 00:44:02,450
+[IAN]
+What is he doing?
+ລາວ ກໍາ ລັງເຮັດຫຍັງ?
+
+745
+00:44:02,950 --> 00:44:07,500
+[BARLEY]
+I think he can feel the vibrations of the music and he's... dancing.
+ຂ້ອຍຄິດວ່າລາວສາມາດຮູ້ສຶກການສັ່ນສະເທືອນຂອງດົນຕີແລະລາວ... ເຕັ້ນ.
+
+746
+00:44:08,000 --> 00:44:10,000
+[IAN]
+Wow. He is terrible.
+ໂວ້. ລາວຮ້າຍແຮງ.
+
+747
+00:44:10,500 --> 00:44:12,500
+[BARLEY]
+Yeah. He's really, really bad.
+ແມ່ນແລ້ວ. ລາວຮ້າຍແຮງແທ້ໆ.
+
+748
+00:44:13,000 --> 00:44:15,000
+[BARLEY]
+Oh no, here he comes.
+ໂອ້ ບໍ່, ລາວມາແລ້ວ.
+
+749
+00:44:15,500 --> 00:44:20,050
+[BARLEY]
+No no no, thanks Dad. Dad, thank you! I'm good! Stop!  Okay, okay!
+ບໍ່ ບໍ່ ບໍ່, ຂອບໃຈພໍ່. ພໍ່, ຂໍຂອບໃຈ! ຂ້ອຍດີ! ຢຸດເຊົາ! ດີ, ດີ!
+
+750
+00:44:20,550 --> 00:44:25,100
+[IAN]
+Oh! No, no, no. No, no, no! I'm not really a big dancer--
+ໂອ້! ບໍ່ແມ່ນ, ບໍ່, ບໍ່. ບໍ່, ບໍ່ມີ,
+ບໍ່! ຂ້ອຍບໍ່ແມ່ນນັກເຕັ້ນທີ່ໃຫຍ່ແທ້ໆ -
+
+751
+00:44:25,600 --> 00:44:29,450
+[IAN]
+Just imagine what the top half of this dance looks like.
+ພຽງແຕ່ຄິດວ່າເຄິ່ງເທິງຂອງການເຕັ້ນນີ້ເບິ່ງຄືແນວໃດ.
+
+752
+00:44:29,950 --> 00:44:32,400
+[BARLEY]
+I bet it goes something like this!
+ຂ້ອຍແນ່ໃຈວ່າມັນໄປແບບນີ້!
+
+753
+00:44:32,900 --> 00:44:35,700
+[BARLEY]
+Oh, you danced your shoelaces loose there, Pop.
+ໂອ້, ເຈົ້າໄດ້ເຕັ້ນສາຍເກີບຂອງທ່ານວ່າງຢູ່ບ່ອນນັ້ນ, ພໍ່.
+
+754
+00:44:36,200 --> 00:44:39,000
+[BARLEY]
+You know, I want to see him, too.
+ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍຢາກເຫັນລາວເຊັ່ນກັນ.
+
+755
+00:44:39,500 --> 00:44:41,500
+[IAN]
+Yeah... I know.
+ແມ່ນແລ້ວ... ຂ້ອຍຮູ້ແລ້ວ.
+
+756
+00:44:42,000 --> 00:44:48,000
+[BARLEY]
+It's not fair for you to call me a screwup if you don't give me a chance to get something right. Just do one thing my way.
+ມັນບໍ່ຍຸຕິທໍາ ສໍາ ລັບເຈົ້າທີ່ຈະເອີ້ນຂ້ອຍວ່າເປັນຄົນສໍ້ໂກງຖ້າເຈົ້າບໍ່ໃຫ້ຂ້ອຍໂອກາດທີ່ຈະເຮັດບາງສິ່ງບາງຢ່າງຢ່າງຢ່າງຖືກຕ້ອງ
+. ພຽງແຕ່ເຮັດສິ່ງດຽວຕາມວິທີຂອງຂ້ອຍ.
+
+757
+00:44:48,500 --> 00:44:54,100
+[IAN]
+You really think this "Path of Peril" is the best way to go to the mountain?
+ເຈົ້າຄິດວ່າ"ເສັ້ນທາງອັນຕະລາຍ"
+ນີ້ແມ່ນວິທີທີ່ດີທີ່ສຸດທີ່ຈະໄປຫາພູບໍ?
+
+758
+00:44:54,600 --> 00:44:56,600
+[IAN]
+Okay.
+ດີແລ້ວ.
+
+759
+00:44:57,100 --> 00:44:59,550
+[LAUREL]
+Uh, so where is your magic sword?
+ໂອ້, ສະນັ້ນກະທູ້ຊະຍາກອນຂອງທ່ານຢູ່ໃສ?
+
+760
+00:45:00,050 --> 00:45:02,050
+[MANTICORE]
+It lies beyond those gates.
+ມັນຢູ່ພາຍນອກປະຕູນັ້ນ.
+
+761
+00:45:02,550 --> 00:45:06,750
+[MANTICORE]
+If we don't leave here with the sword, your boys are doomed.
+ຖ້າພວກເຮົາບໍ່ອອກຈາກບ່ອນນີ້ດ້ວຍກະທູ້
+, ເດັກຊາຍຂອງທ່ານຖືກຕັດສິນລົງໂທດ.
+
+762
+00:45:07,250 --> 00:45:09,350
+[GRECKLIN]
+There you are, one garlic crusher.
+ເຈົ້າຢູ່ບ່ອນນັ້ນ, ເຄື່ອງຕັດກ້ວຍດຽວ.
+
+763
+00:45:09,850 --> 00:45:12,650
+[MANTICORE]
+No, Curse Crusher. It's a large magical sword.
+ບໍ່, ເຄື່ອງທໍາລາຍຄໍາຊົ່ວຮ້າຍ. ມັນແມ່ນກະທູ້ຊະຍາກອນໃຫຍ່.
+
+764
+00:45:13,150 --> 00:45:15,150
+[GRECKLIN]
+Sword, sword, sword...
+ກະທູ້, ກະຕູ້,ກະທູ້...
+
+765
+00:45:15,650 --> 00:45:17,750
+[GRECKLIN]
+I mean, I got this thing.
+ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍມີສິ່ງນີ້.
+
+766
+00:45:18,250 --> 00:45:20,250
+[MANTICORE]
+That's it!
+ນັ້ນແມ່ນມັນ!
+
+767
+00:45:20,750 --> 00:45:22,750
+[LAUREL]
+How much?
+ຫຼາຍປານໃດ?
+
+768
+00:45:23,250 --> 00:45:25,250
+[GRECKLIN]
+Let's call it, uh... ten.
+ພວກເຮົາຈະເອີ້ນມັນວ່າ, ອູ... ສິບ.
+
+769
+00:45:25,750 --> 00:45:27,750
+[LAUREL]
+Great!
+ດີເລີດ!
+
+770
+00:45:28,250 --> 00:45:34,250
+[MANTICORE]
+Forged of the rarest metals, the only sword of its kind in all the land. Hello, old friend. We shall never part again.
+ຖືກປອມຈາກໂລຫະທີ່ຫາຍາກທີ່ສຸດ, ກະທູ້ດຽວໃນປະເພດຂອງມັນໃນທົ່ວປະເທດ
+. ສະບາຍດີ, ເພື່ອນເກົ່າ. ພວກເຮົາຈະບໍ່ແຍກກັນອີກເທື່ອຫນຶ່ງ.
+
+771
+00:45:34,750 --> 00:45:40,750
+[GRECKLIN]
+Oops.  Turns out this sword is the only sword of its kind in all the land. So, let's call it ten... thousand.
+ໂອ້. ປາກົດວ່າກະທູ້ນີ້ແມ່ນກະຕູ້ດຽວໃນປະເພດຂອງມັນໃນທົ່ວປະເທດ
+. ສະນັ້ນ, ພວກເຮົາຈະເອີ້ນມັນວ່າສິບ... ພັນ.
+
+772
+00:45:41,250 --> 00:45:43,250
+[LAUREL]
+You can't do that!
+ເຈົ້າບໍ່ສາມາດເຮັດແບບນັ້ນໄດ້!
+
+773
+00:45:43,750 --> 00:45:45,750
+[GRECKLIN]
+Well, I just did.
+ດີ, ຂ້ອຍຫາກໍ່ເຮັດແລ້ວ.
+
+774
+00:45:46,250 --> 00:45:48,250
+[LAUREL]
+Well you had better--
+ດີກວ່າເຈົ້າຈະ...
+
+775
+00:45:48,750 --> 00:45:50,750
+[LAUREL]
+Yeah.
+ແມ່ນແລ້ວ.
+
+776
+00:45:51,250 --> 00:45:57,200
+[COLT]
+Hey, I talked to some other officers and they said the boys were last seen going north.
+ເຮ້,
+ຂ້ອຍໄດ້ເວົ້າກັບເຈົ້າຫນ້າທີ່ຄົນອື່ນແລະພວກເຂົາເວົ້າວ່າເດັກຊາຍໄດ້ຖືກເຫັນຄັ້ງສຸດທ້າຍໄປທາງທິດເຫນືອ.
+
+777
+00:45:57,700 --> 00:45:59,700
+[LAUREL]
+Are they okay?
+ພວກເຂົາບໍ່ເປັນຫຍັງບໍ?
+
+778
+00:46:00,200 --> 00:46:05,450
+[COLT]
+They're fine, but the officers said, well... honey, this night keeps getting stranger and stranger.
+ພວກເຂົາບໍ່ເປັນຫຍັງ, ແຕ່ເຈົ້າຫນ້າທີ່ເວົ້າວ່າ, ດີ
+... ແມ, ຄືນນີ້ສືບຕໍ່ກາຍເປັນແປກແລະແປກກວ່າເກົ່າ.
+
+779
+00:46:05,950 --> 00:46:08,050
+[MANTICORE]
+Do you know who I am?
+ເຈົ້າຮູ້ວ່າຂ້ອຍເປັນໃຜບໍ?
+
+780
+00:46:08,550 --> 00:46:10,650
+[GRECKLIN]
+Some kind of winged bear-snake lady?
+ແມ່ຍິງຫມາແມວທີ່ມີກະຕ່າບາງຢ່າງບໍ?
+
+781
+00:46:11,150 --> 00:46:13,150
+[MANTICORE]
+Winged lion-scorpion lady!
+ແມ່ຍິງກະຕ່າຊ້າງທີ່ມີປີກ!
+
+782
+00:46:13,650 --> 00:46:15,650
+[LAUREL]
+It sure does.
+ມັນແນ່ນອນ.
+
+783
+00:46:16,150 --> 00:46:22,150
+[LAUREL]
+Listen, I need that sword. My sons have a once-in-a-lifetime chance to see their father. Now, my oldest son--
+ຟັງ, ຂ້ອຍຕ້ອງການກະທູ້ນັ້ນ. ລູກຊາຍຂອງຂ້ອຍມີໂອກາດຄັ້ງດຽວໃນຊີວິດທີ່ຈະເຫັນພໍ່ຂອງພວກເຂົາ
+. ດຽວນີ້, ລູກຊາຍໃຫຍ່ຂອງຂ້ອຍ -
+
+784
+00:46:22,650 --> 00:46:24,750
+[MANTICORE]
+It's okay! She's only temporarily paralyzed.
+ມັນບໍ່ເປັນຫຍັງ! ນາງພຽງແຕ່ໂຊກຮ້າຍຊົ່ວຄາວເທົ່ານັ້ນ.
+
+785
+00:46:25,250 --> 00:46:27,250
+[GRECKLIN]
+HEY! You can't do this!
+ເຮ້! ເຈົ້າບໍ່ສາມາດເຮັດແບບນີ້ໄດ້!
+
+786
+00:46:27,750 --> 00:46:29,750
+[MANTICORE]
+Well, I just did.
+ດີ, ຂ້ອຍຫາກໍ່ເຮັດແລ້ວ.
+
+787
+00:46:30,250 --> 00:46:32,250
+[LAUREL]
+Grab the sword!
+ຈັບກະທູ້!
+
+788
+00:46:32,750 --> 00:46:34,750
+[GRECKLIN]
+Don't you touch that!
+ຢ່າຈັບສິ່ງນັ້ນ!
+
+789
+00:46:35,250 --> 00:46:41,250
+[LAUREL]
+Here you go. And a little something extra for your trouble.  I love your store! Oh, that's so pretty.
+ມາແລ້ວ. ແລະບາງສິ່ງບາງຢ່າງເພີ່ມເຕີມ ສໍາ ລັບຄວາມຫຍຸ້ງຍາກຂອງທ່ານ
+. ຂ້ອຍຮັກຮ້ານຄ້າຂອງທ່ານ! ໂອ້, ນັ້ນແມ່ນສວຍງາມຫຼາຍ.
+
+790
+00:46:41,750 --> 00:46:43,750
+[GRECKLIN]
+Hey! HEY!
+ເຮ້ ເຮ້!
+
+791
+00:46:44,250 --> 00:46:46,250
+[MANTICORE]
+Ohhh yeah!
+ໂອ້ ແມ່ນແລ້ວ!
+
+792
+00:46:46,750 --> 00:46:48,750
+[COLT]
+Laurel?! What's happening?!
+ໂລເຣລ?! ເກີດຫຍັງຂຶ້ນບໍ?!
+
+793
+00:46:49,250 --> 00:46:51,250
+[COLT]
+Hello? Are you alright?! Laurel!
+ສະບາຍດີ? ເຈົ້າບໍ່ເປັນຫຍັງບໍ?! ໂລເຣລ!
+
+794
+00:46:51,750 --> 00:46:54,900
+[LAUREL]
+Oh Colt, I can't talk! The boys need me!
+ໂອ້ ຄໍລຕ໌, ຂ້ອຍບໍ່ສາມາດເວົ້າໄດ້! ເດັກຊາຍຕ້ອງການຂ້ອຍ!
+
+795
+00:46:55,400 --> 00:46:57,400
+[COLT]
+Wait! Dang those kids.
+ລໍຖ້າ! ໂຊກຮ້າຍພວກເດັກນ້ອຍນັ້ນ.
+
+796
+00:46:57,900 --> 00:47:03,900
+[BARLEY]
+We're heading on our quest, our father we must retrieve, the Lightfoot Brothers can't be stopped... something, something that rhymes with retrieved!
+ພວກເຮົາ ກໍາ ລັງໄປສູ່ການຊອກຫາຂອງພວກເຮົາ, ພໍ່ຂອງພວກເຮົາພວກເຮົາຕ້ອງເອົາຄືນ, ອ້າຍນ້ອງ
+Lightfoot ບໍ່ສາມາດຢຸດໄດ້... ບາງສິ່ງບາງຢ່າງ, ບາງຢ່າງທີ່ສອດຄ່ອງກັບການເກັບຄືນ!
+
+797
+00:47:04,400 --> 00:47:06,400
+[IAN]
+Yeah, we're still here.
+ແມ່ນແລ້ວ, ພວກເຮົາຍັງຢູ່ບ່ອນນີ້.
+
+798
+00:47:06,900 --> 00:47:11,800
+[BARLEY]
+Well, good morning to thee, dear Lightfoot men! Welcome to the Path of Peril!
+ດີ, ສະບາຍດີເຈົ້າ, ຜູ້ຊາຍຕີນແສງສະຫວ່າງທີ່ຮັກແພງ
+! ຍິນດີຕ້ອນຮັບສູ່ເສັ້ນທາງອັນຕະລາຍ!
+
+799
+00:47:12,300 --> 00:47:14,400
+[IAN]
+It's not much of a path.
+ມັນບໍ່ແມ່ນເສັ້ນທາງທີ່ຍິ່ງໃຫຍ່.
+
+800
+00:47:14,900 --> 00:47:20,850
+[BARLEY]
+Well, you know, they never really developed around here. So heads up, we could run into anything.
+ດີ, ເຈົ້າຮູ້ແລ້ວ, ພວກເຂົາບໍ່ເຄີຍພັດທະນາຢູ່ບ່ອນນີ້ແທ້ໆ
+. ສະນັ້ນລະມັດລະວັງ, ພວກເຮົາສາມາດພົບກັບທຸກຢ່າງໄດ້.
+
+801
+00:47:21,350 --> 00:47:23,800
+[BARLEY]
+A centicore, a wolf dragon, gelatinous cube...
+ແຊນຕິໂກ, ດຣາກອນວູຟ, ກ້ອນເຈລາຕິນ...
+
+802
+00:47:24,300 --> 00:47:26,400
+[IAN]
+Okay, what is a gelatinous cube?
+ດີແລ້ວ, ກ້ອນເຈລາຕິນແມ່ນຫຍັງ?
+
+803
+00:47:26,900 --> 00:47:31,450
+[BARLEY]
+Oh, it's a giant green cube that instantly disintegrates all that it touches!
+ໂອ້, ມັນເປັນກ້ອນສີຂຽວທີ່ໃຫຍ່ຫຼວງທີ່ລະລາຍທຸກຢ່າງທີ່ມັນ
+ສໍາ ຜັດທັນທີ!
+
+804
+00:47:31,950 --> 00:47:34,400
+[IAN]
+We're not going to run into a--
+ພວກເຮົາຈະບໍ່ພົບກັບ...
+
+805
+00:47:34,900 --> 00:47:40,900
+[WHOA, STOP!!]
+Barley SLAMS on the brakes. The van comes to a screeching halt at the edge of a chasm.
+Barley SLAMS ກ່ຽວກັບບຣັກ.
+ລົດບັນທຸກມາເຖິງການຢຸດເຊົາທີ່ຮ້ອງໄຫ້ຢູ່ແຄມຂອງຮ່ອງຮອຍ.
+
+806
+00:47:41,400 --> 00:47:43,400
+[IAN]
+What is this?
+ນີ້ແມ່ນຫຍັງ?
+
+807
+00:47:43,900 --> 00:47:46,700
+[BARLEY]
+Bottomless pit. Whatever falls in there, falls forever.
+ຂຸມທີ່ບໍ່ມີລຸ່ມ. ສິ່ງໃດທີ່ຕົກລົງໃນນັ້ນ, ຕົກລົງຕະຫຼອດໄປ.
+
+808
+00:47:47,200 --> 00:47:49,200
+[IAN]
+Whoa, Dad, come here.
+ໂວ້, ພໍ່, ມາບ່ອນນີ້.
+
+809
+00:47:49,700 --> 00:47:55,700
+[BARLEY]
+Ian, check it out. This is an ancient drawbridge! We lower that bad boy and we are on our way to Raven's Point. Look around for a lever.
+ອີອານ, ເບິ່ງມັນແມ. ນີ້ແມ່ນຂົວດຶງບູຮານ! ພວກເຮົາຫຼຸດເດັກຊາຍທີ່ບໍ່ດີນັ້ນລົງແລະພວກເຮົາ
+ກໍາ ລັງເດີນທາງໄປຫາຈຸດຂອງຣາວນ໌. ເບິ່ງຢູ່ອ້ອມຂ້າງເພື່ອປຸ່ມປຸ່ມ.
+
+810
+00:47:56,200 --> 00:47:59,000
+[IAN]
+Found it! But, it's on the other side.
+ພົບມັນ! ແຕ່, ມັນຢູ່ທາງອື່ນ.
+
+811
+00:47:59,500 --> 00:48:01,600
+[IAN]
+Okay, I got this. Aloft Elevar.
+ດີແລ້ວ, ຂ້ອຍຮັບສິ່ງນີ້. ອາໂລຟຕ໌ ເອເລເວີ.
+
+812
+00:48:02,100 --> 00:48:08,100
+[BARLEY]
+You can't cast a levitation spell on something that far away! It only has like a 15-meter enchanting radius.  Dad, can you believe this guy?  What we need is a Trust Bridge. It's a spell that creates a magical bridge you can walk on. Just say "Bridgrigar Invisia."
+ເຈົ້າບໍ່ສາມາດຖິ້ມຊະຍາກອນ levitation ໃສ່ບາງສິ່ງບາງຢ່າງທີ່ຢູ່ຫ່າງໄກປານໃດ! ມັນພຽງແຕ່ມີປະມານ 15 ແມັດວົງຈອນທີ່ສວຍງາມ. ພໍ່, ເຈົ້າເຊື່ອຄົນນີ້ໄດ້ບໍ
+? ສິ່ງທີ່ພວກເຮົາຕ້ອງການແມ່ນຂົວຄວາມໄວ້ວາງໃຈ. ມັນແມ່ນຊະຍາທີ່ສ້າງຂົວທີ່ຊົມເຊີຍທີ່ທ່ານສາມາດຍ່າງໄດ້. ພຽງແຕ່ເວົ້າວ່າ"Bridgrigar Invisia".
+
+813
+00:48:08,600 --> 00:48:10,600
+[IAN]
+Okay...
+ດີແລ້ວ...
+
+814
+00:48:11,100 --> 00:48:13,100
+[IAN]
+Bridgrigar Invisia.
+ບຣີດຈີເກີ ອິນວີຊີຍ.
+
+815
+00:48:13,600 --> 00:48:15,600
+[IAN]
+It didn't work.
+ມັນບໍ່ໄດ້ເຮັດວຽກ.
+
+816
+00:48:16,100 --> 00:48:22,050
+[BARLEY]
+No, the spell's still going. You won't know if your bridge worked until you step on it.
+ບໍ່, ການຊະຍາກອນຍັງ ດໍາ ເນີນຢູ່.
+ເຈົ້າຈະບໍ່ຮູ້ວ່າຂົວຂອງທ່ານເຮັດວຽກຫຼືບໍ່ຈົນກວ່າເຈົ້າຈະຍ່າງຢູ່ເທິງມັນ.
+
+817
+00:48:22,550 --> 00:48:24,550
+[IAN]
+Step on what?
+ຍ່າງຢູ່ໃສ?
+
+818
+00:48:25,050 --> 00:48:28,550
+[BARLEY]
+If you believe the bridge is there, then it's there.
+ຖ້າເຈົ້າເຊື່ອວ່າຂົວຢູ່ບ່ອນນັ້ນ, ຫຼັງຈາກນັ້ນມັນຢູ່ບ່ອນນີ້.
+
+819
+00:48:29,050 --> 00:48:31,050
+[IAN]
+But it's not.
+ແຕ່ມັນບໍ່ແມ່ນ.
+
+820
+00:48:31,550 --> 00:48:33,550
+[BARLEY]
+Well, not with that attitude.
+ດີ, ບໍ່ແມ່ນດ້ວຍທັດສະນະແບບນັ້ນ.
+
+821
+00:48:34,050 --> 00:48:36,850
+[IAN]
+I'm not going to step out onto nothing!
+ຂ້ອຍຈະບໍ່ອອກໄປເທິງຫຍັງເລີຍ!
+
+822
+00:48:37,350 --> 00:48:42,250
+[BARLEY]
+Now we've got a rope. But you're not even going to need it because--
+ດຽວນີ້ພວກເຮົາມີສາຍແອວ. ແຕ່ເຈົ້າຈະບໍ່ຕ້ອງການມັນເລີຍເພາະວ່າ -
+
+823
+00:48:42,750 --> 00:48:48,750
+[BARLEY]
+Okay, I'm just saying, you're not gonna need the rope because I know you can make that bridge.
+ດີ, ຂ້ອຍພຽງແຕ່ເວົ້າວ່າ,
+ເຈົ້າຈະບໍ່ຕ້ອງການສາຍແອວເພາະວ່າຂ້ອຍຮູ້ວ່າເຈົ້າສາມາດເຮັດຂົວນັ້ນໄດ້.
+
+824
+00:48:49,250 --> 00:48:51,250
+[IAN]
+Agh!
+ໂອ້!
+
+825
+00:48:51,750 --> 00:48:57,000
+[IAN]
+I'm dying, I'm dying! I'm dead! I'm dead! I'm dead! Oh, my life is over!
+ຂ້ອຍກໍາລັງຕາຍ, ຂ້ອຍ ກໍາ ລັງຕາຍ! ຂ້ອຍເສຍຊີວິດແລ້ວ!
+ຂ້ອຍຕາຍແລ້ວ! ຂ້າຕາຍແລ້ວ. ໂອ້, ຊີວິດຂອງຂ້ອຍຫມົດແລ້ວ!
+
+826
+00:48:57,500 --> 00:48:59,500
+[BARLEY]
+I've got you!
+ຂ້ອຍຈັບເຈົ້າແລ້ວ!
+
+827
+00:49:00,000 --> 00:49:02,800
+[BARLEY]
+Okay, you fell. But was that so bad?
+ດີແລ້ວ, ເຈົ້າຕົກລົງ. ແຕ່ມັນຮ້າຍແຮງຫຼາຍບໍ?
+
+828
+00:49:03,300 --> 00:49:05,300
+[BARLEY]
+Are you still alive?
+ເຈົ້າຍັງມີຊີວິດຢູ່ບໍ?
+
+829
+00:49:05,800 --> 00:49:07,800
+[IAN]
+Yes.
+ແມ່ນແລ້ວ.
+
+830
+00:49:08,300 --> 00:49:14,300
+[BARLEY]
+Okay, so now you know the worst that can happen. So there's nothing to be scared of, right?
+ດີແລ້ວ, ສະນັ້ນດຽວນີ້ເຈົ້າຮູ້ສິ່ງທີ່ຮ້າຍແຮງທີ່ສຸດທີ່ສາມາດເກີດຂຶ້ນໄດ້
+. ສະນັ້ນບໍ່ມີຫຍັງຕ້ອງຢ້ານກົວ, ແມ່ນບໍ?
+
+831
+00:49:14,800 --> 00:49:16,800
+[IAN]
+Bridgrigar Invisia!
+ບຣີດຈີເກີ ອິນວີຊີຍ!
+
+832
+00:49:17,300 --> 00:49:19,300
+[BARLEY]
+Hey. You can do this.
+ເຮ້. ເຈົ້າສາມາດເຮັດໄດ້.
+
+833
+00:49:19,800 --> 00:49:21,800
+[BARLEY]
+Ha-ha!
+Ha-ha!
+
+834
+00:49:22,300 --> 00:49:24,300
+[IAN]
+Yeah!
+ແມ່ນແລ້ວ!
+
+835
+00:49:24,800 --> 00:49:30,800
+[THERE YOU GO!]
+Ian stands there for a moment, one-legged, then plants his other foot. But this foot doesn't land on anything.
+ແອນຢືນຢູ່ບ່ອນນັ້ນຊົ່ວຄາວຫນຶ່ງ, ມີຕີນດຽວ,
+ຫຼັງຈາກນັ້ນປູກຕີນອີກຫນຶ່ງຂອງລາວ. ແຕ່ຕີນນີ້ບໍ່ໄດ້ລົງເທິງຫຍັງເລີຍ.
+
+836
+00:49:31,300 --> 00:49:33,300
+[BARLEY]
+Believe with every step!
+ເຊື່ອທຸກບາດກ້າວ!
+
+837
+00:49:33,800 --> 00:49:35,800
+[BARLEY]
+Oh yeah!
+ໂອ້ ແມ່ນແລ້ວ!
+
+838
+00:49:36,300 --> 00:49:38,300
+[IAN]
+You've got me, right?
+ເຈົ້າຈັບຂ້ອຍແລ້ວ, ແມ່ນບໍ?
+
+839
+00:49:38,800 --> 00:49:41,950
+[BARLEY]
+I still got you! WOOHOO! Ian Lightfoot is FEARLESS!
+ຂ້ອຍຍັງຈັບເຈົ້າຢູ່! WOOHOO! Ian Lightfoot ແມ່ນບໍ່ມີຄວາມຢ້ານກົວ!
+
+840
+00:49:42,450 --> 00:49:44,450
+[IAN]
+This is amazing!
+ນີ້ແມ່ນຫນ້າປະທັບໃຈ!
+
+841
+00:49:44,950 --> 00:49:48,800
+[BARLEY]
+Yeah, but just keep going! Don't look back! Just straight ahead!
+ແມ່ນແລ້ວ, ແຕ່ພຽງແຕ່ສືບຕໍ່ໄປ! ຢ່າເບິ່ງຫຼັງ! ພຽງແຕ່ກົງໄປຂ້າງຫນ້າ!
+
+842
+00:49:49,300 --> 00:49:51,400
+[IAN]
+You've still got the rope, right?
+ເຈົ້າຍັງມີສາຍແອວຢູ່, ແມ່ນບໍ?
+
+843
+00:49:51,900 --> 00:49:55,050
+[I AM NOT AFRAID!]
+Oh man, I could stay out here all day!
+ໂອ້ ຜູ້ຊາຍ, ຂ້ອຍສາມາດຢູ່ຢູ່ນີ້ຕະຫຼອດມື້!
+
+844
+00:49:55,550 --> 00:49:58,350
+[SEE DAD, REMEMBER?!]
+Ian approaches the other side of the chasm.
+ແອນ ໃກ້ຊິດກັບທາງອື່ນຂອງຮ່ອງຮອຍ.
+
+845
+00:49:58,850 --> 00:50:00,850
+[BARLEY]
+Ha-ha! He did it, Dad!
+ຮາຮາ! ລາວເຮັດໄດ້, ພໍ່!
+
+846
+00:50:01,350 --> 00:50:03,350
+[BARLEY]
+That was amazing!
+ນັ້ນແມ່ນຫນ້າປະທັບໃຈ!
+
+847
+00:50:03,850 --> 00:50:05,950
+[IAN]
+How long... was the rope gone?
+ສາຍແອວຫາຍໄປດົນປານໃດ?
+
+848
+00:50:06,450 --> 00:50:09,250
+[BARLEY]
+Oh, just like the second half of it.
+ໂອ້, ຄືກັບເຄິ່ງທີສອງຂອງມັນ.
+
+849
+00:50:09,750 --> 00:50:11,750
+[IAN]
+I needed that rope!
+ຂ້ອຍຕ້ອງການສາຍນັ້ນ!
+
+850
+00:50:12,250 --> 00:50:14,250
+[BARLEY]
+Oh, but did you?
+ໂອ້, ແຕ່ເຈົ້າເຮັດບໍ?
+
+851
+00:50:14,750 --> 00:50:16,750
+[BARLEY]
+Ian! Look.
+ແອນ! ເບິ່ງແມ.
+
+852
+00:50:17,250 --> 00:50:19,250
+[BARLEY]
+It's a raven.
+ມັນເປັນກະຕ່າ.
+
+853
+00:50:19,750 --> 00:50:22,550
+[BARLEY]
+The clue on the menu said Raven's Point...
+ຂໍ້ແນະນໍາໃນເມນູເວົ້າວ່າ ຈຸດຂອງຣາວນ໌...
+
+854
+00:50:23,050 --> 00:50:25,050
+[IAN]
+Yeah. In the mountains.
+ແມ່ນແລ້ວ. ໃນພູເຂົາ.
+
+855
+00:50:25,550 --> 00:50:31,500
+[BARLEY]
+But maybe the puzzle didn't mean the mountain. Maybe it means "follow where the raven is pointing!"
+ແຕ່ບາງທີກະຕຸ້ນບໍ່ໄດ້ ຫມາຍ ຄວາມວ່າພູເຂົາ. ບາງທີມັນ
+ຫມາຍຄວາມວ່າ"ຕິດຕາມບ່ອນທີ່ກະຕ່າ ກໍາ ລັງຊີ້ໃຫ້ເຫັນ!"
+
+856
+00:50:32,000 --> 00:50:38,000
+[BARLEY]
+Ha-ha! It's another raven! That one could be pointing to another raven, all the way to the gem!
+Ha-ha! ມັນເປັນກະຕ່າອີກຄົນຫນຶ່ງ!
+ຄົນນັ້ນອາດຈະຊີ້ໃຫ້ເຫັນກະຕູ້ອີກຄົນ ຫນຶ່ງ, ຕະຫຼອດທາງໄປຫາເພັດ!
+
+857
+00:50:38,500 --> 00:50:40,950
+[IAN]
+I had us going the wrong way.
+ຂ້ອຍເຮັດໃຫ້ພວກເຮົາໄປທາງທີ່ບໍ່ຖືກຕ້ອງ.
+
+858
+00:50:41,450 --> 00:50:47,050
+[BARLEY]
+Well, I told ya. My gut knows where to go.  Don't ya, boy? Yes you do!
+ດີ, ຂ້ອຍບອກເຈົ້າແລ້ວ. ຄວາມຮູ້ສຶກຂອງຂ້ອຍຮູ້ວ່າຈະໄປໃສ
+. ເຈົ້າບໍ່, ເດັກຊາຍ? ແມ່ນແລ້ວເຈົ້າເຮັດ!
+
+859
+00:50:47,550 --> 00:50:52,100
+[BARLEY]
+Come on, Dad! Guinevere will get us to that raven in no time.
+ມາແລ້ວ, ພໍ່! ກີເນເວີຈະພາພວກເຮົາໄປຫາກະຕ່ານັ້ນໃນເວລາບໍ່ເທົ່າໃດ.
+
+860
+00:50:52,600 --> 00:50:55,050
+[COLT]
+You guys are in trouble, big time!
+ພວກເຈົ້າຢູ່ໃນຄວາມຫຍຸ້ງຍາກ, ເວລາໃຫຍ່!
+
+861
+00:50:55,550 --> 00:51:01,550
+[BARLEY]
+No, no, no, Colt, we found a spell. If we finish it before sunset, we'll get to see our father.
+ບໍ່, ບໍ່ມີ, ບໍ່, ຄໍລຕ໌, ພວກເຮົາພົບຄໍາຊະຍາກອນ.
+ຖ້າພວກເຮົາສິ້ນສຸດມັນກ່ອນຕາເວັນຕົກ, ພວກເຮົາຈະເຫັນພໍ່ຂອງພວກເຮົາ.
+
+862
+00:51:02,050 --> 00:51:08,050
+[COLT]
+Well, uh, your mom told me there was some kind of strange family issue going on and this is... definitely strange.  But no, dang it. I'm not letting you upset your mother anymore! Now, you get in the vehicle, I'm escorting you home.
+ດີ, ໂອ້, ແມ່ຂອງເຈົ້າບອກຂ້ອຍວ່າມີບັນຫາຄອບຄົວທີ່ແປກໃຈບາງຢ່າງ ກໍາ ລັງເກີດຂຶ້ນແລະສິ່ງນີ້ແມ່ນ... ແປກໃຈແນ່ນອນ. ແຕ່ບໍ່,
+ສະບາຍດີ. ຂ້ອຍຈະບໍ່ປ່ອຍໃຫ້ເຈົ້າເຮັດໃຫ້ແມ່ຂອງເຈົ້າໂຊກຮ້າຍອີກຕໍ່ໄປ! ດຽວນີ້, ເຈົ້າຂຶ້ນລົດ, ຂ້ອຍ ກໍາ ລັງພາເຈົ້າກັບບ້ານ.
+
+863
+00:51:08,550 --> 00:51:10,550
+[BARLEY]
+No, no way!
+ບໍ່, ບໍ່ເປັນໄປເລີຍ!
+
+864
+00:51:11,050 --> 00:51:13,850
+[COLT]
+I'm giving you to the count of three.
+ຂ້ອຍ ກໍາ ລັງໃຫ້ເຈົ້າໃຫ້ຄິດເປັນສາມ.
+
+865
+00:51:14,350 --> 00:51:16,350
+[IAN]
+Okay. We'll go.
+ດີແລ້ວ. ພວກເຮົາຈະໄປ.
+
+866
+00:51:16,850 --> 00:51:18,850
+[BARLEY]
+Ian--
+ແອນ...
+
+867
+00:51:19,350 --> 00:51:21,350
+[IAN]
+He's a police officer.
+ລາວເປັນຕໍາຫຼວດ.
+
+868
+00:51:21,850 --> 00:51:23,850
+[BARLEY]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+869
+00:51:24,350 --> 00:51:26,350
+[IAN]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+870
+00:51:26,850 --> 00:51:28,850
+[COLT]
+Son of a--
+ລູກຊາຍຂອງ...
+
+871
+00:51:29,350 --> 00:51:31,350
+[COLT]
+I need backup. Runaway van!
+ຂ້ອຍຕ້ອງການການຊ່ວຍເຫຼືອ. ລົດບັນທຸກທີ່ຫນີໄປ!
+
+872
+00:51:31,850 --> 00:51:34,300
+[BARLEY]
+Ha-ha, YEAH! Iandore Lightfoot, breaking the rules!
+Ha-ha, ແມ່ນແລ້ວ! Iandore Lightfoot, ລະເມີດກົດລະບຽບ!
+
+873
+00:51:34,800 --> 00:51:37,600
+[IAN]
+I can't believe I'm running from the cops!
+ຂ້ອຍບໍ່ເຊື່ອວ່າຂ້ອຍ ກໍາ ລັງຫນີຈາກຕໍາຫຼວດ!
+
+874
+00:51:38,100 --> 00:51:42,300
+[BARLEY]
+You're not running from the cops, you're running from our mom's boyfriend.
+ເຈົ້າບໍ່ໄດ້ຫນີຈາກຕໍາຫຼວດ, ເຈົ້າກໍາລັງຫນີຈາກແຟນຂອງແມ່ຂອງພວກເຮົາ.
+
+875
+00:51:42,800 --> 00:51:45,250
+[BARLEY]
+Okay, now you're running from the cops.
+ດີແລ້ວ, ດຽວນີ້ເຈົ້າ ກໍາ ລັງຫນີຈາກຕໍາຫຼວດ.
+
+876
+00:51:45,750 --> 00:51:47,750
+[IAN]
+Hold on!
+ລໍຖ້າ!
+
+877
+00:51:48,250 --> 00:51:50,250
+[IAN]
+Yeah! Nice going, Guinevere! Woohoo!
+ແມ່ນແລ້ວ! ໄປດີ, ກີນເວີ! ໂວຮູ!
+
+878
+00:51:50,750 --> 00:51:54,250
+[IAN]
+Oh, what did I do?! I shouldn't have driven away--
+ໂອ້, ຂ້ອຍເຮັດຫຍັງບໍ?! ຂ້ອຍບໍ່ຄວນຂັບລົດໄປ -
+
+879
+00:51:54,750 --> 00:51:56,750
+[BARLEY]
+No, it was great!
+ບໍ່, ມັນດີເລີດ!
+
+880
+00:51:57,250 --> 00:51:59,700
+[BARLEY]
+Hey! Block the road with those boulders!
+ເຮ້! ປິດທາງດ້ວຍຫີນເຫຼົ່ານັ້ນ!
+
+881
+00:52:00,200 --> 00:52:02,200
+[IAN]
+What?! How?!
+ຫຍັງ?! ແນວໃດ?!
+
+882
+00:52:02,700 --> 00:52:04,700
+[BARLEY]
+Arcane Lightning.
+ແສງສະຫວ່າງ Arcane.
+
+883
+00:52:05,200 --> 00:52:07,300
+[IAN]
+You said that's the hardest spell.
+ເຈົ້າບອກວ່ານັ້ນແມ່ນຄໍາຊະຍາກອນທີ່ຍາກທີ່ສຸດ.
+
+884
+00:52:07,800 --> 00:52:09,800
+[BARLEY]
+You're ready.
+ເຈົ້າພ້ອມແລ້ວ.
+
+885
+00:52:10,300 --> 00:52:16,300
+[BARLEY]
+"To make lightning strike with ease, one must follow all decrees."  You have to do everything. Speak from your heart's fire, trust yourself, focus, all of it!
+ເພື່ອເຮັດໃຫ້ແສງສະຫວ່າງຕີຢ່າງງ່າຍດາຍ, ຄົນຕ້ອງປະຕິບັດຕາມຂໍ້ຕົກລົງທັງ ຫມົດ.
+ເຈົ້າຕ້ອງເຮັດທຸກຢ່າງ. ເວົ້າຈາກໄຟຂອງຫົວໃຈຂອງທ່ານ, ເຊື່ອຫມັ້ນຕົວເອງ, ສຸມໃສ່, ທັງ ຫມົດ!
+
+886
+00:52:16,800 --> 00:52:18,800
+[IAN]
+Voltar Thundasir.
+ໂວລຕາ ທຸນດາຊີ.
+
+887
+00:52:19,300 --> 00:52:21,300
+[IAN]
+Voltar Thundasir.
+ໂວລຕາ ທຸນດາຊີ.
+
+888
+00:52:21,800 --> 00:52:23,800
+[IAN]
+Voltar Thundasir.
+ໂວລຕາ ທຸນດາຊີ.
+
+889
+00:52:24,300 --> 00:52:26,400
+[IAN]
+I can't, I can't do it!
+ຂ້ອຍບໍ່ສາມາດ, ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້!
+
+890
+00:52:26,900 --> 00:52:30,750
+[IAN]
+We're not gonna see you, Dad. And it's all my fault.
+ພວກເຮົາຈະບໍ່ເຫັນເຈົ້າ, ພໍ່. ແລະມັນທັງ ຫມົດ ແມ່ນຄວາມຜິດຂອງຂ້ອຍ.
+
+891
+00:52:31,250 --> 00:52:33,250
+[IAN]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+892
+00:52:33,750 --> 00:52:35,750
+[COLT]
+What the--
+ຫຍັງ...
+
+893
+00:52:36,250 --> 00:52:38,250
+[IAN]
+Barley...
+ບາລີ...
+
+894
+00:52:38,750 --> 00:52:43,300
+[BARLEY]
+She was just a beat up old van. Come on, we gotta go.
+ນາງພຽງແຕ່ເປັນລົດບັນທຸກເກົ່າທີ່ຖືກຕີ. ມາແລ້ວ, ພວກເຮົາຕ້ອງໄປ.
+
+895
+00:52:43,800 --> 00:52:45,800
+[IAN]
+Wait.
+ລໍຖ້າ.
+
+896
+00:52:46,300 --> 00:52:49,800
+[BARLEY]
+You see that, Dad? The apprentice has become the master.
+ເຈົ້າເຫັນແລ້ວບໍ, ພໍ່? ນັກຮຽນໄດ້ກາຍເປັນຜູ້ສອນ.
+
+897
+00:52:50,300 --> 00:52:52,300
+[BARLEY]
+It looks like... water.
+ມັນເບິ່ງຄືວ່າ... ນ້ ໍາ.
+
+898
+00:52:52,800 --> 00:52:54,800
+[IAN]
+So what's the X mean?
+ສະນັ້ນ X ຫມາຍ ຄວາມວ່າແນວໃດ?
+
+899
+00:52:55,300 --> 00:53:01,300
+[BARLEY]
+On a quest, an X only means one thing. We go to the end of the water, we'll find that Phoenix Gem.
+ໃນການຊອກຫາ, X ຫມາຍ ຄວາມວ່າພຽງແຕ່ສິ່ງດຽວ.
+ພວກເຮົາໄປຮອດຕອນທ້າຍຂອງນ້ ໍາ, ພວກເຮົາຈະຊອກຫາ Gem Phoenix ນັ້ນ.
+
+900
+00:53:01,800 --> 00:53:03,800
+[IAN]
+AH! Ugh!
+ອາ! ໂອ້!
+
+901
+00:53:04,300 --> 00:53:06,300
+[BARLEY]
+Ugh!
+ໂອ້!
+
+902
+00:53:06,800 --> 00:53:08,800
+[IAN]
+Unicorns! Ugh!
+Unicorns! ໂອ້!
+
+903
+00:53:09,300 --> 00:53:11,300
+[BARLEY]
+Cool...
+ດີເລີດ...
+
+904
+00:53:11,800 --> 00:53:16,700
+[IAN]
+This water could go on for miles. We don't have that kind of time.
+ນ້ ໍາ ນີ້ສາມາດ ດໍາ ເນີນໄປໄດ້ຫຼາຍແມລ. ພວກເຮົາບໍ່ມີເວລານັ້ນ.
+
+905
+00:53:17,200 --> 00:53:23,200
+[BARLEY]
+If we had something to float on we could cast a velocity spell on it. Fly down the tunnel like a magic jet ski.
+ຖ້າພວກເຮົາມີບາງສິ່ງບາງຢ່າງທີ່ຈະລອຍຢູ່ເທິງພວກເຮົາສາມາດຖິ້ມຄໍາຊະຍາກອນຄວາມໄວໃສ່ມັນໄດ້
+. ບິນລົງທໍ່ຄືກັບສະກີເຮືອບິນວິທະຍາສາດ.
+
+906
+00:53:23,700 --> 00:53:25,800
+[IAN]
+There's not much to float on.
+ບໍ່ມີຫຍັງຫຼາຍທີ່ຈະລອຍຢູ່ເທິງ.
+
+907
+00:53:26,300 --> 00:53:30,150
+[BARLEY]
+Remember, on a quest you have to use what you've got.
+ຈື່ໄວ້ວ່າ, ໃນການຊອກຫາເຈົ້າຕ້ອງໃຊ້ສິ່ງທີ່ເຈົ້າມີ.
+
+908
+00:53:30,650 --> 00:53:32,650
+[IAN]
+Magnora Gantuan!
+Magnora Gantuan!
+
+909
+00:53:33,150 --> 00:53:35,150
+[IAN]
+Accelior!
+ເອັກເຊລີອໍ!
+
+910
+00:53:35,650 --> 00:53:39,850
+[IAN]
+This is actually kinda cool! So, what other spells do you know?
+ນີ້ແມ່ນເຢັນແທ້ໆ! ສະນັ້ນ, ເຈົ້າຮູ້ຊະຍາກອນອື່ນໆໃດ?
+
+911
+00:53:40,350 --> 00:53:45,950
+[BARLEY]
+Oh, brace yourself, young mage! I can show you all there is to know of magic!
+ໂອ້, ກຽມຕົວເອງ, ນັກຊະຍາກອນຫນຸ່ມ!
+ຂ້ອຍສາມາດສະແດງໃຫ້ເຈົ້າຮູ້ທຸກຢ່າງທີ່ຕ້ອງຮູ້ກ່ຽວກັບສັກກາຣ!
+
+912
+00:53:46,450 --> 00:53:52,450
+[LAUREL]
+Colt, we know where the boys are going, we just have to get to them before they unleash the curse!
+ຄໍລຕ໌, ພວກເຮົາຮູ້ວ່າພວກຊາຍຈະໄປໃສ,
+ພວກເຮົາພຽງແຕ່ຕ້ອງໄປຫາພວກເຂົາກ່ອນທີ່ພວກເຂົາຈະປ່ອຍຄໍາສາບານ!
+
+913
+00:53:52,950 --> 00:53:54,950
+[COLT]
+The what?
+ຫຍັງ?
+
+914
+00:53:55,450 --> 00:53:57,450
+[MANTICORE]
+Let's CRUSH some curses!
+ພວກເຮົາຈະທໍາລາຍຄໍາສາບານບາງຢ່າງ!
+
+915
+00:53:57,950 --> 00:54:03,550
+[LAUREL]
+The curse! The curse that protects the gem by turning into a rock dragon or something--
+ການໂຊກຮ້າຍ! ຄໍາ
+ສາບານທີ່ປົກປ້ອງເພັດໂດຍການກາຍເປັນດຣາກອນຫີນຫຼືບາງສິ່ງບາງຢ່າງ -
+
+916
+00:54:04,050 --> 00:54:06,050
+[COLT]
+A what dragon?!
+ດຣາກອນໃດ?!
+
+917
+00:54:06,550 --> 00:54:11,800
+[LAUREL]
+I can't explain it I just know we have to get to the boys, fast!
+ຂ້ອຍບໍ່ສາມາດອະທິບາຍມັນໄດ້
+ຂ້ອຍພຽງແຕ່ຮູ້ວ່າພວກເຮົາຕ້ອງໄປຫາເດັກຊາຍ, ໄວ!
+
+918
+00:54:12,300 --> 00:54:16,150
+[MANTICORE]
+Oh, we'll get them FAST, we'll get to them SO FAST!
+ໂອ້, ພວກເຮົາຈະເອົາພວກມັນໄວໆ, ພວກເຮົາຍັງໄປຫາພວກເຂົາໄວໆ!
+
+919
+00:54:16,650 --> 00:54:20,500
+[COLT]
+Well, I almost had them, but Ian, he just... drove off.
+ດີ, ຂ້ອຍເກືອບມີພວກມັນ, ແຕ່ໄອນ, ລາວພຽງແຕ່... ຂັບລົດໄປ.
+
+920
+00:54:21,000 --> 00:54:23,000
+[LAUREL]
+Huh? Good for him.
+ຮາ? ດີຕໍ່ລາວ.
+
+921
+00:54:23,500 --> 00:54:25,500
+[COLT]
+What?
+ຫຍັງ?
+
+922
+00:54:26,000 --> 00:54:31,950
+[LAUREL]
+No, I just mean... he's scared to drive. Thinks something's gonna come at him out of the--
+ບໍ່, ຂ້ອຍພຽງແຕ່ຫມາຍຄວາມວ່າ... ລາວຢ້ານທີ່ຈະຂັບລົດ
+. ຄິດວ່າບາງສິ່ງບາງຢ່າງຈະມາຫາລາວຈາກ -
+
+923
+00:54:32,450 --> 00:54:34,550
+[COLT]
+Laurel, what happened?! What's going on?
+ໂລເຣລ, ເກີດຫຍັງຂຶ້ນ?! ເກີດຫຍັງຂື້ນ?
+
+924
+00:54:35,050 --> 00:54:37,050
+[WINDSHIELD SPRITE]
+You almost killed me, lady!
+ເຈົ້າເກືອບຈະຂ້າຂ້ອຍ, ແມ່ຍິງ!
+
+925
+00:54:37,550 --> 00:54:40,350
+[LAUREL]
+Are you okay? Where did you come from?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ? ເຈົ້າມາຈາກໃສ?
+
+926
+00:54:40,850 --> 00:54:42,950
+[DEWDROP]
+You were in our flight path!
+ເຈົ້າຢູ່ໃນເສັ້ນທາງບິນຂອງພວກເຮົາ!
+
+927
+00:54:43,450 --> 00:54:47,650
+[FLYING SPRITES]
+Yeah! Come on! / Watch where you're going! / Are you alright?
+ແມ່ນແລ້ວ! ມາແລ້ວ! / ເບິ່ງວ່າເຈົ້າໄປໃສ! / ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+928
+00:54:48,150 --> 00:54:50,150
+[WINDSHIELD SPRITE]
+I'm fine.
+ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+929
+00:54:50,650 --> 00:54:55,550
+[MANTICORE]
+Oh, no! Our transport! How are we going to get to your sons now?
+ໂອ້, ບໍ່! ການຂົນສົ່ງຂອງພວກເຮົາ!
+ພວກເຮົາຈະໄປຫາລູກຊາຍຂອງທ່ານແນວໃດດຽວນີ້?
+
+930
+00:54:56,050 --> 00:54:59,200
+[DEWDROP]
+Come on Pixie Dusters, lets take to the skies!
+ມາແລ້ວ Pixie Dusters, ໄປສູ່ສະຫວັນ!
+
+931
+00:54:59,700 --> 00:55:02,500
+[LAUREL]
+How do you feel about exercising those wings?
+ເຈົ້າຮູ້ສຶກແນວໃດກ່ຽວກັບການອອກ ກໍາ ລັງກາຍກະຕ່າເຫຼົ່ານັ້ນ?
+
+932
+00:55:03,000 --> 00:55:05,000
+[IAN]
+Boombastia!
+ບູມບາສຕິຍ!
+
+933
+00:55:05,500 --> 00:55:07,500
+[BARLEY]
+Remember...
+ຈື່ໄວ້...
+
+934
+00:55:08,000 --> 00:55:10,000
+[IAN]
+Ah, right.  Boombastia!
+ອາ, ແມ່ນແລ້ວ. ບູມບາສຕິຍ!
+
+935
+00:55:10,500 --> 00:55:12,500
+[IAN]
+Whoa!
+ໂວ້!
+
+936
+00:55:13,000 --> 00:55:15,000
+[BARLEY]
+Yeah! You're a natural!
+ແມ່ນແລ້ວ! ເຈົ້າເປັນທໍາມະຊາດ!
+
+937
+00:55:15,500 --> 00:55:17,500
+[BARLEY]
+Think fast!
+ຄິດໄວ!
+
+938
+00:55:18,000 --> 00:55:20,000
+[IAN]
+Aloft Elevar!
+ອາໂລຟຕ໌ ເອເລເວີ!
+
+939
+00:55:20,500 --> 00:55:22,500
+[BARLEY]
+Ha-ha! Yeah!
+Ha-ha! ແມ່ນແລ້ວ!
+
+940
+00:55:23,000 --> 00:55:25,000
+[BARLEY]
+Nice!
+ດີເລີດ!
+
+941
+00:55:25,500 --> 00:55:31,500
+[IAN]
+Careful how much boat you're eating there, man, we still gotta make it to the end of the tunnel.
+ລະມັດລະວັງວ່າເຈົ້າ ກໍາ ລັງກິນເຮືອຫຼາຍປານໃດຢູ່ບ່ອນນັ້ນ
+, ຜູ້ຊາຍ, ພວກເຮົາຍັງຕ້ອງໄປຮອດຕອນທ້າຍຂອງທໍ່.
+
+942
+00:55:32,000 --> 00:55:34,000
+[BARLEY]
+Good point.
+ຈຸດດີ.
+
+943
+00:55:34,500 --> 00:55:38,350
+[IAN]
+I can't believe I'm this close to actually talking to Dad.
+ຂ້ອຍບໍ່ເຊື່ອວ່າຂ້ອຍໃກ້ຈະເວົ້າກັບພໍ່ແທ້ໆ.
+
+944
+00:55:38,850 --> 00:55:44,100
+[BARLEY]
+You know what I'm gonna ask him? If he ever gave himself a wizard name.
+ເຈົ້າຮູ້ວ່າຂ້ອຍຈະຖາມລາວຫຍັງ? ຖ້າລາວເຄີຍໃຫ້ຕົວເອງຊື່ຊະຍາກອນ.
+
+945
+00:55:44,600 --> 00:55:46,600
+[IAN]
+What?
+ຫຍັງ?
+
+946
+00:55:47,100 --> 00:55:53,100
+[BARLEY]
+Well, `cause he was into magic. Lots of wizards have cool names: Alora the Majestic, Birdar the Fanciful.  Anyway, it'll just be nice to have more than four memories of him.
+ດີ, ເພາະລາວມັກຊະຍາກອນຫຼາຍຄົນມີຊື່ທີ່ເຢັນ: ອາໂລຣາ ທີ່ຍິ່ງໃຫຍ່, ບີຣດານທີ່ສວຍງາມ
+. ຢ່າງໃດກໍ່ຕາມ, ມັນຈະດີທີ່ຈະມີຄວາມຊົງຈໍາຫຼາຍກວ່າສີ່ຄົນກ່ຽວກັບລາວ.
+
+947
+00:55:53,600 --> 00:55:55,600
+[IAN]
+Three.
+ສາມ.
+
+948
+00:55:56,100 --> 00:55:58,100
+[BARLEY]
+Hmm?
+ຮັມມ໌?
+
+949
+00:55:58,600 --> 00:56:00,600
+[IAN]
+You only have three memories.
+ເຈົ້າມີຄວາມຊົງຈໍາພຽງແຕ່ສາມຢ່າງເທົ່ານັ້ນ.
+
+950
+00:56:01,100 --> 00:56:03,100
+[BARLEY]
+Oh. Yeah.
+ໂອ້. ແມ່ນແລ້ວ.
+
+951
+00:56:03,600 --> 00:56:07,800
+[IAN]
+Barley, do you have another memory of Dad you haven't told me?
+ບາລີ, ເຈົ້າມີຄວາມຊົງຈໍາອີກຢ່າງກ່ຽວກັບພໍ່ທີ່ເຈົ້າບໍ່ໄດ້ບອກຂ້ອຍບໍ?
+
+952
+00:56:08,300 --> 00:56:10,400
+[BARLEY]
+It's... it's just not my favorite.
+ມັນ... ມັນພຽງແຕ່ບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍມັກທີ່ສຸດ.
+
+953
+00:56:10,900 --> 00:56:12,900
+[IAN]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+954
+00:56:13,400 --> 00:56:19,400
+[BARLEY]
+When Dad was sick...  I was supposed to go in and say goodbye to him. But he was hooked up to all these tubes and... he just didn't look like himself. I got scared.  And I didn't go in.  But that's when I decided, I was never gonna be scared ever again.
+ເມື່ອພໍ່ເຈັບປ່ວຍ... ຂ້ອຍຄວນເຂົ້າມາແລະອວຍພອນລາວ. ແຕ່ລາວຖືກເຊື່ອມຕໍ່ກັບທໍ່ທັງ ຫມົດ ເຫຼົ່ານີ້ແລະ...
+ລາວພຽງແຕ່ບໍ່ຄ້າຍຄືກັບຕົວເອງ. ຂ້ອຍຢ້ານກົວ. ແລະຂ້ອຍບໍ່ໄດ້ເຂົ້າມາ. ແຕ່ນັ້ນແມ່ນເວລາທີ່ຂ້ອຍຕັດສິນໃຈ, ຂ້ອຍຈະບໍ່ຢ້ານອີກເທື່ອຫນຶ່ງ.
+
+955
+00:56:19,900 --> 00:56:22,700
+[BARLEY]
+Ah, looks like we're coming up on something.
+ອາ, ເບິ່ງຄືວ່າພວກເຮົາ ກໍາ ລັງພົບບາງສິ່ງບາງຢ່າງ.
+
+956
+00:56:23,200 --> 00:56:27,400
+[BARLEY]
+The final gauntlet. The Phoenix Gem is just on the other side.
+ກະທູ້ສຸດທ້າຍ. ຫີນກ້ອນຟີນິກສ໌ແມ່ນຢູ່ທາງອື່ນເທົ່ານັ້ນ.
+
+957
+00:56:27,900 --> 00:56:30,000
+[BARLEY]
+Careful, there could be booby traps.
+ລະມັດລະວັງ, ມັນອາດຈະມີແຄບໂບບີ.
+
+958
+00:56:30,500 --> 00:56:35,400
+[IAN]
+This place is, like, a thousand years old. There's no way there could be--
+ບ່ອນນີ້ມີອາຍຸປະມານພັນປີ. ບໍ່ມີທາງທີ່ຈະມີ -
+
+959
+00:56:35,900 --> 00:56:37,900
+[BARLEY]
+Oh no, it can't be...
+ໂອ້ ບໍ່, ມັນບໍ່ສາມາດເປັນໄດ້...
+
+960
+00:56:38,400 --> 00:56:44,400
+[A GELATINOUS CUBE!]
+The cube moves toward them. As it does, it runs over Dad's dismembered torso. The torso immediately dissolves.
+ກ້ອນເຄື່ອນຍ້າຍໄປຫາພວກເຂົາ. ໃນຂະນະທີ່ມັນເຮັດ,
+ມັນແລ່ນຜ່ານຮ່າງກາຍທີ່ຖືກຕັດອອກຂອງພໍ່. ຮ່າງກາຍລະລາຍທັນທີ.
+
+961
+00:56:44,900 --> 00:56:46,900
+[BARLEY]
+Run!
+ແລ່ນໄປ!
+
+962
+00:56:47,400 --> 00:56:51,950
+[IAN]
+Whoa, wait! It's some kind of puzzle. We gotta figure it out before--
+ໂວ້, ລໍຖ້າ! ມັນເປັນການສັບສົນບາງຢ່າງ. ພວກເຮົາຕ້ອງຄິດມັນກ່ອນທີ່ຈະ -
+
+963
+00:56:52,450 --> 00:56:54,450
+[BARLEY]
+No time. Grab a shield.
+ບໍ່ມີເວລາ. ເອົາກະຕ່າ.
+
+964
+00:56:54,950 --> 00:56:56,950
+[IAN]
+Jump!
+ກະໂດດ!
+
+965
+00:56:57,450 --> 00:56:59,450
+[BARLEY]
+What?
+ຫຍັງ?
+
+966
+00:56:59,950 --> 00:57:01,950
+[IAN]
+Trust me.
+ເຊື່ອຂ້ອຍ.
+
+967
+00:57:02,450 --> 00:57:04,450
+[IAN]
+Aloft Elevar!
+ອາໂລຟຕ໌ ເອເລເວີ!
+
+968
+00:57:04,950 --> 00:57:06,950
+[BARLEY]
+Ha-ha!
+ຮາຮາ!
+
+969
+00:57:07,450 --> 00:57:09,450
+[BARLEY]
+Ow! Hey!
+ໂອ້! ເຮ້!
+
+970
+00:57:09,950 --> 00:57:11,950
+[BARLEY]
+Ian...
+ແອນ...
+
+971
+00:57:12,450 --> 00:57:14,450
+[BARLEY]
+Whoa whoa whoa!
+ໂວ້!
+
+972
+00:57:14,950 --> 00:57:16,950
+[BARLEY]
+Don't step on that.
+ຢ່າຍ່າງຢູ່ເທິງນັ້ນ.
+
+973
+00:57:17,450 --> 00:57:19,450
+[IAN]
+I didn't touch it!
+ຂ້ອຍບໍ່ໄດ້ຈັບມັນ!
+
+974
+00:57:19,950 --> 00:57:21,950
+[IAN]
+Voltar Thundasir!
+ໂວລຕາ ທູນດາຊີ!
+
+975
+00:57:22,450 --> 00:57:26,300
+[IAN]
+The tile down there has the same shape as the opening!
+ກະຕູ້ທີ່ຢູ່ລຸ່ມນັ້ນມີຮູບຮ່າງດຽວກັນກັບການເປີດ!
+
+976
+00:57:26,800 --> 00:57:29,600
+[BARLEY]
+Maybe we were supposed to step on it?
+ບາງທີພວກເຮົາຄວນຍ່າງໃສ່ມັນບໍ?
+
+977
+00:57:30,100 --> 00:57:32,100
+[IAN]
+What?!
+ຫຍັງ?!
+
+978
+00:57:32,600 --> 00:57:34,600
+[BARLEY]
+I got it!
+ຂ້ອຍເຮັດແລ້ວ!
+
+979
+00:57:35,100 --> 00:57:37,100
+[IAN]
+No, Barley!
+ບໍ່, ບາລີ!
+
+980
+00:57:37,600 --> 00:57:39,600
+[IAN]
+It's working!
+ມັນເຮັດວຽກໄດ້!
+
+981
+00:57:40,100 --> 00:57:43,600
+[BARLEY]
+It's impossible!  No one can hold their breath that long!
+ມັນບໍ່ສາມາດເຮັດໄດ້! ບໍ່ມີໃຜສາມາດຈັບຫາຍໃຈໄດ້ດົນປານໃດ!
+
+982
+00:57:44,100 --> 00:57:46,100
+[BARLEY]
+Ha-ha! We made it!
+Ha-ha! ພວກເຮົາເຮັດໄດ້!
+
+983
+00:57:46,600 --> 00:57:49,750
+[BARLEY]
+The Phoenix Gem awaits beyond this door! Shall we?
+ຫີນກ້ອນຟີນິກສ໌ລໍຖ້າຢູ່ພາຍນອກປະຕູນີ້! ພວກເຮົາເຮັດໄດ້ບໍ?
+
+984
+00:57:50,250 --> 00:57:52,250
+[IAN]
+We certainly shall!
+ພວກເຮົາແນ່ນອນວ່າຈະເຮັດ!
+
+985
+00:57:52,750 --> 00:57:57,650
+[IAN]
+Dad, we have followed the quest and it has led us to our victory!
+ພໍ່,
+ພວກເຮົາໄດ້ຕິດຕາມການຊອກຫາແລະມັນໄດ້ພາພວກເຮົາໄປສູ່ໄຊຊະນະຂອງພວກເຮົາ!
+
+986
+00:57:58,150 --> 00:58:00,150
+[IAN]
+We're back home.
+ພວກເຮົາກັບບ້ານແລ້ວ.
+
+987
+00:58:00,650 --> 00:58:06,650
+[BARLEY]
+How did we--? No, that doesn't make sense! We took the Path of Peril. We followed the ravens, we went to the end of the water...
+ພວກເຮົາເຮັດແນວໃດ -? ບໍ່, ມັນບໍ່ມີຄວາມ ຫມາຍ! ພວກເຮົາໄດ້ເອົາເສັ້ນທາງຂອງຄວາມອັນຕະລາຍ
+. ພວກເຮົາຕິດຕາມກະຕ່າ, ພວກເຮົາໄປຮອດຕອນທ້າຍຂອງນ້ ໍາ...
+
+988
+00:58:07,150 --> 00:58:10,300
+[BARLEY]
+Unless the X meant stay away from the water.
+ເວັ້ນເສຍແຕ່ວ່າ X ຫມາຍ ຄວາມວ່າຢູ່ຫ່າງຈາກນ້ ໍາ.
+
+989
+00:58:10,800 --> 00:58:15,700
+[BARLEY]
+Or it could be, like, a campfire...  It's okay. We can figure this out.
+ຫຼືມັນອາດຈະເປັນ, ເຊັ່ນວ່າ, ໄຟຄ້າຍ...
+ມັນບໍ່ເປັນຫຍັງ. ພວກເຮົາສາມາດຄິດເລື່ອງນີ້ໄດ້.
+
+990
+00:58:16,200 --> 00:58:19,000
+[IAN]
+Figure out what? We're back where we started!
+ຄິດວ່າຫຍັງ? ພວກເຮົາກັບມາບ່ອນທີ່ເລີ່ມຕົ້ນແລ້ວ!
+
+991
+00:58:19,500 --> 00:58:25,500
+[BARLEY]
+I mean, it has to be here, there was a gauntlet. I mean, unless, that gauntlet was for, coincidentally, some different quest.  That's a possibility.
+ຂ້ອຍຫມາຍຄວາມວ່າ, ມັນຕ້ອງຢູ່ບ່ອນນີ້, ມີກະທູ້. ຂ້ອຍ ຫມາຍ ຄວາມວ່າ, ເວັ້ນເສຍແຕ່ວ່າ,
+ກະທູ້ນັ້ນແມ່ນ ສໍາ ລັບ, ໂດຍກົງກັນຂ້າມ, ການຊອກຫາທີ່ແຕກຕ່າງກັນບາງຢ່າງ. ນັ້ນແມ່ນຄວາມເປັນໄປໄດ້.
+
+992
+00:58:26,000 --> 00:58:28,000
+[IAN]
+What?!
+ຫຍັງ?!
+
+993
+00:58:28,500 --> 00:58:34,100
+[BARLEY]
+No, no, no, this has to be where the Phoenix Gem is.  I followed my gut.
+ບໍ່, ບໍ່ມີ, ບໍ່, ນີ້ແມ່ນຕ້ອງຢູ່ບ່ອນທີ່ Gem
+Phoenix ແມ່ນ. ຂ້ອຍຕິດຕາມຄວາມຮູ້ສຶກຂອງຂ້ອຍ.
+
+994
+00:58:34,600 --> 00:58:36,600
+[IAN]
+Oh no...
+ໂອ້ ບໍ່...
+
+995
+00:58:37,100 --> 00:58:39,100
+[BARLEY]
+What?
+ຫຍັງ?
+
+996
+00:58:39,600 --> 00:58:45,600
+[IAN]
+The gem is in the mountain. The mountain we could have been to hours ago if we'd just...  If we'd just stayed on the expressway.
+ກ້ອນຫີນແມ່ນຢູ່ໃນພູເຂົາ. ພູເຂົາທີ່ພວກເຮົາສາມາດໄປໄດ້ຫຼາຍຊົ່ວໂມງກ່ອນຖ້າພວກເຮົາພຽງແຕ່
+... ຖ້າພວກເຮົາພຽງແຕ່ຢູ່ທາງດ່ວນ.
+
+997
+00:58:46,100 --> 00:58:50,300
+[BARLEY]
+No, the expressway is too obvious, remember?! You can never take the--
+ບໍ່, ທາງດ່ວນແມ່ນຈະແຈ້ງເກີນໄປ, ຈື່ບໍ?! ເຈົ້າບໍ່ສາມາດເອົາ -
+
+998
+00:58:50,800 --> 00:58:56,800
+[IAN]
+If I hadn't listened to you! Okay? I can't believe this. You act like you know what you're doing, but you don't have a clue... and that's because you are a screw-up! And now you have screwed up my chance to have the one thing I never had!
+ຖ້າຂ້ອຍບໍ່ໄດ້ຟັງເຈົ້າ! ດີບໍ? ຂ້ອຍບໍ່ເຊື່ອສິ່ງນີ້. ເຈົ້າເຮັດຄືກັບວ່າເຈົ້າຮູ້ວ່າທ່ານ ກໍາ ລັງເຮັດຫຍັງ, ແຕ່ເຈົ້າບໍ່ມີຂໍ້ແນະນໍາ
+... ແລະນັ້ນແມ່ນຍ້ອນວ່າເຈົ້າເປັນຄົນສໍ້ໂກງ! ແລະດຽວນີ້ເຈົ້າໄດ້ ທໍາ ລາຍໂອກາດຂອງຂ້ອຍທີ່ຈະມີສິ່ງດຽວທີ່ຂ້ອຍບໍ່ເຄີຍມີ!
+
+999
+00:58:57,300 --> 00:58:59,300
+[BARLEY]
+Where are you going?
+ເຈົ້າໄປໃສ?
+
+1000
+00:58:59,800 --> 00:59:03,300
+[IAN]
+To spend what little time we have left with Dad!
+ເພື່ອໃຊ້ເວລາ ຫນ້ອຍ ທີ່ພວກເຮົາມີຢູ່ກັບພໍ່!
+
+1001
+00:59:03,800 --> 00:59:09,050
+[BARLEY]
+Ian, wait! We can still find the Phoenix Gem! We just have to keep looking!
+ແອນ, ລໍຖ້າ! ພວກເຮົາຍັງສາມາດຊອກຫາເພັດຟີນິກສ໌ໄດ້
+! ພວກເຮົາພຽງແຕ່ຕ້ອງສືບຕໍ່ຊອກຫາ!
+
+1002
+00:59:09,550 --> 00:59:11,550
+[BARLEY]
+Ian! IAN!
+ແອນ! ແອນ!
+
+1003
+00:59:12,050 --> 00:59:14,050
+[IAN]
+No, Dad. He's not here.
+ບໍ່, ພໍ່. ລາວບໍ່ໄດ້ຢູ່ບ່ອນນີ້.
+
+1004
+00:59:14,550 --> 00:59:16,550
+[BARLEY]
+Come on, where is it?
+ມາແລ້ວ, ມັນຢູ່ໃສ?
+
+1005
+00:59:17,050 --> 00:59:19,050
+[BARLEY]
+Follow the water!
+ຕິດຕາມນ້ ໍາ!
+
+1006
+00:59:19,550 --> 00:59:22,000
+[CONSTRUCTION WORKER #2]
+Alright, come on, out of the fountain.
+ດີແລ້ວ, ມາແລ້ວ, ອອກຈາກແຫຼ່ງນໍ້າ.
+
+1007
+00:59:22,500 --> 00:59:24,950
+[BARLEY]
+No! I'm looking for an ancient gem!
+ບໍ່! ຂ້ອຍ ກໍາ ລັງຊອກຫາເພັດເກົ່າແກ່!
+
+1008
+00:59:25,450 --> 00:59:27,550
+[FENNWICK]
+Yeah, we know the old days.
+ແມ່ນແລ້ວ, ພວກເຮົາຮູ້ຈັກສະໄຫມເກົ່າ.
+
+1009
+00:59:28,050 --> 00:59:30,050
+[BARLEY]
+Stop! Please! No!
+ຢຸດເຊົາ! ກະລຸນາ! ບໍ່!
+
+1010
+00:59:30,550 --> 00:59:32,650
+[BARLEY]
+Okay! Okay! Ow! Okay, I'm leaving!
+ດີ! ດີ! ໂອ້! ດີ, ຂ້ອຍ ກໍາ ລັງອອກໄປ!
+
+1011
+00:59:33,150 --> 00:59:35,150
+[FENNWICK]
+Hey!
+ເຮ້!
+
+1012
+00:59:35,650 --> 00:59:37,650
+[CONSTRUCTION WORKER #2]
+Hey! Oh, come on.
+ເຮ້! ໂອ້, ມາແລ້ວ.
+
+1013
+00:59:38,150 --> 00:59:42,000
+[CONSTRUCTION WORKER #2]
+Can someone call the cops?! We got the history buff again!
+ມີໃຜສາມາດໂທຫາຕໍາຫຼວດໄດ້ບໍ?! ພວກເຮົາມີຄົນມັກປະຫວັດສາດອີກຄັ້ງ!
+
+1014
+00:59:42,500 --> 00:59:44,500
+[IAN]
+I can't do this!
+ຂ້ອຍເຮັດແບບນີ້ບໍ່ໄດ້!
+
+1015
+00:59:45,000 --> 00:59:47,000
+[BARLEY]
+Yes, you can!
+ແມ່ນແລ້ວ, ເຈົ້າສາມາດ!
+
+1016
+00:59:47,500 --> 00:59:49,500
+[IAN]
+I'm not ready!
+ຂ້ອຍຍັງບໍ່ພ້ອມ!
+
+1017
+00:59:50,000 --> 00:59:52,000
+[BARLEY]
+You'll never be ready! MERGE!!
+ເຈົ້າຈະບໍ່ພ້ອມເລີຍ! ເຂົ້າກັນ!!
+
+1018
+00:59:52,500 --> 00:59:55,300
+[AHHH!!!]
+Ian floors it and drives onto the freeway.
+ອາຍນ໌ເອົາມັນລົງແລະຂັບລົດໄປທາງດ່ວນ.
+
+1019
+00:59:55,800 --> 00:59:57,800
+[BARLEY]
+Ha-ha! Nice job!
+Ha-ha! ເຮັດວຽກດີ!
+
+1020
+00:59:58,300 --> 01:00:00,300
+[IAN]
+Aloft Elevar!
+ອາໂລຟຕ໌ ເອເລເວີ!
+
+1021
+01:00:00,800 --> 01:00:02,800
+[YOUNG BARLEY]
+Woohoo!
+ໂວຮູ!
+
+1022
+01:00:03,300 --> 01:00:05,400
+[BARLEY]
+I know you're stronger than that!
+ຂ້ອຍຮູ້ວ່າເຈົ້າແຂງແຮງກວ່ານັ້ນ!
+
+1023
+01:00:05,900 --> 01:00:08,350
+[BARLEY]
+My little brother has the magic gift!
+ອ້າຍນ້ອຍຂອງຂ້ອຍມີຂອງຂວັນຊະຍາກອນ!
+
+1024
+01:00:08,850 --> 01:00:10,850
+[BARLEY]
+Hey, you can do this.
+ເຮ້, ເຈົ້າສາມາດເຮັດໄດ້.
+
+1025
+01:00:11,350 --> 01:00:13,800
+[OFFICER SPECTER]
+Okay, come on. Get down right now.
+ດີແລ້ວ, ມາແລ້ວ. ລົງລົງທັນທີ.
+
+1026
+01:00:14,300 --> 01:00:16,300
+[YEAH! YEAH!]
+116.
+116.
+
+1027
+01:00:16,800 --> 01:00:18,800
+[BARLEY!]
+Barley looks at Ian.
+ບາລີເບິ່ງໄອນ.
+
+1028
+01:00:19,300 --> 01:00:21,300
+[BARLEY]
+Ian, look!
+ແອນ, ເບິ່ງ!
+
+1029
+01:00:21,800 --> 01:00:23,800
+[IAN]
+Behind you!
+ຢູ່ເບື້ອງຫຼັງເຈົ້າ!
+
+1030
+01:00:24,300 --> 01:00:26,300
+[BARLEY]
+It's a curse!
+ມັນເປັນຄໍາສາທາ!
+
+1031
+01:00:26,800 --> 01:00:28,800
+[IAN]
+Barley, RUN!
+ບາລີ, ແລ່ນ!
+
+1032
+01:00:29,300 --> 01:00:32,450
+[BARLEY]
+What do you want?! The gem?! Fine. Take it!
+ເຈົ້າຢາກຫຍັງບໍ?! ກ້ອນແກ້ວບໍ?! ດີ. ເອົາມັນ!
+
+1033
+01:00:32,950 --> 01:00:34,950
+[BARLEY]
+The Manticore!
+ແມນຕິເກີ!
+
+1034
+01:00:35,450 --> 01:00:37,450
+[IAN]
+Mom?!
+ແມ່ບໍ?
+
+1035
+01:00:37,950 --> 01:00:40,400
+[LAUREL]
+It's okay, boys! We'll take care of-
+ມັນບໍ່ເປັນຫຍັງ, ພວກຜູ້ຊາຍ! ພວກເຮົາຈະເບິ່ງແຍງ...
+
+1036
+01:00:40,900 --> 01:00:42,900
+[LAUREL]
+Whoa, you're tilting, you're tilting!
+ໂວ້, ເຈົ້າກໍາລັງຫັນ, ເຈົ້າ ກໍາ ລັງຫັນ!
+
+1037
+01:00:43,400 --> 01:00:45,400
+[IAN]
+Mom!
+ແມ່!
+
+1038
+01:00:45,900 --> 01:00:47,900
+[LAUREL]
+Go see your father!
+ໄປພົບພໍ່ເຈົ້າ!
+
+1039
+01:00:48,400 --> 01:00:54,400
+[BARLEY]
+It's okay! If they stab the beast's core with that sword, the curse will be broken! Come on!
+ມັນບໍ່ເປັນຫຍັງ! ຖ້າພວກເຂົາດອກຫົວໃຈຂອງສັດດ້ວຍກະທູ້ນັ້ນ
+, ຄໍາ ສາບານຈະຖືກແຕກ! ມາ!
+
+1040
+01:00:54,900 --> 01:00:58,050
+[IAN]
+Barley, what I said before-- I am so sorry--
+ບາລີ, ສິ່ງທີ່ຂ້ອຍເວົ້າກ່ອນ - ຂ້ອຍຂໍໂທດຫຼາຍ...
+
+1041
+01:00:58,550 --> 01:01:01,700
+[BARLEY]
+There's no time! The sun is about to set!
+ບໍ່ມີເວລາ! ແສງຕາເວັນ ກໍາ ລັງຈະຕົກລົງ!
+
+1042
+01:01:02,200 --> 01:01:08,200
+[IAN]
+Only once is all we get, Grant me this rebirth, 'Til tomorrow's sun has set, One day to walk the earth!
+ພຽງແຕ່ຄັ້ງດຽວເທົ່ານັ້ນທີ່ພວກເຮົາໄດ້ຮັບ, ໃຫ້ຂ້ອຍເກີດໃຫມ່ນີ້
+, ຈົນກວ່າແສງຕາເວັນມື້ອື່ນຈະຕົກລົງ, ມື້ຫນຶ່ງທີ່ຈະຍ່າງໂລກ!
+
+1043
+01:01:08,700 --> 01:01:10,700
+[MANTICORE]
+Time to crush a curse!
+ມັນເຖິງເວລາແລ້ວທີ່ຈະທໍາລາຍຄໍາສາບານ!
+
+1044
+01:01:11,200 --> 01:01:13,200
+[MANTICORE]
+Ooh, my back!
+ໂອ້, ຫລັງຂອງຂ້ອຍ!
+
+1045
+01:01:13,700 --> 01:01:15,700
+[LAUREL]
+I am a mighty warrior...
+ຂ້ອຍເປັນນັກຮົບທີ່ເຂັ້ມແຂງ...
+
+1046
+01:01:16,200 --> 01:01:22,200
+[I AM A MIGHTY WARRIOR!]
+The dragon slows to a stop. The boys watch the red of the curse turn blue. Laurel holds the sword with great effort.
+ດຣາກອນຊ້າລົງຈົນຢຸດເຊົາ. ເດັກຊາຍເບິ່ງສີແດງຂອງຄໍາສາບານກາຍເປັນສີຟ້າ
+. ໂລເຣລຖືກະທູ້ດ້ວຍຄວາມພະຍາຍາມຫຼາຍ.
+
+1047
+01:01:22,700 --> 01:01:25,150
+[LAUREL]
+Hurry, I can't hold this for long!
+ໄວໆ, ຂ້ອຍບໍ່ສາມາດຖືສິ່ງນີ້ໄດ້ດົນນານ!
+
+1048
+01:01:25,650 --> 01:01:27,650
+[IAN]
+No, no, no, no, no--
+ບໍ່, ບໍ່, ບໍ່ແມ່ນ, ບໍ່...
+
+1049
+01:01:28,150 --> 01:01:30,150
+[IAN]
+Barley!
+ບາລີ!
+
+1050
+01:01:30,650 --> 01:01:32,650
+[LAUREL]
+Boys! It's coming back!
+ພວກຜູ້ຊາຍ! ມັນ ກໍາ ລັງກັບມາ!
+
+1051
+01:01:33,150 --> 01:01:35,150
+[BARLEY]
+I'll go distract it!
+ຂ້ອຍຈະໄປລົບກວນມັນ!
+
+1052
+01:01:35,650 --> 01:01:38,800
+[IAN]
+What? No! If you do that, you'll miss Dad.
+ຫຍັງ? ບໍ່! ຖ້າເຈົ້າເຮັດແບບນັ້ນ, ເຈົ້າຈະຂາດພໍ່.
+
+1053
+01:01:39,300 --> 01:01:42,100
+[BARLEY]
+It's okay. Say hi to Dad for me.
+ມັນບໍ່ເປັນຫຍັງ. ສະບາຍດີພໍ່ຈາກຂ້ອຍ.
+
+1054
+01:01:42,600 --> 01:01:44,700
+[IAN]
+No. You go and say goodbye.
+ບໍ່. ເຈົ້າໄປອວຍພອນ.
+
+1055
+01:01:45,200 --> 01:01:47,200
+[BARLEY]
+What?
+ຫຍັງ?
+
+1056
+01:01:47,700 --> 01:01:53,700
+[IAN]
+I had someone who looked out for me, someone who pushed me to be more than I ever thought I could be. I never had a dad... but I always had you.
+ຂ້ອຍມີຄົນເບິ່ງແຍງຂ້ອຍ, ຄົນທີ່ຊຸກຍູ້ຂ້ອຍໃຫ້ເປັນຫຼາຍກ່ວາທີ່ຂ້ອຍເຄີຍຄິດວ່າຂ້ອຍສາມາດເປັນໄດ້
+. ຂ້ອຍບໍ່ເຄີຍມີພໍ່... ແຕ່ຂ້ອຍມີເຈົ້າຢູ່ສະເຫມີ.
+
+1057
+01:01:54,200 --> 01:01:56,200
+[IAN]
+Bridrigar Invisia!
+Bridrigar Invisia!
+
+1058
+01:01:56,700 --> 01:01:58,700
+[IAN]
+Boombastia!
+ບູມບາສຕິຍ!
+
+1059
+01:01:59,200 --> 01:02:01,200
+[IAN]
+Aloft Elevar!
+ອາໂລຟຕ໌ ເອເລເວີ!
+
+1060
+01:02:01,700 --> 01:02:04,500
+[NO!]
+The dragon marches straight towards Barley and Dad.
+ດຣາກອນຍ່າງກົງໄປສູ່ບາລີແລະພໍ່.
+
+1061
+01:02:05,000 --> 01:02:07,000
+[IAN]
+No. No. No-- No!
+ບໍ່. ບໍ່. ບໍ່ມີ - ບໍ່!
+
+1062
+01:02:07,500 --> 01:02:11,700
+[IAN]
+Use what I have. Uh, what do I have? I have nothing!
+ໃຊ້ສິ່ງທີ່ຂ້ອຍມີ. ໂອ້, ຂ້ອຍມີຫຍັງ? ຂ້ອຍບໍ່ມີຫຍັງເລີຍ!
+
+1063
+01:02:12,200 --> 01:02:14,200
+[IAN]
+Splinter...
+Splinter...
+
+1064
+01:02:14,700 --> 01:02:16,700
+[IAN]
+Magic in every fiber.
+ການຊະຍາກອນໃນເສັ້ນໃຍທຸກຢ່າງ.
+
+1065
+01:02:17,200 --> 01:02:19,200
+[IAN]
+Magnora Gantuan!
+Magnora Gantuan!
+
+1066
+01:02:19,700 --> 01:02:21,800
+[NO!]
+Ian points the staff and yells...
+ແອນຊີ້ໃຫ້ເຫັນພະນັກງານແລະຮ້ອງໄຫ້...
+
+1067
+01:02:22,300 --> 01:02:24,300
+[IAN]
+Voltar Thundasir!
+ໂວລຕາ ທຸນດາຊີ!
+
+1068
+01:02:24,800 --> 01:02:26,800
+[LAUREL]
+Ian!
+ແອນ!
+
+1069
+01:02:27,300 --> 01:02:29,300
+[IAN]
+Accelior!
+ເອັກເຊລີອໍ!
+
+1070
+01:02:29,800 --> 01:02:31,800
+[LAUREL]
+Ian!?
+ແອນ!?
+
+1071
+01:02:32,300 --> 01:02:34,300
+[IAN]
+What did he say?
+ລາວເວົ້າຫຍັງ?
+
+1072
+01:02:34,800 --> 01:02:39,350
+[BARLEY]
+He said he always thought his wizard name would be Wilden the Whimsical.
+ລາວເວົ້າວ່າລາວຄິດວ່າຊື່ຊະຍາກອນຂອງລາວຈະເປັນວິນເດັນ Whimsical.
+
+1073
+01:02:39,850 --> 01:02:41,850
+[IAN]
+Wow, that's really terrible.
+ໂວ້, ນັ້ນແມ່ນຮ້າຍແຮງແທ້ໆ.
+
+1074
+01:02:42,350 --> 01:02:47,950
+[BARLEY]
+I know.  He also said he's very proud of the person you grew up to be.
+ຂ້ອຍຮູ້ແລ້ວ.
+ລາວຍັງເວົ້າວ່າລາວພາກພູມໃຈຫຼາຍຕໍ່ຄົນທີ່ເຈົ້າເຕີບໃຫຍ່ເປັນ.
+
+1075
+01:02:48,450 --> 01:02:51,950
+[IAN]
+Well, I owe an awful lot of that to you.
+ດີ, ຂ້ອຍເປັນຫນີ້ຫຼາຍຕໍ່ເຈົ້າ.
+
+1076
+01:02:52,450 --> 01:02:57,350
+[BARLEY]
+He kinda said that too.  Oh, and he told me to give you this.
+ລາວເວົ້າເຊັ່ນກັນ. ໂອ້, ແລະລາວບອກຂ້ອຍໃຫ້ເຈົ້າສິ່ງນີ້.
+
+1077
+01:02:57,850 --> 01:02:59,850
+[FADE TO BLACK.]
+123.
+123.
+
+1078
+01:03:00,350 --> 01:03:03,150
+[IAN]
+Long ago, the world was full of wonder!
+ກ່ອນຫນ້ານີ້, ໂລກເຕັມໄປດ້ວຍຄວາມແປກໃຈ!
+
+1079
+01:03:03,650 --> 01:03:07,500
+[IAN]
+It was adventurous, exciting, and best of all, there was magic.
+ມັນເປັນການຜະຈົນໄພ, ຫນ້າ ຕື່ນເຕັ້ນ, ແລະດີທີ່ສຸດທີ່ສຸດ, ມີຊະຍາກອນ.
+
+1080
+01:03:08,000 --> 01:03:10,000
+[BULLSEYE SPRITE]
+Ha-ha! Bullseye!
+Ha-ha! Bullseye!
+
+1081
+01:03:10,500 --> 01:03:16,500
+[MANTICORE]
+And then with a slash of my mighty sword, I severed the beast's wings from its wretched body!
+ແລະຫຼັງຈາກນັ້ນດ້ວຍການຕັດກະທູ້ທີ່ເຂັ້ມແຂງຂອງຂ້ອຍ,
+ຂ້ອຍໄດ້ຕັດກະຕ່າຂອງສັດຈາກຮ່າງກາຍທີ່ໂຊກຮ້າຍຂອງມັນ!
+
+1082
+01:03:17,000 --> 01:03:19,000
+[MANTICORE]
+Okay, who wants cake?
+ດີແລ້ວ, ໃຜຢາກເຄັກ?
+
+1083
+01:03:19,500 --> 01:03:23,000
+[YEAH!!!]
+The parents watch uncomfortably. Cake on their faces as well.
+ພໍ່ແມ່ເບິ່ງບໍ່ສະບາຍໃຈ. ຄາເກັດໃສ່ໃບຫນ້າຂອງພວກເຂົາເຊັ່ນກັນ.
+
+1084
+01:03:23,500 --> 01:03:29,450
+[IAN]
+And I think with a little bit of magic in your life... you can do almost anything.
+ແລະຂ້ອຍຄິດວ່າດ້ວຍຊະຍາກອນນ້ອຍໆໃນຊີວິດຂອງທ່ານ
+... ເຈົ້າສາມາດເຮັດເກືອບທຸກຢ່າງໄດ້.
+
+1085
+01:03:29,950 --> 01:03:33,100
+[YELDAEH]
+Is that how you put the school back together?
+ນັ້ນແມ່ນວິທີທີ່ທ່ານເຮັດໃຫ້ໂຮງຮຽນກັບຄືນໄປບ່ອນບໍ?
+
+1086
+01:03:33,600 --> 01:03:35,600
+[IAN]
+Uh, yes!
+ໂອ້, ແມ່ນແລ້ວ!
+
+1087
+01:03:36,100 --> 01:03:40,300
+[THEYUS]
+Is that also how you destroyed the school in the first place?
+ນັ້ນຍັງເປັນວິທີທີ່ທ່ານທໍາລາຍໂຮງຮຽນໃນອັນດັບທໍາອິດບໍ?
+
+1088
+01:03:40,800 --> 01:03:42,800
+[IAN]
+Uh... Also yes?
+ໂອ້... ເຊັ່ນກັນແມ່ນບໍ?
+
+1089
+01:03:43,300 --> 01:03:45,300
+[SADALIA]
+Hey, that was great.
+ເຮ້, ນັ້ນແມ່ນດີເລີດ.
+
+1090
+01:03:45,800 --> 01:03:47,800
+[IAN]
+Thanks!
+ຂອບໃຈ!
+
+1091
+01:03:48,300 --> 01:03:50,400
+[GURGE]
+You going to the park later?
+ເຈົ້າຈະໄປສວນສາທາລະນະຕໍ່ມາບໍ?
+
+1092
+01:03:50,900 --> 01:03:52,900
+[IAN]
+Yeah! See you there!
+ແມ່ນແລ້ວ! ພົບກັນຢູ່ບ່ອນນັ້ນ!
+
+1093
+01:03:53,400 --> 01:03:55,400
+[IAN]
+Mom!
+ແມ່!
+
+1094
+01:03:55,900 --> 01:03:57,900
+[LAUREL]
+Blazey! Down!
+ບເລຊີ! ລົງ!
+
+1095
+01:03:58,400 --> 01:04:01,200
+[IAN]
+Who's a good dragon? Who's a good dragon?
+ແມ່ນໃຜເປັນດຣາກອນທີ່ດີ? ແມ່ນໃຜດຣັກອນດີ?
+
+1096
+01:04:01,700 --> 01:04:03,700
+[LAUREL]
+So, how was school?
+ສະນັ້ນ, ໂຮງຮຽນເປັນແນວໃດ?
+
+1097
+01:04:04,200 --> 01:04:06,200
+[IAN]
+It was... really good.
+ມັນດີແທ້ໆ.
+
+1098
+01:04:06,700 --> 01:04:08,700
+[LAUREL]
+Well, alright.
+ດີ, ດີ.
+
+1099
+01:04:09,200 --> 01:04:11,650
+[COLT]
+Hey! There he is. You working hard?
+ເຮ້! ລາວຢູ່ບ່ອນນັ້ນ. ເຈົ້າເຮັດວຽກ ຫນັກບໍ?
+
+1100
+01:04:12,150 --> 01:04:14,150
+[IAN]
+Nope, hardly workin'.
+ບໍ່, ເກືອບບໍ່ໄດ້ເຮັດວຽກ.
+
+1101
+01:04:14,650 --> 01:04:18,850
+[LAUREL]
+Oh, I gotta go. I'm meeting the Manticore for a night out.
+ໂອ້, ຂ້ອຍຕ້ອງໄປ. ຂ້ອຍ ກໍາ ລັງພົບກັບແມນຕິເກີ ສໍາ ລັບຄືນອອກ.
+
+1102
+01:04:19,350 --> 01:04:22,500
+[OFFICER GORE]
+We have a 113 in progress. All units report.
+ພວກເຮົາມີເຫດການ 113 ກໍາ ລັງດໍາເນີນໄປ. ທຸກຫນ່ວຍງານລາຍງານ.
+
+1103
+01:04:23,000 --> 01:04:25,450
+[COLT]
+Duty calls. Time to hit the trail!
+ການໂທຫາຫນ້າທີ່. ມັນເຖິງເວລາທີ່ຈະໄປຕາມເສັ້ນທາງ!
+
+1104
+01:04:25,950 --> 01:04:27,950
+[LAUREL]
+You forgot your keys!
+ເຈົ້າລືມປຸ່ມຂອງທ່ານ!
+
+1105
+01:04:28,450 --> 01:04:31,600
+[COLT]
+Don't need `em! I was born to run. H'yah!
+ຂ້ອຍບໍ່ຕ້ອງການພວກມັນ! ຂ້ອຍເກີດເພື່ອແລ່ນ. H'yah!
+
+1106
+01:04:32,100 --> 01:04:34,100
+[IAN]
+So, how's the new van?
+ສະນັ້ນ, ລົດບັນທຸກໃຫມ່ເປັນແນວໃດ?
+
+1107
+01:04:34,600 --> 01:04:40,550
+[BARLEY]
+Oh, Guinevere the Second is great. I've almost got enough saved up for a sweet paint job.
+ໂອ້, Guinevere ທີສອງແມ່ນດີເລີດ.
+ຂ້ອຍເກືອບມີເງິນເກັບໄວ້ພຽງພໍ ສໍາ ລັບການເຮັດສີທີ່ຫວານ.
+
+1108
+01:04:41,050 --> 01:04:43,050
+[IAN]
+No... please don't.
+ບໍ່... ກະລຸນາຢ່າເຮັດ.
+
+1109
+01:04:43,550 --> 01:04:45,550
+[BARLEY]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+1110
+01:04:46,050 --> 01:04:48,500
+[IAN]
+Because I already took care of it.
+ເພາະຂ້ອຍໄດ້ເບິ່ງແຍງມັນແລ້ວ.
+
+1111
+01:04:49,000 --> 01:04:54,950
+[BARLEY]
+Okay, best way to the park is to take a little something called the Road of Ruin.
+ດີແລ້ວ,
+ວິທີທີ່ດີທີ່ສຸດທີ່ຈະໄປສວນສາທາລະນະແມ່ນການເອົາບາງສິ່ງບາງຢ່າງນ້ອຍໆທີ່ເອີ້ນວ່າເສັ້ນທາງຂອງຄວາມເສຍຫາຍ.
+
+1112
+01:04:55,450 --> 01:04:57,450
+[IAN]
+Mmm... Too obvious.
+ມມ... ແນ່ນອນເກີນໄປ.
+
+1113
+01:04:57,950 --> 01:04:59,950
+[BARLEY]
+Wait, what?
+ລໍຖ້າ, ຫຍັງ?
+
+1114
+01:05:00,450 --> 01:05:04,300
+[IAN]
+On a quest, the clear path is never the right one.
+ໃນການຊອກຫາ, ເສັ້ນທາງທີ່ສະອາດບໍ່ເຄີຍເປັນທາງທີ່ຖືກຕ້ອງ.
+

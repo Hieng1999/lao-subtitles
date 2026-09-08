@@ -1,0 +1,4523 @@
+1
+00:00:10,000 --> 00:00:12,000
+[FIRST DRAFT]
+May 28, 1985
+ວັນທີ 28 ພຶດສະພາປີ 1985
+
+2
+00:00:12,500 --> 00:00:17,050
+[LEADER]
+Internal pressure positive.  Assume nominal hull integrity.  Hypersleep capsules, style circa late twenties...
+ຄວາມກົດດັນພາຍໃນເປັນບວກ. ສົມມຸດວ່າຄວາມສົມບູນແບບຂອງກະເປົາຕົວເລກ
+. ຄັບຊູນນອນໄຮເປີສ໌, ແບບປະມານທ້າຍສິບປີ...
+
+3
+00:00:17,550 --> 00:00:21,400
+[LEADER]
+Lights are green.  She's alive. Well, there goes out salvage, guys.
+ແສງສະຫວ່າງສີຂຽວ. ນາງຍັງມີຊີວິດຢູ່.
+ດີ, ມີການຊ່ວຍເຫຼືອອອກໄປ, ພວກຜູ້ຊາຍ.
+
+4
+00:00:21,900 --> 00:00:25,050
+[MED-TECH]
+Why don't I open the viewport? Watch your eyes.
+ເປັນຫຍັງຂ້ອຍຈຶ່ງບໍ່ເປີດທ່າທາງເບິ່ງ? ເບິ່ງຕາຂອງທ່ານ.
+
+5
+00:00:25,550 --> 00:00:27,550
+[MED-TECH]
+And how are we today?
+ແລະພວກເຮົາເປັນແນວໃດໃນມື້ນີ້?
+
+6
+00:00:28,050 --> 00:00:30,050
+[RIPLEY]
+Terrible.
+ໂຊກຮ້າຍ.
+
+7
+00:00:30,550 --> 00:00:33,350
+[MED-TECH]
+Just terrible?  That's better than yesterday at least.
+ພຽງແຕ່ຮ້າຍແຮງບໍ? ນັ້ນດີກວ່າມື້ວານນີ້ຢ່າງຫນ້ອຍ.
+
+8
+00:00:33,850 --> 00:00:36,650
+[RIPLEY]
+How long have I been on Gateway station?
+ຂ້ອຍຢູ່ສະຖານີ Gateway ເປັນເວລາດົນປານໃດ?
+
+9
+00:00:37,150 --> 00:00:41,350
+[MED-TECH]
+Just a couple of days.  Do you feel up to a visitor?
+ພຽງແຕ່ສອງສາມມື້. ເຈົ້າຮູ້ສຶກເຖິງແຂກບໍ?
+
+10
+00:00:41,850 --> 00:00:43,850
+[RIPLEY]
+Jones!
+ໂຈນສ໌!
+
+11
+00:00:44,350 --> 00:00:47,500
+[RIPLEY]
+Come here Jonesy you ugly old moose...you ugly thing.
+ມາບ່ອນນີ້ໂຈນສີ້ ເຈົ້າແມວເກົ່າທີ່ໂຊກຮ້າຍ... ເຈົ້າເປັນສິ່ງຮ້າຍແຮງ.
+
+12
+00:00:48,000 --> 00:00:54,000
+[MAN]
+Nice room.  I'm Burke.  Carter Burke. I work for the company, but other than that I'm an okay guy.  Glad to see you're feeling better.  I'm told the weakness and disorientation should pass soon.  Side effects of the unusually long hypersleep, or something like that.
+ຫ້ອງທີ່ດີເລີດ. ຂ້ອຍເປັນເບີກ. ຄາເຕີ ເບີກ. ຂ້ອຍເຮັດວຽກ ສໍາ ລັບບໍລິສັດ, ແຕ່ນອກຈາກນັ້ນຂ້ອຍເປັນຜູ້ຊາຍທີ່ດີດີ. ດີໃຈທີ່ເຫັນວ່າເຈົ້າຮູ້ສຶກດີຂຶ້ນ
+. ຂ້ອຍຖືກບອກວ່າຄວາມອ່ອນແອແລະຄວາມຜິດປົກກະຕິຄວນຜ່ານໄປໄວໆນີ້. ຜົນຂ້າງຄຽງຂອງການນອນໄຮເປີຍາວທີ່ບໍ່ປົກກະຕິ, ຫຼືບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ.
+
+13
+00:00:54,500 --> 00:00:58,350
+[RIPLEY]
+How long was I out there?  They won't tell me anything.
+ຂ້ອຍຢູ່ພາຍນອກດົນປານໃດ? ພວກເຂົາຈະບໍ່ບອກຂ້ອຍຫຍັງເລີຍ.
+
+14
+00:00:58,850 --> 00:01:02,000
+[BURKE]
+Well, maybe you shouldn't worry about that just yet.
+ດີ, ບາງທີເຈົ້າບໍ່ຄວນກັງວົນກ່ຽວກັບເລື່ອງນັ້ນເທື່ອ.
+
+15
+00:01:02,500 --> 00:01:04,500
+[RIPLEY]
+How long?
+ດົນປານໃດ?
+
+16
+00:01:05,000 --> 00:01:09,200
+[BURKE]
+All right.  My instinct says you're strong enough to handle this...Fifty-seven years.
+ດີແລ້ວ. ຄວາມຮູ້ສຶກຂອງຂ້ອຍເວົ້າວ່າເຈົ້າແຂງແຮງພໍທີ່ຈະຮັບມືກັບສິ່ງນີ້
+... ຫ້າສິບເຈັດປີ.
+
+17
+00:01:09,700 --> 00:01:11,700
+[RIPLEY]
+Fifty-seven...oh, Christ...
+ຫ້າສິບເຈັດ... ໂອ້ ພຣະຄຣິດ...
+
+18
+00:01:12,200 --> 00:01:18,200
+[BURKE]
+You'd drifted right through the core systems.  It's blind luck that deep-salvage team caught you when they...are you all right?
+ເຈົ້າໄດ້ຍ່າງຜ່ານລະບົບຫຼັກ.
+ມັນເປັນໂຊກດີທີ່ບອດທີ່ທີມງານການຊ່ວຍເຫຼືອເລິກຈັບເຈົ້າເມື່ອພວກເຂົາ... ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+19
+00:01:18,700 --> 00:01:20,800
+[MED-TECH]
+Code Blue!  415.  Code Blue! 4-1-5!
+ລະຫັດສີຟ້າ! 415. ລະຫັດ ສີຟ້າ! 4-1-5!
+
+20
+00:01:21,300 --> 00:01:23,300
+[RIPLEY]
+No...noooo!
+ບໍ່... ບໍ່!
+
+21
+00:01:23,800 --> 00:01:27,300
+[DOCTOR]
+Hold her...Get me an airway, stat! And fifteen cc's of...Jesus!
+ຈັບນາງໄວ້... ໃຫ້ຂ້ອຍທາງຫາຍໃຈ, stat! ແລະສິບຫ້າ cc ຂອງ... ພຣະເຢຊູ!
+
+22
+00:01:27,800 --> 00:01:31,650
+[MED-TECH]
+Bad dreams again?  Do you want something to help you sleep?
+ຄວາມຝັນຮ້າຍອີກເທື່ອຫນຶ່ງ?
+ເຈົ້າຢາກມີບາງສິ່ງບາງຢ່າງທີ່ຈະຊ່ວຍເຈົ້ານອນບໍ?
+
+23
+00:01:32,150 --> 00:01:34,150
+[RIPLEY]
+No.. I've slept enough.
+ບໍ່.. ຂ້ອຍນອນພໍແລ້ວ.
+
+24
+00:01:34,650 --> 00:01:37,100
+[RIPLEY]
+We made it, Jones.  We made it.
+ພວກເຮົາເຮັດໄດ້, ໂຈນສ໌. ພວກເຮົາໄດ້ເຮັດໄດ້.
+
+25
+00:01:37,600 --> 00:01:39,600
+[RIPLEY]
+Dumbshit.
+ໂຊກຮ້າຍ.
+
+26
+00:01:40,100 --> 00:01:42,200
+[BURKE]
+Sorry...I've been running behind all morning.
+ຂໍໂທດ... ຂ້ອຍແລ່ນຢູ່ເບື້ອງຫຼັງຕະຫຼອດເຊົ້າ.
+
+27
+00:01:42,700 --> 00:01:44,800
+[RIPLEY]
+Have they located my daughter yet?
+ພວກເຂົາໄດ້ຊອກຫາລູກສາວຂອງຂ້ອຍແລ້ວບໍ?
+
+28
+00:01:45,300 --> 00:01:48,800
+[BURKE]
+Well, I was going to wait until after the inquest...
+ດີ, ຂ້ອຍຈະລໍຖ້າຈົນກວ່າຫຼັງຈາກການສອບສວນ...
+
+29
+00:01:49,300 --> 00:01:51,300
+[RIPLEY]
+Is she...?
+ນາງເປັນບໍ?
+
+30
+00:01:51,800 --> 00:01:57,750
+[BURKE]
+Amanda Ripley-McClaren.  Married name, I guess.  Age:  sixty-six ...at time of death.  Two years ago.  I'm sorry.
+ແມນດາ ຣິບລີ ແມັກຄລເລນ. ຊື່ແຕ່ງງານ, ຂ້ອຍຄິດວ່າ. ອາຍຸ
+: ສິບຫົກປີ... ໃນເວລາທີ່ຕາຍ. ສອງປີກ່ອນ. ຂ້ອຍຂໍໂທດ.
+
+31
+00:01:58,250 --> 00:02:00,250
+[RIPLEY]
+Amy.
+ເອມີຍ
+
+32
+00:02:00,750 --> 00:02:06,700
+[BURKE]
+Cancer.  Hmmmm.  They still haven't licked that one.  Cremated.  Interred Parkside Repository, Little Chute, Wisconsin.  No children.
+ມະເຮັງ. Hmmmm. ພວກເຂົາຍັງບໍ່ລ້າງຄົນນັ້ນເທື່ອ. ຖືກເຜົາໄຫມ້.
+ບ່ອນເກັບຮັກສາບ່ອນຈອດລົດທີ່ຝັງໄວ້, Little Chute, Wisconsin. ບໍ່ມີເດັກນ້ອຍ.
+
+33
+00:02:07,200 --> 00:02:13,200
+[RIPLEY]
+I promised her I'd be home for her birthday.  Her eleventh birthday.  I sure missed that one.  Well...she has already learned to take my promises with a grain of salt.  When it came to flight schedules, anyway.
+ຂ້ອຍສັນຍາໃຫ້ນາງວ່າຂ້ອຍຈະຢູ່ເຮືອນໃນວັນເກີດຂອງນາງ. ວັນເກີດຄັ້ງທີສິບຫນຶ່ງ ຂອງນາງ. ຂ້ອຍແນ່ນອນວ່າພາດຄົນນັ້ນ. ດີ
+... ນາງໄດ້ຮຽນຮູ້ແລ້ວທີ່ຈະເອົາ ຄໍາ ຫມັ້ນ ສັນຍາຂອງຂ້ອຍດ້ວຍເມັດເກືອ. ເມື່ອເວົ້າເຖິງແຜນການບິນ, ຢ່າງໃດກໍ່ຕາມ.
+
+34
+00:02:13,700 --> 00:02:19,700
+[RIPLEY]
+You always think you can make it up to somebody...later, you know. But now I never can.  I never can.
+ເຈົ້າຄິດວ່າເຈົ້າສາມາດຊົດເຊີຍຄົນອື່ນໄດ້... ຕໍ່ມາ, ເຈົ້າຮູ້ແລ້ວ
+. ແຕ່ດຽວນີ້ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ເລີຍ. ຂ້ອຍບໍ່ເຄີຍເຮັດໄດ້.
+
+35
+00:02:20,200 --> 00:02:24,050
+[BURKE]
+The hearing convenes at 0930.  You don't want to be late.
+ການຮັບຟັງປະຊຸມໃນເວລາ 0930. ເຈົ້າບໍ່ຢາກຊ້າ.
+
+36
+00:02:24,550 --> 00:02:27,000
+[RIPLEY]
+You read my deposition...it's complete and accurate.
+ເຈົ້າອ່ານຄໍາຖະແຫຼງຂອງຂ້ອຍ... ມັນສົມບູນແບບແລະຖືກຕ້ອງ.
+
+37
+00:02:27,500 --> 00:02:33,500
+[BURKE]
+Look, I believe you, but there are going to be some heavyweights in there.  You got Feds, you got interstellar commerce commission, you got colonial administration, insurance company guys...
+ເບິ່ງ, ຂ້ອຍເຊື່ອເຈົ້າ, ແຕ່ຈະມີນ້ ໍາ ຫນັກ ຫນັກ ບາງຢ່າງຢູ່ບ່ອນນັ້ນ. ເຈົ້າມີລັດຖະບານກາງ,
+ເຈົ້າມີຄະນະກໍາມະການການຄ້າລະຫວ່າງດາວ, ເຈົ້າມີການບໍລິຫານຄolonial, ຜູ້ຊາຍບໍລິສັດປະກັນໄພ...
+
+38
+00:02:34,000 --> 00:02:36,000
+[RIPLEY]
+I get the picture.
+ຂ້ອຍເຂົ້າໃຈຮູບແລ້ວ.
+
+39
+00:02:36,500 --> 00:02:41,400
+[BURKE]
+Just tell them what happened.  The important thing is to stay cool and unemotional.
+ພຽງແຕ່ບອກພວກເຂົາວ່າເກີດຫຍັງຂຶ້ນ.
+ສິ່ງສໍາຄັນແມ່ນທີ່ຈະຢູ່ເຢັນແລະບໍ່ມີຄວາມຮູ້ສຶກ.
+
+40
+00:02:41,900 --> 00:02:47,900
+[RIPLEY]
+Do you people have earwax, of what?  We have been here three hours.  How many different ways do you want me to tell the same story?
+ພວກເຈົ້າມີຜົງຫູບໍ, ຂອງຫຍັງ? ພວກເຮົາຢູ່ບ່ອນນີ້ສາມຊົ່ວໂມງແລ້ວ
+. ເຈົ້າຢາກໃຫ້ຂ້ອຍບອກເລື່ອງດຽວກັນຫຼາຍປານໃດ?
+
+41
+00:02:48,400 --> 00:02:54,400
+[VAN LEUWEN]
+Look at it from our perspective. You freely admit to detonating the engines of, and thereby destroying, an M-Class star-freighter.  A rather expensive piece of hardware...
+ເບິ່ງມັນຈາກທັດສະນະຂອງພວກເຮົາ. ເຈົ້າຍອມຮັບຢ່າງເສລີວ່າໄດ້ລະເບີດເຄື່ອງຈັກຂອງ
+, ແລະດັ່ງນັ້ນ ທໍາ ລາຍ, ເຮືອຂົນສົ່ງດາວຊັ້ນ M. ເຄື່ອງ Hardware ທີ່ແພງຫຼາຍ...
+
+42
+00:02:54,900 --> 00:02:58,400
+[INSURANCE INVESTIGATOR]
+Forty-two million in adjusted dollars. That's minus payload, of course.
+ສີ່ສິບສອງລ້ານໂດລາທີ່ຖືກປັບປຸງ. ນັ້ນແມ່ນໂຫຼດປະໂຫຍດຫນ້ອຍ, ແນ່ນອນ.
+
+43
+00:02:58,900 --> 00:03:04,900
+[VAN LEUWEN]
+The shuttle's flight recorder corroborates some elements of your account.  That the Nostromo set down on LV-426, an unsurveyed planet, at that time.  That repairs were made.  That it resumed its course and was subsequently set for self-destruct.  By you.  For reasons unknown.
+ເຄື່ອງບັນທຶກການບິນຂອງເຮືອຂົນສົ່ງຢືນຢັນບາງອົງປະກອບຂອງບັນຊີຂອງທ່ານ. ວ່າ Nostromo ໄດ້ລົງຈອດຢູ່ LV-426, ດາວທຽມທີ່ບໍ່ຖືກວັດແທກ, ໃນເວລານັ້ນ
+. ວ່າການສ້ອມແປງໄດ້ຖືກເຮັດ. ວ່າມັນໄດ້ສືບຕໍ່ເສັ້ນທາງຂອງຕົນແລະຫຼັງຈາກນັ້ນຖືກຕັ້ງໄວ້ເພື່ອການທໍາລາຍຕົວເອງ. ໂດຍທ່ານ. ດ້ວຍເຫດຜົນທີ່ບໍ່ຮູ້.
+
+44
+00:03:05,400 --> 00:03:07,400
+[RIPLEY]
+Look, I told you...
+ເບິ່ງ, ຂ້ອຍບອກເຈົ້າແລ້ວ...
+
+45
+00:03:07,900 --> 00:03:13,500
+[VAN LEUWEN]
+It did not, however, contain any entries concerning the hostile life form you allegedly picked up.
+ເຖິງຢ່າງໃດກໍ່ຕາມ,
+ມັນບໍ່ໄດ້ບັນຈຸຂໍ້ບັນທຶກໃດໆກ່ຽວກັບຮູບແບບຊີວິດທີ່ເປັນສັດຕູທີ່ທ່ານຖືກກ່າວຫາວ່າເອົາ.
+
+46
+00:03:14,000 --> 00:03:18,550
+[RIPLEY]
+Then somebody's gotten to it... doctored the recorder.  Who had access to it?
+ຫຼັງຈາກນັ້ນບາງຄົນໄດ້ເຂົ້າມາໃສ່ມັນ...
+ປອມແປງເຄື່ອງບັນທຶກ. ໃຜສາມາດເຂົ້າເຖິງມັນໄດ້?
+
+47
+00:03:19,050 --> 00:03:22,200
+[ECA REP]
+Would you just listen to yourself for one minute.
+ເຈົ້າພຽງແຕ່ຟັງຕົວເອງ ຫນຶ່ງ ນາທີບໍ.
+
+48
+00:03:22,700 --> 00:03:28,700
+[VAN LEUWEN]
+The analysis team which went over your shuttle centimeter by centimeter found no physical evidence of the creature you describe...
+ທີມງານວິເຄາະທີ່ຜ່ານເຮືອຂົນສົ່ງຂອງທ່ານເຊັນຕີແມັດຕໍ່ເຊັນຕິແມັດບໍ່ພົບຫຼັກຖານທາງດ້ານຮ່າງກາຍຂອງສັດທີ່ທ່ານອະທິບາຍ
+...
+
+49
+00:03:29,200 --> 00:03:33,400
+[RIPLEY]
+That's because I blew it out the Goddamn airlock!  Like I said.
+ນັ້ນແມ່ນຍ້ອນວ່າຂ້ອຍໄດ້ພັດມັນອອກລັອກອາກາດ! ດັ່ງທີ່ຂ້ອຍບອກແລ້ວ.
+
+50
+00:03:33,900 --> 00:03:37,400
+[INSURANCE MAN]
+Are there any species like this 'hostile organism' on LV-426?
+ມີຊະນິດໃດໆເຊັ່ນ'ສັດຕູ' ນີ້ຢູ່ເທິງ LV-426 ບໍ?
+
+51
+00:03:37,900 --> 00:03:42,100
+[ECA REP]
+No.  It's a rock.  No indigenous life larger than a simple virus.
+ບໍ່. ມັນເປັນຫີນ. ບໍ່ມີຊີວິດພື້ນເມືອງທີ່ໃຫຍ່ກວ່າໄວຣັສງ່າຍດາຍ.
+
+52
+00:03:42,600 --> 00:03:48,600
+[RIPLEY]
+I told you, it wasn't indigenous. There was an alien spacecraft there. A derelict ship.  We homed on its beacon...
+ຂ້ອຍບອກເຈົ້າແລ້ວ, ມັນບໍ່ແມ່ນພື້ນເມືອງ. ມີຍານອະວະກາດຕ່າງດາວຢູ່ບ່ອນນັ້ນ
+. ເຮືອທີ່ຖືກປະຖິ້ມໄວ້. ພວກເຮົາໄດ້ຕິດຕາມແສງສະຫວ່າງຂອງມັນ...
+
+53
+00:03:49,100 --> 00:03:55,100
+[ECA REP]
+To be perfectly frank, we've surveyed over three hundred worlds and no one's ever reported a creature which, using your words...  ...'gestates in a living human host' and has 'concentrated molecular acid for blood.'
+ເພື່ອເປັນຄວາມຈິງໃຈຢ່າງສົມບູນແບບ, ພວກເຮົາໄດ້ສໍາຫຼວດຫຼາຍກວ່າສາມຮ້ອຍໂລກແລະບໍ່ມີໃຜເຄີຍລາຍງານສິ່ງມີຊີວິດທີ່
+, ໂດຍໃຊ້ຄໍາເວົ້າຂອງທ່ານ......'ຖືພາໃນເຈົ້າພາບມະນຸດທີ່ມີຊີວິດຢູ່' ແລະມີ'ອາຊິດໂມເລກຸນສຸມໃສ່ເລືອດ.
+
+54
+00:03:55,600 --> 00:04:01,600
+[RIPLEY]
+Look, I can see where this is going.  But I'm telling you those things exist.  Back on that planetoid is an alien ship and on that ship are thousands of eggs.  Thousands. Do you understand?  I suggest you find it, using the flight recorder's data.  Find it and deal with it -- before one of your survey teams comes back with a little surprise...
+ເບິ່ງ, ຂ້ອຍເຫັນວ່າສິ່ງນີ້ ກໍາ ລັງໄປໃສ. ແຕ່ຂ້ອຍບອກເຈົ້າວ່າສິ່ງເຫຼົ່ານັ້ນມີຢູ່. ກັບຄືນໄປບ່ອນໃນໂລກໂລກນັ້ນແມ່ນເຮືອຕ່າງດາວແລະໃນເຮືອນັ້ນມີໄຂ່ຫຼາຍພັນ. ຫຼາຍພັນ. ເຈົ້າເຂົ້າໃຈບໍ
+? ຂ້ອຍແນະ ນໍາ ໃຫ້ເຈົ້າຊອກຫາມັນ, ໂດຍໃຊ້ຂໍ້ມູນຂອງເຄື່ອງບັນທຶກການບິນ. ຊອກຫາມັນແລະຈັດການກັບມັນ - ກ່ອນທີ່ທີມງານ ສໍາ ຫຼວດຂອງທ່ານ ຫນຶ່ງ ຈະກັບມາດ້ວຍຄວາມແປກໃຈນ້ອຍໆ...
+
+55
+00:04:02,100 --> 00:04:04,550
+[VAN LEUWEN]
+Thank you, Officer Ripley.  That will be...
+ຂອບໃຈ, ເຈົ້າຫນ້າທີ່ Ripley. ນັ້ນຈະເປັນ...
+
+56
+00:04:05,050 --> 00:04:11,000
+[RIPLEY]
+...because just one of those things managed to kill my entire crew, within twelve hours of hatching...
+... ເພາະວ່າພຽງແຕ່ສິ່ງ ຫນຶ່ງ ໃນສິ່ງນັ້ນສາມາດຂ້າລູກເຮືອທັງ
+ຫມົດ ຂອງຂ້ອຍໄດ້, ພາຍໃນເວລາສິບສອງຊົ່ວໂມງຂອງການແຕກ...
+
+57
+00:04:11,500 --> 00:04:13,600
+[VAN LEUWEN]
+Thank you, that will be all.
+ຂອບໃຈ, ນັ້ນຈະເປັນທັງຫມົດ.
+
+58
+00:04:14,100 --> 00:04:20,100
+[RIPLEY]
+That's not all, Goddamnit!  If those things get back here, that will be all.  Then you can just kiss it good-bye, Jack!  Just kiss it goodbye.
+ນັ້ນບໍ່ແມ່ນທັງ ຫມົດ, ສະຫວັນນະເຂດ! ຖ້າສິ່ງເຫຼົ່ານັ້ນກັບມາບ່ອນນີ້, ນັ້ນຈະເປັນທັງ
+ຫມົດ. ຫຼັງຈາກນັ້ນເຈົ້າພຽງແຕ່ສາມາດຈູບມັນເປັນອວຍພອນ, ແຈກ! ພຽງແຕ່ວຽກັນເປັນອາຍພອນ.
+
+59
+00:04:20,600 --> 00:04:23,750
+[BURKE]
+You had them eating out of your hand, kiddo.
+ເຈົ້າເຮັດໃຫ້ພວກເຂົາກິນຈາກມືຂອງທ່ານ, ເດັກນ້ອຍ.
+
+60
+00:04:24,250 --> 00:04:30,250
+[RIPLEY]
+They had their minds made up before I even went in there. They think I'm a head case.
+ພວກເຂົາໄດ້ຕັດສິນໃຈກ່ອນທີ່ຂ້ອຍຈະເຂົ້າໄປໃນບ່ອນນັ້ນ
+. ພວກເຂົາຄິດວ່າຂ້ອຍເປັນກໍລະນີຫົວໃຈ.
+
+61
+00:04:30,750 --> 00:04:33,550
+[BURKE]
+You are a head case.  Have a donut.
+ເຈົ້າເປັນກໍລະນີຫົວໃຈ. ກິນດອນຕ໌.
+
+62
+00:04:34,050 --> 00:04:40,050
+[VAN LEUWEN]
+It is the finding of this board of inquiry that Warrent Officer Ellen Ripley, NOC-14672. has acted with questionable judgment and is unfit to hold an ICC license as a commercial flight officer.
+ມັນເປັນການພົບເຫັນຂອງຄະນະກໍາມະການສອບສວນນີ້ວ່າເຈົ້າຫນ້າທີ່ຮັບປະກັນເອເລນ ຣິບລີ, NOC-14672.
+ໄດ້ປະຕິບັດງານດ້ວຍການຕັດສິນໃຈທີ່ສົງໄສແລະບໍ່ ເຫມາະ ສົມທີ່ຈະຖືໃບອະນຸຍາດ ICC ເປັນເຈົ້າຫນ້າທີ່ການບິນການຄ້າ.
+
+63
+00:04:40,550 --> 00:04:46,550
+[VAN LEUWEN]
+Said license is hereby suspended indefinitely.  No criminal charges will be filed at this time and you are released on own recognizance for a six month period of psychometric probation, to include monthly review by an ICC psychiatric tech...
+ໃບອະນຸຍາດທີ່ກ່າວມານີ້ຖືກໂຈະຢ່າງບໍ່ກໍານົດເວລາ. ບໍ່ມີຂໍ້ກ່າວຫາທາງອາຍາຈະຖືກຍື່ນໃນເວລານີ້ແລະເຈົ້າຖືກປ່ອຍຕົວຕາມການຍອມຮັບເອງເປັນໄລຍະເວລາຫົກເດືອນຂອງການທົດສອບທາງຈິດໃຈ
+, ລວມທັງການທົບທວນຄືນປະຈໍາເດືອນໂດຍເຕັກນິກຈິດວິນຍານ ICC...
+
+64
+00:04:47,050 --> 00:04:49,150
+[RIPLEY]
+Why won't you check out LV-426?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ໄປກວດ LV-426?
+
+65
+00:04:49,650 --> 00:04:55,650
+[VAN LEUWEN]
+Because I don't have to.  The people who live there checked it out years ago and they never reported and 'hostile organism' or alien ship.  And by the way, they call it Acheron now.
+ເພາະວ່າຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງເຮັດ. ຄົນທີ່ອາໄສຢູ່ບ່ອນນັ້ນໄດ້ກວດເບິ່ງມັນຫຼາຍປີກ່ອນແລະພວກເຂົາບໍ່ເຄີຍລາຍງານແລະ'ອົງກອນສັດຕູ'
+ຫຼືເຮືອຕ່າງດາວ. ແລະໂດຍທາງ, ພວກເຂົາເອີ້ນມັນວ່າ Acheron ດຽວນີ້.
+
+66
+00:04:56,150 --> 00:04:58,600
+[RIPLEY]
+What are you talking about. What people?
+ເຈົ້າເວົ້າຫຍັງຢູ່. ຄົນໃດ?
+
+67
+00:04:59,100 --> 00:05:05,100
+[VAN LEUWEN]
+Terraformers...planet engineers. It's what we call a shake 'n' bake colony.  They set up atmosphere processors to make the air breathable...big job.  Takes decades.  They've already been there over twenty years.  Peacefully.
+ພວກກໍ່ສ້າງດິນແດນ... ວິສະວະກອນໂລກ. ມັນແມ່ນສິ່ງທີ່ພວກເຮົາເອີ້ນວ່າຄລູເນຍສັ່ນສະເທືອນ'n' ບັກ.
+ພວກເຂົາຕັ້ງເຄື່ອງປະມວນຜົນບັນຍາກາດເພື່ອເຮັດໃຫ້ອາກາດຫາຍໃຈໄດ້... ວຽກງານໃຫຍ່. ໃຊ້ເວລາຫຼາຍສິບປີ. ພວກເຂົາຢູ່ບ່ອນນັ້ນແລ້ວຫຼາຍກວ່າສິບ ປີ. ຢ່າງສັນຕິພາບ.
+
+68
+00:05:05,600 --> 00:05:07,600
+[RIPLEY]
+How many colonists?
+ພວກຄລູເນຍຫຼາຍປານໃດ?
+
+69
+00:05:08,100 --> 00:05:10,100
+[VAN LEUWEN]
+Sixty, maybe seventy families.
+ຫົກສິບ, ບາງທີເຈັດສິບຄອບຄົວ.
+
+70
+00:05:10,600 --> 00:05:12,600
+[RIPLEY]
+Sweet Jesus.
+ພຣະເຢຊູທີ່ຫວານ.
+
+71
+00:05:13,100 --> 00:05:15,100
+[ELEVATOR PASSENGER]
+Do you mind?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+72
+00:05:15,600 --> 00:05:21,600
+["WELCOME TO ACHERON"]
+Some local has added below in spray-can graffiti "Have a nice day."  Gale-force wind SCREECHES around the steel sign, driving a freezing rain.
+ຄຸເຂົ່າລົງ
+
+73
+00:05:22,100 --> 00:05:28,100
+[LYDECKER]
+You remember you sent some wildcatters out to that plateau, out past the Ilium range, a couple days ago?
+ເຈົ້າຈື່ບໍ່ວ່າເຈົ້າໄດ້ສົ່ງແມວປ່າບາງຄົນອອກໄປເທິງພູພຽງນັ້ນ
+, ນອກຈາກລະດັບ Ilium, ສອງສາມມື້ກ່ອນ?
+
+74
+00:05:28,600 --> 00:05:30,600
+[SIMPSON]
+Yeah.  What?
+ແມ່ນແລ້ວ. ຫຍັງ?
+
+75
+00:05:31,100 --> 00:05:37,100
+[LYDECKER]
+There's a guy on the horn, mom-and-pop survey team.  Says he's homing on something and wants to know if his claim will be honored.
+ມີຜູ້ຊາຍຄົນຫນຶ່ງໃນກະດານ, ທີມງານການສໍາຫຼວດແມ່ແລະພໍ່. ກ່າວວ່າລາວ ກໍາ
+ລັງແນໃສ່ບາງສິ່ງບາງຢ່າງແລະຢາກຮູ້ວ່າການຮ້ອງຂໍຂອງລາວຈະຖືກເຄົາລົບຫຼືບໍ່.
+
+76
+00:05:37,600 --> 00:05:43,600
+[SIMPSON]
+Christ.  Some honch in a cushy office on Earth says go look at a grid reference in the middle of nowhere, we look.  They don't say why, and I don't ask.  I don't ask because it takes two weeks to get an answer out here and the answer's always 'don't ask.'
+ພຣະຄຣິດ. ບາງຄົນໃນຫ້ອງການທີ່ສະບາຍໃນໂລກເວົ້າວ່າ ໄປເບິ່ງການອ້າງອີງເຄືອຂ່າຍໃນກາງບໍ່ມີບ່ອນໃດ, ພວກເຮົາເບິ່ງ. ພວກເຂົາບໍ່ບອກເຫດຜົນ
+, ແລະຂ້ອຍບໍ່ຖາມ. ຂ້ອຍບໍ່ຖາມເພາະວ່າມັນໃຊ້ເວລາສອງອາທິດເພື່ອໄດ້ຮັບ ຄໍາ ຕອບຢູ່ນີ້ແລະ ຄໍາ ຕອບແມ່ນສະເຫມີ' ຢ່າຖາມ.
+
+77
+00:05:44,100 --> 00:05:46,550
+[LYDECKER]
+So what do I tell this guy?
+ຂ້ອຍຈະບອກຄົນນີ້ຫຍັງ?
+
+78
+00:05:47,050 --> 00:05:51,250
+[SIMPSON]
+Tell him, as far as I'm concerned, he finds something it's his.
+ບອກລາວວ່າ, ກ່ຽວກັບຂ້ອຍ, ລາວພົບບາງສິ່ງບາງຢ່າງມັນເປັນຂອງຕົນເອງ.
+
+79
+00:05:51,750 --> 00:05:55,950
+[JORDEN]
+Look at this fat, juicy magnetic profile.  And it's mine, mine, mine.
+ເບິ່ງໂປຣໄຟລ໌ແມ່ເຫຼັກທີ່ໄຂມັນແລະຫວານນີ້ແມ
+. ແລະມັນຂອງຂ້ອຍ, ຂອງຂ້ອຍ, ຂອງຂອງຂ້ອຍ.
+
+80
+00:05:56,450 --> 00:05:58,450
+[ANNE]
+Half mine, dear.
+ເຄິ່ງຫນຶ່ງຂອງຂ້ອຍ, ແມ.
+
+81
+00:05:58,950 --> 00:06:00,950
+[NEWT]
+And half mine!
+ແລະເຄິ່ງຫນຶ່ງຂອງຂ້ອຍ!
+
+82
+00:06:01,450 --> 00:06:03,450
+[JORDEN]
+I got too many partners.
+ຂ້ອຍມີຄູ່ຮ່ວມງານຫຼາຍເກີນໄປ.
+
+83
+00:06:03,950 --> 00:06:06,750
+[NEWT]
+Daddy, when are we going back to town?
+ພໍ່, ພວກເຮົາຈະກັບຄືນໄປເມືອງເມື່ອໃດ?
+
+84
+00:06:07,250 --> 00:06:09,250
+[JORDEN]
+When we get rich, Newt.
+ເມື່ອພວກເຮົາຈະຮັ່ງມີ, ນິວຕ໌.
+
+85
+00:06:09,750 --> 00:06:14,300
+[NEWT]
+You always say that.  I wanna go back.  I wanna play 'Monster Maze.'
+ເຈົ້າເວົ້າແບບນັ້ນຢູ່ສະເຫມີ. ຂ້ອຍຢາກກັບຄືນໄປບ່ອນ
+. ຂ້ອຍຕ້ອງການຫຼິ້ນ'Monster Maze'.
+
+86
+00:06:14,800 --> 00:06:16,800
+[TIM]
+You cheat too much.
+ເຈົ້າຫຼອກລວງຫຼາຍເກີນໄປ.
+
+87
+00:06:17,300 --> 00:06:19,400
+[NEWT]
+Do not.  I'm just the best.
+ຢ່າເຮັດ. ຂ້ອຍພຽງແຕ່ດີທີ່ສຸດ.
+
+88
+00:06:19,900 --> 00:06:23,050
+[TIM]
+Do too!  You go in places we can't fit.
+ເຮັດເຊັ່ນກັນ! ເຈົ້າໄປບ່ອນທີ່ພວກເຮົາບໍ່ສາມາດເຂົ້າໄດ້.
+
+89
+00:06:23,550 --> 00:06:25,650
+[NEWT]
+So!  That's why I'm the best.
+ສະນັ້ນ! ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍເປັນຄົນທີ່ດີທີ່ສຸດ.
+
+90
+00:06:26,150 --> 00:06:32,150
+[ANNE]
+Knock it off!  I catch either of you playing in the air ducts again I'll tan your hides.
+ຢຸດມັນລົງ!
+ຖ້າຂ້ອຍຈັບເຈົ້າໃດຫນຶ່ງຫຼິ້ນໃນທໍ່ອາກາດອີກຄັ້ງຂ້ອຍຈະສີດຜິວຂອງທ່ານ.
+
+91
+00:06:32,650 --> 00:06:34,750
+[NEWT]
+Mom.  All the kids play it...
+ແມ່. ເດັກນ້ອຍທຸກຄົນຫຼິ້ນມັນ...
+
+92
+00:06:35,250 --> 00:06:37,250
+[JORDEN]
+Holy shiiit!
+ສະຫວັນນະເຂດ!
+
+93
+00:06:37,750 --> 00:06:40,200
+[JORDEN]
+Folks, we have scored big this time.
+ພວກຄົນ, ພວກເຮົາໄດ້ຄະແນນໃຫຍ່ໃນຄັ້ງນີ້.
+
+94
+00:06:40,700 --> 00:06:44,550
+[ANNE]
+You kids stay inside.  I mean it!  We'll be right back.
+ພວກເຈົ້າຢູ່ພາຍໃນ. ຂ້ອຍເວົ້າແທ້ໆ! ພວກເຮົາຈະກັບມາທັນທີ.
+
+95
+00:06:45,050 --> 00:06:47,050
+[ANNE]
+Shouldn't we call in?
+ພວກເຮົາບໍ່ຄວນໂທຫາບໍ?
+
+96
+00:06:47,550 --> 00:06:51,400
+[JORDEN]
+Let's wait till we know what to call it in as.
+ພວກເຮົາຈະລໍຖ້າຈົນກວ່າພວກເຮົາຈະຮູ້ວ່າຈະເອີ້ນມັນວ່າແນວໃດ.
+
+97
+00:06:51,900 --> 00:06:53,900
+[ANNE]
+How about 'big weird thing'?
+ຈະເປັນແນວໃດກັບ'ສິ່ງແປກໃຈໃຫຍ່'?
+
+98
+00:06:54,400 --> 00:06:56,400
+[TIM]
+Cheater!
+ຄົນຫຼອກລວງ!
+
+99
+00:06:56,900 --> 00:06:59,000
+[NEWT]
+Timmy...they've been gone a long time.
+ໄຕມມີ... ພວກເຂົາໄປດົນນານແລ້ວ.
+
+100
+00:06:59,500 --> 00:07:02,650
+[TIM]
+It'll be okay, Newt.  Dad knows what he's doing.
+ມັນຈະດີດີ, ນິວຕ໌. ພໍ່ຮູ້ວ່າລາວ ກໍາ ລັງເຮັດຫຍັງ.
+
+101
+00:07:03,150 --> 00:07:08,400
+[ANNE]
+Mayday!  Mayday!  This is Alpha Kilo Two Four Niner calling Hadley Control. Repeat.  This is...
+ວັນພຶດສະພາ! ວັນພຸດ! ນີ້ແມ່ນແອລຟາ
+ກິໂລສອງສີ່ເກົ້າທີ່ໂທຫາການຄວບຄຸມແຮດລີ. ຊໍ້າອີກ. ນີ້ແມ່ນ...
+
+102
+00:07:08,900 --> 00:07:13,800
+[VOICE FROM VIDEO]
+Hey, Bob!  I heard you and the family are heading off for the colonies!
+ເຮ້, ໂບບ! ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າແລະຄອບຄົວ ກໍາ ລັງເດີນທາງໄປສູ່ຄລູເນຍ!
+
+103
+00:07:14,300 --> 00:07:20,300
+[BON]
+Best decision I ever made, Bill. We'll be starting a new life from scratch, in a clean world. No crime.  No unemployment...
+ການຕັດສິນໃຈທີ່ດີທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຮັດ, ບິລ. ພວກເຮົາຈະເລີ່ມຕົ້ນຊີວິດ ໃຫມ່
+ຈາກຈຸດເລີ່ມຕົ້ນ, ໃນໂລກທີ່ສະອາດ. ບໍ່ມີອາຊະຍາກໍາ. ບໍ່ມີການຫວ່າງງານ...
+
+104
+00:07:20,800 --> 00:07:23,600
+[BURKE]
+Hi, Ripley.  This is Lieutenant Gorman of the...
+ສະບາຍດີ, ຣິບລີ. ນີ້ແມ່ນເລັກຕັນ ແກຣມານຈາກ...
+
+105
+00:07:24,100 --> 00:07:28,650
+[BURKE]
+Ripley we have to talk.  They've lost contact with the colony on Acheron.
+Ripley ພວກເຮົາຕ້ອງເວົ້າ.
+ພວກເຂົາໄດ້ສູນເສຍການຕິດຕໍ່ກັບຄລູເນຍໃນ Acheron.
+
+106
+00:07:29,150 --> 00:07:31,150
+[RIPLEY]
+No.  There's no way!
+ບໍ່. ບໍ່ມີທາງໃດເລີຍ!
+
+107
+00:07:31,650 --> 00:07:33,650
+[BURKE]
+Hear me out...
+ຟັງຂ້ອຍອອກ...
+
+108
+00:07:34,150 --> 00:07:40,150
+[RIPLEY]
+I was reamed, steamed and dry-cleaned by you guys...and now you want me to go back out there?  Forget it.
+ຂ້ອຍຖືກເຮັດຄວາມສະອາດດ້ວຍນ້ ໍາ ກ້ອນແລະ ທໍາ ຄວາມສະອາດແຫ້ງໂດຍເຈົ້າ
+... ແລະດຽວນີ້ເຈົ້າຢາກໃຫ້ຂ້ອຍກັບຄືນໄປບ່ອນນັ້ນບໍ? ລືມມັນ.
+
+109
+00:07:40,650 --> 00:07:46,650
+[BURKE]
+Look, we don't know what's going on out there.  It may just be a down transmitter.  But if it's not, I want you there...as an advisor.  That's all.
+ເບິ່ງ, ພວກເຮົາບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນຢູ່ນອກນັ້ນ. ມັນອາດຈະພຽງແຕ່ເປັນເຄື່ອງສົ່ງອອກລົງ
+. ແຕ່ຖ້າມັນບໍ່ແມ່ນ, ຂ້ອຍຢາກໃຫ້ເຈົ້າຢູ່ບ່ອນນັ້ນ... ເປັນທີ່ປຶກສາ. ນັ້ນແມ່ນທັງຫມົດ.
+
+110
+00:07:47,150 --> 00:07:51,700
+[GORMAN]
+You wouldn't be going in with the troops.  I can guarantee your safety.
+ເຈົ້າຈະບໍ່ເຂົ້າກັບທະຫານ. ຂ້ອຍສາມາດຮັບປະກັນຄວາມປອດໄພຂອງທ່ານໄດ້.
+
+111
+00:07:52,200 --> 00:07:58,150
+[BURKE]
+These Colonial Marines are some tough hombres, and they're packing state-of-the-art firepower. Nothing they can't handle...right, Lieutenant?
+ພວກທະຫານເຮືອຄລູເນຍເຫຼົ່ານີ້ແມ່ນຜູ້ຊາຍທີ່ແຂງແຮງບາງຄົນ, ແລະພວກເຂົາ ກໍາ
+ລັງຫຸ້ມຫໍ່ພະລັງງານໄຟທີ່ທັນສະໄຫມ. ບໍ່ມີຫຍັງທີ່ພວກເຂົາບໍ່ສາມາດຮັບມືກັບໄດ້... ແມ່ນບໍ, ສະຫມັກ?
+
+112
+00:07:58,650 --> 00:08:01,800
+[GORMAN]
+We're trained to deal with these kinds of situations.
+ພວກເຮົາໄດ້ຮັບການຝຶກອົບຮົມເພື່ອຮັບມືກັບສະຖານະການປະເພດນີ້.
+
+113
+00:08:02,300 --> 00:08:05,100
+[RIPLEY]
+What about you?  What's your interest in this?
+ເຈົ້າແນວໃດ? ຄວາມສົນໃຈຂອງເຈົ້າໃນເລື່ອງນີ້ແມ່ນຫຍັງ?
+
+114
+00:08:05,600 --> 00:08:11,600
+[BURKE]
+Well, the corporation co-financed that colony with the Colonial Administration, against mineral rights.  We're getting into a lot of terraforming...'Building Better Worlds.'
+ດີ, ບໍລິສັດໄດ້ຮ່ວມທຶນໃຫ້ແກ່ຄລູເນຍນັ້ນກັບການບໍລິຫານຄໍໂລເນຍ, ຕໍ່ຕ້ານສິດແຮ່ທາດ
+. ພວກເຮົາ ກໍາ ລັງເຂົ້າໄປໃນການສ້າງ terraforming ຫຼາຍ...' ການສ້າງໂລກທີ່ດີກວ່າ.
+
+115
+00:08:12,100 --> 00:08:14,200
+[RIPLEY]
+Yeah, yeah.  I saw the commercial.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ. ຂ້ອຍເຫັນໂຄສະນາ.
+
+116
+00:08:14,700 --> 00:08:17,850
+[BURKE]
+I heard you were working in the cargo docks.
+ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າ ກໍາ ລັງເຮັດວຽກຢູ່ດອກສິນຄ້າ.
+
+117
+00:08:18,350 --> 00:08:20,350
+[RIPLEY]
+That's right.
+ນັ້ນແມ່ນແລ້ວ.
+
+118
+00:08:20,850 --> 00:08:23,300
+[BURKE]
+Running loaders, forklifts, that sort of thing?
+ຄຸເຂົ່າລົງ
+
+119
+00:08:23,800 --> 00:08:29,750
+[RIPLEY]
+It's all I could get.  Anyway, it keeps my mind off of... everything.  Days off are worse.
+ມັນເປັນທັງຫມົດທີ່ຂ້ອຍສາມາດໄດ້ຮັບໄດ້. ຢ່າງໃດກໍຕາມ,
+ມັນເຮັດໃຫ້ຈິດໃຈຂອງຂ້ອຍອອກຈາກ... ທຸກຢ່າງ. ມື້ພັກແມ່ນຮ້າຍແຮງກວ່າເກົ່າ.
+
+120
+00:08:30,250 --> 00:08:36,250
+[BURKE]
+What if I said I could get you reinstated as a flight officer? And that the company has agreed to pick up your contract?
+ຖ້າຂ້ອຍບອກວ່າຂ້ອຍສາມາດເຮັດໃຫ້ເຈົ້າຖືກຟື້ນຟູເປັນເຈົ້າຫນ້າທີ່ການບິນໄດ້ແນວໃດ
+? ແລະວ່າບໍລິສັດໄດ້ຕົກລົງທີ່ຈະເອົາສັນຍາຂອງທ່ານ?
+
+121
+00:08:36,750 --> 00:08:38,750
+[RIPLEY]
+If I go.
+ຖ້າຂ້ອຍໄປ.
+
+122
+00:08:39,250 --> 00:08:45,250
+[BURKE]
+If you go.  It's a second chance, kiddo.  And it'll be the best thing in the world for you to face this fear and beat it.  You gotta get back on the horse...
+ຖ້າເຈົ້າໄປ. ມັນເປັນໂອກາດທີສອງ, ເດັກນ້ອຍ. ແລະມັນຈະເປັນສິ່ງທີ່ດີທີ່ສຸດໃນໂລກ ສໍາ
+ລັບເຈົ້າທີ່ຈະປະເຊີນກັບຄວາມຢ້ານກົວນີ້ແລະເອົາຊະນະມັນ. ເຈົ້າຕ້ອງກັບຄືນໄປບ່ອນມ້າ...
+
+123
+00:08:45,750 --> 00:08:49,250
+[RIPLEY]
+Spare me, Burke.  I've had my psych evaluation this month.
+ປ່ອຍຂ້ອຍໄວ້, ບາເກີ. ຂ້ອຍໄດ້ມີການປະເມີນທາງຈິດໃຈຂອງຂ້ອຍໃນເດືອນນີ້.
+
+124
+00:08:49,750 --> 00:08:55,750
+[BURKE]
+Yes, and I've read it.  You wake up every night, sheets soaking, the same nightmare over and over...
+ແມ່ນແລ້ວ, ແລະຂ້ອຍໄດ້ອ່ານມັນແລ້ວ. ເຈົ້າຕື່ນທຸກໆຄືນ,
+ແຜ່ນທີ່ຊຸ່ມຊື່ນ, ຄວາມຝັນຮ້າຍດຽວກັນອີກຄັ້ງແລະອີກຄັ້ງ...
+
+125
+00:08:56,250 --> 00:09:01,150
+[RIPLEY]
+No!  The answer is no.  Now please go.  I'm sorry.  Just go, would you.
+ບໍ່! ຄໍາ ຕອບແມ່ນບໍ່. ດຽວນີ້ຂໍຮ້ອງໄປ.
+ຂ້ອຍຂໍໂທດ. ພຽງແຕ່ໄປ, ເຈົ້າຈະເຮັດແນວໃດ.
+
+126
+00:09:01,650 --> 00:09:03,650
+[BURKE]
+Think about it.
+ຄິດກ່ຽວກັບມັນ.
+
+127
+00:09:04,150 --> 00:09:06,150
+[BURKE]
+Yello?  Oh, Ripley.  Hi...
+ໂຢໂລ? ໂອ້, ຣິບລີ. ສະບາຍດີ...
+
+128
+00:09:06,650 --> 00:09:12,650
+[RIPLEY]
+Burke, just tell me one thing. That you're going out there to kill them.  Not study.  Not bring back.  Just burn them out...clean ...forever.
+ບີກ, ພຽງແຕ່ບອກຂ້ອຍສິ່ງດຽວ. ວ່າເຈົ້າຈະອອກໄປບ່ອນນັ້ນເພື່ອຂ້າພວກເຂົາ.
+ບໍ່ແມ່ນການສຶກສາ. ບໍ່ເອົາກັບມາ. ພຽງແຕ່ເຜົາໄຫມ້ພວກເຂົາອອກ... ສະອາດ... ຕະຫຼອດໄປ.
+
+129
+00:09:13,150 --> 00:09:15,600
+[BURKE]
+That's the plan.  My word on it.
+ນັ້ນແມ່ນແຜນການ. ຄໍາ ຫມັ້ນ ສັນຍາຂອງຂ້ອຍກ່ຽວກັບມັນ.
+
+130
+00:09:16,100 --> 00:09:18,100
+[RIPLEY]
+All right.  I'm in.
+ດີແລ້ວ. ຂ້ອຍເຂົ້າມາແລ້ວ.
+
+131
+00:09:18,600 --> 00:09:21,400
+[RIPLEY]
+And you my dear, are staying right here.
+ແລະເຈົ້າແມ, ຢູ່ບ່ອນນີ້.
+
+132
+00:09:21,900 --> 00:09:24,700
+[SPUNKMEYER]
+Arrgh.  I'm getting too old for this shit.
+ອາຣ໌. ຂ້ອຍ ກໍາ ລັງເຖົ້າເກີນໄປ ສໍາ ລັບສິ່ງນີ້.
+
+133
+00:09:25,200 --> 00:09:27,650
+[DRAKE]
+They ain't payin' us enough for this.
+ພວກເຂົາບໍ່ໄດ້ຈ່າຍເງິນໃຫ້ພວກເຮົາພຽງພໍ ສໍາ ລັບສິ່ງນີ້.
+
+134
+00:09:28,150 --> 00:09:32,000
+[DIETRICH]
+Not enough to have to wake up to your face, Drake.
+ບໍ່ພຽງພໍທີ່ຈະຕ້ອງຕື່ນກັບໃບຫນ້າຂອງທ່ານ, ດຣັກກ໌.
+
+135
+00:09:32,500 --> 00:09:35,300
+[DRAKE]
+Suck air.  Hey, Hicks...you look like I feel.
+ດູດອາກາດ. ເຮ້, ຮິກສ໌... ເຈົ້າເບິ່ງຄືວ່າຂ້ອຍຮູ້ສຶກ.
+
+136
+00:09:35,800 --> 00:09:37,800
+[HUDSON]
+This floor's freezing.
+ພື້ນນີ້ເຢັນແລ້ວ.
+
+137
+00:09:38,300 --> 00:09:44,250
+[APONE]
+Christ.  I never saw such a buncha old women.  You want me to fetch your slippers, Hudson?
+ພຣະຄຣິດ. ຂ້ອຍບໍ່ເຄີຍເຫັນແມ່ຍິງເຖົ້າຄົນດັ່ງກ່າວເລີຍ
+. ເຈົ້າຢາກໃຫ້ຂ້ອຍເອົາເກີບເກີບຂອງທ່ານ, ຮັດຊັນບໍ?
+
+138
+00:09:44,750 --> 00:09:46,750
+[HUDSON]
+Would you, Sir?
+ເຈົ້າຈະເຮັດບໍ, ທ້າວ?
+
+139
+00:09:47,250 --> 00:09:50,050
+[HUDSON]
+Hey, Vasquez...you ever been mistaken for a man?
+ເຮ້, ວາສເກສ... ເຈົ້າເຄີຍຖືກຄິດວ່າເປັນຜູ້ຊາຍບໍ?
+
+140
+00:09:50,550 --> 00:09:52,550
+[VASQUEZ]
+No.  Have you?
+ບໍ່. ເຈົ້າເຮັດບໍ?
+
+141
+00:09:53,050 --> 00:09:55,500
+[FROST]
+Hey, hand job, you take my towel?
+ເຮ້, ການເຮັດວຽກດ້ວຍມື, ເຈົ້າເອົາກະທູ້ຂອງຂ້ອຍບໍ?
+
+142
+00:09:56,000 --> 00:10:02,000
+[SPUNKMEYER]
+I need some slack, man.  How come they send us straight back out like this?  We got some slack comin', man.
+ຂ້ອຍຕ້ອງການຄວາມຊຸ່ມຊື່ນບາງຢ່າງ, ຜູ້ຊາຍ. ເປັນຫຍັງພວກເຂົາຈຶ່ງສົ່ງພວກເຮົາກັບຄືນໄປບ່ອນໂດຍກົງແບບນີ້
+? ພວກເຮົາມີຄວາມຊົດເຊີຍບາງຢ່າງ ກໍາ ລັງມາ, ຜູ້ຜູ້ຊາຍ.
+
+143
+00:10:02,500 --> 00:10:04,500
+[HICKS]
+You just got three weeks.
+ເຈົ້າພຽງແຕ່ມີເວລາສາມອາທິດເທົ່ານັ້ນ.
+
+144
+00:10:05,000 --> 00:10:07,450
+[SPUNKMEYER]
+I mean breathing, not this frozen shit.
+ຂ້ອຍຫມາຍຄວາມວ່າການຫາຍໃຈ, ບໍ່ແມ່ນສິ່ງນີ້ frozen.
+
+145
+00:10:07,950 --> 00:10:09,950
+[DIETRICH]
+Yeah, 'Top'...what about it?
+ແມ່ນແລ້ວ,'ເທິງ'... ມັນແນວໃດ?
+
+146
+00:10:10,450 --> 00:10:16,450
+[APONE]
+You know it ain't up to me.  Awright!  Let's knock off the grabass.  First assembly's in fifteen...let's shag it.
+ເຈົ້າຮູ້ວ່າມັນບໍ່ຂຶ້ນກັບຂ້ອຍ. ໂອ້! ມາເອົາກຣັບບາສອອກ
+. ກອງປະຊຸມຄັ້ງ ທໍາ ອິດແມ່ນໃນສິບຫ້າ... ມາສູບມັນ.
+
+147
+00:10:16,950 --> 00:10:18,950
+[VASQUEZ]
+Who's the fresh meat again?
+ຊີ້ນສົດແມ່ນໃຜອີກເທື່ອຫນຶ່ງ?
+
+148
+00:10:19,450 --> 00:10:23,650
+[FERRO]
+She's supposed to be some kinda consultant...  ...She was an alien once.
+ນາງຄວນເປັນທີ່ປຶກສາບາງຊະນິດ...... ນາງເປັນຄົນຕ່າງດາວຄັ້ງຫນຶ່ງ.
+
+149
+00:10:24,150 --> 00:10:26,150
+[HUDSON]
+Whoooah!  No shit?  I'm impressed.
+ໂວ້! ບໍ່ມີຫຍັງເລີຍ? ຂ້ອຍປະທັບໃຈ.
+
+150
+00:10:26,650 --> 00:10:28,650
+[APONE]
+Let's go...let's go.  Cycle through!
+ໄປ... ໄປ. ວົງຈອນຜ່ານ!
+
+151
+00:10:29,150 --> 00:10:31,150
+[HUDSON]
+Hey, 'Top.'  What's the op?
+ເຮ້,'ເທິງ'. ການປະຕິບັດງານແມ່ນຫຍັງ?
+
+152
+00:10:31,650 --> 00:10:35,850
+[APONE]
+Rescue mission.  There's some juicy colonists' daughters we gotta rescue from virginity.
+ພາລະກິດການຊ່ວຍເຫຼືອ.
+ມີລູກສາວຂອງຊາວຖິ່ນຖານທີ່ສົດໃສບາງຄົນທີ່ພວກເຮົາຕ້ອງຊ່ວຍຈາກຄວາມເປັນສາວ.
+
+153
+00:10:36,350 --> 00:10:39,500
+[SPUNKMEYER]
+Shee-it.  Dumbass colonists. What's this crap supposed to be?
+Shee-it. ພວກຄolonians ຄົນໂງ່. ຄວາມໂຊກຮ້າຍນີ້ຄວນເປັນຫຍັງ?
+
+154
+00:10:40,000 --> 00:10:46,000
+[WIERZBOWSKI]
+Cornbread, I think.  Hey, I wouldn't mind getting me some more a that Arcturan poontang.  Remember that time?
+ເຂົ້າຈີ່ເຂົ້າຈີ່, ຂ້ອຍຄິດວ່າ. ເຮ້, ຂ້ອຍບໍ່ສົນໃຈທີ່ຈະເອົາຂ້ອຍອີກບາງຢ່າງຂອງ
+poontang Arcturan ນັ້ນ. ຈື່ເວລານັ້ນບໍ?
+
+155
+00:10:46,500 --> 00:10:50,700
+[HICKS]
+Looks like that new Lieutenant's too good to eat with us grunts.
+ເບິ່ງຄືວ່າເລັກຕັນນ໌ຄົນໃຫມ່ນັ້ນດີເກີນໄປທີ່ຈະກິນກັບພວກເຮົາຍັງ.
+
+156
+00:10:51,200 --> 00:10:54,350
+[WIERZBOWSKI]
+Yeah.  Got a corn cob up his ass, definitely.
+ຄຸເຂົ່າລົງ
+
+157
+00:10:54,850 --> 00:10:58,000
+[BISHOP]
+I'm sorry you feel that way about Synthetics, Ripley.
+ຂ້ອຍຂໍໂທດວ່າເຈົ້າຮູ້ສຶກແບບນັ້ນກ່ຽວກັບ Synthetics, Ripley.
+
+158
+00:10:58,500 --> 00:11:02,350
+[RIPLEY]
+You never said anything about an android being here!  Why not?
+ເຈົ້າບໍ່ເຄີຍເວົ້າຫຍັງເລີຍວ່າແອນດຣອຍຢູ່ບ່ອນນີ້! ເປັນຫຍັງບໍ່?
+
+159
+00:11:02,850 --> 00:11:08,800
+[BURKE]
+Well, it didn't occur to me.  It's been policy for years to have a synthetic on board.
+ດີ, ມັນບໍ່ໄດ້ຄິດກັບຂ້ອຍ.
+ມັນເປັນນະໂຍບາຍເປັນເວລາຫຼາຍປີທີ່ຈະມີສານສັງເຄາະຢູ່ເທິງເຮືອ.
+
+160
+00:11:09,300 --> 00:11:13,150
+[BISHOP]
+I prefer the term 'artificial person' myself.  Is there a problem?
+ຂ້ອຍມັກ ຄໍາ ວ່າ'ຄົນຫັດຖະກໍາ' ເອງ. ມີບັນຫາບໍ?
+
+161
+00:11:13,650 --> 00:11:17,850
+[BURKE]
+A synthetic malfunctioned on her last trip out.  Some deaths were involved.
+ເຄື່ອງສັງເຄາະຜິດປົກກະຕິໃນການເດີນທາງສຸດທ້າຍຂອງນາງອອກ
+. ມີການຕາຍບາງຄົນກ່ຽວຂ້ອງ.
+
+162
+00:11:18,350 --> 00:11:20,800
+[BISHOP]
+I'm shocked.  Was it an older model?
+ຂ້ອຍຕົກໃຈ. ມັນແມ່ນແບບເກົ່າບໍ?
+
+163
+00:11:21,300 --> 00:11:23,300
+[BURKE]
+Cyberdyne Systems 120-A/2.
+ລະບົບໄຊບີເດິນ 120-A/2.
+
+164
+00:11:23,800 --> 00:11:29,800
+[BISHOP]
+Well, that explains it.  The A/2's were always a bit twitchy. That could never happen now with out behavioral inhibitors.  Impossible for me to harm or, by omission of action, allow to be harmed a human being.  More cornbread?
+ດີ, ນັ້ນອະທິບາຍມັນ. A/2 ແມ່ນສັ່ນສະເທືອນເລັກນ້ອຍຢູ່ສະເຫມີ. ນັ້ນບໍ່ສາມາດເກີດຂຶ້ນໄດ້ດຽວນີ້ໂດຍບໍ່ມີການສະກັດກັ້ນພຶດຕິກໍາຂອງພວກເຮົາ.
+ບໍ່ເປັນໄປໄດ້ ສໍາ ລັບຂ້ອຍທີ່ຈະເຮັດໃຫ້ຮ້າຍແຮງຫຼື, ໂດຍການລືມການກະ ທໍາ, ອະນຸຍາດໃຫ້ໄດ້ຮັບຄວາມຮ້າຍແຮງຂອງມະນຸດ. ເຂົ້າຈີ່ເຂົ້າຫນຽວເພີ່ມເຕີມບໍ?
+
+165
+00:11:30,300 --> 00:11:33,800
+[RIPLEY]
+Just stay away from me, Bishop! You got that straight?
+ພຽງແຕ່ຢູ່ຫ່າງຈາກຂ້ອຍ, Bishop! ເຈົ້າເຂົ້າໃຈແລ້ວບໍ?
+
+166
+00:11:34,300 --> 00:11:36,400
+[WIERZBOWSKI]
+She don't like the cornbread either.
+ນາງບໍ່ມັກເຂົ້າຈີ່ເຊັ່ນກັນ.
+
+167
+00:11:36,900 --> 00:11:38,900
+[APONE]
+Tench-hut!
+ຕັນຊ໌!
+
+168
+00:11:39,400 --> 00:11:44,650
+[GORMAN]
+At ease.  I'm sorry we didn't have time to brief before we left Gateway but...
+ສະບາຍໃຈ. ຂ້ອຍຂໍໂທດວ່າພວກເຮົາບໍ່ມີເວລາທີ່ຈະລາຍງານກ່ອນທີ່ພວກເຮົາອອກຈາກ
+Gateway ແຕ່...
+
+169
+00:11:45,150 --> 00:11:47,150
+[HUDSON]
+Sir?
+ເຈົ້າບໍ?
+
+170
+00:11:47,650 --> 00:11:49,650
+[GORMAN]
+Yes, Hicks?
+ແມ່ນແລ້ວ, ຮິກສ໌?
+
+171
+00:11:50,150 --> 00:11:52,150
+[HUDSON]
+Hudson, Sir.  He's Hicks.
+ຮັດຊັນ, ທ້າວ. ລາວເປັນຮິກສ໌.
+
+172
+00:11:52,650 --> 00:11:54,650
+[GORMAN]
+What's the question?
+ຄໍາຖາມແມ່ນຫຍັງ?
+
+173
+00:11:55,150 --> 00:11:59,350
+[HUDSON]
+Is this going to be a stand-up fight, Sir, on another bug-hunt?
+ນີ້ແມ່ນຈະເປັນການຕໍ່ສູ້ທີ່ຢືນຢູ່ບໍ, ທ້າວ, ໃນການລ່າແມງໄມ້ອີກຄັ້ງບໍ?
+
+174
+00:11:59,850 --> 00:12:05,850
+[GORMAN]
+All we know is that there's still no contact with the colony and that a xenomorph may be involved.
+ພວກເຮົາພຽງແຕ່ຮູ້ວ່າຍັງບໍ່ມີການຕິດຕໍ່ກັບຄລູເນຍແລະວ່າຄົນ
+xenomorph ອາດມີສ່ວນຮ່ວມ.
+
+175
+00:12:06,350 --> 00:12:08,350
+[WIERZBOWSKI]
+A what?
+ຫຍັງ?
+
+176
+00:12:08,850 --> 00:12:11,650
+[HICKS]
+It's a bug-hunt.  So what are these things?
+ມັນເປັນການລ່າແມງໄມ້. ສະນັ້ນສິ່ງເຫຼົ່ານີ້ແມ່ນຫຍັງ?
+
+177
+00:12:12,150 --> 00:12:14,600
+[RIPLEY]
+I've dictated what I know on these.
+ຂ້ອຍໄດ້ສັ່ງວ່າຂ້ອຍຮູ້ຫຍັງກ່ຽວກັບສິ່ງເຫຼົ່ານີ້.
+
+178
+00:12:15,100 --> 00:12:17,100
+[APONE]
+Tease us a bit.
+ເຮັດໃຫ້ພວກເຮົາໂຊກຮ້າຍເລັກນ້ອຍ.
+
+179
+00:12:17,600 --> 00:12:19,600
+[SPUNKMEYER]
+Yeah...previews.
+ແມ່ນແລ້ວ... ການເບິ່ງກ່ອນ.
+
+180
+00:12:20,100 --> 00:12:26,100
+[RIPLEY]
+Okay.  It's important to understand this organism's life cycle.  It's actually two creatures.  The first form hatches from a spore...a sort of large egg, and attaches itself to its victim.  Then it injects an embryo, detaches and dies. It's essentially a walking sex organ. The --
+ດີແລ້ວ. ມັນມີຄວາມສໍາຄັນທີ່ຈະເຂົ້າໃຈວົງຈອນຊີວິດຂອງຊີວະພາບນີ້. ມັນແມ່ນສັດສອງຢ່າງແທ້ຈິງ. ຮູບແບບ ທໍາ ອິດເກີດຈາກ spore... ເປັນປະເພດຂອງໄຂ່ໃຫຍ່
+, ແລະຕິດຕົວເອງກັບຜູ້ເຄາະຮ້າຍຂອງມັນ. ຫຼັງຈາກນັ້ນມັນສັກຢາໄຂ່ທ້ອງ, ແບ່ງແຍກແລະຕາຍ. ມັນແມ່ນສ່ວນໃຫຍ່ເປັນອະໄວຍະວະເພດທີ່ຍ່າງ. ການ -
+
+181
+00:12:26,600 --> 00:12:28,600
+[HUDSON]
+Sounds like you, Hicks.
+ມັນເບິ່ງຄືວ່າເຈົ້າ, ຮິກສ໌.
+
+182
+00:12:29,100 --> 00:12:35,100
+[RIPLEY]
+The embryo, the second form, hosts in the victim's body for several hours.  Gestating.  Then it...  ...then it...emerges.  Moults. Grows rapidly --
+ໄຂ່ທ້ອງ, ຮູບແບບທີສອງ, ເປັນເຈົ້າພາບໃນຮ່າງກາຍຂອງຜູ້ເຄາະຮ້າຍເປັນເວລາຫຼາຍຊົ່ວໂມງ.
+ການຖືພາ. ຫຼັງຈາກນັ້ນມັນ...... ຫຼັງຈາກນັ້ນ ມັນ... ອອກມາ. Moults. ຂະຫຍາຍຕົວຢ່າງໄວວາ -
+
+183
+00:12:35,600 --> 00:12:38,050
+[VASQUEZ]
+I only need to know one thing.
+ຂ້ອຍພຽງແຕ່ຕ້ອງຮູ້ສິ່ງດຽວເທົ່ານັ້ນ.
+
+184
+00:12:38,550 --> 00:12:40,550
+[RIPLEY]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+185
+00:12:41,050 --> 00:12:43,050
+[VASQUEZ]
+Where they are.
+ບ່ອນທີ່ພວກເຂົາຢູ່.
+
+186
+00:12:43,550 --> 00:12:45,550
+[DRAKE]
+Yo!  Vasquez.  Kick ass!
+ໂຢ! ວາສເກສ. ເອົາຫລັງ!
+
+187
+00:12:46,050 --> 00:12:48,050
+[VASQUEZ]
+Anytime.  Anywhere.
+ທຸກເວລາ. ທຸກບ່ອນ.
+
+188
+00:12:48,550 --> 00:12:52,400
+[HUDSON]
+Somebody said alien...she thought they said illegal alien and signed up.
+ບາງຄົນເວົ້າວ່າຄົນຕ່າງດ້າວ...
+ນາງຄິດວ່າພວກເຂົາເວົ້າວ່າຄົນຕ່າງປະເທດຜິດກົດຫມາຍແລະລົງທະບຽນ.
+
+189
+00:12:52,900 --> 00:12:54,900
+[VASQUEZ]
+Fuck you.
+ເຈົ້າໄປໂຊກຮ້າຍ.
+
+190
+00:12:55,400 --> 00:12:57,400
+[HUDSON]
+Anytime.  Anywhere.
+ທຸກເວລາ. ທຸກບ່ອນ.
+
+191
+00:12:57,900 --> 00:13:00,350
+[RIPLEY]
+Am I disturbing you conversation Mr. Hudson?
+ຂ້ອຍລົບກວນການສົນທະນາຂອງທ່ານບໍ ທ້າວຮັດຊັນ?
+
+192
+00:13:00,850 --> 00:13:03,300
+[RIPLEY]
+I hope you're right.  I really do.
+ຂ້ອຍຫວັງວ່າເຈົ້າຖືກຕ້ອງ. ຂ້ອຍເຮັດແທ້ໆ.
+
+193
+00:13:03,800 --> 00:13:09,050
+[BURKE]
+I suggest you study the disks Ripley has been kind enough to prepare for you.
+ຂ້ອຍແນະ ນໍາ ໃຫ້ເຈົ້າສຶກສາແຜ່ນດິດ Ripley
+ໄດ້ເປັນໃຈບຸນພຽງພໍທີ່ຈະກະກຽມ ສໍາ ລັບເຈົ້າ.
+
+194
+00:13:09,550 --> 00:13:11,550
+[GORMAN]
+Are there any questions?  Hudson?
+ມີຄໍາຖາມໃດບໍ? ຮັດຊັນ?
+
+195
+00:13:12,050 --> 00:13:15,200
+[HUDSON]
+How do I get out of this chicken-shit outfit?
+ຂ້ອຍຈະອອກຈາກຊຸດທີ່ໂຊກຮ້າຍນີ້ແນວໃດ?
+
+196
+00:13:15,700 --> 00:13:21,700
+[GORMAN]
+All right.  I want this to go smooth and by the numbers.  I want DCS and tactical database assimilation by 0830.  Ordnance loading, weapons strip and drop-ship prep details will have seven hours...
+ດີແລ້ວ. ຂ້ອຍຢາກໃຫ້ສິ່ງນີ້ ດໍາ ເນີນໄປຢ່າງລຽບງ່າຍແລະຕາມຕົວເລກ. ຂ້ອຍຕ້ອງການ DCS ແລະ ການສອດຄ່ອງຖານຂໍ້ມູນການປະຕິບັດງານພາຍໃນເວລາ
+0830. ການໂຫຼດລູກປືນ, ຂໍ້ມູນການກະກຽມສາຍອາວຸດແລະລາຍລະອຽດການປ່ອຍເຮືອຈະມີເວລາເຈັດຊົ່ວໂມງ...
+
+197
+00:13:22,200 --> 00:13:27,450
+[BISHOP]
+Attention.  This concluded final maneuvering operations.  Thank you for your cooperation.  You may resume work.
+ລະມັດລະວັງ. ນີ້ແມ່ນການປະຕິບັດງານການເຄື່ອນໄຫວສຸດທ້າຍ.
+ຂອບໃຈ ສໍາ ລັບການຮ່ວມມືຂອງທ່ານ. ທ່ານສາມາດສືບຕໍ່ເຮັດວຽກໄດ້.
+
+198
+00:13:27,950 --> 00:13:29,950
+[BURKE]
+Still nothing from the colony?
+ຍັງບໍ່ມີຫຍັງຈາກຄລູເນຍບໍ?
+
+199
+00:13:30,450 --> 00:13:32,450
+[GORMAN]
+Dead on all channels.
+ຕາຍແລ້ວໃນທຸກຊ່ອງທາງ.
+
+200
+00:13:32,950 --> 00:13:34,950
+[FROST]
+Clear, please.
+ສະອາດ, ກະລຸນາ.
+
+201
+00:13:35,450 --> 00:13:37,450
+[HUDSON]
+Excuse me.
+ຂໍໂທດເດີ.
+
+202
+00:13:37,950 --> 00:13:42,500
+[RIPLEY]
+I feel like a fifth wheel here.  Is there anything I can do?
+ຂ້ອຍຮູ້ສຶກຄືກັບລົດຈັກທີຫ້າຢູ່ນີ້. ມີຫຍັງທີ່ຂ້ອຍສາມາດເຮັດໄດ້ບໍ?
+
+203
+00:13:43,000 --> 00:13:46,150
+[APONE]
+I don't know.  Is there anything you can do?
+ຂ້ອຍບໍ່ຮູ້. ເຈົ້າສາມາດເຮັດຫຍັງໄດ້ບໍ?
+
+204
+00:13:46,650 --> 00:13:51,900
+[RIPLEY]
+I can drive that loader.  I've got a Class Two rating.  My latest career move.
+ຂ້ອຍສາມາດຂັບລົດເຄື່ອງໂຫຼດນັ້ນໄດ້. ຂ້ອຍມີຄະແນນຊັ້ນສອງ
+. ການເຄື່ອນໄຫວອາຊີບຫຼ້າສຸດຂອງຂ້ອຍ.
+
+205
+00:13:52,400 --> 00:13:54,400
+[RIPLEY]
+Where you want it?
+ເຈົ້າຢາກມັນຢູ່ໃສ?
+
+206
+00:13:54,900 --> 00:13:59,100
+[APONE]
+Let's move it, girls!  On the ready line.  Let's go, let's go.
+ໄປເລື່ອນມັນ, ເດັກຍິງ! ຢູ່ສາຍພ້ອມແລ້ວ. ໄປ, ໄປ.
+
+207
+00:13:59,600 --> 00:14:05,600
+[HUDSON]
+I am ready, man.  Ready to get it on.  Check-it-out.  I am the ultimate badass...state of the badass art.  You do not want to fuck with me.  Hey, Ripley, don't worry.  Me and my squad of ultimate badasses will protect you. Check-it-out...
+ຂ້ອຍພ້ອມແລ້ວ, ຜູ້ຊາຍ. ພ້ອມທີ່ຈະເອົາມັນໃສ່. ກວດເບິ່ງມັນ. ຂ້ອຍເປັນຄົນຮ້າຍທີ່ສຸດ... ສະຖານະການຂອງສິລະປະທີ່ຮ້າຍແຮງ.
+ເຈົ້າບໍ່ຢາກໂຊກແຊງກັບຂ້ອຍ. ເຮ້, ຣິບລີ, ຢ່າກັງວົນ. ຂ້ອຍແລະທີມງານຂອງຂ້ອຍຂອງຄົນຮ້າຍແຮງທີ່ສຸດຈະປົກປ້ອງເຈົ້າ. ເບິ່ງມັນ...
+
+208
+00:14:06,100 --> 00:14:12,100
+[HUDSON]
+Independently targetting particle-beam phalanx.  VWAP! Fry half a city with this puppy. We got tactical smart-missles, phased-plasma pulse-rifles, RPG's.  We got sonic eeelectronic ballbreakers, we got nukes, we got knives...sharp sticks --
+ການແນເປົ້າຫມາຍຟາລານັກສ໌ແສງແສງກະດານສ່ວນແສນຢ່າງເປັນເອກະລາດ. VWAP! Fry ເຄິ່ງເມືອງກັບຫມາແມວນີ້. ພວກເຮົາມີຄວາມຜິດພາດທີ່ສະຫຼາດທາງດ້ານການປະຕິບັດງານ
+, ປືນປຸ່ມປຸ່ມພລາສມາໄລຍະ, RPG ໄດ້. ພວກເຮົາຍັງມີເຄື່ອງຕັດບານເອເລັກໂຕຣນິກສຽງ, ພວກເຮົາມີນິວເຄລຍ, ພວກເຮົາມີມີດອກໄມ້... ກະດານທີ່ແຊບ -
+
+209
+00:14:12,600 --> 00:14:14,600
+[HICKS]
+Save it.
+ຮັກສາມັນໄວ້.
+
+210
+00:14:15,100 --> 00:14:17,100
+[HUDSON]
+Sure, Hicks.
+ແນ່ນອນ, ຮິກສ໌.
+
+211
+00:14:17,600 --> 00:14:19,600
+[BURKE]
+Here we go.
+ມາແລ້ວ.
+
+212
+00:14:20,100 --> 00:14:23,600
+[FERRO]
+Initiate release sequencer on my mark.  Three.  Two.  One.  Mark!
+ເລີ່ມການປ່ອຍຕົວຕາມລໍາດັບຕາມຫມາຍຂອງຂ້ອຍ. ສາມ. ສອງ. ຫນຶ່ງ. ຫມາຍ!
+
+213
+00:14:24,100 --> 00:14:26,100
+[FERRO]
+Switching to DCS ranging.
+ປ່ຽນໄປສູ່ລະດັບ DCS.
+
+214
+00:14:26,600 --> 00:14:29,750
+[SPUNKMEYER]
+Two-four-o.  Nominal to profile. Picking up some hull ionization.
+ສອງສີ່ໂອ. ຊື່ໃຫ້ໂປຣໄຟລ໌. ກໍາ ລັງເອົາການຢອນໂຊກບາງຢ່າງ.
+
+215
+00:14:30,250 --> 00:14:32,250
+[FERRO]
+Got it.  Rough air ahead.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ອາກາດແຂງແຮງຢູ່ທາງຫນ້າ.
+
+216
+00:14:32,750 --> 00:14:34,750
+[FERRO]
+Stand by for some chop.
+ກຽມພ້ອມ ສໍາ ລັບການຕັດບາງຢ່າງ.
+
+217
+00:14:35,250 --> 00:14:38,050
+[RIPLEY]
+How may drops is this for you, Lieutenant?
+ນີ້ແມ່ນເປັນຫຍັງ ສໍາ ລັບເຈົ້າ, ສະຫມັກ?
+
+218
+00:14:38,550 --> 00:14:40,550
+[GORMAN]
+Thirty-eight...simulated.
+ສາມສິບແປດ... ປອມແປງ.
+
+219
+00:14:41,050 --> 00:14:43,050
+[VASQUEZ]
+How many combat drops?
+ການຖິ້ມການຕໍ່ສູ້ຫຼາຍປານໃດ?
+
+220
+00:14:43,550 --> 00:14:45,550
+[GORMAN]
+Well...two.  Three, including this one.
+ດີ... ສອງ. ສາມ, ລວມທັງຄົນນີ້.
+
+221
+00:14:46,050 --> 00:14:51,650
+[FERRO]
+Turning on final.  Coming around to a seven-zero-niner.  Terminal guidance locked in.  Where's the damn beacon?
+ເປີດແສງສຸດທ້າຍ. ມາຮອດເຈັດສິບເກົ້າ.
+ການແນະ ນໍາ ທ້າຍຖືກລັອກໄວ້. ແສງໄຟຢູ່ໃສ?
+
+222
+00:14:52,150 --> 00:14:57,050
+[GORMAN]
+Let's see.  Everybody on line. Drake, check you camera.  There seems to be a...
+ມາເບິ່ງ. ທຸກຄົນຢູ່ໃນສາຍ. ດຣັກກ໌,
+ກວດເບິ່ງກ້ອງຖ່າຍຮູບຂອງທ່ານ. ເບິ່ງຄືວ່າມີ...
+
+223
+00:14:57,550 --> 00:15:00,000
+[GORMAN]
+...that's better.  Pan it around a bit.
+... ນັ້ນດີກວ່າ. ກະຈາຍມັນຢູ່ອ້ອມຂ້າງເລັກນ້ອຍ.
+
+224
+00:15:00,500 --> 00:15:05,050
+[APONE]
+Awright.  Fire-team A.  Gear up. Let's move.  Two minutes. Somebody wake up Hicks.
+ດີແລ້ວ. ທີມໄຟ A. ກຽມພ້ອມ. ໄປເຄື່ອນຍ້າຍ. ສອງນາທີ. ບາງຄົນຕື່ນຮິກສ໌.
+
+225
+00:15:05,550 --> 00:15:07,550
+[RIPLEY]
+That the atmosphere processor?
+ນັ້ນແມ່ນເຄື່ອງປະມວນຜົນບັນຍາກາດບໍ?
+
+226
+00:15:08,050 --> 00:15:14,050
+[BURKE]
+Uh-hunh.  One of thirty or so, all over the planet.  They're completely automated.  We manufacture them, by the way.
+ອູຮຸນຮ໌. ຫນຶ່ງໃນສາມສິບຄົນປະມານນັ້ນ, ທົ່ວໂລກ.
+ພວກມັນອັດຕະໂນມັດຢ່າງເຕັມທີ່. ພວກເຮົາຜະລິດພວກມັນ, ໂດຍທາງ.
+
+227
+00:15:14,550 --> 00:15:17,350
+[GORMAN]
+Hold at forty.  Slow circle of the complex.
+ຢືນຢູ່ສີ່ສິບ. ວົງຈອນຊ້າຂອງສັບສົນ.
+
+228
+00:15:17,850 --> 00:15:20,300
+[RIPLEY]
+The structure seems intact.  They have power.
+ໂຄງສ້າງເບິ່ງຄືວ່າບໍ່ເສຍຫາຍ. ພວກເຂົາມີພະລັງງານ.
+
+229
+00:15:20,800 --> 00:15:22,800
+[GORMAN]
+Okay, let's do it.
+ດີແລ້ວ, ມາເຮັດມັນ.
+
+230
+00:15:23,300 --> 00:15:26,450
+[APONE]
+Awright!  I want a nice clean dispersal this time.
+ດີແລ້ວ! ຂ້ອຍຢາກມີການກະຈາຍທີ່ສະອາດທີ່ດີໃນຄັ້ງນີ້.
+
+231
+00:15:26,950 --> 00:15:28,950
+[VASQUEZ]
+You staying in here?
+ເຈົ້າຢູ່ບ່ອນນີ້ບໍ?
+
+232
+00:15:29,450 --> 00:15:31,450
+[RIPLEY]
+You bet.
+ເຈົ້າແນ່ໃຈວ່າ.
+
+233
+00:15:31,950 --> 00:15:33,950
+[VASQUEZ]
+Figures.
+ຕົວເລກ.
+
+234
+00:15:34,450 --> 00:15:40,450
+[GORMAN]
+Set down sixty meters this side of the telemetry mast.  Immediate dust off on my 'clear,' then stay on station.
+ວາງລົງຫົກສິບແມັດຂ້າງນີ້ຂອງກະດານໂທລະພາບ.
+ຝຸ່ນອອກຈາກ'ສະອາດ' ຂອງຂ້ອຍທັນທີ, ຫຼັງຈາກນັ້ນຢູ່ສະຖານີ.
+
+235
+00:15:40,950 --> 00:15:42,950
+[APONE]
+Ten seconds, people.  Look sharp!
+ສິບວິນາທີ, ຄົນ. ເບິ່ງຢ່າງກະທັນຫັນ!
+
+236
+00:15:43,450 --> 00:15:48,350
+[GORMAN]
+First squad up, on line.  Hicks, get yours in a cordon.  Watch the rear.
+ທີມງານ ທໍາ ອິດຂຶ້ນ, ໃນສາຍ. ຮິກສ໌,
+ເອົາຂອງເຈົ້າໃນສາຍແອວ. ເບິ່ງດ້ານຫຼັງ.
+
+237
+00:15:48,850 --> 00:15:50,850
+[APONE]
+Vasquez, take point.  Let's move.
+ວາສເກສ, ເອົາຈຸດ. ໄປ.
+
+238
+00:15:51,350 --> 00:15:53,350
+[APONE]
+Sealed.  Hudson, run a bypass.
+ປິດໄວ້. ຮັດຊັນ, ແລ່ນທາງຜ່ານທາງ.
+
+239
+00:15:53,850 --> 00:15:57,000
+[APONE]
+First squad, assemble on me at the main lock.
+ທີມງານທໍາອິດ, ເຕົ້າໂຮມກັນຕໍ່ຂ້ອຍຢູ່ປະຕູຫຼັກ.
+
+240
+00:15:57,500 --> 00:15:59,600
+[GORMAN]
+Second team, move up. Flanking positions.
+ທີມທີສອງ, ຍ້າຍຂຶ້ນ. ຕໍາ ແຫນ່ງຂ້າງ.
+
+241
+00:16:00,100 --> 00:16:06,100
+[GORMAN]
+Quarter and search by twos.  Second team move inside.  Hicks, take the upper level.  Use your motion trackers.
+ສີ່ແສນແລະຊອກຫາໂດຍສອງຄົນ. ທີມທີສອງຍ້າຍເຂົ້າໄປໃນ. ຮິກສ໌
+, ເອົາລະດັບເທິງ. ໃຊ້ເຄື່ອງຕິດຕາມການເຄື່ອນໄຫວຂອງທ່ານ.
+
+242
+00:16:06,600 --> 00:16:08,600
+[HICKS]
+Nothing.  No movement.
+ບໍ່ມີຫຍັງເລີຍ. ບໍ່ມີການເຄື່ອນໄຫວ.
+
+243
+00:16:09,100 --> 00:16:11,200
+[BURKE]
+Looks like my room in college.
+ເບິ່ງຄືວ່າຫ້ອງຂອງຂ້ອຍໃນວິທະຍາໄລ.
+
+244
+00:16:11,700 --> 00:16:15,200
+[RIPLEY]
+Wait!  Tell him to...  ...Hicks.  Back up.  Pan left. There!
+ລໍຖ້າ! ບອກລາວໃຫ້...... ຮິກສ໌. ກັບຄືນໄປບ່ອນ. ປານຊ້າຍ. ຢູ່ບ່ອນນັ້ນ!
+
+245
+00:16:15,700 --> 00:16:17,800
+[HICKS]
+You seeing this okay?  Looks melted.
+ເຈົ້າເຫັນສິ່ງນີ້ບໍ່ເປັນຫຍັງບໍ? ເບິ່ງຄືວ່າລະລາຍ.
+
+246
+00:16:18,300 --> 00:16:20,300
+[BURKE]
+Hmm.  Acid for blood.
+ຮັມມ໌. ອາຊິດ ສໍາ ລັບເລືອດ.
+
+247
+00:16:20,800 --> 00:16:24,650
+[HICKS]
+Looks like somebody bagged them one of Ripley's bad guys here.
+ເບິ່ງຄືວ່າບາງຄົນໄດ້ຖົງພວກມັນ ຫນຶ່ງ
+ໃນຄົນຮ້າຍຂອງ Ripley ຢູ່ບ່ອນນີ້.
+
+248
+00:16:25,150 --> 00:16:28,300
+[HUDSON]
+Hey, if you like that, you're gonna love this...
+ເຮ້, ຖ້າເຈົ້າມັກມັນ, ເຈົ້າຈະມັກສິ່ງນີ້...
+
+249
+00:16:28,800 --> 00:16:30,800
+[APONE]
+Second squad?  What's your status?
+ທີມທີສອງ? ສະຖານະການຂອງທ່ານແມ່ນຫຍັງ?
+
+250
+00:16:31,300 --> 00:16:33,400
+[HICKS]
+Just finished our sweep. Nobody home.
+ພຽງແຕ່ສິ້ນສຸດການກວດສອບຂອງພວກເຮົາ. ບໍ່ມີໃຜຢູ່ເຮືອນ.
+
+251
+00:16:33,900 --> 00:16:37,400
+[APONE]
+The place is dead, Sir.  Whatever happened, we missed it.
+ສະຖານທີ່ຕາຍແລ້ວເດີ. ບໍ່ວ່າຈະເກີດຫຍັງຂຶ້ນ, ພວກເຮົາພາດມັນ.
+
+252
+00:16:37,900 --> 00:16:43,900
+[GORMAN]
+All right, the area's secured. Let's go in and see what their computer can tell us.  First team head for operations. Hudson, see if you can get their CPU on line.  Hicks, meet me at the south lock by the up-link tower...
+ດີແລ້ວ, ເຂດແມ່ນປອດໄພ. ມາເຂົ້າມາແລະເບິ່ງວ່າຄອມພິວເຕີຂອງພວກເຂົາສາມາດບອກພວກເຮົາໄດ້ແນວໃດ. ທີມງານ ທໍາ ອິດໄປ ສໍາ ລັບການປະຕິບັດງານ
+. ຮັດຊັນ, ເບິ່ງວ່າເຈົ້າສາມາດເຮັດໃຫ້ CPU ຂອງພວກເຂົາຢູ່ໃນສາຍໄດ້ບໍ. ຮິກສ໌, ພົບຂ້ອຍຢູ່ລັອກທາງໃຕ້ໂດຍຫໍເຊື່ອມຕໍ່ຂຶ້ນ...
+
+253
+00:16:44,400 --> 00:16:46,400
+[GORMAN]
+...We're coming in.
+ພວກເຮົາ ກໍາ ລັງເຂົ້າມາ.
+
+254
+00:16:46,900 --> 00:16:49,350
+[HUDSON]
+He's coming in.  I feel safer already.
+ລາວ ກໍາ ລັງເຂົ້າມາ. ຂ້ອຍຮູ້ສຶກປອດໄພກວ່າເກົ່າແລ້ວ.
+
+255
+00:16:49,850 --> 00:16:51,850
+[VASQUEZ]
+Pendejo jerkoff.
+ຄົນໂຊກຮ້າຍ Pendejo.
+
+256
+00:16:52,350 --> 00:16:54,350
+[HUDSON]
+Sir, the CPU is on-line.
+ເຈົ້າ, CPU ແມ່ນຢູ່ໃນອອນລາຍ.
+
+257
+00:16:54,850 --> 00:16:57,300
+[GORMAN]
+Okay, stand by in operations.  Let's go.
+ດີແລ້ວ, ກຽມພ້ອມໃນການປະຕິບັດງານ. ໄປ.
+
+258
+00:16:57,800 --> 00:16:59,800
+[RIPLEY]
+Burke!
+ບຸກ!
+
+259
+00:17:00,300 --> 00:17:02,300
+[WIERZBOWSKI]
+Scare you?
+ເຈົ້າຢ້ານບໍ?
+
+260
+00:17:02,800 --> 00:17:04,800
+[RIPLEY]
+Christ, Wierzbowski!
+ພຣະຄຣິດ, ວີເຊສໂບສກີ!
+
+261
+00:17:05,300 --> 00:17:08,450
+[WIERZBOWSKI]
+Sorry.  Hicks said to keep an eye on you.
+ຂໍໂທດ. ຮິກສ໌ບອກໃຫ້ເບິ່ງແຍງເຈົ້າ.
+
+262
+00:17:08,950 --> 00:17:13,150
+[GORMAN]
+Looks like you company can write off its share of this colony.
+ເບິ່ງຄືວ່າບໍລິສັດຂອງທ່ານສາມາດຍົກເລີກສ່ວນແບ່ງຂອງຄລູເນຍນີ້ໄດ້.
+
+263
+00:17:13,650 --> 00:17:15,650
+[BURKE]
+It's insured.
+ມັນປະກັນໄພແລ້ວ.
+
+264
+00:17:16,150 --> 00:17:18,250
+[FRONT]
+Sir, you should check this out...
+ເຈົ້າ, ເຈົ້າຄວນເບິ່ງສິ່ງນີ້...
+
+265
+00:17:18,750 --> 00:17:20,750
+[FROST]
+Right ahead here...
+ຢູ່ທາງຫນ້ານີ້...
+
+266
+00:17:21,250 --> 00:17:23,250
+[WIERZBOWSKI]
+Last stand.
+ການຢືນສຸດທ້າຍ.
+
+267
+00:17:23,750 --> 00:17:25,750
+[GORMAN]
+No bodies?
+ບໍ່ມີສົບບໍ?
+
+268
+00:17:26,250 --> 00:17:29,400
+[FROST]
+No, Sir.  Looks like it was a helluva fight.
+ບໍ່, ທ້າວ. ເບິ່ງຄືວ່າມັນເປັນການຕໍ່ສູ້ helluva ໄດ້.
+
+269
+00:17:29,900 --> 00:17:31,900
+[RIPLEY]
+Over there.
+ຢູ່ບ່ອນນັ້ນ.
+
+270
+00:17:32,400 --> 00:17:34,400
+[BURKE]
+Are these the same...?
+ນີ້ແມ່ນຄືກັນບໍ?
+
+271
+00:17:34,900 --> 00:17:36,900
+[RIPLEY]
+Watch it, Burke...
+ລະມັດລະວັງ, ບີກ...
+
+272
+00:17:37,400 --> 00:17:39,400
+[HICKS]
+It likes you.
+ມັນມັກເຈົ້າ.
+
+273
+00:17:39,900 --> 00:17:42,700
+[BURKE]
+These are dead.  There's just the two alive.
+ພວກນີ້ຕາຍແລ້ວ. ມີພຽງແຕ່ສອງຄົນທີ່ມີຊີວິດຢູ່.
+
+274
+00:17:43,200 --> 00:17:49,200
+[RIPLEY]
+Removed surgically before embryo implantation.  Subject:  Marachuk, John L.   Died during procedure.  They killed him getting it off.
+ຖືກເອົາອອກໂດຍການຜ່າຕັດກ່ອນການຝັງທ້ອງ. ຫົວຂໍ້: ມາຣາຊັກ, ຈອນ
+ລ໌ຕາຍໃນລະຫວ່າງຂັ້ນຕອນ. ພວກເຂົາໄດ້ຂ້າລາວໃນການເອົາມັນອອກ.
+
+275
+00:17:49,700 --> 00:17:51,700
+[HICKS]
+Poor bastard.
+ໂຊກຮ້າຍຄົນທຸກຍາກ.
+
+276
+00:17:52,200 --> 00:17:54,200
+[HICKS]
+Behind us.
+ຢູ່ເບື້ອງຫຼັງພວກເຮົາ.
+
+277
+00:17:54,700 --> 00:17:56,700
+[RIPLEY]
+One of us?
+ຫນຶ່ງໃນພວກເຮົາບໍ?
+
+278
+00:17:57,200 --> 00:17:59,650
+[GORMAN]
+Apone...where are your people? Anybody in D-Block?
+Apone... ປະຊາຊົນຂອງທ່ານຢູ່ໃສ? ມີໃຜໃນ D-Block ບໍ?
+
+279
+00:18:00,150 --> 00:18:02,150
+[APONE]
+Negative.  We're all in Operations.
+ບໍ່ເປັນຫຍັງ. ພວກເຮົາທຸກຄົນຢູ່ໃນການປະຕິບັດງານ.
+
+280
+00:18:02,650 --> 00:18:04,650
+[HICKS]
+It's moving.
+ມັນເຄື່ອນຍ້າຍ.
+
+281
+00:18:05,150 --> 00:18:07,150
+[VASQUEZ]
+Which way?
+ທາງໃດ?
+
+282
+00:18:07,650 --> 00:18:09,650
+[VASQUEZ]
+You fuck!
+ເຈົ້າໂຊກຮ້າຍ!
+
+283
+00:18:10,150 --> 00:18:12,250
+[RIPLEY]
+Come on out.  It's all right...
+ອອກມາ. ມັນບໍ່ເປັນຫຍັງ...
+
+284
+00:18:12,750 --> 00:18:14,750
+[HICKS]
+Ow!  Shit.  Watchit, she bites.
+ໂອ້! ສະບາຍດີ. ເບິ່ງແມ, ນາງກັດ.
+
+285
+00:18:15,250 --> 00:18:20,850
+[RIPLEY]
+It's okay, it's okay.  It's over... you're going to be all right now... it's okay...you're safe...
+ບໍ່ເປັນຫຍັງ, ມັນບໍ່ເປັນຫຍັງ. ມັນສິ້ນສຸດລົງ...
+ເຈົ້າຈະດີດີດຽວນີ້... ມັນບໍ່ມີຫຍັງ... ເຈົ້າປອດໄພ...
+
+286
+00:18:21,350 --> 00:18:23,350
+[GORMAN]
+What's her name again?
+ຊື່ຂອງນາງແມ່ນຫຍັງອີກເທື່ອຫນຶ່ງ?
+
+287
+00:18:23,850 --> 00:18:25,850
+[DIETRICH]
+Rebecca.
+ຣີເບກາ.
+
+288
+00:18:26,350 --> 00:18:29,500
+[GORMAN]
+Now think, Rebecca. Concentrate.  Just start at the beginning...
+ດຽວນີ້ຄິດ, ຣີເບກາ. ສຸມໃສ່. ພຽງແຕ່ເລີ່ມຕົ້ນໃນຕອນເລີ່ມຕົ້ນ...
+
+289
+00:18:30,000 --> 00:18:32,800
+[GORMAN]
+Where are your parents?  You have to try...
+ພໍ່ແມ່ຂອງເຈົ້າຢູ່ໃສ? ເຈົ້າຕ້ອງພະຍາຍາມ...
+
+290
+00:18:33,300 --> 00:18:35,750
+[RIPLEY]
+Gorman!  Give it a rest would you.
+ໂກຣແມນ! ໃຫ້ມັນພັກຜ່ອນບໍ?
+
+291
+00:18:36,250 --> 00:18:38,250
+[GORMAN]
+Total brain-lock.
+ການປິດສະຫມອງຢ່າງສົມບູນ.
+
+292
+00:18:38,750 --> 00:18:42,950
+[DIETRICH]
+Physically she's okay. Borderline malnutrition, but I don't think any permanent damage.
+ທາງດ້ານຮ່າງກາຍນາງບໍ່ເປັນຫຍັງ. ການຂາດອາຫານທາງຊາຍແດນ
+, ແຕ່ຂ້ອຍບໍ່ຄິດວ່າມີຄວາມເສຍຫາຍຖາວອນໃດໆ.
+
+293
+00:18:43,450 --> 00:18:45,550
+[GORMAN]
+Come on, we're wasting our time.
+ມາແລ້ວ, ພວກເຮົາ ກໍາ ລັງເສຍເວລາຂອງພວກເຮົາ.
+
+294
+00:18:46,050 --> 00:18:48,850
+[RIPLEY]
+Here, try this.  A little instant hot chocolate.
+ມາແລ້ວ, ພະຍາຍາມສິ່ງນີ້. ໂຊກໂກແລັດຮ້ອນທັນທີນ້ອຍໆ.
+
+295
+00:18:49,350 --> 00:18:55,350
+[RIPLEY]
+Poor thing.  You don't talk much do you?  That's okay by me.  Most people do a lot of talking and they wind up not saying very much.
+ຄົນທຸກຍາກ. ເຈົ້າບໍ່ເວົ້າຫຼາຍບໍ? ມັນບໍ່ເປັນຫຍັງກັບຂ້ອຍ.
+ຄົນສ່ວນໃຫຍ່ເວົ້າຫຼາຍແລະພວກເຂົາສິ້ນສຸດລົງບໍ່ໄດ້ເວົ້າຫຼາຍ.
+
+296
+00:18:55,850 --> 00:19:01,850
+[RIPLEY]
+Uh oh.  I made a clean spot here.  Now I've done it.  Guess I'll just have to do the whole thing.
+ໂອ້. ຂ້ອຍໄດ້ເຮັດບ່ອນສະອາດຢູ່ນີ້. ດຽວນີ້ຂ້ອຍໄດ້ເຮັດແລ້ວ
+. ຂ້ອຍຄິດວ່າຂ້ອຍພຽງແຕ່ຕ້ອງເຮັດສິ່ງທັງ ຫມົດ.
+
+297
+00:19:02,350 --> 00:19:07,600
+[RIPLEY]
+Hard to believe...there's a little girl under all this. And a pretty one at that.
+ຍາກທີ່ຈະເຊື່ອ... ມີເດັກຍິງນ້ອຍຢູ່ພາຍໃຕ້ສິ່ງທັງ
+ຫມົດ ນີ້. ແລະຄົນງາມໃນນັ້ນ.
+
+298
+00:19:08,100 --> 00:19:10,100
+[BURKE]
+What's he scanning for?
+ລາວສະແກນຫຍັງ?
+
+299
+00:19:10,600 --> 00:19:14,100
+[GORMAN]
+PDT'S.  Personal-Data Transmitters. Every adult colonist had one surgically implanted.
+ຜູ້ສົ່ງຂໍ້ມູນສ່ວນຕົວຂອງ PDT.
+ນັກຖິ່ນຖານຜູ້ໃຫຍ່ທຸກຄົນມີຄົນຫນຶ່ງທີ່ຖືກຝັງຜ່າຕັດ.
+
+300
+00:19:14,600 --> 00:19:19,150
+[HUDSON]
+If they're within twenty klicks we'll read it out here, but so far...zip.
+ຖ້າພວກເຂົາຢູ່ໃນຂອບເຂດສິບຄລິກພວກເຮົາຈະອ່ານມັນຢູ່ນີ້
+, ແຕ່ຈົນເຖິງປະຈຸບັນ... zip.
+
+301
+00:19:19,650 --> 00:19:24,900
+[RIPLEY]
+I don't know how you managed to stay alive but you're one brave kid, Rebecca.
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າສາມາດຢູ່ອາໄສໄດ້ແນວໃດ
+ແຕ່ເຈົ້າເປັນເດັກນ້ອຍທີ່ກ້າຫານ, ຣີເບກາ.
+
+302
+00:19:25,400 --> 00:19:27,400
+[NEWT]
+N-newt.
+N-new.
+
+303
+00:19:27,900 --> 00:19:29,900
+[RIPLEY]
+What did you say?
+ເຈົ້າເວົ້າຫຍັງ?
+
+304
+00:19:30,400 --> 00:19:34,600
+[NEWT]
+Newt.  My n-name's Newt. Nobody calls me Rebecca except my dork brother.
+ນິວຕ໌. ຊື່ຂອງຂ້ອຍແມ່ນ ນິວທ໌. ບໍ່ມີໃຜເອີ້ນຂ້ອຍວ່າ
+ຣີເບການອກຈາກອ້າຍໂຊກຮ້າຍຂອງຂ້ອຍ.
+
+305
+00:19:35,100 --> 00:19:39,300
+[RIPLEY]
+Well, Newt it is then.  My name's Ripley...and people call me Ripley.
+ດີ, ນິວຕ໌ມັນແມ່ນຫຼັງຈາກນັ້ນ. ຂ້ອຍຊື່ວ່າ
+ຣິບລີ... ແລະຄົນເອີ້ນຂ້ອຍວ່າ ຣີບລີ.
+
+306
+00:19:39,800 --> 00:19:44,350
+[RIPLEY]
+Pleased to meet you.  And who is this?  Does she have a name?
+ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ. ແລະຄົນນີ້ແມ່ນໃຜ? ນາງມີຊື່ບໍ?
+
+307
+00:19:44,850 --> 00:19:46,850
+[NEWT]
+Casey.  She's my only friend.
+ຄາຊີ. ນາງເປັນເພື່ອນຄົນດຽວຂອງຂ້ອຍ.
+
+308
+00:19:47,350 --> 00:19:49,350
+[RIPLEY]
+What about me?
+ຂ້ອຍແນວໃດ?
+
+309
+00:19:49,850 --> 00:19:52,300
+[NEWT]
+I don't want you for a friend.
+ຂ້ອຍບໍ່ຢາກໃຫ້ເຈົ້າເປັນເພື່ອນ.
+
+310
+00:19:52,800 --> 00:19:54,800
+[RIPLEY]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+311
+00:19:55,300 --> 00:20:01,300
+[NEWT]
+Because you'll be gone soon, like the others.  Like everybody.  You'll be dead and you'll leave me alone.
+ເພາະເຈົ້າຈະຫາຍໄປໄວໆນີ້, ເຊັ່ນດຽວກັນກັບຄົນອື່ນ.
+ເຊັ່ນກັນກັບທຸກຄົນ. ເຈົ້າຈະຕາຍແລະເຈົ້າຈະປ່ອຍຂ້ອຍຢູ່ຢ່າງສະຫງົບ.
+
+312
+00:20:01,800 --> 00:20:06,000
+[RIPLEY]
+Oh, Newt.  You mom and dad went away like that, didn't they?
+ໂອ້ ນິວຕ໌. ເຈົ້າແມ່ແລະພໍ່ໄດ້ໄປແບບນັ້ນ, ແມ່ນບໍ?
+
+313
+00:20:06,500 --> 00:20:10,350
+[RIPLEY]
+They'd be here if they could, honey.  I know they would.
+ພວກເຂົາຈະຢູ່ບ່ອນນີ້ຖ້າພວກເຂົາສາມາດເຮັດໄດ້ແມ
+. ຂ້ອຍຮູ້ວ່າພວກເຂົາຈະເຮັດ.
+
+314
+00:20:10,850 --> 00:20:12,850
+[NEWT]
+They're dead.
+ພວກເຂົາຕາຍແລ້ວ.
+
+315
+00:20:13,350 --> 00:20:16,850
+[RIPLEY]
+Newt.  Look at me...Newt.  I won't leave you.  I promise.
+ນິວຕ໌. ເບິ່ງຂ້ອຍແມ... ນິວທ໌. ຂ້ອຍຈະບໍ່ອອກຈາກເຈົ້າ. ຂ້ອຍສັນຍາ.
+
+316
+00:20:17,350 --> 00:20:19,350
+[NEWT]
+You promise?
+ເຈົ້າສັນຍາບໍ?
+
+317
+00:20:19,850 --> 00:20:21,850
+[RIPLEY]
+Cross my heart.
+ຂ້າມຫົວໃຈຂອງຂ້ອຍ.
+
+318
+00:20:22,350 --> 00:20:24,350
+[NEWT]
+And hope to die?
+ແລະຫວັງວ່າຈະຕາຍບໍ?
+
+319
+00:20:24,850 --> 00:20:26,850
+[RIPLEY]
+And hope to die.
+ແລະຫວັງວ່າຈະຕາຍ.
+
+320
+00:20:27,350 --> 00:20:30,850
+[HUDSON]
+Hah!  Stop your grinnin' and drop your linen!  Found 'em.
+ຮາ! ຢຸດການມ່ວນຊື່ນແລະຖິ້ມຜ້າຝ້າຍຂອງທ່ານ! ພົບພວກມັນ.
+
+321
+00:20:31,350 --> 00:20:33,350
+[GORMAN]
+Alive?
+ຍັງມີຊີວິດຢູ່ບໍ?
+
+322
+00:20:33,850 --> 00:20:39,850
+[HUDSON]
+Unknown.  But, it looks like all of them.  Over at the processing station...sublevel 'C' under the south tower.
+ບໍ່ຮູ້. ແຕ່, ມັນເບິ່ງຄືວ່າພວກເຂົາທັງ ຫມົດ.
+ຢູ່ສະຖານີການປະມວນຜົນ... ລະດັບຍ່ອຍ'C' ພາຍໃຕ້ຫໍໃຕ້.
+
+323
+00:20:40,350 --> 00:20:42,450
+[HICKS]
+Looks like a Goddamn town meeting.
+ເບິ່ງຄືວ່າເປັນກອງປະຊຸມເມືອງທີ່ຮ້າຍແຮງ.
+
+324
+00:20:42,950 --> 00:20:44,950
+[GORMAN]
+Let's saddle up.
+ພວກເຮົາຂຶ້ນໄປ.
+
+325
+00:20:45,450 --> 00:20:49,300
+[APONE]
+Awright, let's go girls, they ain't payin' us by the hour.
+ໂອ້, ໄປແມ, ພວກເຂົາບໍ່ໄດ້ຈ່າຍເງິນໃຫ້ພວກເຮົາຕາມຊົ່ວໂມງ.
+
+326
+00:20:49,800 --> 00:20:54,000
+[NEWT]
+I was the best at the game. I knew the whole maze.
+ຂ້ອຍເປັນຄົນທີ່ດີທີ່ສຸດໃນການຫຼິ້ນ. ຂ້ອຍຮູ້ຈັກ labyrinth ທັງ ຫມົດ.
+
+327
+00:20:54,500 --> 00:20:56,950
+[RIPLEY]
+The 'maze'?  You mean the air ducts?
+ເຈົ້າຫມາຍຄວາມວ່າທໍ່ອາກາດບໍ?
+
+328
+00:20:57,450 --> 00:21:03,450
+[NEWT]
+Yeah, you know.  In the walls, under the floor.  I was the ace.  I could hide better than anybody.
+ແມ່ນແລ້ວ, ເຈົ້າຮູ້ແລ້ວ. ໃນກໍາແພງ, ພາຍໃຕ້ພື້ນ
+. ຂ້ອຍເປັນອາສ. ຂ້ອຍສາມາດເຊື່ອງໄວ້ໄດ້ດີກວ່າໃຜ.
+
+329
+00:21:03,950 --> 00:21:05,950
+[RIPLEY]
+You're really something, ace.
+ເຈົ້າເປັນບາງສິ່ງບາງຢ່າງແທ້ໆ, ເອສ.
+
+330
+00:21:06,450 --> 00:21:09,950
+[GORMAN]
+Forty meters in.  Ramp on axial two-two.  Access to sublevels.
+ສີ່ສິບແມັດເຂົ້າໄປໃນ. ໂຣມປ໌ໃນ axial ສອງສອງ. ການເຂົ້າເຖິງລະດັບຍ່ອຍ.
+
+331
+00:21:10,450 --> 00:21:12,450
+[GORMAN]
+B-Level.  Next one down.
+ລະດັບ B. ຄົນຕໍ່ໄປລົງ.
+
+332
+00:21:12,950 --> 00:21:16,450
+[GORMAN]
+We're not making that out too well.  What is it?
+ພວກເຮົາບໍ່ໄດ້ເຮັດໃຫ້ມັນອອກໄປດີເກີນໄປ. ມັນແມ່ນຫຍັງ?
+
+333
+00:21:16,950 --> 00:21:19,400
+[HUDSON]
+You tell me.  I only work here.
+ເຈົ້າບອກຂ້ອຍ. ຂ້ອຍເຮັດວຽກຢູ່ບ່ອນນີ້ເທົ່ານັ້ນ.
+
+334
+00:21:19,900 --> 00:21:21,900
+[GORMAN]
+What is it?
+ມັນເປັນຫຍັງ?
+
+335
+00:21:22,400 --> 00:21:24,400
+[RIPLEY]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+336
+00:21:24,900 --> 00:21:26,900
+[GORMAN]
+Proceed inside.
+ໄປພາຍໃນ.
+
+337
+00:21:27,400 --> 00:21:29,400
+[RIPLEY]
+Oh God...
+ໂອ້ ພຣະເຈົ້າ...
+
+338
+00:21:29,900 --> 00:21:32,350
+[DIETRICH]
+Looks like some sort of secreted resin.
+ເບິ່ງຄືວ່າເປັນປະເພດຂອງ resin ທີ່ຖືກປ່ອຍອອກມາ.
+
+339
+00:21:32,850 --> 00:21:35,650
+[GORMAN]
+They ripped apart the colony for building materials.
+ພວກເຂົາໄດ້ທໍາລາຍຄລູເນຍເພື່ອວັດສະດຸກໍ່ສ້າງ.
+
+340
+00:21:36,150 --> 00:21:42,100
+[RIPLEY]
+And the colonists...When they were done with them.  Newt, you better go sit up front.  Go on.
+ແລະພວກຄລູເນຍ... ເມື່ອພວກເຂົາເຮັດແລ້ວກັບພວກເຂົາ
+. ນິວຕ໌, ເຈົ້າຄວນໄປນັ່ງຢູ່ທາງຫນ້າ. ໄປຕໍ່ໄປ.
+
+341
+00:21:42,600 --> 00:21:44,600
+[FROST]
+Hotter'n hell in here.
+ມັນຮ້ອນກວ່າໃນບ່ອນນີ້.
+
+342
+00:21:45,100 --> 00:21:47,100
+[HUDSON]
+Yeah...but it's a dry heat.
+ແມ່ນແລ້ວ... ແຕ່ມັນຮ້ອນແຫ້ງ.
+
+343
+00:21:47,600 --> 00:21:50,050
+[RIPLEY]
+They're right under the primary heat exchangers.
+ພວກເຂົາຢູ່ໃຕ້ເຄື່ອງແລກປ່ຽນຄວາມຮ້ອນຕົ້ນຕໍ.
+
+344
+00:21:50,550 --> 00:21:54,400
+[BURKE]
+Yeah?  Maybe the organisms like the heat, that's why they built...
+ແມ່ນແລ້ວ? ບາງທີຊີວະພາບມັກຄວາມຮ້ອນ
+, ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຂົາສ້າງ...
+
+345
+00:21:54,900 --> 00:22:00,900
+[RIPLEY]
+That's not what I mean.  Gorman, if your men have to use their weapons in there, they'll rupture the cooling system.
+ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍຫມາຍຄວາມວ່າ. ໂກຣມານ,
+ຖ້າຜູ້ຊາຍຂອງທ່ານຕ້ອງໃຊ້ອາວຸດຂອງພວກເຂົາຢູ່ບ່ອນນັ້ນ, ພວກເຂົາຈະແຕກລະບົບເຢັນ.
+
+346
+00:22:01,400 --> 00:22:03,400
+[BURKE]
+She's right.
+ນາງເວົ້າຖືກຕ້ອງ.
+
+347
+00:22:03,900 --> 00:22:05,900
+[GORMAN]
+So.
+ສະນັ້ນ.
+
+348
+00:22:06,400 --> 00:22:08,500
+[RIPLEY]
+So...then the fusion containment shuts down.
+ສະນັ້ນ... ຫຼັງຈາກນັ້ນການຄວບຄຸມການປະສົມປະສານປິດລົງ.
+
+349
+00:22:09,000 --> 00:22:11,000
+[GORMAN]
+So?  So?
+ສະນັ້ນ? ສະນັ້ນ?
+
+350
+00:22:11,500 --> 00:22:13,500
+[BURKE]
+We're talking thermonuclear explosion.
+ພວກເຮົາ ກໍາ ລັງເວົ້າເຖິງການລະເບີດທາດອຸນຫະພູມນິວເຄລຍ.
+
+351
+00:22:14,000 --> 00:22:18,550
+[GORMAN]
+Shit.  Apone, collect magazines from everybody.  We can't have any firing in there.
+ສະບາຍດີ. Apone, ເກັບກໍາວາລະສານຈາກທຸກຄົນ.
+ພວກເຮົາບໍ່ສາມາດມີການຍິງໃດໆໃນບ່ອນນັ້ນໄດ້.
+
+352
+00:22:19,050 --> 00:22:21,050
+[WIERZBOWSKI]
+Is he fucking crazy?
+ລາວໂຊກຮ້າຍບໍ?
+
+353
+00:22:21,550 --> 00:22:24,350
+[HUDSON]
+What're we supposed to use, man?  Harsh language?
+ພວກເຮົາຄວນໃຊ້ຫຍັງ, ຜູ້ຊາຍ? ພາສາທີ່ຮຸນແຮງບໍ?
+
+354
+00:22:24,850 --> 00:22:26,950
+[GORMAN]
+Flame-units only.  I want rifles slung.
+ພຽງແຕ່ຫົວຫນ່ວຍໄຟ. ຂ້ອຍຢາກໃຫ້ປືນຖືກວາງໄວ້.
+
+355
+00:22:27,450 --> 00:22:29,450
+[APONE]
+Let's go.  Pull 'em out.
+ໄປ. ດຶງພວກມັນອອກ.
+
+356
+00:22:29,950 --> 00:22:32,750
+[HICKS]
+I always keep this handy. For close encounter.
+ຂ້ອຍຮັກສາສິ່ງນີ້ຢູ່ພ້ອມຢູ່ສະເຫມີ. ສໍາລັບການພົບປະໃກ້ຊິດ.
+
+357
+00:22:33,250 --> 00:22:35,350
+[APONE]
+Let's move.  Hicks, back us up.
+ໄປເຄື່ອນຍ້າຍ. ຮິກສ໌, ສະຫນັບສະຫນູນພວກເຮົາ.
+
+358
+00:22:35,850 --> 00:22:37,850
+[GORMAN]
+Any movement?
+ມີການເຄື່ອນໄຫວໃດບໍ?
+
+359
+00:22:38,350 --> 00:22:40,350
+[HUDSON]
+Nothing.  Zip.
+ບໍ່ມີຫຍັງເລີຍ. Zip.
+
+360
+00:22:40,850 --> 00:22:42,850
+[DIETRICH]
+Sir!
+ເຈົ້າ!
+
+361
+00:22:43,350 --> 00:22:45,350
+[WOMAN]
+Please...God...kill me.
+ກະລຸນາ... ພຣະເຈົ້າ... ຂ້າຂ້ອຍ.
+
+362
+00:22:45,850 --> 00:22:47,850
+[APONE]
+Flame thrower!  Move!
+ຜູ້ຖິ້ມໄຟ! ຍ້າຍໄປ!
+
+363
+00:22:48,350 --> 00:22:50,350
+[HUDSON]
+Movement!
+ເຄື່ອນຍ້າຍ!
+
+364
+00:22:50,850 --> 00:22:52,850
+[APONE]
+Position?
+ຕໍາແຫນ່ງບໍ?
+
+365
+00:22:53,350 --> 00:22:55,350
+[HUDSON]
+Can't lock up...
+ບໍ່ສາມາດປິດໄດ້...
+
+366
+00:22:55,850 --> 00:22:57,850
+[APONE]
+Talk to me, Hudson.
+ເວົ້າກັບຂ້ອຍ, ຮັດຊັນ.
+
+367
+00:22:58,350 --> 00:23:01,150
+[HUDSON]
+Uh, seems to be in front and behind.
+ໂອ້, ເບິ່ງຄືວ່າຢູ່ທາງຫນ້າແລະທາງຫຼັງ.
+
+368
+00:23:01,650 --> 00:23:05,150
+[GORMAN]
+We can't see anything back here, Apone.  What's going on?
+ພວກເຮົາບໍ່ສາມາດເຫັນຫຍັງເລີຍຢູ່ບ່ອນນີ້, Apone. ເກີດຫຍັງຂຶ້ນ?
+
+369
+00:23:05,650 --> 00:23:07,650
+[RIPLEY]
+Pull you team out, Gorman.
+ເອົາທີມງານຂອງທ່ານອອກໄປ, ໂກຣແມນ.
+
+370
+00:23:08,150 --> 00:23:10,250
+[APONE]
+Go to infrared.  Looks sharp people!
+ໄປສູ່ອິນຟຣາຣ໌ດ໌. ເບິ່ງຄືວ່າຄົນກະທັນຫັນ!
+
+371
+00:23:10,750 --> 00:23:12,750
+[HUDSON]
+Multiple signals.  All round. Closing.
+ສັນຍານຫຼາຍຢ່າງ. ທົ່ວໄປ. ປິດລົງ.
+
+372
+00:23:13,250 --> 00:23:15,250
+[VASQUEZ]
+Let's rock.
+ໄປຫີນ.
+
+373
+00:23:15,750 --> 00:23:18,550
+[GORMAN]
+Who's firing?  I ordered a hold fire, dammit!
+ໃຜຍິງ? ຂ້ອຍສັ່ງໃຫ້ຢຸດຍິງ, ສະບາຍດີ!
+
+374
+00:23:19,050 --> 00:23:21,500
+[HUDSON]
+Let's get the fuck out of here!
+ໄປຈາກບ່ອນນີ້!
+
+375
+00:23:22,000 --> 00:23:24,100
+[HICKS]
+Not that tunnel, the other one!
+ບໍ່ແມ່ນທໍ່ນັ້ນ, ອີກຫນຶ່ງ!
+
+376
+00:23:24,600 --> 00:23:27,750
+[CROWE]
+You sure?  Watch it...behind you.  Fucking move, will you!
+ເຈົ້າແນ່ໃຈບໍ? ລະວັງມັນ... ຢູ່ເບື້ອງຫຼັງເຈົ້າ
+. ຍ້າຍໄປ, ເຈົ້າຈະເຮັດແນວໃດ!
+
+377
+00:23:28,250 --> 00:23:30,250
+[GORMAN]
+Shut up.  Just shut up!
+ປິດງຽບ. ພຽງແຕ່ງຽບ!
+
+378
+00:23:30,750 --> 00:23:36,750
+[GORMAN]
+Uh,...Apone, I want you to lay down a suppressing fire with the incinerators and fall back by squads to the APC, over.
+ໂອ້... ອາໂປນ, ຂ້ອຍຢາກໃຫ້ເຈົ້າວາງໄຟຄວບຄຸມດ້ວຍເຄື່ອງເຜົາໄຫມ້ແລະຫຼຸດລົງໂດຍທີມງານໄປຫາ
+APC, ຫມົດແລ້ວ.
+
+379
+00:23:37,250 --> 00:23:39,250
+[APONE]
+Say again?  All after incinerators?
+ເວົ້າອີກເທື່ອຫນຶ່ງບໍ? ທຸກຄົນຫຼັງຈາກເຄື່ອງເຜົາໄຫມ້ບໍ?
+
+380
+00:23:39,750 --> 00:23:41,750
+[GORMAN]
+I said...
+ຂ້ອຍເວົ້າວ່າ...
+
+381
+00:23:42,250 --> 00:23:44,250
+[GORMAN]
+...lay down  ...by squads to...
+... ນອນລົງ... ໂດຍທີມງານເພື່ອ...
+
+382
+00:23:44,750 --> 00:23:46,750
+[APONE]
+Dietrich?  Crowe?  Sound off!  Wierzbowski?
+Dietrich? Crowe? ສຽງອອກໄປ! Wierzbowski?
+
+383
+00:23:47,250 --> 00:23:50,050
+[HUDSON]
+We're getting juked!  We're gonna die in here!
+ພວກເຮົາ ກໍາ ລັງຖືກໂຊກຮ້າຍ! ພວກເຮົາຈະຕາຍຢູ່ນີ້!
+
+384
+00:23:50,550 --> 00:23:53,000
+[APONE]
+Yeah.  Right.  Right!  Fuck the heat exchanger!
+ແມ່ນແລ້ວ. ຖືກ. ຖືກ! ສໍ້ໂກງເຄື່ອງແລກປ່ຽນຄວາມຮ້ອນ!
+
+385
+00:23:53,500 --> 00:23:55,600
+[GORMAN]
+I told them to fall back...
+ຂ້ອຍບອກພວກເຂົາໃຫ້ກັບຄືນໄປບ່ອນ...
+
+386
+00:23:56,100 --> 00:23:58,100
+[RIPLEY]
+They're but off!  Do something!
+ພວກເຂົາພຽງແຕ່ອອກໄປ! ເຮັດບາງສິ່ງບາງຢ່າງ!
+
+387
+00:23:58,600 --> 00:24:00,600
+[RIPLEY]
+Newt, put your seatbelt on!
+ນິວຕ໌, ໃສ່ສາຍຄວາມປອດໄພຂອງທ່ານ!
+
+388
+00:24:01,100 --> 00:24:03,100
+[GORMAN]
+Ripley, what the hell...?
+ຣິບລີ, ມີຫຍັງຢູ່...?
+
+389
+00:24:03,600 --> 00:24:06,750
+[GORMAN]
+What are you doing?  Turn around!  That's an order!
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ? ຫັນໄປ! ນັ້ນແມ່ນຄໍາສັ່ງ!
+
+390
+00:24:07,250 --> 00:24:09,250
+[VASQUEZ]
+Drake!  He's down!
+ດຣັກ! ລາວຕົກລົງແລ້ວ!
+
+391
+00:24:09,750 --> 00:24:11,850
+[HICKS]
+He's gone!  Forget it, he's gone!
+ລາວຫາຍໄປແລ້ວ! ລືມມັນ, ລາວຕາຍແລ້ວ!
+
+392
+00:24:12,350 --> 00:24:14,450
+[VASQUEZ]
+No.. No, he's not.  He's --
+ບໍ່... ບໍ່, ລາວບໍ່ແມ່ນ. ລາວແມ່ນ -
+
+393
+00:24:14,950 --> 00:24:16,950
+[HICKS]
+Let's go!
+ໄປ!
+
+394
+00:24:17,450 --> 00:24:19,450
+[HICKS]
+Get on the Goddamn door!
+ຂຶ້ນປະຕູ!
+
+395
+00:24:19,950 --> 00:24:22,400
+[HICKS]
+It's okay...we're clear.  We're clear.  Ease up.
+ມັນບໍ່ເປັນຫຍັງ... ພວກເຮົາສະອາດແລ້ວ. ພວກເຮົາສະຫວ່າງແລ້ວ. ສະບາຍໃຈ.
+
+396
+00:24:22,900 --> 00:24:26,050
+[HICKS]
+Sounds like a blown transaxle. You're just grinding metal.
+ມັນເບິ່ງຄືວ່າເປັນການແລກປ່ຽນທີ່ຖືກລະເບີດ
+. ເຈົ້າພຽງແຕ່ຕັດໂລຫະເທົ່ານັ້ນ.
+
+397
+00:24:26,550 --> 00:24:28,550
+[RIPLEY]
+Newt?  Where's Newt?
+ນິວຕ໌? ນິວທ໌ຢູ່ໃສ?
+
+398
+00:24:29,050 --> 00:24:31,050
+[RIPLEY]
+You okay?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+399
+00:24:31,550 --> 00:24:33,550
+[HUDSON]
+Jesus...Jesus...I don't believe it.
+ພຣະເຢຊູ... ພະເຢຊູ... ຂ້ອຍບໍ່ເຊື່ອມັນ.
+
+400
+00:24:34,050 --> 00:24:36,050
+[HUDSON]
+I'm all right, leave it!
+ຂ້ອຍບໍ່ເປັນຫຍັງ, ໃຫ້ມັນ!
+
+401
+00:24:36,550 --> 00:24:38,650
+[HICKS]
+He's alive.  I think he's paralyzed.
+ລາວຍັງມີຊີວິດຢູ່. ຂ້ອຍຄິດວ່າລາວໂຊກຮ້າຍ.
+
+402
+00:24:39,150 --> 00:24:41,150
+[VASQUEZ]
+He's fucking dead!
+ລາວຕາຍແລ້ວ!
+
+403
+00:24:41,650 --> 00:24:45,150
+[VASQUEZ]
+Wake up pendejo!  I'm gonna kill you, you useless fuck!
+ຕື່ນຂຶ້ນແມ! ຂ້ອຍຈະຂ້າເຈົ້າ, ເຈົ້າໂຊກຮ້າຍທີ່ບໍ່ມີປະໂຫຍດ!
+
+404
+00:24:45,650 --> 00:24:48,450
+[HICKS]
+Hold it.  Hold it.  Back off, right now.
+ຢືນຢັນ. ຢຸດຢັ້ງ. ກັບຄືນໄປບ່ອນ, ດຽວນີ້.
+
+405
+00:24:48,950 --> 00:24:50,950
+[RIPLEY]
+Looks like it stung him.
+ເບິ່ງຄືວ່າມັນໄດ້ກັດລາວ.
+
+406
+00:24:51,450 --> 00:24:54,250
+[HUDSON]
+Hey...hey!  Look, Crowe and Dietrich aren't dead, man.
+ເຮ້... ເຮ້! ເບິ່ງ, ຄຣູເວ ແລະ ເດຕຣິກບໍ່ໄດ້ຕາຍ, ຜູ້ຊາຍ.
+
+407
+00:24:54,750 --> 00:24:59,650
+[HUDSON]
+They must be like Gorman.  Their signs are real low but they ain't dead!
+ພວກເຂົາຕ້ອງຄືກັບໂກຣມານ.
+ສັນຍານຂອງພວກເຂົາຕໍ່າແທ້ໆ ແຕ່ພວກເຂົາບໍ່ໄດ້ຕາຍ!
+
+408
+00:25:00,150 --> 00:25:04,700
+[RIPLEY]
+You can't help them.  Right now they're being cocooned just like the others.
+ເຈົ້າບໍ່ສາມາດຊ່ວຍພວກເຂົາໄດ້.
+ດຽວນີ້ພວກເຂົາ ກໍາ ລັງຖືກໂກໂອນຄືກັບຄົນອື່ນ.
+
+409
+00:25:05,200 --> 00:25:07,300
+[HUDSON]
+Oh, God.  Jesus.  This ain't happening.
+ໂອ້ ພຣະເຈົ້າ. ພຣະເຢຊູ. ສິ່ງນີ້ບໍ່ໄດ້ເກີດຂຶ້ນ.
+
+410
+00:25:07,800 --> 00:25:09,800
+[SPUNKMEYER]
+Need anything else?
+ເຈົ້າຕ້ອງການຫຍັງອີກບໍ?
+
+411
+00:25:10,300 --> 00:25:16,300
+[VASQUEZ]
+All right, we can't blow the fuck out of them...why not roll some canisters of CN-20 down there. Nerve gas the whole nest?
+ດີແລ້ວ, ພວກເຮົາບໍ່ສາມາດພັດພວກມັນອອກໄດ້... ເປັນຫຍັງຈຶ່ງບໍ່ຖິ້ມຖັງຂອງ
+CN-20 ບາງຢ່າງຢູ່ບ່ອນນັ້ນ. ແກັສປະສາດທັງ ຫມົດ?
+
+412
+00:25:16,800 --> 00:25:20,650
+[HUDSON]
+Look, man, let's just bug out and call it even, okay?
+ເບິ່ງແມ, ພວກເຮົາພຽງແຕ່ອອກໄປແລະເອີ້ນມັນວ່າເທົ່າທຽມກັນ, ດີບໍ?
+
+413
+00:25:21,150 --> 00:25:27,150
+[RIPLEY]
+No good.  How do we know it'll effect their biochemistry?  I say we take off and nuke the entire site from orbit.  It's the only way to be sure.
+ບໍ່ດີ. ພວກເຮົາຈະຮູ້ວ່າມັນຈະສົ່ງຜົນກະທົບຕໍ່ຊີວະເຄມີຂອງພວກເຂົາແນວໃດ?
+ຂ້ອຍເວົ້າວ່າພວກເຮົາຈະບິນຂຶ້ນແລະລະເບີດນິວເຄລຍສະຖານທີ່ທັງ ຫມົດ ຈາກວົງຈອນ. ມັນແມ່ນວິທີດຽວທີ່ຈະແນ່ໃຈ.
+
+414
+00:25:27,650 --> 00:25:31,150
+[BURKE]
+Now hold on a second.  I'm not authorizing that action.
+ດຽວນີ້ລໍຖ້າວິນາທີຫນຶ່ງ. ຂ້ອຍບໍ່ໄດ້ອະນຸຍາດການກະ ທໍາ ນັ້ນ.
+
+415
+00:25:31,650 --> 00:25:33,650
+[RIPLEY]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+416
+00:25:34,150 --> 00:25:40,150
+[BURKE]
+Well, I mean...I know this is an emotional moment, but let's not make snap judgments.  Let's move cautiously.  First, this physical installation had a substantial dollar value attached to it --
+ດີ, ຂ້ອຍຫມາຍຄວາມວ່າ... ຂ້ອຍຮູ້ວ່ານີ້ແມ່ນຊ່ວງເວລາທີ່ຮູ້ສຶກ, ແຕ່ຢ່າຕັດສິນໃຈທັນທີ. ໃຫ້ເຄື່ອນຍ້າຍຢ່າງລະມັດລະວັງ
+. ກ່ອນອື່ນ ຫມົດ, ການຕິດຕັ້ງທາງດ້ານຮ່າງກາຍນີ້ມີມູນຄ່າໂດລາທີ່ສໍາຄັນທີ່ຕິດພັນກັບມັນ -
+
+417
+00:25:40,650 --> 00:25:44,500
+[RIPLEY]
+They can bill me.  I got a tab running.  What's second?
+ພວກເຂົາສາມາດຄິດໄລ່ຂ້ອຍໄດ້. ຂ້ອຍມີບັນຊີທີ່
+ດໍາ ເນີນງານ. ອັນທີສອງແມ່ນຫຍັງ?
+
+418
+00:25:45,000 --> 00:25:50,950
+[BURKE]
+This is clearly an important species we're dealing with here. We can't just arbitrarily exterminate them --
+ນີ້ແມ່ນຊະນິດທີ່ສໍາຄັນທີ່ພວກເຮົາ ກໍາ ລັງປະເຊີນກັບບ່ອນນີ້
+. ພວກເຮົາບໍ່ສາມາດ ກໍາ ຈັດພວກມັນໄດ້ໂດຍທາງເລືອກ -
+
+419
+00:25:51,450 --> 00:25:53,450
+[RIPLEY]
+Bullshit!
+ໂຊກຮ້າຍ!
+
+420
+00:25:53,950 --> 00:25:55,950
+[VASQUEZ]
+Yeah, bullshit.  Watch us.
+ແມ່ນແລ້ວ, ຄວາມໂຊກຮ້າຍ. ເບິ່ງພວກເຮົາ.
+
+421
+00:25:56,450 --> 00:26:02,400
+[HUDSON]
+Maybe you haven't been keeping up on current events, but we just got out asses kicked, pal!
+ບາງທີເຈົ້າບໍ່ໄດ້ຕິດຕາມເຫດການໃນປະຈຸບັນ,
+ແຕ່ພວກເຮົາຫາກໍ່ອອກຈາກບາກຖືກຕີ, ເພື່ອນ!
+
+422
+00:26:02,900 --> 00:26:05,000
+[RIPLEY]
+Look, Burke.  We had an agreement.
+ເບິ່ງແບກ. ພວກເຮົາມີຂໍ້ຕົກລົງກັນ.
+
+423
+00:26:05,500 --> 00:26:11,500
+[BURKE]
+I know, I know, but we're dealing with changing scenarios here.  This thing is major, Ripley.  I mean really major.  You gotta go with its energy.  Since you are the representative of the company who discovered this species your percentage will naturally be some serious, serious money.
+ຂ້ອຍຮູ້ແລ້ວ, ຂ້ອຍຮູ້ວ່າ, ແຕ່ພວກເຮົາ ກໍາ ລັງປະເຊີນກັບການປ່ຽນແປງສະຖານະການຢູ່ນີ້. ສິ່ງນີ້ແມ່ນໃຫຍ່ຫຼວງ, ຣິບລີ. ຂ້ອຍ ຫມາຍ ຄວາມວ່າໃຫຍ່ຫຼວງແທ້ໆ
+. ເຈົ້າຕ້ອງໄປກັບພະລັງງານຂອງມັນ. ເນື່ອງຈາກວ່າເຈົ້າເປັນຕົວແທນຂອງບໍລິສັດທີ່ຄົ້ນພົບຊະນິດນີ້ອັດຕາສ່ວນຂອງທ່ານຈະເປັນເງິນທີ່ຈິງໃຈ, ຈິງໃຈບາງຢ່າງ.
+
+424
+00:26:12,000 --> 00:26:14,000
+[RIPLEY]
+You son of a bitch.
+ເຈົ້າໂຊກຮ້າຍ.
+
+425
+00:26:14,500 --> 00:26:16,600
+[BURKE]
+Don't make me pull rank, Ripley.
+ຢ່າເຮັດໃຫ້ຂ້ອຍດຶງຊັ້ນສູງ, ຣິບລີ.
+
+426
+00:26:17,100 --> 00:26:20,250
+[RIPLEY]
+What rank?  I believe Corporal Hicks has authority here.
+ຂ້ອຍເຊື່ອວ່າ ນາຍພົນຮິກສ໌ມີອໍານາດຢູ່ນີ້.
+
+427
+00:26:20,750 --> 00:26:22,750
+[BURKE]
+Corporal Hicks!?
+ນາຍພົນຮິກສ໌!?
+
+428
+00:26:23,250 --> 00:26:28,500
+[RIPLEY]
+This operation is under military jurisdiction and Hicks is next in chain of command.  Right?
+ການປະຕິບັດງານນີ້ແມ່ນພາຍໃຕ້ອໍານາດການປົກຄອງທາງທະຫານແລະ
+Hicks ແມ່ນຕໍ່ໄປໃນຕ່ອງໂສ້ການບັນຊາການ. ແມ່ນບໍ?
+
+429
+00:26:29,000 --> 00:26:31,000
+[HICKS]
+Looks that way.
+ເບິ່ງຄືວ່າແບບນັ້ນ.
+
+430
+00:26:31,500 --> 00:26:37,500
+[BURKE]
+Look, this is a multimillion dollar operation.  He can't make that kind of decision.  He's just a grunt!  No offense.
+ເບິ່ງ, ນີ້ແມ່ນການປະຕິບັດງານຫຼາຍລ້ານໂດລາ. ລາວບໍ່ສາມາດຕັດສິນໃຈແບບນັ້ນໄດ້
+. ລາວພຽງແຕ່ເປັນຄົນສັ່ນສະເທືອນ! ບໍ່ມີການໂຊກຮ້າຍ.
+
+431
+00:26:38,000 --> 00:26:40,000
+[HICKS]
+None taken.  Ferro, you copying?
+ບໍ່ມີໃຜເອົາ. ຟາຣໂຣ, ເຈົ້າ ກໍາ ລັງ ສໍາ ເນົາບໍ?
+
+432
+00:26:40,500 --> 00:26:42,500
+[FERRO]
+Standing by.
+ຕຽມພ້ອມ.
+
+433
+00:26:43,000 --> 00:26:49,000
+[HICKS]
+Prep for dust-off.  We're gonna need an immediate evac.  I think we'll take off and nuke the site from orbit.  It's the only way to be sure.
+ກຽມພ້ອມ ສໍາ ລັບການຖິ້ມຂີ້ຝຸ່ນ. ພວກເຮົາຈະຕ້ອງການການຍົກຍ້າຍທັນທີ.
+ຂ້ອຍຄິດວ່າພວກເຮົາຈະບິນຂຶ້ນແລະວາງລະເບີດນິວເຄລຍສະຖານທີ່ຈາກວົງຈອນ. ມັນແມ່ນວິທີດຽວທີ່ຈະແນ່ໃຈ.
+
+434
+00:26:49,500 --> 00:26:53,000
+[BURKE]
+This is absurd!  You don't have the authority to --
+ນີ້ແມ່ນໂຊກຮ້າຍ! ເຈົ້າບໍ່ມີອໍານາດທີ່ຈະ -
+
+435
+00:26:53,500 --> 00:26:55,500
+[RIPLEY]
+We're going home, honey.
+ພວກເຮົາຈະກັບບ້ານ, ແມ.
+
+436
+00:26:56,000 --> 00:26:58,000
+[FERRO]
+Spunkmeyer?  Goddammit.
+Spunkmeyer? ສະບາຍດີ.
+
+437
+00:26:58,500 --> 00:27:00,500
+[FERRO]
+Where the fu --
+ບ່ອນທີ່ຟູ...
+
+438
+00:27:01,000 --> 00:27:03,000
+[RIPLEY]
+Run!
+ແລ່ນໄປ!
+
+439
+00:27:03,500 --> 00:27:09,500
+[HUDSON]
+Well that's great!  That's just fucking great, man.  Now what the fuck are we supposed to do, man? We're in some real pretty shit now!
+ດີນັ້ນດີເລີດ! ນັ້ນພຽງແຕ່ດີຫຼາຍແມ. ດຽວນີ້ພວກເຮົາຄວນເຮັດຫຍັງແມ
+? ພວກເຮົາຢູ່ໃນສິ່ງທີ່ດີເລີດແທ້ໆດຽວນີ້!
+
+440
+00:27:10,000 --> 00:27:12,000
+[HICKS]
+Are you finished?  You okay?
+ເຈົ້າສໍາເລັດແລ້ວບໍ? ເຈົ້າດີບໍ?
+
+441
+00:27:12,500 --> 00:27:14,600
+[NEWT]
+I guess we're not leaving, right?
+ຂ້ອຍຄິດວ່າພວກເຮົາຈະບໍ່ອອກໄປ, ແມ່ນບໍ?
+
+442
+00:27:15,100 --> 00:27:17,100
+[RIPLEY]
+I'm sorry, Newt.
+ຂ້ອຍຂໍໂທດ, ນິວຕ໌.
+
+443
+00:27:17,600 --> 00:27:21,100
+[NEWT]
+You don't have to be sorry.  It wasn't your fault.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຂໍໂທດ. ມັນບໍ່ແມ່ນຄວາມຜິດຂອງເຈົ້າ.
+
+444
+00:27:21,600 --> 00:27:27,200
+[HUDSON]
+Just tell me what the fuck we're supposed to do now.  What're we gonna do now?
+ພຽງແຕ່ບອກຂ້ອຍວ່າພວກເຮົາຄວນເຮັດຫຍັງດຽວນີ້
+. ພວກເຮົາຈະເຮັດແນວໃດດຽວນີ້?
+
+445
+00:27:27,700 --> 00:27:30,850
+[BURKE]
+May be could build a fire and sing songs.
+ບາງທີສາມາດສ້າງໄຟແລະຮ້ອງເພງໄດ້.
+
+446
+00:27:31,350 --> 00:27:36,600
+[NEWT]
+We should get back, 'cause it'll be dark soon.  They come mostly at night.  Mostly.
+ພວກເຮົາຄວນກັບຄືນໄປບ່ອນ, ເພາະວ່າມັນຈະມືດໄວໆນີ້
+. ພວກເຂົາມາສ່ວນໃຫຍ່ໃນຕອນກາງຄືນ. ສ່ວນໃຫຍ່.
+
+447
+00:27:37,100 --> 00:27:43,100
+[HICKS]
+This is all we could salvage.  We've got four pulse-rifles with about fifty rounds each.  Not so good. About fifteen M-40 grenades and two flame throwers less than half full...one damaged.  And We've got four of these robot-sentry units with scanners and display intact.
+ນີ້ແມ່ນທັງ ຫມົດ ທີ່ພວກເຮົາສາມາດຊ່ວຍໄດ້. ພວກເຮົາມີປືນກະທູ້ສີ່ປືນທີ່ມີປະມານຫ້າສິບປືນແຕ່ລະຄົນ. ບໍ່ດີຫຼາຍ. ປະມານສິບຫ້າປືນ M-40
+ແລະເຄື່ອງຖິ້ມໄຟສອງຢ່າງ ຫນ້ອຍ ກວ່າເຄິ່ງເຕັມ... ຫນຶ່ງ ທີ່ເສຍຫາຍ. ແລະພວກເຮົາມີສີ່ ຫນ່ວຍ ງານທີ່ໃຊ້ຫຸ່ນຍົນເຫຼົ່ານີ້ດ້ວຍເຄື່ອງສະແກນແລະ ຫນ້າ ຈໍບໍ່ແຕກ.
+
+448
+00:27:43,600 --> 00:27:47,450
+[RIPLEY]
+How long after we're declared overdue can we expect a rescue?
+ພວກເຮົາສາມາດຄາດຫວັງການຊ່ວຍເຫຼືອໄດ້ດົນປານໃດຫຼັງຈາກທີ່ພວກເຮົາຖືກປະກາດວ່າຊ້າເກີນໄປ
+?
+
+449
+00:27:47,950 --> 00:27:49,950
+[HICKS]
+About seventeen days.
+ປະມານສິບເຈັດມື້.
+
+450
+00:27:50,450 --> 00:27:56,450
+[HUDSON]
+Man, we're not going to make it seventeen hours!  Those things are going to come in here, just like they did before, man... they're going to come in here and get us, man, long before...
+ຜູ້ຊາຍ, ພວກເຮົາຈະບໍ່ເຮັດມັນສິບເຈັດຊົ່ວໂມງ! ສິ່ງເຫຼົ່ານັ້ນຈະເຂົ້າມາບ່ອນນີ້,
+ຄືກັບທີ່ພວກເຂົາເຮັດກ່ອນ, ຜູ້ຊາຍ... ພວກເຂົາຈະເຂົ້າ ມາບ່ອນນີ້ແລະເອົາພວກເຮົາ, ຄົນ, ກ່ອນທີ່...
+
+451
+00:27:56,950 --> 00:28:00,800
+[RIPLEY]
+She survived longer than that with no weapons and no training.
+ນາງລອດຊີວິດໄດ້ດົນກວ່ານັ້ນ ໂດຍບໍ່ມີອາວຸດແລະບໍ່ມີການຝຶກອົບຮົມ.
+
+452
+00:28:01,300 --> 00:28:07,300
+[RIPLEY]
+So you better just start dealing with it.  Just deal with it, Hudson...because we need you and I'm tired of your bullshit.  Now get on a terminal and call up some kind of floor plan file. Construction blueprints, maintenance schematics, anything that shows the layout of this place.  I want to see air ducts, electrical access tunnels, subbasements.  Every possible way into this wing.
+ສະນັ້ນເຈົ້າດີກວ່າພຽງແຕ່ເລີ່ມຕົ້ນຮັບມືກັບມັນ. ພຽງແຕ່ຈັດການກັບມັນ, ຮັດຊັນ... ເພາະວ່າພວກເຮົາຕ້ອງການເຈົ້າແລະຂ້ອຍເມື່ອຍຈາກຄວາມໂຊກແຊງຂອງທ່ານ. ດຽວນີ້ຂຶ້ນເທິງ terminal ແລະໂທຫາເອກະສານແຜນພື້ນບາງຊະນິດ
+. ແຜນການກໍ່ສ້າງ, ແຜນການຮັກສາ, ທຸກສິ່ງທຸກຢ່າງທີ່ສະແດງໃຫ້ເຫັນການວາງແຜນຂອງສະຖານທີ່ນີ້. ຂ້ອຍຢາກເຫັນທໍ່ອາກາດ, ທໍ່ການເຂົ້າເຖິງໄຟຟ້າ, ລຸ່ມລຸ່ມ. ທຸກທາງທີ່ເປັນໄປໄດ້ເຂົ້າໄປໃນຈານນີ້.
+
+453
+00:28:07,800 --> 00:28:09,800
+[HUDSON]
+Aye-firmative.  I'm on it.
+ແມ່ນແລ້ວ - ຢືນຢັນ. ຂ້ອຍເຮັດແລ້ວ.
+
+454
+00:28:10,300 --> 00:28:13,800
+[BISHOP]
+I'll be in medical.  I'd like to continue my analysis.
+ຂ້ອຍຈະຢູ່ໃນແພດ. ຂ້ອຍຢາກສືບຕໍ່ການວິເຄາະຂອງຂ້ອຍ.
+
+455
+00:28:14,300 --> 00:28:16,300
+[RIPLEY]
+Fine.  You do that.
+ດີ. ເຈົ້າເຮັດແບບນັ້ນ.
+
+456
+00:28:16,800 --> 00:28:20,300
+[RIPLEY]
+This service tunnel is how they're moving back and forth.
+ທໍ່ບໍລິການນີ້ແມ່ນວິທີທີ່ພວກເຂົາ
+ກໍາ ລັງເຄື່ອນຍ້າຍໄປແລະກັບຄືນໄປບ່ອນ.
+
+457
+00:28:20,800 --> 00:28:25,350
+[HUDSON]
+Yeah, right, it runs from the processing station right into the sublevel here.
+ແມ່ນແລ້ວ, ຖືກ,
+ມັນແລ່ນຈາກສະຖານີການປະມວນຜົນໂດຍກົງເຂົ້າໄປໃນລະດັບຍ່ອຍຢູ່ນີ້.
+
+458
+00:28:25,850 --> 00:28:31,850
+[RIPLEY]
+All right.  There's a fire door at this end.  The first thing we do is put a remote sentry in the tunnel and seal that door.
+ດີແລ້ວ. ມີປະຕູໄຟຢູ່ຈຸດນີ້. ສິ່ງ ທໍາ
+ອິດທີ່ພວກເຮົາເຮັດແມ່ນວາງຄົນເບິ່ງແຍງຫ່າງໄກສອກຫຼີກໃນທໍ່ແລະປິດປະຕູນັ້ນ.
+
+459
+00:28:32,350 --> 00:28:35,500
+[HICKS]
+We gotta figure on them getting into the complex.
+ພວກເຮົາຕ້ອງຄິດວ່າພວກເຂົາຈະເຂົ້າໄປໃນສະໂມສອນ.
+
+460
+00:28:36,000 --> 00:28:42,000
+[RIPLEY]
+That's right.  So we put up welded barricades at these intersections...  ...and seal these ducts here and here.  Then they can only come at us from these two corridors and we create a free field of fire for the other two sentry units, here.
+ນັ້ນແມ່ນຄວາມຈິງ. ສະນັ້ນພວກເຮົາຈຶ່ງວາງບາຣີເກດທີ່ເຊື່ອມໂລຫະຢູ່ຈຸດຂ້າມທາງເຫຼົ່ານີ້...... ແລະປິດທໍ່ເຫຼົ່ານີ້ຢູ່ບ່ອນນີ້ແລະບ່ອນນີ້.
+ຫຼັງຈາກນັ້ນພວກເຂົາສາມາດມາຫາພວກເຮົາພຽງແຕ່ຈາກເສັ້ນທາງສອງນີ້ແລະພວກເຮົາສ້າງສະ ຫນາມ ໄຟຟຣີ ສໍາ ລັບ ຫນ່ວຍ ງານປ້ອງກັນສອງຄົນອື່ນ, ຢູ່ບ່ອນນີ້ແມ່ນ.
+
+461
+00:28:42,500 --> 00:28:48,500
+[HICKS]
+Outstanding.  Then all we need's a deck of cards.  All right, let's move like we got a purpose.
+ຄຸເຂົ່າລົງ
+
+462
+00:28:49,000 --> 00:28:51,000
+[HUDSON]
+Aye-firmative.
+ແມ່ນແລ້ວ - ຢືນຢັນ.
+
+463
+00:28:51,500 --> 00:28:53,500
+[NEWT]
+Aye-firmative!
+ແມ່ນແລ້ວ - ຢືນຢັນ!
+
+464
+00:28:54,000 --> 00:28:56,000
+[VASQUEZ]
+Testing!
+ການທົດສອບ!
+
+465
+00:28:56,500 --> 00:29:01,750
+[HUDSON]
+Hudson here.  A and B sentries are in place and keyed.  We're sealing the tunnel.
+ຮັດຊັນຢູ່ບ່ອນນີ້. ເຈົ້າຫນ້າທີ່ A ແລະ B
+ແມ່ນຢູ່ໃນສະຖານທີ່ແລະປຸ່ມ. ພວກເຮົາ ກໍາ ລັງປິດທໍ່.
+
+466
+00:29:02,250 --> 00:29:04,250
+[HICKS]
+Roger.
+ໂຣເຈີ.
+
+467
+00:29:04,750 --> 00:29:10,350
+[HICKS]
+Here, put this on.  Then I can locate you anywhere in the complex on this --
+ມາແລ້ວ, ໃສ່ສິ່ງນີ້.
+ຫຼັງຈາກນັ້ນຂ້ອຍສາມາດຊອກຫາເຈົ້າຢູ່ບ່ອນໃດກໍ່ຕາມໃນສະໂມສອນນີ້ -
+
+468
+00:29:10,850 --> 00:29:12,850
+[HICKS]
+Just a...precaution.  You know.
+ພຽງແຕ່... ຄວາມລະມັດລະວັງ. ເຈົ້າຮູ້ແລ້ວ.
+
+469
+00:29:13,350 --> 00:29:15,350
+[RIPLEY]
+Thanks.
+ຂອບໃຈ
+
+470
+00:29:15,850 --> 00:29:17,850
+[HUDSON]
+Uh, what's next?
+ໂອ້, ຕໍ່ໄປແມ່ນຫຍັງ?
+
+471
+00:29:18,350 --> 00:29:22,200
+[RIPLEY]
+Now you just lie here and have a nap.  You're exhausted.
+ດຽວນີ້ເຈົ້າພຽງແຕ່ນອນຢູ່ບ່ອນນີ້ແລະນອນຫຼັບ. ເຈົ້າເມື່ອຍແລ້ວ.
+
+472
+00:29:22,700 --> 00:29:25,150
+[NEWT]
+I don't want to...I have scary dreams.
+ຂ້ອຍບໍ່ຢາກ... ຂ້ອຍມີຄວາມຝັນທີ່ຢ້ານກົວ.
+
+473
+00:29:25,650 --> 00:29:28,100
+[RIPLEY]
+I'll bet Casey doesn't have bad dreams.
+ຂ້ອຍແນ່ໃຈວ່າ ຄາຊີບໍ່ມີຄວາມຝັນຮ້າຍ.
+
+474
+00:29:28,600 --> 00:29:33,150
+[RIPLEY]
+Nothing bad in here.  Maybe you could just try to be like her.
+ບໍ່ມີຫຍັງຮ້າຍແຮງຢູ່ນີ້.
+ບາງທີເຈົ້າພຽງແຕ່ສາມາດພະຍາຍາມເປັນຄືກັບນາງໄດ້.
+
+475
+00:29:33,650 --> 00:29:37,850
+[NEWT]
+Ripley...she doesn't have bad dreams because she's just a piece of plastic.
+ຣິບລີ...
+ນາງບໍ່ມີຄວາມຝັນຮ້າຍເພາະວ່ານາງພຽງແຕ່ເປັນກະດານພາດສະຕິກເທົ່ານັ້ນ.
+
+476
+00:29:38,350 --> 00:29:40,350
+[RIPLEY]
+Oh.  Sorry, Newt.
+ໂອ້ ຂໍໂທດ ນິວຕ໌.
+
+477
+00:29:40,850 --> 00:29:45,750
+[NEWT]
+My mommy always said there were no monsters.  No real ones.  But there are.
+ແມ່ຂອງຂ້ອຍເວົ້າຢູ່ສະເຫມີວ່າບໍ່ມີໂມສເຕີ. ບໍ່ມີຄົນແທ້ຈິງ. ແຕ່ມີ.
+
+478
+00:29:46,250 --> 00:29:48,250
+[RIPLEY]
+Yes, there are, aren't there.
+ແມ່ນແລ້ວ, ມີ, ບໍ່ມີບໍ.
+
+479
+00:29:48,750 --> 00:29:51,200
+[NEWT]
+Why do they tell little kids that?
+ເປັນຫຍັງພວກເຂົາຈຶ່ງບອກເດັກນ້ອຍນ້ອຍໆແບບນັ້ນ?
+
+480
+00:29:51,700 --> 00:29:54,850
+[RIPLEY]
+Well, some kids can't handle it like you can.
+ດີ, ເດັກນ້ອຍບາງຄົນບໍ່ສາມາດຮັບມືກັບມັນໄດ້ຄືກັບເຈົ້າ.
+
+481
+00:29:55,350 --> 00:29:58,150
+[NEWT]
+Did one of those things grow inside her?
+ບາງສິ່ງບາງຢ່າງນັ້ນເຕີບໃຫຍ່ຂຶ້ນພາຍໃນນາງບໍ?
+
+482
+00:29:58,650 --> 00:30:01,100
+[RIPLEY]
+I don't know, Newt.  That's the truth.
+ຂ້ອຍບໍ່ຮູ້, ນິວຕ໌. ນັ້ນແມ່ນຄວາມຈິງ.
+
+483
+00:30:01,600 --> 00:30:05,800
+[NEWT]
+Isn't that how babies come? I mean people babies...they grow inside you?
+ນັ້ນບໍ່ແມ່ນວິທີທີ່ເດັກນ້ອຍມາບໍ? ຂ້ອຍຫມາຍຄວາມວ່າເດັກນ້ອຍຄົນ
+... ພວກເຂົາເຕີບໃຫຍ່ພາຍໃນເຈົ້າບໍ?
+
+484
+00:30:06,300 --> 00:30:08,300
+[RIPLEY]
+No, it's different, honey.
+ບໍ່, ມັນແຕກຕ່າງກັນ, ແມ.
+
+485
+00:30:08,800 --> 00:30:10,900
+[NEWT]
+Did you ever have a baby?
+ເຈົ້າເຄີຍມີລູກບໍ?
+
+486
+00:30:11,400 --> 00:30:13,400
+[RIPLEY]
+Yes.  A little girl.
+ແມ່ນແລ້ວ. ເດັກຍິງນ້ອຍ.
+
+487
+00:30:13,900 --> 00:30:15,900
+[NEWT]
+Where is she?
+ນາງຢູ່ໃສ?
+
+488
+00:30:16,400 --> 00:30:18,400
+[RIPLEY]
+Gone.
+ໄປແລ້ວ.
+
+489
+00:30:18,900 --> 00:30:20,900
+[NEWT]
+You mean dead.
+ເຈົ້າຫມາຍຄວາມວ່າຕາຍແລ້ວ.
+
+490
+00:30:21,400 --> 00:30:27,400
+[NEWT]
+Ripley, I was just thinking... Maybe I could do you a favor and fill in for her.  Just for a while.  You can try it and if you don't like it, it's okay. I'll understand.  No big deal. Whattya think?
+ຣິບລີ, ຂ້ອຍພຽງແຕ່ຄິດວ່າ... ບາງທີຂ້ອຍສາມາດເຮັດຄວາມຊ່ວຍເຫຼືອເຈົ້າແລະຕື່ມ ສໍາ ລັບນາງ. ພຽງແຕ່ຊົ່ວຄາວ.
+ເຈົ້າສາມາດພະຍາຍາມມັນແລະຖ້າເຈົ້າບໍ່ມັກມັນ, ມັນບໍ່ເປັນຫຍັງ. ຂ້ອຍຈະເຂົ້າໃຈ. ບໍ່ມີເລື່ອງໃຫຍ່. ເຈົ້າຄິດແນວໃດ?
+
+491
+00:30:27,900 --> 00:30:33,500
+[RIPLEY]
+I think it's not the worst idea I've heard all day.  Let's talk about it later.
+ຂ້ອຍຄິດວ່າມັນບໍ່ແມ່ນຄວາມຄິດທີ່ຮ້າຍແຮງທີ່ສຸດທີ່ຂ້ອຍໄດ້ຍິນຕະຫຼອດມື້
+. ມາເວົ້າກ່ຽວກັບມັນຕໍ່ມາ.
+
+492
+00:30:34,000 --> 00:30:36,000
+[NEWT]
+Don't go!  Please.
+ຢ່າໄປ! ກະລຸນາ.
+
+493
+00:30:36,500 --> 00:30:42,500
+[RIPLEY]
+I'll be right in the other room, Newt.  And look...I can see you on that camera right up there.
+ຂ້ອຍຈະຢູ່ໃນຫ້ອງອື່ນ, ນິວຕ໌. ແລະເບິ່ງ...
+ຂ້ອຍເຫັນເຈົ້າໃນກ້ອງຖ່າຍຮູບນັ້ນຢູ່ເທິງນັ້ນ.
+
+494
+00:30:43,000 --> 00:30:46,850
+[RIPLEY]
+Here.  Take is for luck.  Now go to sleep...and don't dream.
+ມາແລ້ວ. ເອົາແມ່ນເພື່ອໂຊກດີ. ດຽວນີ້ໄປນອນ... ແລະຢ່າຝັນ.
+
+495
+00:30:47,350 --> 00:30:49,350
+[RIPLEY]
+How is he?
+ລາວເປັນແນວໃດ?
+
+496
+00:30:49,850 --> 00:30:55,850
+[BISHOP]
+I've isolated a neuro-muscular toxin responsible for the paralysis.  It seems to be metabolizing.  He should wake up soon.
+ຂ້ອຍໄດ້ແຍກສານພິດປະສາດປະສາດທີ່ຮັບຜິດຊອບການບໍາບັດ.
+ມັນເບິ່ງຄືວ່າ ກໍາ ລັງ metabolizing. ລາວຄວນຕື່ນໄວໆນີ້.
+
+497
+00:30:56,350 --> 00:31:02,350
+[RIPLEY]
+Now let me get this straight. The aliens paralyzed the colonists, carried them over there, cocooned them to be hosts for more of those...
+ດຽວນີ້ຂໍໃຫ້ຂ້ອຍເຂົ້າໃຈເລື່ອງນີ້ຢ່າງກົງກັນຂ້າມ. ຄົນຕ່າງດາວໄດ້ເຮັດໃຫ້ຊາວຄolonians
+ໂຊກຮ້າຍ, ເອົາພວກເຂົາໄປບ່ອນນັ້ນ, cocoon ໃຫ້ພວກເຂົາເປັນເຈົ້າພາບ ສໍາ ລັບຫຼາຍຄົນນັ້ນ...
+
+498
+00:31:02,850 --> 00:31:08,450
+[RIPLEY]
+Which would mean lots of those parasites, right?  One for each person...over a hundred at least.
+ຊຶ່ງຈະຫມາຍຄວາມວ່າມີພາວະພິດຫຼາຍຢ່າງນັ້ນ, ແມ່ນບໍ?
+ຫນຶ່ງ ສໍາ ລັບແຕ່ລະຄົນ... ຢ່າງຫນ້ອຍຫຼາຍກວ່າສິບຄົນ.
+
+499
+00:31:08,950 --> 00:31:10,950
+[BISHOP]
+Yes.  That follows.
+ແມ່ນແລ້ວ. ນັ້ນຕິດຕາມ.
+
+500
+00:31:11,450 --> 00:31:16,000
+[RIPLEY]
+But these things come from eggs...so where are all the eggs coming from.
+ແຕ່ສິ່ງເຫຼົ່ານີ້ມາຈາກໄຂ່... ສະນັ້ນໄຂ່ທັງ ຫມົດ ມາຈາກໃສ.
+
+501
+00:31:16,500 --> 00:31:22,500
+[BISHOP]
+That is the question of the hour.  We could assume a parallel to certain insect forms who have hivelike organization. An ant of termite colony, for example, is ruled by a single female, a queen, which is the source of new eggs.
+ນັ້ນແມ່ນ ຄໍາ ຖາມຂອງຊົ່ວໂມງ. ພວກເຮົາສາມາດຄິດວ່າກົງກັນຂ້າມກັບຮູບແບບແມງໄມ້ບາງຢ່າງທີ່ມີການຈັດຕັ້ງຄ້າຍຄືກັບຮົ້ວ
+. ແມງໄມ້ຂອງຄລູເນຍແສງສະຫວ່າງ, ຍົກຕົວຢ່າງ, ຖືກປົກຄອງໂດຍແມ່ຍິງດຽວ, ລາຊິນີ, ເຊິ່ງເປັນແຫຼ່ງໄຂ່ ໃຫມ່.
+
+502
+00:31:23,000 --> 00:31:26,500
+[RIPLEY]
+You're saying one of those things lays all the eggs?
+ເຈົ້າ ກໍາ ລັງເວົ້າວ່າ ຫນຶ່ງ
+ໃນສິ່ງເຫຼົ່ານັ້ນ ກໍາ ລັງວາງໄຂ່ທັງ ຫມົດ ບໍ?
+
+503
+00:31:27,000 --> 00:31:33,000
+[BISHOP]
+Well, the queen is always physically larger then the others.  A termite queen's abdomen is so bloated with eggs that it can't move at all.  It is fed and tended by drone workers, defended by the warriors.  She is the center of their lives, quite literally the  mother of their society.
+ດີ, ລາຊິນີແມ່ນໃຫຍ່ກວ່າຄົນອື່ນຢູ່ສະເຫມີທາງດ້ານຮ່າງກາຍ. ທ້ອງຂອງລາຊິນິກໍາແມງໄມ້ແມ່ນຕື່ນເຕັ້ນຫຼາຍດ້ວຍໄຂ່ທີ່ມັນບໍ່ສາມາດເຄື່ອນຍ້າຍໄດ້ເລີຍ
+. ມັນຖືກໃຫ້ອາຫານແລະເບິ່ງແຍງໂດຍຄົນງານດຣອນ, ປົກປ້ອງໂດຍນັກຮົບ. ນາງເປັນສູນກາງຊີວິດຂອງພວກເຂົາ, ແມ່ຂອງສັງຄົມຂອງພວກເຂົາຢ່າງແທ້ຈິງ.
+
+504
+00:31:33,500 --> 00:31:35,500
+[RIPLEY]
+Could it be intelligent?
+ມັນສາມາດສະຫຼາດໄດ້ບໍ?
+
+505
+00:31:36,000 --> 00:31:42,000
+[BISHOP]
+Hard to say.  It may have been blind instinct...attraction to the heat of whatever...but she did choose to incubate her eggs in the one spot where we couldn't destroy her without destroying ourselves.  That's if she exists, of course.
+ມັນຍາກທີ່ຈະເວົ້າ. ມັນອາດຈະເປັນກະຕຸ້ນຕາບອດ... ຄວາມດຶງດູດຕໍ່ຄວາມຮ້ອນຂອງສິ່ງໃດກໍ່ຕາມ...
+ແຕ່ນາງໄດ້ເລືອກທີ່ຈະກວມເອົາໄຂ່ຂອງນາງໃນບ່ອນດຽວທີ່ພວກເຮົາບໍ່ສາມາດທໍາລາຍນາງໄດ້ໂດຍບໍ່ຕ້ອງ ທໍາ ລາຍຕົວເອງ. ນັ້ນແມ່ນຖ້ານາງມີຢູ່, ແນ່ນອນ.
+
+506
+00:31:42,500 --> 00:31:47,400
+[RIPLEY]
+I want those specimens destroyed as soon as you're done with them. You understand?
+ຂ້ອຍຢາກໃຫ້ຕົວຢ່າງເຫລົ່ານັ້ນຖືກທໍາລາຍທັນທີທີ່ທ່ານເຮັດ
+ສໍາ ເລັດກັບພວກມັນ. ເຈົ້າເຂົ້າໃຈບໍ?
+
+507
+00:31:47,900 --> 00:31:53,900
+[BISHOP]
+Mr. Burke have instructions that they were to be kept alive in stasis for return to the company labs.  He was very specific.
+ທ້າວເບີກມີຄໍາແນະນໍາວ່າພວກເຂົາຄວນຖືກຮັກສາຢູ່ອາໄສໃນ stasis
+ເພື່ອກັບຄືນໄປບ່ອນຫ້ອງທົດລອງຂອງບໍລິສັດ. ລາວແມ່ນສະເພາະຫຼາຍ.
+
+508
+00:31:54,400 --> 00:31:56,400
+[RIPLEY]
+Burke!
+ບຸກ!
+
+509
+00:31:56,900 --> 00:32:02,900
+[BURKE]
+Those specimens are worth millions to the bio-weapons division.  Now, if you're smart we can both come out of this heroes.  Set up for life.
+ຕົວຢ່າງເຫລົ່ານັ້ນມີມູນຄ່າຫຼາຍລ້ານຕໍ່ພະແນກອາວຸດຊີວະພາບ. ດຽວນີ້,
+ຖ້າເຈົ້າສະຫຼາດພວກເຮົາທັງສອງສາມາດອອກຈາກວິລະຊົນນີ້ໄດ້. ຖືກຕັ້ງໄວ້ເພື່ອຊີວິດ.
+
+510
+00:32:03,400 --> 00:32:09,000
+[RIPLEY]
+You just try getting a dangerous organism past ICC quarantine. Section 22350 of the Commerce Code.
+ເຈົ້າພຽງແຕ່ພະຍາຍາມເຮັດໃຫ້ຊີວະພາບອັນຕະລາຍຜ່ານການກັກກັນ
+ICC. ມາດຕາ 22350 ຂອງກົດ ຫມາຍ ການຄ້າ.
+
+511
+00:32:09,500 --> 00:32:15,100
+[BURKE]
+You've been doing your homework. Look, they can't impound it if they don't know about it.
+ເຈົ້າ ກໍາ ລັງເຮັດບົດຮຽນບ້ານຂອງທ່ານ. ເບິ່ງ,
+ພວກເຂົາບໍ່ສາມາດຍຶດມັນໄດ້ຖ້າພວກເຂົາບໍ່ຮູ້ກ່ຽວກັບມັນ.
+
+512
+00:32:15,600 --> 00:32:21,600
+[RIPLEY]
+But they will know about it, Burke. From me.  Just like they'll know how you were responsible for the deaths of one hundred and fifty-seven colonists here --
+ແຕ່ພວກເຂົາຈະຮູ້ກ່ຽວກັບມັນ, ບາເກີ. ຈາກຂ້ອຍ.
+ຄືກັບພວກເຂົາຈະຮູ້ວ່າເຈົ້າມີຄວາມຮັບຜິດຊອບແນວໃດຕໍ່ການຕາຍຂອງຊາວຖິ່ນຖານສິບຫ້າສິບເຈັດຄົນຢູ່ນີ້ -
+
+513
+00:32:22,100 --> 00:32:24,100
+[BURKE]
+Now, wait a second --
+ດຽວນີ້, ລໍຖ້າວິນາທີຫນຶ່ງ -
+
+514
+00:32:24,600 --> 00:32:30,600
+[RIPLEY]
+You sent them to that ship.  I just checked the colony log... directive dates six-twelve-seventy-nine. Signed Burke, Carter J.
+ເຈົ້າໄດ້ສົ່ງພວກມັນໄປຫາເຮືອນັ້ນ. ຂ້ອຍຫາກໍ່ກວດສອບປື້ມບັນທຶກຄລູເນຍ.
+.. ຂໍ້ແນະນໍາວັນທີຫົກສິບສອງສິບເຈັດສິບເກົ້າ. ລົງນາມເບີກ, ຄາເຕີ ຈີ.
+
+515
+00:32:31,100 --> 00:32:37,050
+[RIPLEY]
+You sent them out there and you didn't even warn them, Burke. Why didn't you warn them?
+ເຈົ້າໄດ້ສົ່ງພວກມັນອອກໄປບ່ອນນັ້ນແລະເຈົ້າບໍ່ໄດ້ເຕືອນພວກມັນເລີຍ
+, ບີກ. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຕືອນພວກເຂົາ?
+
+516
+00:32:37,550 --> 00:32:43,550
+[BURKE]
+Look, maybe the thing didn't even exist, right?  And if I'd made it a major security situation, the Administration would've stepped in.  Then no exclusive rights, nothing.
+ເບິ່ງ, ບາງທີສິ່ງນັ້ນຍັງບໍ່ມີຢູ່ເລີຍ, ແມ່ນບໍ? ແລະຖ້າຂ້ອຍເຮັດໃຫ້ມັນເປັນສະຖານະການຄວາມປອດໄພທີ່ສໍາຄັນ
+, ການບໍລິຫານຈະເຂົ້າມາ. ຫຼັງຈາກນັ້ນບໍ່ມີສິດສະເພາະ, ບໍ່ມີຫຍັງເລີຍ.
+
+517
+00:32:44,050 --> 00:32:46,500
+[BURKE]
+It was a bad call, that's all.
+ມັນເປັນການໂທທີ່ບໍ່ດີ, ນັ້ນແມ່ນທັງຫມົດ.
+
+518
+00:32:47,000 --> 00:32:53,000
+[RIPLEY]
+Bad call?  These people are fucking dead, Burke!  Well, they're going to nail your hide to the shed... and I'll be there when they do.
+ຄຸເຂົ່າລົງ
+
+519
+00:32:53,500 --> 00:32:58,400
+[BURKE]
+I expected more of you, Ripley. I thought you would be smarter than this.
+ຂ້ອຍຄາດຫວັງຫຼາຍຂຶ້ນຈາກເຈົ້າ, ຣິບລີ.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະສະຫຼາດກວ່າສິ່ງນີ້.
+
+520
+00:32:58,900 --> 00:33:00,900
+[RIPLEY]
+Sorry to disappoint you.
+ຂໍໂທດທີ່ເຮັດໃຫ້ເຈົ້າຜິດຫວັງ.
+
+521
+00:33:01,400 --> 00:33:03,500
+[HICKS]
+They're coming.  They're in the tunnel.
+ພວກເຂົາ ກໍາ ລັງມາ. ພວກເຂົາຢູ່ໃນທໍ່.
+
+522
+00:33:04,000 --> 00:33:07,500
+[HICKS]
+Guns A and B.  Tracking and firing on multiple targets.
+ປືນ A ແລະ B. ຕິດຕາມແລະຍິງໃສ່ເປົ້າຫມາຍຫຼາຍຢ່າງ.
+
+523
+00:33:08,000 --> 00:33:14,000
+[HUDSON]
+They must be wall to wall in there.  Look  at those ammo counters go.  It's a shooting gallery down there.
+ພວກເຂົາຕ້ອງເປັນ ກໍາ ແພງຕໍ່ກໍາແພງຢູ່ບ່ອນນັ້ນ.
+ເບິ່ງເຄື່ອງນັບລູກປືນນັ້ນໄປ. ມັນແມ່ນຫ້ອງການຍິງຢູ່ລຸ່ມນັ້ນ.
+
+524
+00:33:14,500 --> 00:33:18,000
+[HICKS]
+B gun's dry.  Twenty on A. Ten.  Five.  That's it.
+ປືນບີແຫ້ງແລ້ວ. ສິບໃນ A.ສິບ. ຫ້າ. ນັ້ນແມ່ນມັນ.
+
+525
+00:33:18,500 --> 00:33:20,500
+[RIPLEY]
+They're at the fire door.
+ພວກເຂົາຢູ່ປະຕູໄຟ.
+
+526
+00:33:21,000 --> 00:33:23,000
+[HUDSON]
+Man, listen to that.
+ຜູ້ຊາຍ, ຟັງສິ່ງນັ້ນ.
+
+527
+00:33:23,500 --> 00:33:26,650
+[BISHOP]
+Bishop here.  I'm afraid I have some bad news.
+ເຈົ້າອາຈານຢູ່ນີ້. ຂ້ອຍຢ້ານວ່າຂ້ອຍມີຂ່າວບໍ່ດີບາງຢ່າງ.
+
+528
+00:33:27,150 --> 00:33:29,150
+[HUDSON]
+Well, that's a switch.
+ດີ, ນັ້ນແມ່ນການປ່ຽນ.
+
+529
+00:33:29,650 --> 00:33:31,750
+[BISHOP]
+That's it.  See it?  Emergency venting.
+ນັ້ນແມ່ນມັນ. ເບິ່ງມັນບໍ? ການລະບາຍອາກາດສຸກເສີນ.
+
+530
+00:33:32,250 --> 00:33:34,250
+[RIPLEY]
+How long until it blows?
+ມັນຈະລະເບີດດົນປານໃດ?
+
+531
+00:33:34,750 --> 00:33:40,750
+[BISHOP]
+I'm projecting total systems failure in a little under four hours.  The blast radius will be about thirty kilometers.  About equal to ten megatons.
+ຂ້ອຍ ກໍາ ລັງຄາດຄະເນຄວາມລົ້ມເຫຼວລະບົບທັງ ຫມົດ ໃນເວລາບໍ່ເກີນສີ່ຊົ່ວໂມງ
+. ໄລຍະແຄມລະເບີດຈະເປັນປະມານສາມສິບກິໂລແມັດ. ປະມານເທົ່າກັບສິບເມກາໂຕນ.
+
+532
+00:33:41,250 --> 00:33:43,250
+[HICKS]
+We got problems.
+ພວກເຮົາມີບັນຫາ.
+
+533
+00:33:43,750 --> 00:33:46,900
+[HUDSON]
+I don't fucking believe this. Do you believe this?
+ຂ້ອຍບໍ່ເຊື່ອເລື່ອງນີ້ເລີຍ. ເຈົ້າເຊື່ອສິ່ງນີ້ບໍ?
+
+534
+00:33:47,400 --> 00:33:50,200
+[RIPLEY]
+And it's too late to shut it down?
+ແລະມັນຊ້າເກີນໄປທີ່ຈະປິດມັນບໍ?
+
+535
+00:33:50,700 --> 00:33:56,300
+[BISHOP]
+I'm afraid so.  The crash did too much damage.  The overload is inevitable, at this point.
+ຂ້ອຍຢ້ານວ່າເປັນ. ອຸບັດຕິເຫດເຮັດໃຫ້ຄວາມເສຍຫາຍຫຼາຍເກີນໄປ
+. ການໂຫຼດເກີນໄປແມ່ນບໍ່ສາມາດຫຼີກລ່ຽງໄດ້, ໃນຈຸດນີ້.
+
+536
+00:33:56,800 --> 00:34:02,800
+[HUDSON]
+Oh, man.  And I was gettin' short, too!  Four more weeks and out. Now I'm gonna buy it on this fuckin' rock.  It ain't half fair, man!
+ໂອ້, ຜູ້ຊາຍ. ແລະຂ້ອຍ ກໍາ ລັງຂາດແຄນເຊັ່ນກັນ! ອີກສີ່ອາທິດແລະອອກໄປ.
+ດຽວນີ້ຂ້ອຍຈະຊື້ມັນໃສ່ຫີນນີ້. ມັນບໍ່ແມ່ນເຄິ່ງຫນຶ່ງທີ່ຍຸຕິທໍາ, ຜູ້ຜູ້ຊາຍ!
+
+537
+00:34:03,300 --> 00:34:05,300
+[VASQUEZ]
+Hudson, give us a break.
+ຮັດຊັນ, ໃຫ້ພວກເຮົາພັກຜ່ອນ.
+
+538
+00:34:05,800 --> 00:34:11,800
+[RIPLEY]
+We need the other drop-ship.  The on one the Sulaco.  We have to bring it down on remote, somehow.
+ພວກເຮົາຕ້ອງການເຮືອສົ່ງຄົນອື່ນ. ໃນຫນຶ່ງໃນ Sulaco
+ໄດ້. ພວກເຮົາຕ້ອງເອົາມັນລົງທາງໄກສອກຫຼີກ, ບາງຢ່າງ.
+
+539
+00:34:12,300 --> 00:34:15,450
+[HUDSON]
+How?  The transmitter was on the APC.  It's wasted.
+ແນວໃດ? ເຄື່ອງສົ່ງແມ່ນຢູ່ໃນ APC. ມັນເສຍຫາຍ.
+
+540
+00:34:15,950 --> 00:34:19,800
+[RIPLEY]
+I don't care how!  Think of a way.  Think of something.
+ຂ້ອຍບໍ່ສົນໃຈວິທີໃດ! ຄິດວິທີຫນຶ່ງ. ຄິດບາງສິ່ງບາງຢ່າງ.
+
+541
+00:34:20,300 --> 00:34:22,300
+[HUDSON]
+Think of what?  We're fucked.
+ຄິດຫຍັງ? ພວກເຮົາສໍ້ໂກງແລ້ວ.
+
+542
+00:34:22,800 --> 00:34:28,800
+[RIPLEY]
+What about the colony transmitter? That up-link tower down at the other end.  Why can't we use that?
+ຈະເປັນແນວໃດກັບເຄື່ອງສົ່ງຄລູເນຍ? ຫໍເຊື່ອມຕໍ່ທາງເທິງນັ້ນຢູ່ທາງອື່ນ
+. ເປັນຫຍັງພວກເຮົາບໍ່ສາມາດໃຊ້ມັນໄດ້?
+
+543
+00:34:29,300 --> 00:34:34,200
+[BISHOP]
+I checked.  The hard wiring between here and there was severed in the fighting.
+ຂ້ອຍກວດສອບ. ສາຍໄຟແຂງລະຫວ່າງບ່ອນນີ້ແລະບ່ອນນັ້ນຖືກຕັດໃນການຕໍ່ສູ້.
+
+544
+00:34:34,700 --> 00:34:40,700
+[RIPLEY]
+Well then somebody's just going to have to go out there.  Take a portable terminal and go out there and plug in manually.
+ດີຫຼັງຈາກນັ້ນບາງຄົນພຽງແຕ່ຈະຕ້ອງອອກໄປບ່ອນນັ້ນ.
+ເອົາຕໍມິນິລທີ່ສາມາດພັບໄດ້ແລະອອກຈາກບ່ອນນັ້ນແລະເຊື່ອມຕໍ່ດ້ວຍມື.
+
+545
+00:34:41,200 --> 00:34:44,700
+[HUDSON]
+Oh, right!  Right!  With those things running around.  No way.
+ໂອ້, ຖືກ! ຖືກ! ດ້ວຍສິ່ງເຫຼົ່ານັ້ນທີ່ແລ່ນຢູ່ທົ່ວໄປ. ບໍ່ເປັນໄປເລີຍ.
+
+546
+00:34:45,200 --> 00:34:47,200
+[BISHOP]
+I'll go.
+ຂ້ອຍຈະໄປ.
+
+547
+00:34:47,700 --> 00:34:49,700
+[RIPLEY]
+What?
+ຫຍັງ?
+
+548
+00:34:50,200 --> 00:34:56,200
+[BISHOP]
+I'm really the only one qualified to remote-pilot the ship anyway. Believe me, I'd prefer not to.  I may be synthetic but I'm not stupid.
+ຂ້ອຍເປັນຄົນດຽວທີ່ມີຄຸນສົມບັດໃນການຂັບຂີ່ທາງໄກຂອງເຮືອຢ່າງໃດກໍ່ຕາມ.
+ເຊື່ອຂ້ອຍ, ຂ້ອຍມັກບໍ່ເຮັດ. ຂ້ອຍອາດຈະເປັນສັງເຄາະແຕ່ຂ້ອຍບໍ່ແມ່ນຄົນໂງ່.
+
+549
+00:34:56,700 --> 00:34:59,850
+[RIPLEY]
+All right.  Let's get on it.  What'll you need?
+ດີແລ້ວ. ມາເຮັດມັນ. ເຈົ້າຕ້ອງການຫຍັງ?
+
+550
+00:35:00,350 --> 00:35:02,350
+[VASQUEZ]
+Listen.  It's stopped.
+ຟັງ. ມັນຢຸດແລ້ວ.
+
+551
+00:35:02,850 --> 00:35:04,850
+[HICKS]
+Well, they're into the complex.
+ດີ, ພວກເຂົາຢູ່ໃນສັບສົນ.
+
+552
+00:35:05,350 --> 00:35:11,350
+[BISHOP]
+This duct runs almost to the up-link assembly.  One hundred eighty meters.  Say, forty minutes to crawl down there.  One hour to patch in and align the antenna. Thirty minutes to prep the ship, then about fifty minutes flight time.
+ທໍ່ນີ້ແລ່ນເກືອບເຖິງກອງປະຊຸມເຊື່ອມຕໍ່ຂຶ້ນ. ຫນຶ່ງຮ້ອຍແປດສິບແມັດ. ເວົ້າ, ສີ່ສິບນາທີທີ່ຈະຍ່າງລົງບ່ອນນັ້ນ.
+ຫນຶ່ງ ຊົ່ວໂມງທີ່ຈະເຊື່ອມຕໍ່ແລະສອດຄ່ອງແອນເຕັນ. ສາມສາມນາທີເພື່ອກະກຽມເຮືອ, ຫຼັງຈາກນັ້ນເວລາບິນປະມານຫ້ານາທີ.
+
+553
+00:35:11,850 --> 00:35:15,000
+[RIPLEY]
+It's going to be closer.  You better get going.
+ມັນຈະໃກ້ຊິດ. ເຈົ້າຄວນໄປ.
+
+554
+00:35:15,500 --> 00:35:17,500
+[BISHOP]
+See you soon.
+ພົບກັນໄວໆນີ້.
+
+555
+00:35:18,000 --> 00:35:20,000
+[HICKS]
+They're in the approach corridor.
+ພວກເຂົາຢູ່ໃນທາງເດີ່ນການເຂົ້າເຖິງ.
+
+556
+00:35:20,500 --> 00:35:22,500
+[RIPLEY]
+On my way.
+ຂ້ອຍ ກໍາ ລັງເດີນທາງໄປແລ້ວ.
+
+557
+00:35:23,000 --> 00:35:27,550
+[HICKS]
+Twenty meters and closing. Fifteen.  C and D guns down about fifty percent.
+ສອງສິບແມັດແລະປິດ. ສິບຫ້າ. ປືນ C ແລະ D ຫຼຸດລົງປະມານຫ້າສິບເປີເຊັນ.
+
+558
+00:35:28,050 --> 00:35:30,050
+[RIPLEY]
+Now many?
+ດຽວນີ້ຫຼາຍບໍ?
+
+559
+00:35:30,550 --> 00:35:34,400
+[HICKS]
+Can't tell.  Lots.  D gun's down to twenty.  Ten.  It's out.
+ຂ້ອຍບໍ່ສາມາດບອກໄດ້. ຫຼາຍ. ປືນ D
+ໄດ້ຫຼຸດລົງເປັນສິບ. ສິບ. ມັນອອກແລ້ວ.
+
+560
+00:35:34,900 --> 00:35:37,000
+[RIPLEY]
+They retreated.  The guns stopped them.
+ພວກເຂົາຖອນຕົວ. ປືນໄດ້ຢຸດພວກເຂົາ.
+
+561
+00:35:37,500 --> 00:35:39,500
+[HICKS]
+Yeah.  But look...
+ແມ່ນແລ້ວ. ແຕ່ເບິ່ງ...
+
+562
+00:35:40,000 --> 00:35:43,150
+[HICKS]
+Newt time then can walk right up and knock.
+ເວລາໃຫມ່ຫຼັງຈາກນັ້ນສາມາດຍ່າງຂຶ້ນແລະຕີໄດ້.
+
+563
+00:35:43,650 --> 00:35:49,650
+[RIPLEY]
+But they don't know that.  They're probably looking for other ways to get in.  That'll take them awhile.
+ແຕ່ພວກເຂົາບໍ່ຮູ້ເລື່ອງນັ້ນ. ພວກເຂົາອາດຈະ ກໍາ
+ລັງຊອກຫາວິທີອື່ນທີ່ຈະເຂົ້າມາ. ນັ້ນຈະໃຊ້ເວລາພວກເຂົາຊົ່ວຄາວ.
+
+564
+00:35:50,150 --> 00:35:52,150
+[HUDSON]
+Maybe we got 'em demoralized.
+ບາງທີພວກເຮົາເຮັດໃຫ້ພວກເຂົາໂຊກຮ້າຍ.
+
+565
+00:35:52,650 --> 00:35:58,650
+[HICKS]
+I want you two walking the perimeter. I know we're all in strung out shape but stay frosty and alert. We've got to stop any entries before they get out of hand.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າທັງສອງຍ່າງຕາມຂອບເຂດ. ຂ້ອຍຮູ້ວ່າພວກເຮົາທຸກຄົນຢູ່ໃນຮູບແບບທີ່ຍືດຫຍຸ່ນແຕ່ຢູ່ເຢັນແລະລະວັງ
+. ພວກເຮົາຕ້ອງຢຸດການເຂົ້າໃດໆກ່ອນທີ່ພວກເຂົາຈະອອກຈາກການຄວບຄຸມ.
+
+566
+00:35:59,150 --> 00:36:01,600
+[HICKS]
+How long since you slept? Twenty-four hours?
+ເຈົ້ານອນດົນປານໃດ? ສິບສີ່ຊົ່ວໂມງບໍ?
+
+567
+00:36:02,100 --> 00:36:04,100
+[RIPLEY]
+They'll get us.
+ພວກເຂົາຈະຈັບພວກເຮົາ.
+
+568
+00:36:04,600 --> 00:36:06,600
+[HICKS]
+Maybe.  Maybe not.
+ບາງທີ. ບາງທີບໍ່ແມ່ນ.
+
+569
+00:36:07,100 --> 00:36:13,100
+[RIPLEY]
+Hicks, I'm not going to wind up like those others.  You'll take care of it won't you, it if comes to that?
+ຮິກສ໌, ຂ້ອຍຈະບໍ່ສິ້ນສຸດລົງຄືກັບຄົນອື່ນນັ້ນ.
+ເຈົ້າຈະເບິ່ງແຍງມັນບໍ່, ມັນຖ້າມັນມາຮອດນັ້ນບໍ?
+
+570
+00:36:13,600 --> 00:36:19,600
+[HICKS]
+If it comes to that, I'll do us both.  Let's see that it doesn't Here, I'd like to introduce you to a close personal friend of mine.
+ຖ້າມັນມາຮອດນັ້ນ, ຂ້ອຍຈະເຮັດພວກເຮົາທັງສອງ. ມາເບິ່ງວ່າມັນບໍ່ເຮັດຢູ່ບ່ອນນີ້
+, ຂ້ອຍຢາກແນະນໍາເຈົ້າກັບເພື່ອນສ່ວນຕົວທີ່ໃກ້ຊິດຂອງຂ້ອຍ.
+
+571
+00:36:20,100 --> 00:36:24,300
+[HICKS]
+M-41A 10mm pulse-rifle, over and under with a 30mm pump-action grenade launcher.
+ປືນດັນດັນ 10 ມມ M-41A,
+ຢູ່ເທິງແລະພາຍໃຕ້ດ້ວຍເຄື່ອງຍິງລະເບີດກະຕຸ້ນ 30 ມມ.
+
+572
+00:36:24,800 --> 00:36:26,800
+[RIPLEY]
+What do I do?
+ຂ້ອຍຈະເຮັດແນວໃດ?
+
+573
+00:36:27,300 --> 00:36:33,300
+[HICKS]
+Just pull it in real right.  It will kick some.  When the counter here heads zero, hit this...
+ພຽງແຕ່ດຶງມັນເຂົ້າໄປໃນທາງຂວາແທ້ໆ. ມັນຈະຕີບາງຢ່າງ.
+ເມື່ອເຄື່ອງຄິດໄລ່ຢູ່ນີ້ຫົວຫນ້າສູນ, ຕີສິ່ງນີ້...
+
+574
+00:36:33,800 --> 00:36:39,800
+[HICKS]
+Just let it drop right out.  Get the other one in quick.  Just slap it in hard, it likes abuse. Now, pull the bolt.
+ພຽງແຕ່ປ່ອຍໃຫ້ມັນຕົກອອກທັນທີ. ເອົາຄົນອື່ນເຂົ້າມາຢ່າງໄວວາ.
+ພຽງແຕ່ຕີມັນຢ່າງແຂງແຮງ, ມັນມັກການລ່ວງລະເມີດ. ດຽວນີ້, ດຶງ bolt ໄດ້.
+
+575
+00:36:40,300 --> 00:36:42,300
+[HICKS]
+You're ready again.
+ເຈົ້າພ້ອມແລ້ວອີກແລ້ວ.
+
+576
+00:36:42,800 --> 00:36:44,800
+[RIPLEY]
+What's this?
+ນີ້ແມ່ນຫຍັງ?
+
+577
+00:36:45,300 --> 00:36:49,850
+[HICKS]
+Well, that's the grenade launcher ...you probably don't want to mess with that.
+ດີ, ນັ້ນແມ່ນເຄື່ອງຍິງກຣານາດ... ເຈົ້າອາດຈະບໍ່ຢາກສໍ້ໂກງກັບສິ່ງນັ້ນ.
+
+578
+00:36:50,350 --> 00:36:54,550
+[RIPLEY]
+Look, you started this.  Now show me everything.  I can handle myself.
+ເບິ່ງ, ເຈົ້າໄດ້ເລີ່ມຕົ້ນເລື່ອງນີ້.
+ດຽວນີ້ສະແດງໃຫ້ຂ້ອຍທຸກຢ່າງ. ຂ້ອຍສາມາດຮັບມືກັບຕົວເອງໄດ້.
+
+579
+00:36:55,050 --> 00:36:57,050
+[HICKS]
+Yeah.  I've noticed.
+ແມ່ນແລ້ວ. ຂ້ອຍເຫັນແລ້ວ.
+
+580
+00:36:57,550 --> 00:36:59,550
+[RIPLEY]
+How do you feel?
+ເຈົ້າຮູ້ສຶກແນວໃດ?
+
+581
+00:37:00,050 --> 00:37:03,900
+[GORMAN]
+All right, I guess.  One hell of a hangover.  Look, Ripley...
+ດີແລ້ວ, ຂ້ອຍຄິດວ່າ. ເປັນການໂຊກແຊງທີ່ຮ້າຍແຮງຫຼາຍ. ເບິ່ງ, ຣິບລີ...
+
+582
+00:37:04,400 --> 00:37:06,400
+[RIPLEY]
+Forget it.
+ລືມມັນໄປ.
+
+583
+00:37:06,900 --> 00:37:09,000
+[GORMAN]
+You still want to kill me?
+ເຈົ້າຍັງຢາກຂ້າຂ້ອຍບໍ?
+
+584
+00:37:09,500 --> 00:37:11,500
+[VASQUEZ]
+It won't be necessary.
+ມັນຈະບໍ່ຈໍາເປັນ.
+
+585
+00:37:12,000 --> 00:37:14,100
+[RIPLEY]
+There, there.  Sssshh.  It's all right.
+ນັ້ນແລ້ວ, ນັ້ນແລ້ວ. Sssshh. ມັນບໍ່ເປັນຫຍັງ.
+
+586
+00:37:14,600 --> 00:37:16,700
+[BISHOP]
+Now, if I did it right...
+ດຽວນີ້, ຖ້າຂ້ອຍເຮັດມັນຢ່າງຖືກຕ້ອງ...
+
+587
+00:37:17,200 --> 00:37:21,400
+[FEMALE VOICE]
+Attention.  Attention.  Automatic fueling operations have begun. Please extinguish all smoking materials.
+ລະມັດລະວັງ. ລະວັງແມ. ການປະຕິບັດງານການຕື່ມນໍ້າມັນເຊື້ອໄຟອັດຕະໂນມັດໄດ້ເລີ່ມຕົ້ນແລ້ວ
+. ກະລຸນາປິດວັດສະດຸສູບຢາທັງ ຫມົດ.
+
+588
+00:37:21,900 --> 00:37:23,900
+[RIPLEY]
+Newt.  Newt, wake up.
+ນິວຕ໌. ນິວທ໌, ຕື່ນຂຶ້ນ.
+
+589
+00:37:24,400 --> 00:37:26,400
+[NEWT]
+Wah...?  Where are...?
+ວາ...? ຢູ່ໃສ...?
+
+590
+00:37:26,900 --> 00:37:29,000
+[RIPLEY]
+Sssh.  Don't move.  We're in trouble.
+ສະສ໌. ຢ່າເຄື່ອນຍ້າຍ. ພວກເຮົາຢູ່ໃນຄວາມຫຍຸ້ງຍາກ.
+
+591
+00:37:29,500 --> 00:37:31,500
+[RIPLEY]
+Hey...hey!
+ເຮ້... ເຮ້!
+
+592
+00:37:32,000 --> 00:37:34,000
+[RIPLEY]
+Hicks!  Hicks!
+ຮິກສ໌! ຮິກຊ໌!
+
+593
+00:37:34,500 --> 00:37:39,050
+[HICKS]
+Roger.  Check back when you've activated the ship.  He's at the up-link tower.
+ໂຣເຈີ. ກວດເບິ່ງຄືນເມື່ອເຈົ້າໄດ້ເປີດໃຊ້ງານເຮືອ
+. ລາວຢູ່ຫໍເຊື່ອມຕໍ່ທາງເທິງ.
+
+594
+00:37:39,550 --> 00:37:41,550
+[BURKE]
+Excellent.
+ດີເລີດ.
+
+595
+00:37:42,050 --> 00:37:44,050
+[NEWT]
+Mommy...mommmyyyyy...
+ແມ່... ແມ່...
+
+596
+00:37:44,550 --> 00:37:46,550
+[NEWT]
+Mommy...I mean, Ripley...I'm scared.
+ແມ່... ຂ້ອຍຫມາຍຄວາມວ່າ, ຣິບລີ... ຂ້ອຍຢ້ານກົວ.
+
+597
+00:37:47,050 --> 00:37:49,050
+[RIPLEY]
+I know, honey.  Me too.
+ຂ້ອຍຮູ້ແລ້ວແມ. ຂ້ອຍຄືກັນ.
+
+598
+00:37:49,550 --> 00:37:53,050
+[HICKS]
+Vasquez, Hudson, meet me in medical!  We got a fire!
+ວາສເກສ, ຮັດຊັນ, ພົບຂ້ອຍໃນຫ້ອງການແພດ! ພວກເຮົາມີໄຟ!
+
+599
+00:37:53,550 --> 00:37:55,550
+[HICKS]
+The corner!  Ready?
+ແຄມ! ພ້ອມແລ້ວບໍ?
+
+600
+00:37:56,050 --> 00:37:58,050
+[HUDSON]
+Do it!
+ເຮັດມັນ!
+
+601
+00:37:58,550 --> 00:38:00,550
+[RIPLEY]
+Burke...it was Burke.
+ບວກ... ມັນແມ່ນບວກ.
+
+602
+00:38:01,050 --> 00:38:05,250
+[HUDSON]
+I say we grease this rat-fuck son of a bitch right now!
+ຂ້ອຍເວົ້າວ່າພວກເຮົາຕ້ອງເອົານ້ ໍາ ມັນແມວໂຊກຮ້າຍຄົນນີ້ທັນທີ!
+
+603
+00:38:05,750 --> 00:38:09,250
+[HICKS]
+I don't get it.  It doesn't make any Goddamn sense.
+ຂ້ອຍບໍ່ເຂົ້າໃຈມັນ. ມັນບໍ່ມີຄວາມ ຫມາຍ ຫຍັງເລີຍ.
+
+604
+00:38:09,750 --> 00:38:15,750
+[RIPLEY]
+He wanted an alien, only he couldn't get it back through quarantine.  But if we were impregnated ...whatever you call it...and then frozen for the trip back at just the right time...then nobody would know about the embryos we were carrying. We and Newt.
+ລາວຕ້ອງການຄົນຕ່າງດາວ, ພຽງແຕ່ລາວບໍ່ສາມາດເອົາມັນຄືນໄດ້ຜ່ານການກັກກັນ. ແຕ່ຖ້າພວກເຮົາຖືກຝົນ... ບໍ່ວ່າເຈົ້າເອີ້ນມັນແນວໃດ...
+ແລະຫຼັງຈາກນັ້ນກ້ອນ ສໍາ ລັບການເດີນທາງກັບມາໃນເວລາທີ່ ເຫມາະ ສົມ... ຫຼັງຈາກນັ້ນບໍ່ມີໃຜຈະຮູ້ກ່ຽວກັບໄຂ່ທີ່ພວກເຮົາຖື. ພວກເຮົາແລະນິວຕ໌.
+
+605
+00:38:16,250 --> 00:38:18,700
+[HICKS]
+Wait a minute.  We'd know about it.
+ລໍຖ້າດົນຫນຶ່ງ. ພວກເຮົາຈະຮູ້ກ່ຽວກັບມັນ.
+
+606
+00:38:19,200 --> 00:38:25,200
+[RIPLEY]
+The only way it would work is if he sabotaged certain freezers on the trip back.  Then he could jettison the bodies and make up any story he liked.
+ວິທີດຽວທີ່ມັນຈະເຮັດວຽກແມ່ນຖ້າລາວ ທໍາ ລາຍເຄື່ອງເຮັດຄວາມເຢັນບາງຢ່າງໃນການເດີນທາງກັບຄືນໄປບ່ອນ
+. ຫຼັງຈາກນັ້ນລາວສາມາດຖິ້ມສົບແລະສ້າງເລື່ອງໃດທີ່ລາວມັກ.
+
+607
+00:38:25,700 --> 00:38:27,800
+[HUDSON]
+Fuuuck!  He's dead.  You're dogmeat, pal.
+ໂຟກ! ລາວຕາຍແລ້ວ. ເຈົ້າເປັນຊີ້ນຫມາ, ເພື່ອນ.
+
+608
+00:38:28,300 --> 00:38:30,750
+[BURKE]
+This is total paranoid delusion. It's pitiful.
+ນີ້ແມ່ນຄວາມຜິດພາດທີ່ໂຊກຮ້າຍຢ່າງສົມບູນ. ມັນຫນ້າເສຍໃຈ.
+
+609
+00:38:31,250 --> 00:38:37,250
+[RIPLEY]
+You know, Burke, I don't know which species is worse.  You don't see them screwing each other over for a fucking percentage.
+ເຈົ້າຮູ້ແລ້ວ, ບາເກີ, ຂ້ອຍບໍ່ຮູ້ວ່າຊະນິດໃດທີ່ຮ້າຍແຮງກວ່າ.
+ເຈົ້າບໍ່ເຫັນພວກເຂົາ ກໍາ ລັງໂຊກຮ້າຍກັນແລະກັນ ສໍາ ລັບອັດຕາສ່ວນທີ່ສໍ້ໂກງ.
+
+610
+00:38:37,750 --> 00:38:39,750
+[HICKS]
+Let's waste him.  No offense.
+ພວກເຮົາຈະທໍາລາຍລາວ. ບໍ່ຕ້ອງໂຊກຮ້າຍ.
+
+611
+00:38:40,250 --> 00:38:44,450
+[RIPLEY]
+Just find someplace to lock him up until it's time to --
+ພຽງແຕ່ຊອກຫາບ່ອນທີ່ຈະລັອກລາວໄວ້ຈົນກວ່າມັນຈະເຖິງເວລາທີ່ຈະ -
+
+612
+00:38:44,950 --> 00:38:46,950
+[RIPLEY]
+They cut the power.
+ພວກເຂົາຕັດໄຟຟ້າ.
+
+613
+00:38:47,450 --> 00:38:53,400
+[HUDSON]
+What do you mean, they cut the power?  How could they cut the power, man?  They're animals.
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ, ພວກເຂົາຕັດພະລັງງານ?
+ພວກເຂົາສາມາດຕັດພະລັງໄດ້ແນວໃດ, ຜູ້ຊາຍ? ພວກເຂົາເປັນສັດ.
+
+614
+00:38:53,900 --> 00:38:59,150
+[RIPLEY]
+Newt!  Stay close.  Let's get some trackers going. Come on, get moving.  Gorman, watch Burke.
+ນິວຕ໌! ຢູ່ໃກ້ໆ. ມາເອົາເຄື່ອງຕິດຕາມບາງຢ່າງໄປ
+. ມາ, ຍ້າຍໄປ. ໂກຣແມນ, ເບິ່ງເບີກ.
+
+615
+00:38:59,650 --> 00:39:01,650
+[RIPLEY]
+Anything?
+ມີຫຍັງບໍ?
+
+616
+00:39:02,150 --> 00:39:04,150
+[HUDSON]
+There's something.
+ມີບາງສິ່ງບາງຢ່າງ.
+
+617
+00:39:04,650 --> 00:39:06,650
+[HUDSON]
+It's inside the complex.
+ມັນຢູ່ພາຍໃນສະໂມສອນ.
+
+618
+00:39:07,150 --> 00:39:09,150
+[VASQUEZ]
+You're just reading me.
+ເຈົ້າພຽງແຕ່ອ່ານຂ້ອຍເທົ່ານັ້ນ.
+
+619
+00:39:09,650 --> 00:39:14,200
+[HUDSON]
+No.  No!  It ain't you.  They're inside.  Inside the perimeter. They're in here.
+ບໍ່. ບໍ່! ມັນບໍ່ແມ່ນເຈົ້າ. ພວກເຂົາຢູ່ໃນພາຍໃນ
+. ພາຍໃນຂອບເຂດ. ພວກເຂົາຢູ່ບ່ອນນີ້.
+
+620
+00:39:14,700 --> 00:39:16,700
+[RIPLEY]
+Hudson, stay cool.  Vasquez?
+ຮັດຊັນ, ຮັກສາຄວາມເຢັນ. ວາສເກສ?
+
+621
+00:39:17,200 --> 00:39:19,200
+[VASQUEZ]
+Hudson may be right.
+ຮັດຊັນອາດຈະເວົ້າຖືກຕ້ອງ.
+
+622
+00:39:19,700 --> 00:39:21,700
+[HICKS]
+It's game time.
+ມັນເຖິງເວລາເກມແລ້ວ.
+
+623
+00:39:22,200 --> 00:39:25,700
+[RIPLEY]
+Get back here, both of you.  Fall back to Operations.
+ກັບມາບ່ອນນີ້, ທັງສອງທ່ານ. ກັບຄືນໄປບ່ອນການປະຕິບັດງານ.
+
+624
+00:39:26,200 --> 00:39:31,100
+[HUDSON]
+This signal's weird...must be some interference or something. There's movement all over the place...
+ສັນຍານນີ້ແປກໃຈ... ມັນຕ້ອງເປັນການແຊກແຊງບາງຢ່າງຫຼືບາງສິ່ງບາງຢ່າງ
+. ມີການເຄື່ອນໄຫວຢູ່ທົ່ວທຸກບ່ອນ...
+
+625
+00:39:31,600 --> 00:39:33,600
+[RIPLEY]
+Just get back here!
+ພຽງແຕ່ກັບມາບ່ອນນີ້!
+
+626
+00:39:34,100 --> 00:39:36,100
+[HUDSON]
+Movement!  Signal's clean.
+ການເຄື່ອນໄຫວ! ສັນຍານແມ່ນສະອາດ.
+
+627
+00:39:36,600 --> 00:39:38,600
+[HUDSON]
+Range twenty meters.
+ໄລຍະທາງສິບແມັດ.
+
+628
+00:39:39,100 --> 00:39:41,100
+[RIPLEY]
+Seal the door.
+ປິດປະຕູໄວ້.
+
+629
+00:39:41,600 --> 00:39:43,600
+[HUDSON]
+Seventeen meters.
+ສິບເຈັດແມັດ.
+
+630
+00:39:44,100 --> 00:39:46,100
+[HICKS]
+Let's get these things lit.
+ມາເຮັດໃຫ້ສິ່ງເຫຼົ່ານີ້ແສງສະຫວ່າງ.
+
+631
+00:39:46,600 --> 00:39:52,600
+[RIPLEY]
+They learned.  They cut the power and avoided the guns.  They must have found another way in, something we missed.
+ພວກເຂົາຮຽນຮູ້. ພວກເຂົາຕັດພະລັງງານແລະຫຼີກເວັ້ນປືນ.
+ພວກເຂົາຕ້ອງໄດ້ຊອກຫາທາງເຂົ້າອີກທາງຫນຶ່ງ, ບາງສິ່ງບາງຢ່າງທີ່ພວກເຮົາພາດ.
+
+632
+00:39:53,100 --> 00:39:55,100
+[HICKS]
+We didn't miss anything.
+ພວກເຮົາບໍ່ໄດ້ພາດຫຍັງເລີຍ.
+
+633
+00:39:55,600 --> 00:39:57,600
+[HUDSON]
+Fifteen meters.
+ຫ້າສິບແມັດ.
+
+634
+00:39:58,100 --> 00:40:04,100
+[RIPLEY]
+I don't know, an acid hole in a duct.  Something under the floors, not on the plans. I don't know!
+ຂ້ອຍບໍ່ຮູ້, ຮູອາຊິດໃນທໍ່. ບາງສິ່ງບາງຢ່າງພາຍໃຕ້ພື້ນ
+, ບໍ່ແມ່ນໃນແຜນການ. ຂ້ອຍບໍ່ຮູ້ວ່າ!
+
+635
+00:40:04,600 --> 00:40:08,450
+[HUDSON]
+Twelve meters.  Man, this is a big fucking signal.  Ten meters.
+ສອງສິບສອງແມັດ. ຜູ້ຊາຍ, ນີ້ແມ່ນສັນຍານໃຫຍ່ໆ. ສິບແມຕ໌.
+
+636
+00:40:08,950 --> 00:40:11,750
+[RIPLEY]
+They're right on us.  Vasquez, how you doing?
+ພວກເຂົາຢູ່ຂ້າງພວກເຮົາ. ວາສເກສ, ເຈົ້າເປັນແນວໃດ?
+
+637
+00:40:12,250 --> 00:40:14,250
+[HUDSON]
+Nine meters.  Eight.
+ເກົ້າແມັດ. ແປດ.
+
+638
+00:40:14,750 --> 00:40:16,850
+[RIPLEY]
+Can't be.  That's inside the room!
+ມັນບໍ່ສາມາດເປັນໄດ້. ນັ້ນແມ່ນພາຍໃນຫ້ອງ!
+
+639
+00:40:17,350 --> 00:40:19,350
+[HUDSON]
+It's readin' right.  Look!
+ມັນອ່ານຖືກຕ້ອງ. ເບິ່ງ!
+
+640
+00:40:19,850 --> 00:40:21,950
+[HICKS]
+Well you're not reading it right!
+ເຈົ້າບໍ່ໄດ້ອ່ານມັນຢ່າງຖືກຕ້ອງ!
+
+641
+00:40:22,450 --> 00:40:24,900
+[HUDSON]
+Six meters.  Five.  What the fu --
+ຫົກແມັດ. ຫ້າ. ຟູຫຍັງ -
+
+642
+00:40:25,400 --> 00:40:27,400
+[RIPLEY]
+Medical!  Get to medical!
+ການແພດ! ໄປໂຮງຫມໍ!
+
+643
+00:40:27,900 --> 00:40:29,900
+[RIPLEY]
+Burke!  Open the door!
+ບຸກ! ເປີດປະຕູ!
+
+644
+00:40:30,400 --> 00:40:32,400
+[NEWT]
+Look!
+ເບິ່ງແມ!
+
+645
+00:40:32,900 --> 00:40:34,900
+[HUDSON]
+Let's go!  Let's go!
+ໄປ! ໄປ!
+
+646
+00:40:35,400 --> 00:40:37,400
+[HICKS]
+Fuckin' A!
+ເອ!
+
+647
+00:40:37,900 --> 00:40:39,900
+[HICKS]
+Hold you fire!
+ຢຸດຍິງ!
+
+648
+00:40:40,400 --> 00:40:42,400
+[RIPLEY]
+Locked.
+ປິດແລ້ວ.
+
+649
+00:40:42,900 --> 00:40:44,900
+[HICKS]
+Stand back.
+ຖອນຕົວໄປ.
+
+650
+00:40:45,400 --> 00:40:47,500
+[GORMAN]
+You can't use those in here!
+ເຈົ້າບໍ່ສາມາດໃຊ້ພວກມັນໄດ້ຢູ່ນີ້!
+
+651
+00:40:48,000 --> 00:40:50,000
+[VASQUEZ]
+Right.  Fire in the hole!
+ແມ່ນແລ້ວ. ໄຟໃນຮູ!
+
+652
+00:40:50,500 --> 00:40:53,300
+[HICKS]
+Thanks a lot!  Now I can't hear shit.
+ຂອບໃຈຫຼາຍໆ! ດຽວນີ້ຂ້ອຍບໍ່ສາມາດຍິນຫຍັງເລີຍ.
+
+653
+00:40:53,800 --> 00:40:55,800
+[VASQUEZ]
+What?
+ຫຍັງ?
+
+654
+00:40:56,300 --> 00:40:58,300
+[NEWT]
+Come on!  This way.
+ມາແລ້ວ! ທາງນີ້.
+
+655
+00:40:58,800 --> 00:41:00,800
+[RIPLEY]
+Stay behind me.
+ຢູ່ເບື້ອງຫຼັງຂ້ອຍ.
+
+656
+00:41:01,300 --> 00:41:03,300
+[NEWT]
+Come on.  Crawl faster.
+ມາແລ້ວ. ຍ່າງໄວຂຶ້ນ.
+
+657
+00:41:03,800 --> 00:41:08,000
+[RIPLEY]
+DO you know how to get to the landing field from here?
+ເຈົ້າຮູ້ວິທີໄປຫາສະຫນາມລົງຈອດຈາກບ່ອນນີ້ບໍ?
+
+658
+00:41:08,500 --> 00:41:10,500
+[NEWT]
+Sure.  Go left.
+ແນ່ນອນ. ໄປທາງຊ້າຍ.
+
+659
+00:41:11,000 --> 00:41:13,000
+[NEWT]
+Go right.
+ໄປທາງຂວາ.
+
+660
+00:41:13,500 --> 00:41:15,950
+[HICKS]
+Bishop, you read me?  Come in, over.
+ເຈົ້າສອນ, ເຈົ້າອ່ານຂ້ອຍບໍ? ເຂົ້າມາ, ຫມົດແລ້ວ.
+
+661
+00:41:16,450 --> 00:41:18,900
+[BISHOP]
+Yes, I read you.  Not very well...
+ແມ່ນແລ້ວ, ຂ້ອຍອ່ານເຈົ້າ. ບໍ່ດີຫຼາຍ...
+
+662
+00:41:19,400 --> 00:41:25,400
+[BISHOP]
+The ship is on its way.  ETA about sixteen minutes.  I've got my hands full flying... the weather's come up a bit.
+ເຮືອ ກໍາ ລັງເດີນທາງໄປ. ETA ປະມານສິບຫົກນາທີ.
+ຂ້ອຍມີມືເຕັມໄປດ້ວຍການບິນ... ສະພາບອາກາດຂຶ້ນເລັກນ້ອຍ.
+
+663
+00:41:25,900 --> 00:41:29,400
+[HICKS]
+All right, stand by there.  We're on out way.  Over.
+ດີແລ້ວ, ຢືນຢູ່ບ່ອນນັ້ນ. ພວກເຮົາ ກໍາ ລັງອອກທາງແລ້ວ. ຫມົດແລ້ວ.
+
+664
+00:41:29,900 --> 00:41:31,900
+[RIPLEY]
+Back.  Go back!
+ກັບໄປ. ກັບໄປ!
+
+665
+00:41:32,400 --> 00:41:34,400
+[VASQUEZ]
+Losing fuel.
+ການສູນເສຍນໍ້າມັນເຊື້ອໄຟ.
+
+666
+00:41:34,900 --> 00:41:37,000
+[VASQUEZ]
+You always were an asshole, Gorman.
+ເຈົ້າເປັນຄົນໂຊກຮ້າຍຢູ່ສະເຫມີ, ໂກຣມານ.
+
+667
+00:41:37,500 --> 00:41:39,950
+[NEWT]
+This way.  Come on, we're almost there!
+ທາງນີ້. ມາແລ້ວ, ພວກເຮົາເກືອບຮອດແລ້ວ!
+
+668
+00:41:40,450 --> 00:41:42,450
+[RIPLEY]
+Newt, wait!
+ນິວຕ໌, ລໍຖ້າ!
+
+669
+00:41:42,950 --> 00:41:44,950
+[NEWT]
+Here!  Go up.
+ມາແລ້ວ! ຂຶ້ນໄປ.
+
+670
+00:41:45,450 --> 00:41:47,450
+[NEWT]
+Just up there --
+ຢູ່ເທິງນັ້ນ...
+
+671
+00:41:47,950 --> 00:41:49,950
+[NEWT]
+Riiiiipppleee --
+Riiiipppleee -
+
+672
+00:41:50,450 --> 00:41:52,450
+[RIPLEY]
+Newt!
+ນິວຕ໌!
+
+673
+00:41:52,950 --> 00:41:54,950
+[NEWT]
+Mommy...where are you?
+ແມ່... ເຈົ້າຢູ່ໃສ?
+
+674
+00:41:55,450 --> 00:41:57,450
+[NEWT]
+Moooommeeee...
+Moooommeeee...
+
+675
+00:41:57,950 --> 00:42:00,750
+[RIPLEY]
+Hicks, get down here.  I need that locator.
+ຮິກສ໌, ລົງມາບ່ອນນີ້. ຂ້ອຍຕ້ອງການເຄື່ອງຊອກຫານັ້ນ.
+
+676
+00:42:01,250 --> 00:42:03,250
+[RIPLEY]
+Newt!  Star wherever you are!
+ນິວຕ໌! ດາວຢູ່ບ່ອນໃດກໍ່ຕາມ!
+
+677
+00:42:03,750 --> 00:42:05,750
+[HICKS]
+This way.  We're close...
+ທາງນີ້. ພວກເຮົາໃກ້ແລ້ວ...
+
+678
+00:42:06,250 --> 00:42:08,250
+[NEWT]
+Here!  I'm here.  I'm here.
+ມາແລ້ວ! ຂ້ອຍມາແລ້ວ. ຂ້ອຍຢູ່ແລ້ວ.
+
+679
+00:42:08,750 --> 00:42:12,250
+[RIPLEY]
+Climb down, honey.  We have to cut through this grate.
+ຂຶ້ນລົງແມ. ພວກເຮົາຕ້ອງຕັດຜ່ານເຄືອຂ່າຍນີ້.
+
+680
+00:42:12,750 --> 00:42:14,750
+[RIPLEY]
+Newt!  Newt!
+ນິວຕ໌! ນິວທ໌!
+
+681
+00:42:15,250 --> 00:42:17,250
+[RIPLEY]
+No!  Noooo!
+ບໍ່! ບໍ່!
+
+682
+00:42:17,750 --> 00:42:19,750
+[HICKS]
+She's gone!  Let's go!
+ນາງໄປແລ້ວ! ໄປ!
+
+683
+00:42:20,250 --> 00:42:23,050
+[RIPLEY]
+No!  No!  She's alive!  We have to --
+ບໍ່! ບໍ່! ນາງຍັງມີຊີວິດຢູ່! ພວກເຮົາຕ້ອງ -
+
+684
+00:42:23,550 --> 00:42:28,100
+[HICKS]
+All right!  She's alive.  I believe it.  But we gotta get moving!  Now!
+ດີແລ້ວ! ນາງຍັງມີຊີວິດຢູ່. ຂ້ອຍເຊື່ອມັນ
+. ແຕ່ພວກເຮົາຕ້ອງເຄື່ອນຍ້າຍ! ດຽວນີ້!
+
+685
+00:42:28,600 --> 00:42:31,400
+[RIPLEY]
+Come on, you can make it. Almost there.
+ມາແລ້ວ, ເຈົ້າສາມາດເຮັດໄດ້. ເກືອບຮອດແລ້ວ.
+
+686
+00:42:31,900 --> 00:42:35,400
+[WE'RE NOT LEAVING!]
+The loading ramp deploys and they run into the ship.
+ໂຣມປ໌ໂຫຼດເປີດຕົວແລະພວກເຂົາແລ່ນເຂົ້າໄປໃນເຮືອ.
+
+687
+00:42:35,900 --> 00:42:37,900
+[BISHOP]
+Ripley...
+ຣິບລີ...
+
+688
+00:42:38,400 --> 00:42:41,900
+[RIPLEY]
+She's alive.  They brought her here and you know it.
+ນາງຍັງມີຊີວິດຢູ່. ພວກເຂົາພານາງມາບ່ອນນີ້ແລະເຈົ້າຮູ້ມັນ.
+
+689
+00:42:42,400 --> 00:42:47,650
+[BISHOP]
+In seventeen minutes this place will be a cloud of vapor the size of Nebraska.
+ໃນເວລາສິບເຈັດນາທີບ່ອນນີ້ຈະເປັນເມົາຂອງຄວາມຮ້ອນຂະຫນາດຂອງເນບຣາສກາ.
+
+690
+00:42:48,150 --> 00:42:50,150
+[RIPLEY]
+Hicks, don't let him leave.
+ຮິກສ໌, ຢ່າປ່ອຍໃຫ້ລາວອອກໄປ.
+
+691
+00:42:50,650 --> 00:42:52,650
+[HICKS]
+We ain't going anywhere.
+ພວກເຮົາຈະບໍ່ໄປໃສເລີຍ.
+
+692
+00:42:53,150 --> 00:42:55,150
+[RIPLEY]
+See you, Hicks.
+ພົບກັນ, ຮິກສ໌.
+
+693
+00:42:55,650 --> 00:42:57,650
+[HICKS]
+Dwayne.  It's Dwayne.
+ດວາຍນ໌. ມັນແມ່ນດວາຍັນ.
+
+694
+00:42:58,150 --> 00:43:00,150
+[RIPLEY]
+Ellen.
+ເອເລນ.
+
+695
+00:43:00,650 --> 00:43:02,650
+[HICKS]
+Don't be long, Ellen.
+ຢ່າຍາວນານ, ເອເລນ.
+
+696
+00:43:03,150 --> 00:43:09,100
+[VOICE]
+Attention.  Emergency.  All personnel must evacuate immediately.  You now have fourteen minutes to reach minimum safe distance.
+ລະມັດລະວັງ. ສຸກເສີນ. ພະນັກງານທັງ ຫມົດ ຕ້ອງຍົກຍ້າຍອອກທັນທີ.
+ດຽວນີ້ເຈົ້າມີສິບສີ່ນາທີເພື່ອບັນລຸໄລຍະຫ່າງທີ່ປອດໄພຕໍ່າສຸດ.
+
+697
+00:43:09,600 --> 00:43:13,450
+[BURKE]
+Ripley...help me.  I can feel it...inside.  Oh, God...it's moving!  Oh gooood...
+ຣິບລີ... ຊ່ວຍຂ້ອຍ. ຂ້ອຍຮູ້ສຶກມັນໄດ້... ພາຍໃນ
+. ໂອ້, ພຣະເຈົ້າ... ມັນເຄື່ອນຍ້າຍ! ໂອ້ ດີ...
+
+698
+00:43:13,950 --> 00:43:15,950
+[RIPLEY]
+Here.
+ມາແລ້ວ.
+
+699
+00:43:16,450 --> 00:43:19,950
+[VOICE]
+You now have eleven minutes to reach minimum safe distance.
+ເຈົ້າມີເວລາສິບຫນຶ່ງນາທີເພື່ອບັນລຸໄລຍະຫ່າງທີ່ປອດໄພຕໍ່າສຸດ.
+
+700
+00:43:20,450 --> 00:43:22,450
+[NEWT]
+I knew you'd come.
+ຂ້ອຍຮູ້ວ່າເຈົ້າຈະມາ.
+
+701
+00:43:22,950 --> 00:43:26,800
+[RIPLEY]
+Newt, I want you to hang on, now.  Hang on tight.
+ນິວຕ໌, ຂ້ອຍຢາກໃຫ້ເຈົ້າລໍຖ້າ, ດຽວນີ້. ລໍຖ້າຢ່າງເຂັ້ມງວດ.
+
+702
+00:43:27,300 --> 00:43:30,800
+[VOICE]
+You now have two minutes to reach minimum safe distance.
+ເຈົ້າມີເວລາສອງນາທີເພື່ອບັນລຸໄລຍະຫ່າງທີ່ປອດໄພຕໍ່າສຸດ.
+
+703
+00:43:31,300 --> 00:43:37,250
+[BISHOP!]
+Her shouts become inarticulate screams of hatred, outrage at the final betrayal.  She scans the sky. Nothing.
+ສຽງຮ້ອງຂອງນາງກາຍເປັນສຽງຮ້ອງໄຫ້ຄວາມກຽດຊັງທີ່ບໍ່ເວົ້າໄດ້,
+ຄວາມໂຊກຮ້າຍຕໍ່ການປະຫມາດສຸດທ້າຍ. ນາງສະແກນສະຫວັນ. ບໍ່ມີຫຍັງເລີຍ.
+
+704
+00:43:37,750 --> 00:43:39,750
+[BISHOP!]
+Newt is sobbing.
+ນິວຕ໌ ກໍາ ລັງຮ້ອງໄຫ້.
+
+705
+00:43:40,250 --> 00:43:42,250
+[RIPLEY]
+Close your eyes, baby.
+ປິດຕາແມ.
+
+706
+00:43:42,750 --> 00:43:45,200
+[VOICE]
+You now have thirty seconds to reach...
+ເຈົ້າມີເວລາສາມສິບວິນາທີທີ່ຈະບັນລຸ...
+
+707
+00:43:45,700 --> 00:43:47,700
+[RIPLEY]
+Punch it, Bishop!
+ເອົາມັນ, Bishop!
+
+708
+00:43:48,200 --> 00:43:51,000
+[RIPLEY]
+It's okay, baby.  We made it.  It's over.
+ມັນບໍ່ເປັນຫຍັງແມ. ພວກເຮົາເຮັດໄດ້. ມັນຫມົດແລ້ວ.
+
+709
+00:43:51,500 --> 00:43:57,500
+[BISHOP]
+I gave him a shot, for the pain. We'll need to get a stretcher to cart him up to medical.
+ຄຸເຂົ່າລົງ
+
+710
+00:43:58,000 --> 00:44:03,600
+[BISHOP]
+I'm sorry if I gave you a scare but that platform was just becoming too unstable...
+ຂ້ອຍຂໍໂທດຖ້າຂ້ອຍເຮັດໃຫ້ເຈົ້າຢ້ານກົວແຕ່ເວທີນັ້ນ
+ກໍາ ລັງກາຍເປັນບໍ່ ຫມັ້ນ ຄົງເກີນໄປ...
+
+711
+00:44:04,100 --> 00:44:09,350
+[BISHOP]
+I had to circle and hope things didn't get too rough to take you off.
+ຂ້ອຍຕ້ອງວົງຈອນແລະຫວັງວ່າສິ່ງຕ່າງໆຈະບໍ່ຍາກເກີນໄປທີ່ຈະເອົາເຈົ້າອອກ.
+
+712
+00:44:09,850 --> 00:44:11,850
+[RIPLEY]
+You did okay, Bishop.
+ເຈົ້າເຮັດໄດ້ດີ, Bishop.
+
+713
+00:44:12,350 --> 00:44:14,350
+[BISHOP]
+Well, thanks, I --
+ດີ, ຂອບໃຈ, ຂ້ອຍ -
+
+714
+00:44:14,850 --> 00:44:16,850
+[RIPLEY]
+Go!
+ໄປ!
+
+715
+00:44:17,350 --> 00:44:19,350
+[RIPLEY]
+Here!
+ມາແລ້ວ!
+
+716
+00:44:19,850 --> 00:44:21,950
+[RIPLEY]
+Get away from her, you bitch!
+ອອກຈາກນາງ, ເຈົ້າໂຊກຮ້າຍ!
+
+717
+00:44:22,450 --> 00:44:24,450
+[RIPLEY]
+Come on!
+ມາແລ້ວ!
+
+718
+00:44:24,950 --> 00:44:26,950
+[BISHOP]
+Not bad for a human.
+ບໍ່ຮ້າຍແຮງ ສໍາ ລັບມະນຸດ.
+
+719
+00:44:27,450 --> 00:44:29,450
+[NEWT]
+Mommy...Mommy?
+ແມ່... ແມ່?
+
+720
+00:44:29,950 --> 00:44:31,950
+[RIPLEY]
+Right here, baby.  Right here.
+ຢູ່ທີ່ນີ້ແມ. ຢູ່ບ່ອນນີ້.
+
+721
+00:44:32,450 --> 00:44:34,550
+[NEWT]
+Are we going to sleep now?
+ພວກເຮົາຈະນອນດຽວນີ້ບໍ?
+
+722
+00:44:35,050 --> 00:44:37,050
+[RIPLEY]
+That's right.
+ນັ້ນແມ່ນແລ້ວ.
+
+723
+00:44:37,550 --> 00:44:39,550
+[NEWT]
+Can we dream?
+ພວກເຮົາສາມາດຝັນໄດ້ບໍ?
+
+724
+00:44:40,050 --> 00:44:42,500
+[RIPLEY]
+Yes, honey.  I think we both can.
+ແມ່ນແລ້ວແມ. ຂ້ອຍຄິດວ່າພວກເຮົາທັງສອງສາມາດເຮັດໄດ້.
+

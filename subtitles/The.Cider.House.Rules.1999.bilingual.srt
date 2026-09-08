@@ -1,0 +1,6404 @@
+1
+00:00:10,000 --> 00:00:12,000
+[THE CIDER HOUSE RULES]
+Written by
+ຂຽນໂດຍ
+
+2
+00:00:12,500 --> 00:00:18,500
+[LARCH]
+In other parts of the world, young men of promise leave home to make their fortunes, battle evil, or solve the problems of the world.
+ໃນພາກສ່ວນອື່ນໆຂອງໂລກ, ຜູ້ຊາຍຫນຸ່ມທີ່ມີຄໍາຫມັ້ນສັນຍາອອກຈາກເຮືອນເພື່ອສ້າງຊັບສິນຂອງພວກເຂົາ
+, ຕໍ່ສູ້ກັບຄວາມຊົ່ວຮ້າຍ, ຫຼືແກ້ໄຂບັນຫາຂອງໂລກ.
+
+3
+00:00:19,000 --> 00:00:25,000
+[LARCH]
+I was myself such a young man, when I came to save the orphanage in St. Cloud's... many years ago.
+ຂ້ອຍເອງເປັນຜູ້ຊາຍຫນຸ່ມຫຼາຍ,
+ເມື່ອຂ້ອຍມາຊ່ວຍເຮືອນເດັກເຖົ້າໃນສຕ໌ຄລູດ... ຫຼາຍປີກ່ອນ.
+
+4
+00:00:25,500 --> 00:00:31,500
+[LARCH]
+Here in St. Cloud's, I have come to understand that promises are rarely kept, that the battle isn't so much against evil as ignorance, and that being successful can't hold a candle to being of *use*.
+ຢູ່ບ່ອນນີ້ໃນສະຕ໌ ຄລູດ, ຂ້ອຍໄດ້ເຂົ້າໃຈວ່າ ຄໍາ ຫມັ້ນ ສັນຍາບໍ່ຄ່ອຍຖືກຮັກສາໄວ້,
+ວ່າການຕໍ່ສູ້ບໍ່ແມ່ນຫຼາຍຕໍ່ຄວາມຊົ່ວຮ້າຍເທົ່າກັບຄວາມບໍ່ຮູ້, ແລະວ່າການປະສົບຜົນສໍາເລັດບໍ່ສາມາດຖືແສງສະຫວ່າງໃຫ້ເປັນ * ໃຊ້ໄດ້*.
+
+5
+00:00:32,000 --> 00:00:35,850
+[LARCH]
+Nor have I solved the problem I came here to solve.
+ຂ້ອຍຍັງບໍ່ແກ້ໄຂບັນຫາທີ່ຂ້ອຍມາທີ່ນີ້ເພື່ອແກ້ໄຂ.
+
+6
+00:00:36,350 --> 00:00:42,350
+[LARCH]
+Even in the most enlightened times, unwanted babies will manage to be born. That there will always be orphans is simple not a problem to be solved. Here is St. Cloud's, we don't regard the sordid facts of life as problems.
+ເຖິງແມ່ນວ່າໃນສະໄຫມທີ່ສະຫວ່າງທີ່ສຸດ, ເດັກນ້ອຍທີ່ບໍ່ຕ້ອງການຈະສາມາດເກີດໄດ້. ວ່າຈະມີເດັກເຖົ້າຢູ່ສະເຫມີແມ່ນງ່າຍດາຍບໍ່ແມ່ນບັນຫາທີ່ຈະແກ້ໄຂໄດ້
+. ນີ້ແມ່ນຂອງ St Cloud ໄດ້, ພວກເຮົາບໍ່ຖືວ່າຄວາມຈິງທີ່ໂຊກຮ້າຍຂອງຊີວິດເປັນບັນຫາ.
+
+7
+00:00:42,850 --> 00:00:45,650
+[LARCH]
+In truth, we've only had one real problem.
+ໃນຄວາມຈິງແລ້ວ, ພວກເຮົາມີບັນຫາທີ່ແທ້ຈິງພຽງແຕ່ຫນຶ່ງເທົ່ານັ້ນ.
+
+8
+00:00:46,150 --> 00:00:48,150
+[LARCH]
+His name was Homer Wells.
+ຊື່ລາວແມ່ນໂຮມເປີ ເວລສ໌.
+
+9
+00:00:48,650 --> 00:00:52,850
+[LARCH]
+I named him after the Greek writer. You know Homer, of course?
+ຂ້ອຍໄດ້ຕັ້ງຊື່ລາວຕາມນັກຂຽນຊາວເກຣັກ. ເຈົ້າຮູ້ຈັກໂຮມເປີ, ແນ່ນອນ?
+
+10
+00:00:53,350 --> 00:00:57,900
+[LARCH]
+I made his name "Wells" because I could tell he was very deep.
+ຂ້ອຍໄດ້ຕັ້ງຊື່ລາວວ່າ"ເວລສ໌" ເພາະວ່າຂ້ອຍສາມາດບອກໄດ້ວ່າລາວເລິກຫຼາຍ.
+
+11
+00:00:58,400 --> 00:01:04,400
+[LARCH]
+In truth, Nurse Angela named him-- her father *drilled* wells, and "Homer" was one of her family's umpteen cats.
+ໃນຄວາມຈິງແລ້ວ, ພະຍາບານແອນຈີລາໄດ້ຕັ້ງຊື່ລາວ - ພໍ່ຂອງນາງ * ຂຸດຄົ້ນ
+* ຮ່ອງນ້ ໍາ, ແລະ"ໂຮມເປີ" ແມ່ນ ຫນຶ່ງ ໃນແມວຫຼາຍຄົນຂອງຄອບຄົວຂອງນາງ.
+
+12
+00:01:04,900 --> 00:01:08,750
+[LARCH]
+"Good night, you Princes of Maine, you Kings of New England!"
+ສະບາຍດີ, ເຈົ້າຊາຍຂອງເມນ, ເຈົ້າຂອງນິວອັງກິດ!
+
+13
+00:01:09,250 --> 00:01:12,750
+[ADOPTING MOTHER]
+There's something wrong with him! He never makes a sound.
+ມີບາງສິ່ງບາງຢ່າງຜິດກັບລາວ! ລາວບໍ່ເຄີຍອອກສຽງເລີຍ.
+
+14
+00:01:13,250 --> 00:01:17,100
+[LARCH]
+He didn't cry enough for them, if you can believe it.
+ລາວບໍ່ໄດ້ຮ້ອງໄຫ້ພຽງພໍ ສໍາ ລັບພວກເຂົາ, ຖ້າເຈົ້າເຊື່ອໄດ້.
+
+15
+00:01:17,600 --> 00:01:22,150
+[ADOPTING FATHER]
+Do you think we could have a look at someone a little different?
+ເຈົ້າຄິດວ່າພວກເຮົາສາມາດເບິ່ງຄົນອື່ນໄດ້ບໍ?
+
+16
+00:01:22,650 --> 00:01:26,500
+[LARCH]
+Thus was Homer Wells returned. He was too happy a baby.
+ດັ່ງນັ້ນໂຮມເປີ ເວລສ໌ຈຶ່ງກັບມາ. ລາວມີຄວາມສຸກຫຼາຍເປັນເດັກນ້ອຍ.
+
+17
+00:01:27,000 --> 00:01:31,550
+[LARCH]
+The second family has an unfortunate gift for getting sounds out of Homer.
+ຄອບຄົວທີສອງມີຂອງຂວັນທີ່ບໍ່ໂຊກດີ ສໍາ ລັບການເອົາສຽງອອກຈາກໂຮມເປີ.
+
+18
+00:01:32,050 --> 00:01:35,900
+[LARCH]
+The rumor was true. They beat him. He couldn't stop crying.
+ຂ່າວລືແມ່ນຄວາມຈິງ. ພວກເຂົາເອົາຊະນະລາວ. ລາວບໍ່ສາມາດຢຸດຮ້ອງໄຫ້ໄດ້.
+
+19
+00:01:36,400 --> 00:01:42,400
+[LARCH]
+Here is St. Cloud's, I try to consider, with each rule I make or break, that my first priority is an orphan's future.
+ນີ້ແມ່ນໂຮງຮຽນສຕ໌ ຄລູດ, ຂ້ອຍພະຍາຍາມພິຈາລະນາ, ດ້ວຍກົດລະບຽບແຕ່ລະຢ່າງທີ່ຂ້ອຍເຮັດຫຼືລະເມີດ
+, ວ່າບູລິມະສິດ ທໍາ ອິດຂອງຂ້ອຍແມ່ນອະນາຄົດຂອງເດັກເຖົ້າ.
+
+20
+00:01:42,900 --> 00:01:44,900
+[LARCH]
+Easier said than done.
+ເວົ້າງ່າຍກວ່າເຮັດ.
+
+21
+00:01:45,400 --> 00:01:49,950
+[LARCH]
+I told the third family to take good care--this was a special boy.
+ຂ້ອຍບອກຄອບຄົວທີສາມໃຫ້ເບິ່ງແຍງດີ - ນີ້ແມ່ນເດັກຊາຍພິເສດ.
+
+22
+00:01:50,450 --> 00:01:54,300
+[LARCH]
+It was Homer who took too much good care of himself.
+ມັນເປັນໂຮມເປີ ຜູ້ທີ່ເບິ່ງແຍງຕົວເອງດີເກີນໄປ.
+
+23
+00:01:54,800 --> 00:01:57,250
+[HOMER]
+Don't be frightened. Everyone is nice here.
+ຢ່າຢ້ານກົວ. ທຸກຄົນດີຢູ່ບ່ອນນີ້.
+
+24
+00:01:57,750 --> 00:01:59,750
+[PREGNANT WOMAN]
+Do you live here?
+ເຈົ້າອາໄສຢູ່ບ່ອນນີ້ບໍ?
+
+25
+00:02:00,250 --> 00:02:02,250
+[HOMER]
+I just belong here.
+ຂ້ອຍພຽງແຕ່ຂຶ້ນກັບບ່ອນນີ້.
+
+26
+00:02:02,750 --> 00:02:06,250
+[LARCH]
+What could I do with him? He kept coming back!
+ຂ້ອຍຈະເຮັດຫຍັງກັບລາວໄດ້? ລາວກັບມາເລື້ອຍໆ!
+
+27
+00:02:06,750 --> 00:02:12,350
+[LARCH]
+Homer, if you're going to stay at St. Cloud's, I expect you to be of use.
+ໂຮມເປີ, ຖ້າເຈົ້າຈະຢູ່ໂຮງຫມໍສຕ໌ ຄລູດ, ຂ້ອຍຄາດວ່າເຈົ້າຈະເປັນປະໂຫຍດ.
+
+28
+00:02:12,850 --> 00:02:18,850
+[LARCH]
+But, in failing to withhold love, had I created a true and everlasting orphan? I had been too successful with Homer Wells. I had managed to make the orphanage his *home*.
+ແຕ່, ໃນຄວາມລົ້ມເຫຼວໃນການກີດຮັກ, ຂ້ອຍໄດ້ສ້າງເດັກເຖົ້າທີ່ແທ້ຈິງແລະຕະຫຼອດໄປບໍ? ຂ້ອຍໄດ້ປະສົບຜົນ
+ສໍາ ເລັດຫຼາຍກັບໂຮມເປີ ເວລສ໌. ຂ້ອຍໄດ້ຈັດການເຮັດໃຫ້ໂຮງແຮມເດັກນ້ອຍເປັນ * ເຮືອນຂອງລາວ*.
+
+29
+00:02:19,350 --> 00:02:25,350
+[LARCH]
+God forgive me. I have *made* an orphan by loving him too much. Homer Wells will belong to St. Cloud's, forever.
+ພຣະເຈົ້າຂໍໂທດຂ້ອຍ. ຂ້ອຍໄດ້ * ເຮັດໃຫ້ * ເປັນເດັກເຖົ້າໂດຍຮັກລາວຫຼາຍເກີນໄປ
+. ໂຮມເປີ ເວລສ໌ຈະເປັນຂອງສຕ໌ ຄລູດ, ຕະຫຼອດໄປ.
+
+30
+00:02:25,850 --> 00:02:27,850
+[HOMER]
+Dr. Larch! Dr. Larch!
+ດຣ ລາກ! ດຣ ລາຣັກ!
+
+31
+00:02:28,350 --> 00:02:31,150
+[HOMER]
+We've got two new patients, one to deliver.
+ພວກເຮົາມີຄົນເຈັບໃຫມ່ສອງຄົນ, ຄົນຫນຶ່ງທີ່ຈະສົ່ງ.
+
+32
+00:02:31,650 --> 00:02:33,650
+[LARCH]
+First pregnancy?
+ການຖືພາຄັ້ງທໍາອິດບໍ?
+
+33
+00:02:34,150 --> 00:02:36,150
+[HOMER]
+Yes, for both.
+ແມ່ນແລ້ວ, ສໍາລັບທັງສອງ.
+
+34
+00:02:36,650 --> 00:02:39,100
+[LARCH]
+I presume you'd prefer handling the delivery.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະມັກການຈັດການສົ່ງ.
+
+35
+00:02:39,600 --> 00:02:45,600
+[HOMER]
+All I said was, I don't want to perform abortions. I have no argument with *you* performing them.
+ຂ້ອຍເວົ້າພຽງແຕ່ວ່າ, ຂ້ອຍບໍ່ຢາກເຮັດການທ້ອງຖິ່ນ
+. ຂ້ອຍບໍ່ມີຂໍ້ຂັດແຍ່ງກັບ * ເຈົ້າ * ເຮັດພວກມັນ.
+
+36
+00:02:46,100 --> 00:02:52,100
+[LARCH]
+You know *how* to help these women-- how can you not feel *obligated* to help them when they can't get help anywhere else?
+ເຈົ້າຮູ້ * ວິທີ * ຊ່ວຍແມ່ຍິງເຫຼົ່ານີ້ - ເຈົ້າບໍ່ຮູ້ສຶກ * ຫນ້າ ທີ່ *
+ຊ່ວຍພວກເຂົາເມື່ອພວກເຂົາບໍ່ສາມາດໄດ້ຮັບຄວາມຊ່ວຍເຫຼືອຢູ່ບ່ອນອື່ນໄດ້ແນວໃດ?
+
+37
+00:02:52,600 --> 00:02:57,500
+[HOMER]
+One: it's illegal. Two: I didn't ask how to do it--you just showed me.
+ຫນຶ່ງ: ມັນຜິດກົດຫມາຍ. ສອງ: ຂ້ອຍບໍ່ໄດ້ຖາມວິທີເຮັດມັນ
+- ເຈົ້າພຽງແຕ່ສະແດງໃຫ້ຂ້ອຍ.
+
+38
+00:02:58,000 --> 00:03:04,000
+[LARCH]
+What *else* could I have showed you, Homer? The only thing I can teach you is what I know! In every life, you've got to be of use.
+ຂ້ອຍສາມາດສະແດງຫຍັງໄດ້, ໂຮມເປີ? ສິ່ງດຽວທີ່ຂ້ອຍສາມາດສອນເຈົ້າແມ່ນສິ່ງທີ່ຂ້ອຍຮູ້
+! ໃນຊີວິດທຸກຢ່າງ, ເຈົ້າຕ້ອງເປັນປະໂຫຍດ.
+
+39
+00:03:04,500 --> 00:03:06,600
+[LARCH]
+Have you ever had ether, Dorothy?
+ເຈົ້າເຄີຍກິນເອເຕີບໍ, ດໍໂຕຣີ?
+
+40
+00:03:07,100 --> 00:03:09,550
+[DOROTHY]
+Once, when they took out my appendix.
+ຄັ້ງຫນຶ່ງ, ເມື່ອພວກເຂົາເອົາກະດູກເສື່ອມຂອງຂ້ອຍອອກ.
+
+41
+00:03:10,050 --> 00:03:12,050
+[ANGELA]
+No one's touched your appendix.
+ບໍ່ມີໃຜໄດ້ຈັບກະດູກຕາຂອງທ່ານ.
+
+42
+00:03:12,550 --> 00:03:15,350
+[DOROTHY]
+Whatever it was... the ether made me sick.
+ບໍ່ວ່າຈະເປັນຫຍັງ... ເອເຕີເຮັດໃຫ້ຂ້ອຍເຈັບປ່ວຍ.
+
+43
+00:03:15,850 --> 00:03:21,850
+[LARCH]
+It won't make you sick this time, Dorothy--not the way I do it, just a drop at a time.
+ມັນຈະບໍ່ເຮັດໃຫ້ເຈົ້າເຈັບປ່ວຍໃນຄັ້ງນີ້, ດໍໂຕຣີ -
+ບໍ່ແມ່ນວິທີທີ່ຂ້ອຍເຮັດມັນ, ພຽງແຕ່ຫຼຸດລົງໃນເວລາດຽວກັນ.
+
+44
+00:03:22,350 --> 00:03:25,850
+[DOROTHY]
+I can't pay for this, you know--I got no money.
+ຂ້ອຍບໍ່ສາມາດຈ່າຍເງິນ ສໍາ ລັບສິ່ງນີ້ໄດ້
+, ເຈົ້າຮູ້ແລ້ວ - ຂ້ອຍບໍ່ມີເງິນ.
+
+45
+00:03:26,350 --> 00:03:32,350
+[LARCH]
+One day, Dorothy, if you have any money, a donation to the orphanage would be very much appreciated.
+ມື້ຫນຶ່ງ, ດໍໂຕຣີ, ຖ້າເຈົ້າມີເງິນໃດໆ,
+ການບໍລິຈາກໃຫ້ໂຮງແຮມເດັກເຖົ້າຈະໄດ້ຮັບການຍ້ອງຍໍຫຼາຍ.
+
+46
+00:03:32,850 --> 00:03:34,950
+[ANGELA]
+Only if you can afford it.
+ພຽງແຕ່ຖ້າເຈົ້າສາມາດຈ່າຍໄດ້.
+
+47
+00:03:35,450 --> 00:03:37,550
+[LARCH]
+Try to think of nothing, Dorothy.
+ພະຍາຍາມບໍ່ຄິດຫຍັງເລີຍ, ດໍໂຕຣີ.
+
+48
+00:03:38,050 --> 00:03:40,850
+[HOMER]
+That was good, Carla--that was *perfect*. Everything's fine.
+ນັ້ນດີ, ຄາລາ - ນັ້ນແມ່ນ * ສົມບູນແບບ*. ທຸກຢ່າງບໍ່ເປັນຫຍັງ.
+
+49
+00:03:41,350 --> 00:03:43,350
+[CARLA]
+I don't wanna see it!
+ຂ້ອຍບໍ່ຢາກເຫັນມັນ!
+
+50
+00:03:43,850 --> 00:03:47,000
+[EDNA]
+You don't have to see it, dear. Don't worry.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງເຫັນມັນແມ. ຢ່າກັງວົນ.
+
+51
+00:03:47,500 --> 00:03:51,350
+[CARLA]
+I don't even wanna know what sex it is--don't tell me!
+ຂ້ອຍບໍ່ຢາກຮູ້ວ່າມັນເປັນເພດໃດ - ຢ່າບອກຂ້ອຍ!
+
+52
+00:03:51,850 --> 00:03:55,350
+[HOMER]
+We won't tell you, Carla. You're going to be okay.
+ພວກເຮົາຈະບໍ່ບອກເຈົ້າ, ຄາລາ. ເຈົ້າຈະດີດີ.
+
+53
+00:03:55,850 --> 00:03:58,300
+[EDNA]
+Your *baby's* going to be okay, too.
+ລູກຂອງເຈົ້າ * ຈະດີດີເຊັ່ນກັນ.
+
+54
+00:03:58,800 --> 00:04:00,800
+[CARLA]
+I don't wanna know!
+ຂ້ອຍບໍ່ຢາກຮູ້!
+
+55
+00:04:01,300 --> 00:04:03,300
+[LARCH]
+He's a big boy!
+ລາວເປັນເດັກຊາຍໃຫຍ່!
+
+56
+00:04:03,800 --> 00:04:07,300
+[CARLA]
+Let me see him, for Christ's sake--I wanna see him.
+ຂໍໃຫ້ຂ້ອຍເຫັນລາວ, ສໍາລັບພຣະຄຣິດ - ຂ້ອຍຢາກເຫັນລາວ.
+
+57
+00:04:07,800 --> 00:04:10,600
+[LARCH]
+Would you mind having a look at Dorothy?
+ເຈົ້າບໍ່ສົນໃຈເບິ່ງດໍໂຕຣີບໍ?
+
+58
+00:04:11,100 --> 00:04:13,100
+[HOMER]
+There was no visible wound?
+ບໍ່ມີບາດແຜທີ່ເຫັນໄດ້ບໍ?
+
+59
+00:04:13,600 --> 00:04:19,200
+[LARCH]
+No. The fetus was dead. Her uterus was virtually *disintegrating*--my stitches pulled right through the tissue!
+ບໍ່. ລູກທ້ອງຕາຍແລ້ວ. ທ້ອງຂອງນາງເກືອບ * ຖືກລະລາຍ
+* - ການຕັດຂອງຂ້ອຍຖືກດຶງຜ່ານເນື້ອເຍື່ອ!
+
+60
+00:04:19,700 --> 00:04:21,700
+[HOMER]
+It looks like scurvy.
+ມັນເບິ່ງຄືວ່າ scurvy.
+
+61
+00:04:22,200 --> 00:04:28,200
+[LARCH]
+Scurvy! Ah yes, the curse of the old- time sailor, suffering long periods at sea with no fresh fruits or vegetables. Homer, Dorothy isn't a *sailor*!
+Scurvy! ອາ ແມ່ນແລ້ວ, ຄໍາ ສາທາຂອງນັກເຮືອສະໄຫມເກົ່າ, ທຸກທໍລະມານໄລຍະຍາວໃນທະເລໂດຍບໍ່ມີ
+ຫມາກ ໄມ້ສົດຫຼືຜັກຜັກ. ໂຮມເປີ, ດໍໂຕຣີບໍ່ແມ່ນ * ນັກເຮືອ *!
+
+62
+00:04:28,700 --> 00:04:30,700
+[ANGELA]
+She's a prostitute, isn't she?
+ນາງເປັນໂຊກຮ້າຍ, ແມ່ນບໍ?
+
+63
+00:04:31,200 --> 00:04:33,300
+[HOMER]
+Did you look in her purse?
+ເຈົ້າເບິ່ງກະເປົາຂອງນາງບໍ?
+
+64
+00:04:33,800 --> 00:04:35,800
+[LARCH]
+I looked everywhere else!
+ຂ້ອຍເບິ່ງຢູ່ທຸກບ່ອນ!
+
+65
+00:04:36,300 --> 00:04:38,300
+[ANGELA]
+It's called French Lunar Solution.
+ມັນເອີ້ນວ່າ ວິທີແກ້ໄຂດວງຈັນຂອງຝຣັ່ງ.
+
+66
+00:04:38,800 --> 00:04:43,000
+[LARCH]
+It's not ergot, it's not pituitary extract, it's not oil of rue...
+ມັນບໍ່ແມ່ນ ergot, ມັນບໍ່ແມ່ນສານສະກັດຈາກ
+pituitary, ມັນແມ່ນບໍ່ແມ່ນນ້ ໍາ ມັນຂອງ rue...
+
+67
+00:04:43,500 --> 00:04:45,600
+[ANGELA]
+It claims to restore monthly regularity.
+ມັນອ້າງວ່າຈະຟື້ນຟູຄວາມເປັນປົກກະຕິປະຈໍາເດືອນ.
+
+68
+00:04:46,100 --> 00:04:48,100
+[HOMER]
+It's obviously an aborticide.
+ມັນແນ່ນອນວ່າເປັນການຂ້າລູກ.
+
+69
+00:04:48,600 --> 00:04:50,600
+[LARCH]
+Obviously.
+ແນ່ນອນ.
+
+70
+00:04:51,100 --> 00:04:53,100
+[LARCH]
+Christ, it's oil of tansy!
+ພຣະຄຣິດ, ມັນແມ່ນນ້ ໍາ ມັນຂອງທານຊີ!
+
+71
+00:04:53,600 --> 00:04:55,600
+[HOMER]
+I don't know it.
+ຂ້ອຍບໍ່ຮູ້ມັນ.
+
+72
+00:04:56,100 --> 00:05:01,350
+[LARCH]
+If you take enough of it, your intestines lose their ability to absorb Vitamin C.
+ຖ້າເຈົ້າກິນມັນພຽງພໍ,
+ທ້ອງຂອງທ່ານຈະສູນເສຍຄວາມສາມາດໃນການດູດຊຶມວິຕາມິນຊີ.
+
+73
+00:05:01,850 --> 00:05:03,850
+[HOMER]
+In other words, scurvy.
+ເວົ້າອີກຢ່າງຫນຶ່ງ, ສະກູເວີ.
+
+74
+00:05:04,350 --> 00:05:10,350
+[LARCH]
+Good boy. Good job. And you call yourself "not a doctor"!  Keep an eye on her--she's in trouble.
+ເດັກຊາຍທີ່ດີ. ວຽກທີ່ດີ. ແລະເຈົ້າເອີ້ນຕົວເອງວ່າ"ບໍ່ແມ່ນຫມໍ"
+! ເບິ່ງແຍງນາງ - ນາງຢູ່ໃນຄວາມຫຍຸ້ງຍາກ.
+
+75
+00:05:10,850 --> 00:05:12,950
+[LARCH]
+Take care of that, will you?
+ເອົາໃຈໃສ່ມັນ, ເຈົ້າຈະເຮັດບໍ?
+
+76
+00:05:13,450 --> 00:05:15,450
+[BUSTER]
+I'll help you.
+ຂ້ອຍຈະຊ່ວຍເຈົ້າ.
+
+77
+00:05:15,950 --> 00:05:19,100
+[BUSTER]
+He *sniffs* that ether! I've seen him do it!
+ລາວ * ກິ່ນຫອມ * ເອເຕີນັ້ນ! ຂ້ອຍເຫັນລາວເຮັດມັນແລ້ວ!
+
+78
+00:05:19,600 --> 00:05:23,100
+[HOMER]
+It's because he's too tired to sleep. He has to.
+ມັນເປັນຍ້ອນວ່າລາວເມື່ອຍເກີນໄປທີ່ຈະນອນ. ລາວຕ້ອງເຮັດ.
+
+79
+00:05:23,600 --> 00:05:26,750
+[BUSTER]
+He *smells* like he could put you to sleep!
+ລາວ * ກິ່ນຫອມ * ຄືກັບວ່າລາວສາມາດເຮັດໃຫ້ເຈົ້ານອນໄດ້!
+
+80
+00:05:27,250 --> 00:05:29,700
+[HOMER]
+He's a doctor, Buster--doctors smell like ether.
+ລາວເປັນຫມໍ, ບັສເຕີ - ຫມໍກິ່ນຫອມຄືກັບເອເຕີ.
+
+81
+00:05:30,200 --> 00:05:33,000
+[BUSTER]
+*You're* a doctor, Homer--you don't smell like ether.
+ເຈົ້າເປັນຫມໍ, ໂຮມເປີ - ເຈົ້າບໍ່ກິ່ນຫອມຄືກັບເອເຕີ.
+
+82
+00:05:33,500 --> 00:05:39,100
+[HOMER]
+I'm *not* a doctor. I haven't been to medical school--I haven't even been to high school!
+ຂ້ອຍ * ບໍ່ແມ່ນ * ຫມໍ. ຂ້ອຍບໍ່ໄດ້ໄປໂຮງຮຽນການແພດ
+- ຂ້ອຍຍັງບໍ່ເຄີຍເຂົ້າໂຮງຮຽນມັດທະຍົມຕອນປາຍ!
+
+83
+00:05:39,600 --> 00:05:42,750
+[BUSTER]
+But you've studied with the old man for *years*!
+ແຕ່ເຈົ້າໄດ້ຮຽນກັບພໍ່ເຖົ້າເປັນເວລາ * ຫຼາຍປີ *!
+
+84
+00:05:43,250 --> 00:05:45,250
+[HOMER]
+I'm *not* a doctor!
+ຂ້ອຍບໍ່ແມ່ນຫມໍ!
+
+85
+00:05:45,750 --> 00:05:47,750
+[BUSTER]
+I'm sorry, Homer.
+ຂ້ອຍຂໍໂທດ, ໂຮມເປີ.
+
+86
+00:05:48,250 --> 00:05:54,250
+[LARCH]
+Fuzzy is not uncommon. I tell you, there's something about the premature babies of alcoholic mothers. They seem susceptible to every damn thing that comes along.
+ຟູຈີບໍ່ແມ່ນເລື່ອງແປກໃຈ. ຂ້ອຍບອກເຈົ້າວ່າ, ມີບາງສິ່ງບາງຢ່າງກ່ຽວກັບເດັກນ້ອຍກ່ອນໄວຂອງແມ່ທີ່ດື່ມເຫຼົ້າ
+. ພວກເຂົາເບິ່ງຄືວ່າມີຄວາມອ່ອນແອຕໍ່ທຸກສິ່ງທຸກຢ່າງທີ່ເກີດຂຶ້ນ.
+
+87
+00:05:54,750 --> 00:05:56,750
+[HOMER]
+I haven't read that.
+ຂ້ອຍບໍ່ໄດ້ອ່ານມັນ.
+
+88
+00:05:57,250 --> 00:06:03,250
+[LARCH]
+I haven't, either. But you *will*. The morons who write the books should do a little research *here*.
+ຂ້ອຍບໍ່ໄດ້ເຮັດເຊັ່ນກັນ. ແຕ່ເຈົ້າ * ຈະ*.
+ຄົນໂຊກຮ້າຍທີ່ຂຽນປື້ມຄວນຄົ້ນຄວ້າ ຫນ້ອຍ ຫນຶ່ງ * ຢູ່ບ່ອນນີ້*.
+
+89
+00:06:03,750 --> 00:06:05,850
+[HOMER]
+But isn't Fuzzy just... well, underdeveloped?
+ແຕ່ຟູຈີບໍ່ແມ່ນພຽງແຕ່... ດີ, ພັດທະນາຕໍ່າບໍ?
+
+90
+00:06:06,350 --> 00:06:11,250
+[LARCH]
+When *doesn't* he have bronchitis? I wouldn't call his bronchial infections "underdeveloped." Would you?
+ຂ້ອຍຈະບໍ່ເອີ້ນການຕິດເຊື້ອບຣອນຈີຂອງລາວວ່າ"ບໍ່ພັດທະນາ
+." ເຈົ້າຈະເຮັດບໍ?
+
+91
+00:06:11,750 --> 00:06:13,750
+[HOMER]
+What is it, Mary Agnes?
+ມັນເປັນຫຍັງ, ເມຣີ ແອກເນສ?
+
+92
+00:06:14,250 --> 00:06:16,250
+[MARY AGNES]
+Look!
+ເບິ່ງແມ!
+
+93
+00:06:16,750 --> 00:06:18,750
+[HOMER]
+Did you bite it?
+ເຈົ້າກັດມັນບໍ?
+
+94
+00:06:19,250 --> 00:06:21,250
+[MARY AGNES]
+I don't remember.
+ຂ້ອຍບໍ່ຈື່.
+
+95
+00:06:21,750 --> 00:06:24,900
+[HOMER]
+It looks like you bit it--it'll be all right.
+ມັນເບິ່ງຄືວ່າເຈົ້າໄດ້ກັດມັນ - ມັນຈະດີດີ.
+
+96
+00:06:25,400 --> 00:06:28,550
+[MARY AGNES]
+Maybe I was kissing someone and he bit me.
+ບາງທີຂ້ອຍ ກໍາ ລັງຈູບຄົນຫນຶ່ງແລະລາວກັດຂ້ອຍ.
+
+97
+00:06:29,050 --> 00:06:32,200
+[HOMER]
+No, you did it yourself. Maybe in your sleep.
+ບໍ່, ເຈົ້າເຮັດມັນເອງ. ບາງທີໃນຄວາມນອນຂອງທ່ານ.
+
+98
+00:06:32,700 --> 00:06:35,500
+[MARY AGNES]
+I must have been *dreaming* of kissing someone.
+ຂ້ອຍຕ້ອງໄດ້ * ຝັນ * ກ່ຽວກັບການຈູບຄົນໃດຫນຶ່ງ.
+
+99
+00:06:36,000 --> 00:06:38,000
+[HOMER]
+Story time, Fuzzy!
+ເວລາເລື່ອງ, ຟູຈີ!
+
+100
+00:06:38,500 --> 00:06:41,300
+[EDNA]
+"Oh Lord, support us all the day long..."
+ໂອ້ ພຣະຜູ້ເປັນເຈົ້າ, ສະຫນັບສະຫນູນພວກເຮົາຕະຫຼອດມື້...
+
+101
+00:06:41,800 --> 00:06:47,800
+[EDNA]
+"...until the shadows lengthen and the evening comes, and the busy world is hushed, and the fever of life is over, and our work is done."
+ຈົນກວ່າເງົາຈະຍາວນານແລະຕອນບ່າຍຈະມາຮອດ, ແລະໂລກທີ່ຫຍຸ້ງຍາກຈະງຽບສະຫງົບ
+, ແລະໄຂ້ຂອງຊີວິດຈະສິ້ນສຸດລົງ, ແລະວຽກງານຂອງພວກເຮົາຈະສໍາເລັດແລ້ວ.
+
+102
+00:06:48,300 --> 00:06:53,900
+[EDNA]
+"Then in Thy mercy grant us save lodging, and holy rest, and peace at the last."
+ຫຼັງຈາກນັ້ນໃນຄວາມເມດຕາຂອງທ່ານໃຫ້ພວກເຮົາແຕ່ບ່ອນພັກຜ່ອນ
+, ແລະພັກຜ່ອນທີ່ສັກສິດ, ແລະຄວາມສະຫງົບໃນທີ່ສຸດ.
+
+103
+00:06:54,400 --> 00:06:56,400
+[ALL THE GIRLS]
+Amen! Amen! Amen!
+ເອມິນ! ເອມີນ! ແອເມນ!
+
+104
+00:06:56,900 --> 00:07:02,900
+[LARCH]
+"A dog, which had lain concealed till now, ran backwards and forwards on the parapet with a dismal howl, and collecting himself for a spring, jumped for the dead man's shoulders."
+ຫມາທີ່ນອນເຊື່ອງໄວ້ຈົນຮອດປະຈຸບັນ, ແລ່ນກັບຄືນໄປບ່ອນແລະໄປຂ້າງຫນ້າໃນ parapet
+ດ້ວຍການຮ້ອງໄຫ້ທີ່ໂຊກຮ້າຍ, ແລະເກັບຕົວເອງ ສໍາ ລັບພາກຮຽນ spring, ໂດດໄປຫາກະຕ່າຂອງຜູ້ຊາຍຕາຍ."
+
+105
+00:07:03,400 --> 00:07:09,400
+[LARCH]
+"Missing his aim, he fell into a ditch, turning completely over as he went; and striking his head against a stone, dashed his brains out.
+ການພາດເປົ້າຫມາຍຂອງລາວ, ລາວຕົກລົງໃນຮູ, ຫັນໄປຢ່າງເຕັມທີ່ໃນຂະນະທີ່ລາວໄປ
+; ແລະຕີຫົວຂອງລາວຕໍ່ຫີນ, ກະຕຸ້ນສະຫມອງຂອງລາວອອກ.
+
+106
+00:07:09,900 --> 00:07:13,750
+[LARCH]
+Good night, you Princes of Maine! You Kings of New England!
+ສະບາຍດີ, ເຈົ້າຂອງເມນ! ເຈົ້າຂອງນິວອັງກິດ!
+
+107
+00:07:14,250 --> 00:07:17,050
+[FUZZY]
+Why does Dr. Larch *do* tht every night?
+ເປັນຫຍັງດຣ ລາຣັກ * ເຮັດສິ່ງນີ້ທຸກໆຄືນ?
+
+108
+00:07:17,550 --> 00:07:19,550
+[CURLY]
+Maybe to scare us...
+ບາງທີເພື່ອເຮັດໃຫ້ພວກເຮົາຢ້ານກົວ...
+
+109
+00:07:20,050 --> 00:07:22,050
+[COPPERFIELD]
+No, you jerk.
+ບໍ່, ເຈົ້າໂຊກຮ້າຍ.
+
+110
+00:07:22,550 --> 00:07:24,550
+[STEERFORTH]
+Dr. Larch *loves* us!
+ດຣ ລາຣັກ * ຮັກພວກເຮົາ!
+
+111
+00:07:25,050 --> 00:07:27,150
+[FUZZY]
+But why does he do *that*?
+ແຕ່ລາວເຮັດແບບນັ້ນເປັນຫຍັງ?
+
+112
+00:07:27,650 --> 00:07:30,100
+[BUSTER]
+He does it because we like it.
+ລາວເຮັດມັນເພາະວ່າພວກເຮົາມັກມັນ.
+
+113
+00:07:30,600 --> 00:07:34,800
+[MARY AGNES]
+Buster is mine. You two get Copperfield and Curly. Nobody touches Fuzzy.
+ບັສເຕີແມ່ນຂອງຂ້ອຍ. ເຈົ້າທັງສອງເອົາຄອບເປີຟິລດ໌
+ແລະ ຄູລີ. ບໍ່ມີໃຜຈັບຟູຊີ.
+
+114
+00:07:35,300 --> 00:07:37,750
+[EDNA]
+Stop it! No fighting! *Share* the snowballs!
+ຢຸດຢັ້ງ! ບໍ່ມີການຕໍ່ສູ້! * ແບ່ງປັນ * ບານຫິມະ!
+
+115
+00:07:38,250 --> 00:07:40,350
+[BUSTER]
+They're *our* snowballs! They *stole* them!
+ພວກເຂົາເປັນ * ບານຫິມະຂອງພວກເຮົາ! ພວກເຂົາ * ລັກເອົາພວກເຂົາ!
+
+116
+00:07:40,850 --> 00:07:42,950
+[MARY AGNES]
+They attacked us--just like the Japs!
+ພວກເຂົາໂຈມຕີພວກເຮົາ - ຄືກັບຊາວຍີ່ປຸ່ນ!
+
+117
+00:07:43,450 --> 00:07:47,650
+[EDNA]
+Listen to you, Fuzzy! You've been running. You get to the shower!
+ຟັງຕົວເອງ, ຟູຊີ! ເຈົ້າ ກໍາ ລັງແລ່ນ. ເຈົ້າໄປອາບນ້ ໍາ!
+
+118
+00:07:48,150 --> 00:07:51,300
+[MARY AGNES]
+I know the type--they'll take one of the babies.
+ຂ້ອຍຮູ້ຈັກປະເພດ - ພວກເຂົາຈະເອົາ ຫນຶ່ງ ໃນເດັກນ້ອຍ.
+
+119
+00:07:51,800 --> 00:07:54,950
+[ANGELA]
+Wilbur, the adopting couple is waiting in your office.
+ວີລບູຣ, ຄູ່ຜົວເມຍທີ່ຮັບຮອງເອົາ ກໍາ ລັງລໍຖ້າຢູ່ຫ້ອງການຂອງທ່ານ.
+
+120
+00:07:55,450 --> 00:07:57,450
+[LARCH]
+Life is waiting.
+ຊີວິດກໍາລັງລໍຖ້າ.
+
+121
+00:07:57,950 --> 00:07:59,950
+[LARCH]
+Where's the name sheet?
+ໃບຊື່ຢູ່ໃສ?
+
+122
+00:08:00,450 --> 00:08:02,450
+[HOMER]
+Nobody's named this one yet.
+ບໍ່ມີໃຜຕັ້ງຊື່ຄົນນີ້ເທື່ອ.
+
+123
+00:08:02,950 --> 00:08:04,950
+[LARCH]
+It's my turn!
+ມັນເປັນເວລາຂອງຂ້ອຍ!
+
+124
+00:08:05,450 --> 00:08:07,550
+[LARCH]
+Henceforth you shall be... Little Dorrit!
+ນັບແຕ່ນີ້ໄປເຈົ້າຈະເປັນ... ດໍຣີຕ໌ນ້ອຍ!
+
+125
+00:08:08,050 --> 00:08:11,200
+[HOMER]
+He doesn't like it.  He's a boy, That's why.
+ລາວບໍ່ມັກມັນ. ລາວເປັນເດັກຊາຍ, ນັ້ນແມ່ນເຫດຜົນ.
+
+126
+00:08:11,700 --> 00:08:13,800
+[LARCH]
+Can't a boy be a Dorrit?
+ເດັກຊາຍບໍ່ສາມາດເປັນໂດຣີຕ໌ໄດ້ບໍ?
+
+127
+00:08:14,300 --> 00:08:16,300
+[HOMER]
+I don't think so.
+ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ.
+
+128
+00:08:16,800 --> 00:08:18,800
+[LARCH]
+You do it then.
+ເຈົ້າເຮັດມັນແລ້ວ.
+
+129
+00:08:19,300 --> 00:08:21,400
+[HOMER]
+Henceforth you shall be... Little Wilbur.
+ນັບແຕ່ນີ້ໄປເຈົ້າຈະເປັນ... ວີລບູລນ້ອຍ.
+
+130
+00:08:21,900 --> 00:08:24,000
+[LARCH]
+I'm not crazy about the "Little..."
+ຂ້ອຍບໍ່ໂຊກຮ້າຍກ່ຽວກັບ" Little..."
+
+131
+00:08:24,500 --> 00:08:26,600
+[HOMER]
+Okay, he's just a Wilbur then.
+ດີແລ້ວ, ລາວພຽງແຕ່ເປັນວິລບູຣ໌ເທົ່ານັ້ນ.
+
+132
+00:08:27,100 --> 00:08:33,100
+[LARCH]
+We haven't had a Wilbur here in a year or so, have we? We used to have *dozens*!
+ພວກເຮົາບໍ່ໄດ້ມີວິລບູຣ໌ຢູ່ນີ້ເປັນເວລາປະມານ
+ຫນຶ່ງ ປີແລ້ວ, ແມ່ນບໍ? ພວກເຮົາມີ * ຫຼາຍສິບຄົນ *!
+
+133
+00:08:33,600 --> 00:08:36,050
+[COPPERFIELD]
+They picked Hazel! The idiots chose Hazel!
+ພວກເຂົາເລືອກ Hazel! ຄົນໂງ່ເລືອກ Havel!
+
+134
+00:08:36,550 --> 00:08:42,150
+[MARY AGNES]
+If people want to adopt one of us, they should have to take the oldest first.
+ຖ້າຄົນຢາກຮັບເອົາຄົນຫນຶ່ງໃນພວກເຮົາ
+, ພວກເຂົາຄວນເອົາຄົນໃຫຍ່ທີ່ສຸດກ່ອນ.
+
+135
+00:08:42,650 --> 00:08:46,850
+[EDNA]
+Please, Mary Agnes! This is Hazel's special day--don't make her feel sad.
+ກະລຸນາ, ມາຣີ ແອກເນສ! ນີ້ແມ່ນມື້ພິເສດຂອງເຮຊເລ
+- ຢ່າເຮັດໃຫ້ນາງຮູ້ສຶກໂຊກຮ້າຍ.
+
+136
+00:08:47,350 --> 00:08:51,900
+[MARY AGNES]
+Hazel's practically the youngest of us. She should be the *last* to leave!
+Hazel ແມ່ນເກືອບເປັນຄົນຫນຸ່ມທີ່ສຸດໃນພວກເຮົາ
+. ນາງຄວນເປັນ * ຄົນສຸດທ້າຍ * ທີ່ຈະອອກຈາກ!
+
+137
+00:08:52,400 --> 00:08:56,950
+[CLARA]
+At least Hazel can talk. Usually they take one of the stupid babies.
+ຢ່າງຫນ້ອຍ Hazel ສາມາດເວົ້າໄດ້.
+ໂດຍປົກກະຕິແລ້ວພວກເຂົາເອົາເດັກນ້ອຍຄົນໂງ່ຫນຶ່ງ.
+
+138
+00:08:57,450 --> 00:09:03,050
+[MARY AGNES]
+They take the babies so they won't ever have to tell them that they were orphans!
+ພວກເຂົາເອົາເດັກນ້ອຍເພື່ອພວກເຂົາຈະບໍ່ຕ້ອງບອກພວກເຂົາວ່າພວກເຂົາເປັນເດັກເຖົ້າ
+!
+
+139
+00:09:03,550 --> 00:09:05,550
+[HAZEL]
+I'm not a baby!
+ຂ້ອຍບໍ່ແມ່ນເດັກນ້ອຍ!
+
+140
+00:09:06,050 --> 00:09:09,200
+[MARY AGNES]
+If you cry, Hazel, they'll just send you back.
+ຖ້າເຈົ້າຮ້ອງໄຫ້, Hazel, ພວກເຂົາພຽງແຕ່ຈະສົ່ງເຈົ້າກັບຄືນໄປບ່ອນ.
+
+141
+00:09:09,700 --> 00:09:11,700
+[EDNA]
+Mary Agnes, that's not true!
+ມາຣີ ແອກເນສ, ນັ້ນບໍ່ແມ່ນຄວາມຈິງ!
+
+142
+00:09:12,200 --> 00:09:14,300
+[MARY AGNES]
+That's what they did to me!
+ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາເຮັດກັບຂ້ອຍ!
+
+143
+00:09:14,800 --> 00:09:20,800
+[EDNA]
+You *wanted* to come back--that's why you cried.  You can cry if you feel like it, Hazel. You cry as much as you want.
+ເຈົ້າ * ຢາກ * ກັບມາ - ນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າຮ້ອງໄຫ້.
+ເຈົ້າສາມາດຮ້ອງໄຮໄດ້ຖ້າເຈົ້າຮູ້ສຶກວ່າມັນ, Hazel. ເຈົ້າຮ້ອງໄຫວຫຼາຍເທົ່າທີ່ທ່ານຕ້ອງການ.
+
+144
+00:09:21,300 --> 00:09:27,300
+[LARCH]
+It is strictly for our orphans' sake that I destroy any record of their natural mothers. Of course they will, one day, want to know. But orphans, especially, should look forward to their *futures*. Not back to their pasts.
+ມັນເປັນເພື່ອຄວາມເປັນປະໂຫຍດຂອງເດັກເຖົ້າຂອງພວກເຮົາທີ່ຂ້ອຍ ທໍາ ລາຍບັນທຶກໃດໆກ່ຽວກັບແມ່ ທໍາ ມະຊາດຂອງພວກເຂົາ. ແນ່ນອນວ່າພວກເຂົາຈະ
+, ມື້ຫນຶ່ງ, ຢາກຮູ້. ແຕ່ເດັກນ້ອຍເຖົ່າ, ໂດຍສະເພາະ, ຄວນຫວັງວ່າ * ອະນາຄົດຂອງພວກເຂົາ*. ບໍ່ແມ່ນກັບຄືນໄປບ່ອນທີ່ຜ່ານມາຂອງພວກເຂົາ.
+
+145
+00:09:27,800 --> 00:09:29,800
+[HOMER]
+Hi, Curly. You going somewhere?
+ສະບາຍດີ ຄູລີ. ເຈົ້າຈະໄປບ່ອນໃດບໍ?
+
+146
+00:09:30,300 --> 00:09:32,400
+[CURLY]
+I thought they might take me.
+ຂ້ອຍຄິດວ່າພວກເຂົາອາດຈະເອົາຂ້ອຍ.
+
+147
+00:09:32,900 --> 00:09:34,900
+[HOMER]
+They wanted a girl.
+ພວກເຂົາຢາກມີເດັກຍິງ.
+
+148
+00:09:35,400 --> 00:09:37,400
+[CURLY]
+Nobody ever wants me!
+ບໍ່ມີໃຜຢາກຂ້ອຍເລີຍ!
+
+149
+00:09:37,900 --> 00:09:42,100
+[HOMER]
+You're one of the best, Curly--we couldn't let just anyone take you.
+ເຈົ້າເປັນຄົນທີ່ດີທີ່ສຸດ, ຄູລີ -
+ພວກເຮົາບໍ່ສາມາດປ່ອຍໃຫ້ໃຜກໍ່ເອົາເຈົ້າໄດ້.
+
+150
+00:09:42,600 --> 00:09:46,100
+[CURLY]
+Dr. Larch wouldn't let just anyone take *any* of us!
+ດຣ ລາຣັກຈະບໍ່ປ່ອຍໃຫ້ໃຜເອົາ * ໃຜໆຈາກພວກເຮົາ!
+
+151
+00:09:46,600 --> 00:09:48,600
+[HOMER]
+That's true.
+ນັ້ນແມ່ນຄວາມຈິງ.
+
+152
+00:09:49,100 --> 00:09:51,200
+[CURLY]
+Nobody's asked for me, have they?
+ບໍ່ມີໃຜຖາມຂ້ອຍ, ແມ່ນບໍ?
+
+153
+00:09:51,700 --> 00:09:53,700
+[HOMER]
+Nobody special enough, Curly.
+ບໍ່ມີໃຜພິເສດພໍສົມຄວນ, ຄູລີ.
+
+154
+00:09:54,200 --> 00:09:56,200
+[CURLY]
+You mean somebody asked?
+ເຈົ້າຫມາຍຄວາມວ່າມີໃຜຖາມບໍ?
+
+155
+00:09:56,700 --> 00:09:59,500
+[HOMER]
+Only the right people can have you, Curly.
+ພຽງແຕ່ຄົນທີ່ຖືກຕ້ອງສາມາດມີເຈົ້າໄດ້, ຄູລີ.
+
+156
+00:10:00,000 --> 00:10:04,900
+[EDNA]
+Let us be happy for Hazel. Hazel has found a family. Good night, Hazel.
+ຂໍໃຫ້ພວກເຮົາມີຄວາມສຸກ ສໍາ ລັບ Hazel
+. Hazel ໄດ້ພົບຄອບຄົວ. ຄືນດີ, Havel.
+
+157
+00:10:05,400 --> 00:10:08,550
+[THE GIRLS]
+Good night, Hazel! Good night, Hazel! Good night, Hazel!
+ສະບາຍດີ, Hazel! ສະບາບດີ, hazel!
+
+158
+00:10:09,050 --> 00:10:12,200
+[LARCH]
+I was dreaming about you. How beautiful you were!
+ຂ້ອຍ ກໍາ ລັງຝັນກ່ຽວກັບເຈົ້າ. ເຈົ້າສວຍງາມຫຼາຍປານໃດ!
+
+159
+00:10:12,700 --> 00:10:14,700
+[ANGELA]
+You weren't dreaming about me.
+ເຈົ້າບໍ່ໄດ້ຝັນກ່ຽວກັບຂ້ອຍ.
+
+160
+00:10:15,200 --> 00:10:17,200
+[LARCH]
+I was!
+ຂ້ອຍເປັນ!
+
+161
+00:10:17,700 --> 00:10:19,700
+[ANGELA]
+Then I wasn't beautiful.
+ຫຼັງຈາກນັ້ນຂ້ອຍບໍ່ແມ່ນຄົນສວຍງາມ.
+
+162
+00:10:20,200 --> 00:10:22,650
+[LARCH]
+You were! You *are*! It was fantastic.
+ເຈົ້າເປັນ! ເຈົ້າ * ແມ່ນ *! ມັນດີເລີດ.
+
+163
+00:10:23,150 --> 00:10:25,250
+[ANGELA]
+It was just the ether, Wilbur...
+ມັນເປັນພຽງແຕ່ເອເຕີ, ວີລບູຣ...
+
+164
+00:10:25,750 --> 00:10:28,550
+[HOMER]
+Are you okay? Can I get you anything?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ? ຂ້ອຍສາມາດເອົາຫຍັງໃຫ້ເຈົ້າໄດ້ບໍ?
+
+165
+00:10:29,050 --> 00:10:35,050
+[DISTRAUGHT WOMAN]
+No one but me ever put a hand on me, to feel that baby. Don't you want to touch it or put your ear down to it?
+ບໍ່ມີໃຜນອກຈາກຂ້ອຍເຄີຍເອົາມືໃສ່ຂ້ອຍ,
+ເພື່ອຮູ້ສຶກເດັກນ້ອຍນັ້ນ. ເຈົ້າບໍ່ຢາກຈັບມັນຫຼືວາງຫູລົງມັນບໍ?
+
+166
+00:10:35,550 --> 00:10:37,550
+[HOMER]
+Okay.
+ດີແລ້ວ.
+
+167
+00:10:38,050 --> 00:10:40,150
+[DISTRAUGHT WOMAN]
+Put your ear there. Go on.
+ເອົາຫູຂອງທ່ານຢູ່ບ່ອນນັ້ນ. ໄປ.
+
+168
+00:10:40,650 --> 00:10:46,600
+[DISTRAUGHT WOMAN]
+You shouldn't have a baby if there's no one who wants to put his face right there!
+ເຈົ້າບໍ່ຄວນມີລູກຖ້າບໍ່ມີໃຜຢາກເອົາໃບຫນ້າຂອງລາວຢູ່ບ່ອນນັ້ນ!
+
+169
+00:10:47,100 --> 00:10:51,300
+[DISTRAUGHT WOMAN]
+Stay right there. Right where you are. Stay right here. Right here.
+ຢືນຢູ່ບ່ອນນັ້ນ. ຢູ່ບ່ອນທີ່ທ່ານຢູ່. ຢືນຢູ່ນີ້. ຢູ່ທີ່ນີ້.
+
+170
+00:10:51,800 --> 00:10:56,000
+[BUSTER]
+Do you ever think about leaving this place to go find them?
+ເຈົ້າເຄີຍຄິດທີ່ຈະອອກຈາກບ່ອນນີ້ເພື່ອໄປຊອກຫາພວກເຂົາບໍ?
+
+171
+00:10:56,500 --> 00:10:58,500
+[BUSTER]
+I mean your parents.
+ຂ້ອຍຫມາຍຄວາມວ່າພໍ່ແມ່ຂອງເຈົ້າ.
+
+172
+00:10:59,000 --> 00:11:04,250
+[HOMER]
+I know who you mean. I think about leaving here, but not to find *them*.
+ຂ້ອຍຮູ້ວ່າເຈົ້າຫມາຍຄວາມວ່າໃຜ. ຂ້ອຍຄິດກ່ຽວກັບການອອກຈາກບ່ອນນີ້
+, ແຕ່ບໍ່ແມ່ນເພື່ອຊອກຫາ * ພວກເຂົາ*.
+
+173
+00:11:04,750 --> 00:11:06,750
+[BUSTER]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+174
+00:11:07,250 --> 00:11:13,250
+[HOMER]
+Whoever they were, they didn't *do* any of the things parents are supposed to do. Dr. Larch did those things, and Nurse Edna, and Nurse Angela.
+ພວກເຂົາເປັນໃຜກໍ່ຕາມ, ພວກເຂົາບໍ່ໄດ້ * ເຮັດ * ສິ່ງໃດໆທີ່ພໍ່ແມ່ຄວນເຮັດ.
+ດຣ ລາຣັກໄດ້ເຮັດສິ່ງເຫຼົ່ານັ້ນ, ແລະພະຍາບານເອດນາ, ແລະ ພະຍາບານແອນຈີລາ.
+
+175
+00:11:13,750 --> 00:11:17,250
+[BUSTER]
+Yeah. But sometimes I wish I could meet mine, anyway.
+ແມ່ນແລ້ວ. ແຕ່ບາງຄັ້ງຂ້ອຍຢາກໄດ້ພົບກັບຂອງຂ້ອຍ, ຢ່າງໃດກໍຕາມ.
+
+176
+00:11:17,750 --> 00:11:21,600
+[HOMER]
+What for, Buster? What would you do if you met them?
+ເປັນຫຍັງ, ບັສເຕີ? ເຈົ້າຈະເຮັດແນວໃດຖ້າເຈົ້າພົບພວກເຂົາ?
+
+177
+00:11:22,100 --> 00:11:26,300
+[BUSTER]
+Uh... I'd like to show them that I can cook, a little.
+ໂອ້... ຂ້ອຍຢາກສະແດງໃຫ້ພວກເຂົາເຫັນວ່າຂ້ອຍສາມາດປຸງແຕ່ງອາຫານໄດ້
+, ຫນ້ອຍ ຫນຶ່ງ.
+
+178
+00:11:26,800 --> 00:11:28,800
+[HOMER]
+You cook very well!
+ເຈົ້າປຸງແຕ່ງອາຫານດີຫຼາຍ!
+
+179
+00:11:29,300 --> 00:11:31,750
+[BUSTER]
+And that I can drive a truck!
+ແລະວ່າຂ້ອຍສາມາດຂັບລົດບັນທຸກໄດ້!
+
+180
+00:11:32,250 --> 00:11:34,250
+[HOMER]
+Better than I can!
+ດີກວ່າຂ້ອຍ!
+
+181
+00:11:34,750 --> 00:11:39,300
+[BUSTER]
+Sometimes I want to meet them so I can kill them. Just sometimes.
+ບາງຄັ້ງຂ້ອຍຢາກພົບພວກເຂົາເພື່ອໃຫ້ຂ້ອຍສາມາດຂ້າພວກເຂົາໄດ້
+. ພຽງແຕ່ບາງຄັ້ງ.
+
+182
+00:11:39,800 --> 00:11:43,650
+[BUSTER]
+Homer, you know I would never kill anyone--you know I wouldn't.
+ໂຮມເປີ, ເຈົ້າຮູ້ວ່າຂ້ອຍຈະບໍ່ຂ້າໃຜເລີຍ - ເຈົ້າຮູ້ວ່າຂ້ອຍຈະບໍ່ເຮັດ.
+
+183
+00:11:44,150 --> 00:11:46,150
+[HOMER]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+184
+00:11:46,650 --> 00:11:49,100
+[BUSTER]
+I think Mary Agnes could kill someone.
+ຂ້ອຍຄິດວ່າແມຣີ ແອກເນສສາມາດຂ້າຄົນໃດໄດ້.
+
+185
+00:11:49,600 --> 00:11:51,700
+[HOMER]
+I doubt it. She's just an...
+ຂ້ອຍສົງໄສມັນ. ນາງພຽງແຕ່ເປັນ...
+
+186
+00:11:52,200 --> 00:11:54,200
+[HOMER]
+...emotional girl.
+ເດັກຍິງທີ່ມີຄວາມຮູ້ສຶກ.
+
+187
+00:11:54,700 --> 00:11:56,700
+[BUSTER]
+What's she so emotional about?
+ນາງມີຄວາມຮູ້ສຶກຫຼາຍປານໃດ?
+
+188
+00:11:57,200 --> 00:12:02,100
+[HOMER]
+I don't know. She got left here, like the rest of us, didn't she?
+ຂ້ອຍບໍ່ຮູ້. ນາງຖືກປ່ອຍໄວ້ບ່ອນນີ້, ຄືກັບພວກເຮົາທຸກຄົນ, ແມ່ນບໍ?
+
+189
+00:12:02,600 --> 00:12:04,600
+[FUZZY]
+He thinks she's his *mother*!
+ລາວຄິດວ່ານາງເປັນແມ່ຂອງລາວ!
+
+190
+00:12:05,100 --> 00:12:07,550
+[COPPERFIELD]
+He doesn't think she's his mother, Fuzzy.
+ລາວບໍ່ຄິດວ່ານາງເປັນແມ່ຂອງລາວ, ຟູຊີ.
+
+191
+00:12:08,050 --> 00:12:10,150
+[FUZZY]
+He does so! He *loves* her!
+ລາວເຮັດແບບນັ້ນ! ລາວ * ຮັກນາງ!
+
+192
+00:12:10,650 --> 00:12:12,750
+[CARLA]
+How could she be his *mother*?
+ນາງເປັນແມ່ຂອງລາວໄດ້ແນວໃດ?
+
+193
+00:12:13,250 --> 00:12:17,800
+[LARCH]
+They want to replace me! The Board of Trustees wants to *replace* me!
+ພວກເຂົາຢາກປ່ຽນຂ້ອຍ! ຄະນະກໍາມະການຄຸ້ມຄອງຢາກ * ປ່ຽນຂ້ອຍ!
+
+194
+00:12:18,300 --> 00:12:21,450
+[ANGELA]
+They just want you to hire some new help.
+ພວກເຂົາພຽງແຕ່ຢາກໃຫ້ເຈົ້າຈ້າງຜູ້ຊ່ວຍຄົນໃຫມ່.
+
+195
+00:12:21,950 --> 00:12:26,150
+[LARCH]
+Some new *things* would be useful. I don't need any "new help."
+ບາງສິ່ງໃຫມ່ * ຈະເປັນປະໂຫຍດ. ຂ້ອຍບໍ່ຕ້ອງການ"ຄວາມຊ່ວຍເຫຼືອໃຫມ່ໃດໆ."
+
+196
+00:12:26,650 --> 00:12:28,650
+[LARCH]
+Homer! I need you!
+ໂຮມເປີ! ຂ້ອຍຕ້ອງການເຈົ້າ!
+
+197
+00:12:29,150 --> 00:12:35,150
+[LARCH]
+I thought you took care of this. It always breaks in the same place. It's your splice, isn't it?
+ຂ້ອຍຄິດວ່າເຈົ້າເອົາໃຈໃສ່ເລື່ອງນີ້. ມັນແຕກຢູ່ບ່ອນດຽວກັນຢູ່ສະເຫມີ
+. ມັນແມ່ນການເຊື່ອມຕໍ່ຂອງທ່ານ, ແມ່ນບໍ?
+
+198
+00:12:35,650 --> 00:12:38,450
+[HOMER]
+It's *your* splice! You blame me for everything!
+ມັນເປັນ * ການເຊື່ອມໂຍງຂອງທ່ານ! ເຈົ້າກ່າວຫາຂ້ອຍ ສໍາ ລັບທຸກຢ່າງ!
+
+199
+00:12:38,950 --> 00:12:44,950
+[LARCH]
+Angela, we need a new movie, a new projector, a new typewriter--*that's* what they should replace around here!
+ແອນຈີລາ, ພວກເຮົາຕ້ອງການຮູບເງົາ ໃຫມ່, ເຄື່ອງສະແດງໃຫມ່,
+ເຄື່ອງພິມ ໃຫມ່ - * ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາຄວນທົດແທນຢູ່ບ່ອນນີ້!
+
+200
+00:12:45,450 --> 00:12:48,250
+[EDNA]
+We have a delivery. Imminent, in my estimation...
+ພວກເຮົາມີການຈັດສົ່ງ. ໃກ້ຈະມາຮອດ, ໃນການຄາດຄະເນຂອງຂ້ອຍ...
+
+201
+00:12:48,750 --> 00:12:50,850
+[LARCH]
+Homer, would you get this one?
+ໂຮມເປີ, ເຈົ້າຈະເອົາແບບນີ້ບໍ?
+
+202
+00:12:51,350 --> 00:12:54,500
+[HOMER]
+She's a patient, right? She should see a doctor.
+ນາງເປັນຄົນເຈັບ, ແມ່ນບໍ? ນາງຄວນໄປພົບຫມໍ.
+
+203
+00:12:55,000 --> 00:13:00,250
+[LARCH]
+Homer, you are a skilled and gifted surgeon. You have near-prefect obstetrical and gynecological procedure.
+ໂຮມເປີ, ເຈົ້າເປັນຫມໍຜ່າຕັດທີ່ມີຄວາມສາມາດແລະມີພອນສະຫວັນ
+. ເຈົ້າມີຂັ້ນຕອນການເກີດແລະແມ່ຍິງເກືອບສົມບູນແບບ.
+
+204
+00:13:00,750 --> 00:13:03,900
+[HOMER]
+I just mean I'd rather fix the movie. Tonight.
+ຂ້ອຍພຽງແຕ່ຫມາຍຄວາມວ່າຂ້ອຍມັກຈະແກ້ໄຂຮູບເງົາ. ມື້ນີ້.
+
+205
+00:13:04,400 --> 00:13:06,500
+[LARCH]
+Sure. Okay. You splice. I'll deliver.
+ແນ່ນອນ. ດີ. ເຈົ້າເຊື່ອມໂຍງ. ຂ້ອຍຈະສົ່ງ.
+
+206
+00:13:07,000 --> 00:13:10,500
+[FUZZY]
+Homer... doesn't King Kong think the woman is his *mother*?
+ໂຮມເປີ... ກະສັດຄອນບໍ່ຄິດວ່າຜູ້ຍິງແມ່ນ * ແມ່ຂອງລາວ * ບໍ?
+
+207
+00:13:11,000 --> 00:13:13,450
+[HOMER]
+Uh, sure--that's what Kong thinks, all right.
+ໂອ້, ແນ່ນອນ - ນັ້ນແມ່ນສິ່ງທີ່ຄອນກ໌ຄິດ, ດີ.
+
+208
+00:13:13,950 --> 00:13:15,950
+[FUZZY]
+That's why Kong loves her!
+ນັ້ນແມ່ນເຫດຜົນທີ່ຄອນກ໌ຮັກນາງ!
+
+209
+00:13:16,450 --> 00:13:18,550
+[HOMER]
+I thought it was my turn.
+ຂ້ອຍຄິດວ່າມັນເປັນເວລາຂອງຂ້ອຍ.
+
+210
+00:13:19,050 --> 00:13:21,850
+[LARCH]
+It is. I'll get this. You go ahead.
+ມັນເປັນ. ຂ້ອຍຈະເອົາສິ່ງນີ້. ເຈົ້າໄປກ່ອນ.
+
+211
+00:13:22,350 --> 00:13:28,350
+[HOMER]
+"Whether I shall turn out to be the hero of my own life, or whether that station will be held by anybody else, these pages must show."
+ບໍ່ວ່າຂ້ອຍຈະກາຍເປັນວິລະຊົນຂອງຊີວິດຂອງຂ້ອຍເອງ,
+ຫຼືບໍ່ວ່າສະຖານີນັ້ນຈະຖືກຖືໂດຍຄົນອື່ນ, ຫນ້າ ເຫຼົ່ານີ້ຕ້ອງສະແດງໃຫ້ເຫັນ.
+
+212
+00:13:28,850 --> 00:13:34,850
+[HOMER]
+"I was a posthumous child. My father's eyes had closed upon the light of this world six months, when mine opened on it."
+ຂ້ອຍເປັນເດັກນ້ອຍທີ່ຕາຍແລ້ວ.
+ຕາຂອງພໍ່ຂອງຂ້ອຍໄດ້ປິດໃສ່ແສງສະຫວ່າງຂອງໂລກນີ້ຫົກເດືອນ, ເມື່ອຂອງຂ້ອຍເປີດໃສ່ມັນ.
+
+213
+00:13:35,350 --> 00:13:37,350
+[FUZZY]
+His father's dead, right?
+ພໍ່ຂອງລາວຕາຍແລ້ວ, ແມ່ນບໍ?
+
+214
+00:13:37,850 --> 00:13:39,850
+[LARCH]
+That's right, Fuzz.
+ນັ້ນແມ່ນແລ້ວ, ຟູຊ໌.
+
+215
+00:13:40,350 --> 00:13:45,950
+[HOMER]
+"There is something strange to me, even now, in the reflection that he never saw me..."
+ມີບາງສິ່ງບາງຢ່າງທີ່ແປກໃຈຕໍ່ຂ້ອຍ, ເຖິງແມ່ນວ່າດຽວນີ້
+, ໃນການສະທ້ອນວ່າລາວບໍ່ເຄີຍເຫັນຂ້ອຍ...
+
+216
+00:13:46,450 --> 00:13:48,450
+[FUZZY]
+Is *your* father dead?
+ພໍ່ເຈົ້າຕາຍແລ້ວບໍ?
+
+217
+00:13:48,950 --> 00:13:51,050
+[LARCH]
+Cirrhosis--it's a disease of the liver.
+ໂຣກຊີຣໂຊສ - ມັນແມ່ນພະຍາດຂອງຕັບ.
+
+218
+00:13:51,550 --> 00:13:53,550
+[FUZZY]
+*Liver* killed him?
+* Liver * ໄດ້ຂ້າລາວບໍ?
+
+219
+00:13:54,050 --> 00:13:56,500
+[LARCH]
+*Alcohol* killed him--he drank himself to death.
+* ເຫຼົ້າເຫຼົ້າ * ໄດ້ຂ້າລາວ - ລາວດື່ມຕົວເອງຈົນຕາຍ.
+
+220
+00:13:57,000 --> 00:13:59,000
+[FUZZY]
+But did you know him?
+ແຕ່ເຈົ້າຮູ້ຈັກລາວບໍ?
+
+221
+00:13:59,500 --> 00:14:02,300
+[LARCH]
+Barely. It hardly mattered that I knew him.
+ເກືອບ. ມັນເກືອບບໍ່ສໍາຄັນວ່າຂ້ອຍຮູ້ຈັກລາວ.
+
+222
+00:14:02,800 --> 00:14:04,900
+[FUZZY]
+Did you know your mother better?
+ເຈົ້າຮູ້ຈັກແມ່ຂອງເຈົ້າດີກວ່າບໍ?
+
+223
+00:14:05,400 --> 00:14:08,200
+[LARCH]
+She's dead now, too. She was a nanny.
+ນາງຕາຍແລ້ວດຽວນີ້ເຊັ່ນກັນ. ນາງເປັນແມ່ຕູ້.
+
+224
+00:14:08,700 --> 00:14:10,700
+[FUZZY]
+What's a nanny do?
+ແມ່ຕູ້ເຮັດຫຍັງ?
+
+225
+00:14:11,200 --> 00:14:13,300
+[LARCH]
+She looks after other people's children.
+ນາງເບິ່ງແຍງລູກຂອງຄົນອື່ນ.
+
+226
+00:14:13,800 --> 00:14:15,900
+[FUZZY]
+Did you grow up around here?
+ເຈົ້າເຕີບໃຫຍ່ຢູ່ບ່ອນນີ້ບໍ?
+
+227
+00:14:16,400 --> 00:14:18,400
+[LARCH]
+No. She was an immigrant.
+ບໍ່. ນາງເປັນຄົນເຂົ້າເມືອງ.
+
+228
+00:14:18,900 --> 00:14:20,900
+[FUZZY]
+What's an immigrant?
+ຄົນເຂົ້າເມືອງແມ່ນຫຍັງ?
+
+229
+00:14:21,400 --> 00:14:23,400
+[LARCH]
+Someone not from Maine.
+ບາງຄົນບໍ່ແມ່ນຄົນຈາກເມນ.
+
+230
+00:14:23,900 --> 00:14:29,900
+[EDNA]
+No one's going to hurt you, dear. Have you come to visit us? We have beds, you know. Have you had any breakfast? What's your name?
+ບໍ່ມີໃຜຈະເຮັດໃຫ້ເຈົ້າເຈັບປວດແມ. ເຈົ້າມາຢ້ຽມຢາມພວກເຮົາບໍ?
+ພວກເຮົາມີຕຽງ, ເຈົ້າຮູ້ແລ້ວ. ເຈົ້າກິນອາຫານເຊົ້າບໍ? ຊື່ເຈົ້າແມ່ນຫຍັງ?
+
+231
+00:14:30,400 --> 00:14:32,850
+[EDNA]
+Her temperature is a hundred and four.
+ອຸນຫະພູມຂອງນາງແມ່ນສິບສີ່.
+
+232
+00:14:33,350 --> 00:14:35,450
+[LARCH]
+How old are you, dear? Thirteen?
+ເຈົ້າອາຍຸຫຼາຍປານໃດ, ແມ? ສາມສິບສາມ?
+
+233
+00:14:35,950 --> 00:14:41,900
+[LARCH]
+Twelve? Are you twelve, dear?  You have to tell me how long you've been pregnant.  Three months?
+ສິບສອງ? ເຈົ້າສິບສອງບໍ, ແມ?
+ເຈົ້າຕ້ອງບອກຂ້ອຍວ່າເຈົ້າຖືພາດົນປານໃດ. ສາມເດືອນບໍ?
+
+234
+00:14:42,400 --> 00:14:44,400
+[LARCH]
+Are you *four* months pregnant?
+ເຈົ້າຖືພາ * ສີ່ເດືອນບໍ?
+
+235
+00:14:44,900 --> 00:14:46,900
+[HOMER]
+She's at least *five*.
+ນາງມີອາຍຸຢ່າງຫນ້ອຍ * ຫ້າ *.
+
+236
+00:14:47,400 --> 00:14:51,950
+[LARCH]
+Dear child, it won't hurt when I look. I'm just going to *look*.
+ເດັກນ້ອຍທີ່ຮັກແພງ, ມັນຈະບໍ່ເຈັບປວດເມື່ອຂ້ອຍເບິ່ງ
+. ຂ້ອຍພຽງແຕ່ຈະ * ເບິ່ງ*.
+
+237
+00:14:52,450 --> 00:14:55,950
+[LARCH]
+Tell me: you haven't done something to yourself, have you?
+ບອກຂ້ອຍວ່າ: ເຈົ້າບໍ່ໄດ້ເຮັດຫຍັງກັບຕົວເອງ, ແມ່ນບໍ?
+
+238
+00:14:56,450 --> 00:14:58,450
+[TWELVE-YEAR-OLD GIRL]
+It wasn't me!
+ມັນບໍ່ແມ່ນຂ້ອຍ!
+
+239
+00:14:58,950 --> 00:15:01,050
+[LARCH]
+Did you go to someone else?
+ເຈົ້າໄປຫາຄົນອື່ນບໍ?
+
+240
+00:15:01,550 --> 00:15:06,450
+[TWELVE-YEAR-OLD GIRL]
+He said he was a doctor. I would never have stuck that inside me!
+ລາວເວົ້າວ່າລາວເປັນຫມໍ. ຂ້ອຍຈະບໍ່ເອົາສິ່ງນັ້ນໄວ້ພາຍໃນຂ້ອຍເລີຍ!
+
+241
+00:15:06,950 --> 00:15:08,950
+[HOMER]
+Stuck *what* inside you?
+ຈັບໄວ້ * ຫຍັງ * ໃນຕົວເຈົ້າ?
+
+242
+00:15:09,450 --> 00:15:15,450
+[TWELVE-YEAR-OLD GIRL]
+It wasn't me! I would never do no such thing! I wouldn't stick that inside me! It wasn't me!
+ມັນບໍ່ແມ່ນຂ້ອຍ! ຂ້ອຍບໍ່ເຄີຍເຮັດສິ່ງດັ່ງກ່າວເລີຍ!
+ຂ້ອຍຈະບໍ່ເອົາສິ່ງນັ້ນໄວ້ພາຍໃນຕົວຂອງຂ້ອຍ! ບໍ່ແມ່ນຂ້ອຍ!
+
+243
+00:15:15,950 --> 00:15:21,950
+[LARCH]
+Listen, you've been very brave. I'm going to put you to sleep--you won't feel it anymore. You've been brave enough.
+ຟັງ, ເຈົ້າມີຄວາມກ້າຫານຫຼາຍ. ຂ້ອຍຈະເຮັດໃຫ້ເຈົ້ານອນ -
+ເຈົ້າຈະບໍ່ຮູ້ສຶກມັນອີກຕໍ່ໄປ. ເຈົ້າມີຄວາມ ກ້າຫານພຽງພໍ.
+
+244
+00:15:22,450 --> 00:15:24,450
+[EDNA]
+That's a heavy sedation.
+ນັ້ນແມ່ນຢາບັນເທົາທຸກທີ່ ຫນັກ.
+
+245
+00:15:24,950 --> 00:15:30,950
+[LARCH]
+You *bet* it's a heavy sedation! The fetus is unexpelled, her uterus is punctured, she has acute peritonitis, and there's a foreign object. I think it's a crochet hook.
+ເຈົ້າ * ແນ່ນອນວ່າມັນເປັນຢາບັນເທົາທຸກ ຫນັກ! ລູກເກີດບໍ່ໄດ້ຖືກຂັບໄລ່ອອກ, ທ້ອງຂອງນາງຖືກເຈາະ
+, ນາງມີໂຣກເປຣີໂຕນິດທີ່ຮຸນແຮງ, ແລະມີວັດຖຸຕ່າງດ້າວ. ຂ້ອຍຄິດວ່າມັນເປັນກະຕ່າ crochet.
+
+246
+00:15:31,450 --> 00:15:37,450
+[LARCH]
+If she'd come to you four months ago and asked you for a simple D and C, what would you have decided to do? *Nothing*? *This* is what doing nothing gets you, Homer. It means that someone else is going to do the job--some moron who doesn't know *how*!
+ຖ້ານາງມາຫາເຈົ້າເມື່ອສີ່ເດືອນກ່ອນແລະຂໍໃຫ້ເຈົ້າ D ແລະ C ງ່າຍດາຍ, ເຈົ້າຈະຕັດສິນໃຈເຮັດຫຍັງ? * ບໍ່ມີຫຍັງເລີຍ*? * ນີ້ແມ່ນ*
+ສິ່ງທີ່ເຮັດຫຍັງເລີຍເຮັດໃຫ້ເຈົ້າ, ໂຮມເປີ. ມັນ ຫມາຍ ຄວາມວ່າຄົນອື່ນຈະເຮັດວຽກ - ຄົນໂຊກຮ້າຍບາງຄົນທີ່ບໍ່ຮູ້ * ວິທີການ *!
+
+247
+00:15:37,950 --> 00:15:43,200
+[LARCH]
+I wish you'd come to *me*, dear child. You should have come to me, instead.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າມາຫາຂ້ອຍ, ເດັກນ້ອຍທີ່ຮັກແພງ. ເຈົ້າຄວນມາກັບຂ້ອຍແທນ.
+
+248
+00:15:43,700 --> 00:15:45,700
+[BUSTER]
+What'd she die of?
+ນາງຕາຍຈາກຫຍັງ?
+
+249
+00:15:46,200 --> 00:15:49,000
+[LARCH]
+She died of *secrecy*, she died of *ignorance*...
+ນາງຕາຍໃນ * ຄວາມລັບ*, ນາງຕາຍຈາກ * ຄວາມບໍ່ຮູ້ສຶກ*...
+
+250
+00:15:49,500 --> 00:15:55,500
+[LARCH]
+If you expect people to be responsible for their children, you have to give them the right to decide whether or not to *have* children. Wouldn't you agree?
+ຖ້າເຈົ້າຄາດວ່າຄົນຈະຮັບຜິດຊອບລູກຂອງພວກເຂົາ,
+ເຈົ້າຕ້ອງໃຫ້ພວກເຂົາສິດໃນການຕັດສິນໃຈວ່າຈະ * ມີລູກຫຼືບໍ່. ເຈົ້າບໍ່ເຫັນດີບໍ?
+
+251
+00:15:56,000 --> 00:16:00,900
+[HOMER]
+How about expecting people to be responsible enough to control themselves to begin with?
+ຈະເປັນແນວໃດກັບການຄາດຫວັງວ່າຄົນຈະມີຄວາມຮັບຜິດຊອບພຽງພໍທີ່ຈະຄວບຄຸມຕົວເອງໃນຕອນເລີ່ມຕົ້ນ
+?
+
+252
+00:16:01,400 --> 00:16:04,900
+[LARCH]
+How about this child? You expect *her* to be responsible?
+ຈະເປັນແນວໃດກັບເດັກຄົນນີ້? ເຈົ້າຄາດວ່າ * ນາງ * ຈະຮັບຜິດຊອບບໍ?
+
+253
+00:16:05,400 --> 00:16:09,950
+[HOMER]
+I didn't mean her. I'm talking about... adults.  You know who I mean!
+ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່ານາງ. ຂ້ອຍ ກໍາ ລັງເວົ້າກ່ຽວກັບ
+... ຜູ້ໃຫຍ່. ເຈົ້າຮູ້ວ່າຂ້ອຍຫມາຍຄວາມວ່າໃຜ!
+
+254
+00:16:10,450 --> 00:16:12,450
+[HOMER]
+What?!
+ຫຍັງ?!
+
+255
+00:16:12,950 --> 00:16:18,200
+[LARCH]
+It's just a marvel to me that you still have such high expectations of people.
+ມັນພຽງແຕ່ເປັນຄວາມແປກໃຈຕໍ່ຂ້ອຍວ່າເຈົ້າຍັງມີຄວາມຄາດຫວັງສູງຈາກຄົນຫຼາຍປານໃດ
+.
+
+256
+00:16:18,700 --> 00:16:20,700
+[HOMER]
+I'm happy I amuse you.
+ຂ້ອຍດີໃຈທີ່ຂ້ອຍມ່ວນຊື່ນເຈົ້າ.
+
+257
+00:16:21,200 --> 00:16:27,200
+[LARCH]
+Try to look at it this way. What choice does Buster have? What are his options? Nobody will ever adopt him.
+ພະຍາຍາມເບິ່ງມັນແບບນີ້. ບັສເຕີມີທາງເລືອກໃດ?
+ທາງເລືອກຂອງລາວແມ່ນຫຍັງ? ບໍ່ມີໃຜຈະຮັບເອົາລາວເລີຍ.
+
+258
+00:16:27,700 --> 00:16:33,700
+[HOMER]
+Try to look at it *this* way. Buster and I are sitting right here beside you. We could have ended up in the incinerator!
+ພະຍາຍາມເບິ່ງມັນ * ແບບນີ້. ຂ້ອຍແລະບັສເຕີນັ່ງຢູ່ບ່ອນນີ້ຢູ່ຂ້າງເຈົ້າ
+. ພວກເຮົາອາດຈະສິ້ນສຸດລົງໃນເຄື່ອງເຜົາໄຫມ້!
+
+259
+00:16:34,200 --> 00:16:37,700
+[LARCH]
+Happy to be alive, under any circumstances--is that your point?
+ດີໃຈທີ່ຢູ່ອາໄສ, ພາຍໃຕ້ສະພາບໃດກໍ່ຕາມ - ນັ້ນແມ່ນຈຸດຂອງທ່ານບໍ?
+
+260
+00:16:38,200 --> 00:16:40,650
+[HOMER]
+Happy to be alive... I guess so.
+ດີໃຈທີ່ຢູ່ອາໄສ... ຂ້ອຍຄິດວ່າເປັນ.
+
+261
+00:16:41,150 --> 00:16:43,600
+[CANDY]
+So many children. Are they all orphans?
+ເດັກນ້ອຍຫຼາຍປານໃດ. ພວກເຂົາທັງ ຫມົດ ແມ່ນເດັກເຖົ້າບໍ?
+
+262
+00:16:44,100 --> 00:16:46,100
+[WALLY]
+Well, this *is* an orphanage.
+ດີ, ນີ້ແມ່ນ * ເປັນ * ເຮືອນເດັກເຖົ້າ.
+
+263
+00:16:46,600 --> 00:16:49,750
+[CANDY]
+Oh, they're getting into the car... watch your fingers!
+ໂອ້, ພວກເຂົາ ກໍາ ລັງເຂົ້າໄປໃນລົດ... ລະວັງນິ້ວມືຂອງທ່ານ!
+
+264
+00:16:50,250 --> 00:16:52,250
+[CURLY]
+I'm the best.
+ຂ້ອຍເປັນຄົນທີ່ດີທີ່ສຸດ.
+
+265
+00:16:52,750 --> 00:16:54,750
+[CANDY]
+You are?
+ເຈົ້າເປັນບໍ?
+
+266
+00:16:55,250 --> 00:16:57,700
+[WALLY]
+The best? Wow! The best at *what*?
+ທີ່ດີທີ່ສຸດບໍ? ໂວ້! ທີ່ດີທີ່ສຸດໃນ * ຫຍັງ?
+
+267
+00:16:58,200 --> 00:17:00,200
+[CURLY]
+I'm the best one.
+ຂ້ອຍເປັນຄົນທີ່ດີທີ່ສຸດ.
+
+268
+00:17:00,700 --> 00:17:02,700
+[CANDY]
+Here, blow...
+ມາແລ້ວ, ບິດ...
+
+269
+00:17:03,200 --> 00:17:06,700
+[CURLY]
+I really *am* the best, I just have a cold.
+ຂ້ອຍ * ແມ່ນ * ທີ່ດີທີ່ສຸດແທ້ໆ, ຂ້ອຍພຽງແຕ່ມີຄວາມເຢັນ.
+
+270
+00:17:07,200 --> 00:17:09,650
+[CANDY]
+Blow! There, I bet that feels better.
+ບິດ! ນັ້ນແລ້ວ, ຂ້ອຍແນ່ໃຈວ່າມັນຮູ້ສຶກດີຂຶ້ນ.
+
+271
+00:17:10,150 --> 00:17:12,150
+[CURLY]
+Yeah.
+ແມ່ນແລ້ວ.
+
+272
+00:17:12,650 --> 00:17:14,650
+[LARCH]
+Curly, come here!
+ຄຣູລີ ມາບ່ອນນີ້!
+
+273
+00:17:15,150 --> 00:17:17,150
+[CURLY]
+*Tell* them! I'm the one.
+ບອກພວກເຂົາ! ຂ້ອຍເປັນຄົນດຽວ.
+
+274
+00:17:17,650 --> 00:17:21,500
+[HOMER]
+I'm sorry. They're not used to seeing a car like this.
+ຂ້ອຍຂໍໂທດ. ພວກເຂົາບໍ່ເຄີຍເຫັນລົດແບບນີ້.
+
+275
+00:17:22,000 --> 00:17:24,000
+[WALLY]
+It's okay--I don't mind.
+ມັນບໍ່ເປັນຫຍັງ - ຂ້ອຍບໍ່ສົນໃຈ.
+
+276
+00:17:24,500 --> 00:17:26,950
+[WALLY]
+We brought some chocolates for the kids.
+ພວກເຮົາເອົາຊັອກໂກແລັດບາງຢ່າງມາໃຫ້ເດັກນ້ອຍ.
+
+277
+00:17:27,450 --> 00:17:29,450
+[LARCH]
+Chocolates. How *thoughtful*.
+ໂຊກໂກແລັດ. * ມີຄວາມຄິດເຫັນຫຼາຍປານໃດ*.
+
+278
+00:17:29,950 --> 00:17:31,950
+[CURLY]
+I'm the best! *Tell* them!
+ຂ້ອຍເປັນຄົນທີ່ດີທີ່ສຸດ! * ບອກພວກເຂົາ!
+
+279
+00:17:32,450 --> 00:17:34,450
+[LARCH]
+You're the best, Curly.
+ເຈົ້າເປັນຄົນທີ່ດີທີ່ສຸດ, ຄູລີ.
+
+280
+00:17:34,950 --> 00:17:36,950
+[HOMER]
+So, Mrs...
+ສະນັ້ນ, ທ່ານນາງ...
+
+281
+00:17:37,450 --> 00:17:39,450
+[CANDY]
+Candy. Candy Kendall.
+ແຄນດີ. ແກນດີ ເຄນດາລ.
+
+282
+00:17:39,950 --> 00:17:41,950
+[WALLY]
+Wally. Wally Worthington.
+ວໍລີ. ວາລີ ວໍຕິ້ງຕັນ.
+
+283
+00:17:42,450 --> 00:17:44,450
+[HOMER]
+How many months are you?
+ເຈົ້າມີອາຍຸຫຼາຍປານໃດ?
+
+284
+00:17:44,950 --> 00:17:46,950
+[CANDY]
+Two.
+ສອງ.
+
+285
+00:17:47,450 --> 00:17:51,300
+[WALLY]
+So, now, uh... you're not... I mean, do *you* do the--
+ສະນັ້ນ, ດຽວນີ້, ອູ... ເຈົ້າບໍ່ແມ່ນ...
+ຂ້ອຍຫມາຍຄວາມວ່າ, ເຈົ້າ * ເຮັດແນວໃດ -
+
+286
+00:17:51,800 --> 00:17:54,600
+[HOMER]
+No. Dr. Larch will be performing the procedure.
+ບໍ່. ດຣ ລາຣັກຈະປະຕິບັດຂັ້ນຕອນ.
+
+287
+00:17:55,100 --> 00:17:57,550
+[WALLY]
+Ah, well... okay. Good! I just wondered...
+ອາ, ດີ... ດີ. ດີ! ຂ້ອຍພຽງແຕ່ສົງໄສວ່າ...
+
+288
+00:17:58,050 --> 00:18:01,900
+[EDNA]
+Excuse me, Homer. Dr. Larch said this one is your turn.
+ຂໍໂທດຂ້ອຍ, ໂຮມເປີ. ດຣ ລາຣັກເວົ້າວ່າຄັ້ງນີ້ເປັນເວລາຂອງທ່ານ.
+
+289
+00:18:02,400 --> 00:18:06,950
+[EDNA]
+Oh, dear--I'm sorry. I meant the circumcision. That boy you delivered on Tuesday...
+ໂອ້, ແມ - ຂ້ອຍຂໍໂທດ. ຂ້ອຍຫມາຍຄວາມວ່າການຕັດຜົມ
+. ເດັກຊາຍທີ່ເຈົ້າສົ່ງໃນວັນອັງຄານ...
+
+290
+00:18:07,450 --> 00:18:09,550
+[HOMER]
+Sure. Fine. Have you prepped him?
+ແນ່ນອນ. ດີ. ເຈົ້າໄດ້ກະກຽມລາວບໍ?
+
+291
+00:18:10,050 --> 00:18:12,050
+[EDNA]
+I'll get started.
+ຂ້ອຍຈະເລີ່ມຕົ້ນ.
+
+292
+00:18:12,550 --> 00:18:18,150
+[WALLY]
+I think it was the ether--the smell got to me.  God. This is all my fault.
+ຂ້ອຍຄິດວ່າມັນແມ່ນເອເຕີ - ກິ່ນຫອມໄດ້ເຂົ້າມາຫາຂ້ອຍ
+. ພຣະເຈົ້າ. ນີ້ແມ່ນຄວາມຜິດຂອງຂ້ອຍທັງ ຫມົດ.
+
+293
+00:18:18,650 --> 00:18:22,150
+[EDNA]
+Steerforth got into the pantry--he's eaten all the pie dough.
+ສຕີດຟອດເຂົ້າໄປໃນຫ້ອງເກັບເຄື່ອງ - ລາວໄດ້ກິນເຂົ້າຈີ່ທັງ ຫມົດ ແລ້ວ.
+
+294
+00:18:22,650 --> 00:18:24,650
+[CURLY]
+He wasn't sharing it, either.
+ລາວບໍ່ໄດ້ແບ່ງປັນມັນເຊັ່ນກັນ.
+
+295
+00:18:25,150 --> 00:18:27,250
+[EDNA]
+He's down the hall, throwing up.
+ລາວຢູ່ທາງລຸ່ມທາງເດີ່ນ, ຖອກອອກ.
+
+296
+00:18:27,750 --> 00:18:30,200
+[HOMER]
+What kind of plane are you flying?
+ເຈົ້າບິນເຮືອບິນປະເພດໃດ?
+
+297
+00:18:30,700 --> 00:18:32,700
+[WALLY]
+A B-24 Liberator.
+ເຮືອບິນ B-24 Liberator.
+
+298
+00:18:33,200 --> 00:18:35,200
+[HOMER]
+Liberator...
+ຜູ້ປົດປ່ອຍ...
+
+299
+00:18:35,700 --> 00:18:37,700
+[WALLY]
+Have you enlisted?
+ເຈົ້າໄດ້ລົງທະບຽນແລ້ວບໍ?
+
+300
+00:18:38,200 --> 00:18:42,400
+[HOMER]
+They wouldn't take me. I'm Class IV-- I've got a heart defect.
+ພວກເຂົາຈະບໍ່ເອົາຂ້ອຍ. ຂ້ອຍເປັນຊັ້ນທີສີ່ - ຂ້ອຍມີຂໍ້ບົກຜ່ອງຫົວໃຈ.
+
+301
+00:18:42,900 --> 00:18:44,900
+[WALLY]
+Really! Is it serious?
+ແທ້ຈິງແລ້ວ! ມັນຮ້າຍແຮງບໍ?
+
+302
+00:18:45,400 --> 00:18:51,400
+[HOMER]
+No, it's not serious. I'm just not supposed to get excited. You know-- no strain, no stress. I try to keep calm all the time.
+ບໍ່, ມັນບໍ່ແມ່ນເລື່ອງຮ້າຍແຮງ. ຂ້ອຍພຽງແຕ່ບໍ່ຄວນຕື່ນເຕັ້ນ. ເຈົ້າຮູ້ແລ້ວ -
+ບໍ່ມີຄວາມເຄັ່ງຕຶງ, ບໍ່ມີຄວາມກົດດັນ. ຂ້ອຍພະຍາຍາມຮັກສາຄວາມສະຫງົບໃຈຕະຫຼອດເວລາ.
+
+303
+00:18:51,900 --> 00:18:56,100
+[WALLY]
+Oh, well. I don't imagine there's any strain or stress around *here*!
+ໂອ້, ດີ. ຂ້ອຍບໍ່ຄິດວ່າມີຄວາມເຄັ່ງຕຶງຫຼືຄວາມກົດດັນໃດໆຢູ່ບ່ອນນີ້!
+
+304
+00:18:56,600 --> 00:18:58,600
+[WALLY]
+How is she doing?
+ນາງເປັນແນວໃດ?
+
+305
+00:18:59,100 --> 00:19:01,100
+[LARCH]
+Just fine.
+ບໍ່ເປັນຫຍັງເລີຍ.
+
+306
+00:19:01,600 --> 00:19:03,600
+[CANDY]
+Boy or girl?
+ເດັກຊາຍຫຼືເດັກຍິງ?
+
+307
+00:19:04,100 --> 00:19:06,100
+[ANGELA]
+It was nothing--it's all over.
+ມັນບໍ່ມີຫຍັງເລີຍ - ມັນຫມົດແລ້ວ.
+
+308
+00:19:06,600 --> 00:19:08,600
+[WALLY]
+It's all over, honey.
+ມັນຫມົດແລ້ວແມ.
+
+309
+00:19:09,100 --> 00:19:13,300
+[CANDY]
+I would like to have a baby, one day. I really would.
+ຂ້ອຍຢາກມີລູກ, ມື້ຫນຶ່ງ. ຂ້ອຍຢາກແທ້ໆ.
+
+310
+00:19:13,800 --> 00:19:19,800
+[ANGELA]
+Why, of course--you can have as many children as you want. I'm sure you'll have very beautiful children.
+ເປັນຫຍັງ, ແນ່ນອນ - ເຈົ້າສາມາດມີລູກຫຼາຍເທົ່າທີ່ທ່ານຕ້ອງການ
+. ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຈະມີລູກທີ່ສວຍງາມຫຼາຍ.
+
+311
+00:19:20,300 --> 00:19:24,150
+[LARCH]
+You'll have Princes of Maine! You'll have Kings of New England!
+ເຈົ້າຈະມີເຈົ້າຊາຍຂອງເມນ! ເຈົ້າຈະມີກະສັດຂອງນິວອັງກິດ!
+
+312
+00:19:24,650 --> 00:19:27,800
+[LARCH]
+I suggest you find yourself some fresh air, Lieutenant.
+ຂ້ອຍແນະ ນໍາ ໃຫ້ເຈົ້າຊອກຫາອາກາດສົດໆໃຫ້ຕົວເອງ, ສະຫມັກ.
+
+313
+00:19:28,300 --> 00:19:30,300
+[FUZZY]
+Homer, when is Halloween?
+ໂຮມເປີ, Halloween ແມ່ນເມື່ອໃດ?
+
+314
+00:19:30,800 --> 00:19:32,900
+[HOMER]
+Uh... it's the end of October.
+ໂອ້... ມັນເປັນທ້າຍເດືອນຕຸລາ.
+
+315
+00:19:33,400 --> 00:19:35,400
+[FUZZY]
+Is that soon?
+ມັນໄວບໍ?
+
+316
+00:19:35,900 --> 00:19:40,100
+[STEERFORTH]
+That's a few months away, Fuzz.  I still don't feel so good.
+ນັ້ນແມ່ນຫ່າງຈາກສອງສາມເດືອນ, ຟູຊ໌. ຂ້ອຍຍັງບໍ່ຮູ້ສຶກດີຫຼາຍ.
+
+317
+00:19:40,600 --> 00:19:45,500
+[FUZZY]
+Oh. It's the best time! How come we only get pumpkins once a year?
+ໂອ້. ມັນເປັນເວລາທີ່ດີທີ່ສຸດ!
+ເປັນຫຍັງພວກເຮົາຈຶ່ງໄດ້ຮັບ ຫມາກ ກຸ້ງພຽງແຕ່ຄັ້ງດຽວຕໍ່ປີ?
+
+318
+00:19:46,000 --> 00:19:48,000
+[HOMER]
+Don't get too excited, Fuzzy.
+ຢ່າຕື່ນເຕັ້ນຫຼາຍ, ຟູຊີ.
+
+319
+00:19:48,500 --> 00:19:54,450
+[FUZZY]
+Why can't we have pumpkins for Christmas, too? We don't get any good presents at Christmas, anyway.
+ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ສາມາດກິນ ຫມາກ ກຸ້ງໃນວັນຄຣິດສະມາດເຊັ່ນກັນ
+? ພວກເຮົາບໍ່ໄດ້ຮັບຂອງຂວັນທີ່ດີໃດໆໃນວັນກຸ້ງ, ຢ່າງໃດກໍຕາມ.
+
+320
+00:19:54,950 --> 00:19:57,400
+[HOMER]
+Has anyone offered you anything to eat?
+ມີໃຜສະເຫນີໃຫ້ເຈົ້າກິນຫຍັງບໍ?
+
+321
+00:19:57,900 --> 00:20:01,750
+[WALLY]
+Actually, someone did. I just didn't think I could eat anything.
+ໃນຄວາມເປັນຈິງ, ບາງຄົນເຮັດ.
+ຂ້ອຍພຽງແຕ່ບໍ່ຄິດວ່າຂ້ອຍສາມາດກິນຫຍັງໄດ້.
+
+322
+00:20:02,250 --> 00:20:05,400
+[HOMER]
+I wonder if you might give me a ride.
+ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າສາມາດພາຂ້ອຍໄດ້ບໍ.
+
+323
+00:20:05,900 --> 00:20:08,700
+[WALLY]
+Sure! Be glad to! Uh... a ride where?
+ແນ່ນອນ! ດີໃຈທີ່ຈະ! ອູ... ການຂັບລົດໄປໃສ?
+
+324
+00:20:09,200 --> 00:20:11,200
+[HOMER]
+Where are you going?
+ເຈົ້າໄປໃສ?
+
+325
+00:20:11,700 --> 00:20:13,800
+[WALLY]
+We're heading back to Cape Kenneth.
+ພວກເຮົາ ກໍາ ລັງກັບຄືນໄປບ່ອນ Cape Kenneth.
+
+326
+00:20:14,300 --> 00:20:16,300
+[HOMER]
+Cape Kenneth...
+Cape Kenneth...
+
+327
+00:20:16,800 --> 00:20:18,800
+[HOMER]
+That sounds fine.
+ມັນເບິ່ງຄືວ່າດີ.
+
+328
+00:20:19,300 --> 00:20:25,300
+[LARCH]
+Doubtless you'll let me know what immensely worthwhile or at least *useful* thing it is that you find to do.
+ແນ່ນອນວ່າເຈົ້າຈະບອກຂ້ອຍວ່າສິ່ງທີ່ມີຄຸນຄ່າຫຼາຍປານໃດຫຼືຢ່າງຫນ້ອຍ
+* ມີປະໂຫຍດ * ທີ່ເຈົ້າພົບວ່າເຮັດ.
+
+329
+00:20:25,800 --> 00:20:31,800
+[HOMER]
+I wasn't intending to leave here in order to be entirely useless--I expect I'll find some ways to be of use.
+ຂ້ອຍບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະອອກຈາກບ່ອນນີ້ເພື່ອເປັນທີ່ບໍ່ມີປະໂຫຍດຢ່າງສົມບູນ
+- ຂ້ອຍຄາດວ່າຂ້ອຍຈະຊອກຫາວິທີບາງຢ່າງທີ່ຈະເປັນປະໂຫຍດ.
+
+330
+00:20:32,300 --> 00:20:36,500
+[LARCH]
+In other parts of the world, I suppose there are other ways.
+ໃນພາກສ່ວນອື່ນໆຂອງໂລກ, ຂ້ອຍຄິດວ່າມີວິທີອື່ນອີກ.
+
+331
+00:20:37,000 --> 00:20:39,000
+[HOMER]
+Of course.
+ແນ່ນອນ.
+
+332
+00:20:39,500 --> 00:20:45,500
+[LARCH]
+Are you really so *stupid* that you imagine you're going to find a more gratifying life? What you're going to find is people like the poor people who get left here--only nobody takes care of them as well! And you won't be able to take care of them, either. There's no taking care of *anybody*-- not out there!
+ເຈົ້າເປັນຄົນໂງ່ຫຼາຍປານໃດທີ່ເຈົ້າຄິດວ່າເຈົ້າຈະຊອກຫາຊີວິດທີ່ ຫນ້າ ຊື່ນຊົມຫຼາຍຂຶ້ນບໍ? ສິ່ງທີ່ທ່ານຈະພົບແມ່ນຄົນຄືກັບຄົນທຸກຍາກທີ່ຖືກປ່ອຍໄວ້ຢູ່ນີ້
+- ພຽງແຕ່ບໍ່ມີໃຜເບິ່ງແຍງພວກເຂົາເຊັ່ນກັນ! ແລະເຈົ້າຈະບໍ່ສາມາດເບິ່ງແຍກພວກເຂົາໄດ້ເຊັ່ນກັນ. ບໍ່ມີການດູແລ * ໃຜເລີຍ * - ບໍ່ຢູ່ພາຍນອກ!
+
+333
+00:20:46,000 --> 00:20:49,500
+[HOMER]
+You know I'm grateful for everything you've done for me...
+ເຈົ້າຮູ້ວ່າຂ້ອຍຂອບໃຈ ສໍາ ລັບທຸກຢ່າງທີ່ເຈົ້າເຮັດ ສໍາ ລັບຂ້ອຍ...
+
+334
+00:20:50,000 --> 00:20:52,000
+[LARCH]
+I don't need your gratitude.
+ຂ້ອຍບໍ່ຕ້ອງການຄວາມຂອບໃຈຂອງທ່ານ.
+
+335
+00:20:52,500 --> 00:20:55,650
+[HOMER]
+I don't need this--I know all about my condition.
+ຂ້ອຍບໍ່ຕ້ອງການສິ່ງນີ້ - ຂ້ອຍຮູ້ທຸກຢ່າງກ່ຽວກັບສະພາບຂອງຂ້ອຍ.
+
+336
+00:20:56,150 --> 00:20:59,300
+[LARCH]
+It's your heart--you ought to take it with you.
+ມັນເປັນຫົວໃຈຂອງເຈົ້າ - ເຈົ້າຄວນເອົາມັນກັບເຈົ້າ.
+
+337
+00:20:59,800 --> 00:21:03,300
+[EDNA]
+Going where? Does he have a plan of some kind?
+ໄປໃສ? ລາວມີແຜນການບາງຢ່າງບໍ?
+
+338
+00:21:03,800 --> 00:21:05,800
+[ANGELA]
+Will he be back soon?
+ລາວຈະກັບມາໄວບໍ?
+
+339
+00:21:06,300 --> 00:21:12,300
+[LARCH]
+I don't know! He's just leaving--  you're the one who says he needs to see the world!  *That's* what he'll do--he'll see the world!
+ຂ້ອຍບໍ່ຮູ້! ລາວພຽງແຕ່ອອກຈາກ - ເຈົ້າເປັນຄົນທີ່ເວົ້າວ່າລາວຕ້ອງເຫັນໂລກ
+! * ນັ້ນແມ່ນ* ສິ່ງທີ່ລາວຈະເຮັດ - ລາວຈະເຫັນທົ່ວໂລກ!
+
+340
+00:21:12,800 --> 00:21:14,800
+[EDNA]
+He's leaving...
+ລາວ ກໍາ ລັງອອກໄປ...
+
+341
+00:21:15,300 --> 00:21:17,300
+[ANGELA]
+He'll need clothes... some money...
+ລາວຈະຕ້ອງການເຄື່ອງນຸ່ງຫົ່ມ... ເງິນບາງຢ່າງ...
+
+342
+00:21:17,800 --> 00:21:23,050
+[LARCH]
+Let him try to *make* some money! That's part of "seeing the world," isn't it?
+ໃຫ້ລາວພະຍາຍາມ * ເຮັດເງິນບາງຢ່າງ!
+ນັ້ນແມ່ນສ່ວນ ຫນຶ່ງ ຂອງ"ເບິ່ງໂລກ," ແມ່ນບໍ?
+
+343
+00:21:23,550 --> 00:21:28,800
+[ANGELA]
+Oh, just stop it! You knew this was going to happen. He's a young man.
+ໂອ້, ພຽງແຕ່ຢຸດມັນ! ເຈົ້າຮູ້ວ່າສິ່ງນີ້ຈະເກີດຂຶ້ນ
+. ລາວເປັນຜູ້ຊາຍຫນຸ່ມ.
+
+344
+00:21:29,300 --> 00:21:33,150
+[LARCH]
+He's still a boy--out in the world, he's still a boy.
+ລາວຍັງເປັນເດັກຊາຍ - ຢູ່ພາຍນອກໃນໂລກ, ລາວກໍ່ຍັງເປັນເດັກນ້ອຍ.
+
+345
+00:21:33,650 --> 00:21:37,500
+[ANGELA]
+Just find him some clothes, Wilbur. He could use some clothes.
+ພຽງແຕ່ຊອກເອົາເຄື່ອງນຸ່ງຫົ່ມໃຫ້ລາວ,
+ວີລບູຣ໌. ລາວສາມາດໃຊ້ຜ້າບາງຢ່າງໄດ້.
+
+346
+00:21:38,000 --> 00:21:40,100
+[LARCH]
+I think these will fit you.
+ຂ້ອຍຄິດວ່າສິ່ງເຫຼົ່ານີ້ຈະເຫມາະສົມກັບເຈົ້າ.
+
+347
+00:21:40,600 --> 00:21:44,800
+[EDNA]
+You'll need some money--just a little something, until you find a job.
+ເຈົ້າຈະຕ້ອງການເງິນບາງຢ່າງ - ພຽງແຕ່ບາງສິ່ງບາງຢ່າງນ້ອຍໆ
+, ຈົນກວ່າເຈົ້າຈະຊອກຫາວຽກເຮັດງານທໍາ.
+
+348
+00:21:45,300 --> 00:21:47,300
+[CANDY]
+I'm okay--I can walk.
+ຂ້ອຍບໍ່ເປັນຫຍັງ - ຂ້ອຍສາມາດຍ່າງໄດ້.
+
+349
+00:21:47,800 --> 00:21:53,800
+[WALLY]
+I don't want you to walk--I want to carry you. Should I put the top up? It might get cold.
+ຂ້ອຍບໍ່ຢາກໃຫ້ເຈົ້າຍ່າງ - ຂ້ອຍຢາກຖືເຈົ້າ
+. ຂ້ອຍຄວນເອົາເທິງຂຶ້ນບໍ? ມັນອາດຈະເຢັນ.
+
+350
+00:21:54,300 --> 00:21:57,450
+[CANDY]
+No--keep it down. I want to feel the air.
+ບໍ່ - ຮັກສາມັນລົງ. ຂ້ອຍຢາກຮູ້ສຶກອາກາດ.
+
+351
+00:21:57,950 --> 00:22:03,550
+[CANDY]
+Coming with us? It's always a good idea to have a doctor along for the ride.
+ເຈົ້າຈະມາພ້ອມກັບພວກເຮົາບໍ?
+ມັນເປັນຄວາມຄິດທີ່ດີຢູ່ສະເຫມີທີ່ຈະມີຫມໍພ້ອມກັບໃນການຂີ່ລົດ.
+
+352
+00:22:04,050 --> 00:22:09,300
+[HOMER]
+I have to go, Curly. I'm sorry.  I couldn't find Buster. Will you tell him...
+ຂ້ອຍຕ້ອງໄປ, ຄູລີ. ຂ້ອຍຂໍໂທດ.
+ຂ້ອຍບໍ່ສາມາດຊອກຫາບັສເຕີໄດ້. ເຈົ້າຈະບອກລາວວ່າ...
+
+353
+00:22:09,800 --> 00:22:12,250
+[ANGELA]
+Let us be happy for Homer Wells...
+ຂໍໃຫ້ພວກເຮົາມີຄວາມສຸກ ສໍາ ລັບໂຮມເປີ ເວລສ໌...
+
+354
+00:22:12,750 --> 00:22:15,900
+[ANGELA]
+Homer Wells has found a family. Good night, Homer!
+ໂຮມເປີ ເວລສ໌ໄດ້ພົບຄອບຄົວແລ້ວ. ສະບາຍດີ, ໂອມເປີ!
+
+355
+00:22:16,400 --> 00:22:18,400
+[ALL THE BOYS]
+Good night, Homer!
+ສະບາຍດີ, ໂຮມເປີ!
+
+356
+00:22:18,900 --> 00:22:22,400
+[ALL THE BOYS]
+Good night, Homer! Good night, Homer! Good night, Homer Wells!
+ສະບາຍດີ, ໂຮມເປີ! ສະຫວັດດີ, ໂອເມີ! ສະຫວ່າງ, ໂອມເປີ ເວລສ໌!
+
+357
+00:22:22,900 --> 00:22:28,900
+[WALLY]
+Actually, the Army has given me leave twice. First when my father died, and now I'm on leave to help my mother-- I'm just trying to get her ready for the harvest. She's no farmer. Apples were my dad's business. And with the war on, she's short on pickers.
+ໃນຄວາມເປັນຈິງ, ກອງທັບໄດ້ໃຫ້ຂ້ອຍພັກສອງຄັ້ງ. ທໍາ ອິດເມື່ອພໍ່ຂອງຂ້ອຍຕາຍ, ແລະດຽວນີ້ຂ້ອຍພັກເພື່ອຊ່ວຍແມ່ຂອງຂ້ອຍ - ຂ້ອຍພຽງແຕ່ພະຍາຍາມເຮັດໃຫ້ນາງພ້ອມ
+ສໍາ ລັບການເກັບກ່ຽວ. ນາງບໍ່ແມ່ນຊາວກະສິກອນ. ຫມາກ ໄມ້ແມ່ນທຸລະກິດຂອງພໍ່ຂອງຂ້ອຍ. ແລະດ້ວຍສົງຄາມຕໍ່ໄປ, ນາງຂາດຜູ້ເກັບ.
+
+358
+00:22:29,400 --> 00:22:31,400
+[CANDY]
+Wally thinks apples are boring.
+ວາລີຄິດວ່າ ຫມາກ ໄມ້ເບື່ອຫນ່າຍ.
+
+359
+00:22:31,900 --> 00:22:34,000
+[WALLY]
+I never said they were boring.
+ຂ້ອຍບໍ່ເຄີຍເວົ້າວ່າພວກມັນເບື່ອຫນ່າຍ.
+
+360
+00:22:34,500 --> 00:22:36,600
+[CANDY]
+You said, "Apples aren't exactly flying."
+ເຈົ້າເວົ້າວ່າ," ຫມາກ ໄມ້ບໍ່ໄດ້ບິນແທ້ໆ."
+
+361
+00:22:37,100 --> 00:22:39,100
+[WALLY]
+Well, they aren't.
+ດີ, ພວກເຂົາບໍ່ແມ່ນ.
+
+362
+00:22:39,600 --> 00:22:42,400
+[HOMER]
+I think I'd probably like the apple business.
+ຂ້ອຍຄິດວ່າຂ້ອຍອາດຈະມັກທຸລະກິດແອບເປີ.
+
+363
+00:22:42,900 --> 00:22:45,000
+[WALLY]
+You're a little overqualified, aren't you?
+ເຈົ້າມີຄຸນສົມບັດເກີນໄປເລັກນ້ອຍ, ແມ່ນບໍ?
+
+364
+00:22:45,500 --> 00:22:47,950
+[HOMER]
+No, I'm not. I need a job.
+ບໍ່, ຂ້ອຍບໍ່ແມ່ນ. ຂ້ອຍຕ້ອງການວຽກເຮັດງານທໍາ.
+
+365
+00:22:48,450 --> 00:22:52,300
+[WALLY]
+The only jobs are picking jobs. Picking apples is truly boring.
+ວຽກງານດຽວແມ່ນການເລືອກວຽກງານ. ການເກັບ ຫມາກ ໄມ້ແມ່ນເບື່ອຫນ່າຍແທ້ໆ.
+
+366
+00:22:52,800 --> 00:22:54,900
+[CANDY]
+There! You said it was boring.
+ນັ້ນແລ້ວ! ເຈົ້າບອກວ່າມັນເບື່ອຫນ່າຍ.
+
+367
+00:22:55,400 --> 00:22:58,900
+[WALLY]
+Well, *picking* them is! It's about as exciting as... walking!
+ດີ, * ການເລືອກພວກມັນແມ່ນ! ມັນມີຄວາມຕື່ນເຕັ້ນເທົ່າກັບ... ການຍ່າງ!
+
+368
+00:22:59,400 --> 00:23:02,200
+[HOMER]
+Is your family in the apple business, too?
+ຄອບຄົວຂອງເຈົ້າຍັງຢູ່ໃນທຸລະກິດແອບເປີ້ນບໍ?
+
+369
+00:23:02,700 --> 00:23:06,550
+[CANDY]
+No, but I work there--I like it. My dad's a lobsterman.
+ບໍ່, ແຕ່ຂ້ອຍເຮັດວຽກຢູ່ບ່ອນນັ້ນ -
+ຂ້ອຍມັກມັນ. ພໍ່ຂອງຂ້ອຍເປັນຄົນລອບສເຕີ.
+
+370
+00:23:07,050 --> 00:23:09,050
+[HOMER]
+I've never seen a lobster.
+ຂ້ອຍບໍ່ເຄີຍເຫັນຫອຍຫອຍ.
+
+371
+00:23:09,550 --> 00:23:11,550
+[CANDY]
+Really?
+ແທ້ບໍ?
+
+372
+00:23:12,050 --> 00:23:14,150
+[HOMER]
+I've never seen the ocean, either.
+ຂ້ອຍຍັງບໍ່ເຄີຍເຫັນມະຫາສະຫມຸດເລີຍ.
+
+373
+00:23:14,650 --> 00:23:16,650
+[WALLY]
+You've never seen the *ocean*?
+ເຈົ້າບໍ່ເຄີຍເຫັນ * ມະຫາສະຫມຸດ * ບໍ?
+
+374
+00:23:17,150 --> 00:23:19,150
+[WALLY]
+That's not funny... that's *serious*.
+ນັ້ນບໍ່ແມ່ນເລື່ອງມ່ວນຊື່ນ... ນັ້ນແມ່ນ * ຢ່າງຈິງໃຈ*.
+
+375
+00:23:19,650 --> 00:23:25,250
+[CANDY]
+I couldn't have a baby with someone who's leaving me--I didn't know what else to do!
+ຂ້ອຍບໍ່ສາມາດມີລູກໄດ້ກັບຄົນທີ່ຈະອອກຈາກຂ້ອຍ
+- ຂ້ອຍບໍ່ຮູ້ວ່າຈະເຮັດຫຍັງອີກ!
+
+376
+00:23:25,750 --> 00:23:27,750
+[HOMER]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+377
+00:23:28,250 --> 00:23:33,500
+[CANDY]
+He's going to be dropping bombs on Mandalay! They're going to be shooting at him!
+ລາວຈະຖິ້ມລະເບີດໃສ່ແມນດາເລຍ! ພວກເຂົາຈະຍິງລາວ!
+
+378
+00:23:34,000 --> 00:23:36,000
+[HOMER]
+Where's Mandalay?
+ແມນດາເລີຢູ່ໃສ?
+
+379
+00:23:36,500 --> 00:23:38,500
+[CANDY]
+Burma!
+ບີຣາມາ!
+
+380
+00:23:39,000 --> 00:23:41,000
+[HOMER]
+Oh...
+ໂອ້...
+
+381
+00:23:41,500 --> 00:23:46,400
+[CANDY]
+I can't have a baby alone. I don't even know if he's coming back!
+ຂ້ອຍບໍ່ສາມາດມີລູກໄດ້ຄົນດຽວ. ຂ້ອຍຍັງບໍ່ຮູ້ວ່າລາວຈະກັບມາບໍ!
+
+382
+00:23:46,900 --> 00:23:48,900
+[HOMER]
+I understand.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+383
+00:23:49,400 --> 00:23:51,850
+[WALLY]
+Honey, honey... of course I'll come back.
+ແມ, ແມ... ແນ່ນອນວ່າຂ້ອຍຈະກັບມາ.
+
+384
+00:23:52,350 --> 00:23:55,150
+[CANDY]
+You don't *know*, Wally. You have no *idea*!
+ເຈົ້າບໍ່ * ຮູ້*, ວາລີ. ເຈົ້າບໍ່ມີ * ແນວຄິດ*!
+
+385
+00:23:55,650 --> 00:23:57,650
+[CANDY]
+Stay away from me!
+ຢູ່ຫ່າງຈາກຂ້ອຍ!
+
+386
+00:23:58,150 --> 00:24:04,150
+[HOMER]
+This is all normal. Don't worry. The abortion procedure... it affects you. It's the ether, too. It'll take a little time.
+ນີ້ແມ່ນປົກກະຕິທັງ ຫມົດ. ຢ່າກັງວົນ. ຂັ້ນຕອນການອອກລູກ...
+ມັນສົ່ງຜົນກະທົບຕໍ່ເຈົ້າ. ມັນແມ່ນເອເຕີເຊັ່ນກັນ. ມັນຈະໃຊ້ເວລາ ຫນ້ອຍ ຫນຶ່ງ.
+
+387
+00:24:04,650 --> 00:24:07,450
+[WALLY]
+I don't *have* any time. There's a *war*!
+ຂ້ອຍບໍ່ມີເວລາໃດໆ. ມີສົງຄາມ!
+
+388
+00:24:07,950 --> 00:24:09,950
+[HOMER]
+It's all very normal.
+ມັນປົກກະຕິຫຼາຍ.
+
+389
+00:24:10,450 --> 00:24:13,950
+[WALLY]
+You ought to cut that shit out--it's terrible for you.
+ເຈົ້າຄວນຕັດສິ່ງນັ້ນອອກ - ມັນຮ້າຍແຮງ ສໍາ ລັບເຈົ້າ.
+
+390
+00:24:14,450 --> 00:24:18,650
+[CANDY]
+I'm a little worried about the...  ...about how much bleeding is okay.
+ຂ້ອຍກັງວົນເລັກນ້ອຍກ່ຽວກັບ......
+ກ່ຽວກັບການເລືອດຫຼາຍປານໃດບໍ່ເປັນຫຍັງ.
+
+391
+00:24:19,150 --> 00:24:25,150
+[HOMER]
+It should taper off tomorrow, but it can come back again. You have cramps?  They'll ease up, almost entirely. As long as the bleeding isn't heavy, it's normal.
+ມັນຄວນຫຼຸດລົງມື້ອື່ນ, ແຕ່ມັນສາມາດກັບມາອີກຄັ້ງ. ເຈົ້າມີຄຣາມບ໌ບໍ?
+ພວກເຂົາຈະຜ່ອນຜັນລົງ, ເກືອບທັງ ຫມົດ. ຕາບໃດທີ່ເລືອດບໍ່ຫນັກ, ມັນປົກກະຕິ.
+
+392
+00:24:25,650 --> 00:24:27,650
+[WALLY]
+Catch!
+ຈັບ!
+
+393
+00:24:28,150 --> 00:24:30,150
+[WALLY]
+Give it here!
+ໃຫ້ມັນມາບ່ອນນີ້!
+
+394
+00:24:30,650 --> 00:24:32,750
+[WALLY]
+What was *that*?! Come over here!
+ນັ້ນແມ່ນຫຍັງ * ນັ້ນ*?! ມາບ່ອນນີ້!
+
+395
+00:24:33,250 --> 00:24:38,500
+[WALLY]
+It's called the Burma run. It's about a seven-hour round-trip flight between India and China.
+ມັນເອີ້ນວ່າການແລ່ນມຽນມາ.
+ມັນແມ່ນການບິນທາງກັບຄືນໄປບ່ອນປະມານເຈັດຊົ່ວໂມງລະຫວ່າງອິນເດຍແລະຈີນ.
+
+396
+00:24:39,000 --> 00:24:41,450
+[HOMER]
+"Burma run" because you fly over Burma...
+"ແລ່ນມຽນມາ" ເພາະວ່າເຈົ້າບິນຜ່ານມຽນມາກ...
+
+397
+00:24:41,950 --> 00:24:45,450
+[WALLY]
+*And* over the Himalayas. That's called flying over the hump.
+* ແລະ * ຢູ່ເທິງພູຮິມາລາຢາ. ນັ້ນເອີ້ນວ່າການບິນຢູ່ເທິງ hump ໄດ້.
+
+398
+00:24:45,950 --> 00:24:47,950
+[HOMER]
+At what altitude?
+ຢູ່ຄວາມສູງໃດ?
+
+399
+00:24:48,450 --> 00:24:53,350
+[WALLY]
+I've got thirty-five minutes to climb to fifteen thousand feet--that's the first mountain pass.
+ຂ້ອຍມີເວລາສາມສິບຫ້ານາທີທີ່ຈະຂຶ້ນໄປຫ້າສິບພັນຕີນ
+- ນັ້ນແມ່ນຜ່ານພູທໍາອິດ.
+
+400
+00:24:53,850 --> 00:24:58,050
+[HOMER]
+What lousy luck--I mean your orders... to draw an assignment like that!
+ໂຊກດີຫຼາຍປານໃດ - ຂ້ອຍຫມາຍຄວາມວ່າ ຄໍາ
+ສັ່ງຂອງທ່ານ... ເພື່ອແຕ້ມຫນ້າທີ່ເຊັ່ນນັ້ນ!
+
+401
+00:24:58,550 --> 00:25:00,550
+[WALLY]
+Actually, I volunteered.
+ໃນຄວາມເປັນຈິງ, ຂ້ອຍເປັນອາສາສະຫມັກ.
+
+402
+00:25:01,050 --> 00:25:04,550
+[HOMER]
+It's the flying, right? You love to fly, don't you?
+ມັນເປັນການບິນ, ແມ່ນບໍ? ເຈົ້າມັກບິນ, ບໍ່?
+
+403
+00:25:05,050 --> 00:25:11,050
+[WALLY]
+I love the bombing, too. But there's also the Himalayas--they have the most wicked air currents in the world. I wouldn't miss flying there for anything.
+ຂ້ອຍມັກການວາງລະເບີດເຊັ່ນກັນ. ແຕ່ຍັງມີຮິມາລາຢາອີກດ້ວຍ -
+ພວກເຂົາມີສາຍອາກາດທີ່ຮ້າຍແຮງທີ່ສຸດໃນໂລກ. ຂ້ອຍຈະບໍ່ພາດການບິນໄປບ່ອນນັ້ນ ສໍາ ລັບຫຍັງເລີຍ.
+
+404
+00:25:11,550 --> 00:25:16,450
+[WALLY]
+Uh, look... if you're serious about wanting a job, picking apples isn't that boring.
+ໂອ້, ເບິ່ງ... ຖ້າເຈົ້າຈິງໃຈກ່ຽວກັບການຕ້ອງການວຽກເຮັດງານທໍາ
+, ການເກັບ ຫມາກ ໄມ້ບໍ່ແມ່ນເລື່ອງເບື່ອຫນ່າຍຫຼາຍ.
+
+405
+00:25:16,950 --> 00:25:19,050
+[HOMER]
+Oh, I would love that, Wally.
+ໂອ້, ຂ້ອຍຢາກເຮັດແບບນັ້ນ, ວາລີ.
+
+406
+00:25:19,550 --> 00:25:23,400
+[CANDY]
+I guess I'll see you around the orchards. Thanks for everything.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະເຫັນເຈົ້າຢູ່ອ້ອມສວນຫມາກໄມ້. ຂອບໃຈ ສໍາ ລັບທຸກຢ່າງ.
+
+407
+00:25:23,900 --> 00:25:25,900
+[HOMER]
+Sure... I'll see you around.
+ແນ່ນອນ... ຂ້ອຍຈະເຫັນເຈົ້າຢູ່ອ້ອມຂ້າງ.
+
+408
+00:25:26,400 --> 00:25:28,400
+[CANDY]
+I love you, Wally.
+ຂ້ອຍຮັກເຈົ້າ, ວາລີ.
+
+409
+00:25:28,900 --> 00:25:31,350
+[WALLY]
+I love you, too. See you tomorrow.
+ຂ້ອຍຮັກເຈົ້າຄືກັນ. ພົບກັນມື້ອື່ນ.
+
+410
+00:25:31,850 --> 00:25:37,850
+[WALLY]
+Come on. You have to meet my mom.  If it comes up, I've been at a wedding. That's where I met you, at the wedding.
+ມາແລ້ວ. ເຈົ້າຕ້ອງພົບກັບແມ່ຂອງຂ້ອຍ. ຖ້າມັນເກີດຂຶ້ນ,
+ຂ້ອຍໄດ້ໄປງານແຕ່ງງານແລ້ວ. ນັ້ນແມ່ນບ່ອນທີ່ຂ້ອຍພົບເຈົ້າ, ໃນງານແຕ່ງດອງ.
+
+411
+00:25:38,350 --> 00:25:40,350
+[OLIVE]
+Wally? I expected you earlier...
+ວາລີ? ຂ້ອຍຄາດວ່າເຈົ້າຈະມາກ່ອນ...
+
+412
+00:25:40,850 --> 00:25:46,850
+[WALLY]
+This is Homer Wells--he's the most overqualified apple picker you'll ever meet, but he's dying to learn the apple business.
+ນີ້ແມ່ນໂຮມເປີ ເວລສ໌ - ລາວເປັນຜູ້ເກັບ ຫມາກ ໄມ້ທີ່ມີຄຸນສົມບັດເກີນໄປທີ່ສຸດທີ່ທ່ານຈະພົບເຫັນ
+, ແຕ່ລາວ ກໍາ ລັງຕາຍເພື່ອຮຽນຮູ້ທຸລະກິດຫມາກ ໄມ.
+
+413
+00:25:47,350 --> 00:25:49,450
+[OLIVE]
+How do you do, Homer Wells...
+ເຈົ້າເຮັດແນວໃດ, ໂຮມເປີ ເວລສ໌...
+
+414
+00:25:49,950 --> 00:25:51,950
+[HOMER]
+How do you do...
+ເຈົ້າເຮັດແນວໃດ...
+
+415
+00:25:52,450 --> 00:25:55,950
+[OLIVE]
+Were you a friend of the bride or the groom?
+ເຈົ້າເປັນເພື່ອນຂອງສາວຫຼືຜົວບໍ?
+
+416
+00:25:56,450 --> 00:26:00,650
+[WALLY]
+Homer is everybody's friend, Mom... the bride's, the groom's, mine, Candy's, *everybody's*.
+ໂຮມເປີເປັນເພື່ອນຂອງທຸກຄົນ, ແມ່... ຂອງສາວ,
+ຂອງຜົວເມຍ, ຂອງຂ້ອຍ, ຂອງແຄນດີ, * ຂອງທຸກຄົນ*.
+
+417
+00:26:01,150 --> 00:26:03,600
+[OLIVE]
+Well, perhaps you'll come to dinner, Homer...
+ດີ, ບາງທີເຈົ້າຈະມາກິນອາຫານຄໍ່າ, ໂຮມເປີ...
+
+418
+00:26:04,100 --> 00:26:06,900
+[WALLY]
+Not tonight, Mom--he's got to meet *Mr. Rose*!
+ບໍ່ໃນຄືນນີ້, ແມ່ - ລາວຕ້ອງພົບກັບ * ທ້າວຣູສ໌ *!
+
+419
+00:26:07,400 --> 00:26:09,850
+[JACK]
+You already used up the hot water!
+ເຈົ້າໃຊ້ນ້ ໍາ ຮ້ອນແລ້ວ!
+
+420
+00:26:10,350 --> 00:26:12,450
+[MUDDY]
+You're usin' my soap, ain't you?
+ເຈົ້າ ກໍາ ລັງໃຊ້ສະບູຂອງຂ້ອຍ, ແມ່ນບໍ?
+
+421
+00:26:12,950 --> 00:26:16,800
+[JACK]
+I ain't usin' no soap--it's too cold to bother with soap!
+ຂ້ອຍບໍ່ໄດ້ໃຊ້ຊັບປິນໃດໆ - ມັນເຢັນເກີນໄປທີ່ຈະກັງວົນກັບສະບູ!
+
+422
+00:26:17,300 --> 00:26:20,800
+[MUDDY]
+There ain't never enough hot water, soap or no soap.
+ບໍ່ເຄີຍມີນ້ ໍາ ຮ້ອນພຽງພໍ, ສະບູຫຼືບໍ່ມີສະບູ.
+
+423
+00:26:21,300 --> 00:26:23,300
+[WALLY]
+They're migrants.
+ພວກເຂົາເປັນຄົນເຂົ້າເມືອງ.
+
+424
+00:26:23,800 --> 00:26:25,800
+[HOMER]
+Migrants?
+ພວກອົບພະຍົບບໍ?
+
+425
+00:26:26,300 --> 00:26:32,300
+[WALLY]
+Yes. They pick fruit, all kinds. They travel up and down the coast with the seasons.  The trick to Mr. Rose is, you have to let him be the boss.
+ແມ່ນແລ້ວ. ພວກເຂົາເກັບຫມາກໄມ້ທຸກຊະນິດ. ພວກເຂົາເດີນທາງຂຶ້ນແລະລົງແຄມຝັ່ງທະເລຕາມລະດູການ
+. ກະຕຸ້ນຕໍ່ທ່ານຣູຊ໌ແມ່ນ, ເຈົ້າຕ້ອງປ່ອຍໃຫ້ລາວເປັນຫົວຫນ້າ.
+
+426
+00:26:32,800 --> 00:26:38,050
+[ROSE ROSE]
+That sink's backed up again, Wally. I thought you was gonna get me a plumber.
+ເຄື່ອງລ້າງນ້ ໍາ ນັ້ນຖືກປິດຄືນອີກແລ້ວ, ວາລີ.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະເອົາຄົນເຮັດທໍ່ນ້ ໍາ ໃຫ້ຂ້ອຍ.
+
+427
+00:26:38,550 --> 00:26:42,050
+[WALLY]
+Rose, this is Homer--Homer, this is Mr. Rose's daughter, Rose.
+ໂຣຊສ໌, ນີ້ແມ່ນໂຮມເປີ - ໂຮມເຊີ, ນີ້ແມ່ນລູກສາວຂອງທ່ານໂຣຊ໌, ໂຣສ໌.
+
+428
+00:26:42,550 --> 00:26:44,550
+[HOMER]
+Rose Rose?
+ໂຣຊສ໌ ໂຣສສ໌?
+
+429
+00:26:45,050 --> 00:26:47,150
+[ROSE ROSE]
+Pretty, ain't it? You a plumber?
+ງາມ, ແມ່ນບໍ? ເຈົ້າເປັນຄົນເຮັດທໍ່ນ້ ໍາ ບໍ?
+
+430
+00:26:47,650 --> 00:26:52,200
+[WALLY]
+No, no--Homer is a new *picker*. He's going to stay here with you.
+ບໍ່, ບໍ່ - ໂຮມເປີເປັນ * ຜູ້ເລືອກໃຫມ່*. ລາວຈະຢູ່ບ່ອນນີ້ກັບເຈົ້າ.
+
+431
+00:26:52,700 --> 00:26:54,700
+[ROSE ROSE]
+He's stayin' *here*?
+ລາວຢູ່ບ່ອນນີ້ບໍ?
+
+432
+00:26:55,200 --> 00:26:59,050
+[MR. ROSE]
+That daughter of mine sure is Miss Hospitality, ain't she, Wally?
+ລູກສາວຂອງຂ້ອຍນັ້ນແນ່ນອນວ່າເປັນນາງນາງຕ້ອນຮັບ, ແມ່ນບໍ, ວາລີ?
+
+433
+00:26:59,550 --> 00:27:02,350
+[MR. ROSE]
+You got lots of experience pickin', I suppose.
+ເຈົ້າມີປະສົບການໃນການເລືອກຫຼາຍ, ຂ້ອຍຄິດວ່າ.
+
+434
+00:27:02,850 --> 00:27:08,100
+[WALLY]
+Homer's got no experience, Arthur, but he's smarter then I am. He's a fast learner.
+ໂຮມເປີບໍ່ມີປະສົບການ, ແອດເຕີ,
+ແຕ່ລາວສະຫຼາດກວ່າຂ້ອຍ. ລາວເປັນນັກຮຽນໄວ.
+
+435
+00:27:08,600 --> 00:27:14,600
+[MR. ROSE]
+This is history. Ain't that what you're sayin', Wally? I guess we makin' *history*... havin' this young man stay with us!
+ນີ້ແມ່ນປະຫວັດສາດ. ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ເຈົ້າ ກໍາ ລັງເວົ້າ, ວາລີ? ຂ້ອຍຄິດວ່າພວກເຮົາ
+ກໍາ ລັງສ້າງ * ປະຫວັດສາດ *... ມີຜູ້ຊາຍຫນຸ່ມຄົນນີ້ຢູ່ກັບພວກເຮົາ!
+
+436
+00:27:15,100 --> 00:27:17,100
+[WALLY]
+See you later.
+ພົບກັນຕໍ່ມາ.
+
+437
+00:27:17,600 --> 00:27:19,700
+[HOMER]
+So. What should I do now?
+ສະນັ້ນ. ຂ້ອຍຄວນເຮັດແນວໃດດຽວນີ້?
+
+438
+00:27:20,200 --> 00:27:26,200
+[MR. ROSE]
+Out back, there's a shed. It's just a mess. If that shed was better organized, I could put my truck in there.
+ຢູ່ທາງຫຼັງ, ມີໂຊກແຊງ. ມັນເປັນພຽງແຕ່ຄວາມສັບສົນ.
+ຖ້າໂຊຄແຊນນັ້ນຖືກຈັດຕັ້ງທີ່ດີກວ່າ, ຂ້ອຍສາມາດເອົາລົດບັນທຸກຂອງຂ້ອຍໄວ້ບ່ອນນັ້ນໄດ້.
+
+439
+00:27:26,700 --> 00:27:32,700
+[MR. ROSE]
+If you're as smart as Wally says, you know you sometimes gotta do one job before you do another.
+ຖ້າເຈົ້າສະຫຼາດເທົ່າທີ່ວໍລີເວົ້າ,
+ເຈົ້າຮູ້ວ່າບາງຄັ້ງເຈົ້າຕ້ອງເຮັດວຽກຫນຶ່ງກ່ອນທີ່ຈະເຮັດອີກຫນຶ່ງ.
+
+440
+00:27:33,200 --> 00:27:36,350
+[MR. ROSE]
+You did a good job with that shed, Homer.
+ເຈົ້າເຮັດວຽກທີ່ດີກັບກະຕ່ານັ້ນ, ໂຮມເປີ.
+
+441
+00:27:36,850 --> 00:27:39,300
+[PEACHES]
+What kind of a name is Homer?
+ຊື່ໂຮມເປີເປັນຫຍັງ?
+
+442
+00:27:39,800 --> 00:27:43,300
+[HOMER]
+It's the name of a cat. Originally. Well, not *originally*.
+ມັນເປັນຊື່ຂອງແມວ. ໃນຕົ້ນສະບັບ. ດີ, ບໍ່ແມ່ນ * ໃນ ຕົ້ນສະບັບ *.
+
+443
+00:27:43,800 --> 00:27:49,800
+[MR. ROSE]
+Now, now--we all got names, sensible or not.  Peaches is from Georgia, where we met him pickin' peaches. He's still better with peaches than hs is with apples.  Jack here is new. And this here is Hero, 'cause he was a hero of some kind or other once. Ain't that right, Hero?
+ດຽວນີ້, ດຽວນີ້ - ພວກເຮົາທຸກຄົນມີຊື່, ມີຄວາມສົມເຫດສົມຜົນຫຼືບໍ່. Peaches ແມ່ນມາຈາກຈໍເຈຍ, ບ່ອນທີ່ພວກເຮົາພົບລາວ ກໍາ ລັງເກັບ peaches. ລາວຍັງດີກວ່າກັບ
+peach ກວ່າ hs ແມ່ນກັບ ຫມາກ ໄມ້. ແຈກຢູ່ນີ້ແມ່ນໃຫມ່. ແລະນີ້ແມ່ນເຮໂຣ, ເພາະວ່າລາວເປັນວິລະຊົນຂອງປະເພດໃດຫນຶ່ງຫຼືອື່ນຫນຶ່ງຄັ້ງຫນຶ່ງ. ບໍ່ຖືກຕ້ອງບໍ, ເຮໂຣ?
+
+444
+00:27:50,300 --> 00:27:56,300
+[MR. ROSE]
+And this here sensitive-lookin' fella is Muddy. The less said about Muddy, the better. Ain't that right, Muddy?
+ແລະຄົນນີ້ທີ່ເບິ່ງຄືວ່າມີຄວາມຮູ້ສຶກແມ່ນມູດດີ. ເວົ້າ ຫນ້ອຍ
+ກວ່າກ່ຽວກັບ ມູດດີ, ດີກວ່າເກົ່າ. ບໍ່ຖືກຕ້ອງບໍ, ມຸດດີ?
+
+445
+00:27:56,800 --> 00:27:58,800
+[ROSE ROSE]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+446
+00:27:59,300 --> 00:28:01,300
+[HOMER]
+It's just my heart.
+ມັນພຽງແຕ່ຫົວໃຈຂອງຂ້ອຍເທົ່ານັ້ນ.
+
+447
+00:28:01,800 --> 00:28:04,950
+[ROSE ROSE]
+What you got a picture of your heart for?
+ເຈົ້າມີຮູບຫົວໃຈຂອງເຈົ້າເປັນຫຍັງ?
+
+448
+00:28:05,450 --> 00:28:11,050
+[HOMER]
+There's a little something wrong with it. Just this part here--the right ventricle. It's slightly enlarged.
+ມີບາງສິ່ງບາງຢ່າງທີ່ຜິດພາດກັບມັນ.
+ພຽງແຕ່ສ່ວນນີ້ຢູ່ນີ້ - ກະດູກຂວາ. ມັນຂະຫຍາຍຂະຫນາດນ້ອຍ.
+
+449
+00:28:11,550 --> 00:28:13,550
+[ROSE ROSE]
+So what?
+ສະນັ້ນຫຍັງ?
+
+450
+00:28:14,050 --> 00:28:17,900
+[HOMER]
+Yes, so what. It's nothing serious, really. Just a small defect.
+ແມ່ນແລ້ວ, ສະນັ້ນຫຍັງ. ມັນບໍ່ມີຫຍັງຮ້າຍແຮງ
+, ແທ້ຈິງແລ້ວ. ພຽງແຕ່ຂໍ້ບົກຜ່ອງນ້ອຍໆ.
+
+451
+00:28:18,400 --> 00:28:23,650
+[MR. ROSE]
+It's big enough to keep you out of the war, I suppose. Ain't that right?
+ມັນໃຫຍ່ພໍທີ່ຈະເຮັດໃຫ້ເຈົ້າອອກຈາກສົງຄາມ
+, ຂ້ອຍຄິດວ່າ. ມັນບໍ່ຖືກຕ້ອງບໍ?
+
+452
+00:28:24,150 --> 00:28:26,150
+[HOMER]
+Right.
+ແມ່ນແລ້ວ.
+
+453
+00:28:26,650 --> 00:28:29,800
+[MR. ROSE]
+They told me I was too old to serve.
+ພວກເຂົາບອກຂ້ອຍວ່າຂ້ອຍອາຍຸເກີນໄປທີ່ຈະຮັບໃຊ້.
+
+454
+00:28:30,300 --> 00:28:33,100
+[PEACHES]
+They told Muddy his feet was too flat!
+ພວກເຂົາບອກມູດດີວ່າຕີນຂອງລາວສຽບເກີນໄປ!
+
+455
+00:28:33,600 --> 00:28:36,400
+[MUDDY]
+And you was "generally unfit," as I recall.
+ແລະເຈົ້າແມ່ນ"ບໍ່ເຫມາະສົມໂດຍທົ່ວໄປ", ຕາມທີ່ຂ້ອຍຈື່ໄວ້.
+
+456
+00:28:36,900 --> 00:28:38,900
+[HOMER]
+Do you like to read?
+ເຈົ້າມັກອ່ານບໍ?
+
+457
+00:28:39,400 --> 00:28:41,500
+[ROSE ROSE]
+I can't read. Nobody taught me.
+ຂ້ອຍອ່ານບໍ່ໄດ້. ບໍ່ມີໃຜສອນຂ້ອຍ.
+
+458
+00:28:42,000 --> 00:28:44,000
+[ROSE ROSE]
+What does it say there?
+ມັນຂຽນຫຍັງຢູ່ບ່ອນນັ້ນ?
+
+459
+00:28:44,500 --> 00:28:50,500
+[HOMER]
+"I looked at the stars, and considered how awful it would be for a man to turn his face to them as he froze to death, and see no help or pity in all the glittering multitude."
+ຂ້ອຍເບິ່ງດາວ, ແລະພິຈາລະນາວ່າມັນຈະຮ້າຍແຮງຫຼາຍປານໃດ ສໍາ ລັບຜູ້ຊາຍທີ່ຈະຫັນໃບຫນ້າໄປຫາພວກມັນໃນຂະນະທີ່ລາວເຢັນຈົນຕາຍ
+, ແລະບໍ່ເຫັນຄວາມຊ່ວຍເຫຼືອຫຼືຄວາມເມດຕາໃນຄົນຊົມເຊີຍທັງ ຫມົດ.
+
+460
+00:28:51,000 --> 00:28:53,000
+[HOMER]
+More?
+ອີກບໍ?
+
+461
+00:28:53,500 --> 00:28:57,350
+[JACK]
+Since you're the one who's smart enough to read... what's this?
+ເນື່ອງຈາກວ່າເຈົ້າເປັນຄົນທີ່ສະຫຼາດພໍທີ່ຈະອ່ານ... ນີ້ແມ່ນຫຍັງ?
+
+462
+00:28:57,850 --> 00:29:00,300
+[HOMER]
+It's a list of rules, it seems.
+ມັນເບິ່ງຄືວ່າເປັນບັນຊີລາຍຊື່ຂອງກົດລະບຽບ.
+
+463
+00:29:00,800 --> 00:29:02,800
+[ROSE ROSE]
+*Whose* rules?
+ກົດລະບຽບຂອງໃຜ?
+
+464
+00:29:03,300 --> 00:29:05,300
+[MUDDY]
+They're for us, I suppose.
+ພວກເຂົາແມ່ນສໍາລັບພວກເຮົາ, ຂ້ອຍຄິດວ່າ.
+
+465
+00:29:05,800 --> 00:29:07,900
+[JACK]
+Go on and read 'em, Homer.
+ໄປອ່ານພວກມັນ, ໂຮມເປີ.
+
+466
+00:29:08,400 --> 00:29:10,500
+[HOMER]
+"One. Please don't smoke in bed."
+ຫນຶ່ງ. ກະລຸນາຢ່າສູບຢາໃນຕຽງ.
+
+467
+00:29:11,000 --> 00:29:13,100
+[ROSE ROSE]
+It's too late for that one!
+ມັນຊ້າເກີນໄປ ສໍາ ລັບຄົນນັ້ນ!
+
+468
+00:29:13,600 --> 00:29:19,600
+[MR. ROSE]
+Stop it, Homer. They aren't our rules. We didn't write them. I don't see no reason to read them.
+ຢຸດຢັ້ງ, ໂຮມເປີ. ພວກເຂົາບໍ່ແມ່ນກົດລະບຽບຂອງພວກເຮົາ.
+ພວກເຮົາບໍ່ໄດ້ຂຽນພວກມັນ. ຂ້ອຍບໍ່ເຫັນເຫດຜົນທີ່ຈະອ່ານພວກມັນເລີຍ.
+
+469
+00:29:20,100 --> 00:29:22,100
+[HOMER]
+Okay...
+ດີແລ້ວ...
+
+470
+00:29:22,600 --> 00:29:26,450
+[LARCH]
+Good night, you Princes of Maine! You Kings of New England.
+ສະບາຍດີ, ເຈົ້າຂອງເມນ! ເຈົ້າຂອງນິວອັງກິດ.
+
+471
+00:29:26,950 --> 00:29:32,950
+[WALLY]
+Remember this! In the morning, when the tall grass is wet, you can make the Jeep slide on the grass. Can you feel it?
+ຈື່ສິ່ງນີ້ໄວ້! ໃນຕອນເຊົ້າ, ເມື່ອຫຍ້າສູງຊຸ່ມຊື່ນ,
+ເຈົ້າສາມາດເຮັດໃຫ້ຈິບລອຍລົງເທິງຫຍ້າໄດ້. ເຈົ້າຮູ້ສຶກມັນໄດ້ບໍ?
+
+472
+00:29:33,450 --> 00:29:35,450
+[WALLY]
+It's almost like flying.
+ມັນເກືອບຄືກັບການບິນ.
+
+473
+00:29:35,950 --> 00:29:37,950
+[HOMER]
+What about the trees?
+ແລະຕົ້ນໄມ້ແນວໃດ?
+
+474
+00:29:38,450 --> 00:29:42,300
+[WALLY]
+The trees are flak--antiaircraft fire from those geeks on the ground.
+ຕົ້ນໄມ້ແມ່ນ flak -
+ການຍິງຕໍ່ຕ້ານເຮືອບິນຈາກຄົນໂຊກຮ້າຍທີ່ຢູ່ເທິງດິນນັ້ນ.
+
+475
+00:29:42,800 --> 00:29:47,000
+[WALLY]
+I was just showing Homer the orchards... kind of a geography lesson.
+ຂ້ອຍພຽງແຕ່ສະແດງສວນຫມາກໄມ້ໃຫ້ໂຮມເປີ... ເປັນບົດຮຽນພູມສາດບາງຢ່າງ.
+
+476
+00:29:47,500 --> 00:29:49,600
+[CANDY]
+I know what you've been doing.
+ຂ້ອຍຮູ້ວ່າເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່.
+
+477
+00:29:50,100 --> 00:29:52,550
+[CANDY]
+You've been giving him a *flying* lesson!
+ເຈົ້າ ກໍາ ລັງໃຫ້ລາວບົດຮຽນ * ການບິນ!
+
+478
+00:29:53,050 --> 00:29:55,050
+[WALLY]
+He *loved* it!  Didn't you?
+ລາວ * ຮັກມັນ! ເຈົ້າບໍ່?
+
+479
+00:29:55,550 --> 00:29:57,550
+[HOMER]
+Yeah, it was great.
+ແມ່ນແລ້ວ, ມັນດີເລີດ.
+
+480
+00:29:58,050 --> 00:30:01,200
+[CANDY]
+He thinks people *like* to get whacked by branches.
+ລາວຄິດວ່າຄົນ * ມັກ * ຈະຖືກຂ້າໂດຍສາຂາ.
+
+481
+00:30:01,700 --> 00:30:03,700
+[WALLY]
+*Homer* liked it!  Didn't you?
+ໂຮມເປີ ມັກມັນ! ເຈົ້າບໍ່?
+
+482
+00:30:04,200 --> 00:30:07,350
+[HOMER]
+Yeah, sure. There's no stress or strain around here...
+ແມ່ນແລ້ວ, ແນ່ນອນ. ບໍ່ມີຄວາມກົດດັນຫຼືຄວາມເຄັ່ງຕຶງຢູ່ບ່ອນນີ້...
+
+483
+00:30:07,850 --> 00:30:09,850
+[VERNON]
+What's wrong with you?
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+484
+00:30:10,350 --> 00:30:16,350
+[MR. ROSE]
+That's Vernon. You best stay away from him until he gets to know you better--then you best stay away from him *more*!
+ນັ້ນແມ່ນເວຣນອນ. ເຈົ້າຄວນຢູ່ຫ່າງຈາກລາວຈົນກວ່າລາວຈະຮູ້ຈັກເຈົ້າດີກວ່າເກົ່າ
+- ຫຼັງຈາກນັ້ນເຈົ້າຄວນຢູ່ໄກຈາກລາວ * ອີກ *!
+
+485
+00:30:16,850 --> 00:30:19,650
+[MR. ROSE]
+Out lieutenant's calling you, Homer. Mind your ass.
+ພົນຈັດຕະວາພາຍນອກ ກໍາ ລັງໂທຫາເຈົ້າ, ໂຮມເປີ. ລະວັງຫລັງຂອງທ່ານ.
+
+486
+00:30:20,150 --> 00:30:22,150
+[WALLY]
+You getting along okay?
+ເຈົ້າຢູ່ດີບໍ?
+
+487
+00:30:22,650 --> 00:30:24,650
+[BIG DOT]
+Where is that Candy?
+ແຄນດີນັ້ນຢູ່ໃສ?
+
+488
+00:30:25,150 --> 00:30:27,150
+[FLORENCE]
+Did she leave you, Wally?
+ນາງໄດ້ອອກຈາກເຈົ້າບໍ, ວາລີ?
+
+489
+00:30:27,650 --> 00:30:29,650
+[DEBRA]
+Who's the boy?
+ເດັກຊາຍແມ່ນໃຜ?
+
+490
+00:30:30,150 --> 00:30:33,300
+[FLORENCE]
+Wally, you can marry Debra if Candy leaves you!
+ວາລີ, ເຈົ້າສາມາດແຕ່ງງານກັບເດບຣາໄດ້ຖ້າແຄນດີອອກຈາກເຈົ້າ!
+
+491
+00:30:33,800 --> 00:30:36,600
+[BIG DOT]
+Wally's gonna marry *me* if Candy leaves him!
+ວາລີຈະແຕ່ງງານກັບຂ້ອຍ * ຖ້າແຄນດີອອກຈາກລາວ!
+
+492
+00:30:37,100 --> 00:30:39,900
+[DEBRA]
+You can marry all three of us, Wally!
+ເຈົ້າສາມາດແຕ່ງງານພວກເຮົາທັງສາມໄດ້, ວາລີ!
+
+493
+00:30:40,400 --> 00:30:42,400
+[FLORENCE]
+We can take turns.
+ພວກເຮົາສາມາດປ່ຽນກັນໄດ້.
+
+494
+00:30:42,900 --> 00:30:48,900
+[WALLY]
+You girls make it hard for a guy to go off to war.  But I'll leave my best man here to pinch-hit for me.
+ພວກເຈົ້າເຮັດໃຫ້ມັນຍາກ ສໍາ ລັບຜູ້ຊາຍທີ່ຈະໄປສົງຄາມ.
+ແຕ່ຂ້ອຍຈະປ່ອຍຜູ້ຊາຍທີ່ດີທີ່ສຸດຂອງຂ້ອຍຢູ່ນີ້ເພື່ອຈັບຂ້ອຍ.
+
+495
+00:30:49,400 --> 00:30:55,400
+[WALLY]
+Uh... I'm shipping out sooner than I thought. I just wanted to be sure you were settled in--and happy enough, considering...  Are you bored stiff? Or can you stick it out for a bit?
+ໂອ້... ຂ້ອຍ ກໍາ ລັງອອກໄປກ່ອນທີ່ຂ້ອຍຄິດ. ຂ້ອຍພຽງແຕ່ຢາກແນ່ໃຈວ່າເຈົ້າຕັ້ງຖິ່ນຖານຢູ່ -
+ແລະມີຄວາມສຸກພຽງພໍ, ໂດຍພິຈາລະນາວ່າ... ເຈົ້າເມື່ອຍແຂງແຮງບໍ? ຫຼືເຈົ້າສາມາດຍືນຍົງໄດ້ຊົ່ວຄາວບໍ?
+
+496
+00:30:55,900 --> 00:31:01,900
+[HOMER]
+Uh... actually, picking apples is as much excitement as I want for a while. I'm grateful for the job.
+ໂອ້... ໃນຄວາມເປັນຈິງ, ການເກັບ ຫມາກ
+ໄມ້ແມ່ນຄວາມຕື່ນເຕັ້ນຫຼາຍເທົ່າທີ່ຂ້ອຍຕ້ອງການເປັນເວລາດົນນານ. ຂ້ອຍຂອບໃຈ ສໍາ ລັບວຽກງານ.
+
+497
+00:31:02,400 --> 00:31:08,400
+[WALLY]
+You're the one who's helping *me*, Homer. You're going to give my mom a little peace of mind while I'm gone. Candy, too.
+ເຈົ້າເປັນຄົນທີ່ ກໍາ ລັງຊ່ວຍຂ້ອຍ * ໂຮມເປີ. ເຈົ້າຈະໃຫ້ຄວາມສະຫງົບໃຈຂອງແມ່ຂອງຂ້ອຍ
+ຫນ້ອຍ ຫນຶ່ງ ໃນຂະນະທີ່ຂ້ອຍໄປ. ແຄນດີເຊັ່ນກັນ.
+
+498
+00:31:08,900 --> 00:31:13,800
+[HOMER]
+Well, sure... that's good, then.  All I mean is, I'm lucky I met you.
+ດີ, ແນ່ນອນ... ນັ້ນດີ, ຫຼັງຈາກນັ້ນ.
+ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍໂຊກດີທີ່ພົບເຈົ້າ.
+
+499
+00:31:14,300 --> 00:31:17,450
+[WALLY]
+I don't think so, Homer. *I'm* the lucky one.
+ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ, ໂຮມເປີ. * ຂ້ອຍເປັນຄົນໂຊກດີ.
+
+500
+00:31:17,950 --> 00:31:20,050
+[WALLY]
+You want to fight about it?
+ເຈົ້າຢາກຕໍ່ສູ້ກ່ຽວກັບມັນບໍ?
+
+501
+00:31:20,550 --> 00:31:26,550
+[MR. ROSE]
+You pickin' more cider apples then anythin' else. Them drops is good only for cider. And you pickin' the stems with the apples only half the time. They good only for cider, too-- if you don't pick them stems.  The rule is, you wanna pick the apple *with* the stem, Homer. And see here... see that *bud* that's just above the stem? That's the bud for *next year's* apple--that's called the *spur*. You pick the spur, you pickin' two years in one--you pickin' next year's apple 'fore it have a chance to grow. You leave that on the branch, you hear?
+ເຈົ້າເອົາ ຫມາກ ໄມ້ຊີເປີຫຼາຍກ່ວາສິ່ງອື່ນໃດໆ. ການຫຼຸດລົງນັ້ນດີພຽງແຕ່ ສໍາ ລັບຫມາກ ໄຊເປີເທົ່ານັ້ນ. ແລະເຈົ້າເອົາກະດູກກັບ ຫມາກ ແອັບເປຼາມພຽງແຕ່ເຄິ່ງເວລາເທົ່ານັ້ນ. ພວກມັນດີພຽງແຕ່ວຽກະດູກແອັບເປຣາມເທົ່ານັ້ນ
+, ເຊັ່ນດຽວກັນ - ຖ້າເຈົ້າບໍ່ເອົາຕົ້ນໄມ້ເຫຼົ່ານັ້ນ. ກົດລະບຽບແມ່ນ, ເຈົ້າຢາກເອົາຫມາກແອບເປີ * ກັບ * ກະດູກ, ໂຮມເປີ. ແລະເບິ່ງບ່ອນນີ້... ເບິ່ງວ່າ * bud * ທີ່ຢູ່ຂ້າງເທິງກະດูກແອບ
+
+502
+00:31:27,050 --> 00:31:33,050
+[MR. ROSE]
+That's better. I can tell you got yourself some education. Them's good hands you got, Homer. Them hands you got, they know what they're doin'-- ain't that right?
+ນັ້ນດີກວ່າ. ຂ້ອຍສາມາດບອກໄດ້ວ່າເຈົ້າໄດ້ສຶກສາຕົວເອງບາງຢ່າງ. ນັ້ນແມ່ນມືທີ່ດີທີ່ທ່ານມີ
+, ໂຮມເປີ. ມືທີ່ເຈົ້າມີ, ພວກເຂົາຮູ້ວ່າພວກເຂົາ ກໍາ ລັງເຮັດຫຍັງ - ບໍ່ຖືກຕ້ອງບໍ?
+
+503
+00:31:33,550 --> 00:31:35,550
+[HOMER]
+I guess so...
+ຂ້ອຍຄິດວ່າເປັນ...
+
+504
+00:31:36,050 --> 00:31:38,050
+[ANGELA]
+Wilbur! Wilbur!
+ວິລບູຣ໌! ວີລເບີ!
+
+505
+00:31:38,550 --> 00:31:40,550
+[ANGELA]
+Wilbur, you should read this.
+ວີລບູຣ໌, ເຈົ້າຄວນອ່ານສິ່ງນີ້.
+
+506
+00:31:41,050 --> 00:31:43,150
+[ANGELA]
+It's from the Board. Another letter.
+ມັນມາຈາກຄະນະກໍາມະການ. ຈົດຫມາຍອີກຫນຶ່ງ.
+
+507
+00:31:43,650 --> 00:31:49,650
+[ANGELA]
+Uh... "merely suggesting that some new blood might benefit you all... someone with new ideas in the obstetrical and pediatric fields."  I think they're just testing some ideas for our next meeting.
+ໂອ້... ພຽງແຕ່ແນະ ນໍາ ວ່າເລືອດ ໃຫມ່ ບາງຢ່າງອາດຈະເປັນປະໂຫຍດໃຫ້ທ່ານທຸກຄົນ... ບາງຄົນທີ່ມີແນວຄິດ ໃຫມ່
+ໃນຂົງເຂດການເກີດແລະເດັກນ້ອຍ. ຂ້ອຍຄິດວ່າພວກເຂົາພຽງແຕ່ທົດສອບແນວຄິດບາງຢ່າງ ສໍາ ລັບກອງປະຊຸມຕໍ່ໄປຂອງພວກເຮົາ.
+
+508
+00:31:50,150 --> 00:31:54,000
+[EDNA]
+Dr. Holtz seems nice. I think he only wants to help...
+ດຣ ໂຮລຕສ໌ ເບິ່ງຄືວ່າດີເລີດ. ຂ້ອຍຄິດວ່າລາວພຽງແຕ່ຢາກຊ່ວຍເຫຼືອ...
+
+509
+00:31:54,500 --> 00:32:00,500
+[LARCH]
+He is a goddamn psychiatrist--of *course* he wants to "help"! He'd be happy if he could help *commit* me!
+ລາວເປັນແພດຈິດໃຈ - ແນ່ນອນວ່າລາວຢາກ"ຊ່ວຍເຫຼືອ"!
+ລາວຈະມີຄວາມສຸກຖ້າລາວສາມາດຊ່ວຍ * ຫມັ້ນ ຫມາຍ * ຂ້ອຍໄດ້!
+
+510
+00:32:01,000 --> 00:32:04,850
+[ANGELA]
+It's that Mrs. Goodhall you have to be careful of, Wilbur.
+ມັນເປັນທ່ານນາງກູດາລ ທີ່ເຈົ້າຕ້ອງລະມັດລະວັງ, ວີລບູຣ໌.
+
+511
+00:32:05,350 --> 00:32:11,350
+[LARCH]
+One has to be more than "careful" of Mrs. Goodhall--she has sufficient Christian zeal to start her own country! I'd like to give her a little ether.
+ຄົນຕ້ອງເປັນຫຼາຍກ່ວາ"ລະມັດລະວັງ" ຂອງທ່ານນາງກູດາລ -
+ນາງມີຄວາມກະຕືລືລົ້ນຄຣິສຕຽນພຽງພໍທີ່ຈະເລີ່ມຕົ້ນປະເທດຂອງຕົນເອງ! ຂ້ອຍຢາກໃຫ້ນາງເອເຕີນ້ອຍໆ.
+
+512
+00:32:11,850 --> 00:32:14,300
+[EDNA]
+So what are you going to do?
+ເຈົ້າຈະເຮັດແນວໃດ?
+
+513
+00:32:14,800 --> 00:32:17,600
+[LARCH]
+"Homer Wells, born Portland, Maine, March 2, 1915..."
+ໂຮມເປີ ເວລສ໌, ເກີດໃນໂປຣຕັນ, ເມນ, ວັນທີ 2 ມີນາປີ 1915...
+
+514
+00:32:18,100 --> 00:32:21,250
+[EDNA]
+Homer was born *here*, in, what was it, 1922?
+ໂຮມເປີເກີດ * ຢູ່ບ່ອນນີ້*, ໃນ, ມັນແມ່ນຫຍັງ, ປີ 1922?
+
+515
+00:32:21,750 --> 00:32:25,250
+[LARCH]
+"...graduated Bowdoin College, 1935, and Harvard School of Medicine, 1939."
+ຈົບຈາກວິທະຍາໄລບາວໂດນ, ປີ 1935, ແລະໂຮງຮຽນການແພດຮາເວີດ, ປີ 1939.
+
+516
+00:32:25,750 --> 00:32:29,600
+[ANGELA]
+This is *your* life story, Wilbur! You just changed the dates!
+ນີ້ແມ່ນເລື່ອງຊີວິດຂອງເຈົ້າ, ວີລບູຣ໌! ເຈົ້າຫາກໍ່ປ່ຽນວັນທີ!
+
+517
+00:32:30,100 --> 00:32:36,100
+[LARCH]
+"An internship and two years of training at the Boston Lying-in, South End Branch. For his age, he was judged an accomplished gynecological obstetrical surgeon; he is also experienced in pediatric care..."
+ການຝຶກອົບຮົມແລະການຝຶກຊ້ອມສອງປີຢູ່ Boston Lying-in, ສາຂາ South End. ສໍາລັບອາຍຸຂອງລາວ,
+ລາວຖືກຕັດສິນວ່າເປັນແພດຜ່າຕັດການເກີດຜູ້ຍິງທີ່ປະສົບຜົນສໍາເລັດ; ລາວຍັງມີປະສົບການໃນການເບິ່ງແຍງເດັກນ້ອຍ..."
+
+518
+00:32:36,600 --> 00:32:39,400
+[ANGELA]
+You *invented* him! You've completely made his up!
+ເຈົ້າ * ໄດ້ຄິດສ້າງລາວ! ເຈົ້າໄດ້ຄິດສ້າງຂອງລາວຢ່າງສົມບູນ!
+
+519
+00:32:39,900 --> 00:32:45,850
+[LARCH]
+Don't you understand? The board is going to *replace* me! That's what the "new blood" is *for*!
+ເຈົ້າບໍ່ເຂົ້າໃຈບໍ? ຄະນະກໍາມະການຈະ * ປ່ຽນແທນຂ້ອຍ
+! ນັ້ນແມ່ນສິ່ງທີ່"ເລືອດ ໃຫມ່" ແມ່ນ * ສໍາ ລັບ *!
+
+520
+00:32:46,350 --> 00:32:50,200
+[EDNA]
+You mean they'll replace you with someone who won't perform abortions.
+ເຈົ້າຫມາຍຄວາມວ່າພວກເຂົາຈະທົດແທນເຈົ້າດ້ວຍຄົນທີ່ຈະບໍ່ເຮັດການທ້ອງຖິ່ນ
+.
+
+521
+00:32:50,700 --> 00:32:55,250
+[LARCH]
+Well, we can only guess about that, Edna. They *are* against the law.
+ດີ, ພວກເຮົາພຽງແຕ່ສາມາດຄາດເດົາກ່ຽວກັບເລື່ອງນັ້ນໄດ້
+, ເອດນາ. ພວກເຂົາ * ແມ່ນ * ຕໍ່ຕ້ານກົດ ຫມາຍ.
+
+522
+00:32:55,750 --> 00:32:57,850
+[ANGELA]
+These *credentials* are against the law!
+* ໃບຢັ້ງຢືນ * ເຫຼົ່ານີ້ແມ່ນຂັດກັບກົດ ຫມາຍ!
+
+523
+00:32:58,350 --> 00:33:04,350
+[LARCH]
+We all know who trained Homer--his credentials are as good as mine are. Don't you be holy to me about the *law*! What has the law done for any of us here?
+ພວກເຮົາທຸກຄົນຮູ້ວ່າໃຜຝຶກອົບຮົມໂຮມເປີ - ໃບຢັ້ງຢືນຂອງລາວດີເທົ່າກັບຂອງຂ້ອຍ.
+ເຈົ້າບໍ່ສັກສິດຕໍ່ຂ້ອຍກ່ຽວກັບ * ກົດ ຫມາຍ *! ກົດ ຫມາຍ ໄດ້ເຮັດຫຍັງ ສໍາ ລັບພວກເຮົາທຸກຄົນຢູ່ນີ້?
+
+524
+00:33:04,850 --> 00:33:08,000
+[LARCH]
+So here is my candidate. What do you think?
+ສະນັ້ນນີ້ແມ່ນຜູ້ສະຫມັກຂອງຂ້ອຍ. ເຈົ້າຄິດແນວໃດ?
+
+525
+00:33:08,500 --> 00:33:12,000
+[EDNA]
+But what about school records? Homer doesn't have any *diplomas*...
+ແຕ່ບັນທຶກໂຮງຮຽນແນວໃດ? ໂຮມເປີບໍ່ມີ * ປະລິນຍາຕີ * ໃດໆ...
+
+526
+00:33:12,500 --> 00:33:14,500
+[LARCH]
+He *will* have them, Edna.
+ລາວ * ຈະ * ມີພວກມັນ, ເອດນາ.
+
+527
+00:33:15,000 --> 00:33:19,200
+[ANGELA]
+Oh, Wilbur, I don't know...  We don't even know where he is!
+ໂອ້, ວີລບູຣ, ຂ້ອຍບໍ່ຮູ້... ພວກເຮົາບໍ່ຮູ້ເລີຍວ່າລາວຢູ່ໃສ!
+
+528
+00:33:19,700 --> 00:33:21,700
+[ROSE ROSE]
+Where's that Homer?
+ໂຮມເປີນັ້ນຢູ່ໃສ?
+
+529
+00:33:22,200 --> 00:33:24,200
+[JACK]
+Who cares?
+ໃຜສົນໃຈ?
+
+530
+00:33:24,700 --> 00:33:26,800
+[MR. ROSE]
+Now, now. He's a good boy.
+ດຽວນີ້, ດຽວນີ້. ລາວເປັນເດັກຊາຍທີ່ດີ.
+
+531
+00:33:27,300 --> 00:33:29,750
+[JACK]
+Shit. We don't know what he is.
+ພວກເຮົາບໍ່ຮູ້ວ່າລາວເປັນຫຍັງ.
+
+532
+00:33:30,250 --> 00:33:33,400
+[MR. ROSE]
+Jack, you gotta watch your language 'round my daughter.
+ແຈກ, ເຈົ້າຕ້ອງລະມັດລະວັງພາສາຂອງທ່ານຢູ່ໃກ້ກັບລູກສາວຂອງຂ້ອຍ.
+
+533
+00:33:33,900 --> 00:33:35,900
+[MR. ROSE]
+Here he is.
+ລາວຢູ່ບ່ອນນີ້.
+
+534
+00:33:36,400 --> 00:33:40,950
+[MR. ROSE]
+Where's your manners? Make room for Homer, so's he can enjoy the view.
+ພຶດຕິກໍາຂອງທ່ານຢູ່ໃສ? ໃຫ້ບ່ອນໃຫ້ໂຮມເປີ
+, ສະນັ້ນລາວສາມາດເພີດເພີນກັບທັດສະນະ.
+
+535
+00:33:41,450 --> 00:33:43,450
+[MUDDY]
+What view?
+ທັດສະນະໃດ?
+
+536
+00:33:43,950 --> 00:33:47,450
+[HOMER]
+Are we supposed to be up here? The rules said...
+ພວກເຮົາຄວນຢູ່ເທິງນີ້ບໍ? ກົດລະບຽບເວົ້າວ່າ...
+
+537
+00:33:47,950 --> 00:33:53,950
+[MR. ROSE]
+Homer, you the only one who's read them rules, so you the only one who feels like he's doin' somethin' wrong.
+ໂຮມເປີ, ເຈົ້າເປັນຄົນດຽວທີ່ອ່ານກົດລະບຽບເຫຼົ່ານັ້ນ,
+ສະນັ້ນເຈົ້າເປັນຄົນທີ່ດຽວທີ່ຮູ້ສຶກວ່າລາວ ກໍາ ລັງເຮັດບາງສິ່ງບາງຢ່າງຜິດ.
+
+538
+00:33:54,450 --> 00:33:56,450
+[MUDDY]
+*What* view?
+* ທັດສະນະໃດ?
+
+539
+00:33:56,950 --> 00:34:02,550
+[MR. ROSE]
+Well, Muddy, we can look at all these angry stars Homer's been readin' to us about.
+ດີ, ມູດດີ, ພວກເຮົາສາມາດເບິ່ງດາວທີ່ໂຊກຮ້າຍທັງ
+ຫມົດ ທີ່ໂຮມເປີ ກໍາ ລັງອ່ານໃຫ້ພວກເຮົາກ່ຽວກັບ.
+
+540
+00:34:03,050 --> 00:34:06,200
+[JACK]
+I bet the view looks better from the Worthin'tons'.
+ຂ້ອຍແນ່ໃຈວ່າທັດສະນະເບິ່ງດີກວ່າຈາກຊາວວໍຕິນຕັນ.
+
+541
+00:34:06,700 --> 00:34:11,950
+[MR. ROSE]
+You think so, Jack? Well... I wouldn't want to be in that Wally's shoes tonight.
+ເຈົ້າຄິດດັ່ງນັ້ນບໍ, ແຈກ? ດີ...
+ຂ້ອຍບໍ່ຢາກຢູ່ໃນເກີບຂອງວໍລີໃນຄືນນີ້.
+
+542
+00:34:12,450 --> 00:34:16,300
+[ROSE ROSE]
+Daddy, I'd like to be in that Wally's shoes *every* night.
+ພໍ່, ຂ້ອຍຢາກຢູ່ໃນເກີບຂອງວໍລີນັ້ນ * ທຸກຄືນ.
+
+543
+00:34:16,800 --> 00:34:19,950
+[MR. ROSE]
+You lucky you in your work boots tonight, girl...
+ເຈົ້າໂຊກດີທີ່ເຈົ້າໃສ່ເກີບເຮັດວຽກໃນຄືນນີ້, ເດັກຍິງ...
+
+544
+00:34:20,450 --> 00:34:22,450
+[ROSE ROSE]
+What's lucky about that?
+ໂຊກດີຫຍັງໃນເລື່ອງນັ້ນ?
+
+545
+00:34:22,950 --> 00:34:28,950
+[MR. ROSE]
+You know where that Wally is tonight, darlin'? He's up there in them angry stars.  He's flyin' all around up there... with them Japs shooting at him.
+ເຈົ້າຮູ້ວ່າວໍລີນັ້ນຢູ່ໃສໃນຄືນນີ້ແມ? ລາວຢູ່ເທິງນັ້ນໃນດາວທີ່ໂຊກຮ້າຍນັ້ນ
+. ລາວ ກໍາ ລັງບິນຢູ່ທົ່ວໄປເທິງນັ້ນ... ກັບຊາວຍີ່ປຸ່ນທີ່ຍິງໃສ່ລາວ.
+
+546
+00:34:29,450 --> 00:34:31,550
+[MR. ROSE]
+They all on board, Mrs. Worthin'ton.
+ພວກເຂົາທັງ ຫມົດ ຢູ່ເທິງເຮືອ, ທ່ານນາງວໍຕິນຕັນ.
+
+547
+00:34:32,050 --> 00:34:35,550
+[OLIVE]
+Thank you, Arthur.  And how is our Homer working out?
+ຂອບໃຈແອດເຕີ. ແລະໂຮມເປີຂອງພວກເຮົາເຮັດວຽກແນວໃດ?
+
+548
+00:34:36,050 --> 00:34:40,950
+[MR. ROSE]
+Oh, he's a smart young man, most of the time--Wally was right about him.
+ໂອ້, ລາວເປັນຜູ້ຊາຍຫນຸ່ມທີ່ສະຫຼາດ,
+ສ່ວນໃຫຍ່ຂອງເວລາ - ວາລີຖືກຕ້ອງກ່ຽວກັບລາວ.
+
+549
+00:34:41,450 --> 00:34:43,450
+[OLIVE]
+No rotten apples?
+ບໍ່ມີ ຫມາກ ໄມ້ທີ່ສໍ້ໂກງບໍ?
+
+550
+00:34:43,950 --> 00:34:48,500
+[MR. ROSE]
+No, no--not this year. Well... maybe we got *one*, but it ain't Homer.
+ບໍ່, ບໍ່ - ບໍ່ແມ່ນປີນີ້. ດີ... ບາງທີພວກເຮົາມີ
+* ຫນຶ່ງ*, ແຕ່ມັນບໍ່ແມ່ນໂຮມເປີ.
+
+551
+00:34:49,000 --> 00:34:55,000
+[OLIVE]
+Rose... dear girl, I'm sure I can find you some other clothes.  You must have some things that would fit her.
+ໂຣຊສ໌... ເດັກຍິງທີ່ຮັກແພງ, ຂ້ອຍແນ່ໃຈວ່າຂ້ອຍສາມາດຊອກຫາເຄື່ອງນຸ່ງຫົ່ມອື່ນໆ
+ສໍາ ລັບເຈົ້າໄດ້. ເຈົ້າຕ້ອງມີບາງສິ່ງບາງຢ່າງທີ່ ເຫມາະ ສົມກັບນາງ.
+
+552
+00:34:55,500 --> 00:34:59,000
+[CANDY]
+I have a *ton* of things that would fit you.
+ຂ້ອຍມີສິ່ງຕ່າງໆຫຼາຍຢ່າງທີ່ ເຫມາະ ສົມກັບເຈົ້າ.
+
+553
+00:34:59,500 --> 00:35:03,700
+[MR. ROSE]
+Now, now, Candy--this girl don't need no more clothes, not for pickin'.
+ຕອນນີ້, ດຽວນີ້, ແຄນດີ -
+ເດັກຍິງຄົນນີ້ບໍ່ຕ້ອງການເຄື່ອງນຸ່ງຫົ່ມອີກຕໍ່ໄປ, ບໍ່ແມ່ນເພື່ອເລືອກ.
+
+554
+00:35:04,200 --> 00:35:09,800
+[OLIVE]
+Arthur, there's no such thing as a young woman who's got all the clothes she needs.
+ແອດເຕີ, ບໍ່ມີສິ່ງໃດທີ່ເອີ້ນວ່າແມ່ຍິງຫນຸ່ມທີ່ມີເຄື່ອງນຸ່ງຫົ່ມທັງ
+ຫມົດ ທີ່ນາງຕ້ອງການ.
+
+555
+00:35:10,300 --> 00:35:12,300
+[CANDY]
+So. Not bored yet?
+ສະນັ້ນ. ຍັງບໍ່ເມື່ອຍບໍ?
+
+556
+00:35:12,800 --> 00:35:16,300
+[HOMER]
+I'm *never* bored! It's all very... different for me... here.
+ຂ້ອຍ * ບໍ່ເຄີຍ* ເບື່ອຫນ່າຍ! ມັນທັງ ຫມົດ
+ແມ່ນແຕກຕ່າງກັນຫຼາຍ... ສໍາ ລັບຂ້ອຍ... ຢູ່ບ່ອນນີ້.
+
+557
+00:35:16,800 --> 00:35:18,900
+[HOMER]
+Uh... have you been *feeling* okay?
+ໂອ້... ເຈົ້າ * ຮູ້ສຶກ * ດີບໍ?
+
+558
+00:35:19,400 --> 00:35:25,400
+[CANDY]
+When I'm not thinking about Wally. I'm not good at being alone.  Oh, goodness. You meant... yes, I'm fine. I...  ...I don't suppose you've seen a lobster yet.
+ເມື່ອຂ້ອຍບໍ່ໄດ້ຄິດກ່ຽວກັບວໍລີ. ຂ້ອຍບໍ່ດີໃນການຢູ່ຄົນດຽວ. ໂອ້, ພຣະເຈົ້າ. ເຈົ້າຫມາຍຄວາມວ່າ
+... ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ເປັນຫຍັງ. ຂ້ອຍ...... ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າເຄີຍເຫັນ lobster ເທື່ອ.
+
+559
+00:35:25,900 --> 00:35:30,450
+[CANDY]
+You have to come to my dad's lobster pound and see one, then.
+ເຈົ້າຕ້ອງມາທີ່ກະຕ່າແມວຂອງພໍ່ຂອງຂ້ອຍແລະເບິ່ງຫນຶ່ງ, ຫຼັງຈາກນັ້ນ.
+
+560
+00:35:30,950 --> 00:35:32,950
+[HOMER]
+Okay...
+ດີແລ້ວ...
+
+561
+00:35:33,450 --> 00:35:35,450
+[HOMER]
+I better go.
+ຂ້ອຍຄວນໄປ.
+
+562
+00:35:35,950 --> 00:35:39,100
+[CANDY]
+I don't think Mr. Rose would leave without you.
+ຂ້ອຍບໍ່ຄິດວ່າ ທ້າວ ໂຣສ໌ຈະອອກໄປໂດຍບໍ່ມີເຈົ້າ.
+
+563
+00:35:39,600 --> 00:35:41,600
+[CANDY]
+Sorry!
+ຂໍໂທດ!
+
+564
+00:35:42,100 --> 00:35:44,100
+[CANDY]
+Come next week!
+ມາໃນອາທິດຫນ້າ!
+
+565
+00:35:44,600 --> 00:35:48,800
+[PEACHES]
+Whoa--look at that Homer! He's gettin' all dressed up for supper tonight!
+ໂວ້ - ເບິ່ງໂຮມເປີນັ້ນແມ! ລາວ ກໍາ
+ລັງແຕ່ງຕົວຢ່າງເຕັມທີ່ ສໍາ ລັບອາຫານຄໍ່າຄືນນີ້!
+
+566
+00:35:49,300 --> 00:35:52,800
+[ROSE ROSE]
+He ain't gettin' dressed to have supper with *us*, Peaches!
+ລາວຈະບໍ່ໃສ່ເຄື່ອງນຸ່ງຫົ່ມເພື່ອກິນອາຫານຄໍ່າກັບ
+* ພວກເຮົາ*, Peaches!
+
+567
+00:35:53,300 --> 00:35:58,200
+[MR. ROSE]
+Don't let us make you nervous or nothin'--we know you gotta job to do.
+ຢ່າປ່ອຍໃຫ້ພວກເຮົາເຮັດໃຫ້ເຈົ້າກັງວົນຫຼືບໍ່ມີຫຍັງເລີຍ
+- ພວກເຮົາຮູ້ວ່າເຈົ້າຕ້ອງເຮັດວຽກເພື່ອເຮັດ.
+
+568
+00:35:58,700 --> 00:36:04,700
+[MUDDY]
+Yeah, we can wait all night for the water to come back on--you just go on and take your time.
+ແມ່ນແລ້ວ, ພວກເຮົາສາມາດລໍຖ້າຕະຫຼອດຄືນ ສໍາ ລັບນ້
+ໍາ ທີ່ຈະກັບມາ - ເຈົ້າພຽງແຕ່ໄປແລະໃຊ້ເວລາຂອງທ່ານ.
+
+569
+00:36:05,200 --> 00:36:07,200
+[RAY]
+Hungry?
+ເຈົ້າຢາກກິນບໍ?
+
+570
+00:36:07,700 --> 00:36:13,700
+[RAY]
+They're the garbage-eaters of the ocean's floor. The seagulls clean up the shore. The lobsters clean up the bottom of the sea.
+ພວກເຂົາເປັນຜູ້ກິນຂີ້ເຫຍື້ອຂອງພື້ນດິນຂອງມະຫາສະຫມຸດ.
+ກະຕ່າທະເລເຮັດຄວາມສະອາດແຄມຝັ່ງທະເລ. ຫມາກ ໂລບສເຕີ ທໍາ ຄວາມສະອາດລຸ່ມຂອງທະ ເລ.
+
+571
+00:36:14,200 --> 00:36:16,200
+[HOMER]
+They eat everything?
+ພວກເຂົາກິນທຸກຢ່າງບໍ?
+
+572
+00:36:16,700 --> 00:36:18,800
+[RAY]
+Everything that falls to the bottom.
+ທຸກຢ່າງທີ່ຕົກລົງລົງລຸ່ມ.
+
+573
+00:36:19,300 --> 00:36:21,300
+[CANDY]
+It's time somebody ate *them*.
+ມັນເຖິງເວລາແລ້ວທີ່ຄົນໃດຫນຶ່ງຈະກິນພວກມັນ.
+
+574
+00:36:21,800 --> 00:36:27,800
+[RAY]
+I was lookin' for Wally's letter. I was gonna show it to Homer...  They made him a captain already-- *Captain* Worthington!
+ຂ້ອຍ ກໍາ ລັງຊອກຫາຈົດຫມາຍຂອງວໍລີ. ຂ້ອຍຈະສະແດງມັນໃຫ້ໂຮມເປີ
+... ພວກເຂົາເຮັດລາວເປັນຄັບປິນແລ້ວ - * ຄັບປີນ * ວໍຕິງຕັນ!
+
+575
+00:36:28,300 --> 00:36:30,400
+[CANDY]
+Daddy, it's a letter to *me*.
+ພໍ່, ມັນແມ່ນຈົດຫມາຍໄປຫາ * ຂ້ອຍ *.
+
+576
+00:36:30,900 --> 00:36:33,000
+[RAY]
+He mentions Homer, too, you know.
+ລາວກ່າວເຖິງໂຮມເປີເຊັ່ນກັນ, ເຈົ້າຮູ້ແລ້ວ.
+
+577
+00:36:33,500 --> 00:36:35,500
+[CANDY]
+Wally said to say, "Hello."
+ວາລີບອກໃຫ້ບອກວ່າ, ສະບາຍດີ.
+
+578
+00:36:36,000 --> 00:36:38,000
+[HOMER]
+Oh! That's... nice.
+ໂອ້! ນັ້ນແມ່ນ... ດີເລີດ.
+
+579
+00:36:38,500 --> 00:36:43,050
+[RAY]
+Wally said the most spectacular hits were in the oil fields at Yenangyat.
+ວາລີເວົ້າວ່າ ການໂຈມຕີທີ່ສວຍງາມທີ່ສຸດແມ່ນຢູ່ໃນທົ່ງນານ້
+ໍາ ມັນຢູ່ Yenangyat.
+
+580
+00:36:43,550 --> 00:36:45,550
+[HOMER]
+A movie *outside*?
+ຮູບເງົາ * ນອກ * ບໍ?
+
+581
+00:36:46,050 --> 00:36:50,250
+[CANDY]
+Yes. But it's closed all the time now, because of the blackout.
+ແມ່ນແລ້ວ. ແຕ່ມັນຖືກປິດຕະຫຼອດເວລາດຽວນີ້, ຍ້ອນການປິດໄຟ.
+
+582
+00:36:50,750 --> 00:36:53,200
+[HOMER]
+People watched the movies in their cars?
+ຄົນເບິ່ງຮູບເງົາໃນລົດຂອງພວກເຂົາບໍ?
+
+583
+00:36:53,700 --> 00:36:56,850
+[CANDY]
+When they watched at all. Do you like movies?
+ເມື່ອພວກເຂົາເບິ່ງເລີຍ. ເຈົ້າມັກຮູບເງົາບໍ?
+
+584
+00:36:57,350 --> 00:36:59,450
+[HOMER]
+Yes! I've only seen one, though.
+ແມ່ນແລ້ວ! ຂ້ອຍເຫັນພຽງແຕ່ຫນຶ່ງເທົ່ານັ້ນ, ເຖິງຢ່າງໃດກໍ່ຕາມ.
+
+585
+00:36:59,950 --> 00:37:02,400
+[CANDY]
+You've seen only one movie? Which one?
+ເຈົ້າເຄີຍເຫັນຮູບເງົາດຽວບໍ? ຮູບເງົາໃດ?
+
+586
+00:37:02,900 --> 00:37:04,900
+[HOMER]
+"King Kong". It's really good.
+ມັນດີແທ້ໆ.
+
+587
+00:37:05,400 --> 00:37:08,900
+[CANDY]
+I haven't seen "King Kong" since I was a kid!
+ຂ້ອຍບໍ່ໄດ້ເຫັນ"ຄິງຄົງ" ນັບຕັ້ງແຕ່ຂ້ອຍເປັນເດັກນ້ອຍ!
+
+588
+00:37:09,400 --> 00:37:13,950
+[ANGELA]
+That's a pie apple, Wilbur. Homer said you're not supposed to eat it!
+ນັ້ນແມ່ນ ຫມາກ ໄມ້ pie, ວີລບູຣ໌. ໂຮມເປີເວົ້າວ່າເຈົ້າບໍ່ຄວນກິນມັນ!
+
+589
+00:37:14,450 --> 00:37:16,900
+[LARCH]
+So he's an apple expert, is he?
+ສະນັ້ນລາວເປັນຜູ້ຊ່ຽວຊານແອບເປີ, ແມ່ນບໍ?
+
+590
+00:37:17,400 --> 00:37:23,400
+[LARCH]
+Oh my, yes! This is a *far* superior taste--and crisp, too! You know, so many apples are disappointingly mealy. I wonder of most of the apples in my life weren't meant for pies!
+ໂອ້, ແມ່ນແລ້ວ! ນີ້ແມ່ນລົດຊາດທີ່ສູງກວ່າ * ແລະ crisp ເຊັ່ນກັນ! ເຈົ້າຮູ້ແລ້ວ, ຫມາກ
+ໄມ້ຫຼາຍປານໃດແມ່ນເປັນອາຫານທີ່ຜິດຫວັງ. ຂ້ອຍແປກໃຈວ່າຫມາກ ໄມ້ນສ່ວນໃຫຍ່ໃນຊີວິດຂອງຂ້ອຍບໍ່ໄດ້ ຫມາຍ ຄວາມວ່າ ສໍາ ລັບ pie!
+
+591
+00:37:23,900 --> 00:37:26,350
+[ANGELA]
+Wilbur, he picked them for us himself...
+ວີລບູຣ໌, ລາວໄດ້ເລືອກພວກມັນ ສໍາ ລັບພວກເຮົາເອງ...
+
+592
+00:37:26,850 --> 00:37:30,700
+[LARCH]
+You don't find it depressing that Homer Wells is picking apples?
+ເຈົ້າບໍ່ເຫັນວ່າມັນເປັນຄວາມໂຊກຮ້າຍທີ່ໂຮມເປີ
+ເວລສ໌ ກໍາ ລັງເກັບ ຫມາກ ໄມ້ບໍ?
+
+593
+00:37:31,200 --> 00:37:37,200
+[LARCH]
+Or that he can't be bothered to write us a proper letter? A dissertation on apples, we don't need!
+ຫຼືວ່າລາວບໍ່ສາມາດກັງວົນທີ່ຈະຂຽນຈົດຫມາຍທີ່ ເຫມາະ
+ສົມໃຫ້ພວກເຮົາບໍ? ບົດຂຽນກ່ຽວກັບ ຫມາກ ໄມ້, ພວກເຮົາບໍ່ຕ້ອງການ!
+
+594
+00:37:37,700 --> 00:37:43,650
+[EDNA]
+He probably doesn't make much money picking apples--he must have had to pay to send them, too.
+ລາວອາດຈະບໍ່ຫາເງິນຫຼາຍໃນການເກັບ ຫມາກ ໄມ້ -
+ລາວຕ້ອງໄດ້ຈ່າຍເງິນເພື່ອສົ່ງພວກມັນເຊັ່ນກັນ.
+
+595
+00:37:44,150 --> 00:37:50,150
+[LARCH]
+I wouldn't worry, Edna, that he doesn't have money. If he gets hungry, he can pick his dinner!
+ຂ້ອຍຈະບໍ່ກັງວົນ, ເອດນາ, ວ່າລາວບໍ່ມີເງິນ.
+ຖ້າລາວຢາກກິນ, ລາວສາມາດເລືອກອາຫານຄໍ່າຂອງລາວໄດ້!
+
+596
+00:37:50,650 --> 00:37:56,250
+[EDNA]
+Wilbur, it's a *gift*! How can you be angry with Homer for sending us a *gift*?
+ວີລບູຣ໌, ມັນເປັນ * ຂອງຂວັນ *!
+ເຈົ້າສາມາດໂຊກຮ້າຍກັບໂຮມເປີໄດ້ແນວໃດທີ່ສົ່ງໃຫ້ພວກເຮົາ *ຂອງຂວັນ*?
+
+597
+00:37:56,750 --> 00:38:01,300
+[LARCH]
+I'll show him a *gift*! I'll give him a gift he can *use*!
+ຂ້ອຍຈະສະແດງໃຫ້ລາວ * ຂອງຂວັນ *!
+ຂ້ອຍຈະໃຫ້ລາວຂອງຂວັນທີ່ລາວສາມາດ * ໃຊ້ໄດ້ *!
+
+598
+00:38:01,800 --> 00:38:04,600
+[CANDY]
+But you looked as if you liked it.
+ແຕ່ເຈົ້າເບິ່ງຄືວ່າເຈົ້າມັກມັນ.
+
+599
+00:38:05,100 --> 00:38:09,300
+[HOMER]
+I *did* like it. All I said was, "It's not 'King Kong'."
+ຂ້ອຍ * ໄດ້ * ມັກມັນ. ຂ້ອຍພຽງແຕ່ເວົ້າວ່າ,"ມັນບໍ່ແມ່ນ' King Kong'."
+
+600
+00:38:09,800 --> 00:38:14,700
+[HOMER]
+First she loved him, then she didn't, then no one else could have him...
+ກ່ອນອື່ນນາງຮັກລາວ, ຫຼັງຈາກນັ້ນນາງບໍ່ໄດ້ເຮັດ
+, ຫຼັງນັ້ນບໍ່ມີໃຜອື່ນສາມາດມີລາວໄດ້...
+
+601
+00:38:15,200 --> 00:38:18,700
+[CANDY]
+She *did* love him!  How many women have you known?
+ນາງ * ຮັກລາວແທ້ໆ! ເຈົ້າຮູ້ຈັກແມ່ຍິງຫຼາຍປານໃດ?
+
+602
+00:38:19,200 --> 00:38:21,650
+[HOMER]
+And what did she die of, exactly?
+ແລະນາງຕາຍຈາກຫຍັງແທ້ໆ?
+
+603
+00:38:22,150 --> 00:38:25,650
+[CANDY]
+She was torn apart! She died of a broken heart.
+ນາງຖືກແຕກແຍກອອກ! ນາງຕາຍຈາກຫົວໃຈທີ່ແຕກ.
+
+604
+00:38:26,150 --> 00:38:28,150
+[HOMER]
+Oh, sure!
+ໂອ້ ແນ່ນອນ!
+
+605
+00:38:28,650 --> 00:38:30,650
+[HOMER]
+What's the *medical* explanation?
+ຄໍາ ອະທິບາຍ * ທາງການແພດ * ແມ່ນຫຍັງ?
+
+606
+00:38:31,150 --> 00:38:37,150
+[CANDY]
+Well, she was in a weakened condition...  I don't know! What about "King Kong"?! Is that medically possible?
+ດີ, ນາງຢູ່ໃນສະພາບທີ່ອ່ອນແອ... ຂ້ອຍບໍ່ຮູ້!
+ຈະເປັນແນວໃດກັບ"King Kong"?! ມັນເປັນໄປໄດ້ທາງດ້ານການແພດບໍ?
+
+607
+00:38:37,650 --> 00:38:40,450
+[HOMER]
+At least King Kong knew what he *wanted*.
+ຢ່າງຫນ້ອຍ King Kong ຮູ້ວ່າລາວ * ຢາກຫຍັງ*.
+
+608
+00:38:40,950 --> 00:38:43,750
+[ROSE ROSE]
+What is you *doin'* with that Candy, Homer?
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງກັບແຄນດີນັ້ນ, ໂຮມເປີ?
+
+609
+00:38:44,250 --> 00:38:46,250
+[MUDDY]
+He's makin' history, I suppose.
+ລາວ ກໍາ ລັງສ້າງປະຫວັດສາດ, ຂ້ອຍຄິດວ່າ.
+
+610
+00:38:46,750 --> 00:38:49,550
+[ROSE ROSE]
+You ain't gettin' in no trouble, I hope.
+ຂ້ອຍຫວັງວ່າເຈົ້າຈະບໍ່ເຂົ້າໄປໃນຄວາມຫຍຸ້ງຍາກໃດໆ.
+
+611
+00:38:50,050 --> 00:38:52,050
+[HOMER]
+No trouble.
+ບໍ່ເປັນຫຍັງ.
+
+612
+00:38:52,550 --> 00:38:55,000
+[PEACHES]
+That Candy--she's the nicest girl I know!
+ແຄນດີນັ້ນ - ນາງເປັນເດັກຍິງທີ່ສວຍງາມທີ່ສຸດທີ່ຂ້ອຍຮູ້ຈັກ!
+
+613
+00:38:55,500 --> 00:39:00,750
+[MUDDY]
+She's about the most beautiful girl I ever seen--I don't know if she's the nicest.
+ນາງເປັນເດັກຍິງທີ່ສວຍງາມທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນ
+- ຂ້ອຍບໍ່ຮູ້ວ່ານາງເປັນຄົນດີທີ່ສຸດບໍ.
+
+614
+00:39:01,250 --> 00:39:05,100
+[HOMER]
+She's the nicest *and* the most beautiful girl I've ever known.
+ນາງເປັນເດັກຍິງທີ່ງາມທີ່ສຸດ * ແລະ *
+ເດັກຍິງທີ່ສວຍງາມທີ່ສຸດທີ່ຂ້ອຍເຄີຍຮູ້ຈັກ.
+
+615
+00:39:05,600 --> 00:39:08,750
+[ROSE ROSE]
+That sounds like you is in trouble already, Homer.
+ມັນເບິ່ງຄືວ່າເຈົ້າຢູ່ໃນຄວາມຫຍຸ້ງຍາກແລ້ວ, ໂຮມເປີ.
+
+616
+00:39:09,250 --> 00:39:11,700
+[MR. ROSE]
+That's right--that sounds like trouble to me.
+ນັ້ນແມ່ນຄວາມຈິງ - ມັນເບິ່ງຄືວ່າເປັນບັນຫາ ສໍາ ລັບຂ້ອຍ.
+
+617
+00:39:12,200 --> 00:39:14,200
+[HOMER]
+I'm not in trouble.
+ຂ້ອຍບໍ່ໄດ້ຢູ່ໃນຄວາມຫຍຸ້ງຍາກ.
+
+618
+00:39:14,700 --> 00:39:19,250
+[ROSE ROSE]
+Yeah, you is. I know when people is in trouble, and you is.
+ແມ່ນແລ້ວ, ເຈົ້າເປັນ.
+ຂ້ອຍຮູ້ເມື່ອຄົນຢູ່ໃນຄວາມຫຍຸ້ງຍາກ, ແລະເຈົ້າແມ່ນ.
+
+619
+00:39:19,750 --> 00:39:21,750
+[LARCH]
+His name is Homer Wells...
+ຊື່ລາວແມ່ນໂຮມເປີ ເວລສ໌...
+
+620
+00:39:22,250 --> 00:39:28,250
+[LARCH]
+...and his *pathetic* resume is the best I've seen. Though I find it hard to believe the Board would be interested in this character.
+... ແລະ CV ຂອງລາວ * ໂຊກຮ້າຍ * ແມ່ນທີ່ດີທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນ.
+ເຖິງແມ່ນວ່າຂ້ອຍເຫັນວ່າມັນຍາກທີ່ຈະເຊື່ອວ່າຄະນະກໍາມະການຈະສົນໃຈຕົວລະຄອນນີ້.
+
+621
+00:39:28,750 --> 00:39:32,600
+[DR. HOLTZ]
+But he looks like an excellent young man, a first-rate candidate!
+ແຕ່ລາວເບິ່ງຄືວ່າເປັນຜູ້ຊາຍຫນຸ່ມທີ່ດີເລີດ, ຜູ້ສະຫມັກຊັ້ນທໍາອິດ!
+
+622
+00:39:33,100 --> 00:39:39,100
+[LARCH]
+He looks like a bleeding-heart missionary *moron* to me, but that's going to be the problem with any doctor interested in coming here!
+ລາວເບິ່ງຄືວ່າເປັນພາລະກິດທີ່ເລືອດຫົວໃຈ * ຄົນໂຊກຮ້າຍ *
+ຕໍ່ຂ້ອຍ, ແຕ່ນັ້ນຈະເປັນບັນຫາກັບຫມໍໃດທີ່ສົນໃຈທີ່ຈະມາບ່ອນນີ້!
+
+623
+00:39:39,600 --> 00:39:41,600
+[MRS. GOODHALL]
+Do you know him?
+ເຈົ້າຮູ້ຈັກລາວບໍ?
+
+624
+00:39:42,100 --> 00:39:48,100
+[LARCH]
+*No*! I don't want to know him! He's doing *missionary* work--in *India*! I wrote him *weeks* ago, but he's either too holy or too busy to answer. Maybe he got killed in the war!
+* ບໍ່*! ຂ້ອຍບໍ່ຢາກຮູ້ຈັກລາວ! ລາວ ກໍາ ລັງເຮັດວຽກ * ພາລະກິດ * - ໃນ * ອິນເດຍ *! ຂ້ອຍຂຽນລາວ
+* ອາທິດກ່ອນ, ແຕ່ລາວແມ່ນສັກສິດເກີນໄປຫຼືມີວຽກຫຼາຍເກີນໄປທີ່ຈະຕອບ. ບາງທີລາວຖືກຂ້າຕາຍໃນສົງຄາມ!
+
+625
+00:39:48,600 --> 00:39:54,600
+[MRS. GOODHALL]
+I fail to see how someone courageous enough to make a commitment to a foreign mission is automatically to be dismissed--that part of the world requires precisely the kind of dedication that is needed here.
+ຂ້ອຍບໍ່ເຫັນວ່າຄົນທີ່ມີຄວາມກ້າຫານພຽງພໍທີ່ຈະເຮັດຄວາມຫມັ້ນຫມາຍຕໍ່ພາລະກິດຕ່າງປະເທດຈະຖືກໄລ່ອອກໂດຍອັດຕະໂນມັດແນວໃດ
+- ສ່ວນຂອງໂລກນັ້ນຕ້ອງການຄວາມອຸທິດຕົນທີ່ຕ້ອງການຢູ່ນີ້ຢ່າງແນ່ນອນ.
+
+626
+00:39:55,100 --> 00:40:01,050
+[LARCH]
+Does it *snow* in Bombay? One winter here and we'll be shipping him south, in a *coffin*!
+ມັນ * ຫິມະ * ໃນໂມເບຍບໍ? ລະດູຫນາວ ຫນຶ່ງ
+ຢູ່ບ່ອນນີ້ແລະພວກເຮົາຈະສົ່ງລາວໄປທາງທິດໃຕ້, ໃນ * ກະຕູ້ *!
+
+627
+00:40:01,550 --> 00:40:07,550
+[MRS. GOODHALL]
+You can't think that a man who has *served* under such conditions as exist over there will be in the slightest daunted by a little *snow*-- have you no idea how harsh and primitive and full of *disease* that part of the world is?
+ເຈົ້າບໍ່ສາມາດຄິດໄດ້ວ່າຜູ້ຊາຍທີ່ * ໄດ້ບໍລິການ * ພາຍໃຕ້ເງື່ອນໄຂເຊັ່ນທີ່ມີຢູ່ບ່ອນນັ້ນຈະຖືກຢ້ານກົວ ຫນ້ອຍ ທີ່ສຸດໂດຍ
+* ຫິມະນ້ອຍໆ * - ເຈົ້າບໍ່ຮູ້ເລີຍວ່າສ່ວນຂອງໂລກນັ້ນມີຄວາມຮຸນແຮງແລະຕົ້ນສະບັບແລະເຕັມໄປດ້ວຍ * ພະຍາດ * ຫຼາຍປານໃດ?
+
+628
+00:40:08,050 --> 00:40:12,600
+[LARCH]
+Then I suppose we can look forward to catching various diseases from him!
+ຫຼັງຈາກນັ້ນຂ້ອຍຄິດວ່າພວກເຮົາສາມາດຫວັງວ່າຈະຈັບພະຍາດຕ່າງໆຈາກລາວໄດ້!
+
+629
+00:40:13,100 --> 00:40:15,550
+[DR. HOLTZ]
+But, Dr. Larch, he seems exceptionally qualified...
+ແຕ່, ດຣ ລາຣັກ, ລາວເບິ່ງຄືວ່າມີຄຸນສົມບັດພິເສດ...
+
+630
+00:40:16,050 --> 00:40:22,050
+[LARCH]
+I'm not talking about his medical qualifications. It's the *Christian* thing that bothers me--I just don't see it being of much *use* around here.
+ຂ້ອຍບໍ່ໄດ້ເວົ້າກ່ຽວກັບຄຸນສົມບັດທາງການແພດຂອງລາວ. ມັນເປັນເລື່ອງ * ຄຣິສຕຽນ
+* ທີ່ກັງວົນຂ້ອຍ - ຂ້ອຍພຽງແຕ່ບໍ່ເຫັນວ່າມັນມີປະໂຫຍດຫຼາຍ * ຢູ່ບ່ອນນີ້.
+
+631
+00:40:22,550 --> 00:40:26,750
+[MRS. GOODHALL]
+I fail to see how a little Christianity could *hurt* anyone here!
+ຂ້ອຍບໍ່ເຫັນວ່າຄຣິສຕຽນນ້ອຍໆສາມາດ *
+ເຮັດໃຫ້ເຈັບປວດ * ໃຜຢູ່ບ່ອນນີ້ໄດ້ແນວໃດ!
+
+632
+00:40:27,250 --> 00:40:33,250
+[LARCH]
+Anyway, I was just showing you this guy as an example of what's available-- I didn't think you'd be interested.
+ຢ່າງໃດກໍຕາມ, ຂ້ອຍພຽງແຕ່ສະແດງຄົນນີ້ໃຫ້ເຈົ້າເປັນຕົວຢ່າງຂອງສິ່ງທີ່ສາມາດໃຊ້ໄດ້
+- ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າຈະສົນໃຈ.
+
+633
+00:40:33,750 --> 00:40:35,750
+[DR. HOLTZ]
+We're *very* interested!
+ພວກເຮົາສົນໃຈຫຼາຍ!
+
+634
+00:40:36,250 --> 00:40:38,250
+[MRS. GOODHALL]
+Yes, *very*!
+ແມ່ນແລ້ວ, * ຫຼາຍໆ!
+
+635
+00:40:38,750 --> 00:40:41,550
+[DR. HOLTZ]
+You wouldn't be opposed to meeting with him?
+ເຈົ້າບໍ່ຄັດຄ້ານທີ່ຈະພົບກັບລາວບໍ?
+
+636
+00:40:42,050 --> 00:40:46,250
+[LARCH]
+I suppose it wouldn't hurt to *meet* him. What's his name again?
+ຂ້ອຍຄິດວ່າມັນຈະບໍ່ເຈັບປວດທີ່ຈະ *
+ພົບກັບລາວ. ຊື່ຂອງລາວອີກເທື່ອຫນຶ່ງແມ່ນຫຍັງ?
+
+637
+00:40:46,750 --> 00:40:48,750
+[ANGELA]
+Dr. Homer Wells.
+ດຣ ໂຮມເປີ ເວລສ໌.
+
+638
+00:40:49,250 --> 00:40:53,800
+[LARCH]
+I just hope he won't expect us to say *Grace* all the time.
+ຂ້ອຍພຽງແຕ່ຫວັງວ່າລາວຈະບໍ່ຄາດວ່າພວກເຮົາຈະເວົ້າ
+* ຂອບໃຈ * ຕະຫຼອດເວລາ.
+
+639
+00:40:54,300 --> 00:40:56,750
+[MRS. GOODHALL]
+It's a nice name, very New England.
+ມັນເປັນຊື່ທີ່ສວຍງາມ, ນິວອັງກິດຫຼາຍ.
+
+640
+00:40:57,250 --> 00:40:59,350
+[DR. HOLTZ]
+Very *Maine*, a very *local*-sounding name.
+ຊື່ * Maine * ທີ່ສຽງ * ທ້ອງຖິ່ນ * ຫຼາຍ.
+
+641
+00:40:59,850 --> 00:41:01,850
+[EDNA]
+*Very*!
+* ຫຼາຍໆ*!
+
+642
+00:41:02,350 --> 00:41:04,450
+[EDNA]
+I just wanted to ask you...
+ຂ້ອຍພຽງແຕ່ຢາກຖາມເຈົ້າ...
+
+643
+00:41:04,950 --> 00:41:08,100
+[LARCH]
+Edna! Come dance with me! Let's be foolish tonight.
+ເອດນາ! ມາເຕັ້ນກັບຂ້ອຍ! ມາເປັນຄົນໂງ່ໃນຄືນນີ້.
+
+644
+00:41:08,600 --> 00:41:14,200
+[EDNA]
+Does he *know* he's supposed to be in India? Does he even *want* to come back?
+ລາວ * ຮູ້ວ່າ * ລາວຄວນຢູ່ອິນເດຍບໍ? ລາວ * ຢາກ * ກັບມາບໍ?
+
+645
+00:41:14,700 --> 00:41:18,200
+[LARCH]
+He's a field hand! What could possibly hold him there?
+ລາວເປັນມືພາກສະຫນາມ! ສິ່ງທີ່ສາມາດຖືລາວຢູ່ບ່ອນນັ້ນໄດ້ບໍ?
+
+646
+00:41:18,700 --> 00:41:24,700
+[MR. ROSE]
+Cider don't have no taste till later in October--it's too watery now, when we're usin' just them early Macs and them Gravensteins. You don't get no *good* cider till you're pickin' them Golden Delicious and them Winter Bananas, them Baldwins and them Russerts...
+ໄຊດ໌ບໍ່ມີລົດຊາດຈົນຮອດທ້າຍເດືອນຕຸລາ - ມັນມີນ້ ໍາ ຫຼາຍເກີນໄປດຽວນີ້, ເມື່ອພວກເຮົາ ກໍາ ລັງໃຊ້ພຽງແຕ່ແມັກສ໌ເບື້ອງຕົ້ນແລະພວກແກຣເວສຕິນນັ້ນ
+. ເຈົ້າບໍ່ໄດ້ຮັບໄຊດິດ໌ * ດີຈົນກວ່າເຈົ້າຈະເລືອກພວກ Golden Delicious ແລະ ຫມາກ ນາວລະດູຫນາວ, ພວກບາລວິນແລະພວກຣູສເຊີຕ໌...
+
+647
+00:41:25,200 --> 00:41:31,200
+[HOMER]
+What about the worms? Most of these apples are the drops--off the ground, right? There have to be worms.
+ຈະເປັນແນວໃດກັບແມງໄມ້? ຫມາກ ໄມ້ເຫຼົ່ານີ້ສ່ວນໃຫຍ່ແມ່ນນ້
+ໍາ ຕົກລົງ - ຈາກພື້ນດິນ, ແມ່ນບໍ? ຕ້ອງມີແມງໄມ້.
+
+648
+00:41:31,700 --> 00:41:37,700
+[MR. ROSE]
+Of *course* there's worms, Homer! And what is them worms, really? They just *protein*, them worms! They is *good* for you!
+ແນ່ນອນວ່າ * ມີແມງໄມ້, ໂຮມເປີ! ແລະແມງໄມ້ນັ້ນແມ່ນຫຍັງແທ້ໆ?
+ພວກເຂົາພຽງແຕ່ * ໂປຣຕີນ*, ແມງແມງແມນ! ພວກເຂົາ * ດີ * ສໍາ ລັບເຈົ້າ!
+
+649
+00:41:38,200 --> 00:41:44,200
+[MR. ROSE]
+That just ain't right, Jack--your cigarette's gonna end up in nine or ten gallons of this batch of cider! That ain't right.
+ນັ້ນພຽງແຕ່ບໍ່ຖືກຕ້ອງ, ແຈກ -
+ຢາສູບຂອງທ່ານຈະສິ້ນສຸດລົງໃນເກົ້າຫຼືສິບແກລອນຂອງຊິ້ນສ່ວນຂອງຊີເດີນີ້! ນັ້ນບໍ່ຖືກຕ້ອງ.
+
+650
+00:41:44,700 --> 00:41:49,250
+[JACK]
+Them people drinkin' that cider, they don't know there's a cigarette in there!
+ຄົນເຫຼົ່ານັ້ນທີ່ດື່ມຊີດເຕີນັ້ນ,
+ພວກເຂົາບໍ່ຮູ້ວ່າມີຢາສູບຢູ່ບ່ອນນັ້ນ!
+
+651
+00:41:49,750 --> 00:41:55,750
+[MR. ROSE]
+It's not that hard to find it in there, Jack--it'll take you just a minute. You just gotta go fishin'.
+ມັນບໍ່ຍາກຫຼາຍທີ່ຈະຊອກຫາມັນຢູ່ບ່ອນນັ້ນ, ແຈກ -
+ມັນຈະໃຊ້ເວລາເຈົ້າພຽງແຕ່ ຫນຶ່ງ ນາທີ. ເຈົ້າພຽງແຕ່ຕ້ອງໄປຫາປາ.
+
+652
+00:41:56,250 --> 00:42:01,150
+[JACK]
+You mean *swimmin'*. I ain't goin' in that vat to fish out no cigarette!
+ເຈົ້າຫມາຍຄວາມວ່າ * ລອຍນ້ ໍາ*.
+ຂ້ອຍຈະບໍ່ເຂົ້າໄປໃນຖັງນັ້ນເພື່ອຫາປາບໍ່ສູບຢາ!
+
+653
+00:42:01,650 --> 00:42:06,200
+[MR. ROSE]
+What business is you in, Jack? Just tell me what your business is...
+ເຈົ້າເຮັດທຸລະກິດຫຍັງ, ແຈກ?
+ພຽງແຕ່ບອກຂ້ອຍວ່າທຸລະກິດຂອງທ່ານແມ່ນຫຍັງ...
+
+654
+00:42:06,700 --> 00:42:12,700
+[MUDDY]
+Just say you're in the *apple* business, man. That's the only business you wanna be in. Just say it.
+ພຽງແຕ່ເວົ້າວ່າເຈົ້າຢູ່ໃນທຸລະກິດ * ຫມາກ ໄມ້ *, ຜູ້ຊາຍ
+. ນັ້ນແມ່ນທຸລະກິດດຽວທີ່ທ່ານຢາກຢູ່ໃນ. ພຽງແຕ່ເວົ້າມັນ.
+
+655
+00:42:13,200 --> 00:42:19,200
+[PEACHES]
+You don't wanna go in the knife business with Mistuh Rose--just say you're in the *apple* business, Jack!
+ເຈົ້າບໍ່ຢາກເຂົ້າໄປໃນທຸລະກິດດອກໄມ້ກັບ Mistuh Rose -
+ພຽງແຕ່ເວົ້າວ່າເຈົ້າຢູ່ໃນທຸລະກິດ * ຫມາກ ໄມ້ *, ແຈກ!
+
+656
+00:42:19,700 --> 00:42:21,700
+[JACK]
+What business are *you* in?
+ເຈົ້າເຮັດທຸລະກິດຫຍັງ?
+
+657
+00:42:22,200 --> 00:42:27,800
+[MR. ROSE]
+I'm in the *knife* business, Jack. You don't wanna go in the knife business with me.
+ຂ້ອຍຢູ່ໃນທຸລະກິດ * ມີດຕັດ *, ແຈກ.
+ເຈົ້າບໍ່ຢາກເຂົ້າໄປໃນທຸລະກິດມີດຕັດກັບຂ້ອຍ.
+
+658
+00:42:28,300 --> 00:42:31,450
+[MUDDY]
+You're lucky he didn't cut your *nipples* off, man.
+ເຈົ້າໂຊກດີທີ່ລາວບໍ່ໄດ້ຕັດ * ປວດ * ຂອງເຈົ້າອອກ, ຜູ້ຊາຍ.
+
+659
+00:42:31,950 --> 00:42:35,450
+[PEACHES]
+The good news, Jack, is you're half- undressed for *swimmin'*...
+ຂ່າວດີແຈກ, ແມ່ນວ່າເຈົ້າໄດ້ນຸ່ງຫົ່ມເຄິ່ງຫນຶ່ງ
+ສໍາ ລັບ * ລອຍນ້ ໍາ *...
+
+660
+00:42:35,950 --> 00:42:39,800
+[MUDDY]
+Yeah, that cigarette ain't hard to find when you're properly undressed.
+ແມ່ນແລ້ວ, ຢາສູບນັ້ນບໍ່ຍາກທີ່ຈະຊອກຫາເມື່ອເຈົ້ານຸ່ງຫົ່ມຢ່າງຖືກຕ້ອງ.
+
+661
+00:42:40,300 --> 00:42:43,450
+[HOMER]
+Give men that. I know how to do it.
+ໃຫ້ຜູ້ຊາຍນັ້ນ. ຂ້ອຍຮູ້ວິທີເຮັດມັນ.
+
+662
+00:42:43,950 --> 00:42:46,750
+[ROSE ROSE]
+Oh, I suppose you is a doctor, Homer?
+ໂອ້, ຂ້ອຍຄິດວ່າເຈົ້າເປັນຫມໍ, ໂຮມເປີ?
+
+663
+00:42:47,250 --> 00:42:49,250
+[HOMER]
+Almost.
+ເກືອບແລ້ວ.
+
+664
+00:42:49,750 --> 00:42:52,550
+[MR. ROSE]
+I don't need no "almost" a doctor, Homer.
+ຂ້ອຍບໍ່ຕ້ອງການຫມໍ"ເກືອບ" ໃດໆ, ໂຮມເປີ.
+
+665
+00:42:53,050 --> 00:42:56,200
+[ROSE ROSE]
+We should drown that damn Jack in the vat!
+ພວກເຮົາຄວນຈົມແຈກນັ້ນໃນຖັງ!
+
+666
+00:42:56,700 --> 00:43:00,900
+[MR. ROSE]
+Now, now, darlin'... Jack just needs to know what business he's in.
+ຕອນນີ້, ດຽວນີ້, ແມ... ແຈກພຽງແຕ່ຕ້ອງຮູ້ວ່າລາວຢູ່ໃນທຸລະກິດໃດ.
+
+667
+00:43:01,400 --> 00:43:07,400
+[ROSE ROSE]
+Yeah, you really showed him, Daddy-- you just about cut your own hand off, and all you cut off *him* was his clothes!
+ແມ່ນແລ້ວ, ເຈົ້າສະແດງໃຫ້ລາວເຫັນແທ້ໆ, ພໍ່ - ເຈົ້າເກືອບຈະຕັດມືຂອງທ່ານເອງອອກ
+, ແລະສິ່ງດຽວທີ່ທ່ານຕັດ * ລາວ * ແມ່ນເຄື່ອງນຸ່ງຫົ່ມຂອງລາວ!
+
+668
+00:43:07,900 --> 00:43:13,850
+[MR. ROSE]
+You oughta know you don't go to jail for cuttin' a guy's *clothes*. Ain't that right, Homer?
+ເຈົ້າຄວນຮູ້ວ່າເຈົ້າຈະບໍ່ໄປຄຸກເພາະວ່າຕັດເຄື່ອງນຸ່ງຫົ່ມຂອງຜູ້ຊາຍ
+* ແມ່ນບໍ, ໂຮມເປີ?
+
+669
+00:43:14,350 --> 00:43:18,550
+[CANDY]
+You're a natural. You were born to drive a car like this.
+ເຈົ້າເປັນຄົນທໍາມະຊາດ. ເຈົ້າເກີດມາເພື່ອຂັບລົດແບບນີ້.
+
+670
+00:43:19,050 --> 00:43:22,200
+[HOMER]
+You think? Maybe I was.  I love this place!
+ເຈົ້າຄິດບໍ? ບາງທີຂ້ອຍເປັນ. ຂ້ອຍມັກບ່ອນນີ້!
+
+671
+00:43:22,700 --> 00:43:28,650
+[HOMER]
+The screen is enormous! Imagine King Kong up *there*! Have you seen a lot of movies here?
+ຫນ້າຈໍແມ່ນໃຫຍ່ຫຼວງ! ຈິນຕະນາການ King Kong ຢູ່ເທິງ
+* ຢູ່ບ່ອນນັ້ນ *! ເຈົ້າໄດ້ເຫັນຮູບເງົາຫຼາຍບ່ອນນີ້ບໍ?
+
+672
+00:43:29,150 --> 00:43:34,050
+[CANDY]
+Yes... and no. When you come here, you don't really care about the movie.
+ແມ່ນແລ້ວ... ແລະບໍ່. ເມື່ອເຈົ້າມາບ່ອນນີ້
+, ເຈົ້າບໍ່ສົນໃຈຮູບເງົາແທ້ໆ.
+
+673
+00:43:34,550 --> 00:43:36,650
+[HOMER]
+You don't care about the movie?
+ເຈົ້າບໍ່ສົນໃຈຮູບເງົາບໍ?
+
+674
+00:43:37,150 --> 00:43:40,300
+[CANDY]
+What are you so crazy about the movies for?
+ເຈົ້າໂຊກຮ້າຍຫຼາຍຕໍ່ຮູບເງົາເປັນຫຍັງ?
+
+675
+00:43:40,800 --> 00:43:46,800
+[HOMER]
+It was my favorite night at the orphanage--movie night. We'd race into the dining hall. Of course everyone wanted to sit in front, so we'd be packed in so tight you could feel the kid next to you breathing.
+ມັນເປັນຄືນທີ່ຂ້ອຍມັກທີ່ສຸດໃນໂຮງແຮມເດັກເຖົ້າ - ຄືນຮູບເງົາ. ພວກເຮົາຈະແລ່ນເຂົ້າໄປໃນຫ້ອງອາຫານ.
+ແນ່ນອນທຸກຄົນຢາກນັ່ງຢູ່ທາງຫນ້າ, ສະນັ້ນພວກເຮົາຈະຖືກຫຸ້ມຫໍ່ຢ່າງເຂັ້ມງວດຫຼາຍທີ່ທ່ານສາມາດຮູ້ສຶກເດັກນ້ອຍຢູ່ຂ້າງທ່ານຫາຍໃຈ.
+
+676
+00:43:47,300 --> 00:43:49,400
+[CANDY]
+At least you were never lonely.
+ຢ່າງຫນ້ອຍເຈົ້າບໍ່ເຄີຍເປັນຄົນດຽວເລີຍ.
+
+677
+00:43:49,900 --> 00:43:55,500
+[HOMER]
+I didn't say that. Growing up in an orphanage, you're always lonely. You're just never alone.
+ຂ້ອຍບໍ່ໄດ້ເວົ້າແບບນັ້ນ. ການເຕີບໃຫຍ່ໃນເຮືອນເດັກເຖົ້າ,
+ເຈົ້າເປັນຄົນດຽວຢູ່ສະເຫມີ. ເຈົ້າພຽງແຕ່ບໍ່ເຄີຍຢູ່ຄົນດຽວເລີຍ.
+
+678
+00:43:56,000 --> 00:44:02,000
+[HOMER]
+You're not alone in the bathroom, or... or in the shower... you're never alone in wanting the last piece of meatloaaf, or even in your own bed on a cold morning.
+ເຈົ້າບໍ່ແມ່ນຄົນດຽວໃນຫ້ອງນ້ ໍາ, ຫຼື... ຫຼືໃນອາບນ້ ໍາ...
+ເຈົ້າບໍ່ເຄີຍເປັນຄົນດຽວໃນການຕ້ອງການກະຕ່າຊີ້ນສຸດທ້າຍ, ຫຼືເຖິງແມ່ນວ່າໃນຕຽງຂອງທ່ານເອງໃນຕອນເຊົ້າທີ່ເຢັນ.
+
+679
+00:44:02,500 --> 00:44:04,500
+[CANDY]
+You don't miss it?
+ເຈົ້າບໍ່ພາດມັນບໍ?
+
+680
+00:44:05,000 --> 00:44:09,200
+[HOMER]
+I miss things. I miss... people.  I miss reading to the boys.
+ຂ້ອຍພາດສິ່ງຕ່າງໆ. ຂ້ອຍຂາດ... ຄົນ. ຂ້ອຍ ຂາດການອ່ານໃຫ້ເດັກຊາຍ.
+
+681
+00:44:09,700 --> 00:44:11,800
+[CANDY]
+But you had so much *responsibility*.
+ແຕ່ເຈົ້າມີຄວາມຮັບຜິດຊອບຫຼາຍປານໃດ.
+
+682
+00:44:12,300 --> 00:44:14,400
+[HOMER]
+I never *asked* for any responsibility.
+ຂ້ອຍບໍ່ເຄີຍ * ຂໍ * ຄວາມຮັບຜິດຊອບໃດໆເລີຍ.
+
+683
+00:44:14,900 --> 00:44:16,900
+[CANDY]
+Just a little privacy.
+ພຽງແຕ່ຄວາມເປັນສ່ວນຕົວ ຫນ້ອຍ ຫນຶ່ງ.
+
+684
+00:44:17,400 --> 00:44:20,550
+[CANDY]
+Privacy is exactly the point of drive- in movies.
+ຄວາມເປັນສ່ວນຕົວແມ່ນຈຸດຂອງການຂັບລົດ - ໃນຮູບເງົາ.
+
+685
+00:44:21,050 --> 00:44:24,200
+[HOMER]
+Did you come here with Wally--to *not* watch movies?
+ເຈົ້າມາບ່ອນນີ້ກັບວໍລີ - ເພື່ອ * ບໍ່ * ເບິ່ງຮູບເງົາບໍ?
+
+686
+00:44:24,700 --> 00:44:26,700
+[CANDY]
+Sometimes... movies mostly bore Wally.
+ບາງຄັ້ງ... ຮູບເງົາສ່ວນໃຫຍ່ແມ່ນເບື່ອຫນ່າຍວໍລີ.
+
+687
+00:44:27,200 --> 00:44:29,300
+[HOMER]
+Ah-ha.  So what is that--a radio?
+ອາຮາ. ສະນັ້ນນັ້ນແມ່ນຫຍັງ - ວິທະຍຸບໍ?
+
+688
+00:44:29,800 --> 00:44:31,900
+[CANDY]
+The *speaker*. For the movie sound.
+* ຜູ້ເວົ້າ*. ສໍາລັບສຽງຮູບເງົາ.
+
+689
+00:44:32,400 --> 00:44:34,400
+[CANDY]
+Scrunch down like this.
+ກະຕຸ້ນລົງແບບນີ້.
+
+690
+00:44:34,900 --> 00:44:37,700
+[HOMER]
+How could you not *care* about the movie?
+ເຈົ້າບໍ່ສົນໃຈເລື່ອງຮູບເງົາໄດ້ແນວໃດ?
+
+691
+00:44:38,200 --> 00:44:44,150
+[CANDY]
+You just cuddle. You come to hug... to kiss. You don't *come* here to watch the movie.
+ເຈົ້າພຽງແຕ່ອ້ອມແອ້ມກັນ. ເຈົ້າມາອົບອ້ອມ... ເພື່ອຈູບ
+. ເຈົ້າບໍ່ * ມາ * ມາບ່ອນນີ້ເພື່ອເບິ່ງຮູບເງົາ.
+
+692
+00:44:44,650 --> 00:44:48,150
+[HOMER]
+That's what *I'd* come here for. I'd watch the movie.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍ * ມາບ່ອນນີ້ເພື່ອ. ຂ້ອຍຈະເບິ່ງຮູບເງົາ.
+
+693
+00:44:48,650 --> 00:44:51,100
+[CANDY]
+Not with the right girl you wouldn't.
+ບໍ່ແມ່ນກັບເດັກຍິງທີ່ຖືກຕ້ອງທີ່ທ່ານຈະບໍ່ເຮັດ.
+
+694
+00:44:51,600 --> 00:44:53,600
+[LARCH]
+Fuzzy? Fuzzy?
+Fuzzy? Fuzzy ບໍ?
+
+695
+00:44:54,100 --> 00:44:57,250
+[BUSTER]
+What are you going to tell the little ones?
+ເຈົ້າຈະບອກເດັກນ້ອຍນ້ອຍໆຫຍັງ?
+
+696
+00:44:57,750 --> 00:44:59,850
+[LARCH]
+I'll tell them Fuzzy was adopted.
+ຂ້ອຍຈະບອກພວກເຂົາວ່າ ຟູຈີຖືກຮັບຮອງເອົາ.
+
+697
+00:45:00,350 --> 00:45:04,200
+[BUSTER]
+Why would the little ones believe that *anyone* would adopt him?
+ເປັນຫຍັງເດັກນ້ອຍນ້ອຍຈຶ່ງເຊື່ອວ່າ * ໃຜກໍ່ * ຈະຮັບເອົາລາວ?
+
+698
+00:45:04,700 --> 00:45:07,850
+[LARCH]
+They'll believe it because they want to believe it.
+ພວກເຂົາຈະເຊື່ອມັນເພາະວ່າພວກເຂົາຢາກເຊື່ອມັນ.
+
+699
+00:45:08,350 --> 00:45:10,350
+[BUSTER]
+Shouldn't we tell Homer?
+ພວກເຮົາບໍ່ຄວນບອກໂຮມເປີບໍ?
+
+700
+00:45:10,850 --> 00:45:16,850
+[LARCH]
+If Homer wanted to know what was happening here, he could pick up a telephone and call us.
+ຖ້າໂຮມເປີຢາກຮູ້ວ່າເກີດຫຍັງຂຶ້ນຢູ່ນີ້,
+ລາວສາມາດເອົາໂທລະສັບແລະໂທຫາພວກເຮົາໄດ້.
+
+701
+00:45:17,350 --> 00:45:22,600
+[BUSTER]
+It was a family with a better breathing machine then the one Dr. Larch built.
+ມັນເປັນຄອບຄົວທີ່ມີເຄື່ອງຫາຍໃຈທີ່ດີກວ່າເຄື່ອງທີ່ດຣ ລາຣັກສ້າງຂຶ້ນ.
+
+702
+00:45:23,100 --> 00:45:28,350
+[BUSTER]
+The family that adopted Fuzzy, they *invented* the breathing machine. It's their business... breathing machines.
+ຄອບຄົວທີ່ຮັບຮອງເອົາຟູຈີ, ພວກເຂົາ * ໄດ້ປະດິດສ້າງ *
+ເຄື່ອງຫາຍໃຈ. ມັນແມ່ນທຸລະກິດຂອງພວກເຂົາ... ເຄື່ອງຫາຍລົມ.
+
+703
+00:45:28,850 --> 00:45:30,850
+[CURLY]
+Lucky Fuzzy!
+ໂຊກດີຟູຊີ!
+
+704
+00:45:31,350 --> 00:45:34,850
+[ALL THE BOYS]
+Good night, Fuzzy! Good night, Fuzzy! Good night, Fuzzy Stone!
+ສະບາຍດີ ຟູຈີ! ສະບາຍ ດີ ຟູເຈຍ! ສະຫວັດດີດີ, ຟຸຈີຫີນ!
+
+705
+00:45:35,350 --> 00:45:37,350
+[OLIVE]
+Some mail for you, Homer.
+ມີຈົດຫມາຍບາງຢ່າງ ສໍາ ລັບເຈົ້າ, ໂຮມເປີ.
+
+706
+00:45:37,850 --> 00:45:42,050
+[OLIVE]
+And some clothes for you, dear--  let's go see if they fit.
+ແລະເຄື່ອງນຸ່ງຫົ່ມບາງຢ່າງ ສໍາ ລັບເຈົ້າແມ
+- ໄປເບິ່ງວ່າພວກມັນ ເຫມາະ ສົມບໍ.
+
+707
+00:45:42,550 --> 00:45:45,350
+[PEACHES]
+Ain't you gonna see what it is, Homer?
+ເຈົ້າຈະບໍ່ເຫັນວ່າມັນເປັນຫຍັງ, ໂຮມເປີ?
+
+708
+00:45:45,850 --> 00:45:47,850
+[MR. ROSE]
+Mind your own business, Peaches.
+ເບິ່ງແຍງເລື່ອງຂອງເຈົ້າເອງ, Peaches.
+
+709
+00:45:48,350 --> 00:45:50,350
+[PEACHES]
+Sorry, Homer...
+ຂໍໂທດ, ໂຮມເປີ...
+
+710
+00:45:50,850 --> 00:45:54,000
+[HOMER]
+Aren't you worried that people will cut their feet?
+ເຈົ້າບໍ່ກັງວົນວ່າຄົນຈະຕັດຕີນຂອງພວກເຂົາບໍ?
+
+711
+00:45:54,500 --> 00:46:00,500
+[CANDY]
+Nobody will swim here until next summer. By then, the water will have rubbed the glass smooth against the sand--there won't be any sharp edges.
+ບໍ່ມີໃຜຈະລອຍນ້ ໍາ ຢູ່ບ່ອນນີ້ຈົນຮອດລະດູຮ້ອນປີຫນ້າ. ໃນເວລານັ້ນ
+, ນ້ ໍາ ຈະໄດ້ລ້າງແກ້ວຢ່າງລຽບງ່າຍຕໍ່ຊາຍ - ຈະບໍ່ມີແຄມທີ່ແຄບໃດໆ.
+
+712
+00:46:01,000 --> 00:46:07,000
+[CANDY]
+See? That's last year's glass, or from some year before. I put glass here every year. The ocean makes it beautiful.
+ເຈົ້າເຫັນບໍ? ນັ້ນແມ່ນແກ້ວຂອງປີທີ່ຜ່ານມາ, ຫຼືຈາກບາງປີກ່ອນ
+. ຂ້ອຍວາງແກ້ວຢູ່ນີ້ທຸກໆປີ. ມະຫາສະຫມຸດເຮັດໃຫ້ມັນສວຍງາມ.
+
+713
+00:46:07,500 --> 00:46:09,500
+[CANDY]
+Give me your hand.
+ມອບມືໃຫ້ຂ້ອຍ.
+
+714
+00:46:10,000 --> 00:46:16,000
+[CANDY]
+*Nobody* volunteers for the Burma run--he said so himself. And nobody knows *me* better than him! So how am I supposed to feel? He's a bomber pilot and I'm just selfish, I know. Well, I'm *not* a brave little girl and I'm *not* sorry.
+* ບໍ່ມີໃຜ * ສະຫມັກສະຫມັກ ສໍາ ລັບການແລ່ນມຽນມາ - ລາວເວົ້າດັ່ງນັ້ນເອງ. ແລະບໍ່ມີໃຜຮູ້ * ຂ້ອຍ * ດີກວ່າລາວ! ສະນັ້ນຂ້ອຍຄວນຮູ້ສຶກແນວໃດ
+? ລາວເປັນນັກບິນລະເບີດແລະຂ້ອຍພຽງແຕ່ເປັນຕົວເອງ, ຂ້ອຍຮູ້. ດີ, ຂ້ອຍ * ບໍ່ແມ່ນ * ເດັກຍິງນ້ອຍທີ່ກ້າຫານແລະຂ້ອຍ * ບໍ່ * ຂໍໂທດ.
+
+715
+00:46:16,500 --> 00:46:22,500
+[CANDY]
+I *know* this was right.  I told you. I'm not good at being alone.  I told him, too.
+ຂ້ອຍ * ຮູ້ວ່າ* ນີ້ແມ່ນຖືກຕ້ອງ. ຂ້ອຍບອກເຈົ້າແລ້ວ.
+ຂ້ອຍບໍ່ດີໃນການຢູ່ຄົນດຽວ. ຂ້ອຍເວົ້າກັບລາວເຊັ່ນກັນ.
+
+716
+00:46:23,000 --> 00:46:25,000
+[CANDY]
+I *know* this was right.
+ຂ້ອຍ * ຮູ້ວ່າ * ນີ້ແມ່ນຖືກຕ້ອງ.
+
+717
+00:46:25,500 --> 00:46:27,500
+[HOMER]
+Right.
+ແມ່ນແລ້ວ.
+
+718
+00:46:28,000 --> 00:46:31,150
+[MR. ROSE]
+Slow down, Homer--don't be in such a big hurry.
+ຊ້າລົງ, ໂຮມເປີ - ຢ່າໄວຫຼາຍປານໃດ.
+
+719
+00:46:31,650 --> 00:46:33,650
+[HOMER]
+This is easy--I'm not hurrying.
+ນີ້ແມ່ນງ່າຍດາຍ - ຂ້ອຍບໍ່ໄດ້ໄວ.
+
+720
+00:46:34,150 --> 00:46:36,250
+[MR. ROSE]
+You still doin' it too fast!
+ເຈົ້າຍັງເຮັດມັນໄວເກີນໄປ!
+
+721
+00:46:36,750 --> 00:46:41,300
+[ROSE ROSE]
+He's in a big hurry, all right. I told you he's in trouble.
+ລາວມີຄວາມຮີບດ່ວນຫຼາຍ, ດີ. ຂ້ອຍບອກເຈົ້າວ່າລາວຢູ່ໃນຄວາມຫຍຸ້ງຍາກ.
+
+722
+00:46:41,800 --> 00:46:47,050
+[HOMER]
+Just tell me. Do you want me to go? Do you want me to stay?
+ພຽງແຕ່ບອກຂ້ອຍ. ເຈົ້າຢາກໃຫ້ຂ້ອຍໄປບໍ? ເຈົ້າຕ້ອງການໃຫ້ຂ້ອຍຢູ່ບໍ?
+
+723
+00:46:47,550 --> 00:46:49,550
+[CANDY]
+It will be okay.
+ມັນຈະດີດີ.
+
+724
+00:46:50,050 --> 00:46:52,050
+[HOMER]
+*What* will be okay?
+* ຫຍັງ * ຈະດີບໍ?
+
+725
+00:46:52,550 --> 00:46:58,550
+[CANDY]
+We have to wait and see. I think that, for *everything* in life, you have to wait and see.
+ພວກເຮົາຕ້ອງລໍຖ້າແລະເບິ່ງ. ຂ້ອຍຄິດວ່າ, ສໍາ ລັບ *
+ທຸກສິ່ງທຸກຢ່າງ * ໃນຊີວິດ, ເຈົ້າຕ້ອງ ລໍຖ້າ ແລະ ເບິ່ງ.
+
+726
+00:46:59,050 --> 00:47:01,850
+[HOMER]
+I'll just move on, get another job somewhere.
+ຂ້ອຍຈະຍ້າຍໄປຕໍ່ໄປ, ຊອກວຽກອື່ນຢູ່ບ່ອນໃດຫນຶ່ງ.
+
+727
+00:47:02,350 --> 00:47:08,300
+[RAY]
+Every time you throw a snail off the dock, you're makin' someone start his whole life over.
+ທຸກຄັ້ງທີ່ເຈົ້າຖິ້ມແມງໄມ້ອອກຈາກທ່າເຮືອ, ເຈົ້າ ກໍາ
+ລັງເຮັດໃຫ້ຄົນ ຫນຶ່ງ ເລີ່ມຕົ້ນຊີວິດທັງ ຫມົດ ຂອງລາວຄືນໃຫມ່.
+
+728
+00:47:08,800 --> 00:47:11,600
+[CANDY]
+Maybe we're doing the snails a favor, Daddy.
+ບາງທີພວກເຮົາ ກໍາ ລັງເຮັດຄວາມສະບາຍໃຈກັບແມງໄມ້, ພໍ່.
+
+729
+00:47:12,100 --> 00:47:15,250
+[RAY]
+It's gettin' late. I think I'll pack it in.
+ມັນ ກໍາ ລັງຊ້າແລ້ວ. ຂ້ອຍຄິດວ່າຂ້ອຍຈະເກັບມັນໄວ້.
+
+730
+00:47:15,750 --> 00:47:17,750
+[CANDY]
+Good night, Daddy.
+ສະບາຍດີ, ພໍ່.
+
+731
+00:47:18,250 --> 00:47:20,700
+[CANDY]
+We'll just have to wait and see.
+ພວກເຮົາພຽງແຕ່ຕ້ອງລໍຖ້າແລະເບິ່ງ.
+
+732
+00:47:21,200 --> 00:47:27,200
+[OLIVE]
+I used to hate it when Wally went back to college--even when it was just college! And this was when his father was still alive... I hated it even then. Naturally I hate this more.
+ຂ້ອຍເຄີຍກຽດຊັງມັນເມື່ອວໍລີກັບຄືນໄປໂຮງຮຽນວິທະຍາໄລ - ເຖິງແມ່ນວ່າມັນພຽງແຕ່ມະຫາວິທະຍາໄລເທົ່ານັ້ນ!
+ແລະນີ້ແມ່ນໃນເວລາທີ່ພໍ່ຂອງລາວຍັງມີຊີວິດຢູ່... ຂ້ອຍກຽດມັນເຖິງແມ່ນວ່າໃນເວລານັ້ນ. ແນ່ນອນຂ້ອຍກຽດ ຊັງສິ່ງນີ້ຫຼາຍຂຶ້ນ.
+
+733
+00:47:27,700 --> 00:47:33,700
+[OLIVE]
+What I mean is... I would like it very much if you thought you could be happy here, Homer.
+ຂ້ອຍຫມາຍຄວາມວ່າ...
+ຂ້ອຍຢາກມັນຫຼາຍຖ້າເຈົ້າຄິດວ່າເຈົ້າສາມາດມີຄວາມສຸກຢູ່ບ່ອນນີ້ໄດ້, ໂຮມເປີ.
+
+734
+00:47:34,200 --> 00:47:37,700
+[HOMER]
+Mrs. Worthington, I feel I'm very lucky to be here.
+ທ່ານນາງວໍຕິງຕັນ, ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍໂຊກດີຫຼາຍທີ່ຢູ່ບ່ອນນີ້.
+
+735
+00:47:38,200 --> 00:47:44,200
+[OLIVE]
+There's not a lot of work in the winter, and you'll have to tolerate Vernon--even Wally despises him, and Wally likes everyone.
+ບໍ່ມີວຽກຫຼາຍໃນລະດູຫນາວ, ແລະເຈົ້າຈະຕ້ອງຍອມຮັບເວຣນອນ
+- ເຖິງແມ່ນວ່າວໍລີກຽດຊັງລາວ, ແລະວໍຣີມັກທຸກຄົນ.
+
+736
+00:47:44,700 --> 00:47:48,900
+[HOMER]
+I think Wally will be fine, Mrs. Worthington--he seems indestructible to me.
+ຂ້ອຍຄິດວໍລີຈະດີດີ, ທ່ານນາງວໍຕິ້ງຕັນ -
+ລາວເບິ່ງຄືວ່າບໍ່ສາມາດທໍາລາຍໄດ້ຕໍ່ຂ້ອຍ.
+
+737
+00:47:49,400 --> 00:47:52,200
+[OLIVE]
+I don't know.  Just promise me one thing.
+ຂ້ອຍບໍ່ຮູ້. ພຽງແຕ່ສັນຍາຂ້ອຍສິ່ງດຽວ.
+
+738
+00:47:52,700 --> 00:47:54,700
+[HOMER]
+Uh... sure.
+ໂອ້... ແນ່ນອນ.
+
+739
+00:47:55,200 --> 00:48:00,800
+[OLIVE]
+Just promise me that, if there's a blizzard, you'll move into Wally's room until it's over.
+ພຽງແຕ່ສັນຍາໃຫ້ຂ້ອຍວ່າ, ຖ້າມີພາຍຸຫິມະ,
+ເຈົ້າຈະຍ້າຍໄປຫ້ອງຂອງວໍລີຈົນກວ່າມັນຈະສິ້ນສຸດລົງ.
+
+740
+00:48:01,300 --> 00:48:06,200
+[OLIVE]
+Good-bye. Have a safe trip home. Thank you, again, for all your hard work.
+ສະບາຍດີ. ມີການເດີນທາງກັບບ້ານຢ່າງປອດໄພ. ຂອບໃຈອີກເທື່ອຫນຶ່ງ
+, ສໍາ ລັບການເຮັດວຽກ ຫນັກ ຂອງທ່ານທັງ ຫມົດ.
+
+741
+00:48:06,700 --> 00:48:08,800
+[MR. ROSE]
+You take care now, Mrs. Worthin'ton.
+ເຈົ້າເບິ່ງແຍງຕົວເອງດຽວນີ້, ທ່ານນາງວໍຕິນຕັນ.
+
+742
+00:48:09,300 --> 00:48:11,750
+[OLIVE]
+Good-bye, Arthur.  Homer, I'll see you tomorrow?
+ສະບາຍດີ ແອດເຕີ. ໂຮມເປີ, ຂ້ອຍຈະເຫັນເຈົ້າມື້ອື່ນບໍ?
+
+743
+00:48:12,250 --> 00:48:14,250
+[HOMER]
+Right.
+ແມ່ນແລ້ວ.
+
+744
+00:48:14,750 --> 00:48:16,750
+[MUDDY]
+We all set, I think.
+ຂ້ອຍຄິດວ່າພວກເຮົາພ້ອມແລ້ວ.
+
+745
+00:48:17,250 --> 00:48:20,050
+[MR. ROSE]
+You all take care of yourself, too, Homer!
+ເຈົ້າທັງ ຫມົດ ຈົ່ງເບິ່ງແຍງຕົວເອງເຊັ່ນກັນ, ໂຮມເປີ!
+
+746
+00:48:20,550 --> 00:48:22,550
+[PEACHES]
+We see you next harvest.
+ພວກເຮົາເຫັນເຈົ້າໃນລະດູການເກັບກ່ຽວຕໍ່ໄປ.
+
+747
+00:48:23,050 --> 00:48:25,050
+[MUDDY]
+Don't freeze to death, Homer.
+ຢ່າເຢັນຈົນຕາຍ, ໂຮມເປີ.
+
+748
+00:48:25,550 --> 00:48:29,400
+[JACK]
+Go on and freeze to death if you want to, Homer.
+ໄປແລະກ້ອນຕາຍຖ້າເຈົ້າຢາກ, ໂຮມເປີ.
+
+749
+00:48:29,900 --> 00:48:32,000
+[MR. ROSE]
+Now, now, Jack--that just ain't right.
+ຕອນນີ້, ດຽວນີ້, ແຈກ - ນັ້ນພຽງແຕ່ບໍ່ຖືກຕ້ອງ.
+
+750
+00:48:32,500 --> 00:48:34,950
+[ROSE ROSE]
+You just stay out of trouble, Homer!
+ເຈົ້າພຽງແຕ່ຢູ່ຫ່າງຈາກຄວາມຫຍຸ້ງຍາກ, ໂຮມເປີ!
+
+751
+00:48:35,450 --> 00:48:37,450
+[CANDY]
+So, you're staying.
+ສະນັ້ນ, ເຈົ້າຈະຢູ່.
+
+752
+00:48:37,950 --> 00:48:41,100
+[CANDY]
+Olive told me.  You might have told me yourself.
+ໂອລິວບອກຂ້ອຍ. ເຈົ້າອາດຈະບອກຂ້ອຍເອງ.
+
+753
+00:48:41,600 --> 00:48:44,400
+[HOMER]
+I'm just waiting and seeing. Like you said.
+ຂ້ອຍພຽງແຕ່ລໍຖ້າແລະເບິ່ງ. ດັ່ງທີ່ທ່ານບອກ.
+
+754
+00:48:44,900 --> 00:48:48,050
+[HOMER]
+Dear Dr. Larch, thank you for your doctor's bag...
+ດຣ ລາຣັກທີ່ຮັກແພງ, ຂອບໃຈ ສໍາ ລັບຖົງຂອງຫມໍຂອງທ່ານ...
+
+755
+00:48:48,550 --> 00:48:53,100
+[HOMER]
+...although it seems that I will not have the occasion to use it.
+ເຖິງແມ່ນວ່າມັນເບິ່ງຄືວ່າຂ້ອຍຈະບໍ່ມີໂອກາດທີ່ຈະໃຊ້ມັນ.
+
+756
+00:48:53,600 --> 00:48:59,600
+[HOMER]
+Barring some emergency, of course. I am not a doctor. With all due respect to your profession. I am enjoying my life here.
+ຍົກເວັ້ນການສຸກເສີນບາງຢ່າງແນ່ນອນ. ຂ້ອຍບໍ່ແມ່ນຫມໍ. ດ້ວຍຄວາມເຄົາລົບທັງ
+ຫມົດ ຕໍ່ອາຊີບຂອງທ່ານ. ຂ້ອຍ ກໍາ ລັງເພີດເພີນກັບຊີວິດຂອງຂ້ອຍຢູ່ນີ້.
+
+757
+00:49:00,100 --> 00:49:06,100
+[HOMER]
+I've looked at so many women... I mean, I've seen *everything* about them, *everything*... but I never felt a thing. I felt nothing. Now... with you... it *hurts*... to look at you.
+ຂ້ອຍໄດ້ເບິ່ງແມ່ຍິງຫຼາຍຄົນ... ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍໄດ້ເຫັນ * ທຸກຢ່າງ * ກ່ຽວກັບພວກເຂົາ, * ທຸກສິ່ງທຸກຢ່າງ *
+... ແຕ່ຂ້ອຍບໍ່ເຄີຍຮູ້ສຶກຫຍັງເລີຍ. ຂ້ອຍບໍ່ຮູ້ສຶກໃດໆ. ດຽວນີ້... ກັບເຈົ້າ... ມັນ * ເຈັບປວດ *... ເບິ່ງເຈົ້າ.
+
+758
+00:49:06,600 --> 00:49:12,550
+[HOMER]
+I am enjoying being a lobsterman and an orchardman--in fact, I have never enjoyed myself so much.
+ຂ້ອຍ ກໍາ ລັງເພີດເພີນກັບການເປັນຄົນໂລບສເຕີແລະຄົນສວນ ຫມາກ
+ໄມ້ - ໃນຄວາມເປັນຈິງ, ຂ້ອຍບໍ່ເຄີຍມີຄວາມສຸກຫຼາຍປານໃດ.
+
+759
+00:49:13,050 --> 00:49:18,650
+[HOMER]
+The truth is, I want to stay here. I believe I am being of *some* use.
+ຄວາມຈິງແມ່ນ, ຂ້ອຍຢາກຢູ່ບ່ອນນີ້.
+ຂ້ອຍເຊື່ອວ່າຂ້ອຍ ກໍາ ລັງເປັນປະໂຫຍດ * ບາງຢ່າງ *.
+
+760
+00:49:19,150 --> 00:49:25,150
+[LARCH]
+My dear Homer, I thought you were over your adolescence, that period which I would define as the first time in our lives when we imagine we have something terrible to hide from those who love us.
+ໂຮມເປີທີ່ຮັກແພງຂອງຂ້ອຍ, ຂ້ອຍຄິດວ່າເຈົ້າໄດ້ຜ່ານໄລຍະໄວລຸ້ນຂອງທ່ານແລ້ວ, ໄລຍະທີ່ຂ້ອຍຈະ ກໍາ ນົດວ່າເປັນຄັ້ງ ທໍາ
+ອິດໃນຊີວິດຂອງພວກເຮົາເມື່ອພວກເຮົາຄິດວ່າພວກເຮົາມີບາງສິ່ງບາງຢ່າງທີ່ຮ້າຍແຮງທີ່ຈະເຊື່ອງຈາກຜູ້ທີ່ຮັກພວກເຮົາ.
+
+761
+00:49:25,650 --> 00:49:29,850
+[LARCH]
+Do you think it's not obvious to us what's happened to you?
+ເຈົ້າຄິດວ່າມັນບໍ່ແນ່ນອນຕໍ່ພວກເຮົາວ່າເກີດຫຍັງຂຶ້ນກັບເຈົ້າບໍ?
+
+762
+00:49:30,350 --> 00:49:36,350
+[LARCH]
+You're fallen in love, haven't you? By the way, whatever you're up to can't be too good for your heart. Then again, it's the sort of condition that can be made worse by worrying about it. So don't worry about it!
+ເຈົ້າໄດ້ຕົກຮັກແລ້ວ, ແມ່ນບໍ? ໂດຍທາງ, ສິ່ງໃດທີ່ທ່ານ ກໍາ ລັງເຮັດບໍ່ໄດ້ດີເກີນໄປ ສໍາ ລັບຫົວໃຈຂອງທ່ານ.
+ຫຼັງຈາກນັ້ນອີກເທື່ອຫນຶ່ງ, ມັນແມ່ນສະພາບປະເພດທີ່ສາມາດເຮັດໃຫ້ຮ້າຍແຮງຂຶ້ນໂດຍການກັງວົນກ່ຽວກັບມັນ. ສະນັ້ນຢ່າກັງ ວົນເລື່ອງມັນ!
+
+763
+00:49:36,850 --> 00:49:42,850
+[HOMER]
+Dear Dr. Larch, what I am learning here may not be as important as what I learned from you, but everything is new to me. Yesterday I learned how to poison mice. You use poison oats and poison corn.
+ດຣ ລາຣັກທີ່ຮັກແພງ, ສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງຮຽນຮູ້ຢູ່ນີ້ອາດຈະບໍ່ສໍາຄັນເທົ່າກັບສິ່ງທີ່ຂ້ອຍຮຽນຮູ້ຈາກເຈົ້າ,
+ແຕ່ທຸກຢ່າງແມ່ນໃຫມ່ ສໍາ ລັບຂ້ອຍ. ມື້ວານນີ້ຂ້ອຍໄດ້ຮຽນຮູ້ວິທີການເປັນພິດແມວ. ເຈົ້າໃຊ້ ຫມາກ ໄມ້ພິດແລະເຂົ້າພິດ.
+
+764
+00:49:43,350 --> 00:49:49,350
+[HOMER]
+Field mice girdle an apple tree. Pine mice kill the roots. I *know* what you have to do--you have to play God. Well... killing mice is as close as I want to come to playing God.
+ແມວພາກສະຫນາມແອວແມວແອັບເປິລ. ຫນູປິນຂ້າຮາກ. ຂ້ອຍ * ຮູ້* ເຈົ້າຕ້ອງເຮັດຫຍັງ -
+ເຈົ້າຕ້ອງຫຼິ້ນພຣະເຈົ້າ. ດີ... ການຂ້າແມງໄມ້ແມ່ນໃກ້ທີ່ສຸດທີ່ຂ້ອຍຢາກມາຫຼິ້ນພະເຈົ້າ.
+
+765
+00:49:49,850 --> 00:49:55,850
+[LARCH]
+Do I interfere? When absolutely helpless women tell me that they simply *can't* have an abortion, that they simply *must* go through with having another--and yet another-- orphan... do I interfere? *Do* I? I do not. I do not even *recommend*. I just give them what they want: an orphan or an abortion.  You are my work of art, Homer. Everything else has been just a job. I don't know if you've got a work of art in you, but I know what your job is. You're a doctor!
+ຂ້ອຍແຊກແຊງບໍ? ເມື່ອແມ່ຍິງທີ່ບໍ່ມີຄວາມຊ່ວຍເຫຼືອຢ່າງສົມບູນບອກຂ້ອຍວ່າພວກເຂົາພຽງແຕ່ * ບໍ່ສາມາດ* ມີການທ້ອງຖິ່ນ, ວ່າພວກເຂົາພຽງແຕ່ ** ຕ້ອງຜ່ານການມີອີກຄົນຫນຶ່ງ - ແລະອີກຄົນ ຫນຶ່ງ - ເດັກເຖົ້າ... ຂ້ອຍແບ່ງປັນບໍ? * ຂ້ອຍ *
+ຂ້ອຍ? ຂ້ອຍບໍ່ເຮັດ. ຂ້ອຍບໍ່ເຖິງແມ່ນວ່າ * ແນະ ນໍາ*. ຂ້ອຍພຽງແຕ່ໃຫ້ພວກເຂົາສິ່ງທີ່ພວກເຂົາຕ້ອງການ: ເດັກແຖົ້າຫຼືການທອດລູກ. ເຈົ້າເປັນຜົນງານສິລະປະຂອງຂ້ອຍ, ໂຮມເປີ. ທຸກສິ່ງອື່ນໆແມ່ນພຽງແຕ່ວຽກງານ. ຂ້ອຍບໍ່ໄດ້ຮູ້ວ່າເຈົ້າມີ
+
+766
+00:49:56,350 --> 00:49:58,350
+[HOMER]
+I am not a doctor.
+ຂ້ອຍບໍ່ແມ່ນຫມໍ.
+
+767
+00:49:58,850 --> 00:50:04,850
+[LARCH]
+You know everything I know, plus what you've taught yourself--you're a better doctor then I am and you know it!
+ເຈົ້າຮູ້ທຸກຢ່າງທີ່ຂ້ອຍຮູ້, ບວກກັບສິ່ງທີ່ເຈົ້າໄດ້ສອນຕົວເອງ
+- ເຈົ້າເປັນຫມໍທີ່ດີກວ່າຂ້ອຍແລະເຈົ້າຮູ້ມັນ!
+
+768
+00:50:05,350 --> 00:50:10,600
+[LARCH]
+They're going to replace me, Homer! The Board of Trustees is looking for my *replacement*!
+ພວກເຂົາຈະທົດແທນຂ້ອຍ, ໂຮມເປີ! ຄະນະກໍາມະການຄຸ້ມຄອງ
+ກໍາ ລັງຊອກຫາ * ຜູ້ທົດແທນຂອງຂ້ອຍ *!
+
+769
+00:50:11,100 --> 00:50:13,200
+[HOMER]
+I can't replace you! I'm sorry...
+ຂ້ອຍບໍ່ສາມາດທົດແທນເຈົ້າໄດ້! ຂ້ອຍຂໍໂທດ...
+
+770
+00:50:13,700 --> 00:50:19,650
+[LARCH]
+Sorry? I'm not 'sorry'! Not for anything I've done. I'm not even sorry that I love you!
+ຂໍໂທດບໍ? ຂ້ອຍບໍ່ແມ່ນ'ຂໍໂທດ'! ບໍ່ແມ່ນຫຍັງທີ່ຂ້ອຍເຮັດ
+. ຂ້ອຍບໍ່ເສຍໃຈເລີຍວ່າຂ້ອຍຮັກເຈົ້າ!
+
+771
+00:50:20,150 --> 00:50:25,050
+[LARCH]
+I think we may have lot him to the world. He's not coming back.
+ຂ້ອຍຄິດວ່າພວກເຮົາອາດຈະເອົາລາວໄປສູ່ໂລກ. ລາວຈະບໍ່ກັບມາ.
+
+772
+00:50:25,550 --> 00:50:27,550
+[HERO]
+Who's that?
+ນັ້ນແມ່ນໃຜ?
+
+773
+00:50:28,050 --> 00:50:30,050
+[PEACHES]
+It's that Homer!
+ມັນເປັນໂຮມເປີນັ້ນ!
+
+774
+00:50:30,550 --> 00:50:32,550
+[MUDDY]
+It's that Candy, too...
+ມັນເປັນແຄນດີນັ້ນເຊັ່ນກັນ...
+
+775
+00:50:33,050 --> 00:50:35,150
+[MR. ROSE]
+Don't this place look like home?
+ບ່ອນນີ້ເບິ່ງຄືວ່າເຮືອນບໍ?
+
+776
+00:50:35,650 --> 00:50:37,650
+[PEACHES]
+It look nicer then home!
+ມັນເບິ່ງດີກວ່າເຮືອນ!
+
+777
+00:50:38,150 --> 00:50:42,350
+[MR. ROSE]
+What have you two been doin' to make it look so nice?
+ເຈົ້າທັງສອງ ກໍາ ລັງເຮັດຫຍັງເພື່ອເຮັດໃຫ້ມັນເບິ່ງດີຫຼາຍ?
+
+778
+00:50:42,850 --> 00:50:44,850
+[ROSE ROSE]
+How is that Wally doing?
+ວາລີຄົນນັ້ນເປັນແນວໃດ?
+
+779
+00:50:45,350 --> 00:50:49,900
+[CANDY]
+Oh, he's fine! I just heard from him. He's bombing all these places...
+ໂອ້, ລາວບໍ່ເປັນຫຍັງ! ຂ້ອຍຫາກໍ່ໄດ້ຍິນຈາກລາວ. ລາວ
+ກໍາ ລັງວາງລະເບີດສະຖານທີ່ທັງ ຫມົດ ເຫຼົ່ານີ້...
+
+780
+00:50:50,400 --> 00:50:52,400
+[HOMER]
+...bridges, oil refineries, fuel depots...
+... ຂົວ, ໂຮງງານປຸງແຕ່ງນ້ ໍາ ມັນ, ບ່ອນເກັບເຊື້ອໄຟ...
+
+781
+00:50:52,900 --> 00:50:54,900
+[HOMER]
+Where's Jack?
+ແຈກຢູ່ໃສ?
+
+782
+00:50:55,400 --> 00:50:57,850
+[MUDDY]
+He just wasn't up for the trip.
+ລາວພຽງແຕ່ບໍ່ພ້ອມທີ່ຈະເດີນທາງ.
+
+783
+00:50:58,350 --> 00:51:01,500
+[MR. ROSE]
+That Jack just never knew what his business was.
+ແຈກນັ້ນພຽງແຕ່ບໍ່ເຄີຍຮູ້ວ່າທຸລະກິດຂອງລາວແມ່ນຫຍັງ.
+
+784
+00:51:02,000 --> 00:51:05,850
+[MR. ROSE]
+You pickin' nothin' but cider apples, Peaches--I hope you understand that.
+ເຈົ້າ ກໍາ ລັງເອົາຫຍັງເລີຍນອກຈາກ ຫມາກ ໄມ້ຊີເດີ
+, Peaches - ຂ້ອຍຫວັງວ່າເຈົ້າຈະເຂົ້າໃຈມັນ.
+
+785
+00:51:06,350 --> 00:51:09,150
+[PEACHES]
+They ain't drops--I picked 'em off the tree!
+ພວກເຂົາບໍ່ແມ່ນການຫຼຸດລົງ - ຂ້ອຍເອົາພວກມັນຈາກຕົ້ນໄມ້!
+
+786
+00:51:09,650 --> 00:51:15,650
+[MR. ROSE]
+Then you pickin' 'em too fast--they ain't no better than drops to me. See that bruise, and that one? *Half* of these is bruised! Look at this one! It ain't got no stem! You might as well *step* on 'em, too--they only good for cider.
+ຫຼັງຈາກນັ້ນເຈົ້າເອົາພວກມັນໄວເກີນໄປ - ພວກເຂົາບໍ່ດີກວ່າການຫຼຸດລົງໃຫ້ຂ້ອຍ. ເບິ່ງບາດແຜນັ້ນ, ແລະຄົນນັ້ນບໍ? *
+ເຄິ່ງຫນຶ່ງຂອງພວກນີ້ຖືກບາດແຜ! ເບິ່ງຄົນນີ້! ມັນບໍ່ມີກະດູກ! ເຈົ້າອາດຈະ * ຍ່າງໃສ່ພວກມັນເຊັ່ນກັນ - ພວກມັນພຽງແຕ່ດີ ສໍາ ລັບຊີເປີເທົ່ານັ້ນ.
+
+787
+00:51:16,150 --> 00:51:22,150
+[CANDY]
+Do you think I'm having a good time? Do you think I'm just *teasing* you? Do you think I *know* whether I want you or Wally?
+ເຈົ້າຄິດວ່າຂ້ອຍ ກໍາ ລັງມ່ວນຊື່ນບໍ? ເຈົ້າຄິດວ່ານຂ້ອຍພຽງແຕ່ *
+ລໍາບາກເຈົ້າ?* ເຈົ້າຄິດຂ້ອຍ * ຮູ້ວ່າ * ຂ້ອຍຕ້ອງການເຈົ້າຫຼືວໍລີບໍ?
+
+788
+00:51:22,650 --> 00:51:25,800
+[HOMER]
+So we should "wait and see." For how long?
+ສະນັ້ນພວກເຮົາຄວນ"ລໍຖ້າແລະເບິ່ງ." ດົນປານໃດ?
+
+789
+00:51:26,300 --> 00:51:30,500
+[CANDY]
+I grew up with Wally. I began my adult life with him.
+ຂ້ອຍເຕີບໃຫຍ່ກັບວໍລີ. ຂ້ອຍເລີ່ມຕົ້ນຊີວິດຜູ້ໃຫຍ່ຂອງຂ້ອຍກັບລາວ.
+
+790
+00:51:31,000 --> 00:51:33,800
+[HOMER]
+Fine. That's all there is to it then.
+ດີແລ້ວ. ນັ້ນແມ່ນທັງຫມົດທີ່ມັນມີຢູ່ແລ້ວ.
+
+791
+00:51:34,300 --> 00:51:39,550
+[CANDY]
+No! That's not all there is to it! I love you, too--I *know* I do.
+ບໍ່! ນັ້ນບໍ່ແມ່ນທັງຫມົດທີ່ມັນມີ!
+ຂ້ອຍຮັກເຈົ້າເຊັ່ນກັນ - ຂ້ອຍ * ຮູ້ວ່າ * ຂ້ອຍເຮັດ.
+
+792
+00:51:40,050 --> 00:51:42,150
+[HOMER]
+Okay, okay--I know you do, too.
+ດີ, ດີ - ຂ້ອຍຮູ້ວ່າເຈົ້າເຮັດເຊັ່ນກັນ.
+
+793
+00:51:42,650 --> 00:51:46,500
+[CANDY]
+It's a good thing I didn't have that baby, isn't it?
+ມັນດີທີ່ຂ້ອຍບໍ່ມີລູກນັ້ນ, ແມ່ນບໍ?
+
+794
+00:51:47,000 --> 00:51:53,000
+[PEACHES]
+Ain't you eatin' with us, Rose?  She used to eat with us. Now we ain't good enough for her, I guess.
+ເຈົ້າບໍ່ໄດ້ກິນກັບພວກເຮົາບໍ, ໂຣຊສ໌? ນາງເຄີຍກິນກັບພວກເຮົາຍັງ
+. ດຽວນີ້ພວກເຮົາບໍ່ດີພໍ ສໍາ ລັບນາງ, ຂ້ອຍຄິດວ່າ.
+
+795
+00:51:53,500 --> 00:51:55,500
+[HERO]
+She ain't hungry, maybe.
+ນາງບໍ່ຢາກກິນ, ບາງທີ.
+
+796
+00:51:56,000 --> 00:51:59,500
+[MUDDY]
+She ain't hungry every mornin' 'cause she's sick every mornin'.
+ນາງບໍ່ຢາກກິນທຸກໆເຊົ້າເພາະວ່ານາງເຈັບທຸກເຊົ້າ.
+
+797
+00:52:00,000 --> 00:52:02,000
+[HOMER]
+You okay, Rose?
+ເຈົ້າດີບໍ, ໂຣຊສ໌?
+
+798
+00:52:02,500 --> 00:52:05,650
+[ROSE ROSE]
+I guess you must like watchin' me be sick...
+ຂ້ອຍຄິດວ່າເຈົ້າຕ້ອງມັກເບິ່ງຂ້ອຍເຈັບປ່ວຍ...
+
+799
+00:52:06,150 --> 00:52:08,600
+[HOMER]
+I don't like watching anyone be sick.
+ຂ້ອຍບໍ່ມັກເບິ່ງໃຜເຈັບປ່ວຍ.
+
+800
+00:52:09,100 --> 00:52:11,100
+[HOMER]
+How many months are you?
+ເຈົ້າມີອາຍຸຫຼາຍປານໃດ?
+
+801
+00:52:11,600 --> 00:52:14,050
+[HOMER]
+You're not yet three months, are you?
+ເຈົ້າຍັງບໍ່ຮອດສາມເດືອນເທື່ອ, ແມ່ນບໍ?
+
+802
+00:52:14,550 --> 00:52:17,350
+[ROSE ROSE]
+Not yet. What do you know about it?
+ຍັງບໍ່ທັນ. ເຈົ້າຮູ້ຫຍັງກ່ຽວກັບມັນ?
+
+803
+00:52:17,850 --> 00:52:22,400
+[HOMER]
+I know more than I want to know about it. Who's the father?
+ຂ້ອຍຮູ້ຫຼາຍກ່ວາທີ່ຂ້ອຍຢາກຮູ້ກ່ຽວກັບມັນ. ພໍ່ແມ່ນໃຜ?
+
+804
+00:52:22,900 --> 00:52:26,050
+[ROSE ROSE]
+Don't trouble yourself about it, Homer--this ain't your business.
+ຢ່າກັງວົນຕົວເອງກ່ຽວກັບມັນ, ໂຮມເປີ - ນີ້ແມ່ນບໍ່ແມ່ນເລື່ອງຂອງທ່ານ.
+
+805
+00:52:26,550 --> 00:52:28,650
+[HOMER]
+But you don't look very happy.
+ແຕ່ເຈົ້າເບິ່ງຄືວ່າບໍ່ມີຄວາມສຸກຫຼາຍ.
+
+806
+00:52:29,150 --> 00:52:35,150
+[ROSE ROSE]
+*Happy*! What are you thinkin'? How am I supposed to take care of a baby! I can't have a baby.
+ເຈົ້າຄິດຫຍັງ? ຂ້ອຍຄວນເບິ່ງແຍງເດັກນ້ອຍແນວໃດ! ຂ້ອຍບໍ່ສາມາດມີລູກໄດ້.
+
+807
+00:52:35,650 --> 00:52:39,850
+[HOMER]
+Rose, please listen. Whatever you want to do, I can help you.
+ໂຣຊສ໌, ກະລຸນາຟັງ. ເຈົ້າຢາກເຮັດຫຍັງກໍ່ຕາມ, ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້.
+
+808
+00:52:40,350 --> 00:52:46,350
+[HOMER]
+What I mean is, if you don't want to... keep the baby, I know a place where you can go.
+ຂ້ອຍຫມາຍຄວາມວ່າ, ຖ້າເຈົ້າບໍ່ຢາກ...
+ຮັກສາເດັກນ້ອຍ, ຂ້ອຍຮູ້ບ່ອນທີ່ທ່ານສາມາດໄປໄດ້.
+
+809
+00:52:46,850 --> 00:52:51,050
+[ROSE ROSE]
+You think Daddy's gonna let me go anywhere? I ain't going *nowhere*.
+ເຈົ້າຄິດວ່າພໍ່ຈະປ່ອຍຂ້ອຍໄປບ່ອນໃດໆບໍ? ຂ້ອຍຈະບໍ່ໄປ * ບ່ອນໃດໆ*.
+
+810
+00:52:51,550 --> 00:52:57,500
+[ROSE ROSE]
+Why don't you just go back to your pickin', Homer? I can take care of it myself!
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ກັບຄືນໄປບ່ອນການເລືອກຂອງທ່ານ
+, ໂຮມເປີ? ຂ້ອຍສາມາດເບິ່ງແຍງມັນໄດ້ດ້ວຍຕົນເອງ!
+
+811
+00:52:58,000 --> 00:53:02,200
+[HOMER]
+Rose, listen--don't *do* anything. You know, I mean to yourself. Please listen...
+ໂຣຊສ໌, ຟັງ - ຢ່າ * ເຮັດຫຍັງເລີຍ. ເຈົ້າຮູ້ແລ້ວ
+, ຂ້ອຍ ຫມາຍ ຄວາມວ່າກັບຕົວເອງ. ກະລຸນາຟັງ...
+
+812
+00:53:02,700 --> 00:53:05,500
+[MR. ROSE]
+Homer! Is this a workin' day or what?
+ໂຮມເປີ! ນີ້ແມ່ນມື້ເຮັດວຽກຫຼືບໍ່?
+
+813
+00:53:06,000 --> 00:53:12,000
+[CANDY]
+We should take her to St. Cloud's. That much is obvious, isn't it? Let her make up her mind when she gets there...
+ພວກເຮົາຄວນພານາງໄປໂຮງຫມໍສຕ໌ ຄລູດ. ນັ້ນແມ່ນແນ່ນອນຫຼາຍ
+, ແມ່ນບໍ? ໃຫ້ນາງຕັດສິນໃຈເມື່ອນາງຮອດບ່ອນນັ້ນ...
+
+814
+00:53:12,500 --> 00:53:18,500
+[HOMER]
+I told her! She doesn't feel she can do that. Something about her father not letting her go anywhere...
+ຂ້ອຍບອກນາງແລ້ວ! ນາງບໍ່ຮູ້ສຶກວ່ານາງສາມາດເຮັດໄດ້ນັ້ນ.
+ບາງສິ່ງບາງຢ່າງກ່ຽວກັບພໍ່ຂອງນາງບໍ່ປ່ອຍໃຫ້ນາງໄປບ່ອນໃດໆ...
+
+815
+00:53:19,000 --> 00:53:21,100
+[CANDY]
+Well, we have to help her!
+ດີ, ພວກເຮົາຕ້ອງຊ່ວຍນາງ!
+
+816
+00:53:21,600 --> 00:53:24,400
+[CANDY]
+We have to do *something*. Don't we?  Homer?
+ພວກເຮົາຕ້ອງເຮັດ * ບາງສິ່ງບາງຢ່າງ*. ແມ່ນບໍ? ໂຮມເປີ?
+
+817
+00:53:24,900 --> 00:53:26,900
+[CANDY]
+Hi...
+ສະບາຍດີ...
+
+818
+00:53:27,400 --> 00:53:29,400
+[ROSE ROSE]
+Hi...
+ສະບາຍດີ...
+
+819
+00:53:29,900 --> 00:53:35,500
+[CANDY]
+I've got some more clothes for you-- I just keep forgetting to bring them with me.
+ຂ້ອຍມີເຄື່ອງນຸ່ງຫົ່ມອີກບາງຢ່າງ ສໍາ ລັບເຈົ້າ
+- ຂ້ອຍພຽງແຕ່ລືມເອົາພວກມັນກັບຂ້ອຍຢູ່.
+
+820
+00:53:36,000 --> 00:53:38,800
+[ROSE ROSE]
+I don't need no more clothes, thank you.
+ຂ້ອຍບໍ່ຕ້ອງການເຄື່ອງນຸ່ງຫົ່ມອີກແລ້ວ, ຂອບໃຈ.
+
+821
+00:53:39,300 --> 00:53:45,300
+[CANDY]
+Rose, I know what's going on. Homer told me. I got pregnant, too--about a year ago.  I've been through this.
+ໂຣຊສ໌, ຂ້ອຍຮູ້ວ່າເກີດຫຍັງຂຶ້ນ. ໂຮມເປີບອກຂ້ອຍ. ຂ້ອຍຖືພາເຊັ່ນກັນ
+- ປະມານ ຫນຶ່ງ ປີກ່ອນ. ຂ້ອຍໄດ້ຜ່ານສິ່ງນີ້ແລ້ວ.
+
+822
+00:53:45,800 --> 00:53:48,950
+[ROSE ROSE]
+You ain't been through what I been through, Candy.
+ເຈົ້າບໍ່ໄດ້ຜ່ານສິ່ງທີ່ຂ້ອຍຜ່ານໄປ, ແຄນດີ.
+
+823
+00:53:49,450 --> 00:53:51,450
+[CANDY]
+Yes, I *have*!
+ແມ່ນແລ້ວ, ຂ້ອຍ * ມີ *!
+
+824
+00:53:51,950 --> 00:53:53,950
+[CANDY]
+Who's the father, Rose?
+ພໍ່ແມ່ນໃຜ, ໂຣຊສ໌?
+
+825
+00:53:54,450 --> 00:53:56,550
+[CANDY]
+You want to have the baby?
+ເຈົ້າຢາກມີລູກບໍ?
+
+826
+00:53:57,050 --> 00:54:01,250
+[CANDY]
+I know where you can go. Homer and I can take you...
+ຂ້ອຍຮູ້ວ່າເຈົ້າສາມາດໄປໃສໄດ້. ໂຮມເປີແລະຂ້ອຍສາມາດພາເຈົ້າໄປ...
+
+827
+00:54:01,750 --> 00:54:03,750
+[ROSE ROSE]
+I can't go nowhere.
+ຂ້ອຍບໍ່ສາມາດໄປໃສເລີຍ.
+
+828
+00:54:04,250 --> 00:54:06,250
+[CANDY]
+Why?
+ເປັນຫຍັງ?
+
+829
+00:54:06,750 --> 00:54:09,200
+[CANDY]
+Is it the father? Does he know?
+ມັນເປັນພໍ່ບໍ? ລາວຮູ້ບໍ?
+
+830
+00:54:09,700 --> 00:54:15,650
+[CANDY]
+You can trust me. Is it Jack? It's not Jack, is it? It's *Muddy*! Is it Muddy?
+ເຈົ້າສາມາດເຊື່ອຂ້ອຍໄດ້. ມັນແມ່ນແຈກບໍ?
+ມັນບໍ່ແມ່ນແຈັກບໍ? ມັນແມ່ນ * ມູດດີ*! ມັນແມ່ນມູດດີບໍ?
+
+831
+00:54:16,150 --> 00:54:18,250
+[ROSE ROSE]
+No. It ain't Muddy. Muddy's just...
+ບໍ່. ມັນບໍ່ແມ່ນມູດດີ. ມູດດີພຽງແຕ່...
+
+832
+00:54:18,750 --> 00:54:20,750
+[ROSE ROSE]
+It sure ain't Jack.
+ມັນແນ່ນອນວ່າມັນບໍ່ແມ່ນແຈກ.
+
+833
+00:54:21,250 --> 00:54:23,250
+[MR. ROSE]
+I'll be up top...
+ຂ້ອຍຈະຢູ່ເທິງສຸດ...
+
+834
+00:54:23,750 --> 00:54:25,850
+[CANDY]
+She won't go to St. Cloud's!
+ນາງຈະບໍ່ໄປໂຮງຫມໍສຕ໌ ຄລູດ!
+
+835
+00:54:26,350 --> 00:54:29,150
+[HOMER]
+Well, we can't force her. It's her decision.
+ດີ, ພວກເຮົາບໍ່ສາມາດບັງຄັບໃຫ້ນາງໄດ້. ມັນເປັນການຕັດສິນໃຈຂອງນາງ.
+
+836
+00:54:29,650 --> 00:54:31,750
+[CANDY]
+You don't understand! It's her father...
+ເຈົ້າບໍ່ເຂົ້າໃຈ! ມັນແມ່ນພໍ່ຂອງນາງ...
+
+837
+00:54:32,250 --> 00:54:34,250
+[HOMER]
+Mr. Rose *knows*?
+ທ້າວ ໂຣສສ໌ * ຮູ້ບໍ?
+
+838
+00:54:34,750 --> 00:54:37,200
+[CANDY]
+He's the *father*! He's her baby's father!
+ລາວເປັນ * ພໍ່*! ລາວເປັນພໍ່ຂອງລູກຂອງນາງ!
+
+839
+00:54:37,700 --> 00:54:39,700
+[HOMER]
+Wait... *wait*! Are you sure?
+ຖ້າ... * ລໍຖ້າ*! ເຈົ້າແນ່ໃຈບໍ?
+
+840
+00:54:40,200 --> 00:54:43,350
+[CANDY]
+We've got to keep her away from that bastard!
+ພວກເຮົາຕ້ອງຮັກສານາງຢູ່ຫ່າງຈາກຄົນໂຊກຮ້າຍນັ້ນ!
+
+841
+00:54:43,850 --> 00:54:49,850
+[MR. ROSE]
+I didn't see where you was pickin' this mornin', Homer, but you musta worked up a big appetite. You look like you're serious about gettin' to your lunch today!
+ຂ້ອຍບໍ່ເຫັນວ່າເຈົ້າ ກໍາ ລັງເລືອກຢູ່ໃສໃນຕອນເຊົ້ານີ້, ໂຮມເປີ, ແຕ່ເຈົ້າຕ້ອງໄດ້ເຮັດວຽກຂຶ້ນຄວາມຢາກອາຫານໃຫຍ່
+. ເຈົ້າເບິ່ງຄືວ່າເຈົ້າຈິງໃຈກ່ຽວກັບການໄປກິນອາຫານທ່ຽງຂອງທ່ານມື້ນີ້!
+
+842
+00:54:50,350 --> 00:54:52,350
+[HOMER]
+Is it true?
+ມັນເປັນຄວາມຈິງບໍ?
+
+843
+00:54:52,850 --> 00:54:55,300
+[HOMER]
+Are you sleeping with your own daughter?
+ເຈົ້ານອນກັບລູກສາວຂອງເຈົ້າເອງບໍ?
+
+844
+00:54:55,800 --> 00:54:59,650
+[MR. ROSE]
+I think you been stayin' up too late at night, Homer.
+ຂ້ອຍຄິດວ່າເຈົ້າຕື່ນຊ້າເກີນໄປໃນຕອນກາງຄືນ, ໂຮມເປີ.
+
+845
+00:55:00,150 --> 00:55:04,350
+[HOMER]
+You're actually having sex with your own little girl? Is that possible?
+ເຈົ້າ ກໍາ ລັງມີເພດສໍາພັນກັບເດັກຍິງນ້ອຍຂອງເຈົ້າເອງບໍ
+? ມັນເປັນໄປໄດ້ບໍ?
+
+846
+00:55:04,850 --> 00:55:09,400
+[MR. ROSE]
+Ain't nobody havin' *sex* with my little girl, Homer--that's somethin' a father knows.
+ບໍ່ມີໃຜມີ * ເພດສໍາພັນ * ກັບລູກສາວນ້ອຍຂອງຂ້ອຍ
+, ໂຮມເປີ - ນັ້ນແມ່ນບາງສິ່ງບາງຢ່າງທີ່ພໍ່ຮູ້.
+
+847
+00:55:09,900 --> 00:55:13,050
+[HOMER]
+You're lying. How can you... with your own daughter!
+ເຈົ້າຕົວະ. ເຈົ້າສາມາດເຮັດໄດ້ແນວໃດ... ກັບລູກສາວຂອງທ່ານເອງ!
+
+848
+00:55:13,550 --> 00:55:19,550
+[MR. ROSE]
+Homer, don't you know what business you in? You don't wanna go into no business with me, Homer--ain't that right?
+ໂຮມເປີ, ເຈົ້າບໍ່ຮູ້ວ່າເຈົ້າເຮັດທຸລະກິດຫຍັງ?
+ເຈົ້າບໍ່ຢາກເຂົ້າໄປໃນທຸລະກິດໃດໆກັບຂ້ອຍ, ໂອມເປີ - ແມ່ນບໍ?
+
+849
+00:55:20,050 --> 00:55:23,200
+[HOMER]
+Go on, cut my clothes. I've got other clothes.
+ໄປ, ຕັດເຄື່ອງນຸ່ງຫົ່ມຂອງຂ້ອຍ. ຂ້ອຍມີເສື້ອຜ້າອື່ນໆ.
+
+850
+00:55:23,700 --> 00:55:29,700
+[MR. ROSE]
+You a fine one to be talkin' about lies. Shame! These people took you in. That boy Wally's at *war*!
+ເຈົ້າເປັນຄົນທີ່ດີທີ່ຈະເວົ້າກ່ຽວກັບຕົວະ. ໂຊກຮ້າຍ!
+ຄົນເຫຼົ່ານີ້ໄດ້ເອົາເຈົ້າເຂົ້າມາ. ເດັກຊາຍວໍລີນັ້ນຢູ່ໃນ * ສົງຄາມ *!
+
+851
+00:55:30,200 --> 00:55:32,200
+[HOMER]
+But she's your *daughter*...
+ແຕ່ນາງເປັນ * ລູກສາວຂອງທ່ານ *...
+
+852
+00:55:32,700 --> 00:55:38,700
+[MR. ROSE]
+And I *love* her! There ain't nobody else gonna treat her as good as I do!  I wouldn't do nothin' to hurt her, Homer--you must know that.
+ແລະຂ້ອຍ * ຮັກນາງ! ບໍ່ມີໃຜອື່ນທີ່ຈະປິ່ນປົວນາງດີເທົ່າກັບຂ້ອຍ!
+ຂ້ອຍຈະບໍ່ເຮັດຫຍັງເພື່ອເຮັດໃຫ້ນາງເຈັບປວດ, ໂຮມເປີ - ເຈົ້າຕ້ອງຮູ້ນັ້ນ.
+
+853
+00:55:39,200 --> 00:55:41,300
+[HOMER]
+She's *pregnant*. Do you know *that*?
+ນາງ * ຖືພາ*. ເຈົ້າຮູ້ * ນັ້ນບໍ?
+
+854
+00:55:41,800 --> 00:55:46,000
+[MUDDY]
+Don't mess in this, Homer, if you know what's good for you.
+ຢ່າເຂົ້າໄປໃນເລື່ອງນີ້, ໂຮມເປີ, ຖ້າເຈົ້າຮູ້ສິ່ງທີ່ດີ ສໍາ ລັບເຈົ້າ.
+
+855
+00:55:46,500 --> 00:55:48,950
+[HOMER]
+How long's this been going on, Muddy?
+ມັນເກີດຂຶ້ນເປັນເວລາດົນປານໃດ, ມູດດີ?
+
+856
+00:55:49,450 --> 00:55:51,900
+[MUDDY]
+Long enough. You ain't gonna stop it.
+ດົນພໍແລ້ວ. ເຈົ້າຈະບໍ່ຢຸດມັນ.
+
+857
+00:55:52,400 --> 00:55:58,400
+[MUDDY]
+There's my knife, Homer. It ain't gonna do *me* no good. You give that knife to Rose Rose, you hear?
+ນັ້ນແມ່ນດອກໄມ້ຂອງຂ້ອຍ, ໂຮມເປີ. ມັນຈະບໍ່ເຮັດໃຫ້ຂ້ອຍ *
+ບໍ່ດີຫຍັງເລີຍ. ເຈົ້າໃຫ້ດອກເຫຼົ່ານັ້ນໃຫ້ໂຣສ ໂຣສ, ເຈົ້າໄດ້ຍິນບໍ?
+
+858
+00:55:58,900 --> 00:56:03,800
+[MUDDY]
+You best just watch you ass, Homer! You don't wanna end up like Jack!
+ເຈົ້າຄວນເບິ່ງແຍງຕົວເອງ, ໂຮມເປີ! ເຈົ້າບໍ່ຢາກສິ້ນສຸດລົງຄືກັບແຈກ!
+
+859
+00:56:04,300 --> 00:56:06,300
+[CANDY]
+No! No!
+ບໍ່! ບໍ່!
+
+860
+00:56:06,800 --> 00:56:12,800
+[MAJOR WINSLOW]
+When the plane was hit, the crew chief and the radioman jumped close together. The copilot jumped third. All on Captain Worthington's orders-- the captain was still flying the plane. None of the men of the ground could see the sky--that's how thick the jungle was. They never saw the plane crash--they never *heard* it crash. They never saw Captain Worthington's parachute, either.
+ເມື່ອເຮືອບິນຖືກຕີ, ຫົວຫນ້າທີມງານແລະຄົນວິທະຍຸໂດດໃກ້ຊິດກັນ. ນັກບິນຮ່ວມໂດດທີສາມ. ທັງ ຫມົດ ຕາມຄໍາສັ່ງຂອງຄັບປິນ ວໍຕິ້ງຕັນ - ຄັບປີນຍັງບິນເຮືອບານ. ບໍ່ມີຜູ້ຊາຍໃດໃນພື້ນດິນສາມາດເຫັນສະຫວັນໄດ້
+- ນັ້ນແມ່ນຄວາມຫນາແຫນ້ນຂອງປ່າໄມ້ແມ່ນແນວໃດ. ພວກເຂົາບໍ່ເຄີຍເຫັນອຸບັດຕິເຫດ ເຮືອບິນ - ພວກເຂົາຍັງບໍ່ເຄີຍ * ໄດ້ຍິນ * ມັນຕົກລົງ. ພວກເຂົາມັກບໍ່ເຫັນ parachute ຂອງຄັບ
+
+861
+00:56:13,300 --> 00:56:15,750
+[OLIVE]
+Why was he missing for twenty days?
+ເປັນຫຍັງລາວຈຶ່ງຫາຍສາບສູນເປັນເວລາສິບມື້?
+
+862
+00:56:16,250 --> 00:56:22,250
+[MAJOR WINSLOW]
+Because the crew thought he'd gone down with the plane. They were hospitalized for almost a week in China before they were flown back to India. It wasn't until that they sorted through their gear...
+ເພາະວ່າທີມງານຄິດວ່າລາວຕົກລົງກັບເຮືອບິນ. ພວກເຂົາຖືກໂຮງຫມໍເກືອບ ຫນຶ່ງ
+ອາທິດໃນຈີນກ່ອນທີ່ພວກເຂົາຈະບິນກັບຄືນໄປປະເທດອິນເດຍ. ມັນບໍ່ແມ່ນຈົນກວ່າພວກເຂົາໄດ້ຈັດປະເພດເຄື່ອງມືຂອງພວກເຂົາ...
+
+863
+00:56:22,750 --> 00:56:24,750
+[CANDY]
+Who cares about their *gear*?
+ໃຜສົນໃຈກ່ຽວກັບ * ເຄື່ອງມື * ຂອງພວກເຂົາ?
+
+864
+00:56:25,250 --> 00:56:31,250
+[MAJOR WINSLOW]
+Three men jumped from the plane, but they had four compasses with them. One of the crew jumped with Captain Worthington's compass.
+ຜູ້ຊາຍສາມຄົນໂດດອອກຈາກເຮືອບິນ, ແຕ່ພວກເຂົາມີຄອມປັສສ໌ສີ່ຢ່າງກັບພວກເຂົາ
+. ຫນຶ່ງ ໃນທີມງານໂດດດ້ວຍຄອມພິສ໌ຂອງຄັບປິນວໍຕິ້ງຕັນ.
+
+865
+00:56:31,750 --> 00:56:35,250
+[CANDY]
+He was in Burma for twenty days without a compass?
+ລາວຢູ່ໃນມຽນມາເປັນເວລາສິບມື້ໂດຍບໍ່ມີຄອມປັສບໍ?
+
+866
+00:56:35,750 --> 00:56:41,750
+[MAJOR WINSLOW]
+He followed the Irrawaddy River, all the way to Rangoon. Somehow he managed to avoid the Japs, but not the mosquitoes.
+ລາວຕິດຕາມແມ່ນໍ້າ Irrawaddy, ຕະຫຼອດໄປຫາ Rangoon.
+ບາງວິທີທາງລາວສາມາດຫຼີກເວັ້ນຊາວຍີ່ປຸ່ນໄດ້, ແຕ່ບໍ່ແມ່ນແມງໄມ້.
+
+867
+00:56:42,250 --> 00:56:44,250
+[OLIVE]
+Then it's malaria?
+ຫຼັງຈາກນັ້ນມັນເປັນມາເລເຣຍບໍ?
+
+868
+00:56:44,750 --> 00:56:50,750
+[MAJOR WINSLOW]
+It's encephalitis B. He's recovering at Mount Lavinia Hospital, Ceylon.  Uh... Captain Worthington is paralyzed.  Waist down. He won't walk.
+ມັນເປັນ encephalitis B. ລາວ ກໍາ ລັງຟື້ນຟູຢູ່ໂຮງຫມໍພູ Lavinia,
+ຊີລອນ. ອູ... ຄັບປິນວໍຕິງຕັນຖືກໂຊກຮ້າຍ. ແອວລົງ. ລາວຈະບໍ່ຍ່າງ.
+
+869
+00:56:51,250 --> 00:56:53,250
+[MAJOR WINSLOW]
+I'm sorry.
+ຂ້ອຍຂໍໂທດ.
+
+870
+00:56:53,750 --> 00:56:56,200
+[HOMER]
+There are no autonomic effects, are there?
+ບໍ່ມີຜົນກະທົບທາງຕົນເອງ, ແມ່ນບໍ?
+
+871
+00:56:56,700 --> 00:56:58,700
+[MAJOR WINSLOW]
+No autonomic effects... that's correct.
+ບໍ່ມີຜົນກະທົບທາງຕົນເອງ... ນັ້ນແມ່ນຄວາມຖືກຕ້ອງ.
+
+872
+00:56:59,200 --> 00:57:01,300
+[OLIVE]
+When will he be home, Major?
+ລາວຈະກັບບ້ານເມື່ອໃດ, ນາຍພົນ?
+
+873
+00:57:01,800 --> 00:57:04,250
+[MAJOR WINSLOW]
+Four weeks or so, right around Halloween.
+ປະມານສີ່ອາທິດ, ໃນເວລາປະມານຮາໂລວິນ.
+
+874
+00:57:04,750 --> 00:57:08,950
+[HOMER]
+There are no autonomic effects, just the paralysis of the lower extremities.
+ບໍ່ມີຜົນກະທົບທາງຕົນເອງ, ພຽງແຕ່ການໂຊກຮ້າຍຂອງ ekstremities ຕໍ່າ.
+
+875
+00:57:09,450 --> 00:57:12,250
+[HOMER]
+Wally can have kids, a normal sex life...
+ວາລີສາມາດມີລູກໄດ້, ຊີວິດທາງເພດປົກກະຕິ...
+
+876
+00:57:12,750 --> 00:57:16,600
+[RAY]
+How about him not needin' the friggin' compass! How about that?
+ຈະເປັນແນວໃດກັບລາວບໍ່ຕ້ອງການຄອມປັສສ໌! ມັນແນວໃດ?
+
+877
+00:57:17,100 --> 00:57:19,100
+[CANDY]
+Daddy, *please*...
+ພໍ່, * ກະລຸນາ *...
+
+878
+00:57:19,600 --> 00:57:23,100
+[RAY]
+Good night, kids. Don't catch cold-- it's gettin' cold already.
+ສະບາຍດີ ເດັກນ້ອຍ. ຢ່າເຢັນ - ມັນ ກໍາ ລັງເຢັນແລ້ວ.
+
+879
+00:57:23,600 --> 00:57:25,600
+[CANDY]
+Good night, Daddy.
+ສະບາຍດີ, ພໍ່.
+
+880
+00:57:26,100 --> 00:57:28,100
+[HOMER]
+Good night, Ray.
+ສະບາຍດີ, ຣາຍ.
+
+881
+00:57:28,600 --> 00:57:32,100
+[HOMER]
+Just tell me. I'll do whatever you want to do.
+ພຽງແຕ່ບອກຂ້ອຍ. ຂ້ອຍຈະເຮັດທຸກຢ່າງທີ່ເຈົ້າຢາກເຮັດ.
+
+882
+00:57:32,600 --> 00:57:34,600
+[CANDY]
+Nothing.
+ບໍ່ມີຫຍັງເລີຍ.
+
+883
+00:57:35,100 --> 00:57:37,200
+[HOMER]
+Isn't that like waiting and seeing?
+ມັນຄ້າຍຄືກັບການລໍຖ້າແລະເຫັນບໍ?
+
+884
+00:57:37,700 --> 00:57:43,300
+[CANDY]
+No. Nothing is nothing. I want Wally to come home. I'm afraid to see him, too.
+ບໍ່. ບໍ່ມີຫຍັງແມ່ນບໍ່ມີຫຍັງ. ຂ້ອຍຢາກໃຫ້ວໍລີກັບບ້ານ
+. ຂ້ອຍຢ້ານທີ່ຈະເຫັນລາວເຊັ່ນກັນ.
+
+885
+00:57:43,800 --> 00:57:45,800
+[HOMER]
+I know.  Is *that* nothing.
+ຂ້ອຍຮູ້ແລ້ວ. ນັ້ນແມ່ນ * ບໍ່ມີຫຍັງເລີຍ.
+
+886
+00:57:46,300 --> 00:57:50,850
+[CANDY]
+No, don't--that's something. Nothing is nothing.  Don't even look at me. I want...
+ບໍ່, ຢ່າ - ນັ້ນແມ່ນບາງສິ່ງບາງຢ່າງ.
+ບໍ່ມີຫຍັງແມ່ນບໍ່ມີຫຍັງ. ຢ່າເບິ່ງຂ້ອຍເລີຍ. ຂ້ອຍຢາກ...
+
+887
+00:57:51,350 --> 00:57:53,350
+[CANDY]
+...to do nothing.
+... ເພື່ອບໍ່ເຮັດຫຍັງເລີຍ.
+
+888
+00:57:53,850 --> 00:57:57,000
+[HOMER]
+It's a tempting idea, I know... to do nothing.
+ມັນເປັນຄວາມຄິດທີ່ຊັກຊວນ, ຂ້ອຍຮູ້ແລ້ວ... ບໍ່ຕ້ອງເຮັດຫຍັງເລີຍ.
+
+889
+00:57:57,500 --> 00:57:59,600
+[CANDY]
+Please don't move, don't go anywhere.
+ກະລຸນາຢ່າເຄື່ອນຍ້າຍ, ຢ່າໄປບ່ອນໃດເລີຍ.
+
+890
+00:58:00,100 --> 00:58:06,100
+[HOMER]
+*Go* anywhere? Of course not! That would be *doing* something, wouldn't it? We wouldn't want to *do* something. Let's just sit here all night!
+* ໄປບ່ອນໃດກໍ່ຕາມບໍ? ແນ່ນອນວ່າບໍ່ແມ່ນ! ນັ້ນຈະເປັນ * ເຮັດບາງສິ່ງບາງຢ່າງ, ແມ່ນບໍ
+? ພວກເຮົາຈະບໍ່ຢາກ * ເຮັດ * ບາງສິ່ງບາງ ຢ່າງ. ພວກເຮົາພຽງແຕ່ນັ່ງຢູ່ນີ້ຕະຫຼອດຄືນ!
+
+891
+00:58:06,600 --> 00:58:09,050
+[CANDY]
+If you're trying to be funny, Homer...
+ຖ້າເຈົ້າ ກໍາ ລັງພະຍາຍາມມ່ວນຊື່ນ, ໂຮມເປີ...
+
+892
+00:58:09,550 --> 00:58:15,550
+[HOMER]
+I'm not trying to be anything--I'm just doing nothing! If I wait and see long enough, then--with any luck-- I won't *ever* have to make up my mind! Decisions can be painful, after all...
+ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມເປັນຫຍັງເລີຍ - ຂ້ອຍພຽງແຕ່ເຮັດຫຍັງເລີຍ! ຖ້າຂ້ອຍລໍຖ້າແລະເຫັນດົນພໍສົມຄວນ, ຫຼັງຈາກນັ້ນ -
+ດ້ວຍໂຊກດີໃດໆ - ຂ້ອຍຈະບໍ່ * ບໍ່ເຄີຍ * ຕ້ອງຕັດສິນໃຈຂອງຂ້ອຍ! ການຕັດສິນໃຈສາມາດເຈັບປວດໄດ້, ຫຼັງຈາກທັງ ຫມົດ...
+
+893
+00:58:16,050 --> 00:58:18,150
+[CANDY]
+Stop it! Just cut it out!
+ຢຸດຢັ້ງ! ພຽງແຕ່ຢຸດມັນອອກ!
+
+894
+00:58:18,650 --> 00:58:24,650
+[HOMER]
+You got up! You *did* something! If you keep this up, you might be in danger of making a *decision*!
+ເຈົ້າຕື່ນຂຶ້ນ! ເຈົ້າ * ເຮັດບາງສິ່ງບາງຢ່າງ!
+ຖ້າເຈົ້າສືບຕໍ່ແບບນີ້ຕໍ່ໄປ, ເຈົ້າອາດຈະຢູ່ໃນອັນຕະລາຍຂອງການຕັດສິນໃຈ *!
+
+895
+00:58:25,150 --> 00:58:27,950
+[CANDY]
+For God's sake, Homer, Wally's been shot down!
+ສໍາລັບພຣະເຈົ້າ, ໂຮມເປີ, ວາລີໄດ້ຖືກຍິງລົງ!
+
+896
+00:58:28,450 --> 00:58:30,450
+[HOMER]
+I know, I'm sorry.
+ຂ້ອຍຮູ້ແລ້ວ, ຂ້ອຍຂໍໂທດ.
+
+897
+00:58:30,950 --> 00:58:32,950
+[CANDY]
+He's *paralyzed*!
+ລາວ * ໂຊກຮ້າຍ *!
+
+898
+00:58:33,450 --> 00:58:36,600
+[HOMER]
+He's *alive*. He still loves you.  So do I.
+ລາວຍັງມີຊີວິດຢູ່. ລາວຍັງຮັກເຈົ້າ. ຂ້ອຍຄືກັນ.
+
+899
+00:58:37,100 --> 00:58:39,550
+[CANDY]
+What do you want me to *do*?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+
+900
+00:58:40,050 --> 00:58:43,550
+[HOMER]
+Nothing. You're not the one who has to do anything.
+ບໍ່ມີຫຍັງເລີຍ. ເຈົ້າບໍ່ແມ່ນຄົນທີ່ຈະຕ້ອງເຮັດຫຍັງກໍ່ຕາມ.
+
+901
+00:58:44,050 --> 00:58:46,150
+[MR. ROSE]
+Where do you think you're going?
+ເຈົ້າຄິດວ່າເຈົ້າຈະໄປໃສ?
+
+902
+00:58:46,650 --> 00:58:49,100
+[ROSE ROSE]
+You gotta let me go, Daddy. Please...
+ເຈົ້າຕ້ອງປ່ອຍຂ້ອຍໄປ, ພໍ່. ກະລຸນາ...
+
+903
+00:58:49,600 --> 00:58:53,450
+[MR. ROSE]
+You ain't goin' nowhere in the middle of the night, girl!
+ເຈົ້າຈະບໍ່ໄປໃສເລີຍໃນກາງຄືນ, ເດັກຍິງ!
+
+904
+00:58:53,950 --> 00:58:57,800
+[ROSE ROSE]
+I ain't your business no more, Daddy. Please let me go.
+ຂ້ອຍບໍ່ແມ່ນເລື່ອງຂອງເຈົ້າອີກແລ້ວ, ພໍ່. ກະລຸນາປ່ອຍຂ້ອຍໄປ.
+
+905
+00:58:58,300 --> 00:59:01,100
+[HOMER]
+Hey, hey! Stop it. Maybe I can help.
+ເຮ້, ເຮ້! ຢຸດຢັ້ງ. ບາງທີຂ້ອຍສາມາດຊ່ວຍໄດ້.
+
+906
+00:59:01,600 --> 00:59:05,100
+[MR. ROSE]
+You just go inside, Homer. We don't need no help.
+ເຈົ້າພຽງແຕ່ເຂົ້າໄປໃນ, ໂຮມເປີ. ພວກເຮົາບໍ່ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃດໆ.
+
+907
+00:59:05,600 --> 00:59:08,050
+[ROSE ROSE]
+That's right, Homer. This ain't your business.
+ນັ້ນແມ່ນແລ້ວ, ໂຮມເປີ. ນີ້ແມ່ນບໍ່ແມ່ນເລື່ອງຂອງເຈົ້າ.
+
+908
+00:59:08,550 --> 00:59:11,000
+[HOMER]
+Please listen to me! *Both* of you...
+ກະລຸນາຟັງຂ້ອຍ! * ທັງສອງທ່ານ...
+
+909
+00:59:11,500 --> 00:59:17,500
+[MR. ROSE]
+You forget yourself, Homer. This here's my daughter! You got your own mess to deal with--ain't that right?
+ເຈົ້າລືມຕົວເອງ, ໂຮມເປີ. ນີ້ແມ່ນລູກສາວຂອງຂ້ອຍ!
+ເຈົ້າມີຄວາມສັບສົນຂອງເຈົ້າເອງທີ່ຈະຮັບມືກັບ - ແມ່ນບໍ່?
+
+910
+00:59:18,000 --> 00:59:20,100
+[MR. ROSE]
+What business is you in, Homer?
+ເຈົ້າເຮັດທຸລະກິດຫຍັງ, ໂຮມເປີ?
+
+911
+00:59:20,600 --> 00:59:26,600
+[HOMER]
+Mr. Rose, I'm in the *doctor* business.  If you want, I can help you. You don't have to go anywhere.
+ທ່ານ ໂຣຊສ໌, ຂ້ອຍຢູ່ໃນທຸລະກິດ * ຫມໍ *. ຖ້າເຈົ້າຕ້ອງການ,
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງໄປບ່ອນໃດກໍ່ຕາມ.
+
+912
+00:59:27,100 --> 00:59:29,100
+[MR. ROSE]
+What's that? What's it called?
+ນັ້ນແມ່ນຫຍັງ? ມັນເອີ້ນວ່າແນວໃດ?
+
+913
+00:59:29,600 --> 00:59:35,600
+[HOMER]
+One cervical stabilizer, two sets of dilators--Douglas points. One medium- sized curette, one small; one medium speculum, one large; two vulsellum forceps.
+ເຄື່ອງສະຖຽນລະພາບຄໍຫນຶ່ງ, ສອງຊຸດຂອງ dilators - ຈຸດ Douglas. ຫນຶ່ງ curette ຂະຫນາດກາງ
+, ຫນຶ່ງ ຂະຫນາດນ້ອຍ; ຫນຶ່ງ speculum ກາງ, ຫນຶ່ງຂະຫນາດໃຫຍ່; ສອງກະດູກ vulsellum.
+
+914
+00:59:36,100 --> 00:59:39,600
+[MR. ROSE]
+There ain't no *almost* about this stuff, Homer--ain't that right?
+ບໍ່ມີຫຍັງ * ເກືອບ * ກ່ຽວກັບສິ່ງນີ້, ໂຮມເປີ - ແມ່ນບໍ່?
+
+915
+00:59:40,100 --> 00:59:42,550
+[HOMER]
+Merthiolate, ether, vulval pads, gauze--lots of gauze.
+ແມຣຕິໂອລາຕ໌, ເອເຕີ, ກະດານວູລວາລ, ແກສ - ແກສຫຼາຍຢ່າງ.
+
+916
+00:59:43,050 --> 00:59:47,950
+[MR. ROSE]
+When it comes to this, you is the real thing--is that what you sayin'?
+ເມື່ອເວົ້າເຖິງເລື່ອງນີ້, ເຈົ້າເປັນສິ່ງທີ່ແທ້ຈິງ
+- ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າເວົ້າບໍ?
+
+917
+00:59:48,450 --> 00:59:50,550
+[HOMER]
+No *almost* about it--I'm a doctor.
+ບໍ່ * ເກືອບ * ກ່ຽວກັບມັນ - ຂ້ອຍເປັນຫມໍ.
+
+918
+00:59:51,050 --> 00:59:53,050
+[HOMER]
+Get out of here, please.
+ອອກຈາກບ່ອນນີ້, ກະລຸນາ.
+
+919
+00:59:53,550 --> 00:59:55,550
+[MR. ROSE]
+I'm stayin', Homer.
+ຂ້ອຍຈະຢູ່, ໂຮມເປີ.
+
+920
+00:59:56,050 --> 00:59:58,500
+[HOMER]
+Okay. Then you can be of use.
+ດີແລ້ວ. ຫຼັງຈາກນັ້ນເຈົ້າສາມາດຊ່ວຍໄດ້.
+
+921
+00:59:59,000 --> 01:00:01,000
+[HOMER]
+You better get some air.
+ເຈົ້າຄວນເອົາອາກາດບາງຢ່າງ.
+
+922
+01:00:01,500 --> 01:00:07,500
+[CANDY]
+The bleeding should taper off tomorrow, but it can come back again. The cramps will ease up, almost entirely. The bleeding is usually much lighter in two days. As long as the bleeding isn't heavy, it's normal.
+ການເລືອດຄວນຫຼຸດລົງມື້ອື່ນ, ແຕ່ມັນສາມາດກັບມາອີກຄັ້ງ. ການສັ່ນສະເທືອນຈະຜ່ອນຜັນລົງ,
+ເກືອບທັງ ຫມົດ. ເລືອດປົກກະຕິຈະເບົາກວ່າຫຼາຍໃນສອງມື້. ຕາບໃດທີ່ເລືດບໍ່ຫນັກ, ມັນປົກກະຕິ.
+
+923
+01:00:08,000 --> 01:00:12,900
+[MUDDY]
+It's that Vernon--he keeps askin' where you and Homer and Rose Rose is at.
+ມັນເປັນເວຣນອນນັ້ນ - ລາວສືບຕໍ່ຖາມວ່າເຈົ້າແລະໂຮມເປີ
+ແລະ ໂຣຊສ໌ ໂຣສສ໌ຢູ່ໃສ.
+
+924
+01:00:13,400 --> 01:00:16,550
+[MR. ROSE]
+Tell that Vernon to mind his own business, Muddy.
+ບອກເວຣນອນນັ້ນໃຫ້ເບິ່ງແຍງເລື່ອງຂອງຕົນເອງ, ມູດດີ.
+
+925
+01:00:17,050 --> 01:00:19,850
+[MUDDY]
+I told him that you all is sick.
+ຂ້ອຍບອກລາວວ່າເຈົ້າທຸກຄົນເຈັບປ່ວຍ.
+
+926
+01:00:20,350 --> 01:00:24,200
+[MR. ROSE]
+Tell him what you want, Muddy--*you* is the crew boss today.
+ບອກລາວວ່າເຈົ້າຢາກຫຍັງ, ມູດດີ - * ເຈົ້າ * ແມ່ນຫົວຫນ້າທີມງານມື້ນີ້.
+
+927
+01:00:24,700 --> 01:00:28,550
+[PEACHES]
+Look at that. Them same damn rules is tacked up again!
+ເບິ່ງມັນແມ. ກົດລະບຽບດຽວກັນຖືກຕິດຕັ້ງຂຶ້ນອີກຄັ້ງ!
+
+928
+01:00:29,050 --> 01:00:33,250
+[MUDDY]
+Why don't you put them damn rules in the wood stove, Peaches?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເອົາກົດລະບຽບນັ້ນໃສ່ເຕົາໄມ້, Peaches?
+
+929
+01:00:33,750 --> 01:00:36,550
+[ROSE ROSE]
+I want to hear what they are, first.
+ຂ້ອຍຢາກໄດ້ຍິນວ່າພວກມັນເປັນຫຍັງກ່ອນ.
+
+930
+01:00:37,050 --> 01:00:39,500
+[ROSE ROSE]
+Homer, let me hear what they are.
+ໂຮມເປີ, ໃຫ້ຂ້ອຍຟັງວ່າພວກມັນເປັນຫຍັງ.
+
+931
+01:00:40,000 --> 01:00:42,100
+[HOMER]
+"One: Please don't smoke in bed."
+ຫນຶ່ງ: ກະລຸນາຢ່າສູບຢາໃນຕຽງ.
+
+932
+01:00:42,600 --> 01:00:44,700
+[MUDDY]
+We heard that one already, Homer.
+ພວກເຮົາໄດ້ຍິນເລື່ອງນັ້ນແລ້ວ, ໂຮມເປີ.
+
+933
+01:00:45,200 --> 01:00:49,400
+[HOMER]
+"Two: Please don't go up to the roof to eat your lunch."
+ສອງ: ກະລຸນາຢ່າຂຶ້ນເທິງເຮືອນເພື່ອກິນອາຫານທ່ຽງຂອງທ່ານ.
+
+934
+01:00:49,900 --> 01:00:52,350
+[PEACHES]
+That's the best place to eat lunch!
+ນັ້ນແມ່ນບ່ອນທີ່ດີທີ່ສຸດທີ່ຈະກິນອາຫານທ່ຽງ!
+
+935
+01:00:52,850 --> 01:00:58,100
+[HOMER]
+"Three: Please--even if you are very hot--do not go up to the roof to sleep."
+ສາມ: ກະລຸນາ - ເຖິງແມ່ນວ່າເຈົ້າຮ້ອນຫຼາຍ
+- ຢ່າຂຶ້ນເທິງເຮືອນຫລັງເພື່ອນອນ.
+
+936
+01:00:58,600 --> 01:01:01,750
+[HERO]
+What do they think? They must think we're crazy!
+ພວກເຂົາຄິດແນວໃດ? ພວກເຂົາຕ້ອງຄິດວ່າພວກເຮົາໂຊກຮ້າຍ!
+
+937
+01:01:02,250 --> 01:01:06,800
+[MUDDY]
+They think we're dumb niggers so we need dumb rules--that's what they think.
+ພວກເຂົາຄິດວ່າພວກເຮົາເປັນຄົນສີດໍາທີ່ໂງ່ດັ່ງນັ້ນພວກເຮົາຕ້ອງການກົດລະບຽບໂງ່ນ
+- ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາຄິດ.
+
+938
+01:01:07,300 --> 01:01:09,300
+[HOMER]
+This is the last one.
+ນີ້ແມ່ນຄັ້ງສຸດທ້າຍ.
+
+939
+01:01:09,800 --> 01:01:14,000
+[HOMER]
+"Four: There should be no going up on the roof at night."
+ສີ່: ບໍ່ຄວນຂຶ້ນເທິງຫຼັງເຮືອນໃນຕອນກາງຄືນ.
+
+940
+01:01:14,500 --> 01:01:17,650
+[PEACHES]
+Why don't they just say, "Stay off the roof!"?
+ເປັນຫຍັງພວກເຂົາຈຶ່ງບໍ່ພຽງແຕ່ເວົ້າວ່າ,"ຢູ່ຫ່າງຈາກເຮືອນຫລັງ!"?
+
+941
+01:01:18,150 --> 01:01:21,300
+[HERO]
+Yeah, they don't want us up there *at all*!
+ແມ່ນແລ້ວ, ພວກເຂົາບໍ່ຢາກໃຫ້ພວກເຮົາຢູ່ເທິງນັ້ນ * ຢ່າງໃດກໍ່ຕາມ *!
+
+942
+01:01:21,800 --> 01:01:23,800
+[ROSE ROSE]
+That's *it*?
+ນັ້ນແມ່ນ * ມັນ * ບໍ?
+
+943
+01:01:24,300 --> 01:01:26,300
+[HOMER]
+That's it.
+ນັ້ນແມ່ນມັນ.
+
+944
+01:01:26,800 --> 01:01:31,700
+[ROSE ROSE]
+It means nothin' at all! And all this time I been *wonderin'* about it!
+ມັນຫມາຍຄວາມວ່າບໍ່ມີຫຍັງເລີຍ!
+ແລະຕະຫຼອດເວລານີ້ຂ້ອຍ * ຄິດກ່ຽວກັບມັນ!
+
+945
+01:01:32,200 --> 01:01:34,200
+[PEACHES]
+They're *outrageous*, them rules!
+ພວກເຂົາ * ໂຊກຮ້າຍ*, ກົດລະບຽບ!
+
+946
+01:01:34,700 --> 01:01:40,700
+[MR. ROSE]
+Who *live* here in this cider house, Peaches? Who grind them apples, who press that cider, who clean up the mess, and who just plain *live* here... just breathin' in the vinegar?  Somebody who *don't* live here made them rules. Them rules ain't for *us*. *We* the ones who make up them rules. We makin' our *own* rules, every day. Ain't that right, Homer?
+ໃຜ * ດໍາລົງຊີວິດ* ຢູ່ບ່ອນນີ້ໃນເຮືອນຊີດເຕີນີ້, Peaches? ຜູ້ທີ່ grind ພວກມັນແອບເປີ້ນ, ຜູ້ທີ່ກົດຊິດເຕີນັ້ນ, ຜູ້ທີ່ເຮັດຄວາມສະອາດຄວາມສັບສົນ, ແລະຜູ້ທີ່ພຽງແຕ່ * ດໍາ ລົງຊີວິດ * ຢູ່ບ່ອນນີ້ແມ່ນ... ພຽງແຕ່ຫາຍໃຈໃນ vinegar ໄດ້ບໍ
+? ບາງຄົນທີ່ * ບໍ່ * ອາໄສຢູ່ບ່ອນນີ້ໄດ້ເຮັດໃຫ້ກົດລະບຽບນັ້ນ. ກົດລະບຽບເຫຼົ່ານັ້ນບໍ່ແມ່ນ ສໍາ ລັບ * ພວກເຮົາ *. * ພວກເຮົາ * ຜູ້ທີ່ສ້າງບັນດາມາດຕະການເຫຼົ່ານີ້. ພວກເຮົາ ກໍາ ລັງສ້າງ * ກົດ ຫມາຍ ຂອງພວກເຮົາເອງ, ທຸກມື້. ແມ່ນບໍ, ໂ
+
+947
+01:01:41,200 --> 01:01:43,200
+[HOMER]
+Right.
+ແມ່ນແລ້ວ.
+
+948
+01:01:43,700 --> 01:01:46,150
+[CANDY]
+Please don't make me say it again.
+ກະລຸນາຢ່າເຮັດໃຫ້ຂ້ອຍເວົ້າມັນອີກເທື່ອຫນຶ່ງ.
+
+949
+01:01:46,650 --> 01:01:50,850
+[HOMER]
+No, that's not it--I just want to be sure I understand you.
+ບໍ່, ນັ້ນບໍ່ແມ່ນມັນ - ຂ້ອຍພຽງແຕ່ຢາກແນ່ໃຈວ່າຂ້ອຍເຂົ້າໃຈເຈົ້າ.
+
+950
+01:01:51,350 --> 01:01:57,350
+[HOMER]
+I *helped* you not to think about Wally. You were so upset--you couldn't stand worrying about him, about his being killed and not coming back-- but when you were with me, you could stop worrying... well, for a while, anyway. This is how I helped you, right?
+ຂ້ອຍ * ຊ່ວຍເຈົ້າບໍ່ໃຫ້ຄິດກ່ຽວກັບວໍລີ. ເຈົ້າໂຊກຮ້າຍຫຼາຍ - ເຈົ້າບໍ່ສາມາດຍອມຮັບການກັງວົນກ່ຽວກັບລາວ, ກ່ຽວກັບການຖືກຂ້າແລະບໍ່ກັບມາ
+- ແຕ່ເມື່ອເຈົ້າຢູ່ກັບຂ້ອຍ, ເຈົ້າສາມາດຢຸດກັງ ວົນ... ດີ, ເປັນເວລາດົນນານ, ຢ່າງໃດກໍ່ຕາມ. ນີ້ແມ່ນວິທີທີ່ຂ້ອຍຊ່ວຍເຈົ້າ, ແມ່ນບໍ?
+
+951
+01:01:57,850 --> 01:02:01,350
+[CANDY]
+Please... that's enough. I *loved* you, too--you know I did.
+ກະລຸນາ... ນັ້ນພຽງພໍ. ຂ້ອຍ *
+ຮັກເຈົ້າເຊັ່ນກັນ - ເຈົ້າຮູ້ວ່າຂ້ອຍເຮັດ.
+
+952
+01:02:01,850 --> 01:02:03,850
+[HOMER]
+"...did." Well, okay.
+ຂ້ອຍເຮັດແລ້ວ. ດີ, ດີ.
+
+953
+01:02:04,350 --> 01:02:06,350
+[CANDY]
+Please don't...
+ກະລຸນາຢ່າ...
+
+954
+01:02:06,850 --> 01:02:11,050
+[HOMER]
+And now that Wally's coming back, and because he'll certainly *need* you...
+ແລະດຽວນີ້ວໍລີ ກໍາ ລັງກັບມາ,
+ແລະເພາະວ່າລາວຈະ * ຕ້ອງການ * ເຈົ້າແນ່ນອນ...
+
+955
+01:02:11,550 --> 01:02:16,450
+[CANDY]
+You say that as though it's some awful thing!  I never stopped loving Wally!
+ເຈົ້າເວົ້າແບບນັ້ນຄືກັບວ່າມັນເປັນສິ່ງຮ້າຍແຮງບາງຢ່າງ
+! ຂ້ອຍບໍ່ເຄີຍຢຸດຮັກວໍລີເລີຍ!
+
+956
+01:02:16,950 --> 01:02:22,550
+[HOMER]
+At least there's no more waiting and seeing. At least I got to see the ocean.
+ຢ່າງຫນ້ອຍບໍ່ມີການລໍຖ້າແລະເຫັນອີກຕໍ່ໄປ
+. ຢ່າງຫນ້ອຍຂ້ອຍຕ້ອງເຫັນມະຫາສະຫມຸດ.
+
+957
+01:02:23,050 --> 01:02:25,050
+[MUDDY]
+Rose Rose has runned away!
+ໂຣຊສ໌ ໂຣສ໌ໄດ້ຫນີໄປແລ້ວ!
+
+958
+01:02:25,550 --> 01:02:27,650
+[PEACHES]
+She took off in the night!
+ນາງໄດ້ບິນຂຶ້ນໃນຕອນກາງຄືນ!
+
+959
+01:02:28,150 --> 01:02:30,600
+[MUDDY]
+She took off on the bicycle, man.
+ນາງໄດ້ອອກໄປດ້ວຍລົດຖີບ, ຜູ້ຊາຍ.
+
+960
+01:02:31,100 --> 01:02:37,100
+[MR. ROSE]
+Ain't nobody gonna find her, Homer-- she's long gone.  I swear, I didn't try and stop her-- I just wanna touch her hand before she go. That's all I wanna do, I swear.  Where'd she get that knife, Muddy? That looked like *your* knife--what I seen of it.
+ບໍ່ມີໃຜຈະຊອກຫານາງ, ໂຮມເປີ - ນາງໄປແລ້ວດົນນານ. ຂ້ອຍສາບານໂຕ, ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມຢຸດນາງ - ຂ້ອຍພຽງແຕ່ຢາກຈັບມືຂອງນາງກ່ອນທີ່ນາງຈະໄປ.
+ນັ້ນແມ່ນສິ່ງດຽວທີ່ຂ້ອຍຢາກເຮັດ, ຂ້ອຍ ສາບານໂຕ. ນາງເອົາມີດນັ້ນຈາກໃສ, ມູດດີ? ມັນເບິ່ງຄືວ່າ * ມີດຂອງທ່ານ * - ສິ່ງທີ່ຂ້ອຍເຫັນຈາກມັນ.
+
+961
+01:02:37,600 --> 01:02:43,600
+[MR. ROSE]
+If that was your knife, Muddy, I wanna thank you for givin' it to her-- no girl should be goin' *hitch-hikin'* if she don't got a good knife with her.
+ຖ້າມັນເປັນດອກໄມ້ຂອງເຈົ້າ, ມູດດີ, ຂ້ອຍຢາກຂອບໃຈເຈົ້າທີ່ໃຫ້ມັນໃຫ້ນາງ
+- ບໍ່ມີເດັກຍິງໃດຄວນໄປ * hitch-hikin'* ຖ້ານາງບໍ່ມີດອກຕັດທີ່ດີກັບນາງ.
+
+962
+01:02:44,100 --> 01:02:46,100
+[HOMER]
+Where'd she get you?
+ນາງເອົາເຈົ້າຢູ່ໃສ?
+
+963
+01:02:46,600 --> 01:02:52,600
+[MR. ROSE]
+She just plan misunderstand me--I was tryin' to give her my knife, I was just reachin' to touch her hand. But I understand if she misunderstand me--it's all my fault, ain't that right?
+ນາງພຽງແຕ່ວາງແຜນທີ່ຈະເຂົ້າໃຈຂ້ອຍຜິດ - ຂ້ອຍ ກໍາ ລັງພະຍາຍາມໃຫ້ນາງມີດຕັດຂອງຂ້ອຍ, ຂ້ອຍພຽງແຕ່ຍືດມືກັບມືຂອງນາງ
+. ແຕ່ຂ້ອຍເຂົ້າໃຈຖ້ານາງເຂົ້າໃຈຂ້ອຍບໍ່ຖືກຕ້ອງ - ມັນແມ່ນຄວາມຜິດຂອງຂ້ອຍທັງ ຫມົດ, ແມ່ນບໍ?
+
+964
+01:02:53,100 --> 01:02:56,600
+[MR. ROSE]
+It's too late for the doctor now, Homer--ain't that right?
+ມັນຊ້າເກີນໄປ ສໍາ ລັບຫມໍດຽວນີ້, ໂຮມເປີ - ບໍ່ຖືກຕ້ອງບໍ?
+
+965
+01:02:57,100 --> 01:03:03,100
+[MR. ROSE]
+She's *good* with that knife! She's real fast. She's a lot better with that knife than *you* is, Muddy! And who do you suppose taught her?
+ນາງ * ດີກັບມີດຕັດນັ້ນ! ນາງໄວແທ້ໆ. ນາງດີກວ່າຫຼາຍກັບມີ
+ດຕັດນັ້ນກ່ວາ * ເຈົ້າ * ແມ່ນ, ມູດດີ! ແລະເຈົ້າຄິດວ່າໃຜສອນນາງ?
+
+966
+01:03:03,600 --> 01:03:05,600
+[MUDDY]
+*You* taught her, I suppose...
+ເຈົ້າສອນນາງ, ຂ້ອຍຄິດວ່າ...
+
+967
+01:03:06,100 --> 01:03:10,300
+[MR. ROSE]
+That's right! A girl's gotta know how to defend herself, don't she?
+ນັ້ນແມ່ນຄວາມຈິງ! ເດັກຍິງຕ້ອງຮູ້ວິທີປ້ອງກັນຕົວເອງ, ແມ່ນບໍ?
+
+968
+01:03:10,800 --> 01:03:13,950
+[HOMER]
+There's more than one laceration, more than one cut.
+ມີການຕັດຫຼາຍກ່ວາຫນຶ່ງ, ຫຼາຍກ່ວາຫນຶ່ງຕັດ.
+
+969
+01:03:14,450 --> 01:03:20,450
+[MR. ROSE]
+That's 'cause I sticked my *own* knife in the wound--after she go, I sticked my *own* knife in there. I poked it all around, I just tryin' to find the same place she got me.
+ນັ້ນແມ່ນຍ້ອນວ່າຂ້ອຍໄດ້ເອົາມີດຕັດຂອງຂ້ອຍ * ໃນບາດເຈັບ - ຫຼັງຈາກນາງໄປ, ຂ້ອຍໄດ້ເອົາ ມີດຕັດ *
+ຂອງຂ້ອຍເອງໃນບ່ອນນັ້ນ. ຂ້ອຍໄດ້ດຶງມັນຢູ່ທົ່ວໄປແລ້ວ, ຂ້ອຍພຽງແຕ່ພະຍາຍາມຊອກຫາບ່ອນດຽວກັນທີ່ນາງເອົາຂ້ອຍ.
+
+970
+01:03:20,950 --> 01:03:26,950
+[MR. ROSE]
+You listen to me: you tell them police how this happen, you tell it *this* way, you hear? My daughter, she runned off--and I so sad about it that I stabbed myself. I so unhappy that she gone, I killed myself--that what you say, you hear? That the true story--ain't that right?
+ເຈົ້າຟັງຂ້ອຍ: ເຈົ້າບອກຕໍາຫຼວດວ່າສິ່ງນີ້ເກີດຂຶ້ນແນວໃດ, ເຈົ້າບອກມັນ * ແບບນີ້ *, ເຈົ້າໄດ້ຍິນບໍ? ລູກສາວຂອງຂ້ອຍ, ນາງແລ່ນໄປ -
+ແລະຂ້ອຍໂຊກຮ້າຍຫຼາຍກ່ຽວກັບມັນທີ່ຂ້ອຍໄດ້ດອກຕົວເອງ. ຂ້ອຍບໍ່ພໍໃຈຫຼາຍທີ່ນາງໄປ, ຂ້ອຍຂ້າຕົວເອງ - ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າເວົ້າ, ເຈົ້າຍິນ? ເລື່ອງທີ່ແທ້ຈິງນັ້ນ - ບໍ່ຖືກຕ້ອງບໍ?
+
+971
+01:03:27,450 --> 01:03:33,450
+[MR. ROSE]
+Let me hear you say that! I so unhappy she runned away that I killed myself-- that what happen here, ain't that right?
+ຂໍໃຫ້ຂ້ອຍໄດ້ຍິນເຈົ້າເວົ້າແບບນັ້ນ! ຂ້ອຍບໍ່ສຸກຫຼາຍທີ່ນາງຫນີໄປຈົນຂ້ອຍຂ້າຕົວເອງ
+- ວ່າສິ່ງທີ່ເກີດຂຶ້ນຢູ່ນີ້, ແມ່ນບໍ?
+
+972
+01:03:33,950 --> 01:03:35,950
+[HOMER]
+Right?
+ແມ່ນບໍ?
+
+973
+01:03:36,450 --> 01:03:42,400
+[MUDDY]
+That what happen--you lost you only daughter so's you killed yourself! That's what we say, all right.
+ນັ້ນແມ່ນສິ່ງທີ່ເກີດຂຶ້ນ - ເຈົ້າໄດ້ສູນເສຍລູກສາວຄົນດຽວຂອງທ່ານ
+ສະນັ້ນເຈົ້າໄດ້ຂ້າຕົວເອງ! ນັ້ນແມ່ນສິ່ງທີ່ພວກເຮົາເວົ້າ, ດີ.
+
+974
+01:03:42,900 --> 01:03:48,900
+[MR. ROSE]
+That's right. I know you understand how I feel, Homer--you is breakin' them rules, too. Ain't that right?
+ນັ້ນແມ່ນຄວາມຈິງ. ຂ້ອຍຮູ້ວ່າເຈົ້າເຂົ້າໃຈວ່າຂ້ອຍຮູ້ສຶກແນວໃດ,
+ໂຮມເປີ - ເຈົ້າ ກໍາ ລັງລະເມີດກົດລະບຽບນັ້ນເຊັ່ນກັນ. ບໍ່ຖືກຕ້ອງບໍ?
+
+975
+01:03:49,400 --> 01:03:51,850
+[CANDY]
+Do you think she'll be all right?
+ເຈົ້າຄິດວ່ານາງຈະດີບໍ?
+
+976
+01:03:52,350 --> 01:03:55,150
+[HOMER]
+She knows how to take care of herself.
+ນາງຮູ້ວິທີເບິ່ງແຍງຕົວເອງ.
+
+977
+01:03:55,650 --> 01:04:01,650
+[CANDY]
+This came for you a couple of days ago. Olive asked me to bring it. With everything happening, I guess she forgot.
+ນີ້ແມ່ນມາ ສໍາ ລັບເຈົ້າສອງສາມມື້ກ່ອນ. ໂອລິວໄດ້ຂໍໃຫ້ຂ້ອຍເອົາມັນ
+. ດ້ວຍທຸກຢ່າງທີ່ເກີດຂຶ້ນ, ຂ້ອຍຄິດວ່ານາງລືມ.
+
+978
+01:04:02,150 --> 01:04:04,150
+[HOMER]
+Sure. Thanks.
+ແນ່ນອນ. ຂອບໃຈ.
+
+979
+01:04:04,650 --> 01:04:09,900
+[CANDY]
+I know you don't think much of being needed, or of me for that matter...
+ຂ້ອຍຮູ້ວ່າເຈົ້າບໍ່ຄິດຫຼາຍກ່ຽວກັບຄວາມຕ້ອງການ
+, ຫຼືຂ້ອຍໃນເລື່ອງນັ້ນ...
+
+980
+01:04:10,400 --> 01:04:14,950
+[HOMER]
+I'm sorry for what I said about Wally needing you. It was... unnecessary.
+ຂ້ອຍຂໍໂທດຕໍ່ສິ່ງທີ່ຂ້ອຍເວົ້າກ່ຽວກັບວາວລີທີ່ຕ້ອງການເຈົ້າ
+. ມັນ... ບໍ່ຈໍາເປັນ.
+
+981
+01:04:15,450 --> 01:04:20,700
+[CANDY]
+No, I'm the one who should be sorry. You have every right to be angry.
+ບໍ່, ຂ້ອຍເປັນຄົນທີ່ຄວນຂໍໂທດ. ເຈົ້າມີສິດທັງ ຫມົດ ທີ່ຈະໂຊກຮ້າຍ.
+
+982
+01:04:21,200 --> 01:04:25,050
+[HOMER]
+No. You warned me. I didn't listen, but you warned me.
+ບໍ່. ເຈົ້າເຕືອນຂ້ອຍ. ຂ້ອຍບໍ່ໄດ້ຟັງ, ແຕ່ເຈົ້າເຕືອນຂ້າພະເຈົ້າ.
+
+983
+01:04:25,550 --> 01:04:30,800
+[HOMER]
+You told me you weren't any good at being alone.  You told Wally, too. Right?
+ເຈົ້າບອກຂ້ອຍວ່າເຈົ້າບໍ່ດີໃນການຢູ່ຄົນດຽວ
+. ເຈົ້າບອກວາລີເຊັ່ນກັນ. ແມ່ນບໍ?
+
+984
+01:04:31,300 --> 01:04:36,200
+[HOMER]
+He's going to be fine, Wally's going to be fine. I know he is.
+ລາວຈະດີ, ວາລີຈະດີ. ຂ້ອຍຮູ້ວ່າລາວດີ.
+
+985
+01:04:36,700 --> 01:04:40,200
+[ANGELA]
+Dear Homer, I am writing to tell you about Wilbur.
+ໂຮມເປີທີ່ຮັກແພງ, ຂ້ອຍ ກໍາ ລັງຂຽນເພື່ອບອກເຈົ້າກ່ຽວກັບວິນບູຣ໌.
+
+986
+01:04:40,700 --> 01:04:42,700
+[BUSTER]
+Dr. Larch? Dr. Larch?
+ດຣ ລາຣັກ? ດຣລາຣັກບໍ?
+
+987
+01:04:43,200 --> 01:04:46,700
+[ANGELA]
+I can assure you that the overdose was entirely accidental.
+ຂ້ອຍສາມາດຮັບປະກັນເຈົ້າໄດ້ວ່າ
+ການກິນເກີນໄປແມ່ນອຸບັດຕິເຫດຢ່າງສົມບູນ.
+
+988
+01:04:47,200 --> 01:04:51,750
+[ANGELA]
+Let us be happy for Dr. Larch. Dr. Larch has found a family.
+ພວກເຮົາຈະມີຄວາມສຸກ ສໍາ ລັບດຣ ລາຣັກ. ດຣລາຣັກໄດ້ພົບຄອບຄົວ.
+
+989
+01:04:52,250 --> 01:04:56,450
+[THE BOYS]
+Good night, Dr. Larch! Good night, Dr. Larch! Good night, Dr. Larch!
+ຄືນດີ, ດຣ ລາຣັກ! ຄືນດີດຣ ລາຮັກ! ຕອນດີດຮາຣາຮ໌!
+
+990
+01:04:56,950 --> 01:04:59,400
+[MUDDY]
+You ever see a palm tree, Homer?
+ເຈົ້າເຄີຍເຫັນຕົ້ນປາມບໍ, ໂຮມເປີ?
+
+991
+01:04:59,900 --> 01:05:02,000
+[PEACHES]
+He ain't never been outta Maine!
+ລາວບໍ່ເຄີຍອອກຈາກເມນເລີຍ!
+
+992
+01:05:02,500 --> 01:05:04,950
+[HERO]
+Ain't you sick of pine trees, Homer?
+ເຈົ້າບໍ່ເມື່ອຍກັບຕົ້ນປິນບໍ, ໂຮມເປີ?
+
+993
+01:05:05,450 --> 01:05:08,250
+[PEACHES]
+Let me tell you somethin' about Florida, Homer.
+ຂໍໃຫ້ຂ້ອຍບອກເຈົ້າບາງສິ່ງບາງຢ່າງກ່ຽວກັບຟລໍຣິດາ, ໂຮມເປີ.
+
+994
+01:05:08,750 --> 01:05:10,750
+[HERO]
+The Sunshine State!
+ລັດແສງແດດ!
+
+995
+01:05:11,250 --> 01:05:17,250
+[PEACHES]
+It's so nice 'n' warm down there, you can pick them grapefruits and oranges *naked*, if you want to.
+ມັນດີຫຼາຍແລະອົບອຸ່ນຢູ່ລຸ່ມນັ້ນ, ເຈົ້າສາມາດເອົາ
+ຫມາກ ໄມ້ແລະ ຫມາກ ໂມ * ເປົ່າເປົ່າ, ຖ້າເຈົ້າຕ້ອງການ.
+
+996
+01:05:17,750 --> 01:05:22,650
+[HOMER]
+Thanks, guys... I'd like to go with you. But I've got to move on.
+ຂອບໃຈເດີ... ຂ້ອຍຢາກໄປກັບເຈົ້າ. ແຕ່ຂ້ອຍຕ້ອງຍ້າຍໄປຕໍ່ໄປ.
+
+997
+01:05:23,150 --> 01:05:28,400
+[MUDDY]
+Yeah, well... you could move on with *us*, man! You could move on somewhere *warm*!
+ແມ່ນແລ້ວ, ດີ... ເຈົ້າສາມາດຍ້າຍໄປກັບ * ພວກເຮົາ*,
+ຜູ້ຊາຍ! ເຈົ້າສາມາດ ຍ້າຍໄປບ່ອນໃດຫນຶ່ງ * ອົບອຸ່ນ *!
+
+998
+01:05:28,900 --> 01:05:31,350
+[PEACHES]
+Homer, stayin' in Maine ain't movin' on!
+ໂຮມເປີ, ການຢູ່ເມືອງແມນບໍ່ໄດ້ຍ້າຍໄປຕໍ່ໄປ!
+
+999
+01:05:31,850 --> 01:05:35,350
+[ANGELA]
+Dr. Larch often wondered how the world was treating you.
+ດຣ ລາຣັກມັກສົງໄສວ່າໂລກ ກໍາ ລັງຮັກສາເຈົ້າແນວໃດ.
+
+1000
+01:05:35,850 --> 01:05:41,800
+[ANGELA]
+He talked a lot about you, hoping you would be of use, whatever you were up to.
+ລາວເວົ້າຫຼາຍກ່ຽວກັບເຈົ້າ, ຫວັງວ່າເຈົ້າຈະເປັນປະໂຫຍດ
+, ບໍ່ວ່າເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ.
+
+1001
+01:05:42,300 --> 01:05:45,100
+[EDNA]
+"Oh, Lord, support us all the day long..."
+ໂອ້ ພຣະຜູ້ເປັນເຈົ້າ, ສະຫນັບສະຫນູນພວກເຮົາຕະຫຼອດມື້...
+
+1002
+01:05:45,600 --> 01:05:51,600
+[EDNA]
+"...until the shadows lengthen and the evening comes, and the busy world is hushed, and the fever of life is over, and our work is done."
+ຈົນກວ່າເງົາຈະຍາວນານແລະຕອນບ່າຍຈະມາຮອດ, ແລະໂລກທີ່ຫຍຸ້ງຍາກຈະງຽບສະຫງົບ
+, ແລະໄຂ້ຂອງຊີວິດຈະສິ້ນສຸດລົງ, ແລະວຽກງານຂອງພວກເຮົາຈະສໍາເລັດແລ້ວ.
+
+1003
+01:05:52,100 --> 01:05:58,100
+[EDNA]
+"Then, in Thy mercy grant us a safe lodging, and a holy rest, and peace at the last."
+ຫຼັງຈາກນັ້ນ, ໃນຄວາມເມດຕາຂອງທ່ານໃຫ້ພວກເຮົາບ່ອນພັກທີ່ປອດໄພ
+, ແລະການພັກຜ່ອນທີ່ສັກສິດ, ແລະຄວາມສະຫງົບໃນທີ່ສຸດ.
+
+1004
+01:05:58,600 --> 01:06:00,600
+[THE GIRLS]
+Amen! Amen! Amen!
+ເອມິນ! ເອມີນ! ແອເມນ!
+
+1005
+01:06:01,100 --> 01:06:03,200
+[CURLY]
+Did you bring something for me?
+ເຈົ້າເອົາບາງສິ່ງບາງຢ່າງມາໃຫ້ຂ້ອຍບໍ?
+
+1006
+01:06:03,700 --> 01:06:05,700
+[HOMER]
+You know what? I did.
+ເຈົ້າຮູ້ບໍ? ຂ້ອຍເຮັດ.
+
+1007
+01:06:06,200 --> 01:06:08,650
+[HOMER]
+It's from the ocean. It's for you.
+ມັນມາຈາກມະຫາສະຫມຸດ. ມັນສໍາລັບເຈົ້າ.
+
+1008
+01:06:09,150 --> 01:06:11,150
+[BUSTER]
+What are you doing here?
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+1009
+01:06:11,650 --> 01:06:14,100
+[MARY AGNES]
+We made up a room for you.
+ພວກເຮົາໄດ້ສ້າງຫ້ອງ ສໍາ ລັບເຈົ້າ.
+
+1010
+01:06:14,600 --> 01:06:17,050
+[ANGELA]
+Wouldn't you be more comfortable by yourself?
+ເຈົ້າບໍ່ສະບາຍໃຈຫຼາຍຂຶ້ນດ້ວຍຕົວເອງບໍ?
+
+1011
+01:06:17,550 --> 01:06:20,000
+[EDNA]
+Homer, do you know what this is?
+ໂຮມເປີ, ເຈົ້າຮູ້ວ່າສິ່ງນີ້ເປັນຫຍັງບໍ?
+
+1012
+01:06:20,500 --> 01:06:22,500
+[HOMER]
+Sure. It's my heart.
+ແນ່ນອນ. ມັນແມ່ນຫົວໃຈຂອງຂ້ອຍ.
+
+1013
+01:06:23,000 --> 01:06:26,150
+[ANGELA]
+Actually, it's Fuzzy's. There's nothing wrong with your heart.
+ໃນຄວາມເປັນຈິງ, ມັນແມ່ນຂອງຟູຈີ. ບໍ່ມີຫຍັງຜິດກັບຫົວໃຈຂອງທ່ານ.
+
+1014
+01:06:26,650 --> 01:06:28,650
+[HOMER]
+Fuzzy's?!
+ຂອງຟູຊີບໍ?
+
+1015
+01:06:29,150 --> 01:06:35,150
+[EDNA]
+Dr. Larch wanted to keep you out of the war, Homer--that's why he did it. That's why he told you it was yours.
+ດຣ ລາຣັກຢາກເຮັດໃຫ້ເຈົ້າຢູ່ຫ່າງຈາກສົງຄາມ, ໂຮມເປີ -
+ນັ້ນແມ່ນເຫດຜົນທີ່ລາວເຮັດມັນ. ສະນັ້ນລາວຈຶ່ງບອກເຈົ້າວ່າມັນເປັນຂອງເຈົ້າ.
+
+1016
+01:06:35,650 --> 01:06:41,650
+[ANGELA]
+I think he worried about his own heart. He said it would never stand up to Homer Wells going off to war.
+ຂ້ອຍຄິດວ່າລາວກັງວົນກ່ຽວກັບຫົວໃຈຂອງລາວເອງ.
+ລາວເວົ້າວ່າມັນຈະບໍ່ຢືນຕໍ່ຕ້ານໂຮມເປີ ເວລສ໌ທີ່ຈະໄປສົງຄາມເລີຍ.
+
+1017
+01:06:42,150 --> 01:06:48,150
+[HOMER]
+"Thus I began my new life, in a new name, and with everything new about me... I felt... like one in a dream... The remembrance of that life is fraught with so much... want of hope... Whether it lasted for a year, or more, or less, I do not know. I only know that it was, and ceased to be; and... there I leave it."
+ສະນັ້ນຂ້ອຍຈຶ່ງເລີ່ມຕົ້ນຊີວິດ ໃຫມ່ ຂອງຂ້ອຍ, ໃນຊື່ ໃຫມ່, ແລະດ້ວຍທຸກຢ່າງ ໃຫມ່ ກ່ຽວກັບຂ້ອຍ... ຂ້ອຍຮູ້ສຶກ... ຄືກັບຄົນໃນຄວາມຝັນ... ຄວາມຊົງຈໍາຂອງຊີວິດນັ້ນເຕັມໄປດ້ວຍຫຼາຍຢ່າງ...
+ຄວາມຂາດຄວາມຫວັງ... ບໍ່ວ່າມັນຈະຍາວນານເປັນເວລາ ຫນຶ່ງ ປີ, ຫຼືຫຼາຍກວ່ານັ້ນ, ຫຼື ຫນ້ອຍ ກວ່າ, ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍພຽງແຕ່ຮູ້ວ່າມັນເປັນ, ແລະຢຸດເປັນ; ແລະ... ຂ້ອຍປ່ອຍມັນຢູ່ບ່ອນນັ້ນ."
+
+1018
+01:06:48,650 --> 01:06:50,650
+[CURLY]
+What happens next?
+ຈະເກີດຫຍັງຂຶ້ນຕໍ່ໄປ?
+
+1019
+01:06:51,150 --> 01:06:54,300
+[HOMER]
+That's tomorrow, Curly. Let's mot give the story away.
+ນັ້ນແມ່ນມື້ອື່ນ, ຄູລີ. ພວກເຮົາບໍ່ໃຫ້ເລື່ອງອອກໄປ.
+
+1020
+01:06:54,800 --> 01:06:58,650
+[HOMER]
+Good night, you Princes of Maine! You Kings of New England!
+ສະບາຍດີ, ເຈົ້າຂອງເມນ! ເຈົ້າຂອງນິວອັງກິດ!
+

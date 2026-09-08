@@ -1,0 +1,5260 @@
+1
+00:00:10,000 --> 00:00:12,000
+[ANONYMOUS]
+Written by
+ຂຽນໂດຍ
+
+2
+00:00:12,500 --> 00:00:18,500
+[PROLOGUE]
+Soul of the Age! The applause, delight, the wonder of our stage! Our Shakespeare, rise...  Our Shakespeare... For he is all of ours, is he not? The most performed playwright of all time! The author of 37 plays, 154 sonnets, and several epic poems that are collectively known as the ultimate expressions of humanity in the English language. And yet... And yet...  Not a single manuscript of any kind has ever been found written in Shakespeare's own hand. In four hundred years, not one document-- be it poem, play, diary or even a simple letter.  He was born the son of a glove-maker, and at some unknown time, armed with but an elementary school education, he went to London where, the story goes, he became an actor and eventually a playwright.
+ຈິດວິນຍານຂອງສະໄຫມ! ການຊົມເຊີຍ, ຄວາມສຸກ, ຄວາມມະຫັດສະຈັນຂອງເວທີຂອງພວກເຮົາ! ແຊັກເຊປີຂອງພວກເຮົາ, ຂຶ້ນ... ແຊກເຊເປີຂອງພວກເຮົາ... ເພາະວ່າລາວເປັນຂອງພວກເຮົາທັງ ຫມົດ, ລາວບໍ່ແມ່ນບໍ? ນັກຂຽນລະຄອນທີ່ສະແດງຫຼາຍທີ່ສຸດໃນຕະຫຼອດເວລາ
+! ຜູ້ຂຽນຂອງ 37 ບົດສະແດງ, 154 ໂຊນເນັດ, ແລະກະວີທີ່ຍິ່ງໃຫຍ່ຫຼາຍຢ່າງທີ່ເອີ້ນກັນວ່າການສະແດງຄວາມເປັນມະນຸດໃນພາສາອັງກິດ. ແລະເຖິງຢ່າງໃດກໍ່ຕາມ... ແລະເຖິງແມ່ນວ່າ... ບໍ່ມີບົດຂຽນມືດຽວຂອງ
+
+3
+00:00:19,000 --> 00:00:25,000
+[PROLOGUE]
+He died at the age of 56, and was survived by his wife and two daughters who were, like Shakespeare's own father, irrefutably illiterate.
+ລາວຕາຍໃນອາຍຸ 56 ປີ, ແລະຖືກລອດຊີວິດໂດຍເມຍຂອງລາວແລະລູກສາວສອງຄົນທີ່ເປັນ
+, ຄືກັບພໍ່ຂອງແຊກເປີເອງ, ບໍ່ຮູ້ ຫນັງ ສືຢ່າງບໍ່ສາມາດປະຕິເສດໄດ້.
+
+4
+00:00:25,500 --> 00:00:31,500
+[PROLOGUE]
+His will famously left his second best bed to his widow. But it made no mention of a single book or manuscript.
+ຄວາມຕ້ອງການຂອງລາວເປັນທີ່ຮູ້ຈັກກັນດີທີ່ປ່ອຍຕຽງທີ່ດີທີ່ສຸດທີສອງຂອງລາວໃຫ້ເມຍເມຍຂອງລາວ
+. ແຕ່ມັນບໍ່ໄດ້ກ່າວເຖິງປື້ມຫຼືບົດຂຽນມືດຽວ.
+
+5
+00:00:32,000 --> 00:00:38,000
+[PROLOGUE]
+Is it possible Shakespeare owned no books at his death because... he could not read? That he wrote no letters because he, like his father before him and his children after him, could not write?  Our Shakespeare is a cypher, a ghost; his biography made not by history... but by conjecture. His story not written with facts, but with... imagination.
+ມັນເປັນໄປໄດ້ບໍວ່າແຊກເປີບໍ່ມີປື້ມໃນເວລາທີ່ລາວຕາຍເພາະວ່າ... ລາວບໍ່ສາມາດອ່ານໄດ້ບໍ? ວ່າລາວບໍ່ໄດ້ຂຽນຈົດຫມາຍຫຍັງເລີຍເພາະວ່າລາວ, ຄືກັບພໍ່ຂອງລາວກ່ອນລາວແລະລູກຂອງລາວຫຼັງຈາກລາວ,
+ບໍ່ສາມາດຂຽນໄດ້ບໍ؟ ແຊກແປີຂອງພວກເຮົາແມ່ນ ໄຊເຟີ, ຈິດວິນຍານ; ຊີວະປະຫວັດຂອງລາວບໍ່ໄດ້ເຮັດໂດຍປະຫວັດສາດ... ແຕ່ໂດຍການຄາດຄະເນ. ເລື່ອງລາວບໍ່ແມ່ນທີ່ຂຽນດ້ວຍຄວາມຈິງ, ແຕ່ດ້ວຍ... ຈິນຕະນາການ.
+
+6
+00:00:38,500 --> 00:00:44,500
+[PROLOGUE]
+So! Let me offer you a different story. A darker story... Of quills and swords. Of power and betrayal. Of a stage conquered, and a throne lost!
+ສະນັ້ນ! ຂໍໃຫ້ຂ້ອຍສະເຫນີເຈົ້າເລື່ອງທີ່ແຕກຕ່າງກັນ. ເລື່ອງທີ່ມືດກວ່າ...
+ຂອງກະດານແລະກະທູ້. ຂອງພະລັງແລະການປະຫມາດ. ຂອງເວທີທີ່ຖືກເອົາຊະນະ, ແລະອານາຈັກທີ່ສູນເສຍ!
+
+7
+00:00:45,000 --> 00:00:47,000
+[POLE]
+Break it down!
+ທໍາລາຍມັນລົງ!
+
+8
+00:00:47,500 --> 00:00:49,500
+[POLE]
+Again!
+ອີກເທື່ອຫນຶ່ງ!
+
+9
+00:00:50,000 --> 00:00:52,000
+[POLE]
+Jonson!   Jonson!!    Show yourself!
+ຈອນສັນ! ຈອນຊັນ!! ສະແດງຕົວເອງ!
+
+10
+00:00:52,500 --> 00:00:58,450
+[POLE]
+Out with you! Jonson! We'll smoke you out like a rat if we have to!  Jonson?! Jonson!!
+ອອກໄປກັບເຈົ້າ! ຈອນສັນ!
+ພວກເຮົາຈະສູບຢາເຈົ້າອອກຄືກັບແມວຖ້າພວກເຮົາຕ້ອງເຮັດ! ຈົງສັນ?! ຈອນຊັນ!!
+
+11
+00:00:58,950 --> 00:01:00,950
+[POLE]
+Torch it.
+ຈູດມັນ.
+
+12
+00:01:01,450 --> 00:01:03,450
+[POLE]
+Torch it!   All of you!
+ຈູດມັນ! ທຸກຄົນ!
+
+13
+00:01:03,950 --> 00:01:07,800
+[JONSON]
+I'm a writer, aren't I?   Of course I've bloody well been--
+ຂ້ອຍເປັນນັກຂຽນ, ແມ່ນບໍ? ແນ່ນອນວ່າຂ້ອຍເຄີຍເປັນ...
+
+14
+00:01:08,300 --> 00:01:10,300
+[FIGURE]
+Ask him about the plays.
+ຖາມລາວກ່ຽວກັບການສະແດງ.
+
+15
+00:01:10,800 --> 00:01:16,800
+[JONSON]
+Plays?  Which would you prefer, my lord? A pastoral? An historical? An historical-pastoral, or an hysterical historical pastoral--
+ການສະແດງ? ເຈົ້າມັກຫຍັງແດ່, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ? ການກະຕ່າລ້ຽງສັດ?
+ການປະຫວັດສາດ? ການຄຸ້ມຄອງທາງປະວັດສາດ, ຫຼືການກະຕູ້ລ້ຽງໄມ້ທາງປະຖິຕິທີ່ໂຊກຮ້າຍ -
+
+16
+00:01:17,300 --> 00:01:23,300
+[JONSON]
+I'm sorry my lord, but I am not sure I know whereof you speak. I have had the honor of meeting his lordship--
+ຂ້ອຍຂໍໂທດເດີ, ແຕ່ຂ້ອຍບໍ່ແນ່ໃຈວ່າຂ້ອຍຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ
+. ຂ້ອຍມີກຽດຕິຍົດທີ່ພົບກັບເຈົ້າຂອງລາວ -
+
+17
+00:01:23,800 --> 00:01:25,800
+[SOUTHAMPTON]
+Well?
+ດີບໍ?
+
+18
+00:01:26,300 --> 00:01:28,300
+[SOUTHAMPTON]
+Wonderful, isn't it?
+ມັນດີເລີດ, ແມ່ນບໍ?
+
+19
+00:01:28,800 --> 00:01:30,800
+[OXFORD]
+Well, it's certainly... big.
+ດີ, ມັນແນ່ນອນ... ໃຫຍ່.
+
+20
+00:01:31,300 --> 00:01:35,150
+[SOUTHAMPTON]
+I promise you, Edward, you've seen nothing like it before! Nothing!
+ຂ້ອຍສັນຍາເຈົ້າ, ເອດວາດ,
+ເຈົ້າບໍ່ເຄີຍເຫັນຫຍັງແບບນີ້ກ່ອນ! ບໍ່ມີຫຍັງເລີຍ!
+
+21
+00:01:35,650 --> 00:01:41,650
+[OXFORD]
+Bricklayers and whores watching Aristophones?   You're quite right, Henry, not only have I never witnessed it, I'm not sure I care to.
+ພວກຄົນເຮັດບລັອກແລະໂຊກແຊງເບິ່ງອາຣີສໂຕໂຟນບໍ? ເຈົ້າເວົ້າຖືກຕ້ອງຫຼາຍ,
+ແຮນຣີ, ບໍ່ພຽງແຕ່ຂ້ອຍບໍ່ເຄີຍເຫັນມັນເລີຍ, ຂ້ອຍບໍ່ແນ່ໃຈວ່າຂ້ອຍສົນໃຈ.
+
+22
+00:01:42,150 --> 00:01:44,600
+[SOUTHAMPTON]
+You're an elitist, you know that, Edward?
+ເຈົ້າເປັນຄົນ elitist, ເຈົ້າຮູ້ບໍ, ເອດວາດ?
+
+23
+00:01:45,100 --> 00:01:47,200
+[OXFORD]
+There won't be puppets, will there?
+ຈະບໍ່ມີລູກຫຼານ, ແມ່ນບໍ?
+
+24
+00:01:47,700 --> 00:01:49,700
+[USHER]
+My lords...
+ເຈົ້າຂອງຂ້ອຍ...
+
+25
+00:01:50,200 --> 00:01:56,200
+[SOUTHAMPTON]
+The stage-craft is quite spectacular. Far more elaborate than anything I've seen at court. I've witnessed be- headings that god as my witness look as real as at the Tower, cannons fired in battle...
+ການສ້າງເວທີແມ່ນສວຍງາມຫຼາຍ. ຫຼາຍກວ່າສິ່ງໃດທີ່ຂ້ອຍເຄີຍເຫັນໃນສານ.
+ຂ້ອຍໄດ້ເຫັນການຫົວຂໍ້ທີ່ພຣະເຈົ້າເປັນພະຍານຂອງຂ້ອຍເບິ່ງຄືວ່າເປັນຈິງຄືກັບທີ່ Tower, ປືນຍິງໃນການຕໍ່ສູ້...
+
+26
+00:01:56,700 --> 00:01:58,700
+[SELLING-MAID]
+Ale?   Mutton, mi' lord?
+ອາເລ? ມູຕັນ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍບໍ?
+
+27
+00:01:59,200 --> 00:02:05,200
+[SOUTHAMPTON]
+...and last week, they had some sort of a device to hoist cherubs into the air and fly over the entire audience!
+ແລະໃນອາທິດທີ່ຜ່ານມາ,
+ພວກເຂົາມີອຸປະກອນບາງຊະນິດເພື່ອຍົກເຄຣູບ໌ຂຶ້ນອາກາດແລະບິນຜ່ານຜູ້ຊົມທັງ ຫມົດ!
+
+28
+00:02:05,700 --> 00:02:09,550
+[OXFORD]
+An ap� mekhanes the�s. Deus ex machina. Machine of the Gods.
+ແອັບແມັກແອນສ໌ s. Deus ex machina. ເຄື່ອງຈັກຂອງພະເຈົ້າ.
+
+29
+00:02:10,050 --> 00:02:16,000
+[OXFORD]
+Whenever the Greeks wrote their heroes into a situation from which they couldn't write their way out--
+ທຸກຄັ້ງທີ່ຊາວເກຣັກຂຽນວິລະຊົນຂອງພວກເຂົາເຂົ້າໄປໃນສະຖານະການທີ່ພວກເຂົາບໍ່ສາມາດຂຽນທາງອອກໄດ້
+-
+
+30
+00:02:16,500 --> 00:02:22,500
+[OXFORD]
+--Out came the ap� mekhanes the�s... As when Hippolytus is saved by Artemis, or Medea flown to Athens... Always good for an ap� mekhanes the�s was Euripides
+- ອອກມາ ap mechanes ໄດ້ s... ເຊັ່ນວ່າເມື່ອ Hippolytus ຖືກຊ່ວຍເຫຼືອໂດຍ Artemis,
+ຫຼື Medea ໄດ້ບິນໄປຫາອາຕັນ... ສະເຫມີດີ ສໍາ ລັບ ap mechhanes ໄດ້ s ແມ່ນ Euripides
+
+31
+00:02:23,000 --> 00:02:25,450
+[SHAKESPEARE]
+And whither were you riding now, signior?
+ແລະເຈົ້າ ກໍາ ລັງຂີ່ລົດໄປໃສດຽວນີ້, ເຈົ້າ?
+
+32
+00:02:25,950 --> 00:02:31,200
+["FASTIDIOUS"]
+Who, I? What a silly jest's that! Whither should I ride but to the court?
+ໃຜ, ຂ້ອຍ? ນັ້ນແມ່ນໂຊກແຊງຫຼາຍປານໃດ! ຂ້ອຍຄວນຂີ່ລົດໄປໃສນອກຈາກສານ?
+
+33
+00:02:31,700 --> 00:02:36,600
+[SHAKESPEARE]
+O, pardon me, sir, twenty places more; your hot-house, your pig-house, or your whore-house!
+ໂອ້, ຂໍໂທດຂ້ອຍເດີ, ອີກສິບບ່ອນ; ເຮືອນຮ້ອນຂອງທ່ານ
+, ເຮືອນຫມູຂອງທ່ານ, ຫຼືເຮືອນໂຊກຮ້າຍຂອງທ່ານ!
+
+34
+00:02:37,100 --> 00:02:42,000
+[NASHE]
+His second play, and almost a full house.  He's got a wit, does Jonson.
+ການສະແດງຄັ້ງທີສອງຂອງລາວ, ແລະເກືອບເຮືອນເຕັມ
+. ລາວມີຄວາມສະຫຼາດ, ເຮັດຈອນສັນ.
+
+35
+00:02:42,500 --> 00:02:48,500
+[MARLOWE]
+That might be so, but like a grain of wheat hid in a bushel of chaff: you shall seek all day ere you find it, and when you have it, it's not worth the search!
+ນັ້ນອາດຈະເປັນດັ່ງນັ້ນ, ແຕ່ຄືກັບເມັດເຂົ້າທີ່ເຊື່ອງໄວ້ໃນຈານກະຕູ້ກະຕຸ້ນ:
+ເຈົ້າຈະຊອກຫາຕະຫຼອດມື້ກ່ອນທີ່ທ່ານຈະພົບມັນ, ແລະເມື່ອເຈົ້າມີມັນ, ມັນບໍ່ຄຸ້ມຄ່າການຊອກຫາ!
+
+36
+00:02:49,000 --> 00:02:51,000
+[WOMAN]
+Ale!   Ale!!
+ອາເລ! ອາເລ!!
+
+37
+00:02:51,500 --> 00:02:56,750
+[DEKKER]
+Marlowe-- spot me a few pence, will you? Henslowe still owes me for "Shoemaker's Holiday".
+ມາລູ - ໃຫ້ຂ້ອຍເງິນສອງສາມປິນສ໌, ເຈົ້າຈະເຮັດບໍ?
+ເຮນສລູຍັງເປັນຫນີ້ຂ້ອຍ ສໍາ ລັບ"ວັນພັກຂອງຜູ້ຜະລິດເກີບ".
+
+38
+00:02:57,250 --> 00:03:00,400
+[MARLOWE]
+That would be because no one saw "Shoemaker's Holiday".
+ນັ້ນຈະເປັນຍ້ອນວ່າບໍ່ມີໃຜເຫັນ"ວັນພັກຂອງຜູ້ເຮັດເກີບ".
+
+39
+00:03:00,900 --> 00:03:02,900
+[DEKKER]
+Ale here!
+ອາເລຢູ່ນີ້!
+
+40
+00:03:03,400 --> 00:03:07,950
+[NASHE]
+Kit... Isn't that one of your unrequited loves in the box over there?
+ຄິດ... ນັ້ນບໍ່ແມ່ນ ຫນຶ່ງ
+ໃນຄວາມຮັກທີ່ບໍ່ຕອບແທນຂອງທ່ານໃນກ່ອງຢູ່ບ່ອນນັ້ນບໍ?
+
+41
+00:03:08,450 --> 00:03:14,400
+[MARLOWE]
+But with whom? Tell me not he prefers the company of such old grey men as that!
+ແຕ່ກັບໃຜ? ຢ່າບອກຂ້ອຍວ່າລາວມັກບໍລິສັດຂອງຜູ້ຊາຍສີຂາວເກົ່າເຊັ່ນນັ້ນ!
+
+42
+00:03:14,900 --> 00:03:20,900
+[NASHE]
+I think-- yes, by the beard, that's the Earl of Oxford. Old Tom Hooker used to play for him. Had his own acting troupe for private Court performances and the like.
+ຂ້ອຍຄິດວ່າ - ແມ່ນແລ້ວ, ໂດຍມີດອກໄມ້, ນັ້ນແມ່ນ Earl ຂອງ Oxford. ໂຕມ Hooker
+ເກົ່າເຄີຍຫຼິ້ນ ສໍາ ລັບລາວ. ມີທີມງານສະແດງຂອງຕົນເອງ ສໍາ ລັບການສະແດງສານສ່ວນຕົວແລະອື່ນໆ.
+
+43
+00:03:21,400 --> 00:03:23,850
+[DEKKER]
+I wonder if he needs any material?
+ຂ້ອຍຢາກຮູ້ວ່າລາວຕ້ອງການວັດສະດຸໃດບໍ?
+
+44
+00:03:24,350 --> 00:03:26,350
+[MARLOWE]
+Certainly not any of yours.
+ແນ່ນອນວ່າບໍ່ແມ່ນຂອງເຈົ້າເລີຍ.
+
+45
+00:03:26,850 --> 00:03:32,850
+[NASHE]
+No, no-- that was years ago. Had a falling out with the Queen, I heard. He's more of a recluse than a patron these days.
+ບໍ່, ບໍ່ - ນັ້ນແມ່ນຫຼາຍປີກ່ອນ. ມີການຕົກລົງກັບລາຊິນີ,
+ຂ້ອຍໄດ້ຍິນ. ລາວເປັນຄົນໂດດດ່ຽວຫຼາຍກ່ວາຜູ້ປົກຄອງໃນມື້ນີ້.
+
+46
+00:03:33,350 --> 00:03:39,350
+[SHAKESPEARE]
+Who, he, the noble there? Why, he's a gull, a fool, no salt in him i' the earth; man, he looks like a fresh salmon kept in a tub!
+ໃຜ, ລາວ, ຄົນສູງສຸດຢູ່ບ່ອນນັ້ນ? ເປັນຫຍັງ, ລາວເປັນກະຕ່າກະຕູ້ກະຕ່າຍກະຕຸ້ນກະຕູ້ນະ,
+ບໍ່ມີເກືອໃນລາວຂ້ອຍເປັນໂລກ; ຜູ້ຊາຍ, ລາວເບິ່ງຄືວ່າເປັນຊາມອນສົດທີ່ຖືກເກັບໄວ້ໃນຖັງ!
+
+47
+00:03:39,850 --> 00:03:45,800
+[SHAKESPEARE]
+He sleeps with a musk-cat every night, and walks all day hang'd in perfumed chains for penance.
+ລາວນອນກັບແມວມັສກ໌ທຸກໆຄືນ,
+ແລະຍ່າງຕະຫຼອດມື້ຕິດຢູ່ໃນຕ່ອງໂສ້ທີ່ມີກິ່ນຫອມເພື່ອຄວາມເສຍໃຈ.
+
+48
+00:03:46,300 --> 00:03:48,750
+[A GROUNDLING]
+Oi!   So that's what I been smelling!
+ໂອ້! ສະນັ້ນນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງກິ່ນຫອມ!
+
+49
+00:03:49,250 --> 00:03:55,250
+[SHAKESPEARE]
+He has his skin tann'd in civet, to make his complexion strong, and the sweetness of his youth lasting in the sense of his sweet lady. And, sadly, the poor man's brain is lighter than his feather...
+ລາວມີຜິວຫນັງຂອງລາວຖືກຕັດດ້ວຍຊີເວັດ, ເພື່ອເຮັດໃຫ້ສີຜິວຂອງລາວແຂງແຮງ,
+ແລະຄວາມຫວານຂອງໄວຫນຸ່ມຂອງລາວທີ່ຍືນຍົງໃນຄວາມຮູ້ສຶກຂອງຜູ້ຍິງທີ່ຫວານຂອງລາວ. ແລະ, ໂຊກຮ້າຍ, ສະຫມອງຂອງຜູ້ຊາຍທຸກຍາກແມ່ນເບົາກວ່າຜົມຂອງລາວ...
+
+50
+00:03:55,750 --> 00:04:01,750
+[SHAKESPEARE]
+He is a good and empty puff, but he loves you well, signior. I wish you well with him.
+ລາວເປັນສູບທີ່ດີແລະຫວ່າງ, ແຕ່ລາວຮັກເຈົ້າດີ
+, ຜູ້ຊາຍ. ຂ້ອຍຂໍອວຍພອນເຈົ້າດີກັບລາວ.
+
+51
+00:04:02,250 --> 00:04:05,050
+[SHAKESPEARE]
+Jonson! Wonderful dialogue! Wonderful. I hope your next--
+ຈອນສັນ! ການສົນທະນາທີ່ດີເລີດ! ດີເລີດ. ຂ້ອຍຫວັງວ່າຕໍ່ໄປຂອງທ່ານ -
+
+52
+00:04:05,550 --> 00:04:07,550
+[HENSLOWE]
+Will!   Will Shakespeare!
+ວິນ! ວິນ ແຊກເປີ!
+
+53
+00:04:08,050 --> 00:04:10,850
+[HENSLOWE]
+That's not ale in that goblet is it?
+ນັ້ນບໍ່ແມ່ນເບຍໃນຈອກນັ້ນແມ່ນບໍ?
+
+54
+00:04:11,350 --> 00:04:16,250
+[SHAKESPEARE]
+Ale? Me? Drink during a performance? I am a professional sir!  A complete and--
+ອາເລ? ຂ້ອຍ? ດື່ມໃນລະຫວ່າງການສະແດງບໍ?
+ຂ້ອຍເປັນມືອາຊີບເດີ! ເປັນຢ່າງສົມບູນແລະ -
+
+55
+00:04:16,750 --> 00:04:20,950
+[POLE]
+This play has been declared seditious and illegal by Lord William Cecil!
+ບົດສະແດງນີ້ໄດ້ຖືກປະກາດວ່າເປັນການກະບົດແລະຜິດກົດຫມາຍໂດຍພຣະຜູ້ເປັນເຈົ້າວິກິລາມ
+ເຊຊີລ!
+
+56
+00:04:21,450 --> 00:04:23,900
+[POLE]
+All are herewith ordered to disperse immediately!
+ທຸກຄົນຖືກສັ່ງໃຫ້ແຕກແຍກອອກທັນທີ!
+
+57
+00:04:24,400 --> 00:04:26,850
+[A GROUNDLING]
+Why don't you disperse William Cecil's arse!
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ແຈກຢາຍຫລັງຂອງວິກິລາມ ເຊຊີລ!
+
+58
+00:04:27,350 --> 00:04:29,350
+[POLE]
+Arrest that man!
+ຈັບຜູ້ຊາຍຄົນນັ້ນ!
+
+59
+00:04:29,850 --> 00:04:32,650
+[SOUTHAMPTON]
+Damn it all.    Well! Off to Essex's then?
+ສະບາຍດີທັງ ຫມົດ. ດີ! ໄປໂຮງຮຽນເອສເຊສແລ້ວບໍ?
+
+60
+00:04:33,150 --> 00:04:35,150
+[SOUTHAMPTON]
+Edward?
+ເອດວາດ?
+
+61
+00:04:35,650 --> 00:04:39,850
+[JONSON]
+Seditious? Seditious?! It's a comedy for god's sake! There's nothing seditious about--
+ການກະບົດບໍ? ກະບົດບໍ?! ມັນເປັນຄອມເມີດີ
+ສໍາ ລັບພຣະເຈົ້າ! ບໍ່ມີຫຍັງກະບົດກ່ຽວກັບ -
+
+62
+00:04:40,350 --> 00:04:44,200
+[POLE]
+Oi, is that right, is it?    And you know this because?
+ໂອ້, ນັ້ນແມ່ນຄວາມຈິງບໍ? ແລະເຈົ້າຮູ້ສິ່ງນີ້ເພາະວ່າ?
+
+63
+00:04:44,700 --> 00:04:47,500
+[JONSON]
+Because I wrote the bloody thing!      And- -
+ເພາະຂ້ອຍຂຽນສິ່ງເລືອດນັ້ນ! ແລະ -
+
+64
+00:04:48,000 --> 00:04:50,000
+[POLE]
+Arrest him as well!
+ຈັບລາວເຊັ່ນກັນ!
+
+65
+00:04:50,500 --> 00:04:53,300
+[JONSON]
+A pox on you!  And your carbuncled father!
+ໂຣກພິດຢູ່ເທິງເຈົ້າ! ແລະພໍ່ຂອງທ່ານທີ່ຖືກກາກບອນ!
+
+66
+00:04:53,800 --> 00:04:59,800
+[ESSEX]
+People taxed to the point of starvation, Spain running the New World, open revolt in Ireland, Catholic plots everywhere you turn...
+ຄົນຖືກເກັບພາສີຈົນເຖິງຈຸດອຶດຫິວ, ສະເປນ ດໍາ ເນີນໂລກໃຫມ່,
+ການກະບົດເປີດໃນໄອແລນ, ແຜນການຄາໂຕລິກທຸກບ່ອນທີ່ທ່ານຫັນໄປ...
+
+67
+00:05:00,300 --> 00:05:06,300
+[ESSEX]
+...and how do the Cecils spend their time and energy? Shutting a theater! A theater, for god's sake? It's madness! No wonder the mob hates them so!
+ແລະພວກເຊຊີລ໌ໃຊ້ເວລາແລະພະລັງງານຂອງພວກເຂົາແນວໃດ? ປິດໂຮງລະຄອນ! ໂຮງລະຄອນ,
+ສໍາລັບພຣະເຈົ້າ? ມັນເປັນຄວາມໂຊກຮ້າຍ! ບໍ່ແປກໃຈວ່າກຸ່ມຄົນກຽດຊັງພວກເຂົາຫຼາຍ!
+
+68
+00:05:06,800 --> 00:05:08,800
+[OXFORD]
+Out!
+ອອກໄປ!
+
+69
+00:05:09,300 --> 00:05:12,100
+[OXFORD]
+Henry, how many people were at that play?
+ແຮນຣີ, ມີຄົນຫຼາຍປານໃດທີ່ສະແດງນັ້ນ?
+
+70
+00:05:12,600 --> 00:05:15,400
+[SOUTHAMPTON]
+Hmm? I'm not sure, two thousand, maybe more.
+ຂ້ອຍບໍ່ແນ່ໃຈ, ສອງພັນ, ບາງທີຫຼາຍກວ່ານັ້ນ.
+
+71
+00:05:15,900 --> 00:05:19,750
+[OXFORD]
+And how many performances are there of a play like that?
+ແລະການສະແດງແບບນັ້ນມີຫຼາຍປານໃດ?
+
+72
+00:05:20,250 --> 00:05:22,250
+[SOUTHAMPTON]
+Five or six I suppose.
+ຂ້ອຍຄິດວ່າຫ້າຫຼືຫົກ.
+
+73
+00:05:22,750 --> 00:05:24,750
+[ESSEX]
+By the--!
+ໂດຍ...!
+
+74
+00:05:25,250 --> 00:05:31,250
+[OXFORD]
+So! Ten thousand souls. All listening to the writings of one man-- the ideas of one man. That's power, Robert. And if there is one thing the Cecils understand, it's power.
+ສະນັ້ນ! ຈິດວິນຍານສິບພັນຄົນ. ທຸກຄົນຟັງການຂຽນຂອງຜູ້ຊາຍຄົນດຽວ - ຄວາມຄິດຂອງຊາຍຄົນດຽວ
+. ນັ້ນແມ່ນພະລັງງານ, ໂຣເບີດ. ແລະຖ້າມີສິ່ງດຽວທີ່ເຊຊີລ໌ເຂົ້າໃຈ, ມັນແມ່ນພະລັງງານ.
+
+75
+00:05:31,750 --> 00:05:37,750
+[ESSEX]
+And when did words ever win a kingdom? I think I'll keep my sword, thank you very much.
+ແລະ ຄໍາ ເວົ້າໄດ້ຊະນະອານາຈັກເມື່ອໃດ?
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະຮັກສາກະທູ້ຂອງຂ້ອຍໄວ້, ຂອບໃຈຫຼາຍໆ.
+
+76
+00:05:38,250 --> 00:05:44,250
+[ESSEX]
+Leave us.  Henry... Some of my men have... intercepted... some of William Cecil's recent correspondence with King James of Scotland...
+ໃຫ້ພວກເຮົາໄປ. ແຮນຣີ... ບາງຜູ້ຊາຍຂອງຂ້ອຍໄດ້... ຈັບກຸມ...
+ບາງສ່ວນຂອງການສື່ສານທີ່ຜ່ານມາຂອງວິກິລາມ ເຊຊີລກັບກະສັດເຈມສ໌ຂອງສກອດແລນ...
+
+77
+00:05:44,750 --> 00:05:47,200
+[ESSEX]
+Cecil's all but promising him the throne...
+ເຊຊີລພຽງແຕ່ສັນຍາໃຫ້ລາວອານາຈັກ...
+
+78
+00:05:47,700 --> 00:05:50,150
+[SOUTHAMPTON]
+To James?   Elizabeth would never agree to-
+ກັບເຈມສ໌? ເອລີຊາເບັດຈະບໍ່ເຫັນດີທີ່ຈະ...
+
+79
+00:05:50,650 --> 00:05:56,650
+[ESSEX]
+Elizabeth is old. Ill. Not of her old mind. Sometimes she doesn't even recognize me. And yet, still she refuses to name an heir.
+ເອລີຊາເບັດອາຍຸແລ້ວ. ເຈັບປ່ວຍ. ບໍ່ແມ່ນຈິດໃຈເກົ່າຂອງນາງ. ບາງຄັ້ງນາງບໍ່ຮູ້ຂ້ອຍເລີຍ
+. ແລະເຖິງຢ່າງໃດກໍ່ຕາມ, ນາງຍັງປະຕິເສດທີ່ຈະຕັ້ງຊື່ຜູ້ສືບທອດ.
+
+80
+00:05:57,150 --> 00:05:59,600
+[SOUTHAMPTON]
+But a Scotsman? On the Tudor throne?
+ແຕ່ຄົນສະກອດສ໌ບໍ? ຢູ່ເທິງອານາຈັກຕູດໍບໍ?
+
+81
+00:06:00,100 --> 00:06:05,700
+[ESSEX]
+You are not in the Privy Council. Elizabeth does everything the Cecils wish of her. Everything!
+ເຈົ້າບໍ່ແມ່ນສະມາຊິກສະພາເອກະຊົນ.
+ເອລີຊາບິດເຮັດທຸກຢ່າງທີ່ເຊຊີລສ໌ຕ້ອງການຈາກນາງ. ທຸກຢ່າງ!
+
+82
+00:06:06,200 --> 00:06:12,200
+[ESSEX]
+Think, Henry, if James owes Cecil his throne, Cecil will have more influence in the next reign than he does in this one. And after William Cecil, his hunch-backed son will take his place...  That is why we must do everything in our power to ensure that the right man succeeds her.  A man deserving of the Tudor crown.
+ຄິດວ່າ, ແຮນຣີ, ຖ້າເຈມສ໌ເປັນພັນທະກັບ Cecil ຄາຊະອານາຈັກຂອງລາວ, Cecil ຈະມີອິດທິພົນຫຼາຍຂຶ້ນໃນການປົກຄອງຕໍ່ໄປກ່ວາລາວເຮັດໃນຄັ້ງນີ້. ແລະຫຼັງຈາກວິກິລາມ Cecil, ລູກຊາຍທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນໂດຍ
+hunch ຈະເອົາບ່ອນຂອງລາວ... ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຮົາຕ້ອງເຮັດທຸກຢ່າງໃນອໍານາດຂອງພວກເຮົາເພື່ອຮັບປະກັນວ່າຜູ້ຊາຍທີ່ຖືກຕ້ອງສືບທອດນາງ. ຜູ້ຊາຍທີ່ສົມຄວນຂອງມົງກຸດ Tudor ໄດ້.
+
+83
+00:06:12,700 --> 00:06:18,700
+[ESSEX]
+I ask you for the support of you and your men, Henry.... if it comes to a fight.
+ຂ້ອຍຂໍໃຫ້ທ່ານໃຫ້ການສະຫນັບສະຫນູນຂອງທ່ານແລະຜູ້ຊາຍຂອງທ່ານ
+, ເຮນຣີ... ຖ້າມັນມາເຖິງການຕໍ່ສູ້.
+
+84
+00:06:19,200 --> 00:06:24,100
+[SOUTHAMPTON]
+You know you need not ask. I stand with you, as I always have.
+ເຈົ້າຮູ້ວ່າເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຖາມ.
+ຂ້ອຍຢືນຢູ່ກັບເຈົ້າ, ດັ່ງທີ່ຂ້ອຍເຄີຍເຮັດຢູ່ສະເຫມີ.
+
+85
+00:06:24,600 --> 00:06:26,700
+[OXFORD]
+Essex played rather poorly, didn't he?
+ເອສເຊັກສ໌ຫຼິ້ນບໍ່ດີຫຼາຍ, ແມ່ນບໍ?
+
+86
+00:06:27,200 --> 00:06:29,300
+[OXFORD]
+Henry... The Cecils brook no rivals.
+ແຮນຣີ... ຄອບຄົວເຊຊີລ໌ບໍ່ມີຄູ່ແຂ່ງ.
+
+87
+00:06:29,800 --> 00:06:31,800
+[SOUTHAMPTON]
+You heard?
+ເຈົ້າໄດ້ຍິນບໍ?
+
+88
+00:06:32,300 --> 00:06:34,750
+[SOUTHAMPTON]
+Always concerned for me, aren't you Edward?
+ເຈົ້າກັງວົນກ່ຽວກັບຂ້ອຍຢູ່ສະເຫມີ, ເຈົ້າບໍ່ແມ່ນເອດວາດບໍ?
+
+89
+00:06:35,250 --> 00:06:37,700
+[SOUTHAMPTON]
+And what would you have me do?
+ແລະເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+
+90
+00:06:38,200 --> 00:06:40,300
+[OXFORD]
+I would have you deny him.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າປະຕິເສດລາວ.
+
+91
+00:06:40,800 --> 00:06:42,800
+[SOUTHAMPTON]
+The son of the Queen?
+ລູກຊາຍຂອງລາຊິນີບໍ?
+
+92
+00:06:43,300 --> 00:06:45,300
+[OXFORD]
+That is rumor only, Henry--
+ນັ້ນແມ່ນພຽງແຕ່ຂ່າວລືເທົ່ານັ້ນ, ເຮນຣີ...
+
+93
+00:06:45,800 --> 00:06:51,800
+[SOUTHAMPTON]
+Rumor? My god, all you have to do is look at Essex to see the Queen's reflection. Everyone thinks he's her son, everyone! And I for one would rather bow to a Tudor, bastard though he may be, than a Scotsman!
+ຂ່າວລື? ພຣະເຈົ້າຂອງຂ້ອຍ, ເຈົ້າຕ້ອງເຮັດພຽງແຕ່ເບິ່ງເອສເຊັກສ໌ເພື່ອເຫັນການສະທ້ອນຂອງລາຊິນີ. ທຸກຄົນຄິດວ່າລາວເປັນລູກຊາຍຂອງນາງ
+, ທຸກຄົນ! ແລະຂ້ອຍເປັນຄົນ ຫນຶ່ງ ຈະມັກຍອມຮັບຕໍ່ຕູດໍ, ໂຊກແມນເຖິງແມ່ນວ່າລາວອາດຈະເປັນ, ກ່ວາຄົນສະກອດສ໌!
+
+94
+00:06:52,300 --> 00:06:58,300
+[OXFORD]
+I desire nothing more than to see the next king be the rightful king. But what Essex contemplates will surely lead to Civil War.  No. If this is to be done, it must be done carefully, skillfully.
+ຂ້ອຍບໍ່ຢາກຫຍັງຫຼາຍກ່ວາທີ່ຈະເຫັນກະສັດຕໍ່ໄປເປັນກະສັດທີ່ຖືກຕ້ອງຕາມກົດ ຫມາຍ. ແຕ່ສິ່ງທີ່ເອສເຊສສ໌ພິຈາລະນາຈະ
+ນໍາ ໄປສູ່ສົງຄາມກາງເມືອງແນ່ນອນ. ບໍ່. ຖ້າສິ່ງນີ້ຈະເຮັດໄດ້, ມັນຕ້ອງເຮັດຢ່າງລະມັດລະວັງ, ມີຄວາມສາມາດ.
+
+95
+00:06:58,800 --> 00:07:04,800
+[SOUTHAMPTON]
+As I heard it, Elizabeth exiled you from her presence for the last twenty years because of your "skill" at Court politics.
+ໃນຂະນະທີ່ຂ້ອຍໄດ້ຍິນມັນ,
+ເອລີຊາບິດໄດ້ຂັບໄລ່ເຈົ້າຈາກການມີຢູ່ຂອງນາງໃນໄລຍະສິບປີທີ່ຜ່ານມາຍ້ອນ"ຄວາມສາມາດ" ຂອງທ່ານໃນການເມືອງສານ.
+
+96
+00:07:05,300 --> 00:07:11,300
+[OXFORD]
+I only have your interests in mind, Henry. For as you so rightly point out, my interests are already lost.
+ຂ້ອຍມີພຽງແຕ່ຄວາມສົນໃຈຂອງທ່ານໃນຈິດໃຈ, ເຮນຣີ.
+ເພາະວ່າດັ່ງທີ່ທ່ານຊີ້ໃຫ້ເຫັນຢ່າງຖືກຕ້ອງຫຼາຍ, ຄວາມສົນໃຈຂອງຂ້ອຍໄດ້ສູນເສຍແລ້ວ.
+
+97
+00:07:11,800 --> 00:07:17,800
+[SOUTHAMPTON]
+I know. Forgive me. You know how I feel about you. You have been a great friend to me ever since my father died. I promise you that I will do nothing rash without consulting you first.
+ຂ້ອຍຮູ້ແລ້ວ. ຂໍໂທດຂ້ອຍ. ເຈົ້າຮູ້ວ່າຂ້ອຍຮູ້ສຶກແນວໃດຕໍ່ເຈົ້າ. ເຈົ້າເປັນເພື່ອນທີ່ດີເລີດ ສໍາ
+ລັບຂ້ອຍຕັ້ງແຕ່ພໍ່ຂອງຂ້ອຍຕາຍ. ຂ້ອຍສັນຍາໃຫ້ເຈົ້າວ່າຂ້ອຍຈະບໍ່ເຮັດຫຍັງຢ່າງກະທັນຫັນໂດຍບໍ່ຕ້ອງປຶກສາເຈົ້າກ່ອນ.
+
+98
+00:07:18,300 --> 00:07:24,250
+[OXFORD]
+Henry! Will you do me one thing more? Deliver a gift for me? A rather... elaborate gift?
+ແຮນຣີ! ເຈົ້າຈະເຮັດສິ່ງ ຫນຶ່ງ ອີກບໍ?
+ສົ່ງຂອງຂວັນໃຫ້ຂ້ອຍບໍ? ຂອງຂວັນທີ່ລະອຽດອ່ອນຫຼາຍບໍ?
+
+99
+00:07:24,750 --> 00:07:26,750
+[SOUTHAMPTON]
+Sir Robert.
+ທ່ານ ໂຣເບີດ.
+
+100
+00:07:27,250 --> 00:07:30,050
+[ROBERT CECIL]
+My lord of Southampton.  Have you seen Essex?
+ເຈົ້າຂອງຂ້ອຍຂອງ Southampton. ເຈົ້າເຫັນ Essex ບໍ?
+
+101
+00:07:30,550 --> 00:07:34,750
+[SOUTHAMPTON]
+I believe he is still in the viewing chamber with her majesty...
+ຂ້ອຍເຊື່ອວ່າລາວຍັງຢູ່ໃນຫ້ອງເບິ່ງກັບເຈົ້າຂອງນາງ...
+
+102
+00:07:35,250 --> 00:07:37,250
+[ROBERT CECIL]
+Alone?
+ຢູ່ຄົນດຽວບໍ?
+
+103
+00:07:37,750 --> 00:07:43,750
+[SOUTHAMPTON]
+With your father in London dealing with all the troubles in Ireland, who else should the Queen turn to but Essex?
+ດ້ວຍພໍ່ຂອງທ່ານໃນລອນດອນ ກໍາ ລັງຮັບມືກັບຄວາມຫຍຸ້ງຍາກທັງ
+ຫມົດ ໃນໄອແລນ, ລາຊິນີຄວນຫັນໄປຫາໃຜອີກແຕ່ເອສເຊສ?
+
+104
+00:07:44,250 --> 00:07:49,150
+[FOOTMAN]
+By the grace of god, her majesty, Elizabeth, Queen of England, Wales and Ireland!
+ດ້ວຍຄວາມເມດຕາຂອງພຣະເຈົ້າ, ພຣະເຈົ້າຂອງນາງ,
+ເອລີຊາເບັດ, ລາຊິນີຂອງອັງກິດ, ເວລສ໌ແລະໄອແລນ!
+
+105
+00:07:49,650 --> 00:07:54,550
+[ESSEX]
+Ah-- Majesty, I've been told my lord of Southampton has a gift for you.
+ອາ - ເຈົ້າ, ຂ້ອຍໄດ້ຖືກບອກວ່າເຈົ້າຂອງຂ້ອຍຂອງ
+Southampton ມີຂອງຂວັນ ສໍາ ລັບເຈົ້າ.
+
+106
+00:07:55,050 --> 00:07:57,050
+[ELIZABETH]
+A gift?
+ຂອງຂວັນບໍ?
+
+107
+00:07:57,550 --> 00:08:00,000
+[SOUTHAMPTON]
+Yes, your grace, though not from me.
+ແມ່ນແລ້ວ, ພຣະເຈົ້າ, ເຖິງແມ່ນວ່າບໍ່ແມ່ນຈາກຂ້ອຍ.
+
+108
+00:08:00,500 --> 00:08:03,300
+[ELIZABETH]
+Are you this gift, my precious little man?
+ເຈົ້າເປັນຂອງຂວັນນີ້ບໍ, ຜູ້ຊາຍນ້ອຍທີ່ຮັກແພງຂອງຂ້ອຍ?
+
+109
+00:08:03,800 --> 00:08:09,750
+[DWARF]
+No, no, my most majestic majesty. I am a free man. My gift is a play, majesty.
+ບໍ່, ບໍ່, ພຣະເຈົ້າທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດຂອງຂ້ອຍ. ຂ້ອຍເປັນຜູ້ຊາຍເສລີ
+. ຂອງຂວັນຂອງຂ້ອຍແມ່ນການສະແດງ, ພຣະຜູ້ເປັນເຈົ້າ.
+
+110
+00:08:10,250 --> 00:08:12,250
+[ELIZABETH]
+A play?
+ການສະແດງບໍ?
+
+111
+00:08:12,750 --> 00:08:18,750
+[ROBERT CECIL]
+Plays are the work of the devil, born from a cesspool of plague, whoredom, thievery, fornication, and heresy. You may tell your master that her majesty--
+ການສະແດງແມ່ນວຽກງານຂອງຊາຕານ, ເກີດຈາກຮ່ອງຮອຍຂອງພະຍາດລະບາດ, ຢອກຊື່ໆ ແຊກໂຊກ, ການລັກລອບ
+, ການກະທໍາຮ້າຍ, ແລະຄວາມກະທໍາຜິດ. ເຈົ້າອາດຈະບອກເຈົ້າຂອງເຈົ້າວ່າຄວາມສູງສຸດຂອງນາງ -
+
+112
+00:08:19,250 --> 00:08:21,250
+[ESSEX]
+--Will gladly accept your gift.
+- ຈະຍອມຮັບຂອງຂວັນຂອງທ່ານດ້ວຍຄວາມຍິນດີ.
+
+113
+00:08:21,750 --> 00:08:27,750
+[ESSEX]
+Of course that is if you so desire, majesty.  The choice is her majesty's to make, not yours. Is that not so Sir Robert?
+ແນ່ນອນວ່າມັນແມ່ນຖ້າເຈົ້າຕ້ອງການຫຼາຍ, ເຈົ້າພາບ. ການເລືອກແມ່ນຂອງເຈົ້າພາບຂອງນາງທີ່ຈະເຮັດ
+, ບໍ່ແມ່ນຂອງເຈົ້າ. ນັ້ນບໍ່ແມ່ນດັ່ງນັ້ນບໍເດີ ໂຣເບີດ?
+
+114
+00:08:28,250 --> 00:08:30,250
+[ELIZABETH]
+Comedy? Or tragedy?
+ຄອມເມດີ້ບໍ? ຫຼືໂຊກຮ້າຍບໍ?
+
+115
+00:08:30,750 --> 00:08:32,750
+[DWARF]
+Comedy, majesty.
+ຄອມເມີດີ, ພຣະເຈົ້າ.
+
+116
+00:08:33,250 --> 00:08:35,250
+[ELIZABETH]
+A comedy! 23 pg. 24
+ເປັນຄອມເມີດີ! 23 ຫນ້າ. 24
+
+117
+00:08:35,750 --> 00:08:37,750
+[ELIZABETH]
+By whom?
+ໂດຍໃຜ?
+
+118
+00:08:38,250 --> 00:08:40,250
+[DWARF]
+By... Anonymous, your majesty...
+ໂດຍ... ຜູ້ບໍ່ຮູ້ຕົວ, ເຈົ້າສູງສຸດ...
+
+119
+00:08:40,750 --> 00:08:43,900
+[ELIZABETH]
+Anonymous...?  Oh, but I do so admire his verse...
+ຜູ້ບໍ່ຮູ້ຕົວ...? ໂອ້, ແຕ່ຂ້ອຍຍ້ອງຍໍຂໍ້ຄວາມຂອງລາວຫຼາຍ...
+
+120
+00:08:44,400 --> 00:08:46,400
+[ELIZABETH]
+Lead us to this gift.
+ນໍາພວກເຮົາໄປຫາຂອງຂວັນນີ້.
+
+121
+00:08:46,900 --> 00:08:49,700
+["QUINCE"]
+Bless thee, Bottom! Bless thee!      Thou art translated!
+ໂຊກດີເຈົ້າ, ບອດມ໌! ໂຊຄດີເຈົ້າ! ເຈົ້າຖືກແປພາສາແລ້ວ!
+
+122
+00:08:50,200 --> 00:08:56,200
+["BOTTOM"]
+I see their knavery: this is to make an ass of me; to fright me, if they could. But I will not stir from this place, do what they can.
+ຂ້ອຍເຫັນຄວາມກະຕຸ້ນຂອງພວກເຂົາ: ນີ້ແມ່ນເພື່ອເຮັດໃຫ້ຂ້ອຍເປັນບ້າ; ເພື່ອຢ້ານກົວຂ້ອຍ,
+ຖ້າພວກເຂົາສາມາດ. ແຕ່ຂ້ອຍຈະບໍ່ເຄື່ອນຍ້າຍຈາກບ່ອນນີ້, ເຮັດສິ່ງທີ່ພວກເຂົາສາມາດເຮັດໄດ້.
+
+123
+00:08:56,700 --> 00:09:02,700
+["BOTTOM"]
+I will walk up and down here, and I will sing, that they shall hear I am not afraid.
+ຂ້ອຍຈະຍ່າງຂຶ້ນແລະລົງມາບ່ອນນີ້, ແລະຂ້ອຍຈະຮ້ອງເພງ
+, ເພື່ອໃຫ້ພວກເຂົາໄດ້ຍິນວ່າຂ້ອຍບໍ່ຢ້ານກົວ.
+
+124
+00:09:03,200 --> 00:09:09,200
+["BOTTOM"]
+The ousel cock so black of hue, With orange-tawny bill, The throstle with his note so true, The wren with little quill--
+ໄກ່ອູເຊວສີ ດໍາ ຫຼາຍ, ດ້ວຍໃບເກັບເງິນສີສີດໍາ-tawny,
+ການຂັບເຄື່ອນດ້ວຍຂໍ້ສັງເກດຂອງລາວທີ່ແທ້ຈິງຫຼາຍ, ການ wren ກັບ quill ນ້ອຍໆ -
+
+125
+00:09:09,700 --> 00:09:12,500
+["TITANIA"]
+What angel wakes me from my flow'ry bed?
+ເທວະດາໃດທີ່ຕື່ນຂ້ອຍຈາກຕຽງທີ່ໄຫຼຂອງຂ້ອຍ?
+
+126
+00:09:13,000 --> 00:09:19,000
+["OBERON"]
+...and the owner of it blest ever shall in safety rest. Trip away; make no stay; meet me all by break of day.
+... ແລະເຈົ້າຂອງມັນໄດ້ຮັບພອນຈະພັກຜ່ອນຢ່າງປອດໄພຕະຫຼອດໄປ
+. ເດີນທາງໄປ; ຢ່າຢູ່; ພົບຂ້ອຍທັງ ຫມົດ ໃນຕອນເຊົ້າ.
+
+127
+00:09:19,500 --> 00:09:25,500
+["PUCK"]
+If we shadows have offended, think but this, and all is mended, that you have but slumber'd here while these visions did appear...
+ຖ້າພວກເຮົາເງົາໄດ້ໂຊກຮ້າຍ, ຄິດແຕ່ສິ່ງນີ້, ແລະທຸກຢ່າງຖືກແກ້ໄຂ,
+ວ່າເຈົ້າພຽງແຕ່ນອນຢູ່ບ່ອນນີ້ໃນຂະນະທີ່ວິໄສທັດເຫຼົ່ານີ້ປາກົດຕົວ...
+
+128
+00:09:26,000 --> 00:09:32,000
+["PUCK"]
+...And this weak and idle theme, No more yielding but a dream, gentles, do not reprehend; if you pardon, we will mend.
+ແລະຫົວຂໍ້ທີ່ອ່ອນແອແລະບໍ່ເຮັດວຽກນີ້, ບໍ່ຍອມຮັບອີກຕໍ່ໄປແຕ່ຄວາມຝັນ
+, ຄົນອ່ອນໆ, ຢ່າກ່າວໂທດ; ຖ້າເຈົ້າຂໍໂທດ, ພວກເຮົາຈະແກ້ໄຂ.
+
+129
+00:09:32,500 --> 00:09:38,500
+["PUCK"]
+So, good night unto you all. Give me your hands, if we be friends, and Robin shall restore amends.
+ສະນັ້ນ, ສະບາຍດີທຸກຄົນ. ໃຫ້ຂ້ອຍມືຂອງທ່ານ,
+ຖ້າພວກເຮົາເປັນເພື່ອນມິດ, ແລະໂຣບິນຈະຟື້ນຟູການປັບປຸງ.
+
+130
+00:09:39,000 --> 00:09:41,000
+[YOUNG ELIZABETH]
+Lovely.    Lovely!
+ງາມ. ງາມ!
+
+131
+00:09:41,500 --> 00:09:43,500
+[YOUNG ELIZABETH]
+Ah!    There he is.
+ອາ! ລາວຢູ່ບ່ອນນັ້ນ.
+
+132
+00:09:44,000 --> 00:09:47,500
+[YOUNG ELIZABETH]
+Your father tells me you wrote this evening's play yourself.
+ພໍ່ເຈົ້າບອກຂ້ອຍວ່າເຈົ້າຂຽນບົດສະແດງໃນຕອນແລງນີ້ເອງ.
+
+133
+00:09:48,000 --> 00:09:50,000
+[BOY OXFORD]
+I did indeed, your majesty.
+ຂ້ອຍເຮັດແທ້ໆ, ເຈົ້າສູງສຸດ.
+
+134
+00:09:50,500 --> 00:09:52,600
+[YOUNG ELIZABETH]
+You sport with me.  Compose something.
+ເຈົ້າຫຼິ້ນກັບຂ້ອຍ. ຂຽນບາງສິ່ງບາງຢ່າງ.
+
+135
+00:09:53,100 --> 00:09:55,100
+[BOY OXFORD]
+Now?
+ດຽວນີ້ບໍ?
+
+136
+00:09:55,600 --> 00:09:57,600
+[YOUNG ELIZABETH]
+Yes.   Now.
+ແມ່ນແລ້ວ. ດຽວນີ້.
+
+137
+00:09:58,100 --> 00:10:00,100
+[BOY OXFORD]
+On what subject, your grace?
+ກ່ຽວກັບຫົວຂໍ້ໃດ, ພຣະເຈົ້າ?
+
+138
+00:10:00,600 --> 00:10:02,600
+[YOUNG ELIZABETH]
+Truth...
+ຄວາມຈິງ...
+
+139
+00:10:03,100 --> 00:10:09,100
+[BOY OXFORD]
+For... Truth... is Truth... Though... never so old... and time cannot make that false, which once was true.
+ເພາະ... ຄວາມຈິງ... ແມ່ນຄວາມຈິງ... ເຖິງແມ່ນວ່າ... ບໍ່ເຄີຍເກົ່າຫຼາຍ
+... ແລະເວລາບໍ່ສາມາດເຮັດໃຫ້ມັນເປັນຄວາມຜິດ, ເຊິ່ງເຄີຍເປັນຄວາມຈິງ.
+
+140
+00:10:09,600 --> 00:10:15,600
+[YOUNG ELIZABETH]
+My lord of Oxford. It seems you have added a poet to your family's long line of warriors.
+ເຈົ້າຂອງຂ້ອຍຈາກໂອກສຟອດ.
+ເບິ່ງຄືວ່າເຈົ້າໄດ້ເພີ່ມນັກກະວີເຂົ້າໃນສາຍນັກຮົບຍາວຂອງຄອບຄົວຂອງທ່ານ.
+
+141
+00:10:16,100 --> 00:10:21,700
+[BOY OXFORD]
+Madam, I am as accomplished with the sword and the musket as I am with verse.
+ແມ່, ຂ້ອຍມີຄວາມສໍາເລັດກັບກະທູ້ແລະປືນປືນເທົ່າກັບຂ້ອຍກັບຂໍ້ຄວາມ.
+
+142
+00:10:22,200 --> 00:10:24,200
+[YOUNG ELIZABETH]
+Are you indeed?
+ເຈົ້າເປັນແທ້ບໍ?
+
+143
+00:10:24,700 --> 00:10:30,700
+[BOY OXFORD]
+It is my only desire to one day be your majesty's most trusted servant in matters both of war and state, if you will but have me.
+ມັນເປັນຄວາມປາຖະຫນາຂອງຂ້ອຍດຽວທີ່ຈະເປັນຄົນຮັບໃຊ້ທີ່ເຊື່ອຖືທີ່ສຸດຂອງເຈົ້າໃນເລື່ອງທັງສົງຄາມແລະລັດ
+, ຖ້າເຈົ້າພຽງແຕ່ມີຂ້ອຍ.
+
+144
+00:10:31,200 --> 00:10:35,750
+[YOUNG ELIZABETH]
+Why, Lord Cecil, it seems we may very well have found your replacement.
+ເປັນຫຍັງ, ພຣະຜູ້ເປັນເຈົ້າເຊຊີລ,
+ມັນເບິ່ງຄືວ່າພວກເຮົາອາດຈະໄດ້ພົບຜູ້ແທນຂອງທ່ານດີຫຼາຍ.
+
+145
+00:10:36,250 --> 00:10:40,100
+[WILLIAM CECIL]
+We hope not too soon, majesty, we hope not too soon.
+ພວກເຮົາຫວັງວ່າບໍ່ໄວເກີນໄປ, ເຈົ້າສູງສຸດ, ພວກເຮົາຫວັງບໍ່ຊ້າເກີນໄປ.
+
+146
+00:10:40,600 --> 00:10:43,750
+[YOUNG ELIZABETH]
+And how liked you our young lord's play, William?
+ແລະເຈົ້າມັກການສະແດງຂອງເຈົ້າຫນຸ່ມຂອງພວກເຮົາແນວໃດ, ວິລຍາມ?
+
+147
+00:10:44,250 --> 00:10:50,250
+[YOUNG ELIZABETH]
+Our Lord Cecil is our most religious of subjects, and no doubt thinks your little masque will deliver your soul straight into the arms of Lucifer himself. Don't you, William?
+ພຣະຜູ້ເປັນເຈົ້າຂອງພວກເຮົາເຊຊີລແມ່ນຫົວຂໍ້ທີ່ສາສະຫນາທີ່ສຸດຂອງພວກເຮົາ, ແລະບໍ່ມີຂໍ້ສົງໄສວ່າ
+ຫນ້າ ກາກນ້ອຍຂອງທ່ານຈະສົ່ງຈິດວິນຍານຂອງທ່ານໂດຍກົງເຂົ້າໄປໃນແຂນຂອງລູຊີເຟີເອງ. ເຈົ້າບໍ່, ວິລຍາມ?
+
+148
+00:10:50,750 --> 00:10:53,550
+[WILLIAM CECIL]
+That is God's decision, your majesty. Not mine.
+ນັ້ນແມ່ນການຕັດສິນໃຈຂອງພຣະເຈົ້າ, ເຈົ້າສູງສຸດ. ບໍ່ແມ່ນຂອງຂ້ອຍ.
+
+149
+00:10:54,050 --> 00:11:00,050
+[YOUNG ELIZABETH]
+Well, if plays are indeed such a sin, I pray I do not find my salvation until very late in life.
+ດີ, ຖ້າການສະແດງແມ່ນຄວາມບາບດັ່ງກ່າວແທ້ໆ,
+ຂ້ອຍອະທິຖານວ່າຂ້ອຍຈະບໍ່ພົບຄວາມຊ່ວຍເຫຼືອຂອງຂ້ອຍຈົນກວ່າຈະຊ້າທີ່ສຸດໃນຊີວິດ.
+
+150
+00:11:00,550 --> 00:11:02,550
+[GUARD]
+Jonson!    Ben Jonson!
+ໂຈນສັນ! ແບນ ຈອນສັນ!
+
+151
+00:11:03,050 --> 00:11:05,050
+[GUARD]
+You've been released.
+ເຈົ້າຖືກປ່ອຍຕົວແລ້ວ.
+
+152
+00:11:05,550 --> 00:11:07,650
+[GUARD]
+Got powerful friends, now, don't you?
+ເຈົ້າມີເພື່ອນທີ່ເຂັ້ມແຂງ, ດຽວນີ້, ແມ່ນບໍ?
+
+153
+00:11:08,150 --> 00:11:10,150
+[JONSON]
+And who are you?
+ແລະເຈົ້າເປັນໃຜ?
+
+154
+00:11:10,650 --> 00:11:12,650
+[JONSON]
+And where are we going?
+ແລະພວກເຮົາຈະໄປໃສ?
+
+155
+00:11:13,150 --> 00:11:15,150
+[JONSON]
+My lord...
+ເຈົ້າຂອງຂ້ອຍ...
+
+156
+00:11:15,650 --> 00:11:19,500
+[OXFORD]
+The Tudor rose. The most beautiful of flowers, don't you think?
+ດອກໄມ້ດູໂດຣ. ເປັນດອກໄມ້ທີ່ສວຍງາມທີ່ສຸດ, ເຈົ້າບໍ່ຄິດບໍ?
+
+157
+00:11:20,000 --> 00:11:24,550
+[JONSON]
+It looks to me to have quite a number of thorns, my lord.
+ມັນເບິ່ງຄືວ່າຂ້ອຍມີຫຍ້າຫຼາຍຢ່າງ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ.
+
+158
+00:11:25,050 --> 00:11:27,150
+[OXFORD]
+So it does.   So it does.
+ສະນັ້ນມັນເຮັດ. ສະນັ້ນວ່າມັນເຮັດ.
+
+159
+00:11:27,650 --> 00:11:31,850
+[JONSON]
+I am told, my lord, that I owe my freedom to you.
+ຂ້ອຍຖືກບອກວ່າ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ,
+ວ່າຂ້ອຍຫນີ້ຄວາມເສລີພາບຂອງຂ້ອຍໃຫ້ເຈົ້າ.
+
+160
+00:11:32,350 --> 00:11:38,350
+[OXFORD]
+That is true. And it was quite hard to come by. One does not cross my father-in-law lightly.
+ນັ້ນແມ່ນຄວາມຈິງ. ແລະມັນຍາກຫຼາຍທີ່ຈະມາ.
+ຄົນ ຫນຶ່ງ ບໍ່ຂ້າມພໍ່ຕູ້ຂອງຂ້ອຍຢ່າງເບົາບາງ.
+
+161
+00:11:38,850 --> 00:11:44,100
+[OXFORD]
+Lord William Cecil. I have the questionable distinction of being married to his only daughter.
+ເຈົ້າວິກິລາມ ເຊຊີລ.
+ຂ້ອຍມີຄວາມແຕກຕ່າງທີ່ສົງໄສໃນການແຕ່ງງານກັບລູກສາວຄົນດຽວຂອງລາວ.
+
+162
+00:11:44,600 --> 00:11:50,600
+[OXFORD]
+It did, however, serve as helpful when I wrote to your jailers to release you in my father-in-law's name.
+ເຖິງຢ່າງໃດກໍ່ຕາມ,
+ມັນໄດ້ໃຊ້ເປັນປະໂຫຍດເມື່ອຂ້ອຍຂຽນໄປຫາເຈົ້າຫນ້າທີ່ຄຸກຂອງທ່ານເພື່ອປ່ອຍທ່ານໃນນາມພໍ່ຕູ້ຂອງຂ້ອຍ.
+
+163
+00:11:51,100 --> 00:11:55,650
+[JONSON]
+My lord-- I'm sorry, does that mean my release is not officially sanctioned?
+ເຈົ້າຂອງຂ້ອຍ - ຂ້ອຍຂໍໂທດ,
+ນັ້ນຫມາຍຄວາມວ່າການປ່ອຍຕົວຂອງຂ້ອຍບໍ່ໄດ້ຖືກອະນຸມັດຢ່າງເປັນທາງການບໍ?
+
+164
+00:11:56,150 --> 00:12:01,750
+[OXFORD]
+Don't be an idiot Jonson, of course it wasn't.  But you are free, are you not?
+ຢ່າເປັນຄົນໂງ່ຈອນສັນ, ແນ່ນອນວ່າມັນບໍ່ແມ່ນ
+. ແຕ່ເຈົ້າເປັນອິດສະຫຼະ, ແມ່ນບໍ?
+
+165
+00:12:02,250 --> 00:12:06,800
+[OXFORD]
+I enjoyed your little comedy last week, Jonson. You have potential, great potential.
+ຂ້ອຍໄດ້ເພີດເພີນກັບຄອມເມີດີນ້ອຍຂອງທ່ານໃນອາທິດທີ່ຜ່ານມາ
+, ຈອນສັນ. ເຈົ້າມີທ່າແຮງ, ທ່າແຮງທີ່ຍິ່ງໃຫຍ່.
+
+166
+00:12:07,300 --> 00:12:09,300
+[JONSON]
+Thank you, my lord.
+ຂອບໃຈເດີ ພຣະຜູ້ເປັນເຈົ້າ.
+
+167
+00:12:09,800 --> 00:12:15,800
+[OXFORD]
+But it's politics did seem to have quite an effect on the Tower. My father-in-law's men felt it quite seditious.
+ແຕ່ມັນເປັນການເມືອງທີ່ເບິ່ງຄືວ່າມີຜົນກະທົບຫຼາຍຕໍ່ຫໍ.
+ຜູ້ຊາຍຂອງພໍ່ຕູ້ຂອງຂ້ອຍຮູ້ສຶກວ່າມັນເປັນການກະບົດຫຼາຍ.
+
+168
+00:12:16,300 --> 00:12:21,550
+[JONSON]
+Politics? My play had nothing to do with politics! It was just a simple comedy--
+ການເມືອງ? ບົດສະແດງຂອງຂ້ອຍບໍ່ມີຫຍັງກ່ຽວຂ້ອງກັບການເມືອງ
+! ມັນແມ່ນພຽງແຕ່ໂມດີທີ່ງ່າຍດາຍ -
+
+169
+00:12:22,050 --> 00:12:28,050
+[OXFORD]
+That showed your betters as fools who go through life barely managing to get food from plate to mouth, were it not for the cleverness of their servants.  All art is political, Jonson. Otherwise it would just be decoration. And all artists have something to say, otherwise... they'd make shoes. And you're not a cobbler, are you, Jonson?
+ນັ້ນສະແດງໃຫ້ເຫັນວ່າຄົນດີກວ່າເຈົ້າເປັນຄົນໂງ່ທີ່ຜ່ານຊີວິດເກືອບບໍ່ສາມາດເອົາອາຫານຈາກກະຕ່າຫາປາກໄດ້, ຖ້າມັນບໍ່ແມ່ນຄວາມສະຫຼາດຂອງຄົນຮັບໃຊ້ຂອງພວກເຂົາ. ສິລະປະທັງ ຫມົດ ແມ່ນການເມືອງ,
+ຈອນສັນ. ຖ້າບໍ່ດັ່ງນັ້ນມັນຈະເປັນພຽງແຕ່ການຕົກແຕ່ງ. ແລະນັກສິລະປິນທັງ ຫມົດ ມີບາງສິ່ງບາງຢ່າງທີ່ຈະເວົ້າ, ຖ້າບໍ່ມີ... ພວກເຂົາຈະເຮັດເກີບ. ແລະເຈົ້າບໍ່ແມ່ນນັກຕັດເກີບ, ແມ່ນບໍ, ຈົງສັນ?
+
+170
+00:12:28,550 --> 00:12:30,550
+[OXFORD]
+Francesco.
+ແຟຣນເຊສໂກ.
+
+171
+00:12:31,050 --> 00:12:33,050
+[JONSON]
+A play, my lord?
+ການສະແດງ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍບໍ?
+
+172
+00:12:33,550 --> 00:12:35,550
+[OXFORD]
+One you shall stage Bankside.
+ຫນຶ່ງ ທີ່ເຈົ້າຈະຈັດການຢູ່ແບນສ໌ໄດ.
+
+173
+00:12:36,050 --> 00:12:38,050
+[JONSON]
+Stage?
+ເວທີບໍ?
+
+174
+00:12:38,550 --> 00:12:40,550
+[OXFORD]
+Under your name.
+ພາຍໃຕ້ຊື່ຂອງທ່ານ.
+
+175
+00:12:41,050 --> 00:12:43,050
+[JONSON]
+My name, my lord?
+ຊື່ຂອງຂ້ອຍບໍ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ?
+
+176
+00:12:43,550 --> 00:12:49,550
+[OXFORD]
+I can't very well use my name, can I? I'm the seventeenth Earl of Oxford. The Lord Great Chamberlain of England, Viscount Bolebec, Lord Escales, Sandford and Badlesmere, etc, etc. No. I have a... reputation to protect. In my world, one does not write plays, Jonson. People like you do.
+ຂ້ອຍບໍ່ສາມາດໃຊ້ຊື່ຂອງຂ້ອຍໄດ້ດີຫຼາຍ, ຂ້ອຍສາມາດເຮັດໄດ້ບໍ? ຂ້ອຍເປັນ Earl ທີສິບເຈັດຂອງໂອກສຟອດ. ເຈົ້າໃຫຍ່ Chamberlain ຂອງອັງກິດ, Viscount Bolebec, ເຈົ້າ
+Escales, Sandford ແລະ Badlesmere, ແລະອື່ນໆ, ແລະອື່ນໆ. ບໍ່. ຂ້ອຍມີ... ຊື່ສຽງທີ່ຈະປົກປ້ອງ. ໃນໂລກຂອງຂ້ອຍ, ຄົນບໍ່ໄດ້ຂຽນບົດສະແດງ, ຈອນສັນ. ຄົນຄືກັບເຈົ້າເຮັດ.
+
+177
+00:12:50,050 --> 00:12:54,950
+[JONSON]
+Yes. My lord. You wrote an entire play, my lord. I know how difficult--
+ແມ່ນແລ້ວ. ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ. ເຈົ້າໄດ້ຂຽນບົດສະແດງທັງ
+ຫມົດ, ເຈົ້າຂອງຂ້ອຍ. ຂ້ອຍຮູ້ວ່າຍາກຫຼາຍປານໃດ -
+
+178
+00:12:55,450 --> 00:13:01,450
+[OXFORD]
+Not a play, Jonson, I've written many. No doubt, many more than you yourself. A good number performed at Court years ago, others never seen by a living soul.
+ບໍ່ແມ່ນບົດສະແດງ, ຈອນສັນ, ຂ້ອຍໄດ້ຂຽນຫຼາຍຢ່າງ. ບໍ່ຕ້ອງສົງໄສ, ຫຼາຍກວ່າເຈົ້າເອງ.
+ຈໍານວນທີ່ດີທີ່ສະແດງຢູ່ສານຫຼາຍປີກ່ອນ, ຄົນອື່ນບໍ່ເຄີຍເຫັນໂດຍຈິດວິນຍານທີ່ມີຊີວິດຢູ່.
+
+179
+00:13:01,950 --> 00:13:05,800
+[JONSON]
+And you want... me to apply my name to this play?
+ແລະເຈົ້າຢາກ... ຂ້ອຍຈະໃຊ້ຊື່ຂອງຂ້ອຍໃນບົດສະແດງນີ້ບໍ?
+
+180
+00:13:06,300 --> 00:13:10,500
+[OXFORD]
+No. I mean you to put your name to all of them.
+ບໍ່. ຂ້ອຍຫມາຍຄວາມວ່າເຈົ້າຕ້ອງໃສ່ຊື່ຂອງທ່ານໃສ່ພວກມັນທັງ ຫມົດ.
+
+181
+00:13:11,000 --> 00:13:13,000
+[JONSON]
+All of them?
+ພວກເຂົາທັງ ຫມົດ ບໍ?
+
+182
+00:13:13,500 --> 00:13:19,500
+[OXFORD]
+Well don't look like I just gutted your pet dog, Jonson. I mean to make you the most popular-- and therefore the most monetarily successful-- playwright in all of London.
+ດີຢ່າເບິ່ງຄືວ່າຂ້ອຍຫາກໍ່ເອົາຫມາສັດລ້ຽງຂອງທ່ານ, ຈອນສັນ. ຂ້ອຍ ຫມາຍ ຄວາມວ່າຈະເຮັດໃຫ້ເຈົ້າເປັນຄົນນິຍົມທີ່ສຸດ
+- ແລະດັ່ງນັ້ນຜູ້ປະສົບຜົນ ສໍາ ເລັດທາງດ້ານການເງິນທີ່ສຸດ - ນັກຂຽນລະຄອນໃນລອນດອນທັງ ຫມົດ.
+
+183
+00:13:20,000 --> 00:13:22,800
+[OXFORD]
+I wish you god speed and good morrow.
+ຂ້ອຍຂໍອວຍພອນເຈົ້າໃຫ້ມີຄວາມໄວແລະຕອນເຊົ້າທີ່ດີ.
+
+184
+00:13:23,300 --> 00:13:25,300
+[JONSON]
+My lord-- I really--
+ເຈົ້າຂອງຂ້ອຍ - ຂ້ອຍແທ້ໆ...
+
+185
+00:13:25,800 --> 00:13:27,800
+[JONSON]
+My lord?
+ເຈົ້າຂອງຂ້ອຍບໍ?
+
+186
+00:13:28,300 --> 00:13:34,300
+[FRANCESCO]
+That is for your trouble, Signor Jonson. And your silence. If I hear you break that silence, then... not so good for Signor Jonson.
+ນັ້ນແມ່ນ ສໍາ ລັບຄວາມຫຍຸ້ງຍາກຂອງທ່ານ, ທ້າວຈອນສັນ. ແລະຄວາມງຽບສະຫງົບຂອງທ່ານ.
+ຖ້າຂ້ອຍໄດ້ຍິນທ່ານ ທໍາ ລາຍຄວາມງງຽບສະງົບນັ້ນ, ຫຼັງຈາກນັ້ນ... ບໍ່ດີຫຼາຍ ສໍາ ລັບທ້າວຈົງສັນ.
+
+187
+00:13:34,800 --> 00:13:36,800
+[JONSON]
+Hello?   My lord?! I--
+ສະບາຍດີ? ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍບໍ?! ຂ້ອຍ -
+
+188
+00:13:37,300 --> 00:13:43,300
+[WILLIAM CECIL]
+So! I am gone for three days, and you somehow manage to let her spend all of them solely in the company of the Earl of Essex...
+ສະນັ້ນ! ຂ້ອຍໄປເປັນເວລາສາມມື້, ແລະເຈົ້າສາມາດປ່ອຍໃຫ້ນາງໃຊ້ເວລາທັງ
+ຫມົດ ນັ້ນພຽງແຕ່ໃນບໍລິສັດຂອງ Earl ຂອງ Essex...
+
+189
+00:13:43,800 --> 00:13:49,800
+[WILLIAM CECIL]
+Don't think because I was in London, I didn't know exactly what went on here in my absence.
+ຢ່າຄິດວ່າເພາະວ່າຂ້ອຍຢູ່ລອນດອນ,
+ຂ້ອຍບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນຢູ່ນີ້ໃນເວລາບໍ່ມີຂ້ອຍ.
+
+190
+00:13:50,300 --> 00:13:53,450
+[ROBERT CECIL]
+He is an Earl, father. I cannot deny him--
+ລາວເປັນ Earl, ພໍ່. ຂ້ອຍບໍ່ສາມາດປະຕິເສດລາວໄດ້ -
+
+191
+00:13:53,950 --> 00:13:59,950
+[WILLIAM CECIL]
+Of course not! You don't deny him anything. You find excuses. She is unwell, she is reading, she is seeing the Ambassador from Russia. For God's sake, use your imagination, Robert. Whatever will you do when I am gone?  We will have to deal with Essex soon. His ambitions are becoming a nuisance.
+ແນ່ນອນວ່າບໍ່ແມ່ນ! ເຈົ້າບໍ່ປະຕິເສດລາວຫຍັງເລີຍ. ເຈົ້າຊອກຫາເຫດຜົນ. ນາງບໍ່ສະບາຍດີ, ນາງ ກໍາ ລັງອ່ານ, ລາວ ກໍາ ລັງເຫັນເອກອັກຄະລັດຖະທູດຈາກຣັດເຊຍ. ເພື່ອຄວາມຮັກຂອງພຣະເຈົ້າ
+, ໃຊ້ຈິນຕະນາການຂອງທ່ານ, ໂຣເບີດ. ເຈົ້າຈະເຮັດຫຍັງເມື່ອຂ້ອຍໄປ? ພວກເຮົາຈະຕ້ອງຮັບມືກັບເອສເຊສໃນໄວໆນີ້. ຄວາມຕັ້ງໃຈຂອງລາວ ກໍາ ລັງກາຍເປັນຄວາມຫຍຸ້ງຍາກ.
+
+192
+00:14:00,450 --> 00:14:02,550
+[WILLIAM CECIL]
+Now tell me about the play.
+ດຽວນີ້ບອກຂ້ອຍກ່ຽວກັບບົດສະແດງ.
+
+193
+00:14:03,050 --> 00:14:09,050
+[ROBERT CECIL]
+It-- it was an anonymous gift. Essex insisted it be performed, just to spite me in front of Court...
+ມັນ - ມັນແມ່ນຂອງຂວັນທີ່ບໍ່ຮູ້ຕົວ. ເອສເຊສສ໌ຢືນຢັນວ່າມັນຈະຖືກປະຕິບັດ
+, ພຽງແຕ່ເພື່ອໂຊກຮ້າຍຂ້ອຍຕໍ່ຫນ້າສານ...
+
+194
+00:14:09,550 --> 00:14:12,700
+[WILLIAM CECIL]
+Of course he did.  But what was it about?
+ແນ່ນອນວ່າລາວເຮັດ. ແຕ່ມັນກ່ຽວກັບຫຍັງ?
+
+195
+00:14:13,200 --> 00:14:15,650
+[ROBERT CECIL]
+About? Some nonsense about fairies and cherubs.
+ກ່ຽວກັບ? ບາງຄວາມໂງ່ກ່ຽວກັບແມວແລະເຄຣູບ.
+
+196
+00:14:16,150 --> 00:14:18,150
+[WILLIAM CECIL]
+...And dancing asses?
+ແລະບາກເຕັ້ນບໍ?
+
+197
+00:14:18,650 --> 00:14:22,850
+[WILLIAM CECIL]
+Edward...  Have you any idea what you have-- No, how could you...
+ເອດວາດ... ເຈົ້າຮູ້ບໍ່ວ່າເຈົ້າມີຫຍັງ - ບໍ່, ເຈົ້າສາມາດ...
+
+198
+00:14:23,350 --> 00:14:25,450
+[ROBERT CECIL]
+Father...    It was just a play...
+ພໍ່... ມັນເປັນພຽງແຕ່ການສະແດງ...
+
+199
+00:14:25,950 --> 00:14:31,950
+[WILLIAM CECIL]
+And do you know how long it took me to banish them from her presence? She adores them! Adores them! And Edward knows it.  Mark my words, Robert, he has done this for a purpose.
+ແລະເຈົ້າຮູ້ບໍວ່າມັນໃຊ້ເວລາຫຼາຍປານໃດທີ່ຂ້ອຍຕ້ອງໄລ່ພວກມັນອອກຈາກການມີຢູ່ຂອງນາງ? ນາງຮັກພວກມັນ!
+ຮັກພວກເຂົາ! ແລະເອດວາດຮູ້ມັນ. ຫມາຍ ຄໍາ ເວົ້າຂອງຂ້ອຍ, ໂຣເບີດ, ລາວໄດ້ເຮັດສິ່ງນີ້ດ້ວຍຈຸດປະສົງ.
+
+200
+00:14:32,450 --> 00:14:34,450
+[ROBERT CECIL]
+Purpose?    What purpose?
+ຈຸດປະສົງໃດ? ຈຸດຫມາຍໃດ?
+
+201
+00:14:34,950 --> 00:14:40,950
+[WILLIAM CECIL]
+What purpose indeed?  But through your carelessness I must now deal not only with Essex, but Edward as well. For whether in shadow or in person, Edward has returned to Court!
+ຈຸດປະສົງໃດແທ້ໆ? ແຕ່ໂດຍການບໍ່ລະມັດລະວັງຂອງທ່ານຂ້ອຍຕ້ອງປະເຊີນກັບດຽວນີ້ບໍ່ພຽງແຕ່ກັບເອສເຊສ໌ເທົ່ານັ້ນ
+, ແຕ່ເອດວາດເຊັ່ນກັນ. ສໍາລັບບໍ່ວ່າຈະເປັນໃນເງົາຫຼືໃນຕົວເອງ, ເອດວີດໄດ້ກັບຄືນໄປບ່ອນສານ!
+
+202
+00:14:41,450 --> 00:14:43,450
+[WILLIAM CECIL]
+Robert.
+ໂຣເບີດ.
+
+203
+00:14:43,950 --> 00:14:45,950
+[WILLIAM CECIL]
+Robert! Come here.
+ໂຣເບີດ! ມາບ່ອນນີ້.
+
+204
+00:14:46,450 --> 00:14:51,350
+[WILLIAM CECIL]
+I am sorry, my lord. But my son Robert prefers the company... of himself...
+ຂ້ອຍຂໍໂທດເດີ. ແຕ່ລູກຊາຍຂອງຂ້ອຍ ໂຣເບີດມັກບໍລິສັດ... ຂອງຕົວເອງ...
+
+205
+00:14:51,850 --> 00:14:55,700
+[WILLIAM CECIL]
+May I present my wife, Lady Cecil, and my daughter, Anne.
+ຂ້ອຍຂໍແນະນໍາເມຍຂອງຂ້ອຍ, ແມ່ຍິງເຊຊີລ, ແລະລູກສາວຂອງຂ້ອຍ, ແອນ.
+
+206
+00:14:56,200 --> 00:15:02,200
+[YOUNG ANNE]
+I am sorry for your loss, my lord. The realm lost a great lord with your father's death. We hope you will be happy in our house--
+ຂ້ອຍຂໍໂທດຕໍ່ການສູນເສຍຂອງທ່ານ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ.
+ອານາຈັກໄດ້ສູນເສຍພຣະຜູ້ເປັນເຈົ້າທີ່ຍິ່ງໃຫຍ່ດ້ວຍການຕາຍຂອງພໍ່ຂອງທ່ານ. ພວກເຮົາຫວັງວ່າທ່ານຈະມີຄວາມສຸກໃນເຮືອນຂອງພວກເຮົາ -
+
+207
+00:15:02,700 --> 00:15:05,150
+[BOY ROBERT CECIL]
+Are you going to live here forever?
+ເຈົ້າຈະຢູ່ບ່ອນນີ້ຕະຫຼອດໄປບໍ?
+
+208
+00:15:05,650 --> 00:15:08,100
+[YOUNG OXFORD]
+No.    Only until I reach my maturity.
+ບໍ່. ພຽງແຕ່ຈົນກວ່າຂ້ອຍຈະເຖິງຄວາມ成熟ຂອງຂ້ອຍ.
+
+209
+00:15:08,600 --> 00:15:10,600
+[BOY ROBERT CECIL]
+Why?
+ເປັນຫຍັງ?
+
+210
+00:15:11,100 --> 00:15:17,100
+[WILLIAM CECIL]
+Because the Queen has bade it so.  My lord, when we first met, you said you wished to become a great man of State. Both the Queen and I hope to make that so.
+ເພາະວ່າລາຊິນີໄດ້ສັ່ງມັນດັ່ງນັ້ນ. ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ, ເມື່ອພວກເຮົາພົບກັນຄັ້ງ ທໍາ ອິດ,
+ເຈົ້າເວົ້າວ່າເຈົ້າຢາກກາຍເປັນຜູ້ຊາຍລັດທີ່ຍິ່ງໃຫຍ່. ທັງລາຊິນີແລະຂ້ອຍຫວັງວ່າຈະເຮັດໃຫ້ມັນເປັນແບບນັ້ນ.
+
+211
+00:15:17,600 --> 00:15:23,600
+[WILLIAM CECIL]
+To that end, I have the honor of introducing you to your tutors.  Seven to eight you shall be tutored in French by Mister Crane--
+ເພື່ອຈຸດປະສົງນັ້ນ, ຂ້ອຍມີກຽດຕິຍົດທີ່ຈະ ນໍາ ສະ ເຫນີ ເຈົ້າກັບຄູສອນຂອງທ່ານ
+. ເຈັດຫາແປດທ່ານຈະໄດ້ຮັບການສອນພາສາຝຣັ່ງໂດຍທ່ານຄຣານ -
+
+212
+00:15:24,100 --> 00:15:26,900
+[YOUNG OXFORD]
+Monsieur. Ca me fait plaisir de vous connaitre.
+ເຈົ້າ. ຂ້ອຍດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+
+213
+00:15:27,400 --> 00:15:30,200
+[WILLIAM CECIL]
+Nine to ten is Greek with Mister Simmons.
+ສິບຫາສິບແມ່ນພາສາເກຣັກກັບທ່ານຊິມມອນສ໌.
+
+214
+00:15:30,700 --> 00:15:34,200
+[YOUNG OXFORD]
+Dalon, an d'ego, hoti mathamata ge esti ha trafo psychas.
+ດາລອນ, ເປັນຕົວເອງ, ໂຮຕີ້ ມາຕາມາຕາຈີເປັນຄົນກາຍເປັນຈິດໃຈ.
+
+215
+00:15:34,700 --> 00:15:36,700
+[BOY ROBERT CECIL]
+Is that Homer?
+ນັ້ນແມ່ນໂຮມເປີບໍ?
+
+216
+00:15:37,200 --> 00:15:39,200
+[YOUNG OXFORD]
+No.   Plato.
+ບໍ່. ປລາໂຕ.
+
+217
+00:15:39,700 --> 00:15:45,700
+[WILLIAM CECIL]
+And you know your uncle, Mister Golding, who has petitioned me to allow you to assist him in his translations of ancient Latin texts into English.
+ແລະເຈົ້າຮູ້ຈັກພໍ່ເຖົ້າຂອງທ່ານ, ທ້າວໂກລດິງ,
+ຜູ້ທີ່ໄດ້ຮ້ອງຂໍໃຫ້ຂ້ອຍອະນຸຍາດໃຫ້ເຈົ້າຊ່ວຍລາວໃນການແປຂໍ້ຄວາມລາຕິນບູຮານເປັນພາສາອັງກິດ.
+
+218
+00:15:46,200 --> 00:15:49,350
+[YOUNG OXFORD]
+Continetne, ut spero, Ovidii Metamorphose? Mihi honori erit, patrue
+ສືບຕໍ່, ຫວັງວ່າ, Ovidii Metamorphose? Mihi ກຽດຕິຍົດ Erit, Patrue
+
+219
+00:15:49,850 --> 00:15:55,800
+[WILLIAM CECIL]
+Then cosmography with Doctor Richards. Two to three is geography and history, and four to five fencing.
+ຫຼັງຈາກນັ້ນການຄົ້ນຄວ້າອະວະກາດກັບດອກຕໍ ຣິກຊາດສ໌.
+ສອງຫາສາມແມ່ນພູມສາດແລະປະຫວັດສາດ, ແລະສີ່ຫາຫ້າການຂັດຂວາງ.
+
+220
+00:15:56,300 --> 00:15:58,300
+[YOUNG OXFORD]
+And composition? Poetry?
+ແລະການປະກອບ? ກະວີບໍ?
+
+221
+00:15:58,800 --> 00:16:04,800
+[WILLIAM CECIL]
+This is a Puritan home, your grace. We believe such activities to be the worship of false idols, and therefore a sin before the eyes of God.
+ນີ້ແມ່ນເຮືອນຂອງຊາວປູເຣຕັນ, ພຣະເຈົ້າ. ພວກເຮົາເຊື່ອວ່າກິດຈະກໍາດັ່ງກ່າວແມ່ນການບູຊາຮູບປັ້ນປອມ
+, ແລະດັ່ງນັ້ນເປັນຄວາມບາບຕໍ່ຫນ້າຕາຂອງພຣະເຈົ້າ.
+
+222
+00:16:05,300 --> 00:16:10,900
+[YOUNG OXFORD]
+A sin? But surely there must be room for beauty and art in life, my lord.
+ເປັນຄວາມບາບບໍ? ແຕ່ແນ່ນອນຕ້ອງມີບ່ອນ ສໍາ
+ລັບຄວາມງາມແລະສິລະປະໃນຊີວິດ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ.
+
+223
+00:16:11,400 --> 00:16:13,400
+[WILLIAM CECIL]
+Not in this household.
+ບໍ່ຢູ່ໃນຄອບຄົວນີ້.
+
+224
+00:16:13,900 --> 00:16:15,900
+[YOUNG OXFORD]
+You were losing anyway.
+ເຈົ້າ ກໍາ ລັງສູນເສຍຢ່າງໃດກໍ່ຕາມ.
+
+225
+00:16:16,400 --> 00:16:18,400
+[BOY ROBERT CECIL]
+I was also winning.
+ຂ້ອຍຍັງຊະນະອີກດ້ວຍ.
+
+226
+00:16:18,900 --> 00:16:24,850
+[BOY ROBERT CECIL]
+You know I am going to one day succeed my father at the Queen's side. Not you.
+ເຈົ້າຮູ້ວ່າຂ້ອຍຈະສືບທອດພໍ່ຂອງຂ້ອຍໃນມື້ຫນຶ່ງຢູ່ຂ້າງລາຊິນີ
+. ບໍ່ແມ່ນເຈົ້າ.
+
+227
+00:16:25,350 --> 00:16:27,350
+[YOUNG OXFORD]
+Really?
+ແທ້ບໍ?
+
+228
+00:16:27,850 --> 00:16:29,850
+[SHAKESPEARE]
+Is it any good?
+ມັນດີບໍ?
+
+229
+00:16:30,350 --> 00:16:32,450
+[JONSON]
+How in blazes should I know?
+ຂ້ອຍຄວນຮູ້ແນວໃດ?
+
+230
+00:16:32,950 --> 00:16:34,950
+[SHAKESPEARE]
+You haven't even read it?
+ເຈົ້າຍັງບໍ່ອ່ານມັນເລີຍບໍ?
+
+231
+00:16:35,450 --> 00:16:40,700
+[JONSON]
+I read a line or two-- I promised Henslowe I'd finish "Eastward Ho" by Saturday.
+ຂ້ອຍອ່ານສາຍຫນຶ່ງຫຼືສອງ -
+ຂ້ອຍສັນຍາວ່າເຮນສໂລວວ່າຂ້ອຍຈະສິ້ນສຸດ"ຕາເວັນອອກໂຮ" ໃນວັນເສົາ.
+
+232
+00:16:41,200 --> 00:16:43,300
+[SHAKESPEARE]
+And you say he's a nobleman?
+ແລະເຈົ້າເວົ້າວ່າລາວເປັນຄົນສູງສົ່ງບໍ?
+
+233
+00:16:43,800 --> 00:16:45,800
+[SHAKESPEARE]
+Powerful?   Rich??
+ມີພະລັງບໍ? ມີຮັ່ງມີບໍ?
+
+234
+00:16:46,300 --> 00:16:49,450
+[SHAKESPEARE]
+Ohhhh, you have to do it then, don't you?
+ໂອ້, ເຈົ້າຕ້ອງເຮັດມັນຫຼັງຈາກນັ້ນ, ແມ່ນບໍ?
+
+235
+00:16:49,950 --> 00:16:55,950
+[JONSON]
+I tell you Will-- I came to London to become a great poet, to, to, be the conscience of our times, the soul of our age! To change the world, not to become someone else's--
+ຂ້ອຍບອກເຈົ້າວ່າວິນລ໌ - ຂ້ອຍມາລອນດອນເພື່ອກາຍເປັນນັກກະວີທີ່ຍິ່ງໃຫຍ່, ເພື່ອ, ເພື່ອເປັນຈິດໃຈຂອງສະໄຫມຂອງພວກເຮົາ
+, ຈິດວິນຍານຂອງຍຸກຂອງພວກເຮົາ! ເພື່ອປ່ຽນແປງໂລກ, ບໍ່ແມ່ນທີ່ຈະກາຍເປັນຂອງຄົນອື່ນ -
+
+236
+00:16:56,450 --> 00:16:58,450
+[SHAKESPEARE]
+Change the world? With rhyme?
+ປ່ຽນໂລກບໍ? ດ້ວຍກະທູ້ບໍ?
+
+237
+00:16:58,950 --> 00:17:03,150
+[JONSON]
+Yes, why not? Why can't a man change the world with words?
+ແມ່ນແລ້ວ, ເປັນຫຍັງບໍ່?
+ເປັນຫຍັງຜູ້ຊາຍບໍ່ສາມາດປ່ຽນແປງໂລກດ້ວຍ ຄໍາ ເວົ້າໄດ້?
+
+238
+00:17:03,650 --> 00:17:09,650
+[JONSON]
+"I can make you the most popular and the richest playwright in all of London."  Ballocks! I can do that myself, thank you very much.
+ຂ້ອຍສາມາດເຮັດໃຫ້ເຈົ້າເປັນນັກຂຽນລະຄອນທີ່ນິຍົມທີ່ສຸດແລະຮັ່ງມີທີ່ສຸດໃນລອນດອນທັງ
+ຫມົດ. ບາລັອກສ໌! ຂ້ອຍສາມາດເຮັດໄດ້ດ້ວຍຕົນເອງ, ຂອບໃຈຫຼາຍໆ.
+
+239
+00:17:10,150 --> 00:17:12,600
+[SHAKESPEARE]
+You know, it's actually not half bad...
+ເຈົ້າຮູ້ແລ້ວ, ມັນບໍ່ຮ້າຍແຮງເຄິ່ງຫນຶ່ງ...
+
+240
+00:17:13,100 --> 00:17:19,100
+[JONSON]
+Not half--?! You're an actor, what in God's name do you know about writing?! He's an amateur, Will, a complete and utter amateur. Last week gardening, this week playwrighting, next week hawking.  No. I won't do it. It would be an affront against the Muses...
+ບໍ່ເຄິ່ງຫນຶ່ງ -?! ເຈົ້າເປັນນັກສະແດງ, ເຈົ້າຮູ້ຫຍັງກ່ຽວກັບການຂຽນບໍ?! ລາວເປັນຄົນມັກ, ວີລ, ຄົນມັກທີ່ສົມບູນແບບແລະສົມບຸນ.
+ອາທິດທີ່ຜ່ານມາການເຮັດສວນ, ອາທິດນີ້ການຂຽນບົດລະຄອນ, ອາທິດຕໍ່ໄປການກະຕຸ້ນ. ບໍ່. ຂ້ອຍຈະບໍ່ເຮັດມັນ. ມັນຈະເປັນການໂຊກຮ້າຍຕໍ່ມູຊາ...
+
+241
+00:17:19,600 --> 00:17:25,600
+[SHAKESPEARE]
+Well we musn't offend the muses, whatever we do.  How much money did you say he gave you?
+ດີພວກເຮົາບໍ່ຄວນໂຊກຮ້າຍມູຊາ, ບໍ່ວ່າພວກເຮົາຈະເຮັດຫຍັງ
+. ເຈົ້າເວົ້າວ່າລາວໃຫ້ເຈົ້າເງິນຫຼາຍປານໃດ?
+
+242
+00:17:26,100 --> 00:17:31,350
+[JONSON]
+What, you think my name can be bought, if the number's great enough, do you?
+ເຈົ້າຄິດວ່າຊື່ຂອງຂ້ອຍສາມາດຊື້ໄດ້,
+ຖ້າຕົວເລກໃຫຍ່ພໍສົມຄວນ, ເຈົ້າບໍ່?
+
+243
+00:17:31,850 --> 00:17:37,850
+[SHAKESPEARE]
+No, not at all... I think we should keep your good name quite intact, thank you very much.
+ບໍ່, ບໍ່ເລີຍ...
+ຂ້ອຍຄິດວ່າພວກເຮົາຄວນຮັກສາຊື່ທີ່ດີຂອງທ່ານຢ່າງສົມບູນແບບ, ຂອບໃຈຫຼາຍໆ.
+
+244
+00:17:38,350 --> 00:17:44,350
+[WILLIAM CECIL]
+King Philip of Spain sees the current Catholic revolt in Ireland as a weakness of ours. A weakness to be exploited....
+ກະສັດຟີລິບສ໌ຂອງສະເປນເຫັນການກະບົດຄາໂຕລິກໃນປະຈຸບັນໃນໄອແລນເປັນຄວາມອ່ອນແອຂອງພວກເຮົາ
+. ຄວາມອ່ອນໄຫວທີ່ຈະຖືກໃຊ້ປະໂຫຍດ....
+
+245
+00:17:44,850 --> 00:17:46,850
+[ELIZABETH]
+Ireland?
+ໄອແລນ?
+
+246
+00:17:47,350 --> 00:17:53,350
+[WILLIAM CECIL]
+There are rumors of his sending financial aid, and even troops. We must act quickly.  We must replace the Lord Lieutenant of Ireland, and send additional troops immediately, majesty.
+ມີຂ່າວລືວ່າລາວຈະສົ່ງການຊ່ວຍເຫຼືອທາງດ້ານການເງິນ, ແລະເຖິງແມ່ນວ່າທະຫານ. ພວກເຮົາຕ້ອງກະທໍາຢ່າງໄວວາ
+. ພວກເຮົາຍັງຕ້ອງທົດແທນຜູ້ບັນຊາການຂອງໄອແລນ, ແລະສົ່ງທະຫານເພີ່ມເຕີມທັນທີ, ພຣະເຈົ້າ.
+
+247
+00:17:53,850 --> 00:17:55,850
+[ELIZABETH]
+Replace?   With whom?
+ປ່ຽນແທນ? ກັບໃຜ?
+
+248
+00:17:56,350 --> 00:17:59,500
+[WILLIAM CECIL]
+I would recommend the Earl of Essex, your majesty.
+ຂ້ອຍແນະ ນໍາ ເຈົ້າ Earl ຂອງ Essex, ເຈົ້າສູງສຸດ.
+
+249
+00:18:00,000 --> 00:18:02,100
+[ELIZABETH]
+Essex?  To Ireland?  For how long?
+ເອສເຊສ໌? ໄປໄອແລນ? ດົນປານໃດ?
+
+250
+00:18:02,600 --> 00:18:05,400
+[WILLIAM CECIL]
+As long as the present crisis warrants, majesty.
+ຕາບໃດທີ່ວິກິດການໃນປະຈຸບັນຍອມຮັບ, ພຣະເຈົ້າ.
+
+251
+00:18:05,900 --> 00:18:11,850
+[ELIZABETH]
+Impossible. He cannot be spared. We feel his counsel is of greater import with each passing day.
+ບໍ່ເປັນໄປໄດ້. ລາວບໍ່ສາມາດປະຢັດໄດ້. ພວກເຮົາຮູ້ສຶກວ່າ ຄໍາ
+ແນະ ນໍາ ຂອງລາວມີຄວາມສໍາຄັນຫຼາຍຂຶ້ນໃນແຕ່ລະມື້ທີ່ຜ່ານໄປ.
+
+252
+00:18:12,350 --> 00:18:18,350
+[WILLIAM CECIL]
+I only recommend we send your most able subjects where they are most needed, majesty.  Philip of Spain dreams still of taking your kingdom from you.
+ຂ້ອຍພຽງແຕ່ແນະ ນໍາ ໃຫ້ພວກເຮົາສົ່ງຄົນທີ່ມີຄວາມສາມາດທີ່ສຸດຂອງທ່ານໄປບ່ອນທີ່ພວກເຂົາຕ້ອງການຫຼາຍທີ່ສຸດ
+, ພຣະເຈົ້າ. ຟີລິບປ໌ຂອງສະເປນຍັງຝັນທີ່ຈະເອົາອານາຈັກຂອງທ່ານຈາກທ່ານ.
+
+253
+00:18:18,850 --> 00:18:24,450
+[WILLIAM CECIL]
+Of burning you at the stake as a heretic. Give him a foot-hold in Ireland, and--
+ຂອງການເຜົາໄຫມ້ເຈົ້າຢູ່ເທິງກະຕ່າເປັນນັກກະຕຸ້ນ
+. ໃຫ້ລາວຖືຕີນໃນໄອແລນ, ແລະ -
+
+254
+00:18:24,950 --> 00:18:26,950
+[ELIZABETH]
+But Essex?
+ແຕ່ເອສເຊສ໌ບໍ?
+
+255
+00:18:27,450 --> 00:18:33,450
+[WILLIAM CECIL]
+Essex's martial abilities are, in my opinion, the only antidote to the plague of Philip.  Though, Essex would not, unfortunately, be able to remain in the Privy Council if he is in Ireland...
+ຄວາມສາມາດການຕໍ່ສູ້ຂອງເອສເຊັກສ໌ແມ່ນ, ໃນຄວາມຄິດເຫັນຂອງຂ້ອຍ, ຢາຕ້ານເຊື້ອດຽວຕໍ່ພະຍາດຂອງຟີລິບສ໌
+. ເຖິງແມ່ນວ່າ, ເອສເຊກສ໌ຈະບໍ່, ໂຊກຮ້າຍ, ສາມາດຢູ່ຢູ່ໃນສະພາເອກະຊົນຖ້າລາວຢູ່ໃນໄອແລນ...
+
+256
+00:18:33,950 --> 00:18:36,750
+[ELIZABETH]
+And who would you advise to replace him?
+ແລະເຈົ້າແນະນໍາໃຫ້ໃຜແທນລາວ?
+
+257
+00:18:37,250 --> 00:18:39,250
+[WILLIAM CECIL]
+Sir Robert Cecil.
+ທ່ານ ໂຣເບີດ ເຊຊີລ.
+
+258
+00:18:39,750 --> 00:18:41,750
+[ELIZABETH]
+Your son?
+ລູກຊາຍຂອງທ່ານບໍ?
+
+259
+00:18:42,250 --> 00:18:48,250
+[WILLIAM CECIL]
+He is my own advisor first, my son second, majesty. His counsel has been invaluable to me, and no doubt will be to you as well.
+ລາວເປັນທີ່ປຶກສາຂອງຂ້ອຍເອງກ່ອນ, ລູກຊາຍຂອງຂ້ອຍທີສອງ, ພຣະເຈົ້າ. ຄໍາ ແນະ
+ນໍາ ຂອງລາວມີຄຸນຄ່າຫຼາຍຕໍ່ຂ້ອຍ, ແລະບໍ່ຕ້ອງສົງໄສຈະເປັນຕໍ່ເຈົ້າເຊັ່ນກັນ.
+
+260
+00:18:48,750 --> 00:18:54,350
+[ELIZABETH]
+Yes, yes, yes. We will send Essex to Ireland and place Robert on my Privy Council.
+ແມ່ນແລ້ວ, ແທ້ແລ້ວ, ແມ່ນແລ້ວ.
+ພວກເຮົາຈະສົ່ງເອສເຊສໄປໄອແລນແລະວາງໂຣເບີດໃນສະພາສ່ວນຕົວຂອງຂ້ອຍ.
+
+261
+00:18:54,850 --> 00:19:00,850
+[ELIZABETH]
+I saw a play this last weekend, William. It made me think of... days long past. Of memories... long past. Long past. I should like to see more of them... Has Edward been happy, William? With your daughter?
+ຂ້ອຍເຫັນບົດສະແດງໃນທ້າຍອາທິດທີ່ຜ່ານມານີ້, ວິລຍາມ. ມັນເຮັດໃຫ້ຂ້ອຍຄິດກ່ຽວກັບ... ມື້ທີ່ຜ່ານມາຫຼາຍຄັ້ງ. ກ່ຽວກັບຄວາມຊົງຈໍາ
+... ທີ່ຜ່ານມາຫຼາຍປີ. ທີ່ຜ່ານມາຫລາຍປີ. ຂ້ອຍຢາກເຫັນພວກມັນຫຼາຍຂຶ້ນ... ເອດວາດມີຄວາມສຸກບໍ, ວິກິລາມ? ກັບລູກສາວຂອງທ່ານ?
+
+262
+00:19:01,350 --> 00:19:03,350
+[WILLIAM CECIL]
+Murdered!
+ຖືກຂ້າຕາຍ!
+
+263
+00:19:03,850 --> 00:19:05,850
+[WILLIAM CECIL]
+By your own hand!
+ດ້ວຍມືຂອງທ່ານເອງ!
+
+264
+00:19:06,350 --> 00:19:08,350
+[YOUNG OXFORD]
+He was stealing my poems.
+ລາວ ກໍາ ລັງລັກກະວີຂອງຂ້ອຍ.
+
+265
+00:19:08,850 --> 00:19:10,850
+[WILLIAM CECIL]
+He was doing my bidding!
+ລາວ ກໍາ ລັງເຮັດຕາມຄໍາສັ່ງຂອງຂ້ອຍ!
+
+266
+00:19:11,350 --> 00:19:13,350
+[YOUNG OXFORD]
+Yours?
+ຂອງເຈົ້າບໍ?
+
+267
+00:19:13,850 --> 00:19:18,750
+[WILLIAM CECIL]
+Of course. As soon as Robert informed me that you were disobeying my express--
+ແນ່ນອນ.
+ທັນທີທີ່ໂຣເບີດແຈ້ງໃຫ້ຂ້ອຍຮູ້ວ່າເຈົ້າບໍ່ເຊື່ອຟັງການສະແດງຂອງຂ້ອຍ -
+
+268
+00:19:19,250 --> 00:19:21,250
+[YOUNG OXFORD]
+Robert?   Robert told--
+ໂຣເບີດ? ໂຮເບີດບອກວ່າ...
+
+269
+00:19:21,750 --> 00:19:27,750
+[WILLIAM CECIL]
+Enough! Thou shalt not worship false idols in my household! Your everlasting soul hangs in the balance. Not poems. Your soul!
+ພຽງພໍແລ້ວ! ເຈົ້າຈະບໍ່ບູຊາຮູບປັ້ນປອມໃນເຮືອນຂອງຂ້ອຍ!
+ຈິດວິນຍານຂອງທ່ານຕະຫຼອດໄປຕິດຢູ່ໃນຄວາມສົມດຸນ. ບໍ່ແມ່ນກະວີ. ຈິດໃຈຂອງທ່ານ!
+
+270
+00:19:28,250 --> 00:19:30,250
+[YOUNG OXFORD]
+My poems are my soul!
+ກະວີຂອງຂ້ອຍແມ່ນຈິດວິນຍານຂອງຂ້ອຍ!
+
+271
+00:19:30,750 --> 00:19:33,900
+[WILLIAM CECIL]
+You have placed me in a grave position, Edward.
+ເຈົ້າໄດ້ເຮັດໃຫ້ຂ້ອຍຢູ່ໃນຕໍາແຫນ່ງທີ່ຮ້າຍແຮງ, ເອດວາດ.
+
+272
+00:19:34,400 --> 00:19:40,400
+[WILLIAM CECIL]
+I cannot have my reputation soiled by this regrettable lack of control on your part... No. I will not have it. We can claim self-defense, he drew sword first.  But... I wish something in return.
+ຂ້ອຍບໍ່ສາມາດເຮັດໃຫ້ຊື່ສຽງຂອງຂ້ອຍຖືກເປື້ອນໂດຍການຂາດການຄວບຄຸມທີ່ ຫນ້າ ເສຍໃຈຈາກເຈົ້າ... ບໍ່. ຂ້ອຍຈະບໍ່ໃຫ້ມັນ
+. ພວກເຮົາສາມາດອ້າງວ່າການປ້ອງກັນຕົວເອງ, ລາວດຶງກະທູ້ກ່ອນ. ແຕ່... ຂ້ອຍຢາກມີບາງສິ່ງບາງຢ່າງໃນແລກປ່ຽນ.
+
+273
+00:19:40,900 --> 00:19:46,900
+[WILLIAM CECIL]
+My daughter is young, impressionable. She has feelings for you, Edward. It is to be expected, living in such close quarters...
+ລູກສາວຂອງຂ້ອຍຍັງຫນຸ່ມ, ມີຄວາມປະທັບໃຈ. ນາງມີຄວາມຮູ້ສຶກຕໍ່ເຈົ້າ
+, ເອດວາດ. ມັນຄວນຄາດຫວັງ, ອາໄສຢູ່ໃນເຂດໃກ້ຊິດຫຼາຍ...
+
+274
+00:19:47,400 --> 00:19:52,650
+[YOUNG OXFORD]
+Sir. For the last three years you have managed to seize much of my inheritance--
+ເຈົ້າ. ໃນສາມປີທີ່ຜ່ານມາເຈົ້າໄດ້ຈັດການເອົາມໍລະດົກຂອງຂ້ອຍຫຼາຍຢ່າງ -
+
+275
+00:19:53,150 --> 00:19:59,150
+[WILLIAM CECIL]
+Hold your tongue, Edward, before you make a claim you cannot retract! I have been legally reimbursed for your education and living expenses.
+ຮັກສາພາສາຂອງທ່ານໄວ້, ເອດວາດ, ກ່ອນທີ່ທ່ານຈະເຮັດການຮ້ອງຂໍທີ່ທ່ານບໍ່ສາມາດຖອນຄືນໄດ້!
+ຂ້ອຍໄດ້ຮັບການຊົດເຊີຍຢ່າງຖືກຕ້ອງຕາມກົດ ຫມາຍ ສໍາ ລັບຄ່າໃຊ້ຈ່າຍການສຶກສາແລະຊີວິດການເປັນຢູ່ຂອງທ່ານ.
+
+276
+00:19:59,650 --> 00:20:05,650
+[YOUNG OXFORD]
+And now you suggest you be "reimbursed" the rest of my once considerable estates through your daughter's bed?
+ແລະດຽວນີ້ເຈົ້າແນະ ນໍາ ໃຫ້ເຈົ້າ"ຈ່າຍເງິນຄືນ"
+ສ່ວນທີ່ເຫຼືອຂອງຊັບສິນຂອງຂ້ອຍທີ່ເຄີຍເປັນທີ່ສໍາຄັນຜ່ານຕຽງຂອງລູກສາວຂອງທ່ານບໍ?
+
+277
+00:20:06,150 --> 00:20:11,400
+[WILLIAM CECIL]
+No. This is how I suggest you keep your noble head from the executioner's block.
+ບໍ່. ນີ້ແມ່ນວິທີທີ່ຂ້ອຍແນະ ນໍາ
+ໃຫ້ເຈົ້າຮັກສາຫົວທີ່ດີເລີດຂອງທ່ານຈາກບລັອກຂອງຜູ້ປະຫານຊີວິດ.
+
+278
+00:20:11,900 --> 00:20:17,900
+[BISHOP]
+...and in the fear of god, duly considering the causes for which matrimony was ordained. One was the procreation of children...
+ແລະໃນຄວາມຢ້ານກົວພຣະເຈົ້າ, ການພິຈາລະນາເຫດຜົນທີ່ສົມຄວນທີ່ການແຕ່ງງານໄດ້ຖືກ
+ກໍາ ນົດໄວ້. ຫນຶ່ງ ແມ່ນການເກີດລູກ...
+
+279
+00:20:18,400 --> 00:20:24,400
+[BISHOP]
+...to be brought up in the fear and nurture of the Lord and praise of God. Secondly, it was ordained for a remedy against sin.
+... ເພື່ອຖືກລ້ຽງຂຶ້ນໃນຄວາມຢ້ານກົວແລະການລ້ຽງດູຂອງພຣະຜູ້ເປັນເຈົ້າແລະການຍ້ອງຍໍຂອງພຣະເຈົ້າ
+. ທີສອງ, ມັນໄດ້ຖືກກໍານົດໄວ້ເພື່ອຢາປິ່ນປົວຕໍ່ກັບຄວາມບາບ.
+
+280
+00:20:24,900 --> 00:20:30,900
+[BISHOP]
+Thirdly, for the mutual society, help and comfort, that the one ought to have of the other, both in prosperity and adversity, into the which holiest state these two persons present come now to be joined.
+ທີສາມ, ສໍາ ລັບສັງຄົມຮ່ວມກັນ, ການຊ່ວຍເຫຼືອແລະຄວາມສະບາຍໃຈ, ທີ່ຄົນ ຫນຶ່ງ ຄວນມີຈາກຄົນອື່ນ,
+ທັງໃນຄວາມຈະເລີນຮຸ່ງເຮືອງແລະຄວາມຫຍຸ້ງຍາກ, ໃນສະພາບທີ່ສັກສິດທີ່ສຸດທີ່ຄົນທັງສອງທີ່ຢູ່ບ່ອນນີ້ມາພ້ອມກັນດຽວນີ້.
+
+281
+00:20:31,400 --> 00:20:33,400
+[NASHE]
+"Henry V" by... No one?
+"ແຮນຣີ V" ໂດຍ... ບໍ່ມີໃຜ?
+
+282
+00:20:33,900 --> 00:20:39,900
+[MARLOWE]
+And why would any of you admit to trying to better me in a historical drama? Comedy, yes, tragedy, perhaps. But never will one of you best me in historicals.
+ແລະເປັນຫຍັງໃຜໃນເຈົ້າຈະຍອມຮັບວ່າພະຍາຍາມໃຫ້ຂ້ອຍດີກວ່າໃນລະຄອນປະຫວັດສາດ? ຄອມເມີດີ,
+ແມ່ນແລ້ວ, ໂຊກຮ້າຍ, ບາງທີ. ແຕ່ບໍ່ມີໃຜໃນພວກເຈົ້າຈະເອົາຊະນະຂ້ອຍໃນເລື່ອງປະຫວັດການເລີຍ.
+
+283
+00:20:40,400 --> 00:20:43,550
+[MARLOWE]
+Or will we be seeing a most hysterical historical?
+ຫຼືພວກເຮົາຈະເຫັນປະຫວັດສາດທີ່ໂຊກຮ້າຍທີ່ສຸດບໍ?
+
+284
+00:20:44,050 --> 00:20:48,250
+[MARLOWE]
+Hmm? Ben? Waiting to see how it's received before you lay claim??
+ຮັມມ໌? ແບນ? ລໍຖ້າເບິ່ງວ່າມັນຖືກຮັບແນວໃດກ່ອນທີ່ທ່ານຈະຮ້ອງຂໍ??
+
+285
+00:20:48,750 --> 00:20:54,750
+["PROLOGUE"]
+Oh, for a muse of fire, that would ascend the brightest heaven of invention. A kingdom for a stage, princes to act, and monarchs to behold the swelling scene! Then should warlike Harry, like himself, assume the port of Mars, and at his heels should famine, sword, and fire crouch for his employment. Can this cockpit hold the vasty fields of France?
+ໂອ້, ສໍາລັບມູຊາຂອງໄຟ, ທີ່ຈະຂຶ້ນສູ່ສະຫວັນທີ່ສົດໃສທີ່ສຸດຂອງການຄົ້ນຄວ້າ. ອານາຈັກ ສໍາ ລັບເວທີ, ເຈົ້າຊາຍທີ່ຈະສະແດງ, ແລະກະສັດທີ່ຈະເບິ່ງເວທີທີ່ຟື້ນຟູ! ຫຼັງຈາກນັ້ນແຮຣີທີ່ມັກສົງຄາມ
+, ຄືກັບຕົວເອງ, ຄວນຮັບເອົາທ່າເຮືອຂອງແມຣສ, ແລະຢູ່ຕາມຕີນຂອງລາວຄວນອຶດຫິວ, ກະທູ້, ແລະໄຟຍອມຮັບການຈ້າງງານຂອງລາວ. ຫ້ອງຂັບຂີ່ນີ້ສາມາດຖືສະ ຫນາມ ທີ່ກວ້າງຂວາງ
+
+286
+00:20:55,250 --> 00:21:01,250
+["HENRY V"]
+This day is called the feast of Crispian: he that outlives this day, and comes safe home, will stand a tip- toe when this day is named, and rouse him at the name of Crispian.
+ມື້ນີ້ເອີ້ນວ່າງານບຸນຂອງຄຣິສປຽນ: ຜູ້ໃດທີ່ລອດຊີວິດໃນມື້ນີ້, ແລະກັບບ້ານຢ່າງປອດໄພ
+, ຈະຢືນຢູ່ຈຸດຕີນເມື່ອມື້ນີ້ຖືກຕັ້ງຊື່, ແລະຕື່ນລາວໃນຊື່ຂອງຄຣິດປຽນ.
+
+287
+00:21:01,750 --> 00:21:07,750
+["HENRY V"]
+He that shall see this day and live t'old age, will yearly on the vigil feast his neighbors, and say 'To- morrow is Saint Crispian.
+ຜູ້ໃດທີ່ຈະເຫັນມື້ນີ້ແລະດໍາລົງຊີວິດໃນອາຍຸເກົ່າ,
+ຈະສະເຫຼີມສະຫຼອງເພື່ອນບ້ານຂອງລາວໃນແຕ່ລະປີໃນວັນຕື່ນເຕັ້ນ, ແລະເວົ້າວ່າ'ມື້ອື່ນແມ່ນສັກສິດຄຣິສປຽນ.
+
+288
+00:21:08,250 --> 00:21:11,750
+["HENRY V"]
+Then will he strip his sleeve and show his scars.
+ຫຼັງຈາກນັ້ນລາວຈະຖິ້ມກະທູ້ຂອງລາວແລະສະແດງບາດແຜຂອງລາວ.
+
+289
+00:21:12,250 --> 00:21:18,250
+["HENRY V"]
+And say 'These wounds I had on Crispin's day.' Old men forget: yet all shall be forgot, but he'll remember with advantages what feats he did that day. This story shall the good man teach his son.
+ແລະເວົ້າວ່າ'ບາດເຈັບເຫຼົ່ານີ້ທີ່ຂ້ອຍມີໃນມື້ຂອງຄຣິສປິນ. ຜູ້ເຖົ້າລືມ: ເຖິງຢ່າງໃດກໍ່ຕາມທຸກຢ່າງຈະຖືກລືມ
+, ແຕ່ລາວຈະຈື່ໄວ້ດ້ວຍຂໍ້ດີທີ່ລາວເຮັດໃນມື້ນັ້ນ. ເລື່ອງນີ້ຜູ້ຊາຍທີ່ດີຈະສອນລູກຊາຍຂອງລາວ.
+
+290
+00:21:18,750 --> 00:21:24,750
+["HENRY V"]
+And Crispin Crispian shall ne'er go by, from this day to the ending of the world, but we in it shall be remembered; we few, we happy few, we band of brothers; for he to-day that sheds his blood with me shall be my brother; be he ne'er so vile, this day shall gentle his condition: and gentlemen in England now a-bed shall think themselves accursed they were not here, and hold their man-hoods cheap whiles any speaks that fought with us upon Saint Crispin's day!
+ແລະຄຣິສປິນ ຄຣີສປີນຈະບໍ່ຜ່ານໄປເລີຍ, ຈາກມື້ນີ້ຈົນເຖິງສິ້ນສຸດໂລກ, ແຕ່ພວກເຮົາໃນມັນຈະຖືກຈື່ໄວ້; ພວກເຮົາ ຫນ້ອຍ ຫນຶ່ງ, ພວກເຮົາ ຫນ້ອຍ ທີ່ສຸກ, ພວກເຮົາກຸ່ມອ້າຍນ້ອງ; ສໍາລັບລາວໃນມື້ນີ້ທີ່ຖິ້ມເລືອດຂອງລາວກັບຂ້ອຍຈະເປັນອ້າຍຂອງຂ້ອຍ
+; ເຖິງແມ່ນວ່າລາວບໍ່ເປັນຄົນໂຊກຮ້າຍຫຼາຍປານໃດ, ມື້ນີ້ຈະເຮັດໃຫ້ສະພາບຂອງລາວອ່ອນແອ: ແລະຜູ້ຊາຍໃນອັງກິດດຽວນີ້ຕຽງຈະຄິດຕົວເອງຖືກໂຊບຮ້າຍວ່າພວກເຂົາບໍ່ໄດ້ຢູ່ບ່ອນນີ້, ແລະຖືຄວາມເປັນ
+
+291
+00:21:25,250 --> 00:21:31,250
+["SALISBURY"]
+My sovereign lord, bestow yourself with speed. The French are bravely in their battles set and will with all expedience charge on us.
+ເຈົ້າທີ່ມີອໍານາດອະທິປະໄຕຂອງຂ້ອຍ, ໃຫ້ຕົວເອງດ້ວຍຄວາມໄວ.
+ຊາວຝຣັ່ງມີຄວາມກ້າຫານໃນການຕໍ່ສູ້ຂອງພວກເຂົາທີ່ຕັ້ງໄວ້ແລະຈະໂຈມຕີພວກເຮົາດ້ວຍຄວາມ ເຫມາະ ສົມທັງ ຫມົດ.
+
+292
+00:21:31,750 --> 00:21:34,900
+["HENRY V"]
+All things are ready, if our minds be so.
+ທຸກສິ່ງທຸກຢ່າງພ້ອມແລ້ວ, ຖ້າຈິດໃຈຂອງພວກເຮົາເປັນດັ່ງນັ້ນ.
+
+293
+00:21:35,400 --> 00:21:38,200
+["WESTMORELAND"]
+Perish the man whose mind is backward now!
+ສິ້ນສຸດລົງຜູ້ຊາຍທີ່ມີຈິດໃຈກັບຄືນໄປບ່ອນດຽວນີ້!
+
+294
+00:21:38,700 --> 00:21:41,850
+["HENRY V"]
+You know your places: God be with you all!
+ເຈົ້າຮູ້ບ່ອນຂອງເຈົ້າ: ພຣະເຈົ້າຢູ່ກັບເຈົ້າທຸກຄົນ!
+
+295
+00:21:42,350 --> 00:21:47,250
+[SOUTHAMPTON]
+William Cecil's convinced the Queen that only Essex can save Ireland from the Revolt.
+ວິລຍາມ ເຊຊີລ
+ໄດ້ຊັກຊວນລາຊິນີວ່າພຽງແຕ່ເອສເຊສເທົ່ານັ້ນທີ່ສາມາດຊ່ວຍໄອແລນຈາກການກະບົດໄດ້.
+
+296
+00:21:47,750 --> 00:21:51,950
+[SOUTHAMPTON]
+I've pledged to go with him, Edward. We sail in an hour.
+ຂ້ອຍໄດ້ສັນຍາວ່າຈະໄປກັບລາວ, ເອດວາດ.
+ພວກເຮົາຈະເດີນເຮືອໃນ ຫນຶ່ງ ຊົ່ວໂມງ.
+
+297
+00:21:52,450 --> 00:21:54,450
+[OXFORD]
+Henry--
+ແຮນຣີ...
+
+298
+00:21:54,950 --> 00:21:57,050
+[SOUTHAMPTON]
+I ask for your blessing, Edward.
+ຂ້ອຍຂໍພອນຂອງທ່ານ, ເອດວາດ.
+
+299
+00:21:57,550 --> 00:21:59,650
+[OXFORD]
+I can't give it to you.
+ຂ້ອຍບໍ່ສາມາດໃຫ້ມັນໃຫ້ເຈົ້າໄດ້.
+
+300
+00:22:00,150 --> 00:22:04,700
+[NASHE]
+I for one wish to see this anonymous colleague of ours.  Playwright! Playwright!!
+ຂ້ອຍຢາກເຫັນເພື່ອນຮ່ວມງານທີ່ບໍ່ຊື່ສຽງຂອງພວກເຮົາຄົນນີ້
+. ນັກຂຽນລະຄອນ! ນັກຂຽນ ລະຄອນ!!
+
+301
+00:22:05,200 --> 00:22:11,200
+[SOUTHAMPTON]
+If he is to be my king, then it is my sacred duty to be with him in battle.
+ຖ້າລາວຈະເປັນກະສັດຂອງຂ້ອຍ,
+ຫຼັງຈາກນັ້ນມັນເປັນຫນ້າທີ່ສັກສິດຂອງຂ້ອຍທີ່ຈະຢູ່ກັບລາວໃນການຕໍ່ສູ້.
+
+302
+00:22:11,700 --> 00:22:14,500
+[SOUTHAMPTON]
+I am sorry to have disturbed your entertainment.
+ຂ້ອຍຂໍໂທດທີ່ໄດ້ລົບກວນການບັນເທີງຂອງທ່ານ.
+
+303
+00:22:15,000 --> 00:22:17,000
+[OXFORD]
+Henry-- Henry!!
+ເຮນຣີ - ເຮນລີ!!
+
+304
+00:22:17,500 --> 00:22:23,500
+[SHAKESPEARE]
+I, I... It's been... I, I, want to... thank my actors, whose great acting brought... my words... to life due to their most finest acting. Ah... Thank you.
+ຂ້ອຍ, ຂ້ອຍ... ມັນເປັນ... ຂ້ອຍ, ຂ້າພະເຈົ້າ, ຢາກ... ຂອບໃຈນັກສະແດງຂອງຂ້ອຍ, ເຊິ່ງການສະແດງທີ່ຍິ່ງໃຫຍ່ໄດ້
+ນໍາ ເອົາ... ຄໍາ ເວົ້າຂອງຂ້ອຍ... ມາສູ່ຊີວິດຍ້ອນການສະແດງທີ່ດີທີ່ສຸດຂອງພວກເຂົາ. ອາ... ຂໍຂອບໃຈ.
+
+305
+00:22:24,000 --> 00:22:26,000
+[OXFORD]
+An actor?!!
+ນັກສະແດງບໍ?!!
+
+306
+00:22:26,500 --> 00:22:28,500
+[OXFORD]
+An actor for god's sake?
+ນັກສະແດງເພື່ອພຣະເຈົ້າບໍ?
+
+307
+00:22:29,000 --> 00:22:31,000
+[JONSON]
+My lord, I thought that--
+ເຈົ້າຂອງຂ້ອຍ, ຂ້ອຍຄິດວ່າ...
+
+308
+00:22:31,500 --> 00:22:36,750
+[OXFORD]
+You presumed to think? On my behalf? Whatever made you believe you had that prerogative?
+ເຈົ້າກ້າຄິດບໍ? ໃນນາມຂ້ອຍບໍ?
+ຫຍັງເຮັດໃຫ້ເຈົ້າເຊື່ອວ່າເຈົ້າມີສິດທິນັ້ນ?
+
+309
+00:22:37,250 --> 00:22:42,150
+[JONSON]
+My lord, your voice is completely different than mine. My, my, my characters are--
+ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ, ສຽງຂອງທ່ານແຕກຕ່າງກັນຈາກຂອງຂ້ອຍຢ່າງສົມບູນ
+. ຕົວລະຄອນຂອງຂ້ອຍ, ຂ້ອຍ, ຂ້ອຍແມ່ນ -
+
+310
+00:22:42,650 --> 00:22:48,650
+[OXFORD]
+Voice? You have no voice! That's why I chose you!  You at least kept my name from him?
+ສຽງ? ເຈົ້າບໍ່ມີສຽງ! ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍເລືອກເຈົ້າ
+! ເຈົ້າຢ່າງຫນ້ອຍຮັກສາຊື່ຂອງຂ້ອຍຈາກລາວບໍ?
+
+311
+00:22:49,150 --> 00:22:51,250
+[OXFORD]
+And will continue to do so?
+ແລະຈະສືບຕໍ່ເຮັດແບບນັ້ນບໍ?
+
+312
+00:22:51,750 --> 00:22:53,850
+[OXFORD]
+A romantic tragedy. In iambic pentameter.
+ໂຊກຮ້າຍທາງຄວາມຮັກ. ໃນ pentameter iambic.
+
+313
+00:22:54,350 --> 00:22:56,450
+[JONSON]
+All, my lord? Is that possible?
+ທັງ ຫມົດ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ? ມັນເປັນໄປໄດ້ບໍ?
+
+314
+00:22:56,950 --> 00:22:58,950
+[OXFORD]
+Of course it is!
+ແນ່ນອນວ່າມັນເປັນ!
+
+315
+00:22:59,450 --> 00:23:02,250
+[ANNE]
+Who was that man?    I've seen him before.
+ຜູ້ຊາຍຄົນນັ້ນແມ່ນໃຜ? ຂ້ອຍເຄີຍເຫັນລາວກ່ອນແລ້ວ.
+
+316
+00:23:02,750 --> 00:23:05,200
+[ANNE]
+Edward-- we must discuss our Bridget's dowry.
+ເອດວາດ - ພວກເຮົາຕ້ອງປຶກສາຫາລືກ່ຽວກັບເງິນມອບຂອງບຣີດຈິດຂອງພວກເຮົາ.
+
+317
+00:23:05,700 --> 00:23:07,700
+[OXFORD]
+Dowry?
+ໂຊກດີບໍ?
+
+318
+00:23:08,200 --> 00:23:14,200
+[ANNE]
+She cannot go into marriage without a dowry that is becoming to the daughter of the Earl Oxford.
+ນາງບໍ່ສາມາດແຕ່ງງານໄດ້ໂດຍບໍ່ມີເງິນມອບທີ່
+ເຫມາະ ສົມກັບລູກສາວຂອງ Earl Oxford.
+
+319
+00:23:14,700 --> 00:23:18,200
+[OXFORD]
+I can give her Brooke House and a hundred pounds.
+ຂ້ອຍສາມາດໃຫ້ນາງເຮືອນບຣູກ ແລະ ສິບປອນໄດ້.
+
+320
+00:23:18,700 --> 00:23:20,700
+[BRIDGET]
+A hundred pounds? Father?     Mother!
+ສິບປອນບໍ? ພໍ່ບໍ? ແມ່!
+
+321
+00:23:21,200 --> 00:23:24,700
+[OXFORD]
+That is all we have to give at the moment.
+ນັ້ນແມ່ນທັງຫມົດທີ່ພວກເຮົາຕ້ອງໃຫ້ໃນເວລານີ້.
+
+322
+00:23:25,200 --> 00:23:31,200
+[ANNE]
+Edward. Edward! Speak to me! Our family is in financial ruins, and, and you, you play the flute while Rome burns!
+ເອດວາດ. ເອດວາດ! ເວົ້າກັບຂ້ອຍ! ຄອບຄົວຂອງພວກເຮົາຢູ່ໃນຄວາມເສຍຫາຍທາງດ້ານການເງິນ
+, ແລະ, ແລະເຈົ້າ, ເຈົ້າຫຼິ້ນຟລູຕັນໃນຂະນະທີ່ໂຣມໄຫມ້!
+
+323
+00:23:31,700 --> 00:23:33,700
+[OXFORD]
+Nero fiddled whilst Rome burned.
+ເນໂຣໄດ້ຫຼິ້ນຟີລິນໃນຂະນະທີ່ໂຣມຖືກເຜົາໄຫມ້.
+
+324
+00:23:34,200 --> 00:23:39,800
+[ANNE]
+For god's sake, who cares Edward? When your own daughter can't even have a suitable dowry?
+ສໍາລັບພຣະເຈົ້າ, ໃຜສົນໃຈເອດວາດ?
+ເມື່ອລູກສາວຂອງທ່ານເອງບໍ່ສາມາດມີເງິນມອບທີ່ ເຫມາະ ສົມໄດ້ບໍ?
+
+325
+00:23:40,300 --> 00:23:45,900
+[ANNE]
+My god, you're writing again, aren't you? After you agreed-- after my father expressly forbade it!
+ພຣະເຈົ້າຂອງຂ້ອຍ, ເຈົ້າ ກໍາ ລັງຂຽນອີກເທື່ອຫນຶ່ງ, ແມ່ນບໍ?
+ຫຼັງຈາກເຈົ້າເຫັນດີ - ຫຼັງຈາກພໍ່ຂອງຂ້ອຍຫ້າມມັນຢ່າງແນ່ນອນ!
+
+326
+00:23:46,400 --> 00:23:52,400
+[OXFORD]
+Anne-- If you could have seen them-- the mob... They, they didn't just sit there like the reptilia of court, faces motionless, fangs momentarily retracted. No! They, they jumped on stage, they fought the French! A butcher-- he actually broke his arm! He was so--
+ແອນນ໌ - ຖ້າເຈົ້າສາມາດເຫັນພວກເຂົາໄດ້ - ພວກຄົນໂຊກແຊງ... ພວກເຂົາ, ພວກເຂົາບໍ່ໄດ້ພຽງແຕ່ນັ່ງຢູ່ບ່ອນນັ້ນຄືກັບສັດລ້ຽງຂອງສານ, ໃບຫນ້າບໍ່ເຄື່ອນຍ້າຍ
+, ແຂ້ວຖືກຖອນອອກຊົ່ວຄາວ. ບໍ່! ພວກເຂົາ, ເຂົາໂດດຂຶ້ນເວທີ, ພວກເຂົາຕໍ່ສູ້ກັບຝຣັ່ງ! ຜູ້ຂ້າສັດ - ລາວໄດ້ແຕກແຂນຂອງລາວແທ້ໆ! ລາວເປັນຫຼາຍ -
+
+327
+00:23:52,900 --> 00:23:54,900
+[ANNE]
+Stop!   Stop it at once!!
+ຢຸດເຊົາ! ຢຸດມັນທັນທີ!!
+
+328
+00:23:55,400 --> 00:23:59,950
+[ANNE]
+Why!? Why must you write?! Why must you continue to humiliate this family?
+ເປັນຫຍັງ!? ເປັນຫຍັງເຈົ້າຕ້ອງຂຽນ?!
+ເປັນຫຍັງເຈົ້າຈຶ່ງຕ້ອງສືບຕໍ່ເຮັດໃຫ້ຄອບຄົວນີ້ອ່ອນແອ?
+
+329
+00:24:00,450 --> 00:24:06,450
+[OXFORD]
+The voices, Anne... The voices. I, I can't stop them... They, they come when I sleep, when I wake, when I sup, when I, I, I walk down a hall! The sweet longings of a maiden, the, the surging ambitions of a courtier, the foul designs of a murderer, the wretched pleas of his victims.    Only- - only when I put their words-- their voices-- to parchment are they cast loose, freed... Only then is my mind... quieted... at peace.
+ສຽງຕ່າງໆ, ແອນ... ສຽງຕ່າງໆ. ຂ້ອຍ, ຂ້ອຍບໍ່ສາມາດຢຸດພວກມັນໄດ້... ພວກເຂົາ, ພວກເຂົາມາເມື່ອຂ້ອຍນອນ, ເມື່ອຂ້ອຍຕື່ນ, ໃນເວລາທີ່ຂ້ອຍກິນອາຫານຄໍ່າ, ໃນເວລາຂ້ອຍ, ຂ້ອຍ, ຂ້າພະເຈົ້າຍ່າງລົງຫ້ອງໂຖງ! ຄວາມປາຖະຫນາທີ່ຫວານຂອງເດັກຍິງ
+, ການ, ຄວາມຕັ້ງໃຈທີ່ເພີ່ມຂຶ້ນຂອງເຈົ້າຂອງສານ, ການອອກແບບທີ່ໂຊກຮ້າຍຂອງຜູ້ຄາດຕະກໍາ, ຄໍາ ຮ້ອງຂໍທີ່ທຸກທໍລະມານຂອງຜູ້ເຄາະຮ້າຍຂອງລາວ. ພຽງແຕ່ - ພຽງແຕ່ເມື່ອຂ້ອຍເອົາ ຄໍາ ເວົ້າຂອງພວກເຂົາ - ສຽງຂອງພວກເຂົາ - ໃສ່
+
+330
+00:24:06,950 --> 00:24:10,800
+[OXFORD]
+I... would go mad if I didn't write down the voices.
+ຂ້ອຍ... ຈະໂຊກຮ້າຍຖ້າຂ້ອຍບໍ່ຂຽນສຽງລົງ.
+
+331
+00:24:11,300 --> 00:24:13,300
+[ANNE]
+Art thou possessed?
+ເຈົ້າເປັນຄົນໂຊກຮ້າຍບໍ?
+
+332
+00:24:13,800 --> 00:24:15,800
+[OXFORD]
+I... don't know.
+ຂ້ອຍ... ບໍ່ຮູ້.
+
+333
+00:24:16,300 --> 00:24:21,200
+[SHAKESPEARE]
+"Two households, both alike in dignity, In fair Verona, where we lay our scene"
+ຄອບຄົວສອງຄອບຄົວ, ທັງສອງເທົ່າກັນໃນຄວາມກຽດຕິຍົດ,
+ໃນເວໂຣນາທີ່ສວຍງາມ, ບ່ອນທີ່ພວກເຮົາວາງເວທີຂອງພວກເຮົາ
+
+334
+00:24:21,700 --> 00:24:27,700
+[SHAKESPEARE]
+"From ancient grudge break to new mutiny, Where civil blood makes civil hands unclean."  Incredible!! The whole bloody thing in verse?!
+ຈາກການແຕກແຍກຄວາມກຽດຊັງບູຮານໄປສູ່ການກະບົດ ໃຫມ່,
+ບ່ອນທີ່ເລືອດພົນລະເຮືອນເຮັດໃຫ້ມືພົນລະເມືອງບໍ່ສະອາດ." ບໍ່ເຊື່ອໄດ້!! ສິ່ງເລືອງທັງ ຫມົດ ໃນຂໍ້ຄວາມ?!
+
+335
+00:24:28,200 --> 00:24:31,000
+[JONSON]
+It's really not that difficult, if you try.
+ມັນບໍ່ຍາກຫຼາຍ, ຖ້າເຈົ້າພະຍາຍາມ.
+
+336
+00:24:31,500 --> 00:24:33,500
+[SHAKESPEARE]
+And have you ever tried?
+ແລະເຈົ້າເຄີຍພະຍາຍາມບໍ?
+
+337
+00:24:34,000 --> 00:24:40,000
+[SHAKESPEARE]
+"But soft, what light through yonder window breaks? It is the east, and Juliet is the sun. Arise, fair sun, and kill the envious moon, Who is already sick and pale with grief, That thou her maid art far more fair than she."
+ແຕ່ອ່ອນແອ, ແສງສະຫວ່າງໃດຜ່ານປ່ອງຢ້ຽມທີ່ນັ້ນແຕກ? ມັນແມ່ນຕາເວັນອອກ, ແລະຈູເລຕ໌ແມ່ນແສງຕາເວັນ. ຕື່ນຂຶ້ນ, ຕາເວັນທີ່ສວຍງາມ
+, ແລະຂ້າດວງຈັນທີ່ໂຊກຮ້າຍ, ຜູ້ທີ່ເຈັບປ່ວຍແລ້ວແລະສີຂາວຈາກຄວາມໂສກເສົ້າ, ວ່າເຈົ້າເປັນຜູ້ຮັບໃຊ້ຂອງນາງສວຍໃສກວ່ານາງຫຼາຍ."
+
+338
+00:24:40,500 --> 00:24:44,700
+[SHAKESPEARE]
+I'll have little trouble parting the legs of barmaids after that performance!
+ຂ້ອຍຈະມີຄວາມຫຍຸ້ງຍາກ ຫນ້ອຍ ຫນຶ່ງ
+ໃນການແຍກຕີນຂອງຜູ້ຮັບໃຊ້ບາຫຼັງຈາກການສະແດງນັ້ນ!
+
+339
+00:24:45,200 --> 00:24:47,200
+[JONSON]
+You can't play Romeo.
+ເຈົ້າບໍ່ສາມາດຫຼິ້ນໂຣມໂມໄດ້.
+
+340
+00:24:47,700 --> 00:24:53,700
+[SHAKESPEARE]
+Why not? I won't let that oaf Spencer have another go at one of my roles. No-- only Will Shakespeare can pump the life into Romeo's veins.  And his cod piece!  Ben-- Ben! I'm an actor, every inch of me, down to my very toes... I want- - no, I need, crave-- to act. I can't just idle the day by with--
+ເປັນຫຍັງບໍ່? ຂ້ອຍຈະບໍ່ປ່ອຍໃຫ້ແຊນເປີສ໌ຄົນໂຊກແຊງນັ້ນພະຍາຍາມອີກຄັ້ງໃນ ຫນຶ່ງ ໃນບົດບາດຂອງຂ້ອຍ. ບໍ່ - ພຽງແຕ່ແສເຊປເປີສາມາດຖອກຊີວິດເຂົ້າໄປໃນເສັ້ນເລືອດຂອງໂຣເມໂກ້ໄດ້. ແລະກະດານ cod ຂອງລາວ
+! ແບນ - ແບບນ! ຂ້ອຍເປັນນັກສະແດງ, ທຸກນິ້ວຂອງຂ້ອຍ, ເຖິງຕີນຂອງຂ້ອຍເອງ... ຂ້ອຍຢາກ - - ບໍ່, ຂ້ອຍຕ້ອງການ, ຄວາມປາຖະຫນາ - ເພື່ອສະແດງ. ຂ້ອຍບໍ່ສາມາດພຽງແຕ່ບໍ່ມີວຽກເຮັດງານທໍາມື້ຜ່ານກັບ -
+
+341
+00:24:54,200 --> 00:25:00,200
+[JONSON]
+So bloody well act like a writer! And for God's sake, keep off the stage. Writers don't have time to act.
+ສະນັ້ນເຮັດຢ່າງດີຄືກັບນັກຂຽນ! ແລະເພື່ອຄວາມຮັກຂອງພຣະເຈົ້າ
+, ຢູ່ຫ່າງຈາກເວທີ. ນັກຂຽນບໍ່ມີເວລາທີ່ຈະສະແດງ.
+
+342
+00:25:00,700 --> 00:25:04,550
+["ROMEO"]
+What lady's that, which doth enrich the hand of yonder knight?
+ແມ່ຍິງຄົນນັ້ນແມ່ນໃຜ, ເຊິ່ງເຮັດໃຫ້ມືຂອງນາຍຊາຍຄົນນັ້ນອຸດົມສົມບູນ?
+
+343
+00:25:05,050 --> 00:25:07,050
+["SERVANT"]
+I know not, sir.
+ຂ້ອຍບໍ່ຮູ້ເດີເດີເດີ.
+
+344
+00:25:07,550 --> 00:25:13,550
+["ROMEO"]
+O, she doth teach the torches to burn bright! It seems she hangs upon the cheek of night like a rich jewel in an Ethiop's ear; beauty too rich for use, for earth too dear!
+ໂອ້, ນາງສອນແສງໄຟໃຫ້ເຜົາໄຫມ້ແສງສະຫວ່າງ! ມັນເບິ່ງຄືວ່ານາງຕິດຢູ່ເທິງກະຕ່າຂອງຄືນຄືກັບເຄື່ອງປະດັບທີ່ອຸດົມສົມບູນໃນຫູຂອງເອທິໂອເປຍ
+; ຄວາມງາມທີ່ຮັ່ງມີເກີນໄປ ສໍາ ລັບການໃຊ້, ສໍາ ລັບໂລກທີ່ຮັກແພງເກີນໄປ!
+
+345
+00:25:14,050 --> 00:25:20,050
+["ROMEO"]
+Did my heart love till now? Forswear it, sight! For I ne'er saw true beauty till this night.
+ຫົວໃຈຂອງຂ້ອຍຮັກຈົນຮອດປະຈຸບັນບໍ? ສາບານໂຕມັນ, ເບິ່ງ!
+ເພາະວ່າຂ້ອຍບໍ່ເຄີຍເຫັນຄວາມງາມທີ່ແທ້ຈິງຈົນຮອດຄືນນີ້.
+
+346
+00:25:20,550 --> 00:25:22,550
+[YOUNG ELIZABETH]
+My lord of Oxford.
+ເຈົ້າຂອງຂ້ອຍຈາກໂອກສຟອດ.
+
+347
+00:25:23,050 --> 00:25:28,300
+[YOUNG ELIZABETH]
+We liked your play tonight very much. Your young King Henry reminded us of you.
+ພວກເຮົາມັກບົດສະແດງຂອງທ່ານໃນຄືນນີ້ຫຼາຍ.
+ກະສັດເອນຣີຫນຸ່ມຂອງທ່ານໄດ້ເຕືອນພວກເຮົາກ່ຽວກັບທ່ານ.
+
+348
+00:25:28,800 --> 00:25:30,800
+[OXFORD]
+Did he?
+ລາວເຮັດບໍ?
+
+349
+00:25:31,300 --> 00:25:37,250
+[YOUNG ELIZABETH]
+Rash, yet brave. A boy-- and yet a man. Fair on the eyes, fairer to the ear...
+ໂຣຊສ໌, ເຖິງແມ່ນວ່າກ້າຫານ. ເດັກຊາຍ -
+ແລະເຖິງຢ່າງໃດກໍ່ຕາມຜູ້ຊາຍ. ງາມໃນຕາ, ງາມກວ່າໃນຫູ...
+
+350
+00:25:37,750 --> 00:25:43,750
+[YOUNG ELIZABETH]
+We are glad of your return from the continent. Two years is far too long to be without such excellent amusements.
+ພວກເຮົາດີໃຈທີ່ເຈົ້າກັບມາຈາກທະວີບ.
+ສອງປີແມ່ນຍາວເກີນໄປທີ່ຈະບໍ່ມີຄວາມມ່ວນຊື່ນທີ່ດີເລີດເຊັ່ນນັ້ນ.
+
+351
+00:25:44,250 --> 00:25:50,250
+[YOUNG OXFORD]
+If I had known my absence would cause your grace so much... longing, I would have returned much-- much-- sooner.
+ຖ້າຂ້ອຍຮູ້ວ່າການຂາດຂອງຂ້ອຍຈະເຮັດໃຫ້ຄວາມເມດຕາຂອງທ່ານຫຼາຍ
+... ຄວາມປາຖະຫນາ, ຂ້ອຍຈະກັບມາຫຼາຍ - ຫຼາຍ - ກ່ອນ.
+
+352
+00:25:50,750 --> 00:25:55,650
+[YOUNG ELIZABETH]
+Your wife must be much pleased by your presence once more at her side...
+ເມຍຂອງທ່ານຕ້ອງມີຄວາມສຸກຫຼາຍຕໍ່ການມີຢູ່ຂອງທ່ານອີກເທື່ອຫນຶ່ງຢູ່ຂ້າງນາງ
+...
+
+353
+00:25:56,150 --> 00:26:02,150
+[YOUNG OXFORD]
+If she is, it is but a small comfort to me. I am returned only under my father-in-law's insistence.
+ຖ້ານາງເປັນ, ມັນເປັນພຽງແຕ່ຄວາມສະບາຍໃຈນ້ອຍໆ ສໍາ ລັບຂ້ອຍ.
+ຂ້ອຍຖືກກັບຄືນມາພຽງແຕ່ພາຍໃຕ້ການຢືນຢັນຂອງພໍ່ຕູ້ຂອງຂ້ອຍເທົ່ານັ້ນ.
+
+354
+00:26:02,650 --> 00:26:06,150
+[YOUNG ELIZABETH]
+Cecil had told me your match was one of love.
+ເຊຊີລ ໄດ້ບອກຂ້ອຍວ່າການແຂ່ງຂັນຂອງທ່ານແມ່ນ ຫນຶ່ງ ໃນຄວາມຮັກ.
+
+355
+00:26:06,650 --> 00:26:12,650
+[YOUNG OXFORD]
+And so he would wish.  But how could one ever love the moon, after having first seen the sun?
+ແລະດັ່ງນັ້ນລາວຈະຢາກ. ແຕ່ຄົນໃດສາມາດຮັກດວງຈັນໄດ້ແນວໃດ
+, ຫຼັງຈາກທີ່ເຫັນແສງຕາເວັນຄັ້ງທໍາອິດ?
+
+356
+00:26:13,150 --> 00:26:15,150
+[WILLIAM CECIL]
+Where is her majesty?
+ເຈົ້າຂອງນາງຢູ່ໃສ?
+
+357
+00:26:15,650 --> 00:26:19,500
+[BESSIE]
+My lord. Her majesty went riding with the Earl of Oxford.
+ເຈົ້າຂອງຂ້ອຍ. ພຣະເຈົ້າຂອງນາງໄດ້ໄປຂີ່ລົດກັບ Earl ຂອງໂອກສຟອດ.
+
+358
+00:26:20,000 --> 00:26:24,550
+[YOUNG ELIZABETH]
+And which country did you like the most on your travels, my lord?
+ແລະປະເທດໃດທີ່ທ່ານມັກທີ່ສຸດໃນການເດີນທາງຂອງທ່ານ
+, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ?
+
+359
+00:26:25,050 --> 00:26:27,050
+[YOUNG OXFORD]
+I think Italy, your grace.
+ຂ້ອຍຄິດວ່າອີຕາລີ, ພຣະເຈົ້າ.
+
+360
+00:26:27,550 --> 00:26:30,350
+[YOUNG ELIZABETH]
+And why is that? The weather?       The food?
+ແລະເປັນຫຍັງນັ້ນ? ສະພາບອາກາດ? ອາຫານ?
+
+361
+00:26:30,850 --> 00:26:35,750
+[YOUNG OXFORD]
+No their theater, which they call la Commedia dell'arte. And, of course, the women.
+ບໍ່ເປັນໂຮງລະຄອນຂອງພວກເຂົາ, ເຊິ່ງພວກເຂົາເອີ້ນວ່າ
+La Commedia dell'art. ແລະແນ່ນອນ, ແມ່ຍິງ.
+
+362
+00:26:36,250 --> 00:26:38,250
+[YOUNG ELIZABETH]
+The women?
+ແມ່ຍິງບໍ?
+
+363
+00:26:38,750 --> 00:26:44,750
+[YOUNG OXFORD]
+They were more... clear with their desires than our English ladies. When they want something, they take it. They do not wait to be taken...
+ພວກເຂົາມີຄວາມສະອາດຫຼາຍ... ກັບຄວາມປາຖະຫນາຂອງພວກເຂົາກ່ວາແມ່ຍິງອັງກິດຂອງພວກເຮົາ.
+ເມື່ອພວກເຂົາຕ້ອງການບາງສິ່ງບາງຢ່າງ, ພວກເຂົາເອົາມັນ. ພວກເຂົາບໍ່ລໍຖ້າທີ່ຈະຖືກເອົາ...
+
+364
+00:26:45,250 --> 00:26:49,800
+[YOUNG ELIZABETH]
+I can't decide. Are you Prince Hal...? Or Romeo? No. Benedick, maybe...? No--
+ຂ້ອຍບໍ່ສາມາດຕັດສິນໃຈໄດ້. ເຈົ້າເປັນເຈົ້າຊາຍຮາລບໍ
+...? ຫຼືໂຣເມໂອບໍ? ບໍ່. ເບນເດິກ, ບາງທີ...? ບໍ່ -
+
+365
+00:26:50,300 --> 00:26:52,300
+[YOUNG ELIZABETH]
+--Puck
+- ພັຄ
+
+366
+00:26:52,800 --> 00:26:54,800
+[YOUNG OXFORD]
+Puck?
+ປັອກ?
+
+367
+00:26:55,300 --> 00:26:57,300
+[YOUNG ELIZABETH]
+Yes, Puck!
+ແມ່ນແລ້ວ, Puck!
+
+368
+00:26:57,800 --> 00:27:01,650
+[YOUNG OXFORD]
+Ah, but Puck would never fight for you in the Netherlands...
+ອາ, ແຕ່ Puck ຈະບໍ່ເຄີຍຕໍ່ສູ້ສໍາລັບເຈົ້າໃນປະເທດເນເທີແລນ...
+
+369
+00:27:02,150 --> 00:27:04,150
+[YOUNG ELIZABETH]
+The Netherlands?
+ເນເທີແລນບໍ?
+
+370
+00:27:04,650 --> 00:27:10,650
+[YOUNG OXFORD]
+Well, why not? It's an open secret on the continent that you support the rebels against Spain-- and that you are commissioning Englishmen to help their cause. Spain's loss is England's gain, is it not?
+ດີ, ເປັນຫຍັງບໍ່? ມັນເປັນຄວາມລັບທີ່ເປີດເຜີຍໃນທະວີບທີ່ເຈົ້າສະຫນັບສະຫນູນພວກກະບົດຕໍ່ຕ້ານສະເປນ - ແລະວ່າເຈົ້າ
+ກໍາ ລັງມອບໃຫ້ຄົນອັງກິດຊ່ວຍເຫດຜົນຂອງພວກເຂົາ. ການສູນເສຍຂອງສະເປນແມ່ນຜົນປະໂຫຍດຂອງອັງກິດ, ແມ່ນບໍ?
+
+371
+00:27:11,150 --> 00:27:14,300
+[YOUNG ELIZABETH]
+Is this why you bedded me? For a commission?
+ນີ້ແມ່ນເຫດຜົນທີ່ເຈົ້ານອນຂ້ອຍບໍ? ເພື່ອຄະນະກໍາມະການບໍ?
+
+372
+00:27:14,800 --> 00:27:16,900
+[YOUNG OXFORD]
+No.   No-- of course not--    I--
+ບໍ່. ບໍ່ - ແນ່ນອນວ່າບໍ່ແມ່ນ - ຂ້ອຍ -
+
+373
+00:27:17,400 --> 00:27:19,400
+[YOUNG ELIZABETH]
+Leave me.    Leave at once!
+ໃຫ້ຂ້ອຍໄປ. ອອກໄປທັນທີ!
+
+374
+00:27:19,900 --> 00:27:21,900
+[YOUNG OXFORD]
+Bess--
+ເບສສ໌...
+
+375
+00:27:22,400 --> 00:27:26,950
+[YOUNG ELIZABETH]
+How dare you! How dare you!! I command you to leave my presence.
+ເຈົ້າກ້າຫານແນວໃດ! ເຈົ້າກະລຸນາແນວໃດ!!
+ຂ້ອຍສັ່ງເຈົ້າໃຫ້ອອກຈາກການຢູ່ອາໄສຂອງຂ້ອຍ.
+
+376
+00:27:27,450 --> 00:27:33,450
+[YOUNG OXFORD]
+O Mistress mine, where are you roaming? O stay and hear... your true-love's coming, That can--  --kiss both high and low...
+ໂອ້ ແມ່ຍິງຂອງຂ້ອຍ, ເຈົ້າ ກໍາ ລັງຍ່າງຢູ່ໃສ? ໂອ້ ຢູ່ແລະຟັງ...
+ຄວາມຮັກທີ່ແທ້ຈິງຂອງທ່ານ ກໍາ ລັງມາ, ທີ່ສາມາດ - - ຈູບທັງສູງແລະຕໍ່າ...
+
+377
+00:27:33,950 --> 00:27:35,950
+[YOUNG OXFORD]
+Trip no further, pretty sweeting....
+ການເດີນທາງບໍ່ຕໍ່ໄປ, ງາມຫຼາຍ....
+
+378
+00:27:36,450 --> 00:27:40,300
+[YOUNG OXFORD]
+Journeys end in lovers' meeting-- Every wise man's son doth know.
+ການເດີນທາງສິ້ນສຸດລົງໃນການພົບປະຂອງຄົນຮັກ
+- ລູກຊາຍຂອງຜູ້ຊາຍທີ່ສະຫຼາດທຸກຄົນຮູ້.
+
+379
+00:27:40,800 --> 00:27:46,750
+[YOUNG OXFORD]
+What is love? 'tis not hereafter; Present mirth hath present laughter; What's to come is still unsure:
+ຄວາມຮັກແມ່ນຫຍັງ? ມັນບໍ່ແມ່ນໃນອະນາຄົດ;
+ຄວາມສຸກປະຈຸບັນມີຄວາມມ່ວນຊື່ນປະຈຸບັນ; ສິ່ງທີ່ຈະມາເຖິງຍັງບໍ່ແນ່ໃຈ:
+
+380
+00:27:47,250 --> 00:27:53,200
+[YOUNG OXFORD]
+In delay there lies no plenty-- Then come kiss me, Sweet-and-twenty, Youth's a stuff will not endure.
+ໃນການຊັກຊ້າບໍ່ມີຄວາມອຸດົມສົມບູນ - ຫຼັງຈາກນັ້ນມາຈູບຂ້ອຍ,
+Sweet- ແລະສິບ, ຊາວຫນຸ່ມແມ່ນສິ່ງບາງຢ່າງທີ່ຈະບໍ່ທົນທານໄດ້.
+
+381
+00:27:53,700 --> 00:27:56,850
+[YOUNG ELIZABETH]
+You will stay in England... And in... my chambers...
+ເຈົ້າຈະຢູ່ອັງກິດ... ແລະໃນ... ຫ້ອງຂອງຂ້ອຍ...
+
+382
+00:27:57,350 --> 00:28:00,150
+[NASHE]
+I could do it if I wanted to...
+ຂ້ອຍສາມາດເຮັດໄດ້ຖ້າຂ້ອຍຢາກ...
+
+383
+00:28:00,650 --> 00:28:02,650
+[MARLOWE]
+Do what?
+ເຮັດຫຍັງ?
+
+384
+00:28:03,150 --> 00:28:07,350
+[NASHE]
+A play in iambic, in iambic pen...in- bic-pentameter. It's not that hard.
+ການສະແດງໃນພາສາຍາມບິກ, ໃນກະທູ້ຍໍາບິກ.
+.. ໃນ - bi-pentameter. ມັນບໍ່ຍາກຫຼາຍ.
+
+385
+00:28:07,850 --> 00:28:10,300
+[JONSON]
+Think you so? Have you ever tried?
+ເຈົ້າຄິດດັ່ງນັ້ນບໍ? ເຈົ້າເຄີຍພະຍາຍາມບໍ?
+
+386
+00:28:10,800 --> 00:28:13,950
+[NASHE]
+Of course not. But I could if I wanted...
+ແນ່ນອນວ່າບໍ່ແມ່ນ. ແຕ່ຂ້ອຍສາມາດເຮັດໄດ້ຖ້າຂ້ອຍຢາກ...
+
+387
+00:28:14,450 --> 00:28:16,450
+[DEKKER]
+It wasn't all in verse.
+ມັນບໍ່ແມ່ນທັງ ຫມົດ ໃນຂໍ້ຄວາມ.
+
+388
+00:28:16,950 --> 00:28:18,950
+[NASHE]
+Ha!   See!   Even easier!
+Ha! ເບິ່ງ! ງ່າຍກວ່າເກົ່າ!
+
+389
+00:28:19,450 --> 00:28:25,050
+[SHAKESPEARE]
+Henslowe wants "Romeo" to run a fortnight.  A fortnight! Innkeeper! A round for everybody! Inkeeper!!  Billy!!!
+ເຮນສລູຢາກໃຫ້"ໂຣເມໂອ" ແລ່ນເປັນເວລາສິບສອງອາທິດ. ສອງສາມອາທິດ
+! ເຈົ້າຂອງໂຮງແຮມ! ຮອບ ສໍາ ລັບທຸກຄົນ! ຜູ້ຮັກສາ!! ບີລີ!!!
+
+390
+00:28:25,550 --> 00:28:27,550
+[NASHE]
+A fortnight?
+ສອງສາມອາທິດບໍ?
+
+391
+00:28:28,050 --> 00:28:30,150
+[DEKKER]
+The maids love the romantic tragedies.
+ແມ່ຍິງມັກໂຊກຮ້າຍທາງຄວາມຮັກ.
+
+392
+00:28:30,650 --> 00:28:32,650
+[MARLOWE]
+Precisely why I avoid them.
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍຫຼີກເວັ້ນພວກມັນ.
+
+393
+00:28:33,150 --> 00:28:38,400
+[NASHE]
+Aw, well. No worries. A one-trick pony. He'll never be able to do it again.
+ໂອ້, ດີ. ບໍ່ຕ້ອງກັງວົນ. ໂປນີທີ່ມີກະຕຸ້ນດຽວ
+. ລາວຈະບໍ່ເຮັດໄດ້ອີກເທື່ອຫນຶ່ງ.
+
+394
+00:28:38,900 --> 00:28:44,900
+["POLONIUS"]
+...Beware of entrance to a quarrel, but being in, bear it that the opposed may beware of thee. Give every man thy ear, but few thy voice, take each man's censure, but reserve thy judgment....
+ລະມັດລະວັງການເຂົ້າໄປໃນການຂັດແຍ່ງ, ແຕ່ຢູ່ໃນ, ທົນມັນເພື່ອໃຫ້ຄົນກົງກັນຂ້າມສາມາດລະມັດຣະວັງເຈົ້າໄດ້.
+ໃຫ້ຄົນທຸກຄົນຫູຂອງທ່ານ, ແຕ່ສຽງຂອງທ່ານຫນ້ອຍຫນຶ່ງ, ເອົາການວິພາກວິຈານຂອງຜູ້ຊາຍແຕ່ລະຄົນ, ແຕ່ຮັກສາການຕັດສິນໃຈຂອງທ່ານ....
+
+395
+00:28:45,400 --> 00:28:51,400
+["POLINOUS"]
+....Costly thy habit as thy purse can buy, but not expressed in fancy, rich, nor gaudy, for the apparel oft proclaims the man. This above all, to thine own self be true.
+.... ເຄື່ອງນຸ່ງຫົ່ມຂອງເຈົ້າທີ່ມີລາຄາແພງເທົ່າທີ່ກະເປົາເງິນຂອງທ່ານສາມາດຊື້ໄດ້, ແຕ່ບໍ່ໄດ້ສະແດງອອກໃນຄວາມສວຍງາມ,
+ອຸດົມສົມບູນ, ຫຼືສົດໃສ, ສໍາລັບເຄື່ອງນຸ້ງຫົ່ມມັກຈະປະກາດຜູ້ຊາຍ. ນີ້ແມ່ນສູງສຸດຂອງທັງຫມົດ, ກັບຕົວເອງຂອງທ່ານແມ່ນຄວາມຈິງ.
+
+396
+00:28:51,900 --> 00:28:55,750
+["GERTRUDE"]
+What wilt thou do? Thou wilt not murder me? Help, ho!
+ເຈົ້າຈະເຮັດຫຍັງ? ເຈົ້າຈະບໍ່ຂ້າຂ້ອຍບໍ? ຊ່ວຍເຫຼືອ, ໂຮ!
+
+397
+00:28:56,250 --> 00:28:58,250
+["POLONIUS"]
+What ho, help!
+ໂຮ້, ຊ່ວຍເຫຼືອ!
+
+398
+00:28:58,750 --> 00:29:01,900
+["HAMLET"]
+How now?   A rat? Dead, for a ducat, dead!
+ດຽວນີ້ແນວໃດ? ແມວ? ຕາຍແລ້ວ, ສໍາລັບ ducat, ຕາຍແລ້ວ!
+
+399
+00:29:02,400 --> 00:29:04,400
+["POLONIUS"]
+O, I am slain.
+ໂອ້, ຂ້ອຍຖືກຂ້າຕາຍແລ້ວ.
+
+400
+00:29:04,900 --> 00:29:07,700
+[GROUNDLING]
+Not a day too soon for old Cecil!!
+ບໍ່ເປັນມື້ໄວເກີນໄປ ສໍາ ລັບເຊຊີລເກົ່າ!!
+
+401
+00:29:08,200 --> 00:29:10,300
+["GERTRUDE"]
+O me, what hast thou done?
+ໂອ້ ຂ້ອຍ, ເຈົ້າເຮັດຫຍັງ?
+
+402
+00:29:10,800 --> 00:29:13,600
+["HAMLET"]
+Nay, I know not. Is it the King?
+ບໍ່, ຂ້ອຍບໍ່ຮູ້. ມັນແມ່ນກະສັດບໍ?
+
+403
+00:29:14,100 --> 00:29:20,100
+["HAMLET"]
+Thou wretched, rash, intruding fool, farewell! I took thee for thy better: take thy fortune; Thou find'st to be too busy is some danger. Leave wringing of your hands: peace! sit you down, And let me wring your heart; for so I shall, If it be made of penetrable stuff, If damned custom have not brass'd it so That it is proof and bulwark against sense.
+ເຈົ້າໂຊກຮ້າຍ, ກະທັນຫັນ, ຄົນໂງ່ທີ່ເຂົ້າມາ, ສະບາຍດີ! ຂ້ອຍເອົາເຈົ້າໃຫ້ດີກວ່າເຈົ້າ: ເອົາຊັບສິນຂອງທ່ານ; ເຈົ້າພົບວ່າມີວຽກເຮັດງານທໍາຫຼາຍເກີນໄປແມ່ນອັນຕະລາຍບາງຢ່າງ. ໃຫ້ການສັ່ນສະເທືອນມືຂອງທ່ານ
+: ສັນຕິພາບ! ນັ່ງລົງ, ແລະປ່ອຍໃຫ້ຂ້ອຍສົດໃສຫົວໃຈຂອງທ່ານ; ສໍາລັບດັ່ງນັ້ນຂ້ອຍຈະ, ຖ້າມັນຖືກເຮັດດ້ວຍວັດຖຸທີ່ສາມາດເຂົ້າເຖິງໄດ້, ຖ້າປະເພນີທີ່ສໍ້ໂກງບໍ່ໄດ້ສີດໍາມັນເພື່ອວ່າມັນເປັນຫຼັກຖານແລະ
+
+404
+00:29:20,600 --> 00:29:26,600
+["HAMLET"]
+To be, or not to be: that is the question: whether `tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them...
+ການເປັນ, ຫຼືບໍ່ເປັນ: ນັ້ນແມ່ນ ຄໍາ ຖາມ: ວ່າ `tis noble ໃນຈິດໃຈທີ່ຈະທົນທົນກັບກະທູ້ແລະປືນຂອງຊັບສິນທີ່ໂຊກຮ້າຍ
+, ຫຼືທີ່ຈະເອົາອາວຸດຕໍ່ຕ້ານທະເລຂອງຄວາມຫຍຸ້ງຍາກ, ແລະໂດຍການຕໍ່ຕ້ານສິ້ນສຸດພວກມັນ...
+
+405
+00:29:27,100 --> 00:29:33,100
+["HAMLET']
+...To die, to sleep- no more- and by a sleep to say we end the heartache, and the thousand natural shocks that flesh is heir to...
+... ເພື່ອຕາຍ, ເພື່ອນອນ - ບໍ່ອີກຕໍ່ໄປ - ແລະໂດຍນອນເພື່ອເວົ້າວ່າພວກເຮົາສິ້ນສຸດຄວາມເຈັບປວດຂອງຫົວໃຈ
+, ແລະການຢອກຊື່ໆ ທໍາ ມະຊາດພັນທີ່ຊີ້ນເປັນຜູ້ສືບທອດຂອງ...
+
+406
+00:29:33,600 --> 00:29:36,750
+[POLE]
+Are you certain of this?  William Cecil was murdered?
+ເຈົ້າແນ່ໃຈບໍ? ວິລຍາມ ເຊຊີລຖືກຄາດຕະກໍາບໍ?
+
+407
+00:29:37,250 --> 00:29:43,250
+[MARLOWE]
+Not literally, of course. He was a character, a fictional character. But the metaphor was clear for anyone to see. And see, they did.
+ບໍ່ເປັນຕົວຈິງແນ່ນອນ. ລາວເປັນຕົວລະຄອນ, ຕົວລະຄອນຈິນຕະນາການ.
+ແຕ່ຕົວແບບແມ່ນຈະແຈ້ງ ສໍາ ລັບທຸກຄົນທີ່ຈະເຫັນ. ແລະເບິ່ງ, ພວກເຂົາເຮັດ.
+
+408
+00:29:43,750 --> 00:29:45,750
+[MARLOWE]
+Will you shut it down?
+ເຈົ້າຈະປິດມັນບໍ?
+
+409
+00:29:46,250 --> 00:29:48,700
+[POLE]
+That is not for me to decide...
+ນັ້ນບໍ່ແມ່ນຂ້ອຍທີ່ຈະຕັດສິນໃຈ...
+
+410
+00:29:49,200 --> 00:29:52,700
+[POLE]
+Your service to his lordship is once again greatly appreciated.
+ການບໍລິການຂອງທ່ານຕໍ່ຜູ້ເປັນເຈົ້າຂອງລາວແມ່ນຍ້ອງຍໍຫຼາຍອີກຄັ້ງ.
+
+411
+00:29:53,200 --> 00:29:55,200
+[ROBERT CECIL]
+He butchered you!
+ລາວໄດ້ຂ້າເຈົ້າ!
+
+412
+00:29:55,700 --> 00:30:01,700
+[ROBERT CECIL]
+Not only in front of Court! But the entire City as well! We must arrest this Shakespeare and-
+ບໍ່ພຽງແຕ່ຢູ່ຕໍ່ຫນ້າສານເທົ່ານັ້ນ! ແຕ່ເມືອງທັງ
+ຫມົດ ເຊັ່ນກັນ! ພວກເຮົາຕ້ອງຈັບແຊກເປີຄົນນີ້ແລະ -
+
+413
+00:30:02,200 --> 00:30:08,200
+[WILLIAM CECIL]
+No, Robert, think. If he is really as popular as you say, we would only anger the mob. No. We must strike at Edward directly.
+ບໍ່, ໂຣເບີດ, ຄິດ. ຖ້າລາວເປັນທີ່ນິຍົມຫຼາຍເທົ່າທີ່ທ່ານເວົ້າ,
+ພວກເຮົາພຽງແຕ່ຈະໂຊກຮ້າຍກຸ່ມຄົນຮ້າຍເທົ່ານັ້ນ. ບໍ່. ພວກເຮົາຕ້ອງໂຈມຕີເອດວາດໂດຍກົງ.
+
+414
+00:30:08,700 --> 00:30:13,250
+[ROBERT CECIL]
+But we cannot maintain our authority if the mob thinks us laughing stocks--
+ແຕ່ພວກເຮົາບໍ່ສາມາດຮັກສາອໍານາດຂອງພວກເຮົາໄດ້ຖ້າພວກໂຊກຮ້າຍຄິດວ່າພວກເຮົາ
+ກໍາ ລັງມ່ວນຊື່ນ -
+
+415
+00:30:13,750 --> 00:30:19,000
+[WILLIAM CECIL]
+Our authority comes from Elizabeth and from God! Elizabeth! Elizabeth is the key to all.
+ອໍານາດຂອງພວກເຮົາມາຈາກເອລີຊາເບັດແລະຈາກພຣະເຈົ້າ
+! ເອລີຊາບິດ! ເອລິຊາເບີດແມ່ນປຸ່ມ ສໍາ ລັບທຸກຄົນ.
+
+416
+00:30:19,500 --> 00:30:25,500
+[WILLIAM CECIL]
+Robert... You must think deeper. You must compensate. Compensate for your... malformations... with the gifts God did grant you... With cunning. With ruthlessness.
+ໂຣເບີດ... ເຈົ້າຕ້ອງຄິດຢ່າງເລິກເຊິ່ງກວ່າເກົ່າ. ເຈົ້າຕ້ອງຊົດເຊີຍ. ຊົດ ເຊີຍ ສໍາ ລັບ...
+ຄວາມຜິດປົກກະຕິຂອງທ່ານ... ດ້ວຍຂອງຂວັນທີ່ພຣະເຈົ້າໄດ້ໃຫ້ເຈົ້າ... ດ້ວຍຄວາມກະຕຸ້ນ. ດ້ວຍຄວາມໂຊກຮ້າຍ.
+
+417
+00:30:26,000 --> 00:30:28,000
+[WILLIAM CECIL]
+From King James of Scotland.
+ຈາກກະສັດເຈມສ໌ຂອງສະກອດແລນ.
+
+418
+00:30:28,500 --> 00:30:34,500
+[WILLIAM CECIL]
+James knows of the Queen's affection for Essex... and the rumors of his birth. He is justly concerned.  You will reply to him.
+ເຈມສ໌ຮູ້ກ່ຽວກັບຄວາມຮັກຂອງລາຊິນີຕໍ່ເອສເຊັກສ໌...
+ແລະຂ່າວລືກ່ຽວກັບການເກີດຂອງລາວ. ລາວກັງວົນຢ່າງຖືກຕ້ອງ. ເຈົ້າຈະຕອບລາວ.
+
+419
+00:30:35,000 --> 00:30:37,000
+[ROBERT CECIL]
+I will reply to him?
+ຂ້ອຍຈະຕອບລາວບໍ?
+
+420
+00:30:37,500 --> 00:30:43,500
+[WILLIAM CECIL]
+I am dying, Robert--  We both know this to be true. And I will not witness the next coronation.
+ຂ້ອຍ ກໍາ ລັງຕາຍ, ໂຣເບີດ - ພວກເຮົາທັງສອງຮູ້ວ່າສິ່ງນີ້ເປັນຄວາມຈິງ
+. ແລະຂ້ອຍຈະບໍ່ເປັນພະຍານການສັກສີຄັ້ງຕໍ່ໄປ.
+
+421
+00:30:44,000 --> 00:30:50,000
+[WILLIAM CECIL]
+Help me to my bed, my son.  If we are to secure your place at the side of the next king, you must get that king his throne, not I.
+ຊ່ວຍຂ້ອຍໄປຕຽງຂອງຂ້ອຍ, ລູກຊາຍຂອງຂ້ອຍ. ຖ້າພວກເຮົາຈະຮັບປະກັນບ່ອນຂອງທ່ານຢູ່ຂ້າງກະສັດຕໍ່ໄປ
+, ເຈົ້າຕ້ອງໄດ້ຮັບກະສັດນັ້ນອານາຈັກຂອງລາວ, ບໍ່ແມ່ນຂ້ອຍ.
+
+422
+00:30:50,500 --> 00:30:56,500
+[WILLIAM CECIL]
+You will write to James that I am gravely ill, but that all is in hand. Much of the Privy Council has already secretly agreed to his ascension to the English throne due to your tireless, but secret, entreaties on his behalf.  And then tell him Essex will not return from Ireland alive.
+ເຈົ້າຈະຂຽນໄປຫາເຈມສ໌ວ່າຂ້ອຍເຈັບປ່ວຍຢ່າງຮ້າຍແຮງ, ແຕ່ວ່າທຸກຢ່າງຢູ່ໃນມື. ສ່ວນໃຫຍ່ຂອງສະພາເອກະຊົນໄດ້ຕົກລົງກັນແລ້ວໃນຄວາມລັບໃນການຂຶ້ນສູ່ອານາຈັກອັງກິດຍ້ອນການຮ້ອງຂໍຂອງທ່ານທີ່ບໍ່ຢຸດຢັ້ງ
+, ແຕ່ຄວາມລັບ, ໃນນາມຂອງລາວ. ແລະຫຼັງຈາກນັ້ນບອກລາວວ່າເອສເຊສຈະບໍ່ກັບມາຈາກໄອແລນຊີວິດ.
+
+423
+00:30:57,000 --> 00:31:03,000
+[WILLIAM CECIL]
+This is how kings are made, Robert. So it was with Elizabeth, and so it shall ever be. There were many rival claims to her throne, but none survived to make their claim. James must know that you will do the same for him, and he will reward you for it.  But we must do one thing more...
+ນີ້ແມ່ນວິທີທີ່ກະສັດຖືກສ້າງຂຶ້ນ, ໂຣເບີດ. ສະນັ້ນມັນເປັນກັບເອລີຊາບິດ, ແລະດັ່ງນັ້ນມັນຈະເປັນໄປຕະຫຼອດໄປ. ມີການອ້າງເອົາຕໍາແຫນ່ງຂອງນາງຫຼາຍຢ່າງທີ່ແຂ່ງຂັນກັນ,
+ແຕ່ບໍ່ມີໃຜລອດຊີວິດເພື່ອອ້າງຄວາມຕ້ອງການຂອງພວກເຂົາ. ເຈມສ໌ຕ້ອງຮູ້ວ່າເຈົ້າຈະເຮັດຄືກັນ ສໍາ ລັບລາວ, ແລະລາວຈະຕອບແທນເຈົ້າ ສໍາ ລັບມັນ. ແຕ່ພວກເຮົາຕ້ອງເຮັດສິ່ງ ຫນຶ່ງ ອີກ...
+
+424
+00:31:03,500 --> 00:31:05,600
+[WILLIAM CECIL]
+Like Essex, Edward must be removed.
+ຄືກັບເອສເຊັກສ໌, ເອດວາດຕ້ອງຖືກຍົກເລີກ.
+
+425
+00:31:06,100 --> 00:31:08,100
+[ROBERT CECIL]
+Edward?
+ເອດວາດ?
+
+426
+00:31:08,600 --> 00:31:14,600
+[WILLIAM CECIL]
+He uses the tools at his disposal, as we use the tools at ours. But ours will win... as they always have.
+ລາວໃຊ້ເຄື່ອງມືທີ່ລາວສາມາດໃຊ້ໄດ້, ເຊັ່ນດຽວກັນກັບພວກເຮົານໍາໃຊ້ເຄື່ອງມືໃນຂອງພວກເຮົາ
+. ແຕ່ຂອງພວກເຮົາຈະຊະນະ... ດັ່ງທີ່ພວກເຂົາເຄີຍເຮັດຢູ່ສະເຫມີ.
+
+427
+00:31:15,100 --> 00:31:17,900
+[ROBERT CECIL]
+I-- I don't understand, father.    What does Edward--
+ຂ້ອຍ - ຂ້ອຍບໍ່ເຂົ້າໃຈ, ພໍ່. ເອດວາດເຮັດຫຍັງ -
+
+428
+00:31:18,400 --> 00:31:21,900
+[WILLIAM CECIL]
+Edward seeks what we seek.   To choose the next King.
+ເອດວາດ ກໍາ ລັງຊອກຫາສິ່ງທີ່ພວກເຮົາ ກໍາ
+ລັງຊອກຫາມັນ. ເພື່ອເລືອກກະສັດຕໍ່ໄປ.
+
+429
+00:31:22,400 --> 00:31:24,400
+[YOUNG ELIZABETH]
+I am with child...
+ຂ້ອຍຖືພາລູກ...
+
+430
+00:31:24,900 --> 00:31:26,900
+[WILLIAM CECIL]
+Are you certain?
+ເຈົ້າແນ່ໃຈບໍ?
+
+431
+00:31:27,400 --> 00:31:29,500
+[BESSIE]
+Two cycles have passed, my lord.
+ສອງວົງຈອນໄດ້ຜ່ານໄປແລ້ວ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ.
+
+432
+00:31:30,000 --> 00:31:32,000
+[YOUNG ELIZABETH]
+I wish to marry him...
+ຂ້ອຍຢາກແຕ່ງງານລາວ...
+
+433
+00:31:32,500 --> 00:31:35,300
+[WILLIAM CECIL]
+Marry him, your grace? He is already married.
+ແຕ່ງງານລາວ, ພຣະເຈົ້າ? ລາວແຕ່ງງານແລ້ວ.
+
+434
+00:31:35,800 --> 00:31:37,900
+[YOUNG ELIZABETH]
+I can do what I will.
+ຂ້ອຍສາມາດເຮັດໄດ້ຕາມທີ່ຂ້ອຍຕ້ອງການ.
+
+435
+00:31:38,400 --> 00:31:40,400
+[WILLIAM CECIL]
+Can you?
+ເຈົ້າເຮັດໄດ້ບໍ?
+
+436
+00:31:40,900 --> 00:31:46,900
+[WILLIAM CECIL]
+Most of the Catholic princes of Europe wish to topple you and end your Protestant reign... The only things that stop them are the channel, and the hope that they might marry you, and thereby achieve your realm through other means.
+ເຈົ້າຊາຍຄາໂຕລິກສ່ວນໃຫຍ່ຂອງເອີຣົບຢາກເອົາເຈົ້າລົງແລະສິ້ນສຸດການປົກຄອງໂປຣຕິສຖານຂອງທ່ານ... ສິ່ງດຽວທີ່ຢຸດພວກເຂົາແມ່ນຊ່ອງທາງ
+, ແລະຄວາມຫວັງວ່າພວກເຂົາອາດຈະແຕ່ງງານກັບເຈົ້າ, ແລະດັ່ງນັ້ນບັນລຸອານາຈັກຂອງທ່ານໂດຍວິທີອື່ນ.
+
+437
+00:31:47,400 --> 00:31:49,400
+[YOUNG ELIZABETH]
+I love him...
+ຂ້ອຍຮັກລາວ...
+
+438
+00:31:49,900 --> 00:31:54,450
+[WILLIAM CECIL]
+Would you risk your throne for him? Would you risk England for him?
+ເຈົ້າຈະສ່ຽງອານາຈັກຂອງທ່ານ ສໍາ ລັບລາວບໍ?
+ເຈົ້າຈະເປັນອັນຕະລາຍອັງກິດ ສໍາ ລັບລາວກບໍ?
+
+439
+00:31:54,950 --> 00:32:00,950
+[WILLIAM CECIL]
+We must do as we have done before... You must go on Progress, somewhere isolated, accompanied by only those whom you most trust.
+ພວກເຮົາຕ້ອງເຮັດຄືກັບທີ່ພວກເຮົາເຄີຍເຮັດກ່ອນ... ເຈົ້າຕ້ອງສືບຕໍ່ກ້າວຫນ້າ
+, ບາງບ່ອນທີ່ໂດດດ່ຽວ, ພ້ອມກັບພຽງແຕ່ຜູ້ທີ່ເຈົ້າເຊື່ອໃຈທີ່ສຸດເທົ່ານັ້ນ.
+
+440
+00:32:01,450 --> 00:32:07,050
+[WILLIAM CECIL]
+After the birth, I will find a suitable house for the child to be reared in.
+ຫຼັງຈາກການເກີດ, ຂ້ອຍຈະຊອກຫາເຮືອນທີ່ເຫມາະສົມ
+ສໍາ ລັບເດັກນ້ອຍທີ່ຈະໄດ້ຮັບການລ້ຽງດູໃນ.
+
+441
+00:32:07,550 --> 00:32:09,550
+[YOUNG ELIZABETH]
+And Edward?
+ແລະເອດວາດ?
+
+442
+00:32:10,050 --> 00:32:12,050
+[WILLIAM CECIL]
+He must never know.
+ລາວບໍ່ຄວນຮູ້ເລີຍ.
+
+443
+00:32:12,550 --> 00:32:14,550
+[YOUNG OXFORD]
+What have you done?
+ເຈົ້າເຮັດຫຍັງແລ້ວ?
+
+444
+00:32:15,050 --> 00:32:17,050
+[WILLIAM CECIL]
+I am praying.
+ຂ້ອຍກໍາລັງອະທິຖານ.
+
+445
+00:32:17,550 --> 00:32:23,550
+[YOUNG OXFORD]
+She won't see me! I've gone to her chambers three times, and she will not receive me. And now she's gone!
+ນາງຈະບໍ່ເຫັນຂ້ອຍ! ຂ້ອຍໄດ້ໄປຫ້ອງຂອງນາງສາມຄັ້ງແລ້ວ
+, ແລະນາງຈະບໍ່ຮັບຂ້ອຍ. ແລະດຽວນີ້ນາງໄປແລ້ວ!
+
+446
+00:32:24,050 --> 00:32:26,050
+[WILLIAM CECIL]
+She's on Progress.
+ນາງຢູ່ໃນ Progress.
+
+447
+00:32:26,550 --> 00:32:28,550
+[YOUNG OXFORD]
+Where?   Where did she go?
+ນາງໄປໃສ?
+
+448
+00:32:29,050 --> 00:32:31,850
+[YOUNG OXFORD]
+What did you say to her? Tell me!
+ເຈົ້າບອກນາງຫຍັງ? ບອກຂ້ອຍ!
+
+449
+00:32:32,350 --> 00:32:38,350
+[WILLIAM CECIL]
+The Queen does not ask for my advice about matters of the heart, Edward. If she had, she hardly would have chosen you for her pleasure.
+ເຈົ້າຍິງບໍ່ຂໍຄໍາແນະນໍາຂອງຂ້ອຍກ່ຽວກັບເລື່ອງຂອງຫົວໃຈ, ເອດວາດ
+. ຖ້ານາງມີ, ນາງເກືອບຈະບໍ່ເລືອກເຈົ້າ ສໍາ ລັບຄວາມສຸກຂອງນາງ.
+
+450
+00:32:38,850 --> 00:32:44,850
+[WILLIAM CECIL]
+You must have known her eye would move elsewhere, Edward. It always has. You are neither the first, nor the last, of her lovers.
+ເຈົ້າຕ້ອງຮູ້ວ່າຕາຂອງນາງຈະຍ້າຍໄປບ່ອນອື່ນ, ເອດວາດ. ມັນມີຢູ່ສະເຫມີ
+. ເຈົ້າບໍ່ແມ່ນຄົນ ທໍາ ອິດ, ຫຼືຄົນສຸດທ້າຍ, ຂອງຄົນຮັກຂອງນາງ.
+
+451
+00:32:45,350 --> 00:32:51,350
+[WILLIAM CECIL]
+Go back to my daughter, Edward. She will accept you with open arms, as she always has. Behave as your great title demands you behave. Tend to your estates, your investments.  And make me a grandson, an heir!
+ກັບຄືນໄປບ່ອນລູກສາວຂອງຂ້ອຍ, ເອດວາດ. ນາງຈະຍອມຮັບເຈົ້າດ້ວຍແຂນເປີດ, ດັ່ງທີ່ນາງເຄີຍເຮັດຢູ່ສະເຫມີ.
+ປະພຶດຕາມທີ່ຫົວຂໍ້ທີ່ຍິ່ງໃຫຍ່ຂອງທ່ານຮຽກຮ້ອງໃຫ້ເຈົ້າປະພຶດ. ເບິ່ງແຍງຊັບສິນຂອງທ່ານ, ການລົງທືນຂອງທ່ານ. ແລະເຮັດໃຫ້ຂ້ອຍເປັນລູກຫຼານ, ຜູ້ສືບທອດ!
+
+452
+00:32:51,850 --> 00:32:55,700
+[MARLOWE]
+It's difficult to write, isn't it? After watching something like "Hamlet"...
+ມັນຍາກທີ່ຈະຂຽນ, ແມ່ນບໍ?
+ຫຼັງຈາກເບິ່ງບາງສິ່ງບາງຢ່າງເຊັ່ນວ່າ"ແຮມເລັດ"...
+
+453
+00:32:56,200 --> 00:33:01,800
+[MARLOWE]
+I've seen you watch him. Will. During a performance. It eats at you... at your soul...
+ຂ້ອຍເຫັນເຈົ້າເບິ່ງລາວແລ້ວ. ວີລ. ໃນລະຫວ່າງການສະແດງ
+. ມັນກິນເຈົ້າ... ໃນຈິດວິນຍານຂອງທ່ານ...
+
+454
+00:33:02,300 --> 00:33:08,300
+[MARLOWE]
+Why do you think Will hasn't been arrested? You or I make the slightest joke about a nobleman of no consequence, and we find ourselves in a cell quicker than a fart spreads in the trade winds. Will-- he murders a caricature of old William Cecil himself, and still whores all the way to Westminster and back.
+ເຈົ້າຄິດວ່າເປັນຫຍັງວິນລ໌ບໍ່ໄດ້ຖືກຈັບກຸມ? ເຈົ້າຫຼືຂ້ອຍເຮັດຢອກຊື່ໆ ແຊງ ຫນ້ອຍ ທີ່ສຸດກ່ຽວກັບຄົນສູງສຸດທີ່ບໍ່ມີຜົນກະທົບ, ແລະພວກເຮົາພົບຕົວເອງໃນຄຸກໄວກວ່າການແຜ່ກະຈາຍຂອງ
+fart ໃນລົມການຄ້າ. ວິນ - ລາວຄາດຕະກໍາຮູບກາຣີກາຕູນຂອງວິກິລາມ ເຊຊີລເກົ່າຕົວເອງ, ແລະຍັງໂສດຈົນຮອດເວສຕິນສເຕີແລະກັບຄືນໄປບ່ອນ.
+
+455
+00:33:08,800 --> 00:33:10,800
+[JONSON]
+Perhaps they haven't noticed..
+ບາງທີພວກເຂົາບໍ່ໄດ້ສັງເກດເຫັນ..
+
+456
+00:33:11,300 --> 00:33:13,300
+[MARLOWE]
+I made sure they did...
+ຂ້ອຍແນ່ໃຈວ່າພວກເຂົາເຮັດ...
+
+457
+00:33:13,800 --> 00:33:17,300
+[JONSON]
+You informed on one of your own?   To the Tower?
+ເຈົ້າແຈ້ງໃຫ້ຮູ້ກ່ຽວກັບຄົນຂອງເຈົ້າເອງບໍ? ໄປຫໍ?
+
+458
+00:33:17,800 --> 00:33:23,800
+[MARLOWE]
+Watch who you judge, Ben, for as God is my witness, you may well find yourself doing the same before you meet your maker. We do what we have to, to survive, and survive well, in this life. All of us. And Will is definitely not one of us. You know he's illiterate, don't you?
+ເບິ່ງແຍງວ່າເຈົ້າຕັດສິນໃຈໃຜ, ແບນ, ເພາະວ່າພຣະເຈົ້າເປັນພະຍານຂອງຂ້ອຍ, ເຈົ້າອາດຈະພົບຕົວເອງເຮັດຄືກັນກ່ອນທີ່ທ່ານຈະພົບກັບຜູ້ສ້າງຂອງທ່ານ. ພວກເຮົາເຮັດສິ່ງທີ່ພວກເຮົາຕ້ອງເຮັດ
+, ເພື່ອຢູ່ລອດ, ແລະ ດໍາ ລົງຊີວິດດີ, ໃນຊີວິດນີ້. ພວກເຮົາທຸກຄົນ. ແລະວິນລ໌ແນ່ນອນບໍ່ແມ່ນ ຫນຶ່ງ ໃນພວກເຮົາ. ເຈົ້າຮູ້ວ່າລາວບໍ່ຮູ້ ຫນັງ ສື, ແມ່ນບໍ?
+
+459
+00:33:24,300 --> 00:33:30,300
+[MARLOWE]
+No? Oh, he can read well enough-- how else could he learn his lines? But the man never actually learned to form his letters.
+ບໍ່? ໂອ້, ລາວສາມາດອ່ານໄດ້ດີພໍສົມຄວນ - ລາວສາມາດຮຽນຮູ້ສາຍຂອງລາວໄດ້ແນວໃດອີກຢ່າງອື່ນ
+? ແຕ່ຜູ້ຊາຍບໍ່ເຄີຍຮຽນຮູ້ການສ້າງຕົວອັກສອນຂອງລາວແທ້ໆ.
+
+460
+00:33:30,800 --> 00:33:32,800
+[JONSON]
+Why are you here, Kit?
+ເຈົ້າຢູ່ບ່ອນນີ້ເປັນຫຍັງ, ຄິດ?
+
+461
+00:33:33,300 --> 00:33:37,850
+[MARLOWE]
+So who did write it? You?   No.    You'd take credit for it. No...
+ສະນັ້ນໃຜຂຽນມັນ? ເຈົ້າ? ບໍ່.
+ເຈົ້າຈະເອົາຄວາມຍ້ອງຍໍ ສໍາ ລັບມັນ. ບໍ່...
+
+462
+00:33:38,350 --> 00:33:44,350
+[MARLOWE]
+It must be someone who wants their anonymity protected. Someone who might even pay to have it protected.
+ມັນຕ້ອງເປັນຄົນໃດທີ່ຢາກໃຫ້ຄວາມບໍ່ຮູ້ຕົວຂອງພວກເຂົາຖືກປົກປ້ອງ
+. ບາງຄົນທີ່ອາດຈະຈ່າຍເງິນເພື່ອໃຫ້ມັນຖືກປົກປັກຮັກສາ.
+
+463
+00:33:44,850 --> 00:33:46,850
+[MARLOWE]
+A nobleman.
+ເປັນຄົນສູງສຸດ.
+
+464
+00:33:47,350 --> 00:33:49,800
+[MARLOWE]
+But which?    You know, don't you, Ben?
+ແຕ່ອັນໃດ? ເຈົ້າຮູ້ແລ້ວ, ແມ່ນບໍ, ແບນ?
+
+465
+00:33:50,300 --> 00:33:55,900
+[JONSON]
+You've had too much to drink, Kit. You're beginning to sound like one of your plays.
+ເຈົ້າດື່ມຫຼາຍເກີນໄປ, ຄິດ. ເຈົ້າ ກໍາ
+ລັງເລີ່ມສຽງຄືກັບ ຫນຶ່ງ ໃນບົດສະແດງຂອງທ່ານ.
+
+466
+00:33:56,400 --> 00:34:01,650
+[MARLOWE]
+Ben! Tell me. We can go to him together. Guarantee his anonymity... for a price.
+ແບນ! ບອກຂ້ອຍ. ພວກເຮົາສາມາດໄປຫາລາວຮ່ວມກັນໄດ້
+. ຮັບປະກັນຄວາມບໍ່ຮູ້ຕົວຂອງລາວ... ສໍາລັບລາຄາ.
+
+467
+00:34:02,150 --> 00:34:08,150
+[JONSON]
+You reported on me as well, didn't you, Kit? Last year. That's why I was arrested, wasn't it? Because you went to the Tower?
+ເຈົ້າໄດ້ລາຍງານກ່ຽວກັບຂ້ອຍເຊັ່ນກັນ, ແມ່ນບໍ, ຄິດ? ປີທີ່ຜ່ານມາ
+. ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍຖືກຈັບກຸມ, ແມ່ນບໍ່? ເພາະວ່າເຈົ້າໄປຫໍ?
+
+468
+00:34:08,650 --> 00:34:11,800
+[MARLOWE]
+Ben, Ben... I had nothing to do with that.
+ແບນແບນ... ຂ້ອຍບໍ່ມີຫຍັງກ່ຽວຂ້ອງກັບເລື່ອງນັ້ນ.
+
+469
+00:34:12,300 --> 00:34:18,300
+[MARLOWE]
+Ben-- I'll just go to Will! He'll tell me because he has so much more to lose than you. Fame. Fortune. And you'll profit nothing from it. Nothing!
+ແບນ - ຂ້ອຍພຽງແຕ່ຈະໄປຫາວິນລ໌! ລາວຈະບອກຂ້ອຍເພາະວ່າລາວມີຫຼາຍຢ່າງທີ່ຈະສູນເສຍຫຼາຍກ່ວາເຈົ້າ
+. ຊື່ສຽງ. ໂຊກດີ. ແລະເຈົ້າຈະບໍ່ໄດ້ຮັບຜົນປະໂຫຍດຫຍັງຈາກມັນ. ບໍ່ມີຫຍັງເລີຍ!
+
+470
+00:34:18,800 --> 00:34:24,750
+[ESSEX]
+If the Rebels have stripped the northern borders... Then we must march south... and take Cahir Castle...
+ຖ້າພວກກະບົດໄດ້ເອົາຊາຍແດນທາງພາກເຫນືອ...
+ຫຼັງຈາກນັ້ນພວກເຮົາຕ້ອງເດີນຂະບວນທາງທິດໃຕ້... ແລະເອົາ Castle Cahir...
+
+471
+00:34:25,250 --> 00:34:29,800
+[GENERAL]
+My lord. `Tis a well-defended fortress.    Two thousand men at least. We cannot--
+ເຈົ້າຂອງຂ້ອຍ. ` ນີ້ແມ່ນກໍາປູເຈຍທີ່ປົກປ້ອງຢ່າງດີ
+. ຜູ້ຊາຍສອງພັນຄົນຢ່າງຫນ້ອຍ. ພວກເຮົາບໍ່ສາມາດ -
+
+472
+00:34:30,300 --> 00:34:36,300
+[ESSEX]
+So what would you have me do? Spend the entire spring encamped? I am sent to Ireland to end this infernal rebellion, not idle my days with--
+ສະນັ້ນເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ? ໃຊ້ເວລາພາກຮຽນ spring ທັງ ຫມົດ ໃນຄ້າຍ?
+ຂ້ອຍຖືກສົ່ງໄປໄອແລນເພື່ອສິ້ນສຸດການກະບົດທີ່ຮ້າຍແຮງນີ້, ບໍ່ແມ່ນການຫວ່າງງານມື້ຂອງຂ້ອຍກັບ -
+
+473
+00:34:36,800 --> 00:34:38,800
+[SOUTHAMPTON]
+Robert!
+ໂຣເບີດ!
+
+474
+00:34:39,300 --> 00:34:41,300
+[BEAULIEU]
+Point!
+ຈຸດ!
+
+475
+00:34:41,800 --> 00:34:44,600
+[OXFORD]
+Bien. Faisons du travail... le Coup droit d'autorit�?
+ດີ. ພວກເຮົາເຮັດວຽກ... ການໂຈມຕີສິດອໍານາດບໍ?
+
+476
+00:34:45,100 --> 00:34:47,100
+[BEAULIE]
+Mais oui, mon seigneur.
+ແຕ່ແມ່ນແລ້ວ, ພຣະເຈົ້າຂອງຂ້ອຍ.
+
+477
+00:34:47,600 --> 00:34:49,600
+[OXFORD]
+Bien.    En garde!
+ດີ. ລະວັງ!
+
+478
+00:34:50,100 --> 00:34:52,100
+[OXFORD]
+Qu'est ce que vous faites?
+ເຈົ້າເຮັດຫຍັງ?
+
+479
+00:34:52,600 --> 00:34:54,600
+[OXFORD]
+Beaulieu?    Beaulieu?!
+ບູລີໂອ? ບູລິໂອ?!
+
+480
+00:34:55,100 --> 00:34:57,100
+[FRANCESCO]
+Signor?    Signor?!
+ເຈົ້າ? ເຈົ້າ?!
+
+481
+00:34:57,600 --> 00:35:00,050
+[FRANCESCO]
+Signor? Mio dio! Signor! What has happened--
+ເຈົ້າ? ພຣະເຈົ້າຂອງຂ້ອຍ! ເຈົ້າ! ເກີດຫຍັງຂຶ້ນ -
+
+482
+00:35:00,550 --> 00:35:03,000
+[OXFORD]
+Beaulieu-- he, he tried to kill me...
+ບູລີໂອ - ລາວ, ລາວພະຍາຍາມຂ້າຂ້ອຍ...
+
+483
+00:35:03,500 --> 00:35:05,500
+[JONSON]
+What's all that, then?
+ຫຼັງຈາກນັ້ນສິ່ງທັງ ຫມົດ ນັ້ນແມ່ນຫຍັງ?
+
+484
+00:35:06,000 --> 00:35:08,000
+[MAN]
+A body...
+ສົບ...
+
+485
+00:35:08,500 --> 00:35:13,050
+[MAN]
+Must have been a cut-purse. Nowhere's bloody safe anymore, I'll tell you that...
+ມັນຕ້ອງເປັນກະເປົາຕັດ. ບໍ່ມີບ່ອນໃດທີ່ປອດໄພອີກແລ້ວ
+, ຂ້ອຍຈະບອກເຈົ້າວ່າ...
+
+486
+00:35:13,550 --> 00:35:19,500
+[BEAR BAITER]
+Sampson! Sired by the great Arthur himself! No dog's yet been bred that can take him down!
+ແຊມຊອນ! ຖືກສ້າງຂື້ນໂດຍແອດເຕີທີ່ຍິ່ງໃຫຍ່ເອງ!
+ບໍ່ມີຫມາໃດທີ່ຍັງຖືກລ້ຽງໄດ້ທີ່ສາມາດເອົາລາວລົງໄດ້!
+
+487
+00:35:20,000 --> 00:35:22,000
+[SHAKESPEARE]
+I need more money.
+ຂ້ອຍຕ້ອງການເງິນຫຼາຍຂຶ້ນ.
+
+488
+00:35:22,500 --> 00:35:25,650
+[JONSON]
+More--? You already make more than any playwright Bankside.
+ຫຼາຍກວ່າ -? ເຈົ້າໄດ້ເງິນຫຼາຍກ່ວານັກຂຽນລະຄອນໃດໆໃນແບນຊີດແລ້ວ.
+
+489
+00:35:26,150 --> 00:35:32,150
+[BEAR BAITER]
+But then here, good friends, I bring you a pack of dogs so fierce, so dangerous, that Medusa herself would shrink in fear!
+ແຕ່ຫຼັງຈາກນັ້ນຢູ່ນີ້, ເພື່ອນມິດທີ່ດີ, ຂ້ອຍເອົາຫມາທີ່ຮ້າຍແຮງຫຼາຍ
+, ອັນຕະລາຍຫຼາຍ, ທີ່ Medusa ເອງຈະຫຼຸດລົງຈາກຄວາມຢ້ານກົວ!
+
+490
+00:35:32,650 --> 00:35:38,250
+[SHAKESPEARE]
+I'm going to build my own theater, Ben, one that fits the scale of my work--
+ຂ້ອຍຈະສ້າງໂຮງລະຄອນຂອງຂ້ອຍເອງ, ແບນ, ຫນຶ່ງ
+ທີ່ ເຫມາະ ສົມກັບຂະຫນາດຂອງການເຮັດວຽກຂອງຂ້ອຍ -
+
+491
+00:35:38,750 --> 00:35:40,750
+[JONSON]
+Your work?
+ວຽກງານຂອງທ່ານບໍ?
+
+492
+00:35:41,250 --> 00:35:47,250
+[BEAR BAITER]
+Not a one has had a morsel of food in a week! Bred by the great John Sinclow!
+ບໍ່ມີໃຜກິນອາຫານຢ່າງດຽວໃນອາທິດນີ້!
+ຖືກລ້ຽງໂດຍຈອນ ຊິນຄລູທີ່ຍິ່ງໃຫຍ່!
+
+493
+00:35:47,750 --> 00:35:49,750
+[A MAN]
+Fourpence on three dogs!
+ສີ່ເງິນຕໍ່ຫມາສາມຄົນ!
+
+494
+00:35:50,250 --> 00:35:53,400
+[SHAKESPEARE]
+They insist only a gentleman can own the land.
+ພວກເຂົາຢືນຢັນວ່າພຽງແຕ່ຜູ້ຊາຍເທົ່ານັ້ນທີ່ສາມາດເປັນເຈົ້າຂອງດິນໄດ້.
+
+495
+00:35:53,900 --> 00:35:55,900
+[ANOTHER MAN]
+A shilling on four!
+ຊິນລິງໃນສີ່!
+
+496
+00:35:56,400 --> 00:36:02,400
+[SHAKESPEARE]
+The bribes are outrageous, but I found some one who will make me a coat-of-arms, and change the Stratford lists for me.
+ການສໍ້ໂກງແມ່ນໂຊກຮ້າຍຫຼາຍ, ແຕ່ຂ້ອຍໄດ້ພົບຄົນໃດຫນຶ່ງທີ່ຈະເຮັດໃຫ້ຂ້ອຍເປັນກະທູ້ອາວຸດ
+, ແລະປ່ຽນລາຍຊື່ສຕຣາດຟອດ ສໍາ ລັບຂ້ອຍ.
+
+497
+00:36:02,900 --> 00:36:04,900
+[JONSON]
+Impossible.
+ບໍ່ເປັນໄປໄດ້.
+
+498
+00:36:05,400 --> 00:36:08,900
+[ANOTHER MAN]
+Eight shillings on six dogs!   Eight shillings on six dogs!
+ແປດຊິນລິງໃສ່ຫົກຫມາ! ແປດສິນລິນໃສ່ຫ້ານາ!
+
+499
+00:36:09,400 --> 00:36:13,250
+[JONSON]
+I'll take that bet!!   Eight shillings on the bear, six dogs!
+ຂ້ອຍຈະເອົາການພະນັນນັ້ນ!! ແປດຊິນລິງໃສ່ແມວ, ຫມາຫົກ!
+
+500
+00:36:13,750 --> 00:36:15,750
+[ANOTHER MAN]
+Done!
+ເຮັດແລ້ວ!
+
+501
+00:36:16,250 --> 00:36:18,250
+[SHAKESPEARE]
+Bad bet, that.
+ການພະນັນທີ່ບໍ່ດີ, ນັ້ນ.
+
+502
+00:36:18,750 --> 00:36:23,650
+[JONSON]
+You'll have to make do with what you've got. I won't be your beggar.
+ເຈົ້າຕ້ອງພໍໃຈກັບສິ່ງທີ່ເຈົ້າມີ. ຂ້ອຍຈະບໍ່ເປັນຄົນຂໍທານຂອງເຈົ້າ.
+
+503
+00:36:24,150 --> 00:36:27,300
+[SHAKESPEARE]
+This isn't a request, Ben.   I'll have more money.
+ນີ້ແມ່ນບໍ່ແມ່ນຄໍາຮ້ອງຂໍ, ແບນ. ຂ້ອຍຈະມີເງິນຫຼາຍຂຶ້ນ.
+
+504
+00:36:27,800 --> 00:36:31,300
+[JONSON]
+Or what? You'll slit my throat like you did Kit's?
+ຫຼືຫຍັງ? ເຈົ້າຈະຕັດຄໍຂອງຂ້ອຍຄືກັບທີ່ເຈົ້າເຮັດກັບຄິດບໍ?
+
+505
+00:36:31,800 --> 00:36:33,900
+[MAN]
+Release the dogs!   Release the dogs!
+ປ່ອຍຫມາ! ປ່ອຍ ຫມາ!
+
+506
+00:36:34,400 --> 00:36:40,400
+[JONSON]
+I know he went to see you last night, Will. And I know he was planning to expose you if you didn't agree to his terms.
+ຂ້ອຍຮູ້ວ່າລາວໄປພົບເຈົ້າໃນມື້ວານນີ້, ວີລ. ແລະຂ້ອຍຮູ້ວ່າລາວ ກໍາ
+ລັງວາງແຜນທີ່ຈະເປີດເຜີຍເຈົ້າຖ້າເຈົ້າບໍ່ເຫັນດີກັບເງື່ອນໄຂຂອງລາວ.
+
+507
+00:36:40,900 --> 00:36:43,350
+[SHAKESPEARE]
+You're mad, Ben. Kit was my friend.
+ເຈົ້າໂຊກຮ້າຍແບນ. ຄິດເປັນເພື່ອນຂອງຂ້ອຍ.
+
+508
+00:36:43,850 --> 00:36:49,850
+[JONSON]
+Be careful, Will. You kill me off too, and you won't have any good plays to act in after this is all done.
+ລະມັດລະວັງ, ວີລ. ເຈົ້າຈະຂ້າຂ້ອຍອີກດ້ວຍ,
+ແລະເຈົ້າຈະບໍ່ມີບົດສະແດງທີ່ດີໃດໆທີ່ຈະສະແດງໃນຫຼັງຈາກສິ່ງນີ້ສໍາເລັດແລ້ວ.
+
+509
+00:36:50,350 --> 00:36:54,900
+[SHAKESPEARE]
+I'll have my guineas, Ben. One way or another, I'll have my guineas.
+ຂ້ອຍຈະເອົາກີເນຍຂອງຂ້ອຍ, ແບນ. ວິທີໃດກໍຕາມ, ຂ້ອຍຈະມີກີນີຂອງຂ້ອຍ.
+
+510
+00:36:55,400 --> 00:37:01,400
+[OXFORD]
+So! You are the famous Shakespeare whose labors I have enjoyed so much. I am at your service, sir.
+ສະນັ້ນ! ເຈົ້າເປັນແຊກເປີທີ່ມີຊື່ສຽງທີ່ຂ້ອຍໄດ້ເພີດເພີນກັບການເຮັດວຽກຫຼາຍ
+. ຂ້ອຍຢູ່ໃນບໍລິການຂອງທ່ານເດີ.
+
+511
+00:37:01,900 --> 00:37:04,350
+[SHAKESPEARE]
+My lord-- I- I need more money.
+ເຈົ້າຂອງຂ້ອຍ - ຂ້ອຍ - ຂ້ອຍຕ້ອງການເງິນຫຼາຍຂຶ້ນ.
+
+512
+00:37:04,850 --> 00:37:06,850
+[OXFORD]
+I beg your pardon?
+ຂ້ອຍຂໍໂທດບໍ?
+
+513
+00:37:07,350 --> 00:37:10,500
+[SHAKESPEARE]
+My expenses have, ah, aggrandized... since this all began.
+ຄ່າໃຊ້ຈ່າຍຂອງຂ້ອຍໄດ້, ອາ, ເພີ່ມຂຶ້ນ..
+. ນັບຕັ້ງແຕ່ສິ່ງທັງ ຫມົດ ນີ້ເລີ່ມຕົ້ນ.
+
+514
+00:37:11,000 --> 00:37:13,000
+[OXFORD]
+"Aggrandized"?
+"ຂະຫຍາຍຕົວ"?
+
+515
+00:37:13,500 --> 00:37:19,500
+[SHAKESPEARE]
+And if, if your lordship doesn't agree to an increase in my, ah, fee, I shall be forced to make certain... facts public.
+ແລະຖ້າ, ຖ້າເຈົ້າບໍ່ເຫັນດີຕໍ່ການເພີ່ມຄ່າທໍານຽມຂອງຂ້ອຍ
+, ອາ, ຂ້ອຍຈະຖືກບັງຄັບໃຫ້ເປີດເຜີຍຄວາມຈິງບາງຢ່າງ.
+
+516
+00:37:20,000 --> 00:37:23,150
+[FRANCESCO]
+Have you any idea to whom you are speaking?
+ເຈົ້າຮູ້ບໍ່ວ່າເຈົ້າເວົ້າກັບໃຜ?
+
+517
+00:37:23,650 --> 00:37:28,900
+[SHAKESPEARE]
+I am addressing the writer of Hamlet... of Juliet and her Romeo.   Am I not?
+ຂ້ອຍ ກໍາ ລັງເວົ້າກັບນັກຂຽນຂອງແຮມເລັດ
+... ຂອງຈູເລຍແລະໂຣເມໂອຂອງນາງ. ຂ້ອຍບໍ່?
+
+518
+00:37:29,400 --> 00:37:32,900
+[FRANCESCO]
+Out. Get out! How dare you insult my master in--
+ອອກໄປ. ອອກໄປ! ເຈົ້າກ້າຫານໂຊກຮ້າຍເຈົ້າຂອງຂ້ອຍແນວໃດໃນ...
+
+519
+00:37:33,400 --> 00:37:35,400
+[OXFORD]
+Wait!  How much?
+ລໍຖ້າ! ຫຼາຍປານໃດ?
+
+520
+00:37:35,900 --> 00:37:37,900
+[SHAKESPEARE]
+Four hundred pounds. A year.
+ສີ່ຮ້ອຍປອນ. ປີຫນຶ່ງ.
+
+521
+00:37:38,400 --> 00:37:40,400
+[FRANCESCO]
+A year?
+ປີຫນຶ່ງບໍ?
+
+522
+00:37:40,900 --> 00:37:42,900
+[OXFORD]
+Pay him.
+ຈ່າຍເງິນໃຫ້ລາວ.
+
+523
+00:37:43,400 --> 00:37:45,400
+[OXFORD]
+Pagalo!
+ປາກາໂລ!
+
+524
+00:37:45,900 --> 00:37:51,900
+[FRANCESCO]
+Forgive me for speaking of things above my place or understanding, signor. But... Is this wise? They have already tried to kill you once.
+ຂໍໂທດຂ້ອຍທີ່ເວົ້າກ່ຽວກັບສິ່ງຕ່າງໆທີ່ຢູ່ເທິງບ່ອນຂອງຂ້ອຍຫຼືຄວາມເຂົ້າໃຈ,
+ທ້າວ. ແຕ່... ນີ້ແມ່ນສະຫຼາດບໍ? ພວກເຂົາໄດ້ພະຍາຍາມຂ້າເຈົ້າແລ້ວຄັ້ງຫນຶ່ງ.
+
+525
+00:37:52,400 --> 00:37:55,900
+[OXFORD]
+Wisdom, Francesco, is a quality I have unfortunately never possessed...
+ຄວາມສະຫຼາດ, ຟຣານເຊສໂກ, ແມ່ນຄຸນນະພາບທີ່ຂ້ອຍບໍ່ເຄີຍມີໂຊກຮ້າຍ...
+
+526
+00:37:56,400 --> 00:38:00,950
+[BESSIE]
+Edward... You know she would be furious if she found out about this...
+ເອດວາດ... ເຈົ້າຮູ້ວ່ານາງຈະໂຊກຮ້າຍຖ້ານາງຮູ້ກ່ຽວກັບເລື່ອງນີ້...
+
+527
+00:38:01,450 --> 00:38:03,450
+[BESSIE]
+She still loves you.
+ນາງຍັງຮັກເຈົ້າຢູ່.
+
+528
+00:38:03,950 --> 00:38:05,950
+[YOUNG OXFORD]
+No.   She abandoned me.
+ບໍ່. ນາງໄດ້ປະຖິ້ມຂ້ອຍ.
+
+529
+00:38:06,450 --> 00:38:08,450
+[BESSIE]
+You don't know, do you?
+ເຈົ້າບໍ່ຮູ້, ແມ່ນບໍ?
+
+530
+00:38:08,950 --> 00:38:11,050
+[BESSIE]
+The Queen.   She had your child.
+ລາຊິນີ. ນາງມີລູກຂອງທ່ານ.
+
+531
+00:38:11,550 --> 00:38:14,700
+[WILLIAM CECIL]
+I cannot be certain, majesty, when the... relationship began.
+ຂ້ອຍບໍ່ສາມາດແນ່ໃຈໄດ້, ພຣະເຈົ້າ, ເມື່ອ... ຄວາມສໍາພັນເລີ່ມຕົ້ນ.
+
+532
+00:38:15,200 --> 00:38:18,000
+[WILLIAM CECIL]
+But sometime soon after your return to Court.
+ແຕ່ບາງຄັ້ງບໍ່ດົນຫຼັງຈາກເຈົ້າກັບຄືນໄປສານ.
+
+533
+00:38:18,500 --> 00:38:20,500
+[YOUNG ELIZABETH]
+You're sure?
+ເຈົ້າແນ່ໃຈບໍ?
+
+534
+00:38:21,000 --> 00:38:27,000
+[WILLIAM CECIL]
+They-- they haven't been very discreet, majesty. I presume he wanted you to know. To... to hurt you.
+ພວກເຂົາ - ພວກເຂົາບໍ່ໄດ້ມີຄວາມລະມັດລະວັງຫຼາຍ, ພຣະເຈົ້າ.
+ຂ້ອຍຄິດວ່າລາວຢາກໃຫ້ເຈົ້າຮູ້. ເພື່ອ... ເພື່ອເຮັດໃຫ້ເຈົ້າເຈັບປວດ.
+
+535
+00:38:27,500 --> 00:38:30,300
+[WILLIAM CECIL]
+Majesty, there is more. The lady is pregnant.
+ເຈົ້າສູງສຸດ, ມີອີກຫຼາຍຢ່າງ. ແມ່ຍິງຖືພາ.
+
+536
+00:38:30,800 --> 00:38:32,800
+[YOUNG ELIZABETH]
+Arrest them.    Arrest them both!
+ຈັບພວກມັນ. ຈັບທັງສອງ!
+
+537
+00:38:33,300 --> 00:38:35,400
+[WILLIAM CECIL]
+Your whore gave birth last week.
+ໂຊກຮ້າຍຂອງທ່ານໄດ້ເກີດລູກໃນອາທິດທີ່ຜ່ານມາ.
+
+538
+00:38:35,900 --> 00:38:41,900
+[WILLIAM CECIL]
+The Queen has decided to release you. It seems time does indeed heal all wounds.  These are her conditions for your release. One. You will not acknowledge the child. Two. You will never see the mother again. Three. You will avoid Court at all costs. Her majesty would prefer not to be reminded of you in any way ever again.
+ເຈົ້າຍິງໄດ້ຕັດສິນໃຈປ່ອຍເຈົ້າ. ມັນເບິ່ງຄືວ່າເວລາ ກໍາ ລັງປິ່ນປົວບາດເຈັບທັງ ຫມົດ ແທ້ໆ. ນີ້ແມ່ນເງື່ອນໄຂຂອງນາງ ສໍາ ລັບການປ່ອຍຕົວເຈົ້າ. ຫນຶ່ງ. ເຈົ້າຈະບໍ່ຍອມຮັບລູກ
+. ສອງ. ເຈົ້າຈະບໍ່ເຫັນແມ່ອີກເທື່ອຫນຶ່ງ. ສາມ. ທ່ານຈະຫຼີກເວັ້ນສານທຸກຄ່າໃຊ້ຈ່າຍ. ພຣະເຈົ້າຂອງນາງຈະມັກທີ່ຈະບໍ່ຖືກເຕືອນກ່ຽວກັບເຈົ້າໃນທາງໃດໆອີກຄັ້ງ.
+
+539
+00:38:42,400 --> 00:38:44,400
+[YOUNG OXFORD]
+Banished...?
+ຖືກຂັບໄລ່ບໍ?
+
+540
+00:38:44,900 --> 00:38:50,900
+[WILLIAM CECIL]
+No. You have the freedom of the kingdom. Just not of the Court.  Those are her terms. Here are mine. You will go back to my daughter. You will make some effort to make her happy and you will finally act according to your station in life, and accept the responsibilities of your great title.
+ບໍ່. ເຈົ້າມີເສລີພາບຂອງລາຊະອານາຈັກ. ພຽງແຕ່ບໍ່ແມ່ນຂອງສານ. ນັ້ນແມ່ນເງື່ອນໄຂຂອງນາງ. ນີ້ແມ່ນຂອງຂ້ອຍ. ເຈົ້າຈະກັບຄືນໄປບ່ອນລູກສາວຂອງຂ້ອຍ.
+ທ່ານຈະພະຍາຍາມບາງຢ່າງເພື່ອເຮັດໃຫ້ນາງມີຄວາມສຸກແລະໃນທີ່ສຸດເຈົ້າຈະປະຕິບັດຕາມສະຖານະການຂອງທ່ານໃນຊີວິດ, ແລະຍອມຮັບຄວາມຮັບຜິດຊອບຂອງຫົວຂໍ້ທີ່ຍິ່ງໃຫຍ່ຂອງທ່ານ.
+
+541
+00:38:51,400 --> 00:38:53,850
+[YOUNG OXFORD]
+My lord!     I, too, have a condition.
+ເຈົ້າຂອງຂ້ອຍ! ຂ້ອຍຍັງມີເງື່ອນໄຂເຊັ່ນກັນ.
+
+542
+00:38:54,350 --> 00:38:59,950
+[YOUNG OXFORD]
+I will go back to your daughter if... You tell me the name of the child.
+ຂ້ອຍຈະກັບຄືນໄປບ່ອນລູກສາວຂອງທ່ານຖ້າ... ເຈົ້າບອກຂ້ອຍຊື່ຂອງເດັກນ້ອຍ.
+
+543
+00:39:00,450 --> 00:39:03,950
+[WILLIAM CECIL]
+I don't know if the whore has even delivered the--
+ຂ້ອຍບໍ່ຮູ້ວ່າໂຊກຮ້າຍໄດ້ສົ່ງ...
+
+544
+00:39:04,450 --> 00:39:06,450
+[YOUNG OXFORD]
+No.   The other one.
+ບໍ່. ຄົນອື່ນ.
+
+545
+00:39:06,950 --> 00:39:09,050
+[WILLIAM CECIL]
+The other one?  Who told you?
+ຄົນອື່ນບໍ? ໃຜບອກເຈົ້າ?
+
+546
+00:39:09,550 --> 00:39:15,550
+[YOUNG OXFORD]
+I will go back to your daughter. I will make you as many grandchildren as she can bare...
+ຂ້ອຍຈະກັບຄືນໄປບ່ອນລູກສາວຂອງທ່ານ.
+ຂ້ອຍຈະເຮັດໃຫ້ເຈົ້າມີລູກຫຼານຫຼາຍເທົ່າທີ່ນາງສາມາດຮັບໄດ້...
+
+547
+00:39:16,050 --> 00:39:18,050
+[YOUNG OXFORD]
+Or I can remain here...
+ຫຼືຂ້ອຍສາມາດຢູ່ບ່ອນນີ້ໄດ້...
+
+548
+00:39:18,550 --> 00:39:24,550
+[WILLIAM CECIL]
+There is no record of his true birth, no trail that leads to you, or the... mother. His foster parents never knew the truth, and both are now dead...
+ບໍ່ມີບັນທຶກກ່ຽວກັບການເກີດທີ່ແທ້ຈິງຂອງລາວ, ບໍ່ມີເສັ້ນທາງທີ່ນໍາໄປຫາເຈົ້າ,
+ຫຼື... ແມ່. ພໍ່ແມ່ Foster ລາວບໍ່ເຄີຍຮູ້ຄວາມຈິງ, ແລະທັງສອງດຽວນີ້ຕາຍແລ້ວ...
+
+549
+00:39:25,050 --> 00:39:27,050
+[YOUNG OXFORD]
+The name?
+ຊື່ບໍ?
+
+550
+00:39:27,550 --> 00:39:33,550
+[WILLIAM CECIL]
+Make even a hint of this to the child, or anyone else, and this agreement is void, and I'll see your head on the block within a fortnight. And the boy's as well.
+ໃຫ້ແນະນໍາເລື່ອງນີ້ເຖິງແມ່ນວ່າກັບເດັກນ້ອຍ, ຫຼືໃຜອື່ນ, ແລະຂໍ້ຕົກລົງນີ້ແມ່ນບໍ່ຖືກຕ້ອງ
+, ແລະຂ້ອຍຈະເຫັນຫົວຂອງທ່ານໃນບລັອກພາຍໃນສອງສາມອາທິດ. ແລະເດັກຊາຍເຊັ່ນກັນ.
+
+551
+00:39:34,050 --> 00:39:36,050
+[YOUNG OXFORD]
+It's a boy...?
+ມັນເປັນເດັກຊາຍບໍ?
+
+552
+00:39:36,550 --> 00:39:38,550
+[BOY]
+Hello...
+ສະບາຍດີ...
+
+553
+00:39:39,050 --> 00:39:41,050
+[YOUNG OXFORD]
+Hello.
+ສະບາຍດີ.
+
+554
+00:39:41,550 --> 00:39:43,650
+[YOUNG OXFORD]
+I'm Edward, the Earl of Oxford.
+ຂ້ອຍແມ່ນເອດວາດ, Earl ຂອງໂອກສຟອດ.
+
+555
+00:39:44,150 --> 00:39:46,150
+[BOY]
+My lord...
+ເຈົ້າຂອງຂ້ອຍ...
+
+556
+00:39:46,650 --> 00:39:50,850
+[YOUNG OXFORD]
+They tell me one day you're to be an Earl as well.
+ພວກເຂົາບອກຂ້ອຍວ່າມື້ຫນຶ່ງເຈົ້າຈະເປັນ Earl ເຊັ່ນກັນ.
+
+557
+00:39:51,350 --> 00:39:53,800
+[BOY]
+I shall be the Earl of Southampton.
+ຂ້ອຍຈະເປັນ Earl ຂອງ Southampton.
+
+558
+00:39:54,300 --> 00:39:57,450
+[YOUNG OXFORD]
+Well then, we shall be Earls together, shan't we?
+ດີແລ້ວ, ພວກເຮົາຈະເປັນເອຣລ໌ຮ່ວມກັນ, ແມ່ນບໍ?
+
+559
+00:39:57,950 --> 00:40:03,950
+[ARCHBISHOP]
+... In the sweat of thy face shalt thou eat bread, till thou return to the earth: for out of it wast thou taken, because thou art dust, and to dust shalt thou return...
+ເຈົ້າຈະກິນເຂົ້າຈີ່ດ້ວຍຫວານຂອງໃບຫນ້າຂອງເຈົ້າ, ຈົນກວ່າເຈົ້າຈະກັບຄືນສູ່ດິນ:
+ເພາະເຈົ້າຖືກເອົາຈາກມັນ, ເພາະວ່າເຈົ້າເປັນຝຸ່ນ, ແລະເຈົ້າຈະ ກັບຄືນໄປບ່ອນຝຸ່ນ...
+
+560
+00:40:04,450 --> 00:40:06,900
+[ELIZABETH]
+We wish to recall Essex from Ireland...
+ພວກເຮົາຢາກເອີ້ນເອສເຊສຈາກໄອແລນ...
+
+561
+00:40:07,400 --> 00:40:12,650
+[ELIZABETH]
+We feel a terrible void, now that your father is no longer at our side...
+ພວກເຮົາຮູ້ສຶກຄວາມຫວ່າງທີ່ຮ້າຍແຮງ,
+ດຽວນີ້ທີ່ພໍ່ຂອງທ່ານບໍ່ມີຢູ່ຂ້າງພວກເຮົາອີກແລ້ວ...
+
+562
+00:40:13,150 --> 00:40:19,150
+[ROBERT CECIL]
+A wise decision, your majesty. If nothing else, it will give him an opportunity to respond to all these rumors.
+ການຕັດສິນໃຈທີ່ສະຫຼາດ, ເຈົ້າສູງສຸດ. ຖ້າບໍ່ມີຫຍັງອີກ,
+ມັນຈະໃຫ້ລາວໂອກາດທີ່ຈະຕອບໂຕ້ກັບຂ່າວລືທັງ ຫມົດ ເຫຼົ່ານີ້.
+
+563
+00:40:19,650 --> 00:40:21,650
+[ELIZABETH]
+Rumors?
+ຂ່າວລື?
+
+564
+00:40:22,150 --> 00:40:24,600
+[ROBERT CECIL]
+I'm sorry, majesty, I thought you'd heard.
+ຂ້ອຍຂໍໂທດ, ເຈົ້າສູງສຸດ, ຂ້ອຍຄິດວ່າເຈົ້າໄດ້ຍິນແລ້ວ.
+
+565
+00:40:25,100 --> 00:40:27,100
+[ELIZABETH]
+Heard what?
+ໄດ້ຍິນຫຍັງ?
+
+566
+00:40:27,600 --> 00:40:30,400
+[ROBERT CECIL]
+Essex is in negotiations with Philip of Spain...
+ເອສເຊັກສ໌ ກໍາ ລັງເຈລະຈາກັບຟີລິບຂອງສະເປນ...
+
+567
+00:40:30,900 --> 00:40:33,350
+[ELIZABETH]
+Peace is at hand. We know this.
+ຄວາມສະຫງົບຢູ່ໃກ້ໆແລ້ວ. ພວກເຮົາຮູ້ເລື່ອງນີ້.
+
+568
+00:40:33,850 --> 00:40:39,450
+[ROBERT CECIL]
+Majesty-- it is said that Essex has promised Phillip all of Catholic Ireland in return for...
+ເຈົ້າສູງສຸດ - ມັນເວົ້າວ່າ ເອສເຊັກສ໌ໄດ້ສັນຍາໃຫ້ຟີລິບສ໌
+ອິນແລນຄາໂຕລິກທັງ ຫມົດ ໃນແລກປ່ຽນກັບ...
+
+569
+00:40:39,950 --> 00:40:41,950
+[ELIZABETH]
+In return for what?
+ໃນແລກປ່ຽນຫຍັງ?
+
+570
+00:40:42,450 --> 00:40:45,950
+[ROBERT CECIL]
+Spain's support of Essex's claim to the throne of England...
+ການສະຫນັບສະຫນູນຂອງສະເປນຕໍ່ການອ້າງເອົາອານາຈັກຂອງເອສເຊສສ໌ຂອງອັງກິດ
+...
+
+571
+00:40:46,450 --> 00:40:48,900
+[ROBERT CECIL]
+It is, as of yet, just rumor.
+ມັນເປັນ, ເຖິງປັດຈຸບັນ, ພຽງແຕ່ຂ່າວລື.
+
+572
+00:40:49,400 --> 00:40:53,250
+[ELIZABETH]
+Bring him to me, William.   Bring him to me at once!
+ເອົາລາວມາຫາຂ້ອຍ, ວິລຍາມ. ເອົາລາວໄປຫາຂ້ອຍທັນທີ!
+
+573
+00:40:53,750 --> 00:40:55,750
+[ROBERT CECIL]
+Robert, majesty.
+ໂຣເບີດ, ພຣະເຈົ້າ.
+
+574
+00:40:56,250 --> 00:41:00,100
+[ROBERT CECIL]
+My father's death has been a great loss for us all...
+ການຕາຍຂອງພໍ່ຂອງຂ້ອຍແມ່ນການສູນເສຍທີ່ຍິ່ງໃຫຍ່
+ສໍາ ລັບພວກເຮົາທຸກຄົນ...
+
+575
+00:41:00,600 --> 00:41:02,600
+[MESSENGER]
+My lord...
+ເຈົ້າຂອງຂ້ອຍ...
+
+576
+00:41:03,100 --> 00:41:05,100
+[SOUTHAMPTON]
+She can't believe this...
+ນາງບໍ່ເຊື່ອເລື່ອງນີ້...
+
+577
+00:41:05,600 --> 00:41:07,600
+[ESSEX]
+Oh, can't she?
+ໂອ້, ນາງບໍ່ສາມາດເຮັດໄດ້ບໍ?
+
+578
+00:41:08,100 --> 00:41:13,350
+[SOUTHAMPTON]
+It's Robert Cecil. He failed to kill you, now he tries to kill your name.
+ມັນເປັນໂຣເບີດ ເຊຊີລ. ລາວບໍ່ສາມາດຂ້າເຈົ້າໄດ້
+, ດຽວນີ້ລາວພະຍາຍາມຂ້າຊື່ເຈົ້າ.
+
+579
+00:41:13,850 --> 00:41:15,850
+[ESSEX]
+We leave with the tide!
+ພວກເຮົາອອກຈາກກັບສາຍໄຫຼ!
+
+580
+00:41:16,350 --> 00:41:18,350
+[SHAKESPEARE]
+Well, I've got it!
+ດີ, ຂ້ອຍໄດ້ມັນແລ້ວ!
+
+581
+00:41:18,850 --> 00:41:22,350
+[SHAKESPEARE]
+The herald just finished it not an hour ago.  Well?
+ຜູ້ປະກາດຫາກໍ່ສິ້ນສຸດມັນບໍ່ເກີນ ຫນຶ່ງ ຊົ່ວໂມງກ່ອນ. ດີບໍ?
+
+582
+00:41:22,850 --> 00:41:24,850
+[NASHE]
+It's quite... colorful.
+ມັນມີສີສັນຫຼາຍ.
+
+583
+00:41:25,350 --> 00:41:27,350
+[DEKKER]
+What in blazes is it?
+ມັນເປັນຫຍັງ?
+
+584
+00:41:27,850 --> 00:41:33,450
+[SHAKESPEARE]
+My coat-of-arms! It cost a bloody fortune, but, by god, you can call me gentleman now!
+ເຄື່ອງນຸ່ງຫົ່ມຂອງຂ້ອຍ! ມັນໃຊ້ຈ່າຍເງິນຫຼາຍ, ແຕ່,
+ໂດຍພຣະເຈົ້າ, ເຈົ້າສາມາດເອີ້ນຂ້ອຍວ່າຜູ້ຊາຍດຽວນີ້!
+
+585
+00:41:33,950 --> 00:41:37,450
+[DEKKER]
+I can't quite make out the motto... Non sanz... Non...
+ຂ້ອຍບໍ່ສາມາດເຂົ້າໃຈຄໍາແນະນໍາໄດ້... ບໍ່ຊານສ໌... ບໍ່...
+
+586
+00:41:37,950 --> 00:41:39,950
+[SHAKESPEARE]
+"Non sanz droict".
+ໂນນຊານດຣິກຕ໌.
+
+587
+00:41:40,450 --> 00:41:42,450
+[NASHE]
+Not without--
+ບໍ່ແມ່ນໂດຍບໍ່ມີ...
+
+588
+00:41:42,950 --> 00:41:48,900
+[JONSON]
+Right!? Not without right?  You went to him, didn't you? You lying knave-- you went to him!
+ແມ່ນບໍ!? ບໍ່ແມ່ນໂດຍບໍ່ມີສິດ? ເຈົ້າໄປຫາລາວ
+, ແມ່ນບໍ? ເຈົ້າໂຊກຮ້າຍຕົວະ - ເຈົ້າໄປລາວ!
+
+589
+00:41:49,400 --> 00:41:51,850
+[SHAKESPEARE]
+Ben.   Ben! Let me buy you a--
+ແບນແບນ! ຂໍໃຫ້ຂ້ອຍຊື້ເຈົ້າ...
+
+590
+00:41:52,350 --> 00:41:57,250
+[JONSON]
+What? You've already killed off one competitor. Now you want another dead as well?
+ຫຍັງ? ເຈົ້າໄດ້ຂ້າຄູ່ແຂ່ງຄົນຫນຶ່ງແລ້ວ.
+ດຽວນີ້ເຈົ້າຢາກມີຄົນຕາຍອີກຄົນຫນຶ່ງເຊັ່ນກັນບໍ?
+
+591
+00:41:57,750 --> 00:42:01,250
+[SHAKESPEARE]
+I don't know what you mean.   Ben, we should really--
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າຫມາຍຄວາມວ່າແນວໃດ. ແບນ, ພວກເຮົາຄວນ...
+
+592
+00:42:01,750 --> 00:42:07,750
+[JONSON]
+I swore to him I wouldn't tell you his name. Swore it! Do you have any idea what he might do to me? Do you?
+ຂ້ອຍສາບານໂຕວ່າຂ້ອຍຈະບໍ່ບອກເຈົ້າຊື່ຂອງລາວ. ສາບານໂຕມັນ!
+ເຈົ້າມີແນວຄິດວ່າລາວອາດຈະເຮັດຫຍັງກັບຂ້ອຍບໍ? ເຈົ້າເຮັດບໍ?
+
+593
+00:42:08,250 --> 00:42:11,750
+[JONSON]
+He's not even a writer you know. He can't even--
+ລາວບໍ່ແມ່ນນັກຂຽນທີ່ທ່ານຮູ້ຈັກເລີຍ. ລາວຍັງບໍ່ສາມາດ...
+
+594
+00:42:12,250 --> 00:42:14,700
+[SHAKESPEARE]
+Ben-- you've had too much to drink.
+ແບນ - ເຈົ້າດື່ມຫຼາຍເກີນໄປ.
+
+595
+00:42:15,200 --> 00:42:17,200
+[JONSON]
+Unhand me!
+ເອົາມືອອກຈາກຂ້ອຍ!
+
+596
+00:42:17,700 --> 00:42:19,700
+[JONSON]
+Here!  A quill! A quill!
+ມາແລ້ວ! ກະດານກະດານະດານາດານ!
+
+597
+00:42:20,200 --> 00:42:26,200
+[JONSON]
+Go on, Will. Write something for us. Now. Go on! Amaze us with your verse. Your wit! No? Try astounding us with the letter "E". Or an "I"-- it's just a straight line!
+ໄປຕໍ່ໄປ, ວີລ. ຂຽນບາງສິ່ງບາງຢ່າງ ສໍາ ລັບພວກເຮົາ. ດຽວນີ້. ໄປຕໍ່ໄປ! ເຮັດໃຫ້ພວກເຮົາແປກໃຈດ້ວຍຂໍ້ຄວາມຂອງທ່ານ.
+ຄວາມສະຫຼາດຂອງທ່ານ! ບໍ່? ພະຍາຍາມເຮັດໃຫ້ພວກເຮົາປະຫລາດໃຈດ້ວຍຕົວອັກສອນ"E". ຫຼື"ຂ້ອຍ" - ມັນແມ່ນພຽງແຕ່ເສັ້ນກົງ!
+
+598
+00:42:26,700 --> 00:42:28,700
+[SHAKESPEARE]
+You haven't got any ink.
+ເຈົ້າບໍ່ມີສີສັນໃດໆ.
+
+599
+00:42:29,200 --> 00:42:31,200
+[ESSEX]
+Wait for me.
+ລໍຖ້າຂ້ອຍ.
+
+600
+00:42:31,700 --> 00:42:33,700
+[ESSEX]
+Majesty, I, I...
+ເຈົ້າສູງສຸດ, ຂ້ອຍ, ຂ້ອຍ...
+
+601
+00:42:34,200 --> 00:42:36,200
+[ELIZABETH]
+Get out!   Out!!!
+ອອກໄປ! ອອກໄປ!!!
+
+602
+00:42:36,700 --> 00:42:38,700
+[ELIZABETH]
+The insolence!
+ຄວາມໂຊກຮ້າຍ!
+
+603
+00:42:39,200 --> 00:42:44,450
+[ELIZABETH]
+Who in God's name does he think he is? Abandoning his post without my leave!
+ລາວຄິດວ່າລາວເປັນໃຜ?
+ການປະຖິ້ມຕໍາແຫນ່ງຂອງລາວໂດຍບໍ່ມີການອະນຸຍາດຂອງຂ້ອຍ!
+
+604
+00:42:44,950 --> 00:42:50,950
+[ELIZABETH]
+Coming into our presence in such a manner, neither announced nor invited, half his army in my courtyard. He's gone mad... mad!
+ເຂົ້າມາຢູ່ໃນຄວາມເປັນຢູ່ຂອງພວກເຮົາໃນວິທີດັ່ງກ່າວ, ບໍ່ປະກາດຫຼືຖືກເຊີນ
+, ເຄິ່ງຫນຶ່ງຂອງກອງທັບຂອງລາວໃນເດີ່ນຂອງຂ້ອຍ. ລາວໄດ້ໂຊກຮ້າຍ... ຢອກຊື່ໆ!
+
+605
+00:42:51,450 --> 00:42:57,450
+[ROBERT CECIL]
+No. Unfortunately for us, your majesty, he is quite sane. He simply believes he is your royal equal.
+ບໍ່. ໂຊກຮ້າຍ ສໍາ ລັບພວກເຮົາ, ເຈົ້າສູງສຸດ, ລາວມີຄວາມສະບາຍໃຈຫຼາຍ.
+ລາວພຽງແຕ່ເຊື່ອວ່າລາວເປັນເທົ່າທຽມກັບເຈົ້າຂອງລາຊະອານາຈັກຂອງທ່ານ.
+
+606
+00:42:57,950 --> 00:43:00,050
+[OXFORD]
+I am Edward, Earl of Oxford.
+ຂ້ອຍແມ່ນເອດວາດ, Earl ຂອງໂອກສຟອດ.
+
+607
+00:43:00,550 --> 00:43:02,650
+[SOUTHAMPTON]
+Edward!   Edward! Thank god you're here.
+ເອດເວີດ! ເອດວີດ! ຂໍຂອບໃຈພຣະເຈົ້າວ່າເຈົ້າຢູ່ບ່ອນນີ້.
+
+608
+00:43:03,150 --> 00:43:09,150
+[SOUTHAMPTON]
+Elizabeth has revoked all of his royal licenses! She believes every lie Cecil tells about him.  Edward? What happened to your leg?
+ເອລີຊາບິດໄດ້ຍົກເລີກໃບອະນຸຍາດລາຊະອານາຈັກທັງ ຫມົດ ຂອງລາວ!
+ນາງເຊື່ອຄວາມຕົວະທຸກຢ່າງທີ່ເຊຊີລເວົ້າກ່ຽວກັບລາວ. ເອດວາດ? ເກີດຫຍັງຂຶ້ນກັບຕີນຂອງທ່ານ?
+
+609
+00:43:09,650 --> 00:43:11,650
+[OXFORD]
+Nothing.
+ບໍ່ມີຫຍັງເລີຍ.
+
+610
+00:43:12,150 --> 00:43:18,150
+[ESSEX]
+She won't accept my letters. I cannot get to her. Cecil plans to arrest me any day. I know it.  But that won't be as easy as he thinks.
+ນາງຈະບໍ່ຍອມຮັບຈົດຫມາຍຂອງຂ້ອຍ. ຂ້ອຍບໍ່ສາມາດໄປຫານາງໄດ້.
+ເຊຊີລວາງແຜນທີ່ຈະຈັບຂ້ອຍໃນມື້ໃດກໍ່ຕາມ. ຂ້ອຍຮູ້ມັນ. ແຕ່ມັນຈະບໍ່ງ່າຍເທົ່າທີ່ລາວຄິດ.
+
+611
+00:43:18,650 --> 00:43:24,650
+[OXFORD]
+Fight him in London, and you only validate every rumor and lie Cecil has ever told about you.
+ຕໍ່ສູ້ກັບລາວໃນລອນດອນ,
+ແລະເຈົ້າພຽງແຕ່ຢືນຢັນຂ່າວລືແລະຕົວະທຸກຢ່າງທີ່ເຊຊີລເຄີຍບອກກ່ຽວກັບເຈົ້າ.
+
+612
+00:43:25,150 --> 00:43:31,150
+[ESSEX]
+Then what do you suggest I do? Let myself be arrested so I can be tried and executed for crimes I did not commit?
+ຫຼັງຈາກນັ້ນເຈົ້າແນະ ນໍາ ໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+ໃຫ້ຕົວເອງຖືກຈັບກຸມເພື່ອໃຫ້ຂ້ອຍສາມາດຖືກພິພາກສາແລະຖືກປະຫານຊີວິດ ສໍາ ລັບອາຊະຍາກໍາທີ່ຂ້ອຍບໍ່ໄດ້ເຮັດ?
+
+613
+00:43:31,650 --> 00:43:34,450
+[OXFORD]
+No. I will go to Elizabeth, myself, alone--
+ບໍ່. ຂ້ອຍຈະໄປຫາເອລີຊາບິດ, ຕົວເອງ, ຄົນດຽວ -
+
+614
+00:43:34,950 --> 00:43:39,150
+[ESSEX]
+How? Cecil won't let her see a letter without reading it first.
+ວິທີໃດ? ເຊຊີລຈະບໍ່ປ່ອຍໃຫ້ນາງເຫັນຈົດຫມາຍໂດຍບໍ່ຕ້ອງອ່ານມັນກ່ອນ.
+
+615
+00:43:39,650 --> 00:43:43,850
+[OXFORD]
+I won't send her a letter.   I will send her a book.
+ຂ້ອຍຈະບໍ່ສົ່ງຈົດຫມາຍໃຫ້ນາງ. ຂ້ອຍຈະສົ່ງປື້ມໃຫ້ນາງ.
+
+616
+00:43:44,350 --> 00:43:50,350
+[OXFORD]
+She will call for me. And while I am with her, you will come-- not with an army, not with swords, but with her loyal subjects. The cobblers, the tinkers, the bricklayers of London.
+ນາງຈະໂທຫາຂ້ອຍ. ແລະໃນຂະນະທີ່ຂ້ອຍຢູ່ກັບນາງ, ເຈົ້າຈະມາ - ບໍ່ແມ່ນດ້ວຍກອງທັບ, ບໍ່ແມ່ນດ້ວຍກະທູ້
+, ແຕ່ກັບພຶດຕິກໍາທີ່ສັດຊື່ຂອງນາງ. ຜູ້ເຮັດຕີນ, ຜູ້ເຮັດເຄື່ອງ, ຜູ້ສ້າງຕີນຂອງລອນດອນ.
+
+617
+00:43:50,850 --> 00:43:56,850
+[OXFORD]
+All, all calling for Robert Cecil's banishment from Court. Words, Robert, words, will prevail with her, not swords.
+ທຸກຄົນ, ທຸກຄົນຮຽກຮ້ອງໃຫ້ໂຣເບີດ ເຊຊີລ ຖືກຂັບໄລ່ອອກຈາກສານ.
+ຄໍາ ເວົ້າ, ໂຮເບີດ, ຄໍາ ເວົ້າຈະປົກຄອງກັບນາງ, ບໍ່ແມ່ນກະທູ້.
+
+618
+00:43:57,350 --> 00:43:59,450
+[ESSEX]
+And the mob?    How will I--
+ແລະກຸ່ມຄົນຮ້າຍ? ຂ້ອຍຈະ...
+
+619
+00:43:59,950 --> 00:44:01,950
+[OXFORD]
+Leave that to me.
+ໃຫ້ມັນຢູ່ກັບຂ້ອຍ.
+
+620
+00:44:02,450 --> 00:44:04,900
+[FRANCESCO]
+Hold your tongue, whore, and get out!
+ຈັບປາກໄວ້, ຢອກຊື່ໆ ແຊກໂຊກ, ແລະອອກໄປ!
+
+621
+00:44:05,400 --> 00:44:07,400
+[FRANCESCO]
+Out, woman!
+ອອກໄປ, ແມ່ຍິງ!
+
+622
+00:44:07,900 --> 00:44:10,350
+[WHORE]
+Oi.   `Oo's going to pay me then?
+ໂອ້. ` ໂອ້ ຈະຈ່າຍເງິນໃຫ້ຂ້ອຍບໍ?
+
+623
+00:44:10,850 --> 00:44:16,850
+[OXFORD]
+You shall begin rehearsals immediately. But it is not to be performed until I tell you. And you may only have a day's notice.
+ເຈົ້າຈະເລີ່ມຕົ້ນການທົດລອງທັນທີ. ແຕ່ມັນຈະບໍ່ຖືກປະຕິບັດຈົນກວ່າຂ້ອຍຈະບອກເຈົ້າ
+. ແລະເຈົ້າອາດຈະມີແຈ້ງການພຽງແຕ່ມື້ດຽວເທົ່ານັ້ນ.
+
+624
+00:44:17,350 --> 00:44:22,600
+[SHAKESPEARE]
+That will be expensive-- keeping all the actors ready. Having the props made but not--
+ນັ້ນຈະເປັນລາຄາແພງ - ຮັກສານັກສະແດງທັງ ຫມົດ
+ພ້ອມແລ້ວ. ມີເຄື່ອງອຸປະກອນທີ່ເຮັດໄດ້ແຕ່ບໍ່ແມ່ນ -
+
+625
+00:44:23,100 --> 00:44:26,600
+[OXFORD]
+Oh, and congratulations. You've had an epic poem published today.
+ໂອ້, ແລະຊົມເຊີຍ. ເຈົ້າໄດ້ມີກະວີທີ່ຍິ່ງໃຫຍ່ທີ່ຖືກເຜີຍແຜ່ໃນມື້ນີ້.
+
+626
+00:44:27,100 --> 00:44:29,550
+[SHAKESPEARE]
+Published? You mean like in a book?
+ເຈົ້າຫມາຍຄວາມວ່າຄືກັບໃນປື້ມບໍ?
+
+627
+00:44:30,050 --> 00:44:36,050
+[SHAKESPEARE]
+`The boar!' quoth she; whereat a sudden pale, Like lawn being spread upon the blushing rose... Usurps her cheek; she trembles at his tale,
+` ຫມູຫມູ! ນາງເວົ້າ; ໃນຂະນະທີ່ສີຂາວກະທັນຫັນ, ຄືກັບຫຍ້າທີ່ຖືກແຜ່ກະຈາຍໃສ່ດອກໄມ້ສີແດງ
+... ຍຶດເອົາໃບຫນ້າຂອງນາງ; ນາງຢ້ານກົວຕໍ່ເລື່ອງລາວ,
+
+628
+00:44:36,550 --> 00:44:39,700
+[SHAKESPEARE]
+And on his neck her yoking arms she throws:
+ແລະໃສ່ຄໍຂອງລາວແຂນທີ່ຍືດຫຍຸ່ນຂອງນາງນາງຖິ້ມ:
+
+629
+00:44:40,200 --> 00:44:46,200
+[SHAKESPEARE]
+She sinketh down, still hanging by his neck, He on her belly falls, she on her back.  Oh, I like this...
+ນາງຕົກລົງລົງ, ຍັງຕິດຢູ່ຄໍຂອງລາວ, ລາວຢູ່ເທິງທ້ອງຂອງນາງຕົກລົງ
+, ນາງຢູ່ເທິງຫຼັງຂອງນາງ. ໂອ້, ຂ້ອຍມັກສິ່ງນີ້...
+
+630
+00:44:46,700 --> 00:44:52,700
+[LADY IN WAITING]
+'Fondling,' she saith, I'll be a park, and thou shalt be my deer; Feed where thou wilt, on mountain or in dale:
+ນາງເວົ້າວ່າ, ຂ້ອຍຈະເປັນສວນສາທາລະນະ, ແລະເຈົ້າຈະເປັນຫມູຂອງຂ້ອຍ
+; ອາຫານຢູ່ບ່ອນທີ່ທ່ານຕ້ອງການ, ຢູ່ເທິງພູຫຼືໃນຮ່ອມພູ:
+
+631
+00:44:53,200 --> 00:44:59,150
+[LADY IN WAITING]
+Graze on my lips; and if those hills be dry, Stray lower, where the pleasant fountains lie.
+ລ້ຽງສັດໃສ່ປາກຂອງຂ້ອຍ; ແລະຖ້າພູເຂົາເຫຼົ່ານັ້ນແຫ້ງ
+, ຫ່າງໄປລຸ່ມລົງ, ບ່ອນທີ່ແຫຼ່ງນ້ ໍາ ທີ່ສວຍງາມຢູ່.
+
+632
+00:44:59,650 --> 00:45:05,650
+[SECOND LADY IN WAITING]
+Seeds spring from seeds, and beauty breedeth beauty; Thou wast begot; to beget is thy duty. By law of nature thou art bound to breed...
+ເມັດໄຫມ້ຈາກເມັດ, ແລະຄວາມງາມເກີດຄວາມງາມ; ເຈົ້າຖືກເກີດ;
+ການເກີດແມ່ນຫນ້າທີ່ຂອງທ່ານ. ໂດຍກົດ ຫມາຍ ທໍາ ມະຊາດເຈົ້າຕ້ອງເກີດ...
+
+633
+00:45:06,150 --> 00:45:08,950
+[ELIZABETH]
+You find me disgusting, don't you? Repugnant. Wrinkled?
+ເຈົ້າຄິດວ່າຂ້ອຍກຽດຊັງ, ແມ່ນບໍ? ກຽດຊື່ນ. ສັບຊ້ອນບໍ?
+
+634
+00:45:09,450 --> 00:45:12,600
+[ROBERT CECIL]
+You, you are the sun, majesty.   The glory of--
+ເຈົ້າ, ເຈົ້າເປັນແສງຕາເວັນ, ພຣະເຈົ້າ. ຄວາມສະຫງ່າຂອງ -
+
+635
+00:45:13,100 --> 00:45:15,100
+[ELIZABETH]
+Liar!
+ຄົນຕົວະ!
+
+636
+00:45:15,600 --> 00:45:21,600
+[ELIZABETH]
+Is it so hard to believe that once I was young? That I was... beautiful? Your father knew me as such...  You have read the book?
+ມັນຍາກຫຼາຍທີ່ຈະເຊື່ອວ່າເມື່ອຂ້ອຍເປັນໄວຫນຸ່ມບໍ? ວ່າຂ້ອຍເປັນ..
+. ງາມບໍ? ພໍ່ເຈົ້າຮູ້ຈັກຂ້ອຍເປັນແບບນັ້ນ... ເຈົ້າໄດ້ອ່ານປື້ມບໍ?
+
+637
+00:45:22,100 --> 00:45:28,100
+[ELIZABETH]
+He writes to me. To remind me of that beauty. That love. How I... took him. How I... adored him...
+ລາວຂຽນໃຫ້ຂ້ອຍ. ເພື່ອເຕືອນຂ້ອຍກ່ຽວກັບຄວາມງາມນັ້ນ.
+ຄວາມຮັກນັ້ນ. ຂ້ອຍ... ເອົາລາວແນວໃດ. ຂ້ອຍ... ຮັກລາວແນວໃດ...
+
+638
+00:45:28,600 --> 00:45:34,550
+[ELIZABETH]
+Graze on my lips; and if those hills be dry, Stray lower, where the pleasant fountains lie...
+ລ້ຽງສັດໃສ່ປາກຂອງຂ້ອຍ; ແລະຖ້າພູເຂົາເຫຼົ່ານັ້ນແຫ້ງ,
+ຫ່າງໄປລຸ່ມລົງ, ບ່ອນທີ່ແຫຼ່ງນ້ ໍາ ທີ່ສວຍງາມນອນ...
+
+639
+00:45:35,050 --> 00:45:41,050
+[ELIZABETH]
+I've been foolish. Proud. Yes. Too proud. Gloriana... The Virgin Queen... A statue. Bloodless.  "Thou wast begot; to beget is thy duty. By law of nature thou art bound to breed, That thine may live when thou thyself art dead"...  Your father told you of the child?
+ຂ້ອຍເປັນຄົນໂງ່. ມີຄວາມພາກພູມໃຈ. ແມ່ນແລ້ວ. ກຽດຊັງເກີນໄປ. ໂກລໍເນຍ... ລາຊິນີເວີຈິນ... ຮູບປັ້ນ. ບໍ່ມີເລືອດ."ເຈົ້າຖືກເກີດ; ການເກີດແມ່ນຫນ້າທີ່ຂອງທ່ານ.
+ໂດຍກົດ ຫມາຍ ຂອງ ທໍາ ມະຊາດເຈົ້າຖືກບັງຄັບໃຫ້ລ້ຽງພັນ, ເພື່ອວ່າຂອງເຈົ້າສາມາດດໍາລົງຊີວິດໄດ້ເມື່ອເຈົ້າເອງຕາຍ"... ພໍ່ຂອງທ່ານບອກເຈົ້າກ່ຽວກັບເດັກນ້ອຍບໍ?
+
+640
+00:45:41,550 --> 00:45:43,550
+[ROBERT CECIL]
+Which one, your majesty?
+ອັນໃດ, ເຈົ້າສູງສຸດ?
+
+641
+00:45:44,050 --> 00:45:46,050
+[ELIZABETH]
+His.   Mine.   He still lives?
+ຂອງລາວ. ຂອງຂ້ອຍ. ລາວຍັງມີຊີວິດຢູ່ບໍ?
+
+642
+00:45:46,550 --> 00:45:48,650
+[ELIZABETH]
+He was well placed? A nobleman?
+ລາວຖືກຈັດຕັ້ງໄວ້ຢ່າງດີບໍ? ເປັນຄົນສູງສຸດບໍ?
+
+643
+00:45:49,150 --> 00:45:51,150
+[ROBERT CECIL]
+Yes... your majesty.
+ແມ່ນແລ້ວ... ເຈົ້າສູງສຸດ.
+
+644
+00:45:51,650 --> 00:45:53,650
+[ELIZABETH]
+Who?
+ໃຜ?
+
+645
+00:45:54,150 --> 00:45:57,300
+[ELIZABETH]
+I am your Queen! Now who is my son!!?
+ຂ້ອຍເປັນລາຊິນີຂອງເຈົ້າ! ດຽວນີ້ລູກຊາຍຂອງຂ້ອຍແມ່ນໃຜ!!?
+
+646
+00:45:57,800 --> 00:46:00,600
+[ROBERT CECIL]
+His grace, the Earl of... Southampton, your majesty.
+ພຣະເຈົ້າຂອງລາວ, Earl ຂອງ... Southampton, ພຣະເຈົ້າຂອງທ່ານ.
+
+647
+00:46:01,100 --> 00:46:06,000
+[CECIL]
+Majesty... You are not having doubts about James of Scotland succeeding you, are you?
+ເຈົ້າເຈົ້າ... ເຈົ້າບໍ່ສົງໄສວ່າເຈມສ໌
+ຈາກສກອດແລນຈະສືບທອດເຈົ້າ, ແມ່ນບໍ?
+
+648
+00:46:06,500 --> 00:46:12,500
+[ELIZABETH]
+James?! He is the son of Mary! She plotted and schemed to steal the throne from under me! No son of hers will rule while a yet Tudor lives!
+ເຈມສ໌?! ລາວເປັນລູກຊາຍຂອງມາຣີ! ນາງໄດ້ວາງແຜນແລະວາງແຜນທີ່ຈະລັກລອບອານາຈັກຈາກພາຍໃຕ້ຂ້ອຍ
+! ບໍ່ມີລູກສາວຂອງນາງຈະປົກຄອງໃນຂະນະທີ່ Tudor ຍັງມີຊີວິດຢູ່!
+
+649
+00:46:13,000 --> 00:46:19,000
+[ELIZABETH]
+I will decide what is best for my kingdom! Not you! Not you!!  I have bid Edward to come to me on my return to London on Monday next. It is decided.
+ຂ້ອຍຈະຕັດສິນໃຈວ່າສິ່ງທີ່ດີທີ່ສຸດ ສໍາ ລັບອານາຈັກຂອງຂ້ອຍ! ບໍ່ແມ່ນເຈົ້າ! ບໍ່ເປັນເຈົ້າ!!
+ຂ້ອຍໄດ້ສັ່ງໃຫ້ເອດວາດມາຫາຂ້ອຍໃນເວລາທີ່ຂ້ອຍກັບຄືນໄປລອນດອນໃນວັນຈັນຕໍ່ໄປ. ມັນຖືກຕັດສິນໃຈແລ້ວ.
+
+650
+00:46:19,500 --> 00:46:25,450
+[ELIZABETH]
+And so, in spite of death, I shall survive, In that, my likeness still is left alive.
+ແລະດັ່ງນັ້ນ, ເຖິງແມ່ນວ່າຈະຕາຍ, ຂ້ອຍຈະລອດຊີວິດ
+, ໃນນັ້ນ, ຮູບພາບຂອງຂ້ອຍຍັງຍັງມີຊີວິດຢູ່.
+
+651
+00:46:25,950 --> 00:46:31,550
+["GLOUCESTER"]
+But I, that am not shaped for sportive tricks, nor made to court an amorous looking-glass...
+ແຕ່ຂ້ອຍ, ທີ່ບໍ່ໄດ້ຖືກສ້າງຂື້ນ ສໍາ ລັບກະຕຸ້ນກິລາ
+, ຫຼືເຮັດໃຫ້ເປັນສານທີ່ເບິ່ງແກ້ວທີ່ຮັກ...
+
+652
+00:46:32,050 --> 00:46:38,050
+["GLOUCESTER"]
+I, that am curtail'd of this fair proportion, deformed, unfinish'd, sent before my time into this breathing world...
+ຂ້ອຍ, ທີ່ຖືກຕັດລົງຈາກສ່ວນແບ່ງທີ່ຍຸຕິທໍານີ້, ຈົບແນ່,
+ບໍ່ສິ້ນສຸດລົງ, ຖືກສົ່ງກ່ອນເວລາຂອງຂ້ອຍເຂົ້າໄປໃນໂລກທີ່ຫາຍໃຈນີ້...
+
+653
+00:46:38,550 --> 00:46:40,550
+[SPENCER]
+Good part, that...
+ສ່ວນທີ່ດີ, ນັ້ນ...
+
+654
+00:46:41,050 --> 00:46:47,050
+["GLOUCESTER"]
+...and that so lamely and unfashionable that dogs bark at me as I halt by them.  Is this wise?
+ແລະມັນໂຊກຮ້າຍແລະບໍ່ທັນສະໄຫມຫຼາຍທີ່ຫມາຮ້ອງໄຫ້ຂ້ອຍໃນຂະນະທີ່ຂ້ອຍຢຸດຢູ່ຂ້າງພວກເຂົາ
+. ນີ້ແມ່ນສະຫຼາດບໍ?
+
+655
+00:46:47,550 --> 00:46:50,000
+[BURBAGE]
+It's only the one performance.   Go on!
+ມັນເປັນການສະແດງດຽວເທົ່ານັ້ນ. ໄປ!
+
+656
+00:46:50,500 --> 00:46:52,500
+["GLOUCESTER"]
+I need a drink...
+ຂ້ອຍຕ້ອງການດື່ມ...
+
+657
+00:46:53,000 --> 00:46:58,250
+[JONSON]
+Burbage. Wonderful theater. Wonderful! The best Bankside! But only one performance? Is it that bad?
+ບາເບຈ໌. ໂຮງລະຄອນທີ່ຍິ່ງໃຫຍ່. ດີເລີດ! ແບນສ໌ໄດທີ່ດີທີ່ສຸດ
+! ແຕ່ການສະແດງພຽງຄັ້ງດຽວບໍ? ມັນຮ້າຍແຮງຫຼາຍບໍ?
+
+658
+00:46:58,750 --> 00:47:04,750
+[BURBAGE]
+Hardly, it's Will's new play. Richard the Third. We've been hired to perform it free to the public.
+ເກືອບບໍ່, ມັນແມ່ນບົດສະແດງໃຫມ່ຂອງວິນລ໌. ຣິກາສ໌ທີສາມ
+. ພວກເຮົາໄດ້ຖືກຈ້າງເພື່ອສະແດງມັນຟຣີຕໍ່ສາທາລະນະ.
+
+659
+00:47:05,250 --> 00:47:07,250
+[JONSON]
+Free?
+ຟຣີບໍ?
+
+660
+00:47:07,750 --> 00:47:13,750
+[BURBAGE]
+Aye. Some anonymous nobleman paid for everything. God knows Will never would.   Been rehearsing all week, just found out this morning, we go up next Monday.
+ແມ່ນແລ້ວ. ຜູ້ຊາຍທີ່ມີຊື່ສຽງບາງຄົນໄດ້ຈ່າຍທຸກຢ່າງ. ພຣະເຈົ້າຮູ້ວ່າວິນລ໌ຈະບໍ່ເຮັດເລີຍ
+. ກໍາ ລັງທົດລອງຕະຫຼອດອາທິດ, ພຽງແຕ່ຮູ້ວ່າໃນຕອນເຊົ້ານີ້, ພວກເຮົາຂຶ້ນວັນຈັນຕໍ່ໄປ.
+
+661
+00:47:14,250 --> 00:47:20,250
+[JONSON]
+My best so far. I guarantee more than one performance. Though I'll not pay for the tickets myself.  No need to.
+ຂ້ອຍດີທີ່ສຸດຈົນເຖິງປະຈຸບັນ. ຂ້ອຍຮັບປະກັນການສະແດງຫຼາຍກ່ວາ ຫນຶ່ງ
+ຄັ້ງ. ເຖິງແມ່ນວ່າຂ້ອຍຈະບໍ່ຈ່າຍຄ່າປີ້ເອງ. ບໍ່ຈໍາເປັນຕ້ອງເຮັດ.
+
+662
+00:47:20,750 --> 00:47:22,750
+[BURBAGE]
+Sorry, Ben...
+ຂໍໂທດແບນ...
+
+663
+00:47:23,250 --> 00:47:29,250
+[BURBAGE]
+Will... He's part owner... I'm sorry Ben, but I had to agree no Jonson plays at the Globe... Ever.
+ວີລ... ລາວເປັນເຈົ້າຂອງສ່ວນຫນຶ່ງ... ຂ້ອຍຂໍໂທດແບນ,
+ແຕ່ຂ້ອຍຕ້ອງຕົກລົງວ່າບໍ່ມີຈອນສັນຫຼິ້ນຢູ່ໂລກ... ບໍ່ເຄີຍ.
+
+664
+00:47:29,750 --> 00:47:31,750
+[MAN]
+You doin' tomorrow?
+ເຈົ້າເຮັດມື້ອື່ນບໍ?
+
+665
+00:47:32,250 --> 00:47:34,250
+[WOMAN]
+You askin?
+ເຈົ້າຖາມບໍ?
+
+666
+00:47:34,750 --> 00:47:38,950
+[MAN]
+Managed to get two tickets to Shakespeare's latest. Cost me a fortune.
+ຂ້ອຍສາມາດເອົາປີ້ສອງປີ້ໄປເບິ່ງລາຍການຫຼ້າສຸດຂອງແຊກເປີ
+. ລາຄາຂ້ອຍເປັນຊັບສິນ.
+
+667
+00:47:39,450 --> 00:47:42,250
+[PASSING MAN]
+Ballocks, did it! They're giving them away free.
+ບາລັອກສ໌, ເຮັດມັນແລ້ວ! ພວກເຂົາ ກໍາ ລັງໃຫ້ພວກມັນຟຣີ.
+
+668
+00:47:42,750 --> 00:47:46,950
+[SPENCER]
+Best villain in the history of theater, Richard the Third. No doubt.
+ຄົນຮ້າຍທີ່ດີທີ່ສຸດໃນປະຫວັດສາດຂອງໂຮງລະຄອນ
+, ຣິກາດ໌ທີສາມ. ບໍ່ຕ້ອງສົງໄສ.
+
+669
+00:47:47,450 --> 00:47:49,450
+[HEMINGE]
+Come on.    Better than Mephistopheles?
+ມາແລ້ວ. ດີກວ່າ Mephistopheles ບໍ?
+
+670
+00:47:49,950 --> 00:47:55,950
+[SPENCER]
+No doubt! Your Marlowe-- god rest his soul-- is fine for your everyday scalawag, and your Jonson won't even try the hard drama. No, this is Shakespeare, for god's sake! The man knows drama. I tell you, not even the Greeks compare!  To Shakespeare! And villainy!
+ບໍ່ຕ້ອງສົງໄສ! ມາລູເວີຂອງທ່ານ - ພຣະເຈົ້າພັກຜ່ອນຈິດວິນຍານຂອງລາວ - ແມ່ນດີ ສໍາ ລັບກະຕຸ້ນກະຕູ້ປະ ຈໍາ ວັນຂອງທ່ານ, ແລະຈອນສັນຂອງທ່ານຈະບໍ່ພະຍາຍາມລະຄອນທີ່ຫຍຸ້ງຍາກເລີຍ
+. ບໍ່, ນີ້ແມ່ນແຊກເປີ, ສໍາລັບພຣະເຈົ້າ! ຜູ້ຊາຍຮູ້ລະຄອນ. ຂ້ອຍບອກເຈົ້າ, ເຖິງແມ່ນວ່າຊາວເກຣັກຈະປຽບທຽບ! ກັບແຊງເປີ! ແລະຄວາມຮ້າຍແຮງ!
+
+671
+00:47:56,450 --> 00:47:58,450
+[ALL]
+To Shakespeare! And villainy!
+ຕໍ່ແຊກເປີ! ແລະຄວາມຮ້າຍແຮງ!
+
+672
+00:47:58,950 --> 00:48:00,950
+[WHORE]
+Fancy a tumble? Only sixpence!
+ເຈົ້າຢາກຕົກລົງບໍ? ພຽງແຕ່ຫົກເປັນເທົ່ານັ້ນ!
+
+673
+00:48:01,450 --> 00:48:03,550
+[POLE]
+I haven't got all day, man.
+ຂ້ອຍບໍ່ມີເວລາທັງ ຫມົດ ມື້, ຜູ້ຊາຍ.
+
+674
+00:48:04,050 --> 00:48:08,600
+[JONSON]
+I... There is a-- there is a play to be performed... on Monday.
+ຂ້ອຍ... ມີ - ມີບົດສະແດງທີ່ຈະສະແດງ... ໃນວັນຈັນ.
+
+675
+00:48:09,100 --> 00:48:12,600
+[POLE]
+There's many plays to be performed next Monday, isn't there?
+ມີບົດສະແດງຫຼາຍຢ່າງທີ່ຈະສະແດງໃນວັນຈັນຕໍ່ໄປ, ແມ່ນບໍ?
+
+676
+00:48:13,100 --> 00:48:19,100
+[JONSON]
+Yes, my lord, but this one is to be performed one performance, and one performance only. On Monday. All Bankside is talking of it.  The History of King Richard the Third. By William Shakespeare.
+ແມ່ນແລ້ວ, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ, ແຕ່ຄົນນີ້ຈະຖືກສະແດງການສະແດງຫນຶ່ງ, ແລະການສະແດງດຽວເທົ່ານັ້ນ. ໃນວັນຈັນ
+. ທັງ ຫມົດ ແບນຊິດ ກໍາ ລັງເວົ້າກ່ຽວກັບມັນ. ປະຫວັດສາດຂອງກະສັດ Richard ທີສາມ. ໂດຍວິກິລາມ ແຊັກເປີ.
+
+677
+00:48:19,600 --> 00:48:25,550
+[JONSON]
+He kills his brother the king, and half the royal family to get the throne for himself--
+ລາວຂ້າອ້າຍຂອງລາວກະສັດ,
+ແລະເຄິ່ງຫນຶ່ງຂອງຄອບຄົວລາຊະອານາຈັກເພື່ອໄດ້ຮັບລາດຊະຕານ ສໍາ ລັບຕົວເອງ -
+
+678
+00:48:26,050 --> 00:48:28,500
+[POLE]
+I know who Richard the Third was.
+ຂ້ອຍຮູ້ວ່າ ຣິກາດ໌ທີສາມແມ່ນໃຜ.
+
+679
+00:48:29,000 --> 00:48:34,600
+[JONSON]
+Yes. Of course you do. But in William Shakespeare's version, he is played as a hunch-back.
+ແມ່ນແລ້ວ. ແນ່ນອນວ່າເຈົ້າເຮັດ. ແຕ່ໃນເວີຊັນຂອງວິກິລາມ
+ແຊກເປີ, ລາວຖືກຫຼິ້ນເປັນຄົນຫຼັງ.
+
+680
+00:48:35,100 --> 00:48:40,700
+[BURBAGE]
+We have to turn `em away by the hundreds! Look! Never seen anything quite like it!
+ພວກເຮົາຕ້ອງຫັນພວກມັນໄປດ້ວຍສິບຄົນ!
+ເບິ່ງ! ບໍ່ເຄີຍເຫັນຫຍັງຄືກັບມັນເລີຍ!
+
+681
+00:48:41,200 --> 00:48:47,200
+[NASHE]
+So! I heard the Earl of Essex paid for this whole performance! Man's never even been to the theater, and still he's heard of Will--
+ສະນັ້ນ! ຂ້ອຍໄດ້ຍິນວ່າ Earl ຂອງ Essex ໄດ້ຈ່າຍເງິນ ສໍາ ລັບການສະແດງທັງ
+ຫມົດ ນີ້! ຜູ້ຊາຍບໍ່ເຄີຍໄປໂຮງລະຄອນເລີຍ, ແລະຍັງໄດ້ຍິນກ່ຽວກັບ Will -
+
+682
+00:48:47,700 --> 00:48:53,700
+[DEKKER]
+Essex!? Impossible. My cousin's one of his men-at-arms. Hasn't been paid in weeks. They're all just sitting there, waiting.
+ເອສເຊສ!? ບໍ່ເປັນໄປໄດ້. ລູກນ້ອງຂອງຂ້ອຍແມ່ນ ຫນຶ່ງ ໃນຜູ້ຊາຍທີ່ມີອາວຸດຂອງລາວ.
+ບໍ່ໄດ້ຈ່າຍເງິນເປັນເວລາຫຼາຍອາທິດແລ້ວ. ພວກເຂົາທັງ ຫມົດ ພຽງແຕ່ນັ່ງຢູ່ບ່ອນນັ້ນ, ລໍຖ້າ.
+
+683
+00:48:54,200 --> 00:48:56,200
+[JONSON]
+Waiting?     Waiting for what?
+ການລໍຖ້າ? ລໍຖ້າຫຍັງ?
+
+684
+00:48:56,700 --> 00:49:02,700
+[DEKKER]
+Wants to have an audience with the Queen. As if Cecil would ever let Essex near her now.
+ລາວຢາກມີຜູ້ຊົມກັບລາຊິນີ.
+ຄືກັບວ່າເຊຊີລຈະປ່ອຍໃຫ້ເອສເຊສສ໌ຢູ່ໃກ້ກັບນາງດຽວນີ້.
+
+685
+00:49:03,200 --> 00:49:09,200
+[NASHE]
+By the mass, Cecil in favor, Essex out! Who can keep up with it all!?  114 pg. 115
+ໂດຍມະຫາຊົນ, ເຊຊີລນິຍົມ, ເອສເຊສອອກ!
+ໃຜສາມາດຕິດຕາມກັບມັນທັງ ຫມົດ ໄດ້!? 114 ຫນ້າ. 115
+
+686
+00:49:09,700 --> 00:49:12,150
+[NASHE]
+Zounds, I tire of politics, politics, politics.
+ໂຊນດ໌, ຂ້ອຍເມື່ອຍຈາກການເມືອງ, ການເມືອງ, ທາງການເມືອງ.
+
+687
+00:49:12,650 --> 00:49:18,600
+[DEKKER]
+Tired of politics are you? Seems you picked the wrong day to come to the theater, then...
+ເຈົ້າເມື່ອຍຈາກການເມືອງບໍ?
+ເບິ່ງຄືວ່າເຈົ້າເລືອກມື້ທີ່ບໍ່ຖືກຕ້ອງທີ່ຈະມາໂຮງລະຄອນ, ຫຼັງຈາກນັ້ນ...
+
+688
+00:49:19,100 --> 00:49:25,100
+["GLOUCESTER"]
+Now is the winter of our discontent made glorious summer by this son of York. Grim-visaged war hath smooth'd his wrinkled front....
+ດຽວນີ້ແມ່ນລະດູຫນາວຂອງຄວາມບໍ່ພໍໃຈຂອງພວກເຮົາທີ່ເຮັດເປັນລະດູຮ້ອນທີ່ສວຍງາມໂດຍລູກຊາຍຂອງຢອກຄົນນີ້
+. ສົງຄາມທີ່ມີໃບຫນ້າໂຊກຮ້າຍໄດ້ເຮັດໃຫ້ ຫນ້າ ກາກທີ່ສຽບສະບາຍຂອງລາວ....
+
+689
+00:49:25,600 --> 00:49:31,600
+["GLOUCESTER"]
+...and now instead of mounting barded steeds to fright the souls of fearful adversaries, he capers nimbly in a lady's chamber to the lascivious pleasing of a lute. But I, that am not shaped for sportive tricks, nor made to court an amorous looking- glass...
+... ແລະດຽວນີ້ແທນທີ່ຈະຂຶ້ນມ້າບາຣດເພື່ອຢ້ານກົວຈິດວິນຍານຂອງສັດຕູທີ່ກັງວົນ, ລາວ capers ຢ່າງກະທັນຫັນໃນຫ້ອງຂອງແມ່ຍິງເພື່ອຄວາມພໍໃຈທີ່ສວຍງາມຂອງ
+lute ໄດ້. ແຕ່ຂ້ອຍ, ທີ່ບໍ່ໄດ້ຖືກສ້າງຕັ້ງຂຶ້ນ ສໍາ ລັບກະຕຸ້ນກິລາ, ຫຼືເຮັດເພື່ອສານແກ້ວທີ່ຮັກ...
+
+690
+00:49:32,100 --> 00:49:38,100
+["GLOUCESTER"]
+I, that am curtail'd of this fair proportion, deformed, unfinish'd, sent before my time into this breathing world,....
+ຂ້ອຍ, ທີ່ຖືກຕັດຂາດຈາກສ່ວນແບ່ງທີ່ຍຸຕິທໍານີ້, ຈົບແນ່,
+ບໍ່ສິ້ນສຸດລົງ, ຖືກສົ່ງກ່ອນເວລາຂອງຂ້ອຍເຂົ້າໄປໃນໂລກຫາຍໃຈນີ້,....
+
+691
+00:49:38,600 --> 00:49:44,200
+["GLOUCESTER"]
+...and that so lamely and unfashionable that dogs bark at me as I halt by them.
+ແລະມັນໂຊກຮ້າຍແລະບໍ່ທັນທັນສະໄຫມຫຼາຍທີ່ຫມາຮ້ອງໄຫ້ຂ້ອຍໃນຂະນະທີ່ຂ້ອຍຢຸດຢູ່ຂ້າງພວກເຂົາ
+.
+
+692
+00:49:44,700 --> 00:49:50,700
+["GLOUCESTER"]
+And therefore, since I cannot prove a lover, I am determined to prove a villain and hate the idle pleasures of these days...
+ແລະເພາະສະນັ້ນ, ເນື່ອງຈາກວ່າຂ້ອຍບໍ່ສາມາດພິສູດວ່າເປັນຄົນຮັກໄດ້,
+ຂ້ອຍຕັດສິນໃຈທີ່ຈະພິສຖານເປັນຄົນຮ້າຍແລະກຽດຊັງຄວາມສຸກທີ່ບໍ່ມີປະໂຫຍດໃນມື້ນີ້...
+
+693
+00:49:51,200 --> 00:49:54,350
+[ESSEX]
+Edward knows what he is doing...      Does he not?
+ເອດວາດຮູ້ແລ້ວວ່າລາວ ກໍາ ລັງເຮັດຫຍັງ... ລາວບໍ່?
+
+694
+00:49:54,850 --> 00:49:57,650
+[SOUTHAMPTON]
+He promised us a mob. They'll be here.
+ລາວສັນຍາໃຫ້ພວກເຮົາມີຄົນໂຊກຮ້າຍ. ພວກເຂົາຈະຢູ່ບ່ອນນີ້.
+
+695
+00:49:58,150 --> 00:50:00,150
+["GLOUCESTER"]
+Plots have I laid!
+ຂ້ອຍໄດ້ວາງແຜນແລ້ວ!
+
+696
+00:50:00,650 --> 00:50:06,650
+["GLOUCESTER"]
+Inductions dangerous, by drunken prophecies, libels and dreams, to set my brother Clarence and the king in deadly hate the one against the other.
+ການຊັກຊວນອັນຕະລາຍ, ໂດຍການທໍານາຍທີ່ດື່ມ, ການໂຊກຮ້າຍແລະຄວາມຝັນ,
+ເພື່ອເຮັດໃຫ້ອ້າຍຂອງຂ້ອຍຄລເລນສ໌ແລະກະສັດໃນຄວາມກຽດຊັງທີ່ຮ້າຍແຮງຕໍ່ກັນແລະກັນ.
+
+697
+00:50:07,150 --> 00:50:09,150
+[AN AUDIENCE MEMBER]
+A pox on you!
+ໂຣກພຍາດຢູ່ເທິງເຈົ້າ!
+
+698
+00:50:09,650 --> 00:50:11,650
+[FRANCESCO]
+A pox on Cecil!
+ໂຣກພຍາດຢູ່ເຊຊີລ!
+
+699
+00:50:12,150 --> 00:50:14,950
+[MORE AUDIENCE MEMBERS]
+A pox on Cecil! A pox on Cecil!
+ໂຣກພຍາດຕໍ່ເຊຊິລ! ໂຣຄພຍາດໃສ່ເຊຊິນ!
+
+700
+00:50:15,450 --> 00:50:17,900
+[NASHE]
+Why is Oxford's man with the Groundlings?
+ເປັນຫຍັງຜູ້ຊາຍຈາກໂອກສຟອດຈຶ່ງຢູ່ກັບຊາວ Groundlings?
+
+701
+00:50:18,400 --> 00:50:24,400
+["GLOUCESTER"]
+Hath she forgot already that brave prince, Edward, her lord, whom I, some three months since, Stabb'd in my angry mood at Tewksbury? A sweeter and a lovelier gentleman- Fram'd in the prodigality of nature,     Young, valiant, wise, and no doubt right royal-
+ນາງລືມແລ້ວບໍວ່າເຈົ້າຊາຍທີ່ກ້າຫານນັ້ນ, ເອດວາດ, ພຣະຜູ້ເປັນເຈົ້າຂອງນາງ, ຜູ້ທີ່ຂ້ອຍ, ປະມານສາມເດືອນກ່ອນຫນ້ານີ້, stab ໄດ້ໃນຈິດໃຈໂຊກຮ້າຍຂອງຂ້ອຍໃນ
+Tewksbury? ຜູ້ຊາຍທີ່ຫວານແລະຮັກແພງກວ່າ - Framed ໃນຄວາມສວຍງາມຂອງທໍາມະຊາດ, ຫນຸ່ມ, ກ້າຫານ, ສະຫລາດ, ແລະບໍ່ມີຂໍ້ສົງໄສທີ່ຖືກຕ້ອງຂອງລາຊະອານາຈັກ -
+
+702
+00:50:24,900 --> 00:50:26,900
+[FRANCESCO]
+Down with Cecil!
+ລົງກັບເຊຊີລ!
+
+703
+00:50:27,400 --> 00:50:30,550
+[FRANCESCO]
+Up with Essex! To Essex House!     To Essex House!!
+ຂຶ້ນກັບເອສເຊັກສ໌! ໄປຫາເຮືອນເອສເກສ! ໄປເຮືອນເຊີສ໌!!
+
+704
+00:50:31,050 --> 00:50:35,600
+[JONSON]
+This is what Essex is waiting for--  Oxford is bringing him a mob.
+ນີ້ແມ່ນສິ່ງທີ່ເອສເຊສ ກໍາ ລັງລໍຖ້າ -
+ໂອກສຟອດ ກໍາ ລັງ ນໍາ ເອົາຄົນໂຊກຮ້າຍມາໃຫ້ລາວ.
+
+705
+00:50:36,100 --> 00:50:38,100
+[NASHE]
+Why would Oxford--
+ເປັນຫຍັງໂອກສຟອດຈຶ່ງ...
+
+706
+00:50:38,600 --> 00:50:44,600
+[JONSON]
+I don't know, I don't know! But, the Tower-- Cecil, he already knows. He knows!  I-- I have to warn them!
+ຂ້ອຍບໍ່ຮູ້ວ່າ, ຂ້ອຍບໍ່ຮູ້! ແຕ່, ຫໍ - ເຊຊີລ,
+ລາວຮູ້ແລ້ວ. ລາວຮູ້! ຂ້ອຍ - ຂ້ອຍຕ້ອງເຕືອນພວກເຂົາ!
+
+707
+00:50:45,100 --> 00:50:47,550
+[VARIOUS GROUNDLINGS]
+Up with Essex! Essex! Death to Cecil!
+ຂຶ້ນກັບເອສເຊັກສ໌! ເອສເກສ! ການຕາຍຕໍ່ເຊຊີລ!
+
+708
+00:50:48,050 --> 00:50:50,150
+[SHAKESPEARE]
+We must close the play. Now!!
+ພວກເຮົາຕ້ອງປິດການສະແດງ. ດຽວນີ້!!
+
+709
+00:50:50,650 --> 00:50:53,100
+[BURBAGE]
+Close the...? Are you off your head?
+ປິດ...? ເຈົ້າໂຊກຮ້າຍບໍ?
+
+710
+00:50:53,600 --> 00:50:58,500
+["GLOUCESTER"]
+Fram'd... in the prodigality of nature, Young, valiant, wise, and no doubt right royal-
+ຖືກກໍານົດໄວ້... ໃນຄວາມກະທູ້ຂອງ ທໍາ ມະຊາດ, ຫນຸ່ມ, ກ້າຫານ,
+ມີຄວາມສະຫຼາດ, ແລະບໍ່ຕ້ອງສົງໄສວ່າເປັນເຈົ້າຊີວິດທີ່ຖືກຕ້ອງ -
+
+711
+00:50:59,000 --> 00:51:02,500
+[FRANCESCO]
+To Essex House! To Essex House! Death to Cecil! Traitor!
+ໄປຫາເຮືອນເອສເຊັກສ໌! ໄປເຮືອນເຊີສສ໌໌! ການຕາຍຕໍ່ເຊຊີລ! ຜູ້ປະຫມາດ!
+
+712
+00:51:03,000 --> 00:51:06,150
+[MAN]
+To Essex!   And then to the Queen!  Ess-ex! Ess-ex!
+ໄປເອສເຊສ໌! ແລະຫຼັງຈາກນັ້ນໄປຫາລາຊິນີ! ເອສສ໌ສ໌ສະບັບ! ເອັສຊ໌ສະຫມຸດ!
+
+713
+00:51:06,650 --> 00:51:08,650
+[OFFICER]
+Fire!
+ໄຟ!
+
+714
+00:51:09,150 --> 00:51:11,250
+[SOUTHAMPTON]
+They should be here by now...
+ພວກເຂົາຄວນຢູ່ບ່ອນນີ້ໃນເວລານີ້...
+
+715
+00:51:11,750 --> 00:51:13,850
+[ESSEX]
+We go as we are! Now!!
+ພວກເຮົາໄປຕາມທີ່ພວກເຮົາເປັນ! ດຽວນີ້!!
+
+716
+00:51:14,350 --> 00:51:16,350
+[ESSEX]
+To the Queen!
+ເຖິງລາຊິນີ!
+
+717
+00:51:16,850 --> 00:51:20,000
+[LADY-IN-WAITING]
+My lord.    Her majesty will be with you shortly.
+ເຈົ້າຂອງຂ້ອຍ. ພຣະເຈົ້າຂອງນາງຈະຢູ່ກັບເຈົ້າໃນໄວໆນີ້.
+
+718
+00:51:20,500 --> 00:51:22,950
+[FRANCESCO]
+Signor Jonson! We are betrayed!    Run! Run!
+ທ້າວຈອນສັນ! ພວກເຮົາຖືກປະຫມາດ! ແລ່ນ!ແລ່ນ!
+
+719
+00:51:23,450 --> 00:51:25,550
+[ESSEX]
+To the Queen! To the Queen!
+ຕໍ່ລາຊິນີ! ຕໍ່ລາຊາ!
+
+720
+00:51:26,050 --> 00:51:28,050
+[POLE]
+Take your aim!
+ເອົາເປົ້າຫມາຍຂອງທ່ານ!
+
+721
+00:51:28,550 --> 00:51:30,550
+[SOUTHAMPTON]
+It's a trap!
+ມັນເປັນແຄບ!
+
+722
+00:51:31,050 --> 00:51:33,050
+[ESSEX]
+Spread out!
+ກະຈາຍອອກໄປ!
+
+723
+00:51:33,550 --> 00:51:35,550
+[POLE]
+Fire!!
+ໄຟ!!
+
+724
+00:51:36,050 --> 00:51:38,050
+[POLE]
+Re-load!
+ໂຫຼດຄືນ!
+
+725
+00:51:38,550 --> 00:51:43,450
+[ROBERT CECIL]
+Majesty! You must away! Essex is in armed revolt! He's come to usurp you!
+ເຈົ້າສູງສຸດ! ເຈົ້າຕ້ອງໄປ!
+ເອສເຊສສ໌ຢູ່ໃນການກະບົດອາວຸດ! ລາວມາເພື່ອເອົາເຈົ້າ!
+
+726
+00:51:43,950 --> 00:51:45,950
+[ELIZABETH]
+Essex? I-- Edward is--
+ເອສເຊສ? ຂ້ອຍ - ເອດວາດແມ່ນ -
+
+727
+00:51:46,450 --> 00:51:52,050
+[ROBERT CECIL]
+You must flee! Quickly! Majesty! He means to kill you and take your throne for himself!
+ເຈົ້າຕ້ອງຫນີ! ໄວ! ພຣະເຈົ້າ!
+ລາວຫມາຍຄວາມວ່າຈະຂ້າເຈົ້າແລະເອົາອານາຈັກຂອງທ່ານ ສໍາ ລັບຕົວເອງ!
+
+728
+00:51:52,550 --> 00:51:54,650
+[ROBERT CECIL]
+She won't forgive him this, Edward.
+ນາງຈະບໍ່ອະໄພລາວເລື່ອງນີ້, ເອດວາດ.
+
+729
+00:51:55,150 --> 00:51:59,350
+[ROBERT CECIL]
+Essex will be convicted and executed for treason.  As will your son.
+ເອສເຊສ໌ຈະຖືກຕັດສິນໂທດແລະຖືກປະຫານຊີວິດ
+ຍ້ອນການປະທ້ວງ. ເຊັ່ນດຽວກັນກັບລູກຊາຍຂອງທ່ານ.
+
+730
+00:51:59,850 --> 00:52:05,850
+[ROBERT CECIL]
+What? Didn't you think I knew? Of course I knew, Edward. My father told me all his secrets. All of them.  Though the most fascinating was not made known to me until after his death. 124 pg. 125
+ຫຍັງ? ເຈົ້າບໍ່ຄິດວ່າຂ້ອຍຮູ້ບໍ? ແນ່ນອນຂ້ອຍຮູ້, ເອດວາດ. ພໍ່ຂອງຂ້ອຍບອກຂ້ອຍຄວາມລັບຂອງລາວທັງ ຫມົດ. ທັງ ຫມົດ
+ນັ້ນ. ເຖິງແມ່ນວ່າສິ່ງທີ່ ຫນ້າ ສົນໃຈທີ່ສຸດບໍ່ໄດ້ແຈ້ງໃຫ້ຂ້ອຍຮູ້ຈົນກວ່າຫຼັງຈາກການຕາຍຂອງລາວ. 124 pg. 125
+
+731
+00:52:06,350 --> 00:52:12,350
+[ROBERT CECIL]
+He hated you, Edward, how he hated you. And yet he married his only daughter to you. I never knew why, until I read his last letter to me.
+ລາວກຽດຊັງເຈົ້າ, ເອດວາດ, ລາວກ້ານເຈົ້າຫຼາຍປານໃດ. ແລະເຖິງຢ່າງໃດກໍ່ຕາມລາວແຕ່ງງານລູກສາວຄົນດຽວຂອງລາວກັບເຈົ້າ
+. ຂ້ອຍບໍ່ເຄີຍຮູ້ວ່າເປັນຫຍັງ, ຈົນກວ່າຂ້ອຍຈະອ່ານຈົດຫມາຍສຸດທ້າຍຂອງລາວໃຫ້ຂ້ອຍ.
+
+732
+00:52:12,850 --> 00:52:15,650
+[OXFORD]
+He wanted his grandson to be an Earl.
+ລາວຢາກໃຫ້ລູກຫຼານຂອງລາວເປັນ Earl.
+
+733
+00:52:16,150 --> 00:52:19,650
+[ROBERT CECIL]
+No, Edward.   He wanted his grandson to be a king.
+ບໍ່, ເອດວາດ. ລາວຢາກໃຫ້ລູກຫຼານຂອງລາວເປັນກະສັດ.
+
+734
+00:52:20,150 --> 00:52:26,150
+[ROBERT CECIL]
+Elizabeth had several children, Edward, not just yours. She was sixteen for the first. Bloody Mary was still Queen, and our future Gloriana was out of favor. No one thought her very important at all. Except my father, of course. And when her first child was born, a male, my father took it, and hid it. The grandson of Henry VIII, the foundling of course had to be reared a nobleman. John De Vere, the previous Earl of Oxford, agreed to accept the task.
+ເອລີຊາບິດມີລູກຫຼາຍຄົນ, ເອດວາດ, ບໍ່ແມ່ນພຽງແຕ່ຂອງເຈົ້າເທົ່ານັ້ນ. ນາງອາຍຸສິບຫົກປີ ສໍາ ລັບຄັ້ງ ທໍາ ອິດ. ເມຣີທີ່ເລືອດຍັງເປັນລາຊິນີ, ແລະກລໍເຣຍານາໃນອະນາຄົດຂອງພວກເຮົາແມ່ນບໍ່ມີຄວາມເຫັນດີ.
+ບໍ່ມີໃຜຄິດວ່ານາງມີຄວາມສໍາຄັນຫຼາຍເລີຍ. ຍົກເວັ້ນພໍ່ຂອງຂ້ອຍ, ແນ່ນອນ. ແລະເມື່ອລູກ ທໍາ ອິດຂອງນາງເກີດຂຶ້ນ, ຜູ້ຊາຍ, ພໍ່ຂອງຂ້ອຍເອົາມັນ, ແລະເຊື່ອງມັນ. ລູກຫຼານຂອງແຮນຣີ VIII, ລູກທີ່ພົບເຫັນແນ
+
+735
+00:52:26,650 --> 00:52:28,650
+[OXFORD]
+You lie...
+ເຈົ້າຕົວະ...
+
+736
+00:52:29,150 --> 00:52:35,150
+[ROBERT CECIL]
+Do I?  Why do you think he worked so hard to become your guardian after your father died? He had it all planned years in advance. He would teach you everything he knew about statecraft, marry his daughter, and, after Elizabeth's death, proclaim you heir. His own grandchild to follow you on the throne. But he couldn't possibly predict what kind of failure you would become. How you would fail in politics, ignore your estates to the point of bankruptcy, all to write...  Poetry.  Or that you would commit incest. 125 pg. 126
+ຂ້ອຍເຮັດບໍ? ເຈົ້າຄິດວ່າລາວເຮັດວຽກ ຫນັກ ເພື່ອກາຍເປັນຜູ້ປົກຄອງເຈົ້າຫຼັງຈາກພໍ່ເຈົ້າຕາຍບໍ? ລາວໄດ້ວາງແຜນທັງ ຫມົດ ກ່ອນຫຼາຍປີ. ລາວຈະສອນເຈົ້າທຸກຢ່າງທີ່ລາວຮູ້ກ່ຽວກັບການກະກຽມລັດ, ແຕ່ງງານກັບລູກສາວຂອງລາວ, ແລະ
+, ຫຼັງຈາກການຕາຍຂອງເອລີຊາບິດ, ປະກາດເຈົ້າເປັນຜູ້ສືບທອດ. ລູກຫຼານຂອງລາວເອງທີ່ຈະຕິດຕາມເຈົ້າໃນອານາຈັກ. ແຕ່ລາວບໍ່ສາມາດຄາດຄະເນວ່າເຈົ້າຈະກາຍເປັນຄວາມລົ້ມເຫຼວປະເພດໃດ. ເຈົ້າຈະລົ້ມເຫລວໃນການເມືອງແນວໃດ, ບໍ່ສົນໃຈຊ
+
+737
+00:52:35,650 --> 00:52:38,800
+[ROBERT CECIL]
+Delicious isn't it? Right out of a Greek tragedy.
+ມັນສວຍງາມບໍ່? ອອກຈາກໂຊກຮ້າຍຂອງຊາວເກຣັກ.
+
+738
+00:52:39,300 --> 00:52:41,300
+[OXFORD]
+Elizabeth would never have--
+ເອລີຊາເບັດຈະບໍ່ເຄີຍ...
+
+739
+00:52:41,800 --> 00:52:47,800
+[ROBERT CECIL]
+What?  Slept with her son?  I don't think she ever knew, to tell you the truth. Though you never know with the Tudors. They all have had such strange tastes in bed-fellows.  You could have been a king, Edward. And your son after you. Except for the fact that... you were you.
+ຫຍັງ? ນອນກັບລູກຊາຍຂອງນາງບໍ? ຂ້ອຍບໍ່ຄິດວ່ານາງເຄີຍຮູ້, ເພື່ອບອກເຈົ້າຄວາມຈິງ. ເຖິງແມ່ນວ່າເຈົ້າບໍ່ເຄີຍຮູ້ກັບ Tudors ໄດ້.
+ພວກເຂົາທຸກຄົນມີລົດຊາດທີ່ແປກໃຈຫຼາຍໃນເພື່ອນຮ່ວມຕຽງ. ເຈົ້າສາມາດເປັນກະສັດໄດ້, ເອດວາດ. ແລະລູກຊາຍຂອງທ່ານຫຼັງຈາກເຈົ້າ. ຍົກເວັ້ນຄວາມຈິງທີ່ວ່າ... ເຈົ້າແມ່ນເຈົ້າ.
+
+740
+00:52:48,300 --> 00:52:54,300
+[ROBERT CECIL]
+I want a fair trial for Southampton... Evidence, witnesses, no false confessions. It must be above reproach. Though with a guilty verdict of course. Oh, and Pole--  If there is any mention of that play--  126 pg. 127
+ຂ້ອຍຢາກມີການດໍາເນີນຄະດີທີ່ຍຸຕິທໍາ ສໍາ ລັບ Southampton... ຫຼັກຖານ, ພະຍານ, ບໍ່ມີການຍອມຮັບຕົວະ. ມັນຕ້ອງຢູ່ເທິງຄວາມຜິດພາດ
+. ເຖິງແມ່ນວ່າດ້ວຍການຕັດສິນໃຈຜິດແນ່ນອນ. ໂອ້, ແລະໂປລ - ຖ້າມີການກ່າວເຖິງບົດສະແດງນັ້ນໃດໆ - 126 ຫນ້າ 127
+
+741
+00:52:54,800 --> 00:53:00,800
+[ROBERT CECIL]
+--Make certain the secretaries refer to it as Richard the Second. There will be no mention of hunchbacks in the official record...
+- ໃຫ້ແນ່ໃຈວ່າເລຂາທິການອ້າງເຖິງມັນວ່າ ຣິກາດ໌ທີສອງ
+. ຈະບໍ່ມີການກ່າວເຖິງ humpbacks ໃນບັນທຶກທາງການ...
+
+742
+00:53:01,300 --> 00:53:03,300
+[ANNE]
+Sentence has been passed.
+ການຕັດສິນໂທດໄດ້ຖືກຜ່ານໄປແລ້ວ.
+
+743
+00:53:03,800 --> 00:53:09,800
+[ANNE]
+They are to be be-headed.  Both of them. Essex tomorrow, Southampton in a week.  Your son is going to be killed, Edward. By his own mother. Put that in one of your plays!
+ພວກເຂົາຈະຖືກຕັດຫົວ. ທັງສອງຄົນ. ເອສເຊສສ໌ມື້ອື່ນ, ຊູແຊມປອນໃນອາທິດຫນຶ່ງ.
+ລູກຊາຍຂອງທ່ານຈະຖືກຂ້າຕາຍ, ເອດວາດ. ໂດຍແມ່ຂອງລາວເອງ. ເອົາມັນເຂົ້າໃນ ຫນຶ່ງ ໃນບົດສະແດງຂອງທ່ານ!
+
+744
+00:53:10,300 --> 00:53:12,300
+[ESSEX]
+Strike true.
+ການໂຈມຕີແມ່ນຄວາມຈິງ.
+
+745
+00:53:12,800 --> 00:53:14,800
+[ESSEX]
+God save the Queen!
+ພຣະເຈົ້າຊ່ວຍລາຊິນີ!
+
+746
+00:53:15,300 --> 00:53:17,300
+[ELIZABETH]
+Leave us.    All of you.
+ໃຫ້ພວກເຮົາໄປ. ທຸກຄົນ.
+
+747
+00:53:17,800 --> 00:53:19,800
+[ROBERT CECIL]
+Majesty, I--
+ເຈົ້າສູງສຸດ, ຂ້ອຍ...
+
+748
+00:53:20,300 --> 00:53:22,300
+[ELIZABETH]
+Leave us!
+ໃຫ້ພວກເຮົາໄປ!
+
+749
+00:53:22,800 --> 00:53:24,800
+[ELIZABETH]
+You look old...
+ເຈົ້າເບິ່ງຄືວ່າອາຍຸແລ້ວ...
+
+750
+00:53:25,300 --> 00:53:27,750
+[OXFORD]
+I thank your majesty for seeing me.
+ຂ້ອຍຂໍຂອບໃຈເຈົ້າທີ່ເຫັນຂ້ອຍ.
+
+751
+00:53:28,250 --> 00:53:30,250
+[ELIZABETH]
+You cannot have him.
+ເຈົ້າບໍ່ສາມາດເອົາລາວໄດ້.
+
+752
+00:53:30,750 --> 00:53:32,750
+[OXFORD]
+He is our son.
+ລາວເປັນລູກຊາຍຂອງພວກເຮົາ.
+
+753
+00:53:33,250 --> 00:53:35,250
+[ELIZABETH]
+Who did commit High Treason!
+ໃຜໄດ້ກະທໍາການປະທ້ວງສູງ!
+
+754
+00:53:35,750 --> 00:53:41,350
+[OXFORD]
+They only wished for a place in government equal to their station. Equal to their birth.
+ພວກເຂົາພຽງແຕ່ຢາກມີບ່ອນໃນລັດຖະບານເທົ່າກັບສະຖານີຂອງພວກເຂົາ
+. ເທົ່າກັບການເກີດຂອງພວກເຂົາ.
+
+755
+00:53:41,850 --> 00:53:47,850
+[ELIZABETH]
+You caused this! Your play, your words, caused my people to mob against me! Do you think I wasn't aware of your plot with this man Shakespeare, that I wouldn't recognize your voice? It should be your head on the block next week, not Southampton's!
+ເຈົ້າເປັນສາເຫດຂອງສິ່ງນີ້! ການສະແດງຂອງທ່ານ, ຄໍາ ເວົ້າຂອງທ່ານ, ເຮັດໃຫ້ປະຊາຊົນຂອງຂ້ອຍໂຊກແຊງຕໍ່ຂ້ອຍ! ເຈົ້າຄິດວ່າຂ້ອຍບໍ່ຮູ້ກ່ຽວກັບແຜນການຂອງທ່ານກັບຜູ້ຊາຍຄົນນີ້ແຊັກເປີ
+, ວ່າຂ້ອຍຈະບໍ່ຮັບຮູ້ສຽງຂອງທ່ານບໍ? ມັນຄວນເປັນຫົວຂອງທ່ານໃນບລັອກໃນອາທິດຫນ້າ, ບໍ່ແມ່ນຂອງ Southampton ໄດ້!
+
+756
+00:53:48,350 --> 00:53:51,150
+[OXFORD]
+Then take my head. In our son's stead.
+ຫຼັງຈາກນັ້ນເອົາຫົວຂອງຂ້ອຍ. ແທນລູກຊາຍຂອງພວກເຮົາ.
+
+757
+00:53:51,650 --> 00:53:57,600
+[OXFORD]
+Neither they nor I ever conspired against you. Cecil alone was our aim. He has corrupted your--
+ພວກເຂົາແລະຂ້ອຍບໍ່ເຄີຍສົມຮູ້ຮ່ວມຄິດຕໍ່ເຈົ້າເລີຍ.
+ເຊຊີລຄົນດຽວແມ່ນເປົ້າຫມາຍຂອງພວກເຮົາ. ລາວໄດ້ສໍ້ລາດບັງຫຼວງຂອງທ່ານ -
+
+758
+00:53:58,100 --> 00:54:04,100
+[ELIZABETH]
+Cecil?  He has kept me my throne!  Mary, Queen of Scots... Philip, King of Spain... Four French Louis's... Eight Popes-- they all wanted my head. My throne. All of them!  Yet here I remain... Because of the Cecils.
+ເຊຊີລ? ລາວໄດ້ຮັກສາອານາຈັກຂອງຂ້ອຍໄວ້ໃຫ້ຂ້ອຍ! ມາຣີ, ລາຊິນີຂອງສະກອດສ໌... ຟີລິບປ໌, ກະສັດຂອງສະເປນ... ລູຍສ໌ສີ່ຄົນຝຣັ່ງ...
+ໂປບແປດຄົນ - ພວກເຂົາທຸກຄົນຕ້ອງການຫົວຂອງຂ້ອຍ. ອານາຄານຂອງຂ້ອຍ. ທັງ ຫມົດ! ເຖິງຢ່າງໃດກໍ່ຕາມຂ້ອຍຍັງຢູ່ບ່ອນນີ້... ຍ້ອນເຊຊີລ໌.
+
+759
+00:54:04,600 --> 00:54:06,600
+[OXFORD]
+We would have protected you--
+ພວກເຮົາຈະປົກປ້ອງເຈົ້າ...
+
+760
+00:54:07,100 --> 00:54:13,100
+[ELIZABETH]
+You would have protected me? You? My "loyal" Earls?  You think Essex and Southampton were the first to conspire against me, to try to take my throne? No!  Only the Cecils could I trust! Commoners! They could never claim my throne. Never! Their wealth, their power, their survival, all depended on me. Me and no other!
+ເຈົ້າຈະປົກປ້ອງຂ້ອຍບໍ? ເຈົ້າບໍ? Earl ຂອງຂ້ອຍທີ່"ສັດຊື່" ບໍ? ເຈົ້າຄິດວ່າ Essex ແລະ Southampton ແມ່ນຄົນ ທໍາ ອິດທີ່ສົມຮູ້ຮ່ວມຄິດຕໍ່ຂ້ອຍ, ເພື່ອພະຍາຍາມເອົາອານາຈັກຂອງຂ້ອຍບໍ? ບໍ່! ພຽງແຕ່ Cecils
+ທີ່ຂ້ອຍສາມາດເຊື່ອຖືໄດ້! ຄົນທົ່ວໄປ! ພວກເຂົາບໍ່ສາມາດອ້າງອໍານາດຂອງຂ້ອຍໄດ້ເລີຍ. ບໍ່ເຄີຍ! ຄວາມຮັ່ງມີຂອງພວກເຂົາ, ອໍານາດຂອງພວກເຂົາ, ການຢູ່ລອດຂອງພວກເຂົາ, ທັງ ຫມົດ ແມ່ນຂື້ນກັບຂ້ອຍ. ຂ້ອຍແລະບໍ່ມີຄົນອື່ນ!
+
+761
+00:54:13,600 --> 00:54:15,600
+[OXFORD]
+Let our child live...
+ໃຫ້ລູກຂອງພວກເຮົາດໍາລົງຊີວິດ...
+
+762
+00:54:16,100 --> 00:54:18,100
+[ELIZABETH]
+All Englishmen are my children!
+ຊາວອັງກິດທັງ ຫມົດ ແມ່ນລູກຂອງຂ້ອຍ!
+
+763
+00:54:18,600 --> 00:54:20,600
+[ELIZABETH]
+Does he know?
+ລາວຮູ້ບໍ?
+
+764
+00:54:21,100 --> 00:54:23,550
+[ELIZABETH]
+And if I give him to you?
+ແລະຖ້າຂ້ອຍໃຫ້ລາວໃຫ້ເຈົ້າ?
+
+765
+00:54:24,050 --> 00:54:26,850
+[OXFORD]
+He will never learn of it from me.
+ລາວຈະບໍ່ຮູ້ເລື່ອງນີ້ຈາກຂ້ອຍເລີຍ.
+
+766
+00:54:27,350 --> 00:54:29,800
+[ELIZABETH]
+He must never know... Never.  Take him.
+ລາວບໍ່ຄວນຮູ້ເລີຍ... ບໍ່ເຄີຍ. ເອົາລາວ.
+
+767
+00:54:30,300 --> 00:54:36,300
+[OXFORD]
+But only after my death! Only then! When all is complete. After James is crowned king, his crown safe, only then can you claim your son... our son.  This Island will be whole. 130 pg. 131
+ແຕ່ພຽງແຕ່ຫຼັງຈາກການຕາຍຂອງຂ້ອຍເທົ່ານັ້ນ! ພຽງແຕ່ຫຼັງຈາກນັ້ນ! ເມື່ອທຸກຢ່າງ ສໍາ ເລັດແລ້ວ. ຫຼັງຈາກແຈມສ໌ຖືກຄໍຣົງເປັນກະສັດ
+, ຄໍຣອງຂອງລາວປອດໄພ, ພຽງແຕ່ນັ້ນທ່ານສາມາດອ້າງເອົາລູກຊາຍຂອງທ່ານ... ລູກຊາຍຂອງພວກເຮົາ. ເກາະນີ້ຈະເຕັມໄປດ້ວຍ. 130 pg. 131
+
+768
+00:54:36,800 --> 00:54:42,800
+[OXFORD]
+One Island, one kingdom, one King.  Scotsman though he be.  That, that will be my final gift to my people.  And I shall remain pure... Un-taken!
+ເກາະຫນຶ່ງ, ລາຊະອານາຈັກຫນຶ່ງ, ກະສັດຫນຶ່ງ. ສະກອດສ໌ເຖິງແມ່ນວ່າລາວຈະເປັນ. ນັ້ນ,
+ນັ້ນຈະເປັນຂອງຂວັນສຸດທ້າຍຂອງຂ້ອຍຕໍ່ປະຊາຊົນຂອງຂ້ອຍ. ແລະຂ້ອຍຈະຍັງຄົງບໍລິສຸດ... ບໍ່ຖືກເອົາ!
+
+769
+00:54:43,300 --> 00:54:49,300
+[ELIZABETH]
+Treason... that is all that has come from you... your son... Your plays... None will be claimed by you. None.
+ການປະຫມາດ... ນັ້ນແມ່ນທັງຫມົດທີ່ມາຈາກເຈົ້າ... ລູກຊາຍຂອງທ່ານ.
+.. ການສະແດງຂອງທ່ານ... ບໍ່ມີໃຜຈະຖືກອ້າງເອົາໂດຍເຈົ້າ. ບໍ່ມີໃຜ.
+
+770
+00:54:49,800 --> 00:54:51,800
+[ARCHBISHOP]
+God save the King!
+ພຣະເຈົ້າຊ່ວຍກະສັດ!
+
+771
+00:54:52,300 --> 00:54:54,300
+[EVERYONE IN THE ABBEY]
+God save the King!
+ພຣະເຈົ້າຊ່ວຍກະສັດ!
+
+772
+00:54:54,800 --> 00:54:56,800
+[SHAKESPEARE]
+No, no, no, no.
+ບໍ່, ບໍ່, ບໍ່ມີ, ບໍ່ມີ.
+
+773
+00:54:57,300 --> 00:55:02,200
+[SHAKESPEARE]
+The line won't get a laugh that way. You must accent the word sirrah--
+ເສັ້ນທາງຈະບໍ່ໄດ້ຮັບຄວາມມ່ວນຊື່ນແບບນັ້ນ
+. ເຈົ້າຕ້ອງເນັ້ນຫນັກ ຄໍາ ວ່າ sirrah -
+
+774
+00:55:02,700 --> 00:55:04,700
+[JONSON]
+Will!   Will Shakespeare!
+ວິນ! ວິນ ແຊກເປີ!
+
+775
+00:55:05,200 --> 00:55:07,650
+[JONSON]
+So!    Off to the palace are you?
+ສະນັ້ນ! ເຈົ້າ ກໍາ ລັງໄປທີ່ທໍານຽບບໍ?
+
+776
+00:55:08,150 --> 00:55:10,150
+[SHAKESPEARE]
+Ben!
+ແບນ!
+
+777
+00:55:10,650 --> 00:55:16,650
+[JONSON]
+A command performance for our new king! Even in bloody Scotland they've heard of bloody Will Shakespeare, have they? Fraud. Charlatan. Counterfeiter of wit! Murderer!
+ການສະແດງການບັນຊາການ ສໍາ ລັບກະສັດຄົນໃຫມ່ຂອງພວກເຮົາ! ເຖິງແມ່ນວ່າໃນສະກອດແລນທີ່ເລືອດໄດ້ພວກເຂົາໄດ້ຍິນກ່ຽວກັບ
+Will Shakespeare ທີ່ເລືອງ, ພວກເຂົາບໍ່? ການຟອກເງິນ. Charlatan. ຜູ້ປອມແປງຄວາມສະຫຼາດ! ຜູ້ຄາດຕະກໍາ!
+
+778
+00:55:17,150 --> 00:55:19,150
+[SHAKESPEARE]
+Ben, please...
+ແບນ, ກະລຸນາ...
+
+779
+00:55:19,650 --> 00:55:22,800
+[SHAKESPEARE]
+You came to me, Ben. You came to me!
+ເຈົ້າມາຫາຂ້ອຍ, ແບນ. ເຈົ້າມາກັບຂ້ອຍ!
+
+780
+00:55:23,300 --> 00:55:25,300
+[SERVANT]
+Master Jonson?
+ເຈົ້າຈອນສັນບໍ?
+
+781
+00:55:25,800 --> 00:55:28,600
+[ANNE]
+What is this man doing in my house?
+ຜູ້ຊາຍຄົນນີ້ເຮັດຫຍັງຢູ່ເຮືອນຂອງຂ້ອຍ?
+
+782
+00:55:29,100 --> 00:55:32,600
+[ANNE]
+You will leave at once. My husband is quite ill--
+ເຈົ້າຈະອອກໄປທັນທີ. ຜົວຂອງຂ້ອຍເຈັບປ່ວຍຫຼາຍ...
+
+783
+00:55:33,100 --> 00:55:36,250
+[JONSON]
+It was your husband who sent for me, madam.
+ມັນເປັນຜົວຂອງທ່ານທີ່ສົ່ງຄົນມາຫາຂ້ອຍ, ແມ່.
+
+784
+00:55:36,750 --> 00:55:38,750
+[ANNE]
+And I am dismissing you--
+ແລະຂ້ອຍ ກໍາ ລັງໄລ່ເຈົ້າອອກ...
+
+785
+00:55:39,250 --> 00:55:41,250
+[SECOND DOCTOR]
+Are you Jonson?
+ເຈົ້າເປັນຈອນສັນບໍ?
+
+786
+00:55:41,750 --> 00:55:43,750
+[SECOND DOCTOR]
+He's asking for you.
+ລາວ ກໍາ ລັງຖາມເຈົ້າ.
+
+787
+00:55:44,250 --> 00:55:46,250
+[JONSON]
+Excuse me, your grace.
+ຂໍໂທດເດີ, ພຣະເຈົ້າ.
+
+788
+00:55:46,750 --> 00:55:48,750
+[OXFORD]
+Thank you, doctor.
+ຂອບໃຈເດີ ດອກຕໍ.
+
+789
+00:55:49,250 --> 00:55:51,250
+[OXFORD]
+Come over here, Jonson...
+ມາບ່ອນນີ້, ຈອນສັນ...
+
+790
+00:55:51,750 --> 00:55:57,750
+[OXFORD]
+Did you know, Jonson, that my family can trace its peerage farther back than any family in the kingdom?   We fought at Crecy. At Bosworth Field. At Agincourt.  I inherited my Earldom as one of the wealthiest men ever to breathe English air... and at last breath, I shall be one of the poorest.
+ເຈົ້າຮູ້ບໍ, ຈອນສັນ, ວ່າຄອບຄົວຂອງຂ້ອຍສາມາດຕິດຕາມຄວາມເປັນຄົນສູງສຸດຂອງມັນໄດ້ໄກກວ່າຄອບຄົວໃດໆໃນອານາຈັກບໍ? ພວກເຮົາຕໍ່ສູ້ຢູ່ Crecy. ຢູ່ສະຫນາມໂບສວອດ. ຢູ່ Agincourt.
+ຂ້ອຍໄດ້ຮັບມໍລະດົກ Earlhood ຂອງຂ້ອຍເປັນ ຫນຶ່ງ ໃນຜູ້ຊາຍທີ່ອຸດົມສົມບູນທີ່ສຸດທີ່ເຄີຍຫາຍໃຈອາກາດອັງກິດ... ແລະໃນລົມຫາຍໃຈສຸດທ້າຍ, ຂ້ອຍຈະເປັນ ຫນຶ່ງ ໃນຄົນທຸກຍາກທີ່ສຸດ.
+
+791
+00:55:58,250 --> 00:56:04,250
+[OXFORD]
+Never a voice in government. Never a sword raised in glorious battle. No immortal deeds for my heirs to know me by.  Words, merely words, are to be my legacy...  You alone watch my plays and know them as mine. When I hear the applause, the cheering, of the audience, all those hands clapping, they are celebrating... another man. But in that cacophony of sounds, I strained to hear the sound of two hands only. Yours.  But heard them, I never did.
+ບໍ່ເຄີຍມີສຽງໃນລັດຖະບານ. ບໍ່ເຄີຍມີການກະທູ້ທີ່ຍົກຂຶ້ນໃນການຕໍ່ສູ້ທີ່ສວຍງາມ. ບໍ່ມີການກະທໍາທີ່ບໍ່ຕາຍສໍາລັບຜູ້ສືບທອດຂອງຂ້ອຍທີ່ຈະຮູ້ຈັກຂ້ອຍໂດຍ. ຄໍາ ເວົ້າ, ພຽງແຕ່ຄໍາເວົ້າ, ແມ່ນເພື່ອເປັນມໍລະດົກຂອງຂ້ອຍ...
+ເຈົ້າຄົນດຽວເບິ່ງບົດສະແດງຂອງຂ້ອຍແລະຮູ້ພວກມັນເປັນຂອງຂ້ອຍ. ເມື່ອຂ້ອຍໄດ້ຍິນການຊົມເຊີຍ, ການຍິນດີ, ຂອງຜູ້ຊົມ, ມືທັງ ຫມົດ ນັ້ນ, ພວກເຂົາ ກໍາ ລັງສະເຫຼີມສະຫຼອງ... ຜູ້ຊາຍຄົນອື່ນ. ແຕ່ໃນສຽງຄາໂກໂຟນີນັ້ນ, ຂ້ອຍພະຍາຍາມ
+
+792
+00:56:04,750 --> 00:56:10,750
+[OXFORD]
+Death takes away all pretense and demands honesty from its target. You, you have never told me... never told me what you thought of my work...
+ຄວາມຕາຍເອົາການປອມແປງທັງ ຫມົດ ແລະ ຮຽກຮ້ອງຄວາມຈິງໃຈຈາກເປົ້າຫມາຍຂອງມັນ. ເຈົ້າ,
+ເຈົ້າບໍ່ເຄີຍບອກຂ້ອຍເລີຍ... ບໍ່ເຄີຍບອກເຈົ້າວ່າເຈົ້າຄິດແນວໃດກ່ຽວກັບວຽກຂອງຂ້ອຍ...
+
+793
+00:56:11,250 --> 00:56:16,850
+[JONSON]
+I find... your words... the most wondrous ever heard on our stage.    On any stage... Ever.
+ຂ້ອຍພົບວ່າ... ຄໍາ ເວົ້າຂອງທ່ານ...
+ທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດທີ່ເຄີຍໄດ້ຍິນໃນເວທີຂອງພວກເຮົາ. ໃນເວທີໃດກໍ່ຕາມ... ຕະຫຼອດເວລາ.
+
+794
+00:56:17,350 --> 00:56:19,800
+[JONSON]
+You are the soul of the age...
+ເຈົ້າເປັນຈິດວິນຍານຂອງສະໄຫມ...
+
+795
+00:56:20,300 --> 00:56:26,250
+[OXFORD]
+Promise me... promise me, Jonson, that you will keep our secret safe. That you won't expose Shakespeare...
+ໃຫ້ຄໍາຫມັ້ນສັນຍາໃຫ້ຂ້ອຍ... ໃຫ້ຄໍາ ຫມັ້ນ ສັນຍາໃຫ້ຂ້ອຍ, ຈອນສັນ,
+ວ່າເຈົ້າຈະຮັກສາຄວາມລັບຂອງພວກເຮົາໄວ້ຢ່າງປອດໄພ. ວ່າເຈົ້າຈະບໍ່ເປີດເຜີຍແຊກເປີ...
+
+796
+00:56:26,750 --> 00:56:28,750
+[JONSON]
+My lord?
+ເຈົ້າຂອງຂ້ອຍບໍ?
+
+797
+00:56:29,250 --> 00:56:35,250
+[OXFORD]
+I have seen it in your face... He vexes you. How could he not? But he is not your burden. He is mine.
+ຂ້ອຍເຫັນມັນຢູ່ໃນໃບຫນ້າຂອງເຈົ້າ... ລາວເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ.
+ລາວບໍ່ສາມາດເຮັດໄດ້ແນວໃດ? ແຕ່ລາວບໍ່ແມ່ນພາສີຂອງເຈົ້າ. ລາວເປັນຂອງຂ້ອຍ.
+
+798
+00:56:35,750 --> 00:56:41,750
+[OXFORD]
+All my writings. The plays, the sonnets... Keep them safe. Keep them from my family. From the Cecil's. Wait a few years, and then, publish them.
+ການຂຽນຂອງຂ້ອຍທັງ ຫມົດ. ບົດສະແດງ, ໂຊນເນັດ... ຮັກສາພວກມັນປອດໄພ.
+ຮັກສາມັນຈາກຄອບຄົວຂອງຂ້ອຍ. ຈາກຂອງເຊຊີລ. ລໍຖ້າສອງສາມປີ, ແລະຫຼັງຈາກນັ້ນ, ພິມພວກມັນ.
+
+799
+00:56:42,250 --> 00:56:48,250
+[JONSON]
+I am not worthy of this charge, my lord. I... I betrayed you... I told them of your--
+ຂ້ອຍບໍ່ເຫມາະສົມກັບຂໍ້ກ່າວຫານີ້, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ.
+ຂ້ອຍ... ຂ້ອຍໄດ້ປະຫມາດເຈົ້າ... ຂ້ອຍບອກພວກເຂົາກ່ຽວກັບເຈົ້າ -
+
+800
+00:56:48,750 --> 00:56:54,750
+[OXFORD]
+I have made it my life to know the character of men, Jonson. I know you. You may have betrayed me, but you will never betray my words...
+ຂ້ອຍໄດ້ເຮັດໃຫ້ມັນເປັນຊີວິດຂອງຂ້ອຍເພື່ອຮູ້ລັກສະນະຂອງຜູ້ຊາຍ, ຈອນສັນ.
+ຂ້ອຍຮູ້ຈັກເຈົ້າ. ເຈົ້າອາດຈະປະຫມາດຂ້ອຍ, ແຕ່ເຈົ້າຈະບໍ່ປະພາດຄໍາເວົ້າຂອງຂ້ອຍເລີຍ...
+
+801
+00:56:55,250 --> 00:57:01,250
+[ANNE]
+Get out! You, your friends, your blasphemous theaters, have brought nothing but ruin and dishonor to this family.
+ອອກໄປ! ເຈົ້າ, ເພື່ອນມິດຂອງທ່ານ, ໂຮງລະຄອນໂຊກຮ້າຍຂອງທ່ານ,
+ໄດ້ນໍາເອົາຫຍັງນອກຈາກຄວາມເສຍຫາຍແລະຄວາມກຽດຊັງຕໍ່ຄອບຄົວນີ້.
+
+802
+00:57:01,750 --> 00:57:07,750
+[JONSON]
+Ruin? Dishonor? Madam. You, your family, me, even Elizabeth herself shall be remembered solely because we had the honor to live whilst your husband put ink to paper.
+ການທໍາລາຍ? ຄວາມໂຊກຮ້າຍ? ແມ່. ເຈົ້າ, ຄອບຄົວຂອງທ່ານ, ຂ້ອຍ,
+ເຖິງແມ່ນວ່າເອລີຊາເບັດເອງຈະຖືກຈື່ໄວ້ພຽງແຕ່ເພາະວ່າພວກເຮົາມີກຽດຕິຍົດທີ່ຈະດໍາລົງຊີວິດໃນຂະນະທີ່ຜົວຂອງທ່ານເອົາສີມັງໃສ່ເຈ້ຍ.
+
+803
+00:57:08,250 --> 00:57:14,250
+[JONSON]
+To the Earl of Southampton. The love I dedicate to your lordship is without end; whereof this pamphlet, without beginning, is but a superfluous moiety.
+ຕໍ່ Earl ຂອງ Southampton. ຄວາມຮັກທີ່ຂ້ອຍອຸທິດໃຫ້ເຈົ້າຂອງເຈົ້າບໍ່ມີສິ້ນສຸດ
+; ເຊິ່ງປື້ມປຶ້ມນີ້, ໂດຍບໍ່ມີການເລີ່ມຕົ້ນ, ແມ່ນພຽງແຕ່ສ່ວນທີ່ເກີນໄປ.
+
+804
+00:57:14,750 --> 00:57:20,750
+[JONSON]
+What I have done is yours; what I have to do is yours; being part in all I have, devoted, yours.
+ສິ່ງທີ່ຂ້ອຍເຮັດແມ່ນຂອງເຈົ້າ; ສິ່ງທີ່ຂ້ອຍຕ້ອງເຮັດແມ່ນຂອງທ່ານ
+; ເປັນສ່ວນ ຫນຶ່ງ ໃນທຸກຢ່າງທີ່ຂ້ອຍມີ, ອຸທິດຕົນ, ຂອງເຈົ້າ.
+
+805
+00:57:21,250 --> 00:57:27,250
+[JONSON]
+Were my worth greater, my duty would show greater; meantime, as it is, it is bound to your lordship, to whom I wish long life... still lengthened with all happiness.
+ຖ້າຄຸນຄ່າຂອງຂ້ອຍໃຫຍ່ກວ່າ, ຫນ້າ ທີ່ຂອງຂ້ອຍຈະສະແດງໃຫ້ເຫັນໃຫຍ່ກວ່າ; ໃນຂະນະດຽວກັນ, ດັ່ງທີ່ມັນເປັນ
+, ມັນເຊື່ອມໂຍງກັບເຈົ້າຂອງເຈົ້າ, ຜູ້ທີ່ຂ້ອຍຢາກມີຊີວິດຍາວນານ... ຍັງຍືດຍາວດ້ວຍຄວາມສຸກທັງ ຫມົດ.
+
+806
+00:57:27,750 --> 00:57:33,750
+[CECIL]
+I can make all this go away, Jonson... To be but a dream. Like one of your plays... Or, I can bring you so much pain-- pain that were you given a thousand years, and a thousand quills, you could never justly describe...
+ຂ້ອຍສາມາດເຮັດໃຫ້ສິ່ງທັງ ຫມົດ ນີ້ຫາຍໄປໄດ້, ຈອນສັນ... ເພື່ອເປັນພຽງແຕ່ຄວາມຝັນເທົ່ານັ້ນ. ຄືກັບ ຫນຶ່ງ ໃນບົດສະແດງຂອງທ່ານ... ຫຼື, ຂ້ອຍສາມາດ
+ນໍາ ຄວາມເຈັບປວດຫຼາຍປານໃດມາໃຫ້ເຈົ້າ - ຄວາມທຸກທໍລະມານທີ່ເຈົ້າໄດ້ຮັບພັນປີ, ແລະພັນ quills, ເຈົ້າບໍ່ສາມາດອະທິບາຍໄດ້ຢ່າງຍຸຕິທໍາ...
+
+807
+00:57:34,250 --> 00:57:40,250
+[CECIL]
+I know you have them. All his manuscripts. My sister saw you leave Oxford Stone with them under your arm.
+ຂ້ອຍຮູ້ວ່າເຈົ້າມີພວກມັນ. ບົດຂຽນທັງ ຫມົດ ຂອງລາວ.
+ເອື້ອຍຂອງຂ້ອຍເຫັນເຈົ້າອອກຈາກຫີນໂອກສຟອດດ້ວຍພວກມັນພາຍໃຕ້ແຂນຂອງທ່ານ.
+
+808
+00:57:40,750 --> 00:57:43,550
+[JONSON]
+They were destroyed...   burned...   by your own men...
+ພວກເຂົາຖືກທໍາລາຍ... ຖືກເຜົາໄຫມ້... ໂດຍຜູ້ຊາຍຂອງທ່ານເອງ...
+
+809
+00:57:44,050 --> 00:57:50,050
+[JONSON]
+My lord? Why would I lie? Is there a man alive who has reason to hate him more than I?
+ເຈົ້າຂອງຂ້ອຍ? ຂ້ອຍຈະຕົວະເປັນຫຍັງ?
+ມີຜູ້ຊາຍທີ່ມີຊີວິດຢູ່ທີ່ມີເຫດຜົນທີ່ຈະກຽດຊັງລາວຫຼາຍກ່ວາຂ້ອຍບໍ?
+
+810
+00:57:50,550 --> 00:57:56,550
+[JONSON]
+He was something I could never be. An undeniable perfection... that plagued my soul... And to him I was... nothing. A messenger. Nothing more.
+ລາວເປັນບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ສາມາດເປັນໄດ້ເລີຍ. ຄວາມສົມບູນແບບທີ່ບໍ່ສາມາດປະຕິເສດໄດ້...
+ທີ່ເຮັດໃຫ້ຈິດວິນຍານຂອງຂ້ອຍເຈັບປວດ... ແລະ ສໍາ ລັບລາວຂ້ອຍແມ່ນ... ບໍ່ມີຫຍັງເລີຍ. ຜູ້ສົ່ງສານ. ບໍ່ມີຫຍັງອີກຕໍ່ໄປ.
+
+811
+00:57:57,050 --> 00:57:59,500
+[CECIL]
+Let him go!   He tells the truth.
+ໃຫ້ລາວໄປ! ລາວເວົ້າຄວາມຈິງ.
+
+812
+00:58:00,000 --> 00:58:05,950
+[CECIL]
+And Jonson-- better him, won't you? Wipe his memory for all time. For you. And for me.
+ແລະຈອນສັນ - ດີກວ່າລາວ, ເຈົ້າບໍ່?
+ລຶບຄວາມຊົງຈໍາຂອງລາວຕະຫຼອດເວລາ. ສໍາ ລັບເຈົ້າ. ແລະ ສໍາ ລັບຂ້ອຍ.
+
+813
+00:58:06,450 --> 00:58:09,950
+[JONSON]
+I am afraid that this is not possible, my lord.
+ຂ້ອຍຢ້ານວ່າສິ່ງນີ້ບໍ່ສາມາດເຮັດໄດ້, ພຣະຜູ້ເປັນເຈົ້າຂອງຂ້ອຍ.
+
+814
+00:58:10,450 --> 00:58:15,350
+[PROLOGUE]
+O-- for a muse of fire... that would ascend the brightest heaven of invention...
+ໂອ້ - ສໍາລັບມູຊາຂອງໄຟ...
+ທີ່ຈະຂຶ້ນສູ່ສະຫວັນທີ່ສົດໃສທີ່ສຸດຂອງການຄົ້ນຄວ້າ...
+
+815
+00:58:15,850 --> 00:58:21,100
+[PROLOGUE]
+A kingdom for a stage, princes to act, and monarchs to behold the swelling scene!
+ອານາຈັກ ສໍາ ລັບເວທີ, ເຈົ້າຊາຍທີ່ຈະສະແດງ
+, ແລະກະສັດທີ່ຈະເບິ່ງເວທີທີ່ສັ່ນສະເທືອນ!
+
+816
+00:58:21,600 --> 00:58:25,800
+[PROLOGUE]
+Let us, ciphers to this great accompt, on your imaginary forces work.
+ຂໍໃຫ້ພວກເຮົາ, ciphers ກັບຜົນສໍາເລັດທີ່ຍິ່ງໃຫຍ່ນີ້
+, ກ່ຽວກັບກໍາລັງຈິນຕະນາການຂອງທ່ານເຮັດວຽກ.
+
+817
+00:58:26,300 --> 00:58:32,300
+[JAMES I]
+We had seen some of this Shakespeare's plays in Edinburgh, Sir Robert. I must tell you, we enjoyed them immensely, and look forward to seeing many more, now that we are in London... I presume you are as avid a theater man as myself?
+ພວກເຮົາເຄີຍເຫັນບົດສະແດງຂອງແຊກເປຍນີ້ບາງຢ່າງໃນເອດບິນເປີ, ທ້າວ ໂຣເບີດ. ຂ້ອຍຕ້ອງບອກເຈົ້າ, ພວກເຮົາໄດ້ເພີດເພີນກັບພວກມັນຢ່າງຫຼວງຫຼາຍ
+, ແລະຫວັງວ່າຈະເຫັນອີກຫຼາຍຢ່າງ, ດຽວນີ້ທີ່ພວກເຮົາຢູ່ໃນລອນດອນ... ຂ້ອຍຄິດວ່າເຈົ້າເປັນຜູ້ຊາຍໂຮງລະຄອນທີ່ມັກຄືກັບຂ້ອຍເອງບໍ?
+
+818
+00:58:32,800 --> 00:58:34,800
+[ROBERT CECIL]
+Of course, your majesty...
+ແນ່ນອນ, ເຈົ້າສູງສຸດ...
+
+819
+00:58:35,300 --> 00:58:41,300
+[PROLOGUE]
+Robert Cecil remained the most powerful man in the Court of King James, though he could not prevent the public theaters from becoming ever more popular. William Shakespeare, however, spent the remaining years of his life not in the playhouses of London, but in the small town of his birth, Stratford upon Avon, as a businessman and grain merchant.
+ໂຣເບີດ ເຊຊີລ ຍັງຄົງເປັນຜູ້ຊາຍທີ່ມີພະລັງທີ່ສຸດໃນສານຂອງກະສັດ ເຈມສ໌, ເຖິງແມ່ນວ່າລາວບໍ່ສາມາດປ້ອງກັນໂຮງລະຄອນສາທາລະນະຈາກການກາຍເປັນທີ່ນິຍົມຫຼາຍຂຶ້ນ. ແຕ່ William
+Shakespeare ໄດ້ໃຊ້ເວລາປີທີ່ເຫຼືອຂອງຊີວິດຂອງລາວບໍ່ແມ່ນໃນເຮືອນຫຼິ້ນຂອງລອນດອນ, ແຕ່ໃນເມືອງນ້ອຍທີ່ເກີດຂອງລາວ, Stratford upon Avon, ເປັນນັກທຸລະກິດແລະພໍ່ຄ້າເຂົ້າສານ.
+
+820
+00:58:41,800 --> 00:58:47,800
+[PROLOGUE]
+Ben Jonson succeeded in his desire to be the most celebrated playwright of his time, becoming England's first Poet Laureate. And in 1623, he wrote the dedication to the collected works of the man we call William Shakespeare.  And so... though our story is finished, our poet's is not. For his monument is ever-living, made not of stone but of verse, and it shall be remembered... as long as words are made of breath and breath of life.
+ແບນ ຈອນສັນໄດ້ປະສົບຜົນສໍາເລັດໃນການປາຖະຫນາຂອງລາວທີ່ຈະເປັນນັກຂຽນລະຄອນທີ່ມີຊື່ສຽງທີ່ສຸດໃນສະໄຫມຂອງລາວ, ກາຍເປັນນັກກະວີ Laureate ທໍາ ອິດຂອງອັງກິດ. ແລະໃນປີ 1623, ລາວໄດ້ຂຽນການອຸທິດຕົນຕໍ່ຜົນງານທີ່ເກັບກໍາຂອງຜູ້ຊາຍທີ່ພວກເຮົາເອີ້ນວ່າວິກິລາມ
+ແຊກເປີ. ແລະດັ່ງນັ້ນ... ເຖິງແມ່ນວ່າເລື່ອງຂອງພວກເຮົາຈະສິ້ນສຸດລົງ, ຂອງນັກກະສິລະປິນຂອງພວກເຮົາບໍ່ແມ່ນ. ສໍາລັບອະນຸສາວະລີຂອງລາວແມ່ນມີຊີວິດຢູ່ຕະຫຼອດໄປ, ບໍ່ເຮັດດ້ວຍຫີນແຕ່ດ້ວຍ
+

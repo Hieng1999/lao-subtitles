@@ -1,0 +1,3907 @@
+1
+00:00:10,000 --> 00:00:12,000
+[ESCAPE FROM L.A.]
+Screenplay by John Carpenter
+ຮູບເງົາໂດຍຈອນ ຄາເປັນເຕີ
+
+2
+00:00:12,500 --> 00:00:18,500
+[DARKNESS]
+A pounding, metallic beat begins. Twists of sound in a tightrope rhythm. The snap of a military snare drum.
+ການຕີໂລຫະທີ່ຕີ, ເລີ່ມຕົ້ນ. ການຫັນສຽງໃນລໍາດັບສາຍແອວທີ່ເຂັ້ມງວດ
+. ການສັ່ນສະເທືອນຂອງດຣັມແຄບທະຫານ.
+
+3
+00:00:19,000 --> 00:00:23,550
+[FEMALE NARRATOR]
+Forces hostile to the United States grow strong in the late 20th Century.
+ກໍາລັງທີ່ເປັນສັດຕູຕໍ່ສະຫະລັດເຕີບໃຫຍ່ຂຶ້ນຢ່າງແຂງແຮງໃນທ້າຍສະຕະວັດທີ
+20.
+
+4
+00:00:24,050 --> 00:00:30,050
+[FEMALE NARRATOR]
+A great moral crisis grips the nation as social revolution and a breakdown of the criminal justice system threaten society.
+ວິກິດການທາງດ້ານສິນທໍາທີ່ຍິ່ງໃຫຍ່ ກໍາ
+ລັງຈັບກຸມປະເທດຊາດໃນຂະນະທີ່ການປະຕິວັດທາງສັງຄົມແລະການແຕກແຍກຂອງລະບົບຍຸຕິທໍາອາຍາຂົ່ມຂູ່ສັງຄົມ.
+
+5
+00:00:30,550 --> 00:00:35,100
+[FEMALE NARRATOR]
+To protect and defend its citizens, the United States Police Force is formed.
+ເພື່ອປົກປ້ອງແລະປ້ອງກັນພົນລະເມືອງຂອງຕົນ
+, ກໍາລັງຕໍາຫຼວດສະຫະລັດຖືກສ້າງຕັ້ງຂຶ້ນ.
+
+6
+00:00:35,600 --> 00:00:38,750
+[A GLOWING HOLOGRAPHIC MAP]
+Of Los Angeles, on the coast of southern California.
+ຈາກລັສແອນເຈລສ໌, ຢູ່ແຄມຝັ່ງທະເລຂອງພາກໃຕ້ຄາລີຟໍເນຍ.
+
+7
+00:00:39,250 --> 00:00:45,250
+[FEMALE NARRATOR]
+The population of Los Angeles grows to 40 million. The city is ravaged by crime and immorality. A Presidential candidate predicts a millennium earthquake will destroy the city in divine retribution.
+ປະຊາກອນຂອງລັສແອນເຈລສ໌ເຕີບໃຫຍ່ຂຶ້ນເປັນ 40 ລ້ານຄົນ. ເມືອງຖືກທໍາລາຍໂດຍອາຊະຍາກໍາແລະຄວາມໂຊກຮ້າຍ
+. ຜູ້ສະຫມັກປະທານາທິບໍດີຄາດຄະເນວ່າແຜ່ນດິນໄຫວພັນປີຈະທໍາລາຍເມືອງໃນການຕອບແທນຈາກພຣະເຈົ້າ.
+
+8
+00:00:45,750 --> 00:00:51,750
+[FEMALE NARRATOR]
+An earthquake measuring 9.6 on the Richter scale hits at 12:59 p.m., August 23rd, in the year 2000.
+ແຜ່ນດິນໄຫວຂະຫນາດ 9.6 ໃນລະດັບ Richter ໄດ້ເກີດຂຶ້ນໃນເວລາ
+12:59 ໂມງແລງ, ວັນທີ 23 ສິງຫາ, ໃນປີ 2000.
+
+9
+00:00:52,250 --> 00:00:58,250
+[SEQUENCE OF RAPID CUTS]
+Buildings shaking. Streets buckling. Cars rolling, crashing. People running. Gas mains exploding. Buildings convulsing and dropping like tinder against an inferno.
+ອາຄານທີ່ສັ່ນສະເທືອນ. ຖະຫນົນຫົນທາງທີ່ຍືດຫຍຸ່ນ. ລົດທີ່ລວດລ້ອມ, ຕົກລົງ. ຄົນແລ່ນ
+. ສາຍແກັສລະເບີດ. ອາຄານທີ່ມີຄວາມວຸ້ນວາຍແລະຫຼຸດລົງຄືກັບ tinder ຕໍ່ອານາໄມ.
+
+10
+00:00:58,750 --> 00:01:04,750
+[THE SANTA MONICA PIER]
+As the tsunami sweeps in from the ocean, smacking into the shoreline like the hammer of God, plunging us into darkness.
+ໃນຂະນະທີ່ໄພສຸນາມິພັດເຂົ້າມາຈາກມະຫາສະຫມຸດ,
+ຕີເຂົ້າໄປໃນແຄມຝັ່ງທະເລຄືກັບກະດານຂອງພຣະເຈົ້າ, ເຮັດໃຫ້ພວກເຮົາຕົກລົງໃນຄວາມມືດ.
+
+11
+00:01:05,250 --> 00:01:11,250
+[FEMALE NARRATOR]
+After the devastation, the constitution is damned, and the newly elected President accepts a lifetime term of office.
+ຫຼັງຈາກການທໍາລາຍ, ລັດຖະທໍາມະນູນຖືກໂຊກຮ້າຍ,
+ແລະປະທານາທິບໍດີທີ່ຖືກເລືອກໃຫມ່ຍອມຮັບການດໍາລົງຕໍາແຫນ່ງຕະຫຼອດຊີວິດ.
+
+12
+00:01:11,750 --> 00:01:17,000
+[HOLOGRAPHIC MAP]
+Of the United States. A line tracks along the Mexican border, like the Berlin Wall.
+ຂອງສະຫະລັດ. ເສັ້ນທາງຕາມຊາຍແດນເມັກຊິໂກ, ຄືກັບກໍາແພງເບີລິນ.
+
+13
+00:01:17,500 --> 00:01:23,500
+[FEMALE NARRATOR]
+Fearing a massive terrorist invasion from South America, the United States prepares for war. The Great Wall is built along the southern border, cutting off the flow of illegal aliens.
+ຍ້ອນຢ້ານກົວການບຸກໂຈມຕີຂອງພວກກໍ່ການຮ້າຍທີ່ໃຫຍ່ຫຼວງຈາກອາເມລິກາໃຕ້, ສະຫະລັດກໍາລັງກຽມພ້ອມສໍາລັບສົງຄາມ
+. ກໍາແພງໃຫຍ່ຖືກສ້າງຂຶ້ນຕາມຊາຍແດນພາກໃຕ້, ຕັດການໄຫຼຂອງຄົນຕ່າງດ້າວຜິດກົດຫມາຍ.
+
+14
+00:01:24,000 --> 00:01:29,950
+[FEMALE NARRATOR]
+Street gangs, South American terrorists and the criminally insane capture Los Angeles, the once-great City of Angels.
+ພວກກະບົດຖະຫນົນຫົນທາງ, ພວກກໍ່ການຮ້າຍອາເມລິກາໃຕ້ແລະຄົນໂຊກຮ້າຍທາງອາຊະຍາກໍາຈັບລັສແອນເຈລສ໌
+, ເມືອງຂອງເທວະດາທີ່ຍິ່ງໃຫຍ່ຄັ້ງຫນຶ່ງ.
+
+15
+00:01:30,450 --> 00:01:36,450
+[FEMALE NARRATOR]
+Now an island on the border of civilization, L.A. is a no-man's land of chaos, anarchy and darkness.
+ດຽວນີ້ເປັນເກາະຢູ່ຊາຍແດນຂອງວັດທະນະທໍາ, LA
+ແມ່ນດິນຂອງບໍ່ມີໃຜຂອງຄວາມສັບສົນ, ຄວາມໂຊກຮ້າຍແລະຄວາມມືດ.
+
+16
+00:01:36,950 --> 00:01:42,200
+[FEMALE NARRATOR]
+The United States Police Force, like an army, is encamped in the San Gabriel Mountains.
+ກໍາລັງຕໍາຫຼວດສະຫະລັດ, ຄືກັບກອງທັບ, ຕັ້ງຄ້າຍຢູ່ພູແຄມແຊນແກບຣີເລ.
+
+17
+00:01:42,700 --> 00:01:48,700
+[FEMALE NARRATOR]
+The President's first act as Permanent Commander-in-Chief is Directive 17: protect and defend the United States from this island of the damned, Hell on Earth.
+ການກະທໍາ ທໍາ ອິດຂອງປະທານາທິບໍດີເປັນຜູ້ບັນຊາການໃຫຍ່ຖາວອນແມ່ນ ຄໍາ ແນະ
+ນໍາ 17: ປົກປ້ອງແລະປ້ອງກັນສະຫະລັດຈາກເກາະແຫ່ງຄົນໂຊກຮ້າຍນີ້, ອານາໄມໂລກ.
+
+18
+00:01:49,200 --> 00:01:55,200
+[HOURS G.M.T. "]
+A Salesman with a chin-mike speaks non-stop, unintelligible Chinese. A frenzied crowd gathers around him, waving money, placing bets.
+ຄຸເຂົ່າລົງ
+
+19
+00:01:55,700 --> 00:02:01,650
+[CLOSEUP OF PLISSKEN'S ARM]
+... the cigarette girl touches him, pricks his skin with her fingernail. A drop of blood appears.
+... ເດັກຍິງສູບຢາຈັບລາວ,
+ເຈາະຜິວຫນັງຂອງລາວດ້ວຍນິ້ວມືຂອງນາງ. ຫຼອດເລືອດປາກົດຕົວ.
+
+20
+00:02:02,150 --> 00:02:08,150
+[KACLANG!]
+Out of the blackness above a huge steel net drops out of nowhere. The net slams down on top of PLISSKEN, trapping him, driving him down to the pavement with its weight... PLISSKEN struggles inside the net as black figures - United States Police Force Officers - rush toward him, grab the net, tightening it. More cops move for him as we SLOWLY FADE TO BLACK...
+ຈາກຄວາມມືດຢູ່ເທິງເຄືອຂ່າຍເຫຼັກທີ່ໃຫຍ່ຫຼວງຫຼຸດລົງຈາກບໍ່ມີບ່ອນໃດເລີຍ. ເຄືອ ຂ່າຍຕົກລົງຢູ່ເທິງສຸດຂອງປລິສເກນ, ຈັບລາວ, ຂັບລາວລົງສູ່ຖະຫນົນຫົນທາງດ້ວຍນ້ ໍາ ຫນັກ ຂອງມັນ...
+ປລິດເກນຕໍ່ສູ້ຢູ່ພາຍໃນເຄື່ອຂ່າຍເປັນຕົວເລກສີ ດໍາ - ເຈົ້າຫນ້າທີ່ກອງທັບຕໍາຫຼວດສະຫະລັດ - ແລ່ນໄປຫາລາວ, ກວມເອົາເຄົາຂ່າຍ, ເຂັ້ມແຂງມັນ. ຕໍາຫຼວດຫຼາຍຄົນເຄື່ອນຍ້າຍ ສໍາ ລັບລາວໃນຂະນະທີ່ພວກເຮົາຊ້າຊ
+
+21
+00:02:08,650 --> 00:02:14,650
+[POLICE ANCHOR]
+He's been the Force's Most Wanted Man for 10 years. Convicted of 27 moral crimes. I can tell you, the excitement around here is...  Here he comes!
+ລາວເປັນຜູ້ຊາຍທີ່ຕ້ອງການທີ່ສຸດຂອງກອງທັບເປັນເວລາ 10 ປີແລ້ວ. ຖືກຕັດສິນໂທດໃນອາຊະຍາກໍາທາງດ້ານສິນທໍາ
+27. ຂ້ອຍສາມາດບອກເຈົ້າໄດ້, ຄວາມຕື່ນເຕັ້ນຢູ່ບ່ອນນີ້ແມ່ນ... ລາວມາແລ້ວ!
+
+22
+00:02:15,150 --> 00:02:17,600
+[BRAZEN]
+Commander Malloy. They're bringing him out, sir.
+ຜູ້ບັນຊາການມາລອຍ. ພວກເຂົາ ກໍາ ລັງເອົາລາວອອກມາ, ທ່ານ.
+
+23
+00:02:18,100 --> 00:02:20,100
+[MALLOY]
+So we finally got him.
+ສະນັ້ນພວກເຮົາໄດ້ຈັບລາວແລ້ວ.
+
+24
+00:02:20,600 --> 00:02:22,700
+[POLICE ANCHOR]
+Hold one! The door is opening!
+ຢືນຢັນຫນຶ່ງ! ປະຕູກໍາລັງເປີດ!
+
+25
+00:02:23,200 --> 00:02:25,200
+[POLICE ANCHOR]
+Hello, Plissken. Welcome to L.A.
+ສະບາຍດີ, ປລິສສເກນ. ຍິນດີຕ້ອນຮັບໃນລ. ເອ.
+
+26
+00:02:25,700 --> 00:02:31,700
+[POLICE VOICE]
+You are now entering the Deportation Center. You have been found guilty of moral crimes against the United States of America.
+ເຈົ້າ ກໍາ ລັງເຂົ້າໄປໃນສູນສົ່ງອອກ.
+ເຈົ້າໄດ້ຖືກພົບເຫັນວ່າມີຄວາມຜິດຕໍ່ອາຊະຍາກໍາທາງດ້ານສິນທໍາຕໍ່ສະຫະລັດອາເມລິກາ.
+
+27
+00:02:32,200 --> 00:02:38,200
+[POLICE ANCHOR]
+S.D. Bob Plissken. Special Forces, Black Light, Texas Thunder. Two Purple Hearts. Youngest man ever decorated by the President.
+SD ໂບບ ປລິສສເກນ. ກໍາລັງພິເສດ, ແສງ ດໍາ, Texas Thunder. ສອງຫົວໃຈສີບົວ
+. ຜູ້ຊາຍຫນຸ່ມທີ່ສຸດທີ່ເຄີຍໄດ້ຮັບການປະດັບປະເສີດໂດຍປະທານາທິບໍດີ.
+
+28
+00:02:38,700 --> 00:02:44,700
+[POLICE ANCHOR]
+You've been convicted of 27 moral crimes, Plissken. The murder of an Internal Revenue agent. The kidnapping of a bank president. Gun fighting for profit. The list goes on and on...
+ເຈົ້າໄດ້ຖືກຕັດສິນໂທດໃນອາຊະຍາກໍາທາງດ້ານສິນທໍາ 27 ຄົນ, ປລິສສເກນ. ການຄາດຕະກໍາຕົວແທນລາຍໄດ້ພາຍໃນ
+. ການລັກພາຕົວປະທານທະນາຄານ. ການຕໍ່ສູ້ປືນເພື່ອຜົນປະໂຫຍດ. ລາຍຊື່ຕໍ່ໄປແລະຕໍ່ໄປ...
+
+29
+00:02:45,200 --> 00:02:51,200
+[POLICE ANCHOR]
+You used to respect the law. Served your country like no man before you. Role model to a generation.
+ເຈົ້າເຄີຍເຄົາລົບກົດ ຫມາຍ.
+ຮັບໃຊ້ປະເທດຂອງທ່ານຄືກັບບໍ່ມີຜູ້ຊາຍໃດກ່ອນເຈົ້າ. ຕົວແບບບົດບາດຕໍ່ລຸ້ນ.
+
+30
+00:02:51,700 --> 00:02:55,900
+[POLICE ANCHOR]
+What happened to you, war hero? You were the best we had.
+ເກີດຫຍັງຂຶ້ນກັບເຈົ້າ, ວິລະຊົນສົງຄາມ
+? ເຈົ້າເປັນທີ່ດີທີ່ສຸດທີ່ພວກເຮົາມີ.
+
+31
+00:02:56,400 --> 00:03:02,400
+[POLICE VOICE]
+You are sentenced to permanent expulsion beyond the borders of the U.S. You now have the option to repent of your sins and be electrocuted on the premises. If you elect this option, notify the Cleric Sergeant in your Processing Area.
+ເຈົ້າຖືກຕັດສິນໂທດໃຫ້ຖືກຂັບໄລ່ຖາວອນຢູ່ນອກຊາຍແດນຂອງສະຫະລັດ. ດຽວນີ້ເຈົ້າມີທາງເລືອກທີ່ຈະເສຍໃຈຈາກຄວາມບາບຂອງທ່ານແລະຖືກໄຟຟ້າສັ່ນສະເທືອນໃນສະຖານທີ່
+. ຖ້າເຈົ້າເລືອກທາງເລືອກນີ້, ແຈ້ງໃຫ້ເຈົ້າຫນ້າທີ່ສາດສະດາຈານໃນເຂດການປະມວນຜົນຂອງທ່ານ.
+
+32
+00:03:02,900 --> 00:03:08,900
+[POLICE ANCHOR]
+The whole world's watching. Every good and decent person who works and hard and follows the rules. What would say to them?
+ໂລກທັງ ຫມົດ ກໍາ ລັງເບິ່ງ. ຄົນທີ່ດີແລະສົມຄວນທຸກຄົນທີ່ເຮັດວຽກແລະ
+ຫນັກ ແລະ ປະຕິບັດຕາມກົດລະບຽບ. ຈະເວົ້າຫຍັງກັບພວກເຂົາ?
+
+33
+00:03:09,400 --> 00:03:15,400
+[POLICE ANCHOR]
+What would you say to all of us who believed in you, who looked up to you, who thought you stood for right over wrong, good over evil? Be my guest. What do you have to say, Plissken?
+ເຈົ້າຈະເວົ້າຫຍັງກັບພວກເຮົາທຸກຄົນທີ່ເຊື່ອໃນເຈົ້າ, ຜູ້ທີ່ເບິ່ງເຈົ້າຂຶ້ນ,
+ຜູ້ທີ່ຄິດວ່າເຈົ້າຢືນຢູ່ຕໍ່ຄວາມຖືກຕ້ອງຕໍ່ຄວາມຜິດ, ຄວາມດີຕໍ່ຄວາມຊົ່ວຮ້າຍ? ເປັນແຂກຂອງຂ້ອຍ. ເຈົ້າຕ້ອງເວົ້າຫຍັງ, ປລິສສເກນ?
+
+34
+00:03:15,900 --> 00:03:17,900
+[PLISSKEN]
+Call me Snake.
+ເອີ້ນຂ້ອຍວ່າ Snake.
+
+35
+00:03:18,400 --> 00:03:24,400
+[BRAZEN]
+ComStat did a psychosearch on him. Used a database of 5 million sociopathic personalities. He hit the bottom of the curve.
+ຄອມສຕາດໄດ້ຄົ້ນຄວ້າທາງຈິດໃຈກ່ຽວກັບລາວ.
+ໃຊ້ຖານຂໍ້ມູນຂອງບຸກຄະລິກໍາໂຊຊີໂອປາຕິກ 5 ລ້ານຄົນ. ລາວໄດ້ຕີລຸ່ມຂອງໂຄ້ງ.
+
+36
+00:03:24,900 --> 00:03:30,850
+[MALLOY]
+Perfect for the mission. Nobody else can pull it off - not an army, not a man.
+ດີເລີດ ສໍາ ລັບພາລະກິດ. ບໍ່ມີໃຜອື່ນສາມາດເຮັດໄດ້
+- ບໍ່ແມ່ນກອງທັບ, ບໍ່ແມ່ນຜູ້ຊາຍ.
+
+37
+00:03:31,350 --> 00:03:36,250
+[BRAZEN]
+Zero emotional developments. Total lack of compassion. A highly developed psychopathic instinct to survive.
+ການພັດທະນາທາງຈິດໃຈສົດເຊີຍ. ການຂາດຄວາມເຫັນໃຈຢ່າງສົມບູນ
+. ຄວາມຮູ້ສຶກຈິດຕະພາບທີ່ພັດທະນາສູງເພື່ອຢູ່ລອດ.
+
+38
+00:03:36,750 --> 00:03:39,550
+[MALLOY]
+How you doin' Plissken?  You like the watch?
+ເຈົ້າເປັນແນວໃດ ປລິສສເກນ? ເຈົ້າມັກໂມງບໍ?
+
+39
+00:03:40,050 --> 00:03:46,050
+[PLISSKEN]
+You assholes didn't bring me here to give me this for 20 years of dedicated service. What'ya want?
+ພວກເຈົ້າບໍ່ໄດ້ພາຂ້ອຍມາບ່ອນນີ້ເພື່ອໃຫ້ຂ້ອຍສິ່ງນີ້ ສໍາ
+ລັບ 20 ປີຂອງການບໍລິການທີ່ອຸທິດຕົນ. ເຈົ້າຕ້ອງການຫຍັງ?
+
+40
+00:03:46,550 --> 00:03:52,550
+[MALLOY]
+At 1030 hours Wednesday, a group of government officials began a tour of the Livermore Defense Lab. The President's daughter, Utopia, was among them.
+ໃນເວລາ 10:30 ໂມງວັນພຸດ, ກຸ່ມເຈົ້າຫນ້າທີ່ລັດຖະບານໄດ້ເລີ່ມຕົ້ນການທ່ອງທ່ຽວຂອງຫ້ອງທົດລອງປ້ອງກັນຄວາມສະຫງົບ
+Livermore. ລູກສາວຂອງປະທານາທິບໍດີ, Utopia, ແມ່ນໃນບັນດາພວກເຂົາ.
+
+41
+00:03:53,050 --> 00:03:56,550
+[MALLOY]
+An hour later, she boarded Air Force 3 to Washington.
+ນຶ່ງຊົ່ວໂມງຕໍ່ມາ, ນາງຂຶ້ນເຮືອບິນກອງທັບອາກາດ 3 ໄປວໍຊິງຕັນ.
+
+42
+00:03:57,050 --> 00:04:03,050
+[UTOPIA]
+To the American people - it is time to rise up and demand the surrender of the President and his corrupt theocracy of lies and terror.
+ຕໍ່ປະຊາຊົນອາເມຣິກັນ -
+ມັນເຖິງເວລາແລ້ວທີ່ຈະຕື່ນຕົວແລະຮຽກຮ້ອງໃຫ້ປະທານາທິບໍດີຍອມຮັບແລະການປົກຄອງທາງສາສະຫນາທີ່ສໍ້ລາດບັງຫຼວງຂອງຕົວະແລະຄວາມຢ້ານກົວຂອງລາວ.
+
+43
+00:04:03,550 --> 00:04:09,150
+[MALLOY]
+At 1140 hours, she hijacked the plane. We scanned the videotape on VR. Check it out.
+ໃນເວລາ 1140 ໂມງ, ນາງລັກເອົາເຮືອບິນ.
+ພວກເຮົາສະແກນວິດີໂອໃນ VR. ເບິ່ງມັນ.
+
+44
+00:04:09,650 --> 00:04:15,650
+[UTOPIA]
+Today is Day One of a brand new world. The days of the empire are finished.  To the President - my father, you know what this is.
+ມື້ນີ້ແມ່ນມື້ ທໍາ ອິດຂອງໂລກ ໃຫມ່ ຢ່າງສົມບູນ. ມື້ຂອງອານາຈັກໄດ້ສິ້ນສຸດລົງ
+. ຕໍ່ປະທານາທິບໍດີ - ພໍ່ຂອງຂ້ອຍ, ເຈົ້າຮູ້ວ່າມັນເປັນຫຍັງ.
+
+45
+00:04:16,150 --> 00:04:22,150
+[UTOPIA]
+You know what it will do. Unless you abdicate your throne by tomorrow night, I will use it - on you.
+ເຈົ້າຮູ້ວ່າມັນຈະເຮັດຫຍັງ. ເວັ້ນເສຍແຕ່ວ່າເຈົ້າຈະລາອອກຈາກອານາຈັກຂອງທ່ານໃນຕອນແລງມື້ອື່ນ
+, ຂ້ອຍຈະໃຊ້ມັນ - ຕໍ່ເຈົ້າ.
+
+46
+00:04:22,650 --> 00:04:26,500
+[CONGRESSMAN]
+Utopia, please. Give us the prototype. If something should happen -
+ຢູໂຕເປຍ, ກະລຸນາ. ໃຫ້ຕົວແບບຕົວຢ່າງໃຫ້ພວກເຮົາ
+. ຖ້າບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນ -
+
+47
+00:04:27,000 --> 00:04:31,550
+[UTOPIA]
+It will be in my hands - and the hands of my lover.
+ມັນຈະຢູ່ໃນມືຂອງຂ້ອຍ - ແລະມືຂອງຄົນຮັກຂອງຂ້ອຍ.
+
+48
+00:04:32,050 --> 00:04:38,050
+[UTOPIA]
+Yes, my lover. My man. The only real man I've ever known. I'm on my way to his arms.
+ແມ່ນແລ້ວ, ຄົນຮັກຂອງຂ້ອຍ. ຊາຍຂອງຂ້ອຍ.
+ຜູ້ຊາຍທີ່ແທ້ຈິງຄົນດຽວທີ່ຂ້ອຍເຄີຍຮູ້ຈັກ. ຂ້ອຍ ກໍາ ລັງເດີນທາງໄປຫາແຂນຂອງລາວ.
+
+49
+00:04:38,550 --> 00:04:44,500
+[MALLOY]
+Somehow during the tour, she came into possession of a prototype transmitting device. We don't know how.
+ບາງຢ່າງໃນລະຫວ່າງການທ່ອງທ່ຽວ,
+ນາງໄດ້ເຂົ້າໄປໃນຄອບຄອງຂອງອຸປະກອນສົ່ງແບບຕົ້ນແບບ. ພວກເຮົາບໍ່ຮູ້ວ່າແນວໃດ.
+
+50
+00:04:45,000 --> 00:04:51,000
+[BRAZEN]
+Utopia became depressed after her mother's suicide, began to withdraw into her virtual reality simulator. She'd punch up her own little world in cyberspace and stay in it for days at a time.  Somebody else was in there with her.
+ຢູໂຕເປຍໄດ້ຕົກໃຈຫຼັງຈາກການຂ້າຕົວຕາຍຂອງແມ່ຂອງນາງ, ເລີ່ມຖອນຕົວເຂົ້າໄປໃນເຄື່ອງ simulator ຄວາມເປັນຈິງ virtual ຂອງນາງ
+. ນາງຈະຕີໂລກນ້ອຍຂອງນາງເອງໃນ cyberspace ແລະຢູ່ໃນມັນເປັນເວລາຫຼາຍມື້ໃນເວລາດຽວກັນ. ມີຄົນອື່ນຢູ່ໃນບ່ອນນັ້ນກັບນາງ.
+
+51
+00:04:51,500 --> 00:04:57,500
+[AN IMAGE APPEARS]
+In front of Plissken: A computer-rendered VR picture of clouds and sunshine, green grass and happy animals frolicking. A Garden of Eden. There, coming toward us, is CUERVO JONES. South American terrorist. Fiercest warrior of the Third World. He wears a gleaming ancient Aztec battle helmet. Bandoliers strapped around him.
+ຢູ່ຕໍ່ຫນ້າປລິສສເກນ: ຮູບພາບ VR ທີ່ຖືກສະແດງໂດຍຄອມພິວເຕີຂອງເມກແລະແສງແດດ, ຫ້ວຍສີຂຽວແລະສັດທີ່ມີຄວາມສຸກທີ່ມ່ວນຊື່ນ. ສວນຂອງເອເດັນ. ຢູ່ບ່ອນນັ້ນ, ມາຫາພວກເຮົາ,
+ແມ່ນ CUERVO JONES. ຜູ້ກໍ່ການຮ້າຍອາເມລິກາໃຕ້. ນັກຮົບທີ່ຮ້າຍແຮງທີ່ສຸດຂອງໂລກທີສາມ. ລາວໃສ່ ຫມວກ ກັນກະທົບທີ່ສົດໃສບູຮານ Aztec. Bandoliers ຕິດຢູ່ອ້ອມຂ້າງລາວ.
+
+52
+00:04:58,000 --> 00:05:02,550
+[MALLOY]
+Cuervo Jones. Shining Path. Peruvian terrorist. Runs the biggest baddest gang in L.A.
+ຄູເວໂກ້ ໂຈນສ໌. ເສັ້ນທາງສົດໃສ. ພວກກໍ່ການຮ້າຍເປຣູເວຍ
+. ດໍາເນີນກຸ່ມຮ້າຍແຮງທີ່ສຸດທີ່ໃຫຍ່ທີ່ສຸດໃນລັສແອນເຈີ.
+
+53
+00:05:03,050 --> 00:05:09,050
+[BRAZEN]
+Utopia made tapes of her VR experiences, then tried to erase them. She missed this fragment on the end of her last tape. Cuervo Jones must have tapped into the VR master data bank - and then went prowling around for innocent blood, someone vulnerable to corrupt. Utopia was lonely, looking for something to believe in.
+Utopia ໄດ້ເຮັດເທບຂອງປະສົບການ VR ຂອງນາງ, ຫຼັງຈາກນັ້ນພະຍາຍາມລຶບພວກມັນ. ນາງພາດຊິ້ນສ່ວນນີ້ໃນຕອນທ້າຍຂອງເທບສຸດທ້າຍຂອງນາງ. Cuervo ໂຈນສ໌ຕ້ອງໄດ້ເຂົ້າໄປໃນທະນາຄານຂໍ້ມູນແມ່ຂອງ
+VR - ແລະຫຼັງຈາກນັ້ນໄດ້ຍ່າງຢູ່ອ້ອມຂ້າງເພື່ອເລືອດທີ່ບໍ່ຜິດພາດ, ບາງຄົນທີ່ອ່ອນແອຕໍ່ການສໍ້ລາດບັງຫຼວງ. Utopia ແມ່ນຄົນດຽວ, ຊອກຫາບາງສິ່ງບາງຢ່າງທີ່ຈະເຊື່ອໃນ.
+
+54
+00:05:09,550 --> 00:05:11,650
+[PLISSKEN]
+Sad story. You got a cigarette?
+ເລື່ອງໂຊກຮ້າຍ. ເຈົ້າມີສູບຢາບໍ?
+
+55
+00:05:12,150 --> 00:05:14,150
+[MALLOY]
+Shut up, Plissken.
+ປິດງຽບ, ປລິສສເກນ.
+
+56
+00:05:14,650 --> 00:05:16,750
+[PLISSKEN]
+What's the little black box do?
+ກ່ອງສີດໍານ້ອຍເຮັດຫຍັງ?
+
+57
+00:05:17,250 --> 00:05:20,050
+[MALLOY]
+Top secret. Only on a need to know.
+ຄວາມລັບສູງສຸດ. ພຽງແຕ່ໃນຄວາມຕ້ອງການທີ່ຈະຮູ້.
+
+58
+00:05:20,550 --> 00:05:25,100
+[PLISSKEN]
+And I don't need to know. So fuck you, I'm goin' to Hollywood.
+ແລະຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງຮູ້. ສະນັ້ນເຈົ້າໄປໂຊກຮ້າຍ, ຂ້ອຍຈະໄປຮໍລີວູດ.
+
+59
+00:05:25,600 --> 00:05:30,500
+[MALLOY]
+That's right, big shot. Unless you do what we want you're not coming back.
+ນັ້ນແມ່ນແລ້ວ, ການຍິງໃຫຍ່.
+ເວັ້ນເສຍແຕ່ວ່າເຈົ້າເຮັດສິ່ງທີ່ພວກເຮົາຕ້ອງການເຈົ້າຈະບໍ່ກັບມາ.
+
+60
+00:05:31,000 --> 00:05:37,000
+[PLISSKEN]
+So what's the deal, huh? Go into L.A., find the President's daughter, secure the box, and bring 'em both out - and I'm free?
+ສະນັ້ນຂໍ້ຕົກລົງແມ່ນຫຍັງ, ແມ່ນບໍ? ໄປໃນລັອກເຊັນ, ຊອກຫາລູກສາວຂອງປະທານາທິບໍດີ
+, ປ້ອງກັນກ່ອງ, ແລະເອົາພວກເຂົາທັງສອງອອກ - ແລະຂ້ອຍເປັນອິດສະຫຼະບໍ?
+
+61
+00:05:37,500 --> 00:05:39,500
+[MALLOY]
+That's the deal.
+ນັ້ນແມ່ນຂໍ້ຕົກລົງ.
+
+62
+00:05:40,000 --> 00:05:43,500
+[PLISSKEN]
+Tell the President to adopt. I think I'll like L.A.
+ບອກປະທານາທິບໍດີໃຫ້ຮັບຮອງເອົາ. ຂ້ອຍຄິດວ່າຂ້ອຍຈະມັກລັອກສ໌.
+
+63
+00:05:44,000 --> 00:05:46,000
+[PLISSKEN]
+Who are you?
+ເຈົ້າເປັນໃຜ?
+
+64
+00:05:46,500 --> 00:05:48,600
+[MALLOY]
+It's the President, for Christ's sake!
+ມັນເປັນປະທານາທິບໍດີ, ສໍາລັບພຣະຄຣິດ!
+
+65
+00:05:49,100 --> 00:05:54,700
+[PRESIDENT]
+I give you my word. Put the prototype into my hands, and you're a free man.
+ຂ້ອຍໃຫ້ຄໍາຫມັ້ນສັນຍາຂອງຂ້ອຍໃຫ້ເຈົ້າ.
+ເອົາແບບຕົ້ນແບບໄວ້ໃນມືຂອງຂ້ອຍ, ແລະເຈົ້າເປັນຜູ້ຊາຍເສລີ.
+
+66
+00:05:55,200 --> 00:05:58,350
+[PLISSKEN]
+I can see you're real concerned about your daughter.
+ຂ້ອຍເຫັນວ່າເຈົ້າກັງວົນແທ້ໆກ່ຽວກັບລູກສາວຂອງທ່ານ.
+
+67
+00:05:58,850 --> 00:06:02,000
+[PRESIDENT]
+Utopia is lost to me. My daughter is gone.
+ຢູໂຕເປຍຫາຍໄປຕໍ່ຂ້ອຍ. ລູກສາວຂອງຂ້ອຍຫາຍໄປແລ້ວ.
+
+68
+00:06:02,500 --> 00:06:04,500
+[PLISSKEN]
+Well, I'll think it over.
+ດີ, ຂ້ອຍຈະຄິດມັນໄວ້.
+
+69
+00:06:05,000 --> 00:06:07,000
+[PRESIDENT]
+You're running out of time.
+ເຈົ້າ ກໍາ ລັງຫມົດເວລາແລ້ວ.
+
+70
+00:06:07,500 --> 00:06:13,500
+[PLISSKEN]
+I've been doin' that all my life. Might as well do it in L.A. Everybody else there is.
+ຂ້ອຍ ກໍາ ລັງເຮັດແບບນັ້ນຕະຫຼອດຊີວິດຂອງຂ້ອຍ.
+ອາດເຮັດມັນໃນລັອກແອນສ໌ດີກວ່າ. ທຸກຄົນອື່ນທີ່ຢູ່ບ່ອນນັ້ນ.
+
+71
+00:06:14,000 --> 00:06:18,200
+[MALLOY]
+Well, enjoy it, war hero, cause you got 10 hours to live.
+ດີ, ມ່ວນຊື່ນມັນ, ວິລະຊົນສົງຄາມ,
+ເພາະວ່າເຈົ້າມີເວລາ 10 ຊົ່ວໂມງທີ່ຈະດໍາລົງຊີວິດ.
+
+72
+00:06:18,700 --> 00:06:21,500
+[PLISSKEN]
+Wait a minute, what are you talkin' about?
+ລໍຖ້າດົນຫນຶ່ງ, ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+73
+00:06:22,000 --> 00:06:24,000
+[MALLOY]
+Having second thoughts?
+ເຈົ້າຄິດສອງຄັ້ງບໍ?
+
+74
+00:06:24,500 --> 00:06:28,350
+[PLISSKEN]
+Maybe. But you're not putting any shit in me this time.
+ບາງທີ. ແຕ່ເຈົ້າຈະບໍ່ເອົາສິ່ງໃດໆໃສ່ຂ້ອຍໃນຄັ້ງນີ້.
+
+75
+00:06:28,850 --> 00:06:31,300
+[MALLOY]
+You don't understand. It's already in you.
+ເຈົ້າບໍ່ເຂົ້າໃຈ. ມັນຢູ່ໃນເຈົ້າແລ້ວ.
+
+76
+00:06:31,800 --> 00:06:37,800
+[PLISSKEN'S FACE]
+As an image of the cigarette girl in New Las Vegas flashes suddenly. Her fingernail scratches his arm. He tightens.
+ໃນຂະນະທີ່ຮູບພາບຂອງເດັກຍິງສູບຢາໃນ New Las Vegas ແສງສະຫວ່າງຢ່າງກະທັນຫັນ
+. ກະດູກມືຂອງນາງ scratches ແຂນຂອງລາວ. ລາວ tightenes.
+
+77
+00:06:38,300 --> 00:06:44,300
+[MALLOY]
+The cigarette girl in New Vegas was an undercover cop. She injected you with incentive toxin. Right now it's swimming in your bloodstream. It'll start to take effect in 9 hours.
+ເດັກຍິງສູບຢາໃນນິວ ເວກສ໌ແມ່ນຕໍາຫຼວດລັບ. ນາງສັກຢາເຈົ້າດ້ວຍສານພິດກະຕຸ້ນ.
+ດຽວນີ້ມັນ ກໍາ ລັງລອຍໃນສາຍເລືອດຂອງທ່ານ. ມັນຈະເລີ່ມມີຜົນກະທົບໃນເວລາ 9 ຊົ່ວໂມງ.
+
+78
+00:06:44,800 --> 00:06:50,800
+[BRAZEN]
+It's a strain of the Plutoxin 7 virus. Genetically engineered. 100% pure death. Complete nervous system shutdown. You crash and bleed out like a stuck pig. Not a pretty sight.
+ມັນເປັນສາຍພັນຂອງໄວຣັສປລູໂຕຊິນ 7. ວິສະວະກໍາພັນທຸ ກໍາ. ການຕາຍທີ່ບໍລິສຸດ 100%.
+ການປິດລະບົບປະສາດຢ່າງສົມບູນແບບ. ເຈົ້າຕົກລົງແລະເລືອດອອກຄືກັບຫມູທີ່ຕິດຢູ່. ບໍ່ແມ່ນພາບທີ່ສວຍງາມ.
+
+79
+00:06:51,300 --> 00:06:57,300
+[MALLOY]
+Of course there's an anti-toxin. Neutralizes the virus immediately upon injection.  We'll give it to you, but you have to do us this little favor.
+ແນ່ນອນວ່າມີຢາຕ້ານສານພິດ. ເຮັດໃຫ້ໄວຣັສປອດພິດທັນທີຫຼັງຈາກການສັກຢາ.
+ພວກເຮົາຈະໃຫ້ມັນໃຫ້ເຈົ້າ, ແຕ່ເຈົ້າຕ້ອງເຮັດຄວາມຊ່ວຍເຫຼືອນ້ອຍໆນີ້ໃຫ້ພວກເຮົາ.
+
+80
+00:06:57,800 --> 00:07:03,800
+[TWO BEATS...]
+...and then Plissken attacks the President, hurls himself across the room, throwing the chain around the President's neck...
+ແລະຫຼັງຈາກນັ້ນປລິສສເກນໂຈມຕີປະທານາທິບໍດີ,
+ຖິ້ມຕົວເອງຂ້າມຫ້ອງ, ການຖິ້ມຕ່ອງໂສ້ອ້ອມຄໍຂອງປະທານາທິບໍດີ...
+
+81
+00:07:04,300 --> 00:07:07,100
+[PRESIDENT]
+Didn't think we were that stupid, did you?
+ເຈົ້າບໍ່ຄິດວ່າພວກເຮົາໂງ່ຫຼາຍ, ແມ່ນບໍ?
+
+82
+00:07:07,600 --> 00:07:09,600
+[MALLOY]
+We're holographs.
+ພວກເຮົາເປັນໂຮໂລແກຣມ.
+
+83
+00:07:10,100 --> 00:07:16,100
+[INSIDE THE CELL]
+Plissken stares at the three images in front of him, then at the camera lens on the wall...
+ປລິສສເກນເບິ່ງຮູບພາບສາມຮູບຢູ່ຕໍ່ຫນ້າລາວ,
+ຫຼັງຈາກນັ້ນເບິ່ງເລນກ້ອງຖ່າຍຮູບຢູ່ເທິງກໍາແພງ...
+
+84
+00:07:16,600 --> 00:07:18,700
+[PLISSKEN]
+Get this crap out of me.
+ເອົາສິ່ງໂຊກຮ້າຍນີ້ອອກຈາກຂ້ອຍ.
+
+85
+00:07:19,200 --> 00:07:23,750
+[MALLOY]
+I guess we have a deal. Nice to be working with you, Plissken.
+ຂ້ອຍຄິດວ່າພວກເຮົາມີຂໍ້ຕົກລົງ. ດີໃຈທີ່ເຮັດວຽກກັບເຈົ້າ, ປລິສສເກນ.
+
+86
+00:07:24,250 --> 00:07:26,250
+[PLISSKEN]
+Call me Snake.
+ເອີ້ນຂ້ອຍວ່າ Snake.
+
+87
+00:07:26,750 --> 00:07:32,750
+[BRAZEN]
+Very sweet little weapon. Core burner. Magnesium ammo. 500 extra rounds.  Two 9mm handguns.  Oral projectile. Mouth dart. Hold it in your mouth for ten seconds, the coating dissolves, it becomes a weapon.
+ອາວຸດນ້ອຍໆທີ່ຫວານຫຼາຍ. ເຄື່ອງເຜົາໄຫມ້ຫຼັກ. ລູກປືນແມກນີຊຽມ. ປືນເພີ່ມເຕີມ 500 ລູກ.ປືນມືສອງລູກປືນ
+9 ມມ. ປູມປາກ. ດາວປາກ. ຖືມັນຢູ່ໃນປາກຂອງທ່ານເປັນເວລາສິບວິນາທີ, ການເຄືອບລະລາຍ, ມັນກາຍເປັນອາວຸດ.
+
+88
+00:07:33,250 --> 00:07:36,050
+[BRAZEN]
+Urolite. It'll stun the enemy for several seconds.
+Urolite. ມັນຈະເຮັດໃຫ້ສັດຕູຕົກໃຈເປັນເວລາຫຼາຍວິນາທີ.
+
+89
+00:07:36,550 --> 00:07:42,150
+[MALLOY]
+Tracer. Utopia has a kidnap chip implanted in her arm. You can locate her with this.
+ເຄື່ອງຕິດຕາມ. ຢູໂຕເປຍມີຊິບລັກພາຕົວທີ່ຕິດຕັ້ງໃສ່ແຂນຂອງນາງ
+. ເຈົ້າສາມາດຊອກຫານາງໄດ້ດ້ວຍສິ່ງນີ້.
+
+90
+00:07:42,650 --> 00:07:47,550
+[BRAZEN]
+This clips right onto your 9mm. Ammo enhancers. Like miniaturized grenades. Blows through anything.
+ນີ້ແມ່ນຄລິບໂດຍກົງໃສ່ 9 ມມຂອງທ່ານ. ເຄື່ອງເພີ່ມປະສິດທິພາບລູກປືນ
+. ຄືກັບລະເບີດຂະຫນາດນ້ອຍ. ລະເບີດຜ່ານທຸກຢ່າງ.
+
+91
+00:07:48,050 --> 00:07:53,300
+[MALLOY]
+L.A. is in a constant state of warfare. Gangs fighting for the right to rule.
+LA ແມ່ນຢູ່ໃນສະພາບສົງຄາມຢ່າງຕໍ່ເນື່ອງ
+. ພວກແກ້ງທີ່ຕໍ່ສູ້ເພື່ອສິດປົກຄອງ.
+
+92
+00:07:53,800 --> 00:07:59,800
+[BRAZEN]
+Heavy Third World connections. They get weapons, drugs, fuel, choppers - everything is pumped into the island from the south.
+ການເຊື່ອມຕໍ່ໂລກທີສາມທີ່ ຫນັກ ແຫນ້ນ. ພວກເຂົາໄດ້ຮັບອາວຸດ, ຢາເສບຕິດ,
+ນ້ ໍາ ມັນ, ເຮືອບິນເຮືອບິນ - ທຸກຢ່າງຖືກຖອກເຂົ້າໄປໃນເກາະຈາກພາກໃຕ້.
+
+93
+00:08:00,300 --> 00:08:04,150
+[MALLOY]
+Some areas have power - they're on line to San Onofre.
+ບາງເຂດມີພະລັງງານ - ພວກເຂົາຢູ່ໃນສາຍໄປຫາແຊນ ໂອໂນຟຣີ.
+
+94
+00:08:04,650 --> 00:08:07,450
+[PLISSKEN]
+I'll need to know more about this thing.
+ຂ້ອຍຕ້ອງຮູ້ຫຼາຍຂຶ້ນກ່ຽວກັບສິ່ງນີ້.
+
+95
+00:08:07,950 --> 00:08:13,950
+[MALLOY]
+Only a handful of people are aware of its existence. Let's just say it's the ultimate defensive weapon.
+ມີພຽງແຕ່ຄົນ ຈໍາ ນວນ ຫນ້ອຍ ທີ່ຮູ້ເຖິງການມີຢູ່ຂອງມັນ.
+ພວກເຮົາພຽງແຕ່ເວົ້າວ່າມັນເປັນອາວຸດປ້ອງກັນຄວາມສະຫງົບທີ່ສຸດ.
+
+96
+00:08:14,450 --> 00:08:16,450
+[PLISSKEN]
+Defense against what?
+ການປ້ອງກັນຕໍ່ຫຍັງ?
+
+97
+00:08:16,950 --> 00:08:20,800
+[MALLOY]
+There's a war about to be declared, or didn't you know?
+ມີສົງຄາມ ກໍາ ລັງຈະປະກາດ, ຫຼືເຈົ້າບໍ່ຮູ້ບໍ?
+
+98
+00:08:21,300 --> 00:08:27,300
+[MALLOY]
+Third World wants to live like we do - and they plan on taking what they want. The Cubans and Brazilians are ready to invade Miami. If the Africans and Colombians make a run at the border, we got a full scale attack on the United States.
+ໂລກທີສາມຢາກດໍາລົງຊີວິດຄືກັບພວກເຮົາ - ແລະພວກເຂົາວາງແຜນທີ່ຈະເອົາສິ່ງທີ່ພວກເຂົາຕ້ອງການ.
+ຊາວກູບາແລະຊາວບຣາຊິນພ້ອມທີ່ຈະບຸກລຸກມາມິ. ຖ້າຊາວອາຟຣິກາແລະຊາວໂຄລອມເບຍແລ່ນຢູ່ຊາຍແດນ, ພວກເຮົາມີການໂຈມຕີຢ່າງເຕັມທີ່ຕໍ່ສະຫະລັດ.
+
+99
+00:08:27,800 --> 00:08:29,900
+[PLISSKEN]
+So what does this thing do?
+ສະນັ້ນສິ່ງນີ້ເຮັດຫຍັງ?
+
+100
+00:08:30,400 --> 00:08:34,950
+[MALLOY]
+All you need to know is get it back here by 5 a.m.
+ເຈົ້າພຽງແຕ່ຕ້ອງຮູ້ວ່າມັນຈະເອົາມັນກັບມາບ່ອນນີ້ໃນເວລາ 5 ໂມງເຊົ້າ.
+
+101
+00:08:35,450 --> 00:08:38,600
+[MALLOY]
+You're going over by submarine. One-man submersible. Nuclear powered.
+ເຈົ້າ ກໍາ ລັງໄປທາງລຸ່ມດ້ວຍເຮືອລຸ່ມ.
+ເຮືອລໍາລຸ່ມຄົນດຽວ. ດ້ວຍພະລັງງານນິວເຄລຍ.
+
+102
+00:08:39,100 --> 00:08:41,100
+[PLISSKEN]
+Where do I put ashore?
+ຂ້ອຍຈະເອົາລົງຝັ່ງໃສ?
+
+103
+00:08:41,600 --> 00:08:47,600
+[MALLOY]
+Cahuenga Pass. Make your way up through the mountains toward the Hollywood Bowl. You should be able to pick up Utopia's tracer there.  Once you go inside, you're on your own.  You know what you have to do with the girl, don't you?  We have to spare this nation her trial - for treason.
+ເຈົ້າຄວນສາມາດເອົາເຄື່ອງຕິດຕາມຂອງຢູໂຕເປຍຢູ່ບ່ອນນັ້ນໄດ້. ເມື່ອເຈົ້າເຂົ້າໄປໃນ, ເຈົ້າຢູ່ດ້ວຍຕົນເອງ.
+ເຈົ້າຮູ້ວ່າເຈົ້າຕ້ອງເຮັດຫຍັງກັບເດັກຍິງ, ແມ່ນບໍ? ພວກເຮົາຕ້ອງປະຢັດການດໍາເນີນຄະດີຂອງປະເທດນີ້ - ສໍາລັບການປະທ້ວງ.
+
+104
+00:08:48,100 --> 00:08:53,350
+[PLISSKEN]
+So you want me to take her out?  Is that an order from the President?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເອົານາງອອກບໍ? ນັ້ນແມ່ນຄໍາສັ່ງຈາກປະທານາທິບໍດີບໍ?
+
+105
+00:08:53,850 --> 00:08:57,000
+[MALLOY]
+Let's just say it's what's best for the country.
+ພວກເຮົາພຽງແຕ່ເວົ້າວ່າ ມັນເປັນສິ່ງທີ່ດີທີ່ສຸດ ສໍາ ລັບປະເທດ.
+
+106
+00:08:57,500 --> 00:09:00,650
+[PLISSKEN]
+By the way - who gives me the anti-toxin?
+ເຖິງຢ່າງໃດກໍ່ຕາມ - ໃຜໃຫ້ຢາຕ້ານສານພິດໃຫ້ຂ້ອຍ?
+
+107
+00:09:01,150 --> 00:09:03,600
+[MALLOY]
+A medical team will be standing by.
+ທີມງານທາງການແພດຈະຢືນພ້ອມ.
+
+108
+00:09:04,100 --> 00:09:06,100
+[PLISSKEN]
+Not you?
+ບໍ່ແມ່ນເຈົ້າບໍ?
+
+109
+00:09:06,600 --> 00:09:08,600
+[MALLOY]
+No.
+ບໍ່
+
+110
+00:09:09,100 --> 00:09:11,100
+[PLISSKEN]
+Good.
+ດີແລ້ວ.
+
+111
+00:09:11,600 --> 00:09:16,150
+[MALLOY]
+Thought you might try that. First clip is filled with blanks. Goodbye, Plissken.
+ຂ້ອຍຄິດວ່າເຈົ້າອາດຈະພະຍາຍາມນັ້ນ. ຄລິບ ທໍາ
+ອິດເຕັມໄປດ້ວຍບ່ອນຫວ່າງ. ສະບາຍດີ, ປລິສສເກນ.
+
+112
+00:09:16,650 --> 00:09:18,650
+[PLISSKEN]
+Com check.
+ກວດສອບຄອມ.
+
+113
+00:09:19,150 --> 00:09:21,150
+[MALLOY]
+I'm here, Plissken.
+ຂ້ອຍຢູ່ບ່ອນນີ້, ປລິສສເກນ.
+
+114
+00:09:21,650 --> 00:09:24,450
+[MALLOY]
+Stand by for launch. Ignitor.  Fuel rod injection.
+ກຽມພ້ອມ ສໍາ ລັບການເປີດຕົວ. ໄຟໄຫມ້. ການສັກຢາກະດານເຊື້ອໄຟ.
+
+115
+00:09:24,950 --> 00:09:26,950
+[PLISSKEN]
+She's in the green.
+ນາງຢູ່ໃນສີຂຽວ.
+
+116
+00:09:27,450 --> 00:09:29,450
+[MALLOY]
+Lock fuel rods.
+ປິດກະດານເຊື້ອໄຟ.
+
+117
+00:09:29,950 --> 00:09:31,950
+[PLISSKEN]
+Locked.
+ປິດແລ້ວ.
+
+118
+00:09:32,450 --> 00:09:34,450
+[MALLOY]
+Nuclear turbine to 75% power.
+ທໍບິນນິວເຄລຍເຖິງພະລັງງານ 75%.
+
+119
+00:09:34,950 --> 00:09:36,950
+[PLISSKEN]
+75% power.
+ພະລັງງານ 75%.
+
+120
+00:09:37,450 --> 00:09:39,900
+[MALLOY]
+Hands on switches and counting. 5...4...3...2...1. Launch.
+ມືໃສ່ເຄື່ອງປ່ຽນແລະນັບ. 5... 4... 3...2...1. ເປີດຕົວ.
+
+121
+00:09:40,400 --> 00:09:43,550
+[MALLOY]
+Plissken, watch your speed. Lots of obstructions down there.
+ປລິສສເກນ, ລະວັງຄວາມໄວຂອງທ່ານ. ອຸປະສັກຫຼາຍຢູ່ລຸ່ມນັ້ນ.
+
+122
+00:09:44,050 --> 00:09:46,050
+[MALLOY]
+Plissken...
+ປລິສສເກນ...
+
+123
+00:09:46,550 --> 00:09:48,550
+[MALLOY]
+Plissken... do you copy?
+ປລິສສເກນ... ເຈົ້າໄດ້ຍິນບໍ?
+
+124
+00:09:49,050 --> 00:09:51,050
+[BRAZEN]
+His reactor's starting to overheat.
+ເຄື່ອງປະຕິກິລິຍາຂອງລາວ ກໍາ ລັງເລີ່ມຮ້ອນເກີນໄປ.
+
+125
+00:09:51,550 --> 00:09:55,050
+[MALLOY]
+Plissken, slow down the sub. You're overloading the power plant.
+ປລິສສເກນ, ຊ້າລົງເຮືອລໍາ. ເຈົ້າ ກໍາ ລັງໂຫຼດໄຟຟ້າເກີນໄປ.
+
+126
+00:09:55,550 --> 00:09:57,550
+[MALLOY]
+Plissken...?
+ປລິສສເກນ...?
+
+127
+00:09:58,050 --> 00:10:00,050
+[MALLOY]
+Plissken...?
+ປລິສສເກນ...?
+
+128
+00:10:00,550 --> 00:10:02,550
+[PLISSKEN]
+I'm here.
+ຂ້ອຍຢູ່ບ່ອນນີ້.
+
+129
+00:10:03,050 --> 00:10:05,850
+[MALLOY]
+Where's the submarine? It's disappeared off our screens.
+ເຮືອລໍາໃຕ້ດິນຢູ່ໃສ? ມັນຫາຍໄປຈາກ ຫນ້າ ຈໍຂອງພວກເຮົາ.
+
+130
+00:10:06,350 --> 00:10:08,350
+[PLISSKEN]
+It's history. I gotta go.
+ມັນເປັນປະຫວັດສາດ. ຂ້ອຍຕ້ອງໄປ.
+
+131
+00:10:08,850 --> 00:10:14,850
+[PIPELINE]
+Too bad about your boat, man.  Supposed to be some swells out here tonight. Big ones.  You like to surf?
+ໂຊກຮ້າຍຫຼາຍກ່ຽວກັບເຮືອຂອງທ່ານ, ຜູ້ຊາຍ.
+ຄວນມີຄື້ນຟອງບາງຢ່າງຢູ່ນີ້ໃນຄືນນີ້. ຂະຫນາດໃຫຍ່. ເຈົ້າມັກການເດີນເຮືອບໍ?
+
+132
+00:10:15,350 --> 00:10:18,850
+[PIPELINE]
+You look kinda familiar.  You hang out around here much?
+ເຈົ້າເບິ່ງຄືວ່າຮູ້ຈັກກັນດີ. ເຈົ້າຢູ່ບ່ອນນີ້ຫຼາຍບໍ?
+
+133
+00:10:19,350 --> 00:10:25,300
+[PIPELINE]
+Hey, man. I know who you are. You're Snake Plissken. Man, I can't believe you're really here.
+ເຮ້, ຜູ້ຊາຍ. ຂ້ອຍຮູ້ວ່າເຈົ້າເປັນໃຜ. ເຈົ້າເປັນ Snake
+Plissken. ຜູ້ຊາຍ, ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າຢູ່ບ່ອນນີ້ແທ້ໆ.
+
+134
+00:10:25,800 --> 00:10:27,900
+[PIPELINE]
+Kind of a bad neighborhood, Snake.
+ເປັນບ້ານທີ່ບໍ່ດີຫຼາຍ, Snake.
+
+135
+00:10:28,400 --> 00:10:30,500
+[PLISSKEN]
+Which way to the Hollywood Bowl?
+ທາງໃດໄປຮໍລີວູດ ບອລ?
+
+136
+00:10:31,000 --> 00:10:33,000
+[PIPELINE]
+Down that way.
+ລົງທາງນັ້ນ.
+
+137
+00:10:33,500 --> 00:10:37,350
+[PIPELINE]
+Be careful. Some real strange dudes hangin' out there these days.
+ລະມັດລະວັງ. ມີຄົນແປກໃຈແທ້ໆບາງຄົນຢູ່ພາຍນອກໃນມື້ນີ້.
+
+138
+00:10:37,850 --> 00:10:43,850
+[PIPELINE]
+Hey Snake - what're you doin' around here, man?  I heard they busted you up real good in Cleveland...
+ເຮ້ ຫມາ - ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ບ່ອນນີ້, ຜູ້ຊາຍ?
+ຂ້ອຍໄດ້ຍິນວ່າພວກເຂົາໄດ້ທໍາລາຍເຈົ້າດີແທ້ໆໃນຄລີວແລນ...
+
+139
+00:10:44,350 --> 00:10:46,350
+[A VOICE]
+Shut-up, fuck! Stop makin' noise!
+ປິດງຽບ, ສະບາຍດີ! ຢຸດການເຮັດໃຫ້ສຽງດັງ!
+
+140
+00:10:46,850 --> 00:10:48,850
+[SPINAL]
+Take cover, fool.
+ກວມເອົາຕົວເອງ, ຄົນໂງ່.
+
+141
+00:10:49,350 --> 00:10:55,350
+[CLOSER - HOLLYWOOD BOWL]
+A group of white hooded men, the K.K.K., stand in front of the burning cross holding a ceremony. Next to the cross on stage, a hooded K.K.K. string quartet begins playing a Hayden concerto.
+ຄຸເຂົ່າລົງ
+
+142
+00:10:55,850 --> 00:10:57,850
+[SPINAL]
+Let's take him.
+ມາເອົາລາວໄປ.
+
+143
+00:10:58,350 --> 00:11:04,350
+[THE HOLLYWOOD BOWL]
+A 40mm armor-piercing grenade leaves a blazing fire trail as it rockets toward the burning cross and - KABLAMMO! A fireball blows pieces of the cross into the air. The K.K.K. spin around...
+ລູກປືນທີ່ລະເບີດກະທູ້ 40 ມມອອກຈາກເສັ້ນທາງໄຟທີ່ໄຫມ້ໃນຂະນະທີ່ມັນຍິງລູກສອນໄຟໄປສູ່ຂ້າມໄຟທີ່ເຜົາຜານແລະ
+- KABLAMMO! ບານໄຟພັດຊິ້ນສ່ວນຂອງຂ້າມໄມ້ເຂົ້າໄປໃນອາກາດ. KKK ຫມູນ ວຽນຢູ່ອ້ອມຂ້າງ...
+
+144
+00:11:04,850 --> 00:11:06,950
+[SPINAL]
+Hey. I know you. Snake Plissken.
+ເຮ້. ຂ້ອຍຮູ້ຈັກເຈົ້າ. Snake Plissken.
+
+145
+00:11:07,450 --> 00:11:09,450
+[SPINAL]
+Hey, what's going down, Snake?
+ເຮ້, ເກີດຫຍັງຂຶ້ນ, ຫມາ?
+
+146
+00:11:09,950 --> 00:11:11,950
+[PLISSKEN]
+I'm looking for somebody.
+ຂ້ອຍ ກໍາ ລັງຊອກຫາຄົນຫນຶ່ງ.
+
+147
+00:11:12,450 --> 00:11:14,450
+[SPINAL]
+Who ain't?
+ໃຜບໍ່ເປັນ?
+
+148
+00:11:14,950 --> 00:11:18,450
+[SPINAL]
+Say, is it true what they say about Cleveland, man?
+ເວົ້າ, ມັນເປັນຄວາມຈິງບໍສິ່ງທີ່ພວກເຂົາເວົ້າກ່ຽວກັບຄລີວແລນ, ຜູ້ຊາຍ?
+
+149
+00:11:18,950 --> 00:11:24,550
+[SPINAL]
+Later, Snake. Thanks for the help. You can always shift down and mojo with us anytime.
+ຕໍ່ມາ, ຫມາ. ຂອບໃຈ ສໍາ ລັບການຊ່ວຍເຫຼືອ.
+ເຈົ້າສາມາດປ່ຽນລົງແລະໂມຈີກັບພວກເຮົາໄດ້ທຸກເວລາ.
+
+150
+00:11:25,050 --> 00:11:28,200
+["SATISFACTION GUARANTEED"]
+One of the hookers struts in front of Plissken.
+ຫນຶ່ງໃນໂຊກແຊງຍ່າງຢູ່ຕໍ່ຫນ້າປລິສສເກນ.
+
+151
+00:11:28,700 --> 00:11:34,700
+[CLOSEUP - THE HOOKER]
+Opening her mouth, she gives a sensuous puff. A polypropylene orifice attached to the inside of her lips expands outward like a small, pink balloon. She sucks it back in and puckers, kissing the air. Plissken turns, as the sounds of car engines rises.
+ເປີດປາກຂອງນາງ, ນາງໃຫ້ການສູບທີ່ມີຄວາມຮູ້ສຶກ. ຮູປໍລິໂປປີເລນທີ່ຕິດກັບພາຍໃນຂອງປາກຂອງລາວຂະຫຍາຍອອກຄືກັບບາລອນສີແດງນ້ອຍໆ
+. ນາງດູດມັນຄືນແລະ puckers, ຈູບອາກາດ. Plissken ຫັນໄປ, ໃນຂະນະທີ່ສຽງຂອງເຄື່ອງຈັກລົດຂຶ້ນ.
+
+152
+00:11:35,200 --> 00:11:39,400
+[BLONDE HOOKER]
+It's winnin' time, baby. How about you and I do some celebrating?
+ມັນເປັນເວລາທີ່ຈະຊະນະແມ.
+ເຈົ້າແລະຂ້ອຍຈະເຮັດແນວໃດໃນການສະເຫຼີມສະຫຼອງບາງຢ່າງ?
+
+153
+00:11:39,900 --> 00:11:41,900
+[PLISSKEN]
+What's going on?
+ເກີດຫຍັງຂຶ້ນ?
+
+154
+00:11:42,400 --> 00:11:47,300
+[BLONDE HOOKER]
+You must be new around here.  You look familiar. Have I done you before?
+ເຈົ້າຕ້ອງເປັນຄົນໃຫມ່ຢູ່ບ່ອນນີ້.
+ເຈົ້າເບິ່ງຄືວ່າຮູ້ຈັກກັນດີ. ຂ້ອຍເຄີຍເຮັດເຈົ້າກ່ອນບໍ?
+
+155
+00:11:47,800 --> 00:11:49,800
+[PLISSKEN]
+What's happening?
+ເກີດຫຍັງຂຶ້ນ?
+
+156
+00:11:50,300 --> 00:11:56,300
+[BLONDE HOOKER]
+Easy, man, easy. It's Cuervo Jones' gang. Mescalito Justice. He's the big boss man 'round here tonight.  He's gonna take down the police and make 'em kiss his fine ass.
+ງຽບງ່າຍ, ຜູ້ຊາຍ, ງຽບສະຫງົບ. ມັນແມ່ນກຸ່ມຂອງຄູເວໂຈນສ໌. ຄວາມຍຸຕິທໍາ Mescalito.
+ລາວເປັນຫົວຫນ້າໃຫຍ່ຄົນຢູ່ບ່ອນນີ້ໃນຄືນນີ້. ລາວຈະເອົາຕໍາຫຼວດລົງແລະເຮັດໃຫ້ພວກເຂົາຈູບບາກທີ່ດີເລີດຂອງລາວ.
+
+157
+00:11:56,800 --> 00:11:58,900
+[ON THE MOTORCYCLE]
+The Mescalito biker turns to react...
+ຄົນຂັບລົດຈັກ Mescalito ຫັນໄປປະຕິກິລິຍາ...
+
+158
+00:11:59,400 --> 00:12:05,400
+[ON PLISSKEN]
+Coming right behind him are four Mescalitos on Harleys - chains, iron bars, and swords in their hands. Plissken stares up ahead.
+ມາຢູ່ເບື້ອງຫຼັງລາວແມ່ນ Mescalitos ສີ່ຄົນໃນ Harleys - ສາຍແອວ,
+ແຖບເຫຼັກ, ແລະກະທູ້ໃນມືຂອງພວກເຂົາ. Plissken ເບິ່ງຂຶ້ນຂ້າງຫນ້າ.
+
+159
+00:12:05,900 --> 00:12:11,900
+[PLISSKEN]
+As the other Mescalito riding behind him swings a chain. Plissken swings his. The two chains snap together, intertwining. Then Plissken squeezes his hand-brake. He screeches to a stop. The Mescalito keeps going, and is yanked over backward by his own chain, off the Harley. Finally the Harley flops over, skids, explodes. Plissken guns it again, takes off after the Cadillac.
+ໃນຂະນະທີ່ Mescalito ອີກຄົນຫນຶ່ງຂີ່ຢູ່ເບື້ອງຫຼັງລາວຫັນຕ່ອງໂສ້. ປລິສສເກນຫັນຂອງລາວ. ສາຍແອວທັງສອງແຕກກັນ, ເຊື່ອມຕໍ່ກັນ. ຫຼັງຈາກນັ້ນປລິສເຊນກົດບຣັກມືຂອງລາວ
+. ລາວຮ້ອງໄຫ້ຈົນຈະຢຸດເຊົາ. Mescalito ສືບຕໍ່ໄປ, ແລະຖືກດຶງກັບຄືນໄປບ່ອນໂດຍຕ່ອງ ໂສ້ຂອງຕົນເອງ, ຈາກຮາລີ. ສຸດທ້າຍຮາຣີຕົກລົງ, ລອຍ, ລະເບີດ. ປລີສເຊັນຍິງມັນ
+
+160
+00:12:12,400 --> 00:12:18,400
+[THE HORSE]
+Plissken pulls himself up behind the Mescalito and wrestles for control of the mount. Plissken grabs the reins and wraps them around the Mescalito's neck, squeezing until his eyes burst. Plissken slams his arm against the Mescalito, throwing him off the saddle, bouncing onto the pavement.
+ປລິສສເກນດຶງຕົວເອງຂຶ້ນຢູ່ເບື້ອງຫຼັງ Mescalito ແລະຕໍ່ສູ້ເພື່ອຄວບຄຸມພູ. ປລີສເຊນຈັບກະດານແລະຫຸ້ມຫໍ່ພວກມັນຢູ່ອ້ອມຄໍຂອງ mescalito
+ໄດ້, ກົດຈົນກວ່າຕາຂອງລາວຈະແຕກ. Plissken ກະດານແຂນຂອງລາວຕໍ່ Mescaliito ໄດ້, ຖິ້ມລາວອອກຈາກກະດູກ, ກະໂດດລົງເທິງຖະຫນົນຫົນທາງ.
+
+161
+00:12:18,900 --> 00:12:24,900
+[THE BIKE]
+With one quick yank to the lasso, Plissken pulls the biker off, jumps on the bike and smacks the hell out of the horse's rump.
+ດ້ວຍການດຶງໄວດຽວໄປຫາລາສໂກ້, ປລິສສເກນດຶງລົດຖີບອອກ
+, ໂດດຂຶ້ນລົດຖີ່ແລະຕີຫລັງຂອງມ້າ.
+
+162
+00:12:25,400 --> 00:12:29,250
+[THE HORSE]
+Takes off down the street, dragging the biker by the neck.
+ອອກໄປຕາມຖະຫນົນຫົນທາງ, ດຶງລົດຖີບໂດຍຄໍ.
+
+163
+00:12:29,750 --> 00:12:35,750
+[THE CADILLAC]
+Speeds up as Plissken moves up to the Mustang five cars behind. He swings off the bike and jumps onto the trunk. Plissken climbs up to the roof, leaps on the hood, then jumps to the trunk of the car in front - leapfrogging, jumping to the next car, the next car...
+ຄວາມໄວຂຶ້ນໃນຂະນະທີ່ປລິສສເກນຍ້າຍຂຶ້ນໄປຫາລົດມັສຕັງຫ້າລົດຢູ່ເບື້ອງຫຼັງ. ລາວລອຍອອກຈາກລົດຖີບແລະໂດດໃສ່ກະເປົາກະເປົ໋າ.
+ປລີສເຊນຂຶ້ນໄປເທິງຫລັງຄາເຮືອນ, ໂດດໃສ່ Hood, ຫຼັງຈາກນັ້ນໂດດໄປຫາກະເປືອະຂອງລົດຢູ່ທາງຫນ້າ - ການໂດດ, ຍ່າງໄປສູ່ລົດຕໍ່ໄປ, ລົດຕໍ່ໄປ...
+
+164
+00:12:36,250 --> 00:12:41,500
+[MESCALITOS]
+Lean out their car windows, firing at him, but Plissken keeps moving toward the Cadillac...
+ຍືດປ່ອງຢ້ຽມລົດຂອງພວກເຂົາ, ຍິງໃສ່ລາວ, ແຕ່
+Plissken ສືບຕໍ່ເຄື່ອນຍ້າຍໄປສູ່ Cadillac...
+
+165
+00:12:42,000 --> 00:12:47,950
+[SUDDENLY A HAND]
+Reaches out a car window and grabs Plissken's submachine gun. Plissken turns to snatch it back -
+ຍືດອອກປ່ອງຢ້ຽມລົດແລະຈັບປືນຍ່ອຍຂອງປລິສສເກນ
+. ປລິສເຊນຫັນໄປຈັບມັນຄືນ -
+
+166
+00:12:48,450 --> 00:12:52,300
+[WHEN CUERVO JONES]
+Leaps from the Cadillac and takes Plissken down to the roof.
+ກະໂດດຈາກຄາດີລາກແລະເອົາປລິສສເກນລົງໄປເທິງເຮືອນຫລັງ.
+
+167
+00:12:52,800 --> 00:12:54,800
+[CUERVO JONES]
+Snake Plissken.
+Snake Plissken.
+
+168
+00:12:55,300 --> 00:12:58,450
+[A BOLAS-SWINGING MESCALITO]
+Comes roaring up on his bike, throws the bolas...
+ມາພ້ອມກັບລົດຖີບຂອງລາວ, ຖິ້ມບານບານ...
+
+169
+00:12:58,950 --> 00:13:04,950
+[PLISSKEN]
+As the bolas hit him, wrap around his neck, the balls thunking him in the face, sending him flying...
+ໃນຂະນະທີ່ບານຕີລາວ, ອ້ອມແອ້ມຄໍຂອງລາວ
+, ບານຕີລາວໃນໃບຫນ້າ, ສົ່ງລາວບິນ...
+
+170
+00:13:05,450 --> 00:13:07,550
+[CUERVO JONES]
+Later, Snake. We finish it later.
+ຕໍ່ມາ, ຫມາ. ພວກເຮົາຈະສິ້ນສຸດມັນຕໍ່ມາ.
+
+171
+00:13:08,050 --> 00:13:11,550
+[PLISSKEN]
+Lies there for several beats, then climbs to his feet.
+ນອນຢູ່ບ່ອນນັ້ນເປັນເວລາຫຼາຍຄັ້ງ, ຫຼັງຈາກນັ້ນຂຶ້ນຕີນຂອງລາວ.
+
+172
+00:13:12,050 --> 00:13:18,050
+[PLISSKEN]
+Stands alone in the deserted street. The ruins of a supermarket, cheap motels, liquor stores - all empty, desolate.
+ຢືນຢູ່ຄົນດຽວໃນຖະຫນົນຫົນທາງທີ່ບໍ່ມີຄົນຢູ່. ສິ່ງເສດເຫຼືອຂອງຮ້ານຄ້າໃຫຍ່
+, ໂຮງແຮມລາຄາຖືກ, ຮ້ານຂາຍເຄື່ອງດື່ມ - ທັງ ຫມົດ ເປົ່າເປົ່າ, ສິ້ນສຸດລົງ.
+
+173
+00:13:18,550 --> 00:13:20,550
+[CLOSE - WRIST WATCH]
+Three hours gone.
+ເວລາສາມຊົ່ວໂມງໄປແລ້ວ.
+
+174
+00:13:21,050 --> 00:13:23,050
+[VOICE]
+Snake Plissken, right?
+Snake Plissken, ແມ່ນບໍ?
+
+175
+00:13:23,550 --> 00:13:29,550
+[MAP TO THE STARS EDDIE]
+Sits in an old beach chair on the sidewalk, a map to the stars sign in front of him. In his late 50's, he's a petty thief, con man. He's been hustling tourists and everybody else all his life.
+ນັ່ງຢູ່ໃນບ່ອນນັ່ງຫາດຊາຍເກົ່າຢູ່ທາງຍ່າງ, ແຜນທີ່ໄປຫາປ້າຍດາວຢູ່ຕໍ່ຫນ້າລາວ. ໃນທ້າຍປີ 50 ຂອງລາວ
+, ລາວເປັນຄົນລັກຂະຫນາດນ້ອຍ, ຜູ້ໂຊກແຊງ. ລາວໄດ້ກະຕຸ້ນນັກທ່ອງທ່ຽວແລະຄົນອື່ນຕະຫຼອດຊີວິດຂອງລາວ.
+
+176
+00:13:30,050 --> 00:13:32,050
+[MAP TO THE STARS EDDIE]
+Wow! Snake Plissken!
+ໂວ້! ຫມາ ປລິສສເກນ!
+
+177
+00:13:32,550 --> 00:13:38,550
+[MAP TO THE STARS EDDIE]
+You're a star in your own right, you know that? Hey, I'm Map To The Stars Eddie. How you doin'?
+ເຈົ້າເປັນດາວໃນສິດຂອງຕົນເອງ, ເຈົ້າຮູ້ບໍ? ເຮ້,
+ຂ້ອຍເປັນແຜນທີ່ໄປສູ່ດາວເອດດີ. ເຈົ້າເປັນແນວໃດ?
+
+178
+00:13:39,050 --> 00:13:41,050
+[PLISSKEN]
+Where'd they go?
+ພວກເຂົາໄປໃສ?
+
+179
+00:13:41,550 --> 00:13:44,350
+[MAP TO THE STARS EDDIE]
+Man, I'd love to have your autograph, Snake.
+ຜູ້ຊາຍ, ຂ້ອຍຢາກໄດ້ຮັບໃບຢັ້ງຢືນຂອງທ່ານ, Snake.
+
+180
+00:13:44,850 --> 00:13:50,850
+[MAP TO THE STARS EDDIE]
+I've been hearing about you ever since that New York deal back in the 90's. You're one smooth operator.  Could you sign one to Wolf, one to Death's Head, one to Slasher Smith...?
+ຂ້ອຍໄດ້ຍິນກ່ຽວກັບເຈົ້ານັບຕັ້ງແຕ່ຂໍ້ຕົກລົງນິວຢອກນັ້ນໃນຊຸມປີ 90. ເຈົ້າເປັນຜູ້ປະຕິບັດງານທີ່ລຽບງ່າຍດຽວ
+. ເຈົ້າສາມາດລົງນາມຫນຶ່ງໃຫ້ວູຟ, ຫນຶ່ງໃຫ້ຫົວຂອງຄວາມຕາຍ, ຫນຶ່ງຕໍ່ Slasher ສມິດ...?
+
+181
+00:13:51,350 --> 00:13:53,350
+[PLISSKEN]
+Where are they?
+ພວກເຂົາຢູ່ໃສ?
+
+182
+00:13:53,850 --> 00:13:59,850
+[MAP TO THE STARS EDDIE]
+Who? You mean Cuervo Jones? He's the man with the juice, Snake. Got the President's daughter. Setting up a citywide truce. Big doings.
+ໃຜ? ເຈົ້າຫມາຍຄວາມວ່າ Cuervo ໂຈນສ໌? ລາວເປັນຜູ້ຊາຍທີ່ມີນ້ ໍາ ມັນ, Snake
+. ມີລູກສາວຂອງປະທານາທິບໍດີ. ການຈັດຕັ້ງການຢຸດເຊົາທົ່ວເມືອງ. ການເຮັດໃຫຍ່.
+
+183
+00:14:00,350 --> 00:14:02,350
+[PLISSKEN]
+Location.
+ສະຖານທີ່.
+
+184
+00:14:02,850 --> 00:14:08,850
+[MAP TO THE STARS EDDIE]
+Cuervo's got a place near Venice, where the big birds fly. Nice digs, too. I've been there, y'know.
+ຄູເວໂກ້ມີບ່ອນຢູ່ໃກ້ກັບເວເນສ, ບ່ອນທີ່ນົກໃຫຍ່ບິນ.
+ການຂຸດຄົ້ນທີ່ດີເຊັ່ນກັນ. ຂ້ອຍເຄີຍຢູ່ບ່ອນນັ້ນ, ເຈົ້າຮູ້ແລ້ວ.
+
+185
+00:14:09,350 --> 00:14:15,350
+[MAP TO THE STARS EDDIE]
+Nice little gizmo you got there.  Look, Snake. I've got connections in this town. You need something, I'm your man.
+ເຈົ້າມີກະຕຸ້ນນ້ອຍໆທີ່ສວຍງາມຢູ່ບ່ອນນັ້ນ. ເບິ່ງ, ຫມາ.
+ຂ້ອຍມີສາຍພົວພັນໃນເມືອງນີ້. ເຈົ້າຕ້ອງການບາງສິ່ງບາງຢ່າງ, ຂ້ອຍເປັນຜູ້ຊາຍຂອງທ່ານ.
+
+186
+00:14:15,850 --> 00:14:20,400
+[MAP TO THE STARS EDDIE]
+Hey - you can't go there, Snake. You can't walk through Beverly Hills.
+ເຮ້ - ເຈົ້າບໍ່ສາມາດໄປບ່ອນນັ້ນໄດ້, Snake.
+ເຈົ້າບໍ່ສາມາດຍ່າງຜ່ານ Beverly Hills ໄດ້.
+
+187
+00:14:20,900 --> 00:14:22,900
+[SENTRY]
+Specimen moving west on Sunset.
+ຕົວຢ່າງເຄື່ອນຍ້າຍໄປທາງທິດຕາເວັນຕົກໃນ Sunset.
+
+188
+00:14:23,400 --> 00:14:27,250
+[GATEKEEPER]
+Halt!  Where are you going?  Are you here for the auction?
+ຢຸດເຊົາ! ເຈົ້າໄປໃສ? ເຈົ້າຢູ່ບ່ອນນີ້ ສໍາ ລັບການປະມູນບໍ?
+
+189
+00:14:27,750 --> 00:14:33,750
+[BEHIND PLISSKEN]
+Figures have suddenly moved out into the street, all with mismatched body parts - heads too large for their torsos, female body parts mixed with male heads, all sewn together with large, uneven stitches. Plissken is surrounded.
+ຄຸເຂົ່າລົງ
+
+190
+00:14:34,250 --> 00:14:36,250
+[GATEKEEPER]
+Welcome to Beverly Hills.
+ຍິນດີຕ້ອນຮັບໃນເບີເວີຮິລສ໌.
+
+191
+00:14:36,750 --> 00:14:39,550
+[A MULTI-COLORED FLESH HAND]
+Raises a lead pipe, brings it down hard...
+ຍົກທໍ່ນໍາພາຂຶ້ນ, ນໍາມັນລົງຢ່າງແຂງແຮງ...
+
+192
+00:14:40,050 --> 00:14:42,500
+[ON PLISSKEN'S HEAD]
+THUNK! He goes out like a light.
+ຄິດ! ລາວອອກໄປຄືກັບແສງສະຫວ່າງ.
+
+193
+00:14:43,000 --> 00:14:48,600
+[TASLIMA]
+Hi, Snake. It's so great to meet you. My name's Taslima. I'm a fan of yours.
+ສະບາຍດີ, ຫມາ. ດີໃຈທີ່ຮູ້ຈັກເຈົ້າຫຼາຍ.
+ຂ້ອຍຊື່ວ່າ Taslima. ຂ້ອຍເປັນແຟນຂອງທ່ານ.
+
+194
+00:14:49,100 --> 00:14:51,100
+[PLISSKEN]
+Are you crazy?
+ເຈົ້າໂຊກຮ້າຍບໍ?
+
+195
+00:14:51,600 --> 00:14:56,500
+[TASLIMA]
+A little bit. But pretty soon I'm gonna be dead. So are you, Snake.
+ພຽງເລັກນ້ອຍ. ແຕ່ໃນໄວໆນີ້ຂ້ອຍຈະຕາຍແລ້ວ. ເຈົ້າຄືກັນ, ຫມາ.
+
+196
+00:14:57,000 --> 00:15:03,000
+[TASLIMA]
+I can't believe I got caught.  I run with Midnight Jihad. Iranian gang. Only they kicked me out, cause I screw up sometimes. I forget stuff.
+ຂ້ອຍບໍ່ເຊື່ອວ່າຂ້ອຍຖືກຈັບ. ຂ້ອຍແລ່ນກັບຈີຮາດກາງຄືນ. ກຸ່ມອີຣານ.
+ພຽງແຕ່ພວກເຂົາໄດ້ໄລ່ຂ້ອຍອອກ, ເພາະວ່າຂ້ອຍເຮັດຜິດບາງຄັ້ງ. ຂ້ອຍລືມສິ່ງບາງຢ່າງ.
+
+197
+00:15:03,500 --> 00:15:09,500
+[TASLIMA]
+I left my boyfriend's place tonight, took a wrong turn...  Oh, Snake, I'm really kind of out of it sometimes.
+ຂ້ອຍອອກຈາກເຮືອນຂອງແຟນຂອງຂ້ອຍໃນຄືນນີ້,
+ໄດ້ຫັນທາງທີ່ບໍ່ຖືກຕ້ອງ... ໂອ້, ຫມາ, ຂ້ອຍບໍ່ມັກມັນບາງຄັ້ງ.
+
+198
+00:15:10,000 --> 00:15:12,000
+[PLISSKEN]
+What are they?
+ພວກເຂົາເປັນຫຍັງ?
+
+199
+00:15:12,500 --> 00:15:18,500
+[TASLIMA]
+They live here, used to be like us. But after too many silicon implants, their muscles turned to jelly. The only way they survive is to have body parts transplanted over and over again.  Snake, nobody who comes into Beverly Hills gets out alive.
+ພວກເຂົາອາໄສຢູ່ບ່ອນນີ້, ເຄີຍຄືກັບພວກເຮົາ. ແຕ່ຫຼັງຈາກການຕິດຕັ້ງຊິລິກອນຫຼາຍເກີນໄປ, ກ້າມຊີ້ນຂອງພວກເຂົາໄດ້ກາຍເປັນເຈເລຍ.
+ວິທີດຽວທີ່ພວກເຂົາຢູ່ລອດແມ່ນການ transplanted ສ່ວນຂອງຮ່າງກາຍອີກແລະອີກເທື່ອຫນຶ່ງ. ຫມາ, ບໍ່ມີໃຜທີ່ເຂົ້າໄປໃນເບີເວີຮິລສ໌ອອກຊີວິດ.
+
+200
+00:15:19,000 --> 00:15:21,000
+[PLISSKEN]
+No screamin' shit.
+ບໍ່ຕ້ອງຮ້ອງໄຫ້ເລີຍ.
+
+201
+00:15:21,500 --> 00:15:23,500
+[TASLIMA]
+Oh no, it's the Doctor.
+ໂອ້ ບໍ່, ມັນແມ່ນຫມໍ.
+
+202
+00:15:24,000 --> 00:15:26,000
+[PLISSKEN]
+Who?
+ໃຜ?
+
+203
+00:15:26,500 --> 00:15:28,600
+[TASLIMA]
+The Surgeon General of Beverly Hills.
+ທ່ານຫມໍຜ່າຕັດທົ່ວໄປຂອງເບີເວີຮິລສ໌.
+
+204
+00:15:29,100 --> 00:15:35,100
+[THE DOCTOR]
+Stands in front of them. He raises his hands to quiet the crowd. He walks around the cross, admiring the beautiful bodies before him. He tickles the fine flesh with his right hand, which is made up of 10 gleaming scalpels which form a 360 degree cutting edge.
+ຢືນຢູ່ຕໍ່ຫນ້າພວກເຂົາ. ລາວຍົກມືເພື່ອເຮັດໃຫ້ຄົນຊົມເຊີຍງ. ລາວຍ່າງຢູ່ອ້ອມແອ້ມກະທູ້, ຍ້ອງຍໍຮ່າງກາຍທີ່ສວຍງາມຕໍ່ຫນ້າລາວ
+. ລາວຕື່ນເຕັ້ນຊີ້ນທີ່ດີເລີດດ້ວຍມືຂວາຂອງລາວ, ເຊິ່ງປະກອບດ້ວຍ 10 ກະທູ້ທີ່ສົດໃສເຊິ່ງເປັນແຄມຕັດ 360 ອົງສາ.
+
+205
+00:15:35,600 --> 00:15:41,600
+[THE DOCTOR]
+I've never seen more beautiful specimens. There will be no auction tonight. These body parts will go to those who need them the most.
+ຂ້ອຍບໍ່ເຄີຍເຫັນຕົວຢ່າງທີ່ສວຍງາມກວ່າເກົ່າ. ຈະບໍ່ມີການປະມູນໃນຄືນນີ້
+. ສ່ວນຮ່າງກາຍເຫຼົ່ານີ້ຈະໄປຫາຜູ້ທີ່ຕ້ອງການພວກມັນຫຼາຍທີ່ສຸດ.
+
+206
+00:15:42,100 --> 00:15:48,100
+[PLISSKEN]
+Turns his head sideways, to a small hidden pocket near his neck. With his teeth, he pulls out the silver mouth dart, slips it onto his tongue, closes his mouth.
+ຫັນຫົວໄປຂ້າງ, ໄປຫາກະເປົາທີ່ເຊື່ອງໄວ້ນ້ອຍໆຢູ່ໃກ້ຄຽງຄໍຂອງລາວ. ດ້ວຍແຂ້ວຂອງລາວ
+, ລາວດຶງດູດດາວປາກເງິນອອກ, ເລື່ອນມັນໃສ່ພາສາຂອງລາວ, ປິດປາກຂອງລາວ.
+
+207
+00:15:48,600 --> 00:15:52,800
+[THE DOCTOR]
+What a beautiful blue eye. It's a shame you only have one.
+ຕາສີຟ້າທີ່ສວຍງາມຫຼາຍປານໃດ. ໂຊກຮ້າຍທີ່ເຈົ້າມີພຽງແຕ່ຫນຶ່ງເທົ່ານັ້ນ.
+
+208
+00:15:53,300 --> 00:15:55,300
+[TASLIMA]
+Snake, help me.
+ຫມາ, ຊ່ວຍຂ້ອຍ.
+
+209
+00:15:55,800 --> 00:15:57,800
+[SNAKE]
+Why?
+ເປັນຫຍັງ?
+
+210
+00:15:58,300 --> 00:16:00,300
+[TASLIMA]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+211
+00:16:00,800 --> 00:16:02,800
+[PLISSKEN]
+Don't follow me.
+ຢ່າຕິດຕາມຂ້ອຍ.
+
+212
+00:16:03,300 --> 00:16:05,300
+[TASLIMA]
+You need help.
+ເຈົ້າຕ້ອງການຄວາມຊ່ວຍເຫຼືອ.
+
+213
+00:16:05,800 --> 00:16:07,800
+[PLISSKEN]
+Like hell I do.
+ຂ້ອຍເຮັດແທ້ໆ.
+
+214
+00:16:08,300 --> 00:16:10,300
+[TASLIMA]
+Down this way.
+ລົງທາງນີ້.
+
+215
+00:16:10,800 --> 00:16:15,000
+[PLISSKEN]
+This is a dead end.  You took us into a dead end!
+ນີ້ແມ່ນຈຸດບິດບິດ. ເຈົ້າພາພວກເຮົາເຂົ້າໄປໃນທາງບິດ!
+
+216
+00:16:15,500 --> 00:16:21,100
+[TASLIMA]
+I just thought you wanted to get away. I didn't know you wanted to go someplace.
+ຂ້ອຍພຽງແຕ່ຄິດວ່າເຈົ້າຢາກຫນີໄປ. ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າຢາກໄປບ່ອນໃດ.
+
+217
+00:16:21,600 --> 00:16:23,600
+[PLISSKEN]
+Go!
+ໄປ!
+
+218
+00:16:24,100 --> 00:16:27,950
+[TASLIMA]
+Be careful of the bald cats. They live in these buildings.
+ລະມັດລະວັງແມວຜິວຫນັງ. ພວກເຂົາອາໄສຢູ່ໃນອາຄານເຫຼົ່ານີ້.
+
+219
+00:16:28,450 --> 00:16:30,450
+[PLISSKEN]
+The what?
+ຫຍັງ?
+
+220
+00:16:30,950 --> 00:16:34,100
+[PLISSKEN]
+Are you gonna stand there? Give me the gun!
+ເຈົ້າຈະຢືນຢູ່ບ່ອນນັ້ນບໍ? ໃຫ້ຂ້ອຍປືນ!
+
+221
+00:16:34,600 --> 00:16:37,050
+[PLISSKEN]
+How do we get out of here?
+ພວກເຮົາຈະອອກຈາກບ່ອນນີ້ແນວໃດ?
+
+222
+00:16:37,550 --> 00:16:39,550
+[TASLIMA]
+Sewers. Come on.
+ເຄື່ອງລະບາຍນ້ ໍາ. ມາແລ້ວ.
+
+223
+00:16:40,050 --> 00:16:42,050
+[TASLIMA]
+Down there.
+ຢູ່ລຸ່ມນັ້ນ.
+
+224
+00:16:42,550 --> 00:16:46,050
+[FROM DOWN THE TUNNEL]
+An eerie light appears, coming nearer and nearer every moment.
+ແສງສະຫວ່າງທີ່ຫນ້າຢ້ານກົວປາກົດຕົວ, ໃກ້ຊິດແລະໃກ້ຊິດໃນແຕ່ລະຊົ່ວຄາວ.
+
+225
+00:16:46,550 --> 00:16:48,550
+[TASLIMA]
+Snake - what is it?
+ຫມາ - ມັນແມ່ນຫຍັງ?
+
+226
+00:16:49,050 --> 00:16:53,600
+[PLISSKEN]
+How the hell am I supposed to know? This is your damn city.
+ຂ້ອຍຄວນຮູ້ແນວໃດ? ນີ້ແມ່ນເມືອງຂອງເຈົ້າ.
+
+227
+00:16:54,100 --> 00:16:56,100
+[PENDEJO BOB]
+What're you doing in here?
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+228
+00:16:56,600 --> 00:16:58,600
+[PLISSKEN]
+Looking to get out.
+ຢາກອອກໄປ.
+
+229
+00:16:59,100 --> 00:17:02,250
+[PENDEJO BOB]
+Good. I want you out. This is my sewer.
+ດີ. ຂ້ອຍຢາກໃຫ້ເຈົ້າອອກໄປ. ນີ້ແມ່ນລະບາຍນ້ ໍາ ຂອງຂ້ອຍ.
+
+230
+00:17:02,750 --> 00:17:04,750
+[PLISSKEN]
+Which way?
+ທາງໃດ?
+
+231
+00:17:05,250 --> 00:17:07,250
+[PENDEJO BOB]
+You're Snake Plissken.
+ເຈົ້າເປັນ Snake Plissken.
+
+232
+00:17:07,750 --> 00:17:09,750
+[TASLIMA]
+Yes. Isn't he cool?
+ແມ່ນແລ້ວ. ລາວບໍ່ເຢັນບໍ?
+
+233
+00:17:10,250 --> 00:17:13,400
+[PENDEJO BOB]
+An honor, Snake. Amigo. They call me Pendejo Bob.
+ເປັນກຽດຕິຍົດ, Snake. ເພື່ອນ. ພວກເຂົາເອີ້ນຂ້ອຍວ່າ Pendejo Bob.
+
+234
+00:17:13,900 --> 00:17:17,400
+[PENDEJO BOB]
+Those damn patients are coming back. You'd better climb aboard.
+ຄົນເຈັບຄົນນັ້ນ ກໍາ ລັງກັບມາ. ເຈົ້າຄວນຂຶ້ນເຮືອ.
+
+235
+00:17:17,900 --> 00:17:23,900
+[PENDEJO BOB]
+I use the eye and the music to scare em off. They're so whacked out, man, it works great. Chased a whole bunch of em right off the edge there a few months ago.
+ຂ້ອຍໃຊ້ຕາແລະດົນຕີເພື່ອເຮັດໃຫ້ພວກເຂົາຢ້ານກົວ. ພວກເຂົາຖືກໂຊກຮ້າຍຫຼາຍ, ຜູ້ຊາຍ
+, ມັນເຮັດວຽກດີເລີດ. ໄດ້ລ່າຫຼັງພວກມັນທັງ ຫມົດ ຈາກແຄມນັ້ນສອງສາມເດືອນກ່ອນ.
+
+236
+00:17:24,400 --> 00:17:26,500
+[TASLIMA]
+How far down does it go?
+ມັນລົງໄປໄກປານໃດ?
+
+237
+00:17:27,000 --> 00:17:31,200
+[PENDEJO BOB]
+Don't know - never do hear em land. Earthquake opened it up.
+ບໍ່ຮູ້ - ບໍ່ເຄີຍໄດ້ຍິນພວກເຂົາລົງຈອດ. ແຜ່ນດິນໄຫວເປີດມັນ.
+
+238
+00:17:31,700 --> 00:17:37,700
+[INSIDE THE TUNNEL]
+Guards, Hispanics in biker denims, fatigues, with rifles and sunglasses, line the walls. They watch as the golf cart passes. Up ahead is a door marked: "SEWAGE RECLAMATION CONTROL"
+ເຈົ້າຫນ້າທີ່ປ້ອງກັນຄວາມສະຫງົບ, ຊາວສະເປນໃສ່ denim ລົດຖີບ, ເຄື່ອງນຸ່ງຫົ່ມເມື່ອຍ, ມີປືນແລະແວ່ນຕາແສງຕາເວັນ,
+ແຖບກໍາແພງ. ພວກເຂົາເບິ່ງໃນຂະນະທີ່ລົດໂກລຟ໌ຜ່ານໄປ. ຢູ່ທາງຫນ້າມີປະຕູທີ່ ຫມາຍ ວ່າ:"ການຄວບຄຸມການຟື້ນຟູນ້ ໍາ ມັນ"
+
+239
+00:17:38,200 --> 00:17:44,200
+[PENDEJO BOB]
+I own this whole place. Used to work here in the old days. I was right in this room when the big one hit. What a mess. We were waist high in shit.  Everybody else ran, but not me. I stayed at my post. Now it's all mine. I brought my whole family, my amigos, down here to live with me.
+ຂ້ອຍເປັນເຈົ້າຂອງບ່ອນນີ້ທັງ ຫມົດ. ເຄີຍເຮັດວຽກຢູ່ນີ້ໃນສະໄຫມເກົ່າ. ຂ້ອຍຢູ່ຫ້ອງນີ້ເມື່ອຄົນໃຫຍ່ຕີ. ຄວາມສັບສົນຫຼາຍປານໃດ. ພວກເຮົາຢູ່ເທິງແອວໃນໂຊກຮ້າຍ. ທຸກຄົນອື່ນແລ່ນ
+, ແຕ່ບໍ່ແມ່ນຂ້ອຍ. ຂ້ອຍຍັງຢູ່ຕໍາແຫນ່ງຂອງຂ້ອຍ. ດຽວນີ້ມັນທັງ ຫມົດ ແມ່ນຂອງຂ້ອຍ. ຂ້ອຍເອົາຄອບຄົວທັງ ຫມົດ ຂອງຂ້ອຍ, ເພື່ອນຂອງຂ້ອຍ, ລົງມາບ່ອນນີ້ເພື່ອຢູ່ກັບຂ້ອຍ.
+
+240
+00:17:44,700 --> 00:17:46,700
+[TASLIMA]
+Gun runners.
+ພວກລັກລອບປືນ.
+
+241
+00:17:47,200 --> 00:17:49,200
+[PENDEJO BOB]
+Hey, it's a living, baby.
+ເຮ້, ມັນເປັນຊີວິດຢູ່, ແມ.
+
+242
+00:17:49,700 --> 00:17:55,700
+[PLISSKEN]
+Why don't you get out of L.A.? Take a boat to China, take an airplane to Brazil?  Earthquakes, death, shit. Why do you stay?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ອອກຈາກລັອກເຊັນ? ເອົາເຮືອໄປຈີນ,
+ເອົາເຮືອບິນໄປບຣາຊິນ? ແຜ່ນດິນໄຫວ, ຄວາມຕາຍ, ສິ້ນສຸດລົງ. ເຈົ້າຢູ່ໃສ?
+
+243
+00:17:56,200 --> 00:17:59,000
+[TASLIMA]
+I don't know. Somehow, I just can't leave.
+ຂ້ອຍບໍ່ຮູ້. ບາງຢ່າງ, ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດອອກຈາກໄດ້.
+
+244
+00:17:59,500 --> 00:18:05,500
+[PENDEJO BOB]
+Y'know, L.A.'s not such a bad place, Snake. We got our problems, sure - but this is paradise, man.
+ເຈົ້າຮູ້ແລ້ວ, LA ບໍ່ແມ່ນບ່ອນທີ່ບໍ່ດີຫຼາຍ, Snake.
+ພວກເຮົາມີບັນຫາຂອງພວກເຮົາ, ແນ່ນອນ - ແຕ່ນີ້ແມ່ນສະຫວັນນະເຂດ, ຜູ້ຊາຍ.
+
+245
+00:18:06,000 --> 00:18:12,000
+[PENDEJO BOB]
+Say, you need anything, Snake? Guns? Explosives? I can get you a crate of hellfire grenades, no problem - five hours.
+ເວົ້າ, ເຈົ້າຕ້ອງການຫຍັງເລີຍ, ຫມາ? ປືນ? ລະເບີດ?
+ຂ້ອຍສາມາດເອົາກ່ອງແກຣນໄຟອານາໄມໄດ້ໃຫ້ເຈົ້າ, ບໍ່ມີບັນຫາ - ຫ້າຊົ່ວໂມງ.
+
+246
+00:18:12,500 --> 00:18:15,300
+[PLISSKEN]
+Yeah. So how do I get to Venice?
+ແມ່ນແລ້ວ. ສະນັ້ນຂ້ອຍຈະໄປເວເນສແນວໃດ?
+
+247
+00:18:15,800 --> 00:18:21,050
+[PENDEJO BOB]
+All the sewers are collapsed under Venice. You have to go topside. Right up there.
+ການລະບາຍນ້ ໍາ ທັງ ຫມົດ ຕົກລົງພາຍໃຕ້ເວເນສ
+. ເຈົ້າຕ້ອງໄປທາງເທິງ. ຢູ່ເທິງນັ້ນ.
+
+248
+00:18:21,550 --> 00:18:27,550
+[PENDEJO BOB]
+Comes out near the Santa Monica Freeway. Just follow the signs. Get off at the Lincoln Exit, turn left.
+ອອກໄປໃກ້ກັບທາງດ່ວນແຊນຕາ ໂມນິກາ.
+ພຽງແຕ່ຕິດຕາມປ້າຍ. ລົງຢູ່ທາງອອກລິນຄອນ, ຫັນຊ້າຍ.
+
+249
+00:18:28,050 --> 00:18:33,650
+[PENDEJO BOB]
+Nice to meet you, Snake. You too, Miss. You're welcome down here anytime. Anytime at all.
+ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ, ຫມາ. ເຈົ້າຄືກັນ, ນາງ.
+ເຈົ້າຍິນດີຕ້ອນຮັບຢູ່ບ່ອນນີ້ທຸກເວລາ. ທຸກເວລາເລີຍ.
+
+250
+00:18:34,150 --> 00:18:39,400
+[TASLIMA]
+The freeway's over there. But, Snake - I don't think it's such a good idea.
+ທາງດ່ວນຢູ່ບ່ອນນັ້ນ. ແຕ່, ຫມາ -
+ຂ້ອຍບໍ່ຄິດວ່າມັນເປັນຄວາມຄິດທີ່ດີຫຼາຍ.
+
+251
+00:18:39,900 --> 00:18:41,900
+[TASLIMA]
+The freeways are dangerous.
+ທາງດ່ວນອັນຕະລາຍ.
+
+252
+00:18:42,400 --> 00:18:44,400
+[TASLIMA]
+Goodbye, Snake.
+ສະບາຍດີ, ຫມາ.
+
+253
+00:18:44,900 --> 00:18:47,350
+[TASLIMA]
+Sun's coming up in a few hours.
+ແສງຕາເວັນຈະຂຶ້ນໃນສອງສາມຊົ່ວໂມງ.
+
+254
+00:18:47,850 --> 00:18:53,850
+[TASLIMA]
+UV's gonna be bad today. I have a friend who's got a place near here. We can crash there if you want, Snake.  I'd love to take care of you. Make you feel good.
+UV ຈະບໍ່ດີໃນມື້ນີ້. ຂ້ອຍມີເພື່ອນທີ່ມີບ່ອນຢູ່ໃກ້ໆນີ້.
+ພວກເຮົາສາມາດຕົກຢູ່ບ່ອນນັ້ນຖ້າເຈົ້າຕ້ອງການ, Snake. ຂ້ອຍຢາກເບິ່ງແຍງເຈົ້າ. ເຮັດໃຫ້ເຈົ້າຮູ້ສຶກດີ.
+
+255
+00:18:54,350 --> 00:18:58,200
+[TASLIMA]
+I changed my mind. I'm going with you, wherever you're going.
+ຂ້ອຍປ່ຽນໃຈແລ້ວ. ຂ້ອຍຈະໄປກັບເຈົ້າ, ບໍ່ວ່າເຈົ້າຈະໄປໃສ.
+
+256
+00:18:58,700 --> 00:19:00,700
+[PLISSKEN]
+What the hell is this?
+ນີ້ແມ່ນຫຍັງ?
+
+257
+00:19:01,200 --> 00:19:03,200
+[TASLIMA]
+The freeway.
+ທາງດ່ວນ.
+
+258
+00:19:03,700 --> 00:19:07,550
+[PLISSKEN]
+I know that. There are people in some of these cars.
+ຂ້ອຍຮູ້ແລ້ວ. ມີຄົນຢູ່ໃນລົດເຫຼົ່ານີ້ບາງຢ່າງ.
+
+259
+00:19:08,050 --> 00:19:14,050
+[TASLIMA]
+It's where they live. I guess after everything happened, they just needed to do what they'd always done before. During the daytime, they just pull down the shades on their windows and sleep.
+ມັນເປັນບ່ອນທີ່ພວກເຂົາອາໄສຢູ່. ຂ້ອຍຄິດວ່າຫຼັງຈາກທຸກສິ່ງທຸກຢ່າງເກີດຂຶ້ນ,
+ພວກເຂົາພຽງແຕ່ຕ້ອງເຮັດສິ່ງທີ່ພວກເຂົາເຄີຍເຮັດກ່ອນ. ໃນເວລາກາງເວັນ, ພວກເຂົາຍັງດຶງເງົາໃສ່ປ່ອງຢ້ຽມຂອງພວກເຂົາແລະນອນ.
+
+260
+00:19:14,550 --> 00:19:17,000
+[TASLIMA]
+What are you gonna do in Venice?
+ເຈົ້າຈະເຮັດຫຍັງຢູ່ເວເນສ?
+
+261
+00:19:17,500 --> 00:19:19,500
+[PLISSKEN]
+Find Cuervo Jones.
+ຊອກຫາຄູເວໂຈນສ໌.
+
+262
+00:19:20,000 --> 00:19:22,450
+[TASLIMA]
+No! Stay away, Snake. He's mucho muerte.
+ບໍ່! ຢູ່ຫ່າງໄກ, ຫມາ. ລາວຕາຍຫຼາຍ.
+
+263
+00:19:22,950 --> 00:19:24,950
+[TASLIMA]
+Run, Snake...They're coming.
+ແລ່ນ, ຫມາ... ພວກເຂົາ ກໍາ ລັງມາ.
+
+264
+00:19:25,450 --> 00:19:27,450
+[PLISSKEN]
+Who?
+ໃຜ?
+
+265
+00:19:27,950 --> 00:19:29,950
+[TASLIMA]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+266
+00:19:30,450 --> 00:19:36,450
+[FREEWAY EMBANKMENTS]
+From out of the heavy bushes along the freeway storm a dozen Mescalitos moving quickly - firing as they go. Behind them grinds an ancient garbage truck mounted with a 50-caliber machine gun. Atop the truck is Delgado. He wears a flame thrower on his back.
+ຈາກຈາກປ່າໄມ້ຫນັກແຫນ້ນຕາມລົມພາຍຸທາງດ່ວນສິບຄົນ Mescalitos ເຄື່ອນຍ້າຍຢ່າງໄວວາ - ຍິງໃນຂະນະທີ່ພວກເຂົາໄປ. ຢູ່ເບື້ອງຫຼັງພວກເຂົາ grinds
+ລົດບັນທຸກຂີ້ເຫຍື້ອບູຮານທີ່ຕິດຕັ້ງດ້ວຍປືນເຄື່ອງຈັກ 50 ຄາລີເບີ. ຢູ່ເທິງລົດບັນທຸກແມ່ນ Delgado. ລາວໃສ່ເຄື່ອງຖິ້ມໄຟໃນຫຼັງຂອງລາວ.
+
+267
+00:19:36,950 --> 00:19:42,950
+[PLISSKEN]
+Returns fire, rolls under a car and begins crawling. All around him people jump out of their cars, begin firing back at the Mescalitos.
+ກັບຄືນໄຟ, ລວດລ້ອມພາຍໃຕ້ລົດແລະເລີ່ມຕົ້ນຍ່າງ.
+ຢູ່ອ້ອມຂ້າງລາວຄົນໂດດອອກຈາກລົດຂອງພວກເຂົາ, ເລີ່ມຍິງຄືນໃສ່ Mescalitos ໄດ້.
+
+268
+00:19:43,450 --> 00:19:46,600
+[THE GARBAGE TRUCK]
+Smashes through a rusting Volkswagen, heading straight toward him.
+ມັນແຕກຜ່ານລົດໂຟກເຊວເກີທີ່ rusting, ໄປກົງໄປຫາລາວ.
+
+269
+00:19:47,100 --> 00:19:50,600
+[PLISSKEN]
+Reaches the edge of the freeway, dives for the bushes.
+ມັນບັນລຸແຄມທາງດ່ວນ, ຖິ້ມໄປຫາປ່າໄມ້.
+
+270
+00:19:51,100 --> 00:19:55,650
+[AS THE GARBAGE TRUCK]
+Roars past, firing into the vehicles on the freeway, the people running, screaming...
+ສຽງໂຫວດຜ່ານໄປ, ຍິງໃສ່ພາຫະນະໃນທາງດ່ວນ, ປະຊາຊົນແລ່ນ, ຮ້ອງໄຫ້...
+
+271
+00:19:56,150 --> 00:20:02,150
+[AHEAD ON THE STREET]
+Suddenly, in the blowing mist in front of him, a car screeches into view. It's a perfectly restored, 1966 Cadillac convertible. Candy-apple red. The stereo blasts "Last Night" by the Satellites.
+ທັນທີ, ໃນຫມອກທີ່ພັດຢູ່ຕໍ່ຫນ້າລາວ, ລົດຮ້ອງໄຫ້ເຂົ້າໄປໃນທັດສະນະ. ມັນແມ່ນລົດປ່ຽນແບບ Cadillac
+ທີ່ຖືກຟື້ນຟູຢ່າງສົມບູນແບບ, ປີ 1966. ສີແດງແຊນດີແອບເປີ. ສະເຕຣີໂອລະເບີດ"ຄືນສຸດທ້າຍ" ໂດຍດາວທຽມ.
+
+272
+00:20:02,650 --> 00:20:04,650
+[MAP TO THE STARS EDDIE]
+Hop in, Snake!
+ກະໂດດເຂົ້າມາ, ຫມາ!
+
+273
+00:20:05,150 --> 00:20:11,150
+[THE UNDERGROWTH]
+As the garbage truck bursts through. Delgado is behind the machine gun, blasting away, burning up the street. Bullets are flying everywhere as Plissken runs to the Cadillac and dives into the back seat. He's still not fully inside when Map To The Stars Eddie roars away in a blaze of rubber and smoke.
+ໃນຂະນະທີ່ລົດບັນທຸກຂີ້ເຫຍື້ອລະເບີດຜ່ານ. ເດລກາໂດຢູ່ເບື້ອງຫຼັງປືນຈັກ, ລະເບີດໄປ, ຈູດຖະຫນົນຫົນທາງ. ລູກປືນ ກໍາ
+ລັງບິນຢູ່ທຸກບ່ອນໃນຂະນະທີ່ປລິສສເກນແລ່ນໄປຫາຄາດີລາກແລະຖິ້ມເຂົ້າໄປໃນບ່ອນນັ່ງຫລັງ. ລາວຍັງບໍ່ຢູ່ໃນພາຍໃນຢ່າງເຕັມທີ່ເມື່ອ Map To The Stars ເອດດີຮ້ອງໄຫ້ໃນໄຟຂອງຢາງແລະສູບ.
+
+274
+00:20:11,650 --> 00:20:14,100
+[DELGADO]
+Takes aim with his flame thrower... KAWHOOSH!
+ເອົາເປົ້າຫມາຍດ້ວຍເຄື່ອງຖິ້ມໄຟຂອງລາວ... KAWHOOSH!
+
+275
+00:20:14,600 --> 00:20:20,600
+[A GIANT TONGUE OF FLAME]
+Shoots out from the nozzle like a flaming spear. It streaks down the street, just missing the tail of the Cadillac as it swerves around a corner...
+ມັນຍິງອອກຈາກດອກໄຟຄືກັບປືນໄຟໄຫມ້. ມັນແລ່ນລົງຖະຫນົນຫົນທາງ
+, ພຽງແຕ່ຂາດຫຼັງຂອງ Cadillac ໃນຂະນະທີ່ມັນຫັນໄປຢູ່ແຄມ...
+
+276
+00:20:21,100 --> 00:20:25,300
+[MAP TO THE STARS EDDIE]
+Hey, Snake - that was great. They almost burned your ass off!
+ເຮ້, ຫມາ - ນັ້ນດີເລີດ. ພວກເຂົາເກືອບຈະເຜົາຜານຫລັງເຈົ້າອອກ!
+
+277
+00:20:25,800 --> 00:20:31,800
+[MAP TO THE STARS EDDIE]
+Too many people know where you're going, Snake. That's not good. Delgado and his men were back there waiting for you.
+ຄົນຫຼາຍເກີນໄປຮູ້ວ່າເຈົ້າ ກໍາ ລັງໄປໃສ, ຫມາ. ນັ້ນບໍ່ດີ
+. ເດລກາໂດແລະຜູ້ຊາຍຂອງລາວຢູ່ບ່ອນນັ້ນລໍຖ້າເຈົ້າ.
+
+278
+00:20:32,300 --> 00:20:34,300
+[PLISSKEN]
+Delgado?
+ເດລກາໂດ?
+
+279
+00:20:34,800 --> 00:20:40,800
+[MAP TO THE STARS EDDIE]
+Cuervo Jones' right-hand man. One tough hombre. You don't understand, Snake. Cuervo Jones wants to unify the island. We're on the move, man. Big time.
+ຜູ້ຊາຍຂວາຂອງຄູເວໂຈນສ໌. ຜູ້ຊາຍທີ່ແຂງແຮງຄົນຫນຶ່ງ. ເຈົ້າບໍ່ເຂົ້າໃຈ, Snake.
+ຄູເວໂຣຈອນສ໌ຢາກລວມເອົາເກາະ. ພວກເຮົາ ກໍາ ລັງເຄື່ອນຍ້າຍ, ຜູ້ຊາຍ. ເວລາໃຫຍ່.
+
+280
+00:20:41,300 --> 00:20:43,300
+[PLISSKEN]
+Stop the damn car.
+ຢຸດລົດແມ.
+
+281
+00:20:43,800 --> 00:20:45,800
+[MAP TO THE STARS EDDIE]
+No way.
+ບໍ່ເປັນໄປເລີຍ.
+
+282
+00:20:46,300 --> 00:20:48,300
+[PLISSKEN]
+I said pull over.
+ຂ້ອຍບອກວ່າ ຢຸດລົງ.
+
+283
+00:20:48,800 --> 00:20:54,750
+[MAP TO THE STARS EDDIE]
+All right. Anything for you, Snake.  Although I was going to take you to Cuervo Jones' place.
+ດີແລ້ວ. ທຸກຢ່າງ ສໍາ ລັບເຈົ້າ, Snake.
+ເຖິງແມ່ນວ່າຂ້ອຍຈະພາເຈົ້າໄປເຮືອນຂອງ Cuervo ໂຈນສ໌.
+
+284
+00:20:55,250 --> 00:20:57,250
+[PLISSKEN]
+Where is it?
+ມັນຢູ່ໃສ?
+
+285
+00:20:57,750 --> 00:20:59,750
+[MAP TO THE STARS EDDIE]
+Right over there.
+ຢູ່ບ່ອນນັ້ນ.
+
+286
+00:21:00,250 --> 00:21:06,250
+[ON THE DASHBOARD]
+A small panel in front of Plissken flips down, revealing a two- inch machine gun barrel. Before he can do anything, four rounds rip straight into his chest, blasting him into the seat.
+ກະດານນ້ອຍໆຢູ່ຕໍ່ຫນ້າປລິສສເກນຫັນລົງ, ເປີດເຜີຍຖັງປືນເຄື່ອງຈັກສອງນິ້ວ. ກ່ອນລາວຈະເຮັດຫຍັງໄດ້
+, ລູກປືນສີ່ລູກແຕກກົງເຂົ້າໄປໃນທ້ອງຂອງລາວ, ລະເບີດລາວເຂົ້າໄປໃນບ່ອນນັ່ງ.
+
+287
+00:21:06,750 --> 00:21:12,750
+[PLISSKEN]
+Grits his teeth and gasps. His gun drops. Blood runs from four holes in his shirt. His face grows red as he fights for air.
+ຈັບແຂ້ວແລະຫາຍໃຈ. ປືນຂອງລາວຕົກລົງ. ເລືອດໄຫຼຈາກຮູສີ່ຮູໃນເສື້ອຜ້າຂອງລາວ
+. ໃບຫນ້າຂອງລາວກາຍເປັນສີແດງໃນຂະນະທີ່ລາວຕໍ່ສູ້ເພື່ອອາກາດ.
+
+288
+00:21:13,250 --> 00:21:19,250
+[MAP TO THE STARS EDDIE]
+Pretty neat, huh? This is Cuervo's car. He lets me use it sometimes.  Not to worry, Snake. You were just shot with a fun-gun. You feel it?
+ມັນສວຍງາມຫຼາຍ, ແມ່ນບໍ? ນີ້ແມ່ນລົດຂອງຄູເວໂກ້. ລາວປ່ອຍໃຫ້ຂ້ອຍໃຊ້ມັນບາງຄັ້ງ
+. ຢ່າກັງວົນ, Snake. ເຈົ້າພຽງແຕ່ຖືກຍິງດ້ວຍປືນມ່ວນຊື່ນ. ເຈົ້າຮູ້ສຶກມັນບໍ?
+
+289
+00:21:19,750 --> 00:21:21,850
+[MAP TO THE STARS EDDIE]
+Pure mesh, man. 100-proof artery choker.
+ເຄືອຂ່າຍທີ່ບໍລິສຸດ, ຜູ້ຊາຍ.
+ເຄື່ອງສັ່ນສະເທືອນເສັ້ນເລືອດທີ່ບໍ່ມີຫຼັກຖານ 100.
+
+290
+00:21:22,350 --> 00:21:28,350
+[MAP TO THE STARS EDDIE]
+Like Cuervo says, when the hit pulls you down to one inch from death, that is living, man.
+ດັ່ງທີ່ຄູເວໂກ້ເວົ້າ, ເມື່ອການຕີດຶງເຈົ້າລົງເຖິງ
+ຫນຶ່ງ ນິ້ວຈາກຄວາມຕາຍ, ນັ້ນແມ່ນຊີວິດຢູ່, ຜູ້ຊາຍ.
+
+291
+00:21:28,850 --> 00:21:34,850
+[MAP TO THE STARS EDDIE]
+You should've talked to me first, Snake. I could've set this whole thing up. I'm actually Cuervo's agent, you know.
+ເຈົ້າຄວນເວົ້າກັບຂ້ອຍກ່ອນ, Snake. ຂ້ອຍສາມາດຈັດການເລື່ອງທັງ
+ຫມົດ ນີ້ໄດ້. ຂ້ອຍເປັນຕົວແທນຂອງ Cuervo ແທ້ຈິງ, ເຈົ້າຮູ້ແລ້ວ.
+
+292
+00:21:35,350 --> 00:21:41,350
+[MAP TO THE STARS EDDIE]
+And I'd love to represent you, too. We could make a bundle together. I know I could really help your career...I mean, you're a legend and all - but the last couple years, man, it's like you've fallen off the face of the earth.
+ແລະຂ້ອຍຢາກເປັນຕົວແທນເຈົ້າເຊັ່ນກັນ. ພວກເຮົາສາມາດເຮັດກະດານຮ່ວມກັນໄດ້. ຂ້ອຍຮູ້ວ່າຂ້ອຍສາມາດຊ່ວຍອາຊີບຂອງທ່ານໄດ້ແທ້ໆ..
+. ຂ້ອຍຫມາຍຄວາມວ່າ, ເຈົ້າເປັນນິທານແລະທັງ ຫມົດ - ແຕ່ສອງສາມປີທີ່ຜ່ານມາ, ຜູ້ຊາຍ, ມັນຄືກັບວ່າເຈົ້າໄດ້ຕົກຈາກໃບຫນ້າໂລກ.
+
+293
+00:21:41,850 --> 00:21:43,950
+[ON PLISSKEN'S FACE]
+As the world crashes to black!
+ໃນຂະນະທີ່ໂລກຕົກເປັນສີ ດໍາ!
+
+294
+00:21:44,450 --> 00:21:50,450
+[BEHIND IT]
+Surrounded by Mescalitos with torches and guns, sits the former Bradley Terminal defaced with graffiti, the sign now reading:
+ອ້ອມຮອບໂດຍ Mescalitos ດ້ວຍແສງໄຟແລະປືນ, ນັ່ງໃນອະດີດ Bradley
+Terminal ທີ່ຈົບແນ່ດ້ວຍ graffiti, ປ້າຍດຽວນີ້ອ່ານວ່າ:
+
+295
+00:21:50,950 --> 00:21:52,950
+[PLISSKEN'S GOOD EYE]
+Opens. Looks around fuzzily.
+ເປີດ. ເບິ່ງຢູ່ອ້ອມຂ້າງຢ່າງສັບສົນ.
+
+296
+00:21:53,450 --> 00:21:59,050
+[MAP TO THE STARS EDDIE]
+Come on, Cuervo. I delivered him, didn't I? All I'm asking for is what you promised.
+ມາແລ້ວ, ຄູເວໂກ້. ຂ້ອຍໄດ້ສົ່ງລາວ,
+ແມ່ນບໍ? ຂ້ອຍຂໍພຽງແຕ່ສິ່ງທີ່ເຈົ້າສັນຍາ.
+
+297
+00:21:59,550 --> 00:22:01,550
+[CUERVO JONES]
+We'll see.
+ພວກເຮົາຈະເຫັນ.
+
+298
+00:22:02,050 --> 00:22:06,250
+[CUERVO JONES]
+Carrot juice?  Laced with tequila, Snake. Good for you. No?  Your health.
+ນ້ ໍາ ກາກໂກຣັດ? ຕິດກັບເທກິລາ, ຫມາ
+. ດີຕໍ່ເຈົ້າ. ບໍ່? ສຸຂະພາບຂອງທ່ານ.
+
+299
+00:22:06,750 --> 00:22:10,950
+[CUERVO JONES]
+You're coming out of it, Snake. It hurts real bad.  That's good.
+ເຈົ້າ ກໍາ ລັງອອກຈາກມັນ, ຫມາ. ມັນເຈັບປວດຫຼາຍແທ້ໆ. ນັ້ນດີ.
+
+300
+00:22:11,450 --> 00:22:17,450
+[CUERVO JONES]
+Dying isn't good enough for you. You need pain. You'll never make it to where you want to go without a little pain.
+ການຕາຍບໍ່ພຽງພໍ ສໍາ ລັບເຈົ້າ. ເຈົ້າຕ້ອງການຄວາມເຈັບປວດ.
+ເຈົ້າຈະບໍ່ໄປບ່ອນທີ່ເຈົ້າຢາກໄປໂດຍບໍ່ມີຄວາມທຸກທໍລະມານ ຫນ້ອຍ ຫນຶ່ງ.
+
+301
+00:22:17,950 --> 00:22:22,500
+[CUERVO JONES]
+Snake Plissken. American outlaw. So typical of American idealism. The old west, Snake.
+Snake Plissken. ຄົນຜິດກົດ ຫມາຍ ອາເມລິກາ.
+ເປັນແບບປົກກະຕິຂອງຄວາມຄິດເຫັນຂອງອາເມລິກາຫຼາຍ. ຕາເວັນຕົກເກົ່າ, Snake.
+
+302
+00:22:23,000 --> 00:22:29,000
+[CUERVO JONES]
+Man against the sky. The individual. Freedom. No wonder they hate you so much in America, Snake. You remind them of what they used to be.
+ຜູ້ຊາຍຕໍ່ຕ້ານສະຫວັນ. ບຸກຄົນ. ເສລີພາບ. ບໍ່ແປກໃຈວ່າພວກເຂົາກຽດຊັງເຈົ້າຫຼາຍໃນອາເມລິກາ
+, ຫມາ. ເຈົ້າຈື່ພວກເຂົາວ່າພວກເຂົາເຄີຍເປັນຫຍັງ.
+
+303
+00:22:29,500 --> 00:22:31,600
+[CUERVO JONES]
+Here is the real L.A., Snake.
+ນີ້ແມ່ນ LA ທີ່ແທ້ຈິງ, ຫມາ.
+
+304
+00:22:32,100 --> 00:22:35,250
+[CUERVO JONES]
+The poor. The old. The lost. People without hope.
+ຄົນທຸກຍາກ. ຄົນເຖົ້າ. ຄົນສູນເສຍ. ຄົນບໍ່ມີຄວາມຫວັງ.
+
+305
+00:22:35,750 --> 00:22:41,750
+[CUERVO JONES]
+Do you know what they want? One word. Liberation.  They want a chance to live - before it's all gone. They've been hated for too long -  Now it's their turn.
+ເຈົ້າຮູ້ບໍວ່າພວກເຂົາຕ້ອງການຫຍັງ? ຄໍາ ດຽວ. ການປົດປ່ອຍ. ພວກເຂົາຕ້ອງການໂອກາດທີ່ຈະດໍາລົງຊີວິດ -
+ກ່ອນທີ່ມັນທັງ ຫມົດ ຈະຫາຍໄປ. ພວກເຂົາຖືກກຽດຊັງເປັນເວລາດົນເກີນໄປ - ດຽວນີ້ມັນເປັນເວລາຂອງພວກເຂົາ.
+
+306
+00:22:42,250 --> 00:22:44,700
+[UTOPIA]
+Cuervo! LaToya Jackson just won Best Actress.
+ຄູເວໂກ້! ລາໂຕຍ ຈາຊອນຫາກໍ່ໄດ້ຮັບລາງວັນນັກສະແດງທີ່ດີທີ່ສຸດ.
+
+307
+00:22:45,200 --> 00:22:47,300
+[UTOPIA]
+You said I could hold it.
+ເຈົ້າບອກວ່າຂ້ອຍສາມາດຖືໄດ້.
+
+308
+00:22:47,800 --> 00:22:49,800
+[UTOPIA]
+Who's that?
+ນັ້ນແມ່ນໃຜ?
+
+309
+00:22:50,300 --> 00:22:52,400
+[CUERVO JONES]
+You never heard of Snake Plissken?
+ເຈົ້າບໍ່ເຄີຍໄດ້ຍິນກ່ຽວກັບ Snake Plissken ບໍ?
+
+310
+00:22:52,900 --> 00:22:56,400
+[UTOPIA]
+He doesn't look like his picture.  I bet he's fake.
+ລາວບໍ່ຄ້າຍຄືກັບຮູບຂອງລາວ. ຂ້ອຍແນ່ໃຈວ່າລາວເປັນຕົວະ.
+
+311
+00:22:56,900 --> 00:23:00,050
+[CUERVO JONES]
+Now go get dressed. We have things to do.
+ດຽວນີ້ໄປໃສ່ເຄື່ອງນຸ່ງຫົ່ມ. ພວກເຮົາມີວຽກເຮັດງານທໍາ.
+
+312
+00:23:00,550 --> 00:23:03,350
+[UTOPIA]
+Are we going to eat soon? I'm starved.
+ພວກເຮົາຈະກິນໃນໄວໆນີ້ບໍ? ຂ້ອຍຫິວແລ້ວ.
+
+313
+00:23:03,850 --> 00:23:05,850
+[UTOPIA]
+Ooww!
+ໂອ້!
+
+314
+00:23:06,350 --> 00:23:08,800
+[CUERVO JONES]
+Go on now. Do as I say.
+ໄປແລ້ວ. ເຮັດຕາມທີ່ຂ້ອຍບອກ.
+
+315
+00:23:09,300 --> 00:23:15,300
+[CUERVO JONES]
+I'm going to show her what it means to be a woman - for the first time in her pathetic little life.  Given her love, Snake. Everybody needs love.
+ຂ້ອຍຈະສະແດງໃຫ້ນາງວ່າເປັນແມ່ຍິງ ຫມາຍ ຄວາມວ່າແນວໃດ - ເປັນຄັ້ງ ທໍາ
+ອິດໃນຊີວິດນ້ອຍທີ່ໂຊກຮ້າຍຂອງນາງ. ໂດຍໃຫ້ຄວາມຮັກຂອງນາງ, Snake. ທຸກຄົນຕ້ອງການຄວາມຮັກ.
+
+316
+00:23:15,800 --> 00:23:21,800
+[CUERVO JONES]
+You want to hook up with us? Join the revolution? We're all getting out of here tomorrow night.  We're gonna rule the world. Come with us, Snake.
+ເຈົ້າຢາກຕິດຕໍ່ກັບພວກເຮົາບໍ? ເຂົ້າຮ່ວມການປະຕິວັດບໍ?
+ພວກເຮົາທຸກຄົນຈະອອກຈາກບ່ອນນີ້ໃນຕອນແລງມື້ອື່ນ. ພວກເຮົາຈະປົກຄອງໂລກ. ມາພ້ອມກັບພວກເຮົາ, ຫມາ.
+
+317
+00:23:22,300 --> 00:23:27,900
+[CUERVO JONES]
+No? Too bad. Well, I told you we'd finish it later. So guess what? It's later.
+ບໍ່? ໂຊກຮ້າຍຫຼາຍ. ດີ, ຂ້ອຍບອກເຈົ້າວ່າພວກເຮົາຈະສິ້ນສຸດມັນຕໍ່ມາ
+. ສະນັ້ນຄິດວ່າຫຍັງ? ມັນຕໍ່ມາແລ້ວ.
+
+318
+00:23:28,400 --> 00:23:30,500
+[DELGADO]
+You're mine now, Snake. All mine.
+ເຈົ້າເປັນຂອງຂ້ອຍດຽວນີ້, ຫມາ. ທັງ ຫມົດ ຂອງຂ້ອຍ.
+
+319
+00:23:31,000 --> 00:23:33,000
+[PLISSKEN]
+Shit.
+ສະບາຍດີ.
+
+320
+00:23:33,500 --> 00:23:39,500
+[CLANG!]
+Delgado is thrown sideways. Plissken runs, launches himself through the air, twisting his body sideways, and lands a hard kick right in Delgado's face. Delgado goes sprawling. One of the machetes CLANKS to the floor...
+ເດລກາໂດຖືກຖິ້ມໄປຂ້າງ. ປລິສສເກນແລ່ນ, ປ່ອຍຕົວເອງຜ່ານອາກາດ, ຫັນຮ່າງກາຍຂອງລາວໄປຂ້າງ,
+ແລະລົງທືນການຕີຢ່າງແຂງແຮງໂດຍກົງໃນໃບຫນ້າຂອງເດລກາດ. ເດລຄາໂດຍ່າງກວ້າງຂວາງ. ຫນຶ່ງ ໃນ machetes CLANKS ກັບພື້ນ...
+
+321
+00:23:40,000 --> 00:23:44,550
+[TOP OF MESCALITO JUSTICE HALL]
+It's Plissken. He grabs an electrical wire and throws it over the side...
+ມັນເປັນປລິສສເກນ. ລາວຈັບສາຍໄຟຟ້າແລະຖິ້ມມັນໄປຂ້າງ...
+
+322
+00:23:45,050 --> 00:23:47,500
+[AS PLISSKEN]
+Approaches, ducks behind an old junked car.
+ຄຸເຂົ່າລົງ
+
+323
+00:23:48,000 --> 00:23:53,950
+[THE FORUM - DAMAGED WALL]
+Plissken sneaks up to a crumbled, broken wall of the Forum, crawls inside through a large crack...
+ປລິສສເກນ sneaks ເຖິງກໍາແພງທີ່ແຕກຫັກ,
+ແຕກຫັກຂອງເວທີປາໄສ, crawls ເຂົ້າໄປໃນຜ່ານຮ່ອງຮອຍໃຫຍ່...
+
+324
+00:23:54,450 --> 00:23:56,450
+[THE SHOT CLOCK]
+Ticks down: 5 - 4...
+ຕິກລົງ: 5 - 4...
+
+325
+00:23:56,950 --> 00:23:59,050
+[A BLACK MUSLIM]
+Dribbles the ball towards the basket.
+ຄຸເຂົ່າລົງ
+
+326
+00:23:59,550 --> 00:24:01,550
+[THE SHOT CLOCK]
+Ticks down: 3 - 2...
+ຕິກລົງ: 3 - 2...
+
+327
+00:24:02,050 --> 00:24:08,050
+[THE BLACK MUSLIM]
+Pulls up into a jump shot, releases the ball into the air. It sails through the basket just as the horn goes off, beating the 24-second violation.
+ຄຸເຂົ່າລົງ
+
+328
+00:24:08,550 --> 00:24:14,550
+[THE REFEREE]
+Hands the ball to a Korean Dragon guard. The Korean Dragon dribbles the ball down court, into the corner and passes it off. The Korean Dragons can't get a shot off...
+ມອບບານໃຫ້ຄົນປົກປ້ອງດຣາກອນເກົາຫຼີ. ດຣາກົງເກົາຫຼີຂັບບານລົງເດີ່ນ
+, ເຂົ້າໄປໃນແຄມແລະສົ່ງມັນອອກ. ດຣາແກອນເກົາຫລີບໍ່ສາມາດຍິງໄດ້...
+
+329
+00:24:15,050 --> 00:24:20,300
+[THE SHOT CLOCK]
+Above Plissken's head ticks down: 5 - 4 - 3 - 2 - 1... HONK!
+ຢູ່ເທິງຫົວຂອງປລິສສເກນ ຕິກລົງ: 5 - 4 - 3 - 2 - 1... HONK!
+
+330
+00:24:20,800 --> 00:24:26,750
+[THE KOREAN DRAGON]
+Guard still has the ball - the shot clock horn has gone off - 24 second violation.
+ເຈົ້າຫນ້າທີ່ຍັງມີບານຢູ່ -
+ກະດານໂມງຍິງໄດ້ອອກໄປ - ການລະເມີດ 24 ວິນາທີ.
+
+331
+00:24:27,250 --> 00:24:33,250
+[BLAM! BLAM! BLAM!]
+The Korean Dragon guard is riddled with bullets. He falls dead on the floor. The Trainers with stretchers quickly collect his body and hurry off the court.
+ຄຸເຂົ່າລົງ
+
+332
+00:24:33,750 --> 00:24:35,750
+[ANNOUNCER]
+Shot clock!
+ໂມງຖືກຍິງ!
+
+333
+00:24:36,250 --> 00:24:41,500
+[JAMAAL]
+Hey - Snake Plissken, you knew my brother Abdul. He was with you in Cleveland.
+ເຮ້ - Snake Plissken, ເຈົ້າຮູ້ຈັກອ້າຍຂອງຂ້ອຍອາບດູລ
+. ລາວຢູ່ກັບເຈົ້າໃນຄລີວແລນ.
+
+334
+00:24:42,000 --> 00:24:44,000
+[JAMAAL]
+Welcome aboard, Snake.
+ຍິນດີຕ້ອນຮັບໃນເຮືອ, Snake.
+
+335
+00:24:44,500 --> 00:24:49,050
+[CUERVO JONES AND UTOPIA]
+Sitting in the Korean Dragon section near the other end of the court.
+ນັ່ງຢູ່ໃນພາກສ່ວນດຣາກອນເກົາຫຼີ ໃກ້ກັບຈຸດອື່ນຂອງສານ.
+
+336
+00:24:49,550 --> 00:24:55,550
+[CUERVO JONES]
+The time is now. We are the strongest. If we go together, the others will come.  We go for everything, Xi-Ping. But we go together. What do you say?
+ເວລາແມ່ນດຽວນີ້. ພວກເຮົາເປັນທີ່ແຂງແຮງທີ່ສຸດ. ຖ້າພວກເຮົາໄປຮ່ວມກັນ, ຄົນອື່ນຈະມາ
+. ພວກເຮົາໄປ ສໍາ ລັບທຸກຢ່າງ, ສີປິງ. ແຕ່ພວກເຮົາໄປພ້ອມກັນ. ເຈົ້າເວົ້າແນວໃດ?
+
+337
+00:24:56,050 --> 00:25:02,050
+[PLISSKEN]
+Realizes he's got to get to the other side of the court. He jumps into the huddle with Jamaal, peering at him with his one good, cold eye.
+ລາວຮູ້ວ່າລາວຕ້ອງໄປທາງອື່ນຂອງສານ. ລາວໂດດເຂົ້າໄປໃນກຸ່ມກັບຈາມາລ
+, ເບິ່ງລາວດ້ວຍຕາເຢັນທີ່ດີດຽວຂອງລາວ.
+
+338
+00:25:02,550 --> 00:25:08,150
+[PLISSKEN]
+Your brother died owing me, so I'm taking it out in trade. I need a favor...
+ອ້າຍຂອງທ່ານຕາຍຍ້ອນຂ້ອຍ, ສະນັ້ນຂ້ອຍ ກໍາ
+ລັງເອົາມັນອອກໃນການແລກປ່ຽນ. ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອ...
+
+339
+00:25:08,650 --> 00:25:10,650
+[JAMAAL]
+Sure, Snake. Anything.
+ແນ່ນອນ, ຫມາ. ທຸກຢ່າງ.
+
+340
+00:25:11,150 --> 00:25:15,700
+[PLISSKEN]
+I need to get across the court now... without drawing attention to myself.
+ຂ້ອຍຕ້ອງຂ້າມສານດຽວນີ້... ໂດຍບໍ່ຕ້ອງດຶງດູດຄວາມສົນໃຈຕໍ່ຕົວເອງ.
+
+341
+00:25:16,200 --> 00:25:22,200
+[JAMAAL]
+Like you ain't gonna stick out like a sore thumb. But we'll do what we can, Snake. Use the clock. Screen and roll. Now let's kick some butt!
+ຄືກັບວ່າເຈົ້າຈະບໍ່ໂດດເດັ່ນຄືກັບນິ້ວມືທີ່ເຈັບປວດ. ແຕ່ພວກເຮົາຈະເຮັດທຸກຢ່າງທີ່ພວກເຮົາສາມາດເຮັດໄດ້
+, ຫມາ. ໃຊ້ໂມງ. ຫນ້າ ຈໍແລະລວດລ້ອມ. ດຽວນີ້ພວກເຮົາຈະຕີຫລັງບາງຄົນ!
+
+342
+00:25:22,700 --> 00:25:24,800
+[JAMAAL]
+You play much pick-up ball, Snake?
+ເຈົ້າຫຼິ້ນບານເຕະຫຼາຍບໍ, Snake?
+
+343
+00:25:25,300 --> 00:25:27,750
+[JAMAAL]
+Whatever happens, watch the shot clock, man.
+ບໍ່ວ່າຈະເກີດຫຍັງຂຶ້ນ, ເບິ່ງໂມງຍິງ, ຜູ້ຊາຍ.
+
+344
+00:25:28,250 --> 00:25:30,250
+[UTOPIA]
+It's that weird guy again.
+ມັນເປັນຄົນແປກໃຈນັ້ນອີກເທື່ອຫນຶ່ງ.
+
+345
+00:25:30,750 --> 00:25:32,750
+[JAMAAL]
+Snake! Shot clock!
+ຫມາ! ໂມງຖືກຍິງ!
+
+346
+00:25:33,250 --> 00:25:35,700
+[THE SHOT CLOCK]
+Ticks down: 4 - 3 - 2...
+ຕິກລົງ: 4 - 3 - 2...
+
+347
+00:25:36,200 --> 00:25:38,200
+[THE BASKET]
+Swish. Nothing but net.
+ສະວິດສ໌. ບໍ່ມີຫຍັງນອກຈາກເຄືອຂ່າຍ.
+
+348
+00:25:38,700 --> 00:25:44,700
+[MAP TO THE STARS EDDIE]
+With his portable radio, trying to get out of the arena, hiding behind a crowd of Dragons. Plissken races through the crowd, grabs Map To The Stars Eddie.
+ດ້ວຍວິທະຍຸມືຖືຂອງລາວ, ພະຍາຍາມອອກຈາກສະໂມສອນ, ເຊື່ອງໄວ້ຢູ່ເບື້ອງຫຼັງຄົນຊົມເຊີຍຂອງດຣາກອນ
+. ປລິສສເກນແລ່ນຜ່ານຄົນຊື່ນຊົມ, ຈັບແຜນທີ່ໄປຫາດາວເອດດີ.
+
+349
+00:25:45,200 --> 00:25:47,200
+[MAP TO THE STARS EDDIE]
+Hey, Snake, man... Great shot!
+ເຮ້, ຫມາ, ຜູ້ຊາຍ... ການຍິງທີ່ດີເລີດ!
+
+350
+00:25:47,700 --> 00:25:50,150
+[CUERVO JONES]
+That man in black. He's very dangerous.
+ຜູ້ຊາຍຄົນນັ້ນໃສ່ສີ ດໍາ. ລາວເປັນອັນຕະລາຍຫຼາຍ.
+
+351
+00:25:50,650 --> 00:25:52,650
+[XI-PING]
+One eye?
+ຕາດຽວບໍ?
+
+352
+00:25:53,150 --> 00:25:55,150
+[CUERVO JONES]
+Yes. We gotta dump him.
+ແມ່ນແລ້ວ. ພວກເຮົາຕ້ອງຖິ້ມລາວ.
+
+353
+00:25:55,650 --> 00:25:57,650
+[XI-PING]
+What does he want?
+ລາວຢາກຫຍັງ?
+
+354
+00:25:58,150 --> 00:26:04,150
+[CUERVO JONES]
+I'm betting the cops sent him in. Man, I do not need this. I got a war to win.
+ຂ້ອຍແນ່ໃຈວ່າຕໍາຫຼວດໄດ້ສົ່ງລາວເຂົ້າມາ. ຜູ້ຊາຍ
+, ຂ້ອຍບໍ່ຕ້ອງການສິ່ງນີ້. ຂ້ອຍຕ້ອງຊະນະສົງຄາມ.
+
+355
+00:26:04,650 --> 00:26:10,650
+[ANOTHER EXIT - THE FORUM]
+As Plissken drags Map To The Stars Eddie out into the night, crouches behind a row of cars, watches Cuervo Jones' caravan start their engines.
+ໃນຂະນະທີ່ປລິສສເກນ ດຶງແມບ To The Stars ເອດດີອອກໄປໃນຕອນກາງຄືນ,
+ນັ່ງຢູ່ເບື້ອງຫຼັງແຖວລົດ, ເບິ່ງ caravan ຂອງ Cuervo ໂຈນສ໌ເລີ່ມຕົ້ນເຄື່ອງຈັກຂອງພວກເຂົາ.
+
+356
+00:26:11,150 --> 00:26:13,150
+[PLISSKEN]
+Where are they going?
+ພວກເຂົາໄປໃສ?
+
+357
+00:26:13,650 --> 00:26:18,200
+[MAP TO THE STARS EDDIE]
+Oh, man... You didn't have to hit me, Snake. I can help you.
+ໂອ້, ຜູ້ຊາຍ... ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຕີຂ້ອຍ
+, ຫມາ. ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້.
+
+358
+00:26:18,700 --> 00:26:24,700
+[MAP TO THE STARS EDDIE]
+Bankrupt City. The Happy Kingdom.  Snake, Cuervo's hooked up with Xi-Ping. He is primetime, man - Mister Bad News. The rest of the city's joining up with 'em.  You're shit outta luck, Snake.
+ເມືອງທີ່ລົ້ມເຫຼວ. ລາຊະອານາຈັກທີ່ສຸກ. ຫມາ, ຄູເວໂກ້ຕິດພັນກັບສີປິງ. ລາວຢູ່ໃນເວລາສູງສຸດ, ຜູ້ຊາຍ
+- ທ້າວຂ່າວບໍ່ດີ. ສ່ວນທີ່ເຫຼືອຂອງເມືອງ ກໍາ ລັງເຂົ້າຮ່ວມກັບພວກເຂົາ. ເຈົ້າໂຊກດີຫຼາຍ, ຫມາ.
+
+359
+00:26:25,200 --> 00:26:27,200
+[PLISSKEN]
+Not yet.
+ຍັງບໍ່ທັນ.
+
+360
+00:26:27,700 --> 00:26:32,600
+[MAP TO THE STARS EDDIE]
+I could've helped you. We coulda made a deal with Cuervo. If you'd listen...
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້.
+ພວກເຮົາສາມາດເຮັດຂໍ້ຕົກລົງກັບຄູເວໂກ້ໄດ້. ຖ້າເຈົ້າຟັງ...
+
+361
+00:26:33,100 --> 00:26:36,600
+[FORUM EXIST]
+The caravan picks up speed as it approaches the exit...
+ຄາຣາວານເພີ່ມຄວາມໄວໃນຂະນະທີ່ມັນໃກ້ກັບທາງອອກ...
+
+362
+00:26:37,100 --> 00:26:43,100
+[BLAM!]
+The front seat disintegrates. Metal, leather, padding fly everywhere. Cuervo Jones ducks against the door, covering his face with one hand, still grasping the wheel with the other.
+ບ່ອນນັ່ງທາງຫນ້າແຕກແຍກ. ໂລຫະ, ຫນັງ, padding ບິນຢູ່ທຸກບ່ອນ. Cuervo ໂຈນສ໌
+ducks ຕໍ່ປະຕູ, ປົກປິດໃບຫນ້າຂອງລາວດ້ວຍມືຫນຶ່ງ, ຍັງຈັບລໍ້ດ້ວຍມືອື່ນ.
+
+363
+00:26:43,600 --> 00:26:49,600
+[KAWHUMP!]
+The entire front seat and floor underneath it fall down out of the Cadillac and hit the street below. The bodies of the driver and X- Ping flop under the monster wheels.
+ບ່ອນນັ່ງທາງຫນ້າທັງ ຫມົດ ແລະ ພື້ນພາຍໃຕ້ມັນຕົກລົງຈາກຄາດີລາກແລະຕີຖະຫນົນທາງລຸ່ມນີ້
+. ສົບຂອງຄົນຂັບຂີ່ແລະ X- Ping flop ພາຍໃຕ້ລໍ້ໂມສເຕີ.
+
+364
+00:26:50,100 --> 00:26:52,100
+[CUERVO JONES]
+No!
+ບໍ່!
+
+365
+00:26:52,600 --> 00:26:54,600
+[UTOPIA]
+Lemme go...!
+ໃຫ້ໄປ...!
+
+366
+00:26:55,100 --> 00:27:01,100
+[INSIDE THE MESCALITO CAR]
+The driver swerves, hits the brakes... and the car hops the curb, slides along the sidewalk, burning rubber.
+ຜູ້ຂັບຂີ່ຫັນໄປ, ກົດບຣັກ... ແລະລົດໂດດທາງບາບ
+, ລອຍຕາມຖະຫນົນຫົນທາງ, ໄຫມ້ຢາງ.
+
+367
+00:27:01,600 --> 00:27:07,600
+[PLISSKEN AND UTOPIA]
+Are thrown forward. They tumble off the roof... across the hood... and land on the sidewalk in front of the car. They roll to a stop, as the car screeches to a stop, inches from their heads, as the caravan suddenly puts on its brakes.
+ຄຸເຂົ່າລົງ
+
+368
+00:27:08,100 --> 00:27:10,100
+[CUERVO JONES]
+Kill him, kill him...!
+ຂ້າລາວ, ຂ້າລາວ...!
+
+369
+00:27:10,600 --> 00:27:12,600
+[MAP TO THE STARS EDDIE]
+Good thinkin', Snake.
+ການຄິດທີ່ດີ, ຫມາ.
+
+370
+00:27:13,100 --> 00:27:17,300
+[UTOPIA]
+My... father sent you... didn't he?  He sent you to kill me...
+ພໍ່ຂອງຂ້ອຍ... ໄດ້ສົ່ງເຈົ້າ... ແມ່ນບໍ
+? ລາວໄດ້ສົ່ງເຈົ້າເພື່ອຂ້າຂ້ອຍ...
+
+371
+00:27:17,800 --> 00:27:19,800
+[UTOPIA]
+Didn't he?
+ລາວບໍ່?
+
+372
+00:27:20,300 --> 00:27:22,300
+[PLISSKEN]
+Shit.
+ສະບາຍດີ.
+
+373
+00:27:22,800 --> 00:27:24,800
+[PLISSKEN]
+Get out of here.
+ອອກຈາກບ່ອນນີ້.
+
+374
+00:27:25,300 --> 00:27:27,300
+[PLISSKEN]
+I said go!
+ຂ້ອຍບອກໄປ!
+
+375
+00:27:27,800 --> 00:27:32,700
+[UTOPIA]
+Don't take it back. Don't give it to him. Please. Let me have it.
+ຢ່າເອົາມັນກັບຄືນໄປບ່ອນ. ຢ່າໃຫ້ມັນໃຫ້ລາວ. ກະລຸນາ. ໃຫ້ຂ້ອຍກິນມັນ.
+
+376
+00:27:33,200 --> 00:27:35,200
+[PLISSKEN]
+What does this thing do?
+ສິ່ງນີ້ເຮັດຫຍັງ?
+
+377
+00:27:35,700 --> 00:27:37,700
+[UTOPIA]
+No!
+ບໍ່!
+
+378
+00:27:38,200 --> 00:27:43,450
+[KABLAM!]
+Plissken's shoulder explodes as a bullet tears through his flesh! He spins, drops the prototype...
+ຄຸເຂົ່າລົງ
+
+379
+00:27:43,950 --> 00:27:46,050
+[KABLAM!]
+He fires again, hits Plissken's leg.
+ລາວຍິງອີກຄັ້ງ, ຕີຕີນຂອງປລິສສເກນ.
+
+380
+00:27:46,550 --> 00:27:48,550
+[MAP TO THE STARS EDDIE]
+So long, Snake.
+ສະບາຍດີ, ຫມາ.
+
+381
+00:27:49,050 --> 00:27:55,050
+[PLISSKEN'S BODY]
+Airborne. Falling through black space. Down, down, down, straight to hell below, until we can't see him anymore as the darkness swallows him up...
+ການບິນທາງອາກາດ. ຕົກຜ່ານພື້ນທີ່ສີດໍາ. ລົງ, ລົງ, ຫຼຸດລົງ, ໂດຍກົງໄປສູ່ອານາໄມຢູ່ລຸ່ມນີ້
+, ຈົນກວ່າພວກເຮົາບໍ່ສາມາດເຫັນລາວອີກຕໍ່ໄປໃນຂະນະທີ່ຄວາມມືດຈູດລາວ...
+
+382
+00:27:55,550 --> 00:27:57,550
+[CUERVO JONES]
+Where is he?
+ລາວຢູ່ໃສ?
+
+383
+00:27:58,050 --> 00:28:02,600
+[MAP TO THE STARS EDDIE]
+He jumped. Down there.  He's dead, Cuervo. I did it. I killed Plissken.
+ລາວໂດດຂຶ້ນ. ຢູ່ລຸ່ມນັ້ນ. ລາວຕາຍແລ້ວ,
+ຄູເວໂກ້. ຂ້ອຍເຮັດມັນ. ຂ້ອຍຂ້າປລິສສເກນ.
+
+384
+00:28:03,100 --> 00:28:05,100
+[CUERVO JONES]
+Give it to me.
+ໃຫ້ມັນໃຫ້ຂ້ອຍ.
+
+385
+00:28:05,600 --> 00:28:09,100
+[MAP TO THE STARS EDDIE]
+You said I could be Vice-President, Cuervo. Your right-hand man.
+ເຈົ້າບອກວ່າຂ້ອຍສາມາດເປັນຮອງປະທານາທິບໍດີໄດ້
+, ຄູເວໂກ້. ມືຂວາຂອງທ່ານ.
+
+386
+00:28:09,600 --> 00:28:11,600
+[CUERVO JONES]
+Give it.
+ໃຫ້ມັນ.
+
+387
+00:28:12,100 --> 00:28:18,100
+[MAP TO THE STARS EDDIE]
+Sure, Cuervo, but look here. I've done it all, man. I killed Plissken, I got your girl back, I got it all. Just for you, Cuervo. Just for you.
+ແນ່ນອນ, ຄູເວໂກ້, ແຕ່ເບິ່ງບ່ອນນີ້. ຂ້ອຍເຮັດທຸກຢ່າງແລ້ວ, ຜູ້ຊາຍ. ຂ້ອຍໄດ້ຂ້າປລິສສເກນ,
+ຂ້ອຍໄດ້ເດັກຍິງຂອງທ່ານກັບຄືນມາ, ຂ້ອຍມີທຸກຢ່າງ. ພຽງແຕ່ ສໍາ ລັບເຈົ້າ, ຄຸເວໂຣ. ພຽງແຕ່ນາຍ.
+
+388
+00:28:18,600 --> 00:28:21,050
+[CLOSE - PROTOTYPE]
+A red light comes on, blinks urgently.
+ແສງສີແດງແສງສະຫວ່າງ, ສ່ອງແສງຢ່າງຮີບດ່ວນ.
+
+389
+00:28:21,550 --> 00:28:27,550
+[PROTOTYPE VOICE]
+I am now armed and ready for use. Use extreme caution. The location of the effected blast area can only be determined by the orbital position of the SatStar Ring.
+ຂ້ອຍມີອາວຸດແລ້ວແລະພ້ອມທີ່ຈະໃຊ້. ໃຊ້ຄວາມລະມັດລະວັງສູງສຸດ. ສະຖານທີ່ຂອງພື້ນທີ່ລະເບີດທີ່ເກີດຂື້ນສາມາດ
+ກໍາ ນົດໄດ້ພຽງແຕ່ໂດຍ ຕໍາ ແຫນ່ງ ວົງຈອນຂອງວົງຈອນ SatStar ໄດ້.
+
+390
+00:28:28,050 --> 00:28:32,950
+[CUERVO JONES]
+This is turning out to be my lucky day.  Get this asshole outta here.
+ນີ້ແມ່ນປະກົດວ່າເປັນມື້ໂຊກດີຂອງຂ້ອຍ. ເອົາຄົນນີ້ອອກຈາກບ່ອນນີ້.
+
+391
+00:28:33,450 --> 00:28:35,450
+[MAP TO THE STARS EDDIE]
+Cuervo, wait. Please...
+ຄູເວໂກ້, ລໍຖ້າ. ກະລຸນາ...
+
+392
+00:28:35,950 --> 00:28:37,950
+[UTOPIA]
+Cuervo...?
+ຄູເວໂກ້...?
+
+393
+00:28:38,450 --> 00:28:44,400
+[CUERVO JONES]
+You're my woman, you understand? You don't let anybody take you away from me without a fight.
+ເຈົ້າເປັນແມ່ຍິງຂອງຂ້ອຍ, ເຈົ້າເຂົ້າໃຈບໍ?
+ເຈົ້າບໍ່ປ່ອຍໃຫ້ໃຜເອົາເຈົ້າອອກຈາກຂ້ອຍໂດຍບໍ່ມີການຕໍ່ສູ້.
+
+394
+00:28:44,900 --> 00:28:46,900
+[UTOPIA]
+I tried...
+ຂ້ອຍພະຍາຍາມ...
+
+395
+00:28:47,400 --> 00:28:53,400
+[CUERVO JONES]
+Nobody leaves Cuervo Jones. Not unless you give your life. You fight till you're dead. Then I forgive you.  Understand?  Understand?
+ບໍ່ມີໃຜອອກຈາກຄູເວໂຈນສ໌. ບໍ່ເວັ້ນເສຍແຕ່ວ່າເຈົ້າຈະໃຫ້ຊີວິດຂອງທ່ານ.
+ເຈົ້າຕໍ່ສູ້ຈົນກວ່າເຈົ້າຈະຕາຍ. ຫຼັງຈາກນັ້ນຂ້ອຍຂໍໂທດເຈົ້າ. ເຂົ້າໃຈບໍ? ເຂົ້າໃຈ?
+
+396
+00:28:53,900 --> 00:28:55,900
+[UTOPIA]
+Yes...
+ແມ່ນແລ້ວ...
+
+397
+00:28:56,400 --> 00:28:58,400
+[CUERVO JONES]
+Let's go.
+ໄປ.
+
+398
+00:28:58,900 --> 00:29:00,900
+[CUERVO JONES]
+Look, baby. They're all mine.
+ເບິ່ງແມ. ພວກເຂົາທັງ ຫມົດ ແມ່ນຂອງຂ້ອຍ.
+
+399
+00:29:01,400 --> 00:29:04,550
+[POLICE VOICE]
+Full stage battle alert. All personnel to battle stations.
+ແຈ້ງເຕືອນການຕໍ່ສູ້ເຕັມເວທີ. ພະນັກງານທັງ ຫມົດ ໄປສະຖານີຕໍ່ສູ້.
+
+400
+00:29:05,050 --> 00:29:10,300
+[MALLOY]
+A sky full of enemy choppers on radar. Moving over the city to the southeast.
+ສະຫວັນທີ່ເຕັມໄປດ້ວຍເຮືອບິນເຮລິຄອບເຕີຂອງສັດຕູໃນຣາດາ
+. ຍ້າຍຜ່ານເມືອງໄປທາງທິດຕາເວັນອອກສ່ຽງໃຕ້.
+
+401
+00:29:10,800 --> 00:29:16,750
+[COM OFFICER]
+Commander - massive vehicle and troop movement on the ground. All major streets leading to the southeast.
+ຜູ້ບັນຊາການ - ການເຄື່ອນຍ້າຍລົດໃຫຍ່ແລະທະຫານໃນພື້ນທີ່.
+ຖະຫນົນຫົນທາງໃຫຍ່ທັງ ຫມົດ ທີ່ ນໍາ ໄປທາງທິດຕາເວັນອອກສ່ຽງໃຕ້.
+
+402
+00:29:17,250 --> 00:29:19,250
+[PRESIDENT]
+What're they doing?
+ພວກເຂົາ ກໍາ ລັງເຮັດຫຍັງ?
+
+403
+00:29:19,750 --> 00:29:21,750
+[MALLOY]
+Getting ready to invade.
+ກຽມພ້ອມທີ່ຈະບຸກລຸກ.
+
+404
+00:29:22,250 --> 00:29:24,250
+[PRESIDENT]
+So where's Plissken?
+ສະນັ້ນປລິສສເກນຢູ່ໃສ?
+
+405
+00:29:24,750 --> 00:29:27,900
+[DARKNESS]
+Creaking. The WHOOSH of something swinging through the air...
+ການສັ່ນສະເທືອນ. ສຽງໂຫວດຂອງບາງສິ່ງບາງຢ່າງທີ່ຍ່າງຜ່ານອາກາດ...
+
+406
+00:29:28,400 --> 00:29:31,550
+[DARKNESS]
+Plissken's boot is hooked in a twisted wire mesh...
+ເກີບຂອງປລິສສເກນຖືກຕິດກັບເຄືອຂ່າຍສາຍໄຟທີ່ສໍ້ໂກງ...
+
+407
+00:29:32,050 --> 00:29:38,050
+[DARKNESS]
+And then Plissken swings like a pendulum, hanging from a long strand of wire mesh attached somewhere above in the blackness.
+ແລະຫຼັງຈາກນັ້ນປລິສສເກນຍືດຫຍຸ່ນຄືກັບ pendulum,
+ຕິດຢູ່ຈາກສາຍໄຟທີ່ຍາວນານທີ່ຕິດຢູ່ບ່ອນໃດບ່ອນເທິງໃນຄວາມມືດ.
+
+408
+00:29:38,550 --> 00:29:43,450
+[THE DARKNESS]
+Begins to reveal details: slimy walls. Below, a black pit of hell. Wind gushing.
+ເລີ່ມເປີດເຜີຍລາຍລະອຽດ: ກໍາ ແພງທີ່ສົດໃສ.
+ຢູ່ລຸ່ມນີ້, ຂຸມສີດໍາຂອງອານາໄມ. ລົມໄຫຼ.
+
+409
+00:29:43,950 --> 00:29:46,400
+[CLOSE - PLISSKEN]
+... The light hits Plissken's good eye...
+ແສງສະຫວ່າງຕີຕາທີ່ດີຂອງປລິສສເກນ...
+
+410
+00:29:46,900 --> 00:29:52,850
+[PENDEJO BOB]
+Hey, Snake. You okay?  I heard gunfire down here...  Never been down this far before...  Grab this.
+ເຮ້, ຫມາ. ເຈົ້າບໍ່ເປັນຫຍັງບໍ? ຂ້ອຍໄດ້ຍິນການຍິງປືນຢູ່ບ່ອນນີ້
+... ບໍ່ເຄີຍລົງໄປໄກນີ້ກ່ອນ... ເອົາສິ່ງນີ້.
+
+411
+00:29:53,350 --> 00:29:55,350
+[PENDEJO BOB]
+Now hang on.
+ດຽວນີ້ລໍຖ້າ.
+
+412
+00:29:55,850 --> 00:29:57,850
+[PENDEJO BOB]
+Hey, Snake...where are you?
+ເຮ້, ຫມາ... ເຈົ້າຢູ່ໃສ?
+
+413
+00:29:58,350 --> 00:30:03,250
+[PLISSKEN]
+I'm in another opening... Storm drain... There may be another way up to you...
+ຂ້ອຍຢູ່ໃນການເປີດອີກຄັ້ງ... ການລະບາຍນ້ ໍາ
+ພາຍຸ... ມັນອາດຈະມີທາງອື່ນຂຶ້ນໄປຫາເຈົ້າ...
+
+414
+00:30:03,750 --> 00:30:07,950
+[SNAP!]
+Suddenly the concrete bottom on which he stands gives way, cracks, disintegrates...
+ທັນທີພື້ນດິນຄອນກີດທີ່ລາວຢືນຢູ່ຫ່າງໄກສອກຫຼີກ, ແຕກ, ລະລາຍ...
+
+415
+00:30:08,450 --> 00:30:10,450
+[PENDEJO BOB]
+Stands silently above, listening...
+ຢືນຢູ່ເທິງຢ່າງງຽບສະຫງົບ, ຟັງ...
+
+416
+00:30:10,950 --> 00:30:12,950
+[PENDEJO BOB]
+Snake...  Snake!
+ຫມາ... ຫມາ!
+
+417
+00:30:13,450 --> 00:30:19,450
+[PLISSKEN]
+Emerges from the hole, slides out, tumbles down to a water-filled canyon bottom. He lies there for a moment, trying to focus his eye. Stabbing pain in his shoulder and leg. Finally he rises unsteadily to his feet, looks around, trying to get his bearings. He finds himself at the bottom of...
+ອອກມາຈາກຮູ, ລອຍອອກ, ຕົກລົງລົງສູ່ລຸ່ມຮູຮານທີ່ເຕັມໄປດ້ວຍນ້ ໍາ. ລາວນອນຢູ່ບ່ອນນັ້ນຊົ່ວຄາວ, ພະຍາຍາມສຸມໃສ່ຕາຂອງລາວ. ເຈັບປວດໃນຈານແລະຕີນຂອງລາວ
+. ສຸດທ້າຍລາວຂຶ້ນໄປຫາຕີນຂອງຕົນຢ່າງບໍ່ ຫມັ້ນ ຄົງ, ເບິ່ງຢູ່ອ້ອມຂ້າງ, ພະຍາ ຍາມທີ່ຈະໄດ້ຮັບພາຫະນະຂອງລາວ. ລາວພົບຕົວເອງຢູ່ລຸ່ມຂອງ...
+
+418
+00:30:19,950 --> 00:30:25,950
+[THE WILSHIRE CANYON]
+Straight down Wilshire Boulevard is an enormous canyon, a river bottom gouged out of concrete in the big earthquake. At least 30 feet deep, it is a vast trough leading past skyscrapers and buildings above, off into the distance.
+ໂດຍກົງລົງທາງບູລເວີດວິນຊີແມ່ນຮ່ອງຮອຍທີ່ໃຫຍ່ຫຼວງ, ລຸ່ມແມ່ນໍ້າຂອງທີ່ຖືກຂຸດອອກຈາກຄອນກີດໃນແຜ່ນດິນໄຫວທີ່ໃຫຍ່
+. ຢ່າງຫນ້ອຍ 30 ຟຸດເລິກ, ມັນແມ່ນຮ່ອງທີ່ກວ້າງຂວາງທີ່ ນໍາ ໄປຜ່ານຕຶກຫີນຟ້າແລະອາຄານຢູ່ເທິງ, ອອກໄປສູ່ໄລຍະໄກ.
+
+419
+00:30:26,450 --> 00:30:31,000
+[PIPELINE]
+Snake. Saw you at the game tonight. Great shot.  You look like shit.
+ຫມາ. ເຫັນເຈົ້າໃນເກມໃນຄືນນີ້.
+ການຍິງທີ່ດີເລີດ. ເຈົ້າເບິ່ງຄືວ່າໂຊກຮ້າຍ.
+
+420
+00:30:31,500 --> 00:30:33,500
+[PIPELINE]
+You feel those pre-shocks, Snake?
+ເຈົ້າຮູ້ສຶກການສັ່ນສະເທືອນກ່ອນນັ້ນບໍ, Snake?
+
+421
+00:30:34,000 --> 00:30:37,150
+[PIPELINE]
+Could be a big one comin' any minute now...
+ມັນອາດຈະເປັນຄັ້ງໃຫຍ່ທີ່ຈະມາໃນທຸກນາທີດຽວນີ້...
+
+422
+00:30:37,650 --> 00:30:39,650
+[PLISSKEN]
+Where's... Cuervo Jones...?
+ຄູເວໂຈນສ໌ຢູ່ໃສ...?
+
+423
+00:30:40,150 --> 00:30:43,650
+[PIPELINE]
+Long gone. You'll never catch up with him now, Snake.
+ເຈົ້າຈະບໍ່ຈັບລາວໄດ້ເລີຍດຽວນີ້, Snake.
+
+424
+00:30:44,150 --> 00:30:46,150
+[PLISSKEN]
+Where?
+ຢູ່ໃສ?
+
+425
+00:30:46,650 --> 00:30:52,650
+[PIPELINE]
+Anaheim. Headquarters for everything. The whole town's gonna be there. Things changin' fast around here, Snake. It's not the same as the old days, man.
+ແອນາເຮມ. ສໍານັກງານໃຫຍ່ ສໍາ ລັບທຸກຢ່າງ. ເມືອງທັງ ຫມົດ ຈະຢູ່ບ່ອນນັ້ນ.
+ສິ່ງຕ່າງໆປ່ຽນແປງຢ່າງໄວວາຢູ່ບ່ອນນີ້, Snake. ມັນບໍ່ແມ່ນຄືກັນກັບມື້ເກົ່າ, ຜູ້ຊາຍ.
+
+426
+00:30:53,150 --> 00:30:55,150
+[PLISSKEN]
+Take me there...
+ເອົາຂ້ອຍໄປບ່ອນນັ້ນ...
+
+427
+00:30:55,650 --> 00:31:01,650
+[PIPELINE]
+You ain't doin' so good, Snake. You need help.  You should talk to Hershe. She hates Cuervo. They used to be partners, but they split up.
+ເຈົ້າບໍ່ໄດ້ເຮັດດີຫຼາຍ, ຫມາ. ເຈົ້າຕ້ອງການຄວາມຊ່ວຍເຫຼືອ. ເຈົ້າຄວນເວົ້າກັບເຮສເຊ
+. ນາງກຽດຊັງຄູເວໂກ້. ພວກເຂົາເຄີຍເປັນຄູ່ຮ່ວມງານ, ແຕ່ພວກເຂົາແຍກກັນ.
+
+428
+00:31:02,150 --> 00:31:04,150
+[PLISSKEN]
+Who?
+ໃຜ?
+
+429
+00:31:04,650 --> 00:31:09,550
+[PIPELINE]
+Hershe. She lives downtown with Mojo Dellasandro in the big boat. Down that way.
+ເຮຣສ໌. ນາງອາໄສຢູ່ໃຈກາງເມືອງກັບໂມໂຈ
+ເດລາຊານໂດໃນເຮືອໃຫຍ່. ລົງທາງນັ້ນ.
+
+430
+00:31:10,050 --> 00:31:14,600
+[PIPELINE]
+She's connected with the Black Cowboys, and they don't take shit from nobody...
+ນາງເຊື່ອມໂຍງກັບຄາວໂບຍສີດໍາ, ແລະພວກເຂົາບໍ່ເອົາສິ່ງແວດລ້ອມຈາກໃຜ...
+
+431
+00:31:15,100 --> 00:31:17,200
+[PIPELINE]
+Yo', man. It's a big one.
+ໂຢ້, ຜູ້ຊາຍ. ມັນເປັນອັນໃຫຍ່ຫຼວງ.
+
+432
+00:31:17,700 --> 00:31:19,700
+[PIPELINE]
+Tsunami, Snake.
+ສູນາມີ, ຫມາ.
+
+433
+00:31:20,200 --> 00:31:22,200
+[PIPELINE]
+Surf's up big time.
+ການເດີນເຮືອໄດ້ຂຶ້ນຢ່າງໃຫຍ່ຫຼວງ.
+
+434
+00:31:22,700 --> 00:31:25,850
+[PIPELINE]
+Get ready, Snake. It's gonna be some kinda ride.
+ກຽມພ້ອມ, ຫມາ. ມັນຈະເປັນການຂີ່ລົດບາງຢ່າງ.
+
+435
+00:31:26,350 --> 00:31:31,600
+[PIPELINE]
+Let the front edge pick you up. Don't get on your board till it peaks.
+ໃຫ້ແຄມທາງຫນ້າເອົາເຈົ້າຂຶ້ນ.
+ຢ່າຂຶ້ນເທິງກະດານຂອງທ່ານຈົນກວ່າມັນຈະສູງສຸດ.
+
+436
+00:31:32,100 --> 00:31:38,100
+[PIPELINE]
+Don't lose it, man. You slip off your board and it's the Big Wipeout, you know what I mean?
+ຢ່າສູນເສຍມັນແມ. ເຈົ້າລອຍອອກຈາກກະດານຂອງທ່ານແລະມັນເປັນການລ້າງທີ່ໃຫຍ່
+, ເຈົ້າຮູ້ວ່າຂ້ອຍຫມາຍຄວາມວ່າແນວໃດ?
+
+437
+00:31:38,600 --> 00:31:40,600
+[PIPELINE]
+Hang on, Snake!
+ລໍຖ້າ, ຫມາ!
+
+438
+00:31:41,100 --> 00:31:47,100
+[THE FRONT EDGE]
+Of the tsunami sweeps under them. Pipeline and Plissken push off from the canyon floor just as the water shovels them upward like a cow catcher on a train. The water sweeps them up until they disappear under the blackness...
+ຂອງສູນາມິລ້າງຢູ່ພາຍໃຕ້ພວກເຂົາ. ທໍ່ທໍ່ແລະປລິສສເກນຍຸກຍູ້ອອກຈາກພື້ນແຄນອນຄືກັບວ່ານ້ ໍາ
+ປັ່ນພວກມັນຂຶ້ນໄປຄືກັບຜູ້ຈັບງົວໃນລົດໄຟ. ນ້ ໍາ ລ້າງພວກມັນຈົນກວ່າພວກມັນຈະຫາຍໄປພາຍໃຕ້ນໍ້າມືດ...
+
+439
+00:31:47,600 --> 00:31:49,600
+[PIPELINE]
+Awesome, Snake. AWESOME, man!
+ຍິ່ງໃຫຍ່, ຫມາ. ຍິ່ງໃຫຍ່ນັ້ນ, ຜູ້ຊາຍ!
+
+440
+00:31:50,100 --> 00:31:56,100
+[CLOSER - THE VAN]
+Behind the wheel is Map To The Stars Eddie, driving like a lunatic, his teeth bared and set, madder than shit.
+ຢູ່ເບື້ອງຫຼັງລໍ້ແມ່ນ Map To The Stars ເອດດີ, ຂັບລົດຄືກັບຄົນໂຊກຮ້າຍ
+, ແຂ້ວຂອງລາວເປົ່າແລະຕັ້ງໄວ້, ຢອກຊື່ໆຫຼາຍກ່ວາໂຊ.
+
+441
+00:31:56,600 --> 00:31:58,600
+[PLISSKEN]
+See you later.
+ພົບກັນຕໍ່ມາ.
+
+442
+00:31:59,100 --> 00:32:01,900
+[AS MAP TO THE STARS EDDIE]
+Jams the pedal, and the van screams forward...
+ຈັບປິດາລ, ແລະລົດບັນທຸກຮ້ອງໄຫ້ໄປຂ້າງຫນ້າ...
+
+443
+00:32:02,400 --> 00:32:04,850
+[AS PLISSKEN]
+Stands up and leaps from the surfboard...
+ຕື່ນຂຶ້ນແລະໂດດຈາກກະດານເດີນເຮືອ...
+
+444
+00:32:05,350 --> 00:32:08,850
+[INSIDE THE VAN]
+Map To The Stars Eddie pulls his gun, cocks it...
+ແອດດີດຶງປືນຂອງລາວ, ປືນມັນ...
+
+445
+00:32:09,350 --> 00:32:12,500
+[PLISSKEN]
+Listen up. I need directions. Downtown. Somebody named Hershe.
+ຟັງຟັງ. ຂ້ອຍຕ້ອງການທິດທາງ. ໃຈກາງເມືອງ. ບາງຄົນຊື່ວ່າເຮສເຊ.
+
+446
+00:32:13,000 --> 00:32:15,800
+[MAP TO THE STARS EDDIE]
+Sure, Snake. No problem.  You gonna kill me?
+ແນ່ນອນ, ຫມາ. ບໍ່ເປັນຫຍັງ. ເຈົ້າຈະຂ້າຂ້ອຍບໍ?
+
+447
+00:32:16,300 --> 00:32:18,300
+[PLISSKEN]
+Later.
+ຫຼັງຈາກນັ້ນ.
+
+448
+00:32:18,800 --> 00:32:24,800
+[MAP TO THE STARS EDDIE]
+I couldn't help it, Snake. I had to shoot you. Cuervo made me do it, I swear to God, man.
+ຂ້ອຍບໍ່ສາມາດຊ່ວຍມັນໄດ້, ຫມາ. ຂ້ອຍຕ້ອງຍິງເຈົ້າ.
+ຄູເວໂກ້ເຮັດໃຫ້ຂ້ອຍເຮັດມັນ, ຂ້ອຍສາບານໂຕຕໍ່ພຣະເຈົ້າ, ຜູ້ຊາຍ.
+
+449
+00:32:25,300 --> 00:32:27,300
+[PLISSKEN]
+Cease fire with the bullshit.
+ຢຸດການຍິງດ້ວຍຄວາມໂຊກຮ້າຍ.
+
+450
+00:32:27,800 --> 00:32:30,950
+[MAP TO THE STARS EDDIE]
+Right. Keep goin' straight. Two blocks down, turn right.
+ແມ່ນແລ້ວ. ສືບຕໍ່ໄປກົງກັນຂ້າມ. ສອງບລັອກລົງ, ຫັນຂວາ.
+
+451
+00:32:31,450 --> 00:32:37,050
+[CLOSE ON A TV SCREEN]
+Cuervo Jones' image fills the screen. He addresses the camera, holds the prototype in his hands.
+ຮູບພາບຂອງຄູເວໂກ້ໂຈນສ໌ເຕັມໄປດ້ວຍ ຫນ້າ ຈໍ.
+ລາວເວົ້າກັບກ້ອງຖ່າຍຮູບ, ຖືຕົວແບບໃນມືຂອງລາວ.
+
+452
+00:32:37,550 --> 00:32:43,550
+[CUERVO JONES]
+Abandon your firebases by 0500 hours. Have the news media standing by for my coronation. I'm arriving in style.
+ໃຫ້ປະຖິ້ມຖານໄຟຂອງທ່ານໃນເວລາ 0500 ໂມງ. ໃຫ້ສື່ມວນຊົນຂ່າວຕຽມພ້ອມ
+ສໍາ ລັບການສັກສີຂອງຂ້ອຍ. ຂ້ອຍ ກໍາ ລັງມາຮອດແບບ.
+
+453
+00:32:44,050 --> 00:32:48,250
+[BRAZEN]
+He must be bouncing the signal from one of our communications satellites.
+ລາວຕ້ອງໄດ້ສົ່ງສັນຍານຈາກດາວທຽມການສື່ສານຂອງພວກເຮົາຫນຶ່ງ.
+
+454
+00:32:48,750 --> 00:32:54,350
+[PRESIDENT]
+That means CableNet has already picked it up. This thing's going live all over the country.
+ນັ້ນຫມາຍຄວາມວ່າເຄເບລເນັດໄດ້ເອົາມັນແລ້ວ
+. ສິ່ງນີ້ຈະອອກອາກາດສົດໃນທົ່ວປະເທດ.
+
+455
+00:32:54,850 --> 00:33:00,850
+[CUERVO JONES]
+It's a brand new day comin' up this morning, and I'm just so proud to be leading the parade. See you soon, putos.
+ມັນເປັນມື້ໃຫມ່ທີ່ ກໍາ ລັງຂຶ້ນໃນຕອນເຊົ້ານີ້,
+ແລະຂ້ອຍພຽງແຕ່ພາກພູມໃຈຫຼາຍທີ່ຈະເປັນຜູ້ ນໍາ ພາການເດີນຂະບວນການ. ພົບກັນໄວໆນີ້, putos.
+
+456
+00:33:01,350 --> 00:33:05,550
+[MALLOY]
+The prototype appears to be armed, Mr. President.  Shall I begin evacuation?
+ຮູບແບບຕົ້ນແບບເບິ່ງຄືວ່າມີອາວຸດ,
+ທ່ານປະທານາທິບໍດີ. ຂ້ອຍຄວນເລີ່ມຕົ້ນການຍົກຍ້າຍບໍ?
+
+457
+00:33:06,050 --> 00:33:08,500
+[PRESIDENT]
+Does he know how to activate it?
+ລາວຮູ້ວິທີເປີດໃຊ້ງານມັນບໍ?
+
+458
+00:33:09,000 --> 00:33:12,850
+[MALLOY]
+Well, yeah. All you have to do is push the button.
+ດີ, ແມ່ນແລ້ວ. ເຈົ້າພຽງແຕ່ຕ້ອງກົດປຸ່ມເທົ່ານັ້ນ.
+
+459
+00:33:13,350 --> 00:33:16,150
+[BRAZEN]
+What about Plissken? He could still be -
+ແລະປລິສສເກນແນວໃດ? ລາວຍັງສາມາດເປັນ -
+
+460
+00:33:16,650 --> 00:33:18,650
+[PRESIDENT]
+Forget him. He's dead.
+ລືມລາວ. ລາວຕາຍແລ້ວ.
+
+461
+00:33:19,150 --> 00:33:25,150
+[MALLOY]
+That may not be true, Mr. President.  He's one tough case. Plissken's been dead so many times I can't count. But he never stays down.
+ນັ້ນອາດຈະບໍ່ແມ່ນຄວາມຈິງ, ທ່ານປະທານາທິບໍດີ. ລາວເປັນກໍລະນີທີ່ຫຍຸ້ງຍາກຫນຶ່ງ
+. ປລິສສເກນໄດ້ຕາຍຫຼາຍຄັ້ງທີ່ຂ້ອຍບໍ່ສາມາດນັບໄດ້. ແຕ່ລາວບໍ່ເຄີຍຢູ່ລຸ່ມ.
+
+462
+00:33:25,650 --> 00:33:30,550
+[MALLOY]
+There are two choices, Mr. President. Wait for Plissken, or surrender. It's your decision.
+ມີສອງທາງເລືອກ, ທ່ານປະທານາທິບໍດີ. ລໍຖ້າປລິສສເກນ
+, ຫຼືຍອມຮັບ. ມັນແມ່ນການຕັດສິນໃຈຂອງທ່ານ.
+
+463
+00:33:31,050 --> 00:33:33,050
+[MAP TO THE STARS EDDIE]
+Hey, Hershe. How're you doin'?
+ເຮ້, ເຮຣສ໌. ເຈົ້າເປັນແນວໃດ?
+
+464
+00:33:33,550 --> 00:33:35,550
+[SPINAL]
+Hershe - it's Snake Plissken.
+ເຮສເຊ - ມັນແມ່ນ Snake Plissken.
+
+465
+00:33:36,050 --> 00:33:38,850
+[MAP TO THE STARS EDDIE]
+Yeah, Hershe. I brought him to see you.
+ແມ່ນແລ້ວ, ເຮຣສ໌. ຂ້ອຍພາລາວມາພົບເຈົ້າ.
+
+466
+00:33:39,350 --> 00:33:41,350
+[PLISSKEN]
+I need a favor.
+ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອ.
+
+467
+00:33:41,850 --> 00:33:43,850
+[HERSHE]
+What's in it for me?
+ຂ້ອຍຈະໄດ້ຫຍັງຈາກມັນ?
+
+468
+00:33:44,350 --> 00:33:47,850
+[PLISSKEN]
+Wait a minute. I know that voice.  You're Carjack Malone.
+ລໍຖ້າດົນຫນຶ່ງ. ຂ້ອຍຮູ້ຈັກສຽງນັ້ນ. ເຈົ້າເປັນ Carjack Malone.
+
+469
+00:33:48,350 --> 00:33:50,350
+[HERSHE]
+Not anymore.
+ບໍ່ອີກແລ້ວ.
+
+470
+00:33:50,850 --> 00:33:52,850
+[SPINAL]
+You two know each other?
+ເຈົ້າທັງສອງຮູ້ຈັກກັນບໍ?
+
+471
+00:33:53,350 --> 00:33:57,550
+[PLISSKEN]
+You owe me. You left me holdin' everything back there in Cleveland.
+ເຈົ້າເປັນຫນີ້ຂ້ອຍ. ເຈົ້າປ່ອຍໃຫ້ຂ້ອຍຖືທຸກຢ່າງຢູ່ບ່ອນນັ້ນໃນຄລີວແລນ.
+
+472
+00:33:58,050 --> 00:34:00,050
+[SPINAL]
+Hershe, you were in Cleveland?
+ເຮຣສ໌, ເຈົ້າຢູ່ຄລີວແລນບໍ?
+
+473
+00:34:00,550 --> 00:34:03,000
+[PLISSKEN]
+Yeah. With me and Texas Mike O'Shay.
+ແມ່ນແລ້ວ. ກັບຂ້ອຍແລະເທັກຊັສ ໄມຄ໌ ໂອ ເຊຍ.
+
+474
+00:34:03,500 --> 00:34:06,300
+[HERSHE]
+I was called away on urgent business, Snake.
+ຂ້ອຍຖືກເອີ້ນໄປໃນວຽກງານທີ່ຮີບດ່ວນ, Snake.
+
+475
+00:34:06,800 --> 00:34:08,800
+[PLISSKEN]
+Don't lie to me.
+ຢ່າຕົວະຂ້ອຍ.
+
+476
+00:34:09,300 --> 00:34:11,750
+[HERSHE]
+All right, so I made another deal.
+ດີແລ້ວ, ສະນັ້ນຂ້ອຍໄດ້ເຮັດຂໍ້ຕົກລົງອີກຄັ້ງ.
+
+477
+00:34:12,250 --> 00:34:14,700
+[PLISSKEN]
+I got a new deal for you.
+ຂ້ອຍມີຂໍ້ຕົກລົງໃຫມ່ ສໍາ ລັບເຈົ້າ.
+
+478
+00:34:15,200 --> 00:34:17,200
+[PLISSKEN]
+You help me, you live.
+ເຈົ້າຊ່ວຍຂ້ອຍ, ເຈົ້າມີຊີວິດຢູ່.
+
+479
+00:34:17,700 --> 00:34:19,800
+[SPINAL]
+I wouldn't be doin' that, Snake.
+ຂ້ອຍຈະບໍ່ເຮັດແບບນັ້ນ, Snake.
+
+480
+00:34:20,300 --> 00:34:24,150
+[HERSHE]
+We have a little arrangement. Anything happens to me, you're dead.
+ພວກເຮົາມີຂໍ້ຕົກລົງນ້ອຍໆ. ຖ້າມີຫຍັງເກີດຂຶ້ນກັບຂ້ອຍ, ເຈົ້າຕາຍແລ້ວ.
+
+481
+00:34:24,650 --> 00:34:26,650
+[PLISSKEN]
+I'm already dead.
+ຂ້ອຍຕາຍແລ້ວ.
+
+482
+00:34:27,150 --> 00:34:29,600
+[HERSHE]
+I see your point. What's the favor?
+ຂ້ອຍເຫັນຈຸດຫມາຍຂອງທ່ານ. ການຊ່ວຍເຫຼືອແມ່ນຫຍັງ?
+
+483
+00:34:30,100 --> 00:34:35,000
+[PLISSKEN]
+Get me to Cuervo Jones. Get me to the Kingdom. I got one hour.
+ເອົາຂ້ອຍໄປຫາຄູເວໂຈນສ໌. ເອົາຂ້ອຍກັບລາຊະອານາຈັກ
+. ຂ້ອຍມີເວລາ ຫນຶ່ງ ຊົ່ວໂມງ.
+
+484
+00:34:35,500 --> 00:34:37,500
+[HERSHE]
+Dream on, blue eye.
+ຝັນຕໍ່ໄປ, ຕາສີຟ້າ.
+
+485
+00:34:38,000 --> 00:34:40,000
+[PLISSKEN]
+Say goodnight, Carjack.
+ສະບາຍດີ, ຄາຈັກ.
+
+486
+00:34:40,500 --> 00:34:42,950
+[HERSHE]
+Wait a minute. All right. Hold on.
+ຖ້າດົນຫນຶ່ງ. ດີແລ້ວ. ລໍຖ້າ.
+
+487
+00:34:43,450 --> 00:34:48,000
+[SPINAL]
+Cuervo Jones has more firepower than two armies. No one gets near him.
+ຄູເວໂຈນສ໌ມີພະລັງງານຍິງຫຼາຍກ່ວາກອງທັບສອງຄົນ. ບໍ່ມີໃຜເຂົ້າໃກ້ລາວ.
+
+488
+00:34:48,500 --> 00:34:53,050
+[MAP TO THE STARS EDDIE]
+And he's got the prototype. And the girl. He holds all the cards.
+ແລະລາວມີແບບຕົ້ນແບບ. ແລະເດັກຍິງ. ລາວຖືບັດທັງ ຫມົດ.
+
+489
+00:34:53,550 --> 00:34:56,700
+[HERSHE]
+Exactly what is this prototype? What does it do?
+ຕົວແບບນີ້ແມ່ນຫຍັງແທ້ໆ? ມັນເຮັດຫຍັງ?
+
+490
+00:34:57,200 --> 00:35:03,200
+[MAP TO THE STARS EDDIE]
+You push the button, it sends a signal to a ring of space defense satellites. They're orbiting bombs. Nukes. They explode. Huge space burst.  EMP. Electromagnetic Pulse. It happens instantly when a nuke is airburst. EMP shuts down every power source below the satellites - instantly. All electrical devices, computers, cars, airplanes, cities. It's the dark ages again.
+ເຈົ້າກົດປຸ່ມ, ມັນສົ່ງສັນຍານໄປຫາວົງຈອນຂອງດາວທຽມປ້ອງກັນອະວະກາດ. ພວກເຂົາ ກໍາ ລັງ ຫມູນ ວຽນລະເບີດ. ນິວເຄລຍ. ພວກມັນລະ ເບີດ. ລະເບີດພື້ນທີ່ທີ່ໃຫຍ່ຫຼວງ. EMP.
+ກະດານໄຟຟ້າແມ່ເຫຼັກ. ມັນເກີດຂຶ້ນທັນທີເມື່ອນິວເຄຼຍລະເບິດທາງອາກາດ. EMP ປິດແຫຼ່ງພະລັງງານທຸກຢ່າງພາຍໃຕ້ດາວ ທຽມ - ທັນທີ. ອຸປະກອນໄຟຟ້າທັງ ຫມົດ, ຄອມພິວເຕີ, ລົດ, ເຮືອບິນ, ເມືອງ
+
+491
+00:35:03,700 --> 00:35:06,150
+[HERSHE]
+So whoever has it runs the show.
+ສະນັ້ນໃຜມີມັນກໍຄຸ້ມຄອງລາຍການ.
+
+492
+00:35:06,650 --> 00:35:12,650
+[MAP TO THE STARS EDDIE]
+They were gonna use it on South America, Africa, Asia - any country hostile to the United States.
+ພວກເຂົາຈະໃຊ້ມັນຕໍ່ອາເມລິກາໃຕ້, ອາຟຣິກາ
+, ອາຊີ - ປະເທດໃດທີ່ເປັນສັດຕູຕໍ່ສະຫະລັດ.
+
+493
+00:35:13,150 --> 00:35:15,150
+[SPINAL]
+Only Cuervo's got it now.
+ພຽງແຕ່ຄູເວໂກ້ມີມັນດຽວນີ້.
+
+494
+00:35:15,650 --> 00:35:21,600
+[MAP TO THE STARS EDDIE]
+And that ring of satellites will be in position over the U.S. at 5:00 a.m. this morning.
+ແລະວົງດາວທຽມນັ້ນຈະຢູ່ໃນຕໍາແຫນ່ງຢູ່ເທິງສະຫະລັດໃນເວລາ
+5:00 ໂມງເຊົ້າມື້ນີ້.
+
+495
+00:35:22,100 --> 00:35:24,200
+[PLISSKEN]
+How do you know all this?
+ເຈົ້າຮູ້ສິ່ງທັງ ຫມົດ ນີ້ແນວໃດ?
+
+496
+00:35:24,700 --> 00:35:30,300
+[MAP TO THE STARS EDDIE]
+I used to represent the guy who invented it. I swear to God, Snake. No bullshit.
+ຂ້ອຍເຄີຍເປັນຕົວແທນຂອງຜູ້ຊາຍທີ່ຄິດສ້າງມັນ.
+ຂ້ອຍສາບານໂຕຕໍ່ພຣະເຈົ້າ, ຫມາ. ບໍ່ມີຄວາມໂຊກແຊງ.
+
+497
+00:35:30,800 --> 00:35:32,800
+[HERSHE]
+So what's the deal, gorgeous?
+ສະນັ້ນຂໍ້ຕົກລົງແມ່ນຫຍັງ, ງາມ?
+
+498
+00:35:33,300 --> 00:35:37,150
+[PLISSKEN]
+We get the girl and the prototype. And we get out.
+ພວກເຮົາເອົາເດັກຍິງແລະແບບຕົ້ນແບບ. ແລະພວກເຮົາອອກໄປ.
+
+499
+00:35:37,650 --> 00:35:39,650
+[SPINAL]
+All of us?
+ພວກເຮົາທຸກຄົນບໍ?
+
+500
+00:35:40,150 --> 00:35:42,150
+[PLISSKEN]
+Yeah.
+ແມ່ນແລ້ວ.
+
+501
+00:35:42,650 --> 00:35:44,650
+[MAP TO THE STARS EDDIE]
+Me too?
+ຂ້ອຍຄືກັນບໍ?
+
+502
+00:35:45,150 --> 00:35:47,150
+[PLISSKEN]
+We'll see.
+ພວກເຮົາຈະເຫັນ.
+
+503
+00:35:47,650 --> 00:35:52,550
+[HERSHE]
+Why should we leave? I love L.A. Where we gonna go? What's the payoff?
+ພວກເຮົາຄວນອອກໄປເປັນຫຍັງ? ຂ້ອຍຮັກລັອກແອນສ໌
+. ພວກເຮົາຈະໄປໃສ? ຜົນຕອບແທນແມ່ນຫຍັງ?
+
+504
+00:35:53,050 --> 00:35:56,900
+[SPINAL]
+I'd like to get out but I don't have enough money.
+ຂ້ອຍຢາກອອກໄປແຕ່ຂ້ອຍບໍ່ມີເງິນພຽງພໍ.
+
+505
+00:35:57,400 --> 00:36:01,250
+[PLISSKEN]
+The President's promised to give whoever helps me 1 million dollars.
+ປະທານປະເທດໄດ້ສັນຍາວ່າຈະໃຫ້ໃຜທີ່ຊ່ວຍຂ້ອຍ 1 ລ້ານໂດລາ.
+
+506
+00:36:01,750 --> 00:36:04,550
+[SPINAL]
+Yeah? Greenbacks? I got ten million of them.
+ຄຸເຂົ່າລົງ
+
+507
+00:36:05,050 --> 00:36:07,050
+[PLISSKEN]
+Uh-uh. Bluebacks.
+ໂອ້. ບລູເບັກສ໌.
+
+508
+00:36:07,550 --> 00:36:09,550
+[MAP TO THE STARS EDDIE]
+Aw, come on, Snake.
+ໂອ້, ມາແລ້ວ, ຫມາ.
+
+509
+00:36:10,050 --> 00:36:12,850
+[PLISSKEN]
+Bluebacks. I'm not bullshittin'. I swear to God.
+ບລູເບັກສ໌. ຂ້ອຍບໍ່ໄດ້ໂຊກຮ້າຍ. ຂ້ອຍສາບານໂຕວ່າພຣະເຈົ້າ.
+
+510
+00:36:13,350 --> 00:36:15,800
+[HERSHE]
+I don't know, sounds thin to me.
+ຂ້ອຍບໍ່ຮູ້, ມັນເບິ່ງຄືວ່າອ່ອນແອຕໍ່ຂ້ອຍ.
+
+511
+00:36:16,300 --> 00:36:20,150
+[PLISSKEN]
+You want to stay here, while Cuervo Jones rules the world?
+ເຈົ້າຢາກຢູ່ບ່ອນນີ້, ໃນຂະນະທີ່ Cuervo ໂຈນສ໌ປົກຄອງໂລກບໍ?
+
+512
+00:36:20,650 --> 00:36:23,450
+[HERSHE]
+No, that sucks.  How are we getting out?
+ບໍ່, ມັນໂຊກຮ້າຍ. ພວກເຮົາຈະອອກໄປແນວໃດ?
+
+513
+00:36:23,950 --> 00:36:25,950
+[PLISSKEN]
+I don't know yet.
+ຂ້ອຍຍັງບໍ່ຮູ້ເທື່ອ.
+
+514
+00:36:26,450 --> 00:36:28,450
+[SPINAL]
+Shit.
+ສະບາຍດີ.
+
+515
+00:36:28,950 --> 00:36:34,950
+[HERSHE]
+You always were a loser, Plissken. Makin' things up as you go along. That's why I cut out on you in Cleveland. You're just a bum like the rest of us.
+ເຈົ້າເປັນຄົນເສຍຫາຍຢູ່ສະເຫມີ, ປລິສສເກນ. ເຮັດໃຫ້ສິ່ງຕ່າງໆຂຶ້ນໃນຂະນະທີ່ເຈົ້າໄປຕາມ.
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍຕັດອອກຈາກເຈົ້າໃນຄລີວແລນ. ເຈົ້າພຽງແຕ່ເປັນຄົນໂຊກຮ້າຍຄືກັບພວກເຮົາຄົນອື່ນ.
+
+516
+00:36:35,450 --> 00:36:37,450
+[MOJO DELLASANDRO]
+Use the air.
+ໃຊ້ອາກາດ.
+
+517
+00:36:37,950 --> 00:36:40,400
+[MOJO DELLASANDRO]
+They're burning. Santa Anas. The night wind.
+ພວກເຂົາກໍາລັງເຜົາໄຫມ້. ແຊນຕາ ແອນນາສ໌. ລົມໃນຕອນກາງຄືນ.
+
+518
+00:36:40,900 --> 00:36:42,900
+[SPINAL]
+What're you talking about, Mojo?
+ເຈົ້າເວົ້າຫຍັງຢູ່, ໂມໂຈ?
+
+519
+00:36:43,400 --> 00:36:45,400
+[MOJO DELLASANDRO]
+Death from above...
+ຄວາມຕາຍຈາກເທິງ...
+
+520
+00:36:45,900 --> 00:36:48,000
+[MAP TO THE STARS EDDIE]
+I don't know about this thing.
+ຂ້ອຍບໍ່ຮູ້ກ່ຽວກັບສິ່ງນີ້.
+
+521
+00:36:48,500 --> 00:36:50,500
+[PLISSKEN]
+Don't like it, don't come.
+ບໍ່ມັກມັນ, ຢ່າມາ.
+
+522
+00:36:51,000 --> 00:36:53,100
+[SPINAL]
+Where'd you get these rigs, Carjack?
+ເຈົ້າເອົາເຄື່ອງຈັກເຫຼົ່ານີ້ມາຈາກໃສ, Carjack?
+
+523
+00:36:53,600 --> 00:36:56,750
+[HERSHE]
+My name is Hershe Hernandez, do you understand, cowboy?
+ຂ້ອຍຊື່ວ່າ ເຮສເຊ ເຮຣານເດສ, ເຈົ້າເຂົ້າໃຈບໍ, ຄາວໂບຍ?
+
+524
+00:36:57,250 --> 00:37:01,100
+[MAP TO THE STARS EDDIE]
+I got an idea, Snake.  This looks like the prototype, right?
+ຂ້ອຍມີແນວຄິດ, ຫມາ. ນີ້ແມ່ນເບິ່ງຄືວ່າເປັນແບບຕົ້ນແບບ, ແມ່ນບໍ?
+
+525
+00:37:01,600 --> 00:37:03,600
+[PLISSKEN]
+Yeah, kinda.
+ແມ່ນແລ້ວ, ບາງຢ່າງ.
+
+526
+00:37:04,100 --> 00:37:07,950
+[MAP TO THE STARS EDDIE]
+So maybe we can pull off a Texas switch on Cuervo.
+ສະນັ້ນບາງທີພວກເຮົາສາມາດເຮັດໄດ້ການປ່ຽນເທັກຊັສໃສ່ຄູເວໂກ້.
+
+527
+00:37:08,450 --> 00:37:10,900
+[PLISSKEN]
+If he lets you get close enough.
+ຖ້າລາວປ່ອຍໃຫ້ເຈົ້າເຂົ້າໃກ້ພໍສົມຄວນ.
+
+528
+00:37:11,400 --> 00:37:13,400
+[HERSHE]
+The wind's up. Let's go.
+ລົມຂຶ້ນແລ້ວ. ໄປ.
+
+529
+00:37:13,900 --> 00:37:15,900
+[HERSHE]
+See you in hell, Snake.
+ພົບກັນໃນອານາໄມ, ຫມາ.
+
+530
+00:37:16,400 --> 00:37:19,200
+[PLISSKEN]
+If I'm late, Carjack, don't start without me.
+ຖ້າຂ້ອຍຊ້າ, ຄາຈັກ, ຢ່າເລີ່ມຕົ້ນໂດຍບໍ່ມີຂ້ອຍ.
+
+531
+00:37:19,700 --> 00:37:25,700
+[PLISSKEN]
+Gliding through the air, as the wind picks him upward. He arcs away from the street level, up toward the remains of the downtown skyscrapers. Behind him, one after another, the group takes off into the wind, diving, rising with the wind.
+ລາວລອຍຜ່ານອາກາດ, ໃນຂະນະທີ່ລົມເອົາມັນຂຶ້ນໄປ. ລາວກະທູ້ຈາກລະດັບຖະຫນົນຫົນທາງ, ຂຶ້ນໄປສູ່ຊາກເຫລືອຂອງຕຶກຟ້າໃນໃຈກາງເມືອງ
+. ຢູ່ເບື້ອງຫຼັງລາວ, ຫນຶ່ງຕໍ່ຫນຶ່ງ, ກຸ່ມບິນເຂົ້າໄປໃນລົມ, ລອຍນ້ ໍາ, ຂຶ້ນກັບລົມ.
+
+532
+00:37:26,200 --> 00:37:32,200
+[CUERVO JONES]
+They're simple people. They love a party.  We're gonna throw them one hell of a party when we get to America. Right?
+ພວກເຂົາເປັນຄົນງ່າຍດາຍ. ພວກເຂົາມັກງານລ້ຽງ.
+ພວກເຮົາຈະຈັດງານລໍາບາກທີ່ຍິ່ງໃຫຍ່ໃຫ້ພວກເຂົາເມື່ອພວກເຮົາຮອດອາເມລິກາ. ແມ່ນບໍ?
+
+533
+00:37:32,700 --> 00:37:34,800
+[CUERVO JONES]
+Put a smile on your face.
+ເອົາຄວາມມ່ວນຊື່ນໃສ່ໃບຫນ້າຂອງທ່ານ.
+
+534
+00:37:35,300 --> 00:37:37,300
+[BIVOUAC]
+Cuervo Jones. Welcome, my Brother.
+ຄູເວໂຈນສ໌. ຍິນດີຕ້ອນຮັບ, ອ້າຍຂອງຂ້ອຍ.
+
+535
+00:37:37,800 --> 00:37:40,250
+[CUERVO JONES]
+Are you ready for the New World?
+ເຈົ້າພ້ອມແລ້ວ ສໍາ ລັບໂລກໃຫມ່ບໍ?
+
+536
+00:37:40,750 --> 00:37:46,750
+[PLISSKEN]
+Glances at his wrist watch. Only 20 minutes left. Map To The Stars Eddie swings wildly over in his direction, manages to stabilize his glider for a few moments.
+ເບິ່ງໂມງແຂນຂອງລາວ. ມີພຽງແຕ່ 20 ນາທີທີ່ເຫຼືອ. ແຜນທີ່ໄປສູ່ດາວເອດີຫັນໄປທາງລາວຢ່າງໂຊກຮ້າຍ
+, ສາມາດເຮັດໃຫ້ເຄື່ອງຂັບຂີ່ຂອງລາວ ຫມັ້ນ ຄົງເປັນເວລາສອງສາມຊົ່ວຄາວ.
+
+537
+00:37:47,250 --> 00:37:49,700
+[PLISSKEN]
+Is that what I think it is?
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຄິດວ່າມັນເປັນບໍ?
+
+538
+00:37:50,200 --> 00:37:55,450
+[MAP TO THE STARS EDDIE]
+Yeah. The place kept changing owners. Finally went bankrupt. That thing in Paris killed 'em.
+ແມ່ນແລ້ວ. ສະຖານທີ່ສືບຕໍ່ປ່ຽນເຈົ້າຂອງ.
+ສຸດທ້າຍໄດ້ລົ້ມເຫຼວ. ສິ່ງນັ້ນໃນປາຣີໄດ້ຂ້າພວກເຂົາ.
+
+539
+00:37:55,950 --> 00:37:58,400
+[HERSHE]
+Snake. We need some kind of diversion.
+ຫມາ. ພວກເຮົາຕ້ອງການການດຶງດູດໃຈບາງຢ່າງ.
+
+540
+00:37:58,900 --> 00:38:03,100
+[MAP TO THE STARS EDDIE]
+Cuervo. Hey, man, I made it! I made it! Wait for me...
+ຄູເວໂກ້. ເຮ້, ຜູ້ຊາຍ, ຂ້ອຍເຮັດມັນໄດ້! ຂ້ອຍເຮັດໄດ້! ລໍຖ້າຂ້ອຍ...
+
+541
+00:38:03,600 --> 00:38:09,550
+[KAWHUMP!]
+Map To The Stars Eddie crash lands into the ruins of a fast food restaurant - KACRUNCH!
+ແຜນທີ່ໄປສູ່ດາວເດດີຕົກລົງລົງໃນສິ່ງເສດເຫຼືອຂອງຮ້ານອາຫານໄວ
+- KACRUNCH!
+
+542
+00:38:10,050 --> 00:38:12,050
+[MAP TO THE STARS EDDIE]
+Hey Cuervo...
+ເຮ້ ຄູເວໂກ້...
+
+543
+00:38:12,550 --> 00:38:15,000
+[CUERVO JONES]
+Would you please kill him for me?
+ເຈົ້າຢາກຂ້າລາວ ສໍາ ລັບຂ້ອຍບໍ?
+
+544
+00:38:15,500 --> 00:38:17,500
+[BIVOUAC]
+My pleasure.
+ຄວາມຍິນດີຂອງຂ້ອຍ.
+
+545
+00:38:18,000 --> 00:38:21,850
+[MAP TO THE STARS EDDIE]
+Cuervo, wait! I got news. There's about to be an attack.
+ຄູເວໂກ້, ລໍຖ້າ! ຂ້ອຍມີຂ່າວ. ຈະມີການໂຈມຕີ.
+
+546
+00:38:22,350 --> 00:38:25,150
+[MAP TO THE STARS EDDIE]
+You're about to get hit, Cuervo. It's Plissken.
+ເຈົ້າ ກໍາ ລັງຈະຖືກຕີ, ຄູເວໂກ້. ມັນແມ່ນປລິສສເກນ.
+
+547
+00:38:25,650 --> 00:38:27,750
+[CUERVO JONES]
+You told me he was dead.
+ເຈົ້າບອກຂ້ອຍວ່າລາວຕາຍແລ້ວ.
+
+548
+00:38:28,250 --> 00:38:31,050
+[MAP TO THE STARS EDDIE]
+I thought he was, but he came back.
+ຂ້ອຍຄິດວ່າລາວເປັນ, ແຕ່ລາວກັບມາ.
+
+549
+00:38:31,550 --> 00:38:33,550
+[CUERVO JONES]
+Where?
+ຢູ່ໃສ?
+
+550
+00:38:34,050 --> 00:38:36,050
+[MAP TO THE STARS EDDIE]
+Oh Cuervo...
+ໂອ້ ຄູເວໂຣ...
+
+551
+00:38:36,550 --> 00:38:38,550
+[CUERVO JONES]
+What?
+ຫຍັງ?
+
+552
+00:38:39,050 --> 00:38:41,500
+[MAP TO THE STARS EDDIE]
+It's so good to see you again.
+ດີໃຈທີ່ເຫັນເຈົ້າອີກຄັ້ງ.
+
+553
+00:38:42,000 --> 00:38:44,000
+[CUERVO JONES]
+Where's Plissken?
+ປລິສສເກນຢູ່ໃສ?
+
+554
+00:38:44,500 --> 00:38:46,500
+[MAP TO THE STARS EDDIE]
+He's... near.
+ລາວຢູ່ໃກ້ແລ້ວ.
+
+555
+00:38:47,000 --> 00:38:49,450
+[CUERVO JONES]
+You're stalling, Eddie.  Talk, you little gringo!
+ເຈົ້າ ກໍາ ລັງຊັກຊ້າ, ເອດດີ. ເວົ້າ, ເຈົ້າຈຣິງໂກ້ນ້ອຍ!
+
+556
+00:38:49,950 --> 00:38:51,950
+[MAP TO THE STARS EDDIE]
+Cuervo, look out behind you!
+ຄູເວໂກ້, ລະວັງຢູ່ເບື້ອງຫຼັງເຈົ້າ!
+
+557
+00:38:52,450 --> 00:38:55,600
+[CUERVO JONES]
+You've lied to me for the very last time.
+ເຈົ້າຕົວະຂ້ອຍເປັນຄັ້ງສຸດທ້າຍແລ້ວ.
+
+558
+00:38:56,100 --> 00:39:01,350
+[SERIES OF FAST CUTS:]
+Chaos and pandemonium. Hershe dives down over the gangs, ripping hellfire from his automatic rifle.
+ຄວາມວຸ້ນວາຍແລະໂພດໂມນຽມ. ເຮຣສ໌ລອຍລົງເທິງກຸ່ມຄົນຮ້າຍ
+, ເອົາໄຟອານາໄມຈາກປືນອັດຕະໂນມັດຂອງລາວ.
+
+559
+00:39:01,850 --> 00:39:04,300
+[CLOSE - ROTOR R.P.M. GAUGE]
+The needle's at 100% plus. Full power.
+ກະດານແມ່ນຢູ່ໃນ 100% ບວກ. ພະລັງງານເຕັມ.
+
+560
+00:39:04,800 --> 00:39:06,800
+[PLISSKEN]
+She's overloaded! We're too heavy.
+ນາງໂຫຼດເກີນໄປ! ພວກເຮົາຫນັກເກີນໄປ.
+
+561
+00:39:07,300 --> 00:39:09,300
+[HERSHE]
+Somebody get off!
+ໃຜອອກໄປ!
+
+562
+00:39:09,800 --> 00:39:11,800
+[SPINAL]
+Who?
+ໃຜ?
+
+563
+00:39:12,300 --> 00:39:14,300
+[KABLAM!]
+Bullets rip through the windscreen.
+ລູກປືນແຕກຜ່ານຈໍທາງຫນ້າ.
+
+564
+00:39:14,800 --> 00:39:16,800
+[THE CYCLIC CONTROL]
+As Plissken inches it forward...
+ໃນຂະນະທີ່ປລິສສເກນ ຍ້າຍໄປຂ້າງຫນ້າ...
+
+565
+00:39:17,300 --> 00:39:23,300
+[THE HELICOPTER]
+Begins sliding across the ground, skids grinding along the pavement, sparks flying - slowly at first, now picking up speed...
+ເລີ່ມເລື່ອນຜ່ານພື້ນດິນ, ສະກັດລວດລ້າງຕາມທາງຍ່າງ, ແສງສະຫວ່າງບິນ
+- ຊ້າໆໃນຕອນ ທໍາ ອິດ, ດຽວນີ້ ກໍາ ລັງເພີ່ມຄວາມໄວ...
+
+566
+00:39:23,800 --> 00:39:26,600
+[THE LEAD HELICOPTER]
+As it lifts - five feet - climbing...
+ໃນຂະນະທີ່ມັນຍົກຂຶ້ນ - ຫ້າຕີນ - ຂຶ້ນ...
+
+567
+00:39:27,100 --> 00:39:30,250
+[HERSHE]
+We're not gonna make it over the fuckin' mountain!
+ພວກເຮົາຈະບໍ່ຜ່ານພູເຂົາໄດ້!
+
+568
+00:39:30,750 --> 00:39:35,300
+[COM OFFICER]
+Aircraft leaving the island, sir. It's passed into restricted space, heading this way.
+ເຮືອບິນອອກຈາກເກາະເດີ. ມັນໄດ້ຜ່ານໄປໃນພື້ນທີ່ຈໍາກັດ, ໄປທາງນີ້.
+
+569
+00:39:35,800 --> 00:39:37,800
+[PRESIDENT]
+Is it Plissken?
+ມັນເປັນປລິສສເກນບໍ?
+
+570
+00:39:38,300 --> 00:39:41,100
+[COM OFFICER]
+Commander, I'm getting radio contact with the aircraft.
+ຜູ້ບັນຊາການ, ຂ້ອຍ ກໍາ ລັງຕິດຕໍ່ທາງວິທະຍຸກັບເຮືອບິນ.
+
+571
+00:39:41,600 --> 00:39:43,600
+[MALLOY]
+Boost it.
+ເພີ່ມມັນຂຶ້ນ.
+
+572
+00:39:44,100 --> 00:39:46,200
+[PLISSKEN]
+Get ready, shitheads. We're comin' in.
+ກຽມພ້ອມ, ຄົນໂຊກຮ້າຍ. ພວກເຮົາ ກໍາ ລັງເຂົ້າມາ.
+
+573
+00:39:46,700 --> 00:39:48,700
+[PRESIDENT]
+Thank God.
+ຂອບໃຈພຣະເຈົ້າ.
+
+574
+00:39:49,200 --> 00:39:52,700
+[MALLOY]
+Plissken - this is Malloy. Do you have the prototype?
+ປລິສສເກນ - ນີ້ແມ່ນມາລອຍ. ເຈົ້າມີແບບຕົ້ນແບບບໍ?
+
+575
+00:39:53,200 --> 00:39:55,200
+[PLISSKEN]
+Yeah, I got it.
+ແມ່ນແລ້ວ, ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+576
+00:39:55,700 --> 00:39:57,800
+[PLISSKE]
+Now give me the real one.
+ດຽວນີ້ໃຫ້ຂ້ອຍຄົນແທ້ໆ.
+
+577
+00:39:58,300 --> 00:40:01,800
+[MAP TO THE STARS EDDIE]
+I couldn't make the switch, Snake. I don't have it.
+ຂ້ອຍບໍ່ສາມາດປ່ຽນໄດ້, Snake. ຂ້ອຍບໍ່ມີມັນ.
+
+578
+00:40:02,300 --> 00:40:04,300
+[UTOPIA]
+Now we're even, Snake.
+ດຽວນີ້ພວກເຮົາເປັນຄູ່ກັນແລ້ວ, Snake.
+
+579
+00:40:04,800 --> 00:40:07,600
+[COM OFFICER]
+Commander Malloy - he's got lots of company.
+ຜູ້ບັນຊາການມາລອຍ - ລາວມີບໍລິສັດຫຼາຍຄົນ.
+
+580
+00:40:08,100 --> 00:40:10,100
+[MALLOY]
+Battle stations...
+ສະຖານທີ່ສູ້ຮົບ...
+
+581
+00:40:10,600 --> 00:40:16,200
+[PLISSKEN]
+I think we've burned off enough fuel. We may be lighter enough to hover. Just barely.
+ຂ້ອຍຄິດວ່າພວກເຮົາໄດ້ເຜົາໄຫມ້ເຊື້ອໄຟພຽງພໍ.
+ພວກເຮົາອາດຈະເບົາກວ່າທີ່ຈະຍ່າງຢູ່ເທິງ. ພຽງແຕ່ເກືອບ.
+
+582
+00:40:16,700 --> 00:40:18,700
+[HERSHE]
+Can you land?
+ເຈົ້າລົງໄດ້ບໍ?
+
+583
+00:40:19,200 --> 00:40:25,200
+[PLISSKEN]
+No. The right skid's broken. If I try to set it down she'll crash. I have to stay in a hoverwhile you jump off.  Hey, Carjack. We gotta hide the girl. Give her your dress.
+ບໍ່. ກະດານຂວາແຕກແລ້ວ. ຖ້າຂ້ອຍພະຍາຍາມວາງມັນລົງນາງຈະຕົກລົງ. ຂ້ອຍຕ້ອງຢູ່ຢູ່ໃນ hover
+ໃນຂະນະທີ່ເຈົ້າໂດດລົງ. ເຮ້, Carjack. ພວກເຮົາຕ້ອງເຊື່ອງເດັກຍິງ. ໃຫ້ນາງຊຸດຂອງທ່ານ.
+
+584
+00:40:25,700 --> 00:40:30,950
+[HERSHE]
+My name is no longer Carjack. Will you please get that through your fucking head?
+ຂ້ອຍບໍ່ເອີ້ນວ່າ Carjack ອີກແລ້ວ.
+ເຈົ້າຂໍຮ້ອງໃຫ້ມັນເຂົ້າໄປໃນຫົວຂອງທ່ານບໍ?
+
+585
+00:40:31,450 --> 00:40:33,450
+[SPINAL]
+Holy shit.
+ສະຫວັນນະເຂດ.
+
+586
+00:40:33,950 --> 00:40:39,950
+[KAWHAM!]
+The line shoots out and a gleaming grappling hook slams into the side of Plissken's chopper, the prongs clawing in, holding. In the lead helicopter, the Black Cowboys, Spinal and Hershe aim their weapons.
+ຄຸເຂົ່າລົງ
+
+587
+00:40:40,450 --> 00:40:43,950
+[PLISSKEN]
+Don't shoot! They can drag us down into the sea.
+ຢ່າຍິງ! ພວກເຂົາສາມາດດຶງພວກເຮົາລົງສູ່ທະເລໄດ້.
+
+588
+00:40:44,450 --> 00:40:46,450
+[PLISSKEN]
+Take the controls!
+ເອົາການຄວບຄຸມ!
+
+589
+00:40:46,950 --> 00:40:48,950
+[UTOPIA]
+What do I do?
+ຂ້ອຍຈະເຮັດແນວໃດ?
+
+590
+00:40:49,450 --> 00:40:51,450
+[MAP TO THE STARS EDDIE]
+Where's Plissken?
+ປລິສສເກນຢູ່ໃສ?
+
+591
+00:40:51,950 --> 00:40:53,950
+[MAP TO THE STARS EDDIE]
+Hey, Cuervo.
+ເຮ້, ຄູເວໂກ້.
+
+592
+00:40:54,450 --> 00:40:57,600
+[MAP TO THE STARS EDDIE]
+If you get to America - let's do lunch.
+ຖ້າເຈົ້າໄປອາເມລິກາ - ມາກິນອາຫານທ່ຽງກັນ.
+
+593
+00:40:58,100 --> 00:41:04,100
+[AS BOOM!]
+Map To The Stars Eddie is hit with gunfire, dies, falls out of the seat, out of the door, out of the helicopter - plunges to the water below.
+ແຜນທີ່ໄປຫາດາວເອດີຖືກຍິງປືນ, ຕາຍ, ຕົກອອກຈາກບ່ອນນັ່ງ,
+ອອກຈາກປະຕູ, ອອກມາຈາກເຮລິຄອບເຕີ - ຕົກລົງສູ່ນ້ ໍາ ຢູ່ລຸ່ມ.
+
+594
+00:41:04,600 --> 00:41:06,600
+[UTOPIA]
+Snake, look.
+ຫມາ, ເບິ່ງແມ.
+
+595
+00:41:07,100 --> 00:41:09,200
+[PRESIDENT]
+Where the hell is he going?
+ລາວໄປໃສ?
+
+596
+00:41:09,700 --> 00:41:12,850
+[PLISSKEN]
+It's taking all the power we've got to hover.
+ມັນ ກໍາ ລັງໃຊ້ພະລັງງານທັງ ຫມົດ ທີ່ພວກເຮົາຕ້ອງຍ່າງຢູ່.
+
+597
+00:41:13,350 --> 00:41:17,550
+[CLOSE - ROTOR R.P.M. GAUGE]
+Shows 100% plus power. The helicopter is in a trembling hover. Inside...
+ສະແດງໃຫ້ເຫັນພະລັງງານບວກກັນ 100%.
+ເຮລິຄອບເຕີຢູ່ໃນການບິນທີ່ສັ່ນສະເທືອນ. ພາຍໃນ...
+
+598
+00:41:18,050 --> 00:41:20,850
+[PLISSKEN]
+Jump out. Head for the treeline and disappear.
+ໂດດອອກໄປ. ໄປສູ່ເສັ້ນໄມ້ແລະຫາຍໄປ.
+
+599
+00:41:21,350 --> 00:41:23,350
+[PLISSKEN]
+Go!
+ໄປ!
+
+600
+00:41:23,850 --> 00:41:28,050
+[PLISSKEN]
+All right, baby. Don't be too rough on me. We're gonna land.
+ດີແມ. ຢ່າຮຸນແຮງຫຼາຍຕໍ່ຂ້ອຍ. ພວກເຮົາຈະລົງຈອດ.
+
+601
+00:41:28,550 --> 00:41:34,550
+[FROM BEHIND PLISSKEN - INSIDE]
+Looking out the front, the blades smash through the windscreen, barely missing the top of Plissken's head. Plissken is splattered with glass, a piece of metal debris protrudes from the fleshy part of his biceps. Blood pours. The rear compartment explodes into flames as the engine grinds into the gas tank. Fire billows into the cockpit, engulfing Plissken...
+ເບິ່ງອອກທາງຫນ້າ, ກະດານກະດານໄດ້ແຕກຜ່ານຈໍລົມ, ພຽງແຕ່ຂາດເທິງຂອງຫົວຂອງປລິສສເກນ. ປລິສເຊນຖືກສີດດ້ວຍແກ້ວ, ຊິ້ນສ່ວນຂອງຂີ້ເຫຍື້ອໂລຫະໂດດເດັ່ນຈາກສ່ວນຊີ້ນຂອງ
+biceps ຂອງລາວ. ເລືອດໄຫຼອອກ. ຫ້ອງຫຼັງລະເບີດເປັນໄຟໃນຂະນະທີ່ເຄື່ອງຈັກລ້າງເຂົ້າໄປໃນຖັງແກັສ. ໄຟໄຫຼເຂົ້າໄປໃນຫ້ອງຂັບຂີ່, ຈູດປລີສເຊັນ...
+
+602
+00:41:35,050 --> 00:41:37,050
+[PLISSKEN]
+Where's the anti-toxin...?
+ຢາຕ້ານສານພິດຢູ່ໃສ...?
+
+603
+00:41:37,550 --> 00:41:39,550
+[PRESIDENT]
+Give me the prototype.
+ໃຫ້ຂ້ອຍແບບຕົ້ນແບບ.
+
+604
+00:41:40,050 --> 00:41:43,200
+[MALLOY]
+Hold it, Plissken. Now give us the real one.
+ຢືນຢັນ, ປລິສສເກນ. ດຽວນີ້ໃຫ້ພວກເຮົາຄົນແທ້ຈິງ.
+
+605
+00:41:43,700 --> 00:41:45,700
+[PLISSKEN]
+Give me the goddamn shot!
+ໃຫ້ຂ້ອຍຍິງ!
+
+606
+00:41:46,200 --> 00:41:48,300
+[MALLOY]
+It was all a fake, Plissken.
+ມັນທັງ ຫມົດ ແມ່ນປອມ, ປລິສສເກນ.
+
+607
+00:41:48,800 --> 00:41:54,800
+[BRAZEN]
+You were injected with glucose. There is no Plutoxin 7 virus. You were never going to die - at least not from anything we gave you.
+ເຈົ້າຖືກສັກຢາດ້ວຍກລູໂກສ໌. ບໍ່ມີໄວຣັສປລູໂຕຊິນ 7.
+ເຈົ້າຈະບໍ່ຕາຍເລີຍ - ຢ່າງຫນ້ອຍບໍ່ແມ່ນຈາກສິ່ງໃດທີ່ພວກເຮົາໃຫ້ເຈົ້າ.
+
+608
+00:41:55,300 --> 00:41:58,800
+[MALLOY]
+C'mon, Snake - it's L.A. Everything's phony, you know that.
+ມາແລ້ວ, ຫມາ - ມັນແມ່ນລັອກແອນສ໌. ທຸກຢ່າງແມ່ນປອມ, ເຈົ້າຮູ້ແລ້ວ.
+
+609
+00:41:59,300 --> 00:42:05,300
+[MALLOY]
+Relax, war hero. We took you for a ride, and you came through. Not bad for a dirtbag like you.
+ສະບາຍໃຈ, ນັກຮົບສົງຄາມ. ພວກເຮົາພາເຈົ້າໄປຂີ່ລົດ,
+ແລະເຈົ້າໄດ້ຜ່ານໄປ. ບໍ່ຮ້າຍແຮງ ສໍາ ລັບໂຊກແຊງຄືກັບເຈົ້າ.
+
+610
+00:42:05,800 --> 00:42:11,800
+[PRESIDENT]
+You're free, Plissken. But if you even so much as break wind on a country road I'll crush you like a bug.
+ເຈົ້າເປັນອິດສະຫຼະ, ປລິສສເກນ.
+ແຕ່ຖ້າເຈົ້າແມ້ແຕ່ພັດລົມໃນທາງຊົນນະບົດຂ້ອຍຈະສັ່ນສະເທືອນເຈົ້າຄືກັບແມງໄມ້.
+
+611
+00:42:12,300 --> 00:42:14,300
+[COP]
+Commander...  Look what we found.
+ຜູ້ບັນຊາການ... ເບິ່ງວ່າພວກເຮົາພົບຫຍັງ.
+
+612
+00:42:14,800 --> 00:42:19,350
+[MALLOY]
+You didn't finish the mission, Plissken. We'll have to do that for you.
+ເຈົ້າບໍ່ໄດ້ສິ້ນສຸດພາລະກິດ, ປລິສສເກນ.
+ພວກເຮົາຕ້ອງເຮັດສິ່ງນັ້ນ ສໍາ ລັບເຈົ້າ.
+
+613
+00:42:19,850 --> 00:42:21,850
+[PLISSKEN]
+Got a smoke?
+ມີສູບຢາບໍ?
+
+614
+00:42:22,350 --> 00:42:28,350
+[MALLOY]
+You're gonna have to learn to respect the law, Snake. The United States is a no- smoking nation. No smoking, no drinking, do drugs, no women unless you're married, no guns, no foul language. It's a brand new day for you, Snake.
+ເຈົ້າຈະຕ້ອງຮຽນຮູ້ທີ່ຈະເຄົາລົບກົດ ຫມາຍ, ຫມາ. ສະຫະລັດແມ່ນປະເທດທີ່ບໍ່ສູບຢາ. ບໍ່ມີສູບ, ບໍ່ມີດື່ມ, ໃຊ້ຢາເສບຕິດ
+, ບໍ່ມີແມ່ຍິງຖ້າເຈົ້າບໍ່ແຕ່ງງານ, ບໍ່ມີປືນ, ບໍ່ມີພາສາທີ່ໂຊກຮ້າຍ. ມັນເປັນມື້ ໃຫມ່ ສໍາ ລັບເຈົ້າ, ຫມີ.
+
+615
+00:42:28,850 --> 00:42:30,850
+[PLISSKEN]
+The name's Plissken.
+ຊື່ວ່າ ປລິສສເກນ.
+
+616
+00:42:31,350 --> 00:42:34,500
+[TRACKING SHOT WITH PLISSKEN]
+He holds the real prototype, calmly pushes the button.
+ລາວຖືແບບຕົ້ນແບບທີ່ແທ້ຈິງ, ກົດປຸ່ມຢ່າງສະຫງົບໃຈ.
+
+617
+00:42:35,000 --> 00:42:37,450
+[DUTY SERGEANT]
+We're being attacked, Commander. The north wall.
+ພວກເຮົາຖືກໂຈມຕີ, ຜູ້ບັນຊາການ. ກໍາແພງທາງພາກເຫນືອ.
+

@@ -1,0 +1,7253 @@
+1
+00:00:10,000 --> 00:00:13,500
+[ANALYZE THIS]
+Screenplay by PETER TOLAN and HAROLD RAMIS and KENNETH LONERGAN
+ບົດຂຽນໂດຍ Peter Tolan ແລະ Harold Ramis ແລະ Kenneth Lonergan
+
+2
+00:00:14,000 --> 00:00:20,000
+[MANETTA]
+1957 was a big year. The Russians put that Sputnik into outer space, the Dodgers played their last game at Ebbets Field, 'that guy' shot Frank Costello in the head, and missed, and the Gallo brothers whacked Albert Anastasia in that barber shop in the Park Sheraton Hotel. It was total chaos. With Anastasia gone, Vito Genovese figures he's king shit, but Carlo Gambino and 'Joe Bananas' both want to be boss of all bosses. So they call a meeting -- a big meeting.
+ປີ 1957 ແມ່ນປີທີ່ຍິ່ງໃຫຍ່. ຊາວຣັດເຊຍໄດ້ເອົາ Sputnik ນັ້ນເຂົ້າໄປໃນອະວະກາດພາຍນອກ, Dodgers ໄດ້ຫຼິ້ນເກມສຸດທ້າຍຂອງພວກເຂົາຢູ່ສະຫນາມ Ebbets,'ຄົນນັ້ນ' ໄດ້ຍິງແຟຣນກ໌ ຄອດເຊໂລໃນຫົວ
+, ແລະພາດ, ແລະອ້າຍນ້ອງ Gallo ໄດ້ຂ້າແອລເບີດ ອານາສຕາຊີຍໃນຮ້ານຕັດຜົມນັ້ນໃນໂຮງແຮມ Park Sheraton. ມັນເປັນຄວາມສັບສົນຢ່າງສົມບູນ. ດ້ວຍອານາສຕັຍໄປແລ້ວ, Vito Genovese ຄິດວ່າ
+
+3
+00:00:20,500 --> 00:00:26,500
+[MANETTA]
+It was the first time the whole commission was ever gonna meet face to face. Bosses and wiseguys were comin' in from all over the country, and all the New York families, too -- maybe sixty bosses, the whole wiseguy world -- all headin' toward this little town upstate to figure out what's what.
+ມັນເປັນຄັ້ງ ທໍາ ອິດທີ່ຄະນະກໍາມະການທັງ ຫມົດ ຈະພົບປະກັນທາງກົງກັນຂ້າມ. ຫົວຫນ້າແລະຄົນສະຫຼາດ ກໍາ ລັງເຂົ້າມາຈາກທົ່ວປະເທດ, ແລະຄອບຄົວນິວຢອກທັງ
+ຫມົດ ເຊັ່ນກັນ - ບາງທີຫົວຫນ້າສິບຄົນ, ໂລກທີ່ສະຫຼາດທັງ ຫມົດ - ທັງ ຫມົດ ກໍາ ລັງໄປສູ່ເມືອງນ້ອຍໆນີ້ທາງພາກເຫນືອຂອງລັດເພື່ອຄິດວ່າເປັນຫຍັງ.
+
+4
+00:00:27,000 --> 00:00:31,550
+[MANETTA]
+Your father and me, we were goin' up with Tommy D., Fat Tommy.
+ຂ້ອຍແລະພໍ່ເຈົ້າ, ພວກເຮົາ ກໍາ ລັງຂຶ້ນກັບໂຕມມີ ດີ, ໂຕມມີໄຂມັນ.
+
+5
+00:00:32,050 --> 00:00:38,050
+[MANETTA]
+He was running the family at the time. Anyway, I don't know what anybody was thinking, but some asshole thought it would be a good idea to have this meeting at Joe Babara's farm in the country where nobody would notice.
+ລາວ ກໍາ ລັງຄຸ້ມຄອງຄອບຄົວໃນເວລານັ້ນ. ຢ່າງໃດກໍຕາມ, ຂ້ອຍບໍ່ຮູ້ວ່າໃຜຄິດຫຍັງ,
+ແຕ່ຄົນໂຊກຮ້າຍບາງຄົນຄິດວ່າມັນຈະເປັນຄວາມຄິດທີ່ດີທີ່ຈະຈັດກອງປະຊຸມນີ້ຢູ່ຟາມຂອງໂຈ ບາບາຣາໃນປະເທດທີ່ບໍ່ມີໃຜຈະສັງເກດເຫັນ.
+
+6
+00:00:38,550 --> 00:00:44,550
+[MANETTA]
+Turns out the local cops were watching Joe Babara like a hawk. So now you got about fifty Caddies and Lincolns pullin' into Apalachin and some deputy sheriff with cow shit on his shoes notices all the traffic and calls the Feds.
+ມັນປາກົດວ່າຕໍາຫຼວດທ້ອງຖິ່ນ ກໍາ ລັງເບິ່ງໂຈ ບາບາຣາຄືກັບແຊກແຊ.
+ສະນັ້ນດຽວນີ້ເຈົ້າມີແຄດດີແລະລິນຄອນລິນປະມານຫ້າສິບຄົນທີ່ດຶງເຂົ້າໄປໃນອາປາລາຊິນແລະຮອງເຈົ້າຫນ້າທີ່ບາງຄົນທີ່ມີສູບງົວໃສ່ເກີບຂອງລາວສັງເກດເຫັນການຈະລາຈອນທັງ ຫມົດ ແລະ ໂທຫາລັດຖະບານກາງ.
+
+7
+00:00:45,050 --> 00:00:48,900
+[WISEGUY]
+You wanna be a ribeye?   Get away from the fuckin' car.
+ເຈົ້າຢາກເປັນ ribeye ບໍ? ອອກຈາກລົດ.
+
+8
+00:00:49,400 --> 00:00:53,250
+[MANETTA]
+The meeting never even got started. The Feds moved in --
+ກອງປະຊຸມບໍ່ເຄີຍເລີ່ມຕົ້ນເລີຍ. ອົງການກາງໄດ້ຍ້າຍເຂົ້າມາ -
+
+9
+00:00:53,750 --> 00:00:55,750
+[MANETTA]
+-- and we moved out.
+- ແລະພວກເຮົາໄດ້ຍ້າຍອອກໄປ.
+
+10
+00:00:56,250 --> 00:01:02,250
+[MANETTA]
+Your papa and me hid in a field with hay or corn, some kinda foliage, I don't know.
+ພໍ່ຂອງເຈົ້າແລະຂ້ອຍເຊື່ອງໄວ້ໃນສະ ຫນາມ
+ທີ່ມີຜັກຫຼືເຂົ້າ, ໃບໄມ້ບາງຊະນິດ, ຂ້ອຍບໍ່ຮູ້.
+
+11
+00:01:02,750 --> 00:01:08,750
+[MANETTA]
+Then along comes this farmer who almost runs us over in a tractor, so your father hauls out his piece, this .44 cannon he used to carry, and hijacks the goddamn tractor. Funniest fuckin' thing I ever saw.
+ຫຼັງຈາກນັ້ນກະສິກອນຄົນນີ້ມາທີ່ເກືອບຈະແລ່ນພວກເຮົາໃນຕຣັກເຕີ, ສະນັ້ນພໍ່ຂອງທ່ານດຶງກະດານຂອງລາວອອກ
+, ປືນ.44 ນີ້ທີ່ລາວເຄີຍຖື, ແລະລັກເອົາຕຼັກເຕີ. ສິ່ງທີ່ມ່ວນທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນ.
+
+12
+00:01:09,250 --> 00:01:15,250
+[MANETTA]
+Anyway, Carlo Gambino came out of it capo de tutti capi, and that was the last time the whole commission tried to meet -- until now.
+ຢ່າງໃດກໍຕາມ, ຄາລໂລ ແກມບິນໂກ້ໄດ້ອອກຈາກມັນຫົວຫນ້າຂອງຫົວຫນ້າທຸກຄົນ,
+ແລະນັ້ນແມ່ນຄັ້ງສຸດທ້າຍທີ່ຄະນະກໍາມະການທັງ ຫມົດ ພະຍາຍາມພົບປະ - ຈົນຮອດປະຈຸບັນນີ້.
+
+13
+00:01:15,750 --> 00:01:21,750
+[VITTI]
+I don't know. I don't like it. What do we need a meeting for? Let everybody worry about their own business.
+ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍບໍ່ມັກມັນ. ພວກເຮົາຕ້ອງການກອງປະຊຸມຫຍັງ
+? ໃຫ້ທຸກຄົນກັງວົນກ່ຽວກັບທຸລະກິດຂອງພວກເຂົາເອງ.
+
+14
+00:01:22,250 --> 00:01:28,250
+[MANETTA]
+The '57 meeting was about how we were going to divide up the whole country. This meeting is about how we're gonna survive. You got 'made' guys informing for the Feds; bosses going to jail; everybody's dealing drugs; people are getting whacked without permission. And on top of everything, now we got the Chinese Triads and these crazy Russians to deal with. Everything's changing. We need a leader. Someone with fresh ideas. Someone like you. It's gonna be a new century, Paul. We gotta change with the times.
+ກອງປະຊຸມປີ 57 ແມ່ນກ່ຽວກັບວິທີທີ່ພວກເຮົາຈະແບ່ງແຍກປະເທດທັງ ຫມົດ. ກອງປະຊຸມນີ້ແມ່ນກ່ຽວກັບວິທີທີ່ຈະຢູ່ລອດຊີວິດ. ເຈົ້າມີຜູ້ຊາຍທີ່'ເຮັດ' ທີ່ແຈ້ງການ ສໍາ ລັບລັດຖະບານກາງ; ຫົວຫນ້າຈະໄປຄຸກ; ທຸກຄົນ ກໍາ ລັງຄ້າຢາເສບຕິດ;
+ປະຊາຊົນຖືກຂ້າໂດຍບໍ່ມີອະນຸຍາດ. ແລະເທິງສິ່ງທັງ ຫມົດ, ດຽວນີ້ພວກເຮົາມີສາມາໄຕຈີນແລະຊາວຣັດເຊຍທີ່ໂຊກຮ້າຍເຫຼົ່ານີ້ທີ່ຈະຮັບມືກັບ. ທຸກສິ່ງທຸກຢ່າງ ກໍາ ລັງປ່ຽນແປງ. ພວກເຮົາຕ້ອງການຜູ້ນໍາ. ບາງຄົນທີ່ມີແນວຄິດສົດໃສ. ບາງຄົນທີ່ຄືກ
+
+15
+00:01:28,750 --> 00:01:31,900
+[VITTI]
+What are we gonna get, a fuckin' web site?
+ພວກເຮົາຈະໄດ້ຮັບຫຍັງ, ເວັບໄຊທ໌ບໍ?
+
+16
+00:01:32,400 --> 00:01:35,200
+[MANETTA]
+You remember what else happened in 1957, Paul?
+ເຈົ້າຈື່ວ່າເກີດຫຍັງອີກໃນປີ 1957, ໂປລ?
+
+17
+00:01:35,700 --> 00:01:37,700
+[VITTI]
+Yeah, I remember.
+ແມ່ນແລ້ວ, ຂ້ອຍຈື່ໄວ້.
+
+18
+00:01:38,200 --> 00:01:44,150
+[MANETTA]
+When your father died, I promised him I'd always look out for you. Come to the meeting.
+ເມື່ອພໍ່ເຈົ້າຕາຍ,
+ຂ້ອຍສັນຍາໃຫ້ລາວວ່າຂ້ອຍຈະເບິ່ງແຍງເຈົ້າຢູ່ສະເຫມີ. ມາປະຊຸມ.
+
+19
+00:01:44,650 --> 00:01:47,800
+[VITTI]
+Wait a second. I'm just gonna grab a toothpick.
+ລໍຖ້າວິນາທີຫນຶ່ງ. ຂ້ອຍພຽງແຕ່ຈະເອົາເຄື່ອງດູດແຂ້ວ.
+
+20
+00:01:48,300 --> 00:01:54,300
+[CAROLINE]
+I kept telling him that I needed room to grow and find myself as a person. Not just as a woman but as an independent entity.
+ຂ້ອຍບອກລາວວ່າຂ້ອຍຕ້ອງການບ່ອນທີ່ຈະເຕີບໃຫຍ່ແລະຊອກຫາຕົວເອງເປັນຄົນ
+. ບໍ່ແມ່ນພຽງແຕ່ເປັນແມ່ຍິງເທົ່ານັ້ນແຕ່ເປັນອົງກອນອິດສະຫຼະ.
+
+21
+00:01:54,800 --> 00:02:00,800
+[CAROLINE]
+I told him I needed to get in touch with my uniqueness, but he couldn't handle that. He said I was driving him away. Do you think I was driving him away, Dr. Sobol?
+ຂ້ອຍບອກລາວວ່າຂ້ອຍຕ້ອງຕິດຕໍ່ກັບຄວາມເປັນເອກະລັກຂອງຂ້ອຍ, ແຕ່ລາວບໍ່ສາມາດຮັບມືກັບສິ່ງນັ້ນໄດ້
+. ລາວເວົ້າວ່າຂ້ອຍ ກໍາ ລັງຂັບລາວໄປ. ເຈົ້າຄິດວ່າຂ້ອຍ ກໍາ ນົດລາວໄປບໍ, ດຣ ໂຊບອລ?
+
+22
+00:02:01,300 --> 00:02:07,300
+[BEN]
+Things end, Caroline. That's just a part of life. It's how we deal with things ending that's important.
+ສິ່ງຕ່າງໆຈະສິ້ນສຸດລົງ, ຄາຣູລິນ. ນັ້ນພຽງແຕ່ເປັນສ່ວນ ຫນຶ່ງ ຂອງຊີວິດ
+. ມັນແມ່ນວິທີທີ່ພວກເຮົາຮັບມືກັບສິ່ງຕ່າງໆທີ່ສິ້ນ ສຸດລົງທີ່ສໍາຄັນ.
+
+23
+00:02:07,800 --> 00:02:12,700
+[CAROLINE]
+I just can't believe it's over between me and Steve. Maybe there's still hope.
+ຂ້ອຍພຽງແຕ່ບໍ່ເຊື່ອວ່າມັນສິ້ນສຸດລົງລະຫວ່າງຂ້ອຍແລະສຕິວ
+. ບາງທີຍັງມີຄວາມຫວັງຢູ່.
+
+24
+00:02:13,200 --> 00:02:19,200
+[BEN]
+Well, he did take out a restraining order against you. I have to be honest, that's usually not a good sign.
+ດີ, ລາວໄດ້ອອກຄໍາສັ່ງຫ້າມຕໍ່ເຈົ້າ. ຂ້ອຍຕ້ອງເວົ້າຈິງໃຈ
+, ນັ້ນປົກກະຕິແລ້ວບໍ່ແມ່ນສັນຍານທີ່ດີ.
+
+25
+00:02:19,700 --> 00:02:21,700
+[CAROLINE]
+But what should I do?
+ແຕ່ຂ້ອຍຄວນເຮັດແນວໃດ?
+
+26
+00:02:22,200 --> 00:02:28,200
+[BEN]
+Well, Caroline, I think the first thing you have to do...  ... is stop whining about this pathetic loser! You're a tragedy queen!  'Steve doesn't respect me. Steve doesn't love me anymore.' Who gives a shit! Get a fucking life! You are, without a doubt, the most boring human being I have ever met! Please, say something interesting before I lapse into a goddamn coma!
+ດີ, ຄາຣູໄລນ໌, ຂ້ອຍຄິດວ່າສິ່ງ ທໍາ ອິດທີ່ເຈົ້າຕ້ອງເຮັດ...... ແມ່ນຢຸດການຮ້ອງໄຫ້ກ່ຽວກັບຄົນເສຍຫາຍທີ່ໂຊກຮ້າຍນີ້! ເຈົ້າເປັນລາຊິນີໂສກຮ້າຍ!'ສຕິວບໍ່ເຄົາລົບຂ້ອຍ. ສຕິວບໍ່ໄດ້ຮັກຂ້ອຍອີກຕໍ່ໄປ
+. ໃຜສົນໃຈ! ໄດ້ຮັບຊີວິດທີ່ສິ້ນສຸດລົງ! ເຈົ້າແມ່ນ, ໂດຍບໍ່ມີຂໍ້ສົງໄສ, ມະນຸດທີ່ເບື່ອຫນ່າຍທີ່ສຸດທີ່ຂ້ອຍເຄີຍພົບ! ກະລຸນາ, ເວົ້າບາງສິ່ງບາງຢ່າງທີ່ ຫນ້າ ສົນໃຈກ່ອນທີ່ຂ້ອຍຈະຕົກຢູ່ໃນໂມມາ
+
+27
+00:02:28,700 --> 00:02:30,700
+[CAROLINE]
+Dr. Sobol?
+ດຣ ໂຊບອລ?
+
+28
+00:02:31,200 --> 00:02:37,200
+[BEN]
+Yes. Yes. I was just reflecting on your whole -- situation. It's very interesting what you were just saying. I want you to think about it, and I'm going to think about it, so we'll both think about it and we'll continue next week when I get back from my vacation.
+ແມ່ນ ແລ້ວ. ແມ່ນແລ້ວ. ຂ້ອຍພຽງແຕ່ຄິດກ່ຽວກັບສະຖານະການທັງ ຫມົດ ຂອງເຈົ້າ. ມັນ ຫນ້າ ສົນໃຈຫຼາຍສິ່ງທີ່ເຈົ້າຫາກໍ່ເວົ້າ. ຂ້ອຍຢາກໃຫ້ເຈົ້າຄິດກ່ຽວກັບມັນ
+, ແລະຂ້ອຍຈະຄິດເລື່ອງມັນ, ສະນັ້ນພວກເຮົາທັງສອງຈະຄິດກ່ຽວກັບສິ່ງນັ້ນແລະພວກເຮົາຈະສືບຕໍ່ໃນອາທິດຫນ້າເມື່ອຂ້ອຍກັບມາຈາກການພັກຜ່ອນຂອງຂ້ອຍ.
+
+29
+00:02:37,700 --> 00:02:39,700
+[BEN]
+Or not.
+ຫຼືບໍ່.
+
+30
+00:02:40,200 --> 00:02:42,200
+[MICHAEL]
+You're late.
+ເຈົ້າຊ້າແລ້ວ.
+
+31
+00:02:42,700 --> 00:02:48,700
+[BEN]
+I know. I couldn't get rid of my last patient. I think she was a tick in a past life.
+ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍບໍ່ສາມາດ ກໍາ ຈັດຄົນເຈັບຄົນສຸດທ້າຍຂອງຂ້ອຍໄດ້
+. ຂ້ອຍຄິດວ່ານາງເປັນກະຕ່າໃນຊີວິດທີ່ຜ່ານມາ.
+
+32
+00:02:49,200 --> 00:02:54,100
+[MICHAEL]
+Yeah, what's Caroline's problem? Your boyfriend's gone, he hates your guts, get over it.
+ແມ່ນແລ້ວ, ບັນຫາຂອງຄາໂຣລິນແມ່ນຫຍັງ?
+ເພື່ອນຊາຍຂອງທ່ານໄດ້ໄປແລ້ວ, ລາວກຽດຊັງທ້ອງຂອງທ່ານ, ຜ່ານຜ່າມັນ.
+
+33
+00:02:54,600 --> 00:02:59,850
+[BEN]
+Michael! What did I tell you? You can't listen to my sessions! It's private stuff.
+ໄມເກວ! ຂ້ອຍບອກເຈົ້າຫຍັງ?
+ເຈົ້າບໍ່ສາມາດຟັງກອງປະຊຸມຂອງຂ້ອຍໄດ້! ມັນແມ່ນສິ່ງສ່ວນຕົວ.
+
+34
+00:03:00,350 --> 00:03:04,900
+[MICHAEL]
+I can't help it. I hear you through the vent in my room.
+ຂ້ອຍບໍ່ສາມາດຊ່ວຍມັນໄດ້.
+ຂ້ອຍໄດ້ຍິນເຈົ້າຜ່ານລະບາຍອາກາດໃນຫ້ອງຂອງຂ້ອຍ.
+
+35
+00:03:05,400 --> 00:03:11,350
+[BEN]
+Funny how that happens when you lie on the floor and put your ear up against it.
+ມັນຫນ້າມ່ວນວ່າມັນເກີດຂຶ້ນແນວໃດເມື່ອເຈົ້ານອນຢູ່ເທິງພື້ນແລະເອົາຫູໃສ່ມັນ
+.
+
+36
+00:03:11,850 --> 00:03:15,350
+[MICHAEL]
+Okay, okay. How's that guy who dreams about shitting trout?
+ດີ, ດີ. ຜູ້ຊາຍຄົນນັ້ນທີ່ຝັນກ່ຽວກັບການສີດທຣູຕ໌ເປັນແນວໃດ?
+
+37
+00:03:15,850 --> 00:03:21,850
+[BEN]
+Fine. He moved up to striped bass. Put on your cummerbund. Boy, have you grown. Did your mother move next door to a nuclear power plant?
+ດີແລ້ວ. ລາວໄດ້ຍ້າຍຂຶ້ນໄປຫາບາສສ໌ສີດໍາ. ໃສ່ຄອມເມີບັນດ໌ຂອງທ່ານ. ເດັກຊາຍ,
+ເຈົ້າເຕີບໃຫຍ່ແລ້ວບໍ. ແມ່ຂອງທ່ານຍ້າຍຢູ່ຂ້າງເຮືອນກັບໂຮງງານຜະລິດພະລັງງານນິວເຄລຍບໍ?
+
+38
+00:03:22,350 --> 00:03:26,900
+[MICHAEL]
+Why do we have to wear rented clothes to Grandpa's party? This blows.
+ເປັນຫຍັງພວກເຮົາຈຶ່ງຕ້ອງໃສ່ເຄື່ອງນຸ່ງທີ່ເຊົ່າໄປງານລ້ຽງຂອງພໍ່ເຖົ້າ
+? ນີ້ແມ່ນລະເບີດ.
+
+39
+00:03:27,400 --> 00:03:33,400
+[BEN]
+We have to dress up because Grandpa can't have a good time unless everyone else is extremely uncomfortable.  Forget the tux. Regular clothes.
+ພວກເຮົາຕ້ອງໃສ່ເຄື່ອງນຸ່ງຫົ່ມເພາະວ່າພໍ່ເຖົ້າບໍ່ສາມາດມ່ວນຊື່ນໄດ້ເວັ້ນເສຍແຕ່ວ່າຄົນອື່ນບໍ່ສະບາຍໃຈຫຼາຍ
+. ລືມສມຸກສ໌. ເຄື່ອງນຸ້ງປົກກະຕິ.
+
+40
+00:03:33,900 --> 00:03:36,000
+[MICHAEL]
+Are you ambivalent about Grandpa Isaac?
+ເຈົ້າມີຄວາມສົງໄສກ່ຽວກັບພໍ່ເຖົ້າອີຊາກບໍ?
+
+41
+00:03:36,500 --> 00:03:38,950
+[BEN]
+Ambivalent? Where do you get that stuff?
+ເຈົ້າເອົາສິ່ງນັ້ນມາຈາກໃສ?
+
+42
+00:03:39,450 --> 00:03:41,450
+[MICHAEL]
+Mom.
+ແມ່.
+
+43
+00:03:41,950 --> 00:03:44,750
+[BEN]
+She's not supposed to do that, you know.
+ນາງບໍ່ຄວນເຮັດແບບນັ້ນ, ເຈົ້າຮູ້ແລ້ວ.
+
+44
+00:03:45,250 --> 00:03:51,250
+[BEN]
+Your mother and I, when we got divorced, we agreed we wouldn't put you in the middle, or use you as a go-between to talk about each other. So just do me a favor and tell your mother to shut her big mouth.  Did she say anything about me getting married again? I think she could be feeling a little anger about it.
+ຂ້ອຍແລະແມ່ຂອງເຈົ້າ, ເມື່ອພວກເຮົາແຍກກັນ, ພວກເຮົາຕົກລົງກັນວ່າພວກເຮົາຈະບໍ່ເອົາເຈົ້າຢູ່ໃນກາງ, ຫຼືໃຊ້ເຈົ້າເປັນຜູ້ກາງເພື່ອເວົ້າກ່ຽວກັບກັນແລະກັນ.
+ສະນັ້ນພຽງແຕ່ເຮັດຂ້ອຍຄວາມສະດວກແລະບອກແມ່ຂອງທ່ານໃຫ້ປິດປາກໃຫຍ່ຂອງນາງ. ນາງເວົ້າຫຍັງກ່ຽວກັບຂ້ອຍທີ່ຈະແຕ່ງງານອີກຄັ້ງບໍ? ຂ້ອຍຄິດວ່ານາງອາດຈະຮູ້ສຶກໂຊກຮ້າຍ ຫນ້ອຍ ຫນຶ່ງ ກ່ຽວກັບມັນ.
+
+45
+00:03:51,750 --> 00:03:57,750
+[MICHAEL]
+Oh, yeah. She really cares. She says you're intimidated by women your own age, and that's why you go for these young babes.
+ໂອ້, ແມ່ນແລ້ວ. ນາງສົນໃຈແທ້ໆ. ນາງເວົ້າວ່າເຈົ້າຖືກຢ້ານກົວໂດຍແມ່ຍິງອາຍຸຂອງທ່ານເອງ
+, ແລະນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າໄປຫາເດັກນ້ອຍໄວຫນຸ່ມເຫຼົ່ານີ້.
+
+46
+00:03:58,250 --> 00:04:03,500
+[BEN]
+Okay. Listen, for two seconds, pretend I'm not your father. I'm just some guy, okay?
+ດີແລ້ວ. ຟັງ, ເປັນເວລາສອງວິນາທີ, ປອມວ່າຂ້ອຍບໍ່ແມ່ນພໍ່ຂອງທ່ານ
+. ຂ້ອຍພຽງແຕ່ເປັນຜູ້ຊາຍບາງຄົນ, ດີບໍ?
+
+47
+00:04:04,000 --> 00:04:06,000
+[MICHAEL]
+You gonna vent?
+ເຈົ້າຈະອອກອາກາດບໍ?
+
+48
+00:04:06,500 --> 00:04:11,050
+[BEN]
+Yeah.  I hate her! I really hate her!  Okay. Dad again. Let's go.
+ແມ່ນແລ້ວ. ຂ້ອຍກຽດຊັງນາງ! ຂ້ອຍກ້ານນາງແທ້ໆ
+! ດີແລ້ວ. ພໍ່ອີກເທື່ອຫນຶ່ງ. ໄປ.
+
+49
+00:04:11,550 --> 00:04:13,650
+[VITTI]
+So what did you find out?
+ເຈົ້າຮູ້ວ່າຫຍັງ?
+
+50
+00:04:14,150 --> 00:04:18,350
+[JELLY]
+The word is Primo Sindone must have ordered it, but, uh --
+ຄໍາວ່າ ປຣີໂມ ຊິນໂດນຕ້ອງໄດ້ສັ່ງມັນ, ແຕ່, ອູ -
+
+51
+00:04:18,850 --> 00:04:20,850
+[VITTI]
+What?
+ຫຍັງ?
+
+52
+00:04:21,350 --> 00:04:23,350
+[VITTI]
+What?
+ຫຍັງ?
+
+53
+00:04:23,850 --> 00:04:27,000
+[JELLY]
+A lot of people think you set him up.
+ຄົນຫຼາຍຄົນຄິດວ່າເຈົ້າໄດ້ວາງແຜນລາວ.
+
+54
+00:04:27,500 --> 00:04:33,100
+[VITTI]
+Why the fuck would I want to kill Dominic? He was like a father to me.
+ຂ້ອຍຢາກຂ້າໂດມິນິກເປັນຫຍັງ? ລາວຄືກັບພໍ່ຂອງຂ້ອຍ.
+
+55
+00:04:33,600 --> 00:04:39,600
+[JELLY]
+So you could be the big boss. Everybody figures you're lookin' to wipe out the competition before the big meeting.
+ສະນັ້ນເຈົ້າສາມາດເປັນຫົວຫນ້າໃຫຍ່ໄດ້. ທຸກຄົນຄິດວ່າເຈົ້າ
+ກໍາ ລັງຊອກຫາເພື່ອລົບລ້າງການແຂ່ງຂັນກ່ອນກອງປະຊຸມໃຫຍ່.
+
+56
+00:04:40,100 --> 00:04:42,200
+[VITTI]
+Oh, is that what they figure?
+ໂອ້, ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາຄິດບໍ?
+
+57
+00:04:42,700 --> 00:04:45,500
+[JELLY]
+It's alright with me if you did --
+ມັນບໍ່ເປັນຫຍັງກັບຂ້ອຍຖ້າເຈົ້າເຮັດ -
+
+58
+00:04:46,000 --> 00:04:49,850
+[VITTI]
+I didn't kill him! I told you that! Don't you hear?
+ຂ້ອຍບໍ່ໄດ້ຂ້າລາວ! ຂ້ອຍບອກເຈົ້າແລ້ວ! ເຈົ້າບໍ່ຍິນບໍ?
+
+59
+00:04:50,350 --> 00:04:56,350
+[NICKY]
+Please, Mr. Vitti, I told 'em I don't know anything but they don't believe me 'cause that one time I said Little Joe hit Dukey and it turned out he didn't but I didn't know because --
+ກະລຸນາ, ທ້າວ Vitti,
+ຂ້ອຍບອກພວກເຂົາວ່າຂ້ອຍບໍ່ຮູ້ຫຍັງເລີຍແຕ່ພວກເຂົາບໍ່ເຊື່ອຂ້ອຍເພາະວ່າຄັ້ງຫນຶ່ງຂ້ອຍເວົ້າວ່າໂຈນ້ອຍຕີດູເກີແລະມັນປາກົດວ່າລາວບໍ່ໄດ້ເຮັດແຕ່ຂ້ອຍບໍ່ຮູ້ວ່າເພາະວ່າ -
+
+60
+00:04:56,850 --> 00:04:58,850
+[JIMMY]
+Shut the fuck up!
+ປິດງຽບ!
+
+61
+00:04:59,350 --> 00:05:01,350
+[VITTI]
+Nicky, you know me, right?
+ນິກກີ, ເຈົ້າຮູ້ຈັກຂ້ອຍ, ແມ່ນບໍ?
+
+62
+00:05:01,850 --> 00:05:03,850
+[NICKY]
+Yeah.   You're Mr. Vitti.
+ແມ່ນແລ້ວ. ເຈົ້າເປັນທ່ານ Vitti.
+
+63
+00:05:04,350 --> 00:05:09,600
+[VITTI]
+And you know what I'm gonna do to you if you lie to me, right?
+ແລະເຈົ້າຮູ້ວ່າຂ້ອຍຈະເຮັດຫຍັງກັບເຈົ້າຖ້າເຈົ້າຕົວະຂ້ອຍ, ແມ່ນບໍ?
+
+64
+00:05:10,100 --> 00:05:13,950
+[NICKY]
+Uh, you're gonna crack me on the head with that pipe?
+ເຈົ້າຈະຕີຂ້ອຍໃສ່ຫົວດ້ວຍທໍ່ນັ້ນບໍ?
+
+65
+00:05:14,450 --> 00:05:16,900
+[JIMMY]
+It's a rhetorical question, you fuckin' idiot.
+ມັນເປັນຄໍາຖາມທາງດ້ານການເວົ້າ, ເຈົ້າໂຊກຮ້າຍ.
+
+66
+00:05:17,400 --> 00:05:21,600
+[VITTI]
+I'm only gonna ask you this one time. Who killed Dominic Manetta?
+ຂ້ອຍຈະຖາມເຈົ້າພຽງແຕ່ຄັ້ງດຽວນີ້. ໃຜໄດ້ຂ້າໂດມິນິກ ມາເນຕຕາ?
+
+67
+00:05:22,100 --> 00:05:24,100
+[NICKY]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+68
+00:05:24,600 --> 00:05:26,600
+[VITTI]
+Don't fuckin' lie to me!
+ຢ່າຕົວະຂ້ອຍ!
+
+69
+00:05:27,100 --> 00:05:29,200
+[NICKY]
+Honest to God, I don't know!
+ໂດຍຄວາມຈິງໃຈຕໍ່ພຣະເຈົ້າ, ຂ້ອຍບໍ່ຮູ້!
+
+70
+00:05:29,700 --> 00:05:31,700
+[VITTI]
+You little rat bastard...
+ເຈົ້າໂຊກຮ້າຍແມວນ້ອຍ...
+
+71
+00:05:32,200 --> 00:05:34,650
+[VITTI]
+Forget about it. He doesn't know anything.
+ລືມມັນ. ລາວບໍ່ຮູ້ຫຍັງເລີຍ.
+
+72
+00:05:35,150 --> 00:05:37,150
+[VITTI]
+Get him outta here.
+ເອົາລາວອອກຈາກບ່ອນນີ້.
+
+73
+00:05:37,650 --> 00:05:42,200
+[BEN]
+Look at this. Everybody's nuts. Ooh, I hate walking into that house late.
+ເບິ່ງສິ່ງນີ້ແມ. ທຸກຄົນໂຊກຮ້າຍ. ໂອ້,
+ຂ້ອຍກຽດຊັງທີ່ຈະເຂົ້າໄປໃນເຮືອນນັ້ນຊ້າ.
+
+74
+00:05:42,700 --> 00:05:48,300
+[MICHAEL]
+I think you're reacting like this because you're mad we have to go to this party.
+ຂ້ອຍຄິດວ່າເຈົ້າ ກໍາ
+ລັງປະຕິກິລິຍາແບບນີ້ເພາະວ່າເຈົ້າໂຊກຮ້າຍວ່າພວກເຮົາຕ້ອງໄປງານລ້ຽງນີ້.
+
+75
+00:05:48,800 --> 00:05:54,800
+[BEN]
+No. Don't. I'm not going to be analyzed by someone who up until a few years ago believed in Santa. Sorry, but we only have room for one Dr. Sobol in this family.
+ບໍ່. ຢ່າເຮັດ. ຂ້ອຍຈະບໍ່ຖືກວິເຄາະໂດຍຄົນໃດທີ່ຈົນຮອດສອງສາມປີກ່ອນທີ່ເຊື່ອໃນພະບູຊາບຸນ
+. ຂໍໂທດ, ແຕ່ພວກເຮົາມີບ່ອນພຽງແຕ່ດຣ ໂຊບອລຄົນດຽວໃນຄອບຄົວນີ້.
+
+76
+00:05:55,300 --> 00:05:58,450
+[MICHAEL]
+But there's two Dr. Sobols. There's you and Grandpa.
+ແຕ່ມີດຣ ໂຊບອລສ໌ສອງຄົນ. ມີເຈົ້າແລະພໍ່ເຖົ້າ.
+
+77
+00:05:58,950 --> 00:06:01,050
+[BEN]
+Can we talk about something else?
+ພວກເຮົາສາມາດເວົ້າກ່ຽວກັບບາງສິ່ງບາງຢ່າງອີກບໍ?
+
+78
+00:06:01,550 --> 00:06:06,450
+[MICHAEL]
+Are you going to read Grandpa's new book? Mom says you won't because you're...
+ເຈົ້າຈະອ່ານປື້ມໃຫມ່ຂອງພໍ່ເຖົ້າບໍ?
+ແມ່ເວົ້າວ່າເຈົ້າຈະບໍ່ເຮັດເພາະວ່າເຈົ້າເປັນ...
+
+79
+00:06:06,950 --> 00:06:12,550
+[BEN]
+Does your mother talk about anything else or is it just me twenty-four hours a day?
+ແມ່ຂອງເຈົ້າເວົ້າກ່ຽວກັບຫຍັງອີກບໍ
+ຫຼືມັນພຽງແຕ່ຂ້ອຍສິບສີ່ຊົ່ວໂມງຕໍ່ມື້ບໍ?
+
+80
+00:06:13,050 --> 00:06:16,200
+[BEN]
+That's your mother's fault!   Your mother did that! Damn!
+ນັ້ນແມ່ນຄວາມຜິດຂອງແມ່ຂອງເຈົ້າ! ແມ່ຂອງເຈົ້າເຮັດແບບນັ້ນ! ສະບາຍດີ!
+
+81
+00:06:16,700 --> 00:06:20,550
+[JIMMY]
+What's the matter with you?   Are you some kind of moron?
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ? ເຈົ້າເປັນຄົນໂຊກຮ້າຍບໍ?
+
+82
+00:06:21,050 --> 00:06:23,150
+[BEN]
+I'm sorry.   It's totally my fault.
+ຂ້ອຍຂໍໂທດ. ມັນເປັນຄວາມຜິດຂອງຂ້ອຍຢ່າງສົມບູນ.
+
+83
+00:06:23,650 --> 00:06:25,650
+[JIMMY]
+Did you see anything?
+ເຈົ້າເຫັນຫຍັງບໍ?
+
+84
+00:06:26,150 --> 00:06:31,050
+[BEN]
+I was talking to my son.   I took my eyes off the road --
+ຂ້ອຍ ກໍາ ລັງເວົ້າກັບລູກຊາຍຂອງຂ້ອຍ. ຂ້ອຍເອົາຕາອອກຈາກທາງ -
+
+85
+00:06:31,550 --> 00:06:34,000
+[JIMMY]
+Forget that bullshit.   Did you see anything?
+ລືມເລື່ອງນັ້ນ. ເຈົ້າເຫັນຫຍັງບໍ?
+
+86
+00:06:34,500 --> 00:06:39,750
+[JELLY]
+That's all right, sir. It's our fault for being in front of you like that.
+ມັນບໍ່ເປັນຫຍັງເດີ.
+ມັນເປັນຄວາມຜິດຂອງພວກເຮົາທີ່ຢູ່ຕໍ່ຫນ້າເຈົ້າແບບນັ້ນ.
+
+87
+00:06:40,250 --> 00:06:45,150
+[BEN]
+Well, I should have been watching. Let me give you my insurance information --
+ດີ, ຂ້ອຍຄວນເບິ່ງ. ຂໍໃຫ້ຂ້ອຍໃຫ້ເຈົ້າຂໍ້ມູນປະກັນໄພຂອງຂ້ອຍ -
+
+88
+00:06:45,650 --> 00:06:47,650
+[JELLY]
+It's okay.   Forget about it.
+ມັນບໍ່ເປັນຫຍັງ. ລືມມັນ.
+
+89
+00:06:48,150 --> 00:06:52,350
+[BEN]
+Really? It looks like your whole rear end might be screwed up.
+ແທ້ຈິງບໍ? ມັນເບິ່ງຄືວ່າດ້ານຫຼັງທັງ ຫມົດ ຂອງເຈົ້າອາດຈະຈົບແນ່.
+
+90
+00:06:52,850 --> 00:06:54,950
+[JELLY]
+No, it was like that before.
+ບໍ່, ມັນເປັນແບບນັ້ນກ່ອນ.
+
+91
+00:06:55,450 --> 00:06:57,550
+[BEN]
+Maybe we should call the police?
+ບາງທີພວກເຮົາຄວນໂທຫາຕໍາຫຼວດບໍ?
+
+92
+00:06:58,050 --> 00:07:00,050
+[JELLY]
+Why?    Fuck the police.
+ເປັນຫຍັງ? ໄປໂຊກຮ້າຍຕໍາຫຼວດ.
+
+93
+00:07:00,550 --> 00:07:02,550
+[BEN]
+Right!   Fuck 'em.
+ແມ່ນແລ້ວ! ໄປໂຊກຮ້າຍພວກເຂົາ.
+
+94
+00:07:03,050 --> 00:07:09,050
+[BEN]
+At least take my card. You might look at the damage in the morning and change your mind.
+ຢ່າງຫນ້ອຍເອົາບັດຂອງຂ້ອຍ.
+ເຈົ້າອາດຈະເບິ່ງຄວາມເສຍຫາຍໃນຕອນເຊົ້າແລະປ່ຽນໃຈ.
+
+95
+00:07:09,550 --> 00:07:11,550
+[JELLY]
+You're a doctor?
+ເຈົ້າເປັນຫມໍບໍ?
+
+96
+00:07:12,050 --> 00:07:14,050
+[BEN]
+Ph.D.    Psychologist.
+ນັກວິທະຍາສາດຈິດໃຈ PhD.
+
+97
+00:07:14,550 --> 00:07:17,700
+[JELLY]
+A shrink. You talk to a lotta nuts, huh?
+ເຈົ້າເວົ້າກັບຄົນໂຊກຮ້າຍຫຼາຍຄົນ, ແມ່ນບໍ?
+
+98
+00:07:18,200 --> 00:07:22,050
+[JELLY]
+Pings and knocks. Cheap gas. Hey, how do those minivans handle?
+ປິງແລະຕີ. ແກັສລາຄາຖືກ. ເຮ້, ລົດຕູ້
+minivan ເຫຼົ່ານັ້ນຮັບມືກັບແນວໃດ?
+
+99
+00:07:22,550 --> 00:07:24,550
+[JIMMY]
+Jelly!   Let's go!
+ເຈເລຍ! ໄປ!
+
+100
+00:07:25,050 --> 00:07:27,050
+[JELLY]
+Take it easy, Doc.
+ສະບາຍໃຈ, ດອກ.
+
+101
+00:07:27,550 --> 00:07:33,550
+[ISAAC]
+All right, neurotics only! Well, you must have been a beautiful ba-a-by, 'cause baby look at you now, thank God for Prozac, baby look at you now!
+ດີແລ້ວ, ພຽງແຕ່ neurotics! ດີ, ເຈົ້າຕ້ອງເປັນ ba-a-by ທີ່ສວຍງາມ,
+ເພາະວ່າເດັກນ້ອຍເບິ່ງເຈົ້າດຽວນີ້, ຂອບໃຈພຣະເຈົ້າສໍາລັບ Prozac, ເດັກນ້ອຍເບິ່ງເຈົ້າ ດຽວນີ້!
+
+102
+00:07:34,050 --> 00:07:37,550
+[BEN]
+What do you mean you're not coming? It's my wedding.
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດວ່າເຈົ້າຈະບໍ່ມາ? ມັນແມ່ນງານແຕ່ງງານຂອງຂ້ອຍ.
+
+103
+00:07:38,050 --> 00:07:44,050
+[DOROTHY]
+We understand it's a special day for you, Benny, but your father and I can't just pick up and leave town every time you decide to get married.
+ພວກເຮົາເຂົ້າໃຈວ່າມັນເປັນມື້ພິເສດ ສໍາ ລັບເຈົ້າ, ເບນນີ,
+ແຕ່ພໍ່ເຈົ້າແລະຂ້ອຍບໍ່ສາມາດເອົາແລະອອກຈາກເມືອງໄດ້ທຸກຄັ້ງທີ່ທ່ານຕັດສິນໃຈແຕ່ງງານ.
+
+104
+00:07:44,550 --> 00:07:47,700
+[BEN]
+Every time? This is a once-in-a- -- twice-in-a-lifetime thing.
+ທຸກຄັ້ງບໍ? ນີ້ແມ່ນສິ່ງຫນຶ່ງໃນຫນຶ່ງ - ສອງຄັ້ງໃນຊີວິດ.
+
+105
+00:07:48,200 --> 00:07:50,650
+[BEN]
+Dad, you're not coming to my wedding?
+ພໍ່, ເຈົ້າຈະບໍ່ມາງານແຕ່ງງານຂອງຂ້ອຍບໍ?
+
+106
+00:07:51,150 --> 00:07:57,150
+[ISAAC]
+We want to be there, but I have three book signings next weekend. I can't piss off these big book stores. If I cancel, they'll stick me down on the bottom shelf. That's how they are.
+ພວກເຮົາຢາກຢູ່ບ່ອນນັ້ນ, ແຕ່ຂ້ອຍມີການລົງນາມປື້ມສາມຄັ້ງໃນທ້າຍອາທິດຫນ້າ. ຂ້ອຍບໍ່ສາມາດເຮັດໃຫ້ຮ້ານຂາຍປຶ້ມໃຫຍ່ເຫຼົ່ານີ້ໂຊກຮ້າຍໄດ້
+. ຖ້າຂ້ອຍຍົກເລີກ, ພວກເຂົາຈະຕິດຂ້ອຍລົງໃນຈານລຸ່ມ. ນັ້ນແມ່ນວິທີທີ່ພວກເຂົາເປັນ.
+
+107
+00:07:57,650 --> 00:08:03,250
+[BEN]
+Yeah, that's the word on the street. The self-help book business is full of vindictive pricks.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນຄໍາເວົ້າໃນຖະຫນົນຫົນທາງ.
+ທຸລະກິດປື້ມຊ່ວຍຕົນເອງເຕັມໄປດ້ວຍຄົນໂຊກຮ້າຍທີ່ແກ້ແຄ້ນ.
+
+108
+00:08:03,750 --> 00:08:05,750
+[DOROTHY]
+Ben!   The language.
+ແບນ! ພາສາ.
+
+109
+00:08:06,250 --> 00:08:12,250
+[BEN]
+I'm sorry, but I've been alone for eight years, now I've finally met someone I want to spend the rest of my life with and I would really like you to meet her before we get married. You're going to be her family. I think it's better she knows that up front.
+ຂ້ອຍຂໍໂທດ, ແຕ່ຂ້ອຍຢູ່ຄົນດຽວເປັນເວລາແປດປີແລ້ວ, ດຽວນີ້ຂ້ອຍໄດ້ພົບຄົນ ຫນຶ່ງ
+ທີ່ຂ້ອຍຢາກໃຊ້ເວລາສ່ວນທີ່ເຫຼືອຂອງຊີວິດຂອງຂ້ອຍກັບແລະຂ້ອຍຢາກໃຫ້ເຈົ້າພົບກັບນາງກ່ອນທີ່ພວກເຮົາຈະແຕ່ງງານ. ເຈົ້າຈະເປັນຄອບຄົວຂອງນາງ. ຂ້ອຍຄິດວ່າມັນດີກວ່ານາງຈະຮູ້ສິ່ງນັ້ນກ່ອນ.
+
+110
+00:08:12,750 --> 00:08:14,750
+[ISAAC]
+You're really hostile tonight.
+ເຈົ້າເປັນສັດຕູແທ້ໆໃນຄືນນີ້.
+
+111
+00:08:15,250 --> 00:08:17,250
+[BEN]
+I'm joking.
+ຂ້ອຍໂຊກຮ້າຍ.
+
+112
+00:08:17,750 --> 00:08:20,550
+[DOROTHY]
+I think I'll go talk to the mayor.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະໄປເວົ້າກັບເຈົ້າເມືອງ.
+
+113
+00:08:21,050 --> 00:08:23,050
+[BEN]
+The mayor's here?
+ເຈົ້າເມືອງຢູ່ບ່ອນນີ້ບໍ?
+
+114
+00:08:23,550 --> 00:08:25,550
+[DOROTHY]
+I can only hope.
+ຂ້ອຍພຽງແຕ່ຫວັງເທົ່ານັ້ນ.
+
+115
+00:08:26,050 --> 00:08:28,050
+[ISAAC]
+What's wrong?
+ມີຫຍັງຂຶ້ນ?
+
+116
+00:08:28,550 --> 00:08:30,550
+[BEN]
+Nothing.   Everything's fine.
+ບໍ່ມີຫຍັງເລີຍ. ທຸກຢ່າງບໍ່ເປັນຫຍັງ.
+
+117
+00:08:31,050 --> 00:08:33,050
+[ISAAC]
+How's your practice?
+ການຝຶກຊ້ອມຂອງທ່ານເປັນແນວໃດ?
+
+118
+00:08:33,550 --> 00:08:38,800
+[BEN]
+It's great. Just great. I've got some very interesting patients -- extremely interesting. Fascinating actually.
+ມັນດີເລີດ. ພຽງແຕ່ວ່ານ້ອຍໆ. ຂ້ອຍມີຄົນເຈັບທີ່ຫນ້າສົນໃຈຫຼາຍ
+- ຫນ້າ ສົນໃຈຫຼາຍ. ຫນ້າ ປະທັບໃຈແທ້ໆ.
+
+119
+00:08:39,300 --> 00:08:42,450
+[MICHAEL]
+Dad has a patient who dreams he shits trout.
+ພໍ່ມີຄົນເຈັບທີ່ຝັນວ່າລາວສີດທຣູຕ໌.
+
+120
+00:08:42,950 --> 00:08:44,950
+[BEN]
+Thanks, Mike.
+ຂອບໃຈໄມຄ໌.
+
+121
+00:08:45,450 --> 00:08:47,450
+[ISAAC]
+Excuse us, Michael.
+ຂໍໂທດພວກເຮົາ, ໄມເກວ.
+
+122
+00:08:47,950 --> 00:08:53,950
+[ISAAC]
+Why are you wasting your time out there in the boondocks? New York City is the Mecca of Madness.
+ເຈົ້າ ກໍາ ລັງເສຍເວລາຢູ່ບ່ອນນັ້ນເປັນຫຍັງ
+? ນະຄອນນິວຢອກແມ່ນ Mecca ຂອງຄວາມໂຊກຮ້າຍ.
+
+123
+00:08:54,450 --> 00:09:00,450
+[BEN]
+I'm just not sure I could spend my life dealing with people whose biggest crisis is how to fire the maid.
+ຂ້ອຍພຽງແຕ່ບໍ່ແນ່ໃຈວ່າຂ້ອຍສາມາດໃຊ້ຊີວິດຂອງຂ້ອຍໃນການຈັດການກັບຄົນທີ່ມີວິກິດການທີ່ໃຫຍ່ທີ່ສຸດແມ່ນວິທີການໄລ່ຜູ້ຮັບໃຊ້
+.
+
+124
+00:09:00,950 --> 00:09:04,450
+[ISAAC]
+It beats a guy with an ass full of flounder.
+ມັນເອົາຊະນະຜູ້ຊາຍທີ່ມີບາກເຕັມໄປດ້ວຍ flunder ໄດ້.
+
+125
+00:09:04,950 --> 00:09:07,050
+[BEN]
+Trout! And don't minimize my practice.
+ທຣູຕ໌! ແລະຢ່າຫຼຸດຜ່ອນການຝຶກອົບຮົມຂອງຂ້ອຍ.
+
+126
+00:09:07,550 --> 00:09:12,450
+[ISAAC]
+Why are you getting so defensive? This is about your own feelings of inadequacy.
+ເຈົ້າ ກໍາ ລັງປ້ອງກັນຕົວຫຼາຍປານໃດ?
+ນີ້ແມ່ນກ່ຽວກັບຄວາມຮູ້ສຶກຂອງເຈົ້າເອງວ່າບໍ່ພຽງພໍ.
+
+127
+00:09:12,950 --> 00:09:17,150
+[BEN]
+You always turn it back on me. Why do you do that?
+ເຈົ້າປ່ຽນມັນກັບຂ້ອຍຢູ່ສະເຫມີ. ເຈົ້າເຮັດແບບນັ້ນເປັນຫຍັງ?
+
+128
+00:09:17,650 --> 00:09:20,100
+[ISAAC]
+Why do you think I do that?
+ເຈົ້າຄິດວ່າຂ້ອຍເຮັດແບບນັ້ນເປັນຫຍັງ?
+
+129
+00:09:20,600 --> 00:09:26,600
+[BEN]
+Why do you think I think you do that? Go ahead, now you ask me why I think you think I think you do that.
+ເຈົ້າຄິດວ່າຂ້ອຍຄິດວ່າເຈົ້າເຮັດແບບນັ້ນເປັນຫຍັງ? ໄປກ່ອນ,
+ດຽວນີ້ເຈົ້າຖາມຂ້ອຍວ່າເປັນຫຍັງຂ້ອຍຄິດວ່າທ່ານຄິດວ່າ ຂ້ອຍຄິດວ່າທ່ານເຮັດສິ່ງນັ້ນ.
+
+130
+00:09:27,100 --> 00:09:33,100
+[ISAAC]
+Enough. I want you to think about what I said. And when you're ready to talk to me like a normal person, I'll be at the piano with Regis Philbin.  Rege!
+ພຽງພໍ. ຂ້ອຍຢາກໃຫ້ເຈົ້າຄິດກ່ຽວກັບສິ່ງທີ່ຂ້ອຍເວົ້າ.
+ແລະເມື່ອເຈົ້າພ້ອມທີ່ຈະເວົ້າກັບຂ້ອຍຄືກັບຄົນປົກກະຕິ, ຂ້ອຍຈະຢູ່ເທິງປິໂອນກັບເຣຈສ໌ ຟີລບິນ. ຣີຈ໌!
+
+131
+00:09:33,600 --> 00:09:35,600
+[REGIS PHILBIN]
+I'm not singing, Isaac!
+ຂ້ອຍບໍ່ໄດ້ຮ້ອງເພງ, ໄອຊັກ!
+
+132
+00:09:36,100 --> 00:09:39,250
+[ISAAC]
+Now, ladies and gentlemen, at the piano, Regis Philbin!
+ດຽວນີ້, ພວກທ່ານແລະພວກທ່ານ, ຢູ່ເທິງປິໂອເນຍ, ຣີຈິສ ຟີລບິນ!
+
+133
+00:09:39,750 --> 00:09:45,350
+[BEN]
+Thomas Wolfe was right. You can't go home again -- because your parents still live there.
+ໂຕມັສ ວູລຟ໌ແມ່ນຖືກຕ້ອງ. ເຈົ້າບໍ່ສາມາດກັບບ້ານອີກເທື່ອຫນຶ່ງໄດ້
+- ເພາະວ່າພໍ່ແມ່ຂອງເຈົ້າຍັງອາໄສຢູ່ບ່ອນນັ້ນ.
+
+134
+00:09:45,850 --> 00:09:50,750
+[MASIELLO]
+The Manetta family is asking a lot of questions. They think we hit Dominic.
+ຄອບຄົວແມເນຕຕາ ກໍາ ລັງຖາມຫຼາຍຄໍາຖາມ
+. ພວກເຂົາຄິດວ່າພວກເຮົາໄດ້ຕີໂດມິນິກ.
+
+135
+00:09:51,250 --> 00:09:56,150
+[MANGANO]
+Forget Dominic! They were after Paul.  It's a miracle you survived. I thank God.
+ລືມໂດມິນິກ! ພວກເຂົາ ກໍາ ລັງຕິດຕາມໂປລ.
+ມັນເປັນສິ່ງມະຫັດສະຈັນທີ່ເຈົ້າລອດຊີວິດ. ຂ້ອຍຂອບໃຈພຣະເຈົ້າ.
+
+136
+00:09:56,650 --> 00:10:02,650
+[VITTI]
+Yeah, thank God. All I know is if I didn't have some veal stuck in my teeth, I'd be laying there with Dominic.
+ແມ່ນແລ້ວ, ຂອບໃຈພຣະເຈົ້າ. ຂ້ອຍພຽງແຕ່ຮູ້ວ່າຖ້າຂ້ອຍບໍ່ມີຊີ້ນງົວບາງຢ່າງຕິດຢູ່ໃນແຂ້ວຂອງຂ້ອຍ
+, ຂ້ອຍຈະນອນຢູ່ບ່ອນນັ້ນກັບໂດມິນິກ.
+
+137
+00:10:03,150 --> 00:10:08,400
+[JOHNNY BIGS]
+This is all about the big meeting. Primo Sindone wants to run the whole show.
+ນີ້ແມ່ນທັງ ຫມົດ ກ່ຽວກັບກອງປະຊຸມໃຫຍ່.
+ປຣີໂມ ຊິນໂດນຢາກ ດໍາ ເນີນງານທັງ ຫມົດ.
+
+138
+00:10:08,900 --> 00:10:14,900
+[MANGANO]
+Yeah, but Primo's a boss. He knows the rules. He couldn't go after Dominic and Paul unless the other families gave their permission.
+ແມ່ນແລ້ວ, ແຕ່ປຣີໂມແມ່ນຫົວຫນ້າ. ລາວຮູ້ກົດລະບຽບ.
+ລາວບໍ່ສາມາດໄປຕາມໂດມິນິກແລະໂປລໄດ້ເວັ້ນເສຍແຕ່ວ່າຄອບຄົວອື່ນໆໃຫ້ອະນຸຍາດຂອງພວກເຂົາ.
+
+139
+00:10:15,400 --> 00:10:21,400
+[VITTI]
+If they did, we're heading for one big fuckin' war.  Talk to Zello and Baldassare. Find out what you can. We got two weeks. If the other New York bosses are against us, I want to know it before I walk into that meeting.
+ຖ້າພວກເຂົາເຮັດ, ພວກເຮົາ ກໍາ ລັງໄປສູ່ສົງຄາມທີ່ໃຫຍ່ໆ ຫນຶ່ງ. ເວົ້າກັບ Zello ແລະ Baldassare. ຊອກຫາສິ່ງທີ່ເຈົ້າສາມາດເຮັດໄດ້
+. ພວກເຮົາມີສອງອາທິດ. ຖ້າຫົວຫນ້ານິວຢອກອື່ນໆຕໍ່ຕ້ານພວກເຮົາ, ຂ້ອຍຢາກຮູ້ມັນກ່ອນທີ່ຈະເຂົ້າໄປໃນກອງປະຊຸມນັ້ນ.
+
+140
+00:10:21,900 --> 00:10:24,700
+[MANGANO]
+You all right, Paul? You don't look good.
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ, ໂປລ? ເຈົ້າເບິ່ງບໍ່ດີ.
+
+141
+00:10:25,200 --> 00:10:29,050
+[VITTI]
+I'm a little choked up here.   I gotta get some air.
+ຂ້ອຍຕື່ນເຕັ້ນຢູ່ບ່ອນນີ້ເລັກນ້ອຍ. ຂ້ອຍຕ້ອງຫາຍໃຈບາງຢ່າງ.
+
+142
+00:10:29,550 --> 00:10:31,550
+[JELLY]
+You feel all right?
+ເຈົ້າຮູ້ສຶກດີບໍ?
+
+143
+00:10:32,050 --> 00:10:36,600
+[VITTI]
+I feel like shit. This whole thing is like a huge fuckin' headache.
+ຂ້ອຍຮູ້ສຶກວ່າໂຊກແຊງ. ເລື່ອງທັງ ຫມົດ
+ນີ້ຄືກັບຄວາມເຈັບຫົວທີ່ໃຫຍ່ຫຼວງ.
+
+144
+00:10:37,100 --> 00:10:39,200
+[JELLY]
+You havin' one of those mindgrains?
+ເຈົ້າມີ ຫນຶ່ງ ໃນເມັດຈິດໃຈນັ້ນບໍ?
+
+145
+00:10:39,700 --> 00:10:41,700
+[VITTI]
+Get the car.
+ເອົາລົດ.
+
+146
+00:10:42,200 --> 00:10:45,350
+[DOCTOR]
+Good news, Mr. Evans.   Your heart is just fine.
+ຂ່າວດີ, ທ້າວເອວານສ໌. ຫົວໃຈຂອງທ່ານບໍ່ເປັນຫຍັງ.
+
+147
+00:10:45,850 --> 00:10:51,450
+[VITTI]
+How could it be fine? I've had like eight heart attacks in the last three weeks.
+ມັນຈະດີໄດ້ແນວໃດ?
+ຂ້ອຍໄດ້ຮັບການໂຈມຕີຫົວໃຈປະມານແປດຄັ້ງໃນສາມອາທິດທີ່ຜ່ານມາ.
+
+148
+00:10:51,950 --> 00:10:56,150
+[DOCTOR]
+Well, based on everything, I'd say you probably had an anxiety attack.
+ດີ, ອີງຕາມທຸກຢ່າງ, ຂ້ອຍຈະເວົ້າວ່າເຈົ້າອາດຈະມີການໂຈມຕີຄວາມກັງວົນ.
+
+149
+00:10:56,650 --> 00:10:58,650
+[VITTI]
+What?
+ຫຍັງ?
+
+150
+00:10:59,150 --> 00:11:05,150
+[DOCTOR]
+An anxiety attack. A panic attack. I can give you some Xanax if it happens again soon --
+ການໂຈມຕີຄວາມກັງວົນ. ການໂຮມຄວາມຢ້ານກົວ.
+ຂ້ອຍສາມາດໃຫ້ເຈົ້າແຊນາກສ໌ບາງຢ່າງຖ້າມັນເກີດຂຶ້ນອີກຄັ້ງໃນໄວໆນີ້ -
+
+151
+00:11:05,650 --> 00:11:09,500
+[VITTI]
+Look at me. Do I look like a guy who panics?
+ເບິ່ງຂ້ອຍແມ. ຂ້ອຍເບິ່ງຄືວ່າເປັນຜູ້ຊາຍທີ່ຢ້ານກົວບໍ?
+
+152
+00:11:10,000 --> 00:11:13,850
+[DOCTOR]
+There's nothing -- I mean -- it's a common thing --
+ບໍ່ມີຫຍັງເລີຍ - ຂ້ອຍຫມາຍຄວາມວ່າ - ມັນເປັນສິ່ງທົ່ວໄປ -
+
+153
+00:11:14,350 --> 00:11:19,600
+[VITTI]
+Where did you go to medical school? I had a heart attack, you quack bastard.
+ເຈົ້າໄປໂຮງຮຽນການແພດຢູ່ໃສ?
+ຂ້ອຍໄດ້ຮັບການໂຈມຕີຫົວໃຈ, ເຈົ້າຢອກຊື່ໆຮ້າຍ.
+
+154
+00:11:20,100 --> 00:11:22,200
+[DOCTOR]
+Well, not according to these --
+ດີ, ບໍ່ຕາມສິ່ງເຫຼົ່ານີ້ -
+
+155
+00:11:22,700 --> 00:11:28,300
+[VITTI]
+Listen to me, jerk-off. I had a mild heart attack and now it's over. You understand?
+ຟັງຂ້ອຍແມ. ຂ້ອຍໄດ້ຮັບການໂຈມຕີຫົວໃຈທີ່ອ່ອນແອແລະດຽວນີ້ມັນຫມົດແລ້ວ
+. ເຈົ້າເຂົ້າໃຈບໍ?
+
+156
+00:11:28,800 --> 00:11:34,400
+[VITTI]
+If anyone asks you, you never saw me, and I was never here. Is that clear?
+ຖ້າໃຜຖາມເຈົ້າ, ເຈົ້າບໍ່ເຄີຍເຫັນຂ້ອຍເລີຍ,
+ແລະຂ້ອຍບໍ່ເຄີຍຢູ່ບ່ອນນີ້ເລີຍ. ມັນເຂົ້າໃຈບໍ?
+
+157
+00:11:34,900 --> 00:11:36,900
+[DOCTOR]
+Yes.
+ແມ່ນແລ້ວ.
+
+158
+00:11:37,400 --> 00:11:39,400
+[VITTI]
+Good.  Take the chart.
+ດີ. ເອົາຕາຕະລາງ.
+
+159
+00:11:39,900 --> 00:11:44,100
+[VITTI]
+Jelly, I need you to do something for me as my friend.
+ເຈເລຍ, ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າເຮັດບາງສິ່ງບາງຢ່າງ
+ສໍາ ລັບຂ້ອຍເປັນເພື່ອນຂອງຂ້ອຍ.
+
+160
+00:11:44,600 --> 00:11:46,600
+[JELLY]
+Anything.
+ທຸກຢ່າງ.
+
+161
+00:11:47,100 --> 00:11:49,550
+[VITTI]
+You have to find me a doctor.
+ເຈົ້າຕ້ອງຊອກຫາຫມໍໃຫ້ຂ້ອຍ.
+
+162
+00:11:50,050 --> 00:11:52,150
+[JELLY]
+We just came from the doctor.
+ພວກເຮົາຫາກໍ່ມາຈາກຫມໍ.
+
+163
+00:11:52,650 --> 00:11:56,150
+[VITTI]
+Not that kind of doctor.   I need a head doctor.
+ບໍ່ແມ່ນຫມໍປະເພດນັ້ນ. ຂ້ອຍຕ້ອງການຫມໍຫົວຫນ້າ.
+
+164
+00:11:56,650 --> 00:12:02,650
+[JELLY]
+You're gonna change your face like Sonny Black? Don't get his nose though, he looks like a pig.
+ເຈົ້າຈະປ່ຽນໃບຫນ້າຂອງທ່ານຄືກັບໂຊນນີ ບລາກບໍ?
+ຢ່າເອົາດັງຂອງລາວເຖິງຢ່າງໃດກໍ່ຕາມ, ລາວເບິ່ງຄືວ່າເປັນຫມູ.
+
+165
+00:12:03,150 --> 00:12:07,700
+[VITTI]
+Not a plastic surgeon, ya spoostud. Do I have to spell everything out?
+ບໍ່ແມ່ນຜ່າຕັດພລາສຕິກ, ເຈົ້າເປັນນັກສຶກສາ. ຂ້ອຍຕ້ອງຂຽນທຸກຢ່າງອອກບໍ?
+
+166
+00:12:08,200 --> 00:12:10,200
+[JELLY]
+It saves time.
+ມັນຊ່ວຍປະຢັດເວລາ.
+
+167
+00:12:10,700 --> 00:12:13,500
+[VITTI]
+I need you to find me a psychiatrist.
+ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າຊອກຫາແພດຈິດໃຈໃຫ້ຂ້ອຍ.
+
+168
+00:12:14,000 --> 00:12:20,000
+[JELLY]
+Wow. This is like the Psychic Network or something. I just ran into a psychiatrist. Actually he ran into me.
+ໂວ້. ນີ້ແມ່ນຄືກັບເຄືອຂ່າຍຈິດໃຈຫຼືບາງສິ່ງບາງຢ່າງ.
+ຂ້ອຍຫາກໍ່ພົບກັບແພດຈິດວິນຍານ. ໃນຄວາມເປັນຈິງລາວພົບຂ້ອຍ.
+
+169
+00:12:20,500 --> 00:12:22,500
+[VITTI]
+Is he any good?
+ລາວດີບໍ?
+
+170
+00:12:23,000 --> 00:12:28,250
+[JELLY]
+Yeah, he seemed like a smart guy. He had a business card and everything --
+ແມ່ນແລ້ວ, ລາວເບິ່ງຄືວ່າເປັນຜູ້ຊາຍສະຫຼາດ
+. ລາວມີບັດທຸລະກິດແລະທຸກຢ່າງ -
+
+171
+00:12:28,750 --> 00:12:31,900
+[VITTI]
+He had a card? That's a real fuckin' achievement.
+ລາວມີບັດບໍ? ນັ້ນແມ່ນຜົນສໍາເລັດທີ່ແທ້ຈິງ.
+
+172
+00:12:32,400 --> 00:12:35,200
+[JELLY]
+What do you need a shrink for anyway?
+ເຈົ້າຕ້ອງການຈິດໃຈຫຍັງຢ່າງໃດກໍ່ຕາມ?
+
+173
+00:12:35,700 --> 00:12:41,700
+[VITTI]
+It's not for me. It's for a friend. This friend is having some problems, so I'm going to ask the shrink some questions and get some answers for my friend.
+ມັນບໍ່ແມ່ນ ສໍາ ລັບຂ້ອຍ. ມັນແມ່ນ ສໍາ ລັບເພື່ອນຄົນຫນຶ່ງ. ເພື່ອນຄົນນີ້ ກໍາ ລັງມີບັນຫາບາງຢ່າງ
+, ສະນັ້ນຂ້ອຍຈະຖາມນັກຈິດໃຈບາງ ຄໍາ ຖາມແລະໄດ້ຮັບ ຄໍາ ຕອບບາງຢ່າງສໍາລັບເພື່ອນຂອງຂ້ອຍ.
+
+174
+00:12:42,200 --> 00:12:44,200
+[JELLY]
+Got it.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+175
+00:12:44,700 --> 00:12:50,700
+[VITTI]
+And nobody can know. If anyone hears I'm talking to a shrink, it could be interpreted the wrong way. You know what I mean?
+ແລະບໍ່ມີໃຜສາມາດຮູ້ໄດ້. ຖ້າໃຜໄດ້ຍິນວ່າຂ້ອຍ ກໍາ ລັງເວົ້າກັບນັກຈິດໃຈ
+, ມັນອາດຈະຖືກຕີຄວາມຜິດທາງ. ເຈົ້າຮູ້ວ່າຂ້ອຍ ຫມາຍ ຄວາມວ່າແນວໃດ?
+
+176
+00:12:51,200 --> 00:12:54,350
+[JELLY]
+Of course. Absolutely.  Can I ask you one thing?
+ແນ່ນອນ. ຢ່າງແນ່ນອນ. ຂ້ອຍສາມາດຖາມເຈົ້າສິ່ງດຽວໄດ້ບໍ?
+
+177
+00:12:54,850 --> 00:12:56,850
+[VITTI]
+What?
+ຫຍັງ?
+
+178
+00:12:57,350 --> 00:12:59,350
+[JELLY]
+This friend.    Is it me?
+ເພື່ອນຄົນນີ້. ມັນແມ່ນຂ້ອຍບໍ?
+
+179
+00:12:59,850 --> 00:13:04,750
+[BEN]
+Carl, I'm detecting a pattern here. You seem to settle too easily for things.
+ຄາລ, ຂ້ອຍ ກໍາ ລັງກວດພົບຮູບແບບຢູ່ບ່ອນນີ້.
+ເຈົ້າເບິ່ງຄືວ່າຕົກລົງງ່າຍເກີນໄປ ສໍາ ລັບສິ່ງຕ່າງໆ.
+
+180
+00:13:05,250 --> 00:13:07,250
+[CARL]
+You're right.    I do.
+ເຈົ້າເວົ້າຖືກຕ້ອງ. ຂ້ອຍເຮັດ.
+
+181
+00:13:07,750 --> 00:13:13,700
+[BEN]
+No, well, there you go. You just did it again. I suggested something and you immediately agreed.
+ບໍ່, ດີ, ເຈົ້າໄປແລ້ວ. ເຈົ້າພຽງແຕ່ເຮັດມັນອີກຄັ້ງ
+. ຂ້ອຍແນະ ນໍາ ບາງສິ່ງບາງຢ່າງແລະເຈົ້າເຫັນດີທັນທີ.
+
+182
+00:13:14,200 --> 00:13:16,200
+[CARL]
+You're right.    I did.
+ເຈົ້າເວົ້າຖືກຕ້ອງ. ຂ້ອຍເຮັດ.
+
+183
+00:13:16,700 --> 00:13:19,150
+[BEN]
+Why do you think you do that?
+ເຈົ້າຄິດວ່າເຈົ້າເຮັດແບບນັ້ນເປັນຫຍັງ?
+
+184
+00:13:19,650 --> 00:13:21,650
+[CARL]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+185
+00:13:22,150 --> 00:13:28,150
+[BEN]
+Well, sometimes people do it because they fear rejection or disapproval, but you can't let that worry you, Carl. And you can't agree with things just for the sake of agreeing. Stand your ground. Don't let people roll over you.
+ດີ, ບາງຄັ້ງຄົນເຮັດມັນເພາະວ່າພວກເຂົາຢ້ານກົວການປະຕິເສດຫຼືບໍ່ເຫັນດີ, ແຕ່ເຈົ້າບໍ່ສາມາດປ່ອຍໃຫ້ສິ່ງນັ້ນກັງວົນເຈົ້າໄດ້,
+ຄາລ. ແລະເຈົ້າບໍ່ສາມາດເຫັນດີກັບສິ່ງບາງຢ່າງພຽງແຕ່ເພື່ອຄວາມເຫັນດີ. ຢືນຢູ່ບ່ອນຂອງທ່ານ. ຢ່າປ່ອຍໃຫ້ຄົນຍ່າງຢູ່ເທິງເຈົ້າ.
+
+186
+00:13:28,650 --> 00:13:30,650
+[JELLY]
+Dr. Sobol?
+ດຣ ໂຊບອລ?
+
+187
+00:13:31,150 --> 00:13:33,600
+[BEN]
+Excuse me!    I'm in a session here.
+ຂໍໂທດຂ້ອຍ! ຂ້ອຍຢູ່ໃນກອງປະຊຸມຢູ່ນີ້.
+
+188
+00:13:34,100 --> 00:13:36,100
+[JELLY]
+Yeah, I know, I'm sorry.
+ແມ່ນແລ້ວ, ຂ້ອຍຮູ້, ຂ້ອຍຂໍໂທດ.
+
+189
+00:13:36,600 --> 00:13:40,450
+[BEN]
+You're... You're one of the guys I rear-ended the other night.
+ເຈົ້າເປັນ... ເຈົ້າເປັນຄົນ ຫນຶ່ງ
+ໃນພວກຜູ້ຊາຍທີ່ຂ້ອຍພົບກັບຫຼັງໃນຄືນກ່ອນ.
+
+190
+00:13:40,950 --> 00:13:42,950
+[JELLY]
+Bingo.  Get outta here.
+ບິງໂກ. ອອກຈາກບ່ອນນີ້.
+
+191
+00:13:43,450 --> 00:13:45,550
+[JELLY]
+Upsa-daisy.   You got a coat, nutbar?
+ເຈົ້າມີເສື້ອຜ້າບໍ, ໂນດບາ?
+
+192
+00:13:46,050 --> 00:13:48,050
+[BEN]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+193
+00:13:48,550 --> 00:13:50,550
+[JELLY]
+He's leaving.
+ລາວ ກໍາ ລັງອອກໄປ.
+
+194
+00:13:51,050 --> 00:13:55,950
+[BEN]
+The hell he is. He's not going anywhere until we're done with his session.
+ລາວເປັນຫຍັງ. ລາວຈະບໍ່ໄປບ່ອນໃດຈົນກວ່າພວກເຮົາຈະເຮັດ
+ສໍາ ເລັດການປະຊຸມຂອງລາວ.
+
+195
+00:13:56,450 --> 00:14:00,300
+[JELLY]
+I'll give you a hundred bucks to get out of here.
+ຂ້ອຍຈະໃຫ້ເຈົ້າເງິນສິບໂດລາເພື່ອອອກຈາກບ່ອນນີ້.
+
+196
+00:14:00,800 --> 00:14:02,800
+[BEN]
+Don't take it, Carl.
+ຢ່າເອົາມັນ, ຄາລ.
+
+197
+00:14:03,300 --> 00:14:05,300
+[JELLY]
+A hundred and fifty.
+ສິບຫ້າສິບ.
+
+198
+00:14:05,800 --> 00:14:07,800
+[BEN]
+He's not leaving.
+ລາວຈະບໍ່ອອກໄປ.
+
+199
+00:14:08,300 --> 00:14:10,300
+[CARL]
+Three hundred.
+ສາມຮ້ອຍ.
+
+200
+00:14:10,800 --> 00:14:12,800
+[JELLY]
+You're not that fuckin' crazy.
+ເຈົ້າບໍ່ແມ່ນຄົນໂຊກຮ້າຍຫຼາຍປານໃດ.
+
+201
+00:14:13,300 --> 00:14:19,300
+[BEN]
+Listen, if you're upset about your car, I can understand that. But you don't just barge in here --
+ຟັງ, ຖ້າເຈົ້າໂຊກຮ້າຍກ່ຽວກັບລົດຂອງທ່ານ,
+ຂ້ອຍສາມາດເຂົ້າໃຈໄດ້. ແຕ່ເຈົ້າບໍ່ພຽງແຕ່ເຂົ້າມາບ່ອນນີ້ -
+
+202
+00:14:19,800 --> 00:14:21,800
+[VITTI]
+You know who I am?
+ເຈົ້າຮູ້ວ່າຂ້ອຍເປັນໃຜບໍ?
+
+203
+00:14:22,300 --> 00:14:24,300
+[BEN]
+Yes.
+ແມ່ນແລ້ວ.
+
+204
+00:14:24,800 --> 00:14:26,800
+[VITTI]
+No you don't.
+ບໍ່ ເຈົ້າບໍ່ເຮັດ.
+
+205
+00:14:27,300 --> 00:14:29,300
+[BEN]
+Okay.
+ດີແລ້ວ.
+
+206
+00:14:29,800 --> 00:14:32,250
+[VITTI]
+You've seen my picture in the papers?
+ເຈົ້າເຫັນຮູບຂອງຂ້ອຍໃນຫນັງສືພິມບໍ?
+
+207
+00:14:32,750 --> 00:14:34,750
+[BEN]
+Yes.    And no.    Sometimes.   Never.
+ແມ່ນແລ້ວ. ແລະບໍ່. ບາງຄັ້ງ. ບໍ່ເຄີຍ.
+
+208
+00:14:35,250 --> 00:14:37,250
+[VITTI]
+Jelly, wait outside.
+ເຈເລຍ, ລໍຖ້າຢູ່ພາຍນອກ.
+
+209
+00:14:37,750 --> 00:14:39,750
+[VITTI]
+Sit down.
+ນັ່ງລົງ.
+
+210
+00:14:40,250 --> 00:14:42,250
+[BEN]
+Sure.
+ແນ່ນອນ.
+
+211
+00:14:42,750 --> 00:14:44,750
+[VITTI]
+Tony Bennett, huh?
+ໂຕນີ ເບນເນັດ, ແມ່ນບໍ?
+
+212
+00:14:45,250 --> 00:14:47,250
+[BEN]
+Yeah.   He's my favorite.
+ແມ່ນແລ້ວ. ລາວເປັນຄົນທີ່ຂ້ອຍມັກທີ່ສຸດ.
+
+213
+00:14:47,750 --> 00:14:53,750
+[BEN]
+Mr. Vitti, I tried to give the guy my insurance information, but he wouldn't take it. Seriously, I tried several times because it was all my please don't kill me.
+ທ້າວ Vitti, ຂ້ອຍພະຍາຍາມໃຫ້ຄົນນັ້ນຂໍ້ມູນປະກັນໄພຂອງຂ້ອຍ, ແຕ່ລາວຈະບໍ່ເອົາມັນ.
+ຢ່າງຈິງໃຈ, ຂ້ອຍໄດ້ພະຍາຍາມຫຼາຍຄັ້ງເພາະວ່າມັນເປັນຂອງຂ້ອຍທັງ ຫມົດ ກະລຸນາຢ່າຂ້າຂ້ອຍ.
+
+214
+00:14:54,250 --> 00:14:57,400
+[VITTI]
+I was just gonna ask if you liked baseball.
+ຂ້ອຍພຽງແຕ່ຈະຖາມວ່າເຈົ້າມັກບານເຕະບໍ.
+
+215
+00:14:57,900 --> 00:14:59,900
+[BEN]
+Yes.   Big Yankee fan.
+ແມ່ນແລ້ວ. ແຟນແຢນເກີໃຫຍ່.
+
+216
+00:15:00,400 --> 00:15:06,400
+[BEN]
+Mr. Vitti. Not that it's your fault, but your friend, he interrupted a patient's session and that's -- not good. I think this is a matter for our insurance companies, don't you think?
+ທ້າວ Vitti. ບໍ່ແມ່ນວ່າມັນເປັນຄວາມຜິດຂອງທ່ານ, ແຕ່ເພື່ອນຂອງທ່ານ, ລາວໄດ້ຢຸດເຊົາກອງປະຊຸມຂອງຄົນເຈັບແລະນັ້ນແມ່ນ
+- ບໍ່ດີ. ຂ້ອຍຄິດວ່ານີ້ເປັນເລື່ອງ ສໍາ ລັບບໍລິສັດປະກັນໄພຂອງພວກເຮົາ, ເຈົ້າບໍ່ຄິດບໍ?
+
+217
+00:15:06,900 --> 00:15:09,000
+[VITTI]
+I don't care about the car.
+ຂ້ອຍບໍ່ສົນໃຈລົດ.
+
+218
+00:15:09,500 --> 00:15:11,500
+[BEN]
+Then what -- ?
+ຫຼັງຈາກນັ້ນຫຍັງ -?
+
+219
+00:15:12,000 --> 00:15:18,000
+[VITTI]
+A friend of mine is having a problem and he might have to see a shrink, so I'm going to ask you a couple questions. Do we sit?
+ເພື່ອນຂອງຂ້ອຍມີບັນຫາແລະລາວອາດຈະຕ້ອງໄປພົບກັບຈິດໃຈ,
+ສະນັ້ນຂ້ອຍຈະຖາມເຈົ້າສອງສາມ ຄໍາ ຖາມ. ພວກເຮົານັ່ງບໍ?
+
+220
+00:15:18,500 --> 00:15:20,500
+[BEN]
+Whatever makes you comfortable.
+ທຸກຢ່າງທີ່ເຮັດໃຫ້ເຈົ້າສະບາຍໃຈ.
+
+221
+00:15:21,000 --> 00:15:27,000
+[VITTI]
+Okay, the first thing I gotta know about is privacy. You must hear a lot of weird shit in here. How do I know you won't go testifying -- not testifying -- but, you know, talking about it to somebody else.
+ດີແລ້ວ, ສິ່ງ ທໍາ ອິດທີ່ຂ້ອຍຕ້ອງຮູ້ກ່ຽວກັບຄວາມເປັນສ່ວນຕົວ. ເຈົ້າຕ້ອງໄດ້ຍິນສິ່ງແປກໃຈຫຼາຍຢ່າງຢູ່ນີ້.
+ຂ້ອຍຈະຮູ້ວ່າເຈົ້າຈະບໍ່ໄປໃຫ້ຄວາມເຫັນ - ບໍ່ແມ່ນການໃຫ້ຄວາມຮູ້ - ແຕ່, ເຈົ້າຮູ້ແລ້ວ, ເວົ້າກ່ຽວກັບມັນກັບຄົນອື່ນ.
+
+222
+00:15:27,500 --> 00:15:33,500
+[BEN]
+I won't discuss a patient with anyone for any reason, unless I know the patient may be a danger to himself. Like if I'm concerned a patient might kill himself...
+ຂ້ອຍຈະບໍ່ປຶກສາຫາລືຄົນເຈັບກັບໃຜດ້ວຍເຫດຜົນໃດໆ, ເວັ້ນເສຍແຕ່ວ່າຂ້ອຍຮູ້ວ່າຄົນເຈັບອາດຈະເປັນອັນຕະລາຍຕໍ່ຕົວເອງ
+. ເຊັ່ນວ່າຖ້າຂ້ອຍກັງວົນວ່າຄົນເຈັບອາດຂ້າຕົວເອງ...
+
+223
+00:15:34,000 --> 00:15:36,000
+[VITTI]
+Not fuckin' likely --
+ບໍ່ເປັນໄປໄດ້ເລີຍ...
+
+224
+00:15:36,500 --> 00:15:38,500
+[BEN]
+-- or kill someone else.
+- ຫຼືຂ້າຄົນອື່ນ.
+
+225
+00:15:39,000 --> 00:15:41,000
+[VITTI]
+So who starts?
+ສະນັ້ນໃຜຈະເລີ່ມຕົ້ນ?
+
+226
+00:15:41,500 --> 00:15:45,350
+[BEN]
+Why don't you tell me why you think you need therapy?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກຂ້ອຍວ່າເປັນຫຍັງເຈົ້າຄິດວ່າເຈົ້າຕ້ອງການການປິ່ນປົວ
+?
+
+227
+00:15:45,850 --> 00:15:51,100
+[VITTI]
+I don't need therapy. I'm helping out my friend. You didn't hear me say that?
+ຂ້ອຍບໍ່ຕ້ອງການການປິ່ນປົວ. ຂ້ອຍ ກໍາ ລັງຊ່ວຍເພື່ອນຂອງຂ້ອຍ
+. ເຈົ້າບໍ່ໄດ້ຍິນຂ້ອຍເວົ້າແບບນັ້ນບໍ?
+
+228
+00:15:51,600 --> 00:15:53,600
+[BEN]
+Right.   I'm sorry.
+ແມ່ນແລ້ວ. ຂ້ອຍຂໍໂທດ.
+
+229
+00:15:54,100 --> 00:16:00,100
+[VITTI]
+You guys are supposed to be so great when it comes to listening. You can't remember what I said two seconds ago.
+ພວກເຈົ້າຄວນດີຫຼາຍເມື່ອເວົ້າເຖິງການຟັງ.
+ເຈົ້າບໍ່ສາມາດຈື່ໄດ້ວ່າຂ້ອຍເວົ້າຫຍັງສອງວິນາທີກ່ອນ.
+
+230
+00:16:00,600 --> 00:16:02,600
+[BEN]
+I'm very sorry.
+ຂ້ອຍຂໍໂທດຫຼາຍ.
+
+231
+00:16:03,100 --> 00:16:09,100
+[VITTI]
+I have to tell you, Doc, I'm not thrilled with the level of service up to this point.
+ຂ້ອຍຕ້ອງບອກເຈົ້າ, ດອກ,
+ຂ້ອຍບໍ່ພໍໃຈກັບລະດັບການບໍລິການຈົນເຖິງຈຸດນີ້.
+
+232
+00:16:09,600 --> 00:16:12,400
+[BEN]
+Why don't you tell me about your friend?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກຂ້ອຍກ່ຽວກັບເພື່ອນຂອງທ່ານ?
+
+233
+00:16:12,900 --> 00:16:18,900
+[VITTI]
+He's a powerful guy. Never had a problem dealing with things, you know? Now all of a sudden, he's falling apart. He cries for no reason. He's having trouble sleeping. And then he started having these attacks. You know, can't breathe, dizzy, chest pains -- like you think you're gonna die.
+ລາວເປັນຜູ້ຊາຍທີ່ມີພະລັງ. ບໍ່ເຄີຍມີບັນຫາໃນການຮັບມືກັບສິ່ງຕ່າງໆ, ເຈົ້າຮູ້ບໍ? ດຽວນີ້ທັນທີ, ລາວ ກໍາ ລັງຕົກລົງກັນ. ລາວຮ້ອງໄຫ້ໂດຍບໍ່ມີເຫດຜົນ.
+ລາວມີຄວາມຫຍຸ້ງຍາກໃນການນອນ. ແລະຫຼັງຈາກນັ້ນລາວເລີ່ມມີການໂຈມຕີເຫຼົ່ານີ້. ເຈົ້າຮູ້ແລ້ວ, ບໍ່ສາມາດຫາຍໃຈໄດ້, ສະຫມອງ, ຄວາມເຈັບປວດທ້ອງ - ຄືກັບວ່າເຈົ້າຄິດວ່າເຈົ້າຈະຕາຍ.
+
+234
+00:16:19,400 --> 00:16:21,400
+[BEN]
+Panic attacks.
+ການໂຈມຕີຄວາມຢ້ານກົວ.
+
+235
+00:16:21,900 --> 00:16:26,450
+[VITTI]
+What's with all you doctors and the fuckin' panic? Did I say panic?
+ມີຫຍັງເກີດຂຶ້ນກັບທ່ານຫມໍທັງ ຫມົດ ແລະ
+ຄວາມຢ້ານກົວທີ່ໂຊກຮ້າຍ? ຂ້ອຍເວົ້າວ່າຄວາມກັງວົນບໍ?
+
+236
+00:16:26,950 --> 00:16:30,100
+[BEN]
+Not panic. Dizzy -- breathing -- chest pain attacks.
+ບໍ່ເປັນຄວາມຢ້ານກົວ. ການສັ່ນສະເທືອນ -
+ການຫາຍໃຈ - ການໂຈມຕີຄວາມເຈັບປວດທ້ອງ.
+
+237
+00:16:30,600 --> 00:16:35,150
+[VITTI]
+Right. So the question is, what can he do to make it stop?
+ແມ່ນແລ້ວ. ສະນັ້ນຄໍາຖາມແມ່ນ,
+ລາວສາມາດເຮັດແນວໃດເພື່ອເຮັດໃຫ້ມັນຢຸດເຊົາ?
+
+238
+00:16:35,650 --> 00:16:40,900
+[BEN]
+I'm going to go out on a limb here. I think your friend is you.
+ຂ້ອຍຈະອອກໄປທາງຂ້າງນີ້. ຂ້ອຍຄິດວ່າເພື່ອນຂອງທ່ານແມ່ນເຈົ້າ.
+
+239
+00:16:41,400 --> 00:16:46,300
+[VITTI]
+You -- you -- you -- you have a gift, my friend. Go on.
+ເຈົ້າ - ເຈົ້າ - ເຈົ້ານີ້ - ເຈົ້າມີຂອງຂວັນ, ເພື່ອນຂອງຂ້ອຍ. ໄປ.
+
+240
+00:16:46,800 --> 00:16:52,800
+[BEN]
+Medication could help, but if you really want to get to the bottom of this, you're going to want to get some kind of therapy.
+ຢາສາມາດຊ່ວຍໄດ້, ແຕ່ຖ້າເຈົ້າຢາກເຂົ້າສູ່ລຸ່ມຂອງເລື່ອງນີ້ແທ້ໆ
+, ເຈົ້າຈະຢາກໄດ້ຮັບການປິ່ນປົວບາງປະເພດ.
+
+241
+00:16:53,300 --> 00:16:55,300
+[VITTI]
+With you?
+ກັບເຈົ້າບໍ?
+
+242
+00:16:55,800 --> 00:17:01,800
+[BEN]
+With me? Oh, I don't know. I'd have to look at my schedule. I'm very heavily booked right now and I'm going on a short vacation tomorrow.
+ກັບຂ້ອຍບໍ? ໂອ້, ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍຕ້ອງເບິ່ງຕາຕະລາງຂອງຂ້ອຍ
+. ຂ້ອຍຈອງຫຼາຍໃນເວລານີ້ແລະຂ້ອຍຈະໄປພັກຜ່ອນສັ້ນມື້ອື່ນ.
+
+243
+00:17:02,300 --> 00:17:04,300
+[VITTI]
+Where you going?
+ເຈົ້າໄປໃສ?
+
+244
+00:17:04,800 --> 00:17:07,250
+[BEN]
+I don't really share that information with...
+ຂ້ອຍບໍ່ແບ່ງປັນຂໍ້ມູນນັ້ນກັບ...
+
+245
+00:17:07,750 --> 00:17:09,750
+[VITTI]
+Where?
+ຢູ່ໃສ?
+
+246
+00:17:10,250 --> 00:17:12,250
+[BEN]
+Miami Beach.
+ຫາດຊາຍມາມິ.
+
+247
+00:17:12,750 --> 00:17:18,750
+[VITTI]
+You know, this could be good. Just getting that off my chest, I feel better already. It's like a load is off my shoulders. Thank you.
+ເຈົ້າຮູ້ແລ້ວ, ນີ້ແມ່ນອາດຈະດີ. ພຽງແຕ່ເອົາມັນອອກຈາກທ້ອງຂອງຂ້ອຍ,
+ຂ້ອຍຮູ້ສຶກດີກວ່າເກົ່າແລ້ວ. ມັນຄືກັບວ່າໂຫຼດອອກຈາກກະຕ່າຂອງຂ້ອຍ. ຂອບໃຈ.
+
+248
+00:17:19,250 --> 00:17:21,700
+[BEN]
+Well, I really didn't do anything --
+ດີ, ຂ້ອຍບໍ່ໄດ້ເຮັດຫຍັງເລີຍ -
+
+249
+00:17:22,200 --> 00:17:28,200
+[VITTI]
+You did something. The load? Off. Where is it? Don't know. You're good, Doctor. I'll be in touch. But listen to me.  If I talk to you and it turns me into a fag, I'll kill you. You understand?
+ເຈົ້າເຮັດບາງສິ່ງບາງຢ່າງ. ການໂຫຼດ? ອອກ. ມັນຢູ່ໃສ? ບໍ່ຮູ້. ເຈົ້າດີ, ດອກຕໍ. ຂ້ອຍຈະຕິດຕໍ່ພົວພັນ.
+ແຕ່ຟັງຂ້ອຍ. ຖ້າຂ້ອຍເວົ້າກັບເຈົ້າແລະມັນເຮັດໃຫ້ຂ້ອຍກາຍເປັນຄົນໂຊກແຊງ, ຂ້ອຍຈະຂ້າເຈົ້າ. ເຈົ້າເຂົ້າໃຈບໍ?
+
+250
+00:17:28,700 --> 00:17:32,550
+[BEN]
+Could we define 'fag,' because some feelings may come up --
+ພວກເຮົາສາມາດອະທິບາຍວ່າ'ຢອກຊື່ໆ ແຊ,
+ເພາະວ່າຄວາມຮູ້ສຶກບາງຢ່າງອາດຈະເກີດຂຶ້ນ -
+
+251
+00:17:33,050 --> 00:17:35,500
+[VITTI]
+I go fag, you die. Got it?
+ຂ້ອຍກາຍເປັນໂຊກແຊງ, ເຈົ້າຈະຕາຍ. ເຂົ້າໃຈບໍ?
+
+252
+00:17:36,000 --> 00:17:38,000
+[BEN]
+Yes.
+ແມ່ນແລ້ວ.
+
+253
+00:17:38,500 --> 00:17:44,500
+[BEN]
+I hope you didn't leave any food in your room. I don't want to come home and find a science fair.
+ຂ້ອຍຫວັງວ່າເຈົ້າບໍ່ໄດ້ປ່ອຍອາຫານຫຍັງໄວ້ໃນຫ້ອງຂອງທ່ານ
+. ຂ້ອຍບໍ່ຢາກກັບບ້ານແລະຊອກຫາງານວາງສະແດງວິທະຍາສາດ.
+
+254
+00:17:45,000 --> 00:17:47,450
+[MICHAEL]
+I didn't.   Hey, Dad? One thing though.
+ຂ້ອຍບໍ່ໄດ້ເຮັດ. ເຮ້, ພໍ່? ເຖິງຢ່າງໃດກໍ່ຕາມສິ່ງດຽວ.
+
+255
+00:17:47,950 --> 00:17:49,950
+[BEN]
+Yeah?
+ແມ່ນແລ້ວບໍ?
+
+256
+00:17:50,450 --> 00:17:52,450
+[MICHAEL]
+I go fag, you die.
+ຂ້ອຍກາຍເປັນໂຊກແຊງ, ເຈົ້າຈະຕາຍ.
+
+257
+00:17:52,950 --> 00:17:55,750
+[BEN]
+Michael! That's it!      I am sealing that vent.
+ໄມເກວ! ນັ້ນແມ່ນມັນ! ຂ້ອຍ ກໍາ ລັງປິດລະບາຍອາກາດນັ້ນ.
+
+258
+00:17:56,250 --> 00:17:59,750
+[MICHAEL]
+You are so cool, Dad. Was that really Paul Vitti?
+ເຈົ້າເຢັນຫຼາຍ, ພໍ່. ນັ້ນແມ່ນໂປລ ວີຕີແທ້ບໍ?
+
+259
+00:18:00,250 --> 00:18:06,250
+[BEN]
+I didn't ask to see his Mafia decoder ring, but yeah, it was him. And you cannot tell anyone he was here. You understand?
+ຂ້ອຍບໍ່ໄດ້ຂໍໃຫ້ເຫັນແມວ decoder Mafia ຂອງລາວ, ແຕ່ແມ່ນແລ້ວ, ມັນແມ່ນລາວ
+. ແລະເຈົ້າບໍ່ສາມາດບອກໃຜວ່າລາວຢູ່ບ່ອນນີ້ໄດ້. ເຈົ້າເຂົ້າໃຈບໍ?
+
+260
+00:18:06,750 --> 00:18:09,200
+[MICHAEL]
+Should I take it off the internet?
+ຂ້ອຍຄວນເອົາມັນອອກຈາກອິນເຕີເນັດບໍ?
+
+261
+00:18:09,700 --> 00:18:11,700
+[BEN]
+What?
+ຫຍັງ?
+
+262
+00:18:12,200 --> 00:18:14,200
+[MICHAEL]
+I'm kidding!
+ຂ້ອຍໂຊກຮ້າຍ!
+
+263
+00:18:14,700 --> 00:18:20,700
+[LAURA]
+So judging from the mob scene around the pool here today, I think you'd have to say that there's nothing 'off' about the 'off-season' in Miami Beach this summer. Now, on a personal note, this is my last report for W.V.B.F. I'm getting married to a wonderful man and moving to New York, so if you're up that way, watch for me on the W.P.I.X. news team. Thanks for everything, Miami.  For the last time, this is Laura MacNamara, W.V.B.F. news.
+ສະນັ້ນໂດຍການພິຈາລະນາຈາກສະຖານະການໂມບີຢູ່ອ້ອມແອ້ມສະລອຍນ້ ໍາ ມື້ນີ້, ຂ້ອຍຄິດວ່າເຈົ້າຕ້ອງເວົ້າວ່າບໍ່ມີຫຍັງ' off' ກ່ຽວກັບ' off- ລະດູການ' ໃນ Miami Beach ໃນລະດູຮ້ອນນີ້. ດຽວນີ້, ໃນຂໍ້ສັງເກດສ່ວນຕົວ
+, ນີ້ແມ່ນບົດລາຍງານສຸດທ້າຍຂອງຂ້ອຍ ສໍາ ລັບ WVBF ຂ້ອຍ ກໍາ ລັງແຕ່ງງານກັບຜູ້ຊາຍທີ່ຍິ່ງໃຫຍ່ແລະຍ້າຍໄປນິວຢອກ, ສະນັ້ນຖ້າເຈົ້າຢູ່ທາງນັ້ນ, ເບິ່ງຂ້ອຍໃນທີມງານຂ່າວ WPIX. ຂອບໃຈ ສໍາ ລັບທຸກຢ່າງ, Miami
+
+264
+00:18:21,200 --> 00:18:23,200
+[LAURA]
+Catch!
+ຈັບ!
+
+265
+00:18:23,700 --> 00:18:25,700
+[PRODUCER]
+We're clear.
+ພວກເຮົາສະອາດແລ້ວ.
+
+266
+00:18:26,200 --> 00:18:32,150
+[LAURA]
+I'll do the re-asks, then you guys can just shoot the inserts and pack it up.  Ben!
+ຂ້ອຍຈະເຮັດ ຄໍາ ຖາມອີກຄັ້ງ,
+ຫຼັງຈາກນັ້ນເຈົ້າສາມາດຖ່າຍຮູບການໃສ່ແລະຫຸ້ມຫໍ່ມັນໄດ້. ແບນ!
+
+267
+00:18:32,650 --> 00:18:35,450
+[LAURA]
+This is him, everyone!    This is the guy!
+ນີ້ແມ່ນລາວ, ທຸກຄົນ! ນີ້ແມ່ນຜູ້ຊາຍ!
+
+268
+00:18:35,950 --> 00:18:37,950
+[BEN]
+Hi, everybody.
+ສະບາຍດີທຸກຄົນ.
+
+269
+00:18:38,450 --> 00:18:40,450
+[LAURA]
+Oh, I missed you.
+ໂອ້, ຂ້ອຍຄິດຮອດເຈົ້າຫຼາຍ.
+
+270
+00:18:40,950 --> 00:18:43,400
+[BEN]
+I missed you too. Michael, say hello.
+ຂ້ອຍຄິດຮອດເຈົ້າຄືກັນ. ໄມເກວ, ສະບາຍດີ.
+
+271
+00:18:43,900 --> 00:18:45,900
+[MICHAEL]
+Hi, Laura.
+ສະບາຍດີ, ໂລຣາ.
+
+272
+00:18:46,400 --> 00:18:52,400
+[LAURA]
+This is Michael? I don't think so. If I remember correctly, Michael was a little boy, and this, this is a great big kid. Hey, you. Tell us what you did with Michael Sobol.
+ນີ້ແມ່ນໄມເກວບໍ? ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ. ຖ້າຂ້ອຍຈື່ໄວ້ຢ່າງຖືກຕ້ອງ, ໄມເຄວເປັນເດັກຊາຍນ້ອຍ, ແລະສິ່ງນີ້
+, ນີ້ແມ່ນເດັກນ້ອຍໃຫຍ່ທີ່ຍິ່ງໃຫຍ່. ເຮ້, ເຈົ້າ. ບອກພວກເຮົາວ່າເຈົ້າເຮັດຫຍັງກັບໄມເຄລ ໂຊບອລ.
+
+273
+00:18:52,900 --> 00:18:56,050
+[LAURA]
+Okay. Come on. Give me a break. I'm trying.
+ດີແລ້ວ. ມາແລ້ວ. ພໍໄດ້ແລ້ວ! ຂ້ອຍ ກໍາ ລັງພະຍາຍາມ.
+
+274
+00:18:56,550 --> 00:19:02,150
+[MICHAEL]
+No, it was nice, but I'm fourteen so it wasn't -- you know -- age appropriate.
+ບໍ່, ມັນດີ, ແຕ່ຂ້ອຍອາຍຸສິບສີ່ປີ ສະນັ້ນມັນບໍ່ແມ່ນ
+- ເຈົ້າຮູ້ແລ້ວ - ເຫມາະສົມກັບອາຍຸ.
+
+275
+00:19:02,650 --> 00:19:07,200
+[LAURA]
+Sorry. Just smack me if I do that again.  How are you, Michael?
+ຂໍໂທດ. ພຽງແຕ່ຕີຂ້ອຍຖ້າຂ້ອຍເຮັດແບບນັ້ນອີກຄັ້ງ
+. ເຈົ້າເປັນແນວໃດ, ໄມເກວ?
+
+276
+00:19:07,700 --> 00:19:09,700
+[MICHAEL]
+Great.
+ດີເລີດ.
+
+277
+00:19:10,200 --> 00:19:13,350
+[BEN]
+Mike, you want to go look at the camera?
+ໄມຄ໌, ເຈົ້າຢາກໄປເບິ່ງກ້ອງຖ່າຍຮູບບໍ?
+
+278
+00:19:13,850 --> 00:19:17,000
+[MICHAEL]
+Why would I want to look at the camera?
+ຂ້ອຍຢາກເບິ່ງກ້ອງຖ່າຍຮູບເປັນຫຍັງ?
+
+279
+00:19:17,500 --> 00:19:23,500
+[BEN]
+'Cause I bet there's all kinds of cool video stuff over there. Why don't you check it out?
+ເພາະຂ້ອຍແນ່ໃຈວ່າມີທຸກປະເພດຂອງວິດີໂອທີ່ເຢັນຢູ່ບ່ອນນັ້ນ
+. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເບິ່ງມັນ?
+
+280
+00:19:24,000 --> 00:19:26,000
+[MICHAEL]
+Oh, yeah.  Is it okay?
+ໂອ້, ແມ່ນແລ້ວ. ມັນດີບໍ?
+
+281
+00:19:26,500 --> 00:19:30,700
+[LAURA]
+Go ahead. If you break something, don't worry. I'm out of here.
+ໄປກ່ອນ. ຖ້າເຈົ້າແຕກບາງສິ່ງບາງຢ່າງ, ຢ່າກັງວົນ. ຂ້ອຍອອກຈາກບ່ອນນີ້.
+
+282
+00:19:31,200 --> 00:19:33,200
+[LAURA]
+You think he likes me?
+ເຈົ້າຄິດວ່າລາວມັກຂ້ອຍບໍ?
+
+283
+00:19:33,700 --> 00:19:36,500
+[BEN]
+Michael?   He's crazy about you.   I am too.
+ໄມເກວ? ລາວໂຊກຮ້າຍກັບເຈົ້າ. ຂ້ອຍຄືກັນ.
+
+284
+00:19:37,000 --> 00:19:40,500
+[LAURA]
+You are? And you still really want to get married?
+ເຈົ້າເປັນບໍ? ແລະເຈົ້າຍັງຢາກແຕ່ງງານແທ້ບໍ?
+
+285
+00:19:41,000 --> 00:19:43,000
+[BEN]
+Of course.
+ແນ່ນອນ.
+
+286
+00:19:43,500 --> 00:19:49,500
+[LAURA]
+But what if you get tired of me? I know so many couples that were really happy, then they got married and just completely lost interest in each other.
+ແຕ່ຖ້າເຈົ້າເມື່ອຍຂ້ອຍແນວໃດ? ຂ້ອຍຮູ້ຈັກຄູ່ຜົວເມຍຫຼາຍຄົນທີ່ມີຄວາມສຸກແທ້ໆ,
+ຫຼັງຈາກນັ້ນພວກເຂົາແຕ່ງງານແລະພຽງແຕ່ສູນເສຍຄວາມສົນໃຈໃນກັນແລະກັນຢ່າງສົມບູນ.
+
+287
+00:19:50,000 --> 00:19:52,100
+[BEN]
+That's not going to be us.
+ນັ້ນບໍ່ແມ່ນພວກເຮົາ.
+
+288
+00:19:52,600 --> 00:19:55,400
+[LAURA]
+I just don't want to lose the passion.
+ຂ້ອຍພຽງແຕ່ບໍ່ຢາກສູນເສຍຄວາມກະຕຸ້ນໃຈ.
+
+289
+00:19:55,900 --> 00:19:59,750
+[BEN]
+Yes, I'm brimming with passion. I'm up to here with passion.
+ແມ່ນແລ້ວ, ຂ້ອຍເຕັມໄປດ້ວຍຄວາມປາຖະຫນາ
+. ຂ້ອຍຢູ່ບ່ອນນີ້ດ້ວຍຄວາມກະຕຸ້ນ.
+
+290
+00:20:00,250 --> 00:20:06,250
+[LAURA]
+I want us to be like animals. You know just screaming and sweating and tearing at each other all the time --
+ຂ້ອຍຢາກໃຫ້ພວກເຮົາເປັນຄືກັບສັດ.
+ເຈົ້າຮູ້ແລ້ວພຽງແຕ່ຮ້ອງໄຫ້ແລະຫວານແລະແຕກແຍກກັນແລະກັນຕະຫຼອດເວລາ -
+
+291
+00:20:06,750 --> 00:20:10,250
+[BEN]
+The sweating shouldn't be a problem. The tearing sounds painful.
+ການຫວານບໍ່ຄວນເປັນບັນຫາ. ການແຕກຫັກເບິ່ງຄືວ່າເຈັບປວດ.
+
+292
+00:20:10,750 --> 00:20:16,000
+[SOUND GUY]
+Uhh, Laura? You want me to take your mic, or at least turn it off?
+ໂອ້, ໂລຣາ? ເຈົ້າຢາກໃຫ້ຂ້ອຍເອົາໄມຄ໌ຂອງທ່ານ, ຫຼືຢ່າງຫນ້ອຍປິດມັນບໍ?
+
+293
+00:20:16,500 --> 00:20:18,500
+[LAURA]
+Oh my God.
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ.
+
+294
+00:20:19,000 --> 00:20:21,450
+[SHEILA]
+Oh my God!   Oh, yes. Oh, yes.
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ! ໂອ້, ແມ່ນແລ້ວ. ໂອ້ຍ, ແມ່ນ.
+
+295
+00:20:21,950 --> 00:20:24,750
+[SHEILA]
+Oh, yes. Oh, yes.  Is everything okay, Paul?
+ໂອ້. ໂອ້, ແມ່ນແລ້ວ. ທຸກຢ່າງບໍ່ເປັນຫຍັງບໍ, ໂປລ?
+
+296
+00:20:25,250 --> 00:20:29,100
+[VITTI]
+What are you talking for?   I'm trying to do this here.
+ເຈົ້າເວົ້າຫຍັງ? ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເຮັດສິ່ງນີ້ຢູ່ນີ້.
+
+297
+00:20:29,600 --> 00:20:31,600
+[SHEILA]
+You seem -- distracted.
+ເຈົ້າເບິ່ງຄືວ່າ - ຫາຍໃຈ.
+
+298
+00:20:32,100 --> 00:20:34,900
+[VITTI]
+I got things on my mind.    Stop talking.
+ຂ້ອຍມີບາງສິ່ງບາງຢ່າງຢູ່ໃນຈິດໃຈຂອງຂ້ອຍ. ຢຸດການເວົ້າ.
+
+299
+00:20:35,400 --> 00:20:37,500
+[SHEILA]
+Okay, I'm sorry. Just relax, baby.
+ດີແລ້ວ, ຂ້ອຍຂໍໂທດ. ພຽງແຕ່ຜ່ອນຄາຍແມ.
+
+300
+00:20:38,000 --> 00:20:40,100
+[SHEILA]
+Were you thinking about your wife?
+ເຈົ້າຄິດກ່ຽວກັບເມຍບໍ?
+
+301
+00:20:40,600 --> 00:20:46,600
+[VITTI]
+No, I wasn't thinking about my wife.  Now I'm thinking about my wife. Goddamn it, Sheila, why can't you keep your mouth shut!
+ບໍ່, ຂ້ອຍບໍ່ໄດ້ຄິດກ່ຽວກັບພັນລະຍາຂອງຂ້ອຍ. ດຽວນີ້ຂ້ອຍ ກໍາ
+ລັງຄິດກ່ຽວກັບເມຍຂອງຂ້ອຍ. ສະບາຍດີ, ເຊລາ, ເປັນຫຍັງເຈົ້າບໍ່ສາມາດປິດປາກໄດ້!
+
+302
+00:20:47,100 --> 00:20:49,100
+[SHEILA]
+I'm sorry, Paul.
+ຂ້ອຍຂໍໂທດ, ໂປລ.
+
+303
+00:20:49,600 --> 00:20:51,600
+[JELLY]
+Dr. Sobol. Dr. Sobol.
+ດຣ ໂຊໂບລ. ດຮ ໂຊບອລ
+
+304
+00:20:52,100 --> 00:20:54,100
+[BEN]
+Mom?
+ແມ່?
+
+305
+00:20:54,600 --> 00:20:58,100
+[JELLY]
+Mr. Vitti wants to see you.   I have your robe.
+ທ້າວ Vitti ຢາກເຫັນເຈົ້າ. ຂ້ອຍມີເສື້ອຜ້າຂອງທ່ານ.
+
+306
+00:20:58,600 --> 00:21:01,400
+[VITTI]
+You no-good little two-bit piece of shit bastard!
+ເຈົ້າໂຊກຮ້າຍນ້ອຍໆທີ່ບໍ່ດີ!
+
+307
+00:21:01,900 --> 00:21:07,900
+[VITTI]
+I got news for you. I'm still fucked up. Whatever you did the other day, it didn't take. You did nothing for me.
+ຂ້ອຍມີຂ່າວ ສໍາ ລັບເຈົ້າ. ຂ້ອຍຍັງສໍ້ໂກງຢູ່. ເຈົ້າເຮັດຫຍັງໃນມື້ອື່ນ
+, ມັນບໍ່ໄດ້ໃຊ້. ເຈົ້າບໍ່ໄດ້ເຮັດຫຍັງ ສໍາ ລັບຂ້ອຍ.
+
+308
+00:21:08,400 --> 00:21:14,400
+[BEN]
+I did nothing? What did you expect? I saw you for five minutes. I don't work miracles, Mr. Vitti. And I'll tell you something else. I don't appreciate it when someone breaks into my hotel room and kidnaps me. I don't go for that. I have a family and a life and a serious practice, and I don't have time for your bullshit!  That got away from me near the end.
+ຂ້ອຍບໍ່ໄດ້ເຮັດຫຍັງເລີຍ? ເຈົ້າຄາດວ່າຫຍັງ? ຂ້ອຍເຫັນເຈົ້າເປັນເວລາຫ້ານາທີ. ຂ້ອຍບໍ່ໄດ້ເຮັດວຽກມະຫັດສະຈັນ, ທ້າວ Vitti. ແລະຂ້ອຍຈະບອກເຈົ້າບາງສິ່ງບາງຢ່າງອີກຢ່າງ.
+ຂ້ອຍບໍ່ຍ້ອງຍໍມັນເມື່ອຄົນໃດບຸກເຂົ້າໄປໃນຫ້ອງໂຮງແຮມຂອງຂ້ອຍແລະລັກພາຕົວຂ້ອຍ. ຂ້ອຍຈະບໍ່ໄປ ສໍາ ລັບນັ້ນ. ຂ້ອຍມີຄອບຄົວແລະຊີວິດແລະການຝຶກອົບຮົມທີ່ຈິງໃຈ, ແລະຂ້ອຍບໍ່ມີເວລາ ສໍາ ລັບຢອກຊື່ໆ ແຊກຮ້າຍຈາກຂ້ອຍໃກ້ສິ້ນສຸດລົງ.
+
+309
+00:21:14,900 --> 00:21:17,000
+[VITTI]
+I couldn't get it up tonight.
+ຂ້ອຍບໍ່ສາມາດເອົາມັນຂຶ້ນໃນຄືນນີ້ໄດ້.
+
+310
+00:21:17,500 --> 00:21:19,500
+[BEN]
+You mean sexually?
+ເຈົ້າຫມາຍຄວາມວ່າທາງເພດບໍ?
+
+311
+00:21:20,000 --> 00:21:24,550
+[VITTI]
+No, I mean for the big game against Michigan State. Of course sexually!
+ບໍ່, ຂ້ອຍຫມາຍຄວາມວ່າ ສໍາ ລັບເກມໃຫຍ່ຕໍ່ລັດມິຈິແກນ. ແນ່ນອນທາງເພດ!
+
+312
+00:21:25,050 --> 00:21:31,050
+[BEN]
+You flew fifteen hundred miles and dragged me out of bed in the middle of the night because you couldn't get an erection?
+ເຈົ້າບິນຫ້າສິບຫ້າຮ້ອຍແມລແລະດຶງຂ້ອຍອອກຈາກຕຽງໃນກາງຄືນເພາະວ່າເຈົ້າບໍ່ສາມາດສ້າງຂຶ້ນໄດ້ບໍ
+?
+
+313
+00:21:31,550 --> 00:21:33,550
+[VITTI]
+Doesn't that prove I'm motivated?
+ມັນບໍ່ພິສູດວ່າຂ້ອຍມີຄວາມກະຕຸ້ນບໍ?
+
+314
+00:21:34,050 --> 00:21:37,200
+[BEN]
+You can take a pill for that, you know.
+ເຈົ້າສາມາດກິນເມັດ ສໍາ ລັບສິ່ງນັ້ນໄດ້, ເຈົ້າຮູ້ແລ້ວ.
+
+315
+00:21:37,700 --> 00:21:43,700
+[VITTI]
+No, that's a cheat. You start with the pills, next thing you know you got implants with pumps. I think a hard-on should be gotten legitimately or not at all.
+ບໍ່, ນັ້ນແມ່ນການຫຼອກລວງ. ເຈົ້າເລີ່ມຕົ້ນດ້ວຍເມັດ, ສິ່ງຕໍ່ໄປທີ່ທ່ານຮູ້ວ່າທ່ານມີການປູກຝັງດ້ວຍປໍາບູ
+. ຂ້ອຍຄິດວ່າການແຂງແຮງຄວນໄດ້ຮັບການຖືກຕ້ອງຕາມກົດ ຫມາຍ ຫຼືບໍ່ເລີຍ.
+
+316
+00:21:44,200 --> 00:21:47,350
+[BEN]
+Did you see that embroidered on a pillow somewhere?
+ເຈົ້າເຫັນມັນຖືກຕັດໃສ່ກະຕູ້ຢູ່ບ່ອນໃດບໍ?
+
+317
+00:21:47,850 --> 00:21:50,300
+[VITTI]
+Are you gonna help me or not?
+ເຈົ້າຈະຊ່ວຍຂ້ອຍຫຼືບໍ່?
+
+318
+00:21:50,800 --> 00:21:54,300
+[BEN]
+I don't believe this. All right. Has this happened before?
+ຂ້ອຍບໍ່ເຊື່ອເລື່ອງນີ້. ດີແລ້ວ. ເລື່ອງນີ້ເຄີຍເກີດຂຶ້ນກ່ອນບໍ?
+
+319
+00:21:54,800 --> 00:21:59,000
+[VITTI]
+The dead dick thing? Never. Well, one time. Tonight. And another time.
+ເລື່ອງຄົນຕາຍບໍ? ບໍ່ເຄີຍ. ດີ, ຄັ້ງດຽວ. ໃນຄືນນີ້. ແລະອີກຄັ້ງຫນຶ່ງ.
+
+320
+00:21:59,500 --> 00:22:01,500
+[BEN]
+So twice?
+ສະນັ້ນສອງຄັ້ງບໍ?
+
+321
+00:22:02,000 --> 00:22:08,000
+[VITTI]
+Do the math. Two times.  There was another time. But it was after a big meal, so, you know, that don't count.
+ເຮັດການຄິດໄລ່. ສອງຄັ້ງ. ມີອີກຄັ້ງຫນຶ່ງ.
+ແຕ່ມັນແມ່ນຫຼັງຈາກອາຫານໃຫຍ່, ສະນັ້ນ, ເຈົ້າຮູ້ແລ້ວ, ນັ້ນບໍ່ຄິດ.
+
+322
+00:22:08,500 --> 00:22:12,000
+[BEN]
+Listen, being unable to perform three or four times --
+ຟັງ, ບໍ່ສາມາດປະຕິບັດໄດ້ສາມຫຼືສີ່ຄັ້ງ -
+
+323
+00:22:12,500 --> 00:22:14,500
+[VITTI]
+Five.
+ຫ້າ.
+
+324
+00:22:15,000 --> 00:22:18,500
+[BEN]
+Five times -- it isn't the end of the world.
+ຫ້າຄັ້ງ - ມັນບໍ່ແມ່ນສິ້ນສຸດໂລກ.
+
+325
+00:22:19,000 --> 00:22:25,000
+[VITTI]
+Maybe not to you -- look at you -- but if I can't get it up, that makes me less of a man and I can't have that.
+ບາງທີບໍ່ແມ່ນກັບເຈົ້າ - ເບິ່ງເຈົ້າ - ແຕ່ຖ້າຂ້ອຍບໍ່ສາມາດເອົາມັນຂຶ້ນໄດ້
+, ນັ້ນເຮັດໃຫ້ຂ້ອຍເປັນຜູ້ຊາຍ ຫນ້ອຍ ແລະຂ້ອຍບໍ່ສາມາດມີສິ່ງນັ້ນໄດ້.
+
+326
+00:22:25,500 --> 00:22:31,500
+[VITTI]
+In my business I deal with animals. They may seem dumb to an educated guy like you, but make no mistake about it, Doctor, animals are very cunning. And they sense weakness. Right now I'm an injured animal. It's only a matter of time before one of the lions out there catches the scent. Then I'm dead. That's the way it is. If you don't understand that, then you don't understand the life I live and you don't understand me.
+ໃນທຸລະກິດຂອງຂ້ອຍຂ້ອຍ ກໍາ ລັງປະເຊີນກັບສັດ. ພວກເຂົາອາດຈະເບິ່ງຄືວ່າໂງ່ຕໍ່ຜູ້ຊາຍທີ່ມີການສຶກສາເຊັ່ນເຈົ້າ, ແຕ່ຢ່າຜິດພາດກ່ຽວກັບມັນ, ດອກຕໍ, ສັດມີຄວາມກະຕຸ້ນຫຼາຍ. ແລະພວກເຂົາຮູ້ສຶກຄວາມອ່ອນແອ. ດຽວນີ້ຂ້ອຍເປັນສັດທີ່ບາດເຈັບ.
+ມັນເປັນພຽງແຕ່ເລື່ອງເວລາກ່ອນ ຫນຶ່ງ ໃນຊ້າງຢູ່ນອກນັ້ນຈັບກິ່ນຫອມ. ຫຼັງຈາກນັ້ນຂ້ອຍຕາຍແລ້ວ. ນັ້ນແມ່ນວິທີທີ່ມັນເປັນ. ຖ້າເຈົ້າບໍ່ເຂົ້າໃຈນັ້ນ, ຫຼັງຈາກນັ້ນເຈົ້າບໍ່ໄດ້ເຂົ້າໃຈຊີວິດທີ່ຂ້ອຍດໍາລົງຊີວິດແລະເຈົ້າບໍ່ເຂ້າໃຈຂ້ອຍ.
+
+327
+00:22:32,000 --> 00:22:34,000
+[BEN]
+Okay.
+ດີແລ້ວ.
+
+328
+00:22:34,500 --> 00:22:40,500
+[VITTI]
+I have until the end of the week to get strong or they're gonna eat me up. If they don't kill me in the meantime.
+ຂ້ອຍມີເວລາຈົນຮອດທ້າຍອາທິດທີ່ຈະແຂງແຮງຫຼືພວກເຂົາຈະຢ່າມາຍຸ້ງກັບຂ້ອຍ
+! ຖ້າພວກເຂົາບໍ່ຂ້າຂ້ອຍໃນເວລານັ້ນ.
+
+329
+00:22:41,000 --> 00:22:43,000
+[BEN]
+What happens next week?
+ຈະເກີດຫຍັງຂຶ້ນໃນອາທິດຫນ້າ?
+
+330
+00:22:43,500 --> 00:22:47,000
+[VITTI]
+I can't tell you and you don't want to know.
+ຂ້ອຍບໍ່ສາມາດບອກເຈົ້າໄດ້ ແລະເຈົ້າບໍ່ຢາກຮູ້.
+
+331
+00:22:47,500 --> 00:22:53,500
+[BEN]
+It's impossible. I can't do anything that fast. And even if I could, what's my goal here? To make you a happy, well-adjusted gangster?
+ມັນບໍ່ສາມາດເຮັດໄດ້. ຂ້ອຍບໍ່ສາມາດເຮັດຫຍັງໄດ້ຢ່າງໄວວາ. ແລະເຖິງແມ່ນວ່າຂ້ອຍສາມາດເຮັດໄດ້,
+ເປົ້າຫມາຍຂອງຂ້ອຍຢູ່ບ່ອນນີ້ແມ່ນຫຍັງ? ເພື່ອເຮັດໃຫ້ເຈົ້າເປັນແກນສເຕີທີ່ມີຄວາມສຸກ, ທີ່ປັບຕົວດີບໍ?
+
+332
+00:22:54,000 --> 00:23:00,000
+[VITTI]
+Look, the other day I saw a commercial on television, some kid playing with a couple of puppies. I cried for 45 minutes. Slap a pair of tits on me, I'm a woman!
+ເບິ່ງ, ມື້ກ່ອນຂ້ອຍເຫັນໂຄສະນາໃນໂທລະພາບ, ເດັກນ້ອຍບາງຄົນຫຼິ້ນກັບຫມາແມວສອງສາມຄົນ
+. ຂ້ອຍຮ້ອງໄຫ້ເປັນເວລາ 45 ນາທີ. ເອົາທ້ອງໃສ່ຂ້ອຍ, ຂ້ອຍເປັນແມ່ຍິງ!
+
+333
+00:23:00,500 --> 00:23:02,600
+[BEN]
+I'm sorry.   I can't help you.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ສາມາດຊ່ວຍເຈົ້າໄດ້.
+
+334
+00:23:03,100 --> 00:23:05,100
+[VITTI]
+You're turning me down?
+ເຈົ້າ ກໍາ ລັງປະຕິເສດຂ້ອຍບໍ?
+
+335
+00:23:05,600 --> 00:23:11,600
+[BEN]
+Mr. Vitti, when I got into family therapy, this was not the family I had in mind. I'm turning you down.
+ທ່ານ Vitti, ເມື່ອຂ້ອຍເຂົ້າໄປໃນການປິ່ນປົວຄອບຄົວ,
+ນີ້ແມ່ນບໍ່ແມ່ນຄອບຄົວທີ່ຂ້ອຍຄິດໄວ້. ຂ້ອຍ ກໍາ ລັງປະຕິເສດເຈົ້າ.
+
+336
+00:23:12,100 --> 00:23:18,100
+[VITTI]
+You with your schmucky little office in your schmucky little house out there in Schmuckville -- you're turning me down? What, so you can spend more time listening to housewives piss and moan about how nobody fucks them right?
+ເຈົ້າພ້ອມກັບຫ້ອງການນ້ອຍໆຂອງເຈົ້າໃນເຮືອນນ້ອຍໆທີ່ສໍ້ໂກງຂອງເຈົ້າຢູ່ບ່ອນນັ້ນໃນສ໌ມຸກວິລ - ເຈົ້າ ກໍາ ລັງປະຕິເສດຂ້ອຍບໍ
+? ຫຍັງ, ເພື່ອໃຫ້ເຈົ້າສາມາດໃຊ້ເວລາຫຼາຍຂຶ້ນຟັງແມ່ຄົວສູບແລະຮ້ອງໄຫ້ກ່ຽວກັບວ່າບໍ່ມີໃຜຟັກພວກເຂົາຢ່າງຖືກຕ້ອງບໍ?
+
+337
+00:23:18,600 --> 00:23:20,600
+[BEN]
+I'd like to go now.
+ຂ້ອຍຢາກໄປດຽວນີ້.
+
+338
+00:23:21,100 --> 00:23:25,650
+[VITTI]
+You see this? This is what I'm talking about! I'm a dead man!
+ເຈົ້າເຫັນສິ່ງນີ້ບໍ? ນີ້ແມ່ນສິ່ງທີ່ຂ້ອຍເວົ້າກ່ຽວກັບ
+! ຂ້ອຍເປັນຜູ້ຊາຍຕາຍແລ້ວ!
+
+339
+00:23:26,150 --> 00:23:32,150
+[VITTI]
+You call yourself a doctor? You should be ashamed. A real doctor couldn't turn his back on a person who's suffering!
+ເຈົ້າເອີ້ນຕົວເອງວ່າເປັນຫມໍບໍ? ເຈົ້າຄວນໂຊກຮ້າຍ.
+ຫມໍທີ່ແທ້ຈິງບໍ່ສາມາດຫັນຫຼັງຄົນທີ່ມີຄວາມທຸກທໍລະມານໄດ້!
+
+340
+00:23:32,650 --> 00:23:35,450
+[BEN]
+All right.  What happened with your wife tonight?
+ດີແລ້ວ. ເກີດຫຍັງຂຶ້ນກັບເມຍຂອງທ່ານໃນຄືນນີ້?
+
+341
+00:23:35,950 --> 00:23:39,450
+[VITTI]
+I wasn't with my wife. I was with my girlfriend.
+ຂ້ອຍບໍ່ໄດ້ຢູ່ກັບເມຍຂອງຂ້ອຍ. ຂ້ອຍຢູ່ກັບແຟນຂອງຂ້ອຍ.
+
+342
+00:23:39,950 --> 00:23:44,150
+[BEN]
+You have a girlfriend? We could do two months on that alone.
+ເຈົ້າມີແຟນບໍ? ພວກເຮົາສາມາດເຮັດໄດ້ສອງເດືອນເທົ່ານັ້ນ.
+
+343
+00:23:44,650 --> 00:23:47,450
+[VITTI]
+What, you're gonna start moralizing with me now?
+ຫຍັງ, ເຈົ້າຈະເລີ່ມທໍາມະຊາດກັບຂ້ອຍດຽວນີ້ບໍ?
+
+344
+00:23:47,950 --> 00:23:50,050
+[BEN]
+Okay. Do you have marriage problems?
+ດີແລ້ວ. ເຈົ້າມີບັນຫາການແຕ່ງງານບໍ?
+
+345
+00:23:50,550 --> 00:23:52,550
+[VITTI]
+No.
+ບໍ່
+
+346
+00:23:53,050 --> 00:23:55,500
+[BEN]
+Then why do you have a girlfriend?
+ຫຼັງຈາກນັ້ນເປັນຫຍັງເຈົ້າມີແຟນ?
+
+347
+00:23:56,000 --> 00:23:59,850
+[VITTI]
+I do things with her I can't do with my wife.
+ຂ້ອຍເຮັດບາງສິ່ງບາງຢ່າງກັບນາງທີ່ຂ້ອຍບໍ່ສາມາດເຮັດກັບເມຍຂອງຂ້ອຍໄດ້.
+
+348
+00:24:00,350 --> 00:24:03,500
+[BEN]
+Why can't you do those things with your wife?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ສາມາດເຮັດສິ່ງເຫຼົ່ານັ້ນກັບເມຍຂອງທ່ານໄດ້?
+
+349
+00:24:04,000 --> 00:24:09,600
+[VITTI]
+Hey. That's the mouth she kisses my children good night with. What's the matter with you?
+ເຮ້. ນັ້ນແມ່ນປາກທີ່ນາງຈູບລູກຂອງຂ້ອຍດີຄືນດ້ວຍ
+. ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+350
+00:24:10,100 --> 00:24:13,950
+[BEN]
+Okay, okay. Have you been under a lot of stress lately?
+ດີແລ້ວ, ດີແລ້ວ. ເຈົ້າມີຄວາມກົດດັນຫຼາຍຫຼ້າສຸດບໍ?
+
+351
+00:24:14,450 --> 00:24:18,650
+[VITTI]
+You mean like seeing your best friend murdered? Yeah, I got stress.
+ເຈົ້າຫມາຍຄວາມວ່າຄືກັບການເຫັນເພື່ອນທີ່ດີທີ່ສຸດຂອງທ່ານຖືກຄາດຕະກໍາບໍ
+? ແມ່ນແລ້ວ, ຂ້ອຍມີຄວາມເຄັ່ງຕຶງ.
+
+352
+00:24:19,150 --> 00:24:25,100
+[BEN]
+Well, based on what you told me before about your attacks, I'd say that's probably it then.
+ດີ, ອີງຕາມສິ່ງທີ່ເຈົ້າບອກຂ້ອຍກ່ອນກ່ຽວກັບການໂຈມຕີຂອງທ່ານ
+, ຂ້ອຍຈະເວົ້າວ່າມັນອາດຈະເປັນມັນໃນເວລານັ້ນ.
+
+353
+00:24:25,600 --> 00:24:27,600
+[VITTI]
+It's just stress?
+ມັນເປັນພຽງແຕ່ຄວາມກົດດັນບໍ?
+
+354
+00:24:28,100 --> 00:24:31,250
+[BEN]
+I doubt if there's anything physically wrong with you.
+ຂ້ອຍສົງໄສວ່າມີຫຍັງຜິດກັບເຈົ້າທາງດ້ານຮ່າງກາຍບໍ.
+
+355
+00:24:31,750 --> 00:24:33,750
+[VITTI]
+You.   You. You're very good.
+ເຈົ້າ. ເຈົ້າ.ເຈົ້າດີຫຼາຍ.
+
+356
+00:24:34,250 --> 00:24:36,700
+[BEN]
+There's a lot more to it --
+ມັນມີອີກຫຼາຍຢ່າງອີກ -
+
+357
+00:24:37,200 --> 00:24:43,200
+[VITTI]
+No, you're right. You're right on the money. I can feel the juices rushing back to my manhood as we speak.
+ບໍ່, ເຈົ້າຖືກຕ້ອງ. ເຈົ້າຖືກຕ້ອງກ່ຽວກັບເງິນ. ຂ້ອຍສາມາດຮູ້ສຶກນ້ ໍາ
+ມັນທີ່ແລ່ນກັບຄືນສູ່ຄວາມເປັນຜູ້ຊາຍຂອງຂ້ອຍໃນຂະນະທີ່ພວກເຮົາເວົ້າ.
+
+358
+00:24:43,700 --> 00:24:46,150
+[BEN]
+Well, I didn't need to know that.
+ດີ, ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງຮູ້ເລື່ອງນັ້ນ.
+
+359
+00:24:46,650 --> 00:24:48,750
+[VITTI]
+This settles it. You're my shrink.
+ນີ້ແມ່ນແກ້ໄຂມັນ. ເຈົ້າເປັນຈິດໃຈຂອງຂ້ອຍ.
+
+360
+00:24:49,250 --> 00:24:55,250
+[BEN]
+I can't treat you, Mr. Vitti. I don't think you're really ready to open up and deal with --
+ຂ້ອຍບໍ່ສາມາດປິ່ນປົວເຈົ້າໄດ້, ທ້າວ Vitti.
+ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າພ້ອມທີ່ຈະເປີດແລະຮັບມືກັບ -
+
+361
+00:24:55,750 --> 00:25:01,750
+[VITTI]
+Listen to you. The honesty. Nobody -- and I mean nobody -- talks to me like this. I'm ready. Let's do it.
+ຟັງເຈົ້າ. ຄວາມຈິງໃຈ. ບໍ່ມີໃຜ - ແລະຂ້ອຍຫມາຍຄວາມວ່າບໍ່ມີໃຜ
+- ເວົ້າກັບຂ້ອຍແບບນີ້. ຂ້ອຍພ້ອມແລ້ວ. ມາເຮັດມັນ.
+
+362
+00:25:02,250 --> 00:25:05,750
+[BEN]
+You don't hear the word 'no' that often, do you?
+ເຈົ້າບໍ່ຍິນຄໍາວ່າ'ບໍ່' ຫຼາຍປານໃດ, ແມ່ນບໍ?
+
+363
+00:25:06,250 --> 00:25:11,150
+[VITTI]
+I hear it all the time. Only it's more like, 'No, no, please, no!'
+ຂ້ອຍໄດ້ຍິນມັນຕະຫຼອດເວລາ. ພຽງແຕ່ມັນຄ້າຍຄືກັບວ່າ
+,' ບໍ່, ບໍ່, ກະລຸນາ, ບໍ່!'
+
+364
+00:25:11,650 --> 00:25:17,650
+[BEN]
+All right. I'm here for two more days. When we get back to New York, I'll treat you exclusively for two weeks. I just need to figure out what to tell my other patients.
+ດີແລ້ວ. ຂ້ອຍຢູ່ບ່ອນນີ້ອີກສອງມື້. ເມື່ອພວກເຮົາກັບຄືນໄປນິວຢອກ,
+ຂ້ອຍຈະປິ່ນປົວເຈົ້າສະເພາະເປັນເວລາສອງອາທິດ. ຂ້ອຍພຽງແຕ່ຕ້ອງຄິດວ່າຈະບອກຄົນເຈັບຄົນອື່ນຂອງຂ້ອຍຫຍັງ.
+
+365
+00:25:18,150 --> 00:25:21,300
+[VITTI]
+You want me to clear your schedule for you?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດລາຍການຂອງທ່ານ ສໍາ ລັບເຈົ້າບໍ?
+
+366
+00:25:21,800 --> 00:25:24,950
+[BEN]
+No thanks, I'll handle it.   Now can I go?
+ບໍ່ ຂອບໃຈ, ຂ້ອຍຈະຮັບມືກັບມັນ. ດຽວນີ້ຂ້ອຍສາມາດໄປໄດ້ບໍ?
+
+367
+00:25:25,450 --> 00:25:27,450
+[VITTI]
+Thank you.
+ຂອບໃຈ
+
+368
+00:25:27,950 --> 00:25:33,950
+[LAURA]
+What is wrong with you? I woke up, you were gone, no note or anything. I've been going out of my mind, Ben. I walked all over the hotel looking for you. I almost called the police!
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ? ຂ້ອຍຕື່ນຂຶ້ນ, ເຈົ້າຫາຍໄປ, ບໍ່ມີຂໍ້ສັງເກດຫຼືຫຍັງເລີຍ. ຂ້ອຍ
+ກໍາ ລັງອອກຈາກຈິດໃຈຂອງຂ້ອຍ, ແບນ. ຂ້ອຍຍ່າງທົ່ວໂຮງແຮມຊອກຫາເຈົ້າ. ຂ້ອຍເກືອບຈະໂທຫາຕໍາຫຼວດ!
+
+369
+00:25:34,450 --> 00:25:39,700
+[BEN]
+Okay, listen. I'm going to tell you the truth. I had a serious patient emergency.
+ດີແລ້ວ, ຟັງ. ຂ້ອຍຈະບອກເຈົ້າຄວາມຈິງ.
+ຂ້ອຍມີສຸກເສີນຂອງຄົນເຈັບທີ່ຮ້າຍແຮງ.
+
+370
+00:25:40,200 --> 00:25:42,200
+[LAURA]
+You have patients in Florida?
+ເຈົ້າມີຄົນເຈັບຢູ່ຟລໍຣິດາບໍ?
+
+371
+00:25:42,700 --> 00:25:47,250
+[BEN]
+Just one. He followed me here from New York. I had to go.
+ພຽງແຕ່ຄົນດຽວ. ລາວຕິດຕາມຂ້ອຍມາຈາກນິວຢອກ. ຂ້ອຍຕ້ອງໄປ.
+
+372
+00:25:47,750 --> 00:25:49,750
+[LAURA]
+Who is this patient?
+ຄົນເຈັບຄົນນີ້ແມ່ນໃຜ?
+
+373
+00:25:50,250 --> 00:25:52,250
+[BEN]
+Paul Vitti!  Paul Vitti.
+ໂປລ ວີຕີ! ໂໂປລ ວິຕີ.
+
+374
+00:25:52,750 --> 00:25:54,750
+[LAURA]
+Oh, Ben.
+ໂອ້ ແບນ.
+
+375
+00:25:55,250 --> 00:26:01,250
+[BEN]
+I know.    But don't worry. It's not like   he's a real patient. He's got   this idea in his head that I'm   helping him. It's crazy.
+ຂ້ອຍຮູ້ແລ້ວ. ແຕ່ຢ່າກັງວົນ. ມັນບໍ່ແມ່ນວ່າລາວເປັນຄົນເຈັບທີ່ແທ້ຈິງ
+. ລາວມີຄວາມຄິດໃນຫົວຂອງລາວວ່າຂ້ອຍ ກໍາ ລັງຊ່ວຍລາວ. ມັນໂຊກຮ້າຍ.
+
+376
+00:26:01,750 --> 00:26:03,850
+[LAURA]
+You're not going to treat him.
+ເຈົ້າຈະບໍ່ປິ່ນປົວລາວ.
+
+377
+00:26:04,350 --> 00:26:06,350
+[BEN]
+No.
+ບໍ່
+
+378
+00:26:06,850 --> 00:26:08,850
+[LAURA]
+Tell me you're not.
+ບອກຂ້ອຍວ່າເຈົ້າບໍ່ແມ່ນ.
+
+379
+00:26:09,350 --> 00:26:11,350
+[BEN]
+I'm not!
+ຂ້ອຍບໍ່ແມ່ນ!
+
+380
+00:26:11,850 --> 00:26:17,850
+[LAURA]
+That would be too scary. You don't want a person like that in your life, believe me. I've covered the mob down here. I've seen what they can do.
+ນັ້ນຈະເປັນຄວາມຢ້ານກົວຫຼາຍ. ເຈົ້າບໍ່ຢາກມີຄົນແບບນັ້ນໃນຊີວິດຂອງທ່ານ, ເຊື່ອຂ້ອຍ
+. ຂ້ອຍໄດ້ປົກຄຸມກຸ່ມຄົນຮ້າຍຢູ່ບ່ອນນີ້. ຂ້ອຍເຫັນວ່າພວກເຂົາສາມາດເຮັດໄດ້ແນວໃດ.
+
+381
+00:26:18,350 --> 00:26:24,350
+[BEN]
+Listen, it's been taken care of. I told him I couldn't see him again. He understood and it's over.
+ຟັງ, ມັນຖືກເບິ່ງແຍງແລ້ວ. ຂ້ອຍບອກລາວວ່າຂ້ອຍບໍ່ສາມາດເຫັນລາວອີກເທື່ອຫນຶ່ງໄດ້
+. ລາວເຂົ້າໃຈແລະມັນສິ້ນສຸດລົງ.
+
+382
+00:26:24,850 --> 00:26:26,850
+[LAURA]
+You sure?
+ເຈົ້າແນ່ໃຈບໍ?
+
+383
+00:26:27,350 --> 00:26:29,350
+[LAURA]
+I was so worried.
+ຂ້ອຍກັງວົນຫຼາຍ.
+
+384
+00:26:29,850 --> 00:26:35,450
+[MOONY]
+It doesn't figure. We take out Manetta, what does Vitti do? Nothing. Why doesn't he move?
+ມັນບໍ່ຄິດ. ພວກເຮົາເອົາແມເນຕຕາອອກ, ວິດຕິເຮັດຫຍັງ
+? ບໍ່ມີຫຍັງເລີຍ. ເປັນຫຍັງລາວຈຶ່ງບໍ່ເຄື່ອນຍ້າຍ?
+
+385
+00:26:35,950 --> 00:26:37,950
+[SINDONE]
+Fuck him.
+ລາວໄປໂຊກຮ້າຍ.
+
+386
+00:26:38,450 --> 00:26:43,700
+[MOONY]
+I'm telling you, Primo, he's planning something big. The shit is really gonna come down.
+ຂ້ອຍບອກເຈົ້າວ່າ, ປຣີໂມ, ລາວ ກໍາ
+ລັງວາງແຜນບາງສິ່ງບາງຢ່າງທີ່ໃຫຍ່ຫຼວງ. ເລື່ອງຈະຕົກລົງແທ້ໆ.
+
+387
+00:26:44,200 --> 00:26:50,200
+[SINDONE]
+Then let it come down. Vitti's a tough guy but a lot of tough guys got fed to the crabs off Red Hook over the years.  You been down there a long time. Are you measuring my inseam or contemplating a lifestyle change?
+ຫຼັງຈາກນັ້ນປ່ອຍໃຫ້ມັນລົງ. ວີຕຕີ້ເປັນຜູ້ຊາຍທີ່ແຂງແຮງແຕ່ຄົນແຂງແຮງຫຼາຍຄົນຖືກໃຫ້ອາຫານກັບແຄຣບສ໌ຈາກ Red Hook
+ໃນໄລຍະຫຼາຍປີ. ເຈົ້າຢູ່ລຸ່ມນັ້ນເປັນເວລາດົນນານ. ເຈົ້າ ກໍາ ລັງວັດແທກນ້ ໍາ ຂອງຂ້ອຍຫຼືພິຈາລະນາການປ່ຽນແປງແບບຊີວິດບໍ?
+
+388
+00:26:50,700 --> 00:26:52,700
+[MOONY]
+Primo?   What about Vitti?
+ປຣີໂມ? Vitti ຈະເປັນແນວໃດ?
+
+389
+00:26:53,200 --> 00:26:59,200
+[SINDONE]
+Vitti. Vitti. The whole time we were growing up, he was the smart guy; I was the dope. My father was a nickel-and-dime shitheel; his father had it all. Vito Genovese blew it at Apalachin because he forgot to kill Gambino before the meeting.
+ວີຕີ. ວີຕິ. ຕະຫຼອດເວລາທີ່ພວກເຮົາເຕີບໃຫຍ່ຂຶ້ນ, ລາວເປັນຄົນສະຫຼາດ; ຂ້ອຍເປັນຢາເສບຕິດ. ພໍ່ຂອງຂ້ອຍເປັນຄົນໂຊກແຊງນິກເກວແລະດິມ
+; ພໍ່ຂອງລາວມີທຸກຢ່າງ. ວິດໂຕ ເຈໂນເວສ໌ໄດ້ລະເບີດມັນຢູ່ອາປາລາຊິນເພາະວ່າລາວລືມທີ່ຈະຂ້າແກມບິນໂກ້ກ່ອນກອງປະຊຸມ.
+
+390
+00:26:59,700 --> 00:27:05,700
+[SINDONE]
+I won't make the same mistake. I want Paul Vitti dead -- now. You two astronauts think you can handle that?
+ຂ້ອຍຈະບໍ່ເຮັດຄວາມຜິດພາດດຽວກັນ. ຂ້ອຍຢາກໃຫ້ໂປລ ວີຕີຕາຍ - ດຽວນີ້
+. ເຈົ້າທັງສອງນັກບິນອະວະກາດຄິດວ່າເຈົ້າສາມາດຮັບມືກັບມັນໄດ້ບໍ?
+
+391
+00:27:06,200 --> 00:27:08,200
+[HANDSOME JACK]
+You got it, Primo.
+ເຈົ້າເຮັດແລ້ວ, ປຣີໂມ.
+
+392
+00:27:08,700 --> 00:27:10,700
+[LAURA]
+Come on. Get into it.
+ມາແລ້ວ. ເຂົ້າໄປໃນມັນ.
+
+393
+00:27:11,200 --> 00:27:17,200
+[BEN]
+I don't understand. They jump out of the water, they splash, they eat fish. It's not a real stretch for a whale. If they did a number from West Side Story, then I'd be into it.
+ຂ້ອຍບໍ່ເຂົ້າໃຈ. ພວກເຂົາໂດດອອກຈາກນ້ ໍາ, ພວກເຂົາສີດ, ພວກເຂົາກິນປາ. ມັນບໍ່ແມ່ນການຍືດຫຍຸ່ນທີ່ແທ້ຈິງ
+ສໍາ ລັບວາວ. ຖ້າພວກເຂົາເຮັດຕົວເລກຈາກເລື່ອງ West Side, ຫຼັງຈາກນັ້ນຂ້ອຍຈະມັກມັນ.
+
+394
+00:27:17,700 --> 00:27:19,800
+[LAURA]
+Just stop.  We're having fun, right?
+ພຽງແຕ່ຢຸດເຊົາ. ພວກເຮົາ ກໍາ ລັງມ່ວນຊື່ນ, ແມ່ນບໍ?
+
+395
+00:27:20,300 --> 00:27:26,300
+[MICHAEL]
+Well, to be real honest. I'm not having as much fun as it looks like I am. I'm pretending, you know, because we have to bond and everything.
+ດີ, ເພື່ອເປັນຄວາມຈິງໃຈແທ້ໆ. ຂ້ອຍບໍ່ໄດ້ມ່ວນຊື່ນຫຼາຍເທົ່າທີ່ມັນເບິ່ງຄືວ່າຂ້ອຍເປັນ
+. ຂ້ອຍ ກໍາ ລັງປອມແປງ, ເຈົ້າຮູ້ແລ້ວ, ເພາະວ່າພວກເຮົາຕ້ອງເຊື່ອມໂຍງແລະທຸກຢ່າງ.
+
+396
+00:27:26,800 --> 00:27:28,900
+[BEN]
+You've got to admire the openness.
+ເຈົ້າຕ້ອງປະທັບໃຈຄວາມເປີດເຜີຍ.
+
+397
+00:27:29,400 --> 00:27:31,400
+[MICHAEL]
+Here comes the whale again!
+ມາແລ້ວວາວອີກເທື່ອຫນຶ່ງ!
+
+398
+00:27:31,900 --> 00:27:33,900
+[JIMMY]
+Fuck me!
+ຂ້ອຍໄປໂຊກຮ້າຍ!
+
+399
+00:27:34,400 --> 00:27:39,650
+[BEN]
+I'm hungry. Yeah, I'm going to get a hot dog. Who wants a hot dog?
+ຂ້ອຍຢາກກິນ. ແມ່ນແລ້ວ, ຂ້ອຍຈະເອົາຫມາ ຮອດດອກ. ໃຜຢາກຮອດ ດອກ?
+
+400
+00:27:40,150 --> 00:27:42,150
+[MICHAEL]
+I'll go with you.
+ຂ້ອຍຈະໄປກັບເຈົ້າ.
+
+401
+00:27:42,650 --> 00:27:48,650
+[BEN]
+No, I'll go. You're pretending to have a good time. I don't want to spoil that. Be right back.
+ບໍ່, ຂ້ອຍຈະໄປ. ເຈົ້າ ກໍາ ລັງເຮັດແບບວ່າມີຄວາມມ່ວນຊື່ນ
+. ຂ້ອຍບໍ່ຢາກ ທໍາ ລາຍມັນ. ກັບມາທັນທີ.
+
+402
+00:27:49,150 --> 00:27:51,950
+[BEN]
+What is this?    Are you guys following me?
+ນີ້ແມ່ນຫຍັງ? ພວກເຈົ້າຕິດຕາມຂ້ອຍບໍ?
+
+403
+00:27:52,450 --> 00:27:56,650
+[JIMMY]
+Fuckin' fifteen-hundred dollar suit. You think the whales piss in that water?
+ເຈົ້າຄິດວ່າວາວໄດ້ສູບໃນນ້ ໍາ ນັ້ນບໍ?
+
+404
+00:27:57,150 --> 00:28:03,150
+[JELLY]
+No, I think they use the men's room next door at the Burger King.  Mr. Vitti wants to see you.
+ບໍ່, ຂ້ອຍຄິດວ່າພວກເຂົາໃຊ້ຫ້ອງນ້ ໍາ ຜູ້ຊາຍຢູ່ຂ້າງເຮືອນຢູ່
+Burger King. ທ້າວ Vitti ຢາກເຫັນເຈົ້າ.
+
+405
+00:28:03,650 --> 00:28:05,650
+[BEN]
+Is this a joke?
+ນີ້ແມ່ນໂຊກຮ້າຍບໍ?
+
+406
+00:28:06,150 --> 00:28:12,150
+[JELLY]
+You're an employee of Mr. Vitti's. That means you're on call twenty- four hours a day just like the rest of us.
+ເຈົ້າເປັນພະນັກງານຂອງທ່ານ Vitti ໄດ້.
+ນັ້ນຫມາຍຄວາມວ່າເຈົ້າຢູ່ໃນການໂທສສິບສີ່ຊົ່ວໂມງຕໍ່ມື້ຄືກັບພວກເຮົາຄົນອື່ນ.
+
+407
+00:28:12,650 --> 00:28:18,650
+[BEN]
+No, he and I discussed this. I told him I'd see him when I got got back to New York.
+ບໍ່, ລາວແລະຂ້ອຍໄດ້ປຶກສາຫາລືເລື່ອງນີ້.
+ຂ້ອຍບອກລາວວ່າຂ້ອຍຈະເຫັນລາວເມື່ອຂ້ອຍກັບຄືນໄປນິວຢອກ.
+
+408
+00:28:19,150 --> 00:28:24,750
+[JELLY]
+Don't be a skavootz. It is what it is. If he needs you sooner, you go.
+ຢ່າເປັນຄົນສະກາວອດສ໌. ມັນເປັນສິ່ງທີ່ມັນເປັນ
+. ຖ້າລາວຕ້ອງການເຈົ້າກ່ອນ, ເຈົ້າໄປ.
+
+409
+00:28:25,250 --> 00:28:31,250
+[BEN]
+No, I'm not going, and if you bother me again I won't treat him at all. Understand? That's it. End of story.
+ບໍ່, ຂ້ອຍຈະບໍ່ໄປ, ແລະຖ້າເຈົ້າກັງວົນຂ້ອຍອີກຄັ້ງຂ້ອຍຈະບໍ່ປິ່ນປົວລາວເລີຍ
+. ເຂົ້າໃຈບໍ? ນັ້ນແມ່ນມັນ. ສິ້ນສຸດເລື່ອງ.
+
+410
+00:28:31,750 --> 00:28:33,750
+[BOY]
+Asshole.
+ຄົນໂຊກຮ້າຍ.
+
+411
+00:28:34,250 --> 00:28:36,250
+[BOY]
+Thanks, mister.
+ຂອບໃຈເດີເດີເດີ.
+
+412
+00:28:36,750 --> 00:28:40,600
+[BEN]
+They threw me in the shark tank, Paul. The shark tank!
+ພວກເຂົາໄດ້ຖິ້ມຂ້ອຍໃສ່ຖັງແຊກແຊງ, ໂປລ. ຖັງແສງແຊມແຊ!
+
+413
+00:28:41,100 --> 00:28:43,550
+[VITTI]
+They were trying to make a point.
+ພວກເຂົາ ກໍາ ລັງພະຍາຍາມສະແດງຈຸດປະສົງ.
+
+414
+00:28:44,050 --> 00:28:47,200
+[BEN]
+What, that you're a scary guy? I get it.
+ຫຍັງ, ວ່າເຈົ້າເປັນຜູ້ຊາຍທີ່ຢ້ານກົວບໍ? ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+415
+00:28:47,700 --> 00:28:50,150
+[VITTI]
+You're in a mood, you know that?
+ເຈົ້າຢູ່ໃນອາລົມ, ເຈົ້າຮູ້ບໍ?
+
+416
+00:28:50,650 --> 00:28:55,550
+[BEN]
+Yeah, I get that way when a shark tries to chew on my ass.
+ແມ່ນແລ້ວ, ຂ້ອຍກາຍເປັນແບບນັ້ນເມື່ອແມງໄມ້ພະຍາຍາມກັດບາກຂອງຂ້ອຍ.
+
+417
+00:28:56,050 --> 00:28:58,050
+[VITTI]
+Okay.   Okay.   Calm down.
+ດີ. ດີ. ສະບາຍໃຈ.
+
+418
+00:28:58,550 --> 00:29:04,550
+[BEN]
+I don't want to calm down. My girl friend saw me all wet? I told her I fell into a tank with the manatees. I lied to her last night, now this. I don't like it.
+ຂ້ອຍບໍ່ຢາກສະຫງົບໃຈ. ເພື່ອນຍິງຂອງຂ້ອຍເຫັນຂ້ອຍຊຸ່ມຊື່ນບໍ?
+ຂ້ອຍບອກນາງວ່າຂ້ອຍຕົກລົງໃນຖັງກັບແມນເນັດ. ຂ້ອຍຕົວະນາງໃນມື້ວານນີ້, ດຽວນີ້ນີ້. ຂ້ອຍບໍ່ມັກມັນ.
+
+419
+00:29:05,050 --> 00:29:07,150
+[VITTI]
+Manatees.   That's a funny word. Manatees.
+ແມນເນັດ. ນັ້ນແມ່ນ ຄໍາ ເວົ້າທີ່ມ່ວນຊື່ນ. ແມມເນັດສ໌.
+
+420
+00:29:07,650 --> 00:29:10,100
+[BEN]
+I'm glad you're entertained. What's the problem?
+ຂ້ອຍດີໃຈທີ່ເຈົ້າຖືກບັນເທີງ. ບັນຫາຫຍັງ?
+
+421
+00:29:10,600 --> 00:29:13,050
+[VITTI]
+Oh, I can tell you really care.
+ໂອ້, ຂ້ອຍສາມາດບອກໄດ້ວ່າເຈົ້າສົນໃຈແທ້ໆ.
+
+422
+00:29:13,550 --> 00:29:15,550
+[BEN]
+Okay.   What's going on?
+ດີແລ້ວ. ເກີດຫຍັງຂຶ້ນ?
+
+423
+00:29:16,050 --> 00:29:22,050
+[VITTI]
+I had an episode. Not an actual panic attack, but I started panicking a little thinking I might have one. Does that seem weird to you?
+ຂ້ອຍມີອາຊະຍາກໍາ. ບໍ່ແມ່ນການໂຈມຕີຄວາມຢ້ານກົວທີ່ແທ້ຈິງ, ແຕ່ຂ້ອຍເລີ່ມຢ້ານ
+ກົວ ຫນ້ອຍ ຫນຶ່ງ ຄິດວ່າຂ້ອຍອາດຈະມີ ຫນຶ່ງ. ມັນເບິ່ງຄືວ່າແປກໃຈບໍ?
+
+424
+00:29:22,550 --> 00:29:28,500
+[BEN]
+I'm redefining 'weird' on an hourly basis. What were you thinking about when you started feeling anxious?
+ຂ້ອຍ ກໍາ ລັງ ກໍາ ນົດຄືນຄວາມແປກໃຈໃນແຕ່ລະຊົ່ວໂມງ
+. ເຈົ້າຄິດຫຍັງເມື່ອເຈົ້າເລີ່ມຮູ້ສຶກກັງວົນ?
+
+425
+00:29:29,000 --> 00:29:31,800
+[VITTI]
+I don't know. The usual bullshit. Family problems.
+ຂ້ອຍບໍ່ຮູ້. ຄວາມໂຊກຮ້າຍປົກກະຕິ. ບັນຫາຄອບຄົວ.
+
+426
+00:29:32,300 --> 00:29:34,300
+[BEN]
+Which family?  This one?
+ຄອບຄົວໃດ? ຄົນນີ້ບໍ?
+
+427
+00:29:34,800 --> 00:29:36,800
+[VITTI]
+No, regular family.
+ບໍ່, ຄອບຄົວປົກກະຕິ.
+
+428
+00:29:37,300 --> 00:29:41,850
+[BEN]
+I want you to draw a picture of a house. In the sand.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າແຕ້ມຮູບເຮືອນ. ໃນຊາຍ.
+
+429
+00:29:42,350 --> 00:29:46,550
+[VITTI]
+What kind of house? A warehouse? A whorehouse? My house? What house?
+ເຮືອນປະເພດໃດ? ຮ້ານເກັບມ້ຽນ? ເຮືອນໂຊກຮ້າຍ? ເຮືອນຂອງຂ້ອຍ? ເຮືອນໃດ?
+
+430
+00:29:47,050 --> 00:29:49,050
+[BEN]
+A house.
+ເຮືອນ.
+
+431
+00:29:49,550 --> 00:29:51,550
+[VITTI]
+Why?
+ເປັນຫຍັງ?
+
+432
+00:29:52,050 --> 00:29:54,500
+[BEN]
+I'll tell you after you do it.
+ຂ້ອຍຈະບອກເຈົ້າຫຼັງຈາກເຈົ້າເຮັດມັນ.
+
+433
+00:29:55,000 --> 00:30:00,600
+[VITTI]
+This is good. I come to Florida and draw pictures in the sand like a jerkoff.
+ນີ້ແມ່ນດີ. ຂ້ອຍມາຟລໍຣິດາແລະແຕ້ມຮູບໃນຊາຍຄືກັບຄົນໂຊກຮ້າຍ.
+
+434
+00:30:01,100 --> 00:30:07,100
+[TINO]
+I don't know what they're doing. He's talking to some guy. Looks like Vitti is drawing something in the sand... What's he drawing? What am I, Superman? I'm a hundred yards away -- I can't see shit... No way, he's got that fat Jelly with him and his partner, Jimmy Boots. We could take him out with a rifle and a scope, but I don't have any of that shit with me. My scope's in the shop... Nah, it's a warranty item... Hey, don't sweat it. You told me to take care of him, I'll take care of him... Okay, I'll call you back.
+ຂ້ອຍບໍ່ຮູ້ວ່າພວກເຂົາ ກໍາ ລັງເຮັດຫຍັງ. ລາວ ກໍາ ລັງເວົ້າກັບຜູ້ຊາຍບາງຄົນ. ເບິ່ງຄືວ່າ Vitti ກໍາ ລັງແຕ້ມບາງສິ່ງບາງຢ່າງໃນດິນຊາຍ... ລາວແຕ້ມຫຍັງ? ຂ້ອຍເປັນຫຍັງ, Superman? ຂ້ອຍຢູ່ຫ່າງໄກສິບແມັດ -
+ຂ້ອຍບໍ່ສາມາດເຫັນສິ່ງໃດໆໄດ້... ບໍ່ເປັນໄປໄດ້, ລາວມີເຈເລຍໄຂມັນນັ້ນກັບລາວແລະຄູ່ຮ່ວມງານຂອງລາວ, ຈິມມີ ບຸດສ໌. ພວກເຮົາສາມາດເອົາລາວອອກດ້ວຍປືນແລະຂອບເຂດ, ແຕ່ຂ້ອຍບໍ່ມີສິ່ງນັ້ນໃດໆກັບຂ້ອຍ. ຂອບເຂດຂອງຂ້ອຍຢູ່ໃນຮ້ານຄ້າ...
+
+435
+00:30:07,600 --> 00:30:09,600
+[VITTI]
+There.   You happy?
+ນັ້ນແລ້ວ. ເຈົ້າມີຄວາມສຸກບໍ?
+
+436
+00:30:10,100 --> 00:30:12,100
+[BEN]
+Where are the people?
+ຄົນຢູ່ໃສ?
+
+437
+00:30:12,600 --> 00:30:15,750
+[VITTI]
+What people?   You told me to draw a house.
+ຄົນໃດ? ເຈົ້າບອກຂ້ອຍໃຫ້ແຕ້ມເຮືອນ.
+
+438
+00:30:16,250 --> 00:30:22,250
+[BEN]
+I know. But usually when people draw a house they draw people. Where are the people who live in your house?
+ຂ້ອຍຮູ້ແລ້ວ. ແຕ່ປົກກະຕິແລ້ວເມື່ອຄົນແຕ້ມເຮືອນພວກເຂົາແຕ້ມຄົນ
+. ຄົນທີ່ອາໄສຢູ່ໃນເຮືອນຂອງທ່ານຢູ່ໃສ?
+
+439
+00:30:22,750 --> 00:30:28,750
+[VITTI]
+Well, you see, they'd come out and say hello, but the whole family's in the Witness Protection Program. It's very sad. What the fuck you want from me?
+ດີ, ເຈົ້າເຫັນແລ້ວ, ພວກເຂົາຈະອອກມາອວຍພອນ, ແຕ່ຄອບຄົວທັງ ຫມົດ
+ແມ່ນຢູ່ໃນໂຄງການປົກປ້ອງພະຍານ. ມັນໂຊກຮ້າຍຫຼາຍ. ເຈົ້າຕ້ອງການຫຍັງຈາກຂ້ອຍ?
+
+440
+00:30:29,250 --> 00:30:35,250
+[BEN]
+Okay, forget the house. I'm going to say some words, and you say the first thing that comes into your mind.
+ດີແລ້ວ, ລືມເຮືອນ. ຂ້ອຍຈະເວົ້າບາງ ຄໍາ ເວົ້າ,
+ແລະເຈົ້າເວົ້າສິ່ງ ທໍາ ອິດທີ່ເຂົ້າມາໃນຈິດໃຈຂອງທ່ານ.
+
+441
+00:30:35,750 --> 00:30:37,750
+[VITTI]
+Good, more games. Shoot.
+ດີ, ເກມອີກ. ຍິງ.
+
+442
+00:30:38,250 --> 00:30:40,250
+[BEN]
+Home --
+ເຮືອນ...
+
+443
+00:30:40,750 --> 00:30:42,750
+[VITTI]
+-- plate.
+- ກະດານ.
+
+444
+00:30:43,250 --> 00:30:45,250
+[BEN]
+Mother --
+ແມ່...
+
+445
+00:30:45,750 --> 00:30:47,750
+[VITTI]
+-- fucker.
+- ຄົນໂຊກຮ້າຍ.
+
+446
+00:30:48,250 --> 00:30:50,250
+[BEN]
+Father --
+ພໍ່...
+
+447
+00:30:50,750 --> 00:30:53,200
+[VITTI]
+-- forgive me for I have sinned.
+- ຂໍໂທດຂ້ອຍເພາະວ່າຂ້ອຍໄດ້ເຮັດບາບ.
+
+448
+00:30:53,700 --> 00:30:55,700
+[BEN]
+Wife?
+ເມຍບໍ?
+
+449
+00:30:56,200 --> 00:30:58,200
+[VITTI]
+Love.
+ຄວາມຮັກ
+
+450
+00:30:58,700 --> 00:31:00,700
+[BEN]
+Son?
+ລູກຊາຍ?
+
+451
+00:31:01,200 --> 00:31:03,200
+[BEN]
+Son?
+ລູກຊາຍ?
+
+452
+00:31:03,700 --> 00:31:09,700
+[VITTI]
+See this? Again with the crying. Let's get out of here. We're being watched. Don't look. There's Feds on the roof of the hotel.
+ເຈົ້າເຫັນສິ່ງນີ້ບໍ? ອີກເທື່ອຫນຶ່ງດ້ວຍການຮ້ອງໄຫ້. ໄປຈາກບ່ອນນີ້.
+ພວກເຮົາຖືກເບິ່ງແຍງ. ຢ່າເບິ່ງ. ມີ FBI ຢູ່ເທິງເຮືອນຫລັງຂອງໂຮງແຮມ.
+
+453
+00:31:10,200 --> 00:31:12,200
+[BEN]
+How do you know that?
+ເຈົ້າຮູ້ແນວໃດ?
+
+454
+00:31:12,700 --> 00:31:14,800
+[VITTI]
+I'm a criminal. It's my job.
+ຂ້ອຍເປັນອາຊະຍາກໍາ. ມັນເປັນວຽກຂອງຂ້ອຍ.
+
+455
+00:31:15,300 --> 00:31:17,300
+[AGENT RICCI]
+Who's the new face?
+ຫນ້າໃຫມ່ແມ່ນໃຜ?
+
+456
+00:31:17,800 --> 00:31:23,050
+[AGENT STEADMAN]
+I don't know. Get somebody down there to see what he drew in the sand.
+ຂ້ອຍບໍ່ຮູ້. ເອົາຄົນລົງໄປບ່ອນນັ້ນເພື່ອເບິ່ງວ່າລາວແຕ້ມຫຍັງໃນຊາຍ.
+
+457
+00:31:23,550 --> 00:31:27,400
+[AGENT PROVANO]
+Whoever this guy is, he must be important to the family.
+ຜູ້ຊາຍຄົນນີ້ແມ່ນໃຜກໍ່ຕາມ, ລາວຕ້ອງມີຄວາມສໍາຄັນຕໍ່ຄອບຄົວ.
+
+458
+00:31:27,900 --> 00:31:33,900
+[AGENT STEADMAN]
+Maybe he's Vitti's new consigliere. Put his picture on the wire and see what you come up with.
+ບາງທີລາວເປັນຜູ້ແນະນໍາຄົນໃຫມ່ຂອງ Vitti.
+ເອົາຮູບຂອງລາວໃສ່ສາຍແລະເບິ່ງວ່າເຈົ້າຄິດຫຍັງ.
+
+459
+00:31:34,400 --> 00:31:38,250
+[VITTI]
+Look at this, the whole crew.  You all right? Good flight?
+ເບິ່ງສິ່ງນີ້, ທີມງານທັງ ຫມົດ. ເຈົ້າບໍ່ເປັນຫຍັງບໍ? ການບິນທີ່ດີບໍ?
+
+460
+00:31:38,750 --> 00:31:44,750
+[MARIE]
+Yeah, we're fine. We're on our way to the pool. Kids, get your stuff. We'll get out of your way.
+ແມ່ນແລ້ວ, ພວກເຮົາບໍ່ເປັນຫຍັງ. ພວກເຮົາ ກໍາ ລັງເດີນທາງໄປຫາສະລອຍນ້
+ໍາ. ເດັກນ້ອຍ, ເອົາສິ່ງຂອງຂອງທ່ານ. ພວກເຮົາຈະອອກຈາກທາງຂອງທ່ານ.
+
+461
+00:31:45,250 --> 00:31:51,250
+[VITTI]
+That's okay. Marie, this is a friend of mine, Ben Sobol.  He's -- from the boat. A fishing boat captain. Cuban refugee.
+ມັນບໍ່ເປັນຫຍັງ. ມາຣີ, ນີ້ແມ່ນເພື່ອນຂອງຂ້ອຍ, ເບນ ໂຊບອລ
+. ລາວແມ່ນ - ຈາກເຮືອ. ຄັບປິນເຮືອຫາປາ. ຜູ້ອົບພະຍົບກູບາ.
+
+462
+00:31:51,750 --> 00:31:53,850
+[MARIE]
+Nice to meet you, Senor Sobol.
+ດີໃຈທີ່ຮູ້ຈັກທ່ານ, ທ້າວໂຊບອລ.
+
+463
+00:31:54,350 --> 00:31:56,350
+[BEN]
+Gracias.
+ຂອບໃຈ.
+
+464
+00:31:56,850 --> 00:31:59,300
+[VITTI]
+And this is Theresa and Anna --
+ແລະນີ້ແມ່ນເທເຣຊາ ແລະ ແອນນາ -
+
+465
+00:31:59,800 --> 00:32:01,800
+[ANNA]
+Anne.
+ແອນ.
+
+466
+00:32:02,300 --> 00:32:04,750
+[VITTI]
+-- Anna, and the big guy, Anthony.
+- ແອນນາ ແລະ ຜູ້ໃຫຍ່ແອນໂຕນີ.
+
+467
+00:32:05,250 --> 00:32:07,250
+[ANTHONY]
+How you doin'?
+ເຈົ້າເປັນແນວໃດ?
+
+468
+00:32:07,750 --> 00:32:09,750
+[BEN]
+Nice to meet you.
+ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+
+469
+00:32:10,250 --> 00:32:14,100
+[VITTI]
+Jesus, Theresa, you are not wearing that suit to the pool.
+ພຣະເຢຊູ, ເທເຣຊາ, ເຈົ້າບໍ່ໄດ້ໃສ່ຊຸດນັ້ນໄປສະລອຍນ້ ໍາ.
+
+470
+00:32:14,600 --> 00:32:17,750
+[THERESA]
+What do you want me to wear, a one-piece?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍໃສ່ຫຍັງ, ເປັນສິ້ນດຽວບໍ?
+
+471
+00:32:18,250 --> 00:32:24,250
+[VITTI]
+I want you to wear one of those Arab bathrobes with a veil over your face, is what I want.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າໃສ່ເສື້ອຜ້າອາບນ້ ໍາ ອາຣັບນັ້ນ ຫນຶ່ງ
+ທີ່ມີຜ້າປົກຄຸມໃບຫນ້າຂອງທ່ານ, ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຕ້ອງການ.
+
+472
+00:32:24,750 --> 00:32:26,750
+[THERESA]
+Mom!
+ແມ່!
+
+473
+00:32:27,250 --> 00:32:31,450
+[MARIE]
+Don't worry about it, Paul.    We'll be back in time for dinner.
+ຢ່າກັງວົນກ່ຽວກັບມັນ, ໂປລ. ພວກເຮົາຈະກັບມາໃນເວລາ ສໍາ ລັບອາຫານຄໍ່າ.
+
+474
+00:32:31,950 --> 00:32:34,750
+[VITTI]
+Okay, babe.    Hey, Anthony.   Guess what I got?
+ດີແມ. ເຮ້ ແອນໂຕນີ. ຄາດວ່າຂ້ອຍມີຫຍັງ?
+
+475
+00:32:35,250 --> 00:32:37,250
+[ANTHONY]
+What?
+ຫຍັງ?
+
+476
+00:32:37,750 --> 00:32:41,250
+[VITTI]
+Marlins and the Braves -- right behind home plate, tonight.
+ມາລິນສ໌ ແລະ ບຣາວສ໌ - ຢູ່ເບື້ອງຫຼັງແຜ່ນບ້ານ, ໃນຄືນນີ້.
+
+477
+00:32:41,750 --> 00:32:43,750
+[ANTHONY]
+You and me?
+ເຈົ້າແລະຂ້ອຍບໍ?
+
+478
+00:32:44,250 --> 00:32:50,250
+[VITTI]
+Of course, you and me.  Have fun at the pool. Stay out of the deep end. And don't swim for a couple hours after you eat.
+ແນ່ນອນ, ເຈົ້າແລະຂ້ອຍ. ມ່ວນຊື່ນຢູ່ສະລອຍນໍ້າ. ຢູ່ຫ່າງຈາກຈຸດເລິກ
+. ແລະຢ່າລອຍນ້ ໍາ ເປັນເວລາສອງສາມຊົ່ວໂມງຫຼັງຈາກກິນອາຫານ.
+
+479
+00:32:50,750 --> 00:32:52,750
+[ANTHONY]
+Okay, Papa.
+ດີແລ້ວ, ພໍ່.
+
+480
+00:32:53,250 --> 00:32:55,250
+[VITTI]
+Send Jimmy down with them.
+ສົ່ງຈິມມີລົງກັບພວກເຂົາ.
+
+481
+00:32:55,750 --> 00:32:57,750
+[JELLY]
+Already done.
+ມັນເຮັດແລ້ວ.
+
+482
+00:32:58,250 --> 00:33:00,350
+[BEN]
+Nice family.    Cuban fishing boat captain?
+ຄອບຄົວທີ່ສວຍງາມ. ຄັບປິນເຮືອຫາປາກູບາບໍ?
+
+483
+00:33:00,850 --> 00:33:04,700
+[VITTI]
+I can't tell Marie you're a shrink. She'd worry, you know.
+ຂ້ອຍບໍ່ສາມາດບອກມາຣີວ່າເຈົ້າເປັນຈິດໃຈ. ນາງຈະກັງວົນ, ເຈົ້າຮູ້ແລ້ວ.
+
+484
+00:33:05,200 --> 00:33:09,400
+[BEN]
+About this? I think she'd be more worried about your career choice.
+ກ່ຽວກັບເລື່ອງນີ້ບໍ?
+ຂ້ອຍຄິດວ່ານາງຈະກັງວົນຫຼາຍຂຶ້ນກ່ຽວກັບການເລືອກອາຊີບຂອງທ່ານ.
+
+485
+00:33:09,900 --> 00:33:12,000
+[VITTI]
+Just keep going with the therapy.
+ພຽງແຕ່ສືບຕໍ່ການປິ່ນປົວ.
+
+486
+00:33:12,500 --> 00:33:16,700
+[BEN]
+You know, normally a patient wouldn't smoke or drink during a session.
+ເຈົ້າຮູ້ແລ້ວ,
+ປົກກະຕິແລ້ວຄົນເຈັບຈະບໍ່ສູບຢາຫຼືດື່ມໃນລະຫວ່າງກອງປະຊຸມ.
+
+487
+00:33:17,200 --> 00:33:21,750
+[VITTI]
+That's an interesting fact I'll have to remember if I'm ever on 'Jeopardy.'
+ນັ້ນແມ່ນຄວາມຈິງທີ່ ຫນ້າ
+ສົນໃຈທີ່ຂ້ອຍຕ້ອງຈື່ໄວ້ຖ້າຂ້ອຍຢູ່ໃນ'ຄວາມສ່ຽງ'.
+
+488
+00:33:22,250 --> 00:33:24,350
+[BEN]
+So tell me about your father.
+ສະນັ້ນບອກຂ້ອຍກ່ຽວກັບພໍ່ຂອງທ່ານ.
+
+489
+00:33:24,850 --> 00:33:30,850
+[VITTI]
+My father. He was a big man in the neighborhood -- very well respected. Everybody loved him, God rest his soul.
+ພໍ່ຂອງຂ້ອຍ. ລາວເປັນຜູ້ຊາຍໃຫຍ່ໃນບ້ານໃກ້ຄຽງ - ຖືກເຄົາລົບຫຼາຍ
+. ທຸກຄົນຮັກລາວ, ພຣະເຈົ້າພັກຜ່ອນຈິດວິນຍານຂອງລາວ.
+
+490
+00:33:31,350 --> 00:33:33,350
+[BEN]
+He passed away?
+ລາວຕາຍແລ້ວບໍ?
+
+491
+00:33:33,850 --> 00:33:39,850
+[VITTI]
+No, I just like saying 'God rest his soul.' Yeah, he passed away. He died when I was about twelve.
+ບໍ່, ຂ້ອຍພຽງແຕ່ມັກເວົ້າວ່າ' ພຣະເຈົ້າພັກຜ່ອນຈິດວິນຍານຂອງລາວ
+. ແມ່ນແລ້ວ, ລາວຕາຍແລ້ວ. ລາວຕາຍເມື່ອຂ້ອຍອາຍຸປະມານສິບສອງປີ.
+
+492
+00:33:40,350 --> 00:33:42,350
+[BEN]
+How?
+ແນວໃດ?
+
+493
+00:33:42,850 --> 00:33:44,850
+[VITTI]
+Heart attack.    Sudden thing.
+ການໂຈມຕີຫົວໃຈ. ສິ່ງກະທັນຫັນ.
+
+494
+00:33:45,350 --> 00:33:47,450
+[BEN]
+Were you and your father close?
+ເຈົ້າແລະພໍ່ຂອງເຈົ້າໃກ້ຊິດບໍ?
+
+495
+00:33:47,950 --> 00:33:53,550
+[VITTI]
+Close? Yeah, you know, pretty close. I guess we weren't getting along that great right then.
+ໃກ້ໆບໍ? ແມ່ນແລ້ວ, ເຈົ້າຮູ້ແລ້ວ, ໃກ້ຊິດຫຼາຍ.
+ຂ້ອຍຄິດວ່າພວກເຮົາບໍ່ໄດ້ເຂົ້າກັນດີໃນເວລານັ້ນ.
+
+496
+00:33:54,050 --> 00:33:56,050
+[BEN]
+Why was that?
+ນັ້ນເປັນຫຍັງ?
+
+497
+00:33:56,550 --> 00:34:02,550
+[VITTI]
+I was hangin'   out in the neighborhood.    I had a borghata -- like a kid   gang -- hooligan shit, nothin'   big. But my father didn't   like it.
+ຂ້ອຍ ກໍາ ລັງຢູ່ໃກ້ຄຽງ. ຂ້ອຍມີໂບຣກາຕາ - ຄືກັບກຸ່ມເດັກນ້ອຍ
+- ໂຊກຮ້າຍໂຮລິແກນ, ບໍ່ມີຫຍັງໃຫຍ່. ແຕ່ພໍ່ຂອງຂ້ອຍບໍ່ມັກມັນ.
+
+498
+00:34:03,050 --> 00:34:05,050
+[BEN]
+You fought about it?
+ເຈົ້າຕໍ່ສູ້ກັນກ່ຽວກັບມັນບໍ?
+
+499
+00:34:05,550 --> 00:34:08,000
+[VITTI]
+He slapped the shit out of me.
+ລາວຕີຂ້ອຍອອກໄປ.
+
+500
+00:34:08,500 --> 00:34:10,500
+[BEN]
+And then?
+ແລະຫຼັງຈາກນັ້ນ?
+
+501
+00:34:11,000 --> 00:34:13,100
+[VITTI]
+And then that night he died.
+ແລະຫຼັງຈາກນັ້ນໃນຄືນນັ້ນລາວຕາຍ.
+
+502
+00:34:13,600 --> 00:34:15,600
+[BEN]
+How did that feel?
+ມັນຮູ້ສຶກແນວໃດ?
+
+503
+00:34:16,100 --> 00:34:19,600
+[VITTI]
+It felt great! How did it feel?  I don't know.
+ມັນຮູ້ສຶກດີເລີດ! ຮູ້ສຶກແນວໃດ? ຂ້ອຍບໍ່ຮູ້.
+
+504
+00:34:20,100 --> 00:34:23,950
+[BEN]
+Well, think about it. Were you angry, were you afraid? Sad?
+ດີ, ຄິດກ່ຽວກັບມັນ. ເຈົ້າໂຊກຮ້າຍບໍ, ເຈົ້າຢ້ານບໍ? ເສົ້າໃຈບໍ?
+
+505
+00:34:24,450 --> 00:34:26,450
+[VITTI]
+Yeah, I guess.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າ.
+
+506
+00:34:26,950 --> 00:34:28,950
+[BEN]
+Any feelings of guilt?
+ມີຄວາມຮູ້ສຶກຜິດບໍ?
+
+507
+00:34:29,450 --> 00:34:31,550
+[VITTI]
+About what?   I didn't kill him.
+ກ່ຽວກັບຫຍັງ? ຂ້ອຍບໍ່ໄດ້ຂ້າລາວ.
+
+508
+00:34:32,050 --> 00:34:36,600
+[BEN]
+I'm just speculating, but maybe in some way you wanted him to die.
+ຂ້ອຍພຽງແຕ່ຄິດວ່າ, ແຕ່ບາງທີໃນທາງໃດຫນຶ່ງເຈົ້າຢາກໃຫ້ລາວຕາຍ.
+
+509
+00:34:37,100 --> 00:34:39,900
+[VITTI]
+Why would I want my father to die?
+ຂ້ອຍຢາກໃຫ້ພໍ່ຕາຍເປັນຫຍັງ?
+
+510
+00:34:40,400 --> 00:34:46,400
+[BEN]
+Well, you said you were fighting. You were rebelling against his authority. There may have been some unresolved Oedipal conflict.
+ດີ, ເຈົ້າບອກວ່າເຈົ້າ ກໍາ ລັງຕໍ່ສູ້. ເຈົ້າ ກໍາ
+ລັງກະບົດຕໍ່ອໍານາດຂອງລາວ. ອາດຈະມີການຂັດແຍ່ງ Oedipal ທີ່ຍັງບໍ່ແກ້ໄຂ.
+
+511
+00:34:46,900 --> 00:34:48,900
+[VITTI]
+English.
+ພາສາອັງກິດ.
+
+512
+00:34:49,400 --> 00:34:53,950
+[BEN]
+Oedipus was a Greek king who killed his father and married his mother.
+ໂອດີປັສເປັນກະສັດຊາວເກຣັກ
+ຜູ້ທີ່ໄດ້ຂ້າພໍ່ຂອງລາວແລະແຕ່ງງານກັບແມ່ຂອງລາວ.
+
+513
+00:34:54,450 --> 00:34:56,450
+[VITTI]
+Fuckin' Greeks.
+ຊາວເກຣັກທີ່ສໍ້ໂກງ.
+
+514
+00:34:56,950 --> 00:35:02,950
+[BEN]
+It's an   instinctual developmental drive.    The young boy wants to replace   his father so he can totally   possess his mother.
+ມັນເປັນການຂັບເຄື່ອນການພັດທະນາທາງຈິດໃຈ.
+ເດັກຊາຍຫນຸ່ມຢາກທົດແທນພໍ່ຂອງລາວເພື່ອໃຫ້ລາວສາມາດເປັນເຈົ້າຂອງແມ່ຂອງລາວໄດ້ຢ່າງສົມບູນ.
+
+515
+00:35:03,450 --> 00:35:06,600
+[VITTI]
+Are you saying I wanted to fuck my mother?
+ເຈົ້າເວົ້າວ່າຂ້ອຍຢາກຟັກແມ່ຂອງຂ້ອຍບໍ?
+
+516
+00:35:07,100 --> 00:35:09,100
+[BEN]
+It's a primal fantasy --
+ມັນເປັນຄວາມຝັນໃຈຕົ້ນສະບັບ -
+
+517
+00:35:09,600 --> 00:35:14,500
+[VITTI]
+Have you seen my mother? That is the sickest fucking thing I've ever heard.
+ເຈົ້າເຫັນແມ່ຂອງຂ້ອຍບໍ?
+ນັ້ນແມ່ນສິ່ງທີ່ເຈັບປ່ວຍທີ່ສຸດທີ່ຂ້ອຍເຄີຍໄດ້ຍິນ.
+
+518
+00:35:15,000 --> 00:35:17,000
+[BEN]
+It's Freud.
+ມັນເປັນຟຣອຍດ໌.
+
+519
+00:35:17,500 --> 00:35:22,400
+[VITTI]
+Well, then Freud's a sick fuck, and you are too for bringing it up.
+ດີ, ຫຼັງຈາກນັ້ນຟຣອຍດ໌ເປັນຄົນເຈັບປ່ວຍ,
+ແລະເຈົ້າກໍ່ເປັນອີກດ້ວຍ ສໍາ ລັບການຍົກເລີກມັນ.
+
+520
+00:35:22,900 --> 00:35:27,800
+[BELINDA]
+Well, isn't this wonderful, all of us finally getting to spend some time together.
+ດີ, ມັນບໍ່ດີເລີດບໍ, ພວກເຮົາທຸກຄົນໃນທີ່ສຸດຈະໃຊ້ເວລາຮ່ວມກັນບາງຄັ້ງ.
+
+521
+00:35:28,300 --> 00:35:30,750
+[SCOTT]
+All set for the big day, Ben?
+ພ້ອມແລ້ວ ສໍາ ລັບມື້ໃຫຍ່ບໍ, ແບນ?
+
+522
+00:35:31,250 --> 00:35:34,050
+[BEN]
+Can't wait, Scott.    Can I call you 'Scott?'
+ຂ້ອຍບໍ່ສາມາດລໍຖ້າໄດ້, ສອດຕ໌. ຂ້ອຍສາມາດເອີ້ນເຈົ້າວ່າສອດທ໌ໄດ້ບໍ?
+
+523
+00:35:34,550 --> 00:35:36,550
+[SCOTT]
+My friends call me 'Captain.'
+ເພື່ອນຂອງຂ້ອຍເອີ້ນຂ້ອຍວ່າ' ຄັບປິນ'.
+
+524
+00:35:37,050 --> 00:35:39,050
+[BEN]
+Captain.
+ຄັບປິນ.
+
+525
+00:35:39,550 --> 00:35:45,550
+[BELINDA]
+Well, if tomorrow goes as well as the rehearsal, I'd say it's going to be a beautiful wedding.
+ດີ, ຖ້າມື້ອື່ນໄປພ້ອມກັບການທົດລອງ,
+ຂ້ອຍຈະເວົ້າວ່າມັນຈະເປັນງານແຕ່ງງານທີ່ສວຍງາມ.
+
+526
+00:35:46,050 --> 00:35:52,050
+[BEN]
+Yes, thanks for going to all this trouble, and I have to thank you and the Captain for something else.
+ແມ່ນແລ້ວ, ຂອບໃຈທີ່ໄປຫາຄວາມຫຍຸ້ງຍາກທັງ ຫມົດ ນີ້,
+ແລະຂ້ອຍຕ້ອງຂອບໃຈເຈົ້າແລະຄັບປິນ ສໍາ ລັບບາງສິ່ງບາງຢ່າງອື່ນ.
+
+527
+00:35:52,550 --> 00:35:54,550
+[SCOTT]
+For what?
+ສໍາລັບຫຍັງ?
+
+528
+00:35:55,050 --> 00:35:57,050
+[BEN]
+For this.
+ສໍາລັບສິ່ງນີ້.
+
+529
+00:35:57,550 --> 00:36:01,750
+[LAURA]
+Would you like a drink, because I'm definitely having eight or nine.
+ເຈົ້າຢາກດື່ມບໍ, ເພາະວ່າຂ້ອຍຈະດື່ມແປດຫຼືເກົ້າຢ່າງແນ່ນອນ.
+
+530
+00:36:02,250 --> 00:36:04,350
+[BELINDA]
+Shall we go to the table?
+ພວກເຮົາຈະໄປໂຕະບໍ?
+
+531
+00:36:04,850 --> 00:36:10,850
+[SCOTT]
+Ben, there's a lot I'd like to say to you, but I'm going to skip the big father-in-law speech because I know you've been married before.
+ແບນ, ມີຫຼາຍຢ່າງທີ່ຂ້ອຍຢາກບອກເຈົ້າ,
+ແຕ່ຂ້ອຍຈະພາດການກ່າວປາໄສພໍ່ແມ່ໃຫຍ່ເພາະວ່າຂ້ອຍຮູ້ວ່າເຈົ້າເຄີຍແຕ່ງງານກ່ອນ.
+
+532
+00:36:11,350 --> 00:36:17,350
+[BEN]
+Technically, it wasn't considered a marriage. It was like the Korean War -- more of a police action.
+ທາງດ້ານເຕັກນິກ, ມັນບໍ່ໄດ້ຖືວ່າເປັນການແຕ່ງງານ.
+ມັນຄືກັບສົງຄາມເກົາຫຼີ - ຫຼາຍກ່ວາການກະທໍາຂອງຕໍາຫຼວດ.
+
+533
+00:36:17,850 --> 00:36:23,850
+[SCOTT]
+I served in Korea, son. I don't think you'd be laughing if you'd seen some of the things I saw.
+ຂ້ອຍໄດ້ຮັບໃຊ້ໃນເກົາຫຼີ, ລູກຊາຍ.
+ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າຈະມ່ວນຖ້າເຈົ້າເຫັນບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍເຫັນ.
+
+534
+00:36:24,350 --> 00:36:26,350
+[BEN]
+You're right.    Sorry.
+ເຈົ້າເວົ້າຖືກຕ້ອງ. ຂໍໂທດ.
+
+535
+00:36:26,850 --> 00:36:28,850
+[VITTI]
+Senor Sobol!
+ທ້າວ ໂຊບອລ!
+
+536
+00:36:29,350 --> 00:36:33,200
+[BEN]
+Mr. Vitti! How are you? Mrs. Vitti! Honey, it's the Vittis!
+ທ່ານ ວີຕິ! ເຈົ້າເປັນແນວໃດ? ທ່ານນາງ ວີຕີ! ແມ, ມັນແມ່ນຊາວວີຕິສ!
+
+537
+00:36:33,700 --> 00:36:39,700
+[VITTI]
+Look at everybody. Everybody's smiling, everybody's happy. Nice. This is Marie, my girls, my boy, then all these guys.
+ເບິ່ງທຸກຄົນແມ. ທຸກຄົນມ່ວນຊື່ນ, ທຸກຄົນມີຄວາມສຸກ. ດີເລີດ. ນີ້ແມ່ນມາຣີ,
+ເດັກຍິງຂອງຂ້ອຍ, ເດັກຊາຍຂອງຂ້ອຍ, ຫຼັງຈາກນັ້ນຜູ້ຊາຍທັງ ຫມົດ ເຫຼົ່ານີ້.
+
+538
+00:36:40,200 --> 00:36:43,350
+[BEN]
+Mr. and Mrs. Vitti, this is Laura, my fiancee.
+ທ່ານແລະທ່ານນາງ Vitti, ນີ້ແມ່ນລາຣາ, ພັນທະມິດຂອງຂ້ອຍ.
+
+539
+00:36:43,850 --> 00:36:45,850
+[VITTI]
+Nice to meet you.
+ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+
+540
+00:36:46,350 --> 00:36:48,350
+[LAURA]
+Thank you very much.
+ຂອບໃຈຫຼາຍໆ.
+
+541
+00:36:48,850 --> 00:36:50,950
+[BEN]
+And this is my son Michael.
+ແລະ ນີ້ແມ່ນລູກຊາຍຂອງຂ້ອຍ ໄມເກວ.
+
+542
+00:36:51,450 --> 00:36:57,450
+[VITTI]
+Whoa.  He's a bruiser.  You're sure this is your kid? You're a pound and a half soaking wet. I've had lobsters bigger than you.  You ever want a job, you come talk to me, right?
+ໂວ້. ລາວເປັນຄົນຂັບຂີ່. ເຈົ້າແນ່ໃຈວ່ານີ້ແມ່ນລູກຂອງທ່ານບໍ? ເຈົ້າມີນ້ ໍາ ຫນັກ ຫນຶ່ງ
+ປອນແລະເຄິ່ງທີ່ຊຸ່ມຊື່ນ. ຂ້ອຍມີໂລບສເຕີໃຫຍ່ກວ່າເຈົ້າ. ເຈົ້າຢາກເຮັດວຽກໃດໆ, ເຈົ້າມາເວົ້າກັບຂ້ອຍ, ແມ່ນບໍ?
+
+543
+00:36:57,950 --> 00:36:59,950
+[MICHAEL]
+Seriously?
+ແທ້ບໍ?
+
+544
+00:37:00,450 --> 00:37:02,450
+[BEN]
+Michael!
+ໄມເກວ!
+
+545
+00:37:02,950 --> 00:37:04,950
+[SCOTT]
+You're Paul Vitti. The mobster.
+ເຈົ້າເປັນໂປລ ວີຕີ. ຄົນຮ້າຍ.
+
+546
+00:37:05,450 --> 00:37:07,450
+[BEN]
+Mr. MacNamara -- uh --
+ທ້າວແມັກນາມາຣາ - ອູ -
+
+547
+00:37:07,950 --> 00:37:13,950
+[VITTI]
+Excuse me. Is that polite? Is it? I'm trying to be nice here. Do I walk up to you and go, 'You're whoever you are. The prick'?
+ຂໍໂທດຂ້ອຍ. ນັ້ນເປັນຄວາມກຽດຕິຍົດບໍ? ແມ່ນບໍ? ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເປັນຄົນດີຢູ່ບ່ອນນີ້
+. ຂ້ອຍຍ່າງໄປຫາເຈົ້າແລະໄປ, ເຈົ້າແມ່ນໃຜທີ່ທ່ານເປັນ. ຄົນໂຊກຮ້າຍບໍ?
+
+548
+00:37:14,450 --> 00:37:16,450
+[MARIE]
+Paul!
+ໂປລ!
+
+549
+00:37:16,950 --> 00:37:19,050
+[BEN]
+Mr. Vitti, this is Laura's father.
+ທ່ານ Vitti, ນີ້ແມ່ນພໍ່ຂອງລາວຣາ.
+
+550
+00:37:19,550 --> 00:37:25,550
+[VITTI]
+Yeah? Okay, well, sorry. But you should know, there is no mob, and, P.S., I personally have never been convicted of a crime.  We're nine for nine, right?
+ແມ່ນແລ້ວ? ດີ, ດີ, ຂໍໂທດ. ແຕ່ເຈົ້າຄວນຮູ້, ບໍ່ມີກຸ່ມຄົນຮ້າຍ, ແລະ, PS,
+ຂ້ອຍສ່ວນຕົວບໍ່ເຄີຍຖືກຕັດສິນໂທດກ່ຽວກັບອາຊະຍາກໍາເລີຍ. ພວກເຮົາເປັນເກົ້າຕໍ່ເກົ້າ, ແມ່ນບໍ?
+
+551
+00:37:26,050 --> 00:37:28,050
+[JELLY]
+That's right.
+ນັ້ນແມ່ນແລ້ວ.
+
+552
+00:37:28,550 --> 00:37:34,550
+[VITTI]
+I heard about the wedding. Here you go. A little something for the bride and groom. God bless. You should live and be well.
+ຂ້ອຍໄດ້ຍິນກ່ຽວກັບງານແຕ່ງງານ. ມາແລ້ວ. ບາງສິ່ງບາງຢ່າງນ້ອຍໆ ສໍາ
+ລັບສາວແລະຜົວເມຍ. ພຣະເຈົ້າໃຫ້ພອນ. ເຈົ້າຄວນດໍາລົງຊີວິດແລະດີດີ.
+
+553
+00:37:35,050 --> 00:37:37,150
+[LAURA]
+Mr. Vitti, we can't accept this.
+ທ້າວ Vitti, ພວກເຮົາບໍ່ສາມາດຍອມຮັບສິ່ງນີ້ໄດ້.
+
+554
+00:37:37,650 --> 00:37:43,650
+[VITTI]
+Yeah, you can. Now, if you don't mind, I just need to borrow this guy for a couple of minutes, then that's it. I'm out of here. Okay?
+ແມ່ນແລ້ວ, ເຈົ້າສາມາດເຮັດໄດ້. ດຽວນີ້, ຖ້າເຈົ້າບໍ່ສົນໃຈ,
+ຂ້ອຍພຽງແຕ່ຕ້ອງກູ້ຢືມຄົນນີ້ເປັນເວລາສອງສາມນາທີ, ຫຼັງຈາກນັ້ນມັນແມ່ນມັນ. ຂ້ອຍອອກຈາກບ່ອນນີ້. ດີບໍ?
+
+555
+00:37:44,150 --> 00:37:46,600
+[LAURA]
+Okay. Then you leave us alone, right?
+ດີແລ້ວ. ຫຼັງຈາກນັ້ນເຈົ້າຈະປ່ອຍພວກເຮົາຢູ່ຢ່າງສະຫງົບ, ແມ່ນບໍ?
+
+556
+00:37:47,100 --> 00:37:53,100
+[VITTI]
+Of course. I wouldn't do anything to screw up your wedding.  I gotta talk to you. Come on.  Have a great night, everybody. Nice to meet you.
+ແນ່ນອນ. ຂ້ອຍຈະບໍ່ເຮັດຫຍັງເພື່ອເຮັດໃຫ້ງານແຕ່ງງານຂອງທ່ານສໍ້ໂກງ.
+ຂ້ອຍຕ້ອງເວົ້າກັບເຈົ້າ. ມາ. ມີຄືນທີ່ດີເລີດ, ທຸກຄົນ. ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+
+557
+00:37:53,600 --> 00:37:57,800
+[BEN]
+I've just got to talk to him for a sec. You okay?
+ຂ້ອຍພຽງແຕ່ຕ້ອງເວົ້າກັບລາວຊົ່ວຄາວຫນຶ່ງ. ເຈົ້າດີບໍ?
+
+558
+00:37:58,300 --> 00:38:00,300
+[LAURA]
+I've never been less okay.
+ຂ້ອຍບໍ່ເຄີຍບໍ່ດີກວ່າເກົ່າເລີຍ.
+
+559
+00:38:00,800 --> 00:38:02,800
+[BEN]
+Great.
+ດີເລີດ.
+
+560
+00:38:03,300 --> 00:38:08,200
+[MARIE]
+I bet you eat a lot of fish since your fiance's in the business.
+ຂ້ອຍແນ່ໃຈວ່າເຈົ້າກິນປາຫຼາຍຍ້ອນວ່າແຟນຂອງທ່ານຢູ່ໃນທຸລະກິດ.
+
+561
+00:38:08,700 --> 00:38:12,200
+[VITTI]
+Watch that door. And don't listen to what we say.
+ເບິ່ງປະຕູນັ້ນ. ແລະຢ່າຟັງສິ່ງທີ່ພວກເຮົາເວົ້າ.
+
+562
+00:38:12,700 --> 00:38:14,700
+[JELLY]
+My ears are sealed.
+ຫູຂອງຂ້ອຍຖືກປິດໄວ້.
+
+563
+00:38:15,200 --> 00:38:18,700
+[VITTI]
+Okay, listen. I had a really weird dream last night.
+ດີ, ຟັງ. ຂ້ອຍມີຄວາມຝັນທີ່ແປກໃຈຫຼາຍໃນມື້ວານນີ້.
+
+564
+00:38:19,200 --> 00:38:24,100
+[BEN]
+I feel like I'm having one right now. How could you interrupt our party?
+ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍ ກໍາ ລັງກິນຫນຶ່ງໃນເວລານີ້.
+ເຈົ້າສາມາດລົບກວນງານລ້ຽງຂອງພວກເຮົາໄດ້ແນວໃດ?
+
+565
+00:38:24,600 --> 00:38:27,400
+[VITTI]
+You know, you're very rigid about certain things.
+ເຈົ້າຮູ້ແລ້ວ, ເຈົ້າແຂງແຮງຫຼາຍກ່ຽວກັບບາງສິ່ງບາງຢ່າງ.
+
+566
+00:38:27,900 --> 00:38:29,900
+[BEN]
+Just tell me the dream.
+ພຽງແຕ່ບອກຂ້ອຍຄວາມຝັນ.
+
+567
+00:38:30,400 --> 00:38:36,400
+[VITTI]
+Okay. I'm asleep. I hear a baby crying. I go to the refrigerator, I get a bottle of milk, I take it to the baby, but when I go to give it to him, I see that the milk is black.
+ດີແລ້ວ. ຂ້ອຍນອນຢູ່. ຂ້ອຍໄດ້ຍິນເດັກນ້ອຍຮ້ອງໄຫ້. ຂ້ອຍໄປບ່ອນເຢັນເຢັນ, ຂ້ອຍເອົາຈອກນົມ
+, ຂ້ອຍເອົາມັນໄປຫາເດັກນ້ອຍ, ແຕ່ເມື່ອຂ້ອຍໄປໃຫ້ລາວ, ຂ້ອຍເຫັນວ່ານົມເປັນສີ ດໍາ.
+
+568
+00:38:36,900 --> 00:38:38,900
+[JELLY]
+That's fuckin' weird.
+ມັນແປກໃຈຫຼາຍ.
+
+569
+00:38:39,400 --> 00:38:41,400
+[VITTI]
+Okay, get out of here!
+ດີແລ້ວ, ອອກຈາກບ່ອນນີ້!
+
+570
+00:38:41,900 --> 00:38:43,900
+[JELLY]
+Sorry.
+ຂໍໂທດ.
+
+571
+00:38:44,400 --> 00:38:49,650
+[VITTI]
+What's it mean? And I don't want to hear any more filth about my mother.
+ມັນຫມາຍຄວາມວ່າແນວໃດ?
+ແລະຂ້ອຍບໍ່ຢາກໄດ້ຍິນຄວາມເປື້ອນອີກຕໍ່ໄປກ່ຽວກັບແມ່ຂອງຂ້ອຍ.
+
+572
+00:38:50,150 --> 00:38:54,350
+[BEN]
+I don't know what it means.   What does it mean to you?
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນ ຫມາຍ ຄວາມວ່າແນວໃດ. ມັນຫມາຍຄວາມວ່າແນວໃດຕໍ່ເຈົ້າ?
+
+573
+00:38:54,850 --> 00:39:00,850
+[VITTI]
+This is what I'm paying you for? I say something, you say it right back to me? I could get Jelly to do this for nothing.
+ນີ້ແມ່ນສິ່ງທີ່ຂ້ອຍຈ່າຍເງິນໃຫ້ເຈົ້າ ສໍາ ລັບບໍ? ຂ້ອຍເວົ້າບາງສິ່ງບາງຢ່າງ,
+ເຈົ້າເວົ້າມັນກັບຂ້ອຍໂດຍກົງ? ຂ້ອຍສາມາດເຮັດໃຫ້ເຈເລີເຮັດສິ່ງນີ້ໂດຍບໍ່ມີຫຍັງເລີຍ.
+
+574
+00:39:01,350 --> 00:39:03,350
+[BEN]
+Then get Jelly.
+ຫຼັງຈາກນັ້ນເອົາເຈເລີ.
+
+575
+00:39:03,850 --> 00:39:05,850
+[BEN]
+Mr. MacNamara.
+ທ້າວແມັກນາມາຣາ.
+
+576
+00:39:06,350 --> 00:39:11,950
+[VITTI]
+Why don't you look over that way before I have to bust your fuckin' head open?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເບິ່ງທາງນັ້ນກ່ອນທີ່ຂ້ອຍຈະຕ້ອງເປີດຫົວເຈົ້າ?
+
+577
+00:39:12,450 --> 00:39:17,000
+[JELLY]
+I'm gonna get something to eat. You want like a sandwich or somethin'?
+ຂ້ອຍຈະເອົາບາງສິ່ງບາງຢ່າງກິນ. ເຈົ້າຢາກເປັນແຊນວິດຈ໌ຫຼືບາງຢ່າງບໍ?
+
+578
+00:39:17,500 --> 00:39:19,950
+[BODYGUARD]
+Yeah. What kinda sandwich isn't too fattening?
+ແມ່ນແລ້ວ. ແຊນວິດຈ໌ປະເພດໃດບໍ່ໄຂມັນຫຼາຍ?
+
+579
+00:39:20,450 --> 00:39:22,450
+[JELLY]
+A half a sandwich.
+ແຊນວິດຈ໌ເຄິ່ງຫນຶ່ງ.
+
+580
+00:39:22,950 --> 00:39:24,950
+[BODYGUARD]
+Sounds good.
+ມັນອອກສຽງດີ.
+
+581
+00:39:25,450 --> 00:39:27,900
+[JELLY]
+I'll be back in about twenty minutes.
+ຂ້ອຍຈະກັບມາໃນເວລາປະມານສິບນາທີ.
+
+582
+00:39:28,400 --> 00:39:34,400
+[SCOTT]
+Nod your head and smile. Now, you listen to me, goombah. I know what your game is, and you'd better call it quits, because if you and your paisans do anything to hurt my little girl, I'll kill you. Understand? Nod and smile.
+ຈັບຫົວແລະມ່ວນຊື່ນ. ດຽວນີ້, ເຈົ້າຟັງຂ້ອຍ, goombah. ຂ້ອຍຮູ້ວ່າເກມຂອງທ່ານແມ່ນຫຍັງ, ແລະເຈົ້າຄວນເອີ້ນມັນໃຫ້ຢຸດເຊົາ,
+ເພາະວ່າຖ້າເຈົ້າແລະພໍ່ແມ່ຂອງທ່ານເຮັດຫຍັງເພື່ອເຮັດໃຫ້ເດັກຍິງນ້ອຍຂອງຂ້ອຍເຈັບປວດ, ຂ້ອຍຈະຂ້າເຈົ້າ. ເຂົ້າໃຈບໍ? ຈັບແລະມິມ.
+
+583
+00:39:34,900 --> 00:39:36,900
+[LAURA]
+What was that about?
+ນັ້ນແມ່ນຫຍັງ?
+
+584
+00:39:37,400 --> 00:39:40,200
+[BEN]
+Nothing. Your father thinks I'm in the Mafia.
+ບໍ່ມີຫຍັງເລີຍ. ພໍ່ເຈົ້າຄິດວ່າຂ້ອຍຢູ່ໃນມາຟີຍ.
+
+585
+00:39:40,700 --> 00:39:42,700
+[LAURA]
+Oh.
+ໂອ້.
+
+586
+00:39:43,200 --> 00:39:45,200
+[BEN]
+Let's get married.
+ມາແຕ່ງງານກັນ.
+
+587
+00:39:45,700 --> 00:39:51,700
+[JUSTICE]
+If any man here knows why these two people should not be joined in holy matrimony, let him speak now or forever hold his peace.
+ຖ້າມີຜູ້ຊາຍຄົນໃດຢູ່ບ່ອນນີ້ຮູ້ວ່າເປັນຫຍັງຄົນທັງສອງຄົນນີ້ບໍ່ຄວນເຂົ້າຮ່ວມໃນການແຕ່ງງານທີ່ສັກສິດ
+, ໃຫ້ລາວເວົ້າດຽວນີ້ຫຼືງຽບສະຫງົບຕະຫຼອດໄປ.
+
+588
+00:39:52,200 --> 00:39:58,200
+[VITTI]
+Tell Mikey to take Marie and the kids right to the airport.  You get the car, bring it around to the back and wait for me.
+ບອກໄມເກີໃຫ້ພາມາຣີ ແລະ ເດັກນ້ອຍໄປສະຫນາມບິນໂດຍກົງ
+. ເຈົ້າເອົາລົດ, ເອົາມັນໄປທາງຫຼັງແລະລໍຖ້າຂ້ອຍ.
+
+589
+00:39:58,700 --> 00:40:01,150
+[BEN]
+That's it.   I've had it with you!
+ນັ້ນແມ່ນມັນ. ຂ້ອຍພໍແລ້ວກັບເຈົ້າ!
+
+590
+00:40:01,650 --> 00:40:03,650
+[VITTI]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+591
+00:40:04,150 --> 00:40:10,150
+[BEN]
+What happened? I just saw a man fall seven stories into a platter of poached salmon! That's what happened.
+ເກີດຫຍັງຂຶ້ນ? ຂ້ອຍຫາກໍ່ເຫັນຜູ້ຊາຍຕົກລົງເຈັດຊັ້ນເຂົ້າໄປໃນຈານຂອງຊາມອນທີ່ລັກລອບ
+! ນັ້ນແມ່ນສິ່ງທີ່ເກີດຂຶ້ນ.
+
+592
+00:40:10,650 --> 00:40:12,650
+[VITTI]
+Did he break anything?
+ລາວໄດ້ທໍາລາຍຫຍັງບໍ?
+
+593
+00:40:13,150 --> 00:40:17,000
+[BEN]
+Yes. Everything! They're still picking the capers out of his forehead.
+ແມ່ນແລ້ວ. ທຸກຢ່າງ! ພວກເຂົາຍັງ ກໍາ ລັງເອົາກະເປົາຈາກຫນ້າເອິກຂອງລາວ.
+
+594
+00:40:17,500 --> 00:40:22,750
+[VITTI]
+Hey, people get depressed, they jump. It's a human tragedy, but it's not my fault.
+ເຮ້, ຄົນຕົກໃຈ, ພວກເຂົາໂດດ. ມັນເປັນໂຊກຮ້າຍຂອງມະນຸດ
+, ແຕ່ມັນບໍ່ແມ່ນຄວາມຜິດຂອງຂ້ອຍ.
+
+595
+00:40:23,250 --> 00:40:25,350
+[BEN]
+You're telling me it was suicide?
+ເຈົ້າບອກຂ້ອຍວ່າມັນເປັນການຂ້າຕົວເອງບໍ?
+
+596
+00:40:25,850 --> 00:40:30,050
+[VITTI]
+I think he left a note. Jelly, did they find that note?
+ຂ້ອຍຄິດວ່າລາວໄດ້ປ່ອຍຂໍ້ຄວາມໄວ້. ເຈເລີ, ພວກເຂົາພົບຂໍ້ຄວາມນັ້ນບໍ?
+
+597
+00:40:30,550 --> 00:40:33,000
+[JELLY]
+No, but they will in a minute.
+ບໍ່, ແຕ່ພວກເຂົາຈະເຮັດໃນນາທີຫນຶ່ງ.
+
+598
+00:40:33,500 --> 00:40:35,500
+[BEN]
+Oh, yeah, here it is.
+ໂອ້, ແມ່ນແລ້ວ, ມັນຢູ່ບ່ອນນີ້.
+
+599
+00:40:36,000 --> 00:40:39,850
+[BEN]
+'Life is bullshit. I can't fuckin' take it no more. Tino.'
+ຊີວິດແມ່ນຄວາມໂຊກແຊງ. ຂ້ອຍບໍ່ສາມາດຮັບເອົາມັນໄດ້ອີກຕໍ່ໄປ. ໄຕໂນ.
+
+600
+00:40:40,350 --> 00:40:46,350
+[VITTI]
+Enough talking. We got to get out of here. The place is crawling with feds. I'm going back to New York and I suggest you do the same. They're probably onto you too now.
+ການເວົ້າພຽງພໍ. ພວກເຮົາຕ້ອງອອກຈາກບ່ອນນີ້. ບ່ອນນີ້ເຕັມໄປດ້ວຍ FBI.
+ຂ້ອຍຈະກັບຄືນໄປນິວຢອກແລະຂ້ອຍແນະ ນໍາ ໃຫ້ເຈົ້າເຮັດຄືກັນ. ພວກເຂົາອາດຈະຕິດຕາມເຈົ້າອີກດຽວນີ້.
+
+601
+00:40:46,850 --> 00:40:52,850
+[BEN]
+Onto me? What are you talking about? Being an accessory to murder was not part of our understanding.
+ກ່ຽວກັບຂ້ອຍ? ເຈົ້າເວົ້າຫຍັງ? ການເປັນຜູ້ຮ່ວມມືໃນການຄາດຕະກໍາບໍ່ແມ່ນສ່ວນ
+ຫນຶ່ງ ຂອງຄວາມເຂົ້າໃຈຂອງພວກເຮົາ.
+
+602
+00:40:53,350 --> 00:40:59,350
+[VITTI]
+Hey, why you busting my balls? I didn't kill him. I can't speak for everyone in the room, but --  The son-of-a-bitch came after me! It was self-defense. Trust me, Doc. In this one, we're the good guys.
+ເຮ້, ເປັນຫຍັງເຈົ້າຈຶ່ງ ທໍາ ລາຍບານຂອງຂ້ອຍ? ຂ້ອຍບໍ່ໄດ້ຂ້າລາວ. ຂ້ອຍບໍ່ສາມາດເວົ້າແທນທຸກຄົນໃນຫ້ອງໄດ້,
+ແຕ່ - ລູກແຊກແຊງມາຕາມຂ້ອຍ! ມັນແມ່ນການປ້ອງກັນຕົວເອງ. ເຊື່ອຂ້ອຍ, ດອກ. ໃນຄັ້ງນີ້, ພວກເຮົາເປັນຄົນດີ.
+
+603
+00:40:59,850 --> 00:41:01,850
+[BEN]
+Laura!
+ໂລຣາ!
+
+604
+00:41:02,350 --> 00:41:04,350
+[LAURA]
+How could you do that?
+ເຈົ້າເຮັດແບບນັ້ນໄດ້ແນວໃດ?
+
+605
+00:41:04,850 --> 00:41:08,000
+[VITTI]
+Great.  Another country heard from.  Get her outta here.
+ດີເລີດ. ປະເທດອື່ນໄດ້ຍິນຈາກ. ເອົານາງອອກຈາກບ່ອນນີ້.
+
+606
+00:41:08,500 --> 00:41:10,600
+[BEN]
+Honey, why don't you wait downstairs?
+ແມ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ລໍຖ້າຢູ່ລຸ່ມ?
+
+607
+00:41:11,100 --> 00:41:17,100
+[LAURA]
+Why, they're going to throw me off the balcony, too?  I am thirty -- over thirty years old and all my life I have dreamed of walking down the aisle in a beautiful white dress and marrying the man I love.
+ເປັນຫຍັງ, ພວກເຂົາຈະຖິ້ມຂ້ອຍອອກຈາກບາລຄອນເຊັ່ນກັນບໍ? ຂ້ອຍອາຍຸສາມສິບປີ -
+ອາຍຸຫຼາຍກວ່າສາມສີ່ປີແລະຕະຫຼອດຊີວິດຂອງຂ້ອຍຂ້ອຍໄດ້ຝັນທີ່ຈະຍ່າງລົງທາງບາລາໃນຊຸດສີຂາວທີ່ສວຍງາມແລະແຕ່ງງານກັບຜູ້ຊາຍທີ່ຂ້ອຍຮັກ.
+
+608
+00:41:17,600 --> 00:41:19,600
+[VITTI]
+That's a beautiful dress.
+ນັ້ນແມ່ນຊຸດທີ່ສວຍງາມ.
+
+609
+00:41:20,100 --> 00:41:25,000
+[LAURA]
+Thank you, but it's not about the dress! We were supposed to get married!
+ຂອບໃຈ, ແຕ່ມັນບໍ່ແມ່ນກ່ຽວກັບຊຸດ! ພວກເຮົາຄວນແຕ່ງງານ!
+
+610
+00:41:25,500 --> 00:41:27,500
+[VITTI]
+You're upset.
+ເຈົ້າໂຊກຮ້າຍ.
+
+611
+00:41:28,000 --> 00:41:34,000
+[LAURA]
+Of course I'm upset!  I'm going downstairs to pack, then I'm going to New York and I'm getting married with you or without you. Okay?
+ແນ່ນອນວ່າຂ້ອຍໂຊກຮ້າຍ! ຂ້ອຍຈະລົງລຸ່ມເພື່ອເກັບເຄື່ອງ,
+ຫຼັງຈາກນັ້ນຂ້ອຍຈະໄປນິວຢອກແລະຂ້ອຍຈະແຕ່ງງານກັບເຈົ້າຫຼືບໍ່ມີເຈົ້າ. ດີບໍ?
+
+612
+00:41:34,500 --> 00:41:38,700
+[BEN]
+I'll be right there.  Everything's going to be all right. I promise.
+ຂ້ອຍຈະຢູ່ບ່ອນນັ້ນທັນທີ. ທຸກຢ່າງຈະດີດີ. ຂ້ອຍສັນຍາ.
+
+613
+00:41:39,200 --> 00:41:42,000
+[BEN]
+Are you happy now?      You ruined my life!
+ເຈົ້າມີຄວາມສຸກດຽວນີ້ບໍ? ເຈົ້າ ທໍາ ລາຍຊີວິດຂອງຂ້ອຍ!
+
+614
+00:41:42,500 --> 00:41:48,500
+[VITTI]
+What, you think I wanted this? I'm the victim here! I swear, I'm going to kill that son-of-a-bitch!
+ຫຍັງ, ເຈົ້າຄິດວ່າຂ້ອຍຢາກສິ່ງນີ້ບໍ? ຂ້ອຍເປັນຜູ້ເຄາະຮ້າຍຢູ່ນີ້
+! ຂ້ອຍສາບານໂຕວ່າ, ຂ້ອຍຈະຂ້າຄົນໂຊກຮ້າຍນັ້ນ!
+
+615
+00:41:49,000 --> 00:41:53,900
+[BEN]
+Is that all you know? Do you hear yourself? I knew this would happen.
+ນັ້ນແມ່ນທັງຫມົດທີ່ທ່ານຮູ້ບໍ? ເຈົ້າໄດ້ຍິນຕົວເອງບໍ
+? ຂ້ອຍຮູ້ວ່າສິ່ງນີ້ຈະເກີດຂຶ້ນ.
+
+616
+00:41:54,400 --> 00:42:00,400
+[BEN]
+This whole thing has been one big disaster from the minute you walked into my office. We're finished! You hear me? I am no longer your doctor!
+ເລື່ອງທັງ ຫມົດ ນີ້ເປັນໄພພິບັດໃຫຍ່ດຽວຕັ້ງແຕ່ນາທີທີ່ທ່ານເຂົ້າໄປໃນຫ້ອງການຂອງຂ້ອຍ
+. ພວກເຮົາສໍາເລັດແລ້ວ! ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ? ຂ້ອຍບໍ່ແມ່ນຫມໍຂອງທ່ານອີກແລ້ວ!
+
+617
+00:42:00,900 --> 00:42:02,900
+[VITTI]
+Just 'cause of this?
+ພຽງແຕ່ຍ້ອນສິ່ງນີ້ບໍ?
+
+618
+00:42:03,400 --> 00:42:09,400
+[BEN]
+Of course because of this! You don't have even the tiniest shred of human decency. All you know is threats and violence and that's all you'll ever know and I can't be around that!
+ແນ່ນອນຍ້ອນສິ່ງນີ້! ເຈົ້າບໍ່ມີຄວາມສະຫງົບງາມຂອງມະນຸດທີ່ນ້ອຍທີ່ສຸດເລີຍ.
+ເຈົ້າຮູ້ພຽງແຕ່ການຂົ່ມຂູ່ແລະຄວາມຮຸນແຮງແລະນັ້ນແມ່ນສິ່ງດຽວທີ່ທ່ານຈະຮູ້ແລະຂ້ອຍບໍ່ສາມາດຢູ່ໃກ້ກັບນັ້ນໄດ້!
+
+619
+00:42:09,900 --> 00:42:12,350
+[VITTI]
+What do you want me to do?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+
+620
+00:42:12,850 --> 00:42:17,400
+[SINDONE]
+How come I can't get on this show? This is a good show.
+ເປັນຫຍັງຂ້ອຍຈຶ່ງບໍ່ສາມາດເຂົ້າໄປໃນລາຍການນີ້ໄດ້
+? ນີ້ແມ່ນລາຍການທີ່ດີ.
+
+621
+00:42:17,900 --> 00:42:21,050
+[MOONY]
+Primo. You got a phone call. It's Paul Vitti.
+ປຣີໂມ. ເຈົ້າມີໂທລະສັບ. ມັນແມ່ນໂປລ ວີຕີ.
+
+622
+00:42:21,550 --> 00:42:23,550
+[SINDONE]
+Vitti.  Hello?
+Vitti. ສະບາຍດີ?
+
+623
+00:42:24,050 --> 00:42:26,050
+[VITTI]
+Primo, it's Paul Vitti.
+ປຣີໂມ, ມັນແມ່ນໂປລ ວີຕີ.
+
+624
+00:42:26,550 --> 00:42:28,550
+[SINDONE]
+Yeah, how's it goin'?
+ແມ່ນແລ້ວ, ມັນເປັນແນວໃດ?
+
+625
+00:42:29,050 --> 00:42:35,050
+[VITTI]
+Not good. Whoever killed Dominic is shooting at me now and I'm having a lot of feelings about it and I'd like to get some kinda --
+ບໍ່ດີ. ໃຜທີ່ຂ້າໂດມິນິກ ກໍາ
+ລັງຍິງຂ້ອຍດຽວນີ້ແລະຂ້ອຍມີຄວາມຮູ້ສຶກຫຼາຍກ່ຽວກັບມັນແລະຂ້ອຍຢາກໄດ້ຮັບບາງປະເພດ -
+
+626
+00:42:35,550 --> 00:42:37,550
+[BEN]
+Closure.
+ການປິດ.
+
+627
+00:42:38,050 --> 00:42:40,050
+[VITTI]
+-- closure on this.
+- ການປິດເລື່ອງນີ້.
+
+628
+00:42:40,550 --> 00:42:42,550
+[SINDONE]
+What kind of feelings?
+ຄວາມຮູ້ສຶກໃດ?
+
+629
+00:42:43,050 --> 00:42:47,250
+[VITTI]
+I feel very angry, you know. Very, uh, enraged. Mad. Real mad.
+ຂ້ອຍຮູ້ສຶກໂຊກຮ້າຍຫຼາຍ, ເຈົ້າຮູ້ແລ້ວ
+. ຫຼາຍ, ອູ, ໂຊກໃຈຫຼາຍ. ໂຊ ກຮ້າຍແທ້ໆ.
+
+630
+00:42:47,750 --> 00:42:49,750
+[SINDONE]
+So why you telling me?
+ເຈົ້າບອກຂ້ອຍເປັນຫຍັງ?
+
+631
+00:42:50,250 --> 00:42:54,800
+[VITTI]
+Why am I telling you? Like you had nothing to do with it?
+ຂ້ອຍບອກເຈົ້າເປັນຫຍັງ? ຄືກັບວ່າເຈົ້າບໍ່ມີຫຍັງກ່ຽວຂ້ອງກັບມັນບໍ?
+
+632
+00:42:55,300 --> 00:42:57,750
+[SINDONE]
+I don't know what you're talking about.
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ.
+
+633
+00:42:58,250 --> 00:43:04,250
+[VITTI]
+Okay, whatever, I just wanted to tell you how I feel because I know that anger is --
+ດີ, ເຖິງຢ່າງໃດກໍ່ຕາມ,
+ຂ້ອຍພຽງແຕ່ຢາກບອກເຈົ້າວ່າຂ້ອຍຮູ້ສຶກແນວໃດເພາະວ່າຂ້ອຍຮູ້ວ່າຄວາມໂຊກຮ້າຍແມ່ນ -
+
+634
+00:43:04,750 --> 00:43:06,750
+[BEN]
+A blocked wish --
+ຄວາມປາຖະຫນາທີ່ຖືກກີດຂວາງ -
+
+635
+00:43:07,250 --> 00:43:13,250
+[VITTI]
+-- a blocked wish, and I'm getting my wish unblocked and I'm looking forward to getting some closure --
+- ຄວາມປາຖະຫນາທີ່ຖືກກີດຂວາງ, ແລະຂ້ອຍ ກໍາ ລັງໄດ້ຮັບການປົດລ້າງຄວາມປາຖະ
+ຫນາ ຂອງຂ້ອຍແລະຂ້ອຍຫວັງວ່າຈະໄດ້ຮັບການປິດບາງຢ່າງ -
+
+636
+00:43:13,750 --> 00:43:19,750
+[VITTI]
+-- and if you make one more move on me I swear to God I'll cut your fuckin' balls off and shove 'em up your ass!
+- ແລະຖ້າເຈົ້າເຄື່ອນໄຫວອີກຄັ້ງຫນຶ່ງຕໍ່ຂ້ອຍ
+ຂ້ອຍສາບານໂຕວ່າຂ້ອຍຈະຕັດບານຂອງເຈົ້າອອກແລະຖິ້ມພວກມັນໃສ່ບາກຂອງທ່ານ!
+
+637
+00:43:20,250 --> 00:43:22,250
+[SINDONE]
+Vaffancul'!
+Vaffancul!
+
+638
+00:43:22,750 --> 00:43:28,750
+[SINDONE]
+Get a dictionary and find out what this 'closure' is. If that's what he's hitting us with, I want to know what the hell it is.
+ເອົາຄໍາສັບແລະຊອກຫາວ່າ'ການປິດ' ນີ້ແມ່ນຫຍັງ. ຖ້າມັນແມ່ນສິ່ງທີ່ລາວ
+ກໍາ ລັງຕີພວກເຮົາດ້ວຍ, ຂ້ອຍຢາກຮູ້ວ່າມັນເປັນຫຍັງ.
+
+639
+00:43:29,250 --> 00:43:31,250
+[VITTI]
+Good?
+ດີບໍ?
+
+640
+00:43:31,750 --> 00:43:37,750
+[BEN]
+Yeah, right up until the shoving the balls. You can't keep doing this! You want to get physical? Take a walk. Get a punching bag. Hit a pillow.
+ແມ່ນແລ້ວ, ຈົນຮອດການຊຸກຍູ້ບານ. ເຈົ້າບໍ່ສາມາດເຮັດແບບນີ້ຕໍ່ໄປໄດ້
+! ເຈົ້າຢາກກາຍຍະພາບບໍ? ຍ່າງ. ເອົາຖົງຕີ. ຕີກະຕ່າ.
+
+641
+00:43:38,250 --> 00:43:40,250
+[VITTI]
+There's your fucking pillow.
+ນັ້ນແມ່ນກະຕູ້ຂອງທ່ານ.
+
+642
+00:43:40,750 --> 00:43:42,750
+[BEN]
+Feel better now?
+ຮູ້ສຶກດີຂຶ້ນແລ້ວບໍ?
+
+643
+00:43:43,250 --> 00:43:45,250
+[VITTI]
+Yeah, I do.
+ແມ່ນແລ້ວ, ຂ້ອຍເຮັດ.
+
+644
+00:43:45,750 --> 00:43:48,550
+[BEN]
+Call the Vatican. Ask them if anything's missing.
+ໂທຫາ Vatican. ຖາມພວກເຂົາວ່າມີຫຍັງຂາດຫາຍໄປບໍ.
+
+645
+00:43:49,050 --> 00:43:51,050
+[MICHAEL]
+So cool!
+ມັນເຢັນຫຼາຍ!
+
+646
+00:43:51,550 --> 00:43:54,700
+[JANET]
+Michael, get your bags out of the car, please.
+ໄມເກວ, ເອົາຖົງຂອງທ່ານອອກຈາກລົດ, ກະລຸນາ.
+
+647
+00:43:55,200 --> 00:43:57,650
+[MICHAEL]
+It's almost as tall as the house!
+ມັນເກືອບສູງເທົ່າກັບເຮືອນ!
+
+648
+00:43:58,150 --> 00:44:00,600
+[BEN]
+He felt bad. It's a wedding gift.
+ລາວຮູ້ສຶກບໍ່ດີ. ມັນເປັນຂອງຂວັນແຕ່ງງານ.
+
+649
+00:44:01,100 --> 00:44:05,650
+[LAURA]
+Well, we're not married, so I guess we'll have to send it back.
+ດີ, ພວກເຮົາບໍ່ໄດ້ແຕ່ງງານ,
+ສະນັ້ນຂ້ອຍຄິດວ່າພວກເຮົາຈະຕ້ອງສົ່ງມັນຄືນ.
+
+650
+00:44:06,150 --> 00:44:10,000
+[BEN]
+Hey, don't blame me. You didn't want to finish the ceremony.
+ເຮ້, ຢ່າກ່າວໂທດຂ້ອຍ. ເຈົ້າບໍ່ຢາກສິ້ນສຸດພິທີ.
+
+651
+00:44:10,500 --> 00:44:16,500
+[LAURA]
+What did you expect? You think that's what I want to remember on our anniversary? 'Gee, honey, let's go look at the wedding video. There's my parents, there's your parents, and there's the guy who plunged to his death.'
+ເຈົ້າຄາດວ່າຫຍັງ? ເຈົ້າຄິດວ່ານັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຢາກຈື່ໃນວັນຄົບຮອບຂອງພວກເຮົາບໍ?' ໂອ້, ແມ,
+ໄປເບິ່ງວິດີໂອການແຕ່ງງານ. ມີພໍ່ແມ່ຂອງຂ້ອຍ, ພໍ່ແມ່ຂອງເຈົ້າຢູ່ບ່ອນນັ້ນ, ແລະມີຜູ້ຊາຍທີ່ຕົກລົງຈົນຕາຍຂອງລາວ.'
+
+652
+00:44:17,000 --> 00:44:19,100
+[BEN]
+I just want to marry you.
+ຂ້ອຍພຽງແຕ່ຢາກແຕ່ງງານເຈົ້າ.
+
+653
+00:44:19,600 --> 00:44:22,750
+[LAURA]
+I'm starting to think that's not going to happen.
+ຂ້ອຍເລີ່ມຄິດວ່າ ມັນຈະບໍ່ເກີດຂຶ້ນ.
+
+654
+00:44:23,250 --> 00:44:29,250
+[BEN]
+Come on. Next Saturday. It's all set. I even asked for a room with a low ceiling, just to discourage the jumpers.
+ມາແລ້ວ. ວັນເສົາຕໍ່ໄປ. ມັນພ້ອມແລ້ວ.
+ຂ້ອຍຍັງຂໍຫ້ອງທີ່ມີຊັ້ນສູງຕໍ່າ, ພຽງແຕ່ເພື່ອເຮັດໃຫ້ຄົນໂດດໃຈ.
+
+655
+00:44:29,750 --> 00:44:31,850
+[LAURA]
+And who's going to be there?
+ແລະໃຜຈະຢູ່ບ່ອນນັ້ນ?
+
+656
+00:44:32,350 --> 00:44:36,900
+[BEN]
+Us three, a clergyman, and any family members who've completed their crisis counseling.
+ພວກເຮົາສາມຄົນ, ນັກສາສະຫນາ,
+ແລະສະມາຊິກຄອບຄົວໃດໆທີ່ໄດ້ສໍາເລັດການແນະນໍາວິກິດການຂອງພວກເຂົາ.
+
+657
+00:44:37,400 --> 00:44:41,250
+[LAURA]
+And no guests without necks. Everybody has to have a neck.
+ແລະບໍ່ມີແຂກທີ່ບໍ່ມີຄໍ. ທຸກຄົນຕ້ອງມີຄູ.
+
+658
+00:44:41,750 --> 00:44:44,550
+[BEN]
+We'll do a neck check at the door.
+ພວກເຮົາຈະກວດເບິ່ງຄໍຢູ່ປະຕູ.
+
+659
+00:44:45,050 --> 00:44:51,000
+[AGENT STEADMAN]
+Doctor Sobol, Mrs. Sobol -- I'm Agent Steadman, Agent Ricci, Agent Provano, Federal Bureau of Investigation, O.C.D.
+ດອກຕໍໂຊໂບລ, ທ່ານນາງໂຊບລ - ຂ້ອຍເປັນຕົວແທນສເຕດມານ, ຕົວແທນ
+ຣິກຊີ, ຕົວຈິງໂປວາໂນ, ຫ້ອງການສືບສວນລັດຖະບານກາງ, OCD.
+
+660
+00:44:51,500 --> 00:44:53,500
+[BEN]
+Obsessive-compulsive disorder?
+ຄວາມຜິດປົກກະຕິທີ່ບັງຄັບໃຊ້ບໍ?
+
+661
+00:44:54,000 --> 00:44:56,450
+[AGENT PROVANO]
+Organized Crime Division. We need to talk.
+ພະແນກອາຊະຍາກໍາຈັດຕັ້ງ. ພວກເຮົາຕ້ອງເວົ້າກັນ.
+
+662
+00:44:56,950 --> 00:44:59,750
+[MICHAEL]
+The FBI! This is better than the fountain!
+FBI! ນີ້ແມ່ນດີກວ່າແຫຼ່ງນ້ ໍາ!
+
+663
+00:45:00,250 --> 00:45:02,250
+[BEN]
+Michael, go to your room.
+ໄມເກວ, ໄປຫ້ອງຂອງທ່ານ.
+
+664
+00:45:02,750 --> 00:45:04,750
+[MICHAEL]
+But --
+ແຕ່...
+
+665
+00:45:05,250 --> 00:45:07,250
+[BEN]
+Go!
+ໄປ!
+
+666
+00:45:07,750 --> 00:45:10,550
+[MICHAEL]
+Fine. I can hear better in there anyway.
+ດີ. ຂ້ອຍໄດ້ຍິນດີກວ່າໃນນັ້ນຢ່າງໃດກໍ່ຕາມ.
+
+667
+00:45:11,050 --> 00:45:13,050
+[BEN]
+So.   FBI.
+ສະນັ້ນ. FBI.
+
+668
+00:45:13,550 --> 00:45:16,000
+[AGENT STEADMAN]
+Can you explain these photographs, Doctor Sobol?
+ເຈົ້າສາມາດອະທິບາຍຮູບເຫຼົ່ານີ້ໄດ້ບໍ, ດອກຕໍໂຊບອລ?
+
+669
+00:45:16,500 --> 00:45:19,300
+[BEN]
+I'm a psychotherapist.    Paul Vitti is my patient.
+ຂ້ອຍເປັນນັກປິ່ນປົວຈິດໃຈ. ໂປລ ວີຕີແມ່ນຄົນເຈັບຂອງຂ້ອຍ.
+
+670
+00:45:19,800 --> 00:45:21,800
+[LAURA]
+Was your patient.
+ເປັນຄົນເຈັບຂອງທ່ານ.
+
+671
+00:45:22,300 --> 00:45:24,400
+[BEN]
+Right.   Was.   That's what I meant.
+ແມ່ນແລ້ວ. ແມ່ນ. ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຫມາຍຄວາມວ່າ.
+
+672
+00:45:24,900 --> 00:45:27,000
+[LAURA]
+But not like a real patient.
+ແຕ່ບໍ່ແມ່ນຄົນເຈັບທີ່ແທ້ຈິງ.
+
+673
+00:45:27,500 --> 00:45:29,500
+[BEN]
+Right.
+ແມ່ນແລ້ວ.
+
+674
+00:45:30,000 --> 00:45:32,800
+[PROVANO]
+So why did he send you that fountain?
+ສະນັ້ນລາວຈຶ່ງສົ່ງແຫຼ່ງນ້ ໍາ ນັ້ນໃຫ້ເຈົ້າເປັນຫຍັງ?
+
+675
+00:45:33,300 --> 00:45:39,300
+[BEN]
+That was a gift to celebrate the completion of his therapy. We got our television from an agoraphobic, so it's not that unusual -- you know, maybe you should discuss this with my attorney.
+ນັ້ນແມ່ນຂອງຂວັນເພື່ອສະເຫຼີມສະຫຼອງການສິ້ນສຸດການປິ່ນປົວຂອງລາວ. ພວກເຮົາໄດ້ຮັບໂທລະພາບຂອງພວກເຮົາຈາກ agoraphobic
+, ສະນັ້ນມັນບໍ່ແມ່ນເລື່ອງແປກໃຈຫຼາຍ - ເຈົ້າຮູ້ແລ້ວ, ບາງທີເຈົ້າຄວນປຶກສາຫາລືເລື່ອງນີ້ກັບທະນາຍຄວາມຂອງຂ້ອຍ.
+
+676
+00:45:39,800 --> 00:45:41,800
+[LAURA]
+Yeah, maybe you should.
+ແມ່ນແລ້ວ, ບາງທີເຈົ້າຄວນ.
+
+677
+00:45:42,300 --> 00:45:48,300
+[AGENT STEADMAN]
+Doctor Sobol, Paul Vitti is an extremely dangerous man. We're talking conspiracy, fraud, extortion, racketeering, grand theft, murder...
+ດອກຕໍໂຊບອລ, ໂປລ ວີຕີເປັນຜູ້ຊາຍອັນຕະລາຍຫຼາຍ. ພວກເຮົາ ກໍາ ລັງເວົ້າກ່ຽວກັບການສົມຮູ້ຮ່ວມຄິດ
+, ການຟອກເງິນ, ການຊົດເຊີຍ, ການຂົ່ມຂືນ, ການລັກຂະໂມຍໃຫຍ່, ການຄາດຕະກໍາ...
+
+678
+00:45:48,800 --> 00:45:54,800
+[BEN]
+Well, yeah, but don't forget, the man is a sociopath. You've got to expect that kind of behavior --
+ດີ, ແມ່ນແລ້ວ, ແຕ່ຢ່າລືມ, ຜູ້ຊາຍແມ່ນໂຣກສັງຄົມ
+. ເຈົ້າຕ້ອງຄາດຫວັງພຶດຕິກໍາປະເພດນັ້ນ -
+
+679
+00:45:55,300 --> 00:46:01,300
+[BEN]
+Excuse me, fellas. My folks are here and I'd like to -- well, die would be my first choice. Can I go out?
+ຂໍໂທດຂ້ອຍ, ພວກຜູ້ຊາຍ. ພໍ່ແມ່ຂອງຂ້ອຍຢູ່ບ່ອນນີ້ແລະຂ້ອຍຢາກ - ດີ
+, ການຕາຍຈະເປັນທາງເລືອກ ທໍາ ອິດຂອງຂ້ອຍ. ຂ້ອຍສາມາດອອກໄປໄດ້ບໍ?
+
+680
+00:46:01,800 --> 00:46:03,800
+[AGENT RICCI]
+It's your house.
+ມັນເປັນເຮືອນຂອງເຈົ້າ.
+
+681
+00:46:04,300 --> 00:46:08,150
+[LAURA]
+Too bad you didn't remember that when you were breaking in.
+ໂຊກຮ້າຍທີ່ເຈົ້າບໍ່ໄດ້ຈື່ມັນເມື່ອເຈົ້າເຂົ້າມາ.
+
+682
+00:46:08,650 --> 00:46:14,250
+[BEN]
+Honey, maybe the federal agents would like something to drink? Could you see what we have?
+ແມ, ບາງທີຕົວແທນລັດຖະບານກາງຢາກດື່ມບາງສິ່ງບາງຢ່າງບໍ
+? ເຈົ້າເຫັນວ່າພວກເຮົາມີຫຍັງບໍ?
+
+683
+00:46:14,750 --> 00:46:16,750
+[LAURA]
+No.
+ບໍ່
+
+684
+00:46:17,250 --> 00:46:19,250
+[BEN]
+I tried, guys.
+ຂ້ອຍພະຍາຍາມແລ້ວ, ພວກຜູ້ຊາຍ.
+
+685
+00:46:19,750 --> 00:46:21,750
+[BEN]
+Hi!   What a surprise.
+ສະບາຍດີ! ເປັນຄວາມແປກໃຈຫຼາຍປານໃດ.
+
+686
+00:46:22,250 --> 00:46:27,500
+[DOROTHY]
+That certainly makes a statement. It's a little big for the yard, don't you think?
+ນັ້ນແນ່ນອນເຮັດໃຫ້ການຖະແຫຼງ.
+ມັນໃຫຍ່ເກີນໄປ ສໍາ ລັບສວນ, ເຈົ້າບໍ່ຄິດບໍ?
+
+687
+00:46:28,000 --> 00:46:32,550
+[BEN]
+What can I tell you, Mom? It looked much smaller in the store.
+ຂ້ອຍສາມາດບອກເຈົ້າໄດ້ແນວໃດ, ແມ່?
+ມັນເບິ່ງຄືວ່ານ້ອຍກວ່າຫຼາຍໃນຮ້ານຄ້າ.
+
+688
+00:46:33,050 --> 00:46:35,150
+[ISAAC]
+Think it'll affect your water pressure?
+ເຈົ້າຄິດວ່າມັນຈະສົ່ງຜົນກະທົບຕໍ່ຄວາມກົດດັນນ້ ໍາ ຂອງທ່ານບໍ?
+
+689
+00:46:35,650 --> 00:46:39,500
+[BEN]
+I think it'll affect the tides. What are you doing here?
+ຂ້ອຍຄິດວ່າມັນຈະສົ່ງຜົນກະທົບຕໍ່ຄື້ນຟອງ. ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+690
+00:46:40,000 --> 00:46:44,550
+[DOROTHY]
+Your father and I are just very concerned about what happened in Florida.
+ຂ້ອຍແລະພໍ່ເຈົ້າພຽງແຕ່ກັງວົນຫຼາຍກ່ຽວກັບສິ່ງທີ່ເກີດຂຶ້ນໃນຟລໍຣິດາ.
+
+691
+00:46:45,050 --> 00:46:48,900
+[ISAAC]
+How was your flight home? Anyone hang themselves in first class.
+ການບິນກັບບ້ານຂອງທ່ານເປັນແນວໃດ? ໃຜຈະວາງຕົວເອງໃນຊັ້ນ ທໍາ ອິດ.
+
+692
+00:46:49,400 --> 00:46:53,950
+[DOROTHY]
+We got in last night, we couldn't sleep a wink. Is Laura inside?
+ພວກເຮົາເຂົ້າມາໃນມື້ວານນີ້, ພວກເຮົາບໍ່ສາມາດນອນຕາໄດ້. ໂລຣາຢູ່ໃນບໍ?
+
+693
+00:46:54,450 --> 00:47:00,450
+[BEN]
+Yeah, but she and Michael are spending some time alone, you know, getting to know each other. That's important. I don't want to disturb that dynamic.
+ແມ່ນແລ້ວ, ແຕ່ນາງແລະໄມເກວ ກໍາ ລັງໃຊ້ເວລາຢູ່ຄົນດຽວ, ເຈົ້າຮູ້ແລ້ວ,
+ຮູ້ຈັກກັນແລະກັນ. ນັ້ນມີຄວາມສໍາຄັນ. ຂ້ອຍບໍ່ຢາກລົບກວນການເຄື່ອນໄຫວນັ້ນ.
+
+694
+00:47:00,950 --> 00:47:03,750
+[DOROTHY]
+So you're not going to invite us in?
+ສະນັ້ນເຈົ້າຈະບໍ່ເຊີນພວກເຮົາເຂົ້າມາບໍ?
+
+695
+00:47:04,250 --> 00:47:06,250
+[BEN]
+No.
+ບໍ່
+
+696
+00:47:06,750 --> 00:47:10,950
+[DOROTHY]
+Well, I'm going to wait in the car. There's too much spray.
+ດີ, ຂ້ອຍຈະລໍຖ້າຢູ່ໃນລົດ. ມີສີດຫຼາຍເກີນໄປ.
+
+697
+00:47:11,450 --> 00:47:14,250
+[ISAAC]
+All right. What's with you and Paul Vitti?
+ດີແລ້ວ. ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າແລະໂປລ ວີຕີ?
+
+698
+00:47:14,750 --> 00:47:17,900
+[BEN]
+Well, Dad, I'm not at liberty to discuss that.
+ດີ, ພໍ່, ຂ້ອຍບໍ່ມີສິດທີ່ຈະປຶກສາຫາລືເລື່ອງນັ້ນ.
+
+699
+00:47:18,400 --> 00:47:24,350
+[ISAAC]
+He's your patient? Are you joking? Have you thought about what this could do to your reputation?
+ລາວເປັນຄົນເຈັບຂອງເຈົ້າບໍ? ເຈົ້າຢອກຊື່ໆບໍ?
+ຂ້ອຍຄິດວ່າສິ່ງນີ້ສາມາດເຮັດຫຍັງກັບຊື່ສຽງຂອງທ່ານບໍ?
+
+700
+00:47:24,850 --> 00:47:30,850
+[BEN]
+You, know, I always wanted to be great, but then I realized that I might have to settle for just being good enough. Now I've got this guy who's hurting and I'm thinking that if I can help this guy, maybe I can be a little bit great.
+ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍຢາກເປັນຄົນຍິ່ງໃຫຍ່ຢູ່ສະເຫມີ, ແຕ່ຫຼັງຈາກນັ້ນຂ້ອຍຮູ້ວ່າຂ້ອຍອາດຈະຕ້ອງພໍໃຈກັບພຽງແຕ່ເປັນຄົນດີພໍສົມຄວນ
+. ດຽວນີ້ຂ້ອຍມີຜູ້ຊາຍຄົນນີ້ທີ່ເຈັບປວດແລະຂ້ອຍ ກໍາ ລັງຄິດວ່າຖ້າຂ້ອຍສາມາດຊ່ວຍຄົນນີ້ໄດ້, ບາງທີຂ້ອຍສາມາດດີເລັກນ້ອຍໄດ້.
+
+701
+00:47:31,350 --> 00:47:37,300
+[ISAAC]
+Jesus, Ben, you're the one who's going to be hurting. I want you to stop seeing him.
+ພຣະເຢຊູ, ແບນ, ເຈົ້າເປັນຄົນທີ່ຈະເຈັບປວດ. ຂ້ອຍຢາກໃຫ້ເຈົ້າຢຸດພົບລາວ.
+
+702
+00:47:37,800 --> 00:47:43,800
+[BEN]
+Didn't you read your own book? Instead of trying to run my life, why don't you just close your eyes, take a deep breath, tell me what you feel, tell me what you want.
+ເຈົ້າບໍ່ໄດ້ອ່ານປື້ມຂອງເຈົ້າເອງບໍ? ແທນທີ່ຈະພະຍາຍາມ ດໍາ ເນີນຊີວິດຂອງຂ້ອຍ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ພຽງແຕ່ປິດຕາຂອງທ່ານ
+, ດູດຫາຍໃຈຢ່າງເລິກເຊິ່ງ, ບອກຂ້ອຍວ່າເຈົ້າຮູ້ສຶກແນວໃດ, ບອກຂ້າພະເຈົ້າວ່າເຈົ້າຕ້ອງການຫຍັງ.
+
+703
+00:47:44,300 --> 00:47:46,300
+[ISAAC]
+This is bullshit.
+ນີ້ແມ່ນໂຊກຮ້າຍ.
+
+704
+00:47:46,800 --> 00:47:48,800
+[BEN]
+You wrote it.
+ເຈົ້າຂຽນມັນ.
+
+705
+00:47:49,300 --> 00:47:55,300
+[ISAAC]
+Okay.  I love you -- and I'm afraid for you -- I want you to be safe -- and I want you to have a good life.
+ດີແລ້ວ. ຂ້ອຍຮັກເຈົ້າ - ແລະຂ້ອຍຢ້ານກົວ ສໍາ ລັບເຈົ້າ -
+ຂ້ອຍຢາກໃຫ້ເຈົ້າປອດໄພ - ແລະ ຂ້ອຍຢາກໃຫ້ທ່ານມີຊີວິດທີ່ດີ.
+
+706
+00:47:55,800 --> 00:47:57,800
+[BEN]
+Is that really it?
+ນັ້ນແມ່ນແທ້ບໍ?
+
+707
+00:47:58,300 --> 00:48:00,300
+[ISAAC]
+That's it.
+ນັ້ນແມ່ນມັນ.
+
+708
+00:48:00,800 --> 00:48:06,800
+[BEN]
+You know why I became a shrink? Because I grew up with a great one walking around the house.
+ເຈົ້າຮູ້ວ່າເປັນຫຍັງຂ້ອຍກາຍເປັນນັກຈິດໃຈ?
+ເພາະວ່າຂ້ອຍເຕີບໃຫຍ່ກັບຄົນຍິ່ງໃຫຍ່ຍ່າງຢູ່ເຮືອນ.
+
+709
+00:48:07,300 --> 00:48:12,900
+[ISAAC]
+I thought you became a shrink because you were sleeping with your psychology professor at Columbia.
+ຂ້ອຍຄິດວ່າເຈົ້າກາຍເປັນຈິດໃຈເພາະວ່າເຈົ້າ ກໍາ
+ລັງນອນກັບສາດສະດາຈານຈິດຕະສາດຂອງທ່ານຢູ່ຄໍລອມເບຍ.
+
+710
+00:48:13,400 --> 00:48:15,400
+[BEN]
+Yes, and because of you.
+ແມ່ນແລ້ວ, ແລະຍ້ອນເຈົ້າ.
+
+711
+00:48:15,900 --> 00:48:17,900
+[BEN]
+Okay, so you were saying?
+ດີແລ້ວ, ເຈົ້າ ກໍາ ລັງເວົ້າບໍ?
+
+712
+00:48:18,400 --> 00:48:24,400
+[AGENT STEADMAN]
+Let me cut to the chase. Sometime in the next week or so, the heads of every major crime family in the United States are going to meet together somewhere in the New York area.
+ຂໍໃຫ້ຂ້ອຍເຂົ້າສູ່ຈຸດປະສົງ. ບາງຄັ້ງໃນອາທິດຕໍ່ໄປຫຼືປະມານນັ້ນ,
+ຫົວຫນ້າຂອງຄອບຄົວອາຊະຍາກໍາໃຫຍ່ທຸກຄົນໃນສະຫະລັດຈະພົບກັນຢູ່ບ່ອນໃດຫນຶ່ງໃນເຂດນິວຢອກ.
+
+713
+00:48:24,900 --> 00:48:30,900
+[AGENT PROVANO]
+We think the stage is set for a major bloodbath. Has he mentioned anything about it to you?
+ພວກເຮົາຄິດວ່າເວທີຖືກກຽມພ້ອມ ສໍາ ລັບການລ້າງເລືອດທີ່ໃຫຍ່ຫຼວງ
+. ລາວໄດ້ກ່າວເຖິງຫຍັງກ່ຽວກັບມັນກັບເຈົ້າບໍ?
+
+714
+00:48:31,400 --> 00:48:33,400
+[LAURA]
+A bloodbath?
+ການລ້າງເລືອດບໍ?
+
+715
+00:48:33,900 --> 00:48:39,900
+[BEN]
+No. If he said anything about a bloodbath, I probably would've remembered it. Bloodbath is one of those words that, you know, stands out in a conversation.
+ບໍ່. ຖ້າລາວເວົ້າຫຍັງກ່ຽວກັບອາບນ້ ໍາ ເລືອດ, ຂ້ອຍອາດຈະຈື່ມັນໄວ້.
+ອາບນໍ້າເລືອດແມ່ນ ຫນຶ່ງ ໃນ ຄໍາ ທີ່, ເຈົ້າຮູ້ແລ້ວ, ໂດດເດັ່ນໃນການສົນທະນາ.
+
+716
+00:48:40,400 --> 00:48:44,600
+[AGENT STEADMAN]
+You could really help us out by supplying information about that meeting.
+ເຈົ້າສາມາດຊ່ວຍພວກເຮົາໄດ້ແທ້ໆໂດຍການສະ
+ຫນອງ ຂໍ້ມູນກ່ຽວກັບກອງປະຊຸມນັ້ນ.
+
+717
+00:48:45,100 --> 00:48:47,100
+[BEN]
+And if I don't?
+ແລະຖ້າຂ້ອຍບໍ່ເຮັດແນວໃດ?
+
+718
+00:48:47,600 --> 00:48:53,600
+[AGENT STEADMAN]
+If you don't, I will personally make your life a living hell. I want you to think about that and call me at this number when you change your mind.
+ຖ້າເຈົ້າບໍ່ເຮັດ, ຂ້ອຍຈະເຮັດໃຫ້ຊີວິດຂອງເຈົ້າເປັນອານາໄມທີ່ຢູ່ອາໄສ.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າຄິດກ່ຽວກັບເລື່ອງນັ້ນແລະໂທຫາຂ້ອຍໃນເບີນີ້ເມື່ອເຈົ້າປ່ຽນໃຈ.
+
+719
+00:48:54,100 --> 00:48:56,550
+[BEN]
+You mean if I change my mind.
+ເຈົ້າຫມາຍຄວາມວ່າຖ້າຂ້ອຍປ່ຽນໃຈ.
+
+720
+00:48:57,050 --> 00:48:59,050
+[AGENT STEADMAN]
+I mean when.
+ຂ້ອຍຫມາຍຄວາມວ່າເມື່ອໃດ.
+
+721
+00:48:59,550 --> 00:49:02,350
+[LAURA]
+Okay. Guess what, fellas? You don't scare me.
+ດີແລ້ວ. ຄິດວ່າຫຍັງ, ພວກຜູ້ຊາຍ? ເຈົ້າບໍ່ຢ້ານຂ້ອຍ.
+
+722
+00:49:02,850 --> 00:49:04,850
+[BEN]
+Laura --
+ໂລຣາ...
+
+723
+00:49:05,350 --> 00:49:11,350
+[LAURA]
+Sit down!  There's going to be a bloodbath. Oh, yeah. Only it's going to be between you and me. You think you can break into our home and intimidate us? That ain't the way it works here, boys. Whatever he and Paul Vitti talked about is privileged. He doesn't have to tell you a thing.
+ນັ່ງລົງ! ຈະມີການລ້າງເລືອດ. ໂອ້, ແມ່ນແລ້ວ. ພຽງແຕ່ມັນຈະເປັນລະຫວ່າງເຈົ້າແລະຂ້ອຍ. ເຈົ້າຄິດວ່າເຈົ້າສາມາດບຸກເຂົ້າໄປໃນເຮືອນຂອງພວກເຮົາແລະຢ້ານກົວພວກເຮົາໄດ້ບໍ
+? ນັ້ນບໍ່ແມ່ນວິທີທີ່ມັນເຮັດວຽກຢູ່ນີ້, ເດັກຊາຍ. ສິ່ງໃດທີ່ລາວແລະໂປລ ວີຕີໄດ້ເວົ້າກ່ຽວກັບແມ່ນສິດທິພິເສດ. ລາວບໍ່ຈໍາເປັນຕ້ອງບອກເຈົ້າຫຍັງເລີຍ.
+
+724
+00:49:11,850 --> 00:49:17,850
+[LAURA]
+Tarasoff vs. The University of California. Look it up. Now, if he's done something wrong, take him downtown and book him. Otherwise, I'll ask you very kindly to get the hell out of my house.
+Tarasoff ຕໍ່ມະຫາວິທະຍາໄລຄາລີຟໍເນຍ. ເບິ່ງມັນ. ດຽວນີ້, ຖ້າລາວເຮັດບາງສິ່ງບາງຢ່າງຜິດ,
+ເອົາລາວໄປສູນກາງເມືອງແລະຈອງລາວ. ຖ້າບໍ່ດັ່ງນັ້ນ, ຂ້ອຍຈະຂໍໃຫ້ທ່ານອອກຈາກເຮືອນຂອງຂ້ອຍຢ່າງດີໃຈຫຼາຍ.
+
+725
+00:49:18,350 --> 00:49:20,350
+[AGENT STEADMAN]
+We'll be in touch.
+ພວກເຮົາຈະຕິດຕໍ່ກັນ.
+
+726
+00:49:20,850 --> 00:49:22,850
+[BEN]
+Laura, that was really --
+ໂລຣາ, ນັ້ນແມ່ນແທ້ໆ -
+
+727
+00:49:23,350 --> 00:49:25,350
+[LAURA]
+Oh, shut up!
+ໂອ້, ງຽບ!
+
+728
+00:49:25,850 --> 00:49:27,850
+[MICHAEL]
+You are in trouble.
+ເຈົ້າຢູ່ໃນບັນຫາ.
+
+729
+00:49:28,350 --> 00:49:34,350
+[MASIELLO]
+Paul, I don't mean this in a disrespectful way. You know I was a good friend to your father and I will always be a good friend to you. But the word is out that you've been talking to a shrink. Is that right?
+ໂປລ, ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່ານີ້ໃນທາງທີ່ບໍ່ເຄົາລົບ. ເຈົ້າຮູ້ວ່າຂ້ອຍເປັນເພື່ອນທີ່ດີກັບພໍ່ຂອງທ່ານແລະຂ້ອຍຈະເປັນເພື່ອນດີກັບເຈົ້າຕະຫຼອດໄປ
+. ແຕ່ຂ່າວອອກມາວ່າເຈົ້າ ກໍາ ລັງເວົ້າກັບນັກຈິດໃຈ. ນັ້ນແມ່ນຄວາມຈິງບໍ?
+
+730
+00:49:34,850 --> 00:49:36,850
+[VITTI]
+What's the point here?
+ຈຸດປະສົງຫຍັງຢູ່ບ່ອນນີ້?
+
+731
+00:49:37,350 --> 00:49:43,350
+[MASIELLO]
+This concerns the whole family. Right now, we're the only ones who know about it, but if it gets out on the street -- what then? Who knows what you've been saying in there?
+ນີ້ແມ່ນກ່ຽວຂ້ອງກັບຄອບຄົວທັງ ຫມົດ. ໃນເວລານີ້, ພວກເຮົາເປັນຄົນດຽວທີ່ຮູ້ກ່ຽວກັບມັນ,
+ແຕ່ຖ້າມັນອອກໄປໃນຖະຫນົນຫົນທາງ - ຫຼັງຈາກນັ້ນຫຍັງ? ໃຜຮູ້ວ່າເຈົ້າເວົ້າຫຍັງຢູ່ບ່ອນນັ້ນ?
+
+732
+00:49:43,850 --> 00:49:47,350
+[VITTI]
+It's none of anybody's business what I say in there.
+ມັນບໍ່ແມ່ນເລື່ອງຂອງໃຜເລີຍວ່າຂ້ອຍເວົ້າຫຍັງຢູ່ບ່ອນນັ້ນ.
+
+733
+00:49:47,850 --> 00:49:53,850
+[MASIELLO]
+Paul, I beg to differ. If you're doing this to establish some kind of insanity defense later, that's one thing. But everybody's gonna think you're falling apart, and that ain't good. They'll take it as a sign of weakness, and that makes us all vulnerable. Sindone would take over everything.
+ໂປລ, ຂ້ອຍຂໍຮ້ອງໃຫ້ແຕກຕ່າງກັນ. ຖ້າເຈົ້າ ກໍາ ລັງເຮັດສິ່ງນີ້ເພື່ອສ້າງຕັ້ງການປ້ອງກັນຄວາມໂຊກຮ້າຍບາງຢ່າງຕໍ່ມາ, ນັ້ນແມ່ນສິ່ງ ຫນຶ່ງ.
+ແຕ່ທຸກຄົນຈະຄິດວ່າເຈົ້າກໍາລັງຕົກລົງກັນ, ແລະນັ້ນບໍ່ແມ່ນດີ. ພວກເຂົາຈະເອົາມັນເປັນສັນຍານຄວາມອ່ອນແອ, ແລະມັນເຮັດໃຫ້ພວກເຮົາທຸກຄົນອ່ອນແອ. Sindone ຈະຮັບຜິດຊອບທຸກຢ່າງ.
+
+734
+00:49:54,350 --> 00:49:57,150
+[VITTI]
+So what do you want me to do?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+
+735
+00:49:57,650 --> 00:49:59,650
+[MASIELLO]
+It's time to end it.
+ມັນເຖິງເວລາແລ້ວທີ່ຈະສິ້ນສຸດມັນ.
+
+736
+00:50:00,150 --> 00:50:02,250
+[VITTI]
+What do you mean, end it?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ, ສິ້ນສຸດມັນ?
+
+737
+00:50:02,750 --> 00:50:06,250
+[MASIELLO]
+Get rid of this shrink.   He knows too much already.
+ເອົາຈິດໃຈຄົນນີ້ອອກໄປ. ລາວຮູ້ຫຼາຍເກີນໄປແລ້ວ.
+
+738
+00:50:06,750 --> 00:50:09,200
+[VITTI]
+You want me to whack my doctor?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍຂ້າຫມໍຂອງຂ້ອຍບໍ?
+
+739
+00:50:09,700 --> 00:50:13,900
+[MASIELLO]
+If you don't do it, somebody else will. It's the only way.
+ຖ້າເຈົ້າບໍ່ເຮັດມັນ, ຄົນອື່ນຈະເຮັດ. ມັນເປັນວິທີດຽວ.
+
+740
+00:50:14,400 --> 00:50:20,400
+[VITTI]
+No. Nobody touches him. You hear me? Anybody lays a finger on him, I'll kill 'em. Is that clear?
+ບໍ່. ບໍ່ມີໃຜຈັບລາວ. ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ?
+ໃຜວາງນິ້ວມືໃສ່ລາວ, ຂ້ອຍຈະຂ້າພວກເຂົາ. ມັນເຂົ້າໃຈບໍ?
+
+741
+00:50:20,900 --> 00:50:24,050
+[BEN]
+I'm going to buy some fruit. You want anything?
+ຂ້ອຍຈະໄປຊື້ຫມາກໄມ້ບາງຢ່າງ. ເຈົ້າຢາກມີຫຍັງບໍ?
+
+742
+00:50:24,550 --> 00:50:26,550
+[VITTI]
+No, go ahead.
+ບໍ່, ໄປກ່ອນ.
+
+743
+00:50:27,050 --> 00:50:29,050
+[VITTI]
+Papa!   Papa!
+ພໍ່! ພໍ່!
+
+744
+00:50:29,550 --> 00:50:31,650
+[VITTI]
+You look lousy. You all right.
+ເຈົ້າເບິ່ງບໍ່ດີ. ເຈົ້າບໍ່ເປັນຫຍັງ.
+
+745
+00:50:32,150 --> 00:50:35,300
+[BEN]
+Listen, Paul, please don't send me any more gifts.
+ຟັງ, ໂປລ, ກະລຸນາຢ່າສົ່ງຂອງຂວັນໃຫ້ຂ້ອຍອີກຕໍ່ໄປ.
+
+746
+00:50:35,800 --> 00:50:37,800
+[VITTI]
+You didn't like the fountain?
+ເຈົ້າບໍ່ມັກແຫຼ່ງນໍ້າບໍ?
+
+747
+00:50:38,300 --> 00:50:41,100
+[BEN]
+That's not the point.   It's a boundary issue.
+ນັ້ນບໍ່ແມ່ນຈຸດເດັ່ນ. ມັນເປັນບັນຫາຊາຍແດນ.
+
+748
+00:50:41,600 --> 00:50:47,600
+[VITTI]
+Boundary issue? I say if more people gave from the heart, we'd all be better off. Let's see your watch.  Piece of junk. You're getting a Rolex.
+ບັນຫາຊາຍແດນບໍ? ຂ້ອຍເວົ້າວ່າຖ້າຄົນຫຼາຍຄົນໃຫ້ຈາກຫົວໃຈ, ພວກເຮົາທຸກຄົນຈະດີຂຶ້ນ
+. ມາເບິ່ງໂມງຂອງທ່ານ. ກະດານຂີ້ເຫຍື້ອ. ເຈົ້າ ກໍາ ລັງໄດ້ຮັບໂຣເລັກສ໌.
+
+749
+00:50:48,100 --> 00:50:50,100
+[BEN]
+Don't buy me a Rolex.
+ຢ່າຊື້ໂຣເລັກສ໌ໃຫ້ຂ້ອຍ.
+
+750
+00:50:50,600 --> 00:50:52,700
+[VITTI]
+Who said anything about buying it?
+ໃຜເວົ້າຫຍັງກ່ຽວກັບການຊື້ມັນ?
+
+751
+00:50:53,200 --> 00:50:56,000
+[BEN]
+Listen, I really need to talk to you.
+ຟັງ, ຂ້ອຍຕ້ອງເວົ້າກັບເຈົ້າແທ້ໆ.
+
+752
+00:50:56,500 --> 00:51:01,400
+[VITTI]
+Tommy Angels. We grew up together. Worked for a crew out of Jersey City.
+ໂຕມມີ ແອນເຈລສ໌. ພວກເຮົາເຕີບໃຫຍ່ຮ່ວມກັນ
+. ເຮັດວຽກ ສໍາ ລັບທີມງານຈາກເມືອງເຈີຊີ.
+
+753
+00:51:01,900 --> 00:51:03,900
+[BEN]
+How did he die?
+ລາວຕາຍແນວໃດ?
+
+754
+00:51:04,400 --> 00:51:10,400
+[VITTI]
+He was on his way to talk to a federal prosecutor. Got hit by a truck -- twice.
+ລາວ ກໍາ ລັງເດີນທາງໄປເວົ້າກັບໄອຍະການລັດຖະບານກາງ
+. ຖືກລົດບັນທຸກຕໍາ - ສອງຄັ້ງ.
+
+755
+00:51:10,900 --> 00:51:15,100
+[BEN]
+Do I need to know that? I'm having nightmares as it is.
+ຂ້ອຍຕ້ອງຮູ້ເລື່ອງນັ້ນບໍ? ຂ້ອຍ ກໍາ ລັງມີຄວາມຝັນຮ້າຍຢ່າງເປັນຈິງ.
+
+756
+00:51:15,600 --> 00:51:21,600
+[BEN]
+Last night I dreamed we were walking down the street, I stopped to buy some fruit, and they shot me -- like Brando in The Godfather.
+ໃນມື້ວານນີ້ຂ້ອຍຝັນວ່າພວກເຮົາ ກໍາ ລັງຍ່າງຕາມຖະຫນົນຫົນທາງ, ຂ້ອຍຢຸດເພື່ອຊື້
+ຫມາກ ໄມ້ບາງຢ່າງ, ແລະພວກເຂົາຍິງຂ້ອຍ - ຄືກັບບຣານໂດໃນ The Godfather.
+
+757
+00:51:22,100 --> 00:51:24,100
+[VITTI]
+Good scene.    Was I there?
+ສະຖານທີ່ທີ່ດີ. ຂ້ອຍຢູ່ບ່ອນນັ້ນບໍ?
+
+758
+00:51:24,600 --> 00:51:29,850
+[BEN]
+You dropped your gun, then you ran over to me and started yelling, 'Papa, Papa!'
+ເຈົ້າຖິ້ມປືນຂອງທ່ານ,
+ຫຼັງຈາກນັ້ນເຈົ້າແລ່ນໄປຫາຂ້ອຍແລະເລີ່ມຮ້ອງໄຫ້, ພໍ່, ພໍ່!
+
+759
+00:51:30,350 --> 00:51:32,800
+[VITTI]
+I was Fredo.    I don't think so.
+ຂ້ອຍເປັນຟຣີດໂກ້. ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ.
+
+760
+00:51:33,300 --> 00:51:36,450
+[VITTI]
+You're losing it, Doc.   You may need therapy yourself.
+ເຈົ້າ ກໍາ ລັງສູນເສຍມັນ, ດອກ. ເຈົ້າອາດຈະຕ້ອງການການປິ່ນປົວເອງ.
+
+761
+00:51:36,950 --> 00:51:39,400
+[VITTI]
+Him I don't know. Let's get private.
+ລາວຂ້ອຍບໍ່ຮູ້ຈັກ. ໄປເປັນສ່ວນຕົວ.
+
+762
+00:51:39,900 --> 00:51:44,100
+[BEN]
+Don't you see? You called me 'Papa.' It's all about your father.
+ເຈົ້າບໍ່ເຫັນບໍ? ເຈົ້າເອີ້ນຂ້ອຍວ່າ'ພໍ່
+. ມັນທັງ ຫມົດ ແມ່ນກ່ຽວກັບພໍ່ຂອງທ່ານ.
+
+763
+00:51:44,600 --> 00:51:47,050
+[VITTI]
+What're you, nuts? It was your dream.
+ເຈົ້າເປັນຫຍັງ, ຫມາກ ນັດ? ມັນແມ່ນຄວາມຝັນຂອງທ່ານ.
+
+764
+00:51:47,550 --> 00:51:51,400
+[BEN]
+Yes, but that's what your black milk dream was about, too.
+ແມ່ນແລ້ວ,
+ແຕ່ນັ້ນແມ່ນສິ່ງທີ່ຄວາມຝັນນົມສີດໍາຂອງທ່ານກ່ຽວກັບເຊັ່ນກັນ.
+
+765
+00:51:51,900 --> 00:51:57,150
+[VITTI]
+Uh-uh. I don't buy it. In my dream, I'm bringing the baby the black milk.
+ໂອ້. ຂ້ອຍບໍ່ຊື້ມັນ. ໃນຄວາມຝັນຂອງຂ້ອຍ,
+ຂ້ອຍ ກໍາ ລັງເອົານົມສີດໍາໃຫ້ເດັກນ້ອຍ.
+
+766
+00:51:57,650 --> 00:52:00,100
+[BEN]
+Freud believed you're everyone in your dreams.
+ຟຣອຍດ໌ເຊື່ອວ່າເຈົ້າເປັນທຸກຄົນໃນຄວາມຝັນຂອງທ່ານ.
+
+767
+00:52:00,600 --> 00:52:06,600
+[VITTI]
+Yeah, well, that guy I don't need to hear about. I can't even call my mother on the phone after that thing you told me.
+ແມ່ນແລ້ວ, ດີ, ຜູ້ຊາຍຄົນນັ້ນຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງໄດ້ຍິນກ່ຽວກັບ.
+ຂ້ອຍຍັງບໍ່ສາມາດໂທຫາແມ່ຂອງຂ້ອຍໄດ້ໃນໂທລະສັບຫຼັງຈາກສິ່ງທີ່ເຈົ້າບອກຂ້ອຍ.
+
+768
+00:52:07,100 --> 00:52:12,700
+[BEN]
+Let's say you are the baby. What kind of milk did you get from your father?
+ພວກເຮົາເວົ້າວ່າເຈົ້າເປັນເດັກນ້ອຍ.
+ເຈົ້າໄດ້ຮັບນົມປະເພດໃດຈາກພໍ່ຂອງທ່ານ?
+
+769
+00:52:13,200 --> 00:52:15,650
+[VITTI]
+Could we stop talking about my father?
+ພວກເຮົາສາມາດຢຸດເວົ້າກ່ຽວກັບພໍ່ຂອງຂ້ອຍໄດ້ບໍ?
+
+770
+00:52:16,150 --> 00:52:22,150
+[BEN]
+That's the whole point! We have to start talking about your father. You know what it's like dealing with you? This is you.  You gotta help me, Doc. I'm a mess. I'm in pain.  Okay, Paul, I can help you.  Fuck you. Nobody helps Paul Vitti.
+ນັ້ນແມ່ນຈຸດທັງ ຫມົດ! ພວກເຮົາຕ້ອງເລີ່ມຕົ້ນເວົ້າກ່ຽວກັບພໍ່ຂອງທ່ານ. ເຈົ້າຮູ້ວ່າມັນຄືກັບການຈັດການກັບເຈົ້າແນວໃດ? ນີ້ແມ່ນເຈົ້າ
+. ເຈົ້າຕ້ອງຊ່ວຍຂ້ອຍ, ດອກ. ຂ້ອຍເປັນຄວາມສັບສົນ. ຂ້ອຍເຈັບປວດ. ດີ, ໂປລ, ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້. ເຈົ້າ. ບໍ່ມີໃຜຊ່ວຍໂປລ ວີຕີ.
+
+771
+00:52:22,650 --> 00:52:28,650
+[VITTI]
+Very good. Now I'll do you. 'Boo-fuckin'-hoo.' I never said this would be easy. Let's see how you like it. Let's talk about your father.
+ດີຫຼາຍ. ດຽວນີ້ຂ້ອຍຈະເຮັດເຈົ້າ.' ບູໂຟກນ'- ຮູ. ຂ້ອຍບໍ່ເຄີຍເວົ້າວ່າສິ່ງນີ້ຈະງ່າຍດາຍ
+. ມາເບິ່ງວ່າເຈົ້າມັກມັນແນວໃດ. ມາເວົ້າກ່ຽວກັບພໍ່ຂອງທ່ານ.
+
+772
+00:52:29,150 --> 00:52:31,150
+[BEN]
+Let's not.
+ພວກເຮົາບໍ່ເຮັດ.
+
+773
+00:52:31,650 --> 00:52:33,650
+[VITTI]
+Is he still alive?
+ລາວຍັງມີຊີວິດຢູ່ບໍ?
+
+774
+00:52:34,150 --> 00:52:36,150
+[BEN]
+Yes, he's still alive.
+ແມ່ນແລ້ວ, ລາວຍັງມີຊີວິດຢູ່.
+
+775
+00:52:36,650 --> 00:52:39,100
+[VITTI]
+What kind of work does he do?
+ລາວເຮັດວຽກປະເພດໃດ?
+
+776
+00:52:39,600 --> 00:52:41,600
+[BEN]
+That's not important.
+ມັນບໍ່ສໍາຄັນ.
+
+777
+00:52:42,100 --> 00:52:44,100
+[VITTI]
+You paused.
+ເຈົ້າຢຸດເຊົາ.
+
+778
+00:52:44,600 --> 00:52:46,600
+[BEN]
+What?
+ຫຍັງ?
+
+779
+00:52:47,100 --> 00:52:51,300
+[VITTI]
+You paused. That means you had a feeling. What does he do?
+ເຈົ້າຢຸດເຊົາ. ນັ້ນ ຫມາຍ ຄວາມວ່າເຈົ້າມີຄວາມຮູ້ສຶກ. ລາວເຮັດຫຍັງ?
+
+780
+00:52:51,800 --> 00:52:53,800
+[BEN]
+He's a psychiatrist.
+ລາວເປັນແພດຈິດໃຈ.
+
+781
+00:52:54,300 --> 00:52:56,750
+[VITTI]
+Ooh, you're fucked up.   Next patient, please.
+ໂອ້, ເຈົ້າສໍ້ໂກງແລ້ວ. ຄົນເຈັບຕໍ່ໄປ, ກະລຸນາ.
+
+782
+00:52:57,250 --> 00:53:02,150
+[BEN]
+We're running out of time, Paul. Let's not waste it talking about my problems.
+ພວກເຮົາ ກໍາ ລັງຫມົດເວລາ, ໂປລ. ຢ່າເສຍມັນເວົ້າກ່ຽວກັບບັນຫາຂອງຂ້ອຍ.
+
+783
+00:53:02,650 --> 00:53:04,650
+[VITTI]
+Your father's a problem?
+ພໍ່ເຈົ້າເປັນບັນຫາບໍ?
+
+784
+00:53:05,150 --> 00:53:07,150
+[BEN]
+No!
+ບໍ່!
+
+785
+00:53:07,650 --> 00:53:10,450
+[VITTI]
+That's what you just said!   You seem upset.
+ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຫາກໍ່ເວົ້າ! ເຈົ້າເບິ່ງຄືວ່າໂຊກຮ້າຍ.
+
+786
+00:53:10,950 --> 00:53:12,950
+[BEN]
+I'm not upset!
+ຂ້ອຍບໍ່ໂຊກຮ້າຍ!
+
+787
+00:53:13,450 --> 00:53:15,450
+[VITTI]
+Hey, I'm good at this.
+ເຮ້, ຂ້ອຍດີໃນເລື່ອງນີ້.
+
+788
+00:53:15,950 --> 00:53:21,950
+[BEN]
+We have three days left. If you want to spend it screwing around, I can't help you.  Call me when you're ready to get serious.
+ພວກເຮົາມີເວລາສາມມື້ທີ່ຍັງເຫຼືອ. ຖ້າເຈົ້າຢາກໃຊ້ມັນໃນການໂຊກແຊງຢູ່ທົ່ວໄປ
+, ຂ້ອຍບໍ່ສາມາດຊ່ວຍເຈົ້າໄດ້. ໂທຫາຂ້ອຍເມື່ອເຈົ້າພ້ອມທີ່ຈະຈິງໃຈ.
+
+789
+00:53:22,450 --> 00:53:24,900
+[VITTI]
+Say hello to your father for me!
+ສະບາຍດີພໍ່ຂອງເຈົ້າຈາກຂ້ອຍ!
+
+790
+00:53:25,400 --> 00:53:27,850
+[POTATOES]
+We could just pop him right now.
+ພວກເຮົາພຽງແຕ່ສາມາດຕີລາວໄດ້ດຽວນີ້.
+
+791
+00:53:28,350 --> 00:53:33,600
+[HANDSOME JACK]
+In front of a church? What are you, a fuckin' animal? It's a holy place.
+ຢູ່ຕໍ່ຫນ້າສາດສະຫນາຈັກບໍ? ເຈົ້າເປັນຫຍັງ
+, ສັດແຊກແຊງບໍ? ມັນເປັນສະຖານທີ່ສັກສິດ.
+
+792
+00:53:34,100 --> 00:53:38,300
+[POTATOES]
+Is the sidewalk holy, too? I mean, where does the holiness end?
+ທາງຍ່າງແມ່ນສັກສິດເຊັ່ນກັນບໍ?
+ຂ້ອຍຫມາຍຄວາມວ່າ, ສັກສິດສິ້ນສຸດລົງຢູ່ໃສ?
+
+793
+00:53:38,800 --> 00:53:40,800
+[HANDSOME JACK]
+I don't know. Second Avenue?
+ຂ້ອຍບໍ່ຮູ້. ຖະຫນົນທີສອງບໍ?
+
+794
+00:53:41,300 --> 00:53:43,750
+[VITTI]
+You want me to whack my doctor?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍຂ້າຫມໍຂອງຂ້ອຍບໍ?
+
+795
+00:53:44,250 --> 00:53:48,450
+[MASIELLO]
+If you don't do it, somebody else will. It's the only way.
+ຖ້າເຈົ້າບໍ່ເຮັດມັນ, ຄົນອື່ນຈະເຮັດ. ມັນເປັນວິທີດຽວ.
+
+796
+00:53:48,950 --> 00:53:54,950
+[VITTI]
+No. Nobody touches him. You hear me? Anybody lays a finger on him, I'll kill 'em. Is that clear?
+ບໍ່. ບໍ່ມີໃຜຈັບລາວ. ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ?
+ໃຜວາງນິ້ວມືໃສ່ລາວ, ຂ້ອຍຈະຂ້າພວກເຂົາ. ມັນເຂົ້າໃຈບໍ?
+
+797
+00:53:55,450 --> 00:53:57,900
+[VITTI]
+You want me to whack my doctor?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍຂ້າຫມໍຂອງຂ້ອຍບໍ?
+
+798
+00:53:58,400 --> 00:54:02,600
+[MASIELLO]
+If you don't do it, somebody else will. It's the only way.
+ຖ້າເຈົ້າບໍ່ເຮັດມັນ, ຄົນອື່ນຈະເຮັດ. ມັນເປັນວິທີດຽວ.
+
+799
+00:54:03,100 --> 00:54:05,100
+[VITTI]
+I'll kill 'em.
+ຂ້ອຍຈະຂ້າພວກເຂົາ.
+
+800
+00:54:05,600 --> 00:54:08,050
+[BEN]
+What do you want me to do?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+
+801
+00:54:08,550 --> 00:54:10,650
+[MASIELLO]
+Paul, he talked to the Feds.
+ໂປລ, ລາວໄດ້ເວົ້າກັບ FBI.
+
+802
+00:54:11,150 --> 00:54:15,000
+[VITTI]
+I know this guy. He would never talk to the Feds.
+ຂ້ອຍຮູ້ຈັກຄົນນີ້. ລາວຈະບໍ່ເວົ້າກັບລັດຖະບານກາງເລີຍ.
+
+803
+00:54:15,500 --> 00:54:17,950
+[MASIELLO]
+The FBI was at his house today.
+FBI ຢູ່ເຮືອນລາວມື້ນີ້.
+
+804
+00:54:18,450 --> 00:54:20,550
+[JIMMY]
+It's the truth.   I saw 'em.
+ມັນເປັນຄວາມຈິງ. ຂ້ອຍເຫັນພວກມັນ.
+
+805
+00:54:21,050 --> 00:54:25,950
+[MASIELLO]
+You'll see. Next thing is he's gonna call you and ask for a meeting.
+ເຈົ້າຈະເຫັນ. ສິ່ງຕໍ່ໄປແມ່ນລາວຈະໂທຫາເຈົ້າແລະຂໍກອງປະຊຸມ.
+
+806
+00:54:26,450 --> 00:54:28,900
+[VITTI]
+Come on.   You don't know this guy.
+ມາແລ້ວ. ເຈົ້າບໍ່ຮູ້ຈັກຄົນນີ້.
+
+807
+00:54:29,400 --> 00:54:33,600
+[JELLY]
+It's Dr. Sobol. He says he needs to see you right away.
+ມັນເປັນດຣ ໂຊບອລ. ລາວເວົ້າວ່າລາວຕ້ອງເຫັນເຈົ້າທັນທີ.
+
+808
+00:54:34,100 --> 00:54:36,100
+[JELLY]
+Sit up front with Jimmy.
+ນັ່ງຢູ່ທາງຫນ້າກັບຈິມມີ.
+
+809
+00:54:36,600 --> 00:54:40,800
+[BEN]
+You want me to sit in front? Paul usually sits in front.
+ເຈົ້າຢາກໃຫ້ຂ້ອຍນັ່ງຢູ່ທາງຫນ້າບໍ? ໂປລມັກນັ່ງທາງຫນ້າ.
+
+810
+00:54:41,300 --> 00:54:45,850
+[JIMMY]
+So this time you'll sit up front. Why you making a federal case?
+ສະນັ້ນໃນຄັ້ງນີ້ເຈົ້າຈະນັ່ງຢູ່ທາງຫນ້າ
+. ເຈົ້າເຮັດກໍລະນີລັດຖະບານກາງເປັນຫຍັງ?
+
+811
+00:54:46,350 --> 00:54:49,850
+[BEN]
+Federal case? I'm not making a federal case? Let's go.
+ກໍລະນີລັດຖະບານກາງບໍ? ຂ້ອຍບໍ່ໄດ້ເຮັດກໍລະນີລັດຖະບານ ກາງບໍ? ໄປ.
+
+812
+00:54:50,350 --> 00:54:56,350
+[BEN]
+Wow, this is really good. Delicious. I love Italian food. I've never been to Italy but I'd love to go. I've been to France. And Jamaica. That's nice, but I'm sure it's very different from Italy. A whole different, uh --  So what's everybody doing this summer?
+ໂວ້, ນີ້ແມ່ນດີແທ້ໆ. ດີເລີດ. ຂ້ອຍມັກອາຫານອິຕາລີ. ຂ້ອຍບໍ່ເຄີຍໄປອີຕາລີແຕ່ຂ້ອຍຢາກໄປ. ຂ້ອຍເຄີຍໄປຝຣັ່ງ. ແລະຈາໄມກາ. ນັ້ນດີເລີດ
+, ແຕ່ຂ້ອຍແນ່ໃຈວ່າມັນແຕກຕ່າງກັນຫຼາຍຈາກອີ ຕາລີ. ແຕກຕ່າງກັນຢ່າງສົມບູນ, ອູ - ສະນັ້ນທຸກຄົນ ກໍາ ລັງເຮັດຫຍັງໃນລະດູຮ້ອນນີ້?
+
+813
+00:54:56,850 --> 00:55:01,400
+[VITTI]
+This is Ben. He's a friend of mine.  Say hello to Carlo Mangano.
+ນີ້ແມ່ນແບນ. ລາວເປັນເພື່ອນຂອງຂ້ອຍ. ສະບາຍດີແຄລໂລ ມັງກາໂນ.
+
+814
+00:55:01,900 --> 00:55:03,900
+[MANGANO]
+How you doin'?
+ເຈົ້າເປັນແນວໃດ?
+
+815
+00:55:04,400 --> 00:55:10,400
+[VITTI]
+Carlo was on my father's crew. He's always been like a -- I don't know -- like a cousin to me.
+ຄາລໂລແມ່ນຢູ່ໃນທີມງານຂອງພໍ່ຂອງຂ້ອຍ. ລາວເຄີຍເປັນຄືກັບ
+- ຂ້ອຍບໍ່ຮູ້ - ຄືກັບອ້າຍນ້ອງຂອງຂ້ອຍ.
+
+816
+00:55:10,900 --> 00:55:12,900
+[MANGANO]
+I am your cousin.
+ຂ້ອຍເປັນອ້າຍນ້ອງຂອງເຈົ້າ.
+
+817
+00:55:13,400 --> 00:55:17,950
+[VITTI]
+I know, that's what I'm saying. It's like a family thing. The closeness.
+ຂ້ອຍຮູ້ແລ້ວ, ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍເວົ້າ
+. ມັນຄືກັບເລື່ອງຂອງຄອບຄົວ. ຄວາມໃກ້ຊິດ.
+
+818
+00:55:18,450 --> 00:55:24,050
+[MANGANO]
+Anything you need, anything I can do for you, Paul, you know. I'm here for you.
+ທຸກຢ່າງທີ່ທ່ານຕ້ອງການ, ທຸກຢ່າງທີ່ຂ້ອຍສາມາດເຮັດໄດ້ ສໍາ
+ລັບທ່ານ, ໂປລ, ເຈົ້າຮູ້ແລ້ວ. ຂ້ອຍຢູ່ບ່ອນນີ້ ສໍາ ລັບເຈົ້າ.
+
+819
+00:55:24,550 --> 00:55:29,450
+[VITTI]
+I know. So did you take care of that thing I asked you about?
+ຂ້ອຍຮູ້ແລ້ວ. ເຈົ້າເອົາໃຈໃສ່ສິ່ງນັ້ນທີ່ຂ້ອຍຖາມເຈົ້າບໍ?
+
+820
+00:55:29,950 --> 00:55:34,150
+[MANGANO]
+Is it all right to talk business in front of your friend?
+ມັນບໍ່ເປັນຫຍັງທີ່ຈະເວົ້າທຸລະກິດຢູ່ຕໍ່ຫນ້າເພື່ອນຂອງທ່ານບໍ?
+
+821
+00:55:34,650 --> 00:55:36,650
+[VITTI]
+It's okay.
+ມັນບໍ່ເປັນຫຍັງ.
+
+822
+00:55:37,150 --> 00:55:39,250
+[MANGANO]
+Yeah, I took care of it.
+ແມ່ນແລ້ວ, ຂ້ອຍໄດ້ເບິ່ງແຍງມັນ.
+
+823
+00:55:39,750 --> 00:55:41,750
+[VITTI]
+How about that other thing?
+ແລະສິ່ງອື່ນນັ້ນແນວໃດ?
+
+824
+00:55:42,250 --> 00:55:47,500
+[MANGANO]
+I'm waiting for that first thing to come through. I can't move until it does.
+ຂ້ອຍ ກໍາ ລັງລໍຖ້າສິ່ງ ທໍາ ອິດທີ່ຈະຜ່ານໄປ.
+ຂ້ອຍບໍ່ສາມາດເຄື່ອນຍ້າຍຈົນກວ່າມັນຈະເຮັດໄດ້.
+
+825
+00:55:48,000 --> 00:55:50,450
+[VITTI]
+Did the guy give you a problem?
+ຜູ້ຊາຍຄົນນັ້ນເຮັດໃຫ້ເຈົ້າມີບັນຫາບໍ?
+
+826
+00:55:50,950 --> 00:55:52,950
+[MANGANO]
+A little.    He's a lunatic.
+ພຽງເລັກນ້ອຍ. ລາວເປັນຄົນໂຊກຮ້າຍ.
+
+827
+00:55:53,450 --> 00:55:55,450
+[VITTI]
+What did he say?
+ລາວເວົ້າຫຍັງ?
+
+828
+00:55:55,950 --> 00:55:57,950
+[MANGANO]
+The usual.
+ຕາມປົກກະຕິ.
+
+829
+00:55:58,450 --> 00:56:01,600
+[VITTI]
+Did you tell him you weren't going for it?
+ເຈົ້າບອກລາວວ່າເຈົ້າຈະບໍ່ເຮັດມັນບໍ?
+
+830
+00:56:02,100 --> 00:56:04,100
+[MANGANO]
+What was I gonna do?
+ຂ້ອຍຈະເຮັດແນວໃດ?
+
+831
+00:56:04,600 --> 00:56:07,750
+[VITTI]
+You always gotta nip that shit in the bud.
+ເຈົ້າຕ້ອງຕັດສິ່ງນັ້ນຢູ່ສະເຫມີ.
+
+832
+00:56:08,250 --> 00:56:12,450
+[MANGANO]
+Yeah. But if the first thing is okay, that should fix everything.
+ແມ່ນແລ້ວ. ແຕ່ຖ້າສິ່ງ ທໍາ ອິດບໍ່ເປັນຫຍັງ, ນັ້ນຄວນແກ້ໄຂທຸກຢ່າງ.
+
+833
+00:56:12,950 --> 00:56:14,950
+[VITTI]
+Including the second thing.
+ລວມທັງສິ່ງທີສອງ.
+
+834
+00:56:15,450 --> 00:56:17,450
+[MANGANO]
+Yeah, but --
+ແມ່ນແລ້ວ, ແຕ່...
+
+835
+00:56:17,950 --> 00:56:20,750
+[VITTI]
+Exactly.  Don't repeat any of that to anyone.
+ແທ້ຈິງແລ້ວ. ຢ່າເວົ້າສິ່ງນັ້ນກັບໃຜເລີຍ.
+
+836
+00:56:21,250 --> 00:56:24,050
+[BEN]
+What? The first thing or the second thing?
+ຫຍັງ? ສິ່ງ ທໍາ ອິດຫຼືສິ່ງທີສອງບໍ?
+
+837
+00:56:24,550 --> 00:56:30,500
+[VITTI]
+That's Stevie Beef over there. I gotta go say hello to him for a second.  Come on.
+ນັ້ນແມ່ນສຕິວີ ບີຟຢູ່ບ່ອນນັ້ນ.
+ຂ້ອຍຕ້ອງໄປອວຍພອນລາວຊົ່ວຄາວຫນຶ່ງ. ມາ.
+
+838
+00:56:31,000 --> 00:56:37,000
+[BEN]
+Stevie Beef. Interesting name. When he was younger they probably called him Stevie Veal.  You guys come here often?
+Stevie Beef. ຊື່ທີ່ຫນ້າສົນໃຈ. ເມື່ອລາວຍັງນ້ອຍກວ່າພວກເຂົາອາດຈະເອີ້ນລາວວ່າ
+Stevie Veal. ພວກເຈົ້າມາບ່ອນນີ້ເລື້ອຍບໍ?
+
+839
+00:56:37,500 --> 00:56:40,300
+[JELLY]
+Paretti's has a very special meaning to Paul.
+ຂອງປາເຣຕຕີ້ມີຄວາມຫມາຍພິເສດຫຼາຍຕໍ່ໂປລ.
+
+840
+00:56:40,800 --> 00:56:43,600
+[JIMMY]
+Yeah, this is where his father got whacked.
+ແມ່ນແລ້ວ, ນີ້ແມ່ນບ່ອນທີ່ພໍ່ຂອງລາວຖືກຂ້າຕາຍ.
+
+841
+00:56:44,100 --> 00:56:46,100
+[JELLY]
+Hey!
+ເຮ້!
+
+842
+00:56:46,600 --> 00:56:48,600
+[JIMMY]
+What's the big secret?
+ຄວາມລັບໃຫຍ່ແມ່ນຫຍັງ?
+
+843
+00:56:49,100 --> 00:56:51,550
+[BEN]
+Wait a second. Paul's father was murdered?
+ລໍຖ້າວິນາທີຫນຶ່ງ. ພໍ່ຂອງໂປລໄດ້ຖືກຄາດຕະກໍາບໍ?
+
+844
+00:56:52,050 --> 00:56:55,200
+[JIMMY]
+Right at that table.   With his whole family there.
+ຢູ່ເທິງໂຕະນັ້ນ. ກັບຄອບຄົວທັງ ຫມົດ ຂອງລາວຢູ່ບ່ອນນັ້ນ.
+
+845
+00:56:55,700 --> 00:56:57,700
+[JELLY]
+Hey, just shut up.
+ເຮ້, ພຽງແຕ່ງຽບ.
+
+846
+00:56:58,200 --> 00:57:00,200
+[BEN]
+Paul, too?   He was there?
+ໂປລເຊັ່ນກັນບໍ? ລາວຢູ່ບ່ອນນັ້ນບໍ?
+
+847
+00:57:00,700 --> 00:57:03,150
+[JELLY]
+He don't like to talk about it.
+ລາວບໍ່ມັກເວົ້າກ່ຽວກັບມັນ.
+
+848
+00:57:03,650 --> 00:57:05,650
+[JIMMY]
+Where you goin'?
+ເຈົ້າໄປໃສ?
+
+849
+00:57:06,150 --> 00:57:08,150
+[BEN]
+Bathroom.
+ຫ້ອງນ້ ໍາ.
+
+850
+00:57:08,650 --> 00:57:10,650
+[JELLY]
+I'll go with you.
+ຂ້ອຍຈະໄປກັບເຈົ້າ.
+
+851
+00:57:11,150 --> 00:57:13,600
+[BEN]
+I gotta -- you know -- poop.
+ຂ້ອຍຕ້ອງ - ເຈົ້າຮູ້ແລ້ວ - ກະເປົາ.
+
+852
+00:57:14,100 --> 00:57:16,100
+[BEN]
+Ahhhh!
+ອາຮ້!
+
+853
+00:57:16,600 --> 00:57:21,500
+[JELLY]
+You need more roughage. A bran muffin in the morning would help with that.
+ເຈົ້າຕ້ອງການອາຫານທີ່ເຄັ່ງຄັດຫຼາຍຂຶ້ນ.
+ເຂົ້າຫນົມມຸຟິນໃນຕອນເຊົ້າຈະຊ່ວຍໃນນັ້ນ.
+
+854
+00:57:22,000 --> 00:57:25,150
+[BEN]
+I have to talk to you -- in private.
+ຂ້ອຍຕ້ອງເວົ້າກັບເຈົ້າ - ໃນສ່ວນຕົວ.
+
+855
+00:57:25,650 --> 00:57:27,650
+[VITTI]
+Leave us alone.
+ຢ່າມາຍຸ້ງກັບພວກເຮົາ.
+
+856
+00:57:28,150 --> 00:57:30,950
+[BEN]
+Why didn't you tell me about your father?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກຂ້ອຍກ່ຽວກັບພໍ່ເຈົ້າ?
+
+857
+00:57:31,450 --> 00:57:33,450
+[VITTI]
+What about him?
+ລາວແນວໃດ?
+
+858
+00:57:33,950 --> 00:57:36,750
+[BEN]
+You said he died of a heart attack.
+ເຈົ້າບອກວ່າລາວຕາຍຈາກການໂຈມຕີຫົວໃຈ.
+
+859
+00:57:37,250 --> 00:57:39,250
+[VITTI]
+So what's the problem?
+ສະນັ້ນບັນຫາແມ່ນຫຍັງ?
+
+860
+00:57:39,750 --> 00:57:42,200
+[BEN]
+What's the problem?   Your father was murdered!
+ບັນຫາຫຍັງ? ພໍ່ເຈົ້າຖືກຄາດຕະກໍາ!
+
+861
+00:57:42,700 --> 00:57:45,500
+[VITTI]
+Heart attack, murdered, what's the difference? He's dead.
+ການໂຈມຕີຫົວໃຈ, ຖືກຄາດຕະກໍາ, ຄວາມແຕກຕ່າງຫຍັງ? ລາວຕາຍແລ້ວ.
+
+862
+00:57:46,000 --> 00:57:49,150
+[BEN]
+There's a big difference.   Why didn't you tell me?
+ມີຄວາມແຕກຕ່າງທີ່ໃຫຍ່. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກຂ້ອຍ?
+
+863
+00:57:49,650 --> 00:57:53,500
+[VITTI]
+Because it's private. You think I tell you every little thing?
+ເພາະວ່າມັນເປັນສ່ວນຕົວ. ເຈົ້າຄິດວ່າຂ້ອຍບອກເຈົ້າທຸກສິ່ງນ້ອຍໆບໍ?
+
+864
+00:57:54,000 --> 00:57:56,100
+[BEN]
+That is not a little thing!
+ນັ້ນບໍ່ແມ່ນເລື່ອງນ້ອຍໆ!
+
+865
+00:57:56,600 --> 00:58:02,600
+[VITTI]
+Okay, you want to know? Analyze this. I was twelve years old, the whole family was having dinner together right over there, two guys walked in and shot him dead right in front of us. Okay?
+ດີແລ້ວ, ເຈົ້າຢາກຮູ້ບໍ? ວິເຄາະສິ່ງນີ້. ຂ້ອຍອາຍຸສິບສອງປີ, ຄອບຄົວທັງ ຫມົດ ກໍາ
+ລັງກິນອາຫານຄໍ່າຮ່ວມກັນຢູ່ບ່ອນນັ້ນ, ຜູ້ຊາຍສອງຄົນເຂົ້າມາແລະຍິງລາວຕາຍຢູ່ຕໍ່ຫນ້າພວກເຮົາ. ດີບໍ?
+
+866
+00:58:03,100 --> 00:58:06,950
+[BEN]
+And you didn't think this was important enough to tell me?
+ແລະເຈົ້າບໍ່ຄິດວ່ານີ້ມີຄວາມສໍາຄັນພໍທີ່ຈະບອກຂ້ອຍບໍ?
+
+867
+00:58:07,450 --> 00:58:13,450
+[VITTI]
+What am I supposed to do? Spend the rest of my life crying about the past? Forget about it.
+ຂ້ອຍຄວນເຮັດຫຍັງ?
+ໃຊ້ຊີວິດທີ່ເຫຼືອຂອງຂ້ອຍຮ້ອງໄຫ້ກ່ຽວກັບອະດີດບໍ? ລືມມັນ.
+
+868
+00:58:13,950 --> 00:58:17,800
+[BEN]
+You know what? I think you want to talk about it.
+ເຈົ້າຮູ້ບໍ? ຂ້ອຍຄິດວ່າເຈົ້າຢາກເວົ້າກ່ຽວກັບມັນ.
+
+869
+00:58:18,300 --> 00:58:21,100
+[VITTI]
+No, I don't want to talk about it.
+ບໍ່, ຂ້ອຍບໍ່ຢາກເວົ້າກ່ຽວກັບມັນ.
+
+870
+00:58:21,600 --> 00:58:23,600
+[BEN]
+I think you do.
+ຂ້ອຍຄິດວ່າເຈົ້າເຮັດ.
+
+871
+00:58:24,100 --> 00:58:26,100
+[VITTI]
+No, I don't.
+ບໍ່, ຂ້ອຍບໍ່ເຮັດ.
+
+872
+00:58:26,600 --> 00:58:29,050
+[BEN]
+Then why did you choose this restaurant?
+ຫຼັງຈາກນັ້ນ ເປັນຫຍັງເຈົ້າຈຶ່ງເລືອກຮ້ານອາຫານນີ້?
+
+873
+00:58:29,550 --> 00:58:31,550
+[VITTI]
+'Cause I like it, okay?
+ເພາະຂ້ອຍມັກມັນ, ດີບໍ?
+
+874
+00:58:32,050 --> 00:58:35,550
+[BEN]
+Of all the places we could've gone, why this one?
+ໃນບັນດາສະຖານທີ່ທັງ ຫມົດ ທີ່ພວກເຮົາສາມາດໄປໄດ້, ເປັນຫຍັງຄົນນີ້?
+
+875
+00:58:36,050 --> 00:58:38,050
+[VITTI]
+White clam sauce. The best.
+ໂຊສແມວສີຂາວ. ທີ່ດີທີ່ສຸດ.
+
+876
+00:58:38,550 --> 00:58:44,500
+[BEN]
+No, we're here because you wanted me to know about your father. You're reaching out to me.
+ບໍ່, ພວກເຮົາຢູ່ບ່ອນນີ້ເພາະວ່າເຈົ້າຢາກໃຫ້ຂ້ອຍຮູ້ກ່ຽວກັບພໍ່ຂອງທ່ານ
+. ເຈົ້າ ກໍາ ລັງຕິດຕໍ່ຫາຂ້ອຍ.
+
+877
+00:58:45,000 --> 00:58:47,100
+[VITTI]
+I'll reach out to you --
+ຂ້ອຍຈະຕິດຕໍ່ຫາເຈົ້າ -
+
+878
+00:58:47,600 --> 00:58:50,750
+[BEN]
+I think we have some major trust issues here.
+ຂ້ອຍຄິດວ່າພວກເຮົາມີບັນຫາຄວາມໄວ້ວາງໃຈທີ່ສໍາຄັນບາງຢ່າງຢູ່ນີ້.
+
+879
+00:58:51,250 --> 00:58:57,250
+[SINDONE]
+I'd like to see a movie but there's nothing out there. It's all this shoot-'em-up action bullshit. I get enough of that at work.
+ຂ້ອຍຢາກເບິ່ງຮູບເງົາແຕ່ບໍ່ມີຫຍັງຢູ່ພາຍນອກນັ້ນ. ມັນແມ່ນຄວາມໂຊກແຊງການກະ
+ທໍາ ຍິງພວກມັນທັງ ຫມົດ ນີ້. ຂ້ອຍໄດ້ຮັບພຽງພໍໃນວຽກງານ.
+
+880
+00:58:57,750 --> 00:59:01,250
+[MOONY]
+That was our friend. He marked your guy at Paretti's.
+ນັ້ນແມ່ນເພື່ອນຂອງພວກເຮົາ. ລາວໄດ້
+ຫມາຍ ຄົນຂອງທ່ານຢູ່ເຮືອນ Paretti ໄດ້.
+
+881
+00:59:01,750 --> 00:59:04,900
+[SINDONE]
+Yeah? Then let's make it the last supper. Jack?
+ແມ່ນແລ້ວ? ຫຼັງຈາກນັ້ນໃຫ້ມັນເປັນອາຫານຄໍ່າສຸດທ້າຍ. ແຈກ?
+
+882
+00:59:05,400 --> 00:59:07,500
+[HANDSOME JACK]
+You got it, Primo.  Let's go.
+ເຈົ້າເຮັດແລ້ວ, ປຣີໂມ. ໄປ.
+
+883
+00:59:08,000 --> 00:59:12,900
+[SINDONE]
+Hey, Jack. Just for fun, tear out his heart and bring it to me.
+ເຮ້, ແຈກ. ພຽງແຕ່ເພື່ອມ່ວນຊື່ນ,
+ເອົາຫົວໃຈຂອງລາວອອກແລະເອົາມັນມາຫາຂ້ອຍ.
+
+884
+00:59:13,400 --> 00:59:16,900
+[BEN]
+Jimmy, you can have shotgun this time. I don't mind.
+ຈິມມີ, ເຈົ້າສາມາດເອົາປືນປືນໄດ້ໃນຄັ້ງນີ້. ຂ້ອຍບໍ່ສົນໃຈ.
+
+885
+00:59:17,400 --> 00:59:20,900
+[JIMMY]
+Nah, sit up front. There's more room for your legs.
+ບໍ່, ນັ່ງຢູ່ທາງຫນ້າ. ມີບ່ອນຫຼາຍຂຶ້ນ ສໍາ ລັບຕີນຂອງທ່ານ.
+
+886
+00:59:21,400 --> 00:59:24,550
+[BEN]
+My legs are short, it's fine in the back.
+ຂາຂອງຂ້ອຍສັ້ນ, ມັນບໍ່ເປັນຫຍັງໃນດ້ານຫຼັງ.
+
+887
+00:59:25,050 --> 00:59:27,050
+[JIMMY]
+Get in the front.
+ເຂົ້າໄປທາງຫນ້າ.
+
+888
+00:59:27,550 --> 00:59:33,550
+[BEN]
+You know what? It's late. I think I'm just going to call it a night. Why don't I just grab a cab and head on home.
+ເຈົ້າຮູ້ບໍ? ມັນຊ້າແລ້ວ. ຂ້ອຍຄິດວ່າຂ້ອຍພຽງແຕ່ຈະເອີ້ນມັນວ່າເປັນຄືນ
+. ເປັນຫຍັງຂ້ອຍຈຶ່ງບໍ່ເອົາແທັກຊີແລະກັບບ້ານ.
+
+889
+00:59:34,050 --> 00:59:36,050
+[JIMMY]
+Get in the car.
+ເຂົ້າໄປໃນລົດ.
+
+890
+00:59:36,550 --> 00:59:38,550
+[BEN]
+No really, it's all right.
+ບໍ່ແທ້ໆ, ມັນບໍ່ເປັນຫຍັງ.
+
+891
+00:59:39,050 --> 00:59:41,050
+[JIMMY]
+Get in the fucking car.
+ເຂົ້າໄປໃນລົດ.
+
+892
+00:59:41,550 --> 00:59:43,550
+[VITTI]
+Do what he says.
+ເຮັດຕາມທີ່ລາວບອກ.
+
+893
+00:59:44,050 --> 00:59:50,050
+[BEN]
+You know, we call this a transference neurosis. It's when the patient starts acting out his problems with his therapist instead of out in the world. It's usually considered a good sign. Not for me, in this case, but --
+ເຈົ້າຮູ້ແລ້ວ, ພວກເຮົາເອີ້ນສິ່ງນີ້ວ່າເປັນໂຣກໂຊກຮ້າຍການໂອນ. ມັນແມ່ນເມື່ອຄົນເຈັບເລີ່ມປະຕິບັດບັນຫາຂອງລາວກັບແພດປິ່ນປົວຂອງລາວແທນທີ່ຈະຢູ່ໃນໂລກ
+. ມັນມັກຈະຖືວ່າເປັນສັນຍານທີ່ດີ. ບໍ່ແມ່ນ ສໍາ ລັບຂ້ອຍ, ໃນກໍລະນີນີ້, ແຕ່ -
+
+894
+00:59:50,550 --> 00:59:55,450
+[AGENT RICCI]
+What's he doing in there? He's been in the bathroom for half an hour.
+ລາວເຮັດຫຍັງຢູ່ບ່ອນນັ້ນ? ລາວຢູ່ໃນຫ້ອງນ້
+ໍາ ເປັນເວລາເຄິ່ງຊົ່ວໂມງແລ້ວ.
+
+895
+00:59:55,950 --> 00:59:57,950
+[VITTI]
+Leave us alone.
+ຢ່າມາຍຸ້ງກັບພວກເຮົາ.
+
+896
+00:59:58,450 --> 01:00:00,900
+[JELLY]
+Sorry, Doc.    It's not personal, you know.
+ຂໍໂທດ, ດອກ. ມັນບໍ່ແມ່ນເລື່ອງສ່ວນຕົວ, ເຈົ້າຮູ້ແລ້ວ.
+
+897
+01:00:01,400 --> 01:00:05,250
+[BEN]
+Don't kid yourself, Jelly. It doesn't get more personal than this.
+ຢ່າຫຼອກລວງຕົວເອງ, ເຈເລີ. ມັນບໍ່ສາມາດເປັນສ່ວນຕົວຫຼາຍກ່ວາສິ່ງນີ້.
+
+898
+01:00:05,750 --> 01:00:09,250
+[VITTI]
+You know why I have to do this, don't you?
+ເຈົ້າຮູ້ວ່າຂ້ອຍຕ້ອງເຮັດແບບນີ້ເປັນຫຍັງ, ແມ່ນບໍ?
+
+899
+01:00:09,750 --> 01:00:15,700
+[BEN]
+Because you're a paranoid? No, actually you're a reverse paranoid. You think you're out to get everybody.
+ເພາະເຈົ້າເປັນຄົນໂຊກຮ້າຍບໍ? ບໍ່, ໃນຄວາມເປັນຈິງເຈົ້າເປັນໂຣກຮ້າຍທາງກົງກັນຂ້າມ
+. ເຈົ້າຄິດວ່າເຈົ້າ ກໍາ ລັງອອກໄປເພື່ອເອົາທຸກຄົນ.
+
+900
+01:00:16,200 --> 01:00:20,400
+[VITTI]
+Don't bullshit me! You betrayed me! You stabbed me in the back.
+ຢ່າໂຊກຮ້າຍຂ້ອຍ! ເຈົ້າໄດ້ປະຫມາດຂ້ອຍ!ເຈົ້າໄດ້ດອກຂ້ອຍໃນຫຼັງ.
+
+901
+01:00:20,900 --> 01:00:25,100
+[BEN]
+I betrayed you? What are you talking about? Who's got the gun?
+ຂ້ອຍປະຫມາດເຈົ້າບໍ? ເຈົ້າເວົ້າຫຍັງຢູ່? ໃຜມີປືນ?
+
+902
+01:00:25,600 --> 01:00:31,200
+[VITTI]
+You think I'm an idiot? Don't insult my intelligence. You cooperated! You talked to the Feds!
+ເຈົ້າຄິດວ່າຂ້ອຍເປັນຄົນໂງ່ບໍ? ຢ່າໂຊກຮ້າຍຄວາມສະຫຼາດຂອງຂ້ອຍ
+. ເຈົ້າຮ່ວມມື! ເຈົ້າເວົ້າກັບ FBI!
+
+903
+01:00:31,700 --> 01:00:36,250
+[BEN]
+They played me a tape! You said you were going to kill me.
+ພວກເຂົາໄດ້ຫຼິ້ນເທບໃຫ້ຂ້ອຍ! ເຈົ້າບອກວ່າເຈົ້າຈະຂ້າຂ້ອຍ.
+
+904
+01:00:36,750 --> 01:00:38,750
+[VITTI]
+Never.   I never said that.
+ບໍ່ເຄີຍ. ຂ້ອຍບໍ່ເຄີຍເວົ້າແບບນັ້ນເລີຍ.
+
+905
+01:00:39,250 --> 01:00:45,250
+[BEN]
+It doesn't matter. I didn't betray you, Paul. Yes, they made me wear a wire, but I took it off, because I think I know how to help you now.
+ມັນບໍ່ສໍາຄັນ. ຂ້ອຍບໍ່ໄດ້ປະຫມາດເຈົ້າ, ໂປລ. ແມ່ນແລ້ວ, ພວກເຂົາເຮັດໃຫ້ຂ້ອຍໃສ່ສາຍໄຟ
+, ແຕ່ຂ້ອຍເອົາມັນອອກ, ເພາະວ່າຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ວິທີຊ່ວຍເຈົ້າດຽວນີ້.
+
+906
+01:00:45,750 --> 01:00:48,550
+[VITTI]
+I don't want to know what you think.
+ຂ້ອຍບໍ່ຢາກຮູ້ວ່າເຈົ້າຄິດແນວໃດ.
+
+907
+01:00:49,050 --> 01:00:51,050
+[BEN]
+Yes, you do.
+ແມ່ນແລ້ວ, ເຈົ້າເຮັດ.
+
+908
+01:00:51,550 --> 01:00:53,550
+[VITTI]
+No, I don't!
+ບໍ່, ຂ້ອຍບໍ່ເຮັດ!
+
+909
+01:00:54,050 --> 01:00:56,050
+[BEN]
+I think you do.
+ຂ້ອຍຄິດວ່າເຈົ້າເຮັດ.
+
+910
+01:00:56,550 --> 01:01:01,100
+[VITTI]
+It's over! Don't you get it? I took one chance and that's it.
+ມັນຫມົດແລ້ວ! ເຈົ້າບໍ່ເຂົ້າໃຈບໍ? ຂ້ອຍໄດ້ໂອກາດດຽວແລະນັ້ນແມ່ນມັນ.
+
+911
+01:01:01,600 --> 01:01:04,400
+[BEN]
+Okay.  Can I ask you one last question?
+ດີແລ້ວ. ຂ້ອຍສາມາດຖາມເຈົ້າໄດ້ບໍ?
+
+912
+01:01:04,900 --> 01:01:06,900
+[VITTI]
+What?
+ຫຍັງ?
+
+913
+01:01:07,400 --> 01:01:09,400
+[BEN]
+What did you order?
+ເຈົ້າສັ່ງຫຍັງ?
+
+914
+01:01:09,900 --> 01:01:11,900
+[VITTI]
+What?
+ຫຍັງ?
+
+915
+01:01:12,400 --> 01:01:14,400
+[BEN]
+What did you order?
+ເຈົ້າສັ່ງຫຍັງ?
+
+916
+01:01:14,900 --> 01:01:16,900
+[VITTI]
+When?
+ເມື່ອໃດ?
+
+917
+01:01:17,400 --> 01:01:21,600
+[BEN]
+That night. What were you eating the night your father got killed?
+ໃນຄືນນັ້ນ. ເຈົ້າກິນຫຍັງໃນຄືນທີ່ພໍ່ເຈົ້າຖືກຂ້າຕາຍ?
+
+918
+01:01:22,100 --> 01:01:24,200
+[VITTI]
+How the hell do I know?
+ຂ້ອຍຮູ້ແນວໃດ?
+
+919
+01:01:24,700 --> 01:01:26,700
+[BEN]
+You don't remember?
+ເຈົ້າບໍ່ຈື່ບໍ?
+
+920
+01:01:27,200 --> 01:01:29,200
+[VITTI]
+It was 35 years ago.
+ມັນເປັນເວລາ 35 ປີກ່ອນ.
+
+921
+01:01:29,700 --> 01:01:31,700
+[BEN]
+What did your father have?
+ພໍ່ເຈົ້າມີຫຍັງ?
+
+922
+01:01:32,200 --> 01:01:34,300
+[VITTI]
+I told you!   I don't remember.
+ຂ້ອຍບອກເຈົ້າແລ້ວ! ຂ້ອຍບໍ່ຈື່.
+
+923
+01:01:34,800 --> 01:01:36,800
+[BEN]
+Try.
+ພະຍາຍາມ.
+
+924
+01:01:37,300 --> 01:01:39,300
+[VITTI]
+What's the matter with you?
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+925
+01:01:39,800 --> 01:01:42,950
+[BEN]
+It's a simple question.    What was your father eating!
+ມັນເປັນຄໍາຖາມງ່າຍດາຍ. ພໍ່ເຈົ້າກິນຫຍັງ!
+
+926
+01:01:43,450 --> 01:01:45,450
+[VITTI]
+Penne.
+ເພນເນ.
+
+927
+01:01:45,950 --> 01:01:47,950
+[BEN]
+Good.    And you.
+ດີ. ແລະເຈົ້າ.
+
+928
+01:01:48,450 --> 01:01:50,450
+[VITTI]
+Ravioli.
+ຣາວີໂອລີ.
+
+929
+01:01:50,950 --> 01:01:53,050
+[BEN]
+The food was on the table?
+ອາຫານຢູ່ເທິງໂຕະບໍ?
+
+930
+01:01:53,550 --> 01:01:55,550
+[VITTI]
+They were just serving it.
+ພວກເຂົາພຽງແຕ່ຮັບໃຊ້ມັນ.
+
+931
+01:01:56,050 --> 01:01:58,150
+[BEN]
+Did you see the guys coming?
+ເຈົ້າເຫັນພວກຜູ້ຊາຍມາບໍ?
+
+932
+01:01:58,650 --> 01:02:01,100
+[VITTI]
+One of them.   Dressed like a busboy.
+ຫນຶ່ງໃນພວກມັນ. ໃສ່ເຄື່ອງນຸ່ງຫົ່ມຄືກັບເດັກລົດເມ.
+
+933
+01:02:01,600 --> 01:02:03,600
+[BEN]
+Did your father see him?
+ພໍ່ເຈົ້າເຫັນລາວບໍ?
+
+934
+01:02:04,100 --> 01:02:06,550
+[VITTI]
+No, but I knew he looked wrong.
+ບໍ່, ແຕ່ຂ້ອຍຮູ້ວ່າລາວເບິ່ງຜິດ.
+
+935
+01:02:07,050 --> 01:02:09,050
+[BEN]
+Why?
+ເປັນຫຍັງ?
+
+936
+01:02:09,550 --> 01:02:12,700
+[VITTI]
+His pants. They looked too good for a busboy.
+ກະເປົາຂອງລາວ. ພວກເຂົາເບິ່ງດີເກີນໄປ ສໍາ ລັບເດັກລົດເມ.
+
+937
+01:02:13,200 --> 01:02:15,300
+[BEN]
+He walked over to the table?
+ລາວຍ່າງໄປຫາໂຕະບໍ?
+
+938
+01:02:15,800 --> 01:02:17,900
+[VITTI]
+I watched him the whole way.
+ຂ້ອຍເບິ່ງລາວຕະຫຼອດທາງ.
+
+939
+01:02:18,400 --> 01:02:20,400
+[BEN]
+Did you say anything?
+ເຈົ້າເວົ້າຫຍັງບໍ?
+
+940
+01:02:20,900 --> 01:02:23,350
+[VITTI]
+My father was so mad at me.
+ພໍ່ຂອງຂ້ອຍໂຊກຮ້າຍຫຼາຍຕໍ່ຂ້ອຍ.
+
+941
+01:02:23,850 --> 01:02:25,950
+[BEN]
+And you were mad at him.
+ແລະເຈົ້າໂຊກຮ້າຍລາວ.
+
+942
+01:02:26,450 --> 01:02:28,450
+[VITTI]
+I couldn't say anything.
+ຂ້ອຍບໍ່ສາມາດເວົ້າຫຍັງເລີຍ.
+
+943
+01:02:28,950 --> 01:02:30,950
+[BEN]
+And then.
+ແລະຫຼັງຈາກນັ້ນ
+
+944
+01:02:31,450 --> 01:02:34,950
+[VITTI]
+I never saw the second guy.    My mother started screaming.
+ຂ້ອຍບໍ່ເຄີຍເຫັນຄົນທີສອງເລີຍ. ແມ່ຂອງຂ້ອຍເລີ່ມຮ້ອງໄຫ້.
+
+945
+01:02:35,450 --> 01:02:37,450
+[BEN]
+And you blame yourself?
+ແລະເຈົ້າຜິດຕົວເອງບໍ?
+
+946
+01:02:37,950 --> 01:02:39,950
+[VITTI]
+I coulda saved him.
+ຂ້ອຍສາມາດຊ່ວຍລາວໄດ້.
+
+947
+01:02:40,450 --> 01:02:42,550
+[BEN]
+But you were mad at him.
+ແຕ່ເຈົ້າໂຊກຮ້າຍລາວ.
+
+948
+01:02:43,050 --> 01:02:45,050
+[VITTI]
+I killed my father.
+ຂ້ອຍໄດ້ຂ້າພໍ່ຂອງຂ້ອຍ.
+
+949
+01:02:45,550 --> 01:02:51,550
+[BEN]
+You didn't kill him, Paul. You were angry but you didn't kill him. That's the life he chose.
+ເຈົ້າບໍ່ຂ້າລາວ, ໂປລ. ເຈົ້າໂຊກຮ້າຍແຕ່ເຈົ້າບໍ່ໄດ້ຂ້າລາວ
+. ນັ້ນແມ່ນຊີວິດທີ່ລາວເລືອກ.
+
+950
+01:02:52,050 --> 01:02:54,150
+[VITTI]
+I never got to say good-bye.
+ຂ້ອຍບໍ່ເຄີຍເວົ້າອວຍພອນເລີຍ.
+
+951
+01:02:54,650 --> 01:02:59,550
+[BEN]
+Say it now, Paul. Talk to him. What do you want to tell him?
+ເວົ້າມັນດຽວນີ້, ໂປລ. ເວົ້າກັບລາວ. ເຈົ້າຢາກບອກລາວຫຍັງ?
+
+952
+01:03:00,050 --> 01:03:02,050
+[VITTI]
+I can't.
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.
+
+953
+01:03:02,550 --> 01:03:04,650
+[BEN]
+You have to.   Tell him, Paul.
+ເຈົ້າຕ້ອງເຮັດ. ບອກລາວ, ໂປລ.
+
+954
+01:03:05,150 --> 01:03:07,150
+[VITTI]
+I'm sorry. I'm so sorry.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍ ຂໍໂທດຫຼາຍ.
+
+955
+01:03:07,650 --> 01:03:11,150
+[BEN]
+It's okay, Paul. You can let go of it now.
+ມັນບໍ່ເປັນຫຍັງ, ໂປລ. ເຈົ້າສາມາດປ່ອຍມັນໄປໄດ້ດຽວນີ້.
+
+956
+01:03:11,650 --> 01:03:16,550
+[JIMMY]
+What's taking so long?   I'm ruining my goddamn shoes here.   Fuckin' $350 Bruno Maglis.
+ເປັນຫຍັງມັນໃຊ້ເວລາຫຼາຍປານໃດ? ຂ້ອຍ ກໍາ ລັງ ທໍາ
+ລາຍເກີບຂອງຂ້ອຍຢູ່ນີ້. ບຣູໂນ ມາຈລີສ 350 ໂດລາ.
+
+957
+01:03:17,050 --> 01:03:23,000
+[JELLY]
+What's wrong with you? Don't you have any respect? This is a very difficult thing for Paul.
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ? ເຈົ້າບໍ່ມີຄວາມເຄົາລົບບໍ
+? ນີ້ແມ່ນສິ່ງຍາກຫຼາຍ ສໍາ ລັບໂປລ.
+
+958
+01:03:23,500 --> 01:03:29,500
+[JIMMY]
+Shoulda let me do it. I'd be home watchin' E.S.P.N.2 by now. World's strongest man. You should see these guys.
+ຂ້ອຍຄວນປ່ອຍໃຫ້ຂ້ອຍເຮັດມັນ. ຂ້ອຍຈະຢູ່ເຮືອນເບິ່ງ E.S.P.N.2 ໃນເວລານີ້
+. ຜູ້ຊາຍທີ່ແຂງແຮງທີ່ສຸດໃນໂລກ. ເຈົ້າຄວນເຫັນພວກຄົນເຫຼົ່ານີ້.
+
+959
+01:03:30,000 --> 01:03:36,000
+[BEN]
+You couldn't save him, Paul. He was trying to save you. That's what you fought about. He didn't want this for you, and you don't want it for Anthony. You don't want him to grow up the way you did -- without a father.
+ເຈົ້າບໍ່ສາມາດຊ່ວຍລາວໄດ້, ໂປລ. ລາວ ກໍາ ລັງພະຍາຍາມຊ່ວຍເຈົ້າ. ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຕໍ່ສູ້ກັນ. ລາວບໍ່ຢາກສິ່ງນີ້
+ສໍາ ລັບເຈົ້າ, ແລະເຈົ້າບໍ່ຢາກມັນ ສໍາ ລັບແອນໂຕນີ. ເຈົ້າບໍ່ຢາກໃຫ້ລາວເຕີບໃຫຍ່ຕາມວິທີທີ່ທ່ານເຮັດ - ໂດຍບໍ່ມີພໍ່.
+
+960
+01:03:36,500 --> 01:03:38,500
+[JELLY]
+Jesus, the guy's fallin' apart.
+ພຣະເຢຊູ, ຜູ້ຊາຍຄົນນີ້ ກໍາ ລັງແຕກແຍກກັນ.
+
+961
+01:03:39,000 --> 01:03:41,800
+[JIMMY]
+Why doesn't he just pop him?   It's embarrassing.
+ເປັນຫຍັງລາວຈຶ່ງບໍ່ເອົາລາວອອກໄປ? ມັນເປັນຄວາມໂຊກຮ້າຍ.
+
+962
+01:03:42,300 --> 01:03:48,250
+[BEN]
+Your father's not dead, Paul. He's alive -- in you. And he's trying to tell you something.
+ພໍ່ເຈົ້າບໍ່ໄດ້ຕາຍ, ໂປລ. ລາວຍັງມີຊີວິດຢູ່ - ໃນເຈົ້າ
+. ແລະລາວ ກໍາ ລັງພະຍາຍາມບອກເຈົ້າບາງສິ່ງບາງຢ່າງ.
+
+963
+01:03:48,750 --> 01:03:50,750
+[BEN]
+Oh, my God!
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ!
+
+964
+01:03:51,250 --> 01:03:53,250
+[BEN]
+Paul!   They're shooting!
+ໂປລ! ພວກເຂົາ ກໍາ ລັງຍິງ!
+
+965
+01:03:53,750 --> 01:03:55,850
+[BEN]
+Paul! For God's sake, shoot somebody!
+ໂປລ! ສໍາລັບພຣະເຈົ້າ, ຍິງຄົນຫນຶ່ງ!
+
+966
+01:03:56,350 --> 01:03:58,350
+[BEN]
+Goddamn it!
+ສະບາຍດີ!
+
+967
+01:03:58,850 --> 01:04:01,300
+[BEN]
+Oh my God!    Did I do that?
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ! ຂ້ອຍເຮັດແບບນັ້ນບໍ?
+
+968
+01:04:01,800 --> 01:04:06,700
+[JELLY]
+No, Doc. That one's mine. You got the Chevy Camaro and the side-by-side refrigerator-freezer.
+ບໍ່, ດອກ. ນັ້ນແມ່ນຂອງຂ້ອຍ. ເຈົ້າມີ
+Chevy Camaro ແລະຕູ້ເຢັນເຢັນຂ້າງຄຽງ.
+
+969
+01:04:07,200 --> 01:04:12,100
+[VITTI]
+Pretty fuckin' ironic, isn't it? You can give me back the gun now, Doctor.
+ມັນໂຊກແຊງຫຼາຍ, ແມ່ນບໍ? ເຈົ້າສາມາດໃຫ້ປືນກັບຂ້ອຍໄດ້ດຽວນີ້, ດອກຕໍ.
+
+970
+01:04:12,600 --> 01:04:18,600
+[VITTI]
+It's okay. I wasn't really gonna whack you.  All right, maybe I was gonna whack you, but I was real conflicted about it. Progress, right?
+ມັນບໍ່ເປັນຫຍັງ. ຂ້ອຍຈະບໍ່ຂ້າເຈົ້າແທ້ໆ. ດີ, ບາງທີຂ້ອຍຈະຂ້າເຈົ້າ
+, ແຕ່ຂ້ອຍມີຄວາມຂັດແຍ່ງແທ້ໆກ່ຽວກັບມັນ. ຄວາມກ້າວຫນ້າ, ແມ່ນບໍ?
+
+971
+01:04:19,100 --> 01:04:21,900
+[BEN]
+I don't think I can see you anymore.
+ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍສາມາດເຫັນເຈົ້າໄດ້ອີກຕໍ່ໄປ.
+
+972
+01:04:22,400 --> 01:04:24,400
+[VITTI]
+Yeah, I figured.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດແລ້ວ.
+
+973
+01:04:24,900 --> 01:04:29,450
+[BEN]
+This was big tonight. You might feel a little raw for a while.
+ນີ້ແມ່ນໃຫຍ່ໃນຄືນນີ້. ເຈົ້າອາດຈະຮູ້ສຶກແປ້ງບາງຊົ່ວຄາວ.
+
+974
+01:04:29,950 --> 01:04:31,950
+[VITTI]
+Yeah.
+ແມ່ນແລ້ວ.
+
+975
+01:04:32,450 --> 01:04:34,550
+[BEN]
+So good luck.    It's been --
+ໂຊກດີຫຼາຍ. ມັນເປັນ -
+
+976
+01:04:35,050 --> 01:04:41,050
+[ELAINE]
+I want to please him in bed, but whatever I do it seems like it's never enough. Now he wants me to say things when we're making love.
+ຂ້ອຍຢາກເຮັດໃຫ້ລາວພໍໃຈໃນຕຽງ, ແຕ່ບໍ່ວ່າຂ້ອຍຈະເຮັດຫຍັງມັນເບິ່ງຄືວ່າມັນບໍ່ເຄີຍພຽງພໍ
+. ດຽວນີ້ລາວຢາກໃຫ້ຂ້ອຍເວົ້າບາງສິ່ງບາງຢ່າງໃນເວລາທີ່ພວກເຮົາ ກໍາ ລັງຮັກ.
+
+977
+01:04:41,550 --> 01:04:45,400
+[BEN]
+What kinds of things does he want you to say, Elaine?
+ລາວຢາກໃຫ້ເຈົ້າເວົ້າຫຍັງ, ເອເລນ?
+
+978
+01:04:45,900 --> 01:04:51,900
+[ELAINE]
+Well, he wants me to call him 'big boy.' And he's my bucking bronco, and I'm supposed to ride him hard and put him back in the barn wet.
+ດີ, ລາວຢາກໃຫ້ຂ້ອຍເອີ້ນລາວວ່າ'ເດັກຊາຍໃຫຍ່. ແລະລາວເປັນບຣອນໂກຂອງຂ້ອຍທີ່ຕ້ານທານ
+, ແລະຂ້ອຍຄວນຂີ່ລາວຢ່າງແຂງແຮງແລະເຮັດໃຫ້ລາວກັບຄືນໄປໃນຈານນ້ ໍາ ຫນັກ.
+
+979
+01:04:52,400 --> 01:04:54,500
+[ELAINE]
+Are you all right, Dr. Sobol?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ, ດຣ ໂຊບອລ?
+
+980
+01:04:55,000 --> 01:05:01,000
+[BEN]
+Let me suggest something, Elaine. If the man wants you to say things ... damn it, you should get down on all fours and bark like a dog if that's going to get the job done. Break out the wine, baby. Smoke a joint. Do what you have to do, because life is too short. It's just too fucking short.
+ຂໍໃຫ້ຂ້ອຍແນະ ນໍາ ບາງສິ່ງບາງຢ່າງ, ເອເລນ. ຖ້າຜູ້ຊາຍຢາກໃຫ້ເຈົ້າເວົ້າສິ່ງຕ່າງໆ... ສະບາຍດີ, ເຈົ້າຄວນລົງເທິງທັງສີ່ຕີນແລະຮ້ອງໄຫ້ຄືກັບຫມາຖ້າມັນຈະເຮັດວຽກໄດ້
+. ເອົາເຫລົ້າແວງອອກ, ແມ. ສູບຢາສູບຢາ. ເຮັດສິ່ງທີ່ເຈົ້າຕ້ອງເຮັດ, ເພາະວ່າຊີວິດສັ້ນເກີນໄປ. ມັນພຽງແຕ່ສັ້ນຫຼາຍ.
+
+981
+01:05:01,500 --> 01:05:03,500
+[ELAINE]
+Okay.
+ດີແລ້ວ.
+
+982
+01:05:04,000 --> 01:05:06,450
+[JELLY]
+How you feelin', boss?   You need anything?
+ເຈົ້າຮູ້ສຶກແນວໃດ, ຫົວຫນ້າ? ເຈົ້າຕ້ອງການຫຍັງບໍ?
+
+983
+01:05:06,950 --> 01:05:12,950
+[VITTI]
+No, I'm great. Never felt better in my life. When this meeting is over they won't know what hit 'em.
+ບໍ່, ຂ້ອຍດີເລີດ. ບໍ່ເຄີຍຮູ້ສຶກດີກວ່າໃນຊີວິດຂອງຂ້ອຍເລີຍ.
+ເມື່ອກອງປະຊຸມນີ້ສິ້ນສຸດລົງພວກເຂົາຈະບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນກັບພວກເຂົາ.
+
+984
+01:05:13,450 --> 01:05:16,250
+[DOROTHY]
+Is Ben going to step on the glass?
+ແບນຈະຍ່າງໃສ່ແກ້ວບໍ?
+
+985
+01:05:16,750 --> 01:05:22,700
+[ISAAC]
+No. He doesn't want to hurt his foot, so they're going to drop a person on it.
+ບໍ່. ລາວບໍ່ຢາກເຮັດໃຫ້ຕີນຂອງລາວເຈັບປວດ
+, ສະນັ້ນພວກເຂົາຈະປ່ອຍຄົນໃສ່ມັນ.
+
+986
+01:05:23,200 --> 01:05:29,200
+[RABBI]
+We are put on this earth to find a love, a soulmate, someone with whom we can create joy. How glad we are today that Ben and Laura have found each other, and we anticipate and celebrate the years of joy they will share together from this day on.
+ພວກເຮົາຖືກວາງໄວ້ໃນໂລກນີ້ເພື່ອຊອກຫາຄວາມຮັກ, ເພື່ອນຮ່ວມໃຈ, ຄົນທີ່ພວກເຮົາສາມາດສ້າງຄວາມສຸກໄດ້ກັບ.
+ພວກເຮົາດີໃຈຫຼາຍປານໃດໃນມື້ນີ້ທີ່ແບນແລະລາຣາໄດ້ພົບກັນ, ແລະພວກເຮົາຄາດຫວັງແລະສະເຫຼີມສະຫຼອງປີຄວາມສຸກທີ່ພວກເຂົາຈະແບ່ງປັນຮ່ວມກັນຈາກມື້ນີ້ຕໍ່ໄປ.
+
+987
+01:05:29,700 --> 01:05:35,700
+[RABBI]
+Ben, do you take this woman, Laura, to be your lawfully wedded wife, for richer, for poorer, in sickness and in health, 'til death do you part, so help you God?
+ແບນ, ເຈົ້າເອົາແມ່ຍິງຄົນນີ້, ໂລຣາ, ເປັນເມຍທີ່ແຕ່ງງານຢ່າງຖືກຕ້ອງຕາມກົດ ຫມາຍ ຂອງເຈົ້າ, ສໍາ ລັບຄົນຮັ່ງມີກວ່າ
+, ສໍາລັບຄົນທຸກຍາກກວ່າ, ໃນການເຈັບປ່ວຍແລະສຸຂະພາບ, ຈົນກວ່າຄວາມຕາຍຈະແຍກເຈົ້າ, ສະນັ້ນພຣະເຈົ້າຊ່ວຍເຈົ້າບໍ?
+
+988
+01:05:36,200 --> 01:05:38,200
+[BEN]
+No!
+ບໍ່!
+
+989
+01:05:38,700 --> 01:05:40,700
+[RABBI]
+Excuse me?
+ຂໍໂທດບໍ?
+
+990
+01:05:41,200 --> 01:05:44,000
+[BEN]
+No, not you.    I was talking to him.
+ບໍ່, ບໍ່ແມ່ນເຈົ້າ. ຂ້ອຍ ກໍາ ລັງເວົ້າກັບລາວ.
+
+991
+01:05:44,500 --> 01:05:46,500
+[RABBI]
+Who him?
+ລາວແມ່ນໃຜ?
+
+992
+01:05:47,000 --> 01:05:49,000
+[BEN]
+It's not important.     Yes.
+ມັນບໍ່ສໍາຄັນ. ແມ່ນແລ້ວ.
+
+993
+01:05:49,500 --> 01:05:51,500
+[RABBI]
+Yes what?
+ແມ່ນແລ້ວຫຍັງ?
+
+994
+01:05:52,000 --> 01:05:57,250
+[BEN]
+Yes to the thing before. To her. That's a yes. Pick it up from there.
+ແມ່ນແລ້ວຕໍ່ສິ່ງກ່ອນ. ຕໍ່ນາງ.
+ນັ້ນແມ່ນແມ່ນແລ້ວ. ເອົາມັນຈາກບ່ອນນັ້ນ.
+
+995
+01:05:57,750 --> 01:06:01,950
+[JELLY]
+Doc, we're going to need to hurry it up here.  Hi, kid.
+ດອກຕໍ, ພວກເຮົາຈະຕ້ອງໄວຂຶ້ນມາບ່ອນນີ້. ສະບາຍດີ, ເດັກນ້ອຍ.
+
+996
+01:06:02,450 --> 01:06:04,450
+[LAURA]
+I do not believe this!
+ຂ້ອຍບໍ່ເຊື່ອເລື່ອງນີ້!
+
+997
+01:06:04,950 --> 01:06:07,400
+[JELLY]
+Haul ass, buddy. We got a problem.
+ເອົາຫລັງໄປ, ເພື່ອນ. ພວກເຮົາມີບັນຫາ.
+
+998
+01:06:07,900 --> 01:06:10,700
+[LAURA]
+Who the hell do you think you are?
+ເຈົ້າຄິດວ່າເຈົ້າເປັນໃຜ?
+
+999
+01:06:11,200 --> 01:06:16,800
+[JELLY]
+Ooh, she's feisty. Watch out, Doc.  Tick tock, let's go. Hurry up and pronounce them, huh?
+ໂອ້, ນາງມີຄວາມເຄັ່ງຕຶງ. ລະມັດລະວັງ, ດອກຕໍ.
+Tick tock, ໄປ. ໄວແລະອອກສຽງພວກເຂົາ, ແມ່ນບໍ?
+
+1000
+01:06:17,300 --> 01:06:23,300
+[RABBI]
+By the power vested me by the state of New York, I now pronounce you man and wife.
+ດ້ວຍອໍານາດທີ່ມອບໃຫ້ຂ້ອຍໂດຍລັດນິວຢອກ
+, ຂ້ອຍປະກາດເຈົ້າເປັນຜົວເມຍດຽວນີ້.
+
+1001
+01:06:23,800 --> 01:06:25,800
+[JELLY]
+Okay.   Kiss, kiss --
+ດີແລ້ວ. ຈູບ, ຈູບ -
+
+1002
+01:06:26,300 --> 01:06:30,150
+[JELLY]
+I'm sorry about this, Mrs. Sobol, but duty calls, you know?
+ຂ້ອຍຂໍໂທດກ່ຽວກັບເລື່ອງນີ້, ທ່ານນາງໂຊບອລ
+, ແຕ່ຫນ້າທີ່ເອີ້ນ, ເຈົ້າຮູ້ບໍ?
+
+1003
+01:06:30,650 --> 01:06:34,150
+[LAURA]
+Oh. You're the first person to call me Mrs. Sobol.
+ໂອ້. ເຈົ້າເປັນຄົນ ທໍາ ອິດທີ່ເອີ້ນຂ້ອຍວ່າທ່ານນາງໂຊບອລ.
+
+1004
+01:06:34,650 --> 01:06:36,650
+[JELLY]
+Nice, huh?
+ດີເລີດ, ແມ່ນບໍ?
+
+1005
+01:06:37,150 --> 01:06:39,150
+[LAURA]
+No.
+ບໍ່
+
+1006
+01:06:39,650 --> 01:06:41,750
+[BEN]
+Laura, I'm sorry. It's the job.
+ໂລຣາ, ຂ້ອຍຂໍໂທດ. ມັນເປັນວຽກງານ.
+
+1007
+01:06:42,250 --> 01:06:48,200
+[LAURA]
+Go.  Just go.  Have him back here by the salad course or you're in serious trouble. Capiche?
+ໄປ. ພຽງແຕ່ໄປ.
+ໃຫ້ລາວກັບມາບ່ອນນີ້ໂດຍຫຼັກສູດຊາລາດຫຼືເຈົ້າຢູ່ໃນຄວາມຫຍຸ້ງຍາກທີ່ຮ້າຍແຮງ. ຄາປິເຊ?
+
+1008
+01:06:48,700 --> 01:06:50,800
+[JELLY]
+You're a pistol.  I like her.
+ເຈົ້າເປັນປືນປືນ. ຂ້ອຍມັກນາງ.
+
+1009
+01:06:51,300 --> 01:06:57,300
+[JELLY]
+He's bad, Doc. Worse than I ever seen him. I think his inner child is all fucked up.
+ລາວບໍ່ດີ, ດອກ. ຮ້າຍກວ່າທີ່ຂ້ອຍເຄີຍເຫັນລາວ.
+ຂ້ອຍຄິດວ່າລູກພາຍໃນຂອງລາວແມ່ນສໍ້ໂກງທັງ ຫມົດ.
+
+1010
+01:06:57,800 --> 01:07:00,600
+[BEN]
+Have you ever seen an episode like this?
+ເຈົ້າເຄີຍເຫັນເຫດການແບບນີ້ບໍ?
+
+1011
+01:07:01,100 --> 01:07:07,100
+[JELLY]
+Yes. Once on 'Bonanza,' Hoss Cartwright got bit by a raccoon. He got this fever and he was shaking --
+ແມ່ນແລ້ວ. ໃນຄັ້ງຫນຶ່ງໃນ'ໂບນານຊາ', ໂຮສ ຄາຕຣອຍຕ໌ຖືກແຊກແຊງໂດຍ
+raccoon ໄດ້. ລາວມີໄຂ້ນີ້ແລະລາວກໍາລັງສັ່ນສະເທືອນ -
+
+1012
+01:07:07,600 --> 01:07:09,600
+[BEN]
+Never mind.
+ບໍ່ເປັນຫຍັງ.
+
+1013
+01:07:10,100 --> 01:07:15,350
+[JELLY]
+This is serious, Doc. If he doesn't make this meeting, they'll kill him for sure.
+ນີ້ແມ່ນຈິງໃຈ, ດອກ. ຖ້າລາວບໍ່ມາປະຊຸມນີ້, ພວກເຂົາຈະຂ້າລາວແນ່ນອນ.
+
+1014
+01:07:15,850 --> 01:07:21,850
+[BEN]
+Can't someone else in the family go for him? Tommy the Tongue? Louie the Lip? What about you? You go?
+ຄົນອື່ນໃນຄອບຄົວບໍ່ສາມາດໄປຫາລາວໄດ້ບໍ?
+ໂຕມມີພາສາ? ລູຍີປາກ? ເຈົ້າແນວໃດ? ເຈົ້າໄປບໍ?
+
+1015
+01:07:22,350 --> 01:07:28,350
+[JELLY]
+That would work except for one little detail. I'm a fucking moron. I'm known for it.  You have to go.
+ມັນຈະເຮັດວຽກໄດ້ຍົກເວັ້ນລາຍລະອຽດນ້ອຍໆ ຫນຶ່ງ.
+ຂ້ອຍເປັນຄົນໂຊກຮ້າຍ. ຂ້ອຍຮູ້ຈັກກັບມັນ. ເຈົ້າຕ້ອງໄປ.
+
+1016
+01:07:28,850 --> 01:07:30,950
+[BEN]
+Me?   You must be a moron.
+ຂ້ອຍ? ເຈົ້າຕ້ອງເປັນຄົນໂຊກຮ້າຍ.
+
+1017
+01:07:31,450 --> 01:07:33,450
+[JELLY]
+Hey!   Watch that.
+ເຮ້! ເບິ່ງແມ.
+
+1018
+01:07:33,950 --> 01:07:35,950
+[BEN]
+You just said it yourself.
+ເຈົ້າຫາກໍ່ເວົ້າມັນເອງ.
+
+1019
+01:07:36,450 --> 01:07:41,350
+[JELLY]
+It's different when I say it. When you say it, it sounds very negative.
+ມັນແຕກຕ່າງກັນເມື່ອຂ້ອຍເວົ້າມັນ.
+ເມື່ອເຈົ້າເວົ້າມັນ, ມັນສຽງລົບຫຼາຍ.
+
+1020
+01:07:41,850 --> 01:07:47,850
+[BEN]
+I'm sorry, Jelly, but I'm not going. I'm not on the payroll anymore, so forget about it. My wife is waiting --
+ຂ້ອຍຂໍໂທດ, ເຈເລີ, ແຕ່ຂ້ອຍຈະບໍ່ໄປ. ຂ້ອຍບໍ່ໄດ້ຢູ່ໃນບັນຊີເງິນເດືອນອີກແລ້ວ
+, ສະນັ້ນລືມກ່ຽວກັບມັນ. ເມຍຂອງຂ້ອຍ ກໍາ ລັງລໍຖ້າ -
+
+1021
+01:07:48,350 --> 01:07:50,350
+[JELLY]
+Doc.
+ດອກ.
+
+1022
+01:07:50,850 --> 01:07:52,850
+[BEN]
+You can't shoot me, Jelly.
+ເຈົ້າບໍ່ສາມາດຍິງຂ້ອຍໄດ້, ເຈເລີ.
+
+1023
+01:07:53,350 --> 01:07:59,350
+[JELLY]
+Correction. Mr. Vitti couldn't shoot you. But here's something about me you should know. I never got married, Doctor Sobol. I don't have a hobby. I never got a dog or a cat. I don't even have a goldfish. I live for one reason only, and that's to serve Mr. Paul Vitti. He's what I'm thinking about when I wake up, and he's what I'm thinking about when I close my eyes to sleep. If he told me to jump off a tall building, not only would I do it, I would hope to survive so I could do it again and again until he told me to stop. This is all I know. This is all I got. So please don't think I won't kill you, because I'd hate for your last thought to be a wrong one. You're going to that meeting.
+ການແກ້ໄຂ. ທ້າວ Vitti ບໍ່ສາມາດຍິງເຈົ້າໄດ້. ແຕ່ນີ້ແມ່ນບາງສິ່ງບາງຢ່າງກ່ຽວກັບຂ້ອຍທີ່ທ່ານຄວນຮູ້. ຂ້ອຍບໍ່ເຄີຍແຕ່ງງານ, ດອກຕໍໂຊບອລ. ຂ້ອຍບໍ່ມີຄວາມມັກໃຈ. ຂ້ອຍບໍ່ໄດ້ມີຫມາຫຼືແມວ. ຂ້ອຍຍັງບໍ່ມີປາຄໍາເລີຍ.
+ຂ້ອຍດໍາລົງຊີວິດດ້ວຍເຫດຜົນດຽວເທົ່ານັ້ນ, ແລະນັ້ນແມ່ນເພື່ອຮັບໃຊ້ທ້າວໂປລ Vitti. ລາວແມ່ນສິ່ງທີ່ຂ້ອຍຄິດກ່ຽວກັບເມື່ອຂ້ອຍຕື່ນຂຶ້ນ, ແລະລາວແມ່ນສິ່ງທີ່ຂ້າພະເຈົ້າຄິດກ່ຽວກັບເວລາທີ່ຂ້ອຍປິດຕາເພື່ອນອນ. ຖ້າລາວບອກຂ້ອຍທີ່ຈະໂດດຈາກອາຄານສູງ,
+
+1024
+01:07:59,850 --> 01:08:01,850
+[STEADMAN]
+Which one is it?
+ມັນເປັນອັນໃດ?
+
+1025
+01:08:02,350 --> 01:08:04,350
+[AGENT PROVANO]
+The black one.
+ຄົນສີດໍາ.
+
+1026
+01:08:04,850 --> 01:08:10,850
+[JIMMY]
+Just remember. That's a fuckin' $1200 Valentino suit. You spill anything on it, I'll mess you up good.
+ພຽງແຕ່ຈື່ໄວ້. ນັ້ນແມ່ນຊຸດວາເລນຕິໂນລາຄາ 1200 ໂດລາ.
+ເຈົ້າຖິ້ມຫຍັງໃສ່ມັນ, ຂ້ອຍຈະເຮັດໃຫ້ເຈົ້າສໍ້ໂກງດີ.
+
+1027
+01:08:11,350 --> 01:08:17,350
+[JELLY]
+Shut up. You're making him nervous. If he gets nervous and fucks up, they'll kill him for sure.  Let's go over it again.
+ປິດງຽບ. ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ລາວເຄັ່ງຕຶງ. ຖ້າລາວກັງວົນແລະສໍ້ໂກງ
+, ພວກເຂົາຈະຂ້າລາວແນ່ນອນ. ມາພິຈາລະນາມັນອີກຄັ້ງ.
+
+1028
+01:08:17,850 --> 01:08:19,850
+[BEN]
+This is insane.
+ນີ້ແມ່ນໂຊກຮ້າຍ.
+
+1029
+01:08:20,350 --> 01:08:26,350
+[JELLY]
+Mr. Vitti's been detained, apologies all around, blah, blah, blah. Then you say you're the new consigliere, and you're prepared to speak for Mr. Vitti.
+ທ້າວ Vitti ໄດ້ຖືກກັກຕົວ, ຂໍໂທດຢູ່ທົ່ວໄປ, ບລາບລາບາບລາ.
+ຫຼັງຈາກນັ້ນເຈົ້າເວົ້າວ່າເຈົ້າເປັນຜູ້ແນະນໍາຄົນໃຫມ່, ແລະເຈົ້າພ້ອມທີ່ຈະເວົ້າແທນທ່ານ Vitti.
+
+1030
+01:08:26,850 --> 01:08:28,850
+[BEN]
+Then what?
+ຫຼັງຈາກນັ້ນຫຍັງ?
+
+1031
+01:08:29,350 --> 01:08:33,900
+[JELLY]
+Then you just keep your mouth shut, and hope nobody asks you nothin'.
+ຫຼັງຈາກນັ້ນເຈົ້າພຽງແຕ່ປິດປາກ, ແລະຫວັງວ່າບໍ່ມີໃຜຖາມເຈົ້າຫຍັງເລີຍ.
+
+1032
+01:08:34,400 --> 01:08:36,500
+[JIMMY]
+Boy, this is some fuckin' plan.
+ເດັກຊາຍ, ນີ້ແມ່ນແຜນການບາງຢ່າງ.
+
+1033
+01:08:37,000 --> 01:08:41,900
+[JELLY]
+Shut up.  If you have to talk, just be vague. Can you do that?
+ປິດງຽບ. ຖ້າເຈົ້າຕ້ອງເວົ້າ,
+ພຽງແຕ່ເປັນບໍ່ແນ່ນອນ. ເຈົ້າສາມາດເຮັດໄດ້ບໍ?
+
+1034
+01:08:42,400 --> 01:08:45,550
+[BEN]
+I'm a psychologist.   Believe me, I can be vague.
+ຂ້ອຍເປັນນັກຈິດໃຈ. ເຊື່ອຂ້ອຍ, ຂ້ອຍສາມາດບໍ່ແນ່ນອນໄດ້.
+
+1035
+01:08:46,050 --> 01:08:48,500
+[VITTI]
+Shouldn't you be outside playing or something?
+ເຈົ້າບໍ່ຄວນຢູ່ພາຍນອກຫຼິ້ນຫຼືບາງສິ່ງບາງຢ່າງບໍ?
+
+1036
+01:08:49,000 --> 01:08:51,000
+[ANTHONY]
+No, it's all right.
+ບໍ່, ມັນບໍ່ເປັນຫຍັງ.
+
+1037
+01:08:51,500 --> 01:08:53,600
+[VITTI]
+How long you gonna sit there?
+ເຈົ້າຈະນັ່ງຢູ່ບ່ອນນັ້ນດົນປານໃດ?
+
+1038
+01:08:54,100 --> 01:08:56,200
+[ANTHONY]
+How long you gonna lay there?
+ເຈົ້າຈະນອນຢູ່ບ່ອນນັ້ນດົນປານໃດ?
+
+1039
+01:08:56,700 --> 01:08:58,700
+[VITTI]
+I'm done.
+ຂ້ອຍເຮັດແລ້ວ.
+
+1040
+01:08:59,200 --> 01:09:03,050
+[BEN]
+I can't do this. I'm telling you, I cannot do this.
+ຂ້ອຍບໍ່ສາມາດເຮັດແບບນີ້ໄດ້. ຂ້ອຍບອກເຈົ້າວ່າ
+, ຂ້ອຍສາມາດເຮັດແບບນີ້ແມ່ນບໍ່ໄດ້.
+
+1041
+01:09:03,550 --> 01:09:08,450
+[JELLY]
+Don't fucking whine! Whining's a dead giveaway. Come on! You're the consigliere, for Chrissake.
+ຢ່າຮ້ອງໄຫ້! ການຮ້ອງໄຮແມ່ນການເປີດເຜີຍທີ່ຕາຍແລ້ວ
+. ມາແລ້ວ! ເຈົ້າເປັນຜູ້ແນະນໍາ, ສໍາລັບຄຣິສສສ໌ເກີ.
+
+1042
+01:09:08,950 --> 01:09:12,800
+[BEN]
+These are the bosses? That one looks like my Uncle Max.
+ນີ້ແມ່ນຫົວຫນ້າບໍ? ຄົນນັ້ນເບິ່ງຄືວ່າພໍ່ເຖົ້າແມັກສ໌ຂອງຂ້ອຍ.
+
+1043
+01:09:13,300 --> 01:09:15,300
+[MANGANO]
+What's goin' on? Where's Vitti?
+ເກີດຫຍັງຂຶ້ນ? ວີຕີຢູ່ໃສ?
+
+1044
+01:09:15,800 --> 01:09:17,800
+[JELLY]
+On his way.   Don't worry.
+ລາວ ກໍາ ລັງເດີນທາງໄປ. ຢ່າກັງວົນ.
+
+1045
+01:09:18,300 --> 01:09:20,300
+[MANGANO]
+What's he doin' here?
+ລາວເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+1046
+01:09:20,800 --> 01:09:23,250
+[JELLY]
+He's -- it's okay. Forget about it.
+ລາວແມ່ນ - ມັນບໍ່ເປັນຫຍັງ. ລືມມັນ.
+
+1047
+01:09:23,750 --> 01:09:26,550
+[MANGANO]
+Forget about it? What the hell is that?
+ລືມມັນບໍ? ນັ້ນແມ່ນຫຍັງ?
+
+1048
+01:09:27,050 --> 01:09:29,050
+[SINDONE]
+Who's the guy with Jelly?
+ຜູ້ຊາຍທີ່ມີເຈເລີແມ່ນໃຜ?
+
+1049
+01:09:29,550 --> 01:09:31,550
+[MOONY]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+1050
+01:09:32,050 --> 01:09:34,050
+[BEN]
+I can't do this.
+ຂ້ອຍເຮັດແບບນີ້ບໍ່ໄດ້.
+
+1051
+01:09:34,550 --> 01:09:40,550
+[MOONY]
+All right, gentlemen. I think we better start. We have a big agenda, so for now let's stick to the big issues. And it would help if you identify yourselves when you speak, since we don't all know each other, and we didn't think anybody would be into wearing any fucking name tags.
+ດີແລ້ວ, ພວກເຈົ້າ. ຂ້ອຍຄິດວ່າພວກເຮົາຄວນເລີ່ມຕົ້ນ. ພວກເຮົາມີແຜນການໃຫຍ່, ສະນັ້ນໃນເວລານີ້ພວກເຮົາຈະຍຶດຫມັ້ນບັນຫາໃຫຍ່.
+ແລະມັນຈະຊ່ວຍຖ້າເຈົ້າລະບຸຕົວເອງເມື່ອເຈົ້າເວົ້າ, ເນື່ອງຈາກວ່າພວກເຮົາບໍ່ທຸກຄົນຮູ້ຈັກກັນແລະກັນ, ແລະພວກເຮົາບໍ່ຄິດວ່າໃຜຈະມັກໃສ່ປ້າຍຊື່ໃດໆ.
+
+1052
+01:09:41,050 --> 01:09:47,050
+[SINDONE]
+I'm Primo Sindone. They call me Sonny Long. It's good to see so many of the old faces here, and to welcome the new ones from all over the country. I see Frank Zello, and Joe Baldassare, but I'm a little disappointed to see that the head of our other New York family isn't here today. All I see is his man Jelly and some sawed-off little prick nobody knows.
+ຂ້ອຍເປັນປຣີໂມ ຊິນໂດນ. ພວກເຂົາເອີ້ນຂ້ອຍວ່າ ໂຊນນີ ລອນ. ມັນດີທີ່ຈະເຫັນໃບຫນ້າເກົ່າຫຼາຍປານໃດຢູ່ນີ້, ແລະຕ້ອນຮັບຄົນໃຫມ່ຈາກທົ່ວປະເທດ. ຂ້ອຍເຫັນແຟຣນກ໌ ເຊລໂລ, ແລະໂຈ ບາລດາຊາເຣ,
+ແຕ່ຂ້ອຍຜິດຫວັງ ຫນ້ອຍ ຫນຶ່ງ ເມື່ອເຫັນວ່າຫົວຫນ້າຄອບຄົວນິວຢອກອື່ນໆຂອງພວກເຮົາບໍ່ໄດ້ຢູ່ບ່ອນນີ້ໃນມື້ນີ້. ສິ່ງດຽວທີ່ຂ້ອຍເຫັນແມ່ນຜູ້ຊາຍຂອງລາວ ເຈເລຍແລະຄົນໂຊກແບນນ້ອຍທີ່ບໍ່ມີໃຜຮູ້ຈັກ.
+
+1053
+01:09:47,550 --> 01:09:53,550
+[JELLY]
+Yeah, well, the thing is Mr. Vitti has been detained and he sends his apologies for -- being detained -- and he apologizes for his -- detainment.
+ແມ່ນແລ້ວ, ດີ, ເລື່ອງແມ່ນທ່ານ Vitti ໄດ້ຖືກກັກຕົວແລະລາວສົ່ງຂໍໂທດຂອງລາວ
+ສໍາ ລັບ - ຖືກກັກໂຕ - ແລະລາວຂໍໂທດ ສໍາ ລັບລາວ - ການກັກກັນ.
+
+1054
+01:09:54,050 --> 01:10:00,050
+[SINDONE]
+Detained? What kind of bullshit is that? What's more important than this? As the host of this meeting, I take his not being here as a sign of disrespect to me and to all these other men, too, who came a long way to be here.
+ຖືກກັກຕົວໄວ້ບໍ? ນັ້ນແມ່ນໂຊກແຊງປະເພດໃດ? ມີຫຍັງສໍາຄັນກວ່າສິ່ງນີ້? ໃນຖານະເປັນເຈົ້າພາບຂອງກອງປະຊຸມນີ້,
+ຂ້ອຍຖືວ່າການບໍ່ຢູ່ບ່ອນນີ້ເປັນສັນຍານຂອງການບໍ່ເຄົາລົບຂ້ອຍແລະຜູ້ຊາຍຄົນອື່ນທັງ ຫມົດ ນີ້ເຊັ່ນກັນ, ຜູ້ທີ່ມາທາງໄກເພື່ອມາບ່ອນນີ້.
+
+1055
+01:10:00,550 --> 01:10:06,550
+[JELLY]
+Mr. Vitti meant no disrespect. The thing is, he's not feeling well. He's sick and he -- didn't feel well --
+ທ້າວ Vitti ຫມາຍ ຄວາມວ່າບໍ່ມີຄວາມບໍ່ເຄົາລົບ. ເລື່ອງແມ່ນ
+, ລາວບໍ່ຮູ້ສຶກດີ. ລາວເຈັບປ່ວຍແລະລາວ - ບໍ່ຮູ້ສຶກທີ່ດີ -
+
+1056
+01:10:07,050 --> 01:10:11,950
+[BEN]
+Jelly! We don't ever discuss Mr. Vitti's health outside the family. You know better.
+ເຈເລຍ! ພວກເຮົາບໍ່ເຄີຍປຶກສາຫາລືສຸຂະພາບຂອງທ່ານວີຕີຢູ່ນອກຄອບຄົວ
+. ເຈົ້າຮູ້ດີກວ່າ.
+
+1057
+01:10:12,450 --> 01:10:17,350
+[SINDONE]
+All right, who is this guy and what the fuck is he doing here?
+ດີແລ້ວ, ຜູ້ຊາຍຄົນນີ້ແມ່ນໃຜແລະລາວ ກໍາ ລັງເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+1058
+01:10:17,850 --> 01:10:23,850
+[BEN]
+In answer to your first question, my name is Ben Sobol --  -- leone. Sobboleone. They call me -- 'The doctor.' As for your second question. I'm here representing Paul Vitti. As his conser -- conghili --
+ໃນຄໍາຕອບຕໍ່ ຄໍາ ຖາມ ທໍາ ອິດຂອງທ່ານ, ຂ້ອຍຊື່ວ່າແບນ ໂຊບອລ - - ເລໂອນ. ໂຊບບອລ. ພວກເຂົາເອີ້ນຂ້ອຍວ່າ -'ຫມໍ.
+ກ່ຽວກັບ ຄໍາ ຖາມທີສອງຂອງທ່ານ. ຂ້ອຍຢູ່ບ່ອນນີ້ເປັນຕົວແທນໂປລ ວີຕີ. ໃນຖານະເປັນຜູ້ປົກຄອງຂອງລາວ - ຄອງຈີລີ -
+
+1059
+01:10:24,350 --> 01:10:26,350
+[JELLY]
+Consigliere --
+ຄະນະກໍາມະການ...
+
+1060
+01:10:26,850 --> 01:10:32,850
+[BEN]
+Don't you ever correct me again! As his consigliere, I'm intimately involved in all aspects of the family business and I'm prepared to speak for Mr. Vitti on all matters.
+ຢ່າປັບປຸງຂ້ອຍອີກເທື່ອຫນຶ່ງ! ໃນຖານະເປັນຜູ້ແນະນໍາຂອງລາວ,
+ຂ້ອຍມີສ່ວນຮ່ວມຢ່າງໃກ້ຊິດໃນທຸກດ້ານຂອງທຸລະກິດຄອບຄົວແລະຂ້ອຍພ້ອມທີ່ຈະເວົ້າແທນທ່ານ Vitti ກ່ຽວກັບທຸກເລື່ອງ.
+
+1061
+01:10:33,350 --> 01:10:39,350
+[SINDONE]
+Okay, Doctor, then let's get down to business. Everybody knows there's been this thing between me and Paul Vitti for a long time.
+ດີແລ້ວ, ດອກຕໍ, ຫຼັງຈາກນັ້ນພວກເຮົາຈະລົງໄປຫາທຸລະກິດ.
+ທຸກຄົນຮູ້ວ່າມີສິ່ງນີ້ລະຫວ່າງຂ້ອຍແລະໂປລ ວີຕີເປັນເວລາດົນນານແລ້ວ.
+
+1062
+01:10:39,850 --> 01:10:44,400
+[BEN]
+Which thing are you talking about? The first thing or the second thing?
+ເຈົ້າເວົ້າກ່ຽວກັບຫຍັງ? ສິ່ງ ທໍາ ອິດຫຼືສິ່ງທີສອງບໍ?
+
+1063
+01:10:44,900 --> 01:10:47,700
+[SINDONE]
+What second thing? I only know one thing.
+ສິ່ງທີສອງໃດ? ຂ້ອຍຮູ້ພຽງແຕ່ສິ່ງດຽວເທົ່ານັ້ນ.
+
+1064
+01:10:48,200 --> 01:10:54,200
+[BEN]
+Well, I don't see how we can discuss the first thing without bringing up the second thing. Didn't you talk to the guy?
+ດີ, ຂ້ອຍບໍ່ເຫັນວ່າພວກເຮົາສາມາດປຶກສາຫາລືສິ່ງ ທໍາ
+ອິດໄດ້ແນວໃດໂດຍບໍ່ຕ້ອງຍົກເອົາສິ່ງທີສອງ. ເຈົ້າບໍ່ໄດ້ເວົ້າກັບຜູ້ຊາຍບໍ?
+
+1065
+01:10:54,700 --> 01:10:56,700
+[SINDONE]
+What guy?
+ຜູ້ຊາຍໃດ?
+
+1066
+01:10:57,200 --> 01:10:59,200
+[BEN]
+The guy with the thing.
+ຜູ້ຊາຍທີ່ມີສິ່ງນັ້ນ.
+
+1067
+01:10:59,700 --> 01:11:02,850
+[SINDONE]
+What thing? What the fuck are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+1068
+01:11:03,350 --> 01:11:09,350
+[BEN]
+How should I know? You brought it up.  This is the whole problem. You can't have an intelligent conversation with the man.
+ຂ້ອຍຄວນຮູ້ແນວໃດ? ເຈົ້າໄດ້ເອົາມັນຂຶ້ນ. ນີ້ແມ່ນບັນຫາທັງ
+ຫມົດ. ເຈົ້າບໍ່ສາມາດສົນທະນາທີ່ສະຫຼາດກັບຜູ້ຊາຍໄດ້.
+
+1069
+01:11:09,850 --> 01:11:15,100
+[SINDONE]
+How about if I just break your fuckin' neck? What do you think of that?
+ຈະເປັນແນວໃດຖ້າຂ້ອຍພຽງແຕ່ຕັດຄໍຂອງທ່ານ? ເຈົ້າຄິດແນວໃດກ່ຽວກັບນັ້ນ?
+
+1070
+01:11:15,600 --> 01:11:19,100
+[BEN]
+It's not important what I think. What do you think?
+ມັນບໍ່ສໍາຄັນວ່າຂ້ອຍຄິດແນວໃດ. ເຈົ້າຄິດແນວໃດ?
+
+1071
+01:11:19,600 --> 01:11:25,600
+[SINDONE]
+What do I think? I think it's a good idea! Why would I say it if I didn't think it was good?
+ຂ້ອຍຄິດແນວໃດ? ຂ້ອຍຄິດວ່າມັນເປັນຄວາມຄິດທີ່ດີ!
+ຂ້ອຍຈະເວົ້າມັນເປັນຫຍັງຖ້າຂ້ອຍບໍ່ຄິດວ່າມັນດີ?
+
+1072
+01:11:26,100 --> 01:11:28,200
+[BEN]
+I don't know.    Why would you?
+ຂ້ອຍບໍ່ຮູ້. ເຈົ້າເຮັດຫຍັງ?
+
+1073
+01:11:28,700 --> 01:11:30,800
+[SINDONE]
+I wouldn't! That's what I'm saying!
+ຂ້ອຍຈະບໍ່ເຮັດ! ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍເວົ້າ!
+
+1074
+01:11:31,300 --> 01:11:34,800
+[BEN]
+Have you always had a problem dealing with your anger?
+ເຈົ້າເຄີຍມີບັນຫາໃນການຮັບມືກັບຄວາມໂຊກຮ້າຍຂອງທ່ານບໍ?
+
+1075
+01:11:35,300 --> 01:11:37,300
+[SINDONE]
+What are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+1076
+01:11:37,800 --> 01:11:40,250
+[BEN]
+What do you think I'm talking about?
+ເຈົ້າຄິດວ່າຂ້ອຍເວົ້າຫຍັງ?
+
+1077
+01:11:40,750 --> 01:11:43,900
+[SINDONSINDONE]
+I don't know what the fuck you're talking about!
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ!
+
+1078
+01:11:44,400 --> 01:11:49,650
+[BEN]
+See, you're angry again. Do you feel you have to get angry to be heard?
+ເຈົ້າເຫັນແລ້ວ, ເຈົ້າໂຊກຮ້າຍອີກເທື່ອຫນຶ່ງ.
+ເຈົ້າຮູ້ສຶກວ່າເຈົ້າຕ້ອງໂ ຊກຮ້າຍເພື່ອຖືກຍິນບໍ?
+
+1079
+01:11:50,150 --> 01:11:52,150
+[SINDONE]
+What's he talking about?
+ລາວເວົ້າຫຍັງຢູ່?
+
+1080
+01:11:52,650 --> 01:11:57,550
+[ZELLO]
+I don't know. But you do have a tendency to get angry a lot.
+ຂ້ອຍບໍ່ຮູ້. ແຕ່ເຈົ້າມີຄວາມມັກທີ່ຈະໂຊກຮ້າຍຫຼາຍ.
+
+1081
+01:11:58,050 --> 01:12:00,050
+[BALDASSARE]
+I agree, Primo.
+ຂ້ອຍເຫັນດີ, ປຣີໂມ.
+
+1082
+01:12:00,550 --> 01:12:04,750
+[SINDONE]
+I'm trying to talk about Vitti! Why are we talking about me?
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເວົ້າກ່ຽວກັບ Vitti
+! ເປັນຫຍັງພວກເຮົາຈຶ່ງເວົ້າກ່ຽວກັບຂ້ອຍ?
+
+1083
+01:12:05,250 --> 01:12:09,450
+[BEN]
+Interesting. Do you feel you're not worthy enough to be talked about?
+ຫນ້າສົນໃຈ. ເຈົ້າຮູ້ສຶກວ່າເຈົ້າບໍ່ສົມຄວນພໍທີ່ຈະເວົ້າກ່ຽວກັບບໍ?
+
+1084
+01:12:09,950 --> 01:12:11,950
+[SINDONE]
+What does that mean?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ?
+
+1085
+01:12:12,450 --> 01:12:14,550
+[BEN]
+What do you think it means?
+ເຈົ້າຄິດວ່າມັນຫມາຍຄວາມວ່າແນວໃດ?
+
+1086
+01:12:15,050 --> 01:12:17,050
+[SINDONE]
+Fuck you!
+ເຈົ້າໄປໂຊກຮ້າຍ!
+
+1087
+01:12:17,550 --> 01:12:19,550
+[ZELLO]
+Primo, calm down.
+ປຣີໂມ, ສະບາຍໃຈ.
+
+1088
+01:12:20,050 --> 01:12:25,300
+[SINDONE]
+Calm down? How can I calm down when this prick won't stop with the questions?
+ສະບາຍໃຈ?
+ຂ້ອຍຈະສະຫງົບໃຈໄດ້ແນວໃດເມື່ອຄົນໂຊກຮ້າຍຄົນນີ້ບໍ່ຢຸດ ຄໍາ ຖາມ?
+
+1089
+01:12:25,800 --> 01:12:27,900
+[BEN]
+Could you pass the fruit, please?
+ເຈົ້າສາມາດສົ່ງຫມາກໄມ້ໄດ້ບໍ, ກະລຸນາ?
+
+1090
+01:12:28,400 --> 01:12:30,500
+[SINDONE]
+That's it!   You're a dead man!
+ນັ້ນແມ່ນມັນ! ເຈົ້າເປັນຜູ້ຊາຍຕາຍແລ້ວ!
+
+1091
+01:12:31,000 --> 01:12:33,000
+[VITTI]
+Primo!
+ໂປຣມໂກ້!
+
+1092
+01:12:33,500 --> 01:12:35,600
+[VITTI]
+Wait outside with the car running.
+ລໍຖ້າຢູ່ພາຍນອກດ້ວຍລົດແລ່ນ.
+
+1093
+01:12:36,100 --> 01:12:38,100
+[BEN]
+What are you doing here?
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+1094
+01:12:38,600 --> 01:12:42,100
+[VITTI]
+Saving your ass. Sit down.    I'll take it from here.
+ຂ້ອຍ ກໍາ ລັງຊ່ວຍເຈົ້າ. ນັ່ງລົງ. ຂ້ອຍຈະຮັບຜິດຊອບຈາກບ່ອນນີ້.
+
+1095
+01:12:42,600 --> 01:12:48,600
+[VITTI]
+I'm Paul Vitti. I'm sorry I was late. Those of you who know me will know I meant no disrespect. If it's all right with you, there's something I'd like to say, then I'll leave you to your business.
+ຂ້ອຍເປັນໂປລ ວີຕີ. ຂ້ອຍຂໍໂທດວ່າຂ້ອຍຊ້າ. ພວກເຈົ້າທີ່ຮູ້ຈັກຂ້ອຍຈະຮູ້ວ່າຂ້ອຍ ຫມາຍ ຄວາມວ່າບໍ່ມີຄວາມບໍ່ເຄົາລົບ.
+ຖ້າມັນບໍ່ເປັນຫຍັງກັບເຈົ້າ, ມີບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍຢາກເວົ້າ, ຫຼັງຈາກນັ້ນຂ້ອຍຈະປ່ອຍເຈົ້າໃຫ້ທຸລະກິດຂອງທ່ານ.
+
+1096
+01:12:49,100 --> 01:12:53,650
+[VITTI]
+About two and a half weeks ago, somebody killed my friend, Dominic Manetta.
+ປະມານສອງອາທິດເຄິ່ງກ່ອນ,
+ບາງຄົນໄດ້ຂ້າເພື່ອນຂອງຂ້ອຍ, ໂດມິນິກ ມາເນຕຕາ.
+
+1097
+01:12:54,150 --> 01:12:59,400
+[SINDONE]
+Don't look at me. Everybody knows you whacked him so you could take over everything.
+ຢ່າເບິ່ງຂ້ອຍ.
+ທຸກຄົນຮູ້ວ່າເຈົ້າໄດ້ຂ້າລາວເພື່ອໃຫ້ເຈົ້າສາມາດຮັບເອົາທຸກຢ່າງໄດ້.
+
+1098
+01:12:59,900 --> 01:13:05,900
+[VITTI]
+What I really came here to say is that I've come to a very important decision in my life. I want out.
+ຂ້ອຍມາທີ່ນີ້ເພື່ອບອກວ່າຂ້ອຍໄດ້ຕັດສິນໃຈທີ່ສໍາຄັນຫຼາຍໃນຊີວິດຂອງຂ້ອຍ
+. ຂ້ອຍຢາກອອກໄປ.
+
+1099
+01:13:06,400 --> 01:13:12,400
+[VITTI]
+I'm going away for a while, but I will respect the oath I took the day I was made, and whatever I know about anyone else's business, I take with me to the grave. You have my word.
+ຂ້ອຍຈະໄປຊົ່ວຄາວ, ແຕ່ຂ້ອຍຈະເຄົາລົບຄໍາສາບານທີ່ຂ້ອຍໄດ້ເຮັດໃນມື້ທີ່ຂ້ອຍຖືກສ້າງຂື້ນ,
+ແລະທຸກຢ່າງທີ່ຂ້ອຍຮູ້ກ່ຽວກັບທຸລະກິດຂອງຄົນອື່ນ, ຂ້ອຍເອົາກັບຂ້ອຍໄປຝັງສົບ. ເຈົ້າມີຄໍາຫມັ້ນສັນຍາຂອງຂ້ອຍ.
+
+1100
+01:13:12,900 --> 01:13:18,500
+[VITTI]
+As for my own organization, I know Carlo Mangano would like to be the new boss.
+ສ່ວນອົງການຈັດຕັ້ງຂອງຂ້ອຍເອງ, ຂ້ອຍຮູ້ວ່າ
+ຄາລໂລ ມັງກາໂນຢາກເປັນຫົວຫນ້າຄົນໃຫມ່.
+
+1101
+01:13:19,000 --> 01:13:21,000
+[MANGANO]
+Thank you, Paul.
+ຂອບໃຈໂປລ.
+
+1102
+01:13:21,500 --> 01:13:27,500
+[VITTI]
+That's why he betrayed Dominic and me to our enemies and sent his own man to kill me in Miami.
+ນັ້ນແມ່ນເຫດຜົນທີ່ລາວໄດ້ປະຫມາດຂ້ອຍແລະໂດມິນິກໃຫ້ສັດຕູຂອງພວກເຮົາແລະສົ່ງຜູ້ຊາຍຂອງຕົນເອງເພື່ອຂ້າຂ້ອຍໃນມາມິ
+.
+
+1103
+01:13:28,000 --> 01:13:34,000
+[VITTI]
+But I leave it to my people to deal with that and choose their own boss. And even though it's my right, I won't take revenge, mostly because I'm in a good place mentally and feeling good about me.
+ແຕ່ຂ້ອຍປ່ອຍໃຫ້ຄົນຂອງຂ້ອຍຮັບມືກັບສິ່ງນັ້ນແລະເລືອກຫົວຫນ້າຂອງພວກເຂົາເອງ. ແລະເຖິງແມ່ນວ່າມັນເປັນສິດຂອງຂ້ອຍ
+, ຂ້ອຍຈະບໍ່ແກ້ແຄ້ນ, ສ່ວນໃຫຍ່ເພາະວ່າຂ້ອຍຢູ່ໃນບ່ອນທີ່ດີທາງຈິດໃຈແລະຮູ້ສຶກດີກ່ຽວກັບຕົວເອງ.
+
+1104
+01:13:34,500 --> 01:13:40,100
+[ZELLO]
+I don't know, Paul. I can see where some people might have a problem with this.
+ຂ້ອຍບໍ່ຮູ້, ໂປລ. ຂ້ອຍເຫັນວ່າບາງຄົນອາດຈະມີບັນຫາກັບສິ່ງນີ້ຢູ່ໃສ.
+
+1105
+01:13:40,600 --> 01:13:46,600
+[VITTI]
+I realize that, so as an extra token of good faith between us, I've taken the liberty of writing down everything I know and putting it in a safe deposit box in case anything happens to me or my family.
+ຂ້ອຍຮູ້ວ່າ, ສະນັ້ນເປັນເຄື່ອງຫມາຍເພີ່ມເຕີມຂອງການຄວາມເຊື່ອທີ່ດີລະຫວ່າງພວກເຮົາ,
+ຂ້ອຍໄດ້ເອົາຄວາມເສລີພາບໃນການຂຽນທຸກຢ່າງທີ່ຂ້ອຍຮູ້ແລະເອົາມັນໃສ່ກ່ອງເງິນຝາກທີ່ປອດໄພໃນກໍລະນີມີຫຍັງເກີດຂຶ້ນກັບຂ້ອຍຫຼືຄອບຄົວຂອງຂ້ອຍ.
+
+1106
+01:13:47,100 --> 01:13:52,700
+[ZELLO]
+I don't know what anybody else thinks, but I say good luck and God bless, Paul.
+ຂ້ອຍບໍ່ຮູ້ວ່າຄົນອື່ນຄິດແນວໃດ,
+ແຕ່ຂ້ອຍເວົ້າວ່າ ໂຊກດີແລະພຣະເຈົ້າໃຫ້ພອນ, ໂປລ.
+
+1107
+01:13:53,200 --> 01:13:55,200
+[BALDASSARE]
+Good luck, Paul. Salut.
+ໂຊກດີ, ໂປລ. ສະບາຍດີ.
+
+1108
+01:13:55,700 --> 01:13:57,700
+[BEN]
+Well done.
+ເຮັດໄດ້ດີ.
+
+1109
+01:13:58,200 --> 01:14:00,200
+[VITTI]
+Let's move.
+ໄປ.
+
+1110
+01:14:00,700 --> 01:14:02,700
+[SINDONE]
+Vitti!
+Vitti!
+
+1111
+01:14:03,200 --> 01:14:05,650
+[VITTI]
+I don't want to do this, Primo.
+ຂ້ອຍບໍ່ຢາກເຮັດແບບນີ້, ປຣີໂມ.
+
+1112
+01:14:06,150 --> 01:14:12,150
+[SINDONE]
+You don't want to do this? That's fuckin' rich. What did you think, you could just quit and walk away? You think this is a fuckin' civil service job? What are you, crazy?
+ເຈົ້າບໍ່ຢາກເຮັດສິ່ງນີ້ບໍ? ນັ້ນແມ່ນອຸດົມສົມບູນຫຼາຍ. ເຈົ້າຄິດວ່າແນວໃດ, ເຈົ້າສາມາດຢຸດເຊົາແລະຍ່າງໄປໄດ້ບໍ
+? ເຈົ້າຄິດວ່ານີ້ເປັນວຽກງານການບໍລິການທາງການເມືອງ? ເຈົ້າເປັນຫຍັງ, ຄົນໂຊກຮ້າຍ?
+
+1113
+01:14:12,650 --> 01:14:18,650
+[VITTI]
+Not anymore.  Hey, Carlo, tell me. You gonna stab me in the back like the piece of shit I always knew you were?
+ບໍ່ອີກຕໍ່ໄປ. ເຮ້, ຄາລໂລ, ບອກຂ້ອຍ.
+ເຈົ້າຈະດອກຂ້ອຍໃນຫຼັງຄືກັບກະເປົາທີ່ຂ້ອຍຮູ້ຢູ່ສະເຫມີບໍ?
+
+1114
+01:14:19,150 --> 01:14:25,150
+[MANGANO]
+I'm not gonna stab you in the back, Paul. I want to see your face when I do it.
+ຂ້ອຍຈະບໍ່ດອກເຈົ້າໃນຫຼັງ, ໂປລ.
+ຂ້ອຍຢາກເຫັນໃບຫນ້າຂອງເຈົ້າເມື່ອຂ້ອຍເຮັດມັນ.
+
+1115
+01:14:25,650 --> 01:14:27,650
+[VITTI]
+I don't think so.  Mo-Mo!
+ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ. ໂມໂມ!
+
+1116
+01:14:28,150 --> 01:14:30,150
+[VITTI]
+Bigs!
+ພວກໃຫຍ່!
+
+1117
+01:14:30,650 --> 01:14:32,650
+[VITTI]
+Eddie!
+ເອດດີ!
+
+1118
+01:14:33,150 --> 01:14:36,300
+[VITTI]
+It's over, Primo. Now get the fuck outta here.
+ມັນຫມົດແລ້ວ, ປຣີໂມ. ດຽວນີ້ອອກຈາກບ່ອນນີ້.
+
+1119
+01:14:36,800 --> 01:14:42,800
+[BEN]
+Good thinking. I was going to bring a machine gun but I don't have one. Of course, we haven't opened the wedding gifts yet.
+ການຄິດທີ່ດີ. ຂ້ອຍຈະເອົາປືນຈັກແຕ່ຂ້ອຍບໍ່ມີຫນຶ່ງ
+. ແນ່ນອນ, ພວກເຮົາຍັງບໍ່ເປີດຂອງຂວັນແຕ່ງງານເທື່ອ.
+
+1120
+01:14:43,300 --> 01:14:45,300
+[ZELLO]
+Oh, shit.
+ໂອ້, ສະບາຍດີ.
+
+1121
+01:14:45,800 --> 01:14:51,800
+[AGENT STEADMAN]
+Drop your weapons and lie facedown on the ground. I repeat. Drop your weapons and lie facedown on the ground.
+ຖິ້ມອາວຸດຂອງທ່ານແລະນອນຫນ້າລົງເທິງພື້ນດິນ. ຂ້ອຍຊໍ້າອີກ
+. ຖິ່ມອາວຸທຂອງທ່ານແລະ ນອນ ຫນ້າ ລົງເທິງພື້ນທີ່.
+
+1122
+01:14:52,300 --> 01:14:54,400
+[AGENT RICCI]
+Don't move! Don't you fucking move!
+ຢ່າເຄື່ອນຍ້າຍ! ຢ່າເຄື່ອນໄຫວ!
+
+1123
+01:14:54,900 --> 01:14:56,900
+[SINDONE]
+Hey!   Take a pill, Robocop.
+ເຮ້! ເອົາເມັດ, ໂຣໂບໂກບ.
+
+1124
+01:14:57,400 --> 01:15:03,400
+[VITTI]
+I can't believe it. You took a bullet for me. What doctor ever did that much for a patient? I'll never forget that.
+ຂ້ອຍບໍ່ເຊື່ອມັນ. ເຈົ້າໄດ້ເອົາລູກປືນ ສໍາ ລັບຂ້ອຍ.
+ຫມໍໃດເຄີຍເຮັດຫຼາຍປານໃດ ສໍາ ລັບຄົນເຈັບ? ຂ້ອຍຈະບໍ່ລືມມັນເລີຍ.
+
+1125
+01:15:03,900 --> 01:15:05,900
+[BEN]
+Paul -- I tripped.
+ໂປລ - ຂ້ອຍຕົກລົງ.
+
+1126
+01:15:06,400 --> 01:15:08,500
+[VITTI]
+Yeah. You tripped over your unconscious.
+ແມ່ນແລ້ວ. ເຈົ້າກະຕຸ້ນຄວາມບໍ່ຮູ້ສຶກຂອງທ່ານ.
+
+1127
+01:15:09,000 --> 01:15:13,550
+[DONNY]
+I don't think my mother really listens when I talk. She never listened.
+ຂ້ອຍບໍ່ຄິດວ່າແມ່ຂອງຂ້ອຍຟັງແທ້ໆເມື່ອຂ້ອຍເວົ້າ. ນາງບໍ່ເຄີຍຟັງເລີຍ.
+
+1128
+01:15:14,050 --> 01:15:16,500
+[VITTI]
+And how does that make you feel?
+ແລະມັນເຮັດໃຫ້ເຈົ້າຮູ້ສຶກແນວໃດ?
+
+1129
+01:15:17,000 --> 01:15:19,000
+[DONNY]
+It makes me feel angry.
+ມັນເຮັດໃຫ້ຂ້ອຍຮູ້ສຶກໂຊກຮ້າຍ.
+
+1130
+01:15:19,500 --> 01:15:22,300
+[VITTI]
+I'll bet you feel hurt, too, don't you?
+ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຮູ້ສຶກເຈັບປວດເຊັ່ນກັນ, ແມ່ນບໍ?
+
+1131
+01:15:22,800 --> 01:15:24,800
+[DONNY]
+Yes, I do.
+ແມ່ນແລ້ວ, ຂ້ອຍເຮັດ.
+
+1132
+01:15:25,300 --> 01:15:28,450
+[BEN]
+Paul, what would you say about what Donny's feeling?
+ໂປລ, ເຈົ້າຈະເວົ້າແນວໃດກ່ຽວກັບຄວາມຮູ້ສຶກຂອງດອນນີ?
+
+1133
+01:15:28,950 --> 01:15:34,950
+[VITTI]
+Donny, when you're thirsty, you don't go to the wall -- you go to the well. You know what I'm saying? Your mother may never be able to listen to you, but you have friends here who will. Okay?
+ດອນນີ, ເມື່ອເຈົ້າຢາກດື່ມ, ເຈົ້າບໍ່ໄປຫາກໍາແພງ - ເຈົ້າໄປຫານ້ ໍາ. ເຈົ້າຮູ້ວ່າຂ້ອຍເວົ້າຫຍັງ
+? ແມ່ຂອງເຈົ້າອາດຈະບໍ່ເຄີຍສາມາດຟັງເຈົ້າໄດ້, ແຕ່ເຈົ້າມີເພື່ອນຢູ່ບ່ອນນີ້ທີ່ຈະເຮັດໄດ້. ດີບໍ?
+
+1134
+01:15:35,450 --> 01:15:40,000
+[BEN]
+And be patient, Donny. Most people's problems take months, sometimes years to resolve.
+ແລະມີຄວາມອົດທົນ, ດອນນີ. ບັນຫາຂອງຄົນສ່ວນໃຫຍ່ໃຊ້ເວລາຫຼາຍເດືອນ
+, ບາງຄັ້ງຫຼາຍປີເພື່ອແກ້ໄຂ.
+
+1135
+01:15:40,500 --> 01:15:42,500
+[DONNY]
+I'm doing twenty-five to life.
+ຂ້ອຍ ກໍາ ລັງເຮັດສິບຫ້າຈົນເຖິງຊີວິດ.
+
+1136
+01:15:43,000 --> 01:15:45,100
+[BEN]
+That should be plenty of time.
+ນັ້ນຄວນມີເວລາພຽງພໍ.
+
+1137
+01:15:45,600 --> 01:15:49,800
+[BEN]
+You know they found Primo Sindone dead in a field near LaGuardia.
+ເຈົ້າຮູ້ແລ້ວວ່າພວກເຂົາພົບ Primo Sindone
+ຕາຍຢູ່ໃນສະ ຫນາມ ໃກ້ກັບ LaGuardia.
+
+1138
+01:15:50,300 --> 01:15:56,300
+[VITTI]
+I heard.  I had nothing to do with it. There were guys lined up from Canarsie to Atlantic City who wanted to whack that bastard.
+ຂ້ອຍໄດ້ຍິນແລ້ວ. ຂ້ອຍບໍ່ມີຫຍັງກ່ຽວຂ້ອງກັບມັນ. ມີຜູ້ຊາຍຕິດແຖວຈາກ
+Canarsie ເຖິງ Atlantic City ທີ່ຢາກຂ້າຄົນໂຊກຮ້າຍນັ້ນ.
+
+1139
+01:15:56,800 --> 01:15:58,800
+[BEN]
+Okay, just checking.
+ດີ, ພຽງແຕ່ກວດສອບ.
+
+1140
+01:15:59,300 --> 01:16:04,200
+[VITTI]
+You know, Doc, I don't think I ever thanked you properly for curing me.
+ເຈົ້າຮູ້ແລ້ວ, ດອກ, ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍເຄີຍຂອບໃຈເຈົ້າຢ່າງຖືກຕ້ອງ
+ສໍາ ລັບການປິ່ນປົວຂ້ອຍ.
+
+1141
+01:16:04,700 --> 01:16:08,900
+[BEN]
+We don't say 'cured.' We say you had a 'corrective emotional experience.'
+ພວກເຮົາບໍ່ໄດ້ເວົ້າວ່າ' ປິ່ນປົວ'.
+ພວກເຮົາເວົ້າວ່າເຈົ້າມີ' ປະສົບການທາງຈິດໃຈທີ່ແກ້ໄຂ'.
+
+1142
+01:16:09,400 --> 01:16:11,400
+[VITTI]
+You, you, you're very good.
+ເຈົ້າເຈົ້າເຈົ້າເຈົ້າດີຫຼາຍ.
+
+1143
+01:16:11,900 --> 01:16:13,900
+[BEN]
+No.   You. You.
+ບໍ່, ເຈົ້າ. ເຈົ້າ.
+
+1144
+01:16:14,400 --> 01:16:16,400
+[BEN]
+Happy?
+ດີໃຈບໍ?
+
+1145
+01:16:16,900 --> 01:16:19,350
+[LAURA]
+I just can't get used to it.
+ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດເຄີຍກັບມັນໄດ້.
+
+1146
+01:16:19,850 --> 01:16:21,850
+[BEN]
+What?
+ຫຍັງ?
+
+1147
+01:16:22,350 --> 01:16:28,350
+[LAURA]
+It's been three weeks since the last time you were kidnapped. I don't know if I can adjust.
+ມັນເປັນເວລາສາມອາທິດນັບຕັ້ງແຕ່ເຈົ້າຖືກລັກພາຕົວຄັ້ງສຸດທ້າຍ
+. ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍສາມາດປັບຕົວໄດ້ບໍ.
+
+1148
+01:16:28,850 --> 01:16:31,300
+[BEN]
+What do you say, Tony?   One more?
+ເຈົ້າຄິດແນວໃດ, ໂຕນີ? ອີກຫນຶ່ງບໍ?
+
+1149
+01:16:31,800 --> 01:16:37,800
+[TONY BENNETT]
+Whatever you want, Dr. Sobol. My friend told me to stay as long as you wanted me. What do you want to hear, Mrs. Sobol?
+ເຈົ້າຢາກຫຍັງກໍ່ຕາມ, ດຣ ໂຊໂບລ. ເພື່ອນຂອງຂ້ອຍບອກຂ້ອຍໃຫ້ຢູ່ດົນເທົ່າທີ່ທ່ານຕ້ອງການຂ້ອຍ
+. ເຈົ້າຢາກຍິນຫຍັງ, ທ່ານນາງໂຊບລ?
+
+1150
+01:16:38,300 --> 01:16:40,300
+[LAURA]
+Your choice, Tony.
+ການເລືອກຂອງທ່ານ, ໂຕນີ.
+
+1151
+01:16:40,800 --> 01:16:44,650
+[TONY BENNETT]
+I was hoping you'd say that.  'World on a String,' fellas.
+ຂ້ອຍຫວັງວ່າເຈົ້າຈະເວົ້າແບບນັ້ນ. ໂລກຢູ່ເທິງສາຍແອວ, ພວກຜູ້ຊາຍ.
+

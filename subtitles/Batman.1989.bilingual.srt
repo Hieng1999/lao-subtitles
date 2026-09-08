@@ -1,0 +1,3850 @@
+1
+00:00:10,000 --> 00:00:12,000
+[BATMAN]
+Screenplay by
+ຮູບເງົາໂດຍ
+
+2
+00:00:12,500 --> 00:00:14,500
+[FIRST DRAFT]
+October 20, 1986
+ວັນທີ 20 ຕຸລາ 1986
+
+3
+00:00:15,000 --> 00:00:18,850
+[MOM]
+For God's sake, Harold, can we please just get a taxi??
+ສໍາລັບພຣະເຈົ້າ, ຮາໂລດ, ພວກເຮົາສາມາດເອົາແທັກຊີໄດ້ບໍ??
+
+4
+00:00:19,350 --> 00:00:21,450
+[DAD]
+I'm trying to get a --
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເອົາ...
+
+5
+00:00:21,950 --> 00:00:27,900
+[TAXI!!]
+Three cabs streak pass and disappear. MOM grimaces in frustration as LITTLE JIMMY consults a subway map.
+ລົດແທັກຊີສາມສາຍຜ່ານແລະຫາຍໄປ.
+ແມ່ສັ່ນສະເທືອນໃນຄວາມໂຊກຮ້າຍໃນຂະນະທີ່ຈິມມີນ້ອຍປຶກສາແຜນທີ່ລົດໄຟໃຕ້ດິນ.
+
+6
+00:00:28,400 --> 00:00:30,400
+[JIMMY]
+We're going the wrong way.
+ພວກເຮົາ ກໍາ ລັງໄປທາງທີ່ບໍ່ຖືກຕ້ອງ.
+
+7
+00:00:30,900 --> 00:00:33,350
+[DAD]
+Put that away. We'll look like tourists.
+ເອົາມັນໄວ້. ພວກເຮົາຈະເບິ່ງຄືວ່າເປັນນັກທ່ອງທ່ຽວ.
+
+8
+00:00:33,850 --> 00:00:35,850
+[JIMMY]
+Seventh is that way.
+ທີເຈັດແມ່ນທາງນັ້ນ.
+
+9
+00:00:36,350 --> 00:00:38,350
+[DAD]
+I know where we are!
+ຂ້ອຍຮູ້ວ່າພວກເຮົາຢູ່ໃສ!
+
+10
+00:00:38,850 --> 00:00:40,850
+[VOICE]
+Hey, mister. Gimme a dollar?
+ເຮ້, ທ້າວ. ໃຫ້ຂ້ອຍໂດລາບໍ?
+
+11
+00:00:41,350 --> 00:00:47,350
+[DERELICT]
+Mister. How about it. One dollar?  One dollar, man. Are you deaf? Are you deaf? -- Do you speak English??
+ເຈົ້າ. ມັນແນວໃດ. ໂດລາຫນຶ່ງ? ໂດລາ ຫນຶ່ງ, ຜູ້ຊາຍ.
+ເຈົ້າຫູຫນວກບໍ? ເຈົ້າຫູກບໍ? - ເຈົ້າເວົ້າພາສາອັງກິດບໍ??
+
+12
+00:00:47,850 --> 00:00:50,650
+[STREET PUNK]
+Do the kid a favor, lady. Don't scream.
+ເຮັດໃຫ້ເດັກນ້ອຍເປັນຄວາມຮັສຕາ ລາວິສຕາ, ເບບີ້່ຍິງ. ຢ່າຮ້ອງໄຫ້.
+
+13
+00:00:51,150 --> 00:00:54,650
+[NICK]
+All right. The Gold Card.  Don't leave home without it.
+ດີແລ້ວ. ບັດຄໍາ. ຢ່າອອກຈາກເຮືອນໂດຍບໍ່ມີມັນ.
+
+14
+00:00:55,150 --> 00:00:58,650
+[EDDIE]
+Let's beat it, man. I don't like being up here.
+ພວກເຮົາເອົາຊະນະມັນແມ. ຂ້ອຍບໍ່ມັກຢູ່ເທິງນີ້.
+
+15
+00:00:59,150 --> 00:01:01,150
+[NICK]
+What, scared of heights?
+ຫຍັງ, ຢ້ານຄວາມສູງບໍ?
+
+16
+00:01:01,650 --> 00:01:05,150
+[EDDIE]
+I dunno, man. After what happened to Johnny Gobs --
+ຂ້ອຍບໍ່ຮູ້, ຜູ້ຊາຍ. ຫຼັງຈາກສິ່ງທີ່ເກີດຂຶ້ນກັບຈອນນີ ແກບສ໌ -
+
+17
+00:01:05,650 --> 00:01:10,900
+[NICK]
+Look, Johnny Gobs got ripped and walked off a roof, all right? No big loss.
+ເບິ່ງ, ຈອນນີ ແກບສ໌ຖືກແຕກແລະຍ່າງລົງຈາກເຮືອນຫລັງ
+, ດີບໍ? ບໍ່ມີການສູນເສຍໃຫຍ່.
+
+18
+00:01:11,400 --> 00:01:17,400
+[EDDIE]
+That ain't what I heard. That ain't what I heard at all.  I heard the bat got him.
+ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍໄດ້ຍິນ.
+ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ສັນໄດ້ຍິນເລີຍ. ຂ້ອຍໄດ້ຍິນວ່າແມວໄດ້ຈັບລາວ.
+
+19
+00:01:17,900 --> 00:01:20,350
+[NICK]
+Gimme a break, will you? Shut up...
+ໃຫ້ຂ້ອຍພັກຜ່ອນ, ເຈົ້າຈະເຮັດແນວໃດ? ປິດງຽບ...
+
+20
+00:01:20,850 --> 00:01:24,700
+[EDDIE]
+Five stories, straight down. There was no blood in the body.
+ຫ້າຊັ້ນ, ໂດຍກົງລົງ. ບໍ່ມີເລືອດໃນຮ່າງກາຍ.
+
+21
+00:01:25,200 --> 00:01:28,000
+[NICK]
+No shit. It was all over the pavement.
+ບໍ່ເປັນຫຍັງ. ມັນຢູ່ທົ່ວທາງບາບ.
+
+22
+00:01:28,500 --> 00:01:34,500
+[EDDIE]
+There was no blood, man.  My brother says... all the bad things you done... they come back and haunt you...
+ບໍ່ມີເລືອດ, ຜູ້ຊາຍ. ອ້າຍຂອງຂ້ອຍເວົ້າວ່າ... ສິ່ງຮ້າຍແຮງທັງ
+ຫມົດ ທີ່ເຈົ້າເຮັດ... ພວກເຂົາກັບມາແລະລໍາບາກເຈົ້າ...
+
+23
+00:01:35,000 --> 00:01:38,850
+[NICK]
+Listen to this. How old are you? There ain't no bat.
+ຟັງສິ່ງນີ້. ເຈົ້າອາຍຸຫຼາຍປານໃດ? ບໍ່ມີແມວ.
+
+24
+00:01:39,350 --> 00:01:41,350
+[EDDIE]
+My brother's a priest, man.
+ອ້າຍຂອງຂ້ອຍເປັນປະໂລຫີ, ຜູ້ຊາຍ.
+
+25
+00:01:41,850 --> 00:01:46,400
+[NICK]
+No wonder you're such a chickenshit. Now shut up.  There ain't no bat.
+ບໍ່ແປກໃຈວ່າເຈົ້າເປັນຄົນໂຊກຮ້າຍຫຼາຍ. ດຽວນີ້ງຽບ. ບໍ່ມີແມວ.
+
+26
+00:01:46,900 --> 00:01:51,100
+[EDDIE]
+You shouldn'ta turned the gun on that kid, man. You shouldn'ta --
+ເຈົ້າບໍ່ຄວນຫັນປືນໃສ່ເດັກຄົນນັ້ນ, ຜູ້ຊາຍ. ເຈົ້າຄວນ -
+
+27
+00:01:51,600 --> 00:01:56,500
+[NICK]
+Do you want this money or don't you? Now shut up! Shut up --
+ເຈົ້າຕ້ອງການເງິນນີ້ຫຼືບໍ່? ດຽວນີ້ງຽບ! ງຽບ -
+
+28
+00:01:57,000 --> 00:02:01,200
+[BATMAN]
+I won't kill you. I want you to do me a favor.
+ຂ້ອຍຈະບໍ່ຂ້າເຈົ້າ. ຂ້ອຍຢາກໃຫ້ເຈົ້າເຮັດຄວາມສະດວກໃຫ້ຂ້ອຍ.
+
+29
+00:02:01,700 --> 00:02:07,700
+[DENT]
+... it is no longer enough to go after the small-time punks and petty criminals who infest the streets of Gotham City. Crime and corruption must be attacked at the root!
+ມັນບໍ່ພຽງພໍແລ້ວທີ່ຈະໄປຕາມຄົນໂຊກຮ້າຍຂະຫນາດນ້ອຍແລະອາຊະຍາກໍານ້ອຍໆທີ່ຕິດເຊື້ອຖະຫນົນຫົນທາງຂອງເມືອງໂກທາມ
+. ອາຊະຍາ ກໍາ ແລະ ການສໍ້ລາດບັງຫຼວງຕ້ອງຖືກໂຈມຕີຢູ່ຮາກ!
+
+30
+00:02:08,200 --> 00:02:14,200
+[DENT]
+If elected, my first act as district attorney will be to return an indictment against Boss Carl Grissom!
+ຖ້າຖືກເລືອກຕັ້ງ, ການກະ ທໍາ ທໍາ ທໍາ
+ອິດຂອງຂ້ອຍເປັນທະນາຍຄວາມເຂດຈະເປັນການສົ່ງຂໍ້ກ່າວຫາຕໍ່ຫົວຫນ້າຄາລ ແກຣສໂມ!
+
+31
+00:02:14,700 --> 00:02:20,700
+[DENT]
+Together we can make Gotham city a safe place for decent people to live and work and play.
+ພວກເຮົາພ້ອມກັນສາມາດເຮັດໃຫ້ເມືອງໂກທາມ ເປັນບ່ອນທີ່ປອດໄພ ສໍາ
+ລັບຄົນທີ່ມີຄຸນນະພາບທີ່ຈະດໍາລົງຊີວິດແລະເຮັດວຽກແລະຫຼິ້ນ.
+
+32
+00:02:21,200 --> 00:02:25,050
+[JACK NAPIER]
+Decent people shouldn't live here. They'd be much happier someplace else.
+ຄົນທີ່ສວຍງາມບໍ່ຄວນອາໄສຢູ່ບ່ອນນີ້.
+ພວກເຂົາຈະມີຄວາມສຸກຫຼາຍກວ່າບ່ອນອື່ນ.
+
+33
+00:02:25,550 --> 00:02:27,550
+[ALICIA]
+Anything new?
+ມີຫຍັງໃຫມ່ບໍ?
+
+34
+00:02:28,050 --> 00:02:34,050
+[JACK]
+The usual gas. If this clown could lay a hand on Grissom... I would've had to kill him by now.
+ແກັສປົກກະຕິ. ຖ້າຄົນໂຊກຮ້າຍຄົນນີ້ສາມາດວາງມືໃສ່ແກຣສໂມ
+... ຂ້ອຍຈະຕ້ອງຂ້າລາວໃນເວລານີ້.
+
+35
+00:02:34,550 --> 00:02:37,700
+[ALICIA]
+If Grissom knew about us... he might kill you.
+ຖ້າກຣີສໂມຮູ້ກ່ຽວກັບພວກເຮົາ... ລາວອາດຈະຂ້າເຈົ້າ.
+
+36
+00:02:38,200 --> 00:02:44,200
+[JACK]
+Don't think so, angel. I'm too valuable. That's the way I've planned it.  And besides, he doesn't know.
+ຢ່າຄິດດັ່ງນັ້ນ, ເທວະດາ. ຂ້ອຍມີຄຸນຄ່າຫຼາຍເກີນໄປ.
+ນັ້ນແມ່ນວິທີທີ່ຂ້ອຍໄດ້ວາງແຜນມັນ. ແລະນອກຈາກນັ້ນ, ລາວບໍ່ຮູ້.
+
+37
+00:02:44,700 --> 00:02:46,700
+[ALICIA]
+You look just fine, Jack.
+ເຈົ້າເບິ່ງຄືວ່າດີເລີດ, ແຈກ.
+
+38
+00:02:47,200 --> 00:02:49,200
+[JACK]
+... I didn't ask.
+ຂ້ອຍບໍ່ໄດ້ຖາມ.
+
+39
+00:02:49,700 --> 00:02:54,600
+[MEDIC]
+That one there won't say a word. The other one's raving his head off.
+ຄົນນັ້ນຢູ່ບ່ອນນັ້ນຈະບໍ່ເວົ້າຫຍັງເລີຍ. ຄົນອື່ນ ກໍາ ລັງເອົາຫົວອອກ.
+
+40
+00:02:55,100 --> 00:02:57,200
+[ECKHARDT]
+Variety, huh? The spice of life.
+ຄວາມຫຼາກຫຼາຍ, ແມ່ນບໍ? ລົດຊາດຂອງຊີວິດ.
+
+41
+00:02:57,700 --> 00:03:02,600
+[PATROLMAN]
+They found him hugging a drainpipe. He was scared to come off the roof.
+ພວກເຂົາພົບລາວຕັບທໍ່ລະບາຍນ້ ໍາ. ລາວຢ້ານທີ່ຈະລົງຈາກຊັ້ນເທິງ.
+
+42
+00:03:03,100 --> 00:03:09,050
+[KNOX]
+Great, but tell me: is this another you-know-what? 'Cause if so, it's the third one this week.
+ດີເລີດ, ແຕ່ບອກຂ້ອຍວ່າ: ນີ້ແມ່ນອີກຫນຶ່ງທີ່ທ່ານຮູ້ຫຍັງ
+? ເພາະວ່າຖ້າເປັນດັ່ງນັ້ນ, ມັນແມ່ນຄັ້ງທີສາມໃນອາທິດນີ້.
+
+43
+00:03:09,550 --> 00:03:11,550
+[PATROLMAN]
+I dunno. What's "what"?
+ຂ້ອຍບໍ່ຮູ້."ຫຍັງ" ແມ່ນຫຍັງ?
+
+44
+00:03:12,050 --> 00:03:15,550
+[KNOX]
+Good answer. I'm gonna put you in for a commendation.
+ຄໍາຕອບທີ່ດີ. ຂ້ອຍຈະເອົາເຈົ້າເຂົ້າຮັບການຊົມເຊີຍ.
+
+45
+00:03:16,050 --> 00:03:18,050
+[ECKHARDT]
+Oh Christ, it's Knox.
+ໂອ້ ພຣະຄຣິດ, ມັນແມ່ນໂນກສ໌.
+
+46
+00:03:18,550 --> 00:03:21,350
+[KNOX]
+Hiya, gents. This anything I should know about?
+ສະບາຍດີ, ພວກເຈົ້າ. ນີ້ແມ່ນບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍຄວນຮູ້ກ່ຽວກັບບໍ?
+
+47
+00:03:21,850 --> 00:03:23,850
+[ECKHARDT]
+Nothing out of the routine.
+ບໍ່ມີຫຍັງນອກຈາກປົກກະຕິ.
+
+48
+00:03:24,350 --> 00:03:29,950
+[NICK]
+A bat, I tell you, a giant bat! He wanted me to do him a favor...!
+ແມງໄມ້, ຂ້ອຍບອກເຈົ້າ, ແມງໄມໃຫຍ່!
+ລາວຢາກໃຫ້ຂ້ອຍເຮັດຄວາມສະບາຍດີລາວ...!
+
+49
+00:03:30,450 --> 00:03:34,300
+[KNOX]
+No offense, boys, but these guys are seeing something up there.
+ບໍ່ຕ້ອງໂຊກຮ້າຍ, ພວກຜູ້ຊາຍ, ແຕ່ພວກຜູ້ຊາຍເຫຼົ່ານີ້
+ກໍາ ລັງເຫັນບາງສິ່ງບາງຢ່າງຢູ່ເທິງນັ້ນ.
+
+50
+00:03:34,800 --> 00:03:36,900
+[ECKHARDT]
+No comment. Print what you like.
+ບໍ່ມີຄໍາເຫັນ. ພິມສິ່ງທີ່ທ່ານມັກ.
+
+51
+00:03:37,400 --> 00:03:41,600
+[KNOX]
+Come on. One question. Is there a six-foot bat in Gotham City?
+ມາແລ້ວ. ຄໍາ ຖາມດຽວ. ມີແມວຫົກຕີນຢູ່ເມືອງໂກທາມບໍ?
+
+52
+00:03:42,100 --> 00:03:44,100
+[JACK]
+You didn't show up.
+ເຈົ້າບໍ່ໄດ້ປາກົດຕົວ.
+
+53
+00:03:44,600 --> 00:03:46,600
+[ECKHARDT]
+We had another bat sighting.
+ພວກເຮົາມີການເຫັນແມວອີກຄັ້ງ.
+
+54
+00:03:47,100 --> 00:03:53,100
+[JACK]
+I'm sure that was vitally important. Listen: things are heating up. Someone is leaking information to Harvey Dent.
+ຂ້ອຍແນ່ໃຈວ່າມັນມີຄວາມສໍາຄັນຫຼາຍ. ຟັງ: ສິ່ງຕ່າງໆ ກໍາ
+ລັງຮ້ອນຂຶ້ນ. ບາງຄົນ ກໍາ ລັງຮົ່ວໄຫລຂໍ້ມູນໃຫ້ຮາເວ ເດັນຕ໌.
+
+55
+00:03:53,600 --> 00:03:57,450
+[ECKHARDT]
+I'm doing the best I can. If it's a problem --
+ຂ້ອຍ ກໍາ ລັງເຮັດດີທີ່ສຸດທີ່ຂ້ອຍສາມາດເຮັດໄດ້. ຖ້າມັນເປັນບັນຫາ -
+
+56
+00:03:57,950 --> 00:04:00,050
+[JACK]
+Eckhardt... our problems are your problems.
+ເອັກຮາດຕ໌... ບັນຫາຂອງພວກເຮົາແມ່ນບັນຫາຂອງທ່ານ.
+
+57
+00:04:00,550 --> 00:04:02,550
+[ECKHARDT]
+I'll work on it.
+ຂ້ອຍຈະເຮັດວຽກຢູ່ເທິງມັນ.
+
+58
+00:04:03,050 --> 00:04:07,950
+[JACK]
+Very nice, Lieutenant. But a little ostentatious on a cop's salary, don't you think?
+ດີຫຼາຍ, ສະຫມັກ. ແຕ່ໂຊກຮ້າຍ ຫນ້ອຍ ຫນຶ່ງ
+ກ່ຽວກັບເງິນເດືອນຂອງຕໍາຫຼວດ, ເຈົ້າບໍ່ຄິດບໍ?
+
+59
+00:04:08,450 --> 00:04:11,250
+[ECKHARDT]
+I answer to Grissom, punk. Not to you.
+ຂ້ອຍຕອບກັບກຣີສໂມ, ຄົນໂຊກຮ້າຍ. ບໍ່ແມ່ນເຈົ້າ.
+
+60
+00:04:11,750 --> 00:04:15,950
+[JACK]
+You're a smart boy, Eckhardt. You should be thinking about the future.
+ເຈົ້າເປັນເດັກຊາຍທີ່ສະຫຼາດ, ເອັກຮາດຕ໌. ເຈົ້າຄວນຄິດກ່ຽວກັບອະນາຄົດ.
+
+61
+00:04:16,450 --> 00:04:19,600
+[ECKHARDT]
+Ambition.  Forget it, Jack. You'll never run that organization.
+ຄວາມຕັ້ງໃຈ. ລືມມັນ, ແຈກ. ເຈົ້າຈະບໍ່
+ດໍາ ເນີນການອົງການດັ່ງກ່າວເລີຍ.
+
+62
+00:04:20,100 --> 00:04:22,100
+[JACK]
+And why's that?
+ແລະເປັນຫຍັງນັ້ນ?
+
+63
+00:04:22,600 --> 00:04:27,150
+[ECKHARDT]
+You're a psycho, friend. You're an A-one crazy boy and Grissom knows it.
+ເຈົ້າເປັນຄົນຈິດໃຈ, ເພື່ອນ.
+ເຈົ້າເປັນເດັກຊາຍໂຊກຮ້າຍ A-one ແລະ Grissom ຮູ້ມັນ.
+
+64
+00:04:27,650 --> 00:04:29,650
+[JACK]
+Here. Use mine.
+ມາແລ້ວ. ໃຊ້ຂອງຂ້ອຍ.
+
+65
+00:04:30,150 --> 00:04:32,600
+[KNOX]
+What have you got for me, Jerry?
+ເຈົ້າມີຫຍັງ ສໍາ ລັບຂ້ອຍ, ເຈຣີ?
+
+66
+00:04:33,100 --> 00:04:35,200
+[COLLEAGUE]
+Hey Knox, you got a visitor.
+ເຮ້ ໂນກສ໌, ເຈົ້າມີແຂກ.
+
+67
+00:04:35,700 --> 00:04:39,550
+[KNOX]
+I'm real busy, Clark. Be a pal and dust him, okay?
+ຂ້ອຍມີວຽກຫຼາຍ, ຄລາກ. ເປັນເພື່ອນແລະຂີ້ຝຸ່ນລາວ, ດີບໍ?
+
+68
+00:04:40,050 --> 00:04:42,850
+[COLLEAGUE]
+This one you might want to dust yourself.
+ອັນນີ້ເຈົ້າອາດຈະຢາກຂີ້ຝຸ່ນຕົວເອງ.
+
+69
+00:04:43,350 --> 00:04:45,350
+[KNOX]
+... Vicki Vale.
+... ວິກກີ ເວລ.
+
+70
+00:04:45,850 --> 00:04:47,950
+[VICKI]
+How'd you know it was me?
+ເຈົ້າຮູ້ແນວໃດວ່າມັນແມ່ນຂ້ອຍ?
+
+71
+00:04:48,450 --> 00:04:54,450
+[KNOX]
+Honey -- I would know any randomly selected square inch of Vicki Vale.  If I had a good enough hint.
+ແມວ - ຂ້ອຍຈະຮູ້ທຸກນິ້ວສີ່ແມັດທີ່ຖືກເລືອກໂດຍອັດຕະໂນມັດຂອງວິກກີ
+ເວລ. ຖ້າຂ້ອຍມີຊີ້ບອກທີ່ດີພໍສົມຄວນ.
+
+72
+00:04:54,950 --> 00:04:56,950
+[VICKI]
+A nice, restful vacation.
+ການພັກຜ່ອນທີ່ສວຍງາມແລະພັກຜ່ອນ.
+
+73
+00:04:57,450 --> 00:05:00,250
+[KNOX]
+God, a girl could get hurt doing this.
+ພຣະເຈົ້າ, ເດັກຍິງສາມາດໄດ້ຮັບບາດເຈັບຈາກການເຮັດສິ່ງນີ້.
+
+74
+00:05:00,750 --> 00:05:02,750
+[VICKI]
+I do get hurt.
+ຂ້ອຍເຈັບປວດແທ້ໆ.
+
+75
+00:05:03,250 --> 00:05:05,250
+[KNOX]
+Got any more of those?
+ເຈົ້າມີອີກບໍ?
+
+76
+00:05:05,750 --> 00:05:10,650
+[VICKI]
+Nothing I'm at liberty to reveal here. What's new and hot in Gotham City?
+ບໍ່ມີຫຍັງທີ່ຂ້ອຍມີສິດທີ່ຈະເປີດເຜີຍຢູ່ນີ້
+. ມີຫຍັງໃຫມ່ແລະຮ້ອນໃນເມືອງໂກທາມ?
+
+77
+00:05:11,150 --> 00:05:17,150
+[KNOX]
+It's too good, Vick. We got a six- foot bat that swoops out of the night and preys on evildoers.
+ມັນດີເກີນໄປ, ວິກ.
+ພວກເຮົາມີແມວຫົກຕີນທີ່ໂດດອອກຈາກຄືນແລະລ້ຽງຄົນຮ້າຍ.
+
+78
+00:05:17,650 --> 00:05:19,650
+[VICKI]
+Evildoers, huh? Big or small?
+ພວກກະທໍາຮ້າຍ, ແມ່ນບໍ? ໃຫຍ່ຫຼືນ້ອຍ?
+
+79
+00:05:20,150 --> 00:05:25,050
+[KNOX]
+Small so far. I mean -- they don't allow bats in boardrooms, do they.
+ນ້ອຍຈົນເຖິງປະຈຸບັນ. ຂ້ອຍຫມາຍຄວາມວ່າ -
+ພວກເຂົາບໍ່ອະນຸຍາດໃຫ້ແມງໄມ້ຢູ່ໃນຫ້ອງປະຊຸມ, ແມ່ນບໍ.
+
+80
+00:05:25,550 --> 00:05:31,550
+[VICKI]
+Speaking of which... I hear the notorious Bruce Wayne is throwing a big do for the Harvey Dent campaign.
+ເວົ້າເຖິງນັ້ນ... ຂ້ອຍໄດ້ຍິນວ່າບຣູສ ເວີນທີ່ມີຊື່ສຽງ
+ກໍາ ລັງຈັດງານໃຫຍ່ ສໍາ ລັບການໂຄສະນາຮາວເວ ເດັນຕ໌.
+
+81
+00:05:32,050 --> 00:05:36,950
+[KNOX]
+Yeah. Hottest ticket in town. Every law'n'order freak in the city's gonna be there.
+ແມ່ນແລ້ວ. ປີ້ທີ່ຮ້ອນທີ່ສຸດໃນເມືອງ.
+ຄົນໂຊກຮ້າຍທຸກຄົນໃນເມືອງຈະຢູ່ບ່ອນນັ້ນ.
+
+82
+00:05:37,450 --> 00:05:39,450
+[VICKI]
+No.
+ບໍ່
+
+83
+00:05:39,950 --> 00:05:43,800
+[KNOX]
+Well, I'm starving. Will you at least buy me a hamburger?
+ດີ, ຂ້ອຍ ກໍາ ລັງຍຶດຫິວ. ເຈົ້າຈະຊື້ແຮມເບີເກີໃຫ້ຂ້ອຍຢ່າງຫນ້ອຍບໍ?
+
+84
+00:05:44,300 --> 00:05:46,400
+[VICKI]
+Yes, but please -- be gentle.
+ແມ່ນແລ້ວ, ແຕ່ຂໍຮ້ອງ - ເປັນອ່ອນແອ.
+
+85
+00:05:46,900 --> 00:05:52,500
+[GRISSOM]
+Nine points ahead in the new poll. I don't like the way this is shaping up.
+ຂ້ອຍບໍ່ມັກວິທີທີ່ສິ່ງນີ້ ກໍາ ລັງສ້າງຂື້ນ.
+
+86
+00:05:53,000 --> 00:05:57,200
+[JACK]
+We can always pop him. -- Or pop someone close to him.
+ພວກເຮົາສາມາດຈັບລາວໄດ້ສະເຫມີ. - ຫຼືຈັບຄົນໃກ້ກັບລາວ.
+
+87
+00:05:57,700 --> 00:05:59,800
+[LIEUTENANT]
+Let's feed him to the bat.
+ພວກເຮົາໃຫ້ອາຫານລາວໃຫ້ແມວ.
+
+88
+00:06:00,300 --> 00:06:06,300
+[GRISSOM]
+He's going after our front companies. Specifically Ace Chemical. Which would tie us in with Councilman Kane, Senator Miller... on up the line.  We have to clean out our files before the subpoena comes down.
+ລາວ ກໍາ ລັງໄປຕາມບໍລິສັດທາງຫນ້າຂອງພວກເຮົາ. ໂດຍສະເພາະ Ace Chemical. ເຊິ່ງຈະເຊື່ອມໂຍງພວກເຮົາກັບສະມາຊິກສະພາເຄນ
+, ສະມາຊິກສະພາສູງມິລເລີ... ຢູ່ເທິງສາຍ. ພວກເຮົາຕ້ອງເຮັດຄວາມສະອາດເອກະສານຂອງພວກເຮົາກ່ອນທີ່ການເອີ້ນລົງ.
+
+89
+00:06:06,800 --> 00:06:09,250
+[LIEUTENANT]
+How do we go? The usual fire?
+ພວກເຮົາຈະໄປແນວໃດ? ໄຟປົກກະຕິບໍ?
+
+90
+00:06:09,750 --> 00:06:13,250
+[GRISSOM]
+I'm thinking break-in. Trash the office, remove the relevant documents...
+ຂ້ອຍ ກໍາ ລັງຄິດການລັກລອບເຂົ້າ. ທໍາ
+ລາຍຫ້ອງການ, ເອົາເອກະສານທີ່ກ່ຽວຂ້ອງອອກ...
+
+91
+00:06:13,750 --> 00:06:15,750
+[JACK]
+"Industrial espionage."
+ການສືບລັບອຸດສາຫະກໍາ.
+
+92
+00:06:16,250 --> 00:06:20,800
+[GRISSOM]
+That's right. And Jack --  I'd like you to handle this operation personally.
+ນັ້ນແມ່ນຄວາມຈິງ. ແລະແຈກ -
+ຂ້ອຍຢາກໃຫ້ເຈົ້າຈັດການປະຕິບັດງານນີ້ດ້ວຍຕົວເອງ.
+
+93
+00:06:21,300 --> 00:06:23,300
+[JACK]
+... Me?
+ຂ້ອຍບໍ?
+
+94
+00:06:23,800 --> 00:06:28,000
+[GRISSOM]
+Hello, sweetheart. I wonder if you'd mind waiting in the other room.
+ສະບາຍດີແມ. ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າບໍ່ສົນໃຈຖ້າຢູ່ຫ້ອງອື່ນບໍ.
+
+95
+00:06:28,500 --> 00:06:32,000
+[JACK]
+Why do you need me to handle a simple break-in?
+ເຈົ້າຕ້ອງການຂ້ອຍເພື່ອຮັບມືກັບການລັກລອບງ່າຍດາຍເປັນຫຍັງ?
+
+96
+00:06:32,500 --> 00:06:34,950
+[GRISSOM]
+Because I want someone I can trust.
+ເພາະຂ້ອຍຢາກມີຄົນທີ່ຂ້ອຍເຊື່ອຖືໄດ້.
+
+97
+00:06:35,450 --> 00:06:37,450
+[JACK]
+I understand.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+98
+00:06:37,950 --> 00:06:40,050
+[GRISSOM]
+Jack. Don't forget your lucky deck.
+ຄຸເຂົ່າລົງ
+
+99
+00:06:40,550 --> 00:06:43,350
+[KNOX]
+How high up would you say that is?
+ເຈົ້າຈະເວົ້າວ່າມັນສູງປານໃດ?
+
+100
+00:06:43,850 --> 00:06:45,950
+[ALFRED]
+I'd say about thirty feet, sir.
+ຂ້ອຍຈະເວົ້າວ່າປະມານສາມສິບແມັດເດີເດີ.
+
+101
+00:06:46,450 --> 00:06:51,000
+[KNOX]
+You know, if you cut your bathroom in half, you'd have my apartment.
+ເຈົ້າຮູ້ແລ້ວ, ຖ້າເຈົ້າຕັດຫ້ອງນ້ ໍາ
+ຂອງເຈົ້າເປັນເຄິ່ງຫນຶ່ງ, ເຈົ້າຈະມີເຮືອນຂອງຂ້ອຍ.
+
+102
+00:06:51,500 --> 00:06:53,500
+[ALFRED]
+Which bathroom is that, air?
+ນັ້ນແມ່ນຫ້ອງນ້ ໍາ ໃດ, ອາກາດບໍ?
+
+103
+00:06:54,000 --> 00:06:56,000
+[KNOX]
+The small one.
+ຄົນນ້ອຍໆ.
+
+104
+00:06:56,500 --> 00:06:59,650
+[VICKI]
+Some. I am a rich bitch, remember.  I'm quoting.
+ບາງຄົນ. ຂ້ອຍເປັນໂຊກຮ້າຍທີ່ຮັ່ງມີ, ຈື່ໄວ້. ຂ້ອຍ ກໍາ ລັງອ້າງອີງ.
+
+105
+00:07:00,150 --> 00:07:06,150
+[KNOX]
+Yeah, I guess we move in different circles. -- Though I did meet a one-eyed pimp last week.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າພວກເຮົາເຄື່ອນຍ້າຍໃນວົງຈອນທີ່ແຕກຕ່າງກັນ. -
+ເຖິງແມ່ນວ່າຂ້ອຍໄດ້ພົບກັບຄົນສໍ້ໂກງທີ່ມີຕາດຽວໃນອາທິດທີ່ຜ່ານມາ.
+
+106
+00:07:06,650 --> 00:07:10,150
+[KNOX]
+Commissioner Gordon! What do you hear from our pointy-eared friend?
+ເຈົ້າຫນ້າທີ່ໂກດອນ! ເຈົ້າໄດ້ຍິນຫຍັງຈາກເພື່ອນຂອງພວກເຮົາທີ່ມີຫູສ່ອງ?
+
+107
+00:07:10,650 --> 00:07:15,900
+[GORDON]
+Knox, for the ninth time, and you can quote me -- there is no bat.
+ໂນກສ໌, ເປັນຄັ້ງທີສິບ,
+ແລະເຈົ້າສາມາດອ້າງຄໍາເວົ້າຂອງຂ້ອຍໄດ້ - ບໍ່ມີແມວ.
+
+108
+00:07:16,400 --> 00:07:20,250
+[KNOX]
+Aww, Commissioner. There's gotta be one honest cop in Gotham city.
+ໂອ້, ຄະນະກໍາມະການ. ຕ້ອງມີຕໍາຫຼວດຊື່ສັດຄົນດຽວໃນເມືອງໂກຕາມ.
+
+109
+00:07:20,750 --> 00:07:22,750
+[DENT]
+How's your luck, Jim?
+ໂຊກດີແນວໃດ, ຈິມ?
+
+110
+00:07:23,250 --> 00:07:26,050
+[KNOX]
+Mr. Dent. What's your stand on winged vigilantes?
+ຄຸເຂົ່າລົງ
+
+111
+00:07:26,550 --> 00:07:32,550
+[DENT]
+Mr. Knox, I think we have enough real problems in this city without worrying about ghosts and goblins and Halloween characters.
+ທ້າວໂນກສ໌,
+ຂ້ອຍຄິດວ່າພວກເຮົາມີບັນຫາທີ່ແທ້ຈິງພຽງພໍໃນເມືອງນີ້ໂດຍບໍ່ຕ້ອງກັງວົນກ່ຽວກັບຈິດວິນຍານແລະໂກບລິນແລະຕົວລະຄອນຮາໂລວິນ.
+
+112
+00:07:33,050 --> 00:07:36,900
+[KNOX]
+My question is, where does one man get all this junk.
+ຄໍາຖາມຂອງຂ້ອຍແມ່ນ,
+ຜູ້ຊາຍຄົນດຽວໄດ້ຮັບສິ່ງເສດເຫຼືອທັງ ຫມົດ ນີ້ຈາກໃສ.
+
+113
+00:07:37,400 --> 00:07:43,350
+[VICKI]
+All over the world. They say he spends most of the year overseas -- until recently, anyway.
+ໃນທົ່ວໂລກ. ພວກເຂົາເວົ້າວ່າລາວໃຊ້ເວລາສ່ວນໃຫຍ່ຂອງປີຢູ່ຕ່າງປະເທດ
+- ຈົນຮອດບໍ່ດົນມານີ້, ຢ່າງໃດກໍຕາມ.
+
+114
+00:07:43,850 --> 00:07:45,850
+[KNOX]
+Holy shit...
+ສະຫວັນນະເຂດ...
+
+115
+00:07:46,350 --> 00:07:50,550
+[VICKI]
+Just what I've heard. Rich. Reclusive. Old money and lots of it.
+ພຽງແຕ່ສິ່ງທີ່ຂ້ອຍໄດ້ຍິນ. ອຸດົມສົມບູນ
+. ສະກັດກັ້ນ. ເງິນເກົ່າແລະມັນຫຼາຍ.
+
+116
+00:07:51,050 --> 00:07:53,050
+[KNOX]
+Likes to kill?
+ມັກຂ້າບໍ?
+
+117
+00:07:53,550 --> 00:07:55,550
+[VICKI]
+Women find him magnetic.
+ແມ່ຍິງເຫັນລາວເປັນແມັກເນັດ.
+
+118
+00:07:56,050 --> 00:07:59,550
+[KNOX]
+I bet they like him for his big charity balls.
+ຂ້ອຍແນ່ໃຈວ່າພວກເຂົາມັກລາວ ສໍາ ລັບບານການຊ່ວຍເຫຼືອທີ່ໃຫຍ່ຂອງລາວ.
+
+119
+00:08:00,050 --> 00:08:03,550
+[VICKI]
+That, and the sweet smell of two hundred million bucks.
+ນັ້ນ, ແລະກິ່ນຫອມຫວານຂອງສອງຮ້ອຍລ້ານໂດລາ.
+
+120
+00:08:04,050 --> 00:08:10,050
+[KNOX]
+Well, you know me. The more they've got, the less they're worth.  This guy must be the most worthless man in America.
+ດີ, ເຈົ້າຮູ້ຈັກຂ້ອຍ. ພວກເຂົາມີຫຼາຍຂຶ້ນ, ພວກເຂົາມີມູນຄ່າ ຫນ້ອຍ
+ກວ່າ. ຜູ້ຊາຍຄົນນີ້ຕ້ອງເປັນຜູ້ຊາຍທີ່ບໍ່ມີມູນຄ່າທີ່ສຸດໃນອາເມລິກາ.
+
+121
+00:08:10,550 --> 00:08:13,000
+[BRUCE WAYNE]
+You disappoint me. Why not the world?
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍຜິດຫວັງ. ເປັນຫຍັງໂລກຈຶ່ງບໍ່?
+
+122
+00:08:13,500 --> 00:08:18,400
+[KNOX]
+I assume in my usual charming manner I've just insulted the host.  Alexander Knox.
+ຂ້ອຍຄິດວ່າໃນວິທີທີ່ສວຍງາມປົກກະຕິຂອງຂ້ອຍຂ້ອຍຫາກໍ່ໂຊກຮ້າຍເຈົ້າພາບ
+. ອາເລັກຊານດ໌ ໂນກສ໌.
+
+123
+00:08:18,900 --> 00:08:22,750
+[BRUCE]
+Bruce Wayne. -- I've read your work. I quite like it.
+ບຣູສ ເວີນ. - ຂ້ອຍໄດ້ອ່ານວຽກຂອງທ່ານແລ້ວ. ຂ້ອຍມັກມັນຫຼາຍ.
+
+124
+00:08:23,250 --> 00:08:25,250
+[KNOX]
+Great. Give me a grant.
+ດີເລີດ. ໃຫ້ຂ້ອຍເງິນຊ່ວຍເຫຼືອ.
+
+125
+00:08:25,750 --> 00:08:29,600
+[BRUCE]
+I might consider it if you introduce me to Miss Vale.
+ຂ້ອຍອາດຈະພິຈາລະນາມັນຖ້າເຈົ້າແນະນໍາຂ້ອຍໃຫ້ນາງເວລ.
+
+126
+00:08:30,100 --> 00:08:32,900
+[KNOX]
+"This is Miss Vale." -- That felt redundant.
+ນີ້ແມ່ນນາງເວລ. - ມັນຮູ້ສຶກວ່າບໍ່ຈໍາເປັນ.
+
+127
+00:08:33,400 --> 00:08:39,000
+[BRUCE]
+You're just back from Corto Maltese. I saw your combat photos. Quite a departure for you.
+ເຈົ້າຫາກໍ່ກັບມາຈາກໂກຕໂຕ ມາລເຕສ໌.
+ຂ້ອຍເຫັນຮູບການຕໍ່ສູ້ຂອງທ່ານ. ການເດີນທາງຫຼາຍ ສໍາ ລັບເຈົ້າ.
+
+128
+00:08:39,500 --> 00:08:41,950
+[VICKI]
+That's intriguing. They haven't been published yet.
+ມັນຫນ້າສົນໃຈຫຼາຍ. ພວກເຂົາຍັງບໍ່ທັນຖືກເຜີຍແຜ່ເທື່ອ.
+
+129
+00:08:42,450 --> 00:08:44,550
+[BRUCE]
+... You have an extraordinary eye.
+ເຈົ້າມີຕາທີ່ພິເສດ.
+
+130
+00:08:45,050 --> 00:08:47,150
+[KNOX]
+Some people think she has two.
+ບາງຄົນຄິດວ່ານາງມີສອງຄົນ.
+
+131
+00:08:47,650 --> 00:08:50,800
+[VICKI]
+Don't mind my friend. He's a little nervous tonight.
+ຢ່າສົນໃຈເພື່ອນຂອງຂ້ອຍ. ລາວກັງວົນເລັກນ້ອຍໃນຄືນນີ້.
+
+132
+00:08:51,300 --> 00:08:56,200
+[BRUCE]
+I don't... seek publicity. -- Will you be staying in Gotham for a while?
+ຂ້ອຍບໍ່... ຊອກຫາການໂຄສະນາ. - ເຈົ້າຈະຢູ່ໂກທາມຊົ່ວຄາວບໍ?
+
+133
+00:08:56,700 --> 00:08:58,700
+[VICKI]
+As far as I know.
+ຕາມທີ່ຂ້ອຍຮູ້.
+
+134
+00:08:59,200 --> 00:09:02,700
+[BRUCE]
+Good. Then with any luck we'll run into each other.
+ດີ. ຫຼັງຈາກນັ້ນດ້ວຍຄວາມໂຊກດີໃດໆພວກເຮົາຈະພົບກັນ.
+
+135
+00:09:03,200 --> 00:09:09,200
+[ALFRED]
+Excuse me, sir. Commissioner Gordon was compelled to leave -- very unexpectedly. He asked me to convey his regrets.
+ຂໍໂທດເດີ. ຄະນະກໍາມະການໂກດອນຖືກບັງຄັບໃຫ້ອອກຈາກ -
+ບໍ່ຄາດຫວັງຫຼາຍ. ລາວຂໍໃຫ້ຂ້ອຍສົ່ງຄວາມເສຍໃຈຂອງລາວ.
+
+136
+00:09:09,700 --> 00:09:15,650
+[BRUCE]
+Thank you, Alfred.  I hope you'll excuse me. It was a great pleasure meeting you.  And you.
+ຂອບໃຈແອລຟີດ. ຂ້ອຍຫວັງວ່າເຈົ້າຈະຂໍໂທດຂ້ອຍ.
+ມັນເປັນຄວາມສຸກທີ່ຍິ່ງໃຫຍ່ທີ່ພົບເຈົ້າ. ແລະເຈົ້າ.
+
+137
+00:09:16,150 --> 00:09:20,350
+[KNOX]
+I know the rich are different, but that guy is real different.
+ຂ້ອຍຮູ້ວ່າຄົນຮັ່ງມີແຕກຕ່າງກັນ, ແຕ່ຄົນນັ້ນແຕກຕ່າງກັນແທ້ໆ.
+
+138
+00:09:20,850 --> 00:09:22,850
+[VICKI]
+Oh. Sorry. I was thinking.
+ໂອ້ ຂໍໂທດ. ຂ້ອຍ ກໍາ ລັງຄິດ.
+
+139
+00:09:23,350 --> 00:09:25,350
+[KNOX]
+What were you thinking?
+ເຈົ້າຄິດຫຍັງຢູ່?
+
+140
+00:09:25,850 --> 00:09:27,850
+[VICKI]
+Yum, yum.
+ໂອ້, ໂອ້.
+
+141
+00:09:28,350 --> 00:09:33,600
+[KNOX]
+Well, he must like the way he looks. He's got a mirror in every room.
+ດີ, ລາວຕ້ອງມັກວິທີທີ່ລາວເບິ່ງຄືວ່າ. ລາວມີຈໍໃນແຕ່ລະຫ້ອງ.
+
+142
+00:09:34,100 --> 00:09:36,100
+[VICKI]
+I get it. Bruce Vain.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ບຣູສ ເວີນ.
+
+143
+00:09:36,600 --> 00:09:39,400
+[PATROLMAN]
+... anonymous tip. Tonight. The Ace Chemical Company.
+... ຄໍາ ແນະ ນໍາ ທີ່ບໍ່ຮູ້ຕົວ. ມື້ນີ້. ບໍລິສັດເຄມີ Ace.
+
+144
+00:09:39,900 --> 00:09:45,900
+[GORDON]
+Good Lord, it we could put our hands on Jack Napier... Why wasn't I told about this? Who's in charge of the --
+ພຣະເຈົ້າທີ່ດີ, ຖ້າພວກເຮົາສາມາດເອົາມືໃສ່ແຈກ ເນປີ...
+ເປັນຫຍັງຂ້ອຍບໍ່ໄດ້ບອກກ່ຽວກັບເລື່ອງນີ້? ໃຜເປັນຜູ້ຮັບຜິດຊອບຂອງ -
+
+145
+00:09:46,400 --> 00:09:48,400
+[PATROLMAN]
+Lt. Eckhardt, sir.
+ພົນຈັດຕະວາ ເອັກຮາດຕ໌, ທ່ານ.
+
+146
+00:09:48,900 --> 00:09:50,900
+[GORDON]
+Eckhardt. Oh my God...
+ເອັກຮາດຕ໌. ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ...
+
+147
+00:09:51,400 --> 00:09:53,400
+[ECKHARDT]
+Shoot to kill.
+ຍິງເພື່ອຂ້າ.
+
+148
+00:09:53,900 --> 00:09:55,900
+[SAFECRACKER]
+... Empty.
+... ເປົ່າ.
+
+149
+00:09:56,400 --> 00:09:58,400
+[HOOD I]
+Just like the file cabinets.
+ຄືກັບກະຕູ້ເອກະສານ.
+
+150
+00:09:58,900 --> 00:10:04,850
+[HOOD II]
+I don't get it. If this place is cleaned out already, what do we need five men?
+ຂ້ອຍບໍ່ເຂົ້າໃຈມັນ. ຖ້າບ່ອນນີ້ຖືກເຮັດຄວາມສະອາດແລ້ວ
+, ພວກເຮົາຕ້ອງການຜູ້ຊາຍຫ້າຄົນຫຍັງ?
+
+151
+00:10:05,350 --> 00:10:08,500
+[ECKHARDT]
+What are you trying to do, blow the collar?
+ເຈົ້າ ກໍາ ລັງພະຍາຍາມເຮັດຫຍັງ, ລະເບີດຄໍບໍ?
+
+152
+00:10:09,000 --> 00:10:15,000
+[GORDON]
+You men are dismissed. We'll take over from here.  Any man who opens fire on Jack Napier... will answer to me.
+ພວກເຈົ້າຖືກໄລ່ອອກ. ພວກເຮົາຈະຮັບຜິດຊອບຈາກບ່ອນນີ້.
+ຜູ້ຊາຍໃດກໍ່ຕາມທີ່ເປີດຍິງໃສ່ແຈກ ເນປີ... ຈະຕອບກັບຂ້ອຍ.
+
+153
+00:10:15,500 --> 00:10:17,500
+[COP]
+Freeze!
+ຢຸດເຊົາ!
+
+154
+00:10:18,000 --> 00:10:20,000
+[ECKHARDT]
+Nice work, Commissioner.
+ເຮັດວຽກດີໆ, ຄະນະກໍາມະການ.
+
+155
+00:10:20,500 --> 00:10:22,950
+[GORDON]
+I'm in charge here. Not Carl Grissom.
+ຂ້ອຍເປັນຜູ້ຮັບຜິດຊອບຢູ່ນີ້. ບໍ່ແມ່ນຄາລ ແກຣສໂມ.
+
+156
+00:10:23,450 --> 00:10:25,450
+[GORDON]
+My God... it's him.
+ພຣະເຈົ້າຂອງຂ້ອຍ... ມັນແມ່ນລາວ.
+
+157
+00:10:25,950 --> 00:10:31,950
+[HOLD IT!]
+In all the ruckus, HOOD V has managed to circle back behind the heavy machinery. Now he's got a GUN pointed DIRECTLY AT COMMISSIONER GORDON'S HEAD.
+ໃນຄວາມວຸ້ນວາຍທັງ ຫມົດ, HOOD V ໄດ້ສາມາດວົງຈອນກັບຄືນໄປບ່ອນຢູ່ເບື້ອງຫຼັງເຄື່ອງຈັກຫນັກ
+. ດຽວນີ້ລາວມີປືນແນໃສ່ຫົວຂອງຄະນະກໍາມະການໂກດອນໂດຍກົງ.
+
+158
+00:10:32,450 --> 00:10:34,900
+[HOOD V]
+Let him go or I'll do it.
+ໃຫ້ລາວໄປ ຫຼືຂ້ອຍຈະເຮັດມັນ.
+
+159
+00:10:35,400 --> 00:10:38,200
+[HOOD V]
+Nobody makes a move. We go out clean.
+ບໍ່ມີໃຜເຄື່ອນໄຫວ. ພວກເຮົາອອກໄປສະອາດ.
+
+160
+00:10:38,700 --> 00:10:44,700
+[ECKHARDT!!]
+ALL EYES TURN to the catwalk overhead, where JACK stands poised with the .38 in his fist. A SINGLE SHOT drops ECKHARDT cleanly.
+ຕາທັງ ຫມົດ ຫັນໄປທາງເດີ່ນທາງເທິງຫົວ, ບ່ອນທີ່ແຈກກ໌ຢືນພ້ອມດ້ວຍ
+.38 ໃນມືຂອງລາວ. ການຍິງດຽວເຮັດໃຫ້ເອັກຮາດດ໌ຕົກລົງຢ່າງສະອາດ.
+
+161
+00:10:45,200 --> 00:10:51,200
+[NO!!]
+But the bullet has caught JACK in the arm. He spins, totters to the edge of the catwalk... and TOPPLES OVER. The COPS look on helplessly as JACK plunges TWO STORIES DOWN into a CATCH BASIN full of BUBBLING TOXIC WASTE, SCREAMING ALL THE WAY.
+ຄຸເຂົ່າລົງ
+
+162
+00:10:51,700 --> 00:10:57,700
+[LOOK!]
+The COPS are firing wildly into the smoke. But it's too late. At the end of a cord, THE BLACK MAJESTIC FIGURE OF THE BATMAN whips upward, rising out of the smoke like an avenging angel -- and DISAPPEARING into the shadowy heights, safely out of range.
+ຕໍາຫຼວດ ກໍາ ລັງຍິງເຂົ້າໄປໃນສູບໄຟຢ່າງໂຊກຮ້າຍ. ແຕ່ມັນຊ້າເກີນໄປ. ໃນຕອນທ້າຍຂອງສາຍແອວ, ຮູບພາບທີ່ຍິ່ງໃຫຍ່ສີດໍາຂອງແບຕແມນ
+whips ຂຶ້ນໄປ, ຂຶ້ນຈາກສູບຢາຄືກັບເທວະດາການແກ້ແຄ້ນ - ແລະຫາຍໄປໃນຄວາມສູງຂອງເງົາ, ຢ່າງປອດໄພອອກຈາກລະດັບ.
+
+163
+00:10:58,200 --> 00:11:00,200
+[COP]
+... Who is this guy?
+ຜູ້ຊາຍຄົນນີ້ແມ່ນໃຜ?
+
+164
+00:11:00,700 --> 00:11:04,200
+[GORDON]
+I don't know, but he's one hell of a showman.
+ຂ້ອຍບໍ່ຮູ້, ແຕ່ລາວເປັນນັກສະແດງທີ່ຍິ່ງໃຫຍ່.
+
+165
+00:11:04,700 --> 00:11:10,300
+[KNOX]
+Commissioner. Do us both a favor. Don't tell me some lie you'll have to retract later.
+ຄະນະກໍາມະການ. ເຮັດຄວາມສະດວກໃຫ້ພວກເຮົາທັງສອງ.
+ຢ່າບອກຂ້ອຍຕົວະບາງຢ່າງທີ່ທ່ານຈະຕ້ອງຖອນຄືນຕໍ່ມາ.
+
+166
+00:11:10,800 --> 00:11:13,600
+[VICKI]
+Guess who's got a date with Bruce Wayne.
+ຄາດວ່າໃຜມີວັນທີກັບບຣູສ ເວີນ.
+
+167
+00:11:14,100 --> 00:11:19,000
+[KNOX]
+Bruce Wayne? Date? He called you up and asked you for a date?... Shit.
+ບຣູສ ເວີນ? ວັນທີບໍ? ລາວໂທຫາເຈົ້າແລະຂໍໃຫ້ເຈົ້າວັນທີບໍ?... ສະບາຍດີ.
+
+168
+00:11:19,500 --> 00:11:25,500
+[HEY MIRANDA! C'MERE!]
+I want you to pay close attention to this. Miranda -- tell my friend here what you told me about Bruce Wayne.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າເອົາໃຈໃສ່ເລື່ອງນີ້ຢ່າງໃກ້ຊິດ. ມິຣານດາ -
+ບອກເພື່ອນຂອງຂ້ອຍທີ່ນີ້ວ່າເຈົ້າບອກຂ້ອຍກ່ຽວກັບບຣູສ ເວີນ.
+
+169
+00:11:26,000 --> 00:11:28,000
+[MIRANDA]
+You mean Mister One-Nighter?
+ເຈົ້າຫມາຍຄວາມວ່າ ທ້າວຫນຶ່ງຄືນບໍ?
+
+170
+00:11:28,500 --> 00:11:33,050
+[KNOX]
+Yeah. "Mister One-Nighter."  Because that's the average length of his relationships with women.
+ແມ່ນແລ້ວ."ທ່ານ ຫນຶ່ງ ຄືນ."
+ເພາະວ່ານັ້ນແມ່ນຄວາມຍາວສະເລ່ຍຂອງການພົວພັນຂອງລາວກັບແມ່ຍິງ.
+
+171
+00:11:33,550 --> 00:11:39,550
+[MIRANDA]
+The current record is almost two weeks. That cover girl -- what's her name? You must've shot her, Vicki --
+ບັນທຶກປະຈຸບັນແມ່ນເກືອບສອງອາທິດ. ເດັກຍິງປົກຫຸ້ມນັ້ນ
+- ຊື່ຂອງນາງແມ່ນຫຍັງ? ເຈົ້າຕ້ອງໄດ້ຍິງນາງ, ວິກກີ -
+
+172
+00:11:40,050 --> 00:11:42,050
+[KNOX]
+Tell her about the peanuts.
+ບອກນາງກ່ຽວກັບ ຫມາກ ນັດ.
+
+173
+00:11:42,550 --> 00:11:44,550
+[VICKI]
+Peanuts?
+ຫມາກ ນັດບໍ?
+
+174
+00:11:45,050 --> 00:11:48,200
+[KNOX]
+Yeah. Peanuts. Which is how he goes through women.
+ແມ່ນແລ້ວ. ຫມາກ ນັດ. ນັ້ນແມ່ນວິທີທີ່ລາວຜ່ານແມ່ຍິງ.
+
+175
+00:11:48,700 --> 00:11:50,700
+[MIRANDA]
+Like Planter's Peanuts.
+ຄືກັບຫມາກນັດຂອງປລານເຕີ.
+
+176
+00:11:51,200 --> 00:11:56,800
+[VICKI]
+Plain or roasted?  Alex, I'm very flattered that you've gone out and done all this research.
+ງ່າຍດາຍຫຼືຖືກປຸງແຕ່ງ? ແອເລັກສ໌,
+ຂ້ອຍຍິນດີຫຼາຍທີ່ເຈົ້າໄດ້ອອກໄປແລະເຮັດການຄົ້ນຄວ້າທັງ ຫມົດ ນີ້.
+
+177
+00:11:57,300 --> 00:12:03,300
+[KNOX]
+Why?  Aw, come on, Vicki, I'm a reporter. I'm curious. I do this for a living. -- What'd you tell him?
+ເປັນຫຍັງ? ໂອ້, ມາແລ້ວ, ວິກກີ, ຂ້ອຍເປັນນັກຂ່າວ. ຂ້ອຍຢາກຮູ້ສຶກ
+. ຂ້ອຍເຮັດສິ່ງນີ້ເພື່ອຊີວິດການເປັນຢູ່. - ເຈົ້າບອກລາວຫຍັງ?
+
+178
+00:12:03,800 --> 00:12:05,800
+[VICKI]
+I told him yes.
+ຂ້ອຍບອກລາວວ່າ ແມ່ນແລ້ວ.
+
+179
+00:12:06,300 --> 00:12:08,300
+[KNOX]
+... What was that?
+ນັ້ນແມ່ນຫຍັງ?
+
+180
+00:12:08,800 --> 00:12:14,800
+[MIRANDA]
+That was one of the most gracious fuck-yous it's ever been my pleasure to watch. -- What a nice girl.
+ນັ້ນແມ່ນ ຫນຶ່ງ ໃນຄົນໂຊກແຊງທີ່ສຸດທີ່ຂ້ອຍເຄີຍມີຄວາມສຸກທີ່ຈະເບິ່ງ
+. - ເດັກຍິງທີ່ດີຫຼາຍປານໃດ.
+
+181
+00:12:15,300 --> 00:12:17,400
+[KNOX]
+Miranda, I'm busy. Go be productive.
+ມິຣານດາ, ຂ້ອຍມີວຽກເຮັດງານທໍາຫຼາຍ. ໄປເປັນຜູ້ຜະລິດ.
+
+182
+00:12:17,900 --> 00:12:19,900
+[VICKI]
+Do you sail?
+ເຈົ້າເດີນເຮືອບໍ?
+
+183
+00:12:20,400 --> 00:12:24,950
+[BRUCE]
+Too much work. I'm not really the physical type. -- Thank you, Alfred.
+ຂ້ອຍເຮັດວຽກຫຼາຍເກີນໄປ.
+ຂ້ອຍບໍ່ແມ່ນປະເພດທາງດ້ານຮ່າງກາຍແທ້ໆ. - ຂອບໃຈແອລຟີດ.
+
+184
+00:12:25,450 --> 00:12:29,650
+[VICKI]
+You do a very convincing imitation.  Mm, this is tasty. What's yours?
+ເຈົ້າເຮັດການປອມແປງທີ່ ຫນ້າ ເຊື່ອໃຈຫຼາຍ.
+ມມ, ນີ້ແມ່ນລົດຊາດດີ. ຂອງເຈົ້າແມ່ນຫຍັງ?
+
+185
+00:12:30,150 --> 00:12:36,150
+[BRUCE]
+Two drinks and I start swinging from the rooftops.  Tell me, Vicki. There's something I'm very curious about. What took you down to Corto Maltese?
+ເຄື່ອງດື່ມສອງຢ່າງແລະຂ້ອຍເລີ່ມສັ່ນສະເທືອນຈາກຊັ້ນເທິງ. ບອກຂ້ອຍ, ວິກກີ.
+ມີບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍຢາກຮູ້ສຶກຫຼາຍກ່ຽວກັບ. ເປັນຫຍັງເຈົ້າຈຶ່ງລົງໄປຫາໂກຕໂມລເຕສ?
+
+186
+00:12:36,650 --> 00:12:39,100
+[VICKI]
+... I guess I needed a change.
+ຂ້ອຍຄິດວ່າຂ້ອຍຕ້ອງການການປ່ຽນແປງ.
+
+187
+00:12:39,600 --> 00:12:44,850
+[BRUCE]
+You were one of the most successful magazine photographers in the city. Everyone wanted you.
+ເຈົ້າເປັນ ຫນຶ່ງ ໃນນັກຖ່າຍຮູບວາລະສານທີ່ປະສົບຜົນ
+ສໍາ ເລັດທີ່ສຸດໃນເມືອງ. ທຸກຄົນຕ້ອງການເຈົ້າ.
+
+188
+00:12:45,350 --> 00:12:47,800
+[VICKI]
+Have you ever been to Corto Maltese?
+ເຈົ້າເຄີຍໄປເມືອງ Corto Maltese ບໍ?
+
+189
+00:12:48,300 --> 00:12:50,300
+[BRUCE]
+Not since the shooting started.
+ບໍ່ນັບຕັ້ງແຕ່ການຍິງເລີ່ມຂຶ້ນ.
+
+190
+00:12:50,800 --> 00:12:56,800
+[VICKI]
+We went there once when I was little. I played on the beach. And at nights -- they had a band -- I danced with my father on the hotel patio.  That was Corto Maltese. When the war broke out I had to go back. And I promised myself that this time... I wouldn't look away.
+ພວກເຮົາໄປບ່ອນນັ້ນຄັ້ງຫນຶ່ງເມື່ອຂ້ອຍນ້ອຍ. ຂ້ອຍຫຼິ້ນຢູ່ຫາດຊາຍ. ແລະໃນຕອນກາງຄືນ - ພວກເຂົາມີວົງດົນຕີ - ຂ້ອຍເຕັ້ນກັບພໍ່ຂອງຂ້ອຍໃນເດີ່ນໂຮງແຮມ
+. ນັ້ນແມ່ນ Corto Maltese. ເມື່ອສົງຄາມເກີດຂຶ້ນຂ້ອຍຕ້ອງກັບຄືນໄປບ່ອນ. ແລະຂ້ອຍສັນຍາຕົວເອງວ່າໃນຄັ້ງນີ້... ຂ້ອຍຈະບໍ່ເບິ່ງຫ່າງໄປ.
+
+191
+00:12:57,300 --> 00:12:59,300
+[BRUCE]
+What did you see?
+ເຈົ້າເຫັນຫຍັງ?
+
+192
+00:12:59,800 --> 00:13:01,800
+[VICKI]
+... Terror.
+ຄວາມຢ້ານກົວ.
+
+193
+00:13:02,300 --> 00:13:06,500
+[BRUCE]
+There's terror everywhere. Some types are just more -- familiar than others.
+ມີຄວາມຢ້ານກົວຢູ່ທຸກບ່ອນ. ບາງປະເພດພຽງແຕ່ຫຼາຍຂຶ້ນ
+- ທີ່ຮູ້ຈັກຫຼາຍກ່ວາຄົນອື່ນ.
+
+194
+00:13:07,000 --> 00:13:13,000
+[VICKI]
+I'm sorry. I didn't mean to -- I know it all seems a million miles away, out here on the water, with all this --
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະ - ຂ້ອຍຮູ້ວ່າມັນທັງ ຫມົດ
+ເບິ່ງຄືວ່າຢູ່ຫ່າງໄກສອກຫຼີກຫຼາຍລ້ານແມລ, ຢູ່ບ່ອນນີ້ເທິງນ້ ໍາ, ດ້ວຍສິ່ງທັງ ຫມົດ ນີ້ -
+
+195
+00:13:13,500 --> 00:13:15,500
+[BRUCE]
+Insulation?
+ການກີດກັນບໍ?
+
+196
+00:13:16,000 --> 00:13:20,550
+[VICKI]
+Bruce, really, when I say these things I don't mean to criticize you.
+ບຣູສ, ແທ້ຈິງແລ້ວ,
+ເມື່ອຂ້ອຍເວົ້າສິ່ງເຫຼົ່ານີ້ຂ້ອຍບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະວິພາກວິຈານເຈົ້າ.
+
+197
+00:13:21,050 --> 00:13:23,500
+[BRUCE]
+I think you see things very clearly.
+ຂ້ອຍຄິດວ່າເຈົ້າເຫັນສິ່ງຕ່າງໆຢ່າງຈະແຈ້ງຫຼາຍ.
+
+198
+00:13:24,000 --> 00:13:28,550
+[VICKI]
+I'm happy to talk about something else. I don't want to be depressing.
+ຂ້ອຍດີໃຈທີ່ຈະເວົ້າກ່ຽວກັບບາງສິ່ງບາງຢ່າງອື່ນ
+. ຂ້ອຍບໍ່ຢາກເປັນຄວາມໂຊກຮ້າຍ.
+
+199
+00:13:29,050 --> 00:13:34,300
+[BRUCE]
+Do you assume that if I know you better I won't like you as much?
+ເຈົ້າຄິດວ່າຖ້າຂ້ອຍຮູ້ຈັກເຈົ້າດີກວ່າຂ້ອຍຈະບໍ່ມັກເຈົ້າຫຼາຍປານໃດບໍ?
+
+200
+00:13:34,800 --> 00:13:40,800
+[VICKI]
+I'm sorry, Bruce, I have to ask. Are you like this with the other women you know? -- Because I just can't seem to get a handle on this conversation.
+ຂ້ອຍຂໍໂທດ, ບຣູສ, ຂ້ອຍຕ້ອງຖາມ. ເຈົ້າເປັນແບບນີ້ກັບແມ່ຍິງຄົນອື່ນທີ່ທ່ານຮູ້ຈັກບໍ
+? - ເພາະວ່າຂ້ອຍພຽງແຕ່ເບິ່ງຄືວ່າບໍ່ສາມາດຮັບມືກັບການສົນທະນານີ້ໄດ້.
+
+201
+00:13:41,300 --> 00:13:47,300
+[BRUCE]
+Vicki, if I say anything cryptic, or... ambiguous, I think you should put the most flattering possible interpretation on it. Because even if it doesn't sound that way... that's how I'll mean it.
+ວິກກີ, ຖ້າຂ້ອຍເວົ້າບາງສິ່ງບາງຢ່າງທີ່ລັບສັບສົນ, ຫຼື... ambiguous, ຂ້ອຍຄິດວ່າເຈົ້າຄວນວາງການແປພາສາທີ່ ຫນ້າ
+ຊົມເຊີຍທີ່ສຸດທີ່ສາມາດເຮັດໄດ້ໃນມັນ. ເພາະວ່າເຖິງແມ່ນວ່າມັນຈະບໍ່ສຽງດັ່ງນັ້ນ... ນັ້ນແມ່ນວິທີທີ່ຂ້ອຍຈະຫມາຍຄວາມມັນ.
+
+202
+00:13:47,800 --> 00:13:52,350
+[VICKI]
+-- but it's not fair. I'm half drunk and you're not even --
+- ແຕ່ມັນບໍ່ຍຸຕິທໍາ. ຂ້ອຍດື່ມເຄິ່ງຫນຶ່ງແລະເຈົ້າຍັງບໍ່ເຖິງແມ່ນວ່າ -
+
+203
+00:13:52,850 --> 00:13:55,650
+[BRUCE]
+Would you like me to take you home?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍພາເຈົ້າກັບບ້ານບໍ?
+
+204
+00:13:56,150 --> 00:14:02,150
+[VICKI]
+God. You would.  Come on, Bruce. I just want to get two drinks in you. As an experiment.
+ພຣະເຈົ້າ. ເຈົ້າຈະເຮັດ. ມາແລ້ວ, ບຣູສ.
+ຂ້ອຍພຽງແຕ່ຢາກດື່ມສອງເຄື່ອງດື່ມໃນເຈົ້າ. ເປັນການທົດລອງ.
+
+205
+00:14:02,650 --> 00:14:04,650
+[BRUCE]
+Maybe we should just kiss.
+ບາງທີພວກເຮົາຄວນຈູບກັນເທົ່ານັ້ນ.
+
+206
+00:14:05,150 --> 00:14:07,150
+[VICKI]
+... We could try that.
+ພວກເຮົາສາມາດພະຍາຍາມໄດ້.
+
+207
+00:14:07,650 --> 00:14:10,450
+[DOCTOR]
+Well, Mr. Napier, let's see how we did.
+ດີ, ທ້າວ Napier, ມາເບິ່ງວ່າພວກເຮົາເຮັດແນວໃດ.
+
+208
+00:14:10,950 --> 00:14:12,950
+[JACK]
+Mirror.
+ຈໍ.
+
+209
+00:14:13,450 --> 00:14:15,450
+[JACK]
+Mirror.
+ຈໍ.
+
+210
+00:14:15,950 --> 00:14:19,100
+[DOCTOR]
+You understand the facial muscles were completely severed --
+ເຈົ້າເຂົ້າໃຈວ່າກ້າມຊີ້ນໃບຫນ້າຖືກຕັດອອກຢ່າງສົມບູນ -
+
+211
+00:14:19,600 --> 00:14:21,600
+[KID]
+Nice hair, dude!
+ຜົມທີ່ດີເລີດ, ເພື່ອນ!
+
+212
+00:14:22,100 --> 00:14:24,100
+[GRISSOM]
+That you, sugar bumps?
+ນັ້ນແມ່ນເຈົ້າບໍ, ກະດານນ້ ໍາ ຕານ?
+
+213
+00:14:24,600 --> 00:14:26,600
+[JACK]
+It's me. "Sugar Bumps."
+ນັ້ນແມ່ນຂ້ອຍ." ບໍາບ໌ສ໌ຂອງນ້ ໍາ ຕານ."
+
+214
+00:14:27,100 --> 00:14:31,650
+[GRISSOM]
+Jack?  Thank God. I can't believe it's you. I heard you'd been --
+ແຈກ? ຂອບໃຈພຣະເຈົ້າ. ຂ້ອຍບໍ່ເຊື່ອວ່າມັນແມ່ນເຈົ້າ
+. ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າເຄີຍເປັນ -
+
+215
+00:14:32,150 --> 00:14:34,150
+[JACK]
+Is that what you "heard"?
+ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າໄດ້"ຍິນ"?
+
+216
+00:14:34,650 --> 00:14:37,100
+[YOU SET ME UP!]
+Over a girl. You must be insane!
+ກ່ຽວກັບເດັກຍິງ. ເຈົ້າຕ້ອງໂຊກຮ້າຍ!
+
+217
+00:14:37,600 --> 00:14:43,600
+[GRISSOM]
+Sooner or later you would've tried to take me, Jack. You may get me now, but your life won't be worth a dime.
+ກ່ອນຫຼືຫຼ້າສຸດເຈົ້າຈະພະຍາຍາມເອົາຂ້ອຍ, ແຈກ.
+ເຈົ້າອາດຈະເອົາຂ້ອຍດຽວນີ້, ແຕ່ຊີວິດຂອງທ່ານຈະບໍ່ມີມູນຄ່າສິບແສນ.
+
+218
+00:14:44,100 --> 00:14:49,000
+[JACK]
+I've died once already. It wasn't so bad. -- In fact I recommend it.
+ຂ້ອຍຕາຍແລ້ວຄັ້ງຫນຶ່ງແລ້ວ. ມັນບໍ່ຮ້າຍແຮງຫຼາຍ
+. - ໃນຄວາມເປັນຈິງຂ້ອຍແນະ ນໍາ ມັນ.
+
+219
+00:14:49,500 --> 00:14:52,300
+[GRISSOM]
+Jack, listen -- we'll cut a deal --
+ແຈກ, ຟັງ - ພວກເຮົາຈະເຮັດຂໍ້ຕົກລົງ -
+
+220
+00:14:52,800 --> 00:14:55,250
+[GRISSOM]
+Jack -- I'm warning you. WIPE THAT
+ແຈກ - ຂ້ອຍເຕືອນເຈົ້າ. ລ້າງສິ່ງນັ້ນ
+
+221
+00:14:55,750 --> 00:14:58,200
+[JACK]
+HA! That's the best part. I CAN'T!!
+HA! ນັ້ນແມ່ນສ່ວນທີ່ດີທີ່ສຸດ. ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້!!
+
+222
+00:14:58,700 --> 00:15:03,600
+[JOKER]
+What a view. Our little city. It always brings a smile to my face.
+ຄວາມເຫັນທີ່ຍິ່ງໃຫຍ່. ເມືອງນ້ອຍຂອງພວກເຮົາ
+. ມັນເຮັດໃຫ້ຂ້ອຍມ່ວນຊື່ນຢູ່ສະເຫມີ.
+
+223
+00:15:04,100 --> 00:15:10,100
+[VICKI]
+I didn't mean to scare you. I just had to come in here and see it that was really you singing.
+ຂ້ອຍບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະເຮັດໃຫ້ເຈົ້າຢ້ານກົວ.
+ຂ້ອຍພຽງແຕ່ຕ້ອງເຂົ້າມາບ່ອນນີ້ແລະເຫັນວ່າມັນແມ່ນເຈົ້າຮ້ອງເພງແທ້ໆ.
+
+224
+00:15:10,600 --> 00:15:12,600
+[BRUCE]
+I don't sing very well.
+ຂ້ອຍບໍ່ຮ້ອງເພງດີຫຼາຍ.
+
+225
+00:15:13,100 --> 00:15:19,100
+[VICKI]
+Then there's one thing in the world you don't do very well. And I know what it is. -- Now you'll have to kill me.
+ຫຼັງຈາກນັ້ນມີສິ່ງ ຫນຶ່ງ ໃນໂລກທີ່ທ່ານບໍ່ເຮັດດີຫຼາຍ.
+ແລະຂ້ອຍຮູ້ວ່າມັນເປັນຫຍັງ. - ດຽວນີ້ເຈົ້າຕ້ອງຂ້າຂ້ອຍ.
+
+226
+00:15:19,600 --> 00:15:21,600
+[KNOX]
+...Peanut.
+ຫມາກ ນັດ.
+
+227
+00:15:22,100 --> 00:15:24,200
+[COPY BOY]
+Here's that morgue file you wanted.
+ນີ້ແມ່ນເອກະສານສົບທີ່ເຈົ້າຕ້ອງການ.
+
+228
+00:15:24,700 --> 00:15:26,700
+[KNOX]
+Come on. Gimme some dirt!
+ມາແລ້ວ. ໃຫ້ຂ້ອຍດິນບາງຢ່າງ!
+
+229
+00:15:27,200 --> 00:15:31,750
+[DOORMAN]
+Miss Hunt!  No need to sneak in. The rent's been taken care of.
+ນາງຮັນຕ໌! ບໍ່ຈໍາເປັນຕ້ອງລັກເຂົ້າມາ. ຄ່າເຊົ່າໄດ້ຖືກເບິ່ງແຍງແລ້ວ.
+
+230
+00:15:32,250 --> 00:15:34,250
+[ALICIA]
+... The rent? Paid?
+ຄ່າເຊົ່າບໍ? ຈ່າຍບໍ?
+
+231
+00:15:34,750 --> 00:15:36,750
+[VOICE]
+Honey -- I'm home!
+ແມ - ຂ້ອຍຢູ່ເຮືອນແລ້ວ!
+
+232
+00:15:37,250 --> 00:15:43,250
+[JOKER]
+So that's how it is, gents. Until Grissom decides it's safe to come up for air... I'm running the show.
+ສະນັ້ນມັນເປັນແບບນັ້ນ, ພວກເຈົ້າ.
+ຈົນກວ່າກຣີສໂມຈະຕັດສິນໃຈວ່າມັນປອດໄພທີ່ຈະຂຶ້ນໄປເພື່ອອາກາດ... ຂ້ອຍ ກໍາ ລັງ ດໍາ ເນີນງານ.
+
+233
+00:15:43,750 --> 00:15:46,550
+[GANG BOSS]
+So why don't we hear this from Grissom?
+ສະນັ້ນເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ຍິນເລື່ອງນີ້ຈາກກຣີສໂມ?
+
+234
+00:15:47,050 --> 00:15:51,950
+[RACKETEER]
+I got something I'd like to know. How come you're wearing that stupid smirk?
+ຂ້ອຍມີບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍຢາກຮູ້.
+ເປັນຫຍັງເຈົ້າຈຶ່ງໃສ່ຄວາມມ່ວນຊື່ນທີ່ໂງ່ນັ້ນ?
+
+235
+00:15:52,450 --> 00:15:58,050
+[JOKER]
+'Cause I got an army, chum. And I got Grissom's army. And this city is mine.
+ເພາະວ່າຂ້ອຍມີກອງທັບ, ເພື່ອນ.
+ແລະຂ້ອຍມີການກອງທັບຂອງກຣີສໂມ. ແລະເມືອງນີ້ແມ່ນຂອງຂ້ອຍ.
+
+236
+00:15:58,550 --> 00:16:04,500
+[ROTELLI]
+I don't like taking orders, from Grissom. And I especially don't like taking orders from Grissom's goon.
+ຂ້ອຍບໍ່ມັກຮັບຄໍາສັ່ງ, ຈາກກຣີສໂມ.
+ແລະຂ້ອຍບໍ່ມັກໄດ້ຮັບຄໍາສັ່ງຈາກຄົນໂຊກຮ້າຍຂອງກຣີ ສໂມໂດຍສະເພາະ.
+
+237
+00:16:05,000 --> 00:16:07,000
+[JOKER]
+I've considered that possibility.
+ຂ້ອຍໄດ້ພິຈາລະນາຄວາມເປັນໄປໄດ້ນັ້ນແລ້ວ.
+
+238
+00:16:07,500 --> 00:16:09,950
+[ROTELLI]
+And what happens if we say no?
+ແລະຈະເກີດຫຍັງຂຶ້ນຖ້າພວກເຮົາຕອບວ່າບໍ່?
+
+239
+00:16:10,450 --> 00:16:16,050
+[JOKER]
+Nobody wants a war, Carmine. If we can't do business, we shake hands and part friends.
+ບໍ່ມີໃຜຢາກສົງຄາມ, ຄາເມນ. ຖ້າພວກເຮົາບໍ່ສາມາດເຮັດທຸລະກິດໄດ້
+, ພວກເຮົາຈັບມືແລະແຍກເພື່ອນມິດ.
+
+240
+00:16:16,550 --> 00:16:18,550
+[ROTELLI]
+That's it?
+ນັ້ນແມ່ນມັນບໍ?
+
+241
+00:16:19,050 --> 00:16:21,050
+[JOKER]
+That's it.
+ນັ້ນແມ່ນມັນ.
+
+242
+00:16:21,550 --> 00:16:23,550
+[CRIMELORD]
+... You're insane!
+ເຈົ້າໂຊກຮ້າຍ!
+
+243
+00:16:24,050 --> 00:16:28,950
+[JOKER]
+That's what they said about Lee Iacocca. Now GET OUT OF HERE. -- And
+ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາເວົ້າກ່ຽວກັບລີ
+ໄອໂກກາ. ດຽວນີ້ອອກຈາກບ່ອນນີ້. - ແລະ
+
+244
+00:16:29,450 --> 00:16:35,450
+[THINK IT OVER!]
+The sickened CRIMINALS file out cautiously. That leaves THE JOKER alone in the room with the charred corpse of ROTELLI. THE JOKER sinks into a chair and -- as is his wont -- ADDRESSES THE STIFF:
+ພວກອາຊະຍາກໍາທີ່ເຈັບປ່ວຍລົງເອກະສານຢ່າງລະມັດລະວັງ. ນັ້ນເຮັດໃຫ້ໂຈເກີຢູ່ຄົນດຽວໃນຫ້ອງທີ່ມີສົບທີ່ຖືກເຜົາໄຫມ້ຂອງໂຣເທລລີ
+. ໂຈເຄີຕົກລົງໃນຕັ່ງແລະ - ຕາມປົກກະຕິຂອງລາວ - ແກ້ໄຂກະດານ:
+
+245
+00:16:35,950 --> 00:16:40,150
+[VICKI]
+... To tell you the truth, I'd just about given up waiting.
+ເພື່ອບອກເຈົ້າຄວາມຈິງ, ຂ້ອຍເກືອບຈະຢຸດການລໍຖ້າ.
+
+246
+00:16:40,650 --> 00:16:46,650
+[BRUCE]
+I said I'd call you the minute I got free. And I did. -- And here we are.
+ຂ້ອຍບອກວ່າຂ້ອຍຈະໂທຫາເຈົ້າໃນນາທີທີ່ຂ້ອຍເປັນອິດສະຫຼະ
+. ແລະຂ້ອຍເຮັດ. - ແລະພວກເຮົາຢູ່ບ່ອນນີ້.
+
+247
+00:16:47,150 --> 00:16:49,250
+[VICKI]
+Hm hmm. Lunch. Not even dinner.
+ເຮມ ເຮມ. ອາຫານທ່ຽງ. ບໍ່ເຖິງແມ່ນວ່າອາຫານຄໍ່າ.
+
+248
+00:16:49,750 --> 00:16:55,750
+[BRUCE]
+Vicki. Do you want the whole truth? All coyness aside?  I wish I had more time to give you. Every day I don't see you, I miss you.  Now. Are you going to waste this lovely afternoon being all mad at me?
+ວິກກີ. ເຈົ້າຢາກຄວາມຈິງທັງ ຫມົດ ບໍ? ຄວາມກຽດຊັງທັງ ຫມົດ ໄປຂ້າງ? ຂ້ອຍຢາກມີເວລາຫຼາຍຂຶ້ນທີ່ຈະໃຫ້ເຈົ້າ.
+ທຸກໆມື້ຂ້ອຍບໍ່ເຫັນເຈົ້າ, ຂ້ອຍຄິດຮອດເຈົ້າ. ດຽວນີ້. ເຈົ້າຈະເສຍເວລາຕອນບ່າຍທີ່ສວຍງາມນີ້ໂດຍໂຊກຮ້າຍຂ້ອຍທັງຫມົດບໍ?
+
+249
+00:16:56,250 --> 00:17:02,250
+[VICKI]
+Okay, I'm a sucker. You sound so much like someone I used to...  Bruce? I know this is silly, but -- you're not married, are you?
+ດີແລ້ວ, ຂ້ອຍເປັນຄົນໂຊກຮ້າຍ. ເຈົ້າສຽງຄືກັບຄົນທີ່ຂ້ອຍເຄີຍ...
+ບຣູສ? ຂ້ອຍຮູ້ວ່າສິ່ງນີ້ໂງ່, ແຕ່ - ເຈົ້າບໍ່ໄດ້ແຕ່ງງານ, ແມ່ນບໍ?
+
+250
+00:17:02,750 --> 00:17:04,850
+[VICKI]
+All street mimes should be executed.
+ທຸກຄົນທີ່ເຮັດແບບຕາມຖະຫນົນຄວນຖືກປະຫານຊີວິດ.
+
+251
+00:17:05,350 --> 00:17:07,350
+[BRUCE]
+... Looks like a convention.
+ເບິ່ງຄືວ່າເປັນກອງປະຊຸມໃຫຍ່.
+
+252
+00:17:07,850 --> 00:17:13,800
+[BRUCE!!]
+He blinks rapidly. He relaxes his grip. Before VICKI's eyes, he's changing... becoming the BRUCE she knows.
+ລາວສ່ອງແສງຢ່າງໄວວາ. ລາວຜ່ອນຜັນການຈັບຂອງລາວ. ກ່ອນຕາຂອງວິກກີ
+, ລາວ ກໍາ ລັງປ່ຽນແປງ... ກາຍເປັນ BRUCE ທີ່ນາງຮູ້ຈັກ.
+
+253
+00:17:14,300 --> 00:17:16,750
+[BRUCE]
+Oh my God... are you all right?
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ... ເຈົ້າດີບໍ?
+
+254
+00:17:17,250 --> 00:17:23,250
+[ANCHORWOMAN]
+... live from Halliday Plaza, where a gangland-style execution claimed the life of racketeer Philly Ricorso. Ricorso's death is the third in a rash of underworld killings...
+... ດໍາລົງຊີວິດຈາກຮາລີເດຍ ປລາຊາ, ບ່ອນທີ່ການປະຫານຊີວິດແບບກະບົດໄດ້ເອົາຊີວິດຂອງນັກໂຊກຮ້າຍຟີລີ
+ຣິກໂຊສ໌. ການຕາຍຂອງຣິກໂສສ໌ແມ່ນຄັ້ງທີສາມໃນການຂ້າຄົນໃນໂລກໃຕ້ດິນ...
+
+255
+00:17:23,750 --> 00:17:27,950
+[JOKER]
+All reet! I think it's about time we called another meeting, huh?
+ທຸກຄົນ! ຂ້ອຍຄິດວ່າມັນເຖິງເວລາແລ້ວທີ່ພວກເຮົາຈະເອີ້ນກອງປະຊຸມອີກຄັ້ງ
+, ແມ່ນບໍ?
+
+256
+00:17:28,450 --> 00:17:33,350
+[ALFRED]
+I'm sorry, Miss Vale. I've given him your messages. That's all I can do.
+ຂ້ອຍຂໍໂທດ, ນາງເວລ. ຂ້ອຍໄດ້ໃຫ້ຂໍ້ຄວາມຂອງທ່ານໃຫ້ລາວ
+. ນັ້ນແມ່ນທັງຫມົດທີ່ຂ້ອຍສາມາດເຮັດໄດ້.
+
+257
+00:17:33,850 --> 00:17:39,850
+[VICKI]
+Please tell him... I'm not trying to make his life difficult. I'd just -- I'd just like to know what's going on.
+ກະລຸນາບອກລາວ... ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມເຮັດໃຫ້ຊີວິດຂອງລາວຫຍຸ້ງຍາກ
+. ຂ້ອຍພຽງແຕ່ - ຂ້ອຍພຽງແຕ່ຢາກຮູ້ວ່າເກີດຫຍັງຂຶ້ນ.
+
+258
+00:17:40,350 --> 00:17:43,850
+[KNOX]
+Hiya, peanut. I got something I'd like you to see.
+ສະບາຍດີ, ຫມາກ ນັດ. ຂ້ອຍມີບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍຢາກໃຫ້ເຈົ້າເຫັນ.
+
+259
+00:17:44,350 --> 00:17:46,800
+[KNOX]
+Okay, here we go. Check it out.
+ດີແລ້ວ, ມາແລ້ວ. ເບິ່ງມັນ.
+
+260
+00:17:47,300 --> 00:17:51,150
+[THOMAS WAYNE MURDERED]
+Prominent Doctor, Wife Slain in Robbery Unidentified Gunman Leaves Child Unharmed
+ທ່ານຫມໍທີ່ໂດດເດັ່ນ,
+ເມຍຖືກຂ້າຕາຍໃນການລັກລອບຄົນຍິງທີ່ບໍ່ລະບຸຕົວປ່ອຍລູກບໍ່ໄດ້ຮັບບາດເຈັບ
+
+261
+00:17:51,650 --> 00:17:54,100
+[VICKI]
+Oh my God... I've seen this picture.
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ... ຂ້ອຍເຄີຍເຫັນຮູບນີ້ແລ້ວ.
+
+262
+00:17:54,600 --> 00:17:56,700
+[KNOX]
+I guess so. Pulitzer Prize, 1963.
+ຂ້ອຍຄິດວ່າເປັນ. ລາງວັນປູລີເຊີ, ປີ 1963.
+
+263
+00:17:57,200 --> 00:17:59,650
+[VICKI]
+His face. Allie, look at his face.
+ໃບຫນ້າລາວ. ອາລີ, ເບິ່ງໃບຫນ້າລາວແມ.
+
+264
+00:18:00,150 --> 00:18:05,050
+[KNOX]
+Yep. He watched the whole thing happen. -- Recognize the beat cop? Jim Gordon.
+ແມ່ນແລ້ວ. ລາວເບິ່ງເລື່ອງທັງ ຫມົດ ເກີດຂຶ້ນ
+. - ຮູ້ຈັກຕໍາຫຼວດຕີບໍ? ຈິມ ໂກດອນ.
+
+265
+00:18:05,550 --> 00:18:07,550
+[VICKI]
+Oh, Bruce...
+ໂອ້ ບຣູສ...
+
+266
+00:18:08,050 --> 00:18:12,950
+[KNOX]
+Something like this -- what do you suppose this could drive a guy to?
+ບາງສິ່ງບາງຢ່າງເຊັ່ນນີ້ - ເຈົ້າຄິດວ່າສິ່ງນີ້ສາມາດຂັບລົດຜູ້ຊາຍໄປໃສ?
+
+267
+00:18:13,450 --> 00:18:15,450
+[VICKI]
+Alexander, you are on drugs.
+ແອເລັກຊານເດີ, ເຈົ້າໃຊ້ຢາເສບຕິດ.
+
+268
+00:18:15,950 --> 00:18:21,950
+[KNOX]
+He walks out on his own party. Half an hour later, the Caped Crusader turns up in full bat-drag.  Sees an execution, freaks out in an alleyway. No place to change.  Yeah, Vicki, he's "married" all right.
+ລາວອອກໄປໃນງານລ້ຽງຂອງຕົນເອງ. ເຄິ່ງຊົ່ວໂມງຕໍ່ມາ, ນັກຂ້າມຊາດ Caped ປາກົດຕົວໃນການດຶງແມວເຕັມ.
+ເຫັນການປະຫານຊີວິດ, ຢ້ານກົວໃນຖະຫນົນຫົນທາງ. ບໍ່ມີບ່ອນທີ່ຈະປ່ຽນແປງ. ແມ່ນແລ້ວ, ວິກກີ, ລາວ"ແຕ່ງງານ" ດີ.
+
+269
+00:18:22,450 --> 00:18:26,650
+[VICKI]
+You're pissing me off, Allie. I know exactly why you're doing this.
+ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍ, ອາລີ.
+ຂ້ອຍຮູ້ວ່າເຈົ້າເຮັດສິ່ງນີ້ເປັນຫຍັງຢ່າງແນ່ນອນ.
+
+270
+00:18:27,150 --> 00:18:29,150
+[KNOX]
+Oh? Why is that, Vicki?
+ໂອ້? ນັ້ນເປັນຫຍັງ, ວິກກີ?
+
+271
+00:18:29,650 --> 00:18:33,850
+[VICKI]
+He's best friends with Jim Gordon and Harvey Dent. They would know.
+ລາວເປັນເພື່ອນທີ່ດີທີ່ສຸດກັບຈິມ ແກຣດອນ
+ແລະ ຮາເວີ ເດັນຕ໌. ພວກເຂົາຈະຮູ້.
+
+272
+00:18:34,350 --> 00:18:38,550
+[KNOX]
+... Okay, Vicki, I have a confession to make. I'm the Batman.
+ດີແລ້ວ, ວິກກີ, ຂ້ອຍຕ້ອງຍອມຮັບ. ຂ້ອຍເປັນແບຕແມນ.
+
+273
+00:18:39,050 --> 00:18:41,050
+[VICKI]
+Alexander... I know you.
+ແອເລັກຊານເດີ... ຂ້ອຍຮູ້ຈັກເຈົ້າ.
+
+274
+00:18:41,550 --> 00:18:47,550
+[KNOX]
+Right. And they know him. And that's why it would never occur to them for a minute that their old buddy Bruce puts on a cape at night and goes out looking for --
+ແມ່ນແລ້ວ. ແລະພວກເຂົາຮູ້ຈັກລາວ. ແລະນັ້ນແມ່ນເຫດຜົນທີ່ມັນຈະບໍ່ຄິດກັບພວກເຂົາເລີຍ ສໍາ
+ລັບນາທີ ຫນຶ່ງ ທີ່ເພື່ອນເກົ່າຂອງພວກເຂົາບຣູສໃສ່ກະເປົາໃນຕອນກາງຄືນແລະອອກໄປຊອກຫາ -
+
+275
+00:18:48,050 --> 00:18:50,050
+[VICKI]
+This is pointless. I'm leaving.
+ນີ້ແມ່ນບໍ່ມີຄວາມ ຫມາຍ. ຂ້ອຍ ກໍາ ລັງອອກໄປ.
+
+276
+00:18:50,550 --> 00:18:56,550
+[KNOX]
+Your little chum is out of his mind.  Next time you call him up and he can't go out Friday night -- think it over.
+ເພື່ອນນ້ອຍຂອງທ່ານບໍ່ໄດ້ຈິດໃຈຂອງລາວ.
+ໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານໂທຫາລາວແລະລາວບໍ່ສາມາດອອກໄປໃນຕອນແລງວັນສຸກ - ຄິດມັນຄືນ.
+
+277
+00:18:57,050 --> 00:18:59,050
+[JOKER]
+How's that first shipment coming?
+ການຂົນສົ່ງຄັ້ງ ທໍາ ອິດນັ້ນ ກໍາ ລັງມາແນວໃດ?
+
+278
+00:18:59,550 --> 00:19:04,450
+[VOICE ON PHONE]
+Right on schedule. Oh, we got that address for you -- 79 East End,
+ຕາມກໍານົດເວລາ. ໂອ້, ພວກເຮົາມີທີ່ຢູ່ນັ້ນ
+ສໍາ ລັບເຈົ້າ - 79 East End,
+
+279
+00:19:04,950 --> 00:19:06,950
+[JOKER]
+Mmm. How'd you find it?
+ເຈົ້າພົບມັນແນວໃດ?
+
+280
+00:19:07,450 --> 00:19:09,450
+[VOICE ON PHONE]
+Called her agent.
+ຂ້ອຍໂທຫາຕົວແທນຂອງນາງ.
+
+281
+00:19:09,950 --> 00:19:14,150
+[CLAIRE]
+... of course, after Corto Maltese, this must all seem pretty tame.
+ແນ່ນອນ, ຫຼັງຈາກ Corto Maltese, ສິ່ງນີ້ທັງ
+ຫມົດ ຕ້ອງເບິ່ງຄືວ່າອ່ອນແອຫຼາຍ.
+
+282
+00:19:14,650 --> 00:19:17,100
+[VICKI]
+Not to me. I need a job.
+ບໍ່ແມ່ນຂ້ອຍ. ຂ້ອຍຕ້ອງການວຽກເຮັດງານທໍາ.
+
+283
+00:19:17,600 --> 00:19:21,450
+[CLAIRE]
+Now Vicki. Everyone knows you've got your hooks in Bruce Wayne.
+ດຽວນີ້ວິກກີ. ທຸກຄົນຮູ້ວ່າເຈົ້າມີ hooks ຂອງທ່ານໃນບຣູສ ເວີນ.
+
+284
+00:19:21,950 --> 00:19:24,400
+[VICKI]
+Then "everyone" must know something I don't.
+ຫຼັງຈາກນັ້ນ"ທຸກຄົນ" ຕ້ອງຮູ້ບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ຮູ້.
+
+285
+00:19:24,900 --> 00:19:29,100
+[CLAIRE]
+Oh. Really. Well. -- Come on, dear, Tony's dying to see you.
+ໂອ້. ແທ້ຈິງແລ້ວ. ດີ. - ມາແລ້ວ, ແມ, ໂຕນີ ກໍາ ລັງຕາຍເພື່ອເຫັນເຈົ້າ.
+
+286
+00:19:29,600 --> 00:19:35,600
+[TONY]
+Yes, ladies, smiles, show me those smiles, fabulous, tropical smiles, think Tahiti, I want to see teeth, yes, those glorious teeth --
+ແມ່ນແລ້ວ, ແມ່ຍິງ, ຄວາມມ່ວນຊື່ນ, ສະແດງໃຫ້ຂ້ອຍເຫັນຄວາມມ່ວນ ຊື່ນເຫລົ່ານັ້ນ,
+ຄວາມຍອມຊື່ນທີ່ຍິ່ງໃຫຍ່, ເຂດຮ້ອນ, ຄິດວ່າ Tahiti, ຂ້ອຍຢາກເຫັນແຂ້ວ, ແມ່ນແທ້, ແຂ້ວທີ່ສວຍງາມນັ້ນ -
+
+287
+00:19:36,100 --> 00:19:42,100
+[OH MY GOD!]
+The SUPERMODELS PITCH TO THE FLOOR, shuddering convulsively, their LIPS drawn back in FRIGHTFUL, FROZEN, LAB-APE GRINS. VICKI GASPS. CLAIRE SCREAMS. TONY SCREAMS.
+ພວກໂຊບເປີໂມເດວສ໌ຕົກລົງພື້ນ, ຢ້ານກົວຢ່າງກະຕຸ້ນ, ປາກຂອງພວກເຂົາຖືກດຶງກັບຄືນໄປບ່ອນໃນຄວາມມ່ວນຊື່ນທີ່ສວຍງາມ
+, Frozen, LAB-APE. VICKI GASPS. CLAIRE ຮ້ອງໄຫ້. TONY ຮ້ອງໄຮ້.
+
+288
+00:19:42,600 --> 00:19:48,600
+[PATSY]
+The fashion world was stunned today by the sudden deaths of top models Kelly Brinkley and Christie Emberg. Cause of death has been attributed to a violent allergic reaction, although authorities have not yet ruled out the possibility of drug use. Dave?
+ໂລກແຟຊັນໄດ້ຖືກຕົກໃຈໃນມື້ນີ້ໂດຍການຕາຍຢ່າງກະທັນຫັນຂອງຕົວແບບຊັ້ນສູງແຄລລີ ບຣິນຄລີ ແລະ ຄຣິສຕີ້ ເອັມເບີກ.
+ສາເຫດຂອງການຕາຍໄດ້ຖືກຍ້ອນໃຫ້ກັບປະຕິກິລິຍາອາເລັກຊີທີ່ຮຸນແຮງ, ເຖິງແມ່ນວ່າເຈົ້າຫນ້າທີ່ຍັງບໍ່ໄດ້ຍົກເວັ້ນຄວາມເປັນໄປໄດ້ຂອງການໃຊ້ຢາເສບຕິດ. ເດວ?
+
+289
+00:19:49,100 --> 00:19:55,100
+[DAVE]
+In Gotham, plans continue for the city's 300th birthday celebration. The four-day event will conclude with the unveiling, in Gotham Harbor, of the newly restored 'Lady Gotham'...
+ໃນໂກທາມ, ແຜນການສືບຕໍ່ ສໍາ ລັບການສະເຫຼີມສະຫຼອງວັນເກີດຄັ້ງທີ 300 ຂອງເມືອງ.
+ເຫດການສີ່ມື້ຈະສິ້ນສຸດລົງດ້ວຍການເປີດຕົວ, ໃນທ່າເຮືອໂກຕາມ, ຂອງ'Lady Gotham' ທີ່ຖືກຟື້ນຟູໃຫມ່...
+
+290
+00:19:55,600 --> 00:20:00,850
+[PATSY!!]
+An offscreen CRASH. Suddenly DAVE is up out of his seat, mouth agape in horror.
+ການຕົກລົງພາຍນອກ ຫນ້າ ຈໍ. ທັນທີດາວໄດ້ຂຶ້ນຈາກບ່ອນນັ່ງຂອງລາວ
+, ປາກກະເປົາໃນຄວາມຢ້ານກົວ.
+
+291
+00:20:01,350 --> 00:20:03,350
+[MODELS]
+... Love that Joker!
+ຮັກໂຈເກີນັ້ນ!
+
+292
+00:20:03,850 --> 00:20:09,800
+[JOKER]
+... new improved Joker brand. With the secret ingredient... SMYLENOL!  Let's go to our blind taste test.
+... ຍີ່ຫໍ້ໂຈເກີທີ່ປັບປຸງ ໃຫມ່. ດ້ວຍສ່ວນປະກອບລັບ
+... SMYLENOL! ໄປສອບເສັງລົດຊາດຕາບອດຂອງພວກເຮົາ.
+
+293
+00:20:10,300 --> 00:20:16,300
+[JOKER]
+I know what you're saying. Where can I buy these fine, fine products? Well, that's the gag, folks, you never know. Chances are... you've bought 'em already!!!
+ຂ້ອຍຮູ້ວ່າເຈົ້າ ກໍາ ລັງເວົ້າຫຍັງ. ຂ້ອຍສາມາດຊື້ຜະລິດຕະພັນທີ່ດີເລີດເຫຼົ່ານີ້ໄດ້ຢູ່ໃສ? ດີ,
+ນັ້ນແມ່ນໂຊກຮ້າຍ, ພວກຄົນ, ເຈົ້າບໍ່ເຄີຍຮູ້. ຄວາມເປັນໄປໄດ້ແມ່ນ... ເຈົ້າໄດ້ຊື້ພວກມັນແລ້ວ!!!
+
+294
+00:20:16,800 --> 00:20:18,800
+[ALFRED]
+... Sir!
+ເຈົ້າ!
+
+295
+00:20:19,300 --> 00:20:22,800
+[JOKER]
+Baby's got a tummyache? Here's something that'll fix him quick!
+ເດັກນ້ອຍມີອາການເຈັບທ້ອງບໍ? ນີ້ແມ່ນບາງສິ່ງບາງຢ່າງທີ່ຈະແກ້ໄຂລາວໄວ!
+
+296
+00:20:23,300 --> 00:20:26,800
+[PANIC GRIPS GOTHAM]
+Contaminated Products Claim 72 Lives WHO IS THE MYSTERIOUS "JOKER"?
+ຜະລິດຕະພັນທີ່ເປື້ອນອ້າງວ່າມີຊີວິດ 72 ຄົນ ໃຜເປັນ"ໂຈເກີ" ທີ່ລຶກລັບ?
+
+297
+00:20:27,300 --> 00:20:33,300
+[ANCHORWOMAN]
+... sixteen new deaths, with no clues as to the Joker's identity or demands. The list at potentially lethal products now includes: perfume -- mascara -- cold cream --
+... ການຕາຍໃຫມ່ສິບຫົກຄົນ, ໂດຍບໍ່ມີຂໍ້ແນະນໍາກ່ຽວກັບຕົວຕົນຂອງໂຈເກີຫຼືຄວາມຮຽກຮ້ອງຕ້ອງການ.
+ລາຍຊື່ໃນຜະລິດຕະພັນທີ່ເປັນໄປໄດ້ທີ່ຕາຍໄດ້ດຽວນີ້ປະກອບມີ: ກິ່ນຫອມ - ຫນ້າ ກາກ - ຄຣີມເຢັນ -
+
+298
+00:20:33,800 --> 00:20:36,600
+[ANCHORMAN]
+Men's cologne toothpaste mouthwash -- underarm deodorant --
+ເຄື່ອງລ້າງປາກຂອງຜູ້ຊາຍຄໍລອນ - ເຄື່ອງກິ່ນຫອມພາຍໃຕ້ແຂນ -
+
+299
+00:20:37,100 --> 00:20:40,250
+[ANCHORWOMAN]
+Hair spray -- eyebrow pencil -- moisturizing cream --
+ເຄື່ອງສີດຜົມ - ກະທູ້ຕາບອດ - ຄຣີມເຮັດຄວາມຊຸ່ມຊື່ນ -
+
+300
+00:20:40,750 --> 00:20:42,750
+[VOICE]
+She's outside the Fluegelheim.
+ນາງຢູ່ພາຍນອກໂຮງງານຟລູເກລເຮມ.
+
+301
+00:20:43,250 --> 00:20:45,250
+[ALICIA]
+Jack? Who was that?
+ແຈກ? ນັ້ນແມ່ນໃຜ?
+
+302
+00:20:45,750 --> 00:20:47,750
+[JOKER]
+Get dressed. We're going out.
+ໃສ່ເຄື່ອງນຸ່ງຫົ່ມ. ພວກເຮົາ ກໍາ ລັງອອກໄປ.
+
+303
+00:20:48,250 --> 00:20:50,700
+[VICKI]
+I'm meeting Mr. Wayne. Is he here?
+ຂ້ອຍ ກໍາ ລັງພົບກັບທ່ານເວີນ. ລາວຢູ່ບ່ອນນີ້ບໍ?
+
+304
+00:20:51,200 --> 00:20:53,300
+[MAITRE D']
+No, but your table is ready.
+ບໍ່, ແຕ່ໂຕະຂອງທ່ານແມ່ນພ້ອມແລ້ວ.
+
+305
+00:20:53,800 --> 00:20:56,250
+[WAITER]
+Miss Vale, this just arrived for you.
+ນາງເວລ, ນີ້ແມ່ນຫາກໍ່ມາຮອດ ສໍາ ລັບເຈົ້າ.
+
+306
+00:20:56,750 --> 00:21:01,650
+[PUT THIS ON RIGHT NOW.]
+Unsigned, of course. VICKI, puzzled, opens the box to find a MINIATURE GAS MASK.
+ແນ່ນອນວ່າບໍ່ມີລາຍເຊັນ. ວິກກີ, ມີຄວາມສັບສົນ,
+ເປີດກ່ອງເພື່ອຊອກຫາ ຫນ້າ ກາກແກັສຂະຫນາດນ້ອຍ.
+
+307
+00:21:02,150 --> 00:21:04,250
+[JOKER]
+Okay, boys, let's broaden our minds.
+ດີແລ້ວ, ພວກຜູ້ຊາຍ, ໃຫ້ຂະຫຍາຍຈິດໃຈຂອງພວກເຮົາ.
+
+308
+00:21:04,750 --> 00:21:07,550
+[JOKER]
+I think it's safe to take that off.
+ຂ້ອຍຄິດວ່າມັນປອດໄພທີ່ຈະເອົາມັນອອກ.
+
+309
+00:21:08,050 --> 00:21:10,050
+[VICKI]
+... Thank you.
+ຂອບໃຈ.
+
+310
+00:21:10,550 --> 00:21:13,700
+[JOKER]
+Unfortunate, but I think we can work around it.
+ໂຊກຮ້າຍ, ແຕ່ຂ້ອຍຄິດວ່າພວກເຮົາສາມາດເຮັດວຽກໄດ້ around ມັນ.
+
+311
+00:21:14,200 --> 00:21:16,200
+[VICKI]
+And you want a --
+ແລະເຈົ້າຢາກ...
+
+312
+00:21:16,700 --> 00:21:21,950
+[JOKER]
+A visual record, yes. A before-and- after kind of thing.  This could make your reputation.
+ບັນທຶກທາງຕາ, ແມ່ນແລ້ວ. ເປັນສິ່ງກ່ອນແລະຫຼັງຈາກ
+. ນີ້ແມ່ນສາມາດເຮັດໃຫ້ຊື່ສຽງຂອງທ່ານ.
+
+313
+00:21:22,450 --> 00:21:28,450
+[VICKI]
+Maybe we should start with a portrait of the artist. People might like to see the face behind the makeup.
+ບາງທີພວກເຮົາຄວນເລີ່ມຕົ້ນດ້ວຍຮູບພາບຂອງນັກສິລະປິນ.
+ຄົນອາດຈະຢາກເຫັນໃບຫນ້າຢູ່ເບື້ອງຫຼັງເຄື່ອງແຕ່ງກາຍ.
+
+314
+00:21:28,950 --> 00:21:30,950
+[JOKER]
+... Behind the makeup?
+ຢູ່ເບື້ອງຫຼັງເຄື່ອງແຕ່ງກາຍບໍ?
+
+315
+00:21:31,450 --> 00:21:33,450
+[VICKI]
+I've seen worse. Much worse.
+ຂ້ອຍເຄີຍເຫັນຮ້າຍແຮງກວ່າເກົ່າ. ຮ້າຍກວ່າເກົ່າຫຼາຍ.
+
+316
+00:21:33,950 --> 00:21:39,900
+[JOKER]
+Strong stomach, huh? I like that in a woman. -- Maybe we can do business after all.
+ທ້ອງແຂງແຮງ, ແມ່ນບໍ? ຂ້ອຍມັກມັນໃນແມ່ຍິງ. -
+ບາງທີພວກເຮົາສາມາດເຮັດທຸລະກິດໄດ້ຫຼັງຈາກນັ້ນ.
+
+317
+00:21:40,400 --> 00:21:42,400
+[VOICE]
+Jack?
+ແຈກ?
+
+318
+00:21:42,900 --> 00:21:44,900
+[JOKER]
+Christ, it's my girlfriend.
+ພຣະຄຣິດ, ມັນແມ່ນແຟນຂອງຂ້ອຍ.
+
+319
+00:21:45,400 --> 00:21:50,300
+[ALICIA]
+You said I could look at the pictures before you -- before you --
+ເຈົ້າບອກວ່າຂ້ອຍສາມາດເບິ່ງຮູບກ່ອນເຈົ້າໄດ້ - ກ່ອນເຈົ້າ -
+
+320
+00:21:50,800 --> 00:21:53,600
+[JOKER]
+Shucks, honey, I forgot. (rolling his eyes at
+ສະບາຍດີແມ, ຂ້ອຍລືມແລ້ວ. (ຫັນຕາຂອງລາວໄປຫາ
+
+321
+00:21:54,100 --> 00:22:00,100
+[VICKI)]
+I'm in trouble now.  This is business, sweetie. Why don't you go outside and see how the boys are coming?
+ຂ້ອຍຢູ່ໃນຄວາມຫຍຸ້ງຍາກດຽວນີ້. ນີ້ແມ່ນທຸລະກິດ, ແມ.
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ອອກໄປທາງນອກແລະເບິ່ງວ່າເດັກຊາຍ ກໍາ ລັງມາແນວໃດ?
+
+322
+00:22:00,600 --> 00:22:02,600
+[VICKI]
+... Why the mask?
+ເປັນຫຍັງ ຫນ້າ ກາກ?
+
+323
+00:22:03,100 --> 00:22:08,000
+[JOKER]
+Alicia! Come here, have a seat. Show Miss Vale why you wear the mask.
+ອາລີເຊຍ! ມາບ່ອນນີ້, ນັ່ງລົງ.
+ສະແດງໃຫ້ນາງເວລເຫັນວ່າເປັນຫຍັງເຈົ້າໃສ່ ຫນ້າ ກາກ.
+
+324
+00:22:08,500 --> 00:22:12,000
+[VICKI]
+You SCUM! You SICK FILTH!... You DID THAT to her!
+ເຈົ້າໂຊກຮ້າຍ! ເຈົ້າເປັນບົກຜ່ອງທີ່ເຈັບປ່ວຍ
+!... ເຈົ້າເຮັດແບບນັ້ນກັບນາງ!
+
+325
+00:22:12,500 --> 00:22:14,600
+[JOKER]
+What? I improved her a little...
+ຫຍັງ? ຂ້ອຍໄດ້ປັບປຸງນາງ ຫນ້ອຍ ຫນຶ່ງ...
+
+326
+00:22:15,100 --> 00:22:17,900
+[VICKI]
+I'll see you burn. I'll see you dead.
+ຂ້ອຍຈະເຫັນເຈົ້າເຜົາໄຫມ້. ຂ້ອຍຈະເບິ່ງເຈົ້າຕາຍ.
+
+327
+00:22:18,400 --> 00:22:23,300
+[JOKER]
+Miss Vale, was it something I said?  Do you want to sniff my flower?
+ນາງເວລ, ມັນເປັນບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍເວົ້າບໍ
+? ເຈົ້າຢາກກິ່ນດົມດອກໄມ້ຂອງຂ້ອຍບໍ?
+
+328
+00:22:23,800 --> 00:22:29,800
+[NO!]
+The JOKER squeezes a concealed BULB. A JET OF CLEAR LIQUID spurts out of the FLOWER, NARROWLY MISSING VICKI.
+ຄົນໂຈກເກີກົດແບລບທີ່ເຊື່ອງໄວ້.
+ເຮືອບິນຂອງແຫຼວທີ່ສະອາດອອກຈາກດອກໄມ້, ເກືອບຂາດ VICKI.
+
+329
+00:22:30,300 --> 00:22:32,750
+[JOKER]
+Come on, Miss Vale... STOP AND SMELL
+ມາແລ້ວ, ນາງເວລ... ຢຸດແລະກິ່ນຫອມ
+
+330
+00:22:33,250 --> 00:22:37,100
+[THE ROSES!!]
+He backs VICKI into a corner. And then -- abruptly --
+ລາວເຮັດໃຫ້ວິກກີຢູ່ແຄມຫນຶ່ງ. ແລະຫຼັງຈາກນັ້ນ - ຢ່າງກະທັນຫັນ -
+
+331
+00:22:37,600 --> 00:22:43,600
+[... YOU!!]
+On the end of the spike is a CORD leading to BATMAN's belt. In the wink of an eye he's GRABBED VICKI -- DRAGGED HER OUT OF the tea room -- and PLUNGED OVER THE RAMP WALL, FOUR STORIES STRAIGHT DOWN TO THE ATRIUM FLOOR BELOW!!!
+ໃນຕອນທ້າຍຂອງຈຸດສູງແມ່ນສາຍແອວທີ່ ນໍາ ໄປສູ່ສາຍແ ອວແບຕແມນ. ໃນການສ່ອງແສງຕາລາວໄດ້ຈັບວິກກີ -
+ດຶງນາງອອກຈາກຫ້ອງຊາ - ແລະຖິ້ມເທິງກໍາແພງລໍາບາກ, ສີ່ເລື່ອງລົງໄປສູ່ຊັ້ນຕຶກຕຶກຢູ່ລຸ່ມນີ້!!!
+
+332
+00:22:44,100 --> 00:22:50,100
+[GET 'EM!! GET 'EM!!]
+His GOONS are stationed at various points along the ramp, still defacing masterpieces. They pull their guns and OPEN FIRE as BATMAN and VICKI plummet past.
+ພວກໂກນຂອງລາວຖືກຈັດຕັ້ງຢູ່ຈຸດຕ່າງໆຕາມລໍາບາກ, ຍັງເຮັດໃຫ້ຜົນງານ masterpieces
+. ພວກເຂົາດຶງປືນຂອງພວກເຂົາແລະເປີດໄຟໃນຂະນະທີ່ແບຕແມນແລະ VICKI ຕົກຜ່ານ.
+
+333
+00:22:50,600 --> 00:22:56,600
+[WHICH CAR?]
+VICKI suddenly feels quite stupid. Because -- while there are many cars parked along the side alley -- there is only one BATMOBILE.
+ວິກກີຮູ້ສຶກໂງ່ຫຼາຍຢ່າງທັນທີ. ເພາະວ່າ -
+ໃນຂະນະທີ່ມີລົດຫຼາຍຄົນຈອດຢູ່ຕາມຖະຫນົນຂ້າງ - ມີພຽງແຕ່ລົດຖີບດຽວເທົ່ານັ້ນ.
+
+334
+00:22:57,100 --> 00:22:59,100
+[BATMAN]
+Ignition!
+ໄຟໄຫມ້!
+
+335
+00:22:59,600 --> 00:23:01,600
+[COMPUTER]
+Ignition.
+ການໄຟໄຫມ້.
+
+336
+00:23:02,100 --> 00:23:08,100
+[I WANT HIM!! I WANT HIM!!]
+The JOKER climbs into the back of a van labelled "MONARCH PLAYING CARDS."  Half his GOONS pile into the van behind him, the other half into a second car nearby.
+ຜູ້ໂຈກເກີຂຶ້ນໄປໃນດ້ານຫຼັງຂອງລົດບັນທຸກທີ່ມີຊື່ວ່າ" ບັດຫຼິ້ນໂມນາຣັກ."
+ເຄິ່ງຫນຶ່ງຂອງກະເປົາຂອງລາວເຕົ້າໂຮມເຂົ້າໄປໃນ ລົດບັນທຸກຢູ່ເບື້ອງຫຼັງລາວ, ເຄິ່ງທີສອງເຂົ້າໄປໃນລົດທີສອງຢູ່ໃກ້ໆ.
+
+337
+00:23:08,600 --> 00:23:10,600
+[VICKI]
+Look! Police!
+ເບິ່ງແມ! ຕໍາຫຼວດ!
+
+338
+00:23:11,100 --> 00:23:13,100
+[BATMAN]
+I called them.
+ຂ້ອຍໂທຫາພວກເຂົາ.
+
+339
+00:23:13,600 --> 00:23:15,600
+[VICKI]
+Shouldn't we --
+ພວກເຮົາບໍ່ຄວນ...
+
+340
+00:23:16,100 --> 00:23:18,100
+[GOON]
+There they are! Dead ahead!
+ພວກເຂົາຢູ່ບ່ອນນັ້ນ! ຕາຍຢູ່ທາງຫນ້າ!
+
+341
+00:23:18,600 --> 00:23:21,050
+[VICKI]
+What about her? What about the girl?
+ນາງແນວໃດ? ເດັກຍິງແນວໃດ?
+
+342
+00:23:21,550 --> 00:23:23,550
+[BATMAN]
+He won't kill her.
+ລາວຈະບໍ່ຂ້ານາງ.
+
+343
+00:23:24,050 --> 00:23:30,050
+[GODDAMMIT!]
+They're moving up on an EMPTY BLOCK -- a NIGHT CONSTRUCTION TEAM. A HUGE PIECE OF HEAVY MACHINERY backs up slowly and inexorably, BLOCKING THE INTERSECTION.
+ພວກເຂົາ ກໍາ ລັງເຄື່ອນຍ້າຍຂຶ້ນເທິງບລັອກທີ່ຫວ່າງ - ທີມງານການກໍ່ສ້າງໃນຕອນກາງຄືນ
+. ເຄື່ອງຈັກ ຫນັກ ຂະຫນາດໃຫຍ່ກັບຄືນໄປບ່ອນຊ້າໆແລະບໍ່ຢຸດຢັ້ງ, ປິດທາງຂ້າມທາງ.
+
+344
+00:23:30,550 --> 00:23:32,550
+[VICKI]
+Can't we --
+ພວກເຮົາບໍ່ສາມາດ...
+
+345
+00:23:33,050 --> 00:23:35,050
+[BATMAN]
+Too many people. Come on!
+ມີຄົນຫຼາຍເກີນໄປ. ມາ!
+
+346
+00:23:35,550 --> 00:23:37,550
+[SHIELDS!!]
+The BATMOBILE's computerized VOICE replies:
+ສຽງຄອມພິວເຕີຂອງ BATMOBILE ຕອບວ່າ:
+
+347
+00:23:38,050 --> 00:23:40,050
+[COMPUTER]
+Shields.
+ກະທູ້.
+
+348
+00:23:40,550 --> 00:23:42,550
+[GOON AT WHEEL]
+Are they ours?
+ພວກເຂົາເປັນຂອງພວກເຮົາບໍ?
+
+349
+00:23:43,050 --> 00:23:48,650
+[JOKER]
+... I don't know. We'd better get out of here.  Westbound on 36th. DO YOU COPY??
+ຂ້ອຍບໍ່ຮູ້. ພວກເຮົາຄວນອອກຈາກບ່ອນນີ້.
+ໄປທາງທິດຕາເວັນຕົກໃນທາງທີ 36. ເຈົ້າ Copy ບໍ??
+
+350
+00:23:49,150 --> 00:23:51,150
+[GOON I]
+We got 'em!
+ພວກເຮົາຈັບພວກມັນແລ້ວ!
+
+351
+00:23:51,650 --> 00:23:53,750
+[JOKER]
+Take 'em! I want his head!
+ເອົາພວກມັນ! ຂ້ອຍຢາກຫົວຂອງລາວ!
+
+352
+00:23:54,250 --> 00:23:56,250
+[BATMAN]
+How much do you weigh?
+ເຈົ້າມີນ້ ໍາ ຫນັກ ຫຼາຍປານໃດ?
+
+353
+00:23:56,750 --> 00:23:58,750
+[VICKI]
+... A hundred and eight?
+... ສິບແປດ?
+
+354
+00:23:59,250 --> 00:24:05,250
+[HANG ON!]
+The JOKER'S THUGS pile out of the car. The BATARANG catches on the catwalk, and BATMAN triggers the spring-action REEL on his utility belt -- jerking him and VICKI INTO THE AIR.
+ຄຸເຂົ່າລົງ
+
+355
+00:24:05,750 --> 00:24:07,750
+[GOON I]
+... No blood.
+ບໍ່ມີເລືອດ.
+
+356
+00:24:08,250 --> 00:24:10,250
+[GOON II]
+Jesus.
+ພຣະເຢຊູ.
+
+357
+00:24:10,750 --> 00:24:12,750
+[GOON III]
+Wait a minute.
+ລໍຖ້າດົນຫນຶ່ງ.
+
+358
+00:24:13,250 --> 00:24:15,250
+[GOON IV]
+... What is that?
+ນັ້ນແມ່ນຫຍັງ?
+
+359
+00:24:15,750 --> 00:24:17,750
+[GOON III]
+Some kind of body armor.
+ເຄື່ອງປ້ອງກັນຮ່າງກາຍບາງຢ່າງ.
+
+360
+00:24:18,250 --> 00:24:21,400
+[GOON I]
+He's human after all. -- Take that mask off.
+ລາວເປັນມະນຸດໃນທີ່ສຸດ. - ເອົາ ຫນ້າ ກາກນັ້ນອອກ.
+
+361
+00:24:21,900 --> 00:24:23,900
+[GOON I]
+Well?... Who is this guy?
+ດີ?... ຜູ້ຊາຍຄົນນີ້ແມ່ນໃຜ?
+
+362
+00:24:24,400 --> 00:24:26,500
+[GOON II]
+I dunno. You seen him before?
+ຂ້ອຍບໍ່ຮູ້. ເຈົ້າເຄີຍເຫັນລາວກ່ອນບໍ?
+
+363
+00:24:27,000 --> 00:24:29,450
+[GOON III]
+Maybe he's got some kind of I.D.
+ບາງທີລາວມີໃບຢັ້ງຢືນບາງຢ່າງ.
+
+364
+00:24:29,950 --> 00:24:32,050
+[GOON IV]
+Good idea. Let's check his wallet.
+ຄວາມຄິດທີ່ດີ. ມາກວດເບິ່ງກະເປົາເງິນຂອງລາວ.
+
+365
+00:24:32,550 --> 00:24:36,050
+[GOON I]
+We'll worry about it later. Plug him.  In the head.
+ພວກເຮົາຈະກັງວົນກ່ຽວກັບມັນຕໍ່ມາ. ເຊື່ອມຕໍ່ລາວ. ໃນຫົວ.
+
+366
+00:24:36,550 --> 00:24:38,550
+[GOON III]
+Goddam, it's the redhead!
+ສະຫວັນນະເຂດ, ມັນແມ່ນຜົມແດງ!
+
+367
+00:24:39,050 --> 00:24:41,050
+[GOON II]
+Did you hit her?
+ເຈົ້າຕີນາງບໍ?
+
+368
+00:24:41,550 --> 00:24:43,550
+[GOON I]
+Who cares? Wax that freak.
+ໃຜສົນໃຈ? Wax ຄົນໂຊກຮ້າຍນັ້ນ.
+
+369
+00:24:44,050 --> 00:24:46,150
+[BATMAN]
+... Not even a 'thank you'?
+ບໍ່ເຖິງແມ່ນວ່າ' ຂອບໃຈ'?
+
+370
+00:24:46,650 --> 00:24:51,550
+[VICKI]
+Well -- I think you might consider thanking me. You were good as dead.
+ດີ - ຂ້ອຍຄິດວ່າເຈົ້າອາດຈະພິຈາລະນາຂອບໃຈຂ້ອຍ. ເຈົ້າດີຄືກັບຕາຍແລ້ວ.
+
+371
+00:24:52,050 --> 00:24:55,200
+[BATMAN]
+That's because you lied about your weight.  Thank you.
+ນັ້ນແມ່ນຍ້ອນວ່າເຈົ້າຕົວະກ່ຽວກັບນ້ ໍາ ຫນັກ ຂອງເຈົ້າ. ຂອບໃຈ.
+
+372
+00:24:55,700 --> 00:25:00,950
+[VICKI]
+I just wanted to distract them. I wasn't trying to get a picture of you.
+ຂ້ອຍພຽງແຕ່ຢາກລົບກວນພວກເຂົາ. ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມຖ່າຍຮູບເຈົ້າ.
+
+373
+00:25:01,450 --> 00:25:03,450
+[BATMAN]
+Please.
+ກະລຸນາ.
+
+374
+00:25:03,950 --> 00:25:06,050
+[VICKI]
+I won't let you have it.
+ຂ້ອຍຈະບໍ່ປ່ອຍໃຫ້ເຈົ້າເອົາມັນ.
+
+375
+00:25:06,550 --> 00:25:11,450
+[BATMAN]
+The Joker is a murderer. And you were as good as dead. So --
+ໂຈເກີເປັນຜູ້ຂ້າ. ແລະເຈົ້າເກືອບຕາຍແລ້ວ. ສະນັ້ນ -
+
+376
+00:25:11,950 --> 00:25:17,950
+[VICKI]
+Look, I appreciate what you did for me. But this is my job. And I'm keeping those pictures.
+ເບິ່ງ, ຂ້ອຍຍ້ອງຍໍສິ່ງທີ່ເຈົ້າເຮັດ ສໍາ ລັບຂ້ອຍ.
+ແຕ່ນີ້ແມ່ນວຽກຂອງຂ້ອຍ. ແລະຂ້ອຍ ກໍາ ລັງຮັກສາຮູບເຫຼົ່ານັ້ນ.
+
+377
+00:25:18,450 --> 00:25:24,450
+[BATMAN]
+All right, here's a compromise. I'll develop the photos. You keep the Jokers and I'll keep the rest.
+ດີແລ້ວ, ນີ້ແມ່ນການຕົກລົງກັນ. ຂ້ອຍຈະພັດທະນາຮູບພາບ
+. ເຈົ້າຮັກສາຄົນໂຈກເກີແລະຂ້ອຍຈະຮັກສາສ່ວນທີ່ເຫຼືອ.
+
+378
+00:25:24,950 --> 00:25:28,100
+[VICKI]
+How do I know you won't keep them all?
+ຂ້ອຍຈະຮູ້ແນວໃດວ່າເຈົ້າຈະບໍ່ຮັກສາພວກມັນທັງ ຫມົດ?
+
+379
+00:25:28,600 --> 00:25:30,700
+[BATMAN]
+Because I'll take you with me.
+ເພາະຂ້ອຍຈະພາເຈົ້າກັບຂ້ອຍ.
+
+380
+00:25:31,200 --> 00:25:34,000
+[VICKI]
+... Where are you going to take me?
+ເຈົ້າຈະພາຂ້ອຍໄປໃສ?
+
+381
+00:25:34,500 --> 00:25:36,500
+[BATMAN]
+Shields open.
+ກະທູ້ເປີດ.
+
+382
+00:25:37,000 --> 00:25:39,000
+[COMPUTER]
+Shields open.
+ກະທູ້ເປີດ.
+
+383
+00:25:39,500 --> 00:25:41,500
+[BATMAN]
+Ignition.
+ການໄຟໄຫມ້.
+
+384
+00:25:42,000 --> 00:25:44,000
+[COMPUTER]
+Ignition.
+ການໄຟໄຫມ້.
+
+385
+00:25:44,500 --> 00:25:46,500
+[COP]
+There's somebody in there!
+ມີຄົນຢູ່ບ່ອນນັ້ນ!
+
+386
+00:25:47,000 --> 00:25:53,000
+[STOP!]
+BRAKES SQUEAL. The BATMOBILE stops one yard short of BATMAN and VICKI. A moment later BATMAN is AT THE WHEEL.
+ບຣັກສ໌ສກີລ. ລົດບາດໂມບິລຢຸດ ຫນຶ່ງ ໄດແຄບຈາກແບຕແມນແລະວິກກີ
+. ຊົ່ວຄາວຕໍ່ມາແບບຕແມານແມ່ນຢູ່ເທິງລົດຈັກ.
+
+387
+00:25:53,500 --> 00:25:55,950
+[VICKI]
+... How long have I been out?
+ຂ້ອຍອອກມາດົນປານໃດ?
+
+388
+00:25:56,450 --> 00:25:59,250
+[BATMAN]
+Quite a while. I took the scenic route.
+ເປັນເວລາດົນນານແລ້ວ. ຂ້ອຍໄດ້ໄປຕາມເສັ້ນທາງທີ່ສວຍງາມ.
+
+389
+00:25:59,750 --> 00:26:02,200
+[VICKI]
+Well, I've certainly enjoyed it. What's that?
+ດີ, ຂ້ອຍໄດ້ເພີດເພີນກັບມັນຢ່າງແນ່ນອນ. ນັ້ນແມ່ນຫຍັງ?
+
+390
+00:26:02,700 --> 00:26:04,700
+[BATMAN]
+Garage door.
+ປະຕູ garage.
+
+391
+00:26:05,200 --> 00:26:10,800
+[VICKI]
+I meant to ask you. Up on the roof -- how did you know my name?
+ຂ້ອຍຢາກຖາມເຈົ້າ. ຢູ່ເທິງເຮືອນຫລັງ - ເຈົ້າຮູ້ຊື່ຂອງຂ້ອຍແນວໃດ?
+
+392
+00:26:11,300 --> 00:26:13,300
+[VICKI]
+What is this stuff? Kevlar?
+ສິ່ງນີ້ເປັນຫຍັງ? Kevlar?
+
+393
+00:26:13,800 --> 00:26:16,250
+[BATMAN]
+Better. It's not on the market yet.
+ດີກວ່າ. ມັນຍັງບໍ່ຢູ່ໃນຕະຫຼາດເທື່ອ.
+
+394
+00:26:16,750 --> 00:26:18,850
+[VICKI]
+It doesn't protect your head, though.
+ເຖິງຢ່າງໃດກໍ່ຕາມ ມັນບໍ່ປົກປ້ອງຫົວຂອງທ່ານ.
+
+395
+00:26:19,350 --> 00:26:22,500
+[BATMAN]
+That's why I wear a target on my chest.
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍໃສ່ເປົ້າຫມາຍໃສ່ທ້ອງຂອງຂ້ອຍ.
+
+396
+00:26:23,000 --> 00:26:25,000
+[VICKI]
+How'd you find this place?
+ເຈົ້າພົບບ່ອນນີ້ແນວໃດ?
+
+397
+00:26:25,500 --> 00:26:28,300
+[BATMAN]
+Stumbled across it when I was a boy.
+ຂ້ອຍພົບມັນເມື່ອຂ້ອຍເປັນເດັກຊາຍ.
+
+398
+00:26:28,800 --> 00:26:31,250
+[VICKI]
+I don't like bats. Not that kind.
+ຂ້ອຍບໍ່ມັກແມງໄມ້. ບໍ່ແມ່ນປະເພດນັ້ນ.
+
+399
+00:26:31,750 --> 00:26:37,750
+[BATMAN]
+They used to terrify me. But I forced myself to keep coming back, and --  -- I guess I became the thing I feared the most. I'll do your photos now.
+ພວກເຂົາເຄີຍຢ້ານກົວຂ້ອຍ. ແຕ່ຂ້ອຍບັງຄັບຕົວເອງໃຫ້ກັບມາຕໍ່ໄປ, ແລະ - -
+ຂ້ອຍຄິດວ່າຂ້ອຍກາຍເປັນສິ່ງທີ່ຂ້ອຍຢ້ານທີ່ສຸດ. ຂ້ອຍຈະຖ່າຍຮູບຂອງທ່ານດຽວນີ້.
+
+400
+00:26:38,250 --> 00:26:40,250
+[VICKI]
+Who pays for all this?
+ໃຜຈ່າຍເງິນ ສໍາ ລັບສິ່ງທັງ ຫມົດ ນີ້?
+
+401
+00:26:40,750 --> 00:26:42,750
+[BATMAN]
+I have sponsors.
+ຂ້ອຍມີຜູ້ສະຫນັບສະຫນູນ.
+
+402
+00:26:43,250 --> 00:26:45,250
+[VICKI]
+The computers?
+ຄອມພິວເຕີບໍ?
+
+403
+00:26:45,750 --> 00:26:51,350
+[BATMAN]
+I'm running a check on the tainted products. There is a pattern. Beauty products. Personal hygiene.
+ຂ້ອຍ ກໍາ ລັງກວດສອບຜະລິດຕະພັນທີ່ເປື້ອນ.
+ມີຮູບແບບ. ຜະລິດຕະພັນຄວາມງາມ. ຄວາມສະອາດສ່ວນຕົວ.
+
+404
+00:26:51,850 --> 00:26:56,750
+[VICKI]
+No more makeup. -- Looks like we'll all be showing our true faces now.
+ບໍ່ມີເຄື່ອງແຕ່ງກາຍອີກຕໍ່ໄປ. -
+ເບິ່ງຄືວ່າພວກເຮົາທຸກຄົນຈະສະແດງໃບຫນ້າທີ່ແທ້ຈິງຂອງພວກເຮົາດຽວນີ້.
+
+405
+00:26:57,250 --> 00:27:03,250
+[BATMAN]
+I've tracked all the records. Every shipment, every warehouse, every loading dock. Nothing. No opportunities for tampering. Somehow the Joker is supplying tainted ingredients... at the source.
+ຂ້ອຍໄດ້ຕິດຕາມບັນທຶກທັງ ຫມົດ. ທຸກການຂົນສົ່ງ, ທຸກຮ້ານເກັບມ້ຽນ, ທຸກທ່າເຮືອໂຫຼດ. ບໍ່ມີຫຍັງເລີຍ
+. ບໍ່ມີໂອກາດໃນການປ່ຽນແປງ. ຢ່າງໃດກໍຕາມໂຈເກີ ກໍາ ລັງສະ ຫນອງ ສ່ວນປະກອບທີ່ເປື້ອນ... ຢູ່ແຫຼ່ງ.
+
+406
+00:27:03,750 --> 00:27:07,950
+[VICKI]
+Wait. You can just tap into any corporate database you want? Anywhere?
+ລໍຖ້າ. ເຈົ້າພຽງແຕ່ສາມາດເຂົ້າໄປໃນຖານຂໍ້ມູນຂອງບໍລິສັດໃດທີ່ທ່ານຕ້ອງການໄດ້ບໍ
+? ຢູ່ບ່ອນໃດກໍ່ຕາມບໍ?
+
+407
+00:27:08,450 --> 00:27:14,450
+[BATMAN]
+Oh, no. I let the FBI do that. Then I tap into the FBI. -- Your photos are ready.
+ໂອ້, ບໍ່. ຂ້ອຍປ່ອຍໃຫ້ FBI ເຮັດສິ່ງນັ້ນ.
+ຫຼັງຈາກນັ້ນຂ້ອຍເຂົ້າໄປໃນ FBI. - ຮູບຂອງທ່ານພ້ອມແລ້ວ.
+
+408
+00:27:14,950 --> 00:27:19,150
+[VICKI]
+You could've killed him, you know. You could have killed the Joker.
+ເຈົ້າອາດຈະຂ້າລາວໄດ້, ເຈົ້າຮູ້ແລ້ວ. ເຈົ້າສາມາດຂ້າໂຈເກີໄດ້.
+
+409
+00:27:19,650 --> 00:27:25,650
+[BATMAN]
+I had to save you, Vicki.  Here you go. I think I'll let you keep the whole set.
+ຂ້ອຍຕ້ອງຊ່ວຍເຈົ້າ, ວິກກີ. ມາແລ້ວ.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະປ່ອຍໃຫ້ເຈົ້າຮັກສາຊຸດທັງ ຫມົດ.
+
+410
+00:27:26,150 --> 00:27:28,150
+[VICKI]
+... Bruce?
+ບຣູສ?
+
+411
+00:27:28,650 --> 00:27:30,650
+[BATMAN]
+Are you talking to me?
+ເຈົ້າເວົ້າກັບຂ້ອຍບໍ?
+
+412
+00:27:31,150 --> 00:27:33,150
+[BRUCE]
+Vicki... ?
+ວິກກີ...?
+
+413
+00:27:33,650 --> 00:27:39,600
+[BRUCE]
+Vicki, I've been thinking about you.  I know it's late. I'm sorry. I -- Are you there?
+ວິກກີ, ຂ້ອຍ ກໍາ ລັງຄິດກ່ຽວກັບເຈົ້າ. ຂ້ອຍຮູ້ວ່າມັນຊ້າແລ້ວ
+. ຂ້ອຍຂໍໂທດ. ຂ້ອຍ - ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ?
+
+414
+00:27:40,100 --> 00:27:42,200
+[VICKI]
+Yes, Bruce -- I'm here --
+ແມ່ນແລ້ວ, ບຣູສ - ຂ້ອຍຢູ່ບ່ອນນີ້ -
+
+415
+00:27:42,700 --> 00:27:48,650
+[BRUCE]
+I'm sorry about the way things went between us. I'd very much like to see you again.
+ຂ້ອຍຂໍໂທດກ່ຽວກັບວິທີທີ່ສິ່ງຕ່າງໆເກີດຂຶ້ນລະຫວ່າງພວກເຮົາ
+. ຂ້ອຍຢາກເຫັນເຈົ້າອີກຄັ້ງຫຼາຍ.
+
+416
+00:27:49,150 --> 00:27:52,300
+[VICKI]
+Well, Bruce... I don't think... that would be possible.
+ດີ, ບຣູສ... ຂ້ອຍບໍ່ຄິດວ່າ... ນັ້ນຈະເປັນໄປໄດ້.
+
+417
+00:27:52,800 --> 00:27:58,800
+[BRUCE]
+I wish you'd reconsider.  I didn't stand you up today. The museum was closed when I got there.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າຄິດຄືນ. ຂ້ອຍບໍ່ໄດ້ຢືນເຈົ້າໃນມື້ນີ້
+. ຫໍພິພິທະພັນຖືກປິດເມື່ອຂ້ອຍມາຮອດບ່ອນນັ້ນ.
+
+418
+00:27:59,300 --> 00:28:01,300
+[VICKI]
+I, uh...
+ຂ້ອຍ, ອູ...
+
+419
+00:28:01,800 --> 00:28:03,800
+[BRUCE]
+Vicki? Vi --
+ວິກກີ? Vi -
+
+420
+00:28:04,300 --> 00:28:10,300
+[KNOX]
+Vicki, it all fits. The stuff you're telling me -- the car, the equipment -- somebody's paying for it.
+ວິກກີ, ມັນທັງ ຫມົດ ເຫມາະ ສົມ. ສິ່ງທີ່ທ່ານ ກໍາ
+ລັງບອກຂ້ອຍ - ລົດ, ອຸປະກອນ - ບາງຄົນ ກໍາ ລັງຈ່າຍຄ່າມັນ.
+
+421
+00:28:10,800 --> 00:28:12,800
+[VICKI]
+I just can't --
+ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດ...
+
+422
+00:28:13,300 --> 00:28:19,300
+[KNOX]
+The FBI. You know who's got the FBI computer contract? Wayne Technologies.  The guy's bats all right. He's bat shit crazy. This is gonna be the most incredible --
+FBI. ເຈົ້າຮູ້ວ່າໃຜມີສັນຍາຄອມພິວເຕີ FBI? ເວີນເທັກໂນໂລຢີ.
+ແມວຂອງຜູ້ຊາຍແມ່ນດີ. ລາວເປັນແມວໂຊກຮ້າຍ. ນີ້ແມ່ນຈະເປັນທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດ -
+
+423
+00:28:19,800 --> 00:28:21,800
+[VICKI]
+But he's not.
+ແຕ່ລາວບໍ່ແມ່ນ.
+
+424
+00:28:22,300 --> 00:28:24,300
+[KNOX]
+Not what?
+ບໍ່ແມ່ນຫຍັງ?
+
+425
+00:28:24,800 --> 00:28:26,800
+[VICKI]
+He's not crazy.
+ລາວບໍ່ແມ່ນຄົນໂຊກຮ້າຍ.
+
+426
+00:28:27,300 --> 00:28:33,300
+[KNOX]
+Vicki. We got a wealthy millionaire here... who dresses up like a bat. He goes out at night and swings around -- in his cape -- on a rope.  Okay. Maybe I'm crazy.
+ວິກກີ. ພວກເຮົາມີຄົນລ້ານຄົນຮັ່ງມີຢູ່ນີ້... ຜູ້ທີ່ໃສ່ເຄື່ອງນຸ່ງຫົ່ມຄືກັບແມງໄມ້.
+ລາວອອກໄປໃນຕອນກາງຄືນແລະຍ່າງຢູ່ອ້ອມຂ້າງ - ໃນຜ້າຄຸມຂອງລາວ - ກ່ຽວກັບສາຍແອວ. ດີ. ບາງທີຂ້ອຍໂຊກຮ້າຍ.
+
+427
+00:28:33,800 --> 00:28:39,800
+[VICKI]
+Allie... he wants to tell me. That's why he took me there. Because he's trying to tell me.
+ແອລລີ... ລາວຢາກບອກຂ້ອຍ. ນັ້ນແມ່ນເຫດຜົນທີ່ລາວພາຂ້ອຍໄປບ່ອນນັ້ນ
+. ເພາະວ່າລາວ ກໍາ ລັງພະຍາຍາມ ບອກຂ້ອຍ.
+
+428
+00:28:40,300 --> 00:28:45,200
+[KNOX]
+Gimme a break. If he wants to chat, he can talk to his car.
+ໃຫ້ຂ້ອຍພັກຜ່ອນ. ຖ້າລາວຢາກສົນທະນາ, ລາວສາມາດເວົ້າກັບລົດຂອງລາວໄດ້.
+
+429
+00:28:45,700 --> 00:28:50,600
+[VICKI]
+He has to tell someone. And I'm the one. He's trying to tell me.
+ລາວຕ້ອງບອກໃຜ. ແລະຂ້ອຍເປັນຄົນດຽວ. ລາວ ກໍາ ລັງພະຍາຍາມບອກຂ້ອຍ.
+
+430
+00:28:51,100 --> 00:28:53,900
+[KNOX]
+Well, when he does you know my number.
+ດີ, ເມື່ອລາວເຮັດເຈົ້າຮູ້ເບີຂອງຂ້ອຍ.
+
+431
+00:28:54,400 --> 00:28:56,400
+[WAR OF THE FREAKS]
+Batman, Joker in Fluegelheim Shootout
+ແບຕແມນ, ໂຈເກີໃນການຍິງຟລູເກລເຮມ
+
+432
+00:28:56,900 --> 00:29:00,750
+[STOCK MARKET CRASHES]
+Product Scare Drops Dow to 1100 Biggest One-Day Decline in History
+ຄວາມຢ້ານກົວຂອງຜະລິດຕະພັນຫຼຸດລົງ Dow ເຖິງ 1100
+ການຫຼຸດລົງມື້ດຽວທີ່ໃຫຍ່ທີ່ສຸດໃນປະຫວັດສາດ
+
+433
+00:29:01,250 --> 00:29:04,400
+[BRUCE]
+Don't sell. It won't last. We'll ride it out.
+ຢ່າຂາຍ. ມັນຈະບໍ່ຍືນຍົງ. ພວກເຮົາຈະຂີ່ມັນອອກ.
+
+434
+00:29:04,900 --> 00:29:06,900
+[WAILING COLLEAGUE]
+... a nine-million-dollar bath!
+... ອາບນ້ ໍາ ລາຄາເກົ້າລ້ານໂດລາ!
+
+435
+00:29:07,400 --> 00:29:11,950
+[BRUCE]
+Vicki?... This is Batman. I thought I'd call and see how you're doing.
+ວິກກີ?... ນີ້ແມ່ນແບຕແມນ.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະໂທຫາແລະເບິ່ງວ່າເຈົ້າເຮັດແນວໃດ.
+
+436
+00:29:12,450 --> 00:29:18,450
+[VICKI]
+... I know it's you, Bruce. I'm not going to talk to you unless we can discuss it.
+ຂ້ອຍຮູ້ວ່າມັນແມ່ນເຈົ້າ, ບຣູສ.
+ຂ້ອຍຈະບໍ່ເວົ້າກັບເຈົ້າຖ້າພວກເຮົາບໍ່ສາມາດປຶກສາຫາລືມັນໄດ້.
+
+437
+00:29:18,950 --> 00:29:22,450
+[BRUCE]
+Who's this "Bruce"? Are you trying to make me jealous?
+ບຣູສ໌ຄົນນີ້ແມ່ນໃຜ? ເຈົ້າ ກໍາ ລັງພະຍາຍາມເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍບໍ?
+
+438
+00:29:22,950 --> 00:29:25,400
+[VICKI]
+I'm serious, Bruce. We have to --
+ຂ້ອຍເວົ້າຈິງໃຈ, ບຣູສ. ພວກເຮົາຕ້ອງ -
+
+439
+00:29:25,900 --> 00:29:27,900
+[FINANCIER]
+Hi, Bruce.
+ສະບາຍດີ ບຣູສ.
+
+440
+00:29:28,400 --> 00:29:30,400
+[DENT]
+... We deal.
+ພວກເຮົາຕົກລົງກັນ.
+
+441
+00:29:30,900 --> 00:29:36,900
+[ADVISER]
+Harvey, please. I mean --  If your first official act as D.A. is to cut a deal with a terrorist...
+ຮາເວີ, ກະລຸນາ. ຂ້ອຍຫມາຍຄວາມວ່າ - ຖ້າການກະທໍາທາງການ ທໍາ
+ອິດຂອງທ່ານເປັນໄອຍະການແມ່ນເພື່ອເຮັດຂໍ້ຕົກລົງກັບພວກກໍ່ການຮ້າຍ...
+
+442
+00:29:37,400 --> 00:29:43,400
+[DENT]
+Screw that, Ed. We've got a market panic of national proportions. -- We've got 786 people dead.  I won't sacrifice one more life for the sake of appearing strong.
+ພວກເຮົາມີຄວາມຢ້ານກົວຕະຫຼາດທີ່ມີຂະຫນາດແຫ່ງຊາດ. - ພວກເຮົາມີຄົນຕາຍ
+786 ຄົນ. ຂ້ອຍຈະບໍ່ເສຍຊີວິດອີກຫນຶ່ງເພື່ອຄວາມເຫັນແຂງແຮງ.
+
+443
+00:29:43,900 --> 00:29:49,900
+[POLITICO]
+Harvey's right. We've got the 300th anniversary gala coming up. The networks won't even send in a crew.
+ຮາເວີເວົ້າຖືກຕ້ອງ. ພວກເຮົາມີງານລ້ຽງວັນຄົບຮອບ 300
+ປີ ກໍາ ລັງຈະມາເຖິງ. ເຄືອຂ່າຍຈະບໍ່ສົ່ງທີມງານເລີຍ.
+
+444
+00:29:50,400 --> 00:29:56,400
+[ADVISER]
+Harvey, the police are working round the clock, the feds are coming in. This thing could break any minute now.  Tell him, Jim.
+ຮາເວີ, ຕໍາຫຼວດ ກໍາ ລັງເຮັດວຽກຕະຫຼອດເວລາ, FBI ກໍາ
+ລັງເຂົ້າມາ. ສິ່ງນີ້ອາດຈະແຕກທຸກນາທີດຽວນີ້. ບອກລາວ, ຈິມ.
+
+445
+00:29:56,900 --> 00:29:58,900
+[GORDON]
+Cut the deal.
+ຕັດຂໍ້ຕົກລົງ.
+
+446
+00:29:59,400 --> 00:30:05,400
+[NEWS ANCHOR]
+... at City Hall, where the mayor is waiting to open negotiations with the clown-faced terrorist known as the Joker. It is now eight minutes past the appointed deadline, and still no word from --
+... ຢູ່ສະໂມສອນເມືອງ, ບ່ອນທີ່ເຈົ້າເມືອງ ກໍາ ລັງລໍຖ້າທີ່ຈະເປີດການເຈລະຈາກັບພວກກໍ່ການຮ້າຍທີ່ມີໃບຫນ້າໂຊກແຊງທີ່ເອີ້ນວ່າໂຈເກີ
+. ດຽວນີ້ມັນເກີນເວລາທີ່ກໍານົດໄວ້ແປດນາທີແລ້ວ, ແລະຍັງບໍ່ມີ ຄໍາ ເວົ້າຈາກ -
+
+447
+00:30:05,900 --> 00:30:09,750
+[REPORTER I]
+Look at 'em sweat. Can't wait for the next Gallup Poll.
+ເບິ່ງຄວາມຫວານຂອງພວກເຂົາແມ. ບໍ່ລໍຖ້າການສໍາຫຼວດ Gallup ຕໍ່ໄປໄດ້.
+
+448
+00:30:10,250 --> 00:30:14,450
+[REPORTER II]
+Hey Knox, cheer up. It ain't the Batman but it's pretty choice.
+ເຮ້ ໂນກສ໌, ສະບາຍໃຈ. ມັນບໍ່ແມ່ນແບຕແມນແຕ່ມັນເປັນທາງເລືອກທີ່ສວຍງາມ.
+
+449
+00:30:14,950 --> 00:30:16,950
+[JOKER]
+Joker here. Can we talk?
+ໂຈເກີຢູ່ບ່ອນນີ້. ພວກເຮົາສາມາດເວົ້າໄດ້ບໍ?
+
+450
+00:30:17,450 --> 00:30:23,450
+[MAYOR]
+"While this administration remains vehemently opposed to terrorism in any form, we are prepared to negotiate any reasonable demands which will guarantee the safety of the populace."
+ໃນຂະນະທີ່ລັດຖະບານນີ້ຍັງຄັດຄ້ານການກໍ່ການຮ້າຍຢ່າງຮຸນແຮງໃນທຸກຮູບແບບ,
+ພວກເຮົາພ້ອມທີ່ຈະເຈລະຈາທຸກຂໍ້ຮຽກຮ້ອງທີ່ສົມເຫດສົມຜົນທີ່ຈະຮັບປະກັນຄວາມປອດໄພຂອງປະຊາກອນ.
+
+451
+00:30:23,950 --> 00:30:29,950
+[JOKER]
+Huh. Demands. Well, gents, this is kinda embarrassing, but... I'm having such a swell time, I just haven't thought any up.
+ຮາ. ຄວາມຮຽກຮ້ອງຕ້ອງການ. ດີ, ພວກເຈົ້າ, ນີ້ແມ່ນໂຊກຮ້າຍບາງຢ່າງ, ແຕ່
+... ຂ້ອຍ ກໍາ ລັງມີເວລາທີ່ດີເລີດຫຼາຍ, ຂ້ອຍພຽງແຕ່ບໍ່ໄດ້ຄິດຫຍັງເລີຍ.
+
+452
+00:30:30,450 --> 00:30:36,450
+[MAYOR]
+All right, all right. Here's the deal. Total amnesty... and the sum of ten million dollars, payable in --
+ດີແລ້ວ, ດີແລ້ວ. ນີ້ແມ່ນຂໍ້ຕົກລົງ. ການອະໄພໂທດທັງ
+ຫມົດ... ແລະ ຈໍາ ນວນເງິນສິບລ້ານໂດລາ, ທີ່ຕ້ອງຈ່າຍໃນ -
+
+453
+00:30:36,950 --> 00:30:42,950
+[JOKER]
+Ten million dollars. Ten million dollars.  Ten mi-- YOU CHEAPSKATES! I've just wiped out the stock market. I've cost you billions!  I want ten million and one.
+ເງິນໂດລາສິບລ້ານໂດລາ. ເງິນໂດລານາທີ. ສິບມິລຽນາທີ - ເຈົ້າ CHEAPSKATES!
+ຂ້ອຍຫາກໍ່ທໍາລາຍຕະຫຼາດຫຼັກຊັບແລ້ວ. ຂ້ອຍໄດ້ເສຍຄ່າໃຫ້ເຈົ້າຫຼາຍພັນລ້ານ! ຂ້ອຍຢາກສິບ ລ້ານແລະຫນຶ່ງ.
+
+454
+00:30:43,450 --> 00:30:47,300
+[MAYOR]
+No, wait, please! We'll talk. Just tell us what you expect.
+ບໍ່, ລໍຖ້າ, ກະລຸນາ! ພວກເຮົາຈະເວົ້າ.
+ພຽງແຕ່ບອກພວກເຮົາວ່າເຈົ້າຄາດຫວັງຫຍັງ.
+
+455
+00:30:47,800 --> 00:30:52,350
+[JOKER]
+Goddammit, I expect to be treated like an ARTIST. GET OFF MY SCREEN!!
+ສະບາຍດີ, ຂ້ອຍຄາດວ່າຈະຖືກປິ່ນປົວຄືກັບນັກສິລະປິນ
+. ອອກຈາກ ຫນ້າ ຈໍຂອງຂ້ອຍ!!
+
+456
+00:30:52,850 --> 00:30:54,850
+[ALFRED]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+457
+00:30:55,350 --> 00:30:57,350
+[KNOX]
+Alexander Knox. Gotham Globe.
+ແອເລັກຊານດໍ ໂນກສ໌. ໂລກໂກຕາມ.
+
+458
+00:30:57,850 --> 00:31:00,300
+[ALFRED]
+Mr. Wayne is out for the day.
+ທ້າວເວີນອອກໄປໃນມື້ນີ້.
+
+459
+00:31:00,800 --> 00:31:06,050
+[KNOX]
+Actually, I wanted to talk to Batman. Pass that on to Mr. Wayne, would you?
+ໃນຄວາມເປັນຈິງ, ຂ້ອຍຢາກເວົ້າກັບແບຕແມນ
+. ສົ່ງມັນໄປຫາທ່ານເວີນ, ເຈົ້າຈະເຮັດບໍ?
+
+460
+00:31:06,550 --> 00:31:09,000
+[BRUCE]
+I've been expecting to hear from you.
+ຂ້ອຍຄາດວ່າຈະໄດ້ຍິນຈາກເຈົ້າ.
+
+461
+00:31:09,500 --> 00:31:13,000
+[KNOX]
+Well, that's how it is, chum. She tells me everything.
+ດີ, ນັ້ນແມ່ນວິທີທີ່ມັນເປັນ, ເພື່ອນ. ນາງບອກຂ້ອຍທຸກຢ່າງ.
+
+462
+00:31:13,500 --> 00:31:15,500
+[BRUCE]
+What is it you want?
+ເຈົ້າຢາກຫຍັງ?
+
+463
+00:31:16,000 --> 00:31:22,000
+[KNOX]
+Simple. You know the score. One column -- and I can bring all this tumbling down. I can take you off the streets once and for all.  I want you to hang up the suit. And I want you to stay away from Vicki.
+ງ່າຍດາຍ. ເຈົ້າຮູ້ຄະແນນ. ຄໍລໍາດຽວ - ແລະຂ້ອຍສາມາດເຮັດໃຫ້ສິ່ງທັງ ຫມົດ ນີ້ຕົກລົງໄດ້.
+ຂ້ອຍສາມາດເອົາເຈົ້າອອກຈາກຖະຫນົນຫົນທາງໄດ້ຄັ້ງດຽວແລະຕະຫຼອດໄປ. ຂ້ອຍຢາກໃຫ້ເຈົ້າວາງຊຸດ. ແລະຂ້ອຍຢາກໃຫ້ລູກຢູ່ຫ່າງຈາກວິກກີ.
+
+464
+00:31:22,500 --> 00:31:26,350
+[BRUCE]
+I can't do that. Not while the Joker's still out there.
+ຂ້ອຍບໍ່ສາມາດເຮັດແບບນັ້ນໄດ້. ບໍ່ແມ່ນໃນຂະນະທີ່ໂຈເກີຍັງຢູ່ບ່ອນນັ້ນ.
+
+465
+00:31:26,850 --> 00:31:32,100
+[KNOX]
+Then stay away from Vicki. That's all I want, man. I just want your word.
+ຫຼັງຈາກນັ້ນຢູ່ຫ່າງຈາກວິກກີ. ນັ້ນແມ່ນທັງຫມົດທີ່ຂ້ອຍຕ້ອງການ
+, ຜູ້ຊາຍ. ຂ້ອຍພຽງແຕ່ຕ້ອງການຄໍາຫມັ້ນສັນຍາຂອງທ່ານ.
+
+466
+00:31:32,600 --> 00:31:37,850
+[BRUCE]
+There's something I don't understand. If you've got the story, why haven't you printed it?
+ມີບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+ຖ້າເຈົ້າມີເລື່ອງ, ເປັນຫຍັງເຈົ້າບໍ່ໄດ້ພິມມັນ?
+
+467
+00:31:38,350 --> 00:31:41,850
+[KNOX]
+Because I --  Because she'd never speak to me again.
+ເພາະຂ້ອຍ - ເພາະວ່ານາງຈະບໍ່ເວົ້າກັບຂ້ອຍອີກເທື່ອຫນຶ່ງ.
+
+468
+00:31:42,350 --> 00:31:44,350
+[BRUCE]
+Do you want a drink?
+ເຈົ້າຢາກດື່ມບໍ?
+
+469
+00:31:44,850 --> 00:31:47,300
+[KNOX]
+Yeah, a drink. "Civilized."  Man-to- man, right?
+ແມ່ນແລ້ວ, ເຄື່ອງດື່ມ."ວັດທະນະທໍາ." ຜູ້ຊາຍຕໍ່ຜູ້ຊາຍ, ແມ່ນບໍ?
+
+470
+00:31:47,800 --> 00:31:51,650
+[BRUCE]
+Alfred, bring something for Mr. Knox. -- I'll have one too.
+ແອລຟີດ, ເອົາບາງສິ່ງບາງຢ່າງ ສໍາ ລັບທ່ານໂນກສ໌. - ຂ້ອຍຈະກິນອີກຫນຶ່ງ.
+
+471
+00:31:52,150 --> 00:31:58,150
+[VICKI]
+... So we just pretend none of this ever happened. We never met. We --  You're going to get yourself killed, Bruce. You know that, don't you?
+ສະນັ້ນພວກເຮົາພຽງແຕ່ເຮັດແບບວ່າບໍ່ມີຫຍັງເກີດຂຶ້ນເລີຍ. ພວກເຮົາບໍ່ເຄີຍພົບກັນ
+. ພວກເຮົາ - ເຈົ້າຈະເຮັດໃຫ້ຕົວເອງຖືກຂ້າຕາຍ, ບຣູສ. ເຈົ້າຮູ້ແລ້ວ, ແມ່ນບໍ?
+
+472
+00:31:58,650 --> 00:32:00,650
+[BRUCE]
+It wouldn't matter much.
+ມັນບໍ່ສໍາຄັນຫຼາຍ.
+
+473
+00:32:01,150 --> 00:32:06,400
+[VICKI]
+I don't understand it. You can do so much good for people. As Bruce Wayne.
+ຂ້ອຍບໍ່ເຂົ້າໃຈມັນ.
+ເຈົ້າສາມາດເຮັດຄວາມດີຫຼາຍຕໍ່ຄົນໄດ້. ເປັນບຣູສ ເວີນ.
+
+474
+00:32:06,900 --> 00:32:11,800
+[BRUCE]
+Money makes money, Vicki. The foundation runs itself. -- I'm extraneous to the process.
+ເງິນເຮັດເງິນ, ວິກກີ. ມູນນິທິ ດໍາ
+ເນີນງານດ້ວຍຕົນເອງ. - ຂ້ອຍບໍ່ສົນໃຈຂະບວນການ.
+
+475
+00:32:12,300 --> 00:32:14,750
+[VICKI]
+You're one man. You can't save everybody.
+ເຈົ້າເປັນຜູ້ຊາຍຄົນດຽວ. ເຈົ້າບໍ່ສາມາດຊ່ວຍທຸກຄົນໄດ້.
+
+476
+00:32:15,250 --> 00:32:20,150
+[BRUCE]
+What it I could save a handful? -- What if I could save one?
+ຂ້ອຍສາມາດຊ່ວຍເຫຼືອຄົນຈໍານວນຫນຶ່ງໄດ້ແນວໃດ
+? - ຖ້າຂ້ອຍສາມາດຊ່ວຍຄົນ ຫນຶ່ງ ໄດ້ແນວໃດ?
+
+477
+00:32:20,650 --> 00:32:24,500
+[VICKI]
+Bruce, at the rate you're going, you can't even save yourself.
+ບຣູສ, ໃນອັດຕາທີ່ທ່ານ ກໍາ ລັງໄປ,
+ເຈົ້າຍັງບໍ່ສາມາດຊ່ວຍຕົວເອງໄດ້ເລີຍ.
+
+478
+00:32:25,000 --> 00:32:29,200
+[BRUCE]
+Sometimes... I don't know if there's enough of me left to save.
+ບາງຄັ້ງ... ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຍັງເຫຼືອພຽງພໍທີ່ຈະຊ່ວຍເຫຼືອບໍ.
+
+479
+00:32:29,700 --> 00:32:33,200
+[VICKI]
+Oh, God. I've got to have some coffee or something.
+ໂອ້ ພຣະເຈົ້າ. ຂ້ອຍຕ້ອງດື່ມກາເຟບາງຢ່າງຫຼືບາງສິ່ງບາງຢ່າງ.
+
+480
+00:32:33,700 --> 00:32:35,700
+[BRUCE]
+Are you expecting anyone?
+ເຈົ້າຄາດຫວັງໃຜບໍ?
+
+481
+00:32:36,200 --> 00:32:38,200
+[DELIVERY BOY]
+Package tor Miss Vale.
+ກະເປົາ ສໍາ ລັບນາງເວລ.
+
+482
+00:32:38,700 --> 00:32:42,200
+[BRUCE]
+Set it down by the door. On the left-hand side.
+ເອົາມັນລົງຢູ່ຂ້າງປະຕູ. ຢູ່ດ້ານຊ້າຍ.
+
+483
+00:32:42,700 --> 00:32:48,300
+[BRUCE!]
+He strides past her, handling the parcel gingerly, and sets it down on the kitchen counter.
+ລາວຍ່າງຜ່ານນາງ, ການຈັດການກັບຊຸດຢ່າງລະມັດລະວັງ
+, ແລະວາງມັນລົງເທິງໂຕະຄົວ.
+
+484
+00:32:48,800 --> 00:32:50,800
+[BRUCE]
+Very thoughtful. Don't touch it.
+ຄວາມຄິດເຫັນຫຼາຍ. ຢ່າຈັບມັນ.
+
+485
+00:32:51,300 --> 00:32:55,150
+[VICKI]
+Oh, Bruce. Don't tell me you carry it around with you.
+ໂອ້ ບຣູສ. ຢ່າບອກຂ້ອຍວ່າເຈົ້າເອົາມັນຢູ່ກັບເຈົ້າ.
+
+486
+00:32:55,650 --> 00:32:57,650
+[BRUCE]
+I feel naked without it.
+ຂ້ອຍຮູ້ສຶກເປົ່າໂດຍບໍ່ມີມັນ.
+
+487
+00:32:58,150 --> 00:33:00,150
+[BRUCE]
+... They're wax.
+ພວກເຂົາເປັນ wax.
+
+488
+00:33:00,650 --> 00:33:05,550
+[VICKI]
+"It worked for Van Gogh. Let's make up. I'll need you soon." -- Whew.
+ມັນເຮັດວຽກ ສໍາ ລັບວານ ໂກກ. ມາແກ້ໄຂກັນ
+. ຂ້ອຍຈະຕ້ອງການເຈົ້າໃນໄວໆນີ້. - Whew.
+
+489
+00:33:06,050 --> 00:33:09,200
+[BRUCE]
+That does it. It's going to be this weekend.
+ນັ້ນເຮັດມັນແລ້ວ. ມັນຈະເປັນທ້າຍອາທິດນີ້.
+
+490
+00:33:09,700 --> 00:33:13,550
+[ALICIA]
+I thought you ought to know -- he's coming for you...
+ຂ້ອຍຄິດວ່າເຈົ້າຄວນຮູ້ - ລາວ ກໍາ ລັງມາຫາເຈົ້າ...
+
+491
+00:33:14,050 --> 00:33:16,050
+[BRUCE]
+Keep her on the line!
+ຮັກສານາງຢູ່ສາຍ!
+
+492
+00:33:16,550 --> 00:33:18,650
+[VICKI]
+... Where are you calling from?
+ເຈົ້າໂທຈາກໃສ?
+
+493
+00:33:19,150 --> 00:33:21,950
+[VICKI]
+I'm sorry, she hung up. What are --
+ຂ້ອຍຂໍໂທດ, ນາງປິດ. ແມ່ນຫຍັງແມ່ນ -
+
+494
+00:33:22,450 --> 00:33:24,450
+[BRUCE]
+Finding out where she is.
+ຊອກຫາວ່ານາງຢູ່ໃສ.
+
+495
+00:33:24,950 --> 00:33:28,800
+[VICKI]
+How can you do that if she's already off the line?
+ເຈົ້າເຮັດໄດ້ແນວໃດຖ້ານາງອອກຈາກສາຍແລ້ວ?
+
+496
+00:33:29,300 --> 00:33:34,900
+[BRUCE]
+I've had an automatic tracer on this number ever since he tracked you to the museum.
+ຂ້ອຍມີເຄື່ອງຕິດຕາມອັດຕະໂນມັດຢູ່ເບີນີ້
+ນັບຕັ້ງແຕ່ລາວຕິດຕາມເຈົ້າໄປຫໍພິພິທະພັນ.
+
+497
+00:33:35,400 --> 00:33:37,400
+[BRUCE]
+Got it!
+ຂ້ອຍເຂົ້າໃຈແລ້ວ!
+
+498
+00:33:37,900 --> 00:33:39,900
+[VICKI]
+What now!
+ດຽວນີ້ຫຍັງ!
+
+499
+00:33:40,400 --> 00:33:43,200
+[BRUCE]
+Hang on. I have to leave a message.
+ລໍຖ້າ. ຂ້ອຍຕ້ອງປ່ອຍຂໍ້ຄວາມໄວ້.
+
+500
+00:33:43,700 --> 00:33:49,650
+[THUG I]
+Hi, Miss Vale. Let's not put up a fight, huh? 'Cause we'd hate to have to --
+ສະບາຍດີ, ນາງເວລ. ພວກເຮົາຢ່າຕໍ່ສູ້ກັນ
+, ແມ່ນບໍ? ເພາະວ່າພວກເຮົາບໍ່ຢາກຕ້ອງ -
+
+501
+00:33:50,150 --> 00:33:52,250
+[BRUCE]
+There's a garage in this building?
+ມີ garage ໃນອາຄານນີ້ບໍ?
+
+502
+00:33:52,750 --> 00:33:54,750
+[BRUCE]
+Oh, hell!
+ໂອ້, ສະບາຍດີ!
+
+503
+00:33:55,250 --> 00:33:57,700
+[GOON]
+Hey, boss, something's up. The elevator's working.
+ເຮ້, ຫົວຫນ້າ, ມີບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນ. ຍົກກໍາລັງເຮັດວຽກ.
+
+504
+00:33:58,200 --> 00:34:02,400
+[JOKER]
+DAMMIT! You can't get good help these days. -- Let's move out.
+ໂຊກຮ້າຍ! ເຈົ້າບໍ່ສາມາດໄດ້ຮັບຄວາມຊ່ວຍເຫຼືອທີ່ດີໃນມື້ນີ້
+. - ໄປອອກໄປ.
+
+505
+00:34:02,900 --> 00:34:04,900
+[JOKER]
+Slow down, you maniac!
+ຊ້າລົງ, ເຈົ້າໂຊກຮ້າຍ!
+
+506
+00:34:05,400 --> 00:34:07,400
+[DRIVER]
+Boss! Jesus! They've --
+ຫົວຫນ້າ! ພຣະເຢຊູ! ພວກເຂົາໄດ້ -
+
+507
+00:34:07,900 --> 00:34:11,750
+[JOKER]
+They'll be sorry. They'll be sorry. -- GET OUT OF HERE!
+ພວກເຂົາຈະເສຍໃຈ. ພວກເຂົາຈະຂໍໂທດ. - ອອກຈາກບ່ອນນີ້!
+
+508
+00:34:12,250 --> 00:34:14,250
+[JOKER]
+MOVE! Can't you do something??
+ຍ້າຍໄປ! ເຈົ້າບໍ່ສາມາດເຮັດຫຍັງໄດ້ບໍ??
+
+509
+00:34:14,750 --> 00:34:18,250
+[DRIVER]
+It's some kind of detour. They're backed up for blocks!
+ມັນເປັນການຫັນທາງບາງຢ່າງ. ພວກເຂົາຖືກສະ ຫນັບ ສະ ຫນູນ ສໍາ ລັບບລັອກ!
+
+510
+00:34:18,750 --> 00:34:21,900
+[JOKER]
+Oh my God. How does he do it... ?
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ. ລາວເຮັດແນວໃດ...?
+
+511
+00:34:22,400 --> 00:34:28,400
+[EMCEE]
+-- the most spectacular, most death- defying aerial stunt ever devised. Tonight -- for the first time anywhere -- THE FLYING GRAYSONS!
+- ການກະຕຸ້ນທາງອາກາດທີ່ສວຍງາມທີ່ສຸດ, ທີ່ທ້າທາຍຄວາມຕາຍທີ່ສຸດທີ່ເຄີຍຄິດສ້າງຂື້ນ
+. ມື້ນີ້ - ເປັນຄັ້ງ ທໍາ ອິດຢູ່ບ່ອນໃດກໍ່ຕາມ - ພວກແກຣຊອນບິນ!
+
+512
+00:34:28,900 --> 00:34:30,900
+[PILOT]
+Ready to go, Dick?
+ພ້ອມແລ້ວທີ່ຈະໄປ, ດິກ?
+
+513
+00:34:31,400 --> 00:34:33,500
+[DICK]
+What's all the ruckus down there?
+ຄວາມວຸ້ນວາຍທັງ ຫມົດ ຢູ່ລຸ່ມນັ້ນເປັນຫຍັງ?
+
+514
+00:34:34,000 --> 00:34:36,000
+[JOKER]
+Head for the truck!
+ໄປຫາລົດບັນທຸກ!
+
+515
+00:34:36,500 --> 00:34:38,500
+[JOKER]
+I love fireworks!
+ຂ້ອຍມັກໄຟຟ້າ!
+
+516
+00:34:39,000 --> 00:34:45,000
+[NO! NOOOOOOOO!!!!]
+His face is contorted with rage and pain. The PILOT struggles desperately to right the copter, barely avoiding a collision with the nearest building. And then -- before THE PILOT can make a move to stop him -- DICK HAS JUMPED OUT OF THE COPTER.
+ໃບຫນ້າຂອງລາວຈົບແນ່ດ້ວຍຄວາມໂຊກຮ້າຍແລະຄວາມເຈັບປວດ. ນັກບິນຕໍ່ສູ້ຢ່າງເດືອດຮ້ອນເພື່ອແກ້ໄຂເຮືອບິນ ເຮືອບິນເຮືອບັນທຸກ,
+ພຽງແຕ່ຫຼີກເວັ້ນການຕໍາກັບອາຄານທີ່ໃກ້ທີ່ສຸດ. ແລະຫຼັງຈາກນັ້ນ - ກ່ອນທີ່ນັກບິນສາມາດເຄື່ອນໄຫວເພື່ອຢຸດລາວ - ດີກ໌ໄດ້ໂດດອອກຈາກເຮືອບານເຮືອບົນທຸກ.
+
+517
+00:34:45,500 --> 00:34:51,500
+[LET ME GO! LET ME --]
+THE JOKER steps casually out of the van. TWO GOONS with MACHINE GUNS emerge behind him. PEDESTRIANS SCREAM as the GOONS level their guns at the CROWD.
+ຄົນໂຈກເກີອອກຈາກລົດບັນທຸກຢ່າງບໍ່ເປັນຫຍັງ. ເຄື່ອງປືນສອງຄົນທີ່ມີປືນເຄື່ອງຈັກປາກົດຕົວຢູ່ເບື້ອງຫຼັງລາວ
+. ຄົນຍ່າງຮ້ອງໄຫ້ໃນຂະນະທີ່ເຄື່ອງປືນວາງປືນຂອງພວກເຂົາຕໍ່ຄົນຊົມເຊີຍ.
+
+518
+00:34:52,000 --> 00:34:56,900
+[YOU PIECE OF -- YOU MOTHERF--]
+DICK is kicking, screaming, clawing, biting. BATMAN has his hands full restraining the kid.
+ດິກກ໌ ກໍາ ລັງຕີ, ຮ້ອງໄຫ້, ກະຕຸ້ນ,
+ກັດ. ແບຕແມນມີມືເຕັມທີ່ຄວບຄຸມເດັກນ້ອຍ.
+
+519
+00:34:57,400 --> 00:35:00,900
+[JOKER]
+Like your boyfriend. He's kinda hot.  Hands off the belt.
+ຄືກັບແຟນຂອງທ່ານ. ລາວຮ້ອນບາງຢ່າງ. ມືອອກຈາກສາຍແອວ.
+
+520
+00:35:01,400 --> 00:35:03,500
+[BATMAN]
+Take me. Let the boy go.
+ເອົາຂ້ອຍໄປ. ໃຫ້ເດັກຊາຍໄປ.
+
+521
+00:35:04,000 --> 00:35:10,000
+[JOKER]
+Gosh, I could kill you, but then you'd miss my party. And I'd be real, real sad if you couldn't make it.
+ພຣະເຈົ້າ, ຂ້ອຍສາມາດຂ້າເຈົ້າໄດ້, ແຕ່ຫຼັງຈາກນັ້ນເຈົ້າຈະພາດງານລ້ຽງຂອງຂ້ອຍ
+. ແລະຂ້ອຍຈະໂຊກຮ້າຍແທ້ໆ, ແທ້ໆຖ້າເຈົ້າບໍ່ສາມາດມາໄດ້.
+
+522
+00:35:10,500 --> 00:35:12,500
+[BATMAN]
+What are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+523
+00:35:13,000 --> 00:35:19,000
+[JOKER]
+Batman! Don't you even recognize your old pal Jack? After all...  You made me what I am today.
+ແບຕແມນ! ເຈົ້າຍັງບໍ່ຮູ້ຈັກເພື່ອນເກົ່າຂອງທ່ານແຈກບໍ?
+ຫຼັງຈາກນັ້ນ... ເຈົ້າເຮັດໃຫ້ຂ້ອຍເປັນສິ່ງທີ່ຂ້ອຍເປັນມື້ນີ້.
+
+524
+00:35:19,500 --> 00:35:25,500
+[MY --]
+BATMAN flinches at the sound of the words. He reaches into his belt and -- mercifully -- breaks a KNOCKOUT CAPSULE under DICK's nose.
+ແບຕແມນສັ່ນສະເທືອນຕໍ່ສຽງຂອງຄໍາເວົ້າ. ລາວຍືດເຂົ້າໄປໃນສາຍແອວຂອງລາວແລະ
+- ດ້ວຍຄວາມເມດຕາ - ທໍາ ລາຍກະເປົາ Knockout ພາຍໃຕ້ດັງຂອງດິກກ໌.
+
+525
+00:35:26,000 --> 00:35:32,000
+[REPORTER]
+... on a tip attributed to the mysterious Batman. The apartment was booby-trapped with the Joker's laughing gas, leaving 17 policemen dead.  Also found dead at the scene was Alicia Hunt, 26, a former model --
+... ກ່ຽວກັບຂໍ້ແນະນໍາທີ່ຍ້ອນໃຫ້ແບຕແມນທີ່ລຶກລັບ. ອາພາດເມັນຖືກຈັບກຸມດ້ວຍແກັສມ່ວນຂອງໂຈເກີ,
+ເຮັດໃຫ້ຕໍາຫຼວດ 17 ຄົນຕາຍ. ນອກຈາກນັ້ນພົບເຫັນຕາຍຢູ່ບ່ອນເກີດເຫດແມ່ນອາລີເຊຍ ຮັງຕ໌, 26, ເປັນຕົວແບບເກົ່າ -
+
+526
+00:35:32,500 --> 00:35:34,500
+[DICK]
+... Where am I?
+ຂ້ອຍຢູ່ໃສ?
+
+527
+00:35:35,000 --> 00:35:40,250
+[BRUCE]
+My name is Bruce Wayne. You're welcome to stay here as long as you want.
+ຂ້ອຍຊື່ວ່າ ບຣູສ ເວີນ.
+ເຈົ້າຍິນດີຕ້ອນຮັບທີ່ຈະຢູ່ບ່ອນນີ້ດົນເທົ່າທີ່ທ່ານຕ້ອງການ.
+
+528
+00:35:40,750 --> 00:35:44,950
+[DENT]
+We'll send a team into Ace the moment the warrant comes through.
+ພວກເຮົາຈະສົ່ງທີມງານເຂົ້າໄປໃນເອສໃນເວລາທີ່ຄໍາສັ່ງຜ່ານມາ.
+
+529
+00:35:45,450 --> 00:35:49,650
+[BRUCE]
+He'll be ready when you do. Remember what happened at the apartment.
+ລາວຈະພ້ອມເມື່ອເຈົ້າເຮັດ. ຈື່ສິ່ງທີ່ເກີດຂຶ້ນຢູ່ອາພາດເມັນ.
+
+530
+00:35:50,150 --> 00:35:52,600
+[DENT]
+All right, Bruce, what do you suggest?
+ດີແລ້ວ ບຣູສ, ເຈົ້າແນະ ນໍາ ຫຍັງ?
+
+531
+00:35:53,100 --> 00:35:55,200
+[BRUCE]
+I suggest a nice big bomb.
+ຂ້ອຍແນະ ນໍາ ລະເບີດໃຫຍ່ທີ່ສວຍງາມ.
+
+532
+00:35:55,700 --> 00:36:00,950
+[DENT]
+Good. A bomb. On a blind tip from Bruce Wayne. -- We do have laws.
+ດີ. ລະເບີດ. ຕາມຂໍ້ແນະນໍາຕາບອດຈາກບຣູສ
+ເວີນ. - ພວກເຮົາມີກົດ ຫມາຍ ແທ້ໆ.
+
+533
+00:36:01,450 --> 00:36:04,600
+[BRUCE]
+Then for God's sake, Harvey, cancel the anniversary celebration.
+ຫຼັງຈາກນັ້ນເພື່ອຄວາມຮັກຂອງພຣະເຈົ້າ,
+ຮາເວີ, ຍົກເລີກການສະເຫຼີມສະຫຼອງວັນຄົບຮອບ.
+
+534
+00:36:05,100 --> 00:36:10,000
+[DENT]
+We've told him we'll deal. What could he possibly have to gain by --
+ພວກເຮົາບອກລາວວ່າພວກເຮົາຈະເຮັດຂໍ້ຕົກລົງ. ລາວອາດຈະໄດ້ຮັບຫຍັງຈາກ -
+
+535
+00:36:10,500 --> 00:36:13,650
+[BRUCE]
+Do you still think the Joker cares about money??
+ເຈົ້າຍັງຄິດວ່າໂຈເກີສົນໃຈເງິນບໍ??
+
+536
+00:36:14,150 --> 00:36:19,750
+[DENT]
+I don't know. I'm just a D.A. I don't have access to all your expert sources.
+ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍພຽງແຕ່ເປັນໄອຍະການ.
+ຂ້ອຍບໍ່ມີການເຂົ້າເຖິງແຫຼ່ງຂໍ້ມູນຜູ້ຊ່ຽວຊານທັງ ຫມົດ ຂອງທ່ານ.
+
+537
+00:36:20,250 --> 00:36:24,800
+[DICK]
+... Your butler wouldn't gimme a ride so I figured I'd hoof it.
+ຜູ້ຮັບໃຊ້ຂອງທ່ານຈະບໍ່ໃຫ້ຂ້ອຍຂັບລົດ ສະນັ້ນຂ້ອຍຄິດວ່າຂ້ອຍຈະຂັບມັນ.
+
+538
+00:36:25,300 --> 00:36:27,400
+[BRUCE]
+Sorry. I can't let you leave.
+ຂໍໂທດ. ຂ້ອຍບໍ່ສາມາດປ່ອຍໃຫ້ເຈົ້າອອກໄປໄດ້.
+
+539
+00:36:27,900 --> 00:36:30,700
+[DICK]
+You can't keep me here, man. That's kidnapping.
+ເຈົ້າບໍ່ສາມາດຮັກສາຂ້ອຍຢູ່ບ່ອນນີ້ໄດ້, ຜູ້ຊາຍ. ນັ້ນແມ່ນການລັກພາຕົວ.
+
+540
+00:36:31,200 --> 00:36:37,200
+[BRUCE]
+If I let you leave, you'll do the same thing again. You'll go after the Joker... and you'll wind up dead.
+ຖ້າຂ້ອຍປ່ອຍໃຫ້ເຈົ້າອອກໄປ, ເຈົ້າຈະເຮັດສິ່ງດຽວກັນອີກຄັ້ງ
+. ເຈົ້າຈະໄປຕາມໂຈເກີ... ແລະເຈົ້າຈະສິ້ນສຸດລົງຕາຍ.
+
+541
+00:36:37,700 --> 00:36:43,700
+[DICK]
+Hey, man. Look at you. You're rich. You got everything you want. How do you know what's in my mind?
+ເຮ້, ຜູ້ຊາຍ. ເບິ່ງຕົວເອງແມ. ເຈົ້າຮັ່ງມີ. ເຈົ້າມີທຸກຢ່າງທີ່ທ່ານຕ້ອງການ
+. ເຈົ້າຮູ້ແນວໃດວ່າມີຫຍັງຢູ່ໃນຈິດໃຈຂອງຂ້ອຍ?
+
+542
+00:36:44,200 --> 00:36:47,350
+[BRUCE]
+I don't care what's in your mind. You're staying.
+ຂ້ອຍບໍ່ສົນໃຈວ່າເຈົ້າຄິດຫຍັງ. ເຈົ້າຈະຢູ່.
+
+543
+00:36:47,850 --> 00:36:49,850
+[DICK]
+... You're him.
+ເຈົ້າເປັນລາວ.
+
+544
+00:36:50,350 --> 00:36:56,350
+[FREEZE!]
+DICK and BRUCE look around. The puny, mustachioed butler stands in the doorway, feet spread in a Dirty Harry stance, a .44 MAGNUM trained on DICK.
+ດິກກ໌ ແລະ ບຣູສ໌ເບິ່ງຢູ່ອ້ອມຂ້າງ. ຜູ້ຮັບໃຊ້ທີ່ສວຍງາມ, ມີ mustachioed
+ຢືນຢູ່ປະຕູ, ຕີນກະຈາຍໃນສະຖານະການແຮຣີເປື້ອນ,.44 MAGNUM ທີ່ຝຶກອົບຮົມກ່ຽວກັບດິກ.
+
+545
+00:36:56,850 --> 00:36:59,300
+[BRUCE]
+It's all right, Alfred. Everything's under control.
+ມັນບໍ່ເປັນຫຍັງແອລຟີດ. ທຸກຢ່າງຢູ່ພາຍໃຕ້ການຄວບຄຸມ.
+
+546
+00:36:59,800 --> 00:37:01,800
+[ALFRED]
+... Very good, sir.
+ດີຫຼາຍເດີເດີເດີ.
+
+547
+00:37:02,300 --> 00:37:07,900
+[JOKER]
+Thankya, thankya. Ladies and germs, I'm here to tell you... we have had one helluva quarter.
+ຂອບໃຈ, ຂອບໃຈ. ແມ່ຍິງແລະເຊື້ອແມວ,
+ຂ້ອຍຢູ່ບ່ອນນີ້ເພື່ອບອກເຈົ້າ... ພວກເຮົາມີສີ່ແສນແມລູວາ ຫນຶ່ງ.
+
+548
+00:37:08,400 --> 00:37:12,250
+[JOKER]
+Look at that, folks. We got 'em rolling in the aisles!
+ເບິ່ງມັນແມ. ພວກເຮົາມີພວກມັນລວດລ້ອມໃນທາງຜ່ານ!
+
+549
+00:37:12,750 --> 00:37:18,750
+[BRUCE]
+All this apparatus, Vicki... this house, and the money, and the power... it was never mine. It was something I inherited. Bruce Wayne was something I inherited.  All I ever hoped for was someone who could see through Bruce -- who could see me -- and not be frightened.
+ອຸປະກອນທັງ ຫມົດ ນີ້, ວິກກີ... ເຮືອນນີ້, ແລະເງິນ, ແລະພະລັງງານ... ມັນບໍ່ເຄີຍເປັນຂອງຂ້ອຍເລີຍ. ມັນແມ່ນບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍໄດ້ຮັບມໍລະດົກ. ບຣູສ
+ເວີນແມ່ນບາງສິ່ງ ບາງຢ່າງທີ່ຂ້າພະເຈົ້າໄດ້ຮັບມິມິນ. ສິ່ງດຽວທີ່ຂ້ອຍຫວັງແມ່ນຄົນໃດທີ່ສາມາດເຫັນຜ່ານບຣຸສ - ຜູ້ທີ່ສາມາດເຫັນຂ້ອຍໄດ້ - ແລະບໍ່ຢ້ານກົວ.
+
+550
+00:37:19,250 --> 00:37:22,750
+[VICKI]
+I'm not frightened of you, Bruce. I'm frightened for you.
+ຂ້ອຍບໍ່ຢ້ານເຈົ້າ, ບຣູສ. ຂ້ອຍຢ້ານສໍາລັບເຈົ້າ.
+
+551
+00:37:23,250 --> 00:37:27,800
+[BRUCE]
+In all these years... why couldn't I see how it would turn out?
+ໃນທຸກປີນີ້... ເປັນຫຍັງຂ້ອຍຈຶ່ງບໍ່ເຫັນວ່າມັນຈະເກີດຂຶ້ນແນວໃດ?
+
+552
+00:37:28,300 --> 00:37:30,300
+[BRUCE]
+Where's the boy?
+ເດັກຊາຍຢູ່ໃສ?
+
+553
+00:37:30,800 --> 00:37:32,800
+[ALFRED]
+Upstairs. He's quite docile.
+ຢູ່ເທິງ. ລາວມີຄວາມອ່ອນແອຫຼາຍ.
+
+554
+00:37:33,300 --> 00:37:35,750
+[BRUCE]
+I know that feeling. It won't last.
+ຂ້ອຍຮູ້ຄວາມຮູ້ສຶກນັ້ນ. ມັນຈະບໍ່ຍືນຍົງ.
+
+555
+00:37:36,250 --> 00:37:38,250
+[ALFRED]
+Yes, sir.
+ແມ່ນແລ້ວເດີ.
+
+556
+00:37:38,750 --> 00:37:44,750
+[BRUCE]
+He'll be taken care of financially. Beyond that... you know what to do. Don't let all this go to waste.
+ລາວຈະໄດ້ຮັບການເບິ່ງແຍງທາງດ້ານການເງິນ. ນອກຈາກນັ້ນ...
+ເຈົ້າຮູ້ວ່າຈະເຮັດແນວໃດ. ຢ່າປ່ອຍໃຫ້ສິ່ງທັງ ຫມົດ ນີ້ເສຍຫາຍ.
+
+557
+00:37:45,250 --> 00:37:47,250
+[DISPATCHER]
+Boston, Philly: loading bay one.
+ໂບສຕັນ, ຟີລລີ: ຖັງໂຫຼດຄັ້ງທີຫນຶ່ງ.
+
+558
+00:37:47,750 --> 00:37:49,750
+[COMPUTER]
+... Detonate.
+ລະເບີດ.
+
+559
+00:37:50,250 --> 00:37:52,250
+[COP]
+Good Lord!
+ພຣະເຈົ້າທີ່ດີ!
+
+560
+00:37:52,750 --> 00:37:58,750
+[GOVERNOR GILROY]
+As Governor of this great state, it is now my honor to unveil for you a very special lady -- a lady who stands tall for life and liberty -- America's favorite lady... LADY
+ໃນຖານະວ່າເປັນຜູ້ປົກຄອງຂອງລັດທີ່ຍິ່ງໃຫຍ່ນີ້, ດຽວນີ້ມັນເປັນກຽດຂອງຂ້ອຍທີ່ຈະເປີດເຜີຍ ສໍາ
+ລັບທ່ານຜູ້ຍິງພິເສດຫຼາຍ - ຜູ້ຍິງທີ່ຢືນສູງເພື່ອຊີວິດແລະເສລີພາບ - ແມ່ຍິງທີ່ມັກທີ່ສຸດຂອງອາເມລິກາ... ແມ່ຍິງ
+
+561
+00:37:59,250 --> 00:38:05,250
+[GOTHAM!]
+The CROWD begins to APPLAUD RHYTHMICALLY, chanting 'LADY GOTHAM! LADY GOTHAM!' It's like Times Square on New Year's Eve, waiting for the big ball to drop. GILROY hoists a pair of oversized scissors and cuts a ceremonial ribbon: hydraulic CRANES kick into gear: CABLES DROP FREE, and the canvas cover draws back from LADY GOTHAM's face...
+ຄົນຊົມເຊີຍເລີ່ມແຊກແຊງຢ່າງ Rhythmically, ຮ້ອງເພງວ່າ'Lady Gotham! Lady Gotham!' ມັນຄ້າຍຄືກັບສະໂມສອນໄມສ໌ໃນຕອນບ່າຍປີໃຫມ່, ລໍຖ້າບານໃຫຍ່ທີ່ຈະຕົກລົງ. Gilroy ຍົກສອງສາມ
+scissors ຂະຫນາດໃຫຍ່ເກີນໄປແລະຕັດສາຍພິທີ: ຄຣານໄຮໂດຼລິກ kick ເຂົ້າໄປໃນ gear: ສາຍໄຟຫຼຸດລົງຟຣີ, ແລະຜ້າປົກຫຸ້ມຫໍ່ pulls ກັບຄືນຈາກໃບຫນ້າຂອງ Lady GOTHAM ໄດ້...
+
+562
+00:38:05,750 --> 00:38:11,700
+[JOKER]
+HAPPY BIRTHDAY, Gotham. Here's a little token of my esteem. HAVE FUN... 'cause THE PARTY'S ON ME!
+ສະບາຍດີວັນເກີດ, ໂກທາມ. ນີ້ແມ່ນເຄື່ອງຫມາຍນ້ອຍໆຂອງການຍ້ອງຍໍຂອງຂ້ອຍ
+. ໄດ້ມ່ວນຊື່ນ... ເພາະວ່າງານລ້ຽງແມ່ນຢູ່ເທິງຂ້ອຍ!
+
+563
+00:38:12,200 --> 00:38:18,200
+[VICKI!]
+VICKI sees KNOX, climbs into the passenger seat. He's wearing a big smile. They're jazzed, oblivious to danger.
+ວິກກີເຫັນ KNOX, ຂຶ້ນໄປໃນບ່ອນນັ່ງຜູ້ໂດຍສານ.
+ລາວໃສ່ຄວາມມ່ວນຊື່ນທີ່ໃຫຍ່. ພວກເຂົາຖືກຈາສ໌, ບໍ່ຮູ້ເຖິງອັນຕະລາຍ.
+
+564
+00:38:18,700 --> 00:38:20,700
+[VICKI]
+Yeah. Deja vu.
+ແມ່ນແລ້ວ. Deja vu.
+
+565
+00:38:21,200 --> 00:38:24,350
+[KNOX]
+What do you say? Let's head for the lights.
+ເຈົ້າຄິດແນວໃດ? ໄປສູ່ແສງສະຫວ່າງ.
+
+566
+00:38:24,850 --> 00:38:26,850
+[KNOX]
+So much for Underdog.
+ຫຼາຍປານໃດ ສໍາ ລັບ Underdog.
+
+567
+00:38:27,350 --> 00:38:33,350
+[WHAT HAPPENED?!?]
+VICKI stares back at the green cloud. Turns. And sees, up the street, THE JOKER'S PROCESSION: BALLOONS BY THE DOZEN!
+ວິກກີເບິ່ງກັບຄືນໄປບ່ອນກັບເມກສີຂຽວ. ຫັນໄປ. ແລະເຫັນ
+, ຂຶ້ນຖະຫນົນຫົນທາງ, ຂະບວນການຂອງໂຈເກີ: ບາລອນໂດຍສິບ!
+
+568
+00:38:33,850 --> 00:38:38,400
+[VICKI]
+Oh my God. Compressor tanks. He's got the balloons rigged with compressor tanks!!
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ. ຖັງເຄື່ອງຄອມພິວເຕີ.
+ລາວມີບາລອນທີ່ຖືກຕິດຕັ້ງດ້ວຍຖັງເຄື່ອງກັ່ນຕອງ!!
+
+569
+00:38:38,900 --> 00:38:41,000
+[KNOX]
+Jesus Christ, the guy's a genius.
+ພຣະເຢຊູຄຣິດ, ຜູ້ຊາຍຄົນນັ້ນເປັນວິລະຊົນ.
+
+570
+00:38:41,500 --> 00:38:46,050
+[LOOK! IT'S BRUCE!!]
+Allie -- the balloons. We've got to find some way to tell him!
+ອາລີ - ບາລອນ. ພວກເຮົາຕ້ອງຊອກຫາວິທີໃດຫນຶ່ງທີ່ຈະບອກລາວ!
+
+571
+00:38:46,550 --> 00:38:48,550
+[KNOX]
+Great. How??
+ດີເລີດ. ແນວໃດ??
+
+572
+00:38:49,050 --> 00:38:55,050
+[GIMME A HAND UP HERE!]
+VICKI climbs aboard. They drape the cape over the face of the spotlight. Then they put their shoulders to the swivel assembly -- tilting the spotlight -- AIMING THE BEAM...
+ຄຸເຂົ່າລົງ
+
+573
+00:38:55,550 --> 00:38:57,550
+[JOKER]
+No... NOOOOO!!!
+ບໍ່... NOOOOO!!!
+
+574
+00:38:58,050 --> 00:39:00,050
+[JOKER]
+There. There. -- GET 'EM!!
+ນັ້ນ. ນັ້ນ. - ເອົາພວກມັນ!!
+
+575
+00:39:00,550 --> 00:39:06,550
+[GET THE CAR!]
+The JOKER'S GOONS are coming up fast as VICKI reaches the Ford, starts it, and comes ROARING UP toward KNOX. He jumps off the truck as VICKI twists the wheel, lays a track of rubber, and noses the car back in the opposite direction.
+ເຄື່ອງນຸ່ງຫົ່ມຂອງໂຈເກີ ກໍາ ລັງຂຶ້ນຢ່າງໄວວາໃນຂະນະທີ່ວິກກີບັນລຸຟອດ, ເລີ່ມມັນ, ແລະມາຮ້ອງໄຫ້ຂຶ້ນໄປສູ່ KNOX.
+ລາວໂດດອອກຈາກລົດບັນທຸກໃນຂະນະທີ່ VICKI ຫັນລໍ້, ວາງເສັ້ນທາງຂອງຢາງ, ແລະດັງລົດກັບຄືນໄປບ່ອນໃນທິດທາງກົງກັນຂ້າມ.
+
+576
+00:39:07,050 --> 00:39:09,050
+[VICKI]
+You okay?
+ເຈົ້າດີບໍ?
+
+577
+00:39:09,550 --> 00:39:11,650
+[KNOX]
+Yeah. Yeah. Little winded. DID YOU
+ແມ່ນ ແລ້ວ. ແມ່ນແລ້ວ. ມີລົມຫາຍໃຈ ຫນ້ອຍ ຫນຶ່ງ. ເຈົ້າເຮັດບໍ
+
+578
+00:39:12,150 --> 00:39:17,400
+[VICKI]
+God yes, Allie. I've gotta say -- that was the ballsiest move I ever --
+ພຣະເຈົ້າແມ່ນແລ້ວ, ອາລີ. ຂ້ອຍຕ້ອງເວົ້າວ່າ -
+ນັ້ນແມ່ນການເຄື່ອນໄຫວທີ່ກ້າຫານທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຮັດ -
+
+579
+00:39:17,900 --> 00:39:19,900
+[KNOX]
+Holy shit. Holy --
+ສະຫວັນນະເຂດ. ສັກສິດ -
+
+580
+00:39:20,400 --> 00:39:26,350
+[ALLIE!!]
+His hand goes to his stomach -- and comes away bloody. He looks down in genuine bewilderment.
+ມືຂອງລາວໄປຫາທ້ອງຂອງລາວ - ແລະອອກໄປດ້ວຍເລືອດ
+. ລາວເບິ່ງລົງດ້ວຍຄວາມສັບສົນທີ່ແທ້ຈິງ.
+
+581
+00:39:26,850 --> 00:39:28,850
+[KNOX]
+Jesus, Vicki.
+ພຣະເຢຊູ, ວິກກີ.
+
+582
+00:39:29,350 --> 00:39:31,450
+[JOKER]
+He'll be back... he'll be back!!
+ລາວກໍາລັງກັບມາ... ລາວຈະກັບມາ!!
+
+583
+00:39:31,950 --> 00:39:34,050
+[JOKER]
+You do him. I'm outta here.
+ເຈົ້າເຮັດລາວ. ຂ້ອຍອອກຈາກບ່ອນນີ້.
+
+584
+00:39:34,550 --> 00:39:36,550
+[VOICE]
+Yo.
+ໂຢ.
+
+585
+00:39:37,050 --> 00:39:43,050
+[HEY! COME ON!]
+And suddenly DICK is clambering down into the flaming wreckage. He gets an arm around BATMAN's chest and with an extraordinary effort HAULS HIM OUT OF THE BATWING.
+ແລະທັນທີດິກກ໌ ກໍາ ລັງຂຶ້ນລົງໃນສິ່ງເສດເຫຼືອທີ່ໄຫມ້.
+ລາວໄດ້ຮັບແຂນຢູ່ອ້ອມທ້ອງຂອງແບຕແມນແລະດ້ວຍຄວາມພະຍາຍາມພິເສດດຶງລາວອອກຈາກອາບນ້ ໍາ.
+
+586
+00:39:43,550 --> 00:39:45,650
+[DICK]
+Now we're even, huh? Even up.
+ດຽວນີ້ພວກເຮົາແມ່ນເທົ່າທຽມກັນ, ແມ່ນບໍ? ເຖິງແມ່ນວ່າຂຶ້ນ.
+
+587
+00:39:46,150 --> 00:39:48,150
+[BATMAN]
+How did you...
+ເຈົ້າເຮັດແນວໃດ...
+
+588
+00:39:48,650 --> 00:39:50,650
+[DICK]
+I hitched. MOVE IT!
+ຂ້ອຍຕິດລົດ. ຍ້າຍມັນ!
+
+589
+00:39:51,150 --> 00:39:53,150
+[BATMAN]
+The Joker. Is he --?
+ໂຈເກີ. ລາວແມ່ນ -?
+
+590
+00:39:53,650 --> 00:39:56,100
+[DICK]
+Forget it. Relax.  ... He's mine now.
+ລືມມັນ. ສະບາຍໃຈ.... ລາວເປັນຂອງຂ້ອຍດຽວນີ້.
+
+591
+00:39:56,600 --> 00:40:02,550
+[DICK!]
+THE BATMAN tries to pull himself erect. The pain is unendurable. His body has finally failed him.
+ແບຕແມນພະຍາຍາມດຶງຕົວເອງຂຶ້ນ. ຄວາມເຈັບປວດບໍ່ສາມາດທົນໄດ້
+. ຮ່າງກາຍຂອງລາວໄດ້ລົ້ມເຫຼວລາວໃນທີ່ສຸດ.
+
+592
+00:40:03,050 --> 00:40:05,150
+[JOKER]
+Gotham cathedral. Come and get me.
+ໂກທາມ. ມາເອົາຂ້ອຍ.
+
+593
+00:40:05,650 --> 00:40:07,750
+[JOKER]
+I'm in the belltower. Don't land.
+ຂ້ອຍຢູ່ໃນຫໍ bell. ຢ່າລົງຈອດ.
+
+594
+00:40:08,250 --> 00:40:10,250
+[PILOT]
+E.T.A. two minutes. Hang on.
+ETA ສອງນາທີ. ລໍຖ້າ.
+
+595
+00:40:10,750 --> 00:40:12,750
+[JOKER]
+... Batman?
+ແບຕແມນ?
+
+596
+00:40:13,250 --> 00:40:15,250
+[BATMAN]
+Mad... man...
+ຄົນໂຊກຮ້າຍ... ຜູ້ຊາຍ...
+
+597
+00:40:15,750 --> 00:40:19,950
+[JOKER]
+Well now, you're not exactly the picture of mental health, are you.
+ດີດຽວນີ້, ເຈົ້າບໍ່ແມ່ນຮູບພາບຂອງສຸຂະພາບຈິດແທ້ໆ, ແມ່ນບໍ.
+
+598
+00:40:20,450 --> 00:40:22,450
+[BATMAN]
+... Murderer...
+ຜູ້ຄາດຕະກໍາ...
+
+599
+00:40:22,950 --> 00:40:27,850
+[JOKER]
+Bruce, we're both murderers. Think how many people you've killed by letting me live.
+ບຣູສ, ພວກເຮົາທັງສອງເປັນຜູ້ຄາດຕະກໍາ.
+ຄິດວ່າເຈົ້າໄດ້ຂ້າຄົນຫຼາຍປານໃດໂດຍປ່ອຍໃຫ້ຂ້ອຍຢູ່ອາໄສ.
+
+600
+00:40:28,350 --> 00:40:30,350
+[BRUCE]
+No... sense... of humor?
+ບໍ່... ຄວາມຮູ້ສຶກ... ຄວາມມ່ວນຊື່ນບໍ?
+
+601
+00:40:30,850 --> 00:40:36,850
+[ANCHORWOMAN]
+As the details of the Joker's heinous plan become known, a city's gratitude goes out to the mysterious Batman. His whereabouts remain unknown, but Batman -- if you're alive -- if you're listening -- thank you.
+ໃນຂະນະທີ່ລາຍລະອຽດຂອງແຜນການທີ່ຮ້າຍແຮງຂອງໂຈເກີກາຍເປັນທີ່ຮູ້ຈັກ, ຄວາມຂອບໃຈຂອງເມືອງອອກໄປຫາແບຕແມນທີ່ລຶກລັບ
+. ບ່ອນທີ່ຢູ່ຂອງລາວຍັງບໍ່ຮູ້, ແຕ່ແບທແມງ - ຖ້າເຈົ້າຍັງມີຊີວິດຢູ່ - ຖ້າທ່ານ ກໍາ ລັງຟັງ - ຂອບໃຈ.
+
+602
+00:40:37,350 --> 00:40:39,350
+[VICKI]
+I loved you too.
+ຂ້ອຍຮັກເຈົ້າຄືກັນ.
+
+603
+00:40:39,850 --> 00:40:43,700
+[ALFRED]
+No, Mr. Wayne is in Thailand. I'm afraid he's quite unreachable.
+ບໍ່, ທ້າວເວີນຢູ່ປະເທດໄທ. ຂ້ອຍຢ້ານວ່າລາວບໍ່ສາມາດບັນລຸໄດ້ຫຼາຍ.
+
+604
+00:40:44,200 --> 00:40:49,100
+[VICKI]
+I don't know why I'm doing this. I half wish you'd stay a cripple.
+ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍເຮັດສິ່ງນີ້ເປັນຫຍັງ
+. ຂ້ອຍຢາກໃຫ້ເຈົ້າຍັງຄົງເປັນຄົນພິການ.
+
+605
+00:40:49,600 --> 00:40:51,600
+[BRUCE]
+Ohhhh... you don't mean that.
+ໂອ້... ເຈົ້າບໍ່ໄດ້ຫມາຍຄວາມວ່າ.
+
+606
+00:40:52,100 --> 00:40:56,650
+[VICKI]
+I don't, but... I do. It's just... I love you, Bruce. I --
+ຂ້ອຍບໍ່ເຮັດ, ແຕ່... ຂ້ອຍເຮັດ.
+ມັນພຽງແຕ່... ຂ້ອຍຮັກເຈົ້າ, ບຣູສ. ຂ້ອຍ -
+
+607
+00:40:57,150 --> 00:41:01,000
+[BRUCE]
+Vicki. Do you love half of me? Or all of me?
+ວິກກີ. ເຈົ້າຮັກເຄິ່ງຫນຶ່ງຂອງຂ້ອຍບໍ? ຫຼືຂ້ອຍທັງ ຫມົດ ບໍ?
+
+608
+00:41:01,500 --> 00:41:05,350
+[VICKI]
+I guess you did it, didn't you. You saved everyone.  Almost.
+ຂ້ອຍຄິດວ່າເຈົ້າເຮັດມັນ, ແມ່ນບໍ. ເຈົ້າໄດ້ຊ່ວຍທຸກຄົນ. ເກືອບ.
+
+609
+00:41:05,850 --> 00:41:11,100
+[BRUCE]
+I don't know how to explain this so it makes sense... but you saved me.
+ຂ້ອຍບໍ່ຮູ້ວ່າຈະອະທິບາຍເລື່ອງນີ້ແນວໃດ
+ສະນັ້ນມັນມີຄວາມ ຫມາຍ... ແຕ່ເຈົ້າໄດ້ຊ່ວຍຂ້ອຍ.
+

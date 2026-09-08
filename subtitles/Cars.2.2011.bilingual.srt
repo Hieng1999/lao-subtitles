@@ -1,0 +1,7661 @@
+1
+00:00:10,000 --> 00:00:16,000
+[BEN QUEEN]
+A sleek British sports car talks directly to us in a pixilated, garbled video. He's OUT OF BREATH. Crates are visible behind him. We're in the shadowy bowels of a steel room.
+ລົດກິລາອັງກິດທີ່ສວຍງາມເວົ້າກັບພວກເຮົາໂດຍກົງໃນວິດີໂອທີ່ສ່ອງແສງ, ທີ່ສໍ້ໂກງ.
+ລາວຫາຍໃຈອອກໄປ. ກະຕູ້ສາມາດເຫັນໄດ້ຢູ່ເບື້ອງຫຼັງລາວ. ພວກເຮົາຢູ່ໃນທ້ອງມືດຂອງຫ້ອງເຫຼັກ.
+
+2
+00:00:16,500 --> 00:00:21,400
+[LELAND TURBO]
+This is Agent Leland Turbo. I have a flash transmission for Agent Finn McMissile.
+ນີ້ແມ່ນຕົວແທນເລລານ ທູບໂກ້. ຂ້ອຍມີສາຍສົ່ງແຟລຊ໌
+ສໍາ ລັບຕົວແທນຟິນນ໌ ແມັກມິສຊີລ.
+
+3
+00:00:21,900 --> 00:00:24,700
+[LELAND TURBO]
+Finn. My cover's been compromised. Everything's gone pear-shaped.
+ຟິນນ໌. ການປົກຄຸມຂອງຂ້ອຍໄດ້ຈົບແນ່.
+ທຸກຢ່າງໄດ້ກາຍເປັນຮູບຊົງ ຫມາກ ໄມ້.
+
+4
+00:00:25,200 --> 00:00:28,000
+[LELAND TURBO]
+You won't believe what I've found out here.
+ເຈົ້າຈະບໍ່ເຊື່ອສິ່ງທີ່ຂ້ອຍພົບເຫັນຢູ່ນີ້.
+
+5
+00:00:28,500 --> 00:00:34,500
+[LELAND TURBO]
+This is bigger than anything we've ever seen. And no one even knows it exists. Finn, I need backup. But don't call the cavalry - it could blow the operation. And be careful. It's not safe out here!
+ນີ້ແມ່ນໃຫຍ່ກວ່າສິ່ງໃດທີ່ພວກເຮົາເຄີຍເຫັນ. ແລະບໍ່ມີໃຜຮູ້ວ່າມັນມີຢູ່. ຟິນນ໌, ຂ້ອຍຕ້ອງການການຊ່ວຍເຫຼືອ
+. ແຕ່ຢ່າໂທຫາທະຫານມ້າ - ມັນອາດຈະລະເບີດການປະຕິບັດງານ. ແລະລະມັດລະວັງ. ມັນບໍ່ປອດໄພຢູ່ນີ້!
+
+6
+00:00:35,000 --> 00:00:37,100
+[LELAND TURBO]
+Transmitting my grids now. Good luck!
+ການສົ່ງເຄືອຂ່າຍຂອງຂ້ອຍດຽວນີ້. ໂຊກດີ!
+
+7
+00:00:37,600 --> 00:00:42,850
+[CRABBY]
+Alright buddy, we're here. Right where you paid me to bring you. Question is, why?
+ດີແມ, ພວກເຮົາຢູ່ບ່ອນນີ້.
+ຢູ່ບ່ອນທີ່ທ່ານຈ່າຍເງິນໃຫ້ຂ້ອຍເອົາເຈົ້າ. ຄໍາ ຖາມແມ່ນ, ເປັນຫຍັງ?
+
+8
+00:00:43,350 --> 00:00:45,350
+[FINN]
+I'm looking for a car.
+ຂ້ອຍ ກໍາ ລັງຊອກຫາລົດ.
+
+9
+00:00:45,850 --> 00:00:51,100
+[CRABBY]
+A car? Hey pal, you can't get any further away from land than out here.
+ລົດບໍ? ເຮ້ ເພື່ອນ, ເຈົ້າບໍ່ສາມາດຢູ່ຫ່າງຈາກດິນໄດ້ຫຼາຍກວ່າບ່ອນນີ້.
+
+10
+00:00:51,600 --> 00:00:53,700
+[FINN]
+Exactly where I want to be.
+ຂ້ອຍຢາກຢູ່ບ່ອນນັ້ນແທ້ໆ.
+
+11
+00:00:54,200 --> 00:00:58,750
+[CRABBY]
+Well I got news for you, buddy. There's nobody out here but us.
+ດີຂ້ອຍມີຂ່າວ ສໍາ ລັບເຈົ້າ, ເພື່ອນ. ບໍ່ມີໃຜຢູ່ນີ້ນອກຈາກພວກເຮົາ.
+
+12
+00:00:59,250 --> 00:01:01,350
+[COMBAT SHIP]
+What are you doing out here?
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+13
+00:01:01,850 --> 00:01:04,650
+[CRABBY]
+What does it look like, genius? I'm crabbing!
+ມັນເບິ່ງຄືແນວໃດ, ຈິນຕະນາການ? ຂ້ອຍ ກໍາ ລັງຂີ້ເຫຍື້ອ!
+
+14
+00:01:05,150 --> 00:01:08,650
+[COMBAT SHIP]
+Well turn around and go back where you came from.
+ດີຫັນໄປແລະກັບຄືນບ່ອນທີ່ເຈົ້າມາຈາກ.
+
+15
+00:01:09,150 --> 00:01:11,250
+[CRABBY]
+Yeah? And who's gonna make me?
+ແມ່ນແລ້ວ? ແລະໃຜຈະເຮັດໃຫ້ຂ້ອຍ?
+
+16
+00:01:11,750 --> 00:01:17,750
+[CRABBY]
+Alright, alright! Don't get your prop in a twist.  What a jerk. Sorry, buddy. Looks like it's the end of the line. Buddy?
+ດີແລ້ວ, ດີແລ້ວ! ຢ່າເຮັດໃຫ້ອຸປະກອນຂອງທ່ານສໍ້ໂກງ. ຄົນໂຊກຮ້າຍຫຼາຍປານໃດ
+. ຂໍໂທດ, ເພື່ອນ. ເບິ່ງຄືວ່າມັນເປັນຕອນທ້າຍຂອງສາຍ. ເພື່ອນ?
+
+17
+00:01:18,250 --> 00:01:24,250
+[WHEN ---]
+--- HIS TIRES sprout a magnetic exoskeleton. He STICKS to the derrick and now DRIVES VERTICALLY UP UP UP...
+- ລົດຖີບຂອງລາວ sprout ເປັນ exoskeleton magnetic ໄດ້.
+ລາວຕິດຕໍ່ກັບ derrick ແລະດຽວນີ້ຂັບລົດຕາມລໍາດັບສູງຂຶ້ນ...
+
+18
+00:01:24,750 --> 00:01:27,550
+[PROFESSOR ZUNDAPP]
+Too many cars here. Out of my way!
+ລົດຫຼາຍເກີນໄປຢູ່ນີ້. ອອກຈາກທາງຂອງຂ້ອຍ!
+
+19
+00:01:28,050 --> 00:01:30,050
+[FINN]
+Professor Zundapp?
+ສາດສະດາຈານ Zundapp?
+
+20
+00:01:30,550 --> 00:01:32,550
+[PACER]
+Here it is, Professor.
+ມັນຢູ່ບ່ອນນີ້, ສາດສະດາຈານ.
+
+21
+00:01:33,050 --> 00:01:36,200
+[NOSY PACER]
+You wanted to see this before we load it?
+ເຈົ້າຢາກເຫັນສິ່ງນີ້ກ່ອນທີ່ຈະໂຫຼດມັນບໍ?
+
+22
+00:01:36,700 --> 00:01:38,700
+[PROFESSOR ZUNDAPP]
+Ah, yes. Very carefully...
+ອາ, ແມ່ນແລ້ວ. ລະມັດລະວັງຫຼາຍ...
+
+23
+00:01:39,200 --> 00:01:42,700
+[NOSY PACER]
+Oh. A TV camera. What does it actually do? 4.
+ໂອ້. ກ້ອງຖ່າຍຮູບໂທລະພາບ. ມັນເຮັດຫຍັງແທ້ໆ? 4.
+
+24
+00:01:43,200 --> 00:01:45,200
+[PROFESSOR ZUNDAPP]
+This camera is extremely dangerous.
+ກ້ອງຖ່າຍຮູບນີ້ເປັນອັນຕະລາຍຫຼາຍ.
+
+25
+00:01:45,700 --> 00:01:48,150
+[FINN]
+What are you up to now, Professor?
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ດຽວນີ້, ຄູອາຈານ?
+
+26
+00:01:48,650 --> 00:01:53,200
+[PROFESSOR ZUNDAPP]
+This is valuable equipment. Make sure it is properly secured for the voyage.
+ນີ້ແມ່ນອຸປະກອນທີ່ມີຄຸນຄ່າ.
+ໃຫ້ແນ່ໃຈວ່າມັນຖືກຄຸ້ມຄອງຢ່າງຖືກຕ້ອງ ສໍາ ລັບການເດີນທາງ.
+
+27
+00:01:53,700 --> 00:01:55,700
+[NOSY PACER]
+You got it.
+ເຈົ້າເຮັດແລ້ວ.
+
+28
+00:01:56,200 --> 00:01:58,200
+[GREM]
+Hey, Professor Z!
+ເຮ້, ສາດສະດາຈານ Z!
+
+29
+00:01:58,700 --> 00:02:02,550
+[GREM]
+This is one of those British spies we told you about.
+ນີ້ແມ່ນຫນຶ່ງໃນນັກສືບອັງກິດທີ່ພວກເຮົາບອກເຈົ້າກ່ຽວກັບ.
+
+30
+00:02:03,050 --> 00:02:07,250
+[ACER]
+Yeah. This one we caught sticking his bumper where it didn't belong.
+ແມ່ນແລ້ວ.
+ຄົນນີ້ທີ່ພວກເຮົາຈັບຈັບເອົາກະຕູ້ຂັດຂວາງຂອງລາວບ່ອນທີ່ມັນບໍ່ຂຶ້ນກັບ.
+
+31
+00:02:07,750 --> 00:02:09,750
+[PROFESSOR ZUNDAPP]
+Agent Leland Turbo.
+ຕົວແທນເລລານ ທູບໂກ້.
+
+32
+00:02:10,250 --> 00:02:13,400
+[PROFESSOR ZUNDAPP]
+It's Finn McMissile! He's seen the camera! Kill him!!
+ມັນເປັນຟິນ ແມັກມິສຊີລ! ລາວເຫັນກ້ອງຖ່າຍຮູບແລ້ວ! ຂ້າລາວ!!
+
+33
+00:02:13,900 --> 00:02:19,900
+[STOPS:]
+BAD GUY CARS are waiting for him on the catwalk where he just came from - BLOWTORCHES ready.
+ລົດຄົນຮ້າຍ ກໍາ ລັງລໍຖ້າລາວຢູ່ເທິງກະຕ່າທາງທີ່ລາວຫາກໍ່ມາຈາກ
+- BLOWTORCHES ພ້ອມແລ້ວ.
+
+34
+00:02:20,400 --> 00:02:26,400
+[CRANE ---]
+--- where he lands on its BOOM, drives UP and LAUNCHES OFF IT where he LANDS - MOVING - onto another deck!
+- ບ່ອນທີ່ລາວລົງຈອດໃສ່ BOOM ຂອງມັນ,
+ຂັບລົດຂຶ້ນແລະເປີດຕົວຈາກມັນບ່ອນທີ່ລາວຕົກລົງ - ຍ້າຍ - ໃສ່ກະຕ່າອື່ນ!
+
+35
+00:02:26,900 --> 00:02:29,000
+[PAST FINN ---]
+--- PAST the pursuing CARS ---
+- ຜ່ານລົດທີ່ຕິດຕາມມາ ---
+
+36
+00:02:29,500 --> 00:02:31,500
+[GREM]
+Get to the boats.
+ໄປຫາເຮືອ.
+
+37
+00:02:32,000 --> 00:02:34,000
+[ACER]
+He's getting away!
+ລາວ ກໍາ ລັງຫນີໄປ!
+
+38
+00:02:34,500 --> 00:02:36,500
+[COMBAT SHIP]
+Not for long.
+ບໍ່ຍາວນານ.
+
+39
+00:02:37,000 --> 00:02:39,000
+[GREM]
+He's dead, Professor.
+ລາວຕາຍແລ້ວ, ຄູສອນ.
+
+40
+00:02:39,500 --> 00:02:43,000
+[PROFESSOR ZUNDAPP]
+Wunderbar. With Finn McMissile gone, who can stop us now?
+ແຖບມະຫັດສະຈັນ. ດ້ວຍຟິນນ໌ ແມັກມິສຊີລໄປແລ້ວ
+, ໃຜສາມາດຢຸດພວກເຮົາໄດ້ດຽວນີ້?
+
+41
+00:02:43,500 --> 00:02:47,000
+[MATER]
+Mater. Tow Mater, that's who... is here to help you!
+ແມ່. ແມ່ຕູ້, ນັ້ນແມ່ນຜູ້ທີ່... ຢູ່ບ່ອນນີ້ເພື່ອຊ່ວຍເຈົ້າ!
+
+42
+00:02:47,500 --> 00:02:49,500
+[MATER]
+Hey, Otis! 7.
+ເຮ້, ໂອຕິສ! 7.
+
+43
+00:02:50,000 --> 00:02:56,000
+[OTIS]
+Hey, Mater. Gosh, I'm so sorry. I thought I could make it this time, but...  Smooth like pudding, huh? Ah, who am I kidding? I'll always be a lemon.
+ເຮ້, ແມ່. ພຣະເຈົ້າ, ຂ້ອຍຂໍໂທດຫຼາຍ. ຂ້ອຍຄິດວ່າຂ້ອຍສາມາດເຮັດໄດ້ໃນຄັ້ງນີ້, ແຕ່...
+ງ່າຍດາຍຄືກັບ pudding, ແມ່ນບໍ? ອາ, ຂ້ອຍ ກໍາ ລັງໂຊກແຊງໃຜ? ຂ້ອຍຈະເປັນເລມອນຕະຫຼອດໄປ.
+
+44
+00:02:56,500 --> 00:03:02,500
+[MATER]
+Well dadgum, you're leaking oil again. Must be your gaskets. Hey, look on the bright side: This is your tenth tow this month, so that means it's on the house.
+ດີພໍ່ແມ, ເຈົ້າ ກໍາ ລັງຮົ່ວໄຫຼນ້ ໍາ ມັນອີກຄັ້ງ. ມັນຕ້ອງເປັນກະດານຢາງຂອງທ່ານ. ເຮ້,
+ເບິ່ງດ້ານສົດໃສ: ນີ້ແມ່ນການດຶງຄັ້ງທີສິບຂອງທ່ານໃນເດືອນນີ້, ສະນັ້ນມັນ ຫມາຍ ຄວາມວ່າມັນຢູ່ເຮືອນ.
+
+45
+00:03:03,000 --> 00:03:06,850
+[OTIS]
+You're the only one that's nice to lemons like me, Mater.
+ເຈົ້າເປັນຄົນດຽວທີ່ເປັນຄົນດີຕໍ່ເລມອນເຊັ່ນຂ້ອຍ, ແມ່.
+
+46
+00:03:07,350 --> 00:03:10,500
+[MATER]
+Don't sweat it. These things happen to everybody, Otis.
+ຢ່າຫວານມັນ. ສິ່ງເຫຼົ່ານີ້ເກີດຂຶ້ນກັບທຸກຄົນ, ໂອຕິສ.
+
+47
+00:03:11,000 --> 00:03:13,000
+[OTIS]
+But you never leak oil.
+ແຕ່ເຈົ້າບໍ່ເຄີຍຮົ່ວໄຫລນ້ ໍາ ມັນເລີຍ.
+
+48
+00:03:13,500 --> 00:03:19,500
+[MATER]
+Yeah, but I ain't perfect. Don't tell nobody, but I think my rust is starting to show through.
+ແມ່ນແລ້ວ, ແຕ່ຂ້ອຍບໍ່ແມ່ນທີ່ສົມບູນແບບ. ຢ່າບອກໃຜ,
+ແຕ່ນຂ້ອຍຄິດວ່າ rust ຂອງຂ້ອຍ ກໍາ ລັງເລີ່ມສະແດງຜ່ານ.
+
+49
+00:03:20,000 --> 00:03:22,100
+[OTIS]
+Hey, is Lightning McQueen back yet?
+ເຮ້, ແສງສະຫວ່າງແມັກຄວິນກັບມາແລ້ວບໍ?
+
+50
+00:03:22,600 --> 00:03:24,600
+[MATER]
+Not yet.
+ຍັງບໍ່ທັນ.
+
+51
+00:03:25,100 --> 00:03:29,650
+[OTIS]
+He must be crazy-excited about winning his fourth Piston Cup. Four! Wow! 8.
+ລາວຕ້ອງມີຄວາມຕື່ນເຕັ້ນຫຼາຍກ່ຽວກັບການຊະນະບານປິສຕັນທີສີ່ຂອງລາວ
+. ສີ່! ໂວ້! 8.
+
+52
+00:03:30,150 --> 00:03:36,150
+[MATER]
+Yeah, we're so dadgum proud of him. But I sure wish he'd hurry up and get back `cause we got a whole summer's worth of best friend fun to make up for. Just me and --
+ແມ່ນແລ້ວ, ພວກເຮົາພາກພູມໃຈລາວຫຼາຍ. ແຕ່ຂ້ອຍຢາກວ່າລາວຈະໄວຂຶ້ນແລະກັບມາ `
+ເພາະວ່າພວກເຮົາມີຄວາມມ່ວນຊື່ນທີ່ດີທີ່ສຸດຂອງລະດູຮ້ອນທັງ ຫມົດ ເພື່ອຊົດເຊີຍ. ພຽງແຕ່ຂ້ອຍແລະ -
+
+53
+00:03:36,650 --> 00:03:38,650
+[MATER]
+--- McQueen!
+- ແມັກຄວິນ!
+
+54
+00:03:39,150 --> 00:03:43,700
+[OTIS]
+Uh, Mater? I'm in no hurry. You don't need to go so fast!
+ໂອ້, ແມ່? ຂ້ອຍບໍ່ໄວ. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງໄປໄວຫຼາຍ!
+
+55
+00:03:44,200 --> 00:03:46,200
+[LUIGI]
+Oh, Lightning. Welcome home.
+ໂອ້ ແສງສະຫວ່າງ. ຍິນດີຕ້ອນຮັບກັບບ້ານ.
+
+56
+00:03:46,700 --> 00:03:48,800
+[FLO]
+Good to have you back, honey.
+ດີໃຈທີ່ເຈົ້າກັບມາແມ.
+
+57
+00:03:49,300 --> 00:03:51,300
+[FILLMORE]
+Congratulations, man.
+ຂໍສະແດງຄວາມຍິນດີເດີ, ຜູ້ຊາຍ.
+
+58
+00:03:51,800 --> 00:03:53,800
+[SARGE]
+Welcome home, soldier.
+ຍິນດີຕ້ອນຮັບກັບບ້ານ, ທະຫານ.
+
+59
+00:03:54,300 --> 00:03:57,100
+[SHERIFF]
+The place wasn't the same without you, son.
+ບ່ອນນີ້ບໍ່ແມ່ນຄືກັນໂດຍບໍ່ມີເຈົ້າ, ລູກຊາຍ.
+
+60
+00:03:57,600 --> 00:03:59,600
+[LIZZIE]
+What? Did he go somewhere?
+ຫຍັງ? ລາວໄປບ່ອນໃດບໍ?
+
+61
+00:04:00,100 --> 00:04:02,200
+[MCQUEEN]
+It's good to be home, everybody.
+ດີໃຈທີ່ຢູ່ເຮືອນ, ທຸກຄົນ.
+
+62
+00:04:02,700 --> 00:04:04,700
+[MATER]
+McQueen!
+ແມັກຄວິນ!
+
+63
+00:04:05,200 --> 00:04:07,200
+[MCQUEEN]
+Mater! 9.
+ແມ່! 9.
+
+64
+00:04:07,700 --> 00:04:09,700
+[MATER]
+McQueen!
+ແມັກຄວິນ!
+
+65
+00:04:10,200 --> 00:04:12,200
+[OTIS]
+Woaahhhhh!
+ໂວອາຮ້!
+
+66
+00:04:12,700 --> 00:04:15,850
+[RAMONE]
+Hey. How far'd you make it this time, Otis?
+ເຮ້. ເຈົ້າໄດ້ໄປໄກປານໃດໃນຄັ້ງນີ້, ໂອຕິສ?
+
+67
+00:04:16,350 --> 00:04:18,350
+[OTIS]
+Halfway to the county line.
+ເຄິ່ງທາງໄປສູ່ເສັ້ນທາງຂອງເມືອງ.
+
+68
+00:04:18,850 --> 00:04:20,850
+[RAMONE]
+Not bad, man.
+ບໍ່ຮ້າຍແຮງ, ຜູ້ຊາຍ.
+
+69
+00:04:21,350 --> 00:04:23,800
+[OTIS]
+I know, I can't believe it either!
+ຂ້ອຍຮູ້ແລ້ວ, ຂ້ອຍບໍ່ເຊື່ອມັນຄືກັນ!
+
+70
+00:04:24,300 --> 00:04:26,300
+[MATER]
+McQueen, welcome back!
+ແມັກຄວິນ, ຍິນດີຕ້ອນຮັບກັບມາ!
+
+71
+00:04:26,800 --> 00:04:29,250
+[MCQUEEN]
+Mater, it's so good to see you.
+ແມ່, ດີໃຈທີ່ເຫັນເຈົ້າຫຼາຍ.
+
+72
+00:04:29,750 --> 00:04:31,750
+[MATER]
+You too, buddy.
+ເຈົ້າຄືກັນ, ເພື່ອນ.
+
+73
+00:04:32,250 --> 00:04:36,800
+[MATER]
+Oh, man. You ain't gonna believe the things I got planned for us.
+ໂອ້, ຜູ້ຊາຍ. ເຈົ້າຈະບໍ່ເຊື່ອສິ່ງທີ່ຂ້ອຍວາງແຜນ ສໍາ ລັບພວກເຮົາ.
+
+74
+00:04:37,300 --> 00:04:40,450
+[MACK]
+These best friend greetings get longer every year. 10.
+ການອວຍພອນເພື່ອນທີ່ດີທີ່ສຸດເຫຼົ່ານີ້ຍາວຂຶ້ນທຸກໆປີ. 10.
+
+75
+00:04:40,950 --> 00:04:43,400
+[MATER]
+You ready to have some serious fun?
+ເຈົ້າພ້ອມທີ່ຈະມ່ວນຊື່ນຢ່າງຈິງຈັງບໍ?
+
+76
+00:04:43,900 --> 00:04:47,050
+[MCQUEEN]
+Well, actually I've got something to show you first.
+ດີ, ໃນຄວາມເປັນຈິງຂ້ອຍມີບາງສິ່ງບາງຢ່າງທີ່ຈະສະແດງໃຫ້ເຈົ້າກ່ອນ.
+
+77
+00:04:47,550 --> 00:04:52,800
+[MATER]
+Wow. I can't believe they renamed the Piston Cup after our very own Doc Hudson.
+ໂວ້. ຂ້ອຍບໍ່ເຊື່ອວ່າພວກເຂົາໄດ້ປ່ຽນຊື່ Piston
+Cup ຫຼັງຈາກ Doc Hudson ຂອງພວກເຮົາເອງ.
+
+78
+00:04:53,300 --> 00:04:59,300
+[MCQUEEN]
+I know Doc said these things were just old cups, but to have someone else win it just didn't feel right, you know?
+ຂ້ອຍຮູ້ວ່າຫມໍເວົ້າວ່າສິ່ງເຫຼົ່ານີ້ພຽງແຕ່ເປັນຈອກເກົ່າ,
+ແຕ່ໃຫ້ຄົນອື່ນຊະນະມັນພຽງແຕ່ບໍ່ຮູ້ສຶກຖືກຕ້ອງ, ເຈົ້າຮູ້ບໍ?
+
+79
+00:04:59,800 --> 00:05:03,650
+[MATER]
+Well, Doc would've been real proud of you. That's for sure.
+ດີ, ດອກຈະພາກພູມໃຈກັບເຈົ້າແທ້ໆ. ນັ້ນແມ່ນແນ່ນອນ.
+
+80
+00:05:04,150 --> 00:05:08,700
+[MCQUEEN]
+Alright, pal. I've been waiting all summer for this. What've you got planned?
+ດີແລ້ວ, ເພື່ອນ. ຂ້ອຍ ກໍາ
+ລັງລໍຖ້າສິ່ງນີ້ຕະຫຼອດລະດູຮ້ອນ. ເຈົ້າວາງແຜນຫຍັງ?
+
+81
+00:05:09,200 --> 00:05:11,300
+[MATER]
+You sure you can handle it?
+ເຈົ້າແນ່ໃຈວ່າເຈົ້າສາມາດຮັບມືກັບມັນໄດ້ບໍ?
+
+82
+00:05:11,800 --> 00:05:17,750
+[MCQUEEN]
+Come on, you know who you're talking to? This is Lightning McQueen. I can handle anything. 11.
+ມາແລ້ວ, ເຈົ້າຮູ້ວ່າເຈົ້າ ກໍາ ລັງເວົ້າກັບໃຜ?
+ນີ້ແມ່ນແສງສະຫວ່າງແມັກຄວິນ. ຂ້ອຍສາມາດຮັບມືກັບທຸກຢ່າງໄດ້. 11.
+
+83
+00:05:18,250 --> 00:05:20,250
+[MCQUEEN]
+Uh.... Mater?!
+ໂອ້... ແມ່?!
+
+84
+00:05:20,750 --> 00:05:23,900
+[MATER]
+Just remember, your brakes ain't gonna work on these!
+ພຽງແຕ່ຈື່ໄວ້ວ່າ, ບຣັກຂອງທ່ານຈະບໍ່ເຮັດວຽກໃນສິ່ງເຫຼົ່ານີ້!
+
+85
+00:05:24,400 --> 00:05:26,400
+[MCQUEEN]
+Mater!
+ແມ່!
+
+86
+00:05:26,900 --> 00:05:30,050
+[MATER]
+Relax, these train tracks ain't been used in years!
+ສະບາຍໃຈ, ເສັ້ນທາງລົດໄຟເຫຼົ່ານີ້ບໍ່ໄດ້ໃຊ້ເປັນເວລາຫຼາຍປີແລ້ວ!
+
+87
+00:05:30,550 --> 00:05:32,650
+[MCQUEEN]
+Come on, come on! Faster, faster!
+ມາແລ້ວ, ມາແລ້ວ! ໄວຂຶ້ນ, ໄວຂຶ້ນ!
+
+88
+00:05:33,150 --> 00:05:35,150
+[MATER]
+This is gonna be good!
+ນີ້ແມ່ນຈະດີ!
+
+89
+00:05:35,650 --> 00:05:37,750
+[MATER]
+Uh-oh. This ain't gonna be good.
+ໂອ້. ນີ້ແມ່ນຈະບໍ່ດີ.
+
+90
+00:05:38,250 --> 00:05:42,100
+[MATER]
+Boy, this was the best day ever! And my favorite souvenir?
+ເດັກຊາຍ, ນີ້ແມ່ນມື້ທີ່ດີທີ່ສຸດທີ່ເຄີຍມີມາ
+! ແລະເຄື່ອງລະນຶກທີ່ມັກຂອງຂ້ອຍບໍ?
+
+91
+00:05:42,600 --> 00:05:44,600
+[MATER]
+This new dent!
+ກະທູ້ໃຫມ່ນີ້!
+
+92
+00:05:45,100 --> 00:05:47,100
+[MCQUEEN]
+Boy, Mater. Today was, uh...
+ເດັກຊາຍ, ແມ່. ມື້ນີ້ແມ່ນ, ອູ...
+
+93
+00:05:47,600 --> 00:05:52,500
+[MATER]
+Shoot, that was nothing. Wait til you see what I got planned for tonight.
+ຍິງ, ນັ້ນບໍ່ແມ່ນຫຍັງເລີຍ.
+ລໍຖ້າຈົນກວ່າເຈົ້າຈະເຫັນສິ່ງທີ່ຂ້ອຍວາງແຜນ ສໍາ ລັບຄືນນີ້.
+
+94
+00:05:53,000 --> 00:05:57,550
+[MCQUEEN]
+Mater, Mater. Whoa. I was kind of thinking of just a quiet dinner.
+ແມ່, ແມ່. ໂວ້. ຂ້ອຍ ກໍາ
+ລັງຄິດກ່ຽວກັບອາຫານຄໍ່າທີ່ງຽບສະຫງົບເທົ່ານັ້ນ.
+
+95
+00:05:58,050 --> 00:06:00,150
+[MATER]
+That's exactly what I was thinking.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຄິດ.
+
+96
+00:06:00,650 --> 00:06:03,100
+[MCQUEEN]
+No, I... I meant with Sally, Mater.
+ບໍ່, ຂ້ອຍ... ຂ້ອຍຫມາຍຄວາມວ່າກັບແຊລລີ, ແມ່.
+
+97
+00:06:03,600 --> 00:06:07,450
+[MATER]
+Even better! You, me and Miss Sally going out for supper.
+ດີກວ່າເກົ່າ! ເຈົ້າ, ຂ້ອຍແລະນາງແຊລລີຈະອອກກິນອາຫານຄໍ່າ.
+
+98
+00:06:07,950 --> 00:06:11,450
+[MCQUEEN]
+Mater, I meant it would be just me and Sally.
+ແມ່, ຂ້ອຍຫມາຍຄວາມວ່າມັນຈະເປັນພຽງແຕ່ຂ້ອຍແລະຊາລີເທົ່ານັ້ນ.
+
+99
+00:06:11,950 --> 00:06:13,950
+[MATER]
+Oh.
+ໂອ້.
+
+100
+00:06:14,450 --> 00:06:17,950
+[MCQUEEN]
+It's just for tonight. We'll do whatever you want tomorrow.
+ມັນພຽງແຕ່ສໍາລັບຄືນນີ້ເທົ່ານັ້ນ.
+ພວກເຮົາຈະເຮັດທຸກຢ່າງທີ່ທ່ານຕ້ອງການມື້ອື່ນ.
+
+101
+00:06:18,450 --> 00:06:20,450
+[MATER]
+Okay.
+ດີແລ້ວ.
+
+102
+00:06:20,950 --> 00:06:22,950
+[MCQUEEN]
+Thanks for understanding.
+ຂອບໃຈທີ່ເຂົ້າໃຈ.
+
+103
+00:06:23,450 --> 00:06:26,950
+[MATER]
+Yeah, sure. Y'all go on and have fun now. 13.
+ແມ່ນແລ້ວ, ແນ່ນອນ. ເຈົ້າທຸກຄົນໄປແລະມ່ວນຊື່ນດຽວນີ້. 13.
+
+104
+00:06:27,450 --> 00:06:29,550
+[MCQUEEN]
+Alright, then. See ya soon, amigo!
+ດີແລ້ວ, ຫຼັງຈາກນັ້ນ. ພົບກັນໄວໆນີ້, ເພື່ອນ!
+
+105
+00:06:30,050 --> 00:06:32,050
+[SALLY]
+This is so nice.
+ນີ້ແມ່ນດີຫຼາຍ.
+
+106
+00:06:32,550 --> 00:06:38,550
+[MCQUEEN]
+I can't tell you how good it is to be here alone. Just the two of us. Finally, you and me ---
+ຂ້ອຍບໍ່ສາມາດບອກເຈົ້າໄດ້ວ່າມັນດີຫຼາຍປານໃດທີ່ຈະຢູ່ບ່ອນນີ້ຄົນດຽວ
+. ພຽງແຕ່ພວກເຮົາສອງຄົນ. ສຸດທ້າຍ, ເຈົ້າແລະຂ້ອຍ ---
+
+107
+00:06:39,050 --> 00:06:41,050
+[MATER]
+Good evening.
+ສະບາຍດີ.
+
+108
+00:06:41,550 --> 00:06:47,150
+[MATER]
+My name is Mater and I'll be your waiter. Mater the waiter. That's funny right there.
+ຂ້ອຍຊື່ວ່າແມ່ແລະຂ້ອຍຈະເປັນຄົນຮັບແຂກຂອງທ່ານ
+. ແມ່ຄົນຮັບໃຊ້. ນັ້ນແມ່ນມ່ວນຢູ່ບ່ອນນັ້ນ.
+
+109
+00:06:47,650 --> 00:06:49,650
+[MCQUEEN]
+Mater, you work here?
+ແມ່, ເຈົ້າເຮັດວຽກຢູ່ບ່ອນນີ້ບໍ?
+
+110
+00:06:50,150 --> 00:06:56,150
+[MATER]
+Well yeah I work here. What'd you think, I just snuck in here when nobody was looking and pretended to be your waiter, just so I could hang out with you?
+ດີແມ່ນແລ້ວຂ້ອຍເຮັດວຽກຢູ່ນີ້. ເຈົ້າຄິດແນວໃດ,
+ຂ້ອຍພຽງແຕ່ລັກເຂົ້າມາບ່ອນນີ້ເມື່ອບໍ່ມີໃຜເບິ່ງແລະເຮັດຕົວເປັນຜູ້ຮັບໃຊ້ຂອງທ່ານ, ພຽງແຕ່ເພື່ອໃຫ້ຂ້ອຍສາມາດຢູ່ກັບເຈົ້າໄດ້ບໍ?
+
+111
+00:06:56,650 --> 00:06:59,100
+[MCQUEEN]
+Oh, yeah. How ridiculous would that be?
+ໂອ້, ແມ່ນແລ້ວ. ມັນຈະໂຊກຮ້າຍຫຼາຍປານໃດ?
+
+112
+00:06:59,600 --> 00:07:04,150
+[MATER]
+Now, can I start you two lovebirds off with a couple drinks? 14.
+ດຽວນີ້, ຂ້ອຍສາມາດເລີ່ມຕົ້ນເຈົ້າສອງນົກຮັກໄດ້ບໍ? 14.
+
+113
+00:07:04,650 --> 00:07:06,650
+[MCQUEEN]
+Yes. I'll have my usual.
+ແມ່ນແລ້ວ. ຂ້ອຍຈະກິນແບບປົກກະຕິຂອງຂ້ອຍ.
+
+114
+00:07:07,150 --> 00:07:10,300
+[SALLY]
+You know what? I'm going to have that too.
+ເຈົ້າຮູ້ບໍ? ຂ້ອຍຈະກິນມັນຄືກັນ.
+
+115
+00:07:10,800 --> 00:07:12,900
+[MATER]
+Uh, right. Your usual. CUT TO:
+ໂອ້, ແມ່ນແລ້ວ. ຕາມປົກກະຕິຂອງທ່ານ. ຕັດອອກ:
+
+116
+00:07:13,400 --> 00:07:15,400
+[MATER]
+Guido! What's McQueen's usual?
+Guido! ແມັກຄວິນປົກກະຕິແມ່ນຫຍັງ?
+
+117
+00:07:15,900 --> 00:07:17,900
+[GUIDO]
+How should I know?
+ຂ້ອຍຄວນຮູ້ແນວໃດ?
+
+118
+00:07:18,400 --> 00:07:20,500
+[MATER]
+Perfect! Give me two of `em.
+ດີເລີດ! ໃຫ້ຂ້ອຍສອງຢ່າງ.
+
+119
+00:07:21,000 --> 00:07:23,000
+[SARGE]
+Quiet! My program's on.
+ງຽບໆ! ໂປແກຼມຂອງຂ້ອຍເປີດແລ້ວ.
+
+120
+00:07:23,500 --> 00:07:25,600
+[MEL DORADO]
+Tonight on "The Mel Dorado Show"!
+ມື້ນີ້ໃນລາຍການ"The Mel Dorado Show"!
+
+121
+00:07:26,100 --> 00:07:32,100
+[MEL DORADO]
+His story gripped the world! Oil billionaire Miles Axlerod, in an attempt to become the first car to circumnavigate the globe without GPS, ironically ran out of gas and found himself trapped in the wild!
+ເລື່ອງລາວໄດ້ຈັບໂລກ! ນັກລ້ານກີບນ້ ໍາ ມັນ ໄມລ໌ສ໌ ແຊລເລຣອດ, ໃນຄວາມພະຍາຍາມທີ່ຈະກາຍເປັນລົດ
+ທໍາ ອິດທີ່ຈະຍ່າງອ້ອມໂລກໂດຍບໍ່ມີ GPS, ຢ່າງໂຊກຮ້າຍ ຫມົດ ແກັສແລະພົບຕົວເອງຖືກຈັບຢູ່ໃນປ່າໄມ້!
+
+122
+00:07:32,600 --> 00:07:38,600
+[MEL DORADO]
+Feared dead, he emerged 36 days later, running on a fuel he'd distilled himself from the natural elements! Since then he's sold his oil fortune, converted himself from a gas-guzzler into an electric car, and has devoted his life to finding a renewable, clean-burning fuel! 15.
+ຢ້ານກົວຕາຍ, ລາວອອກມາ 36 ມື້ຕໍ່ມາ, ແລ່ນດ້ວຍເຊື້ອໄຟທີ່ລາວໄດ້ກັ່ນຕອງຕົວເອງຈາກອົງປະກອບ ທໍາ ມະຊາດ! ນັບຕັ້ງແຕ່ເວລານັ້ນລາວໄດ້ຂາຍຊັບສິນນ້
+ໍາ ມັນຂອງລາວ, ປ່ຽນຕົນເອງຈາກຜູ້ກິນແກັສເປັນລົດໄຟຟ້າ, ແລະໄດ້ອຸທິດຊີວິດຂອງລາວເພື່ອຊອກຫາເຊື້ອໄຟພະລັງງານທົດແທນ, ທີ່ສະອາດ! 15.
+
+123
+00:07:39,100 --> 00:07:42,600
+[MEL DORADO]
+Now he claims to have done it with his Allinol.
+ດຽວນີ້ລາວອ້າງວ່າໄດ້ເຮັດມັນດ້ວຍອາລິນອອນຂອງລາວ.
+
+124
+00:07:43,100 --> 00:07:49,100
+[MEL DORADO]
+And to show the world what his new superfuel can do, he's created a racing competition like no other, inviting the greatest champions from around the globe to battle in the first ever World Grand Prix. Welcome Sir Miles Axlerod.
+ແລະເພື່ອສະແດງໃຫ້ໂລກເຫັນວ່າ superfuel ໃຫມ່ ຂອງລາວສາມາດເຮັດໄດ້ແນວໃດ, ລາວໄດ້ສ້າງການແຂ່ງຂັນແຂ່ງຂັນແບບບໍ່ມີຄົນອື່ນ,
+ເຊີນແຊ້ມທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດຈາກທົ່ວໂລກເພື່ອຕໍ່ສູ້ໃນ World Grand Prix ຄັ້ງ ທໍາ ອິດໃນປະຫວັດສາດ. ຍິນດີຕ້ອນຮັບທ່ານແມລສ໌ ແຊລໂຣດ.
+
+125
+00:07:49,600 --> 00:07:55,600
+[MILES AXLEROD]
+Thank you, Mel. It is very good to be here. Now listen to me: Big Oil. It costs a fortune. Pollution is getting worse. I mean, come on. It's a fossil fuel. Fossil. As in dead dinosaurs. And we all know what happened to them. Alternative energy is the future. Trust me, Mel, after seeing Allinol in action at the World Grand Prix, nobody will ever go back to gasoline again.
+ຂອບໃຈແມລ. ມັນດີຫຼາຍທີ່ຈະຢູ່ບ່ອນນີ້. ດຽວນີ້ຟັງຂ້ອຍ: ນ້ ໍາ ມັນໃຫຍ່. ມັນມີຄ່າໃຊ້ຈ່າຍຫຼາຍ. ການມົນລະພິດ ກໍາ ລັງຮ້າຍແຮງຂຶ້ນ. ຂ້ອຍ ຫມາຍ ຄວາມວ່າ, ມາແລ້ວ. ມັນແມ່ນເຊື້ອໄຟຟໍຊິນ. ຟໍຊີນ.
+ເຊັ່ນດຽວກັບດິນາຊູຣ໌ຕາຍ. ແລະພວກເຮົາທຸກຄົນຮູ້ວ່າເກີດຫຍັງຂຶ້ນກັບພວກເຂົາ. ພະລັງງານທາງເລືອກແມ່ນອະນາຄົດ. ເຊື່ອຂ້ອຍແມວ, ຫຼັງຈາກເຫັນອາລິນອອນໃນການກະ ທໍາ ໃນລາງວັນໃຫຍ່ໂລກ, ບໍ່ມີໃຜຈະກັບ
+
+126
+00:07:56,100 --> 00:07:58,200
+[MATER]
+What happened to the dinosaurs, now?
+ເກີດຫຍັງຂຶ້ນກັບດິນາຊູຣ໌, ດຽວນີ້?
+
+127
+00:07:58,700 --> 00:08:04,700
+[MEL DORADO]
+And on satellite, a World Grand Prix competitor and one of the fastest cars in the world, Francesco Bernoulli.
+ແລະໃນດາວທຽມ, ຜູ້ແຂ່ງຂັນ Grand Prix ໂລກແລະ
+ຫນຶ່ງ ໃນລົດທີ່ໄວທີ່ສຸດໃນໂລກ, ຟຣານເຊສໂກ ເບຣນູລີ.
+
+128
+00:08:05,200 --> 00:08:08,350
+[FRANCESCO]
+It is an honor, Signore Dorado. For you. 16.
+ມັນເປັນກຽດຕິຍົດ, ທ້າວໂດຣາໂດ. ສໍາ ລັບເຈົ້າ. 16.
+
+129
+00:08:08,850 --> 00:08:10,950
+[MEL DORADO]
+Miles, why not invite Lightning McQueen?
+ໄມລ໌ສ໌, ເປັນຫຍັງບໍ່ເຊີນແສງສະຫວ່າງແມັກຄວິນ?
+
+130
+00:08:11,450 --> 00:08:17,450
+[MILES AXLEROD]
+Of course we invited him. But apparently after a very long racing season he is taking some time off to rest.
+ແນ່ນອນວ່າພວກເຮົາໄດ້ເຊື້ອເຊີນລາວ.
+ແຕ່ເບິ່ງຄືວ່າຫຼັງຈາກລະດູການແຂ່ງຂັນທີ່ຍາວນານຫຼາຍລາວ ກໍາ ລັງພັກຜ່ອນບາງຄັ້ງ.
+
+131
+00:08:17,950 --> 00:08:21,100
+[FRANCESCO]
+Lightning McQueen would not have a chance against Francesco!
+ແສງສະຫວ່າງແມັກຄວິນຈະບໍ່ມີໂອກາດຕໍ່ຕ້ານຟຣານເຊສໂກ!
+
+132
+00:08:21,600 --> 00:08:27,600
+[FRANCESCO]
+I can go over 300 kilometers an hour! In miles that is like, uh... way faster than McQueen.
+ຂ້ອຍສາມາດໄປໄດ້ຫຼາຍກວ່າ 300 ກິໂລແມັດຕໍ່ຊົ່ວໂມງ
+! ໃນແມລທີ່ຄືກັບ, ອູ... ໄວຫຼາຍກ່ວາແມັກຄວິນ.
+
+133
+00:08:28,100 --> 00:08:31,950
+[MEL DORADO]
+Let's go to the phones. Baltimore, Maryland, you're on the air.
+ໄປຫາໂທລະສັບ. ບາລຕິມໍ, ເມຣີແລນ, ເຈົ້າຢູ່ໃນອາກາດ.
+
+134
+00:08:32,450 --> 00:08:34,450
+[CALLER]
+Am I on? Hello?
+ຂ້ອຍຢູ່ບໍ? ສະບາຍດີ?
+
+135
+00:08:34,950 --> 00:08:36,950
+[MEL DORADO]
+You're on. Go ahead.
+ເຈົ້າຢູ່ແລ້ວ. ໄປກ່ອນ.
+
+136
+00:08:37,450 --> 00:08:39,450
+[CALLER]
+Hello?
+ສະບາຍດີ?
+
+137
+00:08:39,950 --> 00:08:41,950
+[MEL DORADO]
+Go ahead, caller.
+ໄປກ່ອນ, ຜູ້ໂທ.
+
+138
+00:08:42,450 --> 00:08:45,250
+[MEL DORADO]
+Let's go to Radiator Springs. You're on, caller.
+ໄປຫາ Radiator Springs. ເຈົ້າຢູ່ແລ້ວ, ຜູ້ໂທ.
+
+139
+00:08:45,750 --> 00:08:51,750
+[MATER'S VOICE]
+Yeah, that Italian feller you got on there can't talk that way about Lightning McQueen. He's the bestest race car in the whole wide world.
+ແມ່ນແລ້ວ, ຜູ້ຊາຍອີຕາລີທີ່ເຈົ້າມີຢູ່ບ່ອນນັ້ນບໍ່ສາມາດເວົ້າແບບນັ້ນກ່ຽວກັບແສງສະຫວ່າງແມັກຄວິນໄດ້
+. ລາວເປັນລົດແຂ່ງຂັນທີ່ດີທີ່ສຸດໃນໂລກທີ່ກວ້າງຂວາງທັງ ຫມົດ.
+
+140
+00:08:52,250 --> 00:08:54,250
+[SARGE]
+Uh-oh...
+ໂອ້...
+
+141
+00:08:54,750 --> 00:09:00,350
+[FRANCESCO]
+If he is, how you say "the bestest race car," then why must he rest, eh?
+ຖ້າລາວເປັນ, ເຈົ້າເວົ້າແນວໃດວ່າ"ລົດແຂ່ງຂັນທີ່ດີທີ່ສຸດ
+," ຫຼັງຈາກນັ້ນລາວຕ້ອງພັກຜ່ອນເປັນຫຍັງ, ແມ່ນບໍ?
+
+142
+00:09:00,850 --> 00:09:06,800
+[MATER'S VOICE]
+Cause he knows what's important. Every now and then he prefers just to slow down, enjoy life.
+ເພາະວ່າລາວຮູ້ວ່າສິ່ງທີ່ສໍາຄັນແມ່ນຫຍັງ.
+ບາງຄັ້ງລາວມັກພຽງແຕ່ຊ້າລົງ, ມ່ວນຊື່ນກັບຊີວິດ.
+
+143
+00:09:07,300 --> 00:09:13,300
+[FRANCESCO]
+Ah, you heard it! Lightning McQueen prefers to be slow! Of course, this is not news to Francesco. When I want to go to sleep I watch one of his races. After two laps I am out cold.
+ອາ, ເຈົ້າໄດ້ຍິນມັນ! ແສງສະຫວ່າງແມັກຄວິນມັກຈະຊ້າຊ້າ! ແນ່ນອນ, ນີ້ແມ່ນບໍ່ແມ່ນຂ່າວ ສໍາ
+ລັບຟຣານເຊສໂກ. ເມື່ອຂ້ອຍຢາກນອນຂ້ອຍເບິ່ງການແຂ່ງຂັນຂອງລາວ ຫນຶ່ງ. ຫຼັງຈາກສອງຮອບຂ້ອຍອອກເຢັນ.
+
+144
+00:09:13,800 --> 00:09:16,250
+[MATER'S VOICE]
+That ain't what I meant. CUT TO:
+ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍຫມາຍຄວາມວ່າ. ຕັດອອກ:
+
+145
+00:09:16,750 --> 00:09:18,850
+[MCQUEEN]
+Hey, what's going on over there?
+ເຮ້, ເກີດຫຍັງຂຶ້ນຢູ່ບ່ອນນັ້ນ?
+
+146
+00:09:19,350 --> 00:09:25,350
+[CUT BACK TO:]
+THE BAR - Sally and McQueen push through the crowd, see that they're watching Francesco on the television.
+ບາ - ແຊລລີ ແລະ ແມັກຄວິນຊຸກຍູ້ຜ່ານຄົນຊົມເຊີຍ,
+ເບິ່ງວ່າພວກເຂົາ ກໍາ ລັງເບິ່ງຟຣານເຊສໂກໃນໂທລະພາບ.
+
+147
+00:09:25,850 --> 00:09:29,350
+[MCQUEEN]
+Oh, it's that Italian Formula car. His name is ---
+ໂອ້, ມັນແມ່ນລົດແບບຟອມເຊີຍອີຕາລີນັ້ນ. ຊື່ຂອງລາວແມ່ນ ---
+
+148
+00:09:29,850 --> 00:09:32,300
+[SALLY]
+Francesco Bernoulli. No wonder there's a crowd.
+ແຟຣນເຊສໂກ ເບຣນູລີ. ບໍ່ແປກໃຈວ່າມີຄົນຊົມເຊີຍ.
+
+149
+00:09:32,800 --> 00:09:38,800
+[MCQUEEN]
+Wait, why do you know his name? And don't say it like that. It's three syllables, not ten. 18.
+ລໍຖ້າ, ເປັນຫຍັງເຈົ້າຈຶ່ງຮູ້ຊື່ຂອງລາວ?
+ແລະຢ່າເວົ້າມັນແບບນັ້ນ. ມັນແມ່ນສາມຂໍ້, ບໍ່ແມ່ນສິບ. 18.
+
+150
+00:09:39,300 --> 00:09:43,150
+[SALLY]
+What? He's nice to look at. You know, open-wheeled and all.
+ຫຍັງ? ລາວດີທີ່ຈະເບິ່ງ. ເຈົ້າຮູ້ແລ້ວ, ມີລໍ້ເປີດແລະທັງ ຫມົດ.
+
+151
+00:09:43,650 --> 00:09:47,150
+[MCQUEEN]
+What's wrong with fenders? I thought you like my fenders.
+ມີຫຍັງຜິດກັບແຟນເດີ? ຂ້ອຍຄິດວ່າເຈົ້າມັກແຝນເດີຂອງຂ້ອຍ.
+
+152
+00:09:47,650 --> 00:09:51,850
+[MATER'S VOICE]
+Well let me tell you something else there, Mr. San Francisco ---
+ດີ ຂໍໃຫ້ຂ້ອຍບອກເຈົ້າອີກບາງສິ່ງບາງຢ່າງຢູ່ບ່ອນນັ້ນ
+, ທ້າວແຊນຟຣານຊິສໂກ ---
+
+153
+00:09:52,350 --> 00:09:54,350
+[MCQUEEN]
+Mater?
+ແມ່?
+
+154
+00:09:54,850 --> 00:09:56,950
+[MATER'S VOICE]
+McQueen could drive circles around you.
+ແມັກຄວິນສາມາດຂັບລົດວົງຈອນຢູ່ອ້ອມຂ້າງເຈົ້າໄດ້.
+
+155
+00:09:57,450 --> 00:10:00,600
+[FRANCESCO]
+Driving in circles is all he can do, no?
+ການຂັບລົດໃນວົງຈອນແມ່ນສິ່ງດຽວທີ່ລາວສາມາດເຮັດໄດ້, ແມ່ນບໍ?
+
+156
+00:10:01,100 --> 00:10:06,000
+[MATER'S VOICE]
+No! I mean yes. I mean he could beat you anywhere, anytime, any track.
+ບໍ່! ຂ້ອຍຫມາຍຄວາມວ່າແມ່ນແລ້ວ. ຂ້ອຍ ຫມາຍ
+ຄວາມວ່າລາວສາມາດເອົາຊະນະເຈົ້າໄດ້ທຸກບ່ອນ, ທຸກເວລາ, ເສັ້ນທາງໃດກໍ່ຕາມ.
+
+157
+00:10:06,500 --> 00:10:12,500
+[FRANCESCO]
+Mel, can we move on? Francesco needs a caller who can provide a little more intellectual stimulation. Like a dump truck.
+ແມລ, ພວກເຮົາສາມາດຍ້າຍໄປໄດ້ບໍ? ຟຣານເຊສໂກຕ້ອງການຜູ້ໂທທີ່ສາມາດສະ
+ຫນອງ ການກະຕຸ້ນທາງປັນຍາຫຼາຍຂຶ້ນເລັກນ້ອຍ. ຄືກັບລົດບັນທຸກຂີ້ເຫຍື້ອ.
+
+158
+00:10:13,000 --> 00:10:16,850
+[MATER]
+Ha ha! That shows what you know. Dump trucks is dumb.
+Ha ha! ນັ້ນສະແດງໃຫ້ເຫັນວ່າເຈົ້າຮູ້ຫຍັງ
+. ລົດບັນທຸກຂີ້ເຫຍື້ອແມ່ນໂງ່.
+
+159
+00:10:17,350 --> 00:10:23,350
+[FRANCESCO]
+McQueen! That was your best friend? This is the difference between you and Francesco. Francesco knows how good he is. He does not need to surround himself with tow trucks to prove it.
+ແມັກຄວິນ! ນັ້ນແມ່ນເພື່ອນທີ່ດີທີ່ສຸດຂອງທ່ານບໍ? ນີ້ແມ່ນຄວາມແຕກຕ່າງລະຫວ່າງທ່ານແລະຟຣານເຊສໂກ
+. ຟຣານເຈສໂກ້ຮູ້ວ່າລາວດີຫຼາຍປານໃດ. ລາວບໍ່ຈໍາເປັນຕ້ອງອ້ອມຮອບຕົວດ້ວຍລົດຖີບເພື່ອພິສູດມັນ.
+
+160
+00:10:23,850 --> 00:10:27,700
+[MCQUEEN]
+Those are strong words from a car that is so fragile.
+ນັ້ນແມ່ນຄໍາເວົ້າທີ່ແຂງແຮງຈາກລົດທີ່ອ່ອນແອຫຼາຍ.
+
+161
+00:10:28,200 --> 00:10:31,350
+[FRANCESCO]
+Fragil�!? He calls Francesco fragil�? Not so fast, McQueen!
+ລາວເອີ້ນຟຣານເຊສໂກວ່າອ່ອນແອບໍ? ບໍ່ໄວຫຼາຍ, ແມັກຄວິນ!
+
+162
+00:10:31,850 --> 00:10:35,000
+[MCQUEEN]
+"Not so fast." What is that, your new motto?
+"ບໍ່ໄວຫຼາຍ." ນັ້ນແມ່ນຫຍັງ, ຄໍາ ນິຍາມ ໃຫມ່ ຂອງທ່ານ?
+
+163
+00:10:35,500 --> 00:10:41,500
+[MILES AXLEROD]
+Well, this sounds like something that needs to be settled on the race course. What do you say, Lightning McQueen? We've still got room for one more racer.
+ດີ, ນີ້ແມ່ນເບິ່ງຄືວ່າບາງສິ່ງບາງຢ່າງທີ່ຕ້ອງຖືກຕົກລົງໃນສະຫນາມແຂ່ງຂັນ.
+ເຈົ້າຄິດແນວໃດ, ແສງສະຫວ່າງແມັກຄວິນ? ພວກເຮົາມີບ່ອນ ສໍາ ລັບນັກແຂ່ງອີກຄົນຫນຶ່ງ.
+
+164
+00:10:42,000 --> 00:10:47,950
+[MCQUEEN]
+Well, I would love to. The only thing is my crew's off for the season so ---
+ດີ, ຂ້ອຍຢາກເຮັດ. ສິ່ງດຽວແມ່ນທີມງານຂອງຂ້ອຍອອກໄປ
+ສໍາ ລັບລະດູການດັ່ງນັ້ນ ---
+
+165
+00:10:48,450 --> 00:10:50,450
+[GUIDO]
+Pit stop.
+ຢຸດຂຸມ.
+
+166
+00:10:50,950 --> 00:10:55,150
+[MCQUEEN]
+You know what? They just got back. Deal me in, baby. Ka-chow!
+ເຈົ້າຮູ້ບໍ? ພວກເຂົາຫາກໍ່ກັບມາແລ້ວ. ໃຫ້ຂ້ອຍເຂົ້າມາ, ແມ. Ka-chow!
+
+167
+00:10:55,650 --> 00:11:00,900
+[MCQUEEN]
+I know, I know. I just got back. But we won't be long and ---
+ຂ້ອຍຮູ້, ຂ້ອຍຮູ້. ຂ້ອຍຫາກໍ່ກັບມາແລ້ວ
+. ແຕ່ພວກເຮົາຈະບໍ່ຍາວນານແລະ ---
+
+168
+00:11:01,400 --> 00:11:07,400
+[SALLY]
+Oh, no, don't worry about me. I've got enough to do here. Mater's going to have a blast though.  You're bringing Mater, right? You never bring him to any of your races.
+ໂອ້, ບໍ່, ຢ່າກັງວົນກ່ຽວກັບຂ້ອຍ. ຂ້ອຍມີວຽກເຮັດຢູ່ບ່ອນນີ້ພຽງພໍ. ແມ່ຈະມີການລະເບີດເຖິງຢ່າງໃດກໍ່ຕາມ
+. ເຈົ້າ ກໍາ ລັງເອົາແມ່ມາ, ແມ່ນບໍ? ເຈົ້າບໍ່ເຄີຍເອົາລາວໄປແຂ່ງຂັນໃດໆຂອງທ່ານ.
+
+169
+00:11:07,900 --> 00:11:13,900
+[SALLY]
+Just let him sit in the pits, give him a headset. C'mon, it'll be a thrill of a lifetime for him.
+ພຽງແຕ່ປ່ອຍໃຫ້ລາວນັ່ງຢູ່ໃນຮູ, ໃຫ້ລາວຫູຟັງ. ມາແລ້ວ
+, ມັນຈະເປັນຄວາມຕື່ນເຕັ້ນຕະຫຼອດຊີວິດ ສໍາ ລັບລາວ.
+
+170
+00:11:14,400 --> 00:11:16,400
+[MATER]
+Your drinks, sir.
+ເຄື່ອງດື່ມຂອງທ່ານເດີ.
+
+171
+00:11:16,900 --> 00:11:18,900
+[MCQUEEN]
+Mater.
+ແມ່.
+
+172
+00:11:19,400 --> 00:11:21,400
+[MATER]
+I didn't taste it!
+ຂ້ອຍບໍ່ໄດ້ລົດຊາດມັນ!
+
+173
+00:11:21,900 --> 00:11:25,750
+[MCQUEEN]
+How'd you like to come and see the world with me?
+ເຈົ້າຢາກມາເບິ່ງໂລກກັບຂ້ອຍແນວໃດ?
+
+174
+00:11:26,250 --> 00:11:28,250
+[MATER]
+You mean it?
+ເຈົ້າເວົ້າແທ້ບໍ?
+
+175
+00:11:28,750 --> 00:11:31,900
+[MCQUEEN]
+You got me into this thing. You're coming along.
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍເຂົ້າໄປໃນສິ່ງນີ້. ເຈົ້າ ກໍາ ລັງມາພ້ອມກັນ.
+
+176
+00:11:32,400 --> 00:11:38,400
+[BEGIN MONTAGE:]
+- McQueen is given a new paint job and headlights by Ramone. Mater, now sporting a "Team McQueen" emblem, seems psyched as well.
+- ແມັກຄວິນໄດ້ຮັບການເຮັດສີ ໃຫມ່ ແລະ ແສງສະຫວ່າງທາງຫນ້າໂດຍຣາມອນ.
+ແມ່, ດຽວນີ້ມີເຄື່ອງຫມາຍ"ທີມແມັກຄູອິນ", ເບິ່ງຄືວ່າຈິດໃຈເຊັ່ນກັນ.
+
+177
+00:11:38,900 --> 00:11:41,350
+[LUIGI]
+Guido, look! Ferraris and tires! Let's go!
+Guido, ເບິ່ງ! ຟາຣາຣີແລະລົດຖີບ! ໄປ!
+
+178
+00:11:41,850 --> 00:11:45,350
+[MCQUEEN]
+Hey, look at this. Okay now Mater, remember: best behavior.
+ເຮ້, ເບິ່ງສິ່ງນີ້ແມ. ດີແລ້ວແມ່, ຈື່ໄວ້ວ່າ: ການປະພຶດທີ່ດີທີ່ສຸດ.
+
+179
+00:11:45,850 --> 00:11:48,300
+[MATER]
+You got it, buddy. Hey, what's that?
+ເຈົ້າເຂົ້າໃຈແລ້ວ, ເພື່ອນ. ເຮ້, ນັ້ນແມ່ນຫຍັງ?
+
+180
+00:11:48,800 --> 00:11:50,800
+[MCQUEEN]
+Mater!
+ແມ່!
+
+181
+00:11:51,300 --> 00:11:53,300
+[LEWIS HAMILTON]
+Hey, McQueen, over here! 22.
+ເຮ້, ແມັກຄວິນ, ຢູ່ບ່ອນນີ້! 22.
+
+182
+00:11:53,800 --> 00:11:55,800
+[MCQUEEN]
+Hey, Jeff. Lewis! CUT TO:
+ເຮ້, ເຈຟສ໌. ເລວສ໌! ຕັດອອກ:
+
+183
+00:11:56,300 --> 00:11:59,450
+[MATER]
+Hey! You done good! You got all the leaves!
+ເຮ້! ເຈົ້າເຮັດໄດ້ດີ! ເຈົ້າມີໃບທັງ ຫມົດ!
+
+184
+00:11:59,950 --> 00:12:01,950
+[CUT BACK TO:]
+MCQUEEN, JEFF and LEWIS.
+ແມັກຄວິນ, ເຈຟຟ໌ ແລະ ເລວີສ.
+
+185
+00:12:02,450 --> 00:12:04,450
+[JEFF GORVETTE]
+Check out that tow truck.
+ເບິ່ງລົດດຶງນັ້ນແມ.
+
+186
+00:12:04,950 --> 00:12:07,050
+[LEWIS HAMILTON]
+I wonder who that guy's with?
+ຂ້ອຍຢາກຮູ້ວ່າຄົນນັ້ນຢູ່ກັບໃຜ?
+
+187
+00:12:07,550 --> 00:12:11,050
+[MCQUEEN]
+Will you guys excuse me just for one little second?
+ພວກເຈົ້າຂໍໂທດຂ້ອຍພຽງແຕ່ ຫນຶ່ງ ວິນາທີນ້ອຍໆບໍ?
+
+188
+00:12:11,550 --> 00:12:13,650
+[MCQUEEN]
+Mater, listen. This isn't Radiator Springs.
+ແມ່, ຟັງ. ນີ້ແມ່ນບໍ່ແມ່ນ Radiator Springs.
+
+189
+00:12:14,150 --> 00:12:18,700
+[MATER]
+You're just realizing that? Boy, that jet-lag really done a number on you.
+ເຈົ້າພຽງແຕ່ເຂົ້າໃຈມັນບໍ? ເດັກຊາຍ,
+ການຊັກຊ້າເຮືອບິນນັ້ນໄດ້ເຮັດໃຫ້ເຈົ້າເປັນຕົວເລກແທ້ໆ.
+
+190
+00:12:19,200 --> 00:12:25,200
+[MCQUEEN]
+Mater, look -- things are different over here. Which means maybe you should, you know, act a little different too.
+ແມ່, ເບິ່ງ - ສິ່ງຕ່າງໆແຕກຕ່າງກັນຢູ່ບ່ອນນີ້. ຊຶ່ງຫມາຍຄວາມວ່າບາງທີເຈົ້າຄວນ
+, ເຈົ້າຮູ້ແລ້ວ, ກະທໍາແບບແຕກຕ່າງກັນເລັກນ້ອຍເຊັ່ນກັນ.
+
+191
+00:12:25,700 --> 00:12:27,700
+[MATER]
+Different than what?
+ແຕກຕ່າງຈາກຫຍັງ?
+
+192
+00:12:28,200 --> 00:12:31,700
+[MCQUEEN]
+Well, just... help me out here, buddy. I --- 23.
+ດີ, ພຽງແຕ່... ຊ່ວຍຂ້ອຍຢູ່ນີ້, ເພື່ອນ. ຂ້ອຍ --- 23.
+
+193
+00:12:32,200 --> 00:12:38,200
+[MATER]
+You need help? Shoot, why didn't you just say so? That's what a tow truck does. Hey, looky there, it's Mr. San Francisco!
+ເຈົ້າຕ້ອງການຄວາມຊ່ວຍເຫຼືອບໍ? ຍິງ, ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເວົ້າດັ່ງນັ້ນ?
+ນັ້ນແມ່ນສິ່ງທີ່ລົດຖີບເຮັດ. ເຮ້, ເບິ່ງບ່ອນນັ້ນ, ມັນແມ່ນທ່ານແຊນຟຣານຊິສໂກ!
+
+194
+00:12:38,700 --> 00:12:40,700
+[MATER]
+I'll introduce you.
+ຂ້ອຍຈະແນະນໍາເຈົ້າ.
+
+195
+00:12:41,200 --> 00:12:43,200
+[MCQUEEN]
+Mater, no.
+ແມ່, ບໍ່.
+
+196
+00:12:43,700 --> 00:12:46,500
+[MATER]
+Look at me -- I'm helping you already!
+ເບິ່ງຂ້ອຍແມ - ຂ້ອຍ ກໍາ ລັງຊ່ວຍເຈົ້າແລ້ວ!
+
+197
+00:12:47,000 --> 00:12:50,500
+[MATER]
+Hey Mr. San Francisco, I'd like you to meet ---
+ເຮ້ ທ້າວແຊນຟຣານຊິສໂກ, ຂ້ອຍຢາກໃຫ້ທ່ານພົບກັນ ---
+
+198
+00:12:51,000 --> 00:12:53,000
+[FRANCESCO]
+Lightning McQueen! Buona sera.
+ແສງສະຫວ່າງແມັກຄວິນ! ສະບາຍດີ.
+
+199
+00:12:53,500 --> 00:12:55,500
+[MCQUEEN]
+Nice to meet you, Francesco.
+ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ, ຟຣານເຊສໂກ.
+
+200
+00:12:56,000 --> 00:13:02,000
+[FRANCESCO]
+Yeah, nice to meet you too. You are very good-looking. Not as good as I thought, but you're good.
+ແມ່ນແລ້ວ, ດີໃຈທີ່ຮູ້ຈັກເຈົ້າເຊັ່ນກັນ.
+ເຈົ້າສວຍງາມຫຼາຍ. ບໍ່ດີເທົ່າທີ່ຂ້ອຍຄິດ, ແຕ່ເຈົ້າດີ.
+
+201
+00:13:02,500 --> 00:13:05,650
+[MATER]
+Excuse me. Can I get a picture with you?
+ຂໍໂທດຂ້ອຍ. ຂ້ອຍສາມາດຖ່າຍຮູບກັບເຈົ້າໄດ້ບໍ?
+
+202
+00:13:06,150 --> 00:13:08,150
+[FRANCESCO]
+Anything for McQueen's friend.
+ທຸກຢ່າງ ສໍາ ລັບເພື່ອນຂອງແມັກຄວິນ.
+
+203
+00:13:08,650 --> 00:13:13,200
+[MATER]
+Miss Sally is gonna flip when she sees this. She's Lightning McQueen's girlfriend.
+ນາງແຊລລີຈະຫັນເມື່ອນາງເຫັນສິ່ງນີ້.
+ນາງເປັນແຟນຂອງແສງສະຫວ່າງແມັກຄວິນ.
+
+204
+00:13:13,700 --> 00:13:15,700
+[FRANCESCO]
+Oooh. 24.
+ໂອ້. 24.
+
+205
+00:13:16,200 --> 00:13:18,300
+[MATER]
+She's a big fan of yours.
+ນາງເປັນແຟນຂອງທ່ານຫຼາຍ.
+
+206
+00:13:18,800 --> 00:13:20,800
+[FRANCESCO]
+Hey, she has good taste.
+ເຮ້, ນາງມີຄວາມລົດຊາດທີ່ດີ.
+
+207
+00:13:21,300 --> 00:13:25,150
+[MCQUEEN]
+Mater's prone to exaggeration. I wouldn't say she's a "big" fan.
+ແມ່ມັກຈະເກີນໄປ. ຂ້ອຍຈະບໍ່ເວົ້າວ່ານາງເປັນແຟນ"ໃຫຍ່".
+
+208
+00:13:25,650 --> 00:13:31,250
+[MATER]
+You're right. She's a huge fan. She goes on and on about your open wheels here.
+ເຈົ້າເວົ້າຖືກຕ້ອງ. ນາງເປັນແຟນໃຫຍ່.
+ນາງເວົ້າຕໍ່ໄປແລະຕໍ່ໄປກ່ຽວກັບລໍ້ເປີດຂອງທ່ານຢູ່ນີ້.
+
+209
+00:13:31,750 --> 00:13:35,250
+[MCQUEEN]
+Mentioning it once doesn't qualify as going "on and on."
+ການກ່າວເຖິງມັນຄັ້ງດຽວບໍ່ໄດ້ມີຄຸນສົມບັດວ່າຈະໄປ"ຕໍ່ໄປແລະຕໍ່ໄປ."
+
+210
+00:13:35,750 --> 00:13:41,700
+[FRANCESCO]
+Francesco is familiar with this reaction to Francesco. Women respect a car that has nothing to hide.
+ແຟຣນເຊສໂກຮູ້ຈັກກັບປະຕິກິລິຍານີ້ຕໍ່ແຟຣັນເຊສ ໂກ
+. ແມ່ຍິງເຄົາລົບລົດທີ່ບໍ່ມີຫຍັງທີ່ຈະເຊື່ອງໄວ້.
+
+211
+00:13:42,200 --> 00:13:44,200
+[MCQUEEN]
+Yeah, uh...
+ແມ່ນແລ້ວ, ອູ...
+
+212
+00:13:44,700 --> 00:13:46,700
+[FRANCESCO]
+Let us have a toast.
+ຂໍໃຫ້ພວກເຮົາດື່ມ.
+
+213
+00:13:47,200 --> 00:13:49,200
+[MCQUEEN]
+Let's.
+ມາແລ້ວ.
+
+214
+00:13:49,700 --> 00:13:52,500
+[FRANCESCO]
+I dedicate my win tomorrow... to Miss Sally.
+ຂ້ອຍອຸທິດໄຊຊະນະຂອງຂ້ອຍມື້ອື່ນ... ໃຫ້ນາງແຊລລີ.
+
+215
+00:13:53,000 --> 00:13:59,000
+[MCQUEEN]
+Oh, sorry. I already dedicated MY win tomorrow to her. So if we both do it, it's really not so special. Besides, I don't have a drink.
+ໂອ້, ຂໍໂທດ. ຂ້ອຍໄດ້ອຸທິດໄຊຊະນະຂອງຂ້ອຍມື້ອື່ນແລ້ວໃຫ້ນາງ.
+ສະນັ້ນຖ້າພວກເຮົາທັງສອງເຮັດມັນ, ມັນບໍ່ແມ່ນພິເສດຫຼາຍ. ນອກຈາກນັ້ນ, ຂ້ອຍບໍ່ມີເຄື່ອງດື່ມ.
+
+216
+00:13:59,500 --> 00:14:05,500
+[MATER]
+I'll go get you one. You mind if I borrow a few bucks for one of them drinks? 25.
+ຂ້ອຍຈະໄປເອົາຫນຶ່ງໃຫ້ເຈົ້າ. ເຈົ້າບໍ່ເປັນຫຍັງຖ້າຂ້ອຍກູ້ຢືມເງິນສອງສາມໂດລາ
+ສໍາ ລັບ ຫນຶ່ງ ໃນເຄື່ອງດື່ມເຫຼົ່ານັ້ນບໍ? 25.
+
+217
+00:14:06,000 --> 00:14:08,000
+[MCQUEEN]
+They're free, Mater.
+ພວກເຂົາເປັນອິດສະຫຼະ, ແມ່.
+
+218
+00:14:08,500 --> 00:14:11,300
+[MATER]
+Free? Well, shoot, what am I doing here?
+ຟຣີບໍ? ດີ, ຍິງ, ຂ້ອຍເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+219
+00:14:11,800 --> 00:14:16,700
+[MCQUEEN]
+I should probably go keep an eye on him. See you at the race.
+ຂ້ອຍຄວນໄປເບິ່ງແຍງລາວ. ພົບກັນໃນການແຂ່ງຂັນ.
+
+220
+00:14:17,200 --> 00:14:20,350
+[FRANCESCO]
+Yes, you will see Francesco. But not like this.
+ແມ່ນແລ້ວ, ເຈົ້າຈະເຫັນຟຣານເຊສໂກ. ແຕ່ບໍ່ແມ່ນແບບນີ້.
+
+221
+00:14:20,850 --> 00:14:25,050
+[FRANCESCO]
+You will see him like this, as he drives away from you.
+ເຈົ້າຈະເຫັນລາວແບບນີ້, ໃນຂະນະທີ່ລາວຂັບລົດອອກຈາກເຈົ້າ.
+
+222
+00:14:25,550 --> 00:14:30,450
+[MCQUEEN]
+That's cute. So you had one of those made up for all the racers?
+ນັ້ນແມ່ນຫນ້າຮັກ. ສະນັ້ນເຈົ້າໄດ້ເຮັດ ຫນຶ່ງ
+ໃນນັ້ນ ສໍາ ລັບນັກແຂ່ງຂັນທັງ ຫມົດ ບໍ?
+
+223
+00:14:30,950 --> 00:14:32,950
+[FRANCESCO]
+No.
+ບໍ່
+
+224
+00:14:33,450 --> 00:14:35,450
+[MCQUEEN]
+Okay.
+ດີແລ້ວ.
+
+225
+00:14:35,950 --> 00:14:38,050
+[MCQUEEN]
+He is so getting beat tomorrow.
+ລາວຈະຖືກຕີມື້ອື່ນຫຼາຍ.
+
+226
+00:14:38,550 --> 00:14:40,650
+[VOICE]
+Ladies and gentlecars... Sir Miles Axlerod!
+ພວກທ່ານແລະລົດຜູ້ຊາຍ... ທ້າວແມລສ໌ ອາຊເລຣອດ!
+
+227
+00:14:41,150 --> 00:14:47,150
+[MILES AXLEROD]
+It is my absolute honor to introduce to you the competitors in the first-ever World Grand Prix. From Brazil. Number eight...
+ມັນເປັນກຽດຕິຍົດທີ່ສົມບູນແບບຂອງຂ້ອຍທີ່ຈະ ນໍາ ສະ ເຫນີ
+ເຈົ້າຜູ້ແຂ່ງຂັນໃນລາງວັນໃຫຍ່ໂລກຄັ້ງ ທໍາ ອິດໃນປະຫວັດສາດ. ຈາກບຣາຊິນ. ເລກທີແປດ...
+
+228
+00:14:47,650 --> 00:14:50,100
+[HOLLEY]
+A Volkswagen Karmann Ghia has no radiator.
+ລົດຟອກຊ໌ເວກຊ໌ແມນ ກີອາບໍ່ມີເຄື່ອງເຮັດຄວາມຮ້ອນ.
+
+229
+00:14:50,600 --> 00:14:52,600
+[FINN]
+That's because it's air-cooled.
+ນັ້ນແມ່ນຍ້ອນວ່າມັນເຢັນດ້ວຍອາກາດ.
+
+230
+00:14:53,100 --> 00:14:58,350
+[HOLLEY]
+I'm Agent Shiftwell, Holley Shiftwell from the Tokyo Station. I have a message from London.
+ຂ້ອຍເປັນຕົວແທນຊິບເວລ, ໂຮລີ
+ຊິບເວວຈາກສະຖານີໂຕກຽວ. ຂ້ອຍມີຂໍ້ຄວາມຈາກລອນດອນ.
+
+231
+00:14:58,850 --> 00:15:02,350
+[FINN]
+Not here. You must try the canapes on the mezzanine!
+ບໍ່ຢູ່ບ່ອນນີ້. ເຈົ້າຕ້ອງພະຍາຍາມ canapes ໃນ mezzanine ໄດ້!
+
+232
+00:15:02,850 --> 00:15:08,450
+[FINN]
+So the lab boys analyzed the photo I sent? What did they learn about the camera?
+ສະນັ້ນພວກຜູ້ຊາຍຫ້ອງທົດລອງໄດ້ວິເຄາະຮູບທີ່ຂ້ອຍສົ່ງ
+? ພວກເຂົາໄດ້ຮຽນຮູ້ຫຍັງກ່ຽວກັບກ້ອງຖ່າຍຮູບ?
+
+233
+00:15:08,950 --> 00:15:14,950
+[HOLLEY]
+It appears to be a standard television camera. They said if you could get closer photos next time, that would be great.
+ມັນເບິ່ງຄືວ່າເປັນກ້ອງຖ່າຍຮູບໂທລະພາບມາດຕະຖານ.
+ພວກເຂົາເວົ້າວ່າຖ້າເຈົ້າສາມາດເອົາຮູບໃກ້ຊິດໄດ້ໃນຄັ້ງຕໍ່ໄປ, ມັນຈະດີເລີດ.
+
+234
+00:15:15,450 --> 00:15:17,450
+[FINN]
+This was London's message? 27.
+ນີ້ແມ່ນຂໍ້ຄວາມຈາກລອນດອນບໍ? 27.
+
+235
+00:15:17,950 --> 00:15:23,950
+[HOLLEY]
+Oh -- no, no. No sir. Um, the oil platforms you were on? Turns out they're sitting on the biggest oil reserve in the world.
+ໂອ້ - ບໍ່, ບໍ່. ບໍ່ເດີ. ອູມ, ເວທີນ້ ໍາ ມັນທີ່ທ່ານຢູ່ເທິງບໍ?
+ປາກົດວ່າພວກເຂົາ ກໍາ ລັງນັ່ງຢູ່ເທິງຊັບພະຍາກອນນໍ້າມັນທີ່ໃຫຍ່ທີ່ສຸດໃນໂລກ.
+
+236
+00:15:24,450 --> 00:15:26,450
+[FINN]
+How did we miss that?
+ພວກເຮົາພາດມັນແນວໃດ?
+
+237
+00:15:26,950 --> 00:15:32,950
+[HOLLEY]
+They'd been scrambling everyone's satellites. The Americans actually discovered it just before you did. They placed an agent on that platform, under deep cover. He was able to get a photo of the car who's running the entire operation.
+ພວກເຂົາ ກໍາ ລັງສັ່ນສະເທືອນດາວທຽມຂອງທຸກຄົນ. ຊາວອາເມຣິກັນໄດ້ຄົ້ນພົບມັນກ່ອນເຈົ້າ. ພວກເຂົາໄດ້ວາງຕົວແທນໃນເວທີນັ້ນ
+, ພາຍໃຕ້ການປົກຄຸມຢ່າງເລິກເຊິ່ງ. ລາວສາມາດເອົາຮູບຂອງລົດທີ່ ກໍາ ລັງ ດໍາ ເນີນງານທັງ ຫມົດ ໄດ້.
+
+238
+00:15:33,450 --> 00:15:36,600
+[FINN]
+Who is it? Has anyone seen the photo yet?
+ມັນເປັນໃຜ? ມີໃຜເຫັນຮູບແລ້ວບໍ?
+
+239
+00:15:37,100 --> 00:15:43,100
+[HOLLEY]
+No, not yet. The American is here tonight to pass it to you. He'll signal you when he's ready.
+ບໍ່, ຍັງບໍ່ທັນ. ຊາວອາເມຣິກັນຢູ່ບ່ອນນີ້ໃນຄືນນີ້ເພື່ອສົ່ງມັນໃຫ້ເຈົ້າ
+. ລາວຈະແຈ້ງເຕືອນເຈົ້າເມື່ອລາວພ້ອມແລ້ວ.
+
+240
+00:15:43,600 --> 00:15:45,600
+[GOOD ---]
+Finn suddenly STOPS COLD.
+ຟິນນ໌ຢຸດເຢັນຢ່າງກະທັນຫັນ.
+
+241
+00:15:46,100 --> 00:15:48,100
+[FINN]
+Oh no.
+ໂອ້ ບໍ່.
+
+242
+00:15:48,600 --> 00:15:50,600
+[HOLLEY]
+What is it?
+ມັນເປັນຫຍັງ?
+
+243
+00:15:51,100 --> 00:15:53,550
+[FINN]
+Change of plan. You're meeting the American.
+ການປ່ຽນແປງແຜນການ. ເຈົ້າ ກໍາ ລັງພົບກັບຄົນອາເມຣິກັນ.
+
+244
+00:15:54,050 --> 00:15:56,050
+[HOLLEY]
+What, me? 28.
+ຫຍັງ, ຂ້ອຍບໍ? 28.
+
+245
+00:15:56,550 --> 00:16:02,550
+[FINN]
+Those thugs down there were on the oil platform. If they see me, the whole mission is compromised.
+ພວກໂຊກຮ້າຍຢູ່ລຸ່ມນັ້ນຢູ່ເທິງເວທີນ້ ໍາ ມັນ.
+ຖ້າພວກເຂົາເຫັນຂ້ອຍ, ພາລະກິດທັງ ຫມົດ ຈົບແນ່.
+
+246
+00:16:03,050 --> 00:16:07,950
+[HOLLEY]
+No, no. I'm technical, you see. I'm in Diagnostics. I'm not a field agent.
+ບໍ່, ບໍ່. ຂ້ອຍເປັນວິຊາການ, ເຈົ້າເຫັນ.
+ຂ້ອຍຢູ່ໃນການກວດສອບ. ຂ້ອຍບໍ່ແມ່ນຕົວແທນພາກສະຫນາມ.
+
+247
+00:16:08,450 --> 00:16:10,450
+[FINN]
+You are now. CUT TO:
+ເຈົ້າເປັນດຽວນີ້. ຕັດອອກ:
+
+248
+00:16:10,950 --> 00:16:12,950
+[MATER]
+I'll take one of them.
+ຂ້ອຍຈະເອົາຫນຶ່ງໃນນັ້ນ.
+
+249
+00:16:13,450 --> 00:16:16,600
+[MATER]
+Never know which one McQueen'll have a hankering for.
+ບໍ່ເຄີຍຮູ້ວ່າແມັກຄວິນຈະຢາກໃຜ.
+
+250
+00:16:17,100 --> 00:16:21,650
+[MATER]
+Hey, what you got here that's free? How about that pistachio ice cream?
+ເຮ້, ເຈົ້າມີຫຍັງຢູ່ບ່ອນນີ້ທີ່ຟຣີບໍ?
+ຈະເປັນແນວໃດກັບນ້ ໍາ ກ້ອນປິສຕາຈີນັ້ນ?
+
+251
+00:16:22,150 --> 00:16:24,150
+[SUSHI CHEF]
+No, no. Wasabi.
+ບໍ່, ບໍ່. ວາຊາບີ.
+
+252
+00:16:24,650 --> 00:16:28,850
+[MATER]
+Oh, same ol', same ol'. What's up with you? That looks delicious.
+ໂອ້, ເກົ່າຄືກັນ, ເກົ້າຄືກັນ.
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ? ມັນເບິ່ງຄືວ່າແຊບຫຼາຍ.
+
+253
+00:16:29,350 --> 00:16:35,350
+[MATER]
+Uh, a little more, please. It is free, right?  Keep it coming. A little more. Come on, let's go, it's free! You're getting there... Scoop scoop!
+ໂອ້, ອີກເລັກນ້ອຍ, ກະລຸນາ. ມັນຟຣີ, ແມ່ນບໍ? ສືບຕໍ່ມາ. ອີກເລັກຫນ້ອຍຫນຶ່ງ
+. ມາ, ໄປ, ມັນເປັນຟຣີ! ເຈົ້າ ກໍາ ລັງໄປບ່ອນນັ້ນ... Scoop scoop!
+
+254
+00:16:35,850 --> 00:16:39,350
+[MATER]
+There you go. Now THAT's a scoop of ice cream.
+ນັ້ນແລ້ວ. ດຽວນີ້ນັ້ນແມ່ນກະຕ່ານ້ ໍາ ກ້ອນ.
+
+255
+00:16:39,850 --> 00:16:41,850
+[SUSHI CHEF]
+My condolences.
+ຂໍຄວາມເສີຍໃຈຂອງຂ້ອຍ.
+
+256
+00:16:42,350 --> 00:16:45,850
+[CUT BACK TO:]
+MILES AXLEROD - He's now nearly done with his intros.
+ໄມລ໌ສ໌ ອາຊເລຣອດ - ລາວດຽວນີ້ເກືອບສໍາເລັດແລ້ວກັບການ
+ນໍາ ສະ ເຫນີ ຂອງລາວ.
+
+257
+00:16:46,350 --> 00:16:50,200
+[MILES AXLEROD]
+... and now, our last competitor --- Number 95, Lightning McQueen!
+ແລະດຽວນີ້, ຜູ້ແຂ່ງຂັນສຸດທ້າຍຂອງພວກເຮົາ
+- ເລກທີ 95, ແສງສະຫວ່າງແມັກຄວິນ!
+
+258
+00:16:50,700 --> 00:16:56,700
+[MCQUEEN]
+Thank you so much for having us, Sir Axlerod. I really look forward to racing. This is a great opportunity.
+ຂອບໃຈຫຼາຍໆທີ່ໄດ້ຮັບພວກເຮົາ, ທ້າວແຊລເລຣອດ.
+ຂ້ອຍຫວັງວ່າຈະແຂ່ງຂັນຢ່າງແທ້ຈິງ. ນີ້ແມ່ນໂອກາດທີ່ດີເລີດ.
+
+259
+00:16:57,200 --> 00:17:03,200
+[MILES AXLEROD]
+Oh, the pleasure is all ours, Lightning. You and your team bring excellence and professionalism to this competition.
+ໂອ້, ຄວາມສຸກແມ່ນຂອງພວກເຮົາທັງ ຫມົດ, ແສງສະຫວ່າງ. ເຈົ້າແລະທີມງານຂອງທ່ານ
+ນໍາ ເອົາຄວາມດີເລີດແລະຄວາມມືອາຊີບເຂົ້າໃນການແຂ່ງຂັນນີ້.
+
+260
+00:17:03,700 --> 00:17:05,700
+[MATER]
+Somebody get me water!
+ບາງຄົນເອົານ້ ໍາ ມາໃຫ້ຂ້ອຍ!
+
+261
+00:17:06,200 --> 00:17:08,200
+[MATER]
+Sweet relief...
+ຄວາມບັນເທົາທຸກທີ່ຫວານ...
+
+262
+00:17:08,700 --> 00:17:13,600
+[MATER]
+Whatever you do, do not eat the free pistachio ice cream. It has turned!
+ບໍ່ວ່າເຈົ້າຈະເຮັດຫຍັງ, ຢ່າກິນນ້ ໍາ ກ້ອນປິສຕິກໂກ້ຟຣີ. ມັນຫັນແລ້ວ!
+
+263
+00:17:14,100 --> 00:17:17,250
+[MCQUEEN]
+Sir Axlerod, I can explain. This is Mater. 30.
+ທ້າວແຊລເລຣອດ, ຂ້ອຍສາມາດອະທິບາຍໄດ້. ນີ້ແມ່ນແມ່. 30.
+
+264
+00:17:17,750 --> 00:17:23,750
+[MILES AXLEROD]
+I know him. This is the bloke that called into the television show. You're the one I have to thank.
+ຂ້ອຍຮູ້ຈັກລາວ. ນີ້ແມ່ນຜູ້ຊາຍທີ່ໂທເຂົ້າໄປໃນລາຍການໂທລະພາບ
+. ເຈົ້າເປັນຄົນທີ່ຂ້ອຍຕ້ອງຂອບໃຈ.
+
+265
+00:17:24,250 --> 00:17:26,700
+[MATER]
+No, thank you. This trip's been amazing.
+ບໍ່, ຂອບໃຈ. ການເດີນທາງນີ້ເປັນທີ່ຍິ່ງໃຫຍ່.
+
+266
+00:17:27,200 --> 00:17:29,300
+[MILES AXLEROD]
+He's a little excited, isn't he?
+ລາວຕື່ນເຕັ້ນເລັກນ້ອຍ, ແມ່ນບໍ?
+
+267
+00:17:29,800 --> 00:17:31,800
+[MCQUEEN]
+Mater!
+ແມ່!
+
+268
+00:17:32,300 --> 00:17:34,300
+[MATER]
+But wait, I... oh, shoot.
+ແຕ່ຖ້າ, ຂ້ອຍ... ໂອ້, ຍິງ.
+
+269
+00:17:34,800 --> 00:17:39,350
+[MCQUEEN]
+Mater, you have to get a hold of yourself. You're making a scene.
+ແມ່, ເຈົ້າຕ້ອງຄວບຄຸມຕົວເອງ. ເຈົ້າ ກໍາ ລັງເຮັດເວທີ.
+
+270
+00:17:39,850 --> 00:17:41,950
+[MATER]
+But I never leak oil. Never.
+ແຕ່ຂ້ອຍບໍ່ເຄີຍຮົ່ວໄຫຼນ້ ໍາ ມັນເລີຍ. ບໍ່ເຄີຍ.
+
+271
+00:17:42,450 --> 00:17:44,900
+[MCQUEEN]
+Go take care of yourself right now.
+ໄປເບິ່ງແຍງຕົວເອງທັນທີ.
+
+272
+00:17:45,400 --> 00:17:47,500
+[ON MATER - MOMENTS LATER]
+He drives through the party, frantic.
+ລາວຂັບລົດຜ່ານງານລ້ຽງ, ໂຊກຮ້າຍ.
+
+273
+00:17:48,000 --> 00:17:52,900
+[MATER]
+Coming through! Excuse me, leakin' oil. Where's the bathroom? Thank you. I gotta go!
+ມາຜ່ານ! ຂໍໂທດ, ການຮົ່ວໄຫລນ້ ໍາ ມັນ.
+ຫ້ອງນ້ ໍາ ຢູ່ໃສ? ຂອບໃຈ. ຂ້ອຍຕ້ອງໄປ!
+
+274
+00:17:53,400 --> 00:17:59,400
+[CORNER ---]
+--- and STOPS. Finds himself in front of TWO BATHROOM DOORS, neither of which clearly indicate MALE or FEMALE. 31.
+- ແລະຢຸດເຊົາ. ພົບຕົວເອງຢູ່ຕໍ່ຫນ້າປະຕູຫ້ອງນ້ ໍາ ສອງປະຕູ,
+ບໍ່ມີໃຜສະແດງໃຫ້ເຫັນຢ່າງຈະແຈ້ງວ່າເປັນຜູ້ຊາຍຫຼືແມ່ຍິງ. 31.
+
+275
+00:17:59,900 --> 00:18:01,900
+[MATER]
+What the...
+ຫຍັງ...
+
+276
+00:18:02,400 --> 00:18:04,400
+[MATER]
+Sorry ladies!
+ຂໍໂທດເດີ ແມ່ຍິງ!
+
+277
+00:18:04,900 --> 00:18:08,050
+[MATER]
+I never leak I never leak I never leak...
+ຂ້ອຍບໍ່ເຄີຍຮົ່ວໄຫລ ບໍ່ເຄີຍຮອຍໄຫຼ ບໍ່ເຄີຍລະບາຍ...
+
+278
+00:18:08,550 --> 00:18:10,550
+[MATER]
+Wowee...
+ໂວ້...
+
+279
+00:18:11,050 --> 00:18:13,050
+[MATER]
+What in the---
+ມີຫຍັງຢູ່...
+
+280
+00:18:13,550 --> 00:18:15,550
+[MATER]
+Hey, that tickles.
+ເຮ້, ມັນຕື່ນເຕັ້ນ.
+
+281
+00:18:16,050 --> 00:18:19,200
+[ROD REDLINE]
+Okay, McMissile. I'm here. It's time for the drop.
+ດີແລ້ວ, ແມັກມິສຊີລ. ຂ້ອຍຢູ່ບ່ອນນີ້. ມັນເຖິງເວລາທີ່ຈະສົ່ງ.
+
+282
+00:18:19,700 --> 00:18:21,700
+[FINN]
+Roger that. Move in.
+ເຂົ້າໃຈແລ້ວ. ຍ້າຍເຂົ້າມາ.
+
+283
+00:18:22,200 --> 00:18:24,300
+[HOLLEY]
+Oh, you've got to be joking.
+ໂອ້, ເຈົ້າຕ້ອງໂຊກຮ້າຍ.
+
+284
+00:18:24,800 --> 00:18:26,800
+[FINN]
+What's the problem, Shiftwell?
+ບັນຫາຫຍັງ, Shiftwell?
+
+285
+00:18:27,300 --> 00:18:29,300
+[HOLLEY]
+He's in the loo. 33.
+ລາວຢູ່ໃນຫ້ອງນ້ ໍາ. 33.
+
+286
+00:18:29,800 --> 00:18:31,800
+[FINN]
+So go in!
+ສະນັ້ນເຂົ້າມາ!
+
+287
+00:18:32,300 --> 00:18:35,100
+[HOLLEY]
+I can't just go into the men's loo.
+ຂ້ອຍບໍ່ສາມາດເຂົ້າໄປໃນຫ້ອງນ້ ໍາ ຜູ້ຊາຍໄດ້ເລີຍ.
+
+288
+00:18:35,600 --> 00:18:37,700
+[FINN]
+Time is of the essence, Shiftwell.
+ເວລາແມ່ນສິ່ງທີ່ສໍາຄັນ, Shiftwell.
+
+289
+00:18:38,200 --> 00:18:41,350
+[MATER]
+Whatever you do, I would not go in there.
+ເຈົ້າເຮັດຫຍັງກໍ່ຕາມ, ຂ້ອຍຈະບໍ່ເຂົ້າໄປໃນບ່ອນນັ້ນ.
+
+290
+00:18:41,850 --> 00:18:43,850
+[MATER]
+A Gremlin and a Pacer!
+ແກຣມລິນ ແລະ Pacer!
+
+291
+00:18:44,350 --> 00:18:50,350
+[MATER]
+No offense to your makes and models, but you guys break down harder than my cousin Betsy after she got left at the ---
+ໂດຍບໍ່ມີການໂຊກຮ້າຍຕໍ່ເຄື່ອງຈັກແລະຮູບແບບຂອງທ່ານ, ແຕ່ທ່ານ guys
+ຈະແຕກແຍກລົງຍາກກວ່າອ້າຍນ້ອງຂອງຂ້ອຍແບຕຊີຫຼັງຈາກນາງຖືກປ່ອຍຢູ່ ---
+
+292
+00:18:50,850 --> 00:18:52,850
+[MATER]
+--- altar!
+- ໂບດ!
+
+293
+00:18:53,350 --> 00:18:55,350
+[MATER]
+Are you okay?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+294
+00:18:55,850 --> 00:18:57,850
+[ROD REDLINE]
+I'm fine. 34.
+ຂ້ອຍບໍ່ເປັນຫຍັງ. 34.
+
+295
+00:18:58,350 --> 00:19:00,350
+[GREM]
+Hey. Tow truck.
+ເຮ້. ລົດດຶງ.
+
+296
+00:19:00,850 --> 00:19:05,400
+[GREM]
+We'd like to get to our private business here, if you don't mind.
+ພວກເຮົາຢາກໄປຫາທຸລະກິດສ່ວນຕົວຂອງພວກເຮົາຢູ່ນີ້, ຖ້າເຈົ້າບໍ່ສົນໃຈ.
+
+297
+00:19:05,900 --> 00:19:11,900
+[MATER]
+Oh, yeah. Don't let me get in the way of your "private business." Oh! A little advice: When you hear her giggle and see that waterfall, you best press that green button.
+ໂອ້, ແມ່ນແລ້ວ. ຢ່າປ່ອຍໃຫ້ຂ້ອຍເຂົ້າໄປໃນທາງຂອງ"ທຸລະກິດສ່ວນຕົວຂອງທ່ານ." ໂອ້! ຄໍາ ແນະ ນໍາ
+ນ້ອຍໆ: ເມື່ອເຈົ້າໄດ້ຍິນນາງມ່ວນຊື່ນແລະເຫັນນ້ ໍາ ຕົກນັ້ນ, ເຈົ້າດີທີ່ສຸດກົດປຸ່ມສີຂຽວນັ້ນ.
+
+298
+00:19:12,400 --> 00:19:14,400
+[GREM]
+Thank you.
+ຂອບໃຈ
+
+299
+00:19:14,900 --> 00:19:16,900
+[MATER]
+It's to adjust the temperature.
+ມັນເປັນເພື່ອປັບອຸນຫະພູມ.
+
+300
+00:19:17,400 --> 00:19:19,400
+[ACER]
+Got it.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+301
+00:19:19,900 --> 00:19:22,000
+[MATER]
+Remember it's in Celsius, not Fahrenheit.
+ຈື່ໄວ້ວ່າມັນຢູ່ໃນເຊລຊີສ໌, ບໍ່ແມ່ນຟາເຣນເຮັດ.
+
+302
+00:19:22,500 --> 00:19:24,500
+[GREM AND ACER]
+Get outta here!
+ອອກຈາກບ່ອນນີ້!
+
+303
+00:19:25,000 --> 00:19:27,000
+[MATER]
+Alright then.
+ດີແລ້ວ.
+
+304
+00:19:27,500 --> 00:19:29,500
+[MATER]
+Excuse me, ma'am.
+ຂໍໂທດເດີ ແມ່.
+
+305
+00:19:30,000 --> 00:19:32,000
+[MATER]
+Dadgum pistachio ice cream. 35.
+ໄອສຄຣີມປິດາຊີໂອຂອງພໍ່. 35.
+
+306
+00:19:32,500 --> 00:19:34,500
+[FINN]
+Is he American?
+ລາວເປັນຄົນອາເມຣິກັນບໍ?
+
+307
+00:19:35,000 --> 00:19:37,800
+[MATER]
+Look out, ladies. Mater's fittin' to get funky!
+ລະມັດລະວັງ, ແມ່ຍິງ. ແມ່ ກໍາ ລັງສວຍງາມ!
+
+308
+00:19:38,300 --> 00:19:40,300
+[FINN]
+Then it's him.
+ຫຼັງຈາກນັ້ນມັນແມ່ນລາວ.
+
+309
+00:19:40,800 --> 00:19:42,800
+[HOLLEY]
+Hello.
+ສະບາຍດີ.
+
+310
+00:19:43,300 --> 00:19:45,300
+[MATER]
+Well, hello.
+ດີ, ສະບາຍດີ.
+
+311
+00:19:45,800 --> 00:19:48,250
+[HOLLEY]
+A Volkswagen Karmann Ghia has no radiator.
+ລົດຟອກຊ໌ເວກຊັນ ຄາແມນ ຈີອາບໍ່ມີເຄື່ອງເຮັດຄວາມຮ້ອນ.
+
+312
+00:19:48,750 --> 00:19:51,900
+[MATER]
+Well of course it doesn't. That's `cause it's air-cooled!
+ດີແນ່ນອນວ່າມັນບໍ່ເຮັດ. ນັ້ນແມ່ນ ` ເພາະວ່າມັນເຢັນດ້ວຍອາກາດ!
+
+313
+00:19:52,400 --> 00:19:54,500
+[HOLLEY]
+Perfect. I'm from the Tokyo Station
+ດີເລີດ. ຂ້ອຍມາຈາກສະຖານີໂຕກຽວ
+
+314
+00:19:55,000 --> 00:20:01,000
+[MATER]
+Course, Karmann Ghia's weren't the only ones. Besides the Beetles you had your Type-3 Squarebacks, with the pancake motors...
+ແນ່ນອນ, ຄາແມນ ແກຍບໍ່ແມ່ນຄົນດຽວ. ນອກຈາກແບຕລ໌ເຈົ້າມີປະເພດ
+3 Squarebacks ຂອງທ່ານ, ດ້ວຍເຄື່ອງຈັກ pancake...
+
+315
+00:20:01,500 --> 00:20:03,500
+[HOLLEY]
+Yeah. Okay, I get it---
+ແມ່ນແລ້ວ. ດີ, ຂ້ອຍເຂົ້າໃຈມັນ -
+
+316
+00:20:04,000 --> 00:20:10,000
+[MATER]
+... And before both of them, there's the Type-2 buses - my buddy Fillmore's one of them. 36.
+ແລະກ່ອນທັງສອງຄົນນັ້ນ, ມີລົດເມປະເພດ -
+ເພື່ອນຂອງຂ້ອຍຟິລມໍເປັນ ຫນຶ່ງ ໃນນັ້ນ. 36.
+
+317
+00:20:10,500 --> 00:20:12,950
+[HOLLEY]
+Listen! We should find somewhere more private.
+ຟັງ! ພວກເຮົາຄວນຊອກຫາບ່ອນທີ່ສ່ວນຕົວຫຼາຍຂຶ້ນ.
+
+318
+00:20:13,450 --> 00:20:16,950
+[MATER]
+Uh, gee. Don't you think that's a little, uh ---
+ໂອ້, ສະບາຍດີ. ເຈົ້າບໍ່ຄິດວ່າມັນເປັນເລັກນ້ອຍ, ໂອ້ ---
+
+319
+00:20:17,450 --> 00:20:23,400
+[HOLLEY]
+You're right. Impossible to know which areas here are compromised. So, when can I see you again?
+ເຈົ້າເວົ້າຖືກຕ້ອງ. ບໍ່ເປັນໄປໄດ້ທີ່ຈະຮູ້ວ່າເຂດໃດທີ່ຢູ່ບ່ອນນີ້ຈົບແນ່
+. ສະນັ້ນ, ຂ້ອຍສາມາດເຫັນເຈົ້າອີກຄັ້ງເມື່ອໃດ?
+
+320
+00:20:23,900 --> 00:20:27,750
+[MATER]
+Well, let's see. Tomorrow I'll be out there at the races.
+ດີ, ມາເບິ່ງ. ມື້ນີ້ຂ້ອຍຈະຢູ່ບ່ອນນັ້ນໃນການແຂ່ງຂັນ.
+
+321
+00:20:28,250 --> 00:20:30,250
+[HOLLEY]
+Got it. We'll rendezvous then.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ພວກເຮົາຈະພົບກັນໃນເວລານັ້ນ.
+
+322
+00:20:30,750 --> 00:20:33,200
+[MCQUEEN]
+There you are. Where have you been?
+ເຈົ້າຢູ່ບ່ອນນັ້ນ. ເຈົ້າຢູ່ໃສ?
+
+323
+00:20:33,700 --> 00:20:35,700
+[MATER]
+What's a rendezvous?
+ການພົບປະແມ່ນຫຍັງ?
+
+324
+00:20:36,200 --> 00:20:38,200
+[LUIGI]
+It's like a date.
+ມັນຄ້າຍຄືກັບວັນທີ.
+
+325
+00:20:38,700 --> 00:20:40,700
+[MATER]
+A date?!
+ວັນທີບໍ?
+
+326
+00:20:41,200 --> 00:20:43,200
+[MCQUEEN]
+Mater, what's going on?
+ແມ່, ເກີດຫຍັງຂຶ້ນ?
+
+327
+00:20:43,700 --> 00:20:47,550
+[MATER]
+Well, what's going on is I've got me a date tomorrow.
+ດີ, ສິ່ງທີ່ເກີດຂຶ້ນແມ່ນຂ້ອຍມີວັນທີມື້ອື່ນ.
+
+328
+00:20:48,050 --> 00:20:50,050
+[LUIGI]
+Guido don't believe you.
+Guido ບໍ່ເຊື່ອເຈົ້າ.
+
+329
+00:20:50,550 --> 00:20:55,100
+[MATER]
+Well, believe it. My new girlfriend just said so. Hey, there she is.
+ດີ, ເຊື່ອມັນ. ເພື່ອນມິດຄົນໃຫມ່ຂອງຂ້ອຍຫາກໍ່ເວົ້າດັ່ງນັ້ນ
+. ເຮ້, ນາງຢູ່ບ່ອນນັ້ນ.
+
+330
+00:20:55,600 --> 00:20:57,600
+[MATER]
+Hey! Hey lady!
+ເຮ້! ເຮ້ ແມ່ຍິງ!
+
+331
+00:20:58,100 --> 00:21:00,100
+[MATER]
+See ya tomorrow!
+ພົບກັນມື້ອື່ນ!
+
+332
+00:21:00,600 --> 00:21:02,600
+[LUIGI]
+Guido still don't believe you.
+Guido ຍັງບໍ່ເຊື່ອເຈົ້າ.
+
+333
+00:21:03,100 --> 00:21:05,100
+[GREM]
+I gotta admit ---
+ຂ້ອຍຕ້ອງຍອມຮັບວ່າ ---
+
+334
+00:21:05,600 --> 00:21:07,700
+[GREM]
+--- you tricked us real good.
+- ເຈົ້າຫຼອກລວງພວກເຮົາດີແທ້ໆ.
+
+335
+00:21:08,200 --> 00:21:10,300
+[ACER]
+And we don't like being tricked.
+ແລະພວກເຮົາບໍ່ມັກຖືກຫຼອກລວງ.
+
+336
+00:21:10,800 --> 00:21:12,800
+[ACER]
+Hey, what's so funny?
+ເຮ້, ມີຫຍັງມ່ວນຫຼາຍ?
+
+337
+00:21:13,300 --> 00:21:18,900
+[ROD REDLINE]
+Well, you know, I was just wearing a disguise. You guys are stuck looking like that.
+ດີ, ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍພຽງແຕ່ໃສ່ເຄື່ອງນຸ່ງຫົ່ມ
+. ພວກເຈົ້າຕິດຢູ່ເບິ່ງແບບນັ້ນ.
+
+338
+00:21:19,400 --> 00:21:23,600
+[ROD REDLINE]
+Allinol? Thanks, fellas. I hear this stuff is good for you. 38.
+ອາລິນອອນ? ຂອບໃຈ, ພວກຜູ້ຊາຍ.
+ຂ້ອຍໄດ້ຍິນວ່າສິ່ງນີ້ດີ ສໍາ ລັບເຈົ້າ. 38.
+
+339
+00:21:24,100 --> 00:21:26,100
+[PROFESSOR ZUNDAPP]
+So you think.
+ເຈົ້າຄິດດັ່ງນັ້ນ.
+
+340
+00:21:26,600 --> 00:21:29,050
+[PROFESSOR ZUNDAPP]
+Allinol by itself is good for you.
+ແອລລິນອອນເອງດີຕໍ່ເຈົ້າ.
+
+341
+00:21:29,550 --> 00:21:35,550
+[PROFESSOR ZUNDAPP]
+But after microscopic examination, I have found that it has one small weakness. When hit with an electromagnetic pulse, it becomes extremely dangerous.
+ແຕ່ຫຼັງຈາກການກວດສອບໄມໂຄຣສໂກບິກ, ຂ້ອຍໄດ້ພົບວ່າມັນມີຄວາມອ່ອນແອນ້ອຍໆ
+ຫນຶ່ງ. ເມື່ອຖືກຕີດ້ວຍກະດານໄຟຟ້າແມ່ເຫຼັກ, ມັນກາຍເປັນອັນຕະລາຍຫຼາຍ.
+
+342
+00:21:36,050 --> 00:21:42,050
+[SMILE ---]
+Grem pushes a World Grand Prix CAMERA - the same one that was in the box back at the oil derrick. He points it at Rod Redline.
+ແກຣມຊຸກຍູ້ກ້ອງຖ່າຍຮູບລາງວັນໃຫຍ່ໂລກ -
+ຄືກັບທີ່ຢູ່ໃນກ່ອງກັບຄືນໄປບ່ອນຢູ່ບ່ອນເກັບນ້ ໍາ ມັນ. ລາວແນໃສ່ມັນໃສ່ໂຣດ ຣີດລິນ.
+
+343
+00:21:42,550 --> 00:21:44,550
+[GREM]
+--- for the camera.
+- ສໍາລັບກ້ອງຖ່າຍຮູບ.
+
+344
+00:21:45,050 --> 00:21:48,550
+[ROD REDLINE]
+Is that all you want? I got a whole act.
+ນັ້ນແມ່ນທັງຫມົດທີ່ທ່ານຕ້ອງການບໍ? ຂ້ອຍມີການສະແດງທັງ ຫມົດ.
+
+345
+00:21:49,050 --> 00:21:55,050
+[PROFESSOR ZUNDAPP]
+You were very interested in this camera on the oil platform. Now you will witness what it really does.
+ເຈົ້າສົນໃຈກ້ອງຖ່າຍຮູບນີ້ຫຼາຍໃນເວທີນ້ ໍາ
+ມັນ. ດຽວນີ້ເຈົ້າຈະເຫັນວ່າມັນເຮັດຫຍັງແທ້ໆ.
+
+346
+00:21:55,550 --> 00:21:57,550
+[ROD REDLINE]
+Whatever you say, Professor.
+ບໍ່ວ່າເຈົ້າຈະເວົ້າຫຍັງ, ສາດສະດາຈານ.
+
+347
+00:21:58,050 --> 00:22:02,600
+[ACER]
+You talked up a lot of cars last night. Which one's your associate?
+ເຈົ້າເວົ້າກ່ຽວກັບລົດຫຼາຍຄົນໃນມື້ວານນີ້
+. ຄົນໃດເປັນເພື່ອນຮ່ວມງານຂອງທ່ານ?
+
+348
+00:22:03,100 --> 00:22:09,100
+[ROD REDLINE]
+Your mother. Oh no, I'm sorry. It was your sister. You know, I can't tell them apart these days. 39.
+ແມ່ຂອງທ່ານ. ໂອ້ ບໍ່, ຂ້ອຍຂໍໂທດ. ມັນແມ່ນເອື້ອຍຂອງທ່ານ
+. ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍບໍ່ສາມາດແຍກພວກມັນໄດ້ໃນມື້ນີ້. 39.
+
+349
+00:22:09,600 --> 00:22:11,700
+[GREM]
+Could I start it now, Professor?
+ຂ້ອຍສາມາດເລີ່ມຕົ້ນມັນໄດ້ບໍ, ສາດສະດາຈານ?
+
+350
+00:22:12,200 --> 00:22:16,050
+[PROFESSOR ZUNDAPP]
+Fifty percent power.  This camera is actually an electromagnetic pulse emitter.
+ພະລັງງານຫ້າສິບເປີເຊັນ.
+ກ້ອງຖ່າຍຮູບນີ້ແມ່ນຕົວແທນອອກແຮງດັນໄຟຟ້າແມກເນັດແທ້ໆ.
+
+351
+00:22:16,550 --> 00:22:19,700
+[ACER]
+What about her? Did you give it to her?
+ນາງແນວໃດ? ເຈົ້າໃຫ້ມັນໃຫ້ນາງບໍ?
+
+352
+00:22:20,200 --> 00:22:26,200
+[PROFESSOR ZUNDAPP]
+The Allinol is now heating to a boil, dramatically expanding, causing the engine block to crack under the stress, forcing oil into the combustion chamber.
+ອາລິນອອນລ໌ ກໍາ ລັງຮ້ອນຈົນຕົ້ມ, ຂະຫຍາຍຕົວຢ່າງຫຼວງຫຼາຍ,
+ເຮັດໃຫ້ບລັອກເຄື່ອງຈັກແຕກພາຍໃຕ້ຄວາມກົດດັນ, ບັງຄັບໃຫ້ນ້ ໍາ ມັນເຂົ້າໄປໃນຫ້ອງການເຜົາໄຫມ້.
+
+353
+00:22:26,700 --> 00:22:29,150
+[ACER]
+How about him? You talk to him?
+ລາວແນວໃດ? ເຈົ້າເວົ້າກັບລາວບໍ?
+
+354
+00:22:29,650 --> 00:22:33,150
+[ROD REDLINE]
+What do I care? I can replace an engine block.
+ຂ້ອຍສົນໃຈຫຍັງ? ຂ້ອຍສາມາດປ່ຽນໂບລກເຄື່ອງຈັກໄດ້.
+
+355
+00:22:33,650 --> 00:22:39,650
+[PROFESSOR ZUNDAPP]
+You may be able to, but after full impact of the pulse, unfortunately, there will be nothing to replace.
+ເຈົ້າອາດຈະສາມາດເຮັດໄດ້, ແຕ່ຫຼັງຈາກຜົນກະທົບຢ່າງເຕັມທີ່ຂອງກະທູ້
+, ໂຊກຮ້າຍ, ຈະບໍ່ມີຫຍັງທີ່ຈະທົດແທນ.
+
+356
+00:22:40,150 --> 00:22:42,600
+[ACER]
+How about him? Does he have it?
+ລາວແນວໃດ? ລາວມີມັນບໍ?
+
+357
+00:22:43,100 --> 00:22:45,100
+[PROFESSOR ZUNDAPP]
+That's him. He's the one.
+ນັ້ນແມ່ນລາວ. ລາວຄືຜູ້ຖືກເລືອກ.
+
+358
+00:22:45,600 --> 00:22:47,600
+[GREM]
+Roger that, Professor Z. 40.
+ເຂົ້າໃຈແລ້ວ, ສາດສະດາຈານ Z. 40.
+
+359
+00:22:48,100 --> 00:22:50,100
+[ROD REDLINE]
+No!
+ບໍ່!
+
+360
+00:22:50,600 --> 00:22:55,150
+[PROFESSOR ZUNDAPP]
+The project is still on schedule. You will find this second agent ---
+ໂຄງການຍັງຢູ່ໃນແຜນການ. ເຈົ້າຈະພົບຕົວແທນຄົນທີສອງນີ້ ---
+
+361
+00:22:55,650 --> 00:22:57,650
+[PROFESSOR ZUNDAPP]
+--- and kill him.
+- ແລະຂ້າລາວ.
+
+362
+00:22:58,150 --> 00:23:04,150
+[BRENT MUSTANGBURGER]
+Japan. Land of the rising sun. Where ancient tradition meets modern technology. Welcome to the inaugural running of the World Grand Prix.
+ຍີ່ປຸ່ນ. ປະເທດຂອງແສງຕາເວັນທີ່ຂຶ້ນ. ບ່ອນທີ່ປະເພນີບູຮານພົບກັບເຕັກໂນໂລຢີທັນສະໄຫມ
+. ຍິນດີຕ້ອນຮັບໃນການແລ່ນຄັ້ງ ທໍາ ອິດຂອງລາງວັນໃຫຍ່ໂລກ.
+
+363
+00:23:04,650 --> 00:23:10,650
+[BRENT MUSTANGBURGER]
+I'm Brent Mustangburger, here with racing legends Darrell Cartrip and David Hobbscap. There's never been a competition like this before.
+ຂ້ອຍເປັນບຣັນຕ໌ ມັສຕັງບີເກີ, ຢູ່ບ່ອນນີ້ກັບນິທານການແຂ່ງຂັນ Darrell
+Cartrip ແລະ David Hobbscap. ບໍ່ເຄີຍມີການແຂ່ງຂັນແບບນີ້ກ່ອນ.
+
+364
+00:23:11,150 --> 00:23:16,750
+[BRENT MUSTANGBURGER]
+First, Allinol, making its debut tonight as the required fuel for all these great champions. 41.
+ກ່ອນອື່ນ ຫມົດ, ອາລິນອອນ, ເຮັດການເປີດຕົວໃນຄືນນີ້ເປັນເຊື້ອໄຟທີ່ຕ້ອງການ
+ສໍາ ລັບແຊ້ມທີ່ຍິ່ງໃຫຍ່ທັງ ຫມົດ ເຫຼົ່ານີ້. 41.
+
+365
+00:23:17,250 --> 00:23:21,800
+[DAVID HOBBSCAP]
+Well, Brent, all three of these street courses are classic round- the-house racetracks.
+ດີ, ບຣັນຕ໌,
+ທັງສາມຫຼັກສູດຖະຫນົນເຫຼົ່ານີ້ແມ່ນເສັ້ນທາງແຂ່ງຂັນແບບຄລາສສິກຮອບເຮືອນ.
+
+366
+00:23:22,300 --> 00:23:28,250
+[DAVID HOBBSCAP]
+This means that the LMP and Formula cars should break out of the gate in spectacular fashion.
+ນີ້ຫມາຍຄວາມວ່າລົດ LMP ແລະ Formula ຄວນອອກຈາກປະຕູໃນຮູບແບບທີ່ສວຍງາມ.
+
+367
+00:23:28,750 --> 00:23:31,900
+[DAVID HOBBSCAP]
+Look for Francesco Bernoulli in particular to lead early.
+ຊອກຫາແຟຣນເຊສໂກ ເບຣນູລີ ໂດຍສະເພາະທີ່ຈະ ນໍາ ພາກ່ອນ.
+
+368
+00:23:32,400 --> 00:23:35,550
+[DAVID HOBBSCAP]
+And with a series of technical turns throughout ---
+ແລະດ້ວຍການຫັນທາງດ້ານເຕັກນິກໃນທົ່ວໄປ ---
+
+369
+00:23:36,050 --> 00:23:42,050
+[DAVID HOBBSCAP]
+GT and Touring cars like Spain's Miguel Camino should make up some ground but I doubt it'll be enough to stop Francesco from absolutely running away with it.
+ລົດ GT ແລະ ລົດທ່ອງທ່ຽວເຊັ່ນ Miguel Camino
+ຂອງສະເປນຄວນເຮັດພື້ນທີ່ບາງຢ່າງແຕ່ຂ້ອຍສົງໄສວ່າມັນຈະພຽງພໍທີ່ຈະຢຸດແຟຣນເຊສໂກຈາກການຫນີໄປດ້ວຍມັນຢ່າງສົມບູນ.
+
+370
+00:23:42,550 --> 00:23:48,550
+[DARRELL CARTRIP]
+Woah, now just hold your horsepower. You're forgetting the most important factor here. That early dirt track section of the course! The dirt is supposed to be the great equalizer in this race.
+ໂວ້, ດຽວນີ້ພຽງແຕ່ຖືພະລັງງານມ້າຂອງທ່ານ. ເຈົ້າ ກໍາ ລັງລືມປັດໃຈທີ່ສໍາຄັນທີ່ສຸດຢູ່ນີ້.
+ພາກສ່ວນເສັ້ນທາງດິນໃນຕອນຕົ້ນຂອງຫຼັກສູດ! ດິນຄວນຈະເປັນເຄື່ອງປຽບທຽບທີ່ຍິ່ງໃຫຍ່ໃນການແຂ່ງຂັນນີ້.
+
+371
+00:23:49,050 --> 00:23:53,950
+[BRENT MUSTANGBURGER]
+French Rally car Raoul �aRoule is counting on a big boost headed through there.
+ລົດຣາລີຝຣັ່ງ ຣາອູລ ອາຣູລ ກໍາ
+ລັງຄິດວ່າການຊຸກຍູ້ທີ່ໃຫຍ່ໆຈະຜ່ານໄປບ່ອນນັ້ນ.
+
+372
+00:23:54,450 --> 00:24:00,450
+[DARRELL CARTRIP]
+And don't forget Lightning McQueen! His mentor, the Hudson Hornet, was one of the greatest dirt track racers of all time. In my opinion, McQueen is the best all-around racer in this competition.
+ແລະຢ່າລືມແສງສະຫວ່າງແມັກຄວິນ! ຜູ້ແນະນໍາຂອງລາວ, ຮອດສັນ ໂຮນເນັດ, ແມ່ນ ຫນຶ່ງ ໃນນັກແຂ່ງລົດເສັ້ນທາງດິນທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດໃນຕະຫຼອດເວລາ
+. ໃນຄວາມຄິດເຫັນຂອງຂ້ອຍ, ແມັກກວິນແມ່ນນັກແຂ່ງຂັນທັງ ຫມົດ ທີ່ດີທີ່ສຸດໃນການແຂ່ງຂັນນີ້.
+
+373
+00:24:00,950 --> 00:24:06,950
+[DAVID HOBBSCAP]
+Really, Darrell, I think you need to clean your windshield. You're clearly not seeing this for what it is: Francesco's race to lose.
+ແທ້ຈິງແລ້ວ, ດາເຣລ, ຂ້ອຍຄິດວ່າເຈົ້າຕ້ອງເຮັດຄວາມສະອາດຈໍລົມຂອງທ່ານ.
+ເຈົ້າບໍ່ເຫັນສິ່ງນີ້ເປັນສິ່ງທີ່ມັນເປັນ: ການແຂ່ງຂັນຂອງຟຣານເຊສໂກທີ່ຈະສູນເສຍ.
+
+374
+00:24:07,450 --> 00:24:12,000
+[BRENT MUSTANGBURGER]
+It's time to find out. The racers are locking into the grid ---
+ມັນເຖິງເວລາທີ່ຈະຮູ້ວ່າ. ນັກແຂ່ງຂັນ
+ກໍາ ລັງລັອກເຂົ້າໄປໃນເຄືອຂ່າຍ ---
+
+375
+00:24:12,500 --> 00:24:14,500
+[MCQUEEN]
+Speed. I am speed.
+ຄວາມໄວ. ຂ້ອຍເປັນຄວາມໄວ.
+
+376
+00:24:15,000 --> 00:24:21,000
+[FRANCESCO]
+Really? You are "speed"? Then Francesco is triple speed.  Francesco. Is. Triple speed. Francesco likes this, McQueen. It's really getting him into the zone!
+ແທ້ຈິງບໍ? ເຈົ້າເປັນ"ຄວາມໄວ"? ຫຼັງຈາກນັ້ນແຟຣນເຊສໂກແມ່ນຄວາມໄວສາມເທົ່າ. ແຟຣັນເຊສ ໂກ. ແມ່ນ
+. ຄວາມໄວ ສາມເທົ່າ. ຟຣານເຊສັກມັກສິ່ງນີ້, ແມັກຄວິນ. ມັນ ກໍາ ລັງເຮັດໃຫ້ລາວເຂົ້າໄປໃນເຂດ!
+
+377
+00:24:21,500 --> 00:24:23,600
+[MCQUEEN]
+He is so getting beat today.
+ລາວຖືກເອົາຊະນະຫຼາຍມື້ນີ້.
+
+378
+00:24:24,100 --> 00:24:26,100
+[SARGE]
+His suspension stats look good.
+ສະຖິຕິການໂຈະຂອງລາວເບິ່ງຄືວ່າດີ.
+
+379
+00:24:26,600 --> 00:24:28,600
+[LUIGI]
+Tire pressure is excellent.
+ຄວາມກົດດັນລົດຖີບດີເລີດ.
+
+380
+00:24:29,100 --> 00:24:31,100
+[FILLMORE]
+He's got plenty of fuel.
+ລາວມີນໍ້າມັນເຊື້ອໄຟຫຼາຍ.
+
+381
+00:24:31,600 --> 00:24:33,600
+[MATER]
+And he's awesome! CUT TO:
+ແລະລາວດີເລີດ! ຕັດອອກ:
+
+382
+00:24:34,100 --> 00:24:37,250
+[HOLLEY]
+Why is he in the pits? He's so exposed.
+ລາວຢູ່ໃນຮູເປັນຫຍັງ? ລາວຖືກເປີດເຜີຍຫຼາຍ.
+
+383
+00:24:37,750 --> 00:24:43,750
+[FINN]
+It's his cover. One of the best I've seen, too. Look at the detail on that rust. It must have cost him a fortune.
+ມັນເປັນການປົກຫຸ້ມຂອງລາວ. ຫນຶ່ງ ໃນທີ່ດີທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນເຊັ່ນກັນ
+. ເບິ່ງລາຍລະອຽດກ່ຽວກັບ rust ນັ້ນ. ມັນຕ້ອງໄດ້ເສຍຄ່າລາວຊັບສິນຫຼາຍ.
+
+384
+00:24:44,250 --> 00:24:46,700
+[HOLLEY]
+But why hasn't he contacted us yet?
+ແຕ່ເປັນຫຍັງລາວຍັງບໍ່ຕິດຕໍ່ຫາພວກເຮົາເທື່ອ?
+
+385
+00:24:47,200 --> 00:24:49,650
+[FINN]
+There's probably heat on him. Be patient.
+ມັນອາດຈະມີຄວາມຮ້ອນຢູ່ເທິງລາວ. ມີຄວາມອົດທົນ.
+
+386
+00:24:50,150 --> 00:24:53,300
+[HOLLEY]
+Right, of course. He'll signal us when he can.
+ແມ່ນແລ້ວ, ແນ່ນອນ. ລາວຈະແຈ້ງເຕືອນພວກເຮົາເມື່ອລາວສາມາດເຮັດໄດ້.
+
+387
+00:24:53,800 --> 00:24:56,950
+[FINN]
+And then we find out who's behind all this.
+ແລະຫຼັງຈາກນັ້ນພວກເຮົາຈະຮູ້ວ່າໃຜຢູ່ເບື້ອງຫຼັງສິ່ງທັງ ຫມົດ ນີ້.
+
+388
+00:24:57,450 --> 00:25:03,450
+[MATER]
+McQueen! It's time to make your move. Get on the outside and show 'em what Doc done taught you.
+ແມັກຄວິນ! ມັນເຖິງເວລາທີ່ຈະເຄື່ອນໄຫວຂອງທ່ານ.
+ໄປທາງນອກແລະສະແດງໃຫ້ພວກເຂົາສິ່ງທີ່ດອກໄດ້ສອນທ່ານ.
+
+389
+00:25:03,950 --> 00:25:05,950
+[MCQUEEN]
+Ten four, Mater.
+ສິບສີ່, ແມ່.
+
+390
+00:25:06,450 --> 00:25:08,900
+[DAVID HOBBSCAP]
+Francesco is brought to a screeching halt!
+ແຟຣນເຊສໂກຖືກນໍາໄປສູ່ການຢຸດເຊົາທີ່ຮ້ອງໄຫ້!
+
+391
+00:25:09,400 --> 00:25:15,400
+[BRENT MUSTANGBURGER]
+Lightning McQueen is the first to take advantage. And just like that, folks, Francesco's lead is left in the dust.
+ແສງສະຫວ່າງແມັກຄວິນແມ່ນຄົນ ທໍາ ອິດທີ່ຈະໃຊ້ປະໂຫຍດ.
+ແລະພຽງແຕ່ດັ່ງນັ້ນ, ພວກຄົນ, ການນໍາຂອງຟຣານເຊສໂກຖືກປ່ອຍໄວ້ໃນຂີ້ຝຸ່ນ.
+
+392
+00:25:15,900 --> 00:25:18,000
+[MCQUEEN]
+Nice call, Mater. Keep it up!
+ການໂທທີ່ດີ, ແມ່. ສືບຕໍ່ຕໍ່ໄປ!
+
+393
+00:25:18,500 --> 00:25:22,700
+[DARRELL CARTRIP]
+Who-hoo! Man, McQueen looks happier than a rollbar at a demolition derby!
+ໃຜຮູ! ຜູ້ຊາຍ,
+ແມັກຄວິນເບິ່ງຄືວ່າມີຄວາມສຸກຫຼາຍກ່ວາແຖບລວດລ້ອມໃນເດຣບີການທໍາລາຍ!
+
+394
+00:25:23,200 --> 00:25:26,700
+[BRENT MUSTANGBURGER]
+Everyone's jostling for position as we hit the asphalt again.
+ທຸກຄົນ ກໍາ ລັງກະຕຸ້ນເພື່ອຕໍາແຫນ່ງໃນຂະນະທີ່ພວກເຮົາຕີ
+asphalt ອີກຄັ້ງ.
+
+395
+00:25:27,200 --> 00:25:33,200
+[BRENT MUSTANGBURGER]
+Francesco lost a lot of momentum in the dirt. He's got some serious work ahead of him if he wants to get back in this race. 45.
+ແຟຣນເຊສໂກໄດ້ສູນເສຍແຮງດັນຫຼາຍໃນດິນ.
+ລາວມີວຽກງານທີ່ຮ້າຍແຮງບາງຢ່າງຢູ່ຕໍ່ຫນ້າລາວຖ້າລາວຢາກກັບມາໃນການແຂ່ງຂັນນີ້. 45.
+
+396
+00:25:33,700 --> 00:25:35,700
+[GREM]
+Roger that.
+ເຂົ້າໃຈແລ້ວ.
+
+397
+00:25:36,200 --> 00:25:38,650
+[DARRELL CARTRIP]
+Oh! Miguel Camino has blown an engine!
+ໂອ້! ມິເກວ ຄາມິນໍໄດ້ລະເບີດເຄື່ອງຈັກ!
+
+398
+00:25:39,150 --> 00:25:42,300
+[BRENT MUSTANGBURGER]
+Very unusual, Darrell. He's been so consistent all year.
+ບໍ່ເປັນປົກກະຕິຫຼາຍ, ດາເຣລ. ລາວມີຄວາມສອດຄ່ອງຫຼາຍຕະຫຼອດປີ.
+
+399
+00:25:42,800 --> 00:25:44,800
+[GREM]
+You gotta be kidding me.
+ເຈົ້າຕ້ອງໂຊກຮ້າຍຂ້ອຍ.
+
+400
+00:25:45,300 --> 00:25:47,300
+[ACER]
+What is it?
+ມັນເປັນຫຍັງ?
+
+401
+00:25:47,800 --> 00:25:50,250
+[GREM]
+It's that tow truck from the bathroom.
+ມັນເປັນລົດດຶງຈາກຫ້ອງນ້ ໍາ ນັ້ນ.
+
+402
+00:25:50,750 --> 00:25:52,750
+[ACER]
+The one from the bathroom?
+ຄົນຈາກຫ້ອງນ້ ໍາ ບໍ?
+
+403
+00:25:53,250 --> 00:25:56,750
+[GREM]
+Yeah, the one the American Agent passed the device to.
+ແມ່ນແລ້ວ, ຄົນທີ່ຕົວແທນອາເມລິກາໄດ້ສົ່ງອຸປະກອນໃຫ້.
+
+404
+00:25:57,250 --> 00:25:59,250
+[ACER]
+What about him?
+ລາວແນວໃດ?
+
+405
+00:25:59,750 --> 00:26:02,550
+[GREM]
+What about him? He's in the pits! 46.
+ລາວແນວໃດ? ລາວຢູ່ໃນຮູ! 46.
+
+406
+00:26:03,050 --> 00:26:05,050
+[ACER]
+Not for long.
+ບໍ່ຍາວນານ.
+
+407
+00:26:05,550 --> 00:26:08,000
+[HOLLEY]
+Hold on. I think I've got something.
+ລໍຖ້າ. ຂ້ອຍຄິດວ່າຂ້ອຍມີບາງສິ່ງບາງຢ່າງ.
+
+408
+00:26:08,500 --> 00:26:10,500
+[FINN]
+What is it?
+ມັນເປັນຫຍັງ?
+
+409
+00:26:11,000 --> 00:26:13,450
+[HOLLEY]
+The Pacer from the party last night.
+ຜູ້ຈັດການຈາກງານລ້ຽງໃນມື້ວານນີ້.
+
+410
+00:26:13,950 --> 00:26:18,500
+[HOLLEY]
+Cross-referencing with the photos from the oil derricks... Yep. His VIN numbers match.
+ການອ້າງອີງຂ້າມກັບຮູບຈາກຮາກນ້ ໍາ ມັນ..
+. ແມ່ນແລ້ວ. ເລກ VIN ຂອງລາວກົງກັນຂ້າມ.
+
+411
+00:26:19,000 --> 00:26:21,450
+[FINN]
+Anyone with him? He won't be alone.
+ມີໃຜຢູ່ກັບລາວບໍ? ລາວຈະບໍ່ຢູ່ຄົນດຽວ.
+
+412
+00:26:21,950 --> 00:26:23,950
+[HOLLEY]
+Conducting analysis on the target.
+ການດໍາເນີນການວິເຄາະກ່ຽວກັບເປົ້າຫມາຍ.
+
+413
+00:26:24,450 --> 00:26:30,450
+[HOLLEY]
+He's not the only one here. Three... five... they're everywhere. And they're all closing in on... oh no.
+ລາວບໍ່ແມ່ນຄົນດຽວທີ່ນີ້. ສາມ... ຫ້າ... ພວກເຂົາຢູ່ທຸກບ່ອນ
+. ແລະພວກເຂົາທັງ ຫມົດ ກໍາ ລັງໃກ້ຊິດກັບ... ໂອ້ ບໍ່.
+
+414
+00:26:30,950 --> 00:26:32,950
+[HOLLEY]
+Finn? Finn, where are you?
+ຟິນ? ຟິນ, ເຈົ້າຢູ່ໃສ?
+
+415
+00:26:33,450 --> 00:26:35,900
+[FINN]
+Get him out of the pits now!
+ເອົາລາວອອກຈາກຮູດຽວນີ້!
+
+416
+00:26:36,400 --> 00:26:39,200
+[MATER]
+Wow! Some of them fellers is really loud.
+ໂວ້! ບາງຄົນນັ້ນສຽງດັງແທ້ໆ.
+
+417
+00:26:39,700 --> 00:26:41,700
+[HOLLEY]
+Can you hear me? Over.
+ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ? ຫມົດແລ້ວ.
+
+418
+00:26:42,200 --> 00:26:44,200
+[MATER]
+Uh, what?
+ໂອ້, ຫຍັງ?
+
+419
+00:26:44,700 --> 00:26:48,200
+[HOLLEY]
+Get out of the pit now. Do you hear me?
+ອອກຈາກຮູດຽວນີ້. ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ?
+
+420
+00:26:48,700 --> 00:26:52,550
+[MCQUEEN]
+Guys, a little too much chatter. Let's keep this line clear.
+ພວກຜູ້ຊາຍ, ການສົນທະນາຫຼາຍເກີນໄປເລັກນ້ອຍ. ໃຫ້ສາຍນີ້ສະອາດ.
+
+421
+00:26:53,050 --> 00:26:57,950
+[HOLLEY]
+There's no time for messing about. You've got to get out of the pits.
+ບໍ່ມີເວລາທີ່ຈະຫຼິ້ນຢູ່ບ່ອນນັ້ນ. ເຈົ້າຕ້ອງອອກຈາກຮູ.
+
+422
+00:26:58,450 --> 00:27:04,400
+[MATER]
+Is there gonna be cable where you is so I can watch the rest of the race?
+ຈະມີສາຍໄຟຟ້າຢູ່ບ່ອນທີ່ທ່ານຢູ່ເພື່ອໃຫ້ຂ້ອຍສາມາດເບິ່ງການແຂ່ງຂັນທີ່ເຫຼືອໄດ້ບໍ
+?
+
+423
+00:27:04,900 --> 00:27:06,900
+[FINN]
+They're coming, Shiftwell.
+ພວກເຂົາ ກໍາ ລັງມາ, Shiftwell.
+
+424
+00:27:07,400 --> 00:27:09,400
+[FINN]
+Get him out of there.
+ເອົາລາວອອກຈາກບ່ອນນັ້ນ.
+
+425
+00:27:09,900 --> 00:27:11,900
+[HOLLEY]
+I'm trying. Get out now!
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມ. ອອກໄປທັນທີ!
+
+426
+00:27:12,400 --> 00:27:18,400
+[MATER]
+Well, all right but I usually like to have a proper detailing done before I meet a lady friend.
+ດີ, ດີແຕ່ຂ້ອຍມັກຈະເຮັດລາຍລະອຽດທີ່
+ເຫມາະ ສົມກ່ອນທີ່ຈະພົບກັບເພື່ອນຍິງ.
+
+427
+00:27:18,900 --> 00:27:21,000
+[REVEALING ---]
+--- Finn, holding a fire extinguisher.
+- ຟິນນ໌, ຖືເຄື່ອງດັບເພີງ.
+
+428
+00:27:21,500 --> 00:27:23,500
+[ACER]
+Finn McMissile? But you're dead!
+ຟິນ ແມັກມິສຊີລ? ແຕ່ເຈົ້າຕາຍແລ້ວ!
+
+429
+00:27:24,000 --> 00:27:26,100
+[FINN]
+Then this shouldn't hurt at all.
+ຫຼັງຈາກນັ້ນສິ່ງນີ້ບໍ່ຄວນເຈັບປວດເລີຍ.
+
+430
+00:27:26,600 --> 00:27:28,600
+[FINN]
+Miss Shiftwell?
+ນາງ Shiftwell?
+
+431
+00:27:29,100 --> 00:27:35,050
+[HOLLEY]
+I've got him in the back alleys east of the garages. Multiple assailants are closing in quickly.
+ຂ້ອຍມີລາວຢູ່ໃນຖະຫນົນຫຼັງທາງທິດຕາເວັນອອກຂອງ garage
+ໄດ້. ຜູ້ໂຈມຕີຫຼາຍຄົນ ກໍາ ລັງໃກ້ຊິດຢ່າງໄວວາ.
+
+432
+00:27:35,550 --> 00:27:38,000
+[FINN]
+Keep him moving. I'm on my way.
+ຮັກສາລາວເຄື່ອນຍ້າຍ. ຂ້ອຍ ກໍາ ລັງເດີນທາງໄປແລ້ວ.
+
+433
+00:27:38,500 --> 00:27:40,950
+[MATER]
+Hey, new lady friend? You like flowers?
+ເຮ້, ເພື່ອນຍິງຄົນໃຫມ່? ເຈົ້າມັກດອກໄມ້ບໍ?
+
+434
+00:27:41,450 --> 00:27:43,450
+[MCQUEEN]
+What?
+ຫຍັງ?
+
+435
+00:27:43,950 --> 00:27:46,750
+[HOLLEY]
+No! Don't go 'in' anywhere. Just keep moving.
+ບໍ່! ຢ່າເຂົ້າໄປໃນບ່ອນໃດເລີຍ. ພຽງແຕ່ຍ້າຍໄປຕໍ່ໄປ.
+
+436
+00:27:47,250 --> 00:27:49,250
+[MATER]
+Stay outside. Gotcha.
+ຢູ່ພາຍນອກ. ເຈົ້າໄດ້ແລ້ວ.
+
+437
+00:27:49,750 --> 00:27:51,750
+[MCQUEEN]
+Outside?
+ນອກບໍ?
+
+438
+00:27:52,250 --> 00:27:54,250
+[FRANCESCO]
+Grazie and arrivaderci!
+ຂອບໃຈແລະມາຮອດ!
+
+439
+00:27:54,750 --> 00:28:00,750
+[DARRELL CARTRIP]
+I cannot believe what I just saw, Brent. That was a bonehead move. You don't open up the inside like that!
+ຂ້ອຍບໍ່ເຊື່ອສິ່ງທີ່ຂ້ອຍຫາກໍ່ເຫັນ, ບຣັນຕ໌.
+ນັ້ນແມ່ນການເຄື່ອນໄຫວຫົວກະດູກ. ເຈົ້າບໍ່ເປີດພາຍໃນແບບນັ້ນ!
+
+440
+00:28:01,250 --> 00:28:04,400
+[ACER]
+This time I'm gonna make sure you stay dead.
+ໃນຄັ້ງນີ້ຂ້ອຍຈະແນ່ໃຈວ່າເຈົ້າຈະຢູ່ຕາຍ.
+
+441
+00:28:04,900 --> 00:28:07,350
+[HOLLEY]
+You're doing brilliantly. Now just stay focused.
+ເຈົ້າ ກໍາ ລັງເຮັດຢ່າງດີເລີດ. ດຽວນີ້ພຽງແຕ່ສຸມໃສ່.
+
+442
+00:28:07,850 --> 00:28:11,350
+[MATER]
+What's that? You want me to head toward that ruckus?
+ນັ້ນແມ່ນຫຍັງ? ເຈົ້າຢາກໃຫ້ຂ້ອຍໄປສູ່ຄວາມວຸ້ນວາຍນັ້ນບໍ?
+
+443
+00:28:11,850 --> 00:28:13,950
+[HOLLEY]
+No! Don't go down that street!
+ບໍ່! ຢ່າລົງຖະຫນົນນັ້ນ!
+
+444
+00:28:14,450 --> 00:28:16,450
+[MATER]
+Wow! A live karate demonstration!
+ໂວ້! ການສະແດງຄາຣາເຕສ໌ສົດ!
+
+445
+00:28:16,950 --> 00:28:19,050
+[MCQUEEN]
+Stop it, Mater. Just sign off.
+ຢຸດຢັ້ງ, ແມ່. ພຽງແຕ່ລົງນາມລົງ.
+
+446
+00:28:19,550 --> 00:28:23,050
+[BRENT MUSTANGBURGER]
+They're bumper to bumper as they approach the finish line!
+ພວກເຂົາ ກໍາ
+ລັງໂຊກຮ້າຍຕໍ່ໂຊຄຮ້າຍໃນຂະນະທີ່ພວກເຂົາໃກ້ຊິດເສັ້ນສິ້ນສຸດ!
+
+447
+00:28:23,550 --> 00:28:25,650
+[BRENT MUSTANGBURGER]
+Francesco's the winner, McQueen's number two!
+ແຟຣນເຊສໂກເປັນຜູ້ຊະນະ, ແມັກຄວິນເປັນອັນດັບສອງ!
+
+448
+00:28:26,150 --> 00:28:29,650
+[MATER]
+That was cool! Hey, can I get your autograph? 51.
+ນັ້ນແມ່ນດີເລີດ! ເຮ້, ຂ້ອຍສາມາດເອົາໃບຢັ້ງຢືນຂອງທ່ານໄດ້ບໍ? 51.
+
+449
+00:28:30,150 --> 00:28:32,150
+[MATER]
+Hey, where'd he go?
+ເຮ້, ລາວໄປໃສ?
+
+450
+00:28:32,650 --> 00:28:37,200
+[HOLLEY]
+Our rendezvous has been jeopardized. Keep the device safe. We'll be in touch.
+ການພົບປະຂອງພວກເຮົາຖືກວາງອັນຕະລາຍ.
+ຮັກສາອຸປະກອນປອດໄພ. ພວກເຮົາຈະຕິດຕໍ່ກັນ.
+
+451
+00:28:37,700 --> 00:28:39,800
+[MATER]
+Dadgum, did I miss our date?
+ພໍ່ແມ່, ຂ້ອຍພາດວັນທີຂອງພວກເຮົາບໍ?
+
+452
+00:28:40,300 --> 00:28:43,450
+[DARRELL CARTRIP]
+Francesco, over here! Hey, what was your strategy today?
+ແຟຣນເຊສໂກ, ຢູ່ບ່ອນນີ້! ເຮ້, ຍຸດທະສາດຂອງທ່ານໃນມື້ນີ້ແມ່ນຫຍັງ?
+
+453
+00:28:43,950 --> 00:28:49,950
+[FRANCESCO]
+Strategia? Francesco needs no strategy, it's very simple. You start the race, wait for Lightning McQueen to choke, pass him, then win. Francesco always wins. It's boring.
+ຍຸດທະສາດບໍ? ແຟຣນເຊສໂກບໍ່ຕ້ອງການຍຸດທະການໃດໆ, ມັນງ່າຍດາຍຫຼາຍ. ເຈົ້າເລີ່ມຕົ້ນການແຂ່ງຂັນ,
+ລໍຖ້າແສງສະຫວ່າງແມັກຄວິນທີ່ຈະບິດບິດ, ຜ່ານລາວ, ຫຼັງຈາກນັ້ນຊະນະ. ແຟຮນເຊັສໂກ້ຊະນະສະເຫມີ. ມັນເບື່ອຫນ່າຍ.
+
+454
+00:28:50,450 --> 00:28:56,450
+[DARRELL CARTRIP]
+I gotta tell you, dude. You were in trouble for awhile. That dirt track section had you crawling!
+ຂ້ອຍຕ້ອງບອກເຈົ້າແມ. ເຈົ້າຢູ່ໃນຄວາມຫຍຸ້ງຍາກເປັນເວລາດົນນານ
+. ພາກສ່ວນເສັ້ນທາງດິນນັ້ນເຮັດໃຫ້ເຈົ້າຍ່າງ!
+
+455
+00:28:56,950 --> 00:29:01,500
+[FRANCESCO]
+To truly crush one's dream, you must first raise their hopes very high.
+ເພື່ອທໍາລາຍຄວາມຝັນຂອງຄົນຫນຶ່ງຢ່າງແທ້ຈິງ,
+ເຈົ້າຕ້ອງຍົກຄວາມຫວັງຂອງພວກເຂົາສູງຫຼາຍກ່ອນ.
+
+456
+00:29:02,000 --> 00:29:04,000
+[MCQUEEN]
+Mater.
+ແມ່.
+
+457
+00:29:04,500 --> 00:29:08,350
+[MATER]
+Hey McQueen! What happened? Is the race over? You won, right?
+ເຮ້ ແມັກຄວິນ! ເກີດຫຍັງຂຶ້ນ?
+ການແຂ່ງຂັນສິ້ນສຸດລົງບໍ? ເຈົ້າໄດ້ຊະນະ, ແມ່ນບໍ?
+
+458
+00:29:08,850 --> 00:29:13,050
+[MCQUEEN]
+Mater, why were you yelling things at me while I was racing?
+ແມ່,
+ເປັນຫຍັງເຈົ້າຈຶ່ງຮ້ອງໄຫ້ສິ່ງບາງຢ່າງຕໍ່ຂ້ອຍໃນຂະນະທີ່ຂ້ອຍແຂ່ງຂັນ?
+
+459
+00:29:13,550 --> 00:29:19,550
+[MATER]
+Yelling? Oh, you thought... that's funny right there. Nah, see that's `cause I seen these two fellers doing some sort of karate street performance. It was nutso. One of them even had a flamethrower ---
+ການຮ້ອງໄຫ້? ໂອ້, ເຈົ້າຄິດວ່າ... ມັນມ່ວນຢູ່ບ່ອນນັ້ນ. ບໍ່, ເບິ່ງວ່າມັນເປັນ `
+ເພາະວ່າຂ້ອຍເຫັນຜູ້ຊາຍທັງສອງຄົນນີ້ເຮັດການສະແດງຖະຫນົນຄາຣາເຕບາງຊະນິດ. ມັນໂຊກຮ້າຍ. ຫນຶ່ງ ໃນພວກເຂົາຍັງມີເຄື່ອງຖິ້ມໄຟ ---
+
+460
+00:29:20,050 --> 00:29:24,600
+[MCQUEEN]
+A flamethrower? What are you talking about? I don't understand. Where were you?
+ເຈົ້າເວົ້າຫຍັງ? ຂ້ອຍບໍ່ເຂົ້າໃຈ. ເຈົ້າຢູ່ໃສ?
+
+461
+00:29:25,100 --> 00:29:27,100
+[MATER]
+Going to meet my date.
+ຂ້ອຍຈະໄປພົບກັບວັນທີຂອງຂ້ອຍ.
+
+462
+00:29:27,600 --> 00:29:29,600
+[MCQUEEN]
+Your date?
+ວັນທີຂອງທ່ານບໍ?
+
+463
+00:29:30,100 --> 00:29:36,050
+[MATER]
+She started talking to me as a voice in my head, telling me where to go ---
+ນາງເລີ່ມເວົ້າກັບຂ້ອຍເປັນສຽງໃນຫົວຂອງຂ້ອຍ, ບອກຂ້ອຍວ່າຈະໄປໃສ ---
+
+464
+00:29:36,550 --> 00:29:38,550
+[MCQUEEN]
+What?
+ຫຍັງ?
+
+465
+00:29:39,050 --> 00:29:42,900
+[MATER]
+Wait a minute -- I didn't screw you up, did I?
+ລໍຖ້າດົນຫນຶ່ງ - ຂ້ອຍບໍ່ໄດ້ເຮັດໃຫ້ເຈົ້າຜິດພາດ, ແມ່ນບໍ?
+
+466
+00:29:43,400 --> 00:29:45,850
+[MCQUEEN]
+I lost the race because of you!
+ຂ້ອຍໄດ້ສູນເສຍການແຂ່ງຂັນຍ້ອນເຈົ້າ!
+
+467
+00:29:46,350 --> 00:29:48,800
+[MATER]
+Well, I'm sorry. I didn't mean ---
+ດີ, ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າ ---
+
+468
+00:29:49,300 --> 00:29:55,250
+[MCQUEEN]
+An imaginary girlfriend, flamethrowers. This is exactly why I don't bring you along to these things. 53.
+ເພື່ອນມິດທີ່ຄິດເຫັນ, ຜູ້ຖິ້ມໄຟ.
+ນີ້ແມ່ນເຫດຜົນທີ່ຂ້ອຍບໍ່ພາເຈົ້າໄປກັບສິ່ງເຫຼົ່ານີ້. 53.
+
+469
+00:29:55,750 --> 00:30:01,350
+[MATER]
+Maybe if I, I don't know, talked to somebody and explained what happened I could help.
+ບາງທີຖ້າຂ້ອຍ, ຂ້ອຍບໍ່ຮູ້,
+ເວົ້າກັບໃຜແລະອະທິບາຍສິ່ງທີ່ເກີດຂຶ້ນຂ້ອຍສາມາດຊ່ວຍໄດ້.
+
+470
+00:30:01,850 --> 00:30:05,350
+[MCQUEEN]
+I don't need your help. I don't want your help.
+ຂ້ອຍບໍ່ຕ້ອງການຄວາມຊ່ວຍເຫລືອຂອງທ່ານ
+. ຂ້ອຍບໍ່ຢາກຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ.
+
+471
+00:30:05,850 --> 00:30:07,850
+[PRESS]
+Hey, there he is!!
+ເຮ້, ລາວຢູ່ບ່ອນນັ້ນ!!
+
+472
+00:30:08,350 --> 00:30:12,550
+[PRESS]
+- McQueen, you had it in the bag! - Yeah, what happened?
+- ແມັກຄວິນ, ເຈົ້າມີມັນຢູ່ໃນຖົງ! - ແມ່ນແລ້ວ, ເກີດຫຍັງຂຶ້ນ?
+
+473
+00:30:13,050 --> 00:30:17,600
+[MCQUEEN]
+I made a mistake. But I can assure you, it won't happen again.
+ຂ້ອຍເຮັດຄວາມຜິດພາດ. ແຕ່ຂ້ອຍສາມາດຮັບປະກັນເຈົ້າໄດ້
+, ມັນຈະບໍ່ເກີດຂຶ້ນອີກເທື່ອຫນຶ່ງ.
+
+474
+00:30:18,100 --> 00:30:23,000
+[MCQUEEN]
+Look, guys. We know what the problem is and we've taken care of it.
+ເບິ່ງ, ພວກຜູ້ຊາຍ.
+ພວກເຮົາຮູ້ວ່າບັນຫາແມ່ນຫຍັງແລະພວກເຮົາໄດ້ເບິ່ງແຍງມັນແລ້ວ.
+
+475
+00:30:23,500 --> 00:30:26,300
+[SMASH TO:]
+OVER FOOTAGE OF FRANCESCO and various other highlights:
+ກ່ຽວກັບຮູບພາບຂອງຟຣານເຊສໂກ ແລະ ຈຸດເດັ່ນອື່ນໆຕ່າງໆ:
+
+476
+00:30:26,800 --> 00:30:32,800
+[BRENT MUSTANGBURGER]
+Lightning McQueen loses in the last lap to Francesco Bernoulli in the first race of the World Grand Prix and three, count em, three cars flamed out leading some to suggest that their fuel, Allinol, might be to blame.
+ແສງສະຫວ່າງແມັກຄວິນເສຍໃນຮອບສຸດທ້າຍຕໍ່ຟຣານເຊສໂກ ເບຣນູລີ ໃນການແຂ່ງຂັນຄັ້ງ ທໍາ ອິດຂອງລາງວັນໃຫຍ່ໂລກແລະສາມ
+, ນັບພວກມັນ, ລົດສາມຖືກໄຟໄຫມ້ເຮັດໃຫ້ບາງຄົນແນະ ນໍາ ວ່າເຊື້ອໄຟຂອງພວກເຂົາ, ອາລິນອອນ, ອາດເປັນຄວາມຜິດ.
+
+477
+00:30:33,300 --> 00:30:39,300
+[MILES AXLEROD]
+Allinol is safe! Alternative fuel is safe! There is no way my fuel caused these cars to flame out! 54.
+ອາລິນອອນປອດໄພ! ນ້ ໍາ ມັນທົດແທນແມ່ນປອດໄພ! ບໍ່ມີທາງໃດທີ່ນ້
+ໍາ ມັນຂອງຂ້ອຍເຮັດໃຫ້ລົດເຫຼົ່ານີ້ໄຫມ້ອອກ! 54.
+
+478
+00:30:39,800 --> 00:30:45,800
+[DARRELL CARTRIP]
+Well the jury may still be out on whether Allinol caused these accidents, but one thing's for sure: Lightning McQueen blew this race.
+ດີຄະນະກໍາມະການອາດຈະຍັງບໍ່ຮູ້ວ່າອາລິນອອນໄດ້ເຮັດໃຫ້ອຸບັດຕິເຫດເຫຼົ່ານີ້ເກີດຂຶ້ນຫຼືບໍ່
+, ແຕ່ສິ່ງດຽວແມ່ນແນ່ນອນ: ແສງສະຫວ່າງແມັກຄວິນໄດ້ລະເບີດການແຂ່ງຂັນນີ້.
+
+479
+00:30:46,300 --> 00:30:48,750
+[BRENT MUSTANGBURGER]
+Team McQueen can't be happy right now.
+ທີມແມັກຄວິນບໍ່ສາມາດມີຄວາມສຸກໄດ້ໃນເວລານີ້.
+
+480
+00:30:49,250 --> 00:30:51,250
+[SECURITY CAR]
+Come with me please, sir.
+ມາພ້ອມກັບຂ້ອຍແດ່ເດີເດີເດີ.
+
+481
+00:30:51,750 --> 00:30:53,850
+[MATER]
+But I'm gonna miss my plane.
+ແຕ່ຂ້ອຍຈະພາດເຮືອບິນຂອງຂ້ອຍ.
+
+482
+00:30:54,350 --> 00:30:56,350
+[SECURITY CAR]
+Right this way.
+ທາງນີ້.
+
+483
+00:30:56,850 --> 00:31:02,850
+[MATER]
+Doggone it. This is about my hook, isn't it? I know I should've checked it, but I can't really, look -- it's attached to me.
+ຂ້ອຍຮູ້ວ່າຂ້ອຍຄວນກວດເບິ່ງມັນ,
+ແຕ່ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ແທ້ໆ, ເບິ່ງ - ມັນຕິດກັບຂ້ອຍ.
+
+484
+00:31:03,350 --> 00:31:07,200
+[MATER]
+Hey, I know you. You're that feller from the karate demonstration.
+ເຮ້, ຂ້ອຍຮູ້ຈັກເຈົ້າ. ເຈົ້າເປັນຜູ້ຊາຍຄົນນັ້ນຈາກການສະແດງຄາຣາເຕ.
+
+485
+00:31:07,700 --> 00:31:10,850
+[FINN]
+I never properly introduced myself. Finn McMissile. British Intelligence.
+ຂ້ອຍບໍ່ເຄີຍແນະນໍາຕົວເອງຢ່າງຖືກຕ້ອງເລີຍ
+. ຟິນ ແມັກມິສຊີລ. ສືບລັບອັງກິດ.
+
+486
+00:31:11,350 --> 00:31:13,350
+[MATER]
+Tow Mater. Average intelligence.
+ດຶງແມ່. ຄວາມສະຫຼາດສະເລ່ຍ.
+
+487
+00:31:13,850 --> 00:31:15,950
+[FINN]
+Who are you with? FBI, CIA?
+ເຈົ້າຢູ່ກັບໃຜ? FBI, CIA?
+
+488
+00:31:16,450 --> 00:31:22,450
+[MATER]
+Let's just say I'm triple-A affiliated. You know, I know some karate. I don't wanna brag or nothing, but I've got me a black fan belt.
+ພວກເຮົາພຽງແຕ່ເວົ້າວ່າຂ້ອຍເປັນສະມາຊິກສາມ A. ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍຮູ້ຄາຣາເກັດບາງຢ່າງ
+. ຂ້ອຍບໍ່ຢາກໂຊກແຊງຫຼືຫຍັງເລີຍ, ແຕ່ຂ້ອຍມີສາຍແອວພັດລົມສີ ດໍາ.
+
+489
+00:31:22,950 --> 00:31:26,100
+[MATER]
+Hey, you wanna see some moves I made up?
+ເຮ້, ເຈົ້າຢາກເຫັນການເຄື່ອນໄຫວບາງຢ່າງທີ່ຂ້ອຍຄິດສ້າງຂຶ້ນບໍ?
+
+490
+00:31:26,600 --> 00:31:28,600
+[FINN]
+You're being followed.
+ເຈົ້າຖືກຕິດຕາມຢູ່.
+
+491
+00:31:29,100 --> 00:31:35,100
+[MATER]
+This first one I can reach into a car's hood, pull out his battery, and show it to him before he stalls. I call it, "What I accidentally did to my friend Luigi once." 56.
+ອັນທໍາອິດນີ້ຂ້ອຍສາມາດເຂົ້າໄປໃນກະເປົາລົດໄດ້, ດຶງແບັດເຕີຣີຂອງລາວອອກ, ແລະສະແດງມັນໃຫ້ລາວກ່ອນທີ່ລາວຈະຢຸດເຊົາ
+. ຂ້ອຍເອີ້ນມັນວ່າ,"ສິ່ງທີ່ຂ້ອຍເຮັດກັບເພື່ອນຂອງຂ້ອຍລູຈີໂດຍບໍ່ sengajaຄັ້ງຫນຶ່ງ." 56.
+
+492
+00:31:35,600 --> 00:31:37,600
+[GREM]
+There he is!
+ລາວຢູ່ບ່ອນນັ້ນ!
+
+493
+00:31:38,100 --> 00:31:42,300
+[MATER]
+Look, I probably ought to go. I'm about to miss my flight.
+ເບິ່ງ, ຂ້ອຍອາດຈະຄວນໄປ. ຂ້ອຍ ກໍາ ລັງຈະພາດຖ້ຽວບິນຂອງຂ້ອຍ.
+
+494
+00:31:42,800 --> 00:31:44,800
+[FINN]
+Don't worry.
+ຢ່າເປັນຫ່ວງ.
+
+495
+00:31:45,300 --> 00:31:47,750
+[FINN]
+I've taken care of that. Hang on.
+ຂ້ອຍໄດ້ເບິ່ງແຍງເລື່ອງນັ້ນແລ້ວ. ລໍຖ້າ.
+
+496
+00:31:48,250 --> 00:31:53,150
+[MATER]
+This is First Class service. You don't even have to go through the terminal.
+ນີ້ແມ່ນການບໍລິການຊັ້ນ ທໍາ ອິດ. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຜ່ານສະຖານີ.
+
+497
+00:31:53,650 --> 00:31:58,900
+[MATER]
+Your karate partners are back here. They kinda look like they're trying to catch up!
+ຄູ່ຮ່ວມງານຄາຣາເຕຂອງທ່ານກັບມາບ່ອນນີ້.
+ພວກເຂົາເບິ່ງຄືວ່າພວກເຂົາ ກໍາ ລັງພະຍາຍາມຈັບຄູ່!
+
+498
+00:31:59,400 --> 00:32:01,850
+[FINN]
+Drive forward. Whatever you do, don't stop.
+ຂັບລົດໄປຂ້າງຫນ້າ. ເຈົ້າເຮັດຫຍັງກໍ່ຕາມ, ຢ່າຢຸດ.
+
+499
+00:32:02,350 --> 00:32:05,500
+[OFF ---]
+THE ROCKET - it flies toward Mater and Finn.
+ລູກສອນໄຟ - ມັນບິນໄປຫາແມ່ແລະຟິນ.
+
+500
+00:32:06,000 --> 00:32:08,000
+[MATER]
+Is everything okay back there?
+ທຸກຢ່າງດີບໍຢູ່ບ່ອນນັ້ນ?
+
+501
+00:32:08,500 --> 00:32:10,600
+[SIDDELEY]
+Finn, it's Sid. I'm on approach.
+ຟິນນ໌, ມັນແມ່ນຊີດ. ຂ້ອຍ ກໍາ ລັງໃກ້ຊິດ.
+
+502
+00:32:11,100 --> 00:32:13,100
+[FINN]
+Roger that.
+ເຂົ້າໃຈແລ້ວ.
+
+503
+00:32:13,600 --> 00:32:17,800
+[MATER]
+You remember that whole thing about me not stopping no matter what?
+ເຈົ້າຈື່ເລື່ອງທັງ ຫມົດ ກ່ຽວກັບຂ້ອຍບໍ່ຢຸດບໍ່ວ່າຈະເປັນຫຍັງບໍ?
+
+504
+00:32:18,300 --> 00:32:20,400
+[MATER]
+I knew I should've done carry-on!
+ຂ້ອຍຮູ້ວ່າຂ້ອຍຄວນເຮັດເຄື່ອງຂົນສົ່ງ!
+
+505
+00:32:20,900 --> 00:32:22,900
+[FINN]
+Thanks, old boy!
+ຂອບໃຈ, ເດັກຊາຍເກົ່າ!
+
+506
+00:32:23,400 --> 00:32:25,850
+[MATER]
+Hey, doggone it. It's my imaginary girlfriend!
+ເຮ້, ໂຊກຮ້າຍມັນ. ມັນແມ່ນແຟນຈິນຕະນາການຂອງຂ້ອຍ!
+
+507
+00:32:26,350 --> 00:32:28,450
+[HOLLEY]
+Come on! Get in here! 58.
+ມາແລ້ວ! ເຂົ້າມາບ່ອນນີ້! 58.
+
+508
+00:32:28,950 --> 00:32:34,950
+[MATER]
+Boy I tell you what, you really do want this first date, don't ya? That's a no-quit attitude right there.
+ເດັກຊາຍຂ້ອຍບອກເຈົ້າວ່າຫຍັງ, ເຈົ້າຢາກວັນທີ ທໍາ ອິດນີ້ແທ້ໆ
+, ແມ່ນບໍ? ນັ້ນແມ່ນທັດສະນະທີ່ບໍ່ຢຸດຢູ່ບ່ອນນັ້ນ.
+
+509
+00:32:35,450 --> 00:32:37,450
+[FINN]
+Hold on, Sid!
+ລໍຖ້າ, ຊີດ!
+
+510
+00:32:37,950 --> 00:32:39,950
+[SIDDELEY]
+Finn, it's now or never!
+ຟິນນ໌, ມັນເປັນດຽວນີ້ຫຼືບໍ່ເຄີຍ!
+
+511
+00:32:40,450 --> 00:32:42,450
+[SIDDELEY]
+Hold on!
+ລໍຖ້າ!
+
+512
+00:32:42,950 --> 00:32:48,200
+[MATER]
+By the time you read this, I will be safely on an airplane, flying home.
+ເມື່ອເຈົ້າອ່ານສິ່ງນີ້, ຂ້ອຍຈະຢູ່ໃນເຮືອບິນຢ່າງປອດໄພ, ບິນກັບບ້ານ.
+
+513
+00:32:48,700 --> 00:32:54,700
+[MCQUEEN]
+"I'm so sorry for what I did. I don't want to be the cause of you losing any more races. I want you to go prove to the world what I already know - that you are the greatest race car in the whole wide world. Your best friend, Mater."
+ຂ້ອຍຂໍໂທດຫຼາຍຕໍ່ສິ່ງທີ່ຂ້ອຍເຮັດ. ຂ້ອຍບໍ່ຢາກເປັນສາເຫດທີ່ເຈົ້າຈະສູນເສຍການແຂ່ງຂັນອີກຕໍ່ໄປ. ຂ້ອຍຢາກໃຫ້ເຈົ້າໄປພິສູດໃຫ້ໂລກສິ່ງທີ່ຂ້ອຍຮູ້ແລ້ວ
+- ວ່າເຈົ້າເປັນລົດແຂ່ງຂັນທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດໃນໂລກທັງ ຫມົດ. ເພື່ອນທີ່ດີທີ່ສຸດຂອງທ່ານ, ແມ່."
+
+514
+00:32:55,200 --> 00:32:57,650
+[MCQUEEN]
+I didn't really want him to leave.
+ຂ້ອຍບໍ່ຢາກໃຫ້ລາວໄປແທ້ໆ.
+
+515
+00:32:58,150 --> 00:33:04,150
+[LUIGI]
+Wait, there's more here. "P.S. Please tell the hotel I didn't mean to order that movie. I thought it was just a preview and I didn't realize I was paying for it. P.P.S... That's funny right there --
+ລໍຖ້າ, ມີອີກຫຼາຍຢ່າງຢູ່ນີ້." P.S. ກະລຸນາບອກໂຮງແຮມວ່າຂ້ອຍບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະສັ່ງຮູບເງົານັ້ນ.
+ຂ້ອຍຄິດວ່າມັນພຽງແຕ່ເປັນການເບິ່ງກ່ອນແລະຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍ ກໍາ ລັງຈ່າຍຄ່າມັນ. P.P.S... ມັນມ່ວນຢູ່ບ່ອນນັ້ນ -
+
+516
+00:33:04,650 --> 00:33:07,450
+[PP."]
+There's a few more pages of P.S.'s here.
+ມີອີກສອງສາມຫນ້າຂອງ P.S ຢູ່ບ່ອນນີ້.
+
+517
+00:33:07,950 --> 00:33:12,150
+[MCQUEEN]
+Well, at least I know if he's at home he'll be safe.
+ດີ, ຢ່າງຫນ້ອຍຂ້ອຍຮູ້ວ່າຖ້າລາວຢູ່ເຮືອນລາວຈະປອດໄພ.
+
+518
+00:33:12,650 --> 00:33:18,650
+[FINN]
+Now that's how I like to start the day! You never feel more alive than when you're almost dead.
+ດຽວນີ້ຂ້ອຍມັກເລີ່ມຕົ້ນມື້ແບບນັ້ນ!
+ເຈົ້າບໍ່ເຄີຍຮູ້ສຶກມີຊີວິດຫຼາຍກ່ວາເມື່ອເຈົ້າເກືອບຕາຍແລ້ວ.
+
+519
+00:33:19,150 --> 00:33:21,600
+[HOLLEY]
+I hope that device didn't fall off.
+ຂ້ອຍຫວັງວ່າອຸປະກອນນັ້ນບໍ່ໄດ້ຕົກລົງ.
+
+520
+00:33:22,100 --> 00:33:27,000
+[MATER]
+That's the closest I ever been to missing my flight! That was --- 60.
+ນັ້ນແມ່ນໃກ້ທີ່ສຸດທີ່ຂ້ອຍເຄີຍພາດຖ້ຽວບິນຂອງຂ້ອຍ! ນັ້ນແມ່ນ --- 60.
+
+521
+00:33:27,500 --> 00:33:29,500
+[MATER]
+Yow!
+ໂຢ້!
+
+522
+00:33:30,000 --> 00:33:32,000
+[HOLLEY]
+Still in one piece, great.
+ຍັງຢູ່ໃນຊິ້ນສ່ວນດຽວ, ດີເລີດ.
+
+523
+00:33:32,500 --> 00:33:37,750
+[MATER]
+I gotta go to a doctor. I keep getting these sharp pains in my undercarriage.
+ຂ້ອຍຕ້ອງໄປຫາຫມໍ.
+ຂ້ອຍຍັງໄດ້ຮັບຄວາມເຈັບປວດທີ່ແຫນ້ນແຟ້ນໃນລົດພາຍໃຕ້ຂອງຂ້ອຍ.
+
+524
+00:33:38,250 --> 00:33:40,250
+[HOLLEY]
+Downloading the photo now.
+ດາວໂຫຼດຮູບດຽວນີ້.
+
+525
+00:33:40,750 --> 00:33:46,750
+[MATER]
+Hey, lemme introduce you two. This here is Finn McSomething-or- other. He's a First Class VIP airport whatchamacallit. And Finn, this here's my date. I never did get your name.
+ເຮ້, ຂໍແນະນໍາເຈົ້າທັງສອງ. ນີ້ແມ່ນຟິນແມັກບາງສິ່ງບາງຢ່າງຫຼື - ອື່ນໆ. ລາວເປັນສະຫນາມບິນ VIP
+ຊັ້ນ ທໍາ ອິດສິ່ງທີ່ເອີ້ນວ່າ. ແລະຟິນ, ນີ້ແມ່ນວັນທີຂອງຂ້ອຍ. ຂ້ອຍບໍ່ເຄີຍໄດ້ຮັບຊື່ຂອງທ່ານເລີຍ.
+
+526
+00:33:47,250 --> 00:33:49,700
+[HOLLEY]
+Oh yes, sorry. It's Shiftwell. Holley Shiftwell.
+ໂອ້ ແມ່ນແລ້ວ, ຂໍໂທດ. ມັນແມ່ນ Shiftwell. ໂຮລີ Shiftwel.
+
+527
+00:33:50,200 --> 00:33:52,200
+[MATER]
+It's Shiftwell. Holley ---
+ມັນເປັນ Shiftwell. ໂຮລີ ---
+
+528
+00:33:52,700 --> 00:33:55,500
+[FINN]
+Finally. Time to see who's behind all this.
+ສຸດທ້າຍ. ມັນເຖິງເວລາທີ່ຈະເບິ່ງວ່າໃຜຢູ່ເບື້ອງຫຼັງສິ່ງທັງ ຫມົດ ນີ້.
+
+529
+00:33:56,000 --> 00:33:58,000
+[HOLLEY]
+What is this? 61.
+ນີ້ແມ່ນຫຍັງ? 61.
+
+530
+00:33:58,500 --> 00:34:04,500
+[MATER]
+Well, that's one of the worst engines ever made. It's an old aluminum V8 with a Lucas electrical system and Whitworth bolts. Shoot, them Whitworth bolts is a pain, tell you what. Them ain't metric, they ain't inches...
+ດີ, ນັ້ນແມ່ນ ຫນຶ່ງ ໃນເຄື່ອງຈັກທີ່ຮ້າຍແຮງທີ່ສຸດທີ່ເຄີຍເຮັດ. ມັນແມ່ນ V8 ອາລູມິນຽມເກົ່າທີ່ມີລະບົບໄຟຟ້າລູກາສແລະກະຕ່າ
+Whitworth. ຍິງ, ກະຕ່າເຫຼົ່ານັ້ນ Whitworth ແມ່ນຄວາມເຈັບປວດ, ບອກເຈົ້າວ່າຫຍັງ. ພວກເຂົາບໍ່ແມ່ນວັດແທກ, ພວກເຂົາບໍ່ແມ່ນນິ້ວ...
+
+531
+00:34:05,000 --> 00:34:08,150
+[HOLLEY]
+Yes, OK, right. But who's engine is this, Mater?
+ແມ່ນແລ້ວ, ດີ, ແມ່ນແລ້ວ. ແຕ່ເຄື່ອງຈັກນີ້ແມ່ນຂອງໃຜ, ແມ່?
+
+532
+00:34:08,650 --> 00:34:12,500
+[MATER]
+Well, it's kinda hard to tell from this picture, ain't it?
+ດີ, ມັນຍາກທີ່ຈະບອກຈາກຮູບນີ້, ແມ່ນບໍ?
+
+533
+00:34:13,000 --> 00:34:15,450
+[HOLLEY]
+But you're the one who took it.
+ແຕ່ເຈົ້າເປັນຄົນທີ່ເອົາມັນ.
+
+534
+00:34:15,950 --> 00:34:17,950
+[FINN]
+Holley.
+ໂຮລີ.
+
+535
+00:34:18,450 --> 00:34:24,450
+[HOLLEY]
+Oh, right. Yes, of course. "A good agent gets what he can, then gets out before he's killed." Sorry.
+ໂອ້, ແມ່ນແລ້ວ. ແມ່ນແລ້ວ, ແນ່ນອນ."ຕົວແທນທີ່ດີໄດ້ຮັບສິ່ງທີ່ລາວສາມາດເຮັດໄດ້
+, ຫຼັງຈາກນັ້ນອອກຈາກກ່ອນທີ່ລາວຈະຖືກຂ້າຕາຍ." ຂໍໂທດ.
+
+536
+00:34:24,950 --> 00:34:30,950
+[MATER]
+Agent? You mean like insurance agent, like, `Like a good neighbor, Mater is there'? Wait, you mean secret agents. You guys is spies!
+ຕົວແທນ? ເຈົ້າຫມາຍຄວາມວ່າຄືກັບຕົວແທນປະກັນໄພ, ເຊັ່ນວ່າ, ` ຄືກັບເພື່ອນບ້ານທີ່ດີ
+, ແມ່ຢູ່ບ່ອນນັ້ນບໍ? ລໍຖ້າ, ເຈົ້າ ຫມາຍ ຄວາມວ່າຕົວແທນລັບ. ພວກເຈົ້າເປັນນັກສືບ!
+
+537
+00:34:31,450 --> 00:34:36,000
+[FINN]
+Holley, in how many makes and models did this type of engine appear?
+ໂຮລີ, ເຄື່ອງຈັກປະເພດນີ້ປາກົດຕົວໃນເຄື່ອງຈັກແລະຮູບແບບຫຼາຍປານໃດ?
+
+538
+00:34:36,500 --> 00:34:42,500
+[HOLLEY]
+It was standard in seven models over a 12-year period. At least 35,000 cars were made with this engine.
+ມັນເປັນມາດຕະຖານໃນຮູບແບບເຈັດໃນໄລຍະເວລາ 12 ປີ.
+ລົດຢ່າງຫນ້ອຍ 35,000 ໄດ້ຖືກຜະລິດດ້ວຍເຄື່ອງຈັກນີ້.
+
+539
+00:34:43,000 --> 00:34:45,000
+[MATER]
+You're pretty. 62.
+ເຈົ້າສວຍງາມ. 62.
+
+540
+00:34:45,500 --> 00:34:47,500
+[HOLLEY]
+Yes, alright. Thank you.
+ແມ່ນແລ້ວ, ດີ. ຂອບໃຈ.
+
+541
+00:34:48,000 --> 00:34:50,000
+[MATER]
+And so nice.
+ແລະດີຫຼາຍ.
+
+542
+00:34:50,500 --> 00:34:52,500
+[HOLLEY]
+Just pay attention.
+ພຽງແຕ່ເອົາໃຈໃສ່.
+
+543
+00:34:53,000 --> 00:34:59,000
+[FINN]
+This seems like a dead end. If there were something in the photo that could narrow this down a bit I'd be a lot happier.
+ນີ້ແມ່ນເບິ່ງຄືວ່າເປັນທາງບິດ.
+ຖ້າມີບາງສິ່ງບາງຢ່າງໃນຮູບທີ່ສາມາດຕັດເລື່ອງນີ້ລົງເລັກນ້ອຍຂ້ອຍຈະມີຄວາມສຸກຫຼາຍຂຶ້ນ.
+
+544
+00:34:59,500 --> 00:35:05,500
+[MATER]
+You might not be happy, but I bet this feller is. See how he's had most of his parts replaced? And see all them boxes over there? Them's all original parts. They ain't easy to come by.
+ເຈົ້າອາດຈະບໍ່ມີຄວາມສຸກ, ແຕ່ຂ້ອຍແນ່ໃຈວ່າຄົນນີ້ແມ່ນ. ເບິ່ງວ່າລາວໄດ້ປ່ຽນສ່ວນສ່ວນໃຫຍ່ຂອງລາວແນວໃດ?
+ແລະເບິ່ງກ່ອງທັງ ຫມົດ ຢູ່ບ່ອນນັ້ນບໍ? ພວກເຂົາທັງ ຫມົດ ແມ່ນສ່ວນຕົ້ນສະບັບ. ພວກເຂົາບໍ່ງ່າຍທີ່ຈະມາ.
+
+545
+00:35:06,000 --> 00:35:08,000
+[HOLLEY]
+Rare parts.
+ສ່ວນທີ່ຫາຍາກ.
+
+546
+00:35:08,500 --> 00:35:10,500
+[FINN]
+That's something we can track.
+ນັ້ນແມ່ນບາງສິ່ງບາງຢ່າງທີ່ພວກເຮົາສາມາດຕິດຕາມໄດ້.
+
+547
+00:35:11,000 --> 00:35:13,000
+[HOLLEY]
+Exactly!
+ແມ່ນແລ້ວ!
+
+548
+00:35:13,500 --> 00:35:19,500
+[FINN]
+Well done, Mater! I would never have seen that. I know of a black-market parts dealer in Paris, a treacherous lowlife. But, he's the only car in the world who can tell us whose engine this is. Mater, what would you say to setting up an informal task force on this one?
+ເຮັດໄດ້ດີ, ແມ່! ຂ້ອຍບໍ່ເຄີຍເຫັນສິ່ງນັ້ນເລີຍ. ຂ້ອຍຮູ້ກ່ຽວກັບພໍ່ຄ້າຊິ້ນສ່ວນຕະຫຼາດສີດໍາໃນປາຣີ, ຄົນໂຊກແຊງທີ່ໂຊມແຊກ ແຊກໂຊງ. ແຕ່,
+ລາວເປັນລົດດຽວໃນໂລກທີ່ສາມາດບອກພວກເຮົາວ່າເຄື່ອງຈັກຂອງໃຜນີ້ແມ່ນ. ແມ່, ເຈົ້າຈະເວົ້າແນວໃດທີ່ຈະສ້າງຕັ້ງກຸ່ມປະຕິບັດງານທີ່ບໍ່ເປັນທາງການກ່ຽວກັບເລື່ອງນີ້?
+
+549
+00:35:20,000 --> 00:35:22,000
+[MATER]
+Wait, what? 63.
+ລໍຖ້າ, ຫຍັງ? 63.
+
+550
+00:35:22,500 --> 00:35:25,650
+[FINN]
+You obviously have plenty of experience in the field.
+ເຈົ້າແນ່ນອນວ່າມີປະສົບການຫຼາຍໃນພາກສະຫນາມ.
+
+551
+00:35:26,150 --> 00:35:32,150
+[MATER]
+Well yeah I live right next to one.  I don't know, Finn. I ain't exactly been much help to anybody recently.
+ດີແມ່ນແລ້ວ ຂ້ອຍອາໄສຢູ່ໃກ້ກັບຫນຶ່ງ. ຂ້ອຍບໍ່ຮູ້
+, ຟິນນ໌. ຂ້ອຍບໍ່ໄດ້ຊ່ວຍໃຜຫຼາຍໃນບໍ່ດົນມານີ້.
+
+552
+00:35:32,650 --> 00:35:34,650
+[FINN]
+You're helping me. Please, Mater.
+ເຈົ້າ ກໍາ ລັງຊ່ວຍຂ້ອຍ. ກະລຸນາ, ແມ່.
+
+553
+00:35:35,150 --> 00:35:39,000
+[MATER]
+Well, okay. But you know I'm just a tow truck, right?
+ດີ, ດີ. ແຕ່ເຈົ້າຮູ້ວ່າຂ້ອຍພຽງແຕ່ເປັນລົດຖີບດຶງເທົ່ານັ້ນ, ແມ່ນບໍ?
+
+554
+00:35:39,500 --> 00:35:42,650
+[FINN]
+Right. And I'm just in the import/export business. Siddeley?
+ແມ່ນແລ້ວ. ແລະຂ້ອຍພຽງແຕ່ຢູ່ໃນທຸລະກິດການນໍາເຂົ້າ / ສົ່ງອອກ. ຊີເດລີ?
+
+555
+00:35:43,150 --> 00:35:45,150
+[SIDDELEY]
+Yes, Finn?
+ແມ່ນແລ້ວ, ຟິນນ໌?
+
+556
+00:35:45,650 --> 00:35:47,650
+[FINN]
+Paris. Tout de suite.
+ປາຣີ. ທັນທີ.
+
+557
+00:35:48,150 --> 00:35:54,150
+[MATER]
+Yeah, two of them sweets for me too, Sid! You know, I always wanted to be a spy.
+ແມ່ນແລ້ວ, ສອງຂອງພວກຫວານ ສໍາ ລັບຂ້ອຍເຊັ່ນກັນ,
+ຊີດ! ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍຢາກເປັນນັກສືບສະເຫມີ.
+
+558
+00:35:54,650 --> 00:35:56,650
+[HOLLEY]
+Really? Me too.
+ແທ້ຈິງບໍ? ຂ້ອຍຄືກັນ.
+
+559
+00:35:57,150 --> 00:35:59,150
+[SIDDELEY]
+Afterburners, sir?
+ເຄື່ອງເຜົາໄຫມ້ຫຼັງບໍ, ທ້າວ?
+
+560
+00:35:59,650 --> 00:36:01,650
+[FINN]
+Is there any other way?
+ມີທາງອື່ນບໍ?
+
+561
+00:36:02,150 --> 00:36:04,150
+[GASTOW'S RESTAURANT.]
+64.
+64.
+
+562
+00:36:04,650 --> 00:36:10,600
+[FINN]
+Once we're inside, stay close. Don't bother checking VIN numbers for criminal records, they're all dodgy here.
+ເມື່ອພວກເຮົາຢູ່ໃນພາຍໃນ, ຢູ່ໃກ້ໆ. ຢ່າກັງວົນກວດສອບເລກ VIN ສໍາ
+ລັບບັນທຶກອາຊະຍາກໍາ, ພວກເຂົາທັງ ຫມົດ ແມ່ນໂຊກຮ້າຍຢູ່ບ່ອນນີ້.
+
+563
+00:36:11,100 --> 00:36:13,100
+[HOLLEY]
+No VIN scans. Got it.
+ບໍ່ມີການສະແກນ VIN. ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+564
+00:36:13,600 --> 00:36:19,200
+[FINN]
+Don't talk to anyone. Don't look at anyone. And absolutely, positively no idling. Are we clear?
+ຢ່າເວົ້າກັບໃຜ. ຢ່າເບິ່ງໃຜເລີຍ. ແລະຢ່າງແນ່ນອນ,
+ຢ່າງແນ່ນອນບໍ່ມີການຫວ່າງງານ. ພວກເຮົາເຂົ້າໃຈບໍ?
+
+565
+00:36:19,700 --> 00:36:21,800
+[HOLLEY]
+Yes, right. No idling. Yes, sir.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ. ບໍ່ມີການຫວ່າງງານ. ແມ່ນແລ້ວເດີ.
+
+566
+00:36:22,300 --> 00:36:24,300
+[FINN]
+Mater?
+ແມ່?
+
+567
+00:36:24,800 --> 00:36:26,800
+[MATER]
+Yeah, Finn?
+ແມ່ນແລ້ວ, ຟິນນ໌?
+
+568
+00:36:27,300 --> 00:36:29,400
+[FINN]
+We're not here to go shopping.
+ພວກເຮົາບໍ່ໄດ້ມາທີ່ນີ້ເພື່ອໄປຊື້ເຄື່ອງ.
+
+569
+00:36:29,900 --> 00:36:33,050
+[MATER]
+Shopping? What do you mean? Why would I ---
+ການຊື້ເຄື່ອງ? ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ? ເປັນຫຍັງຂ້ອຍຈຶ່ງ ---
+
+570
+00:36:33,550 --> 00:36:35,550
+[MATER]
+Dadgum.
+ພໍ່ແມ່.
+
+571
+00:36:36,050 --> 00:36:39,900
+[MERCHANTS]
+- Parts for sale, Monsieur! - Monsieur! Parts for sale! 65.
+- ສ່ວນສໍາລັບຂາຍ, ທ້າວ! - ທ້າ! ສ່ວນສໍາລັບການຂາຍ! 65.
+
+572
+00:36:40,400 --> 00:36:43,550
+[IN THE MARKET - MOMENTS LATER]
+Mater rolls along, impressed by the goods for sale.
+ແມ່ຍ່າງໄປ, ປະທັບໃຈກັບສິນຄ້າທີ່ຂາຍ.
+
+573
+00:36:44,050 --> 00:36:50,050
+[MATER]
+You gotta be kidding me - they've got everything here. Look at them hoods! I could use a hood.
+ເຈົ້າຕ້ອງຫຼິ້ນຂ້ອຍ - ພວກເຂົາມີທຸກຢ່າງຢູ່ນີ້.
+ເບິ່ງກະເປົາກະເປົານັ້ນແມ! ຂ້ອຍສາມາດໃຊ້ນະເປົ້ານັ້ນໄດ້.
+
+574
+00:36:50,550 --> 00:36:52,550
+[MATER]
+Sorry fellers, I gotta go.
+ຂໍໂທດເດີ, ຂ້ອຍຕ້ອງໄປ.
+
+575
+00:36:53,050 --> 00:36:55,150
+[MATER]
+Excuse me. What are you selling?
+ຂໍໂທດ. ເຈົ້າຂາຍຫຍັງ?
+
+576
+00:36:55,650 --> 00:36:57,650
+[FINN]
+There you are.
+ເຈົ້າຢູ່ແລ້ວ.
+
+577
+00:36:58,150 --> 00:37:00,250
+[MATER]
+Man, there are some great ---
+ຜູ້ຊາຍ, ມີບາງຢ່າງທີ່ຍິ່ງໃຫຍ່ ---
+
+578
+00:37:00,750 --> 00:37:02,750
+[FINN]
+Mater, get back!
+ແມ່, ກັບມາ!
+
+579
+00:37:03,250 --> 00:37:05,250
+[MATER]
+Hey, wait for me!
+ເຮ້, ລໍຖ້າຂ້ອຍ!
+
+580
+00:37:05,750 --> 00:37:11,750
+[TO ---]
+--- Tomber who turns a corner and finds himself grill to grill with HOLLEY. He whips to the left but TURNS OVER, rolling sideways and CRASHING to a stop.
+- Tomber ຜູ້ທີ່ຫັນແຄມແລະພົບຕົວເອງ grill ເພື່ອ grill ກັບ HOLLEY
+. ລາວ whips ໄປທາງຊ້າຍແຕ່ຫັນໄປທາງຂ້າງແລະຕົກລົງໄປບ່ອນຢຸດເຊົາ.
+
+581
+00:37:12,250 --> 00:37:14,250
+[FINN]
+Have you lost your mind?!
+ເຈົ້າໂຊກຮ້າຍບໍ?
+
+582
+00:37:14,750 --> 00:37:16,750
+[HOLLEY]
+But I thought ---
+ແຕ່ຂ້ອຍຄິດວ່າ ---
+
+583
+00:37:17,250 --> 00:37:20,400
+[FINN]
+Mater! This chap needs a tow. Hook him up.
+ແມ່! ຜູ້ຊາຍຄົນນີ້ຕ້ອງການດຶງ. ເຊື່ອມຕໍ່ລາວ.
+
+584
+00:37:20,900 --> 00:37:22,900
+[MATER]
+Sure thing. CUT TO:
+ແນ່ນອນ. ຕັດອອກ:
+
+585
+00:37:23,400 --> 00:37:27,250
+[TOMBER]
+You rusty piece of junk, get your dirty hook off me!
+ເຈົ້າເປັນຂີ້ເຫຍື້ອທີ່ rusty, ເອົາ hook ເປື້ອນຂອງທ່ານຈາກຂ້ອຍ!
+
+586
+00:37:27,750 --> 00:37:29,750
+[FINN]
+Allez! Maintenant - vite!
+ໄປແລ້ວ! ດຽວນີ້ - ໄວ!
+
+587
+00:37:30,250 --> 00:37:32,250
+[TOMBER]
+Electroshock! Are you kidding me??
+ການສັ່ນສະເທືອນໄຟຟ້າ! ເຈົ້າໂຊກຮ້າຍຂ້ອຍບໍ?
+
+588
+00:37:32,750 --> 00:37:38,350
+[FINN]
+Easy, Tomber. This is her first field assignment - she didn't know you were my informant.
+ງ່າຍດາຍ, ໂຕມເບີ. ນີ້ແມ່ນການມອບຫມາຍພາກສະຫນາມຄັ້ງ ທໍາ
+ອິດຂອງນາງ - ນາງບໍ່ຮູ້ວ່າເຈົ້າເປັນຜູ້ໃຫ້ຂໍ້ມູນຂອງຂ້ອຍ.
+
+589
+00:37:38,850 --> 00:37:40,850
+[HOLLEY]
+Informant? 67.
+ນັກຂ່າວບໍ? 67.
+
+590
+00:37:41,350 --> 00:37:44,500
+[TOMBER]
+A rookie, eh? I never liked new car- smell.
+ຂ້ອຍບໍ່ເຄີຍມັກກິ່ນລົດໃຫມ່ເລີຍ.
+
+591
+00:37:45,000 --> 00:37:51,000
+[FINN]
+Tomber was doing 20 to life in a Moroccan impound the first time I saved him, if I recall correctly.
+ໂຕມເບີ ກໍາ ລັງລົງໂທດ 20 ຫາຊີວິດໃນບ່ອນເກັບກູ້ໂມຣັກໂກຄັ້ງ
+ທໍາ ອິດທີ່ຂ້ອຍຊ່ວຍລາວ, ຖ້າຂ້ອຍຈື່ໄວ້ຢ່າງຖືກຕ້ອງ.
+
+592
+00:37:51,500 --> 00:37:55,700
+[TOMBER]
+Speaking of recalls, you're getting up there in mileage aren't you, Finn?
+ເວົ້າເຖິງການຟື້ນຟູ, ເຈົ້າ ກໍາ
+ລັງຂຶ້ນໄປບ່ອນນັ້ນໃນໄລຍະທາງບໍ່, ຟິນນ໌?
+
+593
+00:37:56,200 --> 00:38:00,750
+[HOLLEY]
+Alright, we get it. You both know each other, you're both old. So.
+ດີແລ້ວ, ພວກເຮົາເຂົ້າໃຈມັນ. ພວກເຈົ້າທັງສອງຮູ້ຈັກກັນ
+, ເຈົ້າທັງສອງອາຍຸແລ້ວ. ສະນັ້ນ.
+
+594
+00:38:01,250 --> 00:38:03,350
+[HOLLEY]
+There you go, informant. Inform us.
+ນັ້ນແລ້ວ, ຜູ້ໃຫ້ຂໍ້ມູນ. ໃຫ້ພວກເຮົາຮູ້.
+
+595
+00:38:03,850 --> 00:38:06,300
+[TOMBER]
+That is the worst motor ever made.
+ນັ້ນແມ່ນລົດຈັກທີ່ຮ້າຍແຮງທີ່ສຸດທີ່ເຄີຍເຮັດມາ.
+
+596
+00:38:06,800 --> 00:38:09,250
+[TOMBER]
+Wait. That oil filter... those wheel bearings.
+ລໍຖ້າ. ເຄື່ອງກັ່ນຕອງນ້ ໍາ ມັນນັ້ນ... ເຄື່ອງຂົນສົ່ງລໍ້ເຫຼົ່ານັ້ນ.
+
+597
+00:38:09,750 --> 00:38:11,850
+[FINN]
+Do those parts look familiar, Tomber?
+ສ່ວນເຫຼົ່ານັ້ນເບິ່ງຄືວ່າຮູ້ຈັກກັນບໍ, ໂຕມເບີ?
+
+598
+00:38:12,350 --> 00:38:14,350
+[TOMBER]
+They should. I sold them.
+ພວກເຂົາຄວນ. ຂ້ອຍໄດ້ຂາຍພວກມັນ.
+
+599
+00:38:14,850 --> 00:38:16,850
+[HOLLEY]
+To whom?
+ກັບໃຜ?
+
+600
+00:38:17,350 --> 00:38:23,350
+[TOMBER]
+No idea. He's my best customer, but he always does his business over the phone. I was always wondering why he needs so many parts. Now I know. 68.
+ບໍ່ຮູ້ເລີຍ. ລາວເປັນລູກຄ້າທີ່ດີທີ່ສຸດຂອງຂ້ອຍ, ແຕ່ລາວເຮັດທຸລະກິດຂອງລາວຢູ່ສະເຫມີຜ່ານໂທລະສັບ
+. ຂ້ອຍ ກໍາ ລັງສົງໄສຢູ່ສະ ເຫມີວ່າເປັນຫຍັງລາວຕ້ອງການສ່ວນຫຼາຍປານໃດ. ດຽວນີ້ຂ້ອຍຮູ້ແລ້ວ. 68.
+
+601
+00:38:23,850 --> 00:38:27,350
+[MATER]
+Well, a lemon needs parts. Ain't nothing truer than that.
+ດີ, ເລມອນຕ້ອງການສ່ວນຕ່າງໆ. ບໍ່ມີຫຍັງທີ່ແທ້ຈິງກວ່ານັ້ນ.
+
+602
+00:38:27,850 --> 00:38:29,850
+[FINN]
+"Lemon?"
+ເລມອນບໍ?
+
+603
+00:38:30,350 --> 00:38:36,350
+[MATER]
+Yeah, you know. Cars that don't ever work right. Lemons is a tow truck's bread and butter. Like them Gremlins and Pacers we run into at the party and the race and the airport.
+ແມ່ນແລ້ວ, ເຈົ້າຮູ້ແລ້ວ. ລົດທີ່ບໍ່ເຄີຍເຮັດວຽກຢ່າງຖືກຕ້ອງ. ເລມອນແມ່ນເຂົ້າຈີ່ແລະນ້ ໍາ
+ມັນຂອງລົດຂົນສົ່ງ. ເຊັ່ນວ່າພວກແກຣມລິນແລະ Pacers ທີ່ພວກເຮົາພົບໃນງານລ້ຽງແລະການແຂ່ງຂັນແລະສະຫນາມບິນ.
+
+604
+00:38:36,850 --> 00:38:42,850
+[FINN]
+Holley, pull up the pictures from the oil platform. I want to know what other type of cars were out there.
+ໂຮລີ, ດຶງຮູບຈາກເວທີນ້ ໍາ ມັນ.
+ຂ້ອຍຢາກຮູ້ວ່າລົດປະເພດອື່ນໆຢູ່ບ່ອນນັ້ນແມ່ນຫຍັງ.
+
+605
+00:38:43,350 --> 00:38:46,150
+[HOLLEY]
+Right. Let's see. There were Hugos. And Trunkovs.
+ແມ່ນແລ້ວ. ມາເບິ່ງກັນ. ມີຮູໂກສ໌. ແລະທຣອງໂອກສ໌ສ໌ສະບັບ.
+
+606
+00:38:46,650 --> 00:38:48,750
+[FINN]
+Mater, are these cars considered lemons?
+ແມ່, ລົດເຫຼົ່ານີ້ຖືກຖືວ່າເປັນລີມອນບໍ?
+
+607
+00:38:49,250 --> 00:38:51,250
+[MATER]
+Is the Popemobile Catholic?
+ລົດຈັກປາປາແມ່ນຄາໂຕລິກບໍ?
+
+608
+00:38:51,750 --> 00:38:56,300
+[HOLLEY]
+Finn. Everyone involved in this plot is one of history's biggest loser cars.
+ຟິນນ໌. ທຸກຄົນທີ່ກ່ຽວຂ້ອງກັບກະຕຸ້ນນີ້ແມ່ນ
+ຫນຶ່ງ ໃນລົດທີ່ສູນເສຍໃຫຍ່ທີ່ສຸດໃນປະຫວັດສາດ.
+
+609
+00:38:56,800 --> 00:39:01,000
+[FINN]
+And they're all taking their orders from the car behind this engine.
+ແລະພວກເຂົາທຸກຄົນ ກໍາ
+ລັງຮັບຄໍາສັ່ງຂອງພວກເຂົາຈາກລົດຢູ່ເບື້ອງຫຼັງເຄື່ອງຈັກນີ້.
+
+610
+00:39:01,500 --> 00:39:03,500
+[TOMBER]
+This explains it!
+ນີ້ແມ່ນອະທິບາຍມັນ!
+
+611
+00:39:04,000 --> 00:39:06,000
+[FINN]
+What, Tomber? 69.
+ຫຍັງ, ໂຕມເບີ? 69.
+
+612
+00:39:06,500 --> 00:39:12,450
+[TOMBER]
+Gremlin, Pacer, Hugo and Trunkovs never get together. But they're having a secret meeting in two days.
+ແກຣມລິນ, ປາເຊີ, ຮູໂກ ແລະ ທຣອງໂກສ໌ບໍ່ເຄີຍພົບກັນເລີຍ
+. ແຕ່ພວກເຂົາ ກໍາ ລັງມີການປະຊຸມລັບໃນສອງມື້.
+
+613
+00:39:12,950 --> 00:39:14,950
+[FINN]
+Where's this meeting taking place?
+ກອງປະຊຸມນີ້ ກໍາ ລັງຈັດຂຶ້ນຢູ່ໃສ?
+
+614
+00:39:15,450 --> 00:39:17,450
+[TOMBER]
+Porto Corsa, Italy.
+ໂປຣໂຕ ຄໍຊາ, ອີຕາລີ.
+
+615
+00:39:17,950 --> 00:39:20,050
+[MATER]
+That's where the next race is!
+ນັ້ນແມ່ນບ່ອນທີ່ການແຂ່ງຂັນຕໍ່ໄປ!
+
+616
+00:39:20,550 --> 00:39:24,750
+[FINN]
+Then there's a good chance our mystery engine will be there too.
+ຫຼັງຈາກນັ້ນມີໂອກາດທີ່ດີວ່າເຄື່ອງຈັກຄວາມລັບຂອງພວກເຮົາຈະຢູ່ບ່ອນນັ້ນເຊັ່ນກັນ
+.
+
+617
+00:39:25,250 --> 00:39:31,250
+[TOMBER]
+Your chances are more than good. I just sent him a new clutch assembly yesterday... to Porto Corsa.
+ຄວາມເປັນໄປໄດ້ຂອງທ່ານແມ່ນຫຼາຍກ່ວາດີ. ຂ້ອຍຫາກໍ່ສົ່ງກອງປະຊຸມ
+clutch ໃຫມ່ ໃຫ້ລາວມື້ວານນີ້... ໄປປອດໂຕ ຄໍຊາ.
+
+618
+00:39:31,750 --> 00:39:36,650
+[FINN]
+Holley, contact Stephenson and have him meet us at Gare de Lyon. Good work.
+ໂຮລີ, ຕິດຕໍ່ສະຕິຟັນສັນແລະໃຫ້ລາວພົບພວກເຮົາຢູ່ສະຖານີລົດໄຟຂອງລີອນ
+. ວຽກງານທີ່ດີ.
+
+619
+00:39:37,150 --> 00:39:43,100
+[MATER]
+Boy, I'll tell you what. That three- wheeled feller had to be right about a big meeting.
+ເດັກຊາຍ, ຂ້ອຍຈະບອກເຈົ້າວ່າຫຍັງ.
+ຜູ້ຊາຍລົດສາມລໍ້ນັ້ນຕ້ອງຖືກຕ້ອງກ່ຽວກັບກອງປະຊຸມໃຫຍ່.
+
+620
+00:39:43,600 --> 00:39:49,550
+[MATER]
+You never see this many lemons in one town. Unless there's a swap meet, or something. 70.
+ເຈົ້າບໍ່ເຄີຍເຫັນ ຫມາກ ເລມອນຫຼາຍປານໃດໃນເມືອງດຽວ.
+ເວັ້ນເສຍແຕ່ວ່າມີການພົບປະແລກປ່ຽນ, ຫຼືບາງສິ່ງບາງຢ່າງ. 70.
+
+621
+00:39:50,050 --> 00:39:52,500
+[MATER]
+Hey, how'd you get all them pictures?
+ເຮ້, ເຈົ້າໄດ້ຮູບທັງ ຫມົດ ນັ້ນແນວໃດ?
+
+622
+00:39:53,000 --> 00:39:57,550
+[HOLLEY]
+Well, I remotely reprogrammed Porto Corsa's red light cameras to do recognition scans.
+ດີ, ຂ້ອຍໄດ້ປ່ຽນໂປແກຼມກ້ອງຖ່າຍຮູບແສງແດງຂອງໂປຣໂຕ
+ຄໍຊາເພື່ອເຮັດການສະແກນການຮັບຮູ້.
+
+623
+00:39:58,050 --> 00:40:03,650
+[MATER]
+Wow, not only is you the prettiest car I ever met, but you the smartest too.
+ໂວ້, ເຈົ້າບໍ່ແມ່ນພຽງແຕ່ລົດທີ່ສວຍງາມທີ່ສຸດທີ່ຂ້ອຍເຄີຍພົບ
+, ແຕ່ເຈົ້າຍັງສະຫຼາດທີ່ສຸດເຊັ່ນກັນ.
+
+624
+00:40:04,150 --> 00:40:06,150
+[HOLLEY]
+Thank you. I think.
+ຂອບໃຈ. ຂ້ອຍຄິດວ່າ.
+
+625
+00:40:06,650 --> 00:40:08,650
+[MATER]
+That's a familiar sight.
+ນັ້ນແມ່ນພາບທີ່ຮູ້ຈັກກັນດີ.
+
+626
+00:40:09,150 --> 00:40:12,300
+[MATER]
+A Hugo being towed. But he looks absolutely perfect.
+ຮູໂກ ກໍາ ລັງຖືກດຶງ. ແຕ່ລາວເບິ່ງຄືວ່າສົມບູນແບບຢ່າງແທ້ຈິງ.
+
+627
+00:40:12,800 --> 00:40:16,650
+[FINN]
+Of course. They must be the heads of the lemon families.
+ແນ່ນອນ. ພວກເຂົາຕ້ອງເປັນຫົວຫນ້າຂອງຄອບຄົວລີມອນ.
+
+628
+00:40:17,150 --> 00:40:23,150
+[MATER]
+Makes sense. If I was rich and broke down every day, I'd hire me to tow me around all the time too.
+ມັນມີຄວາມ ຫມາຍ. ຖ້າຂ້ອຍເປັນຄົນຮັ່ງມີແລະຕົກລົງທຸກໆມື້,
+ຂ້ອຍຈະຈ້າງຂ້ອຍເພື່ອດຶງຂ້ອຍຢູ່ທົ່ວໄປຕະຫຼອດເວລາເຊັ່ນກັນ.
+
+629
+00:40:23,650 --> 00:40:29,600
+[FINN]
+We've got to infiltrate that meeting. It's the only way to find out who's behind all this.
+ພວກເຮົາຕ້ອງເຂົ້າໄປໃນກອງປະຊຸມນັ້ນ.
+ມັນເປັນວິທີດຽວທີ່ຈະຮູ້ວ່າໃຜຢູ່ເບື້ອງຫຼັງສິ່ງທັງ ຫມົດ ນີ້.
+
+630
+00:40:30,100 --> 00:40:32,100
+[HOLLEY]
+Hang on a minute.
+ລໍຖ້າດົນຫນຶ່ງ.
+
+631
+00:40:32,600 --> 00:40:34,600
+[MATER]
+What?
+ຫຍັງ?
+
+632
+00:40:35,100 --> 00:40:37,100
+[HOLLEY]
+Hold still.
+ຢືນຢັນໄວ້.
+
+633
+00:40:37,600 --> 00:40:39,600
+[MATER]
+Ahh! 71.
+ອາຮ້! 71.
+
+634
+00:40:40,100 --> 00:40:42,100
+[FINN]
+Good job, Miss Shiftwell.
+ເຮັດວຽກດີ, ນາງ Shiftwell.
+
+635
+00:40:42,600 --> 00:40:44,600
+[HOLLEY]
+Thank you, Finn.
+ຂອບໃຈຟິນນ໌.
+
+636
+00:40:45,100 --> 00:40:48,600
+[MATER]
+Boy, I sure wish my friends could see me now.
+ເດັກຊາຍ, ຂ້ອຍຢາກວ່າເພື່ອນຂອງຂ້ອຍສາມາດເຫັນຂ້ອຍໄດ້ດຽວນີ້.
+
+637
+00:40:49,100 --> 00:40:54,000
+[LUIGI]
+Guido, your eyes do not deceive you. We are in Italy. We are home!
+Guido, ຕາຂອງທ່ານບໍ່ຫຼອກລວງທ່ານ.
+ພວກເຮົາຢູ່ໃນອີຕາລີ. ພວກເຮົາຢູ່ເຮືອນ!
+
+638
+00:40:54,500 --> 00:40:57,300
+[FILLMORE]
+Hey, Luigi. Which way to the hotel, man?
+ເຮ້, ລູຈີ. ທາງໃດໄປໂຮງແຮມ, ຜູ້ຊາຍ?
+
+639
+00:40:57,800 --> 00:41:03,800
+[LUIGI]
+What? No friends of mine will stay in a hotel in my village. You will stay with my --- Uncle Topolino!
+ຫຍັງ? ບໍ່ມີເພື່ອນຂອງຂ້ອຍຈະຢູ່ໂຮງແຮມໃນບ້ານຂອງຂ້ອຍ
+. ເຈົ້າຈະຢູ່ກັບພໍ່ຕູ້ Topolino ຂອງຂ້ອຍ!
+
+640
+00:41:04,300 --> 00:41:10,300
+[SARGE]
+How do they do it? These are the same ingredients as back home, but it tastes so good. 72.
+ພວກເຂົາເຮັດມັນແນວໃດ? ນີ້ແມ່ນສ່ວນປະກອບດຽວກັນກັບບ້ານ
+, ແຕ່ມັນລົດຊາດດີຫຼາຍ. 72.
+
+641
+00:41:10,800 --> 00:41:12,800
+[FILLMORE]
+It's organic, man.
+ມັນເປັນຊີວະພາບ, ຜູ້ຊາຍ.
+
+642
+00:41:13,300 --> 00:41:15,300
+[SARGE]
+Tree hugger.
+ຜູ້ອ້ອມໄມ້.
+
+643
+00:41:15,800 --> 00:41:17,800
+[UNCLE TOPOLINO]
+Race car.
+ລົດແຂ່ງຂັນ.
+
+644
+00:41:18,300 --> 00:41:22,500
+[UNCLE TOPOLINO]
+You look so down, so low. Is like you have flat tires.
+ເຈົ້າເບິ່ງຢູ່ລຸ່ມຫຼາຍ, ຕໍ່າຫຼາຍ. ຄືກັບວ່າເຈົ້າມີລົດຖີບທີ່ສຽບ.
+
+645
+00:41:23,000 --> 00:41:29,000
+[UNCLE TOPOLINO]
+She said you look like you're starving. That she's going to make you a big meal, and fatten you up.
+ນາງເວົ້າວ່າເຈົ້າເບິ່ງຄືວ່າເຈົ້າ ກໍາ ລັງຍຶດຫິວ.
+ວ່ານາງຈະເຮັດອາຫານໃຫຍ່ໃຫ້ເຈົ້າ, ແລະເຮັດໃຫ້ເຈົ້າໄຂມັນຂຶ້ນ.
+
+646
+00:41:29,500 --> 00:41:33,350
+[MCQUEEN]
+No, Mama Topolino, please. You don't need to make a fuss!
+ບໍ່, ແມ່ Topolino, ກະລຸນາ. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງເຮັດໃຫ້ຄວາມວຸ້ນວາຍ!
+
+647
+00:41:33,850 --> 00:41:38,050
+[UNCLE TOPOLINO]
+Capisco. I understand. Is a problem, yes? Between you and a friend?
+ຄາປິສໂກ. ຂ້ອຍເຂົ້າໃຈ. ມັນເປັນບັນຫາບໍ
+, ແມ່ນບໍ? ລະຫວ່າງເຈົ້າແລະເພື່ອນ?
+
+648
+00:41:38,550 --> 00:41:40,550
+[MCQUEEN]
+How'd you know that?
+ເຈົ້າຮູ້ແນວໃດ?
+
+649
+00:41:41,050 --> 00:41:44,200
+[UNCLE TOPOLINO]
+A wise car hears one word and understands two.
+ລົດທີ່ສະຫຼາດໄດ້ຍິນຄໍາດຽວແລະເຂົ້າໃຈສອງ.
+
+650
+00:41:44,700 --> 00:41:49,950
+[UNCLE TOPOLINO]
+That, and Luigi told me. While Mama cooks, come and take a stroll with me.
+ນັ້ນ, ແລະລູຈີບອກຂ້ອຍ. ໃນຂະນະທີ່ແມ່ປຸງແຕ່ງອາຫານ, ມາຍ່າງກັບຂ້ອຍ.
+
+651
+00:41:50,450 --> 00:41:56,450
+[MCQUEEN]
+I brought my friend Mater along on the trip. And I told him he needed to act different, that we weren't in Radiator Springs.
+ຂ້ອຍເອົາເພື່ອນຂອງຂ້ອຍ Mater ໄປຮ່ວມໃນການເດີນທາງ.
+ແລະຂ້ອຍບອກລາວວ່າລາວຕ້ອງປະຕິບັດແບບແຕກຕ່າງກັນ, ວ່າພວກເຮົາບໍ່ໄດ້ຢູ່ໃນ Radiator Springs.
+
+652
+00:41:56,950 --> 00:41:59,050
+[UNCLE TOPOLINO]
+This Mater. He's a close friend?
+ແມ່ຄົນນີ້. ລາວເປັນເພື່ອນໃກ້ຊິດບໍ?
+
+653
+00:41:59,550 --> 00:42:01,550
+[MCQUEEN]
+He's my best friend.
+ລາວເປັນເພື່ອນທີ່ດີທີ່ສຸດຂອງຂ້ອຍ.
+
+654
+00:42:02,050 --> 00:42:05,550
+[UNCLE TOPOLINO]
+Then why would you ask him to be someone else?
+ຫຼັງຈາກນັ້ນເປັນຫຍັງເຈົ້າຈຶ່ງຂໍໃຫ້ລາວເປັນຄົນອື່ນ?
+
+655
+00:42:06,050 --> 00:42:09,900
+[MCQUEEN]
+What did I do? I said some things during our fight...
+ຂ້ອຍເຮັດຫຍັງ?
+ຂ້ອຍເວົ້າບາງສິ່ງບາງຢ່າງໃນລະຫວ່າງການຕໍ່ສູ້ຂອງພວກເຮົາ...
+
+656
+00:42:10,400 --> 00:42:16,350
+[UNCLE TOPOLINO]
+You know, back when Guido and Luigi used to work for me, they would fight over everything.
+ເຈົ້າຮູ້ແລ້ວ, ເມື່ອກູິໂດ ແລະ ລູຈີເຄີຍເຮັດວຽກ
+ສໍາ ລັບຂ້ອຍ, ພວກເຂົາຈະຕໍ່ສູ້ກ່ຽວກັບທຸກຢ່າງ.
+
+657
+00:42:16,850 --> 00:42:22,850
+[UNCLE TOPOLINO]
+They fight over what Ferrari was the best Ferrari; which one of them look more like a Ferrari... There were even some non-Ferrari fights.
+ພວກເຂົາຕໍ່ສູ້ກັນວ່າຟາຣາຣີແມ່ນຟາຣາຣີທີ່ດີທີ່ສຸດໃດ; ຫນຶ່ງ
+ໃນນັ້ນເບິ່ງຄືວ່າເປັນຟາຮາຣີຫຼາຍຂຶ້ນ... ມີການຕໍ່ສູ້ທີ່ບໍ່ແມ່ນຟາເຣຣີບາງຢ່າງ.
+
+658
+00:42:23,350 --> 00:42:29,350
+[UNCLE TOPOLINO]
+So I tell them, va bene. It's okay to fight. Everybody fights now and then, especially best friends.
+ສະນັ້ນຂ້ອຍບອກພວກເຂົາວ່າ, ດີແລ້ວ. ມັນບໍ່ເປັນຫຍັງທີ່ຈະຕໍ່ສູ້
+. ທຸກຄົນຕໍ່ສູ້ບາງຄັ້ງ, ໂດຍສະເພາະເພື່ອນທີ່ດີທີ່ສຸດ.
+
+659
+00:42:29,850 --> 00:42:31,950
+[UNCLE TOPOLINO]
+But you gotta make up fast.
+ແຕ່ເຈົ້າຕ້ອງແກ້ໄຂຢ່າງໄວວາ.
+
+660
+00:42:32,450 --> 00:42:34,900
+[UNCLE TOPOLINO]
+No fight more important than friendship. 74.
+ບໍ່ມີການຕໍ່ສູ້ທີ່ສໍາຄັນກວ່າຄວາມເປັນເພື່ອນມິດ. 74.
+
+661
+00:42:35,400 --> 00:42:37,500
+[UNCLE TOPOLINO]
+Chi trova un'amico, trova un tesoro.
+ໃຜພົບເພື່ອນ, ພົບຊັບສິນ.
+
+662
+00:42:38,000 --> 00:42:40,000
+[MCQUEEN]
+What does that mean?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ?
+
+663
+00:42:40,500 --> 00:42:42,950
+[MAMA TOPOLINO]
+Whoever find a friend, find a treasure.
+ໃຜທີ່ພົບເພື່ອນ, ຊອກຫາຊັບສິນ.
+
+664
+00:42:43,450 --> 00:42:45,450
+[MAMA TOPOLINO]
+Now, mangia! Eat!
+ດຽວນີ້, ແມນຈີຍ! ກິນ!
+
+665
+00:42:45,950 --> 00:42:48,050
+[STEPHENSON]
+Finn, one hour to Porto Corsa.
+ຟິນນ໌, ຫນຶ່ງ ຊົ່ວໂມງໄປປອດໂຕ ຄໍຊາ.
+
+666
+00:42:48,550 --> 00:42:50,550
+[FINN]
+Thank you, Stephenson.
+ຂອບໃຈ, ສຕິຟັນສັນ.
+
+667
+00:42:51,050 --> 00:42:53,150
+[HOLLEY]
+That should just about do it.
+ນັ້ນຄວນເຮັດໄດ້ແລ້ວ.
+
+668
+00:42:53,650 --> 00:42:55,650
+[FINN]
+Perfect.
+ດີເລີດ.
+
+669
+00:42:56,150 --> 00:43:00,700
+[HOLLEY]
+So Mater, it's voice-activated. But you know, everything's voice- activated these days. 75.
+ສະນັ້ນແມ່, ມັນຖືກເປີດໃຊ້ສຽງ. ແຕ່ເຈົ້າຮູ້ແລ້ວ,
+ທຸກສິ່ງທຸກຢ່າງແມ່ນສຽງ - ເປີດໃຊ້ໃນມື້ນີ້. 75.
+
+670
+00:43:01,200 --> 00:43:05,400
+[MATER]
+What? I thought you was supposed to be making me a disguise.
+ຫຍັງ? ຂ້ອຍຄິດວ່າເຈົ້າຄວນເຮັດເຄື່ອງນຸ່ງຫົ່ມຂ້ອຍ.
+
+671
+00:43:05,900 --> 00:43:07,900
+[MATER'S COMPUTER]
+Voice recognized. Disguise Program Initiated.
+ສຽງຖືກຮັບຮູ້. ໂຄງການແຕ່ງຕົວເລີ່ມຕົ້ນແລ້ວ.
+
+672
+00:43:08,400 --> 00:43:11,200
+[MATER]
+Cool! Hey, computer. Make me a German truck!
+ດີເລີດ! ເຮ້, ຄອມພິວເຕີ. ເຮັດລົດບັນທຸກເຢຍລະມັນໃຫ້ຂ້ອຍ!
+
+673
+00:43:11,700 --> 00:43:13,700
+[MATER'S COMPUTER]
+Request acknowledged.
+ຄໍາຮ້ອງຂໍຍອມຮັບ.
+
+674
+00:43:14,200 --> 00:43:18,050
+[MATER]
+Check it out. I'm wearing Materhosen. Make me a monster truck!
+ເບິ່ງມັນແມ. ຂ້ອຍໃສ່ Materhosen. ເຮັດໃຫ້ຂ້ອຍເປັນລົດບັນທຸກໂມສເຕີ!
+
+675
+00:43:18,550 --> 00:43:20,550
+[MATER'S COMPUTER]
+Request acknowledged.
+ຄໍາຮ້ອງຂໍຍອມຮັບ.
+
+676
+00:43:21,050 --> 00:43:25,250
+[MATER]
+I vant to siphon your gas. Now make me a taco truck!
+ຂ້ອຍບໍ່ຢາກສູບແກັສຂອງທ່ານ. ດຽວນີ້ເຮັດລົດບັນທຸກແທໂກໃຫ້ຂ້ອຍ!
+
+677
+00:43:25,750 --> 00:43:27,750
+[MATER'S COMPUTER]
+Request acknowledged.
+ຄໍາຮ້ອງຂໍຍອມຮັບ.
+
+678
+00:43:28,250 --> 00:43:30,250
+[MATER]
+A funny car!
+ລົດທີ່ມ່ວນຊື່ນ!
+
+679
+00:43:30,750 --> 00:43:32,750
+[MATER'S COMPUTER]
+Request acknowledged.
+ຄໍາຮ້ອງຂໍຍອມຮັບ.
+
+680
+00:43:33,250 --> 00:43:36,400
+[FINN]
+The idea is to keep a low profile, Mater.
+ຄວາມຄິດແມ່ນເພື່ອຮັກສາໂປຣໄຟລ໌ຕໍ່າ, ແມ່.
+
+681
+00:43:36,900 --> 00:43:40,400
+[MATER]
+So I just go in, pretend to be this truck.
+ສະນັ້ນຂ້ອຍຈຶ່ງເຂົ້າມາ, ປອມເປັນລົດບັນທຸກນີ້.
+
+682
+00:43:40,900 --> 00:43:43,000
+[FINN]
+And leave the rest to us.
+ແລະປ່ອຍສ່ວນທີ່ເຫຼືອໃຫ້ພວກເຮົາ.
+
+683
+00:43:43,500 --> 00:43:45,500
+[HOLLEY]
+Now hold still.
+ດຽວນີ້ຢືນຢັນໄວ້.
+
+684
+00:43:46,000 --> 00:43:49,500
+[HOLLEY]
+I have to do the final fitting on your disguise.
+ຂ້ອຍຕ້ອງເຮັດການຕິດຕັ້ງສຸດທ້າຍໃສ່ເຄື່ອງນຸ່ງຫົ່ມຂອງທ່ານ.
+
+685
+00:43:50,000 --> 00:43:52,000
+[HOLLEY]
+Oh dear. That's no good.
+ໂອ້ ແມ. ນັ້ນບໍ່ດີ.
+
+686
+00:43:52,500 --> 00:43:54,500
+[MATER]
+Hey, what are you doing?
+ເຮ້, ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+687
+00:43:55,000 --> 00:43:59,200
+[HOLLEY]
+The disguise won't calibrate effectively without a smooth surface to graft onto.
+ເຄື່ອງນຸ່ງຫົ່ມຈະບໍ່ແທກໄດ້ຢ່າງມີປະສິດທິຜົນໂດຍບໍ່ມີພື້ນຜິວທີ່ລຽບງ່າຍທີ່ຈະສີດໃສ່
+.
+
+688
+00:43:59,700 --> 00:44:04,600
+[MATER]
+Oh. For a second there I thought you was trying to fix my dents.
+ໂອ້. ຂ້ອຍຄິດວ່າເຈົ້າ ກໍາ ລັງພະຍາຍາມແກ້ໄຂຮູຂອງຂ້ອຍ.
+
+689
+00:44:05,100 --> 00:44:07,100
+[HOLLEY]
+I was.
+ຂ້ອຍເປັນ.
+
+690
+00:44:07,600 --> 00:44:13,600
+[MATER]
+Well then no thank you. I don't get them dents buffed, pulled, filled or painted by nobody. They're way too valuable.
+ດີແລ້ວບໍ່ຂອບໃຈ. ຂ້ອຍບໍ່ເຮັດໃຫ້ຮູຮານນັ້ນຖືກປັ່ນປ່ວນ,
+ດຶງ, ເຕັມຫຼືແຕ້ມໂດຍບໍ່ມີໃຜ. ພວກມັນມີຄຸນຄ່າຫຼາຍເກີນໄປ.
+
+691
+00:44:14,100 --> 00:44:16,100
+[HOLLEY]
+Your dents are valuable?
+ກະດູກຂອງເຈົ້າມີຄຸນຄ່າບໍ?
+
+692
+00:44:16,600 --> 00:44:21,500
+[MATER]
+I come by each one of them with my best friend Lightning McQueen. 77.
+ຂ້ອຍມາຫາແຕ່ລະຄົນດ້ວຍເພື່ອນທີ່ດີທີ່ສຸດຂອງຂ້ອຍແສງສະຫວ່າງແມັກຄວິນ
+. 77.
+
+693
+00:44:22,000 --> 00:44:25,850
+[MATER]
+I don't fix these. I want to remember these dents forever.
+ຂ້ອຍບໍ່ໄດ້ສ້ອມແປງສິ່ງເຫຼົ່ານີ້.
+ຂ້ອຍຢາກຈື່ຄວາມແຕກເຫຼົ່ານີ້ຕະຫຼອດໄປ.
+
+694
+00:44:26,350 --> 00:44:31,250
+[HOLLEY]
+So you were being serious in Paris? McQueen isn't just part of your cover?
+ສະນັ້ນເຈົ້າ ກໍາ ລັງເວົ້າຈິງໃຈໃນປາຣີບໍ?
+ແມັກຄວິນບໍ່ແມ່ນພຽງແຕ່ສ່ວນ ຫນຶ່ງ ຂອງການປົກຄຸມຂອງທ່ານບໍ?
+
+695
+00:44:31,750 --> 00:44:35,250
+[FINN]
+Friendships can be dangerous in our line of work, Mater.
+ຄວາມເປັນເພື່ອນມິດສາມາດເປັນອັນຕະລາຍໃນສາຍການເຮັດວຽກຂອງພວກເຮົາ, ແມ່.
+
+696
+00:44:35,750 --> 00:44:38,900
+[MATER]
+But my line of work is towing and salvage.
+ແຕ່ສາຍການເຮັດວຽກຂອງຂ້ອຍແມ່ນການດຶງແລະຊ່ວຍເຫຼືອ.
+
+697
+00:44:39,400 --> 00:44:42,200
+[FINN]
+Right. And Miss Shiftwell's is designing iPhone apps.
+ແມ່ນແລ້ວ. ແລະນາງ Shiftwell ກໍາ ລັງອອກແບບແອັບພລິເຄຊັນ iPhone.
+
+698
+00:44:42,700 --> 00:44:45,150
+[MATER]
+No, I meant for real. I ---
+ບໍ່, ຂ້ອຍຫມາຍຄວາມວ່າແທ້ໆ. ຂ້ອຍ ---
+
+699
+00:44:45,650 --> 00:44:49,150
+[HOLLEY]
+It's okay. Say no more. I'll work around the dent.
+ມັນບໍ່ເປັນຫຍັງ. ຢ່າເວົ້າອີກຕໍ່ໄປ.
+ຂ້ອຍຈະເຮັດວຽກຢູ່ອ້ອມແອ້ມຮ່ອງຮອຍ.
+
+700
+00:44:49,650 --> 00:44:51,650
+[FINN]
+In the meantime...
+ໃນຂະນະດຽວກັນ...
+
+701
+00:44:52,150 --> 00:44:54,600
+[FINN]
+You look a little light on weapons.
+ເຈົ້າເບິ່ງຄືວ່າເບົາບາງກ່ຽວກັບອາວຸດ.
+
+702
+00:44:55,100 --> 00:45:01,100
+[BRENT MUSTANGBURGER]
+You are looking live at beautiful Porto Corsa, Italy, on the Italian Riviera. What a magnificent setting for the second race of the World Grand Prix.
+ເຈົ້າ ກໍາ ລັງເບິ່ງສົດໃສໃນໂປຣໂຕ ຄໍຊາທີ່ສວຍງາມ, ອີຕາລີ, ຢູ່ເທິງ Riviera ອີຕາລິຍ
+. ສະຖານທີ່ທີ່ຍິ່ງໃຫຍ່ຫຼາຍປານໃດ ສໍາ ລັບການແຂ່ງຂັນຄັ້ງທີສອງຂອງລາງວັນໃຫຍ່ໂລກ.
+
+703
+00:45:01,600 --> 00:45:07,550
+[DAVID HOBBSCAP]
+Well Brent, they call this place "The Gem of the Riviera," and it's easy to see why.
+ດີແບຣນຕ໌, ພວກເຂົາເອີ້ນບ່ອນນີ້ວ່າ"ເພັດຂອງ
+Riviera ໄດ້," ແລະມັນງ່າຍທີ່ຈະເຫັນເຫດຜົນ.
+
+704
+00:45:08,050 --> 00:45:13,650
+[DAVID HOBBSCAP]
+With its secluded beaches and opulent casinos, Porto Corsa truly is a playground for the wealthy.
+ດ້ວຍຫາດຊາຍທີ່ໂດດດ່ຽວແລະຄາສິໂນທີ່ຫຼູຫຼາ, Porto
+Corsa ແມ່ນສະຫນາມຫຼິ້ນສໍາລັບຄົນຮັ່ງມີແທ້ໆ.
+
+705
+00:45:14,150 --> 00:45:16,600
+[DAVID HOBBSCAP]
+And everyone who's anyone is here today.
+ແລະທຸກຄົນທີ່ເປັນໃຜກໍຢູ່ບ່ອນນີ້ມື້ນີ້.
+
+706
+00:45:17,100 --> 00:45:21,300
+[DAVID HOBBSCAP]
+From the ultra-rich and super- famous, to world leaders and important dignitaries.
+ຈາກຜູ້ຮັ່ງມີຫຼາຍແລະ super- ທີ່ມີຊື່ສຽງ,
+ເຖິງຜູ້ນໍາໂລກແລະຜູ້ມີກຽດຕິຍົດທີ່ສໍາຄັນ.
+
+707
+00:45:21,800 --> 00:45:27,750
+[DARRELL CARTRIP]
+You aren't kidding, David. You can't do a three-point turn around here without bumping into some celebrity!
+ເຈົ້າບໍ່ໄດ້ຢອກຊື່ໆ, ເດວິດ.
+ເຈົ້າບໍ່ສາມາດເຮັດການຫັນສາມຈຸດຢູ່ບ່ອນນີ້ໂດຍບໍ່ຕ້ອງພົບກັບຄົນທີ່ມີຊື່ສຽງບາງຄົນ!
+
+708
+00:45:28,250 --> 00:45:32,800
+[BRENT MUSTANGBURGER]
+Welcome everyone to the second race of the World Grand Prix! CUT TO:
+ຍິນດີຕ້ອນຮັບທຸກຄົນໃນການແຂ່ງຂັນຄັ້ງທີສອງຂອງລາງວັນໃຫຍ່ໂລກ! ຕັດອອກ:
+
+709
+00:45:33,300 --> 00:45:39,300
+[BRENT MUSTANGBURGER]
+The big news continues to be Allinol. Sir Miles Axlerod spoke to the press earlier today to answer questions about its safety.
+ຂ່າວໃຫຍ່ຍັງສືບຕໍ່ເປັນອາລິນອອນ. ທ້າວ ໄມລ໌ສ໌ ແຊລເລຣອດ
+ໄດ້ເວົ້າກັບນັກຂ່າວໃນຕອນເຊົ້າມື້ນີ້ເພື່ອຕອບ ຄໍາ ຖາມກ່ຽວກັບຄວາມປອດໄພຂອງມັນ.
+
+710
+00:45:39,800 --> 00:45:45,750
+[MILES AXLEROD]
+An independent panel of scientists has determined that Allinol is completely safe. Okay? Safe! There it is.
+ຄະນະກໍາມະການອິດສະຫຼະຂອງນັກວິທະຍາສາດໄດ້ຕັດສິນໃຈວ່າ
+ອາລິນອອນປອດໄພຢ່າງສົມບູນ. ດີບໍ? ປອດໄພ! ມັນຢູ່ບ່ອນນັ້ນ.
+
+711
+00:45:46,250 --> 00:45:48,700
+[BRENT MUSTANGBURGER]
+So the race will go on, folks.
+ສະນັ້ນການແຂ່ງຂັນຈະສືບຕໍ່ຕໍ່ໄປ, ພວກຄົນ.
+
+712
+00:45:49,200 --> 00:45:54,100
+[DARRELL CARTRIP]
+But the question everyone is asking: Will the real Lightning McQueen show up today?
+ແຕ່ຄໍາຖາມທີ່ທຸກຄົນ ກໍາ ລັງຖາມວ່າ:
+ແສງສະຫວ່າງແມັກຄວິນທີ່ແທ້ຈິງຈະປາກົດຕົວໃນມື້ນີ້ບໍ?
+
+713
+00:45:54,600 --> 00:46:00,550
+[BRENT MUSTANGBURGER]
+Well, he better. Talk about a home- track advantage. Francesco Bernoulli grew up racing on this course.
+ດີ, ລາວດີກວ່າ. ເວົ້າກ່ຽວກັບຂໍ້ດີທາງບ້ານ. ຟຣານເຊສໂກ
+ເບຣນູລີເຕີບໃຫຍ່ຂຶ້ນໃນການແຂ່ງຂັນໃນຫຼັກສູດນີ້.
+
+714
+00:46:01,050 --> 00:46:04,900
+[FRANCESCO]
+Bellissima! Thank you for your support. And your big mistake, McQueen!
+Bellissima! ຂອບໃຈ ສໍາ ລັບການສະຫນັບສະຫນູນຂອງທ່ານ
+. ແລະຄວາມຜິດພາດໃຫຍ່ຂອງທ່ານ, ແມັກຄວິນ!
+
+715
+00:46:05,400 --> 00:46:07,400
+[LUIGI]
+McQueen? Is everything okay?
+ແມັກຄວິນ? ທຸກຢ່າງດີບໍ?
+
+716
+00:46:07,900 --> 00:46:11,750
+[FILLMORE]
+If you're worried about your fuel, man, don't. It's perfectly safe.
+ຖ້າເຈົ້າກັງວົນກ່ຽວກັບເຊື້ອໄຟຂອງທ່ານ,
+ຜູ້ຊາຍ, ຢ່າເຮັດ. ມັນປອດໄພຢ່າງສົມບູນ.
+
+717
+00:46:12,250 --> 00:46:15,400
+[MCQUEEN]
+No, guys, I just really wish Mater were here.
+ບໍ່, ພວກຜູ້ຊາຍ, ຂ້ອຍພຽງແຕ່ຢາກໃຫ້ແມ່ຢູ່ບ່ອນນີ້ແທ້ໆ.
+
+718
+00:46:15,900 --> 00:46:17,900
+[FRANCESCO]
+Francesco understands, McQueen.
+ແຟຣນເຊສໂກເຂົ້າໃຈ, ແມັກຄວິນ.
+
+719
+00:46:18,400 --> 00:46:21,550
+[MCQUEEN]
+Oh, great. Here it comes. What've you got, Francesco?
+ໂອ້, ດີເລີດ. ມາແລ້ວ. ເຈົ້າມີຫຍັງ, ຟຣານເຊສໂກ?
+
+720
+00:46:22,050 --> 00:46:28,050
+[FRANCESCO]
+For famous race cars like Francesco and well... you, to be far away from home is not easy.
+ສໍາລັບລົດແຂ່ງຂັນທີ່ມີຊື່ສຽງເຊັ່ນຟຣານເຊສໂກ ແລະ ດີ.
+.. ເຈົ້າ, ການຢູ່ຫ່າງຈາກເຮືອນບໍ່ແມ່ນເລື່ອງງ່າຍດາຍ.
+
+721
+00:46:28,550 --> 00:46:32,050
+[MCQUEEN]
+I think you forgot the insulting part of that insult.
+ຂ້ອຍຄິດວ່າເຈົ້າລືມພາກສ່ວນທີ່ໂຊກຮ້າຍຂອງໂສກຮ້າຍນັ້ນ.
+
+722
+00:46:32,550 --> 00:46:38,550
+[FRANCESCO]
+Is no insult. When Francesco is away from home, he misses his mama just like you miss your tow truck amico.
+ມັນບໍ່ແມ່ນການໂຊກຮ້າຍ. ເມື່ອຟຣານເຊສໂກຢູ່ຫ່າງຈາກເຮືອນ
+, ລາວຂາດແມ່ຂອງລາວຄືກັບທີ່ທ່ານຂາດເພື່ອນລົດຖີບຂອງທ່ານ.
+
+723
+00:46:39,050 --> 00:46:42,900
+[MCQUEEN]
+Gee, I maybe misjudged you, because that's exactly how I ---
+ໂອ້, ຂ້ອຍອາດຈະຕັດສິນໃຈເຈົ້າຜິດ, ເພາະວ່ານັ້ນແມ່ນວິທີທີ່ຂ້ອຍ ---
+
+724
+00:46:43,400 --> 00:46:47,600
+[FRANCESCO]
+Of course, I am at home. And my mama is right here.
+ແນ່ນອນ, ຂ້ອຍຢູ່ເຮືອນ. ແລະແມ່ຂອງຂ້ອຍຢູ່ບ່ອນນີ້.
+
+725
+00:46:48,100 --> 00:46:50,100
+[FRANCESCO]
+Mama! Don't worry, Mama! 81.
+ແມ່! ຢ່າກັງວົນ, ແມ່! 81.
+
+726
+00:46:50,600 --> 00:46:54,450
+[FRANCESCO]
+McQueen is very sad! I will beat his cry-baby bottom today!
+ແມັກຄວິນໂຊກຮ້າຍຫຼາຍ!
+ຂ້ອຍຈະເອົາຊະນະລຸ່ມເດັກນ້ອຍທີ່ຮ້ອງໄຫ້ຂອງລາວມື້ນີ້!
+
+727
+00:46:54,950 --> 00:46:57,750
+[MCQUEEN]
+And there's the insult we were missing. Grazie!
+ແລະມີການໂຊກຮ້າຍທີ່ພວກເຮົາຂາດ. ຂອບໃຈ!
+
+728
+00:46:58,250 --> 00:47:02,800
+[ALEXANDER HUGO]
+Gremlins. Man, those are some ugly cars. Look like someone stole their trunks.
+ແກຣມລິນ. ຜູ້ຊາຍ, ນັ້ນແມ່ນລົດທີ່ໂຊກຮ້າຍບາງຢ່າງ
+. ເບິ່ງຄືວ່າມີຄົນລັກຖົງຂອງເຂົາເຈົ້າ.
+
+729
+00:47:03,300 --> 00:47:05,300
+[HOLLEY]
+Scusatemi, tutti! Signori!
+ຂໍໂທດຂ້ອຍ, ທຸກຄົນ! ເຈົ້າ!
+
+730
+00:47:05,800 --> 00:47:11,800
+[HOLLEY]
+Mio nonno, my grandfather, has broken down. If one of you would help I would be so thankful.
+ພໍ່ເຖົ້າຂອງຂ້ອຍ, ແມ່ເຖົ່າຂອງຂ້ອຍ, ໄດ້ແຕກແຍກລົງ
+. ຖ້າຄົນຫນຶ່ງໃນເຈົ້າຈະຊ່ວຍຂ້ອຍຈະຂອບໃຈຫຼາຍ.
+
+731
+00:47:12,300 --> 00:47:14,750
+[IVAN THE TOW TRUCK]
+Sounds like you need some "roadside assistance".
+ມັນເບິ່ງຄືວ່າເຈົ້າຕ້ອງການ"ການຊ່ວຍເຫຼືອທາງ".
+
+732
+00:47:15,250 --> 00:47:17,700
+[ANOTHER HUGO]
+She was talking to me, Ivan. 82.
+ນາງ ກໍາ ລັງເວົ້າກັບຂ້ອຍ, ອີວານ. 82.
+
+733
+00:47:18,200 --> 00:47:20,200
+[IVAN THE TOW TRUCK]
+Oh really? Prove it.
+ໂອ້ ແທ້ບໍ? ພິສູດມັນ.
+
+734
+00:47:20,700 --> 00:47:22,800
+[HOLLEY]
+No, no, don't fight over me.
+ບໍ່, ບໍ່, ຢ່າຕໍ່ສູ້ເພື່ອຂ້ອຍ.
+
+735
+00:47:23,300 --> 00:47:25,750
+[HOLLEY]
+Signore Tow Truck, per favore? CUT TO:
+ທ່ານລົດຂົນສົ່ງ, ກະລຸນາ? ຕັດອອກ:
+
+736
+00:47:26,250 --> 00:47:28,250
+[FINN]
+Get ready, Mater. CUT TO:
+ກຽມພ້ອມ, ແມ່. ຕັດອອກ:
+
+737
+00:47:28,750 --> 00:47:30,750
+[FINN]
+You're on any moment now.
+ເຈົ້າຢູ່ໃນເວລາໃດກໍ່ຕາມດຽວນີ້.
+
+738
+00:47:31,250 --> 00:47:35,100
+[CUT BACK TO:]
+MATER, now looking a bit nervous. He backs out of sight.
+ແມ່, ດຽວນີ້ເບິ່ງຄືວ່າກັງວົນເລັກນ້ອຍ. ລາວກັບຄືນໄປບ່ອນຈາກສາຍຕາ.
+
+739
+00:47:35,600 --> 00:47:39,800
+[MATER]
+I don't know about this, Finn. What if I screw things up?
+ຂ້ອຍບໍ່ຮູ້ເລື່ອງນີ້, ຟິນນ໌. ຖ້າຂ້ອຍເຮັດໃຫ້ສິ່ງຕ່າງໆຜິດພາດແນວໃດ?
+
+740
+00:47:40,300 --> 00:47:46,300
+[FINN]
+Impossible. Just apply the same level of dedication you've been using to play the "idiot tow truck" and you'll be fine.
+ບໍ່ເປັນໄປໄດ້. ພຽງແຕ່ໃຊ້ລະດັບຄວາມອຸທິດຕົນດຽວກັນທີ່ທ່ານ
+ກໍາ ລັງໃຊ້ເພື່ອຫຼິ້ນ"ລົດຂົນສົ່ງຄົນໂງ່" ແລະເຈົ້າຈະດີດີ.
+
+741
+00:47:46,800 --> 00:47:52,800
+[MATER]
+It's just that them guys look pretty tough and --- Wait, did you say "idiot"? Is that how you see me?
+ມັນພຽງແຕ່ວ່າພວກຜູ້ຊາຍນັ້ນເບິ່ງຄືວ່າແຂງແຮງຫຼາຍແລະ --- ລໍຖ້າ
+, ເຈົ້າເວົ້າວ່າ"ຄົນໂງ່ບໍ? ນັ້ນແມ່ນວິທີທີ່ທ່ານເຫັນຂ້ອຍບໍ?
+
+742
+00:47:53,300 --> 00:47:59,300
+[FINN]
+That's how everyone sees you. Isn't that the idea? I tell you, that's the genius of it. No one realizes they're being fooled because they're too busy laughing at the fool. Brilliant.
+ນັ້ນແມ່ນວິທີທີ່ທຸກຄົນເຫັນເຈົ້າ. ນັ້ນບໍ່ແມ່ນຄວາມຄິດບໍ? ຂ້ອຍບອກເຈົ້າ, ນັ້ນແມ່ນວິລະຊົນຂອງມັນ.
+ບໍ່ມີໃຜຮູ້ວ່າພວກເຂົາຖືກຫຼອກລວງເພາະວ່າພວກເຂົາມີວຽກຫຼາຍເກີນໄປໃນການມ່ວນຊື່ນກັບຄົນໂງ່. ສວຍງາມ.
+
+743
+00:47:59,800 --> 00:48:01,800
+[HOLLEY]
+Why aren't you in disguise?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ໄດ້ໃສ່ຊຸດ?
+
+744
+00:48:02,300 --> 00:48:04,300
+[MATER]
+I, uh---
+ຂ້ອຍ, ອູ...
+
+745
+00:48:04,800 --> 00:48:06,900
+[HOLLEY]
+Come on, there's no time. Go!
+ມາແລ້ວ, ບໍ່ມີເວລາ. ໄປ!
+
+746
+00:48:07,400 --> 00:48:09,400
+[MATER]
+Okay, okay. Computer: disguise.
+ດີ, ດີ. ຄອມພິວເຕີ: ການແຕ່ງຕົວ.
+
+747
+00:48:09,900 --> 00:48:11,900
+[MATER'S COMPUTER]
+Request acknowledged.
+ຄໍາຮ້ອງຂໍຍອມຮັບ.
+
+748
+00:48:12,400 --> 00:48:14,500
+[ALEXANDER HUGO]
+It's the boss! He is coming!
+ມັນເປັນຫົວຫນ້າ! ລາວ ກໍາ ລັງມາ!
+
+749
+00:48:15,000 --> 00:48:17,000
+[VICTOR HUGO]
+Ivan!
+ອີວານ!
+
+750
+00:48:17,500 --> 00:48:21,350
+[VICTOR HUGO]
+Ivan, why do you insult me so by making me wait?
+ອີວານ, ເປັນຫຍັງເຈົ້າຈຶ່ງໂຊກຮ້າຍຂ້ອຍຢ່າງນັ້ນໂດຍເຮັດໃຫ້ຂ້ອຍລໍຖ້າ?
+
+751
+00:48:21,850 --> 00:48:23,850
+[HOLLEY]
+He's in.
+ລາວເຂົ້າແລ້ວ.
+
+752
+00:48:24,350 --> 00:48:30,350
+[BRENT MUSTANGBURGER]
+The racers are now making their way around the hairpin, and headed downhill toward the casino bridge. 84.
+ພວກນັກແຂ່ງຂັນດຽວນີ້ ກໍາ ລັງເດີນທາງໄປອ້ອມແອ້ມກະດານຜົມ
+, ແລະໄປລົງໄປທາງຂົວຄາສິໂນ. 84.
+
+753
+00:48:30,850 --> 00:48:32,850
+[CIGARETTE GIRL CAR]
+Air Freshener, antenna balls, sparkplugs...
+ເຄື່ອງເຮັດຄວາມສົດໃສອາກາດ, ບານແອນເຕັນ, ກະດານໄຟ...
+
+754
+00:48:33,350 --> 00:48:36,850
+[MATER]
+Wow, this place looks like it's made out of gold.
+ໂວ້, ບ່ອນນີ້ເບິ່ງຄືວ່າມັນເຮັດດ້ວຍຄໍາ.
+
+755
+00:48:37,350 --> 00:48:41,200
+[HOLLEY]
+That's because it is, Mater. Now, be careful what you say.
+ນັ້ນແມ່ນຍ້ອນວ່າມັນເປັນ, ແມ່. ດຽວນີ້, ລະມັດລະວັງສິ່ງທີ່ເຈົ້າເວົ້າ.
+
+756
+00:48:41,700 --> 00:48:47,700
+[MATER]
+Why is that? What do you mean don't talk to you?  So you want me to stop talking to you. Right now?
+ນັ້ນເປັນຫຍັງ? ເຈົ້າຫມາຍຄວາມວ່າບໍ່ເວົ້າກັບເຈົ້າແນວໃດ?
+ສະນັ້ນເຈົ້າຢາກໃຫ້ຂ້ອຍຢຸດເວົ້າກັບເຈົ້ານີ້. ດຽວນີ້ບໍ?
+
+757
+00:48:48,200 --> 00:48:50,300
+[ALEXANDER HUGO]
+You are acting strange today, Ivan.
+ເຈົ້າ ກໍາ ລັງປະຕິບັດແບບແປກໃຈມື້ນີ້, ອີວານ.
+
+758
+00:48:50,800 --> 00:48:53,600
+[MATER]
+I have no idea what you're talking about...
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ...
+
+759
+00:48:54,100 --> 00:48:56,200
+[MATER]
+...Alexander Hugo, aka "Chop Shop Alex."
+ແອເລັກຊານເດີ ຮູໂກ້, ເອີ້ນວ່າ"ຮ້ານຂາຍເຄື່ອງແອເລກສ໌."
+
+760
+00:48:56,700 --> 00:49:02,700
+[MATER]
+Hey, you got a lot of aka's, Alex. But I guess that makes sense seeings how you's wanted in France, Germany, the Czech Republic...
+ເຮ້, ເຈົ້າມີອາຄາຫຼາຍຄົນ, ແອເລັກສ໌. ແຕ່ຂ້ອຍຄິດວ່າມັນມີຄວາມ ຫມາຍ
+ເຫັນວ່າເຈົ້າຕ້ອງການແນວໃດໃນປະເທດຝຣັ່ງ, ເຢຍລະມັນ, ສາທາລະນະລັດເຊັກ...
+
+761
+00:49:03,200 --> 00:49:05,200
+[HOLLEY]
+(cutting in to his
+(ຕັດເຂົ້າໄປໃນຂອງລາວ
+
+762
+00:49:05,700 --> 00:49:07,700
+[DISPLAY)]
+Mater! Stop it!
+ແມ່! ຢຸດຢັ້ງ!
+
+763
+00:49:08,200 --> 00:49:14,200
+[ALEXANDER HUGO]
+Okay, okay. Keep your voice down. You're gonna make me arrested.  Don't mess with Ivan today. He's in a bad mood.
+ດີແລ້ວ, ດີແລ້ວ. ຮັກສາສຽງຂອງທ່ານຕໍ່າລົງ. ເຈົ້າຈະເຮັດໃຫ້ຂ້ອຍຖືກຈັບກຸມ
+. ຢ່າໂຊກຮ້າຍກັບອີວານມື້ນີ້. ລາວຢູ່ໃນອາລົມທີ່ບໍ່ດີ.
+
+764
+00:49:14,700 --> 00:49:16,700
+[FINN]
+He's so good.
+ລາວດີຫຼາຍ.
+
+765
+00:49:17,200 --> 00:49:19,200
+[VLADIMIR TRUNKOV]
+Victor!
+ວິກເຕີ!
+
+766
+00:49:19,700 --> 00:49:21,700
+[TUBBS PACER]
+Hey, Victor!
+ເຮ້, ວິກເຕີ!
+
+767
+00:49:22,200 --> 00:49:24,200
+[J. CURBY GREMLIN]
+There you are.
+ເຈົ້າຢູ່ແລ້ວ.
+
+768
+00:49:24,700 --> 00:49:26,700
+[VLADIMIR TRUNKOV]
+Come in, come in.
+ເຂົ້າມາ, ເຂົ້າມາ.
+
+769
+00:49:27,200 --> 00:49:33,150
+[J. CURBY GREMLIN]
+Victor Hugo. I'm J. Curby Gremlin, from Detroit. It's good to see you. Now we can start.
+ວິກເຕີ ຮູໂກ. ຂ້ອຍແມ່ນຈີ ຄູເບີ ແກຣມລິນ, ຈາກດິຕຣອຍ.
+ດີໃຈທີ່ເຫັນເຈົ້າ. ດຽວນີ້ພວກເຮົາສາມາດເລີ່ມຕົ້ນໄດ້.
+
+770
+00:49:33,650 --> 00:49:36,100
+[VICTOR HUGO]
+Is the big boss here yet? 86.
+ຫົວຫນ້າໃຫຍ່ມາແລ້ວບໍ? 86.
+
+771
+00:49:36,600 --> 00:49:38,600
+[VLADIMIR TRUNKOV]
+No, not yet.
+ບໍ່, ຍັງບໍ່ທັນ.
+
+772
+00:49:39,100 --> 00:49:41,550
+[TUBBS PACER]
+He's supposed to be here any minute.
+ລາວຄວນຈະມາຮອດທຸກນາທີ.
+
+773
+00:49:42,050 --> 00:49:44,050
+[FINN]
+Here we go.
+ມາແລ້ວ.
+
+774
+00:49:44,550 --> 00:49:46,550
+[PROFESSOR ZUNDAPP]
+Guten Tag!
+ກູຕັນ ແທກ!
+
+775
+00:49:47,050 --> 00:49:49,050
+[TUBBS PACER]
+It's just the Professor.
+ມັນພຽງແຕ່ອາຈານເທົ່ານັ້ນ.
+
+776
+00:49:49,550 --> 00:49:51,550
+[VICTOR HUGO]
+Zundapp, when is he coming?
+ຊູນດາບ, ລາວຈະມາເມື່ອໃດ?
+
+777
+00:49:52,050 --> 00:49:54,050
+[PROFESSOR ZUNDAPP]
+He's already here.
+ລາວຢູ່ບ່ອນນີ້ແລ້ວ.
+
+778
+00:49:54,550 --> 00:49:56,550
+[VOICE]
+Welcome, everyone.
+ຍິນດີຕ້ອນຮັບທຸກຄົນ.
+
+779
+00:49:57,050 --> 00:50:03,050
+[ENGINE VOICE]
+I wish I could be with you on this very special day but... my clutch assembly broke. You know how it is.
+ຂ້ອຍຢາກໄດ້ຢູ່ກັບເຈົ້າໃນມື້ພິເສດນີ້ແຕ່... ກອງປະຊຸມ
+clutch ຂອງຂ້ອຍແຕກ. ເຈົ້າຮູ້ວ່າມັນເປັນແນວໃດ.
+
+780
+00:50:03,550 --> 00:50:05,550
+[TUBBS PACER]
+Been there.
+ເຄີຍຢູ່ບ່ອນນັ້ນແລ້ວ.
+
+781
+00:50:06,050 --> 00:50:08,050
+[J. CURBY GREMLIN]
+Forget about it.
+ລືມມັນໄປ.
+
+782
+00:50:08,550 --> 00:50:10,550
+[VLADIMIR TRUNKOV]
+We know how you feel.
+ພວກເຮົາຮູ້ວ່າເຈົ້າຮູ້ສຶກແນວໃດ.
+
+783
+00:50:11,050 --> 00:50:13,050
+[FINN]
+Descramble that voice!
+ເປີດສຽງນັ້ນອອກ!
+
+784
+00:50:13,550 --> 00:50:15,550
+[HOLLEY]
+I'm trying... It's too sophisticated!
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມ... ມັນມີຄວາມສົມບູນແບບເກີນໄປ!
+
+785
+00:50:16,050 --> 00:50:22,050
+[ENGINE VOICE]
+We are here to celebrate. Today all your hard work pays off. The world turned their backs on cars like us. They stopped manufacturing us, stopped making our parts. The only thing they haven't stopped doing is laughing at us. They've called us terrible names...
+ພວກເຮົາຢູ່ບ່ອນນີ້ເພື່ອສະເຫຼີມສະຫຼອງ. ມື້ນີ້ການເຮັດວຽກ ຫນັກ ຂອງທ່ານທັງ ຫມົດ ໄດ້ຜົນຕອບແທນ. ໂລກໄດ້ຫັນຫຼັງກັບລົດເຊັ່ນພວກເຮົາ. ພວກເຂົາຢຸດການຜະລິດພວກເຮົາ
+, ຢຸດການຜະລິດສ່ວນຂອງພວກເຮົາ. ສິ່ງດຽວທີ່ພວກເຂົາບໍ່ໄດ້ຢຸດການເຮັດແມ່ນມ່ວນຊື່ນກັບພວກເຮົາ. ພວກເຂົາມາເອີ້ນພວກເຮົາຊື່ທີ່ຮ້າຍແຮງ...
+
+786
+00:50:22,550 --> 00:50:24,550
+[ENGINE VOICE]
+Jalopy. Rustbucket.
+ຈາໂລປີ້. ກະຕູ້ຮູສຕ໌.
+
+787
+00:50:25,050 --> 00:50:27,050
+[ENGINE VOICE]
+Heap. Clunker.
+ກະດານ. ຄລັນເກີ.
+
+788
+00:50:27,550 --> 00:50:29,550
+[ENGINE VOICE]
+Junker, beater, wreck.
+ຄົນຂີ້ເຫຍື້ອ, ຜູ້ຕີ, ອຸບັດຕິເຫດ.
+
+789
+00:50:30,050 --> 00:50:32,050
+[ENGINE VOICE]
+Rattletrap.
+ແຄບແຄບ.
+
+790
+00:50:32,550 --> 00:50:36,750
+[ENGINE VOICE]
+Lemon. But their insults just give us strength. Because today, my friends...
+ເລມອນ. ແຕ່ການໂຊກຮ້າຍຂອງພວກເຂົາພຽງແຕ່ເຮັດໃຫ້ພວກເຮົາມີຄວາມເຂັ້ມແຂງ
+. ເພາະວ່າມື້ນີ້, ເພື່ອນຂອງຂ້ອຍ...
+
+791
+00:50:37,250 --> 00:50:39,250
+[ENGINE VOICE]
+...that all ends.
+... ວ່າທຸກຢ່າງສິ້ນສຸດລົງ.
+
+792
+00:50:39,750 --> 00:50:41,850
+[DARRELL CARTRIP]
+There's smoke! On the casino bridge!
+ມີສູບ! ຢູ່ເທິງຂົວຄາສິໂນ!
+
+793
+00:50:42,350 --> 00:50:44,350
+[DAVID HOBBSCAP]
+Oh no.
+ໂອ້ ບໍ່.
+
+794
+00:50:44,850 --> 00:50:47,300
+[BRENT MUSTANGBURGER]
+It's Carla Veloso, the Brazilian race car.
+ມັນເປັນຄາລາ ເວໂລໂຊ, ລົດແຂ່ງຂັນບຣາຊິນ.
+
+795
+00:50:47,800 --> 00:50:49,800
+[FINN]
+What just happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+796
+00:50:50,300 --> 00:50:52,300
+[HOLLEY]
+I'm working on it.
+ຂ້ອຍ ກໍາ ລັງເຮັດວຽກຢູ່.
+
+797
+00:50:52,800 --> 00:50:57,000
+[ENGINE VOICE]
+They laughed at us. But now it's our turn to laugh back.
+ພວກເຂົາມ່ວນກັບພວກເຮົາ.
+ແຕ່ດຽວນີ້ມັນເປັນເວລາຂອງພວກເຮົາທີ່ຈະມ່ວນຊື່ນຄືນ.
+
+798
+00:50:57,500 --> 00:50:59,950
+[DAVID HOBBSCAP]
+Another crash! It's number nine, Nigel Gearsley.
+ການຕົກລົງອີກຄັ້ງ! ມັນແມ່ນອັນດັບເກົ້າ, ໄນຈີລ ແກຣສລີ.
+
+799
+00:51:00,450 --> 00:51:03,250
+[ENGINE VOICE]
+Embrace your inner lemon! Let it drive you!
+ອ້ອມແອ້ມລີມອນພາຍໃນຂອງທ່ານ! ໃຫ້ມັນຂັບຂີ່ທ່ານ!
+
+800
+00:51:03,750 --> 00:51:05,750
+[FINN]
+Holley?
+ໂຮລີ?
+
+801
+00:51:06,250 --> 00:51:08,700
+[HOLLEY]
+I'm detecting an extremely strong electromagnetic pulse.
+ຂ້ອຍ ກໍາ ລັງກວດພົບກະດານໄຟຟ້າແມ່ເຫຼັກທີ່ແຂງແຮງຫຼາຍ.
+
+802
+00:51:09,200 --> 00:51:11,200
+[HOLLEY]
+Finn, it's the camera!
+ຟິນນ໌, ມັນແມ່ນກ້ອງຖ່າຍຮູບ!
+
+803
+00:51:11,700 --> 00:51:13,700
+[FINN]
+Where?
+ຢູ່ໃສ?
+
+804
+00:51:14,200 --> 00:51:16,200
+[HOLLEY]
+On the tower.
+ຢູ່ເທິງຫໍ.
+
+805
+00:51:16,700 --> 00:51:19,850
+[ENGINE VOICE]
+This was meant to be alternative fuel's greatest moment.
+ນີ້ແມ່ນຈຸດປະສົງທີ່ຈະເປັນຊ່ວງເວລາທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດຂອງເຊື້ອໄຟທາງເລືອກ
+.
+
+806
+00:51:20,350 --> 00:51:23,150
+[ENGINE VOICE]
+After today everyone will race back to gasoline.
+ຫຼັງຈາກມື້ນີ້ທຸກຄົນຈະແລ່ນກັບຄືນໄປບ່ອນເບນຊິນ.
+
+807
+00:51:23,650 --> 00:51:29,650
+[ENGINE VOICE]
+And we, the owners of the world's largest untapped oil reserve, will become the most powerful cars in the world!
+ແລະພວກເຮົາ, ເຈົ້າຂອງຊັບພະຍາກອນນ້ ໍາ ມັນທີ່ໃຫຍ່ທີ່ສຸດໃນໂລກທີ່ຍັງບໍ່ຖືກ
+ນໍາ ໃຊ້, ຈະກາຍເປັນລົດທີ່ມີພະລັງທີ່ສຸດໃນທົ່ວໂລກ!
+
+808
+00:51:30,150 --> 00:51:32,250
+[FINN]
+Get out of the way! Andate!
+ອອກຈາກທາງ! Andate!
+
+809
+00:51:32,750 --> 00:51:38,350
+[ENGINE VOICE]
+They will come to us and they will have no choice, `cause they will need us.
+ພວກເຂົາຈະມາຫາພວກເຮົາແລະພວກເຂົາຈະບໍ່ມີທາງເລືອກ
+, ` ເພາະວ່າພວກເຂົາຈະຕ້ອງການພວກເຮົາ.
+
+810
+00:51:38,850 --> 00:51:40,950
+[ACER]
+We figured you might stop by.
+ພວກເຮົາຄິດວ່າເຈົ້າອາດຈະມາ.
+
+811
+00:51:41,450 --> 00:51:47,450
+[ENGINE VOICE]
+And they will finally respect us. So hold your hoods high. After today you will never again be ashamed of who you are!
+ແລະພວກເຂົາຈະເຄົາລົບພວກເຮົາໃນທີ່ສຸດ. ສະນັ້ນຖືກະເປົາຂອງທ່ານສູງ
+. ຫຼັງຈາກມື້ນີ້ທ່ານຈະບໍ່ໂຊກຮ້າຍອີກເທື່ອຫນຶ່ງວ່າເຈົ້າເປັນໃຜ!
+
+812
+00:51:47,950 --> 00:51:49,950
+[FINN]
+No!
+ບໍ່!
+
+813
+00:51:50,450 --> 00:51:52,450
+[ENGINE VOICE]
+Long live Lemons! 91.
+ຊີວິດຍາວນານ ເລມອນ! 91.
+
+814
+00:51:52,950 --> 00:51:55,050
+[BRENT MUSTANGBURGER]
+Number seven is loose! Shu Todoroki!
+ເລກທີເຈັດຖືກປ່ອຍອອກມາ! ຊູ ໂຕໂດໂຣກີ!
+
+815
+00:51:55,550 --> 00:51:57,550
+[HOLLEY]
+Finn.
+ຟິນນໍ
+
+816
+00:51:58,050 --> 00:52:01,200
+[BRENT MUSTANGBURGER]
+Bumper to bumper as they approach the finish line.
+Bumper ກັບ bumper ໃນຂະນະທີ່ພວກເຂົາໃກ້ກັບເສັ້ນສິ້ນສຸດ.
+
+817
+00:52:01,700 --> 00:52:06,600
+[BRENT MUSTANGBURGER]
+McQueen's the winner, Francesco's second. And they have no idea what happened behind them.
+ແມັກຄວິນເປັນຜູ້ຊະນະ, ແຟຣນເຊສໂກເປັນຄົນທີສອງ.
+ແລະພວກເຂົາບໍ່ມີຄວາມຄິດວ່າເກີດຫຍັງຂຶ້ນຢູ່ເບື້ອງຫຼັງພວກເຂົາ.
+
+818
+00:52:07,100 --> 00:52:09,100
+[MCQUEEN]
+Yeah!
+ແມ່ນແລ້ວ!
+
+819
+00:52:09,600 --> 00:52:11,600
+[FRANCESCO]
+Dah! This is impossible!
+ດ່າ! ນີ້ແມ່ນບໍ່ສາມາດເຮັດໄດ້!
+
+820
+00:52:12,100 --> 00:52:16,650
+[MCQUEEN]
+That's what I'm talking about. Kachow! Hey, where are all the other cars?
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງເວົ້າກ່ຽວກັບ
+. ຄາໂກ! ເຮ້, ລົດອື່ນໆທັງ ຫມົດ ຢູ່ໃສ?
+
+821
+00:52:17,150 --> 00:52:19,150
+[FRANCESCO]
+What is going on?
+ເກີດຫຍັງຂຶ້ນ?
+
+822
+00:52:19,650 --> 00:52:21,650
+[MCQUEEN]
+Oh no. CUT TO:
+ໂອ້ ບໍ່. ຕັດອອກ:
+
+823
+00:52:22,150 --> 00:52:26,700
+[BRENT MUSTANGBURGER]
+Sir Axlerod! Is the final race in London still going to take place?
+ທ້າວແຊລເລຣອດ! ການແຂ່ງຂັນສຸດທ້າຍໃນລອນດອນຍັງຈະຈັດຂຶ້ນບໍ?
+
+824
+00:52:27,200 --> 00:52:33,200
+[MILES AXLEROD]
+I suppose that... Look, "the show must go on" as they say. But now is not the time to talk about...
+ຂ້ອຍຄິດວ່າ... ເບິ່ງ,"ລາຍການຕ້ອງສືບຕໍ່" ດັ່ງທີ່ພວກເຂົາເວົ້າ
+. ແຕ່ດຽວນີ້ບໍ່ແມ່ນເວລາທີ່ຈະເວົ້າກ່ຽວກັບ...
+
+825
+00:52:33,700 --> 00:52:36,150
+[J. CURBY GREMLIN]
+I can't believe this is really happening.
+ຂ້ອຍບໍ່ເຊື່ອວ່າສິ່ງນີ້ ກໍາ ລັງເກີດຂຶ້ນແທ້ໆ.
+
+826
+00:52:36,650 --> 00:52:38,650
+[VLADIMIR TRUNKOV]
+Shh, quiet!
+ສະບາຍດີ, ງຽບ!
+
+827
+00:52:39,150 --> 00:52:43,700
+[BRENT MUSTANGBURGER]
+And Allinol? Will you require all the racers to still run on Allinol?
+ແລະອາລິນອອນບໍ? ເຈົ້າຈະຮຽກຮ້ອງໃຫ້ນັກແຂ່ງຂັນທັງ
+ຫມົດ ຍັງແລ່ນດ້ວຍອາລີນອອນຢູ່ບໍ?
+
+828
+00:52:44,200 --> 00:52:46,200
+[VLADIMIR TRUNKOV]
+Here it comes.
+ມັນມາແລ້ວ.
+
+829
+00:52:46,700 --> 00:52:52,700
+[MILES AXLEROD]
+I cannot in good conscience continue to risk the lives of any more race cars. The final race will not be run on Allinol.
+ຂ້ອຍບໍ່ສາມາດສືບຕໍ່ສ່ຽງຊີວິດຂອງລົດແຂ່ງຂັນອີກຕໍ່ໄປດ້ວຍຈິດໃຈທີ່ດີໄດ້
+. ການແຂ່ງຂັນສຸດທ້າຍຈະບໍ່ແລ່ນດ້ວຍອາລິນອອນ.
+
+830
+00:52:53,200 --> 00:52:59,200
+[BRENT MUSTANGBURGER]
+There you have it. A clearly devastated Sir Miles Axlerod announcing that he will not require the cars to use Allinol for the final race. 93.
+ເຈົ້າມີມັນຢູ່ບ່ອນນັ້ນ. ທ້າວແມລສ໌
+ອາຊເລຣອດທີ່ຖືກທໍາລາຍຢ່າງຈະແຈ້ງປະກາດວ່າລາວຈະບໍ່ຕ້ອງການລົດໃຫ້ໃຊ້ອາລິນອອນ ສໍາ ລັບການແຂ່ງຂັນສຸດທ້າຍ. 93.
+
+831
+00:52:59,700 --> 00:53:03,550
+[PROFESSOR ZUNDAPP]
+A toast! To the death of Allinol and alternative fuel forever!
+ການດື່ມ! ຕໍ່ຄວາມຕາຍຂອງອາລິນອອນແລະເຊື້ອໄຟທາງເລືອກຕະຫຼອດໄປ!
+
+832
+00:53:04,050 --> 00:53:10,000
+[HOLLEY]
+Mater. Abort the mission. They've got Finn. Get out of there. Get out of there right now!
+ແມ່. ຍົກເລີກພາລະກິດ. ພວກເຂົາມີຟິນນ໌.
+ອອກຈາກບ່ອນນັ້ນ. ອອກມາຈາກບ່ອນນັ້ນທັນທີ!
+
+833
+00:53:10,500 --> 00:53:12,500
+[IVAN THE TOW TRUCK]
+How is your grandfather?
+ພໍ່ເຖົ້າເຈົ້າເປັນແນວໃດ?
+
+834
+00:53:13,000 --> 00:53:15,100
+[ALEXANDER HUGO]
+Isn't this a great party, Ivan?
+ນີ້ແມ່ນງານລ້ຽງທີ່ຍິ່ງໃຫຍ່ບໍ, ອີວານ?
+
+835
+00:53:15,600 --> 00:53:17,600
+[MATER]
+Oh yeah, it's unbelievable.
+ໂອ້ ແມ່ນແລ້ວ, ມັນບໍ່ເຊື່ອໄດ້.
+
+836
+00:53:18,100 --> 00:53:20,200
+[ALEXANDER HUGO]
+You are not leaving, are you?
+ເຈົ້າຈະບໍ່ອອກໄປ, ແມ່ນບໍ?
+
+837
+00:53:20,700 --> 00:53:22,800
+[MATER]
+Uh, of course I ain't leavin'.
+ໂອ້, ແນ່ນອນວ່າຂ້ອຍຈະບໍ່ອອກຈາກ.
+
+838
+00:53:23,300 --> 00:53:25,400
+[MCQUEEN]
+I'm just in shock like everybody...
+ຂ້ອຍພຽງແຕ່ຕົກໃຈຄືກັບທຸກຄົນ...
+
+839
+00:53:25,900 --> 00:53:27,900
+[MATER]
+McQueen?
+ແມັກຄວິນ?
+
+840
+00:53:28,400 --> 00:53:33,650
+[MCQUEEN]
+Crashes are part of racing, I know. But something like that shouldn't ever happen. 94.
+ຂ້ອຍຮູ້ແລ້ວວ່າອຸບັດຕິເຫດແມ່ນສ່ວນ ຫນຶ່ງ ຂອງການແຂ່ງຂັນ
+. ແຕ່ບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນບໍ່ຄວນເກີດຂຶ້ນເລີຍ. 94.
+
+841
+00:53:34,150 --> 00:53:40,150
+[DARRELL CARTRIP]
+They're letting you choose your fuel for the final race. Do you have any idea what it's going to be?
+ພວກເຂົາ ກໍາ ລັງປ່ອຍໃຫ້ເຈົ້າເລືອກນໍ້າມັນເຊື້ອໄຟຂອງທ່ານ
+ສໍາ ລັບການແຂ່ງຂັນສຸດທ້າຍ. ເຈົ້າຮູ້ວ່າມັນຈະເປັນຫຍັງບໍ?
+
+842
+00:53:40,650 --> 00:53:42,650
+[MCQUEEN]
+Allinol.
+ແອລລິນອອນ.
+
+843
+00:53:43,150 --> 00:53:46,650
+[LEMONHEADS]
+- What?! - Did he just say Allinol? After today?
+- ຫຍັງ?! - ລາວຫາກໍ່ເວົ້າວ່າອາລິນອອນບໍ? ຫຼັງຈາກມື້ນີ້ບໍ?
+
+844
+00:53:47,150 --> 00:53:53,150
+[MCQUEEN]
+My friend Fillmore says the fuel's safe. That's good enough for me. I didn't stand by a friend of mine recently. I'm not gonna make the same mistake twice.
+ເພື່ອນຂອງຂ້ອຍຟິລມໍເວົ້າວ່ານໍ້າມັນເຊື້ອໄຟປອດໄພ. ນັ້ນພຽງພໍ ສໍາ ລັບຂ້ອຍ.
+ຂ້ອຍບໍ່ໄດ້ຢືນຢູ່ຂ້າງເພື່ອນຂອງຂ້ອຍເມື່ອບໍ່ດົນມານີ້. ຂ້ອຍຈະບໍ່ເຮັດຄວາມຜິດພາດດຽວກັນສອງຄັ້ງ.
+
+845
+00:53:53,650 --> 00:53:56,100
+[BRENT MUSTANGBURGER]
+So a surprising revelation from Lightning McQueen...
+ສະນັ້ນການເປີດເຜີຍທີ່ແປກໃຈຈາກແສງສະຫວ່າງແມັກຄວິນ...
+
+846
+00:53:56,600 --> 00:53:58,600
+[PROFESSOR ZUNDAPP]
+Yes, sir. Of course.
+ແມ່ນແລ້ວເດີ. ແນ່ນອນ.
+
+847
+00:53:59,100 --> 00:54:05,050
+[PROFESSOR ZUNDAPP]
+Allinol must be finished for good. McQueen cannot win the last race. Lightning McQueen must be killed.
+ແອລລິນອອນຕ້ອງສິ້ນສຸດລົງຢ່າງດີ. ແມັກຄວິນບໍ່ສາມາດຊະນະການແຂ່ງຂັນສຸດທ້າຍໄດ້
+. ແສງສະຫວ່າງແມັກກວິນຕ້ອງຖືກຂ້າຕາຍ.
+
+848
+00:54:05,550 --> 00:54:07,550
+[MATER]
+No!
+ບໍ່!
+
+849
+00:54:08,050 --> 00:54:10,050
+[PROFESSOR ZUNDAPP]
+It's the American spy! 95.
+ມັນເປັນນັກສືບອາເມລິກາ! 95.
+
+850
+00:54:10,550 --> 00:54:12,550
+[MATER]
+Dadgum.
+ພໍ່ແມ່.
+
+851
+00:54:13,050 --> 00:54:15,050
+[MATER'S COMPUTER]
+"Gatling gun" request acknowledged.
+ຄໍາຮ້ອງຂໍ"ປືນກັດລິງ" ຖືກຍອມຮັບ.
+
+852
+00:54:15,550 --> 00:54:17,550
+[MATER]
+Shoot. I didn't mean ---
+ຍິງ. ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າ ---
+
+853
+00:54:18,050 --> 00:54:20,050
+[MATER'S COMPUTER]
+Request acknowledged.
+ຄໍາຮ້ອງຂໍຍອມຮັບ.
+
+854
+00:54:20,550 --> 00:54:22,550
+[VLADIMIR TRUNKOV]
+Get down!
+ຫຼຸດລົງ!
+
+855
+00:54:23,050 --> 00:54:25,050
+[MATER]
+Whoa!!
+ໂວ້!!
+
+856
+00:54:25,550 --> 00:54:28,700
+[MATER]
+Wait wait! I didn't mean that kind of shoot!
+ລໍຖ້າລໍຖ້າ! ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າການຍິງແບບນັ້ນ!
+
+857
+00:54:29,200 --> 00:54:31,200
+[MATER'S COMPUTER]
+Correction acknowledged. Deploying chute.
+ການແກ້ໄຂຖືກຍອມຮັບ. ການຈັດຕັ້ງຖິ້ມ.
+
+858
+00:54:31,700 --> 00:54:33,700
+[MATER]
+McQueen!
+ແມັກຄວິນ!
+
+859
+00:54:34,200 --> 00:54:36,200
+[ITALIAN MOTORBOAT]
+Aspetti!
+ລໍຖ້າ!
+
+860
+00:54:36,700 --> 00:54:38,700
+[MATER]
+Lemme through! Lemme through!
+ໃຫ້ຜ່ານໄປ! ໃຫ້ຜ່ານມາ!
+
+861
+00:54:39,200 --> 00:54:43,400
+[MATER]
+You gotta let me in! I gotta get through to warn McQueen!
+ເຈົ້າຕ້ອງປ່ອຍຂ້ອຍເຂົ້າມາ! ຂ້ອຍຕ້ອງຜ່ານໄປເຕືອນແມັກຄວິນ!
+
+862
+00:54:43,900 --> 00:54:46,700
+[ITALIAN SECURITY #1]
+You cannot come through here. Back up, signore.
+ເຈົ້າບໍ່ສາມາດຜ່ານບ່ອນນີ້ໄດ້. ກັບຄືນໄປບ່ອນເດີເດີເດີ.
+
+863
+00:54:47,200 --> 00:54:49,650
+[ITALIAN SECURITY #2]
+We have a lunatic at Gate Nove.
+ພວກເຮົາມີຄົນໂຊກຮ້າຍຢູ່ປະຕູໃຫມ່.
+
+864
+00:54:50,150 --> 00:54:56,150
+[MATER]
+No, listen! I was disguised as a tow truck to infiltrate this Lemonhead meeting and my weapons system misinterperated what I was
+ບໍ່, ຟັງ! ຂ້ອຍຖືກແຕ່ງຕົວເປັນລົດຖີບເພື່ອເຂົ້າໄປໃນກອງປະຊຸມ
+Lemonhead ນີ້ແລະລະບົບອາວຸດຂອງຂ້ອຍໄດ້ລົບກວນສິ່ງທີ່ຂ້ອຍເປັນ
+
+865
+00:54:56,650 --> 00:54:58,750
+[ITALIAN SECURITY #2]
+I repeat. Lunatic at Gate Nove.
+ຂ້ອຍຊໍ້າອີກ. ຄົນໂຊກຮ້າຍຢູ່ປະຕູໃຫມ່.
+
+866
+00:54:59,250 --> 00:55:01,250
+[MATER]
+McQueen! McQueen!
+ແມັກກວິນ! ແມັກຄວີນ!
+
+867
+00:55:01,750 --> 00:55:03,750
+[PRESS LIAISON]
+Right this way, signore. 97.
+ທາງນີ້ເດີເດີເດີ. 97.
+
+868
+00:55:04,250 --> 00:55:06,250
+[MATER]
+McQueen!
+ແມັກຄວິນ!
+
+869
+00:55:06,750 --> 00:55:08,750
+[MCQUEEN]
+Mater?
+ແມ່?
+
+870
+00:55:09,250 --> 00:55:11,250
+[MATER]
+McQueen!
+ແມັກຄວິນ!
+
+871
+00:55:11,750 --> 00:55:13,850
+[ITALIAN SECURITY #1]
+Back up, sir. Stop moving! Stop!
+ກັບຄືນໄປບ່ອນເດີ. ຢຸດການເຄື່ອນຍ້າຍ! ຢຸດ!
+
+872
+00:55:14,350 --> 00:55:16,350
+[ITALIAN SECURITY #1]
+Oy! Stop! Ferma li!
+ໂອ້! ຢຸດເຊົາ! ຟາມາລີ!
+
+873
+00:55:16,850 --> 00:55:18,850
+[MATER]
+McQueen!
+ແມັກຄວິນ!
+
+874
+00:55:19,350 --> 00:55:21,450
+[MCQUEEN]
+That really sounded like Mater. Mater?
+ມັນສຽງຄືກັບແມ່ແທ້ໆ. ແມ່?
+
+875
+00:55:21,950 --> 00:55:23,950
+[PRESS LIAISON]
+Signore...
+ເຈົ້າ...
+
+876
+00:55:24,450 --> 00:55:26,450
+[MATER]
+McQueen, they're gonna kill you!!
+ແມັກຄວິນ, ພວກເຂົາຈະຂ້າເຈົ້າ!!
+
+877
+00:55:26,950 --> 00:55:28,950
+[MCQUEEN]
+Mater?!
+ແມ່ບໍ?
+
+878
+00:55:29,450 --> 00:55:31,450
+[MCQUEEN]
+Excuse me.
+ຂໍໂທດເດີ.
+
+879
+00:55:31,950 --> 00:55:35,100
+[PRESS LIAISON]
+No, no, where are you going? Please, Mr. McQueen!
+ບໍ່, ບໍ່, ເຈົ້າໄປໃສ? ກະລຸນາ, ທ້າວແມັກຄວິນ!
+
+880
+00:55:35,600 --> 00:55:37,600
+[MCQUEEN]
+Scusi. Mater! Scusi...
+ຂໍໂທດ. ແມ່! ຂໍໂທດ...
+
+881
+00:55:38,100 --> 00:55:41,950
+[MCQUEEN]
+Mater, I'm so glad to see you. I'm so sorr ---
+ແມ່, ຂ້ອຍດີໃຈຫຼາຍທີ່ເຫັນເຈົ້າ. ຂ້ອຍຂໍໂທດຫຼາຍ ---
+
+882
+00:55:42,450 --> 00:55:44,900
+[IVAN THE TOW TRUCK]
+Lightning McQueen! I am a huge fan.
+ແສງສະຫວ່າງແມັກຄວິນ! ຂ້ອຍເປັນແຟນໃຫຍ່.
+
+883
+00:55:45,400 --> 00:55:47,850
+[MCQUEEN]
+Oh, I'm sorry. I thought I heard---
+ໂອ້, ຂ້ອຍຂໍໂທດ. ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ຍິນ---
+
+884
+00:55:48,350 --> 00:55:53,600
+[IVAN THE TOW TRUCK]
+Yes, but that was me. I said, "You killed out there today." You're the best.
+ແມ່ນແລ້ວ, ແຕ່ມັນແມ່ນຂ້ອຍ. ຂ້ອຍເວົ້າວ່າ
+,"ເຈົ້າໄດ້ຂ້າຢູ່ບ່ອນນັ້ນມື້ນີ້." ເຈົ້າດີທີ່ສຸດ.
+
+885
+00:55:54,100 --> 00:55:56,100
+[MCQUEEN]
+What? Oh. I mean, thanks.
+ຫຍັງ? ໂອ້. ຂ້ອຍຫມາຍຄວາມວ່າ, ຂອບໃຈ.
+
+886
+00:55:56,600 --> 00:55:58,600
+[PRESS LIAISON]
+Right this way, signore ---
+ທາງນີ້, ທ້າວ ---
+
+887
+00:55:59,100 --> 00:56:01,550
+[MCQUEEN]
+I really thought I heard my friend.
+ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ຍິນເພື່ອນຂອງຂ້ອຍ.
+
+888
+00:56:02,050 --> 00:56:05,200
+[IVAN THE TOW TRUCK]
+In England you'll be finished. At the finish line.
+ໃນອັງກິດເຈົ້າຈະສິ້ນສຸດລົງ. ຢູ່ເສັ້ນສຸດທ້າຍ.
+
+889
+00:56:05,700 --> 00:56:07,700
+[MCQUEEN]
+Wait, what?
+ລໍຖ້າ, ຫຍັງ?
+
+890
+00:56:08,200 --> 00:56:12,050
+[PRESS LIAISON]
+Please, the world press is waiting. You come with me, please.
+ກະລຸນາ, ສື່ມວນຊົນໂລກ ກໍາ ລັງລໍຖ້າ. ເຈົ້າມາພ້ອມກັບຂ້ອຍ, ກະລຸນານໍາ.
+
+891
+00:56:12,550 --> 00:56:14,550
+[MATER]
+Let me go!
+ໃຫ້ຂ້ອຍໄປ!
+
+892
+00:56:15,050 --> 00:56:20,300
+[PROFESSOR ZUNDAPP]
+You actually care about that race car. A pity you didn't warn him in time.
+ເຈົ້າສົນໃຈລົດແຂ່ງຂັນນັ້ນແທ້ໆ.
+ໂຊກຮ້າຍທີ່ເຈົ້າບໍ່ໄດ້ເຕືອນລາວໃນເວລາ.
+
+893
+00:56:20,800 --> 00:56:23,250
+[MATER]
+Idiot? Is that how you see me?
+ເຈົ້າເຫັນຂ້ອຍແບບນັ້ນບໍ?
+
+894
+00:56:23,750 --> 00:56:28,300
+[FINN]
+That's how everyone sees you. I tell you, that's the genius of it.
+ນັ້ນແມ່ນວິທີທີ່ທຸກຄົນເຫັນເຈົ້າ.
+ຂ້ອຍບອກເຈົ້າວ່າ, ນັ້ນແມ່ນວິລະຊົນຂອງມັນ.
+
+895
+00:56:28,800 --> 00:56:33,700
+[FINN]
+No one realizes they're being fooled because they're too busy laughing at the fool.
+ບໍ່ມີໃຜຮູ້ວ່າພວກເຂົາຖືກຫຼອກລວງເພາະວ່າພວກເຂົາມີວຽກເຮັດງານທໍາຫຼາຍເກີນໄປໃນການມ່ວນຊື່ນກັບຄົນໂງ່
+.
+
+896
+00:56:34,200 --> 00:56:36,200
+[MATER]
+Domo arigato!
+Domo arigato!
+
+897
+00:56:36,700 --> 00:56:39,500
+[MATER]
+You done good! You got all the leaves!
+ເຈົ້າເຮັດໄດ້ດີ! ເຈົ້າມີໃບທັງ ຫມົດ!
+
+898
+00:56:40,000 --> 00:56:42,000
+[JEFF GORVETTE]
+Check out that tow truck.
+ເບິ່ງລົດດຶງນັ້ນແມ.
+
+899
+00:56:42,500 --> 00:56:44,600
+[LEWIS HAMILTON]
+I wonder who that guy's with?
+ຂ້ອຍຢາກຮູ້ວ່າຄົນນັ້ນຢູ່ກັບໃຜ?
+
+900
+00:56:45,100 --> 00:56:48,600
+[MCQUEEN]
+Will you guys excuse me just for one little second?
+ພວກເຈົ້າຂໍໂທດຂ້ອຍພຽງແຕ່ ຫນຶ່ງ ວິນາທີນ້ອຍໆບໍ?
+
+901
+00:56:49,100 --> 00:56:51,550
+[MATER]
+Now that's a scoop of ice cream!
+ດຽວນີ້ນັ້ນແມ່ນກະຕ່ານ້ ໍາ ກ້ອນ!
+
+902
+00:56:52,050 --> 00:56:54,050
+[MCQUEEN]
+Mater?! 101.
+ແມ່?! 101.
+
+903
+00:56:54,550 --> 00:56:56,550
+[MATER]
+I never leak oil. Never.
+ຂ້ອຍບໍ່ເຄີຍຮົ່ວໄຫລນ້ ໍາ ມັນເລີຍ. ບໍ່ເຄີຍ.
+
+904
+00:56:57,050 --> 00:57:01,600
+[MCQUEEN]
+Mater, you have to get a hold of yourself. You're making a scene!
+ແມ່, ເຈົ້າຕ້ອງຄວບຄຸມຕົວເອງ. ເຈົ້າ ກໍາ ລັງເຮັດເວທີ!
+
+905
+00:57:02,100 --> 00:57:05,600
+[MATER]
+Wait a minute. I didn't screw you up, did I?
+ລໍຖ້າດົນຫນຶ່ງ. ຂ້ອຍບໍ່ໄດ້ເຮັດໃຫ້ເຈົ້າຜິດພາດ, ແມ່ນບໍ?
+
+906
+00:57:06,100 --> 00:57:08,550
+[MCQUEEN]
+I lost the race because of you!
+ຂ້ອຍໄດ້ສູນເສຍການແຂ່ງຂັນຍ້ອນເຈົ້າ!
+
+907
+00:57:09,050 --> 00:57:11,500
+[MATER]
+Maybe if I talked to somebody, or---
+ບາງທີຖ້າຂ້ອຍເວົ້າກັບໃຜ, ຫຼື---
+
+908
+00:57:12,000 --> 00:57:15,500
+[MCQUEEN]
+I don't need your help. I don't want your help!
+ຂ້ອຍບໍ່ຕ້ອງການຄວາມຊ່ວຍເຫລືອຂອງທ່ານ
+. ຂ້ອຍບໍ່ຢາກຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ!
+
+909
+00:57:16,000 --> 00:57:18,100
+[MATER]
+Bang a gong, get it on!
+ກະດານໂກນ, ເອົາມັນໃສ່!
+
+910
+00:57:18,600 --> 00:57:24,600
+[GONNNNNNG!!! ---]
+On the PARTYGOERS, RACE CARS, PARTY STAFF - they're all laughing at Mater as McQueen's final words blend in, making a
+ໃນຜູ້ເຂົ້າຮ່ວມງານ, ລົດແຂ່ງຂັນ, ພະນັກງານງານລ້ຽງ - ພວກເຂົາທຸກຄົນ ກໍາ
+ລັງມ່ວນຊື່ນກັບແມ່ໃນຂະນະທີ່ ຄໍາ ເວົ້າສຸດທ້າຍຂອງແມັກຄວິນປະສົມປະສານກັນ, ເຮັດໃຫ້ເປັນ
+
+911
+00:57:25,100 --> 00:57:31,050
+[MCQUEEN]
+Listen, this isn't Radiator Springs. This is exactly why I don't bring you along to these things!
+ຟັງ, ນີ້ແມ່ນບໍ່ແມ່ນ Radiator Springs.
+ນີ້ແມ່ນເຫດຜົນທີ່ຂ້ອຍບໍ່ພາເຈົ້າໄປກັບສິ່ງເຫຼົ່ານີ້!
+
+912
+00:57:31,550 --> 00:57:37,500
+[CLOCKWORK.]
+HOLLEY and FINN are here too, strapped bumper to bumper in the divots of large clock movements.
+ໂຮລີ ແລະ ຟິນນ໌ຍັງຢູ່ບ່ອນນີ້ເຊັ່ນກັນ,
+ສາຍແອວແບມເປີຕໍ່ແບັມເປີໃນສ່ວນແບ່ງຂອງການເຄື່ອນໄຫວໂມງໃຫຍ່.
+
+913
+00:57:38,000 --> 00:57:40,000
+[MATER]
+Holley! Finn! Where are we?
+ໂຮລີ! ຟິນນ໌! ພວກເຮົາຢູ່ໃສ?
+
+914
+00:57:40,500 --> 00:57:42,950
+[FINN]
+We're in London, Mater. Inside Big Bentley.
+ພວກເຮົາຢູ່ໃນລອນດອນ, ແມ່. ພາຍໃນບັງຕເລຍໃຫຍ່.
+
+915
+00:57:43,450 --> 00:57:45,450
+[MATER]
+Woaaaah! ---
+ໂວອາ! ---
+
+916
+00:57:45,950 --> 00:57:48,050
+[MATER]
+This... this is all my fault.
+ນີ້ແມ່ນ... ນີ້ແມ່ນຄວາມຜິດຂອງຂ້ອຍທັງ ຫມົດ.
+
+917
+00:57:48,550 --> 00:57:50,550
+[FINN]
+Don't be a fool, Mater.
+ຢ່າເປັນຄົນໂງ່, ແມ່.
+
+918
+00:57:51,050 --> 00:57:53,500
+[MATER]
+But I am, remember? You said so.
+ແຕ່ຂ້ອຍເປັນ, ຈື່ບໍ? ເຈົ້າເວົ້າດັ່ງນັ້ນ.
+
+919
+00:57:54,000 --> 00:57:59,600
+[FINN]
+When did I... Oh. Mater, I was complimenting you on what a good spy you are.
+ຂ້ອຍເຮັດເມື່ອໃດ... ໂອ້. ແມ່, ຂ້ອຍ ກໍາ
+ລັງຊົມເຊີຍເຈົ້າວ່າເຈົ້າເປັນນັກສືບທີ່ດີຫຼາຍປານໃດ.
+
+920
+00:58:00,100 --> 00:58:02,100
+[MATER]
+I'm not a spy!
+ຂ້ອຍບໍ່ແມ່ນນັກສືບ!
+
+921
+00:58:02,600 --> 00:58:08,550
+[MATER]
+I've been trying to tell you that the whole time. I really am just a tow truck.
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມບອກເຈົ້າວ່າຕະຫຼອດເວລາ
+. ຂ້ອຍພຽງແຕ່ເປັນລົດຂົນສົ່ງເທົ່ານັ້ນ.
+
+922
+00:58:09,050 --> 00:58:11,050
+[HOLLEY]
+Finn, he's not joking.
+ຟິນນ໌, ລາວບໍ່ໄດ້ໂຊກຮ້າຍ.
+
+923
+00:58:11,550 --> 00:58:13,550
+[FINN]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+924
+00:58:14,050 --> 00:58:20,050
+[MATER]
+You were right, Finn. I'm a fool. And what's happened to McQueen is `cause I'm such a big one. This is all my fault.
+ເຈົ້າເວົ້າຖືກຕ້ອງ, ຟິນນ໌. ຂ້ອຍເປັນຄົນໂງ່. ແລະສິ່ງທີ່ເກີດຂຶ້ນກັບແມັກຄວິນແມ່ນ
+` ເພາະວ່າຂ້ອຍເປັນຄົນໃຫຍ່ຫຼາຍ. ນີ້ແມ່ນຄວາມຜິດຂອງຂ້ອຍທັງ ຫມົດ.
+
+925
+00:58:20,550 --> 00:58:22,550
+[GREM]
+Good, you're up!
+ດີ, ເຈົ້າຂຶ້ນແລ້ວ!
+
+926
+00:58:23,050 --> 00:58:25,050
+[ACER]
+And just in time!
+ແລະທັນເວລາ!
+
+927
+00:58:25,550 --> 00:58:31,150
+[GREM]
+Professor Z wanted you to have a front row seat for the death of Lightning McQueen.
+ສາດສະດາຈານ Z ຢາກໃຫ້ເຈົ້າມີບ່ອນນັ່ງແຖວຫນ້າ
+ສໍາ ລັບການຕາຍຂອງແສງສະຫວ່າງແມັກຄວິນ.
+
+928
+00:58:31,650 --> 00:58:33,650
+[MATER]
+He's still alive?
+ລາວຍັງມີຊີວິດຢູ່ບໍ?
+
+929
+00:58:34,150 --> 00:58:36,150
+[ACER]
+Not for much longer.
+ບໍ່ເປັນເວລາດົນນານອີກ.
+
+930
+00:58:36,650 --> 00:58:39,450
+[SALLY]
+We came as soon as you called. 104.
+ພວກເຮົາມາທັນທີທີ່ທ່ານໂທ. 104.
+
+931
+00:58:39,950 --> 00:58:45,550
+[MCQUEEN]
+I called to talk to Mater. It never occurred to me that he wouldn't be there.
+ຂ້ອຍໂທຫາເພື່ອເວົ້າກັບແມ່.
+ມັນບໍ່ເຄີຍຄິດກັບຂ້ອຍວ່າລາວຈະບໍ່ຢູ່ບ່ອນນັ້ນ.
+
+932
+00:58:46,050 --> 00:58:48,850
+[RAMONE]
+Sheriff is talking to Scotland Yard right now.
+ເຈົ້າຫນ້າທີ່ ກໍາ ລັງເວົ້າກັບ Scotland Yard ໃນເວລານີ້.
+
+933
+00:58:49,350 --> 00:58:53,550
+[FLO]
+And Sarge is in touch with his friends in the British military.
+ແລະ ພົນຈັດຕະວາແມ່ນຕິດຕໍ່ພົວພັນກັບເພື່ອນຂອງລາວໃນກອງທັບອັງກິດ.
+
+934
+00:58:54,050 --> 00:58:56,850
+[SALLY]
+You just need to focus on the race.
+ເຈົ້າພຽງແຕ່ຕ້ອງສຸມໃສ່ການແຂ່ງຂັນເທົ່ານັ້ນ.
+
+935
+00:58:57,350 --> 00:59:01,900
+[MCQUEEN]
+I know, but Sal, with everything going on I'm not sure I should---
+ຂ້ອຍຮູ້ແລ້ວ, ແຕ່ແຊລ, ດ້ວຍທຸກຢ່າງທີ່ ກໍາ
+ລັງເກີດຂຶ້ນຂ້ອຍບໍ່ແນ່ໃຈວ່າຂ້ອຍຄວນ---
+
+936
+00:59:02,400 --> 00:59:04,400
+[MCQUEEN]
+Sir Axlerod.
+ທ້າວແຊລໂຣດ.
+
+937
+00:59:04,900 --> 00:59:06,900
+[MILES AXLEROD]
+I'm sorry to interrupt.
+ຂ້ອຍຂໍໂທດທີ່ລົບກວນ.
+
+938
+00:59:07,400 --> 00:59:09,400
+[MCQUEEN]
+No, no, it's all right.
+ບໍ່, ບໍ່, ມັນບໍ່ເປັນຫຍັງ.
+
+939
+00:59:09,900 --> 00:59:15,900
+[MILES AXLEROD]
+I just wanted to come down here and personally thank you. Because after Italy, I was finished. And then you gave me one last shot.
+ຂ້ອຍພຽງແຕ່ຢາກລົງມາບ່ອນນີ້ແລະຂອບໃຈເຈົ້າສ່ວນຕົວ. ເພາະວ່າຫຼັງຈາກອີຕາລີ
+, ຂ້ອຍສໍາເລັດແລ້ວ. ແລະຫຼັງຈາກນັ້ນເຈົ້າໃຫ້ຂ້ອຍໂອກາດສຸດທ້າຍ.
+
+940
+00:59:16,400 --> 00:59:18,400
+[MCQUEEN]
+Listen, I ---
+ຟັງ, ຂ້ອຍ ---
+
+941
+00:59:18,900 --> 00:59:24,900
+[MILES AXLEROD]
+And I probably shouldn't be saying this at all but... I hope you win today. Show the world that they've been wrong about Allinol.
+ແລະຂ້ອຍອາດຈະບໍ່ຄວນເວົ້າສິ່ງນີ້ເລີຍ ແຕ່... ຂ້ອຍຫວັງວ່າເຈົ້າຈະຊະນະມື້ນີ້
+. ສະແດງໃຫ້ໂລກເຫັນວ່າພວກເຂົາຜິດກ່ຽວກັບອາລິນອອນ.
+
+942
+00:59:25,400 --> 00:59:27,500
+[SALLY]
+Mater would want you to race.
+ແມ່ຢາກໃຫ້ເຈົ້າແຂ່ງຂັນ.
+
+943
+00:59:28,000 --> 00:59:30,000
+[MCQUEEN]
+All right. For Mater.
+ດີແລ້ວ. ສໍາລັບແມ່.
+
+944
+00:59:30,500 --> 00:59:33,650
+[TIRES SQUEAL ---]
+MCQUEEN, FRANCESCO and the other racers PEEL OUT ---
+ແມັກຄວິນ, ຟຣານເຊສໂກ ແລະນັກແຂ່ງລົດຄົນອື່ນ PEEL ອອກ ---
+
+945
+00:59:34,150 --> 00:59:36,150
+[GREM]
+Here he comes!
+ລາວມາແລ້ວ!
+
+946
+00:59:36,650 --> 00:59:38,650
+[GREM]
+I don't know, Professor.
+ຂ້ອຍບໍ່ຮູ້, ຄູອາຈານ.
+
+947
+00:59:39,150 --> 00:59:41,150
+[ACER]
+What did you do?
+ເຈົ້າເຮັດຫຍັງ?
+
+948
+00:59:41,650 --> 00:59:45,150
+[GREM]
+I didn't do nothin'. Shh! I'm talking to the Professor---
+ຂ້ອຍບໍ່ໄດ້ເຮັດຫຍັງເລີຍ. ສະບາຍດີ!
+ຂ້ອຍ ກໍາ ລັງເວົ້າກັບສາດສະດາຈານ---
+
+949
+00:59:45,650 --> 00:59:47,650
+[ACER]
+You broke it.
+ເຈົ້າໄດ້ທໍາລາຍມັນ.
+
+950
+00:59:48,150 --> 00:59:50,150
+[GREM]
+Quiet!  I understand, sir. Yes.
+ງຽບໆ! ຂ້ອຍເຂົ້າໃຈເດີ. ແມ່ນແລ້ວ.
+
+951
+00:59:50,650 --> 00:59:52,650
+[ACER]
+What'd he say?
+ລາວເວົ້າຫຍັງ?
+
+952
+00:59:53,150 --> 00:59:55,250
+[GREM]
+We go to the backup plan.
+ພວກເຮົາໄປສູ່ແຜນການສໍາຮອງ.
+
+953
+00:59:55,750 --> 00:59:57,750
+[MATER]
+Backup plan??
+ແຜນການຊ່ວຍເຫຼືອບໍ?
+
+954
+00:59:58,250 --> 01:00:00,700
+[GREM]
+We snuck a bomb in McQueen's pit!
+ພວກເຮົາໄດ້ລັກລະເບີດໃນຮູຂອງແມັກຄວິນ!
+
+955
+01:00:01,200 --> 01:00:06,450
+[ACER]
+The next time he makes a stop, instead of saying "ka-chow," he's gonna go "ka-boom"!
+ໃນຄັ້ງຕໍ່ໄປລາວຈະຢຸດເຊົາ,
+ແທນທີ່ຈະເວົ້າວ່າ"Ka-chow," ລາວຈະໄປ"ka-boom"!
+
+956
+01:00:06,950 --> 01:00:10,450
+[GREM]
+Don't feel bad, tow truck. You couldn't have saved him.
+ຢ່າຮູ້ສຶກບໍ່ດີ, ລົດດຶງ. ເຈົ້າບໍ່ສາມາດຊ່ວຍລາວໄດ້.
+
+957
+01:00:10,950 --> 01:00:12,950
+[ACER]
+Oh, wait. You could have!
+ໂອ້, ລໍຖ້າ. ເຈົ້າສາມາດເຮັດໄດ້!
+
+958
+01:00:13,450 --> 01:00:15,450
+[MATER]
+Dadgum lemons.
+ຫມາກ ເລມອນຂອງພໍ່.
+
+959
+01:00:15,950 --> 01:00:17,950
+[MATER'S COMPUTER]
+Request acknowledged.
+ຄໍາຮ້ອງຂໍຍອມຮັບ.
+
+960
+01:00:18,450 --> 01:00:21,250
+[GREM]
+What, you didn't think we'd take your bullets?
+ຫຍັງ, ເຈົ້າບໍ່ຄິດວ່າພວກເຮົາຈະເອົາລູກປືນຂອງທ່ານບໍ?
+
+961
+01:00:21,750 --> 01:00:23,750
+[ACER]
+That's right! You got nothin'.
+ນັ້ນແມ່ນແລ້ວ! ເຈົ້າບໍ່ມີຫຍັງເລີຍ.
+
+962
+01:00:24,250 --> 01:00:26,250
+[GREM]
+Who's the lemon now, huh?
+ໃຜເປັນເລມອນດຽວນີ້, ແມ່ນບໍ?
+
+963
+01:00:26,750 --> 01:00:28,750
+[FINN]
+Nice try, Mater.
+ຄວາມພະຍາຍາມທີ່ດີ, ແມ່.
+
+964
+01:00:29,250 --> 01:00:31,250
+[MATER]
+Dadgum!
+ພໍ່ແມ່!
+
+965
+01:00:31,750 --> 01:00:37,750
+[REQUEST ACK-]
+The guns ROTATE OUT AGAIN, SPIN. Mater watches as the spinning barrels SLICE INTO the ropes, do some damage.
+ປືນຫັນອອກອີກເທື່ອຫນຶ່ງ, ຫັນ.
+ແມ່ເບິ່ງໃນຂະນະທີ່ຖັງທີ່ຫັນເຂົ້າໄປໃນສາຍແອວ, ເຮັດຄວາມເສຍຫາຍບາງຢ່າງ.
+
+966
+01:00:38,250 --> 01:00:40,250
+[MATER]
+Dadgum! Dadgum! Dadgum!
+ພໍ່ພໍ່! ພໍ່ແມ່! ແມ່ແມ່!
+
+967
+01:00:40,750 --> 01:00:45,650
+[DADGUMDADGUMDADGUMDADGUM ---]
+PING! The ropes BREAK AWAY and Mater FALLS --- right toward the whirring machinery!
+ປິງ! ສາຍແອວແຕກອອກແລະແມ່ຕົກລົງ --- ໄປທາງເຄື່ອງຈັກທີ່ສັ່ນສະເທືອນ!
+
+968
+01:00:46,150 --> 01:00:48,150
+[HOLLEY]
+Mater!
+ແມ່!
+
+969
+01:00:48,650 --> 01:00:51,450
+[MATER]
+I gotta get you all out of there!
+ຂ້ອຍຕ້ອງເອົາເຈົ້າທັງ ຫມົດ ອອກຈາກບ່ອນນັ້ນ!
+
+970
+01:00:51,950 --> 01:00:55,100
+[FINN]
+There's no time. McQueen needs your help, Mater. 108.
+ບໍ່ມີເວລາ. ແມັກຄວິນຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ, ແມ່. 108.
+
+971
+01:00:55,600 --> 01:00:58,400
+[MATER]
+But I can't, I'm just a tow truck.
+ແຕ່ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້, ຂ້ອຍພຽງແຕ່ເປັນລົດຂົນສົ່ງເທົ່ານັ້ນ.
+
+972
+01:00:58,900 --> 01:01:04,500
+[FINN]
+It's up to you. Go to the pits and get everyone out. You can do that.
+ມັນຂຶ້ນກັບເຈົ້າ. ໄປຫາຮູແລະເອົາທຸກຄົນອອກ. ເຈົ້າສາມາດເຮັດໄດ້.
+
+973
+01:01:05,000 --> 01:01:07,000
+[MATER]
+What about you guys?
+ພວກເຈົ້າແນວໃດ?
+
+974
+01:01:07,500 --> 01:01:09,500
+[FINN]
+We'll be okay.
+ພວກເຮົາຈະດີດີ.
+
+975
+01:01:10,000 --> 01:01:12,450
+[HOLLEY]
+Go and get some more dents, Mater.
+ໄປເອົາຮູອີກບາງຢ່າງ, ແມ່.
+
+976
+01:01:12,950 --> 01:01:14,950
+[HOLLEY]
+So we'll be "okay"? Really?
+ສະນັ້ນພວກເຮົາຈະ"ດີບໍ?" ແທ້ບໍ?
+
+977
+01:01:15,450 --> 01:01:21,450
+[FINN]
+He wouldn't have left if I'd told him the truth.  Being killed by a clock. Gives a whole new meaning to "your time has come."
+ລາວຈະບໍ່ອອກໄປຖ້າຂ້ອຍບອກລາວຄວາມຈິງ. ຖືກຂ້າໂດຍໂມງ.
+ໃຫ້ຄວາມ ຫມາຍ ໃຫມ່ ທັງ ຫມົດ ກັບ"ເວລາຂອງທ່ານໄດ້ມາແລ້ວ."
+
+978
+01:01:21,950 --> 01:01:23,950
+[HOLLEY]
+Time. That's it!
+ເວລາແລ້ວ. ນັ້ນແມ່ນມັນ!
+
+979
+01:01:24,450 --> 01:01:27,950
+[FIRES HER ELECTROSHOCKERS ---]
+--- but they miss their target. She recoils them back.
+- ແຕ່ພວກເຂົາພາດເປົ້າຫມາຍຂອງພວກເຂົາ. ນາງຖອນພວກມັນຄືນ.
+
+980
+01:01:28,450 --> 01:01:30,450
+[FINN]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+981
+01:01:30,950 --> 01:01:35,150
+[HOLLEY]
+Trying to turn back time. If I can just reverse the polarity...
+ພະຍາຍາມຫັນເວລາຄືນ. ຖ້າຂ້ອຍສາມາດຫັນ polarity ໄດ້ພຽງແຕ່...
+
+982
+01:01:35,650 --> 01:01:37,650
+[FINN]
+Good job! Quick thinking, Holley!
+ເຮັດວຽກດີ! ຄິດຢ່າງໄວວາ, ໂຮລີ!
+
+983
+01:01:38,150 --> 01:01:41,650
+[MATER]
+What's everybody on the wrong side of the road for?!
+ທຸກຄົນຢູ່ທາງທີ່ບໍ່ຖືກຕ້ອງເປັນຫຍັງ?!
+
+984
+01:01:42,150 --> 01:01:44,150
+[HOLLEY]
+Oh no!
+ໂອ້ ບໍ່!
+
+985
+01:01:44,650 --> 01:01:46,650
+[FINN]
+Drive!
+ຂັບລົດ!
+
+986
+01:01:47,150 --> 01:01:49,150
+[FINN]
+Burn rubber!!
+ເຜົາຢາງ!!
+
+987
+01:01:49,650 --> 01:01:54,200
+[FINN]
+We've got to get to the course. Calculate the fastest way to ---
+ພວກເຮົາຕ້ອງໄປສູ່ຫຼັກສູດ. ຄິດໄລ່ວິທີໄວທີ່ສຸດເພື່ອ ---
+
+988
+01:01:54,700 --> 01:01:56,700
+[HOLLEY]
+Done. 110.
+ເຮັດແລ້ວ. 110.
+
+989
+01:01:57,200 --> 01:01:59,200
+[FINN]
+Miss Shiftwell.
+ນາງ Shiftwell.
+
+990
+01:01:59,700 --> 01:02:01,700
+[HOLLEY]
+They're standard issue now.
+ພວກເຂົາເປັນບັນຫາມາດຕະຖານດຽວນີ້.
+
+991
+01:02:02,200 --> 01:02:04,650
+[FINN]
+You kids get all the good hardware.
+ພວກເຈົ້າໄດ້ຮັບຮາດແວທີ່ດີທັງ ຫມົດ.
+
+992
+01:02:05,150 --> 01:02:07,150
+[HOLLEY]
+Oh no. That's Mater's.
+ໂອ້ ບໍ່. ນັ້ນແມ່ນຂອງແມ່.
+
+993
+01:02:07,650 --> 01:02:10,100
+[FINN]
+I knew his escape was too easy.
+ຂ້ອຍຮູ້ວ່າການຫນີຂອງລາວງ່າຍເກີນໄປ.
+
+994
+01:02:10,600 --> 01:02:12,600
+[LUIGI]
+Mater!
+ແມ່!
+
+995
+01:02:13,100 --> 01:02:17,300
+[MATER]
+Everybody get out! Get out now! Y'all gotta get out the pits!
+ທຸກຄົນອອກໄປ! ອອກໄປດຽວນີ້! ເຈົ້າຕ້ອງອອກຈາກຮູ!
+
+996
+01:02:17,800 --> 01:02:20,250
+[MATER]
+Hey, what are you guys doing here?
+ເຮ້, ພວກເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+997
+01:02:20,750 --> 01:02:22,850
+[SALLY]
+We're here because of you, Mater.
+ພວກເຮົາຢູ່ບ່ອນນີ້ຍ້ອນເຈົ້າ, ແມ່.
+
+998
+01:02:23,350 --> 01:02:25,350
+[FLO]
+Is everything okay?
+ທຸກຢ່າງດີບໍ?
+
+999
+01:02:25,850 --> 01:02:31,100
+[MATER]
+No! Everything's not okay! There's a bomb in here! Y'all gotta get out! Now! 111.
+ບໍ່! ທຸກຢ່າງບໍ່ດີ! ມີລະເບີດຢູ່ບ່ອນນີ້
+! ເຈົ້າທຸກຄົນຕ້ອງອອກໄປ! ດຽວນີ້! 111.
+
+1000
+01:02:31,600 --> 01:02:34,050
+[EVERYONE]
+- A bomb? - Huh? - Woah.
+- ລະເບີດບໍ? ຮາ?
+
+1001
+01:02:34,550 --> 01:02:36,550
+[FINN]
+Mater!
+ແມ່!
+
+1002
+01:02:37,050 --> 01:02:40,200
+[FINN]
+Mater, listen to me. The bomb is on you.
+ແມ່, ຟັງຂ້ອຍ. ລະເບີດຢູ່ເທິງເຈົ້າ.
+
+1003
+01:02:40,700 --> 01:02:46,700
+[FINN]
+They knew you'd try to help McQueen. When we were knocked out they planted it in your air filter.
+ພວກເຂົາຮູ້ວ່າເຈົ້າຈະພະຍາຍາມຊ່ວຍແມັກຄວິນ. ເມື່ອພວກເຮົາຖືກ
+knocked ອອກພວກເຂົາໄດ້ປູກມັນໃນເຄື່ອງກັ່ນຕອງອາກາດຂອງທ່ານ.
+
+1004
+01:02:47,200 --> 01:02:49,200
+[MATER]
+Uh-oh.
+ໂອ້.
+
+1005
+01:02:49,700 --> 01:02:51,700
+[MCQUEEN]
+Mater! There you are!
+ແມ່! ເຈົ້າຢູ່ບ່ອນນັ້ນ!
+
+1006
+01:02:52,200 --> 01:02:54,200
+[MATER]
+Stop right there!
+ຢຸດຢູ່ບ່ອນນັ້ນ!
+
+1007
+01:02:54,700 --> 01:02:58,200
+[MCQUEEN]
+Oh man, I've been so worried about you! CUT TO:
+ໂອ້ ຜູ້ຊາຍ, ຂ້ອຍກັງວົນຫຼາຍກ່ຽວກັບເຈົ້າ! ຕັດອອກ:
+
+1008
+01:02:58,700 --> 01:03:00,700
+[MATER]
+Don't come any closer!
+ຢ່າໃກ້ຊິດອີກຕໍ່ໄປ!
+
+1009
+01:03:01,200 --> 01:03:03,200
+[MCQUEEN]
+Are you okay?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+1010
+01:03:03,700 --> 01:03:06,500
+[MATER]
+No, I'm not okay. Stay away from me!!
+ບໍ່, ຂ້ອຍບໍ່ດີ. ຢູ່ຫ່າງຈາກຂ້ອຍ!!
+
+1011
+01:03:07,000 --> 01:03:09,000
+[MCQUEEN]
+No, wait. Wait! CUT TO:
+ບໍ່, ຮອ. ຮອ! ຕັດອອກ:
+
+1012
+01:03:09,500 --> 01:03:14,750
+[BRENT MUSTANGBURGER]
+Hold everything. A tow truck has just raced onto the track. And he's driving backwards!
+ຈັບທຸກຢ່າງໄວ້. ລົດດຶງຫາກໍ່ແລ່ນເຂົ້າໄປໃນເສັ້ນທາງ
+. ແລະລາວ ກໍາ ລັງຂັບລົດກັບຄືນໄປບ່ອນ!
+
+1013
+01:03:15,250 --> 01:03:17,250
+[MCQUEEN]
+Mater, wait!
+ແມ່, ລໍຖ້າ!
+
+1014
+01:03:17,750 --> 01:03:21,950
+[DAVID HOBBSCAP]
+Normally an emergency vehicle on the track means there's been an accident.
+ໂດຍປົກກະຕິແລ້ວລົດສຸກເສີນໃນເສັ້ນທາງ ຫມາຍ ຄວາມວ່າເກີດອຸບັດຕິເຫດ.
+
+1015
+01:03:22,450 --> 01:03:24,900
+[BRENT MUSTANGBURGER]
+Wait, wait. Lightning McQueen is chasing him!
+ຖ້າ, ລໍຖ້າ. ແສງສະຫວ່າງແມັກຄວິນ ກໍາ ລັງລ່າຫຼັງລາວ!
+
+1016
+01:03:25,400 --> 01:03:27,400
+[MCQUEEN]
+Mater, wait! 113.
+ແມ່, ລໍຖ້າ! 113.
+
+1017
+01:03:27,900 --> 01:03:32,800
+[MATER]
+Stay back! If you get close to me, you gonna get hurt real bad!
+ຢູ່ເບື້ອງຫຼັງ! ຖ້າເຈົ້າໃກ້ຂ້ອຍ, ເຈົ້າຈະເຈັບປວດຫຼາຍ!
+
+1018
+01:03:33,300 --> 01:03:39,300
+[MCQUEEN]
+I know I made you feel that way before, but none of that matters because we're best friends! CUT TO:
+ຂ້ອຍຮູ້ວ່າຂ້ອຍເຮັດໃຫ້ເຈົ້າຮູ້ສຶກແບບນັ້ນກ່ອນ,
+ແຕ່ບໍ່ມີຫຍັງກ່ຽວຂ້ອງເພາະວ່າພວກເຮົາເປັນເພື່ອນທີ່ດີທີ່ສຸດ! ຕັດອອກ:
+
+1019
+01:03:39,800 --> 01:03:44,000
+[BRENT MUSTANGBURGER]
+And McQueen seems to be having a conversation with the tow truck!
+ແລະແມັກຄວິນເບິ່ງຄືວ່າ ກໍາ ລັງສົນທະນາກັບລົດຖີບ!
+
+1020
+01:03:44,500 --> 01:03:50,500
+[DARRELL CARTRIP]
+I don't know who that truck is, Brent. But I'll tell you what, he's gotta be the world's best backwards driver.
+ຂ້ອຍບໍ່ຮູ້ວ່າລົດບັນທຸກນັ້ນແມ່ນໃຜ, ບຣັນຕ໌. ແຕ່ຂ້ອຍຈະບອກເຈົ້າວ່າຫຍັງ
+, ລາວຕ້ອງເປັນຄົນຂັບລົດຫຼັງທີ່ດີທີ່ສຸດໃນໂລກ.
+
+1021
+01:03:51,000 --> 01:03:53,800
+[MATER]
+McQueen, you don't get it. I'm the bomb!
+ແມັກຄວິນ, ເຈົ້າບໍ່ເຂົ້າໃຈມັນ. ຂ້ອຍເປັນລະເບີດ!
+
+1022
+01:03:54,300 --> 01:04:00,300
+[MCQUEEN]
+Yes, Mater! You are the bomb! That's what I'm trying to say here. You've always been the bomb! And you'll always be the bomb.
+ແມ່ນແລ້ວ, ແມ່! ເຈົ້າເປັນລະເບີດ! ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເວົ້າຢູ່ນີ້
+. ເຈົ້າເປັນ ລະເບີດຢູ່ສະເຫມີ! ແລະເຈົ້າຈະເປັນລະ ເບີດຕະຫຼອດໄປ.
+
+1023
+01:04:00,800 --> 01:04:02,800
+[MATER]
+Stay away!
+ຢູ່ຫ່າງໄກ!
+
+1024
+01:04:03,300 --> 01:04:05,300
+[MCQUEEN]
+No! Never!
+ບໍ່! ບໍ່ເຄີຍ!
+
+1025
+01:04:05,800 --> 01:04:07,800
+[PROFESSOR ZUNDAPP]
+Almost there...
+ເກືອບຮອດແລ້ວ...
+
+1026
+01:04:08,300 --> 01:04:10,300
+[MCQUEEN]
+I'm not...letting you... 114.
+ຂ້ອຍບໍ່ໄດ້... ໃຫ້ເຈົ້າ... 114.
+
+1027
+01:04:10,800 --> 01:04:12,800
+[MCQUEEN]
+...get away again!
+... ອອກໄປອີກຄັ້ງ!
+
+1028
+01:04:13,300 --> 01:04:15,300
+[MATER]
+Gotta keep away from McQueen.
+ຂ້ອຍຕ້ອງຢູ່ຫ່າງຈາກແມັກຄວິນ.
+
+1029
+01:04:15,800 --> 01:04:17,800
+[MATER'S COMPUTER]
+Request acknowledged.
+ຄໍາຮ້ອງຂໍຍອມຮັບ.
+
+1030
+01:04:18,300 --> 01:04:20,300
+[MCQUEEN]
+Oh my gosh!
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ!
+
+1031
+01:04:20,800 --> 01:04:23,250
+["OUT OF RANGE."]
+Zundapp can't believe it. He FLIPS OUT.
+Zundapp ບໍ່ເຊື່ອມັນໄດ້. ລາວບິນອອກໄປ.
+
+1032
+01:04:23,750 --> 01:04:26,200
+[FRANCESCO]
+What is happening? It's a bad dream.
+ເກີດຫຍັງຂຶ້ນ? ມັນເປັນຄວາມຝັນທີ່ບໍ່ດີ.
+
+1033
+01:04:26,700 --> 01:04:32,300
+[BRENT MUSTANGBURGER]
+And Lightning McQueen just blasted away, hooked to the now rocket- propelled tow truck. CUT TO:
+ແລະແສງສະຫວ່າງແມັກຄວິນຫາກໍ່ລະເບີດໄປ,
+ເຊື່ອມຕໍ່ກັບລົດຖີບທີ່ຂັບເຄື່ອນດ້ວຍລູກສອນໄຟດຽວນີ້. ຕັດອອກ:
+
+1034
+01:04:32,800 --> 01:04:34,800
+[J. CURBY GREMLIN]
+The Professor's on the run.
+ຄູອາຈານກໍາລັງຫນີຢູ່.
+
+1035
+01:04:35,300 --> 01:04:37,300
+[TUBBS PACER]
+Someone's gotta get McQueen.
+ບາງຄົນຕ້ອງເອົາແມັກຄວິນ.
+
+1036
+01:04:37,800 --> 01:04:39,800
+[VLADIMIR TRUNKOV]
+Get McQueen!!
+ເອົາແມັກຄວິນ!!
+
+1037
+01:04:40,300 --> 01:04:42,750
+[FINN]
+Holley. I'll get Zundapp, you help Mater.
+ໂຮລີ. ຂ້ອຍຈະເອົາຊູນດາບ, ເຈົ້າຊ່ວຍແມ່.
+
+1038
+01:04:43,250 --> 01:04:45,250
+[HOLLEY]
+Got it!
+ຂ້ອຍເຂົ້າໃຈແລ້ວ!
+
+1039
+01:04:45,750 --> 01:04:47,750
+[FRANCESCO]
+What is happening?!
+ເກີດຫຍັງຂຶ້ນບໍ?
+
+1040
+01:04:48,250 --> 01:04:50,250
+[COMBAT SHIP]
+Hurry, Professor!
+ໄວໆ, ສາດສະດາຈານ!
+
+1041
+01:04:50,750 --> 01:04:56,750
+[--- WHAP!]
+He's been TETHERED by Finn with tensile cables now attached to his rear end. Zundapp SCREAMS like a little girl.
+ລາວໄດ້ຖືກຜູກມັດໂດຍຟິນນ໌ດ້ວຍສາຍຄວາມດຶງດູດດຽວນີ້ຕິດກັບຈຸດຫຼັງຂອງລາວ
+. Zundapp ຮ້ອງໄຫ້ຄືກັບເດັກຍິງນ້ອຍ.
+
+1042
+01:04:57,250 --> 01:05:01,450
+[FINN]
+Do you really think I'm going to let you float away, Professor?
+ເຈົ້າຄິດວ່າຂ້ອຍຈະປ່ອຍໃຫ້ເຈົ້າລອຍໄປບໍ, ສາດສະດາຈານ?
+
+1043
+01:05:01,950 --> 01:05:03,950
+[MATER]
+McQueen, let go!
+ແມັກຄວິນ, ໃຫ້ໄປ!
+
+1044
+01:05:04,450 --> 01:05:06,450
+[MCQUEEN]
+Never!
+ບໍ່ເຄີຍ!
+
+1045
+01:05:06,950 --> 01:05:08,950
+[PROFESSOR ZUNDAPP]
+Give it up, McMissile!
+ຍອມຮັບມັນ, ແມັກມິສຊີລ!
+
+1046
+01:05:09,450 --> 01:05:11,450
+[HOLLEY]
+Mater, stop!
+ແມ່, ຢຸດເຊົາ!
+
+1047
+01:05:11,950 --> 01:05:14,050
+[MATER]
+No way! You could get hurt!
+ບໍ່ເປັນໄປເລີຍ! ເຈົ້າອາດຈະເຈັບປວດ!
+
+1048
+01:05:14,550 --> 01:05:16,550
+[HOLLEY]
+Oh no.
+ໂອ້ ບໍ່.
+
+1049
+01:05:17,050 --> 01:05:20,200
+[IN THE PUB - MOMENTS LATER]
+Grem and Acer are pulverized by the bar patrons.
+ແກຣມ ແລະ ເອເຊີຖືກຂີ້ຝຸ່ນໂດຍຜູ້ບໍລິໂພກບາ.
+
+1050
+01:05:20,700 --> 01:05:24,200
+[HOLLEY]
+Mater, we've got to get that bomb off you. 118.
+ແມ່, ພວກເຮົາຕ້ອງເອົາລະເບີດນັ້ນອອກຈາກເຈົ້າ. 118.
+
+1051
+01:05:24,700 --> 01:05:26,700
+[MCQUEEN]
+Bomb?
+ລະເບີດບໍ?
+
+1052
+01:05:27,200 --> 01:05:31,750
+[MATER]
+Yeah, they strapped it to me to kill you as a back-up plan.
+ແມ່ນແລ້ວ, ພວກເຂົາຕິດມັນໃສ່ຂ້ອຍເພື່ອຂ້າເຈົ້າເປັນແຜນການຮອງຮັບ.
+
+1053
+01:05:32,250 --> 01:05:35,400
+[MCQUEEN]
+Back-up plan? Mater, who put a bomb on you?
+ແຜນການຊ່ວຍເຫຼືອບໍ? ແມ່, ໃຜວາງລະເບີດໃສ່ເຈົ້າ?
+
+1054
+01:05:35,900 --> 01:05:37,900
+[PROFESSOR ZUNDAPP]
+Ahhhhh!
+ອາຮ້!
+
+1055
+01:05:38,400 --> 01:05:40,500
+[OF ---]
+--- Finn, who has him leashed.
+- ຟິນນ໌, ຜູ້ທີ່ເຮັດໃຫ້ລາວຕິດສາຍ.
+
+1056
+01:05:41,000 --> 01:05:43,800
+[PROFESSOR ZUNDAPP]
+You. Why didn't my death ray kill you?
+ເຈົ້າ. ເປັນຫຍັງແສງຕາຍຂອງຂ້ອຍຈຶ່ງບໍ່ຂ້າເຈົ້າ?
+
+1057
+01:05:44,300 --> 01:05:46,300
+[MCQUEEN]
+Death ray?
+ແສງຕາຍບໍ?
+
+1058
+01:05:46,800 --> 01:05:48,800
+[FINN]
+Turn off the bomb, Zundapp!
+ປິດລະເບີດ, Zundapp!
+
+1059
+01:05:49,300 --> 01:05:54,200
+[PROFESSOR ZUNDAPP]
+Are you all so dense? It's voice- activated. Everything is voice- activated these days.
+ເຈົ້າທັງ ຫມົດ ມີຄວາມຫນາແຫນ້ນຫຼາຍບໍ?
+ມັນຖືກເປີດໃຊ້ສຽງ. ທຸກຢ່າງຖືກເປີດໃຊ້ນສຽງໃນມື້ນີ້.
+
+1060
+01:05:54,700 --> 01:05:56,700
+[MATER]
+Deactivate! Deactivate!
+ປິດໃຊ້ງານ! ປິດໃຊ້!
+
+1061
+01:05:57,200 --> 01:05:59,200
+[BOMB'S COMPUTER VOICE]
+Voice denied.
+ສຽງປະຕິເສດ.
+
+1062
+01:05:59,700 --> 01:06:05,700
+[PROFESSOR ZUNDAPP]
+Oops. Did I forget to mention that it can only be disarmed by the one who activated it?
+ໂອ້.
+ຂ້ອຍລືມກ່າວວ່າມັນສາມາດປົດອາວຸດໄດ້ພຽງແຕ່ໂດຍຜູ້ທີ່ເປີດໃຊ້ນັ້ນບໍ?
+
+1063
+01:06:06,200 --> 01:06:08,200
+[HOLLEY]
+Say it!
+ເວົ້າມັນ!
+
+1064
+01:06:08,700 --> 01:06:10,700
+[PROFESSOR ZUNDAPP]
+Deactivate.
+ປິດໃຊ້ງານ.
+
+1065
+01:06:11,200 --> 01:06:13,200
+[BOMB'S COMPUTER VOICE]
+Voice denied.
+ສຽງປະຕິເສດ.
+
+1066
+01:06:13,700 --> 01:06:18,600
+[PROFESSOR ZUNDAPP]
+I am not the one who activated it. Would anyone else like to try?
+ຂ້ອຍບໍ່ແມ່ນຄົນທີ່ເປີດໃຊ້ນັ້ນ. ມີໃຜອີກຄົນໃດຢາກພະຍາຍາມບໍ?
+
+1067
+01:06:19,100 --> 01:06:21,100
+[FINN]
+You read my mind.
+ເຈົ້າອ່ານຈິດໃຈຂອງຂ້ອຍ.
+
+1068
+01:06:21,600 --> 01:06:23,700
+[HOLLEY]
+He was getting on my nerves.
+ລາວ ກໍາ ລັງເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍ.
+
+1069
+01:06:24,200 --> 01:06:26,200
+[MCQUEEN]
+What do we do?
+ພວກເຮົາຈະເຮັດແນວໃດ?
+
+1070
+01:06:26,700 --> 01:06:28,700
+[VICTOR HUGO]
+It's very simple.
+ມັນງ່າຍດາຍຫຼາຍ.
+
+1071
+01:06:29,200 --> 01:06:31,200
+[VICTOR HUGO]
+You blow up.
+ເຈົ້າລະເບີດຂຶ້ນ.
+
+1072
+01:06:31,700 --> 01:06:37,650
+[MCQUEEN]
+I'm gonna go out on a limb here. These are the guys that want me dead, correct?
+ຂ້ອຍຈະອອກໄປທາງນີ້. ນີ້ແມ່ນຜູ້ຊາຍທີ່ຢາກໃຫ້ຂ້ອຍຕາຍ, ແມ່ນບໍ?
+
+1073
+01:06:38,150 --> 01:06:40,150
+[VLADIMIR TRUNKOV]
+It's nothing personal.
+ມັນບໍ່ມີຫຍັງເປັນສ່ວນຕົວ.
+
+1074
+01:06:40,650 --> 01:06:42,650
+[MATER]
+Fellers, listen. 120.
+ຟເລີສ໌, ຟັງ. 120.
+
+1075
+01:06:43,150 --> 01:06:48,750
+[MATER]
+I know what you're going through. Everybody's been laughing at me my whole life too ---
+ຂ້ອຍຮູ້ວ່າເຈົ້າ ກໍາ ລັງຜ່ານຫຍັງ. ທຸກຄົນ ກໍາ
+ລັງມ່ວນຊື່ນກັບຂ້ອຍຕະຫຼອດຊີວິດຂອງຂ້ອຍເຊັ່ນກັນ ---
+
+1076
+01:06:49,250 --> 01:06:54,850
+[MATER]
+--- but becoming powerful and rich beyond your wildest dreams ain't gonna make you feel better.
+-
+ແຕ່ການກາຍເປັນພະລັງແລະຮັ່ງມີເກີນຄວາມຝັນທີ່ຮ້າຍແຮງທີ່ສຸດຂອງທ່ານຈະບໍ່ເຮັດໃຫ້ທ່ານຮູ້ສຶກດີຂຶ້ນ.
+
+1077
+01:06:55,350 --> 01:06:57,450
+[J. CURBY GREMLIN]
+Yeah, but it's worth a shot.
+ແມ່ນແລ້ວ, ແຕ່ມັນຄວນພະຍາຍາມ.
+
+1078
+01:06:57,950 --> 01:06:59,950
+[GUIDO]
+Pit stop.
+ຢຸດຂຸມ.
+
+1079
+01:07:00,450 --> 01:07:02,450
+[SHERIFF]
+Not today, boys!
+ບໍ່ໃນມື້ນີ້, ເດັກຊາຍ!
+
+1080
+01:07:02,950 --> 01:07:06,450
+[ITALIAN.]
+Mater KARATE CHOPS lemons, three and four at a time.
+ແມຕເຕີ ຄາຣາເທສ ໂຊບສ໌ ເລມອນ, ສາມແລະສີ່ໃນເວລາດຽວກັນ.
+
+1081
+01:07:06,950 --> 01:07:08,950
+[TUBBS PACER]
+Retreat!
+ຖອນຕົວ!
+
+1082
+01:07:09,450 --> 01:07:11,450
+[SARGE]
+Thanks for the help, Corporal.
+ຂອບໃຈ ສໍາ ລັບການຊ່ວຍເຫຼືອ, ນາຍພົນ.
+
+1083
+01:07:11,950 --> 01:07:14,050
+[BRITISH CORPORAL]
+Anything for one of pop's mates.
+ທຸກຢ່າງ ສໍາ ລັບເພື່ອນຄົນ ຫນຶ່ງ ຂອງພໍ່.
+
+1084
+01:07:14,550 --> 01:07:16,550
+[MCQUEEN]
+What's he saying?! What's wrong!?
+ລາວເວົ້າຫຍັງ?! ມີຫຍັງເກີດຂຶ້ນ!?
+
+1085
+01:07:17,050 --> 01:07:19,500
+[LUIGI]
+None of his wrenches fit the bolts!
+ບໍ່ມີປຸ່ມຂອງລາວໃດທີ່ເຫມາະສົມກັບ bolts ໄດ້!
+
+1086
+01:07:20,000 --> 01:07:24,550
+[MATER]
+I get it. I get it! I know what needs to be done.
+ຂ້ອຍເຂົ້າໃຈ. ຂ້ອຍເຂົ້າໃຈ! ຂ້ອຍຮູ້ວ່າຕ້ອງເຮັດຫຍັງ.
+
+1087
+01:07:25,050 --> 01:07:27,050
+[MCQUEEN]
+Then do it!
+ຫຼັງຈາກນັ້ນເຮັດມັນ!
+
+1088
+01:07:27,550 --> 01:07:33,550
+[MATER]
+What? No, I can't do it. Look, nobody takes me seriously. I know that now. This ain't Radiator Springs.
+ຫຍັງ? ບໍ່, ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້. ເບິ່ງ, ບໍ່ມີໃຜເອົາຂ້ອຍຢ່າງຈິງໃຈ
+. ຂ້ອຍຮູ້ແລ້ວ. ນີ້ແມ່ນບໍ່ແມ່ນ Radiator Springs.
+
+1089
+01:07:34,050 --> 01:07:36,050
+[MCQUEEN]
+Yes it is.
+ແມ່ນແລ້ວ ມັນເປັນ.
+
+1090
+01:07:36,550 --> 01:07:42,550
+[MCQUEEN]
+You're yourself in Radiator Springs. Be yourself here. And if people aren't taking you seriously, then they need to change. Not you. I know that, because I was wrong before. Now you can do this. You're the bomb. 122.
+ເຈົ້າເປັນຕົວເອງໃນ Radiator Springs. ເປັນຕົວເອງຢູ່ນີ້. ແລະຖ້າຄົນບໍ່ໄດ້ເອົາເຈົ້າຢ່າງຈິງໃຈ, ຫຼັງຈາກນັ້ນພວກເຂົາຕ້ອງປ່ຽນແປງ
+. ບໍ່ແມ່ນເຈົ້າ. ຂ້ອຍຮູ້ແລ້ວ, ເພາະວ່າຂ້ອຍຜິດກ່ອນ. ດຽວນີ້ເຈົ້າສາມາດເຮັດສິ່ງນີ້ໄດ້. ເຈົ້າເປັນລະເບີດ. 122.
+
+1091
+01:07:43,050 --> 01:07:45,050
+[MATER]
+Thanks, buddy.
+ຂອບໃຈ, ເພື່ອນ.
+
+1092
+01:07:45,550 --> 01:07:49,050
+[MCQUEEN]
+No no no, you're the actual bomb. Now let's go!
+ບໍ່ ບໍ່ ບໍ່, ເຈົ້າເປັນລະເບີດທີ່ແທ້ຈິງ. ດຽວນີ້ໄປ!
+
+1093
+01:07:49,550 --> 01:07:51,550
+[MATER]
+Oh, right! Hang on!
+ໂອ້, ແມ່ນແລ້ວ! ລໍຖ້າ!
+
+1094
+01:07:52,050 --> 01:07:54,050
+[FINN]
+Where's he going?
+ລາວໄປໃສ?
+
+1095
+01:07:54,550 --> 01:07:56,550
+[MATER]
+Computer!
+ຄອມພິວເຕີ!
+
+1096
+01:07:57,050 --> 01:07:59,050
+[MATER'S COMPUTER]
+Yes, Agent Mater.
+ແມ່ນແລ້ວ, ຕົວແທນແມເຕີ.
+
+1097
+01:07:59,550 --> 01:08:04,100
+[MATER]
+I need that thing you done before to get me away from McQueen!
+ຂ້ອຍຕ້ອງການສິ່ງທີ່ທ່ານເຮັດກ່ອນເພື່ອເອົາຂ້ອຍອອກຈາກແມັກຄວິນ!
+
+1098
+01:08:04,600 --> 01:08:06,600
+[MATER'S COMPUTER]
+Request acknowledged.
+ຄໍາຮ້ອງຂໍຍອມຮັບ.
+
+1099
+01:08:07,100 --> 01:08:09,100
+[MCQUEEN]
+Mater...
+ແມ່...
+
+1100
+01:08:09,600 --> 01:08:14,500
+[MATER]
+Now I need you to do the chute, the second kind not the first!
+ດຽວນີ້ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າເຮັດການຕົກລົງ
+, ຊະນິດທີສອງບໍ່ແມ່ນຄັ້ງ ທໍາ ອິດ!
+
+1101
+01:08:15,000 --> 01:08:17,000
+[MATER'S COMPUTER]
+Deploying chute.
+ການຈັດຕັ້ງຖິ້ມ.
+
+1102
+01:08:17,500 --> 01:08:19,500
+[QUEEN]
+Who's winning the race?
+ໃຜຈະຊະນະການແຂ່ງຂັນ?
+
+1103
+01:08:20,000 --> 01:08:22,000
+[QUEEN'S GUARD]
+Back up! Back away!
+ກັບຄືນໄປບ່ອນ! ກັບໄປ!
+
+1104
+01:08:22,500 --> 01:08:24,500
+[QUEEN]
+It's Lightning McQueen!
+ມັນເປັນແສງສະຫວ່າງແມັກຄວິນ!
+
+1105
+01:08:25,000 --> 01:08:27,000
+[QUEEN'S GUARDS]
+Get back!
+ກັບຄືນໄປບ່ອນ!
+
+1106
+01:08:27,500 --> 01:08:30,300
+[MCQUEEN]
+No, no, it's okay! Tell them, Mater. Explain.
+ບໍ່, ບໍ່, ມັນບໍ່ເປັນຫຍັງ! ບອກພວກເຂົາ, ແມ່. ອະທິບາຍ.
+
+1107
+01:08:30,800 --> 01:08:36,800
+[MATER]
+Okay! Somebody's been sabotaging the racers and hurting the cars and I know who. Oh wait... Your Majesty.
+ດີແລ້ວ! ບາງຄົນ ກໍາ ລັງ ທໍາ ລາຍນັກແຂ່ງລົດແລະເຮັດໃຫ້ລົດເຈັບປວດແລະຂ້ອຍຮູ້ວ່າໃຜ
+. ໂອ້ ລໍຖ້າ... ເຈົ້າສູງສຸດ.
+
+1108
+01:08:37,300 --> 01:08:41,500
+[QUEEN'S GUARDS]
+- Bomb! - It's a bomb! - Everybody down! - Look out!
+- ລະເບີດ - ມັນເປັນລະເບີດ! - ທຸກຄົນລົງ! - ລະວັງ!
+
+1109
+01:08:42,000 --> 01:08:44,450
+[FINN]
+Hold your fire! He can't disarm it!
+ຢຸດຍິງ! ລາວບໍ່ສາມາດປິດອາວຸດໄດ້!
+
+1110
+01:08:44,950 --> 01:08:48,800
+[FINN]
+Mater, I don't know what you're doing but stand down now!
+ແມ່, ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າ ກໍາ ລັງເຮັດຫຍັງແຕ່ຢຸດລົງດຽວນີ້!
+
+1111
+01:08:49,300 --> 01:08:52,100
+[MATER]
+This ain't nothing at all like Radiator Springs.
+ນີ້ແມ່ນບໍ່ແມ່ນຫຍັງເລີຍຄືກັບ Radiator Springs.
+
+1112
+01:08:52,600 --> 01:08:54,700
+[MCQUEEN]
+Mater, just cut to the chase!
+ແມ່, ພຽງແຕ່ເຂົ້າສູ່ຈຸດປະສົງ!
+
+1113
+01:08:55,200 --> 01:08:57,200
+[MATER]
+Okay. 124.
+ດີແລ້ວ. 124.
+
+1114
+01:08:57,700 --> 01:08:59,700
+[MATER]
+It's him.
+ມັນເປັນລາວ.
+
+1115
+01:09:00,200 --> 01:09:02,650
+[MILES AXLEROD]
+What? Me? You've got to be crazy.
+ຫຍັງ? ຂ້ອຍ? ເຈົ້າຕ້ອງໂຊກຮ້າຍ.
+
+1116
+01:09:03,150 --> 01:09:09,150
+[MATER]
+I figured it out when I realized you all attached this ticking time bomb with Whitworth bolts. The same bolts that hold together that old British engine from the photograph. Holley! Show that picture.
+ຂ້ອຍຄິດມັນເມື່ອຂ້ອຍຮູ້ວ່າເຈົ້າທັງ ຫມົດ ໄດ້ຕິດຕັ້ງລະເບີດເວລາທີ່ສັ່ນສະເທືອນນີ້ດ້ວຍກະຕ່າ
+Whitworth. ກະຕ່າດຽວກັນທີ່ຖືເຄື່ອງຈັກອັງກິດເກົ່າຈາກຮູບພາບ. ໂຮລີ! ສະແດງຮູບນັ້ນ.
+
+1117
+01:09:09,650 --> 01:09:11,650
+[HOLLEY]
+O-kay...
+ໂອເຄ...
+
+1118
+01:09:12,150 --> 01:09:18,150
+[MATER]
+And then I remembered what they say about old British engines - "If there ain't no oil under `em, there ain't no oil in `em."
+ແລະຫຼັງຈາກນັ້ນຂ້ອຍຈື່ສິ່ງທີ່ພວກເຂົາເວົ້າກ່ຽວກັບເຄື່ອງຈັກອັງກິດເກົ່າ
+-"ຖ້າບໍ່ມີນ້ ໍາ ມັນພາຍໃຕ້ພວກເຂົາ, ບໍ່ມີນ້ ໍາ ນ້ ໍາ ມັນໃນພວກເຂົາ."
+
+1119
+01:09:18,650 --> 01:09:20,650
+[MILES AXLEROD]
+What is he talking about?
+ລາວເວົ້າຫຍັງຢູ່?
+
+1120
+01:09:21,150 --> 01:09:26,750
+[MATER]
+It was you leaking oil at the party in Japan. You just blamed it on me.
+ມັນເປັນເຈົ້າທີ່ຮົ່ວໄຫລນ້ ໍາ ມັນໃນງານລ້ຽງໃນຍີ່ປຸ່ນ
+. ເຈົ້າພຽງແຕ່ກ່າວໂທດມັນໃສ່ຂ້ອຍ.
+
+1121
+01:09:27,250 --> 01:09:29,700
+[MILES AXLEROD]
+Electric cars don't use oil, you twit.
+ລົດໄຟຟ້າບໍ່ໄດ້ໃຊ້ນ້ ໍາ ມັນ, ເຈົ້າໂຊກຮ້າຍ.
+
+1122
+01:09:30,200 --> 01:09:36,200
+[MATER]
+Then you're faking it. You didn't convert to no electric. We pop that hood we gonna see that engine from that picture right there.
+ຫຼັງຈາກນັ້ນເຈົ້າ ກໍາ ລັງປອມແປງມັນ. ເຈົ້າບໍ່ໄດ້ປ່ຽນເປັນໄຟຟ້າບໍ່ມີ.
+ພວກເຮົາເປີດ Hood ນັ້ນພວກເຮົາຈະເຫັນເຄື່ອງຈັກຈາກຮູບນັ້ນຢູ່ບ່ອນນັ້ນ.
+
+1123
+01:09:36,700 --> 01:09:39,850
+[MILES AXLEROD]
+This lorry's crazy. He's going to kill us all!
+ລົດບັນທຸກນີ້ແມ່ນໂຊກຮ້າຍ. ລາວຈະຂ້າພວກເຮົາທຸກຄົນ!
+
+1124
+01:09:40,350 --> 01:09:42,350
+[MILES AXLEROD]
+Stay away!
+ຢູ່ຫ່າງໄກ!
+
+1125
+01:09:42,850 --> 01:09:47,750
+[HOLLEY]
+But Sir Axlerod created the race, Mater. Why would he want to hurt anyone?
+ແຕ່ທ່ານແຊກເລຣອດໄດ້ສ້າງການແຂ່ງຂັນ, ແມ່
+. ເປັນຫຍັງລາວຈຶ່ງຢາກເຮັດໃຫ້ໃຜເຈັບປວດ?
+
+1126
+01:09:48,250 --> 01:09:54,250
+[MATER]
+To make Allinol look bad so everybody'd go back to using oil. I mean, he said it himself with that disguised voice.
+ເພື່ອເຮັດໃຫ້ອາລິນອອນເບິ່ງບໍ່ດີເພື່ອໃຫ້ທຸກຄົນກັບຄືນໄປບ່ອນການໃຊ້ນ້
+ໍາ ມັນ. ຂ້ອຍຫມາຍຄວາມວ່າ, ລາວເວົ້າມັນເອງດ້ວຍສຽງທີ່ກວມເອົານັ້ນ.
+
+1127
+01:09:54,750 --> 01:09:58,600
+[MILES AXLEROD]
+"Dee-sguised voice?" What are you talking about? You're nuts, you are!
+ເຈົ້າເວົ້າຫຍັງຢູ່? ເຈົ້າໂຊກຮ້າຍ, ເຈົ້າເປັນ!
+
+1128
+01:09:59,100 --> 01:10:02,600
+[PRINCE WHEELIAM]
+This is going nowhere fast. We really should go, Grandmother.
+ນີ້ແມ່ນຈະບໍ່ໄປບ່ອນໃດຢ່າງໄວວາ. ພວກເຮົາຄວນໄປແທ້ໆ, ແມ່ເຖົ້າ.
+
+1129
+01:10:03,100 --> 01:10:06,600
+[QUEEN]
+One moment. I'd like to see where this is going.
+ດົນຫນຶ່ງ. ຂ້ອຍຢາກເບິ່ງວ່າສິ່ງນີ້ຈະໄປໃສ.
+
+1130
+01:10:07,100 --> 01:10:09,100
+[FINN]
+Mater, he created Allinol.
+ແມ່, ລາວໄດ້ສ້າງອາລິນອອນ.
+
+1131
+01:10:09,600 --> 01:10:15,600
+[MATER]
+Yeah, but what if he found that huge oil field just as the world was trying to find something else?
+ແມ່ນແລ້ວ, ແຕ່ຖ້າລາວພົບທົ່ງນານ້ ໍາ ມັນທີ່ໃຫຍ່ຫຼວງນັ້ນແນວໃດໃນຂະນະທີ່ໂລກ
+ກໍາ ລັງພະຍາຍາມຊອກຫາບາງສິ່ງບາງຢ່າງອື່ນ?
+
+1132
+01:10:16,100 --> 01:10:21,000
+[MATER]
+What if he came up with Allinol just to make alternative fuel look bad?
+ຖ້າລາວຄິດ Allinol
+ພຽງແຕ່ເພື່ອເຮັດໃຫ້ເຊື້ອໄຟທາງເລືອກເບິ່ງບໍ່ດີແນວໃດ?
+
+1133
+01:10:21,500 --> 01:10:24,650
+[MILES AXLEROD]
+"What if?" You're basing this on a "What if"?!
+ເຈົ້າ ກໍາ ລັງອີງໃສ່ເລື່ອງນີ້ວ່າ"ຖ້າແນວໃດ"?!
+
+1134
+01:10:25,150 --> 01:10:27,150
+[GUARD]
+Okay, that's it.
+ດີແລ້ວ, ນັ້ນແມ່ນມັນ.
+
+1135
+01:10:27,650 --> 01:10:30,100
+[MILES AXLEROD]
+Wait! Somebody save me! The lorry's crazy!
+ລໍຖ້າ! ບາງຄົນຊ່ວຍຂ້ອຍ! ລົດບັນທຸກໂຊກຮ້າຍ!
+
+1136
+01:10:30,600 --> 01:10:32,600
+[MILES AXLEROD]
+Keep away, you idiot!
+ຢູ່ຫ່າງໄກ, ເຈົ້າໂງ່!
+
+1137
+01:10:33,100 --> 01:10:35,100
+[FINN]
+Mater!
+ແມ່!
+
+1138
+01:10:35,600 --> 01:10:37,600
+[HOLLEY]
+Mater!
+ແມ່!
+
+1139
+01:10:38,100 --> 01:10:40,100
+[MILES AXLEROD]
+Someone do something!
+ບາງຄົນເຮັດບາງສິ່ງບາງຢ່າງ!
+
+1140
+01:10:40,600 --> 01:10:42,600
+[MILES AXLEROD]
+You're insane, you are! Deactivate!!
+ເຈົ້າໂຊກຮ້າຍ, ເຈົ້າເປັນ! ປິດໃຊ້ງານ!!
+
+1141
+01:10:43,100 --> 01:10:45,900
+[THE BOMB'S COMPUTER VOICE]
+Bomb deactivated. Have a nice day, Sir Axlerod.
+ລະເບີດຖືກປິດໃຊ້ງານ. ໃຫ້ມີມື້ທີ່ດີ, ທ້າວແຊລໂຣດ.
+
+1142
+01:10:46,400 --> 01:10:48,400
+[FINN]
+The engine from the photo.
+ເຄື່ອງຈັກຈາກຮູບ.
+
+1143
+01:10:48,900 --> 01:10:50,900
+[HOLLEY]
+It's a perfect match!
+ມັນເຫມາະສົມຢ່າງສົມບູນແບບ!
+
+1144
+01:10:51,400 --> 01:10:54,550
+[MILES AXLEROD]
+How did the tow truck figure it out? 127.
+ລົດຂົນສົ່ງໄດ້ຄິດມັນແນວໃດ? 127.
+
+1145
+01:10:55,050 --> 01:10:58,900
+[MCQUEEN]
+It's official. You're coming to all my races from now on.
+ມັນເປັນທາງການແລ້ວ. ເຈົ້າຈະມາແຂ່ງຂັນຂອງຂ້ອຍທັງ ຫມົດ ນັບແຕ່ນີ້ໄປ.
+
+1146
+01:10:59,400 --> 01:11:01,400
+[MATER]
+Now you're talking!
+ດຽວນີ້ເຈົ້າ ກໍາ ລັງເວົ້າ!
+
+1147
+01:11:01,900 --> 01:11:03,900
+[MCQUEEN]
+Mater, let's go. You're on.
+ແມ່, ໄປ. ເຈົ້າຢູ່ແລ້ວ.
+
+1148
+01:11:04,400 --> 01:11:10,400
+[LORD STEWARD]
+Your Majesty. May I present for the investiture of honorary Knighthood of the British Realm. Tow Mater of Radiator Springs.
+ເຈົ້າສູງສຸດ. ຂ້ອຍຂໍສະເຫນີ ສໍາ ລັບການເຂົ້າຮັບຕໍາແຫນ່ງ
+Knighthood ກຽດຕິຍົດຂອງອານາຈັກອັງກິດ. ແມ່ຂອງ Radiator Springs.
+
+1149
+01:11:10,900 --> 01:11:12,900
+[MCQUEEN]
+Go get `em, buddy.
+ໄປເອົາພວກມັນ, ເພື່ອນ.
+
+1150
+01:11:13,400 --> 01:11:15,850
+[QUEEN]
+I hereby dub thee "Sir Tow Mater."
+ຂ້ອຍເອີ້ນເຈົ້າວ່າ" ທ້າວ Tow ແມ່."
+
+1151
+01:11:16,350 --> 01:11:22,350
+[MATER]
+"Sir?" Shoot, you can just call me Mater, Your Majesty. I don't wanna hear none of this "Sir" business. By the way, have y'all met each other? Queen? McQueen. McQueen, Queen. McQueen? McMissile. 128.
+ເຈົ້າ? ຍິງ, ເຈົ້າພຽງແຕ່ສາມາດເອີ້ນຂ້ອຍວ່າແມ່, ເຈົ້າສູງສຸດ. ຂ້ອຍບໍ່ຢາກໄດ້ຍິນຫຍັງກ່ຽວກັບເລື່ອງ"ເຈົ້າ" ນີ້.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ເຈົ້າທັງ ຫມົດ ໄດ້ພົບກັນບໍ? ຣາຊິນີ? ແມັກຄວິນ. ແມັກກວິນ, ຣາຊາິນີ. ແມັກຄວີນ? ແມກມິສຊີລ. 128.
+
+1152
+01:11:22,850 --> 01:11:24,850
+[MATER]
+McMissile, McQueen. Queen? McMissile.
+ແມັກມິຊິລ, ແມັກຄວິນ. ລາຊິນີ? ແມັກມີຊິລ.
+
+1153
+01:11:25,350 --> 01:11:31,350
+[MATER]
+So there I was: rocket jets going full blast, McQueen hanging on for dear life when suddenly them two nasty lemons come out of nowhere, guns drawed. We was goners. But then out of nowhere, this beautiful spy car swoops in from the sky to save us!
+ສະນັ້ນຂ້ອຍຢູ່ບ່ອນນັ້ນ: ເຮືອບິນລູກສອນໄຟ ກໍາ ລັງລະເບີດຢ່າງເຕັມທີ່, ແມັກຄວິນ ກໍາ ລັງຕິດຢູ່ ສໍາ ລັບຊີວິດທີ່ຮັກແພງເມື່ອທັນທີ ຫມາກ
+ເລມອນທີ່ຮ້າຍແຮງທັງສອງຄົນອອກມາຈາກບໍ່ມີບ່ອນໃດ, ປືນຖືກດຶງ. ພວກເຮົາເປັນໂກນເນີ. ແຕ່ຫຼັງຈາກນັ້ນຈາກບໍ່ມີບ່ອນ ໃດ, ລົດນັກສືບທີ່ສວຍງາມນີ້ໂດດເຂົ້າມາຈາກສະຫວັນເພື່ອຊ່ວຍພວກເຮົາ!
+
+1154
+01:11:31,850 --> 01:11:34,300
+[MINNY]
+That's a very entertaining story, young man.
+ນັ້ນແມ່ນເລື່ອງທີ່ມ່ວນຊື່ນຫຼາຍ, ຊາຍຫນຸ່ມ.
+
+1155
+01:11:34,800 --> 01:11:39,700
+[VAN]
+Oh, Minny, please. Come on, none of this happened. Rocket jets? Flying spy cars?
+ໂອ້, ມິນນີ, ກະລຸນາ. ມາແລ້ວ, ບໍ່ມີຫຍັງເກີດຂຶ້ນ
+. ເຮືອບິນລູກສອນໄຟ? ລົດນັກສືບບິນບໍ?
+
+1156
+01:11:40,200 --> 01:11:43,700
+[HOLLEY]
+No, you're quite right. It does sound a bit far-fetched.
+ບໍ່, ເຈົ້າເວົ້າຖືກຕ້ອງຫຼາຍ. ມັນເບິ່ງຄືວ່າໄກສອກຫຼີກບາງຢ່າງ.
+
+1157
+01:11:44,200 --> 01:11:46,200
+[MATER]
+Holley! Finn!
+ໂຮລີ! ຟິນນ໌!
+
+1158
+01:11:46,700 --> 01:11:49,850
+[HOLLEY]
+Hello, Mater. It's so nice to see you again.
+ຮັສຕາ ລາວິສຕາ, ເບບີ້່. ດີໃຈທີ່ເຫັນເຈົ້າອີກຄັ້ງ.
+
+1159
+01:11:50,350 --> 01:11:52,350
+[MATER]
+What're you doing here? 129.
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້? 129.
+
+1160
+01:11:52,850 --> 01:11:55,300
+[FINN]
+Our satellites picked up an urgent communique.
+ດາວທຽມຂອງພວກເຮົາໄດ້ຮັບການສື່ສານຢ່າງຮີບດ່ວນ.
+
+1161
+01:11:55,800 --> 01:11:57,800
+[LUIGI]
+So you got my e-mail.
+ສະນັ້ນເຈົ້າໄດ້ຮັບອີເມວຂອງຂ້ອຍ.
+
+1162
+01:11:58,300 --> 01:12:04,300
+[MATER]
+Oh, man. Y'all is gonna have a great time. Everybody! This here's Finn McMissile. He's a secret agent. Don't tell nobody. And this is Holley Shiftwell. She's ---
+ໂອ້, ຜູ້ຊາຍ. ເຈົ້າທຸກຄົນຈະມີຄວາມມ່ວນຊື່ນຫຼາຍ. ທຸກຄົນ! ນີ້ແມ່ນຟິນນ໌
+ແມັກມິສຊີລ. ລາວເປັນຕົວແທນລັບ. ຢ່າບອກໃຜ. ແລະນີ້ແມ່ນໂຮລີ ຊິບເວລ. ນາງແມ່ນ ---
+
+1163
+01:12:04,800 --> 01:12:08,300
+[HOLLEY]
+I'm Mater's girlfriend. It's so nice to meet you all.
+ຂ້ອຍເປັນແຟນຂອງແມ່. ດີໃຈທີ່ຮູ້ຈັກເຈົ້າທັງ ຫມົດ.
+
+1164
+01:12:08,800 --> 01:12:10,800
+[LUIGI]
+Guido believe you now.
+ກູໂດເຊື່ອເຈົ້າດຽວນີ້.
+
+1165
+01:12:11,300 --> 01:12:14,100
+[FLO]
+Whoa, honey. You got a nasty dent there.
+ໂວ້ແມ. ເຈົ້າມີຮອຍທີ່ຮ້າຍແຮງຢູ່ບ່ອນນັ້ນ.
+
+1166
+01:12:14,600 --> 01:12:18,800
+[VAN]
+Was that from when you swooped in and saved them in London?
+ນັ້ນແມ່ນຈາກເວລາທີ່ເຈົ້າເຂົ້າມາແລະຊ່ວຍພວກເຂົາໃນລອນດອນບໍ?
+
+1167
+01:12:19,300 --> 01:12:21,300
+[MINNY]
+Van!
+ແວນ!
+
+1168
+01:12:21,800 --> 01:12:23,800
+[VAN]
+What? I'm just asking.
+ຫຍັງ? ຂ້ອຍພຽງແຕ່ຖາມ.
+
+1169
+01:12:24,300 --> 01:12:30,300
+[FLO]
+Don't you worry, sweet pea. My baby Ramone can get that fixed up for you in no time.
+ຢ່າກັງວົນແມ. ເດັກນ້ອຍຂອງຂ້ອຍ ຣາມອນສາມາດເຮັດສິ່ງນັ້ນ
+ສໍາ ລັບເຈົ້າໃນເວລາບໍ່ເທົ່າໃດ.
+
+1170
+01:12:30,800 --> 01:12:35,350
+[RAMONE]
+Yeah, sure thing. No problemo. Just let me go get my tools. 130.
+ແມ່ນແລ້ວ, ແນ່ນອນ. ບໍ່ມີບັນຫາ.
+ພຽງແຕ່ປ່ອຍໃຫ້ຂ້ອຍໄປເອົາເຄື່ອງມືຂອງຂ້ອຍ. 130.
+
+1171
+01:12:35,850 --> 01:12:39,700
+[HOLLEY]
+Oh no no. I'm keeping that dent. It's way too valuable.
+ໂອ້ ບໍ່ ບໍ່. ຂ້ອຍ ກໍາ ລັງຮັກສາຮອຍນັ້ນໄວ້. ມັນມີຄຸນຄ່າຫຼາຍເກີນໄປ.
+
+1172
+01:12:40,200 --> 01:12:43,350
+[LIZZIE]
+A "valuable" dent? Oh, she's as crazy as Mater.
+ກະດູກທີ່"ມີຄຸນຄ່າ"? ໂອ້, ນາງໂຊກຮ້າຍຄືກັບແມ່.
+
+1173
+01:12:43,850 --> 01:12:46,300
+[MACK]
+Those two are perfect for each other.
+ພວກສອງຄົນນັ້ນສົມບູນແບບກັນແລະກັນ.
+
+1174
+01:12:46,800 --> 01:12:52,800
+[MCQUEEN]
+You know, there's one thing I still don't get. The bad guys hit me with the beam from the camera, right? So why didn't I, you know...
+ເຈົ້າຮູ້ແລ້ວ, ມີສິ່ງ ຫນຶ່ງ ທີ່ຂ້ອຍຍັງບໍ່ເຂົ້າໃຈ.
+ພວກຄົນຮ້າຍໄດ້ຕີຂ້ອຍດ້ວຍແສງໄຟຈາກກ້ອງຖ່າຍຮູບ, ແມ່ນບໍ? ສະນັ້ນເປັນຫຍັງຂ້ອຍບໍ່, ເຈົ້າຮູ້...
+
+1175
+01:12:53,300 --> 01:12:55,300
+[MATER]
+Explode in a fiery inferno?
+ລະເບີດໃນອານາໄມໄຟບໍ?
+
+1176
+01:12:55,800 --> 01:12:57,800
+[MCQUEEN]
+Yeah.
+ແມ່ນແລ້ວ.
+
+1177
+01:12:58,300 --> 01:13:00,750
+[FINN]
+We couldn't figure that one out either.
+ພວກເຮົາຍັງບໍ່ສາມາດຄິດໄດ້ອີກຢ່າງນັ້ນ.
+
+1178
+01:13:01,250 --> 01:13:07,250
+[HOLLEY]
+Our investigation proved that Allinol was actually gasoline. And Miles Axlerod engineered it so that when it got hit by the beam it would explode.
+ການສືບສວນຂອງພວກເຮົາໄດ້ພິສູດວ່າອາລິນອອນແມ່ນເບນຊິນແທ້ໆ. ແລະແມລສ໌
+ແຊລເລຣອດໄດ້ອອກແບບມັນເພື່ອວ່າເມື່ອມັນຖືກຕີໂດຍແສງໄຟມັນຈະລະເບີດ.
+
+1179
+01:13:07,750 --> 01:13:11,250
+[MCQUEEN]
+Wait a second. Fillmore, you said my fuel was safe.
+ລໍຖ້າວິນາທີຫນຶ່ງ. ຟິລມໍ, ເຈົ້າບອກວ່າເຊື້ອໄຟຂອງຂ້ອຍປອດໄພ.
+
+1180
+01:13:11,750 --> 01:13:17,750
+[FILLMORE]
+If you're implying that I switched out that rotgut excuse for alternative fuel with my all- natural, sustainable, organic biofuel just because I never trusted Axlerod, you're dead wrong, man. It was him. 131.
+ຖ້າເຈົ້າຫມາຍຄວາມວ່າຂ້ອຍໄດ້ປ່ຽນເຫດຜົນທີ່ສໍ້ໂກງນັ້ນ ສໍາ ລັບເຊື້ອໄຟທາງເລືອກດ້ວຍເຊື້ອໄຟຊີວະພາບ ທໍາ ມະຊາດທັງ ຫມົດ
+ຂອງຂ້ອຍ, ທີ່ຍືນຍົງ, ຊີວະພາບພຽງແຕ່ເພາະວ່າຂ້ອຍບໍ່ເຄີຍເຊື່ອ Axlerod, ເຈົ້າຜິດພາດຢ່າງແທ້ຈິງ, ຜູ້ຊາຍ. ມັນແມ່ນລາວ. 131.
+
+1181
+01:13:18,250 --> 01:13:20,700
+[SARGE]
+Once Big Oil, always Big Oil. Man.
+ເມື່ອມັນໃຫຍ່, ມັນໃຫຍ່ຢູ່ສະເຫມີ. ຜູ້ຊາຍ.
+
+1182
+01:13:21,200 --> 01:13:23,200
+[FILLMORE]
+Tree hugger.
+ຜູ້ອ້ອມໄມ້.
+
+1183
+01:13:23,700 --> 01:13:28,950
+[SHERIFF]
+The Radiator Springs Grand Prix is about to begin! All spectators clear the starting line!
+ການແຂ່ງຂັນ Grand Prix ຂອງ Radiator Springs ກໍາ
+ລັງຈະເລີ່ມຕົ້ນ! ຜູ້ຊົມທັງ ຫມົດ ລ້າງເສັ້ນເລີ່ມຕົ້ນ!
+
+1184
+01:13:29,450 --> 01:13:33,650
+[LEWIS HAMILTON]
+Man, I can't wait to get rockin'. This is gonna be wicked.
+ຜູ້ຊາຍ, ຂ້ອຍບໍ່ສາມາດລໍຖ້າທີ່ຈະເລີ່ມສັ່ນສະເທືອນໄດ້
+. ນີ້ແມ່ນຈະຮ້າຍແຮງ.
+
+1185
+01:13:34,150 --> 01:13:36,600
+[JEFF GORVETTE]
+Yeah, we should do this every year.
+ແມ່ນແລ້ວ, ພວກເຮົາຄວນເຮັດແບບນີ້ທຸກໆປີ.
+
+1186
+01:13:37,100 --> 01:13:43,100
+[MCQUEEN]
+I just figured, we never found out who the world's fastest car is. Plus: no press, no trophy. Just racing - the way I like it.
+ຂ້ອຍພຽງແຕ່ຄິດວ່າ, ພວກເຮົາບໍ່ເຄີຍຮູ້ວ່າລົດທີ່ໄວທີ່ສຸດໃນໂລກແມ່ນໃຜ. ບວກກັບ
+: ບໍ່ມີສື່ມວນຊົນ, ບໍ່ມີລາງວັນ. ພຽງແຕ່ແຂ່ງຂັນ - ວິທີທີ່ຂ້ອຍມັກມັນ.
+
+1187
+01:13:43,600 --> 01:13:45,700
+[FRANCESCO]
+Francesco likes it like this too.
+ແຟຣນເຊສໂກມັກມັນແບບນີ້ເຊັ່ນກັນ.
+
+1188
+01:13:46,200 --> 01:13:48,650
+[MCQUEEN]
+Francesco. I'd like you to meet ---
+ແຟຣນເຊສໂກ. ຂ້ອຍຢາກໃຫ້ເຈົ້າພົບກັນ ---
+
+1189
+01:13:49,150 --> 01:13:54,050
+[FRANCESCO]
+Signorina Sally. It is official: Lightning McQueen is the luckiest car in the world.
+ນາງແຊລລີ. ມັນເປັນທາງການ:
+ແສງສະຫວ່າງແມັກຄວິນແມ່ນລົດທີ່ມີໂຊກດີທີ່ສຸດໃນໂລກ.
+
+1190
+01:13:54,550 --> 01:13:56,550
+[SALLY]
+Why, thank you ---
+ເປັນຫຍັງ, ຂອບໃຈ ---
+
+1191
+01:13:57,050 --> 01:14:01,600
+[FRANCESCO]
+Which he will have to be to have a chance against Francesco today.
+ຊຶ່ງລາວຕ້ອງເປັນເພື່ອມີໂອກາດຕໍ່ຕ້ານຟຣານເຊສໂກມື້ນີ້.
+
+1192
+01:14:02,100 --> 01:14:04,550
+[FRANCESCO]
+See you at the finish line, Mc---
+ພົບກັນຢູ່ເສັ້ນສິ້ນສຸດ, Mc---
+
+1193
+01:14:05,050 --> 01:14:07,050
+[FRANCESCO]
+What is that?
+ນັ້ນແມ່ນຫຍັງ?
+
+1194
+01:14:07,550 --> 01:14:11,050
+[MCQUEEN]
+It's just something I had made up for the occasion.
+ມັນເປັນພຽງແຕ່ບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍໄດ້ຄິດສ້າງຂຶ້ນ ສໍາ ລັບໂອກາດນີ້.
+
+1195
+01:14:11,550 --> 01:14:17,550
+[FRANCESCO]
+Is good, McQueen. Very funny. It was funnier when I did it, but it's very funny. What are you going to do next? Are you going to take off your fenders? Try it. You'll like it.
+ມັນດີ, ແມັກຄວິນ. ມ່ວນຫຼາຍ. ມັນມ່ວນຫຼາຍຂຶ້ນເມື່ອຂ້ອຍເຮັດມັນ, ແຕ່ມັນມ່ວນຊື່ນຫຼາຍ
+. ເຈົ້າຈະເຮັດຫຍັງຕໍ່ໄປ? ເຈົ້າຈະເອົາກະຕ່າປ່າຂອງທ່ານບໍ? ພະຍາຍາມມັນ. ທ່ານຈະມັກມັນ.
+
+1196
+01:14:18,050 --> 01:14:20,050
+[SALLY]
+So he's not so good-looking.
+ສະນັ້ນລາວບໍ່ສວຍງາມຫຼາຍ.
+
+1197
+01:14:20,550 --> 01:14:22,550
+[MCQUEEN]
+Yeah. Nice try.
+ແມ່ນແລ້ວ. ຄວາມພະຍາຍາມທີ່ດີ.
+
+1198
+01:14:23,050 --> 01:14:25,050
+[SALLY]
+I'm serious.
+ຂ້ອຍເວົ້າຈິງໃຈ.
+
+1199
+01:14:25,550 --> 01:14:28,700
+[MCQUEEN]
+That's why I love you, Sally.  Wish me luck.
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍຮັກເຈົ້າ, ແຊລລີ. ຂໍຄວາມໂຊກດີໃຫ້ຂ້ອຍ.
+
+1200
+01:14:29,200 --> 01:14:31,200
+[SALLY]
+You don't need it!
+ເຈົ້າບໍ່ຕ້ອງການມັນ!
+
+1201
+01:14:31,700 --> 01:14:33,800
+[FLO]
+Mmm-mmm. That Francesco is fine- looking.
+ມມມມ. ຟຣານເຊສໂກນັ້ນເບິ່ງດີ.
+
+1202
+01:14:34,300 --> 01:14:36,300
+[SALLY]
+And those open wheels.
+ແລະລໍ້ທີ່ເປີດນັ້ນ.
+
+1203
+01:14:36,800 --> 01:14:40,300
+[FLO]
+I'm gonna have to go get myself some coolant. 133.
+ຂ້ອຍຈະຕ້ອງໄປເອົາແຫຼວເຢັນໃຫ້ຕົວເອງ. 133.
+
+1204
+01:14:40,800 --> 01:14:42,800
+[MATER]
+Go McQueen!! Whoo-hoo!!!
+ໄປແມັກຄວິນ!! ໂວ້ໂວ້!!!
+
+1205
+01:14:43,300 --> 01:14:47,150
+[HOLLEY]
+Finn, time to go. Siddeley's gassed, geared and ready to fly.
+ຟິນນ໌, ມັນເຖິງເວລາທີ່ຈະໄປ. ຊີເດລີຖືກແກັສ, ກຽມພ້ອມແລະພ້ອມທີ່ຈະບິນ.
+
+1206
+01:14:47,650 --> 01:14:49,650
+[MATER]
+You're leaving already?
+ເຈົ້າ ກໍາ ລັງອອກໄປແລ້ວບໍ?
+
+1207
+01:14:50,150 --> 01:14:54,700
+[FINN]
+We've got another mission, Mater. Just stopped by here to "pick something up."
+ພວກເຮົາມີພາລະກິດອີກຫນຶ່ງ, ແມ່.
+ພຽງແຕ່ຢຸດຢູ່ບ່ອນນີ້ເພື່ອ"ເອົາບາງສິ່ງບາງຢ່າງ."
+
+1208
+01:14:55,200 --> 01:14:58,700
+[MATER]
+Something tells me you're not talking about souvenir bumper stickers.
+ບາງສິ່ງບາງຢ່າງບອກຂ້ອຍວ່າເຈົ້າບໍ່ໄດ້ເວົ້າກ່ຽວກັບສະຕິກເກີກະຕູ້ລະນຶກ
+.
+
+1209
+01:14:59,200 --> 01:15:01,650
+[FINN]
+Her Majesty asked for you personally, Mater.
+ເຈົ້າຂອງນາງຂໍທ່ານໂດຍສ່ວນຕົວ, ແມ່.
+
+1210
+01:15:02,150 --> 01:15:05,650
+[MATER]
+But I told you all before. I'm not a spy.
+ແຕ່ຂ້ອຍບອກເຈົ້າກ່ອນແລ້ວ. ຂ້ອຍບໍ່ແມ່ນນັກສືບ.
+
+1211
+01:15:06,150 --> 01:15:08,150
+[HOLLEY]
+We know. 134.
+ພວກເຮົາຮູ້ແລ້ວ. 134.
+
+1212
+01:15:08,650 --> 01:15:13,200
+[FINN]
+Spy or not, you're still the smartest, most honest chap we've ever met.
+ເຈົ້າເປັນນັກສືບຫຼືບໍ່, ເຈົ້າຍັງເປັນຜູ້ຊາຍທີ່ສະຫຼາດທີ່ສຸດ
+, ຊື່ສັດທີ່ສຸດທີ່ພວກເຮົາເຄີຍພົບກັນ.
+
+1213
+01:15:13,700 --> 01:15:15,700
+[HOLLEY]
+Don't forget massively charming.
+ຢ່າລືມຄວາມສວຍງາມຢ່າງຫຼວງຫຼາຍ.
+
+1214
+01:15:16,200 --> 01:15:20,750
+[MATER]
+Well, thanks. But as much fun as it was hanging with y'all, this...
+ດີ, ຂອບໃຈ. ແຕ່ມັນມ່ວນຫຼາຍເທົ່າທີ່ມັນຢູ່ກັບເຈົ້າທັງ
+ຫມົດ, ນີ້ແມ່ນ...
+
+1215
+01:15:21,250 --> 01:15:23,250
+[MATER]
+This is home.
+ນີ້ແມ່ນບ້ານ.
+
+1216
+01:15:23,750 --> 01:15:29,000
+[HOLLEY]
+That's alright, we understand. But I'll be back. You still owe me that first date.
+ມັນບໍ່ເປັນຫຍັງ, ພວກເຮົາເຂົ້າໃຈ. ແຕ່ຂ້ອຍຈະກັບມາ
+. ເຈົ້າຍັງເປັນຫນີ້ຂ້ອຍວັນທີ ທໍາ ອິດນັ້ນ.
+
+1217
+01:15:29,500 --> 01:15:34,050
+[FINN]
+If there's ever anything I can do for you, just let me know.
+ຖ້າມີຫຍັງທີ່ຂ້ອຍສາມາດເຮັດໄດ້ ສໍາ ລັບເຈົ້າ, ພຽງແຕ່ບອກຂ້ອຍ.
+
+1218
+01:15:34,550 --> 01:15:39,450
+[MATER]
+Well, I sure appreciate that, thank you. Actually... there is one thing. CUT TO:
+ດີ, ຂ້ອຍຍ້ອງຍໍມັນແນ່ນອນ, ຂອບໃຈ.
+ໃນຄວາມເປັນຈິງ... ມີສິ່ງດຽວ. ຕັດອອກ:
+
+1219
+01:15:39,950 --> 01:15:41,950
+[MATER]
+Whoo-hoo!!!
+ໂວ້ໂວ້!!!
+
+1220
+01:15:42,450 --> 01:15:44,450
+[OTIS]
+Whoa!!!
+ໂວ້!!!
+
+1221
+01:15:44,950 --> 01:15:46,950
+[OTIS]
+Thanks, Mater! 135.
+ຂອບໃຈ, ແມ່! 135.
+
+1222
+01:15:47,450 --> 01:15:49,450
+[FRANCESCO]
+Impossible!
+ບໍ່ເປັນໄປໄດ້!
+
+1223
+01:15:49,950 --> 01:15:51,950
+[MCQUEEN]
+Mater!?
+ແມ່!?
+
+1224
+01:15:52,450 --> 01:15:55,600
+[MATER]
+Check it out. They let me keep the rockets!
+ເບິ່ງມັນແມ. ພວກເຂົາປ່ອຍໃຫ້ຂ້ອຍຮັກສາລູກສອນໄຟໄວ້!
+
+1225
+01:15:56,100 --> 01:15:58,900
+[MCQUEEN]
+I'll see you at the finish line, buddy!
+ຂ້ອຍຈະເຫັນເຈົ້າຢູ່ເສັ້ນສຸດທ້າຍ, ເພື່ອນ!
+
+1226
+01:15:59,400 --> 01:16:01,500
+[MATER]
+Not if I see you first!
+ບໍ່ຖ້າຂ້ອຍເຫັນເຈົ້າກ່ອນ!
+

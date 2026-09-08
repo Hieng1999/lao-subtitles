@@ -1,0 +1,5256 @@
+1
+00:00:10,000 --> 00:00:14,900
+[TRUCK DRIVER]
+Here, lads, East Proctor and all about are the moors.  I go east here.
+ຢູ່ບ່ອນນີ້, ພວກຜູ້ຊາຍ, East Proctor ແລະທຸກຢ່າງຢູ່ອ້ອມຂ້າງແມ່ນ
+moors ໄດ້. ຂ້ອຍໄປທາງທິດຕາເວັນອອກທີ່ນີ້.
+
+2
+00:00:15,400 --> 00:00:20,300
+[JACK]
+Yes, well thank you very much for the ride, sir.  You have lovely sheep.
+ແມ່ນແລ້ວ, ດີຂອບໃຈຫຼາຍໆ ສໍາ ລັບການຂັບລົດເດີ. ເຈົ້າມີແມວທີ່ສວຍງາມ.
+
+3
+00:00:20,800 --> 00:00:25,350
+[TRUCK DRIVER]
+Boys, keep off the moors. Stay on the road.  Good luck to you.
+ພວກຊາຍ, ຢູ່ຫ່າງຈາກບົກຜ່າ. ຢູ່ຕາມທາງ. ໂຊກດີໃຫ້ເຈົ້າ.
+
+4
+00:00:25,850 --> 00:00:27,850
+[DAVID]
+Thanks again!
+ຂອບໃຈອີກເທື່ອຫນຶ່ງ!
+
+5
+00:00:28,350 --> 00:00:30,350
+[JACK]
+Are you cold?
+ເຈົ້າເຢັນບໍ?
+
+6
+00:00:30,850 --> 00:00:32,850
+[DAVID]
+Yes.
+ແມ່ນແລ້ວ.
+
+7
+00:00:33,350 --> 00:00:35,350
+[JACK]
+Good.
+ດີແລ້ວ.
+
+8
+00:00:35,850 --> 00:00:37,850
+[DAVID]
+Jack.
+ແຈກ.
+
+9
+00:00:38,350 --> 00:00:40,350
+[JACK]
+David.
+ເດວິດ
+
+10
+00:00:40,850 --> 00:00:43,650
+[DAVID]
+You're not having a good time are you?
+ເຈົ້າບໍ່ໄດ້ມ່ວນຊື່ນບໍ?
+
+11
+00:00:44,150 --> 00:00:48,700
+[JACK]
+Oh, I don't know.  I mean look around.  Isn't this a fun place?
+ໂອ້, ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍຫມາຍຄວາມວ່າເບິ່ງຢູ່ອ້ອມຂ້າງ
+. ນີ້ແມ່ນບ່ອນທີ່ມ່ວນບໍ?
+
+12
+00:00:49,200 --> 00:00:51,200
+[DAVID]
+Well, I like it here.
+ດີ, ຂ້ອຍມັກບ່ອນນີ້.
+
+13
+00:00:51,700 --> 00:00:54,150
+[JACK]
+I'm sorry.  Northern England first, Italy later.
+ຂ້ອຍຂໍໂທດ. ອັງກິດພາກເຫນືອກ່ອນ, ອີຕາລີຕໍ່ມາ.
+
+14
+00:00:54,650 --> 00:00:56,650
+[DAVID]
+Right.
+ແມ່ນແລ້ວ.
+
+15
+00:00:57,150 --> 00:00:59,950
+[JACK]
+Do you think she'll meet me in Rome?
+ເຈົ້າຄິດວ່ານາງຈະພົບຂ້ອຍຢູ່ໂຣມບໍ?
+
+16
+00:01:00,450 --> 00:01:04,650
+[DAVID]
+I think Debbie Klein is a mediocre person with a good body.
+ຂ້ອຍຄິດວ່າ ເດບບີ ຄລິນເປັນຄົນສະເລ່ຍທີ່ມີຮ່າງກາຍທີ່ດີ.
+
+17
+00:01:05,150 --> 00:01:10,400
+[JACK]
+Debbie is not mediocre and she has one of the great bodies of all time.
+ເດບບີບໍ່ແມ່ນຄົນກາງແລະນາງມີຮ່າງກາຍທີ່ຍິ່ງໃຫຍ່ທີ່ສຸດໃນຕະຫຼອດເວລາ.
+
+18
+00:01:10,900 --> 00:01:12,900
+[DAVID]
+She's a jerk.
+ນາງເປັນຄົນໂຊກຮ້າຍ.
+
+19
+00:01:13,400 --> 00:01:15,850
+[JACK]
+You're talking about the woman I love.
+ເຈົ້າ ກໍາ ລັງເວົ້າກ່ຽວກັບແມ່ຍິງທີ່ຂ້ອຍຮັກ.
+
+20
+00:01:16,350 --> 00:01:21,250
+[DAVID]
+I'm talking about a girl you want to fuck, so give me a break.
+ຂ້ອຍ ກໍາ ລັງເວົ້າກ່ຽວກັບເດັກຍິງທີ່ທ່ານຢາກຟັກ, ສະນັ້ນພໍໄດ້ແລ້ວ!
+
+21
+00:01:21,750 --> 00:01:24,550
+[JACK]
+Well, anyway, do you think she'll be there?
+ດີ, ຢ່າງໃດກໍຕາມ, ເຈົ້າຄິດວ່ານາງຈະຢູ່ບ່ອນນັ້ນບໍ?
+
+22
+00:01:25,050 --> 00:01:27,050
+[DAVID]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+23
+00:01:27,550 --> 00:01:33,550
+[JACK]
+Rendezvous in Rome starring Jack Goodman and Debbie Klein. The love affair that shocked Europe!  See torrid lovemaking at its most explicit!  See Jack and Debbie expose their lust in the sacred halls of the Vatican!  Never has the screen dared....
+ການພົບປະໃນໂຣມໂດຍການສະແດງໂດຍແຈກ ກູດແມນ ແລະ ເດບບີ ຄລິນ. ເລື່ອງຄວາມຮັກທີ່ເຮັດໃຫ້ເອີຣົບຕົກໃຈ! ເບິ່ງການຮັກທີ່ຮ້ອນແຮງໃນທີ່ຊັດເຈນທີ່ສຸດ
+! ເບິ່ງ ແຈກ ແລະ ເດເບີເປີດເຜີຍຄວາມປາຖະຫນາຂອງພວກເຂົາໃນຫ້ອງສັກສິດຂອງວາດິການ! ຫນ້າ ຈໍບໍ່ເຄີຍກ້າຫານ....
+
+24
+00:01:34,050 --> 00:01:37,200
+[DAVID]
+If you don't stop, I'm going to kill you.
+ຖ້າເຈົ້າບໍ່ຢຸດ, ຂ້ອຍຈະຂ້າເຈົ້າ.
+
+25
+00:01:37,700 --> 00:01:42,950
+[JACK]
+I have to make love to her. It's very simple.  She has no choice really.
+ຂ້ອຍຕ້ອງຮັກກັບນາງ. ມັນງ່າຍດາຍຫຼາຍ. ນາງບໍ່ມີທາງເລືອກແທ້ໆ.
+
+26
+00:01:43,450 --> 00:01:48,700
+[DAVID]
+It just fascinates me that you can spend so much energy on someone so dull.
+ມັນພຽງແຕ່ເຮັດໃຫ້ຂ້ອຍສົນໃຈວ່າເຈົ້າສາມາດໃຊ້ພະລັງງານຫຼາຍປານໃດໃສ່ຄົນໂຊກຮ້າຍຫຼາຍ
+.
+
+27
+00:01:49,200 --> 00:01:53,050
+[JACK]
+It is impossible for a body like that to be dull.
+ມັນບໍ່ສາມາດເປັນໄປໄດ້ ສໍາ ລັບຮ່າງກາຍແບບນັ້ນທີ່ຈະໂຊກຮ້າຍ.
+
+28
+00:01:53,550 --> 00:01:58,800
+[DAVID]
+We've known Debbie what, since the eighth grade?  How many years of foreplay is that?
+ພວກເຮົາຮູ້ຈັກເດບບີຫຍັງ, ນັບຕັ້ງແຕ່ຊັ້ນທີແປດ
+? ນັ້ນແມ່ນການຫຼີ້ນກ່ອນຫຼາຍປານໃດປີ?
+
+29
+00:01:59,300 --> 00:02:01,750
+[JACK]
+She says she `likes me too much'.
+ນາງເວົ້າວ່ານາງມັກຂ້ອຍຫຼາຍເກີນໄປ.
+
+30
+00:02:02,250 --> 00:02:04,250
+[JACK]
+The Slaughtered Lamb?
+ແມວທີ່ຖືກຂ້າຕາຍບໍ?
+
+31
+00:02:04,750 --> 00:02:10,750
+[DAVID]
+Of course, The Slaughtered Lamb.  Why else would they have a severed fox head on a spear as their symbol?
+ແນ່ນອນ, ແມວທີ່ຖືກຂ້າຕາຍ.
+ຖ້າບໍ່ດັ່ງນັ້ນພວກເຂົາຈະມີຫົວປູທີ່ຖືກຕັດໃສ່ປືນເປັນສັນຍາລັກຂອງພວກເຂົາເປັນຫຍັງ?
+
+32
+00:02:11,250 --> 00:02:13,250
+[JACK]
+That's a wolf's head.
+ນັ້ນແມ່ນຫົວຂອງແມວ.
+
+33
+00:02:13,750 --> 00:02:19,750
+[DAVID]
+Of course, The Slaughtered Lamb.  Why else would they have a severed wolf's head on a spear as their symbol?
+ແນ່ນອນ, ແມວທີ່ຖືກຂ້າຕາຍ.
+ຖ້າບໍ່ດັ່ງນັ້ນພວກເຂົາຈະມີຫົວແມວຕັດໃສ່ປືນເປັນສັນຍາລັກຂອງພວກເຂົາເປັນຫຍັງ?
+
+34
+00:02:20,250 --> 00:02:22,700
+[JACK]
+That's not a spear.  It's a pike.
+ນັ້ນບໍ່ແມ່ນປືນ. ມັນແມ່ນປິກ.
+
+35
+00:02:23,200 --> 00:02:26,700
+[DAVID]
+A severed wolf's head on a pike as their symbol.
+ຫົວແມວທີ່ຖືກຕັດລົງໃສ່ປິກເປັນສັນຍາລັກຂອງພວກເຂົາ.
+
+36
+00:02:27,200 --> 00:02:33,200
+[JACK]
+David, before we go in there I want you to know that - no matter what happens to us - it's your fault.
+ເດວິດ, ກ່ອນທີ່ພວກເຮົາຈະເຂົ້າໄປໃນບ່ອນນັ້ນຂ້ອຍຢາກໃຫ້ເຈົ້າຮູ້ວ່າ
+- ບໍ່ວ່າຈະເກີດຫຍັງຂຶ້ນກັບພວກເຮົາ - ມັນແມ່ນຄວາມຜິດຂອງເຈົ້າ.
+
+37
+00:02:33,700 --> 00:02:35,700
+[DAVID]
+I assume full responsibility.
+ຂ້ອຍຮັບຜິດຊອບຢ່າງເຕັມທີ່.
+
+38
+00:02:36,200 --> 00:02:38,200
+[JACK]
+Okay.
+ດີແລ້ວ.
+
+39
+00:02:38,700 --> 00:02:40,700
+[DAVID]
+Shall we?
+ພວກເຮົາເຮັດບໍ?
+
+40
+00:02:41,200 --> 00:02:43,200
+[DAVID]
+Hello.
+ສະບາຍດີ.
+
+41
+00:02:43,700 --> 00:02:45,700
+[JACK]
+Nice to see you.
+ດີໃຈທີ່ເຫັນເຈົ້າ.
+
+42
+00:02:46,200 --> 00:02:49,000
+[DAVID]
+It's very cold outside.  May we come in?
+ມັນເຢັນຫຼາຍຢູ່ພາຍນອກ. ພວກເຮົາເຂົ້າມາໄດ້ບໍ?
+
+43
+00:02:49,500 --> 00:02:51,600
+[JACK]
+Do you have any hot soup?
+ເຈົ້າມີຊູດຮ້ອນບໍ?
+
+44
+00:02:52,100 --> 00:02:54,100
+[WOMAN]
+No.
+ບໍ່
+
+45
+00:02:54,600 --> 00:02:56,700
+[DAVID]
+Well, do you have any coffee?
+ເຈົ້າມີກາເຟບໍ?
+
+46
+00:02:57,200 --> 00:02:59,200
+[WOMAN]
+No.
+ບໍ່
+
+47
+00:02:59,700 --> 00:03:01,700
+[JACK]
+Hot chocolate?
+ໂຊກໂກແລັດຮ້ອນບໍ?
+
+48
+00:03:02,200 --> 00:03:07,450
+[WOMAN]
+We've got spirits and beer. If it's something hot you want, you can have tea.
+ພວກເຮົາມີວິນຍານແລະເບຍ.
+ຖ້າມັນເປັນບາງສິ່ງບາງຢ່າງທີ່ຮ້ອນທີ່ທ່ານຕ້ອງການ, ທ່ານສາມາດກິນຊາໄດ້.
+
+49
+00:03:07,950 --> 00:03:10,050
+[JACK]
+Then you have some hot tea?
+ຫຼັງຈາກນັ້ນເຈົ້າກິນຊາຮ້ອນບໍ?
+
+50
+00:03:10,550 --> 00:03:12,550
+[WOMAN]
+No.
+ບໍ່
+
+51
+00:03:13,050 --> 00:03:15,050
+[JACK]
+Oh.
+ໂອ້.
+
+52
+00:03:15,550 --> 00:03:19,400
+[WOMAN]
+But I can heat some up for you if you'd like.
+ແຕ່ຂ້ອຍສາມາດອົບອຸ່ນບາງຢ່າງ ສໍາ ລັບເຈົ້າໄດ້ຖ້າເຈົ້າຕ້ອງການ.
+
+53
+00:03:19,900 --> 00:03:21,900
+[DAVID & JACK]
+Yes, please.
+ແມ່ນແລ້ວ, ກະລຸນາ.
+
+54
+00:03:22,400 --> 00:03:24,400
+[JACK]
+Nice looking group.
+ກຸ່ມທີ່ເບິ່ງດີ.
+
+55
+00:03:24,900 --> 00:03:27,350
+[DAVID]
+Listen, at least it's warm in here.
+ຟັງ, ຢ່າງຫນ້ອຍມັນຮ້ອນຢູ່ບ່ອນນີ້.
+
+56
+00:03:27,850 --> 00:03:29,850
+[JACK]
+Look at that.
+ເບິ່ງແມ.
+
+57
+00:03:30,350 --> 00:03:32,350
+[DAVID]
+What about it?
+ມັນແນວໃດ?
+
+58
+00:03:32,850 --> 00:03:34,850
+[JACK]
+It's a five-pointed star.
+ມັນເປັນດາວຫ້າຈຸດ.
+
+59
+00:03:35,350 --> 00:03:37,450
+[DAVID]
+Maybe the owners are from Texas.
+ບາງທີເຈົ້າຂອງແມ່ນມາຈາກເທັກຊັສ.
+
+60
+00:03:37,950 --> 00:03:39,950
+[JACK]
+Remember the Alamo?
+ເຈົ້າຈື່ອາລາໂມບໍ?
+
+61
+00:03:40,450 --> 00:03:42,450
+[WOMAN]
+I beg your pardon?
+ຂ້ອຍຂໍໂທດບໍ?
+
+62
+00:03:42,950 --> 00:03:44,950
+[DAVID]
+He was joking.  Thank you.
+ລາວໂຊກຮ້າຍ. ຂອບໃຈ.
+
+63
+00:03:45,450 --> 00:03:50,350
+[WOMAN]
+Joking?  I remember The Alamo. I saw it once in London, in Leicester Square.
+ຂ້ອຍຈື່ອາລາໂມ. ຂ້ອຍເຫັນມັນຄັ້ງຫນຶ່ງໃນລອນດອນ, ໃນສະໂມສອນເລສເຕີ.
+
+64
+00:03:50,850 --> 00:03:54,700
+[CHESS PLAYER]
+She means in the cinema, that film with John Wayne.  Checkmate.
+ນາງຫມາຍຄວາມວ່າໃນຮູບເງົາ, ຮູບເງົານັ້ນກັບຈອນ ເວີນ. ແຊກແມດ.
+
+65
+00:03:55,200 --> 00:03:57,200
+[DAVID]
+Oh, yes, of course.
+ໂອ້ ແມ່ນແລ້ວ ແນ່ນອນ.
+
+66
+00:03:57,700 --> 00:04:02,250
+[JACK]
+Right, with Laurence Harvey and everybody died in it.  It was very bloody.
+ແມ່ນແລ້ວ, ກັບໂລຣັນສ໌ ຮາເວີ ແລະທຸກຄົນຕາຍໃນມັນ. ມັນເປັນເລືອດຫຼາຍ.
+
+67
+00:04:02,750 --> 00:04:04,850
+[CHESS PLAYER]
+Bloody awful if you ask me!
+ມັນຮ້າຍແຮງຫຼາຍຖ້າເຈົ້າຖາມຂ້ອຍ!
+
+68
+00:04:05,350 --> 00:04:09,550
+[CHESS PLAYER]
+Here, Gladys, Tom.  Did you hear the one about the crashing plane?
+ມາແລ້ວ, ແກລດິສ, ໂຕມ. ເຈົ້າໄດ້ຍິນເລື່ອງກ່ຽວກັບເຮືອບິນຕົກບໍ?
+
+69
+00:04:10,050 --> 00:04:12,050
+[WOMAN]
+No, but we're about to.
+ບໍ່, ແຕ່ພວກເຮົາ ກໍາ ລັງຈະເຮັດ.
+
+70
+00:04:12,550 --> 00:04:15,350
+[CHESS PLAYER]
+You be quiet, woman, and let me speak.
+ເຈົ້າງຽບສະຫງົບ, ແມ່ຍິງ, ແລະປ່ອຍໃຫ້ຂ້ອຍເວົ້າ.
+
+71
+00:04:15,850 --> 00:04:17,850
+[WOMAN]
+Quiet, everyone!  Hush!  Shhh!
+ງຽບ, ທຸກຄົນ! ງຽບ! ສະຫງົບ!
+
+72
+00:04:18,350 --> 00:04:21,150
+[CHESS PLAYER]
+All right, laugh then.  I shan't tell it.
+ດີແລ້ວ, ມ່ວນຊື່ນແລ້ວ. ຂ້ອຍຈະບໍ່ບອກມັນ.
+
+73
+00:04:21,650 --> 00:04:23,650
+[WOMAN]
+Oh, come on, tell us.
+ໂອ້, ມາແລ້ວ, ບອກພວກເຮົາ.
+
+74
+00:04:24,150 --> 00:04:26,150
+[CHESS PLAYER]
+No.  You've had your chance.
+ບໍ່. ເຈົ້າມີໂອກາດແລ້ວ.
+
+75
+00:04:26,650 --> 00:04:29,100
+[JACK]
+Ask them what the candles are for.
+ຖາມພວກເຂົາວ່າແສງສະຫວ່າງແມ່ນຫຍັງ.
+
+76
+00:04:29,600 --> 00:04:31,600
+[DAVID]
+You ask them.
+ເຈົ້າຖາມພວກເຂົາ.
+
+77
+00:04:32,100 --> 00:04:38,100
+[JACK]
+Listen, that's a pentangle, a five-pointed star.  It's used in witchcraft.  Lon Chaney, Jr. and Universal Studios maintain it's the mark of the wolf man.
+ຟັງ, ນັ້ນແມ່ນ pentangle, ດາວຫ້າຈຸດ. ມັນຖືກນໍາໃຊ້ໃນການຊະຍາກອນ. ໂລນ
+Chaney, Jr ແລະ Universal Studios ຮັກສາວ່າມັນເປັນເຄື່ອງຫມາຍຂອງຜູ້ຊາຍແມວ.
+
+78
+00:04:38,600 --> 00:04:44,550
+[DAVID]
+I see.  You want me to ask these people if they're burning candles to ward off monsters.
+ຂ້ອຍເຫັນແລ້ວ. ເຈົ້າຢາກໃຫ້ຂ້ອຍຖາມຄົນເຫຼົ່ານີ້ວ່າພວກເຂົາ
+ກໍາ ລັງເຜົາໄຫມ້ແສງສະຫວ່າງເພື່ອປ້ອງກັນໂມສເຕີບໍ.
+
+79
+00:04:45,050 --> 00:04:47,050
+[JACK]
+Right.
+ແມ່ນແລ້ວ.
+
+80
+00:04:47,550 --> 00:04:53,500
+[DAVID]
+Wrong. The drinkers have gotten the Chess Player to tell the joke as everyone knew he would.
+ຜິດ.
+ຄົນດື່ມໄດ້ເຮັດໃຫ້ນັກຫຼິ້ນຊັກແຊກແຊງເວົ້າໂມສ໌ດັ່ງທີ່ທຸກຄົນຮູ້ວ່າລາວຈະເຮັດ.
+
+81
+00:04:54,000 --> 00:05:00,000
+[CHESS PLAYER]
+Oh, all right.  There was this airplane over the Atlantic on its way to New York.  It was full of men from the United Nations.
+ໂອ້, ດີແລ້ວ. ມີເຮືອບິນນີ້ຢູ່ເທິງມະຫາສະຫມຸດອາຕລານຕິກໃນທາງໄປນິວຢອກ
+. ມັນເຕັມໄປດ້ວຍຜູ້ຊາຍຈາກສະຫະປະຊາຊາດ.
+
+82
+00:05:00,500 --> 00:05:02,500
+[WOMAN]
+That's very funny, that is.
+ນັ້ນແມ່ນມ່ວນຫຼາຍ, ນັ້ນແມ່ນ.
+
+83
+00:05:03,000 --> 00:05:05,000
+[JACK]
+Go on, ask them.
+ໄປ, ຖາມພວກເຂົາ.
+
+84
+00:05:05,500 --> 00:05:07,500
+[DAVID]
+You ask them.
+ເຈົ້າຖາມພວກເຂົາ.
+
+85
+00:05:08,000 --> 00:05:14,000
+[CHESS PLAYER]
+Here now, let me finish!  So halfway over the ocean the engines run low on petrol so they have to lighten the plane.  So they heave out all the baggage, but it's still too heavy.  So they chuck out the seats, but it's still too heavy!  Finally this Froggy steps up and shouts "Viva la France" and leaps out.  Then an Englishman....
+ຢູ່ບ່ອນນີ້ດຽວນີ້, ຂໍໃຫ້ຂ້ອຍສິ້ນສຸດລົງ! ສະນັ້ນເຄິ່ງທາງເທິງມະຫາສະຫມຸດເຄື່ອງຈັກແລ່ນຕໍ່າໃນນໍ້າມັນເຊື້ອໄຟ ສະນັ້ນພວກເຂົາຕ້ອງເຮັດໃຫ້ເຮືອບິນເບົາບາງ. ສະນັ້ນພວກເຂົາຍົກຖົງທຸກຢ່າງອອກ
+, ແຕ່ມັນຍັງຫນັກເກີນໄປ. ດັ່ງນັ້ນພວກເຂົາຖິ້ມບ່ອນນັ່ງອອກ, ແຕ່ນີ້ຍັງ ຫນັກເກີນໄປ! ສຸດທ້າຍແຟຣຈີນີ້ຂຶ້ນແລະຮ້ອງໄຫ້ວ່າ" Viva la France" ແລະໂດດອອກ. ຫຼັງຈາກນັ້ນຄົນອັງກິດ....
+
+86
+00:05:14,500 --> 00:05:16,500
+[DART PLAYERS]
+Hear!  Hear!
+ຟັງ! ຟັງ!
+
+87
+00:05:17,000 --> 00:05:23,000
+[CHESS PLAYER]
+...steps up and shouts `God save the Queen!' and leaps out.  But the plane is still too heavy.  So the Yank delegate from Texas steps up, shouts, `Remember the Alamo!' and chucks out the Mexican.
+... ຂຶ້ນແລະຮ້ອງໄຫ້ວ່າ ` ພຣະເຈົ້າຊ່ວຍລາຊິນີ! ແລະໂດດອອກ. ແຕ່ເຮືອບິນຍັງຫນັກເກີນໄປ.
+ສະນັ້ນຜູ້ແທນ Yank ຈາກເທັກຊັສຂຶ້ນ, ຮ້ອງໄຫວວ່າ, ` ຈື່ອາລາໂມ! ແລະຖິ້ມຊາວເມັກຊິໂກອອກ.
+
+88
+00:05:23,500 --> 00:05:25,500
+[DART PLAYER]
+Remember the Alamo!
+ຈື່ອາລາໂມ!
+
+89
+00:05:26,000 --> 00:05:29,500
+[JACK]
+Excuse me, but what's that star on the wall for?
+ຂໍໂທດຂ້ອຍ, ແຕ່ດາວທີ່ຢູ່ເທິງກໍາແພງແມ່ນຫຍັງ?
+
+90
+00:05:30,000 --> 00:05:32,000
+[DART PLAYER]
+You've made me miss.
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍພາດ.
+
+91
+00:05:32,500 --> 00:05:34,500
+[JACK]
+I'm sorry.
+ຂ້ອຍຂໍໂທດ.
+
+92
+00:05:35,000 --> 00:05:37,100
+[DART PLAYER]
+I've never missed the board before.
+ຂ້ອຍບໍ່ເຄີຍພາດກະດານກ່ອນ.
+
+93
+00:05:37,600 --> 00:05:39,600
+[DAVID]
+Jack, we'd better go.
+ແຈກ, ພວກເຮົາຄວນໄປ.
+
+94
+00:05:40,100 --> 00:05:42,200
+[JACK]
+What do you mean?  I'm starving.
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ? ຂ້ອຍ ກໍາ ລັງຍຶດຫິວ.
+
+95
+00:05:42,700 --> 00:05:44,700
+[DART PLAYER]
+There's no food here.
+ບໍ່ມີອາຫານຢູ່ບ່ອນນີ້.
+
+96
+00:05:45,200 --> 00:05:47,300
+[DAVID]
+Come on, Jack, shall we go?!!
+ມາແລ້ວ, ແຈກ, ພວກເຮົາຈະໄປບໍ?!!
+
+97
+00:05:47,800 --> 00:05:49,800
+[JACK]
+Apparently so.
+ເບິ່ງຄືວ່າເປັນ.
+
+98
+00:05:50,300 --> 00:05:52,300
+[WOMAN]
+You can't let them go.
+ເຈົ້າບໍ່ສາມາດປ່ອຍພວກເຂົາໄປໄດ້.
+
+99
+00:05:52,800 --> 00:05:54,900
+[DAVID]
+How much do we owe you?
+ພວກເຮົາຫນີ້ເຈົ້າຫຼາຍປານໃດ?
+
+100
+00:05:55,400 --> 00:05:57,850
+[CHESS PLAYER]
+Nothing, lads.  Go, God be with you.
+ບໍ່ມີຫຍັງເລີຍ, ພວກຜູ້ຊາຍ. ໄປ, ພຣະເຈົ້າຢູ່ກັບເຈົ້າ.
+
+101
+00:05:58,350 --> 00:06:00,350
+[DAVID]
+Uh, thank you.
+ໂອ້, ຂອບໃຈ.
+
+102
+00:06:00,850 --> 00:06:03,300
+[WOMAN]
+Wait!  You just can't let them go!
+ລໍຖ້າ! ເຈົ້າພຽງແຕ່ບໍ່ສາມາດປ່ອຍພວກເຂົາໄປໄດ້!
+
+103
+00:06:03,800 --> 00:06:07,650
+[DART PLAYER]
+Go!  And stay on the road. Keep clear of the moors.
+ໄປ! ແລະຢູ່ຕາມທາງ. ຮັກສາຫ່າງຈາກ moors ໄດ້.
+
+104
+00:06:08,150 --> 00:06:10,150
+[DAVID]
+Yes, well, thanks again.
+ແມ່ນແລ້ວ, ດີ, ຂອບໃຈອີກເທື່ອຫນຶ່ງ.
+
+105
+00:06:10,650 --> 00:06:12,650
+[CHESS PLAYER]
+Beware the moon, lads!
+ລະມັດລະວັງດວງຈັນ, ພວກຜູ້ຊາຍ!
+
+106
+00:06:13,150 --> 00:06:15,600
+[JACK]
+What the hell was that all about?
+ນັ້ນແມ່ນຫຍັງ?
+
+107
+00:06:16,100 --> 00:06:21,000
+[DAVID]
+I don't know.  Let's see if there's an inn or something up the road.
+ຂ້ອຍບໍ່ຮູ້. ມາເບິ່ງວ່າມີໂຮງແຮມຫຼືບາງສິ່ງບາງຢ່າງຢູ່ທາງເທິງບໍ.
+
+108
+00:06:21,500 --> 00:06:23,500
+[JACK]
+Beware the moon?
+ລະມັດລະວັງດວງຈັນບໍ?
+
+109
+00:06:24,000 --> 00:06:26,000
+[DAVID]
+Come on, I'm freezing.
+ມາແລ້ວ, ຂ້ອຍກໍາລັງເຢັນ.
+
+110
+00:06:26,500 --> 00:06:28,500
+[WOMAN]
+You can't let them go.
+ເຈົ້າບໍ່ສາມາດປ່ອຍພວກເຂົາໄປໄດ້.
+
+111
+00:06:29,000 --> 00:06:31,100
+[DART PLAYER]
+Should the world know our business?!
+ໂລກຄວນຮູ້ທຸລະກິດຂອງພວກເຮົາບໍ?
+
+112
+00:06:31,600 --> 00:06:33,600
+[CHESS PLAYER]
+It's murder then.
+ຫຼັງຈາກນັ້ນມັນເປັນການຄາດຕະກໍາ.
+
+113
+00:06:34,100 --> 00:06:37,250
+[DART PLAYER]
+Then murder it is!  It's in God's hands now.
+ຫຼັງຈາກນັ້ນມັນເປັນການຄາດຕະກໍາ! ມັນຢູ່ໃນມືຂອງພຣະເຈົ້າດຽວນີ້.
+
+114
+00:06:37,750 --> 00:06:41,250
+[DAVID]
+That was weird.  I guess leaving was the best idea.
+ນັ້ນແມ່ນແປກໃຈ. ຂ້ອຍຄິດວ່າການອອກຈາກແມ່ນຄວາມຄິດທີ່ດີທີ່ສຸດ.
+
+115
+00:06:41,750 --> 00:06:47,750
+[JACK]
+I don't know.  Now that we're out here and it's three degrees, I'm not so sure I wouldn't rather face a blood- thirsty mob.
+ຂ້ອຍບໍ່ຮູ້. ດຽວນີ້ທີ່ພວກເຮົາຢູ່ບ່ອນນີ້ແລະມັນເປັນສາມລະດັບ
+, ຂ້ອຍບໍ່ແນ່ໃຈວ່າຂ້ອຍບໍ່ມັກທີ່ຈະປະເຊີນກັບກຸ່ມຄົນດອກເລືອດ.
+
+116
+00:06:48,250 --> 00:06:50,700
+[DAVID]
+Well, not quite a blood- thirsty mob.
+ດີ, ບໍ່ແມ່ນຝູງຊົນທີ່ດອກເລືອດຫຼາຍ.
+
+117
+00:06:51,200 --> 00:06:53,300
+[JACK]
+What do you think was wrong?
+ເຈົ້າຄິດວ່າມີຄວາມຜິດຫຍັງ?
+
+118
+00:06:53,800 --> 00:06:55,800
+[DAVID]
+I have no idea.
+ຂ້ອຍບໍ່ຮູ້ເລີຍ.
+
+119
+00:06:56,300 --> 00:06:58,750
+[JACK]
+Maybe that pentangle was for something supernatural.
+ບາງທີ pentangle ນັ້ນແມ່ນສໍາລັບບາງສິ່ງບາງຢ່າງ supernatural ໄດ້.
+
+120
+00:06:59,250 --> 00:07:05,250
+[DAVID]
+I see and they were too embarrassed to talk about it, because they felt so silly. There is a flash of lightning that sends a ghostly illuminating sheet of light over the boys' faces.  The clap of thunder follows loud and rumbling.
+ຂ້ອຍເຫັນແລະພວກເຂົາໂຊກຮ້າຍເກີນໄປທີ່ຈະເວົ້າກ່ຽວກັບມັນ, ເພາະວ່າພວກເຂົາຮູ້ສຶກໂງ່ຫຼາຍ. ມີແສງສະຫວ່າງທີ່ສົ່ງແຜ່ນແສງ
+ສະຫວ່າງທີ່ສ່ອງແສງແບບຈິດວິນຍານໃສ່ໃບຫນ້າຂອງເດັກຊາຍ. ການຮ້ອງໄຫ້ຂອງຟ້າຮ້ອງຕິດຕາມສຽງດັງແລະສຽງໂຫວດ.
+
+121
+00:07:05,750 --> 00:07:07,750
+[DAVID]
+Please don't rain.
+ກະລຸນາຢ່າຝົນ.
+
+122
+00:07:08,250 --> 00:07:10,250
+[DAVID]
+Of course.
+ແນ່ນອນ.
+
+123
+00:07:10,750 --> 00:07:12,750
+[JACK]
+Say, David....
+ເວົ້າ, ເດວິດ...
+
+124
+00:07:13,250 --> 00:07:19,200
+[DAVID]
+I'm well aware of how pleasant the weather is in Rome at the present time thank you.
+ຂ້ອຍຮູ້ດີວ່າສະພາບອາກາດດີປານໃດໃນໂຣມໃນເວລານີ້ ຂອບໃຈ.
+
+125
+00:07:19,700 --> 00:07:21,700
+[JACK]
+Santa Lucia...Santa Lucia.
+Santa Lucia... Santa Lucia.
+
+126
+00:07:22,200 --> 00:07:24,650
+[WOMAN]
+Perhaps they'll be safe in the rain.
+ບາງທີພວກເຂົາຈະປອດໄພໃນຝົນຕົກ.
+
+127
+00:07:25,150 --> 00:07:28,650
+[CHESS PLAYER]
+No one brought them here!  No one wanted them here!
+ບໍ່ມີໃຜເອົາພວກມັນມາບ່ອນນີ້! ບໍ່ມີໃຜຢາກໃຫ້ພວກມັນຢູ່ບ່ອນນີ້ແມ່ນ!
+
+128
+00:07:29,150 --> 00:07:31,150
+[WOMAN]
+You could have told them!
+ເຈົ້າສາມາດບອກພວກເຂົາໄດ້!
+
+129
+00:07:31,650 --> 00:07:36,200
+[DART PLAYER]
+Are you daft?  What do you think they'd say?  They'd think us mad.
+ເຈົ້າໂງ່ບໍ? ເຈົ້າຄິດວ່າພວກເຂົາຈະເວົ້າຫຍັງ
+? ພວກເຂົາຈະຄິດວ່າພວກເຮົາໂຊກຮ້າຍ.
+
+130
+00:07:36,700 --> 00:07:38,700
+[WOMAN]
+Listen!
+ຟັງນະ!
+
+131
+00:07:39,200 --> 00:07:42,350
+[WOMAN]
+Did you hear it?  We must go to them.
+ເຈົ້າໄດ້ຍິນມັນບໍ? ພວກເຮົາຕ້ອງໄປຫາພວກເຂົາ.
+
+132
+00:07:42,850 --> 00:07:44,850
+[DART PLAYER]
+I heard nothing.
+ຂ້ອຍບໍ່ໄດ້ຍິນຫຍັງເລີຍ.
+
+133
+00:07:45,350 --> 00:07:47,350
+[CHESS PLAYER]
+Nor I.
+ຂ້ອຍກໍ່ບໍ່.
+
+134
+00:07:47,850 --> 00:07:49,850
+[JACK]
+Did you hear that?
+ເຈົ້າໄດ້ຍິນບໍ?
+
+135
+00:07:50,350 --> 00:07:52,350
+[DAVID]
+I heard that.
+ຂ້ອຍໄດ້ຍິນແລ້ວ.
+
+136
+00:07:52,850 --> 00:07:54,850
+[JACK]
+What was it?
+ມັນເປັນຫຍັງ?
+
+137
+00:07:55,350 --> 00:07:57,450
+[DAVID]
+Could be a lot of things.
+ມັນອາດຈະເປັນຫຼາຍຢ່າງ.
+
+138
+00:07:57,950 --> 00:07:59,950
+[JACK]
+Yeah?
+ແມ່ນແລ້ວ?
+
+139
+00:08:00,450 --> 00:08:02,450
+[DAVID]
+A coyote.
+ໂກຢຕ໌.
+
+140
+00:08:02,950 --> 00:08:05,050
+[JACK]
+There aren't any coyotes in England.
+ບໍ່ມີໂກຢຕ໌ໃດໆໃນອັງກິດ.
+
+141
+00:08:05,550 --> 00:08:07,550
+[DAVID]
+The Hound of the Baskervilles.
+ຫມາຂອງຊາວບາສເກີວິລ.
+
+142
+00:08:08,050 --> 00:08:10,050
+[JACK]
+Pecos Bill.
+ບິລເປໂກສ.
+
+143
+00:08:10,550 --> 00:08:12,550
+[DAVID]
+Heathcliffe.
+ເຮັດຄລິຟ.
+
+144
+00:08:13,050 --> 00:08:15,050
+[JACK]
+Heathcliffe didn't howl.
+ເຮັດຄລິຟບໍ່ໄດ້ຮ້ອງໄຫ້.
+
+145
+00:08:15,550 --> 00:08:18,000
+[DAVID]
+No, but he was on the moors.
+ບໍ່, ແຕ່ລາວຢູ່ເທິງທົ່ງຫຍ້າ.
+
+146
+00:08:18,500 --> 00:08:20,950
+[JACK]
+It's a full moon, `beware the moon'.
+ມັນເປັນເດືອນເຕັມ, ລະມັດລະວັງເດືອນ.
+
+147
+00:08:21,450 --> 00:08:24,600
+[JACK]
+I vote we go back to The Slaughtered Lamb.
+ຂ້ອຍລົງຄະແນນສຽງວ່າພວກເຮົາຈະກັບຄືນໄປບ່ອນແມວທີ່ຖືກຂ້າຕາຍ.
+
+148
+00:08:25,100 --> 00:08:27,100
+[DAVID]
+Yeah.
+ແມ່ນແລ້ວ.
+
+149
+00:08:27,600 --> 00:08:29,600
+[DAVID]
+We're lost.
+ພວກເຮົາຫາຍໄປແລ້ວ.
+
+150
+00:08:30,100 --> 00:08:32,100
+[JACK]
+Shit!  David, what is that?
+ສະບາຍດີ! ເດວິດ, ນັ້ນແມ່ນຫຍັງ?
+
+151
+00:08:32,600 --> 00:08:34,600
+[DAVID]
+I don't know.  Come on.
+ຂ້ອຍບໍ່ຮູ້. ມາແລ້ວ.
+
+152
+00:08:35,100 --> 00:08:37,100
+[JACK]
+Come on, where?
+ມາແລ້ວ, ຢູ່ໃສ?
+
+153
+00:08:37,600 --> 00:08:40,400
+[DAVID]
+Anywhere!  I think we should just keep moving.
+ຂ້ອຍຄິດວ່າພວກເຮົາຄວນຍ້າຍໄປຕໍ່ໄປ.
+
+154
+00:08:40,900 --> 00:08:42,900
+[DAVID]
+It's moving.
+ມັນເຄື່ອນຍ້າຍ.
+
+155
+00:08:43,400 --> 00:08:45,400
+[JACK]
+It's circling us.
+ມັນ ກໍາ ລັງອ້ອມຮອບພວກເຮົາ.
+
+156
+00:08:45,900 --> 00:08:47,900
+[JACK]
+Fuck.
+ສະບາຍດີ.
+
+157
+00:08:48,400 --> 00:08:50,400
+[DAVID]
+What's the plan?
+ແຜນການແມ່ນຫຍັງ?
+
+158
+00:08:50,900 --> 00:08:52,900
+[JACK]
+Plan?
+ແຜນການບໍ?
+
+159
+00:08:53,400 --> 00:08:55,400
+[DAVID]
+Let's just keep walking.
+ພວກເຮົາພຽງແຕ່ຍ່າງຕໍ່ໄປ.
+
+160
+00:08:55,900 --> 00:09:00,100
+[DAVID]
+That's right, a lovely stroll in the moors.  Tra-la-la, isn't this fun?
+ນັ້ນແມ່ນແລ້ວ, ການຍ່າງທີ່ສວຍງາມໃນທົ່ງຫຍ້າ
+. Tra-la-la, ນີ້ແມ່ນບໍ່ມ່ວນບໍ?
+
+161
+00:09:00,600 --> 00:09:02,600
+[DAVID]
+It's in front of us.
+ມັນຢູ່ຕໍ່ຫນ້າພວກເຮົາ.
+
+162
+00:09:03,100 --> 00:09:05,200
+[JACK]
+Do you think it's a dog?
+ເຈົ້າຄິດວ່າມັນເປັນຫມາບໍ?
+
+163
+00:09:05,700 --> 00:09:07,700
+[JACK]
+Oh shit.  What is that?
+ໂອ້. ນັ້ນແມ່ນຫຍັງ?
+
+164
+00:09:08,200 --> 00:09:12,050
+[DAVID]
+A sheep dog or something. Turn slowly and let's walk away.
+ຫມາແມວຫຼືບາງສິ່ງບາງຢ່າງ. ຫັນໄປຊ້າໆແລະໄປໄປ.
+
+165
+00:09:12,550 --> 00:09:14,550
+[JACK]
+Nice doggie.  Good boy.
+ຫມາທີ່ດີເລີດ. ເດັກຊາຍທີ່ດີ.
+
+166
+00:09:15,050 --> 00:09:17,050
+[DAVID]
+Walk away, Jack.
+ຍ່າງໄປ, ແຈກ.
+
+167
+00:09:17,550 --> 00:09:20,700
+[JACK]
+Walking away, yes, sir.  Here we are walking away.
+ຍ່າງໄປ, ແມ່ນແລ້ວ, ທ້າວ. ນີ້ແມ່ນພວກເຮົາ ກໍາ ລັງຍ່າງໄປ.
+
+168
+00:09:21,200 --> 00:09:23,200
+[DAVID]
+See anything?
+ເຫັນຫຍັງບໍ?
+
+169
+00:09:23,700 --> 00:09:25,700
+[JACK]
+No.
+ບໍ່
+
+170
+00:09:26,200 --> 00:09:28,200
+[DAVID]
+It sounds far away.
+ມັນອອກສຽງຢູ່ຫ່າງໄກ.
+
+171
+00:09:28,700 --> 00:09:30,700
+[JACK]
+Not far enough.  Come on.
+ບໍ່ໄກພໍ. ມາແລ້ວ.
+
+172
+00:09:31,200 --> 00:09:33,200
+[DAVID]
+Jack?
+ແຈກ?
+
+173
+00:09:33,700 --> 00:09:35,700
+[JACK]
+Yeah.
+ແມ່ນແລ້ວ.
+
+174
+00:09:36,200 --> 00:09:38,200
+[DAVID]
+Where are we going?
+ພວກເຮົາຈະໄປໃສ?
+
+175
+00:09:38,700 --> 00:09:41,150
+[JACK]
+I'll tell you when we get there.
+ຂ້ອຍຈະບອກເຈົ້າເມື່ອພວກເຮົາຮອດບ່ອນນັ້ນ.
+
+176
+00:09:41,650 --> 00:09:43,650
+[DAVID]
+Well.  I'm glad we...WHOAA!!
+ດີ. ຂ້ອຍດີໃຈທີ່ພວກເຮົາ... WHOAA!!
+
+177
+00:09:44,150 --> 00:09:46,250
+[JACK]
+You really scared me, you shithead.
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍຢ້ານກົວແທ້ໆ, ເຈົ້າໂຊກຮ້າຍ.
+
+178
+00:09:46,750 --> 00:09:49,200
+[DAVID]
+Are you going to help me up?
+ເຈົ້າຈະຊ່ວຍຂ້ອຍຂຶ້ນບໍ?
+
+179
+00:09:49,700 --> 00:09:54,250
+[JACK]
+Jesus fuck!  David!  Please help me!  Please!  David! Shit!  Help me!  Oh God!
+ພຣະເຢຊູ! ດາວິດ! ກະລຸນາຊ່ວຍຂ້ອຍ! ກຣຸນາ!
+ເດວິດ! ສະບາຍດີ! ຊ່ວຍຂ້ອຍ! ໂອ້ ພຣະເຈົ້າ!
+
+180
+00:09:54,750 --> 00:09:56,750
+[DAVID]
+Jack?  Oh my God, Jack!
+ແຈກ? ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍແຈກ!
+
+181
+00:09:57,250 --> 00:09:59,250
+[DAVID]
+Jack....
+ແຈກ...
+
+182
+00:09:59,750 --> 00:10:01,750
+[DAVID]
+Jack?!
+ແຈກ?!
+
+183
+00:10:02,250 --> 00:10:04,250
+[ALEX]
+Mr. Kessler?
+ທ້າວ ເຄສເລີ?
+
+184
+00:10:04,750 --> 00:10:06,750
+[ALEX]
+Mr. Kessler?
+ທ້າວ ເຄສເລີ?
+
+185
+00:10:07,250 --> 00:10:09,250
+[MISS GALLAGHER]
+He all right?
+ລາວບໍ່ເປັນຫຍັງບໍ?
+
+186
+00:10:09,750 --> 00:10:12,900
+[ALEX]
+Yes, I should think.  He called out just now.
+ແມ່ນແລ້ວ, ຂ້ອຍຄວນຄິດ. ລາວຮ້ອງໄຫ້ດຽວນີ້.
+
+187
+00:10:13,400 --> 00:10:19,400
+[MISS GALLAGHER]
+He's an American, you know. Dr. Hirsch is going to fetch round one of those Embassy fellows to see him.
+ລາວເປັນຄົນອາເມຣິກັນ, ເຈົ້າຮູ້ແລ້ວ. ດຣ ເຮຣສ໌ຈະເອົາຄົນ
+ຫນຶ່ງ ໃນພວກເພື່ອນສະຖານທູດນັ້ນມາພົບລາວ.
+
+188
+00:10:19,900 --> 00:10:22,000
+[ALEX]
+Chart says he's from New York.
+ຕາຕະລາງເວົ້າວ່າລາວມາຈາກນິວຢອກ.
+
+189
+00:10:22,500 --> 00:10:24,500
+[MISS GALLAGHER]
+I think he's a Jew.
+ຂ້ອຍຄິດວ່າລາວເປັນຊາວຢິວ.
+
+190
+00:10:25,000 --> 00:10:27,450
+[ALEX]
+Why on earth do you say that?
+ເຈົ້າເວົ້າແບບນັ້ນເປັນຫຍັງ?
+
+191
+00:10:27,950 --> 00:10:29,950
+[MISS GALLAGHER]
+I looked.
+ຂ້ອຍເບິ່ງ.
+
+192
+00:10:30,450 --> 00:10:35,700
+[ALEX]
+Really, Susan, I don't think that was very proper, and besides, it's common practice now.
+ແທ້ຈິງແລ້ວ, ຊູຊານ, ຂ້ອຍບໍ່ຄິດວ່າມັນຖືກຕ້ອງຫຼາຍ
+, ແລະນອກຈາກນັ້ນ, ມັນເປັນການປະຕິບັດທົ່ວໄປດຽວນີ້.
+
+193
+00:10:36,200 --> 00:10:39,000
+[DR. HIRSCH]
+Yes, Miss Gallagher, Miss Price is quite right.
+ແມ່ນແລ້ວ, ນາງ Gallagher, ນາງ Price ແມ່ນຖືກຕ້ອງຢ່າງສົມບູນ.
+
+194
+00:10:39,500 --> 00:10:42,650
+[ALEX]
+Dr. Hirsch, Mr. Kessler cried out a minute ago.
+ດຣ ເຮຣສ໌, ທ້າວ ເຄສເລີຮ້ອງໄຫ້ເມື່ອ ຫນຶ່ງ ນາທີກ່ອນ.
+
+195
+00:10:43,150 --> 00:10:47,350
+[DR. HIRSCH]
+Miss Gallagher, surely you must perform some function here at the hospital.
+ນາງແກລາກເກີ,
+ແນ່ນອນວ່າເຈົ້າຕ້ອງປະຕິບັດຫນ້າທີ່ບາງຢ່າງຢູ່ນີ້ໃນໂຮງຫມໍ.
+
+196
+00:10:47,850 --> 00:10:49,850
+[MISS GALLAGHER]
+Yes, Doctor.
+ແມ່ນແລ້ວ, ດອກຕໍ.
+
+197
+00:10:50,350 --> 00:10:52,350
+[DR. HIRSCH]
+Then get on with it.
+ຫຼັງຈາກນັ້ນໄປກັບມັນ.
+
+198
+00:10:52,850 --> 00:10:54,850
+[MISS GALLAGHER]
+Yes, Doctor.
+ແມ່ນແລ້ວ, ດອກຕໍ.
+
+199
+00:10:55,350 --> 00:10:57,800
+[DR. HIRSCH]
+Can I be of service, Miss Price?
+ຂ້ອຍສາມາດຊ່ວຍໄດ້ບໍ, ນາງ Price?
+
+200
+00:10:58,300 --> 00:11:00,300
+[ALEX]
+Dr. Hirsch?
+ດຣ ເຮຣສ໌?
+
+201
+00:11:00,800 --> 00:11:02,800
+[DR. HIRSCH]
+Go about your duties.
+ໄປເຮັດຫນ້າທີ່ຂອງທ່ານ.
+
+202
+00:11:03,300 --> 00:11:05,300
+[ALEX]
+Yes, Doctor.
+ແມ່ນແລ້ວ, ດອກຕໍ.
+
+203
+00:11:05,800 --> 00:11:07,800
+[DR. HIRSCH]
+Oh, Miss Price?
+ໂອ້, ນາງ Price?
+
+204
+00:11:08,300 --> 00:11:10,300
+[ALEX]
+Yes, Doctor?
+ແມ່ນແລ້ວ, ດອກຕໍ?
+
+205
+00:11:10,800 --> 00:11:12,900
+[DR. HIRSCH]
+What exactly did he call out?
+ລາວຮ້ອງໄຫ້ຫຍັງແທ້ໆ?
+
+206
+00:11:13,400 --> 00:11:15,400
+[ALEX]
+He said `Jack'.
+ລາວເວົ້າວ່າ ແຈກ.
+
+207
+00:11:15,900 --> 00:11:19,400
+[DR. HIRSCH]
+That would be Jack Goodman, the boy who was killed.
+ນັ້ນຈະເປັນແຈກ ກູດແມນ, ເດັກຊາຍທີ່ຖືກຂ້າຕາຍ.
+
+208
+00:11:19,900 --> 00:11:21,900
+[ALEX]
+What happened to them?
+ເກີດຫຍັງຂຶ້ນກັບພວກເຂົາ?
+
+209
+00:11:22,400 --> 00:11:28,400
+[DR. HIRSCH]
+The police report said an escaped lunatic attacked them. He must have been a very powerful man.  Although I really don't see that it is any of your concern, Miss Price.
+ລາຍງານຕໍາຫຼວດເວົ້າວ່າຄົນໂຊກຮ້າຍທີ່ຫນີໄດ້ໂຈມຕີພວກເຂົາ. ລາວຕ້ອງເປັນຜູ້ຊາຍທີ່ມີພະລັງຫຼາຍ
+. ເຖິງແມ່ນວ່າຂ້ອຍບໍ່ເຫັນວ່າມັນເປັນຄວາມກັງວົນຂອງທ່ານໃດໆ, ນາງ Price.
+
+210
+00:11:28,900 --> 00:11:31,700
+[ALEX]
+No, sir.  Of course, sir. Good day, Doctor.
+ບໍ່ເດີ. ແນ່ນອນເດີ. ສະບາຍດີ, ດອກຕໍ.
+
+211
+00:11:32,200 --> 00:11:37,450
+[DR. HIRSCH]
+Hello, David.  I am Dr. Hirsch and this is a countryman of yours, Mr. Collins.
+ສະບາຍດີ ເດວິດ. ຂ້ອຍແມ່ນດຣ ເຮຣສ໌ ແລະ
+ນີ້ແມ່ນຄົນບ້ານຂອງທ່ານ, ທ້າວ ຄອນລິນສ໌.
+
+212
+00:11:37,950 --> 00:11:39,950
+[DAVID]
+Where am I?
+ຂ້ອຍຢູ່ໃສ?
+
+213
+00:11:40,450 --> 00:11:42,550
+[DR. HIRSCH]
+You're in a hospital in London.
+ເຈົ້າຢູ່ໃນໂຮງຫມໍໃນລອນດອນ.
+
+214
+00:11:43,050 --> 00:11:45,850
+[DAVID]
+London?  Where's Jack?  I had a strange dream.
+ລອນດອນ? ແຈກຢູ່ໃສ? ຂ້ອຍມີຄວາມຝັນທີ່ແປກໃຈ.
+
+215
+00:11:46,350 --> 00:11:49,500
+[DR. HIRSCH]
+I should think so after your recent traumatic experiences.
+ຂ້ອຍຄວນຄິດດັ່ງນັ້ນຫຼັງຈາກປະສົບການທີ່ໂຊກຮ້າຍຫຼ້າສຸດຂອງທ່ານ.
+
+216
+00:11:50,000 --> 00:11:55,250
+[DAVID]
+The guy I was with.  Is he all right?  How did I get to London?
+ຜູ້ຊາຍທີ່ຂ້ອຍຢູ່ກັບ. ລາວບໍ່ເປັນຫຍັງບໍ? ຂ້ອຍໄປລອນດອນແນວໃດ?
+
+217
+00:11:55,750 --> 00:12:01,750
+[DR. HIRSCH]
+Now, David, I want you to prepare yourself; your friend is dead. David jolts up in bed and shouts.
+ດຽວນີ້, ເດວິດ, ຂ້ອຍຢາກໃຫ້ເຈົ້າກຽມຕົວເອງ;
+ເພື່ອນຂອງທ່ານຕາຍແລ້ວ. ເດວິດສັ່ນສະເທືອນຂຶ້ນໃນຕຽງແລະຮ້ອງໄຫ້.
+
+218
+00:12:02,250 --> 00:12:04,250
+[DAVID]
+What?
+ຫຍັງ?
+
+219
+00:12:04,750 --> 00:12:06,750
+[DAVID]
+Ow, shit!
+ໂອ້, ສະບາຍດີ!
+
+220
+00:12:07,250 --> 00:12:09,250
+[DAVID]
+Jack's dead?
+ແຈກຕາຍແລ້ວບໍ?
+
+221
+00:12:09,750 --> 00:12:15,750
+[MR. COLLINS]
+Mr. Kessler, I am Mr. Collins of the American Embassy here in Grosvenor Square.  Both Mr. Goodman's parents and your parents have been notified of your injuries and everything's in order.
+ທ່ານ Kessler, ຂ້ອຍແມ່ນທ່ານ ຄອນລິນສ໌ຈາກສະຖານທູດອາເມລິກາຢູ່ນີ້ໃນສະໂມສອນກຣັສເວນໍ.
+ພໍ່ແມ່ທັງສອງຂອງທ່ານກູດແມນແລະພໍ່ແມ່ຂອງທ່ານໄດ້ຖືກແຈ້ງໃຫ້ຮູ້ກ່ຽວກັບບາດເຈັບຂອງທ່ານແລະທຸກຢ່າງຢູ່ໃນລະບຽບການ.
+
+222
+00:12:16,250 --> 00:12:19,050
+[DAVID]
+Everything's in order?  What are you talking about?
+ທຸກຢ່າງຢູ່ໃນລະບຽບການບໍ? ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+223
+00:12:19,550 --> 00:12:25,550
+[MR. COLLINS]
+Mr. Goodman's body has been air-freighted back to New York for burial and your parents have wired funds for your stay in the hospital until you are well enough to fly home.
+ສົບຂອງທ່ານກູດແມນໄດ້ຖືກຂົນສົ່ງທາງອາກາດກັບຄືນໄປນິວຢອກເພື່ອຝັງສົບແລະພໍ່ແມ່ຂອງທ່ານໄດ້ສົ່ງເງິນ
+ສໍາ ລັບການຢູ່ໂຮງຫມໍຂອງທ່ານຈົນກວ່າທ່ານຈະດີພໍທີ່ຈະບິນກັບບ້ານ.
+
+224
+00:12:26,050 --> 00:12:32,050
+[DAVID]
+You don't crate and ship Jack like some side of beef.  Who the hell are you people? What's going on here?  Where is Jack?  I demand to see him!
+ເຈົ້າບໍ່ເກັບກູ້ແລະສົ່ງແຈກຄືກັບບາງສ່ວນຂອງຊີ້ນງົວ. ເຈົ້າເປັນໃຜ
+? ເກີດຫຍັງຂຶ້ນຢູ່ນີ້? ແຈກຢູ່ໃສ? ຂ້ອຍຮຽກຮ້ອງໃຫ້ເຫັນລາວ!
+
+225
+00:12:32,550 --> 00:12:34,550
+[DR. HIRSCH]
+Miss Price!  Miss Price, please!
+ນາງ Price! ນາງ Price, ກະລຸນາ!
+
+226
+00:12:35,050 --> 00:12:39,600
+[DAVID]
+Get your fucking hands off me! What the hell is going on here?
+ເອົາມືຂອງເຈົ້າອອກຈາກຂ້ອຍ! ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+227
+00:12:40,100 --> 00:12:46,100
+[MR. COLLINS]
+I realize how upsetting this must be for you, Mr. Kessler, but please try to refrain from hysterics.
+ຂ້ອຍຮູ້ວ່າສິ່ງນີ້ຕ້ອງເປັນຄວາມໂຊກຮ້າຍຫຼາຍປານໃດ ສໍາ ລັບເຈົ້າ
+, ທ້າວເຄສເລີ, ແຕ່ຂໍຮ້ອງພະຍາຍາມຫຼີກເວັ້ນຈາກຄວາມຮິສເຕີິກ.
+
+228
+00:12:46,600 --> 00:12:48,700
+[DR. HIRSCH]
+Prepare a hypodermic, please, Miss Price.
+ກຽມຢາ hypodermic, ກະລຸນາ, ນາງ Price.
+
+229
+00:12:49,200 --> 00:12:55,200
+[MR. COLLINS]
+Now, Mr. Kessler, try not to excite yourself.  Everything has been arranged.  I shall come back to check on your progress and send a report to your parents.  The police have requested to interview you and I have given them permission to do so.
+ດຽວນີ້, ທ້າວ Kessler, ພະຍາຍາມບໍ່ເຮັດໃຫ້ຕົວເອງຕື່ນເຕັ້ນ. ທຸກຢ່າງໄດ້ຖືກຈັດຕັ້ງໄວ້ແລ້ວ.
+ຂ້ອຍຈະກັບມາກວດສອບຄວາມກ້າວຫນ້າຂອງທ່ານແລະສົ່ງບົດລາຍງານໃຫ້ພໍ່ແມ່ຂອງທ່ານ. ຕໍາຫຼວດໄດ້ຂໍໃຫ້ ສໍາ ພາດທ່ານແລະຂ້ອຍໄດ້ອະນຸຍາດໃຫ້ພວກເຂົາເຮັດດັ່ງນັ້ນ.
+
+230
+00:12:55,700 --> 00:13:01,700
+[DR. HIRSCH]
+Thank you very much, Mr. Collins.  He'll rest now and I'm sure everything will be fine once he's adjusted.  He's had quite a shock.
+ຂອບໃຈຫຼາຍໆ, ທ້າວ ຄອນລິນສ໌. ລາວຈະພັກຜ່ອນດຽວນີ້ແລະຂ້ອຍແນ່ໃຈວ່າທຸກຢ່າງຈະດີດີເມື່ອລາວປັບຕົວແລ້ວ
+. ລາວໄດ້ຮັບຄວາມໂຊກຮ້າຍຫຼາຍ.
+
+231
+00:13:02,200 --> 00:13:05,700
+[MR. COLLINS]
+These dumb-ass kids never appreciate anything you do for them.
+ພວກເດັກນ້ອຍໂງ່ເຫຼົ່ານີ້ບໍ່ເຄີຍຍ້ອງຍໍຫຍັງທີ່ທ່ານເຮັດ
+ສໍາ ລັບພວກເຂົາ.
+
+232
+00:13:06,200 --> 00:13:08,300
+[DAVID]
+How long have I been here?
+ຂ້ອຍຢູ່ບ່ອນນີ້ດົນປານໃດ?
+
+233
+00:13:08,800 --> 00:13:12,650
+[DR. HIRSCH]
+You've been unconscious since you were brought in two weeks ago.
+ເຈົ້າບໍ່ມີສະຕິຕັ້ງແຕ່ເຈົ້າຖືກນໍາມາເມື່ອສອງອາທິດກ່ອນ.
+
+234
+00:13:13,150 --> 00:13:15,150
+[DAVID]
+Two weeks?
+ສອງອາທິດບໍ?
+
+235
+00:13:15,650 --> 00:13:21,650
+[DR. HIRSCH]
+You've suffered some rather severe cuts and bruises, lost a bit of blood, but nothing too serious; black and blue for a while.  You'll have some dueling scars to boast of. That lunatic must have been a very fierce fellow.  They say a mad man has the strength of ten.
+ເຈົ້າໄດ້ປະສົບກັບການຕັດແລະບາດແຜທີ່ຮ້າຍແຮງຫຼາຍ, ໄດ້ສູນເສຍເລືອດ ຫນ້ອຍ ຫນຶ່ງ, ແຕ່ບໍ່ມີຫຍັງຮ້າຍແຮງເກີນໄປ; ສີ ດໍາ ແລະ ສີຟ້າເປັນເວລາດົນນານ.
+ເຈົ້າຈະມີບາດແຜ duel ບາງຢ່າງທີ່ຈະພາກພູມໃຈ. ຄົນໂຊກຮ້າຍນັ້ນຕ້ອງເປັນຜູ້ຊາຍທີ່ຮຸນແຮງຫຼາຍ. ພວກເຂົາເວົ້າວ່າຜູ້ຊາຍໂຊ ກຮ້າຍມີຄວາມເຂັ້ມແຂງຂອງສິບ.
+
+236
+00:13:22,150 --> 00:13:24,150
+[DAVID]
+Lunatic?
+ຄົນໂຊກຮ້າຍບໍ?
+
+237
+00:13:24,650 --> 00:13:30,650
+[DR. HIRSCH]
+Now we've just given you a pretty strong sedative, so try to get some rest now.  Miss Price will see to your needs. Rest now.
+ດຽວນີ້ພວກເຮົາຫາກໍ່ໃຫ້ເຈົ້າຢາບັນເທົາທຸກທີ່ແຂງແຮງຫຼາຍ, ສະນັ້ນພະຍາຍາມພັກຜ່ອນບາງຢ່າງດຽວນີ້
+. ນາງ Price ຈະເບິ່ງແຍງຄວາມຕ້ອງການຂອງທ່ານ. ພັກຜ່ອນດຽວນີ້ແມ່ນ.
+
+238
+00:13:31,150 --> 00:13:33,150
+[DAVID]
+It wasn't a lunatic.
+ມັນບໍ່ແມ່ນຄົນໂຊກຮ້າຍ.
+
+239
+00:13:33,650 --> 00:13:35,650
+[ALEX]
+I beg your pardon?
+ຂ້ອຍຂໍໂທດບໍ?
+
+240
+00:13:36,150 --> 00:13:38,150
+[DAVID]
+It was a wolf.
+ມັນເປັນແມວ.
+
+241
+00:13:38,650 --> 00:13:40,650
+[ALEX]
+What?
+ຫຍັງ?
+
+242
+00:13:41,150 --> 00:13:43,150
+[DAVID]
+A wolf.
+ເປັນແມວ.
+
+243
+00:13:43,650 --> 00:13:45,650
+[DR. HIRSCH]
+Did he say a wolf?
+ລາວເວົ້າວ່າແມວບໍ?
+
+244
+00:13:46,150 --> 00:13:48,150
+[ALEX]
+Yes, I believe he did.
+ແມ່ນແລ້ວ, ຂ້ອຍເຊື່ອວ່າລາວເຮັດ.
+
+245
+00:13:48,650 --> 00:13:54,650
+[DR. HIRSCH]
+But Roger is so terribly boring.  Yes, dear, but couldn't we...I see.  Thursday at eight, dinner with boring Roger.  Yes, I'm sure I will; if I survived Rommel, I suppose I'll survive another excruciating evening with Roger Mathison.  Be a good girl.  Bye.
+ແຕ່ໂຣເຈີໂຊກຮ້າຍຫຼາຍ. ແມ່ນແລ້ວ, ແມ, ແຕ່ພວກເຮົາບໍ່ສາມາດ... ຂ້ອຍເຫັນໄດ້. ວັນພະຫັດເວລາແປດໂມງ, ອາຫານຄໍ່າກັບໂຮເຈີທີ່ boring. ແມ່ນ,
+ຂ້ອຍແນ່ໃຈວ່າຂ້ອຍຈະເຮັດ; ຖ້າຂ້ອຍລອດຊີວິດຈາກໂຣມເມລ, ຂ້ອຍຄິດວ່າຂ້ອຍຈະມີຊີວິດຢູ່ອີກຕອນແລງທີ່ເຈັບປວດກັບໂຣເກີແມຕິສສັນ. ເປັນເດັກຍິງທີ່ດີ. ສະບາຍດີ.
+
+246
+00:13:55,150 --> 00:13:57,150
+[DR. HIRSCH]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+247
+00:13:57,650 --> 00:14:01,500
+[SECRETARY]
+Lt. Villiers and Sgt. McManus are here to see you, Doctor.
+ພົນຈັດຕະວາ ວີລເລີສ໌ ແລະ ນາຍພົນ ແມັກແມນູສ໌ ມາພົບທ່ານ, ດອກຕໍ.
+
+248
+00:14:02,000 --> 00:14:04,000
+[DR. HIRSCH]
+Send them in.
+ສົ່ງພວກມັນເຂົ້າມາ.
+
+249
+00:14:04,500 --> 00:14:06,500
+[LT. VILLIERS]
+Dr. Hirsch?
+ດຣ ເຮຣສ໌?
+
+250
+00:14:07,000 --> 00:14:09,800
+[DR. HIRSCH]
+Come in, come in.  Please sit. Some tea?
+ເຂົ້າມາ, ເຂົ້າມາ. ກະລຸນານັ່ງ. ຊາບໍ?
+
+251
+00:14:10,300 --> 00:14:12,300
+[LT. VILLIERS]
+No, thank you.
+ບໍ່ ຂອບໃຈ
+
+252
+00:14:12,800 --> 00:14:14,800
+[DR. HIRSCH]
+It's no problem.
+ມັນບໍ່ເປັນຫຍັງ.
+
+253
+00:14:15,300 --> 00:14:17,300
+[LT. VILLIERS]
+No, thank you, Doctor.
+ບໍ່, ຂອບໃຈ, ດອກຕໍ.
+
+254
+00:14:17,800 --> 00:14:20,950
+[DR. HIRSCH]
+Well, then, what can I do for Scotland Yard?
+ດີ, ຫຼັງຈາກນັ້ນ, ຂ້ອຍສາມາດເຮັດຫຍັງໄດ້ ສໍາ ລັບ Scotland Yard?
+
+255
+00:14:21,450 --> 00:14:25,300
+[LT. VILLIERS]
+Has Mr. Kessler said anything regarding the attack on the moors?
+ທ່ານ Kessler ໄດ້ເວົ້າຫຍັງກ່ຽວກັບການໂຈມຕີໃສ່ moors ໄດ້ບໍ?
+
+256
+00:14:25,800 --> 00:14:27,800
+[DR. HIRSCH]
+Excuse me.  Yes?
+ຂໍໂທດ. ແມ່ນບໍ?
+
+257
+00:14:28,300 --> 00:14:30,300
+[SECRETARY]
+Roger Mathison, Doctor.
+ໂຣເຈີ ມາຕິຊອນ, ດອກຕໍ.
+
+258
+00:14:30,800 --> 00:14:32,800
+[DR. HIRSCH]
+What here?
+ມີຫຍັງຢູ່ບ່ອນນີ້?
+
+259
+00:14:33,300 --> 00:14:35,300
+[SECRETARY]
+He's on the telephone.
+ລາວຢູ່ໂທລະສັບ.
+
+260
+00:14:35,800 --> 00:14:41,800
+[DR. HIRSCH]
+Tell him I'm out.  No, tell him I've passed away.  An old war wound or something.  Tell him I'm dead.  And no more calls!
+ບອກລາວວ່າຂ້ອຍອອກໄປແລ້ວ. ບໍ່, ບອກລາວກວ່າຂ້ອຍໄດ້ເສຍຊີວິດແລ້ວ.
+ບາດເຈັບສົງຄາມເກົ່າຫຼືບາງສິ່ງບາງຢ່າງ. ບອກລາວຂ້ອຍຕາຍແລ້ວ. ແລະບໍ່ມີການໂທອີກຕໍ່ໄປ!
+
+261
+00:14:42,300 --> 00:14:44,300
+[DR. HIRSCH]
+You were saying?
+ເຈົ້າ ກໍາ ລັງເວົ້າບໍ?
+
+262
+00:14:44,800 --> 00:14:49,000
+[LT. VILLIERS]
+Has David Kessler anything to say concerning the attack on the moors?
+ເດວິດ ເຄສເລີ ມີຫຍັງທີ່ຈະເວົ້າກ່ຽວກັບການໂຈມຕີໃສ່ບົກຜ່າບໍ?
+
+263
+00:14:49,500 --> 00:14:51,500
+[DR. HIRSCH]
+Why don't we ask him?
+ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ຖາມລາວ?
+
+264
+00:14:52,000 --> 00:14:58,000
+[DAVID]
+I'm sorry if I conflict with your report, but Jack and I were not attacked by a man.
+ຂ້ອຍຂໍໂທດຖ້າຂ້ອຍຂັດແຍ່ງກັບບົດລາຍງານຂອງທ່ານ
+, ແຕ່ຂ້ອຍແລະແຈກບໍ່ໄດ້ຖືກໂຈມຕີໂດຍຜູ້ຊາຍ.
+
+265
+00:14:58,500 --> 00:15:00,500
+[LT. VILLIERS]
+So you've said.
+ເຈົ້າເວົ້າແລ້ວ.
+
+266
+00:15:01,000 --> 00:15:07,000
+[LT. VILLIERS]
+Sgt. McManus, are you suggesting that David and Jack were, in fact, attacked by some animal and that the officialdom of East Proctor has conspired to keep it a secret?  We have an autopsy report on the murderer who was shot in the act by the local police.  We have two witnesses to the crime.  You'll forgive me, Mr. Kessler, if I consider your testimony as coming from someone who has gone through a terrible shock.
+ພົນຈັດຕະວາແມັກແມນູສ, ເຈົ້າແນະ ນໍາ ວ່າດາວິດ ແລະ ແຈກຖືກໂຈມຕີໂດຍສັດບາງຢ່າງແລະວ່າເຈົ້າຫນ້າທີ່ຂອງ East Proctor ໄດ້ສົມຮູ້ຮ່ວມຄິດເພື່ອຮັກສາມັນເປັນຄວາມລັບບໍ? ພວກເຮົາມີບົດລາຍງານການກວດສົບກ່ຽວກັບຜູ້ຄາດຕະກໍາທີ່ຖືກຍິງໃນກະ
+ທໍາ ໂດຍຕໍາຫຼວດທ້ອງຖິ່ນ. ພວກເຮົາມີພະຍານສອງຄົນຕໍ່ອາຊະຍາກໍາ. ເຈົ້າຈະຂໍໂທດຂ້ອຍ, ທ້າວ Kessler, ຖ້າຂ້ອຍຖືວ່າການໃຫ້ຄວາມເຫັນຂອງທ່ານມາຈາກຄົນ ຫນຶ່ງ ທີ່ໄດ້ຜ່ານການໂຊກ
+
+267
+00:15:07,500 --> 00:15:09,500
+[LT. VILLIERS]
+And what, Sergeant?
+ແລະຫຍັງ, ນາຍພົນ?
+
+268
+00:15:10,000 --> 00:15:16,000
+[LT. VILLIERS]
+That is precisely my point. David, as far as we are concerned, the matter is closed.  We won't trouble you any further.  Good day.
+ນັ້ນແມ່ນຈຸດຂອງຂ້ອຍຢ່າງແນ່ນອນ. ເດວິດ, ກ່ຽວກັບພວກເຮົາ,
+ເລື່ອງນີ້ຖືກປິດລົງ. ພວກເຮົາຈະບໍ່ກັງວົນທ່ານອີກຕໍ່ໄປ. ສະບາຍດີ.
+
+269
+00:15:16,500 --> 00:15:18,500
+[LT. VILLIERS]
+Doctor.
+ດອກຕໍ
+
+270
+00:15:19,000 --> 00:15:21,000
+[DAVID]
+There were witnesses?
+ມີຜູ້ເຫັນບໍ?
+
+271
+00:15:21,500 --> 00:15:23,500
+[DR. HIRSCH]
+So they said.
+ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາເວົ້າ.
+
+272
+00:15:24,000 --> 00:15:30,000
+[DAVID]
+How could there have been witnesses?  It was so dark. We were running and I fell and Jack went to help me up and this thing came from nowhere...I don't understand what they're talking about.
+ມີພະຍານໄດ້ແນວໃດ? ມັນມືດຫຼາຍ. ພວກເຮົາ ກໍາ
+ລັງແລ່ນແລະຂ້ອຍຕົກແລະແຈກໄດ້ໄປຊ່ວຍຂ້ອຍຂຶ້ນແລະສິ່ງນີ້ມາຈາກບໍ່ມີບ່ອນໃດ... ຂ້ອຍບໍ່ເຂົ້າໃຈວ່າພວກເຂົາເວົ້າຫຍັງ.
+
+273
+00:15:30,500 --> 00:15:34,350
+[DR. HIRSCH]
+In time I'm sure it will all come back to you.
+ໃນເວລາຂ້ອຍແນ່ໃຈວ່າມັນຈະກັບມາຫາເຈົ້າ.
+
+274
+00:15:34,850 --> 00:15:39,400
+[DAVID]
+Doctor, my memory is fine. It's my sanity I'm beginning to worry about.
+ດອກຕໍ, ຄວາມຊົງຈໍາຂອງຂ້ອຍບໍ່ເປັນຫຍັງ.
+ມັນແມ່ນຄວາມສະຫຼາດຂອງຂ້ອຍທີ່ຂ້ອຍ ກໍາ ລັງເລີ່ມກັງວົນກ່ຽວກັບ.
+
+275
+00:15:39,900 --> 00:15:41,900
+[MISS GALLAGHER]
+Mr. Kessler?  Wake up, please.
+ທ່ານ Kessler? ຕື່ນຂຶ້ນ, ກະລຸນາ.
+
+276
+00:15:42,400 --> 00:15:44,400
+[DAVID]
+I was having a nightmare.
+ຂ້ອຍ ກໍາ ລັງມີຄວາມຝັນຮ້າຍ.
+
+277
+00:15:44,900 --> 00:15:48,400
+[MISS GALLAGHER]
+Yes, well these should help that.  That's right, drink up.
+ແມ່ນແລ້ວ, ດີສິ່ງເຫຼົ່ານີ້ຄວນຊ່ວຍນັ້ນ. ນັ້ນແມ່ນຄວາມຈິງ, ດື່ມ.
+
+278
+00:15:48,900 --> 00:15:54,150
+[MISS GALLAGHER]
+Now go back to sleep so you'll be fresh for Dr. Hirsch in the morning.
+ດຽວນີ້ກັບຄືນໄປບ່ອນນອນເພື່ອໃຫ້ເຈົ້າສົດໃສ
+ສໍາ ລັບດຣ ເຮຣສ໌ໃນຕອນເຊົ້າ.
+
+279
+00:15:54,650 --> 00:15:56,650
+[DAVID]
+What time is it?
+ເວລາຫຼາຍປານໃດ?
+
+280
+00:15:57,150 --> 00:16:02,400
+[MISS GALLAGHER]
+It's nearly eight.  I'm off duty shortly, then I'm off to the films with Alex.
+ມັນເກືອບແປດ. ຂ້ອຍອອກຈາກຫນ້າທີ່ໃນໄວໆນີ້,
+ຫຼັງຈາກນັ້ນຂ້ອຍຈະໄປຮູບເງົາກັບແອເລັກສ໌.
+
+281
+00:16:02,900 --> 00:16:04,900
+[DAVID]
+Alex?
+ແອເລັກສ໌?
+
+282
+00:16:05,400 --> 00:16:08,200
+[MISS GALLAGHER]
+Miss Price, the other nurse that attended you.
+ນາງ Price, ພະຍາບານຄົນອື່ນທີ່ເບິ່ງແຍງທ່ານ.
+
+283
+00:16:08,700 --> 00:16:10,800
+[DAVID]
+What are you going to see?
+ເຈົ້າຈະໄປເບິ່ງຫຍັງ?
+
+284
+00:16:11,300 --> 00:16:17,300
+[MISS GALLAGHER]
+An American film about the Mafia called `See You Next Wednesday', and I want to see it badly, so you give me no problems and go to sleep.
+ຮູບເງົາອາເມລິກາກ່ຽວກັບມາຟີຍທີ່ເອີ້ນວ່າ ` ເຫັນເຈົ້າໃນວັນພຸດຕໍ່ໄປ',
+ແລະຂ້ອຍຢາກເຫັນມັນຢ່າງຮ້າຍແຮງ, ສະນັ້ນເຈົ້າບໍ່ໃຫ້ຂ້ອຍບັນຫາແລະໄປນອນ.
+
+285
+00:16:17,800 --> 00:16:19,900
+[DAVID]
+Do you have bad dreams, too?
+ເຈົ້າມີຄວາມຝັນຮ້າຍຄືກັນບໍ?
+
+286
+00:16:20,400 --> 00:16:22,400
+[MISS GALLAGHER]
+Some, everyone does.
+ບາງຄົນ, ທຸກຄົນເຮັດ.
+
+287
+00:16:22,900 --> 00:16:25,000
+[DAVID]
+Yes, but does everyone kill Bambi?
+ແມ່ນແລ້ວ, ແຕ່ທຸກຄົນຂ້າແບມບີບໍ?
+
+288
+00:16:25,500 --> 00:16:27,500
+[MISS GALLAGHER]
+Bambi?
+ແບມບີ?
+
+289
+00:16:28,000 --> 00:16:30,000
+[MISS GALLAGHER]
+Kill Bambi?
+ຂ້າແບມບີບໍ?
+
+290
+00:16:30,500 --> 00:16:32,500
+[MRS. HOBBS]
+Miss Price.
+ນາງ Price.
+
+291
+00:16:33,000 --> 00:16:35,000
+[ALEX]
+Yes, Mrs. Hobbs.
+ແມ່ນແລ້ວ, ທ່ານນາງໂຮບສ໌.
+
+292
+00:16:35,500 --> 00:16:41,500
+[MRS. HOBBS]
+Take these round now, will you please?  The American boy in twenty-one is only to have these after he's eaten.  Will you be sure of that?
+ເອົາສິ່ງເຫຼົ່ານີ້ຢູ່ດຽວນີ້, ເຈົ້າຂໍຮ້ອງບໍ?
+ເດັກຊາຍອາເມຣິກັນໃນສິບຫນຶ່ງພຽງແຕ່ຕ້ອງມີສິ່ງເຫຼົ່ານີ້ຫຼັງຈາກລາວກິນແລ້ວ. ເຈົ້າຈະແນ່ໃຈວ່າບໍ?
+
+293
+00:16:42,000 --> 00:16:44,000
+[ALEX]
+Has he been refusing food?
+ລາວໄດ້ປະຕິເສດອາຫານບໍ?
+
+294
+00:16:44,500 --> 00:16:50,500
+[MRS. HOBBS]
+Nothing quite as dramatic as that, Miss Price.  He just doesn't eat enough of what is put before him.  He suffers from nightmares.  I'd think he just needs a hand to hold.
+ບໍ່ມີຫຍັງທີ່ ຫນ້າ ຕື່ນເຕັ້ນເທົ່ານັ້ນ, ນາງ Price. ລາວພຽງແຕ່ບໍ່ກິນພຽງພໍຂອງສິ່ງທີ່ຖືກວາງໄວ້ຕໍ່ຫນ້າລາວ
+. ລາວເຈັບປວດຈາກຄວາມຝັນຮ້າຍ. ຂ້ອຍຄິດວ່າລາວພຽງແຕ່ຕ້ອງການມືທີ່ຈະຖື.
+
+295
+00:16:51,000 --> 00:16:53,000
+[ALEX]
+Yes, Mrs. Hobbs.
+ແມ່ນແລ້ວ, ທ່ານນາງໂຮບສ໌.
+
+296
+00:16:53,500 --> 00:16:55,500
+[ALEX]
+Hello, Benjamin.
+ສະບາຍດີ ແບນຈາມິນ.
+
+297
+00:16:56,000 --> 00:16:58,000
+[BENJAMIN]
+No.
+ບໍ່
+
+298
+00:16:58,500 --> 00:17:00,500
+[ALEX]
+No what?
+ບໍ່ຫຍັງ?
+
+299
+00:17:01,000 --> 00:17:03,000
+[BENJAMIN]
+No.
+ບໍ່
+
+300
+00:17:03,500 --> 00:17:07,000
+[ALEX]
+Well, all right then, be that way.  Here, swallow this.
+ດີ, ດີແລ້ວ, ເປັນແບບນັ້ນ. ມາແລ້ວ, ຈູດສິ່ງນີ້.
+
+301
+00:17:07,500 --> 00:17:13,500
+[BENJAMIN]
+No. Alex pours a glass of water, gives the pill to Benjamin who promptly takes it and then drinks the water, handing Alex back the glass.
+ບໍ່. ແອເລັກສ໌ຖອກນ້ ໍາ ແກ້ວ,
+ໃຫ້ເມັດໃຫ້ແບນຈາມິນທີ່ເອົາມັນທັນທີແລະຫຼັງຈາກນັ້ນດື່ມນ້ ໍາ, ມອບແກ້ວໃຫ້ແອເລກສ໌ຄືນ.
+
+302
+00:17:14,000 --> 00:17:16,000
+[ALEX]
+Feeling better?
+ຮູ້ສຶກດີຂຶ້ນບໍ?
+
+303
+00:17:16,500 --> 00:17:18,500
+[BENJAMIN]
+No.
+ບໍ່
+
+304
+00:17:19,000 --> 00:17:25,000
+[ALEX]
+The doctor will be round later.  Would you like a picture book to look at?  We have some lovely funny Beanos.
+ທ່ານຫມໍຈະມາຮອດຕໍ່ມາ. ເຈົ້າຢາກເບິ່ງປື້ມຮູບບໍ?
+ພວກເຮົາມີ Beanos ທີ່ມ່ວນຊື່ນທີ່ ຫນ້າ ຮັກບາງຢ່າງ.
+
+305
+00:17:25,500 --> 00:17:27,500
+[BENJAMIN]
+No.
+ບໍ່
+
+306
+00:17:28,000 --> 00:17:30,000
+[ALEX]
+Right.
+ແມ່ນແລ້ວ.
+
+307
+00:17:30,500 --> 00:17:33,650
+[ALEX]
+Has the patient in twenty-one gotten his tray yet?
+ຄົນເຈັບໃນສິບຫນຶ່ງໄດ້ຮັບກະຕູ້ຂອງລາວແລ້ວບໍ?
+
+308
+00:17:34,150 --> 00:17:36,150
+[ORDERLY]
+The American?  Yes, duck.
+ຄົນອາເມຣິກັນບໍ? ແມ່ນແລ້ວ, ແບັກ.
+
+309
+00:17:36,650 --> 00:17:38,650
+[ALEX]
+How did he look?
+ລາວເບິ່ງຄືແນວໃດ?
+
+310
+00:17:39,150 --> 00:17:41,950
+[ORDERLY]
+What do you mean, `how did he look'?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ, ລາວເບິ່ງຄືແນວໃດ?
+
+311
+00:17:42,450 --> 00:17:47,000
+[ALEX]
+You know, did he seem depressed?  Do you think he'll eat the food?
+ເຈົ້າຮູ້ແລ້ວ, ລາວເບິ່ງຄືວ່າໂຊກເສົ້າບໍ
+? ເຈົ້າຄິດວ່າລາວຈະກິນອາຫານບໍ?
+
+312
+00:17:47,500 --> 00:17:53,500
+[ORDERLY]
+I'm an orderly, not a bleeding psychiatrist!  I push things about, but I've little say what happens to them.
+ຂ້ອຍເປັນຄົນຮັກສາສຸຂະພາບ, ບໍ່ແມ່ນແພດຈິດໃຈທີ່ເລືອດ!
+ຂ້ອຍຊຸກຍູ້ສິ່ງຕ່າງໆຢູ່ທົ່ວໄປ, ແຕ່ຂ້ອຍບໍ່ມີຫຍັງເວົ້າວ່າເກີດຫຍັງຂຶ້ນກັບພວກເຂົາ.
+
+313
+00:17:54,000 --> 00:17:56,000
+[ALEX]
+Thank you.
+ຂອບໃຈ
+
+314
+00:17:56,500 --> 00:17:58,500
+[ALEX]
+Mr. Kessler?
+ທ້າວ ເຄສເລີ?
+
+315
+00:17:59,000 --> 00:18:01,000
+[DAVID]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+316
+00:18:01,500 --> 00:18:03,500
+[ALEX]
+You haven't eaten your lunch.
+ເຈົ້າບໍ່ໄດ້ກິນອາຫານທ່ຽງແລ້ວ.
+
+317
+00:18:04,000 --> 00:18:06,100
+[DAVID]
+I'm not very hungry, thank you.
+ຂ້ອຍບໍ່ຢາກກິນຫຼາຍ, ຂອບໃຈ.
+
+318
+00:18:06,600 --> 00:18:09,050
+[ALEX]
+I'm afraid you have to eat something.
+ຂ້ອຍຢ້ານວ່າເຈົ້າຕ້ອງກິນບາງຢ່າງ.
+
+319
+00:18:09,550 --> 00:18:11,550
+[DAVID]
+Please, really.  I'm not hungry.
+ກະລຸນາ, ແທ້ໆ. ຂ້ອຍບໍ່ຢາກກິນ.
+
+320
+00:18:12,050 --> 00:18:15,200
+[ALEX]
+You put me in an awkward position, Mr. Kessler.
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍຢູ່ໃນ ຕໍາ ແຫນ່ງ ທີ່ບໍ່ສະບາຍ, ທ້າວ Kessler.
+
+321
+00:18:15,700 --> 00:18:17,700
+[DAVID]
+How is that?
+ນັ້ນເປັນແນວໃດ?
+
+322
+00:18:18,200 --> 00:18:24,200
+[ALEX]
+Well, you're to take these after you've eaten.  Now what kind of nurse would I be if I failed in so simple a task as giving out some pills?
+ດີ, ເຈົ້າຕ້ອງກິນສິ່ງເຫຼົ່ານີ້ຫຼັງຈາກເຈົ້າກິນແລ້ວ.
+ດຽວນີ້ຂ້ອຍຈະເປັນພະຍາບານປະເພດໃດຖ້າຂ້ອຍລົ້ມເຫຼວໃນວຽກງານທີ່ງ່າຍດາຍເຊັ່ນການໃຫ້ຢາບາງຢ່າງ?
+
+323
+00:18:24,700 --> 00:18:27,150
+[DAVID]
+Leave the pills.  I'll take them later.
+ໃຫ້ຢາໄວ້. ຂ້ອຍຈະເອົາມັນຕໍ່ມາ.
+
+324
+00:18:27,650 --> 00:18:29,650
+[ALEX]
+Sorry.
+ຂໍໂທດ.
+
+325
+00:18:30,150 --> 00:18:32,150
+[DAVID]
+Aw come on, Miss Price!
+ໂອ້ ມາແລ້ວ, ນາງ Price!
+
+326
+00:18:32,650 --> 00:18:34,650
+[ALEX]
+Call me Alex.
+ເອີ້ນຂ້ອຍວ່າແອເລັກສ໌.
+
+327
+00:18:35,150 --> 00:18:37,150
+[DAVID]
+Aw come on, Alex!
+ໂອ້ ມາແລ້ວ ແອເລັກສ໌!
+
+328
+00:18:37,650 --> 00:18:40,800
+[ALEX]
+Shall I be forced to feed you, Mr. Kessler?
+ຂ້ອຍຈະຖືກບັງຄັບໃຫ້ໃຫ້ອາຫານເຈົ້າບໍ, ທ້າວ Kessler?
+
+329
+00:18:41,300 --> 00:18:43,300
+[DAVID]
+Call me David.
+ເອີ້ນຂ້ອຍວ່າ ເດວິດ.
+
+330
+00:18:43,800 --> 00:18:46,600
+[ALEX]
+Shall I be forced to feed you, David?
+ຂ້ອຍຈະຖືກບັງຄັບໃຫ້ໃຫ້ອາຫານເຈົ້າບໍ, ເດວິດ?
+
+331
+00:18:47,100 --> 00:18:50,950
+[DAVID]
+This is absurd.  I'm not hungry.  I don't want any food.
+ນີ້ແມ່ນໂຊກຮ້າຍ. ຂ້ອຍບໍ່ໄດ້ຫິວ. ຂ້ອຍບໍ່ຢາກກິນຫຍັງເລີຍ.
+
+332
+00:18:51,450 --> 00:18:53,450
+[ALEX]
+Right.
+ແມ່ນແລ້ວ.
+
+333
+00:18:53,950 --> 00:18:56,400
+[ALEX]
+Let's try a little harder, shall we?
+ພວກເຮົາພະຍາຍາມຫຼາຍຂຶ້ນເລັກນ້ອຍ, ແມ່ນບໍ?
+
+334
+00:18:56,900 --> 00:18:59,000
+[DAVID]
+Will you give me a break?
+ເຈົ້າຈະພໍໄດ້ແລ້ວ!ບໍ?
+
+335
+00:18:59,500 --> 00:19:03,000
+[ALEX]
+Will I have to take such drastic action again, David?
+ຂ້ອຍຈະຕ້ອງເອົາການກະທໍາຢ່າງຮຸນແຮງອີກຄັ້ງບໍ, ເດວິດ?
+
+336
+00:19:03,500 --> 00:19:05,950
+[DAVID]
+May I have a glass of milk?
+ຂ້ອຍສາມາດກິນນົມໄດ້ບໍ?
+
+337
+00:19:06,450 --> 00:19:10,300
+[JACK]
+David!  David!  Please help me!  Oh God!  David!  Oh my God!
+ດາວິດ! ດາວີດ! ກະລຸນາຊ່ວຍຂ້ອຍ! ໂອ້
+ພຣະເຈົ້າ! ເດວິດ! ໂອ້ຍ ພຣະເຈົ້າຂອງຂ້ອຍ!
+
+338
+00:19:10,800 --> 00:19:12,800
+[MRS. HOBBS]
+Orderly!  Miss Gallagher!
+ການຈັດການ! ນາງແກລາກເກີ!
+
+339
+00:19:13,300 --> 00:19:17,150
+[MRS. HOBBS]
+Orderly, go at once to twenty- one and restrain the patient.
+ເປັນລະບຽບການ, ໄປທັນທີຫາສິບຫນຶ່ງແລະກີດກັ້ນຄົນເຈັບ.
+
+340
+00:19:17,650 --> 00:19:21,850
+[MRS. HOBBS]
+Miss Gallagher, remain here at the desk.  I'll be in twenty- one.
+ນາງແກລາກເກີ, ຢູ່ບ່ອນນີ້ຢູ່ໂຕະ. ຂ້ອຍຈະຢູ່ໃນສິບຫນຶ່ງ.
+
+341
+00:19:22,350 --> 00:19:24,450
+[DR. HIRSCH]
+You've never had bad dreams before?
+ເຈົ້າບໍ່ເຄີຍຝັນຮ້າຍກ່ອນບໍ?
+
+342
+00:19:24,950 --> 00:19:28,800
+[DAVID]
+Sure, as a kid.  But never so real.  Never so bizarre.
+ແນ່ນອນ, ໃນຖານະເປັນເດັກນ້ອຍ.
+ແຕ່ບໍ່ເຄີຍເປັນຈິງຫຼາຍ. ບໍ່ເຄີຍແປກໃຈຫຼາຍ.
+
+343
+00:19:29,300 --> 00:19:33,500
+[DR. HIRSCH]
+Did you get a good look at the man who attacked you?
+ເຈົ້າໄດ້ເບິ່ງຜູ້ຊາຍທີ່ໂຈມຕີເຈົ້າດີບໍ?
+
+344
+00:19:34,000 --> 00:19:40,000
+[DAVID]
+I've told you, it wasn't a man.  It was an animal.  A big wolf or something.  A rabid dog.
+ຂ້ອຍບອກເຈົ້າແລ້ວ, ມັນບໍ່ແມ່ນຜູ້ຊາຍ. ມັນແມ່ນສັດ
+. ຫມູໃຫຍ່ຫຼືບາງສິ່ງບາງຢ່າງ. ຫມາທີ່ໂຊກຮ້າຍ.
+
+345
+00:19:40,500 --> 00:19:42,500
+[DR. HIRSCH]
+Yes.
+ແມ່ນແລ້ວ.
+
+346
+00:19:43,000 --> 00:19:49,000
+[DAVID]
+Look, Dr. Hirsch, I know I've been traumatized, but Jack was torn apart.  I saw him.  A man can't do that to someone with his bare hands.
+ເບິ່ງ, ດຣ ເຮຣສ໌, ຂ້ອຍຮູ້ວ່າຂ້ອຍຖືກໂຊກຮ້າຍ, ແຕ່ແຈກຖືກແຕກແຍກອອກ
+. ຂ້ອຍເຫັນລາວ. ຜູ້ຊາຍບໍ່ສາມາດເຮັດແບບນັ້ນກັບຄົນທີ່ມີມືເປົ່າ.
+
+347
+00:19:49,500 --> 00:19:53,000
+[DR. HIRSCH]
+You'd be surprised what horrors a man is capable of.
+ເຈົ້າຈະແປກໃຈວ່າຜູ້ຊາຍສາມາດເຮັດໄດ້ຫຼາຍປານໃດ.
+
+348
+00:19:53,500 --> 00:19:55,500
+[DAVID]
+Did you see Jack?
+ເຈົ້າເຫັນແຈກບໍ?
+
+349
+00:19:56,000 --> 00:20:00,550
+[DR. HIRSCH]
+No.  In fact, your wounds were cleaned and dressed before you arrived here.
+ບໍ່. ໃນຄວາມເປັນຈິງ,
+ບາດເຈັບຂອງທ່ານໄດ້ຖືກເຮັດຄວາມສະອາດແລະໃສ່ເຄື່ອງນຸ່ງຫົ່ມກ່ອນທີ່ທ່ານຈະມາຮອດບ່ອນນີ້.
+
+350
+00:20:01,050 --> 00:20:07,000
+[DAVID]
+Did you talk to the police in East Proctor?  Did the cops go to The Slaughtered Lamb?
+ເຈົ້າໄດ້ເວົ້າກັບຕໍາຫຼວດໃນ East Proctor
+ບໍ? ຕໍາຫຼວດໄດ້ໄປຫາແມວທີ່ຖືກຂ້າບໍ?
+
+351
+00:20:07,500 --> 00:20:09,500
+[DR. HIRSCH]
+I really don't know.
+ຂ້ອຍບໍ່ຮູ້ເລີຍ.
+
+352
+00:20:10,000 --> 00:20:16,000
+[DAVID]
+Then why the hell are you so quick to disbelieve me?  You yourself said it must have taken incredible strength to tear apart a person like that.
+ຫຼັງຈາກນັ້ນເປັນຫຍັງເຈົ້າໄວປານໃດທີ່ຈະບໍ່ເຊື່ອຂ້ອຍ? ເຈົ້າເອງເວົ້າວ່າ
+ມັນຕ້ອງໄດ້ໃຊ້ຄວາມເຂັ້ມແຂງທີ່ຍິ່ງໃຫຍ່ເພື່ອແຕກແຍກຄົນເຊັ່ນນັ້ນ.
+
+353
+00:20:16,500 --> 00:20:22,500
+[DR. HIRSCH]
+David, please.  The police are satisfied.  I'm certain that if a monster were out roaming northern England we'd have seen it on the telly.
+ເດວິດ, ກະລຸນາ. ຕໍາຫຼວດພໍໃຈ.
+ຂ້ອຍແນ່ໃຈວ່າຖ້າໂມສເຕີຢູ່ພາຍນອກຍ່າງຢູ່ພາກເຫນືອຂອງອັງກິດພວກເຮົາຈະເຫັນມັນໃນໂທລະພາບ.
+
+354
+00:20:23,000 --> 00:20:25,450
+[DAVID]
+You really think I'm crazy, don't you?
+ເຈົ້າຄິດວ່າຂ້ອຍໂຊກຮ້າຍແທ້ໆ, ແມ່ນບໍ?
+
+355
+00:20:25,950 --> 00:20:31,950
+[DR. HIRSCH]
+Believe me.  The Hound of the Baskervilles was an invention of Sir Arthur Conan Doyle's. And if you'd read the bloody book, you'd find that Holmes discovered your house of hell a fraud, a fake.
+ເຊື່ອຂ້ອຍ. ຫມາຂອງບາສເກີວິລລ໌ແມ່ນການຄົ້ນຄວ້າຂອງເຈົ້າແອດເຕີ ຄອນານ ດອຍລ໌.
+ແລະຖ້າເຈົ້າອ່ານປື້ມທີ່ເລືອດ, ເຈົ້າຈະພົບວ່າໂຮມສ໌ໄດ້ຄົ້ນພົບເຮືອນຂອງເຈົ້າເປັນການຟອກເງິນ, ເປັນປອມ.
+
+356
+00:20:32,450 --> 00:20:38,450
+[DR. HIRSCH]
+Now really, David.  You're far too intelligent to go on this way.  When you return to America I want you to seek out a competent psychiatrist or psychologist or something and stop this nonsense.  You'll be leaving this hospital in three or four days, please remain sane.  At least until you are no longer our responsibility.
+ດຽວນີ້ແທ້ໆ, ເດວິດ. ເຈົ້າສະຫຼາດເກີນໄປທີ່ຈະສືບຕໍ່ທາງນີ້. ເມື່ອເຈົ້າກັບຄືນໄປອາເມລິກາຂ້ອຍຢາກໃຫ້ເຈົ້າຊອກຫາແພດຈິດໃຈທີ່ມີຄວາມສາມາດຫຼືນັກຈິດຕະສາດຫຼືບາງສິ່ງບາງຢ່າງແລະຢຸດຄວາມໂງ່ນີ້
+. ເຈົ້າຈະອອກຈາກໂຮງຫມໍນີ້ໃນສາມຫຼືສີ່ມື້, ກະລຸນາຢູ່ສະຕິປັນຍາ. ຢ່າງຫນ້ອຍຈົນກວ່າເຈົ້າຈະບໍ່ເປັນຄວາມຮັບຜິດຊອບຂອງພວກເຮົາອີກຕໍ່ໄປ.
+
+357
+00:20:38,950 --> 00:20:41,750
+[DAVID]
+Dr. Hirsch?  I'd rather not be by myself.
+ດຣ ເຮຣສ໌? ຂ້ອຍມັກບໍ່ຢູ່ຄົນດຽວ.
+
+358
+00:20:42,250 --> 00:20:45,750
+[DR. HIRSCH]
+Of course not, David.  I'll fetch in young Miss Price.
+ແນ່ນອນວ່າບໍ່ແມ່ນ, ເດວິດ. ຂ້ອຍຈະເອົານາງສາວ Price ຫນຸ່ມ.
+
+359
+00:20:46,250 --> 00:20:48,250
+[DAVID]
+You're a very beautiful girl.
+ເຈົ້າເປັນເດັກຍິງທີ່ສວຍງາມຫຼາຍ.
+
+360
+00:20:48,750 --> 00:20:50,750
+[ALEX]
+I thought you were asleep.
+ຂ້ອຍຄິດວ່າເຈົ້ານອນແລ້ວ.
+
+361
+00:20:51,250 --> 00:20:53,350
+[DAVID]
+I was.  What are you reading?
+ຂ້ອຍເປັນ. ເຈົ້າ ກໍາ ລັງອ່ານຫຍັງ?
+
+362
+00:20:53,850 --> 00:20:57,350
+[ALEX]
+`A Connecticut Yankee in King Arthur's Court' by Mark Twain.
+` ຄົນຢານກີຄອນເນັກຕິກ ໃນສານຂອງກະສັດແອດເຕີ' ໂດຍແມຣກ ຕວາຍນ໌.
+
+363
+00:20:57,850 --> 00:20:59,850
+[DAVID]
+Do you like it?
+ເຈົ້າມັກມັນບໍ?
+
+364
+00:21:00,350 --> 00:21:03,850
+[ALEX]
+I've just started it.  My friend gave it to me.
+ຂ້ອຍຫາກໍ່ເລີ່ມຕົ້ນມັນແລ້ວ. ເພື່ອນຂອງຂ້ອຍໄດ້ໃຫ້ມັນໃຫ້ຂ້ອຍ.
+
+365
+00:21:04,350 --> 00:21:06,350
+[ALEX]
+What do you dream about?
+ເຈົ້າຝັນຫຍັງ?
+
+366
+00:21:06,850 --> 00:21:08,850
+[DAVID]
+I dream of death mostly.
+ຂ້ອຍຝັນເຖິງຄວາມຕາຍສ່ວນໃຫຍ່.
+
+367
+00:21:09,350 --> 00:21:11,800
+[ALEX]
+I'm sorry.  I shouldn't have asked you.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ຄວນຖາມເຈົ້າ.
+
+368
+00:21:12,300 --> 00:21:15,100
+[DAVID]
+It's okay.  I want to talk to you.
+ມັນບໍ່ເປັນຫຍັງ. ຂ້ອຍຢາກເວົ້າກັບເຈົ້າ.
+
+369
+00:21:15,600 --> 00:21:17,600
+[DAVID]
+How old are you?
+ເຈົ້າອາຍຸຫຼາຍປານໃດ?
+
+370
+00:21:18,100 --> 00:21:20,550
+[ALEX]
+That's not really a very proper question.
+ນັ້ນບໍ່ແມ່ນຄໍາຖາມທີ່ ເຫມາະ ສົມຫຼາຍ.
+
+371
+00:21:21,050 --> 00:21:23,050
+[DAVID]
+How old are you?
+ເຈົ້າອາຍຸຫຼາຍປານໃດ?
+
+372
+00:21:23,550 --> 00:21:25,550
+[ALEX]
+Twenty-eight.
+ສິບແປດ.
+
+373
+00:21:26,050 --> 00:21:28,050
+[DAVID]
+I'm twenty-seven.
+ຂ້ອຍອາຍຸສິບເຈັດປີ.
+
+374
+00:21:28,550 --> 00:21:30,550
+[ALEX]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+375
+00:21:31,050 --> 00:21:33,850
+[DAVID]
+Now what do you want to talk about?
+ດຽວນີ້ເຈົ້າຢາກເວົ້າຫຍັງ?
+
+376
+00:21:34,350 --> 00:21:36,450
+[ALEX]
+Was Jack Goodman your good friend?
+ແຈກ ກູດແມນເປັນເພື່ອນທີ່ດີຂອງທ່ານບໍ?
+
+377
+00:21:36,950 --> 00:21:39,400
+[DAVID]
+My best friend.  My very best friend.
+ເພື່ອນດີທີ່ສຸດຂອງຂ້ອຍ. ເພື່ອນທີ່ດີທີ່ສຸດຂອງຂ້ອຍຫຼາຍ.
+
+378
+00:21:39,900 --> 00:21:41,900
+[ALEX]
+Shall I read to you?
+ຂ້ອຍຈະອ່ານໃຫ້ເຈົ້າບໍ?
+
+379
+00:21:42,400 --> 00:21:44,400
+[DAVID]
+What?  Oh, yes, please.
+ຫຍັງ? ໂອ້, ແມ່ນແລ້ວ, ກະລຸນາ.
+
+380
+00:21:44,900 --> 00:21:50,900
+[ALEX]
+A Connecticut Yankee in King Arthur's Court by Samuel L. Clemens.  This is after the preface but before chapter one: A Word of Explanation. You all right?
+ນີ້ແມ່ນຫຼັງຈາກ ຄໍາ ແນະ ນໍາ ແຕ່ກ່ອນບົດທີ
+ຫນຶ່ງ: ຄໍາ ອະທິບາຍ. ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+381
+00:21:51,400 --> 00:21:53,400
+[DAVID]
+Yes, go on.
+ແມ່ນແລ້ວ, ໄປ.
+
+382
+00:21:53,900 --> 00:21:59,900
+[ALEX]
+Ahem, A Word of Explanation. It was in Warwick Castle that I came across the curious stranger whom I am going to talk about.  He attracted me by three things: his candid simplicity, his marvelous familiarity with ancient armor, and the restfulness of his company - for he did all the talking.  We fell together as modest people will in the tail of the herd....
+ອາເຮມ, ຄໍາ ອະທິບາຍ. ມັນແມ່ນຢູ່ໃນ Castle Warwick ທີ່ຂ້ອຍພົບຄົນແປກໃຈທີ່ຂ້ອຍຈະເວົ້າກ່ຽວກັບ. ລາວດຶງດູດຂ້ອຍດ້ວຍສາມສິ່ງ: ຄວາມງ່າຍດາຍທີ່ຈິງໃຈຂອງລາວ,
+ຄວາມຮູ້ຈັກທີ່ຍິ່ງໃຫຍ່ກັບອາວຸດບູຮານ, ແລະຄວາມສະຫງົບສຸກຂອງບໍລິສັດຂອງລາວ - ເພາະວ່າລາວເຮັດການເວົ້າທັງ ຫມົດ. ພວກເຮົາຕົກຮ່ວມກັນຄືກັບຄົນທີ່ອ່ອນແອຈະຢູ່ໃນຫຼັງຂອງກະສັດ....
+
+383
+00:22:00,400 --> 00:22:02,400
+[FATHER]
+I'll get it.
+ຂ້ອຍຈະເອົາມັນ.
+
+384
+00:22:02,900 --> 00:22:05,350
+[FATHER]
+All right, all right!  Hold your horses.
+ດີແລ້ວ, ດີແລ້ວ! ຈັບມ້າຂອງທ່ານ.
+
+385
+00:22:05,850 --> 00:22:07,850
+[DAVID]
+Stop!
+ຢຸດເຊົາ!
+
+386
+00:22:08,350 --> 00:22:10,350
+[ALEX]
+Hello.  You all right?
+ສະບາຍດີ. ເຈົ້າດີບໍ?
+
+387
+00:22:10,850 --> 00:22:12,950
+[DAVID]
+I'm sorry I woke you up.
+ຂ້ອຍຂໍໂທດທີ່ຂ້ອຍຕື່ນເຈົ້າ.
+
+388
+00:22:13,450 --> 00:22:16,250
+[ALEX]
+Don't be silly.  Can I get you something?
+ຢ່າເປັນຄົນໂງ່. ຂ້ອຍສາມາດເອົາບາງສິ່ງບາງຢ່າງໃຫ້ເຈົ້າໄດ້ບໍ?
+
+389
+00:22:16,750 --> 00:22:20,250
+[DAVID]
+No, thank you.  Just keep me company for a while.
+ບໍ່, ຂອບໃຈ. ພຽງແຕ່ໃຫ້ຂ້ອຍຢູ່ຮ່ວມກັນຊົ່ວຄາວ.
+
+390
+00:22:20,750 --> 00:22:22,750
+[ALEX]
+That's easy enough.
+ມັນງ່າຍພໍສົມຄວນ.
+
+391
+00:22:23,250 --> 00:22:29,250
+[DAVID]
+I keep having these really terrible dreams.  They are getting worse and I can't seem to stop them.
+ຂ້ອຍຍັງມີຄວາມຝັນທີ່ຮ້າຍແຮງແທ້ໆ. ພວກເຂົາ ກໍາ
+ລັງຮ້າຍແຮງຂຶ້ນແລະຂ້ອຍເບິ່ງຄືວ່າບໍ່ສາມາດຢຸດພວກມັນໄດ້.
+
+392
+00:22:29,750 --> 00:22:35,750
+[ALEX]
+David, your dreams will stop. You'll leave England and your bad memories; and then this will all fade away.
+ເດວິດ, ຄວາມຝັນຂອງທ່ານຈະຢຸດເຊົາ. ເຈົ້າຈະອອກຈາກອັງກິດແລະຄວາມຊົງຈໍາທີ່ບໍ່ດີຂອງທ່ານ
+; ແລະຫຼັງຈາກນັ້ນສິ່ງນີ້ທັງ ຫມົດ ຈະຫາຍໄປ.
+
+393
+00:22:36,250 --> 00:22:38,250
+[DAVID]
+Will you come with me?
+ເຈົ້າຈະໄປກັບຂ້ອຍບໍ?
+
+394
+00:22:38,750 --> 00:22:40,750
+[ALEX]
+What?
+ຫຍັງ?
+
+395
+00:22:41,250 --> 00:22:47,200
+[DAVID]
+I'm serious.  You don't know me and I know nothing about you.  We have a perfect relationship.
+ຂ້ອຍເວົ້າຈິງໃຈ. ເຈົ້າບໍ່ຮູ້ຈັກຂ້ອຍແລະຂ້ອຍບໍ່ຮູ້ຫຍັງກ່ຽວກັບເຈົ້າ
+. ພວກເຮົາມີຄວາມສໍາພັນທີ່ສົມບູນແບບ.
+
+396
+00:22:47,700 --> 00:22:53,300
+[ALEX]
+Now, David, I said I would keep you company, but I meant right here and now.
+ດຽວນີ້, ເດວິດ, ຂ້ອຍບອກວ່າຂ້ອຍຈະເຮັດໃຫ້ເຈົ້າຢູ່ຮ່ວມກັນ
+, ແຕ່ຂ້ອຍຫມາຍຄວາມວ່າຢູ່ບ່ອນນີ້ແລະດຽວນີ້.
+
+397
+00:22:53,800 --> 00:22:55,800
+[DAVID]
+Will you think about it?
+ເຈົ້າຈະຄິດກ່ຽວກັບມັນບໍ?
+
+398
+00:22:56,300 --> 00:23:01,900
+[ALEX]
+How did we get from your bad dreams to my taking a holiday with a patient?
+ພວກເຮົາໄດ້ຈາກຄວາມຝັນຮ້າຍຂອງທ່ານໄປສູ່ການພັກຜ່ອນຂອງຂ້ອຍກັບຄົນເຈັບແນວໃດ
+?
+
+399
+00:23:02,400 --> 00:23:04,500
+[DAVID]
+Not just a patient -- me.
+ບໍ່ແມ່ນພຽງແຕ່ຄົນເຈັບເທົ່ານັ້ນ - ຂ້ອຍ.
+
+400
+00:23:05,000 --> 00:23:07,100
+[ALEX]
+You're being awfully forward, aren't you?
+ເຈົ້າ ກໍາ ລັງກ້າວຫນ້າຫຼາຍ, ແມ່ນບໍ?
+
+401
+00:23:07,600 --> 00:23:13,600
+[DAVID]
+Forgive me, I'm trying to cheer myself up and an affair with a beautiful nurse seemed like just the thing to do it.
+ຂໍໂທດຂ້ອຍ, ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເຮັດໃຫ້ຕົວເອງມີຄວາມສຸກແລະຄວາມສໍາພັນກັບພະຍາບານທີ່ສວຍງາມເບິ່ງຄືວ່າເປັນສິ່ງທີ່
+ເຫມາະ ສົມທີ່ຈະເຮັດມັນ.
+
+402
+00:23:14,100 --> 00:23:17,600
+[ALEX]
+All I am to you is a sex fantasy then?
+ຂ້ອຍເປັນພຽງແຕ່ຄວາມຝັນທາງເພດເທົ່ານັ້ນບໍ?
+
+403
+00:23:18,100 --> 00:23:20,100
+[DAVID]
+Now I'm embarrassed.
+ດຽວນີ້ຂ້ອຍໂຊກຮ້າຍ.
+
+404
+00:23:20,600 --> 00:23:25,850
+[ALEX]
+Good.  I thought for a moment I was the only embarrassed one in the room.
+ດີ. ຂ້ອຍຄິດວ່າຂ້ອຍເປັນຄົນດຽວທີ່ໂຊກຮ້າຍໃນຫ້ອງ.
+
+405
+00:23:26,350 --> 00:23:28,450
+[DAVID]
+Where were we in the book?
+ພວກເຮົາຢູ່ໃສໃນປື້ມ?
+
+406
+00:23:28,950 --> 00:23:30,950
+[ALEX]
+Let me see here.
+ຂໍໃຫ້ຂ້ອຍເບິ່ງບ່ອນນີ້.
+
+407
+00:23:31,450 --> 00:23:37,450
+[ORDERLY]
+Ah you're up.  Good morning and a good day to you.  We've quite a meal for you here this morning.  Bacon, oatmeal, orange juice, and toast with jam.  Good stuff there.  Now eat it up and I'll be back for the dishes when you've finished.
+ອາເຈົ້າຕື່ນແລ້ວ. ສະບາຍດີແລະມື້ທີ່ດີໃຫ້ເຈົ້າ. ພວກເຮົາມີອາຫານທີ່ສົມບູນແບບ ສໍາ ລັບເຈົ້າຢູ່ນີ້ໃນຕອນເຊົ້ານີ້. ບັກໂກນ, ຫມາກ ໄມ້
+, ນ້ ໍາ ຫມາກ ໂຣນເຈີ, ແລະໂຕສດ໌ດ້ວຍຈາມ. ສິ່ງທີ່ດີຢູ່ບ່ອນນັ້ນ. ດຽວນີ້ກິນມັນແລະຂ້ອຍຈະກັບມາ ສໍາ ລັບກະຕ່າເມື່ອເຈົ້າສໍາເລັດແລ້ວ.
+
+408
+00:23:37,950 --> 00:23:39,950
+[DAVID]
+Good morning.
+ສະບາຍດີ.
+
+409
+00:23:40,450 --> 00:23:42,550
+[DAVID]
+Please, sir, I want some more.
+ກະລຸນາເດີ, ຂ້ອຍຢາກອີກບາງຢ່າງ.
+
+410
+00:23:43,050 --> 00:23:45,500
+[JACK]
+Can I have a piece of toast?
+ຂ້ອຍສາມາດກິນໂຕສ໌ໄດ້ບໍ?
+
+411
+00:23:46,000 --> 00:23:48,000
+[JACK]
+Nice to see you.
+ດີໃຈທີ່ເຫັນເຈົ້າ.
+
+412
+00:23:48,500 --> 00:23:50,950
+[DAVID]
+Get the fuck out of here, Jack.
+ອອກຈາກບ່ອນນີ້, ແຈກ.
+
+413
+00:23:51,450 --> 00:23:53,450
+[JACK]
+Thanks a lot.
+ຂອບໃຈຫຼາຍໆ.
+
+414
+00:23:53,950 --> 00:23:56,750
+[DAVID]
+This is too much.  I can't handle this.
+ນີ້ແມ່ນຫຼາຍເກີນໄປ. ຂ້ອຍບໍ່ສາມາດຮັບມືກັບສິ່ງນີ້ໄດ້.
+
+415
+00:23:57,250 --> 00:24:03,200
+[JACK]
+I'm aware that I don't look so great, but I thought you'd be glad to see me.
+ຂ້ອຍຮູ້ວ່າຂ້ອຍເບິ່ງບໍ່ດີຫຼາຍ,
+ແຕ່ຂ້ອຍຄິດວ່າເຈົ້າຈະຍິນດີທີ່ຈະເຫັນຂ້ອຍ.
+
+416
+00:24:03,700 --> 00:24:05,700
+[JACK]
+David!  You're hurting my feelings.
+ເດວິດ! ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ຄວາມຮູ້ສຶກຂອງຂ້ອຍເຈັບປວດ.
+
+417
+00:24:06,200 --> 00:24:12,200
+[DAVID]
+Hurting your feelings?  Has it occurred to you that it may be unsettling to have you rise from your grave to visit me? Listen to me, I'm talking to a hamburger!
+ເຮັດໃຫ້ຄວາມຮູ້ສຶກຂອງທ່ານເຈັບປວດບໍ? ມັນເຄີຍຄິດກັບເຈົ້າວ່າມັນອາດຈະເປັນທີ່ກັງວົນໃຈທີ່ຈະເຮັດໃຫ້ເຈົ້າຕື່ນຈາກຝັງຂອງທ່ານເພື່ອໄປຢ້ຽມຢາມຂ້ອຍບໍ
+? ຟັງຂ້ອຍ, ຂ້ອຍ ກໍາ ລັງເວົ້າກັບແຮມເບີກເກີ!
+
+418
+00:24:12,700 --> 00:24:16,900
+[JACK]
+I'm sorry to be upsetting you, David, but I had to come.
+ຂ້ອຍຂໍໂທດທີ່ເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ, ເດວິດ, ແຕ່ຂ້ອຍຕ້ອງມາ.
+
+419
+00:24:17,400 --> 00:24:20,900
+[DAVID]
+Aren't you supposed to be buried in New York someplace?
+ເຈົ້າບໍ່ຄວນຖືກຝັງໄວ້ໃນນິວຢອກຢູ່ບ່ອນໃດບໍ?
+
+420
+00:24:21,400 --> 00:24:26,650
+[JACK]
+Yeah.  Your parents came to my funeral.  I was surprised at how many people came.
+ແມ່ນແລ້ວ. ພໍ່ແມ່ຂອງເຈົ້າໄດ້ມາຝັງສົບຂອງຂ້ອຍ
+. ຂ້ອຍແປກໃຈວ່າມີຄົນຫຼາຍປານໃດທີ່ມາ.
+
+421
+00:24:27,150 --> 00:24:31,000
+[DAVID]
+Why should you be surprised? You were a very well-liked person.
+ເຈົ້າຄວນແປກໃຈເປັນຫຍັງ? ເຈົ້າເປັນຄົນທີ່ມັກຫຼາຍ.
+
+422
+00:24:31,500 --> 00:24:33,500
+[JACK]
+Debbie Klein cried a lot.
+ເດບບີ ຄລິນຮ້ອງໄຫ້ຫຼາຍ.
+
+423
+00:24:34,000 --> 00:24:36,000
+[DAVID]
+I can't stand it.
+ຂ້ອຍບໍ່ຍອມຮັບໄດ້.
+
+424
+00:24:36,500 --> 00:24:42,500
+[JACK]
+So you know what she does? She's so grief stricken she runs to find solace in Rudy Levine's bed.
+ສະນັ້ນເຈົ້າຮູ້ວ່ານາງເຮັດຫຍັງ?
+ນາງໂຊກຮ້າຍຫຼາຍຈົນແລ່ນໄປຊອກຫາຄວາມສະບາຍໃຈໃນຕຽງຂອງຣູດີ ເລວິນ.
+
+425
+00:24:43,000 --> 00:24:45,000
+[DAVID]
+Rudy Levine the shmuck?
+ຣູດີ ເລວິນ ຄົນໂຊກຮ້າຍບໍ?
+
+426
+00:24:45,500 --> 00:24:47,600
+[JACK]
+Life mocks me even in death.
+ຊີວິດໂຊກຮ້າຍຂ້ອຍເຖິງແມ່ນວ່າຈະຕາຍ.
+
+427
+00:24:48,100 --> 00:24:50,100
+[DAVID]
+I'm going completely crazy.
+ຂ້ອຍ ກໍາ ລັງໂຊກຮ້າຍຢ່າງສົມບູນ.
+
+428
+00:24:50,600 --> 00:24:52,600
+[JACK]
+David!
+ເດວິດ!
+
+429
+00:24:53,100 --> 00:24:55,100
+[DAVID]
+What?!
+ຫຍັງ?!
+
+430
+00:24:55,600 --> 00:25:01,200
+[JACK]
+David, now I know this may be hard for you, but I have to warn you.
+ເດວິດ, ດຽວນີ້ຂ້ອຍຮູ້ວ່າສິ່ງນີ້ອາດຈະຍາກ
+ສໍາ ລັບເຈົ້າ, ແຕ່ຂ້ອຍຕ້ອງເຕືອນເຈົ້າ.
+
+431
+00:25:01,700 --> 00:25:05,550
+[DAVID]
+Warn me?  Will you get out of here, you meat loaf?
+ເຕືອນຂ້ອຍບໍ? ເຈົ້າຈະອອກຈາກບ່ອນນີ້ບໍ, ເຈົ້າເຂົ້າຈີ່ຊີ້ນບໍ?
+
+432
+00:25:06,050 --> 00:25:12,050
+[JACK]
+I'm a grisly sight, it's true; but I love you and that's why I'm here.  You've got to know.
+ຂ້ອຍເປັນພາບທີ່ ຫນ້າ ຢ້ານກົວ, ມັນເປັນຄວາມຈິງ;
+ແຕ່ຂ້ອຍຮັກເຈົ້າແລະນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍຢູ່ບ່ອນນີ້. ເຈົ້າຕ້ອງຮູ້.
+
+433
+00:25:12,550 --> 00:25:18,550
+[DAVID]
+If you love me so much, Jack, you'll realize how disconcerting it is to share one's breakfast with the living dead!
+ຖ້າເຈົ້າຮັກຂ້ອຍຫຼາຍ, ແຈກ,
+ເຈົ້າຈະຮູ້ວ່າມັນສັບສົນຫຼາຍປານໃດທີ່ຈະແບ່ງປັນອາຫານເຊົ້າຂອງຄົນກັບຄົນຕາຍທີ່ມີຊີວິດຢູ່!
+
+434
+00:25:19,050 --> 00:25:21,150
+[JACK]
+We were attacked by a werewolf.
+ພວກເຮົາຖືກໂຈມຕີໂດຍຄົນໂຊກຮ້າຍ.
+
+435
+00:25:21,650 --> 00:25:23,650
+[DAVID]
+I'm not listening!
+ຂ້ອຍບໍ່ໄດ້ຟັງ!
+
+436
+00:25:24,150 --> 00:25:28,000
+[JACK]
+On the moors, we were attacked by a lycanthrope, a werewolf.
+ໃນບູຮານ, ພວກເຮົາຖືກໂຈມຕີໂດຍ lycanthrope, ເປັນ wolf ໄດ້.
+
+437
+00:25:28,500 --> 00:25:30,500
+[DAVID]
+Shut up, you zombie!
+ປິດງຽບ, ເຈົ້າໂຊມບີ!
+
+438
+00:25:31,000 --> 00:25:37,000
+[JACK]
+I was murdered, an unnatural death, and now I walk the earth in limbo until the werewolf's curse is lifted.
+ຂ້ອຍຖືກຄາດຕະກໍາ, ການຕາຍທີ່ບໍ່ທໍາມະຊາດ, ແລະດຽວນີ້ຂ້ອຍຍ່າງໃນໂລກໃນ
+limbo ຈົນກວ່າຄໍາສາບານຂອງ werewolf ຖືກຍົກເລີກ.
+
+439
+00:25:37,500 --> 00:25:39,600
+[DAVID]
+What's wrong with you?  Shut up!
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ? ງຽບ!
+
+440
+00:25:40,100 --> 00:25:44,650
+[JACK]
+The wolf's bloodline must be severed.  The last remaining werewolf must be destroyed.
+ສາຍເລືອດຂອງແມວຕ້ອງຖືກຕັດອອກ. ແມວທີ່ເຫຼືອສຸດທ້າຍຕ້ອງຖືກທໍາລາຍ.
+
+441
+00:25:45,150 --> 00:25:47,150
+[DAVID]
+Will you be quiet?!
+ເຈົ້າຈະງຽບບໍ?
+
+442
+00:25:47,650 --> 00:25:49,650
+[JACK]
+It's you, David.
+ມັນເປັນເຈົ້າ, ເດວິດ.
+
+443
+00:25:50,150 --> 00:25:52,150
+[DAVID]
+What?!
+ຫຍັງ?!
+
+444
+00:25:52,650 --> 00:25:55,800
+[JACK]
+You survived and now you shall continue the curse.
+ເຈົ້າລອດຊີວິດແລ້ວ ແລະ ດຽວນີ້ເຈົ້າຈະສືບຕໍ່ການໂຊກຮ້າຍ.
+
+445
+00:25:56,300 --> 00:26:00,850
+[DAVID]
+What are you talking about?  I won't accept this!  Get out! God damit!
+ເຈົ້າເວົ້າຫຍັງ? ຂ້ອຍຈະບໍ່ຍອມຮັບສິ່ງນີ້! ອອກໄປ! ພຣະເຈົ້າມີ!
+
+446
+00:26:01,350 --> 00:26:05,550
+[JACK]
+Remember what that guy at The Slaughtered Lamb said? `Beware the moon.'
+ຈື່ບໍ່ວ່າຄົນນັ້ນເວົ້າຫຍັງຢູ່ແມວທີ່ຖືກຂ້າຕາຍ? ` ລະມັດລະວັງດວງຈັນ.
+
+447
+00:26:06,050 --> 00:26:08,050
+[DAVID]
+Stop it, Jack.
+ຢຸດຢັ້ງ, ແຈກ.
+
+448
+00:26:08,550 --> 00:26:12,400
+[JACK]
+Beware the moon.  The full moon, David.  You've got two days.
+ລະມັດລະວັງດວງຈັນ. ດວງຈັນເຕັມ, ເດວິດ. ເຈົ້າມີສອງມື້.
+
+449
+00:26:12,900 --> 00:26:15,350
+[DAVID]
+Jack, please go away.  Please go away.
+ແຈກ, ກະລຸນາໄປ. ກະລຸນາກັບໄປ.
+
+450
+00:26:15,850 --> 00:26:19,700
+[JACK]
+You'll stalk the streets of London a creature of the night.
+ເຈົ້າຈະຕິດຕາມຕາມຖະຫນົນຫົນທາງຂອງລອນດອນເປັນສັດໃນຕອນກາງຄືນ.
+
+451
+00:26:20,200 --> 00:26:23,000
+[DAVID]
+You're talking like Boris Karloff!  It's movie dialogue!
+ເຈົ້າເວົ້າຄືກັບໂບຣີສ ຄາລັອບຟ໌! ມັນເປັນການສົນທະນາຮູບເງົາ!
+
+452
+00:26:23,500 --> 00:26:29,500
+[JACK]
+David, please believe me.  You will kill people, David. You've got to stop the bloodshed before it begins.
+ເດວິດ, ກະລຸນາເຊື່ອຂ້ອຍ. ເຈົ້າຈະຂ້າຄົນ, ເດວິດ
+. ເຈົ້າຕ້ອງຢຸດການໄຫຼເລືອດກ່ອນມັນຈະເລີ່ມຕົ້ນ.
+
+453
+00:26:30,000 --> 00:26:32,000
+[DAVID]
+Nurse!
+ພະຍາບານ!
+
+454
+00:26:32,500 --> 00:26:36,700
+[JACK]
+Listen to me!  Take your own life, David.  It's our only chance.
+ຟັງຂ້ອຍ! ເອົາຊີວິດຂອງເຈົ້າເອງ, ເດວິດ. ມັນເປັນໂອກາດດຽວຂອງພວກເຮົາ.
+
+455
+00:26:37,200 --> 00:26:39,200
+[DAVID]
+Nurse!
+ພະຍາບານ!
+
+456
+00:26:39,700 --> 00:26:45,650
+[JACK]
+The supernatural!  The powers of darkness!  It's all true. Take your own life!  Suicide, David.  Join me.
+ຄວາມພົ້ນຈາກທໍາມະຊາດ! ອໍານາດຂອງຄວາມມືດ! ມັນທັງ ຫມົດ ແມ່ນຄວາມຈິງ
+. ເອົາຊີວິດຂອງທ່ານເອງ! ການຂ້າຕົວເອງ, ເດວິດ. ເຂົ້າຮ່ວມຂ້ອຍ.
+
+457
+00:26:46,150 --> 00:26:48,150
+[DAVID]
+Nurse!  Oh God!  Alex!
+ພະຍາບານ! ໂອ້ ພຣະເຈົ້າ! ແອເລັກສ໌!
+
+458
+00:26:48,650 --> 00:26:54,650
+[JACK]
+It's cold, David, and I'm so alone.  The undead surround me.  Have you ever talked to a corpse?  It's boring!  I'm lonely!  Kill yourself, David, before you kill others.
+ມັນເຢັນ, ເດວິດ, ແລະຂ້ອຍໂດດດ່ຽວຫຼາຍ. ຄົນບໍ່ຕາຍຢູ່ອ້ອມແອ້ມຂ້ອຍ. ເຈົ້າເຄີຍເວົ້າກັບສົບບໍ
+? ມັນເບື່ອຫນ່າຍ! ຂ້ອຍເປັນຄົນດຽວ! ຂ້າຕົວເອງເດວິດ, ກ່ອນທີ່ທ່ານຈະຂ້າຄົນອື່ນ.
+
+459
+00:26:55,150 --> 00:26:57,150
+[JACK]
+Don't cry, David.
+ຢ່າຮ້ອງໄຫ້, ເດວິດ.
+
+460
+00:26:57,650 --> 00:26:59,650
+[JACK]
+Please don't cry.
+ກະລຸນາ ຢ່າຮ້ອງໄຫ້.
+
+461
+00:27:00,150 --> 00:27:02,150
+[JACK]
+Beware the moon, David.
+ລະມັດລະວັງດວງຈັນ, ເດວິດ.
+
+462
+00:27:02,650 --> 00:27:04,650
+[ALEX]
+David?  David!
+ເດວິດ? ເດວິດ!
+
+463
+00:27:05,150 --> 00:27:07,150
+[ALEX]
+David, what's wrong?
+ເດວິດ, ມີຫຍັງເກີດຂຶ້ນ?
+
+464
+00:27:07,650 --> 00:27:09,650
+[DAVID]
+I'm a werewolf.
+ຂ້ອຍເປັນຫມາປ່າ.
+
+465
+00:27:10,150 --> 00:27:12,150
+[ALEX]
+A werewolf?
+ເປັນຫມາແມວບໍ?
+
+466
+00:27:12,650 --> 00:27:14,650
+[ALEX]
+Are you better now?
+ເຈົ້າດີຂຶ້ນແລ້ວບໍ?
+
+467
+00:27:15,150 --> 00:27:17,950
+[DAVID]
+I'll let you know the next full moon.
+ຂ້ອຍຈະແຈ້ງໃຫ້ເຈົ້າຮູ້ໃນເດືອນເຕັມຕໍ່ໄປ.
+
+468
+00:27:18,450 --> 00:27:21,950
+[ALEX]
+You're to be discharged tomorrow.  Will you be all right?
+ເຈົ້າຈະຖືກປ່ອຍອອກມື້ອື່ນ. ເຈົ້າຈະດີບໍ?
+
+469
+00:27:22,450 --> 00:27:24,550
+[DAVID]
+My friend Jack was just here.
+ເພື່ອນຂອງຂ້ອຍແຈກສ໌ຫາກໍ່ມາບ່ອນນີ້.
+
+470
+00:27:25,050 --> 00:27:27,050
+[ALEX]
+Your dead friend Jack?
+ເພື່ອນຕາຍຂອງທ່ານແຈກບໍ?
+
+471
+00:27:27,550 --> 00:27:33,150
+[DAVID]
+Yeah.  He says that I will become a monster in two days. What do you think?
+ແມ່ນແລ້ວ. ລາວເວົ້າວ່າຂ້ອຍຈະກາຍເປັນໂມສເຕີໃນສອງມື້. ເຈົ້າຄິດແນວໃດ?
+
+472
+00:27:33,650 --> 00:27:39,650
+[ALEX]
+What do I think?  You mean about the possibility of your becoming a monster in two days or about visits from dead friends?
+ຂ້ອຍຄິດແນວໃດ?
+ເຈົ້າຫມາຍຄວາມວ່າກ່ຽວກັບຄວາມເປັນໄປໄດ້ຂອງເຈົ້າທີ່ຈະກາຍເປັນໂມສເຕີໃນສອງມື້ຫຼືກ່ຽວກັບການຢ້ຽມຢາມຈາກເພື່ອນມິດທີ່ຕາຍບໍ?
+
+473
+00:27:40,150 --> 00:27:42,150
+[DAVID]
+I was dreaming again?
+ຂ້ອຍຝັນອີກບໍ?
+
+474
+00:27:42,650 --> 00:27:44,650
+[ALEX]
+I would think so.
+ຂ້ອຍຄິດວ່າເປັນ.
+
+475
+00:27:45,150 --> 00:27:47,250
+[DAVID]
+Yeah, I would think so, too.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດເຊັ່ນກັນ.
+
+476
+00:27:47,750 --> 00:27:50,900
+[ALEX]
+Do you have a place to stay in London?
+ເຈົ້າມີບ່ອນຢູ່ລອນດອນບໍ?
+
+477
+00:27:51,400 --> 00:27:53,400
+[ALEX]
+The kitchen.
+ເຮືອນຄົວ.
+
+478
+00:27:53,900 --> 00:27:55,900
+[DAVID]
+Very nice.
+ດີຫຼາຍ.
+
+479
+00:27:56,400 --> 00:27:58,400
+[ALEX]
+Closet.
+ກະຕູ້.
+
+480
+00:27:58,900 --> 00:28:00,900
+[DAVID]
+Charming.
+ມ່ວນຊື່ນ.
+
+481
+00:28:01,400 --> 00:28:03,400
+[ALEX]
+Bathroom.
+ຫ້ອງນ້ ໍາ.
+
+482
+00:28:03,900 --> 00:28:05,900
+[DAVID]
+Lovely.
+ດີເລີດ.
+
+483
+00:28:06,400 --> 00:28:08,400
+[ALEX]
+The bedroom.
+ຫ້ອງນອນ.
+
+484
+00:28:08,900 --> 00:28:10,900
+[DAVID]
+There is only one bed.
+ມີພຽງຕຽງດຽວ.
+
+485
+00:28:11,400 --> 00:28:15,950
+[ALEX]
+David, perhaps you'd like to watch the telly while I take a shower.
+ເດວິດ, ບາງທີເຈົ້າຢາກເບິ່ງໂທລະພາບໃນຂະນະທີ່ຂ້ອຍອາບນ້ ໍາ.
+
+486
+00:28:16,450 --> 00:28:18,450
+[DAVID]
+It's nice to see you.
+ດີໃຈທີ່ເຫັນເຈົ້າ.
+
+487
+00:28:18,950 --> 00:28:20,950
+[ALEX]
+It's nice to see you.
+ດີໃຈທີ່ເຫັນເຈົ້າ.
+
+488
+00:28:21,450 --> 00:28:23,450
+[DAVID]
+Alex?
+ແອເລັກສ໌?
+
+489
+00:28:23,950 --> 00:28:25,950
+[ALEX]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+490
+00:28:26,450 --> 00:28:29,250
+[DAVID]
+Will you be here in about fifteen minutes?
+ເຈົ້າຈະມາຮອດບ່ອນນີ້ໃນເວລາປະມານສິບຫ້ານາທີບໍ?
+
+491
+00:28:29,750 --> 00:28:31,750
+[ALEX]
+Of course.
+ແນ່ນອນ.
+
+492
+00:28:32,250 --> 00:28:34,250
+[DAVID]
+Good.
+ດີແລ້ວ.
+
+493
+00:28:34,750 --> 00:28:40,750
+[ALEX]
+David, you don't honestly believe that in reality your friend Jack rose from the grave to breakfast with you? Do you really?
+ເດວິດ, ເຈົ້າບໍ່ເຊື່ອຢ່າງຈິງໃຈວ່າໃນຄວາມເປັນຈິງເພື່ອນຂອງທ່ານແຈກຂຶ້ນຈາກຝັງສົບເພື່ອອາຫານເຊົ້າກັບເຈົ້າບໍ
+? ເຈົ້າເຮັດແທ້ບໍ?
+
+494
+00:28:41,250 --> 00:28:44,400
+[DAVID]
+I was awake and he was in my room.
+ຂ້ອຍຕື່ນແລ້ວ ແລະ ລາວຢູ່ໃນຫ້ອງຂອງຂ້ອຍ.
+
+495
+00:28:44,900 --> 00:28:46,900
+[ALEX]
+But, David.
+ແຕ່, ເດວິດ.
+
+496
+00:28:47,400 --> 00:28:49,400
+[DAVID]
+I wasn't hallucinating.
+ຂ້ອຍບໍ່ໄດ້ໂຊກຮ້າຍ.
+
+497
+00:28:49,900 --> 00:28:51,900
+[ALEX]
+Tomorrow is the full moon.
+ມື້ນີ້ແມ່ນເດືອນເຕັມ.
+
+498
+00:28:52,400 --> 00:28:54,400
+[DAVID]
+That's good, Alex.  Reassure me.
+ນັ້ນດີແອເລັກສ໌. ໃຫ້ຂ້ອຍຫມັ້ນໃຈ.
+
+499
+00:28:54,900 --> 00:28:57,700
+[DAVID]
+It's all right, I know I'm being insane.
+ມັນບໍ່ເປັນຫຍັງ, ຂ້ອຍຮູ້ວ່າຂ້ອຍ ກໍາ ລັງໂຊກຮ້າຍ.
+
+500
+00:28:58,200 --> 00:29:00,200
+[DAVID]
+Okay, okay.  I'm properly reassured!
+ດີ, ດີ. ຂ້ອຍຫມັ້ນໃຈຢ່າງຖືກຕ້ອງ!
+
+501
+00:29:00,700 --> 00:29:03,500
+[DAVID]
+This is very reassuring.  I'm feeling very reassured.
+ນີ້ແມ່ນຄວາມຫມັ້ນໃຈຫຼາຍ. ຂ້ອຍຮູ້ສຶກ ຫມັ້ນ ໃຈຫຼາຍ.
+
+502
+00:29:04,000 --> 00:29:06,000
+[DAVID]
+You're not real.
+ເຈົ້າບໍ່ແມ່ນຕົວຈິງ.
+
+503
+00:29:06,500 --> 00:29:08,950
+[JACK]
+Don't be an asshole, David. Come here.
+ຢ່າເປັນຄົນໂຊກຮ້າຍ, ເດວິດ. ມາບ່ອນນີ້.
+
+504
+00:29:09,450 --> 00:29:11,450
+[DAVID]
+What are you doing here?
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+505
+00:29:11,950 --> 00:29:13,950
+[JACK]
+I wanted to see you.
+ຂ້ອຍຢາກເຫັນເຈົ້າ.
+
+506
+00:29:14,450 --> 00:29:16,900
+[DAVID]
+Okay, you've seen me.  Now go away.
+ດີແລ້ວ, ເຈົ້າເຫັນຂ້ອຍແລ້ວ. ດຽວນີ້ໄປ.
+
+507
+00:29:17,400 --> 00:29:22,650
+[JACK]
+David, I'm sorry I upset you yesterday, but you must understand what is going on.
+ເດວິດ, ຂ້ອຍຂໍໂທດທີ່ຂ້ອຍເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍມື້ວານນີ້
+, ແຕ່ເຈົ້າຕ້ອງເຂົ້າໃຈວ່າເກີດຫຍັງຂຶ້ນ.
+
+508
+00:29:23,150 --> 00:29:27,700
+[DAVID]
+I understand all right. You're one of the undead and I'm a werewolf.
+ຂ້ອຍເຂົ້າໃຈດີ. ເຈົ້າເປັນຄົນຫນຶ່ງໃນຄົນບໍ່ຕາຍແລະຂ້ອຍເປັນແມວຫມາ.
+
+509
+00:29:28,200 --> 00:29:30,200
+[JACK]
+Yes.
+ແມ່ນແລ້ວ.
+
+510
+00:29:30,700 --> 00:29:32,700
+[DAVID]
+Get out of here, Jack!
+ອອກຈາກບ່ອນນີ້, ແຈກ!
+
+511
+00:29:33,200 --> 00:29:37,050
+[JACK]
+David, tomorrow night is the full moon.  You'll change, you'll become....
+ເດວິດ, ໃນມື້ອື່ນແມ່ນດວງຈັນເຕັມ.
+ເຈົ້າຈະປ່ຽນແປງ, ເຈົ້າຈະກາຍເປັນ....
+
+512
+00:29:37,550 --> 00:29:39,650
+[DAVID]
+A monster.  I know, I know.
+ເປັນໂມສເຕີ. ຂ້ອຍຮູ້, ຂ້ອຍຮູ້.
+
+513
+00:29:40,150 --> 00:29:44,350
+[JACK]
+You must take your own life now, David, before it's too late.
+ເຈົ້າຕ້ອງເອົາຊີວິດຕົວເອງດຽວນີ້, ເດວິດ, ກ່ອນທີ່ຈະຊ້າເກີນໄປ.
+
+514
+00:29:44,850 --> 00:29:46,850
+[DAVID]
+Jack, are you really dead?
+ແຈກ, ເຈົ້າຕາຍແທ້ບໍ?
+
+515
+00:29:47,350 --> 00:29:49,350
+[JACK]
+What do you think?
+ເຈົ້າຄິດແນວໃດ?
+
+516
+00:29:49,850 --> 00:29:55,850
+[DAVID]
+I think I've lost my mind.  I think you're not real.  I think I'm asleep and you're a part of another bad dream.
+ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ສູນເສຍຈິດໃຈແລ້ວ. ຂ້ອຍຄິດວ່າທ່ານບໍ່ແມ່ນຄວາມເປັນຈິງ.
+ຂ້ອຍ ຄິດວ່າຂ້ອຍນອນແລະເຈົ້າເປັນສ່ວນ ຫນຶ່ງ ຂອງຄວາມຝັນທີ່ບໍ່ດີອີກຄັ້ງ.
+
+517
+00:29:56,350 --> 00:29:58,350
+[JACK]
+You must believe me.
+ເຈົ້າຕ້ອງເຊື່ອຂ້ອຍ.
+
+518
+00:29:58,850 --> 00:30:04,850
+[DAVID]
+What, Jack?  That tomorrow night beneath the full moon I'll sprout hair and fangs and eat people?  Bullshit!
+ຫຍັງ, ແຈກ?
+ວ່າໃນມື້ອື່ນໃນຕອນກາງຄືນພາຍໃຕ້ດວງຈັນເຕັມຂ້ອຍຈະປູກຜົມແລະແຂ້ວແລະກິນຄົນບໍ? ຢອກຊື່ໆ!
+
+519
+00:30:05,350 --> 00:30:11,350
+[JACK]
+The canines will be real. You'll taste real blood!  God damit, David, please believe me!  You'll kill and make others like me!  I'm not having a nice time, David! Don't allow this to happen again!  You must take your own life!
+ຫມາຈະເປັນຈິງ. ເຈົ້າຈະລົດຊາດເລືອດທີ່ແທ້ຈິງ! ພຣະເຈົ້າ, ເດວິດ, ກະລຸນາເຊື່ອຂ້ອຍ! ເຈົ້າຈະຂ້າແລະເຮັດໃຫ້ຄົນອື່ນຄືກັບຂ້ອຍ
+! ຂ້ອຍບໍ່ໄດ້ມີຄວາມສຸກດີ, ເດ ວິດ! ຢ່າປ່ອຍໃຫ້ສິ່ງນີ້ເກີດຂຶ້ນອີກຄັ້ງ! ເຈົ້າຕ້ອງເອົາຊີວິດຂອງທ່ານເອງ!
+
+520
+00:30:11,850 --> 00:30:14,650
+[DAVID]
+I will not accept this!  Now go away!
+ຂ້ອຍຈະບໍ່ຍອມຮັບສິ່ງນີ້! ດຽວນີ້ໄປ!
+
+521
+00:30:15,150 --> 00:30:17,150
+[ALEX]
+David?
+ເດວິດ?
+
+522
+00:30:17,650 --> 00:30:19,650
+[JACK]
+This is not pretend, David.
+ນີ້ແມ່ນບໍ່ແມ່ນການປອມແປງ, ເດວິດ.
+
+523
+00:30:20,150 --> 00:30:23,650
+[DAVID]
+I will not be threatened by a walking meat loaf!
+ຂ້ອຍຈະບໍ່ຖືກຂົ່ມຂູ່ໂດຍເຂົ້າຈີ່ຊີ້ນທີ່ຍ່າງ!
+
+524
+00:30:24,150 --> 00:30:26,250
+[ALEX]
+David, what's wrong?  I heard voices.
+ເດວິດ, ມີຫຍັງເກີດຂຶ້ນ? ຂ້ອຍໄດ້ຍິນສຽງ.
+
+525
+00:30:26,750 --> 00:30:29,900
+[DAVID]
+It was just me, Alex.  It was just me.
+ມັນເປັນພຽງແຕ່ຂ້ອຍເທົ່ານັ້ນ, ແອເລັກສ໌. ມັນແມ່ນພຽງແຕ່ຂ້ອຍ.
+
+526
+00:30:30,400 --> 00:30:32,850
+[DR. HIRSCH]
+A drink for a very cold man?
+ເຄື່ອງດື່ມ ສໍາ ລັບຜູ້ຊາຍເຢັນຫຼາຍບໍ?
+
+527
+00:30:33,350 --> 00:30:35,800
+[WOMAN]
+Hello, there.  What can I get you?
+ສະບາຍດີ, ຢູ່ບ່ອນນັ້ນ. ຂ້ອຍສາມາດນໍາຫຍັງມາໃຫ້ເຈົ້າໄດ້ບໍ?
+
+528
+00:30:36,300 --> 00:30:38,400
+[DR. HIRSCH]
+Campari and soda would do nicely.
+ຄາມບາຣີ ແລະ ໂຊດາຈະເຮັດໄດ້ດີ.
+
+529
+00:30:38,900 --> 00:30:40,900
+[WOMAN]
+Sorry, love.
+ຂໍໂທດແມ.
+
+530
+00:30:41,400 --> 00:30:43,400
+[DR. HIRSCH]
+I suppose Guinness will suffice.
+ຂ້ອຍຄິດວ່າກິນເນສຈະພຽງພໍ.
+
+531
+00:30:43,900 --> 00:30:45,900
+[DR. HIRSCH]
+A thousand thanks.
+ຂອບໃຈຫຼາຍໆ.
+
+532
+00:30:46,400 --> 00:30:49,900
+[DR. HIRSCH]
+Nasty bit of business with those two young American boys.
+ການເຮັດທຸລະກິດທີ່ບໍ່ດີກັບເດັກຊາຍຊາວອາເມຣິກັນສອງຄົນນັ້ນ.
+
+533
+00:30:50,400 --> 00:30:53,550
+[DART PLAYER]
+I'm afraid I don't know what you mean, sir.
+ຂ້ອຍຢ້ານວ່າຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າຫມາຍຄວາມວ່າແນວໃດເດີເດີ.
+
+534
+00:30:54,050 --> 00:30:59,300
+[DR. HIRSCH]
+Yes, I'm sure that's right.  A few weeks ago, the last full moon wasn't it?
+ແມ່ນແລ້ວ, ຂ້ອຍແນ່ໃຈວ່າມັນຖືກຕ້ອງ.
+ສອງສາມອາທິດກ່ອນ, ເດືອນເຕັມສຸດທ້າຍບໍ່ແມ່ນບໍ?
+
+535
+00:30:59,800 --> 00:31:05,050
+[DR. HIRSCH]
+I mean that escaped lunatic. The one that killed the boy. Wasn't that near here?
+ຂ້ອຍຫມາຍຄວາມວ່າຄົນໂຊກຮ້າຍທີ່ຫນີໄປ.
+ຄົນທີ່ຂ້າເດັກຊາຍ. ມັນບໍ່ຢູ່ໃກ້ບ່ອນນີ້ບໍ?
+
+536
+00:31:05,550 --> 00:31:07,650
+[CHESS PLAYER]
+And where are you from, sir?
+ແລະເຈົ້າມາຈາກໃສເດີເດີເດີ?
+
+537
+00:31:08,150 --> 00:31:10,150
+[DR. HIRSCH]
+London.  Knight takes pawn.
+ລອນດອນ. Knight ເອົາ pawn ໄດ້.
+
+538
+00:31:10,650 --> 00:31:12,650
+[CHESS PLAYER]
+What?
+ຫຍັງ?
+
+539
+00:31:13,150 --> 00:31:15,150
+[CHESS PLAYER]
+Oh, yes, yes.
+ໂອ້ ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
+
+540
+00:31:15,650 --> 00:31:17,650
+[DR. HIRSCH]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+541
+00:31:18,150 --> 00:31:24,150
+[WOMAN]
+Oh, that's been there for two hundred years.  We were going to paint it out, but it's traditional, so we left it.
+ໂອ້, ນັ້ນຢູ່ບ່ອນນັ້ນເປັນເວລາສອງຮ້ອຍປີແລ້ວ. ພວກເຮົາຈະແຕ້ມມັນອອກ
+, ແຕ່ມັນເປັນປະເພນີ, ສະນັ້ນພວກເຮົາຈຶ່ງປ່ອຍມັນໄວ້.
+
+542
+00:31:24,650 --> 00:31:27,450
+[DR. HIRSCH]
+I see.  You've heard nothing about the incident?
+ຂ້ອຍເຫັນແລ້ວ. ເຈົ້າບໍ່ໄດ້ຍິນຫຍັງກ່ຽວກັບເຫດການບໍ?
+
+543
+00:31:27,950 --> 00:31:29,950
+[DART PLAYER]
+Incident?
+ເຫດການບໍ?
+
+544
+00:31:30,450 --> 00:31:32,450
+[DR. HIRSCH]
+The murder?
+ການຄາດຕະກໍາບໍ?
+
+545
+00:31:32,950 --> 00:31:34,950
+[CHESS PLAYER]
+Are you a police officer?
+ເຈົ້າເປັນຕໍາຫຼວດບໍ?
+
+546
+00:31:35,450 --> 00:31:40,350
+[DR. HIRSCH]
+No, no, hardly.  I work in the hospital where the Kessler boy was brought.
+ບໍ່, ບໍ່, ເກືອບ. ຂ້ອຍເຮັດວຽກຢູ່ໂຮງຫມໍທີ່ເດັກຊາຍເຄສເລີຖືກນໍາມາ.
+
+547
+00:31:40,850 --> 00:31:46,100
+[DR. HIRSCH]
+He was talking about werewolves and monsters and as I was near here I thought....
+ລາວ ກໍາ
+ລັງເວົ້າກ່ຽວກັບແມວແລະໂມສເຕີແລະໃນຂະນະທີ່ຂ້ອຍຢູ່ໃກ້ບ່ອນນີ້ຂ້ອຍຄິດວ່າ....
+
+548
+00:31:46,600 --> 00:31:48,600
+[DART PLAYER]
+You thought what?
+ເຈົ້າຄິດຫຍັງ?
+
+549
+00:31:49,100 --> 00:31:51,900
+[DR. HIRSCH]
+I thought I'd look into the boy's story.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະເບິ່ງເລື່ອງຂອງເດັກຊາຍ.
+
+550
+00:31:52,400 --> 00:31:55,200
+[CHESS PLAYER]
+A story about werewolves - now really, sir.
+ເລື່ອງກ່ຽວກັບແມວຫມາ - ດຽວນີ້ແທ້ໆເດີເດີ.
+
+551
+00:31:55,700 --> 00:31:58,150
+[DR. HIRSCH]
+Would you like a game of chess?
+ເຈົ້າຢາກຫຼິ້ນຊັກແຊກບໍ?
+
+552
+00:31:58,650 --> 00:32:01,450
+[ALEX]
+Let me go now, you'll make me late.
+ໃຫ້ຂ້ອຍໄປດຽວນີ້, ເຈົ້າຈະເຮັດໃຫ້ຂ້ອຍຊ້າ.
+
+553
+00:32:01,950 --> 00:32:03,950
+[DAVID]
+Do me an enormous favor?
+ເຈົ້າເຮັດຄວາມຊ່ວຍເຫຼືອທີ່ຍິ່ງໃຫຍ່ບໍ?
+
+554
+00:32:04,450 --> 00:32:06,450
+[ALEX]
+Anything.
+ທຸກຢ່າງ.
+
+555
+00:32:06,950 --> 00:32:10,450
+[DAVID]
+Tell me that it's silly of me to be apprehensive.
+ບອກຂ້ອຍວ່າມັນໂງ່ຈາກຂ້ອຍທີ່ຈະກັງວົນ.
+
+556
+00:32:10,950 --> 00:32:13,400
+[ALEX]
+It's silly of you to be apprehensive.
+ມັນເປັນຄວາມໂງ່ຈາກເຈົ້າທີ່ຈະກັງວົນ.
+
+557
+00:32:13,900 --> 00:32:15,900
+[DAVID]
+Werewolves simply do not exist.
+ພວກຫມາແມວພຽງແຕ່ບໍ່ມີຢູ່.
+
+558
+00:32:16,400 --> 00:32:19,550
+[ALEX]
+David, do you want me to stay here tonight?
+ເດວິດ, ເຈົ້າຢາກໃຫ້ຂ້ອຍຢູ່ບ່ອນນີ້ໃນຄືນນີ້ບໍ?
+
+559
+00:32:20,050 --> 00:32:22,500
+[DAVID]
+Yeah, I do, but go to work.
+ແມ່ນແລ້ວ, ຂ້ອຍເຮັດ, ແຕ່ໄປເຮັດວຽກ.
+
+560
+00:32:23,000 --> 00:32:27,200
+[ALEX]
+Listen, if you get too anxious, call me at the hospital, okay?
+ຟັງ, ຖ້າເຈົ້າກັງວົນເກີນໄປ, ໂທຫາຂ້ອຍຢູ່ໂຮງຫມໍ, ດີບໍ?
+
+561
+00:32:27,700 --> 00:32:29,700
+[DAVID]
+Okay.
+ດີແລ້ວ.
+
+562
+00:32:30,200 --> 00:32:32,300
+[ALEX]
+I've left those pills for you.
+ຂ້ອຍໄດ້ປ່ອຍຢາເຫຼົ່ານັ້ນໄວ້ໃຫ້ເຈົ້າ.
+
+563
+00:32:32,800 --> 00:32:34,800
+[DAVID]
+A doper werewolf.
+ເປັນຫມາແມວທີ່ໃຊ້ຢາເສບຕິດ.
+
+564
+00:32:35,300 --> 00:32:37,750
+[ALEX]
+I'm off.  There's food in the fridge.
+ຂ້ອຍອອກໄປແລ້ວ. ມີອາຫານຢູ່ໃນຕູ້ເຢັນ.
+
+565
+00:32:38,250 --> 00:32:40,250
+[DAVID]
+See you later.
+ພົບກັນຕໍ່ມາ.
+
+566
+00:32:40,750 --> 00:32:42,750
+[DAVID]
+What did I do?
+ຂ້ອຍເຮັດຫຍັງ?
+
+567
+00:32:43,250 --> 00:32:45,250
+[DAVID]
+Thanks a lot, dog.
+ຂອບໃຈຫຼາຍໆ, ຫມາ.
+
+568
+00:32:45,750 --> 00:32:47,750
+[DAVID]
+Wonderful.
+ດີເລີດ.
+
+569
+00:32:48,250 --> 00:32:53,500
+[DAVID]
+An American werewolf was found frozen to death today in the heart of London, England.
+ຄົນຫມາແມວຄົນອາເມຣິກັນໄດ້ຖືກພົບເຫັນທີ່ກ້ອນຕາຍມື້ນີ້ໃນຫົວໃຈຂອງລອນດອນ
+, ອັງກິດ.
+
+570
+00:32:54,000 --> 00:32:56,000
+[DAVID]
+What did I do, cat?
+ຂ້ອຍເຮັດຫຍັງ, ແມວ?
+
+571
+00:32:56,500 --> 00:32:58,500
+[DAVID]
+Snarl.  Growl.  Grrrr.
+Snarl. Growl. Grrrr.
+
+572
+00:32:59,000 --> 00:33:01,000
+[DAVID]
+I'm not hungry.
+ຂ້ອຍບໍ່ຢາກກິນ.
+
+573
+00:33:01,500 --> 00:33:05,700
+[DAVID]
+`Moon River, wider than a mile I'm crossing you in style, Someday....'
+`ແມ່ນໍ້າຂອງດວງຈັນ, ກວ້າງກວ່າ ຫນຶ່ງ ໄມລ໌
+ຂ້ອຍ ກໍາ ລັງຂ້າມເຈົ້າດ້ວຍແບບ, ມື້ຫນຶ່ງ....'
+
+574
+00:33:06,200 --> 00:33:10,050
+[DAVID]
+Fee fi fo fum, I smell the blood of an Englishman.
+ຂ້ອຍກິ່ນຫອມເລືອດຂອງຄົນອັງກິດ.
+
+575
+00:33:10,550 --> 00:33:12,550
+[ALEX]
+How are we feeling tonight?
+ພວກເຮົາຮູ້ສຶກແນວໃດໃນຄືນນີ້?
+
+576
+00:33:13,050 --> 00:33:15,050
+[BENJAMIN]
+No.
+ບໍ່
+
+577
+00:33:15,550 --> 00:33:17,550
+[ALEX]
+No what?
+ບໍ່ຫຍັງ?
+
+578
+00:33:18,050 --> 00:33:20,050
+[BENJAMIN]
+No!
+ບໍ່!
+
+579
+00:33:20,550 --> 00:33:24,750
+[ALEX]
+Benjamin, have you ever been severely beaten about the face and neck?
+ແບນຈາມິນ, ເຈົ້າເຄີຍຖືກຕີຢ່າງຮຸນແຮງກ່ຽວກັບໃບຫນ້າແລະຄໍບໍ?
+
+580
+00:33:25,250 --> 00:33:27,250
+[BENJAMIN]
+No.
+ບໍ່
+
+581
+00:33:27,750 --> 00:33:29,750
+[ALEX]
+I thought not.
+ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ.
+
+582
+00:33:30,250 --> 00:33:32,700
+[ALEX]
+You sleep now and have sweet dreams.
+ເຈົ້ານອນດຽວນີ້ແລະມີຄວາມຝັນທີ່ຫວານ.
+
+583
+00:33:33,200 --> 00:33:35,200
+[BENJAMIN & ALEX]
+No!
+ບໍ່!
+
+584
+00:33:35,700 --> 00:33:37,700
+[DAVID]
+Jesus Christ!
+ພຣະເຢຊູຄຣິດ!
+
+585
+00:33:38,200 --> 00:33:40,200
+[DAVID]
+What?  Christ!  What?
+ຫຍັງ? ພຣະຄຣິດ! ຫຍັງ?
+
+586
+00:33:40,700 --> 00:33:42,700
+[DAVID]
+I'm burning up!  Jesus!
+ຂ້ອຍກໍາລັງເຜົາໄຫມ້! ພຣະເຢຊູ!
+
+587
+00:33:43,200 --> 00:33:45,650
+[DAVID]
+Jack!?  Where are you now, you fucker!?!
+ແຈກ!? ເຈົ້າຢູ່ໃສດຽວນີ້, ເຈົ້າໂຊກຮ້າຍ!?!
+
+588
+00:33:46,150 --> 00:33:48,600
+[DAVID]
+Help me!  Somebody help me, please!  Jack!!
+ຊ່ວຍຂ້ອຍ! ໃຜຊ່ວຍຂ້ອຍ, ກະລຸນາ! ແຈກ!!
+
+589
+00:33:49,100 --> 00:33:52,250
+[DAVID]
+I'm sorry I called you a meat loaf, Jack.
+ຂ້ອຍຂໍໂທດທີ່ຂ້ອຍເອີ້ນເຈົ້າວ່າກະຕ່າຊີ້ນ, ແຈກ.
+
+590
+00:33:52,750 --> 00:33:54,750
+[WOMAN]
+Which one, Harry?
+ອັນໃດ, ແຮຣີ?
+
+591
+00:33:55,250 --> 00:33:58,050
+[MAN]
+Number thirty-nine, but let's go `round the back.
+ເລກທີສາມສິບເກົ້າ, ແຕ່ໄປທາງຫຼັງ.
+
+592
+00:33:58,550 --> 00:34:00,550
+[WOMAN]
+Why?
+ເປັນຫຍັງ?
+
+593
+00:34:01,050 --> 00:34:03,500
+[MAN]
+Come on, we'll give Sean a scare.
+ມາແລ້ວ, ພວກເຮົາຈະເຮັດໃຫ້ໂຊນຢ້ານກົວ.
+
+594
+00:34:04,000 --> 00:34:06,000
+[WOMAN]
+You're crazy, Harry.
+ເຈົ້າໂຊກຮ້າຍ, ແຮຣີ.
+
+595
+00:34:06,500 --> 00:34:08,500
+[HARRY]
+Come on.
+ມາແລ້ວ.
+
+596
+00:34:09,000 --> 00:34:11,000
+[WOMAN]
+Did you hear something?
+ເຈົ້າໄດ້ຍິນຫຍັງບໍ?
+
+597
+00:34:11,500 --> 00:34:13,500
+[HARRY]
+Just now?
+ດຽວນີ້ບໍ?
+
+598
+00:34:14,000 --> 00:34:16,000
+[WOMAN]
+Yes.
+ແມ່ນແລ້ວ.
+
+599
+00:34:16,500 --> 00:34:19,300
+[HARRY]
+No.  Here we are, Sean's is the one....
+ບໍ່. ພວກເຮົາຢູ່ບ່ອນນີ້, ຂອງຊອນແມ່ນຄົນດຽວ....
+
+600
+00:34:19,800 --> 00:34:22,600
+[WIFE]
+Sean, those hooligans are in the park again.
+ຊອນ, ພວກໂຮລິແກນນັ້ນຢູ່ໃນສວນສາທາລະນະອີກເທື່ອຫນຶ່ງ.
+
+601
+00:34:23,100 --> 00:34:26,250
+[SEAN]
+Aren't you ready yet?  They'll be here any minute.
+ເຈົ້າຍັງບໍ່ພ້ອມເທື່ອບໍ? ພວກເຂົາຈະມາຮອດທຸກນາທີ.
+
+602
+00:34:26,750 --> 00:34:28,750
+[WIFE]
+Something's going on out there.
+ມີບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນຢູ່ນອກນັ້ນ.
+
+603
+00:34:29,250 --> 00:34:31,700
+[DR. HIRSCH]
+Is Miss Price on duty this evening?
+ນາງ Price ແມ່ນຢູ່ໃນຫນ້າທີ່ໃນຕອນແລງນີ້ບໍ?
+
+604
+00:34:32,200 --> 00:34:34,200
+[MRS. HOBBS]
+Yes, Doctor.
+ແມ່ນແລ້ວ, ດອກຕໍ.
+
+605
+00:34:34,700 --> 00:34:40,300
+[DR. HIRSCH]
+Miss Gallagher, do you know if Miss Price has seen the Kessler boy since his release?
+ນາງແກລາກເກີ, ເຈົ້າຮູ້ວ່ານາງ Price ໄດ້ເຫັນເດັກຊາຍ
+Kessler ນັບຕັ້ງແຕ່ການປ່ອຍຕົວຂອງລາວບໍ?
+
+606
+00:34:40,800 --> 00:34:42,800
+[MISS GALLAGHER]
+Uh, I don't know if....
+ໂອ້, ຂ້ອຍບໍ່ຮູ້ວ່າ...
+
+607
+00:34:43,300 --> 00:34:46,100
+[ALEX]
+It's all right, Susan.  Yes, Doctor, I have.
+ມັນບໍ່ເປັນຫຍັງ, ຊູຊານ. ແມ່ນແລ້ວ, ດອກຕໍ, ຂ້ອຍເຮັດແລ້ວ.
+
+608
+00:34:46,600 --> 00:34:48,700
+[DR. HIRSCH]
+Come to my office, Miss Price.
+ມາຫ້ອງການຂອງຂ້ອຍ, ນາງ Price.
+
+609
+00:34:49,200 --> 00:34:51,200
+[SEAN]
+Is anyone there?
+ມີໃຜຢູ່ບໍ?
+
+610
+00:34:51,700 --> 00:34:53,700
+[DR. HIRSCH]
+Sit down, Alex.
+ນັ່ງລົງ, ແອເລັກສ໌.
+
+611
+00:34:54,200 --> 00:34:56,300
+[DR. HIRSCH]
+I was in East Proctor today.
+ຂ້ອຍຢູ່ East Proctor ມື້ນີ້.
+
+612
+00:34:56,800 --> 00:35:02,800
+[DR. HIRSCH]
+Oh dear girl, your extracurricular activities are of no consequence to me.  I don't give a damn who you sleep with.  I'm concerned about David.
+ໂອ້ ເດັກຍິງທີ່ຮັກແພງ, ກິດຈະກໍານອກໂຮງຮຽນຂອງທ່ານບໍ່ມີຜົນກະທົບຕໍ່ຂ້ອຍ
+. ຂ້ອຍບໍ່ສົນໃຈວ່າເຈົ້ານອນກັບໃຜ. ຂ້ອຍກັງວົນກ່ຽວກັບດາວິດ.
+
+613
+00:35:03,300 --> 00:35:05,300
+[ALEX]
+Yes, sir.
+ແມ່ນແລ້ວເດີ.
+
+614
+00:35:05,800 --> 00:35:08,250
+[DR. HIRSCH]
+It's a full moon.  Where is he?
+ມັນເປັນເດືອນເຕັມ. ລາວຢູ່ໃສ?
+
+615
+00:35:08,750 --> 00:35:11,550
+[ALEX]
+At my flat.  I'm off at midnight and....
+ຢູ່ເຮືອນຂອງຂ້ອຍ. ຂ້ອຍອອກໃນຕອນກາງຄືນແລະ...
+
+616
+00:35:12,050 --> 00:35:14,050
+[DR. HIRSCH]
+The number, Alex.  Your number!
+ເລກແອເລັກສ໌. ເລກຂອງທ່ານ!
+
+617
+00:35:14,550 --> 00:35:16,550
+[DR. HIRSCH]
+He's not there.
+ລາວບໍ່ໄດ້ຢູ່ບ່ອນນັ້ນ.
+
+618
+00:35:17,050 --> 00:35:19,050
+[ALEX]
+He's not?
+ລາວບໍ່ແມ່ນບໍ?
+
+619
+00:35:19,550 --> 00:35:22,350
+[DR. HIRSCH]
+Alex, has David persisted in his werewolf fantasies?
+ແອເລັກສ໌, ເດວິດໄດ້ຍຶດຫມັ້ນໃນຄວາມຄິດເຫັນຂອງຄົນໂວ້ບໍ?
+
+620
+00:35:22,850 --> 00:35:28,100
+[ALEX]
+Well, yes, but he seems to be more upset by the death of his friend.
+ດີ, ແມ່ນແລ້ວ,
+ແຕ່ລາວເບິ່ງຄືວ່າໂຊກຮ້າຍຫຼາຍຂຶ້ນຕໍ່ການຕາຍຂອງເພື່ອນຂອງລາວ.
+
+621
+00:35:28,600 --> 00:35:31,050
+[DR. HIRSCH]
+Has his friend appeared to him again?
+ເພື່ອນຂອງລາວປາກົດຕົວກັບລາວອີກບໍ?
+
+622
+00:35:31,550 --> 00:35:33,550
+[ALEX]
+Yes.
+ແມ່ນແລ້ວ.
+
+623
+00:35:34,050 --> 00:35:36,050
+[DR. HIRSCH]
+What did he say?
+ລາວເວົ້າຫຍັງ?
+
+624
+00:35:36,550 --> 00:35:39,000
+[ALEX]
+David says Jack comes to warn him.
+ເດວິດເວົ້າວ່າ ແຈກມາເຕືອນລາວ.
+
+625
+00:35:39,500 --> 00:35:41,500
+[DR. HIRSCH]
+Warn him?
+ເຕືອນລາວບໍ?
+
+626
+00:35:42,000 --> 00:35:45,850
+[ALEX]
+Dr. Hirsch, what's wrong?  Is this more serious than I know?
+ດຣ ເຮຣສ໌, ມີຫຍັງເກີດຂຶ້ນ? ນີ້ແມ່ນຮ້າຍແຮງກວ່າທີ່ຂ້ອຍຮູ້ບໍ?
+
+627
+00:35:46,350 --> 00:35:52,350
+[DR. HIRSCH]
+I tried to investigate the attack.  There are no records. The case was closed and now they've `misplaced' the file. David's lacerations were cleaned and dressed when he arrived here and yet supposedly no doctor examined him before I did.  The Goodman boy is already in the ground so he's no good to us.  So I went to the pub in East Proctor where I was convinced of two things.
+ຂ້ອຍພະຍາຍາມສືບສວນການໂຈມຕີ. ບໍ່ມີບັນທຶກໃດໆ. ກໍລະນີຖືກປິດແລະດຽວນີ້ພວກເຂົາໄດ້ ` ຜິດບ່ອນເອກະສານ. ການຕັດຫຍິບຂອງດາວິດໄດ້ຖືກເຮັດຄວາມສະອາດແລະໃສ່ເຄື່ອງນຸ່ງຫົ່ມເມື່ອລາວມາຮອດບ່ອນນີ້ແລະເຖິງຢ່າງໃດກໍ່ຕາມຄາດວ່າບໍ່ມີຫມໍກວດລາວກ່ອນຂ້ອຍເຮັດ
+. ເດັກຊາຍໂກດແມນແມ່ນຢູ່ໃນດິນແລ້ວ ສະນັ້ນລາວບໍ່ດີຕໍ່ພວກເຮົາ. ສະນັ້ນຂ້ອຍໄດ້ໄປໂຮງແຮມໃນ East Proctor ບ່ອນທີ່ຂ້ອຍເຊື່ອຫມັ້ນໃນສອງສິ່ງ.
+
+628
+00:35:52,850 --> 00:35:54,850
+[ALEX]
+Yes.
+ແມ່ນແລ້ວ.
+
+629
+00:35:55,350 --> 00:36:01,350
+[DR. HIRSCH]
+They were lying.  There were no witnesses, no escaped lunatic.  The whole community is hiding the truth of what actually happened up there.
+ພວກເຂົາຕົວະ. ບໍ່ມີພະຍານ, ບໍ່ມີຄົນໂຊກຮ້າຍທີ່ຫນີໄປ. ປະຊາຄົມທັງ
+ຫມົດ ກໍາ ລັງເຊື່ອງຄວາມຈິງຂອງສິ່ງທີ່ເກີດຂຶ້ນຢູ່ເທິງນັ້ນ.
+
+630
+00:36:01,850 --> 00:36:03,850
+[ALEX]
+And what else?
+ແລະອີກຫຍັງອີກ?
+
+631
+00:36:04,350 --> 00:36:10,350
+[DR. HIRSCH]
+I think the village of East Proctor is hiding some dark and terrible secret.  I'm convinced that, like David, they believe in this werewolf.
+ຂ້ອຍຄິດວ່າບ້ານຂອງປຣັອກເຕີຕາເວັນອອກ ກໍາ ລັງເຊື່ອງຄວາມລັບທີ່ມືດແລະຮ້າຍແຮງບາງຢ່າງ
+. ຂ້ອຍເຊື່ອຫມັ້ນວ່າ, ຄືກັບດາວິດ, ພວກເຂົາເຊື່ອໃນແມວໂວວວນີ້.
+
+632
+00:36:10,850 --> 00:36:13,650
+[DR. HIRSCH]
+You've absolutely no idea where David might be?
+ເຈົ້າບໍ່ຮູ້ເລີຍວ່າ ເດວິດອາດຈະຢູ່ໃສ?
+
+633
+00:36:14,150 --> 00:36:19,400
+[ALEX]
+No.  He knows no one in London, besides me.  I shouldn't have left him alone.
+ບໍ່. ລາວບໍ່ຮູ້ຈັກໃຜໃນລອນດອນ, ນອກຈາກຂ້ອຍ
+. ຂ້ອຍບໍ່ຄວນປ່ອຍລາວຢູ່ຄົນດຽວ.
+
+634
+00:36:19,900 --> 00:36:21,900
+[ALEX]
+Surely you're not suggesting....
+ແນ່ນອນວ່າເຈົ້າບໍ່ໄດ້ແນະ ນໍາ ວ່າ....
+
+635
+00:36:22,400 --> 00:36:28,400
+[DR. HIRSCH]
+David has suffered a severe trauma.  I myself witnessed some form of mass neurosis in East Proctor.  If all the villagers believe that Jack Goodman was killed by a werewolf, why shouldn't David? And then it follows that if he survived an attack by a werewolf, wouldn't he himself become a werewolf the next full moon?
+ເດວິດໄດ້ປະສົບກັບຄວາມໂຊກຮ້າຍທີ່ຮ້າຍແຮງ. ຂ້ອຍເອງໄດ້ເປັນພະຍານຂອງ neurosis ມະຫາຊົນບາງຮູບແບບໃນ East Proctor. ຖ້າຊາວບ້ານທັງ ຫມົດ ເຊື່ອວ່າແຈກ ກູດແມນໄດ້ຖືກຂ້າຕາຍໂດຍແມວແມງໄມ້
+, ເປັນຫຍັງເດວິດຈຶ່ງບໍ່ຄວນ? ແລະຫຼັງຈາກນັ້ນມັນຕິດຕາມວ່າຖ້າລາວລອດຊີວິດຈາກການໂຈມຕີໂດຍແບວແມວແມ້, ລາວເອງຈະບໍ່ກາຍເປັນແມວນ້ອຍໃນເດືອນເຕັມຕໍ່ໄປບໍ?
+
+636
+00:36:28,900 --> 00:36:30,900
+[ALEX]
+Dr. Hirsch?
+ດຣ ເຮຣສ໌?
+
+637
+00:36:31,400 --> 00:36:37,400
+[DR. HIRSCH]
+Oh, I don't mean running about on all fours and howling at the moon.  But in such a deranged state he could harm himself, or perhaps others.
+ໂອ້, ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າແລ່ນຢູ່ທົ່ວທັງສີ່ຕີນແລະຮ້ອງໄຫ້ຕໍ່ດວງຈັນ.
+ແຕ່ໃນສະພາບທີ່ຜິດປົກກະຕິດັ່ງນັ້ນລາວສາມາດເຮັດໃຫ້ຕົວເອງເຈັບປວດ, ຫຼືບາງທີຄົນອື່ນ.
+
+638
+00:36:37,900 --> 00:36:39,900
+[ALEX]
+What shall we do?
+ພວກເຮົາຈະເຮັດແນວໃດ?
+
+639
+00:36:40,400 --> 00:36:45,650
+[DR. HIRSCH]
+Let's call the police and see if they can help us find our wandering boy.
+ພວກເຮົາຈະໂທຫາຕໍາຫຼວດແລະເບິ່ງວ່າພວກເຂົາສາມາດຊ່ວຍພວກເຮົາຊອກຫາເດັກຊາຍທີ່ຍ່າງຍ່າງຂອງພວກເຮົາໄດ້ບໍ
+.
+
+640
+00:36:46,150 --> 00:36:48,150
+[DERELICT #1]
+Old Winston smells something.
+ວິນສຕັນເກົ່າກິ່ນຫອມບາງສິ່ງບາງຢ່າງ.
+
+641
+00:36:48,650 --> 00:36:50,650
+[DERELICT #2]
+Who's there?
+ມີໃຜຢູ່ບ່ອນນັ້ນ?
+
+642
+00:36:51,150 --> 00:36:53,150
+[DERELICT #2]
+Let `im go.
+ໃຫ້ພວກເຂົາໄປ.
+
+643
+00:36:53,650 --> 00:36:55,650
+[DERELICT #3]
+Brave dog that.
+ຫມາທີ່ກ້າຫານນັ້ນ.
+
+644
+00:36:56,150 --> 00:36:58,150
+[DERELICT #1]
+Here - who's there?
+ຢູ່ບ່ອນນີ້ - ໃຜຢູ່ບ່ອນນັ້ນ?
+
+645
+00:36:58,650 --> 00:37:00,650
+[DERELICT #2]
+That's not Winston.
+ນັ້ນບໍ່ແມ່ນວິນສຕັນ.
+
+646
+00:37:01,150 --> 00:37:03,150
+[DERELICT #3]
+Look there.
+ເບິ່ງບ່ອນນັ້ນແມ.
+
+647
+00:37:03,650 --> 00:37:05,650
+[DERELICT #1]
+Mother Mary of God.
+ແມ່ມາຣີຂອງພຣະເຈົ້າ.
+
+648
+00:37:06,150 --> 00:37:08,150
+[PASSENGER]
+Hello?
+ສະບາຍດີ?
+
+649
+00:37:08,650 --> 00:37:10,650
+[PASSENGER]
+Is there someone there?
+ມີໃຜຢູ່ບ່ອນນັ້ນບໍ?
+
+650
+00:37:11,150 --> 00:37:15,700
+[PASSENGER]
+I can assure you that this is not in the least bit amusing!
+ຂ້ອຍສາມາດຮັບປະກັນເຈົ້າໄດ້ວ່າ ນີ້ແມ່ນບໍ່ມ່ວນຊື່ນເລີຍ!
+
+651
+00:37:16,200 --> 00:37:18,200
+[PASSENGER]
+I shall report this!
+ຂ້ອຍຈະລາຍງານເລື່ອງນີ້!
+
+652
+00:37:18,700 --> 00:37:20,700
+[PASSENGER]
+Good Lord.
+ພຣະເຈົ້າທີ່ດີ.
+
+653
+00:37:21,200 --> 00:37:23,200
+[DAVID]
+Wake me up, Alex.
+ຕື່ນຂ້ອຍ, ແອເລັກສ໌.
+
+654
+00:37:23,700 --> 00:37:25,700
+[DAVID]
+Ouch!
+ໂອ້!
+
+655
+00:37:26,200 --> 00:37:32,200
+[ALEX]
+Hello?  No, Dr. Hirsch, he hasn't come back yet.  Yes, I will, doctor, but I just feel so helpless sitting here doing nothing.  Thank you, yes, goodbye.
+ສະບາຍດີ? ບໍ່, ດຣ ຮິສສ໌, ລາວຍັງບໍ່ກັບມາເທື່ອ. ແມ່ນແລ້ວ, ຂ້ອຍຈະເຮັດ, ດອກຕໍ,
+ແຕ່ຂ້ອຍພຽງແຕ່ຮູ້ສຶກບໍ່ມີຄວາມຊ່ວຍເຫຼືອຫຼາຍທີ່ນັ່ງຢູ່ນີ້ບໍ່ເຮັດຫຍັງເລີຍ. ຂອບໃຈ, ແມ່ນ ແລ້ວ, ສະ ບາຍດີ.
+
+656
+00:37:32,700 --> 00:37:34,700
+[DAVID]
+Hello.
+ສະບາຍດີ.
+
+657
+00:37:35,200 --> 00:37:37,200
+[DAVID]
+Excuse me, won't you?
+ຂໍໂທດຂ້ອຍ, ເຈົ້າບໍ່?
+
+658
+00:37:37,700 --> 00:37:39,700
+[DAVID]
+Pssst!
+ປັສສຕ໌!
+
+659
+00:37:40,200 --> 00:37:43,000
+[DAVID]
+Hey, kid!  Pssst.  Little boy with the balloons.
+ເຮ້, ເດັກນ້ອຍ! Pssst. ເດັກຊາຍນ້ອຍທີ່ມີບາລອນ.
+
+660
+00:37:43,500 --> 00:37:45,500
+[DAVID]
+Come over here.
+ມາບ່ອນນີ້.
+
+661
+00:37:46,000 --> 00:37:49,500
+[DAVID]
+If you come over here, I'll give you a pound.
+ຖ້າເຈົ້າມາບ່ອນນີ້, ຂ້ອຍຈະໃຫ້ເຈົ້າປອນຫນຶ່ງ.
+
+662
+00:37:50,000 --> 00:37:52,000
+[DAVID]
+Two pounds?
+ສອງປອນບໍ?
+
+663
+00:37:52,500 --> 00:37:56,700
+[DAVID]
+Listen, two pounds is a lot of money.  It's almost five dollars.
+ຟັງ, ສອງປອນແມ່ນເງິນຫຼາຍ. ມັນເກືອບຫ້າໂດລາ.
+
+664
+00:37:57,200 --> 00:37:59,300
+[LITTLE BOY]
+I don't know who you are.
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເປັນໃຜ.
+
+665
+00:37:59,800 --> 00:38:01,800
+[DAVID]
+I'm the famous balloon thief.
+ຂ້ອຍເປັນຄົນລັກບາລອນທີ່ມີຊື່ສຽງ.
+
+666
+00:38:02,300 --> 00:38:05,800
+[LITTLE BOY]
+Why would a thief want to give me two pounds?
+ເປັນຫຍັງຄົນລັກຈຶ່ງຢາກໃຫ້ຂ້ອຍສອງປອນ?
+
+667
+00:38:06,300 --> 00:38:08,400
+[DAVID]
+Come here and I'll show you.
+ມາບ່ອນນີ້ ແລະຂ້ອຍຈະສະແດງໃຫ້ເຈົ້າ.
+
+668
+00:38:08,900 --> 00:38:10,900
+[DAVID]
+Come on!
+ມາແລ້ວ!
+
+669
+00:38:11,400 --> 00:38:13,400
+[DAVID]
+A little closer.
+ໃກ້ຊິດເລັກນ້ອຍ.
+
+670
+00:38:13,900 --> 00:38:15,900
+[DAVID]
+Thank you.
+ຂອບໃຈ
+
+671
+00:38:16,400 --> 00:38:18,400
+[MOTHER]
+Yes, love?
+ແມ່ນແລ້ວ, ຄວາມຮັກ?
+
+672
+00:38:18,900 --> 00:38:21,350
+[LITTLE BOY]
+A naked, American man stole my balloons.
+ຜູ້ຊາຍອາເມຣິກັນຄົນເປົ່າລັກບາລອນຂອງຂ້ອຍ.
+
+673
+00:38:21,850 --> 00:38:23,850
+[MOTHER]
+What?
+ຫຍັງ?
+
+674
+00:38:24,350 --> 00:38:27,500
+[LITTLE BOY]
+A naked, American man -- the famous balloon thief.
+ຜູ້ຊາຍອາເມຣິກັນເປົ່າເປົ່າ - ຄົນລັກບາລອນທີ່ມີຊື່ສຽງ.
+
+675
+00:38:28,000 --> 00:38:30,100
+[DR. HIRSCH]
+I'll have one of those, too.
+ຂ້ອຍຈະກິນຫນຶ່ງເຊັ່ນກັນ.
+
+676
+00:38:30,600 --> 00:38:33,400
+[DAVID]
+A lot of weather we've been having lately.
+ພວກເຮົາມີສະພາບອາກາດຫຼາຍໃນໄລຍະຜ່ານມາ.
+
+677
+00:38:33,900 --> 00:38:36,350
+[ALEX]
+David!  Where on earth have you been!?!
+ເດວິດ! ເຈົ້າຢູ່ໃສໃນໂລກ!?!
+
+678
+00:38:36,850 --> 00:38:38,850
+[DAVID]
+I'm freezing.
+ຂ້ອຍກໍາລັງເຢັນ.
+
+679
+00:38:39,350 --> 00:38:45,350
+[DAVID]
+Alex, I've lost my mind.  I woke up at the zoo!  But you know what?  I feel terrific!
+ແອເລັກສ໌, ຂ້ອຍໄດ້ສູນເສຍຈິດໃຈແລ້ວ. ຂ້ອຍຕື່ນຢູ່ສວນສັດ
+! ແຕ່ເຈົ້າຮູ້ວ່າຫຍັງ? ຂ້ອຍຮູ້ສຶກດີເລີດ!
+
+680
+00:38:45,850 --> 00:38:47,850
+[ALEX]
+The zoo?
+ສວນສັດບໍ?
+
+681
+00:38:48,350 --> 00:38:54,350
+[DAVID]
+Waking up at the zoo, that's not so insane.  Having no clothes on?  That's insane. What did I do last night, Alex?
+ການຕື່ນຂຶ້ນໃນສວນສັດ, ນັ້ນບໍ່ແມ່ນໂຊກແຊງຫຼາຍ. ການບໍ່ມີເຄື່ອງນຸ່ງຫົ່ມໃສ່ບໍ
+? ນັ້ນແມ່ນໂຊຄແຊບ. ຂ້ອຍເຮັດຫຍັງໃນມື້ວານນີ້, ແອເລັກສ໌?
+
+682
+00:38:54,850 --> 00:38:56,850
+[ALEX]
+Don't you remember?
+ເຈົ້າບໍ່ຈື່ບໍ?
+
+683
+00:38:57,350 --> 00:39:03,350
+[DAVID]
+I said goodbye to you.  I was locked out of the flat.  I climbed the wall and came in through the bathroom window. I started to read and then I was naked at the zoo!  I guess I am out of my fucking mind.
+ຂ້ອຍອວຍພອນເຈົ້າ. ຂ້ອຍຖືກລັອກອອກຈາກເຮືອນ. ຂ້ອຍຂຶ້ນກໍາແພງແລະເຂົ້າມາຜ່ານປ່ອງຢ້ຽມຫ້ອງນ້
+ໍາ. ຂ້ອຍເລີ່ມອ່ານແລະຫຼັງຈາກນັ້ນຂ້ອຍເປົ່າຢູ່ສວນສັດ! ຂ້ອຍຄິດວ່າຂ້ອຍບໍ່ມີຈິດໃຈຂອງຂ້ອຍ.
+
+684
+00:39:03,850 --> 00:39:07,350
+[ALEX]
+I worried about you.  We didn't know where you were.
+ຂ້ອຍກັງວົນກ່ຽວກັບເຈົ້າ. ພວກເຮົາບໍ່ຮູ້ວ່າເຈົ້າຢູ່ໃສ.
+
+685
+00:39:07,850 --> 00:39:09,950
+[ALEX]
+Where did you get that coat?
+ເຈົ້າເອົາເສື້ອຜ້ານັ້ນມາຈາກໃສ?
+
+686
+00:39:10,450 --> 00:39:12,450
+[ALEX]
+I'll get it.
+ຂ້ອຍຈະເອົາມັນ.
+
+687
+00:39:12,950 --> 00:39:14,950
+[ALEX]
+Hello?
+ສະບາຍດີ?
+
+688
+00:39:15,450 --> 00:39:17,450
+[DR. HIRSCH]
+Alex, have you heard anything?
+ແອເລັກສ໌, ເຈົ້າໄດ້ຍິນຫຍັງບໍ?
+
+689
+00:39:17,950 --> 00:39:19,950
+[ALEX]
+He's here.
+ລາວຢູ່ບ່ອນນີ້.
+
+690
+00:39:20,450 --> 00:39:24,650
+[DR. HIRSCH]
+Is he all right?  Why didn't you call me?  Where was he?
+ລາວບໍ່ເປັນຫຍັງບໍ? ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ໂທຫາຂ້ອຍ? ລາວຢູ່ໃສ?
+
+691
+00:39:25,150 --> 00:39:28,300
+[ALEX]
+He doesn't remember.  He woke up at the zoo.
+ລາວບໍ່ຈື່. ລາວຕື່ນຢູ່ສວນສັດ.
+
+692
+00:39:28,800 --> 00:39:30,800
+[DR. HIRSCH]
+The zoo?  Is he rational?
+ສວນສັດບໍ? ລາວມີຄວາມສົມເຫດສົມຜົນບໍ?
+
+693
+00:39:31,300 --> 00:39:37,250
+[ALEX]
+Yes, he is.  He's very excited and confused, but he's not crazy, if that's what you mean.
+ແມ່ນແລ້ວ, ລາວເປັນ. ລາວຕື່ນເຕັ້ນແລະສັບສົນຫຼາຍ,
+ແຕ່ລາວບໍ່ແມ່ນຄົນໂຊກຮ້າຍ, ຖ້າມັນແມ່ນສິ່ງທີ່ເຈົ້າຫມາຍຄວາມວ່າ.
+
+694
+00:39:37,750 --> 00:39:42,650
+[DR. HIRSCH]
+Have you read the papers today?  Have you listened to the radio or television?
+ເຈົ້າອ່ານຫນັງສືພິມມື້ນີ້ບໍ? ເຈົ້າໄດ້ຟັງວິທະຍຸຫຼືໂທລະພາບບໍ?
+
+695
+00:39:43,150 --> 00:39:45,150
+[ALEX]
+No, why?
+ບໍ່, ເປັນຫຍັງ?
+
+696
+00:39:45,650 --> 00:39:47,650
+[DR. HIRSCH]
+Is David acting strangely?
+ເດວິດ ກໍາ ລັງປະຕິບັດແບບແປກໃຈບໍ?
+
+697
+00:39:48,150 --> 00:39:50,150
+[ALEX]
+No, not really.
+ບໍ່, ບໍ່ແທ້ໆ.
+
+698
+00:39:50,650 --> 00:39:53,100
+[DR. HIRSCH]
+Could you get here without any trouble?
+ເຈົ້າສາມາດມາບ່ອນນີ້ໄດ້ບໍໂດຍບໍ່ມີຄວາມຫຍຸ້ງຍາກໃດໆ?
+
+699
+00:39:53,600 --> 00:39:55,600
+[ALEX]
+Yes, I should think so.
+ແມ່ນແລ້ວ, ຂ້ອຍຄວນຄິດດັ່ງນັ້ນ.
+
+700
+00:39:56,100 --> 00:40:02,100
+[DR. HIRSCH]
+Right.  Now listen carefully. I want you to bring David here.  I want him in my care. I'll notify the police that we've found him.  It is imperative that you bring him straight to the hospital.  Do you understand?
+ແມ່ນແລ້ວ. ດຽວນີ້ຟັງຢ່າງລະມັດລະວັງ. ຂ້ອຍຢາກໃຫ້ເຈົ້າເອົາດາວິດມາບ່ອນນີ້. ຂ້ອຍຕ້ອງການລາວໃນຄວາມດູແລຂອງຂ້ອຍ.
+ຂ້ອຍຈະແຈ້ງໃຫ້ຕໍາຫຼວດຮູ້ວ່າພວກເຮົາໄດ້ພົບລາວ. ມັນເປັນສິ່ງຈໍາເປັນທີ່ເຈົ້າຕ້ອງພາລາວໄປໂຮງຫມໍໂດຍກົງ. ເຈົ້າເຂົ້າໃຈບໍ?
+
+701
+00:40:02,600 --> 00:40:04,600
+[ALEX]
+Yes, Doctor.
+ແມ່ນແລ້ວ, ດອກຕໍ.
+
+702
+00:40:05,100 --> 00:40:08,250
+[DR. HIRSCH]
+You're certain he's lucid? You won't need any help?
+ເຈົ້າແນ່ໃຈວ່າລາວມີຄວາມສະອາດບໍ?
+ເຈົ້າຈະບໍ່ຕ້ອງການຄວາມຊ່ວຍເຫຼືອໃດໆບໍ?
+
+703
+00:40:08,750 --> 00:40:10,850
+[ALEX]
+He's fine.  We'll come right over.
+ລາວບໍ່ເປັນຫຍັງ. ພວກເຮົາຈະມາທັນທີ.
+
+704
+00:40:11,350 --> 00:40:13,350
+[DR. HIRSCH]
+Shall I send a car?
+ຂ້ອຍຈະສົ່ງລົດບໍ?
+
+705
+00:40:13,850 --> 00:40:15,950
+[ALEX]
+No, a cab will be faster.
+ບໍ່, ລົດແທັກຊີຈະໄວຂຶ້ນ.
+
+706
+00:40:16,450 --> 00:40:18,450
+[DR. HIRSCH]
+I expect you shortly.
+ຂ້ອຍຄາດວ່າເຈົ້າຈະມາໄວໆນີ້.
+
+707
+00:40:18,950 --> 00:40:20,950
+[DR. HIRSCH]
+Yes, Scotland Yard?
+ແມ່ນແລ້ວ, Scotland Yard?
+
+708
+00:40:21,450 --> 00:40:24,250
+[ALEX]
+The next corner we can get a cab.
+ໃນແຄມຕໍ່ໄປພວກເຮົາສາມາດເອົາແທັກຊີໄດ້.
+
+709
+00:40:24,750 --> 00:40:26,750
+[DAVID]
+I should be committed.
+ຂ້ອຍຄວນມີຄວາມຫມັ້ນຫມາຍ.
+
+710
+00:40:27,250 --> 00:40:29,700
+[ALEX]
+Dr. Hirsch will know what to do.
+ດຣ ເຮຣສ໌ ຈະຮູ້ວ່າຈະເຮັດແນວໃດ.
+
+711
+00:40:30,200 --> 00:40:36,150
+[DAVID]
+I don't know why I feel so good.  I haven't felt this good in a long time.
+ຂ້ອຍບໍ່ຮູ້ວ່າເປັນຫຍັງຂ້ອຍຮູ້ສຶກດີຫຼາຍ
+. ຂ້ອຍບໍ່ຮູ້ສຶກທີ່ດີຫຼາຍປານໃດແລ້ວ.
+
+712
+00:40:36,650 --> 00:40:40,150
+[DAVID]
+My body feels alive, alert.  I feel like an athlete.
+ຮ່າງກາຍຂອງຂ້ອຍຮູ້ສຶກມີຊີວິດຢູ່, ລະວັງ. ຂ້ອຍຮູ້ສຶກຄືກັບນັກກິລາ.
+
+713
+00:40:40,650 --> 00:40:42,650
+[ALEX]
+Get in.
+ເຂົ້າມາ.
+
+714
+00:40:43,150 --> 00:40:45,150
+[ALEX]
+Saint Martin's Hospital.
+ໂຮງຫມໍສັກແມຕິນ.
+
+715
+00:40:45,650 --> 00:40:47,650
+[DRIVER]
+Right.
+ແມ່ນແລ້ວ.
+
+716
+00:40:48,150 --> 00:40:52,700
+[DRIVER]
+It's like the days of the Mad Barber of Fleet Street, isn't it?
+ມັນຄ້າຍຄືກັບມື້ຂອງຄົນຕັດຜົມໂຊກຮ້າຍຂອງຖະຫນົນເຮືອ, ແມ່ນບໍ?
+
+717
+00:40:53,200 --> 00:40:55,200
+[ALEX]
+I beg your pardon?
+ຂ້ອຍຂໍໂທດບໍ?
+
+718
+00:40:55,700 --> 00:40:57,700
+[DRIVER]
+The murders.
+ການຄາດຕະກໍາ.
+
+719
+00:40:58,200 --> 00:41:00,200
+[DAVID]
+What murders?
+ການຄາດຕະກໍາໃດ?
+
+720
+00:41:00,700 --> 00:41:06,700
+[DRIVER]
+Last night.  Haven't you heard?  Six people in different parts of the city mutilated.  A real maniac this one.
+ໃນມື້ວານນີ້. ເຈົ້າບໍ່ໄດ້ຍິນບໍ?
+ປະຊາຊົນຫົກຄົນໃນພາກສ່ວນທີ່ແຕກຕ່າງກັນຂອງເມືອງຖືກຕັດຫຍິບ. ຄົນນີ້ເປັນຄົນໂຊກຮ້າຍແທ້ໆ.
+
+721
+00:41:07,200 --> 00:41:09,200
+[DAVID]
+Pull over.
+ຢຸດໄປ.
+
+722
+00:41:09,700 --> 00:41:11,700
+[ALEX]
+But....
+ແຕ່...
+
+723
+00:41:12,200 --> 00:41:14,200
+[DAVID]
+Pull over.
+ຢຸດໄປ.
+
+724
+00:41:14,700 --> 00:41:16,700
+[DAVID]
+Pay the man.
+ຈ່າຍເງິນໃຫ້ຜູ້ຊາຍ.
+
+725
+00:41:17,200 --> 00:41:19,200
+[ALEX]
+David, wait!
+ເດວິດ, ລໍຖ້າ!
+
+726
+00:41:19,700 --> 00:41:21,700
+[ALEX]
+David, what are you doing?
+ເດວິດ, ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+727
+00:41:22,200 --> 00:41:25,350
+[DAVID]
+Six people mutilated?  It had to be me, Alex.
+ຄົນຫົກຄົນຖືກຕັດຫຍິບບໍ? ມັນຕ້ອງເປັນຂ້ອຍ, ແອເລັກສ໌.
+
+728
+00:41:25,850 --> 00:41:27,850
+[ALEX]
+David, stop!
+ເດວິດ, ຢຸດລົງ!
+
+729
+00:41:28,350 --> 00:41:33,600
+[DAVID]
+I am going to the cops. There's a full moon tonight. Jack was right.  I....
+ຂ້ອຍຈະໄປຫາຕໍາຫຼວດ. ມີດວງຈັນເຕັມໃນຄືນນີ້. ແຈກແມ່ນຖືກຕ້ອງ. ຂ້ອຍ....
+
+730
+00:41:34,100 --> 00:41:36,100
+[ALEX]
+Jack is dead!
+ແຈກຕາຍແລ້ວ!
+
+731
+00:41:36,600 --> 00:41:41,500
+[DAVID]
+Jack is dead.  Look, six people have been killed.  I'm going to the police.
+ແຈກຕາຍແລ້ວ. ເບິ່ງ, ມີຄົນຫົກຄົນຖືກຂ້າຕາຍ. ຂ້ອຍຈະໄປຫາຕໍາຫຼວດ.
+
+732
+00:41:42,000 --> 00:41:45,150
+[ALEX]
+David, please be rational. Let's go to Dr. Hirsch.
+ເດວິດ, ກະລຸນາມີຄວາມສົມເຫດສົມຜົນ. ໄປຫາດຣ ເຮຣສ໌.
+
+733
+00:41:45,650 --> 00:41:48,450
+[DAVID]
+Rational!?!  I'm a fucking werewolf, for Christ's sake!
+ຄວາມສົມເຫດສົມຜົນ!?! ຂ້ອຍເປັນຫມາແມວ, ສໍາລັບພຣະຄຣິດ!
+
+734
+00:41:48,950 --> 00:41:51,400
+[DAVID]
+Officer, I killed those people last night.
+ເຈົ້າຫນ້າທີ່, ຂ້ອຍໄດ້ຂ້າຄົນນັ້ນໃນມື້ວານນີ້.
+
+735
+00:41:51,900 --> 00:41:53,900
+[BOBBIE]
+You did, did you?
+ເຈົ້າເຮັດແລ້ວ, ແມ່ນບໍ?
+
+736
+00:41:54,400 --> 00:41:56,500
+[ALEX]
+He's playing a stupid joke, sir.
+ລາວ ກໍາ ລັງຫຼິ້ນຢອກຊື່ໆໂຊງໂງ່ເດີເດີ.
+
+737
+00:41:57,000 --> 00:41:59,000
+[DAVID]
+What?
+ຫຍັງ?
+
+738
+00:41:59,500 --> 00:42:01,950
+[ALEX]
+We had an argument.  He's being silly.
+ພວກເຮົາໄດ້ໂຕ້ຖຽງກັນ. ລາວ ກໍາ ລັງເປັນຄົນໂງ່.
+
+739
+00:42:02,450 --> 00:42:04,900
+[DAVID]
+I swear, I don't know this girl.
+ຂ້ອຍສາບານໂຕວ່າ, ຂ້ອຍບໍ່ຮູ້ຈັກເດັກຍິງຄົນນີ້.
+
+740
+00:42:05,400 --> 00:42:07,500
+[BOBBIE]
+All right, you two, move along.
+ດີແລ້ວ, ເຈົ້າທັງສອງ, ຍ້າຍໄປ.
+
+741
+00:42:08,000 --> 00:42:11,150
+[DAVID]
+Hey, you asshole!  I want you to arrest me!
+ເຮ້, ເຈົ້າໂຊກຮ້າຍ! ຂ້ອຍຢາກໃຫ້ເຈົ້າຈັບຂ້ອຍ!
+
+742
+00:42:11,650 --> 00:42:14,450
+[BOBBIE]
+There's no call for that kind of language.
+ບໍ່ມີການຮຽກຮ້ອງໃຫ້ໃຊ້ພາສາແບບນັ້ນເລີຍ.
+
+743
+00:42:14,950 --> 00:42:20,550
+[DAVID]
+Queen Elizabeth is a man! Prince Charles is a faggot! Winston Churchill was full of shit!
+ລາຊິນີເອລີຊາບິດເປັນຜູ້ຊາຍ! ເຈົ້າຊາຍແຊລສ໌ເປັນຄົນໂຊກແຊວ
+! ວິນສຕັນ ຈໍຊິນລ໌ເຕັມໄປດ້ວຍໂຊຄແຊງ!
+
+744
+00:42:21,050 --> 00:42:23,050
+[BOBBIE]
+Now see here young man.
+ດຽວນີ້ເບິ່ງບ່ອນນີ້ຜູ້ຊາຍຫນຸ່ມ.
+
+745
+00:42:23,550 --> 00:42:28,100
+[DAVID]
+Shakespeare was French!  The Queen Mother sucks cocks in hell!  Shit!  Fuck!  Piss!
+ແຊກເປຍເປັນຝຣັ່ງ! ແມ່ລາຊິນີສູບທາດໃນອານາໄມ
+! ສະບາຍດີ! ສະຫວັດດີການ! ສະຫາຍ!
+
+746
+00:42:28,600 --> 00:42:30,600
+[BOBBIE]
+That's quite enough!
+ນັ້ນແມ່ນພຽງພໍແລ້ວ!
+
+747
+00:42:31,100 --> 00:42:33,100
+[ALEX]
+David, please!
+ເດວິດ, ກະລຸນາ!
+
+748
+00:42:33,600 --> 00:42:35,600
+[DAVID]
+Who is this girl?
+ເດັກຍິງຄົນນີ້ແມ່ນໃຜ?
+
+749
+00:42:36,100 --> 00:42:40,650
+[BOBBIE]
+You're going to have to stop this disturbance or I shall arrest you.
+ເຈົ້າຈະຕ້ອງຢຸດການລົບກວນນີ້ຫຼືຂ້ອຍຈະຈັບເຈົ້າ.
+
+750
+00:42:41,150 --> 00:42:44,300
+[DAVID]
+That's what I want you to do, you moron!
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຢາກໃຫ້ເຈົ້າເຮັດ, ເຈົ້າໂຊກຮ້າຍ!
+
+751
+00:42:44,800 --> 00:42:47,950
+[ALEX]
+Sir, he's very upset.  His friend was killed and....
+ເຈົ້າ, ລາວໂຊກຮ້າຍຫຼາຍ. ເພື່ອນຂອງລາວຖືກຂ້າຕາຍແລະ....
+
+752
+00:42:48,450 --> 00:42:50,450
+[DAVID]
+Will you shut up!?!!
+ເຈົ້າຈະງຽບບໍ!?!!
+
+753
+00:42:50,950 --> 00:42:53,400
+[BOBBIE]
+That's enough!  Now go about your business.
+ນັ້ນພຽງພໍແລ້ວ! ດຽວນີ້ໄປເຮັດທຸລະກິດຂອງທ່ານ.
+
+754
+00:42:53,900 --> 00:42:55,900
+[ALEX]
+Yes, David, let's go.
+ແມ່ນແລ້ວ, ເດວິດ, ໄປ.
+
+755
+00:42:56,400 --> 00:42:58,500
+[DAVID]
+You're not going to arrest me?
+ເຈົ້າຈະບໍ່ຈັບຂ້ອຍບໍ?
+
+756
+00:42:59,000 --> 00:43:01,450
+[DAVID]
+Don't you think he should arrest me?
+ເຈົ້າບໍ່ຄິດວ່າລາວຄວນຈັບຂ້ອຍບໍ?
+
+757
+00:43:01,950 --> 00:43:06,150
+[ONLOOKER]
+Well, I'm not sure.  How does he know this isn't a prank?
+ດີ, ຂ້ອຍບໍ່ແນ່ໃຈ. ລາວຮູ້ແນວໃດວ່ານີ້ບໍ່ແມ່ນຢອກຊື່ໆ?
+
+758
+00:43:06,650 --> 00:43:08,650
+[DAVID]
+A prank?
+ເປັນກະຕຸ້ນບໍ?
+
+759
+00:43:09,150 --> 00:43:11,150
+[ALEX]
+David....
+ເດວິດ...
+
+760
+00:43:11,650 --> 00:43:15,850
+[BOBBIE]
+I've no time for this foolishness.  Nothing to look at.  Move along.
+ຂ້ອຍບໍ່ມີເວລາ ສໍາ ລັບຄວາມໂງ່ນີ້. ບໍ່ມີຫຍັງທີ່ຈະເບິ່ງ. ຍ້າຍໄປ.
+
+761
+00:43:16,350 --> 00:43:18,350
+[DAVID]
+Hopeless.  It's hopeless.
+ບໍ່ຫວັງ. ມັນບໍ່ມີຄວາມຫວັງ.
+
+762
+00:43:18,850 --> 00:43:20,850
+[ALEX]
+David, let's go now.
+ເດວິດ, ໄປດຽວນີ້.
+
+763
+00:43:21,350 --> 00:43:27,350
+[DAVID]
+Leave me alone, dammit!  You people are crazy!  I've got to get away from here!  I've got to do something!
+ຢ່າມາຍຸ້ງກັບຂ້ອຍ, ສະບາຍດີ! ພວກເຈົ້າໂຊກຮ້າຍ!
+ຂ້ອຍຕ້ອງອອກຈາກບ່ອນນີ້! ຂ້ອຍຄວນເຮັດບາງສິ່ງບາງຢ່າງ!
+
+764
+00:43:27,850 --> 00:43:29,850
+[ALEX]
+David, don't lose control.
+ເດວິດ, ຢ່າສູນເສຍການຄວບຄຸມ.
+
+765
+00:43:30,350 --> 00:43:32,800
+[DAVID]
+Control!?!  What control!?! Get away from me!
+ຄວບຄຸມ!?! ການຄວບຄຸມໃດ!?! ອອກຈາກຂ້ອຍ!
+
+766
+00:43:33,300 --> 00:43:35,300
+[DAVID]
+Leave me alone!
+ຢ່າມາຍຸ້ງກັບຂ້ອຍ!
+
+767
+00:43:35,800 --> 00:43:37,800
+[ALEX]
+David, wait!
+ເດວິດ, ລໍຖ້າ!
+
+768
+00:43:38,300 --> 00:43:44,300
+[LT. VILLIERS]
+The forensic lads seem to feel that some sort of animal was involved, that's true, but I hardly think....
+ພວກຜູ້ຊາຍທາງກົດ ຫມາຍ ເບິ່ງຄືວ່າຮູ້ສຶກວ່າສັດບາງຊະນິດມີສ່ວນຮ່ວມ
+, ນັ້ນແມ່ນຄວາມຈິງ, ແຕ່ຂ້ອຍເກືອບບໍ່ຄິດວ່າ....
+
+769
+00:43:44,800 --> 00:43:50,800
+[DR. HIRSCH]
+Regardless of what you think, Lieutenant, the fact remains that David is missing and that we must find him.
+ບໍ່ວ່າເຈົ້າຄິດຫຍັງ, ສະຫມັກ,
+ຄວາມຈິງຍັງຄົງວ່າດາວິດຫາຍສາບສູນແລະພວກເຮົາຕ້ອງຊອກຫາລາວ.
+
+770
+00:43:51,300 --> 00:43:53,300
+[DR. HIRSCH]
+Precisely.
+ແມ່ນແລ້ວ.
+
+771
+00:43:53,800 --> 00:43:58,000
+[LT. VILLIERS]
+Gentlemen, please.  We shall find Mr. Kessler as quickly as we're able.
+ພວກເຈົ້າ, ກະລຸນາ.
+ພວກເຮົາຈະຊອກຫາທ່ານເຄສເລີໄວເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໄດ້.
+
+772
+00:43:58,500 --> 00:44:00,950
+[ALEX]
+He tried to have himself arrested.  He....
+ລາວພະຍາຍາມເຮັດໃຫ້ຕົວເອງຖືກຈັບກຸມ. ລາວ...
+
+773
+00:44:01,450 --> 00:44:04,250
+[LT. VILLIERS]
+Getting arrested isn't all that difficult, Miss Price.
+ການຖືກຈັບກຸມບໍ່ແມ່ນເລື່ອງຍາກຫຼາຍ, ນາງ Price.
+
+774
+00:44:04,750 --> 00:44:06,750
+[ALEX]
+He wants help.  He....
+ລາວຕ້ອງການຄວາມຊ່ວຍເຫຼືອ. ລາວ...
+
+775
+00:44:07,250 --> 00:44:09,700
+[DR. HIRSCH]
+What can we do to assist you?
+ພວກເຮົາສາມາດເຮັດຫຍັງໄດ້ເພື່ອຊ່ວຍທ່ານ?
+
+776
+00:44:10,200 --> 00:44:14,400
+[LT. VILLIERS]
+Stay here.  If we need you, we'll know where to reach you.
+ຢູ່ບ່ອນນີ້. ຖ້າພວກເຮົາຕ້ອງການເຈົ້າ,
+ພວກເຮົາຈະຮູ້ວ່າຈະຕິດຕໍ່ຫາເຈົ້າຢູ່ໃສ.
+
+777
+00:44:14,900 --> 00:44:20,900
+[LT. VILLIERS]
+I cannot accept a connection between David Kessler and last night's murders.  We will find him, however.  I can assure you of that.
+ຂ້ອຍບໍ່ສາມາດຍອມຮັບການເຊື່ອມໂຍງລະຫວ່າງດາວິດ ເຄສເລີ ແລະ ການຄາດຕະກໍາໃນມື້ວານນີ້
+. ພວກເຮົາຈະຊອກຫາລາວ, ເຖິງຢ່າງໃດກໍ່ຕາມ. ຂ້ອຍສາມາດຮັບປະກັນເຈົ້າໄດ້ວ່າ.
+
+778
+00:44:21,400 --> 00:44:23,400
+[ALEX]
+What shall we do?
+ພວກເຮົາຈະເຮັດແນວໃດ?
+
+779
+00:44:23,900 --> 00:44:25,900
+[DR. HIRSCH]
+Tea would be nice.
+ຊາຈະດີ.
+
+780
+00:44:26,400 --> 00:44:32,400
+[DAVID]
+Yes, operator.  I'd like to call the United States and reverse the charges.  David Kessler for anyone.  Yes, I'll wait.  Hello?  Yes, area code 315/472-3402.  Thank you.  Hello?  Rachel?  Just say yes, you'll accept the charges. Just say yes, Rachel.  Is Mom or Dad home?  Where are they? Where's Max?  You're all alone?  Mom and Dad wouldn't leave me alone when I was ten. No, not ten and a half either. I'm still in London.  I'm all better.  Look, would you tell Mom and Dad that I love them? I don't care, Rachel, just do it for me.  Okay?  Good.  And, Rachel, don't fight with Max. Well, try.  Look, kid, please don't forget to tell Mom and Dad I love them.  I love Max and you, too.  Well, I do. No, I'm not being weird, you little creep.  You promise? Okay.  Be a good girl.  I love you.  Bye.
+ແມ່ນແລ້ວ, ຜູ້ປະຕິບັດງານ. ຂ້ອຍຢາກໂທຫາສະຫະລັດແລະປ່ຽນຄ່າທໍານຽມ. ເດວິດ ເຄສເລີ ສໍາ ລັບໃຜກໍ່ຕາມ.ແມ່ນແລ້ວ, ຂ້ອຍຈະລໍຖ້າ. ສະບາຍດີ? ແມ່ນແທ້, ລະຫັດພື້ນທີ່ 315/472-3402. ຂອບໃຈ. ສະແດງຄວາມຍິນດີ
+? ຣາເຊວ? ພຽງແຕ່ເວົ້າວ່າແມ່ນແທ້, ເຈົ້າຈະຍອມຮັບຄ່າໃຊ້ຈ່າຍ. ພຽງແຕ່ເວົ້າວ່າແມ່ນແລ້ວແຣເຊວ. ແມ່ຫຼືພໍ່ຢູ່ເຮືອນບໍ? ພວກເຂົາຢູ່ໃສ? ແມັກສ໌? ເຈົ້າຢູ່ຄົນດຽວບໍ? ແມ່ແລະພໍ່ຈະບໍ່ປ່ອຍຂ້ອຍ
+
+781
+00:44:32,900 --> 00:44:35,000
+[TICKET LADY]
+Two and a half quid, please.
+ສອງປອນເຄິ່ງ, ກະລຸນາ.
+
+782
+00:44:35,500 --> 00:44:37,600
+[DAVID]
+Will you take a traveler's check?
+ເຈົ້າຈະເອົາໃບຢັ້ງຢືນຜູ້ເດີນທາງບໍ?
+
+783
+00:44:38,100 --> 00:44:40,100
+[TICKET LADY]
+No, sorry.
+ບໍ່, ຂໍໂທດ.
+
+784
+00:44:40,600 --> 00:44:42,600
+[DAVID]
+Keep the change.
+ຮັກສາເງິນສົດໄວ້.
+
+785
+00:44:43,100 --> 00:44:45,100
+[TICKET LADY]
+Well, thank you, sir!
+ດີ, ຂອບໃຈເດີເດີເດີ!
+
+786
+00:44:45,600 --> 00:44:47,600
+[DAVID]
+Hi, Jack.
+ສະບາຍດີ ແຈກ.
+
+787
+00:44:48,100 --> 00:44:50,100
+[JACK]
+Hi, David.
+ສະບາຍດີ ເດວິດ.
+
+788
+00:44:50,600 --> 00:44:52,600
+[DAVID]
+What can I say, Jack?
+ຂ້ອຍຈະເວົ້າຫຍັງໄດ້, ແຈກ?
+
+789
+00:44:53,100 --> 00:44:55,200
+[JACK]
+You don't have to say anything.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງເວົ້າຫຍັງເລີຍ.
+
+790
+00:44:55,700 --> 00:44:58,850
+[DAVID]
+Aren't you going to say, `I told you so'?
+ເຈົ້າຈະບໍ່ເວົ້າວ່າ, ຂ້ອຍບອກເຈົ້າແລ້ວບໍ?
+
+791
+00:44:59,350 --> 00:45:02,150
+[JACK]
+If I was still alive, I probably would.
+ຖ້າຂ້ອຍຍັງມີຊີວິດຢູ່, ຂ້ອຍອາດຈະເຮັດ.
+
+792
+00:45:02,650 --> 00:45:04,650
+[DAVID]
+You look awful.
+ເຈົ້າເບິ່ງຮ້າຍແຮງ.
+
+793
+00:45:05,150 --> 00:45:07,150
+[JACK]
+Thank you.
+ຂອບໃຈ
+
+794
+00:45:07,650 --> 00:45:13,650
+[DAVID]
+I didn't mean it.  I don't know what I'm saying.  I'm not even sure it was me who killed those people.  I don't remember doing it.
+ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມມັນ. ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍເວົ້າຫຍັງ.
+ຂ້ອຍຍັງບໍ່ແນ່ໃຈວ່າມັນແມ່ນຂ້ອຍທີ່ຂ້າຄົນນັ້ນ. ຂ້ອຍຈື່ບໍ່ວ່າເຮັດມັນ.
+
+795
+00:45:14,150 --> 00:45:16,150
+[JACK]
+What about the zoo?
+ແລະສວນສັດແນວໃດ?
+
+796
+00:45:16,650 --> 00:45:22,650
+[DAVID]
+Well, even if I'm not the wolfman, I am crazy enough to do something like that.  I mean, here I sit in Leicester Square talking to a corpse. I'm glad to see you, Jack.
+ດີ, ເຖິງແມ່ນວ່າຂ້ອຍບໍ່ແມ່ນຄົນຫມາແມວ, ຂ້ອຍໂຊກຮ້າຍພໍທີ່ຈະເຮັດບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ.
+ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍນັ່ງຢູ່ບ່ອນນີ້ໃນສະໂມສອນເລສເຕີເວົ້າກັບສົບ. ຂ້ອຍດີໃຈທີ່ເຫັນເຈົ້າ, ແຈກ.
+
+797
+00:45:23,150 --> 00:45:25,600
+[JACK]
+I want you to meet some people.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າພົບກັບຄົນບາງຄົນ.
+
+798
+00:45:26,100 --> 00:45:28,200
+[JACK]
+David Kessler, this is Gerald Bringsly.
+ເດວິດ ເຄສເລີ, ນີ້ແມ່ນເຈຣລາດ ບຣິງສລີ.
+
+799
+00:45:28,700 --> 00:45:30,700
+[DAVID]
+Hello.
+ສະບາຍດີ.
+
+800
+00:45:31,200 --> 00:45:37,200
+[JACK]
+Gerald is the man you murdered in the subway.  We thought it best you didn't see him as he's a fresh kill and still pretty messy.
+ເຈຣລາດແມ່ນຜູ້ຊາຍທີ່ທ່ານໄດ້ຄາດຕະກໍາໃນລົດໄຟໃຕ້ດິນ.
+ພວກເຮົາຄິດວ່າມັນດີທີ່ສຸດທີ່ທ່ານບໍ່ເຫັນລາວເພາະວ່າລາວເປັນການຂ້າສົດແລະຍັງສັບສົນຫຼາຍ.
+
+801
+00:45:37,700 --> 00:45:39,800
+[BRINGSLY]
+Yes, I do look most unpleasant.
+ແມ່ນແລ້ວ, ຂ້ອຍເບິ່ງບໍ່ດີຫຼາຍ.
+
+802
+00:45:40,300 --> 00:45:43,100
+[DAVID]
+Why are you doing this to me, Jack?
+ເຈົ້າເຮັດແບບນີ້ກັບຂ້ອຍເປັນຫຍັງ, ແຈກ?
+
+803
+00:45:43,600 --> 00:45:49,600
+[BRINGSLY]
+This isn't Mr. Goodman's idea. He is your good friend, whereas I am a victim of your carnivorous lunar activities.
+ນີ້ແມ່ນບໍ່ແມ່ນຄວາມຄິດຂອງທ່ານກູດແມນ. ລາວເປັນເພື່ອນທີ່ດີຂອງທ່ານ,
+ໃນຂະນະທີ່ຂ້ອຍເປັນຜູ້ເຄາະຮ້າຍຂອງການເຄື່ອນໄຫວດວງຈັນທີ່ກິນຊີ້ນຂອງທ່ານ.
+
+804
+00:45:50,100 --> 00:45:55,000
+[DAVID]
+Mr. Bringsly, I'm sorry.  I have absolutely no idea what to say to you.
+ທ່ານ ບຣິງສລີ, ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ຮູ້ເລີຍວ່າຈະເວົ້າຫຍັງກັບເຈົ້າ.
+
+805
+00:45:55,500 --> 00:46:01,500
+[BRINGSLY]
+You've left my wife a widow and my children fatherless. And I understand that I am to walk the earth one of the living dead until the wolf's bloodline is severed and the curse lifted.
+ເຈົ້າໄດ້ປ່ອຍເມຍຂອງຂ້ອຍເປັນເມຍໂສດແລະລູກຂອງຂ້ອຍບໍ່ມີພໍ່. ແລະຂ້ອຍເຂົ້າໃຈວ່າຂ້ອຍຕ້ອງຍ່າງໃນໂລກ
+ຫນຶ່ງ ໃນຄົນຕາຍທີ່ມີຊີວິດຈົນກວ່າສາຍເລືອດຂອງແມວຈະຖືກຕັດແລະຄໍາສາບານຍົກເລີກ.
+
+806
+00:46:02,000 --> 00:46:04,000
+[BRINGSLY]
+You must die, David Kessler.
+ເຈົ້າຕ້ອງຕາຍ, ເດວິດ ເຄສເລີ.
+
+807
+00:46:04,500 --> 00:46:08,000
+[JACK]
+David, this is Harry Berman and his fiancee Judith Browns.
+ເດວິດ, ນີ້ແມ່ນແຮຣີ ເບີແມນ ແລະເມຍແຕ່ງງານຂອງລາວຈູດິດ ບຣາວນສ໌.
+
+808
+00:46:08,500 --> 00:46:11,300
+[JACK]
+And these gentlemen are Alf, Ted, and Joseph.
+ແລະພວກຜູ້ຊາຍເຫຼົ່ານີ້ແມ່ນແອລຟ໌, ເທດ, ແລະໂຈເຊັບ.
+
+809
+00:46:11,800 --> 00:46:14,950
+[DERELICT #2]
+Can't say we're pleased to meet you, Mr. Kessler.
+ຂ້ອຍບໍ່ສາມາດເວົ້າໄດ້ວ່າພວກເຮົາຍິນດີທີ່ພົບທ່ານ, ທ້າວ Kessler.
+
+810
+00:46:15,450 --> 00:46:17,450
+[DAVID]
+What shall I do?
+ຂ້ອຍຈະເຮັດແນວໃດ?
+
+811
+00:46:17,950 --> 00:46:19,950
+[JACK]
+Suicide.
+ການຂ້າຕົວເອງ.
+
+812
+00:46:20,450 --> 00:46:22,550
+[HARRY]
+You must take your own life!
+ເຈົ້າຕ້ອງເອົາຊີວິດຕົວເອງ!
+
+813
+00:46:23,050 --> 00:46:26,550
+[DAVID]
+That's easy for you to say - you're already dead.
+ມັນງ່າຍຕໍ່ເຈົ້າທີ່ຈະເວົ້າ - ເຈົ້າຕາຍແລ້ວ.
+
+814
+00:46:27,050 --> 00:46:31,950
+[BRINGSLY]
+No, David.  Harry and I and everyone you murder are not dead.  The undead.
+ບໍ່, ເດວິດ. ຂ້ອຍແລະແຮຣີ ແລະທຸກຄົນທີ່ທ່ານຂ້າບໍ່ໄດ້ຕາຍ. ຄົນບໍ່ຕາຍ.
+
+815
+00:46:32,450 --> 00:46:34,900
+[DAVID]
+Why are you doing this to me?
+ເຈົ້າເຮັດແບບນີ້ກັບຂ້ອຍເປັນຫຍັງ?
+
+816
+00:46:35,400 --> 00:46:37,400
+[JACK]
+Because this must be stopped.
+ເພາະວ່າສິ່ງນີ້ຕ້ອງຢຸດເຊົາ.
+
+817
+00:46:37,900 --> 00:46:39,900
+[DAVID]
+How shall I do it?
+ຂ້ອຍຈະເຮັດແນວໃດ?
+
+818
+00:46:40,400 --> 00:46:42,400
+[JUDITH]
+Sleeping pills?
+ເມັດນອນບໍ?
+
+819
+00:46:42,900 --> 00:46:44,900
+[DERELICT #1]
+Not sure enough.
+ບໍ່ແນ່ໃຈພໍສົມຄວນ.
+
+820
+00:46:45,400 --> 00:46:47,400
+[DAVID]
+I could hang myself.
+ຂ້ອຍສາມາດວາງຕົວເອງໄດ້.
+
+821
+00:46:47,900 --> 00:46:52,450
+[JACK]
+If you did it wrong, it would be painful.  You'd choke to death.
+ຖ້າເຈົ້າເຮັດມັນຜິດ, ມັນຈະເຈັບປວດ. ເຈົ້າຈະບິດຈົນຕາຍ.
+
+822
+00:46:52,950 --> 00:46:54,950
+[DERELICT #3]
+So what?  Let `im choke.
+ສະນັ້ນຫຍັງ? ໃຫ້ຂ້ອຍບິດບິດ.
+
+823
+00:46:55,450 --> 00:46:58,600
+[JACK]
+Do you mind?  The man's a friend of mine.
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ? ຜູ້ຊາຍຄົນນັ້ນເປັນເພື່ອນຂອງຂ້ອຍ.
+
+824
+00:46:59,100 --> 00:47:01,550
+[DERELICT #3]
+Well he ain't no friend of mine.
+ດີລາວບໍ່ແມ່ນເພື່ອນຂອງຂ້ອຍເລີຍ.
+
+825
+00:47:02,050 --> 00:47:04,050
+[BRINGSLY]
+Gentlemen, please.
+ພວກເຈົ້າ, ກະລຸນາ.
+
+826
+00:47:04,550 --> 00:47:06,550
+[HARRY]
+A gun.
+ປືນ.
+
+827
+00:47:07,050 --> 00:47:09,850
+[DERELICT #1]
+I know where he can get a gun.
+ຂ້ອຍຮູ້ວ່າລາວສາມາດເອົາປືນໄດ້ໃສ.
+
+828
+00:47:10,350 --> 00:47:13,150
+[DAVID]
+Don't I need a silver bullet or something?
+ຂ້ອຍບໍ່ຕ້ອງການລູກປືນເງິນຫຼືບາງສິ່ງບາງຢ່າງບໍ?
+
+829
+00:47:13,650 --> 00:47:15,650
+[JACK]
+Be serious, would you?
+ເວົ້າຈິງໃຈ, ເຈົ້າຈະເຮັດບໍ?
+
+830
+00:47:16,150 --> 00:47:18,150
+[DAVID]
+Madness.  I've gone totally mad.
+ຂ້ອຍໂຊກຮ້າຍແລ້ວ.
+
+831
+00:47:18,650 --> 00:47:20,650
+[HARRY]
+A gun is good.
+ປືນດີ.
+
+832
+00:47:21,150 --> 00:47:25,350
+[JUDITH]
+You just put the gun to your forehead and pull the trigger.
+ເຈົ້າພຽງແຕ່ເອົາປືນໃສ່ຫນ້າເອິກຂອງທ່ານແລະດຶງກະຕຸ້ນ.
+
+833
+00:47:25,850 --> 00:47:30,750
+[BRINGSLY]
+If you put it in your mouth, then you'd be sure not to miss.
+ຖ້າເຈົ້າເອົາມັນໃສ່ປາກຂອງທ່ານ, ຫຼັງຈາກນັ້ນເຈົ້າຈະແນ່ໃຈວ່າຈະບໍ່ພາດ.
+
+834
+00:47:31,250 --> 00:47:33,350
+[DAVID]
+Thank you, you're all so thoughtful.
+ຂອບໃຈ, ເຈົ້າທັງ ຫມົດ ມີຄວາມຄິດເຫັນຫຼາຍ.
+
+835
+00:47:33,850 --> 00:47:35,850
+[DAVID]
+Go away!  Please!  Go away!
+ໄປ! ກະລຸນາ! ໄປ!
+
+836
+00:47:36,350 --> 00:47:38,350
+[DAVID]
+Run!  Please...run.
+ແລ່ນ! ກະລຸນາ... ແລ່ນ.
+
+837
+00:47:38,850 --> 00:47:40,850
+[TICKET TAKER]
+I'll check on the house.
+ຂ້ອຍຈະເບິ່ງເຮືອນ.
+
+838
+00:47:41,350 --> 00:47:46,250
+[TICKET LADY]
+It's horrible, horrible! There's a beast!  A mad dog! It's killing people in there!
+ມັນຮ້າຍແຮງ, ຮ້າຍແຮງ! ມີສັດຮ້າຍ!
+ຫມາໂຊກຮ້າຍ! ມັນ ກໍາ ລັງຂ້າຄົນຢູ່ບ່ອນນັ້ນ!
+
+839
+00:47:46,750 --> 00:47:52,750
+[COP #1]
+For God's sake, Tom, there's a monster in there! The doors shudder as the Wolf begins to batter them down.  The cops strain to keep them shut.
+ສໍາລັບພຣະເຈົ້າ, ໂຕມ, ມີໂມສເຕີຢູ່ບ່ອນນັ້ນ!
+ປະຕູສັ່ນສະເທືອນໃນຂະນະທີ່ວູຟເລີ່ມຕີພວກມັນລົງ. ຕໍາຫຼວດພະຍາຍາມເຮັດໃຫ້ພວກມັນປິດ.
+
+840
+00:47:53,250 --> 00:47:56,400
+[COP #1]
+Call for assistance and tell them to bring guns.
+ຮ້ອງຂໍຄວາມຊ່ວຍເຫຼືອແລະບອກພວກເຂົາໃຫ້ເອົາປືນ.
+
+841
+00:47:56,900 --> 00:48:00,400
+[COP #2]
+Keep moving!  Will you people get out of the way!
+ສືບຕໍ່ເຄື່ອນຍ້າຍ! ເຈົ້າຈະອອກຈາກທາງບໍ!
+
+842
+00:48:00,900 --> 00:48:06,150
+[DR. HIRSCH]
+Nurse Hobbs said there's a disturbance in Leicester Square involving some sort of mad dog.
+ພະຍາບານໂຮບສ໌ເວົ້າວ່າ
+ມີການລົບກວນໃນສະໂມສອນເລສເຕີທີ່ກ່ຽວຂ້ອງກັບຫມາໂຊກຮ້າຍບາງຊະນິດ.
+
+843
+00:48:06,650 --> 00:48:08,650
+[ALEX]
+David?
+ເດວິດ?
+
+844
+00:48:09,150 --> 00:48:11,950
+[DR. HIRSCH]
+I doubt it.  But it's something to do.
+ຂ້ອຍສົງໄສມັນ. ແຕ່ມັນເປັນບາງສິ່ງບາງຢ່າງທີ່ຈະເຮັດ.
+
+845
+00:48:12,450 --> 00:48:14,900
+[LT. VILLIERS]
+What the hell is going on here?
+ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+846
+00:48:15,400 --> 00:48:21,400
+[COP]
+It's some kind of animal, sir. We.... Suddenly the doors splinter apart and there stands the Wolf, eyes blazing.  It leaps on Lt. Villiers, savaging him.  The crowd falls back in panic.
+ມັນເປັນສັດບາງຊະນິດເດີ. ພວກເຮົາ... ທັນທີປະຕູແຕກແຍກກັນແລະມີວູຟຢືນຢູ່ບ່ອນນັ້ນ, ຕາສ່ອງແສງ
+. ມັນໂດດໃສ່ເລັກຕັນ ວີລີເຊີສ໌, ທໍາ ມະຊາດລາວ. ຝູງຊົນຕົກກັບຄືນໄປບ່ອນໃນຄວາມຢ້ານກົວ.
+
+847
+00:48:21,900 --> 00:48:23,900
+[ALEX]
+David!  It's David!
+ເດວິດ! ມັນແມ່ນເດວິດ!
+
+848
+00:48:24,400 --> 00:48:26,400
+[ALEX]
+Let me through!
+ໃຫ້ຂ້ອຍຜ່ານໄປ!
+
+849
+00:48:26,900 --> 00:48:28,900
+[COP]
+Stand clear, miss!
+ຢືນຢູ່ຫ່າງໄກ, ນາງ!
+
+850
+00:48:29,400 --> 00:48:31,400
+[ALEX]
+I must get through!
+ຂ້ອຍຕ້ອງຜ່ານໄປ!
+
+851
+00:48:31,900 --> 00:48:33,900
+[DR. HIRSCH]
+Alex!
+ແອເລັກສ໌!
+
+852
+00:48:34,400 --> 00:48:37,200
+[ALEX]
+David?  Is it you?  Is it true, David?
+ເດວິດ? ນັ້ນແມ່ນເຈົ້າບໍ? ມັນເປັນຄວາມຈິງບໍ, ເດວີດ?
+
+853
+00:48:37,700 --> 00:48:39,700
+[ALEX]
+David?
+ເດວິດ?
+
+854
+00:48:40,200 --> 00:48:42,200
+[OFFICER]
+Fire!
+ໄຟ!
+

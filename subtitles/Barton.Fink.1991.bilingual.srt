@@ -1,0 +1,4859 @@
+1
+00:00:10,000 --> 00:00:12,000
+[BARTON FINK]
+Screenplay
+ຮູບເງົາ
+
+2
+00:00:12,500 --> 00:00:18,500
+[ACTOR]
+I'm blowin' out of here, blowin' for good.  I'm kissin' it all goodbye, these four stinkin' walls, the six flights up, the el that roars by at three A.M. like a castiron wind. Kiss 'em goodbye for me, Maury! I'll miss 'em � like hell I will!
+ຂ້ອຍ ກໍາ ລັງພັດອອກຈາກບ່ອນນີ້, ພັດໄປຕະຫຼອດໄປ. ຂ້ອຍກໍາລັງຈູບມັນທັງ ຫມົດ, ກໍາ ແພງທີ່ກິ່ນຫອມສີ່ຢ່າງນີ້, ການບິນຫົກຊັ້ນຂຶ້ນ
+, ໄຟຟ້າທີ່ຮ້ອງໄຫ້ຜ່ານເວລາສາມເຊົ້າຄືກັບລົມເຫຼັກ castiron. ຈູບພວກມັນ ສໍາ ລັບຂ້ອຍ, Maury! ຂ້ອຍຈະຂາດພວກມັນຫຼາຍ!
+
+3
+00:00:19,000 --> 00:00:21,000
+[ACTRESS]
+Dreaming again!
+ຝັນອີກເທື່ອຫນຶ່ງ!
+
+4
+00:00:21,500 --> 00:00:27,500
+[ACTOR]
+Not this time, Lil! I'm awake now, awake for the first time in years. Uncle Dave said it: Daylight is a dream if you've lived with your eyes closed. Well my eyes are open now! I see that choir, and I know they're dressed in rags! But we're part of that choir, both of us � yeah, and you, Maury, and Uncle Dave too!
+ບໍ່ແມ່ນຄັ້ງນີ້, ລີລ! ຂ້ອຍຕື່ນແລ້ວດຽວນີ້, ຕື່ນເປັນຄັ້ງ ທໍາ ອິດໃນຫຼາຍປີ. ພໍ່ເຖົ້າເດວໄດ້ເວົ້າມັນວ່າ: ແສງສະຫວ່າງຂອງມື້ແມ່ນຄວາມຝັນຖ້າເຈົ້າໄດ້ດໍາລົງຊີວິດດ້ວຍຕາປິດ
+. ດີຕາຂອງຂ້ອຍເປີດດຽວນີ້! ຂ້ອຍເຫັນຄະນະຮ້ອງເພງນັ້ນ, ແລະຂ້ອຍຮູ້ວ່າພວກເຂົາໃສ່ເຄື່ອງນຸ່ງຫົ່ມ! ແຕ່ພວກເຮົາທັງສອງແມ່ນແລ້ວ, ແລະເຈົ້າ, Maury, ແລະພໍ່ເຖົາເດວເຊັ່ນກັນ!
+
+5
+00:00:28,000 --> 00:00:32,900
+[MAURY]
+The sun's coming up, kid. They'll be hawking the fish down on Fulton Street.
+ແສງຕາເວັນ ກໍາ ລັງຂຶ້ນ, ເດັກນ້ອຍ. ພວກເຂົາຈະຂາຍປາລົງໃນຖະຫນົນຟູລຕັນ.
+
+6
+00:00:33,400 --> 00:00:36,550
+[ACTOR]
+Let 'em hawk. Let 'em sing their hearts out.
+ໃຫ້ພວກເຂົາກະຕຸ້ນ. ໃຫ້ພວກເຂົາຮ້ອງເພງດ້ວຍຫົວໃຈຂອງພວກເຂົາອອກ.
+
+7
+00:00:37,050 --> 00:00:40,550
+[MAURY]
+That's it, kid. Take that ruined choir.  Make it sing!
+ນັ້ນແມ່ນມັນ, ເດັກນ້ອຍ.
+ເອົາຄະນະຮ້ອງທີ່ຖືກທໍາລາຍນັ້ນ. ເຮັດໃຫ້ມັນຮ້ອງເພງ!
+
+8
+00:00:41,050 --> 00:00:43,050
+[ACTOR]
+So long, Maury.
+ສະບາຍດີ, Maury.
+
+9
+00:00:43,550 --> 00:00:45,550
+[MAURY]
+So long.
+ສະບາຍດີ.
+
+10
+00:00:46,050 --> 00:00:49,900
+[MAURY]
+We'll hear from that kid. And I don't mean a postcard.
+ພວກເຮົາຈະໄດ້ຍິນຈາກເດັກຄົນນັ້ນ. ແລະຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າບັດໄປສະນີ.
+
+11
+00:00:50,400 --> 00:00:54,600
+[LILY]
+Let's spit on our hands and get to work.  It's late, Maury.
+ພວກເຮົາຈະສີດໃສ່ມືຂອງພວກເຮົາແລະໄປເຮັດວຽກ. ມັນຊ້າແລ້ວ, Maury.
+
+12
+00:00:55,100 --> 00:00:57,100
+[MAURY]
+Not any more Lil...
+ບໍ່ອີກແລ້ວ ລີລ...
+
+13
+00:00:57,600 --> 00:00:59,600
+[MAURY]
+...It's early.
+ມັນໄວແລ້ວ.
+
+14
+00:01:00,100 --> 00:01:05,000
+[MAITRE 'D]
+Your table is ready, Monsieur Fink... several members of your party have already arrived...
+ຕາຕະລາງຂອງທ່ານພ້ອມແລ້ວ, ທ້າວຟິນກ໌...
+ສະມາຊິກຫຼາຍຄົນຂອງພັກຂອງທ່ານໄດ້ມາແລ້ວ...
+
+15
+00:01:05,500 --> 00:01:07,500
+[FINK]
+Is Garland Stanford here?
+ແກຣລານດ໌ ສຕັນຟອດຢູ່ບ່ອນນີ້ບໍ?
+
+16
+00:01:08,000 --> 00:01:12,900
+[MAITRE 'D]
+He called to say he'd be a few minutes late... Ah, here we are...
+ລາວໂທຫາເພື່ອບອກວ່າລາວຈະຊ້າສອງສາມນາທີ... ອາ, ພວກເຮົາຢູ່ບ່ອນນີ້...
+
+17
+00:01:13,400 --> 00:01:17,950
+[MAN]
+Barton, Barton, so glad you could make it.  You know Richard St. Claire...
+ບາໂຕນ, ບາຕັນ, ດີໃຈຫຼາຍທີ່ເຈົ້າສາມາດມາໄດ້
+. ເຈົ້າຮູ້ຈັກ Richard St. Claire...
+
+18
+00:01:18,450 --> 00:01:24,450
+[MAN]
+...and Poppy Carnahan. We're drinking champagne, dear boy, in honor of the occasion. Have you seen the Herald?
+... ແລະໂປເປ ຄານາຮານ. ພວກເຮົາ ກໍາ ລັງດື່ມຊໍາປານີ, ເດັກຊາຍທີ່ຮັກແພງ
+, ເພື່ອເປັນກຽດຕິຍົດຂອງໂອກາດນີ້. ເຈົ້າເຫັນ Herald ບໍ?
+
+19
+00:01:24,950 --> 00:01:26,950
+[BARTON]
+Not yet.
+ຍັງບໍ່ທັນ.
+
+20
+00:01:27,450 --> 00:01:33,450
+[MAN]
+Well, I don't want to embarrass you but Caven could hardly contain himself. But more important, Richard and Poppy here loved the play.
+ດີ, ຂ້ອຍບໍ່ຢາກເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍແຕ່ຄາເວນເກືອບບໍ່ສາມາດບັນຈຸຕົວເອງໄດ້
+. ແຕ່ສໍາຄັນກວ່າ, ຣິກາສ໌ແລະໂປເປີຢູ່ນີ້ມັກການສະແດງ.
+
+21
+00:01:33,950 --> 00:01:35,950
+[POPPY]
+Loved it! What power!
+ຂ້ອຍມັກມັນຫຼາຍ! ມີພະລັງຫຼາຍປານໃດ!
+
+22
+00:01:36,450 --> 00:01:38,450
+[RICHARD]
+Yeah, it was a corker.
+ແມ່ນແລ້ວ, ມັນແມ່ນ corker.
+
+23
+00:01:38,950 --> 00:01:44,950
+[BARTON]
+Thanks, Richard, but I know for a fact the only fish you've ever seen were tacked to a the wall of the yacht club.
+ຂອບໃຈ, ຣິຊາດ,
+ແຕ່ຂ້ອຍຮູ້ວ່າເປັນຄວາມຈິງວ່າປາດຽວທີ່ທ່ານເຄີຍເຫັນແມ່ນຕິດກັບກໍາແພງຂອງສະໂມສອນເຮືອ.
+
+24
+00:01:45,450 --> 00:01:47,450
+[RICHARD]
+Ouch!
+ໂອ້!
+
+25
+00:01:47,950 --> 00:01:50,050
+[MAN]
+Bravo! Nevertheless, we were all devastated.
+ບຣາວໂກ້! ເຖິງຢ່າງໃດກໍ່ຕາມ, ພວກເຮົາທຸກຄົນຖືກທໍາລາຍ.
+
+26
+00:01:50,550 --> 00:01:53,350
+[POPPY]
+Weeping! Copius tears! What did the Herald say?
+ຮ້ອງໄຫ້! ໂກເປຍສ໌ຮ້ອງໄຮ! Herald ເວົ້າຫຍັງ?
+
+27
+00:01:53,850 --> 00:01:56,300
+[MAN]
+I happen to have it with me.
+ຂ້ອຍມີມັນຢູ່ກັບຂ້ອຍ.
+
+28
+00:01:56,800 --> 00:01:58,800
+[BARTON]
+Please Derek �
+ກະລຸນາເດຣັກ
+
+29
+00:01:59,300 --> 00:02:01,300
+[POPPY]
+Do read it, do!
+ອ່ານມັນ, ເຮັດ!
+
+30
+00:02:01,800 --> 00:02:07,800
+[DEREK]
+"Bare Ruined Choirs: Triumph of the Common Man. The star of the Bare Ruined Choirs was not seen on the stage of the Belasco last night � though the thespians involved all acquitted themselves admirably. The find of the evening was the author of this drama about simple folk � fish mongers, in fact � whose brute struggle for existence cannot quite quell their longing for something higher. The playwright finds nobility in the most squalid corners and poetry in the most callused speech. A tough new voice in the American theater has arrived, and the owner of that voice is named... Barton Fink."
+ການຄົ້ນພົບໃນຕອນແລງແມ່ນຜູ້ຂຽນບົດລະຄອນນີ້ກ່ຽວກັບນັກຂາຍປາປະຊາຊົນງ່າຍດາຍ, ໃນຄວາມເປັນຈິງທີ່ການຕໍ່ສູ້ທີ່ໂຊກແຊງເພື່ອການມີຊີວິດບໍ່ສາມາດຄວບຄຸມຄວາມປາຖະຫນາຂອງພວກເຂົາໄດ້ຢ່າງສົມບູນແບບ
+ສໍາ ລັບບາງສິ່ງບາງຢ່າງທີ່ສູງກວ່າ. ນັກຂຽນລະຄອນພົບຄວາມສະຫງົບໃນແຄມທີ່ສວຍງາມທີ່ສຸດແລະກະວີໃນ ຄໍາ ເວົ້າທີ່ callused ຫຼາຍທີ່ສຸດ. ສຽງໃຫມ່ທີ່ແຂງແຮງໃນໂຮງລະຄອນອາເມລິກາໄດ້ມາຮອດແລ້ວ
+
+31
+00:02:08,300 --> 00:02:14,250
+[BARTON]
+They'll be wrapping fish in it in the morning so I guess it's not a total waste.
+ພວກເຂົາຈະຫຸ້ມຫໍ່ປາໃນມັນໃນຕອນເຊົ້າ
+ສະນັ້ນຂ້ອຍຄິດວ່າມັນບໍ່ແມ່ນການເສຍຫາຍຢ່າງສົມບູນ.
+
+32
+00:02:14,750 --> 00:02:16,750
+[POPPY]
+Cynic!
+ຄົນໂຊກຮ້າຍ!
+
+33
+00:02:17,250 --> 00:02:21,100
+[DEREK]
+Well we can enjoy your success, Barton, even if you can't.
+ດີພວກເຮົາສາມາດເພີດເພີນກັບຄວາມສໍາເລັດຂອງທ່ານໄດ້
+, ບາຕັນ, ເຖິງແມ່ນວ່າເຈົ້າບໍ່ສາມາດເຮັດໄດ້.
+
+34
+00:02:21,600 --> 00:02:26,150
+[BARTON]
+Don't get me wrong � I'm glad it'll do well for you, Derek.
+ຢ່າເຂົ້າໃຈຂ້ອຍຜິດ ຂ້ອຍດີໃຈວ່າມັນຈະເຮັດໄດ້ດີ ສໍາ ລັບເຈົ້າ, ເດຣັກ.
+
+35
+00:02:26,650 --> 00:02:30,850
+[DEREK]
+Don't worry about me, dear boy � I want you to celebrate.
+ຢ່າກັງວົນກ່ຽວກັບຂ້ອຍ,
+ເດັກຊາຍທີ່ຮັກແພງຂ້ອຍຢາກໃຫ້ເຈົ້າສະເຫຼີມສະຫຼອງ.
+
+36
+00:02:31,350 --> 00:02:37,350
+[BARTON]
+All right, but I can't start listening to the critics, and I can't kid myself about my own work. A writer writes from his gut, and his gut tells him what's good and what's... merely adequate.
+ດີແລ້ວ, ແຕ່ຂ້ອຍບໍ່ສາມາດເລີ່ມຕົ້ນຟັງການວິຈານໄດ້, ແລະຂ້ອຍບໍ່ສາມາດຫຼອກລວງຕົວເອງກ່ຽວກັບວຽກຂອງຂ້ອຍເອງໄດ້
+. ນັກຂຽນຂຽນຈາກທ້ອງຂອງລາວ, ແລະທ້ອງລາວບອກລາວວ່າຫຍັງດີແລະຫຍັງ... ພຽງແຕ່ພຽງພໍ.
+
+37
+00:02:37,850 --> 00:02:43,850
+[POPPY]
+Well I don't pretend to be a critic, but Lord, I have a gut, and it tells me it was simply marvelous.
+ດີຂ້ອຍບໍ່ໄດ້ເຮັດແບບວ່າເປັນນັກວິຈານ, ແຕ່ພຣະຜູ້ເປັນເຈົ້າ
+, ຂ້ອຍມີຄວາມຮູ້ສຶກ, ແລະມັນບອກຂ້ອຍວ່າມັນພຽງແຕ່ຍິ່ງໃຫຍ່.
+
+38
+00:02:44,350 --> 00:02:46,450
+[RICHARD]
+And a charming gut it is.
+ແລະມັນເປັນທ້ອງທີ່ສວຍງາມ.
+
+39
+00:02:46,950 --> 00:02:48,950
+[POPPY]
+You dog!
+ເຈົ້າເປັນຫມາ!
+
+40
+00:02:49,450 --> 00:02:51,450
+[RICHARD]
+Aaa-woooooooo!
+Aaa-woooooo!
+
+41
+00:02:51,950 --> 00:02:57,900
+[BARTON]
+I thought you were going to join us. Jesus, Garland, you left me alone with those people.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະເຂົ້າຮ່ວມພວກເຮົາ. ພຣະເຢຊູ,
+ແກຣລານດ໌, ເຈົ້າປ່ອຍຂ້ອຍຢູ່ຄົນດຽວກັບຄົນນັ້ນ.
+
+42
+00:02:58,400 --> 00:03:03,650
+[GARLAND]
+Don't panic, I'll join you in a minute.  What's you think of Richard and Poppy?
+ຢ່າຢ້ານກົວ, ຂ້ອຍຈະເຂົ້າຮ່ວມກັບເຈົ້າໃນນາທີຫນຶ່ງ
+. ເຈົ້າຄິດແນວໃດກ່ຽວກັບ Richard ແລະ Poppy?
+
+43
+00:03:04,150 --> 00:03:08,700
+[BARTON]
+The play was marvelous. She wept, copiously. Millions of dollars and no sense.
+ການສະແດງແມ່ນຍິ່ງໃຫຍ່. ນາງຮ້ອງໄຫ້, ຢ່າງເຕັມທີ່
+. ເງິນໂດລາຫຼາຍລ້ານແລະບໍ່ມີຄວາມຮູ້ສຶກ.
+
+44
+00:03:09,200 --> 00:03:15,200
+[GARLAND]
+We have to talk a little business. I've just been on the phone to Los Angeles.  Barton, Capitol Pictures wants to put you under contract. They've offered you a thousand dollars a week. I think I can get them to go as high as two.
+ພວກເຮົາຕ້ອງເວົ້າທຸລະກິດນ້ອຍໆ. ຂ້ອຍຫາກໍ່ຕິດໂທລະສັບໄປລັສແອນເຈລສ໌. ບາຕັນ, ຮູບພາບຂອງນະຄອນຫຼວງຢາກເຮັດໃຫ້ເຈົ້າພາຍໃຕ້ສັນຍາ
+. ພວກເຂົາໄດ້ສະ ເຫນີ ໃຫ້ເຈົ້າເງິນພັນໂດລາຕໍ່ອາທິດ. ຂ້ອຍຄິດວ່າຂ້ອຍສາມາດເຮັດໃຫ້ພວກເຂົາສູງເຖິງສອງ.
+
+45
+00:03:15,700 --> 00:03:17,700
+[BARTON]
+To do what?
+ເພື່ອເຮັດຫຍັງ?
+
+46
+00:03:18,200 --> 00:03:20,650
+[GARLAND]
+What do you do far a living?
+ເຈົ້າເຮັດຫຍັງຢູ່ຫ່າງໄກ?
+
+47
+00:03:21,150 --> 00:03:25,350
+[BARTON]
+I'm not sure anymore. I guess I try to make a difference.
+ຂ້ອຍບໍ່ແນ່ໃຈອີກແລ້ວ. ຂ້ອຍຄິດວ່າຂ້ອຍພະຍາຍາມເຮັດໃຫ້ມີຄວາມແຕກຕ່າງ.
+
+48
+00:03:25,850 --> 00:03:31,850
+[GARLAND]
+Fair enough. No pressure here, Barton, because I respect you, but let me point out a couple of things. One, here you make a difference to five hundred fifty people a night � if the show sells out.  Eighty five million people go to the pictures every week.
+ຍຸຕິທໍາພຽງພໍ. ບໍ່ມີກົດດັນຢູ່ນີ້, ບາຕັນ, ເພາະວ່າຂ້ອຍເຄົາລົບເຈົ້າ, ແຕ່ຂໍໃຫ້ຂ້ອຍຊີ້ໃຫ້ເຫັນສອງສາມສິ່ງ. ຫນຶ່ງ,
+ຢູ່ບ່ອນນີ້ເຈົ້າເຮັດໃຫ້ຄວາມແຕກຕ່າງຕໍ່ຄົນຫ້າຮ້ອຍຫ້າສິບຄົນໃນຄືນຖ້າລາຍການຂາຍຫມົດ. ຄົນສິບຫ້າລ້ານຄົນໄປຮູບເງົາທຸກໆອາທິດ.
+
+49
+00:03:32,350 --> 00:03:34,350
+[BARTON]
+To see pap.
+ເພື່ອໄປພົບພໍ່.
+
+50
+00:03:34,850 --> 00:03:40,850
+[GARLAND]
+Yes, generally, to see pap. However, point number two: A brief tenure in Hollywood could support you through the writing of any number of plays.
+ແມ່ນແລ້ວ, ໂດຍທົ່ວໄປ, ເພື່ອໄປພົບພໍ່. ເຖິງຢ່າງໃດກໍ່ຕາມ, ຈຸດທີສອງ:
+ການດໍາລົງຕໍາແຫນ່ງສັ້ນໆໃນຮໍລີວູດສາມາດສະ ຫນັບ ສະ ຫນູນ ເຈົ້າຜ່ານການຂຽນບົດສະແດງໃດໆ.
+
+51
+00:03:41,350 --> 00:03:47,350
+[BARTON]
+I don't know, Garland; my place is here right now. I feel I'm on the brink of success-
+ຂ້ອຍບໍ່ຮູ້, ແກຣລານດ໌; ບ່ອນຂອງຂ້ອຍຢູ່ບ່ອນນີ້ໃນເວລານີ້
+. ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍຢູ່ແຄມຄວາມສໍາເລັດ -
+
+52
+00:03:47,850 --> 00:03:49,950
+[GARLAND]
+I'd say you're already enjoying some.
+ຂ້ອຍຈະເວົ້າວ່າເຈົ້າ ກໍາ ລັງເພີດເພີນບາງຢ່າງແລ້ວ.
+
+53
+00:03:50,450 --> 00:03:56,450
+[BARTON]
+No, Garland, don't you see? Not the kind of success where the critics fawn over you or the producers like Derek make a lot of money. No, a real success � the success we've been dreaming about � the creation of a new, living theater of, about, and for the common man! If I ran off to Hollywood now I'd be making money, going to parties, meeting the big shots, sure, but I'd be cutting myself off from the wellspring of that success, from the common man.
+ບໍ່, ແກຣລນດ໌, ເຈົ້າບໍ່ເຫັນບໍ? ບໍ່ແມ່ນຄວາມສໍາເລັດປະເພດທີ່ນັກວິຈານຍ້ອງຍໍເຈົ້າຫຼືຜູ້ຜະລິດເຊັ່ນເດຣັກເຮັດເງິນຫຼາຍ. ບໍ່, ຄວາມສໍາເລັດທີ່ແທ້ຈິງທີ່ພວກເຮົາ ກໍາ ລັງຝັນກ່ຽວກັບການສ້າງໂຮງລະຄອນທີ່ສົດໃສ
+ໃຫມ່ ຂອງ, ກ່ຽວກັບ, ແລະ ສໍາ ລັບຜູ້ຊາຍທົ່ວໄປ! ຖ້າຂ້ອຍແລ່ນໄປຮໍລີວູດດຽວນີ້ຂ້ອຍຈະ ກໍາ ລັງເຮັດເງິນ, ໄປງານລ້ຽງ, ພົບກັບຄົນໃຫຍ່, ແນ່ນອນ, ແຕ່ຂ້ອຍຈະຕັດຕົວເອງອອກຈາກແຫຼ່ງຂອງຄວາມສໍາເລັດນັ້ນ, ຈາກຄົນທົ່ວໄປ.
+
+54
+00:03:56,950 --> 00:04:02,950
+[BARTON]
+...I guess I'm sprouting off again. But I am certain of this, Garland: I'm capable of more good work. Maybe better work than I did in Choirs. It just doesn't seem to me that Los Angeles is the place to lead the life of mind.
+ຂ້ອຍຄິດວ່າຂ້ອຍ ກໍາ ລັງ sprouting ອອກອີກຄັ້ງ. ແຕ່ຂ້ອຍແນ່ໃຈກ່ຽວກັບສິ່ງນີ້, ແກຣລານດ໌: ຂ້ອຍສາມາດເຮັດວຽກທີ່ດີຫຼາຍຂຶ້ນ.
+ບາງທີເຮັດວຽກທີ່ດີກວ່າທີ່ຂ້ອຍເຮັດໃນ Choirs ໄດ້. ມັນພຽງແຕ່ບໍ່ເບິ່ງຄືວ່າຂ້ອຍວ່າລັສແອນເຈລສ໌ແມ່ນບ່ອນທີ່ຈະນໍາພາຊີວິດຂອງຈິດໃຈ.
+
+55
+00:04:03,450 --> 00:04:09,450
+[GARLAND]
+Okay Barton, you're the artist, I'm just the ten percenter. You decide what you want and I'll make it happen. I'm only asking that your decision be informed by a little realism � if I can use that word and Hollywood in the same breath.
+ດີແບຕັນ, ເຈົ້າເປັນນັກສິລະປິນ, ຂ້ອຍພຽງແຕ່ສິບເປີເຊັນເຕີ. ເຈົ້າຕັດສິນໃຈວ່າເຈົ້າຕ້ອງການຫຍັງແລະຂ້ອຍຈະເຮັດໃຫ້ມັນເກີດຂຶ້ນ.
+ຂ້ອຍພຽງແຕ່ຂໍໃຫ້ການຕັດສິນໃຈຂອງທ່ານຖືກແຈ້ງໃຫ້ຮູ້ໂດຍຄວາມເປັນຈິງ ຫນ້ອຍ ຫນຶ່ງ ຖ້າຂ້ອຍສາມາດໃຊ້ ຄໍາ ເວົ້ານັ້ນແລະຮໍລີວູດໃນລົມຫາຍໃຈດຽວກັນ.
+
+56
+00:04:09,950 --> 00:04:15,200
+[GARLAND]
+...Look, they love you, kid � everybody does. You see Caven's review in the Herald?
+ເບິ່ງ, ພວກເຂົາຮັກເຈົ້າ, ເດັກນ້ອຍທຸກຄົນເຮັດ.
+ເຈົ້າເຫັນການທົບທວນຄືນຂອງ Caven ໃນ Herald ໄດ້ບໍ?
+
+57
+00:04:15,700 --> 00:04:17,700
+[BARTON]
+No, what did it say?
+ບໍ່, ມັນຂຽນວ່າແນວໃດ?
+
+58
+00:04:18,200 --> 00:04:24,200
+[GARLAND]
+Take my copy. You're the toast of Broadway and you have the opportunity to redeem that for a little cash � strike that, a lot of cash.
+ເອົາ ສໍາ ເນົາຂອງຂ້ອຍ. ເຈົ້າເປັນກະຕຸ້ນຂອງບຣອດເວຍແລະເຈົ້າມີໂອກາດທີ່ຈະຊົດເຊີຍມັນ
+ສໍາ ລັບການໂຈມຕີເງິນສົດນ້ອຍໆນັ້ນ, ເງິນສົດຫຼາຍ.
+
+59
+00:04:24,700 --> 00:04:30,700
+[GARLAND]
+...The common man'll still be here when you get back. What the hell, they might even have one or two of 'em out in Hollywood.
+ຜູ້ຊາຍທົ່ວໄປຍັງຢູ່ບ່ອນນີ້ເມື່ອເຈົ້າກັບມາ. ຫຍັງ
+, ພວກເຂົາອາດຈະມີ ຫນຶ່ງ ຫຼືສອງຄົນໃນຮໍລີວູດ.
+
+60
+00:04:31,200 --> 00:04:33,200
+[BARTON]
+...That's a rationalization, Garland.
+ນັ້ນແມ່ນການສົມເຫດສົມຜົນ, ແກຣລານດ໌.
+
+61
+00:04:33,700 --> 00:04:35,700
+[GARLAND]
+Barton, it was a joke.
+ບາຕັນ, ມັນເປັນຢອກຊື່ໆ.
+
+62
+00:04:36,200 --> 00:04:39,700
+[CLERK]
+Welcome to the Hotel Earle. May I help you, sir?
+ຍິນດີຕ້ອນຮັບໃນໂຮງແຮມເອຣລ. ຂ້ອຍສາມາດຊ່ວຍທ່ານໄດ້ບໍ?
+
+63
+00:04:40,200 --> 00:04:42,200
+[BARTON]
+I'm checking in. Barton Fink.
+ຂ້ອຍ ກໍາ ລັງກວດສອບຢູ່. ບາຕັນ ຟິນກ໌.
+
+64
+00:04:42,700 --> 00:04:45,500
+[CLERK]
+F-I-N-K. Fink, Barton. That must be you, huh?
+F-I-N-K. ຟິນກ໌, ບາຕັນ. ນັ້ນຕ້ອງແມ່ນເຈົ້າ, ແມ່ນບໍ?
+
+65
+00:04:46,000 --> 00:04:48,000
+[BARTON]
+Must be.
+ມັນຕ້ອງເປັນ.
+
+66
+00:04:48,500 --> 00:04:53,400
+[CLERK]
+Okay then, everything seems to be in order. Everything seems to be in order.
+ດີແລ້ວ, ທຸກສິ່ງທຸກຢ່າງເບິ່ງຄືວ່າເປັນລະບຽບຮຽບຮ້ອຍ
+. ທຸກຢ່າງເບິ່ງຄືກັບວ່າເປັນປົກກະຕິ.
+
+67
+00:04:53,900 --> 00:04:56,350
+[CLERK]
+...Are you a tranz or a rez?
+ເຈົ້າເປັນຄົນທຣານຊ໌ ຫຼື ຣີຊ໌ບໍ?
+
+68
+00:04:56,850 --> 00:04:58,850
+[BARTON]
+Excuse me?
+ຂໍໂທດບໍ?
+
+69
+00:04:59,350 --> 00:05:01,350
+[CLERK]
+Transient or resident?
+ເປັນຄົນຜ່ານໄປຫຼືອາໄສຢູ່ບໍ?
+
+70
+00:05:01,850 --> 00:05:05,350
+[BARTON]
+I don't know... I mean, I'll be here, uh, indefinitely.
+ຂ້ອຍບໍ່ຮູ້... ຂ້ອຍຫມາຍຄວາມວ່າ, ຂ້ອຍຈະຢູ່ບ່ອນນີ້, ອູ, ບໍ່ຈໍາກັດ.
+
+71
+00:05:05,850 --> 00:05:11,850
+[CLERK]
+Rez. That'll be twenty-five fifty a week payable in advance. Checkout time is twelve sharp, only you can forget that on account you're a rez. If you need anything, anything at all, you dial zero on your personal in-room telephone and talk to me. My name is Chet.
+Rez. ນັ້ນຈະເປັນສິບຫ້າສິບຕໍ່ອາທິດທີ່ຕ້ອງຈ່າຍກ່ອນ. ເວລາການກວດສອບແມ່ນສິບສອງແຊກແຊງ, ພຽງແຕ່ເຈົ້າສາມາດລືມໄດ້ວ່າເນື່ອງຈາກວ່າເຈົ້າເປັນ
+Rez. ຖ້າເຈົ້າຕ້ອງການຫຍັງ, ຫຍັງເລີຍ, ເຈົ້າໂທສູລ໌ໃນໂທລະສັບໃນຫ້ອງສ່ວນຕົວຂອງທ່ານແລະເວົ້າກັບຂ້ອຍ. ຊື່ຂອງຂ້ອຍແມ່ນ Chet.
+
+72
+00:05:12,350 --> 00:05:18,350
+[BARTON]
+Well, I'm going to be working here, mostly at night; I'm a writer. Do you have room service?
+ດີ, ຂ້ອຍຈະເຮັດວຽກຢູ່ນີ້, ສ່ວນໃຫຍ່ແມ່ນໃນຕອນກາງຄືນ
+; ຂ້ອຍເປັນນັກຂຽນ. ເຈົ້າມີບໍລິການຫ້ອງບໍ?
+
+73
+00:05:18,850 --> 00:05:24,450
+[CLERK]
+Kitchen closes at eight but I'm the night clerk. I can always ring out for sandwiches.
+ເຮືອນຄົວປິດເວລາແປດແຕ່ຂ້ອຍເປັນພະນັກງານໃນຕອນກາງຄືນ
+. ຂ້ອຍສາມາດໂທຫາແຊນວິດຈ໌ໄດ້ສະເຫມີ.
+
+74
+00:05:24,950 --> 00:05:30,950
+[CLERK]
+...Though we provide privacy for the residential guest, we are also a full service hotel including complimentary shoe shine. My name is Chet.
+ເຖິງແມ່ນວ່າພວກເຮົາຈະໃຫ້ຄວາມເປັນສ່ວນຕົວ ສໍາ ລັບແຂກທີ່ຢູ່ອາໄສ,
+ພວກເຮົາຍັງເປັນໂຮງແຮມບໍລິການເຕັມທີ່ລວມທັງແສງສະຫວ່າງເກີບຟຣີ. ຂ້ອຍຊື່ວ່າ Chet.
+
+75
+00:05:31,450 --> 00:05:33,450
+[CLERK]
+...Okay
+ດີແລ້ວ
+
+76
+00:05:33,950 --> 00:05:35,950
+[BARTON]
+Huh?
+ຮາ?
+
+77
+00:05:36,450 --> 00:05:38,450
+[CLERK]
+Okey-dokey, go ahead.
+ໂອເຄ ໂດເກີ, ໄປກ່ອນ.
+
+78
+00:05:38,950 --> 00:05:40,950
+[BARTON]
+What �
+ຫຍັງ
+
+79
+00:05:41,450 --> 00:05:43,900
+[CLERK]
+Don't you wanna go to your room?!
+ເຈົ້າບໍ່ຢາກໄປຫ້ອງຂອງເຈົ້າບໍ?!
+
+80
+00:05:44,400 --> 00:05:46,400
+[BARTON]
+...What number is it?
+ມັນເປັນເລກໃດ?
+
+81
+00:05:46,900 --> 00:05:49,000
+[CLERK]
+...Six-oh-five. I forgot to tell you.
+ຫົກຫ້າ. ຂ້ອຍລືມບອກເຈົ້າ.
+
+82
+00:05:49,500 --> 00:05:51,500
+[CLERK]
+...Those your only bags?
+ນັ້ນແມ່ນຖົງດຽວຂອງທ່ານບໍ?
+
+83
+00:05:52,000 --> 00:05:54,000
+[BARTON]
+The others are being sent.
+ຄົນອື່ນຖືກສົ່ງໄປ.
+
+84
+00:05:54,500 --> 00:05:59,400
+[CLERK]
+I'll keep an eye out for them. I'll keep my eyes peeled, Mr. Fink.
+ຂ້ອຍຈະເບິ່ງແຍງພວກມັນ. ຂ້ອຍຈະເປີດຕາຂອງຂ້ອຍ, ທ້າວຟິນກ໌.
+
+85
+00:05:59,900 --> 00:06:01,900
+[BARTON]
+...Six, please.
+ຫົກ, ກະລຸນາ.
+
+86
+00:06:02,400 --> 00:06:04,400
+[ELEVATOR MAN]
+Next stop: Six.
+ບ່ອນຢຸດຕໍ່ໄປ: ຫົກ.
+
+87
+00:06:04,900 --> 00:06:06,900
+[VOICE]
+How d'ya like your room!
+ເຈົ້າມັກຫ້ອງຂອງທ່ານຫຼາຍປານໃດ!
+
+88
+00:06:07,400 --> 00:06:09,400
+[BARTON]
+...Who is this?
+ນີ້ແມ່ນໃຜ?
+
+89
+00:06:09,900 --> 00:06:11,900
+[VOICE]
+Chet!
+ເຊັດ!
+
+90
+00:06:12,400 --> 00:06:14,400
+[BARTON]
+...Who?
+ໃຜ?
+
+91
+00:06:14,900 --> 00:06:16,900
+[VOICE]
+Chet! From downstairs!
+Chet! ຈາກລຸ່ມ!
+
+92
+00:06:17,400 --> 00:06:19,400
+[VOICE]
+...How d'ya like your room!
+ເຈົ້າມັກຫ້ອງຂອງທ່ານຫຼາຍປານໃດ!
+
+93
+00:06:19,900 --> 00:06:24,100
+[MAN]
+Is that him?! Barton Fink?!  Lemme put my arms around this guy!
+ນັ້ນແມ່ນລາວບໍ?! ບາຕັນ ຟິນກ໌?!
+ເລມມ໌ເອົາແຂນຂອງຂ້ອຍຢູ່ອ້ອມຜູ້ຊາຍຄົນນີ້!
+
+94
+00:06:24,600 --> 00:06:27,050
+[MAN]
+...How the hell are ya? Good trip?
+ເຈົ້າເປັນແນວໃດ? ການເດີນທາງທີ່ດີບໍ?
+
+95
+00:06:27,550 --> 00:06:33,500
+[MAN]
+My name is Jack Lipnik. I run this dump. You know that � you read the papers.
+ຂ້ອຍຊື່ວ່າ ແຈກ ລິບນິກ. ຂ້ອຍຄຸ້ມຄອງບ່ອນຂີ້ເຫຍື້ອນີ້
+. ເຈົ້າຮູ້ວ່າເຈົ້າອ່ານຫນັງສືພິມ.
+
+96
+00:06:34,000 --> 00:06:40,000
+[MAN]
+Lou treating you all right? Got everything you need?  What the hell's the matter with your face? What the hell's the matter with his face, Lou?
+ໂລູປິ່ນປົວເຈົ້າດີບໍ? ມີທຸກຢ່າງທີ່ທ່ານຕ້ອງການບໍ?
+ເກີດຫຍັງຂຶ້ນກັບໃບຫນ້າຂອງທ່ານ? ເກີດອະໄຣຂຶ້ນກັບໃບ ຫນ້າ ລາວ, ໂລວ?
+
+97
+00:06:40,500 --> 00:06:45,400
+[BARTON]
+It's not as bad as it looks; just a mosquito in my room �
+ມັນບໍ່ຮ້າຍແຮງເທົ່າທີ່ເບິ່ງຄື; ພຽງແຕ່ແມງໄມ້ໃນຫ້ອງຂອງຂ້ອຍ
+
+98
+00:06:45,900 --> 00:06:47,900
+[LIPNIK]
+Place okay?
+ສະຖານທີ່ດີບໍ?
+
+99
+00:06:48,400 --> 00:06:50,400
+[LIPNIK]
+...Where did we put him?
+ພວກເຮົາເອົາລາວໄວ້ໃສ?
+
+100
+00:06:50,900 --> 00:06:52,900
+[BARTON]
+I'm at the Earle.
+ຂ້ອຍຢູ່ໂຮງງານແອຣລ.
+
+101
+00:06:53,400 --> 00:06:59,400
+[LIPNIK]
+Never heard of it. Let's move him to the Grand, or the Wilshire, or hell, he can stay at my place.
+ບໍ່ເຄີຍໄດ້ຍິນເລື່ອງມັນເລີຍ. ໃຫ້ຍ້າຍລາວໄປ Grand, ຫຼື
+Wilshire, ຫຼືອານາໄມ, ລາວສາມາດຢູ່ເຮືອນຂອງຂ້ອຍໄດ້.
+
+102
+00:06:59,900 --> 00:07:03,050
+[BARTON]
+Thanks, but I wanted a place that was less...
+ຂອບໃຈ, ແຕ່ຂ້ອຍຢາກມີບ່ອນທີ່ຫນ້ອຍກວ່າ...
+
+103
+00:07:03,550 --> 00:07:09,550
+[LIPNIK]
+Less Hollywood?  Sure, say it, it's not a dirty word. Sat whatever the hell you want. The writer is king here at Capitol Pictures. You don't believe me, take a look at your paycheck at the end of every week � that's what we think of the writer.  ...so what kind of pictures does he like?
+ຫນ້ອຍກວ່າຮໍລີວູດບໍ? ແນ່ນອນ, ເວົ້າມັນ, ມັນບໍ່ແມ່ນ ຄໍາ ເວົ້າທີ່ເປື້ອນ. ນັ່ງທຸກຢ່າງທີ່ທ່ານຕ້ອງການ. ນັກຂຽນແມ່ນກະສັດຢູ່ນີ້ໃນຮູບພາບຂອງນະຄອນຫຼວງ
+. ເຈົ້າບໍ່ເຊື່ອຂ້ອຍ, ເບິ່ງເງິນເດືອນຂອງທ່ານໃນທ້າຍທຸກໆອາທິດນັ້ນແມ່ນສິ່ງທີ່ພວກເຮົາຄິດກ່ຽວກັບນັກຂຽນ.... ສະນັ້ນລາວມັກຮູບແບບໃດ?
+
+104
+00:07:10,050 --> 00:07:12,850
+[LOU]
+Mr. Fink hasn't given a preference, Mr.  Lipnik.
+ທ້າວຟິນກ໌ບໍ່ໄດ້ໃຫ້ຄວາມມັກ, ທ້າວລີປນິກ.
+
+105
+00:07:13,350 --> 00:07:15,350
+[LIPNIK]
+How's about it, Bart?
+ມັນແນວໃດ, ບາຕ໌?
+
+106
+00:07:15,850 --> 00:07:20,400
+[BARTON]
+To be honest, I don't go to the pictures much, Mr. Lipnik �
+ເພື່ອເປັນຄວາມຈິງໃຈ, ຂ້ອຍບໍ່ໄປຮູບຫຼາຍ, ທ້າວລິປນິກ
+
+107
+00:07:20,900 --> 00:07:26,900
+[LIPNIK]
+That's okay, that's okay, that's okay � that's just fine. You probably just walked in here thinking that was going to be a handicap, thinking we wanted people who knew something about the medium, maybe even thinking there was all kind of technical mumbo- jumbo to learn. You were dead wrong. We're only interested in one thing: Can you tell a story, Bart?  Can you make us laugh, can you make us cry, can you make us wanna break out in joyous song? Is that more than one thing? Okay.  The point is, I run this dump and I don't know the technical mumbo-jumbo. Why do I run it? I've got horse-sense, goddamnit. Showmanship. And also, and I hope Lou told you this, I bigger and meaner than any other kike in this town. Did you tell him that, Lou? And I don't mean my dick's bigger than yours, it's not a sexual thing � although, you're the writer, you would know more about that. Coffee?
+ມັນບໍ່ເປັນຫຍັງ, ນັ້ນບໍ່ເປັນເລື່ອງ, ມັນບໍ່ແມ່ນເລື່ອງທີ່ມັນບໍ່ເປັນບັນຫາ. ເຈົ້າອາດຈະພຽງແຕ່ເຂົ້າມາບ່ອນນີ້ຄິດວ່າມັນຈະເປັນຄວາມພິການ, ຄິດວ່າພວກເຮົາຕ້ອງການຄົນທີ່ມີຄວາມຮູ້ບາງສິ່ງບາງຢ່າງກ່ຽວກັບສື່ກາງ, ບາງທີເຖິງແມ່ນວ່າຄິດວ່າມີທຸກປະເພດຂອງ
+mumbo- jumbo ທາງດ້ານເຕັກນິກທີ່ຈະຮຽນຮູ້. ເຈົ້າຜິດພາດຢ່າງຕາຍ. ພວກເຮົາສົນໃຈພຽງແຕ່ສິ່ງດຽວ: ເຈົ້າສາມາດບອກເລື່ອງໄດ້ບໍ, ບາຕ໌? ເຈົ້າສາມາດເຮັດໃຫ້ພວກເຮົາມ່ວນຊື່ນ, ທ່ານສາມາດເຮັດໃຫ້ພວກເຮົາຢາກອອກໄປໃນເພງທີ່ມີຄວາມສຸກບໍ? ນັ້ນແມ່ນຫຼາຍກ່ວາສິ່ງ
+
+108
+00:07:27,400 --> 00:07:29,400
+[BARTON]
+...Yes, thank you.
+ແມ່ນແລ້ວ, ຂອບໃຈ.
+
+109
+00:07:29,900 --> 00:07:31,900
+[LIPNIK]
+Lou.
+ໂລຍ
+
+110
+00:07:32,400 --> 00:07:38,400
+[LIPNIK]
+...He used to have shares in the company.  An ownership interest. Got bought out in the twenties � muscled out according to some. Hell, according to me. So we keep him around, he's got a family. Poor schmuck. He's sensitive, don't mention the old days. Oh hell, say whatever you want. Look, barring a preference, Bart, we're gonna put you to work on a wrestling picture. Wallace Beery. I say this because they tell me you know the poetry of the street. That would rule out westerns, pirate pictures, screwball, Bible, Roman...
+ລາວເຄີຍມີສ່ວນແບ່ງໃນບໍລິສັດ. ຄວາມສົນໃຈຂອງເຈົ້າຂອງ. ຖືກຊື້ອອກໃນຊຸມປີສິບປີທີ່ກ້າມຊີ້ນອອກຕາມບາງຄົນ. ສະຫວັນນະເຂດ, ອີງຕາມຂ້ອຍ. ສະນັ້ນພວກເຮົາເຮັດໃຫ້ລາວຢູ່ອ້ອມຂ້າງ, ລາວມີຄອບຄົວ. ຄົນຢອກຊື່ໆ
+ແຊງ. ລາວມີຄວາມຮູ້ສຶກ, ຢ່າກ່າວເຖິງມື້ເກົ່າ. ໂອ້ ສະຫລະພາບ, ເວົ້າທຸກຢ່າງທີ່ທ່ານຕ້ອງການ. ເບິ່ງ, ຍົກເວັ້ນຄວາມມັກ, ບາຕ໌, ພວກເຮົາຈະເຮັດໃຫ້ເຈົ້າເຮັດວຽກກ່ຽວກັບຮູບການຕໍ່ສູ້. ວາເລສ ເບີຣີ.
+
+111
+00:07:38,900 --> 00:07:44,900
+[LIPNIK]
+But look, I'm not one of these guys thinks poetic has gotta be fruity. We're together on that, aren't we? I mean I'm from New York myself � well, Minsk if you wanna go way back, which we won't if you don't mind and I ain't askin'. Now people're gonna tell you, wrestling. Wallace Beery, it's a B picture. You tell them, bullshit. We don't make B pictures here at Capitol.  Let's put a stop to that rumor right now.
+ແຕ່ເບິ່ງ, ຂ້ອຍບໍ່ແມ່ນຄົນ ຫນຶ່ງ ໃນພວກຄົນເຫຼົ່ານີ້ຄິດວ່າກະວີຕ້ອງມີ ຫມາກ ໄມ້. ພວກເຮົາຢູ່ຮ່ວມກັນໃນນັ້ນ, ແມ່ນບໍ? ຂ້ອຍ ຫມາຍ ຄວາມວ່າຂ້ອຍມາຈາກນິວຢອກເອງດີ, ມິນສກ໌ຖ້າເຈົ້າຢາກກັບຄືນໄປບ່ອນທາງໄກ,
+ເຊິ່ງພວກເຮົາຈະບໍ່ເຮັດຖ້າເຈົ້າບໍ່ສົນໃຈແລະຂ້ອຍບໍ່ໄດ້ຖາມ. ດຽວນີ້ຄົນຈະບອກເຈົ້າ, ການຕໍ່ສູ້. ວາເລສ ເບີຣີ, ມັນແມ່ນຮູບ B. ເຈົ້າບອກພວກເຂົາ, ໂຊກແຊ. ພວກເຮົາບໍ່ເຮັດຮູບ B ຢູ່ບ່ອນນີ້ໃນນະຄອນຫຼວງ. ມາຢຸດຂ່າວນັ້ນທັນທີ.
+
+112
+00:07:45,400 --> 00:07:49,600
+[LIPNIK]
+...Thanks Lou. Join us. Join us. Talking about the Wallace Beery picture.
+ຂອບໃຈລູ. ເຂົ້າຮ່ວມພວກເຮົາ. ຮ່ວມກັບພວກເຮົາ
+. ເວົ້າກ່ຽວກັບຮູບວາວລາສ ເບີຣີ.
+
+113
+00:07:50,100 --> 00:07:52,100
+[LOU]
+Excellent picture.
+ຮູບທີ່ດີເລີດ.
+
+114
+00:07:52,600 --> 00:07:55,050
+[LIPNIK]
+We got a treatment on it yet?
+ພວກເຮົາມີການປິ່ນປົວມັນແລ້ວບໍ?
+
+115
+00:07:55,550 --> 00:07:59,750
+[LOU]
+No, not yet Jack. We just bought the story. Saturday Evening Post.
+ບໍ່, ຍັງບໍ່ທັນແຈກ. ພວກເຮົາຫາກໍ່ຊື້ເລື່ອງ. ວັນເສົາແລງໂພສຕ໌.
+
+116
+00:08:00,250 --> 00:08:06,250
+[LIPNIK]
+Okay, the hell with the story. Wallace Beery is a wrestler. I wanna know his hopes, his dreams. Naturally, he'll have to get mixed up with a bad element. And a romantic interest. You know the drill.  Romantic interest, or else a young kid. An orphan. What do you think, Lou? Wally a little too old for a romantic interest?  Look at me, a writer in the room and I'm askin' Lou what the goddamn story should be!
+ດີແລ້ວ, ເລື່ອງເລື່ອງ. ວາເລສ ບີຣີເປັນນັກຕໍ່ສູ້. ຂ້ອຍຢາກຮູ້ຄວາມຫວັງຂອງລາວ, ຄວາມຝັນຂອງລາວ. ໂດຍປົກກະຕິແລ້ວ, ລາວຈະຕ້ອງປະສົມປະສານກັບອົງປະກອບທີ່ບໍ່ດີ. ແລະຄວາມສົນໃຈທາງຄວາມຮັກ. ເຈົ້າຮູ້ການຝຶກອົບຮົມ
+. ຄວາມສົນໃຈດ້ານຄວາມຮັກ, ຫຼືຖ້າບໍ່ດັ່ງນັ້ນເດັກນ້ອຍໄວຫນຸ່ມ. ເດັກເຖົ້າ. ເຈົ້າຄິດແນວໃດ, ລູ? ວາລີອາຍຸເກີນໄປ ສໍາ ລັບຄວາມສົນ ໃຈທາງເພດ? ເບິ່ງຂ້ອຍ, ນັກຂຽນໃນຫ້ອງແລະຂ້ອຍ ກໍາ ລັງຖາມລູວ່າເລື່ອງທີ່ຄວນ
+
+117
+00:08:06,750 --> 00:08:09,200
+[LIPNIK]
+...Well Bart, which is it? Orphan? Dame?
+ບາຕ໌, ມັນແມ່ນຫຍັງ? ເດັກເຖົ້າ? ແມ່ຍິງ?
+
+118
+00:08:09,700 --> 00:08:11,700
+[BARTON]
+...Both maybe?
+ບາງທີທັງສອງບໍ?
+
+119
+00:08:12,200 --> 00:08:14,300
+[LOU]
+...Maybe we should do a treatment.
+ບາງທີພວກເຮົາຄວນເຮັດການປິ່ນປົວ.
+
+120
+00:08:14,800 --> 00:08:20,800
+[LIPNIK]
+Ah, hell, let Bart take a crack at it.  He'll get into the swing of things or I don't know writers. Let's make it a dame, Bart, keep it simple. We don't gotta tackle the world our first time out. The important thing is we all have that Barton Fink feeling, but since you're Barton Fink I'm assuming you have it in spades.  Seriously Bart, I like you. We're off to a good start. Dammit, if all our writers were like you I wouldn't have to get so goddamn involved. I'd like to see something by the end of the week.
+ອາ, ສະຫວັນນະເຂດ, ໃຫ້ແບຣຕ໌ພະຍາຍາມມັນ. ລາວຈະເຂົ້າໄປໃນການສັ່ນສະເທືອນຂອງສິ່ງຕ່າງໆຫຼືຂ້ອຍບໍ່ຮູ້ຈັກນັກຂຽນ. ໃຫ້ມັນເປັນຜູ້ຍິງ, ແບຮຕ໌, ຮັກສາມັນງ່າຍດາຍ. ພວກເຮົາບໍ່ຈໍາເປັນຕ້ອງຮັບມືກັບໂລກຄັ້ງ
+ທໍາ ອິດຂອງພວກເຮົາອອກໄປ. ສິ່ງສໍາຄັນແມ່ນພວກເຮົາທຸກຄົນມີຄວາມຮູ້ສຶກແບຕັນ ຟິນກ໌ນັ້ນ, ແຕ່ເພາະວ່າເຈົ້າເປັນແບທອນ ຟີນກ໌ ຂ້ອຍຄິດວ່າເຈົ້າມີມັນໃນ spades. ຢ່າງຈິງຈັງແບຮທ໌, ຂ້ອຍ
+
+121
+00:08:21,300 --> 00:08:27,300
+[LIPNIK]
+...Heard about your show, by the way. My man in New York saw it. Tells me it was pretty damn powerful. Pretty damn moving.  A little fruity, he said, but I guess you know what you're doing. Thank you for your heart. We need more heart in pictures.  We're all expecting great things.
+ຂ້ອຍໄດ້ຍິນກ່ຽວກັບລາຍການຂອງທ່ານ, ເຖິງຢ່າງໃດກໍ່ຕາມ. ຜູ້ຊາຍຂອງຂ້ອຍໃນນິວຢອກໄດ້ເຫັນມັນ. ບອກຂ້ອຍວ່າມັນມີຄວາມເຂັ້ມແຂງຫຼາຍ. ເຄື່ອນຍ້າຍຫຼາຍ. ຫມາກ ໄມ້ ຫນ້ອຍ ຫນຶ່ງ,
+ລາວເວົ້າວ່າ, ແຕ່ຂ້ອຍຄິດວ່າເຈົ້າຮູ້ວ່າທ່ານ ກໍາ ລັງເຮັດຫຍັງ. ຂອບໃຈ ສໍາ ລັບຫົວໃຈຂອງທ່ານ. ພວກເຮົາຕ້ອງການຫົວໃຈຫຼາຍໃນຮູບພາບ. ພວກເຮົາທຸກຄົນຄາດຫວັງສິ່ງທີ່ດີເລີດ.
+
+122
+00:08:27,800 --> 00:08:33,800
+[BARTON]
+Hello... Chet? This is Barton Fink in room 605. Yes, there's uh, there's someone in the room next door to mine, 604, and he's uh... He's uh... making a lot of... noise.
+ສະບາຍດີ... ເຊັດ? ນີ້ແມ່ນບາຕັນ ຟິນກ໌ໃນຫ້ອງ 605. ແມ່ນແລ້ວ, ມີຄົນ ຫນຶ່ງ
+ໃນຫ້ອງຂ້າງເຮືອນຂອງຂ້ອຍ, 604, ແລະລາວແມ່ນ uh... ລາວ ກໍາ ລັງ uh... ເຮັດໃຫ້ສຽງດັງຫຼາຍ.
+
+123
+00:08:34,300 --> 00:08:36,300
+[BARTON]
+...Thank you.
+ຂອບໃຈ.
+
+124
+00:08:36,800 --> 00:08:38,800
+[MAN]
+Did you... Somebody just complained...
+ເຈົ້າ... ມີຄົນຫາກໍ່ຮ້ອງທຸກ...
+
+125
+00:08:39,300 --> 00:08:45,300
+[BARTON]
+No, I didn't � I mean, I did call down, not to complain exactly, I was just concerned that you might � not that it's my business, but that you might be in some kind of... distress. You see, I was trying to work, and it's, well, it was difficult �
+ບໍ່, ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າ, ຂ້ອຍໄດ້ໂທລົງ, ບໍ່ເພື່ອຮ້ອງທຸກຢ່າງແນ່ນອນ, ຂ້ອຍພຽງແຕ່ກັງວົນວ່າເຈົ້າອາດຈະບໍ່ແມ່ນວ່າມັນເປັນທຸລະກິດຂອງຂ້ອຍ
+, ແຕ່ວ່າເຈົ້າອາດຢູ່ໃນບາງປະເພດຂອງ... ຄວາມທຸກທໍລະມານ. ເຈົ້າເຫັນແລ້ວ, ຂ້ອຍ ກໍາ ລັງພະຍາຍາມເຮັດວຽກ, ແລະມັນ, ດີ, ມັນຍາກ
+
+126
+00:08:45,800 --> 00:08:51,800
+[MAN]
+Yeah. I'm damn sorry, if I bothered you.  The damn walls here, well, I just apologize like hell...
+ແມ່ນແລ້ວ. ຂ້ອຍຂໍໂທດ, ຖ້າຂ້ອຍລົບກວນເຈົ້າ. ກໍາ
+ແພງທີ່ນີ້, ດີ, ຂ້ອຍພຽງແຕ່ຂໍໂທດຢ່າງຮ້າຍແຮງ...
+
+127
+00:08:52,300 --> 00:08:55,100
+[MAN]
+...My name's Charlie Meadows. I guess we're neighbors...
+ຂ້ອຍຊື່ແຊລລີ Meadows. ຂ້ອຍຄິດວ່າພວກເຮົາເປັນເພື່ອນບ້ານ...
+
+128
+00:08:55,600 --> 00:08:57,600
+[BARTON]
+Barton Fink.
+ບາຕັນ ຟິນກ໌.
+
+129
+00:08:58,100 --> 00:09:03,700
+[CHARLIE]
+Neighbor, I'd feel better about the damned inconvenience if you'd let me buy you a drink.
+ເພື່ອນບ້ານ,
+ຂ້ອຍຈະຮູ້ສຶກດີກວ່າກ່ຽວກັບຄວາມບໍ່ສະບາຍໃຈທີ່ຮ້າຍແຮງຖ້າເຈົ້າປ່ອຍໃຫ້ຂ້ອຍຊື້ເຄື່ອງດື່ມໃຫ້ເຈົ້າ.
+
+130
+00:09:04,200 --> 00:09:06,300
+[BARTON]
+That's all right, really, thank you.
+ມັນບໍ່ເປັນຫຍັງ, ແທ້ຈິງແລ້ວ, ຂອບໃຈ.
+
+131
+00:09:06,800 --> 00:09:12,800
+[CHARLIE]
+All right, hell, you trying to work and me carrying on in there. Look, the liquor's good, wuddya say?
+ດີແລ້ວ, ສະຫວັນນະເຂດ, ເຈົ້າພະຍາຍາມເຮັດວຽກແລະຂ້ອຍສືບຕໍ່ຢູ່ບ່ອນນັ້ນ
+. ເບິ່ງ, ເຄື່ອງດື່ມດີ, ເຈົ້າເວົ້າບໍ?
+
+132
+00:09:13,300 --> 00:09:17,150
+[CHARLIE]
+... You got a glass? It's the least I can do.
+ເຈົ້າມີແກ້ວບໍ? ມັນເປັນສິ່ງ ຫນ້ອຍ ທີ່ຂ້ອຍສາມາດເຮັດໄດ້.
+
+133
+00:09:17,650 --> 00:09:19,650
+[BARTON]
+Okay... a quick one, sure...
+ດີແລ້ວ... ຫນຶ່ງ ຢ່າງໄວວາ, ແນ່ນອນ...
+
+134
+00:09:20,150 --> 00:09:24,700
+[CHARLIE]
+Yeah, just a nip. I feel like hell, all the carryings-on next door.
+ແມ່ນແລ້ວ, ພຽງແຕ່ດື່ມ. ຂ້ອຍຮູ້ສຶກວ່າເປັນອານາໄມ
+, ການຂົນສົ່ງທັງ ຫມົດ ຢູ່ຂ້າງເຮືອນ.
+
+135
+00:09:25,200 --> 00:09:30,100
+[BARTON]
+That's okay, I assure you. It's just that I was trying to work �
+ມັນບໍ່ເປັນຫຍັງ, ຂ້ອຍຮັບປະກັນເຈົ້າ.
+ມັນພຽງແຕ່ວ່າຂ້ອຍ ກໍາ ລັງພະຍາຍາມເຮັດວຽກ
+
+136
+00:09:30,600 --> 00:09:35,500
+[CHARLIE]
+What kind of work do you do, Barton, if you don't mind my asking?
+ເຈົ້າເຮັດວຽກປະເພດໃດ, ບາຕັນ, ຖ້າເຈົ້າບໍ່ສົນໃຈທີ່ຂ້ອຍຖາມ?
+
+137
+00:09:36,000 --> 00:09:38,000
+[BARTON]
+Well, I'm a writer, actually.
+ດີ, ຂ້ອຍເປັນນັກຂຽນ, ແທ້ຈິງແລ້ວ.
+
+138
+00:09:38,500 --> 00:09:44,500
+[CHARLIE]
+You don't say. That's a tough racket. My hat's off to anyone who can make a go of it. Damned interesting work, I'd imagine.
+ເຈົ້າບໍ່ເວົ້າ. ນັ້ນແມ່ນຣັກເກັດທີ່ແຂງແຮງ. ຫມວກ
+ຂອງຂ້ອຍຖືກຖິ້ມໃຫ້ໃຜທີ່ສາມາດພະຍາຍາມມັນໄດ້. ວຽກທີ່ ຫນ້າ ສົນໃຈ, ຂ້ອຍຄິດວ່າ.
+
+139
+00:09:45,000 --> 00:09:47,100
+[BARTON]
+Can be. Not easy, but �
+ມັນອາດຈະເປັນ. ບໍ່ງ່າຍດາຍ, ແຕ່
+
+140
+00:09:47,600 --> 00:09:49,600
+[CHARLIE]
+Damned difficult, I'd imagine.
+ມັນຍາກຫຼາຍ, ຂ້ອຍຄິດວ່າ.
+
+141
+00:09:50,100 --> 00:09:52,200
+[BARTON]
+And what's your line, Mr. Meadows?
+ແລະສາຍຂອງທ່ານແມ່ນຫຍັງ, ທ້າວ Meadows?
+
+142
+00:09:52,700 --> 00:09:58,700
+[CHARLIE]
+Hell no! Call me Charlie. Well Barton, you might say I sell peace of mind. Insurance is my game � door-to-door, human contact, still the only way to move merchandise.
+ບໍ່! ເອີ້ນຂ້ອຍວ່າແຊລລີ. ດີແບຕັນ, ເຈົ້າອາດຈະເວົ້າວ່າຂ້ອຍຂາຍຄວາມສະຫງົບໃຈ.
+ປະກັນໄພແມ່ນເກມຂອງຂ້ອຍປະຕູຕໍ່ປະຕູ, ການຕິດຕໍ່ກັບມະນຸດ, ຍັງເປັນວິທີດຽວທີ່ຈະຍ້າຍສິນຄ້າ.
+
+143
+00:09:59,200 --> 00:10:04,100
+[CHARLIE]
+...In spite of what you might think from tonight, I'm pretty good at it.
+ເຖິງແມ່ນວ່າເຈົ້າອາດຈະຄິດຈາກຄືນນີ້, ຂ້ອຍດີຫຼາຍໃນມັນ.
+
+144
+00:10:04,600 --> 00:10:06,600
+[BARTON]
+Doesn't surprise me at all.
+ມັນບໍ່ແປກໃຈຂ້ອຍເລີຍ.
+
+145
+00:10:07,100 --> 00:10:13,100
+[CHARLIE]
+Hell yes. Because I believe in it. Fire, theft, and casualty are not things that only happen to other people � that's what I tell 'em. Writing doesn't work out, you might want to look into it. Providing for basic human need � a fella could do worse.
+ແມ່ນແລ້ວ. ເພາະວ່າຂ້ອຍເຊື່ອມັນ. ໄຟ, ການລັກລອບ, ແລະອຸບັດຕິເຫດບໍ່ແມ່ນສິ່ງຕ່າງໆທີ່ເກີດຂຶ້ນພຽງແຕ່ກັບຄົນອື່ນນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍບອກພວກເຂົາ
+. ການຂຽນບໍ່ເຮັດວຽກໄດ້, ເຈົ້າອາດຈະຢາກເບິ່ງມັນ. ການສະຫນອງຄວາມຕ້ອງການພື້ນຖານຂອງມະນຸດຜູ້ຊາຍສາມາດເຮັດຮ້າຍແຮງກວ່າ.
+
+146
+00:10:13,600 --> 00:10:15,700
+[BARTON]
+Thanks, I'll keep it in mind.
+ຂອບໃຈ, ຂ້ອຍຈະຈື່ໄວ້.
+
+147
+00:10:16,200 --> 00:10:20,050
+[CHARLIE]
+What kind of scribbler are you � newspaperman did you say?
+ເຈົ້າເວົ້າວ່າເຈົ້າເປັນນັກຂຽນຂ່າວປະເພດໃດ?
+
+148
+00:10:20,550 --> 00:10:23,700
+[BARTON]
+No, I'm actually writing for the pictures now �
+ບໍ່, ຂ້ອຍ ກໍາ ລັງຂຽນ ສໍາ ລັບຮູບພາບດຽວນີ້
+
+149
+00:10:24,200 --> 00:10:26,200
+[CHARLIE]
+Pictures! Jesus!
+ຮູບພາບ! ພຣະເຢຊູ!
+
+150
+00:10:26,700 --> 00:10:32,700
+[CHARLIE]
+...I'm sorry, brother, I was just sitting here thinking I was talking to some ambitious youngster, eager to make good.  Hell, you've got it made! Writing for pictures! Beating out that competition!  And me being patronizing!
+ຂ້ອຍຂໍໂທດ, ອ້າຍ, ຂ້ອຍພຽງແຕ່ນັ່ງຢູ່ນີ້ຄິດວ່າຂ້ອຍ ກໍາ ລັງເວົ້າກັບໄວຫນຸ່ມທີ່ມີຄວາມຕັ້ງໃຈບາງຄົນ,
+ມີຄວາມຢາກເຮັດດີ. ສະບາຍດີ, ເຈົ້າໄດ້ເຮັດແລ້ວ! ຂຽນ ສໍາ ລັບຮູບພາບ! ເອົາຊະນະການແຂ່ງຂັນນັ້ນ! ແລະຂ້ອຍເປັນຜູ້ປົກຄອງ!
+
+151
+00:10:33,200 --> 00:10:35,300
+[CHARLIE]
+...Is the egg showing or what?!
+... ໄຂ່ ກໍາ ລັງສະແດງຫຼືຫຍັງ?!
+
+152
+00:10:35,800 --> 00:10:41,800
+[BARTON]
+That's okay; actually I am just starting out in the movies � though I was pretty well established in New York, some renown there,
+ມັນບໍ່ເປັນຫຍັງ; ໃນຄວາມເປັນຈິງຂ້ອຍຫາກໍ່ເລີ່ມຕົ້ນໃນຮູບເງົາເຖິງແມ່ນວ່າຂ້ອຍໄດ້ຮັບການສ້າງຕັ້ງຂຶ້ນຢ່າງດີໃນນິວຢອກ
+, ມີຊື່ສຽງບາງຢ່າງຢູ່ບ່ອນນັ້ນ,
+
+153
+00:10:42,300 --> 00:10:48,300
+[CHARLIE]
+Oh, it's an exciting time then. I'm not the best-read mug on the planet, so I guess it's no surprise I didn't recognize your name. Jesus, I feel like a heel.
+ໂອ້, ມັນເປັນເວລາທີ່ ຫນ້າ ຕື່ນເຕັ້ນຫຼັງຈາກນັ້ນ. ຂ້ອຍບໍ່ແມ່ນຈອກທີ່ອ່ານດີທີ່ສຸດໃນໂລກ,
+ສະນັ້ນຂ້ອຍຄິດວ່າມັນບໍ່ແມ່ນຄວາມແປກໃຈທີ່ຂ້ອຍບໍ່ຮູ້ຊື່ຂອງທ່ານ. ພຣະເຢຊູ, ຂ້ອຍຮູ້ສຶກຄືກັບກະຕ່າ.
+
+154
+00:10:48,800 --> 00:10:54,800
+[BARTON]
+That's okay, Charlie. I'm a playwright. My shows've only played New York. Last one got a hell of a write-up in the Herald. I guess that's why they wanted me here.
+ມັນບໍ່ເປັນຫຍັງ, ແຊລລີ. ຂ້ອຍເປັນນັກຂຽນລະຄອນ. ລາຍການຂອງຂ້ອຍໄດ້ຫຼິ້ນພຽງແຕ່ນິວຢອກເທົ່ານັ້ນ.
+ຄົນສຸດທ້າຍໄດ້ຮັບບົດຂຽນທີ່ຍິ່ງໃຫຍ່ໃນ Herald. ຂ້ອຍຄິດວ່າເປັນເຫດຜົນທີ່ພວກເຂົາຕ້ອງການຂ້ອຍຢູ່ນີ້.
+
+155
+00:10:55,300 --> 00:11:00,900
+[CHARLIE]
+Hell, why not? Everyone wants quality. What kind of venue, that is to say, thematically, uh...
+ສະຫວັນນະເຂດ, ເປັນຫຍັງບໍ່? ທຸກຄົນຕ້ອງການຄຸນນະພາບ.
+ສະຖານທີ່ປະເພດໃດ, ນັ້ນແມ່ນວ່າ, ດ້ວຍຫົວຂໍ້, ອູ...
+
+156
+00:11:01,400 --> 00:11:03,400
+[BARTON]
+What do I write about?
+ຂ້ອຍຂຽນກ່ຽວກັບຫຍັງ?
+
+157
+00:11:03,900 --> 00:11:07,400
+[CHARLIE]
+Caught me trying to be fancy! Yeah, that's it, Bart.
+ຈັບຂ້ອຍພະຍາຍາມເປັນຄົນສວຍງາມ! ແມ່ນແລ້ວ, ນັ້ນແມ່ນມັນ, ບາຕ໌.
+
+158
+00:11:07,900 --> 00:11:13,900
+[BARTON]
+Well, that's a good question. Strange as it may seem, Charlie, I guess I write about people like you. The average working stiff. The common man.
+ດີ, ນັ້ນແມ່ນ ຄໍາ ຖາມທີ່ດີ. ມັນເບິ່ງຄືວ່າແປກໃຈຫຼາຍປານໃດ, ແຊລລີ,
+ຂ້ອຍຄິດວ່າຂ້ອຍຂຽນກ່ຽວກັບຄົນເຊັ່ນເຈົ້າ. ຄົນເຮັດວຽກຢ່າງແຂງແຮງສະເລ່ຍ. ຜູ້ຊາຍທົ່ວໄປ.
+
+159
+00:11:14,400 --> 00:11:17,200
+[CHARLIE]
+Well ain't that a kick in the head!
+ນັ້ນບໍ່ແມ່ນການຕີຫົວບໍ!
+
+160
+00:11:17,700 --> 00:11:23,700
+[BARTON]
+Yeah, I guess it is. But in a way, that's exactly the point. There's a few people in New York � hopefully our numbers are growing � who feel we have an opportunity now to forge something real out of everyday experience, create a theater for the masses that's based on a few simple truths � not on some shopworn abstractions about drama that doesn't hold true today, if they ever did...
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າມັນເປັນ. ແຕ່ໃນທາງ ຫນຶ່ງ, ນັ້ນແມ່ນຈຸດແນ່ນອນ. ມີຄົນ ຈໍາ ນວນ ຫນຶ່ງ ໃນນິວຢອກຫວັງວ່າຕົວເລກຂອງພວກເຮົາ ກໍາ ລັງເຕີບໃຫຍ່ຂຶ້ນທີ່ຮູ້ສຶກວ່າພວກເຮົາມີໂອກາດດຽວນີ້ເພື່ອປອມແປງບາງສິ່ງບາງຢ່າງທີ່ແທ້ຈິງຈາກປະສົບການປະ
+ຈໍາ ວັນ, ສ້າງໂຮງລະຄອນ ສໍາ ລັບມະຫາຊົນທີ່ອີງໃສ່ຄວາມຈິງທີ່ງ່າຍດາຍບາງຢ່າງບໍ່ແມ່ນກ່ຽວກັບການຖ່າຍທອດບາງຢ່າງກ່ຽວກັບລະຄອນທີ່ບໍ່ຖືກຕ້ອງໃນມື້ນີ້, ຖ້າພວກເຂົາເຄີຍເຮັດ...
+
+161
+00:11:24,200 --> 00:11:27,000
+[BARTON]
+...I don't guess this means much to you.
+ຂ້ອຍບໍ່ຄິດວ່າສິ່ງນີ້ ຫມາຍ ຄວາມຫຼາຍຕໍ່ເຈົ້າ.
+
+162
+00:11:27,500 --> 00:11:29,950
+[CHARLIE]
+Hell, I could tell you some stories�
+ຂ້ອຍສາມາດບອກເຈົ້າເລື່ອງບາງຢ່າງໄດ້
+
+163
+00:11:30,450 --> 00:11:36,450
+[BARTON]
+And that's the point, that we all have stories. The hopes and dreams of the common man are as noble as those of any king. It's the stuff of life � why shouldn't it be the stuff of theater?  Goddamnit, why should that be a hard pill to swallow? Don't call it new theater, Charlie; call it real theater. Call it our theater.
+ແລະນັ້ນແມ່ນຈຸດນັ້ນ, ວ່າພວກເຮົາທຸກຄົນມີເລື່ອງລາວ. ຄວາມຫວັງແລະຄວາມຝັນຂອງຜູ້ຊາຍທົ່ວໄປແມ່ນຍິ່ງໃຫຍ່ເທົ່າກັບຂອງກະສັດໃດໆ. ມັນແມ່ນສິ່ງຂອງຊີວິດເປັນຫຍັງມັນບໍ່ຄວນເປັນສິ່ງຂອງໂຮງລະຄອນ
+? ສະບາຍດີ, ເປັນຫຍັງມັນຄວນເປັນເມັດທີ່ຍາກທີ່ຈະຈູດ? ຢ່າເອີ້ນມັນວ່າໂຮງງານລະຄອນ ໃຫມ່, ແຊລລີ; ເອີ້ນມັນວ່າ ໂຮງລະຄອນທີ່ແທ້ຈິງ. ເອີ້ນວ່າມັນວ່າໂຮງສະແດງຂອງພວກເຮົາ.
+
+164
+00:11:36,950 --> 00:11:40,100
+[CHARLIE]
+I can see you feel pretty strongly about it.
+ຂ້ອຍເຫັນວ່າເຈົ້າຮູ້ສຶກແຂງແຮງຫຼາຍກ່ຽວກັບມັນ.
+
+165
+00:11:40,600 --> 00:11:46,600
+[BARTON]
+Well, I don't mean to get up on my high horse, but why shouldn't we look at ourselves up there?  Who cares about the Fifth Earl of Bastrop and Lady Higginbottom and � and � and who killed Nigel Grinch-Gibbons?
+ດີ, ຂ້ອຍບໍ່ຫມາຍຄວາມວ່າຈະຂຶ້ນມ້າສູງຂອງຂ້ອຍ, ແຕ່ເປັນຫຍັງພວກເຮົາບໍ່ຄວນເບິ່ງຕົວເອງຢູ່ເທິງນັ້ນ?
+ໃຜສົນໃຈກ່ຽວກັບ Earl ທີຫ້າຂອງ Bastrop ແລະ Lady Higginbottom ແລະແລະແລະແລະຜູ້ທີ່ຂ້າໄນຈີລ ແກຣນຈ໌- ຈິບອນສ໌?
+
+166
+00:11:47,100 --> 00:11:49,900
+[CHARLIE]
+I can feel my butt getting sore already.
+ຂ້ອຍຮູ້ສຶກວ່າບາກຂອງຂ້ອຍ ກໍາ ລັງເຈັບປວດແລ້ວ.
+
+167
+00:11:50,400 --> 00:11:56,400
+[BARTON]
+Exactly, Charlie! You understand what I'm saying � a lot more than some of these literary types. Because you're a real man!
+ແທ້ຈິງແລ້ວ, ແຊລລີ! ເຈົ້າເຂົ້າໃຈສິ່ງທີ່ຂ້ອຍເວົ້າຫຼາຍກ່ວາບາງປະເພດວັນນະຄະດີເຫຼົ່ານີ້
+. ເພາະວ່າເຈົ້າເປັນຜູ້ຊາຍທີ່ແທ້ຈິງ!
+
+168
+00:11:56,900 --> 00:11:59,700
+[CHARLIE]
+And I could tell you some stories �
+ແລະຂ້ອຍສາມາດບອກເຈົ້າເລື່ອງບາງຢ່າງໄດ້
+
+169
+00:12:00,200 --> 00:12:06,200
+[BARTON]
+Sure you could!  And yet many writers do everything in their power to insulate themselves from the common man � from where they live, from where they trade, from where they fight and love and converse and � and � and... so naturally their work suffers, and regresses into empty formalism and � well, I'm spouting off again, but to put it in your language, the theater becomes as phony as a three dollar bill.
+ແນ່ນອນວ່າເຈົ້າສາມາດເຮັດໄດ້! ແລະເຖິງຢ່າງໃດກໍ່ຕາມນັກຂຽນຫຼາຍຄົນເຮັດທຸກຢ່າງໃນຄວາມສາມາດຂອງພວກເຂົາເພື່ອແຍກຕົວເອງຈາກຜູ້ຊາຍທົ່ວໄປຈາກບ່ອນທີ່ພວກເຂົາອາໄສຢູ່, ຈາກບ່ອນທີ່ພວກເຂົາມາຄ້າຂາຍ, ຈາກ ບ່ອນທີ່ພວກເຂົາຕໍ່ສູ້ແລະຮັກແລະສົນທະນາແລະແລະແລະ
+... ສະນັ້ນຕາມ ທໍາ ມະຊາດວຽກງານຂອງພວກເຂົາປະສົບກັບຄວາມທຸກທໍລະມານ, ແລະກັບຄືນໄປບ່ອນເປັນຮູບການທີ່ເປົ່າເປົ່າແລະດີ, ຂ້ອຍ ກໍາ ລັງສີດອອກອີກເທື່ອຫນຶ່ງ, ແຕ່ເພື່ອເອົາມັນໃນພາສາຂອງທ່ານ, ໂຮງລະຄອນກາຍເປັນປອມ
+
+170
+00:12:06,700 --> 00:12:09,150
+[CHARLIE]
+Yeah, I guess that's tragedy right there.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່ານັ້ນແມ່ນໂຊກຮ້າຍຢູ່ບ່ອນນັ້ນ.
+
+171
+00:12:09,650 --> 00:12:11,650
+[BARTON]
+Frequently played, seldom remarked.
+ຫຼິ້ນເລື້ອຍໆ, ບໍ່ເຄີຍສັງເກດເຫັນ.
+
+172
+00:12:12,150 --> 00:12:14,150
+[CHARLIE]
+Whatever that means.
+ບໍ່ວ່າມັນຫມາຍຄວາມວ່າແນວໃດ.
+
+173
+00:12:14,650 --> 00:12:20,650
+[BARTON]
+You're all right, Charlie. I'm glad you stopped by. I'm sorry if � well I know I sometimes run on.
+ເຈົ້າບໍ່ເປັນຫຍັງແຊລລີ. ຂ້ອຍດີໃຈທີ່ເຈົ້າມາ.
+ຂ້ອຍຂໍໂທດຖ້າຂ້ອຍຮູ້ວ່າຂ້ອຍແລ່ນຢູ່ບາງຄັ້ງ.
+
+174
+00:12:21,150 --> 00:12:27,150
+[CHARLIE]
+Hell no! Jesus, I'm the kind of guy, I'll let you know if I'm bored. I find it all pretty damned interesting. I'm the kind schmoe who's generally interested in the other guy's point of view.
+ບໍ່! ພຣະເຢຊູ, ຂ້ອຍເປັນຜູ້ຊາຍປະເພດຫນຶ່ງ, ຂ້ອຍຈະບອກເຈົ້າຖ້າຂ້ອຍເບື່ອຫນ່າຍ. ຂ້ອຍເຫັນວ່າມັນທັງ ຫມົດ
+ເປັນທີ່ ຫນ້າ ສົນໃຈຫຼາຍ. ຂ້ອຍເປັນຄົນໂຊກຮ້າຍປະເພດທີ່ສົນໃຈໃນທັດສະນະຂອງຜູ້ຊາຍຄົນອື່ນໂດຍທົ່ວໄປ.
+
+175
+00:12:27,650 --> 00:12:30,100
+[BARTON]
+Well, we've got something in common then.
+ດີ, ພວກເຮົາມີບາງສິ່ງບາງຢ່າງຮ່ວມກັນຫຼັງຈາກນັ້ນ.
+
+176
+00:12:30,600 --> 00:12:35,150
+[CHARLIE]
+Well Christ, if there's any way I can contribute, or help, or whatever�
+ດີພຣະຄຣິດ, ຖ້າມີວິທີໃດທີ່ຂ້ອຍສາມາດປະກອບສ່ວນໄດ້
+, ຫຼືຊ່ວຍເຫຼືອ, ຫຼືສິ່ງໃດກໍ່ຕາມ
+
+177
+00:12:35,650 --> 00:12:39,150
+[BARTON]
+Sure, sure Charlie, you can help by just being yourself.
+ແນ່ນອນ, ແນ່ນອນແຊລລີ, ເຈົ້າສາມາດຊ່ວຍໄດ້ໂດຍພຽງແຕ່ເປັນຕົວເອງ.
+
+178
+00:12:39,650 --> 00:12:42,450
+[CHARLIE]
+Well, I can tell you some stories �
+ດີ, ຂ້ອຍສາມາດບອກເຈົ້າບາງເລື່ອງໄດ້
+
+179
+00:12:42,950 --> 00:12:48,950
+[CHARLIE]
+...And look, I'm sorry as hell about the interruption. Too much revelry late at night, you forget there are other people in the world.
+ແລະເບິ່ງ, ຂ້ອຍຂໍໂທດຫຼາຍຕໍ່ການລົບກວນ.
+ການມ່ວນຊື່ນຫຼາຍເກີນໄປໃນຕອນແລງ, ເຈົ້າລືມວ່າມີຄົນອື່ນໃນໂລກ.
+
+180
+00:12:49,450 --> 00:12:51,450
+[BARTON]
+See you, Charlie.
+ພົບກັນ, ແຊລລີ.
+
+181
+00:12:51,950 --> 00:12:55,450
+[BARTON]
+He looks around to the opposite � bed � wall.
+ລາວເບິ່ງຢູ່ອ້ອມຂ້າງໄປຫາກໍາແພງຕຽງທີ່ກົງກັນຂ້າມ.
+
+182
+00:12:55,950 --> 00:12:58,400
+[EXECUTIVE]
+I'm eating on the lot today �
+ຂ້ອຍ ກໍາ ລັງກິນຢູ່ບ່ອນນັດມື້ນີ້
+
+183
+00:12:58,900 --> 00:13:00,900
+[EXECUTIVE]
+...Who's he?
+ລາວເປັນໃຜ?
+
+184
+00:13:01,400 --> 00:13:03,400
+[SECRETARY]
+Barton Fink, Mr. Geisler.
+ບາຕັນ ຟິນກ໌, ທ້າວ ແກີສເລີ.
+
+185
+00:13:03,900 --> 00:13:05,900
+[GEISLER]
+More please.
+ກະລຸນາເພີ່ມເຕີມ.
+
+186
+00:13:06,400 --> 00:13:12,400
+[BARTON]
+I'm a writer, Mr. Geisler. Ted Okum said I should drop by morning to see you about the �
+ຂ້ອຍເປັນນັກຂຽນ, ທ້າວ Geisler. Ted Okum
+ກ່າວວ່າຂ້ອຍຄວນລົງໃນຕອນເຊົ້າເພື່ອເຫັນເຈົ້າກ່ຽວກັບ
+
+187
+00:13:12,900 --> 00:13:14,900
+[GEISLER]
+Ever act?
+ເຈົ້າເຄີຍສະແດງບໍ?
+
+188
+00:13:15,400 --> 00:13:17,400
+[BARTON]
+...Huh? No, I'm �
+ຮູ? ບໍ່, ຂ້ອຍແມ່ນ
+
+189
+00:13:17,900 --> 00:13:20,700
+[GEISLER]
+We need Indians for a Norman Steele western.
+ພວກເຮົາຕ້ອງການຊາວອິນເດຍ ສໍາ ລັບພາກຕາເວັນຕົກຂອງນໍມານ ສຕິລ.
+
+190
+00:13:21,200 --> 00:13:23,300
+[BARTON]
+I'm a writer. Ted O �
+ຂ້ອຍເປັນນັກຂຽນ. ເທດ ໂອ
+
+191
+00:13:23,800 --> 00:13:28,000
+[GEISLER]
+Think about it, Fink. Writers come and go; we always need Indians.
+ຄິດກ່ຽວກັບມັນ, ຟິນກ໌. ນັກຂຽນມາແລະໄປ
+; ພວກເຮົາຕ້ອງການຊາວອິນເດຍສະເຫມີ.
+
+192
+00:13:28,500 --> 00:13:33,750
+[BARTON]
+I'm a writer. Ted Okum said you're producing this Wallace Beery picture I'm working on.
+ຂ້ອຍເປັນນັກຂຽນ. ເທດ ໂອຄູມບອກວ່າເຈົ້າ ກໍາ
+ລັງຜະລິດຮູບວາວລາສ ເບີຣີນີ້ທີ່ຂ້ອຍ ກໍາ ລັງເຮັດວຽກຢູ່.
+
+193
+00:13:34,250 --> 00:13:40,250
+[GEISLER]
+What!?  Ted Okum doesn't know shit. They've assigned me enough pictures for a goddamn year. What Ted Okum doesn't know you could almost squeeze into the Hollywood Bowl.
+ຫຍັງ!? ເດດ ໂອຄູມບໍ່ຮູ້ຫຍັງເລີຍ. ພວກເຂົາໄດ້ມອບໃຫ້ຂ້ອຍຮູບພຽງພໍ ສໍາ ລັບປີທີ່ສໍ້ໂກງ
+. ສິ່ງທີ່ເດດ ໂອກູມບໍ່ໄດ້ຮູ້ເຈົ້າເກືອບສາມາດກົດເຂົ້າໄປໃນໂຮລີວູດ ບອລໄດ້.
+
+194
+00:13:40,750 --> 00:13:42,850
+[BARTON]
+Then who should I talk to?
+ຫຼັງຈາກນັ້ນຂ້ອຍຄວນເວົ້າກັບໃຜ?
+
+195
+00:13:43,350 --> 00:13:45,350
+[GEISLER]
+Get me Lou Breeze.
+ເອົາລູ ບຣີສມາໃຫ້ຂ້ອຍ.
+
+196
+00:13:45,850 --> 00:13:47,950
+[SECRETARY]
+Is he in for Mr. Geisler?
+ລາວສົນໃຈທ່ານ Geisler ບໍ?
+
+197
+00:13:48,450 --> 00:13:54,450
+[GEISLER]
+Lou? How's Lipnik's ass smell this morning?... Yeah?... Yeah?... Okay, the reason I'm calling, I got a writer here, Fink, all screwy. Says I'm producing that Wallace Beery wrestling picture � what'm I, the goddamn janitor around here?...  Yeah, well who'd you get that from?...  Yeah, well tell Lipnik he can kiss my dimpled ass... Shit! No, alright... No, no, all right.
+ໂລຍ? ກິ່ນຫອມຫລັງຂອງລີປນິກໃນຕອນເຊົ້ານີ້ແນວໃດ?... ແມ່ນແລ້ວ? ແມ່ນແລ້ວ?... ດີ, ເຫດຜົນທີ່ຂ້ອຍໂທ, ຂ້ອຍມີນັກຂຽນຢູ່ນີ້, ຟິນກ໌, ທັງ ຫມົດ ທີ່ໂຊກແຊງ. ເວົ້າວ່າຂ້ອຍ ກໍາ ລັງຜະລິດຮູບການຕໍ່ສູ້ຂອງວາວລາສ
+ເບີຣີນັ້ນຂ້ອຍເປັນຫຍັງ, ຜູ້ຮັກສາຄວາມປອດໄພຢູ່ບ່ອນນີ້?...ແມ່ນແລ້ວ, ເຈົ້າໄດ້ຮັບສິ່ງນັ້ນຈາກໃຜ?... ແມ່ນ ແລ້ວ, ບອກລີບນິກວ່າລາວສາມາດຈູບຫລັງທີ່ຂຸມຂອງຂ້ອຍໄດ້... ສະບາຍດີ! ບໍ່
+
+198
+00:13:54,950 --> 00:13:56,950
+[GEISLER]
+...Okay kid, let's chow.
+ດີແມ, ໄປກິນ.
+
+199
+00:13:57,450 --> 00:14:03,450
+[GEISLER]
+Don't worry about it. It's just a B picture. I bring it in on budget, they'll book it without even screening it. Life is too short.
+ຢ່າກັງວົນກ່ຽວກັບມັນ. ມັນເປັນພຽງແຕ່ຮູບ B. ຂ້ອຍເອົາມັນໃນງົບປະມານ
+, ພວກເຂົາຈະຈອງມັນໂດຍບໍ່ຕ້ອງເບິ່ງມັນເລີຍ. ຊີວິດສັ້ນເກີນໄປ.
+
+200
+00:14:03,950 --> 00:14:09,950
+[BARTON]
+But Lipnik said he wanted to look at the script, see something by the end of the week.
+ແຕ່ລິປນິກເວົ້າວ່າ ລາວຢາກເບິ່ງບົດຂຽນ
+, ເບິ່ງບາງສິ່ງບາງຢ່າງໃນທ້າຍອາທິດ.
+
+201
+00:14:10,450 --> 00:14:15,350
+[GEISLER]
+Sure he did. And he forgot about it before your ass left his sofa.
+ແນ່ນອນວ່າລາວເຮັດ. ແລະລາວລືມມັນກ່ອນທີ່ຫລັງຂອງທ່ານອອກຈາກໂຊຟາຂອງລາວ.
+
+202
+00:14:15,850 --> 00:14:21,850
+[BARTON]
+Okay. I'm just having trouble getting started. It's funny, I'm blocked up. I feel like I need some kind of indication of... what's expected �
+ດີແລ້ວ. ຂ້ອຍພຽງແຕ່ມີຄວາມຫຍຸ້ງຍາກໃນການເລີ່ມຕົ້ນ. ມັນມ່ວນຊື່ນ, ຂ້ອຍຖືກກີດຂວາງ
+. ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍຕ້ອງການການຊີ້ບອກບາງປະເພດຂອງ... ສິ່ງທີ່ຄາດຫວັງ
+
+203
+00:14:22,350 --> 00:14:26,200
+[GEISLER]
+Wallace Beery. Wrestling picture. What do you need, a road map?
+ວາເລສ ເບຣີ. ຮູບການຕໍ່ສູ້. ເຈົ້າຕ້ອງການຫຍັງ, ແຜນທີ່ທາງບໍ?
+
+204
+00:14:26,700 --> 00:14:30,200
+[GEISLER]
+...Look, you're confused? You need guidance? Talk to another writer.
+ເບິ່ງ, ເຈົ້າສັບສົນບໍ? ເຈົ້າຕ້ອງການການຊີ້ນໍາບໍ
+? ເວົ້າກັບນັກຂຽນຄົນອື່ນ.
+
+205
+00:14:30,700 --> 00:14:32,700
+[BARTON]
+Who?
+ໃຜ?
+
+206
+00:14:33,200 --> 00:14:39,200
+[GEISLER]
+Jesus, throw a rock in here, you'll hit one. And do me a favor, Fink: Throw it hard.
+ພຣະເຢຊູ, ຖິ້ມຫີນເຂົ້າມາບ່ອນນີ້, ເຈົ້າຈະຕີຫນຶ່ງ.
+ແລະເຮັດໃຫ້ຂ້ອຍເປັນຄວາມສະບາຍດີ, ຟິນກ໌:ຖິ້ມມັນຢ່າງແຂງແຮງ.
+
+207
+00:14:39,700 --> 00:14:41,800
+[MAN]
+Bill Mayhew. Sorry about the odor.
+ບິລ ເມເຮວ. ຂໍໂທດກ່ຽວກັບກິ່ນຫອມ.
+
+208
+00:14:42,300 --> 00:14:44,300
+[BARTON]
+Barton Fink.
+ບາຕັນ ຟິນກ໌.
+
+209
+00:14:44,800 --> 00:14:46,800
+[BARTON]
+...Jesus. W.P.!
+ພຣະເຢຊູ. W.P!
+
+210
+00:14:47,300 --> 00:14:49,300
+[MAYHEW]
+I beg your pardon?
+ຂ້ອຍຂໍໂທດບໍ?
+
+211
+00:14:49,800 --> 00:14:51,800
+[BARTON]
+W.P. Mayhew? The writer?
+WP Mayhew? ນັກຂຽນບໍ?
+
+212
+00:14:52,300 --> 00:14:54,300
+[MAYHEW]
+Just Bill, please.
+ພຽງແຕ່ບິລ, ກະລຸນາ.
+
+213
+00:14:54,800 --> 00:14:56,800
+[BARTON]
+Bill!...
+ບິລ!...
+
+214
+00:14:57,300 --> 00:14:59,750
+[BARTON]
+...You're the finest novelist of our time.
+ເຈົ້າເປັນນັກຂຽນນະວະນິຍາຍທີ່ດີທີ່ສຸດໃນສະໄຫມຂອງພວກເຮົາ.
+
+215
+00:15:00,250 --> 00:15:06,250
+[MAYHEW]
+Why thank you, son, how kind. Bein' occupied here in the worship of Mammon, I haven't had the chance yet to see your play �
+ເປັນຫຍັງຂອບໃຈລູກຊາຍ, ເປັນໃຈບຸນຫຼາຍປານໃດ. ຍ້ອນວ່າມີວຽກເຮັດງານທໍາຢູ່ບ່ອນນີ້ໃນການບູຊາ
+Mammon, ຂ້ອຍຍັງບໍ່ມີໂອກາດທີ່ຈະເຫັນການສະແດງຂອງທ່ານເທື່ອ
+
+216
+00:15:06,750 --> 00:15:10,600
+[MAYHEW]
+...Yes, Mistuh Fink, some of the news reaches us in Hollywood.
+ແມ່ນແລ້ວ, ມິສຕູຟິນກ໌, ບາງຂ່າວບັນລຸພວກເຮົາໃນຮໍລີວູດ.
+
+217
+00:15:11,100 --> 00:15:17,100
+[BARTON]
+Sir, I'm flattered that you even recognize my name. My God, I had no idea you were in Hollywood.
+ເຈົ້າ, ຂ້ອຍຍິນດີທີ່ເຈົ້າຮູ້ຊື່ຂອງຂ້ອຍເລີຍ.
+ພຣະເຈົ້າຂອງຂ້ອຍ, ຂ້ອຍບໍ່ຮູ້ເລີຍວ່າເຈົ້າຢູ່ໃນຮໍລີວູດ.
+
+218
+00:15:17,600 --> 00:15:23,600
+[MAYHEW]
+All of us undomesticated writers eventually make their way out here to the Great Salt Lick. Mebbe that's why I allus have such a powerful thrust.
+ພວກເຮົາຍັກຂຽນທີ່ບໍ່ຖືກກໍານົດໄວ້ທັງ ຫມົດ ໃນທີ່ສຸດຈະອອກມາບ່ອນນີ້ໄປຫານ້ ໍາ
+ເກືອທີ່ຍິ່ງໃຫຍ່. Mebbe ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍ ຫມາຍ ເຖິງຄວາມຊຸກຍູ້ທີ່ເຂັ້ມແຂງຫຼາຍ.
+
+219
+00:15:24,100 --> 00:15:26,200
+[MAYHEW]
+...A little social lubricant, Mistuh Fink?
+... ນ້ ໍາ ມັນນ້ ໍາ ມັນສັງຄົມນ້ອຍໆ, Mistuh Fink?
+
+220
+00:15:26,700 --> 00:15:29,150
+[BARTON]
+It's still a little early for me.
+ມັນຍັງໄວເກີນໄປ ສໍາ ລັບຂ້ອຍ.
+
+221
+00:15:29,650 --> 00:15:31,650
+[MAYHEW]
+So be it.
+ສະນັ້ນມັນຈະເປັນ.
+
+222
+00:15:32,150 --> 00:15:38,150
+[BARTON]
+...Bill, if I'm imposing you should say so, I know you're very busy � I just, uh... I just wonder if I could ask you a favor... That is to say, uh... have you ever written a wrestling picture?
+ບິລ, ຖ້າຂ້ອຍ ກໍາ ລັງບັງຄັບໃຫ້ເຈົ້າເວົ້າດັ່ງນັ້ນ, ຂ້ອຍຮູ້ວ່າເຈົ້າມີວຽກເຮັດງານທໍາຫຼາຍຂ້ອຍພຽງແຕ່, ອູ...
+ຂ້ອຍພຽງແຕ່ສົງໄສວ່າຂ້ອຍສາມາດຂໍຄວາມຊົມເຊີຍຈາກເຈົ້າໄດ້ບໍ... ນັ້ນແມ່ນວ່າ, ໂອ້... ເຈົ້າເຄີຍຂຽນຮູບການຕໍ່ສູ້ບໍ?
+
+223
+00:15:38,650 --> 00:15:40,650
+[MAYHEW]
+...You are drippin', suh.
+ເຈົ້າ ກໍາ ລັງໄຫຼ, ສູ.
+
+224
+00:15:41,150 --> 00:15:47,150
+[MAYHEW]
+...Mistuh Fink, they have not invented a genre of picture that Bill Mayhew has not, at one time or othuh, been invited to essay. I have taken my stabs at the wrastlin' form, as I have stabbed at so many others, and with as little success. I gather that you are a fresh-man here, eager for an upperclassman's council. However, just at the moment...
+... ມິສຕູຟິນກ໌, ພວກເຂົາບໍ່ໄດ້ຄິດສ້າງປະເພດຮູບທີ່ບິລ ເມເຮວບໍ່ໄດ້, ໃນເວລາດຽວກັນຫຼືອື່ນໆ, ຖືກເຊື້ອເຊີນໃຫ້ຂຽນບົດຂຽນ. ຂ້ອຍໄດ້ເອົາການດອກໄມ້ຂອງຂ້ອຍໃນຮູບແບບການຕໍ່ສູ້,
+ດັ່ງທີ່ຂ້ອຍໄດ້ດັກໄມ້ໃສ່ຄົນອື່ນຫຼາຍຄົນ, ແລະມີຜົນສໍາເລັດ ຫນ້ອຍ ເທົ່າກັນ. ຂ້ອຍເກັບກໍາວ່າເຈົ້າເປັນຄົນໃຫມ່ຢູ່ນີ້, ມີຄວາມປາຖະຫນາ ສໍາ ລັບສະພານັກຮຽນຊັ້ນສູງ. ເຖິງຢ່າງໃດກໍ່ຕາມ, ພຽງແຕ່ໃນເວລານີ້...
+
+225
+00:15:47,650 --> 00:15:53,650
+[MAYHEW]
+...I have drinkin' to do. Why don't you stop at my bungalow, which is numbah fifteen, later on this afternoon...
+ຂ້ອຍຕ້ອງດື່ມ. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ຢຸດຢູ່ບັງຄາໂລຂອງຂ້ອຍ
+, ເຊິ່ງເປັນເລກທີສິບຫ້າ, ໃນຕອນບ່າຍມື້ນີ້...
+
+226
+00:15:54,150 --> 00:15:57,650
+[MAYHEW]
+...and we will discuss wrastlin' scenarios and other things lit'rary.
+ແລະພວກເຮົາຈະປຶກສາຫາລືສະຖານະການການຕໍ່ສູ້ແລະສິ່ງອື່ນໆທາງດ້ານວັນນະຄະດີ
+.
+
+227
+00:15:58,150 --> 00:16:00,150
+[WOMAN]
+...Can I help you?
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ບໍ?
+
+228
+00:16:00,650 --> 00:16:06,650
+[BARTON]
+I'm sorry, I... My name is Fink... Uh, Bill asked me to drop by this afternoon.  Is he in?
+ຂ້ອຍຂໍໂທດ, ຂ້ອຍ... ຂ້ອຍຊື່ຟິນກ໌... ໂອ້
+, ບິລຂໍໃຫ້ຂ້ອຍມາໃນຕອນບ່າຍນີ້. ລາວຢູ່ບໍ?
+
+229
+00:16:07,150 --> 00:16:09,600
+[WOMAN]
+Mr. Mayhew is indisposed at the moment�
+ທ້າວ Mayhew ບໍ່ສະບາຍໃນເວລານີ້
+
+230
+00:16:10,100 --> 00:16:16,100
+[WOMAN]
+Mr. Fink, I'm Audrey Taylor, Mr. Mayhew's personal secretary. I know this all must sound horrid. I really do apologize...
+ທ້າວຟິນກ໌, ຂ້ອຍເປັນໂອເດຣີ ໄຕເລີ, ເລຂາທິການສ່ວນຕົວຂອງທ່ານ Mayhew
+ໄດ້. ຂ້ອຍຮູ້ວ່າສິ່ງທັງ ຫມົດ ນີ້ຕ້ອງສຽງຮ້າຍແຮງ. ຂ້ອຍຂໍໂທດແທ້ໆ...
+
+231
+00:16:16,600 --> 00:16:18,600
+[BARTON]
+Is, uh... Is he okay?
+ລາວບໍ່ເປັນຫຍັງບໍ?
+
+232
+00:16:19,100 --> 00:16:22,250
+[AUDREY]
+He will be... When he can't write, he drinks.
+ລາວຈະເປັນ... ເມື່ອລາວບໍ່ສາມາດຂຽນໄດ້, ລາວດື່ມ.
+
+233
+00:16:22,750 --> 00:16:24,850
+[AUDREY]
+I am sorry, it's so embarassing.
+ຂ້ອຍຂໍໂທດ, ມັນໂຊກຮ້າຍຫຼາຍ.
+
+234
+00:16:25,350 --> 00:16:27,800
+[BARTON]
+How about you? Will you be alright?
+ເຈົ້າແນວໃດ? ເຈົ້າຈະດີບໍ?
+
+235
+00:16:28,300 --> 00:16:31,450
+[AUDREY]
+I'll be fine... Are you a writer, Mr Fink?
+ຂ້ອຍຈະດີດີ... ເຈົ້າເປັນນັກຂຽນບໍ, ທ້າວຟິນກ໌?
+
+236
+00:16:31,950 --> 00:16:36,500
+[BARTON]
+Yes I am. I'm working on a wres � please call me Barton.
+ແມ່ນແລ້ວຂ້ອຍເປັນ. ຂ້ອຍ ກໍາ ລັງເຮັດວຽກກ່ຽວກັບ
+wres ກະລຸນາເອີ້ນຂ້ອຍວ່າບາຕັນ.
+
+237
+00:16:37,000 --> 00:16:41,900
+[AUDREY]
+I'll tell Bill you dropped by. I'm sure he'll want to reschedule your appointment.
+ຂ້ອຍຈະບອກບິລວ່າເຈົ້າມາ.
+ຂ້ອຍແນ່ໃຈວ່າລາວຈະຢາກປ່ຽນເວລາການພົບປະຂອງທ່ານ.
+
+238
+00:16:42,400 --> 00:16:48,400
+[BARTON]
+Perhaps you and I could get together at some point also. �I'm sorry if that sounds abrupt. I just... I don't know anyone here in this town.
+ບາງທີເຈົ້າແລະຂ້ອຍສາມາດພົບກັນໃນບາງຈຸດເຊັ່ນກັນ. ຂ້ອຍຂໍໂທດຖ້າມັນເບິ່ງຄືວ່າກະທັນຫັນ
+. ຂ້ອຍພຽງແຕ່... ຂ້ອຍບໍ່ຮູ້ຈັກໃຜຢູ່ນີ້ໃນເມືອງນີ້.
+
+239
+00:16:48,900 --> 00:16:51,350
+[AUDREY]
+Perhaps the three of us, Mr. Fink.
+ບາງທີພວກເຮົາສາມຄົນ, ທ້າວຟິນກ໌.
+
+240
+00:16:51,850 --> 00:16:53,850
+[BARTON]
+Please, Barton.
+ກະລຸນາ, ບາຕັນ.
+
+241
+00:16:54,350 --> 00:17:00,300
+[AUDREY]
+Barton. You see, Barton, I'm not just Bill's secretary � Bill and I are... I love. We-
+ບາໂຕນ. ເຈົ້າເຫັນແລ້ວ, ບາຕັນ, ຂ້ອຍບໍ່ແມ່ນພຽງແຕ່ເລຂາທິການຂອງບິລເທົ່ານັ້ນ
+ບິລແລະຂ້ອຍແມ່ນ... ຂ້ອຍຮັກ. ພວກເຮົາ -
+
+242
+00:17:00,800 --> 00:17:02,800
+[BARTON]
+I see.
+ຂ້ອຍເຫັນແລ້ວ.
+
+243
+00:17:03,300 --> 00:17:05,400
+[AUDREY]
+...I know this must look... funny.
+ຂ້ອຍຮູ້ວ່າສິ່ງນີ້ຕ້ອງເບິ່ງຄືວ່າ... ມ່ວນຊື່ນ.
+
+244
+00:17:05,900 --> 00:17:07,900
+[BARTON]
+No, no �
+ບໍ່, ບໍ່
+
+245
+00:17:08,400 --> 00:17:12,950
+[AUDREY]
+We need each other. We give each other...  the things we need �
+ພວກເຮົາຕ້ອງການກັນ. ພວກເຮົາໃຫ້ກັນ... ສິ່ງຕ່າງໆທີ່ພວກເຮົາຕ້ອງການ
+
+246
+00:17:13,450 --> 00:17:16,950
+[VOICE]
+M'HONEY!!... bastard-ass sons of bitches... the water's lappin' up... M'HONEY!!
+ຂ້ອຍແມ!!... ລູກແມ... ນ້ ໍາ ກໍາ ລັງສັ່ນສະເທືອນຂຶ້ນ... ແມ!!
+
+247
+00:17:17,450 --> 00:17:20,600
+[AUDREY]
+I'm sorry, Mr. Fink. Please don't judge us. Please...
+ຂ້ອຍຂໍໂທດເດີ, ທ້າວຟິນກ໌. ກະລຸນາຢ່າຕັດສິນໃຈພວກເຮົາ. ຂໍຮ້ອງ...
+
+248
+00:17:21,100 --> 00:17:23,100
+[CHARLIE]
+Howdy, neighbor.
+ສະບາຍດີ, ເພື່ອນບ້ານ.
+
+249
+00:17:23,600 --> 00:17:25,600
+[BARTON]
+Charlie. How are you.
+ແຊລລີ ເຈົ້າເປັນແນວໃດ.
+
+250
+00:17:26,100 --> 00:17:32,100
+[CHARLIE]
+Jesus, I hope I'm not interrupting you again. I heard you walking around in here.  Figured I'd drop by.
+ພຣະເຢຊູ, ຂ້ອຍຫວັງວ່າຂ້ອຍຈະບໍ່ລົບກວນເຈົ້າອີກເທື່ອຫນຶ່ງ
+. ຂ້ອຍໄດ້ຍິນເຈົ້າຍ່າງຢູ່ບ່ອນນີ້. ຂ້ອຍຄິດວ່າຂ້ອຍຈະມາ.
+
+251
+00:17:32,600 --> 00:17:37,850
+[BARTON]
+Yeah, come in Charlie. Hadn't really gotten started yet � what happened to your ear?
+ແມ່ນແລ້ວ, ເຂົ້າມາແຊລລີ.
+ຍັງບໍ່ເລີ່ມຕົ້ນເທື່ອວ່າເກີດຫຍັງຂຶ້ນກັບຫູຂອງທ່ານ?
+
+252
+00:17:38,350 --> 00:17:44,350
+[CHARLIE]
+Oh, yeah. An ear infection, chronic thing.  Goes away for a while, but it always comes back. Gotta put cotton in it to staunch the flow of pus. Don't worry, it's not contagious.
+ໂອ້, ແມ່ນແລ້ວ. ການຕິດເຊື້ອຫູ, ເລື່ອງທີ່ຍາວນານ. ຫາຍໄປຊົ່ວຄາວ, ແຕ່ມັນກັບມາຢູ່ສະເຫມີ
+. ຕ້ອງໃສ່ຜ້າຝ້າຍໃນມັນເພື່ອຢຸດການໄຫຼຂອງທ້ອງ. ຢ່າກັງວົນ, ມັນບໍ່ແມ່ນຕິດຕໍ່.
+
+253
+00:17:44,850 --> 00:17:46,850
+[BARTON]
+Seen a doctor?
+ເຈົ້າເຫັນຫມໍບໍ?
+
+254
+00:17:47,350 --> 00:17:52,950
+[CHARLIE]
+Ah, doctors. What's he gonna tell me?  Can't trade my head in for a new one.
+ອາ, ຫມໍ. ລາວຈະບອກຂ້ອຍຫຍັງ?
+ບໍ່ສາມາດແລກປ່ຽນຫົວຂອງຂ້ອຍກັບຫົວ ໃຫມ່ ໄດ້.
+
+255
+00:17:53,450 --> 00:17:58,000
+[BARTON]
+No, I guess you're stuck with the one you've got. Have a seat.
+ບໍ່, ຂ້ອຍຄິດວ່າເຈົ້າຕິດກັບຄົນທີ່ທ່ານມີ. ນັ່ງລົງ.
+
+256
+00:17:58,500 --> 00:18:04,100
+[CHARLIE]
+Thanks, I'd invite you over to my place, but it's a goddamn mess. You married, Bart?
+ຂອບໃຈ, ຂ້ອຍຈະເຊີນເຈົ້າມາເຮືອນຂອງຂ້ອຍ,
+ແຕ່ມັນເປັນຄວາມສັບສົນທີ່ຮ້າຍແຮງ. ເຈົ້າແຕ່ງງານແລ້ວບໍ, ບາຕ໌?
+
+257
+00:18:04,600 --> 00:18:06,600
+[BARTON]
+Nope.
+ບໍ່.
+
+258
+00:18:07,100 --> 00:18:09,550
+[CHARLIE]
+I myself have yet to be lassoed.
+ຂ້ອຍເອງຍັງບໍ່ທັນຖືກຕິດສາຍແອວ.
+
+259
+00:18:10,050 --> 00:18:12,050
+[CHARLIE]
+...Got a sweetheart?
+ມີຄົນຮັກບໍ?
+
+260
+00:18:12,550 --> 00:18:18,550
+[BARTON]
+No... I guess it's something about my work. I get so worked up over it, I don't know; I don't really have a lot of attention left over, so it would be a little unfair...
+ບໍ່... ຂ້ອຍຄິດວ່າມັນເປັນບາງສິ່ງບາງຢ່າງກ່ຽວກັບວຽກຂອງຂ້ອຍ. ຂ້ອຍກັງວົນຫຼາຍຕໍ່ມັນ, ຂ້ອຍບໍ່ຮູ້
+; ຂ້ອຍບໍ່ມີຄວາມສົນໃຈຫຼາຍທີ່ເຫຼືອແລ້ວ, ສະນັ້ນມັນຈະເປັນຄວາມບໍ່ຍຸຕິທໍາ ຫນ້ອຍ ຫນຶ່ງ...
+
+261
+00:18:19,050 --> 00:18:25,050
+[CHARLIE]
+Yeah, the ladies do ask for attention. In my experience, they pretend to give it, but it's generally a smoke- screen for demanding it back � with interest. How about family, Bart? How're you fixed in that department?
+ແມ່ນແລ້ວ, ແມ່ຍິງຂໍຄວາມສົນໃຈ. ໃນປະສົບການຂອງຂ້ອຍ, ພວກເຂົາເຮັດແບບວ່າໃຫ້ມັນ, ແຕ່ມັນເປັນປົກກະຕິແລ້ວເປັນ ຫນ້າ
+ຈໍສູບຢາ ສໍາ ລັບການຮຽກຮ້ອງໃຫ້ມັນກັບຄືນດ້ວຍຜົນປະໂຫຍດ. ຈະເປັນແນວໃດກັບຄອບຄົວ, ບາຕ໌? ເຈົ້າຖືກແກ້ໄຂໃນພະແນກນັ້ນແນວໃດ?
+
+262
+00:18:25,550 --> 00:18:28,350
+[BARTON]
+My folks live in Brooklyn, with my uncle.
+ພໍ່ແມ່ຂອງຂ້ອຍອາໄສຢູ່ບຣູຄລິນ, ກັບພໍ່ເຖົ້າຂອງຂ້ອຍ.
+
+263
+00:18:28,850 --> 00:18:32,700
+[CHARLIE]
+Mine have passed on. It's just the three of us now...
+ຂອງຂ້ອຍໄດ້ຜ່ານໄປແລ້ວ. ມັນພຽງແຕ່ພວກເຮົາສາມຄົນດຽວນີ້...
+
+264
+00:18:33,200 --> 00:18:36,000
+[CHARLIE]
+...What's the expression � me myself and I.
+ຄໍາ ເວົ້າວ່າຂ້ອຍເອງແລະຂ້ອຍແມ່ນຫຍັງ.
+
+265
+00:18:36,500 --> 00:18:42,500
+[BARTON]
+Sure, that's tough, but in a sense, we're all alone in this world aren't we Charlie?  I'm often surrounded by family and friends, but...
+ແນ່ນອນ, ມັນຍາກ, ແຕ່ໃນຄວາມ ຫມາຍ ຫນຶ່ງ, ພວກເຮົາທຸກຄົນຢູ່ຄົນດຽວໃນໂລກນີ້ບໍ່ພວກເຮົາແຊລລີ
+? ຂ້ອຍມັກຖືກອ້ອມຮອບໂດຍຄອບຄົວແລະເພື່ອນມິດ, ແຕ່...
+
+266
+00:18:43,000 --> 00:18:49,000
+[CHARLIE]
+Mm... You're no stranger to loneliness, then. I guess I got no beef; especially where the dames are concerned. In my line of work I get opportunities galore � always on the wing, you know what I'm saying. I could tell stories to curl your hair � but it looks like you've already heard 'em!
+ມມ... ເຈົ້າບໍ່ແມ່ນຄົນແປກໃຈກັບຄວາມໂດດດ່ຽວ, ຫຼັງຈາກນັ້ນ. ຂ້ອຍຄິດວ່າຂ້ອຍບໍ່ມີຊີ້ນງົວ; ໂດຍສະເພາະໃນບ່ອນທີ່ແມ່ຍິງກ່ຽວຂ້ອງ.
+ໃນສາຍການເຮັດວຽກຂອງຂ້ອຍຂ້ອຍໄດ້ຮັບໂອກາດຫຼາຍສະເຫມີຢູ່ເທິງກະຕ່າ, ເຈົ້າຮູ້ວ່າຂ້ອຍເວົ້າຫຍັງ. ຂ້ອຍສາມາດບອກເລື່ອງເພື່ອ curl ຜົມຂອງທ່ານແຕ່ເບິ່ງຄືວ່າເຈົ້າໄດ້ຍິນແລ້ວ!
+
+267
+00:18:49,500 --> 00:18:52,300
+[CHARLIE]
+...That's me in Kansas City, plying my trade.
+ນັ້ນແມ່ນຂ້ອຍໃນເມືອງແຄນຊັສ, ດໍາ ເນີນການຄ້າຂອງຂ້ອຍ.
+
+268
+00:18:52,800 --> 00:18:58,800
+[CHARLIE]
+...It was taken by one of my policy holders. They're more than just customers to me, Barton.  They really appreciate what I have to offer them. Ya see, her hubby was out of town at the time �
+ມັນຖືກເອົາໂດຍຜູ້ຖືນະໂຍບາຍຂອງຂ້ອຍຄົນ ຫນຶ່ງ. ພວກເຂົາຫຼາຍກ່ວາພຽງແຕ່ລູກຄ້າ ສໍາ ລັບຂ້ອຍ, ບາຕັນ.
+ພວກເຂົາຍ້ອງຍໍສິ່ງທີ່ຂ້ອຍຕ້ອງສະ ເຫນີ ໃຫ້ພວກເຂົາແທ້ໆ. ເຈົ້າເຫັນແລ້ວ, ຜົວຂອງນາງຢູ່ນອກເມືອງໃນເວລານັ້ນ
+
+269
+00:18:59,300 --> 00:19:05,300
+[BARTON]
+You know, in a way, I envy you Charlie.  Your daily routine � you know what's expected. You know the drill. My job is to plumb the depths, so to speak, dredge something up from inside, something honest. There's no road map for that territory...
+ເຈົ້າຮູ້ແລ້ວ, ໃນທາງໃດຫນຶ່ງ, ຂ້ອຍໂຊກແຊລລີເຈົ້າ. ການປົກກະຕິປະ ຈໍາ ວັນຂອງທ່ານເຈົ້າຮູ້ສິ່ງທີ່ຄາດຫວັງ. ເຈົ້າຮູ້ການຝຶກອົບຮົມ.
+ວຽກງານຂອງຂ້ອຍແມ່ນການປັ່ນປ່ວນຄວາມເລິກເຊິ່ງ, ເພື່ອເວົ້າ, ຂຸດຄົ້ນບາງສິ່ງບາງຢ່າງຈາກພາຍໃນ, ບາງສິ່ງບາງ ຢ່າງຢ່າງຢ່າງຈິງໃຈ. ບໍ່ມີແຜນທາງ ສໍາ ລັບເຂດນັ້ນ...
+
+270
+00:19:05,800 --> 00:19:11,400
+[BARTON]
+...and exploring it can be painful. The kind of pain most people don't know anything about.
+... ແລະການຄົ້ນຄວ້າມັນສາມາດເປັນອັນຕື່ນເຕັ້ນ.
+ຄວາມເຈັບປວດປະເພດທີ່ຄົນສ່ວນໃຫຍ່ບໍ່ຮູ້ຫຍັງເລີຍ.
+
+271
+00:19:11,900 --> 00:19:13,900
+[BARTON]
+...This must be boring you.
+ນີ້ແມ່ນຕ້ອງເຮັດໃຫ້ເຈົ້າເບື່ອຫນ່າຍ.
+
+272
+00:19:14,400 --> 00:19:16,500
+[CHARLIE]
+Not at all. It's damned interesting.
+ບໍ່ເລີຍ. ມັນຫນ້າສົນໃຈຫຼາຍ.
+
+273
+00:19:17,000 --> 00:19:19,000
+[BARTON]
+Yeah...
+ແມ່ນແລ້ວ...
+
+274
+00:19:19,500 --> 00:19:25,100
+[BARTON]
+...Probably sounds a little grand coming from someone who's writing a wrestling picture for Wallace Beery.
+... ບາງທີມັນເບິ່ງຄືວ່າຍິ່ງໃຫຍ່ ຫນ້ອຍ ຫນຶ່ງ ຈາກຄົນ
+ຫນຶ່ງ ທີ່ ກໍາ ລັງຂຽນຮູບການຕໍ່ສູ້ ສໍາ ລັບວາວລາສ ເບຣີ.
+
+275
+00:19:25,600 --> 00:19:31,600
+[CHARLIE]
+Beery! You got no beef there! He's good.  Hell of an actor � though, for my money, you can't beat Jack Oakie. A stitch, Oakie. Funny stuff, funny stuff. But don't get me wrong � Beery, a wrestling picture, that could be a pip. Wrestled some myself back in school. I guess you know the basic moves.
+ເບີຣີ! ເຈົ້າບໍ່ມີຊີ້ນງົວຢູ່ບ່ອນນັ້ນ! ລາວດີ. ເຖິງຢ່າງໃດກໍ່ຕາມນັກສະແດງທີ່ດີເລີດ, ສໍາ ລັບເງິນຂອງຂ້ອຍ, ເຈົ້າບໍ່ສາມາດເອົາຊະນະແຈກ ໂອເກີໄດ້. ການຕັດ, ໂອບເກີ.
+ສິ່ງມ່ວນຊື່ນ, ສິ່ງມາກ. ແຕ່ຢ່າເຂົ້າໃຈຂ້ອຍຜິດເບີຣີ, ຮູບການຕໍ່ສູ້, ນັ້ນອາດຈະເປັນທໍ່. ຂ້ອຍໄດ້ຕໍ່ສູ້ບາງຢ່າງກັບຄືນໄປໂຮງຮຽນ. ຂ້ອຍຄິດວ່າເຈົ້າຮູ້ການເຄື່ອນໄຫວພື້ນຖານ.
+
+276
+00:19:32,100 --> 00:19:36,650
+[BARTON]
+Nope, never watched any. I'm not that interested in the act itself �
+ບໍ່, ບໍ່ເຄີຍເບິ່ງຫຍັງເລີຍ. ຂ້ອຍບໍ່ສົນໃຈການສະແດງຕົວເອງຫຼາຍ
+
+277
+00:19:37,150 --> 00:19:43,100
+[CHARLIE]
+Okay, but hell, you should know what it is. I can show you in about thirty seconds.
+ດີແລ້ວ, ແຕ່ແມ, ເຈົ້າຄວນຮູ້ວ່າມັນເປັນຫຍັງ.
+ຂ້ອຍສາມາດສະແດງໃຫ້ເຈົ້າໃນເວລາປະມານສາມສິບວິນາທີ.
+
+278
+00:19:43,600 --> 00:19:48,850
+[CHARLIE]
+...You're a little out of your weight class, but just for purposes of demonstration �
+ເຈົ້າຢູ່ພາຍນອກປະເພດນ້ ໍາ ຫນັກ ຂອງທ່ານເລັກນ້ອຍ
+, ແຕ່ພຽງແຕ່ເພື່ອຈຸດປະສົງຂອງການສະແດງ
+
+279
+00:19:49,350 --> 00:19:51,350
+[BARTON]
+That's all right, really �
+ມັນບໍ່ເປັນຫຍັງ, ແທ້ໆແລ້ວ
+
+280
+00:19:51,850 --> 00:19:57,850
+[CHARLIE]
+Not a bit of it, compadre! Easiest thing in the world! You just get down on your knees to my left, slap your right hand here...
+ບໍ່ເປັນຫຍັງເລີຍ, ຄູ່ຮ່ວມງານ! ສິ່ງງ່າຍທີ່ສຸດໃນໂລກ!
+ເຈົ້າພຽງແຕ່ລົງໃສ່ເຂົ່າຢູ່ທາງຊ້າຍຂອງຂ້ອຍ, ຕີມືຂວາຂອງທ່ານຢູ່ນີ້...
+
+281
+00:19:58,350 --> 00:20:00,350
+[CHARLIE]
+...and your left hand here.
+... ແລະມືຊ້າຍຂອງທ່ານຢູ່ນີ້.
+
+282
+00:20:00,850 --> 00:20:02,850
+[CHARLIE]
+...You can do it, champ!
+ເຈົ້າສາມາດເຮັດໄດ້, ແຊມປິນ!
+
+283
+00:20:03,350 --> 00:20:09,350
+[CHARLIE]
+...All right now, when I say "Ready... wrestle!"  you try and pin me, and I try and pin you. That's the whole game. Got it?
+... ດີແລ້ວດຽວນີ້, ເມື່ອຂ້ອຍເວົ້າວ່າ"ພ້ອມແລ້ວ... ການຕໍ່ສູ້!"
+ເຈົ້າພະຍາຍາມຈັບຂ້ອຍ, ແລະຂ້ອຍພະຍາຍາມຈັບເຈົ້າ. ນັ້ນແມ່ນເກມທັງ ຫມົດ. ເຂົ້າໃຈບໍ?
+
+284
+00:20:09,850 --> 00:20:11,850
+[BARTON]
+...Yeah, okay.
+ແມ່ນແລ້ວ, ດີ.
+
+285
+00:20:12,350 --> 00:20:14,350
+[CHARLIE]
+Ready... wrestle!
+ພ້ອມແລ້ວ... ການຕໍ່ສູ້!
+
+286
+00:20:14,850 --> 00:20:20,800
+[CHARLIE]
+Damn, there I go again. We're gonna wake the downstairs neighbors.  I didn't hurt ya, did I?
+ສະບາຍດີ, ຂ້ອຍໄປອີກແລ້ວ. ພວກເຮົາຈະຕື່ນເພື່ອນບ້ານຢູ່ລຸ່ມ
+. ຂ້ອຍບໍ່ໄດ້ເຮັດໃຫ້ເຈົ້າເຈັບປວດ, ແມ່ນບໍ?
+
+287
+00:20:21,300 --> 00:20:23,300
+[BARTON]
+It's okay, it's okay.
+ບໍ່ເປັນຫຍັງ, ມັນບໍ່ເປັນຫຍັງ.
+
+288
+00:20:23,800 --> 00:20:29,800
+[CHARLIE]
+Well, that's all that wrestling is. Except usually there's more grunting and squirming before the pin. Well, it's your first time. And you're out of your weight class.
+ດີ, ນັ້ນແມ່ນທັງຫມົດທີ່ການຕໍ່ສູ້ແມ່ນ. ຍົກເວັ້ນວ່າປົກກະຕິແລ້ວມີການສັ່ນສະເທືອນແລະສັບຊ້ອນຫຼາຍຂຶ້ນກ່ອນປິນ
+. ດີ, ມັນແມ່ນຄັ້ງ ທໍາ ອິດຂອງທ່ານ. ແລະທ່ານອອກຈາກປະເພດນ້ ໍາ ຫນັກ ຂອງທ່ານ.
+
+289
+00:20:30,300 --> 00:20:32,300
+[CHARLIE]
+...Jesus, I did hurt you!
+ພຣະເຢຊູ, ຂ້ອຍເຮັດໃຫ້ເຈົ້າເຈັບປວດແທ້ໆ!
+
+290
+00:20:32,800 --> 00:20:36,300
+[CHARLIE]
+...I'm just a big, clumsy lug. I sure do apologize.
+ຂ້ອຍພຽງແຕ່ເປັນກະຕູ້ໃຫຍ່ແລະໂຊກຮ້າຍ. ຂ້ອຍຂໍໂທດແນ່ນອນ.
+
+291
+00:20:36,800 --> 00:20:38,800
+[CHARLIE]
+...You sure you're okay?
+ເຈົ້າແນ່ໃຈວ່າເຈົ້າດີບໍ?
+
+292
+00:20:39,300 --> 00:20:45,300
+[BARTON]
+I'm fine, Charlie. Really I am. Actually, it's been helpful, but I guess I should get back to work.
+ຂ້ອຍບໍ່ເປັນຫຍັງແຊລລີ. ຂ້ອຍເປັນແທ້ໆ. ໃນຄວາມເປັນຈິງ,
+ມັນໄດ້ຊ່ວຍເຫຼືອຫຼາຍ, ແຕ່ຂ້ອຍຄິດວ່າຂ້ອຍຄວນກັບຄືນໄປບ່ອນເຮັດວຽກ.
+
+293
+00:20:45,800 --> 00:20:50,700
+[CHARLIE]
+Well, it wasn't fair of me to do that. I'm pretty well endowed physically.
+ດີ, ມັນບໍ່ຍຸຕິທໍາຈາກຂ້ອຍທີ່ຈະເຮັດແບບນັ້ນ
+. ຂ້ອຍມີຄວາມສາມາດທາງດ້ານຮ່າງກາຍດີຫຼາຍ.
+
+294
+00:20:51,200 --> 00:20:57,200
+[CHARLIE]
+...Don't feel bad, though. I wouldn't be much of a match for you at mental gymnastics. Gimme a holler if you need anything.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ຢ່າຮູ້ສຶກບໍ່ດີ. ຂ້ອຍຈະບໍ່ເປັນຄູ່ແຂ່ງຫຼາຍ ສໍາ
+ລັບເຈົ້າໃນການອອກ ກໍາ ລັງກາຍທາງຈິດໃຈ. ໃຫ້ຂ້ອຍຮ້ອງໄຫ້ຖ້າເຈົ້າຕ້ອງການຫຍັງ.
+
+295
+00:20:57,700 --> 00:21:01,550
+[MAYHEW]
+If I close m'eyes I can almost smell the live oak.
+ຖ້າຂ້ອຍປິດຕາຂ້ອຍເກືອບສາມາດກິ່ນຫອມຕົ້ນໄມ້ສົດໄດ້.
+
+296
+00:21:02,050 --> 00:21:04,050
+[AUDREY]
+That's hamburger grease, Bill.
+ນັ້ນແມ່ນໄຂມັນແຮມເບີກເກີ, ບິລ.
+
+297
+00:21:04,550 --> 00:21:08,050
+[MAYHEW]
+Well, m'olfactory's turnin' womanish on me � lyin' and deceitful...
+ດີ, ໂຮງງານກິ່ນຫອມຂອງຂ້ອຍ ກໍາ
+ລັງກາຍເປັນແມ່ຍິງຕໍ່ຂ້ອຍຕົວະແລະຕົວະ...
+
+298
+00:21:08,550 --> 00:21:14,550
+[MAYHEW]
+...Still, I must say. I haven't felt peace like this since the grand productive days. Don't you find it so, Barton? Ain't writin' peace?
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍຕ້ອງເວົ້າວ່າ. ຂ້ອຍບໍ່ເຄີຍຮູ້ສຶກຄວາມສະຫງົບແບບນີ້ນັບຕັ້ງແຕ່ມື້ທີ່ມີຜົນຜະລິດທີ່ຍິ່ງໃຫຍ່
+. ເຈົ້າບໍ່ເຫັນວ່າມັນເປັນດັ່ງນັ້ນບໍ, ບາຕັນ? ບໍ່ຂຽນສັນຕິພາບບໍ?
+
+299
+00:21:15,050 --> 00:21:17,050
+[BARTON]
+Well... actually, no Bill...
+ດີ... ໃນຄວາມເປັນຈິງ, ບໍ່ມີບິລ...
+
+300
+00:21:17,550 --> 00:21:23,550
+[BARTON]
+...No, I've always found that writing comes from a great inner pain. Maybe it's a pain that comes from a realization that one must do something for one's fellow man � to help somehow to ease his suffering.  Maybe it's a personal pain. At any rate, I don't believe good work is possible without it.
+ບໍ່, ຂ້ອຍເຄີຍພົບວ່າການຂຽນມາຈາກຄວາມເຈັບປວດພາຍໃນທີ່ຍິ່ງໃຫຍ່. ບາງທີມັນເປັນຄວາມທຸກທໍລະມານທີ່ມາຈາກຄວາມຮັບຮູ້ວ່າຄົນຕ້ອງເຮັດບາງສິ່ງບາງຢ່າງ ສໍາ
+ລັບຄົນເພື່ອນຮ່ວມງານຂອງລາວເພື່ອຊ່ວຍຜ່ອນຜັນຄວາມທຸກຍາກຂອງລາວຢ່າງໃດກໍ່ຕາມ.ບາງທີມັນແມ່ນຄວາມເຈັບ ປວດສ່ວນຕົວ. ຢ່າງໃດກໍຕາມ, ຂ້ອຍບໍ່ເຊື່ອວ່າວຽກທີ່ດີສາມາດເຮັດໄດ້ໂດຍບໍ່ມີມັນ.
+
+301
+00:21:24,050 --> 00:21:30,050
+[MAYHEW]
+Mmm. Wal, me, I just enjoy maikn' things up. Yessir. Escape... It's when I can't write, can't escape m'self, that I want to tear m'head off and run screamin' down the street with m'balls in a fruitpickers pail. Mm...
+ມມ. ວາລ, ຂ້ອຍ, ຂ້ອຍພຽງແຕ່ເພີດເພີນກັບການສ້າງສິ່ງຕ່າງໆຂຶ້ນ. ເຢຊີຣ໌. ການຫນີ... ມັນແມ່ນເມື່ອຂ້ອຍບໍ່ສາມາດຂຽນໄດ້,
+ບໍ່ສາມາດຫນີຕົວເອງໄດ້, ວ່າຂ້ອຍຢາກຕັດຫົວຂອງຂ້ອຍອອກແລະແລ່ນຮ້ອງໄຫ້ລົງຖະຫນົນດ້ວຍບານຂອງຂ້ອຍໃນຖັງເກັບຫມາກໄມ້. ມມ...
+
+302
+00:21:30,550 --> 00:21:32,550
+[MAYHEW]
+...This'll sometimes help.
+ນີ້ຈະຊ່ວຍບາງຄັ້ງ.
+
+303
+00:21:33,050 --> 00:21:35,050
+[AUDREY]
+That doesn't help anything, Bill.
+ມັນບໍ່ໄດ້ຊ່ວຍຫຍັງເລີຍ, ບິລ.
+
+304
+00:21:35,550 --> 00:21:39,400
+[BARTON]
+That's true, Bill. I've never found it to help my writing.
+ນັ້ນແມ່ນຄວາມຈິງ, ບິລ. ຂ້ອຍບໍ່ເຄີຍພົບມັນເພື່ອຊ່ວຍການຂຽນຂອງຂ້ອຍ.
+
+305
+00:21:39,900 --> 00:21:44,100
+[MAYHEW]
+Your writing? Son, have you ever heard the story of Soloman's mammy-
+ການຂຽນຂອງທ່ານບໍ? ລູກຊາຍ,
+ເຈົ້າເຄີຍໄດ້ຍິນເລື່ອງຂອງແມ່ຂອງໂຊໂລມານບໍ...
+
+306
+00:21:44,600 --> 00:21:49,850
+[AUDREY]
+You should read this, Barton. I think it's Bill's finest, or among his finest anyway.
+ເຈົ້າຄວນອ່ານສິ່ງນີ້, ບາຕັນ. ຂ້ອຍຄິດວ່າມັນດີທີ່ສຸດຂອງບິລ
+, ຫຼືໃນບັນດາທີ່ດີທີ່ສຸດຂອງລາວຢ່າງໃດກໍ່ຕາມ.
+
+307
+00:21:50,350 --> 00:21:55,950
+[MAYHEW]
+So now I'm s'posed to roll over like an ol' bitch dog gettin' ger belly scratched.
+ສະນັ້ນດຽວນີ້ຂ້ອຍຄວນຫັນໄປຄືກັບຫມາແຊກແຊງເກົ່າທີ່ຖືກຂັດທ້ອງຂອງຄົນອື່ນ
+.
+
+308
+00:21:56,450 --> 00:21:58,450
+[AUDREY]
+Bill �
+ບິລ
+
+309
+00:21:58,950 --> 00:22:04,950
+[BARTON]
+Look, maybe it's none of my business, but a man with your talent � don't you think your first obligation would be to your gift? Shouldn't you be doing whatever you have to do to work again?
+ເບິ່ງ, ບາງທີມັນບໍ່ແມ່ນເລື່ອງຂອງຂ້ອຍ, ແຕ່ຜູ້ຊາຍທີ່ມີຄວາມສາມາດຂອງທ່ານບໍ່ຄິດວ່າພັນທະ ທໍາ
+ອິດຂອງທ່ານຈະເປັນຂອງຂວັນຂອງທ່ານບໍ? ເຈົ້າບໍ່ຄວນເຮັດທຸກຢ່າງທີ່ທ່ານຕ້ອງເຮັດເພື່ອເຮັດວຽກອີກຄັ້ງບໍ?
+
+310
+00:22:05,450 --> 00:22:07,550
+[MAYHEW]
+And what would that be, son?
+ແລະມັນຈະເປັນຫຍັງ, ລູກຊາຍ?
+
+311
+00:22:08,050 --> 00:22:14,050
+[BARTON]
+I don't know exactly. But I do know what you're doing with that drink. You're cutting yourself off from your gift, and from me and Audrey, and from your fellow man, and from everything your art is about.
+ຂ້ອຍບໍ່ຮູ້ຢ່າງແນ່ນອນ. ແຕ່ຂ້ອຍຮູ້ວ່າເຈົ້າ ກໍາ ລັງເຮັດຫຍັງກັບເຄື່ອງດື່ມນັ້ນ. ເຈົ້າ ກໍາ
+ລັງຕັດຕົວເອງອອກຈາກຂອງຂວັນຂອງທ່ານ, ແລະຈາກຂ້ອຍແລະໂອເດຣີ, ຈາກເພື່ອນຮ່ວມງານຂອງທ່ານ, ຈາກທຸກຢ່າງທີ່ສິລະປະຂອງທ່ານກ່ຽວກັບ.
+
+312
+00:22:14,550 --> 00:22:20,550
+[MAYHEW]
+No son, thisahere moonshine's got nothin' to do with shuttin' folks out. No, I'm usin' it to build somethin'.
+ບໍ່ລູກຊາຍ, ນ້ ໍາ ເດືອນທີ່ນີ້ບໍ່ມີຫຍັງກ່ຽວຂ້ອງກັບການປິດຄົນອອກ
+. ບໍ່, ຂ້ອຍ ກໍາ ລັງໃຊ້ມັນເພື່ອສ້າງບາງສິ່ງບາງຢ່າງ.
+
+313
+00:22:21,050 --> 00:22:23,050
+[BARTON]
+What's that?
+ນັ້ນແມ່ນຫຍັງ?
+
+314
+00:22:23,550 --> 00:22:29,550
+[MAYHEW]
+I'm buildin' a levee. Gulp by gulp, brick by brick. Raisin' up a levee to keep that ragin' river of manure from lappin' at m'door.
+ຂ້ອຍ ກໍາ ລັງສ້າງເຂື່ອນໄຟຟ້າ. Gulp ຕໍ່ gulp, brick ຕໍ່ brick. ການຍົກເຂົ້ານ້
+ໍາ ເພື່ອຮັກສາແມ່ນໍ້າຂອງຂີ້ເຫຍື້ອທີ່ໂຊກຮ້າຍຈາກການລອຍຢູ່ປະຕູຂອງຂ້ອຍ.
+
+315
+00:22:30,050 --> 00:22:34,250
+[AUDREY]
+Maybe you better too, Barton. Before you get buried under his manure.
+ບາງທີເຈົ້າຄວນຄືກັນ, ບາຕັນ.
+ກ່ອນທີ່ທ່ານຈະຖືກຝັງໄວ້ພາຍໃຕ້ຂີ້ເຫຍື້ອຂອງລາວ.
+
+316
+00:22:34,750 --> 00:22:39,650
+[MAYHEW]
+M'honey pretends to be impatient with me, Barton, but she'll put up with anything.
+ແມວຂອງຂ້ອຍເຮັດແບບວ່າບໍ່ອົດທົນກັບຂ້ອຍ
+, ບາຕັນ, ແຕ່ນາງຈະຍອມຮັບທຸກຢ່າງ.
+
+317
+00:22:40,150 --> 00:22:42,250
+[AUDREY]
+Not anything, Bill. Don't test me.
+ບໍ່ມີຫຍັງເລີຍ, ບິລ. ຢ່າທົດສອບຂ້ອຍ.
+
+318
+00:22:42,750 --> 00:22:46,600
+[BARTON]
+You're lucky she puts up with as much as she does.
+ເຈົ້າໂຊກດີທີ່ນາງຍອມຮັບຫຼາຍເທົ່າທີ່ນາງເຮັດ.
+
+319
+00:22:47,100 --> 00:22:53,100
+[MAYHEW]
+Am I? Maybe to a schoolboy's eye. People who know about the human heart, though, mebbe they'd say, Bill over here, he gives his honey love, and she pays him back with pity � the basest coin there is.
+ຂ້ອຍເປັນບໍ? ບາງທີຕໍ່ຕາຂອງເດັກນັກຮຽນ. ຄົນທີ່ຮູ້ກ່ຽວກັບຫົວໃຈຂອງມະນຸດ, ເຖິງຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍພວກເຂົາຈະເວົ້າວ່າ
+, ບິລຢູ່ບ່ອນນີ້, ລາວໃຫ້ຄວາມຮັກຫວານຂອງລາວ, ແລະນາງຈ່າຍຄືນລາວດ້ວຍຄວາມເມດຕາເງິນທີ່ຕໍ່າທີ່ສຸດທີ່ມີຢູ່.
+
+320
+00:22:53,600 --> 00:22:55,600
+[AUDREY]
+Stop it, Bill!
+ຢຸດຢັ້ງ, ບິລ!
+
+321
+00:22:56,100 --> 00:22:59,950
+[MAYHEW]
+The truth, m'honey, is a tart that does not bear scrutiny.
+ຄວາມຈິງແມ, ແມ່ນກະຕຸ້ນທີ່ບໍ່ສາມາດຮັບການກວດສອບໄດ້.
+
+322
+00:23:00,450 --> 00:23:02,550
+[MAYHEW]
+Breach my levee at your peril!
+ລະເມີດເຂື່ອນຂອງຂ້ອຍດ້ວຍຄວາມສ່ຽງຂອງທ່ານ!
+
+323
+00:23:03,050 --> 00:23:05,050
+[AUDREY]
+Let him go.
+ໃຫ້ລາວໄປ.
+
+324
+00:23:05,550 --> 00:23:10,100
+[BARTON]
+That son of a bitch... Don't get me wrong, he's a fine writer.
+ລູກແຊກແຊ... ຢ່າເຂົ້າໃຈຂ້ອຍຜິດ, ລາວເປັນນັກຂຽນທີ່ດີເລີດ.
+
+325
+00:23:10,600 --> 00:23:15,150
+[MAYHEW]
+I'll jus' walk on down to the Pacific, and from there I'll... improvise.
+ຂ້ອຍພຽງແຕ່ຍ່າງລົງໄປຫາມະຫາສະຫມຸດປາຊີຟິກ
+, ແລະຈາກບ່ອນນັ້ນຂ້ອຍຈະ... improvise.
+
+326
+00:23:15,650 --> 00:23:17,650
+[BARTON]
+Are you all right?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+327
+00:23:18,150 --> 00:23:20,250
+[MAYHEW]
+Silent upon a hill in Darien!
+ຄວາມງຽບສະຫງົບຢູ່ເທິງພູໃນດາເຣນ!
+
+328
+00:23:20,750 --> 00:23:23,200
+[BARTON]
+Audrey, you can't put up with this.
+ອອດຣີ, ເຈົ້າບໍ່ສາມາດຍອມຮັບສິ່ງນີ້ໄດ້.
+
+329
+00:23:23,700 --> 00:23:26,500
+[AUDREY]
+...Oh Barton, I feel so... sorry for him!
+ໂອ້ ບາຕັນ, ຂ້ອຍຮູ້ສຶກຫຼາຍ... ຂໍໂທດລາວ!
+
+330
+00:23:27,000 --> 00:23:29,450
+[BARTON]
+What?! He's a son of a bitch!
+ຫຍັງ?! ລາວເປັນໂຊກຮ້າຍ!
+
+331
+00:23:29,950 --> 00:23:35,900
+[AUDREY]
+No, sometimes he just... well, he thinks about Estelle. His wife still lives in Fayettesville. She's... disturbed.
+ບໍ່, ບາງຄັ້ງລາວພຽງແຕ່... ດີ, ລາວຄິດກ່ຽວກັບເອສເຕລ.
+ເມຍຂອງລາວຍັງອາໄສຢູ່ໃນຟາຍເຕສວິລ. ນາງ... ກະຕຸ້ນໃຈ.
+
+332
+00:23:36,400 --> 00:23:38,400
+[BARTON]
+Really?...
+ແທ້ຈິງບໍ?...
+
+333
+00:23:38,900 --> 00:23:41,000
+[BARTON]
+...Well that doesn't excuse his behavior.
+ດີນັ້ນບໍ່ໄດ້ຂໍໂທດການປະພຶດຂອງລາວ.
+
+334
+00:23:41,500 --> 00:23:45,350
+[AUDREY]
+He'll wander back when he's sober and apologize. He always does.
+ລາວຈະຍ່າງກັບມາເມື່ອລາວສະບາຍໃຈແລະຂໍໂທດ. ລາວເຮັດຢູ່ສະເຫມີ.
+
+335
+00:23:45,850 --> 00:23:48,300
+[BARTON]
+Okay, but that doesn't excuse his �
+ດີ, ແຕ່ມັນບໍ່ໄດ້ຂໍໂທດລາວ
+
+336
+00:23:48,800 --> 00:23:50,800
+[AUDREY]
+Barton. Empathy requires... understanding.
+ບາຕັນ. ຄວາມເຫັນໃຈຕ້ອງການ... ຄວາມເຂົ້າໃຈ.
+
+337
+00:23:51,300 --> 00:23:53,300
+[BARTON]
+What. What don't I understand?
+ຫຍັງ. ຂ້ອຍບໍ່ເຂົ້າໃຈຫຍັງ?
+
+338
+00:23:53,800 --> 00:23:55,900
+[CHARLIE]
+I hope these are your shoes.
+ຂ້ອຍຫວັງວ່າ ນີ້ແມ່ນເກີບຂອງເຈົ້າ.
+
+339
+00:23:56,400 --> 00:23:58,400
+[BARTON]
+Hi, Charlie.
+ສະບາຍດີ ແຊລລີ.
+
+340
+00:23:58,900 --> 00:24:01,700
+[CHARLIE]
+Because that would mean they gave you mine.
+ເພາະມັນຈະຫມາຍຄວາມວ່າພວກເຂົາໄດ້ໃຫ້ເຈົ້າຂອງຂ້ອຍ.
+
+341
+00:24:02,200 --> 00:24:06,050
+[BARTON]
+Yeah, as a matter of fact they did. Come on in.
+ແມ່ນແລ້ວ, ໃນຄວາມເປັນຈິງພວກເຂົາເຮັດ. ເຂົ້າມາ.
+
+342
+00:24:06,550 --> 00:24:10,750
+[CHARLIE]
+Jesus, what a day I've had. Ever had one of those days?
+ພຣະເຢຊູ, ຂ້ອຍມີມື້ໃດ. ເຄີຍມີມື້ ຫນຶ່ງ ໃນນັ້ນບໍ?
+
+343
+00:24:11,250 --> 00:24:13,250
+[BARTON]
+Seems like nothing but, lately.
+ເບິ່ງຄືວ່າບໍ່ມີຫຍັງນອກຈາກ, ໃນໄລຍະຜ່ານມາ.
+
+344
+00:24:13,750 --> 00:24:19,750
+[CHARLIE]
+Jesus, what a day. Felt like I couldn't've sold ice water in the Sahara. Jesus. Okay, so you don't want insurance, so okay, that's your loss. But God, people can be rude. Feel like I have to talk to a normal person like just to restore a little of my...
+ພຣະເຢຊູ, ມື້ໃດ. ຮູ້ສຶກວ່າຂ້ອຍບໍ່ສາມາດຂາຍນ້ ໍາ ກ້ອນໃນຊາຮາໄດ້. ພຣະເຢຊູ. ດີ, ສະນັ້ນເຈົ້າບໍ່ຕ້ອງການປະກັນໄພ, ສະນັ້ນດີ, ນັ້ນແມ່ນການສູນເສຍຂອງທ່ານ
+. ແຕ່ພຣະເຈົ້າ, ຄົນສາມາດເປັນຄົນໂຊກຮ້າຍໄດ້. ຮູ້ໃຈວ່າຂ້ອຍຕ້ອງເວົ້າກັບຄົນປົກກະຕິເຊັ່ນພຽງແຕ່ເພື່ອຟື້ນຟູ ຫນ້ອຍ ຫນຶ່ງ ຂອງຂ້ອຍ...
+
+345
+00:24:20,250 --> 00:24:23,750
+[BARTON]
+Well, my pleasure. I could use a little lift myself.
+ດີ, ຄວາມຍິນດີຂອງຂ້ອຍ. ຂ້ອຍສາມາດໃຊ້ຍົກຕົວເອງໄດ້ເລັກນ້ອຍ.
+
+346
+00:24:24,250 --> 00:24:26,250
+[CHARLIE]
+A little lift, yeah...
+ການຍົກເລັກນ້ອຍ, ແມ່ນແລ້ວ...
+
+347
+00:24:26,750 --> 00:24:29,200
+[CHARLIE]
+...Good thing they bottle it, huh pal?
+ດີທີ່ພວກເຂົາຈອກມັນ, ແມ່ນບໍ ເພື່ອນ?
+
+348
+00:24:29,700 --> 00:24:35,700
+[CHARLIE]
+...Did I say rude? People can be goddamn cruel. Especially some of their housewives. Okay, so I've got a weight problem. That's my cross to bear. I dunno...
+ຂ້ອຍບອກວ່າໂຊກຮ້າຍບໍ? ຄົນສາມາດເປັນຄົນຮ້າຍແຮງຫຼາຍ. ໂດຍສະເພາະແມ່ເຮືອນຂອງພວກເຂົາບາງຄົນ.
+ດີແລ້ວ, ສະນັ້ນຂ້ອຍມີບັນຫານ້ ໍາ ຫນັກ. ນັ້ນແມ່ນຂ້າມຂ້າມຂອງຂ້ອຍທີ່ຈະທົນທານ. ຂ້ອຍບໍ່ຮູ້...
+
+349
+00:24:36,200 --> 00:24:38,300
+[BARTON]
+Well it's... it's a defense mechanism.
+ດີມັນແມ່ນ... ມັນແມ່ນກົນໄກປ້ອງກັນ.
+
+350
+00:24:38,800 --> 00:24:44,800
+[CHARLIE]
+Defense against what? Insurance? Something they need? Something they should be thanking me for offering? A little peace of mind?...
+ການປ້ອງກັນຕໍ່ຫຍັງ? ປະກັນໄພ? ບາງສິ່ງບາງຢ່າງທີ່ພວກເຂົາຕ້ອງການ?
+ບາງສິ່ງທີ່ພວກເຂົາຄວນຂອບໃຈຂ້ອຍ ສໍາ ລັບການສະ ເຫນີ? ຄວາມສະຫງົບໃຈ ຫນ້ອຍ ຫນຶ່ງ?...
+
+351
+00:24:45,300 --> 00:24:50,900
+[CHARLIE]
+...Finally decided to knock off early, take your advice. Went to see a doctor about this.
+ສຸດທ້າຍຕັດສິນໃຈຢຸດເຊົາກ່ອນ, ເອົາ ຄໍາ ແນະ
+ນໍາ ຂອງທ່ານ. ໄປພົບທ່ານຫມໍກ່ຽວກັບເລື່ອງນີ້.
+
+352
+00:24:51,400 --> 00:24:57,400
+[CHARLIE]
+...He told me it was an ear infection. Ten dollars, please. I said, hell, I told YOU my ear was infected. Why don't YOU give ME ten dollars? Well, THAT led to an argument...
+ລາວບອກຂ້ອຍວ່າມັນເປັນການຕິດເຊື້ອຫູ. ເງິນສິບໂດລາ, ກະລຸນາ. ຂ້ອຍເວົ້າວ່າ, ສະຫວັນນະເຂດ,
+ຂ້ອຍບອກເຈົ້າວ່າຫູຂອງຂ້ອຍຕິດເຊື້ອ. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ໃຫ້ຂ້ອຍເງິນສິບ ໂດລາ? ດີ, ນັ້ນໄດ້ນໍາໄປສູ່ການໂຕ້ຖຽງກັນ...
+
+353
+00:24:57,900 --> 00:25:03,900
+[CHARLIE]
+...Listen to me belly-achin'. As if my problems amounted to a hill of beans. How goes the life of the mind?
+ຟັງຂ້ອຍເຈັບທ້ອງ. ຄືກັບວ່າບັນຫາຂອງຂ້ອຍເທົ່າກັບພູຂອງຖົ່ວເຫຼືອງ
+. ຊີວິດຂອງຈິດໃຈເປັນແນວໃດ?
+
+354
+00:25:04,400 --> 00:25:10,400
+[BARTON]
+Well, it's been better. I can't seem to get going on this thing. That one idea, the one that lets you get started � I still haven't gotten it. Maybe I only had one idea in me � my play. Maybe once that was done, I was done being a writer.  Christ, I feel like a fraud, sitting here staring at this paper.
+ດີ, ມັນດີຂຶ້ນ. ຂ້ອຍເບິ່ງຄືວ່າບໍ່ສາມາດ ດໍາ ເນີນການໃນສິ່ງນີ້ໄດ້. ຄວາມຄິດດຽວນັ້ນ, ຫນຶ່ງ ທີ່ເຮັດໃຫ້ເຈົ້າເລີ່ມຕົ້ນຂ້ອຍຍັງບໍ່ເຂົ້າໃຈມັນ.
+ບາງທີຂ້ອຍມີພຽງແຕ່ຄວາມຄິດດຽວໃນຂ້ອຍບົດສະແດງຂອງຂ້ອຍ.ບາງທີເມື່ອມັນເຮັດແລ້ວ, ຂ້ອຍໄດ້ເຮັດແລ້ວເປັນນັກຂຽນ. ພຣະຄຣິດ, ຂ້ອຍຮູ້ສຶກຄືກັບຕົວະ, ນັ່ງຢູ່ນີ້ເບິ່ງຫນັງສືພິມນີ້.
+
+355
+00:25:10,900 --> 00:25:13,700
+[CHARLIE]
+Those two love-birds next door drivin' you nuts?
+ນົກຮັກສອງໂຕຢູ່ຂ້າງນັ້ນ ກໍາ ລັງເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍບໍ?
+
+356
+00:25:14,200 --> 00:25:16,300
+[BARTON]
+How did you know about that?
+ເຈົ້າຮູ້ເລື່ອງນັ້ນແນວໃດ?
+
+357
+00:25:16,800 --> 00:25:22,800
+[CHARLIE]
+Know about it? I can practically see how they're doin' it. Brother, I wish I had a piece of that.
+ຮູ້ກ່ຽວກັບມັນບໍ? ຂ້ອຍເກືອບເຫັນວ່າພວກເຂົາ ກໍາ
+ລັງເຮັດແນວໃດ. ອ້າຍ, ຂ້ອຍຢາກມີສ່ວນ ຫນຶ່ງ ຂອງນັ້ນ.
+
+358
+00:25:23,300 --> 00:25:25,300
+[BARTON]
+Yeah, but �
+ແມ່ນແລ້ວ, ແຕ່
+
+359
+00:25:25,800 --> 00:25:31,800
+[CHARLIE]
+Seems like I hear everything that goes on in this dump. Pipes or somethin'. I'm just glad I don't have to ply MY trade in the wee-wee hours.
+ເບິ່ງຄືວ່າຂ້ອຍໄດ້ຍິນທຸກຢ່າງທີ່ເກີດຂຶ້ນໃນບ່ອນເກັບມ້ຽນນີ້. ທໍ່ຫຼືບາງສິ່ງບາງຢ່າງ
+. ຂ້ອຍພຽງແຕ່ດີໃຈທີ່ຂ້ອຍບໍ່ຕ້ອງເຮັດການຄ້າຂອງຂ້ອຍໃນຊົ່ວໂມງນ້ອຍໆ.
+
+360
+00:25:32,300 --> 00:25:38,300
+[CHARLIE]
+...Ah, you'll lick this picture business, believe me. You've got a head on your shoulders. What is it they say? Where there's a head, there's a hope?
+... ອາ, ເຈົ້າຈະລ້າງທຸລະກິດຮູບນີ້, ເຊື່ອຂ້ອຍ. ເຈົ້າມີຫົວຢູ່ເທິງກະຕ່າຂອງທ່ານ
+. ພວກເຂົາເວົ້າຫຍັງ? ບ່ອນທີ່ມີຫົວ, ມີຄວາມຫວັງບໍ?
+
+361
+00:25:38,800 --> 00:25:40,800
+[BARTON]
+Where there's life there's hope.
+ບ່ອນທີ່ມີຊີວິດ ມີຄວາມຫວັງ.
+
+362
+00:25:41,300 --> 00:25:43,750
+[CHARLIE]
+That proves you really are a writer!
+ນັ້ນພິສູດວ່າເຈົ້າເປັນນັກຂຽນແທ້ໆ!
+
+363
+00:25:44,250 --> 00:25:49,500
+[BARTON]
+And there's hope for you too, Charlie. Tomorrow I bet you sell a half-dozen policies.
+ແລະມີຄວາມຫວັງ ສໍາ ລັບເຈົ້າເຊັ່ນກັນ, ແຊລລີ.
+ມື້ນີ້ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຈະຂາຍນະໂຍບາຍເຄິ່ງສິບ.
+
+364
+00:25:50,000 --> 00:25:54,200
+[CHARLIE]
+Thanks, brother. But the fact is, I gotta pull up stakes temporarily.
+ຂອບໃຈອ້າຍ. ແຕ່ຄວາມຈິງແມ່ນວ່າ, ຂ້ອຍຕ້ອງດຶງສັກແຊງຊົ່ວຄາວ.
+
+365
+00:25:54,700 --> 00:25:56,700
+[BARTON]
+You're leaving?
+ເຈົ້າ ກໍາ ລັງອອກໄປບໍ?
+
+366
+00:25:57,200 --> 00:26:03,200
+[CHARLIE]
+In a few days. Out to your stompin' grounds as a matter of fact � New York City. Things have gotten all balled up at the Head Office.
+ໃນສອງສາມມື້. ອອກໄປບ່ອນທີ່ສໍ້ໂກງຂອງທ່ານໃນຄວາມເປັນຈິງເມືອງນິວຢອກ
+. ສິ່ງຕ່າງໆໄດ້ຖືກໂບນຂຶ້ນທັງ ຫມົດ ຢູ່ຫ້ອງການໃຫຍ່.
+
+367
+00:26:03,700 --> 00:26:07,200
+[BARTON]
+I'm truly sorry to hear that, Charlie. I'll miss you.
+ຂ້ອຍຂໍໂທດທີ່ໄດ້ຍິນນັ້ນແທ້ໆ, ແຊລລີ. ຂ້ອຍຈະຂາດເຈົ້າ.
+
+368
+00:26:07,700 --> 00:26:13,700
+[CHARLIE]
+Well hell, buddy, don't pull a long face!  This is still home for me � I keep my room, and I'll be back sooner or later...
+ດີແມ, ເພື່ອນ, ຢ່າດຶງໃບຫນ້າຍາວ! ນີ້ແມ່ນຍັງເປັນເຮືອນ ສໍາ
+ລັບຂ້ອຍຂ້ອຍຮັກສາຫ້ອງຂອງຂ້ອຍ, ແລະຂ້ອຍຈະກັບມາກ່ອນຫຼືຫຼ້າສຸດ...
+
+369
+00:26:14,200 --> 00:26:20,200
+[CHARLIE]
+...And � mark my words � by the time I get back you're picture'll be finished. I know it.
+ແລະຫມາຍຄໍາເວົ້າຂອງຂ້ອຍໃນເວລາທີ່ຂ້ອຍກັບມາຮູບຂອງທ່ານຈະສໍາເລັດແລ້ວ
+. ຂ້ອຍຮູ້ມັນ.
+
+370
+00:26:20,700 --> 00:26:26,700
+[BARTON]
+New York can be pretty cruel to strangers, Charlie. If you need a home-cooked meal you just look up Morris and Lillian Fink.  They live on Fulton Street with my uncle Dave.
+ນິວຢອກສາມາດໂຊກຮ້າຍຫຼາຍຕໍ່ຄົນແປກໃຈ, ແຊລລີ. ຖ້າເຈົ້າຕ້ອງການອາຫານທີ່ປຸງແຕ່ງຢູ່ເຮືອນເຈົ້າພຽງແຕ່ຊອກຫາໂມຣີສ
+ແລະ ລີລຽນ ຟິນກ໌. ພວກເຂົາອາໄສຢູ່ຖະຫນົນຟູລຕັນກັບພໍ່ເຖົ້າຂອງຂ້ອຍເດວ.
+
+371
+00:26:27,200 --> 00:26:29,200
+[CHARLIE]
+Christ!
+ພຣະຄຣິດ!
+
+372
+00:26:29,700 --> 00:26:31,700
+[CHARLIE]
+...Your room does that too?
+ຫ້ອງຂອງທ່ານເຮັດແບບນັ້ນຄືກັນບໍ?
+
+373
+00:26:32,200 --> 00:26:35,000
+[BARTON]
+I guess the heat's sweating off the wallpaper.
+ຂ້ອຍຄິດວ່າຄວາມຮ້ອນ ກໍາ ລັງຫວານຈາກເຈ້ຍຝາຜະ ຫນັງ.
+
+374
+00:26:35,500 --> 00:26:37,500
+[CHARLIE]
+What a dump...
+ມັນເປັນບ່ອນເກັບມ້ຽນຫຼາຍປານໃດ...
+
+375
+00:26:38,000 --> 00:26:41,500
+[CHARLIE]
+...I guess it seems pathetic to a guy like you.
+ຂ້ອຍຄິດວ່າມັນເບິ່ງຄືວ່າໂຊກຮ້າຍຕໍ່ຜູ້ຊາຍເຊັ່ນເຈົ້າ.
+
+376
+00:26:42,000 --> 00:26:44,000
+[BARTON]
+Well...
+ດີ...
+
+377
+00:26:44,500 --> 00:26:49,050
+[CHARLIE]
+Well it's pathetic, isn't it? I mean to a guy from New York.
+ດີມັນໂຊກຮ້າຍ, ແມ່ນບໍ? ຂ້ອຍຫມາຍຄວາມວ່າກັບຜູ້ຊາຍຈາກນິວຢອກ.
+
+378
+00:26:49,550 --> 00:26:51,550
+[BARTON]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+379
+00:26:52,050 --> 00:26:54,150
+[CHARLIE]
+This kind of heat. It's pathetic.
+ຄວາມຮ້ອນແບບນີ້. ມັນຫນ້າໂຊກຮ້າຍ.
+
+380
+00:26:54,650 --> 00:26:57,100
+[BARTON]
+Well, I guess you pick your poison.
+ດີ, ຂ້ອຍຄິດວ່າເຈົ້າເລືອກສານພິດຂອງທ່ານ.
+
+381
+00:26:57,600 --> 00:26:59,600
+[CHARLIE]
+So they say.
+ພວກເຂົາເວົ້າດັ່ງນັ້ນ.
+
+382
+00:27:00,100 --> 00:27:02,900
+[BARTON]
+Don't pick up and leave without saying goodbye.
+ຢ່າເອົາແລະອອກໄປໂດຍບໍ່ມີການອວຍພອນ.
+
+383
+00:27:03,400 --> 00:27:05,850
+[CHARLIE]
+Course not, compadre. You'll see me again.
+ແນ່ນອນວ່າບໍ່ແມ່ນ, ຄູ່ຮ່ວມງານ. ເຈົ້າຈະເຫັນຂ້ອຍອີກຄັ້ງ.
+
+384
+00:27:06,350 --> 00:27:08,350
+[SECRETARY]
+Barton Fink.
+ບາຕັນ ຟິນກ໌.
+
+385
+00:27:08,850 --> 00:27:10,850
+[GEISLER]
+Yeah. Fink. Come in.
+ແມ່ນແລ້ວ. ຟິນກ໌. ເຂົ້າມາ.
+
+386
+00:27:11,350 --> 00:27:15,550
+[GEISLER]
+Wuddya got for me � what the hell happened to your face?
+ວູດີຍມີຫຍັງເກີດຂຶ້ນກັບໃບຫນ້າຂອງທ່ານ?
+
+387
+00:27:16,050 --> 00:27:18,150
+[BARTON]
+Nothing. It's just a mosquito bite.
+ບໍ່ມີຫຍັງເລີຍ. ມັນເປັນພຽງແຕ່ການກັດແມງໄມ້ເທົ່ານັ້ນ.
+
+388
+00:27:18,650 --> 00:27:24,650
+[GEISLER]
+Like hell it is; there are no mosquitos in Los Angeles. Mosquitos breed in swamps � this is a desert town. Wuddya got for me?
+ມັນເປັນແນວໃດ; ບໍ່ມີແມງໄມ້ໃນລັສແອນເຈລສ໌.
+ແມງໄມ້ລ້ຽງພັນໃນສະບາບນີ້ແມ່ນເມືອງທະເລຊາຍ. ວູດີຍໄດ້ ສໍາ ລັບຂ້ອຍບໍ?
+
+389
+00:27:25,150 --> 00:27:27,150
+[BARTON]
+Well I...
+ດີຂ້ອຍ...
+
+390
+00:27:27,650 --> 00:27:30,800
+[GEISLER]
+On the Beery picture! Where are we? Wuddya got?
+ໃນຮູບເບີຣີ! ພວກເຮົາຢູ່ໃສ? ວູດີຍມີບໍ?
+
+391
+00:27:31,300 --> 00:27:35,500
+[BARTON]
+Well, to tell you the truth, I'm having some trouble getting started�
+ດີ, ເພື່ອບອກເຈົ້າຄວາມຈິງ, ຂ້ອຍມີຄວາມຫຍຸ້ງຍາກບາງຢ່າງໃນການເລີ່ມຕົ້ນ
+
+392
+00:27:36,000 --> 00:27:39,850
+[GEISLER]
+Getting STARTED! Christ Jesus! Started?!  You mean you don't have ANYthing?!
+ເລີ່ມຕົ້ນ! ພຣະຄຣິດພຣະເຢຊູ! ເລີ່ມຕົ້ນບໍ?
+! ເຈົ້າຫມາຍຄວາມວ່າເຈົ້າບໍ່ມີຫຍັງເລີຍບໍ?!
+
+393
+00:27:40,350 --> 00:27:42,350
+[BARTON]
+Well not much.
+ດີບໍ່ຫຼາຍ.
+
+394
+00:27:42,850 --> 00:27:48,850
+[GEISLER]
+What do you think this is? HAMLET? GONE WITH THE WIND? RUGGLES OF RED GAP? It's a goddamn B picture! Big men in tights! You know the drill!
+ເຈົ້າຄິດວ່ານີ້ເປັນຫຍັງ? ແຮມເລັດ? ໄປດ້ວຍລົມບໍ? ກະຕຸ້ນຂອງຊ່ອງຫວ່າງສີແດງບໍ?
+ມັນແມ່ນຮູບ B ທີ່ຮ້າຍແຮງ! ຜູ້ຊາຍໃຫຍ່ໃສ່ເສື້ອຜ້າແອວ! ເຈົ້າຮູ້ການຝຶກອົບຮົມ!
+
+395
+00:27:49,350 --> 00:27:53,550
+[BARTON]
+I'm afraid I don't really understand that genre. maybe that's the prob-
+ຂ້ອຍຢ້ານວ່າຂ້ອຍບໍ່ເຂົ້າໃຈປະເພດນັ້ນແທ້ໆ. ບາງທີນັ້ນແມ່ນບັນຫາ -
+
+396
+00:27:54,050 --> 00:27:58,250
+[GEISLER]
+Understand shit! I though you were gonna consult another writer on this!
+ຂ້ອຍຄິດວ່າເຈົ້າຈະປຶກສາຫາລືນັກຂຽນຄົນອື່ນກ່ຽວກັບເລື່ອງນີ້!
+
+397
+00:27:58,750 --> 00:28:00,850
+[BARTON]
+Well, I've talked to Bill Mayhew-
+ດີ, ຂ້ອຍໄດ້ເວົ້າກັບບິລ ເມເຮວ...
+
+398
+00:28:01,350 --> 00:28:04,150
+[GEISLER]
+Bill Mayhew! Some help! The guy's a souse!
+ບິລ ເມເຮວ! ຊ່ວຍເຫຼືອບາງຢ່າງ! ຜູ້ຊາຍຄົນນັ້ນເປັນ souse!
+
+399
+00:28:04,650 --> 00:28:06,650
+[BARTON]
+He's a great writer �
+ລາວເປັນນັກຂຽນທີ່ຍິ່ງໃຫຍ່
+
+400
+00:28:07,150 --> 00:28:09,150
+[GEISLER]
+A souse!
+ໂຊສ໌!
+
+401
+00:28:09,650 --> 00:28:13,150
+[BARTON]
+You don't understand. He's in pain, because he can't write-
+ເຈົ້າບໍ່ເຂົ້າໃຈ. ລາວເຈັບປວດ, ເພາະວ່າລາວບໍ່ສາມາດຂຽນໄດ້ -
+
+402
+00:28:13,650 --> 00:28:19,250
+[GEISLER]
+Souse! Souse! He manages to write his name on the back of his paycheck every week!
+ໂຊສ໌! ໂຊຊ໌!
+ລາວສາມາດຂຽນຊື່ຂອງລາວໃສ່ດ້ານຫຼັງຂອງເງິນເດືອນຂອງລາວທຸກໆອາທິດ!
+
+403
+00:28:19,750 --> 00:28:22,900
+[BARTON]
+But... I thought no one cared about this picture.
+ແຕ່... ຂ້ອຍຄິດວ່າບໍ່ມີໃຜສົນໃຈຮູບນີ້.
+
+404
+00:28:23,400 --> 00:28:29,400
+[GEISLER]
+You thought! Where'd you get THAT from?  You thought! I don't know what the hell you said to Lipnik, but the sonofabitch LIKES you! You understand that, Fink? He LIKES you! He's taken an interest. NEVER make Lipnik like you. NEVER!
+ເຈົ້າຄິດວ່າ! ເຈົ້າໄດ້ຮັບສິ່ງນັ້ນຈາກໃສ? ເຈົ້າຄິດ! ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງກັບລີປນິກ, ແຕ່ໄອ້ສັດນະລົກສ໌ມັກເຈົ້າ
+! ເຈົ້າເຂົ້າໃຈວ່າ, ຟິນກ໌? ລາວຮັກເຈົ້າ! ລາວມີຄວາມສົນໃຈ. ບໍ່ເຄີຍເຮັດໃຫ້ລີບນິກມັກເຈົ້າເລີຍ. ບໍ່ມີ!
+
+405
+00:28:29,900 --> 00:28:31,900
+[BARTON]
+I don't understand-
+ຂ້ອຍບໍ່ເຂົ້າໃຈ...
+
+406
+00:28:32,400 --> 00:28:38,400
+[GEISLER]
+Are you deaf, he LIKES you! He's taken an interest! What the hell did you say to him?
+ເຈົ້າຫູຫນວກບໍ, ລາວມັກເຈົ້າ! ລາວມີຄວາມສົນໃຈ! ເຈົ້າເວົ້າຫຍັງກັບລາວ?
+
+407
+00:28:38,900 --> 00:28:40,900
+[BARTON]
+I didn't say anything-
+ຂ້ອຍບໍ່ໄດ້ເວົ້າຫຍັງເລີຍ...
+
+408
+00:28:41,400 --> 00:28:47,400
+[GEISLER]
+Well he's taken an interest!  That means he'll make your life hell, which I could care less about, but since I drew the short straw to supervise this turkey, he's gonna be all over me too! Fat-assed sonofabitch called me yesterday to ask how it's going � don't worry, I covered for you. Told him you were making progress and we were all very excited. I told him it was great, so now MY ass is on the line.  He wants you to tell him all about it tomorrow.
+ດີລາວໄດ້ເອົາຄວາມສົນໃຈ! ນັ້ນ ຫມາຍ ຄວາມວ່າລາວຈະເຮັດໃຫ້ຊີວິດຂອງທ່ານເປັນອານາໄມ, ເຊິ່ງຂ້ອຍສາມາດສົນໃຈ ຫນ້ອຍ ກວ່າ, ແຕ່ນັບຕັ້ງແຕ່ຂ້ອຍໄດ້ດຶງກະດານສັ້ນເພື່ອເບິ່ງແຍງກະຕູ້ນີ້, ລາວຈະຢູ່ເທິງຂ້ອຍອີກດ້ວຍ!
+ໄອ້ສັດນະລົກທີ່ໄຂມັນໄດ້ໂທຫາຂ້ອຍມື້ວານນີ້ເພື່ອຖາມວ່າມັນຈະເປັນແນວໃດ ຢ່າກັງວົນ, ຂ້ອຍປົກຄຸມ ສໍາ ລັບເຈົ້າ. ບອກລາວວ່າເຈົ້າ ກໍາ ລັງກ້າວຫນ້າແລະພວກເຮົາທຸກຄົນມີຄວາມຕື່ນເຕັ້ນຫຼາຍ. ຂ້ອຍບອກລາວວ່າມັນດີເລີດ,
+
+409
+00:28:47,900 --> 00:28:50,000
+[BARTON]
+I can't write anything by tomorrow.
+ຂ້ອຍບໍ່ສາມາດຂຽນຫຍັງໄດ້ໃນມື້ອື່ນ.
+
+410
+00:28:50,500 --> 00:28:56,450
+[GEISLER]
+Who said write? Jesus, Jack can't read.  You gotta TELL it to him-tell him SOMEthing for Chrissake.
+ໃຜບອກວ່າຂຽນ? ພຣະເຢຊູ, ແຈກບໍ່ສາມາດອ່ານໄດ້.
+ເຈົ້າຕ້ອງບອກລາວ - ບອກລາວບາງສິ່ງບາງຢ່າງ ສໍາ ລັບຄຣິສສສ໌ເກີ.
+
+411
+00:28:56,950 --> 00:28:59,050
+[BARTON]
+Well what do I tell him?
+ຂ້ອຍຈະບອກລາວຫຍັງ?
+
+412
+00:28:59,550 --> 00:29:01,550
+[GEISLER]
+Projection...
+ການຄາດຄະເນ...
+
+413
+00:29:02,050 --> 00:29:08,050
+[GEISLER]
+... Jerry? Ben Geisler here. Any of the screening rooms free this afternoon?...  Good, book it for me. A writer named Fink is gonna come in and you're gonna show him wrestling pictures... I don't give a shit which ones! WRESTLING pictures!  Wait a minute- isn't Victor Sjoderberg shooting one now?... Show him some of the dailies on that.
+... ເຈຣີ? ແບນ ແກີສເລີຢູ່ນີ້. ຫ້ອງການສະແດງໃດໆຟຣີໃນຕອນບ່າຍນີ້?... ດີ, ຈອງມັນ ສໍາ ລັບຂ້ອຍ. ນັກຂຽນຊື່ວ່າ ຟິນກ໌ຈະເຂົ້າມາແລະເຈົ້າຈະສະແດງຮູບການຕໍ່ສູ້ລາວ
+... ຂ້ອຍບໍ່ສົນໃຈວ່າຮູບໃດ! ຮູບການຕໍ່ລອງ! ລໍຖ້າດົນຫນຶ່ງ - ວິກເຕີ ສຈອດເບີກ ກໍາ ລັງຖ່າຍຮູບດຽວນີ້ບໍ?... ສະແດງໃຫ້ລາວບາງຮູບປະຈໍາວັນກ່ຽວກັບເລື່ອງນັ້ນ.
+
+414
+00:29:08,550 --> 00:29:11,000
+[GEISLER]
+...This ought to give you some ideas.
+ນີ້ແມ່ນຄວນໃຫ້ເຈົ້າບາງແນວຄິດ.
+
+415
+00:29:11,500 --> 00:29:16,050
+[GEISLER]
+...Eight-fifteen tomorrow morning at Lipnik's house. Ideas. Broad strokes. Don't cross me, Fink.
+... ເວລາແປດສິບຫ້າເຊົ້າມື້ອື່ນຢູ່ເຮືອນລິປນິກ.
+ແນວຄິດ. ການຕີຢ່າງກວ້າງຂວາງ. ຢ່າຂ້າມຂ້ອຍ, ຟິນກ໌.
+
+416
+00:29:16,550 --> 00:29:19,350
+[CLAPPER]
+DEVIL ON THE CANVAS, twelve baker take one.
+ຊາຕານຢູ່ເທິງກະທູ້, ຜູ້ເຮັດເຂົ້າຫນົມສິບສອງຄົນເອົາຫນຶ່ງ.
+
+417
+00:29:19,850 --> 00:29:21,850
+[VOICE]
+Action.
+ການກະທໍາ.
+
+418
+00:29:22,350 --> 00:29:24,350
+[WRESTLER]
+I will destroy him!
+ຂ້ອຍຈະທໍາລາຍລາວ!
+
+419
+00:29:24,850 --> 00:29:26,850
+[VOICE]
+Cut.
+ຕັດ.
+
+420
+00:29:27,350 --> 00:29:29,350
+[CLAPPER]
+Twelve baker take two.
+ຜູ້ເຮັດເຂົ້າຫນົມສິບສອງຄົນເອົາສອງຄົນ.
+
+421
+00:29:29,850 --> 00:29:31,850
+[WRESTLER]
+I will destroy him!
+ຂ້ອຍຈະທໍາລາຍລາວ!
+
+422
+00:29:32,350 --> 00:29:34,350
+[VOICE]
+Cut.
+ຕັດ.
+
+423
+00:29:34,850 --> 00:29:36,850
+[CLAPPER]
+Twelve baker take three.
+ຜູ້ເຮັດເຂົ້າຫນົມສິບສອງຄົນເອົາສາມຄົນ.
+
+424
+00:29:37,350 --> 00:29:39,350
+[WRESTLER]
+I will destroy him!
+ຂ້ອຍຈະທໍາລາຍລາວ!
+
+425
+00:29:39,850 --> 00:29:45,450
+[WRESTLER]
+I will destroy him!... I will destroy him!... I will destroy him!... I will destroy him!...
+ຂ້ອຍຈະທໍາລາຍລາວ!... ຂ້ອຍຈະ ທໍາ ລາຍລາວ!..
+.ຂ້ອຍຈະ ທໍາລາຍລາວ...! ຂ້ອຍຈະເຮັດໃຫ້ນາງ!...
+
+426
+00:29:45,950 --> 00:29:47,950
+[VOICE]
+Okay, take five...
+ດີ, ເອົາຫ້າ...
+
+427
+00:29:48,450 --> 00:29:50,450
+[CLAPPER]
+Twelve charlie take one-
+ແຊລລີສິບສອງຄົນເອົາຫນຶ່ງ...
+
+428
+00:29:50,950 --> 00:29:52,950
+[VOICE]
+Action.
+ການກະທໍາ.
+
+429
+00:29:53,450 --> 00:29:55,450
+[REFEREE]
+One... two...
+ຫນຶ່ງ... ສອງ...
+
+430
+00:29:55,950 --> 00:29:57,950
+[VOICE]
+Cut.
+ຕັດ.
+
+431
+00:29:58,450 --> 00:30:00,450
+[CLAPPER]
+Twelve charlie take two.
+ແຊລລີສິບສອງຄົນເອົາສອງຄົນ.
+
+432
+00:30:00,950 --> 00:30:02,950
+[REFEREE]
+One... two...
+ຫນຶ່ງ... ສອງ...
+
+433
+00:30:03,450 --> 00:30:09,450
+[BARTON]
+Hello, Chet, it's Barton Fink in 605. Can you try a number for me in Hollywood...  Slausen 6-4304.
+ສະບາຍດີ, ເຊັດ, ມັນແມ່ນບາຕັນ ຟິນກ໌ໃນ 605. ເຈົ້າສາມາດພະຍາຍາມຕົວເລກ
+ສໍາ ລັບຂ້ອຍໃນຮໍລີວູດໄດ້ບໍ... Slausen 6-4304.
+
+434
+00:30:09,950 --> 00:30:12,750
+[BARTON]
+Pick it up... Pick it up. Pick it-
+ເອົາມັນ... ເອົາມັນ. ເອົາມັນ -
+
+435
+00:30:13,250 --> 00:30:15,250
+[AUDREY]
+Hello.
+ສະບາຍດີ.
+
+436
+00:30:15,750 --> 00:30:21,750
+[BARTON]
+Audrey, listen, I need help. I know it's late and I shouldn't be calling you like this � believe me I wouldn't have if I could see any other alternative, but I � I'm sorry - listen, how are you � I'm sorry. You doing okay?
+ໂອດຣີ, ຟັງ, ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອ. ຂ້ອຍຮູ້ວ່າມັນຊ້າແລ້ວແລະຂ້ອຍບໍ່ຄວນໂທຫາເຈົ້າແບບນີ້ເຊື່ອຂ້ອຍຂ້ອຍຈະບໍ່ເຮັດຖ້າຂ້ອຍສາມາດເຫັນທາງເລືອກອື່ນໄດ້
+, ແຕ່ຂ້ອຍຂໍໂທດ - ຟັງ, ເຈົ້າຂໍໂທດແນວໃດ. ເຈົ້າດີບໍ?
+
+437
+00:30:22,250 --> 00:30:24,250
+[AUDREY]
+...Who is this?
+ນີ້ແມ່ນໃຜ?
+
+438
+00:30:24,750 --> 00:30:26,850
+[BARTON]
+Barton. I'm sorry, it's Barton Fink.
+ບາຕັນ. ຂ້ອຍຂໍໂທດ, ມັນແມ່ນບາຕອນ ຟິນກ໌.
+
+439
+00:30:27,350 --> 00:30:29,450
+[MAYHEW]
+Sons of bitches! Drown 'em all!
+ພວກໂຊກຮ້າຍ! ຈົມພວກມັນທັງ ຫມົດ!
+
+440
+00:30:29,950 --> 00:30:32,750
+[AUDREY]
+Barton, I'm afraid it's not a good time-
+ບາຕັນ, ຂ້ອຍຢ້ານວ່າມັນບໍ່ແມ່ນເວລາທີ່ດີ -
+
+441
+00:30:33,250 --> 00:30:35,250
+[MAYHEW]
+Drown all those rascals...
+ຈູດຄົນໂຊກຮ້າຍທັງ ຫມົດ ນັ້ນ...
+
+442
+00:30:35,750 --> 00:30:41,750
+[BARTON]
+I'm sorry, I just feel like �I know I shouldn't ask, I just need some kind of help, I just, I have a deadline tomorrow-
+ຂ້ອຍຂໍໂທດ, ຂ້ອຍພຽງແຕ່ຮູ້ສຶກວ່າຂ້ອຍຮູ້ວ່າຂ້ອຍບໍ່ຄວນຖາມ,
+ຂ້ອຍພຽງແຕ່ຕ້ອງການຄວາມຊ່ວຍເຫຼືອບາງຢ່າງ, ຂ້ອຍ ພຽງແຕ່, ຂ້ອຍມີກໍານົດເວລາມື້ອື່ນ -
+
+443
+00:30:42,250 --> 00:30:45,050
+[MAYHEW]
+I said drown 'em all! Who is that?
+ຂ້ອຍບອກວ່າຈົມພວກມັນທັງ ຫມົດ! ນັ້ນແມ່ນໃຜ?
+
+444
+00:30:45,550 --> 00:30:49,050
+[AUDREY]
+All right Barton, I'll see if I can slip away-
+ດີແບຕັນ, ຂ້ອຍຈະເບິ່ງວ່າຂ້ອຍສາມາດລອຍໄປໄດ້ບໍ -
+
+445
+00:30:49,550 --> 00:30:53,750
+[MAYHEW]
+Who is that?! Gaddamn voices come into the house... sons of bitches...
+ນັ້ນແມ່ນໃຜ?! ສຽງໂຫວດໂຊກຮ້າຍເຂົ້າໄປໃນເຮືອນ... ລູກແຊກແຊ...
+
+446
+00:30:54,250 --> 00:30:56,250
+[BARTON]
+If you could, I'd �
+ຖ້າເຈົ້າສາມາດເຮັດໄດ້, ຂ້ອຍຈະ
+
+447
+00:30:56,750 --> 00:30:59,200
+[AUDREY]
+If I can. He gets jealous; he-
+ຖ້າຂ້ອຍສາມາດເຮັດໄດ້. ລາວໂຊກຮ້າຍ; ລາວ -
+
+448
+00:30:59,700 --> 00:31:01,700
+[MAYHEW]
+Goddamn voices... DROWN 'EM!
+ສຽງທີ່ຮ້າຍແຮງ... ຈົມພວກມັນ!
+
+449
+00:31:02,200 --> 00:31:04,200
+[BARTON]
+I need help, Audrey.
+ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອ, ອອດຣີ.
+
+450
+00:31:04,700 --> 00:31:10,700
+[AUDREY]
+I'll try to slip out. If he quiets down, passes out... I'm afraid he thinks � well, he said you were a buffoon, Barton. He becomes irrational�
+ຂ້ອຍຈະພະຍາຍາມລອຍອອກ. ຖ້າລາວງຽບສະຫງົບ, ລົ້ມເຫຼວ... ຂ້ອຍຢ້ານວ່າລາວຄິດດີ
+, ລາວເວົ້າວ່າເຈົ້າເປັນຄົນໂຊກຮ້າຍ, ບາຕັນ. ລາວກາຍເປັນທີ່ບໍ່ສົມເຫດສົມຜົນ
+
+451
+00:31:11,200 --> 00:31:15,050
+[MAYHEW]
+Hesh up! Be still now! DROWN 'EM! DROWN 'EM! DROWN �
+ເຮສ໌ຂຶ້ນ! ງຽບຢູ່ດຽວນີ້! ຈົມພວກມັນ! ຈູດພວກເຂົາຍັງຈົມ!
+
+452
+00:31:15,550 --> 00:31:17,550
+[AUDREY]
+Hello, Barton.
+ສະບາຍດີ ບາຕັນ.
+
+453
+00:31:18,050 --> 00:31:24,000
+[BARTON]
+Audrey, thank you for coming. Thank you.  I'm sorry to be such a... such a... Thank you.
+ອອດຣີ, ຂອບໃຈທີ່ມາ. ຂອບໃຈ.
+ຂ້ອຍຂໍໂທດທີ່ເປັນຄົນ... ຄົນ... ຂອບໃຈຫຼາຍ.
+
+454
+00:31:24,500 --> 00:31:27,650
+[AUDREY]
+Now that's all right, Barton. Everything'll be all right.
+ດຽວນີ້ມັນບໍ່ເປັນຫຍັງ, ບາຕັນ. ທຸກຢ່າງຈະດີດີ.
+
+455
+00:31:28,150 --> 00:31:30,150
+[BARTON]
+Yes. Thank you. How's Bill?
+ແມ່ນແລ້ວ. ຂອບໃຈ. ບິລເປັນແນວໃດ?
+
+456
+00:31:30,650 --> 00:31:36,650
+[AUDREY]
+Oh, he's... he drifted off. He'll sleep for a while now. What is it you have to do, exactly?
+ໂອ້, ລາວ... ລາວຍ່າງໄປ. ລາວຈະນອນຊົ່ວຄາວດຽວນີ້
+. ເຈົ້າຕ້ອງເຮັດຫຍັງແທ້ໆ?
+
+457
+00:31:37,150 --> 00:31:43,150
+[BARTON]
+Well I have to come up with � an outline, I'd guess you call it. The story. The whole goddamn story. Soup to nuts. Three acts. The whole goddamn-
+ດີຂ້ອຍຕ້ອງຄິດແຜນການ, ຂ້ອຍຄິດວ່າເຈົ້າຈະເອີ້ນມັນວ່າ. ເລື່ອງ
+. ເລື່ອງທັງ ຫມົດ. ໂຊບຈົນໂຊບ. ການສະແດງສາມຄັ້ງ. ທັງ ຫມົດ -
+
+458
+00:31:43,650 --> 00:31:47,150
+[AUDREY]
+It's alright, Barton. You don't have to write actual scenes?
+ມັນບໍ່ເປັນຫຍັງ, ບາຕັນ. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຂຽນຮູບພາບທີ່ແທ້ຈິງບໍ?
+
+459
+00:31:47,650 --> 00:31:53,650
+[BARTON]
+No, but the whole goddamn � Audrey? Have you ever had to read any of Bill's wrestling scenarios?
+ບໍ່, ແຕ່ອອດຣີທັງ ຫມົດ ບໍ?
+ເຈົ້າເຄີຍຕ້ອງອ່ານສະຖານະການການຕໍ່ສູ້ຂອງບິລບໍ?
+
+460
+00:31:54,150 --> 00:31:56,150
+[AUDREY]
+Yes, I'm afraid I have.
+ແມ່ນແລ້ວ, ຂ້ອຍຢ້ານວ່າຂ້ອຍເຮັດແລ້ວ.
+
+461
+00:31:56,650 --> 00:31:59,450
+[BARTON]
+What are they like? What are they about?
+ພວກເຂົາເປັນແນວໃດ? ພວກເຂົາກ່ຽວກັບຫຍັງ?
+
+462
+00:31:59,950 --> 00:32:05,950
+[AUDREY]
+Well, usually, they're... simply morality tales. There's a good wrestler, and a bad wrestler whom he confronts at the end. In between, the good wrestler has a love interest or a child he has to protect.  Bill would usually make the good wrestler a backwoods type, or a convict. And sometimes, instead of a waif, he'd have the wrestler protecting an idiot manchild.  The studio always hated that. Oh, some of the scripts were so... spirited!
+ດີ, ໂດຍປົກກະຕິແລ້ວ, ພວກເຂົາແມ່ນ... ພຽງແຕ່ເລື່ອງທັມມະຊາດ. ມີນັກຕໍ່ສູ້ທີ່ດີ, ແລະນັກຕໍ່ລອງທີ່ບໍ່ດີທີ່ລາວປະເຊີນກັບໃນຕອນທ້າຍ. ໃນລະຫວ່າງນັ້ນ, ນັກຕໍ່ສູ້ດີມີຄວາມສົນໃຈໃນຄວາມຮັກຫຼືລູກທີ່ລາວຕ້ອງປົກປ້ອງ
+. ບິລມັກຈະເຮັດໃຫ້ນັກຕໍ່ຕ້ານທີ່ດີເປັນປະເພດປ່າຫຼັງ, ຫຼືນັກໂທດ. ແລະບາງຄັ້ງ, ແທນທີ່ຈະເປັນຄົນໂຊກແຊງ, ລາວຈະມີການຕໍ່ສູ້ປົກປ້ອງເດັກຊາຍໂງ່. ສະຕູດິໂອມັກກຽດຊັງນັ້ນ. ໂອ
+
+463
+00:32:06,450 --> 00:32:08,450
+[AUDREY]
+...Barton.
+ບາຕັນ.
+
+464
+00:32:08,950 --> 00:32:14,950
+[AUDREY]
+...Look, it's really just a formula. You don't have to type your soul into it.  We'll invent some names and a new setting.  I'll help you and it won't take any time at all. I did it for Bill so many times �
+ເບິ່ງ, ມັນແມ່ນພຽງແຕ່ສູດເທົ່ານັ້ນ. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງພິມຈິດວິນຍານຂອງທ່ານໃນມັນ.
+ພວກເຮົາຈະຄິດສ້າງຊື່ບາງຢ່າງແລະການຕັ້ງຄ່າ ໃຫມ່. ຂ້ອຍຈະຊ່ວຍເຈົ້າແລະມັນຈະບໍ່ໃຊ້ເວລາໃດໆເລີຍ. ຂ້ອຍເຮັດມັນ ສໍາ ລັບບິລຫຼາຍຄັ້ງ
+
+465
+00:32:15,450 --> 00:32:17,450
+[BARTON]
+Did what for Bill?
+ເຮັດຫຍັງ ສໍາ ລັບບິລ?
+
+466
+00:32:17,950 --> 00:32:19,950
+[AUDREY]
+Well... THIS.
+ດີ... ນີ້ແມ່ນ.
+
+467
+00:32:20,450 --> 00:32:22,550
+[BARTON]
+You wrote his scripts for him?
+ເຈົ້າຂຽນບົດຂຽນຂອງລາວ ສໍາ ລັບລາວບໍ?
+
+468
+00:32:23,050 --> 00:32:25,500
+[AUDREY]
+Well, the basic ideas were frequently his-
+ດີ, ແນວຄິດພື້ນຖານແມ່ນມັກຈະເປັນຂອງລາວ -
+
+469
+00:32:26,000 --> 00:32:30,900
+[BARTON]
+You wrote Bill's scripts!  Jesus Christ, you wrote his � what about before that?
+ເຈົ້າຂຽນບົດຂຽນຂອງບິລ! ພຣະເຢຊູຄຣິດ, ເຈົ້າຂຽນຂອງລາວກ່ອນນັ້ນແນວໃດ?
+
+470
+00:32:31,400 --> 00:32:33,400
+[AUDREY]
+Before what?
+ກ່ອນຫຍັງ?
+
+471
+00:32:33,900 --> 00:32:35,900
+[BARTON]
+Before Bill came to Hollywood.
+ກ່ອນທີ່ບິລຈະມາຮໍລີວູດ.
+
+472
+00:32:36,400 --> 00:32:39,550
+[AUDREY]
+Well, Bill was ALWAYS the author, so to speak-
+ດີ, ບິລແມ່ນຜູ້ຂຽນຢູ່ສະເຫມີ, ເພື່ອເວົ້າໄດ້...
+
+473
+00:32:40,050 --> 00:32:45,300
+[BARTON]
+What do you mean so to speak?! Audrey, how long have you been his... secretary?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດເພື່ອເວົ້າແບບນັ້ນ?!
+ອອດຣີ, ເຈົ້າເປັນເລຂາທິການຂອງລາວດົນປານໃດ?
+
+474
+00:32:45,800 --> 00:32:49,300
+[AUDREY]
+Barton, I think we should concentrate on OUR little project-
+ບາຕັນ, ຂ້ອຍຄິດວ່າພວກເຮົາຄວນສຸມໃສ່ໂຄງການນ້ອຍໆຂອງພວກເຮົາ -
+
+475
+00:32:49,800 --> 00:32:53,650
+[BARTON]
+I want to know how many of Bill's books you wrote!
+ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າຂຽນປື້ມຂອງບິລຫຼາຍປານໃດ!
+
+476
+00:32:54,150 --> 00:32:56,150
+[AUDREY]
+Barton!
+ບາຕັນ!
+
+477
+00:32:56,650 --> 00:32:58,650
+[BARTON]
+I want to know!
+ຂ້ອຍຢາກຮູ້!
+
+478
+00:32:59,150 --> 00:33:01,250
+[AUDREY]
+Barton, honestly, only the last couple-
+ບາຕັນ, ຢ່າງຈິງໃຈ, ພຽງແຕ່ຄູ່ຜົວເມຍສຸດທ້າຍ -
+
+479
+00:33:01,750 --> 00:33:03,750
+[BARTON]
+Hah!
+ຮາ!
+
+480
+00:33:04,250 --> 00:33:08,100
+[AUDREY]
+And my input was mostly... EDITORIAL, really, when he'd been drinking-
+ແລະການປະກອບສ່ວນຂອງຂ້ອຍສ່ວນໃຫຍ່ແມ່ນ...
+ການຈັດຕັ້ງ, ແທ້ຈິງແລ້ວ, ເມື່ອລາວດື່ມ -
+
+481
+00:33:08,600 --> 00:33:12,800
+[BARTON]
+I'll bet. Jesus � "The grand productive days." What a goddamn phony.
+ຂ້ອຍແນ່ໃຈວ່າ. ພຣະເຢຊູ"
+ມື້ທີ່ມີຜົນຜະລິດທີ່ຍິ່ງໃຫຍ່." ເປັນຕົວະຫຼາຍປານໃດ.
+
+482
+00:33:13,300 --> 00:33:18,900
+[BARTON]
+...W.P. Mayhew.  William Goddamn Phony Mayhew. All his guff about escape. Hah!  I'LL say he escaped!
+... W.P. Mayhew. ວິລຍາມ ໂຟນນີ Mayhew ໂຊກຮ້າຍ. ຄວາມໂຊກແຊງທັງ
+ຫມົດ ຂອງລາວກ່ຽວກັບການຫນີ. ຮາ! ຂ້ອຍຈະເວົ້າວ່າລາວຫນີ!
+
+483
+00:33:19,400 --> 00:33:21,500
+[BARTON]
+...Well, we don't have much time.
+ດີ, ພວກເຮົາມີເວລາບໍ່ຫຼາຍ.
+
+484
+00:33:22,000 --> 00:33:25,850
+[AUDREY]
+It'll be fine... Don't judge him, Barton.  Don't condescend to him...
+ມັນຈະດີດີ... ຢ່າຕັດສິນລາວ, ບາຕັນ. ຢ່າຍອມຮັບລາວ...
+
+485
+00:33:26,350 --> 00:33:32,350
+[AUDREY]
+...It's not as simple as you think. I helped Bill most by appreciating him, by understanding him. We all need understanding, Barton. Even you, tonight, it's all you really need...
+ມັນບໍ່ແມ່ນງ່າຍດາຍເທົ່າທີ່ທ່ານຄິດ. ຂ້ອຍຊ່ວຍບິລຫຼາຍທີ່ສຸດໂດຍການຍ້ອງຍໍລາວ, ໂດຍການເຂົ້າໃຈລາວ.
+ພວກເຮົາທຸກຄົນຕ້ອງການຄວາມເຂົ້າໃຈ, ບາຕັນ. ເຖິງແມ່ນວ່າເຈົ້າ, ໃນຄືນນີ້, ມັນແມ່ນທັງຫມົດທີ່ທ່ານຕ້ອງການແທ້ໆ...
+
+486
+00:33:32,850 --> 00:33:34,850
+[CHARLIE]
+Are you all right?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+487
+00:33:35,350 --> 00:33:37,350
+[CHARLIE]
+...Can I come in?
+ຂ້ອຍເຂົ້າມາໄດ້ບໍ?
+
+488
+00:33:37,850 --> 00:33:39,850
+[BARTON]
+No!... I'm fine. Thank you.
+ບໍ່!... ຂ້ອຍບໍ່ເປັນຫຍັງ. ຂອບໃຈ.
+
+489
+00:33:40,350 --> 00:33:42,350
+[CHARLIE]
+Are you sure �
+ເຈົ້າແນ່ໃຈບໍ?
+
+490
+00:33:42,850 --> 00:33:44,850
+[BARTON]
+No... no...
+ບໍ່... ບໍ່...
+
+491
+00:33:45,350 --> 00:33:47,350
+[CHARLIE]
+Barton. Are you all right?
+ບາຕັນ ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+492
+00:33:47,850 --> 00:33:49,850
+[BARTON]
+No... Can I come in?
+ບໍ່... ຂ້ອຍເຂົ້າມາໄດ້ບໍ?
+
+493
+00:33:50,350 --> 00:33:52,800
+[CHARLIE]
+Why don't we go to your room-
+ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ໄປຫ້ອງຂອງທ່ານ -
+
+494
+00:33:53,300 --> 00:33:56,100
+[BARTON]
+Charlie, I'm in trouble. You've gotta help me.
+ແຊລລີ, ຂ້ອຍຢູ່ໃນຄວາມຫຍຸ້ງຍາກ. ເຈົ້າຕ້ອງຊ່ວຍຂ້ອຍ.
+
+495
+00:33:56,600 --> 00:34:01,500
+[CHARLIE]
+Get a grip on yourself, brother. Whatever the problem is, we'll sort it out.
+ເອົາຕົວເອງໄວ້, ອ້າຍ. ບັນຫາໃດກໍ່ຕາມ, ພວກເຮົາຈະແກ້ໄຂມັນ.
+
+496
+00:34:02,000 --> 00:34:06,900
+[BARTON]
+Charlie, I'm in trouble � something horrible's happened � I've gotta call the police...
+ແຊລລີ, ຂ້ອຍຢູ່ໃນຄວາມຫຍຸ້ງຍາກ
+ບາງສິ່ງບາງຢ່າງທີ່ຮ້າຍແຮງເກີດຂຶ້ນຂ້ອຍຕ້ອງໂທຫາຕໍາຫຼວດ...
+
+497
+00:34:07,400 --> 00:34:10,550
+[BARTON]
+...Will you stay with me till they get here?
+ເຈົ້າຈະຢູ່ກັບຂ້ອຍຈົນກວ່າພວກເຂົາຈະມາຮອດນີ້ບໍ?
+
+498
+00:34:11,050 --> 00:34:14,200
+[CHARLIE]
+Don't worry about it, Barton. We can sort it-
+ຢ່າກັງວົນກ່ຽວກັບມັນ, ບາຕັນ. ພວກເຮົາສາມາດແກ້ໄຂມັນໄດ້ -
+
+499
+00:34:14,700 --> 00:34:20,700
+[BARTON]
+Before you go in � I didn't do this. I don't know how it happened, but I didn't... I want you to know that...
+ກ່ອນທີ່ທ່ານຈະເຂົ້າມາຂ້ອຍບໍ່ໄດ້ເຮັດສິ່ງນີ້.
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນເກີດຂຶ້ນແນວໃດ, ແຕ່ຂ້ອຍບໍ່ໄດ້... ຂ້ອຍຢາກໃຫ້ເຈົ້າຮູ້ວ່າ...
+
+500
+00:34:21,200 --> 00:34:23,200
+[CHARLIE]
+Okay.
+ດີແລ້ວ.
+
+501
+00:34:23,700 --> 00:34:25,700
+[CHARLIE]
+Jesus... Jesus... Jesus have mercy...
+ພຣະເຢຊູ... ພະເຢຊູ... ພຣະເຢຊູມີຄວາມເມດຕາ...
+
+502
+00:34:26,200 --> 00:34:30,050
+[CHARLIE]
+...Jesus, Barton, what the hell is this?  What're we gonna do?
+ພຣະເຢຊູ, ບາຕັນ, ນີ້ແມ່ນຫຍັງ? ພວກເຮົາຈະເຮັດແນວໃດ?
+
+503
+00:34:30,550 --> 00:34:35,100
+[BARTON]
+I've gotta call the police � or you could call for me �
+ຂ້ອຍຕ້ອງໂທຫາຕໍາຫຼວດ ຫຼືເຈົ້າສາມາດໂທຫາຂ້ອຍໄດ້
+
+504
+00:34:35,600 --> 00:34:37,600
+[CHARLIE]
+Hold on �
+ລໍຖ້າ
+
+505
+00:34:38,100 --> 00:34:40,100
+[BARTON]
+You gotta believe me �
+ເຈົ້າຕ້ອງເຊື່ອຂ້ອຍ
+
+506
+00:34:40,600 --> 00:34:42,600
+[CHARLIE]
+Hold on �
+ລໍຖ້າ
+
+507
+00:34:43,100 --> 00:34:46,250
+[BARTON]
+I didn't do this, I did NOT do this�
+ຂ້ອຍບໍ່ໄດ້ເຮັດແບບນີ້, ຂ້ອຍບໍ່ໄດ້ທໍາແບບນີ້
+
+508
+00:34:46,750 --> 00:34:50,600
+[CHARLIE]
+Hold on. Stop. Take a deep breath. Tell me what happened.
+ລໍຖ້າ. ຢຸດເຊົາ. ດູດຫາຍໃຈຢ່າງເລິກເຊິ່ງ. ບອກຂ້ອຍວ່າເກີດຫຍັງຂຶ້ນ.
+
+509
+00:34:51,100 --> 00:34:55,650
+[BARTON]
+I don't know! I woke up, she was... God, you gotta believe me!
+ຂ້ອຍບໍ່ຮູ້! ຂ້ອຍຕື່ນຂຶ້ນ, ນາງແມ່ນ
+... ພຣະເຈົ້າ, ເຈົ້າຕ້ອງເຊື່ອຂ້ອຍ!
+
+510
+00:34:56,150 --> 00:34:59,300
+[CHARLIE]
+I believe you, brother, but this don't look good.
+ຂ້ອຍເຊື່ອເຈົ້າ, ອ້າຍ, ແຕ່ສິ່ງນີ້ເບິ່ງຄືວ່າບໍ່ດີ.
+
+511
+00:34:59,800 --> 00:35:01,900
+[BARTON]
+We gotta call the police �
+ພວກເຮົາຕ້ອງໂທຫາຕໍາຫຼວດ
+
+512
+00:35:02,400 --> 00:35:05,550
+[CHARLIE]
+Hold on. I said hold on, so hold on.
+ລໍຖ້າ. ຂ້ອຍບອກລໍຖ້າ, ສະນັ້ນລໍ ຖ້າ.
+
+513
+00:35:06,050 --> 00:35:08,050
+[BARTON]
+Yeah.
+ແມ່ນແລ້ວ.
+
+514
+00:35:08,550 --> 00:35:10,550
+[CHARLIE]
+What do you think happened?
+ເຈົ້າຄິດວ່າເກີດຫຍັງຂຶ້ນ?
+
+515
+00:35:11,050 --> 00:35:17,050
+[BARTON]
+I don't know!  Maybe it was her... boyfriend. I passed out. I don't know.  Won't the police be able to �
+ຂ້ອຍບໍ່ຮູ້! ບາງທີມັນເປັນ... ເພື່ອນຊາຍຂອງນາງ.
+ຂ້ອຍສັ່ນສະເທືອນ. ຂ້ອຍບໍ່ຮູ້ວ່າ. ຕໍາຫຼວດຈະບໍ່ສາມາດເຮັດໄດ້ບໍ
+
+516
+00:35:17,550 --> 00:35:23,500
+[CHARLIE]
+Stop with the police! Wake up, friend! This does not look good! They hang people for this!
+ຢຸດການຕໍາຫຼວດ! ຕື່ນຂຶ້ນ, ເພື່ອນ!
+ນີ້ແມ່ນເບິ່ງບໍ່ດີ! ພວກເຂົາວາງຄົນ ສໍາ ລັບສິ່ງນີ້!
+
+517
+00:35:24,000 --> 00:35:27,500
+[BARTON]
+But I didn't do it � don't you believe me?
+ແຕ່ຂ້ອຍບໍ່ໄດ້ເຮັດມັນ ເຈົ້າບໍ່ເຊື່ອຂ້ອຍບໍ?
+
+518
+00:35:28,000 --> 00:35:32,200
+[CHARLIE]
+I believe you � I KNOW you. But why should the police?
+ຂ້ອຍເຊື່ອເຈົ້າ ຂ້ອຍຮູ້ຈັກເຈົ້າ. ແຕ່ເປັນຫຍັງຕໍາຫຼວດຄວນເຮັດ?
+
+519
+00:35:32,700 --> 00:35:36,900
+[CHARLIE]
+...Did you... Barton, between you and me, did you have sexual intercourse?
+ເຈົ້າ... ບາຕັນ, ລະຫວ່າງເຈົ້າແລະຂ້ອຍ, ເຈົ້າມີເພດສໍາພັນບໍ?
+
+520
+00:35:37,400 --> 00:35:39,400
+[CHARLIE]
+Jesus... They can tell that...
+ພຣະເຢຊູ... ພວກເຂົາສາມາດເຫັນໄດ້ວ່າ...
+
+521
+00:35:39,900 --> 00:35:43,050
+[BARTON]
+They GOTTA believe me, Charlie! They gotta have mercy!
+ພວກເຂົາຕ້ອງເຊື່ອຂ້ອຍ, ແຊລລີ! ພວກເຂົາຕ້ອງມີຄວາມເມດຕາ!
+
+522
+00:35:43,550 --> 00:35:48,450
+[CHARLIE]
+You're in pictures, Barton. Even if you got cleared eventually, this would ruin you.
+ເຈົ້າຢູ່ໃນຮູບພາບ, ບາຕັນ. ເຖິງແມ່ນວ່າເຈົ້າຈະຖືກຍົກເລີກໃນທີ່ສຸດ
+, ນີ້ແມ່ນຈະ ທໍາ ລາຍເຈົ້າ.
+
+523
+00:35:48,950 --> 00:35:50,950
+[CHARLIE]
+...Wait in the bathroom.
+ລໍຖ້າຢູ່ຫ້ອງນ້ ໍາ.
+
+524
+00:35:51,450 --> 00:35:53,450
+[CHARLIE]
+You passed out.
+ເຈົ້າລໍາບາກ.
+
+525
+00:35:53,950 --> 00:35:55,950
+[BARTON]
+...Uh-huh... Where's Audrey?
+ອູຮູ... ອອດຣີຢູ່ໃສ?
+
+526
+00:35:56,450 --> 00:35:59,250
+[CHARLIE]
+She's dead, Barton! If that was her name.
+ນາງຕາຍແລ້ວ, ບາຕັນ! ຖ້າມັນເປັນຊື່ຂອງນາງ.
+
+527
+00:35:59,750 --> 00:36:05,750
+[CHARLIE]
+Barton, listen to me. You gotta act like nothing's happened. Put this totally out of your head. I know that's hard, but your play from here on out is just to go about business as usual. Give us some time to sort this out...
+ບາຕັນ, ຟັງຂ້ອຍ. ເຈົ້າຕ້ອງປະຕິບັດຄືກັບວ່າບໍ່ມີຫຍັງເກີດຂຶ້ນ. ເອົາສິ່ງນີ້ອອກຈາກຫົວໃຈຂອງທ່ານຢ່າງສົມບູນ. ຂ້ອຍຮູ້ວ່າມັນຍາກ
+, ແຕ່ການຫຼິ້ນຂອງທ່ານຈາກບ່ອນນີ້ອອກແມ່ນພຽງແຕ່ເພື່ອເຮັດທຸລະກິດຕາມປົກກະຕິ. ໃຫ້ພວກເຮົາເວລາບາງຢ່າງເພື່ອແກ້ໄຂເລື່ອງນີ້...
+
+528
+00:36:06,250 --> 00:36:08,700
+[CHARLIE]
+...Just put it out of you head...
+ພຽງແຕ່ເອົາມັນອອກຈາກຫົວຂອງທ່ານ...
+
+529
+00:36:09,200 --> 00:36:11,300
+[LIPNIK]
+Bart! So happy to see ya!
+ບາຕ໌! ດີໃຈທີ່ເຫັນເຈົ້າຫຼາຍ!
+
+530
+00:36:11,800 --> 00:36:14,950
+[LIPNIK]
+Sit! Talk! Relax for a minute, then talk!  Drink?
+ນັ່ງ! ເວົ້າ! ສະບາຍໃຈດົນຫນຶ່ງ, ຫຼັງຈາກນັ້ນເວົ້າ! ດື່ມບໍ?
+
+531
+00:36:15,450 --> 00:36:17,450
+[BARTON]
+Yeah... rye whiskey?
+ແມ່ນແລ້ວ... ວີສກີຣາຍ?
+
+532
+00:36:17,950 --> 00:36:22,150
+[LIPNIK]
+Boy! You writers! Work hard, play hard!  That's what I hear, anyway...
+ເດັກຊາຍ! ພວກເຈົ້ານັກຂຽນ! ເຮັດວຽກ ຫນັກ, ຫຼິ້ນ
+ຫນັກ! ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍໄດ້ຍິນ, ຢ່າງໃດກໍຕາມ...
+
+533
+00:36:22,650 --> 00:36:24,650
+[LIPNIK]
+... Lou.
+ໂລຍ.
+
+534
+00:36:25,150 --> 00:36:31,150
+[LIPNIK]
+Anyway. Ben Geisler tells me things're going along great.  Thinks we've got a real winner in this one. And let me tell you something, I'm counting on it. I've taken an interest. Not to interfere, mind you � hardly seems necessary in your case. A writer � a storyteller � of your stature. Givitta me in bold strokes, Bart. Gimme the broad outlines. I'm sitting in the audience, the lights go down, Capitol logo comes up... you're on!
+ຢ່າງໃດກໍຕາມ. ແບນ ແກີສເລີບອກຂ້ອຍວ່າສິ່ງຕ່າງໆ ກໍາ ລັງ ດໍາ ເນີນໄປຢ່າງດີເລີດ. ຄິດວ່າພວກເຮົາມີຜູ້ຊະນະທີ່ແທ້ຈິງໃນຄັ້ງນີ້. ແລະ ຂໍໃຫ້ຂ້ອຍບອກເຈົ້າບາງສິ່ງບາງຢ່າງ, ຂ້ອຍ ກໍາ ລັງຄິດໃສ່ມັນ.
+ຂ້ອຍໄດ້ເອົາຄວາມສົນໃຈ. ບໍ່ໃຫ້ແຊກແຊງ, ຈື່ໄວ້ວ່າເຈົ້າເກືອບບໍ່ຈໍາເປັນໃນກໍລະນີຂອງທ່ານ. ນັກຂຽນຜູ້ບອກເລື່ອງຂອງລະດັບຂອງທ່ານ. ໃຫ້ຂ້ອຍດ້ວຍການຕີທີ່ກ້າຫານ, ບາຕ໌. ໃຫ້ຂ້າພະເຈົ້າເສັ້ນທາງກວ້າງຂວາງ. ຂ້ອຍນັ່ງ
+
+535
+00:36:31,650 --> 00:36:33,750
+[BARTON]
+Yeah, okay... well... we fade in...
+ແມ່ນແລ້ວ, ດີ... ດີ... ພວກເຮົາຫາຍໄປໃນ...
+
+536
+00:36:34,250 --> 00:36:37,400
+[BARTON]
+...It's a tenement building. On the Lower East Side...
+ມັນເປັນອາຄານທີ່ຢູ່ອາໄສ. ຢູ່ທາງຕາເວັນອອກລຸ່ມ...
+
+537
+00:36:37,900 --> 00:36:41,050
+[LIPNIK]
+Great! He's poor, this wrestler! He's had to struggle!
+ດີເລີດ! ລາວທຸກຍາກ, ນັກຕໍ່ສູ້ຄົນນີ້! ລາວຕ້ອງຕໍ່ສູ້!
+
+538
+00:36:41,550 --> 00:36:43,550
+[BARTON]
+And then... well...
+ແລະຫຼັງຈາກນັ້ນ... ດີ...
+
+539
+00:36:44,050 --> 00:36:46,150
+[BARTON]
+...Can I be honest, Mr. Lipnik?
+ຂ້ອຍສາມາດເວົ້າຈິງໄດ້ບໍ, ທ້າວລິປນິກ?
+
+540
+00:36:46,650 --> 00:36:52,650
+[LIPNIK]
+CAN you?  You damn well better be. Jesus, if I hadn't been honest in my business dealings � well, of course, you can't always be honest, not with the sharks swimming around this town � but if you're a writer, you don't think about those things � if I'd been totally honest, I wouldn't be within a mile of this pool � unless I was cleaning it. But that's no reason for you not to be. Honest, I mean.  Not cleaning the pool.
+ເຈົ້າສາມາດເຮັດໄດ້ບໍ? ເຈົ້າດີກວ່າທີ່ຈະເປັນ. ພຣະເຢຊູ, ຖ້າຂ້ອຍບໍ່ໄດ້ຊື່ສັດໃນການພົວພັນທຸລະກິດຂອງຂ້ອຍດີ, ແນ່ນອນ, ເຈົ້າບໍ່ສາມາດຊື່ສັດຢູ່ສະເຫມີ, ບໍ່ແມ່ນກັບແມວລອຍນ້ ໍາ ຢູ່ອ້ອມເມືອງນີ້ແຕ່ຖ້າເຈົ້າເປັນນັກຂຽນ,
+ເຈົ້າບໍ່ຄິດກ່ຽວກັບສິ່ງເຫຼົ່ານັ້ນຖ້າຂ້ອຍຊື່ສັດຢ່າງສົມບູນ, ຂ້ອຍຈະບໍ່ຢູ່ໃນໄລຍະ ຫນຶ່ງ ໄມລຂອງສະລອຍນໍ້ານີ້ເວັ້ນເສຍແຕ່ຂ້ອຍ ກໍາ ລັງເຮັດຄວາມສະອາດມັນ. ແຕ່ນັ້ນບໍ່ແມ່ນເຫດຜົນ ສໍາ ລັບເຈົ້າທີ່ຈະບໍ່ເປັນ. ຊື່ສັດ, ຂ້ອຍ ຫມາຍ ຄວາມວ່າ. ບໍ່ເຮັດຄວາມ
+
+541
+00:36:53,150 --> 00:36:59,150
+[BARTON]
+Well... to be honest, I'm never really comfortable discussing a work in progress.  I've got it all worked out in my head, but sometimes if you force it out in words � prematurely � the wrong words � well, your meaning changes, and it changes your own mind, and you never get it back � so I'd just as soon not talk about it.
+ດີ... ເພື່ອເປັນຄວາມຈິງໃຈ, ຂ້ອຍບໍ່ເຄີຍມີຄວາມສະບາຍໃຈແທ້ໆໃນການປຶກສາຫາລືວຽກທີ່ ກໍາ ລັງ ດໍາ ເນີນຢູ່. ຂ້ອຍມີມັນທັງ ຫມົດ ຖືກແກ້ໄຂໄວ້ໃນຫົວຂອງຂ້ອຍ, ແຕ່ບາງຄັ້ງຖ້າເຈົ້າບັງຄັບໃຫ້ມັນອອກໃນ
+ຄໍາ ເວົ້າກ່ອນເວລາ ຄໍາ ເວົ້າທີ່ບໍ່ຖືກຕ້ອງດີ, ຄວາມ ຫມາຍ ຂອງທ່ານປ່ຽນແປງ, ແລະມັນປ່ຽນຄວາມຄິດຂອງທ່ານເອງ, ແລະເຈົ້າບໍ່ເຄີຍໄດ້ຮັບມັນຄືນ ສະນັ້ນຂ້ອຍຈະບໍ່ເວົ້າກ່ຽວກັບມັນທັນທີ.
+
+542
+00:36:59,650 --> 00:37:05,650
+[LOU]
+...Mr. Fink. Never mind me. Never mind how long I've been in pictures. Mr. Lipnik has been in pictures just about since they were invented. HE practically invented them.
+ທ້າວຟິນກ໌. ຢ່າສົນໃຈຂ້ອຍ. ບໍ່ສົນໃຈວ່າຂ້ອຍຢູ່ໃນຮູບພາບດົນປານໃດ.
+ທ້າວລີປນິກໄດ້ຢູ່ໃນຮູບແຕ້ມປະມານຕັ້ງແຕ່ພວກເຂົາຖືກຄົ້ນພົບ. ລາວເກືອບຄົ້ນພົບພວກມັນ.
+
+543
+00:37:06,150 --> 00:37:12,150
+[LOU]
+...Now I think if he's interested in what one of his contract employees is doing while he draws pay, I think that employee ought to tell him, if he wants to stay an employee. Right now the contents of your head are the property of Capitol Pictures, so if I were you I would speak up. And pretty goddamn fast.
+ດຽວນີ້ຂ້ອຍຄິດວ່າຖ້າລາວສົນໃຈສິ່ງທີ່ພະນັກງານສັນຍາຂອງລາວ ກໍາ ລັງເຮັດໃນຂະນະທີ່ລາວດຶງເງິນເດືອນ, ຂ້ອຍຄິດວ່າພະນັກງານນັ້ນຄວນບອກລາວ,
+ຖ້າລາວຢາກຢູ່ເປັນພະນັກງານ. ດຽວນີ້ເນື້ອໃນຂອງຫົວຂອງທ່ານແມ່ນຊັບສິນຂອງຮູບພາບຂອງນະຄອນຫຼວງ, ສະນັ້ນຖ້າຂ້ອຍເປັນເຈົ້າຂ້ອຍຈະເວົ້າຂຶ້ນ. ແລະໄວຫຼາຍ.
+
+544
+00:37:12,650 --> 00:37:17,550
+[LIPNIK]
+You lousy sonofabitch! You're telling this man � this ARTIST � what to do?!
+ເຈົ້າໄອ້ສັດນະລົກທີ່ໂຊກຮ້າຍ! ເຈົ້າ ກໍາ
+ລັງບອກຜູ້ຊາຍຄົນນີ້ນັກສິລະປິນຄົນນີ້ວ່າຄວນເຮັດແນວໃດ?!
+
+545
+00:37:18,050 --> 00:37:20,050
+[LOU]
+Mr. Lipnik, I �
+ທ່ານ ລິບນິກ, ຂ້ອຍ
+
+546
+00:37:20,550 --> 00:37:26,550
+[LIPNIK]
+This man creates for a living! He puts food on your table and on mine! THANK him for it!  Thank him, you ungrateful sonofabitch! Thank him or YOU'RE fired!
+ຜູ້ຊາຍຄົນນີ້ສ້າງເພື່ອຊີວິດການເປັນຢູ່! ລາວເອົາອາຫານໃສ່ໂຕະຂອງທ່ານແລະເທິງຂອງຂ້ອຍ! ຂອບໃຈລາວ
+ສໍາ ລັບມັນ! ຂໍຂອບໃຈລາວ, ເຈົ້າໄອ້ສັດນະລົກທີ່ບໍ່ຂອບໃຈ! ຂອບໃຈລາວຫຼືເຈົ້າຖືກໄລ່ອອກ!
+
+547
+00:37:27,050 --> 00:37:29,150
+[BARTON]
+Mr. Lipnik, that's not really necessar-
+ທ່ານລີປນິກ, ນັ້ນບໍ່ແມ່ນຄວາມຈໍາເປັນແທ້ໆ...
+
+548
+00:37:29,650 --> 00:37:35,600
+[LIPNIK]
+Get down on your knees, you sonofabitch!  Get down on your knees and kiss this man's feet!
+ນັ່ງຢູ່ເທິງເຂົ່າ, ເຈົ້າໄອ້ສັດນະລົກ!
+ນັ່ງຢູ່ໃນເຂົ່າແລະຈູບຕີນຂອງຜູ້ຊາຍຄົນນີ້!
+
+549
+00:37:36,100 --> 00:37:38,100
+[LOU]
+Mr. Lipnik, please �
+ທ່ານ ລິບນິກ, ກະລຸນາ
+
+550
+00:37:38,600 --> 00:37:40,600
+[BARTON]
+I � Mr. Lipnik �
+ຂ້ອຍທ່ານລີປນິກ
+
+551
+00:37:41,100 --> 00:37:46,350
+[LIPNIK]
+...Okay, get out of here. You're fired, you understand me?  Get out of my sight.
+ດີແລ້ວ, ອອກຈາກບ່ອນນີ້. ເຈົ້າຖືກໄລ່ອອກ,
+ເຈົ້າເຂົ້າໃຈຂ້ອຍບໍ? ອອກຈາກສາຍຕາຂອງຂ້ອຍ.
+
+552
+00:37:46,850 --> 00:37:48,850
+[BARTON]
+Mr. Lipnik, I �
+ທ່ານ ລິບນິກ, ຂ້ອຍ
+
+553
+00:37:49,350 --> 00:37:51,350
+[LIPNIK]
+I apologize, Barton.
+ຂ້ອຍຂໍໂທດ, ບາຕັນ.
+
+554
+00:37:51,850 --> 00:37:55,700
+[BARTON]
+No no, Mr. Breeze has actually been a great help �
+ບໍ່ ບໍ່, ທ້າວບຣີສ໌ໄດ້ຊ່ວຍເຫຼືອຫຼາຍແທ້ໆ
+
+555
+00:37:56,200 --> 00:38:02,150
+[LIPNIK]
+You don't have to cover for him. It's noble of you, but these things happen in business.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງປົກຄຸມລາວ. ມັນເປັນຄວາມສະຫງົບຈາກເຈົ້າ
+, ແຕ່ສິ່ງເຫຼົ່ານີ້ເກີດຂຶ້ນໃນທຸລະກິດ.
+
+556
+00:38:02,650 --> 00:38:07,200
+[BARTON]
+Mr. Lipnik, I really would feel much better if you could reconsider �
+ທ່ານ ລິບນິກ, ຂ້ອຍຈະຮູ້ສຶກດີຂຶ້ນຫຼາຍຖ້າເຈົ້າສາມາດພິຈາລະນາຄືນໄດ້
+
+557
+00:38:07,700 --> 00:38:13,700
+[LIPNIK]
+Ah, forget it, kid. I want you to pull this out of your head. If that sonofabitch wouldn't apologize to you, goddammit, I will. I respect your artistry and your methods, and if you can't fill us in yet, well hell, we should be kissing your feet for your fine efforts.
+ອາ, ລືມມັນ, ເດັກນ້ອຍ. ຂ້ອຍຢາກໃຫ້ເຈົ້າດຶງສິ່ງນີ້ອອກຈາກຫົວຂອງທ່ານ. ຖ້າໄອ້ສັດນະລົກນັ້ນບໍ່ຂໍໂທດເຈົ້າ, ສະບາຍດີ, ຂ້ອຍຈະເຮັດ.
+ຂ້ອຍເຄົາລົບຄວາມເປັນສິລະປິນຂອງທ່ານແລະວິທີການຂອງທ່ານ, ແລະຖ້າທ່ານບໍ່ສາມາດຕື່ມພວກເຮົາໄດ້ເທື່ອ, ດີ, ພວກເຮົາຄວນຈູບຕີນຂອງທ່ານ ສໍາ ລັບການພະຍາຍາມທີ່ດີເລີດຂອງທ່ານ.
+
+558
+00:38:14,200 --> 00:38:20,200
+[LIPNIK]
+...You know in the old country we were taught, as very young children, that there's no shame in supplicatin' yourself when you respect someone.
+ເຈົ້າຮູ້ວ່າໃນປະເທດເກົ່າພວກເຮົາຖືກສອນ, ໃນຖານະເປັນເດັກນ້ອຍນ້ອຍຫຼາຍ
+, ວ່າບໍ່ມີຄວາມໂຊກຮ້າຍໃນການຮ້ອງຂໍຕົວເອງເມື່ອເຈົ້າເຄົາລົບຄົນອື່ນ.
+
+559
+00:38:20,700 --> 00:38:26,700
+[LIPNIK]
+...On behalf of Capitol Pictures, the administration, and all a the stockholders, please accept this as a symbol of our apology and respect.
+ໃນນາມຮູບພາບຂອງນະຄອນຫຼວງ, ການບໍລິຫານ, ແລະຜູ້ຖືຫຸ້ນທັງ ຫມົດ,
+ກະລຸນາຍອມຮັບສິ່ງນີ້ເປັນສັນຍາລັກຂອງການຂໍໂທດແລະຄວາມເຄົາລົບຂອງພວກເຮົາ.
+
+560
+00:38:27,200 --> 00:38:29,200
+[CHARLIE]
+Barton. Can I come in?
+ບາຕັນ. ຂ້ອຍເຂົ້າມາໄດ້ບໍ?
+
+561
+00:38:29,700 --> 00:38:31,700
+[BARTON]
+Jesus... You're leaving.
+ພຣະເຢຊູ... ເຈົ້າ ກໍາ ລັງອອກໄປ.
+
+562
+00:38:32,200 --> 00:38:35,000
+[CHARLIE]
+Have to, old timer. Just for a while.
+ຂ້ອຍຕ້ອງເຮັດ, ຄົນເກົ່າ. ພຽງແຕ່ຊົ່ວຄາວ.
+
+563
+00:38:35,500 --> 00:38:37,500
+[BARTON]
+Jesus, Charlie, I...
+ພຣະເຢຊູ, ແຊລລີ, ຂ້ອຍ...
+
+564
+00:38:38,000 --> 00:38:42,900
+[CHARLIE]
+Everything's okay, believe me. I know it's rough mentally, but everything's taken care of.
+ທຸກຢ່າງບໍ່ເປັນຫຍັງ, ເຊື່ອຂ້ອຍ.
+ຂ້ອຍຮູ້ວ່າມັນຍາກທາງຈິດໃຈ, ແຕ່ທຸກຢ່າງໄດ້ຮັບການເບິ່ງແຍງ.
+
+565
+00:38:43,400 --> 00:38:49,000
+[BARTON]
+Charlie! I've got no one else here! You're the only person I know in Los Angeles...
+ແຊລລີ! ຂ້ອຍບໍ່ມີຄົນອື່ນຢູ່ນີ້!
+ເຈົ້າເປັນຄົນດຽວທີ່ຂ້ອຍຮູ້ຈັກໃນລັສແອນເຈລສ໌...
+
+566
+00:38:49,500 --> 00:38:51,500
+[BARTON]
+...that I can talk to.
+... ທີ່ຂ້ອຍສາມາດເວົ້າໄດ້.
+
+567
+00:38:52,000 --> 00:38:54,000
+[CHARLIE]
+It's okay... It's okay...
+ມັນບໍ່ເປັນຫຍັງ... ມັນບໍ່ແມ່ນຫຍັງ...
+
+568
+00:38:54,500 --> 00:39:00,500
+[BARTON]
+Charlie, I feel like I'm going crazy � like I'm losing my mind. I don't know what to do... I didn't do it, believe me. I'm sure of that, Charlie. I just...
+ແຊລລີ, ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍ ກໍາ ລັງໂຊກຮ້າຍຄືກັບວ່າ ຂ້ອຍ ກໍາ ລັງສູນເສຍຈິດໃຈຂອງຂ້ອຍ.
+ຂ້ອຍບໍ່ຮູ້ວ່າຈະເຮັດຫຍັງ... ຂ້ອຍບໍ່ໄດ້ເຮັດມັນ, ເຊື່ອຂ້ອຍ. ຂ້ອຍແນ່ໃຈວ່າ, ແຊວລີ. ຂ້ອຍພຽງແຕ່...
+
+569
+00:39:01,000 --> 00:39:03,450
+[BARTON]
+...I just don't know what... to do�
+ຂ້ອຍພຽງແຕ່ບໍ່ຮູ້ວ່າຈະເຮັດຫຍັງ...
+
+570
+00:39:03,950 --> 00:39:09,950
+[CHARLIE]
+You gotta get a grip on, brother. You gotta just carry on � just for a few days, till I get back. Try and stay here, keep your door locked. Don't talk to anyone. We just gotta keep our heads and we'll figure it out.
+ເຈົ້າຕ້ອງຄວບຄຸມຕົວເອງ, ອ້າຍ. ເຈົ້າພຽງແຕ່ຕ້ອງສືບຕໍ່ພຽງແຕ່ສອງສາມມື້, ຈົນກວ່າຂ້ອຍຈະກັບມາ. ພະຍາຍາມແລະຢູ່ບ່ອນນີ້
+, ຮັກສາປະຕູຂອງທ່ານຖືກລັອກໄວ້. ຢ່າເວົ້າກັບໃຜ. ພວກເຮົາພຽງແຕ່ຕ້ອງຮັກສາຫົວຂອງພວກເຮົາແລະພວກເຮົາຈະຄິດມັນ.
+
+571
+00:39:10,450 --> 00:39:12,450
+[BARTON]
+Yeah, but Charlie �
+ແມ່ນແລ້ວ, ແຕ່ແຊລລີ
+
+572
+00:39:12,950 --> 00:39:18,950
+[CHARLIE]
+Dammit, don't argue with me. You asked me to believe you � well I do. Now don't argue with me.
+ສະບາຍດີ, ຢ່າໂຕ້ຖຽງກັບຂ້ອຍ. ເຈົ້າຂໍໃຫ້ຂ້ອຍເຊື່ອເຈົ້າດີຂ້ອຍເຮັດ
+. ດຽວນີ້ຢ່າໂຕ້ແຍ່ງກັບຂ້ອຍເລີຍ.
+
+573
+00:39:19,450 --> 00:39:22,600
+[CHARLIE]
+...Look, pal � can you do something for me?
+ເບິ່ງແມ, ເຈົ້າສາມາດເຮັດຫຍັງໄດ້ບໍ?
+
+574
+00:39:23,100 --> 00:39:25,900
+[CHARLIE]
+...Keep this for me, till I get back.
+ຮັກສາສິ່ງນີ້ໄວ້ໃຫ້ຂ້ອຍ, ຈົນກວ່າຂ້ອຍຈະກັບມາ.
+
+575
+00:39:26,400 --> 00:39:32,400
+[CHARLIE]
+...It's just personal stuff. I don't wanna drag it with me, but I don't trust 'em downstairs, and I'd like to think it's in good hands.
+ມັນເປັນພຽງແຕ່ສິ່ງສ່ວນຕົວເທົ່ານັ້ນ. ຂ້ອຍບໍ່ຢາກດຶງມັນກັບຂ້ອຍ,
+ແຕ່ຂ້ອຍບໍ່ເຊື່ອຖືພວກເຂົາຢູ່ລຸ່ມ, ແລະຂ້ອຍຢາກຄິດວ່າມັນຢູ່ໃນມືທີ່ດີ.
+
+576
+00:39:32,900 --> 00:39:34,900
+[BARTON]
+Sure, Charlie.
+ແນ່ນອນ, ແຊລລີ.
+
+577
+00:39:35,400 --> 00:39:41,400
+[CHARLIE]
+Funny, huh, when everything that's important to a guy, everything he wants to keep from a lifetime � when he can fit it into a little box like that. I guess... I guess it's kind of pathetic.
+ມ່ວນຊື່ນ, ຮາ, ເມື່ອທຸກຢ່າງທີ່ສໍາຄັນຕໍ່ຜູ້ຊາຍ, ທຸກຢ່າງທີ່ລາວຢາກຮັກສາໄວ້ຈາກຊີວິດເມື່ອລາວສາມາດເອົາມັນເຂົ້າໄປໃນກ່ອງນ້ອຍໆເຊັ່ນນັ້ນ
+. ຂ້ອຍຄິດວ່າ... ຂ້ອຍຄິດວ່າມັນເປັນຄວາມໂຊກຮ້າຍບາງຢ່າງ.
+
+578
+00:39:41,900 --> 00:39:43,900
+[BARTON]
+It's more than I've got.
+ມັນຫຼາຍກ່ວາທີ່ຂ້ອຍມີ.
+
+579
+00:39:44,400 --> 00:39:50,400
+[CHARLIE]
+Well, keep it for me. Maybe it'll bring you good luck. Yeah, it'll help you finish your script. You'll think about me...
+ດີ, ຮັກສາມັນໄວ້ ສໍາ ລັບຂ້ອຍ. ບາງທີມັນຈະເຮັດໃຫ້ເຈົ້າໂຊກດີ. ແມ່ນແລ້ວ
+, ມັນຈະຊ່ວຍເຈົ້າສິ້ນສຸດບົດຂຽນຂອງທ່ານ. ເຈົ້າຈະຄິດກ່ຽວກັບຂ້ອຍ...
+
+580
+00:39:50,900 --> 00:39:54,750
+[CHARLIE]
+...Make me your wrestler. Then you'll lick that story of yours.
+... ເຮັດໃຫ້ຂ້ອຍເປັນນັກຕໍ່ສູ້ຂອງທ່ານ.
+ຫຼັງຈາກນັ້ນທ່ານຈະລ້າງເລື່ອງຂອງທ່ານນັ້ນ.
+
+581
+00:39:55,250 --> 00:39:57,250
+[BARTON]
+Thanks, Charlie.
+ຂອບໃຈແຊລລີ.
+
+582
+00:39:57,750 --> 00:40:01,250
+[CHARLIE]
+Yeah, well, see you soon, friend. You're gonna be fine.
+ແມ່ນແລ້ວ, ດີ, ພົບກັນໄວໆນີ້, ເພື່ອນ. ເຈົ້າຈະດີດີ.
+
+583
+00:40:01,750 --> 00:40:03,750
+[BARTON]
+You'll be back?
+ເຈົ້າຈະກັບມາບໍ?
+
+584
+00:40:04,250 --> 00:40:07,050
+[CHARLIE]
+Don't worry about that, compadre. I'll be back.
+ຢ່າກັງວົນກ່ຽວກັບເລື່ອງນັ້ນ, ຄູ່ຮ່ວມງານ. ຂ້ອຍຈະກັບມາ.
+
+585
+00:40:07,550 --> 00:40:09,550
+[BARTON]
+Hello... Chet... Who?...
+ສະບາຍດີ... ເຊັດ... ໃຜ?...
+
+586
+00:40:10,050 --> 00:40:13,900
+[BARTON]
+... No, don't send them up here. I'll be right down.
+ບໍ່, ຢ່າສົ່ງພວກເຂົາຂຶ້ນມາບ່ອນນີ້. ຂ້ອຍຈະລົງທັນທີ.
+
+587
+00:40:14,400 --> 00:40:16,400
+[BARTON]
+...You read the Bible, Pete?
+ເຈົ້າອ່ານພຣະຄໍາພີບໍ, ເປັດ?
+
+588
+00:40:16,900 --> 00:40:18,900
+[PETE]
+Holy Bible?
+ພຣະຄໍາພີສັກສິດບໍ?
+
+589
+00:40:19,400 --> 00:40:21,400
+[BARTON]
+Yeah.
+ແມ່ນແລ້ວ.
+
+590
+00:40:21,900 --> 00:40:24,700
+[PETE]
+I think so... Anyway, I've heard about it.
+ຂ້ອຍຄິດວ່າເປັນ... ຢ່າງໃດກໍຕາມ, ຂ້ອຍໄດ້ຍິນກ່ຽວກັບມັນແລ້ວ.
+
+591
+00:40:25,200 --> 00:40:27,200
+[POLICEMAN]
+Fink?
+ຟິນກ໌?
+
+592
+00:40:27,700 --> 00:40:29,700
+[BARTON]
+Yeah.
+ແມ່ນແລ້ວ.
+
+593
+00:40:30,200 --> 00:40:32,200
+[POLICEMAN #2]
+Detective Mastrionotti.
+ນັກສືບ Mastrionotti.
+
+594
+00:40:32,700 --> 00:40:34,700
+[POLICEMAN #1]
+Detective Deutsch.
+ຄົ້ນຄວ້າເຢຍລະມັນ.
+
+595
+00:40:35,200 --> 00:40:37,200
+[BARTON]
+Uh-huh.
+ໂອ້.
+
+596
+00:40:37,700 --> 00:40:40,150
+[DEUTSCH]
+Got a couple questions to ask ya.
+ຂ້ອຍມີຄໍາຖາມສອງສາມຢ່າງທີ່ຈະຖາມເຈົ້າ.
+
+597
+00:40:40,650 --> 00:40:42,650
+[MASTRIONOTTI]
+What do you do, Fink?
+ເຈົ້າເຮັດຫຍັງ, ຟິນກ໌?
+
+598
+00:40:43,150 --> 00:40:45,150
+[BARTON]
+I write.
+ຂ້ອຍຂຽນ.
+
+599
+00:40:45,650 --> 00:40:47,750
+[DEUTSCH]
+Oh yeah? What kind of write?
+ໂອ້ ແມ່ນແລ້ວ? ການຂຽນປະເພດໃດ?
+
+600
+00:40:48,250 --> 00:40:52,100
+[BARTON]
+Well as a matter of fact, I write for the pictures.
+ດີໃນຄວາມເປັນຈິງ, ຂ້ອຍຂຽນ ສໍາ ລັບຮູບພາບ.
+
+601
+00:40:52,600 --> 00:40:54,600
+[MASTRIONOTTI]
+Big fuckin' deal.
+ມັນເປັນເລື່ອງໃຫຍ່ໆ.
+
+602
+00:40:55,100 --> 00:40:57,900
+[DEUTSCH]
+You want my partner to kiss your ass?
+ເຈົ້າຢາກໃຫ້ຄູ່ຮ່ວມງານຂອງຂ້ອຍຈູບຫລັງເຈົ້າບໍ?
+
+603
+00:40:58,400 --> 00:41:00,850
+[MASTRIONOTTI]
+Would that be good enough for ya?
+ມັນພຽງພໍບໍ ສໍາ ລັບເຈົ້າ?
+
+604
+00:41:01,350 --> 00:41:04,500
+[BARTON]
+No, I � I didn't mean to sound �
+ບໍ່, ຂ້ອຍບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະສຽງ
+
+605
+00:41:05,000 --> 00:41:07,000
+[DEUTSCH]
+What DID you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+606
+00:41:07,500 --> 00:41:12,050
+[BARTON]
+I � I've got respect for � for working guys, like you �
+ຂ້ອຍມີຄວາມເຄົາລົບຕໍ່ຜູ້ຊາຍທີ່ເຮັດວຽກ, ເຊັ່ນເຈົ້າ
+
+607
+00:41:12,550 --> 00:41:16,050
+[MASTRIONOTTI]
+Jesus! Ain't that a load off! You live in 605?
+ພຣະເຢຊູ! ນັ້ນບໍ່ແມ່ນການບັນເທົາທຸກບໍ! ເຈົ້າອາໄສຢູ່ໃນ 605 ບໍ?
+
+608
+00:41:16,550 --> 00:41:18,550
+[BARTON]
+Yeah.
+ແມ່ນແລ້ວ.
+
+609
+00:41:19,050 --> 00:41:21,500
+[DEUTSCH]
+How long you been up there, Fink?
+ເຈົ້າຢູ່ເທິງນັ້ນດົນປານໃດ, ຟິນກ໌?
+
+610
+00:41:22,000 --> 00:41:24,100
+[BARTON]
+A week, eight, nine days �
+ອາທິດຫນຶ່ງ, ແປດ, ສິບມື້
+
+611
+00:41:24,600 --> 00:41:26,600
+[MASTRIONOTTI]
+Is this multiple choice?
+ນີ້ແມ່ນການເລືອກຫຼາຍຢ່າງບໍ?
+
+612
+00:41:27,100 --> 00:41:29,100
+[BARTON]
+Nine days � Tuesday �
+ວັນທີເກົ້າວັນອັງຄານ
+
+613
+00:41:29,600 --> 00:41:31,600
+[DEUTSCH]
+You know this slob?
+ເຈົ້າຮູ້ຈັກຄົນໂຊກຮ້າຍຄົນນີ້ບໍ?
+
+614
+00:41:32,100 --> 00:41:34,900
+[BARTON]
+...Yeah, he... he lives next door to me.
+ແມ່ນແລ້ວ, ລາວ... ລາວອາໄສຢູ່ຂ້າງຂ້ອຍ.
+
+615
+00:41:35,400 --> 00:41:38,550
+[MASTRIONOTTI]
+That's right, Fink, he lives next door to you.
+ນັ້ນແມ່ນແລ້ວ, ຟິນກ໌, ລາວອາໄສຢູ່ຂ້າງເຮືອນຂອງທ່ານ.
+
+616
+00:41:39,050 --> 00:41:41,050
+[DEUTSCH]
+Ever talk to him?
+ເຈົ້າເຄີຍເວົ້າກັບລາວບໍ?
+
+617
+00:41:41,550 --> 00:41:44,350
+[BARTON]
+...Once or twice. His name is Charlie Meadows.
+... ຫນຶ່ງ ຫຼືສອງຄັ້ງ. ຊື່ຂອງລາວແມ່ນແຊລລີ Meadows.
+
+618
+00:41:44,850 --> 00:41:46,850
+[MASTRIONOTTI]
+Yeah, and I'm Buck Rogers.
+ແມ່ນແລ້ວ, ແລະຂ້ອຍແມ່ນບັກ ໂຣເຈສ.
+
+619
+00:41:47,350 --> 00:41:49,450
+[DEUTSCH]
+His name is Mundt. Karl Mundt.
+ຊື່ລາວແມ່ນມຸນດ໌. ຄາລ ມຸນຕ໌.
+
+620
+00:41:49,950 --> 00:41:51,950
+[MASTRIONOTTI]
+Also known as Madman Mundt.
+ທີ່ເອີ້ນກັນວ່າຄົນໂຊກຮ້າຍມຸນດ໌.
+
+621
+00:41:52,450 --> 00:41:54,900
+[DEUTSCH]
+He's a little funny in the head.
+ລາວມ່ວນຊື່ນເລັກນ້ອຍໃນຫົວ.
+
+622
+00:41:55,400 --> 00:41:57,500
+[BARTON]
+What did... What did he �
+ລາວເຮັດແນວໃດ... ລາວເຮັດຫຍັງ
+
+623
+00:41:58,000 --> 00:42:03,950
+[MASTRIONOTTI]
+Funny. As in, he likes to ventilate people with a shotgun and then cut their heads off.
+ມ່ວນຊື່ນ. ເຊັ່ນວ່າ,
+ລາວມັກເຮັດໃຫ້ຄົນຫາຍໃຈດ້ວຍປືນປືນແລະຫຼັງຈາກນັ້ນຕັດຫົວຂອງພວກເຂົາອອກ.
+
+624
+00:42:04,450 --> 00:42:06,450
+[DEUTSCH]
+Yeah, he's funny that way.
+ແມ່ນແລ້ວ, ລາວມ່ວນຊື່ນໃນທາງນັ້ນ.
+
+625
+00:42:06,950 --> 00:42:09,400
+[MASTRIONOTTI]
+Started in Kansas City. Couple of housewives.
+ເລີ່ມຕົ້ນໃນເມືອງແຄນຊັສ. ແມ່ຄົວສອງສາມຄົນ.
+
+626
+00:42:09,900 --> 00:42:14,450
+[DEUTSCH]
+Couple of days ago we see the same M.O. out in Los Feliz.
+ສອງສາມມື້ກ່ອນພວກເຮົາເຫັນການປະຕິບັດງານດຽວກັນຢູ່ລັສ ຟີລີສ.
+
+627
+00:42:14,950 --> 00:42:17,050
+[MASTRIONOTTI]
+Doctor. Ear, nose and throat man,.
+ດອກຕໍ. ຫູ, ດັງແລະຄໍຜູ້ຊາຍ,
+
+628
+00:42:17,550 --> 00:42:19,650
+[DEUTSCH]
+All of which he's now missin'.
+ທັງ ຫມົດ ທີ່ລາວຂາດຢູ່ດຽວນີ້.
+
+629
+00:42:20,150 --> 00:42:22,600
+[MASTRIONOTTI]
+Well, some of his throat was there.
+ດີ, ບາງສ່ວນຂອງຄໍຂອງລາວຢູ່ບ່ອນນັ້ນ.
+
+630
+00:42:23,100 --> 00:42:25,100
+[DEUTSCH]
+Physician, heal thyself.
+ທ່ານຫມໍ, ປິ່ນປົວຕົວເອງ.
+
+631
+00:42:25,600 --> 00:42:27,700
+[MASTRIONOTTI]
+Good luck with no fuckin' head.
+ໂຊກດີໂດຍບໍ່ມີຫົວ.
+
+632
+00:42:28,200 --> 00:42:30,200
+[DEUTSCH]
+Anyway.
+ຢ່າງໃດກໍຕາມ.
+
+633
+00:42:30,700 --> 00:42:36,700
+[MASTRIONOTTI]
+Hollywood precinct finds another stiff yesterday. Not too far from here. This one's better looking than the doc.
+ເຂດຮໍລີວູດພົບສົບອີກຄົນຫນຶ່ງມື້ວານນີ້.
+ບໍ່ໄກຈາກບ່ອນນີ້ຫຼາຍ. ຄົນນີ້ເບິ່ງດີກວ່າຫມໍ.
+
+634
+00:42:37,200 --> 00:42:43,200
+[DEUTSCH]
+Female caucasian, thirty years old. Nice tits. No head. You ever see Mundt with anyone meets that description?
+ແມ່ຍິງ Caucasian, ອາຍຸສາມສິບປີ. ທ້ອງທີ່ສວຍງາມ. ບໍ່ມີຫົວ.
+ເຈົ້າເຄີຍເຫັນ Mundt ກັບໃຜທີ່ຕອບສະ ຫນອງ ການອະທິບາຍນັ້ນບໍ?
+
+635
+00:42:43,700 --> 00:42:46,500
+[MASTRIONOTTI]
+But, you know, with the head still on.
+ແຕ່, ເຈົ້າຮູ້ແລ້ວ, ດ້ວຍຫົວຍັງຢູ່.
+
+636
+00:42:47,000 --> 00:42:49,800
+[BARTON]
+...No. I never saw him with anyone else.
+ບໍ່. ຂ້ອຍບໍ່ເຄີຍເຫັນລາວກັບຄົນອື່ນເລີຍ.
+
+637
+00:42:50,300 --> 00:42:52,750
+[DEUTSCH]
+So. You talked to Mundt, what about?
+ສະນັ້ນ. ເຈົ້າໄດ້ເວົ້າກັບມຸນດ໌, ຈະເປັນແນວໃດ?
+
+638
+00:42:53,250 --> 00:42:56,400
+[BARTON]
+Nothing, really. Said he was in the insurance business.
+ບໍ່ມີຫຍັງເລີຍ, ແທ້ຈິງແລ້ວ. ລາວເວົ້າວ່າລາວຢູ່ໃນທຸລະກິດປະກັນໄພ.
+
+639
+00:42:56,900 --> 00:42:58,900
+[DEUTSCH]
+Yeah, and he's Buck Rogers.
+ແມ່ນແລ້ວ, ແລະລາວແມ່ນບັກ ໂຣເຈສ.
+
+640
+00:42:59,400 --> 00:43:02,550
+[MASTRIONOTTI]
+No reputable company would hire a guy like that.
+ບໍ່ມີບໍລິສັດທີ່ມີຊື່ສຽງໃດຈະຈ້າງຄົນແບບນັ້ນ.
+
+641
+00:43:03,050 --> 00:43:05,050
+[BARTON]
+Well that's what he said.
+ດີ ນັ້ນແມ່ນສິ່ງທີ່ລາວເວົ້າ.
+
+642
+00:43:05,550 --> 00:43:07,550
+[DEUTSCH]
+What else?
+ອີກຫຍັງອີກ?
+
+643
+00:43:08,050 --> 00:43:13,300
+[BARTON]
+He... I'm trying to think... Nothing, really... He... He said he liked Jack Oakie pictures.
+ລາວ... ຂ້ອຍ ກໍາ ລັງພະຍາຍາມຄິດ... ບໍ່ມີຫຍັງເລີຍ,
+ແທ້ຈິງແລ້ວ... ລາວ... ລາວເວົ້າວ່າລາວມັກຮູບຂອງແຈກ ໂອເກີ.
+
+644
+00:43:13,800 --> 00:43:19,800
+[MASTRIONOTTI]
+Ya know, Fink, ordinarily we say anything you might remember could be helpful. But I'll be frank with you: That is not helpful.
+ເຈົ້າຮູ້ແລ້ວ, ຟິນກ໌, ປົກກະຕິແລ້ວພວກເຮົາເວົ້າວ່າທຸກຢ່າງທີ່ທ່ານອາດຈະຈື່ໄວ້ສາມາດຊ່ວຍໄດ້
+. ແຕ່ຂ້ອຍຈະເວົ້າຢ່າງຈິງໃຈກັບເຈົ້າ: ນັ້ນບໍ່ແມ່ນຄວາມຊ່ວຍເຫຼືອ.
+
+645
+00:43:20,300 --> 00:43:23,100
+[DEUTSCH]
+Ya see how he's not writing it down?
+ເຈົ້າເຫັນວ່າລາວບໍ່ໄດ້ຂຽນມັນລົງບໍ?
+
+646
+00:43:23,600 --> 00:43:26,050
+[MASTRIONOTTI]
+Fink. That's a Jewish name, isn't it?
+ຟິນກ໌. ນັ້ນແມ່ນຊື່ຊາວຢິວ, ແມ່ນບໍ?
+
+647
+00:43:26,550 --> 00:43:28,550
+[BARTON]
+Yeah.
+ແມ່ນແລ້ວ.
+
+648
+00:43:29,050 --> 00:43:31,850
+[MASTRIONOTTI]
+Yeah, I didn't think this dump was restricted.
+ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ຄິດວ່າບ່ອນເກັບມ້ຽນນີ້ຖືກຈໍາກັດ.
+
+649
+00:43:32,350 --> 00:43:35,850
+[MASTRIONOTTI]
+...Mundt has disappeared. I don't think he'll be back. But...
+... ມຸນດ໌ຫາຍໄປແລ້ວ. ຂ້ອຍບໍ່ຄິດວ່າລາວຈະກັບມາ. ແຕ່...
+
+650
+00:43:36,350 --> 00:43:42,300
+[MASTRIONOTTI]
+...give me a call if you see him. Or if you remember something that isn't totally idiotic.
+... ໂທຫາຂ້ອຍຖ້າເຈົ້າເຫັນລາວ.
+ຫຼືຖ້າເຈົ້າຈື່ບາງສິ່ງບາງຢ່າງທີ່ບໍ່ໂງ່ຢ່າງສົມບູນ.
+
+651
+00:43:42,800 --> 00:43:45,250
+[WOMAN]
+Just a minute and I'll connect you...
+ພຽງແຕ່ນາທີຫນຶ່ງແລະຂ້ອຍຈະເຊື່ອມຕໍ່ເຈົ້າ...
+
+652
+00:43:45,750 --> 00:43:47,750
+[BARTON]
+Hello? Operator! I can't... Oh!
+ສະບາຍດີ? ຜູ້ປະຕິບັດງານ! ຂ້ອຍບໍ່ສາມາດ... ໂອ້!
+
+653
+00:43:48,250 --> 00:43:50,250
+[VOICE]
+...Hello.
+ສະບາຍດີ.
+
+654
+00:43:50,750 --> 00:43:52,750
+[BARTON]
+Garland, it's me.
+ແກຣລານດ໌, ມັນແມ່ນຂ້ອຍ.
+
+655
+00:43:53,250 --> 00:43:56,400
+[GARLAND]
+Barton? What time is it? Are you all right?
+ບາຕັນ? ເວລາເທົ່າໃດ? ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+656
+00:43:56,900 --> 00:44:02,150
+[BARTON]
+Yeah, I'm fine, Garland � I have to talk to you. I'm calling long distance.
+ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ເປັນຫຍັງ, ແກຣລານດ໌
+ຂ້ອຍຕ້ອງເວົ້າກັບເຈົ້າ. ຂ້ອຍ ກໍາ ລັງໂທຫາໄລຍະໄກ.
+
+657
+00:44:02,650 --> 00:44:04,650
+[GARLAND]
+Okay.
+ດີແລ້ວ.
+
+658
+00:44:05,150 --> 00:44:07,150
+[GARLAND]
+...It's Barton. Calling long distance.
+ມັນເປັນບາຕັນ. ໂທຫາໄລຍະໄກ.
+
+659
+00:44:07,650 --> 00:44:10,100
+[GARLAND]
+...What is it Barton? Are you okay?
+ບາຕັນເປັນຫຍັງ? ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+660
+00:44:10,600 --> 00:44:14,100
+[BARTON]
+I'm fine, garland, but I have to talk with you.
+ຂ້ອຍບໍ່ເປັນຫຍັງ, ແກຣລານດ໌, ແຕ່ຂ້ອຍຕ້ອງເວົ້າກັບເຈົ້າ.
+
+661
+00:44:14,600 --> 00:44:16,600
+[GARLAND]
+Go ahead, son.
+ໄປກ່ອນ, ລູກຊາຍ.
+
+662
+00:44:17,100 --> 00:44:21,650
+[BARTON]
+It's about what I'm writing, Garland. It's really... I think it's really big.
+ມັນກ່ຽວກັບສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງຂຽນ, ແກຣລານດ໌
+. ມັນແທ້ໆ... ຂ້ອຍຄິດວ່າມັນໃຫຍ່ແທ້ໆ.
+
+663
+00:44:22,150 --> 00:44:24,150
+[GARLAND]
+What do you mean, Barton?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ, ບາຕັນ?
+
+664
+00:44:24,650 --> 00:44:30,650
+[BARTON]
+Not big in the sense of large � although it's that too. I mean important. This may be the most IMPORTANT work I've done.
+ບໍ່ໃຫຍ່ໃນຄວາມຫມາຍຂອງຂະຫນາດໃຫຍ່ເຖິງແມ່ນວ່າມັນຍັງເປັນນັ້ນເຊັ່ນກັນ.
+ຂ້ອຍຫມາຍຄວາມວ່າສໍາຄັນ. ນີ້ແມ່ນອາດຈະເປັນວຽກທີ່ສໍາຄັນທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຮັດ.
+
+665
+00:44:31,150 --> 00:44:33,600
+[GARLAND]
+Well, I'm... glad to hear that �
+ດີ, ຂ້ອຍ... ດີໃຈທີ່ໄດ້ຍິນນັ້ນ
+
+666
+00:44:34,100 --> 00:44:38,300
+[BARTON]
+Very important, Garland. I just thought you should know that. Whatever happens.
+ມັນມີຄວາມສໍາຄັນຫຼາຍ, ແກຣລານດ໌.
+ຂ້ອຍພຽງແຕ່ຄິດວ່າເຈົ້າຄວນຮູ້ເລື່ອງນັ້ນ. ບໍ່ວ່າຈະເກີດຫຍັງຂຶ້ນ.
+
+667
+00:44:38,800 --> 00:44:40,800
+[GARLAND]
+...That's fine.
+ມັນບໍ່ເປັນຫຍັງ.
+
+668
+00:44:41,300 --> 00:44:43,400
+[BARTON]
+Have you read the Bible, Garland?
+ເຈົ້າເຄີຍອ່ານພຣະຄໍາພີບໍ, ແກຣລານດ໌?
+
+669
+00:44:43,900 --> 00:44:45,900
+[GARLAND]
+...Barton, is everything okay?
+ບາຕັນ, ທຸກຢ່າງດີບໍ?
+
+670
+00:44:46,400 --> 00:44:48,400
+[BARTON]
+Yes... Isn't it?
+ແມ່ນແລ້ວ... ແມ່ນບໍ?
+
+671
+00:44:48,900 --> 00:44:52,050
+[GARLAND]
+Well, I'm just asking. You sound a little �
+ດີ, ຂ້ອຍພຽງແຕ່ຖາມ. ເຈົ້າສຽງ ຫນ້ອຍ ຫນຶ່ງ
+
+672
+00:44:52,550 --> 00:44:54,550
+[BARTON]
+Sound a little what?
+ສຽງຫຍັງຫນ້ອຍຫນຶ່ງ?
+
+673
+00:44:55,050 --> 00:44:57,150
+[GARLAND]
+Well, you just... sound a little�
+ດີ, ເຈົ້າພຽງແຕ່... ສຽງບາງຢ່າງ
+
+674
+00:44:57,650 --> 00:45:00,100
+[BARTON]
+Thanks, Garland. Thanks for all the encouragement.
+ຂອບໃຈ, ແກຣລານດ໌. ຂອບໃຈ ສໍາ ລັບການຊຸກຍູ້ທັງ ຫມົດ.
+
+675
+00:45:00,600 --> 00:45:02,600
+[BARTON]
+...Nitwit.
+... ຄົນໂງ່.
+
+676
+00:45:03,100 --> 00:45:05,100
+[GIRL]
+You're cute!
+ເຈົ້າຫນ້າຮັກ!
+
+677
+00:45:05,600 --> 00:45:08,400
+[SAILOR]
+'Scuse me, buddy, mind if I cut in?
+ຂໍໂທດຂ້ອຍ, ເພື່ອນ, ບໍ່ເປັນຫຍັງຖ້າຂ້ອຍເຂົ້າມາບໍ?
+
+678
+00:45:08,900 --> 00:45:10,900
+[BARTON]
+This is MY dance, sailor!
+ນີ້ແມ່ນການເຕັ້ນຂອງຂ້ອຍ, ນັກເຮືອ!
+
+679
+00:45:11,400 --> 00:45:13,500
+[SAILOR]
+C'mon buddy, I'm shipping out tomorrow.
+ມາແມ, ຂ້ອຍຈະອອກໄປມື້ອື່ນ.
+
+680
+00:45:14,000 --> 00:45:19,950
+[BARTON]
+I'm a writer! Celebrating the completion of something GOOD!  Do you understand that, sailor? I'm a WRITER!
+ຂ້ອຍເປັນນັກຂຽນ! ສະເຫຼີມສະຫຼອງການ ສໍາ ເລັດຂອງບາງສິ່ງບາງຢ່າງທີ່ດີ
+! ເຈົ້າເຂົ້າໃຈມັນບໍ, ນັກເຮືອ? ຂ້ອຍເປັນຜູ້ຂຽນ!
+
+681
+00:45:20,450 --> 00:45:26,450
+[VOICES]
+Step aside, four-eyes! Let someone else spin the dame! Give the navy a dance! Hey, Four-F, take a hike!
+ອອກໄປຂ້າງຫນຶ່ງ, ຕາສີ່! ໃຫ້ຄົນອື່ນຫມູນວຽນຜູ້ຍິງ
+! ໃຫ້ກອງທັບເຮືອເຕັ້ນ! ເຮ້, ສີ່-ຟີ, ຍ່າງ!
+
+682
+00:45:26,950 --> 00:45:31,150
+[BARTON]
+I'm a writer, you monsters! I CREATE! He points at his head.
+ຂ້ອຍເປັນນັກຂຽນ, ພວກເຈົ້າໂມສເຕີ! ຂ້ອຍສ້າງ! ລາວຊີ້ໃຫ້ເຫັນຫົວຂອງລາວ.
+
+683
+00:45:31,650 --> 00:45:33,650
+[BARTON]
+...This is my uniform!
+ນີ້ແມ່ນຊຸດຂອງຂ້ອຍ!
+
+684
+00:45:34,150 --> 00:45:38,700
+[BARTON]
+...THIS is how I serve the common man!  THIS is where I �
+ນີ້ແມ່ນວິທີທີ່ຂ້ອຍຮັບໃຊ້ຄົນທົ່ວໄປ! ນີ້ແມ່ນບ່ອນທີ່ຂ້ອຍ
+
+685
+00:45:39,200 --> 00:45:41,200
+[PETE]
+This stop: six.
+ການຢຸດນີ້: ຫົກ.
+
+686
+00:45:41,700 --> 00:45:47,700
+[MASTRIONOTTI]
+Mother: What is to become of him. Father: We'll be hearing from that crazy wrestler.  And I don't mean a postcard. Fade out. The end.
+ແມ່: ຈະກາຍເປັນຫຍັງຈາກລາວ. ພໍ່: ພວກເຮົາຈະໄດ້ຍິນຈາກນັກຕໍ່ສູ້ຄົນໂຊກຮ້າຍນັ້ນ
+. ແລະຂ້ອຍບໍ່ໄດ້ ຫມາຍ ຄວາມວ່າບັດໄປສະນີ. ສິ້ນສຸດລົງ. ສຸດທ້າຍ.
+
+687
+00:45:48,200 --> 00:45:51,000
+[MASTRIONOTTI]
+...I thought you said you were a writer.
+ຂ້ອຍຄິດວ່າເຈົ້າບອກວ່າເຈົ້າເປັນນັກຂຽນ.
+
+688
+00:45:51,500 --> 00:45:53,950
+[DEUTSCH]
+I dunno, Duke. I kinda liked it.
+ຂ້ອຍບໍ່ຮູ້, ດອກ. ຂ້ອຍມັກມັນບາງຢ່າງ.
+
+689
+00:45:54,450 --> 00:45:56,550
+[BARTON]
+Keep your filthy eyes off that.
+ເອົາຕາເປື້ອນຂອງທ່ານອອກຈາກນັ້ນ.
+
+690
+00:45:57,050 --> 00:45:59,050
+[DEUTSCH]
+You made morning papers, Fink.
+ເຈົ້າເຮັດຫນັງສືພິມຕອນເຊົ້າ, ຟິນກ໌.
+
+691
+00:45:59,550 --> 00:46:02,700
+[MASTRIONOTTI]
+Second one of your friends to end up dead.
+ຄົນທີສອງໃນເພື່ອນຂອງທ່ານທີ່ຈະສິ້ນສຸດລົງຕາຍ.
+
+692
+00:46:03,200 --> 00:46:06,000
+[DEUTSCH]
+You didn't tell us you knew the dame.
+ເຈົ້າບໍ່ໄດ້ບອກພວກເຮົາວ່າເຈົ້າຮູ້ຈັກຜູ້ຍິງນັ້ນ.
+
+693
+00:46:06,500 --> 00:46:08,950
+[MASTRIONOTTI]
+Sixth floor too high for you, Fink?
+ຊັ້ນທີຫົກສູງເກີນໄປ ສໍາ ລັບເຈົ້າບໍ, ຟິນກ໌?
+
+694
+00:46:09,450 --> 00:46:11,450
+[DEUTSCH]
+Give you nose bleeds?
+ເຮັດໃຫ້ເຈົ້າເລືອດດັງບໍ?
+
+695
+00:46:11,950 --> 00:46:15,800
+[DEUTSCH]
+Just tell me one thing, Fink: Where'd you put their heads?
+ພຽງແຕ່ບອກຂ້ອຍສິ່ງດຽວ, ຟິນກ໌: ເຈົ້າເອົາຫົວຂອງພວກເຂົາໄວ້ໃສ?
+
+696
+00:46:16,300 --> 00:46:18,300
+[BARTON]
+Charlie... Charlie's back...
+ແຊລລີ... ແຊວລີກັບມາແລ້ວ...
+
+697
+00:46:18,800 --> 00:46:24,400
+[MASTRIONOTTI]
+No kidding, bright boy � we smelt Mundt all over this. Was he the idea man?
+ບໍ່ໂຊກແຊງ, ເດັກຊາຍທີ່ສົດໃສພວກເຮົາໄດ້ກິ່ນຫອມມຸນດ໌ໃນສິ່ງນີ້ທັງ
+ຫມົດ. ລາວເປັນຜູ້ຊາຍຄວາມຄິດບໍ?
+
+698
+00:46:24,900 --> 00:46:29,100
+[DEUTSCH]
+Tell us where the heads are, maybe they'll go easy on you.
+ບອກພວກເຮົາວ່າຫົວຢູ່ໃສ, ບາງທີພວກເຂົາຈະໄປງ່າຍຕໍ່ເຈົ້າ.
+
+699
+00:46:29,600 --> 00:46:31,600
+[MASTRIONOTTI]
+Only fry you once.
+ພຽງແຕ່ຕົ້ມເຈົ້າຄັ້ງດຽວ.
+
+700
+00:46:32,100 --> 00:46:37,000
+[BARTON]
+Could you come back later?  It's just...  too hot... My head is killing me.
+ເຈົ້າສາມາດກັບມາຕໍ່ມາໄດ້ບໍ? ມັນພຽງແຕ່...
+ຮ້ອນເກີນໄປ... ຫົວຂອງຂ້ອຍ ກໍາ ລັງຂ້າຂ້ອຍ.
+
+701
+00:46:37,500 --> 00:46:40,300
+[DEUTSCH]
+All right, forget the heads. Where's Mundt, Fink?
+ດີແລ້ວ, ລືມຫົວ. ມຸນດ໌ຢູ່ໃສ, ຟິນກ໌?
+
+702
+00:46:40,800 --> 00:46:42,900
+[MASTRIONOTTI]
+He teach you to do it?
+ລາວສອນເຈົ້າເຮັດມັນບໍ?
+
+703
+00:46:43,400 --> 00:46:45,850
+[DEUTSCH]
+You two have some sick sex thing?
+ເຈົ້າທັງສອງມີເລື່ອງທາງເພດທີ່ເຈັບປວດບໍ?
+
+704
+00:46:46,350 --> 00:46:48,450
+[BARTON]
+Sex?! He's a MAN! We WRESTLED!
+ເພດ?! ລາວເປັນຜູ້ຊາຍ! ພວກເຮົາຕໍ່ສູ້ກັນ!
+
+705
+00:46:48,950 --> 00:46:50,950
+[MASTRIONOTTI]
+You're a sick fuck, Fink.
+ເຈົ້າເປັນຄົນເຈັບປ່ວຍ, ຟິນກ໌.
+
+706
+00:46:51,450 --> 00:46:53,550
+[DEUTSCH]
+All right, moron, you're under arrest.
+ດີແລ້ວ, ຄົນໂຊກຮ້າຍ, ເຈົ້າຖືກຈັບກຸມ.
+
+707
+00:46:54,050 --> 00:46:56,150
+[BARTON]
+Charlie's back. It's hot... He's back.
+ແຊລລີກັບມາແລ້ວ. ມັນຮ້ອນ... ລາວກັບມາ.
+
+708
+00:46:56,650 --> 00:46:58,650
+[MASTRIONOTTI]
+...Fred...
+ຟຣີດ...
+
+709
+00:46:59,150 --> 00:47:01,150
+[DEUTSCH]
+Sit tight, Fink.
+ນັ່ງຢູ່ຢ່າງຫມັ້ນຄົງ, ຟິນກ໌.
+
+710
+00:47:01,650 --> 00:47:04,100
+[DEUTSCH]
+Why's it so goddamn hot out here?
+ເປັນຫຍັງມັນຮ້ອນຫຼາຍຢູ່ນີ້?
+
+711
+00:47:04,600 --> 00:47:06,600
+[MASTRIONOTTI]
+...Fred...
+ຟຣີດ...
+
+712
+00:47:07,100 --> 00:47:09,100
+[DEUTSCH]
+... Show yourself, Mundt!
+ສະແດງຕົວເອງ, ມຸນດ໌!
+
+713
+00:47:09,600 --> 00:47:11,600
+[DEUTSCH]
+...Mundt!
+ມຸນດ໌!
+
+714
+00:47:12,100 --> 00:47:17,350
+[MASTRIONOTTI]
+There's a boy, Mundt. Put the policy case down and your mitts in the air.
+ມີເດັກຊາຍຄົນຫນຶ່ງ, ມຸນດ໌.
+ເອົາກໍລະນີນະໂຍບາຍລົງແລະມືຂອງທ່ານໃນອາກາດ.
+
+715
+00:47:17,850 --> 00:47:19,850
+[MASTRIONOTTI]
+He's complying.
+ລາວປະຕິບັດຕາມ.
+
+716
+00:47:20,350 --> 00:47:22,350
+[CHARLIE]
+Heil Hitler.
+ສະບາຍດີຮິຕເລີ.
+
+717
+00:47:22,850 --> 00:47:24,850
+[CHARLIE]
+Barton!
+ບາຕັນ!
+
+718
+00:47:25,350 --> 00:47:27,350
+[CHARLIE]
+...Brother, is it hot.
+ອ້າຍ, ມັນຮ້ອນບໍ.
+
+719
+00:47:27,850 --> 00:47:29,850
+[CHARLIE]
+How you been, buddy?
+ເຈົ້າເປັນແນວໃດ, ເພື່ອນ?
+
+720
+00:47:30,350 --> 00:47:34,550
+[CHARLIE]
+...Don't look at me like that, neighbor.  It's just me � Charlie.
+ຢ່າເບິ່ງຂ້ອຍແບບນັ້ນ, ເພື່ອນບ້ານ. ມັນເປັນພຽງແຕ່ຂ້ອຍແຊລລີ.
+
+721
+00:47:35,050 --> 00:47:37,150
+[BARTON]
+I hear it's Mundt. Madman Mundt.
+ຂ້ອຍໄດ້ຍິນວ່າມັນແມ່ນມຸນດ໌. ຄົນໂຊກຮ້າຍມຸນຕ໌.
+
+722
+00:47:37,650 --> 00:47:39,650
+[CHARLIE]
+Jesus, people can be cruel...
+ພຣະເຢຊູ, ຄົນສາມາດເປັນໂຊກຮ້າຍໄດ້...
+
+723
+00:47:40,150 --> 00:47:42,950
+[CHARLIE]
+...if it's not my build, it's my personality.
+ຖ້າມັນບໍ່ແມ່ນການສ້າງຂອງຂ້ອຍ, ມັນແມ່ນບຸກຄະລິກໍາຂອງຂ້ອຍ.
+
+724
+00:47:43,450 --> 00:47:49,450
+[CHARLIE]
+...They say I'm a madman, Barton, but I'm not mad at anyone. Honest I'm not. Most guys I just feel sorry for. Yeah. It tears me up inside, to think about what they're going through. How trapped they are. I understand it. I feel for 'em. So I try and help them out...
+ພວກເຂົາເວົ້າວ່າຂ້ອຍເປັນຄົນໂຊກຮ້າຍ, ບາຕັນ, ແຕ່ຂ້ອຍບໍ່ໂຊ ກຮ້າຍກັບໃຜ. ໂດຍຄວາມຈິງໃຈຂ້ອຍບໍ່ແມ່ນ. ຜູ້ຊາຍສ່ວນໃຫຍ່ຂ້ອຍພຽງແຕ່ຮູ້ສຶກເສຍໃຈ ສໍາ ລັບ. ແມ່ນແລ້ວ. ມັນເຮັດໃຫ້ຂ້ອຍແຕກໃນພາຍໃນ
+, ເພື່ອຄິດກ່ຽວກັບສິ່ງທີ່ພວກເຂົາ ກໍາ ລັງຜ່ານໄປ. ພວກເຂົາຖືກຈັບກຸມຫຼາຍປານໃດ. ຂ້ອຍເຂົ້າໃຈມັນ. ຂ້ອຍຮູ້ສຶກ ສໍາ ລັບພວກເຂົາ. ສະນັ້ນຂ້ອຍພະຍາຍາມຊ່ວຍພວກເຂົາອອກ...
+
+725
+00:47:49,950 --> 00:47:55,950
+[CHARLIE]
+...Jesus. Yeah. I know what it feels like, when things get all balled up at the head office. It puts you through hell, Barton. So I help people out. I just wish someone would do as much for me...
+... ພຣະເຢຊູ. ແມ່ນແລ້ວ. ຂ້ອຍຮູ້ວ່າມັນຮູ້ສຶກແນວໃດ, ເມື່ອສິ່ງຕ່າງໆຖືກໂບລ໌ໂຊກແຊງຢູ່ຫ້ອງການໃຫຍ່.
+ມັນເຮັດໃຫ້ເຈົ້າຜ່ານອານາໄມ, ບາຕັນ. ສະນັ້ນຂ້ອຍຊ່ວຍຄົນອອກ. ຂ້ອຍພຽງແຕ່ຢາກໃຫ້ໃຜເຮັດຫຼາຍເທົ່າກັບຂ້ອຍ...
+
+726
+00:47:56,450 --> 00:48:02,050
+[CHARLIE]
+...Jesus it's hot. Sometimes it gets so hot, I wanna crawl right out of my skin.
+ພຣະເຢຊູມັນຮ້ອນ. ບາງຄັ້ງມັນຮ້ອນຫຼາຍ, ຂ້ອຍຢາກຍ່າງອອກຈາກຜິວຂອງຂ້ອຍ.
+
+727
+00:48:02,550 --> 00:48:05,000
+[BARTON]
+But Charlie � why me? Why �
+ແຕ່ແຊລລີ ເປັນຫຍັງຂ້ອຍ? ເປັນຫຍັງ
+
+728
+00:48:05,500 --> 00:48:07,500
+[CHARLIE]
+Because you DON'T LISTEN!
+ເພາະເຈົ້າບໍ່ຟັງ!
+
+729
+00:48:08,000 --> 00:48:10,000
+[CHARLIE]
+...Jesus, I'm dripping again.
+ພຣະເຢຊູ, ຂ້ອຍ ກໍາ ລັງໄຫຼອີກເທື່ອຫນຶ່ງ.
+
+730
+00:48:10,500 --> 00:48:16,500
+[CHARLIE]
+...C'mon Barton, you think you know about pain? You think I made your life hell?  Take a look around this dump. You're just a tourist with a typewriter, Barton. I live here. Don't you understand that...
+ມາແບຕັນ, ເຈົ້າຄິດວ່າເຈົ້າຮູ້ກ່ຽວກັບຄວາມເຈັບປວດບໍ? ເຈົ້າຄິດວ່ານຂ້ອຍເຮັດໃຫ້ຊີວິດຂອງເຈົ້າເປັນອານາໄມບໍ?
+ເບິ່ງຢູ່ອ້ອມແອ້ມບ່ອນເກັບມ້ຽນນີ້. ເຈົ້າພຽງແຕ່ເປັນນັກທ່ອງທ່ຽວທີ່ມີເຄື່ອງພິມ, ບາຕັນ. ຂ້ອຍອາໄສຢູ່ນີ້. ເຈົ້າບໍ່ເຂົ້າໃຈວ່າ...
+
+731
+00:48:17,000 --> 00:48:22,250
+[CHARLIE]
+...And you come into MY home... And you complain that I'M making too... much... noise.
+ແລະເຈົ້າເຂົ້າໄປໃນເຮືອນຂອງຂ້ອຍ...
+ແລະເຈົ້າຮ້ອງທຸກວ່າຂ້ອຍ ກໍາ ລັງເຮັດໃຫ້ສຽງດັງຫຼາຍເກີນໄປ.
+
+732
+00:48:22,750 --> 00:48:24,750
+[BARTON]
+...I'm sorry.
+ຂ້ອຍຂໍໂທດ.
+
+733
+00:48:25,250 --> 00:48:27,250
+[CHARLIE]
+Don't be.
+ຢ່າເປັນ.
+
+734
+00:48:27,750 --> 00:48:29,750
+[CHARLIE]
+I'm getting off the merry-go-round.
+ຂ້ອຍ ກໍາ ລັງອອກຈາກການຍ່າງມ່ວນຊື່ນ.
+
+735
+00:48:30,250 --> 00:48:33,050
+[CHARLIE]
+...I'll be next door if you need me.
+ຂ້ອຍຈະຢູ່ຂ້າງເຮືອນຖ້າເຈົ້າຕ້ອງການຂ້ອຍ.
+
+736
+00:48:33,550 --> 00:48:37,050
+[CHARLIE]
+...Oh, I dropped in on your folks. And Uncle Dave?
+ໂອ້, ຂ້ອຍມາເບິ່ງພໍ່ແມ່ຂອງເຈົ້າ. ແລະພໍ່ເຖົ້າເດວບໍ?
+
+737
+00:48:37,550 --> 00:48:42,800
+[CHARLIE]
+...Good people. By the way, that package I gave you? I lied. It isn't mine.
+ຄົນດີໆ. ເຖິງຢ່າງໃດກໍ່ຕາມ, ກະເປົາທີ່ຂ້ອຍໃຫ້ເຈົ້າບໍ
+? ຂ້ອຍຕົວະ. ມັນບໍ່ແມ່ນຂອງຂ້ອຍ.
+
+738
+00:48:43,300 --> 00:48:46,450
+[BARTON]
+Fink! Morris or Lillian Fink! Eighty- five Fulton Street!
+ຟິນກ໌! ໂມຣສສ໌ ຫຼື ລີລິນ ຟິນຄ໌! ຫົກສິບຫ້າຖະຫນົນຟູລຕັນ!
+
+739
+00:48:46,950 --> 00:48:48,950
+[OPERATOR]
+I understand that, sir �
+ຂ້ອຍເຂົ້າໃຈແລ້ວເດີເດີ
+
+740
+00:48:49,450 --> 00:48:51,450
+[BARTON]
+Or Uncle Dave!
+ຫຼືພໍ່ເຖົ້າເດວ!
+
+741
+00:48:51,950 --> 00:48:57,900
+[OPERATOR]
+I understand that, sir, but there's still no answer. Shall I check for trouble on the line?
+ຂ້ອຍເຂົ້າໃຈແລ້ວເດີ, ແຕ່ຍັງບໍ່ມີ
+ຄໍາ ຕອບ. ຂ້ອຍຄວນກວດສອບບັນຫາໃນສາຍບໍ?
+
+742
+00:48:58,400 --> 00:49:00,400
+[LIPNIK]
+Fink.
+ຟິນກ໌.
+
+743
+00:49:00,900 --> 00:49:02,900
+[BARTON]
+Mr. Lipnik.
+ທ້າວ ລິບນິກ.
+
+744
+00:49:03,400 --> 00:49:05,500
+[LIPNIK]
+Colonel Lipnik, if you don't mind.
+ພົນຈັດຕະວາ ລິບນິກ, ຖ້າເຈົ້າບໍ່ສົນໃຈ.
+
+745
+00:49:06,000 --> 00:49:08,000
+[LIPNIK]
+...Siddown.
+... ນັ່ງລົງ.
+
+746
+00:49:08,500 --> 00:49:14,100
+[LIPNIK]
+...I was commissioned yesterday in the Army Reserve. Henry Morgenthau arranged it. He's a dear friend.
+ຂ້ອຍຖືກມອບຫມາຍໃນມື້ວານນີ້ໃນກອງທັບເກັບຮັກສາ. ແຮນຣີ
+ມໍເຈນຕາວໄດ້ຈັດຕັ້ງມັນ. ລາວເປັນເພື່ອນທີ່ຮັກແພງ.
+
+747
+00:49:14,600 --> 00:49:16,600
+[BARTON]
+Congratulations.
+ຂໍສະແດງຄວາມຍິນດີ.
+
+748
+00:49:17,100 --> 00:49:23,100
+[LIPNIK]
+Actually it hasn't officially gone through yet. Had wardrobe whip this up. You gotta pull teeth to get anything done in this town. I can understand a little red tape in peacetime, but now it's all-out warfare against the Japs. Little yellow bastards.  They'd love to see me sit this one out.
+ໃນຄວາມເປັນຈິງມັນຍັງບໍ່ຜ່ານຢ່າງເປັນທາງການເທື່ອ. ມີເຄື່ອງນຸ່ງຫົ່ມ whipping ນີ້ຂຶ້ນ. ເຈົ້າຕ້ອງດຶງແຂ້ວເພື່ອເຮັດຫຍັງໃນເມືອງນີ້. ຂ້ອຍສາມາດເຂົ້າໃຈ
+tape ການຈັດການນ້ອຍໆໃນເວລາສັນຕິພາບ, ແຕ່ດຽວນີ້ມັນເປັນສົງຄາມທັງຫມົດຕໍ່ຕ້ານຊາວຍີ່ປຸ່ນ. ຄົນໂຊກຮ້າຍສີເຫຼືອງນ້ອຍໆ. ພວກເຂົາຢາກເຫັນຂ້ອຍນັ່ງໃນຄັ້ງນີ້.
+
+749
+00:49:23,600 --> 00:49:25,600
+[BARTON]
+Yes sir, they �
+ແມ່ນແລ້ວເດີ, ພວກເຂົາ
+
+750
+00:49:26,100 --> 00:49:29,250
+[LIPNIK]
+Anyway, I had Lou read your script for me.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍໄດ້ໃຫ້ລູອ່ານບົດຂຽນຂອງທ່ານ ສໍາ ລັບຂ້ອຍ.
+
+751
+00:49:29,750 --> 00:49:32,550
+[LIPNIK]
+...I gotta tell you, Fink. It won't wash.
+ຂ້ອຍຕ້ອງບອກເຈົ້າ, ຟິນກ໌. ມັນຈະບໍ່ລ້າງ.
+
+752
+00:49:33,050 --> 00:49:37,600
+[BARTON]
+With all due respect, sir, I think it's the best work I've done.
+ດ້ວຍຄວາມເຄົາລົບທັງ ຫມົດ, ທ້າວ,
+ຂ້ອຍຄິດວ່າມັນເປັນວຽກທີ່ດີທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຮັດ.
+
+753
+00:49:38,100 --> 00:49:44,100
+[LIPNIK]
+Don't gas me, Fink. If you're opinion mattered, then I guess I'd resign and let YOU run the the studio. It doesn't and you won't, and the lunatics are not going to run THIS particular asylum. So let's put a stop to THAT rumor right now.
+ຢ່າສີດແກັສຂ້ອຍ, ຟິນກ໌. ຖ້າຄວາມຄິດເຫັນຂອງທ່ານມີຄວາມສໍາຄັນ, ຫຼັງຈາກນັ້ນຂ້ອຍຄິດວ່າຂ້ອຍຈະລາອອກຈາກຕໍາແຫນ່ງແລະປ່ອຍໃຫ້ເຈົ້າ ດໍາ
+ເນີນສະຕູດິໂອ. ມັນບໍ່ເຮັດແລະເຈົ້າຈະບໍ່ເຮັດ, ແລະຄົນໂຊກຮ້າຍຈະບໍ່ ດໍາ ເນີນໂຮງຫມໍພິເສດນີ້. ສະນັ້ນພວກເຮົາຈະຢຸດຂ່າວລືນັ້ນທັນທີ.
+
+754
+00:49:44,600 --> 00:49:46,600
+[BARTON]
+Yes sir.
+ແມ່ນແລ້ວເດີ.
+
+755
+00:49:47,100 --> 00:49:53,100
+[LIPNIK]
+I had to call Beery this morning, let him know we were pushing the picture back.  After all I'd told him about quality, about that Barton Fink feeling. How disappointed we were. Wally was heartbroken. The man was devastated. He was � well, I didn't actually call him, Lou did. But that's a fair description, isn't it Lou?
+ຂ້ອຍຕ້ອງໂທຫາເບີຣີໃນຕອນເຊົ້ານີ້, ໃຫ້ລາວຮູ້ວ່າພວກເຮົາ ກໍາ ລັງຊຸກຍູ້ຮູບຄືນ. ຫຼັງຈາກທັງ ຫມົດ ຂ້ອຍໄດ້ບອກລາວກ່ຽວກັບຄຸນນະພາບ, ກ່ຽວກັບຄວາມຮູ້ສຶກບາຕັນ
+ຟິນກ໌ນັ້ນ. ພວກເຮົາຜິດຫວັງຫຼາຍປານໃດ. ວາລີຖືກຫົວໃຈແຕກ. ຜູ້ຊາຍຖືກ ທໍາ ລາຍ. ລາວດີ, ຂ້ອຍບໍ່ໄດ້ໂທຫາລາວແທ້ໆ, ໂລ. ແຕ່ນັ້ນແມ່ນການອະທິບາຍທີ່ຍຸຕິທໍາ, ແມ່ນບໍ?
+
+756
+00:49:53,600 --> 00:49:55,600
+[LOU]
+Yes, Colonel.
+ແມ່ນແລ້ວ, ນາຍພົນ.
+
+757
+00:49:56,100 --> 00:50:02,100
+[LIPNIK]
+Hell, I could take you through it step by step, explain why your story stinks, but I won't insult your intelligence. Well all right, first of all: This is a wrestling picture; the audience wants to see action, drama, wrestling, and plenty of it. They don't wanna see a guy wrestling with his soul � well, all right, a little bit, for the critics � but you make it the carrot that wags the dog. Too much of it and they head for exits and I don't blame 'em. There's plenty of poetry right inside that ring, Fink. Look at "Hell Ten Feet Square".
+ສະຫວັນນະເຂດ, ຂ້ອຍສາມາດພາເຈົ້າຜ່ານມັນຂັ້ນຕອນຕໍ່ຂັ້ນຕອນ, ອະທິບາຍວ່າເປັນຫຍັງເລື່ອງຂອງທ່ານກິ່ນຫອມ, ແຕ່ຂ້ອຍຈະບໍ່ໂຊກຮ້າຍຄວາມສະຫຼາດຂອງທ່ານ. ດີດີ, ກ່ອນອື່ນ ຫມົດ: ນີ້ແມ່ນຮູບພາບການຕໍ່ສູ້; ຜູ້ຊົມຢາກເຫັນການກະ
+ທໍາ, ລະຄອນ, ການຕໍ່ສູ້, ແລະຫຼາຍຢ່າງຂອງມັນ. ພວກເຂົາບໍ່ຢາກເຫັນຜູ້ຊາຍຕໍ່ສູ້ກັບຈິດວິນຍານຂອງລາວດີ, ດີ, ຫນ້ອຍ ຫນຶ່ງ, ສໍາ ລັບນັກວິຈານແຕ່ເຈົ້າເຮັດໃຫ້ມັນເປັນກາຣອດທີ່ຍັບຫມາ. ຫຼາຍເກີນໄປແລະພວກເຂົາໄປ
+
+758
+00:50:02,600 --> 00:50:04,600
+[LOU]
+"Blood, Sweat, and Canvas".
+ເລືອດ, ຄວາມຫວານ, ແລະ Canvas.
+
+759
+00:50:05,100 --> 00:50:11,100
+[LIPNIK]
+Look at "Blood, Sweat, and Canvas". These are big movies, Fink. About big men, in tights � both physically and mentally. But especially physically. We don't put Wallace Beery in some fruity movie about suffering � I thought we were together on that.
+ເບິ່ງ"ເລືອດ, ຄວາມຫວານ, ແລະ Canvas". ນີ້ແມ່ນຮູບເງົາໃຫຍ່, ຟິນກ໌. ກ່ຽວກັບຜູ້ຊາຍໃຫຍ່, ໃນເສື້ອຜ້າແອວທັງທາງດ້ານຮ່າງກາຍແລະທາງຈິດໃຈ.
+ແຕ່ໂດຍສະເພາະທາງຮ່າງກາຍ. ພວກເຮົາບໍ່ເອົາວາວລາສ ເບຣີໃນຮູບເງົານ້ ໍາ ຫມາກ ໄມ້ບາງເລື່ອງກ່ຽວກັບຄວາມທຸກທໍລະມານຂ້ອຍຄິດວ່າພວກເຮົາຢູ່ຮ່ວມກັນໃນນັ້ນ.
+
+760
+00:50:11,600 --> 00:50:14,050
+[BARTON]
+I'm sorry if I let you down.
+ຂ້ອຍຂໍໂທດຖ້າຂ້ອຍເຮັດໃຫ້ເຈົ້າຜິດຫວັງ.
+
+761
+00:50:14,550 --> 00:50:20,550
+[LIPNIK]
+You didn't let ME down. Or even Lou. We don't live or die by what you scribble, Fink. You let Ben Geisler down. He liked you. Trusted you. And that's why he's gone. Fired.  That guy had a heart as big as the outdoors, and you fucked him. He tried to convince me to fire you too, but that would be too easy. No, you're under contract and you're gonna stay that way.  Anything you write will be the property of Capitol Pictures. And Capitol Pictures will not produce anything you write. Not until you grow up a little. You ain't no writer, Fink � you're a goddamn write-off.
+ເຈົ້າບໍ່ໄດ້ເຮັດໃຫ້ຂ້ອຍຜິດຫວັງ. ຫຼືແມ້ກະທັ້ງລູ. ພວກເຮົາບໍ່ດໍາລົງຊີວິດຫຼືຕາຍໂດຍສິ່ງທີ່ເຈົ້າຂຽນ, ຟິນກ໌. ເຈົ້າເຮັດໃຫ້ແບນ ແກີສເລີຜິດພາດ. ລາວມັກເຈົ້າ. ເຊື່ອຖືເຈົ້າ. ແລະນັ້ນແມ່ນເຫດຜົນທີ່ລາວໄດ້ໄປແລ້ວ
+. ຖືກໄລ່ອອກ. ຜູ້ຊາຍຄົນນັ້ນມີຫົວໃຈໃຫຍ່ເທົ່າກັບກາງແຈ້ງ, ແລະເຈົ້າໄດ້ຟັກລາວ. ລາວພະຍາຍາມຊັກຊວນຂ້ອຍໃຫ້ໄລ່ເຈົ້າເຊັ່ນກັນ, ແຕ່ມັນຈະງ່າຍເກີນໄປ. ບໍ່, ເຈົ້າຢູ່ພາຍໃຕ້ສັນຍາແລະເຈົ້າຈະຢູ່ແບບນັ້ນ.
+
+762
+00:50:21,050 --> 00:50:25,600
+[BARTON]
+I tried to show you something beautiful.  Something about all of US �
+ຂ້ອຍພະຍາຍາມສະແດງໃຫ້ເຈົ້າເຫັນບາງສິ່ງບາງຢ່າງທີ່ສວຍງາມ
+. ບາງຢ່າງກ່ຽວກັບພວກເຮົາທຸກຄົນ
+
+763
+00:50:26,100 --> 00:50:32,100
+[LIPNIK]
+You arrogant sonofabitch!  You think you're the only writer who can give me that Barton Fink feeling?!  I got twenty writers under contract that I can ask for a Finktype thing from. You swell-headed hypocrite!  You just don't get it, do you?  You think the whole world revolves inside whatever rattles inside that little kike head of yours. Get him outta my sight, Lou. Make sure he stays in town, though; he's still under contract. I want you in town, Fink, and outta my sight. Now get lost. There's a war on.
+ເຈົ້າໂຊນຟາບິກທີ່ໂກດຮ້າຍ! ເຈົ້າຄິດວ່າເຈົ້າເປັນນັກຂຽນຄົນດຽວທີ່ສາມາດເຮັດໃຫ້ຂ້ອຍມີຄວາມຮູ້ສຶກແບຕັນ ຟິນກ໌ນັ້ນໄດ້ບໍ?! ຂ້ອຍມີນັກຂຽນສິບຄົນພາຍໃຕ້ສັນຍາທີ່ຂ້ອຍສາມາດຂໍສິ່ງຂອງປະເພດຟິນຄ໌ຈາກ.
+ເຈົ້າເປັນຄົນປອມປອມຫົວໃຫຍ່! ເຈົ້າພຽງແຕ່ບໍ່ເຂົ້າໃຈມັນ, ເຈົ້າບໍ່? ເຈົ້າຄິດໂລກທັງ ຫມົດ ຫມູນ ວຽນພາຍໃນສິ່ງໃດກໍ່ຕາມທີ່ສັ່ນສະເທືອນພາຍໃນຫົວນ້ອຍໆຂອງເຈົ້າ. ເອົາລາວອອກຈາກສາຍຕາຂອງຂ້ອຍ, ລູ. ໃຫ້ແນ່ໃຈວ່າ
+
+764
+00:50:32,600 --> 00:50:34,700
+[BEAUTY]
+I said it's a beautiful day...
+ຂ້ອຍບອກວ່າມັນເປັນມື້ທີ່ສວຍງາມ...
+
+765
+00:50:35,200 --> 00:50:37,200
+[BARTON]
+Yes... It is...
+ແມ່ນແລ້ວ... ມັນເປັນ...
+
+766
+00:50:37,700 --> 00:50:39,700
+[BEAUTY]
+What's in the box?
+ມີຫຍັງຢູ່ໃນກ່ອງ?
+
+767
+00:50:40,200 --> 00:50:42,200
+[BARTON]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+768
+00:50:42,700 --> 00:50:44,700
+[BEAUTY]
+Isn't it yours?
+ມັນບໍ່ແມ່ນຂອງເຈົ້າບໍ?
+
+769
+00:50:45,200 --> 00:50:47,200
+[BARTON]
+I... I don't know...
+ຂ້ອຍ... ຂ້ອຍບໍ່ຮູ້...
+
+770
+00:50:47,700 --> 00:50:50,150
+[BARTON]
+...You're very beautiful. Are you in pictures?
+ເຈົ້າສວຍງາມຫຼາຍ. ເຈົ້າຢູ່ໃນຮູບບໍ?
+
+771
+00:50:50,650 --> 00:50:52,650
+[BEAUTY]
+Don't be silly.
+ຢ່າເປັນຄົນໂງ່.
+

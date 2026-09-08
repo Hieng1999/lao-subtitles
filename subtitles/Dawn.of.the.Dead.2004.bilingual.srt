@@ -1,0 +1,898 @@
+1
+00:00:10,000 --> 00:00:12,000
+[HAPPEN.]
+Voice:	YES, BUT THAT'S...
+ສຽງ: ແມ່ນແລ້ວ, ແຕ່ມັນ...
+
+2
+00:00:12,500 --> 00:00:18,450
+[TO STAY ON AIR.]
+7	Fran staggers over to the control consoles. The technicians are at the end of their ropes.
+7 ແຟຣນຍ່າງໄປຫາກະດານຄວບຄຸມ. ນັກວິຊາການຢູ່ຕອນທ້າຍຂອງສາຍຂອງພວກເຂົາ.
+
+3
+00:00:18,950 --> 00:00:22,800
+[BELIEVE...]
+TV Man 2:    DO YOU BELIEVE THE DEAD ARE RETURNING TO
+ຜູ້ຊາຍໂທລະພາບ 2: ເຈົ້າເຊື່ອວ່າຄົນຕາຍຈະກັບມາ
+
+4
+00:00:23,300 --> 00:00:25,400
+[LIFE?]
+TV Man 1:    I'M NOT SO...
+ຜູ້ຊາຍໂທລະພາບ 1: ຂ້ອຍບໍ່ແມ່ນຫຼາຍ...
+
+5
+00:00:25,900 --> 00:00:27,900
+[SAY AGAIN...CAN'T HEAR YOU...]
+Fran:	RESCUE STATIONS?
+ແຟຣນ: ສະຖານີຊ່ວຍເຫຼືອບໍ?
+
+6
+00:00:28,400 --> 00:00:30,400
+[PEOPLE TO INOPERATIVE...]
+Charlie:
+ແຊລລີ:
+
+7
+00:00:30,900 --> 00:00:36,900
+[SAY AGAIN, NEW HOPE...]
+Charlie makes more notes and hands them to Fran. Still listening on the receiver, he speaks to the woman again.
+ແຊລລີເຮັດຂໍ້ສັງເກດເພີ່ມເຕີມແລະມອບໃຫ້ຟຣານ.
+ຍັງຟັງໃນເຄື່ອງຮັບ, ລາວເວົ້າກັບແມ່ຍິງອີກຄັ້ງ.
+
+8
+00:00:37,400 --> 00:00:40,900
+[TOO. GOOD LUCK.]
+Fran snatches up the sheets and moves across the room.
+ແຟຣນເອົາແຜ່ນແລະຍ້າຍຂ້າມຫ້ອງ.
+
+9
+00:00:41,400 --> 00:00:47,400
+[LARGE!]
+18	 Another outraged cry goes up from the stagehands and observers. Doctor Foster tries to out-scream the cries...
+18 ການຮ້ອງໄຫ້ທີ່ໂຊກຮ້າຍອີກຄັ້ງຂຶ້ນຈາກຜູ້ຈັດການເວທີແລະຜູ້ສັງເກດການ
+. ດອກຕໍຟອດສເຕີພະຍາຍາມເອົາຊະນະການຮ້ອງໄຮ...
+
+10
+00:00:47,900 --> 00:00:49,900
+[BODY.]
+Another outburst in the studio.
+ການລະເບີດອີກຄັ້ງໃນສະຕູດິໂອ.
+
+11
+00:00:50,400 --> 00:00:52,850
+[WE'RE LOSIN' THIS WAR.]
+Fran:	YEAH, BUT NOT TO THE ENEMY.
+ແຟຣນ: ແມ່ນແລ້ວ, ແຕ່ບໍ່ແມ່ນກັບສັດຕູ.
+
+12
+00:00:53,350 --> 00:00:57,200
+[WE'RE BLOWIN' IT OURSELVES.]
+She gives the rest of her coffee to the two men.
+ນາງໃຫ້ກາເຟທີ່ເຫຼືອຂອງນາງໃຫ້ຜູ້ຊາຍສອງຄົນ.
+
+13
+00:00:57,700 --> 00:01:03,700
+[WE'RE ON THE AIR.]
+Fran is about to say something in anger, but before she can, one of the technicians, having overheard Givens, gets up from the control panel and starts to walk away.
+ແຟຣນ ກໍາ ລັງຈະເວົ້າບາງສິ່ງບາງຢ່າງໃນຄວາມໂຊກຮ້າຍ, ແຕ່ກ່ອນທີ່ນາງຈະສາມາດເຮັດໄດ້,
+ຫນຶ່ງ ໃນນັກວິຊາການ, ຫຼັງຈາກໄດ້ຍິນຈີເວນສ໌, ຂຶ້ນຈາກກະດານຄວບຄຸມແລະເລີ່ມຕົ້ນຍ່າງໄປ.
+
+14
+00:01:04,200 --> 00:01:06,200
+[WE'RE LOSING PICTURE...]
+Givens:	 OFFICER...STOP THOSE MEN...
+ເຈົ້າຫນ້າທີ່... ຢຸດຜູ້ຊາຍເຫຼົ່ານັ້ນ...
+
+15
+00:01:06,700 --> 00:01:12,700
+[THE CITY...]
+33	 Technicians abandon their posts. A few others jump in to take their places, but pandemonium reigns. A cameraman whips off his headset and breaks for the door. His camera spins on its liquid head, and on the monitors, we see a whirling blur as Foster continues to speak.
+ຜູ້ຊ່ຽວຊານເຕັກນິກ 33 ຄົນປະຖິ້ມຕໍາແຫນ່ງຂອງພວກເຂົາ. ຄົນອື່ນບາງຄົນໂດດເຂົ້າມາເພື່ອເອົາບ່ອນຂອງພວກເຂົາ, ແຕ່ໂລກລະບາດປົກຄອງ. ນັກຖ່າຍຮູບເອົາຫູຟັງຂອງລາວອອກແລະແຕກ
+ສໍາ ລັບປະຕູ. ກ້ອງຖ່າຍພາບຂອງລາວ ຫມູນ ວຽນໃສ່ຫົວແຫຼວຂອງມັນ, ແລະໃນເຄື່ອງຕິດຕາມກວດກາ, ພວກເຮົາເຫັນຄວາມສັບສົນທີ່ຫມູນວຽນໃນຂະນະທີ່ຟອດເຕີສືບຕໍ່ເວົ້າ.
+
+16
+00:01:13,200 --> 00:01:15,200
+[WE'RE GETTING OUT.]
+Fran:	 STEPHEN...I DON'T BELIEVE THIS...WHAT...
+ແຟຣນ: ສເຕຟັນ... ຂ້ອຍບໍ່ເຊື່ອສິ່ງນີ້... ວ່າ...
+
+17
+00:01:15,700 --> 00:01:21,700
+[LOOKIN' FOR YA.]
+Stephen is gone in a flash. Fran nervously looks back at the cameraman. The argument still rages between Foster and Berman. The cameraman, without taking his eye from the viewfinder, speaks to Francine quietly and slowly.
+ສເຕຟັນຫາຍໄປໃນແສງສະຫວ່າງ. ແຟຣນເບິ່ງກັບຄືນໄປບ່ອນຄົນຖ່າຍຮູບດ້ວຍຄວາມກັງວົນ. ການໂຕ້ຖຽງຍັງຮ້າຍແຮງລະຫວ່າງຟອດເຕີແລະເບີແມນ
+. ຜູ້ຖ່າຍພາບ, ໂດຍບໍ່ຕ້ອງເອົາຕາຈາກເຄື່ອງຊອກຫາເບິ່ງ, ເວົ້າກັບແຟຮນຊິນຢ່າງງຽບສະຫງົບແລະຊ້າໆ.
+
+18
+00:01:22,200 --> 00:01:28,200
+[AND NEITHER DO YOU!]
+42	 There is no sign of life in the building. The great concrete slab is silhouetted silently against the darkening sky.
+42 ບໍ່ມີສັນຍານຂອງຊີວິດໃນອາຄານ. ແຜ່ນຄອນກີດທີ່ໃຫຍ່ຖືກ
+silhouetted ຢ່າງງຽບສະຫງົບຕໍ່ກັບສະຫວັນທີ່ມືດລົງ.
+
+19
+00:01:28,700 --> 00:01:30,700
+[PEOPLE...]
+Roger:	YET.
+ໂຣເຈີ: ແມ່ນແລ້ວ.
+
+20
+00:01:31,200 --> 00:01:37,200
+[NIGGER ASSES RIGHT OFF...]
+Roger is greatly concerned. He looks at one of the other men, a young, smoothed faced rookie. The boy doesn't know now to react. He is obviously nervous.
+ໂຣເຈີມີຄວາມກັງວົນຫຼາຍ. ລາວເບິ່ງຜູ້ຊາຍຄົນອື່ນຫນຶ່ງ, ຄົນໃຫມ່ທີ່ຫນຸ່ມໆ,
+ມີໃບຫນ້າລຽບງ່າຍ. ເດັກຊາຍບໍ່ຮູ້ດຽວນີ້ທີ່ຈະປະຕິກິລິຍາ. ລາວເປັນທີ່ແນ່ນອນວ່າເຄັ່ງຕຶງ.
+
+21
+00:01:37,700 --> 00:01:40,850
+[GO IN.]
+The boy nods, grateful for a more human contact.
+ເດັກຊາຍຍືດຫົວ, ຂອບໃຈ ສໍາ ລັບການຕິດຕໍ່ກັບມະນຸດຫຼາຍຂຶ້ນ.
+
+22
+00:01:41,350 --> 00:01:43,350
+['EM OUT. BLOW THEIR ASSES!]
+Roger:
+ໂຣເຈີ:
+
+23
+00:01:43,850 --> 00:01:45,950
+[YOU GONNA BE ALRIGHT?]
+The boy nods in the affirmative.
+ເດັກຊາຍຍືດຫົວໃນຄໍາຢືນຢັນ.
+
+24
+00:01:46,450 --> 00:01:52,450
+[MY TIME!]
+44	 CRASH! Without warning, the metal door to the fire stair bursts open and several figures rush out of the darkness. Shots are fired from hand guns. A bullet smashes through the skull of the young boy next to Roger. He falls against Roger with a pleading expression on his face.
+44 ການຕົກລົງ! ໂດຍບໍ່ມີການເຕືອນລ່ວງຫນ້າ, ປະຕູໂລຫະໄປສູ່ຂັ້ນເທິງໄຟແຕກເປີດແລະຕົວເລກຫຼາຍຄົນແລ່ນອອກຈາກຄວາມມືດ.
+ການຍິງຖືກຍິງຈາກປືນມື. ລູກປືນແຕກຜ່ານຫົວຂອງເດັກຊາຍຫນຸ່ມຢູ່ຂ້າງໂຣເຈີ. ລາວຕົກຕໍ່ໂຣເຈຍດ້ວຍການສະແດງອອກທີ່ຮ້ອງຂໍໃນໃບຫນ້າຂອງລາວ.
+
+25
+00:01:52,950 --> 00:01:54,950
+[GODDAMMIT!]
+Sergeant:
+ນາຍພົນ:
+
+26
+00:01:55,450 --> 00:02:01,450
+[ALL UNITS... FULL OPERATION!]
+46	 On the roof, Roger struggles under the dead weight of the young man. He tries to free himself and his weapons. Shots ring out.
+46 ຢູ່ເທິງເຮືອນຫລັງ, ໂຣເຈີ ກໍາ ລັງຕໍ່ສູ້ພາຍໃຕ້ນ້ ໍາ ຫນັກ
+ທີ່ຕາຍຂອງຜູ້ຊາຍຫນຸ່ມ. ລາວພະຍາຍາມປ່ອຍຕົວເອງແລະອາວຸດຂອງລາວ. ການຍິງສຽງອອກ.
+
+27
+00:02:01,950 --> 00:02:06,150
+[COME AND GET 'EM...]
+He fires again and again, even though the skirmish is winding down.
+ລາວຍິງອີກຄັ້ງແລະອີກຄັ້ງ, ເຖິງແມ່ນວ່າການຕໍ່ສູ້ ກໍາ ລັງສິ້ນສຸດລົງ.
+
+28
+00:02:06,650 --> 00:02:12,250
+[DOWN THE STAIRS.]
+Roger and Wooley and the men in their unit, snap on their bizarre looking gas masks.
+ໂຣເຈີ ແລະ ວູລີ ແລະຜູ້ຊາຍໃນຫນ່ວຍງານຂອງພວກເຂົາ
+, ຈັບໃສ່ ຫນ້າ ກາກແກັສທີ່ເບິ່ງແປກໃຈຂອງພວກເຂົາ.
+
+29
+00:02:12,750 --> 00:02:18,750
+[I DIDN'T SEE HOW HE DIED.]
+Roger slings his rifle, so the Trooper relaxes and lowers his gun. He removes his gas mask. He is Black.
+ໂຣເຈີຖິ້ມປືນຂອງລາວ, ສະນັ້ນທະຫານໄດ້ຜ່ອນຄາຍແລະຫຼຸດປືນຂອງຕົນ
+. ລາວເອົາ ຫນ້າ ກາກແກັສຂອງລາວອອກ. ລາວເປັນສີ ດໍາ.
+
+30
+00:02:19,250 --> 00:02:21,250
+[I JUST MEAN 'CAUSE OF...]
+Voice:	YEAH. I KNOW.
+ສຽງ: ແມ່ນແລ້ວ. ຂ້ອຍຮູ້ແລ້ວ.
+
+31
+00:02:21,750 --> 00:02:24,550
+[I COULD RUN.]
+Roger stares up at the grim faced Black.
+ໂຣເຈີເບິ່ງຄົນສີດໍາທີ່ຫນ້າໂຊກຮ້າຍ.
+
+32
+00:02:25,050 --> 00:02:31,050
+[PLEASE TO LET ME PASS...]
+The voice weakens into a low wheezing cough. The figure slumps and sits on the steps, clinging to the railing. It is an old Priest, obviously from a local Puerto Rican Parish.
+ສຽງອ່ອນແອລົງເປັນກະທູ້ທີ່ສັ່ນສະເທືອນຕໍ່າ. ຮູບຮ່າງຕົກລົງແລະນັ່ງຢູ່ເທິງຂັ້ນຕອນ
+, ຈັບມືກັບລາງແຄມ. ມັນແມ່ນປະໂລຫິດເກົ່າ, ແນ່ນອນຈາກເມືອງພູຕໍຣິກາກອນທ້ອງຖິ່ນ.
+
+33
+00:02:31,550 --> 00:02:35,050
+[FLOOR...TO FIND MY SISTER...]
+Roger:	THEY'RE TAKIN' EVERYONE DOWN...THEY PROBABLY BROUGHT HER DOWN...COME ONE...
+ໂຣເຈີ: ພວກເຂົາ ກໍາ ລັງເອົາທຸກຄົນລົງ...
+ພວກເຂົາອາດຈະເຮັດໃຫ້ນາງລົງ... ມາຄົນຫນຶ່ງ...
+
+34
+00:02:35,550 --> 00:02:41,550
+[UP THEIR DEAD...TO NO ONE!]
+The Priest goes into a coughing fit. The Troopers look on. Roger wants to help in some way.
+ເຈົ້າປະໂລຫີເຂົ້າໄປໃນການໂຊກຮ້າຍ.
+ທະຫານເບິ່ງ. ໂຣເຈີຢາກຊ່ວຍໃນທາງໃດຫນຶ່ງ.
+
+35
+00:02:42,050 --> 00:02:45,550
+[YOU FIND THEM...]
+The Troopers are shocked. The Priest struggles to his feet.
+ພວກທະຫານຕົກໃຈ. ພະສົງຕໍ່ສູ້ກັບຕີນຂອງລາວ.
+
+36
+00:02:46,050 --> 00:02:52,050
+[NOW...YOU DO WHAT YOU WILL...]
+The old man starts up the stairs. Roger moves to help him, but the big Black man stops him. The Priest weaves up through the gas mist, coughing.
+ຜູ້ເຖົ້າຄົນເລີ່ມຂຶ້ນຂັ້ນເທິງ. ໂຣເຈີເຄື່ອນຍ້າຍເພື່ອຊ່ວຍລາວ
+, ແຕ່ຜູ້ຊາຍສີດໍາໃຫຍ່ຢຸດລາວ. ປະໂລຫິດເຄືອບຜ່ານຫມອກແກັສ, ໄຂ້.
+
+37
+00:02:52,550 --> 00:02:54,650
+[DO IT?]
+Black:	'CAUSE THEY STILL BELIEVE THERE'S
+ສີດໍາ: ເພາະວ່າພວກເຂົາຍັງເຊື່ອວ່າມີ
+
+38
+00:02:55,150 --> 00:02:59,000
+[RESPECT IN DYING.]
+The big man fires into the head of another squirming Zombie.
+ຜູ້ຊາຍໃຫຍ່ຍິງໃສ່ຫົວຂອງໂຊມບີອີກຄົນ ຫນຶ່ງ ທີ່ສັ່ນສະເທືອນ.
+
+39
+00:02:59,500 --> 00:03:05,500
+[IT'S TOUGH TO GET USED TO IT.]
+He pulls her quickly along. They have to actually step over the civilian corpse. Fran freezes again. She can't bring herself to walk over the body. Steve lets go of her hand and checking the tank gauge, he pulls the hose with him as he moves quickly back to Fran. The long hose is heavy, and it bobbles the civilian corpse, almost rolling it over. The back of the bodies head has been blown out by the exit wound of a powerful bullet. Blood still runs. The wound is fresh. Steve does not see this as he tugs the hose over the corpse and moves to the helicopter with Fran following.
+ລາວດຶງນາງໄປຢ່າງໄວວາ. ພວກເຂົາຕ້ອງຍ່າງຜ່ານສົບພົນລະເຮືອນແທ້ໆ. ແຟຣນກ້ອນອີກຄັ້ງ. ນາງບໍ່ສາມາດເຮັດໃຫ້ຕົວເອງຍ່າງຢູ່ເທິງສົບ. ສຕິວປ່ອຍມືຂອງນາງແລະກວດສອບວັດແທກຖັງ,
+ລາວດຶງທໍ່ກັບລາວໃນຂະນະທີ່ລາວຍ້າຍກັບຄືນໄປບ່ອນແຟຣານຢ່າງໄວໄວ. ທໍ່ຍາວແມ່ນຫນັກຫນັກ, ແລະມັນ bobbles ສາກົນ, ເກືອບ roll ມັນ. ດ້ານຫຼັງຂອງຫົວຂອງສົບໄດ້ຖືກລະເບີດອອກໂດຍບາດເຈັບການອອກຂອງລູກ
+
+40
+00:03:06,000 --> 00:03:12,000
+[SPITS OUT AT YA.]
+The woman takes over and Stephen trots away toward the guard shed. The propeller blades still spin. They make an eerie, whispering sound as they pass over Fran's head. She can hear the lapping water now, and the creaking moans of the shifting docks. She looks this way and that, fear in her eyes.
+ຄຸເຂົ່າລົງ
+
+41
+00:03:12,500 --> 00:03:14,500
+[STEVE ANDREWS.]
+Steve:	 RIGHT...THAT'S ME...I'M STEVE ANDREW...
+ສຕິວ: ແມ່ນແລ້ວ... ນັ້ນແມ່ນຂ້ອຍ... ຂ້ອຍແມ່ນສຕິວ ແອນດຣູ...
+
+42
+00:03:15,000 --> 00:03:21,000
+[CAN'T DRIVER MYSELF!]
+86	 Officer 2 has returned to the van and is carrying out another carton rushing back to the launch.
+ເຈົ້າຫນ້າທີ່ທີ 2 ໄດ້ກັບຄືນໄປບ່ອນລົດບັນທຸກແລະ ກໍາ
+ລັງປະຕິບັດກະຕູ້ອີກຫນຶ່ງທີ່ແລ່ນກັບຄືນສູ່ການເປີດຕົວ.
+
+43
+00:03:21,500 --> 00:03:26,050
+[J.A.S. TRAFFIC BIRD...]
+The man starts to grin with knowing. He suddenly feels in more control.
+ຜູ້ຊາຍເລີ່ມມ່ວນຊື່ນດ້ວຍຄວາມຮູ້. ລາວຮູ້ສຶກຄວບຄຸມຫຼາຍຂຶ້ນທັນທີ.
+
+44
+00:03:26,550 --> 00:03:29,000
+[GASOLINE.]
+96	 Roger:	WHAT DO YOU MEAN FRIENDS?
+ໂຣເຈີ: ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ Friends?
+
+45
+00:03:29,500 --> 00:03:31,500
+[ANOTHER, NOW WOULDN'T IT?]
+98	 Roger:	SURE WOULD.
+98 ໂຣເຈີ: ແນ່ນອນວ່າຈະເຮັດ.
+
+46
+00:03:32,000 --> 00:03:38,000
+[TIMES IS TENSE.]
+100	The policemen start to unload crates and cartons from their Van. The big Black Trooper pulls a few supplies from out of the squad car and carries them toward the helicopter.
+ຄຸເຂົ່າລົງ
+
+47
+00:03:38,500 --> 00:03:40,500
+[THE ISLANDS.]
+Steve:	WHAT ISLANDS?
+ສຕັບ: ເກາະໃດ?
+
+48
+00:03:41,000 --> 00:03:47,000
+[SOME BROTHERS.]
+109	The whirlybird cuts through the dark night sky. It flies over open country now, moving West. Some time has passed.
+109 ນົກຫມູນວຽນຕັດຜ່ານສະຫວັນມືດໃນຕອນກາງຄືນ. ມັນບິນຜ່ານເຂດເປີດດຽວນີ້
+, ຍ້າຍໄປທາງຕາເວັນຕົກ. ເວລາບາງເວລາໄດ້ຜ່ານໄປແລ້ວ.
+
+49
+00:03:47,500 --> 00:03:50,300
+[HE YOUR MAN NOW?]
+Fran is taken off guard. She smiles slightly.
+ແຟຣນຖືກຈັບກຸມໂດຍບໍ່ລະມັດລະວັງ. ນາງມ່ວນຊື່ນເລັກນ້ອຍ.
+
+50
+00:03:50,800 --> 00:03:53,250
+[YOU KNOW WHERE YOU ARE?]
+Steve:	I KNOW EXACTLY WHERE WE ARE.
+ສຕັບ: ຂ້ອຍຮູ້ວ່າພວກເຮົາຢູ່ໃສຢ່າງແນ່ນອນ.
+
+51
+00:03:53,750 --> 00:03:59,700
+[LANDIN' IN.]
+113	In the morning light, several fires can be seen on the ground, where buildings are burning.
+113 ໃນແສງສະຫວ່າງຕອນເຊົ້າ, ໄຟຫຼາຍຢ່າງສາມາດເຫັນໄດ້ຢູ່ເທິງພື້ນດິນ
+, ບ່ອນທີ່ອາຄານຖືກເຜົາໄຫມ້.
+
+52
+00:04:00,200 --> 00:04:02,300
+[THEY CAN'T CATCH YOU.]
+She hesitates. The Zombies draw closer.
+ນາງສົງໄສ. ໂຊມບີໃກ້ຊິດ.
+
+53
+00:04:02,800 --> 00:04:08,800
+[WE CAN HANDLE THEM!]
+Fran charges up the little grade. She runs to the right of the creatures and they move in her direction, arms outstretched. As she draws near to the dead things, she hesitates again in fright. The creatures claw at the air. The one in front is within a few feet of the woman.
+ແຟຣນໂຫຼດຂຶ້ນລະດັບນ້ອຍໆ. ນາງແລ່ນໄປທາງຂວາຂອງສັດແລະພວກເຂົາເຄື່ອນຍ້າຍໄປທາງຂອງນາງ, ແຂນຍືດອອກ. ໃນຂະນະທີ່ນາງໃກ້ຊິດກັບສິ່ງຕາຍ
+, ນາງລັງເລອີກຄັ້ງໃນຄວາມຢ້ານກົວ. ສັດ claw ໃນອາກາດ. ຄົນຢູ່ທາງຫນ້າແມ່ນພາຍໃນສອງສາມແມັດຂອງແມ່ຍິງ.
+
+54
+00:04:09,300 --> 00:04:15,300
+[ISN'T IT?]
+Stephen looks up at the tall man, shivering. Then Peter lowers his weapon and extends his hand, helping Stephen up onto his feet.
+ສເຕຟັນເບິ່ງຜູ້ຊາຍສູງຂຶ້ນ, ຢ້ານກົວ.
+ຫຼັງຈາກນັ້ນເປຕຣ໌ຫຼຸດອາວຸດຂອງລາວແລະຍືດມືຂອງລາວ, ຊ່ວຍສເຕຟນຂຶ້ນເທິງຕີນຂອງລາວ.
+
+55
+00:04:15,800 --> 00:04:21,750
+[GET OUT ALIVE.]
+Peter:	WE MIGHT NOT GET OUT OF ANY PLACE ALIVE. WE ALMOST DIDN'T GET OUT OF HERE.
+ເປຕຣ໌: ພວກເຮົາອາດຈະອອກຈາກບ່ອນໃດທີ່ຢູ່ອາໄສ
+. ພວກເຮົາເກືອບຈະບໍ່ອອກຈາກບ່ອນນີ້.
+
+56
+00:04:22,250 --> 00:04:27,850
+[NEARLY BLEW ME AWAY!]
+Stephen turns around and is about to say something angrily. Roger stops him by speaking urgently.
+ສເຕຟັນຫັນໄປແລະ ກໍາ ລັງຈະເວົ້າບາງສິ່ງບາງຢ່າງດ້ວຍຄວາມໂຊກຮ້າຍ
+. ໂຣເຈີຢຸດລາວໂດຍການເວົ້າຢ່າງຮີບດ່ວນ.
+
+57
+00:04:28,350 --> 00:04:30,450
+[HASSLES EITHER.]
+Steve:	THEY'RE JUST OUT AFTER SCAVENGERS...LOOTERS...
+ສຕັບ: ພວກເຂົາພຽງແຕ່ອອກຈາກພາຍຫຼັງຜູ້ເກັບກູ້... ຜູ້ລັກລອບ...
+
+58
+00:04:30,950 --> 00:04:36,950
+[YOU NEED TO SLEEP.]
+156	We see a wide shot of the little airfield. The J.A.S. chopper sits on the ground for a moment, it's props spinning. The, with a surge of power, it lifts off and flies away. The dry earth swirls up into clouds and blows more bits of paper over the wide-eyed corpses which lie in the morning sunlight.
+156 ພວກເຮົາເຫັນການຖ່າຍຮູບທີ່ກວ້າງຂວາງຂອງສະຫນາມບິນນ້ອຍໆ. ເຮືອບິນຈັກ JAS ນັ່ງຢູ່ເທິງພື້ນດິນຊົ່ວຄາວຫນຶ່ງ, ມັນແມ່ນ props ທີ່ຫມູນວຽນ. The,
+ດ້ວຍການຟື້ນຟູພະລັງງານ, ມັນຍົກຂຶ້ນແລະບິນໄປ. ດິນແຫ້ງຫອມຂຶ້ນເປັນຫມອກແລະພັດແຜ່ນເຈ້ຍຫຼາຍຂຶ້ນເທິງສົບທີ່ມີຕາກວ້າງທີ່ນອນຢູ່ໃນແສງແດດຕອນເຊົ້າ.
+
+59
+00:04:37,450 --> 00:04:40,250
+[FLOOR.]
+Peter:	THE BIG DEPARTMENT STORES USUALLY USE BOTH
+ເປຕຣ໌: ຮ້ານຄ້າພະແນກໃຫຍ່ມັກໃຊ້ທັງສອງຢ່າງ
+
+60
+00:04:40,750 --> 00:04:43,550
+[FLOORS.]
+Roger:	IF WE CAN GET IN UP TOP...
+ໂຣເຈີ: ຖ້າພວກເຮົາສາມາດເຂົ້າໄປໃນເທິງສຸດໄດ້...
+
+61
+00:04:44,050 --> 00:04:50,000
+[WHY DO THEY COME HERE?]
+Steve:	 SOME KIND OF INSTINCT. MEMORY...OF WHAT THEY USED TO DO. THIS WAS AN IMPORTANT PLACE IN
+ສຕັບ: ບາງປະເພດຂອງຄວາມຮູ້ສຶກ. ຄວາມຊົງຈໍາ...
+ກ່ຽວກັບສິ່ງທີ່ພວກເຂົາເຄີຍເຮັດ. ນີ້ແມ່ນສະຖານທີ່ທີ່ສໍາຄັນໃນ
+
+62
+00:04:50,500 --> 00:04:56,500
+[THEIR LIVES.]
+168	Below, the Zombies which are in sight wander aimlessly over the plaza. Some try the gates but cannot budge them. One wanders out of the single open shop, it is a female. The shop is an appliance store. As the creature leaves she drags a toaster idly behind her, pulling it by its power cable. It scrapes on the floor loudly.
+168 ຢູ່ລຸ່ມນີ້, ໂຊມບີທີ່ຢູ່ໃນສາຍຕາຍ່າງໂດຍບໍ່ມີຈຸດປະສົງຜ່ານສະໂມສອນ. ບາງຄົນພະຍາຍາມປະຕູແຕ່ບໍ່ສາມາດຍ້າຍພວກມັນໄດ້. ຄົນ ຫນຶ່ງ ຍ່າງອອກຈາກຮ້ານຄ້າເປີດດຽວ, ມັນແມ່ນແມ່ຍິງ
+. ຮ້ານຄ້າແມ່ນຮ້ານຂາຍເຄື່ອງໃຊ້. ໃນຂະນະທີ່ສັດອອກຈາກນາງດຶງເຄື່ອງຕົ້ມຢ່າງບໍ່ເຮັດວຽກຢູ່ເບື້ອງຫຼັງນາງ, ດຶງມັນໂດຍສາຍໄຟຟ້າຂອງມັນ. ມັນ scrapes ເທິງພື້ນຢ່າງແຮງ.
+
+63
+00:04:57,000 --> 00:05:03,000
+[WHAT THE HELL IS THIS?]
+Fran and Stephen peer down into the darkness. Peter pulls a flashlight from his utility belt.  He has stayed in full uniform all the while, where Roger has stripped off all but his ammunition belt and pistol holster.
+ຄຸເຂົ່າລົງ
+
+64
+00:05:03,500 --> 00:05:08,400
+[CUT.]
+186	A great barricade of food cartons has been stacked against the stairway door.
+186
+ການກີດຂວາງທີ່ຍິ່ງໃຫຍ່ຂອງກະຕູ້ອາຫານໄດ້ຖືກເກັບໄວ້ຕໍ່ປະຕູຂັ້ນເທິງ.
+
+65
+00:05:08,900 --> 00:05:10,900
+[WE COULD USE, BROTHER.]
+Roger:	I KNOW IT.
+ໂຣເຈີ: ຂ້ອຍຮູ້ແລ້ວ.
+
+66
+00:05:11,400 --> 00:05:17,400
+[THE FIRE.]
+191	Two landings below, there is almost no light. Roger clicks on his flashlight and shines the beam around. He is in a very small concrete space. The stairs go down no further. There is only one door. Peter eases down the steps behind.	Roger:	THIS IS THE ONLY WAY UP THERE.192	We see the other side of the metal door. It stands in another cement walled space, which also seems small from our angle, but it is fully lit.	The door opens slowly, and the Troopers cautiously step out. As the camera swings around, we see that the men are at the end of a long narrow hallway. Directly across from them are two open supply rooms, one containing a stationery sink and a toilet. Both rooms are filled with cleaning supplies.193	Down along the hall can be seen a dozen or so doorways. Some doors are open, some are closed. Along the opposite wall there is nothing.	The far end of the hall, about a hundred yards away, opens out onto the second story of the mall proper.194	The men look at one another and slowly move down the corridor. They try the first two doors, which are locked. The third is wide open. 195	Roger ducks quickly into the room with his rifle raised. It is a large administrative office, with rows of desks which are fully equipped for a staff of secretaries and accountants.196	The next room has a closed door, but it is unlocked. Peter	swings the door open and silently jumps into the room. This is a much more spartan area, with two metal desks and a few chairs. There are several phones. It is a maintenance office. On one wall is a large map of the mall, with pin flags and scribbling over an acetate which covers the drawing. At the other end of the space is a huge electrical panel with circuit breakers and an entire series of master controls all keyed by a number code to another map of the mall showing electrical installations.	On the wall behind Peter is a large blackboard and two metal cabinets. One is open. It contains all sorts of tools, manual and electric. There are circuit testers, walkie talkie units and there are several enormous rings containing hundreds of keys, also colour and number coded. Peter grabs up one of the rings and Roger steps up behind him.	Roger:	THE KEYS TO THE KINGDOM.197	Back in the hallway, Roger's hand tries another doorknob and	throws the door open. This opens onto beautifully plush offices, obviously the executive headquarters.	The rooms interconnect, and while Peter walks from door to door in the corridor, Roger moves through the inner doors, meeting Peter at each room. One office is more elegant than the next, with the latest in designer furniture and expensive decorations.198	The Troopers finally reach a room on which both the interior and corridor doors are closed and locked. The brass nameplate on the interior door reads C.J. Porter - President.199	Roger moves out to the corridor where he joins Peter. They move into the exterior corridor. They are very near the end of the hall, and the brightly lit shopping area is close at hand. They can only see a small section.200	The balcony on their side is railed off against the open drop down to the first floor, and across the great cavity they see the opposite balcony. On the far side only two store fronts can be seen. They are both gated and shut. 201	The two realise what dangers might face them in the mall proper. They look at each other and move forward, each clinging to opposite walls in the corridor.202	As they reach the mall proper they slowly and carefully peer around their respective corners.
+191 ການລົງຈອດສອງຢ່າງຢູ່ລຸ່ມນີ້, ບໍ່ມີແສງສະຫວ່າງເກືອບເລີຍ. ໂຣເຈີກົດແສງໄຟແສງແສງຂອງລາວແລະແສດອກແສງຢູ່ອ້ອມຂ້າງ. ລາວຢູ່ໃນພື້ນທີ່ຄອນກີດທີ່ນ້ອຍຫຼາຍ. ຂັ້ນຕອນລົງບໍ່ໄກກວ່າເກົ່າ.
+ມີພຽງແຕ່ປະຕູດຽວ. ເປຕຣ໌ຜ່ອນຜັນຂັ້ນຕອນຢູ່ເບື້ອງຫຼັງ. ໂຮເຈີ: ນີ້ແມ່ນວິທີດຽວທີ່ຂຶ້ນໄປບ່ອນນັ້ນ.192 ພວກເຮົາເຫັນດ້ານອື່ນຂອງປະຕູໂລຫະ. ມັນຢືນຢູ່ພື້ນທີ່ທີ່ມີກໍາແພງຊີມັງອີກຫນຶ່ງ,
+
+67
+00:05:17,900 --> 00:05:23,900
+[STEPHEN!]
+213	Steve, still lying on the floor against the escape pyramid, slowly awakens.214	Down on the first floor of the big mall, things begin to work. The automobile turntable starts spinning; the great escalators move up and sown. Two of the living dead, caught just starting up two stalled escalator, fall and roll down as the mechanical steps begin moving.
+213 ສຕັບ, ຍັງນອນຢູ່ເທິງພື້ນຕໍ່ຕ້ານປິຣາມິດການຫນີ, ຕື່ນຕົວຊ້າໆ.214 ລົງໃນຊັ້ນ ທໍາ ອິດຂອງສູນການຄ້າໃຫຍ່, ສິ່ງຕ່າງໆເລີ່ມເຮັດວຽກ. ຕາຕະລາງຫັນລົດເລີ່ມຫມູນວຽນ; escalators
+ທີ່ຍິ່ງໃຫຍ່ຍ້າຍຂຶ້ນແລະປູກຝັງ. ສອງຄົນຕາຍທີ່ຢູ່ອາໄສ, ຈັບພຽງແຕ່ເລີ່ມຕົ້ນ escalator ສອງທີ່ຢຸດເຊົາ, ຕົກລົງແລະ roll ລົງໃນຂະນະທີ່ຂັ້ນຕອນກົນຈັກເລີ່ມຕົ້ນເຄື່ອນຍ້າຍ.
+
+68
+00:05:24,400 --> 00:05:30,400
+[THEY'RE MANIACS.]
+221	The Troopers step over the corpse. The second Zombie, the arm less female, is walking toward them. This time Roger fires his weapon. The creature falls in a heap.	Roger:	WHATD'YA THINK? BAG IT OR TRY FOR IT? Peter:	YOU GAME?	Roger nods and the two men run down the hall toward the mall.	Their rifles poised, they are like commandos on an important mission.
+221 ພວກທະຫານຍ່າງຜ່ານສົບ. ໂຊມບີທີສອງ, ແຂນ ຫນ້ອຍ ແມ່ຍິງ, ກໍາ ລັງຍ່າງໄປຫາພວກເຂົາ. ໃນຄັ້ງນີ້ໂຣເຈີຍິງອາວຸດຂອງລາວ. ສິ່ງມີຊີວິດຕົກຢູ່ໃນກະດານ. ໂຣເກີ: ເຈົ້າຄິດຫຍັງ?
+ຖົງມັນຫຼືພະຍາຍາມ ສໍາ ລັບມັນ? ເປຕຣ໌: ເຈົ້າຫຼິ້ນ? ໂຣເຈຍຍຍືດຫົວແລະຜູ້ຊາຍສອງຄົນແລ່ນລົງທາງເດີ່ນໄປສູ່ສູນການຄ້າ. ປືນຂອງພວກເຂົາພ້ອມແລ້ວ, ພວກເຂົາຄືກັບຄອມມອນໂດໃນພາລະກິດທີ່ສໍາຄັນ.
+
+69
+00:05:30,900 --> 00:05:32,900
+[STEPHEN PLEASE!]
+Steve:	IT'S ALRIGHT.
+ສຕັບ: ມັນບໍ່ເປັນຫຍັງ.
+
+70
+00:05:33,400 --> 00:05:39,400
+[ON THE SIDE...]
+The big man moves to the far side of the gate. The same key fits. Roger re-focuses on the creature which is riding the escalator. It is quite near the top now. Roger is about to shoot when something catches his eye.
+ຜູ້ຊາຍໃຫຍ່ຍ້າຍໄປທາງໄກຂອງປະຕູ. ປຸ່ມດຽວກັນເຫມາະສົມ. ໂຣເຈີສຸມໃສ່ສິ່ງມີຊີວິດອີກຄັ້ງທີ່ ກໍາ
+ລັງຂີ່ຂັ້ນເທິງ. ມັນໃກ້ກັບເທິງສຸດດຽວນີ້. ໂຮເຈີ ກໍາ ລັງຈະຍິງເມື່ອບາງສິ່ງບາງຢ່າງຈັບຕາຂອງລາວ.
+
+71
+00:05:39,900 --> 00:05:42,700
+[GET WHAT WE CAN.]
+Roger:	THERE'S NO WAY THIS IS GONNA HAPPEN...
+ໂຣເຈີ: ບໍ່ມີທາງໃດທີ່ສິ່ງນີ້ຈະເກີດຂຶ້ນ...
+
+72
+00:05:43,200 --> 00:05:46,000
+[RIGHT UP WITH YOU.]
+316	Steve is on the verge of panic.
+316 ສຕິວ ກໍາ ລັງຢູ່ແຄມຄວາມຢ້ານກົວ.
+
+73
+00:05:46,500 --> 00:05:52,100
+[HOW 'BOUT IT?]
+Stephen laughs some more, nervously at first, then whole- Heartedly. Then he lets out a loud:
+ສເຕຟັນມ່ວນຊື່ນອີກເລັກນ້ອຍ, ຄວາມກັງວົນໃນຕອນ ທໍາ ອິດ,
+ຫຼັງຈາກນັ້ນທັງ ຫມົດ - ດ້ວຍຫົວໃຈ. ຫຼັງຈາກນັ້ນລາວອອກສຽງດັງວ່າ:
+
+74
+00:05:52,600 --> 00:05:56,450
+[STAYIN' UP ON THE BALCONY.]
+Roger:	YEAH, BUT WE CAN HANDLE THAT.  WE CAN BREAK THROUGH.
+ໂຣເຈີ: ແມ່ນແລ້ວ, ແຕ່ພວກເຮົາສາມາດຈັດການໄດ້
+. ພວກເຮົາສາມາດແຕກຜ່ານໄດ້.
+
+75
+00:05:56,950 --> 00:06:02,950
+[WE CAN AND GET OUTTA HERE.]
+Peter:	I'M THINKIN' MAYBE WE GOT A GOOD THING GOIN' HERE. MAYBE WE SHOULDN'T BE IN SUCH A HURRY TO LEAVE.	Roger:	OH, MAN...	Peter:	IF WE COULD GET BACK UP THERE WITHOUT THEM			CATCHIN' ON, WE COULD HOLE UP FOR A WHILE. AT LEAST LONG ENOUGH TO CATCH A BREATH. CHECK OUT THE RADIO. SEE WHAT'S HAPPENIN'...	Roger:	MAN, I DON'T KNOW...	Steve:	THERE'S SOME KIND OF PASSAGEWAY OVER THE TOP
+ເປຕຣ໌: ຂ້ອຍຄິດວ່າບາງທີພວກເຮົາມີສິ່ງທີ່ດີທີ່ ກໍາ ລັງເກີດຂຶ້ນຢູ່ນີ້. ບາງທີພວກເຮົາບໍ່ຄວນມີຄວາມຮີບດ່ວນທີ່ຈະອອກຈາກ. ໂຣເຈີ: ໂອ້, ຜູ້ຊາຍ... ປີເຕີ:
+ຖ້າພວກເຮົາສາມາດກັບຄືນໄປບ່ອນນັ້ນໂດຍບໍ່ມີພວກເຂົາຈັບຢູ່, ພວກເຮົາສາມາດເຊື່ອງໄວ້ຊົ່ວຄາວ. ຢ່າງຫນ້ອຍຍາວພຽງພໍທີ່ຈະຈັບຫາຍໃຈ. ກວດເບິ່ງວິທະຍຸ. ເບິ່ງສິ່ງທີ່
+
+76
+00:06:03,450 --> 00:06:09,450
+[OF THE STORES.]
+The Troopers look at the young pilot, almost surprised to hear him speak.  He has been quiet up until now.
+ພວກທະຫານເບິ່ງນັກບິນຫນຸ່ມ, ເກືອບແປກໃຈທີ່ຈະຍິນລາວເວົ້າ
+. ລາວງຽບສະຫງົບຈົນຮອດປະຈຸບັນນີ້.
+
+77
+00:06:09,950 --> 00:06:12,750
+[SAW ON THE CHART.]
+Steve:	WHY THE HELL WOULD THEY BE LOCKED?
+ສຕັບ: ເປັນຫຍັງພວກເຂົາຈຶ່ງຖືກປິດໄວ້?
+
+78
+00:06:13,250 --> 00:06:19,250
+[TABLES.]
+Roger ducks off down an aisle and Steve moves to the nearby furniture department and grabs a lightweight lamp table. The elevator doors close. When Steve returns with the table he has to hit the button again. The doors open. Peter is already climbing out of the car into the shaft. Steve uses the table to hold the doors open and goes to get another. This time he gets a larger coffee table and sets it under the opening in the car and puts the smaller table on top. He climbs up and sticks his head out into the shaft. The doors close again.342	In the greasy black shaft, amid the cables and elevator	mechanisms. Peter examines the wall grid with his flashlight.	Peter:	IT'S ALRIGHT...WE CAN GET IT OFF.
+ໂຣເຈີຍ່າງລົງທາງລໍາບາກແລະສຕິວຍ້າຍໄປພະແນກເຄື່ອງເຟີນີເຈີທີ່ໃກ້ຊິດແລະຈັບໂຕະແສງສະຫວ່າງທີ່ມີນ້ ໍາ ຫນັກ ເບົາ. ປະຕູຍົກປິດ. ເມື່ອສຕີວກັບມາພ້ອມກັບໂຕະລາວຕ້ອງກົດປຸ່ມອີກຄັ້ງ
+. ປະຕູດເປີດ. ເປຕຣ໌ ກໍາ ລັງຂຶ້ນອອກຈາກລົດເຂົ້າໄປໃນກະດານ. ສຕິວໃຊ້ໂຕະເພື່ອຖືປະຕູເປີດແລະໄປເອົາອີກຄັ້ງນີ້ລາວໄດ້ຮັບໂຕະກາເຟທີ່ໃຫຍ່ກວ່າແລະວາງມັນພາຍໃຕ້ການເປີດ
+
+79
+00:06:19,750 --> 00:06:25,350
+[YOU FOUND IT FLYBOY.]
+Even though he speaks softly, Peter's voice has an eerie, echoing sound in the narrow shaft.
+ເຖິງແມ່ນວ່າລາວຈະເວົ້າຢ່າງອ່ອນແອ,
+ສຽງຂອງເປຕຣ໌ມີສຽງທີ່ ຫນ້າ ຢ້ານກົວ, ສຽງໂຫວດໃນກະດານແຄບ.
+
+80
+00:06:25,850 --> 00:06:31,850
+[THIS IS IT. COME ON.]
+351	Fran struggles with the carton. She gets it against the door finally and moves to haul another.
+351 ແຟຣນ ກໍາ ລັງຕໍ່ສູ້ກັບກະຕູ້.
+ນາງເອົາມັນໃສ່ປະຕູໃນທີ່ສຸດແລະຍ້າຍໄປດຶງອີກຄົນຫນຶ່ງ.
+
+81
+00:06:32,350 --> 00:06:38,350
+[THE DESK...GIMME A HAND.]
+The two Troopers grab the desk and slide it away from the President's corpse. The action causes the chair to spin slightly and his wide terrified eyes seem to watch the action.
+ພວກທະຫານສອງຄົນຈັບໂຕະແລະເລື່ອນມັນອອກຈາກສົບຂອງປະທານາທິບໍດີ. ການກະ ທໍາ
+ເຮັດໃຫ້ຕັ່ງ ຫມູນ ວຽນເລັກນ້ອຍແລະຕາທີ່ຢ້ານກົວກວ້າງຂອງລາວເບິ່ງຄືວ່າເບິ່ງການກະ ທໍາ.
+
+82
+00:06:38,850 --> 00:06:44,850
+[COME ON...YOU GOT IT.]
+Peter runs with the cart the last few yards. As he gets to the doorway, Roger breaks up the steps.
+ເປຕຣ໌ແລ່ນກັບກະຕູ້ໃນສອງສາມແມັດສຸດທ້າຍ.
+ໃນຂະນະທີ່ລາວໄປຮອດປະຕູ, ໂຣເຈີແຕກຂັ້ນຕອນ.
+
+83
+00:06:45,350 --> 00:06:48,850
+[YOU OK, FRANNIE? HEY...]
+The woman is incoherent. She is clutching at her stomach.
+ແມ່ຍິງບໍ່ສອດຄ່ອງກັນ. ນາງ ກໍາ ລັງຈັບທ້ອງຂອງນາງ.
+
+84
+00:06:49,350 --> 00:06:55,350
+[THAT MEANS THEY'RE SENDING.]
+Roger snaps on the large, battery powered radio. He rolls the dial getting nothing but static. Finally, he hears a signal and tunes it in. A badly modulated voice is droning through the interference. It sounds like a war correspondent sending a signal from very far away.
+ໂຣເຈີເປີດວິທະຍຸທີ່ໃຊ້ແບັດເຕີຣີຂະຫນາດໃຫຍ່. ລາວຫັນດາວໂຫລດບໍ່ໄດ້ຮັບຫຍັງນອກຈາກສະຖຽນລະພາບ. ສຸດທ້າຍ,
+ລາວໄດ້ຍິນສັນຍານແລະປັບມັນເຂົ້າໄປໃນ. ສຽງທີ່ໂມດູນບໍ່ດີ ກໍາ ລັງດຣອນຜ່ານການແຊກແຊງ. ມັນສຽງຄືກັບນັກຂ່າວສົງຄາມສົ່ງສັນຍານຈາກຫ່າງໄກຫຼາຍ.
+
+85
+00:06:55,850 --> 00:06:57,850
+[AND NEW YORK CITY...]
+Roger:	PHILLY...
+ໂຣເຈີ: ຟີລີ...
+
+86
+00:06:58,350 --> 00:07:01,500
+[CAN BE A PRISON.]
+She leans in to him, making a final plea.
+ນາງຍອມເຂົ້າຫາລາວ, ເຮັດການຮ້ອງຂໍສຸດທ້າຍ.
+
+87
+00:07:02,000 --> 00:07:05,500
+[GOING.]
+Steve:	WE CAN'T HARDLY CARRY ANYTHING IN THAT LITTLE BIRD.
+ສຕັບ: ພວກເຮົາບໍ່ສາມາດເອົາຫຍັງໄດ້ຢ່າງແຂງແຮງໃນນົກນ້ອຍນັ້ນ.
+
+88
+00:07:06,000 --> 00:07:12,000
+[HOW MUCH ITS WORTH.]
+383	Fran ducks back onto her blanket. She disgustedly lights another cigarette. Steve sits next to her again.
+383 ແຟຣນກັບຄືນໄປບ່ອນຜ້າຝ້າຍຂອງນາງ.
+ນາງເຮັດໃຫ້ສູບຢາອີກຄັ້ງຢ່າງກຽດຊັງ. ສຕັບນັ່ງຢູ່ຂ້າງນາງອີກຄັ້ງ.
+
+89
+00:07:12,500 --> 00:07:17,750
+[SET UP HOUSE.]
+She stares off across the barren room. His hands continues to move under her blouse.
+ນາງເບິ່ງຢູ່ທາງຂ້າມຫ້ອງທີ່ບໍ່ມີຜລ.
+ມືຂອງລາວສືບຕໍ່ເຄື່ອນຍ້າຍຢູ່ພາຍໃຕ້ເສື້ອຜ້າຂອງນາງ.
+
+90
+00:07:18,250 --> 00:07:24,250
+[EACH OTHER.]
+385	We see the mall balcony now. Zombies wander past the stores. Some move down the stationary stairs onto the main concourse. Below.
+385 ພວກເຮົາເຫັນບາລຄອນຂອງສູນການຄ້າດຽວນີ້. ໂຊມເບຍຍ່າງຜ່ານຮ້ານຄ້າ
+. ບາງຄົນຍ້າຍລົງຂັ້ນເທິງທີ່ຄົງທີ່ໄປສູ່ເດີ່ນໃຫຍ່. ຢູ່ລຸ່ມນີ້.
+
+91
+00:07:24,750 --> 00:07:30,750
+[FLESH...]
+386	At the mall entrances, some creatures drift out into the night. Others still enter the enormous building. There are not as many as there were in the afternoon, but there are certainly enough to be threatening.
+386 ຢູ່ທາງເຂົ້າສູນການຄ້າ, ສັດບາງຢ່າງຍ່າງອອກໄປໃນຕອນກາງຄືນ. ຄົນອື່ນຍັງເຂົ້າໄປໃນອາຄານທີ່ໃຫຍ່ຫຼວງ
+. ບໍ່ມີຫຼາຍເທົ່າທີ່ມີໃນຕອນບ່າຍ, ແຕ່ມີພຽງພໍທີ່ຈະເປັນໄພຂົ່ມຂູ່ຢ່າງແນ່ນອນ.
+
+92
+00:07:31,250 --> 00:07:37,200
+[THIS MANNER.]
+388	Fran's eyes pop open the voice has awakened her. She has been asleep on the blanket.
+388 ຕາຂອງແຟຣນເປີດອອກສຽງໄດ້ຕື່ນນາງ. ນາງໄດ້ນອນຢູ່ເທິງຜ້າປົກ.
+
+93
+00:07:37,700 --> 00:07:43,700
+[INSTINCT...]
+The woman looks around. Morning sunlight is spilling in through the skylights above. She sits up and peers into the next area of the room. The men are gone. The television is playing. On the tube we see a dishevelled man sitting in an emergency news room reading the report.
+ແມ່ຍິງເບິ່ງຢູ່ອ້ອມຂ້າງ. ແສງແດດຕອນເຊົ້າ ກໍາ ລັງໄຫຼເຂົ້າໄປໃນແສງສະຫວ່າງເທິງເທິງ. ນາງນັ່ງຂຶ້ນແລະເບິ່ງໃນພື້ນທີ່ຕໍ່ໄປຂອງຫ້ອງ
+. ຜູ້ຊາຍໄດ້ໄປແລ້ວ. ໂທລະພາບ ກໍາ ລັງຫຼິ້ນ. ໃນທໍ່ພວກເຮົາເຫັນຜູ້ຊາຍທີ່ສັບສົນນັ່ງຢູ່ໃນຫ້ອງຂ່າວສຸກເສີນອ່ານບົດລາຍງານ.
+
+94
+00:07:44,200 --> 00:07:50,200
+[DON'T HAVE MY POTS AND PANS.]
+There is a bitterness in her voice. Roger laughs. Steve senses the tension. Peter just straps on his equipment.
+ມີຄວາມໂຊກຮ້າຍໃນສຽງຂອງນາງ. ໂຣເຈີມ່ວນຊື່ນ.
+ສຕັບຮູ້ສຶກຄວາມເຄັ່ງຕຶງ. ເປຕຣ໌ພຽງແຕ່ຕິດອຸປະກອນຂອງລາວ.
+
+95
+00:07:50,700 --> 00:07:52,700
+[THAN YOU'D TREAT ANOTHER GUY.]
+Steve:	HEY, FRANNIE, COME ON...
+ສະຕິວ: ເຮ້, ຟຣານນີ, ມາ...
+
+96
+00:07:53,200 --> 00:07:55,200
+[FOUR OF US, OK?]
+Steve:	JESUS, FRAN...
+ສຕັບ: ພຣະເຢຊູ, ຟຣານ...
+
+97
+00:07:55,700 --> 00:08:00,250
+[LEARN TO FIGHT.]
+The big man starts back up the pyramid. Roger moves to follow him.
+ຜູ້ຊາຍໃຫຍ່ເລີ່ມຕົ້ນຂຶ້ນປິຣາມິດຄືນ. ໂຣເຈີເຄື່ອນຍ້າຍເພື່ອຕິດຕາມລາວ.
+
+98
+00:08:00,750 --> 00:08:04,600
+[HOW TO FLY THAT HELICOPTER.]
+Stephen is shocked. Fran looks at him and lowers her eyes.
+ສເຕຟັນຕົກໃຈ. ແຟຣນເບິ່ງລາວແລະຫຼຸດຕາລົງ.
+
+99
+00:08:05,100 --> 00:08:11,050
+[OUT OF HERE.]
+Stephen doesn't know what to say. He looks at the woman, then up at the other men.
+ສເຕຟັນບໍ່ຮູ້ວ່າຈະເວົ້າຫຍັງ. ລາວເບິ່ງຜູ້ຍິງ
+, ຫຼັງຈາກນັ້ນຂຶ້ນກັບຜູ້ຊາຍຄົນອື່ນ.
+
+100
+00:08:11,550 --> 00:08:17,550
+[IT.]
+Peter and Roger disappear through the skylight. Stephen stands still. He looks down at the floor. Fran moves close to his side.
+ເປຕຣ໌ ແລະ ໂຣເຈີຫາຍໄປຜ່ານແສງສະຫວ່າງເທິງເຮືອນ. ສເຕຟັນຢືນຢູ່ຢ່າງງຽບສະຫງົບ
+. ລາວເບິ່ງລົງສູ່ພື້ນ. ຟຣານຍ້າຍໃກ້ກັບຂ້າງຂອງລາວ.
+
+101
+00:08:18,050 --> 00:08:21,550
+[THIS THING...]
+Roger:	I GREW UP ON ONE OF THESE, LET'S GO.
+ໂຣເຈີ: ຂ້ອຍເຕີບໃຫຍ່ຢູ່ເທິງ ຫນຶ່ງ ໃນສິ່ງເຫຼົ່ານີ້, ໄປ.
+
+102
+00:08:22,050 --> 00:08:28,050
+[WE GOT A LOT TO DO...ROGER...]
+439	There is no response from the other truck. Peter is about to open his door and step out when suddenly Roger sits up again. The engine of the truck roars. He seems to have calmed down some. He looks across at Peter.
+439 ບໍ່ມີການຕອບໂຕ້ຈາກລົດບັນທຸກອີກຄົນຫນຶ່ງ. ເປຕຣ໌ ກໍາ ລັງຈະເປີດປະຕູຂອງລາວແລະອອກໄປເມື່ອໂຣເຈີນັ່ງຂຶ້ນອີກເທື່ອຫນຶ່ງຢ່າງກະທັນຫັນ
+. ເຄື່ອງຈັກຂອງລົດບັນເທິງຮ້ອງໄຫ້. ລາວເບິ່ງຄືວ່າໄດ້ສະຫງົບໃຈບາງຢ່າງ. ລາວກໍເບິ່ງກັບປີເຕີ.
+
+103
+00:08:28,550 --> 00:08:31,350
+[OTHER TRUCK.]
+Peter brings his vehicle to a screeching halt.
+ເປຕຣ໌ເຮັດໃຫ້ລົດຂອງລາວຢຸດເຊົາຢ່າງຮ້ອງໄຫ້.
+
+104
+00:08:31,850 --> 00:08:37,850
+[YOU CAN AFFORD TO LOSE ME...]
+The big Black man stares at his friend for a moment. Then he drives on to the warehouse escorted by the chopper.
+ຜູ້ຊາຍສີ ດໍາ ຂະຫນາດໃຫຍ່ເບິ່ງເພື່ອນຂອງລາວຊົ່ວຄາວ.
+ຫຼັງຈາກນັ້ນລາວຂັບລົດໄປຫາຮ້ານເກັບມ້ຽນທີ່ຕິດຕາມໂດຍເຮລິຄອບເຕີ.
+
+105
+00:08:38,350 --> 00:08:41,150
+[SOME OF THOSE PROPANE JOBS.]
+Peter:	THE GUNS ARE FIRST. GUNS AND AMMUNITION.
+ເປຕຣ໌: ປືນແມ່ນທໍາອິດ. ປືນແລະລູກປືນ.
+
+106
+00:08:41,650 --> 00:08:45,850
+[CHASIN' US AROUND IN HERE.]
+The Zombie crashes all its might against the metal cage. Stephen startles.
+ຄຸເຂົ່າລົງ
+
+107
+00:08:46,350 --> 00:08:52,350
+[WE COMIN'...AND WE READY!]
+500	With a swell in the music, the band of all four humans charges out of the Maintenance corridor and makes a break for the Department Store. They all wear new double holsters containing hand guns. Each has a rifle strapped over his shoulder and another in hand. They wear ammo belts and carry packs with other supplies. The wounded Roger is sitting in the big gardening cart which Peter earlier used to carry the first supply load out of the store. Peter runs, pushing the cart before him.
+ຄຸເຂົ່າລົງ
+
+108
+00:08:52,850 --> 00:08:56,000
+[BY THESE RIGHT HERE...]
+Steve:	IT'S A LONG HAUL DOWN TO THE ENTRANCE.
+ສຕັບ: ມັນເປັນໄລຍະທາງທີ່ຍາວນານລົງສູ່ທາງເຂົ້າ.
+
+109
+00:08:56,500 --> 00:08:59,650
+[THOSE DOORS!]
+Fran:	WE'LL NEVER MAKE ALL FOUR. IT'S TOO RISKY.
+ແຟຣນ: ພວກເຮົາຈະບໍ່ເຮັດທັງສີ່ຢ່າງເລີຍ. ມັນມີຄວາມສ່ຽງເກີນໄປ.
+
+110
+00:09:00,150 --> 00:09:02,250
+[THROUGH.]
+Steve:	CAN'T THEY SMASH THE GLASS?
+ສຕັບ: ພວກເຂົາບໍ່ສາມາດທໍາລາຍແກ້ວໄດ້ບໍ?
+
+111
+00:09:02,750 --> 00:09:08,000
+[THEY CAN'T GET IN...]
+546	The creatures moving slowly down the concourse are now getting close to the action.
+546 ສິ່ງມີຊີວິດທີ່ເຄື່ອນຍ້າຍຊ້າລົງທາງເດີ່ນ
+ກໍາ ລັງໃກ້ຊິດກັບການກະ ທໍາ ດຽວນີ້.
+
+112
+00:09:08,500 --> 00:09:14,500
+[PLUMBING...]
+Steve:	WHY CAN'T WE JUST BOARD UP THE STAIRWAY. HELL, THEY CAN'T EVEN GET THROUGH A STACK OF CARTONS.
+ສຕັບ: ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ສາມາດຂຶ້ນເທິງຂັ້ນເທິງໄດ້
+. ສະຫວັນນະເຂດ, ພວກເຂົາບໍ່ສາມາດຜ່ານກະຕູ້ກະຕຸ້ນໄດ້ເລີຍ.
+
+113
+00:09:15,000 --> 00:09:17,100
+[STAIRWAY EXISTS.]
+They look back at the map.
+ພວກເຂົາເບິ່ງແຜນທີ່ຄືນໄປບ່ອນ.
+
+114
+00:09:17,600 --> 00:09:23,600
+[THE WALL.]
+561	The men sit huddled. The large storage area is filled with mounds of supplies brought up from the mall stores, but the stuff all sits around in disarray.
+ຄຸເຂົ່າລົງ
+
+115
+00:09:24,100 --> 00:09:27,600
+[UNIT...]
+565	Steve looks at Peter. The big trooper speaks softly.
+565 ສຕັບເບິ່ງເປຕຣ໌. ທະຫານໃຫຍ່ເວົ້າຢ່າງອ່ອນແອ.
+
+116
+00:09:28,100 --> 00:09:31,950
+[HOURS.]
+566	Fran is stunned. Suddenly, Roger screams from behind the cartons.
+566 ແຟຣນຕົກໃຈ. ທັນທີ, ໂຣເຈີຮ້ອງໄຫ້ຈາກຫຼັງກະຕູ້.
+
+117
+00:09:32,450 --> 00:09:38,450
+[PERFECT.]
+Peter grabs the can and pries it open quickly with a screw driver. He dips his finger into the liquid and smears some onto the new wall where it butts against the corridor. It is a perfect match.
+ເປຕຣ໌ຈັບຖັງແລະກົດມັນເປີດຢ່າງໄວວາດ້ວຍຄົນຂັບລົດສະກູ. ລາວຈົມນິ້ວມືຂອງລາວໃນແຫຼວແລະສີດບາງສ່ວນໃສ່ກໍາແພງ
+ໃຫມ່ ບ່ອນທີ່ມັນຕໍາກັບທາງເດີນທາງ. ມັນເປັນການແຂ່ງຂັນທີ່ສົມບູນແບບ.
+
+118
+00:09:38,950 --> 00:09:40,950
+[IT OFF?]
+Fran:	NO...
+ແຟຣນ: ບໍ່...
+
+119
+00:09:41,450 --> 00:09:47,450
+[HERE.]
+The man doesn't move. Fran reaches up, taking his hand. She clutches it tightly, indicating that she is not angry.
+ຜູ້ຊາຍບໍ່ເຄື່ອນຍ້າຍ. ແຟຣນຍ່າງຂຶ້ນ, ຈັບມືຂອງລາວ.
+ນາງຈັບມັນຢ່າງເຂັ້ມງວດ, ສະແດງໃຫ້ເຫັນວ່ານາງບໍ່ໂຊກຮ້າຍ.
+
+120
+00:09:47,950 --> 00:09:52,500
+[CLEAN UP, BROTHER.]
+Flies buzz about the staring faces of the dead things on the balcony.
+ແມງໄມ້ສັ່ນສະເທືອນກ່ຽວກັບໃບຫນ້າທີ່ເບິ່ງເຫັນຂອງສິ່ງຕາຍຢູ່ເທິງບາລຄອນ
+.
+
+121
+00:09:53,000 --> 00:09:55,450
+[PYRAMIDS...A BURIAL CHAMBER.]
+Peter:	THAT'S EXACTLY WHAT IT IS, NOW.....
+ເປຕຣ໌: ນັ້ນແມ່ນສິ່ງທີ່ມັນເປັນແທ້ໆ, ດຽວນີ້.....
+
+122
+00:09:55,950 --> 00:10:00,150
+[THEY WANNA BE IN HERE!]
+The noise at the entrance continues eerily. Fran starts to be afraid.
+ສຽງດັງຢູ່ທາງເຂົ້າຍັງສືບຕໍ່ຢ່າງຢ້ານກົວ. ແຟຣນເລີ່ມຢ້ານ.
+
+123
+00:10:00,650 --> 00:10:02,650
+[ROOM IN HELL.]
+Steve:	WHAT?
+ສຕິວ: ຫຍັງ?
+
+124
+00:10:03,150 --> 00:10:09,150
+[LIKE THAT...]
+The man's eyes are terrified. He looks this way and that at the walls, the ceiling, at Peter...He can't focus...
+ຕາຂອງຜູ້ຊາຍມີຄວາມຢ້ານກົວ. ລາວເບິ່ງທາງນີ້ແລະນັ້ນຢູ່ກໍາແພງ
+, ຊັ້ນເທິງ, ຢູ່ເປຕຣ໌... ລາວບໍ່ສາມາດສຸມໃສ່ໄດ້...
+
+125
+00:10:09,650 --> 00:10:11,650
+[RATIOS.]
+Comm.:	YOU MEAN...THEIR NEED VERSUS...
+ການສື່ສານ: ເຈົ້າຫມາຍຄວາມວ່າ... ພວກເຂົາຕ້ອງການ Versus...
+
+126
+00:10:12,150 --> 00:10:18,150
+[TO PREVENT REVIVAL...]
+We see now what Peter is staring at. On the floor, twenty feet away lies the corpse of Roger. It's face is covered with a blanket. It lies very still.
+ພວກເຮົາເຫັນດຽວນີ້ວ່າເປຕຣ໌ ກໍາ ລັງເບິ່ງຫຍັງ. ຢູ່ເທິງພື້ນ,
+ຫ່າງຈາກສອງສິບແມັດນອນສົບຂອງໂຣເຈີ. ໃບຫນ້າຂອງມັນຖືກປົກຄຸມດ້ວຍຜ້າຝ້າຍ. ນອນຢ່າງງຽບສະຫງົບຫຼາຍ.
+
+127
+00:10:18,650 --> 00:10:24,650
+[SOCIETY...]
+Suddenly the dead Roger's foot seems to move under the blanket. Peter's eyes pick up the movement immediately. His hands tighten on his weapon.
+ທັນທີຕີນຂອງໂຣເຈີທີ່ຕາຍເບິ່ງຄືວ່າເຄື່ອນຍ້າຍຢູ່ພາຍໃຕ້ຜ້າປົກ.
+ຕາຂອງເປຕຣ໌ຈັບການເຄື່ອນໄຫວທັນທີ. ມືຂອງລາວແຫນ້ນໃສ່ອາວຸດຂອງລາວ.
+
+128
+00:10:25,150 --> 00:10:28,300
+[DIGNITY OF THE HUMAN BODY...]
+Roger's arms seem to move, in slight twitching motions...
+ແຂນຂອງໂຣເຈີເບິ່ງຄືວ່າເຄື່ອນຍ້າຍ,
+ໃນການເຄື່ອນໄຫວທີ່ສັ່ນສະເທືອນເລັກນ້ອຍ...
+
+129
+00:10:28,800 --> 00:10:30,900
+[WHY DON'T YOU GIVE IT UP?]
+Steve:	THEY MIGHT COME BACK ON.
+ສຕັບ: ພວກເຂົາອາດຈະກັບມາອີກ.
+
+130
+00:10:31,400 --> 00:10:37,400
+[ON THE ROOF.]
+634	Fran steps to the doorway attracted by the signal. Peter sits at the radio, not knowing whether to send. Steve listens.
+634 ແຟຣນຍ່າງໄປທາງປະຕູທີ່ຖືກດຶງດູດໂດຍສັນຍານ.
+ເປຕຣ໌ນັ່ງຢູ່ທາງວິທະຍຸ, ບໍ່ຮູ້ວ່າຈະສົ່ງຫຼືບໍ່. ສຕັບຟັງ.
+
+131
+00:10:37,900 --> 00:10:41,050
+[GETTIN' IN THERE TO STOCK UP?]
+Peter listens intently, trying to read the voice's inflections.
+ເປຕຣ໌ຟັງຢ່າງລະມັດລະວັງ, ພະຍາຍາມອ່ານການຫັນສຽງ.
+
+132
+00:10:41,550 --> 00:10:47,550
+[NO CHANCE.]
+The little puppy scrambles up to Fran's feet, seeking attention. She picks the little dog up in her arms.
+ຫມານ້ອຍຍ່າງຂຶ້ນໄປຫາຕີນຂອງແຟຣນ, ຊອກຫາຄວາມສົນໃຈ
+. ນາງເອົາຫມານ້ອຍຂຶ້ນໃນແຂນຂອງນາງ.
+
+133
+00:10:48,050 --> 00:10:50,050
+[STORES ARE OPEN?]
+Steve:	I DUNNO...SEVERAL OF 'EM...
+ສຕັບ: ຂ້ອຍບໍ່ຮູ້... ຫຼາຍຄົນ...
+
+134
+00:10:50,550 --> 00:10:56,550
+[THEN WE GO IN WITH THE VAN...]
+645	The other bikes ride to the leaders. A van pulls in and two bikers scramble aboard through the side doors. One of the women jumps into the driver's seat and revs the engine.
+645 ລົດຖີບອື່ນໆຂີ່ໄປຫາຜູ້ນໍາ. ລົດບັນທຸກດຶງເຂົ້າມາແລະລົດຖີບສອງຄົນຍ່າງຂຶ້ນເທິງເຮືອຜ່ານປະຕູຂ້າງ
+. ຫນຶ່ງ ໃນແມ່ຍິງໂດດເຂົ້າບ່ອນນັ່ງຂອງຄົນຂັບຂີ່ແລະຫມູນວຽນເຄື່ອງຈັກ.
+
+135
+00:10:57,050 --> 00:10:59,050
+[DOWNSTAIRS FIRST...]
+Steve:	OK...
+ສຕິວ: ດີແລ້ວ...
+
+136
+00:10:59,550 --> 00:11:03,750
+[FOR US...]
+The man sits at the wheel, revving the engine. Ghouls at windows.
+ຜູ້ຊາຍນັ່ງຢູ່ເບື້ອງຂັບລົດ, ຟື້ນຟູເຄື່ອງຈັກ. ກູລ໌ຢູ່ປ່ອງຢ້ຽມ.
+
+137
+00:11:04,250 --> 00:11:10,250
+[SNIPER.]
+The leader rolls out. Others follow. Peter fires and drops a raider, his bikes flying into the approaching Zombies.
+ຜູ້ນໍາອອກໄປ. ຄົນອື່ນຕິດຕາມ. ເປຕຣ໌ຍິງແລະຖິ້ມຄົນໂຈມຕີ
+, ລົດຖີບຂອງລາວບິນເຂົ້າໄປໃນໂຊມບີທີ່ໃກ້ຊິດ.
+
+138
+00:11:10,750 --> 00:11:13,900
+[UP THE STAIRS.]
+679	Peter moves to another spot on the balcony.
+679 ເປຕຣ໌ຍ້າຍໄປບ່ອນອື່ນໃນບາລຄອນ.
+
+139
+00:11:14,400 --> 00:11:16,850
+[THE SHAFT...I'M COMIN.]
+Peter starts to crawl through the ducts.
+ເປຕຣ໌ເລີ່ມຍ່າງຜ່ານທໍ່.
+

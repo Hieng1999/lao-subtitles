@@ -1,0 +1,6628 @@
+1
+00:00:10,000 --> 00:00:12,000
+[RECEPTIONIST]
+Can I help you?
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ບໍ?
+
+2
+00:00:12,500 --> 00:00:14,500
+[ADAM]
+I have an appointment.
+ຂ້ອຍມີເວລາພົບກັນ.
+
+3
+00:00:15,000 --> 00:00:17,000
+[RECEPTIONIST]
+Name?
+ຊື່ບໍ?
+
+4
+00:00:17,500 --> 00:00:19,500
+[ADAM]
+Adam Schwartz.
+ແອດາມ ສວາດສ໌.
+
+5
+00:00:20,000 --> 00:00:22,450
+[ADAM]
+Um, am I supposed to go somewhere?
+ອູມ, ຂ້ອຍຄວນໄປບ່ອນໃດບໍ?
+
+6
+00:00:22,950 --> 00:00:24,950
+[ADAM]
+Oh, should I go sit?
+ໂອ້, ຂ້ອຍຄວນໄປນັ່ງບໍ?
+
+7
+00:00:25,450 --> 00:00:27,450
+[RECEPTIONIST]
+Adam Schwartz.
+ແອດາມ ສວາດສ໌.
+
+8
+00:00:27,950 --> 00:00:29,950
+[RECEPTIONIST]
+Adam Schwartz.
+ແອດາມ ສວາດສ໌.
+
+9
+00:00:30,450 --> 00:00:32,450
+[ADAM]
+Yeah, that's me.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນຂ້ອຍ.
+
+10
+00:00:32,950 --> 00:00:34,950
+[RECEPTIONIST]
+Follow me.
+ຕິດຕາມຂ້ອຍ.
+
+11
+00:00:35,450 --> 00:00:37,450
+[RECEPTIONIST]
+Put this on.
+ໃສ່ສິ່ງນີ້.
+
+12
+00:00:37,950 --> 00:00:41,100
+[ADAM]
+Do I need to take off all my clothes?
+ຂ້ອຍຕ້ອງເອົາເຄື່ອງນຸ່ງທັງຫມົດອອກບໍ?
+
+13
+00:00:41,600 --> 00:00:43,600
+[ADAM]
+I'll figure it out.
+ຂ້ອຍຈະຄິດມັນອອກ.
+
+14
+00:00:44,100 --> 00:00:47,950
+[NURSE JOANNE]
+Hi Adam, my name is Joanne, so nice to meet you.
+ສະບາຍດີ ອາດາມ, ຂ້ອຍຊື່ວ່າ ໂຈອານ, ດີໃຈທີ່ຮູ້ຈັກເຈົ້າຫຼາຍ.
+
+15
+00:00:48,450 --> 00:00:51,950
+[ADAM]
+You don't happen to have anything in a cotton blend?
+ເຈົ້າບໍ່ເຄີຍມີຫຍັງໃນປະສົມຜ້າຝ້າຍບໍ?
+
+16
+00:00:52,450 --> 00:00:54,450
+[NURSE JOANNE]
+Cotton. You're funny.
+ໂກຕັນ. ເຈົ້າມ່ວນຊື່ນ.
+
+17
+00:00:54,950 --> 00:01:00,950
+[NURSE JOANNE]
+Now I'm going to need you to fill this cup with urine. You think you can do that?
+ດຽວນີ້ຂ້ອຍຈະຕ້ອງການໃຫ້ເຈົ້າຕື່ມຈອກນີ້ດ້ວຍທາດທ້ອງ
+. ເຈົ້າຄິດວ່າເຈົ້າສາມາດເຮັດໄດ້ບໍ?
+
+18
+00:01:01,450 --> 00:01:04,250
+[ADAM]
+You want me to fill this entire cup.
+ເຈົ້າຢາກໃຫ້ຂ້ອຍຕື່ມຈອກນີ້ທັງ ຫມົດ.
+
+19
+00:01:04,750 --> 00:01:06,750
+[JOANNE]
+Yup.
+ແມ່ນແລ້ວ.
+
+20
+00:01:07,250 --> 00:01:12,850
+[ADAM]
+It's gonna take me at least a week to fill this. Can I take it home?
+ມັນຈະໃຊ້ເວລາຂ້ອຍຢ່າງຫນ້ອຍ ຫນຶ່ງ
+ອາທິດເພື່ອຕື່ມສິ່ງນີ້. ຂ້ອຍສາມາດເອົາມັນກັບບ້ານໄດ້ບໍ?
+
+21
+00:01:13,350 --> 00:01:15,450
+[JOANNE]
+Take it home. You're so funny.
+ເອົາມັນກັບບ້ານ. ເຈົ້າມ່ວນຫຼາຍ.
+
+22
+00:01:15,950 --> 00:01:18,050
+[JOANNE]
+You okay in there Adam? 4.
+ເຈົ້າບໍ່ເປັນຫຍັງຢູ່ບ່ອນນັ້ນແອດມ໌ບໍ? 4.
+
+23
+00:01:18,550 --> 00:01:20,550
+[ADAM]
+Just another minute.
+ພຽງແຕ່ອີກນາທີຫນຶ່ງ.
+
+24
+00:01:21,050 --> 00:01:23,050
+[JOANNE]
+Here comes the choo-choo!
+ມາແລ້ວ!
+
+25
+00:01:23,550 --> 00:01:29,550
+[TECHNICIAN]
+Now make sure you lie completely still. Otherwise we'll have to do it all over again. Which we're not going to have to do, right?
+ດຽວນີ້ແນ່ໃຈວ່າເຈົ້ານອນຢູ່ຢ່າງຄົງທີ່ຢ່າງສົມບູນ.
+ຖ້າບໍ່ດັ່ງນັ້ນພວກເຮົາຈະຕ້ອງເຮັດມັນອີກຄັ້ງ. ເຊິ່ງພວກເຮົາຈະບໍ່ຕ້ອງເຮັດ, ແມ່ນບໍ?
+
+26
+00:01:30,050 --> 00:01:32,050
+[ADAM]
+Hello? Is anybody out there?
+ສະບາຍດີ? ມີໃຜຢູ່ພາຍນອກບໍ?
+
+27
+00:01:32,550 --> 00:01:34,550
+[ADAM]
+I have to pee.
+ຂ້ອຍຕ້ອງສູບຢາ.
+
+28
+00:01:35,050 --> 00:01:41,050
+[SUPER: JUNE]
+It's a gray morning as the thick spring fog slowly begins to lift. With no one in sight, the only sound that can be heard is that of the waves crashing onto the shoreline and then rolling back out to the Pacific Ocean.
+ມັນເປັນຕອນເຊົ້າທີ່ສີຂີ້ເຖົ່າໃນຂະນະທີ່ຫມອກພາກຮຽນ spring ທີ່ຫນາແຫນ້ນ ເລີ່ມຂຶ້ນຊ້າໆ. ໂດຍບໍ່ມີໃຜເຫັນ,
+ສຽງດຽວທີ່ສາມາດໄດ້ຍິນແມ່ນສຽງຂອງຄື້ນຟອງທີ່ຕໍາໃສ່ແຄມຝັ່ງທະເລແລະຫຼັງຈາກນັ້ນ rolled ກັບຄືນໄປສູ່ມະຫາສະຫມຸດປາຊີຟິກ.
+
+29
+00:01:41,550 --> 00:01:43,550
+[RACHEL]
+Make it stop.
+ເຮັດໃຫ້ມັນຢຸດເຊົາ.
+
+30
+00:01:44,050 --> 00:01:46,050
+[ADAM]
+It won't turn off.
+ມັນຈະບໍ່ປິດ.
+
+31
+00:01:46,550 --> 00:01:48,550
+[ADAM]
+Sorry.
+ຂໍໂທດ.
+
+32
+00:01:49,050 --> 00:01:51,050
+[RACHEL]
+Mmmmm.
+ມມມມ
+
+33
+00:01:51,550 --> 00:01:53,550
+[RACHEL]
+Oh my god.
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ.
+
+34
+00:01:54,050 --> 00:01:56,050
+[ADAM]
+What?
+ຫຍັງ?
+
+35
+00:01:56,550 --> 00:01:59,000
+[RACHEL]
+I think you have a gray hair.
+ຂ້ອຍຄິດວ່າເຈົ້າມີຜົມສີຂາວ.
+
+36
+00:01:59,500 --> 00:02:01,500
+[ADAM]
+Really?
+ແທ້ບໍ?
+
+37
+00:02:02,000 --> 00:02:04,100
+[RACHEL]
+I'm gonna pull it out. 7.
+ຂ້ອຍຈະດຶງມັນອອກ. 7.
+
+38
+00:02:04,600 --> 00:02:06,600
+[ADAM]
+No! Don't touch it.
+ບໍ່! ຢ່າຈັບມັນ.
+
+39
+00:02:07,100 --> 00:02:09,200
+[SETH]
+Hi kids. Beautiful day isn't it?
+ສະບາຍດີ ເດັກນ້ອຍ. ມື້ທີ່ສວຍງາມບໍ່?
+
+40
+00:02:09,700 --> 00:02:11,700
+[ANDREW]
+Hey Adam.
+ເຮ້ ອາດາມ.
+
+41
+00:02:12,200 --> 00:02:14,200
+[ADAM]
+Hey Andrew.
+ສະບາຍດີ ແອນດຣ໌.
+
+42
+00:02:14,700 --> 00:02:16,800
+[ANDREW]
+Sorry about the noise last night.
+ຂໍໂທດກ່ຽວກັບສຽງດັງໃນມື້ວານນີ້.
+
+43
+00:02:17,300 --> 00:02:19,300
+[SETH]
+Yo.
+ໂຢ.
+
+44
+00:02:19,800 --> 00:02:21,800
+[ADAM]
+Yo.
+ໂຢ.
+
+45
+00:02:22,300 --> 00:02:24,750
+[SETH]
+...What's that smell? Are you wearing perfume?
+ກິ່ນຫອມນັ້ນແມ່ນຫຍັງ? ເຈົ້າໃສ່ນ້ ໍາ ມັນຫອມບໍ?
+
+46
+00:02:25,250 --> 00:02:27,250
+[ADAM]
+No.
+ບໍ່
+
+47
+00:02:27,750 --> 00:02:30,900
+[SETH]
+Well, you smell like the cast of Steel Magnolias.
+ດີ, ເຈົ້າກິ່ນຫອມຄືກັບ cast ຂອງ Steel Magnolias.
+
+48
+00:02:31,400 --> 00:02:34,900
+[ADAM]
+I ran out of shampoo. I had to use Rachel's.
+ຂ້ອຍຫມົດຊໍາປູແລ້ວ. ຂ້ອຍຕ້ອງໃຊ້ຂອງຣາເຊວ.
+
+49
+00:02:35,400 --> 00:02:39,250
+[SETH]
+For a second there I thought maybe you'd fucked Olympia Dukakis.
+ຂ້ອຍຄິດວ່າບາງທີເຈົ້າໄດ້ຟັກໂອລິມປີຍ ດູຄາກິສ.
+
+50
+00:02:39,750 --> 00:02:44,300
+[ADAM]
+Can you unlock my window? There's a lot of pollen in the air.
+ເຈົ້າສາມາດເປີດປ່ອງຢ້ຽມຂອງຂ້ອຍໄດ້ບໍ? ມີຝຸ່ນຝຸ່ນຫຼາຍໃນອາກາດ.
+
+51
+00:02:44,800 --> 00:02:50,050
+[ADAM]
+Seriously, my allergies are flaring up. It feels like my nasal cavities are on fire.
+ຢ່າງຈິງໃຈ, ອາເລັກຊີຂອງຂ້ອຍ ກໍາ ລັງໄຫມ້ຂຶ້ນ
+. ມັນຮູ້ສຶກຄືກັບວ່າຮູດັງຂອງຂ້ອຍຖືກໄຟ.
+
+52
+00:02:50,550 --> 00:02:55,450
+[SETH]
+Sorry music's too loud, it's making it hard for me to hear your whining.
+ຂໍໂທດດົນຕີສຽງດັງເກີນໄປ, ມັນເຮັດໃຫ້ມັນຍາກ
+ສໍາ ລັບຂ້ອຍທີ່ຈະໄດ້ຍິນການຮ້ອງໄຫ້ຂອງທ່ານ.
+
+53
+00:02:55,950 --> 00:03:00,500
+[SETH]
+I don't get it, that guy is clearly a total douchebag...He's wearing Capris!
+ຂ້ອຍບໍ່ເຂົ້າໃຈມັນ,
+ຜູ້ຊາຍຄົນນັ້ນເປັນຄົນໂຊກຮ້າຍຢ່າງແນ່ນອນ... ລາວໃສ່ Capris!
+
+54
+00:03:01,000 --> 00:03:07,000
+[ADAM]
+Rachel and I used to be like that; like two wild animals in heat... I guess it is only natural though, as we get older, more mature, things begin to slow down. Sex every three weeks is normal? Right?
+ຂ້ອຍແລະຣາເຊວເຄີຍເປັນແບບນັ້ນ; ຄືກັບສັດປ່າສອງໂຕໃນຄວາມຮ້ອນ... ຂ້ອຍຄິດວ່າມັນເປັນ ທໍາ ມະຊາດເທົ່ານັ້ນເຖິງຢ່າງໃດກໍ່ຕາມ
+, ໃນຂະນະທີ່ພວກເຮົາເຕີບໃຫຍ່ຂຶ້ນ, ມີຄວາມ成熟ຫຼາຍຂຶ້ນ, ສິ່ງຕ່າງໆເລີ່ມຊ້າລົງ. ເພດທຸກໆສາມອາທິດແມ່ນປົກກະຕິບໍ? ແມ່ນບໍ?
+
+55
+00:03:07,500 --> 00:03:09,950
+[SETH]
+You haven't had sex in three weeks?
+ເຈົ້າບໍ່ໄດ້ມີເພດສໍາພັນເປັນເວລາສາມອາທິດແລ້ວບໍ?
+
+56
+00:03:10,450 --> 00:03:15,000
+[ADAM]
+You think maybe she's mad cause I haven't asked her to move in?
+ເຈົ້າຄິດວ່ານາງອາດຈະໂຊກຮ້າຍເພາະວ່າຂ້ອຍບໍ່ໄດ້ຂໍໃຫ້ນາງຍ້າຍເຂົ້າມາບໍ?
+
+57
+00:03:15,500 --> 00:03:21,500
+[SETH]
+What the fuck are you talking about? I don't think she's waiting for you to ask anything. You're using her shampoo. Next thing you'll be using her tampons. 10.
+ເຈົ້າເວົ້າຫຍັງຢູ່? ຂ້ອຍບໍ່ຄິດວ່ານາງ ກໍາ ລັງລໍຖ້າເຈົ້າທີ່ຈະຖາມຫຍັງເລີຍ.
+ເຈົ້າ ກໍາ ລັງໃຊ້ຊໍາປູຂອງນາງ. ສິ່ງຕໍ່ໄປທີ່ທ່ານຈະໃຊ້ tampons ຂອງນາງ. 10.
+
+58
+00:03:22,000 --> 00:03:28,000
+[SETH]
+But seriously, let me get this straight - she has her own place, yet she spends every night with you, in your bed, but she won't sleep with you?
+ແຕ່ຢ່າງຈິງໃຈ, ຂໍໃຫ້ຂ້ອຍເຂົ້າໃຈເລື່ອງນີ້ - ນາງມີບ່ອນຂອງຕົນເອງ,
+ເຖິງຢ່າງໃດກໍ່ຕາມນາງໃຊ້ເວລາທຸກໆຄືນກັບເຈົ້າ, ໃນຕຽງຂອງທ່ານ, ແຕ່ນາງຈະບໍ່ນອນກັບເຈົ້າບໍ?
+
+59
+00:03:28,500 --> 00:03:30,600
+[ADAM]
+It's not that big a deal.
+ມັນບໍ່ແມ່ນເລື່ອງໃຫຍ່ຫຼາຍ.
+
+60
+00:03:31,100 --> 00:03:37,100
+[SETH]
+So when does it become a big deal? Five weeks? Six weeks? A year? My cut off...4 days. That's when I begin to worry.
+ສະນັ້ນມັນກາຍເປັນເລື່ອງໃຫຍ່ເມື່ອໃດ? ຫ້າອາທິດ? ຫົກອາທິດ? ຫນຶ່ງ
+ປີ? ການຕັດຂອງຂ້ອຍ... 4 ມື້. ນັ້ນແມ່ນເວລາທີ່ຂ້ອຍເລີ່ມກັງວົນ.
+
+61
+00:03:37,600 --> 00:03:41,450
+[ADAM]
+Do you realize how lucky I am to be with Rachel?
+ເຈົ້າຮູ້ວ່າຂ້ອຍໂຊກດີຫຼາຍປານໃດທີ່ຢູ່ກັບຣາເຊວ?
+
+62
+00:03:41,950 --> 00:03:47,950
+[SETH]
+Look around, there are like a million Rachel's in this city alone...well, she's kind of hot, so maybe half a million.
+ເບິ່ງຢູ່ອ້ອມຂ້າງ, ມີປະມານ ຫນຶ່ງ ລ້ານຂອງຣາເຊວໃນເມືອງນີ້ດຽວ
+... ດີ, ນາງຮ້ອນບາງຢ່າງ, ສະນັ້ນບາງທີເຄິ່ງລ້ານ.
+
+63
+00:03:48,450 --> 00:03:54,450
+[ADAM]
+But they're not Rachel. I don't know how to explain it, but being with her just feels right. And I'm not going to overlook that just cause we're in a lull.
+ແຕ່ພວກເຂົາບໍ່ແມ່ນຣາເຊວ. ຂ້ອຍບໍ່ຮູ້ວ່າຈະອະທິບາຍມັນແນວໃດ, ແຕ່ການຢູ່ກັບນາງພຽງແຕ່ຮູ້ສຶກຖືກຕ້ອງ
+. ແລະຂ້ອຍຈະບໍ່ເອົາໃຈໃສ່ນັ້ນພຽງແຕ່ເພາະວ່າພວກເຮົາຢູ່ໃນຄວາມງຽບສະຫງົບ.
+
+64
+00:03:54,950 --> 00:04:00,950
+[SETH]
+My parents are in a lull, which is what happens after 35 years of marriage. You've only been dating her four months. At our age sex is all we have. Every time she refuses to sleep with you a small piece of every man's soul dies. She's killing us Adam...You're a semi- smart, semi-successful, semi- average looking dude. Just based on that you could get with at least one third of the female population.
+ພໍ່ແມ່ຂອງຂ້ອຍຢູ່ໃນຄວາມງຽບສະຫງົບ, ເຊິ່ງແມ່ນສິ່ງທີ່ເກີດຂຶ້ນຫຼັງຈາກການແຕ່ງງານ 35 ປີ. ເຈົ້າພຽງແຕ່ ກໍາ ລັງພົບກັບນາງສີ່ເດືອນເທົ່ານັ້ນ. ໃນອາຍຸຂອງພວກເຮົາເພດແມ່ນສິ່ງດຽວທີ່ພວກເຮົາມີ. ທຸກຄັ້ງທີ່ນາງປະຕິເສດທີ່ຈະນອນກັບເຈົ້າສ່ວນນ້ອຍໆຂອງຈິດວິນຍານຂອງຜູ້ຊາຍທຸກຄົນຕາຍ
+. ນາງ ກໍາ ລັງຂ້າພວກເຮົາແອນດາມ... ເຈົ້າເປັນຜູ້ຊາຍທີ່ເບິ່ງຄືວ່າເຄິ່ງສະຫຼາດ, ເຄິ່ງປະສົບຜົນສໍາເລັດ, ເກິ່ງສະເລ່ຍ. ພຽງແຕ່ອີງໃສ່ນັ້ນເຈົ້າສາມາດເຂົ້າກັບຢ່າງຫນ້ອຍ ຫນຶ່ງ ສ່ວນສາມຂອງປະຊາກອນ
+
+65
+00:04:01,450 --> 00:04:03,450
+[BARISTA]
+Morning gentlemen. 11.
+ຕອນເຊົ້າເດີ. 11.
+
+66
+00:04:03,950 --> 00:04:06,050
+[SETH]
+Would you sleep with my friend.
+ເຈົ້າຈະນອນກັບເພື່ອນຂອງຂ້ອຍບໍ.
+
+67
+00:04:06,550 --> 00:04:08,550
+[BARISTA]
+Like, right now?
+ເຊັ່ນວ່າ, ດຽວນີ້ບໍ?
+
+68
+00:04:09,050 --> 00:04:11,050
+[SETH]
+No just in general.
+ບໍ່ພຽງແຕ່ໂດຍທົ່ວໄປ.
+
+69
+00:04:11,550 --> 00:04:13,550
+[BARISTA]
+Yeah, I'd fuck him.
+ແມ່ນແລ້ວ, ຂ້ອຍຈະຟັກລາວ.
+
+70
+00:04:14,050 --> 00:04:16,050
+[BARISTA]
+Hey Demetri, Fuckable?
+ເຮ້ ເດເມຕຣີ, ໂຊກຮ້າຍບໍ?
+
+71
+00:04:16,550 --> 00:04:18,550
+[DEMETRI]
+I'd let you blow me.
+ຂ້ອຍຈະປ່ອຍໃຫ້ເຈົ້າພັດຂ້ອຍ.
+
+72
+00:04:19,050 --> 00:04:21,150
+[SETH]
+See this is what I'm saying.
+ເຈົ້າເຫັນວ່ານີ້ແມ່ນສິ່ງທີ່ຂ້ອຍເວົ້າ.
+
+73
+00:04:21,650 --> 00:04:23,650
+[SETH AND ADAM]
+Good morning Jenny.
+ສະບາຍດີ ເຈນນີ.
+
+74
+00:04:24,150 --> 00:04:26,150
+[SETH]
+I love you.
+ຂ້ອຍຮັກເຈົ້າ.
+
+75
+00:04:26,650 --> 00:04:28,650
+[PHIL]
+Salutations gentlemen.
+ສະບາຍດີເດີເດີເດີ.
+
+76
+00:04:29,150 --> 00:04:31,150
+[PHIL]
+Are you wearing perfume?
+ເຈົ້າໃສ່ກິ່ນຫອມບໍ?
+
+77
+00:04:31,650 --> 00:04:33,650
+[ADAM]
+It's Rachel's shampoo.
+ມັນເປັນຊໍາປູຂອງຣາເຊວ.
+
+78
+00:04:34,150 --> 00:04:38,000
+[PHIL]
+Fructis by L'oreal. My wife uses that. What are you wearing?
+ຫມາກ ໄມ້ຈາກ L'oreal. ເມຍຂອງຂ້ອຍໃຊ້ມັນ. ເຈົ້າໃສ່ຫຍັງ?
+
+79
+00:04:38,500 --> 00:04:40,500
+[PHIL]
+What is that?
+ນັ້ນແມ່ນຫຍັງ?
+
+80
+00:04:41,000 --> 00:04:43,000
+[SETH]
+Ah, mothballs?
+ອາ, ບານໂມຕ໌ບໍ?
+
+81
+00:04:43,500 --> 00:04:45,600
+[SETH]
+Looks like my group is here.
+ເບິ່ງຄືວ່າກຸ່ມຂອງຂ້ອຍຢູ່ບ່ອນນີ້.
+
+82
+00:04:46,100 --> 00:04:48,100
+[SETH]
+See you guys later.
+ພົບກັນຕໍ່ມາ.
+
+83
+00:04:48,600 --> 00:04:50,700
+[PHIL]
+How's the Origins exhibit coming along?
+ງານວາງສະແດງຕົ້ນກໍາເນີດ ກໍາ ລັງດໍາເນີນໄປແນວໃດ?
+
+84
+00:04:51,200 --> 00:04:53,300
+[ADAM]
+We're almost done with Upper Paleolithic.
+ພວກເຮົາເກືອບສໍາເລັດແລ້ວກັບສະໄຫມປາເລໂອລີຕິກເທິງ.
+
+85
+00:04:53,800 --> 00:04:59,400
+[PHIL]
+I'm counting on you not to screw up.  You're the only one I can trust. 13.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະບໍ່ເຮັດໃຫ້ຜິດພາດ.
+ເຈົ້າເປັນຄົນດຽວທີ່ຂ້ອຍສາມາດເຊື່ອຖືໄດ້. 13.
+
+86
+00:04:59,900 --> 00:05:04,100
+[PHIL]
+The Board is talking about bringing in sponsors...We're a dying art Adam.
+ຄະນະກໍາມະການ ກໍາ ລັງເວົ້າກ່ຽວກັບການ ນໍາ ເອົາຜູ້ສະ
+ຫນັບ ສະ ຫນູນ ເຂົ້າມາ... ພວກເຮົາເປັນອາດາມສິລະປະທີ່ຕາຍ.
+
+87
+00:05:04,600 --> 00:05:06,600
+[ADAM]
+Phil?
+ຟີລ?
+
+88
+00:05:07,100 --> 00:05:09,100
+[PHIL]
+Yeah?
+ແມ່ນແລ້ວ?
+
+89
+00:05:09,600 --> 00:05:11,700
+[ADAM]
+I should probably get to work.
+ຂ້ອຍຄວນໄປເຮັດວຽກ.
+
+90
+00:05:12,200 --> 00:05:14,200
+[PHIL]
+That's probably a good idea.
+ນັ້ນອາດຈະເປັນຄວາມຄິດທີ່ດີ.
+
+91
+00:05:14,700 --> 00:05:17,150
+[PHIL]
+I think I'm gonna go to lunch.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະໄປກິນອາຫານທ່ຽງ.
+
+92
+00:05:17,650 --> 00:05:19,650
+[ADAM]
+Greg. What are you doing?
+ແກຣກ. ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+93
+00:05:20,150 --> 00:05:22,150
+[GREG]
+It's a velociraptor.
+ມັນເປັນເວໂລຊີຣາປຕໍ.
+
+94
+00:05:22,650 --> 00:05:24,650
+[ADAM]
+Where did it come from?
+ມັນມາຈາກໃສ?
+
+95
+00:05:25,150 --> 00:05:31,100
+[GREG]
+The dinosaur exhibit.  Why can't we just say it was the first domesticated pet?...People love dinosaurs. 14.
+ການວາງສະແດງດິນາຊູຣ໌. ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ສາມາດເວົ້າວ່າມັນເປັນສັດລ້ຽງທີ່ຖືກລ້ຽງສັດ
+ທໍາ ອິດບໍ?... ຄົນມັກດີນາຊູນ. 14.
+
+96
+00:05:31,600 --> 00:05:37,600
+[ADAM]
+Greg you can't just...that's a 75 million year old fossil...just please, put it away before someone sees it.
+ແກຣກ ເຈົ້າບໍ່ສາມາດພຽງແຕ່... ນັ້ນແມ່ນເຊື້ອໄຟທີ່ມີອາຍຸ 75
+ລ້ານປີ... ພຽງແຕ່ຂໍຮ້ອງ, ເອົາມັນໄວ້ກ່ອນທີ່ໃຜຈະເຫັນມັນ.
+
+97
+00:05:38,100 --> 00:05:44,100
+[SETH]
+Coming up here on our left is the "Origins of Man" exhibit on loan from the Smithsonian Institute. It won't be open to the public for a few more months, so you're one of the first groups to see it. Adam!
+ມາຢູ່ບ່ອນນີ້ທາງຊ້າຍຂອງພວກເຮົາແມ່ນງານວາງສະແດງ"ຕົ້ນກໍາເນີດຂອງມະນຸດ" ທີ່ຢືມຈາກສະຖາບັນສມິດຊອນ.
+ມັນຈະບໍ່ເປີດໃຫ້ສາທາລະນະຊົນອີກສອງສາມເດືອນ, ສະນັ້ນເຈົ້າເປັນ ຫນຶ່ງ ໃນກຸ່ມ ທໍາ ອິດທີ່ຈະເຫັນມັນ. ອາດາມ!
+
+98
+00:05:44,600 --> 00:05:49,500
+[SETH]
+Everyone this is Adam, he's the curator of ancient civilizations here at the museum.
+ທຸກຄົນນີ້ແມ່ນອາດາມ,
+ລາວເປັນຜູ້ຄຸ້ມຄອງວັດທະນະທໍາບູຮານຢູ່ນີ້ໃນຫໍພິພິທະພັນ.
+
+99
+00:05:50,000 --> 00:05:52,000
+[ADAM]
+Hey kids.
+ສະບາຍດີ ເດັກນ້ອຍ.
+
+100
+00:05:52,500 --> 00:05:55,650
+[SETH]
+Why don't you tell us what we're looking at.
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກພວກເຮົາວ່າພວກເຮົາ ກໍາ ລັງເບິ່ງຫຍັງ.
+
+101
+00:05:56,150 --> 00:06:01,750
+[ADAM]
+This here is a family of homo sapiens who lived in Europe about 25,000 year's ago...
+ນີ້ແມ່ນຄອບຄົວຂອງ homo sapiens
+ທີ່ອາໄສຢູ່ໃນເອີຣົບປະມານ 25,000 ປີກ່ອນ...
+
+102
+00:06:02,250 --> 00:06:08,250
+[ADAM]
+...these Cro Magnon's as they're often called, are the closest in the evolutionary chain to modern day humans...
+ພວກນີ້ຄຣູ ມາຈນອນ ດັ່ງທີ່ພວກເຂົາຖືກເອີ້ນກັນເລື້ອຍໆ,
+ແມ່ນໃກ້ທີ່ສຸດໃນຕ່ອງໂສ້ການພັດທະນາກັບມະນຸດສະໄຫມປັດຈຸບັນ...
+
+103
+00:06:08,750 --> 00:06:14,750
+[ADAM]
+...What made Cro Magnon so advanced was their sense of community...they were the first to settle on a single plot of land, devote to one partner, raise a family, and take care of the sick.
+ສິ່ງທີ່ເຮັດໃຫ້ຄຣູ ມາຈນອນກ້າວຫນ້າຫຼາຍແມ່ນຄວາມຮູ້ສຶກຂອງຊຸມຊົນຂອງພວກເຂົາ... ພວກເຂົາເປັນຄົນ ທໍາ
+ອິດທີ່ຈະຕັ້ງຖິ່ນຖານຢູ່ເທິງແຜ່ນດິນດຽວ, ອຸທິດຕົນໃຫ້ຄູ່ຮ່ວມງານຄົນດຽວ, ລ້ຽງຄອບຄົວ, ແລະເບິ່ງແຍງຄົນເຈັບ.
+
+104
+00:06:15,250 --> 00:06:19,450
+[KID 1]
+This is lame! I thought you said we were gonna see dinosaurs.
+ນີ້ແມ່ນໂຊກຮ້າຍ! ຂ້ອຍຄິດວ່າເຈົ້າບອກວ່າພວກເຮົາຈະເຫັນດິນາຊໍ.
+
+105
+00:06:19,950 --> 00:06:21,950
+[GREG]
+See, I told you.
+ເຫັນແລ້ວ, ຂ້ອຍບອກເຈົ້າແລ້ວ.
+
+106
+00:06:22,450 --> 00:06:24,900
+[SETH]
+Who wants to hear about the caveman?
+ໃຜຢາກຟັງກ່ຽວກັບຄົນຮູຮານ?
+
+107
+00:06:25,400 --> 00:06:27,400
+[SETH]
+Caveman. RRRRRR!
+ຜູ້ຊາຍຮູຮານ. RRRR!
+
+108
+00:06:27,900 --> 00:06:33,900
+[ADAM]
+This is Homo Neanderthalensis - the Neanderthal Man. For over 150,000 years his ancestors dominated all of Europe. But then about 30,000 years ago, Neanderthals began to disappear, until one day, their entire civilization was gone. 16.
+ນີ້ແມ່ນ Homo Neanderthalensis - ຜູ້ຊາຍເນັນເດີທາລ໌. ເປັນເວລາຫຼາຍກວ່າ 150,000 ປີບັນພະບຸລຸດຂອງລາວປົກຄອງເອີຣົບທັງ ຫມົດ.
+ແຕ່ຫຼັງຈາກນັ້ນປະມານ 30,000 ປີກ່ອນ, ຊາວເນັນເດັດລ໌ເລີ່ມຫາຍໄປ, ຈົນກວ່າມື້ຫນຶ່ງ, ວັດທະນະທໍາທັງ ຫມົດ ຂອງພວກເຂົາໄດ້ຫາຍໄປ. 16.
+
+109
+00:06:34,400 --> 00:06:36,400
+[GREG]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+110
+00:06:36,900 --> 00:06:38,900
+[ADAM]
+Greg you know what happened.
+ແກຣກ ເຈົ້າຮູ້ວ່າເກີດຫຍັງຂຶ້ນ.
+
+111
+00:06:39,400 --> 00:06:41,400
+[GREG]
+I do?
+ຂ້ອຍເຮັດບໍ?
+
+112
+00:06:41,900 --> 00:06:45,050
+[SETH]
+Come on! Tell us what happened to the caveman.
+ມາແລ້ວ! ບອກພວກເຮົາວ່າເກີດຫຍັງຂຶ້ນກັບຄົນຮູຮານ.
+
+113
+00:06:45,550 --> 00:06:51,550
+[ADAM]
+Well no one knows for sure. But it's suspected that because Neanderthal was a nomadic huntsman, he roamed the land, only fending for himself - never learning to cohabitate with others. So as Cro Magnon families settled into Europe, they took over the land. One by one, Neanderthal was pushed out...and never seen, or heard from again.
+ດີບໍ່ມີໃຜຮູ້ຢ່າງແນ່ນອນ. ແຕ່ມັນສົງໄສວ່າເພາະວ່າ Neanderthal ແມ່ນນັກລ່າສັດຄົນຍ້າຍຖິ່ນຖານ, ລາວຍ່າງຢູ່ໃນດິນ, ພຽງແຕ່ເບິ່ງແຍງຕົວເອງ - ບໍ່ເຄີຍຮຽນຮູ້ທີ່ຈະຢູ່ຮ່ວມກັບຄົນອື່ນ
+. ສະນັ້ນໃນຂະນະທີ່ຄອບຄົວຄຣູແມຈນອນຕັ້ງຖິ່ນອາໄສຢູ່ໃນເອີຣົບ, ພວກເຂົາເອົາດິນ. ຫນຶ່ງ ຕໍ່ຫນຶ່ງ, Neandertal ໄດ້ຖືກຂັບໄລ່ອອກ... ແລະບໍ່ເຄີຍເຫັນ, ຫຼືໄດ້ຍິນຈາກອີກເທື່ອຫນຶ່ງ.
+
+114
+00:06:52,050 --> 00:06:54,500
+[SETH]
+That's quite a story. Thank you Adam.
+ນັ້ນແມ່ນເລື່ອງທີ່ຍິ່ງໃຫຍ່. ຂອບໃຈແອັດມາມ.
+
+115
+00:06:55,000 --> 00:06:57,800
+[SETH]
+You really know how to win a crowd.
+ເຈົ້າຮູ້ວິທີຊະນະຄົນຊົມເຊີຍແທ້ໆ.
+
+116
+00:06:58,300 --> 00:07:04,300
+[ADAM]
+But you never know, just cause they vanished doesn't mean they're gone. For all we know, there could be a Neanderthal walking among us right now. And by the looks of this guy
+ແຕ່ເຈົ້າບໍ່ເຄີຍຮູ້ເລີຍ, ພຽງແຕ່ຍ້ອນວ່າພວກມັນຫາຍໄປບໍ່ໄດ້ ຫມາຍ ຄວາມວ່າພວກເຂົາຫາຍໄປແລ້ວ. ສໍາລັບທັງ ຫມົດ
+ທີ່ພວກເຮົາຮູ້, ມັນອາດຈະມີຄົນ Neanderthal ຍ່າງຢູ່ລະຫວ່າງພວກເຮົາໃນເວລານີ້. ແລະໂດຍການເບິ່ງຂອງຜູ້ຊາຍຄົນນີ້
+
+117
+00:07:04,800 --> 00:07:07,950
+[HERE -]
+I'd say he probably plays defense for the Raiders.
+ຂ້ອຍຈະເວົ້າວ່າ ລາວອາດຈະຫຼິ້ນການປ້ອງກັນຊາດ ສໍາ ລັບ Raiders.
+
+118
+00:07:08,450 --> 00:07:10,450
+[KID 1]
+This sucks ass. 17.
+ນີ້ແມ່ນໂຊກຮ້າຍ. 17.
+
+119
+00:07:10,950 --> 00:07:12,950
+[SETH]
+I see dinosaurs.
+ຂ້ອຍເຫັນດິໂນຊໍ.
+
+120
+00:07:13,450 --> 00:07:19,450
+[DR. ROSS]
+Patient has been complaining of excessive urination, back pain, and night sweats. Blood tests and urine analysis are normal. MRI indicates a massive intraduaral extradural
+ຄົນເຈັບໄດ້ຮ້ອງທຸກກ່ຽວກັບການໄອ້ຫຼາຍເກີນໄປ, ເຈັບຫຼັງ, ແລະຫວານໃນຕອນກາງຄືນ.
+ການກວດເລືອດແລະການວິເຄາະໄອ່ແມ່ນປົກກະຕິ. MRI ສະແດງໃຫ້ເຫັນການໄອກໄຫຼພາຍໃນທ້ອງຖິ່ນທີ່ໃຫຍ່ຫຼວງ
+
+121
+00:07:19,950 --> 00:07:24,500
+[MALIGNANT SCHWANNOMA]
+neurofibrosarcomas extending into psoas muscle with nerve root compression syndrome and bone erosion.
+ໂຣກແຊຣໂກມາໄນໂຣຟິບຣັສ (Neurofibrosarcomas) ທີ່ແຜ່ຂະຫຍາຍໄປສູ່ກ້າມຊີ້ນຂອງກະດູກຂາ (psoas
+muscle) ພ້ອມກັບໂຣກແຄບຮາກປະສາດ (nerve root compression syndrome) ແລະ ການເສື່ອມສະຫມອງ.
+
+122
+00:07:25,000 --> 00:07:28,850
+[DR. ROSS]
+Growth extends from the L2 to L5. Cytotoxic antibiotics are recommended.
+ການເຕີບໃຫຍ່ຂະຫຍາຍຕົວຈາກ L2 ເຖິງ L5
+. ຢາຕ້ານເຊື້ອ cytotoxic ແມ່ນແນະນໍາ.
+
+123
+00:07:29,350 --> 00:07:31,350
+[DR. ROSS]
+Yes. Questions?
+ແມ່ນແລ້ວ. ຄໍາ ຖາມບໍ?
+
+124
+00:07:31,850 --> 00:07:37,100
+[ADAM]
+I have no idea what you just said. Is there something wrong with me? 18.
+ຂ້ອຍບໍ່ຮູ້ເລີຍວ່າເຈົ້າຫາກໍ່ເວົ້າຫຍັງ. ມີຫຍັງຜິດກັບຂ້ອຍບໍ? 18.
+
+125
+00:07:37,600 --> 00:07:43,600
+[DR. ROSS]
+If you look here on your MRI, you see this cephalopod like object spreading down along your spinal column?
+ຖ້າເຈົ້າເບິ່ງບ່ອນນີ້ໃນ MRI ຂອງທ່ານ, ເຈົ້າເຫັນ
+cephalopod ນີ້ຄືກັບວັດຖຸທີ່ແຜ່ລາມລົງຕາມຄໍຫລັງຂອງທ່ານບໍ?
+
+126
+00:07:44,100 --> 00:07:46,200
+[DR. ROSS]
+That is a massive schwannoma neurofibrosarcomas.
+ນັ້ນແມ່ນໂຣກ neurofibrosarcomas schwannoma ທີ່ໃຫຍ່ຫຼວງ.
+
+127
+00:07:46,700 --> 00:07:49,850
+[ADAM]
+I still have no idea what you're talking about.
+ຂ້ອຍຍັງບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງຢູ່.
+
+128
+00:07:50,350 --> 00:07:52,350
+[DR. ROSS]
+It's a malignant tumor.
+ມັນເປັນມະເຮັງທີ່ຮ້າຍແຮງ.
+
+129
+00:07:52,850 --> 00:07:54,850
+[ADAM]
+What?!...A tumor? No.
+ຫຍັງ?!... ເປັນມະເຮັງບໍ? ບໍ່.
+
+130
+00:07:55,350 --> 00:07:57,350
+[DR. ROSS]
+I'm afraid so.
+ຂ້ອຍຢ້ານວ່າເປັນ.
+
+131
+00:07:57,850 --> 00:08:02,750
+[ADAM]
+How is that possible?...I don't smoke. I don't drink. I eat healthy...I even recycle.
+ມັນເປັນໄປໄດ້ແນວໃດ?... ຂ້ອຍບໍ່ສູບຢາ. ຂ້ອຍບໍ່ດື່ມ.
+ຂ້ອຍກິນອາຫານທີ່ມີສຸຂະພາບແຂງແຮງ... ຂ້ອຍຍັງໃຊ້ຄືນອີກ.
+
+132
+00:08:03,250 --> 00:08:09,250
+[DR. ROSS]
+Well Adam it's actually quite fascinating. Your cancer is the result of an incredibly rare gene mutation in chromosome 17p in the p53 Gene that causes the growth of malignant cells in tissue around the nerves. In your case it's grown along the nerves in your lower spine.
+ດີແອນດາມ ມັນເປັນທີ່ ຫນ້າ ສົນໃຈຫຼາຍແທ້ໆ. ມະເຮັງຂອງທ່ານແມ່ນຜົນມາຈາກການປ່ຽນແປງຂອງເຈນທີ່ຫາຍາກຫຼາຍໃນຄຣອມໂຊມ 17p ໃນເຈນ p53
+ທີ່ເຮັດໃຫ້ການເຕີບໃຫຍ່ຂອງຈຸລັງທີ່ເປັນອັນຕະລາຍໃນເນື້ອໃນອ້ອມຂ້າງປະສາດ. ໃນກໍລະນີຂອງທ່ານມັນເຕີບໂຕຕາມເສັ້ນປະສາດໃນຫລັງຫຼັງຕໍ່າຂອງທ່ານ.
+
+133
+00:08:09,750 --> 00:08:12,550
+[ADAM]
+But, look at me. I don't look sick.
+ແຕ່, ເບິ່ງຂ້ອຍແມ. ຂ້ອຍເບິ່ງຄືວ່າບໍ່ເຈັບປ່ວຍ.
+
+134
+00:08:13,050 --> 00:08:19,050
+[DR. ROSS]
+Cancer often has no specific symptoms. People can go years with out knowing they're sick. We're lucky we caught it before it metastasizes. 19.
+ມະເຮັງມັກບໍ່ມີອາການສະເພາະ. ຄົນສາມາດໄປຫຼາຍປີໂດຍບໍ່ຮູ້ວ່າພວກເຂົາເຈັບປ່ວຍ
+. ພວກເຮົາມີໂຊກດີທີ່ພວກເຮົາຈັບມັນກ່ອນມັນຈະກາຍເປັນ metastasizes. 19.
+
+135
+00:08:19,550 --> 00:08:25,550
+[DR. ROSS]
+I'm going to put you on a 4 month regimen of chemotherapy. It's an aggressive dosage so you might want to think about taking some time off from work.
+ຂ້ອຍຈະເຮັດໃຫ້ເຈົ້າກິນການປິ່ນປົວເຄມີ 4 ເດືອນ. ມັນແມ່ນປະລິມານທີ່ຮຸນແຮງ
+ສະນັ້ນເຈົ້າອາດຈະຢາກຄິດກ່ຽວກັບການພັກຜ່ອນຈາກວຽກບາງຄັ້ງ.
+
+136
+00:08:26,050 --> 00:08:28,850
+[ADAM]
+Can't you just cut it out of me?
+ເຈົ້າບໍ່ສາມາດເຊົາແມ!ຈາກຂ້ອຍໄດ້ບໍ?
+
+137
+00:08:29,350 --> 00:08:35,350
+[DR. ROSS]
+Yes, that is an option. But because the tumor has spread to a such significant size. Cutting it out now would be risky.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນທາງເລືອກ. ແຕ່ເພາະວ່າມະເຮັງໄດ້ແຜ່ລາມເຖິງຂະຫນາດທີ່ສໍາຄັນຫຼາຍ
+. ການເຊົາແມ!ດຽວນີ້ຈະເປັນອັນຕະລາຍ.
+
+138
+00:08:35,850 --> 00:08:38,650
+[ADAM]
+Well what are my chances of beating this?
+ໂອກາດຂອງຂ້ອຍທີ່ຈະເອົາຊະນະສິ່ງນີ້ແມ່ນຫຍັງ?
+
+139
+00:08:39,150 --> 00:08:41,250
+[DR. ROSS]
+Maybe you should talk to someone.
+ບາງທີເຈົ້າຄວນເວົ້າກັບຄົນອື່ນ.
+
+140
+00:08:41,750 --> 00:08:47,750
+[DR. ROSS]
+We have a whole department of psychologists here in the hospital. They specialize in cases...in these...sort of matters. They'll be able to help you.
+ພວກເຮົາມີພະແນກຈິດໃຈທັງ ຫມົດ ຢູ່ບ່ອນນີ້ໃນໂຮງຫມໍ. ພວກເຂົາຊ່ຽວຊານໃນກໍລະນີ
+... ໃນເລື່ອງເຫຼົ່ານີ້... ບາງສິ່ງບາງຢ່າງ. ພວກເຂົາຈະສາມາດຊ່ວຍທ່ານໄດ້.
+
+141
+00:08:48,250 --> 00:08:50,250
+[DR. ROSS]
+Hang in there champ.
+ຢືນຢັນຢູ່ບ່ອນນັ້ນແຊມປິນ.
+
+142
+00:08:50,750 --> 00:08:52,750
+[LIBRARIAN]
+Hey bro, time's up.
+ເຮ້ ອ້າຍ, ເວລາຫມົດແລ້ວ.
+
+143
+00:08:53,250 --> 00:08:56,050
+[ADAM]
+Can I have just a few more minutes?
+ຂ້ອຍມີເວລາອີກສອງສາມນາທີບໍ?
+
+144
+00:08:56,550 --> 00:08:58,650
+[LIBRARIAN]
+Sorry bro. Twenty minute limit. Rules.
+ຂໍໂທດແມ. ຈໍາ ກັດສິບນາທີ. ກົດລະບຽບ.
+
+145
+00:08:59,150 --> 00:09:01,150
+[RACHEL]
+Adam? Is that you?
+ແອັດມາມ? ນັ້ນແມ່ນເຈົ້າບໍ?
+
+146
+00:09:01,650 --> 00:09:04,450
+[RACHEL]
+Welcome home Mr. Adam. I made vegetarian goulash.
+ຍິນດີຕ້ອນຮັບກັບບ້ານທ່ານອາດາມ. ຂ້ອຍເຮັດກູລາຊ໌ຜັກ.
+
+147
+00:09:04,950 --> 00:09:06,950
+[RACHEL]
+What is wrong?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+148
+00:09:07,450 --> 00:09:09,450
+[ADAM]
+Nothing.
+ບໍ່ມີຫຍັງເລີຍ.
+
+149
+00:09:09,950 --> 00:09:11,950
+[RACHEL]
+Liar.
+ຄົນຕົວະ.
+
+150
+00:09:12,450 --> 00:09:14,450
+[ADAM]
+We need to talk.
+ພວກເຮົາຕ້ອງເວົ້າກັນ.
+
+151
+00:09:14,950 --> 00:09:16,950
+[RACHEL]
+Why? What's going on?
+ເປັນຫຍັງ? ເກີດຫຍັງຂຶ້ນ?
+
+152
+00:09:17,450 --> 00:09:19,550
+[ADAM]
+I had a doctor's appointment today.
+ຂ້ອຍມີເວລາພົບກັບຫມໍມື້ນີ້.
+
+153
+00:09:20,050 --> 00:09:22,050
+[RACHEL]
+What kind of doctor's appointment?
+ການພົບປະກັບຫມໍປະເພດໃດ?
+
+154
+00:09:22,550 --> 00:09:25,000
+[ADAM]
+Have you ever seen the movie "Beaches"?
+ເຈົ້າເຄີຍເຫັນຮູບເງົາ"ຫາດຊາຍບໍ?"
+
+155
+00:09:25,500 --> 00:09:27,600
+[RACHEL]
+You mean with Bette Midler? 22.
+ເຈົ້າຫມາຍຄວາມວ່າກັບເບຕຕ໌ ມິດເລີບໍ? 22.
+
+156
+00:09:28,100 --> 00:09:30,100
+[ADAM]
+Yeah that one.
+ແມ່ນແລ້ວຄົນນັ້ນ.
+
+157
+00:09:30,600 --> 00:09:33,400
+[RACHEL]
+Not as good as "The Rose", but good.
+ບໍ່ດີເທົ່າກັບ"ດອກໄມ້", ແຕ່ດີ.
+
+158
+00:09:33,900 --> 00:09:35,900
+[ADAM]
+Remember the end of "Beaches"?
+ເຈົ້າຈື່ຕອນທ້າຍຂອງ"ຫາດຊາຍ"?
+
+159
+00:09:36,400 --> 00:09:39,550
+[RACHEL]
+Yeah. Sad....What does that have to do with you?
+ແມ່ນແລ້ວ. ໂຊກຮ້າຍ... ມັນກ່ຽວຂ້ອງກັບເຈົ້າແນວໃດ?
+
+160
+00:09:40,050 --> 00:09:42,050
+[RACHEL]
+Oh. Oh my god.
+ໂອ້. ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ.
+
+161
+00:09:42,550 --> 00:09:44,550
+[RACHEL]
+What kind?
+ແບບໃດ?
+
+162
+00:09:45,050 --> 00:09:47,050
+[ADAM]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+163
+00:09:47,550 --> 00:09:49,550
+[RACHEL]
+You don't know?
+ເຈົ້າບໍ່ຮູ້ບໍ?
+
+164
+00:09:50,050 --> 00:09:54,250
+[ADAM]
+Well I do know, but I can't pronounce it. Neuroscharnoma or something.
+ດີຂ້ອຍຮູ້ແລ້ວ, ແຕ່ຂ້ອຍບໍ່ສາມາດອອກສຽງມັນໄດ້
+. Neuroscharnoma ຫຼືບາງສິ່ງບາງຢ່າງ.
+
+165
+00:09:54,750 --> 00:09:56,750
+[RACHEL]
+Well how bad is it?
+ມັນຮ້າຍແຮງປານໃດ?
+
+166
+00:09:57,250 --> 00:09:59,250
+[ADAM]
+It's not good.
+ມັນບໍ່ດີ.
+
+167
+00:09:59,750 --> 00:10:01,750
+[RACHEL]
+You have cancer. 23.
+ເຈົ້າມີມະເຮັງ. 23.
+
+168
+00:10:02,250 --> 00:10:04,250
+[RACHEL]
+Not now.
+ບໍ່ໃນເວລານີ້.
+
+169
+00:10:04,750 --> 00:10:08,950
+[ADAM]
+I just think it's an interesting time to take up smoking again.
+ຂ້ອຍພຽງແຕ່ຄິດວ່າມັນເປັນເວລາທີ່ ຫນ້າ ສົນໃຈທີ່ຈະເລີ່ມສູບຢາອີກຄັ້ງ.
+
+170
+00:10:09,450 --> 00:10:11,900
+[RACHEL]
+Adam I'm 24 years old! You're 25.
+ແອດມາມ ຂ້ອຍອາຍຸ 24 ປີ! ເຈົ້າອາຍຸ 25 ປີ.
+
+171
+00:10:12,400 --> 00:10:16,600
+[RACHEL]
+What are we going to do? I don't know what to do.
+ພວກເຮົາຈະເຮັດຫຍັງ? ຂ້ອຍບໍ່ຮູ້ວ່າຈະເຮັດແນວໃດ.
+
+172
+00:10:17,100 --> 00:10:23,100
+[ADAM]
+Sshhhh. Everything's going to be alright Yammy. I'm going to start chemo in a few days. We're going to get through this.
+Sshhhh. ທຸກຢ່າງຈະດີດີຍາມມີ.
+ຂ້ອຍຈະເລີ່ມຕົ້ນເຄມີໃນສອງສາມມື້. ພວກເຮົາຈະຜ່ານສິ່ງນີ້.
+
+173
+00:10:23,600 --> 00:10:26,400
+[ADAM]
+Ugh...and my parents are coming over for dinner.
+ໂອ້... ແລະພໍ່ແມ່ຂອງຂ້ອຍຈະມາກິນອາຫານຄໍ່າ.
+
+174
+00:10:26,900 --> 00:10:28,900
+[RACHEL]
+Do they know?
+ພວກເຂົາຮູ້ບໍ?
+
+175
+00:10:29,400 --> 00:10:31,400
+[ADAM]
+No. 24.
+ບໍ່. 24.
+
+176
+00:10:31,900 --> 00:10:33,900
+[ADAM]
+3...2...1...
+3...2...1...
+
+177
+00:10:34,400 --> 00:10:36,400
+[ADAM]
+Hey.
+ເຮ້
+
+178
+00:10:36,900 --> 00:10:38,900
+[EDITH]
+There they are!
+ພວກເຂົາຢູ່ບ່ອນນັ້ນ!
+
+179
+00:10:39,400 --> 00:10:42,200
+[EDITH]
+I can't wait to hear the big news.
+ຂ້ອຍລໍຖ້າທີ່ຈະໄດ້ຍິນຂ່າວໃຫຍ່.
+
+180
+00:10:42,700 --> 00:10:44,700
+[ADAM]
+Where's dad?
+ພໍ່ຢູ່ໃສ?
+
+181
+00:10:45,200 --> 00:10:48,350
+[ART]
+I found your cat playing in the neighbors yard.
+ຂ້ອຍພົບແມວຂອງທ່ານຫຼິ້ນໃນສວນຂອງເພື່ອນບ້ານ.
+
+182
+00:10:48,850 --> 00:10:50,950
+[ADAM]
+Dad, I don't have a cat.
+ພໍ່, ຂ້ອຍບໍ່ມີແມວ.
+
+183
+00:10:51,450 --> 00:10:53,450
+[EDITH]
+So what's for dinner? 25.
+ສະນັ້ນອາຫານຄໍ່າແມ່ນຫຍັງ? 25.
+
+184
+00:10:53,950 --> 00:10:58,500
+[RACHEL]
+If I had known you were coming I would have made something else.
+ຖ້າຂ້ອຍຮູ້ວ່າເຈົ້າຈະມາ ຂ້ອຍຈະເຮັດບາງສິ່ງບາງຢ່າງອື່ນ.
+
+185
+00:10:59,000 --> 00:11:04,950
+[EDITH]
+I'm just glad to finally be sharing a shabbat dinner with my son...  So this isn't meat?
+ຂ້ອຍພຽງແຕ່ດີໃຈທີ່ໄດ້ແບ່ງປັນອາຫານຄໍ່າໃນວັນເສົາກັບລູກຊາຍຂອງຂ້ອຍ
+... ສະນັ້ນນີ້ແມ່ນບໍ່ແມ່ນຊີ້ນບໍ?
+
+186
+00:11:05,450 --> 00:11:07,450
+[RACHEL]
+No it's called sei-tan.
+ບໍ່ ມັນເອີ້ນວ່າ sei-tan.
+
+187
+00:11:07,950 --> 00:11:09,950
+[ADAM]
+It's made of wheat gluten.
+ມັນເຮັດດ້ວຍກລູຕັນເຂົ້າ.
+
+188
+00:11:10,450 --> 00:11:12,450
+[EDITH]
+But it's not meat.
+ແຕ່ມັນບໍ່ແມ່ນຊີ້ນ.
+
+189
+00:11:12,950 --> 00:11:16,100
+[RACHEL]
+No, but it has a texture just like meat.
+ບໍ່, ແຕ່ມັນມີເນື້ອທີ່ຄືກັບຊີ້ນ.
+
+190
+00:11:16,600 --> 00:11:18,600
+[EDITH]
+Mmmmm. It's Good.
+ແມມ. ມັນດີ.
+
+191
+00:11:19,100 --> 00:11:21,100
+[EDITH]
+Art, take your pills.
+ແອດຕ໌, ເອົາຢາຂອງທ່ານ.
+
+192
+00:11:21,600 --> 00:11:23,600
+[EDITH]
+Swallow.
+ຈູດ.
+
+193
+00:11:24,100 --> 00:11:26,550
+[EDITH]
+So? Did you set a date? 26.
+ສະນັ້ນ? ເຈົ້າໄດ້ກໍານົດວັນທີບໍ? 26.
+
+194
+00:11:27,050 --> 00:11:29,050
+[RACHEL]
+A date?
+ວັນທີບໍ?
+
+195
+00:11:29,550 --> 00:11:35,550
+[EDITH]
+Do not do summer like your cousin, remember how awful that was? Schlepping around in the heat like that. Plus the bugs and the gnats.
+ຢ່າເຮັດລະດູຮ້ອນຄືກັບລູກອ້າຍນ້ອງຂອງທ່ານ, ຈື່ວ່າມັນຮ້າຍແຮງຫຼາຍປານໃດ
+? ຍ່າງຢູ່ທົ່ວໄປໃນຄວາມຮ້ອນແບບນັ້ນ. ບວກກັບແມງໄມ້ແລະແມວ.
+
+196
+00:11:36,050 --> 00:11:38,050
+[ADAM]
+What is she talking about?
+ນາງເວົ້າຫຍັງຢູ່?
+
+197
+00:11:38,550 --> 00:11:43,800
+[EDITH]
+And now Rachel. I know we haven't discussed this, but are you going to convert?
+ແລະດຽວນີ້ ຣາເຊວ. ຂ້ອຍຮູ້ວ່າພວກເຮົາບໍ່ໄດ້ປຶກສາຫາລືເລື່ອງນີ້
+, ແຕ່ເຈົ້າຈະປ່ຽນໃຈບໍ?
+
+198
+00:11:44,300 --> 00:11:46,300
+[RACHEL]
+She thinks we're getting married.
+ນາງຄິດວ່າພວກເຮົາຈະແຕ່ງງານກັນ.
+
+199
+00:11:46,800 --> 00:11:48,800
+[ADAM]
+Mom. We're not getting married.
+ແມ່. ພວກເຮົາຈະບໍ່ແຕ່ງງານ.
+
+200
+00:11:49,300 --> 00:11:55,300
+[EDITH]
+Oh thank god. No offense. So then what's the big news that you made us rush all the way over here.
+ໂອ້ ຂໍຂອບໃຈພຣະເຈົ້າ. ບໍ່ຕ້ອງໂຊກຮ້າຍ.
+ສະນັ້ນຂ່າວໃຫຍ່ທີ່ເຈົ້າເຮັດໃຫ້ພວກເຮົາແລ່ນມາຮອດບ່ອນນີ້ແມ່ນຫຍັງ.
+
+201
+00:11:55,800 --> 00:11:58,250
+[ADAM]
+Have you ever seen "Terms of Endearment"?
+ເຈົ້າເຄີຍເຫັນ" ຄໍາ ເວົ້າຂອງຄວາມຮັກບໍ?
+
+202
+00:11:58,750 --> 00:12:00,850
+[RACHEL]
+Oh jesus Adam, just tell her.
+ໂອ້ ພຣະເຢຊູ ອາດາມ, ພຽງແຕ່ບອກນາງ.
+
+203
+00:12:01,350 --> 00:12:03,350
+[EDITH]
+Tell me what?
+ບອກຂ້ອຍຫຍັງ?
+
+204
+00:12:03,850 --> 00:12:09,850
+[ADAM]
+Alright fine. But, before I tell you, you have to promise me you're going to stay calm. 27.
+ດີດີ. ແຕ່, ກ່ອນທີ່ຂ້ອຍຈະບອກເຈົ້າ,
+ເຈົ້າຕ້ອງສັນຍາໃຫ້ຂ້ອຍວ່າເຈົ້າຈະຢູ່ສະຫງົບໃຈ. 27.
+
+205
+00:12:10,350 --> 00:12:12,450
+[EDITH]
+Oh Adam, don't be so overdramatic.
+ໂອ້ ອາດາມ, ຢ່າໂຊກຮ້າຍເກີນໄປຫຼາຍ.
+
+206
+00:12:12,950 --> 00:12:14,950
+[ADAM]
+Mom, just promise me. Okay?
+ແມ່, ພຽງແຕ່ສັນຍາໃຫ້ຂ້ອຍ. ດີບໍ?
+
+207
+00:12:15,450 --> 00:12:19,650
+[EDITH]
+I promise...You make me out to be some kind of irrational loon.
+ຂ້ອຍສັນຍາ...
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍເປັນຄົນໂຊກຮ້າຍທີ່ບໍ່ສົມເຫດສົມຜົນບາງຢ່າງ.
+
+208
+00:12:20,150 --> 00:12:22,150
+[ADAM]
+I have cancer.
+ຂ້ອຍມີມະເຮັງ.
+
+209
+00:12:22,650 --> 00:12:24,650
+[EDITH]
+What?
+ຫຍັງ?
+
+210
+00:12:25,150 --> 00:12:27,150
+[ADAM]
+I have cancer.
+ຂ້ອຍມີມະເຮັງ.
+
+211
+00:12:27,650 --> 00:12:29,650
+[EDITH]
+What is he saying?
+ລາວເວົ້າຫຍັງ?
+
+212
+00:12:30,150 --> 00:12:32,150
+[ADAM]
+I have cancer.
+ຂ້ອຍມີມະເຮັງ.
+
+213
+00:12:32,650 --> 00:12:35,450
+[EDITH]
+Cancer? What do you mean you have cancer?
+ມະເຮັງ? ເຈົ້າຫມາຍຄວາມວ່າເຈົ້າມີມະເຮັງແນວໃດ?
+
+214
+00:12:35,950 --> 00:12:37,950
+[EDITH]
+I don't understand.
+ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+215
+00:12:38,450 --> 00:12:41,600
+[ADAM]
+Mom, I have a giant tumor in my spine.
+ແມ່, ຂ້ອຍມີມະເຮັງໃຫຍ່ໃນຫຼັງຫລັງຂອງຂ້ອຍ.
+
+216
+00:12:42,100 --> 00:12:44,100
+[ADAM]
+Mom? 28.
+ແມ່? 28.
+
+217
+00:12:44,600 --> 00:12:46,600
+[ADAM]
+Mom, what are you doing?
+ແມ່, ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+218
+00:12:47,100 --> 00:12:49,100
+[EDITH]
+I'm making you green tea.
+ຂ້ອຍ ກໍາ ລັງເຮັດຊາສີຂຽວໃຫ້ເຈົ້າ.
+
+219
+00:12:49,600 --> 00:12:51,700
+[ADAM]
+Please, will you come sit down.
+ກະລຸນາ, ເຈົ້າຈະມານັ່ງບໍ.
+
+220
+00:12:52,200 --> 00:12:58,150
+[EDITH]
+I saw on the Today Show that it reduces your risk of getting cancer by fifteen percent.
+ຂ້ອຍເຫັນໃນລາຍການມື້ນີ້ວ່າມັນຫຼຸດຄວາມສ່ຽງຂອງເຈົ້າທີ່ຈະຕິດມະເຮັງລົງສິບຫ້າເປີເຊັນ
+.
+
+221
+00:12:58,650 --> 00:13:00,650
+[ADAM]
+Mom, I already have cancer.
+ແມ່, ຂ້ອຍມີມະເຮັງແລ້ວ.
+
+222
+00:13:01,150 --> 00:13:03,150
+[EDITH]
+Here take these.
+ເອົາມັນໄວ້.
+
+223
+00:13:03,650 --> 00:13:06,450
+[EDITH]
+Aspirin, Zoloft, Lexapro, Lipitor, Flagel, Ditropan, Alka Seltzer.
+ອາຊິບິນ, ໂຊໂລຟຕ໌, ເລັກຊັປຣູ, ລິບິດໍ
+, ຟລາເຈລ, ໄດໂຕຣປານ, ອາລກາ ເຊລຕເຊີ.
+
+224
+00:13:06,950 --> 00:13:09,400
+[ADAM]
+Mom, please, stop. I don't need these.
+ແມ່, ກະລຸນາ, ຢຸດເຊົາ. ຂ້ອຍບໍ່ຕ້ອງການສິ່ງເຫຼົ່ານີ້.
+
+225
+00:13:09,900 --> 00:13:11,900
+[EDITH]
+Just take the god-damn pills.
+ພຽງແຕ່ກິນເມັດແມ.
+
+226
+00:13:12,400 --> 00:13:14,400
+[ADAM]
+Mom.
+ແມ່.
+
+227
+00:13:14,900 --> 00:13:16,900
+[EDITH]
+How could this happen? 29.
+ມັນເກີດຂຶ້ນໄດ້ແນວໃດ? 29.
+
+228
+00:13:17,400 --> 00:13:19,400
+[ADAM]
+It's genetic.
+ມັນເປັນພັນທຸຣະກັມ.
+
+229
+00:13:19,900 --> 00:13:25,900
+[EDITH]
+Genetic? It must be from your father's side of the family, they're always getting sick. Your uncle Bobby just got Crohns.
+ເຊື້ອພັນ? ມັນຕ້ອງມາຈາກຄອບຄົວຂອງພໍ່ຂອງທ່ານ, ພວກເຂົາ ກໍາ
+ລັງເຈັບປ່ວຍຢູ່ສະເຫມີ. ພໍ່ເຖົ້າຂອງທ່ານໂບບບີຫາກໍ່ໄດ້ຮັບຄຣອນສ໌.
+
+230
+00:13:26,400 --> 00:13:30,250
+[ART]
+That's a disorder of the bowels, son. How are your bowels?
+ນັ້ນແມ່ນຄວາມຜິດປົກກະຕິຂອງທ້ອງ, ລູກຊາຍ. ທ້ອງຂອງທ່ານເປັນແນວໃດ?
+
+231
+00:13:30,750 --> 00:13:33,200
+[ADAM]
+The problem is not with my bowels.
+ບັນຫາບໍ່ແມ່ນກັບທ້ອງຂອງຂ້ອຍ.
+
+232
+00:13:33,700 --> 00:13:35,700
+[ART]
+You're a lucky man.
+ເຈົ້າເປັນຜູ້ຊາຍໂຊກດີ.
+
+233
+00:13:36,200 --> 00:13:38,200
+[ADAM]
+Thanks dad.
+ຂອບໃຈພໍ່.
+
+234
+00:13:38,700 --> 00:13:40,700
+[EDITH]
+I'm moving in.
+ຂ້ອຍຈະຍ້າຍເຂົ້າມາ.
+
+235
+00:13:41,200 --> 00:13:43,200
+[ADAM]
+What? No. Absolutely not.
+ຫຍັງ? ບໍ່. ແນ່ນອນວ່າບໍ່ແມ່ນ.
+
+236
+00:13:43,700 --> 00:13:49,650
+[EDITH]
+Adam, I'm your mother, and I need to be close to you in your time of need.
+ແອັດມາມ, ຂ້ອຍເປັນແມ່ຂອງເຈົ້າ,
+ແລະຂ້ອຍຕ້ອງຢູ່ໃກ້ກັບເຈົ້າໃນເວລາທີ່ເຈົ້າຕ້ອງການ.
+
+237
+00:13:50,150 --> 00:13:52,150
+[ADAM]
+That's a terrible idea.
+ນັ້ນແມ່ນຄວາມຄິດທີ່ຮ້າຍແຮງ.
+
+238
+00:13:52,650 --> 00:13:55,450
+[EDITH]
+Well who's going to take care of you?
+ດີໃຜຈະເບິ່ງແຍງເຈົ້າ?
+
+239
+00:13:55,950 --> 00:13:57,950
+[ADAM]
+Mom, I'm fine.
+ແມ່, ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+240
+00:13:58,450 --> 00:14:03,350
+[EDITH]
+I think I have a right to take care of my son with cancer.
+ຂ້ອຍຄິດວ່າຂ້ອຍມີສິດທີ່ຈະເບິ່ງແຍງລູກຊາຍຂອງຂ້ອຍທີ່ມີມະເຮັງ.
+
+241
+00:14:03,850 --> 00:14:05,850
+[ADAM]
+It's nothing. Really. 30.
+ມັນບໍ່ມີຫຍັງເລີຍ. ແທ້ຈິງແລ້ວ. 30.
+
+242
+00:14:06,350 --> 00:14:12,300
+[EDITH]
+Nothing! You tell me you have cancer of the spine and now you tell me it's nothing.
+ບໍ່ມີຫຍັງເລີຍ!
+ເຈົ້າບອກຂ້ອຍວ່າເຈົ້າມີມະເຮັງຂອງຫຼັງແລະດຽວນີ້ເຈົ້າບອກຂ້ອຍວ່າມັນບໍ່ມີຫຍັງເລີຍ.
+
+243
+00:14:12,800 --> 00:14:18,800
+[RACHEL]
+Edith, I can't even imagine how hard this must be for you. But I promise, there's nothing for you to worry about. I'm going to be here every step of the way, to help take good care of your son.
+ເອດິດ, ຂ້ອຍບໍ່ສາມາດຄິດໄດ້ເລີຍວ່າສິ່ງນີ້ຕ້ອງຍາກຫຼາຍປານໃດ ສໍາ ລັບເຈົ້າ. ແຕ່ຂ້ອຍສັນຍາວ່າ,
+ບໍ່ມີຫຍັງໃຫ້ເຈົ້າກັງວົນ. ຂ້ອຍຈະຢູ່ບ່ອນນີ້ທຸກຂັ້ນຕອນຂອງທາງ, ເພື່ອຊ່ວຍເບິ່ງແຍງລູກຊາຍຂອງທ່ານຢ່າງດີ.
+
+244
+00:14:19,300 --> 00:14:25,300
+[EDITH]
+You're a very lucky boy to be with such a good girl. You know that? You don't deserve her.
+ເຈົ້າເປັນເດັກຊາຍໂຊກດີຫຼາຍທີ່ຢູ່ກັບເດັກຍິງທີ່ດີຫຼາຍ
+. ເຈົ້າຮູ້ບໍ? ເຈົ້າບໍ່ສົມຄວນນາງ.
+
+245
+00:14:25,800 --> 00:14:27,800
+[ADAM]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+246
+00:14:28,300 --> 00:14:33,550
+[ADAM]
+What's taking him so long? How hard is it to buy a cup of coffee?
+ເປັນຫຍັງລາວຈຶ່ງໃຊ້ເວລາຫຼາຍປານໃດ? ມັນຍາກປານ ໃດທີ່ຈະຊື້ກາເຟ?
+
+247
+00:14:34,050 --> 00:14:40,050
+[SETH]
+Look at how tight that shirt is. She's totally aware of how large her breasts look too. This morning when she got dressed, she said to herself - "I have these things and I want the world to see them."
+ເບິ່ງເສື້ອຜ້ານັ້ນແຫນ້ນແຟ້ນຫຼາຍປານໃດ. ນາງຮູ້ດີວ່າທ້ອງຂອງນາງເບິ່ງຄືວ່າໃຫຍ່ປານ ໃດເຊັ່ນກັນ.
+ໃນຕອນເຊົ້ານີ້ເມື່ອນາງໃສ່ເຄື່ອງນຸ່ງຫົ່ມ, ນາງບອກຕົວເອງວ່າ -"ຂ້ອຍມີສິ່ງເຫຼົ່ານີ້ແລະຂ້ອຍຢາກໃຫ້ໂລກເຫັນພວກມັນ."
+
+248
+00:14:40,550 --> 00:14:43,350
+[GREG]
+What about that frozen drink, what's that like?
+ແລະເຄື່ອງດື່ມທີ່ກ້ອນນັ້ນແນວໃດ, ມັນເປັນແນວໃດ?
+
+249
+00:14:43,850 --> 00:14:45,950
+[BARISTA]
+The Bavarian Blender. It's absolute heaven.
+ເຄື່ອງຜະສົມບາວເຣຍ. ມັນເປັນສະຫວັນທີ່ສົມບູນແບບ.
+
+250
+00:14:46,450 --> 00:14:49,950
+[GREG]
+I don't know. Does it have a lot of sugar?
+ຂ້ອຍບໍ່ຮູ້. ມັນມີນ້ ໍາ ຕານຫຼາຍບໍ?
+
+251
+00:14:50,450 --> 00:14:54,300
+[ADAM]
+We've been here 20 minutes. What's he shopping for a car?
+ພວກເຮົາຢູ່ບ່ອນນີ້ 20 ນາທີແລ້ວ. ລາວຊື້ລົດຫຍັງ?
+
+252
+00:14:54,800 --> 00:14:57,250
+[SETH]
+Why are you in such a rush?
+ເຈົ້າມີຄວາມຮີບດ່ວນຫຼາຍປານໃດ?
+
+253
+00:14:57,750 --> 00:15:03,750
+[ADAM]
+Is this really how you want to spend the rest of your life? Wasting away in this place?
+ເຈົ້າຢາກໃຊ້ຊີວິດສ່ວນທີ່ເຫຼືອແບບນີ້ແທ້ບໍ? ການເສຍຫາຍໃນບ່ອນນີ້ບໍ?
+
+254
+00:15:04,250 --> 00:15:09,850
+[ADAM]
+I don't believe it. Why can't he just get a latte like he does every morning.
+ຂ້ອຍບໍ່ເຊື່ອມັນ. ເປັນຫຍັງລາວຈຶ່ງບໍ່ສາມາດກິນ
+latte ໄດ້ຄືກັບທີ່ລາວເຮັດທຸກໆເຊົ້າ.
+
+255
+00:15:10,350 --> 00:15:12,450
+[SETH]
+Relax. We have plenty of time.
+ສະບາຍໃຈ. ພວກເຮົາມີເວລາຫຼາຍ.
+
+256
+00:15:12,950 --> 00:15:16,450
+[ADAM]
+No we don't have plenty of time! Life is finite.
+ບໍ່ພວກເຮົາມີເວລາພຽງພໍ! ຊີວິດສິ້ນສຸດລົງແລ້ວ.
+
+257
+00:15:16,950 --> 00:15:19,400
+[SETH]
+What the fuck is wrong with you?
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+258
+00:15:19,900 --> 00:15:21,900
+[ADAM]
+I have cancer.
+ຂ້ອຍມີມະເຮັງ.
+
+259
+00:15:22,400 --> 00:15:24,400
+[SETH]
+Yeah right. 32.
+ແມ່ນແລ້ວ. 32.
+
+260
+00:15:24,900 --> 00:15:26,900
+[ADAM]
+I'm serious.
+ຂ້ອຍເວົ້າຈິງໃຈ.
+
+261
+00:15:27,400 --> 00:15:30,550
+[SETH]
+Get the fuck out of here. You have cancer?
+ອອກຈາກບ່ອນນີ້. ເຈົ້າມີມະເຮັງບໍ?
+
+262
+00:15:31,050 --> 00:15:34,550
+[ADAM]
+Maybe a little louder, you can make a special announcement.
+ບາງທີສຽງດັງກວ່າເກົ່າ, ເຈົ້າສາມາດປະກາດພິເສດໄດ້.
+
+263
+00:15:35,050 --> 00:15:37,050
+[SETH]
+When did this happen?
+ເລື່ອງນີ້ເກີດຂຶ້ນເມື່ອໃດ?
+
+264
+00:15:37,550 --> 00:15:40,350
+[ADAM]
+Yesterday. They found a tumor in my spine.
+ມື້ວານນີ້. ພວກເຂົາພົບມະເຮັງໃນກະດູກສັນຫຼັງຂອງຂ້ອຍ.
+
+265
+00:15:40,850 --> 00:15:42,850
+[SETH]
+Who?
+ໃຜ?
+
+266
+00:15:43,350 --> 00:15:45,350
+[ADAM]
+What do you mean who?
+ເຈົ້າຫມາຍຄວາມວ່າໃຜ?
+
+267
+00:15:45,850 --> 00:15:47,850
+[SETH]
+Who found the tumor?
+ໃຜພົບມະເຮັງ?
+
+268
+00:15:48,350 --> 00:15:50,450
+[ADAM]
+Lewis and Clark...The doctors found it.
+ເລວສ໌ ແລະ ຄລາກ... ຫມໍພົບມັນ.
+
+269
+00:15:50,950 --> 00:15:53,400
+[SETH]
+When were you going to tell me?
+ເຈົ້າຈະບອກຂ້ອຍເມື່ອໃດ?
+
+270
+00:15:53,900 --> 00:15:55,900
+[ADAM]
+I'm telling you now.
+ຂ້ອຍບອກເຈົ້າດຽວນີ້.
+
+271
+00:15:56,400 --> 00:15:59,550
+[SETH]
+If I had cancer I'd tell you right away.
+ຖ້າຂ້ອຍມີມະເຮັງ ຂ້ອຍຈະບອກເຈົ້າທັນທີ.
+
+272
+00:16:00,050 --> 00:16:05,650
+[ADAM]
+What do you want the Better Friend award? It's not an easy topic to bring up.
+ເຈົ້າຢາກລາງວັນເພື່ອນທີ່ດີກວ່າຫຍັງ?
+ມັນບໍ່ແມ່ນຫົວຂໍ້ທີ່ງ່າຍທີ່ຈະຍົກຂຶ້ນມາ.
+
+273
+00:16:06,150 --> 00:16:08,150
+[SETH]
+Holy shit!
+ສະຫວັນນະເຂດ!
+
+274
+00:16:08,650 --> 00:16:14,650
+[SETH]
+Okay, let's relax here. I think the best thing to do is to look on the bright side.
+ດີແລ້ວ, ມາພັກຜ່ອນຢູ່ນີ້.
+ຂ້ອຍຄິດວ່າສິ່ງທີ່ດີທີ່ສຸດທີ່ຈະເຮັດແມ່ນເບິ່ງດ້ານສົດໃສ.
+
+275
+00:16:15,150 --> 00:16:17,150
+[ADAM]
+The bright side of what?
+ດ້ານສົດໃສຂອງຫຍັງ?
+
+276
+00:16:17,650 --> 00:16:23,650
+[SETH]
+This is your chance to do all the things you've always wanted. This is it. This is your time to live it up. Plus, do you know how much pussy we're going to get?
+ນີ້ແມ່ນໂອກາດຂອງທ່ານທີ່ຈະເຮັດທຸກສິ່ງທີ່ທ່ານເຄີຍຕ້ອງການ. ນີ້ແມ່ນມັນ.
+ນີ້ແມ່ນເວລາຂອງທ່ານທີ່ຈະດໍາລົງຊີວິດມັນ. ບວກກັບ, ເຈົ້າຮູ້ບໍວ່າພວກເຮົາຈະໄດ້ຮັບ pussy ຫຼາຍປານໃດ?
+
+277
+00:16:24,150 --> 00:16:26,150
+[KATIE]
+Can I help you?
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ບໍ?
+
+278
+00:16:26,650 --> 00:16:29,450
+[ADAM]
+I have an appointment with Dr. McRae. 34.
+ຂ້ອຍມີການພົບປະກັບດຣ ແມັກຣາຍ. 34.
+
+279
+00:16:29,950 --> 00:16:31,950
+[KATIE]
+Please call me Katie.
+ກະລຸນາເອີ້ນຂ້ອຍວ່າ ແຄຕີ້.
+
+280
+00:16:32,450 --> 00:16:34,450
+[ADAM]
+You're Dr. McRae?
+ເຈົ້າເປັນດຣ ແມັກຣາຍບໍ?
+
+281
+00:16:34,950 --> 00:16:36,950
+[KATIE]
+You were expecting someone else?
+ເຈົ້າຄາດວ່າມີຄົນອື່ນບໍ?
+
+282
+00:16:37,450 --> 00:16:41,650
+[ADAM]
+Aren't you supposed to be like sixty-five and wear earth toned sweaters?
+ເຈົ້າບໍ່ຄວນມີອາຍຸປະມານສິບຫ້າປີແລະໃສ່ເສື້ອຜ້າສີດິນບໍ?
+
+283
+00:16:42,150 --> 00:16:45,300
+[KATIE]
+Why? Did someone say that's what I look like?
+ເປັນຫຍັງ? ມີໃຜເວົ້າວ່າຂ້ອຍເບິ່ງຄືດັ່ງນັ້ນບໍ?
+
+284
+00:16:45,800 --> 00:16:48,950
+[ADAM]
+No, no, no. I was just expecting someone older.
+ບໍ່, ບໍ່, ບໍ່ມີ. ຂ້ອຍພຽງແຕ່ຄາດວ່າມີຄົນໃຫຍ່ກວ່າ.
+
+285
+00:16:49,450 --> 00:16:51,450
+[KATIE]
+Sorry to disappoint you.
+ຂໍໂທດທີ່ເຮັດໃຫ້ເຈົ້າຜິດຫວັງ.
+
+286
+00:16:51,950 --> 00:16:57,900
+[ADAM]
+No believe me, you're fine. Better than fine, you're Dr. McRae...you're a doctor? How old are you?
+ບໍ່ເຊື່ອຂ້ອຍ, ເຈົ້າບໍ່ເປັນຫຍັງ. ດີກວ່າດີ, ເຈົ້າເປັນດຣ
+ແມັກຣາຍ... ເຈົ້າເປັນຫມໍບໍ? ເຈົ້າອາຍຸຫຼາຍປານໃດ?
+
+287
+00:16:58,400 --> 00:17:00,400
+[KATIE]
+Twenty-six.
+ສິບຫົກ.
+
+288
+00:17:00,900 --> 00:17:03,350
+[ADAM]
+Twenty-six? What are you like Doogie Howser?
+ສອງສິບຫົກ? ເຈົ້າມັກ Doogie Howser ແນວໃດ?
+
+289
+00:17:03,850 --> 00:17:05,850
+[KATIE]
+Who?
+ໃຜ?
+
+290
+00:17:06,350 --> 00:17:08,350
+[ADAM]
+Doogie Howser...
+ດູຈີ ຮາວເຊີ...
+
+291
+00:17:08,850 --> 00:17:10,850
+[ADAM]
+...The teenage doctor.
+ທ່ານຫມໍໄວລຸ້ນ.
+
+292
+00:17:11,350 --> 00:17:13,350
+[KATIE]
+Does he work here?
+ລາວເຮັດວຽກຢູ່ບ່ອນນີ້ບໍ?
+
+293
+00:17:13,850 --> 00:17:17,000
+[ADAM]
+No. Nevermind...but aren't you young to be a doctor?
+ບໍ່. ບໍ່ເປັນຫຍັງ... ແຕ່ເຈົ້າບໍ່ໄວທີ່ຈະເປັນຫມໍບໍ?
+
+294
+00:17:17,500 --> 00:17:22,400
+[KATIE]
+I'm actually in my final semester of medical school.  This is a training hospital.
+ຂ້ອຍຢູ່ໃນສົກຮຽນສຸດທ້າຍຂອງໂຮງຮຽນການແພດ. ນີ້ແມ່ນໂຮງຫມໍຝຶກອົບຮົມ.
+
+295
+00:17:22,900 --> 00:17:25,000
+[ADAM]
+So have you had many patients?
+ເຈົ້າມີຄົນເຈັບຫຼາຍບໍ?
+
+296
+00:17:25,500 --> 00:17:27,500
+[KATIE]
+You're actually my first.
+ເຈົ້າເປັນຄົນທໍາອິດຂອງຂ້ອຍແທ້ໆ.
+
+297
+00:17:28,000 --> 00:17:30,000
+[ADAM]
+Oh.
+ໂອ້.
+
+298
+00:17:30,500 --> 00:17:32,500
+[KATIE]
+Please sit.
+ກະລຸນານັ່ງລົງ.
+
+299
+00:17:33,000 --> 00:17:38,250
+[KATIE]
+Dr. Ross filled me in on your situation. Tell me, how have you been feeling?
+ດຣ ໂຣສສ໌ ໄດ້ແຈ້ງໃຫ້ຂ້ອຍກ່ຽວກັບສະຖານະການຂອງທ່ານ
+. ບອກຂ້ອຍ, ເຈົ້າຮູ້ສຶກແນວໃດ?
+
+300
+00:17:38,750 --> 00:17:40,750
+[ADAM]
+Honestly. I feel fine.
+ໂດຍຄວາມຈິງໃຈ. ຂ້ອຍຮູ້ສຶກດີ.
+
+301
+00:17:41,250 --> 00:17:44,400
+[KATIE]
+I think that's great considering what you're going through.
+ຂ້ອຍຄິດວ່າມັນດີເລີດເມື່ອພິຈາລະນາວ່າເຈົ້າ ກໍາ ລັງຜ່ານຫຍັງຢູ່.
+
+302
+00:17:44,900 --> 00:17:48,750
+[ADAM]
+Yeah, but I tend to internalize everything so, who knows. 36.
+ແມ່ນແລ້ວ, ແຕ່ຂ້ອຍມັກຈະເອົາທຸກຢ່າງເຂົ້າໄປໃນຕົວເອງດັ່ງນັ້ນ
+, ໃຜຮູ້. 36.
+
+303
+00:17:49,250 --> 00:17:52,050
+[KATIE]
+You mean you repress as a coping mechanism.
+ເຈົ້າຫມາຍຄວາມວ່າເຈົ້າກົດດັນເປັນກົນໄກການຮັບມືກັບ.
+
+304
+00:17:52,550 --> 00:17:54,550
+[ADAM]
+Is that what I do?
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍເຮັດບໍ?
+
+305
+00:17:55,050 --> 00:17:57,050
+[KATIE]
+That's what you just said.
+ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຫາກໍ່ເວົ້າ.
+
+306
+00:17:57,550 --> 00:18:03,550
+[ADAM]
+The way I say it sounds cute in a neurotic way. When you say it, it's like an indictment. The word "repress" - sounds so harsh.
+ວິທີທີ່ຂ້ອຍເວົ້າມັນເບິ່ງຄືວ່າ ຫນ້າ ຮັກໃນທາງ neurotic. ເມື່ອເຈົ້າເວົ້າມັນ
+, ມັນຄືກັບການກ່າວຫາ. ຄໍາ ວ່າ"ກົດດັນ" - ສຽງຮ້າຍແຮງຫຼາຍ.
+
+307
+00:18:04,050 --> 00:18:06,050
+[KATIE]
+It's actually quite common.
+ມັນເປັນເລື່ອງທົ່ວໄປຫຼາຍ.
+
+308
+00:18:06,550 --> 00:18:10,750
+[ADAM]
+Oh good, I'd hate to think I'm anything but an emotional sheep.
+ໂອ້ ດີ, ຂ້ອຍບໍ່ຢາກຄິດວ່າຂ້ອຍເປັນຫຍັງນອກຈາກແກະທາງຈິດໃຈ.
+
+309
+00:18:11,250 --> 00:18:17,250
+[KATIE]
+Don't think of it in those terms. It's not like it's been a conscious decision on your part. What's important now is for you to be aware of the way you treat your emotions and for me to help you make adjustments.
+ຢ່າຄິດມັນໃນແງ່ນັ້ນ. ມັນບໍ່ແມ່ນຄືກັບວ່າມັນເປັນການຕັດສິນໃຈທີ່ຮູ້ສຶກຈາກສ່ວນຂອງທ່ານ.
+ສິ່ງທີ່ສໍາຄັນດຽວນີ້ແມ່ນໃຫ້ທ່ານຮູ້ວິທີທີ່ທ່ານປິ່ນປົວຄວາມຮູ້ສຶກຂອງທ່ານແລະໃຫ້ຂ້ອຍຊ່ວຍທ່ານໃນການປັບປຸງ.
+
+310
+00:18:17,750 --> 00:18:19,850
+[ADAM]
+So how do we do that?
+ສະນັ້ນພວກເຮົາຈະເຮັດແນວໃດ?
+
+311
+00:18:20,350 --> 00:18:26,350
+[KATIE]
+The first thing I want you to do is to stop looking at cancer as a burden. Cancer has come into your life to show you that your emotional and physical bodies are out of balance. This is your chance to correct that.
+ສິ່ງ ທໍາ ອິດທີ່ຂ້ອຍຢາກໃຫ້ເຈົ້າເຮັດແມ່ນຢຸດການເບິ່ງມະເຮັງເປັນຫນັກແຫນ້ນ.
+ມະເຮັງໄດ້ເຂົ້າໄປໃນຊີວິດຂອງທ່ານເພື່ອສະແດງໃຫ້ເຈົ້າເຫັນວ່າຮ່າງກາຍທາງຈິດໃຈແລະຮ່າງກາຍຂອງທ່ານບໍ່ສົມດຸນ. ນີ້ແມ່ນໂອກາດຂອງທ່ານທີ່ຈະແກ້ໄຂມັນ.
+
+312
+00:18:26,850 --> 00:18:29,300
+[ADAM]
+You're not in a cult are you?
+ເຈົ້າບໍ່ແມ່ນຄົນໃນສາສະຫນາບໍ?
+
+313
+00:18:29,800 --> 00:18:31,900
+[KATIE]
+Now, why do you say that?
+ດຽວນີ້, ເຈົ້າເວົ້າແບບນັ້ນເປັນຫຍັງ?
+
+314
+00:18:32,400 --> 00:18:35,550
+[ADAM]
+I don't know, it was a bad joke. 37.
+ຂ້ອຍບໍ່ຮູ້, ມັນເປັນໂຊກຮ້າຍທີ່ບໍ່ດີ. 37.
+
+315
+00:18:36,050 --> 00:18:41,650
+[KATIE]
+But there's a reason. You chose to use humor rather than express how you really feel.
+ແຕ່ມີເຫດຜົນ.
+ເຈົ້າເລືອກທີ່ຈະໃຊ້ຄວາມມ່ວນຊື່ນແທນທີ່ຈະສະແດງຄວາມຮູ້ສຶກທີ່ແທ້ຈິງຂອງທ່ານ.
+
+316
+00:18:42,150 --> 00:18:48,150
+[KATIE]
+In order to heal the body, you must heal the mind. It's imperative that you free yourself from stress and anger. Get rid of all those negative emotions stored deep inside.
+ເພື່ອຮັກສາຮ່າງກາຍ, ເຈົ້າຕ້ອງຮັກສາຈິດໃຈ. ມັນເປັນສິ່ງຈໍາເປັນທີ່ເຈົ້າຕ້ອງປົດຕົວເອງຈາກຄວາມເຄັ່ງຕຶງແລະຄວາມໂຊກຮ້າຍ
+. ກໍາ ຈັດຄວາມຮູ້ສຶກທີ່ບໍ່ດີທັງ ຫມົດ ທີ່ເກັບໄວ້ໃນເລິກພາຍໃນ.
+
+317
+00:18:48,650 --> 00:18:54,250
+[KATIE]
+So today what I want to do is start you on some very simple relaxation therapy.
+ສະນັ້ນມື້ນີ້ສິ່ງທີ່ຂ້ອຍຢາກເຮັດແມ່ນເລີ່ມຕົ້ນເຈົ້າໃນການປິ່ນປົວການຜ່ອນຜັນທີ່ງ່າຍດາຍຫຼາຍ
+.
+
+318
+00:18:54,750 --> 00:18:56,750
+[ADAM]
+Huh?
+ຮາ?
+
+319
+00:18:57,250 --> 00:19:00,750
+[KATIE]
+I want you to lay back and close your eyes.
+ຂ້ອຍຢາກໃຫ້ເຈົ້ານອນຫຼັງແລະປິດຕາ.
+
+320
+00:19:01,250 --> 00:19:03,250
+[ADAM]
+Lay here?
+ນອນຢູ່ບ່ອນນີ້ບໍ?
+
+321
+00:19:03,750 --> 00:19:07,600
+[KATIE]
+Yes, I want you to just lay back, and let go.
+ແມ່ນແລ້ວ, ຂ້ອຍຢາກໃຫ້ເຈົ້ານອນຢູ່ເບື້ອງຫຼັງ, ແລະປ່ອຍໄປ.
+
+322
+00:19:08,100 --> 00:19:12,650
+[ADAM]
+Shouldn't we be analyzing my childhood? Or my days as a call girl?
+ພວກເຮົາບໍ່ຄວນວິເຄາະການເປັນເດັກນ້ອຍຂອງຂ້ອຍບໍ
+? ຫຼືມື້ຂອງຂ້ອຍເປັນເດັກຍິງໂທ?
+
+323
+00:19:13,150 --> 00:19:15,150
+[KATIE]
+Another joke? 38.
+ຢອກຊື່ໆອີກບໍ? 38.
+
+324
+00:19:15,650 --> 00:19:18,100
+[ADAM]
+Oh come on. Nothing? That was funny.
+ໂອ້ ມາແລ້ວ. ບໍ່ມີຫຍັງເລີຍ? ນັ້ນແມ່ນມ່ວນຊື່ນ.
+
+325
+00:19:18,600 --> 00:19:20,600
+[KATIE]
+Ssshhhhh...
+ສະສຮຮ...
+
+326
+00:19:21,100 --> 00:19:26,700
+[KATIE]
+Close your eyes and relax. Find a place inside yourself where you can escape the cancer.
+ປິດຕາແລະພັກຜ່ອນ.
+ຊອກຫາບ່ອນພາຍໃນຕົວເອງບ່ອນທີ່ທ່ານສາມາດຫນີຈາກມະເຮັງໄດ້.
+
+327
+00:19:27,200 --> 00:19:29,300
+[RACHEL]
+Keep your eyes closed. No peeking.
+ປິດຕາໄວ້. ບໍ່ຕ້ອງເບິ່ງ.
+
+328
+00:19:29,800 --> 00:19:35,400
+[ADAM]
+I can't believe you got me a present. Is it that Prada handbag I've been eyeing?
+ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າໄດ້ເອົາຂອງຂວັນໃຫ້ຂ້ອຍ.
+ມັນແມ່ນຖົງມື Prada ທີ່ຂ້ອຍ ກໍາ ລັງເບິ່ງບໍ?
+
+329
+00:19:35,900 --> 00:19:37,900
+[RACHEL]
+Even better.
+ດີກວ່າເກົ່າ.
+
+330
+00:19:38,400 --> 00:19:40,400
+[ADAM]
+What is it?
+ມັນເປັນຫຍັງ?
+
+331
+00:19:40,900 --> 00:19:42,900
+[RACHEL]
+Keep your eyes closed.
+ປິດຕາໄວ້.
+
+332
+00:19:43,400 --> 00:19:49,400
+[ADAM]
+You know how I feel about surprises. Last surprise I got my parents told me I was adopted. 39.
+ເຈົ້າຮູ້ວ່າຂ້ອຍຮູ້ສຶກແນວໃດຕໍ່ຄວາມແປກໃຈ. ຄວາມແປກ
+ໃຈສຸດທ້າຍທີ່ຂ້ອຍໄດ້ຮັບພໍ່ແມ່ຂອງຂ້ອຍບອກຂ້ອຍວ່າຂ້ອຍຖືກຮັບຮອງເອົາ. 39.
+
+333
+00:19:49,900 --> 00:19:51,900
+[RACHEL]
+You're not adopted.
+ເຈົ້າບໍ່ໄດ້ຮັບຮອງເອົາ.
+
+334
+00:19:52,400 --> 00:19:54,850
+[ADAM]
+Yeah, but sometimes I wish I was.
+ແມ່ນແລ້ວ, ແຕ່ບາງຄັ້ງຂ້ອຍຢາກເປັນ.
+
+335
+00:19:55,350 --> 00:19:57,350
+[RACHEL]
+Okay. Open your eyes.
+ດີແລ້ວ. ເປີດຕາຂອງທ່ານ.
+
+336
+00:19:57,850 --> 00:19:59,850
+[RACHEL]
+Surprise!
+ແປກໃຈ!
+
+337
+00:20:00,350 --> 00:20:02,350
+[ADAM]
+What is it?
+ມັນເປັນຫຍັງ?
+
+338
+00:20:02,850 --> 00:20:04,850
+[RACHEL]
+It's Noodle.
+ມັນເປັນນູດລ໌.
+
+339
+00:20:05,350 --> 00:20:08,500
+[ADAM]
+It's so small. What do you do with it?
+ມັນນ້ອຍຫຼາຍ. ເຈົ້າເຮັດຫຍັງກັບມັນ?
+
+340
+00:20:09,000 --> 00:20:14,950
+[RACHEL]
+Adam, IT's a he, and HE's adorable...Having a dog is supposed to help with the healing process.
+ອາດາມ, ມັນເປັນລາວ, ແລະລາວຫນ້າຮັກ..
+. ການມີຫມາຄວນຊ່ວຍໃນຂະບວນການປິ່ນປົວ.
+
+341
+00:20:15,450 --> 00:20:17,900
+[ADAM]
+Why, did it go to medical school?
+ເປັນຫຍັງ, ມັນໄປໂຮງຮຽນການແພດບໍ?
+
+342
+00:20:18,400 --> 00:20:20,400
+[RACHEL]
+I thought you'd be happy...
+ຂ້ອຍຄິດວ່າເຈົ້າຈະມີຄວາມສຸກ...
+
+343
+00:20:20,900 --> 00:20:25,800
+[ADAM]
+It looks like a gremlin. What happens if you get it wet after midnight?
+ມັນເບິ່ງຄືວ່າເປັນກຣາມລິນ.
+ຈະເກີດຫຍັງຂຶ້ນຖ້າເຈົ້າເຮັດໃຫ້ມັນຊຸ່ມຊື່ນຫຼັງຈາກກາງຄືນ?
+
+344
+00:20:26,300 --> 00:20:28,400
+[ADAM]
+They're a lot of work. 40.
+ພວກເຂົາເຮັດວຽກຫຼາຍ. 40.
+
+345
+00:20:28,900 --> 00:20:34,900
+[ADAM]
+I can barely take care of myself, I don't think I can handle another living, breathing, needy, thing in my life.
+ຂ້ອຍເກືອບບໍ່ສາມາດເບິ່ງແຍງຕົວເອງໄດ້, ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍສາມາດຮັບມືກັບສິ່ງອື່ນທີ່ຢູ່ອາໄສ
+, ການຫາຍໃຈ, ຄວາມຕ້ອງການ, ໃນຊີວິດຂອງຂ້ອຍໄດ້.
+
+346
+00:20:35,400 --> 00:20:41,400
+[RACHEL]
+I didn't realize it would be such a big deal. I can bring him back to the shelter in the morning.
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນຈະເປັນເລື່ອງໃຫຍ່ຫຼາຍ.
+ຂ້ອຍສາມາດພາລາວກັບຄືນໄປບ່ອນພັກເຊົາໃນຕອນເຊົ້າ.
+
+347
+00:20:41,900 --> 00:20:43,900
+[ADAM]
+I know what you're doing.
+ຂ້ອຍຮູ້ວ່າເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ.
+
+348
+00:20:44,400 --> 00:20:50,400
+[RACHEL]
+No, you're right, it's not a good idea. Tomorrow I'll take him back where he'll be kept in a tiny cage with 10 other dogs who will bully him, and rape him, and then he'll eventually be euthanized.
+ບໍ່, ເຈົ້າເວົ້າຖືກຕ້ອງ, ມັນບໍ່ແມ່ນຄວາມຄິດທີ່ດີ. ມື້ນີ້ຂ້ອຍຈະພາລາວກັບຄືນໄປບ່ອນທີ່ລາວຈະຖືກຮັກສາໄວ້ໃນຈານນ້ອຍໆກັບຫມາອີກ
+10 ຄົນທີ່ຈະກົດດັນລາວ, ແລະຂົ່ມຂືນລາວ, ຫຼັງຈາກນັ້ນລາວຈະໄດ້ຮັບການ euthanasized ໃນທີ່ສຸດ.
+
+349
+00:20:50,900 --> 00:20:53,350
+[ADAM]
+Alright. Fine, we can keep the dog.
+ດີແລ້ວ. ດີ, ພວກເຮົາສາມາດຮັກສາຫມາໄດ້.
+
+350
+00:20:53,850 --> 00:20:55,850
+[RACHEL]
+Really?
+ແທ້ບໍ?
+
+351
+00:20:56,350 --> 00:20:58,350
+[ADAM]
+Really.
+ແທ້ໆ.
+
+352
+00:20:58,850 --> 00:21:02,000
+[RACHEL]
+This is going to be so good for you.
+ນີ້ແມ່ນຈະດີຫຼາຍ ສໍາ ລັບເຈົ້າ.
+
+353
+00:21:02,500 --> 00:21:05,300
+[PHIL]
+There he is, the man of the hour.
+ລາວຢູ່ບ່ອນນັ້ນ, ຜູ້ຊາຍຂອງຊົ່ວໂມງ.
+
+354
+00:21:05,800 --> 00:21:07,800
+[ADAM]
+Here I am.
+ຂ້ອຍຢູ່ບ່ອນນີ້.
+
+355
+00:21:08,300 --> 00:21:10,300
+[PHIL]
+Martini?
+ມາຕິນີ?
+
+356
+00:21:10,800 --> 00:21:12,800
+[ADAM]
+No thanks.
+ບໍ່ ຂອບໃຈ.
+
+357
+00:21:13,300 --> 00:21:15,300
+[PHIL]
+So cancer?
+ສະນັ້ນມະເຮັງບໍ?
+
+358
+00:21:15,800 --> 00:21:17,800
+[ADAM]
+Yup. The Big C.
+ແມ່ນແລ້ວ. C ທີ່ໃຫຍ່.
+
+359
+00:21:18,300 --> 00:21:20,300
+[PHIL]
+Man!
+ຜູ້ຊາຍ!
+
+360
+00:21:20,800 --> 00:21:22,800
+[PHIL]
+Are you wearing a wig?
+ເຈົ້າໃສ່ຜ້າຜ້າບໍ?
+
+361
+00:21:23,300 --> 00:21:25,400
+[ADAM]
+Nope, this is my real hair.
+ບໍ່, ນີ້ແມ່ນຜົມທີ່ແທ້ຈິງຂອງຂ້ອຍ.
+
+362
+00:21:25,900 --> 00:21:28,350
+[PHIL]
+I'm gonna miss you so much buddy.
+ຂ້ອຍຈະຂາດເຈົ້າຫຼາຍເພື່ອນ.
+
+363
+00:21:28,850 --> 00:21:30,950
+[ADAM]
+I'm going to miss you too.
+ຂ້ອຍຈະຂາດເຈົ້າຄືກັນ.
+
+364
+00:21:31,450 --> 00:21:37,050
+[ADAM]
+Excuse me for a moment, I think I see someone over there from a previous life.
+ຂໍໂທດຂ້ອຍຊົ່ວຄາວຫນຶ່ງ,
+ຂ້ອຍຄິດວ່າຂ້ອຍເຫັນຄົນຢູ່ບ່ອນນັ້ນຈາກຊີວິດກ່ອນ.
+
+365
+00:21:37,550 --> 00:21:39,550
+[JOE]
+Have you started chemo yet?
+ເຈົ້າໄດ້ເລີ່ມຕົ້ນເຄມີໂມແລ້ວບໍ?
+
+366
+00:21:40,050 --> 00:21:42,050
+[ADAM]
+No, not yet.
+ບໍ່, ຍັງບໍ່ທັນ.
+
+367
+00:21:42,550 --> 00:21:47,100
+[JOE]
+Don't do it man. It'll fuck you up. That's like some Nagasaki shit.
+ຢ່າເຮັດມັນແມ. ມັນຈະເຮັດໃຫ້ເຈົ້າສໍ້ໂກງ
+. ນັ້ນຄືກັບສິ່ງບາງຢ່າງຂອງນາຄາຊາກີ.
+
+368
+00:21:47,600 --> 00:21:49,700
+[SUSAN]
+You want to know the secret?
+ເຈົ້າຢາກຮູ້ຄວາມລັບບໍ?
+
+369
+00:21:50,200 --> 00:21:52,200
+[ADAM]
+Ah, okay.
+ອາ, ດີແລ້ວ.
+
+370
+00:21:52,700 --> 00:21:54,700
+[SUSAN]
+Eat nothing but green foods.
+ກິນຫຍັງນອກຈາກອາຫານສີຂຽວ.
+
+371
+00:21:55,200 --> 00:21:57,650
+[ADAM]
+Like a specific kind of green food?
+ເຊັ່ນວ່າອາຫານສີຂຽວປະເພດສະເພາະບໍ?
+
+372
+00:21:58,150 --> 00:22:02,350
+[SUSAN]
+No, any green food. It works, my sister's friend survived lung cancer.
+ບໍ່, ອາຫານສີຂຽວໃດໆ. ມັນເຮັດວຽກ,
+ເພື່ອນຂອງເອື້ອຍຂອງຂ້ອຍໄດ້ລອດຊີວິດຈາກມະເຮັງປອດ.
+
+373
+00:22:02,850 --> 00:22:05,650
+[TED]
+So what kind of cancer do you have?
+ເຈົ້າມີມະເຮັງປະເພດໃດ?
+
+374
+00:22:06,150 --> 00:22:08,150
+[ADAM]
+Schwannoma Neurofibrosarcomas.
+ສະວານໂນມາ Neurofibrosarcomas.
+
+375
+00:22:08,650 --> 00:22:10,650
+[TED]
+Never heard of it. 43.
+ຂ້ອຍບໍ່ເຄີຍໄດ້ຍິນເລື່ອງມັນເລີຍ. 43.
+
+376
+00:22:11,150 --> 00:22:13,150
+[ADAM]
+It's pretty rare.
+ມັນຫາຍາກຫຼາຍ.
+
+377
+00:22:13,650 --> 00:22:15,750
+[TED]
+Yeah well, you don't look sick.
+ແມ່ນແລ້ວ, ເຈົ້າເບິ່ງຄືວ່າບໍ່ເຈັບປ່ວຍ.
+
+378
+00:22:16,250 --> 00:22:21,500
+[ADAM]
+Cancer often has no specific symptoms. People can go years with out knowing they're sick.
+ມະເຮັງມັກບໍ່ມີອາການສະເພາະ.
+ຄົນສາມາດຍ່າງໄດ້ຫຼາຍປີໂດຍບໍ່ຮູ້ວ່າພວກເຂົາເຈັບປ່ວຍ.
+
+379
+00:22:22,000 --> 00:22:24,000
+[TED]
+Huh.
+ຮາ.
+
+380
+00:22:24,500 --> 00:22:26,500
+[CUT BACK TO:]
+Adam with Susan again...
+ແອັດມາມກັບຊູຊານອີກເທື່ອຫນຶ່ງ...
+
+381
+00:22:27,000 --> 00:22:31,550
+[SUSAN]
+There's spinach, zucchini, broccoli, kale, cucumbers, green beans, snow peas, seaweed, kiwi, Zucchini,
+ມີສະປິນາຊ໌, ຊູຈິນີ, ບຣັອກໂກລີ, ກາລີ, ຫມາກ ກ້ວຍ,
+ຫມໍ້ໄມ້ສີຂຽວ, ຫມອກຫິມະ, ຫມຶກທະເລ, ກິວີ, ຊຸຈິນິ,
+
+382
+00:22:32,050 --> 00:22:34,150
+[ADAM]
+I think you already said zucchini.
+ຂ້ອຍຄິດວ່າເຈົ້າເວົ້າ zucchini ແລ້ວ.
+
+383
+00:22:34,650 --> 00:22:36,650
+[SUSAN]
+Zucchini...
+ຊູຈິນີ...
+
+384
+00:22:37,150 --> 00:22:39,150
+[SUSAN]
+Are you paying attention?
+ເຈົ້າເອົາໃຈໃສ່ບໍ?
+
+385
+00:22:39,650 --> 00:22:41,650
+[ADAM]
+Uh huh.
+ໂອ້ ຮາ.
+
+386
+00:22:42,150 --> 00:22:45,300
+[SUSAN]
+Cause I'm only trying to help save your life.
+ເພາະຂ້ອຍພຽງແຕ່ພະຍາຍາມຊ່ວຍຊ່ວຍຊີວິດເຈົ້າເທົ່ານັ້ນ.
+
+387
+00:22:45,800 --> 00:22:50,000
+[EDDIE]
+There's this guy on the beach who injects oxygen into your blood.
+ມີຜູ້ຊາຍຄົນຫນຶ່ງຢູ່ຫາດຊາຍທີ່ສັກອົກຊີເຈນເຂົ້າໄປໃນເລືອດຂອງທ່ານ.
+
+388
+00:22:50,500 --> 00:22:52,500
+[ADAM]
+Is that legal?
+ມັນຖືກຕ້ອງຕາມກົດ ຫມາຍ ບໍ?
+
+389
+00:22:53,000 --> 00:22:55,000
+[EDDIE]
+No, but it's totally safe.
+ບໍ່, ແຕ່ມັນປອດໄພຢ່າງສົມບູນ.
+
+390
+00:22:55,500 --> 00:22:57,500
+[CUT BACK TO:]
+Adam with Susan...
+ແອັດມາມກັບຊູຊານ...
+
+391
+00:22:58,000 --> 00:23:03,600
+[SUSAN]
+...Brussel Sprouts, Turnip greens, Asparagus, Celery, Cabbage, Okra, Honeydew Melon, Limes, Green bell peppers, green chiles...
+... Sprouts ບຣູເຊວ, ຜັກຂຽວ turnip, Asparagus, celery, ຄາບາຈ໌
+, Okra, Honeydew Melon, Limes, ຫມາກ ໄມ້ສີຂຽວ, chiles ສີຂຽວ...
+
+392
+00:23:04,100 --> 00:23:06,550
+[JENNY]
+I can't believe that he has cancer.
+ຂ້ອຍບໍ່ເຊື່ອວ່າລາວມີມະເຮັງ.
+
+393
+00:23:07,050 --> 00:23:09,050
+[SETH]
+I know, it's crazy.
+ຂ້ອຍຮູ້ແລ້ວ, ມັນໂຊກຮ້າຍ.
+
+394
+00:23:09,550 --> 00:23:15,550
+[JENNY]
+I've seen him every day for the past two years and I've never once made an effort to talk to him.
+ຂ້ອຍເຫັນລາວທຸກໆມື້ໃນສອງປີທີ່ຜ່ານມາແລະຂ້ອຍບໍ່ເຄີຍພະຍາຍາມເວົ້າກັບລາວເລີຍ
+.
+
+395
+00:23:16,050 --> 00:23:22,050
+[SETH]
+Well I'm his best friend, so talking to me in a way is kind of like talking to him.
+ດີຂ້ອຍເປັນເພື່ອນທີ່ດີທີ່ສຸດຂອງລາວ,
+ສະນັ້ນການເວົ້າກັບຂ້ອຍໃນທາງ ຫນຶ່ງ ແມ່ນຄ້າຍຄືກັບການລົມກັບລາວ.
+
+396
+00:23:22,550 --> 00:23:25,350
+[JENNY]
+Oh what does it matter? It's too late.
+ໂອ້ ມັນມີຄວາມສໍາຄັນຫຍັງ? ມັນຊ້າເກີນໄປ.
+
+397
+00:23:25,850 --> 00:23:27,850
+[SETH]
+Wait. It's not too late.
+ລໍຖ້າ. ມັນຍັງບໍ່ຊ້າເກີນໄປ.
+
+398
+00:23:28,350 --> 00:23:30,350
+[GREG]
+Hey Adam.
+ເຮ້ ອາດາມ.
+
+399
+00:23:30,850 --> 00:23:32,850
+[ADAM]
+Hey Greg.
+ເຮ້ ແກຣກ.
+
+400
+00:23:33,350 --> 00:23:35,450
+[GREG]
+My uncle had what you have.
+ພໍ່ເຖົ້າຂອງຂ້ອຍມີສິ່ງທີ່ເຈົ້າມີ.
+
+401
+00:23:35,950 --> 00:23:37,950
+[ADAM]
+Really?
+ແທ້ບໍ?
+
+402
+00:23:38,450 --> 00:23:40,450
+[GREG]
+Man that was the worst.
+ຜູ້ຊາຍທີ່ຮ້າຍແຮງທີ່ສຸດ.
+
+403
+00:23:40,950 --> 00:23:42,950
+[ADAM]
+Your uncle had Schwannoma Neurofibrosarcomas.
+ພໍ່ເຖົ້າຂອງເຈົ້າມີໂຣກ Neurofibrosarcomas ຂອງ Schwannoma.
+
+404
+00:23:43,450 --> 00:23:49,450
+[GREG]
+Yeah, I think so. It's the thing with the toe and the screaming, and everything tastes like olives? Right?
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າເປັນ. ມັນແມ່ນສິ່ງທີ່ມີນິ້ວມືແລະຮ້ອງໄຫ້
+, ແລະທຸກຢ່າງລົດຊາດຄືກັບ olives ໄດ້ບໍ? ແມ່ນບໍ?
+
+405
+00:23:49,950 --> 00:23:51,950
+[ADAM]
+Well that was a nightmare.
+ດີນັ້ນແມ່ນຄວາມຝັນຮ້າຍ.
+
+406
+00:23:52,450 --> 00:23:55,950
+[RACHEL]
+Adam, those people just threw you a party...They love you.
+ແອັດມາມ, ຄົນນັ້ນຫາກໍ່ຈັດງານລ້ຽງໃຫ້ເຈົ້າ... ພວກເຂົາຮັກເຈົ້າ.
+
+407
+00:23:56,450 --> 00:23:58,900
+[ADAM]
+Half those people don't even know me.
+ເຄິ່ງຫນຶ່ງຂອງຄົນນັ້ນບໍ່ຮູ້ຈັກຂ້ອຍເລີຍ.
+
+408
+00:23:59,400 --> 00:24:01,400
+[ADAM]
+What?
+ຫຍັງ?
+
+409
+00:24:01,900 --> 00:24:03,900
+[RACHEL]
+Nothing. 46.
+ບໍ່ມີຫຍັງເລີຍ. 46.
+
+410
+00:24:04,400 --> 00:24:06,400
+[ADAM]
+What?
+ຫຍັງ?
+
+411
+00:24:06,900 --> 00:24:08,900
+[RACHEL]
+I love you.
+ຂ້ອຍຮັກເຈົ້າ.
+
+412
+00:24:09,400 --> 00:24:11,400
+[ADAM]
+I love you.
+ຂ້ອຍຮັກເຈົ້າ.
+
+413
+00:24:11,900 --> 00:24:13,900
+[RACHEL]
+Everything's going to be okay.
+ທຸກຢ່າງຈະດີດີ.
+
+414
+00:24:14,400 --> 00:24:16,400
+[ADAM]
+You are so unbelievably sexy.
+ເຈົ້າຫນ້າຮັກຫຼາຍ.
+
+415
+00:24:16,900 --> 00:24:18,900
+[RACHEL]
+I'm totally yours,
+ຂ້ອຍເປັນຂອງເຈົ້າຢ່າງສົມບູນ,
+
+416
+00:24:19,400 --> 00:24:21,400
+[RACHEL]
+Noodle.
+ໂນດເລ.
+
+417
+00:24:21,900 --> 00:24:23,900
+[ADAM]
+What?
+ຫຍັງ?
+
+418
+00:24:24,400 --> 00:24:26,400
+[RACHEL]
+The dog.
+ຫມາ.
+
+419
+00:24:26,900 --> 00:24:28,900
+[ADAM]
+Ignore him. 47.
+ບໍ່ສົນໃຈລາວ. 47.
+
+420
+00:24:29,400 --> 00:24:31,850
+[RACHEL]
+I think he needs to go out.
+ຂ້ອຍຄິດວ່າລາວຕ້ອງອອກໄປ.
+
+421
+00:24:32,350 --> 00:24:34,350
+[ADAM]
+I'll do it after.
+ຂ້ອຍຈະເຮັດມັນຫຼັງຈາກນັ້ນ.
+
+422
+00:24:34,850 --> 00:24:37,300
+[RACHEL]
+I can't do this with him barking.
+ຂ້ອຍບໍ່ສາມາດເຮັດແບບນີ້ໄດ້ເມື່ອລາວຮ້ອງໄຫ້.
+
+423
+00:24:37,800 --> 00:24:43,800
+[ADAM]
+Come on. Today...If I don't get laid tonight because of you, I'm going to take your little bow and make a noose...
+ມາແລ້ວ. ມື້ນີ້... ຖ້າຂ້ອຍບໍ່ນອນໃນຄືນນີ້ຍ້ອນເຈົ້າ
+, ຂ້ອຍຈະເອົາກະທູ້ນ້ອຍຂອງທ່ານແລະເຮັດສາຍແອວ...
+
+424
+00:24:44,300 --> 00:24:46,300
+[ADAM]
+Please! I need this.
+ກະລຸນາ! ຂ້ອຍຕ້ອງການສິ່ງນີ້.
+
+425
+00:24:46,800 --> 00:24:48,800
+[ADAM]
+Evening.
+ຕອນແລງ.
+
+426
+00:24:49,300 --> 00:24:51,300
+[NEIGHBOR]
+Nice dog.
+ຫມາທີ່ດີເລີດ.
+
+427
+00:24:51,800 --> 00:24:53,800
+[ADAM]
+Will you please just finish.
+ເຈົ້າຂໍຮ້ອງພຽງແຕ່ສິ້ນສຸດລົງ.
+
+428
+00:24:54,300 --> 00:24:56,300
+[RACHEL]
+Hold me.
+ຈັບຂ້ອຍໄວ້.
+
+429
+00:24:56,800 --> 00:24:58,800
+[ADAM]
+Mother fucker.
+ແມ່ໂຊກຮ້າຍ.
+
+430
+00:24:59,300 --> 00:25:01,300
+[ADAM]
+Do you...want to move in?
+ເຈົ້າ... ຢາກຍ້າຍເຂົ້າມາບໍ?
+
+431
+00:25:01,800 --> 00:25:03,800
+[RACHEL]
+Do you want me to?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດບໍ?
+
+432
+00:25:04,300 --> 00:25:10,300
+[ADAM]
+I was thinking it might be nice, now that I'm not going to work anymore. And with my chemo starting...
+ຂ້ອຍ ກໍາ ລັງຄິດວ່າມັນອາດຈະດີ, ດຽວນີ້ຂ້ອຍຈະບໍ່ເຮັດວຽກອີກຕໍ່ໄປ
+. ແລະກັບການເຄມີໂອຂອງຂ້ອຍເລີ່ມຕົ້ນ...
+
+433
+00:25:10,800 --> 00:25:12,900
+[ADAM]
+You're here all the time anyway.
+ເຈົ້າຢູ່ບ່ອນນີ້ຕະຫຼອດເວລາຢ່າງໃດກໍຕາມ.
+
+434
+00:25:13,400 --> 00:25:15,400
+[RACHEL]
+Okay.
+ດີແລ້ວ.
+
+435
+00:25:15,900 --> 00:25:17,900
+[ADAM]
+You wanna have sex?
+ເຈົ້າຢາກມີເພດສໍາພັນບໍ?
+
+436
+00:25:18,400 --> 00:25:20,400
+[RACHEL]
+In the morning. 49.
+ໃນຕອນເຊົ້າ. 49.
+
+437
+00:25:20,900 --> 00:25:22,900
+[EDITH]
+Art come on.
+ສິລະປະມາ.
+
+438
+00:25:23,400 --> 00:25:25,400
+[ART]
+I'm coming.
+ຂ້ອຍຈະມາ.
+
+439
+00:25:25,900 --> 00:25:27,900
+[EDITH]
+We're late.
+ພວກເຮົາຊ້າແລ້ວ.
+
+440
+00:25:28,400 --> 00:25:30,400
+[USHER]
+Please take your seats.
+ກະລຸນານັ່ງລົງ.
+
+441
+00:25:30,900 --> 00:25:34,050
+[EDITH]
+What about those seats up there in the front?
+ແລະບ່ອນນັ່ງຢູ່ເທິງນັ້ນຢູ່ທາງຫນ້າແນວໃດ?
+
+442
+00:25:34,550 --> 00:25:36,550
+[USHER]
+The service has begun.
+ການບໍລິການໄດ້ເລີ່ມຕົ້ນແລ້ວ.
+
+443
+00:25:37,050 --> 00:25:39,050
+[EDITH]
+Please. My son has cancer.
+ກະລຸນາ. ລູກຊາຍຂອງຂ້ອຍມີມະເຮັງ.
+
+444
+00:25:39,550 --> 00:25:41,550
+[USHER]
+Please, follow me.
+ກະລຸນາ, ຕິດຕາມຂ້ອຍ.
+
+445
+00:25:42,050 --> 00:25:44,050
+[EDITH]
+Sorry, my son has cancer.
+ຂໍໂທດ, ລູກຊາຍຂອງຂ້ອຍມີມະເຮັງ.
+
+446
+00:25:44,550 --> 00:25:46,550
+[ADAM]
+Hi. Nice to see you.
+ສະບາຍດີ. ດີໃຈທີ່ເຫັນເຈົ້າ.
+
+447
+00:25:47,050 --> 00:25:49,050
+[ROSE]
+Edith. How are you?
+ເອດິດ. ເຈົ້າເປັນແນວໃດ?
+
+448
+00:25:49,550 --> 00:25:51,650
+[EDITH]
+Oh Rose. Things are not well.
+ໂອ້ ໂຣຊສ໌. ສິ່ງຕ່າງໆບໍ່ດີ.
+
+449
+00:25:52,150 --> 00:25:54,150
+[ROSE]
+I heard about the cancer.
+ຂ້ອຍໄດ້ຍິນກ່ຽວກັບມະເຮັງ.
+
+450
+00:25:54,650 --> 00:26:00,650
+[EDITH]
+I can't tell you how hard it's been on me. My only child. God only knows what terrible thing I did to deserve this. I've got a catatonic husband and a son with cancer. Not to mention my arthritis. I don't know how I'll ever get through it.
+ຂ້ອຍບໍ່ສາມາດບອກເຈົ້າໄດ້ວ່າມັນຍາກຫຼາຍປານໃດ ສໍາ ລັບຂ້ອຍ. ລູກຄົນດຽວຂອງຂ້ອຍ. ພຽງແຕ່ພຣະເຈົ້າຮູ້ສິ່ງທີ່ຮ້າຍແຮງທີ່ຂ້ອຍເຮັດເພື່ອສົມຄວນສິ່ງນີ້
+. ຂ້ອຍມີຜົວທີ່ມີ catatonic ແລະລູກຊາຍທີ່ມີມະເຮັງ. ບໍ່ເວົ້າເຖິງໂຣກກະທູ້ຂອງຂ້ອຍ. ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຈະຜ່ານມັນໄດ້ແນວໃດ.
+
+451
+00:26:01,150 --> 00:26:03,150
+[RABBI]
+Ladies and gentleman, Adam Schwartz!
+ພວກທ່ານແລະພວກທ່ານ, ອາດາມ ສວາດສ໌!
+
+452
+00:26:03,650 --> 00:26:05,650
+[ADAM]
+Rabbi Jacobs.
+ຣາບີ ຢາໂກບສ.
+
+453
+00:26:06,150 --> 00:26:08,150
+[RABBI]
+How are you son?
+ເຈົ້າເປັນແນວໃດລູກຊາຍ?
+
+454
+00:26:08,650 --> 00:26:12,150
+[ADAM]
+Oh you know, just trying to live by the Covenant.
+ໂອ້ ເຈົ້າຮູ້ແລ້ວ, ພຽງແຕ່ພະຍາຍາມດໍາລົງຊີວິດຕາມສັນຍາ.
+
+455
+00:26:12,650 --> 00:26:18,650
+[RABBI]
+Don't bullshit me. You were the worst student I ever had. I bet you haven't even spoken a word of Hebrew since your Bar Mitzvah.
+ຢ່າໂຊກຮ້າຍຂ້ອຍ. ເຈົ້າເປັນນັກຮຽນທີ່ຮ້າຍແຮງທີ່ສຸດທີ່ຂ້ອຍເຄີຍມີ.
+ຂ້ອຍແນ່ໃຈວ່າເຈົ້າບໍ່ໄດ້ເວົ້າພາສາເຮບຣ໌ເລີຍນັບຕັ້ງແຕ່ບາ ມິດຊວາຂອງທ່ານ.
+
+456
+00:26:19,150 --> 00:26:23,000
+[ADAM]
+I don't like to brag, but I couldn't speak it then.
+ຂ້ອຍບໍ່ມັກກຽດຊັງ, ແຕ່ຂ້ອຍບໍ່ສາມາດເວົ້າມັນໄດ້ໃນເວລານັ້ນ.
+
+457
+00:26:23,500 --> 00:26:25,950
+[RABBI]
+Your mother told me about your situation.
+ແມ່ຂອງເຈົ້າບອກຂ້ອຍກ່ຽວກັບສະຖານະການຂອງທ່ານ.
+
+458
+00:26:26,450 --> 00:26:28,450
+[ADAM]
+I'm sure she did.
+ຂ້ອຍແນ່ໃຈວ່ານາງເຮັດ.
+
+459
+00:26:28,950 --> 00:26:34,200
+[RABBI]
+It's not easy for a mother to see her son go through something like this,
+ມັນບໍ່ງ່າຍສໍາລັບແມ່ທີ່ຈະເຫັນລູກຊາຍຂອງນາງຜ່ານສິ່ງບາງຢ່າງເຊັ່ນນີ້,
+
+460
+00:26:34,700 --> 00:26:36,800
+[ADAM]
+Nothing is easy for my mother.
+ບໍ່ມີຫຍັງງ່າຍຕໍ່ແມ່ຂອງຂ້ອຍ.
+
+461
+00:26:37,300 --> 00:26:40,800
+[RABBI]
+Have you thought about trying to reconnect with the Torah?
+ເຈົ້າເຄີຍຄິດກ່ຽວກັບການພະຍາຍາມເຊື່ອມຕໍ່ກັບໂຕຣາບໍ?
+
+462
+00:26:41,300 --> 00:26:47,300
+[ADAM]
+Honestly, I'm just here to make my mother happy. It was either this or I had to go see my cousin perform in his high school theatre's adaptation of "You've Got Mail". 52.
+ໂດຍຄວາມຈິງໃຈ, ຂ້ອຍພຽງແຕ່ຢູ່ບ່ອນນີ້ເພື່ອເຮັດໃຫ້ແມ່ຂອງຂ້ອຍມີຄວາມສຸກ.
+ມັນເປັນສິ່ງນີ້ຫຼືຂ້ອຍຕ້ອງໄປເບິ່ງລູກອ້າຍຂອງຂ້ອຍສະແດງໃນການປັບແຕ່ງຂອງໂຮງລະຄອນໂຮງຮຽນມັດທະຍົມຂອງລາວຂອງ"ເຈົ້າມີຈົດ ຫມາຍ". 52.
+
+463
+00:26:47,800 --> 00:26:50,250
+[RABBI]
+Well think about it. I'm always here.
+ດີຄິດກ່ຽວກັບມັນ. ຂ້ອຍຢູ່ບ່ອນນີ້ຢູ່ສະເຫມີ.
+
+464
+00:26:50,750 --> 00:26:52,750
+[ALAN ALDA]
+Hi there, I'm Alan Alda...
+ສະບາຍດີ, ຂ້ອຍເປັນອາລານ ອາລດາ...
+
+465
+00:26:53,250 --> 00:26:59,250
+[ALAN ALDA]
+So you've been told you have cancer. Well, you're not alone. 1 in every 3 people living today will experience some form of the disease...
+ສະນັ້ນເຈົ້າໄດ້ຖືກບອກວ່າເຈົ້າມີມະເຮັງ. ດີ, ເຈົ້າບໍ່ແມ່ນຄົນດຽວ. ຄົນ ຫນຶ່ງ
+ໃນສາມຄົນທີ່ດໍາລົງຊີວິດໃນມື້ນີ້ຈະປະສົບກັບຮູບແບບໃດ ຫນຶ່ງ ຂອງພະຍາດ...
+
+466
+00:26:59,750 --> 00:27:05,750
+[ALAN ALDA]
+You may be wondering what is cancer? Well, cancer is a group of more than 100 different diseases characterized by the abnormal growth of cells. These cells form a lump or mass called a "tumor".
+ເຈົ້າອາດຈະສົງໄສວ່າມະເຮັງແມ່ນຫຍັງ? ດີ, ມະເຮັງເປັນກຸ່ມຂອງພະຍາດທີ່ແຕກຕ່າງກັນຫຼາຍກ່ວາ 100
+ທີ່ມີລັກສະນະໂດຍການເຕີບໃຫຍ່ທີ່ບໍ່ປົກກະຕິຂອງຈຸລັງ. ເຊື້ອຈຸລັງເຫຼົ່ານີ້ສ້າງເປັນກະດູກຫຼືມະຫາສານທີ່ເອີ້ນວ່າ"ມະເຮົາ".
+
+467
+00:27:06,250 --> 00:27:10,450
+[ALAN ALDA]
+Cancer is treated through the use of a revolutionizing medicine called Che-mo-therapy.
+ການປິ່ນປົວມະເຮັງແມ່ນຜ່ານການນໍາໃຊ້ຢາທີ່ປ່ຽນແປງໃຫມ່ທີ່ເອີ້ນວ່າ
+Che-mo-therapy.
+
+468
+00:27:10,950 --> 00:27:13,050
+[ALAN ALDA]
+Chemotherapy is a very serious treatment.
+ການປິ່ນປົວເຄມີແມ່ນການປິ່ນ ປົວທີ່ຮ້າຍແຮງຫຼາຍ.
+
+469
+00:27:13,550 --> 00:27:19,550
+[ALAN ALDA]
+It works by destroying cancer cells; unfortunately, it cannot tell the difference between cancer cells and healthy cells. 53.
+ມັນເຮັດວຽກໂດຍການທໍາລາຍຈຸລະພາກມະເຮັງ; ໂຊກຮ້າຍ,
+ມັນບໍ່ສາມາດບອກຄວາມແຕກຕ່າງລະຫວ່າງຈຸລະສານມະເລັງແລະຈຸລະເລກສຸຂະພາບດີໄດ້. 53.
+
+470
+00:27:20,050 --> 00:27:23,550
+[ALAN ALDA]
+As a result, it's going to make you feel tired...
+ດັ່ງນັ້ນ, ມັນຈະເຮັດໃຫ້ເຈົ້າຮູ້ສຶກເມື່ອຍ...
+
+471
+00:27:24,050 --> 00:27:26,050
+[ALAN ALDA]
+And sick.
+ແລະເຈັບປ່ວຍ.
+
+472
+00:27:26,550 --> 00:27:31,450
+[ALAN ALDA]
+...You are about to embark on the journey of a lifetime. So aim high...
+ເຈົ້າ ກໍາ ລັງຈະເລີ່ມຕົ້ນການເດີນທາງຂອງຊີວິດ. ສະນັ້ນເປົ້າຫມາຍສູງ...
+
+473
+00:27:31,950 --> 00:27:35,800
+[ALAN ALDA]
+...and always remember, the road to recovery is a team effort...
+... ແລະຈື່ໄວ້ສະເຫມີວ່າ,
+ເສັ້ນທາງເພື່ອຟື້ນຟູແມ່ນຄວາມພະຍາຍາມຂອງທີມງານ...
+
+474
+00:27:36,300 --> 00:27:42,300
+[ALAN ALDA]
+It's important that you talk openly with your health care providers. Ask questions so you can know all the facts. Being prepared is half the battle...
+ມັນເປັນສິ່ງສໍາຄັນທີ່ເຈົ້າຕ້ອງເວົ້າຢ່າງເປີດເຜີຍກັບຜູ້ໃຫ້ບໍລິການດ້ານສຸຂະພາບຂອງທ່ານ.
+ຖາມຄໍາຖາມເພື່ອໃຫ້ທ່ານສາມາດຮູ້ຄວາມຈິງທັງ ຫມົດ ໄດ້. ການກຽມພ້ອມແມ່ນເຄິ່ງຫນຶ່ງຂອງການຕໍ່ສູ້...
+
+475
+00:27:42,800 --> 00:27:48,800
+[ALAN ALDA]
+Toward helping yourself begin to feel in control again...On behalf of all the great folks at Mount Sinai Hospital, I'd like to thank you for your time...make it a great day. 54.
+ເພື່ອຊ່ວຍຕົວເອງເລີ່ມຮູ້ສຶກຄວບຄຸມອີກຄັ້ງ... ໃນນາມຄົນຍິ່ງໃຫຍ່ທັງ ຫມົດ ຢູ່ໂຮງຫມໍພູໄຊນາ
+, ຂ້ອຍຢາກຂອບໃຈເຈົ້າ ສໍາ ລັບເວລາຂອງທ່ານ... ເຮັດໃຫ້ມັນເປັນມື້ທີ່ດີເລີດ. 54.
+
+476
+00:27:49,300 --> 00:27:51,300
+[GEORGE]
+Adam Schwartz.
+ແອດາມ ສວາດສ໌.
+
+477
+00:27:51,800 --> 00:27:53,800
+[GEORGE]
+Come with me my baby.
+ມາກັບຂ້ອຍແມ.
+
+478
+00:27:54,300 --> 00:27:56,300
+[GEORGE]
+This way my baby.
+ທາງນີ້ແມ.
+
+479
+00:27:56,800 --> 00:27:58,800
+[MITCH]
+That's Henry. 55.
+ນັ້ນແມ່ນແຮນຣີ. 55.
+
+480
+00:27:59,300 --> 00:28:01,300
+[ADAM]
+Is he okay?
+ລາວບໍ່ເປັນຫຍັງບໍ?
+
+481
+00:28:01,800 --> 00:28:03,800
+[MITCH]
+He's always like that.
+ລາວເປັນແບບນັ້ນຢູ່ສະເຫມີ.
+
+482
+00:28:04,300 --> 00:28:06,750
+[ADAM]
+Is that going to happen to me?
+ມັນຈະເກີດຂຶ້ນກັບຂ້ອຍບໍ?
+
+483
+00:28:07,250 --> 00:28:09,350
+[MITCH]
+Best not worry about these things.
+ດີກວ່າບໍ່ຕ້ອງກັງວົນກ່ຽວກັບສິ່ງເຫຼົ່ານີ້.
+
+484
+00:28:09,850 --> 00:28:11,850
+[ALAN]
+Want a hit?
+ເຈົ້າຢາກຕີບໍ?
+
+485
+00:28:12,350 --> 00:28:15,500
+[MITCH]
+It makes it all a little easier to handle.
+ມັນເຮັດໃຫ້ມັນງ່າຍກວ່າທີ່ຈະຮັບມືກັບ.
+
+486
+00:28:16,000 --> 00:28:18,000
+[ADAM]
+What if someone sees us?
+ຖ້າໃຜເຫັນພວກເຮົາແນວໃດ?
+
+487
+00:28:18,500 --> 00:28:24,500
+[ALAN]
+Don't be such an old man. Look at this place, it's like Death Row in here, they don't give a shit what we do.
+ຢ່າເປັນຄົນເຖົ້າຫຼາຍ. ເບິ່ງບ່ອນນີ້ແມ,
+ມັນຄືກັບຄຸກຕາຍໃນບ່ອນນີ້, ພວກເຂົາບໍ່ສົນໃຈວ່າພວກເຮົາເຮັດຫຍັງ.
+
+488
+00:28:25,000 --> 00:28:27,000
+[MITCH]
+How old are you?
+ເຈົ້າອາຍຸຫຼາຍປານໃດ?
+
+489
+00:28:27,500 --> 00:28:29,500
+[ADAM]
+Twenty-five.
+ສິບຫ້າ.
+
+490
+00:28:30,000 --> 00:28:32,450
+[ALAN]
+You're lucky. Life only gets worse anyway.
+ເຈົ້າໂຊກດີ. ຊີວິດພຽງແຕ່ຮ້າຍແຮງຂຶ້ນຢ່າງໃດກໍ່ຕາມ.
+
+491
+00:28:32,950 --> 00:28:37,500
+[MITCH]
+Alan, stop it. Don't listen to him, he's just messing with you. 56.
+ແອລານ, ຢຸດຢັ້ງ. ຢ່າຟັງລາວ, ລາວພຽງແຕ່ຫຼິ້ນກັບເຈົ້າ. 56.
+
+492
+00:28:38,000 --> 00:28:44,000
+[ALAN]
+No I'm not. It's all downhill from here. Trust me. First your hair's going to fall out, then your balls will shrink. You'll marry a woman, or man, who'll suck every penny out of your savings and then leave you for a fitness instructor in a teal Miata. Then, to top it all off, your kids will one day stop talking to you because their therapist, who you pay for, tells them you're the reason they're so fucked up.
+ບໍ່ຂ້ອຍບໍ່ແມ່ນ. ມັນທັງ ຫມົດ ແມ່ນລົງຈາກບ່ອນນີ້. ເຊື່ອຂ້ອຍ. ກ່ອນຜົມຂອງທ່ານຈະຕົກລົງ, ຫຼັງຈາກນັ້ນບານຂອງທ່ານຈະຫຼຸດລົງ. ເຈົ້າຈະແຕ່ງງານກັບແມ່ຍິງ, ຫຼືຜູ້ຊາຍ, ຜູ້ທີ່ຈະດູດທຸກເງິນສົດຈາກເງິນປະຢັດຂອງທ່ານແລະຫຼັງຈາກນັ້ນປ່ອຍໃຫ້ທ່ານເປັນຄູຝຶກກິລາໃນ
+Miata ສີແດງ. ຫຼັງຈາກນັ້ນ, ເພື່ອເຮັດໃຫ້ມັນທັງ ຫມົດ, ລູກຂອງທ່ານຈະຢຸດເວົ້າກັບເຈົ້າເພາະວ່ານັກປິ່ນປົວຂອງພວກເຂົາ, ຜູ້ທີ່ເຈົ້າຈ່າຍເງິນ, ບອກພວກເຂົາວ່າເຈົ້າເປັນເຫດຜົນທີ່ພວກເຂົາສໍ້ໂກງຫຼາຍ.
+
+493
+00:28:44,500 --> 00:28:48,700
+[MITCH]
+You'll have to excuse Alan here, he's going through a rough time.
+ເຈົ້າຕ້ອງຂໍໂທດແອລານຢູ່ນີ້, ລາວ ກໍາ ລັງຜ່ານເວລາທີ່ຫຍຸ້ງຍາກ.
+
+494
+00:28:49,200 --> 00:28:52,000
+[ALAN]
+I'm just being realistic. You want some advice?
+ຂ້ອຍພຽງແຕ່ເປັນຄວາມຈິງໃຈ. ເຈົ້າຕ້ອງການຄໍາແນະນໍາບໍ?
+
+495
+00:28:52,500 --> 00:28:54,500
+[ADAM]
+Not really.
+ບໍ່ແທ້ໆ.
+
+496
+00:28:55,000 --> 00:29:01,000
+[ALAN]
+Don't end up a victim like the rest of `em. Life sucks, the earlier you accept it, the better off you'll be.
+ຢ່າສິ້ນສຸດລົງເປັນຜູ້ເຄາະຮ້າຍຄືກັບຄົນອື່ນໆ. ຊີວິດໂຊກຮ້າຍ
+, ເມື່ອເຈົ້າຍອມຮັບມັນກ່ອນ, ເຈົ້າຈະດີກວ່າເກົ່າ.
+
+497
+00:29:01,500 --> 00:29:07,500
+[ADAM]
+I got to tell you, I was really nervous about this whole cancer thing, and then I met you guys, and boy do I feel better.
+ຂ້ອຍຕ້ອງບອກເຈົ້າ, ຂ້ອຍກັງວົນຫຼາຍກ່ຽວກັບເລື່ອງມະເຮັງທັງ ຫມົດ ນີ້
+, ແລະຫຼັງຈາກນັ້ນຂ້ອຍພົບກັບເຈົ້າ, ແລະເດັກຊາຍຂ້ອຍຮູ້ສຶກດີຂຶ້ນບໍ.
+
+498
+00:29:08,000 --> 00:29:12,900
+[ALAN]
+I like this kid. I'm Alan Liebowitz: stage 4 lymphoma. Pleased to meet you.
+ຂ້ອຍມັກເດັກຄົນນີ້. ຂ້ອຍເປັນແອລານ ລີໂບວິດສ໌
+: ໂລມຟູມາຂັ້ນທີ 4. ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+
+499
+00:29:13,400 --> 00:29:15,500
+[MITCH]
+Mitch Horowitz, metastatic prostate cancer. 57.
+ມິτς ໂຮໂຣວິດສ໌, ມະເຮັງໂປຣສຕາດທີ່ແຜ່ກະຈາຍ. 57.
+
+500
+00:29:16,000 --> 00:29:18,000
+[ADAM]
+Adam Schwartz, schwannoma neurofibrosarcomas.
+ແອດມັສ ສວາດສ໌, ຢອກຊື່ໆໂມ neurofibrosarcomas schwannoma.
+
+501
+00:29:18,500 --> 00:29:23,050
+[ALAN]
+What the fuck is that?...Sounds like the greek dish I had for lunch.
+ນັ້ນແມ່ນຫຍັງ?... ມັນເບິ່ງຄືວ່າເປັນອາຫານເກຣັກທີ່ຂ້ອຍກິນອາຫານທ່ຽງ.
+
+502
+00:29:23,550 --> 00:29:26,000
+[ADAM]
+... man this pot is really strong.
+ຜູ້ຊາຍ ຫມໍ້ ນີ້ແຂງແຮງແທ້ໆ.
+
+503
+00:29:26,500 --> 00:29:28,500
+[MITCH]
+Medicinal.
+ການປິ່ນປົວ.
+
+504
+00:29:29,000 --> 00:29:31,000
+[ALAN]
+Good shit eh.
+ດີແທ້ໆ.
+
+505
+00:29:31,500 --> 00:29:34,300
+[CARNIE]
+Hey you! What do you think you're doing?
+ເຮ້ ເຈົ້າ! ເຈົ້າຄິດວ່າເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+506
+00:29:34,800 --> 00:29:36,800
+[ADAM]
+I want to ride.
+ຂ້ອຍຢາກຂີ່ລົດ.
+
+507
+00:29:37,300 --> 00:29:39,300
+[CARNIE]
+Read the sign.
+ອ່ານປ້າຍ.
+
+508
+00:29:39,800 --> 00:29:41,800
+[ADAM]
+I don't have cancer.
+ຂ້ອຍບໍ່ມີມະເຮັງ.
+
+509
+00:29:42,300 --> 00:29:44,300
+[CARNIE]
+Then what's that?
+ຫຼັງຈາກນັ້ນນັ້ນນັ້ນແມ່ນຫຍັງ?
+
+510
+00:29:44,800 --> 00:29:46,800
+[CANCER."]
+58.
+58.
+
+511
+00:29:47,300 --> 00:29:50,450
+[KATIE]
+So how do you feel after your first treatment?
+ເຈົ້າຮູ້ສຶກແນວໃດຫຼັງຈາກການປິ່ນປົວຄັ້ງທໍາອິດ?
+
+512
+00:29:50,950 --> 00:29:55,850
+[ADAM]
+I feel like I was just gang raped by the Buena Vista Social Club.
+ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍຖືກຂົ່ມຂືນໂດຍກຸ່ມໂດຍສະໂມສອນສັງຄົມບູເນວສຕາ.
+
+513
+00:29:56,350 --> 00:29:59,500
+[KATIE]
+Is everything with you going to be a joke?
+ທຸກຢ່າງກັບເຈົ້າຈະເປັນຢອກຊື່ໆບໍ?
+
+514
+00:30:00,000 --> 00:30:02,800
+[ADAM]
+I'm serious. Have you heard their horn section?
+ຂ້ອຍເວົ້າຈິງໃຈ. ເຈົ້າໄດ້ຍິນພາກສ່ວນກະດານຂອງພວກເຂົາບໍ?
+
+515
+00:30:03,300 --> 00:30:06,800
+[KATIE]
+Adam, you have a responsibility to your mind and body.
+ແອັດມາມ, ເຈົ້າມີຄວາມຮັບຜິດຊອບຕໍ່ຈິດໃຈແລະຮ່າງກາຍຂອງທ່ານ.
+
+516
+00:30:07,300 --> 00:30:13,300
+[ADAM]
+I was just injected with three pints of kryptonite. Can we please hold off on the new agey stuff.
+ຂ້ອຍຫາກໍ່ຖືກສັກຢາດ້ວຍຄຣີປຕັນໄຕສາມປິນ.
+ພວກເຮົາສາມາດຢຸດຢັ້ງສິ່ງຂອງອາຍຸ ໃຫມ່ ໄດ້ບໍ.
+
+517
+00:30:13,800 --> 00:30:19,800
+[KATIE]
+You can't just sit there and ignore what's happening to you...You need to stop bottling everything up. 59.
+ເຈົ້າບໍ່ສາມາດນັ່ງຢູ່ບ່ອນນັ້ນແລະບໍ່ສົນໃຈສິ່ງທີ່ເກີດຂຶ້ນກັບເຈົ້າໄດ້
+... ເຈົ້າຕ້ອງຢຸດການບັນຈຸທຸກຢ່າງໄວ້. 59.
+
+518
+00:30:20,300 --> 00:30:24,850
+[ADAM]
+What I need is for people to stop telling me what I need.
+ຂ້ອຍຕ້ອງການແມ່ນໃຫ້ຄົນຢຸດບອກຂ້ອຍວ່າຂ້ອຍຕ້ອງການຫຍັງ.
+
+519
+00:30:25,350 --> 00:30:31,350
+[KATIE]
+Have you considered that this cancer is nature's way of telling you to change the way you live your life?  ...There's an old saying - you can't change the wind, but you can adjust the sails.
+ເຈົ້າເຄີຍຄິດວ່າມະເຮັງນີ້ແມ່ນວິທີ ທໍາ ມະຊາດທີ່ບອກເຈົ້າໃຫ້ປ່ຽນວິທີທີ່ທ່ານ ດໍາ
+ລົງຊີວິດຂອງທ່ານບໍ?... ມີຄໍາເວົ້າເກົ່າ - ເຈົ້າບໍ່ສາມາດປ່ຽນລົມໄດ້, ແຕ່ເຈົ້າສາມາດປັບເຮືອໄດ້.
+
+520
+00:30:31,850 --> 00:30:34,300
+[ADAM]
+They teach you that in medical school?
+ພວກເຂົາສອນເຈົ້າແບບນັ້ນໃນໂຮງຮຽນການແພດບໍ?
+
+521
+00:30:34,800 --> 00:30:40,800
+[KATIE]
+I know you don't like to talk about your feelings, but you have to learn to find an outlet.
+ຂ້ອຍຮູ້ວ່າເຈົ້າບໍ່ມັກເວົ້າກ່ຽວກັບຄວາມຮູ້ສຶກຂອງເຈົ້າ
+, ແຕ່ເຈົ້າຕ້ອງຮຽນຮູ້ເພື່ອຊອກຫາທາງອອກ.
+
+522
+00:30:41,300 --> 00:30:43,750
+[ADAM]
+An outlet for what? I have cancer.
+ທາງອອກ ສໍາ ລັບຫຍັງ? ຂ້ອຍມີມະເຮັງ.
+
+523
+00:30:44,250 --> 00:30:50,250
+[KATIE]
+And how is your body ever going to fight the stress of that cancer if you can't even handle your own emotions?
+ແລະຮ່າງກາຍຂອງເຈົ້າຈະຕໍ່ສູ້ກັບຄວາມກົດດັນຂອງມະເຮັງນັ້ນແນວໃດຖ້າເຈົ້າບໍ່ສາມາດຮັບມືກັບຄວາມຮູ້ສຶກຂອງເຈົ້າເອງໄດ້
+?
+
+524
+00:30:50,750 --> 00:30:56,750
+[ADAM]
+Well excuse me. You'll have to forgive me for not having a firm handle on my emotions at this particular juncture of my life.
+ດີ ຂໍໂທດຂ້ອຍ.
+ເຈົ້າຕ້ອງຂໍໂທດຂ້ອຍເພາະວ່າບໍ່ມີການຄວບຄຸມຄວາມຮູ້ສຶກຂອງຂ້ອຍຢ່າງແຂງແຮງໃນຈຸດພິເສດນີ້ຂອງຊີວິດຂອງຂ້ອຍ.
+
+525
+00:30:57,250 --> 00:30:59,350
+[KATIE]
+You don't have to be here.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຢູ່ບ່ອນນີ້.
+
+526
+00:30:59,850 --> 00:31:03,350
+[ADAM]
+I'm sorry, I know you're only trying to help. 60.
+ຂ້ອຍຂໍໂທດ, ຂ້ອຍຮູ້ວ່າເຈົ້າພຽງແຕ່ພະຍາຍາມຊ່ວຍເຫຼືອເທົ່ານັ້ນ. 60.
+
+527
+00:31:03,850 --> 00:31:09,850
+[ADAM]
+This is all too much for me. I don't know what to do. Just tell me what to do and I'll do it.
+ນີ້ແມ່ນຫຼາຍເກີນໄປ ສໍາ ລັບຂ້ອຍ. ຂ້ອຍບໍ່ຮູ້ວ່າຈະເຮັດແນວໃດ
+. ພຽງແຕ່ບອກຂ້ອຍວ່າຈະເຮັດຫຍັງແລະຂ້ອຍຈະເຮັດມັນ.
+
+528
+00:31:10,350 --> 00:31:16,350
+[KATIE]
+I want you to do some homework. Here's a list of books on mind-body therapy. They should help you get started.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າເຮັດບົດຮຽນບ້ານບາງຢ່າງ.
+ນີ້ແມ່ນບັນຊີລາຍຊື່ຂອງປື້ມກ່ຽວກັບການປິ່ນປົວຈິດໃຈ-ຮ່າງກາຍ. ພວກເຂົາຄວນຊ່ວຍເຈົ້າເລີ່ມຕົ້ນ.
+
+529
+00:31:16,850 --> 00:31:22,850
+[SETH]
+"Franz Schlegel is an American `medical intuitive' and `mystic psychiatrist'. Schlegel's teachings are widely recognized as a global spiritual awakening that is transcending individual and collective human consciousness"... You're actually going to read this shit? This guy is a fucking tool.
+ຟຣານສ໌ ສເລເກວເປັນນັກຈິດໃຈທາງການແພດອາເມລິກາ ` ແລະ ` mystic. ການສອນຂອງສເລເກລໄດ້ຖືກຮັບຮູ້ຢ່າງກວ້າງຂວາງວ່າເປັນການຕື່ນຕົວທາງວິນຍານທົ່ວໂລກທີ່
+ກໍາ ລັງເກີນຄວາມຮູ້ສຶກຂອງມະນຸດສ່ວນບຸກຄົນແລະລວມ"... ເຈົ້າຈະອ່ານສິ່ງນີ້ແທ້ບໍ? ຜູ້ຊາຍຄົນນີ້ເປັນເຄື່ອງມືທີ່ສໍ້ໂກງ.
+
+530
+00:31:23,350 --> 00:31:25,350
+[SETH]
+Let's go to Mardi Gras!
+ໄປງານບຸນ Mardi Gras!
+
+531
+00:31:25,850 --> 00:31:28,300
+[ADAM]
+Why would we go to Mardi Gras?
+ເປັນຫຍັງພວກເຮົາຈຶ່ງໄປງານບຸນ Mardi Gras?
+
+532
+00:31:28,800 --> 00:31:34,800
+[SETH]
+Because it's Mardi Gras man. It's like a giant orgy of the sexiest women you can imagine all throwing themselves at you, screaming to be fucked. It's a fuck fest. 61.
+ເພາະວ່າມັນເປັນຜູ້ຊາຍ Mardi Gras. ມັນຄືກັບ orgy ຂະຫນາດໃຫຍ່ຂອງແມ່ຍິງ sexy
+ທີ່ສຸດທີ່ທ່ານສາມາດຈິນຕະນາການໄດ້ທັງຫມົດຖິ້ມຕົວເອງໃສ່ທ່ານ, ຮ້ອງໄຫ້ທີ່ຈະຖືກຟັກ. ມັນເປັນງານບຸນຟັກສ໌. 61.
+
+533
+00:31:35,300 --> 00:31:38,800
+[ADAM]
+I'm getting chlamydia just listening to you talk about it.
+ຂ້ອຍ ກໍາ ລັງຕິດຄລາມິດີຍ ພຽງແຕ່ຟັງເຈົ້າເວົ້າກ່ຽວກັບມັນ.
+
+534
+00:31:39,300 --> 00:31:41,750
+[SETH]
+We need to go see the world.
+ພວກເຮົາຕ້ອງໄປເບິ່ງໂລກ.
+
+535
+00:31:42,250 --> 00:31:45,050
+[ADAM]
+This isn't my bachelor party we're planning here.
+ນີ້ແມ່ນບໍ່ແມ່ນງານບຸນແຕ່ງງານຂອງຂ້ອຍທີ່ພວກເຮົາ ກໍາ ລັງວາງແຜນຢູ່ນີ້.
+
+536
+00:31:45,550 --> 00:31:49,050
+[SETH]
+Adam you can not let your cancer go to waste.
+ແອັດມາມ ເຈົ້າບໍ່ສາມາດປ່ອຍໃຫ້ມະເຮັງຂອງທ່ານເສຍຫາຍໄດ້.
+
+537
+00:31:49,550 --> 00:31:51,550
+[ADAM]
+I'm not going anywhere.
+ຂ້ອຍຈະບໍ່ໄປໃສເລີຍ.
+
+538
+00:31:52,050 --> 00:31:56,950
+[SETH]
+Well if you're not going to take advantage of your cancer, then I will.
+ດີຖ້າເຈົ້າຈະບໍ່ໃຊ້ປະໂຫຍດຈາກມະເຮັງຂອງທ່ານ, ຫຼັງຈາກນັ້ນຂ້ອຍຈະເຮັດ.
+
+539
+00:31:57,450 --> 00:31:59,450
+[SETH]
+Excuse me.
+ຂໍໂທດເດີ.
+
+540
+00:31:59,950 --> 00:32:02,050
+[CLAIRE]
+Yes, how can I help you?
+ແມ່ນແລ້ວ, ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ແນວໃດ?
+
+541
+00:32:02,550 --> 00:32:05,350
+[SETH]
+I'm looking to buy a few books -
+ຂ້ອຍ ກໍາ ລັງຊອກຫາທີ່ຈະຊື້ປື້ມບາງຢ່າງ -
+
+542
+00:32:05,850 --> 00:32:09,350
+[CLAIRE]
+Oh. Are these for...I'm sorry it's none of my business.
+ໂອ້. ເຫຼົ່ານີ້ແມ່ນສໍາລັບ... ຂ້ອຍຂໍໂທດວ່າມັນບໍ່ແມ່ນເລື່ອງຂອງຂ້ອຍ.
+
+543
+00:32:09,850 --> 00:32:13,000
+[SETH]
+No that's okay. They're for my best friend, Adam.
+ບໍ່ມັນບໍ່ເປັນຫຍັງ. ພວກເຂົາແມ່ນ ສໍາ
+ລັບເພື່ອນທີ່ດີທີ່ສຸດຂອງຂ້ອຍ, ອາດາມ.
+
+544
+00:32:13,500 --> 00:32:15,500
+[SETH]
+He's pretty sick.
+ລາວເຈັບປ່ວຍຫຼາຍ.
+
+545
+00:32:16,000 --> 00:32:18,000
+[CLAIRE]
+How awful.
+ມັນຮ້າຍແຮງຫຼາຍປານໃດ.
+
+546
+00:32:18,500 --> 00:32:20,500
+[SETH]
+Yeah. Cancer, not cool.
+ແມ່ນແລ້ວ. ມະເຮັງ, ບໍ່ເຢັນ.
+
+547
+00:32:21,000 --> 00:32:23,000
+[CLAIRE]
+Poor guy.
+ຄົນທຸກຍາກ.
+
+548
+00:32:23,500 --> 00:32:25,600
+[SETH]
+I know it's been really hard.
+ຂ້ອຍຮູ້ວ່າມັນຍາກຫຼາຍ.
+
+549
+00:32:26,100 --> 00:32:28,100
+[CLAIRE]
+It's bad isn't it?
+ມັນບໍ່ດີບໍ?
+
+550
+00:32:28,600 --> 00:32:34,600
+[SETH]
+Honestly? Sometimes I just wish it was me instead of him...to relieve some of the burden, you know? I just...I just want to help.
+ໂດຍຄວາມຈິງໃຈ? ບາງຄັ້ງຂ້ອຍພຽງແຕ່ຢາກວ່າມັນເປັນຂ້ອຍແທນລາວ...
+ເພື່ອຜ່ອນຜັນບາງສ່ວນຂອງຫນັກຫນັກ, ເຈົ້າຮູ້ບໍ? ຂ້ອຍພຽງແຕ່... ຂ້ອຍພຽງແຕ່ຢາກຊ່ວຍເຫຼືອ.
+
+551
+00:32:35,100 --> 00:32:37,100
+[ADAM]
+What just happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+552
+00:32:37,600 --> 00:32:42,850
+[SETH]
+I'll tell you what happened. Cancer happened, and you need to get on the train.
+ຂ້ອຍຈະບອກເຈົ້າວ່າເກີດຫຍັງຂຶ້ນ.
+ມະເຮັງເກີດຂຶ້ນ, ແລະເຈົ້າຕ້ອງຂຶ້ນລົດໄຟ.
+
+553
+00:32:43,350 --> 00:32:46,500
+[RACHEL]
+Adam do you know where the dog leash is?
+ແອດມິນ ເຈົ້າຮູ້ວ່າສາຍແອວຫມາຢູ່ໃສ?
+
+554
+00:32:47,000 --> 00:32:49,450
+[ADAM]
+Are you going to the park again?
+ເຈົ້າຈະໄປສວນສາທາລະນະອີກບໍ?
+
+555
+00:32:49,950 --> 00:32:52,050
+[ADAM]
+This is the third time today.
+ນີ້ແມ່ນຄັ້ງທີສາມມື້ນີ້.
+
+556
+00:32:52,550 --> 00:32:55,350
+[RACHEL]
+He likes running around with the other dogs.
+ລາວມັກແລ່ນຢູ່ທົ່ວໄປກັບຫມາອື່ນໆ.
+
+557
+00:32:55,850 --> 00:32:59,700
+[ADAM]
+He can barely make it to the door without shitting himself.
+ລາວເກືອບບໍ່ສາມາດໄປຮອດປະຕູໄດ້ໂດຍບໍ່ຕ້ອງສໍ້ໂກງຕົວເອງ.
+
+558
+00:33:00,200 --> 00:33:02,200
+[RACHEL]
+Are you smoking weed?
+ເຈົ້າສູບຢາໄຮ້ບໍ?
+
+559
+00:33:02,700 --> 00:33:04,700
+[ADAM]
+Yeah.
+ແມ່ນແລ້ວ.
+
+560
+00:33:05,200 --> 00:33:07,200
+[RACHEL]
+Since when do you smoke?
+ເຈົ້າສູບຢາຕັ້ງແຕ່ເມື່ອໃດ?
+
+561
+00:33:07,700 --> 00:33:09,700
+[ADAM]
+It's medicinal.
+ມັນເປັນຢາປິ່ນປົວ.
+
+562
+00:33:10,200 --> 00:33:12,650
+[RACHEL]
+You got a prescription for medicinal marijuana?
+ເຈົ້າມີໃບສັ່ງຢາສໍາລັບຢາບ້າຢາບໍ?
+
+563
+00:33:13,150 --> 00:33:15,150
+[SETH]
+No, I did.
+ບໍ່, ຂ້ອຍເຮັດ.
+
+564
+00:33:15,650 --> 00:33:17,650
+[RACHEL]
+What's wrong with you?
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+565
+00:33:18,150 --> 00:33:20,600
+[SETH]
+Night blindness. Rods and cones are off.
+ຄວາມບິດບິດໃນຕອນກາງຄືນ. ກະດານແລະໂກນຖືກປິດລົງ.
+
+566
+00:33:21,100 --> 00:33:23,200
+[RACHEL]
+Where did that TV come from?
+ໂທລະພາບນັ້ນມາຈາກໃສ?
+
+567
+00:33:23,700 --> 00:33:25,700
+[ADAM]
+The store. (off Rachel's furious
+ຮ້ານຄ້າ. (ຈາກຣາເຊວໂຊກຮ້າຍ
+
+568
+00:33:26,200 --> 00:33:28,200
+[LOOK)]
+It's medicinal?
+ມັນເປັນຢາບໍ?
+
+569
+00:33:28,700 --> 00:33:32,550
+[RACHEL]
+I thought we already agreed that my painting was going there.
+ຂ້ອຍຄິດວ່າພວກເຮົາໄດ້ຕົກລົງແລ້ວວ່າຮູບແຕ້ມຂອງຂ້ອຍຈະໄປບ່ອນນັ້ນ.
+
+570
+00:33:33,050 --> 00:33:35,150
+[ADAM]
+Why can't we put up both?
+ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ສາມາດວາງທັງສອງໄດ້?
+
+571
+00:33:35,650 --> 00:33:39,500
+[RACHEL]
+You want me to put my painting next to a television?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍວາງຮູບແຕ້ມຂອງຂ້ອຍຢູ່ຂ້າງໂທລະພາບບໍ?
+
+572
+00:33:40,000 --> 00:33:42,000
+[ADAM]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+573
+00:33:42,500 --> 00:33:48,500
+[RACHEL]
+Art needs to breathe Adam!...Do whatever you want. I'm taking your dog to the park!...And open a window. This isn't a dorm room.
+ສິລະປະຕ້ອງຫາຍໃຈແອັດມາມ!... ເຮັດທຸກຢ່າງທີ່ທ່ານຕ້ອງການ. ຂ້ອຍ ກໍາ
+ລັງພາຫມາຂອງທ່ານໄປສວນສາທາລະນະ!... ແລະເປີດປ່ອງຢ້ຽມ. ນີ້ແມ່ນບໍ່ແມ່ນຫ້ອງພັກ.
+
+574
+00:33:49,000 --> 00:33:51,000
+[ADAM]
+Love you.
+ຂ້ອຍຮັກເຈົ້າ.
+
+575
+00:33:51,500 --> 00:33:55,700
+[ADAM]
+I don't get it, they spend all day at the dog park.
+ຂ້ອຍບໍ່ເຂົ້າໃຈມັນ, ພວກເຂົາໃຊ້ເວລາທັງ ຫມົດ ມື້ໃນສວນຫມາ.
+
+576
+00:33:56,200 --> 00:33:58,200
+[SETH]
+Great. Maybe she'll move there.
+ດີເລີດ. ບາງທີນາງຈະຍ້າຍໄປບ່ອນນັ້ນ.
+
+577
+00:33:58,700 --> 00:34:01,500
+[ADAM]
+Can you not talk about her like that?
+ເຈົ້າບໍ່ສາມາດເວົ້າກ່ຽວກັບນາງແບບນັ້ນໄດ້ບໍ?
+
+578
+00:34:02,000 --> 00:34:05,850
+[SETH]
+Are you joking? Do you see the way she treats you?
+ເຈົ້າໂຊກຮ້າຍບໍ? ເຈົ້າເຫັນວິທີທີ່ນາງປະຕິບັດກັບເຈົ້າບໍ?
+
+579
+00:34:06,350 --> 00:34:09,500
+[ADAM]
+She's got some kind of creative block...It's her process.
+ນາງມີບລັອກການສ້າງສັນບາງຢ່າງ... ມັນແມ່ນຂະບວນການຂອງນາງ.
+
+580
+00:34:10,000 --> 00:34:16,000
+[SETH]
+You have cancer for fuck's sake! If I was your girlfriend, I'd be baking you cookies and blowing you every thirty minutes. Instead, she's yelling at you over some fucking painting. Her art sucks. You don't want to put that on your wall. It looks like someone threw up a shrimp cocktail and then used it to spackle the Berlin Wall.
+ເຈົ້າມີມະເຮັງແທ້ໆ! ຖ້າຂ້ອຍເປັນແຟນຂອງເຈົ້າ, ຂ້ອຍຈະເຮັດຄຸກເກີໃຫ້ເຈົ້າແລະພັດລົມເຈົ້າທຸກໆສາມສິບນາທີ. ແທນທີ່ຈະ, ນາງ ກໍາ ລັງຮ້ອງໄຫ້ເຈົ້າກ່ຽວກັບຮູບແຕ້ມບາງຢ່າງ
+. ສິລະປະຂອງນາງສໍ້ໂກງ. ເຈົ້າບໍ່ຢາກວາງສິ່ງນັ້ນໃສ່ກໍາແພງຂອງທ່ານ. ມັນເບິ່ງຄືວ່າບາງຄົນໄດ້ຖິ້ມຄັອກເກວແຊກເກວແລະຫຼັງຈາກນັ້ນໃຊ້ມັນເພື່ອ spackle ກໍາແພງເບີລິນ.
+
+581
+00:34:16,500 --> 00:34:20,350
+[ADAM]
+We're going through a rough patch. That's what happens in relationships.
+ພວກເຮົາ ກໍາ ລັງຜ່ານໄລຍະທີ່ຫຍຸ້ງຍາກ.
+ນັ້ນແມ່ນສິ່ງທີ່ເກີດຂຶ້ນໃນຄວາມສໍາພັນ.
+
+582
+00:34:20,850 --> 00:34:26,850
+[SETH]
+Bullshit. She's fucking you in the ass Adam. This is the one time in your life you can do whatever you want. If you want to smoke weed, then smoke. You want a 50 inch flat screen TV, then get the fucking TV! And if you want to go to Mardi Gras, then LET'S GO TO MARDI GRAS!
+ນາງ ກໍາ ລັງຟັກເຈົ້າໃນບາກແອນດາມ. ນີ້ແມ່ນຄັ້ງດຽວໃນຊີວິດຂອງທ່ານທີ່ທ່ານສາມາດເຮັດທຸກຢ່າງທີ່ທ່ານຕ້ອງການ. ຖ້າເຈົ້າຢາກສູບພືດຜັກ, ຫຼັງຈາກນັ້ນສູບຢາ
+. ເຈົ້າຕ້ອງການໂທລະພາບ ຫນ້າ ຈໍລຽບ 50 ນິ້ວ, ຈາກນັ້ນເອົາໂທລະພາບທີ່ສໍ້ໂກງ! ແລະຖ້າເຈົ້າຢາກໄປຫາ Mardi Gras, ແລ້ວໄປຫາ MARDI GRAS!
+
+583
+00:34:27,350 --> 00:34:29,450
+[ADAM]
+We're not going to Mardi Gras.
+ພວກເຮົາຈະບໍ່ໄປງານບຸນ Mardi Gras.
+
+584
+00:34:29,950 --> 00:34:31,950
+[SETH]
+You're totally missing my point.
+ເຈົ້າພາດຈຸດຂອງຂ້ອຍຢ່າງສົມບູນ.
+
+585
+00:34:32,450 --> 00:34:37,700
+[ADAM]
+I've been reading your books, and you know it actually makes sense...Some of it. 66.
+ຂ້ອຍ ກໍາ ລັງອ່ານປື້ມຂອງທ່ານ, ແລະເຈົ້າຮູ້ວ່າມັນມີຄວາມ
+ຫມາຍ ແທ້ໆ... ບາງສ່ວນຂອງມັນ. 66.
+
+586
+00:34:38,200 --> 00:34:44,200
+[ADAM]
+I'm not gonna lie, I don't really get the "Dark Night of the Soul" stuff. But I get it, years of anxiety have taken over my body. I'm blocked...emotionally.
+ຂ້ອຍຈະບໍ່ຕົວະ, ຂ້ອຍບໍ່ເຂົ້າໃຈເລື່ອງ"ຄືນມືດຂອງຈິດວິນຍານ" ແທ້ໆ. ແຕ່ຂ້ອຍເຂົ້າໃຈມັນ
+, ຄວາມກັງວົນຫຼາຍປີໄດ້ຄວບຄຸມຮ່າງກາຍຂອງຂ້ອຍ. ຂ້ອຍຖືກກີດຂວາງ... ທາງຈິດໃຈ.
+
+587
+00:34:44,700 --> 00:34:46,700
+[KATIE]
+Adam! This is fantastic.
+ແອັດມາມ! ນີ້ແມ່ນດີເລີດ.
+
+588
+00:34:47,200 --> 00:34:53,200
+[KATIE]
+You know if you're interested, there are some more advanced forms of therapy that I think could be really useful.
+ເຈົ້າຮູ້ແລ້ວວ່າຖ້າເຈົ້າສົນໃຈ,
+ມີບາງຮູບແບບການປິ່ນປົວທີ່ກ້າວຫນ້າກວ່າທີ່ຂ້ອຍຄິດວ່າສາມາດເປັນປະໂຫຍດແທ້ໆ.
+
+589
+00:34:53,700 --> 00:34:55,800
+[ADAM]
+Sure, if you think it'll help.
+ແນ່ນອນ, ຖ້າເຈົ້າຄິດວ່າມັນຈະຊ່ວຍ.
+
+590
+00:34:56,300 --> 00:35:02,300
+[LAUGHTER THERAPIST]
+Good morning class. Before we begin I'd like to introduce Adam and Seth, our two newest giggle gurus.
+ບົດຮຽນຕອນເຊົ້າດີ. ກ່ອນທີ່ພວກເຮົາຈະເລີ່ມຕົ້ນຂ້ອຍຢາກແນະນໍາແອັດມາມ
+ແລະ ເຊັດ, ຄູສອນການມ່ວນຊື່ນສອງຄົນ ໃຫມ່ ຂອງພວກເຮົາ.
+
+591
+00:35:02,800 --> 00:35:04,800
+[SETH]
+What are they laughing at?
+ພວກເຂົາ ກໍາ ລັງມ່ວນຊື່ນຫຍັງ?
+
+592
+00:35:05,300 --> 00:35:07,300
+[ADAM]
+Just go with it.
+ພຽງແຕ່ໄປກັບມັນ.
+
+593
+00:35:07,800 --> 00:35:12,700
+[LAUGHTER THERAPIST]
+Now what you'll soon discover is the true miracle and gift of laughter. 67.
+ດຽວນີ້ສິ່ງທີ່ເຈົ້າຈະຄົ້ນພົບໃນໄວໆນີ້ແມ່ນສິ່ງມະຫັດສະຈັນທີ່ແທ້ຈິງແລະຂອງຂວັນຂອງຄວາມມ່ວນຊື່ນ
+. 67.
+
+594
+00:35:13,200 --> 00:35:19,200
+[LAUGHTER THERAPIST]
+Learning to laugh at ourselves and others through non- judgemental means is far more effective than any prescription drug, or, rehabilitation center. You see, when we laugh, our bodies release endorphins that not only support the immune system, but also release deeply stored emotional pain, and give us a fresh new outlook on life.
+ການຮຽນຮູ້ທີ່ຈະມ່ວນຊື່ນກັບຕົວເອງແລະຄົນອື່ນໂດຍວິທີການທີ່ບໍ່ຕັດສິນໃຈແມ່ນມີປະສິດທິຜົນຫຼາຍກ່ວາຢາໃບສັ່ງແພດໃດໆ, ຫຼື, ສູນຟື້ນຟູ. ເຈົ້າເຫັນແລ້ວ, ເມື່ອພວກເຮົາມ່ວນ ຊື່ນ,
+ຮ່າງກາຍຂອງພວກເຮົາປ່ອຍແອນໂດຣຟິນທີ່ບໍ່ພຽງແຕ່ສະ ຫນັບ ສະ ຫນູນ ລະບົບພູມຕ້ານທານເທົ່ານັ້ນ, ແຕ່ຍັງປ່ອຍຄວາມເຈັບປວດທາງຈິດໃຈທີ່ເກັບໄວ້ຢ່າງເລິກເຊິ່ງ, ແລະໃຫ້ພວກເຮົາທັດສະນະ ໃຫມ່ ໃຫມ່ ກ່ຽວກັບຊີວິດ.
+
+595
+00:35:19,700 --> 00:35:25,300
+[LAUGHTER THERAPIST]
+We don't tell jokes here, we tell the truth - and we laugh at that truth.
+ພວກເຮົາບໍ່ເວົ້າຢອກຊື່ໆຢູ່ບ່ອນນີ້, ພວກເຮົາເວົ້າຄວາມຈິງ
+- ແລະພວກເຮົາມ່ວນຊື່ນກັບຄວາມຈິງນັ້ນ.
+
+596
+00:35:25,800 --> 00:35:30,700
+[LAUGHTER THERAPIST]
+So let us share. Adam, why don't you tell us what brings you here?
+ສະນັ້ນໃຫ້ພວກເຮົາແບ່ງປັນ. ອາດາມ,
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກພວກເຮົາວ່າຫຍັງເຮັດໃຫ້ເຈົ້າມາບ່ອນນີ້?
+
+597
+00:35:31,200 --> 00:35:34,000
+[LAUGHTER THERAPIST]
+We're all friends here in the Laughter Pagoda.
+ພວກເຮົາທຸກຄົນເປັນເພື່ອນມິດຢູ່ນີ້ໃນໂພໂກດາຄວາມມ່ວນຊື່ນ.
+
+598
+00:35:34,500 --> 00:35:36,500
+[ADAM]
+I, ah, have cancer.
+ຂ້ອຍ, ອາ, ມີມະເຮັງ.
+
+599
+00:35:37,000 --> 00:35:40,150
+[LAUGHTER THERAPIST]
+Ah cancer yes. Yes. Laugh. Everyone. Beverly, share -
+ອາມະເຮັງແມ່ນແລ້ວ. ແມ່ນແລ້ວ. ມ່ວນຊື່ນ. ທຸກຄົນ. ເບີເວີຣີ, ແບ່ງປັນ -
+
+600
+00:35:40,650 --> 00:35:45,900
+[BEVERLY]
+Yesterday, I confiscated my son's pornography collection and then used it to masturbate 6 times.
+ມື້ວານນີ້, ຂ້ອຍໄດ້ຍຶດເກັບກໍາຮູບພາບໂພຣນໂກ້ຂອງລູກຊາຍຂອງຂ້ອຍແລະຫຼັງຈາກນັ້ນໃຊ້ມັນເພື່ອ
+masturbate 6 ຄັ້ງ.
+
+601
+00:35:46,400 --> 00:35:48,400
+[LAUGHTER THERAPIST]
+Paul, share,
+ໂປລ, ແບ່ງປັນ,
+
+602
+00:35:48,900 --> 00:35:54,150
+[PAUL]
+My wife told me she's a lesbian. And then left me for my sister. 68.
+ເມຍຂອງຂ້ອຍບອກຂ້ອຍວ່ານາງເປັນເລສເບຍ.
+ແລະຫຼັງຈາກນັ້ນອອກຈາກຂ້ອຍ ສໍາ ລັບເອື້ອຍຂອງຂ້ອຍ. 68.
+
+603
+00:35:54,650 --> 00:35:57,450
+[JIM]
+I owe two men eight grand by Friday.
+ຂ້ອຍເປັນຫນີ້ຜູ້ຊາຍສອງຄົນແປດພັນໃນວັນສຸກ.
+
+604
+00:35:57,950 --> 00:36:00,400
+[SETH]
+My best friend is a giant pussy.
+ເພື່ອນທີ່ດີທີ່ສຸດຂອງຂ້ອຍແມ່ນແມວໃຫຍ່.
+
+605
+00:36:00,900 --> 00:36:03,350
+[ADAM]
+My best friend's favorite band is Abba.
+ກຸ່ມທີ່ມັກທີ່ສຸດຂອງເພື່ອນທີ່ດີທີ່ສຸດຂອງຂ້ອຍແມ່ນອາບາ.
+
+606
+00:36:03,850 --> 00:36:05,850
+[SETH]
+When I was 12.
+ເມື່ອຂ້ອຍອາຍຸ 12 ປີ.
+
+607
+00:36:06,350 --> 00:36:08,800
+[LAUGHTER THERAPIST]
+Abba! Wonderful. I love it. Seth laugh.
+ອາບາ! ດີເລີດ. ຂ້ອຍມັກມັນ. ເຊັດມ່ວນຊື່ນ.
+
+608
+00:36:09,300 --> 00:36:11,300
+[ALAN]
+Real. 69.
+ແທ້ຈິງ. 69.
+
+609
+00:36:11,800 --> 00:36:13,800
+[MITCH]
+Fake.
+ປອມ.
+
+610
+00:36:14,300 --> 00:36:16,300
+[ADAM]
+Fake.
+ປອມ.
+
+611
+00:36:16,800 --> 00:36:21,000
+[ALAN]
+You're both wrong. I think I know real when I see it.
+ເຈົ້າທັງສອງຜິດ. ຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ຄວາມຈິງເມື່ອຂ້ອຍເຫັນມັນ.
+
+612
+00:36:21,500 --> 00:36:23,500
+[ALAN]
+God damn it.
+ສະຫວັນນະເຂດ.
+
+613
+00:36:24,000 --> 00:36:26,100
+[MITCH]
+How come we've never met Rachel?
+ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ເຄີຍພົບກັບຣາເຊວເລີຍ?
+
+614
+00:36:26,600 --> 00:36:28,600
+[ALAN]
+Yeah. What the fuck?
+ແມ່ນແລ້ວ. ຫຍັງ?
+
+615
+00:36:29,100 --> 00:36:31,100
+[ADAM]
+She's been really stressed lately,
+ນາງມີຄວາມເຄັ່ງຕຶງຫຼາຍໃນໄລຍະຜ່ານມາ,
+
+616
+00:36:31,600 --> 00:36:34,750
+[ADAM]
+If I brought her here, she'd probably freak out.
+ຖ້າຂ້ອຍພານາງມາບ່ອນນີ້, ນາງອາດຈະຢ້ານກົວ.
+
+617
+00:36:35,250 --> 00:36:37,350
+[ALAN]
+Smart man. Save yourself the headache.
+ຜູ້ຊາຍສະຫຼາດ. ຊ່ວຍຕົວເອງຈາກຄວາມເຈັບຫົວ.
+
+618
+00:36:37,850 --> 00:36:43,800
+[MITCH]
+Don't listen to him Adam. It's important to be with your loved ones in times like these.
+ຢ່າຟັງລາວແອດມ໌.
+ມັນມີຄວາມສໍາຄັນທີ່ຈະຢູ່ກັບຄົນຮັກຂອງທ່ານໃນເວລາທີ່ເຊັ່ນນີ້.
+
+619
+00:36:44,300 --> 00:36:46,750
+[ALAN]
+Bullshit. Women are nothing but trouble. 70.
+ແມ່ຍິງບໍ່ແມ່ນຫຍັງນອກຈາກຄວາມຫຍຸ້ງຍາກ. 70.
+
+620
+00:36:47,250 --> 00:36:53,250
+[ALAN]
+They're selfish animals who only add to the misery in your life. You want to talk about a cancer.
+ພວກເຂົາເປັນສັດທີ່ໂຊກແຊງທີ່ພຽງແຕ່ເພີ່ມຄວາມທຸກທໍລະມານໃນຊີວິດຂອງທ່ານ
+. ເຈົ້າຢາກເວົ້າກ່ຽວກັບມະເຮັງ.
+
+621
+00:36:53,750 --> 00:36:59,700
+[MITCH]
+Listen to me Adam, I've been married 40 years and it's my Margaret who keeps me going.
+ຟັງຂ້ອຍແອັດມາມ, ຂ້ອຍແຕ່ງງານແລ້ວ 40
+ປີແລະມັນແມ່ນມາເກຣຕ໌ຂອງຂ້ອຍທີ່ເຮັດໃຫ້ຂ້ອຍ ດໍາ ເນີນໄປ.
+
+622
+00:37:00,200 --> 00:37:02,200
+[MITCH]
+She's my reason to live.
+ນາງເປັນເຫດຜົນຂອງຂ້ອຍທີ່ຈະດໍາລົງຊີວິດ.
+
+623
+00:37:02,700 --> 00:37:08,700
+[ALAN]
+That's precious Mitch, I almost want to wrap it up and tie a little bow around it. Honestly, I don't give a shit. You can do whatever you want. It's your life. All I know is that I'm not going to spend my last days on this miserable planet pining over a woman. The day my wife left me was the best day of my life.
+ນັ້ນແມ່ນມິດຊ໌ທີ່ຮັກແພງ, ຂ້ອຍເກືອບຢາກຫຸ້ມຫໍ່ມັນແລະຕິດກະທູ້ນ້ອຍໆຢູ່ອ້ອມຂ້າງມັນ. ໂດຍຄວາມຈິງໃຈ, ຂ້ອຍບໍ່ສົນໃຈຫຍັງເລີຍ. ເຈົ້າສາມາດເຮັດທຸກຢ່າງທີ່ທ່ານຕ້ອງການໄດ້. ມັນແມ່ນຊີວິດຂອງທ່ານ
+. ສິ່ງດຽວທີ່ຂ້ອຍຮູ້ແມ່ນວ່າຂ້ອຍຈະບໍ່ໃຊ້ເວລາມື້ສຸດທ້າຍຂອງຂ້ອຍໃນໂລກທີ່ໂຊກຮ້າຍນີ້ ກໍາ ລັງລໍາບາກກ່ຽວກັບແມ່ຍິງ. ມື້ທີ່ເມຍຂອງຂ້ອຍອອກຈາກຂ້ອຍແມ່ນມື້ທີ່ດີທີ່ສຸດໃນຊີວິດຂອງຂ້ອຍ.
+
+624
+00:37:09,200 --> 00:37:15,200
+[RACHEL]
+Hey, it's Rachel. I must be doing something really important. I'll give you a call when I'm done...yay!
+ເຮ້, ມັນແມ່ນຣາເຊວ. ຂ້ອຍຕ້ອງ ກໍາ ລັງເຮັດບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນແທ້ໆ
+. ຂ້ອຍຈະໂທຫາເຈົ້າເມື່ອຂ້ອຍເຮັດແລ້ວ... ແມ່ນແລ້ວ!
+
+625
+00:37:15,700 --> 00:37:19,900
+[ADAM]
+Hey it's me, just checking to see if you're on your way.
+ເຮ້ ມັນເປັນຂ້ອຍ, ພຽງແຕ່ກວດເບິ່ງວ່າເຈົ້າ ກໍາ ລັງເດີນທາງໄປບໍ.
+
+626
+00:37:20,400 --> 00:37:26,400
+[RACHEL]
+Hey, it's Rachel. I must be doing something really important. I'll give you a call when I'm done...yay!
+ເຮ້, ມັນແມ່ນຣາເຊວ. ຂ້ອຍຕ້ອງ ກໍາ ລັງເຮັດບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນແທ້ໆ
+. ຂ້ອຍຈະໂທຫາເຈົ້າເມື່ອຂ້ອຍເຮັດແລ້ວ... ແມ່ນແລ້ວ!
+
+627
+00:37:26,900 --> 00:37:32,900
+[ADAM]
+It's me again. Just checking to see where you are. In case you're looking for me I'm now on the other side of the parking lot. Call me.
+ມັນເປັນຂ້ອຍອີກເທື່ອຫນຶ່ງ. ພຽງແຕ່ກວດເບິ່ງວ່າເຈົ້າຢູ່ໃສ. ໃນກໍລະນີທີ່ທ່ານ
+ກໍາ ລັງຊອກຫາຂ້ອຍຂ້ອຍຢູ່ທາງອື່ນຂອງບ່ອນຈອດລົດດຽວນີ້. ໂທຫາຂ້ອຍ.
+
+628
+00:37:33,400 --> 00:37:35,400
+[KATIE]
+Adam?
+ແອັດມາມ?
+
+629
+00:37:35,900 --> 00:37:37,900
+[ADAM]
+Oh hey.
+ໂອ້ ເຮ້.
+
+630
+00:37:38,400 --> 00:37:40,400
+[KATIE]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+631
+00:37:40,900 --> 00:37:43,700
+[ADAM]
+Just waiting for Rachel to pick me up.
+ພຽງແຕ່ລໍຖ້າ ຣາເຊວທີ່ຈະເອົາຂ້ອຍ.
+
+632
+00:37:44,200 --> 00:37:46,200
+[KATIE]
+What time is she coming?
+ນາງຈະມາຮອດເວລາໃດ?
+
+633
+00:37:46,700 --> 00:37:48,700
+[ADAM]
+Uh, four.
+ໂອ້, ສີ່.
+
+634
+00:37:49,200 --> 00:37:51,200
+[KATIE]
+It's six thirty.
+ເວລາ 6 ໂມງ 30 ໂມງ.
+
+635
+00:37:51,700 --> 00:37:53,800
+[ADAM]
+She must be stuck in traffic.
+ນາງຕ້ອງຕິດຢູ່ໃນການຈະລາຈອນ.
+
+636
+00:37:54,300 --> 00:37:56,300
+[KATIE]
+You want a ride?
+ເຈົ້າຢາກຂັບລົດບໍ?
+
+637
+00:37:56,800 --> 00:37:58,800
+[KATIE]
+Sorry about the mess.
+ຂໍໂທດກ່ຽວກັບຄວາມສັບສົນ.
+
+638
+00:37:59,300 --> 00:38:02,100
+[ADAM]
+I think you should ask for a refund.
+ຂ້ອຍຄິດວ່າເຈົ້າຄວນຂໍເງິນຄືນ.
+
+639
+00:38:02,600 --> 00:38:08,600
+[KATIE]
+I know, I know. What can I say? I'm not good at getting rid of things. I get easily attached.
+ຂ້ອຍຮູ້, ຂ້ອຍຮູ້. ຂ້ອຍສາມາດເວົ້າຫຍັງໄດ້?
+ຂ້ອຍບໍ່ດີໃນການ ກໍາ ຈັດສິ່ງຕ່າງໆ. ຂ້ອຍຕິດພັນງ່າຍ.
+
+640
+00:38:09,100 --> 00:38:11,100
+[ADAM]
+Yeah, I can see.
+ແມ່ນແລ້ວ, ຂ້ອຍເຫັນໄດ້.
+
+641
+00:38:11,600 --> 00:38:13,600
+[KATIE]
+So you don't drive?
+ສະນັ້ນເຈົ້າບໍ່ຂັບລົດບໍ?
+
+642
+00:38:14,100 --> 00:38:16,100
+[ADAM]
+Nope.
+ບໍ່.
+
+643
+00:38:16,600 --> 00:38:18,600
+[KATIE]
+But you have a license?
+ແຕ່ເຈົ້າມີໃບອະນຸຍາດບໍ?
+
+644
+00:38:19,100 --> 00:38:21,200
+[ADAM]
+Nope. I actually failed my test.
+ບໍ່. ຂ້ອຍໄດ້ລົ້ມເຫຼວການທົດສອບຂອງຂ້ອຍແທ້ໆ.
+
+645
+00:38:21,700 --> 00:38:23,700
+[KATIE]
+No!
+ບໍ່!
+
+646
+00:38:24,200 --> 00:38:26,200
+[ADAM]
+It's true.
+ມັນເປັນຄວາມຈິງ.
+
+647
+00:38:26,700 --> 00:38:29,500
+[KATIE]
+But, I thought you can re-take the test.
+ແຕ່, ຂ້ອຍຄິດວ່າເຈົ້າສາມາດສອບເສັງໄດ້ອີກຄັ້ງ.
+
+648
+00:38:30,000 --> 00:38:35,250
+[ADAM]
+Eh. Let's just say, that the state of California felt it was best I didn't.
+ເອ້. ພວກເຮົາພຽງແຕ່ເວົ້າວ່າ,
+ວ່າລັດຄາລີຟໍເນຍຮູ້ສຶກວ່າມັນດີທີ່ສຸດທີ່ຂ້ອຍບໍ່ເຮັດ.
+
+649
+00:38:35,750 --> 00:38:37,750
+[KATIE]
+What did you do? 73.
+ເຈົ້າເຮັດຫຍັງ? 73.
+
+650
+00:38:38,250 --> 00:38:43,150
+[ADAM]
+I kind of backed my mom's car down an embankment...Into the Balboa cactus garden.
+ຂ້ອຍຄ້າຍຄືກັບລົດຂອງແມ່ຂອງຂ້ອຍລົງທາງຝັ່ງທະເລ
+... ເຂົ້າໄປໃນສວນແຄຕັສບາລໂບອາ.
+
+651
+00:38:43,650 --> 00:38:46,100
+[KATIE]
+The garden with all the endangered plants?
+ສວນທີ່ມີພືດທີ່ສ່ຽງທັງ ຫມົດ ບໍ?
+
+652
+00:38:46,600 --> 00:38:52,600
+[ADAM]
+They didn't want to tow it out in fear of destroying more of the vegetation, so they had to use a giant crane.
+ພວກເຂົາບໍ່ຢາກດຶງມັນອອກຢ້ານວ່າຈະທໍາລາຍພືດຜັກຫຼາຍຂຶ້ນ
+, ສະນັ້ນພວກເຂົາຕ້ອງໃຊ້ຄຣານໃຫຍ່.
+
+653
+00:38:53,100 --> 00:38:55,100
+[KATIE]
+I'm sorry. That's terrible.
+ຂ້ອຍຂໍໂທດ. ມັນຮ້າຍແຮງຫຼາຍ.
+
+654
+00:38:55,600 --> 00:38:57,600
+[ADAM]
+Stop the car.
+ຢຸດລົດ.
+
+655
+00:38:58,100 --> 00:39:00,100
+[KATIE]
+Why what's wrong?
+ເປັນຫຍັງຫຍັງຜິດ?
+
+656
+00:39:00,600 --> 00:39:02,600
+[ADAM]
+Just stop the car.
+ພຽງແຕ່ຢຸດລົດ.
+
+657
+00:39:03,100 --> 00:39:05,100
+[KATIE]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+658
+00:39:05,600 --> 00:39:07,700
+[ADAM]
+I can't handle all this mess.
+ຂ້ອຍບໍ່ສາມາດຮັບມືກັບຄວາມສັບສົນທັງ ຫມົດ ນີ້ໄດ້.
+
+659
+00:39:08,200 --> 00:39:10,650
+[KATIE]
+Wait, no, not that, that's my dinner.
+ລໍຖ້າ, ບໍ່, ບໍ່ແມ່ນນັ້ນ, ນັ້ນແມ່ນອາຫານຄໍ່າຂອງຂ້ອຍ.
+
+660
+00:39:11,150 --> 00:39:13,150
+[ADAM]
+You can drive.
+ເຈົ້າສາມາດຂັບລົດໄດ້.
+
+661
+00:39:13,650 --> 00:39:15,650
+[ADAM]
+Thanks for the ride...
+ຂອບໃຈທີ່ຂັບລົດ...
+
+662
+00:39:16,150 --> 00:39:20,000
+[ADAM]
+Do you want to come in. For a beverage? Or something?
+ເຈົ້າຢາກເຂົ້າມາບໍ. ເພື່ອດື່ມບໍ? ຫຼືບາງສິ່ງບາງຢ່າງບໍ?
+
+663
+00:39:20,500 --> 00:39:23,300
+[KATIE]
+It probably wouldn't be very professional of me.
+ມັນອາດຈະບໍ່ແມ່ນວິຊາຊີບຫຼາຍຈາກຂ້ອຍ.
+
+664
+00:39:23,800 --> 00:39:26,600
+[ADAM]
+Come on, I'll let you analyze my Id.
+ມາແລ້ວ, ຂ້ອຍຈະປ່ອຍໃຫ້ເຈົ້າວິເຄາະໃບຢັ້ງຢືນຂອງຂ້ອຍ.
+
+665
+00:39:27,100 --> 00:39:29,550
+[KATIE]
+Uh, okay. But I can't stay long.
+ໂອ້, ດີ. ແຕ່ຂ້ອຍບໍ່ສາມາດຢູ່ໄດ້ດົນນານ.
+
+666
+00:39:30,050 --> 00:39:32,500
+[KATIE]
+You know you are terrible at this?
+ເຈົ້າຮູ້ວ່າເຈົ້າເປັນຄົນຮ້າຍແຮງໃນເລື່ອງນີ້ບໍ?
+
+667
+00:39:33,000 --> 00:39:35,000
+[ADAM]
+I've never played before.
+ຂ້ອຍບໍ່ເຄີຍຫຼິ້ນກ່ອນ.
+
+668
+00:39:35,500 --> 00:39:37,500
+[KATIE]
+This is your Playstation.
+ນີ້ແມ່ນ PlayStation ຂອງທ່ານ.
+
+669
+00:39:38,000 --> 00:39:42,550
+[ADAM]
+Doesn't mean I play it. Games these days today are so complicated. 75.
+ມັນບໍ່ໄດ້ຫມາຍຄວາມວ່າຂ້ອຍຫຼິ້ນມັນ.
+ເກມໃນມື້ນີ້ມີຄວາມສັບສົນຫຼາຍ. 75.
+
+670
+00:39:43,050 --> 00:39:47,250
+[ADAM]
+There's too many buttons. I can't keep track of what does what.
+ມີປຸ່ມຫຼາຍເກີນໄປ. ຂ້ອຍບໍ່ສາມາດຕິດຕາມສິ່ງທີ່ເຮັດຫຍັງໄດ້.
+
+671
+00:39:47,750 --> 00:39:53,700
+[KATIE]
+Perhaps you'd prefer something a little more simple. Maybe a nice game of Connect Four or Bingo.
+ບາງທີເຈົ້າມັກບາງສິ່ງບາງຢ່າງທີ່ງ່າຍດາຍກວ່າເລັກນ້ອຍ
+. ບາງທີເກມທີ່ດີຂອງ Connect ສີ່ຫຼື Bingo.
+
+672
+00:39:54,200 --> 00:39:56,300
+[ADAM]
+She has a sense of humor.
+ນາງມີຄວາມຮູ້ສຶກມ່ວນຊື່ນ.
+
+673
+00:39:56,800 --> 00:40:01,000
+[ADAM]
+Duck Hunt, now that was a game. You know why? One button.
+ການລ່າແມວ, ດຽວນີ້ມັນເປັນເກມ. ເຈົ້າຮູ້ວ່າເປັນຫຍັງ? ປຸ່ມດຽວ.
+
+674
+00:40:01,500 --> 00:40:07,500
+[ADAM]
+You think I'm kidding. My dad and I used to have Duck Hunt tournaments. He was actually really good. Until he had his stroke.
+ເຈົ້າຄິດວ່າຂ້ອຍຫຼິ້ນ. ຂ້ອຍແລະພໍ່ຂອງຂ້ອຍເຄີຍມີການແຂ່ງຂັນລ່າແມວ
+. ລາວດີແທ້ໆ. ຈົນກວ່າລາວຈະມີໂຣກ stroke ຂອງລາວ.
+
+675
+00:40:08,000 --> 00:40:12,550
+[KATIE]
+That must have been hard, seeing him lose his cognitive skills like that.
+ມັນຕ້ອງຍາກຫຼາຍ, ເຫັນລາວສູນເສຍຄວາມສາມາດໃນການຮູ້ສຶກຂອງລາວແບບນັ້ນ.
+
+676
+00:40:13,050 --> 00:40:19,050
+[ADAM]
+Well the funny thing is that the stroke actually made him a better player, he just lost interest.
+ດີສິ່ງທີ່ມ່ວນຊື່ນແມ່ນວ່າການໂຈມຕີໄດ້ເຮັດໃຫ້ລາວເປັນນັກເຕະທີ່ດີກວ່າເກົ່າ
+, ລາວພຽງແຕ່ສູນເສຍຄວາມສົນໃຈ.
+
+677
+00:40:19,550 --> 00:40:21,650
+[KATIE]
+You've never talked about your dad.
+ເຈົ້າບໍ່ເຄີຍເວົ້າກ່ຽວກັບພໍ່ເຈົ້າເລີຍ.
+
+678
+00:40:22,150 --> 00:40:24,250
+[ADAM]
+Well whose fault is that? Doctor?
+ນັ້ນແມ່ນຄວາມຜິດຂອງໃຜ? ດອກຕໍ?
+
+679
+00:40:24,750 --> 00:40:26,750
+[KATIE]
+Hey!
+ເຮ້!
+
+680
+00:40:27,250 --> 00:40:29,250
+[KATIE]
+Rematch?
+ການແຂ່ງຂັນຄືນບໍ?
+
+681
+00:40:29,750 --> 00:40:31,750
+[ADAM]
+You ever had this stuff.
+ເຈົ້າເຄີຍມີສິ່ງນີ້ເລີຍ.
+
+682
+00:40:32,250 --> 00:40:35,750
+[KATIE]
+No, but it's supposed to be really good for you.
+ບໍ່, ແຕ່ມັນຄວນເປັນປະໂຫຍດຫຼາຍຕໍ່ເຈົ້າ.
+
+683
+00:40:36,250 --> 00:40:38,350
+[ADAM]
+Well it smells like my grandmother.
+ດີມັນກິ່ນຫອມຄືກັບແມ່ເຖົ້າຂອງຂ້ອຍ.
+
+684
+00:40:38,850 --> 00:40:40,850
+[KATIE]
+You complain a lot.
+ເຈົ້າຮ້ອງທຸກຫຼາຍ.
+
+685
+00:40:41,350 --> 00:40:45,900
+[ADAM]
+You haven't met my mother. It's a miracle I do anything but complain.
+ເຈົ້າບໍ່ໄດ້ພົບແມ່ຂອງຂ້ອຍ.
+ມັນເປັນສິ່ງມະຫັດສະຈັນທີ່ຂ້ອຍເຮັດທຸກຢ່າງນອກຈາກການຮ້ອງທຸກ.
+
+686
+00:40:46,400 --> 00:40:49,900
+[KATIE]
+I try not to look at the world like that.
+ຂ້ອຍພະຍາຍາມບໍ່ເບິ່ງໂລກແບບນັ້ນ.
+
+687
+00:40:50,400 --> 00:40:56,400
+[ADAM]
+The world would be a boring place if we didn't complain. Come on. There's got to be something. One thing, just one thing, that drives you nuts.
+ໂລກຈະເປັນບ່ອນທີ່ເບື່ອຫນ່າຍຖ້າພວກເຮົາບໍ່ຮ້ອງທຸກ. ມາແລ້ວ.
+ຕ້ອງມີບາງສິ່ງບາງຢ່າງ. ສິ່ງດຽວ, ພຽງແຕ່ສິ່ງດຽວ, ທີ່ເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ.
+
+688
+00:40:56,900 --> 00:41:02,900
+[KATIE]
+Hmmm. I really don't like it when people at work finish all the coffee and don't refill the pot.
+Hmmm. ຂ້ອຍບໍ່ມັກມັນແທ້ໆເມື່ອຄົນໃນບ່ອນເຮັດວຽກຈົບກາເຟທັງ
+ຫມົດ ແລະບໍ່ຕື່ມຖ້ວຍອີກຄັ້ງ.
+
+689
+00:41:03,400 --> 00:41:05,400
+[ADAM]
+It's infuriating right? 77.
+ມັນໂຊກຮ້າຍແທ້ບໍ? 77.
+
+690
+00:41:05,900 --> 00:41:09,750
+[KATIE]
+I wouldn't say infuriating. It's just not good work place etiquette.
+ຂ້ອຍຈະບໍ່ເວົ້າວ່າໂຊກຮ້າຍ.
+ມັນພຽງແຕ່ບໍ່ແມ່ນລະບຽບການບ່ອນເຮັດວຽກທີ່ດີ.
+
+691
+00:41:10,250 --> 00:41:12,250
+[ADAM]
+To complaining.
+ເພື່ອຮ້ອງທຸກ.
+
+692
+00:41:12,750 --> 00:41:15,200
+[KATIE]
+Oh god, that's disgusting. I'm so sorry.
+ໂອ້ ພຣະເຈົ້າ, ມັນກຽດຊັງຫຼາຍ. ຂ້ອຍຂໍໂທດຫຼາຍ.
+
+693
+00:41:15,700 --> 00:41:17,700
+[KATIE]
+Hold on. I'm so sorry.
+ລໍຖ້າ. ຂ້ອຍຂໍໂທດຫຼາຍ.
+
+694
+00:41:18,200 --> 00:41:20,200
+[ADAM]
+Is it all gone?
+ມັນຫມົດແລ້ວບໍ?
+
+695
+00:41:20,700 --> 00:41:22,700
+[RACHEL]
+Adam?
+ແອັດມາມ?
+
+696
+00:41:23,200 --> 00:41:25,200
+[KATIE]
+I should probably be going.
+ຂ້ອຍຄວນໄປ.
+
+697
+00:41:25,700 --> 00:41:27,700
+[RACHEL]
+Adam?
+ແອັດມາມ?
+
+698
+00:41:28,200 --> 00:41:30,200
+[ADAM]
+Finally. Where have you been?
+ສຸດທ້າຍ. ເຈົ້າຢູ່ໃສ?
+
+699
+00:41:30,700 --> 00:41:32,800
+[RACHEL]
+I hope I'm not interrupting. 78.
+ຂ້ອຍຫວັງວ່າຂ້ອຍບໍ່ໄດ້ລົບກວນ. 78.
+
+700
+00:41:33,300 --> 00:41:35,750
+[ADAM]
+Oh, this is Dr. McRae, my therapist.
+ໂອ້, ນີ້ແມ່ນດຣ ແມັກຣາຍ, ນັກປິ່ນປົວຂອງຂ້ອຍ.
+
+701
+00:41:36,250 --> 00:41:38,250
+[RACHEL]
+This is your therapist?
+ນີ້ແມ່ນນັກປິ່ນປົວຂອງທ່ານບໍ?
+
+702
+00:41:38,750 --> 00:41:40,750
+[KATIE]
+Please, call me Katie.
+ກະລຸນາ, ເອີ້ນຂ້ອຍວ່າແຄຕີ້.
+
+703
+00:41:41,250 --> 00:41:43,700
+[RACHEL]
+OK. Katie. What are you doing here?
+ດີແລ້ວ. ແຄຕີ້. ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+704
+00:41:44,200 --> 00:41:46,650
+[ADAM]
+She drove me home. Ring a bell?
+ນາງຂັບຂີ່ຂ້ອຍກັບບ້ານ. ຮ້ອງດັງບໍ?
+
+705
+00:41:47,150 --> 00:41:53,150
+[RACHEL]
+Ugh. Shit. Thank you so much for doing that. Life's been a little crazy lately, which I'm sure Adam has told you all about. I love those shoes.
+ໂອ້. ສະບາຍດີ. ຂອບໃຈຫຼາຍໆທີ່ເຮັດສິ່ງນັ້ນ. ຊີວິດໄດ້ໂຊກຮ້າຍເລັກນ້ອຍໃນໄລຍະຜ່ານມາ
+, ເຊິ່ງຂ້ອຍແນ່ໃຈວ່າອາດາມໄດ້ບອກເຈົ້າທັງ ຫມົດ ກ່ຽວກັບ. ຂ້ອຍມັກເກີບເຫຼົ່ານັ້ນ.
+
+706
+00:41:53,650 --> 00:41:55,650
+[KATIE]
+Thanks...
+ຂອບໃຈ...
+
+707
+00:41:56,150 --> 00:42:00,350
+[KATIE]
+I'm going to go. I'll see you at our next session Adam.
+ຂ້ອຍຈະໄປ. ຂ້ອຍຈະເຫັນເຈົ້າໃນກອງປະຊຸມຕໍ່ໄປຂອງພວກເຮົາແອດມິນ.
+
+708
+00:42:00,850 --> 00:42:02,850
+[ADAM]
+Where have you been?
+ເຈົ້າຢູ່ໃສ?
+
+709
+00:42:03,350 --> 00:42:05,350
+[RACHEL]
+I was at the gallery.
+ຂ້ອຍຢູ່ຫ້ອງວາງສະແດງ.
+
+710
+00:42:05,850 --> 00:42:09,350
+[ADAM]
+You were supposed to pick me up. 8 hours ago.
+ເຈົ້າຄວນເອົາຂ້ອຍ. ເມື່ອ 8 ຊົ່ວໂມງກ່ອນ.
+
+711
+00:42:09,850 --> 00:42:15,850
+[RACHEL]
+I know. I'm sorry. I totally spaced. With the opening only three months away my head's just all over the place.  79.
+ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍຂໍໂທດ. ຂ້ອຍຫ່າງກັນຢ່າງສົມບູນ.
+ດ້ວຍການເປີດພຽງແຕ່ສາມເດືອນຫ່າງຈາກຫົວຂອງຂ້ອຍພຽງແຕ່ຢູ່ທົ່ວທຸກບ່ອນ. 79.
+
+712
+00:42:16,350 --> 00:42:21,600
+[RACHEL]
+Don't look at me like that. You know this is a hard time for me.
+ຢ່າເບິ່ງຂ້ອຍແບບນັ້ນ.
+ເຈົ້າຮູ້ວ່ານີ້ແມ່ນເວລາທີ່ຫຍຸ້ງຍາກ ສໍາ ລັບຂ້ອຍ.
+
+713
+00:42:22,100 --> 00:42:28,100
+[ADAM]
+You're right. Let me go back and talk to the doctor - see if maybe they can diagnose me with something that better suits your needs.
+ເຈົ້າເວົ້າຖືກຕ້ອງ. ຂໍໃຫ້ຂ້ອຍກັບຄືນໄປບ່ອນແລະເວົ້າກັບຫມໍ -
+ເບິ່ງວ່າບາງທີພວກເຂົາສາມາດກວດສອບຂ້ອຍໄດ້ກັບບາງສິ່ງບາງຢ່າງທີ່ ເຫມາະ ສົມກັບຄວາມຕ້ອງການຂອງທ່ານດີກວ່າ.
+
+714
+00:42:28,600 --> 00:42:32,450
+[RACHEL]
+I'm not just some car service here to shuttle you around!
+ຂ້ອຍບໍ່ແມ່ນພຽງແຕ່ບໍລິການລົດທີ່ນີ້ເພື່ອສົ່ງເຈົ້າໄປທົ່ວໄປ!
+
+715
+00:42:32,950 --> 00:42:38,950
+[ADAM]
+And my house isn't a summer camp. You can't just come and go as you please and not take some responsibility.
+ແລະເຮືອນຂອງຂ້ອຍບໍ່ແມ່ນຄ້າຍລະດູຮ້ອນ.
+ເຈົ້າບໍ່ສາມາດມາແລະໄປຕາມທີ່ເຈົ້າຕ້ອງການແລະບໍ່ຮັບຜິດຊອບບາງຢ່າງໄດ້.
+
+716
+00:42:39,450 --> 00:42:42,950
+[RACHEL]
+And what is it that I'm not taking responsibility for?
+ແລະມັນເປັນຫຍັງທີ່ຂ້ອຍບໍ່ໄດ້ຮັບຜິດຊອບ?
+
+717
+00:42:43,450 --> 00:42:45,450
+[ADAM]
+This. Us.
+ນີ້ແມ່ນ. ພວກເຮົາ.
+
+718
+00:42:45,950 --> 00:42:50,150
+[RACHEL]
+I can't handle this! You make it sound like I'm your wife.
+ຂ້ອຍບໍ່ສາມາດຮັບມືກັບເລື່ອງນີ້ໄດ້!
+ເຈົ້າເຮັດໃຫ້ມັນອອກສຽງຄືກັບວ່າຂ້ອຍເປັນເມຍຂອງທ່ານ.
+
+719
+00:42:50,650 --> 00:42:56,650
+[ADAM]
+You know what I thought the other day? That I might actually die without ever having sex again.
+ເຈົ້າຮູ້ວ່າຂ້ອຍຄິດຫຍັງໃນມື້ອື່ນ?
+ວ່າຂ້ອຍອາດຈະຕາຍແທ້ໆໂດຍບໍ່ຕ້ອງມີເພດສໍາພັນອີກເທື່ອຫນຶ່ງ.
+
+720
+00:42:57,150 --> 00:43:00,300
+[RACHEL]
+I'm sorry if your cancer isn't turning me on.
+ຂ້ອຍຂໍໂທດຖ້າມະເຮັງຂອງເຈົ້າບໍ່ໄດ້ເຮັດໃຫ້ຂ້ອຍຕື່ນເຕັ້ນ.
+
+721
+00:43:00,800 --> 00:43:06,800
+[RACHEL]
+You think this is easy for me seeing you sick like this? The past few months have been hard on me too. It's not always about you.
+ເຈົ້າຄິດວ່າມັນງ່າຍຕໍ່ຂ້ອຍທີ່ຈະເຫັນເຈົ້າເຈັບປ່ວຍແບບນີ້ບໍ?
+ສອງສາມເດືອນທີ່ຜ່ານມາແມ່ນຍາກຕໍ່ຂ້ອຍເຊັ່ນກັນ. ມັນບໍ່ແມ່ນກ່ຽວກັບເຈົ້າຢູ່ສະເຫມີ.
+
+722
+00:43:07,300 --> 00:43:09,300
+[ADAM]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+723
+00:43:09,800 --> 00:43:11,800
+[RACHEL]
+Why are you so good?
+ເຈົ້າດີຫຼາຍປານໃດ?
+
+724
+00:43:12,300 --> 00:43:14,300
+[ADAM]
+You're my Yam.
+ເຈົ້າເປັນຍາມຂອງຂ້ອຍ.
+
+725
+00:43:14,800 --> 00:43:16,800
+[RACHEL]
+What's wrong?
+ມີຫຍັງຂຶ້ນ?
+
+726
+00:43:17,300 --> 00:43:19,300
+[ADAM]
+I can't.
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.
+
+727
+00:43:19,800 --> 00:43:21,800
+[RACHEL]
+Why?
+ເປັນຫຍັງ?
+
+728
+00:43:22,300 --> 00:43:25,100
+[ADAM]
+I don't know what's wrong. It won't work.
+ຂ້ອຍບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນ. ມັນຈະບໍ່ເຮັດວຽກໄດ້.
+
+729
+00:43:25,600 --> 00:43:27,600
+[ADAM]
+Where's Alan?
+ແອລານຢູ່ໃສ?
+
+730
+00:43:28,100 --> 00:43:30,100
+[ADAM]
+Excuse me.
+ຂໍໂທດເດີ.
+
+731
+00:43:30,600 --> 00:43:32,600
+[OLD MAN]
+How can I help you?
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ແນວໃດ?
+
+732
+00:43:33,100 --> 00:43:35,100
+[ADAM]
+Where am I?
+ຂ້ອຍຢູ່ໃສ?
+
+733
+00:43:35,600 --> 00:43:37,600
+[OLD MAN]
+The After Life.
+ຊີວິດພາຍຫຼັງ.
+
+734
+00:43:38,100 --> 00:43:40,100
+[ADAM]
+This is Heaven?
+ນີ້ແມ່ນສະຫວັນບໍ?
+
+735
+00:43:40,600 --> 00:43:44,100
+[OLD MAN]
+Pretty great huh? They've even got a frozen yogurt machine.
+ມັນດີຫຼາຍບໍ? ພວກເຂົາຍັງມີເຄື່ອງຈັກຢອກເກັດທີ່ກ້ອນ.
+
+736
+00:43:44,600 --> 00:43:46,600
+[ADAM]
+There are lines in Heaven?
+ມີເສັ້ນໃນສະຫວັນບໍ?
+
+737
+00:43:47,100 --> 00:43:49,100
+[OLD MAN]
+It's worth it.
+ມັນຄຸ້ມຄ່າ.
+
+738
+00:43:49,600 --> 00:43:53,800
+[RABBI]
+So you want to know what's going to happen when you die?
+ເຈົ້າຢາກຮູ້ວ່າຈະເກີດຫຍັງຂຶ້ນເມື່ອເຈົ້າຕາຍບໍ?
+
+739
+00:43:54,300 --> 00:43:56,400
+[ADAM]
+I think it's a fair question.
+ຂ້ອຍຄິດວ່າມັນເປັນຄໍາຖາມທີ່ຍຸຕິທໍາ.
+
+740
+00:43:56,900 --> 00:44:02,900
+[RABBI]
+Fair yes, but impossible for me to answer. Our deaths, like our lives, have meaning and are all part of God's plan. How should I know what God has planned for you. Maybe if you came to service once in a while...
+ແມ່ນແລ້ວ, ແຕ່ມັນບໍ່ສາມາດຕອບໄດ້ ສໍາ ລັບຂ້ອຍ. ການຕາຍຂອງພວກເຮົາ, ຄືກັບຊີວິດຂອງພວກເຮົາ, ມີຄວາມ ຫມາຍ ແລະທັງ ຫມົດ ແມ່ນສ່ວນ
+ຫນຶ່ງ ຂອງແຜນການຂອງພຣະເຈົ້າ. ຂ້ອຍຄວນຮູ້ແນວໃດວ່າພຣະເຈົ້າໄດ້ວາງແຜນ ສໍາ ລັບເຈົ້າ. ບາງທີຖ້າເຈົ້າມາບໍລິການບາງຄັ້ງ...
+
+741
+00:44:03,400 --> 00:44:06,200
+[ADAM]
+Well am I going to go to Heaven?
+ຂ້ອຍຈະໄປສະຫວັນບໍ?
+
+742
+00:44:06,700 --> 00:44:08,700
+[RABBI]
+Probably.
+ບາງທີ.
+
+743
+00:44:09,200 --> 00:44:13,050
+[ADAM]
+What if I want to just die? That's it. No Heaven.
+ຖ້າຂ້ອຍຢາກຕາຍພຽງແຕ່ແນວໃດ? ນັ້ນແມ່ນມັນ. ບໍ່ມີສະຫວັນ.
+
+744
+00:44:13,550 --> 00:44:19,550
+[RABBI]
+That's like buying a ticket for a cruise and then not going. The Afterlife is where the fun begins.
+ນັ້ນຄືກັບການຊື້ປີ້ ສໍາ ລັບການເດີນທາງເຮືອແລະຫຼັງຈາກນັ້ນບໍ່ໄປ
+. ຊີວິດພາຍຫຼັງແມ່ນບ່ອນທີ່ຄວາມມ່ວນຊື່ນເລີ່ມຕົ້ນ.
+
+745
+00:44:20,050 --> 00:44:26,050
+[ADAM]
+How can being stuck in some nonexistent void with my grandparents be fun. I spent my entire life trying to get away from my family, now I'm going to have to spend an eternity with them.
+ການຕິດຢູ່ໃນຄວາມຫວ່າງທີ່ບໍ່ມີຢູ່ກັບພໍ່ແມ່ຂອງຂ້ອຍສາມາດມ່ວນຊື່ນໄດ້ແນວໃດ. ຂ້ອຍໄດ້ໃຊ້ຊີວິດທັງ
+ຫມົດ ຂອງຂ້ອຍພະຍາຍາມຫນີຈາກຄອບຄົວຂອງຂ້ອຍ, ດຽວນີ້ຂ້ອຍຈະຕ້ອງໃຊ້ເວລາຕະຫຼອດໄປກັບພວກເຂົາ.
+
+746
+00:44:26,550 --> 00:44:32,550
+[RABBI]
+Adam, you can not look at death as a curse. Even in death we are all still part of God. Life on Earth is just the beginning. 83.
+ອາດາມ, ເຈົ້າບໍ່ສາມາດເບິ່ງຄວາມຕາຍເປັນຄໍາສາບາບໄດ້. ເຖິງແມ່ນວ່າໃນຄວາມຕາຍພວກເຮົາທຸກຄົນຍັງເປັນສ່ວນ
+ຫນຶ່ງ ຂອງພຣະເຈົ້າ. ຊີວິດໃນໂລກແມ່ນພຽງແຕ່ເລີ່ມຕົ້ນເທົ່ານັ້ນ. 83.
+
+747
+00:44:33,050 --> 00:44:35,150
+[ADAM]
+But that's not what I want.
+ແຕ່ມັນບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍຢາກ.
+
+748
+00:44:35,650 --> 00:44:39,150
+[RABBI]
+Oy. Then find another religion. I don't make the rules.
+ໂອ້. ຫຼັງຈາກນັ້ນຊອກຫາສາສະຫນາອື່ນ. ຂ້ອຍບໍ່ໄດ້ສ້າງກົດລະບຽບ.
+
+749
+00:44:39,650 --> 00:44:42,450
+[KATIE]
+You're being awfully quiet today. Is everything okay?
+ເຈົ້າງຽບສະຫງົບຫຼາຍມື້ນີ້. ທຸກຢ່າງດີບໍ?
+
+750
+00:44:42,950 --> 00:44:45,050
+[ADAM]
+I'm going to die aren't I?
+ຂ້ອຍຈະຕາຍ, ແມ່ນບໍ?
+
+751
+00:44:45,550 --> 00:44:47,550
+[KATIE]
+What are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
+
+752
+00:44:48,050 --> 00:44:50,050
+[ADAM]
+It's true.
+ມັນເປັນຄວາມຈິງ.
+
+753
+00:44:50,550 --> 00:44:52,550
+[KATIE]
+We don't know that.
+ພວກເຮົາບໍ່ຮູ້ເລື່ອງນັ້ນ.
+
+754
+00:44:53,050 --> 00:44:55,050
+[ADAM]
+I'm not getting any better.
+ຂ້ອຍບໍ່ດີຂຶ້ນເລີຍ.
+
+755
+00:44:55,550 --> 00:44:58,000
+[KATIE]
+Don't say that, you're doing so well.
+ຢ່າເວົ້າແບບນັ້ນ, ເຈົ້າ ກໍາ ລັງເຮັດໄດ້ດີຫຼາຍ.
+
+756
+00:44:58,500 --> 00:45:04,500
+[ADAM]
+Did you know that they found a Quasar 7 billion light years away? 7 billion light years! It's more than 3 billion years older than our planet, and we're just seeing it now; and you think I'm going to live?
+ເຈົ້າຮູ້ບໍວ່າພວກເຂົາພົບ Quasar ຢູ່ຫ່າງຈາກ 7 ພັນລ້ານປີແສງສະຫວ່າງບໍ? 7 ຕື້ປີແມງສະຫວ່າງ! ມັນອາຍຸຫຼາຍກ່ວາ
+3 ລ້ານປີກ່ວາໂລກຂອງພວກເຮົາ, ແລະພວກເຮົາພຽງແຕ່ເຫັນມັນດຽວນີ້; ແລະເຈົ້າຄິດວ່າຂ້ອຍຈະດໍາລົງຊີວິດບໍ?
+
+757
+00:45:05,000 --> 00:45:07,100
+[KATIE]
+What are you talking about? 84.
+ເຈົ້າເວົ້າຫຍັງຢູ່? 84.
+
+758
+00:45:07,600 --> 00:45:13,600
+[ADAM]
+Cancer is an epidemic! It killed Alan, it's going to kill me, and it's going to kill millions more after me. There's nothing anybody can do.
+ມະເຮັງແມ່ນການລະບາດ! ມັນໄດ້ຂ້າແອລານ, ມັນຈະຂ້າຂ້ອຍ,
+ແລະມັນຈະຂ້າຄົນອີກຫຼາຍລ້ານຄົນຫຼັງຈາກຂ້ອຍ. ບໍ່ມີຫຍັງໃຜສາມາດເຮັດໄດ້.
+
+759
+00:45:14,100 --> 00:45:16,900
+[KATIE]
+This is really good Adam. Let it out.
+ນີ້ແມ່ນແອດມາມທີ່ດີແທ້ໆ. ໃຫ້ມັນອອກໄປ.
+
+760
+00:45:17,400 --> 00:45:23,400
+[ADAM]
+Will you stop! I can't do this anymore. It doesn't matter. None of it. I'm going to die and with nothing to show for my life. 100 years from now my legacy be will be that of just another person dead of cancer. That's it.
+ເຈົ້າຈະຢຸດເຊົາບໍ! ຂ້ອຍບໍ່ສາມາດເຮັດສິ່ງນີ້ອີກຕໍ່ໄປ. ມັນບໍ່ສໍາຄັນ. ບໍ່ມີຫຍັງເລີຍ. ຂ້ອຍຈະຕາຍແລະບໍ່ມີຫຍັງທີ່ຈະສະແດງໃຫ້ເຫັນ
+ສໍາ ລັບຊີວິດຂອງຂ້ອຍ. ໃນ 100 ປີຈາກປັດຈຸບັນມໍລະດົກຂອງຂ້ອຍຈະເປັນຂອງຄົນອື່ນທີ່ຕາຍຈາກມະເຮັງເທົ່ານັ້ນ. ນັ້ນແມ່ນມັນ.
+
+761
+00:45:23,900 --> 00:45:29,900
+[KATIE]
+This helplessness you're feeling is normal. These emotions you're holding onto are what make you human. But it doesn't mean you can just stop living your life. Look at how you've grown over the past few months, you can't just throw it all away...Talk to me.
+ຄວາມບໍ່ມີຄວາມຊ່ວຍເຫຼືອທີ່ເຈົ້າຮູ້ສຶກແມ່ນປົກກະຕິ. ຄວາມຮູ້ສຶກເຫຼົ່ານີ້ທີ່ເຈົ້າຖືໄວ້ແມ່ນສິ່ງທີ່ເຮັດໃຫ້ເຈົ້າເປັນມະນຸດ. ແຕ່ມັນບໍ່ໄດ້ ຫມາຍ
+ຄວາມວ່າເຈົ້າສາມາດຢຸດການດໍາລົງຊີວິດຂອງທ່ານໄດ້. ເບິ່ງວ່າເຈົ້າເຕີບໃຫຍ່ໃນສອງສາມເດືອນທີ່ຜ່ານມາແນວໃດ, ເຈົ້າບໍ່ສາມາດຖິ້ມມັນທັງ ຫມົດ ໄດ້... ເວົ້າກັບຂ້ອຍ.
+
+762
+00:45:30,400 --> 00:45:36,000
+[ADAM]
+I know you're only trying to help, but this isn't working for me anymore. I'm sorry.
+ຂ້ອຍຮູ້ວ່າເຈົ້າພຽງແຕ່ພະຍາຍາມຊ່ວຍເຫຼືອເທົ່ານັ້ນ,
+ແຕ່ສິ່ງນີ້ບໍ່ໄດ້ເຮັດວຽກ ສໍາ ລັບຂ້ອຍອີກຕໍ່ໄປ. ຂ້ອຍຂໍໂທດ.
+
+763
+00:45:36,500 --> 00:45:38,500
+[SUPER: NOVEMBER]
+85.
+85.
+
+764
+00:45:39,000 --> 00:45:41,100
+[ADAM]
+I need a new lint brush.
+ຂ້ອຍຕ້ອງການກະດານຜ້າຜ້າໃຫມ່.
+
+765
+00:45:41,600 --> 00:45:43,600
+[RACHEL]
+Okay, I'll pick one up.
+ດີ, ຂ້ອຍຈະເອົາຫນຶ່ງ.
+
+766
+00:45:44,100 --> 00:45:47,600
+[ADAM]
+And I have a doctor's appointment next Thursday...The big one.
+ແລະຂ້ອຍມີການພົບປະກັບທ່ານຫມໍໃນວັນພະຫັດຫນ້າ... ຄົນໃຫຍ່.
+
+767
+00:45:48,100 --> 00:45:50,100
+[RACHEL]
+Am I getting fat?
+ຂ້ອຍ ກໍາ ລັງໄຂມັນບໍ?
+
+768
+00:45:50,600 --> 00:45:52,600
+[RACHEL]
+What?
+ຫຍັງ?
+
+769
+00:45:53,100 --> 00:45:55,100
+[ADAM]
+Are you listening to me?
+ເຈົ້າຟັງຂ້ອຍບໍ?
+
+770
+00:45:55,600 --> 00:45:57,600
+[RACHEL]
+Yes.
+ແມ່ນແລ້ວ.
+
+771
+00:45:58,100 --> 00:46:00,100
+[ADAM]
+So you'll take me?
+ສະນັ້ນເຈົ້າຈະພາຂ້ອຍໄປບໍ?
+
+772
+00:46:00,600 --> 00:46:02,600
+[RACHEL]
+Of course.
+ແນ່ນອນ.
+
+773
+00:46:03,100 --> 00:46:05,100
+[PHIL]
+You look great.
+ເຈົ້າເບິ່ງດີເລີດ.
+
+774
+00:46:05,600 --> 00:46:07,600
+[ADAM]
+Really?
+ແທ້ບໍ?
+
+775
+00:46:08,100 --> 00:46:10,100
+[PHIL]
+Yeah, look at you.
+ແມ່ນແລ້ວ, ເບິ່ງຕົວເອງແມ.
+
+776
+00:46:10,600 --> 00:46:13,050
+[ADAM]
+I want to come back to work.
+ຂ້ອຍຢາກກັບມາເຮັດວຽກ.
+
+777
+00:46:13,550 --> 00:46:15,650
+[PHIL]
+You want to come back? Here?
+ເຈົ້າຢາກກັບມາບໍ? ຢູ່ບ່ອນນີ້ບໍ?
+
+778
+00:46:16,150 --> 00:46:18,250
+[ADAM]
+What's so crazy about that? 87.
+ມີຫຍັງໂຊກຮ້າຍຫຼາຍໃນເລື່ອງນັ້ນ? 87.
+
+779
+00:46:18,750 --> 00:46:22,600
+[PHIL]
+You could be anywhere right now, and this is that place?
+ເຈົ້າສາມາດຢູ່ບ່ອນໃດກໍ່ໄດ້ໃນເວລານີ້, ແລະນີ້ແມ່ນບ່ອນນັ້ນບໍ?
+
+780
+00:46:23,100 --> 00:46:25,100
+[ADAM]
+Yeah.
+ແມ່ນແລ້ວ.
+
+781
+00:46:25,600 --> 00:46:28,050
+[PHIL]
+Are you sure that's a good idea?
+ເຈົ້າແນ່ໃຈວ່າມັນເປັນຄວາມຄິດທີ່ດີບໍ?
+
+782
+00:46:28,550 --> 00:46:30,550
+[PHIL]
+...Given...your current health?
+... ເນື່ອງຈາກ... ສຸຂະພາບຂອງທ່ານໃນປະຈຸບັນບໍ?
+
+783
+00:46:31,050 --> 00:46:33,050
+[ADAM]
+You said I look great.
+ເຈົ້າບອກວ່າຂ້ອຍເບິ່ງດີເລີດ.
+
+784
+00:46:33,550 --> 00:46:35,650
+[PHIL]
+Yeah for a guy with cancer.
+ແມ່ນແລ້ວ ສໍາ ລັບຜູ້ຊາຍທີ່ມີມະເຮັງ.
+
+785
+00:46:36,150 --> 00:46:42,150
+[PHIL]
+Alright, what the hell? I'd love to have you back. Let's be honest this place is falling apart without you.
+ດີແລ້ວ, ຫຍັງເປັນຫຍັງ? ຂ້ອຍຢາກໃຫ້ເຈົ້າກັບມາ.
+ໃຫ້ເປັນຈິງໃຈບ່ອນນີ້ ກໍາ ລັງແຕກແຍກໂດຍບໍ່ມີເຈົ້າ.
+
+786
+00:46:42,650 --> 00:46:44,650
+[ADAM]
+Thank you Phil.
+ຂອບໃຈຟິລ.
+
+787
+00:46:45,150 --> 00:46:48,300
+[PHIL]
+So you're really okay? I mean, the cancer, is-
+ສະນັ້ນເຈົ້າບໍ່ເປັນຫຍັງແທ້ບໍ? ຂ້ອຍຫມາຍຄວາມວ່າ, ມະເຮັງ, ແມ່ນ -
+
+788
+00:46:48,800 --> 00:46:54,800
+[ADAM]
+Oh it's really good. We've come to an understanding. It takes whatever it wants and depletes me of my every will to live, and I let it.
+ໂອ້ ມັນດີແທ້ໆ. ພວກເຮົາໄດ້ເຂົ້າເຖິງຄວາມເຂົ້າໃຈ. ມັນເອົາທຸກຢ່າງທີ່ມັນຕ້ອງການແລະເຮັດໃຫ້ຂ້ອຍ
+ຫມົດ ຄວາມຕ້ອງການທັງ ຫມົດ ຂອງຂ້ອຍທີ່ຈະດໍາລົງຊີວິດ, ແລະຂ້ອຍປ່ອຍໃຫ້ມັນ.
+
+789
+00:46:55,300 --> 00:46:57,300
+[PHIL]
+Welcome back.
+ສະບາຍດີກັບມາ.
+
+790
+00:46:57,800 --> 00:47:03,800
+[SETH]
+And if you look over on your left you'll see our newest exhibit "The Last Days Pompeii." Buried in 79 AD by the catastrophic eruption of Mt. Vesuvius, Pompeii remained hidden and forgotten until 1748 when archeologists began to excavate the site. Here we see exquisitely preserved objects that offer a glimpse into the day-to-day life of this ancient city.
+ແລະຖ້າເຈົ້າເບິ່ງທາງຊ້າຍຂອງທ່ານເຈົ້າຈະເຫັນງານວາງສະແດງທີ່ຫຼ້າສຸດຂອງພວກເຮົາ" ມື້ສຸດທ້າຍຂອງປອມເປີຍ." ຖືກຝັງໄວ້ໃນປີ 79 AD ໂດຍການລະເບີດທີ່ຮ້າຍແຮງຂອງພູເວຊູເວຍ,
+ປອມເປຍຍັງເຊື່ອງໄວ້ແລະລືມຈົນຮອດປີ 1748 ເມື່ອນັກປະດິດຖາວອນເລີ່ມຂຸດຄົ້ນສະຖານທີ່. ຢູ່ບ່ອນນີ້ພວກເຮົາເຫັນວັດຖຸທີ່ຖືກຮັກສາໄວ້ຢ່າງສວຍງາມທີ່ສະ ເຫນີ ການເບິ່ງຊີວິດປະຈໍາວັນຂອງເມືອງບູຮານນີ້.
+
+791
+00:47:04,300 --> 00:47:10,300
+[SETH]
+This here is Adam, one of our curators. Adam do you want to tell us what you're working on?
+ນີ້ແມ່ນແອັດມາມ, ຫນຶ່ງ ໃນຜູ້ຄຸ້ມຄອງຂອງພວກເຮົາ. ແອດມາມ
+ເຈົ້າຢາກບອກພວກເຮົາວ່າເຈົ້າ ກໍາ ລັງເຮັດວຽກຫຍັງ?
+
+792
+00:47:10,800 --> 00:47:16,050
+[ADAM]
+Gladly. This here is a depiction of what Pompeii's final 19 hours probably looked like.
+ດ້ວຍຄວາມຍິນດີ. ນີ້ແມ່ນຮູບພາບຂອງສິ່ງທີ່ເວລາ
+19 ຊົ່ວໂມງສຸດທ້າຍຂອງໂມເປຍອາດຈະເບິ່ງຄືວ່າ.
+
+793
+00:47:16,550 --> 00:47:22,550
+[ADAM]
+According to Pliny the Younger - "You could hear women lamenting, children crying, men shouting. There were some so afraid of death that they prayed for death. Many raised their hands to the gods, and even more believed that there were no gods any longer, and that this was one unending night for the world."
+ອີງຕາມປລິນີ ຫນຸ່ມ -"ເຈົ້າສາມາດຍິນແມ່ຍິງຮ້ອງໄຫ້, ເດັກນ້ອຍຮ້ອງໄຫວ, ຜູ້ຊາຍຮ້ອງໄຮ. ມີບາງຄົນຢ້ານກົວຄວາມຕາຍຫຼາຍຈົນພວກເຂົາອະທິຖານເພື່ອຄວາມຕາຍ
+. ຫຼາຍຄົນຍົກມືໄປຫາພະເຈົ້າ, ແລະຫຼາຍກວ່ານັ້ນເຊື່ອວ່າບໍ່ມີພະເຈົ້າອີກຕໍ່ໄປ, ແລະວ່ານີ້ແມ່ນຄືນ ຫນຶ່ງ ທີ່ບໍ່ມີສິ້ນສຸດ ສໍາ ລັບໂລກ."
+
+794
+00:47:23,050 --> 00:47:27,950
+[SETH]
+Ok. Moving along we see the beautiful watercolor paintings of John James Audobon. 89.
+ດີແລ້ວ. ຍ່າງໄປພວກເຮົາເຫັນຮູບແຕ້ມສີນ້
+ໍາ ທີ່ສວຍງາມຂອງຈອນ ເຈມສ໌ ອູດໂບນ. 89.
+
+795
+00:47:28,450 --> 00:47:31,250
+[ADAM]
+I'll be in Pompeii if anyone needs me.
+ຂ້ອຍຈະຢູ່ປອມເປຍຖ້າໃຜຕ້ອງການຂ້ອຍ.
+
+796
+00:47:31,750 --> 00:47:34,550
+[PHIL]
+You feeling okay? You don't look so good.
+ເຈົ້າຮູ້ສຶກດີບໍ? ເຈົ້າເບິ່ງບໍ່ດີຫຼາຍ.
+
+797
+00:47:35,050 --> 00:47:37,050
+[ADAM]
+Could be worse. Right?
+ມັນອາດຈະຮ້າຍແຮງກວ່າເກົ່າ. ແມ່ນບໍ?
+
+798
+00:47:37,550 --> 00:47:39,550
+[PHIL]
+Jesus!
+ພຣະເຢຊູ!
+
+799
+00:47:40,050 --> 00:47:42,850
+[PHIL]
+Listen Adam...I don't know how to say this...
+ຟັງແອັດມາມ... ຂ້ອຍບໍ່ຮູ້ວ່າຈະເວົ້າແບບນີ້ແນວໃດ...
+
+800
+00:47:43,350 --> 00:47:46,150
+[ADAM]
+Don't worry...I get it. You're a good guy.
+ຢ່າກັງວົນ... ຂ້ອຍເຂົ້າໃຈມັນ. ເຈົ້າເປັນຄົນດີ.
+
+801
+00:47:46,650 --> 00:47:51,200
+[PHIL]
+Come back when you're better. You know you'll always have a home here.
+ກັບມາເມື່ອເຈົ້າດີຂຶ້ນ.
+ເຈົ້າຮູ້ວ່າເຈົ້າຈະມີເຮືອນຢູ່ບ່ອນນີ້ຕະຫຼອດໄປ.
+
+802
+00:47:51,700 --> 00:47:57,700
+[RACHEL]
+Hey, it's Rachel. I must be doing something really important. I'll give you a call when I'm done...yay!
+ເຮ້, ມັນແມ່ນຣາເຊວ. ຂ້ອຍຕ້ອງ ກໍາ ລັງເຮັດບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນແທ້ໆ
+. ຂ້ອຍຈະໂທຫາເຈົ້າເມື່ອຂ້ອຍເຮັດແລ້ວ... ແມ່ນແລ້ວ!
+
+803
+00:47:58,200 --> 00:48:04,200
+[ADAM]
+Hey, it's Adam. Where are you? Maybe you forgot, but my appointment is today. So call me back.
+ເຮ້, ມັນແມ່ນອາດາມ. ເຈົ້າຢູ່ໃສ? ບາງທີເຈົ້າລືມແລ້ວ,
+ແຕ່ການພົບປະຂອງຂ້ອຍແມ່ນມື້ນີ້. ສະນັ້ນໂທຫາຂ້ອຍຄືນ.
+
+804
+00:48:04,700 --> 00:48:06,700
+[ADAM]
+Fuck!
+ສະບາຍດີ!
+
+805
+00:48:07,200 --> 00:48:09,200
+[SETH]
+Yoooooo.
+ໂຢ້.
+
+806
+00:48:09,700 --> 00:48:12,850
+[ADAM]
+Hey man, I need you to do me -
+ເຮ້ ຜູ້ຊາຍ, ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າເຮັດຂ້ອຍ -
+
+807
+00:48:13,350 --> 00:48:15,350
+[SETH]
+Not around. Leave a message.
+ບໍ່ຢູ່ໃກ້ໆ. ໃຫ້ຂໍ້ຄວາມໄວ້.
+
+808
+00:48:15,850 --> 00:48:17,850
+[EDITH]
+Hello,
+ສະບາຍດີ,
+
+809
+00:48:18,350 --> 00:48:20,350
+[ADAM]
+Hi mom.
+ສະບາຍດີແມ່.
+
+810
+00:48:20,850 --> 00:48:26,850
+[CUTE NURSE]
+The Doctor wanted me to apologize for running late, he's just in with another patient, but should be out in a few minutes. You guys holding up alright?
+ດອກຕໍຢາກໃຫ້ຂ້ອຍຂໍໂທດທີ່ຊ້າ, ລາວພຽງແຕ່ຢູ່ໃນກັບຄົນເຈັບຄົນອື່ນ
+, ແຕ່ຄວນອອກໃນສອງສາມນາທີ. ພວກເຈົ້າຢູ່ດີບໍ?
+
+811
+00:48:27,350 --> 00:48:32,600
+[EDITH]
+It's very cold in here. Is there anyway you can turn down the Air Conditioning?
+ມັນເຢັນຫຼາຍຢູ່ນີ້.
+ມີວິທີໃດກໍ່ຕາມທີ່ທ່ານສາມາດປິດເຄື່ອງປັບອາກາດໄດ້ບໍ?
+
+812
+00:48:33,100 --> 00:48:36,250
+[CUTE NURSE]
+Unfortunately the temperature is controlled by a central thermostat.
+ໂຊກຮ້າຍວ່າອຸນຫະພູມຖືກຄວບຄຸມໂດຍເຄື່ອງເຮັດຄວາມຮ້ອນສູນກາງ.
+
+813
+00:48:36,750 --> 00:48:38,750
+[EDITH]
+My son has cancer.
+ລູກຊາຍຂອງຂ້ອຍມີມະເຮັງ.
+
+814
+00:48:39,250 --> 00:48:44,150
+[CUTE NURSE]
+I'm sorry, really, if I could I would, but there's nothing I can do.
+ຂ້ອຍຂໍໂທດ, ແທ້ຈິງແລ້ວ, ຖ້າຂ້ອຍສາມາດເຮັດໄດ້ຂ້ອຍຈະເຮັດ
+, ແຕ່ບໍ່ມີຫຍັງທີ່ຂ້ອຍເຮັດໄດ້.
+
+815
+00:48:44,650 --> 00:48:46,750
+[ADAM]
+Don't worry about it.  I'm fine.
+ຢ່າກັງວົນກ່ຽວກັບມັນ. ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+816
+00:48:47,250 --> 00:48:50,750
+[CUTE NURSE]
+Are you sure? I could get you a blanket. 92.
+ເຈົ້າແນ່ໃຈບໍ? ຂ້ອຍສາມາດເອົາຜ້າປົກໃຫ້ເຈົ້າໄດ້. 92.
+
+817
+00:48:51,250 --> 00:48:53,700
+[ADAM]
+No, really, I'm okay. But thank you.
+ບໍ່, ແທ້ຈິງແລ້ວ, ຂ້ອຍບໍ່ເປັນຫຍັງ. ແຕ່ຂອບໃຈ.
+
+818
+00:48:54,200 --> 00:48:56,200
+[EDITH]
+I'd love a blanket.
+ຂ້ອຍຢາກມີຜ້າປົກ.
+
+819
+00:48:56,700 --> 00:48:58,700
+[ADAM]
+We're fine.
+ພວກເຮົາບໍ່ເປັນຫຍັງ.
+
+820
+00:48:59,200 --> 00:49:02,700
+[CUTE NURSE]
+Okay, but you let me know if you need anything.
+ດີ, ແຕ່ເຈົ້າໃຫ້ຂ້ອຍຮູ້ຖ້າເຈົ້າຕ້ອງການຫຍັງ.
+
+821
+00:49:03,200 --> 00:49:05,200
+[EDITH]
+I don't like her.
+ຂ້ອຍບໍ່ມັກນາງ.
+
+822
+00:49:05,700 --> 00:49:07,700
+[EDITH]
+You feel warm.
+ເຈົ້າຮູ້ສຶກອົບອຸ່ນ.
+
+823
+00:49:08,200 --> 00:49:10,200
+[ADAM]
+I'm fine.
+ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+824
+00:49:10,700 --> 00:49:12,700
+[EDITH]
+Take these.
+ເອົາສິ່ງເຫຼົ່ານີ້.
+
+825
+00:49:13,200 --> 00:49:15,650
+[ADAM]
+You're like some kind of deranged pusher.
+ເຈົ້າຄືກັບຄົນກົດດັນທີ່ໂຊກຮ້າຍບາງຢ່າງ.
+
+826
+00:49:16,150 --> 00:49:22,150
+[EDITH]
+Do you know what it's like to fear losing your son? No. You don't. When you have children of your own we can discuss it. Now take the pills.
+ເຈົ້າຮູ້ບໍວ່າມັນເປັນແນວໃດທີ່ຈະຢ້ານທີ່ຈະສູນເສຍລູກຊາຍຂອງທ່ານ? ບໍ່. ເຈົ້າບໍ່ເຮັດ
+. ເມື່ອເຈົ້າມີລູກຂອງເຈົ້າເອງພວກເຮົາສາມາດປຶກສາຫາລືມັນໄດ້. ດຽວນີ້ກິນເມັດ.
+
+827
+00:49:22,650 --> 00:49:24,650
+[EDITH]
+Huh.
+ຮາ.
+
+828
+00:49:25,150 --> 00:49:27,150
+[ADAM]
+What?
+ຫຍັງ?
+
+829
+00:49:27,650 --> 00:49:29,650
+[EDITH]
+Oh nothing.
+ໂອ້ ບໍ່ມີຫຍັງເລີຍ.
+
+830
+00:49:30,150 --> 00:49:32,150
+[ADAM]
+What?
+ຫຍັງ?
+
+831
+00:49:32,650 --> 00:49:35,450
+[EDITH]
+It's nothing, he went to a state college.
+ມັນບໍ່ມີຫຍັງເລີຍ, ລາວໄປວິທະຍາໄລລັດ.
+
+832
+00:49:35,950 --> 00:49:37,950
+[ADAM]
+You're unbelievable.
+ເຈົ້າບໍ່ເຊື່ອໄດ້.
+
+833
+00:49:38,450 --> 00:49:42,300
+[EDITH]
+I just worry that you're not getting the best care possible.
+ຂ້ອຍພຽງແຕ່ກັງວົນວ່າເຈົ້າບໍ່ໄດ້ໄດ້ຮັບການເບິ່ງແຍງທີ່ດີທີ່ສຸດທີ່ເປັນໄປໄດ້
+.
+
+834
+00:49:42,800 --> 00:49:47,350
+[ADAM]
+Well who needs a doctor when they've got you and your fanny pack?
+ດີໃຜຕ້ອງການຫມໍເມື່ອພວກເຂົາມີເຈົ້າແລະກະເປົາ fanny ຂອງທ່ານ?
+
+835
+00:49:47,850 --> 00:49:53,850
+[EDITH]
+You can be a little shit sometimes, you know that? You think I don't know what's best for you? I birthed you. You came out of me. I am your mother, for better or for worse, so accept it.  You don't like this, well I'm sorry. It's my own way of caring.
+ເຈົ້າສາມາດເປັນໂຊກແຊງບາງຄັ້ງ, ເຈົ້າຮູ້ບໍ? ເຈົ້າຄິດວ່າຂ້ອຍບໍ່ຮູ້ວ່າສິ່ງທີ່ດີທີ່ສຸດ ສໍາ ລັບເຈົ້າບໍ? ຂ້ອຍເກີດເຈົ້າ. ເຈົ້າອອກມາຈາກຂ້ອຍ.
+ຂ້ອຍເປັນແມ່ຂອງເຈົ້າ, ສໍາລັບທີ່ດີຫຼືຮ້າຍແຮງ, ສະນັ້ນຍອມຮັບມັນ. ເຈົ້າບໍ່ມັກສິ່ງນີ້, ດີຂ້ອຍຂໍໂທດ. ມັນແມ່ນວິທີຂອງຂ້ອຍເອງໃນການເບິ່ງແຍງ.
+
+836
+00:49:54,350 --> 00:50:00,350
+[ADAM]
+Well stop! You're driving me crazy. With the comments and the pills every five minutes. Just stop. I'm not dad. I can take care of myself. 94.
+ດີຢຸດ! ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍ. ດ້ວຍ ຄໍາ ເຫັນແລະເມັດທຸກໆຫ້ານາທີ
+. ພຽງແຕ່ຢຸດ. ຂ້ອຍບໍ່ແມ່ນພໍ່. ຂ້ອຍສາມາດເບິ່ງແຍງຕົວເອງໄດ້. 94.
+
+837
+00:50:00,850 --> 00:50:02,950
+[ADAM]
+I'm sorry, I didn't mean it.
+ຂ້ອຍຂໍໂທດ, ຂ້ອຍບໍ່ໄດ້ຫມາຍຄວາມວ່າມັນ.
+
+838
+00:50:03,450 --> 00:50:05,900
+[EDITH]
+Yes you did. I drive you crazy.
+ແມ່ນແລ້ວເຈົ້າເຮັດ. ຂ້ອຍເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ.
+
+839
+00:50:06,400 --> 00:50:08,400
+[ADAM]
+Mom.
+ແມ່.
+
+840
+00:50:08,900 --> 00:50:11,700
+[EDITH]
+You're all I've got. Look at your father.
+ເຈົ້າເປັນສິ່ງດຽວທີ່ຂ້ອຍມີ. ເບິ່ງພໍ່ເຈົ້າແມ.
+
+841
+00:50:12,200 --> 00:50:18,200
+[EDITH]
+I've lost him. My true love, gone. I'm never going see him again, at least not in this life. He spent his whole life priding himself on his independence, always too stubborn to ask for help and now look at the son of a bitch. You happy? You like shitting yourself?
+ຂ້ອຍໄດ້ສູນເສຍລາວແລ້ວ. ຄວາມຮັກທີ່ແທ້ຈິງຂອງຂ້ອຍ, ໄປແລ້ວ. ຂ້ອຍຈະບໍ່ເຫັນລາວອີກເທື່ອຫນຶ່ງ, ຢ່າງຫນ້ອຍບໍ່ແມ່ນໃນຊີວິດນີ້. ລາວໄດ້ໃຊ້ເວລາຊີວິດທັງ ຫມົດ
+ຂອງຕົນພາກພູມໃຈດ້ວຍຄວາມເປັນເອກະລາດຂອງລາວ, ຍາມໃດກໍ່ແຂງແຮງເກີນໄປທີ່ຈະຂໍຄວາມຊ່ວຍເຫຼືອແລະດຽວນີ້ເບິ່ງລູກແຊກຮ້າຍ. ເຈົ້າມີຄວາມສຸກບໍ? ເຈົ້າມັກສູບຕົວເອງບໍ?
+
+842
+00:50:18,700 --> 00:50:20,700
+[ADAM]
+Mom!
+ແມ່!
+
+843
+00:50:21,200 --> 00:50:27,200
+[EDITH]
+He was the greatest thing to ever happen to me. And then I had you, and that was even greater. So if I hover and threaten your independence, so what? You have a mother who loves you more than anything. Is that so awful?
+ລາວເປັນສິ່ງທີ່ດີທີ່ສຸດທີ່ເຄີຍເກີດຂຶ້ນກັບຂ້ອຍ. ແລະຫຼັງຈາກນັ້ນຂ້ອຍມີເຈົ້າ, ແລະມັນໃຫຍ່ກວ່າເກົ່າ.
+ສະນັ້ນຖ້າຂ້ອຍຍ່າງແລະຂົ່ມຂູ່ເອກະລາດຂອງທ່ານ, ສະນັ້ນຫຍັງ? ເຈົ້າມີແມ່ທີ່ຮັກເຈົ້າຫຼາຍກ່ວາສິ່ງໃດໆ. ມັນຮ້າຍແຮງຫຼາຍບໍ?
+
+844
+00:50:27,700 --> 00:50:29,700
+[ADAM]
+No. It's not.
+ບໍ່. ມັນບໍ່ແມ່ນ.
+
+845
+00:50:30,200 --> 00:50:36,200
+[DR. ROSS]
+Sorry to keep you folks waiting. It's been one of those days...car got towed. Wife double parked it.
+ຂໍໂທດທີ່ເຮັດໃຫ້ເຈົ້າລໍຖ້າ. ມັນເປັນ ຫນຶ່ງ
+ໃນມື້ເຫຼົ່ານັ້ນ... ລົດຖືກດຶງ. ເມຍຈອດມັນສອງຄັ້ງ.
+
+846
+00:50:36,700 --> 00:50:41,250
+[DR. ROSS]
+Anyway I'll cut to the chase. The cancer's not responding to the chemo.
+ຢ່າງໃດກໍຕາມຂ້ອຍຈະຕັດໄປຫາເລື່ອງທີ່ແທ້ຈິງ.
+ມະເຮັງບໍ່ໄດ້ຕອບສະ ຫນອງ ຕໍ່ການເຄມີໂຊກຮ້າຍ.
+
+847
+00:50:41,750 --> 00:50:46,300
+[DR. ROSS]
+As you can see...The tumor is continuing to grow here, along the nerve.
+ດັ່ງທີ່ທ່ານສາມາດເຫັນໄດ້...
+ມະເຮັງຍັງສືບຕໍ່ເຕີບໃຫຍ່ຢູ່ບ່ອນນີ້, ຕາມເສັ້ນປະສາດ.
+
+848
+00:50:46,800 --> 00:50:48,800
+[ADAM]
+So what do we do?
+ສະນັ້ນພວກເຮົາຈະເຮັດແນວໃດ?
+
+849
+00:50:49,300 --> 00:50:53,850
+[DR. ROSS]
+We need to operate. If we don't remove it soon we risk metastasis.
+ພວກເຮົາຕ້ອງປະຕິບັດງານ.
+ຖ້າພວກເຮົາບໍ່ເອົາມັນອອກໃນໄວໆນີ້ພວກເຮົາຈະສ່ຽງ metastasis.
+
+850
+00:50:54,350 --> 00:50:56,800
+[ADAM]
+But you said surgery was too risky.
+ແຕ່ເຈົ້າບອກວ່າການຜ່າຕັດມີຄວາມສ່ຽງເກີນໄປ.
+
+851
+00:50:57,300 --> 00:50:59,300
+[DR. ROSS]
+We're out of options.
+ພວກເຮົາບໍ່ມີທາງເລືອກເລີຍ.
+
+852
+00:50:59,800 --> 00:51:04,000
+[EDITH]
+But he's going to be okay, right? You're going to fix it.
+ແຕ່ລາວຈະດີດີ, ແມ່ນບໍ? ເຈົ້າຈະແກ້ໄຂມັນ.
+
+853
+00:51:04,500 --> 00:51:10,500
+[DR. ROSS]
+This surgery is no guarantee. The risks are tremendous. And, even if we're able to remove the tumor there's still the chance that Adam, you'll never be able to walk again.
+ການຜ່າຕັດນີ້ບໍ່ແມ່ນການຮັບປະກັນ. ຄວາມສ່ຽງແມ່ນໃຫຍ່ຫຼວງ. ແລະ,
+ເຖິງແມ່ນວ່າພວກເຮົາຈະສາມາດເອົາມະເຮັງອອກໄດ້ຍັງມີໂອກາດວ່າອາດາມ, ເຈົ້າຈະບໍ່ສາມາດຍ່າງອີກເທື່ອຫນຶ່ງ.
+
+854
+00:51:11,000 --> 00:51:13,450
+[ADAM]
+Does that mean...I can get handicap parking?
+ນັ້ນຫມາຍຄວາມວ່າ... ຂ້ອຍສາມາດເອົາບ່ອນຈອດລົດຄົນພິການໄດ້ບໍ?
+
+855
+00:51:13,950 --> 00:51:15,950
+[RACHEL]
+Hey you.
+ສະບາຍດີເຈົ້າ.
+
+856
+00:51:16,450 --> 00:51:18,450
+[ADAM]
+Smells good.
+ກິ່ນຫອມດີ.
+
+857
+00:51:18,950 --> 00:51:24,950
+[RACHEL]
+The girls and I are having a movie night. I somehow got suckered into cooking.  Don't worry I left you some.
+ຂ້ອຍແລະເດັກຍິງ ກໍາ ລັງມີຄືນຮູບເງົາ.
+ຂ້ອຍຖືກຫຼອກລວງເຂົ້າໄປໃນການປຸງແຕ່ງອາຫານ. ຢ່າກັງວົນຂ້ອຍປ່ອຍໃຫ້ເຈົ້າບາງຢ່າງ.
+
+858
+00:51:25,450 --> 00:51:27,450
+[ADAM]
+Who's that?
+ນັ້ນແມ່ນໃຜ?
+
+859
+00:51:27,950 --> 00:51:31,450
+[RACHEL]
+Susan. She wants to know what time I'm coming over.
+ຊູຊານ. ນາງຢາກຮູ້ວ່າຂ້ອຍຈະມາຮອດເວລາໃດ.
+
+860
+00:51:31,950 --> 00:51:34,050
+[ADAM]
+That's what she just texted? 97.
+ນັ້ນແມ່ນສິ່ງທີ່ນາງຫາກໍ່ສົ່ງຂໍ້ຄວາມບໍ? 97.
+
+861
+00:51:34,550 --> 00:51:38,750
+[ADAM]
+She wants to know what time you're going over to her house?
+ນາງຢາກຮູ້ວ່າເຈົ້າຈະໄປເຮືອນຂອງນາງໃນເວລາໃດ?
+
+862
+00:51:39,250 --> 00:51:41,250
+[RACHEL]
+Uh huh.
+ໂອ້ ຮາ.
+
+863
+00:51:41,750 --> 00:51:44,200
+[ADAM]
+Alright, well I'm gonna go lie down.
+ດີແລ້ວ, ດີຂ້ອຍຈະໄປນອນ.
+
+864
+00:51:44,700 --> 00:51:47,850
+[RACHEL]
+I might be out late so don't wait up.
+ຂ້ອຍອາດຈະອອກໄປຊ້າ ສະນັ້ນຢ່າລໍຖ້າຂຶ້ນ.
+
+865
+00:51:48,350 --> 00:51:50,350
+[ADAM]
+What the fuck?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+866
+00:51:50,850 --> 00:51:52,850
+[RACHEL]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+867
+00:51:53,350 --> 00:51:55,350
+[ADAM]
+Who's James?
+ເຈມສ໌ແມ່ນໃຜ?
+
+868
+00:51:55,850 --> 00:51:57,850
+[RACHEL]
+My art partner.
+ຄູ່ຮ່ວມງານສິລະປະຂອງຂ້ອຍ.
+
+869
+00:51:58,350 --> 00:52:04,350
+[ADAM]
+He wants to know if you're still coming over tonight. Should I tell him you're having a girls night? Oh wait, you already told him to bring the wine. That's funny. It seems as though you've double booked yourself.
+ລາວຢາກຮູ້ວ່າເຈົ້າຍັງຈະມາໃນຄືນນີ້ບໍ. ຂ້ອຍຄວນບອກລາວວ່າເຈົ້າ ກໍາ ລັງມີຄືນຂອງເດັກຍິງບໍ? ໂອ້
+ລໍຖ້າ, ເຈົ້າບອກລາວແລ້ວໃຫ້ເອົາເຫລົ້າ. ນັ້ນແມ່ນມ່ວນຊື່ນ. ມັນເບິ່ງຄືວ່າເຈົ້າໄດ້ຈອງຕົວເອງສອງຄັ້ງ.
+
+870
+00:52:04,850 --> 00:52:08,700
+[RACHEL]
+I can't believe you just invaded my privacy like that. 98.
+ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າຫາກໍ່ບຸກລຸກຄວາມເປັນສ່ວນຕົວຂອງຂ້ອຍແບບນັ້ນ. 98.
+
+871
+00:52:09,200 --> 00:52:15,200
+[ADAM]
+Oh, you just got another text from him. He says "Your skin is the canvas upon which my dreams are painted...
+ໂອ້, ເຈົ້າຫາກໍ່ໄດ້ຮັບຂໍ້ຄວາມອີກຄັ້ງຈາກລາວ.
+ລາວເວົ້າວ່າ"ຜິວຂອງທ່ານແມ່ນກະທູ້ທີ່ຄວາມຝັນຂອງຂ້ອຍຖືກແຕ້ມໃສ່...
+
+872
+00:52:15,700 --> 00:52:17,700
+[RACHEL]
+Give me back my phone.
+ໃຫ້ໂທລະສັບຂອງຂ້ອຍຄືນໃຫ້ຂ້ອຍ.
+
+873
+00:52:18,200 --> 00:52:22,050
+[ADAM]
+"Hope you're not too sore from this afternoon." He seems sweet.
+ຂ້ອຍຫວັງວ່າເຈົ້າບໍ່ເຈັບປວດຫຼາຍຈາກຕອນບ່າຍນີ້. ລາວເບິ່ງຄືວ່າຫວານ.
+
+874
+00:52:22,550 --> 00:52:24,650
+[RACHEL]
+Adam, it's not what you think.
+ແອັດມາມ, ມັນບໍ່ແມ່ນສິ່ງທີ່ເຈົ້າຄິດ.
+
+875
+00:52:25,150 --> 00:52:28,300
+[ADAM]
+Well now how do you know what I'm thinking?
+ດີດຽວນີ້ເຈົ້າຮູ້ແນວໃດວ່າຂ້ອຍຄິດຫຍັງ?
+
+876
+00:52:28,800 --> 00:52:31,950
+[RACHEL]
+Don't be like that. I didn't do anything wrong.
+ຢ່າເປັນແບບນັ້ນ. ຂ້ອຍບໍ່ໄດ້ເຮັດຫຍັງຜິດ.
+
+877
+00:52:32,450 --> 00:52:34,450
+[ADAM]
+You've been cheating on me.
+ເຈົ້າ ກໍາ ລັງຫຼອກລວງຂ້ອຍ.
+
+878
+00:52:34,950 --> 00:52:36,950
+[RACHEL]
+Adam you're being ridiculous.
+ແອັດມາມ ເຈົ້າ ກໍາ ລັງໂຊກຮ້າຍ.
+
+879
+00:52:37,450 --> 00:52:39,450
+[ADAM]
+Am I?
+ຂ້ອຍເປັນບໍ?
+
+880
+00:52:39,950 --> 00:52:41,950
+[ADAM]
+What's this?
+ນີ້ແມ່ນຫຍັງ?
+
+881
+00:52:42,450 --> 00:52:48,450
+[ADAM]
+And this? And this? And this? There are over a dozen naked photos of you in here. 99.
+ແລະສິ່ງນີ້ບໍ? ແລະສິ່ງນີ້ແມ່ນບໍ?
+ມີຮູບເປົ່າຂອງເຈົ້າຫຼາຍກວ່າສິບຄົນໃນບ່ອນນີ້. 99.
+
+882
+00:52:48,950 --> 00:52:50,950
+[SETH]
+Hey guys.
+ສະບາຍດີ ພວກຜູ້ຊາຍ.
+
+883
+00:52:51,450 --> 00:52:53,450
+[SETH]
+Bad time?
+ເວລາບໍ່ດີບໍ?
+
+884
+00:52:53,950 --> 00:52:59,950
+[SETH]
+Whoa! Nice! Now that I would put on the wall.  I can see you're in the middle of something. I'll just be in the other room.
+ໂວ້! ດີເລີດ! ດຽວນີ້ທີ່ຂ້ອຍຈະວາງໃສ່ກໍາແພງ.
+ຂ້ອຍເຫັນວ່າເຈົ້າຢູ່ໃນກາງບາງສິ່ງບາງຢ່າງ. ຂ້ອຍພຽງແຕ່ຢູ່ໃນຫ້ອງອື່ນ.
+
+885
+00:53:00,450 --> 00:53:05,700
+[RACHEL]
+It's a portrait series, commenting on post-colonial patriarchy in the Congo.  ...That's it. Nothing more.
+ມັນເປັນຊຸດຮູບພາບ, ຄໍາ ເຫັນກ່ຽວກັບການເປັນພໍ່ແມ່ພາຍຫຼັງຄolonial
+ໃນຄອງໂກ.... ນັ້ນແມ່ນມັນ. ບໍ່ມີຫຍັງອີກຕໍ່ໄປ.
+
+886
+00:53:06,200 --> 00:53:12,200
+[ADAM]
+Have you lost your mind? I had the most important appointment of my life today and you missed it because you were off with your "art partner"...And what the fuck do you know about Africa?
+ເຈົ້າໄດ້ສູນເສຍຈິດໃຈບໍ? ຂ້ອຍມີການພົບປະທີ່ສໍາຄັນທີ່ສຸດໃນຊີວິດຂອງຂ້ອຍມື້ນີ້ແລະເຈົ້າພາດມັນເພາະວ່າເຈົ້າອອກໄປກັບ"ຄູ່ຮ່ວມງານສິລະປະ"
+ຂອງເຈົ້າ... ແລະເຈົ້າຮູ້ຫຍັງກ່ຽວກັບອາຟຣິກາ?
+
+887
+00:53:12,700 --> 00:53:17,600
+[RACHEL]
+Oh shit. I forgot. Please, Adam, I'm so sorry. What did the doctor say?
+ໂອ້. ຂ້ອຍລືມແລ້ວ. ກະລຸນາ, ອາດາມ, ຂ້ອຍຂໍໂທດຫຼາຍ. ຫມໍເວົ້າຫຍັງ?
+
+888
+00:53:18,100 --> 00:53:20,200
+[ADAM]
+Did you cheat on me? 100.
+ເຈົ້າຫຼອກລວງຂ້ອຍບໍ? 100.
+
+889
+00:53:20,700 --> 00:53:23,500
+[RACHEL]
+Adam stop. Tell me what the doctor said.
+ແອັດມາມຢຸດ. ບອກຂ້ອຍວ່າຫມໍເວົ້າຫຍັງ.
+
+890
+00:53:24,000 --> 00:53:27,500
+[DID-YOU-CHEAT-ON-ME!?]
+Like a child being scolded, Rachel's face says it all.
+ຄືກັບເດັກນ້ອຍທີ່ຖືກໂຊກຮ້າຍ, ໃບຫນ້າຂອງຣາເຊວເວົ້າທຸກຢ່າງ.
+
+891
+00:53:28,000 --> 00:53:30,800
+[RACHEL]
+Are you going to break up with me?
+ເຈົ້າຈະແຍກກັນກັບຂ້ອຍບໍ?
+
+892
+00:53:31,300 --> 00:53:34,100
+[ADAM]
+No. I'm going to pretend you never existed.
+ບໍ່. ຂ້ອຍຈະເຮັດແບບວ່າເຈົ້າບໍ່ເຄີຍມີຢູ່ເລີຍ.
+
+893
+00:53:34,600 --> 00:53:37,050
+[RACHEL]
+Please. I don't want to break up.
+ກະລຸນາ. ຂ້ອຍບໍ່ຢາກແຕກແຍກກັນ.
+
+894
+00:53:37,550 --> 00:53:42,100
+[ADAM]
+You know, you have a pretty fucked up way of showing your commitment.
+ເຈົ້າຮູ້ແລ້ວ,
+ເຈົ້າມີວິທີທີ່ສໍ້ໂກງຫຼາຍໃນການສະແດງຄວາມຫມັ້ນຫມາຍຂອງທ່ານ.
+
+895
+00:53:42,600 --> 00:53:45,050
+[RACHEL]
+I told you I couldn't handle this!
+ຂ້ອຍບອກເຈົ້າວ່າຂ້ອຍບໍ່ສາມາດຮັບມືກັບເລື່ອງນີ້ໄດ້!
+
+896
+00:53:45,550 --> 00:53:47,550
+[RACHEL]
+I'm sorry...I love you.
+ຂ້ອຍຂໍໂທດ... ຂ້ອຍຮັກເຈົ້າ.
+
+897
+00:53:48,050 --> 00:53:50,150
+[ADAM]
+I want you out my house.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າອອກຈາກເຮືອນຂອງຂ້ອຍ.
+
+898
+00:53:50,650 --> 00:53:52,650
+[SETH]
+Shame on you.
+ເຈົ້າໂຊກຮ້າຍ.
+
+899
+00:53:53,150 --> 00:53:57,000
+[SETH]
+Your skin is the canvas upon which my dreams are painted?
+ຜິວຫນັງຂອງເຈົ້າແມ່ນກະທູ້ທີ່ຄວາມຝັນຂອງຂ້ອຍຖືກແຕ້ມໃສ່ບໍ?
+
+900
+00:53:57,500 --> 00:53:59,500
+[ADAM]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+901
+00:54:00,000 --> 00:54:02,000
+[SETH]
+Is "dreams" a metaphor, for-
+ແມ່ນ"ຄວາມຝັນ" ເປັນຕົວແທນ, ສໍາລັບ -
+
+902
+00:54:02,500 --> 00:54:05,650
+[ADAM]
+You remember the last time we came out here?
+ເຈົ້າຈື່ເທື່ອສຸດທ້າຍທີ່ພວກເຮົາອອກມາບ່ອນນີ້ບໍ?
+
+903
+00:54:06,150 --> 00:54:11,750
+[SETH]
+Prom night. How could I forget? Jen Zabrowski went down on me right where you're sitting.
+ຄືນບາລ. ຂ້ອຍຈະລືມໄດ້ແນວໃດ? ເຈນ
+ຊາບຣູສກີໄດ້ລົງໃສ່ຂ້ອຍຢູ່ບ່ອນທີ່ທ່ານນັ່ງຢູ່.
+
+904
+00:54:12,250 --> 00:54:14,700
+[ADAM]
+That memory is so far from me,
+ຄວາມຊົງຈໍານັ້ນຫ່າງໄກຈາກຂ້ອຍຫຼາຍ,
+
+905
+00:54:15,200 --> 00:54:17,300
+[SETH]
+Jen giving me a blow job?
+ເຈນ ກໍາ ລັງສູບຂ້ອຍບໍ?
+
+906
+00:54:17,800 --> 00:54:23,800
+[ADAM]
+No, prom night. It feels like a lifetime ago... I know it happened, but that's it. It's like someone else's memory.
+ບໍ່, ຄືນບາລ. ມັນຮູ້ສຶກຄືກັບຊີວິດກ່ອນ... ຂ້ອຍຮູ້ວ່າມັນເກີດຂຶ້ນ
+, ແຕ່ມັນແມ່ນມັນ. ມັນຄືກັບຄວາມຊົງຈໍາຂອງຄົນອື່ນ.
+
+907
+00:54:24,300 --> 00:54:26,300
+[SETH]
+You okay?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+908
+00:54:26,800 --> 00:54:29,600
+[ADAM]
+I can't believe this is all actually happening.
+ຂ້ອຍບໍ່ເຊື່ອວ່າສິ່ງນີ້ ກໍາ ລັງເກີດຂຶ້ນແທ້ໆ.
+
+909
+00:54:30,100 --> 00:54:32,200
+[SETH]
+The girl or the cancer? 102.
+ເດັກຍິງຫຼືມະເຮັງບໍ? 102.
+
+910
+00:54:32,700 --> 00:54:34,700
+[ADAM]
+Both.
+ທັງສອງ.
+
+911
+00:54:35,200 --> 00:54:37,300
+[SETH]
+It's some pretty fucked up shit.
+ມັນເປັນເລື່ອງທີ່ສໍ້ໂກງຫຼາຍ.
+
+912
+00:54:37,800 --> 00:54:43,800
+[ADAM]
+You know, I used to think that I was actually going to spend the rest of my life with Rachel...granted that might not be so far off.  What a waste.
+ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍເຄີຍຄິດວ່າຂ້ອຍຈະໃຊ້ເວລາສ່ວນທີ່ເຫຼືອຂອງຊີວິດຂອງຂ້ອຍກັບຣາເຊວ
+... ຮັບປະກັນວ່າມັນອາດຈະບໍ່ໄກຫຼາຍ. ຄວາມເສຍຫາຍຫຼາຍປານໃດ.
+
+913
+00:54:44,300 --> 00:54:46,400
+[SETH]
+We need to get you laid.
+ພວກເຮົາຕ້ອງເຮັດໃຫ້ເຈົ້ານອນ.
+
+914
+00:54:46,900 --> 00:54:48,900
+[ADAM]
+Don't you ever give up?
+ເຈົ້າບໍ່ເຄີຍຍອມຮັບບໍ?
+
+915
+00:54:49,400 --> 00:54:51,400
+[SETH]
+No.
+ບໍ່
+
+916
+00:54:51,900 --> 00:54:54,700
+[ADAM]
+Seriously, who's going to have sex with me?
+ຢ່າງຈິງໃຈ, ໃຜຈະຮ່ວມເພດກັບຂ້ອຍ?
+
+917
+00:54:55,200 --> 00:54:57,200
+[SETH]
+Some girls are into it?
+ເດັກຍິງບາງຄົນມັກມັນບໍ?
+
+918
+00:54:57,700 --> 00:55:01,550
+[ADAM]
+I look like Powder. Plus I have erectile dysfunction...temporary. I hope.
+ຂ້ອຍເບິ່ງຄືວ່າເປັນຝຸ່ນ. ບວກກັບຂ້ອຍມີ
+dysfunction erectile... ຊົ່ວຄາວ. ຂ້ອຍຫວັງວ່າ.
+
+919
+00:55:02,050 --> 00:55:04,150
+[SETH]
+Then let's go get me laid.
+ຫຼັງຈາກນັ້ນໄປເອົາຂ້ອຍໄປ.
+
+920
+00:55:04,650 --> 00:55:06,650
+[ADAM]
+I think I should drive.
+ຂ້ອຍຄິດວ່າຂ້ອຍຄວນຂັບລົດ.
+
+921
+00:55:07,150 --> 00:55:09,150
+[SETH]
+You don't have a license.
+ເຈົ້າບໍ່ມີໃບອະນຸຍາດ.
+
+922
+00:55:09,650 --> 00:55:11,650
+[ADAM]
+You're drunk. 103.
+ເຈົ້າດື່ມແລ້ວ. 103.
+
+923
+00:55:12,150 --> 00:55:14,600
+[SETH]
+Do you even know how to drive?
+ເຈົ້າຮູ້ວິທີຂັບລົດບໍ?
+
+924
+00:55:15,100 --> 00:55:17,100
+[ADAM]
+How hard can it be?
+ມັນຍາກປານໃດ?
+
+925
+00:55:17,600 --> 00:55:20,400
+[SETH]
+Hard enough that you don't have a license.
+ມັນຍາກພໍທີ່ຈະເຈົ້າບໍ່ມີໃບອະນຸຍາດ.
+
+926
+00:55:20,900 --> 00:55:23,000
+[ADAM]
+This might be my last chance.
+ນີ້ອາດຈະເປັນໂອກາດສຸດທ້າຍຂອງຂ້ອຍ.
+
+927
+00:55:23,500 --> 00:55:29,500
+[SETH]
+Driving! You care about driving! We could be on Everest getting high on Ayahuasca with Sherpas, and you want to drive!...Forget it, I give up. Drive.
+ການຂັບລົດ! ເຈົ້າສົນໃຈການຂັບຂີ່! ພວກເຮົາອາດຈະຢູ່ໃນ Everest ໄດ້ຮັບສູງໃນ
+Ayahuasca ກັບ Sherpas, ແລະເຈົ້າຢາກຂັບເຄື່ອນ!... ລືມມັນ, ຂ້ອຍຍອມຮັບ. ຂັບລົດ.
+
+928
+00:55:30,000 --> 00:55:33,500
+[SETH]
+Hey Miss Daisy, will you please watch where your going?
+ເຮ້ ນາງເດຊີ, ເຈົ້າຂໍເບິ່ງວ່າເຈົ້າ ກໍາ ລັງໄປໃສ?
+
+929
+00:55:34,000 --> 00:55:36,000
+[ADAM]
+What? I didn't see it.
+ຫຍັງ? ຂ້ອຍບໍ່ເຫັນມັນ.
+
+930
+00:55:36,500 --> 00:55:38,600
+[SETH]
+That's what the mirrors are for.
+ນັ້ນແມ່ນສິ່ງທີ່ຈໍແມ່ນສໍາລັບ.
+
+931
+00:55:39,100 --> 00:55:41,100
+[SETH]
+Turn right.
+ຫັນໄປທາງຂວາ.
+
+932
+00:55:41,600 --> 00:55:43,600
+[ADAM]
+I know what I'm doing.
+ຂ້ອຍຮູ້ວ່າຂ້ອຍ ກໍາ ລັງເຮັດຫຍັງ.
+
+933
+00:55:44,100 --> 00:55:46,100
+[SETH]
+Apparently not. YOU'RE GOING THE
+ເບິ່ງຄືວ່າບໍ່ແມ່ນ. ເຈົ້າ ກໍາ ລັງໄປ
+
+934
+00:55:46,600 --> 00:55:52,600
+[WRONG WAY!]
+An oncoming car honks and swerves out of the way - only nearly avoiding a head on collision. 104.
+ລົດທີ່ມາຕໍ່ຫນ້າສຽງດັງແລະຫັນອອກຈາກທາງ -
+ພຽງແຕ່ເກືອບຫຼີກເວັ້ນຫົວໃນການຕໍາກັນ. 104.
+
+935
+00:55:53,100 --> 00:55:55,100
+[SETH]
+Adam! Turn the car around.
+ແອັດມາມ! ຫັນລົດໄປ.
+
+936
+00:55:55,600 --> 00:55:59,100
+[ADAM]
+No. I'm driving and I want to go this way.
+ບໍ່. ຂ້ອຍ ກໍາ ລັງຂັບລົດແລະຂ້ອຍຢາກໄປທາງນີ້.
+
+937
+00:55:59,600 --> 00:56:02,050
+[SETH]
+What the fuck is wrong with you?
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+938
+00:56:02,550 --> 00:56:08,550
+[ADAM]
+For once can you just shut up and let me do this? So I'm driving the wrong way? Big fucking deal.
+ເຈົ້າສາມາດງຽບແລະປ່ອຍໃຫ້ຂ້ອຍເຮັດສິ່ງນີ້ໄດ້ບໍ? ສະນັ້ນຂ້ອຍ
+ກໍາ ລັງຂັບລົດທາງທີ່ບໍ່ຖືກຕ້ອງບໍ? ເລື່ອງໃຫຍ່ໆ.
+
+939
+00:56:09,050 --> 00:56:11,050
+[SETH]
+You're an idiot.
+ເຈົ້າເປັນຄົນໂງ່.
+
+940
+00:56:11,550 --> 00:56:13,550
+[ADAM]
+Get out.
+ອອກໄປ.
+
+941
+00:56:14,050 --> 00:56:16,050
+[SETH]
+This is my car.
+ນີ້ແມ່ນລົດຂອງຂ້ອຍ.
+
+942
+00:56:16,550 --> 00:56:20,750
+[GET! OUT!]
+Seth looks at Adam speechless, and then gets out of the car.
+ເຊັດເບິ່ງແອັດມາມຢ່າງງຽບສະຫງົບ, ແລະຫຼັງຈາກນັ້ນອອກຈາກລົດ.
+
+943
+00:56:21,250 --> 00:56:23,250
+[SETH]
+You're being a real douche.
+ເຈົ້າ ກໍາ ລັງເປັນຄົນໂຊກຮ້າຍແທ້ໆ.
+
+944
+00:56:23,750 --> 00:56:25,750
+[SETH]
+Adam, open the door.
+ແອັດມາມ, ເປີດປະຕູ.
+
+945
+00:56:26,250 --> 00:56:30,450
+[SETH]
+Don't you dare call her. Not after everything she's done to you.
+ຢ່າກ້າໂທຫານາງ. ບໍ່ແມ່ນຫຼັງຈາກທຸກຢ່າງທີ່ນາງເຮັດກັບເຈົ້າ.
+
+946
+00:56:30,950 --> 00:56:32,950
+[SETH]
+You're a pussy.
+ເຈົ້າເປັນແມວແມ.
+
+947
+00:56:33,450 --> 00:56:39,450
+[ADAM]
+Well you're a selfish piece of shit who cares more about getting his dick wet than actually being a friend.
+ດີເຈົ້າເປັນຄົນໂຊກແຊງທີ່ໂຊມແຊນແຊມເຊິ່ງສົນໃຈຫຼາຍກວ່າທີ່ຈະເຮັດໃຫ້ທ້ອງຂອງລາວຊຸ່ມຊື່ນກ່ວາທີ່ຈະເປັນເພື່ອນແທ້ໆ
+.
+
+948
+00:56:39,950 --> 00:56:41,950
+[KATIE]
+Hello.
+ສະບາຍດີ.
+
+949
+00:56:42,450 --> 00:56:44,450
+[ADAM]
+I don't want to die.
+ຂ້ອຍບໍ່ຢາກຕາຍ.
+
+950
+00:56:44,950 --> 00:56:46,950
+[KATIE]
+Adam?
+ແອັດມາມ?
+
+951
+00:56:47,450 --> 00:56:53,450
+[ADAM]
+I'm 25 years old and I've never even been to Canada. I haven't lived my life! I'm really, really scared.
+ຂ້ອຍອາຍຸ 25 ປີແລະຂ້ອຍບໍ່ເຄີຍໄປປະເທດການາດາເລີຍ.
+ຂ້ອຍບໍ່ໄດ້ດໍາລົງຊີວິດຂອງຂ້ອຍ! ຂ້ອຍຢ້ານແທ້ໆ, ແທ້ໆ.
+
+952
+00:56:53,950 --> 00:56:55,950
+[KATIE]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+953
+00:56:56,450 --> 00:57:01,700
+[ADAM]
+I'm sorry for the way I acted. I should have never stormed out like that.
+ຂ້ອຍຂໍໂທດຕໍ່ວິທີທີ່ຂ້ອຍກະທໍາ. ຂ້ອຍບໍ່ຄວນອອກໄປແບບນັ້ນເລີຍ.
+
+954
+00:57:02,200 --> 00:57:07,800
+[KATIE]
+It was wrong of me to push you the way I did. I wasn't listening. 106.
+ມັນຜິດຈາກຂ້ອຍທີ່ຈະຊຸກຍູ້ເຈົ້າຕາມວິທີທີ່ຂ້ອຍເຮັດ
+. ຂ້ອຍບໍ່ໄດ້ຟັງ. 106.
+
+955
+00:57:08,300 --> 00:57:12,500
+[KATIE]
+I could never have handled all of this the way you have.
+ຂ້ອຍບໍ່ເຄີຍຮັບມືກັບສິ່ງທັງ ຫມົດ ນີ້ໄດ້ຕາມວິທີທີ່ທ່ານເຮັດ.
+
+956
+00:57:13,000 --> 00:57:15,100
+[ADAM]
+You mean like a complete asshole?
+ເຈົ້າຫມາຍຄວາມວ່າຄືກັບຄົນໂຊກຮ້າຍຢ່າງສົມບູນບໍ?
+
+957
+00:57:15,600 --> 00:57:17,600
+[KATIE]
+I think you're really brave.
+ຂ້ອຍຄິດວ່າເຈົ້າກ້າຫານແທ້ໆ.
+
+958
+00:57:18,100 --> 00:57:22,300
+[ADAM]
+If I don't die, I think we should go on a date.
+ຖ້າຂ້ອຍບໍ່ຕາຍ, ຂ້ອຍຄິດວ່າພວກເຮົາຄວນໄປວັນທີ.
+
+959
+00:57:22,800 --> 00:57:25,950
+[KATIE]
+Adam, I'm not sure if that's a good idea.
+ແອັດມາມ, ຂ້ອຍບໍ່ແນ່ໃຈວ່າມັນເປັນຄວາມຄິດທີ່ດີບໍ.
+
+960
+00:57:26,450 --> 00:57:28,450
+[ADAM]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+961
+00:57:28,950 --> 00:57:34,950
+[KATIE]
+Not only am I your therapist, but you're also my first patient, ever. What kind of precedent would I be setting?
+ບໍ່ພຽງແຕ່ຂ້ອຍເປັນນັກປິ່ນປົວຂອງທ່ານເທົ່ານັ້ນ, ແຕ່ເຈົ້າຍັງເປັນຄົນເຈັບຄົນ
+ທໍາ ອິດຂອງຂ້ອຍອີກດ້ວຍ, ຕະຫຼອດເວລາ. ຂ້ອຍຈະຕັ້ງປະຫວັດການໃດ?
+
+962
+00:57:35,450 --> 00:57:37,550
+[ADAM]
+It makes for a nice incentive.
+ມັນເຮັດໃຫ້ເປັນແຮງຊຸກຍູ້ທີ່ດີເລີດ.
+
+963
+00:57:38,050 --> 00:57:40,050
+[KATIE]
+I can't date you.
+ຂ້ອຍບໍ່ສາມາດພົບກັບເຈົ້າໄດ້.
+
+964
+00:57:40,550 --> 00:57:42,550
+[ADAM]
+Yes you can.
+ແມ່ນແລ້ວ ເຈົ້າສາມາດເຮັດໄດ້.
+
+965
+00:57:43,050 --> 00:57:45,050
+[KATIE]
+No I can't.
+ບໍ່ ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.
+
+966
+00:57:45,550 --> 00:57:47,550
+[ADAM]
+Yes, you can.
+ແມ່ນແລ້ວ, ເຈົ້າສາມາດ.
+
+967
+00:57:48,050 --> 00:57:50,050
+[KATIE]
+No I can't.
+ບໍ່ ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.
+
+968
+00:57:50,550 --> 00:57:56,550
+[ADAM]
+A wise person once told me - you can't change the wind, but you can adjust the sails. 107.
+ຄົນທີ່ມີປັນຍາເຄີຍບອກຂ້ອຍວ່າ - ເຈົ້າບໍ່ສາມາດປ່ຽນລົມໄດ້
+, ແຕ່ເຈົ້າສາມາດປັບເຮືອໄດ້. 107.
+
+969
+00:57:57,050 --> 00:57:59,050
+[KATIE]
+Adam I can't date you.
+ແອັດມາມ ຂ້ອຍບໍ່ສາມາດພົບກັບເຈົ້າໄດ້.
+
+970
+00:57:59,550 --> 00:58:01,550
+[ADAM]
+That's what you think.
+ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຄິດ.
+
+971
+00:58:02,050 --> 00:58:04,050
+[KATIE]
+Adam? Adam? Adam?
+ແອັດມາມ? ແອດມາມບໍ? ແອັດແມມບໍ?
+
+972
+00:58:04,550 --> 00:58:06,550
+[ADAM]
+Good night.
+ສະບາຍດີ.
+
+973
+00:58:07,050 --> 00:58:09,050
+[SETH]
+Night.
+ຄືນ.
+
+974
+00:58:09,550 --> 00:58:11,550
+[ADAM]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+975
+00:58:12,050 --> 00:58:14,050
+[SETH]
+Watching you sleep. 108.
+ເບິ່ງເຈົ້ານອນ. 108.
+
+976
+00:58:14,550 --> 00:58:16,550
+[ADAM]
+It's a little creepy.
+ມັນຫນ້າຢ້ານກົວເລັກນ້ອຍ.
+
+977
+00:58:17,050 --> 00:58:19,150
+[SETH]
+I know. I can't help it.
+ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍບໍ່ສາມາດຊ່ວຍໄດ້.
+
+978
+00:58:19,650 --> 00:58:22,100
+[VOICE MALL OPERATOR]
+You have 2 new messages. First message.
+ເຈົ້າມີຂໍ້ຄວາມໃຫມ່ 2 ຂໍ້ຄວາມທໍາອິດ.
+
+979
+00:58:22,600 --> 00:58:28,600
+[RICHARD MATHESSON]
+Hi Adam, this is Richard Mathesson, your family's estate lawyer. Your mother asked me to call. We need to talk about potential, ah, well just call me, there are some potential arrangements we need to work out.
+ສະບາຍດີແອດມິນ, ນີ້ແມ່ນ ຣິກດ໌ ມາເຕຊັນ, ທະນາຍຄວາມຊັບສິນຂອງຄອບຄົວຂອງທ່ານ. ແມ່ຂອງທ່ານຂໍໃຫ້ຂ້ອຍໂທ.
+ພວກເຮົາຕ້ອງເວົ້າກ່ຽວກັບຄວາມເປັນໄປໄດ້, ອາ, ດີພຽງແຕ່ໂທຫາຂ້ອຍ, ມີການຈັດຕັ້ງທີ່ເປັນໄປໄດ້ບາງຢ່າງທີ່ພວກເຮົາຕ້ອງເຮັດວຽກອອກ.
+
+980
+00:58:29,100 --> 00:58:31,900
+[SALES CLERK]
+Sir can I help you with anything today?
+ເຈົ້າຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ບໍໃນມື້ນີ້?
+
+981
+00:58:32,400 --> 00:58:36,950
+[ADAM]
+You think this is a good suit to wear to your own funeral?
+ເຈົ້າຄິດວ່ານີ້ເປັນຊຸດທີ່ດີທີ່ຈະໃສ່ໃນການຝັງສົບຂອງທ່ານເອງບໍ?
+
+982
+00:58:37,450 --> 00:58:40,250
+[SALES CLERK]
+No, what you want is on level 3.
+ບໍ່, ສິ່ງທີ່ທ່ານຕ້ອງການແມ່ນຢູ່ໃນລະດັບທີ 3.
+
+983
+00:58:40,750 --> 00:58:42,750
+[VOICE MAIL OPERATOR]
+Next message.
+ຂໍ້ຄວາມຕໍ່ໄປ.
+
+984
+00:58:43,250 --> 00:58:49,250
+[DR. ROSS]
+Adam, this is Dr. Ross. Good news, I was able to expedite the wait for your surgery. Your scheduled for tomorrow morning at 7:00 am with Dr. Lamb. Please call my office if you have any questions.
+ແອດມິນ, ນີ້ແມ່ນດຣ ໂຣສສ໌. ຂ່າວດີ, ຂ້ອຍສາມາດຊຸກຍູ້ການລໍຖ້າການຜ່າຕັດຂອງທ່ານໄດ້.
+ການວາງແຜນຂອງທ່ານໃນຕອນເຊົ້າມື້ອື່ນໃນເວລາ 7:00 ໂມງກັບດຣ ແມບ. ກະລຸນາໂທຫາຫ້ອງການຂອງຂ້ອຍຖ້າທ່ານມີ ຄໍາ ຖາມໃດໆ.
+
+985
+00:58:49,750 --> 00:58:55,750
+[MORTICIAN]
+Here at Linden we're more than just a stopping ground for the deceased. We understand that life is different for everyone, and helping families to see their loved ones off to the hereafter means approaching every funeral and burial with it's own dignity and care...A funeral is a representation of the individuals time spent on earth, so I ask you to reflect on your inevitable interment and think carefully in choosing the service and tomb that best befits you.
+ຢູ່ບ່ອນນີ້ໃນລິນເດັນພວກເຮົາຫຼາຍກ່ວາພຽງແຕ່ເປັນບ່ອນຢຸດ ສໍາ ລັບຄົນຕາຍ. ພວກເຮົາເຂົ້າໃຈວ່າຊີວິດແຕກຕ່າງກັນ ສໍາ ລັບທຸກຄົນ, ແລະຊ່ວຍຄອບຄົວເພື່ອເຫັນຄົນຮັກຂອງພວກເຂົາໄປສູ່ອະນາຄົດ ຫມາຍ
+ຄວາມວ່າການໃກ້ຊິດການຝັງສົບແລະການຈັດສົ່ງທຸກຄັ້ງດ້ວຍຄວາມກຽດຕິຍົດແລະຄວາມດູແລຂອງຕົນເອງ... ການຝັນສົບແມ່ນຕົວແທນຂອງເວລາທີ່ໃຊ້ໃນໂລກຂອງບຸກຄົນ, ສະນັ້ນຂ້ອຍຂໍໃຫ້ທ່ານຄິດກ່ຽວກັບການຝິ່ນສົບຂອງທ່ານທີ່ບໍ່ສາມາດຫຼີກລ່ຽງໄດ້ແລະຄິດຢ່າງລະມັດລະວັງໃນການເລືອກບໍລິການແລະຝັງ
+
+986
+00:58:56,250 --> 00:58:58,250
+[SETH]
+What about a Viking funeral?
+ຈະເປັນແນວໃດກັບການຝັງສົບຂອງວິກິງ?
+
+987
+00:58:58,750 --> 00:59:00,750
+[MORTICIAN]
+I'm not familiar.
+ຂ້ອຍບໍ່ຮູ້ຈັກ.
+
+988
+00:59:01,250 --> 00:59:07,250
+[SETH]
+You know, we put him on a boat... cover it with...dirt and...branches...whatever you can find. We push it out...into the sea...or the ocean...and then shoot flaming arrows, boom! It catches on fire...And that's it. It's awesome.
+ເຈົ້າຮູ້ແລ້ວ, ພວກເຮົາເອົາລາວໃສ່ເຮືອ... ປົກຫຸ້ມມັນດ້ວຍ... ຄວາມເປື້ອນແລະ... ສາຂາ... ທຸກສິ່ງທຸກຢ່າງທີ່ທ່ານສາມາດຊອກຫາໄດ້.
+ພວກເຮົາຊຸກຍູ້ມັນອອກໄປ... ເຂົ້າໄປໃນທະເລ... ຫຼືມະຫາສະຫມຸດ... ແລະຫຼັງຈາກນັ້ນຍິງປືນໄຟໄຫມ້, ບູມ! ມັນໄຫຼ້... ແລະນັ້ນແມ່ນມັນ. ມັນດີເລີດ.
+
+989
+00:59:07,750 --> 00:59:10,200
+[MORTICIAN]
+Here you are, the Schwartz family plot.
+ເຈົ້າຢູ່ບ່ອນນີ້, ແຜນການຄອບຄົວສວາດສ໌.
+
+990
+00:59:10,700 --> 00:59:14,550
+[DR. LAMB]
+Good morning Adam, how are you feeling? Good. Good. Good. Good.
+ສະບາຍດີແອດມິນ, ເຈົ້າຮູ້ສຶກແນວໃດ? ດີ. ດີ.ດີ. ດີໆ. ດີດີ.
+
+991
+00:59:15,050 --> 00:59:21,050
+[DR. LAMB]
+So we're going to be removing your kidney? Right? Or is it the left? Just kidding. That's doctor humor.
+ສະນັ້ນພວກເຮົາຈະ ກໍາ ຈັດກະຕ່າຂອງທ່ານບໍ? ແມ່ນບໍ?
+ຫຼືມັນແມ່ນຊ້າຍບໍ? ພຽງແຕ່ຢອກຊື່ໆ. ນັ້ນແມ່ນຄວາມມ່ວນຊື່ນຂອງຫມໍ.
+
+992
+00:59:21,550 --> 00:59:27,550
+[DR. LAMB]
+Nurse Wong here needs you to sign a few papers, so I'm going to leave her to do her job, and I'll see you after the surgery.
+ພະຍາບານວົງຢູ່ນີ້ຕ້ອງການໃຫ້ເຈົ້າລົງນາມເອກະສານບາງຢ່າງ,
+ສະນັ້ນຂ້ອຍຈະປ່ອຍນາງໃຫ້ເຮັດວຽກຂອງນາງ, ແລະຂ້ອຍຈະເຫັນເຈົ້າຫຼັງຈາກການຜ່າຕັດ.
+
+993
+00:59:28,050 --> 00:59:30,050
+[ADAM]
+What is all this?
+ສິ່ງທັງ ຫມົດ ນີ້ແມ່ນຫຍັງ?
+
+994
+00:59:30,550 --> 00:59:36,550
+[NURSE WONG]
+Hospital liability and disclaimer forms...in case they need to fuse your spine or remove any organs. You know, the usual.
+ໃບຢັ້ງຢືນຄວາມຮັບຜິດຊອບໂຮງຫມໍແລະການຍົກເວັ້ນ...
+ໃນກໍລະນີທີ່ພວກເຂົາຕ້ອງເຊື່ອມໂຍງຫລັງຫຼັງຫລັງຂອງທ່ານຫຼືເອົາອະໄວຍະວະໃດໆ. ເຈົ້າຮູ້ແລ້ວ, ປົກກະຕິແລ້ວ.
+
+995
+00:59:37,050 --> 00:59:39,050
+[ADAM]
+Oh, great. 111.
+ໂອ້, ດີເລີດ. 111.
+
+996
+00:59:39,550 --> 00:59:42,700
+[ADAM]
+Glad to hear there's nothing unusual about removing organs.
+ດີໃຈທີ່ໄດ້ຍິນວ່າບໍ່ມີຫຍັງຜິດປົກກະຕິກ່ຽວກັບການເອົາອະໄວຍະວະອອກ.
+
+997
+00:59:43,200 --> 00:59:45,200
+[NURSE WONG]
+You have some visitors.
+ເຈົ້າມີແຂກບາງຄົນ.
+
+998
+00:59:45,700 --> 00:59:47,700
+[EDITH]
+There he is.
+ລາວຢູ່ບ່ອນນັ້ນ.
+
+999
+00:59:48,200 --> 00:59:51,700
+[EDITH]
+Here take these. They're special. I got them from Canada.
+ເອົາມັນມາ. ພວກມັນພິເສດ. ຂ້ອຍເອົາພວກມັນຈາກການາດາ.
+
+1000
+00:59:52,200 --> 00:59:54,200
+[ADAM]
+Mom, this is Nuprin.
+ແມ່, ນີ້ແມ່ນນູປຣິນ.
+
+1001
+00:59:54,700 --> 00:59:56,700
+[EDITH]
+I know isn't it great?
+ຂ້ອຍຮູ້ແລ້ວ ມັນບໍ່ດີບໍ?
+
+1002
+00:59:57,200 --> 00:59:59,200
+[ADAM]
+What the hell.
+ຫຍັງເລີຍ.
+
+1003
+00:59:59,700 --> 01:00:01,700
+[ART]
+I gotta new coat.
+ຂ້ອຍຕ້ອງມີເສື້ອຜ້າໃຫມ່.
+
+1004
+01:00:02,200 --> 01:00:04,200
+[ADAM]
+That's great dad.
+ນັ້ນແມ່ນພໍ່ທີ່ດີເລີດ.
+
+1005
+01:00:04,700 --> 01:00:06,700
+[ART]
+Brooks Brothers. Silk pockets. Feel.
+ອ້າຍນ້ອງບຣັອກສ໌. ກະເປົາ silk. ຮູ້ສຶກ.
+
+1006
+01:00:07,200 --> 01:00:09,200
+[ART]
+Feel.
+ຮູ້ສຶກ.
+
+1007
+01:00:09,700 --> 01:00:11,700
+[ADAM]
+I am feeling. 112.
+ຂ້ອຍຮູ້ສຶກ. 112.
+
+1008
+01:00:12,200 --> 01:00:14,200
+[ART]
+I love you son.
+ຂ້ອຍຮັກເຈົ້າແມ.
+
+1009
+01:00:14,700 --> 01:00:16,700
+[ADAM]
+I love you too dad.
+ຂ້ອຍຮັກເຈົ້າຄືກັນພໍ່.
+
+1010
+01:00:17,200 --> 01:00:19,200
+[KATIE]
+Hello?
+ສະບາຍດີ?
+
+1011
+01:00:19,700 --> 01:00:21,700
+[ADAM]
+Egh em. Mom. Mom.
+ໂອ້ ພວກມັນ. ແມ່. ພໍ່.
+
+1012
+01:00:22,200 --> 01:00:25,700
+[EDITH]
+Alright. Come on Art, let's go to the waiting room.
+ດີແລ້ວ. ມາແອດຕ໌, ໄປຫ້ອງລໍຖ້າ.
+
+1013
+01:00:26,200 --> 01:00:28,200
+[EDITH]
+Hmmm.
+Hmmm.
+
+1014
+01:00:28,700 --> 01:00:32,900
+[KATIE]
+I brought you flowers. Not sure why, I didn't know what else-
+ຂ້ອຍເອົາດອກໄມ້ມາໃຫ້ເຈົ້າ.
+ບໍ່ແນ່ໃຈວ່າເປັນຫຍັງ, ຂ້ອຍບໍ່ຮູ້ວ່າອີກຫຍັງ -
+
+1015
+01:00:33,400 --> 01:00:35,400
+[ADAM]
+They're great, thank you.
+ພວກເຂົາດີເລີດ, ຂອບໃຈ.
+
+1016
+01:00:35,900 --> 01:00:37,900
+[KATIE]
+So how you doing?
+ເຈົ້າເປັນແນວໃດ?
+
+1017
+01:00:38,400 --> 01:00:40,400
+[ADAM]
+I'm a little freaked out.
+ຂ້ອຍຢ້ານກົວເລັກນ້ອຍ.
+
+1018
+01:00:40,900 --> 01:00:46,150
+[ANESTHESIOLOGIST]
+Hello Adam, I am the Anesthesiologist. I will give you shot to make you sleep.
+ສະບາຍດີແອັດມາມ, ຂ້ອຍເປັນນັກຢາເສບຕິດ.
+ຂ້ອຍຈະສັກຢາໃຫ້ເຈົ້າເພື່ອເຮັດໃຫ້ເຈົ້ານອນ.
+
+1019
+01:00:46,650 --> 01:00:49,450
+[ADAM]
+Will you be here when I wake up?
+ເຈົ້າຈະຢູ່ບ່ອນນີ້ເມື່ອຂ້ອຍຕື່ນຂຶ້ນບໍ?
+
+1020
+01:00:49,950 --> 01:00:51,950
+[KATIE]
+I'm not going anywhere.
+ຂ້ອຍຈະບໍ່ໄປໃສເລີຍ.
+
+1021
+01:00:52,450 --> 01:00:56,650
+[ANESTHESIOLOGIST]
+Now relax, this will take a few minutes to feel the effect.
+ດຽວນີ້ຜ່ອນຄາຍ, ມັນຈະໃຊ້ເວລາສອງສາມນາທີເພື່ອຮູ້ສຶກຜົນກະທົບ.
+
+1022
+01:00:57,150 --> 01:00:59,150
+[ADAM]
+About how long?
+ປະມານດົນປານໃດ?
+
+1023
+01:00:59,650 --> 01:01:02,100
+[ANESTHESIOLOGIST]
+Relax, you will soon begin the sleeping.
+ສະບາຍໃຈ, ເຈົ້າຈະເລີ່ມນອນໃນໄວໆນີ້.
+
+1024
+01:01:02,600 --> 01:01:08,600
+[ADAM]
+Well what if it doesn't work. How do you know I won't wake in the middle of the surgery? What if I-
+ດີຖ້າມັນບໍ່ເຮັດວຽກແນວໃດ.
+ເຈົ້າຮູ້ແນວໃດວ່າຂ້ອຍຈະບໍ່ຕື່ນໃນກາງການຜ່າຕັດ? ຖ້າຂ້ອຍ -
+
+1025
+01:01:09,100 --> 01:01:12,250
+[DR. HENRY]
+I'm telling you Sir Francis Drake was a Buccaneer.
+ຂ້ອຍບອກເຈົ້າວ່າ ທ້າວຟຣານຊິສ ດຣັກເປັນນັກບຸກເກີ.
+
+1026
+01:01:12,750 --> 01:01:14,750
+[DR. LAMB]
+No he was a privateer.
+ບໍ່ລາວເປັນນັກຮົບເອກະຊົນ.
+
+1027
+01:01:15,250 --> 01:01:17,700
+[NURSE SCOTT]
+I thought he was a pirate. 114.
+ຂ້ອຍຄິດວ່າລາວເປັນຄົນລັກລອບເຮືອ. 114.
+
+1028
+01:01:18,200 --> 01:01:23,800
+[DR. LAMB]
+A pirate works for no one but himself. A privateer has a mandate from a government.
+ຄົນລັກລອບເຮືອເຮັດວຽກ ສໍາ ລັບໃຜນອກຈາກຕົວເອງ
+. ຄົນເອກະຊົນມີຄໍາສັ່ງຈາກລັດຖະບານ.
+
+1029
+01:01:24,300 --> 01:01:26,400
+[DR. HENRY]
+I thought that was a buccaneer.
+ຂ້ອຍຄິດວ່າມັນເປັນຄົນລັກລອບ.
+
+1030
+01:01:26,900 --> 01:01:29,700
+[DR. LAMB]
+No, a buccaneer is a butcher turned pirate.
+ບໍ່, ຄົນລັກລອບແມ່ນຄົນຂ້າສັດທີ່ກາຍເປັນຄົນລັກພາສີ.
+
+1031
+01:01:30,200 --> 01:01:32,200
+[DR. HENRY]
+Then what's a mercenary?
+ຫຼັງຈາກນັ້ນທະຫານຈ້າງແມ່ນຫຍັງ?
+
+1032
+01:01:32,700 --> 01:01:34,800
+[DR. LAMB]
+Nurse Wong. Will you Google it?
+ພະຍາບານວົງ. ເຈົ້າຈະ Google ມັນບໍ?
+
+1033
+01:01:35,300 --> 01:01:41,300
+[DR. LAMB]
+We were successful in the extraction of the tumor. However, as you can imagine, with something of this magnitude...there were some unforeseen complications. The bone corrosion was much greater than initially anticipated. We had to remove part of the hip and pelvis, as well as most of the psoas muscle. We also had to remove a good amount of sheath tissue around the sciatic nerve, the damage to that nerve is considerable, which is going to hinder his ability to walk...He's in stable condition right now, but it's touch and go. 115.
+ພວກເຮົາປະສົບຜົນສໍາເລັດໃນການຖອນມະເຮັງ. ເຖິງຢ່າງໃດກໍ່ຕາມ, ດັ່ງທີ່ທ່ານສາມາດຈິນຕະນາການໄດ້, ດ້ວຍບາງສິ່ງບາງຢ່າງຂອງຂະຫນາດນີ້... ມີຄວາມສັບສົນທີ່ບໍ່ຄາດຫວັງບາງຢ່າງ.
+ການສໍ້ໂກງກະດູກແມ່ນໃຫຍ່ກວ່າທີ່ຄາດຫວັງໃນເບື້ອງຕົ້ນຫຼາຍ. ພວກເຮົາຕ້ອງ ກໍາ ຈັດສ່ວນ ຫນຶ່ງ ຂອງກະຕ່າແລະກະທູ້ກະດານກະດ່າງກະດາດກະດ້າກະດ່າກະດົນກະດວງກະດິງກະດ່ານກະດົງກະດອງກະດຸນກະດັນກະດວນກະດ
+
+1034
+01:01:41,800 --> 01:01:45,650
+[ADAM]
+That is the most beautiful dresses. Where did you get it?
+ນັ້ນແມ່ນຊຸດທີ່ສວຍງາມທີ່ສຸດ. ເຈົ້າເອົາມັນຈາກໃສ?
+
+1035
+01:01:46,150 --> 01:01:48,150
+[DR. LAMB]
+Adam, I see you're awake.
+ແອັດມາມ, ຂ້ອຍເຫັນວ່າເຈົ້າຕື່ນແລ້ວ.
+
+1036
+01:01:48,650 --> 01:01:50,650
+[ADAM]
+I'm here.
+ຂ້ອຍຢູ່ບ່ອນນີ້.
+
+1037
+01:01:51,150 --> 01:01:53,150
+[DR. LAMB]
+How are you feeling?
+ເຈົ້າຮູ້ສຶກແນວໃດ?
+
+1038
+01:01:53,650 --> 01:01:55,650
+[ADAM]
+I feel wonderful.
+ຂ້ອຍຮູ້ສຶກດີເລີດ.
+
+1039
+01:01:56,150 --> 01:01:58,150
+[DR. LAMB]
+That would be the morphine.
+ນັ້ນຈະເປັນໂມຟິນ.
+
+1040
+01:01:58,650 --> 01:02:04,650
+[DR. LAMB]
+I want you to push this little button any time you feel pain. It'll trigger the morphine. You think you can do that?
+ຂ້ອຍຢາກໃຫ້ເຈົ້າກົດປຸ່ມນ້ອຍໆນີ້ທຸກຄັ້ງທີ່ທ່ານຮູ້ສຶກເຈັບປວດ
+. ມັນຈະກະຕຸ້ນໂມຟິນ. ເຈົ້າຄິດວ່າເຈົ້າສາມາດເຮັດໄດ້ບໍ?
+
+1041
+01:02:05,150 --> 01:02:07,150
+[ADAM]
+Magic!
+ສັກກາຮ!
+
+1042
+01:02:07,650 --> 01:02:09,650
+[ADAM]
+Mommy! Daddy!
+ແມ່! ພໍ່!
+
+1043
+01:02:10,150 --> 01:02:12,150
+[EDITH]
+My little boy. 116.
+ລູກຊາຍນ້ອຍຂອງຂ້ອຍ. 116.
+
+1044
+01:02:12,650 --> 01:02:18,650
+[ADAM]
+Remember the time you walked in on me masturbating?...That was so awkward...What hotel is this? We need to go on more vacations.
+ຈື່ເວລາທີ່ທ່ານເຂົ້າມາທີ່ຂ້ອຍ ກໍາ ລັງ masturbating?...
+ນັ້ນແມ່ນໂຊກຮ້າຍຫຼາຍ... ນີ້ແມ່ນໂຮງແຮມໃດ? ພວກເຮົາຕ້ອງໄປພັກຜ່ອນຫຼາຍຂຶ້ນ.
+
+1045
+01:02:19,150 --> 01:02:25,150
+[ADAM]
+You're here too! You're soooooo awesome... Katie McRae, Katie McRae, Katie McRae. Mic-Rae, Dr. Awesome Mic- Rae...I'd love to make you pancakes sometime.
+ເຈົ້າຢູ່ບ່ອນນີ້ເຊັ່ນກັນ! ເຈົ້າດີເລີດຫຼາຍ... ຄາຕີ ແມັກຣາຍ, ຄາທີ ແມັກຣາຍ, ເຄຕີ້
+ແມັກເຣຍ. ໄມຄ໌ ຣາຍ, ດຣ ມິກຣາຍທີ່ຍິ່ງໃຫຍ່... ຂ້ອຍຢາກເຮັດປານເກັກໃຫ້ເຈົ້າບາງຄັ້ງ.
+
+1046
+01:02:25,650 --> 01:02:27,650
+[KATIE]
+Squeeze the morphine trigger!
+ກົດກະຕຸ້ນໂມຟິນ!
+
+1047
+01:02:28,150 --> 01:02:34,150
+[SUPER: NOVEMBER]
+A door bell. A hand reaches out. A finger on that hand pushes the door bell. The other hand holds a bouquet of flowers.
+ກະທູ້ປະຕູ. ມືຍືດອອກ. ນິ້ວມືໃນມືນັ້ນຊຸກຍູ້ກະທູ້
+ປະຕູ. ອີກມືຫນຶ່ງຖື bouquet ຂອງດອກໄມ້.
+
+1048
+01:02:34,650 --> 01:02:37,800
+[MARGARET]
+Oh, hello, I didn't see you, ah down there.
+ໂອ້, ສະບາຍດີ, ຂ້ອຍບໍ່ໄດ້ເຫັນເຈົ້າ, ອາຢູ່ລຸ່ມນັ້ນ.
+
+1049
+01:02:38,300 --> 01:02:40,300
+[ADAM]
+You must be Margaret.
+ເຈົ້າຕ້ອງເປັນມາເກຣຕ໌.
+
+1050
+01:02:40,800 --> 01:02:42,900
+[MARGARET]
+Yes, I'm looking for Adam Schwartz.
+ແມ່ນແລ້ວ, ຂ້ອຍ ກໍາ ລັງຊອກຫາອາດາມ ສວາດສ໌.
+
+1051
+01:02:43,400 --> 01:02:45,400
+[ADAM]
+That's me.
+ນັ້ນແມ່ນຂ້ອຍ.
+
+1052
+01:02:45,900 --> 01:02:51,900
+[MARGARET]
+You're Adam? The way Mitch described you, I always assumed you to be much older. About 50 years older. But, you're just a baby...
+ເຈົ້າເປັນອາດາມບໍ? ວິທີທີ່ມິດຊ໌ອະທິບາຍເຈົ້າ, ຂ້ອຍຄິດວ່າເຈົ້າອາຍຸຫຼາຍ
+. ປະມານ 50 ປີອາຍຸ. ແຕ່, ເຈົ້າພຽງແຕ່ເປັນເດັກນ້ອຍ...
+
+1053
+01:02:52,400 --> 01:02:56,600
+[ADAM]
+I'm so glad you could make it. I'm really sorry about Mitch.
+ຂ້ອຍດີໃຈຫຼາຍທີ່ເຈົ້າສາມາດມາໄດ້. ຂ້ອຍຂໍໂທດແທ້ໆກ່ຽວກັບມິτς.
+
+1054
+01:02:57,100 --> 01:02:59,100
+[MARGARET]
+Me too.
+ຂ້ອຍຄືກັນ.
+
+1055
+01:02:59,600 --> 01:03:02,050
+[ADAM]
+Please come inside. You're just in time.
+ກະລຸນາເຂົ້າມາ. ເຈົ້າທັນເວລາແລ້ວ.
+
+1056
+01:03:02,550 --> 01:03:08,550
+[ADAM]
+Sorry about the mess. I just moved in...The ocean air is supposed to be good for my recovery.
+ຂໍໂທດກ່ຽວກັບຄວາມສັບສົນ. ຂ້ອຍຫາກໍ່ຍ້າຍເຂົ້າມາ
+... ອາກາດມະຫາສະຫມຸດຄວນດີຕໍ່ການຟື້ນຟູຂອງຂ້ອຍ.
+
+1057
+01:03:09,050 --> 01:03:12,200
+[ADAM]
+We're having a Duck Hunt tournament. You play? 118.
+ພວກເຮົາ ກໍາ ລັງຈັດການແຂ່ງຂັນລ່າແມວ. ເຈົ້າຫຼິ້ນບໍ? 118.
+
+1058
+01:03:12,700 --> 01:03:16,200
+[MARGARET]
+Me? Oh I don't know how to play video games.
+ຂ້ອຍ? ໂອ້ ຂ້ອຍບໍ່ຮູ້ວິທີຫຼິ້ນເກມວີດີໂອ.
+
+1059
+01:03:16,700 --> 01:03:19,150
+[ADAM]
+It's really easy. One button does everything.
+ມັນງ່າຍແທ້ໆ. ປຸ່ມດຽວເຮັດທຸກຢ່າງ.
+
+1060
+01:03:19,650 --> 01:03:22,100
+[EDITH]
+This food's not going to eat itself.
+ອາຫານນີ້ຈະບໍ່ກິນຕົວເອງ.
+
+1061
+01:03:22,600 --> 01:03:24,600
+[SETH]
+I got it.
+ຂ້ອຍເຮັດແລ້ວ.
+
+1062
+01:03:25,100 --> 01:03:27,100
+[ADAM]
+You mind?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+1063
+01:03:27,600 --> 01:03:33,600
+[ADAM]
+Please. I think there's a red tide or something. My eyes are all itchy. It feels like someone is rubbing sandpaper on my corneas.
+ກະລຸນາ. ຂ້ອຍຄິດວ່າມີຄື້ນຟອງສີແດງຫຼືບາງສິ່ງບາງຢ່າງ. ຕາຂອງຂ້ອຍທັງ ຫມົດ
+ມີອາການກະຕຸ້ນ. ມັນຮູ້ສຶກຄືກັບວ່າມີຄົນ ກໍາ ລັງລ້າງເຈ້ຍຊາຍໃສ່ຄໍເນຍຂອງຂ້ອຍ.
+
+1064
+01:03:34,100 --> 01:03:37,600
+[SETH]
+Nope. You don't have cancer anymore. No more special treatment.
+ບໍ່. ເຈົ້າບໍ່ມີມະເຮັງອີກແລ້ວ. ບໍ່ມີການປິ່ນປົວພິເສດອີກຕໍ່ໄປ.
+
+1065
+01:03:38,100 --> 01:03:40,200
+[ADAM]
+I am still in remission. 119.
+ຂ້ອຍຍັງຢູ່ໃນການຫຼຸດຜ່ອນ. 119.
+
+1066
+01:03:40,700 --> 01:03:43,850
+[EDITH]
+You gonna spend the rest of your life complaining?
+ເຈົ້າຈະໃຊ້ຊີວິດທັງ ຫມົດ ຂອງເຈົ້າຮ້ອງທຸກບໍ?
+
+1067
+01:03:44,350 --> 01:03:46,350
+[ADAM]
+I like complaining.
+ຂ້ອຍມັກຮ້ອງທຸກ.
+

@@ -1,0 +1,3254 @@
+1
+00:00:10,000 --> 00:00:16,000
+[VOICE]
+3 billion human lives ended on August 29th, 1997. The survivors of the nuclear fire called the war Judgment Day.  They lived only to face a new nightmare, the war against the Machines...
+ຊີວິດມະນຸດ 3 ພັນລ້ານຄົນສິ້ນສຸດລົງໃນວັນທີ 29 ສິງຫາປີ 1997. ຜູ້ລອດຊີວິດຈາກໄຟນິວເຄລຍທີ່ເອີ້ນວ່າສົງຄາມວັນຕັດສິນ
+. ພວກເຂົາມີຊີວິດພຽງແຕ່ເພື່ອປະເຊີນກັບຄວາມຝັນຮ້າຍ ໃຫມ່, ສົງຄາມຕໍ່ຕ້ານເຄື່ອງຈັກ...
+
+2
+00:00:16,500 --> 00:00:22,500
+[VOICE]
+Skynet, the computer which controlled the machines, sent two terminators back through time.  Their mission: to destroy the leader of the human Resistance... John Connor.  My son.
+ສະກາຍເນັດ, ຄອມພິວເຕີທີ່ຄວບຄຸມເຄື່ອງຈັກ, ໄດ້ສົ່ງເຄື່ອງສິ້ນສຸດສອງຄົນກັບຄືນໄປບ່ອນໃນເວລາ.
+ພາລະກິດຂອງພວກເຂົາ: ເພື່ອທໍາລາຍຜູ້ນໍາຂອງການຕໍ່ຕ້ານມະນຸດ... ຈອນ ຄອນເນີ. ລູກຊາຍຂອງຂ້ອຍ.
+
+3
+00:00:23,000 --> 00:00:25,000
+[CIGAR BIKER]
+You forgot to say please.
+ເຈົ້າລືມເວົ້າວ່າ ກະລຸນາ.
+
+4
+00:00:25,500 --> 00:00:27,500
+[TRUCKER]
+Evening...
+ຕອນແລງ...
+
+5
+00:00:28,000 --> 00:00:33,950
+[LLOYD]
+I can't let you take the man's wheels, son. Now get off or I'll put you down.
+ຂ້ອຍບໍ່ສາມາດປ່ອຍໃຫ້ເຈົ້າເອົາລົດຈັກຂອງຜູ້ຊາຍໄດ້
+, ລູກຊາຍ. ດຽວນີ້ລົງຫຼືຂ້ອຍຈະເຮັດໃຫ້ເຈົ້າລົງ.
+
+6
+00:00:34,450 --> 00:00:39,350
+[WOMAN]
+...John?  John!  Get in here right now and clean up that pigsty of yours.
+ຄຸເຂົ່າລົງ
+
+7
+00:00:39,850 --> 00:00:42,300
+[TIM]
+Your foster parents are kinda dicks, right?
+ພໍ່ແມ່ລ້ຽງລູກຂອງເຈົ້າແມ່ນຄົນໂຊກຮ້າຍຫຼາຍ, ແມ່ນບໍ?
+
+8
+00:00:42,800 --> 00:00:44,800
+[JOHN]
+Gimme that Phillips right there.
+ໃຫ້ຟີລິບສ໌ນັ້ນໃຫ້ຂ້ອຍຢູ່ບ່ອນນັ້ນ.
+
+9
+00:00:45,300 --> 00:00:51,300
+[JANELLE]
+I swear I've had it with that goddamn kid. He won't even answer me.  Todd?  Are you gonna sit there or are you gonna do something?
+ຂ້ອຍສາບານໂຕວ່າຂ້ອຍພໍແລ້ວກັບເດັກຄົນນັ້ນ. ລາວຈະບໍ່ຕອບຂ້ອຍເລີຍ
+. ໂຕດ? ເຈົ້າຈະນັ່ງຢູ່ບ່ອນນັ້ນຫຼືເຈົ້າຈະເຮັດບາງສິ່ງບາງຢ່າງບໍ?
+
+10
+00:00:51,800 --> 00:00:56,350
+[TODD]
+John!  Get your ass inside right now and do what your mother says!
+ຈອນ! ເອົາຫລັງຂອງທ່ານເຂົ້າໄປໃນທັນທີແລະເຮັດຕາມທີ່ແມ່ຂອງທ່ານບອກ!
+
+11
+00:00:56,850 --> 00:00:58,850
+[JOHN]
+She's not my mother, Todd!
+ນາງບໍ່ແມ່ນແມ່ຂອງຂ້ອຍ, ໂຕດ!
+
+12
+00:00:59,350 --> 00:01:04,250
+[TIM]
+Major moves, homes!  So... where is your real mom, anyway?  She dead or something?
+ການເຄື່ອນຍ້າຍໃຫຍ່, ເຮືອນ! ສະນັ້ນ... ແມ່ແທ້ຂອງເຈົ້າຢູ່ໃສ
+, ຢ່າງໃດກໍຕາມ? ນາງຕາຍຫຼືບາງສິ່ງບາງຢ່າງບໍ?
+
+13
+00:01:04,750 --> 00:01:06,750
+[JOHN]
+She might as well be.
+ນາງອາດຈະເປັນເຊັ່ນກັນ.
+
+14
+00:01:07,250 --> 00:01:13,250
+[SILBERMAN]
+The next patient is a 29-year old female diagnosed as acute schizo-affective disorder. The usual indicators... depression, anxiety, violent acting-out, delusions of persecution.  Here we are.
+ຄົນເຈັບຕໍ່ໄປແມ່ນແມ່ຍິງອາຍຸ 29 ປີທີ່ຖືກກວດພົບວ່າເປັນໂຣກສະກິໂຊ-ອາລົມທີ່ຮຸນແຮງ. ຕົວຊີ້ວັດປົກກະຕິ
+... ຄວາມກົດດັນ, ຄວາມກັງວົນ, ການສະແດງຄວາມຮຸນ ແຮງ, ຄວາມຜິດພາດຂອງການຂົ່ມຂູ່. ພວກເຮົາຢູ່ບ່ອນນີ້.
+
+15
+00:01:13,750 --> 00:01:15,750
+[SILBERMAN]
+'Morning, Sarah.
+ຕອນເຊົ້າ, ຊາຣາ.
+
+16
+00:01:16,250 --> 00:01:18,700
+[SARAH]
+Good morning, Dr. Silberman.  How's the knee?
+ຄຸເຂົ່າລົງ
+
+17
+00:01:19,200 --> 00:01:24,800
+[SILBERMAN]
+Fine, Sarah.  She, uh... stabbed me in the kneecap with a screwdriver a few weeks ago.
+ດີແລ້ວ, ຊາຣາ. ນາງ, ອູ...
+ໄດ້ດອກຂ້ອຍໃນຈານເຂົ່າດ້ວຍເຄື່ອງຂັບຂີ່ສະກູສອງສາມອາທິດກ່ອນ.
+
+18
+00:01:25,300 --> 00:01:31,300
+[SILBERMAN]
+The delusional architecture is interesting. She believes a machine called a "terminator", which looks human of course, was sent back though time to kill her.  And also that the father of her child was a soldier, sent to protect her... he was from the future too...  The year 2029, if I remember correctly.  Let's move on, shall we?
+ສະຖາປັດຕະຍະກໍາທີ່ຜິດພາດແມ່ນຫນ້າສົນໃຈ. ນາງເຊື່ອວ່າເຄື່ອງຈັກທີ່ເອີ້ນວ່າ"ຜູ້ສິ້ນສຸດລົງ", ເຊິ່ງເບິ່ງຄືວ່າມະນຸດແນ່ນອນ, ໄດ້ຖືກສົ່ງກັບຄືນໄປບ່ອນເຖິງແມ່ນວ່າເວລາທີ່ຈະຂ້ານາງ
+. ແລະຍັງວ່າພໍ່ຂອງລູກຂອງນາງເປັນທະຫານ, ຖືກສົ່ງເພື່ອປົກປ້ອງນາງ... ລາວມາຈາກອະນາຄົດເຊັ່ນກັນ... ປີ 2029, ຖ້າຂ້ອຍຈື່ຢ່າງຖືກຕ້ອງ. ໄປຕໍ່ໄປ, ພວກເຮົາຈະເຮັດແນວໃດ?
+
+19
+00:01:31,800 --> 00:01:37,800
+[SILBERMAN]
+Douglas, I don't like seeing the patients disturbing their rooms like this.  See that she takes her thorazine, would you?
+ດູແກລສ໌, ຂ້ອຍບໍ່ມັກເຫັນຄົນເຈັບລົບກວນຫ້ອງຂອງພວກເຂົາແບບນີ້
+. ເບິ່ງວ່ານາງກິນທໍຣາຊິນຂອງນາງ, ເຈົ້າຈະເຮັດບໍ?
+
+20
+00:01:38,300 --> 00:01:40,400
+[DOUGLAS]
+Time to take you meds, Connor.
+ມັນເຖິງເວລາແລ້ວທີ່ຈະເອົາຢາໃຫ້ເຈົ້າ, ຄອນເນີ.
+
+21
+00:01:40,900 --> 00:01:42,900
+[SARAH]
+You take it.
+ເຈົ້າເອົາມັນ.
+
+22
+00:01:43,400 --> 00:01:48,650
+[DOUGLAS]
+Now you know you got to be good 'cause you up for review this afternoon...
+ດຽວນີ້ເຈົ້າຮູ້ວ່າເຈົ້າຕ້ອງດີເພາະວ່າເຈົ້າຈະທົບທວນຄືນໃນຕອນບ່າຍນີ້
+...
+
+23
+00:01:49,150 --> 00:01:52,650
+[SARAH]
+I'm not taking it.  Now I don't want any trouble...
+ຂ້ອຍຈະບໍ່ເອົາມັນ. ດຽວນີ້ຂ້ອຍບໍ່ຢາກມີບັນຫາໃດໆ...
+
+24
+00:01:53,150 --> 00:01:55,250
+[DOUGLAS]
+Ain't no trouble at all --
+ມັນບໍ່ມີບັນຫາເລີຍ -
+
+25
+00:01:55,750 --> 00:01:57,750
+[SARAH]
+You... son of a... AAARRGH!!
+ເຈົ້າ... ລູກຊາຍຂອງ... AAARRGH!!
+
+26
+00:01:58,250 --> 00:02:00,250
+[DOUGLAS]
+Last call, sugar.
+ການໂທຄັ້ງສຸດທ້າຍ, ແຊກແຊກ.
+
+27
+00:02:00,750 --> 00:02:02,750
+[JOHN]
+Easy money!
+ເງິນງ່າຍໆ!
+
+28
+00:02:03,250 --> 00:02:05,350
+[TIM]
+Where'd you learn all this stuff?
+ເຈົ້າຮຽນຮູ້ສິ່ງທັງ ຫມົດ ນີ້ຢູ່ໃສ?
+
+29
+00:02:05,850 --> 00:02:10,400
+[JOHN]
+From my mom.  My real mom, I mean.  Come on baby...  Let's go!
+ຈາກແມ່ຂອງຂ້ອຍ. ແມ່ຂອງຂ້ອຍທີ່ແທ້ຈິງ, ຂ້ອຍຫມາຍຄວາມວ່າ. ມາແມ... ໄປ!
+
+30
+00:02:10,900 --> 00:02:12,900
+[TIM]
+That her?
+ນັ້ນແມ່ນນາງບໍ?
+
+31
+00:02:13,400 --> 00:02:15,400
+[TIM]
+So she's pretty cool, huh?
+ສະນັ້ນນາງດີຫຼາຍ, ແມ່ນບໍ?
+
+32
+00:02:15,900 --> 00:02:21,900
+[JOHN]
+Actually, no, she's a complete psycho.  That's why she's up at Pescedero.  She tries to blow up a computer factory, but she got shot and arrested.
+ໃນຄວາມເປັນຈິງ, ບໍ່, ນາງເປັນຄົນຈິດໃຈຢ່າງສົມບູນແບບ. ນັ້ນແມ່ນເຫດຜົນທີ່ນາງຢູ່ເທິງໃນ
+Pescedero. ນາງພະຍາຍາມລະເບີດໂຮງງານຜະລິດຄອມພິວເຕີ, ແຕ່ນາງຖືກຍິງແລະຈັບກຸມ.
+
+33
+00:02:22,400 --> 00:02:24,400
+[TIM]
+No shit?
+ບໍ່ເປັນຫຍັງບໍ?
+
+34
+00:02:24,900 --> 00:02:29,450
+[JOHN]
+Yeah, she's a total loser.  C'mon, let's check out the 7-Eleven, whatya say?
+ແມ່ນແລ້ວ, ນາງເປັນຄົນເສຍຫາຍຢ່າງສົມບູນ.
+ມາ, ມາເບິ່ງ 7-Eleven, ເຈົ້າເວົ້າແນວໃດ?
+
+35
+00:02:29,950 --> 00:02:32,750
+[OFFICER X]
+Are you the legal guardian of John Connor?
+ເຈົ້າເປັນຜູ້ປົກຄອງກົດ ຫມາຍ ຂອງຈອນ ຄອນເນີບໍ?
+
+36
+00:02:33,250 --> 00:02:35,700
+[TODD]
+That's right, officer.  What's he done now?
+ນັ້ນແມ່ນແລ້ວ, ເຈົ້າຫນ້າທີ່. ລາວເຮັດຫຍັງດຽວນີ້?
+
+37
+00:02:36,200 --> 00:02:38,300
+[OFFICER X]
+Could I speak with him, please?
+ຂ້ອຍສາມາດເວົ້າກັບລາວໄດ້ບໍ, ກະລຸນາ?
+
+38
+00:02:38,800 --> 00:02:44,800
+[TODD]
+Well, you could if he was here.  Be he took off on his bike this morning.  Could be anywhere. You gonna tell me what his is about?
+ດີ, ເຈົ້າສາມາດເຮັດໄດ້ຖ້າລາວຢູ່ບ່ອນນີ້. ລາວໄດ້ອອກໄປດ້ວຍລົດຖີບຂອງລາວໃນຕອນເຊົ້ານີ້
+. ອາດຢູ່ບ່ອນໃດກໍ່ຕາມ. ເຈົ້າຈະບອກຂ້ອຍວ່າຂອງລາວກ່ຽວກັບຫຍັງ?
+
+39
+00:02:45,300 --> 00:02:48,450
+[OFFICER X]
+I just need to ask him a few questions.
+ຂ້ອຍພຽງແຕ່ຕ້ອງຖາມລາວສອງສາມຄໍາຖາມເທົ່ານັ້ນ.
+
+40
+00:02:48,950 --> 00:02:52,800
+[JANELLE]
+There was a guy here this morning asking about him, too.
+ມີຜູ້ຊາຍຄົນຫນຶ່ງຢູ່ບ່ອນນີ້ໃນຕອນເຊົ້ານີ້ຖາມກ່ຽວກັບລາວເຊັ່ນກັນ.
+
+41
+00:02:53,300 --> 00:02:58,200
+[TODD]
+Yeah, big guy.  On a bike.  Has that got something to do with it?
+ແມ່ນແລ້ວ, ຜູ້ໃຫຍ່. ຢູ່ເທິງລົດຖີບ. ມັນກ່ຽວຂ້ອງກັບມັນບໍ?
+
+42
+00:02:58,700 --> 00:03:02,200
+[OFFICER X]
+I wouldn't worry.  Do you have a photograph of John?
+ຂ້ອຍຈະບໍ່ກັງວົນ. ເຈົ້າມີຮູບຂອງຈອນບໍ?
+
+43
+00:03:02,700 --> 00:03:04,700
+[TODD]
+Get the album, Janelle.
+ເອົາອາລບັມ, ຈານເລ.
+
+44
+00:03:05,200 --> 00:03:07,200
+[SARAH]
+Kyle..?  You're dead.
+ໄຄລ໌...? ເຈົ້າຕາຍແລ້ວ.
+
+45
+00:03:07,700 --> 00:03:10,150
+[REESE]
+I know.  This is a dream, Sarah.
+ຂ້ອຍຮູ້ແລ້ວ. ນີ້ແມ່ນຄວາມຝັນ, ຊາຣາ.
+
+46
+00:03:10,650 --> 00:03:13,450
+[SARAH]
+Oh.  Yeah.  They... make me take this stuff...
+ໂອ້. ແມ່ນແລ້ວ. ພວກເຂົາ... ເຮັດໃຫ້ຂ້ອຍເອົາສິ່ງນີ້...
+
+47
+00:03:13,950 --> 00:03:15,950
+[SARAH]
+Hold me.
+ຈັບຂ້ອຍໄວ້.
+
+48
+00:03:16,450 --> 00:03:18,550
+[REESE]
+I love you.  I always will.
+ຂ້ອຍຮັກເຈົ້າ. ຂ້ອຍຈະຮັກຢູ່ສະເຫມີ.
+
+49
+00:03:19,050 --> 00:03:21,850
+[SARAH]
+Oh, God... Kyle.  I need you so much.
+ໂອ້ ພຣະເຈົ້າ... ໄຄລ໌. ຂ້ອຍຕ້ອງການເຈົ້າຫຼາຍ.
+
+50
+00:03:22,350 --> 00:03:24,350
+[REESE]
+Where's John, Sarah?
+ຈອນຢູ່ໃສ, ຊາຣາ?
+
+51
+00:03:24,850 --> 00:03:26,850
+[SARAH]
+They took him from me.
+ພວກເຂົາເອົາລາວຈາກຂ້ອຍ.
+
+52
+00:03:27,350 --> 00:03:32,250
+[REESE]
+It's John who's the target now.  You have to protect him.  He's wide open.
+ມັນເປັນຈອນທີ່ເປັນເປົ້າຫມາຍດຽວນີ້.
+ເຈົ້າຕ້ອງປົກປ້ອງລາວ. ລາວເປີດກວ້າງ.
+
+53
+00:03:32,750 --> 00:03:34,750
+[SARAH]
+I know!
+ຂ້ອຍຮູ້ແລ້ວ!
+
+54
+00:03:35,250 --> 00:03:37,700
+[REESE]
+Don't quit, Sarah.  Our son need you.
+ຢ່າຢຸດເຊົາ, ຊາຣາ. ລູກຊາຍຂອງພວກເຮົາຕ້ອງການເຈົ້າ.
+
+55
+00:03:38,200 --> 00:03:44,200
+[SARAH]
+I know, but I'm not as strong as I'm supposed to be.  I can't do it.  I'm screwing up the mission.
+ຂ້ອຍຮູ້ແລ້ວ, ແຕ່ຂ້ອຍບໍ່ແຂງແຮງເທົ່າທີ່ຂ້ອຍຄວນເປັນ.
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້. ຂ້ອຍ ກໍາ ລັງເຮັດໃຫ້ພາລະກິດສໍ້ໂກງ.
+
+56
+00:03:44,700 --> 00:03:50,700
+[REESE]
+Remember the message... the future is not set. There is not fate but what we make for ourselves.
+ຈື່ຂໍ້ຄວາມວ່າ... ອະນາຄົດບໍ່ໄດ້ກໍານົດໄວ້.
+ບໍ່ມີໂຊກຊະຕາໃດໆ ນອກຈາກສິ່ງທີ່ພວກເຮົາສ້າງຂຶ້ນ ສໍາ ລັບຕົວເອງ.
+
+57
+00:03:51,200 --> 00:03:53,200
+[SARAH]
+Kyle, don't go!
+ໄຄລ, ຢ່າໄປ!
+
+58
+00:03:53,700 --> 00:03:56,850
+[REESE]
+There's not much time left in the world, Sarah.
+ຍັງບໍ່ມີເວລາຫຼາຍໃນໂລກ, ຊາຣາ.
+
+59
+00:03:57,350 --> 00:04:03,350
+[VIDEO SARAH]
+... it's... like a giant strobe light, burning right through my eyes... but somehow I can still see.  Look, you know the dream's the same every night, why do I have to --
+ມັນຄືກັບແສງສະຫວ່າງສຕຣັບໃຫຍ່ໆ, ໄຫມ້ໂດຍກົງຜ່ານຕາຂອງຂ້ອຍ... ແຕ່ບາງຢ່າງຂ້ອຍຍັງສາມາດເຫັນໄດ້
+. ເບິ່ງ, ເຈົ້າຮູ້ວ່າຄວາມຝັນແມ່ນຄືກັນທຸກໆຄືນ, ເປັນຫຍັງຂ້ອຍຕ້ອງ -
+
+60
+00:04:03,850 --> 00:04:05,850
+[VIDEO SILBERMAN]
+Please continue...
+ກະລຸນາສືບຕໍ່...
+
+61
+00:04:06,350 --> 00:04:10,900
+[VIDEO SILBERMAN]
+Dreams about cataclysm, or the end of the world, are very common, Sarah...
+ຄວາມຝັນກ່ຽວກັບໄພພິບັດ, ຫຼືສິ້ນສຸດໂລກ, ແມ່ນທົ່ວໄປຫຼາຍ, ຊາຣາ...
+
+62
+00:04:11,400 --> 00:04:16,650
+[VIDEO SARAH]
+It's not just a dream.  It's real, you moron! I know the date is happens!!
+ມັນບໍ່ແມ່ນພຽງແຕ່ຄວາມຝັນເທົ່ານັ້ນ. ມັນເປັນຄວາມຈິງ
+, ເຈົ້າໂຊກຮ້າຍ! ຂ້ອຍຮູ້ວ່າວັນທີແມ່ນເກີດຂຶ້ນ!!
+
+63
+00:04:17,150 --> 00:04:20,300
+[VIDEO SILBERMAN]
+I'm sure it feels very real to you --
+ຂ້ອຍແນ່ໃຈວ່າມັນຮູ້ສຶກເປັນຈິງຫຼາຍຕໍ່ເຈົ້າ -
+
+64
+00:04:20,800 --> 00:04:26,800
+[VIDEO SARAH]
+On August 29th 1997 it's going to feel pretty fucking real to you, too!  Anybody not wearing number two million sunblock in gonna have a real bad day, get it?
+ໃນວັນທີ 29 ສິງຫາປີ 1997 ມັນຈະຮູ້ສຶກເປັນຈິງຫຼາຍ ສໍາ ລັບເຈົ້າເຊັ່ນກັນ!
+ໃຜທີ່ບໍ່ໄດ້ໃສ່ເຄື່ອງປ້ອງກັນແສງຕາເວັນເລກສອງລ້ານຄົນໃນຈະມີມື້ທີ່ບໍ່ດີແທ້ໆ, ເຂົ້າໃຈບໍ?
+
+65
+00:04:27,300 --> 00:04:29,300
+[VIDEO SILBERMAN]
+Relax now, Sarah --
+ສະບາຍໃຈດຽວນີ້, ຊາຣາ -
+
+66
+00:04:29,800 --> 00:04:35,800
+[VIDEO SARAH]
+You think you're alive and safe, but you're already dead.  Everybody, you, him...  everybody... you're all fucking dead!
+ເຈົ້າຄິດວ່າເຈົ້າມີຊີວິດຢູ່ແລະປອດໄພ, ແຕ່ເຈົ້າຕາຍແລ້ວ
+. ທຸກຄົນ, ເຈົ້າ, ລາວ... ທຸກຄົນ... ເຈົ້າຕາຍແລ້ວ!
+
+67
+00:04:36,300 --> 00:04:42,250
+[VIDEO SARAH]
+You're the one living in a dream, Silberman, not me!  Because I know it happens.  It happens!
+ເຈົ້າເປັນຄົນທີ່ອາໄສຢູ່ໃນຄວາມຝັນ, ຊີລເບີແມນ,
+ບໍ່ແມ່ນຂ້ອຍ! ເພາະວ່າຂ້ອຍຮູ້ວ່າມັນເກີດຂຶ້ນ. ມັນເກີດຂຶ້ນ!
+
+68
+00:04:42,750 --> 00:04:46,600
+[SARAH]
+I was afraid... and confused.  I feel much better, now.  Clearer.
+ຂ້ອຍຢ້ານກົວ... ແລະສັບສົນ.
+ຂ້ອຍຮູ້ສຶກດີຂຶ້ນຫຼາຍ, ດຽວນີ້. ສະອາດກວ່າເກົ່າ.
+
+69
+00:04:47,100 --> 00:04:49,900
+[SILBERMAN]
+Yes.  Your attitude have been very positive lately.
+ແມ່ນແລ້ວ. ທັດສະນະຂອງທ່ານແມ່ນດີຫຼາຍໃນໄລຍະຜ່ານມາ.
+
+70
+00:04:50,400 --> 00:04:55,650
+[SARAH]
+It has helped me a lot to have a goal, something to look forward to.
+ມັນຊ່ວຍຂ້ອຍຫຼາຍທີ່ຈະມີເປົ້າຫມາຍ, ບາງສິ່ງບາງຢ່າງທີ່ຈະຄາດຫວັງ.
+
+71
+00:04:56,150 --> 00:04:58,150
+[SILBERMAN]
+And what it that?
+ແລະມັນເປັນຫຍັງ?
+
+72
+00:04:58,650 --> 00:05:04,650
+[SARAH]
+You said I could be transferred to the minimum security wing and have visitors if I showed improvement in six months.  Well, it's been six months, and I was looking forward to seeing my son.
+ຄຸເຂົ່າລົງ
+
+73
+00:05:05,150 --> 00:05:11,150
+[SILBERMAN]
+I see.  Let's go back to what you were saying about these terminator machines.  Now you think they don't exist?
+ຂ້ອຍເຫັນແລ້ວ. ມາກັບຄືນໄປບ່ອນທີ່ທ່ານ ກໍາ
+ລັງເວົ້າກ່ຽວກັບເຄື່ອງຈັກສິ້ນສຸດນີ້. ດຽວນີ້ເຈົ້າຄິດວ່າພວກມັນບໍ່ມີຢູ່ບໍ?
+
+74
+00:05:11,650 --> 00:05:14,100
+[SARAH]
+They don't exist.  I see that now.
+ພວກເຂົາບໍ່ມີຢູ່. ຂ້ອຍເຫັນແລ້ວ.
+
+75
+00:05:14,600 --> 00:05:20,200
+[SILBERMAN]
+But you've told me on many occasions about how you crushed one in a hydraulic press.
+ແຕ່ເຈົ້າໄດ້ບອກຂ້ອຍໃນໂອກາດຫຼາຍຄັ້ງກ່ຽວກັບວິທີທີ່ທ່ານໄດ້ສັ່ນສະເທືອນຫນຶ່ງໃນເຄື່ອງພິມໄຮໂດຼລິກ
+.
+
+76
+00:05:20,700 --> 00:05:26,650
+[SARAH]
+If I had, there would have been some evidence. They would have found something at the factory.
+ຖ້າຂ້ອຍມີ, ມັນຈະມີຫຼັກຖານບາງຢ່າງ.
+ພວກເຂົາຈະພົບບາງສິ່ງບາງຢ່າງໃນໂຮງງານຜະລິດ.
+
+77
+00:05:27,150 --> 00:05:31,700
+[SILBERMAN]
+I see.  So you don't believe anymore that the company covered it up?
+ຂ້ອຍເຫັນແລ້ວ. ສະນັ້ນເຈົ້າບໍ່ເຊື່ອວ່າບໍລິສັດໄດ້ປິດບັງມັນອີກບໍ?
+
+78
+00:05:32,200 --> 00:05:34,200
+[DYSON]
+Greetings, troops.
+ສະບາຍດີ, ທະຫານ.
+
+79
+00:05:34,700 --> 00:05:39,950
+[BRYANT]
+Mr. Dyson?  The material teams wants to run another test on the uh... on it.
+ທ້າວດາຍສັນ? ທີມງານວັດສະດຸຢາກເຮັດການທົດສອບອີກຄັ້ງກ່ຽວກັບອູ
+... ກ່ຽວກັບມັນ.
+
+80
+00:05:40,450 --> 00:05:42,550
+[DYSON]
+Yup.  Come on.  I'll get it.
+ແມ່ນແລ້ວ. ມາແລ້ວ. ຂ້ອຍຈະເອົາມັນ.
+
+81
+00:05:43,050 --> 00:05:49,050
+[BRYANT]
+Listen, Mr. Dyson, I know I haven't been here that long, but I was wondering if you could tell me... I mean, if you know...
+ຟັງ, ທ້າວດາຍສັນ, ຂ້ອຍຮູ້ວ່າຂ້ອຍບໍ່ໄດ້ຢູ່ບ່ອນນີ້ດົນປານໃດ, ແຕ່ຂ້ອຍ ກໍາ
+ລັງສົງໄສວ່າເຈົ້າສາມາດບອກຂ້ອຍໄດ້ບໍ... ຂ້ອຍຫມາຍຄວາມວ່າ, ຖ້າເຈົ້າຮູ້...
+
+82
+00:05:49,550 --> 00:05:51,550
+[DYSON]
+Know what?
+ເຈົ້າຮູ້ຫຍັງ?
+
+83
+00:05:52,050 --> 00:05:54,050
+[BRYANT]
+Well... where it came from.
+ດີ... ມັນມາຈາກໃສ.
+
+84
+00:05:54,550 --> 00:05:59,100
+[DYSON]
+I asked them that question once.  Know what they told me?  Don't ask.
+ຂ້ອຍຖາມພວກເຂົາຄໍາຖາມນັ້ນຄັ້ງຫນຶ່ງ.
+ເຈົ້າຮູ້ວ່າພວກເຂົາບອກຂ້ອຍຫຍັງບໍ? ຢ່າຖາມ.
+
+85
+00:05:59,600 --> 00:06:04,500
+[SARAH]
+So what do you think, Doctor?  I've shown a lot of improvement, haven't I?
+ເຈົ້າຄິດແນວໃດ, ດອກຕໍ? ຂ້ອຍໄດ້ສະແດງໃຫ້ເຫັນການປັບປຸງຫຼາຍ, ແມ່ນບໍ?
+
+86
+00:06:05,000 --> 00:06:11,000
+[SILBERMAN]
+You see, Sarah... here's the problem.  I know how smart you are, and I think you're just telling me what I want to hear.  I don't think you really believe who you've been telling me today.
+ເຈົ້າເຫັນແລ້ວ, ຊາຣາ... ນີ້ແມ່ນບັນຫາ. ຂ້ອຍຮູ້ວ່າເຈົ້າສະຫຼາດຫຼາຍປານໃດ,
+ແລະຂ້ອຍຄິດວ່າເຈົ້າພຽງແຕ່ບອກຂ້ອຍສິ່ງທີ່ຂ້ອຍຢາກໄດ້ຍິນ. ຂ້ອຍບໍ່ຄິດວ່າທ່ານເຊື່ອແທ້ໆວ່າເຈົ້າໄດ້ບອກຂ້ອຍມື້ນີ້.
+
+87
+00:06:11,500 --> 00:06:17,500
+[SARAH]
+You have to let me see my son.  Please.  It's very important.  He's in danger.  At least let me call him --
+ເຈົ້າຕ້ອງປ່ອຍໃຫ້ຂ້ອຍເຫັນລູກຊາຍຂອງຂ້ອຍ. ກະລຸນາ.
+ມັນມີຄວາມສໍາຄັນຫຼາຍ. ລາວຢູ່ໃນອັນຕະລາຍ. ຢ່າງຫນ້ອຍໃຫ້ຂ້ອຍໂທຫາລາວ -
+
+88
+00:06:18,000 --> 00:06:24,000
+[SILBERMAN]
+I'm afraid not.  Not for a while.  I don't see any choice but to recommend to the review board that you stay here another six months.
+ຂ້ອຍຢ້ານວ່າບໍ່ແມ່ນ. ບໍ່ແມ່ນຊົ່ວຄາວ. ຂ້ອຍບໍ່ເຫັນທາງເລືອກຫຍັງນອກຈາກການແນະ
+ນໍາ ໃຫ້ຄະນະ ກໍາ ມະການທົບທວນຄືນວ່າເຈົ້າຈະຢູ່ບ່ອນນີ້ອີກຫົກເດືອນ.
+
+89
+00:06:24,500 --> 00:06:30,500
+[YOU SON OF A BITCH!!]
+Silberman jumps back and the attendants dive on her.  She is writhing and twisting like a bobcat.  Silberman whips open a drawer and pulls out a syringe.  He jabs it into her and she yells --
+ຊີລເບີແມນໂດດກັບຄືນໄປບ່ອນແລະຜູ້ຮັບໃຊ້ລອຍລົງໃສ່ນາງ. ນາງ ກໍາ ລັງສັ່ນສະເທືອນແລະສໍ້ໂກງຄືກັບໂບບແມວ
+. ຊີລເມນເປີດກະຕູ້ແລະດຶງສີດອອກ. ລາວສີດມັນເຂົ້າໄປໃນນາງແລະນາງຮ້ອງໄຫ້ -
+
+90
+00:06:31,000 --> 00:06:37,000
+[SARAH]
+Goddammit.  Let me go!!  Silberman!  You don't know what you're doing!  You fuck!  You're dead! You hear me!!
+ສະບາຍດີ. ໃຫ້ຂ້ອຍໄປ!! ຊີລເບີແມນ! ເຈົ້າບໍ່ຮູ້ວ່າເຈົ້າ ກໍາ
+ລັງເຮັດຫຍັງ! ເຈົ້າໂຊກຮ້າຍ! ເຈົ້າຕາຍແລ້ວ! ເຈົ້າໄດ້ຍິນຂ້ອຍ!!
+
+91
+00:06:37,500 --> 00:06:39,500
+[SILBERMAN]
+Model citizen.
+ພົນລະເມືອງແບບຢ່າງ.
+
+92
+00:06:40,000 --> 00:06:46,000
+[FIRST GIRL]
+Yeah, he was here about fifteen minutes ago.  I think he said he was going to the Galleria.
+ແມ່ນແລ້ວ, ລາວຢູ່ບ່ອນນີ້ປະມານສິບຫ້ານາທີກ່ອນ
+. ຂ້ອຍຄິດວ່າລາວເວົ້າວ່າລາວຈະໄປ Galleria.
+
+93
+00:06:46,500 --> 00:06:48,500
+[OFFICER X]
+The what?
+ຫຍັງ?
+
+94
+00:06:49,000 --> 00:06:51,450
+[TIM]
+Some cop is scoping for you, dude.
+ຕໍາຫຼວດບາງຄົນ ກໍາ ລັງຊອກຫາເຈົ້າ, ເພື່ອນ.
+
+95
+00:06:51,950 --> 00:06:53,950
+[TERMINATOR]
+Get down.
+ນັ່ງລົງ.
+
+96
+00:06:54,450 --> 00:06:56,550
+[JOHN]
+Whoa... time out.  Stop the bike!
+ໂວ້... ເວລາອອກໄປ. ຢຸດລົດຖີບ!
+
+97
+00:06:57,050 --> 00:07:01,600
+[JOHN]
+Now don't take this the wrong way, but you are a terminator, right?
+ດຽວນີ້ຢ່າເຂົ້າໃຈເລື່ອງນີ້ຢ່າງຜິດພາດ
+, ແຕ່ເຈົ້າເປັນຜູ້ສິ້ນສຸດການ, ແມ່ນບໍ?
+
+98
+00:07:02,100 --> 00:07:04,100
+[TERMINATOR]
+Yes.  Cyberdyne Systems, Model 101.
+ແມ່ນແລ້ວ. ລະບົບໄຊບີເດິນ, ຮູບແບບ 101.
+
+99
+00:07:04,600 --> 00:07:06,600
+[JOHN]
+No way!
+ບໍ່ເປັນໄປເລີຍ!
+
+100
+00:07:07,100 --> 00:07:13,100
+[JOHN]
+Holy shit... you're really real!  I mean... whoah!  You're, uh... like a machine underneath, right... but sort of alive outside?
+ສະຫວັນນະເຂດ... ເຈົ້າເປັນຕົວຈິງແທ້ໆ! ຂ້ອຍຫມາຍຄວາມວ່າ... ໂວ້! ເຈົ້າເປັນ,
+ອູ... ຄືກັບເຄື່ອງຈັກຢູ່ພາຍໃຕ້, ແມ່ນແລ້ວ... ແຕ່ບາງຢ່າງມີຊີວິດຢູ່ນອກບໍ?
+
+101
+00:07:13,600 --> 00:07:17,100
+[TERMINATOR]
+I'm a cybernetic organism.  Living tissue over a metal endoskeleton.
+ຂ້ອຍເປັນຊີວະພາບໄຊເບີເນັດ.
+ເນື້ອຜ້າທີ່ມີຊີວິດຢູ່ເທິງກະດູກພາຍໃນໂລຫະ.
+
+102
+00:07:17,600 --> 00:07:23,600
+[JOHN]
+This in intense.  Get a grip, John.  Okay, uh... you're not here to kill me... I figured that part out for myself.  So what's the deal?
+ນີ້ແມ່ນມີຄວາມຮຸນແຮງ. ຈັບຕົວໄວ້, ຈອນ. ດີ, ອູ... ເຈົ້າບໍ່ໄດ້ຢູ່ບ່ອນນີ້ເພື່ອຂ້າຂ້ອຍ
+... ຂ້ອຍຄິດສ່ວນນັ້ນ ສໍາ ລັບຕົວເອງ. ສະນັ້ນຂໍ້ຕົກລົງແມ່ນຫຍັງ?
+
+103
+00:07:24,100 --> 00:07:26,200
+[TERMINATOR]
+My mission is to protect you.
+ພາລະກິດຂອງຂ້ອຍແມ່ນເພື່ອປົກປ້ອງເຈົ້າ.
+
+104
+00:07:26,700 --> 00:07:28,700
+[JOHN]
+Yeah?  Who sent you?
+ແມ່ນແລ້ວ? ໃຜສົ່ງເຈົ້າ?
+
+105
+00:07:29,200 --> 00:07:35,150
+[TERMINATOR]
+You did.  Thirty years from now you reprogrammed me to be your protector here, in this time.
+ເຈົ້າເຮັດແລ້ວ.
+ໃນເວລາສາມສິບປີຈາກປັດຈຸບັນເຈົ້າໄດ້ປ່ຽນໂປແກຼມຂ້ອຍໃຫ້ເປັນຜູ້ປົກປ້ອງຂອງທ່ານຢູ່ນີ້, ໃນເວລານີ້.
+
+106
+00:07:35,650 --> 00:07:37,650
+[JOHN]
+This is deep.
+ນີ້ແມ່ນເລິກເຊິ່ງ.
+
+107
+00:07:38,150 --> 00:07:42,000
+[JOHN]
+So this other guy?  He's a terminator too, right, like you?
+ສະນັ້ນຄົນອື່ນນີ້ບໍ? ລາວເປັນຜູ້ສິ້ນສຸດການເຊັ່ນກັນ
+, ແມ່ນບໍ, ຄືກັບເຈົ້າ?
+
+108
+00:07:42,500 --> 00:07:46,000
+[TERMINATOR]
+Not like me.  A T-1000.  Advanced prototype. A mimetic polyalloy.
+ບໍ່ຄືກັບຂ້ອຍ. ທີ-1000. ຮູບແບບແບບທີ່ກ້າວຫນ້າ. ໂປລີລອຍ mimetic.
+
+109
+00:07:46,500 --> 00:07:48,500
+[JOHN]
+What does that mean?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ?
+
+110
+00:07:49,000 --> 00:07:51,000
+[TERMINATOR]
+Liquid metal.
+ໂລຫະແຫຼວ.
+
+111
+00:07:51,500 --> 00:07:53,500
+[JOHN]
+Radical.
+ໂຊກຮ້າຍ.
+
+112
+00:07:54,000 --> 00:07:59,600
+[TERMINATOR]
+You are targeted for termination.  The T-1000 will not stop until it complete its mission. Ever.
+ເຈົ້າຖືກແນເປົ້າຫມາຍເພື່ອສິ້ນສຸດລົງ. ທີ-1000
+ຈະບໍ່ຢຸດຈົນກວ່າມັນຈະສໍາເລັດພາລະກິດຂອງຕົນ. ຕະຫຼອດໄປ.
+
+113
+00:08:00,100 --> 00:08:02,100
+[JOHN]
+Where we going?
+ພວກເຮົາຈະໄປໃສ?
+
+114
+00:08:02,600 --> 00:08:06,450
+[TERMINATOR]
+We have to leave the city, immediately.  And avoid the authorities.
+ພວກເຮົາຕ້ອງອອກຈາກເມືອງທັນທີ. ແລະຫຼີກເວັ້ນເຈົ້າຫນ້າທີ່.
+
+115
+00:08:06,950 --> 00:08:09,050
+[JOHN]
+Can I stop by my house?
+ຂ້ອຍສາມາດມາເຮືອນຂອງຂ້ອຍໄດ້ບໍ?
+
+116
+00:08:09,550 --> 00:08:13,050
+[TERMINATOR]
+Negative.  The T-1000 will definitely try to reacquire you there.
+ບໍ່ເປັນຫຍັງ. ທີ-1000 ຈະພະຍາຍາມເອົາເຈົ້າຄືນຢູ່ບ່ອນນັ້ນຢ່າງແນ່ນອນ.
+
+117
+00:08:13,550 --> 00:08:15,550
+[JOHN]
+You sure?
+ເຈົ້າແນ່ໃຈບໍ?
+
+118
+00:08:16,050 --> 00:08:18,050
+[TERMINATOR]
+I would.
+ຂ້ອຍຈະເຮັດ.
+
+119
+00:08:18,550 --> 00:08:24,150
+[JOHN]
+Look, Todd and Janelle are dicks but I gotta warn them.  Shit!  You got a quarter?
+ເບິ່ງ, ໂຕດ ແລະ ຈານເລລເປັນຄົນໂຊກແຊງແຕ່ຂ້ອຍຕ້ອງເຕືອນພວກເຂົາ
+. ສະບາຍດີ! ເຈົ້າມີສີ່ແສນບໍ?
+
+120
+00:08:24,650 --> 00:08:26,650
+[JANELLE]
+Hello?
+ສະບາຍດີ?
+
+121
+00:08:27,150 --> 00:08:29,150
+[JOHN]
+Janelle?  It's me.
+ຈານເລ? ມັນແມ່ນຂ້ອຍ.
+
+122
+00:08:29,650 --> 00:08:35,250
+[JANELLE]
+John?  Where are you, honey?  It's late.  You should come home, dear.  I'm making a casserole.
+ຄຸເຂົ່າລົງ
+
+123
+00:08:35,750 --> 00:08:37,850
+[JOHN]
+Something's wrong.  She's never this nice.
+ມີບາງສິ່ງບາງຢ່າງຜິດພາດ. ນາງບໍ່ເຄີຍດີຫຼາຍປານໃດ.
+
+124
+00:08:38,350 --> 00:08:41,150
+[TODD]
+What the hell's the goddamn dog barking at?
+ຫມາລໍາບາກຢູ່ຫຍັງ?
+
+125
+00:08:41,650 --> 00:08:47,650
+[SHUT UP, YOU MUTT!]
+TIGHT ON JANELLE as Todd growls around the kitchen behind her.  He passes OUT OF FRAME next to her.  Janelle switches the phone to her other hand then... THUNK!  Her free hand seems to do something out of frame.  There is a gurgling, and the sound of liquid dribbling onto the floor.
+ແຫນ້ນແຫນ້ນໃສ່ຈານເລລ ໃນຂະນະທີ່ໂຕດສ໌ຮ້ອງໄຫ້ຢູ່ເຮືອນຄົວຢູ່ເບື້ອງຫຼັງນາງ. ລາວຜ່ານອອກຈາກກອບຂ້າງນາງ. ຈານເລວປ່ຽນໂທລະສັບໄປຫາມືອື່ນຂອງນາງຫຼັງຈາກນັ້ນ
+... ຄິດ! ມືຟຣີຂອງນາງເບິ່ງຄືວ່າເຮັດບາງສິ່ງບາງຢ່າງຈາກກອບ. ມີການກະຕຸ້ນ, ແລະສຽງຂອງແຫຼວ dribbling ໃສ່ພື້ນ.
+
+126
+00:08:48,150 --> 00:08:52,350
+[JOHN]
+The dog's really barking.  Maybe it's already there.  What should I do?
+ຫມາຮ້ອງໄຫ້ແທ້ໆ. ບາງທີມັນຢູ່ບ່ອນນັ້ນແລ້ວ. ຂ້ອຍຄວນເຮັດແນວໃດ?
+
+127
+00:08:52,850 --> 00:08:54,850
+[JANELLE]
+John?  John, are you okay?
+ຈອນ? ຈອນ, ເຈົ້າດີບໍ?
+
+128
+00:08:55,350 --> 00:08:58,500
+[TERMINATOR]
+I'm right here.  I'm fine.  What's the dog's name?
+ຂ້ອຍຢູ່ບ່ອນນີ້. ຂ້ອຍບໍ່ເປັນຫຍັງ. ຊື່ຂອງຫມາແມ່ນຫຍັງ?
+
+129
+00:08:59,000 --> 00:09:01,000
+[JOHN]
+Max.
+ແມັກສ໌.
+
+130
+00:09:01,500 --> 00:09:06,400
+[TERMINATOR]
+Hey, Janelle, what's wrong with Wolfy?  I can hear him barking.  Is he okay?
+ເຮ້, ຈານເລ, ມີຫຍັງເກີດຂຶ້ນກັບວູຟຟີ?
+ຂ້ອຍສາມາດຍິນລາວຮ້ອງໄຫ້ໄດ້. ລາວບໍ່ເປັນຫຍັງບໍ?
+
+131
+00:09:06,900 --> 00:09:09,000
+[JANELLE]
+Wolfy's fine, honey.  Where are you?
+ໂວລຟີບໍ່ເປັນຫຍັງແມ. ເຈົ້າຢູ່ໃສ?
+
+132
+00:09:09,500 --> 00:09:11,950
+[TERMINATOR]
+Your foster parents are dead.  Let's go.
+ພໍ່ແມ່ລ້ຽງລູກຂອງເຈົ້າຕາຍແລ້ວ. ໄປ.
+
+133
+00:09:12,450 --> 00:09:17,700
+[JOHN]
+I need a minute here, okay?  You're telling me it can imitate anything it touches?
+ຂ້ອຍຕ້ອງການນາທີຫນຶ່ງຢູ່ນີ້, ດີບໍ?
+ເຈົ້າບອກຂ້ອຍວ່າມັນສາມາດເຮັດແບບທຸກຢ່າງທີ່ມັນຈັບໄດ້ບໍ?
+
+134
+00:09:18,200 --> 00:09:20,300
+[TERMINATOR]
+Anything it samples by physical contact.
+ທຸກຢ່າງທີ່ມັນເກັບຕົວຢ່າງໂດຍການຕິດຕໍ່ທາງຮ່າງກາຍ.
+
+135
+00:09:20,800 --> 00:09:24,650
+[JOHN]
+Like it could disguise itself as anything... a pack of cigarettes?
+ຄືກັບວ່າມັນສາມາດແຕ່ງຕົວເອງເປັນສິ່ງໃດກໍ່ໄດ້... ກະເປົາຢາສູບບໍ?
+
+136
+00:09:25,150 --> 00:09:27,600
+[TERMINATOR]
+No.  Only an object of equal size.
+ບໍ່. ພຽງແຕ່ວັດຖຸທີ່ມີຂະຫນາດເທົ່າທຽມກັນ.
+
+137
+00:09:28,100 --> 00:09:31,950
+[JOHN]
+Well, why doesn't become a bomb or something to get me?
+ດີ,
+ເປັນຫຍັງມັນຈຶ່ງບໍ່ກາຍເປັນລະເບີດຫຼືບາງສິ່ງບາງຢ່າງເພື່ອເອົາຂ້ອຍ?
+
+138
+00:09:32,450 --> 00:09:38,450
+[TERMINATOR]
+It can't form complex machines.  Guns and explosives have chemicals, moving parts.  It doesn't work that way.  But it can form solid metal shapes.
+ມັນບໍ່ສາມາດສ້າງເຄື່ອງຈັກທີ່ສັບສົນໄດ້. ປືນແລະລະເບີດມີສານເຄມີ,
+ສ່ວນເຄື່ອນຍ້າຍ. ມັນບໍ່ເຮັດວຽກແບບນັ້ນ. ແຕ່ມັນສາມາດສ້າງຮູບຊົງໂລຫະແຂງແຮງໄດ້.
+
+139
+00:09:38,950 --> 00:09:44,950
+[JOHN]
+We spent a lot of time in Nicaragua... places like that.  For a while she was with this crazy ex-Green Beret guy, running guns.  Then there were some other guys.  She'd shack up with anybody she could learn from.  So then she could teach me how to be this great military leader.  Then she gets busted and it's like... sorry kid, your mom's a psycho.  Didn't you know?  It's like... everything I'd been brought up to believe was just made-up fantasy, right? I hated her for that.  But everything she said was true.  We gotta get her out of there.
+ພວກເຮົາໃຊ້ເວລາຫຼາຍໃນນິກາຣາກາໂກ... ສະຖານທີ່ເຊັ່ນນັ້ນ. ເປັນເວລາດົນນານນາງຢູ່ກັບຄົນເກົ່າສີຂຽວທີ່ໂຊກຮ້າຍນີ້, ຂົນສົ່ງປືນ. ຫຼັງຈາກນັ້ນມີຜູ້ຊາຍຄົນອື່ນບາງຄົນ. ນາງຈະຢູ່ກັບໃຜທີ່ນາງສາມາດຮຽນຮູ້ຈາກ.
+ສະນັ້ນຫຼັງຈາກນັ້ນນາງສາມາດສອນຂ້ອຍເປັນຜູ້ນໍາທະຫານທີ່ຍິ່ງໃຫຍ່ນີ້ແນວໃດ. ຫຼັງນັ້ນນາງຖືກຈັບແລະມັນຄືກັບ... ຂໍໂທດເດັກ, ແມ່ຂອງທ່ານເປັນຄົນຈິດໃຈ. ເຈົ້າບໍ່ຮູ້ບໍ? ມັນຄືກັບວ່າ... ທຸກສິ່ງທຸກຢ່າງທີ່ຂ້ອຍຖືກລ້ຽງເພື່ອເຊື່ອ
+
+140
+00:09:45,450 --> 00:09:51,450
+[TERMINATOR]
+Negative.  The T-1000's highest probability for success now would be to copy Sarah Connor and wait for you to make contact with her.
+ບໍ່ເປັນຫຍັງ. ຄວາມເປັນໄປໄດ້ສູງສຸດຂອງ ທີ-1000 ສໍາ ລັບການປະສົບຜົນສໍາເລັດດຽວນີ້ຈະເປັນການ
+ສໍາ ເນົາຊາຣາ ຄອນເນີແລະລໍຖ້າໃຫ້ທ່ານຕິດຕໍ່ກັບນາງ.
+
+141
+00:09:51,950 --> 00:09:54,400
+[JOHN]
+Oh, great.  And what happens to her?
+ໂອ້, ດີເລີດ. ແລະເກີດຫຍັງຂຶ້ນກັບນາງ?
+
+142
+00:09:54,900 --> 00:09:57,350
+[TERMINATOR]
+Typically, the subject being copied is terminated.
+ໂດຍປົກກະຕິແລ້ວ, ຫົວຂໍ້ທີ່ຖືກ ສໍາ ເນົາຖືກສິ້ນສຸດລົງ.
+
+143
+00:09:57,850 --> 00:10:01,700
+[JOHN]
+TERMINATED!?  Shit!  Why didn't you tell me? We gotta right now!
+ສິ້ນສຸດລົງ!? ສະບາຍດີ! ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກຂ້ອຍ
+? ພວກເຮົາຕ້ອງເຮັດທັນທີ!
+
+144
+00:10:02,200 --> 00:10:04,650
+[TERMINATOR]
+Negative.  She is not a mission priority.
+ບໍ່ເປັນຫຍັງ. ນາງບໍ່ແມ່ນບູລິມະສິດພາລະກິດ.
+
+145
+00:10:05,150 --> 00:10:08,300
+[JOHN]
+Yeah, well fuck you, she's a priority to me!
+ແມ່ນແລ້ວ, ດີເຈົ້າ, ນາງເປັນບູລິມະສິດ ສໍາ ລັບຂ້ອຍ!
+
+146
+00:10:08,800 --> 00:10:10,800
+[JOHN]
+Hey, goddammit!  What's your problem?
+ເຮ້, ສະບາຍດີ! ບັນຫາຂອງເຈົ້າແມ່ນຫຍັງ?
+
+147
+00:10:11,300 --> 00:10:15,150
+[JOHN]
+Help!  HELP!!  I'm being kidnapped!  Get this psycho off of me!
+ຊ່ວຍເຫຼືອ! ຊ່ວຍເຫຼືອ!! ຂ້ອຍຖືກລັກພາຕົວ
+! ເອົາຄົນຈິດໃຈນີ້ອອກຈາກຂ້ອຍ!
+
+148
+00:10:15,650 --> 00:10:17,650
+[JOHN]
+Let go of me!!
+ໃຫ້ຂ້ອຍໄປ!!
+
+149
+00:10:18,150 --> 00:10:20,150
+[JOHN]
+Oww!  Why'd you do that?
+ໂອ້! ເຈົ້າເຮັດແບບນັ້ນເປັນຫຍັງ?
+
+150
+00:10:20,650 --> 00:10:22,650
+[TERMINATOR]
+You told me to.
+ເຈົ້າບອກຂ້ອຍໃຫ້ເຮັດ.
+
+151
+00:10:23,150 --> 00:10:25,600
+[JOHN]
+You have to do what I say?!
+ເຈົ້າຕ້ອງເຮັດຕາມທີ່ຂ້ອຍບອກບໍ?
+
+152
+00:10:26,100 --> 00:10:28,550
+[TERMINATOR]
+That is one of my mission parameters.
+ນັ້ນແມ່ນຫນຶ່ງໃນພາລະບົດຫມາຍພາລະກິດຂອງຂ້ອຍ.
+
+153
+00:10:29,050 --> 00:10:31,150
+[JOHN]
+Prove it... stand on one foot.
+ພິສູດມັນ... ຢືນຢູ່ເທິງຕີນດຽວ.
+
+154
+00:10:31,650 --> 00:10:34,100
+[JOHN]
+Cool!  My own terminator.  This is great!
+ດີເລີດ! ເຄື່ອງສິ້ນສຸດຂອງຂ້ອຍເອງ. ນີ້ແມ່ນດີເລີດຫຼາຍ!
+
+155
+00:10:34,600 --> 00:10:36,600
+[FIRST JOCK]
+Hey, kid.  You okay?
+ເຮ້, ເດັກນ້ອຍ. ເຈົ້າດີບໍ?
+
+156
+00:10:37,100 --> 00:10:39,100
+[JOHN]
+Take a hike, bozo.
+ໄປຍ່າງ, ໂບໂຊ.
+
+157
+00:10:39,600 --> 00:10:41,700
+[FIRST JOCK]
+Yeah?  Fuck you, you little dipshit.
+ແມ່ນແລ້ວ? ເຈົ້າໄປໂຊກຮ້າຍ, ເຈົ້າໂຊ ກຮ້າຍນ້ອຍໆ.
+
+158
+00:10:42,200 --> 00:10:45,000
+[JOHN]
+Dipshit?  Did you say dipshit?!  Grab this guy.
+ເຈົ້າເວົ້າວ່າໂຊກຮ້າຍບໍ?! ຈັບຄົນນີ້.
+
+159
+00:10:45,500 --> 00:10:47,950
+[JOHN]
+Now who's the dipshit, you jock douchebag?
+ດຽວນີ້ຄົນໂຊກຮ້າຍແມ່ນໃຜ, ເຈົ້າໂຊຄແຊກແຊງ?
+
+160
+00:10:48,450 --> 00:10:50,450
+[JOHN]
+Put the gun down!  NOW!!
+ເອົາປືນລົງ! ດຽວນີ້!!
+
+161
+00:10:50,950 --> 00:10:52,950
+[JOHN]
+Walk away.
+ຍ່າງໄປ.
+
+162
+00:10:53,450 --> 00:10:55,900
+[JOHN]
+Jesus... you were gonna kill that guy!
+ພຣະເຢຊູ... ເຈົ້າຈະຂ້າຄົນນັ້ນ!
+
+163
+00:10:56,400 --> 00:10:58,400
+[TERMINATOR]
+Of course.  I'm a terminator.
+ແນ່ນອນ. ຂ້ອຍເປັນຜູ້ສິ້ນສຸດລົງ.
+
+164
+00:10:58,900 --> 00:11:04,900
+[JOHN]
+Listen to me, very carefully, okay?  You're not a terminator any more.  Alright?  You got that? You can't just go around killing people!
+ຟັງຂ້ອຍ, ຢ່າງລະມັດລະວັງຫຼາຍ, ດີບໍ? ເຈົ້າບໍ່ແມ່ນຜູ້ສິ້ນສຸດລົງອີກຕໍ່ໄປ
+. ດີແລ້ວ? ເຈົ້າເຂົ້າໃຈມັນບໍ?ເຈົ້າບໍ່ສາມາດໄປຢູ່ທົ່ວໄປແລະຂ້າຄົນໄດ້!
+
+165
+00:11:05,400 --> 00:11:07,400
+[TERMINATOR]
+Why?
+ເປັນຫຍັງ?
+
+166
+00:11:07,900 --> 00:11:10,000
+[JOHN]
+Whattaya mean, why?  'Cause you can't!
+ຫມາຍຄວາມວ່າຫຍັງ, ເປັນຫຍັງ? ເພາະວ່າເຈົ້າບໍ່ສາມາດເຮັດໄດ້!
+
+167
+00:11:10,500 --> 00:11:12,500
+[TERMINATOR]
+Why?
+ເປັນຫຍັງ?
+
+168
+00:11:13,000 --> 00:11:15,800
+[JOHN]
+You just can't, okay?  Trust me on this.
+ເຈົ້າພຽງແຕ່ບໍ່ສາມາດເຮັດໄດ້, ດີບໍ? ເຊື່ອຂ້ອຍໃນເລື່ອງນີ້.
+
+169
+00:11:16,300 --> 00:11:21,550
+[JOHN]
+Look, I'm gonna go get my mom.  You wanna come along, that's fine with me.
+ເບິ່ງ, ຂ້ອຍຈະໄປເອົາແມ່ຂອງຂ້ອຍ.
+ເຈົ້າຢາກມາພ້ອມ, ມັນບໍ່ເປັນຫຍັງກັບຂ້ອຍ.
+
+170
+00:11:22,050 --> 00:11:26,950
+[DETECTIVE WEATHERSBY]
+These were taken at the West Highland police station in 1984.  You were there.
+ເຫຼົ່ານີ້ຖືກຖ່າຍຢູ່ສະຖານີຕໍາຫຼວດ West
+Highland ໃນປີ 1984. ເຈົ້າຢູ່ບ່ອນນັ້ນ.
+
+171
+00:11:27,450 --> 00:11:30,600
+[MOSSBERG]
+He killed seventeen police officers that night. Recognize him?
+ລາວໄດ້ຂ້າເຈົ້າຫນ້າທີ່ຕໍາຫຼວດສິບເຈັດຄົນໃນຄືນນັ້ນ
+. ເຈົ້າຮູ້ຈັກລາວບໍ?
+
+172
+00:11:31,100 --> 00:11:34,250
+[MOSSBERG]
+This one was taken by a Japanese tourist today.
+ນີ້ແມ່ນຖືກຖ່າຍໂດຍນັກທ່ອງທ່ຽວຍີ່ປຸ່ນມື້ນີ້.
+
+173
+00:11:34,750 --> 00:11:40,750
+[WEATHERSBY]
+Ms. Connor, you've been told that your son's missing.  His foster parents have been murdered, and we know this guy's involved.  Talk to us. Don't you care?
+ທ່ານນາງ ຄອນເນີ, ທ່ານໄດ້ຖືກບອກວ່າລູກຊາຍຂອງທ່ານຫາຍສາບສູນ. ພໍ່ແມ່ລ້ຽງດູຂອງລາວໄດ້ຖືກຄາດຕະກໍາແລ້ວ
+, ແລະພວກເຮົາຮູ້ວ່າຜູ້ຊາຍຄົນນີ້ກ່ຽວຂ້ອງ. ເວົ້າກັບພວກເຮົາ. ເຈົ້າບໍ່ສົນໃຈບໍ?
+
+174
+00:11:41,250 --> 00:11:43,250
+[MOSSBERG]
+We're wasting out time.
+ພວກເຮົາ ກໍາ ລັງເສຍເວລາ.
+
+175
+00:11:43,750 --> 00:11:45,750
+[SILBERMAN]
+Sorry, gentleman...
+ຂໍໂທດເດີເດີເດີ...
+
+176
+00:11:46,250 --> 00:11:48,350
+[T-1000]
+You have a Sarah Connor here?
+ເຈົ້າມີຊາຣາ ຄອນເນີຢູ່ບ່ອນນີ້ບໍ?
+
+177
+00:11:48,850 --> 00:11:53,050
+[SILBERMAN]
+Lewis, see these gentleman out and them lock up for the night.
+ເລວສ໌, ເບິ່ງຜູ້ຊາຍເຫຼົ່ານີ້ອອກແລະພວກເຂົາປິດໄວ້ໃນຄືນນີ້.
+
+178
+00:11:53,550 --> 00:11:55,550
+[T-1000/GUARD]
+Just some trash.
+ພຽງແຕ່ຂີ້ເຫຍື້ອບາງຢ່າງ.
+
+179
+00:11:56,050 --> 00:11:58,050
+[T-1000/GUARD]
+All set.
+ພ້ອມແລ້ວ.
+
+180
+00:11:58,550 --> 00:12:00,550
+[T-1000/GUARD]
+Yeah, sorry.
+ແມ່ນແລ້ວ, ຂໍໂທດ.
+
+181
+00:12:01,050 --> 00:12:03,050
+[SILBERMAN]
+You broke my arm!
+ເຈົ້າໄດ້ຕັດແຂນຂອງຂ້ອຍ!
+
+182
+00:12:03,550 --> 00:12:08,100
+[SARAH]
+There's 215 bones in the human body, motherfucker. That's one.  Now don't move!
+ມີກະດູກ 215 ກະດູກໃນຮ່າງກາຍຂອງມະນຸດ, ຄົນໂຊກຮ້າຍ
+. ນັ້ນແມ່ນຫນຶ່ງ. ດຽວນີ້ຢ່າເຄື່ອນຍ້າຍ!
+
+183
+00:12:08,600 --> 00:12:12,450
+[DOUGLAS]
+Open the door!  The goddamn bitch is loose in the halls!
+ເປີດປະຕູ! ຄົນໂຊກຮ້າຍແມ່ນປ່ອຍຕົວຢູ່ໃນທາງເດີ່ນ!
+
+184
+00:12:12,950 --> 00:12:15,750
+[JOHN]
+Now remember, you're not gonna kill anyone, right?
+ດຽວນີ້ຈື່ໄວ້ວ່າ, ເຈົ້າຈະບໍ່ຂ້າໃຜເລີຍ, ແມ່ນບໍ?
+
+185
+00:12:16,250 --> 00:12:18,250
+[TERMINATOR]
+Right.
+ແມ່ນແລ້ວ.
+
+186
+00:12:18,750 --> 00:12:20,750
+[JOHN]
+Swear.
+ສາບານໂຕ.
+
+187
+00:12:21,250 --> 00:12:23,250
+[TERMINATOR]
+What?
+ຫຍັງ?
+
+188
+00:12:23,750 --> 00:12:26,550
+[JOHN]
+Just say "I swear I won't kill anyone."
+ພຽງແຕ່ເວົ້າວ່າ"ຂ້ອຍສາບານໂຕວ່າຂ້ອຍຈະບໍ່ຂ້າໃຜເລີຍ".
+
+189
+00:12:27,050 --> 00:12:29,500
+[TERMINATOR]
+I swear I will not kill anyone.
+ຂ້ອຍສາບານໂຕວ່າຂ້ອຍຈະບໍ່ຂ້າໃຜເລີຍ.
+
+190
+00:12:30,000 --> 00:12:32,000
+[TERMINATOR]
+He'll live.
+ລາວຈະຢູ່ອາໄສ.
+
+191
+00:12:32,500 --> 00:12:36,350
+[SARAH]
+Open it or he'll be dead before he hits the floor.
+ເປີດມັນຫຼືລາວຈະຕາຍກ່ອນທີ່ຈະຕີພື້ນ.
+
+192
+00:12:36,850 --> 00:12:41,400
+[SILBERMAN]
+It won't work, Sarah.  You're no killer.  I don't believe you'd do it.
+ມັນຈະບໍ່ເຮັດວຽກ, ຊາຣາ. ເຈົ້າບໍ່ແມ່ນຜູ້ຂ້າ
+. ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າຈະເຮັດມັນ.
+
+193
+00:12:41,900 --> 00:12:47,850
+[SARAH]
+You're already dead, Silberman.  Everybody here dies.  You know I believe that.  So don't fuck with me!
+ເຈົ້າຕາຍແລ້ວ, ຊີລເບີແມນ. ທຸກຄົນຢູ່ນີ້ຕາຍ.
+ເຈົ້າຮູ້ວ່າຂ້ອຍເຊື່ອນັ້ນ. ສະນັ້ນຢ່າໂຊກຮ້າຍກັບຂ້ອຍ!
+
+194
+00:12:48,350 --> 00:12:50,350
+[SILBERMAN]
+Open the goddamn door!
+ເປີດປະຕູ!
+
+195
+00:12:50,850 --> 00:12:52,850
+[SARAH]
+Step back!
+ກັບຄືນໄປບ່ອນ!
+
+196
+00:12:53,350 --> 00:12:55,350
+[SARAH]
+Down on the floor!  Now!
+ລົງເທິງພື້ນ! ດຽວນີ້!
+
+197
+00:12:55,850 --> 00:12:57,850
+[SILBERMAN]
+Get her!
+ຈັບນາງ!
+
+198
+00:12:58,350 --> 00:13:00,350
+[SILBERMAN]
+Go around, goddamnit!  Go around!!
+ໄປຢູ່ທົ່ວໄປ, ສະບາຍດີ! ໄປທົ່ວໄປ!!
+
+199
+00:13:00,850 --> 00:13:02,850
+[JOHN]
+Mom!!  Wait!
+ແມ່!! ລໍຖ້າ!
+
+200
+00:13:03,350 --> 00:13:06,500
+[SARAH]
+No!  Help me!  Goddamnit, it's gonna kill us all!!!
+ບໍ່! ຊ່ວຍຂ້ອຍ! ສະບາຍດີ, ມັນຈະຂ້າພວກເຮົາທຸກຄົນ!!!
+
+201
+00:13:07,000 --> 00:13:09,000
+[JOHN]
+Mom, are you okay?
+ແມ່, ເຈົ້າດີບໍ?
+
+202
+00:13:09,500 --> 00:13:12,300
+[TERMINATOR]
+Come with me if you want to live.
+ມາກັບຂ້ອຍຖ້າເຈົ້າຢາກລອດຊີວິດ.
+
+203
+00:13:12,800 --> 00:13:15,600
+[JOHN]
+It's all right, Mom.  He's here to help.
+ມັນບໍ່ເປັນຫຍັງ, ແມ່. ລາວຢູ່ບ່ອນນີ້ເພື່ອຊ່ວຍເຫຼືອ.
+
+204
+00:13:16,100 --> 00:13:18,100
+[TERMINATOR]
+Go!  Run!
+ໄປ! ແລ່ນ!
+
+205
+00:13:18,600 --> 00:13:20,600
+[SARAH]
+Out of the car!!
+ອອກຈາກລົດ!!
+
+206
+00:13:21,100 --> 00:13:27,100
+[RIGHT NOW!]
+The door opens and the guy is coming out with his hands up as Terminator arrives.  The cyborg flings the rent-a-cop out of the way and slides behind the wheel.  Sarah gets John into the back seat and dives into the front passenger seat as --
+ປະຕູເປີດແລະຜູ້ຊາຍ ກໍາ ລັງອອກມາດ້ວຍມືຂຶ້ນໃນຂະນະທີ່ ຄົນເຫຼັກ ມາຮອດ. cyborg ໄດ້ຖິ້ມຕໍາຫຼວດເຊົ່າອອກຈາກທາງແລະລອຍຢູ່ເບື້ອງຫຼັງລົດຈັກ
+. ຊາຣາເຮັດໃຫ້ຈອນເຂົ້າໄປໃນບ່ອນນັ່ງຫລັງແລະລຸ່ມເຂົ້າໄປໃນ ບ່ອນນັ່ງຜູ້ໂດຍສານທາງຫນ້າເປັນ -
+
+207
+00:13:27,600 --> 00:13:29,600
+[TERMINATOR]
+Hang on.
+ລໍຖ້າ.
+
+208
+00:13:30,100 --> 00:13:32,100
+[TERMINATOR]
+Drive.
+ຂັບລົດ.
+
+209
+00:13:32,600 --> 00:13:34,600
+[JOHN]
+Can you see anything?
+ເຈົ້າເຫັນຫຍັງບໍ?
+
+210
+00:13:35,100 --> 00:13:37,100
+[TERMINATOR]
+Everything.
+ທຸກຢ່າງ.
+
+211
+00:13:37,600 --> 00:13:39,600
+[JOHN]
+Cool.
+ດີເລີດ.
+
+212
+00:13:40,100 --> 00:13:42,100
+[SARAH]
+You okay?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+213
+00:13:42,600 --> 00:13:44,600
+[JOHN]
+I said I was okay.
+ຂ້ອຍບອກວ່າຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+214
+00:13:45,100 --> 00:13:47,900
+[SARAH]
+It was stupid of you to go there.
+ມັນເປັນຄວາມໂງ່ຈາກເຈົ້າທີ່ຈະໄປບ່ອນນັ້ນ.
+
+215
+00:13:48,400 --> 00:13:54,400
+[SARAH]
+Goddamnit, John, you have to be smarter than that.  You're too important!  You can't risk yourself, not even for me, do you understand? I can take care of myself.  I was doing fine. Jesus, John.  You almost got yourself killed.
+ໂຈນ, ເຈົ້າຕ້ອງສະຫຼາດກວ່ານັ້ນ. ເຈົ້າມີຄວາມສໍາຄັນເກີນໄປ! ເຈົ້າບໍ່ສາມາດສ່ຽງຕົວເອງໄດ້, ບໍ່ເຖິງແມ່ນວ່າ ສໍາ ລັບຂ້ອຍ
+, ເຈົ້າເຂົ້າໃຈບໍ? ຂ້ອຍສາມາດເບິ່ງແຍງຕົນເອງໄດ້. ຂ້ອຍ ກໍາ ລັງເຮັດໄດ້ດີ. ພຣະເຢຊູ, ຈອນ. ເຈົ້າເກືອບເຮັດໃຫ້ຕົວເອງຕາຍ.
+
+216
+00:13:54,900 --> 00:13:59,100
+[JOHN]
+I... had to get you out of the place... I'm sorry, I...
+ຂ້ອຍ... ຕ້ອງເອົາເຈົ້າອອກຈາກບ່ອນນັ້ນ... ຂ້ອຍຂໍໂທດ, ຂ້ອຍ...
+
+217
+00:13:59,600 --> 00:14:05,200
+[SARAH]
+Stop it!  Right now!  You can't cry, John. Other kids can afford to cry.  You can't.
+ຢຸດຢັ້ງ! ດຽວນີ້! ເຈົ້າບໍ່ສາມາດຮ້ອງໄຫ້ໄດ້, ຈອນ.
+ເດັກນ້ອຍຄົນອື່ນສາມາດຈ່າຍໄດ້ທີ່ຈະຮ້ອງໄຮ. ເຈົ້າບໍ່ສາມາດ.
+
+218
+00:14:05,700 --> 00:14:07,800
+[TERMINATOR]
+What is wrong with your eyes?
+ມີຫຍັງເກີດຂຶ້ນກັບຕາເຈົ້າ?
+
+219
+00:14:08,300 --> 00:14:10,300
+[SARAH]
+So what's your story?
+ສະນັ້ນເລື່ອງຂອງທ່ານແມ່ນຫຍັງ?
+
+220
+00:14:10,800 --> 00:14:16,800
+[SILBERMAN]
+... it was all true and we're all going to die and the changed, I saw him change!!
+ມັນທັງ ຫມົດ ແມ່ນຄວາມຈິງແລະພວກເຮົາທຸກຄົນຈະຕາຍແລະສິ່ງປ່ຽນແປງ
+, ຂ້ອຍເຫັນລາວປ່ຽນແປງ!!
+
+221
+00:14:17,300 --> 00:14:20,100
+[SARAH]
+This T-1000... what happens when you shoot it?
+ທີ-1000 ນີ້... ເກີດຫຍັງຂຶ້ນເມື່ອເຈົ້າຍິງມັນ?
+
+222
+00:14:20,600 --> 00:14:24,100
+[TERMINATOR]
+Ballistic penetration shocks it, but only for a few seconds.
+ການເຈາະເຂົ້າໄປໃນບາລີສຕິກເຮັດໃຫ້ມັນຕົກໃຈ
+, ແຕ່ພຽງແຕ່ສອງສາມວິນາທີເທົ່ານັ້ນ.
+
+223
+00:14:24,600 --> 00:14:26,600
+[SARAH]
+Can it be destroyed?
+ມັນສາມາດທໍາລາຍໄດ້ບໍ?
+
+224
+00:14:27,100 --> 00:14:29,100
+[TERMINATOR]
+Unknown.
+ບໍ່ຮູ້.
+
+225
+00:14:29,600 --> 00:14:32,750
+[SARAH]
+Pull in here.  We have to ditch this car.
+ດຶງເຂົ້າມາບ່ອນນີ້. ພວກເຮົາຕ້ອງຖິ້ມລົດນີ້.
+
+226
+00:14:33,250 --> 00:14:35,250
+[SARAH]
+You look like handmade shit.
+ເຈົ້າເບິ່ງຄືວ່າເປັນສິ່ງເຮັດດ້ວຍມື.
+
+227
+00:14:35,750 --> 00:14:37,750
+[TERMINATOR]
+So do you.
+ເຈົ້າຄືກັນ.
+
+228
+00:14:38,250 --> 00:14:40,700
+[TERMINATOR]
+I have detailed files on human anatomy.
+ຂ້ອຍມີເອກະສານລາຍລະອຽດກ່ຽວກັບຮ່າງກາຍຂອງມະນຸດ.
+
+229
+00:14:41,200 --> 00:14:44,350
+[SARAH]
+I'll bet. Makes you a more efficient killer, right?
+ຂ້ອຍແນ່ໃຈວ່າ.
+ເຮັດໃຫ້ເຈົ້າເປັນຜູ້ຂ້າທີ່ມີປະສິດທິພາບຫຼາຍຂຶ້ນ, ແມ່ນບໍ?
+
+230
+00:14:44,850 --> 00:14:46,850
+[TERMINATOR]
+Correct.
+ແມ່ນແລ້ວ.
+
+231
+00:14:47,350 --> 00:14:49,350
+[JOHN]
+Does it hurt?
+ມັນເຈັບປວດບໍ?
+
+232
+00:14:49,850 --> 00:14:53,000
+[TERMINATOR]
+I sense injuries.  The data could be called pain.
+ຂ້ອຍຮູ້ສຶກບາດເຈັບ. ຂໍ້ມູນສາມາດເອີ້ນວ່າຄວາມເຈັບປວດ.
+
+233
+00:14:53,500 --> 00:14:55,500
+[SARAH]
+Will these heal up?
+ເຫຼົ່ານີ້ຈະຫາຍດີບໍ?
+
+234
+00:14:56,000 --> 00:15:01,600
+[SARAH]
+That's good.  Because if you can't pass for human, you won't be much good to us.
+ນັ້ນດີ. ເພາະວ່າຖ້າເຈົ້າບໍ່ສາມາດຜ່ານໄປເປັນມະນຸດໄດ້
+, ເຈົ້າຈະບໍ່ເປັນປະໂຫຍດຫຼາຍຕໍ່ພວກເຮົາ.
+
+235
+00:15:02,100 --> 00:15:04,900
+[JOHN]
+How long do you live?  I mean, last?
+ເຈົ້າມີຊີວິດຢູ່ດົນປານໃດ? ຂ້ອຍຫມາຍຄວາມວ່າ, ສຸດທ້າຍບໍ?
+
+236
+00:15:05,400 --> 00:15:08,900
+[TERMINATOR]
+A hundred and twenty years on my existing power cell.
+ຫນຶ່ງຮ້ອຍສິບປີໃນໂຊລໄຟຟ້າທີ່ຢູ່ແລ້ວຂອງຂ້ອຍ.
+
+237
+00:15:09,400 --> 00:15:15,400
+[JOHN]
+Can you learn?  So you can be... you know. More human.  Not such a dork all the time.
+ເຈົ້າສາມາດຮຽນຮູ້ໄດ້ບໍ? ສະນັ້ນເຈົ້າສາມາດເປັນ... ເຈົ້າຮູ້ແລ້ວ
+. ມະນຸດຫຼາຍຂຶ້ນ. ບໍ່ແມ່ນຄົນໂງ່ແບບນັ້ນຕະຫຼອດເວລາ.
+
+238
+00:15:15,900 --> 00:15:21,900
+[TERMINATOR]
+My CPU is a neural-net processor... a learning computer.  But Skynet presets the switch to "read-only" when we are sent out alone.
+CPU ຂອງຂ້ອຍແມ່ນໂປເຊດເຊີເຄືອຂ່າຍປະສາດ... ຄອມພິວເຕີການຮຽນຮູ້.
+ແຕ່ສະກາຍເນັດຕັ້ງຄ່າປ່ຽນເປັນ"ອ່ານເທົ່ານັ້ນ" ເມື່ອພວກເຮົາຖືກສົ່ງອອກຄົນດຽວ.
+
+239
+00:15:22,400 --> 00:15:24,850
+[SARAH]
+Doesn't want you thinking too much, huh?
+ບໍ່ຢາກໃຫ້ເຈົ້າຄິດຫຼາຍເກີນໄປ, ແມ່ນບໍ?
+
+240
+00:15:25,350 --> 00:15:27,350
+[JOHN]
+Can we reset the switch?
+ພວກເຮົາສາມາດຕັ້ງຄ່າປ່ຽນໄດ້ບໍ?
+
+241
+00:15:27,850 --> 00:15:29,850
+[TERMINATOR]
+Now open the port cover.
+ດຽວນີ້ເປີດຜ້າປິດທ່າເຮືອ.
+
+242
+00:15:30,350 --> 00:15:33,150
+[TERMINATOR]
+Hold the CPU by its base tab.  Pull.
+ຈັບ CPU ຢູ່ແຕະພື້ນຖານຂອງມັນ. ດຶງ.
+
+243
+00:15:33,650 --> 00:15:35,750
+[JOHN]
+Can you see the pin switch?
+ເຈົ້າເຫັນເຄື່ອງປ່ຽນປິນບໍ?
+
+244
+00:15:36,250 --> 00:15:38,250
+[JOHN]
+No!!!!
+ບໍ່!!!!
+
+245
+00:15:38,750 --> 00:15:40,750
+[SARAH]
+Out of the way, John!
+ອອກຈາກທາງ, ຈອນ!
+
+246
+00:15:41,250 --> 00:15:43,250
+[JOHN]
+No!  Don't kill him!
+ບໍ່! ຢ່າຂ້າລາວ!
+
+247
+00:15:43,750 --> 00:15:45,750
+[SARAH]
+It, John.  Not him.  It.
+ມັນ, ຈອນ. ບໍ່ແມ່ນລາວ. ມັນ.
+
+248
+00:15:46,250 --> 00:15:48,250
+[JOHN]
+Alright, it!  We need it!
+ດີແລ້ວ, ມັນ! ພວກເຮົາຕ້ອງການມັນ!
+
+249
+00:15:48,750 --> 00:15:50,750
+[SARAH]
+We're better off by ourselves.
+ພວກເຮົາດີກວ່າດ້ວຍຕົນເອງ.
+
+250
+00:15:51,250 --> 00:15:56,850
+[JOHN]
+But it's the only proof we have to the future... about the war and all that.
+ແຕ່ມັນເປັນຫຼັກຖານດຽວທີ່ພວກເຮົາມີຕໍ່ອະນາຄົດ
+... ກ່ຽວກັບສົງຄາມແລະສິ່ງທັງ ຫມົດ ນັ້ນ.
+
+251
+00:15:57,350 --> 00:16:03,350
+[SARAH]
+I don't trust it!  These things are hard to kill, John, believe me, I know.  We may never have this opportunity again.
+ຂ້ອຍບໍ່ເຊື່ອມັນ! ສິ່ງເຫຼົ່ານີ້ຍາກທີ່ຈະຂ້າ, ຈອນ, ເຊື່ອຂ້ອຍ
+, ຂ້ອຍຮູ້. ພວກເຮົາອາດຈະບໍ່ມີໂອກາດນີ້ອີກເທື່ອຫນຶ່ງ.
+
+252
+00:16:03,850 --> 00:16:09,850
+[JOHN]
+Look, Mom, if I'm supposed to ever be this great leader, you should start listening to my leadership ideas once in a while.  'Cause if you won't, nobody else will.
+ເບິ່ງ, ແມ່, ຖ້າຂ້ອຍຄວນເປັນຜູ້ນໍາທີ່ຍິ່ງໃຫຍ່ນີ້,
+ເຈົ້າຄວນເລີ່ມຟັງແນວຄິດການນໍາຂອງຂ້ອຍບາງຄັ້ງ. ເພາະວ່າຖ້າເຈົ້າບໍ່ເຮັດ, ບໍ່ມີໃຜອື່ນຈະເຮັດ.
+
+253
+00:16:10,350 --> 00:16:12,350
+[TERMINATOR]
+Was there a problem?
+ມີບັນຫາບໍ?
+
+254
+00:16:12,850 --> 00:16:14,850
+[JOHN]
+No problem.  None whatsoever.
+ບໍ່ເປັນຫຍັງ. ບໍ່ມີຫຍັງເລີຍ.
+
+255
+00:16:15,350 --> 00:16:17,350
+[JOHN]
+Are we learning yet?
+ພວກເຮົາ ກໍາ ລັງຮຽນຮູ້ແລ້ວບໍ?
+
+256
+00:16:17,850 --> 00:16:19,850
+[SARAH]
+Just head south.
+ພຽງແຕ່ໄປທາງໃຕ້.
+
+257
+00:16:20,350 --> 00:16:24,200
+[SARAH]
+Keep it under sixty-five.  We can't afford to be pulled over.
+ຮັກສາມັນຢູ່ພາຍໃຕ້ຫົກສິບຫ້າ.
+ພວກເຮົາບໍ່ສາມາດຈ່າຍຄ່າທີ່ຈະຖືກຢຸດຢູ່ຂ້າງ.
+
+258
+00:16:24,700 --> 00:16:26,700
+[TERMINATOR]
+Affirmative.
+ຢືນຢັນ.
+
+259
+00:16:27,200 --> 00:16:33,200
+[JOHN]
+No, no, no.  You gotta listen to the way people talk.  See, you don't say like "Affirmative" or some shit like that.  You say... no problemo.
+ບໍ່, ບໍ່ມີ, ບໍ່. ເຈົ້າຕ້ອງຟັງວິທີທີ່ຄົນເວົ້າ. ເບິ່ງ, ເຈົ້າບໍ່ເວົ້າເຊັ່ນວ່າ"
+ຢືນຢັນ" ຫຼືບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ. ເຈົ້າເວົ້າວ່າ... ບໍ່ມີບັນຫາ.
+
+260
+00:16:33,700 --> 00:16:39,700
+[JOHN]
+It someone comes off to you with an attitude, you say "eat me"... if you wanna shine them on, it's "Hasta la vista, baby".
+ຖ້າໃຜມາຫາເຈົ້າດ້ວຍທັດສະນະ, ເຈົ້າເວົ້າວ່າ"ກິນຂ້ອຍ"...
+ຖ້າເຈົ້າຢາກສ່ອງແສງພວກເຂົາ, ມັນແມ່ນ"ຮັສຕາ ລາວິສຕາ, ເບບີ້
+
+261
+00:16:40,200 --> 00:16:42,200
+[TERMINATOR]
+"Hasta la vista, baby"?
+"ຮັສຕາ ລາວິສຕາ, ເບບີ້?
+
+262
+00:16:42,700 --> 00:16:48,700
+[JOHN]
+Yeah, or "later, dickwad."  Or if someone gets upset you say "chill out."  Like that.  Or you can do combinations.
+ແມ່ນແລ້ວ, ຫຼື"ຕໍ່ມາ, ຄົນໂຊກຮ້າຍ." ຫຼືຖ້າໃຜກະຕຸ້ນເຈົ້າເວົ້າວ່າ"
+ສະບາຍໃຈ." ເຊັ່ນນັ້ນ. ຫຼືເຈົ້າສາມາດເຮັດການປະສົມປະສານໄດ້.
+
+263
+00:16:49,200 --> 00:16:51,200
+[TERMINATOR]
+Chill out, dickwad.
+ສະບາຍໃຈ, ຄົນໂຊກຮ້າຍ.
+
+264
+00:16:51,700 --> 00:16:53,800
+[JOHN]
+That's great!  See, you're getting it.
+ນັ້ນດີເລີດ! ເບິ່ງ, ເຈົ້າ ກໍາ ລັງເຂົ້າໃຈມັນ.
+
+265
+00:16:54,300 --> 00:16:56,300
+[TERMINATOR]
+No problemo.
+ບໍ່ເປັນຫຍັງ.
+
+266
+00:16:56,800 --> 00:16:58,800
+[SARAH]
+You got any cash?
+ເຈົ້າມີເງິນສົດບໍ?
+
+267
+00:16:59,300 --> 00:17:02,450
+[JOHN]
+Only a couple hundred bucks.  I'll give you half.
+ພຽງແຕ່ສອງສາມຮ້ອຍໂດລາ. ຂ້ອຍຈະໃຫ້ເຈົ້າເຄິ່ງຫນຶ່ງ.
+
+268
+00:17:02,950 --> 00:17:04,950
+[SARAH]
+Get some food.
+ເອົາອາຫານບາງຢ່າງ.
+
+269
+00:17:05,450 --> 00:17:07,450
+[JOHN]
+No sense of humor.
+ບໍ່ມີຄວາມຮູ້ສຶກມ່ວນຊື່ນ.
+
+270
+00:17:07,950 --> 00:17:13,950
+[JOHN]
+And that's another thing.  You could lighten up a bit, yourself.  This severe routine is getting old.  Smile once in a while.
+ແລະນັ້ນແມ່ນອີກສິ່ງຫນຶ່ງ. ເຈົ້າສາມາດເຮັດໃຫ້ເບົາບາງຢ່າງ, ຕົວເອງ.
+ການປົກກະຕິທີ່ຮ້າຍແຮງນີ້ ກໍາ ລັງກາຍເປັນເກົ່າແກ່. ມ່ວນຊື່ນບາງຄັ້ງ.
+
+271
+00:17:14,450 --> 00:17:16,450
+[TERMINATOR]
+Smile?
+ມ່ວນຊື່ນບໍ?
+
+272
+00:17:16,950 --> 00:17:19,750
+[JOHN]
+Yeah.  Smile.  You know.  People smile, right? Watch.
+ແມ່ນແລ້ວ. ຍິ້ມ. ເຈົ້າຮູ້ແລ້ວ. ຄົນຍິ້ມ, ແມ່ນບໍ? ເບິ່ງ.
+
+273
+00:17:20,250 --> 00:17:23,050
+[JOHN]
+Hi.  Nice place you got here.  How's business?
+ສະບາຍດີ. ເຈົ້າມີບ່ອນທີ່ດີຢູ່ບ່ອນນີ້. ທຸລະກິດເປັນແນວໃດ?
+
+274
+00:17:23,550 --> 00:17:25,550
+[WINDOW WOMAN]
+Gimme a break.
+ໃຫ້ຂ້ອຍພັກຜ່ອນ.
+
+275
+00:17:26,050 --> 00:17:28,150
+[JOHN]
+Okay.  Bad example.  Over there, look.
+ດີແລ້ວ. ຕົວຢ່າງທີ່ບໍ່ດີ. ຢູ່ບ່ອນນັ້ນ, ເບິ່ງ.
+
+276
+00:17:28,650 --> 00:17:30,650
+[JOHN]
+Like that.
+ແບບນັ້ນ.
+
+277
+00:17:31,150 --> 00:17:36,050
+[JOHN]
+I don't know, maybe you could practice in front of a mirror or something.
+ຂ້ອຍບໍ່ຮູ້, ບາງທີເຈົ້າສາມາດຝຶກຊ້ອມຢູ່ຕໍ່ຫນ້າຈໍຫຼືບາງສິ່ງບາງຢ່າງ.
+
+278
+00:17:36,550 --> 00:17:38,550
+[FIRST KID]
+You're dead!
+ເຈົ້າຕາຍແລ້ວ!
+
+279
+00:17:39,050 --> 00:17:41,050
+[SECOND KID]
+Am not!
+ຂ້ອຍບໍ່ແມ່ນ!
+
+280
+00:17:41,550 --> 00:17:43,550
+[FIRST KID]
+Are so!
+ແມ່ນແລ້ວ!
+
+281
+00:17:44,050 --> 00:17:47,550
+[JOHN]
+We're not gonna make it, are we?  People, I mean.
+ພວກເຮົາຈະບໍ່ເຮັດໄດ້, ແມ່ນບໍ? ປະຊາຊົນ, ຂ້ອຍຫມາຍຄວາມວ່າ.
+
+282
+00:17:48,050 --> 00:17:50,850
+[TERMINATOR]
+It is in your nature to destroy yourselves.
+ມັນຢູ່ໃນທໍາມະຊາດຂອງທ່ານທີ່ຈະທໍາລາຍຕົວເອງ.
+
+283
+00:17:51,350 --> 00:17:53,350
+[JOHN]
+Yeah.  Drag, huh?
+ແມ່ນແລ້ວ. ດຶງ, ແມ່ນບໍ?
+
+284
+00:17:53,850 --> 00:17:57,350
+[SARAH]
+I need to know how Skynet get built.  Who's responsible?
+ຂ້ອຍຕ້ອງຮູ້ວ່າສະກາຍເນັດຖືກສ້າງຂຶ້ນແນວໃດ. ໃຜເປັນຜູ້ຮັບຜິດຊອບ?
+
+285
+00:17:57,850 --> 00:18:03,800
+[TERMINATOR]
+The man most directly responsible is Miles Bennet Dyson, Director of Special Projects at Cyberdyne Systems Corporation.
+ຜູ້ຊາຍທີ່ມີຄວາມຮັບຜິດຊອບໂດຍກົງທີ່ສຸດແມ່ນ ໄມລ໌ສ໌ ເບນເນັດ
+ໄດສັນ, ຜູ້ອໍານວຍການໂຄງການພິເສດໃນບໍລິສັດໄຊເບີໄດໄນ ລະບົບ.
+
+286
+00:18:04,300 --> 00:18:06,300
+[SARAH]
+Why him?
+ເປັນຫຍັງລາວ?
+
+287
+00:18:06,800 --> 00:18:10,650
+[TERMINATOR]
+In a few months he creates a revolutionary type of mircoprocessor.
+ໃນສອງສາມເດືອນລາວສ້າງປະເພດຂອງ mircoprocessor ທີ່ປະຕິວັດ.
+
+288
+00:18:11,150 --> 00:18:13,150
+[SARAH]
+Then what?
+ຫຼັງຈາກນັ້ນຫຍັງ?
+
+289
+00:18:13,650 --> 00:18:19,650
+[TERMINATOR]
+In three years Cyberdyne will become the largest supplier of military computer systems.  All stealth bombers are upgraded with Cyberdyne computers, becoming fully unmanned,  Afterward, the fly with a perfect operational record.
+ໃນສາມປີ ໄຊເບີໄດນ໌ ຈະກາຍເປັນຜູ້ສະ ຫນອງ ລະບົບຄອມພິວເຕີທະຫານທີ່ໃຫຍ່ທີ່ສຸດ. ເຮືອບິນລະເບີດ stealth ທັງ ຫມົດ ຖືກປັບປຸງດ້ວຍຄອມພີວເຕີ
+ໄຊເບີໄດນ໌, ກາຍເປັນຄົນບໍ່ມີຄົນຂັບເຄື່ອນຢ່າງເຕັມທີ່, ຫຼັງຈາກນັ້ນ, ຫນູທີ່ມີບັນທຶກການປະຕິບັດງານທີ່ສົມບູນແບບ.
+
+290
+00:18:20,150 --> 00:18:26,150
+[SARAH]
+Uh huh, great.  Then those fat fucks in Washington figure, what the hell, let a computer run the whole show, right?
+ອູຮາ, ດີເລີດ. ຫຼັງຈາກນັ້ນຄົນໂຊກແຊງທີ່ໄຂມັນໃນວໍຊິງຕັນຄິດວ່າ
+, ຫຍັງ, ໃຫ້ຄອມພິວເຕີ ດໍາ ເນີນການສະແດງທັງ ຫມົດ, ແມ່ນບໍ?
+
+291
+00:18:26,650 --> 00:18:32,650
+[TERMINATOR]
+Basically.  The Skynet funding bill is passed.  The system goes on-line August 4th, 1997.  Human decisions are removed from strategic defense.  Skynet begins to learn, at a geometric rate.  It becomes self-aware at 2:14 a.m. eastern time, August 29. In a panic, they try to pull the plug.
+ໂດຍພື້ນຖານແລ້ວ. ຮ່າງກົດຫມາຍການສະຫນອງທຶນຂອງສະກາຍເນັດຖືກຜ່ານ. ລະບົບເຂົ້າສູ່ລະບົບໃນວັນທີ 4 ສິງຫາປີ 1997. ການຕັດສິນໃຈຂອງມະນຸດຖືກຍົກເລີກຈາກການປ້ອງກັນທາງຍຸດທະສາດ
+. ສະກີນເນັດເລີ່ມຮຽນຮູ້, ໃນອັດຕາທາງຊີມິເຕີ. ມັນກາຍເປັນຕົວເອງໃນເວລາ 2:14 ໂມງເຊົ້າເວລາຕາເວັນອອກ, ເດືອນສິງຫາ 29. ໃນຄວາມຢ້ານກົວ, ພວກເຂົາພະຍາຍາມດຶງ plug ໄດ້.
+
+292
+00:18:33,150 --> 00:18:35,150
+[SARAH]
+And Skynet fights back.
+ແລະສະກາຍເນັດຕໍ່ສູ້ກັບຄືນໄປບ່ອນ.
+
+293
+00:18:35,650 --> 00:18:39,150
+[TERMINATOR]
+Yes.  It launches its ICBMs against their targets in Russia.
+ແມ່ນແລ້ວ. ມັນຍິງລູກສອນໄຟ ICBM
+ຂອງຕົນຕໍ່ເປົ້າຫມາຍຂອງພວກເຂົາໃນຣັດເຊຍ.
+
+294
+00:18:39,650 --> 00:18:41,650
+[SARAH]
+Why attack Russia?
+ເປັນຫຍັງຈຶ່ງໂຈມຕີຣັດເຊຍ?
+
+295
+00:18:42,150 --> 00:18:46,000
+[TERMINATOR]
+Because Skynet knows the Russian counter-strike will remove its enemies here.
+ເພາະສະກາຍເນັດຮູ້ວ່າການໂຈມຕີຕ້ານຣັດເຊຍຈະເອົາສັດຕູຂອງຕົນອອກຈາກບ່ອນນີ້
+.
+
+296
+00:18:46,500 --> 00:18:49,300
+[SARAH]
+Jesus.  How much do you know about Dyson?
+ພຣະເຢຊູ. ເຈົ້າຮູ້ຫຼາຍປານໃດກ່ຽວກັບດາຍສັນ?
+
+297
+00:18:49,800 --> 00:18:51,800
+[TERMINATOR]
+I have detailed files.
+ຂ້ອຍມີເອກະສານລາຍລະອຽດ.
+
+298
+00:18:52,300 --> 00:18:56,850
+[SARAH]
+I want to know everything.  What he looks like. Where he lives.  Everything.
+ຂ້ອຍຢາກຮູ້ທຸກຢ່າງ. ລາວເບິ່ງຄືແນວໃດ. ລາວອາໄສຢູ່ໃສ. ທຸກຢ່າງ.
+
+299
+00:18:57,350 --> 00:18:59,450
+[TARISSA]
+You going to work all day?
+ເຈົ້າຈະເຮັດວຽກຕະຫຼອດມື້ບໍ?
+
+300
+00:18:59,950 --> 00:19:05,950
+[DYSON]
+I'm sorry, baby.  This thing is just kicking my ass.  I thought we had it with this one...
+ຂ້ອຍຂໍໂທດແມ. ສິ່ງນີ້ພຽງແຕ່ຕີຂ້ອຍ.
+ຂ້ອຍຄິດວ່າພວກເຮົາມີມັນກັບຄົນນີ້...
+
+301
+00:19:06,450 --> 00:19:12,450
+[DYSON]
+... but the output went to shit after three seconds.  I'm thinking now it's the way I'm matrixing the command hierarchies...
+ແຕ່ຜົນຜະລິດໄດ້ໄປສໍ້ໂກງຫຼັງຈາກສາມວິນາທີ. ຂ້ອຍ ກໍາ
+ລັງຄິດວ່າດຽວນີ້ມັນເປັນວິທີທີ່ຂ້ອຍ ກໍາ ລັງແມຕຣິກຊີຂັ້ນເທິງຄໍາສັ່ງ...
+
+302
+00:19:12,950 --> 00:19:17,150
+[TARISSA]
+You need a break.  You'll see it clear when you come back.
+ເຈົ້າຕ້ອງການພັກຜ່ອນ. ເຈົ້າຈະເຫັນມັນຢ່າງຈະແຈ້ງເມື່ອເຈົ້າກັບມາ.
+
+303
+00:19:17,650 --> 00:19:19,650
+[DYSON]
+I can't
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້
+
+304
+00:19:20,150 --> 00:19:24,700
+[TARISSA]
+Miles, it's Sunday.  You promised to take the kids to Raging Waters today.
+ໄມລ໌ສ໌, ມັນເປັນວັນອາທິດ.
+ເຈົ້າສັນຍາວ່າຈະພາເດັກນ້ອຍໄປຫານ້ ໍາ ທີ່ໂຊກຮ້າຍມື້ນີ້.
+
+305
+00:19:25,200 --> 00:19:28,350
+[DYSON]
+Oh.  I can't, honey.  I'm on a roll here.
+ໂອ້. ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ແມ. ຂ້ອຍ ກໍາ ລັງເຮັດວຽກຢູ່ບ່ອນນີ້.
+
+306
+00:19:28,850 --> 00:19:34,100
+[DYSON]
+Baby, this thing is going to blow 'em all away. It's a neural-net process --
+ແມ, ສິ່ງນີ້ຈະພັດພວກມັນທັງ ຫມົດ ໄປ. ມັນແມ່ນຂະບວນການເຄືອຂ່າຍປະສາດ -
+
+307
+00:19:34,600 --> 00:19:40,600
+[TARISSA]
+I know.  You told me.  It's a neural-net processor.  It thinks and learns like we do. It's superconducting at room temperature. Other computer are pocket calculators by comparison.  But why is that so goddamn important, Miles? I really need to know, 'cause I feel like I'm going crazy here, sometimes.
+ຂ້ອຍຮູ້ແລ້ວ. ເຈົ້າບອກຂ້ອຍ. ມັນແມ່ນໂປເຊດເຊີເຄືອຂ່າຍປະສາດ. ມັນຄິດແລະຮຽນຮູ້ຄືກັບພວກເຮົາ. ມັນເປັນ superconductive ໃນອຸນຫະພູມຫ້ອງ. ຄອມພິວເຕີອື່ນໆແມ່ນ
+calculators ກະເປົາໂດຍການປຽບທຽບ. ແຕ່ເປັນຫຍັງມັນມີຄວາມສໍາຄັນຫຼາຍ, ໄມລ໌? ຂ້ອຍຕ້ອງຮູ້ແທ້ໆ, ເພາະວ່າຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍ ກໍາ ລັງໂຊກຮ້າຍຢູ່ບ່ອນນີ້, ບາງຄັ້ງ.
+
+308
+00:19:41,100 --> 00:19:44,250
+[DYSON]
+I'm sorry, honey, it's just that I'm thiiis close.
+ຂ້ອຍຂໍໂທດແມ, ມັນພຽງແຕ່ວ່າຂ້ອຍໃກ້ຊິດຫຼາຍ.
+
+309
+00:19:44,750 --> 00:19:50,750
+[DYSON]
+Imagine a jetline with a pilot that never makes a mistake, never gets tired, never shows up to work with a hangover.  Meet the pilot.
+ຈິນຕະນາການສາຍເຮືອບິນທີ່ມີນັກບິນທີ່ບໍ່ເຄີຍເຮັດຄວາມຜິດພາດ
+, ບໍ່ເຄີຍເມື່ອຍ, ບໍ່ມາເຮັດວຽກກັບ hangover. ພົບກັບນັກບິນ.
+
+310
+00:19:51,250 --> 00:19:57,250
+[TARISSA]
+Why did you marry me, Miles?  Why did we have these two children?  You don't need us.  Your heart and your mind are in here.  But it doesn't love you like we do.
+ເຈົ້າແຕ່ງງານຂ້ອຍເປັນຫຍັງ, ໄມລ໌ສ໌? ເປັນຫຍັງພວກເຮົາມີລູກສອງຄົນນີ້? ເຈົ້າບໍ່ຕ້ອງການພວກເຮົາ
+. ຫົວໃຈແລະຈິດໃຈຂອງທ່ານຢູ່ໃນບ່ອນນີ້. ແຕ່ມັນບໍ່ຮັກເຈົ້າຄືກັບພວກເຮົາເຮັດ.
+
+311
+00:19:57,750 --> 00:19:59,750
+[DYSON]
+I'm sorry.
+ຂ້ອຍຂໍໂທດ.
+
+312
+00:20:00,250 --> 00:20:03,400
+[TARISSA]
+How about spending some time with your other babies?
+ຈະເປັນແນວໃດກັບການໃຊ້ເວລາກັບເດັກນ້ອຍອື່ນໆຂອງທ່ານ?
+
+313
+00:20:03,900 --> 00:20:09,900
+[CALEXICO        15 MI]
+A101    AHEAD is a pathetic oasis of humanity in the vast wasteland, a couple of aging house-trailers, surrounded by assorted junk vehicles and desert-style trash.  There is a dirt airstrip behind the trailers, and a stripped Huey helicopter sitting on block nearby.
+A101 AHEAD ແມ່ນໂອອາຊີທີ່ໂຊກຮ້າຍຂອງມະນຸດໃນເຂດທີ່ເປື້ອນທີ່ກວ້າງຂວາງ, ລົດຕູ້ເຮືອນທີ່ເຖົ້າແກ່ສອງສາມຄົນ,
+ອ້ອມຮອບດ້ວຍລົດຂີ້ເຫຍື້ອທີ່ຫຼາກຫຼາຍແລະສິ່ງເສດເຫຼືອແບບທະເລຊາຍ. ມີເສັ້ນທາງບິນດິນຢູ່ເບື້ອງຫຼັງລົດຕູ້, ແລະເຮລິຄອບເຕີ Huey ທີ່ຖືກຖິ້ມລົງໃນບລັອກໃກ້ໆ.
+
+314
+00:20:10,400 --> 00:20:12,400
+[SARAH]
+Stay in the truck.
+ຢູ່ໃນລົດບັນທຸກ.
+
+315
+00:20:12,900 --> 00:20:14,900
+[SARAH]
+Enrique?  You here?
+ແອນເຣກ? ເຈົ້າຢູ່ບ່ອນນີ້ບໍ?
+
+316
+00:20:15,400 --> 00:20:17,400
+[SALCEDA]
+You pretty jumpy, Connor.
+ເຈົ້າມີຄວາມກັງວົນຫຼາຍ, ຄອນເນີ.
+
+317
+00:20:17,900 --> 00:20:23,150
+[SALCEDA]
+Good to see you, Connor.  I knew you'd make it back here sooner or later.
+ດີໃຈທີ່ເຫັນເຈົ້າ, ຄອນເນີ.
+ຂ້ອຍຮູ້ວ່າເຈົ້າຈະກັບມາບ່ອນນີ້ກ່ອນຫຼືຫຼ້າສຸດ.
+
+318
+00:20:23,650 --> 00:20:27,150
+[SALCEDA]
+Oye, Big John!  Que pasa?  Who's your very large friend?
+ໂອ້, ຈອນໃຫຍ່! ເກີດຫຍັງຂຶ້ນ? ເພື່ອນໃຫຍ່ຂອງທ່ານແມ່ນໃຜ?
+
+319
+00:20:27,650 --> 00:20:32,900
+[JOHN]
+He's cool, Enrique.  He's... uh... this is my Uncle Bob.  Uncle Bob, this is Enrique.
+ລາວເຢັນ, ແອນເຣກ. ລາວແມ່ນ... ອູ...
+ນີ້ແມ່ນພໍ່ຊາຍໂບບຂອງຂ້ອຍ. ພໍ່ຊາຍໂອບ, ນີ້ແມ່ນແອນເລກ.
+
+320
+00:20:33,400 --> 00:20:39,350
+[SALCEDA]
+Hmmm.  Uncle Bob, huh?  Okay.  Yolanda.  Get out here, we got company.  And bring some fucking tequila!
+Hmmm. ພໍ່ເຖົ້າໂບບ, ແມ່ນບໍ? ດີ. ໂຢລານດາ. ອອກມາບ່ອນນີ້
+, ພວກເຮົາມີບໍລິສັດ. ແລະເອົາເທກິລາບາງຢ່າງ!
+
+321
+00:20:39,850 --> 00:20:41,850
+[TERMINATOR]
+Uncle Bob?
+ພໍ່ເຖົ້າໂບບບໍ?
+
+322
+00:20:42,350 --> 00:20:46,900
+[SALCEDA]
+So, Sarahlita, you getting famous, you know that?  All over the goddamn TV.
+ສະນັ້ນ, ຊາຣາລີຕາ, ເຈົ້າ ກໍາ ລັງກາຍເປັນຊື່ສຽງ
+, ເຈົ້າຮູ້ບໍ? ໃນໂທລະພາບທັງ ຫມົດ.
+
+323
+00:20:47,400 --> 00:20:49,400
+[SALCEDA]
+Honey, take Pacolito.  Thanks, baby.
+ແມ, ເອົາປາໂກລີໂຕ. ຂອບໃຈແມ.
+
+324
+00:20:49,900 --> 00:20:51,900
+[SALCEDA]
+Drink?
+ດື່ມບໍ?
+
+325
+00:20:52,400 --> 00:20:58,000
+[SARAH]
+I just came for my stuff.  And I need clothes, food, and one of your trucks.
+ຂ້ອຍພຽງແຕ່ມາເອົາສິ່ງຂອງຂອງຂ້ອຍ. ແລະຂ້ອຍຕ້ອງການເຄື່ອງນຸ່ງຫົ່ມ
+, ອາຫານ, ແລະລົດບັນທຸກຂອງທ່ານຫນຶ່ງ.
+
+326
+00:20:58,500 --> 00:21:03,400
+[SALCEDA]
+Hey, how about the fillings out of my fucking teeth while you're at it?
+ເຮ້, ຈະເປັນແນວໃດກັບການຕື່ມຈາກແຂ້ວຂອງຂ້ອຍໃນຂະນະທີ່ເຈົ້າຢູ່ໃນມັນ?
+
+327
+00:21:03,900 --> 00:21:06,700
+[SARAH]
+Now, Enrique.  You two are on weapons detail.
+ດຽວນີ້, ແອນຣີເກ. ເຈົ້າທັງສອງ ກໍາ ລັງເຮັດວຽກກ່ຽວກັບລາຍລະອຽດອາວຸດ.
+
+328
+00:21:07,200 --> 00:21:09,200
+[JOHN]
+Hook it on.
+ຈັບມັນໄວ້.
+
+329
+00:21:09,700 --> 00:21:12,850
+[JOHN]
+One thing about my mom... she always plans ahead.
+ມີສິ່ງຫນຶ່ງກ່ຽວກັບແມ່ຂອງຂ້ອຍ... ນາງວາງແຜນກ່ອນຢູ່ສະເຫມີ.
+
+330
+00:21:13,350 --> 00:21:15,350
+[TERMINATOR]
+Excellent.
+ດີເລີດ.
+
+331
+00:21:15,850 --> 00:21:18,300
+[JOHN]
+Yeah, I thought you'd like this place.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າເຈົ້າຈະມັກບ່ອນນີ້.
+
+332
+00:21:18,800 --> 00:21:24,800
+[SALCEDA]
+This is the best truck, but the water pump is blown.  You got the time to change it out?
+ນີ້ແມ່ນລົດບັນທຸກທີ່ດີທີ່ສຸດ, ແຕ່ປອມນ້ ໍາ
+ຖືກລະເບີດ. ເຈົ້າມີເວລາທີ່ຈະປ່ຽນມັນບໍ?
+
+333
+00:21:25,300 --> 00:21:31,300
+[SARAH]
+Yeah.  I'm gonna wait till dark to cross the border.  Enrique, it's dangerous for you here.  You get out tonight, too, okay?
+ແມ່ນແລ້ວ. ຂ້ອຍຈະລໍຖ້າຈົນຮອດຕອນບ່າຍເພື່ອຂ້າມຊາຍແດນ. ແອນຣີເກ,
+ມັນເປັນອັນຕະລາຍ ສໍາ ລັບເຈົ້າຢູ່ນີ້. ເຈົ້າອອກໃນຄືນນີ້ເຊັ່ນກັນ, ດີບໍ?
+
+334
+00:21:31,800 --> 00:21:36,700
+[SALCEDA]
+Yeah, Saralita.  Sure.  Just drop by any time and totally fuck up my life.
+ແມ່ນແລ້ວ, ຊາຣາລີຕາ. ແນ່ນອນ.
+ພຽງແຕ່ມາໃນເວລາໃດກໍ່ຕາມແລະເຮັດໃຫ້ຊີວິດຂອງຂ້ອຍສໍ້ໂກງຢ່າງສົມບູນ.
+
+335
+00:21:37,200 --> 00:21:43,200
+[JOHN]
+See, I grew up in places like this, so I just thought it was how people lived... riding around in helicopters.  Learning how to blow shit up.
+ເຈົ້າເຫັນແລ້ວ, ຂ້ອຍເຕີບໃຫຍ່ຢູ່ໃນສະຖານທີ່ເຊັ່ນນີ້, ສະນັ້ນຂ້ອຍພຽງແຕ່ຄິດວ່າມັນເປັນວິທີທີ່ຄົນອາໄສຢູ່
+... ຂີ່ເຮລິຄອບເຕີຢູ່ທົ່ວໄປ. ຮຽນຮູ້ວິທີລະເບີດສິ່ງຂອງ.
+
+336
+00:21:43,700 --> 00:21:49,700
+[JOHN]
+Then, when Mom got busted I got put in a regular school.  The other kids were, like, into Nintendo.
+ຫຼັງຈາກນັ້ນ, ເມື່ອແມ່ຖືກຈັບຂ້ອຍຖືກວາງໄວ້ໃນໂຮງຮຽນປົກກະຕິ
+. ເດັກນ້ອຍອື່ນໆແມ່ນ, ເຊັ່ນວ່າ, ໃນ Nintendo.
+
+337
+00:21:50,200 --> 00:21:52,200
+[JOHN]
+Are you ever afraid?
+ເຈົ້າເຄີຍຢ້ານບໍ?
+
+338
+00:21:52,700 --> 00:21:54,700
+[JOHN]
+Not even of dying?
+ບໍ່ເຖິງແມ່ນວ່າຈະຕາຍບໍ?
+
+339
+00:21:55,200 --> 00:21:59,400
+[JOHN]
+You don't feel any emotion about it one way or the other?
+ເຈົ້າບໍ່ຮູ້ສຶກຄວາມຮູ້ສຶກໃດໆກ່ຽວກັບມັນໃນທາງໃດຫຼືທາງອື່ນບໍ?
+
+340
+00:21:59,900 --> 00:22:05,150
+[TERMINATOR]
+No.  I have to stay functional until my mission is complete.  Then it doesn't matter.
+ບໍ່. ຂ້ອຍຕ້ອງເຮັດວຽກຢູ່ຈົນກວ່າພາລະກິດຂອງຂ້ອຍຈະສໍາເລັດ
+. ຫຼັງຈາກນັ້ນມັນບໍ່ສໍາຄັນ.
+
+341
+00:22:05,650 --> 00:22:09,150
+[JOHN]
+Yeah.  I have to stay functional too.  "I'm too important".
+ແມ່ນແລ້ວ. ຂ້ອຍຕ້ອງເຮັດວຽກຢູ່ອີກດ້ວຍ. ຂ້ອຍມີຄວາມສໍາຄັນເກີນໄປ.
+
+342
+00:22:09,650 --> 00:22:11,650
+[JOHN]
+It's definitely you.
+ມັນເປັນເຈົ້າແນ່ນອນ.
+
+343
+00:22:12,150 --> 00:22:18,150
+[JOHN]
+There was this one guy that was kinda cool. He taught me engines.  Hold this a second.  Mom screwed it up, of course.  Sooner or later she'd always tell them about Judgment Day and me being this world leader and that's be all she wrote.
+ມີຄົນຄົນຫນຶ່ງທີ່ເຢັນບາງຢ່າງ. ລາວສອນຂ້ອຍເຄື່ອງຈັກ. ຈັບສິ່ງນີ້ຊົ່ວຄາວຫນຶ່ງ. ແມ່ເຮັດໃຫ້ມັນສໍ້ໂກງ, ແນ່ນອນ
+. ກ່ອນຫຼືຫຼ້າສຸດນາງຈະບອກພວກເຂົາກ່ຽວກັບວັນຕັດສິນແລະຂ້ອຍເປັນຜູ້ນໍາໂລກນີ້ແລະນັ້ນແມ່ນທັງຫມົດທີ່ນາງຂຽນ.
+
+344
+00:22:18,650 --> 00:22:20,650
+[TERMINATOR]
+Torque wrench please.
+ປຸ່ມ Torque ກະລຸນາ.
+
+345
+00:22:21,150 --> 00:22:24,300
+[JOHN]
+Here.  I wish I coulda met my real dad.
+ມາແລ້ວ. ຂ້ອຍຢາກໄດ້ພົບພໍ່ທີ່ແທ້ຈິງຂອງຂ້ອຍ.
+
+346
+00:22:24,800 --> 00:22:26,800
+[TERMINATOR]
+You will.
+ເຈົ້າຈະເຮັດ.
+
+347
+00:22:27,300 --> 00:22:33,300
+[JOHN]
+Yeah.  I guess so.  My mom says when I'm, like, 45, I think, I send him back through time to 1984.  But right now he hasn't even been born yet.  Man, is messes with your head.  Where's that other bolt?  Thanks.  Mom and him were only together for one night, but she still loves him, I guess.  I see her crying sometimes.  She denies it totally, of course.  Like she says she got something in her eye.
+ແມ່ນແລ້ວ. ຂ້ອຍຄິດວ່າເປັນ. ແມ່ຂອງຂ້ອຍເວົ້າວ່າເມື່ອຂ້ອຍອາຍຸປະມານ 45, ຂ້ອຍຄິດ, ຂ້ອຍສົ່ງລາວກັບຄືນໄປບ່ອນໃນເວລາເຖິງປີ 1984. ແຕ່ດຽວນີ້ລາວຍັງບໍ່ທັນເກີດເທື່ອ. ຜູ້ຊາຍ, ແມ່ນສໍ້ໂກງກັບຫົວຂອງທ່ານ.
+ກະດານອື່ນນັ້ນຢູ່ໃສ? ຂອບໃຈ. ແມ່ແລະລາວພຽງແຕ່ຢູ່ຮ່ວມກັນ ຫນຶ່ງ ຄືນ, ແຕ່ນາງຍັງຮັກລາວ, ຂ້ອຍຄິດ. ຂ້ອຍເຫັນນາງຮ້ອງໄຫ້ບາງຄັ້ງ. ນາງປະຕິເສດມັນຢ່າງສົມບູນ, ແນ່ນອນ. ຄືກັບວ່ານາງເວົ້າວ່ານາງມີບາງສິ່ງບາງຢ່າງໃນຕາຂອງນາງ.
+
+348
+00:22:33,800 --> 00:22:35,800
+[TERMINATOR]
+Why do you cry?
+ເຈົ້າຮ້ອງໄຫ້ເປັນຫຍັງ?
+
+349
+00:22:36,300 --> 00:22:41,200
+[JOHN]
+You mean people?  I don't know.  We just cry. You know.  When it hurts.
+ເຈົ້າຫມາຍຄວາມວ່າຄົນບໍ? ຂ້ອຍບໍ່ຮູ້.
+ພວກເຮົາພຽງແຕ່ຮ້ອງໄຫ້. ເຈົ້າຮູ້ແລ້ວ. ເມື່ອມັນເຈັບປວດ.
+
+350
+00:22:41,700 --> 00:22:43,700
+[TERMINATOR]
+Pain causes it?
+ຄວາມເຈັບປວດເຮັດໃຫ້ມັນເກີດຂຶ້ນບໍ?
+
+351
+00:22:44,200 --> 00:22:50,200
+[JOHN]
+Uh-unh, no, it's different... It's when there's nothing wrong with you but you hurt anyway.  You get it?
+ໂອ້, ບໍ່, ມັນແຕກຕ່າງກັນ...
+ມັນແມ່ນເມື່ອບໍ່ມີຫຍັງຜິດກັບເຈົ້າແຕ່ເຈົ້າເຈັບປວດຢ່າງໃດກໍ່ຕາມ. ເຈົ້າເຂົ້າໃຈບໍ?
+
+352
+00:22:50,700 --> 00:22:52,700
+[JOHN]
+Alriight!!  My man!
+ດີແລ້ວ!! ຜູ້ຊາຍຂອງຂ້ອຍ!
+
+353
+00:22:53,200 --> 00:22:55,200
+[TERMINATOR]
+No problemo.
+ບໍ່ເປັນຫຍັງ.
+
+354
+00:22:55,700 --> 00:23:01,700
+[SARAH]
+Watching John with the machine, it was suddenly so clear.  The Terminator would never stop, it would never leave him... it would always be there.  And it would never hurt him, never shout at him or get drunk and hit him, or say it couldn't spend time with him because it was too busy.  And it would die to protect him.  Of all the would-be fathers who came and went over the years, this thing, this machine, was the only one who measured up.  In an insane world, it was the sanest choice.
+ເບິ່ງຈອນດ້ວຍເຄື່ອງຈັກ, ມັນແຈ້ງຫຼາຍຢ່າງຢ່າງທັນທີ. ເຄື່ອງ ຄົນເຫຼັກ ຈະບໍ່ຢຸດເຊົາເລີຍ, ມັນຈະບໍ່ອອກຈາກລາວ... ມັນຈະຢູ່ບ່ອນນັ້ນຕະຫຼອດໄປ. ແລະມັນຈະບໍ່ເຮັດໃຫ້ລາວເຈັບປວດເລີຍ, ບໍ່ເຄີຍຮ້ອງໄຫ້ລາວຫຼືດື່ມແລະຕີລາວ,
+ຫຼືເວົ້າວ່າມັນບໍ່ສາມາດໃຊ້ເວລາກັບລາວເພາະວ່າມັນມີວຽກຫຼາຍເກີນໄປ. ມັນຈະຕາຍເພື່ອປົກປ້ອງລາວ. ໃນບັນດາພໍ່ທີ່ຈະເປັນຜູ້ມາແລະໄປຫຼາຍປີ, ສິ່ງນີ້, ເຄື່ອງຈັກນີ້, ແມ່ນຄົນດຽວທີ່ວັດແທກໄດ້. ໃນໂລກທີ່ໂຊກຮ້າຍ, ມັນແມ່ນການເລືອກທີ່
+
+355
+00:23:02,200 --> 00:23:08,200
+[SARAH]
+... if we are ever separated, and can't make contact, go to Enrique's airstrip.  I'll rendezvous with you there.
+ຖ້າພວກເຮົາແຍກກັນ, ແລະບໍ່ສາມາດຕິດຕໍ່ໄດ້,
+ໄປທາງບິນຂອງແອນຣີເກ. ຂ້ອຍຈະພົບກັບເຈົ້າຢູ່ບ່ອນນັ້ນ.
+
+356
+00:23:08,700 --> 00:23:12,200
+[BIKE COP]
+Howdy.  I saw you pulled over here earlier. Everything okay?
+ສະບາຍດີ. ຂ້ອຍເຫັນເຈົ້າຢຸດຢູ່ບ່ອນນີ້ກ່ອນ. ທຸກຢ່າງດີບໍ?
+
+357
+00:23:12,700 --> 00:23:18,300
+[T-1000]
+Everything's fine.  Thanks for checking.  Since you're here, though, can I talk to you a second...
+ທຸກຢ່າງບໍ່ເປັນຫຍັງ. ຂອບໃຈທີ່ກວດສອບ. ເພາະເຈົ້າຢູ່ບ່ອນນີ້,
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍສາມາດເວົ້າກັບເຈົ້າໄດ້ວິນາທີຫນຶ່ງ...
+
+358
+00:23:18,800 --> 00:23:24,800
+[SALCEDA]
+She said you go south with him...  ... tonight, like you planned.  She will meet you tomorrow in...
+ນາງບອກວ່າເຈົ້າຈະໄປທາງໃຕ້ກັບລາວ...... ມື້ນີ້,
+ດັ່ງທີ່ເຈົ້າວາງແຜນ. ນາງຈະພົບກັບເຈົ້າມື້ອື່ນໃນ...
+
+359
+00:23:25,300 --> 00:23:27,300
+[JOHN]
+Mommm!! Wait!!
+ແມ່!! ລໍຖ້າ!!
+
+360
+00:23:27,800 --> 00:23:33,800
+[JOHN]
+"No fate."  No fate but what we make.  My father told her this... I mean I made him memorize it, up in the future, as a message to her -- Never mind.  Okay, the whole thing goes "The future is not set.  There is no fate but what we make for ourselves."
+ຂ້ອຍຫມາຍຄວາມວ່າຂ້ອຍເຮັດໃຫ້ລາວຈື່ມັນໄວ້, ຂຶ້ນໃນອະນາຄົດ, ເປັນຂໍ້ຄວາມຕໍ່ນາງ - ບໍ່ເປັນຫຍັງ. ດີ,
+ເລື່ອງທັງ ຫມົດ ໄປ"ອານາຄົດບໍ່ໄດ້ຖືກ ກໍາ ນົດໄວ້. ບໍ່ມີໂຊກຊະຕາໃດໆ ນອກຈາກສິ່ງທີ່ພວກເຮົາສ້າງຂຶ້ນ ສໍາ ລັບຕົວເອງ."
+
+361
+00:23:34,300 --> 00:23:36,750
+[TERMINATOR]
+She intends to change the future somehow.
+ນາງຕັ້ງໃຈທີ່ຈະປ່ຽນແປງອະນາຄົດຢ່າງໃດກໍຕາມ.
+
+362
+00:23:37,250 --> 00:23:39,350
+[JOHN]
+I guess, yeah --  Oh shit!!
+ຂ້ອຍຄິດວ່າ, ແມ່ນແລ້ວ - ໂອ້!!
+
+363
+00:23:39,850 --> 00:23:41,850
+[TERMINATOR]
+Dyson.
+ໄດສັນ.
+
+364
+00:23:42,350 --> 00:23:45,850
+[JOHN]
+Yeah, gotta be!  Miles Dyson!  She's gonna blow him away!
+ແມ່ນແລ້ວ, ມັນຕ້ອງເປັນ! ໄມລ໌ດາຍສັນ! ນາງຈະພັດລາວໄປ!
+
+365
+00:23:46,350 --> 00:23:48,450
+[JOHN]
+Come on.  Let's go.  LET'S GO!!
+ມາແລ້ວ. ໄປ. ໄປ!!
+
+366
+00:23:48,950 --> 00:23:50,950
+[TERMINATOR]
+This is tactically dangerous.
+ນີ້ແມ່ນອັນຕະລາຍທາງເຕັກນິກ.
+
+367
+00:23:51,450 --> 00:23:53,450
+[JOHN]
+Drive faster.
+ຂັບລົດໄວຂຶ້ນ.
+
+368
+00:23:53,950 --> 00:23:59,950
+[TERMINATOR]
+The T-1000 has the same files that I do.  It could anticipate this move and reacquire you at Dyson's house.
+ທີ-1000 ມີເອກະສານດຽວກັນກັບຂ້ອຍ.
+ມັນສາມາດຄາດຄະເນການເຄື່ອນຍ້າຍນີ້ແລະຊື້ເຈົ້າຄືນໃນເຮືອນຂອງດາຍສັນ.
+
+369
+00:24:00,450 --> 00:24:02,900
+[JOHN]
+I don't care.  We've gotta stop her.
+ຂ້ອຍບໍ່ສົນໃຈ. ພວກເຮົາຕ້ອງຢຸດນາງ.
+
+370
+00:24:03,400 --> 00:24:05,850
+[TERMINATOR]
+Killing Dyson might actually prevent the war.
+ການຂ້າດາຍສັນອາດຈະປ້ອງກັນສົງຄາມແທ້ໆ.
+
+371
+00:24:06,350 --> 00:24:12,350
+[JOHN]
+I don't care!! There's gotta be another way. Haven't you learned anything?!  Haven't you figured out why you can't kill people?
+ຂ້ອຍບໍ່ສົນໃຈ!! ມັນຕ້ອງມີວິທີອື່ນ. ເຈົ້າບໍ່ຮຽນຫຍັງເລີຍບໍ
+?! ເຈົ້າບໍ່ຮູ້ວ່າເປັນຫຍັງເຈົ້າບໍ່ສາມາດຂ້າຄົນໄດ້ບໍ?
+
+372
+00:24:12,850 --> 00:24:18,850
+[JOHN]
+Look, maybe you don't care if you live or die. But everybody's not like that!  Okay?!  We have feelings.  We hurt.  We're afraid.  You gotta learn this stuff, man, I'm not kidding.  It's important.
+ເບິ່ງ, ບາງທີເຈົ້າບໍ່ສົນໃຈວ່າເຈົ້າຈະດໍາລົງຊີວິດຫຼືຕາຍ. ແຕ່ທຸກຄົນບໍ່ແມ່ນແບບນັ້ນ! ດີບໍ?! ພວກເຮົາມີຄວາມຮູ້ສຶກ
+. ພວກເຮົາເຈັບປວດ. ພວກເຮົາຢ້ານກົວ. ເຈົ້າຕ້ອງຮຽນຮູ້ສິ່ງເຫຼົ່ານີ້, ຜູ້ຊາຍ, ຂ້ອຍບໍ່ໄດ້ໂຊກແຊງ. ມັນສໍາຄັນ.
+
+373
+00:24:19,350 --> 00:24:21,350
+[DYSON]
+Run, kids!  Go!  Run!
+ແລ່ນ, ເດັກນ້ອຍ! ໄປ! ແລ່ນ!
+
+374
+00:24:21,850 --> 00:24:23,850
+[TARISSA]
+Miles!  Oh my God!!
+ໄມລ໌! ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ!!
+
+375
+00:24:24,350 --> 00:24:26,350
+[MILES]
+Stay back!!
+ຢູ່ເບື້ອງຫຼັງ!!
+
+376
+00:24:26,850 --> 00:24:28,850
+[JOHN]
+Shit, we're too late!
+ສະບາຍດີ, ພວກເຮົາຊ້າເກີນໄປ!
+
+377
+00:24:29,350 --> 00:24:31,350
+[TARISSA]
+Danny!  DANNY!
+ດັນນີ! ດານນີ!
+
+378
+00:24:31,850 --> 00:24:33,850
+[DANNY]
+Daaaaddddeeee!
+Daaaaddddeeee!
+
+379
+00:24:34,350 --> 00:24:39,250
+[SARAH]
+Don't fucking move!  Don't FUCKING MOVE!!  Get on the floor, bitch!  Now!!  Fucking down!
+ຢ່າເຄື່ອນຍ້າຍ! ຢ່າເຄັ່ງຍ້າຍ!!
+ນັ່ງລົງພື້ນ, ແຊກແຊງ! ດຽວນີ້!! ລົງລົງ!
+
+380
+00:24:39,750 --> 00:24:45,750
+[NOW!!]
+Sarah is crazy-eyed now, shaking with the intensity of the moment. The kill has gone bad, with screaming kids and the wife involved... things she never figured on.  Tarissa drops to the knees, terrified as she looks into the muzzle of the gun.  Blythe runs to Dyson and hugs him, wailing.
+ຊາຣາມີຕາໂຊກຮ້າຍດຽວນີ້, ສັ່ນສະເທືອນດ້ວຍຄວາມເຂັ້ມແຂງຂອງເວລານີ້. ການຂ້າໄດ້ກາຍເປັນບໍ່ດີ, ມີເດັກນ້ອຍຮ້ອງໄຫ້ແລະເມຍທີ່ກ່ຽວຂ້ອງ...
+ສິ່ງຕ່າງໆທີ່ນາງບໍ່ເຄີຍຄິດກ່ຽວກັບ. ຕາຣີສຊາຕົກລົງໃສ່ເຂົ່າ, ຢ້ານກົວໃນຂະນະທີ່ນາງເບິ່ງເຂົ້າໄປໃນປາກປືນ. ບລິດແລ່ນໄປຫາດາຍສັນແລະອ້ອມລາວ, ຮ້ອງໄຫ້ອ.
+
+381
+00:24:46,250 --> 00:24:48,250
+[BLYTHE]
+Don't hurt my father!
+ຢ່າເຮັດໃຫ້ພໍ່ຂອງຂ້ອຍເຈັບປວດ!
+
+382
+00:24:48,750 --> 00:24:51,550
+[SARAH]
+Shut up, kid!  Get out of the way!!
+ປິດງຽບ, ເດັກນ້ອຍ! ອອກຈາກທາງ!!
+
+383
+00:24:52,050 --> 00:24:54,050
+[DYSON]
+Please... let... the kids... go...
+ກະລຸນາ... ໃຫ້... ເດັກນ້ອຍ... ໄປ...
+
+384
+00:24:54,550 --> 00:24:58,750
+[SARAH]
+Shut up!  SHUT UP!!  Motherfucker!  It's all your fault!  IT'S YOUR FAULT!!
+ງຽບ! ງຽບ!! ຄົນໂຊກຮ້າຍ! ມັນເປັນຄວາມຜິດຂອງເຈົ້າທັງ
+ຫມົດ! ມັນແມ່ນຄວາມຜິດຂອງທ່ານ!!
+
+385
+00:24:59,250 --> 00:25:01,250
+[JOHN]
+Mom?  You okay?
+ແມ່? ເຈົ້າດີບໍ?
+
+386
+00:25:01,750 --> 00:25:05,250
+[SARAH]
+I couldn't... oh, God.  You... came here... to stop me?
+ຂ້ອຍບໍ່ສາມາດ... ໂອ້ ພຣະເຈົ້າ. ເຈົ້າ
+... ມາບ່ອນນີ້... ເພື່ອຢຸດຂ້ອຍບໍ?
+
+387
+00:25:05,750 --> 00:25:07,750
+[JOHN]
+Uh huh.
+ໂອ້ ຮາ.
+
+388
+00:25:08,250 --> 00:25:11,400
+[JOHN]
+It's okay.  It'll by okay.  We'll figure it out.
+ມັນບໍ່ເປັນຫຍັງ. ມັນຈະດີດີ. ພວກເຮົາຈະຄິດມັນອອກ.
+
+389
+00:25:11,900 --> 00:25:14,350
+[SARAH]
+I love you, John.  I always have.
+ຂ້ອຍຮັກເຈົ້າ, ຈອນ. ຂ້ອຍຮັກຢູ່ສະເຫມີ.
+
+390
+00:25:14,850 --> 00:25:16,850
+[JOHN]
+I know, Mom.  I know.
+ຂ້ອຍຮູ້ແລ້ວ, ແມ່. ຂ້ອຍຮູ້.
+
+391
+00:25:17,350 --> 00:25:21,550
+[TERMINATOR]
+Clean penetration.  No shattered bone. Compression should control the loss of blood.
+ການເຂົ້າໄປໃນທີ່ສະອາດ. ບໍ່ມີກະດູກທີ່ແຕກຫັກ
+. ການກົດດັນຄວນຄວບຄຸມການສູນເສຍເລືອດ.
+
+392
+00:25:22,050 --> 00:25:24,050
+[TERMINATOR]
+Do you have bandages?
+ເຈົ້າມີຜ້າຫຸ້ມຫໍ່ບໍ?
+
+393
+00:25:24,550 --> 00:25:28,050
+[DYSON]
+In the bathroom.  Danny, can you get them for us?
+ໃນຫ້ອງນ້ ໍາ. ດານນີ, ເຈົ້າສາມາດເອົາພວກມັນໃຫ້ພວກເຮົາໄດ້ບໍ?
+
+394
+00:25:28,550 --> 00:25:30,550
+[DYSON]
+Who are you people?
+ພວກເຈົ້າເປັນໃຜ?
+
+395
+00:25:31,050 --> 00:25:33,050
+[JOHN]
+Show him.
+ສະແດງໃຫ້ລາວເຫັນ.
+
+396
+00:25:33,550 --> 00:25:35,550
+[DYSON]
+My God.
+ພຣະເຈົ້າຂອງຂ້ອຍ.
+
+397
+00:25:36,050 --> 00:25:38,150
+[TERMINATOR]
+Now listen to me very carefully.
+ດຽວນີ້ຟັງຂ້ອຍຢ່າງລະມັດລະວັງຫຼາຍ.
+
+398
+00:25:38,650 --> 00:25:44,650
+[SARAH]
+Dyson listened while the Terminator laid it all down.  Skynet.  Judgment Day... the history of things to come.  It's not every day you find out you're responsible for 3 billion deaths. He took it pretty well, considering...
+ໄດສັນໄດ້ຟັງໃນຂະນະທີ່ ຄົນເຫຼັກ ໄດ້ວາງມັນທັງ ຫມົດ ລົງ. ສະກາຍເນັດ. ວັນພິພາກສາ... ປະຫວັດສາດຂອງສິ່ງທີ່ຈະມາ.
+ມັນບໍ່ແມ່ນທຸກໆມື້ທີ່ທ່ານຮູ້ວ່າເຈົ້າມີຄວາມຮັບຜິດຊອບຕໍ່ການຕາຍ 3 ພັນລ້ານຄົນ. ລາວເອົາມັນດີຫຼາຍ, ໂດຍພິຈາລະນາວ່າ...
+
+399
+00:25:45,150 --> 00:25:47,600
+[DYSON]
+I feel like I'M gonna throw up.
+ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍຈະໂຊກຮ້າຍ.
+
+400
+00:25:48,100 --> 00:25:54,050
+[DYSON]
+You're judging me on thing's I haven't even done yet.  Jesus.  How were we supposed to know?
+ເຈົ້າ ກໍາ ລັງຕັດສິນໃຈຂ້ອຍກ່ຽວກັບສິ່ງທີ່ຂ້ອຍຍັງບໍ່ເຮັດເທື່ອ
+. ພຣະເຢຊູ. ພວກເຮົາຄວນຮູ້ແນວໃດ?
+
+401
+00:25:54,550 --> 00:26:00,550
+[SARAH]
+Yeah.  Right.  How were you supposed to know? Fucking men... all you know how to do is thrust into the world with your... fucking ideas and your weapons.  Did you know that every gun in the world is named after a man?  Colt, Browning, Smith, Thompson, Kalashnikov... all men.  Men built the hydrogen bomb, not women... men like you thought it up.  You're so creative.  You don't know what it's like to really create something... to create a life.  To feel it growing inside you.  All you know how to create is death... you fucking bastards.
+ແມ່ນແລ້ວ. ຖືກຕ້ອງ. ເຈົ້າຄວນຮູ້ແນວໃດ? ຜູ້ຊາຍແຊກແຊງ...
+ເຈົ້າພຽງແຕ່ຮູ້ວິທີເຮັດແມ່ນການຊຸກຍູ້ເຂົ້າໄປໃນໂລກດ້ວຍຄວາມຄິດແຊບແຊມແຊນແຊ້ງແຊ່ງແຊ່ແຊ້ແຊຊງແຊ້ມແຊວແຊະແຊ້ນແຊດແຊລແຊຣແຊຮແຊຣະແຊຣາແຊ
+
+402
+00:26:01,050 --> 00:26:07,050
+[JOHN]
+Mom, Mom, we need to be more constructive here. I don't see this as a gender-related issue.  She's still tense.  We still have to figure out how to stop it all from happening.  Right?
+ແມ່, ແມ່, ພວກເຮົາຕ້ອງສ້າງສັນຫຼາຍຂຶ້ນຢູ່ນີ້. ຂ້ອຍບໍ່ເຫັນເລື່ອງນີ້ເປັນບັນຫາທີ່ກ່ຽວຂ້ອງກັບເພດ
+. ນາງຍັງມີຄວາມເຄັ່ງຕຶງ. ພວກເຮົາຍັງຕ້ອງຄິດວິທີຢຸດມັນທັງ ຫມົດ ຈາກການເກີດຂຶ້ນ. ແມ່ນບໍ?
+
+403
+00:26:07,550 --> 00:26:13,150
+[TARISSA]
+But I thought... aren't we changing things?  I mean... right now?  Changing the way it goes?
+ແຕ່ຂ້ອຍຄິດວ່າ... ພວກເຮົາບໍ່ໄດ້ປ່ຽນແປງສິ່ງຕ່າງໆບໍ?
+ຂ້ອຍຫມາຍຄວາມວ່າ... ດຽວນີ້ບໍ? ປ່ຽນວິທີທີ່ມັນ ດໍາ ເນີນໄປບໍ?
+
+404
+00:26:13,650 --> 00:26:19,650
+[DYSON]
+That's right!  There's no way I'm going to finish the new processor now.  Forget it.  I'm out of it.  I'm quitting Cyberdyne tomorrow... I'll sell real estate, I don't care,,,
+ນັ້ນແມ່ນຄວາມຈິງ! ບໍ່ມີທາງໃດທີ່ຂ້ອຍຈະສິ້ນສຸດໂປເຊດເຊີ ໃຫມ່ ດຽວນີ້. ລືມມັນ. ຂ້ອຍອອກຈາກມັນແລ້ວ
+. ຂ້ອຍ ກໍາ ລັງອອກຈາກ ໄຊເບີໄດນ໌ ມື້ນີ້... ຂ້ອຍຈະຂາຍຊັບສິນທີ່ແທ້ຈິງ, ຂ້ອຍບໍ່ສົນໃຈ,,,
+
+405
+00:26:20,150 --> 00:26:22,150
+[SARAH]
+That's not good enough.
+ນັ້ນບໍ່ພຽງພໍ.
+
+406
+00:26:22,650 --> 00:26:28,650
+[DYSON]
+Look, whatever you want me to do, I'll do.  I just want my kids to have a chance to grow up, okay?
+ເບິ່ງ, ສິ່ງໃດທີ່ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດ, ຂ້ອຍຈະເຮັດ.
+ຂ້ອຍພຽງແຕ່ຢາກໃຫ້ລູກຂອງຂ້ອຍມີໂອກາດເຕີບໃຫຍ່ຂຶ້ນ, ດີບໍ?
+
+407
+00:26:29,150 --> 00:26:31,250
+[TERMINATOR]
+No one must follow your work.
+ບໍ່ມີໃຜຕ້ອງຕິດຕາມວຽກງານຂອງທ່ານ.
+
+408
+00:26:31,750 --> 00:26:37,750
+[DYSON]
+Alright, yeah.  You're right.  We have to destroy the stuff at the lab, the files, disk drive... and everything I have here.  Everything! I don't care.
+ດີແລ້ວ, ແມ່ນແລ້ວ. ເຈົ້າຖືກຕ້ອງ. ພວກເຮົາຕ້ອງ ທໍາ ລາຍສິ່ງຂອງໃນຫ້ອງທົດລອງ
+, ໄຟລ໌, ໄດສ໌ດິດ... ແລະທຸກຢ່າງທີ່ຂ້ອຍມີຢູ່ນີ້. ທຸກຢ່າງ! ຂ້ອຍບໍ່ສົນໃຈ.
+
+409
+00:26:38,250 --> 00:26:40,350
+[DYSON]
+Do you know about the chip?
+ເຈົ້າຮູ້ກ່ຽວກັບຊິບບໍ?
+
+410
+00:26:40,850 --> 00:26:42,850
+[SARAH]
+What chip?
+ຊິບໃດ?
+
+411
+00:26:43,350 --> 00:26:49,300
+[DYSON]
+They have it in a vault at Cyberdyne...  It's gotta be from the other one like you.
+ພວກເຂົາມີມັນຢູ່ໃນກະຕູ້ເງິນໃນ ໄຊເບີໄດນ໌
+... ມັນຕ້ອງມາຈາກຄົນອື່ນເຊັ່ນເຈົ້າ.
+
+412
+00:26:49,800 --> 00:26:51,900
+[TERMINATOR]
+The CPU from the first terminator.
+CPU ຈາກຄົນເຫຼັກລຸ້ນທຳອິດ.
+
+413
+00:26:52,400 --> 00:26:54,850
+[SARAH]
+Son of a bitch, I knew it!
+ຂ້ອຍຮູ້ແລ້ວ!
+
+414
+00:26:55,350 --> 00:27:01,350
+[DYSON]
+They told us not to ask where they got it.  I thought... Japan... hell, I don't know.  I didn't want to know.
+ພວກເຂົາບອກພວກເຮົາບໍ່ໃຫ້ຖາມວ່າພວກມັນມາຈາກໃສ. ຂ້ອຍຄິດວ່າ
+... ຍີ່ປຸ່ນ... ສະຫວັນນະເຂດ, ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍບໍ່ຢາກຮູ້.
+
+415
+00:27:01,850 --> 00:27:03,850
+[SARAH]
+Those lying motherfuckers!
+ພວກຄົນໂຊກຮ້າຍທີ່ຕົວະນັ້ນ!
+
+416
+00:27:04,350 --> 00:27:10,350
+[DYSON]
+I was scary stuff, radically advanced.  It was shattered... didn't work.  But it gave us ideas, It took us in new directions... things we would never have thought of.  All this work is based on it.
+ຂ້ອຍເປັນສິ່ງຢ້ານກົວ, ກ້າວຫນ້າຢ່າງຮຸນແຮງ. ມັນຖືກແຕກແຍກ... ບໍ່ເຮັດວຽກ. ແຕ່ມັນໃຫ້ພວກເຮົາແນວຄິດ
+, ມັນພາພວກເຮົາໄປທາງ ໃຫມ່... ສິ່ງຕ່າງໆທີ່ພວກເຮົາຈະບໍ່ຄິດເລີຍ. ວຽກງານທັງ ຫມົດ ນີ້ອີງໃສ່ມັນ.
+
+417
+00:27:10,850 --> 00:27:12,850
+[TERMINATOR]
+I must be destroyed.
+ຂ້ອຍຕ້ອງຖືກທໍາລາຍ.
+
+418
+00:27:13,350 --> 00:27:16,150
+[SARAH]
+Can you get us in there, past security?
+ເຈົ້າສາມາດພາພວກເຮົາເຂົ້າໄປໃນບ່ອນນັ້ນໄດ້ບໍ, ຜ່ານຄວາມປອດໄພບໍ?
+
+419
+00:27:16,650 --> 00:27:18,650
+[DYSON]
+I think so, yeah.  When?
+ຂ້ອຍຄິດວ່າເປັນ, ແມ່ນແລ້ວ. ເມື່ອໃດ?
+
+420
+00:27:19,150 --> 00:27:21,150
+[DYSON]
+Now?  Yeah, right.
+ດຽວນີ້ບໍ? ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
+
+421
+00:27:21,650 --> 00:27:27,650
+[TARISSA]
+Miles, I'm scared.  Okay.  But the only thing that scares me more than you going... is you not going.
+ໄມລ໌ສ໌, ຂ້ອຍຢ້ານກົວ. ດີ. ແຕ່ສິ່ງດຽວທີ່ເຮັດໃຫ້ຂ້ອຍຢ້ານ
+ກົວຫຼາຍກ່ວາເຈົ້າໄປ... ແມ່ນເຈົ້າບໍ່ໄປ.
+
+422
+00:27:28,150 --> 00:27:30,250
+[SARAH]
+Is it safe for them here?
+ມັນປອດໄພບໍ ສໍາ ລັບພວກເຂົາຢູ່ນີ້?
+
+423
+00:27:30,750 --> 00:27:35,300
+[TERMINATOR]
+Take your kids.  Go to a hotel.  Right now. Don't pack.  Let's go.
+ເອົາລູກຂອງທ່ານໄປໂຮງແຮມ. ດຽວນີ້. ຢ່າເກັບເຄື່ອງໄວ້. ໄປ.
+
+424
+00:27:35,800 --> 00:27:41,800
+[SARAH]
+The future, always so clear to me, has become like a black highway at night.  We were in uncharted territory now... making up history as we went along.
+ອະນາຄົດ, ສະເຫມີແຈ້ງຫຼາຍຕໍ່ຂ້ອຍ, ໄດ້ກາຍເປັນຄືກັບທາງດ່ວນສີດໍາໃນຕອນກາງຄືນ.
+ພວກເຮົາຢູ່ໃນດິນແດນທີ່ບໍ່ຖືກຄົ້ນພົບດຽວນີ້... ສ້າງປະຫວັດສາດໃນຂະນະທີ່ພວກເຮົາຍ່າງໄປ.
+
+425
+00:27:42,300 --> 00:27:48,300
+[DYSON]
+Evening, Paul.  These are friends of mine from out of town, I just thought I'd take them up and show them around.
+ຕອນແລງ, ໂປລ. ນີ້ແມ່ນເພື່ອນຂອງຂ້ອຍຈາກນອກເມືອງ,
+ຂ້ອຍພຽງແຕ່ຄິດວ່າຂ້ອຍຈະເອົາພວກມັນຂຶ້ນແລະສະແດງພວກມັນຢູ່ອ້ອມຂ້າງ.
+
+426
+00:27:48,800 --> 00:27:54,800
+[GIBBONS]
+I'm sorry, Mr. Dyson.  You know the rules about visitors in the lab.  I need written authoriz --
+ຂ້ອຍຂໍໂທດ, ທ້າວດາຍສັນ. ເຈົ້າຮູ້ກົດລະບຽບກ່ຽວກັບແຂກໃນຫ້ອງທົດລອງ
+. ຂ້ອຍຕ້ອງການອະນຸຍາດຂຽນ -
+
+427
+00:27:55,300 --> 00:27:57,300
+[TERMINATOR]
+I insist.
+ຂ້ອຍຢືນຢັນວ່າ.
+
+428
+00:27:57,800 --> 00:27:59,800
+[SARAH]
+Don't even think about it.
+ຢ່າຄິດເລີຍ.
+
+429
+00:28:00,300 --> 00:28:06,300
+[DYSON]
+The vault needs two keys to open.  Mine...  ... and one from the security station.  It's in a locker but my card should access it.  Here we go.
+ກະຕູ້ເງິນຕ້ອງການປຸ່ມສອງປຸ່ມເພື່ອເປີດ. ຂອງຂ້ອຍ...... ແລະ ຫນຶ່ງ
+ຈາກສະຖານີຄວາມປອດໄພ. ມັນຢູ່ໃນກະຕູ້ແຕ່ບັດຂອງຂ້ອຍຄວນເຂົ້າເຖິງມັນ. ມາແລ້ວ.
+
+430
+00:28:06,800 --> 00:28:08,800
+[MOSHIER]
+Honey, I'm home...
+ແມ, ຂ້ອຍຢູ່ເຮືອນແລ້ວ...
+
+431
+00:28:09,300 --> 00:28:11,750
+[MOSHIER]
+Hey, man, you shouldn't leave the --
+ເຮ້, ຜູ້ຊາຍ, ເຈົ້າບໍ່ຄວນອອກຈາກ...
+
+432
+00:28:12,250 --> 00:28:14,250
+[DYSON]
+What?  WHAT IS IT?
+ຫຍັງ? ມັນເປັນຫຍັງ?
+
+433
+00:28:14,750 --> 00:28:19,650
+[DYSON]
+Silent alarm's been tripped.  It neutralizes the codes throughout the building.  Nothing'll open now.
+ແຈ້ງເຕືອນທີ່ງຽບສະຫງົບໄດ້ຖືກກະຕຸ້ນ.
+ມັນລົບກວນລະຫັດໃນທົ່ວອາຄານ. ບໍ່ມີຫຍັງຈະເປີດດຽວນີ້.
+
+434
+00:28:20,150 --> 00:28:22,150
+[DYSON]
+We should abort.
+ພວກເຮົາຄວນຍົກເລີກ.
+
+435
+00:28:22,650 --> 00:28:26,150
+[SARAH]
+NO!! We're going all the way!  You got that, Dyson?
+ບໍ່!! ພວກເຮົາຈະໄປຈົນສຸດທາງ! ເຈົ້າເຂົ້າໃຈແລ້ວບໍ, ໄດສັນ?
+
+436
+00:28:26,650 --> 00:28:32,650
+[GIBBONS]
+... multiple armed subjects.  Look, I think it's the guy from that mall shootout, and the woman... yeah, her.  Pretty sure.  Just send everything you've got in the area --
+... ຫົວຂໍ້ທີ່ມີອາວຸດຫຼາຍຢ່າງ. ເບິ່ງ, ຂ້ອຍຄິດວ່າມັນເປັນຜູ້ຊາຍຈາກການຍິງທີ່ສູນການຄ້ານັ້ນ
+, ແລະແມ່ຍິງ... ແມ່ນແລ້ວ, ນາງ. ແນ່ນອນຫຼາຍ. ພຽງແຕ່ສົ່ງທຸກຢ່າງທີ່ທ່ານມີໃນເຂດ -
+
+437
+00:28:33,150 --> 00:28:37,000
+[JOHN]
+You guys get started on the lab... I can open this.
+ພວກເຈົ້າເລີ່ມຕົ້ນໃນຫ້ອງທົດລອງ... ຂ້ອຍສາມາດເປີດສິ່ງນີ້ໄດ້.
+
+438
+00:28:37,500 --> 00:28:39,500
+[DYSON]
+No good.
+ບໍ່ດີ.
+
+439
+00:28:40,000 --> 00:28:42,000
+[TERMINATOR]
+Let me try mine.
+ຂໍໃຫ້ຂ້ອຍລອງຂອງຂ້ອຍ.
+
+440
+00:28:42,500 --> 00:28:44,500
+[SARAH]
+John!  Fire-in-the-hole!
+ຈອນ! ໄຟໃນຮູ!
+
+441
+00:28:45,000 --> 00:28:47,800
+[DYSON]
+Fire's set off the halo system!  Here... hurry!
+ໄຟໄດ້ເຮັດໃຫ້ລະບົບຮາໂລເກີດຂຶ້ນ! ຢູ່ບ່ອນນີ້... ໄວ!
+
+442
+00:28:48,300 --> 00:28:50,300
+[DYSON]
+Here!
+ມາແລ້ວ!
+
+443
+00:28:50,800 --> 00:28:55,350
+[DYSON]
+We'll have to keep these on a couple minutes, till the gas clears.
+ພວກເຮົາຕ້ອງຮັກສາສິ່ງເຫຼົ່ານີ້ໄວ້ສອງສາມນາທີ, ຈົນກວ່າແກັສຈະສະອາດ.
+
+444
+00:28:55,850 --> 00:29:01,850
+[DISPATCHER]
+All units, all units.  211 in progress at 2144 Kramer Street, the Cyberdyne building.  Multiple suspects, armed with automatic weapons and explosives.  SWAT unit is en route...
+ທຸກ ຫນ່ວຍ ງານ, ທຸກຫນ່ວຍງານ. 211 ກໍາ ລັງ ດໍາ ເນີນຢູ່ຖະຫນົນຄຣາມເຊີ 2144, ອາຄານໄຊເບີໄດນ໌.
+ຜູ້ຕ້ອງສົງໄສຫຼາຍຄົນ, ອາວຸດດ້ວຍອາວຸດອັດຕະໂນມັດແລະລະເບີດ. ຫນ່ວຍ SWAT ກໍາ ລັງເດີນທາງໄປ...
+
+445
+00:29:02,350 --> 00:29:08,350
+[DYSON]
+Yeah, all that stuff!  And all the disks in those offices.  Especially my office... everything in my office!  These, too!  This is important. And all this here... that's it.
+ແມ່ນແລ້ວ, ສິ່ງທັງ ຫມົດ ນັ້ນ! ແລະແຜ່ນທັງ ຫມົດ ໃນຫ້ອງການເຫຼົ່ານັ້ນ. ໂດຍສະເພາະຫ້ອງການຂອງຂ້ອຍ...
+ທຸກຢ່າງໃນຫ້ອງການຂ້ອຍ! ເຫຼົ່ານີ້ເຊັ່ນກັນ! ນີ້ແມ່ນສໍາຄັນ. ແລະສິ່ງທັງ ຫມົດ ນີ້ຢູ່ນີ້... ນັ້ນແມ່ນມັນ.
+
+446
+00:29:08,850 --> 00:29:10,950
+[DYSON]
+Give me that thing a second.
+ໃຫ້ຂ້ອຍສິ່ງນັ້ນວິນາທີຫນຶ່ງ.
+
+447
+00:29:11,450 --> 00:29:13,900
+[DYSON]
+I've worked for years on this thing.
+ຂ້ອຍເຮັດວຽກຢູ່ເທິງສິ່ງນີ້ເປັນເວລາຫຼາຍປີແລ້ວ.
+
+448
+00:29:14,400 --> 00:29:16,400
+[JOHN]
+Easy money.
+ເງິນງ່າຍໆ.
+
+449
+00:29:16,900 --> 00:29:19,000
+[DYSON]
+How do you set them off?
+ເຈົ້າເຮັດໃຫ້ພວກມັນລະເບີດແນວໃດ?
+
+450
+00:29:19,500 --> 00:29:21,500
+[TERMINATOR]
+Radio remote.
+ທາງໄກຈາກວິທະຍຸ.
+
+451
+00:29:22,000 --> 00:29:24,100
+[JOHN]
+I got it.  Piece of cake.
+ຄຸເຂົ່າລົງ
+
+452
+00:29:24,600 --> 00:29:26,600
+[SARAH]
+Go!  I'll finish here.
+ໄປ! ຂ້ອຍຈະສິ້ນສຸດຢູ່ບ່ອນນີ້.
+
+453
+00:29:27,100 --> 00:29:29,100
+[TERMINATOR]
+I'll deal with the police.
+ຂ້ອຍຈະຮັບມືກັບຕໍາຫຼວດ.
+
+454
+00:29:29,600 --> 00:29:31,700
+[JOHN]
+Remember what I said, you can't...
+ຈື່ໄວ້ວ່າຂ້ອຍເວົ້າຫຍັງ, ເຈົ້າບໍ່ສາມາດ...
+
+455
+00:29:32,200 --> 00:29:34,200
+[TERMINATOR]
+Trust me.
+ເຊື່ອຂ້ອຍ.
+
+456
+00:29:34,700 --> 00:29:37,500
+[JOHN]
+And let's see what's behind door number one.
+ແລະມາເບິ່ງວ່າຢູ່ເບື້ອງຫຼັງປະຕູອັນດັບຫນຶ່ງແມ່ນຫຍັງ.
+
+457
+00:29:38,000 --> 00:29:42,200
+[JOHN]
+Got ol' Skynet by the ball now, Miles.  Come on, let's book!
+ມີສະກາຍເນັດເກົ່າຢູ່ແຄມບານດຽວນີ້, ໄມລ໌ສ໌. ມາແລ້ວ, ມາຈອງ!
+
+458
+00:29:42,700 --> 00:29:44,700
+[JOHN]
+Ready to rock?
+ພ້ອມທີ່ຈະໂຣກບໍ?
+
+459
+00:29:45,200 --> 00:29:47,200
+[SARAH]
+Ready.
+ກຽມພ້ອມແລ້ວ.
+
+460
+00:29:47,700 --> 00:29:49,700
+[TERMINATOR]
+Time to go.  Right now.
+ມັນເຖິງເວລາແລ້ວ. ດຽວນີ້.
+
+461
+00:29:50,200 --> 00:29:53,000
+[SARAH]
+Dyson, hand me the detonator.  Let's go --
+ໄດສັນ, ມອບເຄື່ອງລະເບີດໃຫ້ຂ້ອຍ. ໄປ -
+
+462
+00:29:53,500 --> 00:29:55,500
+[JOHN]
+Mommm!!!
+ແມ່!!!
+
+463
+00:29:56,000 --> 00:29:58,000
+[TERMINATOR]
+Get back.
+ກັບໄປ.
+
+464
+00:29:58,500 --> 00:30:00,950
+[TERMINATOR]
+Cover you ears and open you mouth.
+ປິດຫູແລະເປີດປາກຂອງທ່ານ.
+
+465
+00:30:01,450 --> 00:30:05,300
+[DYSON]
+I don't know... how much longer... I can... hold this thing...
+ຂ້ອຍບໍ່ຮູ້... ອີກດົນປານໃດ... ຂ້ອຍສາມາດ... ຖືສິ່ງນີ້ໄດ້...
+
+466
+00:30:05,800 --> 00:30:08,250
+[LEADER]
+Fall back!!  Everybody out!  Move it!  OUT
+ຫຼຸດລົງ!! ທຸກຄົນອອກໄປ! ຍ້າຍໄປ! ອອກໄປ
+
+467
+00:30:08,750 --> 00:30:13,650
+[NOW!]
+They retreat so fast they crash into the next group coming up the stairs.
+ພວກເຂົາຖອນຕົວຢ່າງໄວຈົນພວກເຂົາຕົກກັບກຸ່ມຕໍ່ໄປທີ່ຂຶ້ນຂັ້ນເທິງ.
+
+468
+00:30:14,150 --> 00:30:17,650
+[JOHN]
+Don't forget.  It's always darkness right before... you're totally fucked.
+ຢ່າລືມ. ມັນເປັນຄວາມມືດຢູ່ສະເຫມີກ່ອນ... ເຈົ້າຖືກໂຊກຮ້າຍຢ່າງສົມບູນ.
+
+469
+00:30:18,150 --> 00:30:21,300
+[TERMINATOR]
+Keep your eyes closed.  Don't move.  I'll be back.
+ປິດຕາໄວ້. ຢ່າເຄື່ອນຍ້າຍ. ຂ້ອຍຈະກັບມາ.
+
+470
+00:30:21,800 --> 00:30:27,050
+[LEADER]
+Stop where you are.  Lie down on the floor, face down.  Down on floor, now!
+ຢຸດຢູ່ບ່ອນທີ່ທ່ານຢູ່. ນອນຢູ່ເທິງພື້ນ
+, ໃບຫນ້າລົງ. ລົງຢູ່ພື້ນ, ດຽວນີ້!
+
+471
+00:30:27,550 --> 00:30:29,550
+[LEADER]
+Drop him.
+ຖິ້ມລາວລົງ.
+
+472
+00:30:30,050 --> 00:30:32,050
+[LEADER]
+You're not hitting him!
+ເຈົ້າບໍ່ໄດ້ຕີລາວ!
+
+473
+00:30:32,550 --> 00:30:34,550
+[SWAT #1]
+Yes I am!
+ແມ່ນແລ້ວຂ້ອຍເປັນ!
+
+474
+00:30:35,050 --> 00:30:37,050
+[SARAH]
+John, get under these.  Hurry!
+ຈອນ, ໄປພາຍໃຕ້ສິ່ງເຫຼົ່ານີ້. ໄວ!
+
+475
+00:30:37,550 --> 00:30:39,550
+[DRIVER]
+Goddamn, are you alri --
+ສະບາຍດີ, ເຈົ້າຢູ່ແລ້ວບໍ -
+
+476
+00:30:40,050 --> 00:30:42,050
+[TERMINATOR]
+We need your truck.
+ພວກເຮົາຕ້ອງການລົດບັນທຸກຂອງທ່ານ.
+
+477
+00:30:42,550 --> 00:30:44,550
+[JOHN]
+Faster!  He's right on us!
+ໄວຂຶ້ນ! ລາວຢູ່ຂ້າງພວກເຮົາ!
+
+478
+00:30:45,050 --> 00:30:47,050
+[TERMINATOR]
+Drive for a minute.
+ຂັບລົດດົນຫນຶ່ງ.
+
+479
+00:30:47,550 --> 00:30:49,550
+[JOHN]
+Where you going?!
+ເຈົ້າໄປໃສ?!
+
+480
+00:30:50,050 --> 00:30:52,050
+[TERMINATOR]
+Hasta la vista, baby.
+ຮັສຕາ ລາວິສຕາ, ເບບີ້
+
+481
+00:30:52,550 --> 00:30:56,400
+[JOHN]
+Okay, Mom, we gotta get out now, come on. That's it.
+ດີແລ້ວ, ແມ່, ພວກເຮົາຕ້ອງອອກໄປດຽວນີ້, ມາ. ນັ້ນແມ່ນມັນ.
+
+482
+00:30:56,900 --> 00:30:58,900
+[TERMINATOR]
+We don't have much time.
+ພວກເຮົາບໍ່ມີເວລາຫຼາຍ.
+
+483
+00:30:59,400 --> 00:31:01,400
+[JOHN]
+What?
+ຫຍັງ?
+
+484
+00:31:01,900 --> 00:31:03,900
+[JOHN]
+Come on!  Let's go!
+ມາແລ້ວ! ໄປ!
+
+485
+00:31:04,400 --> 00:31:07,550
+[JOHN]
+Come on, Mom, you can do it!  Come on!!
+ມາແລ້ວ, ແມ່, ເຈົ້າສາມາດເຮັດໄດ້! ມາແລ້ວ!!
+
+486
+00:31:08,050 --> 00:31:10,050
+[TERMINATOR]
+Keep going.
+ສືບຕໍ່ໄປ.
+
+487
+00:31:10,550 --> 00:31:16,550
+[RUN!]
+John runs, dragging, half-carrying Sarah as best he can. She can barely stay conscious.  Half-running, delirious, she stumbles and drops to her knees.  John pulls but she can't rise.
+ຈອນແລ່ນ, ດຶງ, ເຄິ່ງພາຊາຣາໄດ້ດີທີ່ສຸດທີ່ລາວສາມາດເຮັດໄດ້. ນາງເກືອບບໍ່ສາມາດຢູ່ສະຕິໄດ້.
+ເຄິ່ງແລ່ນໄດ້, ໂຊກຮ້າຍ, ນາງຕົກລົງແລະຕົກລົງໃສ່ເຂົ່າຂອງນາງ. ຈອນດຶງແຕ່ນາງບໍ່ສາມາດຂຶ້ນໄດ້.
+
+488
+00:31:17,050 --> 00:31:20,200
+[JOHN]
+Come on, you gotta try... please, Mom.  Get up!
+ມາແລ້ວ, ເຈົ້າຕ້ອງພະຍາຍາມ... ກະລຸນາ, ແມ່. ຕື່ນຂຶ້ນ!
+
+489
+00:31:20,700 --> 00:31:22,700
+[JOHN]
+Mom!  MOMMM!!
+ແມ່! ແມ່!!
+
+490
+00:31:23,200 --> 00:31:25,200
+[T-1000]
+Call to John.  Now.
+ໂທຫາຈອນ. ດຽວນີ້.
+
+491
+00:31:25,700 --> 00:31:28,850
+[SARAH]
+John?  John?  Can you hear me?  Where are you?
+ໂຈນ? ຈອນ? ເຈົ້າໄດ້ຍິນຂ້ອຍໄດ້ບໍ? ເຈົ້າຢູ່ໃສ?
+
+492
+00:31:29,350 --> 00:31:31,350
+[SARAH]
+Help me, honey...
+ຊ່ວຍຂ້ອຍແມ...
+
+493
+00:31:31,850 --> 00:31:33,950
+[SARAH]
+John, get out of the way!!
+ຈອນ, ອອກຈາກທາງ!!
+
+494
+00:31:34,450 --> 00:31:40,450
+[SHOOT!!!!]
+209B    John dives aside.  The Sarah-form spins, changing into you-know-who. Sarah starts unloading the shotgun into it.  BOOM!  It staggers back. K-CHAK.  She chambers another round.  BOOM!  It staggers again. K-CHAK.  BOOM!  And again.  And again.
+209B ຈອນຖິ້ມໄປຂ້າງຫນຶ່ງ. ຮູບແບບຊາຣາ ຫມູນ ວຽນ, ປ່ຽນເປັນເຈົ້າຮູ້ໃຜ. ຊາຣາເລີ່ມປ່ອຍປືນປືນເຂົ້າໄປໃນມັນ. ບູມ! ມັນຍືດຫຍຸ່ນກັບຄືນໄປບ່ອນ
+. K-CHAK. ນາງຫ້ອງອີກຮອບຫນຶ່ງ. BOOM! ມັນແມ່ນຍືດຍຸ່ນອີກຄັ້ງ. K - CHAK BOOM! ແລະອີກເທື່ອຫນຶ່ງ. ແລະອີກຄັ້ງຫນຶ່ງ.
+
+495
+00:31:40,950 --> 00:31:42,950
+[TERMINATOR]
+I need a vacation.
+ຂ້ອຍຕ້ອງການພັກຜ່ອນ.
+
+496
+00:31:43,450 --> 00:31:45,450
+[JOHN]
+Is it dead?
+ມັນຕາຍແລ້ວບໍ?
+
+497
+00:31:45,950 --> 00:31:47,950
+[TERMINATOR]
+Terminated.
+ສິ້ນສຸດລົງ.
+
+498
+00:31:48,450 --> 00:31:50,450
+[JOHN]
+Will it melt in there?
+ມັນຈະລະລາຍຢູ່ບ່ອນນັ້ນບໍ?
+
+499
+00:31:50,950 --> 00:31:52,950
+[TERMINATOR]
+Yes.  Throw it in.
+ແມ່ນແລ້ວ. ຖິ້ມມັນໄວ້.
+
+500
+00:31:53,450 --> 00:31:55,450
+[TERMINATOR]
+And the chip.
+ແລະຊິບ.
+
+501
+00:31:55,950 --> 00:31:57,950
+[SARAH]
+It's finally over.
+ມັນຫມົດແລ້ວ.
+
+502
+00:31:58,450 --> 00:32:00,450
+[TERMINATOR]
+No.  There is another chip.
+ບໍ່. ມີຊິບອີກຫນຶ່ງ.
+
+503
+00:32:00,950 --> 00:32:03,050
+[TERMINATOR]
+And it must be destroyed also.
+ແລະມັນຕ້ອງຖືກທໍາລາຍເຊັ່ນກັນ.
+
+504
+00:32:03,550 --> 00:32:05,550
+[TERMINATOR]
+I'm sorry, John.
+ຂ້ອຍຂໍໂທດ, ຈອນ.
+
+505
+00:32:06,050 --> 00:32:09,200
+[JOHN]
+No, no no!!  It'll be okay.  Stay with us!
+ບໍ່, ບໍ່!! ມັນຈະດີດີ. ຢູ່ກັບພວກເຮົາ!
+
+506
+00:32:09,700 --> 00:32:11,800
+[TERMINATOR]
+I have to go away, John.
+ຂ້ອຍຕ້ອງໄປ, ຈອນ.
+
+507
+00:32:12,300 --> 00:32:14,750
+[JOHN]
+Don't do it.  Please... don't go --
+ຢ່າເຮັດມັນ. ກະລຸນາ... ຢ່າໄປ -
+
+508
+00:32:15,250 --> 00:32:18,400
+[TERMINATOR]
+It must end here... or I am the future.
+ມັນຕ້ອງສິ້ນສຸດລົງຢູ່ນີ້... ຫຼືຂ້ອຍເປັນອະນາຄົດ.
+
+509
+00:32:18,900 --> 00:32:20,900
+[JOHN]
+I order you not to!
+ຂ້ອຍສັ່ງເຈົ້າບໍ່ໃຫ້ເຮັດ!
+
+510
+00:32:21,400 --> 00:32:26,650
+[TERMINATOR]
+I know now why you cry.  But it is something I can never do.  Goodbye.
+ຂ້ອຍຮູ້ແລ້ວວ່າເປັນຫຍັງເຈົ້າຮ້ອງໄຫ້.
+ແຕ່ມັນເປັນບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ເລີຍ. ສະບາຍດີ.
+
+511
+00:32:27,150 --> 00:32:29,150
+[SARAH]
+Are you afraid?
+ເຈົ້າຢ້ານບໍ?
+
+512
+00:32:29,650 --> 00:32:31,650
+[TERMINATOR]
+Yes.
+ແມ່ນແລ້ວ.
+
+513
+00:32:32,150 --> 00:32:38,150
+[SARAH]
+August 29th 1997 came and went.  Nothing much happened.  Michael Jackson turned forty.  There was no Judgment Day.  People went to work as they always do, laughed, complained, watched TV, made love.
+ວັນທີ 29 ສິງຫາປີ 1997 ໄດ້ມາແລະໄປ. ບໍ່ມີຫຍັງຫຼາຍທີ່ເກີດຂຶ້ນ. ໄມເກວ ແຈກຊັນໄດ້ສີ່ສິບປີ. ບໍ່ມີວັນພິພາກສາ
+. ຄົນໄປເຮັດວຽກຄືກັບທີ່ພວກເຂົາເຮັດຢູ່ສະເຫມີ, ມ່ວນຊື່ນ, ຮ້ອງທຸກ, ເບິ່ງໂທລະພາບ, ເຮັດຄວາມຮັກ.
+
+514
+00:32:38,650 --> 00:32:44,650
+[SARAH]
+I wanted to run down the street yelling... to grab them all and say "Every day form this day is a gift.  Use it well!"  Instead I got drunk.
+ຂ້ອຍຢາກແລ່ນລົງຖະຫນົນຫົນທາງຮ້ອງໄຫ້... ເພື່ອຈັບພວກມັນທັງ ຫມົດ ແລະ
+ເວົ້າວ່າ" ທຸກໆມື້ຈາກມື້ນີ້ແມ່ນຂອງຂວັນ. ໃຊ້ມັນຢ່າງດີ!" ແທນທີ່ຈະຂ້ອຍດື່ມ.
+
+515
+00:32:45,150 --> 00:32:51,150
+[SARAH]
+That was thirty years ago.  But the dark future which never came still exists for me, and it always will, like the traces of a dream lingering in the morning light.  And the war against the machines goes on.  Or, to be more precise, the war against those who build the wrong machines.
+ນັ້ນແມ່ນສາມສິບປີກ່ອນ. ແຕ່ອະນາຄົດມືດທີ່ບໍ່ເຄີຍມາຍັງມີຢູ່ ສໍາ ລັບຂ້ອຍ, ແລະມັນຈະຢູ່ສະເຫມີ, ຄືກັບຮ່ອງຮອຍຂອງຄວາມຝັນທີ່ຍືນຍົງໃນແສງສະຫວ່າງຕອນເຊົ້າ
+. ແລະສົງຄາມຕໍ່ຕ້ານເຄື່ອງຈັກສືບຕໍ່. ຫຼື, ເພື່ອໃຫ້ຖືກຕ້ອງກວ່າ, ສົງຄາມຕໍ່ຜູ້ທີ່ສ້າງເຄື່ອງຈັກທີ່ບໍ່ຖືກຕ້ອງ.
+
+516
+00:32:51,650 --> 00:32:57,650
+[SARAH]
+John fights the war differently than it was foretold.  Here, on the battlefield of the Senate, the weapons are common sense... and hope.
+ຈອນຕໍ່ສູ້ສົງຄາມຢ່າງແຕກຕ່າງກັນຈາກທີ່ຖືກຄາດຄະເນໄວ້. ຢູ່ບ່ອນນີ້,
+ໃນສະຫນາມສູ້ຮົບຂອງສະພາສູງ, ອາວຸດແມ່ນຄວາມຮູ້ສຶກທົ່ວໄປ... ແລະຄວາມຫວັງ.
+
+517
+00:32:58,150 --> 00:33:00,150
+[GIRL]
+Tie me, grandma.
+ຈັບຂ້ອຍໄວ້, ແມ່ເຖົ້າ.
+
+518
+00:33:00,650 --> 00:33:06,650
+[SARAH]
+The luxury of hope was given to me by the Terminator.  Because if a machine can learn the value of human life... maybe we can too.
+ຄວາມຫຼູຫຼາຂອງຄວາມຫວັງໄດ້ຖືກມອບໃຫ້ຂ້ອຍໂດຍ ຄົນເຫຼັກ.
+ເພາະວ່າຖ້າເຄື່ອງຈັກສາມາດຮຽນຮູ້ຄຸນຄ່າຂອງຊີວິດມະນຸດໄດ້... ບາງທີພວກເຮົາກໍ່ສາມາດເຮັດໄດ້ເຊັ່ນກັນ.
+

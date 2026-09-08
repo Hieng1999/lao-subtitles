@@ -1,0 +1,5820 @@
+1
+00:00:10,000 --> 00:00:12,000
+[CARDENAS]
+Is it Marsh?
+ມັນເປັນມາສ໌ບໍ?
+
+2
+00:00:12,500 --> 00:00:14,500
+[REESE]
+Yeah.
+ແມ່ນແລ້ວ.
+
+3
+00:00:15,000 --> 00:00:18,850
+[REESE]
+Sir, do you mind if we get out of the rain?
+ເຈົ້າ, ເຈົ້າບໍ່ເປັນຫຍັງຖ້າພວກເຮົາອອກຈາກຝົນບໍ?
+
+4
+00:00:19,350 --> 00:00:21,350
+[CARDENAS]
+Who found him?
+ໃຜພົບລາວ?
+
+5
+00:00:21,850 --> 00:00:23,850
+[REESE]
+His Secretary.  Joanne Braslow.
+ເລຂາທິການຂອງລາວ. ໂຈນ ບຣາສໂລວ.
+
+6
+00:00:24,350 --> 00:00:26,350
+[CARDENAS]
+She was here?
+ນາງຢູ່ບ່ອນນີ້ບໍ?
+
+7
+00:00:26,850 --> 00:00:30,000
+[REESE]
+No.  She stopped by to pick up some papers.
+ບໍ່. ນາງມາເອົາເຈ້ຍບາງຢ່າງ.
+
+8
+00:00:30,500 --> 00:00:32,500
+[CARDENAS]
+Show me.
+ສະແດງໃຫ້ຂ້ອຍເຫັນ.
+
+9
+00:00:33,000 --> 00:00:35,000
+[CARDENAS]
+How long? 3
+ດົນປານໃດ? 3
+
+10
+00:00:35,500 --> 00:00:37,500
+[MCCURDY]
+About three hours.
+ປະມານສາມຊົ່ວໂມງ.
+
+11
+00:00:38,000 --> 00:00:40,000
+[CARDENAS]
+Cause?
+ເຫດຜົນບໍ?
+
+12
+00:00:40,500 --> 00:00:43,300
+[MCCURDY]
+Not sure.  I'll have everything you need tomorrow.
+ບໍ່ແນ່ໃຈ. ຂ້ອຍຈະມີທຸກຢ່າງທີ່ທ່ານຕ້ອງການມື້ອື່ນ.
+
+13
+00:00:43,800 --> 00:00:45,800
+[REESE]
+Take a look at this.
+ເບິ່ງສິ່ງນີ້ແມ.
+
+14
+00:00:46,300 --> 00:00:48,750
+[TROXELL]
+This guy was into some kinky shit.
+ຜູ້ຊາຍຄົນນີ້ມັກເລື່ອງທີ່ສໍ້ໂກງບາງຢ່າງ.
+
+15
+00:00:49,250 --> 00:00:54,150
+[CARDENAS]
+Miss Braslow -- I'm District Attorney John Cardenas.  You arrived at what time tonight?
+ນາງບຣາສໂລວ - ຂ້ອຍເປັນໄອຍະການເຂດຈອນ
+ຄາດເນສ. ເຈົ້າມາຮອດເວລາໃດໃນຄືນນີ້?
+
+16
+00:00:54,650 --> 00:00:56,650
+[JOANNE]
+A little after eleven.
+ພຽງເລັກນ້ອຍຫຼັງຈາກເວລາສິບຫນຶ່ງ.
+
+17
+00:00:57,150 --> 00:00:59,150
+[CARDENAS]
+Why did you come by?
+ເຈົ້າມາເປັນຫຍັງ?
+
+18
+00:00:59,650 --> 00:01:02,100
+[JOANNE]
+I had some papers to pick up.
+ຂ້ອຍຕ້ອງເອົາເຈ້ຍບາງຢ່າງ.
+
+19
+00:01:02,600 --> 00:01:05,400
+[CARDENAS]
+Do you know who Mr. Marsh was with?
+ເຈົ້າຮູ້ວ່າທ່ານມາສ໌ຢູ່ກັບໃຜບໍ?
+
+20
+00:01:05,900 --> 00:01:07,900
+[JOANNE]
+I assume his girlfriend.
+ຂ້ອຍຄິດວ່າເປັນແຟນຂອງລາວ.
+
+21
+00:01:08,400 --> 00:01:10,400
+[CARDENAS]
+Her name?
+ຊື່ຂອງນາງບໍ?
+
+22
+00:01:10,900 --> 00:01:12,900
+[JOANNE]
+Rebecca Lawson.
+ຣີເບກາ ໂລຊັນ.
+
+23
+00:01:13,400 --> 00:01:15,850
+[CARDENAS]
+You wouldn't know her address, would you?
+ເຈົ້າບໍ່ຮູ້ທີ່ຢູ່ຂອງນາງ, ແມ່ນບໍ?
+
+24
+00:01:16,350 --> 00:01:19,500
+[JOANNE]
+No -- but I can get it for you.
+ບໍ່ - ແຕ່ຂ້ອຍສາມາດເອົາມັນໃຫ້ເຈົ້າໄດ້.
+
+25
+00:01:20,000 --> 00:01:22,000
+[CARDENAS]
+Thank you.
+ຂອບໃຈ
+
+26
+00:01:22,500 --> 00:01:28,500
+[MCCURDY]
+Marsh wasn't alone.  We found traces of sperm on the sheets.  The toxicology report says there were high levels of cocaine in his blood.
+ມາສ໌ບໍ່ແມ່ນຄົນດຽວ. ພວກເຮົາພົບຮ່ອງຮອຍຂອງເມັດໃນແຜ່ນ. ບົດລາຍງານ
+toxicology ເວົ້າວ່າມີລະດັບສູງຂອງໂກເກິນໃນເລືອດຂອງລາວ.
+
+27
+00:01:29,000 --> 00:01:31,000
+[CARDENAS]
+What'd he die of?
+ລາວຕາຍຈາກຫຍັງ?
+
+28
+00:01:31,500 --> 00:01:34,650
+[MCCURDY]
+The official cause of death was a cardiac arrest.
+ສາເຫດທາງການຂອງການຕາຍແມ່ນການຢຸດຫົວໃຈ.
+
+29
+00:01:35,150 --> 00:01:37,150
+[CARDENAS]
+The official cause?
+ເຫດຜົນທາງການບໍ?
+
+30
+00:01:37,650 --> 00:01:39,750
+[MCCURDY]
+That's what my report will read.
+ນັ້ນແມ່ນສິ່ງທີ່ບົດລາຍງານຂອງຂ້ອຍຈະອ່ານ.
+
+31
+00:01:40,250 --> 00:01:42,250
+[CARDENAS]
+But there's more?
+ແຕ່ຍັງມີອີກບໍ?
+
+32
+00:01:42,750 --> 00:01:48,750
+[MCCURDY]
+It's speculative at this point. Marsh had advanced Arterial disease. His heart attack was induced by excessive aerobic activity -- in conjunction with the drug.
+ມັນເປັນການຄາດຄະເນໃນຈຸດນີ້. ມາສ໌ມີພະຍາດເສັ້ນເລືອດທີ່ກ້າວຫນ້າ.
+ການໂຈມຕີຫົວໃຈຂອງລາວຖືກກະຕຸ້ນໂດຍການເຄື່ອນໄຫວ aerobic ເກີນໄປ - ພ້ອມກັບຢາເສບຕິດ.
+
+33
+00:01:49,250 --> 00:01:53,450
+[CARDENAS]
+What are you saying, Henry?  That his girlfriend fucked him to death?
+ເຈົ້າເວົ້າຫຍັງ, ແຮນຣີ? ວ່າແຟນຂອງລາວໄດ້ຟັກລາວຈົນຕາຍບໍ?
+
+34
+00:01:53,950 --> 00:01:55,950
+[MCCURDY]
+Yes.
+ແມ່ນແລ້ວ.
+
+35
+00:01:56,450 --> 00:01:58,450
+[CARDENAS]
+What can we prove?
+ພວກເຮົາສາມາດພິສູດຫຍັງໄດ້?
+
+36
+00:01:58,950 --> 00:02:04,950
+[MCCURDY]
+We know Marsh had a head cold.   We found cocaine mixed with water in a nasal spray container on the nightstand.  The coke would contract the nasal membrane the same as any decongestant, but for a much shorter time.  He'd keep using more and more -- never knowing what he was taking.
+ພວກເຮົາຮູ້ວ່າແມສສ໌ມີຫົວເຢັນ. ພວກເຮົາພົບໂກເກິນປະສົມກັບນ້ ໍາ ໃນຖັງສີດດັງໃນໂຕະນອນຄືນ. ໂກເກນຈະ contract ຜິວຫນັງດັງຄືກັນກັບ
+decongestant ໃດໆ, ແຕ່ສໍາລັບເວລາສັ້ນກວ່າຫຼາຍ. ລາວຈະສືບຕໍ່ໃຊ້ຫຼາຍຂຶ້ນແລະຫຼາຍຂຶ້ນ - ບໍ່ເຄີຍຮູ້ວ່າລາວ ກໍາ ລັງກິນຫຍັງ.
+
+37
+00:02:05,450 --> 00:02:07,550
+[CARDENAS]
+Any prints on the nasal spray?
+ມີນິ້ວມືໃດໃນສີດດັງບໍ?
+
+38
+00:02:08,050 --> 00:02:10,050
+[REESE]
+Marsh's and Rebecca Lawson's.
+ຂອງມາສສ໌ ແລະ ຣີເບກາ ໂລຊັນ.
+
+39
+00:02:10,550 --> 00:02:16,550
+[TROXELL]
+What if he did know what was in it? A lot of users put it in nasal spray bottles so they can use it in public.
+ຖ້າລາວຮູ້ວ່າມັນມີຫຍັງຢູ່ໃນມັນແນວໃດ?
+ຜູ້ໃຊ້ຫຼາຍຄົນເອົາມັນໃສ່ຈອກສີດດັງເພື່ອໃຫ້ພວກເຂົາສາມາດໃຊ້ມັນໃນສາທາລະນະ.
+
+40
+00:02:17,050 --> 00:02:21,250
+[MCCURDY]
+Cocaine is the last thing a man in his condition would want.
+ໂກເກິນແມ່ນສິ່ງສຸດທ້າຍທີ່ຜູ້ຊາຍໃນສະພາບຂອງລາວຈະຕ້ອງການ.
+
+41
+00:02:21,750 --> 00:02:24,550
+[CARDENAS]
+Can we put Rebecca Lawson at the scene?
+ພວກເຮົາສາມາດເອົາເຣເບກາ ໂລຊັນຢູ່ບ່ອນເກີດເຫດໄດ້ບໍ?
+
+42
+00:02:25,050 --> 00:02:31,050
+[REESE]
+A man across the street from Marsh saw her drive up about four thirty Sunday afternoon.  And her prints are all over the place.
+ຜູ້ຊາຍຄົນຫນຶ່ງຂ້າມຖະຫນົນຈາກມາສ໌ໄດ້ເຫັນນາງຂັບລົດຂຶ້ນປະມານສີ່ສິບຕອນບ່າຍວັນອາທິດ
+. ແລະນິ້ວມືຂອງນາງຢູ່ທົ່ວທຸກບ່ອນ.
+
+43
+00:02:31,550 --> 00:02:37,550
+[TROXELL]
+Marsh's Cardiologist told me that after Marsh was diagnosed with heart disease he quit smoking, quit drinking and started exercising every day.  Does that sound like a guy who'd start shoveling cocaine up his nose?
+ນັກວິທະຍາສາດຫົວໃຈຂອງມາສ໌ບອກຂ້ອຍວ່າຫຼັງຈາກມາສສ໌ຖືກກວດພົບວ່າເປັນພະຍາດຫົວໃຈລາວໄດ້ຢຸດສູບຢາ,
+ຢຸດດື່ມແລະເລີ່ມອອກ ກໍາ ລັງກາຍທຸກໆມື້. ມັນສຽງຄືກັບຜູ້ຊາຍທີ່ຈະເລີ່ມຕົ້ນປັ່ນໂກເກິນຂຶ້ນດັງບໍ?
+
+44
+00:02:38,050 --> 00:02:40,500
+[CARDENAS]
+What did he say about Miss Lawson?
+ລາວເວົ້າຫຍັງກ່ຽວກັບນາງ Lawson?
+
+45
+00:02:41,000 --> 00:02:47,000
+[TROXELL]
+He can remember at least one occasion -- and the receptionist can recall two times when she accompanied Marsh to the office.
+ລາວສາມາດຈື່ໄດ້ຢ່າງຫນ້ອຍຄັ້ງດຽວ -
+ແລະຜູ້ຮັບແຂກສາມາດຈົດຈໍາສອງຄັ້ງເມື່ອນາງຕິດຕາມມາສ໌ໄປຫ້ອງການ.
+
+46
+00:02:47,500 --> 00:02:49,600
+[CARDENAS]
+So she knew about his heart?
+ສະນັ້ນນາງຮູ້ກ່ຽວກັບຫົວໃຈຂອງລາວບໍ?
+
+47
+00:02:50,100 --> 00:02:56,100
+[TROXELL]
+Had to.  I also interviewed three women who were in past relationships with Marsh.  There's no evidence that he had anything but straight sex prior to meeting Miss Lawson.
+ຂ້ອຍຕ້ອງເຮັດ. ຂ້ອຍຍັງໄດ້ສໍາພາດແມ່ຍິງສາມຄົນທີ່ຢູ່ໃນຄວາມສໍາພັນໃນອະດີດກັບມາສ໌
+. ບໍ່ມີຫຼັກຖານວ່າລາວມີຫຍັງນອກຈາກເພດກົງກັນຂ້າມກ່ອນທີ່ຈະພົບກັບນາງ Lawson.
+
+48
+00:02:56,600 --> 00:02:58,600
+[CARDENAS]
+What about the will?
+ຈະເປັນແນວໃດກັບຄວາມຕ້ອງການ?
+
+49
+00:02:59,100 --> 00:03:02,600
+[TROXELL]
+That's the best part.  She gets it all -- everything.
+ນັ້ນແມ່ນສ່ວນທີ່ດີທີ່ສຸດ. ນາງໄດ້ຮັບທຸກຢ່າງ - ທຸກຢ່າງ.
+
+50
+00:03:03,100 --> 00:03:05,100
+[CARDENAS]
+Miss Lawson?
+ນາງ Lawson?
+
+51
+00:03:05,600 --> 00:03:07,600
+[CARDENAS]
+I'm District Attorney, John Cardenas.
+ຂ້ອຍເປັນໄອຍະການເຂດ, ຈອນ ຄາດເນສ.
+
+52
+00:03:08,100 --> 00:03:11,950
+[SATTLER]
+I don't think that this is the time, or the place.
+ຂ້ອຍບໍ່ຄິດວ່ານີ້ແມ່ນເວລາ, ຫຼືສະຖານທີ່.
+
+53
+00:03:12,450 --> 00:03:18,050
+[CARDENAS]
+I just wanted to introduce myself and inform Miss Lawson that there will be an inquiry.
+ຂ້ອຍພຽງແຕ່ຢາກແນະນໍາຕົວເອງແລະແຈ້ງໃຫ້ນາງ Lawson ວ່າຈະມີການສອບສວນ.
+
+54
+00:03:18,550 --> 00:03:20,550
+[SATTLER]
+An inquiry into what?
+ການສອບສວນຫຍັງ?
+
+55
+00:03:21,050 --> 00:03:26,650
+[CARDENAS]
+For starters I'd like to know why she left the house and didn't report the death?
+ເພື່ອເລີ່ມຕົ້ນຂ້ອຍຢາກຮູ້ວ່າເປັນຫຍັງນາງອອກຈາກເຮືອນແລະບໍ່ໄດ້ລາຍງານການຕາຍ
+?
+
+56
+00:03:27,150 --> 00:03:33,150
+[SATTLER]
+Because he wasn't dead when she left, and even if he was, not reporting a natural death in a timely fashion isn't a crime.
+ເພາະວ່າລາວບໍ່ໄດ້ຕາຍເມື່ອນາງອອກໄປ, ແລະເຖິງແມ່ນວ່າລາວຈະເປັນ,
+ການບໍ່ລາຍງານການຕາຍທໍາມະຊາດໃນຮູບແບບທີ່ທັນເວລາບໍ່ແມ່ນອາຊະຍາກໍາ.
+
+57
+00:03:33,650 --> 00:03:36,450
+[CARDENAS]
+Did I say it was a natural death?
+ຂ້ອຍບອກວ່າມັນເປັນການຕາຍທາງທໍາມະຊາດບໍ?
+
+58
+00:03:36,950 --> 00:03:40,100
+[SHARON]
+You're on vacation, remember?  You're supposed to be relaxing.
+ເຈົ້າກໍາລັງພັກຜ່ອນ, ຈື່ບໍ? ເຈົ້າຄວນພັກຜ່ອນ.
+
+59
+00:03:40,600 --> 00:03:42,600
+[DULANEY]
+I am relaxing.
+ຂ້ອຍກໍາລັງພັກຜ່ອນ.
+
+60
+00:03:43,100 --> 00:03:45,100
+[SHARON]
+This is not relaxing.
+ນີ້ແມ່ນບໍ່ແມ່ນການຜ່ອນຄາຍ.
+
+61
+00:03:45,600 --> 00:03:47,600
+[DULANEY]
+Really?
+ແທ້ບໍ?
+
+62
+00:03:48,100 --> 00:03:50,100
+[SHARON]
+Really.
+ແທ້ໆ.
+
+63
+00:03:50,600 --> 00:03:54,450
+[DULANEY]
+And I suppose you're going to show me how to relax?
+ແລະຂ້ອຍຄິດວ່າເຈົ້າຈະສະແດງໃຫ້ຂ້ອຍຮູ້ວິທີຜ່ອນຄາຍບໍ?
+
+64
+00:03:54,950 --> 00:03:56,950
+[SHARON]
+If you want me to.
+ຖ້າເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດ.
+
+65
+00:03:57,450 --> 00:03:59,900
+[DULANEY]
+I'm always open to learning new things.
+ຂ້ອຍເປີດໃຈທີ່ຈະຮຽນຮູ້ສິ່ງໃຫມ່ຢູ່ສະເຫມີ.
+
+66
+00:04:00,400 --> 00:04:06,400
+[DULANEY]
+I'm beginning to see what you mean. Why don't we go upstairs and work on the advanced course?
+ຂ້ອຍ ກໍາ ລັງເລີ່ມເຫັນວ່າເຈົ້າຫມາຍຄວາມວ່າແນວໃດ.
+ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ຂຶ້ນເທິງແລະເຮັດວຽກກ່ຽວກັບຫຼັກສູດທີ່ກ້າວຫນ້າ?
+
+67
+00:04:06,900 --> 00:04:11,450
+[SHARON]
+I can't.  I've got to finish a counter offer on the Bergman property.
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້. ຂ້ອຍຕ້ອງສິ້ນສຸດການສະ
+ເຫນີ ຕອບໂຕ້ກ່ຽວກັບຊັບສິນເບີກແມນ.
+
+68
+00:04:11,950 --> 00:04:13,950
+[DULANEY]
+Can't it wait?
+ມັນລໍຖ້າບໍ່ໄດ້ບໍ?
+
+69
+00:04:14,450 --> 00:04:17,600
+[SHARON]
+No -- it has to be done by tomorrow.
+ບໍ່ - ມັນຕ້ອງເຮັດພາຍໃນມື້ອື່ນ.
+
+70
+00:04:18,100 --> 00:04:20,100
+[DULANEY]
+Hey, Slugger.  Ready for bed?
+ເຮ້, ສລັອກເກີ. ພ້ອມທີ່ຈະນອນບໍ?
+
+71
+00:04:20,600 --> 00:04:22,600
+[MICHAEL]
+Uh huh.
+ໂອ້ ຮາ.
+
+72
+00:04:23,100 --> 00:04:29,100
+[DULANEY]
+Hello?... Hi Raymond.... What?... Well, I was sort of planning on... Alright... Okay, goodbye.  That was Sattler.  He thinks the D.A.'s going to file on Rebecca Lawson.  He wants me in the office tomorrow morning.
+ສະບາຍດີ?... ສະບາຍ ດີ ຣາຍມອນ... ຫຍັງ?... ດີ, ຂ້ອຍ ກໍາ ລັງວາງແຜນກ່ຽວກັບ... ດີແລ້ວ... ດີ, ສະवादດີ.
+ນັ້ນແມ່ນແຊຕລເລີ. ລາວຄິດວ່າໄອຍະການຈະຍື່ນເອກະສານກ່ຽວກັບເຣເບກາ ໂລຊັນ. ລາວຢາກຂ້ອຍຢູ່ໃນຫ້ອງການມື້ອື່ນເຊົ້າ.
+
+73
+00:04:29,600 --> 00:04:32,050
+[SHARON]
+We're supposed to go to the lake.
+ພວກເຮົາຄວນໄປຫາທະເລ.
+
+74
+00:04:32,550 --> 00:04:36,050
+[DULANEY]
+I know.  What can I do?  He is the boss.
+ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍສາມາດເຮັດຫຍັງໄດ້? ລາວເປັນຫົວຫນ້າ.
+
+75
+00:04:36,550 --> 00:04:39,000
+[SHARON]
+He could let you have your vacation.
+ລາວສາມາດປ່ອຍໃຫ້ເຈົ້າພັກຜ່ອນໄດ້.
+
+76
+00:04:39,500 --> 00:04:44,050
+[MICHAEL]
+Dad -- is it true what they're saying about that Miss Lawson Lady?
+ພໍ່ - ມັນເປັນຄວາມຈິງບໍວ່າພວກເຂົາເວົ້າກ່ຽວກັບທ່ານນາງ Lawson ນັ້ນ?
+
+77
+00:04:44,550 --> 00:04:46,550
+[DULANEY]
+What are they saying?
+ພວກເຂົາເວົ້າຫຍັງ?
+
+78
+00:04:47,050 --> 00:04:50,900
+[MICHAEL]
+The kids at school say she humped Mr. Marsh to death.
+ພວກເດັກນ້ອຍໃນໂຮງຮຽນເວົ້າວ່າ ນາງໄດ້ຕີທ່ານມາສ໌ຈົນຕາຍ.
+
+79
+00:04:51,400 --> 00:04:57,400
+[DULANEY]
+Hey, you know better than that.  What did I teach you to say when someone is accused of doing something?
+ເຮ້, ເຈົ້າຮູ້ດີກວ່ານັ້ນ.
+ຂ້ອຍສອນເຈົ້າໃຫ້ເວົ້າຫຍັງເມື່ອຄົນໃດຖືກກ່າວຫາວ່າເຮັດບາງສິ່ງບາງຢ່າງ?
+
+80
+00:04:57,900 --> 00:05:00,000
+[MICHAEL]
+She allegedly humped him to death?
+ນາງຖືກກ່າວຫາວ່າໄດ້ຕີລາວຈົນຕາຍບໍ?
+
+81
+00:05:00,500 --> 00:05:04,350
+[SHARON]
+I swear -- the both of you.  Some example you set.
+ຂ້ອຍສາບານໂຕວ່າ - ເຈົ້າທັງສອງ. ຕົວຢ່າງບາງຢ່າງທີ່ທ່ານວາງໄວ້.
+
+82
+00:05:04,850 --> 00:05:06,850
+[DULANEY]
+Some example you set.
+ເຈົ້າເປັນຕົວຢ່າງບາງຢ່າງ.
+
+83
+00:05:07,350 --> 00:05:13,350
+[DULANEY]
+Andrew Marsh was a very wealthy man. A trial like this is going to put Cardenas in the spot-light.
+ແອນດຣ໌ ມາສ໌ເປັນຜູ້ຊາຍທີ່ຮັ່ງມີຫຼາຍ.
+ການດໍາເນີນຄະດີແບບນີ້ຈະເຮັດໃຫ້ຄາເດັນສ໌ຢູ່ໃນແສງສະຫວ່າງ.
+
+84
+00:05:13,850 --> 00:05:19,850
+[SATTLER]
+We've already got press arriving from over the country and she hasn't even been charged yet. Cardenas wants to see her in his office tomorrow at ten.  I'd like you to go with her.
+ພວກເຮົາມີນັກຂ່າວທີ່ມາຈາກທົ່ວປະເທດແລ້ວແລະນາງຍັງບໍ່ທັນຖືກກ່າວຫາເທື່ອ.
+ຄາດເນສຢາກເຫັນນາງໃນຫ້ອງການຂອງລາວມື້ອື່ນເວລາສິບ. ຂ້ອຍຢາກໃຫ້ເຈົ້າໄປກັບນາງ.
+
+85
+00:05:20,350 --> 00:05:22,450
+[DULANEY]
+I'm supposed to be on vacation.
+ຂ້ອຍຄວນໄປພັກຜ່ອນ.
+
+86
+00:05:22,950 --> 00:05:27,500
+[SATTLER]
+I know -- but she wants you to represent her if Cardenas files.
+ຂ້ອຍຮູ້ແລ້ວ -
+ແຕ່ນາງຢາກໃຫ້ເຈົ້າເປັນຕົວແທນນາງຖ້າຄາເດັນສ໌ຍື່ນເອກະສານ.
+
+87
+00:05:28,000 --> 00:05:30,000
+[DULANEY]
+Why?
+ເປັນຫຍັງ?
+
+88
+00:05:30,500 --> 00:05:34,700
+[SATTLER]
+Because I told her you were the best criminal attorney we have.
+ເພາະຂ້ອຍບອກນາງວ່າເຈົ້າເປັນທະນາຍຄວາມອາຊະຍາກໍາທີ່ດີທີ່ສຸດທີ່ພວກເຮົາມີ
+.
+
+89
+00:05:35,200 --> 00:05:38,000
+[DULANEY]
+Raymond, I'm the only criminal attorney you have.
+ຣາຍມອນ, ຂ້ອຍເປັນທະນາຍຄວາມອາຊະຍາກໍາຄົນດຽວທີ່ທ່ານມີ.
+
+90
+00:05:38,500 --> 00:05:44,500
+[SATTLER]
+Well, I guess that makes you the best.  Look, Frank -- she stands to inherit three million dollars.  As executors of the estate and her attorneys that could generate a lot of legal fees for us.  All I'm asking you to do is talk to her.
+ດີ, ຂ້ອຍຄິດວ່າມັນເຮັດໃຫ້ເຈົ້າດີທີ່ສຸດ. ເບິ່ງແຟຣນກ໌ - ນາງຢືນຢູ່ເພື່ອມໍລະດົກສາມລ້ານໂດລາ.
+ໃນຖານະເປັນຜູ້ປະຕິບັດງານຂອງຊັບສິນແລະທະນາຍຄວາມຂອງນາງທີ່ສາມາດສ້າງຄ່າທໍານຽມທາງກົດ ຫມາຍ ຫຼາຍ ສໍາ ລັບພວກເຮົາ. ຂ້ອຍຂໍໃຫ້ເຈົ້າເຮັດພຽງແຕ່ເວົ້າກັບນາງ.
+
+91
+00:05:45,000 --> 00:05:47,000
+[DULANEY]
+Alright, I'll talk to her
+ດີແລ້ວ, ຂ້ອຍຈະເວົ້າກັບນາງ
+
+92
+00:05:47,500 --> 00:05:49,600
+[SATTLER]
+She's waiting in the conference room.
+ນາງກໍາລັງລໍຖ້າຢູ່ໃນຫ້ອງປະຊຸມ.
+
+93
+00:05:50,100 --> 00:05:56,100
+[SATTLER]
+You know, I knew Andrew Marsh for almost twenty years -- or thought I did.  What do you think would make a man in his condition do the things he did?
+ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍຮູ້ຈັກແອນດຣ໌ ມາສ໌ເກືອບສິບປີ - ຫຼືຄິດວ່າຂ້ອຍເຮັດ
+. ເຈົ້າຄິດວ່າຫຍັງຈະເຮັດໃຫ້ຜູ້ຊາຍໃນສະພາບຂອງລາວເຮັດສິ່ງທີ່ທ່ານເຮັດ?
+
+94
+00:05:56,600 --> 00:06:02,550
+[DULANEY]
+I think the question is:  What is it about her that made him want to do it?
+ຂ້ອຍຄິດວ່າ ຄໍາ ຖາມແມ່ນ: ມີຫຍັງກ່ຽວກັບນາງທີ່ເຮັດໃຫ້ລາວຢາກເຮັດມັນ?
+
+95
+00:06:03,050 --> 00:06:05,050
+[DULANEY]
+Miss Lawson, I'm Frank Dulaney.
+ນາງ Lawson, ຂ້ອຍແມ່ນແຟຣນກ໌ ດູລາເນີ.
+
+96
+00:06:05,550 --> 00:06:07,650
+[REBECCA]
+Are you going to represent me?
+ເຈົ້າຈະເປັນຕົວແທນຂ້ອຍບໍ?
+
+97
+00:06:08,150 --> 00:06:14,150
+[DULANEY]
+There are no charges against you. I'm here to decide if I'm going to represent you should that occur.  Did you kill him?
+ບໍ່ມີຂໍ້ກ່າວຫາຕໍ່ເຈົ້າ.
+ຂ້ອຍຢູ່ບ່ອນນີ້ເພື່ອຕັດສິນໃຈວ່າຂ້ອຍຈະເປັນຕົວແທນເຈົ້າຖ້າສິ່ງນັ້ນເກີດຂຶ້ນ. ເຈົ້າໄດ້ຂ້າລາວບໍ?
+
+98
+00:06:14,650 --> 00:06:17,100
+[REBECCA]
+You don't waste any time, do you?
+ເຈົ້າບໍ່ເສຍເວລາເລີຍ, ແມ່ນບໍ?
+
+99
+00:06:17,600 --> 00:06:19,700
+[REBECCA]
+Do you think I did it?
+ເຈົ້າຄິດວ່າຂ້ອຍເຮັດມັນບໍ?
+
+100
+00:06:20,200 --> 00:06:23,000
+[DULANEY]
+I don't know.  That's why I'm asking you.
+ຂ້ອຍບໍ່ຮູ້. ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍຖາມເຈົ້າ.
+
+101
+00:06:23,500 --> 00:06:29,500
+[REBECCA]
+You must have some feeling.  Some immediate impression.  A young, attractive woman, involved with an older man who leaves her everything in his will.  And the things that went on in that house.  Such wild sex.  What kind of picture does that paint?
+ເຈົ້າຕ້ອງມີຄວາມຮູ້ສຶກບາງຢ່າງ. ຄວາມປະທັບໃຈບາງຢ່າງທັນທີ. ແມ່ຍິງຫນຸ່ມ, ທີ່ ຫນ້າ ສົນໃຈ,
+ທີ່ກ່ຽວຂ້ອງກັບຜູ້ຊາຍອາຍຸສູງກວ່າທີ່ປ່ອຍໃຫ້ນາງທຸກຢ່າງໃນຄວາມຕ້ອງການຂອງລາວ. ແລະສິ່ງຕ່າງໆທີ່ເກີດຂຶ້ນໃນເຮືອນນັ້ນ. ເພດແບບປ່າໄມ້ດັ່ງກ່າວ. ຮູບພາບນັ້ນແຕ້ມຮູບແບບໃດ?
+
+102
+00:06:30,000 --> 00:06:32,450
+[DULANEY]
+Not a very good one I'm afraid.
+ຂ້ອຍຢ້ານວ່າບໍ່ແມ່ນທີ່ດີຫຼາຍ.
+
+103
+00:06:32,950 --> 00:06:38,950
+[REBECCA]
+And that's exactly what the jury will see when they look at me.  That's why I need a very good lawyer, Mr. Dulaney.
+ແລະນັ້ນແມ່ນສິ່ງທີ່ຄະນະກໍາມະການຈະເຫັນເມື່ອພວກເຂົາເບິ່ງຂ້ອຍ.
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍຕ້ອງການທະນາຍຄວາມທີ່ດີຫຼາຍ, ທ້າວ Dulaney.
+
+104
+00:06:39,450 --> 00:06:42,950
+[DULANEY]
+You're assuming the District Attorney is going to file charges.
+ເຈົ້າຄິດວ່າໄອຍະການເຂດຈະຟ້ອງຮ້ອງ.
+
+105
+00:06:43,450 --> 00:06:49,050
+[REBECCA]
+He'll file.  He's an ambitious man. Ambitious men build their careers on the bodies of others.
+ລາວຈະຍື່ນເອກະສານ. ລາວເປັນຜູ້ຊາຍທີ່ມີຄວາມຕັ້ງໃຈ.
+ຜູ້ຊາຍທີ່ມີຄວາມຫວັງສ້າງອາຊີບຂອງພວກເຂົາໃສ່ຮ່າງກາຍຂອງຄົນອື່ນ.
+
+106
+00:06:49,550 --> 00:06:51,650
+[DULANEY]
+You still haven't answered my question.
+ເຈົ້າຍັງບໍ່ຕອບຄໍາຖາມຂອງຂ້ອຍເທື່ອ.
+
+107
+00:06:52,150 --> 00:06:58,150
+[REBECCA]
+I loved him.  A big part of my life has been torn away from me, Mr. Dulaney.  A part I can never get back -- and on top of that people are saying that I am somehow responsible for it.  They've taken everything that is good and caring about two people in love and made it dirty.
+ຂ້ອຍຮັກລາວ. ສ່ວນໃຫຍ່ຂອງຊີວິດຂອງຂ້ອຍໄດ້ຖືກຖອນອອກຈາກຂ້ອຍ, ທ້າວ Dulaney. ສ່ວນທີ່ຂ້ອຍບໍ່ສາມາດກັບມາໄດ້ເລີຍ - ແລະໃນເທິງນັ້ນຄົນ ກໍາ
+ລັງເວົ້າວ່າຂ້ອຍມີຄວາມຮັບຜິດຊອບ ສໍາ ລັບມັນຢ່າງໃດກໍຕາມ. ພວກເຂົາໄດ້ເອົາທຸກຢ່າງທີ່ດີແລະສົນໃຈຄົນສອງຄົນໃນຄວາມຮັກແລະເຮັດໃຫ້ມັນເປື້ອນ.
+
+108
+00:06:58,650 --> 00:07:00,750
+[REBECCA]
+No -- I didn't kill him.
+ບໍ່ - ຂ້ອຍບໍ່ໄດ້ຂ້າລາວ.
+
+109
+00:07:01,250 --> 00:07:04,050
+[TROXELL]
+I think I'm going to make your day.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະເຮັດໃຫ້ມື້ຂອງທ່ານດີຂຶ້ນ.
+
+110
+00:07:04,550 --> 00:07:06,550
+[CARDENAS]
+How?
+ແນວໃດ?
+
+111
+00:07:07,050 --> 00:07:13,050
+[TROXELL]
+I've got this guy in my office. Doctor Alan Paley.  Wait until you hear what he has to say.
+ຂ້ອຍມີຄົນຄົນນີ້ໃນຫ້ອງການຂອງຂ້ອຍ. ດອກຕໍແອລານ ປາລີ
+. ລໍຖ້າຈົນກວ່າເຈົ້າຈະໄດ້ຍິນສິ່ງທີ່ລາວຕ້ອງເວົ້າ.
+
+112
+00:07:13,550 --> 00:07:18,450
+[SHARON]
+How can Cardenas possibly think he can build a case against two consenting adults?
+ຄາດເນສຄິດວ່າລາວສາມາດສ້າງກໍລະນີຕໍ່ຜູ້ໃຫຍ່ສອງຄົນທີ່ເຫັນດີໄດ້ແນວໃດ?
+
+113
+00:07:18,950 --> 00:07:22,800
+[DULANEY]
+He must have something or he wouldn't be pressing so hard.
+ລາວຕ້ອງມີບາງສິ່ງບາງຢ່າງ ຫຼືລາວຈະບໍ່ກົດດັນຢ່າງແຂງແຮງຫຼາຍ.
+
+114
+00:07:23,300 --> 00:07:26,800
+[SHARON]
+If he files are you going to take the case?
+ຖ້າລາວຍື່ນເອກະສານ ເຈົ້າຈະຮັບກໍລະນີບໍ?
+
+115
+00:07:27,300 --> 00:07:32,550
+[DULANEY]
+I don't know yet.  I want to hear what she says at her statement tomorrow.
+ຂ້ອຍຍັງບໍ່ຮູ້ເທື່ອ.
+ຂ້ອຍຢາກໄດ້ຍິນວ່ານາງເວົ້າຫຍັງໃນການຖະແຫຼງຂອງນາງມື້ອື່ນ.
+
+116
+00:07:33,050 --> 00:07:35,050
+[SHARON]
+What's she like?
+ນາງເປັນແນວໃດ?
+
+117
+00:07:35,550 --> 00:07:38,700
+[DULANEY]
+Attractive.  Bright.  Distant. Charming when she wants to be.
+ຫນ້າດຶງດູດ. ສົດໃສ. ຫ່າງໄກສອກຫຼີກ. ຫນ້າຮັກເມື່ອນາງຢາກເປັນ.
+
+118
+00:07:39,200 --> 00:07:41,300
+[SHARON]
+She sounds like quite a woman.
+ນາງເບິ່ງຄືວ່າເປັນແມ່ຍິງທີ່ແທ້ຈິງ.
+
+119
+00:07:41,800 --> 00:07:43,900
+[DULANEY]
+Yeah -- but can she cook?
+ແມ່ນແລ້ວ - ແຕ່ນາງສາມາດປຸງແຕ່ງອາຫານໄດ້ບໍ?
+
+120
+00:07:44,400 --> 00:07:50,400
+[SHARON]
+The whole thing gives me the creeps. I mean -- what if she really humped him to death?
+ເລື່ອງທັງ ຫມົດ ເຮັດໃຫ້ຂ້ອຍຢ້ານກົວ.
+ຂ້ອຍຫມາຍຄວາມວ່າ - ຖ້ານາງເອົາລາວຕາຍແທ້ໆແນວໃດ?
+
+121
+00:07:50,900 --> 00:07:52,900
+[DULANEY]
+Humped
+ຂັບຂີ່
+
+122
+00:07:53,400 --> 00:07:55,400
+[SHARON]
+Yes.
+ແມ່ນແລ້ວ.
+
+123
+00:07:55,900 --> 00:07:58,700
+[DULANEY]
+I can think of worse ways to go--
+ຂ້ອຍສາມາດຄິດວິທີທີ່ຮ້າຍແຮງກວ່າທີ່ຈະໄປ -
+
+124
+00:07:59,200 --> 00:08:01,200
+[DULANEY]
+--and speaking of humping.
+- ແລະເວົ້າກ່ຽວກັບການສັກຢາ.
+
+125
+00:08:01,700 --> 00:08:07,300
+[REBECCA]
+I didn't know that Andrew was dead until Mr. Sattler called me at home that night.
+ຂ້ອຍບໍ່ຮູ້ວ່າແອນດຣ໌ຕາຍຈົນກວ່າທ່ານ
+ແຊຕລເລີຈະໂທຫາຂ້ອຍຢູ່ເຮືອນໃນຄືນນັ້ນ.
+
+126
+00:08:07,800 --> 00:08:12,700
+[REESE]
+We have a witness who saw you go into the house at four thirty.
+ພວກເຮົາມີພະຍານທີ່ເຫັນເຈົ້າເຂົ້າໄປໃນເຮືອນໃນເວລາສີ່ສາມ.
+
+127
+00:08:13,200 --> 00:08:15,300
+[DULANEY]
+She's not denying she was there.
+ນາງບໍ່ໄດ້ປະຕິເສດວ່ານາງຢູ່ບ່ອນນັ້ນ.
+
+128
+00:08:15,800 --> 00:08:17,800
+[REESE]
+Did you have sex?
+ເຈົ້າມີເພດສໍາພັນບໍ?
+
+129
+00:08:18,300 --> 00:08:20,300
+[REBECCA]
+Yes.
+ແມ່ນແລ້ວ.
+
+130
+00:08:20,800 --> 00:08:22,800
+[REESE]
+What time did you leave?
+ເຈົ້າອອກໄປເວລາໃດ?
+
+131
+00:08:23,300 --> 00:08:26,450
+[REBECCA]
+Six thirty -- and he was very much alive.
+ຫົກສາມສິບ - ແລະລາວຍັງມີຊີວິດຢູ່ຫຼາຍ.
+
+132
+00:08:26,950 --> 00:08:29,050
+[CARDENAS]
+Miss Lawson, do you use cocaine?
+ນາງ Lawson, ເຈົ້າໃຊ້ໂກເກິນບໍ?
+
+133
+00:08:29,550 --> 00:08:31,550
+[REBECCA]
+I have.
+ຂ້ອຍເຮັດແລ້ວ.
+
+134
+00:08:32,050 --> 00:08:34,850
+[CARDENAS]
+Did you use it the night Marsh died?
+ເຈົ້າໃຊ້ມັນໃນຄືນທີ່ມາສ໌ຕາຍບໍ?
+
+135
+00:08:35,350 --> 00:08:37,800
+[REBECCA]
+No.  I haven't done it in years.
+ບໍ່. ຂ້ອຍບໍ່ໄດ້ເຮັດມັນເປັນເວລາຫຼາຍປີແລ້ວ.
+
+136
+00:08:38,300 --> 00:08:40,300
+[REESE]
+Did Marsh use it?
+ມາສ໌ໃຊ້ມັນບໍ?
+
+137
+00:08:40,800 --> 00:08:42,800
+[REBECCA]
+No -- never.
+ບໍ່ - ບໍ່ເຄີຍ.
+
+138
+00:08:43,300 --> 00:08:45,400
+[REESE]
+It had to get there somehow.
+ມັນຕ້ອງໄປບ່ອນນັ້ນຢ່າງໃດກໍຕາມ.
+
+139
+00:08:45,900 --> 00:08:48,000
+[REBECCA]
+It didn't get there from me.
+ມັນບໍ່ໄດ້ມາຈາກຂ້ອຍ.
+
+140
+00:08:48,500 --> 00:08:51,300
+[CARDENAS]
+Were you aware of Mr. Marsh's heart condition?
+ເຈົ້າຮູ້ກ່ຽວກັບສະພາບຫົວໃຈຂອງທ່ານມາສ໌ບໍ?
+
+141
+00:08:51,800 --> 00:08:53,800
+[REBECCA]
+No.
+ບໍ່
+
+142
+00:08:54,300 --> 00:09:00,300
+[CARDENAS]
+Mr. Marsh's Cardiologist and his nurse have told us that you accompanied Mr. Marsh to their office on at least two occasions.
+ນັກວິທະຍາສາດຫົວໃຈຂອງທ່ານມາສ໌ ແລະ
+ພະຍາບານຂອງລາວໄດ້ບອກພວກເຮົາວ່າເຈົ້າໄດ້ຕິດຕາມທ່ານມາສສ໌ໄປຫ້ອງການຂອງພວກເຂົາຢ່າງຫນ້ອຍສອງຄັ້ງ.
+
+143
+00:09:00,800 --> 00:09:06,800
+[REBECCA]
+That's correct -- but Andrew never told me he had a heart condition.  He said he had a heart arrhythmia and it was nothing serious.
+ນັ້ນແມ່ນຄວາມຖືກຕ້ອງ - ແຕ່ແອນດຣ໌ບໍ່ເຄີຍບອກຂ້ອຍວ່າລາວມີພະຍາດຫົວໃຈ
+. ລາວເວົ້າວ່າລາວມີອາຣິດມຽນຫົວໃຈແລະມັນບໍ່ມີຫຍັງຮ້າຍແຮງ.
+
+144
+00:09:07,300 --> 00:09:09,400
+[REESE]
+He never mentioned his heart disease?
+ລາວບໍ່ເຄີຍກ່າວເຖິງພະຍາດຫົວໃຈຂອງລາວບໍ?
+
+145
+00:09:09,900 --> 00:09:11,900
+[DULANEY]
+She just said that.
+ນາງຫາກໍ່ເວົ້າແບບນັ້ນ.
+
+146
+00:09:12,400 --> 00:09:15,200
+[REESE]
+Why do you think he lied to you?
+ເຈົ້າຄິດວ່າລາວຕົວະເຈົ້າເປັນຫຍັງ?
+
+147
+00:09:15,700 --> 00:09:17,800
+[DULANEY]
+That's something only Marsh would know.
+ນັ້ນແມ່ນບາງສິ່ງບາງຢ່າງທີ່ພຽງແຕ່ມາສ໌ເທົ່ານັ້ນຈະຮູ້.
+
+148
+00:09:18,300 --> 00:09:24,300
+[REESE]
+I think Miss Lawson knew it too.  I think she slipped him the coke and he popped his cork giving her the high- hard-one.
+ຂ້ອຍຄິດວ່ານາງ Lawson ກໍ່ຮູ້ມັນເຊັ່ນກັນ.
+ຂ້ອຍຄິດວ່ານາງໄດ້ເລື່ອນໂກກາໃຫ້ລາວແລະລາວໄດ້ແຕກກະຕ່າຂອງລາວໃຫ້ນາງສູງ - ຫນັກ ຫນຶ່ງ.
+
+149
+00:09:24,800 --> 00:09:29,000
+[DULANEY]
+That's it.  My client doesn't have to take this crap from you.
+ນັ້ນແມ່ນມັນ.
+ລູກຄ້າຂອງຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງຮັບສິ່ງຢອກຊື່ໆນີ້ຈາກເຈົ້າ.
+
+150
+00:09:29,500 --> 00:09:31,500
+[CARDENAS]
+Sit down, Frank.
+ນັ່ງລົງ, ແຟຣນກ໌.
+
+151
+00:09:32,000 --> 00:09:38,000
+[DULANEY]
+No.  Miss Lawson came in here voluntarily to answer your questions. She doesn't have to sit here and be insulted.  So, either you charge her now or we're leaving.
+ບໍ່. ນາງ Lawson ໄດ້ເຂົ້າມາບ່ອນນີ້ດ້ວຍຄວາມສະຫມັກໃຈເພື່ອຕອບ ຄໍາ ຖາມຂອງທ່ານ.
+ນາງບໍ່ຈໍາເປັນຕ້ອງນັ່ງຢູ່ນີ້ແລະຖືກໂຊກຮ້າຍ. ສະນັ້ນ, ເຈົ້າຕ້ອງກ່າວຫານາງດຽວນີ້ຫຼືພວກເຮົາ ກໍາ ລັງອອກຈາກ.
+
+152
+00:09:38,500 --> 00:09:40,500
+[CARDENAS]
+Fine.
+ດີແລ້ວ.
+
+153
+00:09:41,000 --> 00:09:44,850
+[REESE]
+Rebecca Lawson, you're under arrest for the murder of Andrew Marsh.
+ຣີເບກາ ໂລຊັນ, ເຈົ້າຖືກຈັບກຸມຍ້ອນການຄາດຕະກໍາແອນດຣ໌ ມາສ໌.
+
+154
+00:09:45,350 --> 00:09:49,200
+[REESE]
+You have the right to remain silent. If you give up--
+ເຈົ້າມີສິດທີ່ຈະງຽບສະຫງົບ. ຖ້າເຈົ້າຍອມຮັບ -
+
+155
+00:09:49,700 --> 00:09:55,650
+[CARDENAS]
+I don't think the handcuffs will be necessary.  You can finish giving Miss Lawson her rights outside.
+ຂ້ອຍບໍ່ຄິດວ່າສາຍແອວຈະຈໍາເປັນ.
+ເຈົ້າສາມາດສິ້ນສຸດການໃຫ້ສິດຂອງນາງ Lawson ຢູ່ພາຍນອກໄດ້.
+
+156
+00:09:56,150 --> 00:09:58,150
+[REBECCA]
+Frank!
+ແຟຣນກ໌!
+
+157
+00:09:58,650 --> 00:10:01,450
+[DULANEY]
+I'll have you out in a few hours.
+ຂ້ອຍຈະພາເຈົ້າອອກໃນສອງສາມຊົ່ວໂມງ.
+
+158
+00:10:01,950 --> 00:10:04,050
+[DULANEY]
+Lookin' to make the papers, John?
+ເຈົ້າ ກໍາ ລັງຊອກຫາທີ່ຈະເຮັດຫນັງສືພິມບໍ, ຈອນ?
+
+159
+00:10:04,550 --> 00:10:10,550
+[CARDENAS]
+Marsh left her close to three million dollars in his will.  That's motive. She admits to being there the night of his death.  That's opportunity -- and her fingerprints are on the nasal spray bottle.
+ມາສ໌ໄດ້ປ່ອຍໃຫ້ນາງເກືອບສາມລ້ານໂດລາໃນສັນຍາລັກຂອງລາວ. ນັ້ນແມ່ນເຫດຜົນ.
+ນາງຍອມຮັບວ່າຢູ່ບ່ອນນັ້ນໃນຄືນທີ່ລາວຕາຍ. ນັ້ນເປັນໂອກາດ - ແລະນິ້ວມືຂອງນາງຢູ່ໃນຈອກສີດດັງ.
+
+160
+00:10:11,050 --> 00:10:13,050
+[DULANEY]
+You can't show intent.
+ເຈົ້າບໍ່ສາມາດສະແດງຄວາມຕັ້ງໃຈໄດ້.
+
+161
+00:10:13,550 --> 00:10:15,550
+[DULANEY]
+Can you?
+ເຈົ້າເຮັດໄດ້ບໍ?
+
+162
+00:10:16,050 --> 00:10:20,600
+[CARDENAS]
+Take your pole out of the water, Frank.  The fish ain't biting today.
+ເອົາກະດານຂອງທ່ານອອກຈາກນ້ ໍາ, ແຟຣນກ໌. ປາບໍ່ໄດ້ກັດມື້ນີ້.
+
+163
+00:10:21,100 --> 00:10:26,350
+[DULANEY]
+You're bluffing.  John, it's me, remember?  I've known you since your name was Juan Carlos.
+ເຈົ້າ ກໍາ ລັງບລັຟ. ຈອນ, ມັນແມ່ນຂ້ອຍ, ຈື່ບໍ?
+ຂ້ອຍຮູ້ຈັກເຈົ້າຕັ້ງແຕ່ຊື່ເຈົ້າແມ່ນຈູອານ ຄາລັສສ໌.
+
+164
+00:10:26,850 --> 00:10:32,850
+[DULANEY]
+C'mon -- think about it.  If she was going to kill Marsh why leave the nasal spray bottle there for the police to find?
+ມາແລ້ວ - ຄິດກ່ຽວກັບມັນ. ຖ້ານາງຈະຂ້າມາສ໌
+ເປັນຫຍັງຈຶ່ງປ່ອຍຈອກສີດດັງຢູ່ບ່ອນນັ້ນໃຫ້ຕໍາຫຼວດຊອກຫາ?
+
+165
+00:10:33,350 --> 00:10:37,200
+[CARDENAS]
+She planned this.  She wanted us to find the nasal spray.
+ນາງວາງແຜນສິ່ງນີ້. ນາງຢາກໃຫ້ພວກເຮົາຊອກຫາສີດດັງ.
+
+166
+00:10:37,700 --> 00:10:39,700
+[DULANEY]
+Why would she want that?
+ນາງຢາກເຮັດແບບນັ້ນເປັນຫຍັງ?
+
+167
+00:10:40,200 --> 00:10:46,200
+[CARDENAS]
+Because she's clever.  Because she knows that even if we didn't find it we'd have suspicions as to why a man in Marsh's condition would use cocaine.
+ເພາະວ່ານາງສະຫຼາດ.
+ເພາະວ່ານາງຮູ້ວ່າເຖິງແມ່ນວ່າພວກເຮົາຈະບໍ່ພົບມັນພວກເຮົາຈະມີຄວາມສົງໄສວ່າເປັນຫຍັງຜູ້ຊາຍໃນສະພາບຂອງມາສ໌ຈະໃຊ້ໂກເກິນ.
+
+168
+00:10:46,700 --> 00:10:50,200
+[DULANEY]
+Suspicions maybe -- but suspicions aren't enough for a conviction.
+ຄວາມສົງໄສບາງທີ - ແຕ່ຄວາມສົງໄສບໍ່ພຽງພໍ ສໍາ ລັບການຕັດສິນໃຈ.
+
+169
+00:10:50,700 --> 00:10:56,700
+[CARDENAS]
+The M.E.'s report stated that Marsh's nasal membranes showed no sign of prior cocaine use.  Without the nasal spray we would have still treated it as a poisoning.  We would have looked for motive and the trail would have still led back to her.
+ບົດລາຍງານຂອງແພດການແພດໄດ້ລະບຸວ່າກະດານດັງຂອງມາສ໌ບໍ່ໄດ້ສະແດງສັນຍານການໃຊ້ໂກເກິນກ່ອນ.
+ໂດຍບໍ່ມີສີດດັງພວກເຮົາຍັງຈະຖືມັນເປັນສານພິດ. ພວກເຮົາຈະຊອກຫາເຫດຜົນແລະເສັ້ນທາງຍັງຈະ ນໍາ ກັບຄືນໄປບ່ອນນາງ.
+
+170
+00:10:57,200 --> 00:11:00,350
+[DULANEY]
+I don't buy it and neither will a jury.
+ຂ້ອຍບໍ່ຊື້ມັນແລະຄະນະກໍາມະການກໍ່ຈະບໍ່ເຮັດເຊັ່ນກັນ.
+
+171
+00:11:00,850 --> 00:11:06,850
+[CARDENAS]
+We're going all the way on this one, Frank.  Tell your client she has until the prelim to cop a plea for murder two -- fifteen to twenty five.
+ພວກເຮົາ ກໍາ ລັງໄປຈົນເຖິງທາງນີ້, ແຟຣນກ໌.
+ບອກລູກຄ້າຂອງທ່ານວ່ານາງມີເວລາຈົນກວ່າການກຽມຄວາມພ້ອມທີ່ຈະຮ້ອງຂໍການຄາດຕະກໍາສອງ - ສິບຫ້າຫາສິບຫ້ານ.
+
+172
+00:11:07,350 --> 00:11:10,150
+[DULANEY]
+I'll tell her but she won't take it.
+ຂ້ອຍຈະບອກນາງແຕ່ນາງຈະບໍ່ເອົາມັນ.
+
+173
+00:11:10,650 --> 00:11:16,650
+[CARDENAS]
+Then she's not as smart as I thought she was.  You've seen her in the depositions.  Tell me you don't have any doubts?
+ຫຼັງຈາກນັ້ນນາງບໍ່ແມ່ນສະຫຼາດເທົ່າທີ່ຂ້ອຍຄິດວ່ານາງເປັນ.
+ເຈົ້າເຄີຍເຫັນນາງໃນການຖ່າຍທອດ. ບອກຂ້ອຍວ່າເຈົ້າບໍ່ມີຄວາມສົງໄສໃດໆບໍ?
+
+174
+00:11:17,150 --> 00:11:19,150
+[DULANEY]
+She's innocent.
+ນາງບໍ່ຜິດ.
+
+175
+00:11:19,650 --> 00:11:21,650
+[CARDENAS]
+Aren't they all?
+ພວກເຂົາບໍ່ແມ່ນທັງ ຫມົດ ບໍ?
+
+176
+00:11:22,150 --> 00:11:26,700
+[DULANEY]
+Yeah.  Well -- we'll let the blindfolded lady with the scales decide that.
+ແມ່ນແລ້ວ. ດີ -
+ພວກເຮົາຈະປ່ອຍໃຫ້ຜູ້ຍິງທີ່ປິດຕາດ້ວຍວັດແທກຕັດສິນໃຈນັ້ນ.
+
+177
+00:11:27,200 --> 00:11:33,200
+[DULANEY]
+I want you to know right now that the trial's going to be nasty.  Your sex life is going to be dragged through the mud.  They're going to say that you enticed Marsh -- led him down a dark path.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າຮູ້ໃນເວລານີ້ວ່າການດໍາເນີນຄະດີຈະຮ້າຍແຮງ. ຊີວິດທາງເພດຂອງທ່ານຈະຖືກດຶງຜ່ານດິນເຜົາ
+. ພວກເຂົາຈະເວົ້າວ່າເຈົ້າໄດ້ດຶງດູດມາສ໌ - ນໍາລາວລົງທາງມືດ.
+
+178
+00:11:33,700 --> 00:11:39,700
+[REBECCA]
+Andrew hardly needed leading.  He was a very passionate man.  He was eager to explore.  I gave him what he wanted.  We fulfilled each others needs.
+ແອນດຣ໌ເກືອບບໍ່ຕ້ອງການການນໍາພາ. ລາວເປັນຜູ້ຊາຍທີ່ມີຄວາມກະຕຸ້ນໃຈຫຼາຍ. ລາວຢາກຄົ້ນຄວ້າ
+. ຂ້ອຍໃຫ້ລາວສິ່ງທີ່ລາວຕ້ອງການ. ພວກເຮົາຕອບສະ ຫນອງ ຄວາມຕ້ອງການຂອງຄົນອື່ນ.
+
+179
+00:11:40,200 --> 00:11:45,450
+[DULANEY]
+This is a very small town -- people here have very straight views on sex.
+ນີ້ແມ່ນເມືອງນ້ອຍຫຼາຍ -
+ປະຊາຊົນຢູ່ນີ້ມີທັດສະນະທີ່ກົງກັນຂ້າມຫຼາຍກ່ຽວກັບເພດ.
+
+180
+00:11:45,950 --> 00:11:51,950
+[REBECCA]
+I'm used to being on the outside looking in.  The same men who will publicly profess their moral outrage for my sexual tastes are the same ones who privately rest their sweaty little hands on my legs and talk about weekend trips together.
+ຂ້ອຍເຄີຍຢູ່ພາຍນອກເບິ່ງເຂົ້າມາ.
+ຜູ້ຊາຍດຽວກັນທີ່ຈະປະກາດຄວາມໂຊກຮ້າຍທາງດ້ານສິນທໍາຂອງພວກເຂົາຕໍ່ລົດຊາດທາງເພດຂອງຂ້ອຍແມ່ນຄົນດຽວກັນທີ່ພັກຜ່ອນມືນ້ອຍທີ່ຫວານຢູ່ເທິງຕີນຂອງຂ້ອຍແລະເວົ້າກ່ຽວກັບການເດີນທາງທ້າຍອາທິດຮ່ວມກັນ.
+
+181
+00:11:52,450 --> 00:11:55,600
+[DULANEY]
+Those same men will be sitting on the jury.
+ຜູ້ຊາຍດຽວກັນນັ້ນຈະນັ່ງຢູ່ໃນຄະນະກໍາມະການ.
+
+182
+00:11:56,100 --> 00:12:02,100
+[REBECCA]
+I am who I am.  I can't deny it, anymore than you can deny who you are.  I like sex different -- I like it wild.  That's not a crime.  I loved Andrew.  We made love together.  We made it differently, but we still made love.  It was our way.  It was private -- and now the whole world wants to look in through the pretense of justice.  If I was some middle-aged divorcee who screwed him once a week do you think this would be happening to me?
+ຂ້ອຍເປັນຄົນທີ່ຂ້ອຍເປັນ. ຂ້ອຍບໍ່ສາມາດປະຕິເສດມັນໄດ້, ຫຼາຍກວ່າເຈົ້າສາມາດປະຕິເສດວ່າເຈົ້າເປັນໃຜ. ຂ້ອຍມັກເພດທີ່ແຕກຕ່າງກັນ - ຂ້ອຍມັກມັນແບບປ່າໄມ້. ນັ້ນບໍ່ແມ່ນອາຊະຍາກໍາ. ຂ້ອຍຮັກແອນດຣ໌. ພວກເຮົາຮັກຮ່ວມກັນ. ພວກເຮົາເຮັດມັນຢ່າງແຕກຕ່າງກັນ
+, ແຕ່ພວກເຮົາຍັງຮັກ. ມັນແມ່ນວິທີຂອງພວກເຮົາ. ມັນເປັນສ່ວນຕົວ - ແລະດຽວນີ້ໂລກທັງ ຫມົດ ຢາກເບິ່ງຜ່ານການປອມຂອງຄວາມຍຸຕິທໍາ. ຖ້າຂ້ອຍເປັນຄົນແຍກກັນອາຍຸກາງທີ່ເຮັດລາວຄັ້ງ ຫນຶ່ງ ໃນອາທິດເຈົ້າຄິດວ່າສິ່ງນີ້ຈະເກີດຂຶ້ນກັບຂ້ອຍບໍ?
+
+183
+00:12:02,600 --> 00:12:08,600
+[REBECCA]
+Have you ever seen animals make love, Mr. Dulaney?  They have such passion -- such savage emotion.  They struggle, and snarl, and claw, but neither hurts the other.  Not really.
+ເຈົ້າເຄີຍເຫັນສັດເຮັດຄວາມຮັກບໍ, ທ້າວດູລາເນີ? ພວກເຂົາມີຄວາມກະຕຸ້ນຫຼາຍ - ຄວາມຮູ້ສຶກທີ່ໂຊກຮ້າຍຫຼາຍ
+. ພວກເຂົາຕໍ່ສູ້, ແລະສັ່ນສະເທືອນ, ແລະ claw, ແຕ່ບໍ່ເຈັບປວດຄົນອື່ນ. ບໍ່ແທ້ໆ.
+
+184
+00:12:09,100 --> 00:12:11,100
+[DULANEY]
+No pain, no gain?
+ບໍ່ມີຄວາມເຈັບປວດ, ບໍ່ມີຜົນປະໂຫຍດບໍ?
+
+185
+00:12:11,600 --> 00:12:13,600
+[REBECCA]
+Something like that.
+ບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ.
+
+186
+00:12:14,100 --> 00:12:16,100
+[DULANEY]
+We're not animals.
+ພວກເຮົາບໍ່ແມ່ນສັດ.
+
+187
+00:12:16,600 --> 00:12:22,600
+[REBECCA]
+Of course we are.  Our primal urges are still there -- but we've taken sex and intellectualized it, refined it down to its most essential components.  It's bland, easy, mechanical.  There's great passion in the struggle -- such craving in denial.  Do you know what it's like to yearn for something?  I'm not talking about wanting, or needing. I'm talking about an urge so deep that your skin burns and every cell in your body pulses with desire?
+ແນ່ນອນວ່າພວກເຮົາແມ່ນ. ຄວາມດຶງດູດຕົ້ນຕໍຂອງພວກເຮົາຍັງຢູ່ບ່ອນນັ້ນ - ແຕ່ພວກເຮົາໄດ້ເອົາເພດແລະເຮັດໃຫ້ມັນເປັນປັນຍາ, ປັບປຸງມັນລົງເຖິງສ່ວນປະກອບທີ່ສໍາຄັນທີ່ສຸດຂອງມັນ. ມັນອ່ອນແອ, ງ່າຍດາຍ, ກົນຈັກ. ມີຄວາມກະຕຸ້ນທີ່ຍິ່ງໃຫຍ່ໃນການຕໍ່ສູ້
+- ຄວາມປາຖະຫນາໃນການປະຕິເສດເຊັ່ນນັ້ນ. ເຈົ້າຮູ້ວ່າມັນເປັນແນວໃດທີ່ຈະປາຖະ ຫນາ ສໍາ ລັບບາງສິ່ງບາງຢ່າງ? ຂ້ອຍບໍ່ໄດ້ເວົ້າກ່ຽວກັບການຕ້ອງການ, ຫຼືຄວາມຕ້ອງການ. ຂ້ອຍ ກໍາ ລັງເວົ້າກ່ຽວກັບຄວາມດັນໃຈທີ່ເລິກ
+
+188
+00:12:23,100 --> 00:12:26,600
+[DULANEY]
+I think we're getting a little off the subject here.
+ຂ້ອຍຄິດວ່າພວກເຮົາ ກໍາ ລັງອອກຈາກຫົວຂໍ້ຢູ່ບ່ອນນີ້ເລັກນ້ອຍ.
+
+189
+00:12:27,100 --> 00:12:29,200
+[REBECCA]
+I thought the subject was sex?
+ຂ້ອຍຄິດວ່າຫົວຂໍ້ແມ່ນເພດບໍ?
+
+190
+00:12:29,700 --> 00:12:35,300
+[DULANEY]
+As it pertains to you -- not me.  Did you always know you had different... tastes?
+ໃນຖານະທີ່ມັນກ່ຽວຂ້ອງກັບເຈົ້າ - ບໍ່ແມ່ນຂ້ອຍ.
+ເຈົ້າຮູ້ຢູ່ສະເຫມີວ່າເຈົ້າມີລົດຊາດທີ່ແຕກຕ່າງກັນບໍ?
+
+191
+00:12:35,800 --> 00:12:37,800
+[REBECCA]
+Yes.
+ແມ່ນແລ້ວ.
+
+192
+00:12:38,300 --> 00:12:40,300
+[DULANEY]
+How?
+ແນວໃດ?
+
+193
+00:12:40,800 --> 00:12:44,650
+[REBECCA]
+I don't know if it's something I can explain to you.
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນເປັນບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍສາມາດອະທິບາຍໃຫ້ເຈົ້າໄດ້ບໍ
+.
+
+194
+00:12:45,150 --> 00:12:47,150
+[DULANEY]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+195
+00:12:47,650 --> 00:12:53,650
+[REBECCA]
+Because -- it's beyond intellect. It's emotion.  It's passion.  It has to be experienced -- it can't be imagined.
+ເພາະວ່າ - ມັນເກີນຄວາມສະຫຼາດ. ມັນເປັນຄວາມຮູ້ສຶກ.
+ມັນແມ່ນຄວາມກະຕຸ້ນໃຈ. ມັນຕ້ອງປະສົບການ - ມັນບໍ່ສາມາດຄິດໄດ້.
+
+196
+00:12:54,150 --> 00:12:56,150
+[DULANEY]
+Try.
+ພະຍາຍາມ.
+
+197
+00:12:56,650 --> 00:13:02,650
+[REBECCA]
+When I was growing up we had a strawberry patch in our backyard. So did this family down the road.  I used to sneak in their yard and steal their strawberries.  It wasn't easy. The stone walls were high and I'd scrape my knees as I climbed over. On the other side were wild rose bushes.  The thorns would dig into my legs and cut my thighs as I lowered myself down.
+ເມື່ອຂ້ອຍເຕີບໃຫຍ່ພວກເຮົາມີສວນສຕຣາວເບຣີໃນສວນຫລັງຂອງພວກເຮົາ. ຄອບຄົວນີ້ກໍ່ຕາມທາງ. ຂ້ອຍເຄີຍລັກລອບເຂົ້າສວນຂອງພວກເຂົາແລະລັກສຕຣາເບຣີຂອງພວກເຂົາ. ມັນບໍ່ແມ່ນເລື່ອງງ່າຍດາຍ. ກໍາ
+ແພງຫີນສູງແລະຂ້ອຍຈະສະກັດເຂົ່າຂອງຂ້ອຍໃນຂະນະທີ່ຂ້ອຍຂຶ້ນໄປ. ໃນອີກດ້ານ ຫນຶ່ງ ແມ່ນຕົ້ນດອກໄມ້ປ່າປ່າ. ກະດູກກະດູກຈະຂຸດລົງໃນຕີນຂອງຂ້ອຍແລະຕັດກະຕ່າຂອງຂ້ອຍໃນເວລາທີ່ຂ້ອຍຫຼຸດລົງຕົວເອງ.
+
+198
+00:13:03,150 --> 00:13:08,400
+[DULANEY]
+If you had what you wanted at home why did you sneak into their yard?
+ຖ້າເຈົ້າມີສິ່ງທີ່ເຈົ້າຕ້ອງການຢູ່ເຮືອນ
+ເປັນຫຍັງເຈົ້າຈຶ່ງລັກເຂົ້າໄປໃນສວນຂອງພວກເຂົາ?
+
+199
+00:13:08,900 --> 00:13:14,900
+[REBECCA]
+Because -- somehow the fruit always tasted that much sweeter because of the pain it took to get to it.
+ເພາະວ່າ - ບາງຢ່າງ ຫມາກ
+ໄມ້ມັກຫວານຫຼາຍຂຶ້ນຍ້ອນຄວາມເຈັບປວດທີ່ຕ້ອງເຮັດເພື່ອໄປຫາມັນ.
+
+200
+00:13:15,400 --> 00:13:17,400
+[MICHAEL]
+Albert's got the stomach flu.
+ແອລເບີດມີໄຂ້ຍຸງທ້ອງ.
+
+201
+00:13:17,900 --> 00:13:19,900
+[SHARON]
+That's too bad.
+ໂຊກຮ້າຍຫຼາຍ.
+
+202
+00:13:20,400 --> 00:13:23,200
+[MICHAEL]
+No, it's not.  Now I get to pitch.
+ບໍ່, ມັນບໍ່ແມ່ນ. ດຽວນີ້ຂ້ອຍສາມາດຖິ້ມໄດ້.
+
+203
+00:13:23,700 --> 00:13:27,550
+[SHARON]
+Michael, you shouldn't be happy when someone else isn't feeling well.
+ໄມເກວ, ເຈົ້າບໍ່ຄວນມີຄວາມສຸກເມື່ອຄົນອື່ນບໍ່ຮູ້ສຶກດີ.
+
+204
+00:13:28,050 --> 00:13:30,150
+[MICHAEL]
+Not even if they're a dork?
+ບໍ່ເຖິງແມ່ນວ່າພວກເຂົາຈະເປັນຄົນໂງ່ບໍ?
+
+205
+00:13:30,650 --> 00:13:35,900
+[SHARON]
+Not even if they're a dork.  You should go by and see how he's feeling.
+ບໍ່ເຖິງແມ່ນວ່າພວກເຂົາຈະເປັນຄົນໂງ່.
+ເຈົ້າຄວນໄປເບິ່ງວ່າລາວຮູ້ສຶກແນວໃດ.
+
+206
+00:13:36,400 --> 00:13:41,300
+[MICHAEL]
+No way.  Jerry Milner stopped by and Albert puked right in front of him.
+ບໍ່ເປັນໄປເລີຍ. ເຈຣີ ມິລເນີໄດ້ມາແລະແອລເບີດໄດ້ອົດຢູ່ຕໍ່ຫນ້າລາວ.
+
+207
+00:13:41,800 --> 00:13:44,950
+[SHARON]
+Don't use language like that at the dinner table.
+ຢ່າໃຊ້ພາສາແບບນັ້ນຢູ່ໂຕະອາຫານຄໍ່າ.
+
+208
+00:13:45,450 --> 00:13:47,450
+[MICHAEL]
+Sorry.
+ຂໍໂທດ.
+
+209
+00:13:47,950 --> 00:13:53,950
+[SHARON]
+Frank -- I know you're busy, but Michael asked me after dinner if you were angry with him.  He wanted to know why you weren't talking to him.
+ແຟຣນກ໌ - ຂ້ອຍຮູ້ວ່າເຈົ້າມີວຽກເຮັດງານທໍາຫຼາຍ,
+ແຕ່ໄມເກວໄດ້ຖາມຂ້ອຍຫຼັງຈາກອາຫານຄໍ່າວ່າເຈົ້າໂຊກຮ້າຍກັບລາວບໍ. ລາວຢາກຮູ້ວ່າເປັນຫຍັງເຈົ້າບໍ່ໄດ້ເວົ້າກັບລາວ.
+
+210
+00:13:54,450 --> 00:13:56,450
+[DULANEY]
+I'll talk to him later.
+ຂ້ອຍຈະເວົ້າກັບລາວຕໍ່ມາ.
+
+211
+00:13:56,950 --> 00:13:59,400
+[SHARON]
+Why don't you talk to him now?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເວົ້າກັບລາວດຽວນີ້?
+
+212
+00:13:59,900 --> 00:14:05,500
+[DULANEY]
+Because I go to trial in seven weeks. I've got a lot of preparing to do.
+ເພາະຂ້ອຍຈະໄປສານໃນເວລາເຈັດອາທິດ. ຂ້ອຍຕ້ອງກະກຽມຫຼາຍຢ່າງ.
+
+213
+00:14:06,000 --> 00:14:12,000
+[SHARON]
+No one's asking you not to work.  I just think you could make some time for your son.
+ບໍ່ມີໃຜຂໍໃຫ້ເຈົ້າບໍ່ເຮັດວຽກ.
+ຂ້ອຍພຽງແຕ່ຄິດວ່າເຈົ້າສາມາດໃຊ້ເວລາ ສໍາ ລັບລູກຊາຍຂອງທ່ານໄດ້.
+
+214
+00:14:12,500 --> 00:14:17,050
+[DULANEY]
+I'm sorry if it looks like I'm not paying attention to you lately.
+ຂ້ອຍຂໍໂທດຖ້າເບິ່ງຄືວ່າຂ້ອຍບໍ່ໄດ້ເອົາໃຈໃສ່ເຈົ້າໃນໄລຍະຜ່ານມາ.
+
+215
+00:14:17,550 --> 00:14:23,550
+[DULANEY]
+You know how it is sometimes when you're out playing ball with your friends?  How you're really concentrating on what you're doing -- and you lose track of time and you come home late and Mom yells at you?
+ເຈົ້າຮູ້ວ່າມັນເປັນແນວໃດບາງຄັ້ງເມື່ອເຈົ້າອອກໄປຫຼິ້ນບານກັບເພື່ອນມິດຂອງທ່ານ? ເຈົ້າສຸມໃສ່ສິ່ງທີ່ເຈົ້າ
+ກໍາ ລັງເຮັດແທ້ໆ - ແລະເຈົ້າສູນເສຍຄວາມຮູ້ກ່ຽວກັບເວລາແລະເຈົ້າກັບບ້ານຊ້າແລະແມ່ຮ້ອງໄຫ້ເຈົ້າບໍ?
+
+216
+00:14:24,050 --> 00:14:26,050
+[MICHAEL]
+Yeah.
+ແມ່ນແລ້ວ.
+
+217
+00:14:26,550 --> 00:14:29,700
+[DULANEY]
+Well, that's kind of how I am right now.
+ດີ, ນັ້ນແມ່ນວິທີທີ່ຂ້ອຍເປັນໃນເວລານີ້.
+
+218
+00:14:30,200 --> 00:14:32,300
+[MICHAEL]
+Is Mom yelling at you too?
+ແມ່ຮ້ອງໄຫ້ເຈົ້າຄືກັນບໍ?
+
+219
+00:14:32,800 --> 00:14:34,800
+[DULANEY]
+Yeah -- a little.
+ແມ່ນແລ້ວ - ພຽງເລັກນ້ອຍ.
+
+220
+00:14:35,300 --> 00:14:37,300
+[DULANEY]
+I love you.
+ຂ້ອຍຮັກເຈົ້າ.
+
+221
+00:14:37,800 --> 00:14:39,800
+[MICHAEL]
+I love you too, Dad.
+ຂ້ອຍຮັກເຈົ້າຄືກັນ, ພໍ່.
+
+222
+00:14:40,300 --> 00:14:42,300
+[BIGGS]
+How you doin' Mister D?
+ເຈົ້າເປັນແນວໃດທ່ານ D?
+
+223
+00:14:42,800 --> 00:14:45,600
+[DULANEY]
+Fine, Charlie.  You familiar with the Marsh case?
+ດີແຊລລີ. ເຈົ້າຮູ້ຈັກກັບກໍລະນີມາສ໌ບໍ?
+
+224
+00:14:46,100 --> 00:14:52,100
+[BIGGS]
+Yeah -- I hear they had 'em a real dog and pony show going on up there - -  I'll tell you, sometimes white people are a real puzzle to me.  I mean, did this old guy really think he was gonna be able to keep up with a sweet little number like that?
+ແມ່ນແລ້ວ - ຂ້ອຍໄດ້ຍິນວ່າພວກເຂົາມີງານສະແດງຫມາ ແລະ ໂປນີທີ່ແທ້ຈິງທີ່ ກໍາ ລັງ ດໍາ ເນີນຢູ່ເທິງນັ້ນ - - ຂ້ອຍຈະບອກເຈົ້າ,
+ບາງຄັ້ງຄົນຂາວແມ່ນຄວາມສັບສົນທີ່ແທ້ ຈິງ ສໍາ ລັບຂ້ອຍ. ຂ້ອຍ ຫມາຍ ຄວາມວ່າ, ຜູ້ເຖົ້າຄົນນີ້ຄິດວ່າລາວຈະສາມາດຕິດຕາມຕົວເລກນ້ອຍໆທີ່ຫວານແບບນັ້ນໄດ້ບໍ?
+
+225
+00:14:52,600 --> 00:14:54,600
+[DULANEY]
+It could've happened to anyone.
+ມັນອາດຈະເກີດຂຶ້ນກັບໃຜກໍ່ໄດ້.
+
+226
+00:14:55,100 --> 00:15:01,100
+[BIGGS]
+I'm sorry, man -- but I ain't ever heard of no brother dying from gettin' too much pussy.
+ຂ້ອຍຂໍໂທດແມ - ແຕ່ຂ້ອຍບໍ່ເຄີຍໄດ້ຍິນກ່ຽວກັບອ້າຍໃດທີ່ຕາຍຈາກການໄດ້ຮັບ
+pussy ຫຼາຍເກີນໄປ.
+
+227
+00:15:01,600 --> 00:15:07,600
+[DULANEY]
+We have to find out who else would profit from Marsh's death -- and who knew enough about his personal life to know that putting cocaine in the nasal spray would be fatal.
+ພວກເຮົາຕ້ອງຊອກຫາວ່າໃຜອີກຄົນໃດຈະໄດ້ຮັບຜົນປະໂຫຍດຈາກການຕາຍຂອງມາສ໌ -
+ແລະໃຜຮູ້ພຽງພໍກ່ຽວກັບຊີວິດສ່ວນຕົວຂອງລາວທີ່ຈະຮູ້ວ່າການໃສ່ໂກເກິນໃນສີດດັງຈະເປັນອັນຕະລາຍ.
+
+228
+00:15:08,100 --> 00:15:10,200
+[BIGGS]
+So -- where do we start?
+ສະນັ້ນ - ພວກເຮົາເລີ່ມຕົ້ນຈາກໃສ?
+
+229
+00:15:10,700 --> 00:15:16,700
+[DULANEY]
+I want you to hit all the dealers in town.  Give them a list of people close to Marsh and see if any of them use.  Then I want you to check out a Doctor Alan Paley.  He lives up in Roseburg.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າໄປຫາພໍ່ຄ້າທັງ ຫມົດ ໃນເມືອງ. ໃຫ້ພວກເຂົາລາຍຊື່ຂອງຄົນທີ່ໃກ້ຊິດກັບມາສ໌ແລະເບິ່ງວ່າບາງຄົນໃຊ້ບໍ
+. ຫຼັງຈາກນັ້ນຂ້ອຍຢາກໃຫ້ທ່ານກວດເບິ່ງດອກຕໍແອລານ ປາລີ. ລາວອາໄສຢູ່ໂຣສເບີກ.
+
+230
+00:15:17,200 --> 00:15:20,000
+[SECRETARY]
+Mister Dulaney, I have Rebecca Lawson on one.
+ທ້າວ ດູລາເນີ, ຂ້ອຍມີເຣເບກາ ໂລຊັນຢູ່ຫນຶ່ງ.
+
+231
+00:15:20,500 --> 00:15:24,700
+[DULANEY]
+Hi... No, I don't... One o'clock is fine... Alright La Brasa... Bye.
+ສະບາຍດີ... ບໍ່, ຂ້ອຍບໍ່... ເວລາຫນຶ່ງບໍ່ເປັນຫຍັງ
+... ດີແລ້ວ La Brasa... ບາຍ.
+
+232
+00:15:25,200 --> 00:15:27,200
+[BIGGS]
+La Brasa?
+ລາ ບຣາຊາ?
+
+233
+00:15:27,700 --> 00:15:31,900
+[DULANEY]
+I'm taking a client to lunch.  Where should I go, Taco Bell?
+ຂ້ອຍ ກໍາ ລັງພາລູກຄ້າໄປກິນອາຫານທ່ຽງ. ຂ້ອຍຄວນໄປໃສ, Taco Bell?
+
+234
+00:15:32,400 --> 00:15:34,400
+[DULANEY]
+How'd you meet Marsh?
+ເຈົ້າພົບມາສ໌ແນວໃດ?
+
+235
+00:15:34,900 --> 00:15:40,900
+[REBECCA]
+I was at a cocktail party.  Very trendy.  Andrew was in Chicago on business.  He had broken his wrist the week before and was wearing it in a sling.  He looked so helpless.
+ຂ້ອຍຢູ່ງານລ້ຽງຄັອກເກວ. ແບບທັນສະໄຫມຫຼາຍ. ແອນດຣ໌ຢູ່ຊິຄາໂກເພື່ອທຸລະກິດ.
+ລາວໄດ້ແຕກແຂນມືຂອງລາວໃນອາທິດກ່ອນແລະໃສ່ມັນໃນແຊກແຊງ. ລາວເບິ່ງຄືວ່າບໍ່ມີຄວາມຊ່ວຍເຫຼືອຫຼາຍ.
+
+236
+00:15:41,400 --> 00:15:43,400
+[DULANEY]
+-- And then?
+- ແລະຫຼັງຈາກນັ້ນ?
+
+237
+00:15:43,900 --> 00:15:49,900
+[REBECCA]
+We started talking.  In fact, we talked until four in the morning.  We discovered we shared a lot of the same interests.  After that we were together all the time until he left. He used to call me every night after he came back.  Then after a few weeks he invited me to come visit him. I've never left.
+ພວກເຮົາເລີ່ມເວົ້າກັນ. ໃນຄວາມເປັນຈິງ, ພວກເຮົາເວົ້າຈົນຮອດສີ່ໂມງເຊົ້າ. ພວກເຮົາຄົ້ນພົບວ່າພວກເຮົາມີຄວາມສົນໃຈດຽວກັນຫຼາຍຢ່າງ.
+ຫຼັງຈາກນັ້ນພວກເຮົາຢູ່ຮ່ວມກັນຕະຫຼອດເວລາຈົນກວ່າລາວຈະອອກໄປ. ລາວເຄີຍໂທຫາຂ້ອຍທຸກໆຄືນຫຼັງຈາກລາວກັບມາ. ຫຼັງຈາກສອງສາມອາທິດລາວໄດ້ເຊື້ອເຊີນຂ້ອຍມາຢ້ຽມຢາມລາວ. ຂ້ອຍບໍ່ເຄີຍອອກໄປເລີຍ.
+
+238
+00:15:50,400 --> 00:15:52,400
+[DULANEY]
+Why didn't you live together?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ຢູ່ຮ່ວມກັນ?
+
+239
+00:15:52,900 --> 00:15:55,700
+[REBECCA]
+Andrew was worried about how it would look.
+ແອນດຣ໌ກັງວົນວ່າມັນຈະເບິ່ງຄືແນວໃດ.
+
+240
+00:15:56,200 --> 00:15:58,300
+[REBECCA]
+Can we get out of here?
+ພວກເຮົາອອກຈາກບ່ອນນີ້ໄດ້ບໍ?
+
+241
+00:15:58,800 --> 00:16:00,800
+[DULANEY]
+Sure.  Where to?
+ແນ່ນອນ. ໄປໃສ?
+
+242
+00:16:01,300 --> 00:16:03,300
+[DULANEY]
+This is your house.
+ນີ້ແມ່ນເຮືອນຂອງເຈົ້າ.
+
+243
+00:16:03,800 --> 00:16:05,800
+[REBECCA]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+244
+00:16:06,300 --> 00:16:09,100
+[DULANEY]
+I don't think this is a good idea.
+ຂ້ອຍບໍ່ຄິດວ່ານີ້ເປັນຄວາມຄິດທີ່ດີ.
+
+245
+00:16:09,600 --> 00:16:11,600
+[REBECCA]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+246
+00:16:12,100 --> 00:16:15,950
+[DULANEY]
+Because, I'm your attorney.  I shouldn't be going to your house.
+ເພາະວ່າ, ຂ້ອຍເປັນທະນາຍຄວາມຂອງທ່ານ. ຂ້ອຍບໍ່ຄວນໄປເຮືອນຂອງທ່ານ.
+
+247
+00:16:16,450 --> 00:16:18,450
+[REBECCA]
+Is it against the law?
+ມັນຜິດກົດຫມາຍບໍ?
+
+248
+00:16:18,950 --> 00:16:21,400
+[DULANEY]
+No -- it just doesn't look right.
+ບໍ່ - ມັນພຽງແຕ່ເບິ່ງຄືວ່າບໍ່ຖືກຕ້ອງ.
+
+249
+00:16:21,900 --> 00:16:23,900
+[REBECCA]
+No one's looking.
+ບໍ່ມີໃຜເບິ່ງ.
+
+250
+00:16:24,400 --> 00:16:26,400
+[REBECCA]
+What do you think?
+ເຈົ້າຄິດແນວໃດ?
+
+251
+00:16:26,900 --> 00:16:29,350
+[DULANEY]
+I think the photographer's probably a voyeur.
+ຂ້ອຍຄິດວ່ານັກຖ່າຍຮູບອາດຈະເປັນຄົນເບິ່ງເຫັນ.
+
+252
+00:16:29,850 --> 00:16:31,850
+[REBECCA]
+I'm the photographer.
+ຂ້ອຍເປັນນັກຖ່າຍຮູບ.
+
+253
+00:16:32,350 --> 00:16:34,350
+[DULANEY]
+Oh -- Well, they're different.
+ໂອ້ - ດີ, ພວກເຂົາແຕກຕ່າງກັນ.
+
+254
+00:16:34,850 --> 00:16:36,850
+[REBECCA]
+That's not an answer.
+ນັ້ນບໍ່ແມ່ນຄໍາຕອບ.
+
+255
+00:16:37,350 --> 00:16:39,350
+[DULANEY]
+It's not my taste.
+ມັນບໍ່ແມ່ນລົດຊາດຂອງຂ້ອຍ.
+
+256
+00:16:39,850 --> 00:16:41,850
+[REBECCA]
+Tastes can change.
+ລົດຊາດສາມາດປ່ຽນແປງໄດ້.
+
+257
+00:16:42,350 --> 00:16:44,350
+[REBECCA]
+There you are.
+ເຈົ້າຢູ່ແລ້ວ.
+
+258
+00:16:44,850 --> 00:16:46,850
+[REBECCA]
+What are you thinking?
+ເຈົ້າຄິດຫຍັງ?
+
+259
+00:16:47,350 --> 00:16:49,350
+[DULANEY]
+Nothing.
+ບໍ່ມີຫຍັງເລີຍ.
+
+260
+00:16:49,850 --> 00:16:55,850
+[REBECCA]
+Not true.  Shall I tell you what you were thinking?  You were wondering if I was wearing anything under my skirt.
+ບໍ່ເປັນຄວາມຈິງ. ຂ້ອຍບອກເຈົ້າວ່າເຈົ້າຄິດຫຍັງ? ເຈົ້າ
+ກໍາ ລັງສົງໄສວ່າຂ້ອຍໃສ່ຫຍັງຢູ່ພາຍໃຕ້ເສື້ອຜ້າຂອງຂ້ອຍບໍ.
+
+261
+00:16:56,350 --> 00:16:58,350
+[REBECCA]
+I am.
+ຂ້ອຍເປັນ.
+
+262
+00:16:58,850 --> 00:17:01,300
+[REBECCA]
+Sorry.  I wasn't trying to embarrass you.
+ຂໍໂທດ. ຂ້ອຍບໍ່ໄດ້ພະຍາຍາມເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ.
+
+263
+00:17:01,800 --> 00:17:03,800
+[DULANEY]
+Yes you were.
+ແມ່ນແລ້ວເຈົ້າເປັນ.
+
+264
+00:17:04,300 --> 00:17:10,300
+[SHARON]
+--he said it might be too expensive to add another room.  He suggested we might convert the garage into a guest room.  He's going to check with the contractor and let me know.  I'll let you know how much and we can decide. Alright?
+- ລາວເວົ້າວ່າ ມັນອາດຈະແພງເກີນໄປທີ່ຈະເພີ່ມຫ້ອງອື່ນ. ລາວແນະ ນໍາ ວ່າພວກເຮົາອາດຈະປ່ຽນ garage ເປັນຫ້ອງແຂກ
+. ລາວຈະກວດສອບກັບຜູ້ຮັບເຫມົາແລະບອກຂ້ອຍ. ຂ້ອຍຈະບອກເຈົ້າວ່າຫຼາຍປານໃດແລະພວກເຮົາສາມາດຕັດສິນໃຈໄດ້. ດີບໍ?
+
+265
+00:17:10,800 --> 00:17:12,800
+[SHARON]
+Is that alright, Frank?
+ມັນບໍ່ເປັນຫຍັງບໍ, ແຟຣນກ໌?
+
+266
+00:17:13,300 --> 00:17:16,450
+[DULANEY]
+Yeah -- fine.  Excuse me.  I'll be right back.
+ແມ່ນແລ້ວ - ດີ. ຂໍໂທດຂ້ອຍ. ຂ້ອຍຈະກັບມາທັນທີ.
+
+267
+00:17:16,950 --> 00:17:18,950
+[REBECCA]
+Hello?
+ສະບາຍດີ?
+
+268
+00:17:19,450 --> 00:17:21,450
+[DULANEY]
+Hi.  It's Frank.
+ສະບາຍດີ. ຂ້ອຍແຟຣນກ໌.
+
+269
+00:17:21,950 --> 00:17:23,950
+[REBECCA]
+Hi, Frank.
+ສະບາຍດີ ແຟຣນກ໌.
+
+270
+00:17:24,450 --> 00:17:29,350
+[DULANEY]
+I just wanted to see if my secretary called to confirm your appointment tomorrow.
+ຂ້ອຍພຽງແຕ່ຢາກເບິ່ງວ່າເລຂາທິການຂອງຂ້ອຍໂທຫາເພື່ອຢືນຢັນການແຕ່ງຕັ້ງຂອງທ່ານມື້ອື່ນບໍ
+.
+
+271
+00:17:29,850 --> 00:17:31,850
+[REBECCA]
+Yes -- she did.
+ແມ່ນແລ້ວ - ນາງເຮັດ.
+
+272
+00:17:32,350 --> 00:17:35,500
+[DULANEY]
+Great.  I'll see you at the office at nine.
+ດີເລີດ. ຂ້ອຍຈະເຫັນເຈົ້າຢູ່ຫ້ອງການໃນເວລາເກົ້າ.
+
+273
+00:17:36,000 --> 00:17:39,850
+[REBECCA]
+No -- not at the office.  I've got a better idea.
+ບໍ່ - ບໍ່ແມ່ນຢູ່ຫ້ອງການ. ຂ້ອຍມີແນວຄິດທີ່ດີກວ່າ.
+
+274
+00:17:40,350 --> 00:17:46,300
+[REBECCA]
+I figured if we have to talk all day we might as well do it someplace nice.
+ຂ້ອຍຄິດວ່າຖ້າພວກເຮົາຕ້ອງເວົ້າຕະຫຼອດມື້
+ພວກເຮົາອາດຈະເຮັດມັນຢູ່ບ່ອນໃດທີ່ສວຍງາມ.
+
+275
+00:17:46,800 --> 00:17:48,800
+[DULANEY]
+Yeah.
+ແມ່ນແລ້ວ.
+
+276
+00:17:49,300 --> 00:17:55,300
+[REBECCA]
+Andrew loved this old cabin.  He always dreamed about moving to Tahiti -- living in a hut and becoming a beach-bum.  I could never imagine myself doing that -- but somehow when he talked about it, he made it sound so alive - - so wonderful.  Soft ocean breezes and beautiful sunsets -- leaving the world and it's problems behind.  I wish he'd had a chance to do it.
+ແອນດຣ໌ມັກກະຕູ້ເກົ່ານີ້. ລາວຝັນຢູ່ສະເຫມີກ່ຽວກັບການຍ້າຍໄປ Tahiti - ອາໄສຢູ່ໃນຈານແລະກາຍເປັນໂບມຫາດຊາຍ. ຂ້ອຍບໍ່ສາມາດຈິນຕະນາການຕົວເອງເຮັດສິ່ງນັ້ນໄດ້ເລີຍ -
+ແຕ່ບາງຢ່າງເມື່ອລາວເວົ້າກ່ຽວກັບມັນ, ລາວເຮັດໃຫ້ມັນສຽງສົດໃສຫຼາຍ - - ດີເລີດຫຼາຍ. ລົມມະຫາສະຫມຸດອ່ອນແລະຕອນບ່າຍທີ່ສວຍງາມ - ປ່ອຍໂລກແລະມັນເປັນບັນຫາຢູ່ເບື້ອງຫຼັງ. ຂ້ອຍຢາກໃຫ້ລາວມີໂອກາດເຮັດມັນ.
+
+277
+00:17:55,800 --> 00:17:57,800
+[REBECCA]
+Sorry.
+ຂໍໂທດ.
+
+278
+00:17:58,300 --> 00:18:00,300
+[DULANEY]
+It's okay.
+ມັນບໍ່ເປັນຫຍັງ.
+
+279
+00:18:00,800 --> 00:18:02,800
+[DULANEY]
+Tell me about Doctor Paley?
+ບອກຂ້ອຍກ່ຽວກັບດອກຕໍເປລີບໍ?
+
+280
+00:18:03,300 --> 00:18:07,500
+[REBECCA]
+I hardly know him.  He wanted me and he couldn't have me.
+ຂ້ອຍເກືອບບໍ່ຮູ້ຈັກລາວ. ລາວຢາກຂ້ອຍແລະລາວບໍ່ສາມາດມີຂ້ອຍໄດ້.
+
+281
+00:18:08,000 --> 00:18:14,000
+[DULANEY]
+It's going to be hard to convince a jury that he's testifying against you in a murder trial because you blew him off.
+ມັນຈະຍາກທີ່ຈະຊັກຊວນຄະນະກໍາມະການວ່າລາວ ກໍາ
+ລັງໃຫ້ຄວາມເຫັນຕໍ່ເຈົ້າໃນການດໍາເນີນຄະດີຄາດຕະກໍາເພາະວ່າເຈົ້າໄດ້ເຮັດໃຫ້ລາວແຕກ.
+
+282
+00:18:14,500 --> 00:18:16,500
+[REBECCA]
+It won't be that hard.
+ມັນຈະບໍ່ຍາກຫຼາຍ.
+
+283
+00:18:17,000 --> 00:18:19,800
+[REBECCA]
+Did you always want to be a lawyer?
+ເຈົ້າຢາກເປັນທະນາຍຄວາມຢູ່ສະເຫມີບໍ?
+
+284
+00:18:20,300 --> 00:18:23,800
+[DULANEY]
+No -- I wanted to be a professional hockey player.
+ບໍ່ - ຂ້ອຍຢາກເປັນນັກເຕະຮອກເກີມືອາຊີບ.
+
+285
+00:18:24,300 --> 00:18:26,300
+[REBECCA]
+Really?
+ແທ້ບໍ?
+
+286
+00:18:26,800 --> 00:18:28,800
+[DULANEY]
+Yeah.
+ແມ່ນແລ້ວ.
+
+287
+00:18:29,300 --> 00:18:33,500
+[REBECCA]
+That seems so far away from who you are now.  What happened?
+ມັນເບິ່ງຄືວ່າຢູ່ຫ່າງໄກຈາກຄົນທີ່ເຈົ້າເປັນດຽວນີ້. ເກີດຫຍັງຂຶ້ນ?
+
+288
+00:18:34,000 --> 00:18:37,150
+[DULANEY]
+I broke my ankle skating.  That ended that dream.
+ຂ້ອຍໄດ້ແຕກຕີນຂອງຂ້ອຍໃນການສະເກັດ.
+ນັ້ນເຮັດໃຫ້ຄວາມຝັນນັ້ນສິ້ນສຸດລົງ.
+
+289
+00:18:37,650 --> 00:18:43,600
+[REBECCA]
+It's hard to let go of a dream, isn't it?  To let go of what you want?
+ມັນຍາກທີ່ຈະປ່ອຍຄວາມຝັນໄປ, ແມ່ນບໍ? ເພື່ອປ່ອຍສິ່ງທີ່ເຈົ້າຕ້ອງການ?
+
+290
+00:18:44,100 --> 00:18:50,100
+[REBECCA]
+I'm going to put the car away.  You can let yourself in.  There's a key under the flower pot.
+ຂ້ອຍຈະເອົາລົດໄວ້. ເຈົ້າສາມາດປ່ອຍຕົວເອງເຂົ້າໄດ້
+. ມີປຸ່ມຢູ່ພາຍໃຕ້ຖັງດອກໄມ້.
+
+291
+00:18:50,600 --> 00:18:52,700
+[REBECCA]
+Yes -- it would be nice.
+ແມ່ນແລ້ວ - ມັນຈະດີຫຼາຍ.
+
+292
+00:18:53,200 --> 00:18:55,200
+[DULANEY]
+What would?
+ຈະເປັນຫຍັງ?
+
+293
+00:18:55,700 --> 00:18:57,800
+[REBECCA]
+You and me -- making love.
+ເຈົ້າແລະຂ້ອຍ - ການຮັກ.
+
+294
+00:18:58,300 --> 00:19:01,100
+[DULANEY]
+Is that what you think I was thinking?
+ເຈົ້າຄິດວ່າຂ້ອຍຄິດແບບນັ້ນບໍ?
+
+295
+00:19:01,600 --> 00:19:04,750
+[REBECCA]
+No -- that's what I know you were thinking.
+ບໍ່ - ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຮູ້ວ່າເຈົ້າ ກໍາ ລັງຄິດ.
+
+296
+00:19:05,250 --> 00:19:11,250
+[REBECCA]
+How often do you make love to your wife, Frank?  Once a week?  Sometimes twice?  There once was passion, wasn't there?  But now it's bland, predictable.  Tell me, when you do it -- do you always think of her?  Or do you wonder what it would be like to be with someone else?  Someone wild. Someone who would force you to lose control.
+ເຈົ້າຮັກກັບເມຍຂອງທ່ານຫຼາຍປານໃດ, ແຟຣນກ໌? ຫນຶ່ງ ຄັ້ງຕໍ່ອາທິດ? ບາງຄັ້ງສອງຄັ້ງ? ມີຄວາມກະຕຸ້ນຄັ້ງຫນຶ່ງ, ແມ່ນບໍ? ແຕ່ດຽວນີ້ມັນອ່ອນແອ, ຄາດຄະເນໄດ້. ບອກຂ້ອຍ,
+ເມື່ອເຈົ້າເຮັດມັນ - ເຈົ້າຄິດກ່ຽວກັບນາງຢູ່ສະເຫມີບໍ? ຫຼືເຈົ້າສົງໄສວ່າມັນຈະເປັນແນວໃດທີ່ຈະຢູ່ກັບຄົນອື່ນ? ຄົນປ່າໄມ້. ຄົນທີ່ຈະບັງຄັບໃຫ້ເຈົ້າສູນເສຍການຄວບຄຸມ.
+
+297
+00:19:11,750 --> 00:19:15,250
+[REBECCA]
+There's nothing wrong in admitting that you want me, Frank.
+ບໍ່ມີຫຍັງຜິດໃນການຍອມຮັບວ່າເຈົ້າຕ້ອງການຂ້ອຍ, ແຟຣນກ໌.
+
+298
+00:19:15,750 --> 00:19:17,850
+[DULANEY]
+You take a lot for granted.
+ເຈົ້າຖືຫຼາຍຢ່າງເປັນສິ່ງທີ່ແນ່ນອນ.
+
+299
+00:19:18,350 --> 00:19:24,350
+[REBECCA]
+Please stay, Frank.  I don't want to be alone.  I don't expect anything from you -- no demands -- no complications.  I just need to feel close to someone.
+ກະລຸນາຢູ່, ແຟຣນກ໌. ຂ້ອຍບໍ່ຢາກຢູ່ຄົນດຽວ. ຂ້ອຍບໍ່ໄດ້ຄາດຫວັງຫຍັງຈາກເຈົ້າ -
+ບໍ່ມີຂໍ້ຮຽກຮ້ອງຕ້ອງການ - ບໍ່ມີຄວາມສັບສົນ. ຂ້ອຍພຽງແຕ່ຕ້ອງຮູ້ສຶກໃກ້ຊິດກັບຄົນໃດຫນຶ່ງ.
+
+300
+00:19:24,850 --> 00:19:28,700
+[REBECCA]
+I'll be back in a minute.  Help yourself to a drink.
+ຂ້ອຍຈະກັບມາໃນນາທີຫນຶ່ງ. ຊ່ວຍຕົວເອງໃຫ້ດື່ມ.
+
+301
+00:19:29,200 --> 00:19:31,200
+[REBECCA]
+My way.
+ທາງຂອງຂ້ອຍ.
+
+302
+00:19:31,700 --> 00:19:33,700
+[REBECCA]
+My way.
+ທາງຂອງຂ້ອຍ.
+
+303
+00:19:34,200 --> 00:19:37,350
+[BIGGS]
+Before you ask there's nothing new on the coke.
+ກ່ອນທີ່ເຈົ້າຈະຖາມ ບໍ່ມີຫຍັງໃຫມ່ກ່ຽວກັບໂກກາ.
+
+304
+00:19:37,850 --> 00:19:41,350
+[DULANEY]
+You've got to get me something I can use, Charlie.
+ເຈົ້າຕ້ອງເອົາບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍສາມາດໃຊ້ໄດ້, ແຊລລີ.
+
+305
+00:19:41,850 --> 00:19:43,850
+[BIGGS]
+I'm trying.
+ຂ້ອຍ ກໍາ ລັງພະຍາຍາມ.
+
+306
+00:19:44,350 --> 00:19:50,350
+[SATTLER]
+Frank -- this is Harvey Willows from the L.A. Times.  He'd like to ask you a few questions.
+ແຟຣນກ໌ - ນີ້ແມ່ນຮາເວ ວີລວສ໌ຈາກ LA
+Times. ລາວຢາກຖາມເຈົ້າສອງສາມຄໍາຖາມ.
+
+307
+00:19:50,850 --> 00:19:56,100
+[MAN]
+It's an incredible story going on here.  Woman accused of using sex to kill lover.
+ມັນເປັນເລື່ອງທີ່ ຫນ້າ ເຊື່ອຖືທີ່ ກໍາ ລັງເກີດຂຶ້ນຢູ່ນີ້
+. ແມ່ຍິງຖືກກ່າວຫາວ່າໃຊ້ເພດເພື່ອຂ້າຄົນຮັກ.
+
+308
+00:19:56,600 --> 00:20:01,500
+[BIGGS]
+I'll say -- it's gonna give a whole new meaning to the state nickname.
+ຂ້ອຍຈະເວົ້າວ່າ - ມັນຈະໃຫ້ຄວາມ ຫມາຍ
+ໃຫມ່ ຢ່າງສົມບູນແກ່ນາມສະກຸນຂອງລັດ.
+
+309
+00:20:02,000 --> 00:20:04,000
+[MAN]
+What's the state nickname?
+ນາມສະກຸນຂອງລັດແມ່ນຫຍັງ?
+
+310
+00:20:04,500 --> 00:20:06,500
+[DULANEY]
+The Beaver State.
+ລັດບີເວີ.
+
+311
+00:20:07,000 --> 00:20:13,000
+[JOANNE]
+I worked for Mr. Marsh for six years. He was a good man -- until she came along.
+ຂ້ອຍເຮັດວຽກສໍາລັບທ່ານມາສ໌ເປັນເວລາຫົກປີ.
+ລາວເປັນຜູ້ຊາຍທີ່ດີ - ຈົນກວ່ານາງຈະມາຮອດ.
+
+312
+00:20:13,500 --> 00:20:15,500
+[DULANEY]
+What changed?
+ມີຫຍັງປ່ຽນແປງ?
+
+313
+00:20:16,000 --> 00:20:22,000
+[JOANNE]
+He did.  Look, I know you can lead a horse to water but you can't make him drink -- but you hold a pail of water in front of an old horse for long enough  -- and well...
+ລາວເຮັດ. ເບິ່ງ, ຂ້ອຍຮູ້ວ່າເຈົ້າສາມາດນໍາມ້າໄປຫານ້ ໍາ ແຕ່ເຈົ້າບໍ່ສາມາດເຮັດໃຫ້ລາວດື່ມໄດ້
+- ແຕ່ເຈົ້າຖືຖັງນ້ ໍາ ຢູ່ຕໍ່ຫນ້າມ້າເກົ່າດົນພໍສົມຄວນ - ແລະດີ...
+
+314
+00:20:22,500 --> 00:20:27,750
+[DULANEY]
+You don't really believe what the district attorney is saying about Miss Lawson, do you?
+ເຈົ້າບໍ່ເຊື່ອແທ້ໆວ່າທະນາຍຄວາມເຂດ ກໍາ
+ລັງເວົ້າກ່ຽວກັບນາງ Lawson, ແມ່ນບໍ?
+
+315
+00:20:28,250 --> 00:20:34,250
+[JOANNE]
+I don't know.  It's incredible to think that anyone could be capable of doing that -- but if anyone could it would be Rebecca.
+ຂ້ອຍບໍ່ຮູ້. ມັນຫນ້າເຊື່ອໃຈທີ່ຈະຄິດວ່າໃຜສາມາດເຮັດສິ່ງນັ້ນໄດ້
+- ແຕ່ຖ້າໃຜສາມາດມັນຈະເປັນເຣເບກາ.
+
+316
+00:20:34,750 --> 00:20:38,250
+[DULANEY]
+I take it you don't like Miss Lawson very much?
+ຂ້ອຍຄິດວ່າເຈົ້າບໍ່ມັກນາງ Lawson ຫຼາຍບໍ?
+
+317
+00:20:38,750 --> 00:20:44,750
+[JOANNE]
+I really don't know her that well. We would say hello to each other when I would come to the house, but that was about it.
+ຂ້ອຍບໍ່ຮູ້ຈັກນາງດີຫຼາຍ. ພວກເຮົາຈະອວຍພອນກັນແລະກັນເມື່ອຂ້ອຍຈະມາເຮືອນ
+, ແຕ່ນັ້ນແມ່ນກ່ຽວກັບມັນ.
+
+318
+00:20:45,250 --> 00:20:50,500
+[DULANEY]
+If you don't know her that well what makes you think she's capable of murder?
+ຖ້າເຈົ້າບໍ່ຮູ້ຈັກນາງດີຫຼາຍ
+ເປັນຫຍັງເຈົ້າຈຶ່ງຄິດວ່ານາງສາມາດຄາດຕະກໍາໄດ້?
+
+319
+00:20:51,000 --> 00:20:57,000
+[JOANNE]
+Andrew was a kind and gentle man, but he was thirty years older than her. Where's the attraction to sleep with someone like that -- to have the kind of sex they had.
+ແອນດຣ໌ເປັນຜູ້ຊາຍທີ່ໃຈບຸນແລະອ່ອນແອ, ແຕ່ລາວອາຍຸໃຫຍ່ກວ່ານາງສາມສິບປີ.
+ຄວາມດຶງດູດທີ່ຈະນອນກັບຄົນເຊັ່ນນັ້ນຢູ່ໃສ - ເພື່ອມີເພດແບບທີ່ພວກເຂົາມີ.
+
+320
+00:20:57,500 --> 00:21:01,000
+[DULANEY]
+How do you know what kind of sex they had?
+ເຈົ້າຮູ້ແນວໃດວ່າພວກເຂົາມີເພດສໍາພັນປະເພດໃດ?
+
+321
+00:21:01,500 --> 00:21:07,500
+[JOANNE]
+I wasn't lookin' through the keyhole if that's what you're thinking.  I'd come to house sometimes to pick up papers or speak to Andrew.  I'd find their little toys all over the place.
+ຂ້ອຍບໍ່ໄດ້ເບິ່ງຜ່ານຮູປຸ່ມຖ້າມັນແມ່ນສິ່ງທີ່ເຈົ້າຄິດ.
+ຂ້ອຍຈະມາເຮືອນບາງຄັ້ງເພື່ອເອົາເຈ້ຍຫຼືເວົ້າກັບແອນດຣ໌. ຂ້ອຍຈະມີເຄື່ອງຫຼິ້ນນ້ອຍຂອງພວກເຂົາຢູ່ທົ່ວທຸກບ່ອນ.
+
+322
+00:21:08,000 --> 00:21:10,000
+[DULANEY]
+Did Mr. Marsh use drugs?
+ທ້າວມາສ໌ໃຊ້ຢາເສບຕິດບໍ?
+
+323
+00:21:10,500 --> 00:21:12,500
+[JOANNE]
+No.
+ບໍ່
+
+324
+00:21:13,000 --> 00:21:15,000
+[DULANEY]
+What about Miss Lawson?
+ແລະນາງ Lawson ແນວໃດ?
+
+325
+00:21:15,500 --> 00:21:17,500
+[JOANNE]
+Yes -- cocaine.
+ແມ່ນແລ້ວ - ໂກເກິນ.
+
+326
+00:21:18,000 --> 00:21:20,000
+[DULANEY]
+How do you know that?
+ເຈົ້າຮູ້ແນວໃດ?
+
+327
+00:21:20,500 --> 00:21:26,500
+[JOANNE]
+I was at the house one morning -- I thought Miss Lawson was upstairs with Mr. Marsh.  When I went into the guest bathroom she was standing in front of the mirror pouring this white powder out of a vial.
+ຂ້ອຍຢູ່ເຮືອນໃນຕອນເຊົ້າຫນຶ່ງ - ຂ້ອຍຄິດວ່ານາງ Lawson ຢູ່ເທິງກັບທ່ານມາສ໌.
+ເມື່ອຂ້ອຍເຂົ້າໄປໃນຫ້ອງນ້ ໍາ ແຂກນາງຢືນຢູ່ຕໍ່ຫນ້າຈໍຖອກຝຸ່ນສີຂາວນີ້ອອກຈາກຖັງ.
+
+328
+00:21:27,000 --> 00:21:29,000
+[JOANNE]
+Is something wrong.
+ມີບາງສິ່ງບາງຢ່າງຜິດ.
+
+329
+00:21:29,500 --> 00:21:32,650
+[DULANEY]
+What?  No -- nothing.  Thank you for your time.
+ຫຍັງ? ບໍ່ - ບໍ່ມີຫຍັງເລີຍ. ຂອບໃຈທີ່ໃຊ້ເວລາຂອງທ່ານ.
+
+330
+00:21:33,150 --> 00:21:35,150
+[DULANEY]
+You lied to me!
+ເຈົ້າຕົວະຂ້ອຍ!
+
+331
+00:21:35,650 --> 00:21:37,650
+[REBECCA]
+What?
+ຫຍັງ?
+
+332
+00:21:38,150 --> 00:21:43,750
+[DULANEY]
+I just left Joanne Braslow.  She told me she saw you doing cocaine at Marsh's house!
+ຂ້ອຍຫາກໍ່ອອກຈາກໂຈນ ບຣາສໂລວ.
+ນາງບອກຂ້ອຍວ່ານາງເຫັນເຈົ້າເຮັດໂກເກິນຢູ່ເຮືອນມາສ໌!
+
+333
+00:21:44,250 --> 00:21:46,250
+[REBECCA]
+She's mistaken.
+ນາງຜິດ.
+
+334
+00:21:46,750 --> 00:21:48,750
+[DULANEY]
+That's not good enough, Goddamit!
+ນັ້ນບໍ່ພຽງພໍ, ພຣະເຈົ້າ!
+
+335
+00:21:49,250 --> 00:21:52,050
+[REBECCA]
+It isn't true.  You have to believe me.
+ມັນບໍ່ແມ່ນຄວາມຈິງ. ເຈົ້າຕ້ອງເຊື່ອຂ້ອຍ.
+
+336
+00:21:52,550 --> 00:21:58,550
+[DULANEY]
+No, I don't have to believe you.  The jury has to believe you and answers like he's lying or she's mistaken aren't going to convince them.
+ບໍ່, ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງເຊື່ອເຈົ້າ. ຄະນະກໍາມະການຄວນເຊື່ອເຈົ້າແລະ
+ຄໍາ ຕອບຄືກັບວ່າລາວຕົວະຫຼືນາງຜິດພາດຈະບໍ່ຊັກຊວນພວກເຂົາ.
+
+337
+00:21:59,050 --> 00:22:04,300
+[REBECCA]
+I don't use cocaine anymore.  If she says she saw me doing it she's lying.
+ຂ້ອຍບໍ່ໃຊ້ໂກເກິນອີກຕໍ່ໄປ.
+ຖ້ານາງເວົ້າວ່ານາງເຫັນຂ້ອຍເຮັດມັນນາງຕົວະ.
+
+338
+00:22:04,800 --> 00:22:06,800
+[DULANEY]
+Why would she lie?
+ນາງຈະຕົວະເປັນຫຍັງ?
+
+339
+00:22:07,300 --> 00:22:12,550
+[REBECCA]
+I don't know, Frank -- but don't you think that's something we should find out?
+ຂ້ອຍບໍ່ຮູ້, ແຟຣນກ໌ -
+ແຕ່ເຈົ້າບໍ່ຄິດວ່າມັນເປັນບາງສິ່ງບາງຢ່າງທີ່ພວກເຮົາຄວນຊອກຫາບໍ?
+
+340
+00:22:13,050 --> 00:22:15,150
+[DULANEY]
+Michael -- get off the phone.
+ໄມເກວ - ອອກໂທລະສັບ.
+
+341
+00:22:15,650 --> 00:22:17,650
+[MICHAEL]
+Why?
+ເປັນຫຍັງ?
+
+342
+00:22:18,150 --> 00:22:20,150
+[DULANEY]
+Because I'm expecting a call.
+ເພາະຂ້ອຍ ກໍາ ລັງຄາດຫວັງການໂທ.
+
+343
+00:22:20,650 --> 00:22:22,650
+[MICHAEL]
+-- But it's Sunday.
+- ແຕ່ມັນແມ່ນວັນອາທິດແລ້ວ.
+
+344
+00:22:23,150 --> 00:22:26,650
+[DULANEY]
+I know what day it is!  Get off the phone.
+ຂ້ອຍຮູ້ວ່າມື້ນີ້ເປັນມື້ໃດ! ອອກໂທລະສັບ.
+
+345
+00:22:27,150 --> 00:22:29,600
+[MICHAEL]
+I gotta go.  I'll call you later.
+ຂ້ອຍຕ້ອງໄປ. ຂ້ອຍຈະໂທຫາເຈົ້າຕໍ່ມາ.
+
+346
+00:22:30,100 --> 00:22:35,700
+[REBECCA'S VOICE]
+This is Rebecca Lawson.  I'm not in right now.  So if you please leave a message--
+ນີ້ແມ່ນເຣເບກາ ໂລຊັນ. ຂ້ອຍບໍ່ໄດ້ເຂົ້າມາໃນເວລານີ້
+. ສະນັ້ນຖ້າເຈົ້າຂໍໃຫ້ປ່ອຍຂໍ້ຄວາມ -
+
+347
+00:22:36,200 --> 00:22:39,000
+[DULANEY]
+I called you all weekend.  Where were you?
+ຂ້ອຍໂທຫາເຈົ້າຕະຫຼອດທ້າຍອາທິດ. ເຈົ້າຢູ່ໃສ?
+
+348
+00:22:39,500 --> 00:22:41,600
+[REBECCA]
+I went out on the boat.
+ຂ້ອຍອອກໄປເທິງເຮືອ.
+
+349
+00:22:42,100 --> 00:22:44,100
+[DULANEY]
+Alone?
+ຢູ່ຄົນດຽວບໍ?
+
+350
+00:22:44,600 --> 00:22:46,600
+[REBECCA]
+Of course.
+ແນ່ນອນ.
+
+351
+00:22:47,100 --> 00:22:53,100
+[JUDGE BURNHAM]
+This trial by its very nature is explosive.  The press is going to have a field day and I will not tolerate any activity in my courtroom that will fuel it.  Both of you are going to be delving into very personal aspects of peoples lives.  I warn you now.  When you do so -- if you cannot establish a clear line of relevancy early on in your examinations I will stop you.  Is that clear?
+ການດໍາເນີນຄະດີນີ້ໂດຍລັກສະນະຂອງມັນເອງແມ່ນລະເບີດ. ສື່ມວນຊົນຈະມີມື້ສະຫນາມແລະຂ້ອຍຈະບໍ່ຍອມຮັບການເຄື່ອນໄຫວໃດໆໃນຫ້ອງສານຂອງຂ້ອຍທີ່ຈະເຮັດໃຫ້ມັນເປັນໄຟຟ້າ. ເຈົ້າທັງສອງຈະເລິກເຊິ່ງໃນດ້ານສ່ວນຕົວຫຼາຍຂອງຊີວິດຂອງປະຊາຊົນ
+. ຂ້ອຍເຕືອນເຈົ້າດຽວນີ້. ເມື່ອເຈົ້າເຮັດດັ່ງນັ້ນ - ຖ້າເຈົ້າບໍ່ສາມາດສ້າງເສັ້ນຄວາມກ່ຽວຂ້ອງຢ່າງຈະແຈ້ງໃນຕອນຕົ້ນຂອງການສອບເສັງຂອງຂ້ອຍຂ້ອຍຈະຢຸດເຈົ້າ. ມັນຈະແຈ້ງບໍ?
+
+352
+00:22:53,600 --> 00:22:55,600
+[JUDGE BURNHAM]
+Mr. Cardenas.
+ທ້າວ ຄາດເນສ.
+
+353
+00:22:56,100 --> 00:23:02,100
+[CARDENAS]
+You all can see the defendant, Rebecca Lawson.  But as this trial proceeds you will see that she is not only the defendant -- she is the murder weapon itself.
+ເຈົ້າທຸກຄົນສາມາດເຫັນຜູ້ຖືກກ່າວຫາ, ຣີເບກາ ໂລຊັນ. ແຕ່ໃນຂະນະທີ່ການດໍາເນີນຄະດີນີ້ ດໍາ
+ເນີນໄປເຈົ້າຈະເຫັນວ່ານາງບໍ່ແມ່ນພຽງແຕ່ຜູ້ຖືກຕ້ອງຫາເທົ່ານັ້ນ - ນາງເປັນອາວຸດການຄາດຕະກໍາເອງ.
+
+354
+00:23:02,600 --> 00:23:04,600
+[JUDGE BURNHAM]
+Mr. Dulaney?
+ທ້າວ ດູລາເນີ?
+
+355
+00:23:05,100 --> 00:23:11,100
+[DULANEY]
+I know what you're thinking -- and it's a mistake.  You look at Miss Lawson and you see a beautiful woman who was involved with an older man -- and you think she looks like the type.  She could've done it.  And that's exactly what the District Attorney wants you to think.  Yes, she is beautiful.  So what?  Does that make her a killer?  Of course not.  This case is not about appearances.  It's about facts.  As Mr. Cardenas presents his case you will see that there are very few facts -- that the bulk of the States evidence is circumstantial.  I'm confident that by the conclusion of this trial you will not just have a reasonable doubt.  You will have no doubt at all --  that Rebecca Lawson is innocent of the charges against her.
+ຂ້ອຍຮູ້ວ່າເຈົ້າ ກໍາ ລັງຄິດຫຍັງ - ແລະມັນເປັນຄວາມຜິດພາດ. ເຈົ້າເບິ່ງນາງ Lawson ແລະເຈົ້າເຫັນແມ່ຍິງທີ່ສວຍງາມທີ່ກ່ຽວຂ້ອງກັບຜູ້ຊາຍອາຍຸສູງກວ່າ - ແລະເຈົ້າຄິດວ່ານາງເບິ່ງຄືວ່າເປັນປະເພດ. ນາງສາມາດເຮັດໄດ້. ແລະນັ້ນແມ່ນສິ່ງທີ່ໄອຍະການເຂດຢາກໃຫ້ເຈົ້າຄິດ
+. ແມ່ນແລ້ວ, ນາງງາມ. ສະນັ້ນຫຍັງ? ມັນເຮັດໃຫ້ນາງເປັນຜູ້ຂ້າບໍ? ແນ່ນອນວ່າບໍ່ແມ່ນ. ກໍລະນີນີ້ບໍ່ແມ່ນກ່ຽວກັບລັກສະນະ. ມັນກ່ຽວກັບຄວາມຈິງ. ໃນຂະນະທີ່ທ່ານຄາເດັນສ໌ ນໍາ ສະ ເຫນີ ກໍລະນີຂອງລາວທ່ານຈະເຫັນວ່າມີຄວາມຈິງ ຫນ້ອຍ
+
+356
+00:23:11,600 --> 00:23:14,400
+[CARDENAS]
+Doctor McCurdy, what was the cause of death?
+ດອກຕໍ ແມັກຄູດີ, ສາເຫດຂອງການຕາຍແມ່ນຫຍັງ?
+
+357
+00:23:14,900 --> 00:23:16,900
+[MCCURDY]
+A massive cardiac arrest.
+ການຢຸດຫົວໃຈຢ່າງໃຫຍ່ຫຼວງ.
+
+358
+00:23:17,400 --> 00:23:20,900
+[CARDENAS]
+What was Mr. Marsh's physical condition prior to his death?
+ສະພາບຮ່າງກາຍຂອງທ່ານມາສ໌ແມ່ນແນວໃດກ່ອນການຕາຍຂອງລາວ?
+
+359
+00:23:21,400 --> 00:23:24,550
+[MCCURDY]
+Very poor.  He was suffering from severe arterial disease.
+ລາວທຸກຍາກຫຼາຍ. ລາວເຈັບປ່ວຍຈາກພະຍາດເສັ້ນເລືອດທີ່ຮ້າຍແຮງ.
+
+360
+00:23:25,050 --> 00:23:28,200
+[CARDENAS]
+Was the heart attack the result of natural causes?
+ການໂຈມຕີຫົວໃຈແມ່ນຜົນມາຈາກສາເຫດ ທໍາ ມະຊາດບໍ?
+
+361
+00:23:28,700 --> 00:23:30,700
+[MCCURDY]
+No.
+ບໍ່
+
+362
+00:23:31,200 --> 00:23:33,200
+[CARDENAS]
+What induced it?
+ສິ່ງທີ່ເຮັດໃຫ້ມັນເກີດຂຶ້ນ?
+
+363
+00:23:33,700 --> 00:23:37,200
+[MCCURDY]
+We found a high concentration of cocaine in his blood.
+ພວກເຮົາພົບໂກເກິນສູງໃນເລືອດຂອງລາວ.
+
+364
+00:23:37,700 --> 00:23:39,700
+[CARDENAS]
+So, Mr. Marsh used cocaine?
+ສະນັ້ນ, ທ້າວມາສສ໌ໃຊ້ໂກເກິນບໍ?
+
+365
+00:23:40,200 --> 00:23:46,200
+[MCCURDY]
+I don't think so.  The membrane in his nasal passage didn't show any sign of long time usage.
+ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ.
+ກະດານໃນທາງດັງຂອງລາວບໍ່ໄດ້ສະແດງສັນຍານໃດໆຂອງການໃຊ້ເວລາດົນນານ.
+
+366
+00:23:46,700 --> 00:23:49,500
+[CARDENAS]
+Then how did it get into his body?
+ຫຼັງຈາກນັ້ນມັນເຂົ້າໄປໃນຮ່າງກາຍຂອງລາວແນວໃດ?
+
+367
+00:23:50,000 --> 00:23:56,000
+[MCCURDY]
+We found a bottle of Dristan nasal spray on the nightstand.  It was filled with water and cocaine.  Mr. Marsh had a head cold at the time of his death.  I believe he wasn't aware that he was ingesting cocaine.
+ພວກເຮົາພົບຈອກສີດດຣິສຕັນດັງຢູ່ເທິງໂຕະນອນ. ມັນເຕັມໄປດ້ວຍນ້ ໍາ ແລະ ໂກເກິນ.
+ທ້າວມາສສ໌ມີຫົວເຢັນໃນເວລາທີ່ລາວຕາຍ. ຂ້ອຍເຊື່ອວ່າລາວບໍ່ຮູ້ວ່າມັນ ກໍາ ລັງກິນໂກເກີນ.
+
+368
+00:23:56,500 --> 00:24:00,000
+[CARDENAS]
+Is this the bottle that was found on the nightstand?
+ນີ້ແມ່ນຈອກທີ່ພົບເຫັນຢູ່ເທິງໂຕະນອນບໍ?
+
+369
+00:24:00,500 --> 00:24:02,500
+[MCCURDY]
+Yes.
+ແມ່ນແລ້ວ.
+
+370
+00:24:03,000 --> 00:24:08,950
+[CARDENAS]
+Your Honor, the State enters this evidence as exhibit A.  Were any fingerprints found on the bottle?
+ເຈົ້າຫນ້າທີ່, ລັດໄດ້ບັນທຶກຫຼັກຖານນີ້ເປັນຫຼັກຖານ
+A. ມີນິ້ວມືໃດທີ່ພົບເຫັນໃນຂວດບໍ?
+
+371
+00:24:09,450 --> 00:24:14,000
+[MCCURDY]
+Yes -- those of Mr. Marsh and a thumb print of Miss Lawson's.
+ແມ່ນແລ້ວ - ຂອງທ່ານມາສ໌ ແລະ ນິ້ວມືຂອງນາງ Lawson ໄດ້.
+
+372
+00:24:14,500 --> 00:24:18,700
+[CARDENAS]
+Dr. McCurdy, what would cocaine do to someone in Mr. Marsh's condition?
+ດຣ ແມັກຄູດີ, ໂກເກິນຈະເຮັດຫຍັງກັບຄົນໃນສະພາບຂອງທ່ານມາສ໌?
+
+373
+00:24:19,200 --> 00:24:21,200
+[MCCURDY]
+Increase his heart rate.
+ເພີ່ມການຕີຫົວໃຈຂອງລາວຂຶ້ນ.
+
+374
+00:24:21,700 --> 00:24:27,650
+[CARDENAS]
+-- And if he were in the midst of making love while under the influence of cocaine?
+- ແລະຖ້າລາວຢູ່ໃນກາງການຮັກໃນຂະນະທີ່ຢູ່ພາຍໃຕ້ອິດທິພົນຂອງໂກເກິນ?
+
+375
+00:24:28,150 --> 00:24:31,300
+[MCCURDY]
+It would be an added stress to his heart.
+ມັນຈະເປັນຄວາມກົດດັນເພີ່ມເຕີມຕໍ່ຫົວໃຈຂອງລາວ.
+
+376
+00:24:31,800 --> 00:24:37,800
+[CARDENAS]
+What would be the effect if someone secretly administered cocaine to Mr. Marsh and then induced him to make love?
+ຜົນກະທົບຈະເປັນແນວໃດຖ້າໃຜໄດ້ບໍລິຫານໂກເກິນຢ່າງລັບໃຫ້ທ່ານມາສ໌ແລະຫຼັງຈາກນັ້ນເຮັດໃຫ້ລາວຮັກ
+?
+
+377
+00:24:38,300 --> 00:24:42,150
+[MCCURDY]
+It would be the same as shooting a gun at him.
+ມັນຈະຄ້າຍຄືກັບການຍິງປືນໃສ່ລາວ.
+
+378
+00:24:42,650 --> 00:24:44,750
+[CARDENAS]
+Thank you, Doctor McCurdy.  Your witness.
+ຂອບໃຈ, ດອກຕໍແມັກຄູດີ. ພະຍານຂອງທ່ານ.
+
+379
+00:24:45,250 --> 00:24:50,150
+[DULANEY]
+Can you say with any certainty that Mr. Marsh didn't ingest the cocaine himself?
+ເຈົ້າສາມາດເວົ້າໄດ້ຢ່າງແນ່ນອນວ່າ ທ້າວມາສ໌ບໍ່ໄດ້ກິນໂກເກິນເອງບໍ?
+
+380
+00:24:50,650 --> 00:24:56,250
+[MCCURDY]
+No -- but it seems highly unlikely that a man in his condition would use cocaine.
+ບໍ່ -
+ແຕ່ມັນເບິ່ງຄືວ່າບໍ່ເປັນໄປໄດ້ຫຼາຍວ່າຜູ້ຊາຍໃນສະພາບຂອງລາວຈະໃຊ້ໂກເກິນ.
+
+381
+00:24:56,750 --> 00:25:02,750
+[DULANEY]
+That's your opinion, Doctor -- but I'm asking you if there is any scientific test that can tell who actually put the cocaine into the Dristan bottle?
+ນັ້ນແມ່ນຄວາມຄິດເຫັນຂອງທ່ານ, ດອກຕໍ - ແຕ່ຂ້ອຍ ກໍາ
+ລັງຖາມທ່ານວ່າມີການທົດສອບທາງວິທະຍາສາດໃດທີ່ສາມາດບອກວ່າໃຜໄດ້ໃສ່ໂກເກິນໃນຂວດດຣິດສຕັນແທ້ບໍ?
+
+382
+00:25:03,250 --> 00:25:05,250
+[MCCURDY]
+No.
+ບໍ່
+
+383
+00:25:05,750 --> 00:25:07,750
+[DULANEY]
+Thank you.
+ຂອບໃຈ
+
+384
+00:25:08,250 --> 00:25:12,800
+[CARDENAS]
+Doctor Trammel, when did you first diagnose that Mr. Marsh had heart disease?
+ດອກຕໍ ທຣາມເມລ, ເຈົ້າໄດ້ກວດພົບວ່າທ່ານມາສ໌ມີພະຍາດຫົວໃຈຄັ້ງ
+ທໍາ ອິດເມື່ອໃດ?
+
+385
+00:25:13,300 --> 00:25:15,400
+[DR. TRAMMEL]
+About a year and half ago.
+ປະມານປີເຄິ່ງກ່ອນ.
+
+386
+00:25:15,900 --> 00:25:18,700
+[CARDENAS]
+Did Mr. Marsh change his lifestyle after that?
+ທ້າວມາສ໌ໄດ້ປ່ຽນຮູບແບບຊີວິດຂອງລາວຫຼັງຈາກນັ້ນບໍ?
+
+387
+00:25:19,200 --> 00:25:22,700
+[DR. TRAMMEL]
+Yes -- he stopped smoking and drinking and exercised regularly.
+ແມ່ນແລ້ວ - ລາວຢຸດສູບຢາແລະດື່ມແລະອອກ ກໍາ ລັງກາຍເປັນປົກກະຕິ.
+
+388
+00:25:23,200 --> 00:25:27,050
+[CARDENAS]
+He did everything he could to take care of his heart?
+ລາວເຮັດທຸກຢ່າງທີ່ລາວສາມາດເຮັດໄດ້ເພື່ອເບິ່ງແຍງຫົວໃຈຂອງລາວບໍ?
+
+389
+00:25:27,550 --> 00:25:29,550
+[DR. TRAMMEL]
+Yes.
+ແມ່ນແລ້ວ.
+
+390
+00:25:30,050 --> 00:25:33,550
+[CARDENAS]
+Did Miss Lawson ever accompany Mr. Marsh to your office?
+ນາງ Lawson ເຄີຍຕິດຕາມທ່ານມາສ໌ໄປຫ້ອງການຂອງທ່ານບໍ?
+
+391
+00:25:34,050 --> 00:25:36,050
+[DR. TRAMMEL]
+Yes.
+ແມ່ນແລ້ວ.
+
+392
+00:25:36,550 --> 00:25:41,100
+[CARDENAS]
+Just one last question.  What does the sign on your office door say?
+ພຽງແຕ່ ຄໍາ ຖາມສຸດທ້າຍຫນຶ່ງ. ປ້າຍຢູ່ປະຕູຫ້ອງການຂອງທ່ານຂຽນວ່າແນວໃດ?
+
+393
+00:25:41,600 --> 00:25:43,600
+[DR. TRAMMEL]
+Doctor Steven Trammel.  Cardiologist.
+ດອກຕໍສຕິເວນ ທຣາມເມລ. ນັກວິຊາການຫົວໃຈ.
+
+394
+00:25:44,100 --> 00:25:48,650
+[DULANEY]
+Dr. Trammel, did you ever speak to Miss Lawson about Mr. Marsh's condition?
+ດຣ ທຣາມເມລ, ເຈົ້າເຄີຍເວົ້າກັບນາງ
+Lawson ກ່ຽວກັບສະພາບຂອງທ່ານມາສ໌ບໍ?
+
+395
+00:25:49,150 --> 00:25:51,150
+[DR. TRAMMEL]
+No.
+ບໍ່
+
+396
+00:25:51,650 --> 00:25:57,250
+[DULANEY]
+Did Mr. Marsh ever tell you that he had spoken to Miss Lawson about his illness?
+ທ້າວມາສ໌ເຄີຍບອກເຈົ້າວ່າລາວໄດ້ເວົ້າກັບນາງ
+Lawson ກ່ຽວກັບພະຍາດຂອງລາວບໍ?
+
+397
+00:25:57,750 --> 00:25:59,750
+[DR. TRAMMEL]
+No.
+ບໍ່
+
+398
+00:26:00,250 --> 00:26:04,100
+[DULANEY]
+Did Miss Lawson ever accompany Mr. Marsh inside during his examinations?
+ນາງ Lawson ເຄີຍຕິດຕາມທ່ານມາສ໌ພາຍໃນໃນລະຫວ່າງການສອບເສັງຂອງລາວບໍ?
+
+399
+00:26:04,600 --> 00:26:06,600
+[DR. TRAMMEL]
+No.
+ບໍ່
+
+400
+00:26:07,100 --> 00:26:13,100
+[DULANEY]
+Then you have no way of knowing what Mr. Marsh told Miss Lawson were the reasons for his visits?
+ຫຼັງຈາກນັ້ນເຈົ້າບໍ່ມີທາງທີ່ຈະຮູ້ວ່າທ່ານມາສ໌ບອກນາງ
+Lawson ແມ່ນເຫດຜົນຂອງການຢ້ຽມຢາມຂອງລາວບໍ?
+
+401
+00:26:13,600 --> 00:26:15,600
+[DR. TRAMMEL]
+No.  No, I don't.
+ບໍ່. ບໍ່, ຂ້ອຍບໍ່ເຮັດ.
+
+402
+00:26:16,100 --> 00:26:18,900
+[CARDENAS]
+How long were you Mr Marsh's personal secretary?
+ເຈົ້າເປັນເລຂາທິການສ່ວນຕົວຂອງທ່ານມາສ໌ດົນປານໃດ?
+
+403
+00:26:19,400 --> 00:26:21,400
+[JOANNE]
+Six years.
+ຫົກປີ.
+
+404
+00:26:21,900 --> 00:26:24,700
+[CARDENAS]
+Did you ever see Mr. Marsh use Cocaine?
+ເຈົ້າເຄີຍເຫັນທ່ານມາສ໌ໃຊ້ໂກເກິນບໍ?
+
+405
+00:26:25,200 --> 00:26:27,200
+[JOANNE]
+No -- never.
+ບໍ່ - ບໍ່ເຄີຍ.
+
+406
+00:26:27,700 --> 00:26:29,700
+[CARDENAS]
+What about Miss Lawson?
+ແລະນາງ Lawson ແນວໃດ?
+
+407
+00:26:30,200 --> 00:26:32,200
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+408
+00:26:32,700 --> 00:26:34,800
+[CARDENAS]
+Tell the court about that, please.
+ບອກສານກ່ຽວກັບເລື່ອງນັ້ນ, ກະລຸນາ.
+
+409
+00:26:35,300 --> 00:26:41,250
+[JOANNE]
+I opened the bathroom door one day and saw Miss Lawson pouring Cocaine out of a vial.
+ຂ້ອຍເປີດປະຕູຫ້ອງນ້ ໍາ ມື້ຫນຶ່ງແລະເຫັນນາງ
+Lawson ຖອກໂກເກິນອອກຈາກຖັງ.
+
+410
+00:26:41,750 --> 00:26:45,250
+[CARDENAS]
+Did you see Mr. Marsh the day before his death?
+ເຈົ້າເຫັນທ່ານມາສ໌ມື້ກ່ອນລາວຕາຍບໍ?
+
+411
+00:26:45,750 --> 00:26:47,750
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+412
+00:26:48,250 --> 00:26:50,250
+[CARDENAS]
+How did he look?
+ລາວເບິ່ງຄືແນວໃດ?
+
+413
+00:26:50,750 --> 00:26:52,850
+[JOANNE]
+Horrible.  He was tired and pale.
+ມັນຮ້າຍແຮງ. ລາວເມື່ອຍແລະສົດໃສ.
+
+414
+00:26:53,350 --> 00:26:55,450
+[CARDENAS]
+Did you talk about Miss Lawson?
+ເຈົ້າເວົ້າກ່ຽວກັບນາງ Lawson ບໍ?
+
+415
+00:26:55,950 --> 00:26:57,950
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+416
+00:26:58,450 --> 00:27:00,450
+[CARDENAS]
+What did Mr. Marsh say?
+ທ້າວມາສ໌ເວົ້າຫຍັງ?
+
+417
+00:27:00,950 --> 00:27:06,950
+[JOANNE]
+He was worried.  He said that she was acting stranger and stranger.  He said that if this kept up she was going to kill him.  That his heart couldn't take it.
+ລາວກັງວົນ. ລາວເວົ້າວ່ານາງ ກໍາ ລັງປະຕິບັດເປັນຄົນແປກແລະແປກ.
+ລາວກ່າວວ່າຖ້າສິ່ງນີ້ສືບຕໍ່ຕໍ່ໄປນາງຈະຂ້າລາວ. ວ່າຫົວໃຈຂອງລາວບໍ່ສາມາດຮັບມືກັນໄດ້.
+
+418
+00:27:07,450 --> 00:27:09,450
+[CARDENAS]
+Thank you.  Your witness.
+ຂອບໃຈ. ພະຍານຂອງທ່ານ.
+
+419
+00:27:09,950 --> 00:27:14,850
+[DULANEY]
+How do you know it was cocaine that Miss Lawson had in the bathroom?
+ເຈົ້າຮູ້ແນວໃດວ່າມັນເປັນໂກເກິນທີ່ນາງ Lawson ມີໃນຫ້ອງນ້ ໍາ?
+
+420
+00:27:15,350 --> 00:27:19,550
+[JOANNE]
+What other kind of white powder do people keep in a vial?
+ຄົນເກັບຝຸ່ນສີຂາວອີກປະເພດໃດໄວ້ໃນຈອກ?
+
+421
+00:27:20,050 --> 00:27:24,600
+[DULANEY]
+Do you remember the date when you saw Miss Lawson in the bathroom?
+ເຈົ້າຈື່ວັນທີ່ເຈົ້າເຫັນນາງ Lawson ໃນຫ້ອງນ້ ໍາ ບໍ?
+
+422
+00:27:25,100 --> 00:27:31,100
+[JOANNE]
+Yes--  It was on a Friday.  I remember because I was going to visit my sister for her birthday.  It would be October twenty-eighth.
+ແມ່ນແລ້ວ - ມັນແມ່ນວັນສຸກ. ຂ້ອຍຈື່ເພາະວ່າຂ້ອຍຈະໄປຢ້ຽມຢາມເອື້ອຍຂອງຂ້ອຍໃນວັນເກີດຂອງນາງ
+. ມັນຈະເປັນວັນທີສິບແປດເດືອນຕຸລາ.
+
+423
+00:27:31,600 --> 00:27:37,600
+[DULANEY]
+Could you repeat the last part of what Mr. Marsh said to you the day before his death?
+ເຈົ້າສາມາດຊໍ້າອີກສ່ວນສຸດທ້າຍຂອງສິ່ງທີ່ທ່ານມາສ໌ເວົ້າກັບເຈົ້າໃນມື້ກ່ອນການຕາຍຂອງລາວໄດ້ບໍ
+?
+
+424
+00:27:38,100 --> 00:27:44,100
+[JOANNE]
+He said that if it kept up she was going to kill him.  That his heart couldn't take it.
+ລາວເວົ້າວ່າຖ້າມັນສືບຕໍ່ນາງຈະຂ້າລາວ.
+ວ່າຫົວໃຈຂອງລາວບໍ່ສາມາດຮັບມືກັນໄດ້.
+
+425
+00:27:44,600 --> 00:27:50,600
+[DULANEY]
+Didn't Mr. Marsh also tell you that Miss Lawson felt bored here and was thinking about going back to Chicago for awhile?
+ທ້າວມາສ໌ບໍ່ໄດ້ບອກເຈົ້າອີກບໍວ່າ ນາງ Lawson ຮູ້ສຶກເມື່ອຍຢູ່ບ່ອນນີ້ແລະ
+ກໍາ ລັງຄິດກ່ຽວກັບການກັບຄືນໄປຊີຄາໂກເປັນເວລາດົນນານ?
+
+426
+00:27:51,100 --> 00:27:53,100
+[JOANNE]
+Yes -- he mentioned it.
+ແມ່ນແລ້ວ - ລາວໄດ້ກ່າວເຖິງມັນ.
+
+427
+00:27:53,600 --> 00:27:59,600
+[DULANEY]
+So, the woman he loved passionately was thinking about leaving.  That must cause tremendous anxiety. Sleepless nights.  Incredible stress.
+ສະນັ້ນ, ແມ່ຍິງທີ່ລາວຮັກຢ່າງກະຕືລືລົ້ນ ກໍາ ລັງຄິດກ່ຽວກັບການອອກຈາກ.
+ນັ້ນຕ້ອງເຮັດໃຫ້ມີຄວາມກັງວົນທີ່ຍິ່ງໃຫຍ່. ຄືນທີ່ບໍ່ມີນອນ. ຄວາມກົດດັນທີ່ບໍ່ຍອມຮັບໄດ້.
+
+428
+00:28:00,100 --> 00:28:02,100
+[JOANNE]
+I suppose.
+ຂ້ອຍຄິດວ່າ.
+
+429
+00:28:02,600 --> 00:28:08,600
+[DULANEY]
+So, isn't it possible that he was confiding in you about the pain he was feeling about losing what might be his last chance for love?  That what he really was saying was that the uncertainty of her leaving was driving him crazy and if it didn't stop it was going to kill him.  That if she did leave his heart couldn't take it.
+ສະນັ້ນ, ມັນບໍ່ເປັນໄປໄດ້ບໍວ່າລາວ ກໍາ ລັງເຊື່ອຖືເຈົ້າກ່ຽວກັບຄວາມເຈັບປວດທີ່ລາວຮູ້ສຶກກ່ຽວກັບການສູນເສຍສິ່ງທີ່ອາດຈະເປັນໂອກາດສຸດທ້າຍຂອງລາວ ສໍາ ລັບຄວາມຮັກ?
+ວ່າສິ່ງທີ່ລາວເວົ້າແທ້ໆແມ່ນວ່າຄວາມບໍ່ແນ່ໃຈຂອງການອອກຈາກນາງ ກໍາ ລັງເຮັດໃຫ້ລາວໂຊກຮ້າຍແລະຖ້າມັນບໍ່ຢຸດມັນຈະຂ້າລາວ. ວ່າຖ້ານາງອອກຈາກຫົວໃຈຂອງລາວບໍ່ສາມາດຮັບມືກັນໄດ້.
+
+430
+00:28:09,100 --> 00:28:11,200
+[JOANNE]
+I don't know.  I'm not sure.
+ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍບໍ່ແນ່ໃຈ.
+
+431
+00:28:11,700 --> 00:28:14,150
+[DULANEY]
+Well, think about it.  Isn't it possible?
+ດີ, ຄິດກ່ຽວກັບມັນ. ມັນບໍ່ສາມາດເຮັດໄດ້ບໍ?
+
+432
+00:28:14,650 --> 00:28:16,650
+[JOANNE]
+Yes.  I suppose it's possible.
+ແມ່ນແລ້ວ. ຂ້ອຍຄິດວ່າມັນເປັນໄປໄດ້.
+
+433
+00:28:17,150 --> 00:28:19,150
+[REBECCA]
+You were brilliant today.
+ເຈົ້າດີເລີດມື້ນີ້.
+
+434
+00:28:19,650 --> 00:28:21,650
+[DULANEY]
+It's only the beginning.
+ມັນເປັນພຽງແຕ່ເລີ່ມຕົ້ນເທົ່ານັ້ນ.
+
+435
+00:28:22,150 --> 00:28:28,150
+[REBECCA]
+Strong endings start with strong beginnings.  I love the way you twist what people say around --  manipulating their own words against them.
+ການສິ້ນສຸດທີ່ເຂັ້ມແຂງເລີ່ມຕົ້ນດ້ວຍການເລີ່ມຕົ້ນທີ່ແຂງແຮງ.
+ຂ້ອຍມັກວິທີທີ່ທ່ານສໍ້ໂກງສິ່ງທີ່ຄົນເວົ້າຢູ່ອ້ອມຂ້າງ - ການຄວບຄຸມ ຄໍາ ເວົ້າຂອງພວກເຂົາເອງຕໍ່ພວກເຂົາ.
+
+436
+00:28:28,650 --> 00:28:30,650
+[DULANEY]
+Can I see you later?
+ຂ້ອຍເຫັນເຈົ້າໄດ້ບໍ?
+
+437
+00:28:31,150 --> 00:28:33,150
+[REBECCA]
+You can see me now.
+ເຈົ້າສາມາດເຫັນຂ້ອຍໄດ້ດຽວນີ້.
+
+438
+00:28:33,650 --> 00:28:35,650
+[DULANEY]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+439
+00:28:36,150 --> 00:28:38,150
+[REBECCA]
+I want you inside me.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າຢູ່ໃນຂ້ອຍ.
+
+440
+00:28:38,650 --> 00:28:40,650
+[REBECCA]
+Something wrong?
+ມີຫຍັງຜິດບໍ?
+
+441
+00:28:41,150 --> 00:28:43,250
+[DULANEY]
+Paley could be a problem tomorrow.
+Paley ອາດຈະເປັນບັນຫາມື້ອື່ນ.
+
+442
+00:28:43,750 --> 00:28:46,550
+[REBECCA]
+I'm sure you'll be able to handle him.
+ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຈະຮັບມືກັບລາວໄດ້.
+
+443
+00:28:47,050 --> 00:28:49,850
+[DULANEY]
+I'm glad you have such confidence in me.
+ຂ້ອຍດີໃຈທີ່ເຈົ້າມີຄວາມໄວ້ວາງໃຈຫຼາຍຕໍ່ຂ້ອຍ.
+
+444
+00:28:50,350 --> 00:28:55,950
+[REBECCA]
+Don't worry about Paley.  He can't touch me.  No one can.  I've thought it all out.
+ຢ່າກັງວົນກ່ຽວກັບປາລີ. ລາວບໍ່ສາມາດຈັບຂ້ອຍໄດ້.
+ບໍ່ມີໃຜສາມາດເຮັດໄດ້. ຂ້ອຍໄດ້ຄິດທັງ ຫມົດ ແລ້ວ.
+
+445
+00:28:56,450 --> 00:29:02,450
+[DULANEY]
+What does that mean?  You've been thinking about the case?  Or you thought everything out before you killed Marsh?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ? ເຈົ້າ ກໍາ ລັງຄິດກ່ຽວກັບກໍລະນີບໍ
+? ຫຼືເຈົ້າຄິດທຸກຢ່າງກ່ອນທີ່ຈະຂ້າມາສ໌ບໍ?
+
+446
+00:29:02,950 --> 00:29:05,400
+[DULANEY]
+I'm sorry.  Rebecca -- I'm sorry.  Really.
+ຂ້ອຍຂໍໂທດ. ຣີເບັກກາ - ຂ້ອຍ ຂໍໂທດ. ແທ້ໆ.
+
+447
+00:29:05,900 --> 00:29:07,900
+[REBECCA]
+Sugar or honey?
+ນໍ້າຕານຫຼືຫວານບໍ?
+
+448
+00:29:08,400 --> 00:29:10,400
+[DULANEY]
+Honey.
+ແມ.
+
+449
+00:29:10,900 --> 00:29:13,000
+[CARDENAS]
+The State calls Doctor Alan Paley.
+ລັດໂທຫາດອກຕໍແອລານ ປາລີ.
+
+450
+00:29:13,500 --> 00:29:15,600
+[CARDENAS]
+Where did you meet Miss Lawson?
+ເຈົ້າພົບກັບນາງ Lawson ຢູ່ໃສ?
+
+451
+00:29:16,100 --> 00:29:19,250
+[DR. PALEY]
+At a dinner party -- about eight months ago.
+ໃນງານລ້ຽງອາຫານຄໍ່າ - ປະມານແປດເດືອນກ່ອນ.
+
+452
+00:29:19,750 --> 00:29:22,550
+[CARDENAS]
+Did you ever see her again after that?
+ເຈົ້າເຄີຍເຫັນນາງອີກເທື່ອຫນຶ່ງຫຼັງຈາກນັ້ນບໍ?
+
+453
+00:29:23,050 --> 00:29:25,050
+[DR. PALEY]
+Yes -- several times.
+ແມ່ນແລ້ວ - ຫຼາຍຄັ້ງ.
+
+454
+00:29:25,550 --> 00:29:28,700
+[CARDENAS]
+What eventually happened to your relationship with Miss Lawson?
+ໃນທີ່ສຸດເກີດຫຍັງຂຶ້ນກັບຄວາມສໍາພັນຂອງທ່ານກັບນາງ Lawson?
+
+455
+00:29:29,200 --> 00:29:31,200
+[DR. PALEY]
+We stopped seeing each other.
+ພວກເຮົາຢຸດພົບກັນແລ້ວ.
+
+456
+00:29:31,700 --> 00:29:33,700
+[CARDENAS]
+Why?
+ເປັນຫຍັງ?
+
+457
+00:29:34,200 --> 00:29:40,200
+[DR. PALEY]
+Well -- I realized that she wasn't interested in me.  She was just trying to get information out of me.
+ດີ - ຂ້ອຍຮູ້ວ່ານາງບໍ່ສົນໃຈຂ້ອຍ.
+ນາງພຽງແຕ່ພະຍາຍາມເອົາຂໍ້ມູນຈາກຂ້ອຍ.
+
+458
+00:29:40,700 --> 00:29:42,700
+[CARDENAS]
+What kind of information?
+ຂໍ້ມູນປະເພດໃດ?
+
+459
+00:29:43,200 --> 00:29:49,200
+[DR. PALEY]
+She said that she was working on a novel and she wanted to know what kinds of drugs would be harmful to someone with a bad heart.
+ນາງເວົ້າວ່າ ນາງ ກໍາ
+ລັງເຮັດວຽກກ່ຽວກັບນະວະນິຍາຍແລະນາງຢາກຮູ້ວ່າຢາເສບຕິດປະເພດໃດຈະເປັນອັນຕະລາຍຕໍ່ຄົນທີ່ມີຫົວໃຈບໍ່ດີ.
+
+460
+00:29:49,700 --> 00:29:51,700
+[CARDENAS]
+Did you suggest any?
+ເຈົ້າແນະ ນໍາ ຫຍັງບໍ?
+
+461
+00:29:52,200 --> 00:29:54,200
+[DR. PALEY]
+Yes -- Insulin and others.
+ແມ່ນແລ້ວ - ອິນຊູລິນແລະອື່ນໆ.
+
+462
+00:29:54,700 --> 00:29:56,700
+[CARDENAS]
+What did she say?
+ນາງເວົ້າຫຍັງ?
+
+463
+00:29:57,200 --> 00:30:03,200
+[DR. PALEY]
+She said that those weren't any good -- because their use would be detected and the police would know the victim had been poisoned.  She wanted to know if there was a drug that would induce a heart attack but could also be used to enhance a sexual high.
+ນາງເວົ້າວ່າພວກມັນບໍ່ດີເລີຍ - ເພາະວ່າການໃຊ້ພວກມັນຈະຖືກກວດພົບແລະຕໍາຫຼວດຈະຮູ້ວ່າຜູ້ເຄາະຮ້າຍໄດ້ຖືກພິດ
+. ນາງຢາກຮູ້ວ່າມີຢາເສບຕິດທີ່ຈະເຮັດໃຫ້ການໂຈມຕີຫົວໃຈແຕ່ຍັງສາມາດໃຊ້ໄດ້ເພື່ອເພີ່ມທະວີຄວາມສູງທາງເພດ.
+
+464
+00:30:03,700 --> 00:30:05,800
+[CARDENAS]
+-- And what did you suggest?
+- ເຈົ້າແນະນໍາຫຍັງ?
+
+465
+00:30:06,300 --> 00:30:08,300
+[DR. PALEY]
+Cocaine.
+ໂກເກິນ.
+
+466
+00:30:08,800 --> 00:30:10,800
+[CARDENAS]
+Your witness.
+ພະຍານຂອງທ່ານ.
+
+467
+00:30:11,300 --> 00:30:15,500
+[DULANEY]
+Dr. Paley, where were you the last time you saw Miss Lawson?
+ດຣ ປາລີ, ເຈົ້າຢູ່ໃສຄັ້ງສຸດທ້າຍທີ່ເຈົ້າເຫັນນາງ Lawson?
+
+468
+00:30:16,000 --> 00:30:18,100
+[DR. PALEY]
+We had dinner at a restaurant.
+ພວກເຮົາກິນອາຫານຄໍ່າຢູ່ຮ້ານອາຫານ.
+
+469
+00:30:18,600 --> 00:30:24,600
+[DULANEY]
+Isn't it true that later that night you tried to force yourself on Miss Lawson in the parking lot?
+ມັນບໍ່ແມ່ນຄວາມຈິງບໍວ່າໃນຕອນແລງນັ້ນເຈົ້າພະຍາຍາມບັງຄັບຕົວເອງຕໍ່ນາງ
+Lawson ໃນບ່ອນຈອດລົດ?
+
+470
+00:30:25,100 --> 00:30:27,100
+[DR. PALEY]
+No.
+ບໍ່
+
+471
+00:30:27,600 --> 00:30:30,750
+[DULANEY]
+You didn't grab her and try to kiss her?
+ເຈົ້າບໍ່ໄດ້ຈັບນາງແລະພະຍາຍາມຈູບນາງບໍ?
+
+472
+00:30:31,250 --> 00:30:33,250
+[DR. PALEY]
+No.
+ບໍ່
+
+473
+00:30:33,750 --> 00:30:39,700
+[DULANEY]
+If necessary I can bring in the valet parking attendant and two customers who witnessed the occurrence.
+ຖ້າຈໍາເປັນຂ້ອຍສາມາດເອົາຜູ້ຮັບຜິດຊອບບ່ອນຈອດລົດແລະລູກຄ້າສອງຄົນທີ່ເຫັນເຫດການໄດ້
+.
+
+474
+00:30:40,200 --> 00:30:43,700
+[DR. PALEY]
+Well -- as I remember it, we had an argument.
+ດີ - ດັ່ງທີ່ຂ້ອຍຈື່ໄວ້, ພວກເຮົາມີການໂຕ້ຖຽງກັນ.
+
+475
+00:30:44,200 --> 00:30:50,200
+[DULANEY]
+And the argument was about the fact that you wanted to be romantically involved and she did not.
+ແລະການໂຕ້ຖຽງແມ່ນກ່ຽວກັບຄວາມຈິງທີ່ວ່າເຈົ້າຢາກມີສ່ວນຮ່ວມທາງຄວາມຮັກແລະນາງບໍ່ໄດ້ເຮັດ
+.
+
+476
+00:30:50,700 --> 00:30:52,700
+[DR. PALEY]
+Yes.
+ແມ່ນແລ້ວ.
+
+477
+00:30:53,200 --> 00:30:56,350
+[DULANEY]
+And after that didn't you continuously harass Miss Lawson?
+ແລະຫຼັງຈາກນັ້ນເຈົ້າບໍ່ໄດ້ລໍາບາກນາງ Lawson ຢ່າງຕໍ່ເນື່ອງບໍ?
+
+478
+00:30:56,850 --> 00:30:58,850
+[DR. PALEY]
+No.
+ບໍ່
+
+479
+00:30:59,350 --> 00:31:05,350
+[DULANEY]
+Your Honor, this is a tape from Miss Lawson's answering machine.  I would like to play it now.
+ເຈົ້າຫນ້າທີ່, ນີ້ແມ່ນເທບຈາກເຄື່ອງຕອບຂອງນາງ
+Lawson ໄດ້. ຂ້ອຍຢາກຫຼິ້ນມັນດຽວນີ້.
+
+480
+00:31:05,850 --> 00:31:11,850
+[CARDENAS]
+Objection.  Your Honor, we don't know where this tape is from.  Who made it -- or under what circumstances it was made.
+ການຄັດຄ້ານ. ເຈົ້າຫນ້າທີ່, ພວກເຮົາບໍ່ຮູ້ວ່າເທບນີ້ມາຈາກໃສ
+. ໃຜເຮັດມັນ - ຫຼືພາຍໃຕ້ສະພາບການໃດມັນຖືກເຮັດ.
+
+481
+00:31:12,350 --> 00:31:18,350
+[DULANEY]
+These are reports from two independent audio labs.  They each state that the voices were recorded over the phone and that no alterations have been made.
+ນີ້ແມ່ນບົດລາຍງານຈາກຫ້ອງທົດລອງສຽງອິດສະຫຼະສອງຫ້ອງ.
+ພວກເຂົາແຕ່ລະຄົນລະບຸວ່າສຽງໄດ້ຖືກບັນທຶກຜ່ານໂທລະສັບແລະບໍ່ມີການປ່ຽນແປງໃດໆທີ່ຖືກເຮັດ.
+
+482
+00:31:18,850 --> 00:31:20,850
+[JUDGE BURNHAM]
+I'll allow it.
+ຂ້ອຍຈະອະນຸຍາດໃຫ້ມັນ.
+
+483
+00:31:21,350 --> 00:31:27,350
+[DR. PALEY'S VOICE]
+Rebecca -- I know you're there, Godammit.  Answer the phone, you bitch!  You can't treat me like this!
+ຣີເບກາ - ຂ້ອຍຮູ້ວ່າເຈົ້າຢູ່ບ່ອນນັ້ນ, ໂກດາມມິດ. ຕອບໂທລະສັບ
+, ເຈົ້າໂຊກຮ້າຍ! ເຈົ້າບໍ່ສາມາດປິ່ນປົວຂ້ອຍແບບນີ້ໄດ້!
+
+484
+00:31:27,850 --> 00:31:33,850
+[DR. PALEY'S VOICE]
+You want to play games with me?  Who the fuck do you think you are? Okay - - we'll play.  You'll be sorry.
+ເຈົ້າຢາກຫຼິ້ນເກມກັບຂ້ອຍບໍ? ເຈົ້າຄິດວ່າເຈົ້າເປັນໃຜ
+? ດີ - - ພວກເຮົາຈະຫຼິ້ນ. ເຈົ້າຈະເສຍໃຈ.
+
+485
+00:31:34,350 --> 00:31:36,350
+[DULANEY]
+You'll be sorry?
+ເຈົ້າຈະເສຍໃຈບໍ?
+
+486
+00:31:36,850 --> 00:31:38,850
+[DR. PALEY]
+I was angry.
+ຂ້ອຍໂຊກຮ້າຍ.
+
+487
+00:31:39,350 --> 00:31:45,350
+[DULANEY]
+You're still angry, aren't you? Isn't it true that your whole story is nothing more than a vindictive attempt on your behalf to get back at Miss Lawson?
+ເຈົ້າຍັງໂຊກຮ້າຍຢູ່, ແມ່ນບໍ? ມັນບໍ່ເປັນຄວາມຈິງບໍວ່າເລື່ອງທັງ ຫມົດ
+ຂອງທ່ານແມ່ນບໍ່ມີຫຍັງຫຼາຍກ່ວາຄວາມພະຍາຍາມແກ້ແຄ້ນໃນນາມຂອງທ່ານເພື່ອຕອບໂຕ້ກັບນາງ Lawson?
+
+488
+00:31:45,850 --> 00:31:48,300
+[DR. PALEY]
+No -- she asked me about cocaine.
+ບໍ່ - ນາງຖາມຂ້ອຍກ່ຽວກັບໂກເກິນ.
+
+489
+00:31:48,800 --> 00:31:50,800
+[DULANEY]
+I suggest it never happened.
+ຂ້ອຍແນະນໍາວ່າມັນບໍ່ເຄີຍເກີດຂຶ້ນເລີຍ.
+
+490
+00:31:51,300 --> 00:31:54,100
+[DR. PALEY]
+You can suggest anything you want. It happened.
+ເຈົ້າສາມາດແນະ ນໍາ ທຸກຢ່າງທີ່ທ່ານຕ້ອງການໄດ້. ມັນເກີດຂຶ້ນ.
+
+491
+00:31:54,600 --> 00:31:56,600
+[DULANEY]
+No further questions.
+ບໍ່ມີຄໍາຖາມອີກຕໍ່ໄປ.
+
+492
+00:31:57,100 --> 00:32:02,000
+[DR. PALEY]
+I may have been infatuated with her - - but I wouldn't perjure myself.
+ຂ້ອຍອາດຈະມີຄວາມຮັກກັບນາງ - - ແຕ່ຂ້ອຍຈະບໍ່ສາບານຕົວຕົວເອງ.
+
+493
+00:32:02,500 --> 00:32:04,500
+[DULANEY]
+That's all Dr. Paley.
+ນັ້ນແມ່ນທັງຫມົດດຣ ປາລີ.
+
+494
+00:32:05,000 --> 00:32:11,000
+[CLOSE ON DULANEY - LATER]
+He is asleep, laying on his back -- the sheets pulled up to his waist.  LIGHTNING FLASHES outside -- a CLAP of THUNDER follows. He stirs and wakes up.
+ລາວນອນຢູ່, ນອນຢູ່ເບື້ອງຫຼັງຂອງລາວ - ແຜ່ນຜ້າທີ່ດຶງຂຶ້ນເຖິງແອວຂອງລາວ.
+ແສງສະຫວ່າງແຊກແຊງຢູ່ພາຍນອກ - ສຽງໂຫວດຂອງ Thunder ຕິດຕາມ. ລາວກະຕຸ້ນແລະຕື່ນຕົວ.
+
+495
+00:32:11,500 --> 00:32:13,600
+[DULANEY]
+What the...  What are you doing?
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+496
+00:32:14,100 --> 00:32:16,100
+[DULANEY]
+Rebecca -- take these off.
+ຣີເບກາ - ເອົາສິ່ງເຫຼົ່ານີ້ອອກ.
+
+497
+00:32:16,600 --> 00:32:18,600
+[REBECCA]
+Tonight we open new doors.
+ມື້ນີ້ພວກເຮົາຈະເປີດປະຕູໃຫມ່.
+
+498
+00:32:19,100 --> 00:32:21,200
+[DULANEY]
+What are you going you doing?
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+499
+00:32:21,700 --> 00:32:23,700
+[REBECCA]
+Are you scared?
+ເຈົ້າຢ້ານບໍ?
+
+500
+00:32:24,200 --> 00:32:29,100
+[REBECCA]
+I love you, Frank.  I love your strength -- be strong for me now.
+ຂ້ອຍຮັກເຈົ້າແຟຣນກ໌. ຂ້ອຍຮັກຄວາມເຂັ້ມແຂງຂອງເຈົ້າ
+- ຈົ່ງແຂງແຮງ ສໍາ ລັບຂ້ອຍດຽວນີ້.
+
+501
+00:32:29,600 --> 00:32:31,600
+[DULANEY]
+Rebecca -- please.  No more.
+ຣີເບກາ - ກະລຸນາ. ບໍ່ອີກຕໍ່ໄປ.
+
+502
+00:32:32,100 --> 00:32:38,100
+[REBECCA]
+I told you in the beginning that it was my way.  My way can be many things -- pleasure or pain.
+ຂ້ອຍບອກເຈົ້າໃນຕອນເລີ່ມຕົ້ນວ່າມັນເປັນວິທີຂອງຂ້ອຍ.
+ວິທີຂອງຂ້ອຍສາມາດເປັນຫຼາຍສິ່ງຫຼາຍຢ່າງ - ຄວາມສຸກຫຼືຄວາມເຈັບປວດ.
+
+503
+00:32:38,600 --> 00:32:44,600
+[REBECCA]
+You see how life is, Frank?  We judge things.  We look at things from the outside and assume we know what's on the inside.
+ເຈົ້າເຫັນຊີວິດເປັນແນວໃດ, ແຟຣນກ໌? ພວກເຮົາຕັດສິນໃຈສິ່ງຕ່າງໆ.
+ພວກເຮົາເບິ່ງສິ່ງຕ່າງໆຈາກພາຍນອກແລະຄິດວ່າພວກເຮົາຮູ້ສິ່ງທີ່ຢູ່ໃນພາຍໃນ.
+
+504
+00:32:45,100 --> 00:32:50,700
+[REBECCA]
+Water.  But you assumed it was vinegar -- because you were only looking at the outside.
+ນ້ ໍາ. ແຕ່ເຈົ້າຄິດວ່າມັນເປັນຫວານ -
+ເພາະວ່າເຈົ້າພຽງແຕ່ເບິ່ງທາງນອກເທົ່ານັ້ນ.
+
+505
+00:32:51,200 --> 00:32:57,200
+[CLOSE ON DULANEY]
+he stares at the ceiling -- his mind a maze of confusion.  Soon the power of her touch fills him -- overpowering him.  His eyes close.  The pain that only moments ago filled his body is replaced with pleasure.
+ລາວເບິ່ງຊັ້ນເທິງ - ຈິດໃຈຂອງລາວເປັນລໍາບາກຂອງການສັບສົນ. ໃນໄວໆນີ້ພະລັງຂອງການຈັບຂອງນາງເຕັມໄປດ້ວຍລາວ -
+ມີອໍານາດເກີນໄປລາວ. ຕາຂອງລາວປິດ. ຄວາມເຈັບປວດທີ່ພຽງແຕ່ຊົ່ວຄາວກ່ອນທີ່ເຕັມຮ່າງກາຍຂອງລາວຖືກປ່ຽນແທນດ້ວຍຄວາມສຸກ.
+
+506
+00:32:57,700 --> 00:32:59,700
+[SHARON]
+Late night?
+ຕອນແລງບໍ?
+
+507
+00:33:00,200 --> 00:33:02,650
+[DULANEY]
+Yeah -- what are you doing up?
+ແມ່ນແລ້ວ - ເຈົ້າຕື່ນຢູ່ຫຍັງ?
+
+508
+00:33:03,150 --> 00:33:05,150
+[SHARON]
+We have to talk.
+ພວກເຮົາຕ້ອງເວົ້າກັນ.
+
+509
+00:33:05,650 --> 00:33:07,650
+[DULANEY]
+What's wrong?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+510
+00:33:08,150 --> 00:33:10,950
+[SHARON]
+That's what I was hoping you'd tell me.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຫວັງວ່າເຈົ້າຈະບອກຂ້ອຍ.
+
+511
+00:33:11,450 --> 00:33:14,600
+[DULANEY]
+Sharon, it's late.  Can we get to the point?
+ແຊຣອນ, ມັນຊ້າແລ້ວ. ພວກເຮົາສາມາດໄປຫາຈຸດເດັ່ນໄດ້ບໍ?
+
+512
+00:33:15,100 --> 00:33:17,100
+[SHARON]
+Where have you been?
+ເຈົ້າຢູ່ໃສ?
+
+513
+00:33:17,600 --> 00:33:20,750
+[DULANEY]
+Working.  Charlie and I were going over some statements.
+ເຮັດວຽກ. ຂ້ອຍແລະແຊລລີ ກໍາ ລັງພິຈາລະນາ ຄໍາ ຖະແຫຼງບາງຢ່າງ.
+
+514
+00:33:21,250 --> 00:33:26,150
+[SHARON]
+Charlie called at eleven thirty looking for you.  You were with her, weren't you?
+ແຊລລີໂທຫາເວລາສິບຫນຶ່ງສິບສາມ ກໍາ
+ລັງຊອກຫາເຈົ້າ. ເຈົ້າຢູ່ກັບນາງ, ແມ່ນບໍ?
+
+515
+00:33:26,650 --> 00:33:28,650
+[DULANEY]
+Yes.
+ແມ່ນແລ້ວ.
+
+516
+00:33:29,150 --> 00:33:31,250
+[SHARON]
+Why did you lie to me?
+ເຈົ້າຕົວະຂ້ອຍເປັນຫຍັງ?
+
+517
+00:33:31,750 --> 00:33:34,900
+[DULANEY]
+Because I knew you'd think exactly what you're thinking.
+ເພາະຂ້ອຍຮູ້ວ່າເຈົ້າຈະຄິດຕາມທີ່ເຈົ້າຄິດ.
+
+518
+00:33:35,400 --> 00:33:39,600
+[SHARON]
+This isn't a courtroom.  Don't try to turn this around on me.
+ນີ້ແມ່ນບໍ່ແມ່ນຫ້ອງການສານ. ຢ່າພະຍາຍາມຫັນເລື່ອງນີ້ກັບຂ້ອຍ.
+
+519
+00:33:40,100 --> 00:33:42,100
+[DULANEY]
+I'm not.
+ຂ້ອຍບໍ່ແມ່ນ.
+
+520
+00:33:42,600 --> 00:33:44,700
+[SHARON]
+You're sleeping with her, aren't you?
+ເຈົ້າ ກໍາ ລັງນອນກັບນາງ, ແມ່ນບໍ?
+
+521
+00:33:45,200 --> 00:33:47,200
+[DULANEY]
+No.
+ບໍ່
+
+522
+00:33:47,700 --> 00:33:53,700
+[SHARON]
+It's bad enough that you are.  It's even worse that you can stand here and lie to me.
+ມັນບໍ່ດີພໍທີ່ເຈົ້າເປັນ.
+ມັນຮ້າຍແຮງກວ່າເກົ່າທີ່ເຈົ້າສາມາດຢືນຢູ່ບ່ອນນີ້ແລະຕົວະຂ້ອຍໄດ້.
+
+523
+00:33:54,200 --> 00:33:56,200
+[DULANEY]
+Sharon...
+ແຊຣອນ...
+
+524
+00:33:56,700 --> 00:34:02,700
+[SHARON]
+You bastard!  Do you think I'm some kind of idiot?  That I don't have fuckin' eyes.  I see.  I feel.  I hurt.
+ເຈົ້າໂຊກຮ້າຍ! ເຈົ້າຄິດວ່າຂ້ອຍເປັນຄົນໂງ່ບາງຊະນິດບໍ?
+ວ່າຂ້ອຍບໍ່ມີຕາແມ. ຂ້ອຍເຫັນ. ຂ້ອຍຮູ້ສຶກ. ຂ້ອຍເຈັບປວດ.
+
+525
+00:34:03,200 --> 00:34:06,700
+[CARDENAS]
+Mrs. Crawford, you were Mr. Marsh's maid for nine years?
+ທ່ານນາງ ຄຣາວຟອດ, ທ່ານເປັນຜູ້ຮັບໃຊ້ຂອງທ່ານມາສສ໌ເປັນເວລາເກົ້າປີບໍ?
+
+526
+00:34:07,200 --> 00:34:09,200
+[ESTER]
+Yes.
+ແມ່ນແລ້ວ.
+
+527
+00:34:09,700 --> 00:34:12,500
+[CARDENAS]
+Did Miss Lawson and Mr. Marsh ever argue?
+ນາງ Lawson ແລະ ທ້າວ Marsh ເຄີຍໂຕ້ຖຽງກັນບໍ?
+
+528
+00:34:13,000 --> 00:34:15,000
+[ESTER]
+Like cats and dogs.
+ຄືກັບແມວແລະຫມາ.
+
+529
+00:34:15,500 --> 00:34:17,500
+[CARDENAS]
+What did they argue about?
+ພວກເຂົາໄດ້ໂຕ້ຖຽງກັນກ່ຽວກັບຫຍັງ?
+
+530
+00:34:18,000 --> 00:34:24,000
+[ESTER]
+You name it -- they argued about it. Mr. Marsh tried his best to keep her happy -- but it seemed that no matter what he did it was never enough for her.
+ເຈົ້າຕັ້ງຊື່ມັນ - ພວກເຂົາໂຕ້ຖຽງກ່ຽວກັບມັນ. ທ້າວມາສ໌ພະຍາຍາມທຸກຢ່າງເພື່ອເຮັດໃຫ້ນາງມີຄວາມສຸກ
+- ແຕ່ມັນເບິ່ງຄືວ່າບໍ່ວ່າລາວຈະເຮັດຫຍັງມັນບໍ່ເຄີຍພຽງພໍ ສໍາ ລັບນາງ.
+
+531
+00:34:24,500 --> 00:34:27,300
+[CARDENAS]
+Did they argue the day before he died?
+ພວກເຂົາໄດ້ໂຕ້ຖຽງກັນມື້ກ່ອນລາວຕາຍບໍ?
+
+532
+00:34:27,800 --> 00:34:33,800
+[ESTER]
+Well -- he died on a Sunday and I have the weekends off -- but they were ripping at each other with both barrels Friday afternoon.
+ດີ - ລາວຕາຍໃນວັນອາທິດແລະຂ້ອຍພັກຜ່ອນໃນທ້າຍອາທິດ - ແຕ່ພວກເຂົາ
+ກໍາ ລັງແຕກກັນແລະກັນດ້ວຍຖັງທັງສອງໃນຕອນບ່າຍວັນສຸກ.
+
+533
+00:34:34,300 --> 00:34:36,750
+[CARDENAS]
+What was the nature of the argument?
+ການໂຕ້ຖຽງກັນແມ່ນຫຍັງ?
+
+534
+00:34:37,250 --> 00:34:39,250
+[ESTER]
+Sex.
+ເພດສໍາພັນ.
+
+535
+00:34:39,750 --> 00:34:41,750
+[CARDENAS]
+Could you be more specific?
+ເຈົ້າສາມາດຊີ້ແຈງໄດ້ບໍ?
+
+536
+00:34:42,250 --> 00:34:48,250
+[ESTER]
+She was calling Mr. Marsh an old man -- making discourteous insinuations about his sexual abilities.  She said that she had needs and that if he couldn't fulfill them she'd find someone who could.
+ນາງ ກໍາ ລັງເອີ້ນທ່ານມາສ໌ເປັນຜູ້ຊາຍເຖົ້າ - ເຮັດການຊີ້ແຈງທີ່ບໍ່ສົມກຽດກ່ຽວກັບຄວາມສາມາດທາງເພດຂອງລາວ
+. ນາງເວົ້າວ່ານາງມີຄວາມຕ້ອງການແລະຖ້າລາວບໍ່ສາມາດຕອບສະ ຫນອງ ພວກເຂົານາງຈະຊອກຫາຄົນໃດທີ່ສາມາດເຮັດໄດ້.
+
+537
+00:34:48,750 --> 00:34:51,550
+[CARDENAS]
+Did you ever see Mr. Marsh use cocaine?
+ເຈົ້າເຄີຍເຫັນທ່ານມາສ໌ໃຊ້ໂກເກິນບໍ?
+
+538
+00:34:52,050 --> 00:34:54,050
+[ESTER]
+No -- never.
+ບໍ່ - ບໍ່ເຄີຍ.
+
+539
+00:34:54,550 --> 00:34:56,550
+[CARDENAS]
+Your witness.
+ພະຍານຂອງທ່ານ.
+
+540
+00:34:57,050 --> 00:34:59,500
+[DULANEY]
+Did you go to college, Mrs. Crawford?
+ເຈົ້າໄປວິທະຍາໄລບໍ, ທ່ານນາງຄຣາວຟອດ?
+
+541
+00:35:00,000 --> 00:35:02,000
+[ESTER]
+No.
+ບໍ່
+
+542
+00:35:02,500 --> 00:35:04,500
+[DULANEY]
+High school?
+ໂຮງຮຽນມັດທະຍົມບໍ?
+
+543
+00:35:05,000 --> 00:35:07,000
+[ESTER]
+No.
+ບໍ່
+
+544
+00:35:07,500 --> 00:35:13,450
+[CARDENAS]
+Your Honor, I fail to see what Mrs Crawford's educational background has to do with this case.
+ເຈົ້າຫນ້າທີ່, ຂ້ອຍບໍ່ສາມາດເຫັນວ່າພື້ນຖານການສຶກສາຂອງທ່ານນາງ
+ຄຣາວຟອດກ່ຽວຂ້ອງກັບກໍລະນີນີ້ແນວໃດ.
+
+545
+00:35:13,950 --> 00:35:17,450
+[DULANEY]
+I was just about to make my point, Your Honor.
+ຂ້ອຍ ກໍາ ລັງຈະສະແດງຄວາມເຫັນຂອງຂ້ອຍ, ເຈົ້າຫນ້າທີ່.
+
+546
+00:35:17,950 --> 00:35:19,950
+[JUDGE BURNHAM]
+Do it quickly, Mr. Dulaney.
+ເຮັດມັນໄວໆ, ທ້າວດູລາເນີ.
+
+547
+00:35:20,450 --> 00:35:24,650
+[DULANEY]
+"Discourteous insinuations about his sexual abilities."  Who told you to say that?
+ການຊີ້ແຈງທີ່ບໍ່ເປັນກຽດກ່ຽວກັບຄວາມສາມາດທາງເພດຂອງລາວ
+. ໃຜບອກເຈົ້າໃຫ້ເວົ້າແບບນັ້ນ?
+
+548
+00:35:25,150 --> 00:35:27,950
+[DULANEY]
+Did Mr. Troxell help you with that phrase?
+ທ້າວ ທຣັອກເຊລ ໄດ້ຊ່ວຍເຈົ້າກັບ ຄໍາ ເວົ້ານັ້ນບໍ?
+
+549
+00:35:28,450 --> 00:35:30,450
+[ESTER]
+I heard him say it.
+ຂ້ອຍໄດ້ຍິນລາວເວົ້າມັນ.
+
+550
+00:35:30,950 --> 00:35:33,750
+[DULANEY]
+Then -- those are not your own words?
+ຫຼັງຈາກນັ້ນ - ນັ້ນບໍ່ແມ່ນຄໍາເວົ້າຂອງທ່ານເອງບໍ?
+
+551
+00:35:34,250 --> 00:35:36,250
+[ESTER]
+No.
+ບໍ່
+
+552
+00:35:36,750 --> 00:35:40,600
+[DULANEY]
+What else did the District Attorney's Office tell you to say?
+ເຈົ້າຫນ້າທີ່ໄອຍະການເຂດບອກເຈົ້າໃຫ້ເວົ້າຫຍັງອີກ?
+
+553
+00:35:41,100 --> 00:35:47,100
+[CARDENAS]
+Objection, Your Honor.  The fact that Mrs. Crawford heard Mr. Troxell reconstruct her sentence and decided to rephrase her words in a more intelligent manner for the court doesn't mean the incident never happened.
+ການຄັດຄ້ານ, ເຈົ້າຫນ້າທີ່. ຄວາມຈິງທີ່ວ່າທ່ານນາງຄຣາວຟອດໄດ້ຍິນທ່ານທຣັອກເຊລສ້າງຄືນໂທດຂອງນາງແລະຕັດສິນໃຈປ່ຽນຄໍາເວົ້າຂອງນາງໃນວິທີທີ່ສະຫຼາດກວ່າ
+ສໍາ ລັບສານບໍ່ໄດ້ ຫມາຍ ຄວາມວ່າເຫດການບໍ່ເຄີຍເກີດຂຶ້ນເລີຍ.
+
+554
+00:35:47,600 --> 00:35:51,450
+[DULANEY]
+I'm just curious to see if Mr. Troxell reconstructed anything else.
+ຂ້ອຍພຽງແຕ່ຢາກຮູ້ວ່າທ່ານທຣັອກເຊລ ໄດ້ສ້າງສິ່ງອື່ນຄືນບໍ.
+
+555
+00:35:51,950 --> 00:35:53,950
+[CARDENAS]
+Your Honor -- please!
+ເຈົ້າຫນ້າທີ່ - ກະລຸນາ!
+
+556
+00:35:54,450 --> 00:35:57,950
+[JUDGE BURNHAM]
+I'll see both of you in my chambers. Right now.
+ຂ້ອຍຈະເຫັນເຈົ້າທັງສອງໃນຫ້ອງຂອງຂ້ອຍ. ດຽວນີ້.
+
+557
+00:35:58,450 --> 00:36:04,450
+[JUDGE BURNHAM]
+Mr. Dulaney, before you cast aspersions on the District Attorney's Office by suggesting they've coaxed this witness to say things that aren't true -- you better have more than a hunch.  Do you?
+ທ່ານ ດູລາເນີ, ກ່ອນທີ່ທ່ານຈະຖິ້ມການກ່າວຫາຕໍ່ຫ້ອງການໄອຍະການເຂດໂດຍການແນະ ນໍາ
+ວ່າພວກເຂົາໄດ້ຊັກຊວນພະຍານຄົນນີ້ໃຫ້ເວົ້າສິ່ງທີ່ບໍ່ແມ່ນຄວາມຈິງ - ເຈົ້າດີກວ່າຈະມີຫຼາຍກ່ວາຄວາມຮູ້ສຶກ. ເຈົ້າເຮັດບໍ?
+
+558
+00:36:04,950 --> 00:36:06,950
+[DULANEY]
+No, Your Honor.
+ບໍ່, ເຈົ້າຫນ້າທີ່.
+
+559
+00:36:07,450 --> 00:36:13,450
+[JUDGE BURNHAM]
+Maybe you don't know what it's like where Mrs. Crawford comes from -- but I do.  I came from a neighborhood just like hers.  This is a whole other world for her.  She's a poor working woman who has been thrust into a room full of highly educated and mostly unsympathetic people.  So, she puts on her best dress, fixes her hair and tries to present herself as intelligently as possible.  Being poor and having pride is not a crime, Mr. Dulaney -- and before you attempt to impeach another witness' testimony in my courtroom -- your foundations better be based on something other than semantics.
+ບາງທີເຈົ້າບໍ່ຮູ້ວ່າມັນເປັນແນວໃດຈາກບ່ອນທີ່ທ່ານນາງຄຣາວຟອດມາຈາກ - ແຕ່ຂ້ອຍເຮັດ. ຂ້ອຍມາຈາກບ້ານໃກ້ຄຽງຄືກັບຂອງນາງ. ນີ້ແມ່ນໂລກອື່ນ ຫມົດ ສໍາ ລັບນາງ. ນາງເປັນແມ່ຍິງເຮັດວຽກທີ່ທຸກຍາກທີ່ຖືກຖິ້ມເຂົ້າໄປໃນຫ້ອງທີ່ເຕັມໄປດ້ວຍຄົນທີ່ມີການສຶກສາສູງແລະສ່ວນໃຫຍ່ບໍ່ເຫັນໃຈ
+. ສະນັ້ນ, ນາງໃສ່ຊຸດທີ່ດີທີ່ສຸດຂອງນາງ, ປັບຜົມແລະພະຍາຍາມສະເຫນີຕົວເອງຢ່າງສະຫຼາດທີ່ສຸດທີ່ເປັນໄປໄດ້. ການເປັນທຸກຍາກແລະມີຄວາມພູມໃຈບໍ່ແມ່ນອາຊະຍາກໍາ, ທ້າວ Dulaney - ແລະກ່ອນທີ່ທ່ານພະຍາຍາມ
+
+560
+00:36:13,950 --> 00:36:19,200
+[CARDENAS]
+I'm surprised you can walk after the way Burnham chewed your ass out this afternoon.
+ຂ້ອຍແປກໃຈວ່າເຈົ້າສາມາດຍ່າງໄດ້ຕາມວິທີທີ່ບຸນຮາມໄດ້ກັດຫລັງເຈົ້າໃນຕອນບ່າຍນີ້
+.
+
+561
+00:36:19,700 --> 00:36:21,700
+[DULANEY]
+I've got work to do.
+ຂ້ອຍມີວຽກເຮັດຢູ່.
+
+562
+00:36:22,200 --> 00:36:25,000
+[CARDENAS]
+Hey -- the bell's sounded.  It's between rounds.
+ເຮ້ - ກະທູ້ໄດ້ສຽງ. ມັນຢູ່ລະຫວ່າງຮອບ.
+
+563
+00:36:25,500 --> 00:36:27,500
+[DULANEY]
+I didn't hear it.
+ຂ້ອຍບໍ່ໄດ້ຍິນມັນ.
+
+564
+00:36:28,000 --> 00:36:34,000
+[CARDENAS]
+What's happening to you, Frank? You're acting like you're on trial here.  This has become personal to you.
+ເກີດຫຍັງຂຶ້ນກັບເຈົ້າ, ແຟຣນກ໌? ເຈົ້າ ກໍາ ລັງປະຕິບັດຄືກັບວ່າເຈົ້າ
+ກໍາ ລັງຖືກດໍາເນີນຄະດີຢູ່ນີ້. ນີ້ແມ່ນກາຍເປັນສ່ວນຕົວ ສໍາ ລັບເຈົ້າ.
+
+565
+00:36:34,500 --> 00:36:36,500
+[DULANEY]
+Back off, John.
+ກັບຄືນໄປບ່ອນ, ຈອນ.
+
+566
+00:36:37,000 --> 00:36:39,100
+[CARDENAS]
+You're sleeping with her, aren't you?
+ເຈົ້າ ກໍາ ລັງນອນກັບນາງ, ແມ່ນບໍ?
+
+567
+00:36:39,600 --> 00:36:41,600
+[DULANEY]
+That's ridiculous.
+ນັ້ນແມ່ນໂຊກຮ້າຍ.
+
+568
+00:36:42,100 --> 00:36:48,100
+[CARDENAS]
+I'm talking to you as a friend now. Don't ruin your life, your career for her.  She'll spit you out when this is over.
+ຂ້ອຍ ກໍາ ລັງເວົ້າກັບເຈົ້າເປັນເພື່ອນດຽວນີ້. ຢ່າ ທໍາ ລາຍຊີວິດຂອງທ່ານ
+, ອາຊີບຂອງທ່ານ ສໍາ ລັບນາງ. ນາງຈະຖອກທ່ານອອກເມື່ອສິ່ງນີ້ສິ້ນສຸດລົງ.
+
+569
+00:36:48,600 --> 00:36:51,050
+[DULANEY]
+You don't know what you're talking about.
+ເຈົ້າບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ.
+
+570
+00:36:51,550 --> 00:36:57,550
+[CARDENAS]
+Really?  What does an attorney speak to his client about at her house until three o'clock in the morning?
+ແທ້ຈິງບໍ?
+ທະນາຍຄວາມເວົ້າຫຍັງກັບລູກຄ້າຂອງລາວຢູ່ເຮືອນຂອງນາງຈົນຮອດເວລາສາມໂມງເຊົ້າ?
+
+571
+00:36:58,050 --> 00:37:00,050
+[DULANEY]
+You've been following me?
+ເຈົ້າ ກໍາ ລັງຕິດຕາມຂ້ອຍບໍ?
+
+572
+00:37:00,550 --> 00:37:04,750
+[CARDENAS]
+Her.  It's an obvious move.  I'm building a case against her, remember?
+ນາງ. ມັນເປັນການເຄື່ອນໄຫວທີ່ແນ່ນອນ.
+ຂ້ອຍ ກໍາ ລັງສ້າງກໍລະນີຕໍ່ນາງ, ຈື່ບໍ?
+
+573
+00:37:05,250 --> 00:37:11,250
+[CARDENAS]
+If your head wasn't up your ass you would have thought of it too.  You're losing perspective.  Get out while you can -- before she takes you down with her.
+ຖ້າຫົວຂອງທ່ານບໍ່ໄດ້ຢູ່ໃນບາກຂອງທ່ານທ່ານຈະຄິດກ່ຽວກັບມັນເຊັ່ນກັນ. ເຈົ້າ ກໍາ
+ລັງສູນເສຍທັດສະນະ. ອອກໄປໃນຂະນະທີ່ເຈົ້າສາມາດ - ກ່ອນທີ່ນາງຈະເອົາເຈົ້າລົງກັບນາງ.
+
+574
+00:37:11,750 --> 00:37:14,550
+[BIGGS]
+I've been waiting for you to get back.
+ຂ້ອຍ ກໍາ ລັງລໍຖ້າເຈົ້າກັບມາ.
+
+575
+00:37:15,050 --> 00:37:17,150
+[DULANEY]
+You got something on the coke?
+ເຈົ້າມີຫຍັງກ່ຽວກັບໂກກາບໍ?
+
+576
+00:37:17,650 --> 00:37:19,750
+[BIGGS]
+No -- but I got something.
+ບໍ່ - ແຕ່ຂ້ອຍມີບາງສິ່ງບາງຢ່າງ.
+
+577
+00:37:20,250 --> 00:37:23,750
+[BIGGS]
+During lunch I was watching some of Marsh's home videos.
+ໃນລະຫວ່າງອາຫານທ່ຽງຂ້ອຍ ກໍາ ລັງເບິ່ງວິດີໂອເຮືອນຂອງມາສ໌ບາງຢ່າງ.
+
+578
+00:37:24,250 --> 00:37:29,850
+[BIGGS]
+He was really into recording this stuff.  The D.A.'s office found a box full of tapes.
+ລາວມັກບັນທຶກສິ່ງນີ້ແທ້ໆ.
+ຫ້ອງການໄອຍະການໄດ້ພົບກ່ອງທີ່ເຕັມໄປດ້ວຍເທບ.
+
+579
+00:37:30,350 --> 00:37:33,150
+[BIGGS]
+This girl has really got some moves, huh?
+ເດັກຍິງຄົນນີ້ມີຄວາມເຄື່ອນໄຫວບາງຢ່າງແທ້ໆ, ແມ່ນບໍ?
+
+580
+00:37:33,650 --> 00:37:39,600
+[DULANEY]
+If you want to get your kicks go to a video store and rent a porno movie.
+ຖ້າເຈົ້າຢາກມ່ວນຊື່ນໄປຮ້ານຂາຍວິດີໂອແລະເຊົ່າຮູບເງົາໂປຣນໂກ້.
+
+581
+00:37:40,100 --> 00:37:42,900
+[BIGGS]
+This tape was recorded over an existing recording.
+ເທບນີ້ຖືກບັນທຶກໄວ້ເທິງການບັນທືກທີ່ມີຢູ່ແລ້ວ.
+
+582
+00:37:43,400 --> 00:37:45,400
+[DULANEY]
+Over what?
+ກ່ຽວກັບຫຍັງ?
+
+583
+00:37:45,900 --> 00:37:51,900
+[BIGGS]
+I would have missed it -- but the phone rang and I let it play while I talked.  It looks like blank tape -- but it isn't.  It's been erased without any input signal coming in.
+ຂ້ອຍຈະພາດມັນ - ແຕ່ໂທລະສັບໄດ້ໂທແລະຂ້ອຍປ່ອຍໃຫ້ມັນຫຼິ້ນໃນຂະນະທີ່ຂ້ອຍເວົ້າ.
+ມັນເບິ່ງຄືວ່າເປັນເທບສີຂາວ - ແຕ່ມັນບໍ່ແມ່ນ. ມັນໄດ້ຖືກລຶບອອກໂດຍບໍ່ມີສັນຍານເຂົ້າໃດໆເຂົ້າມາ.
+
+584
+00:37:52,400 --> 00:37:56,250
+[DULANEY]
+So, what good is it to us if it's been erased?
+ສະນັ້ນ, ມັນມີປະໂຫຍດຫຍັງຕໍ່ພວກເຮົາຖ້າມັນຖືກລຶບອອກ?
+
+585
+00:37:56,750 --> 00:38:02,750
+[BIGGS]
+It's very good -- because when the D.A's office saw it they assumed it was the end of the tape, otherwise they would have buried it.
+ມັນດີຫຼາຍ - ເພາະວ່າເມື່ອຫ້ອງການໄອຍະການເຫັນມັນພວກເຂົາຄິດວ່າມັນເປັນຕອນທ້າຍຂອງເທບ
+, ຖ້າບໍ່ດັ່ງນັ້ນພວກເຂົາຈະຝັງມັນ.
+
+586
+00:38:03,250 --> 00:38:05,250
+[DULANEY]
+Why?
+ເປັນຫຍັງ?
+
+587
+00:38:05,750 --> 00:38:07,850
+[BIGGS]
+Because it hasn't all been erased.
+ເພາະມັນຍັງບໍ່ໄດ້ຖືກລຶບລ້າງທັງ ຫມົດ.
+
+588
+00:38:08,350 --> 00:38:11,500
+[DULANEY]
+Where's the attraction to sleep with someone like that.
+ຄວາມດຶງດູດທີ່ຈະນອນກັບຄົນແບບນັ້ນຢູ່ໃສ.
+
+589
+00:38:12,000 --> 00:38:14,100
+[DULANEY]
+I need to speak with you.
+ຂ້ອຍຕ້ອງເວົ້າກັບເຈົ້າ.
+
+590
+00:38:14,600 --> 00:38:18,800
+[JOANNE]
+I don't think we have anything more to talk about, Mr. Dulaney.
+ຂ້ອຍບໍ່ຄິດວ່າພວກເຮົາມີຫຍັງອີກທີ່ຈະເວົ້າກ່ຽວກັບ, ທ້າວ Dulaney.
+
+591
+00:38:19,300 --> 00:38:21,300
+[DULANEY]
+You were sleeping with Marsh.
+ເຈົ້ານອນກັບມາສ໌.
+
+592
+00:38:21,800 --> 00:38:23,800
+[JOANNE]
+Who told you that?
+ໃຜບອກເຈົ້າເລື່ອງນັ້ນ?
+
+593
+00:38:24,300 --> 00:38:26,300
+[DULANEY]
+He video taped you.
+ລາວໄດ້ຖ່າຍວິດີໂອເຈົ້າ.
+
+594
+00:38:26,800 --> 00:38:28,800
+[JOANNE]
+That bastard!
+ຄົນໂຊກຮ້າຍນັ້ນ!
+
+595
+00:38:29,300 --> 00:38:32,100
+[DULANEY]
+I thought he was a kind, gentle man?
+ຂ້ອຍຄິດວ່າລາວເປັນຜູ້ຊາຍທີ່ໃຈບຸນແລະອ່ອນແອບໍ?
+
+596
+00:38:32,600 --> 00:38:36,800
+[JOANNE]
+Yes, I slept with him but that was a long time ago.
+ແມ່ນແລ້ວ, ຂ້ອຍນອນກັບລາວແຕ່ມັນເປັນເວລາດົນນານແລ້ວ.
+
+597
+00:38:37,300 --> 00:38:43,300
+[DULANEY]
+You're lying.  Marsh was wearing a cast on the tape.  It was right before he went to Chicago and met Miss Lawson.  He dumped you for her, didn't he?
+ເຈົ້າຕົວະ. ມາສ໌ໃສ່ກະດານໃນເທບ. ມັນແມ່ນກ່ອນລາວຈະໄປຊິຄາໂກແລະພົບກັບນາງ
+Lawson. ລາວຖິ້ມເຈົ້າ ສໍາ ລັບນາງ, ແມ່ນບໍ?
+
+598
+00:38:43,800 --> 00:38:45,800
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+599
+00:38:46,300 --> 00:38:52,300
+[DULANEY]
+It must have been horrible.  Having to go there -- seeing them together - - knowing he was sleeping with her in the same bed he did with you.
+ມັນຕ້ອງເປັນທີ່ຮ້າຍແຮງ. ຕ້ອງໄປບ່ອນນັ້ນ - ເຫັນພວກເຂົາຮ່ວມກັນ
+- - ຮູ້ວ່າມັນນອນກັບນາງໃນຕຽງດຽວກັນທີ່ລາວເຮັດກັບເຈົ້າ.
+
+600
+00:38:52,800 --> 00:38:58,800
+[JOANNE]
+I was jealous.  Of course I was hurt. He switched me off like a little toy he was finished playing with.  But I didn't kill him.
+ຂ້ອຍໂຊກຮ້າຍ. ແນ່ນອນວ່າຂ້ອຍເຈັບປວດ.
+ລາວໄດ້ປິດຂ້ອຍຄືກັບເຄື່ອງຫຼິ້ນນ້ອຍໆທີ່ລາວໄດ້ຫຼິ້ນແລ້ວ. ແຕ່ຂ້ອຍບໍ່ໄດ້ຂ້າລາວ.
+
+601
+00:38:59,300 --> 00:39:05,300
+[JOANNE]
+I'm a practical woman Mr. Dulaney. Killing Andrew wasn't in my best interest.  As it is I'm out of a job and I'm not in his will.
+ຂ້ອຍເປັນແມ່ຍິງທີ່ປະຕິບັດງານທ່ານດູລາເນີ. ການຂ້າແອນດຣ໌ບໍ່ແມ່ນຄວາມສົນໃຈທີ່ດີທີ່ສຸດຂອງຂ້ອຍ
+. ໃນຖານະເປັນຂ້ອຍບໍ່ມີວຽກເຮັດງານທໍາແລະຂ້ອຍບໍ່ແມ່ນໃນຄວາມຕ້ອງການຂອງລາວ.
+
+602
+00:39:05,800 --> 00:39:09,300
+[DULANEY]
+Money isn't the only reason people commit murder, Miss Braslow.
+ເງິນບໍ່ແມ່ນເຫດຜົນດຽວທີ່ຄົນເຮັດການຄາດຕະກໍາ, ນາງບຣາສໂລວ.
+
+603
+00:39:09,800 --> 00:39:11,800
+[CARDENAS]
+The State calls Jeffery Roston.
+ລັດໂທຫາເຈຟຣີ ໂຣສຕັນ.
+
+604
+00:39:12,300 --> 00:39:16,850
+[DULANEY]
+Your Honor, I don't see a Mr. Roston listed as a prosecution witness.
+ເຈົ້າຫນ້າທີ່, ຂ້ອຍບໍ່ເຫັນທ່ານ
+ໂຣສຕັນທີ່ຖືກລະບຸໄວ້ເປັນພະຍານການໄອຍະການ.
+
+605
+00:39:17,350 --> 00:39:21,200
+[CARDENAS]
+The State's investigation just uncovered Mr. Roston yesterday afternoon in Chicago.
+ການສືບສວນຂອງລັດຫາກໍ່ຄົ້ນພົບທ່ານ ໂຣສຕັນມື້ວານນີ້ຕອນບ່າຍໃນຊິຄາໂກ.
+
+606
+00:39:21,700 --> 00:39:25,200
+[CARDENAS]
+Your Honor, Mr. Roston is an ex-lover of Miss Lawson's.
+ເຈົ້າຫນ້າທີ່, ທ້າວ ໂຣສຕັນເປັນຄົນຮັກເກົ່າຂອງນາງ Lawson ໄດ້.
+
+607
+00:39:25,700 --> 00:39:28,850
+[JUDGE BURNHAM]
+Why didn't the State's investigation uncover Mr. Roston earlier?
+ເປັນຫຍັງການສືບສວນຂອງລັດຈຶ່ງບໍ່ພົບທ່ານ ໂຣສຕັນກ່ອນ?
+
+608
+00:39:29,350 --> 00:39:33,900
+[CARDENAS]
+He was away on an extended vacation and just returned two days ago.
+ລາວໄປພັກຜ່ອນຍາວນານແລະຫາກໍ່ກັບມາເມື່ອສອງມື້ກ່ອນ.
+
+609
+00:39:34,400 --> 00:39:37,200
+[JUDGE BURNHAM]
+Alright -- I'm going to allow his testimony.
+ດີແລ້ວ - ຂ້ອຍຈະອະນຸຍາດໃຫ້ການໃຫ້ຄວາມເຫັນຂອງລາວ.
+
+610
+00:39:37,700 --> 00:39:39,700
+[DULANEY]
+But Your Honor--
+ແຕ່ເຈົ້າຫນ້າທີ່...
+
+611
+00:39:40,200 --> 00:39:42,650
+[JUDGE BURNHAM]
+That's it, Mr. Dulaney.  Take a seat.
+ນັ້ນແມ່ນມັນ, ທ້າວ Dulaney. ນັ່ງລົງ.
+
+612
+00:39:43,150 --> 00:39:46,300
+[CARDENAS]
+Mr. Roston, what was your relationship with Miss Lawson?
+ທ່ານ ໂຣສຕັນ, ຄວາມສໍາພັນຂອງທ່ານກັບນາງ Lawson ແມ່ນຫຍັງ?
+
+613
+00:39:46,800 --> 00:39:48,800
+[ROSTON]
+We were lovers.
+ພວກເຮົາເປັນຄົນຮັກ.
+
+614
+00:39:49,300 --> 00:39:51,300
+[CARDENAS]
+How long were you together?
+ເຈົ້າຢູ່ຮ່ວມກັນດົນປານໃດ?
+
+615
+00:39:51,800 --> 00:39:53,800
+[ROSTON]
+For about one year.
+ເປັນເວລາປະມານ ຫນຶ່ງ ປີ.
+
+616
+00:39:54,300 --> 00:39:57,800
+[CARDENAS]
+How would you describe your sex life with Miss Lawson?
+ເຈົ້າຈະອະທິບາຍຊີວິດທາງເພດຂອງທ່ານກັບນາງ Lawson ແນວໃດ?
+
+617
+00:39:58,300 --> 00:40:00,300
+[ROSTON]
+Intense.
+ແຫນ້ນແຟ້ນ.
+
+618
+00:40:00,800 --> 00:40:06,400
+[CARDENAS]
+I know this is a very personal subject, but could you be a little more specific?
+ຂ້ອຍຮູ້ວ່າ ນີ້ແມ່ນຫົວຂໍ້ສ່ວນຕົວຫຼາຍ, ແຕ່ເຈົ້າສາມາດຊີ້ແຈງໄດ້ບໍ?
+
+619
+00:40:06,900 --> 00:40:12,900
+[ROSTON]
+It was wild.  She was constantly trying to get me more and more worked up -- kinky things.  I tried to satisfy her the best I could, but it was difficult in my condition.
+ມັນເປັນໂຊກຮ້າຍ. ນາງ ກໍາ ລັງພະຍາຍາມເຮັດໃຫ້ຂ້ອຍກະຕຸ້ນຫຼາຍຂຶ້ນແລະຫຼາຍຂຶ້ນ - ສິ່ງ
+kinky. ຂ້ອຍພະຍາຍາມພໍໃຈນາງທີ່ດີທີ່ສຸດທີ່ຂ້ອຍສາມາດເຮັດໄດ້, ແຕ່ມັນຍາກໃນສະພາບຂອງຂ້ອຍ.
+
+620
+00:40:13,400 --> 00:40:16,200
+[CARDENAS]
+What kind of condition are you referring to?
+ເຈົ້າຫມາຍເຖິງສະພາບໃດ?
+
+621
+00:40:16,700 --> 00:40:18,700
+[ROSTON]
+I had a bad heart.
+ຂ້ອຍມີຫົວໃຈບໍ່ດີ.
+
+622
+00:40:19,200 --> 00:40:21,200
+[CARDENAS]
+What happened next?
+ເກີດຫຍັງຂຶ້ນຕໍ່ໄປ?
+
+623
+00:40:21,700 --> 00:40:23,700
+[ROSTON]
+I had bypass surgery.
+ຂ້ອຍໄດ້ຜ່າຕັດທາງຜ່ານ.
+
+624
+00:40:24,200 --> 00:40:26,200
+[CARDENAS]
+And how are you now?
+ແລະເຈົ້າເປັນແນວໃດດຽວນີ້?
+
+625
+00:40:26,700 --> 00:40:32,700
+[ROSTON]
+Fine.  The doctors say if I keep taking care of myself I can live to be a very old man.
+ດີ.
+ພວກຫມໍເວົ້າວ່າຖ້າຂ້ອຍສືບຕໍ່ເບິ່ງແຍງຕົວເອງຂ້ອຍສາມາດດໍາລົງຊີວິດເປັນຜູ້ຊາຍອາຍຸສູງຫຼາຍໄດ້.
+
+626
+00:40:33,200 --> 00:40:37,050
+[CARDENAS]
+How did your relationship with Miss Lawson progress after the surgery?
+ຄວາມສໍາພັນຂອງທ່ານກັບນາງ Lawson ໄດ້ກ້າວຫນ້າແນວໃດຫຼັງຈາກການຜ່າຕັດ?
+
+627
+00:40:37,550 --> 00:40:39,550
+[ROSTON]
+It didn't.
+ມັນບໍ່ໄດ້ເຮັດ.
+
+628
+00:40:40,050 --> 00:40:42,050
+[CARDENAS]
+Why not?
+ເປັນຫຍັງບໍ່?
+
+629
+00:40:42,550 --> 00:40:44,550
+[ROSTON]
+She left me.
+ນາງໄດ້ອອກຈາກຂ້ອຍ.
+
+630
+00:40:45,050 --> 00:40:47,500
+[CARDENAS]
+Why did she say she was leaving?
+ນາງບອກວ່ານາງຈະອອກໄປເປັນຫຍັງ?
+
+631
+00:40:48,000 --> 00:40:50,000
+[ROSTON]
+She didn't.  She just left.
+ນາງບໍ່ໄດ້ເຮັດ. ນາງພຽງແຕ່ອອກຈາກ.
+
+632
+00:40:50,500 --> 00:40:52,950
+[CARDENAS]
+Why do you think she left you?
+ເຈົ້າຄິດວ່ານາງໄດ້ອອກຈາກເຈົ້າເປັນຫຍັງ?
+
+633
+00:40:53,450 --> 00:40:57,300
+[ROSTON]
+Well -- I think that after the operation she realized that...
+ດີ - ຂ້ອຍຄິດວ່າຫຼັງຈາກການຜ່າຕັດນາງຮູ້ວ່າ...
+
+634
+00:40:57,800 --> 00:41:02,350
+[DULANEY]
+Objection.  The question calls for a conclusion on the part of the witness.
+ການຄັດຄ້ານ. ຄໍາ ຖາມຮຽກຮ້ອງໃຫ້ມີການສະຫຼຸບຈາກພາກສ່ວນຂອງພະຍານ.
+
+635
+00:41:02,850 --> 00:41:08,850
+[CARDENAS]
+Your Honor, Mr. Roston lived with the defendant for many months.  I feel that his opinion is valid in substantiating the character of the Miss Lawson.
+ເຈົ້າຫນ້າທີ່, ທ້າວ ໂຣສຕັນອາໄສຢູ່ກັບຜູ້ຖືກກ່າວຫາເປັນເວລາຫຼາຍເດືອນ.
+ຂ້ອຍຮູ້ສຶກວ່າຄວາມຄິດເຫັນຂອງລາວຖືກຕ້ອງໃນການຢືນຢັນລັກສະນະຂອງນາງ Lawson.
+
+636
+00:41:09,350 --> 00:41:13,200
+[DULANEY]
+The opinion of a scorned lover is hardly an objective view.
+ຄວາມຄິດເຫັນຂອງຄົນຮັກທີ່ຖືກກຽດຊັງເກືອບບໍ່ແມ່ນຄວາມເຫັນທີ່ແນ່ນອນ.
+
+637
+00:41:13,700 --> 00:41:15,700
+[JUDGE BURNHAM]
+Objection sustained.
+ການຄັດຄ້ານຍືນຍົງ.
+
+638
+00:41:16,200 --> 00:41:20,400
+[CARDENAS]
+Did Miss Lawson ever give you any indication why she was leaving?
+ນາງ Lawson ເຄີຍບອກເຈົ້າວ່າເປັນຫຍັງນາງຈະອອກໄປບໍ?
+
+639
+00:41:20,900 --> 00:41:25,450
+[DULANEY]
+Objection.  The witness has already stated that Miss Lawson left without an explanation.
+ການຄັດຄ້ານ. ພະຍານໄດ້ກ່າວແລ້ວວ່ານາງ
+Lawson ໄດ້ອອກຈາກໂດຍບໍ່ມີການອະທິບາຍ.
+
+640
+00:41:25,950 --> 00:41:30,150
+[JUDGE BURNHAM]
+Mr. Cardenas, I suggest you move on to another line of questioning.
+ທ່ານ ຄາດເນສ, ຂ້ອຍແນະ ນໍາ
+ໃຫ້ທ່ານຍ້າຍໄປສູ່ສາຍການສອບຖາມອີກຢ່າງຫນຶ່ງ.
+
+641
+00:41:30,650 --> 00:41:36,250
+[CARDENAS]
+When you say your sexual relations with Miss Lawson were intense what exactly do you mean?
+ເມື່ອເຈົ້າເວົ້າວ່າການພົວພັນທາງເພດຂອງທ່ານກັບນາງ
+Lawson ແມ່ນຮຸນແຮງເຈົ້າຫມາຍຄວາມວ່າແນວໃດຢ່າງແນ່ນອນ?
+
+642
+00:41:36,750 --> 00:41:42,750
+[ROSTON]
+It was like she was trying to push me as far as she could.  She called it opening new doors.
+ມັນຄືກັບວ່ານາງ ກໍາ ລັງພະຍາຍາມຊຸກຍູ້ຂ້ອຍໄປໄກສຸດທີ່ນາງສາມາດເຮັດໄດ້
+. ນາງເອີ້ນມັນວ່າການເປີດປະຕູ ໃຫມ່.
+
+643
+00:41:43,250 --> 00:41:45,700
+[CARDENAS]
+Can you give the court an example?
+ເຈົ້າສາມາດໃຫ້ຕົວຢ່າງໃຫ້ສານໄດ້ບໍ?
+
+644
+00:41:46,200 --> 00:41:52,200
+[ROSTON]
+It was like sex was a game to her. She got off on the control.  She always used to tell me it had to be her way.
+ມັນຄືກັບວ່າເພດເປັນເກມ ສໍາ ລັບນາງ. ນາງອອກຈາກການຄວບຄຸມ
+. ນາງເຄີຍບອກຂ້ອຍວ່າມັນຕ້ອງເປັນທາງຂອງນາງຢູ່ສະເຫມີ.
+
+645
+00:41:52,700 --> 00:41:56,550
+[ROSTON]
+It's hard to resist a woman as beautiful as she is.
+ມັນຍາກທີ່ຈະຕໍ່ຕ້ານແມ່ຍິງທີ່ສວຍງາມເທົ່າກັບນາງ.
+
+646
+00:41:57,050 --> 00:42:00,550
+[CARDENAS]
+What would she do that made it hard to resist?
+ນາງຈະເຮັດຫຍັງທີ່ເຮັດໃຫ້ມັນຍາກທີ່ຈະຕໍ່ຕ້ານ?
+
+647
+00:42:01,050 --> 00:42:07,050
+[ROSTON]
+She's a woman who is very much aware of her own sexuality.  Sometimes I felt she could read my mind.  It was uncanny how she knew exactly what I wanted.  A few nights before my heart surgery Rebecca woke me.  She had handcuffed me to the bed.
+ນາງເປັນແມ່ຍິງທີ່ຮູ້ສຶກກ່ຽວກັບເພດສໍາພັນຂອງນາງເອງຫຼາຍ. ບາງຄັ້ງຂ້ອຍຮູ້ສຶກວ່ານາງສາມາດອ່ານຈິດໃຈຂອງຂ້ອຍໄດ້.
+ມັນແປກໃຈວ່ານາງຮູ້ຢ່າງແນ່ນອນວ່າຂ້ອຍຕ້ອງການຫຍັງ. ສອງສາມຄືນກ່ອນການຜ່າຕັດຫົວໃຈຂອງຂ້ອຍເຣເບກາຕື່ນຂ້ອຍ. ນາງໄດ້ຈັບຂ້ອຍໃສ່ຕຽງ.
+
+648
+00:42:07,550 --> 00:42:13,550
+[ROSTON]
+She told me that tonight we were going to open new doors.  I asked her to stop -- to take off the handcuffs, but she wouldn't listen.
+ນາງບອກຂ້ອຍວ່າໃນຄືນນີ້ພວກເຮົາຈະເປີດປະຕູ ໃຫມ່.
+ຂ້ອຍຂໍໃຫ້ນາງຢຸດເຊົາ - ເອົາສາຍມືອອກ, ແຕ່ນາງຈະບໍ່ຟັງ.
+
+649
+00:42:14,050 --> 00:42:16,050
+[CARDENAS]
+What did she say?
+ນາງເວົ້າຫຍັງ?
+
+650
+00:42:16,550 --> 00:42:22,550
+[CARDENAS]
+Mr. Roston I know this is difficult for you, but it's important you tell the court what she did.
+ທ້າວ ໂຣສຕັນ ຂ້ອຍຮູ້ວ່າສິ່ງນີ້ຍາກ ສໍາ ລັບເຈົ້າ,
+ແຕ່ມັນມີຄວາມສໍາຄັນທີ່ທ່ານບອກສານວ່ານາງເຮັດຫຍັງ.
+
+651
+00:42:23,050 --> 00:42:27,950
+[ROSTON]
+She said she was going to fuck me like I've never been fucked before.
+ນາງບອກວ່ານາງຈະຟັກຂ້ອຍຄືກັບທີ່ຂ້ອຍບໍ່ເຄີຍຟັກກ່ອນ.
+
+652
+00:42:28,450 --> 00:42:34,450
+[JUDGE BURNHAM]
+Due to the sensitive nature of this witness' testimony and the inability of the spectators to allow him to complete it, I am clearing the courtroom.
+ເນື່ອງຈາກລັກສະນະທີ່ລະອຽດອ່ອນຂອງການໃຫ້ຄວາມເຫັນຂອງພະຍານຄົນນີ້ແລະຄວາມບໍ່ສາມາດຂອງຜູ້ຊົມທີ່ຈະອະນຸຍາດໃຫ້ລາວສໍາເລັດມັນ
+, ຂ້ອຍ ກໍາ ລັງເຮັດຄວາມສະອາດຫ້ອງສານ.
+
+653
+00:42:34,950 --> 00:42:37,400
+[CARDENAS]
+What did she do next, Mr. Roston?
+ນາງເຮັດຫຍັງຕໍ່ໄປ, ທ້າວໂຣສຕັນ?
+
+654
+00:42:37,900 --> 00:42:43,900
+[ROSTON]
+She started touching herself and telling me how much she wanted me. She reached down and put me inside her.  My doctor had warned me about exerting myself -- but you really don't think of those things at a moment like that.  You just think about how beautiful this woman is -- how much you want her.  How deeply you want to please her.  At first it started off slowly -- but the rhythm built and built.    Every time I got close to an orgasm she would stop.  Eventually I started to have trouble breathing.  Rebecca just kept going -- faster and faster.  No matter what I said she wouldn't stop. I really thought for a moment I was going to die.
+ນາງເລີ່ມຈັບຕົວເອງແລະບອກຂ້ອຍວ່ານາງຕ້ອງການຂ້ອຍຫຼາຍປານໃດ. ນາງຍືດລົງແລະເອົາຂ້ອຍເຂົ້າໄປໃນນາງ. ຫມໍຂອງຂ້ອຍໄດ້ເຕືອນຂ້ອຍກ່ຽວກັບການພະຍາຍາມຕົວເອງ - ແຕ່ເຈົ້າບໍ່ຄິດກ່ຽວກັບສິ່ງເຫຼົ່ານັ້ນໃນເວລານີ້ເຊັ່ນນັ້ນ.
+ເຈົ້າພຽງແຕ່ຄິດກ່ຽວກັບຄວາມສວຍງາມຂອງແມ່ຍິງຄົນນີ້ - ເຈົ້າຢາກໃຫ້ນາງຫຼາຍປ່ານັ້ນ. ເຈົ້າຢາກເຮັດໃຫ້ນາງພໍໃຈຢ່າງເລິກເຊິ່ງແນວໃດ. ໃນເບື້ອງຕົ້ນມັນເລີ່ມຕົ້ນຊ້າໆ - ແຕ່ການກະທູ້ທີ່ສ້າງຂຶ້ນແລະສ້າງຂຶ້ນ. ທຸກຄັ້ງທີ່ຂ້ອຍໃກ້ກັບ orgasm ນາງຈະຢຸດເຊ
+
+655
+00:42:44,400 --> 00:42:48,950
+[CARDENAS]
+If you knew it was bad for you why did you do it?
+ຖ້າເຈົ້າຮູ້ວ່າມັນບໍ່ດີຕໍ່ເຈົ້າ ເປັນຫຍັງເຈົ້າຈຶ່ງເຮັດມັນ?
+
+656
+00:42:49,450 --> 00:42:55,450
+[ROSTON]
+I couldn't help myself.  You get lost inside a women like her.  It was like a drug.  It was the best sex I ever had.
+ຂ້ອຍບໍ່ສາມາດຊ່ວຍຕົວເອງໄດ້. ເຈົ້າຫາຍໄປພາຍໃນແມ່ຍິງຄືກັບນາງ
+. ມັນຄືກັບຢາເສບຕິດ. ມັນແມ່ນເພດທີ່ດີທີ່ສຸດທີ່ຂ້ອຍເຄີຍມີມາ.
+
+657
+00:42:55,950 --> 00:42:57,950
+[CARDENAS]
+What happened after that?
+ເກີດຫຍັງຂຶ້ນຫຼັງຈາກນັ້ນ?
+
+658
+00:42:58,450 --> 00:43:01,950
+[ROSTON]
+I woke up the next morning and she was gone.
+ຂ້ອຍຕື່ນໃນຕອນເຊົ້າມື້ອື່ນແລະນາງຫາຍໄປແລ້ວ.
+
+659
+00:43:02,450 --> 00:43:06,300
+[CARDENAS]
+Did you change your will while you were with Miss Lawson?
+ເຈົ້າປ່ຽນຄວາມຕ້ອງການຂອງທ່ານໃນຂະນະທີ່ເຈົ້າຢູ່ກັບນາງ Lawson ບໍ?
+
+660
+00:43:06,800 --> 00:43:08,800
+[ROSTON]
+Yes.
+ແມ່ນແລ້ວ.
+
+661
+00:43:09,300 --> 00:43:11,300
+[CARDENAS]
+Who was your primary beneficiary?
+ຜູ້ໄດ້ຮັບຜົນປະໂຫຍດຕົ້ນຕໍຂອງທ່ານແມ່ນໃຜ?
+
+662
+00:43:11,800 --> 00:43:13,800
+[ROSTON]
+She was.
+ນາງເປັນ.
+
+663
+00:43:14,300 --> 00:43:16,300
+[CARDENAS]
+Thank you.  The State rests.
+ຂອບໃຈ. ລັດພັກຜ່ອນ.
+
+664
+00:43:16,800 --> 00:43:18,800
+[JUDGE BURNHAM]
+Mister Dulaney?
+ທ້າວ ດູລາເນີ?
+
+665
+00:43:19,300 --> 00:43:21,300
+[JUDGE BURNHAM]
+Mister Dulaney?
+ທ້າວ ດູລາເນີ?
+
+666
+00:43:21,800 --> 00:43:27,800
+[DULANEY]
+Mr. Roston, you said it was the best sex you ever had.  Is that the best sex with a woman, or a man?
+ທ່ານ ໂຣສຕັນ, ເຈົ້າບອກວ່າມັນເປັນເພດທີ່ດີທີ່ສຸດທີ່ທ່ານເຄີຍມີ
+. ນັ້ນແມ່ນເພດທີ່ດີທີ່ສຸດກັບແມ່ຍິງ, ຫຼືຜູ້ຊາຍບໍ?
+
+667
+00:43:28,300 --> 00:43:30,300
+[CARDENAS]
+Objection!
+ການຄັດຄ້ານ!
+
+668
+00:43:30,800 --> 00:43:35,000
+[DULANEY]
+I'll rephrase the question.  Mr. Roston isn't it true you are bisexual?
+ຂ້ອຍຈະປ່ຽນຄໍາຖາມ. ທ້າວ ໂຣສຕັນ
+ບໍ່ແມ່ນຄວາມຈິງບໍວ່າເຈົ້າເປັນ bisexual?
+
+669
+00:43:35,500 --> 00:43:39,700
+[CARDENAS]
+Objection!  Mr. Roston's sexual preferences are not at issue in this trial.
+ການຄັດຄ້ານ!
+ຄວາມມັກທາງເພດຂອງທ່ານໂຣສຕັນບໍ່ແມ່ນບັນຫາໃນການດໍາເນີນຄະດີນີ້.
+
+670
+00:43:40,200 --> 00:43:46,200
+[DULANEY]
+Your Honor, I'm trying to establish the sense of betrayal Miss Lawson felt when she discovered the man she lived with was a different person than she thought he was.
+ເຈົ້າຫນ້າທີ່, ຂ້ອຍ ກໍາ ລັງພະຍາຍາມສ້າງຄວາມຮູ້ສຶກຂອງການປະຫມາດທີ່ນາງ Lawson
+ຮູ້ສຶກເມື່ອນາງຄົ້ນພົບຜູ້ຊາຍທີ່ນາງອາໄສຢູ່ກັບແມ່ນຄົນທີ່ແຕກຕ່າງກັນຈາກທີ່ນາງຄິດວ່າລາວເປັນ.
+
+671
+00:43:46,700 --> 00:43:48,800
+[JUDGE BURNHAM]
+The witness will answer the question.
+ຜູ້ພິສູດຈະຕອບຄໍາຖາມ.
+
+672
+00:43:49,300 --> 00:43:51,300
+[DULANEY]
+Mr. Roston?
+ທ້າວ ໂຣສຕັນ?
+
+673
+00:43:51,800 --> 00:43:53,800
+[ROSTON]
+Yes.
+ແມ່ນແລ້ວ.
+
+674
+00:43:54,300 --> 00:43:58,500
+[DULANEY]
+And your sexual tastes were something that you hid from Miss Lawson?
+ແລະຄວາມມັກທາງເພດຂອງທ່ານແມ່ນບາງສິ່ງບາງຢ່າງທີ່ທ່ານເຊື່ອງຈາກນາງ
+Lawson ໄດ້ບໍ?
+
+675
+00:43:59,000 --> 00:44:01,000
+[ROSTON]
+Yes.
+ແມ່ນແລ້ວ.
+
+676
+00:44:01,500 --> 00:44:07,450
+[DULANEY]
+And didn't Miss Lawson come home one day and find you in bed with your male lover?
+ແລະນາງ Lawson
+ບໍ່ກັບບ້ານມື້ຫນຶ່ງແລະພົບເຈົ້າຢູ່ໃນຕຽງກັບຄົນຮັກຜູ້ຊາຍຂອງທ່ານບໍ?
+
+677
+00:44:07,950 --> 00:44:09,950
+[ROSTON]
+Yes.
+ແມ່ນແລ້ວ.
+
+678
+00:44:10,450 --> 00:44:12,550
+[DULANEY]
+And she left shortly after that?
+ແລະນາງໄດ້ອອກຈາກບໍ່ດົນຫຼັງຈາກນັ້ນບໍ?
+
+679
+00:44:13,050 --> 00:44:19,050
+[ROSTON]
+No.  We worked things out.  It was three weeks later when I told her about the heart surgery that she left.
+ບໍ່. ພວກເຮົາໄດ້ແກ້ໄຂສິ່ງຕ່າງໆ.
+ມັນແມ່ນສາມອາທິດຕໍ່ມາເມື່ອຂ້ອຍບອກນາງກ່ຽວກັບການຜ່າຕັດຫົວໃຈທີ່ນາງອອກຈາກ.
+
+680
+00:44:19,550 --> 00:44:25,550
+[DULANEY]
+Would it be fair to say that when she did find out it was a shock to her?
+ມັນຈະຍຸຕິທໍາບໍທີ່ຈະເວົ້າວ່າເມື່ອນາງຮູ້ວ່າມັນເປັນການໂຊກແຊງຕໍ່ນາງ?
+
+681
+00:44:26,050 --> 00:44:28,050
+[ROSTON]
+Yes.
+ແມ່ນແລ້ວ.
+
+682
+00:44:28,550 --> 00:44:30,550
+[DULANEY]
+No further questions.
+ບໍ່ມີຄໍາຖາມອີກຕໍ່ໄປ.
+
+683
+00:44:31,050 --> 00:44:33,050
+[DULANEY]
+What's that for?
+ນັ້ນເປັນຫຍັງ?
+
+684
+00:44:33,550 --> 00:44:36,350
+[REBECCA]
+To celebrate how masterfully you destroyed Roston today.
+ເພື່ອສະເຫຼີມສະຫຼອງວ່າເຈົ້າໄດ້ທໍາລາຍໂຣສຕັນຢ່າງດີຫຼາຍປານໃດໃນມື້ນີ້.
+
+685
+00:44:36,850 --> 00:44:40,350
+[DULANEY]
+Rebecca -- we shattered a man's life in open court.
+ຣີເບກາ - ພວກເຮົາໄດ້ທໍາລາຍຊີວິດຂອງຜູ້ຊາຍໃນສານເປີດ.
+
+686
+00:44:40,850 --> 00:44:43,300
+[REBECCA]
+Fuck him!  He tried to shatter mine.
+ລາວພະຍາຍາມທໍາລາຍຂອງຂ້ອຍ.
+
+687
+00:44:43,800 --> 00:44:46,950
+[DULANEY]
+He was only doing what he thought was right.
+ລາວພຽງແຕ່ເຮັດສິ່ງທີ່ລາວຄິດວ່າຖືກຕ້ອງເທົ່ານັ້ນ.
+
+688
+00:44:47,450 --> 00:44:53,450
+[REBECCA]
+You're too weak, Frank.  When you want something you have to do what- ever it takes to get it.  If something gets in your way you remove it.
+ເຈົ້າອ່ອນແອເກີນໄປ, ແຟຣນກ໌. ເມື່ອເຈົ້າຕ້ອງການບາງສິ່ງບາງຢ່າງເຈົ້າຕ້ອງເຮັດທຸກຢ່າງ -
+ທຸກຄັ້ງທີ່ຕ້ອງເຮັດເພື່ອໄດ້ຮັບມັນ. ຖ້າບາງສິ່ງໃດເຂົ້າໄປໃນທາງຂອງທ່ານເຈົ້າເອົາມັນອອກ.
+
+689
+00:44:53,950 --> 00:44:56,050
+[DULANEY]
+You killed him -- didn't you?
+ເຈົ້າໄດ້ຂ້າລາວ - ເຈົ້າບໍ່?
+
+690
+00:44:56,550 --> 00:45:02,550
+[REBECCA]
+I knew you were thinking that.  I could see it in your eyes today in the courtroom.  You're wrong, Frank. I need you to believe that.
+ຂ້ອຍຮູ້ວ່າເຈົ້າຄິດແບບນັ້ນ. ຂ້ອຍເຫັນມັນໃນຕາຂອງເຈົ້າມື້ນີ້ໃນຫ້ອງການສານ
+. ເຈົ້າຜິດ, ແຟຣນກ໌. ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າເຊື່ອສິ່ງນັ້ນ.
+
+691
+00:45:03,050 --> 00:45:05,050
+[DULANEY]
+You don't need anybody.
+ເຈົ້າບໍ່ຕ້ອງການໃຜເລີຍ.
+
+692
+00:45:05,550 --> 00:45:11,150
+[REBECCA]
+I do need you.  No matter what you think of me -- I didn't do it.
+ຂ້ອຍຕ້ອງການເຈົ້າແທ້ໆ.
+ບໍ່ວ່າເຈົ້າຄິດຫຍັງກ່ຽວກັບຂ້ອຍ - ຂ້ອຍບໍ່ໄດ້ເຮັດມັນ.
+
+693
+00:45:11,650 --> 00:45:13,650
+[DULANEY]
+I'm dropping the case.
+ຂ້ອຍ ກໍາ ລັງຖອນຄະດີລົງ.
+
+694
+00:45:14,150 --> 00:45:16,150
+[REBECCA]
+No -- you're not.
+ບໍ່ - ເຈົ້າບໍ່ແມ່ນ.
+
+695
+00:45:16,650 --> 00:45:21,900
+[CLOSE ON TELEVISION]
+A TAPE of Dulaney making love to Rebecca fills the screen.  It is wild, passionate.
+ແຜ່ນເທບຂອງດູລາເນຍ ກໍາ ລັງຮັກກັບເຣເບກາເຕັມໄປດ້ວຍ
+ຫນ້າ ຈໍ. ມັນປ່າໄມ້, ມີຄວາມກະຕຸ້ນໃຈ.
+
+696
+00:45:22,400 --> 00:45:28,400
+[CLOSE ON DULANEY]
+he is dumbfounded as he watches.  The implications of what this tape could do to him run through his mind.
+ລາວຕົກໃຈໃນຂະນະທີ່ລາວເບິ່ງ.
+ຜົນກະທົບຂອງສິ່ງທີ່ເທບນີ້ສາມາດເຮັດໄດ້ກັບລາວແລ່ນຜ່ານຈິດໃຈຂອງລາວ.
+
+697
+00:45:28,900 --> 00:45:33,450
+[REBECCA]
+It gets easier, doesn't it?  Once you open the door it never closes.
+ມັນຈະງ່າຍຂຶ້ນ, ແມ່ນບໍ? ເມື່ອເຈົ້າເປີດປະຕູມັນບໍ່ເຄີຍປິດ.
+
+698
+00:45:33,950 --> 00:45:39,950
+[REBECCA]
+I've got another copy.  How do you think your wife would feel if she saw this -- not to mention your colleagues?
+ຂ້ອຍມີ ສໍາ ເນົາອີກຫນຶ່ງ. ເຈົ້າຄິດວ່າເມຍຂອງທ່ານຈະຮູ້ສຶກແນວໃດຖ້ານາງເຫັນສິ່ງນີ້
+- ບໍ່ເວົ້າເຖິງເພື່ອນຮ່ວມງານຂອງທ່ານ?
+
+699
+00:45:40,450 --> 00:45:46,450
+[REBECCA]
+You can think whatever you want, Frank -- but I didn't kill Andrew, and I'm not going to prison for something I didn't do.
+ເຈົ້າສາມາດຄິດໄດ້ທຸກຢ່າງທີ່ທ່ານຕ້ອງການ, ແຟຣນກ໌ - ແຕ່ຂ້ອຍບໍ່ໄດ້ຂ້າແອນດຣ໌
+, ແລະຂ້ອຍຈະບໍ່ໄປຄຸກ ສໍາ ລັບບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ໄດ້ເຮັດ.
+
+700
+00:45:46,950 --> 00:45:48,950
+[DULANEY]
+You're a monster.
+ເຈົ້າເປັນໂມສເຕີ.
+
+701
+00:45:49,450 --> 00:45:51,450
+[REBECCA]
+No -- I'm a survivor.
+ບໍ່ - ຂ້ອຍເປັນຜູ້ລອດຊີວິດ.
+
+702
+00:45:51,950 --> 00:45:53,950
+[DULANEY]
+I'll get it.
+ຂ້ອຍຈະເອົາມັນ.
+
+703
+00:45:54,450 --> 00:46:00,450
+[BIGGS]
+I'm sorry to barge in -- but I figured after that bombshell that got laid on you today you could use some good news?
+ຂ້ອຍຂໍໂທດທີ່ເຂົ້າມາ -
+ແຕ່ຂ້ອຍຄິດວ່າຫຼັງຈາກລະເບີດທີ່ຖືກວາງໃສ່ເຈົ້າມື້ນີ້ເຈົ້າສາມາດໃຊ້ຂ່າວດີບາງຢ່າງໄດ້ບໍ?
+
+704
+00:46:00,950 --> 00:46:03,050
+[DULANEY]
+You got something on the Coke?
+ເຈົ້າມີຫຍັງກ່ຽວກັບໂກກາບໍ?
+
+705
+00:46:03,550 --> 00:46:09,550
+[BIGGS]
+Do I?  I talked to one of the dealers I put the word out to.  He's been following the trial pretty closely. He said at one time he wanted to be a lawyer before he became a dealer.
+ຂ້ອຍເຮັດບໍ? ຂ້ອຍໄດ້ເວົ້າກັບຜູ້ຂາຍຄົນ ຫນຶ່ງ ທີ່ຂ້ອຍໄດ້ອອກ ຄໍາ ເວົ້າ. ລາວ ກໍາ
+ລັງຕິດຕາມການດໍາເນີນຄະດີຢ່າງໃກ້ຊິດຫຼາຍ. ລາວເວົ້າວ່າໃນເວລາດຽວກັນລາວຢາກເປັນທະນາຍຄວາມກ່ອນທີ່ຈະກາຍເປັນຜູ້ຂາຍ.
+
+706
+00:46:10,050 --> 00:46:13,550
+[DULANEY]
+Charlie -- are you going to make a point soon?
+ແຊລລີ - ເຈົ້າຈະເວົ້າຈຸດໃດໃນໄວໆນີ້ບໍ?
+
+707
+00:46:14,050 --> 00:46:19,650
+[BIGGS]
+Right now.  Guess who's been buying Coke from him for the last five and half years?
+ດຽວນີ້. ຄາດວ່າໃຜ ກໍາ ລັງຊື້ໂກກາຈາກລາວເປັນເວລາຫ້າປີເຄິ່ງທີ່ຜ່ານມາ?
+
+708
+00:46:20,150 --> 00:46:22,150
+[BIGGS]
+Marsh's secretary -- Joanne Braslow.
+ເລຂາທິການຂອງມາສ໌ - ໂຈອານ ບຣາສໂລວ.
+
+709
+00:46:22,650 --> 00:46:26,150
+[DULANEY]
+Dr. Wong -- what type of medicine do you practice?
+ດຣ ວົງ - ເຈົ້າປະຕິບັດການແພດປະເພດໃດ?
+
+710
+00:46:26,650 --> 00:46:28,650
+[DR. WONG]
+Oriental medicine.
+ການແພດຕາເວັນອອກ.
+
+711
+00:46:29,150 --> 00:46:31,950
+[DULANEY]
+--And is Miss Lawson a patient of yours?
+- ແລະນາງ Lawson ເປັນຄົນເຈັບຂອງທ່ານບໍ?
+
+712
+00:46:32,450 --> 00:46:35,600
+[DR. WONG]
+Yes.  I've been seeing her for over a year.
+ແມ່ນແລ້ວ. ຂ້ອຍ ກໍາ ລັງພົບກັບນາງເປັນເວລາຫຼາຍກວ່າປີແລ້ວ.
+
+713
+00:46:36,100 --> 00:46:38,200
+[DULANEY]
+Why does she come to you?
+ນາງມາຫາເຈົ້າເປັນຫຍັງ?
+
+714
+00:46:38,700 --> 00:46:40,800
+[DR. WONG]
+She suffers from severe menstrual cramps.
+ນາງເຈັບປວດຈາກການສັ່ນສະເທືອນປະຈໍາເດືອນຢ່າງຮຸນແຮງ.
+
+715
+00:46:41,300 --> 00:46:44,450
+[DULANEY]
+Did you ever prescribe any medication for her cramps?
+ເຈົ້າເຄີຍສັ່ງຢາໃດໆ ສໍາ ລັບອາການຄຣາມຂອງນາງບໍ?
+
+716
+00:46:44,950 --> 00:46:46,950
+[DR. WONG]
+Yes.
+ແມ່ນແລ້ວ.
+
+717
+00:46:47,450 --> 00:46:49,550
+[DULANEY]
+What did you prescribe for her?
+ເຈົ້າສັ່ງຢາຫຍັງໃຫ້ນາງ?
+
+718
+00:46:50,050 --> 00:46:52,050
+[DR. WONG]
+Chinese peony root.
+ຮາກປູນີຈີນ.
+
+719
+00:46:52,550 --> 00:46:56,750
+[DULANEY]
+Would you describe for the court what Chinese peony root looks like?
+ເຈົ້າຈະອະທິບາຍໃຫ້ສານວ່າຮາກ peony ຈີນເບິ່ງຄືແນວໃດ?
+
+720
+00:46:57,250 --> 00:47:00,400
+[DR. WONG]
+It's a white powder that comes in a vial.
+ມັນເປັນຝຸ່ນສີຂາວທີ່ມາໃນຖັງ.
+
+721
+00:47:00,900 --> 00:47:04,050
+[DULANEY]
+How do you instruct your patients to take it?
+ເຈົ້າແນະນໍາຄົນເຈັບຂອງທ່ານໃຫ້ກິນມັນແນວໃດ?
+
+722
+00:47:04,550 --> 00:47:10,550
+[DR. WONG]
+I tell them to pour an amount the size of a quarter into the their hand and mix it with water.
+ຂ້ອຍບອກພວກເຂົາໃຫ້ຖອກປະລິມານຂະຫນາດສີ່ແສນໃສ່ມືຂອງພວກເຂົາແລະປະສົມມັນກັບນ້
+ໍາ.
+
+723
+00:47:11,050 --> 00:47:17,050
+[DULANEY]
+A previous witness stated that she saw Miss Lawson pouring a white powder into her hand on October twenty-eighth.  According to your records when did you prescribe the drug?
+ຜູ້ເຫັນກ່ອນຫນ້ານີ້ໄດ້ລະບຸວ່ານາງເຫັນນາງ Lawson
+ຖິ້ມຝຸ່ນສີຂາວໃສ່ມືຂອງນາງໃນເດືອນຕຸລາສິບແປດ. ອີງຕາມບັນທຶກຂອງທ່ານທ່ານໄດ້ສັ່ງຢາເມື່ອໃດ?
+
+724
+00:47:17,550 --> 00:47:19,550
+[DR. WONG]
+October twenty-seventh.
+ວັນທີສິບເຈັດເດືອນຕຸລາ.
+
+725
+00:47:20,050 --> 00:47:26,050
+[DULANEY]
+One last question, Doctor.  If someone didn't know better, would it be easy to mistake the peony root for cocaine?
+ຄໍາ ຖາມສຸດທ້າຍຫນຶ່ງ, ດອກຕໍ. ຖ້າໃຜບໍ່ຮູ້ດີກວ່າ
+, ມັນຈະງ່າຍທີ່ຈະຜິດພາດຮາກ peony ກັບໂກເກິນບໍ?
+
+726
+00:47:26,550 --> 00:47:28,550
+[DR. WONG]
+Yes -- quite easy.
+ແມ່ນແລ້ວ - ງ່າຍດາຍຫຼາຍ.
+
+727
+00:47:29,050 --> 00:47:31,050
+[DULANEY]
+Your witness.
+ພະຍານຂອງທ່ານ.
+
+728
+00:47:31,550 --> 00:47:33,550
+[CARDENAS]
+No questions.
+ບໍ່ມີຄໍາຖາມເລີຍ.
+
+729
+00:47:34,050 --> 00:47:36,150
+[JUDGE BURNHAM]
+You may call your next witness.
+ເຈົ້າສາມາດໂທຫາພະຍານຕໍ່ໄປໄດ້.
+
+730
+00:47:36,650 --> 00:47:38,750
+[DULANEY]
+The defense calls Miss Margaret Sellers.
+ການປ້ອງກັນຄວາມສະຫງົບເອີ້ນນາງມາເກຣຕ໌ ເຊລເລີສ໌.
+
+731
+00:47:39,250 --> 00:47:42,400
+[DULANEY AND MISS SELLERS]
+Miss Sellers appears a little nervous.  Dulaney smiles warmly.
+ນາງເຊລເລີສ໌ເບິ່ງຄືວ່າກັງວົນເລັກນ້ອຍ. ດູລາເນຍມ່ວນຊື່ນຢ່າງອົບອຸ່ນ.
+
+732
+00:47:42,900 --> 00:47:45,700
+[DULANEY]
+Miss Sellers, do you know Dr. Alan Paley?
+ທ່ານນາງເຊລເລີສ໌, ທ່ານຮູ້ຈັກດຣ ອາລານ ປາລີບໍ?
+
+733
+00:47:46,200 --> 00:47:48,200
+[MISS SELLERS]
+Yes.
+ແມ່ນແລ້ວ.
+
+734
+00:47:48,700 --> 00:47:50,700
+[DULANEY]
+Where did you meet him?
+ເຈົ້າພົບລາວຢູ່ໃສ?
+
+735
+00:47:51,200 --> 00:47:56,800
+[MISS SELLERS]
+I'm a nurse.  I used to work at Roseburg Memorial Hospital.  Dr. Paley's on staff there.
+ຂ້ອຍເປັນພະຍາບານ. ຂ້ອຍເຄີຍເຮັດວຽກຢູ່ໂຮງຫມໍທີ່ລະນຶກໂຣສເບີກ
+. ດຣ ປາລີເປັນພະນັກງານຢູ່ບ່ອນນັ້ນ.
+
+736
+00:47:57,300 --> 00:48:00,800
+[DULANEY]
+What was the nature of your relationship with Dr. Paley.
+ຄວາມສໍາພັນຂອງທ່ານກັບດຣ ປາລີແມ່ນແນວໃດ.
+
+737
+00:48:01,300 --> 00:48:04,100
+[MISS SELLERS]
+We dated for about a month last year.
+ພວກເຮົາພົບກັນປະມານ ຫນຶ່ງ ເດືອນໃນປີທີ່ຜ່ານມາ.
+
+738
+00:48:04,600 --> 00:48:06,600
+[DULANEY]
+Then what happened?
+ຫຼັງຈາກນັ້ນເກີດຫຍັງຂຶ້ນ?
+
+739
+00:48:07,100 --> 00:48:13,100
+[MISS SELLERS]
+I realized he wasn't serious.  He was seeing other women -- asking other nurses at the hospital out, so I ended it.
+ຂ້ອຍຮູ້ວ່າລາວບໍ່ຈິງໃຈ. ລາວ ກໍາ ລັງພົບກັບແມ່ຍິງຄົນອື່ນ -
+ຂໍໃຫ້ພະຍາບານຄົນອື່ນໃນໂຮງຫມໍອອກໄປ, ສະນັ້ນຂ້ອຍຈຶ່ງສິ້ນສຸດມັນ.
+
+740
+00:48:13,600 --> 00:48:17,800
+[DULANEY]
+-- And what did Dr. Paley do after you stopped seeing him?
+- ແລະດຣ ປາເລີເຮັດຫຍັງຫຼັງຈາກເຈົ້າຢຸດພົບລາວ?
+
+741
+00:48:18,300 --> 00:48:24,300
+[MISS SELLERS]
+He used to call me -- tell me that I couldn't just walk out on him.  He said that if I didn't come back he'd make my life miserable.
+ລາວເຄີຍໂທຫາຂ້ອຍ - ບອກຂ້ອຍວ່າຂ້ອຍບໍ່ສາມາດອອກຈາກລາວໄດ້.
+ລາວເວົ້າວ່າຖ້າຂ້ອຍບໍ່ກັບມາລາວຈະເຮັດໃຫ້ຊີວິດຂອງຂ້ອຍທຸກຍາກ.
+
+742
+00:48:24,800 --> 00:48:26,900
+[DULANEY]
+Did he make your life miserable?
+ລາວເຮັດໃຫ້ຊີວິດຂອງເຈົ້າທຸກຍາກບໍ?
+
+743
+00:48:27,400 --> 00:48:29,400
+[MISS SELLERS]
+Yes -- he did.
+ແມ່ນແລ້ວ - ລາວເຮັດ.
+
+744
+00:48:29,900 --> 00:48:31,900
+[DULANEY]
+How?
+ແນວໃດ?
+
+745
+00:48:32,400 --> 00:48:38,400
+[CARDENAS]
+Objection!  May I remind Mr. Dulaney that the person on trial here is Miss Lawson -- not Dr. Paley.
+ການຄັດຄ້ານ! ຂ້ອຍຂໍເຕືອນທ່ານ Dulaney
+ວ່າຄົນທີ່ຖືກດໍາເນີນຄະດີຢູ່ນີ້ແມ່ນນາງ Lawson - ບໍ່ແມ່ນດຣ Paley.
+
+746
+00:48:38,900 --> 00:48:43,800
+[DULANEY]
+Your Honor, I'm trying to establish a pattern in Dr. Paley's behavior with women.
+ເຈົ້າຫນ້າທີ່, ຂ້ອຍ ກໍາ
+ລັງພະຍາຍາມສ້າງຮູບແບບໃນການປະພຶດຂອງດຣ Paley ກັບແມ່ຍິງ.
+
+747
+00:48:44,300 --> 00:48:47,100
+[JUDGE BURNHAM]
+Objection overruled.  The witness will answer the question.
+ການຄັດຄ້ານຖືກຍົກເລີກ. ພະຍານຈະຕອບຄໍາຖາມ.
+
+748
+00:48:47,600 --> 00:48:53,600
+[MISS SELLERS]
+He'd call me in the middle of the night.  Show up at my house and bang on the door.  Finally after two weeks I went to his office one day to tell him to stop.
+ລາວຈະໂທຫາຂ້ອຍໃນກາງຄືນ. ປາກົດຕົວຢູ່ເຮືອນຂອງຂ້ອຍແລະຕີປະຕູ.
+ສຸດທ້າຍຫຼັງຈາກສອງອາທິດຂ້ອຍໄປຫ້ອງການຂອງລາວມື້ຫນຶ່ງເພື່ອບອກລາວໃຫ້ຢຸດ.
+
+749
+00:48:54,100 --> 00:48:56,100
+[DULANEY]
+What did he say?
+ລາວເວົ້າຫຍັງ?
+
+750
+00:48:56,600 --> 00:49:01,150
+[MISS SELLERS]
+He laughed -- and basically said he would decide when it was over.
+ລາວມ່ວນຊື່ນ -
+ແລະໂດຍພື້ນຖານແລ້ວເວົ້າວ່າລາວຈະຕັດສິນໃຈເມື່ອມັນສິ້ນສຸດລົງ.
+
+751
+00:49:01,650 --> 00:49:03,750
+[DULANEY]
+Do you remember his exact words?
+ເຈົ້າຈື່ຄໍາເວົ້າທີ່ແນ່ນອນຂອງລາວບໍ?
+
+752
+00:49:04,250 --> 00:49:09,850
+[MISS SELLERS]
+Yes.  He said, "If you want to play games, we'll play -- and you'll be sorry."
+ແມ່ນແລ້ວ. ລາວເວົ້າວ່າ,"ຖ້າເຈົ້າຢາກຫຼິ້ນເກມ
+, ພວກເຮົາຈະຫຼິ້ນ - ແລະເຈົ້າຈະເສຍໃຈ."
+
+753
+00:49:10,350 --> 00:49:12,350
+[DULANEY]
+What happened next?
+ເກີດຫຍັງຂຶ້ນຕໍ່ໄປ?
+
+754
+00:49:12,850 --> 00:49:18,850
+[MISS SELLERS]
+While I was seeing Dr. Paley I mentioned to him one night that someone was stealing drugs from the third floor dispensary.   Three days after I spoke to him in his office he went to the Head Nurse and told her he had witnessed me stealing drugs.
+ໃນຂະນະທີ່ຂ້ອຍ ກໍາ ລັງເຫັນດຣ ປາລີ ຂ້ອຍໄດ້ກ່າວເຖິງລາວໃນຄືນຫນຶ່ງວ່າມີຄົນລັກຢາເສບຕິດຈາກໂຮງຫມໍປິ່ນປົວຊັ້ນທີສາມ
+. ສາມມື້ຫຼັງຈາກຂ້ອຍເວົ້າກັບລາວໃນຫ້ອງການຂອງລາວລາວໄປຫາພະຍາບານຫົວຫນ້າແລະບອກນາງວ່າລາວໄດ້ເຫັນຂ້ອຍລັກຢາ ເສບຕິດ.
+
+755
+00:49:19,350 --> 00:49:21,350
+[DULANEY]
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+756
+00:49:21,850 --> 00:49:27,450
+[MISS SELLERS]
+There was an inquiry.  It was his word against mine.  They believed him.  I was fired.
+ມີການສອບສວນ. ມັນແມ່ນຄໍາເວົ້າຂອງລາວຕໍ່ກັບຂອງຂ້ອຍ
+. ພວກເຂົາເຊື່ອລາວ. ຂ້ອຍຖືກໄລ່ອອກ.
+
+757
+00:49:27,950 --> 00:49:33,950
+[BIGGS]
+Joanne Braslow is getting more and more interesting.  I followed her today to an attorney's office. Joseph Koehler.
+ໂຈອານ ບຣາສໂລວ ກໍາ ລັງມີຄວາມສົນໃຈຫຼາຍຂຶ້ນແລະຫຼາຍຂຶ້ນ.
+ຂ້ອຍຕິດຕາມນາງມື້ນີ້ໄປຫ້ອງການທະນາຍຄວາມ. ໂຈເຊັບ ຄູເລີ.
+
+758
+00:49:34,450 --> 00:49:39,350
+[DULANEY]
+Joe Koehler.  I know him.  He's an estate attorney -- and he's very expensive.
+ໂຈ ຄູເລີ. ຂ້ອຍຮູ້ຈັກລາວ. ລາວເປັນທະນາຍຄວາມຊັບສິນ - ແລະລາວແພງຫຼາຍ.
+
+759
+00:49:39,850 --> 00:49:45,450
+[BIGGS]
+What would Joanne Braslow need with an estate attorney?  She wasn't even mentioned in Marsh's will.
+ໂຈນ ບຣາສໂລຍຕ້ອງການຫຍັງກັບທະນາຍຄວາມຊັບສິນ
+? ນາງບໍ່ໄດ້ກ່າວເຖິງໃນສັນຍາຂອງມາສ໌ເລີຍ.
+
+760
+00:49:45,950 --> 00:49:47,950
+[DULANEY]
+Not this will.
+ບໍ່ແມ່ນແບບນີ້.
+
+761
+00:49:48,450 --> 00:49:54,450
+[DULANEY]
+Here it is!  According to the old will Joanne Braslow was to inherit two hundred and fifty thousand dollars.
+ມັນຢູ່ບ່ອນນີ້! ອີງຕາມຄວາມຕ້ອງການເກົ່າ Joanne
+Braslow ຈະມໍລະດົກສອງຮ້ອຍຫ້າສິບພັນໂດລາ.
+
+762
+00:49:54,950 --> 00:49:58,450
+[BIGGS]
+What good does that do -- it's the old will?
+ມັນມີປະໂຫຍດຫຍັງ - ມັນແມ່ນຄວາມຕ້ອງການເກົ່າບໍ?
+
+763
+00:49:58,950 --> 00:50:04,950
+[DULANEY]
+Under the law a person cannot profit from their own wrong doing.  Since Rebecca Lawson is the sole beneficiary of the new will, if she is found guilty the will is void and Joanne Braslow could make a very good case to have the old will reinstated.
+ພາຍໃຕ້ກົດ ຫມາຍ ຄົນບໍ່ສາມາດໄດ້ຮັບຜົນປະໂຫຍດຈາກການເຮັດຜິດຂອງພວກເຂົາເອງໄດ້. ເນື່ອງຈາກວ່າເຣເບກາ ໂລຊອນແມ່ນຜູ້ໄດ້ຮັບຜົນກະທົບດຽວຂອງ testamente
+ໃຫມ່, ຖ້ານາງຖືກພົບເຫັນວ່າມີຄວາມຜິດ testamente ແມ່ນບໍ່ຖືກຕ້ອງແລະໂຈນ ບຣາສໂລຍສາມາດເຮັດກໍລະນີທີ່ດີຫຼາຍທີ່ຈະມີການຟື້ນຟູ testamente ເກົ່າ.
+
+764
+00:50:05,450 --> 00:50:11,050
+[BIGGS]
+She kills the old man and makes it look like Miss Lawson did it.  Pretty slick.
+ນາງຂ້າພໍ່ເຖົ້າແລະເຮັດໃຫ້ມັນເບິ່ງຄືວ່ານາງ
+Lawson ໄດ້ເຮັດມັນ. ງ່າຍດາຍຫຼາຍ.
+
+765
+00:50:11,550 --> 00:50:17,150
+[DULANEY]
+I was thinking that when the trial is over we'd all go skiing for a weekend.
+ຂ້ອຍ ກໍາ ລັງຄິດວ່າເມື່ອການດໍາເນີນຄະດີສິ້ນສຸດລົງ
+ພວກເຮົາທຸກຄົນຈະໄປສະກີໃນທ້າຍອາທິດ.
+
+766
+00:50:17,650 --> 00:50:21,850
+[SHARON]
+Maybe it would be a good idea if you just took Michael.
+ບາງທີມັນຈະເປັນຄວາມຄິດທີ່ດີຖ້າເຈົ້າພຽງແຕ່ເອົາໄມເກວ.
+
+767
+00:50:22,350 --> 00:50:24,350
+[DULANEY]
+Drug store.
+ຮ້ານຂາຍຢາເສບຕິດ.
+
+768
+00:50:24,850 --> 00:50:28,350
+[JUDGE BURNHAM]
+Mr. Dulaney, are you ready to call your next witness?
+ທ່ານ ດູລາເນີ, ເຈົ້າພ້ອມແລ້ວທີ່ຈະເອີ້ນພະຍານຕໍ່ໄປຂອງທ່ານບໍ?
+
+769
+00:50:28,850 --> 00:50:30,950
+[JUDGE BURNHAM]
+Mr. Dulaney, are you with us?
+ທ່ານ ດູລາເນີ, ເຈົ້າຢູ່ກັບພວກເຮົາບໍ?
+
+770
+00:50:31,450 --> 00:50:34,250
+[DULANEY]
+Yes, Your Honor.  The defense recalls Joanne Braslow.
+ແມ່ນແລ້ວ, ເຈົ້າຫນ້າທີ່. ການປ້ອງກັນຄວາມສະຫງົບເອີ້ນໂຈນ ບຣາສໂລວຄືນ.
+
+771
+00:50:34,750 --> 00:50:39,300
+[JUDGE BURNHAM]
+Miss Braslow, I'd like to remind you that you are still under oath.
+ນາງບຣາສໂລວ, ຂ້ອຍຢາກເຕືອນເຈົ້າວ່າເຈົ້າຍັງຢູ່ພາຍໃຕ້ຄໍາສາບານໂຕ.
+
+772
+00:50:39,800 --> 00:50:41,900
+[DULANEY]
+How often do you use cocaine?
+ເຈົ້າໃຊ້ໂກເກິນຫຼາຍປານໃດ?
+
+773
+00:50:42,400 --> 00:50:44,400
+[CARDENAS]
+Objection, Your Honor.
+ການຄັດຄ້ານ, ເຈົ້າຫນ້າທີ່.
+
+774
+00:50:44,900 --> 00:50:46,900
+[JUDGE BURNHAM]
+Counsel approach the bench.
+ທະນາຍຄວາມເຂົ້າມາບ່ອນນັ່ງ.
+
+775
+00:50:47,400 --> 00:50:51,600
+[JUDGE BURNHAM]
+Mr. Dulaney, I'm getting tired of seeing you this close to me.
+ທ້າວ ດູລາເນີ, ຂ້ອຍ ກໍາ ລັງເມື່ອຍທີ່ເຫັນເຈົ້າໃກ້ຂ້ອຍຫຼາຍ.
+
+776
+00:50:52,100 --> 00:50:56,300
+[CARDENAS]
+Whether or not Miss Braslow uses drugs is not an issue here.
+ບໍ່ວ່ານາງບຣາສໂລຍຈະໃຊ້ຢາເສບຕິດຫຼືບໍ່ ບໍ່ແມ່ນບັນຫາທີ່ນີ້.
+
+777
+00:50:56,800 --> 00:51:02,800
+[DULANEY]
+Your Honor -- the prosecution has introduced cocaine as one of the contributing reasons Mr. Marsh died. How it may have been introduced into the household is of vital importance.
+ເຈົ້າຫນ້າທີ່ - ການໄອຍະການໄດ້ ນໍາ ສະ ເຫນີ ໂກເກິນເປັນ ຫນຶ່ງ ໃນເຫດຜົນທີ່ປະກອບສ່ວນທີ່ທ່ານມາສ໌ຕາຍ
+. ວິທີທີ່ມັນອາດຈະຖືກ ນໍາ ເຂົ້າໃນຄອບຄົວມີຄວາມສໍາຄັນຢ່າງສໍາຄັນ.
+
+778
+00:51:03,300 --> 00:51:07,850
+[JUDGE BURNHAM]
+Are you able to back up this allegation -- or are you fishing?
+ເຈົ້າສາມາດສະຫນັບສະຫນູນການກ່າວຫານີ້ໄດ້ບໍ - ຫຼືເຈົ້າ ກໍາ ລັງຫາປາບໍ?
+
+779
+00:51:08,350 --> 00:51:10,350
+[DULANEY]
+I can back it up.
+ຂ້ອຍສາມາດຢືນຢັນໄດ້.
+
+780
+00:51:10,850 --> 00:51:12,950
+[JUDGE BURNHAM]
+You better.  Please answer the question.
+ເຈົ້າດີກວ່າ. ກະລຸນາຕອບຄໍາຖາມ.
+
+781
+00:51:13,450 --> 00:51:15,450
+[JOANNE]
+I've tried it.
+ຂ້ອຍເຄີຍພະຍາຍາມແລ້ວ.
+
+782
+00:51:15,950 --> 00:51:21,950
+[DULANEY]
+You've tried it?  Isn't it true that you've been in and out of Rehab centers for the last four years?
+ເຈົ້າເຄີຍພະຍາຍາມມັນບໍ?
+ມັນບໍ່ແມ່ນຄວາມຈິງວ່າເຈົ້າໄດ້ເຂົ້າແລະອອກຈາກສູນຟື້ນຟູໃນສີ່ປີທີ່ຜ່ານມາບໍ?
+
+783
+00:51:22,450 --> 00:51:24,900
+[JOANNE]
+I've been to a few -- yes.
+ຂ້ອຍເຄີຍໄປບາງບ່ອນ - ແມ່ນແລ້ວ.
+
+784
+00:51:25,400 --> 00:51:28,200
+[DULANEY]
+You don't like Miss Lawson much do you?
+ເຈົ້າບໍ່ມັກນາງ Lawson ຫຼາຍບໍ?
+
+785
+00:51:28,700 --> 00:51:30,700
+[JOANNE]
+No.
+ບໍ່
+
+786
+00:51:31,200 --> 00:51:37,200
+[DULANEY]
+You don't like her because you were involved with Mr. Marsh before she came along.  Isn't that true?
+ເຈົ້າບໍ່ມັກນາງເພາະວ່າເຈົ້າກ່ຽວຂ້ອງກັບທ່ານມາສ໌ກ່ອນທີ່ນາງຈະມາ
+. ນັ້ນບໍ່ແມ່ນຄວາມຈິງບໍ?
+
+787
+00:51:37,700 --> 00:51:39,700
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+788
+00:51:40,200 --> 00:51:45,450
+[DULANEY]
+You resented the fact that she told you what to do in Mr. Marsh's house?
+ເຈົ້າບໍ່ພໍໃຈທີ່ນາງບອກເຈົ້າວ່າຄວນເຮັດຫຍັງໃນເຮືອນຂອງທ່ານມາສ໌ບໍ?
+
+789
+00:51:45,950 --> 00:51:47,950
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+790
+00:51:48,450 --> 00:51:54,050
+[DULANEY]
+And you resented that he cared for her in a way he once cared for you?
+ແລະເຈົ້າບໍ່ພໍໃຈທີ່ລາວເບິ່ງແຍງນາງໃນວິທີທີ່ລາວເຄີຍເບິ່ງແຍ່ງເຈົ້າບໍ?
+
+791
+00:51:54,550 --> 00:51:56,550
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+792
+00:51:57,050 --> 00:52:00,200
+[DULANEY]
+--And that Mr. Marsh paid less attention to you?
+- ແລະວ່າທ່ານມາສ໌ເອົາໃຈໃສ່ທ່ານ ຫນ້ອຍ ກວ່າບໍ?
+
+793
+00:52:00,700 --> 00:52:02,700
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+794
+00:52:03,200 --> 00:52:05,300
+[DULANEY]
+--and that he changed his will?
+- ແລະວ່າລາວໄດ້ປ່ຽນຄວາມຕ້ອງການຂອງລາວບໍ?
+
+795
+00:52:05,800 --> 00:52:07,800
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+796
+00:52:08,300 --> 00:52:14,300
+[DULANEY]
+In his previous will Mr. Marsh left you two hundred and fifty thousand dollars -- then he cut you out.  Why do you think he did that?
+ໃນຄວາມປາດຖະຫນາທີ່ຜ່ານມາຂອງທ່ານມາສ໌ໄດ້ປ່ອຍໃຫ້ທ່ານສອງຮ້ອຍຫ້າສິບພັນໂດລາ
+- ຫຼັງຈາກນັ້ນລາວໄດ້ຕັດທ່ານອອກ. ເຈົ້າຄິດວ່າລາວເຮັດແບບນັ້ນເປັນຫຍັງ?
+
+797
+00:52:14,800 --> 00:52:17,600
+[JOANNE]
+She talked him into it.  She wanted everything.
+ນາງໄດ້ຊັກຊວນລາວເຂົ້າໄປໃນມັນ. ນາງຕ້ອງການທຸກຢ່າງ.
+
+798
+00:52:18,100 --> 00:52:24,100
+[DULANEY]
+Two hundred and fifty thousand dollars is a lot of money.  That must have made you pretty angry?
+ເງິນສອງຮ້ອຍຫ້າສິບພັນໂດລາແມ່ນເງິນຫຼາຍ
+. ນັ້ນຕ້ອງເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍຫຼາຍບໍ?
+
+799
+00:52:24,600 --> 00:52:26,600
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+800
+00:52:27,100 --> 00:52:33,100
+[DULANEY]
+You testified that you returned to Mr. Marsh's house at eleven o'clock the night of his murder.  Is that correct?
+ເຈົ້າໄດ້ໃຫ້ຄວາມເຫັນວ່າເຈົ້າກັບມາເຮືອນຂອງທ່ານມາສ໌ໃນເວລາສິບຫນຶ່ງໃນຄືນຂອງການຄາດຕະກໍາຂອງລາວ
+. ນັ້ນແມ່ນຖືກຕ້ອງບໍ?
+
+801
+00:52:33,600 --> 00:52:35,600
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+802
+00:52:36,100 --> 00:52:42,100
+[DULANEY]
+Well - I'm a little confused.  This is a charge receipt from Rosen's Drug Store where Mr. Marsh had an account.  It's dated the day of the murder.  Is this your signature?
+ດີ - ຂ້ອຍສັບສົນເລັກນ້ອຍ. ນີ້ແມ່ນໃບຮັບເງິນຈາກຮ້ານຂາຍຢາຂອງໂຣເຊນ
+ບ່ອນທີ່ທ່ານມາສ໌ມີບັນຊີ. ມັນມີວັນທີໃນມື້ຂອງການຄາດຕະກໍາ. ນີ້ແມ່ນລາຍເຊັນຂອງທ່ານບໍ?
+
+803
+00:52:42,600 --> 00:52:44,600
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+804
+00:52:45,100 --> 00:52:49,300
+[DULANEY]
+There's an item you picked up that's marked.  Will you read it?
+ມີສິ່ງບາງຢ່າງທີ່ທ່ານເອົາທີ່ຖືກ ຫມາຍ ໄວ້. ເຈົ້າຈະອ່ານມັນບໍ?
+
+805
+00:52:49,800 --> 00:52:51,800
+[JOANNE]
+Dristan nasal spray.
+ສະເປຣາຍດັງດຣິສຕັນ.
+
+806
+00:52:52,300 --> 00:52:55,800
+[DULANEY]
+Would you read for us the time of the purchase?
+ເຈົ້າຈະອ່ານເວລາການຊື້ໃຫ້ພວກເຮົາບໍ?
+
+807
+00:52:56,300 --> 00:52:58,300
+[JOANNE]
+Three fifteen.
+ສາມສິບຫ້າ.
+
+808
+00:52:58,800 --> 00:53:00,800
+[DULANEY]
+A.M -- or P.M.?
+ຕອນເຊົ້າ - ຫຼືຕອນບ່າຍ?
+
+809
+00:53:01,300 --> 00:53:07,300
+[DULANEY]
+You see that's what bothers me.  No other bottle of nasal spray was found in the house.  The police looked. There was only the one bottle.  But you say you didn't arrive until after Mr. Marsh was dead -- yet we know he was using the nasal spray prior to his death.  How do you think it got there?
+ເຈົ້າເຫັນວ່ານັ້ນແມ່ນສິ່ງທີ່ກັງວົນຂ້ອຍ. ບໍ່ມີຈອກສີດດັງອື່ນໆທີ່ພົບເຫັນໃນເຮືອນ. ຕໍາຫຼວດເບິ່ງ. ມີພຽງແຕ່ຈອກດຽວເທົ່ານັ້ນ.
+ແຕ່ເຈົ້າເວົ້າວ່າເຈົ້າບໍ່ໄດ້ມາຮອດຈົນກວ່າຫຼັງຈາກທ່ານມາສ໌ຕາຍ - ເຖິງຢ່າງໃດກໍ່ຕາມພວກເຮົາຮູ້ວ່າລາວ ກໍາ ລັງໃຊ້ສີດ ດັງກ່ອນການຕາຍຂອງລາວ. ເຈົ້າຄິດວ່າມັນມາຮອດບ່ອນນັ້ນແນວໃດ?
+
+810
+00:53:07,800 --> 00:53:09,800
+[JOANNE]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+811
+00:53:10,300 --> 00:53:16,300
+[DULANEY]
+Isn't it true that you stopped by the house after you left the drug store and dropped off the items you bought?
+ມັນບໍ່ແມ່ນຄວາມຈິງບໍວ່າເຈົ້າໄດ້ຢຸດຢູ່ເຮືອນຫຼັງຈາກເຈົ້າອອກຈາກຮ້ານຂາຍຢາແລະສົ່ງສິ່ງຂອງທີ່ທ່ານຊື້
+?
+
+812
+00:53:16,800 --> 00:53:18,800
+[JOANNE]
+No.
+ບໍ່
+
+813
+00:53:19,300 --> 00:53:23,150
+[DULANEY]
+Isn't it true that you put the cocaine in the bottle?
+ມັນບໍ່ແມ່ນຄວາມຈິງບໍວ່າເຈົ້າເອົາໂກເກິນໃສ່ຈອກ?
+
+814
+00:53:23,650 --> 00:53:26,450
+[JOANNE]
+No!  Why would I want to kill him?
+ບໍ່! ຂ້ອຍຢາກຂ້າລາວເປັນຫຍັງ?
+
+815
+00:53:26,950 --> 00:53:32,950
+[DULANEY]
+Because you were jealous.  Because he cut you out of the will.  Because you have a cocaine habit to feed -- because you know that if Rebecca Lawson is found guilty the new will is void -- and there's a very good chance the old one would be honored.
+ເພາະວ່າເຈົ້າມີຄວາມຢອກຊື່ໆ ແຊງ. ເພາະວ່າລາວຕັດເຈົ້າອອກຈາກຄວາມຕ້ອງການ. ເພາະວ່າເຈົ້າມີພຶດຕິກໍາໂກເກິນທີ່ຈະໃຫ້ອາຫານ -
+ເພາະວ່າເຈົ້າຮູ້ວ່າຖ້າເຣເບກາ ໂລຊັນຖືກພົບວ່າມີຄວາມຜິດຄວາມຕ້ອງການ ໃຫມ່ ແມ່ນບໍ່ຖືກຕ້ອງ - ແລະມີໂອກາດທີ່ດີຫຼາຍທີ່ເກົ່າຈະຖືກຍ້ອງຍໍ.
+
+816
+00:53:33,450 --> 00:53:35,450
+[DULANEY]
+The defense rests.
+ການປ້ອງກັນພັກຜ່ອນ.
+
+817
+00:53:35,950 --> 00:53:38,400
+[SHARON]
+We can't go on like this, Frank.
+ພວກເຮົາບໍ່ສາມາດສືບຕໍ່ໄປແບບນີ້ໄດ້, ແຟຣນກ໌.
+
+818
+00:53:38,900 --> 00:53:40,900
+[DULANEY]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+819
+00:53:41,400 --> 00:53:43,400
+[SHARON]
+Talk to me.
+ເວົ້າກັບຂ້ອຍ.
+
+820
+00:53:43,900 --> 00:53:46,350
+[SHARON]
+Please -- this is ripping us apart.
+ກະລຸນາ - ນີ້ແມ່ນ ກໍາ ລັງແຕກແຍກພວກເຮົາ.
+
+821
+00:53:46,850 --> 00:53:48,950
+[DULANEY]
+I can't talk about it now.
+ຂ້ອຍບໍ່ສາມາດເວົ້າກ່ຽວກັບມັນໄດ້ດຽວນີ້.
+
+822
+00:53:49,450 --> 00:53:51,900
+[SHARON]
+Don't shut me out.  Let me in.
+ຢ່າປິດຂ້ອຍອອກ. ໃຫ້ຂ້ອຍເຂົ້າມາ.
+
+823
+00:53:52,400 --> 00:53:58,000
+[DULANEY]
+You wouldn't like what you'd see. You don't know me anymore.  I don't know me anymore.
+ເຈົ້າຈະບໍ່ມັກສິ່ງທີ່ເຈົ້າຈະເຫັນ.
+ເຈົ້າບໍ່ຮູ້ຈັກຂ້ອຍອີກແລ້ວ. ຂ້ອຍບໍ່ຮູ້ຈັກຕົວເອງອີກຕໍ່ໄປ.
+
+824
+00:53:58,500 --> 00:54:00,600
+[SHARON]
+We can't pretend this isn't happening.
+ພວກເຮົາບໍ່ສາມາດເຮັດແບບວ່າສິ່ງນີ້ບໍ່ໄດ້ເກີດຂຶ້ນໄດ້.
+
+825
+00:54:01,100 --> 00:54:03,100
+[DULANEY]
+Please -- not now.
+ກະລຸນາ - ບໍ່ແມ່ນດຽວນີ້.
+
+826
+00:54:03,600 --> 00:54:05,700
+[SHARON]
+Why didn't you come to me?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ມາຫາຂ້ອຍ?
+
+827
+00:54:06,200 --> 00:54:08,200
+[DULANEY]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+828
+00:54:08,700 --> 00:54:13,250
+[SHARON]
+You used to like to touch me -- to make love to me.
+ເຈົ້າເຄີຍມັກຈັບຂ້ອຍ - ເພື່ອຮັກກັບຂ້ອຍ.
+
+829
+00:54:13,750 --> 00:54:15,750
+[DULANEY]
+It's more involved than that.
+ມັນມີສ່ວນກ່ຽວຂ້ອງຫຼາຍກ່ວານັ້ນ.
+
+830
+00:54:16,250 --> 00:54:18,350
+[SHARON]
+It was a place to start.
+ມັນເປັນບ່ອນທີ່ຈະເລີ່ມຕົ້ນ.
+
+831
+00:54:18,850 --> 00:54:24,850
+[DULANEY]
+You think that's the answer?  Sex? Is that what you want?  You want me to make love to you?
+ເຈົ້າຄິດວ່ານັ້ນແມ່ນ ຄໍາ ຕອບບໍ? ເພດ?
+ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຕ້ອງການບໍ? ເຈົ້າຢາກໃຫ້ຂ້ອຍຮັກກັບເຈົ້າບໍ?
+
+832
+00:54:25,350 --> 00:54:31,350
+[SHARON]
+I don't want our lives ruined because of this.  I love you, Frank.  I want this to work -- but you have to help me.  You have to come back from where ever it is you are.
+ຂ້ອຍບໍ່ຢາກໃຫ້ຊີວິດຂອງພວກເຮົາຖືກ ທໍາ ລາຍຍ້ອນສິ່ງນີ້. ຂ້ອຍຮັກເຈົ້າ, ແຟຣນກ໌.
+ຂ້ອຍຢາກໃຫ້ສິ່ງນີ້ເຮັດວຽກ - ແຕ່ເຈົ້າຕ້ອງຊ່ວຍຂ້ອຍ. ເຈົ້າຕ້ອງກັບມາຈາກບ່ອນໃດກໍ່ຕາມທີ່ເຈົ້າຢູ່.
+
+833
+00:54:31,850 --> 00:54:33,950
+[SHARON]
+Frank -- stop it!  Stop it!
+ແຟຣນກ໌ - ຢຸດຢັ້ງ! ຢຸດເຊົາ!
+
+834
+00:54:34,450 --> 00:54:37,600
+[DULANEY]
+Is this what you want -- huh?  Is it?
+ນີ້ແມ່ນສິ່ງທີ່ເຈົ້າຕ້ອງການບໍ - ແມ່ນບໍ? ແມ່ນບໍ່?
+
+835
+00:54:38,100 --> 00:54:40,550
+[SHARON]
+Let me go!  Godammit, Frank let go!
+ໃຫ້ຂ້ອຍໄປ! ພຣະເຈົ້າແມຕ໌, ແຟຣນກ໌ປ່ອຍໄປ!
+
+836
+00:54:41,050 --> 00:54:43,050
+[MICHAEL]
+Daddy -- stop it!
+ພໍ່ - ຢຸດຢັ້ງ!
+
+837
+00:54:43,550 --> 00:54:45,550
+[DULANEY]
+Oh -- Jesus.
+ໂອ້ - ພຣະເຢຊູ.
+
+838
+00:54:46,050 --> 00:54:48,050
+[SHARON]
+Frank?
+ແຟຣນກ໌?
+
+839
+00:54:48,550 --> 00:54:51,000
+[DULANEY]
+I'm sorry.  God -- I'm so sorry.
+ຂ້ອຍຂໍໂທດ. ພຣະເຈົ້າ - ຂ້ອຍ ຂໍໂທດຫຼາຍ.
+
+840
+00:54:51,500 --> 00:54:53,600
+[DULANEY]
+Help me.  Please -- help me.
+ຊ່ວຍຂ້ອຍແມ. ກະລຸນາ - ຊ່ວຍຂ້ອຍ.
+
+841
+00:54:54,100 --> 00:54:56,100
+[JUDGE BURNHAM]
+Mr. Dulaney.
+ທ້າວ ດູລາເນີ.
+
+842
+00:54:56,600 --> 00:55:02,600
+[DULANEY]
+The Prosecution's case is built on theory -- speculation.  Could Rebecca Lawson have done this?  Is it possible that she did that? Where are the facts?  The evidence.  The State has presented two spurned lovers and a jealous secretary.  Hardly what I would call impartial witnesses. Where is one shred of conclusive, irrefutable evidence?  I don't see it -- and I don't think you do either. Do you know why?  Because there isn't any.
+ກໍລະນີຂອງອົງການໄອຍະການຖືກສ້າງຂຶ້ນດ້ວຍທິດສະດີ - ການຄາດຄະເນ. ຣີເບກາ ໂລຊັນສາມາດເຮັດສິ່ງນີ້ໄດ້ບໍ? ມັນເປັນໄປໄດ້ວ່ານາງເຮັດສິ່ງນັ້ນບໍ? ຄວາມຈິງຢູ່ໃສ? ຫຼັກຖານ. ລັດໄດ້ ນໍາ ສະ ເຫນີ
+ຄົນຮັກທີ່ຖືກປະຕິເສດສອງຄົນແລະເລຂາທິການໂຊກຮ້າຍ. ເກືອບສິ່ງທີ່ຂ້ອຍຈະເອີ້ນວ່າພະຍານທີ່ບໍ່ເປັນສ່ວນແບ່ງ. ມີຫຼັກຖານທີ່ຕັດສິນໃຈ, ທີ່ບໍ່ສາມາດປະຕິເສດໄດ້ໃດ? ຂ້ອຍບໍ່ເຫັນມັນ - ແລະຂ້ອຍບໍ່ຄິດວ່າເຈົ້າເຮັດເຊັ່ນກັນ. ເຈົ້າ
+
+843
+00:55:03,100 --> 00:55:09,100
+[DULANEY]
+It's human nature.  We want what we want -- when we want it.  We don't think about the consequences of our actions.  When desire fills us we all do things that we know are bad for us.  We live for the moment.  Here was an exciting young woman who unlocked doors.  Doors that led into a new world.  A world he entered willingly -- eagerly.  He wanted to please her -- and so, he did not tell her of his illness.  I know it might be difficult for you to understand wanting something so badly that you are willing to risk everything -- but that's what passion does to you. It's a fire -- uncontrollable.  It consumes you -- and the only thing you can do is let it burn.  Andrew Marsh let it burn.  It was his life - - his choice -- and maybe his mistake -- but making love is not a crime.  We all have fires inside us -- secret desires.  We guard them --hold them in the cages that we've built.  When someone comes along and opens the gate, they rush out and feed blindly on their pleasure.  Rebecca Lawson loved Andrew Marsh.  She didn't kill him -- if anything did, it was his own passion.
+ມັນເປັນທໍາມະຊາດຂອງມະນຸດ. ພວກເຮົາຢາກສິ່ງທີ່ພວກເຮົາຕ້ອງການ - ເມື່ອພວກເຮົາຕ້ອງການມັນ. ພວກເຮົາບໍ່ຄິດກ່ຽວກັບຜົນກະທົບຂອງການກະ ທໍາ ຂອງພວກເຮົາ. ເມື່ອຄວາມປາຖະຫນາເຕັມໄປດ້ວຍພວກເຮົາທຸກຄົນເຮັດສິ່ງຕ່າງໆທີ່ພວກເຮົາຮູ້ວ່າມັນບໍ່ດີ ສໍາ ລັບພວກເຮົາ.
+ພວກເຮົາດໍາລົງຊີວິດໃນເວລານີ້. ນີ້ແມ່ນແມ່ຍິງຫນຸ່ມທີ່ ຫນ້າ ຕື່ນເຕັ້ນທີ່ເປີດປະຕູ. ປະຕູທີ່ ນໍາ ໄປສູ່ໂລກ ໃຫມ່. ໂລກທີ່ລາວເຂົ້າມາດ້ວຍຄວາມສະຫມັກໃຈ - ດ້ວຍຄວາມກະຕຸ້ນໃຈ. ລາວຢາກເຮັດໃຫ້ນາງພໍໃຈ - ແລະດັ່ງນັ້ນ, ລາວບໍ່ໄດ້ບອກນາງກ່ຽວກັບພະຍາດຂອງລາວ. ຂ້ອຍຮູ້ວ່າ
+
+844
+00:55:09,600 --> 00:55:15,600
+[CARDENAS]
+It's true -- we all have fires burning inside us.  Rebecca Lawson was very aware of the fire burning inside Andrew Marsh -- and she stoked those flames -- fanning them until they burned so hot that reason and judgement left him.  Is making love a crime?  Of course not -- but the question isn't as simple as that. Rebecca Lawson used her seductive qualities to entice Andrew Marsh. She used sex as a catalyst and cocaine as the terminus.  The combination of the two provided the conclusion of a premeditated act.  She asked Dr. Paley about cocaine. Her fingerprints were found on the nasal spray bottle that contained the cocaine -- and she was the sole beneficiary of Andrew Marsh's will. She planned it from beginning to end. She knew about his heart.  She secretly administered cocaine, then used wild and physically demanding sex to induce a heart attack.  Making love is an act of passion between two people to affirm their vows of love.  This was not an act of love -- this was an act of greed. This was betrayal.  Rebecca Lawson killed Andrew Marsh -- and I'm counting on you to punish her for that crime.
+ມັນເປັນຄວາມຈິງ - ພວກເຮົາທຸກຄົນມີໄຟໄຫມ້ຢູ່ພາຍໃນພວກເຮົາ. ຣີເບກາ ໂລຊັນຮູ້ສຶກຫຼາຍກ່ຽວກັບໄຟໄຜ່ຢູ່ພາຍໃນແອນດຣ໌ ມາສ໌ - ແລະນາງໄດ້ກະຕຸ້ນໄຟເຫຼົ່ານັ້ນ -
+ປຸກລະດົມພວກມັນຈົນກວ່າພວກມັນຈະເຜົາຜານຮ້ອນຫຼາຍທີ່ເຫດຜົນແລະການຕັດສິນໃຈໄດ້ປ່ອຍລາວ. ການເຮັດຄວາມຮັກເປັນອາຊະຍາກໍາບໍ? ແນ່ນອນວ່າບໍ່ແມ່ນ - ແຕ່ ຄໍາ ຖາມບໍ່ແມ່ນງ່າຍດາຍເທົ່ານັ້ນ. ຣິເບກາກາ ໂລສັນໄດ້ໃຊ້ຄຸນສົມບັດທີ່ຊັກຊ
+
+845
+00:55:16,100 --> 00:55:18,900
+[DULANEY]
+They're back already?  It's only been three hours.
+ພວກເຂົາກັບມາແລ້ວບໍ? ມັນພຽງແຕ່ສາມຊົ່ວໂມງເທົ່ານັ້ນ.
+
+846
+00:55:19,400 --> 00:55:23,250
+[JUDGE BURNHAM]
+Ladies and gentlemen of the jury, have you reached a verdict?
+ພວກທ່ານແລະພວກທ່ານຂອງຄະນະກໍາມະການ, ທ່ານໄດ້ບັນລຸການຕັດສິນໃຈບໍ?
+
+847
+00:55:23,750 --> 00:55:25,750
+[JURY FOREMAN]
+We have, Your Honor.
+ພວກເຮົາມີ, ເຈົ້າຫນ້າທີ່.
+
+848
+00:55:26,250 --> 00:55:30,100
+[ON REBECCA]
+She waits nervously for the Court Clerk to read the verdict.
+ນາງລໍຖ້າຢ່າງກັງວົນໃຫ້ເຈົ້າຫນ້າທີ່ສານອ່ານຄໍາຕັດສິນ.
+
+849
+00:55:30,600 --> 00:55:33,400
+[ON CARDENAS]
+he taps his pen against the desk anxiously.
+ລາວຕີກະທູ້ຂອງລາວໃສ່ໂຕະດ້ວຍຄວາມກັງວົນ.
+
+850
+00:55:33,900 --> 00:55:38,100
+[ON THE COURT CLERK]
+He opens the verdict slip and looks at it.  He stands slowly.
+ລາວເປີດກະທູ້ຕັດສິນໃຈແລະເບິ່ງມັນ. ລາວຢືນຊ້າໆ.
+
+851
+00:55:38,600 --> 00:55:41,400
+[COURT CLERK]
+The jury finds the defendant -- not guilty.
+ຄະນະກໍາມະການພົບວ່າຜູ້ຖືກກ່າວຫາ - ບໍ່ມີຄວາມຜິດ.
+
+852
+00:55:41,900 --> 00:55:44,000
+[BIGGS]
+What are you gonna do now?
+ເຈົ້າຈະເຮັດແນວໃດດຽວນີ້?
+
+853
+00:55:44,500 --> 00:55:46,500
+[DULANEY]
+Take some time off.
+ເອົາເວລາພັກຜ່ອນບາງຄັ້ງ.
+
+854
+00:55:47,000 --> 00:55:49,800
+[BIGGS]
+You think the D.A.'s gonna file on Joanne?
+ເຈົ້າຄິດວ່າໄອຍະການຈະຍື່ນເອກະສານຕໍ່ໂຈອານບໍ?
+
+855
+00:55:50,300 --> 00:55:52,300
+[DULANEY]
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+856
+00:55:52,800 --> 00:55:54,900
+[DULANEY]
+You did a good job, Charlie.
+ເຈົ້າເຮັດວຽກທີ່ດີ, ແຊລລີ.
+
+857
+00:55:55,400 --> 00:55:57,400
+[BIGGS]
+Thanks, Mister D.
+ຂອບໃຈ, ທ້າວດີ.
+
+858
+00:55:57,900 --> 00:56:03,900
+[JOANNE]
+That bastard should have left me something.  I worked for him for six years -- and he goes and gives it all to her.
+ຄົນໂຊກຮ້າຍນັ້ນຄວນປ່ອຍບາງສິ່ງບາງຢ່າງໃຫ້ຂ້ອຍ. ຂ້ອຍເຮັດວຽກ
+ສໍາ ລັບລາວເປັນເວລາຫົກປີ - ແລະລາວໄປແລະໃຫ້ມັນທັງ ຫມົດ ໃຫ້ນາງ.
+
+859
+00:56:04,400 --> 00:56:10,400
+[JOANNE]
+You take what people say and make it ugly.  You make others believe what you want them to.  She should have been found guilty.  She shouldn't have gotten off.
+ເຈົ້າເອົາສິ່ງທີ່ຄົນເວົ້າແລະເຮັດໃຫ້ມັນໂຊກຮ້າຍ.
+ເຈົ້າເຮັດໃຫ້ຄົນອື່ນເຊື່ອສິ່ງທີ່ເຈົ້າຢາກໃຫ້ພວກເຂົາເຊື່ອ. ນາງຄວນຖືກພົບວ່າມີຄວາມຜິດ. ນາງບໍ່ຄວນອອກຈາກ.
+
+860
+00:56:10,900 --> 00:56:13,350
+[DULANEY]
+Then you would have gotten your money?
+ຫຼັງຈາກນັ້ນເຈົ້າຈະໄດ້ຮັບເງິນຂອງທ່ານບໍ?
+
+861
+00:56:13,850 --> 00:56:15,850
+[JOANNE]
+Yes.
+ແມ່ນແລ້ວ.
+
+862
+00:56:16,350 --> 00:56:18,800
+[DULANEY]
+You killed him -- didn't you, Joanne?
+ເຈົ້າໄດ້ຂ້າລາວ - ເຈົ້າບໍ່, ໂຈອານ?
+
+863
+00:56:19,300 --> 00:56:23,850
+[JOANNE]
+Do you think if I did I'd be stupid enough to tell you?
+ເຈົ້າຄິດວ່າຖ້າຂ້ອຍເຮັດຂ້ອຍຈະໂງ່ພໍທີ່ຈະບອກເຈົ້າບໍ?
+
+864
+00:56:24,350 --> 00:56:26,800
+[DULANEY]
+What do you have in your purse?
+ເຈົ້າມີຫຍັງຢູ່ໃນກະເປົາເງິນຂອງທ່ານ?
+
+865
+00:56:27,300 --> 00:56:33,300
+[JOANNE]
+What do you think I've got?  A gun? Maybe I'm gonna kill you too.  Maybe I'll blow your head off right now.
+ເຈົ້າຄິດວ່າຂ້ອຍມີຫຍັງ? ປືນບໍ? ບາງທີຂ້ອຍຈະຂ້າເຈົ້າຄືກັນ
+. ບາງທີ ຂ້ອຍຈະລະເບີດຫົວເຈົ້າໃນເວລານີ້.
+
+866
+00:56:33,800 --> 00:56:39,800
+[JOANNE]
+I'm gonna go to jail.  I know they're gonna make it look like I did it. They gotta put it on someone.
+ຂ້ອຍຈະໄປຄຸກ. ຂ້ອຍຮູ້ວ່າພວກເຂົາຈະເຮັດໃຫ້ມັນເບິ່ງຄືວ່າຂ້ອຍເຮັດມັນ
+. ພວກເຂົາຕ້ອງເອົາມັນໃສ່ຄົນໃດຫນຶ່ງ.
+
+867
+00:56:40,300 --> 00:56:42,300
+[DULANEY]
+Why'd you come here?
+ເຈົ້າມາບ່ອນນີ້ເປັນຫຍັງ?
+
+868
+00:56:42,800 --> 00:56:48,800
+[JOANNE]
+To show you this.  It's a letter from that lawyer, Koehler.  He wrote it to me the day after I saw him.  He's the one who told me I could get the money if Miss Lawson went to jail.
+ເພື່ອສະແດງສິ່ງນີ້ໃຫ້ເຈົ້າ. ມັນແມ່ນຈົດຫມາຍຈາກທະນາຍຄວາມຄົນນັ້ນ, ໂກເລີ.
+ລາວຂຽນມັນໃຫ້ຂ້ອຍໃນມື້ຫຼັງຈາກຂ້ອຍເຫັນລາວ. ລາວເປັນຄົນທີ່ບອກຂ້ອຍວ່າຂ້ອຍສາມາດໄດ້ຮັບເງິນໄດ້ຖ້ານາງ Lawson ໄປຄຸກ.
+
+869
+00:56:49,300 --> 00:56:51,750
+[DULANEY]
+You didn't know about it before that?
+ເຈົ້າບໍ່ຮູ້ກ່ຽວກັບມັນກ່ອນນັ້ນບໍ?
+
+870
+00:56:52,250 --> 00:56:54,250
+[JOANNE]
+No.
+ບໍ່
+
+871
+00:56:54,750 --> 00:56:58,950
+[DULANEY]
+Then why did you go see Mr. Koehler in the first place?
+ຫຼັງຈາກນັ້ນເປັນຫຍັງເຈົ້າຈຶ່ງໄປພົບກັບທ່ານໂກເລີໃນອັນດັບທໍາອິດ?
+
+872
+00:56:59,450 --> 00:57:01,450
+[JOANNE]
+Because he called me.
+ເພາະລາວໂທຫາຂ້ອຍ.
+
+873
+00:57:01,950 --> 00:57:03,950
+[DULANEY]
+Hi, Joe.
+ສະບາຍດີ ໂຈ.
+
+874
+00:57:04,450 --> 00:57:06,900
+[KOEHLER]
+Frank -- what are you doing here?
+ແຟຣນກ໌ - ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+875
+00:57:07,400 --> 00:57:13,000
+[DULANEY]
+I need to ask you a question.  What made you get in touch with Joanne Braslow?
+ຂ້ອຍຕ້ອງຖາມເຈົ້າ ຄໍາ ຖາມຫນຶ່ງ.
+ເປັນຫຍັງເຈົ້າຈຶ່ງຕິດຕໍ່ກັບໂຈອານ ບຣາສໂລວ?
+
+876
+00:57:13,500 --> 00:57:15,950
+[KOEHLER]
+You know I can't talk about that.
+ເຈົ້າຮູ້ວ່າຂ້ອຍບໍ່ສາມາດເວົ້າກ່ຽວກັບເລື່ອງນັ້ນໄດ້.
+
+877
+00:57:16,450 --> 00:57:22,450
+[DULANEY]
+I'm not asking for names or specifics.  I just want to know what prompted you to make the call?
+ຂ້ອຍບໍ່ໄດ້ຖາມຊື່ຫຼືລາຍລະອຽດສະເພາະ.
+ຂ້ອຍພຽງແຕ່ຢາກຮູ້ວ່າສິ່ງໃດທີ່ຊຸກຍູ້ເຈົ້າໃຫ້ໂທ?
+
+878
+00:57:22,950 --> 00:57:24,950
+[KOEHLER]
+Sorry.
+ຂໍໂທດ.
+
+879
+00:57:25,450 --> 00:57:27,550
+[DULANEY]
+Please -- I need your help.
+ກະລຸນາ - ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ.
+
+880
+00:57:28,050 --> 00:57:34,000
+[KOEHLER]
+All I can tell you is I was contacted by an interested party on Miss Braslow's behalf.
+ຂ້ອຍພຽງແຕ່ສາມາດບອກເຈົ້າໄດ້ວ່າຂ້ອຍຖືກຕິດຕໍ່ພົວພັນໂດຍພາກສ່ວນທີ່ສົນໃຈໃນນາມນາງບຣາສໂລວ
+.
+
+881
+00:57:34,500 --> 00:57:36,500
+[DULANEY]
+Hello?
+ສະບາຍດີ?
+
+882
+00:57:37,000 --> 00:57:42,250
+[REBECCA]
+Frank -- It's Rebecca.  I need to see you right away.  I've got the tape.
+ແຟຣນກ໌ - ມັນແມ່ນເຣເບກາ. ຂ້ອຍຕ້ອງເຫັນເຈົ້າທັນທີ. ຂ້ອຍມີເທບ.
+
+883
+00:57:42,750 --> 00:57:44,750
+[DULANEY]
+I'll be right there.
+ຂ້ອຍຈະມາຮອດທັນທີ.
+
+884
+00:57:45,250 --> 00:57:47,250
+[DULANEY]
+Rebecca?
+ຣີເບກາ?
+
+885
+00:57:47,750 --> 00:57:50,200
+[REBECCA]
+Is this what you're looking for, Frank?
+ນີ້ແມ່ນສິ່ງທີ່ເຈົ້າ ກໍາ ລັງຊອກຫາບໍ, ແຟຣນກ໌?
+
+886
+00:57:50,700 --> 00:57:54,900
+[DULANEY]
+You killed him.  You killed him -- and I got you off.
+ເຈົ້າໄດ້ຂ້າລາວ. ເຈົ້າໄດ້ຕາຍລາວ - ແລະຂ້ອຍໄດ້ປ່ອຍເຈົ້າອອກໄປ.
+
+887
+00:57:55,400 --> 00:57:57,400
+[REBECCA]
+That's crazy.
+ນັ້ນແມ່ນໂຊກຮ້າຍ.
+
+888
+00:57:57,900 --> 00:58:03,900
+[DULANEY]
+Is it?  Joanne Braslow was perfect, wasn't she?  You knew we'd see her on the tape and find out about her coke problem.  After that, the digging should have been easy -- but we missed the will.  You knew we were following her, so you called Koehler and had him contact her.  That put us right back on track.  All we needed then was to prove that she had an opportunity.  The drug store took care of that.  She dropped off the stuff and you came back and killed him.  Didn't you?
+ມັນເປັນບໍ? ໂຈນ ບຣັສໂລວແມ່ນສົມບູນແບບ, ແມ່ນບໍ? ເຈົ້າຮູ້ວ່າພວກເຮົາຈະເຫັນນາງໃນເທບແລະຊອກຫາກ່ຽວກັບບັນຫາໂກເກຍຂອງນາງ. ຫຼັງຈາກນັ້ນ, ການຂຸດຄົ້ນຄວນຈະເປັນງ່າຍດາຍ - ແຕ່ພວກເຮົາພາດຄວາມຕ້ອງການ. ເຈົ້າຮູ້ວ່າພວກເຮົາ
+ກໍາ ລັງຕິດຕາມນາງ, ສະນັ້ນເຈົ້າໂທຫາໂກເລີແລະໃຫ້ລາວຕິດຕໍ່ກັບນາງ. ນັ້ນເຮັດໃຫ້ພວກເຮົາກັບຄືນໄປບ່ອນທາງທີ່ຖືກຕ້ອງ. ສິ່ງດຽວທີ່ພວກເຮົາຕ້ອງການໃນເວລານັ້ນແມ່ນເພື່ອພິສູດວ່ານາງມີໂອກາດ. ຮ້ານຂາຍຢາໄດ້ເບິ່ງແຍງສິ່ງນັ້ນ
+
+889
+00:58:04,400 --> 00:58:06,400
+[DULANEY]
+I want the tape.
+ຂ້ອຍຢາກເທບ.
+
+890
+00:58:06,900 --> 00:58:12,900
+[REBECCA]
+I've been thinking about that.  I've decided to give it to you after I've collected the inheritance.  You can take that one if you want -- but there's another copy.
+ຂ້ອຍ ກໍາ ລັງຄິດກ່ຽວກັບເລື່ອງນັ້ນ. ຂ້ອຍໄດ້ຕັດສິນໃຈໃຫ້ມັນໃຫ້ເຈົ້າຫຼັງຈາກຂ້ອຍໄດ້ເກັບກໍາມໍລະດົກ
+. ເຈົ້າສາມາດເອົາອັນນັ້ນໄດ້ຖ້າເຈົ້າຕ້ອງການ - ແຕ່ມີ ສໍາ ເນົາອື່ນອີກ.
+
+891
+00:58:13,400 --> 00:58:15,400
+[DULANEY]
+That wasn't the deal.
+ນັ້ນບໍ່ແມ່ນຂໍ້ຕົກລົງ.
+
+892
+00:58:15,900 --> 00:58:21,900
+[REBECCA]
+So, sue me.  Things have changed.  I think you should go home -- and after you leave I see no reason for us to ever have contact again.
+ສະນັ້ນ, ຟ້ອງຮ້ອງຂ້ອຍ. ສິ່ງຕ່າງໆໄດ້ປ່ຽນແປງແລ້ວ. ຂ້ອຍຄິດວ່າເຈົ້າຄວນກັບບ້ານ -
+ແລະຫຼັງຈາກເຈົ້າອອກຈາກຂ້ອຍບໍ່ເຫັນເຫດຜົນໃດໆໃຫ້ພວກເຮົາຕິດຕໍ່ກັນອີກເທື່ອຫນຶ່ງ.
+
+893
+00:58:22,400 --> 00:58:24,500
+[DULANEY]
+I'm not leaving without that tape.
+ຂ້ອຍຈະບໍ່ອອກໄປໂດຍບໍ່ມີເທບນັ້ນ.
+
+894
+00:58:25,000 --> 00:58:30,600
+[REBECCA]
+Don't push me, Frank.  I might lose my temper and send it out just for spite.
+ຢ່າກົດດັນຂ້ອຍ, ແຟຣນກ໌.
+ຂ້ອຍອາດຈະສູນເສຍຄວາມໂຊກຮ້າຍຂອງຂ້ອຍແລະສົ່ງມັນອອກພຽງແຕ່ເພື່ອຄວາມກຽດຊັງ.
+
+895
+00:58:31,100 --> 00:58:33,100
+[DULANEY]
+You fuckin' bitch!
+ເຈົ້າໂຊກຮ້າຍ!
+
+896
+00:58:33,600 --> 00:58:35,600
+[MAN'S VOICE]
+Let her go!
+ປ່ອຍນາງໄປ!
+
+897
+00:58:36,100 --> 00:58:38,100
+[DR. PALEY]
+Are you alright?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+898
+00:58:38,600 --> 00:58:40,700
+[REBECCA]
+You've got to kill him, Alan.
+ເຈົ້າຕ້ອງຂ້າລາວ, ອາລານ.
+
+899
+00:58:41,200 --> 00:58:43,200
+[DR. PALEY]
+What?
+ຫຍັງ?
+
+900
+00:58:43,700 --> 00:58:49,700
+[DULANEY]
+She's right, Paley.  You've got to kill me.  She doesn't have to -- she's free -- she can't be tried again -- but you, you planned it with her.  You supplied the Coke.  You're an accessory to murder.
+ນາງເວົ້າຖືກຕ້ອງ, Paley. ເຈົ້າຕ້ອງຂ້າຂ້ອຍ. ນາງບໍ່ຈໍາເປັນຕ້ອງ - ນາງເປັນອິດສະຫຼະ - ນາງບໍ່ສາມາດຖືກພິພາກສາອີກເທື່ອຫນຶ່ງ
+- ແຕ່ເຈົ້າ, ເຈົ້າວາງແຜນມັນກັບນາງ. ເຈົ້າສະຫນອງໂກກາ. ເຈົ້າເປັນຜູ້ຮ່ວມມືໃນການຄາດຕະກໍາ.
+
+901
+00:58:50,200 --> 00:58:52,200
+[REBECCA]
+Shoot him.
+ຍິງລາວ.
+
+902
+00:58:52,700 --> 00:58:58,700
+[DULANEY]
+Don't you see what she's doing?  She needs you to kill me.  She's planned it that way from the start.  That's why she phoned me tonight.
+ເຈົ້າບໍ່ເຫັນວ່ານາງ ກໍາ ລັງເຮັດຫຍັງ? ນາງຕ້ອງການເຈົ້າທີ່ຈະຂ້າຂ້ອຍ.
+ນາງໄດ້ວາງແຜນມັນແບບນັ້ນຕັ້ງແຕ່ເລີ່ມຕົ້ນ. ນັ້ນແມ່ນເຫດຜົນທີ່ນາງໂທຫາຂ້ອຍໃນຄືນນີ້.
+
+903
+00:58:59,200 --> 00:59:01,200
+[DR. PALEY]
+You called him?
+ເຈົ້າໂທຫາລາວບໍ?
+
+904
+00:59:01,700 --> 00:59:03,700
+[REBECCA]
+No -- he's lying.
+ບໍ່ - ລາວຕົວະ.
+
+905
+00:59:04,200 --> 00:59:10,200
+[DULANEY]
+How's it supposed to work Rebecca? You and Paley celebrate your victory. You get me over here and provoke a fight so he has to rush in and save you -- but then he's given himself away as your accomplice -- now he has to kill me.  After that I figure she'll tell the Police that you broke in.  That you were crazed because we humiliated you in court?
+ມັນຄວນເຮັດວຽກແນວໃດ ຣີເບກາ? ເຈົ້າແລະປາລີສະເຫຼີມສະຫຼອງໄຊຊະນະຂອງທ່ານ. ເຈົ້າເອົາຂ້ອຍມາບ່ອນນີ້ແລະກະຕຸ້ນການຕໍ່ສູ້ດັ່ງນັ້ນລາວຕ້ອງແລ່ນເຂົ້າມາແລະຊ່ວຍເຈົ້າ -
+ແຕ່ຫຼັງຈາກນັ້ນລາວໄດ້ໃຫ້ຕົວເອງເປັນຄູ່ຮ່ວມງານຂອງທ່ານ - ດຽວນີ້ລາວຕ້ອງຂ້າຂ້ອຍ. ຫຼັງຈາກນັ້ນຂ້ອຍຄິດວ່ານາງຈະບອກຕໍາຫຼວດວ່າເຈົ້າລັກເຂົ້າມາ. ວ່າເຈົ້າໂຊກຮ້າຍເພາະວ່າພວກເຮົາເຮັດໃຫ້ເຈົ້າອ່ອນແອໃນສານບໍ?
+
+906
+00:59:10,700 --> 00:59:15,600
+[REBECCA]
+Don't listen to him.  Can't you see he's trying to turn you against me.
+ຢ່າຟັງລາວ. ເຈົ້າບໍ່ເຫັນວ່າລາວ ກໍາ
+ລັງພະຍາຍາມຫັນເຈົ້າຕໍ່ຕ້ານຂ້ອຍບໍ.
+
+907
+00:59:16,100 --> 00:59:22,100
+[DULANEY]
+Here's the good part.  The truth dies with me and she turns State's evidence against you.  It won't matter what you say.  No one will believe your version -- you've already discredited yourself in court.  You'll go away forever and she'll have the money all for herself.  She's played us both perfectly.
+ນີ້ແມ່ນສ່ວນທີ່ດີ. ຄວາມຈິງຈະຕາຍກັບຂ້ອຍແລະນາງຈະຫັນຫຼັກຖານຂອງລັດຕໍ່ເຈົ້າ. ມັນຈະບໍ່ສໍາຄັນວ່າເຈົ້າເວົ້າຫຍັງ. ບໍ່ມີໃຜຈະເຊື່ອເວີຊັນຂອງທ່ານ -
+ເຈົ້າໄດ້ເຮັດໃຫ້ຕົວເອງບໍ່ຊື່ສັດແລ້ວໃນສານ. ເຈົ້າຈະໄປໄປຕະຫຼອດໄປແລະນາງຈະມີເງິນທັງ ຫມົດ ສໍາ ລັບຕົວເອງ. ນາງໄດ້ຫຼິ້ນພວກເຮົາທັງສອງຢ່າງສົມບູນແບບ.
+
+908
+00:59:22,600 --> 00:59:28,600
+[REBECCA]
+Alan, listen to me.  If you don't kill him it's over.  Everything we did will be for nothing.
+ແອລານ, ຟັງຂ້ອຍ. ຖ້າເຈົ້າບໍ່ຂ້າລາວມັນຫມົດແລ້ວ
+. ທຸກຢ່າງທີ່ພວກເຮົາເຮັດຈະບໍ່ມີຫຍັງເລີຍ.
+
+909
+00:59:29,100 --> 00:59:31,100
+[DR. PALEY]
+Shut up, Rebecca.
+ປິດງຽບ, ຣີເບກາ.
+
+910
+00:59:31,600 --> 00:59:37,600
+[DULANEY]
+She's good isn't she?  But maybe with you it's the real thing.  I'm sure all those nights she was fuckin' me she was thinking of you.
+ນາງດີບໍ່? ແຕ່ບາງທີກັບເຈົ້າມັນເປັນສິ່ງທີ່ແທ້ຈິງ. ຂ້ອຍແນ່ໃຈວ່າໃນຄືນທັງ
+ຫມົດ ທີ່ນາງ ກໍາ ລັງຟັກຂ້ອຍວ່ານາງ ກໍາ ລັງຄິດກ່ຽວກັບເຈົ້າ.
+
+911
+00:59:38,100 --> 00:59:41,950
+[DULANEY]
+I'm sure that every orgasm she had with me was faked.
+ຂ້ອຍແນ່ໃຈວ່າຄວາມສວຍງາມທີ່ນາງມີກັບຂ້ອຍແມ່ນປອມແປງ.
+
+912
+00:59:42,450 --> 00:59:44,450
+[DR. PALEY]
+That's enough.
+ນັ້ນພຽງພໍແລ້ວ.
+
+913
+00:59:44,950 --> 00:59:50,950
+[DULANEY]
+I mean she only screwed me two or three times a night because she had to -- I'm sure she didn't enjoy it.
+ຂ້ອຍຫມາຍຄວາມວ່ານາງພຽງແຕ່ຟັກຂ້ອຍສອງສາມຄັ້ງຕໍ່ຄືນເພາະວ່ານານາງຕ້ອງເຮັດ
+- ຂ້ອຍແນ່ໃຈວ່ານາງບໍ່ເພີດເພີນກັບມັນ.
+
+914
+00:59:51,450 --> 00:59:57,450
+[REBECCA]
+I love you, Alan.  You have to believe I love you.  Kill him!  Kill him and we can be together forever!
+ຂ້ອຍຮັກເຈົ້າແອລານ. ເຈົ້າຕ້ອງເຊື່ອວ່າຂ້ອຍຮັກເຈົ້າ.
+ຂ້າລາວ! ຂ້າລາວແລະພວກເຮົາສາມາດຢູ່ຮ່ວມກັນຕະຫຼອດໄປ!
+
+915
+00:59:57,950 --> 01:00:03,950
+[DULANEY]
+That's right, she loves you.  Just like she loved Roston and Marsh and me.  Don't be a fool.  You're nothing to her.  The second you pull that trigger she'll turn on you.
+ນັ້ນແມ່ນຄວາມຈິງ, ນາງຮັກເຈົ້າ. ຄືກັບທີ່ນາງຮັກໂຣສຕັນ ແລະ ມາສ໌ແລະຂ້ອຍ. ຢ່າເປັນຄົນໂງ່
+. ເຈົ້າບໍ່ມີຫຍັງກັບນາງ. ໃນວິນາທີທີ່ທ່ານດຶງກະຕຸ້ນນັ້ນນາງຈະຫັນໃສ່ເຈົ້າ.
+
+916
+01:00:04,450 --> 01:00:06,450
+[DR. PALEY]
+I loved you.
+ຂ້ອຍຮັກເຈົ້າ.
+
+917
+01:00:06,950 --> 01:00:12,950
+[REBECCA]
+Alan, don't let him do this.  You're everything to me.  Give me the gun.  Give me the gun and I'll do it for you.
+ແອລານ, ຢ່າປ່ອຍໃຫ້ລາວເຮັດສິ່ງນີ້. ເຈົ້າເປັນທຸກຢ່າງ ສໍາ ລັບຂ້ອຍ
+. ໃຫ້ຂ້ອຍປືນ. ເອົາປືນໃຫ້ຂ້ອຍແລະຂ້ອຍຈະເຮັດມັນ ສໍາ ລັບເຈົ້າ.
+
+918
+01:00:13,450 --> 01:00:15,900
+[ON REBECCA]
+she stares up through glazed, dead eyes.
+ນາງເບິ່ງຂຶ້ນຜ່ານຕາທີ່ສົດໃສ, ຕາຍ.
+
+919
+01:00:16,400 --> 01:00:22,400
+[CARDENAS]
+Paley's confessed to the whole thing. It's like he's got no will to live now that she's gone.  She almost got away with it.  Ironic, huh?  Do you believe in karma, Frank?
+ປາລີຍອມຮັບເລື່ອງທັງ ຫມົດ. ມັນຄືກັບວ່າລາວບໍ່ມີຄວາມຕ້ອງການທີ່ຈະດໍາລົງຊີວິດດຽວນີ້ທີ່ນາງໄປແລ້ວ
+. ນາງເກືອບຈະຫນີຈາກມັນ. ໂຊກແຊງ, ແມ່ນບໍ? ເຈົ້າເຊື່ອໃນກາຣມາມາບໍ, ແຟຣນກ໌?
+
+920
+01:00:22,900 --> 01:00:28,900
+[CARDENAS]
+Well -- call it what you want.  Fate. Destiny.  We usually get what we deserve in the end.
+ດີ - ເອີ້ນມັນຕາມທີ່ເຈົ້າຕ້ອງການ. ຈຸດຫມາຍປາຍທາງ. ຈຸດປະສົງ
+. ພວກເຮົາມັກຈະໄດ້ຮັບສິ່ງທີ່ພວກເຮົາສົມຄວນໃນທີ່ສຸດ.
+
+921
+01:00:29,400 --> 01:00:31,400
+[DULANEY]
+Can I go?
+ຂ້ອຍໄປໄດ້ບໍ?
+
+922
+01:00:31,900 --> 01:00:33,900
+[CARDENAS]
+You get his statement?
+ເຈົ້າໄດ້ຮັບຄໍາຖະແຫຼງຂອງລາວບໍ?
+
+923
+01:00:34,400 --> 01:00:36,400
+[TROXELL]
+Yeah.
+ແມ່ນແລ້ວ.
+
+924
+01:00:36,900 --> 01:00:38,900
+[CARDENAS]
+Then you can go.
+ຫຼັງຈາກນັ້ນເຈົ້າສາມາດໄປໄດ້.
+
+925
+01:00:39,400 --> 01:00:41,400
+[CARDENAS]
+Frank?
+ແຟຣນກ໌?
+
+926
+01:00:41,900 --> 01:00:46,450
+[CARDENAS]
+I found this video in her room.  It has your name on it.
+ຂ້ອຍພົບວິດີໂອນີ້ໃນຫ້ອງຂອງນາງ. ມັນມີຊື່ຂອງທ່ານຢູ່ເທິງມັນ.
+
+927
+01:00:46,950 --> 01:00:48,950
+[CARDENAS]
+I assume it's yours.
+ຂ້ອຍຄິດວ່າມັນເປັນຂອງເຈົ້າ.
+
+928
+01:00:49,450 --> 01:00:51,450
+[DULANEY]
+Thanks.
+ຂອບໃຈ
+

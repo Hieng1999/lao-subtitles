@@ -1,0 +1,3139 @@
+1
+00:00:10,000 --> 00:00:12,000
+[AMOUR]
+Written by
+ຂຽນໂດຍ
+
+2
+00:00:12,500 --> 00:00:14,500
+[PLAIN-CLOTHES DETECTIVE]
+(to the superintendent and the
+(ຕໍ່ຜູ້ອໍານວຍການແລະ
+
+3
+00:00:15,000 --> 00:00:17,000
+[NEIGHBOR)]
+Wait Outside please.
+ລໍຖ້າຢູ່ພາຍນອກ, ກະລຸນາ.
+
+4
+00:00:17,500 --> 00:00:19,950
+[POLICE OFFICER]
+What's the date of the last letter?
+ວັນທີ່ຈົດຫມາຍສຸດທ້າຍແມ່ນຫຍັງ?
+
+5
+00:00:20,450 --> 00:00:22,450
+[PLAIN-CLOTHES DETECTIVE]
+Can you try?
+ເຈົ້າພະຍາຍາມໄດ້ບໍ?
+
+6
+00:00:22,950 --> 00:00:24,950
+[FIREMAN]
+The door is open.
+ປະຕູເປີດແລ້ວ.
+
+7
+00:00:25,450 --> 00:00:31,450
+[JANITOR]
+...no as far as I know. During the whole time, they had a nurse, but it's been a while since I last saw her. My wife has been...
+ບໍ່ເທົ່າທີ່ຂ້ອຍຮູ້. ຕະຫຼອດເວລາທັງ ຫມົດ, ພວກເຂົາມີພະຍາບານ,
+ແຕ່ມັນເປັນເວລາດົນນານນັບຕັ້ງແຕ່ຂ້ອຍເຫັນນາງຄັ້ງສຸດທ້າຍ. ເມຍຂອງຂ້ອຍແມ່ນ...
+
+8
+00:00:31,950 --> 00:00:36,850
+[PLAIN-CLOTHES DETECTIVE]
+(to the firemen who are now curious enough to come and stand by the
+(ຕໍ່ນັກດັບເພີງທີ່ດຽວນີ້ມີຄວາມຢາກຮູ້ສຶກພຽງພໍທີ່ຈະມາຢືນຢູ່ຂ້າງ
+
+9
+00:00:37,350 --> 00:00:39,350
+[DOOR)]
+Did you open the windows?
+ເຈົ້າເປີດປ່ອງຢ້ຽມບໍ?
+
+10
+00:00:39,850 --> 00:00:44,050
+[GEORGES]
+They used a screwdriver or something like that...it doesn't look very professional...
+ພວກເຂົາໃຊ້ເຄື່ອງຂັບຂີ່ສະກູຫຼືບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ
+... ມັນເບິ່ງຄືວ່າບໍ່ແມ່ນມືອາຊີບຫຼາຍ...
+
+11
+00:00:44,550 --> 00:00:47,000
+[ANNE]
+But who would do something like that?
+ແຕ່ໃຜຈະເຮັດສິ່ງນັ້ນ?
+
+12
+00:00:47,500 --> 00:00:52,050
+[GEORGES]
+No idea. Why do people break in? Because they want to steal something.
+ບໍ່ຮູ້ເລີຍ. ເປັນຫຍັງຄົນຈຶ່ງລັກເຂົ້າມາ
+? ເພາະວ່າພວກເຂົາຢາກລັກບາງສິ່ງບາງຢ່າງ.
+
+13
+00:00:52,550 --> 00:00:54,550
+[ANNE]
+From us?
+ຈາກພວກເຮົາບໍ?
+
+14
+00:00:55,050 --> 00:01:01,050
+[GEORGES]
+Hey, why not? If I thought about it, I could come up with at least three or four people we know who've been burgled.
+ເຮ້, ເປັນຫຍັງບໍ່? ຖ້າຂ້ອຍຄິດກ່ຽວກັບມັນ,
+ຂ້ອຍສາມາດຄິດໄດ້ຢ່າງຫນ້ອຍສາມຫຼືສີ່ຄົນທີ່ພວກເຮົາຮູ້ທີ່ຖືກລັກລອບ.
+
+15
+00:01:01,550 --> 00:01:04,700
+[ANNE]
+What time is it? Can't we call the superintendent?
+ເວລາຫຼາຍປານໃດ? ພວກເຮົາບໍ່ສາມາດໂທຫາຜູ້ອໍານວຍການບໍ?
+
+16
+00:01:05,200 --> 00:01:08,700
+[GEORGES]
+I'll do that tomorrow morning. Anyway, they didn't see anything.
+ຂ້ອຍຈະເຮັດມັນມື້ອື່ນເຊົ້າ. ຢ່າງໃດກໍ່ຕາມ
+, ພວກເຂົາບໍ່ໄດ້ເຫັນຫຍັງເລີຍ.
+
+17
+00:01:09,200 --> 00:01:12,000
+[GEORGES]
+Don't let it spoil your good mood now.
+ຢ່າປ່ອຍໃຫ້ມັນ ທໍາ ລາຍອາລົມທີ່ດີຂອງທ່ານດຽວນີ້.
+
+18
+00:01:12,500 --> 00:01:14,500
+[ANNE]
+Or the police?
+ຫຼືຕໍາຫຼວດບໍ?
+
+19
+00:01:15,000 --> 00:01:17,100
+[GEORGES]
+Come on, give me your coat.
+ມາແລ້ວ, ໃຫ້ຂ້ອຍເສື້ອຜ້າຂອງທ່ານ.
+
+20
+00:01:17,600 --> 00:01:21,800
+[ANNE]
+Imagine if we were here, in our beds, and someone broke in.
+ຄິດວ່າຖ້າພວກເຮົາຢູ່ບ່ອນນີ້, ໃນຕຽງຂອງພວກເຮົາ, ແລະບາງຄົນລັກເຂົ້າມາ.
+
+21
+00:01:22,300 --> 00:01:24,300
+[GEORGES]
+Why should I imagine that?
+ຂ້ອຍຄວນຄິດແບບນັ້ນເປັນຫຍັງ?
+
+22
+00:01:24,800 --> 00:01:27,950
+[ANNE]
+But it's terrible! I think I'd die of fright.
+ແຕ່ມັນຮ້າຍແຮງ! ຂ້ອຍຄິດວ່າຂ້ອຍຈະຕາຍຈາກຄວາມຢ້ານກົວ.
+
+23
+00:01:28,450 --> 00:01:30,450
+[GEORGES]
+So would I.
+ຂ້ອຍກໍ່ຄືກັນ.
+
+24
+00:01:30,950 --> 00:01:32,950
+[GEORGES]
+Shall we have a drink?
+ພວກເຮົາຈະດື່ມບໍ?
+
+25
+00:01:33,450 --> 00:01:35,450
+[ANNE]
+I'm tired.
+ຂ້ອຍເມື່ອຍແລ້ວ.
+
+26
+00:01:35,950 --> 00:01:37,950
+[GEORGES]
+I still fancy a drink.
+ຂ້ອຍຍັງຢາກດື່ມ.
+
+27
+00:01:38,450 --> 00:01:44,450
+[ANNE]
+Go ahead then. Mathilde told me that in her building, the attic apartment was burgled from the loft. They just knocked a hole in the wall, cut out all of the valuable pictures from their frames and disappeared without a trace.
+ໄປຕໍ່ໄປຫຼັງຈາກນັ້ນ. ມາຕິລດ໌ບອກຂ້ອຍວ່າໃນອາຄານຂອງນາງ, ອາພາດເມັນຊັ້ນເທິງໄດ້ຖືກລັກລອບຈາກຊັ້ນເທິງ.
+ພວກເຂົາພຽງແຕ່ຕີຮູໃນກໍາແພງ, ຕັດຮູບທີ່ມີຄຸນຄ່າທັງ ຫມົດ ຈາກກອບຂອງພວກເຂົາແລະຫາຍໄປໂດຍບໍ່ມີການຕິດຕາມ.
+
+28
+00:01:44,950 --> 00:01:46,950
+[GEORGES]
+They must have been professionals.
+ພວກເຂົາຕ້ອງເປັນມືອາຊີບ.
+
+29
+00:01:47,450 --> 00:01:50,250
+[GEORGES]
+Did I tell you, you looked good tonight?
+ຂ້ອຍບອກເຈົ້າບໍ, ເຈົ້າເບິ່ງດີໃນຄືນນີ້?
+
+30
+00:01:50,750 --> 00:01:52,750
+[ANNE]
+What's got into you?
+ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+31
+00:01:53,250 --> 00:01:57,450
+[ANNE]
+Weren't those semiquavers in the presto incredible? What staccato! Don't you agree?
+ພວກເຄິ່ງຄາວເວີໃນໂປຣສໂຕນັ້ນບໍ່ຍິ່ງໃຫຍ່ບໍ
+? staccato ຫຼາຍປານໃດ! ເຈົ້າບໍ່ເຫັນດີບໍ?
+
+32
+00:01:57,950 --> 00:01:59,950
+[GEORGES]
+You're proud of him, huh?
+ເຈົ້າພາກພູມໃຈລາວ, ແມ່ນບໍ?
+
+33
+00:02:00,450 --> 00:02:02,450
+[GEORGES]
+Something wrong?
+ມີຫຍັງຜິດບໍ?
+
+34
+00:02:02,950 --> 00:02:04,950
+[ANNE]
+No. 6.
+ບໍ່ 6.
+
+35
+00:02:05,450 --> 00:02:11,450
+[GEORGES]
+What about next week? No but still, it would make sense to get it done soon. It might give people silly ideas. And anyway, it's too ugly to look at... Wednesday? What time? OK... Will you bring the paint with you too, to paint over it? But at least some primer...Yes, OK. Thank you.
+ຈະເປັນແນວໃດໃນອາທິດຫນ້າ? ບໍ່ ແຕ່ຍັງ, ມັນຈະມີຄວາມ ຫມາຍ ທີ່ຈະເຮັດມັນໃນໄວໆນີ້. ມັນອາດຈະໃຫ້ຄົນມີແນວຄິດໂງ່. ແລະຢ່າງໃດກໍ່ຕາມ, ມັນໂຊກຮ້າຍເກີນໄປທີ່ຈະເບິ່ງ
+... ວັນພຸດ? ເວລາໃດ? ດີ... ເຈົ້າຈະເອົາສີດ້ວຍເຈົ້າເຊັ່ນກັນ, ເພື່ອແຕ້ມໃສ່ມັນບໍ? ແຕ່ຢ່າງຫນ້ອຍບາງຕົ້ນຕໍ... ແມ່ນແລ້ວ, ດີ. ຂອບໃຈ.
+
+36
+00:02:11,950 --> 00:02:14,050
+[GEORGES]
+You can depend on that guy.
+ເຈົ້າສາມາດອີງໃສ່ຄົນນັ້ນໄດ້.
+
+37
+00:02:14,550 --> 00:02:19,800
+[ANNE]
+I hope so. The last time, he kept us waiting for ages, if you remember.
+ຂ້ອຍຫວັງວ່າເປັນ. ຄັ້ງສຸດທ້າຍ,
+ລາວເຮັດໃຫ້ພວກເຮົາລໍຖ້າເປັນເວລາຫຼາຍປີ, ຖ້າເຈົ້າຈື່ໄວ້.
+
+38
+00:02:20,300 --> 00:02:26,250
+[GEORGES]
+Yes, that's true.  Thanks. If I call a regular professional, we'll still be waiting two months time.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນຄວາມຈິງ. ຂອບໃຈ.
+ຖ້າຂ້ອຍໂທຫາມືອາຊີບປົກກະຕິ, ພວກເຮົາຍັງຈະລໍຖ້າເວລາສອງເດືອນ.
+
+39
+00:02:26,750 --> 00:02:28,750
+[ANNE]
+Really?
+ແທ້ບໍ?
+
+40
+00:02:29,250 --> 00:02:33,800
+[GEORGES]
+The Frodons waited three days when their toilet was blocked. Not exactly pleasant.
+ຊາວຟຣອດອນລໍຖ້າສາມມື້ເມື່ອຫ້ອງນ້ ໍາ
+ຂອງພວກເຂົາຖືກປິດບັງ. ບໍ່ດີໃຈແທ້ໆ.
+
+41
+00:02:34,300 --> 00:02:36,300
+[GEORGES]
+The saltcellar is empty.
+ກະຕູ້ເກືອເປົ່າແລ້ວ.
+
+42
+00:02:36,800 --> 00:02:42,800
+[GEORGES]
+I don't know if he's going to bring us the CD. Maybe he won't come at all. In any case, he didn't mention it. I'd like to buy it. It was really good and I don't want to wait long for it. We could go to Virgin this afternoon and buy it. What do you say?
+ຂ້ອຍບໍ່ຮູ້ວ່າລາວຈະເອົາ CD ມາໃຫ້ພວກເຮົາບໍ. ບາງທີລາວຈະບໍ່ມາເລີຍ. ໃນທຸກກໍລະນີ, ລາວບໍ່ໄດ້ກ່າວເຖິງມັນ. ຂ້ອຍຢາກຊື້ມັນ
+. ມັນດີແທ້ໆແລະຂ້ອຍບໍ່ຢາກລໍຖ້າດົນນານ ສໍາ ລັບມັນ. ພວກເຮົາສາມາດໄປເວີຈິນໃນຕອນບ່າຍນີ້ແລະຊື້ມັນໄດ້. ເຈົ້າເວົ້າແນວໃດ?
+
+43
+00:02:43,300 --> 00:02:45,300
+[GEORGES]
+Hmmm? Anne? What's the matter?
+Hmmm? ແອນ? ມີຫຍັງເກີດຂຶ້ນ?
+
+44
+00:02:45,800 --> 00:02:47,900
+[GEORGES]
+What's going on? What's the matter?
+ເກີດຫຍັງຂຶ້ນ? ມີຫຍັງເກີດຂຶ້ນ?
+
+45
+00:02:48,400 --> 00:02:50,400
+[GEORGES]
+Helllloooo!!! Cuckoo!!! I'm here!
+ສະບາຍດີ!!! ຄູໂກ!!! ຂ້ອຍຢູ່ບ່ອນນີ້!
+
+46
+00:02:50,900 --> 00:02:52,900
+[GEORGES]
+Anne! What's going on?
+ແອນ! ເກີດຫຍັງຂຶ້ນ?
+
+47
+00:02:53,400 --> 00:02:55,400
+[GEORGES]
+Anne, what's the matter? 8.
+ແອນ, ມີຫຍັງເກີດຂຶ້ນ? 8.
+
+48
+00:02:55,900 --> 00:02:57,900
+[GEORGES]
+Anne...what's...
+ແອນ... ແມ່ນຫຍັງ...
+
+49
+00:02:58,400 --> 00:03:00,400
+[GEORGES]
+Anne...
+ແອນ...
+
+50
+00:03:00,900 --> 00:03:06,900
+[SILENCE]
+Finally he gets up, heads for the sink, turns on the tap, wets a tea towel, wrings it out a little, comes back and places it on Anne's face. Waits for a reaction that doesn't come. Then he pulls up her hair in the nape of her neck and applies the cloth there. Then sits down and looks at her imploringly.
+ສຸດທ້າຍລາວຕື່ນຂຶ້ນ, ໄປຫາລ້າງນ້ ໍາ, ເປີດທໍ່, ນ້ ໍາ ກະທູ້ຊາ, ສັ່ນສະເທືອນມັນອອກເລັກນ້ອຍ, ກັບມາແລະວາງມັນໃສ່ໃບຫນ້າຂອງແອນ.
+ລໍຖ້າການປະຕິກິລິຍາທີ່ບໍ່ມາ. ຫຼັງຈາກນັ້ນລາວດຶງຜົມຂອງນາງໃນຄໍຂອງນາງແລະໃຊ້ຜ້າຜ້າຢູ່ບ່ອນນັ້ນ. ຈາກນັ້ນນັ່ງລົງແລະເບິ່ງນາງຢ່າງຂໍຮ້ອງ.
+
+51
+00:03:07,400 --> 00:03:09,400
+[GEORGES]
+Anne...Darling...please!
+ແອນ... ແມ... ກະລຸນາ!
+
+52
+00:03:09,900 --> 00:03:11,900
+[GEORGES]
+Anne?
+ແອນ?
+
+53
+00:03:12,400 --> 00:03:14,400
+[ANNE]
+What are you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+54
+00:03:14,900 --> 00:03:17,000
+[ANNE]
+You left the water running. 9.
+ເຈົ້າປ່ອຍໃຫ້ນ້ ໍາ ໄຫຼ. 9.
+
+55
+00:03:17,500 --> 00:03:23,500
+[GEORGES]
+Hey, what's going on? Are you completely crazy? Is this supposed to be a joke, or what's going on?
+ເຮ້, ເກີດຫຍັງຂຶ້ນບໍ? ເຈົ້າໂຊກຮ້າຍຢ່າງສົມບູນບໍ
+? ນີ້ແມ່ນຄວນເປັນໂມສ໌ບໍ, ຫຼືເກີດຫຍັງຂຶ້ນ?
+
+56
+00:03:24,000 --> 00:03:26,000
+[ANNE]
+What did you say?
+ເຈົ້າເວົ້າຫຍັງ?
+
+57
+00:03:26,500 --> 00:03:30,350
+[GEORGES]
+Is this a joke? Is this meant to be a joke?
+ນີ້ແມ່ນໂຊກແຊງບໍ? ນີ້ແມ່ນຫມາຍຄວາມວ່າຈະເປັນໂຊຄແຊນບໍ?
+
+58
+00:03:30,850 --> 00:03:36,850
+[ANNE]
+What joke? I don't get it! Why are you talking to me like that? What's got into you?
+ຂ້ອຍບໍ່ເຂົ້າໃຈມັນ! ເຈົ້າເວົ້າກັບຂ້ອຍແບບນັ້ນເປັນຫຍັງ
+? ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+
+59
+00:03:37,350 --> 00:03:40,150
+[GEORGES]
+Anne! Please! Stop this game. It's not funny.
+ແອນ! ກະລຸນາ! ຢຸດເກມນີ້. ມັນບໍ່ມ່ວນຊື່ນ.
+
+60
+00:03:40,650 --> 00:03:44,150
+[ANNE]
+What game, for Christ's sake? What on earth's the matter?!!
+ເກມໃດ, ສໍາລັບພຣະຄຣິດ? ມີຫຍັງເກີດຂຶ້ນໃນໂລກ?!!
+
+61
+00:03:44,650 --> 00:03:47,100
+[GEORGES]
+What's the matter? Why didn't you react?
+ມີຫຍັງເກີດຂຶ້ນ? ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ປະຕິກິລິຍາ?
+
+62
+00:03:47,600 --> 00:03:49,600
+[ANNE]
+To what?
+ເພື່ອຫຍັງ?
+
+63
+00:03:50,100 --> 00:03:52,200
+[GEORGES]
+To what? To me, to everything.
+ກັບຫຍັງ? ກັບຂ້ອຍ, ກັບທຸກຢ່າງ.
+
+64
+00:03:52,700 --> 00:03:54,700
+[ANNE]
+When? 10.
+ເມື່ອໃດ? 10.
+
+65
+00:03:55,200 --> 00:03:57,200
+[GEORGES]
+Just now. A moment ago.
+ພຽງແຕ່ດຽວນີ້. ກ່ອນຫນ້ານີ້.
+
+66
+00:03:57,700 --> 00:04:01,900
+[ANNE]
+Please tell me what's wrong. What am I supposed to have done?
+ກະລຸນາບອກຂ້ອຍວ່າເກີດຫຍັງຂຶ້ນ. ຂ້ອຍຄວນເຮັດຫຍັງ?
+
+67
+00:04:02,400 --> 00:04:07,300
+[GEORGES]
+I don't know what to say. Do you really not know what just happened?
+ຂ້ອຍບໍ່ຮູ້ວ່າຈະເວົ້າຫຍັງ. ເຈົ້າບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນບໍ?
+
+68
+00:04:07,800 --> 00:04:09,800
+[ANNE]
+But what DID happen?
+ແຕ່ເກີດຫຍັງຂຶ້ນ?
+
+69
+00:04:10,300 --> 00:04:16,300
+[GEORGES]
+You were sitting there, staring at me. You didn't answer me when I asked you what the matter was.
+ເຈົ້ານັ່ງຢູ່ບ່ອນນັ້ນ, ເບິ່ງຂ້ອຍ.
+ເຈົ້າບໍ່ໄດ້ຕອບຂ້ອຍເມື່ອຂ້ອຍຖາມເຈົ້າວ່າມີຫຍັງເກີດຂຶ້ນ.
+
+70
+00:04:16,800 --> 00:04:21,000
+[GEORGES]
+I put this tea towel on your face, and you didn't react.
+ຂ້ອຍເອົາກະທູ້ຊານີ້ໃສ່ໃບຫນ້າເຈົ້າ, ແລະເຈົ້າບໍ່ໄດ້ປະຕິກິລິຍາ.
+
+71
+00:04:21,500 --> 00:04:23,950
+[GEORGES]
+Look... There's still dampness on your collar.
+ເບິ່ງ... ຍັງມີຄວາມຊຸ່ມຊື່ນຢູ່ເທິງຄໍຂອງທ່ານ.
+
+72
+00:04:24,450 --> 00:04:26,450
+[ANNE]
+When... When was it?
+ມັນເກີດຂຶ້ນເມື່ອໃດ?
+
+73
+00:04:26,950 --> 00:04:29,050
+[GEORGES]
+Just now, a few minutes ago.
+ພຽງແຕ່ດຽວນີ້, ສອງສາມນາທີກ່ອນ.
+
+74
+00:04:29,550 --> 00:04:31,550
+[ANNE]
+So...??
+ສະນັ້ນ...??
+
+75
+00:04:32,050 --> 00:04:38,000
+[GEORGES]
+There's no "So". I went into the bedroom to get dressed. I wanted to get help. 11.
+ບໍ່ມີ"ດັ່ງນັ້ນ". ຂ້ອຍເຂົ້າຫ້ອງນອນເພື່ອໃສ່ເຄື່ອງນຸ່ງຫົ່ມ
+. ຂ້ອຍຢາກຂໍຄວາມຊ່ວຍເຫຼືອ. 11.
+
+76
+00:04:38,500 --> 00:04:40,500
+[ANNE]
+Help?
+ຊ່ວຍເຫຼືອບໍ?
+
+77
+00:04:41,000 --> 00:04:43,800
+[GEORGES]
+Yes, and then you turned off the tap.
+ແມ່ນແລ້ວ, ແລະຫຼັງຈາກນັ້ນເຈົ້າໄດ້ປິດທໍ່.
+
+78
+00:04:44,300 --> 00:04:46,400
+[ANNE]
+Yes. Because you left it on.
+ແມ່ນແລ້ວ. ເພາະວ່າເຈົ້າປ່ອຍມັນຢູ່.
+
+79
+00:04:46,900 --> 00:04:48,900
+[ANNE]
+I don't understand.
+ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+80
+00:04:49,400 --> 00:04:51,400
+[GEORGES]
+Neither do I.
+ຂ້ອຍກໍ່ບໍ່.
+
+81
+00:04:51,900 --> 00:04:55,400
+[GEORGES]
+Don't you think it's best if I call Dr. Bertier?
+ເຈົ້າບໍ່ຄິດວ່າມັນດີທີ່ສຸດຖ້າຂ້ອຍໂທຫາດຣ ເບີດເຕີບໍ?
+
+82
+00:04:55,900 --> 00:04:57,900
+[ANNE]
+Why? What can he do?
+ເປັນຫຍັງ? ລາວສາມາດເຮັດຫຍັງໄດ້?
+
+83
+00:04:58,400 --> 00:05:00,400
+[GEORGES]
+I don't know. Examine you.
+ຂ້ອຍບໍ່ຮູ້. ສອບຖາມເຈົ້າ.
+
+84
+00:05:00,900 --> 00:05:03,350
+[ANNE]
+I'm fine. There's nothing wrong with me.
+ຂ້ອຍບໍ່ເປັນຫຍັງ. ບໍ່ມີຫຍັງຜິດກັບຂ້ອຍ.
+
+85
+00:05:03,850 --> 00:05:07,350
+[GEORGES]
+Anne, please!! That's absurd. We can't pretend that nothing happened.
+ແອນ, ກະລຸນາ!! ນັ້ນແມ່ນໂຊກແຊງ.
+ພວກເຮົາບໍ່ສາມາດເຮັດແບບວ່າບໍ່ມີຫຍັງເກີດຂຶ້ນໄດ້.
+
+86
+00:05:07,850 --> 00:05:09,850
+[ANNE]
+But what DID happen?
+ແຕ່ເກີດຫຍັງຂຶ້ນ?
+
+87
+00:05:10,350 --> 00:05:15,950
+[ANNE]
+I'm here. I'm having my breakfast, and you're telling me things happened that I don't understand.
+ຂ້ອຍຢູ່ບ່ອນນີ້. ຂ້ອຍ ກໍາ ລັງກິນອາຫານເຊົ້າຂອງຂ້ອຍ, ແລະເຈົ້າ
+ກໍາ ລັງບອກຂ້ອຍວ່າບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນທີ່ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+88
+00:05:16,450 --> 00:05:19,950
+[GEORGES]
+Can you explain how the tea towel got there? 12.
+ເຈົ້າສາມາດອະທິບາຍໄດ້ວ່າກະທູ້ຊາໄດ້ມາຮອດບ່ອນນັ້ນແນວໃດ? 12.
+
+89
+00:05:20,450 --> 00:05:22,450
+[ANNE]
+No, I can't!
+ບໍ່, ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້!
+
+90
+00:05:22,950 --> 00:05:24,950
+[GEORGES]
+Who turned on the tap?
+ໃຜເປີດທໍ່ໄຟ?
+
+91
+00:05:25,450 --> 00:05:27,450
+[ANNE]
+You did!
+ເຈົ້າເຮັດແລ້ວ!
+
+92
+00:05:27,950 --> 00:05:29,950
+[GEORGES]
+Can you remember that?
+ເຈົ້າຈື່ໄດ້ບໍ?
+
+93
+00:05:30,450 --> 00:05:35,000
+[ANNE]
+No I can't! Do you want to torture me? Leave me in peace!
+ບໍ່ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້! ເຈົ້າຢາກທໍລະມານຂ້ອຍບໍ? ໃຫ້ຂ້ອຍຢູ່ສະຫງົບ!
+
+94
+00:05:35,500 --> 00:05:39,350
+[GEORGES]
+Don't you think it would be better to fetch Dr. Bertier?
+ເຈົ້າບໍ່ຄິດວ່າມັນຈະດີກວ່າທີ່ຈະເອົາດຣ ເບີດເຕີບໍ?
+
+95
+00:05:39,850 --> 00:05:41,850
+[ANNE]
+No!
+ບໍ່!
+
+96
+00:05:42,350 --> 00:05:48,350
+[SILENCE]
+We see wide shots of the apartment. The hallway. The bedroom. The living room. The dining room. The kitchen. Nobody in sight.
+ພວກເຮົາເຫັນຮູບທີ່ກວ້າງຂວາງຂອງອາພາດເມັນ. ທາງເດີ່ນ.
+ຫ້ອງນອນ. ຫ້ອງຮັບແຂກ. ຫ້ອງກິນອາຫານ. ເຮືອນຄົວ. ບໍ່ມີໃຜເຫັນ.
+
+97
+00:05:48,850 --> 00:05:54,850
+[EVA]
+You know how he is. Once he's got something into his head, he has to go through with it. In the end, everybody was delighted. And besides, it didn't hurt our financial situation. We're playing until the 28th. 13.
+ເຈົ້າຮູ້ແລ້ວວ່າລາວເປັນແນວໃດ. ເມື່ອລາວມີບາງສິ່ງບາງຢ່າງໃນຫົວຂອງລາວ, ລາວຕ້ອງຜ່ານມັນ. ໃນທີ່ສຸດ, ທຸກຄົນມີຄວາມສຸກ.
+ແລະນອກຈາກນັ້ນ, ມັນບໍ່ໄດ້ເຮັດໃຫ້ສະຖານະການທາງດ້ານການເງິນຂອງພວກເຮົາເຈັບປວດ. ພວກເຮົາ ກໍາ ລັງຫຼິ້ນຈົນຮອດວັນທີ 28. 13.
+
+98
+00:05:55,350 --> 00:06:01,350
+[EVA]
+Then we have 10 days to rest, then we go to Stockholm for four days, and then to Kumo in Finland. Heaven knows where that is. At the North Pole. But Geoff's already been there few times, and he loves it. We're playing the "Dowland Transcriptions" there and then we're back in London.
+ຫຼັງຈາກນັ້ນພວກເຮົາມີເວລາພັກຜ່ອນ 10 ມື້, ຫຼັງຈາກນັ້ນພວກເຮົາໄປສຕັອກໂກມເປັນເວລາສີ່ມື້, ແລະຫຼັງຈາກນັ້ນໄປ Kumo ໃນຟິນແລນ. ສະຫວັນເຈົ້າຮູ້ວ່າບ່ອນນັ້ນແມ່ນໃສ.
+ຢູ່ແຄມເຫນືອ. ແຕ່ Geoff ໄດ້ໄປບ່ອນນັ້ນແລ້ວສອງສາມຄັ້ງ, ແລະລາວມັກມັນ. ພວກເຮົາ ກໍາ ລັງຫຼິ້ນ"Dowland Transcriptions" ຢູ່ບ່ອນນັ້ນແລະຫຼັງຈາກນັ້ນພວກເຮົາກັບຄືນໄປລອນດອນ.
+
+99
+00:06:01,850 --> 00:06:03,850
+[GEORGES]
+What about the children?
+ເດັກນ້ອຍແນວໃດ?
+
+100
+00:06:04,350 --> 00:06:10,300
+[EVA]
+Liz is at boarding school and John is living his own life. He's twenty- six years old.
+ລີສ໌ຢູ່ໂຮງຮຽນພັກແລະຈອນ ກໍາ ລັງ ດໍາ
+ລົງຊີວິດຂອງຕົນເອງ. ລາວອາຍຸສິບຫົກປີ.
+
+101
+00:06:10,800 --> 00:06:12,800
+[GEORGES]
+What does he do?
+ລາວເຮັດຫຍັງ?
+
+102
+00:06:13,300 --> 00:06:19,300
+[EVA]
+He's a student. We rarely see him. He's got his own ideas. Life Geoff. They don't really get along. Geoff wants to advise him on everything, and John doesn't like that at all.
+ລາວເປັນນັກສຶກສາ. ພວກເຮົາບໍ່ເຫັນລາວເລື້ອຍໆ. ລາວມີແນວຄິດຂອງຕົນເອງ. ຊີວິດຈໍຟ໌.
+ພວກເຂົາບໍ່ເຂົ້າກັນໄດ້ແທ້ໆ. ຈໍຟຟ໌ຢາກແນະ ນໍາ ລາວກ່ຽວກັບທຸກຢ່າງ, ແລະຈອນບໍ່ມັກມັນເລີຍ.
+
+103
+00:06:19,800 --> 00:06:21,800
+[GEORGES]
+Is he good?
+ລາວດີບໍ?
+
+104
+00:06:22,300 --> 00:06:25,100
+[EVA]
+I think so. He's less impulsive. Very industrious.
+ຂ້ອຍຄິດວ່າເປັນ. ລາວບໍ່ທັນກະຕຸ້ນຫຼາຍ. ມີຄວາມຫຍຸ້ງຍາກຫຼາຍ.
+
+105
+00:06:25,600 --> 00:06:27,600
+[GEORGES]
+That sounds rather derogatory.
+ມັນເບິ່ງຄືວ່າໂຊກຮ້າຍຫຼາຍ.
+
+106
+00:06:28,100 --> 00:06:34,100
+[EVA]
+No!! He's not like Geoff. Quiet, but stubborn. I think he'll do all right. At the last Conservatory concert, he played the solo part in the Haydn Concerto. It was very good. Geoff was there and congratulated him at the end.
+ບໍ່!! ລາວບໍ່ແມ່ນຄືກັບເຈຟຟ໌. ງຽບສະຫງົບ, ແຕ່ແຂງແຮງ. ຂ້ອຍຄິດວ່າລາວຈະເຮັດໄດ້ດີ. ໃນງານຄອນເສີດທີ່ຜ່ານມາຂອງຄໍສ໌ເວເຕີຣີ
+, ລາວໄດ້ຫຼິ້ນບົດບາດໂຊໂລໃນງານຄອນສິຕໍໄຮດັນ. ມັນດີຫຼາຍ. ເຈຟຟີຢູ່ບ່ອນນັ້ນແລະອວຍພອນລາວໃນຕອນທ້າຍ.
+
+107
+00:06:34,600 --> 00:06:36,600
+[GEORGES]
+And you?
+ເຈົ້າແນວໃດ?
+
+108
+00:06:37,100 --> 00:06:39,100
+[EVA]
+What do you mean? 14.
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ? 14.
+
+109
+00:06:39,600 --> 00:06:41,600
+[GEORGES]
+Did you both make up?
+ເຈົ້າທັງສອງໄດ້ຕົກລົງກັນບໍ?
+
+110
+00:06:42,100 --> 00:06:48,100
+[EVA]
+My God, you know him, don't you? Over the winter, he suddenly discovered his passion for a viola player who'd been in our ensemble for years. What can I tell you? It was a huge drama, and the poor little darling wound up trying to commit suicide. That scared him and he came back to me in full remorse. I've got used to it now. What's a bit embarrassing is that the ensemble, you can't keep any secrets from anyone.
+ພຣະເຈົ້າຂອງຂ້ອຍ, ເຈົ້າຮູ້ຈັກລາວ, ແມ່ນບໍ? ໃນລະດູຫນາວ, ລາວໄດ້ຄົ້ນພົບຄວາມຮັກຂອງລາວຕໍ່ນັກຫຼິ້ນວີລາທີ່ຢູ່ໃນວົງການຂອງພວກເຮົາເປັນເວລາຫຼາຍປີ. ຂ້ອຍສາມາດບອກເຈົ້າໄດ້ແນວໃດ? ມັນແມ່ນລະຄອນທີ່ໃຫຍ່ຫຼວງ,
+ແລະຄົນຮັກນ້ອຍທີ່ທຸກຍາກສິ້ນສຸດລົງພະຍາຍາມຂ້າຕົວເອງ. ນັ້ນເຮັດໃຫ້ລາວຢ້ານກົວແລະລາວກັບມາຫາຂ້ອຍດ້ວຍຄວາມເສຍໃຈຢ່າງເຕັມທີ່. ຂ້ອຍເຄີຍກັບມັນດຽວນີ້. ສິ່ງທີ່ໂຊກຮ້າຍ ຫນ້ອຍ ຫນຶ່ງ ແມ່ນວ່າວົງການ, ເຈົ້າບໍ່ສາມາດຮັກສາຄວາມລັບໃດໆຈາກໃຜໄດ້.
+
+111
+00:06:48,600 --> 00:06:50,600
+[GEORGES]
+Do you love him?
+ເຈົ້າຮັກລາວບໍ?
+
+112
+00:06:51,100 --> 00:06:53,100
+[EVA]
+Yes, I think so.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າເປັນ.
+
+113
+00:06:53,600 --> 00:06:55,600
+[EVA]
+What's aphasia?
+ອາຟາຊີແມ່ນຫຍັງ?
+
+114
+00:06:56,100 --> 00:07:02,100
+[GEORGES]
+What can I say? The carotid artery was blocked. They did an ultrasound scan, two in fact, and they said they had to operate on her. She was scared. She was confused and scared. You know she has always been afraid of doctors. They said the risk was very low and that if they didn't operate, she'd be certain to have a serious stroke.
+ຂ້ອຍສາມາດເວົ້າຫຍັງໄດ້? ເສັ້ນເລືອດຫົວໃຈຖືກກີດຂວາງ. ພວກເຂົາໄດ້ເຮັດການສະແກນ ultrasound, ສອງໃນຄວາມເປັນຈິງ, ແລະພວກເຂົາເວົ້າວ່າພວກເຂົາຕ້ອງປະຕິບັດງານຕໍ່ນາງ. ນາງຢ້ານກົວ
+. ນາງສັບສົນແລະຢ້ານ ກົວ. ເຈົ້າຮູ້ວ່ານາງເຄີຍຢ້ານແພດຫມໍຢູ່ສະເຫມີ. ພວກເຂົາເວົ້າວ່າຄວາມສ່ຽງຕໍ່າຫຼາຍແລະຖ້າພວກເຂົາບໍ່ປະຕິບັດງານ, ນາງຈະແນ່ໃຈວ່າຈະມີ stroke ທີ່ຮ້າຍແຮງ.
+
+115
+00:07:02,600 --> 00:07:04,700
+[EVA]
+And what do they say now?
+ແລະພວກເຂົາເວົ້າຫຍັງດຽວນີ້?
+
+116
+00:07:05,200 --> 00:07:10,100
+[GEORGES]
+Just that it didn't go well. It's one of the 5% that go wrong.
+ພຽງແຕ່ວ່າມັນບໍ່ໄດ້ໄປດີ. ມັນແມ່ນ ຫນຶ່ງ ໃນ 5% ທີ່ຜິດພາດ.
+
+117
+00:07:10,600 --> 00:07:12,600
+[GEORGES]
+It's pretty upsetting.
+ມັນຫນ້າໂຊກຮ້າຍຫຼາຍ.
+
+118
+00:07:13,100 --> 00:07:19,050
+[GEORGES]
+Usually at this time, I take a nap. My blood sugar is somewhere down in my socks.
+ໂດຍປົກກະຕິໃນເວລານີ້, ຂ້ອຍນອນຫຼັບ. ນ້ ໍາ
+ຕານເລືອດຂອງຂ້ອຍຢູ່ບ່ອນໃດຫນຶ່ງໃນໂຊກເກັດຂອງຂ້ອຍ.
+
+119
+00:07:19,550 --> 00:07:21,550
+[EVA]
+I'm so sorry.
+ຂ້ອຍຂໍໂທດຫຼາຍ.
+
+120
+00:07:22,050 --> 00:07:24,050
+[GEORGES]
+Yeah.
+ແມ່ນແລ້ວ.
+
+121
+00:07:24,550 --> 00:07:26,650
+[EVA]
+What can I do for you?
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ແນວໃດ?
+
+122
+00:07:27,150 --> 00:07:31,700
+[GEORGES]
+Nothing. It was nice of you to come despite all of your stress.
+ບໍ່ມີຫຍັງເລີຍ.
+ມັນດີໃຈທີ່ເຈົ້າມາເຖິງແມ່ນວ່າຄວາມກົດດັນທັງ ຫມົດ ຂອງເຈົ້າ.
+
+123
+00:07:32,200 --> 00:07:38,200
+[GEORGES]
+No, really. There's nothing you can do. We'll see how things go when she's back here in the apartment. We'll manage. Maybe I'll get a caretaker in, or maybe I'll manage on my own. We'll see. We've been through quite a lot in our time, your mother and I. All this is still a bit new.
+ບໍ່, ແທ້ຈິງແລ້ວ. ບໍ່ມີຫຍັງທີ່ທ່ານສາມາດເຮັດໄດ້. ພວກເຮົາຈະເຫັນວ່າສິ່ງຕ່າງໆຈະເກີດຂຶ້ນແນວໃດເມື່ອນາງກັບມາບ່ອນນີ້ໃນອາພາດເມັນ. ພວກເຮົາຍັງຈະຈັດການໄດ້. ບາງທີຂ້ອຍຈະເອົາຜູ້ເບິ່ງແຍງເຂົ້າມາ
+, ຫຼືບາງທີຂ້ອຍຈະເປັນຜູ້ຈັດການດ້ວຍຕົນເອງ. ພວກເຮົາຈະມີເບິ່ງ. ພວກເຮົາໄດ້ຜ່ານຫຼາຍຢ່າງໃນເວລາຂອງພວກເຮົາ, ແມ່ຂອງທ່ານແລະຂ້ອຍ. ສິ່ງທັງ ຫມົດ ນີ້ຍັງເປັນ ໃຫມ່ ພຽງເລັກນ້ອຍ.
+
+124
+00:07:38,700 --> 00:07:44,700
+[EVA]
+It's funny. I don't know if I should say it. Maybe it'll embarrass you. But when I came here a short while ago, I suddenly remembered how I always used to listen to the two of you making love when I was little. 16.
+ມັນມ່ວນຊື່ນ. ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຄວນເວົ້າມັນບໍ. ບາງທີມັນຈະເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ.
+ແຕ່ເມື່ອຂ້ອຍມາບ່ອນນີ້ບໍ່ດົນມານີ້, ຂ້ອຍຈື່ທັນທີວ່າຂ້ອຍເຄີຍຟັງເຈົ້າທັງສອງ ກໍາ ລັງຮັກໃນເວລາທີ່ຂ້ອຍນ້ອຍ. 16.
+
+125
+00:07:45,200 --> 00:07:51,200
+[EVA]
+For me, at the time, it was reassuring. It gave me a feeling that you loved each other, and that we'd always be together.
+ສໍາລັບຂ້ອຍ, ໃນເວລານັ້ນ, ມັນມີຄວາມຫມັ້ນໃຈ.
+ມັນເຮັດໃຫ້ຂ້ອຍຮູ້ສຶກວ່າເຈົ້າຮັກກັນແລະກັນ, ແລະວ່າພວກເຮົາຈະຢູ່ຮ່ວມກັນຕະຫຼອດໄປ.
+
+126
+00:07:51,700 --> 00:07:57,700
+[GEORGES]
+Here. Thank you very much. It's for both of you. You can just put the things down here. There, beside the window, right. We'll be okay on our own. Thanks a lot.
+ຢູ່ບ່ອນນີ້. ຂອບໃຈຫຼາຍໆ. ມັນແມ່ນ ສໍາ ລັບເຈົ້າທັງສອງ. ເຈົ້າພຽງແຕ່ສາມາດວາງສິ່ງຂອງລົງບ່ອນນີ້ໄດ້
+. ຢູ່ບ່ອນນັ້ນ, ຢູ່ຂ້າງປ່ອງຢ້ຽມ, ແມ່ນແລ້ວ. ພວກເຮົາຈະດີດ້ວຍຕົນເອງ. ຂໍຂອບໃຈຫຼາຍ.
+
+127
+00:07:58,200 --> 00:08:00,200
+[GEORGES]
+Thank you, Mr. Mery.
+ຂອບໃຈເດີ, ທ້າວເມຣີ.
+
+128
+00:08:00,700 --> 00:08:05,950
+[GEORGES]
+Right now everything's fine. I'll let your wife know as soon as we need anything.
+ດຽວນີ້ທຸກຢ່າງບໍ່ເປັນຫຍັງ.
+ຂ້ອຍຈະບອກເມຍຂອງທ່ານທັນທີທີ່ພວກເຮົາຕ້ອງການຫຍັງເລີຍ.
+
+129
+00:08:06,450 --> 00:08:09,250
+[ANNE]
+Yes. Thank you, Mr. Mery. Thank you. 17.
+ແມ່ນແລ້ວ. ຂອບໃຈ, ທ້າວເມຣີ. ຂໍຂອບໃຈ. 17.
+
+130
+00:08:09,750 --> 00:08:11,750
+[ANNE]
+Yes, thanks.
+ແມ່ນແລ້ວ, ຂອບໃຈ.
+
+131
+00:08:12,250 --> 00:08:14,250
+[GEORGES]
+Goodbye, Mr. Mery.
+ສະບາຍດີ, ທ້າວເມຣີ.
+
+132
+00:08:14,750 --> 00:08:16,750
+[GEORGES]
+Where do you want...
+ເຈົ້າຢາກຢູ່ໃສ...
+
+133
+00:08:17,250 --> 00:08:19,250
+[ANNE]
+In the living room.
+ໃນຫ້ອງຮັບແຂກ.
+
+134
+00:08:19,750 --> 00:08:21,750
+[GEORGES]
+Shall I make some tea?
+ຂ້ອຍຈະເຮັດຊາບໍ?
+
+135
+00:08:22,250 --> 00:08:24,250
+[ANNE]
+First come sit with me.
+ກ່ອນອື່ນມານັ່ງກັບຂ້ອຍ.
+
+136
+00:08:24,750 --> 00:08:27,200
+[ANNE]
+Can you help me into the chair?
+ເຈົ້າສາມາດຊ່ວຍຂ້ອຍເຂົ້າໄປໃນຕັ່ງໄດ້ບໍ?
+
+137
+00:08:27,700 --> 00:08:29,700
+[GEORGES]
+Of course. 18.
+ແນ່ນອນ. 18.
+
+138
+00:08:30,200 --> 00:08:36,200
+[ANNE]
+It's best if you put my arm around your neck and your right arm around me, that way it'll be easy.
+ມັນດີກວ່າຖ້າເຈົ້າເອົາແຂນຂອງຂ້ອຍໃສ່ຄໍຂອງທ່ານແລະແຂນຂວາຂອງທ່ານໃສ່ຂ້ອຍ
+, ໃນທາງນັ້ນມັນຈະງ່າຍດາຍ.
+
+139
+00:08:36,700 --> 00:08:38,700
+[ANNE]
+Thanks.
+ຂອບໃຈ
+
+140
+00:08:39,200 --> 00:08:45,200
+[LONG PAUSE.]
+At first they are both ill at ease, but then they accept the fact that words do not come easily. After a long while, during which we hear the intermittent sound of the TRAFFIC below.
+ໃນເບື້ອງຕົ້ນພວກເຂົາທັງສອງບໍ່ສະບາຍໃຈ, ແຕ່ຫຼັງຈາກນັ້ນພວກເຂົາຍອມຮັບຄວາມຈິງທີ່ວ່າ ຄໍາ
+ເວົ້າບໍ່ໄດ້ມາຢ່າງງ່າຍດາຍ. ຫຼັງຈາກເວລາດົນນານ, ໃນລະຫວ່າງທີ່ພວກເຮົາໄດ້ຍິນສຽງຢຸດເຊົາຂອງ Traffic ຢູ່ລຸ່ມນີ້.
+
+141
+00:08:45,700 --> 00:08:47,700
+[GEORGES]
+I'm glad you're back.
+ຂ້ອຍດີໃຈທີ່ເຈົ້າກັບມາ.
+
+142
+00:08:48,200 --> 00:08:50,200
+[ANNE]
+Me too.
+ຂ້ອຍຄືກັນ.
+
+143
+00:08:50,700 --> 00:08:52,700
+[ANNE]
+Promise me one thing.
+ສັນຍາໃຫ້ຂ້ອຍສິ່ງດຽວ.
+
+144
+00:08:53,200 --> 00:08:55,200
+[GEORGES]
+What?
+ຫຍັງ?
+
+145
+00:08:55,700 --> 00:08:58,500
+[ANNE]
+Please never take me back to the hospital.
+ກະລຸນາຢ່າພາຂ້ອຍກັບຄືນໄປໂຮງຫມໍເລີຍ.
+
+146
+00:08:59,000 --> 00:09:01,000
+[GEORGES]
+What?
+ຫຍັງ?
+
+147
+00:09:01,500 --> 00:09:03,500
+[PAUSE.]
+19.
+19.
+
+148
+00:09:04,000 --> 00:09:06,000
+[ANNE]
+You promise?
+ເຈົ້າສັນຍາບໍ?
+
+149
+00:09:06,500 --> 00:09:08,500
+[GEORGES]
+Anne...
+ແອນ...
+
+150
+00:09:09,000 --> 00:09:11,000
+[ANNE]
+You promise?
+ເຈົ້າສັນຍາບໍ?
+
+151
+00:09:11,500 --> 00:09:13,500
+[GEORGES]
+Anne, I...
+ແອນ, ຂ້ອຍ...
+
+152
+00:09:14,000 --> 00:09:17,850
+[ANNE]
+Don't talk right now. And don't give me any lectures. Please.
+ຢ່າເວົ້າໃນເວລານີ້. ແລະຢ່າໃຫ້ຂ້ອຍບົດສອນໃດໆ. ກະລຸນາ.
+
+153
+00:09:18,350 --> 00:09:20,350
+[GEORGES]
+What can I say, it's...
+ຂ້ອຍຈະເວົ້າຫຍັງໄດ້, ມັນເປັນ...
+
+154
+00:09:20,850 --> 00:09:22,850
+[ANNE]
+Nothing. Just don't say anything.
+ບໍ່ມີຫຍັງ. ພຽງແຕ່ຢ່າເວົ້າຫຍັງເລີຍ.
+
+155
+00:09:23,350 --> 00:09:25,350
+[GEORGES]
+There.
+ນັ້ນແລ້ວ.
+
+156
+00:09:25,850 --> 00:09:27,850
+[ANNE]
+Thank you. Thank you, Darling.
+ຂອບໃຈ. ຂອບໃຈແມ.
+
+157
+00:09:28,350 --> 00:09:30,350
+[GEORGES]
+Everything OK?
+ທຸກຢ່າງດີບໍ?
+
+158
+00:09:30,850 --> 00:09:32,850
+[ANNE]
+Everything's fine.
+ທຸກຢ່າງບໍ່ເປັນຫຍັງ.
+
+159
+00:09:33,350 --> 00:09:39,350
+[ANNE]
+You don't have to hold my hand all the time now. I can look after myself, you know.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຈັບມືຂ້ອຍຕະຫຼອດເວລາດຽວນີ້
+. ຂ້ອຍສາມາດເບິ່ງແຍງຕົວເອງໄດ້, ເຈົ້າຮູ້ແລ້ວ.
+
+160
+00:09:39,850 --> 00:09:44,750
+[ANNE]
+And don't feel guilty. That would be pointless. And a drag. For me too.
+ແລະຢ່າຮູ້ສຶກຜິດ. ນັ້ນຈະເປັນບໍ່ມີຄວາມ
+ຫມາຍ. ແລະດຶງດູດ. ສໍາ ລັບຂ້ອຍເຊັ່ນກັນ.
+
+161
+00:09:45,250 --> 00:09:47,250
+[GEORGES]
+I don't feel guilty.
+ຂ້ອຍບໍ່ຮູ້ສຶກຜິດ.
+
+162
+00:09:47,750 --> 00:09:49,750
+[ANNE]
+That's good.
+ນັ້ນດີ.
+
+163
+00:09:50,250 --> 00:09:56,250
+[ANNE]
+Go over there now. I'm not a cripple. You can easily leave me alone for two minutes. I won't collapse.
+ໄປບ່ອນນັ້ນດຽວນີ້. ຂ້ອຍບໍ່ແມ່ນຄົນພິການ.
+ເຈົ້າສາມາດປ່ອຍຂ້ອຍຢູ່ຢ່າງງ່າຍດາຍເປັນເວລາສອງນາທີ. ຂ້ອຍຈະບໍ່ຕົກລົງ.
+
+164
+00:09:56,750 --> 00:09:59,550
+[ANNE]
+Did you buy the new book on Harnoncourt?
+ເຈົ້າໄດ້ຊື້ປື້ມໃຫມ່ກ່ຽວກັບຮາໂນນຄູຕບໍ?
+
+165
+00:10:00,050 --> 00:10:02,050
+[GEORGES]
+I've already read it.
+ຂ້ອຍອ່ານມັນແລ້ວ.
+
+166
+00:10:02,550 --> 00:10:04,550
+[ANNE]
+And?
+ແລະ?
+
+167
+00:10:05,050 --> 00:10:08,200
+[GEORGES]
+Do you want it? I'll get it for you.
+ເຈົ້າຢາກມັນບໍ? ຂ້ອຍຈະເອົາມັນໃຫ້ເຈົ້າ.
+
+168
+00:10:08,700 --> 00:10:10,700
+[ANNE]
+Sure.
+ແນ່ນອນ.
+
+169
+00:10:11,200 --> 00:10:13,650
+[GEORGES]
+I don't know where I put it.
+ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍເອົາມັນໃສ.
+
+170
+00:10:14,150 --> 00:10:16,250
+[ANNE]
+Don't worry. It isn't that important.
+ຢ່າກັງວົນ. ມັນບໍ່ສໍາຄັນຫຼາຍ.
+
+171
+00:10:16,750 --> 00:10:22,750
+[GEORGES]
+Yes, it is. Hold on, maybe it's in the... Just a moment! Viola! Here you are! Nothing like an infallible memory!
+ແມ່ນແລ້ວ, ມັນເປັນ. ລໍຖ້າ, ບາງທີມັນຢູ່ໃນ... ພຽງແຕ່ຊົ່ວຄາວ! ວີໂອລາ
+! ເຈົ້າຢູ່ບ່ອນນີ້! ບໍ່ມີຫຍັງຄືກັບຄວາມຊົງຈໍາທີ່ບໍ່ສາມາດຜິດພາດໄດ້!
+
+172
+00:10:23,250 --> 00:10:29,250
+[GEORGES]
+I thought I'd left it over there in the other room, but I'd already put it away. Tidy people just can't help being tidy.
+ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ປ່ອຍມັນຢູ່ບ່ອນນັ້ນໃນຫ້ອງອື່ນ,
+ແຕ່ຂ້ອຍໄດ້ວາງມັນໄວ້ແລ້ວ. ຄົນທີ່ສວຍງາມພຽງແຕ່ບໍ່ສາມາດຊ່ວຍໃນການສວຍໃສໄດ້.
+
+173
+00:10:29,750 --> 00:10:31,750
+[ANNE]
+Thanks.
+ຂອບໃຈ
+
+174
+00:10:32,250 --> 00:10:38,250
+[ANNE]
+Right now, take care of yourself. And don't wait to see how I hold the book in my hand, OK?
+ດຽວນີ້, ເບິ່ງແຍງຕົວເອງ.
+ແລະຢ່າລໍຖ້າເບິ່ງວ່າຂ້ອຍຖືປື້ມໃນມືຂອງຂ້ອຍແນວໃດ, ດີບໍ?
+
+175
+00:10:38,750 --> 00:10:44,750
+[OK.]
+He looks at her for a moment longer, then leaves the bedroom. She waits till he's outside. Tries to relax. Then she remembers the book. She takes it in her left hand and tries to open it. It's not easy for her.
+ລາວເບິ່ງນາງອີກຊົ່ວຄາວຫນຶ່ງ, ຫຼັງຈາກນັ້ນອອກຈາກຫ້ອງນອນ. ນາງລໍຖ້າຈົນກວ່າລາວຢູ່ພາຍນອກ. ພະຍາຍາມຜ່ອນຄາຍ
+. ຫຼັງຈາກນັ້ນນາງຈື່ປື້ມ. ນາງເອົາມັນໃນມືຊ້າຍແລະພະຍາຍາມເປີດມັນ. ມັນບໍ່ງ່າຍ ສໍາ ລັບນາງ.
+
+176
+00:10:45,250 --> 00:10:47,250
+[GEORGES]
+Sure, no problem.
+ແນ່ນອນ, ບໍ່ເປັນຫຍັງ.
+
+177
+00:10:47,750 --> 00:10:50,550
+[GEORGES]
+Thank you very much. Keep the change. Thanks.
+ຂອບໃຈຫຼາຍໆ. ຮັກສາເງິນປ່ຽນໄວ້. ຂອບໃຈ.
+
+178
+00:10:51,050 --> 00:10:53,050
+[GEORGES]
+Yes. I will.
+ແມ່ນແລ້ວ. ຂ້ອຍຈະເຮັດ.
+
+179
+00:10:53,550 --> 00:10:55,550
+[GEORGES]
+Yes, she's OK. She's recovering.
+ແມ່ນແລ້ວ, ນາງບໍ່ເປັນຫຍັງ. ນາງ ກໍາ ລັງຟື້ນຟູ.
+
+180
+00:10:56,050 --> 00:10:59,550
+[GEORGES]
+Yes, we are too. Bye, Mrs. M�ry, thanks so much.
+ແມ່ນແລ້ວ, ພວກເຮົາຍັງເປັນ. ສະບາຍດີ, ທ່ານນາງ M ry, ຂອບໃຈຫຼາຍໆ.
+
+181
+00:11:00,050 --> 00:11:02,150
+[ANNE]
+There. Can you come in, please?
+ນັ້ນແລ້ວ. ເຈົ້າເຂົ້າມາໄດ້ບໍ, ກະລຸນາ?
+
+182
+00:11:02,650 --> 00:11:08,650
+[GEORGES]
+... some banal romance or other about a nobleman and a lower middle- class girl who couldn't have each other and who then, out of sheer magnanimity, decide to renounce their love - in fact I don't quite remember it any more. In any case, afterwards I was thoroughly distraught, and it took me a bit of time to calm down. In the courtyard of the house where grandma lived, there was a young guy at the window who asked me where I'd been. He was a couple of years older than me, a braggart who of course really impressed me. "To the movies", I said, because I was proud that my grandma had given me the money to go all alone to the cinema. 24.
+... ຄວາມຮັກແຊກແຊງບາງຢ່າງຫຼືອື່ນໆກ່ຽວກັບຜູ້ຊາຍຄົນສູງແລະເດັກຍິງຊັ້ນກາງຕໍ່າທີ່ບໍ່ສາມາດມີກັນແລະກັນໄດ້ແລະຜູ້ທີ່ຫຼັງຈາກນັ້ນ, ຈາກຄວາມຍິ່ງໃຫຍ່ທີ່ບໍລິສຸດ, ຕັດສິນໃຈທີ່ຈະປະຖິ້ມຄວາມຮັກຂອງພວກເຂົາ -
+ໃນຄວາມເປັນຈິງຂ້ອຍບໍ່ຈື່ມັນອີກຕໍ່ໄປ. ໃນກໍລະນີໃດກໍ່ຕາມ, ຫຼັງຈາກນັ້ນຂ້ອຍມີຄວາມກັງວົນຢ່າງສົມບູນ, ແລະມັນໃຊ້ເວລາຂ້ອຍ ຫນ້ອຍ ຫນຶ່ງ ເພື່ອສະຫງົບໃຈ. ໃນເດີ່ນເຮືອນທີ່ແມ່ອາໄສຢູ່, ມີຜູ້ຊາຍຫນຸ່ມຢູ່ປ່ອງຢ້ຽມທີ່ຖາມຂ້ອຍວ່າຂ້ອຍຢູ່
+
+183
+00:11:09,150 --> 00:11:15,150
+[GEORGES]
+"What did you see?" I started to tell him the story of the movie, and as I did, all the emotion came back. I didn't want to cry in front of the boy, but it was impossible; there I was, crying out loud in the courtyard, and I told him the whole drama to the bitter end.
+ເຈົ້າເຫັນຫຍັງ? ຂ້ອຍເລີ່ມບອກລາວເລື່ອງຂອງຮູບເງົາ, ແລະໃນຂະນະທີ່ຂ້ອຍເຮັດ, ຄວາມຮູ້ສຶກທັງ ຫມົດ ກັບມາ. ຂ້ອຍບໍ່ຢາກຮ້ອງໄຫ້ຢູ່ຕໍ່ຫນ້າເດັກຊາຍ
+, ແຕ່ມັນບໍ່ສາມາດເຮັດໄດ້; ຂ້ອຍຢູ່ບ່ອນນັ້ນ, ຮ້ອງໄຫ່ຢ່າງແຮງໃນເດີ່ນ, ແລະຂ້ອຍບອກລາວບົດລະຄອນທັງ ຫມົດ ຈົນເຖິງສິ້ນສຸດທີ່ໂຊກຮ້າຍ.
+
+184
+00:11:15,650 --> 00:11:17,650
+[ANNE]
+So? How did he react?
+ສະນັ້ນ? ລາວປະຕິກິລິຍາແນວໃດ?
+
+185
+00:11:18,150 --> 00:11:24,150
+[GEORGES]
+No idea. He probably found it amusing. I don't remember. I don't remember the film either. But I remember the feeling. That I was ashamed of crying, but that telling him the story made all my feelings and tears come back, almost more powerfully than when I was actually watching the film, and that I just couldn't stop.
+ບໍ່ຮູ້ເລີຍ. ລາວອາດຈະພົບວ່າມັນມ່ວນຊື່ນ. ຂ້ອຍບໍ່ຈື່. ຂ້ອຍບໍ່ໄດ້ຈື່ຮູບເງົາເຊັ່ນກັນ. ແຕ່ຂ້ອຍຈື່ຄວາມຮູ້ສຶກ. ວ່າຂ້ອຍໂຊກຮ້າຍຈາກການຮ້ອງໄຫ້,
+ແຕ່ວ່າການບອກລາວເລື່ອງເຮັດໃຫ້ຄວາມ ຮູ້ສຶກແລະນໍ້າຕາຂອງຂ້ອຍທັງ ຫມົດ ກັບມາ, ເກືອບມີພະລັງຫຼາຍກ່ວາເມື່ອຂ້ອຍ ກໍາ ລັງເບິ່ງຮູບເງົານັ້ນແທ້ໆ, ແລະວ່າຂ້ອຍພຽງແຕ່ບໍ່ສາມາດຢຸດໄດ້.
+
+186
+00:11:24,650 --> 00:11:27,800
+[ANNE]
+That's cute. Why didn't you ever tell me before?
+ນັ້ນແມ່ນຫນ້າຮັກ. ເປັນຫຍັງເຈົ້າບໍ່ເຄີຍບອກຂ້ອຍກ່ອນ?
+
+187
+00:11:28,300 --> 00:11:31,450
+[GEORGES]
+There are still a few stories you don't know.
+ຍັງມີເລື່ອງບາງຢ່າງທີ່ເຈົ້າບໍ່ຮູ້.
+
+188
+00:11:31,950 --> 00:11:36,850
+[ANNE]
+Aha...? Don't tell me you're going to ruin your image in your old age?
+ອາຮາ...? ຢ່າບອກຂ້ອຍວ່າເຈົ້າຈະ ທໍາ
+ລາຍຮູບພາບຂອງທ່ານໃນອາຍຸສູງຂອງທ່ານບໍ?
+
+189
+00:11:37,350 --> 00:11:40,500
+[GEORGES]
+You bet I won't. But what is my image?
+ເຈົ້າແນ່ໃຈວ່າຂ້ອຍຈະບໍ່ເຮັດ. ແຕ່ຮູບພາບຂອງຂ້ອຍແມ່ນຫຍັງ?
+
+190
+00:11:41,000 --> 00:11:43,450
+[ANNE]
+Sometimes you're a rotter. But you're nice.
+ບາງຄັ້ງເຈົ້າເປັນຄົນສໍ້ໂກງ. ແຕ່ເຈົ້າດີໃຈ.
+
+191
+00:11:43,950 --> 00:11:46,750
+[GEORGES]
+Can I take you for a drink? 25.
+ຂ້ອຍສາມາດພາເຈົ້າໄປດື່ມໄດ້ບໍ? 25.
+
+192
+00:11:47,250 --> 00:11:53,250
+[ANNE]
+Listen to this! My horoscope. Motto: You have lots of verve, but need to be more serious! Love: High-class conversation is what you need. Work: You're motivated again. But proceed with care. Health: Loosen up by doing exercises. It'll give you renewed pizzazz.
+ຟັງສິ່ງນີ້! ໂຮສໂກບຂອງຂ້ອຍ. ຄໍາ ແນະ ນໍາ: ເຈົ້າມີຄວາມກະຕຸ້ນຫຼາຍ, ແຕ່ຕ້ອງມີຄວາມຈິງໃຈຫຼາຍຂຶ້ນ! ຄວາມຮັກ: ການສົນທະນາຊັ້ນສູງແມ່ນສິ່ງທີ່ເຈົ້າຕ້ອງການ
+. ວຽກງານ: ເຈົ້າຖືກກະຕຸກກະຕານອີກຄັ້ງ. ແຕ່ສືບຕໍ່ດ້ວຍຄວາມລະມັດລະວັງ. ສຸຂະພາບ: ຜ່ອນຜັນໂດຍການອອກ ກໍາ ລັງກາຍ. ມັນຈະເຮັດໃຫ້ເຈົ້າຟື້ນຟູ pizzazz.
+
+193
+00:11:53,750 --> 00:11:57,600
+[GEORGES]
+You've only yourself to blame if you read stuff like that.
+ເຈົ້າຕ້ອງກ່າວໂທດພຽງແຕ່ຕົວເອງຖ້າເຈົ້າອ່ານສິ່ງດັ່ງກ່າວ.
+
+194
+00:11:58,100 --> 00:12:00,100
+[GEORGES]
+Tomorrow afternoon is Pierre's funeral.
+ຕອນບ່າຍມື້ອື່ນແມ່ນການຝັງສົບຂອງເປເຣຍ.
+
+195
+00:12:00,600 --> 00:12:02,600
+[ANNE]
+You have to go.
+ເຈົ້າຕ້ອງໄປ.
+
+196
+00:12:03,100 --> 00:12:06,950
+[GEORGES]
+I fear I must. I don't want to go at all.
+ຂ້ອຍຢ້ານວ່າຂ້ອຍຕ້ອງໄປ. ຂ້ອຍບໍ່ຢາກໄປເລີຍ.
+
+197
+00:12:07,450 --> 00:12:09,550
+[ANNE]
+Who does like going to funerals?
+ໃຜມັກໄປຝັງສົບ?
+
+198
+00:12:10,050 --> 00:12:16,050
+[GEORGES]
+Oh, I know a few people who do. Annette can never wait to get all dolled up again. And Fran�ois has... 26.
+ໂອ້, ຂ້ອຍຮູ້ຈັກຄົນ ຈໍາ ນວນ ຫນຶ່ງ ທີ່ເຮັດ.
+ແອນເນັດບໍ່ສາມາດລໍຖ້າທີ່ຈະໃສ່ເຄື່ອງນຸ່ງຫົ່ມທັງ ຫມົດ ອີກເທື່ອຫນຶ່ງ. ແລະຟຣານອິສມີ... 26.
+
+199
+00:12:16,550 --> 00:12:21,100
+[ANNE]
+You're mean. What would you say if no one came to your funeral?
+ເຈົ້າເປັນຄົນຮ້າຍແຮງ. ເຈົ້າຈະເວົ້າຫຍັງຖ້າບໍ່ມີໃຜມາຝັງສົບຂອງທ່ານ?
+
+200
+00:12:21,600 --> 00:12:23,600
+[GEORGES]
+Nothing, presumably.
+ບໍ່ມີຫຍັງເລີຍ, ຄາດວ່າ.
+
+201
+00:12:24,100 --> 00:12:30,100
+[ANNE]
+Have you talked to Jeanne since I was in the hospital? I mean, does she know I can't come?
+ເຈົ້າໄດ້ເວົ້າກັບຈິນນ໌ຕັ້ງແຕ່ຂ້ອຍຢູ່ໃນໂຮງຫມໍບໍ?
+ຂ້ອຍຫມາຍຄວາມວ່າ, ນາງຮູ້ວ່າຂ້ອຍບໍ່ສາມາດມາໄດ້ບໍ?
+
+202
+00:12:30,600 --> 00:12:32,600
+[GEORGES]
+Of course.
+ແນ່ນອນ.
+
+203
+00:12:33,100 --> 00:12:35,100
+[ANNE]
+What did she say?
+ນາງເວົ້າຫຍັງ?
+
+204
+00:12:35,600 --> 00:12:37,600
+[GEORGES]
+She was shocked.
+ນາງຕົກໃຈຫຼາຍ.
+
+205
+00:12:38,100 --> 00:12:40,100
+[ANNE]
+How?
+ແນວໃດ?
+
+206
+00:12:40,600 --> 00:12:46,600
+[GEORGES]
+My God, what are people like when they're shocked? She couldn't believe it, she was speechless. I don't remember any more. In any case, not exactly. I've spoken to a lot of people since.
+ພຣະເຈົ້າຂອງຂ້ອຍ, ຄົນເປັນແນວໃດເມື່ອພວກເຂົາຕົກໃຈ? ນາງບໍ່ສາມາດເຊື່ອມັນໄດ້, ນາງບໍ່ມີປາກເວົ້າ.
+ຂ້ອຍບໍ່ຈື່ອີກຕໍ່ໄປ. ໃນກໍລະນີໃດກໍ່ຕາມ, ບໍ່ແນ່ນອນ. ຂ້ອຍໄດ້ເວົ້າກັບຄົນຫຼາຍຄົນນັບຕັ້ງແຕ່ນັ້ນ.
+
+207
+00:12:47,100 --> 00:12:49,100
+[ANNE]
+Sorry.
+ຂໍໂທດ.
+
+208
+00:12:49,600 --> 00:12:55,600
+[GEORGES]
+No, I'm sorry. I didn't mean to be unkind, but I just don't see the point of talking about it all the time.
+ບໍ່, ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະບໍ່ເປັນໃຈບຸນ,
+ແຕ່ຂ້ອຍພຽງແຕ່ບໍ່ເຫັນຈຸດປະສົງຂອງການເວົ້າກ່ຽວກັບມັນຕະຫຼອດເວລາ.
+
+209
+00:12:56,100 --> 00:12:59,250
+[ANNE]
+Do I talk about it all the time? 27.
+ຂ້ອຍເວົ້າກ່ຽວກັບມັນຕະຫຼອດເວລາບໍ? 27.
+
+210
+00:12:59,750 --> 00:13:01,750
+[GEORGES]
+No. Sorry.
+ບໍ່. ຂໍໂທດ.
+
+211
+00:13:02,250 --> 00:13:04,250
+[ANNE]
+Don't worry.
+ຢ່າເປັນຫ່ວງ.
+
+212
+00:13:04,750 --> 00:13:06,750
+[GEORGES]
+What ... ?!
+ຫຍັງ...?!
+
+213
+00:13:07,250 --> 00:13:09,250
+[ANNE]
+(once she's seated in the
+(ເມື່ອນາງນັ່ງຢູ່ໃນ
+
+214
+00:13:09,750 --> 00:13:12,900
+[WHEELCHAIR)]
+Why are you back already? What time is it?
+ເຈົ້າກັບມາແລ້ວເປັນຫຍັງ? ເວລາຫຼາຍປານໃດ?
+
+215
+00:13:13,400 --> 00:13:16,550
+[PAUSE.]
+Georges has understood immediately. He closes the window noiselessly.
+ຈໍເຈສ໌ໄດ້ເຂົ້າໃຈທັນທີ. ລາວປິດປ່ອງຢ້ຽມຢ່າງງຽບສະຫງົບ.
+
+216
+00:13:17,050 --> 00:13:19,150
+[ANNE]
+Forgive me, I was too slow.
+ຂໍໂທດຂ້ອຍ, ຂ້ອຍຊ້າເກີນໄປ.
+
+217
+00:13:19,650 --> 00:13:21,650
+[GEORGES]
+Anne...
+ແອນ...
+
+218
+00:13:22,150 --> 00:13:24,950
+[ANNE]
+Can you wheel me into the living room?
+ເຈົ້າສາມາດຂັບຂີ່ຂ້ອຍໄປຫ້ອງຮັບແຂກໄດ້ບໍ?
+
+219
+00:13:25,450 --> 00:13:27,450
+[GEORGES]
+Yes. 28.
+ແມ່ນແລ້ວ. 28.
+
+220
+00:13:27,950 --> 00:13:29,950
+[GEORGES]
+You're always good at surprises.
+ເຈົ້າດີໃນການແປກໃຈຢູ່ສະເຫມີ.
+
+221
+00:13:30,450 --> 00:13:32,550
+[ANNE]
+Yes. Why are you home earlier?
+ແມ່ນແລ້ວ. ເຈົ້າກັບບ້ານກ່ອນເປັນຫຍັງ?
+
+222
+00:13:33,050 --> 00:13:39,000
+[GEORGES]
+I didn't come home earlier. I took a taxi. In August, there isn't a lot of traffic.
+ຂ້ອຍບໍ່ໄດ້ກັບບ້ານກ່ອນ. ຂ້ອຍໄດ້ເອົາແທັກຊີ
+. ໃນເດືອນສິງຫາ, ບໍ່ມີການຈະລາຈອນຫຼາຍ.
+
+223
+00:13:39,500 --> 00:13:41,600
+[ANNE]
+That's true. How was the funeral?
+ນັ້ນແມ່ນຄວາມຈິງ. ການຝັງສົບເປັນແນວໃດ?
+
+224
+00:13:42,100 --> 00:13:44,100
+[GEORGES]
+Anne...!
+ແອນນ໌...!
+
+225
+00:13:44,600 --> 00:13:47,050
+[ANNE]
+How was it, go on, tell me!
+ມັນເປັນແນວໃດ, ໄປ, ບອກຂ້ອຍ!
+
+226
+00:13:47,550 --> 00:13:53,550
+[GEORGES]
+It was rather bizarre. The priest was an idiot. Then one of Pierre's co-workers made a speech that was embarrassingly emotional. His old secretary came with a radio- cassette player and after the speech she put on "Yesterday" by the Beatles. You can't imagine. Everybody turned round to look at her. Apparently, it wasn't planned. His grandchildren were there. Of course they giggled as soon as the music began. Then the urn was put on a huge stretcher that was obviously designed for a coffin, and out we went into the rain. They placed the urn on a small electric cart that crawled along for what seemed like an eternity to the tiny hole they had dug. A lot of people had to stifle their laughter. It must have been terrible for Jeanne. I have... 29.
+ມັນແປກໃຈຫຼາຍ. ພະສົງເປັນຄົນໂງ່. ຫຼັງຈາກນັ້ນ ຫນຶ່ງ ໃນເພື່ອນຮ່ວມງານຂອງເປເຣຍໄດ້ກ່າວຄໍາປາໄສທີ່ມີຄວາມຮູ້ສຶກທີ່ ຫນ້າ ໂຊກຮ້າຍ. ເລຂາທິການເກົ່າຂອງລາວມາພ້ອມກັບເຄື່ອງຫຼີ້ນຄາເຊັດວິທະຍຸແລະຫຼັງຈາກການເວົ້າທີ່ນາງວາງໃນ"ມື້ວານນີ້"
+ໂດຍບິດຕລ໌. ເຈົ້າບໍ່ສາມາດຄິດໄດ້. ທຸກຄົນຫັນໄປເບິ່ງນາງ. ເບິ່ງຄືວ່າ, ມັນບໍ່ໄດ້ວາງແຜນ. ລູກຫຼານຂອງລາວຢູ່ບ່ອນນັ້ນ. ແນ່ນອນວ່າພວກເຂົາມ່ວນຊື່ນທັນທີທີ່ດົນຕີ
+
+227
+00:13:54,050 --> 00:14:00,050
+[ANNE]
+There's just no point in going on living. I know it can only get worse. Why should I inflict it on us? On you and me.
+ມັນພຽງແຕ່ບໍ່ມີຈຸດປະສົງໃນການ ດໍາ ລົງຊີວິດຕໍ່ໄປ. ຂ້ອຍຮູ້ວ່າມັນພຽງແຕ່ສາມາດຮ້າຍແຮງຂຶ້ນເທົ່ານັ້ນ
+. ເປັນຫຍັງຂ້ອຍຄວນເຮັດໃຫ້ມັນເກີດຂຶ້ນກັບພວກເຮົາ? ຕໍ່ເຈົ້າແລະຂ້ອຍ.
+
+228
+00:14:00,550 --> 00:14:02,650
+[GEORGES]
+You're not inflicting anything on me.
+ເຈົ້າບໍ່ໄດ້ເຮັດໃຫ້ຂ້ອຍມີຫຍັງເລີຍ.
+
+229
+00:14:03,150 --> 00:14:05,250
+[ANNE]
+You don't have to lie, Georges.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຕົວະ, ຈໍເຈສ.
+
+230
+00:14:05,750 --> 00:14:11,700
+[GEORGES]
+Imagine you were me. Didn't you ever think something like this could happen to one of us?
+ຄິດວ່າເຈົ້າເປັນຂ້ອຍ.
+ເຈົ້າບໍ່ເຄີຍຄິດວ່າສິ່ງນີ້ອາດຈະເກີດຂຶ້ນກັບຄົນ ຫນຶ່ງ ໃນພວກເຮົາບໍ?
+
+231
+00:14:12,200 --> 00:14:16,400
+[ANNE]
+Of course I did. But imagination and reality have little in common.
+ແນ່ນອນວ່າຂ້ອຍເຮັດ. ແຕ່ຄວາມຄິດເຫັນແລະຄວາມເປັນຈິງມີສ່ວນຮ່ວມ ຫນ້ອຍ.
+
+232
+00:14:16,900 --> 00:14:19,700
+[GEORGES]
+But things are getting better every day. We'll...
+ແຕ່ສິ່ງຕ່າງໆ ກໍາ ລັງດີຂຶ້ນທຸກໆມື້. ພວກເຮົາຈະ...
+
+233
+00:14:20,200 --> 00:14:26,200
+[ANNE]
+Georges, I don't want to carry on. You're making such efforts to make everything easier for me. But I don't want to go on. For my own sake. Not yours.
+ຈໍເຈສ, ຂ້ອຍບໍ່ຢາກສືບຕໍ່. ເຈົ້າ ກໍາ ລັງພະຍາຍາມຫຼາຍຢ່າງເພື່ອເຮັດໃຫ້ທຸກຢ່າງງ່າຍດາຍ
+ສໍາ ລັບຂ້ອຍ. ແຕ່ຂ້ອຍບໍ່ຢາກຕໍ່ໄປ. ເພື່ອຄວາມເປັນປະໂຫຍດຂອງຂ້ອຍເອງ. ບໍ່ແມ່ນຂອງເຈົ້າ.
+
+234
+00:14:26,700 --> 00:14:32,700
+[GEORGES]
+I don't believe you. I know you. You think you're a burden on me. But what if things were the other way around? What would you do then?
+ຂ້ອຍບໍ່ເຊື່ອເຈົ້າ. ຂ້ອຍຮູ້ຈັກເຈົ້າ. ເຈົ້າຄິດວ່າເຈົ້າເປັນຫນັກຕໍ່ຂ້ອຍ
+. ແຕ່ຖ້າສິ່ງຕ່າງໆເປັນທາງກົງກັນຂ້າມແນວໃດ? ເຈົ້າຈະເຮັດແນວໃດໃນເວລານັ້ນ?
+
+235
+00:14:33,200 --> 00:14:39,200
+[ANNE]
+I don't know. I can't be bothered to think about being you. I'm tired. You tire me. Everything tires me. I can't talk. I want to go to bed.
+ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍບໍ່ສາມາດກັງວົນທີ່ຈະຄິດກ່ຽວກັບການເປັນເຈົ້າໄດ້. ຂ້ອຍເມື່ອຍແລ້ວ.
+ເຈົ້າເມື່ອຍຂ້ອຍ. ທຸກສິ່ງທຸກຢ່າງເຮັດໃຫ້ຂ້ອຍເມື່ອຍ. ຂ້ອຍເວົ້າບໍ່ໄດ້. ຂ້ອຍຢາກນອນ.
+
+236
+00:14:39,700 --> 00:14:41,800
+[GEORGES]
+Oh hello! Nice to see you.
+ໂອ້ ສະບາຍດີ! ດີໃຈທີ່ເຫັນເຈົ້າ.
+
+237
+00:14:42,300 --> 00:14:48,300
+[SOLOIST]
+Forgive me for dropping in on you like this, Professor. I tried to reach you by phone a couple of times, but no luck.
+ຂໍໂທດຂ້ອຍທີ່ມາຫາເຈົ້າແບບນີ້, ສາດສະດາຈານ.
+ຂ້ອຍພະຍາຍາມຕິດຕໍ່ຫາເຈົ້າທາງໂທລະສັບສອງສາມຄັ້ງ, ແຕ່ບໍ່ມີໂຊກດີ.
+
+238
+00:14:48,800 --> 00:14:54,800
+[GEORGES]
+I'm sorry. I only pick up the phone when I've stored the caller's number and I can see who's calling. Why didn't you leave a message? Anyway, do come in...
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍພຽງແຕ່ເອົາໂທລະສັບເມື່ອຂ້ອຍໄດ້ເກັບຮັກສາເບີຄົນໂທແລະຂ້ອຍສາມາດເຫັນວ່າໃຜໂທ
+. ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ປ່ອຍຂໍ້ຄວາມ? ຢ່າງໃດກໍ່ຕາມ, ເຂົ້າມາ...
+
+239
+00:14:55,300 --> 00:15:01,300
+[SOLOIST]
+I just couldn't manage to come by after the concert. I was so sorry, because I was so pleased you came along.
+ຂ້ອຍພຽງແຕ່ບໍ່ສາມາດມາໄດ້ຫຼັງຈາກງານຄອນເສີດ.
+ຂ້ອຍຂໍໂທດຫຼາຍ, ເພາະວ່າຂ້ອຍດີໃຈຫຼາຍທີ່ເຈົ້າມາພ້ອມ.
+
+240
+00:15:01,800 --> 00:15:03,800
+[GEORGES]
+Come with me.
+ມາກັບຂ້ອຍ.
+
+241
+00:15:04,300 --> 00:15:10,300
+[SOLOIST]
+... And now, an unexpected opportunity has arisen because Fran�ois Mitry called me - you know him, he's my agent - to say he'd arranged for me to meet the boss of the Th��tre des Champs-Elys�es tonight to talk about their new concert series. 31.
+ແລະດຽວນີ້, ໂອກາດທີ່ບໍ່ຄາດຫວັງໄດ້ເກີດຂຶ້ນເພາະວ່າແຟຣນອິສ ມິຕຣີໄດ້ໂທຫາຂ້ອຍ - ເຈົ້າຮູ້ຈັກລາວ, ລາວເປັນຕົວແທນຂອງຂ້ອຍ -
+ເພື່ອບອກວ່າລາວໄດ້ຈັດການໃຫ້ຂ້ອຍພົບກັບຫົວຫນ້າຂອງ Three des Champs-Elys ແມ່ນໃນຄືນນີ້ເພື່ອເວົ້າກ່ຽວກັບຊຸດຄອນເສີດ ໃຫມ່ ຂອງພວກເຂົາ. 31.
+
+242
+00:15:10,800 --> 00:15:16,800
+[SOLOIST]
+So I flew to Paris this morning, and while I was in my hotel, I thought, I'll just give it a try and drop in. After all, it's virtually just around the corner.
+ສະນັ້ນຂ້ອຍໄດ້ບິນໄປປາຣີໃນຕອນເຊົ້ານີ້, ແລະໃນຂະນະທີ່ຂ້ອຍຢູ່ໃນໂຮງແຮມຂອງຂ້ອຍ,
+ຂ້ອຍຄິດວ່າ, ຂ້ອຍພຽງແຕ່ຈະພະຍາຍາມມັນແລະລົງມາ. ຫຼັງຈາກນັ້ນ, ມັນເກືອບຢູ່ໃກ້ແຄມ.
+
+243
+00:15:17,300 --> 00:15:19,300
+[SOLOIST]
+Isn't she at home?
+ນາງບໍ່ໄດ້ຢູ່ເຮືອນບໍ?
+
+244
+00:15:19,800 --> 00:15:24,700
+[GEORGES]
+Yes, she is. I'll go and get her in a minute. Have a seat.
+ແມ່ນແລ້ວ, ນາງແມ່ນ. ຂ້ອຍຈະໄປເອົານາງໃນນາທີຫນຶ່ງ. ນັ່ງລົງ.
+
+245
+00:15:25,200 --> 00:15:28,000
+[SOLOIST]
+I hope I'm not disturbing you too much.
+ຂ້ອຍຫວັງວ່າຂ້ອຍບໍ່ໄດ້ລົບກວນເຈົ້າຫຼາຍເກີນໄປ.
+
+246
+00:15:28,500 --> 00:15:34,500
+[GEORGES]
+No, not at all. I'm happy that you came. We were so thrilled by your concert. We hoped we'd see you again soon. Please do have a seat. Can I can get you something? A cup of tea?
+ບໍ່, ບໍ່ເລີຍ. ຂ້ອຍດີໃຈທີ່ເຈົ້າມາ. ພວກເຮົາມີຄວາມຕື່ນເຕັ້ນຫຼາຍຈາກຄອນເສີດຂອງທ່ານ.
+ພວກເຮົາຫວັງວ່າພວກເຮົາຈະເຫັນທ່ານອີກຄັ້ງໃນໄວໆນີ້. ກະລຸນາມີບ່ອນນັ່ງ. ຂ້ອຍສາມາດເອົາບາງສິ່ງບາງຢ່າງໃຫ້ທ່ານໄດ້ບໍ? ຈອກຊາ?
+
+247
+00:15:35,000 --> 00:15:37,100
+[SOLOIST]
+No, no, thank you very much.
+ບໍ່, ບໍ່, ຂອບໃຈຫຼາຍໆ.
+
+248
+00:15:37,600 --> 00:15:42,850
+[GEORGES]
+Hold on, I'll just freshen up the flowers; in this heat they wilt so fast...
+ລໍຖ້າ, ຂ້ອຍພຽງແຕ່ຈະສົດໃສດອກໄມ້;
+ໃນຄວາມຮ້ອນນີ້ພວກເຂົາຈະແຫ້ງໄວຫຼາຍ...
+
+249
+00:15:43,350 --> 00:15:46,500
+[SOLOIST]
+I've only just bought them. They should keep quite...
+ຂ້ອຍຫາກໍ່ຊື້ພວກມັນແລ້ວ. ພວກເຂົາຄວນຮັກສາໄວ້ຢ່າງສົມບູນ...
+
+250
+00:15:47,000 --> 00:15:50,150
+[ANNE]
+Martin! What a delight. How lovely to see you!
+ມາຕິນ! ເປັນຄວາມສຸກຫຼາຍປານໃດ. ດີໃຈຫຼາຍທີ່ເຫັນເຈົ້າ!
+
+251
+00:15:50,650 --> 00:15:53,100
+[SOLOIST]
+Mrs. Laurent! Lovely to see you too.
+ທ່ານນາງລໍເຣນຕ໌! ດີໃຈທີ່ເຫັນທ່ານເຊັ່ນກັນ.
+
+252
+00:15:53,600 --> 00:15:58,150
+[ANNE]
+Don't get up. Come on, sit yourself down and don't look so shocked.
+ຢ່າຕື່ນຂຶ້ນ. ມາແລ້ວ, ນັ່ງລົງເອງແລະຢ່າເບິ່ງສັ່ນສະເທືອນຫຼາຍ.
+
+253
+00:15:58,650 --> 00:16:04,650
+[ANNE]
+I'm so proud of you. We were both in raptures after your concert. Georges wanted to buy your new CD the very next morning.
+ຂ້ອຍພາກພູມໃຈເຈົ້າຫຼາຍ. ພວກເຮົາທັງສອງມີຄວາມຕື່ນເຕັ້ນຫຼັງຈາກງານຄອນເສີດຂອງທ່ານ
+. ຈໍເຈສຢາກຊື້ CD ໃຫມ່ ຂອງທ່ານໃນຕອນເຊົ້າມື້ຕໍ່ມາ.
+
+254
+00:16:05,150 --> 00:16:11,150
+[SOLOIST]
+Oh God! I wanted to bring you the CD, but I left in such a hurry that I forgot it. I'm so sorry. I'll get one today and drop it by.
+ໂອ້ ພຣະເຈົ້າ! ຂ້ອຍຢາກເອົາ CD ມາໃຫ້ເຈົ້າ, ແຕ່ຂ້ອຍອອກໄປຢ່າງໄວວາຈົນຂ້ອຍລືມມັນ
+. ຂ້ອຍຂໍໂທດຫຼາຍ. ຂ້ອຍຈະເອົາ ຫນຶ່ງ ມື້ນີ້ແລະເອົາມັນມາ.
+
+255
+00:16:11,650 --> 00:16:17,650
+[ANNE]
+No, no, don't worry. We want to make a contribution to your success. Even if it's only twenty euros.
+ບໍ່, ບໍ່, ຢ່າກັງວົນ. ພວກເຮົາຢາກປະກອບສ່ວນໃນການປະສົບຜົນສໍາເລັດຂອງທ່ານ
+. ເຖິງແມ່ນວ່າມັນພຽງແຕ່ສິບເອີໂຣເທົ່ານັ້ນ.
+
+256
+00:16:18,150 --> 00:16:22,000
+[SOLOIST]
+You've already contributed so much. I owe you so much, Madame.
+ເຈົ້າໄດ້ປະກອບສ່ວນຫຼາຍແລ້ວ. ຂ້ອຍເປັນຫນີ້ເຈົ້າຫຼາຍ, ແມ່.
+
+257
+00:16:22,500 --> 00:16:26,000
+[ANNE]
+You owe it to your hard work and your talent.
+ເຈົ້າເປັນຫນີ້ມັນກັບການເຮັດວຽກ ຫນັກ ແລະ ຄວາມສາມາດຂອງທ່ານ.
+
+258
+00:16:26,500 --> 00:16:32,500
+[SOLOIST]
+Do you remember, when you first gave me the Bagatelles to play? I was twelve at the time, and in my youthful arrogance I said: "But why the Bagatelles?" And you really gave me a piece of your mind. 33.
+ເຈົ້າຈື່ບໍ, ເມື່ອເຈົ້າໃຫ້ຂ້ອຍຫຼິ້ນບາຄາເທລເລສຄັ້ງ ທໍາ ອິດບໍ? ຂ້ອຍອາຍຸສິບສອງປີໃນເວລານັ້ນ,
+ແລະໃນຄວາມໂຊກຮ້າຍຂອງໄວຫນຸ່ມຂອງຂ້ອຍຂ້ອຍເວົ້າວ່າ:"ແຕ່ເປັນຫຍັງບາກາເທວ?" ແລະເຈົ້າໄດ້ໃຫ້ຂ້ອຍສ່ວນ ຫນຶ່ງ ຂອງຈິດໃຈຂອງທ່ານແທ້ໆ. 33.
+
+259
+00:16:33,000 --> 00:16:35,000
+[SOLOIST]
+So what happened?
+ສະນັ້ນເກີດຫຍັງຂຶ້ນ?
+
+260
+00:16:35,500 --> 00:16:40,400
+[ANNE]
+My right side is paralyzed, that's all. It can happen when you get older.
+ຝ່າຍຂວາຂອງຂ້ອຍໂຊກຮ້າຍ, ນັ້ນແມ່ນທັງຫມົດ.
+ມັນສາມາດເກີດຂຶ້ນເມື່ອເຈົ້າເຕີບໃຫຍ່ຂຶ້ນ.
+
+261
+00:16:40,900 --> 00:16:42,900
+[SOLOIST]
+And how...?
+ແລະແນວໃດ...?
+
+262
+00:16:43,400 --> 00:16:45,850
+[ANNE]
+Let's talk about something else, shall we?
+ພວກເຮົາຈະເວົ້າກ່ຽວກັບບາງສິ່ງບາງຢ່າງອື່ນ, ແມ່ນບໍ?
+
+263
+00:16:46,350 --> 00:16:48,350
+[SOLOIST]
+Sure ...
+ແນ່ນອນ...
+
+264
+00:16:48,850 --> 00:16:54,800
+[ANNE]
+Don't be offended. But I want to enjoy the lovely interlude you've given us with your visit.
+ຢ່າໂຊກຮ້າຍ.
+ແຕ່ຂ້ອຍຢາກເພີດເພີນກັບການຊົ່ວຄາວທີ່ສວຍງາມທີ່ທ່ານໄດ້ໃຫ້ພວກເຮົາກັບການຢ້ຽມຢາມຂອງທ່ານ.
+
+265
+00:16:55,300 --> 00:16:57,300
+[SOLOIST]
+Of course.
+ແນ່ນອນ.
+
+266
+00:16:57,800 --> 00:17:02,350
+[GEORGES]
+You haven't told us yet what's been going on since the Paris concert.
+ເຈົ້າຍັງບໍ່ບອກພວກເຮົາວ່າເກີດຫຍັງຂຶ້ນນັບຕັ້ງແຕ່ງານຄອນເສີດປາຣີ.
+
+267
+00:17:02,850 --> 00:17:08,850
+[SOLOIST]
+Well, actually I've spent most of the time in London studying. Then I went to Copenhagen for two performances, that was Schubert too. My whole life revolves around Schubert at the moment. The concerts with the Impromptus and the Moments Musicaux, and for my bread-and-butter work I'm developing the sonatas. Not the late ones, I think I still need a couple more years for those. 34.
+ດີ, ໃນຄວາມເປັນຈິງຂ້ອຍໄດ້ໃຊ້ເວລາສ່ວນໃຫຍ່ໃນລອນດອນການສຶກສາ. ຫຼັງຈາກນັ້ນຂ້ອຍໄດ້ໄປໂກເປນເຮ根 ສໍາ ລັບການສະແດງສອງຄັ້ງ, ນັ້ນແມ່ນຊູເບີດເຊັ່ນກັນ. ຊີວິດຂອງຂ້ອຍທັງ ຫມົດ ຫມູນ ວຽນຢູ່ອ້ອມຮອບຊູເເບີດໃນເວລານີ້
+. ການສະແດງກັບ Impromptus ແລະ Moments Musicalux, ແລະ ສໍາ ລັບວຽກງານເຂົ້າຈີ່ແລະນ້ ໍາ ມັນຂອງຂ້ອຍຂ້ອຍ ກໍາ ລັງພັດທະນາໂຊນາຕາ. ບໍ່ແມ່ນຄົນຊ້າ, ຂ້ອຍຄິດວ່າຂ້ອຍຍັງຕ້ອງການອີກສອງສາມປີ ສໍາ ລັບພວກນັ້ນ. 34.
+
+268
+00:17:09,350 --> 00:17:11,450
+[ANNE]
+Could you do me a favor?
+ເຈົ້າສາມາດເຮັດຄວາມສະບາຍໃຈຂ້ອຍໄດ້ບໍ?
+
+269
+00:17:11,950 --> 00:17:13,950
+[SOLOIST]
+Really?
+ແທ້ບໍ?
+
+270
+00:17:14,450 --> 00:17:16,450
+[ANNE]
+Would you play F�r Elise?
+ເຈົ້າຢາກຫຼິ້ນກັບເອລີສ໌ບໍ?
+
+271
+00:17:16,950 --> 00:17:22,950
+[SOLOIST]
+Um, I don't know if I remember it very well. Beethoven, it's been a long time since I've... But if you want...
+ອູມ, ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຈື່ມັນດີບໍ. ເບຕໂວນ,
+ມັນເປັນເວລາດົນນານແລ້ວທີ່ຂ້ອຍໄດ້... ແຕ່ຖ້າເຈົ້າຢາກ...
+
+272
+00:17:23,450 --> 00:17:25,450
+[ANNE]
+Give it a try.
+ພະຍາຍາມມັນ.
+
+273
+00:17:25,950 --> 00:17:31,900
+[OK.]
+He looks at Georges, then at Anne again, gets up, goes to the grand piano and plays.
+ລາວເບິ່ງຈໍເຈສ, ຫຼັງຈາກນັ້ນແອນອີກເທື່ອຫນຶ່ງ
+, ຕື່ນຂຶ້ນ, ໄປຫາປິໂອໃຫຍ່ແລະຫຼິ້ນ.
+
+274
+00:17:32,400 --> 00:17:34,400
+[ANNE]
+What's the matter?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+275
+00:17:34,900 --> 00:17:40,900
+[LIVING ROOM]
+Georges is seated in front of the open piano. His hands in his lap, he looks straight ahead.
+ຈໍເຈສ໌ນັ່ງຢູ່ຕໍ່ຫນ້າປິໂອນທີ່ເປີດ.
+ມືຂອງລາວຢູ່ໃນຈານຂອງລາວ, ລາວເບິ່ງທາງຫນ້າກົງໄປກົງມາ.
+
+276
+00:17:41,400 --> 00:17:43,500
+[GEORGES]
+Good God, what are you doing?
+ພຣະເຈົ້າທີ່ດີ, ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+277
+00:17:44,000 --> 00:17:47,850
+[GEORGES]
+Have you lost your senses?! I don't believe it! How stupid!
+ເຈົ້າໄດ້ສູນເສຍຄວາມຮູ້ສຶກບໍ?! ຂ້ອຍບໍ່ເຊື່ອມັນ! ໂງ່ຫຼາຍປານໃດ!
+
+278
+00:17:48,350 --> 00:17:54,300
+[GEORGES]
+Look at that! Did you need to do that? Can't you call me when you need something?
+ເບິ່ງມັນແມ! ເຈົ້າຕ້ອງເຮັດແບບນັ້ນບໍ?
+ເຈົ້າບໍ່ສາມາດໂທຫາຂ້ອຍໄດ້ເມື່ອເຈົ້າຕ້ອງການບາງສິ່ງບາງຢ່າງບໍ?
+
+279
+00:17:54,800 --> 00:17:56,800
+[ANNE]
+I'm sorry.
+ຂ້ອຍຂໍໂທດ.
+
+280
+00:17:57,300 --> 00:17:59,300
+[GEORGES]
+Yes, so am I.
+ແມ່ນແລ້ວ, ຂ້ອຍຄືກັນ.
+
+281
+00:17:59,800 --> 00:18:01,800
+[ANNE]
+Sorry.
+ຂໍໂທດ.
+
+282
+00:18:02,300 --> 00:18:04,300
+[GEORGES]
+The lamp is broken too.
+ແສງໄຟຍັງແຕກອີກດ້ວຍ.
+
+283
+00:18:04,800 --> 00:18:06,800
+[GEORGES]
+Yes? Who's there?
+ແມ່ນແລ້ວ? ມີໃຜຢູ່ບ່ອນນັ້ນ?
+
+284
+00:18:07,300 --> 00:18:09,750
+[ANNE]
+Georges? What's going on? Who is it?
+ຈໍເຈສ? ເກີດຫຍັງຂຶ້ນ? ມັນແມ່ນໃຜ?
+
+285
+00:18:10,250 --> 00:18:12,250
+[ANNE]
+Georges? What's going on?
+ຈໍເຈສ? ເກີດຫຍັງຂຶ້ນ?
+
+286
+00:18:12,750 --> 00:18:14,750
+[ANNE'S VOICE:]
+Georges, what's going on?
+ຈໍເຈສ, ເກີດຫຍັງຂຶ້ນ?
+
+287
+00:18:15,250 --> 00:18:18,400
+[ANNE'S VOICE]
+Calm down will you! There's nothing there. It's nothing.
+ສະບາຍໃຈ! ບໍ່ມີຫຍັງຢູ່ບ່ອນນັ້ນ. ມັນບໍ່ມີຫຍັງເລີຍ.
+
+288
+00:18:18,900 --> 00:18:20,900
+[ANNE]
+What was it?
+ມັນເປັນຫຍັງ?
+
+289
+00:18:21,400 --> 00:18:25,600
+[GEORGES]
+I didn't understand... I thought I'd gone mad... It was something impossible...
+ຂ້ອຍບໍ່ເຂົ້າໃຈ... ຂ້ອຍຄິດວ່າຂ້ອຍໂຊກຮ້າຍແລ້ວ.
+.. ມັນເປັນບາງສິ່ງບາງຢ່າງທີ່ບໍ່ສາມາດເຮັດໄດ້...
+
+290
+00:18:26,100 --> 00:18:28,100
+[ANNE]
+What was?
+ເປັນຫຍັງ?
+
+291
+00:18:28,600 --> 00:18:30,700
+[GEORGES]
+Eva. They're coming on the 12th.
+ເອວາ. ພວກເຂົາຈະມາໃນວັນທີ 12.
+
+292
+00:18:31,200 --> 00:18:33,200
+[ANNE]
+Why?
+ເປັນຫຍັງ?
+
+293
+00:18:33,700 --> 00:18:36,150
+[GEORGES]
+No idea. Apparently she's coming with Geoff.
+ບໍ່ຮູ້ເລີຍ. ເບິ່ງຄືວ່ານາງຈະມາພ້ອມກັບເຈຟຟ໌.
+
+294
+00:18:36,650 --> 00:18:38,650
+[ANNE]
+When is it? 38.
+ມັນເປັນເວລາໃດ? 38.
+
+295
+00:18:39,150 --> 00:18:43,700
+[GEORGES]
+I don't know exactly. What day is it today? I'll go and look.
+ຂ້ອຍບໍ່ຮູ້ຢ່າງແນ່ນອນ. ມື້ນີ້ເປັນມື້ໃດ? ຂ້ອຍຈະໄປເບິ່ງ.
+
+296
+00:18:44,200 --> 00:18:46,200
+[ANNE]
+I don't want that.
+ຂ້ອຍບໍ່ຢາກນັ້ນ.
+
+297
+00:18:46,700 --> 00:18:48,700
+[GEORGES]
+What?
+ຫຍັງ?
+
+298
+00:18:49,200 --> 00:18:51,200
+[ANNE]
+Geoff doesn't need to come.
+ເຈຟຟ໌ບໍ່ຈໍາເປັນຕ້ອງມາ.
+
+299
+00:18:51,700 --> 00:18:54,500
+[PAUSE.]
+Georges doesn't agree, but continues to dress Anne.
+ຈໍເຈສ໌ບໍ່ເຫັນດີ, ແຕ່ສືບຕໍ່ໃສ່ເຄື່ອງນຸ່ງຫົ່ມແອນ.
+
+300
+00:18:55,000 --> 00:19:01,000
+[ANNE]
+I don't need any comments on my predicament. I can only take his British humor in small doses.
+ຂ້ອຍບໍ່ຕ້ອງການ ຄໍາ ເຫັນໃດໆກ່ຽວກັບຄວາມຫຍຸ້ງຍາກຂອງຂ້ອຍ.
+ຂ້ອຍພຽງແຕ່ສາມາດກິນຄວາມມ່ວນຊື່ນຂອງອັງກິດຂອງລາວໃນປະລິມານນ້ອຍໆເທົ່ານັ້ນ.
+
+301
+00:19:01,500 --> 00:19:07,500
+[GEORGES]
+Dear Madame Laurent, Dear Monsieur Laurent, it was beautiful and yet sad to see you. My heartfelt wishes that things will get better. With deep gratitude, your former pupil, Martin.
+ແມ່ຕູ້ລາວຣັນຕ໌ທີ່ຮັກແພງ, ທ້າວລາວຣານຕ໌ ທີ່ຮັກແພດ, ມັນສວຍງາມແລະຍັງໂຊກຮ້າຍທີ່ເຫັນເຈົ້າ.
+ຄວາມປາຖະຫນາທີ່ຈິງໃຈຂອງຂ້ອຍວ່າສິ່ງຕ່າງໆຈະດີຂຶ້ນ. ດ້ວຍຄວາມຂອບໃຈຢ່າງເລິກເຊິ່ງ, ນັກຮຽນເກົ່າຂອງທ່ານ, ມາຕິນ.
+
+302
+00:19:08,000 --> 00:19:10,000
+[ANNE]
+Stop the CD.
+ຢຸດ CD ໄດ້.
+
+303
+00:19:10,500 --> 00:19:12,500
+[SILENT.]
+39.
+39.
+
+304
+00:19:13,000 --> 00:19:15,000
+[ANNE]
+Where are the family albums?
+ແອລບັມຄອບຄົວຢູ່ໃສ?
+
+305
+00:19:15,500 --> 00:19:19,700
+[GEORGES]
+The family albums? I don't know, there, in the other room. Why?
+ແອລບັມຄອບຄົວບໍ? ຂ້ອຍບໍ່ຮູ້, ຢູ່ບ່ອນນັ້ນ, ໃນຫ້ອງອື່ນ. ເປັນຫຍັງ?
+
+306
+00:19:20,200 --> 00:19:22,300
+[ANNE]
+Can you get them for me?
+ເຈົ້າສາມາດເອົາພວກມັນໃຫ້ຂ້ອຍໄດ້ບໍ?
+
+307
+00:19:22,800 --> 00:19:24,800
+[GEORGES]
+What, now?
+ຫຍັງ, ດຽວນີ້?
+
+308
+00:19:25,300 --> 00:19:27,300
+[GEORGES]
+Why, Anne?
+ເປັນຫຍັງແອນ?
+
+309
+00:19:27,800 --> 00:19:29,900
+[ANNE]
+I'd like to look at them.
+ຂ້ອຍຢາກເບິ່ງພວກມັນ.
+
+310
+00:19:30,400 --> 00:19:32,400
+[ANNE]
+Please!
+ກະລຸນາ!
+
+311
+00:19:32,900 --> 00:19:34,900
+[ANNE]
+Thanks.
+ຂອບໃຈ
+
+312
+00:19:35,400 --> 00:19:37,400
+[GEORGES]
+You're welcome.
+ເຈົ້າຍິນດີຕ້ອນຮັບ.
+
+313
+00:19:37,900 --> 00:19:39,900
+[ANNE]
+That's nice.
+ມັນດີເລີດ.
+
+314
+00:19:40,400 --> 00:19:42,400
+[GEORGES]
+What? 40.
+ຫຍັງ? 40.
+
+315
+00:19:42,900 --> 00:19:45,000
+[ANNE]
+Life...so long... What a long life...
+ຊີວິດ... ຍາວນານຫຼາຍປານໃດ... ຊີວິດຍາວນານແທ້ໆ...
+
+316
+00:19:45,500 --> 00:19:47,500
+[ANNE]
+Stop watching me.
+ຢຸດການເບິ່ງຂ້ອຍ.
+
+317
+00:19:48,000 --> 00:19:50,000
+[GEORGES]
+I wasn't watching you.
+ຂ້ອຍບໍ່ໄດ້ເບິ່ງເຈົ້າ.
+
+318
+00:19:50,500 --> 00:19:53,650
+[ANNE]
+Of course you were. I'm not that dumb yet.
+ແນ່ນອນວ່າເຈົ້າເປັນ. ຂ້ອຍຍັງບໍ່ໂງ່ຫຼາຍເທື່ອ.
+
+319
+00:19:54,150 --> 00:19:56,150
+[GEORGES]
+You're soaked through.
+ເຈົ້າຖືກຊຸ່ມຊື່ນແລ້ວ.
+
+320
+00:19:56,650 --> 00:19:58,650
+[ANNE]
+What do you mean?
+ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
+
+321
+00:19:59,150 --> 00:20:01,150
+[GEORGES]
+Hold on.
+ລໍຖ້າ.
+
+322
+00:20:01,650 --> 00:20:03,650
+[GEORGES]
+I'll be right back.
+ຂ້ອຍຈະກັບມາທັນທີ.
+
+323
+00:20:04,150 --> 00:20:06,250
+[GEORGES]
+It's no big deal. Come on.
+ມັນບໍ່ແມ່ນເລື່ອງໃຫຍ່ໆ. ມາແລ້ວ.
+
+324
+00:20:06,750 --> 00:20:10,250
+[GEORGES]
+Come on, darling. It's nothing serious. Things like that happen..
+ມາແລ້ວແມ. ມັນບໍ່ມີຫຍັງຮ້າຍແຮງ. ສິ່ງເຊັ່ນນັ້ນເກີດຂຶ້ນ..
+
+325
+00:20:10,750 --> 00:20:12,850
+[ANNE]
+I can't... take it any more.
+ຂ້ອຍບໍ່ສາມາດ... ເອົາມັນໄດ້ອີກຕໍ່ໄປ.
+
+326
+00:20:13,350 --> 00:20:15,350
+[GEORGES]
+My love. My darling.
+ຮັກຂອງຂ້ອຍ. ຄົນຮັກຂອງຂ້ອຍ.
+
+327
+00:20:15,850 --> 00:20:21,850
+[EVA]
+... thinking about whether it wouldn't be better to invest the money in an apartment block. If inflation gets going again, property is the only sure thing. Right now, savings accounts pay 1.75% at best. Four years ago, Geoff bought some stocks with a small sum of money and the whole thing collapsed. So now we're obviously worried. Unfortunately, in the meantime, other people have had the same idea, and property prices are going through the roof. Since we came back from Scandinavia, I spend all my spare time looking through newspaper ads.
+... ຄິດກ່ຽວກັບວ່າມັນຈະບໍ່ດີກວ່າທີ່ຈະລົງທືນເງິນໃນໂບລັອກອາພາດເມັນບໍ. ຖ້າການຟື້ນຟູຄືນໄປບ່ອນ, ຊັບສິນແມ່ນສິ່ງດຽວທີ່ແນ່ນອນ. ດຽວນີ້, ບັນຊີເງິນປະຢັດຈ່າຍ 1.75% ໃນທີ່ດີທີ່ສຸດ. ສີ່ປີກ່ອນ,
+ເຈຟຟ໌ໄດ້ຊື້ຫຸ້ນບາງຢ່າງດ້ວຍເງິນຈໍານວນນ້ອຍແລະສິ່ງທັງ ຫມົດ ຕົກລົງ. ສະນັ້ນດຽວນີ້ພວກເຮົາມີຄວາມກັງວົນຢ່າງຈະແຈ້ງ. ໂຊກຮ້າຍ, ໃນຂະນະດຽວກັນ, ຄົນອື່ນມີແນວຄິດດຽວກັນ, ແລະລາຄາຊັບສິນ ກໍາ ລັງຜ່ານຊັ້ນເທິງ. ນັບ
+
+328
+00:20:22,350 --> 00:20:26,550
+[EVA]
+It takes time, that's all. We'll find something in the end. 42.
+ມັນຕ້ອງໃຊ້ເວລາ, ນັ້ນແມ່ນທັງຫມົດ.
+ພວກເຮົາຈະຊອກຫາບາງສິ່ງບາງຢ່າງໃນທີ່ສຸດ. 42.
+
+329
+00:20:27,050 --> 00:20:33,000
+[ANNE]
+Yes yes I have... I have... the grandmother... woman with house... not... the house then ... money
+ແມ່ນແລ້ວ ແມ່ນແລ້ວຂ້ອຍມີ... ຂ້ອຍມີ... ແມ່ເຖົ້າ...
+ແມ່ຍິງທີ່ມີເຮືອນ... ບໍ່ແມ່ນ... ເຮືອນຫຼັງຈາກນັ້ນ... ເງິນ
+
+330
+00:20:33,500 --> 00:20:35,600
+[EVA]
+I don't understand you, I'm afraid.
+ຂ້ອຍບໍ່ເຂົ້າໃຈເຈົ້າ, ຂ້ອຍຢ້ານ.
+
+331
+00:20:36,100 --> 00:20:42,100
+[ANNE]
+... yes... now... it's all... house sel... sel... sel... was... in two strokes of... so quickly... god it's hard... to say... sell... money gone... left... there too...
+ແມ່ນແລ້ວ... ດຽວນີ້... ມັນທັງ ຫມົດ ແມ່ນ... ການຂາຍເຮືອນ... ຂາຍ... ຂາຍໃນ... ແມ່ນ... ໃນສອງກະທູ້ຂອງ..
+. ຢ່າງໄວວາຫຼາຍ... ພຣະເຈົ້າມັນຍາກ... ເວົ້າ... ປາຍ... ເງິນຫາຍໄປ... ເຫຼືອ... ຢູ່ບ່ອນນັ້ນເຊັ່ນກັນ...
+
+332
+00:20:42,600 --> 00:20:47,500
+[GEORGES]
+... three times a week... I'm not experienced enough. We'll see if that's enough.
+... ສາມຄັ້ງຕໍ່ອາທິດ... ຂ້ອຍບໍ່ມີປະສົບການພຽງພໍ
+. ພວກເຮົາຈະເບິ່ງວ່າມັນພຽງພໍບໍ.
+
+333
+00:20:48,000 --> 00:20:50,000
+[GEOFF]
+How much is she asking?
+ນາງຂໍຫຼາຍປານໃດ?
+
+334
+00:20:50,500 --> 00:20:52,950
+[GEORGES]
+It's paid by the hour. We'll see.
+ມັນຈ່າຍຕາມຊົ່ວໂມງ. ພວກເຮົາຈະເຫັນ.
+
+335
+00:20:53,450 --> 00:20:55,450
+[GEOFF]
+And her?
+ແລະນາງແນວໃດ?
+
+336
+00:20:55,950 --> 00:20:57,950
+[GEORGES]
+Anne?
+ແອນ?
+
+337
+00:20:58,450 --> 00:21:04,450
+[GEORGES]
+It's hard to say. Sometimes I get the feeling she's totally unaware of the state she's in. And then I feel the opposite. It's... I don't know.
+ມັນຍາກທີ່ຈະເວົ້າ. ບາງຄັ້ງຂ້ອຍມີຄວາມຮູ້ສຶກວ່ານາງບໍ່ຮູ້ສຶກກ່ຽວກັບສະພາບທີ່ນາງຢູ່ໃນ
+. ແລະຫຼັງຈາກນັ້ນຂ້ອຍຮູ້ສຶກກົງກັນຂ້າມ. ມັນແມ່ນ... ຂ້ອຍບໍ່ຮູ້.
+
+338
+00:21:04,950 --> 00:21:08,450
+[GEOFF]
+And what about the doctor? What does he say? 43.
+ແລະຫມໍແນວໃດ? ລາວເວົ້າຫຍັງ? 43.
+
+339
+00:21:08,950 --> 00:21:10,950
+[GEORGES]
+He's...
+ລາວເປັນ...
+
+340
+00:21:11,450 --> 00:21:14,250
+[EVA]
+She only talks gibberish. I don't know what...
+ນາງເວົ້າພຽງແຕ່ໂກບເປີສ໌ເທົ່ານັ້ນ. ຂ້ອຍບໍ່ຮູ້ວ່າຫຍັງ...
+
+341
+00:21:14,750 --> 00:21:16,750
+[GEOFF]
+Hey, dear...
+ເຮ້, ແມ...
+
+342
+00:21:17,250 --> 00:21:19,350
+[GEOFF]
+...come here, sit down, it's OK.
+ມາບ່ອນນີ້, ນັ່ງລົງ, ມັນບໍ່ເປັນຫຍັງ.
+
+343
+00:21:19,850 --> 00:21:21,850
+[EVA]
+Nothing is OK.
+ບໍ່ມີຫຍັງດີ.
+
+344
+00:21:22,350 --> 00:21:28,350
+[EVA]
+What's going on, actually? You can't just leave her lying on her bed like that! She's unrecognizable! It's ridiculous!
+ເກີດຫຍັງຂຶ້ນແທ້ໆ? ເຈົ້າບໍ່ສາມາດປ່ອຍນາງຢູ່ເທິງຕຽງຂອງນາງແບບນັ້ນໄດ້
+! ນາງບໍ່ສາມາດຮູ້ຈັກໄດ້! ມັນໂຊກຮ້າຍ!
+
+345
+00:21:28,850 --> 00:21:34,850
+[GEORGES]
+We can't do anything for the moment. Calm down, darling. She's getting medical treatment, they give her the necessary medication, and there are no other options right now.
+ພວກເຮົາບໍ່ສາມາດເຮັດຫຍັງໄດ້ໃນເວລານີ້. ສະບາຍໃຈແມ. ນາງ ກໍາ ລັງໄດ້ຮັບການປິ່ນປົວທາງການແພດ
+, ພວກເຂົາໃຫ້ຢາທີ່ ຈໍາ ເປັນໃຫ້ນາງ, ແລະບໍ່ມີທາງເລືອກອື່ນໃນປັດຈຸບັນນີ້.
+
+346
+00:21:35,350 --> 00:21:39,900
+[EVA]
+What does that mean, "no other options"? Why isn't she in a hospital?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ,"ບໍ່ມີທາງເລືອກອື່ນ"
+? ເປັນຫຍັງນາງບໍ່ໄດ້ຢູ່ໃນໂຮງຫມໍ?
+
+347
+00:21:40,400 --> 00:21:46,400
+[GEORGES]
+She had a second stroke. Bertier examined her and felt we could spare her all the hospital inpatient procedures. 44.
+ນາງໄດ້ຮັບບາດເຈັບຄັ້ງທີສອງ.
+ເບີດເຕີໄດ້ກວດນາງແລະຮູ້ສຶກວ່າພວກເຮົາສາມາດຊ່ວຍນາງໄດ້ທຸກຂັ້ນຕອນໃນໂຮງຫມໍ. 44.
+
+348
+00:21:46,900 --> 00:21:52,900
+[GEORGES]
+Anyway, they wouldn't keep her, they'd send her to a care home. What they do in those places, we can do here.
+ຢ່າງໃດກໍຕາມ, ພວກເຂົາຈະບໍ່ຮັກສານາງ, ພວກເຂົາຈະສົ່ງນາງໄປເຮືອນດູແລ.
+ສິ່ງທີ່ພວກເຂົາເຮັດໃນສະຖານທີ່ເຫຼົ່ານັ້ນ, ພວກເຮົາສາມາດເຮັດໄດ້ຢູ່ນີ້.
+
+349
+00:21:53,400 --> 00:21:57,950
+[GEORGES]
+And she won't be put in a care home. I promised her that.
+ແລະນາງຈະບໍ່ຖືກວາງໄວ້ເຮືອນດູແລ. ຂ້ອຍສັນຍາໃຫ້ນາງນັ້ນ.
+
+350
+00:21:58,450 --> 00:22:01,250
+[GEOFF]
+Don't you think you're taking on too much?
+ເຈົ້າບໍ່ຄິດວ່າເຈົ້າ ກໍາ ລັງຮັບຜິດຊອບຫຼາຍເກີນໄປບໍ?
+
+351
+00:22:01,750 --> 00:22:03,850
+[GEORGES]
+Have you got a better idea?
+ເຈົ້າມີແນວຄິດທີ່ດີກວ່າບໍ?
+
+352
+00:22:04,350 --> 00:22:08,900
+[EVA]
+I can't believe that these days there's no way of handling this efficiently.
+ຂ້ອຍບໍ່ເຊື່ອວ່າໃນມື້ນີ້ບໍ່ມີວິທີໃດທີ່ຈະຈັດການເລື່ອງນີ້ຢ່າງມີປະສິດທິພາບ
+.
+
+353
+00:22:09,400 --> 00:22:11,850
+[GEORGES]
+No one's stopping you from finding out.
+ບໍ່ມີໃຜຈະກີດກັ້ນເຈົ້າຈາກການຮູ້.
+
+354
+00:22:12,350 --> 00:22:18,350
+[GEORGES]
+Believe me, I love your mother as much as you do. So please, don't treat me as if I was a total idiot incapable of doing the obvious.
+ເຊື່ອຂ້ອຍ, ຂ້ອຍຮັກແມ່ຂອງເຈົ້າເທົ່າກັບເຈົ້າ. ສະນັ້ນຂໍຮ້ອງ,
+ຢ່າຖືຂ້ອຍຄືກັບວ່າຂ້ອຍເປັນຄົນໂງ່ທີ່ບໍ່ສາມາດເຮັດສິ່ງທີ່ແນ່ນອນໄດ້.
+
+355
+00:22:18,850 --> 00:22:24,850
+[EVA]
+I didn't say that. I'm simply questioning whether what I see going on here is the answer to everything!
+ຂ້ອຍບໍ່ໄດ້ເວົ້າແບບນັ້ນ.
+ຂ້ອຍພຽງແຕ່ສົງໄສວ່າສິ່ງທີ່ຂ້ອຍເຫັນເກີດຂຶ້ນຢູ່ນີ້ແມ່ນ ຄໍາ ຕອບຕໍ່ທຸກຢ່າງບໍ!
+
+356
+00:22:25,350 --> 00:22:28,500
+[GEOFF]
+Don't you want to get a second opinion? 45.
+ເຈົ້າບໍ່ຢາກໄດ້ຮັບຄວາມຄິດເຫັນທີສອງບໍ? 45.
+
+357
+00:22:29,000 --> 00:22:35,000
+[GEORGES]
+Now you two had better stop, OK? Another doctor did come. He said Bertier was right. From Monday, a nurse will come three times a week. Now can we talk about something else?
+ດຽວນີ້ເຈົ້າທັງສອງຄວນຢຸດເຊົາ, ດີບໍ? ຫມໍຄົນອື່ນໄດ້ມາ. ລາວເວົ້າວ່າເບີດເຕີຖືກຕ້ອງ. ຈາກວັນຈັນ
+, ພະຍາບານຈະມາສາມຄັ້ງຕໍ່ອາທິດ. ດຽວນີ້ພວກເຮົາສາມາດເວົ້າກ່ຽວກັບບາງສິ່ງບາງຢ່າງອື່ນໄດ້ບໍ?
+
+358
+00:22:35,500 --> 00:22:37,500
+[EVA]
+Like what?
+ເຊັ່ນວ່າຫຍັງ?
+
+359
+00:22:38,000 --> 00:22:40,800
+[GEORGES]
+There, my love, I hope you like it.
+ນັ້ນແລ້ວ, ຄວາມຮັກຂອງຂ້ອຍ, ຂ້ອຍຫວັງວ່າເຈົ້າມັກມັນ.
+
+360
+00:22:41,300 --> 00:22:43,300
+[OK...]
+He begins to feed her.
+ລາວເລີ່ມໃຫ້ອາຫານນາງ.
+
+361
+00:22:43,800 --> 00:22:48,000
+[GEORGES]
+I added a little orange juice. I find it tastes quite good.
+ຂ້ອຍໄດ້ເພີ່ມນ້ ໍາ ຫມາກ ໂຣນຈ໌ ຫນ້ອຍ
+ຫນຶ່ງ. ຂ້ອຍເຫັນວ່າມັນລົດຊາດດີຫຼາຍ.
+
+362
+00:22:48,500 --> 00:22:53,400
+[GEORGES]
+Come on, Anne, you have to eat some more. You've only swallowed three mouthfuls.
+ມາແລ້ວແອນ, ເຈົ້າຕ້ອງກິນອີກບາງຢ່າງ.
+ເຈົ້າໄດ້ຈູດພຽງແຕ່ສາມປາກເທົ່ານັ້ນ.
+
+363
+00:22:53,900 --> 00:22:55,900
+[GEORGES]
+Please, darling. A bit more.
+ກະລຸນາແມ. ອີກເລັກນ້ອຍ.
+
+364
+00:22:56,400 --> 00:22:58,400
+[ANNE]
+...Mom to the concert...
+ແມ່ໄປຄອນເສີດ...
+
+365
+00:22:58,900 --> 00:23:00,900
+[GEORGES]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+366
+00:23:01,400 --> 00:23:03,500
+[ANNE]
+...Mom to the concert... no dress...
+ແມ່ໄປຄອນເສີດ... ບໍ່ມີຊຸດ...
+
+367
+00:23:04,000 --> 00:23:06,450
+[GEORGES]
+Mom has no dress for the concert?
+ແມ່ບໍ່ມີເສື້ອຜ້າ ສໍາ ລັບງານຄອນເສີດບໍ?
+
+368
+00:23:06,950 --> 00:23:09,400
+[ANNE]
+...Mom to concert... no ... uuu... no...
+ແມ່ໄປຄອນເສີດ... ບໍ່... ອູອູ... ບໍ່ມີ...
+
+369
+00:23:09,900 --> 00:23:11,900
+[GEORGES]
+Yes?
+ແມ່ນແລ້ວບໍ?
+
+370
+00:23:12,400 --> 00:23:14,500
+[ANNE]
+Help! Help! Help! Help! Help! Help!...
+ຊ່ວຍເຫລືອ! ຊ່ວຍເຫຼືອ! ຊ່ວຍເຫຼືອບັນເທວ! ຊ່ວຍຊ່ວຍ! ຊ່ວຍ! ຊ່ວຍ!...
+
+371
+00:23:15,000 --> 00:23:21,000
+[NURSE]
+... we could take turns. She'd come from 8 till 12 and I'd do 2 until 6, or 3 to 7. That would certainly relieve the pressure on you.
+ພວກເຮົາສາມາດປ່ຽນກັນໄດ້. ນາງຈະມາຈາກ 8 ເຖິງ 12 ແລະຂ້ອຍຈະເຮັດ 2
+ເຖິງ 6, ຫຼື 3 ເຖິງ 7. ນັ້ນແນ່ນອນຈະຜ່ອນຜັນຄວາມກົດດັນຕໍ່ເຈົ້າ.
+
+372
+00:23:21,500 --> 00:23:23,500
+[GEORGES]
+I'll think about it.
+ຂ້ອຍຈະຄິດກ່ຽວກັບມັນ.
+
+373
+00:23:24,000 --> 00:23:29,250
+[NURSE]
+She just has to know in time so she can arrange it in her schedule.
+ນາງພຽງແຕ່ຕ້ອງຮູ້ໃນເວລາເພື່ອໃຫ້ນາງສາມາດຈັດຕັ້ງມັນໃນຕາຕະລາງຂອງນາງໄດ້
+.
+
+374
+00:23:29,750 --> 00:23:33,950
+[GEORGES]
+Yes, of course, I'll let you know in the next few days.
+ແມ່ນແລ້ວ, ແນ່ນອນ, ຂ້ອຍຈະແຈ້ງໃຫ້ເຈົ້າຮູ້ໃນສອງສາມມື້ຕໍ່ໄປ.
+
+375
+00:23:34,450 --> 00:23:36,900
+[NURSE]
+Very well. I have to go now...
+ດີຫຼາຍ. ຂ້ອຍຕ້ອງໄປດຽວນີ້...
+
+376
+00:23:37,400 --> 00:23:39,400
+[NURSE]
+Thanks for the coffee.
+ຂອບໃຈ ສໍາ ລັບກາເຟ.
+
+377
+00:23:39,900 --> 00:23:42,000
+[GEORGES]
+My pleasure. I'll see you out.
+ຄວາມຍິນດີຂອງຂ້ອຍ. ຂ້ອຍຈະພາເຈົ້າອອກໄປ.
+
+378
+00:23:42,500 --> 00:23:48,500
+[NURSE]
+You mustn't take it too seriously. Usually they always say something. She might just as well say "Mom, Mom, Mom". It's just mechanical.
+ເຈົ້າບໍ່ຄວນເອົາມັນຢ່າງຈິງໃຈເກີນໄປ. ໂດຍປົກກະຕິພວກເຂົາເວົ້າບາງສິ່ງບາງຢ່າງຢູ່ສະເຫມີ
+. ນາງອາດຈະເວົ້າຄືກັນວ່າ"ແມ່, ແມ່, ແມ່". ມັນເປັນພຽງແຕ່ກົນຈັກ.
+
+379
+00:23:49,000 --> 00:23:51,000
+[GEORGES]
+I know.
+ຂ້ອຍຮູ້ແລ້ວ.
+
+380
+00:23:51,500 --> 00:23:53,500
+[NURSE]
+Goodbye, sir. 48.
+ສະບາຍດີເດີ. 48.
+
+381
+00:23:54,000 --> 00:23:56,000
+[GEORGES]
+Goodbye.
+ສະບາຍດີ.
+
+382
+00:23:56,500 --> 00:24:02,500
+[GEORGES]
+I'd like to hire a second nurse. The two could take turns. That would make everything a bit simpler. What do you think?
+ຂ້ອຍຢາກຈ້າງພະຍາບານຄົນທີສອງ. ສອງຄົນສາມາດປ່ຽນກັນໄດ້.
+ນັ້ນຈະເຮັດໃຫ້ທຸກຢ່າງງ່າຍດາຍກວ່າເກົ່າ. ເຈົ້າຄິດແນວໃດ?
+
+383
+00:24:03,000 --> 00:24:05,000
+[ANNE]
+...Help...Help...
+... ຊ່ວຍ... ຊ່ວຍ...
+
+384
+00:24:05,500 --> 00:24:08,300
+[GEORGES]
+Would you mind putting them in the kitchen.
+ເຈົ້າບໍ່ສົນໃຈທີ່ຈະເອົາມັນໃສ່ເຮືອນຄົວບໍ.
+
+385
+00:24:08,800 --> 00:24:10,800
+[GEORGES]
+I'm ba-aack!
+ຂ້ອຍໂຊກຮ້າຍ!
+
+386
+00:24:11,300 --> 00:24:13,300
+[GEORGES]
+Thanks very much. 49.
+ຂອບໃຈຫຼາຍໆ. 49.
+
+387
+00:24:13,800 --> 00:24:16,950
+[GEORGES]
+No, thanks, Mr. M�ry. You've been a big help.
+ບໍ່, ຂອບໃຈ, ທ້າວມຣີ. ເຈົ້າເປັນຄວາມຊ່ວຍເຫຼືອຫຼາຍ.
+
+388
+00:24:17,450 --> 00:24:20,600
+[GEORGES]
+I'll let you know if I need you again.
+ຂ້ອຍຈະບອກເຈົ້າຖ້າຂ້ອຍຕ້ອງການເຈົ້າອີກຄັ້ງ.
+
+389
+00:24:21,100 --> 00:24:23,100
+[GEORGES]
+What is it?
+ມັນເປັນຫຍັງ?
+
+390
+00:24:23,600 --> 00:24:26,750
+[GEORGES]
+That's very kind of you. Thanks. See you soon.
+ນັ້ນແມ່ນຄວາມໃຈບຸນຫຼາຍຈາກເຈົ້າ. ຂອບໃຈ. ພົບກັນໄວໆນີ້.
+
+391
+00:24:27,250 --> 00:24:29,250
+[GEORGES]
+I certainly will. Thanks. 50.
+ຂ້ອຍຈະເຮັດແນ່ນອນ. ຂອບໃຈ. 50.
+
+392
+00:24:29,750 --> 00:24:32,550
+[GEORGES]
+Hello Eva, how are you?... Things are fine.
+ສະບາຍດີ ເອວາວາ, ເຈົ້າເປັນແນວໃດ?... ທຸກຢ່າງບໍ່ເປັນຫຍັງ.
+
+393
+00:24:33,050 --> 00:24:35,050
+[GEORGES]
+...Sur le pont ...
+ຢູ່ເທິງຂົວ...
+
+394
+00:24:35,550 --> 00:24:37,550
+[ANNE]
+... Ssssur...
+... Ssssur...
+
+395
+00:24:38,050 --> 00:24:40,050
+[GEORGES]
+...Sur le pont...
+ຢູ່ເທິງຂົວ...
+
+396
+00:24:40,550 --> 00:24:42,550
+[ANNE]
+po ... pont ... sss
+po... pont... sss
+
+397
+00:24:43,050 --> 00:24:45,850
+[GEORGES]
+...Sur le pont ... Sur le pont ...
+... ຢູ່ເທິງຂົວ... ຢູ່ເທິງກະດານ...
+
+398
+00:24:46,350 --> 00:24:48,350
+[ANNE]
+... Ssssur le pont ...
+... Ssssur ຂົວ...
+
+399
+00:24:48,850 --> 00:24:50,950
+[GEORGES]
+: ... Sur le pont d'Avignon...
+:... ຢູ່ເທິງຂົວ d Avignon...
+
+400
+00:24:51,450 --> 00:24:53,450
+[ANNE]
+... ssur... le ..
+... ssur... le..
+
+401
+00:24:53,950 --> 00:24:59,950
+[GEORGES]
+... pont... Sur le pont d'Avignon... : Sur le pont d'Avignon on y danse, on y danse, sur le pont d'Avignon tout le monde y danse en rond...
+... ຂົວ... ຢູ່ເທິງຂົວອາວິນໂອນ...: ຢູ່លើຂົວອາເວນໂອນ ໃນ y ເຕັ້ນ
+, ໃນ yເຕັ້ນ, ກ່ຽວກັບຂົວຂອງອາວີນໂອນ ທຸກຄົນເຕັ້ນຢູ່ອ້ອມຂ້າງ...
+
+402
+00:25:00,450 --> 00:25:04,650
+[GEORGES]
+Sur le pont d' Avignon, on y danse, on y danse ...
+ຢູ່ເທິງຂົວອາວິນໂອນ, ໃນການເຕັ້ນ, ໃນການເຕັ້ນ...
+
+403
+00:25:05,150 --> 00:25:11,150
+[GEORGES]
+: Sur le pont d'Avignon on y danse, on y danse ... Sur le pont d'Avignon tout le monde y danse en rond ...
+: ຢູ່ເທິງຂົວ Avignon ໃນ y ເຕັ້ນ, ໃນ yເຕັ້ນ..
+. ໃນຂົວ avignon ທຸກຄົນແລະເຕັ້ນຢູ່ອ້ອມຂ້າງ...
+
+404
+00:25:11,650 --> 00:25:16,550
+[SECOND NURSE]
+... there we are...now we're all beautiful again...so everybody will admire us...there...you see... wait...
+ພວກເຮົາຢູ່ບ່ອນນັ້ນ... ດຽວນີ້ພວກເຮົາທັງ ຫມົດ ແມ່ນສວຍງາມອີກເທື່ອຫນຶ່ງ
+... ສະນັ້ນທຸກຄົນຈະຍ້ອງຍໍພວກເຮົາ... ມີ... ເຈົ້າເຫັນ... ລໍຖ້າ...
+
+405
+00:25:17,050 --> 00:25:21,250
+[SECOND NURSE]
+Well?... What do we say to that? Aren't we a pretty sight?
+ດີ?... ພວກເຮົາຈະເວົ້າຫຍັງກັບນັ້ນ?
+ພວກເຮົາບໍ່ແມ່ນທັດສະນະທີ່ສວຍງາມບໍ?
+
+406
+00:25:21,750 --> 00:25:24,550
+[SECOND NURSE]
+You'll see, Monsieur will be dazzled by you...
+ເຈົ້າຈະເຫັນ, ທ້າວຈະຖືກປະທັບໃຈໂດຍເຈົ້າ...
+
+407
+00:25:25,050 --> 00:25:31,050
+[NURSE]
+... as you wish, sir. I don't know what you were expecting. I gave up another job to come and work here. You should have thought it over before deciding whether you wanted a second nurse or not.
+... ຕາມທີ່ທ່ານຕ້ອງການເດີ. ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າຄາດຫວັງຫຍັງ. ຂ້ອຍໄດ້ປະຖິ້ມວຽກອື່ນເພື່ອມາເຮັດວຽກຢູ່ນີ້
+. ເຈົ້າຄວນຄິດມັນກ່ອນທີ່ຈະຕັດສິນໃຈວ່າເຈົ້າຕ້ອງການພະຍາບານທີສອງຫຼືບໍ່.
+
+408
+00:25:31,550 --> 00:25:35,050
+[GEORGES]
+But I've only just found out how incompetent you are.
+ແຕ່ຂ້ອຍຫາກໍ່ຮູ້ວ່າເຈົ້າບໍ່ສາມາດເຮັດໄດ້ຫຼາຍປານໃດ.
+
+409
+00:25:35,550 --> 00:25:37,550
+[NURSE]
+What's that supposed to mean?
+ນັ້ນຫມາຍຄວາມວ່າແນວໃດ?
+
+410
+00:25:38,050 --> 00:25:42,250
+[GEORGES]
+I don't want to discuss it with you. Anyway, you wouldn't understand.
+ຂ້ອຍບໍ່ຢາກປຶກສາຫາລືມັນກັບເຈົ້າ. ຢ່າງໃດກໍ່ຕາມ, ເຈົ້າຈະບໍ່ເຂົ້າໃຈ.
+
+411
+00:25:42,750 --> 00:25:44,750
+[NURSE]
+No one has ever complained.
+ບໍ່ມີໃຜເຄີຍຮ້ອງທຸກເລີຍ.
+
+412
+00:25:45,250 --> 00:25:48,400
+[GEORGES]
+Good for you.  How much do I owe you?
+ດີຕໍ່ເຈົ້າ. ຂ້ອຍເປັນຫນີ້ເຈົ້າຫຼາຍປານໃດ?
+
+413
+00:25:48,900 --> 00:25:50,900
+[NURSE]
+Seven hundred and eighty euros.
+ເຈັດຮ້ອຍສິບເອີໂຣ.
+
+414
+00:25:51,400 --> 00:25:57,400
+[NURSE]
+I've never had anything like this happen to me before. Who do you think you are?! I've been doing this job for ten years. I don't need you to teach me how to do it.
+ຂ້ອຍບໍ່ເຄີຍມີສິ່ງນີ້ເກີດຂຶ້ນກັບຂ້ອຍກ່ອນ. ເຈົ້າຄິດວ່າເຈົ້າເປັນໃຜ?! ຂ້ອຍ ກໍາ
+ລັງເຮັດວຽກນີ້ເປັນເວລາສິບປີແລ້ວ. ຂ້ອຍບໍ່ຕ້ອງການໃຫ້ເຈົ້າສອນຂ້ອຍວິທີເຮັດມັນ.
+
+415
+00:25:57,900 --> 00:26:00,000
+[GEORGES]
+Do you have twenty euros? 53.
+ເຈົ້າມີສອງສິບເອີໂຣບໍ? 53.
+
+416
+00:26:00,500 --> 00:26:02,500
+[NURSE]
+No.
+ບໍ່
+
+417
+00:26:03,000 --> 00:26:06,500
+[GEORGES]
+Then take the eight hundred euros. You can go now.
+ຫຼັງຈາກນັ້ນເອົາເງິນແປດຮ້ອຍເອີໂຣ. ເຈົ້າສາມາດໄປໄດ້ດຽວນີ້.
+
+418
+00:26:07,000 --> 00:26:10,500
+[NURSE]
+You're a nasty old man. I feel sorry for you.
+ເຈົ້າເປັນພໍ່ເຖົ້າທີ່ໂຊກຮ້າຍ. ຂ້ອຍເຫັນໃຈເຈົ້າ.
+
+419
+00:26:11,000 --> 00:26:17,000
+[GEORGES]
+I hope from the bottom of my heart that one day someone treats you the way you treat your patients, and that you too will have no way of defending yourself. Now get out.
+ຂ້ອຍຫວັງຈາກສ່ວນເລິກຂອງຫົວໃຈຂອງຂ້ອຍວ່າມື້ຫນຶ່ງຄົນໃດຫນຶ່ງຈະປິ່ນປົວເຈົ້າຕາມວິທີທີ່ເຈົ້າຮັກສາຄົນເຈັບຂອງທ່ານ
+, ແລະວ່າເຈົ້າກໍ່ຈະບໍ່ມີທາງທີ່ຈະປ້ອງກັນຕົວເອງ. ດຽວນີ້ອອກໄປ.
+
+420
+00:26:17,500 --> 00:26:19,600
+[NURSE]
+Go fuck yourself, you old fart!
+ໄປສໍ້ໂກງຕົວເອງ, ເຈົ້າໂຊກຮ້າຍເກົ່າ!
+
+421
+00:26:20,100 --> 00:26:25,350
+[GEORGES]
+... Please, open your mouth... go on... open it... Anne! Please!... come on... stop that!...
+ກະລຸນາ, ເປີດປາກຂອງທ່ານ... ໄປຕໍ່ໄປ...
+ເປີດມັນ... ແອນ! ກະລຸນາກ!... ມາ... ຢຸດມັນ!...
+
+422
+00:26:25,850 --> 00:26:27,950
+[GEORGES]
+If you don't drink, you'll die.
+ຖ້າເຈົ້າບໍ່ດື່ມ, ເຈົ້າຈະຕາຍ.
+
+423
+00:26:28,450 --> 00:26:30,550
+[GEORGES]
+Is that what you want? 54.
+ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຕ້ອງການບໍ? 54.
+
+424
+00:26:31,050 --> 00:26:33,050
+[GEORGES]
+Come on, Anne, please.
+ມາແອນ, ກະລຸນາ.
+
+425
+00:26:33,550 --> 00:26:35,550
+[GEORGES]
+Goddammit!
+ສະບາຍດີ!
+
+426
+00:26:36,050 --> 00:26:42,050
+[GEORGES]
+Anne! ... You can't force me to let you die of thirst. If you persist, I'll call Bertier and he'll put you in hospital. They can force-feed you there. Is that what you want?
+ແອນ!... ເຈົ້າບໍ່ສາມາດບັງຄັບໃຫ້ຂ້ອຍປ່ອຍໃຫ້ເຈົ້າຕາຍຈາກຄວາມດອກດອກ. ຖ້າເຈົ້າຢືນຢັນ,
+ຂ້ອຍຈະໂທຫາເບີດເຕີແລະລາວຈະເຮັດໃຫ້ເຈົ້າຢູ່ໃນໂຮງຫມໍ. ພວກເຂົາສາມາດບີບອາຫານເຈົ້າຢູ່ບ່ອນນັ້ນໄດ້. ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຕ້ອງການບໍ?
+
+427
+00:26:42,550 --> 00:26:48,150
+[GEORGES]
+I promised to spare you that. But you must help me. I'm out of my depth.
+ຂ້ອຍສັນຍາວ່າຈະປະຢັດສິ່ງນັ້ນໃຫ້ເຈົ້າ.
+ແຕ່ເຈົ້າຕ້ອງຊ່ວຍຂ້ອຍ. ຂ້ອຍເກີນຄວາມເລິກຂອງຂ້ອຍ.
+
+428
+00:26:48,650 --> 00:26:50,650
+[GEORGES]
+Please, Anne!
+ກະລຸນາແອນ!
+
+429
+00:26:51,150 --> 00:26:53,150
+[GEORGES]
+Drink that, now!
+ດື່ມມັນ, ດຽວນີ້!
+
+430
+00:26:53,650 --> 00:26:55,650
+[GEORGES]
+There!
+ນັ້ນແລ້ວ!
+
+431
+00:26:56,150 --> 00:26:58,150
+[GEORGES]
+Good.
+ດີແລ້ວ.
+
+432
+00:26:58,650 --> 00:27:00,650
+[ANNE]
+Help... help...
+ຊ່ວຍ... ຊ່ວຍ...
+
+433
+00:27:01,150 --> 00:27:03,150
+[GEORGES]
+Please, forgive me.
+ກະລຸນາ, ຂໍໂທດຂ້ອຍ.
+
+434
+00:27:03,650 --> 00:27:05,650
+[ANNE]
+Help... Help... Help... Help...
+ຄວາມຊ່ວຍເຫຼືອ... ຄວາມຊ່ວຍເຫລືອ... ຊ່ວຍເຫຼືອບ... ຊ່ວຍເຫຼືອ...
+
+435
+00:27:06,150 --> 00:27:08,150
+[GEORGES]
+Who's there?
+ມີໃຜຢູ່ບ່ອນນັ້ນ?
+
+436
+00:27:08,650 --> 00:27:10,650
+[EVA'S VOICE]
+It's me. 56.
+ມັນເປັນຂ້ອຍ. 56.
+
+437
+00:27:11,150 --> 00:27:13,150
+[GEORGES]
+Eva?
+ເອວ້າ?
+
+438
+00:27:13,650 --> 00:27:15,650
+[EVA'S VOICE]
+Yes.
+ແມ່ນແລ້ວ.
+
+439
+00:27:16,150 --> 00:27:18,150
+[GEORGES]
+Just a minute.
+ພຽງແຕ່ນາທີຫນຶ່ງ.
+
+440
+00:27:18,650 --> 00:27:20,650
+[GEORGES]
+Hello.
+ສະບາຍດີ.
+
+441
+00:27:21,150 --> 00:27:23,150
+[EVA]
+Hello. What was going on?
+ສະບາຍດີ. ເກີດຫຍັງຂຶ້ນ?
+
+442
+00:27:23,650 --> 00:27:25,750
+[GEORGES]
+I was in the toilet. Sorry.
+ຂ້ອຍຢູ່ໃນຫ້ອງນ້ ໍາ. ຂໍໂທດ.
+
+443
+00:27:26,250 --> 00:27:28,250
+[GEORGES]
+Come in.
+ເຂົ້າມາ.
+
+444
+00:27:28,750 --> 00:27:31,900
+[GEORGES]
+Why this unannounced visit? Where have you come from?
+ເປັນຫຍັງການຢ້ຽມຢາມທີ່ບໍ່ປະກາດນີ້? ເຈົ້າມາຈາກໃສ?
+
+445
+00:27:32,400 --> 00:27:34,400
+[EVA]
+What's going on with Mom?
+ມີຫຍັງເກີດຂຶ້ນກັບແມ່?
+
+446
+00:27:34,900 --> 00:27:37,350
+[GEORGES]
+Nothing. What should be going on? 57.
+ບໍ່ມີຫຍັງເລີຍ. ເກີດຫຍັງຂຶ້ນ? 57.
+
+447
+00:27:37,850 --> 00:27:39,850
+[EVA]
+Well... (gesture toward the
+ດີ... (ການເຄື່ອນໄຫວໄປສູ່
+
+448
+00:27:40,350 --> 00:27:42,800
+[GEORGES]
+Don't you want to sit down first?
+ເຈົ້າບໍ່ຢາກນັ່ງກ່ອນບໍ?
+
+449
+00:27:43,300 --> 00:27:45,400
+[GEORGES]
+So why are you in Paris?
+ເຈົ້າຢູ່ປາຣີເປັນຫຍັງ?
+
+450
+00:27:45,900 --> 00:27:51,900
+[EVA]
+What's going on with Mom? Why don't you answer the phone? After our last conversation, I left four messages on your answering machine. Why don't you call back?
+ເກີດຫຍັງຂຶ້ນກັບແມ່? ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ຕອບໂທລະສັບ? ຫຼັງຈາກການສົນທະນາຄັ້ງສຸດທ້າຍຂອງພວກເຮົາ
+, ຂ້ອຍໄດ້ປ່ອຍຂໍ້ຄວາມສີ່ຂໍ້ໃນເຄື່ອງຕອບຂອງທ່ານ. ເປັນຫຍັງເຈົ້າບໍ່ໂທຄືນ?
+
+451
+00:27:52,400 --> 00:27:55,200
+[GEORGES]
+Sorry. I didn't listen to it. Forgive me.
+ຂໍໂທດ. ຂ້ອຍບໍ່ໄດ້ຟັງມັນ. ຂໍໂທດຂ້ອຍ.
+
+452
+00:27:55,700 --> 00:27:57,700
+[EVA]
+Don't you realize we're worried?
+ເຈົ້າບໍ່ຮູ້ວ່າພວກເຮົາກັງວົນບໍ?
+
+453
+00:27:58,200 --> 00:28:00,650
+[GEORGES]
+Your worries are no use to me.
+ຄວາມກັງວົນຂອງທ່ານບໍ່ມີປະໂຫຍດຕໍ່ຂ້ອຍ.
+
+454
+00:28:01,150 --> 00:28:07,150
+[GEORGES]
+No, don't get me wrong. I'm not criticizing you. I just don't have the time to deal with your worries, that's all.
+ບໍ່, ຢ່າເຂົ້າໃຈຂ້ອຍຜິດ. ຂ້ອຍບໍ່ໄດ້ວິພາກວິຈານເຈົ້າ.
+ຂ້ອຍພຽງແຕ່ບໍ່ມີເວລາທີ່ຈະຮັບມືກັບຄວາມກັງວົນຂອງທ່ານ, ນັ້ນແມ່ນທັງຫມົດ.
+
+455
+00:28:07,650 --> 00:28:09,650
+[EVA]
+Dad...
+ພໍ່...
+
+456
+00:28:10,150 --> 00:28:16,150
+[GEORGES]
+No. Let's stop this conversation right there. I'm taking care of your mother. It's a full-time job. And I'm not saying that to complain, just to explain why I didn't answer your phone calls and why I don't want to have any pointless discussions on the subject. Your mother is just as could have been expected: bad the whole time. 58.
+ບໍ່. ພວກເຮົາຢຸດການສົນທະນານີ້ຢູ່ບ່ອນນັ້ນ. ຂ້ອຍ ກໍາ ລັງເບິ່ງແຍງແມ່ຂອງເຈົ້າ. ມັນແມ່ນວຽກເຕັມເວລາ. ແລະຂ້ອຍບໍ່ໄດ້ເວົ້າສິ່ງນັ້ນເພື່ອຮ້ອງທຸກ,
+ພຽງແຕ່ເພື່ອອະທິບາຍວ່າເປັນຫຍັງຂ້ອຍບໍ່ໄດ້ຕອບໂທລະສັບຂອງທ່ານແລະເປັນແນວໃດຂ້ອຍບໍ່ຢາກມີການປຶກສາຫາລືທີ່ບໍ່ມີຄວາມ ຫມາຍ ໃດໆກ່ຽວກັບຫົວຂໍ້. ແມ່ຂອງທ່ານແມ່ນຄືກັບທີ່ຄາດຫວັງໄດ້: ບໍ່ດີຕະຫຼອດເວລາ. 58.
+
+457
+00:28:16,650 --> 00:28:22,650
+[GEORGES]
+She is turning more and more into a helpless child, and it's sad and humiliating, for her and for me. And she doesn't want to be seen in that state either. Even the last time you visited, she didn't want you to come. You two have your own life. Nothing wrong with that. But let us have our life too. Even though it's a lousy one. OK?
+ນາງ ກໍາ ລັງກາຍເປັນເດັກນ້ອຍທີ່ບໍ່ມີຄວາມຊ່ວຍເຫຼືອຫຼາຍຂຶ້ນແລະຫຼາຍຂຶ້ນ, ແລະມັນໂຊກຮ້າຍແລະອ່ອນແອ, ສໍາ ລັບນາງແລະ ສໍາ ລັບຂ້ອຍ. ແລະນາງບໍ່ຢາກຖືກເຫັນໃນສະພາບນັ້ນເຊັ່ນກັນ.
+ເຖິງແມ່ນວ່າໃນຄັ້ງສຸດທ້າຍທີ່ທ່ານໄປຢ້ຽມຢາມ, ນາງບໍ່ຢາກໃຫ້ເຈົ້າມາ. ເຈົ້າທັງສອງມີຊີວິດຂອງຕົນເອງ. ບໍ່ມີຫຍັງຜິດກັບນັ້ນ. ແຕ່ໃຫ້ພວກເຮົາມີຊີວິດຂອງພວກເຮົາອີກດ້ວຍ. ເຖິງແມ່ນວ່າມັນເປັນຄົນທີ່ບໍ່ດີ. ດີບໍ?
+
+458
+00:28:23,150 --> 00:28:25,150
+[EVA]
+Dad, what's the matter?
+ພໍ່, ມີຫຍັງເກີດຂຶ້ນ?
+
+459
+00:28:25,650 --> 00:28:31,650
+[GEORGES]
+Nothing's the matter; your visit caught me by surprise. And I'm annoyed that you show up here to check that everything's OK. Who do you think you are?
+ບໍ່ມີຫຍັງເປັນຫຍັງ; ການຢ້ຽມຢາມຂອງທ່ານຈັບຂ້ອຍແປກໃຈ.
+ແລະຂ້ອຍໂຊກຮ້າຍທີ່ເຈົ້າປາກົດຕົວຢູ່ບ່ອນນີ້ເພື່ອກວດເບິ່ງວ່າທຸກຢ່າງບໍ່ເປັນຫຍັງ. ເຈົ້າຄິດວ່າເຈົ້າເປັນໃຜ?
+
+460
+00:28:32,150 --> 00:28:36,000
+[I...]
+Then she gets up and makes to go to the door.
+ຫຼັງຈາກນັ້ນນາງຕື່ນຂຶ້ນແລະເຮັດໃຫ້ໄປສູ່ປະຕູ.
+
+461
+00:28:36,500 --> 00:28:38,500
+[GEORGES]
+Stay here, will you!
+ຢູ່ບ່ອນນີ້, ເຈົ້າຈະເຮັດແນວໃດ!
+
+462
+00:28:39,000 --> 00:28:41,000
+[GEORGES]
+Please!
+ກະລຸນາ!
+
+463
+00:28:41,500 --> 00:28:43,500
+[EVA]
+Mom? ... Mom??
+ແມ່?... ແມ່??
+
+464
+00:28:44,000 --> 00:28:47,150
+[EVA]
+Tell me, what's going on? Have you gone crazy?
+ບອກຂ້ອຍວ່າເກີດຫຍັງຂຶ້ນ? ເຈົ້າໂຊກຮ້າຍບໍ?
+
+465
+00:28:47,650 --> 00:28:49,650
+[GEORGES]
+Please, sit down. 59.
+ກະລຸນາ, ນັ່ງລົງ. 59.
+
+466
+00:28:50,150 --> 00:28:53,650
+[EVA]
+I don't want to sit down. What's going on here?
+ຂ້ອຍບໍ່ຢາກນັ່ງ. ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+467
+00:28:54,150 --> 00:29:00,150
+[GEORGES]
+Nothing's going on. I want to spare us all a pointless drama. I presume your mother is asleep. She mostly sleeps the whole day. And then she wakes up at night. If you really want to, we'll go and see her in a little while. Now, sit down. OK?
+ບໍ່ມີຫຍັງເກີດຂຶ້ນ. ຂ້ອຍຢາກປະຢັດພວກເຮົາທຸກຄົນຈາກລະຄອນທີ່ບໍ່ມີຄວາມ ຫມາຍ. ຂ້ອຍຄິດວ່າແມ່ຂອງທ່ານນອນ. ນາງນອນສ່ວນໃຫຍ່ຕະຫຼອດມື້
+. ແລະຫຼັງຈາກນັ້ນນາງຕື່ນໃນຕອນກາງຄືນ. ຖ້າເຈົ້າຢາກແທ້ໆ, ພວກເຮົາຈະໄປເບິ່ງນາງໃນຊົ່ວຄາວ ຫນ້ອຍ ຫນຶ່ງ. ດຽວນີ້, ນັ່ງລົງ. ດີບໍ?
+
+468
+00:29:00,650 --> 00:29:06,650
+[GEORGES]
+We do our speech exercises every day, or we sing together. Most of the time, I wake up around 5. At that time, she's still awake. Then we change her incontinence pad. I rub cream on her to avoid sores. Then, around 7, I try to persuade her to eat and drink. Sometimes it works, sometimes not. Sometimes she tells me things from her childhood, then for hours she calls for help, and then an instant later she's giggling away to herself, or crying. Nothing of any of that is worth showing to anyone.
+ພວກເຮົາເຮັດການອອກ ກໍາ ລັງກາຍການເວົ້າຂອງພວກເຮົາທຸກໆມື້, ຫຼືພວກເຮົາຮ້ອງເພງຮ່ວມກັນ. ສ່ວນໃຫຍ່ຂອງເວລາ, ຂ້ອຍຕື່ນປະມານ 5. ໃນເວລານັ້ນ, ນາງຍັງຕື່ນຢູ່. ຫຼັງຈາກນັ້ນພວກເຮົາປ່ຽນກະດານຄວາມບໍ່ສາມາດຄວບຄຸມໄດ້ຂອງນາງ.
+ຂ້ອຍລ້າງຄຣີມໃສ່ນາງເພື່ອຫຼີກເວັ້ນບາດແຜ. ຫຼັງນັ້ນ, ປະມານ 7, ຂ້ອຍພະຍາຍາມຊັກຊວນນາງໃຫ້ກິນແລະດື່ມ. ບາງຄັ້ງມັນເຮັດວຽກ, ບາງຄັ້ງບໍ່. ບາງທີນາງບອກຂ້ອຍສິ່ງບາງຢ່າງຈາກເດັກນ້ອຍຂອງນາງ, ຫຼັງຈາກນັ້ນເປັນເວລາຫຼາຍຊົ່ວໂມງນາງຮ້ອງຂໍຄວາມ
+
+469
+00:29:07,150 --> 00:29:09,600
+[EVA]
+You can't stop me from seeing her.
+ເຈົ້າບໍ່ສາມາດຢຸດຂ້ອຍຈາກການເຫັນນາງໄດ້.
+
+470
+00:29:10,100 --> 00:29:12,100
+[GEORGES]
+No.
+ບໍ່
+
+471
+00:29:12,600 --> 00:29:14,600
+[EVA]
+It's me, Mom.
+ມັນເປັນຂ້ອຍ, ແມ່.
+
+472
+00:29:15,100 --> 00:29:17,550
+[EVA]
+Can I do something for you? Mom...
+ຂ້ອຍສາມາດເຮັດຫຍັງໄດ້ບໍ? ແມ່...
+
+473
+00:29:18,050 --> 00:29:20,050
+[ANNE]
+Mom... Mom... Mom... Mom... Mom...
+ແມ່... ແມ່... ພໍ່... ແມ່.
+
+474
+00:29:20,550 --> 00:29:26,550
+[SILENCE.]
+Georges has remained by the door. After a while, they both leave the bedroom, cross the hallway to come back in the living room.
+ຈໍເຈສ໌ຍັງຢູ່ຂ້າງປະຕູ. ຫຼັງຈາກຊົ່ວຄາວ,
+ພວກເຂົາທັງສອງອອກຈາກຫ້ອງນອນ, ຂ້າມທາງເພື່ອກັບມາໃນຫ້ອງຮັບແຂກ.
+
+475
+00:29:27,050 --> 00:29:29,500
+[GEORGES]
+The tea isn't very hot any more.
+ຊາບໍ່ຮ້ອນຫຼາຍອີກແລ້ວ.
+
+476
+00:29:30,000 --> 00:29:32,450
+[GEORGES]
+But it does make you feel better.
+ແຕ່ມັນເຮັດໃຫ້ເຈົ້າຮູ້ສຶກດີຂຶ້ນ.
+
+477
+00:29:32,950 --> 00:29:34,950
+[EVA]
+Thanks.
+ຂອບໃຈ
+
+478
+00:29:35,450 --> 00:29:41,450
+[GEORGES]
+It was silly of me to lock the door. I'm sorry. You took me by surprise, that's all. I'm sorry.
+ມັນເປັນຄວາມໂງ່ຂອງຂ້ອຍທີ່ຈະລັອກປະຕູ. ຂ້ອຍຂໍໂທດ.
+ເຈົ້າເອົາຂ້ອຍແປກໃຈ, ນັ້ນແມ່ນທັງຫມົດ. ຂ້ອຍ ຂໍໂທດ.
+
+479
+00:29:41,950 --> 00:29:43,950
+[EVA]
+What's going to happen now?
+ຈະເກີດຫຍັງຂຶ້ນດຽວນີ້?
+
+480
+00:29:44,450 --> 00:29:50,450
+[GEORGES]
+What's going to happen now? The nurse comes twice a week, and every two weeks Dr. Bertier and the hairdresser come. That's what you want to know, right? Things will go on as they have done up until now. They'll go from bad to worse. Things will go on, and then one day it will all be over.
+ຈະເກີດຫຍັງຂຶ້ນດຽວນີ້? ພະຍາບານຈະມາສອງຄັ້ງຕໍ່ອາທິດ, ແລະທຸກໆສອງອາທິດດຣ ເບີດເຕີ ແລະ ນັກຕັດຜົມຈະມາ. ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຢາກຮູ້, ແມ່ນບໍ? ສິ່ງຕ່າງໆຈະ ດໍາ
+ເນີນໄປຕາມທີ່ພວກເຂົາໄດ້ເຮັດຈົນເຖິງປະຈຸບັນນີ້. ພວກເຂົາຈະຈາກບໍ່ດີໄປສູ່ຮ້າຍແຮງກວ່າເກົ່າ. ສິ່ງຕ່າງໆຈະມີຕໍ່ໄປ, ແລະຫຼັງຈາກນັ້ນມື້ຫນຶ່ງມັນທັງ ຫມົດ ຈະສິ້ນສຸດລົງ.
+
+481
+00:29:50,950 --> 00:29:53,400
+[EVA]
+You can't go on like this, Dad.
+ເຈົ້າບໍ່ສາມາດສືບຕໍ່ແບບນີ້ໄດ້, ພໍ່.
+
+482
+00:29:53,900 --> 00:29:56,000
+[GEORGES]
+Can't I? What do you suggest?
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ບໍ? ເຈົ້າແນະ ນໍາ ຫຍັງ?
+
+483
+00:29:56,500 --> 00:29:59,650
+[EVA]
+Can't we have a serious talk, you and me?
+ພວກເຮົາບໍ່ສາມາດເວົ້າຢ່າງຈິງໃຈໄດ້ບໍ, ເຈົ້າແລະຂ້ອຍ?
+
+484
+00:30:00,150 --> 00:30:06,150
+[GEORGES]
+What do you call "a serious talk"? What do you want to suggest? Do you want to have Mom live with you? Do you want to pack her off to a care home? Do you? What do you want? Go on, talk to me "seriously"!
+ເຈົ້າເອີ້ນວ່າ"ການສົນທະນາທີ່ຈິງໃຈ"? ເຈົ້າຢາກແນະ ນໍາ ຫຍັງ? ເຈົ້າຢາກໃຫ້ແມ່ຢູ່ກັບເຈົ້າບໍ?
+ເຈົ້າຕ້ອງການເອົານາງໄປເຮືອນດູແລບໍ?ເຈົ້າເຮັດບໍ? ຂ້ອຍຢາກຫຍັງ? ໄປ, ເວົ້າກັບຂ້ອຍ"ຢ່າງຈິງໃຈ"!
+
+485
+00:30:06,650 --> 00:30:11,900
+[ANNE]
+... short... short dress... only I... only I... all long... it was... : ding... dong...
+... ສັ້ນ... ເສື້ອຜ້າສັ້ນ... ພຽງແຕ່ຂ້ອຍ... ພຽງແຕ່ນຂ້ອຍ
+... ຕະຫຼອດເວລາ... ມັນແມ່ນ...: ding... dong...
+
+486
+00:30:12,400 --> 00:30:14,500
+[GEORGES]
+Yes, it swung to and fro.
+ແມ່ນແລ້ວ, ມັນຫັນໄປແລະໄປ.
+
+487
+00:30:15,000 --> 00:30:20,250
+[ANNE]
+... yes... to ... fro ... you... very serious... like that... : like that... serious...
+ແມ່ນແລ້ວ... ເພື່ອ... ກ້ອນ... ເຈົ້າ... ມີຄວາມຈິງໃຈຫຼາຍ
+... ເຊັ່ນນັ້ນ...: ດັ່ງນັ້ນ... ຢ່າງຈິງໃຈ...
+
+488
+00:30:20,750 --> 00:30:23,200
+[GEORGES]
+Yes. I think I was pretty uptight.
+ແມ່ນແລ້ວ. ຂ້ອຍຄິດວ່າຂ້ອຍມີຄວາມເຄັ່ງຕຶງຫຼາຍ.
+
+489
+00:30:23,700 --> 00:30:25,700
+[ANNE]
+yes... up... tight...
+ແມ່ນແລ້ວ... ຂຶ້ນ... ເຂັ້ມງວດ...
+
+490
+00:30:26,200 --> 00:30:28,200
+[ANNE]
+... it was n...nice...
+ມັນບໍ່... ດີ...
+
+491
+00:30:28,700 --> 00:30:32,200
+[BATHROOM]
+Georges is shaving. Suddenly we hear, coming from the bedroom,
+ຈໍເຈສ ກໍາ ລັງຕັດຜົມ. ທັນທີພວກເຮົາໄດ້ຍິນ, ມາຈາກຫ້ອງນອນ,
+
+492
+00:30:32,700 --> 00:30:34,700
+[ANNE'S VOICE]
+Help... Help... Help... Help... Help...
+ຄວາມຊ່ວຍເຫຼືອ... ຄວາມຊ່ວຍເຫລືອ...
+ຊ່ວຍເຫຼືອບັນເທວ... ຊ່ວຍເຫຼືອ... ຊ່ວຍ...
+
+493
+00:30:35,200 --> 00:30:37,200
+[GEORGES]
+What is it?.. 63.
+ມັນເປັນຫຍັງ?.. 63.
+
+494
+00:30:37,700 --> 00:30:41,550
+[GEORGES]
+Are you in pain?... What's the matter?... Is your pad full?
+ເຈົ້າເຈັບປວດບໍ?... ມີຫຍັງເກີດຂຶ້ນບໍ?... ກະຕູ້ຂອງທ່ານເຕັມບໍ?
+
+495
+00:30:42,050 --> 00:30:44,050
+[GEORGES]
+No... So what's hurting you?
+ບໍ່... ສະນັ້ນເຈົ້າເຈັບປວດຫຍັງ?
+
+496
+00:30:44,550 --> 00:30:50,550
+[GEORGES]
+It's all right... it's all right ... I'm here... everything's fine... we'll... Hold on, I'll tell you a story... but you must be quiet, I can't talk too loud, it wears me out... Here we go: when I was little... well, I wasn't as little as all that... it was toward the end of primary school, so I was about ten, Dad and Mom sent me to a holiday camp. They thought it would do me good to spend the summer with kids my own age... We were lodged in an old castle in the midst of a magnificent wooded landscape... I think it was in the Auvergne... I don't know... in any case it was the opposite of what I'd expected... We had to get up at 6 and go for a morning swim. Not far from the castle, there was a pond fed by an icy mountain stream. We entered it running, in a double file. You know, I was never very sporty. They had a program to keep us on the go all day, probably to nip any potential pubescent impulses in the bud ... But the worst thing was the food. The third day after our arrival, there was rice pudding for lunch. I hate rice pudding. We sat at long tables in a huge hall. I didn't want to eat the stuff and the housemaster said to me: You won't get up until you've cleared your plate. So after the meal everybody left the room, and I remained seated, in tears. I had made a secret pact with Mom. I was to send her a postcard every week. 64.
+ມັນບໍ່ເປັນຫຍັງ... ມັນບໍ່ແມ່ນຫຍັງ... ຂ້ອຍຢູ່ບ່ອນນີ້... ທຸກສິ່ງທຸກຢ່າງດີ... ພວກເຮົາຈະ... ລໍຖ້າ, ຂ້ອຍຈະບອກເຈົ້າເລື່ອງຫນຶ່ງ... ແຕ່ເຈົ້າຕ້ອງງຽບສະຫງົບ, ຂ້ອຍບໍ່ສາມາດເວົ້າໄດ້ດັງເກີນໄປ, ມັນເຮັດໃຫ້ຂ້ອຍເມື່ອຍ... ນີ້ແມ່ນພວກເຮົາໄປ: ເມື່ອຂ້ອຍນ້ອຍ
+... ດີ, ຂ້ອຍບໍ່ນ້ອຍເທົ່າກັບທັງ ຫມົດ ນັ້ນ... ມັນແມ່ນ towards ທ້າຍຂອງໂຮງຮຽນປະຖົມສຶກສາ, ສະນັ້ນຂ້ອຍປະມານສິບປີ, ພໍ່ແລະແມ່ສົ່ງຂ້ອຍໄປຄ້າຍພັກຜ່ອນ. ພວກເຂົາຄິດວ່າມັນຈະເຮັດໃຫ້ຂ້ອຍດີທີ່ຈະໃຊ້ເວລາລະດູຮ້ອນກັບເດັກນ້ອຍອາຍຸຂອງຂ້ອຍເອງ... ພວກເຮົາ
+
+497
+00:30:51,050 --> 00:30:57,050
+[GEORGES]
+If I was pleased with the place I was to draw some flowers on it, or if not, some stars. She kept the card; it was covered all over in stars. After three hours, I was allowed to leave the table. I went up to my room, got into bed and had a fever of 42 degrees. It was diphtheria. They took me to the nearest hospital where I was put in an isolation ward, which meant that Mom, when she came to visit me, could only wave at me through a window. At some point I lost that postcard. It's a pity.
+ຖ້າຂ້ອຍພໍໃຈກັບບ່ອນທີ່ຂ້ອຍຈະແຕ້ມດອກໄມ້ບາງຢ່າງໃສ່ມັນ, ຫຼືຖ້າບໍ່ດັ່ງນັ້ນ, ບາງດາວ. ນາງຮັກສາບັດ; ມັນຖືກປົກຫຸ້ມດ້ວຍດາວທັງ ຫມົດ. ຫຼັງຈາກສາມຊົ່ວໂມງ, ຂ້ອຍຖືກອະນຸຍາດໃຫ້ອອກຈາກໂຕະ. ຂ້ອຍຂຶ້ນຫ້ອງຂອງຂ້ອຍ,
+ເຂົ້າໄປໃນຕຽງແລະມີໄຂ້ຂອງ 42 ອົງສາ. ມັນແມ່ນ diphtheria. ພວກເຂົາເອົາຂ້ອຍໄປໂຮງຫມໍທີ່ໃກ້ທີ່ສຸດທີ່ຂ້ອຍຖືກວາງໃນຫ້ອງແຍກຕົວ, ເຊິ່ງ ຫມາຍ ຄວາມວ່າແມ່, ເມື່ອນາງມາຢ້ຽມຢາມຂ້ອຍ, ພຽງແຕ່ສາມາດຍືດຕໍ່ຂ້ອຍຜ່ານປ່ອງຢ
+
+498
+00:30:57,550 --> 00:31:03,550
+[LONG SILENCE.]
+Then Georges reaches across Anne's body to get hold of his pillow and presses it over her face. STIFLED SOUNDS from Anne. Everything that can still move in her body starts to move. Georges presses down heavily on the pillow, lies on it with his whole weight, for a long time, until all Anne's movements stop. Then he sits up, exhausted, and without removing the pillow from her face, remains seated beside her.
+ຄຸເຂົ່າລົງ
+
+499
+00:31:04,050 --> 00:31:06,050
+[ANNE]
+I'm almost done.
+ຂ້ອຍເກືອບສໍາເລັດແລ້ວ.
+
+500
+00:31:06,550 --> 00:31:09,700
+[ANNE'S VOICE]
+You can put your shoes on if you want.
+ເຈົ້າສາມາດໃສ່ເກີບໄດ້ຖ້າເຈົ້າຕ້ອງການ.
+
+501
+00:31:10,200 --> 00:31:12,200
+[ANNE]
+Thanks.
+ຂອບໃຈ
+
+502
+00:31:12,700 --> 00:31:14,700
+[ANNE]
+Aren't you taking a coat?
+ເຈົ້າບໍ່ໄດ້ເອົາເສື້ອຜ້າບໍ?
+
