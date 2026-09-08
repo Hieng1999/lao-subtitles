@@ -340,7 +340,8 @@ Don't touch me!
 00:03:22,150 --> 00:03:28,150
 [CLYDE]
 If all you want's stud service, then get on back to West Dallas and stay there the rest of your life!
-ຄຸເຂົ່າລົງ
+ຖ້າເຈົ້າຕ້ອງການພຽງແຕ່ບໍລິການກະຕ່າກະຕູ້ກະຕ່າຍກະຕູ້ນະ,
+ຫຼັງຈາກນັ້ນກັບຄືນໄປບ່ອນຕາແລສຕາເວັນຕົກແລະຢູ່ບ່ອນນັ້ນຕະຫຼອດຊີວິດຂອງທ່ານ!
 
 57
 00:03:28,650 --> 00:03:34,650
@@ -1047,7 +1048,7 @@ Why?
 00:10:04,100 --> 00:10:10,100
 [CLYDE]
 Now C.W.'ll be waitin' right outside in the car.  Here is the teller's cage.  Four of them and over here the desks and what have you...
-ຄຸເຂົ່າລົງ
+ດຽວນີ້ CW ຈະລໍຖ້າຢູ່ພາຍນອກໃນລົດ. ນີ້ແມ່ນກະຕ່າຂອງຜູ້ເກັບເງິນ. ສີ່ຄົນແລະບ່ອນນີ້ໂຕະແລະເຈົ້າມີຫຍັງ...
 
 171
 00:10:10,600 --> 00:10:12,600
@@ -1657,7 +1658,8 @@ Hey, what's this I hear about you cuttin' up your toes, boy?
 00:16:18,250 --> 00:16:24,250
 [CLYDE]
 That ain't but half of it.  I did it so I could get off work detail-- breakin' those damned rocks with a hammer day and night.  Sure enough, next week I got paroled.  I walked out of that god-forsaken jail on crutches.
-ຄຸເຂົ່າລົງ
+ນັ້ນບໍ່ແມ່ນພຽງແຕ່ເຄິ່ງຫນຶ່ງຂອງມັນ. ຂ້ອຍເຮັດມັນເພື່ອໃຫ້ຂ້ອຍສາມາດອອກຈາກລາຍລະອຽດການເຮັດວຽກໄດ້ -
+ການແຕກຫີນທີ່ໂຊກຮ້າຍນັ້ນດ້ວຍກະດານມືດແລະຄືນ. ແນ່ນອນພໍສົມຄວນ, ອາທິດຕໍ່ໄປຂ້ອຍຖືກປ່ອຍຕົວ. ຂ້ອຍອອກຈາກຄຸກທີ່ຖືກພຣະເຈົ້າລືມໄວ້ດ້ວຍກະຕ່າ.
 
 269
 00:16:24,750 --> 00:16:26,750

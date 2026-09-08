@@ -197,7 +197,7 @@ Why must you keep bringing that up?
 00:02:15,250 --> 00:02:19,450
 [MIA]
 And then you discovered that you had red paint under your nails.
-ຄຸເຂົ່າລົງ
+ແລະຫຼັງຈາກນັ້ນເຈົ້າໄດ້ຄົ້ນພົບວ່າເຈົ້າມີສີແດງຢູ່ພາຍໃຕ້ກະຕ່າຂອງທ່ານ.
 
 33
 00:02:19,950 --> 00:02:25,950
@@ -1600,7 +1600,7 @@ Have we nothing to offer the knight, Mia?
 00:17:30,650 --> 00:17:36,650
 [MIA]
 I picked a basket of wild strawberries this afternoon. And we have a drop of milk fresh from a cow ...
-ຄຸເຂົ່າລົງ
+ຂ້ອຍໄດ້ເອົາກະຕ່າສີດໍາປ່າໃນຕອນບ່າຍນີ້. ແລະພວກເຮົາມີນ້ ໍາ ນົມສົດຈາກງົວ...
 
 254
 00:17:37,150 --> 00:17:43,150
@@ -1839,7 +1839,7 @@ Are you sitting here sniveling in loneliness?
 00:20:03,750 --> 00:20:07,600
 [PLOG]
 Yes, yes, look at the smith. He moans like a rabbit.
-ຄຸເຂົ່າລົງ
+ແມ່ນ, ແມ່ນແລ້ວ, ເບິ່ງສະມິດແມ. ລາວຮ້ອງໄຫ້ຄືກັບກະຕ່າ.
 
 292
 00:20:08,100 --> 00:20:14,100

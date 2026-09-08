@@ -703,7 +703,7 @@ There is a wolf who seems intent on the goings on here. He does not seem incline
 00:07:11,250 --> 00:07:17,250
 [DUNBAR]
 Almost a month and no one has come. The longer this condition persists, the less inclined I am to believe that anyone will. Rain has forced me indoors for most of two days. I have begun an awning. The work has ruined my hands, but I am excited about the improvement it will bring to this place.
-ຄຸເຂົ່າລົງ
+ເກືອບ ຫນຶ່ງ ເດືອນແລະບໍ່ມີໃຜມາ. ສະຖານະການນີ້ສືບຕໍ່ຍາວນານກວ່າເກົ່າ, ຂ້ອຍມີຄວາມກະຕຸ້ນ ຫນ້ອຍ ກວ່າທີ່ຈະເຊື່ອວ່າໃຜຈະເຮັດ. ຝົນໄດ້ບັງຄັບໃຫ້ຂ້ອຍຢູ່ພາຍໃນເຮືອນເປັນເວລາຫຼາຍທີ່ສຸດສອງມື້. ຂ້ອຍໄດ້ເລີ່ມຕົ້ນການເຮັດກະຕ່າ. ວຽກງານໄດ້ ທໍາ ລາຍມືຂອງຂ້ອຍ, ແຕ່ຂ້ອຍມີຄວາມຕື່ນເຕັ້ນກ່ຽວກັບການປັບປຸງທີ່ມັນຈະ ນໍາ ມາສູ່ບ່ອນນີ້.
 
 114
 00:07:17,750 --> 00:07:22,650
@@ -2520,7 +2520,7 @@ I am in mourning.
 00:24:17,150 --> 00:24:19,250
 [DANCES WITH WOLVES]
 I know... Stone Calf told me.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຮູ້ແລ້ວ... ກະຕ່າຫີນບອກຂ້ອຍ.
 
 408
 00:24:19,750 --> 00:24:22,550
@@ -2624,7 +2624,7 @@ I will go.
 00:25:11,550 --> 00:25:13,550
 [DANCES WITH WOLVES]
 Stone Calf... wait...
-ຄຸເຂົ່າລົງ
+ກະຕ່າຫີນ... ລໍຖ້າ...
 
 425
 00:25:14,050 --> 00:25:16,150
@@ -2960,7 +2960,7 @@ That's too much medicine.
 00:28:16,950 --> 00:28:20,100
 [DANCES WITH WOLVES]
 Do you think the buckskin is too much medicine?
-ຄຸເຂົ່າລົງ
+ເຈົ້າຄິດວ່າຜິວຫນັງກະຕ່າແມ່ນຢາຫຼາຍເກີນໄປບໍ?
 
 479
 00:28:20,600 --> 00:28:22,600
@@ -3115,7 +3115,7 @@ Me neither.
 00:29:49,200 --> 00:29:53,750
 [OTTER]
 Maybe we should pull the smoke flap closed. Then they would come out.
-ຄຸເຂົ່າລົງ
+ບາງທີພວກເຮົາຄວນດຶງກະຕ່າສູບປິດ. ຫຼັງຈາກນັ້ນພວກເຂົາຈະອອກມາ.
 
 504
 00:29:54,250 --> 00:29:56,700

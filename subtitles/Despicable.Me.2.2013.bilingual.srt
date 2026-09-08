@@ -3611,7 +3611,7 @@ I choose Gru.
 00:34:20,450 --> 00:34:26,050
 [I CHOOSE GRU!]
 Lucy runs to the exit door and flings it open.   WOOSH!   Air rushes throughout the cabin.
-ຄຸເຂົ່າລົງ
+ລູຊີແລ່ນໄປປະຕູອອກແລະຖິ້ມມັນເປີດ. WOOSH! ອາກາດແລ່ນທົ່ວກະຕ່າ.
 
 584
 00:34:26,550 --> 00:34:28,550
@@ -3761,7 +3761,8 @@ Probably?
 00:35:50,800 --> 00:35:56,800
 [GRU]
 I mean, yes! Yes. Of course, yes, I just have a lot going on right now...I just need to get some things off my plate before we start taking over the world, that's all.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຫມາຍຄວາມວ່າ, ແມ່ນ! ແມ່ນແລ້ວ. ແນ່ນອນ, ແມ່ນແລ້ວ, ຂ້ອຍພຽງແຕ່ມີຫຼາຍຢ່າງ ກໍາ ລັງເກີດຂຶ້ນໃນເວລານີ້...
+ຂ້ອຍພຽງແຕ່ຕ້ອງເອົາບາງສິ່ງບາງຢ່າງອອກຈາກກະຕ່າຂອງຂ້ອຍກ່ອນທີ່ພວກເຮົາຈະເລີ່ມຄວບຄຸມໂລກ, ນັ້ນແມ່ນທັງຫມົດ.
 
 608
 00:35:57,300 --> 00:35:59,300

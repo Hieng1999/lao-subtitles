@@ -457,7 +457,7 @@ No way I'm putting her down.  I shouldn't even be flying in this shit.
 00:05:11,500 --> 00:05:13,600
 [COFFEY]
 Just hold it over the deck.
-ຄຸເຂົ່າລົງ
+ພຽງແຕ່ຖືມັນຢູ່ເທິງກະຕ່າ.
 
 73
 00:05:14,100 --> 00:05:19,350
@@ -671,7 +671,8 @@ Oh no... you gotta be kidding me.
 00:07:28,300 --> 00:07:34,300
 [CATFISH]
 Howdy, y'all.  Hey, Lindsey!  I'll be damned! You shouldn't be down here sweet thing, ya'll might run ya stockings.
-ຄຸເຂົ່າລົງ
+ສະບາຍດີ, ທຸກຄົນ. ເຮ້, ລິນດຊີ! ຂ້ອຍຈະຖືກໂຊກຮ້າຍ!
+ເຈົ້າບໍ່ຄວນຢູ່ບ່ອນນີ້ແມ, ເຈົ້າອາດຈະແລ່ນກະຕ່າຂອງທ່ານ.
 
 107
 00:07:34,800 --> 00:07:39,350
@@ -1312,7 +1313,7 @@ Copy that.
 00:14:24,350 --> 00:14:27,500
 [COFFEY]
 That's the midship hatch.  You see it, Cab Three?
-ຄຸເຂົ່າລົງ
+ນັ້ນແມ່ນກະຕ່າກາງເຮືອ. ເຈົ້າເຫັນມັນບໍ, ລົດແທັກຊີສາມ?
 
 208
 00:14:28,000 --> 00:14:30,000
@@ -1324,7 +1325,7 @@ Roger, I see it.
 00:14:30,500 --> 00:14:34,000
 [BUD]
 Just get around so your lights are on the hatch.
-ຄຸເຂົ່າລົງ
+ພຽງແຕ່ໄປຢູ່ທົ່ວໄປເພື່ອໃຫ້ແສງສະຫວ່າງຂອງທ່ານຢູ່ເທິງກະຕ່າ.
 
 210
 00:14:34,500 --> 00:14:37,650
@@ -1490,7 +1491,7 @@ This part I do alone.  Brigman, take you men and continue aft.  Split up into tw
 00:16:07,700 --> 00:16:13,700
 [BUD]
 Okay, Cat, Lew, Sonny.  You guys stay on this deck.  Hook you line onto mine.  Any problem, you tug my line.  Two pulls.  Jammer, you're with me.
-ຄຸເຂົ່າລົງ
+ດີແລ້ວ, ແຄຕ໌, ເລວ, ໂຊນນີ. ພວກເຈົ້າຢູ່ເທິງກະຕ່ານີ້. ຈັບສາຍຂອງທ່ານໃສ່ຂອງຂ້ອຍ. ບັນຫາໃດກໍ່ຕາມ, ເຈົ້າດຶງສາຍຂອງຂ້ອຍ. ສອງດຶງ. ໂຊກຮ້າຍ, ເຈົ້າຢູ່ກັບຂ້ອຍ.
 
 237
 00:16:14,200 --> 00:16:16,200
@@ -2246,7 +2247,8 @@ There we were, side by side, on the same ship, for two months.  I'm tool-pusher 
 00:23:48,450 --> 00:23:54,450
 [BUD]
 We were due to go back out on the same ship. Six months of tests.  If you were married you got a state-room.  Otherwise it was bunks.
-ຄຸເຂົ່າລົງ
+ພວກເຮົາຄວນກັບຄືນໄປບ່ອນໃນເຮືອດຽວກັນ. ການທົດສອບຫົກເດືອນ.
+ຖ້າເຈົ້າແຕ່ງງານເຈົ້າມີຫ້ອງລັດ. ຖ້າບໍ່ດັ່ງນັ້ນມັນເປັນກະຕ່າ.
 
 357
 00:23:54,950 --> 00:24:00,950
@@ -2421,7 +2423,7 @@ Who's hysterical?  Nobody's hysterical!
 00:25:38,550 --> 00:25:44,550
 [BUD]
 All I'm saying is when you're hanging on by your fingernails, you don't go waving you arms around.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍພຽງແຕ່ເວົ້າວ່າເມື່ອເຈົ້າຕິດຢູ່ຕາມກະຕ່າມືຂອງທ່ານ, ເຈົ້າບໍ່ໄປຍືດແຂນຂອງທ່ານຢູ່ທົ່ວໄປ.
 
 385
 00:25:45,050 --> 00:25:51,050
@@ -2487,7 +2489,8 @@ I can't, Lindsey.  I'm sorry.  How can I?
 00:26:33,450 --> 00:26:39,450
 [COFFEY]
 I want 'round-the-clock manning of the sonar shack and the exterior cameras.  We need early warning if the Soviet craft try another incursion.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຢາກໃຫ້ຄົນງານຂອງກະຕ່າໂຊນາແລະກ້ອງຖ່າຍຮູບພາຍນອກຕະຫຼອດເວລາ.
+ພວກເຮົາຕ້ອງການເຕືອນກ່ອນຖ້າເຮືອໂຊວຽດພະຍາຍາມບຸກເຂົ້າອີກຄັ້ງ.
 
 395
 00:26:39,950 --> 00:26:45,950
@@ -2779,7 +2782,8 @@ Show off.
 00:29:47,950 --> 00:29:53,900
 [LINDSEY]
 Okay, raise your hand if you think that was a Russian water-tentacle.  Lieutenant?  No?  Well, a breakthrough.
-ຄຸເຂົ່າລົງ
+ດີແລ້ວ, ຍົກມືຖ້າເຈົ້າຄິດວ່າມັນເປັນກະຕ່ານ້
+ໍາ ຂອງຣັດເຊຍ. ສະຫມັກ? ບໍ່? ດີ, ການບຸກເບີກ.
 
 441
 00:29:54,400 --> 00:29:56,400
@@ -3108,7 +3112,7 @@ Get the door!
 00:33:22,300 --> 00:33:26,500
 [SHOOT!]
 Hippy's squeezing the trigger and nothing's happening.  Flatbed's hatch tower goes under.
-ຄຸເຂົ່າລົງ
+ຮິບປີ້ ກໍາ ລັງກົດກະຕຸ້ນແລະບໍ່ມີຫຍັງເກີດຂຶ້ນ. ຫໍກະຕູ້ກະຕ່າກະຕ່າຍກະຕູ້ນັ້ນຕົກລົງ.
 
 493
 00:33:27,000 --> 00:33:30,850
@@ -3371,7 +3375,7 @@ Alright, put this on.
 00:35:43,100 --> 00:35:48,350
 [LINDSEY]
 What, you growing gills all of a sudden?  You got it on, keep it on.
-ຄຸເຂົ່າລົງ
+ຫຍັງ, ເຈົ້າ ກໍາ ລັງປູກກະຕ່າກະທູ້ກະທັນຫັນບໍ? ເຈົ້າໃສ່ມັນແລ້ວ, ຮັກສາມັນໄວ້.
 
 536
 00:35:48,850 --> 00:35:50,850

@@ -159,7 +159,7 @@ What the hell are you?
 00:01:23,900 --> 00:01:25,900
 [SKULL COWBOY]
 Interested?  Follow the crow.
-ຄຸເຂົ່າລົງ
+ສົນໃຈບໍ? ຕິດຕາມກະຕ່າ.
 
 28
 00:01:26,400 --> 00:01:32,400
@@ -1676,7 +1676,7 @@ Ahh, the hell with it, I still got five shots left.
 00:15:39,700 --> 00:15:45,650
 [FUNBOY]
 Owwwaaaa -- fuck me!  Look what you did to my sheets, you lame piece'a shit!  AAAAaa!  Goddd!
-ຄຸເຂົ່າລົງ
+ໂອ້ ວາວາ - ຂ້ອຍແຊກແຊງ! ເບິ່ງວ່າເຈົ້າເຮັດຫຍັງກັບກະຕ່າຂອງຂ້ອຍ, ເຈົ້າໂຊກຮ້າຍໂຊຄແຊ! ອາອາອາອາ! ພຣະເຈົ້າ!
 
 273
 00:15:46,150 --> 00:15:48,150
@@ -2126,7 +2126,7 @@ I never was too good at this domestic shit.
 00:20:18,050 --> 00:20:21,550
 [ELLY]
 Don't say "shit".  That's okay.  Corn Flakes are okay.  Anything.
-ຄຸເຂົ່າລົງ
+ຢ່າເວົ້າວ່າ"ໂຊກແຊງ". ມັນບໍ່ເປັນຫຍັງ. ກະຕ່າເຂົ້າແມ່ນບໍ່ດີ. ສິ່ງໃດກໍ່ຕາມ.
 
 345
 00:20:22,050 --> 00:20:24,050
@@ -2334,7 +2334,7 @@ What was that -- !?
 00:22:17,800 --> 00:22:19,900
 [TOP DOLLAR]
 Too many poppers, Skank.  Relax.  Heel.
-ຄຸເຂົ່າລົງ
+ໂປປເປີຫຼາຍເກີນໄປ, ສານກ໌. ສະບາຍໃຈ. ກະຕ່າ.
 
 379
 00:22:20,400 --> 00:22:23,200
@@ -2646,7 +2646,7 @@ That thing is poisonous.
 00:25:13,600 --> 00:25:19,600
 [LAO]
 Extremely so.  You and I are the recipients of unwanted good fortune, in the form of a man everyone is calling The Crow.
-ຄຸເຂົ່າລົງ
+ແທ້ຈິງຫຼາຍ. ເຈົ້າແລະຂ້ອຍແມ່ນຜູ້ຮັບໂຊກດີທີ່ບໍ່ຕ້ອງການ, ໃນຮູບແບບຂອງຜູ້ຊາຍທີ່ທຸກຄົນເອີ້ນວ່າກະຕ່າ.
 
 430
 00:25:20,100 --> 00:25:22,900
@@ -3093,7 +3093,7 @@ You're too late.  There was a guy outside - on the stairs - you really need to t
 00:30:01,500 --> 00:30:07,500
 [LAO]
 I don't believe that. Lao motions to Grange with the killing blade.  Grange RELAXES his deathgrip on the crow.  MOVE IN CLOSE on Eric so we may perceive a palpable degree of relief.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍບໍ່ເຊື່ອເລື່ອງນັ້ນ. Lao ເຄື່ອນຍ້າຍໄປຫາແກຣນເຈີດ້ວຍກະດານຂ້າຕາຍ. ແກຣນຈີຜ່ອນຜັນການຈັບຕາຍຂອງລາວໃສ່ກະຕ່າ. ຍ້າຍໃກ້ກັບເອຣິກເພື່ອໃຫ້ພວກເຮົາສາມາດຮູ້ສຶກຄວາມບັນເທົາທຸກທີ່ຈັບໄດ້.
 
 501
 00:30:08,000 --> 00:30:14,000

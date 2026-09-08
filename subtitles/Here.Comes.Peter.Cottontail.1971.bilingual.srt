@@ -2,7 +2,8 @@
 00:00:10,000 --> 00:00:16,000
 [SEYMOUR S. SASSAFRASS]
 That's good cloud. Oh hello there, allow me to introduce myself. Seymour S. Sassafras at your service. The bees are buzzing, the flowers are flowering, and spring has almost sprung, when Peter Cottontail will be hopping down the bunny trail.
-ຄຸເຂົ່າລົງ
+ນັ້ນແມ່ນຫມອກທີ່ດີ. ໂອ້ ສະບາຍດີຢູ່ບ່ອນນັ້ນ, ຂໍອະນຸຍາດໃຫ້ຂ້ອຍແນະນໍາຕົວເອງ. ເຊມມູຣ໌ ເອສ ຊາຊາຟຣັສສ໌ໃນບໍລິການຂອງທ່ານ. ແມງໄມ້
+ກໍາ ລັງສັ່ນສະເທືອນ, ດອກໄມ້ກໍາລັງດອກໄມ້, ແລະລະດູໃບໄມ້ປົ່ງເກືອບຈະເກີດຂຶ້ນ, ເມື່ອເປຕຣ໌ ຄອດຕັນເທວຈະໂດດລົງຕາມເສັ້ນທາງກະຕ່າ.
 
 2
 00:00:16,500 --> 00:00:18,500
@@ -241,7 +242,8 @@ Sounds like Junior's in a little bit of trouble. Don't worry about the nougat, t
 00:02:33,300 --> 00:02:39,300
 [JR]
 Ladies and gentlemen! For generations, Easter bunnies have delivered eggs the old-fashioned way: hopping down ye olde bunny trail. Today friends, we welcome the FUTURE. I give you Peter Cottontail Junior's supercharged Easter basket speed shooter!
-ຄຸເຂົ່າລົງ
+ພວກທ່ານແລະພວກທ່ານ! ເປັນເວລາຫຼາຍລຸ້ນແລ້ວ, ກະຕ່າ Easter ໄດ້ສົ່ງໄຂ່ຕາມວິທີເກົ່າແກ່: ການໂດດລົງຕາມເສັ້ນທາງກະຕ່າເກົ່າ.
+ມື້ນີ້ເພື່ອນມິດ, ພວກເຮົາຍິນດີຕ້ອນຮັບອະນາຄົດ. ຂ້ອຍໃຫ້ເຈົ້າເຄື່ອງຍິງຄວາມໄວກະຕູ້ Easter ທີ່ຖືກໂຊບສູງຂອງ Peter Cottontail Junior!
 
 40
 00:02:39,800 --> 00:02:41,800
@@ -259,7 +261,7 @@ Cool!
 00:02:44,800 --> 00:02:46,800
 [JUNIOR]
 Let's make bunny history.
-ຄຸເຂົ່າລົງ
+ມາເຮັດປະຫວັດສາດກະຕ່າ.
 
 43
 00:02:47,300 --> 00:02:49,400
@@ -377,7 +379,7 @@ Give me one example!
 00:03:50,800 --> 00:03:56,800
 [PETER]
 Let's see, there was the automatic basket weaving thingamabobble, a daffodil weeding whatchamacallit, and who can forget the electronical egg painting doohickey!
-ຄຸເຂົ່າລົງ
+ມາເບິ່ງກັນ, ມີກະຕູ້ອັດຕະໂນມັດທີ່ເຄືອບສິ່ງໂບບບລ, ກະຕູ້ກະຕ່າກະຕ່າຍກະຕຸ້ນກະຕ້າກະຕູກກະຕູ້ນາຊາມາຊາລິດ, ແລະໃຜສາມາດລືມຮູບແຕ້ມໄຂ່ເອເລັກໂຕຣນິກ doohickey ໄດ້!
 
 62
 00:03:57,300 --> 00:04:00,100
@@ -389,7 +391,8 @@ Dad I said one example, that was three.
 00:04:00,600 --> 00:04:06,600
 [PETER]
 Junior, being head Easter Bunny isn't all fun and games. Have I ever told you the story of Irontail?
-ຄຸເຂົ່າລົງ
+ຈູເນຍ, ການເປັນຫົວຫນ້າກະຕ່າ Easter ບໍ່ແມ່ນຄວາມມ່ວນຊື່ນແລະເກມທັງ
+ຫມົດ. ຂ້ອຍເຄີຍບອກເຈົ້າເລື່ອງຂອງ Iron Tail ບໍ?
 
 64
 00:04:07,100 --> 00:04:09,550
@@ -655,7 +658,8 @@ Yes, that is absolutely right, I'm counting on you, son.  Good, he's responsible
 00:07:02,800 --> 00:07:08,800
 [MONTRESOR]
 Interior, Jackie's ice palace. She is standing next to an ice chaise with penguin guards and butlers holding icy drinks on a tray.
-ຄຸເຂົ່າລົງ
+ພາຍນອກ, ທໍານຽບນ້ ໍາ ກ້ອນຂອງຈັກກີ. ນາງຢືນຢູ່ຂ້າງຕັ່ງນ້ ໍາ
+ຕານທີ່ມີຄົນປົກປ້ອງປິນຈິນແລະຄົນຮັບໃຊ້ຖືເຄື່ອງດື່ມເຢັນໃສ່ກະຕ່າ.
 
 106
 00:07:09,300 --> 00:07:15,300
@@ -724,7 +728,8 @@ Hmm. I'd wonder what's in it for you.
 00:07:46,050 --> 00:07:52,050
 [IRONTAIL]
 Revenge. Peter Cottontail stole my job. If I can't be the Easter Bunny then I'll make sure that Easter never comes again.
-ຄຸເຂົ່າລົງ
+ການແກ້ແຄ້ນ. ເປຕຣ໌ ຄອດຕັນເທວໄດ້ລັກວຽກຂອງຂ້ອຍ. ຖ້າຂ້ອຍບໍ່ສາມາດເປັນກະຕ່າ
+Easter ໄດ້ຫຼັງຈາກນັ້ນຂ້ອຍຈະແນ່ໃຈວ່າ Easter ບໍ່ເຄີຍມາອີກເທື່ອຫນຶ່ງ.
 
 117
 00:07:52,550 --> 00:07:54,650
@@ -793,7 +798,8 @@ Say freeze!
 00:08:30,800 --> 00:08:36,050
 [JUNIOR]
 Those are some strange-looking bunnies, and, whoa, that is one very fluffy tail, mister... um...?
-ຄຸເຂົ່າລົງ
+ນັ້ນແມ່ນກະຕ່າທີ່ເບິ່ງແປກໃຈບາງຢ່າງ, ແລະ, ໂວ້,
+ນັ້ນແມ່ນຫອຍ ຫນຶ່ງ ທີ່ສົດໃສຫຼາຍ, ທ້າວ... ອູມ...?
 
 128
 00:08:36,550 --> 00:08:39,350
@@ -824,7 +830,8 @@ No! I mean-- hey, how did you know?
 00:08:51,050 --> 00:08:57,050
 [IRONTAIL]
 Oh you could say we're two of a kind, you and I. Inventors, innovators, unappreciated by the riffraff. Oh, I can see when a bright young bunny is being cheated out of his chance to shine.
-ຄຸເຂົ່າລົງ
+ໂອ້ ເຈົ້າສາມາດເວົ້າໄດ້ວ່າພວກເຮົາເປັນສອງຄົນຂອງປະເພດດຽວກັນ, ເຈົ້າແລະຂ້ອຍ. ຜູ້ຄົ້ນຄວ້າ, ຜູ້ປະດິດສ້າງ,
+ບໍ່ໄດ້ຮັບການຍ້ອງຍໍໂດຍຄົນໂຊກຮ້າຍ. ໂອ້, ຂ້ອຍສາມາດເຫັນໄດ້ເມື່ອກະຕ່າຫນຸ່ມທີ່ສົດໃສຖືກຫຼອກລວງຈາກໂອກາດທີ່ຈະສ່ອງສະຫວ່າງຂອງລາວ.
 
 133
 00:08:57,550 --> 00:08:59,550
@@ -1282,7 +1289,7 @@ Actually, ma'am, he crashed into me.
 00:13:26,550 --> 00:13:32,550
 [MAMA ROBIN]
 And you! Don't you know rabbits can give you lice? ...So, dear, are you new to Summer Hill?
-ຄຸເຂົ່າລົງ
+ແລະເຈົ້າ! ເຈົ້າບໍ່ຮູ້ວ່າກະຕ່າສາມາດເຮັດໃຫ້ເຈົ້າມີແມງໄມ້ໄດ້ບໍ?... ສະນັ້ນ, ແມ, ເຈົ້າເປັນຄົນໃຫມ່ໃນ Summer Hill ບໍ?
 
 206
 00:13:33,050 --> 00:13:35,500
@@ -1625,7 +1632,7 @@ Okay, you asked for it...Robin attack!
 00:16:29,550 --> 00:16:32,350
 [MUNCH]
 Get your big claws off of me! Aaaaaaaaaaaahhh!!
-ຄຸເຂົ່າລົງ
+ເອົາກະຕ່າໃຫຍ່ຂອງທ່ານອອກຈາກຂ້ອຍ! Aaaaaaaahhh!!
 
 262
 00:16:32,850 --> 00:16:34,850
@@ -1913,7 +1920,7 @@ Just like your father. Say hi to him for me.
 00:19:01,900 --> 00:19:03,900
 [JUNIOR]
 Iron Tail!
-ຄຸເຂົ່າລົງ
+ກະຕ່າເຫຼັກ!
 
 309
 00:19:04,400 --> 00:19:10,400
@@ -2215,7 +2222,8 @@ Uhh I'm sorry, the Western wind?
 00:22:07,700 --> 00:22:13,700
 [WIND]
 Ahahahahah! I guess I can't expect a bunny to know. Heh heh heh heh. Thanks for the compliment. No, I'm not one of these big "celebrity winds." Ga ha ha ha ha ha...
-ຄຸເຂົ່າລົງ
+Ahahahahah! ຂ້ອຍຄິດວ່າຂ້ອຍບໍ່ສາມາດຄາດຫວັງວ່າກະຕ່າຈະຮູ້ໄດ້. ເຮ້ເຮ້ ເຮ້. ຂອບໃຈ ສໍາ
+ລັບການຊົມເຊີຍ. ບໍ່, ຂ້ອຍບໍ່ແມ່ນ ຫນຶ່ງ ໃນ"ລົມທີ່ມີຊື່ສຽງຂະຫນາດໃຫຍ່ເຫຼົ່ານີ້." Ga ha ha ha...
 
 357
 00:22:14,200 --> 00:22:16,300
@@ -2296,7 +2304,7 @@ Just getting warmed up, just getting warmed up. Lemme try again.
 00:23:02,550 --> 00:23:05,350
 [MUNCH]
 I should have brought along some buffalo wings.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຄວນເອົາກະຕ່າບູຟາໂລມາພ້ອມ.
 
 370
 00:23:05,850 --> 00:23:07,850
@@ -2449,7 +2457,7 @@ AAAhhhhhh!
 00:24:24,200 --> 00:24:26,200
 [FLUTTER]
 Grab my wing!
-ຄຸເຂົ່າລົງ
+ຈັບກະຕ່າຂອງຂ້ອຍ!
 
 395
 00:24:26,700 --> 00:24:32,700
@@ -2714,7 +2722,7 @@ The timing mechanism must be driven by the master governor in the upper pivot ro
 00:26:44,150 --> 00:26:46,150
 [JACKIE]
 What is with this rabbit?
-ຄຸເຂົ່າລົງ
+ມີຫຍັງເກີດຂຶ້ນກັບກະຕ່ານີ້?
 
 438
 00:26:46,650 --> 00:26:48,650
@@ -2776,7 +2784,7 @@ Not a chance! It's all or nothin, freeze dry! I'm not kidding!
 00:27:16,950 --> 00:27:21,850
 [IRONTAIL]
 Think you're pretty cute, eh, little tiny bunny? You drop yours, we drop ours.
-ຄຸເຂົ່າລົງ
+ເຈົ້າຄິດວ່າເຈົ້າຫນ້າຮັກຫຼາຍ, ເອ້, ກະຕ່ານ້ອຍໆນ້ອຍໆ? ເຈົ້າຖິ້ມຂອງເຈົ້າ, ພວກເຮົາຖິ່ມຂອງຂອງພວກເຮົາ.
 
 448
 00:27:22,350 --> 00:27:24,350
@@ -2788,7 +2796,7 @@ Where you goin?
 00:27:24,850 --> 00:27:28,700
 [MUNCH]
 Goin' to get my munch on! Nom nom nom nom nom
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຈະເອົາກະຕ່າຂອງຂ້ອຍໃສ່! ຊື່ຊື່ຊື່ຊື່
 
 450
 00:27:29,200 --> 00:27:31,200
@@ -3149,5 +3157,6 @@ First, for temperature control purposes, I propose adding a bank of digital ther
 00:30:26,050 --> 00:30:32,050
 [SSS]
 And that's the story of the bee who saved arbor day-- I mean the bunny who saved Spring. Yes, yes! That's a much better story. Nobody likes bees, they just sting people and interrupt them, but that's just my opinion, Seymour S. Sassafras.
-ຄຸເຂົ່າລົງ
+ແລະນັ້ນແມ່ນເລື່ອງຂອງແມງໄມ້ທີ່ຊ່ວຍມື້ຕົ້ນໄມ້ - ຂ້ອຍຫມາຍຄວາມວ່າກະຕ່າທີ່ຊ່ວຍພາກຮຽນ spring ໄດ້. ແມ່ນແລ້ວ, ແມ່ນແລ້ວ!
+ນັ້ນແມ່ນເລື່ອງທີ່ດີກວ່າຫຼາຍ. ບໍ່ມີໃຜມັກແມງໄມ, ພວກເຂົາພຽງແຕ່ດອກຄົນແລະລົບກວນພວກເຂົາ, ແຕ່ນັ້ນພຽງແຕ່ຄວາມຄິດເຫັນຂອງຂ້ອຍ, Seymour S. Sassafras.
 

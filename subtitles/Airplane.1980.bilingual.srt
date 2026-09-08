@@ -34,7 +34,7 @@ She checks her watch and walks past Security Check area. CAMERA STAYS with a mid
 00:00:29,150 --> 00:00:35,150
 [SHIRLEY]
 Jack, isn't that Fred Bliffert over there in the blue turtleneck? Maybe he's on our flight to Chicago.
-ຄຸເຂົ່າລົງ
+ແຈກ, ນັ້ນບໍ່ແມ່ນຟຣີດ ບລີຟເຕີຢູ່ບ່ອນນັ້ນໃນຄໍກະຕ່າສີຟ້າບໍ? ບາງທີລາວຢູ່ໃນຖ້ຽວບິນຂອງພວກເຮົາໄປຊິຄາໂກ.
 
 7
 00:00:35,650 --> 00:00:38,100
@@ -698,7 +698,8 @@ Excuse me.
 00:07:13,900 --> 00:07:19,900
 [MRS. ELDERLY]
 No wonder you're upset. She's lovely. And a darling figure. Supple, pouting breasts. Firm thighs. It's a shame you're not getting along.
-ຄຸເຂົ່າລົງ
+ບໍ່ແປກໃຈວ່າເຈົ້າໂຊກຮ້າຍ. ນາງສວຍງາມ. ແລະຮູບຮ່າງທີ່ຮັກແພງ. ກະທູ້ທີ່ອ່ອນແອ,
+ກະຕ່າທີ່ສັ່ນສະເທືອນ. ຕີນທີ່ແຂງແຮງ. ມັນເປັນຄວາມໂ ຊກຮ້າຍທີ່ເຈົ້າບໍ່ໄດ້ເຂົ້າກັນໄດ້.
 
 113
 00:07:20,400 --> 00:07:26,400
@@ -1134,7 +1135,7 @@ We are turning left to a heading of zero- niner-niner.
 00:12:01,600 --> 00:12:05,800
 [MURDOCK]
 The hell I don't! I'm out there busting my buns every night.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍບໍ່ເຮັດ! ຂ້ອຍຢູ່ບ່ອນນັ້ນ ທໍາ ລາຍກະຕ່າຂອງຂ້ອຍທຸກໆຄືນ.
 
 182
 00:12:06,300 --> 00:12:12,300
@@ -1488,7 +1489,8 @@ After the war, I just wanted to get as far away from things as possible. So Elai
 00:15:54,800 --> 00:16:00,800
 [ELAINE]
 Also, Supperware products are ideal for storing leftovers to help stretch your food dollar. This two quart "Seals-M-Rite" container with a special "Close-M-Tite" lid keeps hotdog buns fresh for days and prevents sugared cereals from sticking.
-ຄຸເຂົ່າລົງ
+ນອກຈາກນັ້ນ, ຜະລິດຕະພັນອາຫານຄໍ່າແມ່ນດີເລີດ ສໍາ ລັບການເກັບຮັກສາຊິ້ນສ່ວນທີ່ເຫຼືອເພື່ອຊ່ວຍຍືດເງິນໂດລາອາຫານຂອງທ່ານ. ຖັງ"Seals-M-Rite"
+ສອງແຄລາດນີ້ທີ່ມີຜ້າປິດພິເສດ"Close - M-Tite" ຮັກສາກະຕ່າຮອດດອກສົດໃສເປັນເວລາຫຼາຍມື້ແລະປ້ອງກັນບໍ່ໃຫ້ເຂົ້າສານທີ່ມີນ້ ໍາ ຕານຕິດຢູ່.
 
 238
 00:16:01,300 --> 00:16:07,300
@@ -1978,7 +1980,8 @@ No thanks.
 00:21:04,250 --> 00:21:10,250
 [AIR CONTROLLER #1]
 Chief, there's fog down to the deck everywhere east of the Rockies. There's no possible place they can land. They'll have to come through to Chicago.
-ຄຸເຂົ່າລົງ
+ຫົວຫນ້າ, ມີຫມອກລົງໄປຫາກະຕ່າທຸກບ່ອນທາງທິດຕາເວັນອອກຂອງ Rocky.
+ບໍ່ມີບ່ອນທີ່ພວກເຂົາສາມາດລົງຈອດໄດ້. ພວກເຂົາຕ້ອງຜ່ານໄປຫາຊິຄາໂກ.
 
 316
 00:21:10,750 --> 00:21:12,750
@@ -3511,7 +3514,7 @@ Steve, I want every light you can get poured on that field.
 00:38:13,400 --> 00:38:16,200
 [KRAMER]
 Tower to all emergency vehicles. Runway is niner.
-ຄຸເຂົ່າລົງ
+ກະຕ່າໄປຫາພາຫະນະສຸກເສີນທັງ ຫມົດ. ທາງແລ່ນແມ່ນເກົ້າ.
 
 557
 00:38:16,700 --> 00:38:18,700

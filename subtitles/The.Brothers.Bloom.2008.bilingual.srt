@@ -1107,7 +1107,8 @@ This is a banana seat, man!
 00:11:24,400 --> 00:11:30,400
 [BLOOM]
 There's actually a knack to this. You want to avoid dying or breaking anything that won't grow back, but you don't want to roll out of it and come up roses. If you're trying to fast track into a mark's sympathies, there's nothing quite as efficient as having your first conversation be from a hospital bed they put you in. I usually like to try for a dislocated shoulder.
-ຄຸເຂົ່າລົງ
+ມີຄວາມສາມາດໃນການເຮັດສິ່ງນີ້ແທ້ໆ. ເຈົ້າຢາກຫຼີກເວັ້ນການຕາຍຫຼື ທໍາ ລາຍສິ່ງໃດໆທີ່ຈະບໍ່ເຕີບໃຫຍ່ຄືນ, ແຕ່ເຈົ້າບໍ່ຢາກລວດລ້ອມອອກຈາກມັນແລະອອກມາດອກໄມ້. ຖ້າເຈົ້າ ກໍາ
+ລັງພະຍາຍາມຕິດຕາມຢ່າງໄວວາເຂົ້າໄປໃນຄວາມເຫັນໃຈຂອງເຄື່ອງຫມາຍ, ບໍ່ມີຫຍັງທີ່ມີປະສິດທິພາບເທົ່າກັບການສົນທະນາຄັ້ງ ທໍາ ອິດຂອງທ່ານຈາກຕຽງໂຮງຫມໍທີ່ພວກເຂົາວາງເຈົ້າໄວ້. ຂ້ອຍມັກພະຍາຍາມເພື່ອກະຕ່າທີ່ແຕກ.
 
 178
 00:11:30,900 --> 00:11:32,900
@@ -1569,7 +1570,8 @@ I was writing in a bar. And she doesn't drink, how does she know a Philly beer?
 00:16:08,250 --> 00:16:14,250
 [BLOOM]
 She knows a lot of stuff.  Was that who I thought it was on the East deck this morning?
-ຄຸເຂົ່າລົງ
+ນາງຮູ້ຫຼາຍຢ່າງ.
+ນັ້ນແມ່ນຜູ້ທີ່ຂ້ອຍຄິດວ່າມັນຢູ່ເທິງກະຕ່າຕາເວັນອອກໃນຕອນເຊົ້ານີ້ບໍ?
 
 252
 00:16:14,750 --> 00:16:17,200
@@ -1719,7 +1721,8 @@ Yes you did.
 00:17:39,200 --> 00:17:45,200
 [THE CURATOR]
 Apologies, but the deck was dark, and I had to approach.  It's been such a time since I've encountered the Brothers Bloom.
-ຄຸເຂົ່າລົງ
+ຂໍໂທດ, ແຕ່ກະຕ່າແມ່ນມືດ, ແລະຂ້ອຍຕ້ອງເຂົ້າໃກ້.
+ມັນເປັນເວລາດົນນານນັບຕັ້ງແຕ່ຂ້ອຍພົບກັບອ້າຍນ້ອງບລູມ.
 
 276
 00:17:45,700 --> 00:17:47,700
@@ -1914,7 +1917,8 @@ Huh.
 00:19:42,250 --> 00:19:48,250
 [BLOOM]
 I know you like to throw those clever little details in, but you've gotta watch that shit with her Stephen. She had a lot of time alone in that house, and she used it. She did the best Double Dutch Queens I've ever seen up on the deck last night.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຮູ້ວ່າເຈົ້າມັກຖິ້ມລາຍລະອຽດນ້ອຍໆທີ່ສະຫຼາດນັ້ນເຂົ້າໄປໃນ, ແຕ່ເຈົ້າຕ້ອງເບິ່ງສິ່ງນັ້ນກັບນາງສເຕຟັນ.
+ນາງມີເວລາຫຼາຍຄົນຢູ່ຄົນດຽວໃນເຮືອນນັ້ນ, ແລະນາງໃຊ້ມັນ. ນາງເຮັດ Queens Holland Double ທີ່ດີທີ່ສຸດທີ່ຂ້ອຍເຄີຍເຫັນເທິງກະຕ່າມື້ວານນີ້.
 
 307
 00:19:48,750 --> 00:19:50,850
@@ -2880,7 +2884,8 @@ So straight down the corridor, again, tell me where.
 00:29:30,050 --> 00:29:34,600
 [PENELOPE]
 Second left, third right, access hatch behind the copier, I need to sleeeeeeep...
-ຄຸເຂົ່າລົງ
+ທີສອງຊ້າຍ, ທີສາມຂວາ, ກະຕ່າເຂົ້າເຖິງຢູ່ເບື້ອງຫຼັງເຄື່ອງ
+ສໍາ ເນົາ, ຂ້ອຍຕ້ອງນອນເບິ່ງ...
 
 462
 00:29:35,100 --> 00:29:40,000
@@ -3314,7 +3319,7 @@ We're leaving.
 00:33:49,900 --> 00:33:55,900
 [STEPHEN]
 No. You're too scared to leave. You're scared to ride off into a sunset that isn't painted tarpaulin, cause real sunsets are beautiful but they turn into dark uncertain nights. If you were ready for that, you wouldn't be here. The money is in my bedroom. Right behind me. But in my story you don't get the money or the sunset or the girl.
-ຄຸເຂົ່າລົງ
+ບໍ່. ເຈົ້າຢ້ານກົວເກີນໄປທີ່ຈະອອກຈາກ. ເຈົ້າກັງວົນທີ່ຈະຂັບລົດໄປສູ່ການຕົກຂອງແສງຕາເວັນທີ່ບໍ່ແມ່ນກະຕ່າປູລິນທີ່ແຕ້ມຮູບ, ເພາະວ່າການຕົກແດດທີ່ແທ້ຈິງແມ່ນສວຍງາມແຕ່ພວກເຂົາກາຍເປັນຄືນທີ່ມືດທີ່ບໍ່ແນ່ນອນ. ຖ້າເຈົ້າພ້ອມ ສໍາ ລັບສິ່ງນັ້ນ, ເຈົ້າຈະບໍ່ຢູ່ບ່ອນນີ້. ເງິນຢູ່ໃນຫ້ອງນອນຂອງຂ້ອຍ. ຢູ່ເບື້ອງຫຼັງຂ້ອຍ. ແຕ່ໃນເລື່ອງຂອງຂ້ອຍເຈົ້າບໍ່ໄດ້ຮັບເງິນຫຼືການຕົກຫຼືເດັກຍິງ.
 
 531
 00:33:56,400 --> 00:33:58,400

@@ -67,7 +67,8 @@ D-d-dios mio. ON LOG - ຄໍເຕສຫາຍໄປແລ້ວ. ປານເ�
 00:00:54,400 --> 00:01:00,400
 [PANTERA]
 What?! WHAT IS IT?! OS - Hear the sound of a CHAIN clinking. Then WHOOSHING as the chain winch suddenly FLIES IN, and CRACKS the BURLY SOLDIER across the jaw! It wraps itself around his neck. Before he can react... - YOINK! He gets pulled over the hood of the jeep, landing on the ground HARD.
-ຄຸເຂົ່າລົງ
+ຫຍັງ?! ມັນເປັນຫຍັງ?! OS - ໄດ້ຍິນສຽງຂອງຕ່ອງໂສ້ທີ່ສັ່ນສະເທືອນ. ຫຼັງຈາກນັ້ນ WHOSHING
+ໃນຂະນະທີ່ກະຕູ້ກະຕ່າກະຕ່າຍກະຕຸ້ນກະທູ້ກະດູກກະຕູ້ນັ້ນກະຕຸກກະຕັນກະຕຸນກະຕະນາກກະຕານກະຕ່ານະຕາດກະຕວງກະຕ້ານະຕີດກະຕວນກະຕອງກະຕູນະຕຕາດຕະຕາດ. ກ່ອນລາວຈະສາມາດປະຕິກິລິຍາໄດ້... - YOINK! ລາວຖືກດຶງຜ່ານກະຕຸງກະ
 
 12
 00:01:00,900 --> 00:01:06,900
@@ -292,7 +293,8 @@ Thanks so much. You're worth every penny. I have to tell all my friends about yo
 00:03:48,400 --> 00:03:54,400
 [MICHAELANGELO]
 I can only hope they're as lovely as the rugrats you got here. ON KIDS - They look tough, brandishing their nerf weapons - a toddler street gang. One of the kids does a finger-point-then- throat-slit gesture. The mom looks and beams. The kids quickly smile to cover.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍພຽງແຕ່ຫວັງວ່າພວກເຂົາຈະສວຍງາມຄືກັບກະຕ່າກະຕູ້ກະຕຸ້ນທີ່ເຈົ້າມີຢູ່ນີ້. ໃນເດັກນ້ອຍ - ພວກເຂົາເບິ່ງຄືວ່າແຂງແຮງ, ຍ້າຍອາວຸດປະສາດຂອງພວກເຂົາ -
+ກຸ່ມກຸ່ມຖະຫນົນເດັກນ້ອຍນ້ອຍໆ. ຫນຶ່ງ ໃນເດັກນ້ອຍເຮັດການເຄື່ອນໄຫວທີ່ຕັດນິ້ວມື - ຫຼັງຈາກນັ້ນ - ຄໍ. ແມ່ເບິ່ງແລະສ່ອງແສງ. ເດັກນ້ອຍມ່ວນຊື່ນຢ່າງໄວວາເພື່ອປົກຄຸມ.
 
 46
 00:03:54,900 --> 00:04:00,900
@@ -475,7 +477,7 @@ Master. No cake. You remember your last cholesterol tests.
 00:06:03,550 --> 00:06:09,550
 [DONATELLO]
 Nice try, sensei. But you can still be my Master... with low cholesterol. Splinter surrenders the cake. As Don walks away, Michaelangelo reaches into his bag and secretly passes Splinter a smaller wrapped piece.
-ຄຸເຂົ່າລົງ
+ຄວາມພະຍາຍາມທີ່ດີ, sensei. ແຕ່ເຈົ້າຍັງສາມາດເປັນຄູສອນຂອງຂ້ອຍໄດ້... ດ້ວຍຄໍເລສເຕີລິນຕໍ່າ. Splinter ຍອມຮັບກະຕ່າ. ໃນຂະນະທີ່ດອນຍ່າງໄປ, ໄມເກວແອນເຈໂລຍືນເຂົ້າໄປໃນຖົງຂອງລາວແລະຜ່ານ Splintar ສ່ວນທີ່ຫຸ້ມຫໍ່ນ້ອຍກວ່າຢ່າງລັບ.
 
 74
 00:06:10,050 --> 00:06:16,050
@@ -553,7 +555,8 @@ Howie! ເອົາສິ່ງນີ້ໃສ່ລົດບັນທຸກເ�
 00:07:04,100 --> 00:07:10,100
 [I'M! BORED!!!!!]
 He stands up and walks to DON'S ROOM. He opens it. It takes only one foot until the door is pushed up against piles of TECH JUNK. Mikey uses his shoulder and pushes it open. N DON - He's hunched over a work table, back to Mikey. Tinkering as always. Wild inventions line the walls, some finished, some not. Some pay tribute to past TMNT adventures.
-ຄຸເຂົ່າລົງ
+ລາວຕື່ນຂຶ້ນແລະຍ່າງໄປຫ້ອງຂອງດອນ. ລາວເປີດມັນ. ມັນໃຊ້ເວລາພຽງແຕ່ຕີນດຽວຈົນກວ່າປະຕູຖືກດັນຂຶ້ນຕໍ່ກັບກະດານຂອງ TECH JUNK. ໄມເກີໃຊ້ກະຕ່າຂອງລາວແລະດັນມັນເປີດ. N ດອນ -
+ລາວຫັນຢູ່ເທິງໂຕະເຮັດວຽກ, ກັບຄືນໄປບ່ອນໄມເຄີ. ການສ້ອມແປງຄືກັບປົກກະຕິ. ການຄົ້ນຄວ້າປ່າໄມ້ແຖບກໍາແພງ, ບາງຄົນສໍາເລັດແລ້ວ, ບາງຄົນທີ່ບໍ່ແມ່ນ. ບາງຄົນໃຫ້ຄວາມຍ້ອງຍໍຕໍ່ການປະຈົນໄພ
 
 86
 00:07:10,600 --> 00:07:16,600
@@ -586,7 +589,8 @@ I know. Isn't it great? A beat. Mikey sighs, then walks back downstairs to the L
 00:07:32,700 --> 00:07:38,700
 [WAH!!]
 SPLINTER Michaelangelo. Boredom is never an indicator of your surroundings. It is a reflection of your inner heart. Fill yourself with excitement on the inside... and you'll live the most rewarding life of all. Mikey stares at Splinter, dead pan. A beat. Then returns to flipping channels. He stops on a NEWS program - "NYC DIRT".
-ຄຸເຂົ່າລົງ
+Splinter Michaelangelo. ຄວາມເບື່ອຫນ່າຍບໍ່ເຄີຍເປັນຕົວຊີ້ວັດຂອງສິ່ງແວດລ້ອມຂອງທ່ານ. ມັນແມ່ນການສະທ້ອນຂອງຫົວໃຈພາຍໃນຂອງທ່ານ. ເຕັມຕົວເອງດ້ວຍຄວາມຕື່ນເຕັ້ນໃນພາຍໃນ...
+ແລະທ່ານຈະດໍາລົງຊີວິດທີ່ມີຜົນຕອບແທນທີ່ສຸດຂອງທຸກຄົນ. ໄມເກີເບິ່ງສປລິນເຕີ, ກະຕ່າຕາຍ. ການຕີ. ຫຼັງຈາກນັ້ນກັບຄືນໄປບ່ອນຊ່ອງທາງທີ່ປ່ຽນໄປ. ລາວຢຸດໃນໂຄງການຂ່າວ -"NYC DIRT".
 
 91
 00:07:39,200 --> 00:07:45,200
@@ -620,7 +624,7 @@ Mikey, the man's practically a criminal himself. Anyone who operates without bou
 00:08:05,200 --> 00:08:11,200
 [RAPHAEL]
 Sounds like four turtles I used ta know. ON DOOR - Raphael walks in, his Nightwatcher costume no where in sight.
-ຄຸເຂົ່າລົງ
+ມັນສຽງຄືກັບກະຕ່າສີ່ໂຕທີ່ຂ້ອຍເຄີຍຮູ້. ຢູ່ປະຕູ - ຣາຟາເລຍເຂົ້າມາ, ເຄື່ອງນຸ່ງຫົ່ມ Nightwatcher ຂອງລາວບໍ່ມີບ່ອນເຫັນ.
 
 96
 00:08:11,700 --> 00:08:16,250
@@ -949,7 +953,8 @@ Busted! Have fun with your mommy...  ...oh no. OFF HIS LOOK - We see APRIL, dres
 00:12:10,500 --> 00:12:16,500
 [ASEY]
 Aw, c'mon April! We just started! April just gives him "the look" with an eyebrow cock. Casey knows he can't win.
-ຄຸເຂົ່າລົງ
+ໂອ້, ມາເມສາ! ພວກເຮົາຫາກໍ່ເລີ່ມຕົ້ນ! ເມສາພຽງແຕ່ໃຫ້ລາວ"ເບິ່ງ"
+ດ້ວຍກະຕ່າຕາ. ຄາຊີຮູ້ວ່າລາວບໍ່ສາມາດຊະນະໄດ້.
 
 146
 00:12:17,000 --> 00:12:21,550
@@ -994,7 +999,8 @@ Do you need my funtahstick muscles?
 00:12:41,250 --> 00:12:47,250
 [APRIL]
 Heh-heh... yeah. Casey awkwardly places his arm over her shoulder as the cam rests and they walk into the distance. He pulls it back down. CAM ANGLES ON WALL - As we notice CLAW MARKS sliced into the concrete exterior of a building.
-ຄຸເຂົ່າລົງ
+ເຮ້ - ເຮ້... ແມ່ນແລ້ວ. ຄາຊີສ໌ວາງແຂນຂອງລາວຢູ່ເທິງກະຕ່າຂອງນາງໃນຂະນະທີ່ກ້ອງຖ່າຍຮູບພັກຜ່ອນແລະພວກເຂົາຍ່າງເຂົ້າໄປໃນໄລຍະຫ່າງໄກ.
+ລາວດຶງມັນລົງຄືນໄປບ່ອນ. ແມວ CAM ຢູ່ເທິງກໍາແພງ - ໃນຂະນະທີ່ພວກເຮົາສັງເກດເຫັນເຄື່ອງຫມາຍແມວຖືກຕັດເຂົ້າໄປໃນພາຍນອກຄອນກີດຂອງອາຄານ.
 
 153
 00:12:47,750 --> 00:12:49,850
@@ -1038,7 +1044,7 @@ Yeah-ha! The fourth General.
 00:13:10,850 --> 00:13:12,850
 [APRIL]
 The crow-bar.
-ຄຸເຂົ່າລົງ
+ແຖບກະຕ່າ.
 
 160
 00:13:13,350 --> 00:13:19,350
@@ -1403,7 +1409,8 @@ Good news is that there are a buncha Foot Ninja gettin' the snot kicked out of `
 00:17:24,950 --> 00:17:30,950
 [ICHAELANGELO]
 Bad news is WHAT's kickin' the snot out of `em... ON TURTLES - As they've all now crept up to the dark corner of the floor. A FOOT NINJA gets clobbered and sails past them, and off the building.
-ຄຸເຂົ່າລົງ
+ຂ່າວບໍ່ດີແມ່ນສິ່ງທີ່ ກໍາ ລັງຕີສູບອອກຈາກພວກມັນ... ກ່ຽວກັບກະຕູ້ກະຕ່າກະຕ່າຍກະຕຸ້ນກະຕູ້ນັ້ນ - ໃນຂະນະທີ່ພວກເຂົາທັງ
+ຫມົດ ດຽວນີ້ໄດ້ຍ່າງຂຶ້ນໄປຫາແຄມມືດຂອງພື້ນ. ນິນຈາຕີນຖືກຂັບຂີ່ແລະເດີນເຮືອຜ່ານພວກມັນ, ແລະອອກຈາກອາຄານ.
 
 216
 00:17:31,450 --> 00:17:37,450
@@ -1430,7 +1437,8 @@ Nah. We kick butt. Raph jumps forward! Leo rolls his eyes, as all the Turtles ju
 00:17:50,950 --> 00:17:56,950
 [EONARDO]
 Who are YOU?! ON KARAI - She pauses a moment. They exchange expert katana attacks. Stalemate. She gestures to the Foot as they use this opportunity for their escape. As they leap away, Karai looks back at the Turtles...
-ຄຸເຂົ່າລົງ
+ເຈົ້າເປັນໃຜ?! ໃນ KARAAI - ນາງຢຸດຊົ່ວຄາວຫນຶ່ງ. ພວກເຂົາແລກປ່ຽນການໂຈມຕີ katana ຜູ້ຊ່ຽວຊານ. ສະຖາບັນ.
+ນາງສະແດງອອກໄປຫາຕີນໃນຂະນະທີ່ພວກເຂົາໃຊ້ໂອກາດນີ້ເພື່ອການຫນີຂອງພວກເຂົາ. ໃນຂະນະທີ່ພວກເຂົາໂດດໄປ, ຄາຣາຍເບິ່ງກັບຄືນໄປບ່ອນກະຕ່າ...
 
 220
 00:17:57,450 --> 00:18:03,450
@@ -1443,7 +1451,7 @@ Nice of ya's ta join me. But the Turtles eventually get cornered. And just as th
 00:18:03,950 --> 00:18:07,450
 [YEEEAAAAARGGHHH!!!!!]
 The creature stops. Confused. So are the other three turtles.
-ຄຸເຂົ່າລົງ
+ສິ່ງມີຊີວິດຢຸດເຊົາ. ຫຸ້ນວາຍ. ເຊັ່ນດຽວກັນກັບກະຕ່າອີກສາມຄົນ.
 
 222
 00:18:07,950 --> 00:18:13,550
@@ -1456,7 +1464,8 @@ What? I saw it on a nature show once. The creature SCREAMS BACK! Boys freak out.
 00:18:14,050 --> 00:18:20,050
 [AAAAAAGGHHHHH!!!!!]
 NGLE ABOVE TURTLES - As a large teetering pallet filled with dried cement and blocks to come CRASHING DOWN ON THEM! The Turtles are buried under the rubble. RUH? - The Creature is confused... until it's hit with a blinding light, and then an EXPLOSION - FWOOM! We hear heavy footsteps thumping through the light. Shapes start to form until we see... ...LIVING VERSIONS OF THE FOUR STONE GENERALS! Sporting HIGH TECH GEAR - a mix of tech with ancient magic scrawlings. Their bodies "glow" with a red inner life, seeping through their stone cracks and piercing eyes. The Generals are all ANIMAL-THEMED - Mute and powerful Ape- themed costume , Eagle Leader , agile Jaguar  and the deadly snake-like female . Large. Imposing. Completely bad-ass. The Creature ROARS and FIGHTS to no avail...
-ຄຸເຂົ່າລົງ
+ແມວຢູ່ເທິງກະທູ້ - ໃນຖານະເປັນກະຕູ້ກະຕ່າກະຕຸ້ນທີ່ໃຫຍ່ທີ່ເຕັມໄປດ້ວຍຊີມັງແຫ້ງແລະບລັອກທີ່ຈະມາຕົກລົງໃສ່ພວກເຂົາ! ກະທູ້ຖືກຝັງໄວ້ພາຍໃຕ້ສິ່ງເສດເຫຼືອ. RUH? - ສິ່ງມີຊີວິດສັບສົນ...
+ຈົນກວ່າມັນຖືກຕີດ້ວຍແສງສະຫວ່າງທີ່ເຮັດໃຫ້ຕາບອດ, ແລະຫຼັງຈາກນັ້ນການລະເບີດ - ຟູມ! ພວກເຮົາໄດ້ຍິນບາດກ້າວທີ່ ຫນັກ ແຫນ້ນ ທີ່ຕີຜ່ານແສງ ສະຫວ່າງ. ຮູບຮ່າງເລີ່ມຕົ້ນສ້າງຕັ້ງຈົນກວ່າພວກເຮົາຈະເຫັນ
 
 224
 00:18:20,550 --> 00:18:26,550
@@ -1503,7 +1512,7 @@ Winters smirks, looking at the mouse who thinks he can take the lion. He reaches
 00:18:55,650 --> 00:19:01,650
 [MONEY BRICK.]
 INTERS  So, your job duties were just redefined. Congratulations on your promotion. SHINK! - Karai pulls out her To and slices the brick in mid- air. Winters STOPS and looks back over his shoulder.
-ຄຸເຂົ່າລົງ
+INTERS ສະນັ້ນ, ຫນ້າ ທີ່ວຽກງານຂອງທ່ານຫາກໍ່ຖືກ ກໍາ ນົດຄືນໃຫມ່. ຂໍສະແດງຄວາມຍິນດີຕໍ່ການສົ່ງເສີມຂອງທ່ານ. SHINK! - ຄາຣີດຶງນາງອອກໄປແລະຕັດ brick ໃນກາງອາກາດ. ລະດູຫນາວຢຸດແລະເບິ່ງກັບຄືນໄປບ່ອນຜ່ານກະຕ່າຂອງລາວ.
 
 231
 00:19:02,150 --> 00:19:08,150
@@ -1617,7 +1626,8 @@ Dudes-can-it-here-comes-Splinter. ON DOOR - Splinter walks in, HUMMING to himsel
 00:20:16,350 --> 00:20:22,350
 [TURTLES]
 Morning, sensei. Splinter makes himself a TEA. Room is SILENT. ON TURTLES - Raph and Leo GLARE at one another while they eat. Don is pouring over a THICK BOOK while Mikey sits with his forehead on the table.
-ຄຸເຂົ່າລົງ
+ຕອນເຊົ້າ, sensei. Splinter ເຮັດຕົວເອງເປັນຊາ. ຫ້ອງແມ່ນງຽບສະຫງົບ. ກ່ຽວກັບກະຕ່າ - Raph ແລະ Leo GLARE
+ຕໍ່ກັນແລະກັນໃນຂະນະທີ່ພວກເຂົາກິນ. ດອນ ກໍາ ລັງຖອກໃສ່ປື້ມທີ່ຫນາແຫນ້ນໃນຂະນະທີ່ໄມເກີນັ່ງກັບຫນ້າເອິກຂອງລາວຢູ່ເທິງໂຕະ.
 
 249
 00:20:22,850 --> 00:20:24,850
@@ -1950,7 +1960,8 @@ I think we lost it.
 00:24:15,300 --> 00:24:21,300
 [RAPHAEL]
 It's gotta be around here somewhere. SCREEEEECH!!! - A large VAMPIRE-LIKE CREATURE flies up from the alley below and spreads its 30-foot wings!
-ຄຸເຂົ່າລົງ
+ມັນຕ້ອງຢູ່ບ່ອນໃດບ່ອນນີ້. ScreeEECH!!! -
+ສັດທີ່ໃຫຍ່ຄືກັບແວມປີຂຶ້ນຈາກຖະຫນົນທາງລຸ່ມແລະແຜ່ກະຈາຍກະຕ່າຂອງ 30 ຟຸດ!
 
 301
 00:24:21,800 --> 00:24:27,800
@@ -2502,7 +2513,8 @@ Pfft. Figgers. ລາວຫັນໄປອອກຈາກຫາດຊາຍ.
 00:31:05,500 --> 00:31:11,500
 [TREASURE HUNTER]
 Lousy metal detector. "Happy Anniversary" present, my big fat keister. He HURLS the can of sardines over his shoulder. Only, instead of hearing a tiny SPLASH from it hitting the water... we hear a snarling CRUNCH and TINNY-CHEWING. The man stops in his tracks. He turns his head around. CLOSE ON - Man's face, eyes wide in shock. Cam pulls back, slowing just as the crown of a GNARLY SKULL crests the bottom of the screen. PTOOEY! - The tin "key" is spit back onto the sand. He bolts.
-ຄຸເຂົ່າລົງ
+ເຄື່ອງກວດໂລຫະທີ່ໂຊກຮ້າຍ."ວັນຄົບຮອບທີ່ດີ" ຂອງຂວັນ, ກະຕ່າໄຂມັນໃຫຍ່ຂອງຂ້ອຍ. ລາວເອົາກະຕ່າຂອງສາດິນສ໌ຢູ່ເທິງຫາງຂອງລາວ. ພຽງແຕ່, ແທນທີ່ຈະໄດ້ຍິນການສີດຂະຫນາດນ້ອຍຈາກມັນທີ່ຕີນ້
+ໍາ... ພວກເຮົາໄດ້ຍິນກະຕຸ້ນກະທູ້ແລະກະຕູ້ນ້ອຍໆ. ຜູ້ຊາຍຢຸດຢູ່ໃນເສັ້ນທາງຂອງລາວ. ລາວຫັນຫົວຢູ່ອ້ອມຂ້າງ. ໃກ້ກັບ - ໃບຫນ້າຂອງຜູ້ຊາຍ, ຕາກວ້າງຂວາງໃນຄວາມສັ່ນສະເທືອນ. ຄາມ
 
 385
 00:31:12,000 --> 00:31:16,200
@@ -2980,7 +2992,7 @@ I'm working on it. Raph grips his sais with renewed strength. Casey looks around
 00:37:02,100 --> 00:37:08,100
 [RAPHAEL]
 We get ready for round two. ON CASEY IN CORNER - He reaches into his back, takes out a hockey stick and - SMASH!!! - kills a LOBBY VASE. Suddenly, sirens blare as the OUTSIDE BUILDING SECURITY SHUTTERS SLAM DOWN just like in Act I! The Ninjas are locked out!
-ຄຸເຂົ່າລົງ
+ພວກເຮົາກຽມພ້ອມ ສໍາ ລັບຮອບທີສອງ. ໃນກໍລະນີໃນແຄມ - ລາວຍືດເຂົ້າໄປໃນຫຼັງຂອງລາວ, ເອົາກະດານໂຮກເກີອອກແລະ - SMASH!!! - ຂ້າກະຕ່າໂລບີ. ທັນທີ, ໄຊເຣນສຽງໄຫວ້ໃນຂະນະທີ່ປິດຄວາມປອດໄພຂອງອາຄານພາຍນອກລົງຄືກັບໃນບົດທີ I! ນິນຈາຖືກລັອກອອກ!
 
 457
 00:37:08,600 --> 00:37:11,750
@@ -3017,7 +3029,8 @@ And that would be the swirling vortex to another world, I assume.
 00:37:28,450 --> 00:37:34,050
 [MICHAELANGELO]
 Leo! Is that you? RAARRGH! - A claw swoops out. He dodges out of the way.
-ຄຸເຂົ່າລົງ
+ເລໂກ້! ນັ້ນແມ່ນເຈົ້າບໍ? RAARRGH!
+- ກະຕ່າກະຕ່າອອກມາ. ລາວຫຼີກຈາກທາງ.
 
 463
 00:37:34,550 --> 00:37:39,100
@@ -3204,7 +3217,7 @@ My soldiers will find the thirteenth monster. And you will bring it back here. H
 00:40:03,950 --> 00:40:09,950
 [CASEY]
 I got shotgun! BACK ON GENERALS - They move toward Winters! The Turtles quickly look at one another. Know what they have to do. They all leap in the way, standing between Winters and his backstabbing Generals. Aguila moves forward to Leo. Raph steps in beside him, defiant. Then Mikey. Then Don.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍມີປືນປືນ! ກັບຄືນໄປບ່ອນພົນຈັດຕະວາ - ພວກເຂົາເຄື່ອນຍ້າຍໄປສູ່ລະດູຫນາວ! ກະຕ່າກະທູ້ກະຕຸ້ນກະຕ້າກະຕູ້ກະດູກກະຕ່າຍກະຕູ້ນັກກະຕືລືລືກະຕູ້. ຮູ້ວ່າພວກເຂົາຕ້ອງເຮັດຫຍັງ. ພວກເຂົາທັງ ຫມົດ ກະໂດດທາງ, ຢືນຢູ່ລະຫວ່າງລະດູ ຫນາວ ແລະ ນາຍພົນທີ່ຖືກດັງຫຼັງຂອງລາວ. ອາຈີລາຍ້າຍຕໍ່ໄປຫາເລໂກ້. ຣາຟເຂົ້າຂ້າງລາວ, ທ້າທາຍ. ຫຼັງຈາກນັ້ນໄ
 
 491
 00:40:10,450 --> 00:40:16,450
@@ -3291,13 +3304,14 @@ Wow. You're... hard core. ON CREATURE - A Foot Ninja stands next to the lifeless
 00:41:19,450 --> 00:41:25,450
 [CASEY]
 Incoming! ON VAN - As they open the doors to act as shields as - THUNKA THUNK THUNK - darts stick in the door! ON CREATURE - He's now standing... and dying to chase something. It GROWLS/SCREAMS as they all pile into the van! Casey immediately throws it in reverse and starts peeling back on the pier, barely staying out of the clutches of the creature smashing the pier in front of them. Get to the end and spin the vehicle around.
-ຄຸເຂົ່າລົງ
+ເຂົ້າມາ! ໃນລົດບັນທຸກ - ໃນຂະນະທີ່ພວກເຂົາເປີດປະຕູເພື່ອປະຕິບັດເປັນກະຕ່າເປັນ - THUNKA THUNK THunK - ກະຕ່າຕິດຢູ່ໃນປະຕູ! ໃນສິ່ງມີຊີວິດ - ລາວດຽວນີ້ຢືນຢູ່... ແລະຕາຍເພື່ອລ່າຫຼັງບາງສິ່ງບາງຢ່າງ. ມັນເຕີບໃຫຍ່ / ຮ້ອງໄຫ້ໃນຂະນະທີ່ພວກເຂົາທັງ ຫມົດ ເຕົ້າໂຮມເຂົ້າໄປໃນລົດບັນຈຸ! ຄາຊີສ໌ທັນທີຖິ້ມມັນໃນທາງກົງກັນຂ້າມແລະເລີ່ມຕົ້ນ peeling ກັບຄືນໄປບ່ອນເທິງທ່າເຮືອ, ພຽງແຕ່ຢູ່ພາຍນອກຈາກ
 
 504
 00:41:25,950 --> 00:41:31,950
 [FAST! GO FAST NOW!!!]
 Casey guns it, the 12-foot creature mere inches away! STARS IN SKY - Karai sees the stars are slowly moving out of alignment. Losing time fast. BACK IN LOBBY - CRANE DOWN on Winters and Splinter. On the last full cell. ON PORTAL - A pair of LARGE EYES are threatening to come out. In the BG, dozens of winged DEMONS fly around inside.
-ຄຸເຂົ່າລົງ
+ຄາຊີສ໌ຍິງມັນ, ສິ່ງມີຊີວິດ 12 ຟຸດພຽງແຕ່ຫ່າງໄກ! ດາວໃນສະຫວັນ - ຄາຣີເຫັນດາວ ກໍາ ລັງເຄື່ອນຍ້າຍອອກຈາກການສອດຄ່ອງຢ່າງຊ້າໆ. ການສູນເສຍເວລາຢ່າງໄວວາ. ກັບຄືນໄປບ່ອນໃນໂລບີ
+- ຄຣານລົງໃນລະດູຫນາວແລະ Splinter. ໃນຈຸລັງເຕັມສຸດທ້າຍ. ໃນປະຕູ - ສອງຕາໃຫຍ່ ກໍາ ລັງຂົ່ມຂູ່ທີ່ຈະອອກມາ. ໃນ BG, ຫຼາຍສິບວິນຍານທີ່ມີກະຕ່າບິນຢູ່ພາຍໃນ.
 
 505
 00:41:32,450 --> 00:41:34,900
@@ -3335,7 +3349,8 @@ What are you doing in here?!
 00:41:55,000 --> 00:42:01,000
 [CASEY]
 Ran outta food. They all look out the back window as the creature pounds closer and closer... BACK IN LOBBY - The Turtles and Generals are at a standstill. Turtles all get thrown into a pile between the Generals.
-ຄຸເຂົ່າລົງ
+ພວກເຂົາຫມົດອາຫານແລ້ວ. ພວກເຂົາທັງ ຫມົດ ເບິ່ງອອກຈາກປ່ອງຢ້ຽມຫຼັງໃນຂະນະທີ່ສັດລ້ຽງ pound ໃກ້ຊິດແລະໃກ້ຊິດ...
+ກັບຄືນໄປບ່ອນໃນໂລບີ - ກະຕ່າກະຕ່າແລະພົນຈັດຕະວາຢູ່ໃນການຢຸດເຊົາ. ກະທ່າກະດານທັງ ຫມົດ ຖືກຖິ້ມເຂົ້າໄປໃນກະຕູ້ລະຫວ່າງຜູ້ຈັດການ.
 
 511
 00:42:01,500 --> 00:42:07,500
@@ -3355,7 +3370,8 @@ Teamwork. The more you know... Don clocks Mikey behind the head.
 00:42:12,350 --> 00:42:18,350
 [LEONARDO]
 Why Raph, no solo act tonight? Raph grins. They stand, backs to back... finally as a TEAM. They trust one another, and their efficiency shows. ON PORTAL - More tentacles begin to come out. More claws surround the surface edges. ON TMNT - The music swells. The brothers act and think as one. The way they should. They way they will from now on. ON SPLINTER - As cam PUSHES IN, he stands up. Seeing his sons. As one. As BROTHERS. He smiles.
-ຄຸເຂົ່າລົງ
+ເປັນຫຍັງຣາຟ, ບໍ່ມີການສະແດງຄົນດຽວໃນຄືນນີ້? ຣາຟມ່ວນຊື່ນ. ພວກເຂົາຢືນຢູ່, ກັບຄືນໄປບ່ອນ... ສຸດທ້າຍເປັນທີມງານ. ພວກເຂົາເຊື່ອຖືກັນແລະກັນ, ແລະປະສິດທິພາບຂອງພວກເຂົາສະແດງໃຫ້ເຫັນ.
+ໃນໂປຣຕານ - ກະຕ່າຫຼາຍໆກະຕ່າເລີ່ມອອກມາ. ແຄມແຄມພື້ນຜິວຫຼາຍຂຶ້ນ. ໃນ TMNT - ດົນຕີຟື້ນຟູ. ອ້າຍນ້ອງປະຕິບັດແລະຄິດເປັນຄົນດຽວ. ວິທີທີ່ພວກເຂົາຄວນ. ພວກເຂົາຈະເຮັດຈາກປັດຈຸບັນນີ້. ໃນແຊກແມ -
 
 514
 00:42:18,850 --> 00:42:21,650
@@ -3379,19 +3395,21 @@ Affirmative.
 00:42:27,150 --> 00:42:33,150
 [MICHAELANGELO]
 Roger dodger, dude. The   TMNT launch into their FINAL ATTACK - perfectly in synch and   take out each of the Generals, knocking them back into the   PORTAL! They're plucked out of mid-air by cloudy tendrils and   pulled back! The Turtles collapse onto the floor, back to the portal. Silent. Splinter runs over to them.
-ຄຸເຂົ່າລົງ
+ໂຣເຈີ ດອດເກີ, ຜູ້ຊາຍ. ການເປີດຕົວ TMNT ເຂົ້າໃນການໂຈມຕີສຸດທ້າຍຂອງພວກເຂົາ - ສົມທົບກັນຢ່າງສົມບູນແບບແລະເອົາພົນລະເມືອງແຕ່ລະຄົນອອກ, ເຮັດໃຫ້ພວກເຂົາກັບຄືນໄປບ່ອນໃນ
+PORTAL ໄດ້! ພວກເຂົາຖືກດຶງອອກຈາກກາງອາກາດໂດຍແຄມແຄບແລະດຶງກັບມາ! ກະຕ່າຕົກລົງລົງໃສ່ພື້ນ, ກັບຄືນໄປສູ່ປະຕູ. ງຽບ. Splinter ແລ່ນໄປຫາພວກເຂົາ.
 
 518
 00:42:33,650 --> 00:42:39,650
 [GENERAL AGUILA]
 Silly children. We are immortals made of stone! The Earth has only BEGUN to feel our wrath! The brothers are screwed. They can't stop the Generals. Until- BEHIND TURTLES - Glowing headlights grow larger. Closer. As - KERSMASH!!! The Van flies through the lobby, musical chime and all, being trailed by the Creature! April clips a corner as the vehicle spins out of the path. he Creature tries to stop, but can't on the marble floor. It falls, sliding, clicking its claws trying to stop!
-ຄຸເຂົ່າລົງ
+ພວກເດັກນ້ອຍໂງ່. ພວກເຮົາເປັນຄົນບໍ່ຕາຍທີ່ເຮັດດ້ວຍຫີນ! ໂລກພຽງແຕ່ເລີ່ມຕົ້ນທີ່ຈະຮູ້ສຶກຄວາມໂຊກຮ້າຍຂອງພວກເຮົາ! ອ້າຍນ້ອງຈົບແນ່. ພວກເຂົາບໍ່ສາມາດຢຸດການພົນຈັດຕະວາໄດ້. ຈົນກວ່າ - ຢູ່ເບື້ອງຫຼັງກະຕ່າ
+- ແສງສະຫວ່າງທາງຫນ້າທີ່ສົດໃສເຕີບໃຫຍ່ຂຶ້ນ. ໃກ້ຊິດ. ໃນຂະນະທີ່ - KERSMASH!!! ລົດບັນທຸກບິນຜ່ານໂລບີ, ສຽງດົນຕີແລະທັງ ຫມົດ, ຖືກຕິດຕາມໂດຍສິ່ງມີຊີວິດ! ເມສາຕັດມຸມໃນຂະນະທີ່ຍານພາຫະນະ
 
 519
 00:42:40,150 --> 00:42:46,150
 [LOOK OUT!]
 Winters dives in and pushes the Turtles out of way as the Creature flies in and knocks the Generals back into the Portal! The Cloud Tendrils grab a hold of it and pull it back into the Portal! ON STARS - The Stars move out of alignment, ending the cycle. ON PORTAL - It begins to close. The Generals struggle to get out, only now, we see they are HUMAN... their curse broken... and an eternity of pain and suffering ahead of them.
-ຄຸເຂົ່າລົງ
+ລະດູຫນາວຖ້ວມເຂົ້າໄປໃນແລະຊຸກຍູ້ກະຕ່າອອກທາງໃນຂະນະທີ່ສິ່ງມີຊີວິດບິນເຂົ້າມາແລະຕີພົນຈັດຕະວາກັບຄືນໄປບ່ອນ Portal! Cloud Tendrils ຈັບມັນແລະດຶງມັນກັບຄືນໄປໃນ Portal ໄດ້! ON STARS - ດາວເຄື່ອນຍ້າຍອອກຈາກການສອດຄ່ອງ, ສິ້ນສຸດວົງຈອນ. ON PORTAL - ມັນເລີ່ມຕົ້ນປິດ. ນາຍພົນຕໍ່ສູ້ເພື່ອອອກໄປ, ພຽງແຕ່ດຽວນີ້, ພວກເຮົາເຫັນວ່າພວກເຂົາເປັນມະນຸດ... ຄໍາ ສາບານຂອງພວກເຂົາຖືກແຕກ... ແລະຄວາມເຈັບປວດແລະຄວາມທຸກທ
 
 520
 00:42:46,650 --> 00:42:50,150
@@ -3464,7 +3482,7 @@ I've known OF you for some time.  Savor your victory tonight. For soon we will h
 00:43:38,900 --> 00:43:44,900
 [KARAI]
 The kind that involves familiar faces from your past... ON TURTLES - They all look at each other.
-ຄຸເຂົ່າລົງ
+ປະເພດທີ່ກ່ຽວຂ້ອງກັບໃບຫນ້າທີ່ຮູ້ຈັກຈາກອະດີດຂອງທ່ານ... ກ່ຽວກັບກະຕ່າກະທູ້ - ພວກເຂົາທຸກຄົນເບິ່ງກັນແລະກັນ.
 
 531
 00:43:45,400 --> 00:43:51,400
@@ -3490,7 +3508,7 @@ I'm never usually that happy to be bleeding.
 00:44:01,700 --> 00:44:07,700
 [DONATELLO]
 You would be if you were an immortal who couldn't bleed for three thousand years... Winters looks at all the Turtles.
-ຄຸເຂົ່າລົງ
+ເຈົ້າຈະເປັນຖ້າເຈົ້າເປັນຄົນບໍ່ຕາຍທີ່ບໍ່ສາມາດເລືອດໄດ້ເປັນເວລາສາມພັນປີ... ລະດູຫນາວເບິ່ງກະຕ່າທັງ ຫມົດ.
 
 535
 00:44:08,200 --> 00:44:10,200

@@ -1447,7 +1447,7 @@ But why?... What if it starts to rain?
 00:15:19,700 --> 00:15:22,500
 [CORRADO]
 If it rains, I'll buy myself an umbrella.
-ຄຸເຂົ່າລົງ
+ຖ້າຝົນຕົກ, ຂ້ອຍຈະຊື້ກະຕ່າຕົວເອງ.
 
 233
 00:15:23,000 --> 00:15:27,900
@@ -1869,7 +1869,7 @@ What is it?
 00:19:55,200 --> 00:20:00,100
 [FROGMAN]
 An ancient vase. There's a buried city under here. It's full of this stuff.
-ຄຸເຂົ່າລົງ
+ກະຕ່າບູຮານ. ມີເມືອງທີ່ຝັງໄວ້ຢູ່ລຸ່ມນີ້. ມັນເຕັມໄປດ້ວຍສິ່ງນີ້.
 
 300
 00:20:00,600 --> 00:20:04,100
@@ -3738,7 +3738,7 @@ We're searching for a girl of about twenty-five... Seems she boarded this bus tw
 00:41:25,400 --> 00:41:29,950
 [DRIVER]
 She was a little nervous... dark-haired ... with a kerchief around her head?
-ຄຸເຂົ່າລົງ
+ນາງກັງວົນເລັກນ້ອຍ... ມີຜົມສີດໍາ... ມີກະຕ່າຫໍ່ຢູ່ອ້ອມຫົວຂອງນາງບໍ?
 
 592
 00:41:30,450 --> 00:41:36,450

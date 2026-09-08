@@ -401,7 +401,7 @@ But how do they relate to the exhibit?
 00:04:51,500 --> 00:04:57,500
 [OLIVER]
 They're just personal photos. They're not art. Hal slowly moves the flashlight up the wall, across the ceiling to a strange assortment of fire detectors, sprinklers, sensors, all laid out against the acoustic tile ceiling. Hal points up. Oliver looks for a beat, then...
-ຄຸເຂົ່າລົງ
+ພວກເຂົາພຽງແຕ່ເປັນຮູບພາບສ່ວນຕົວເທົ່ານັ້ນ. ພວກເຂົາບໍ່ແມ່ນສິລະປະ. ຮາລຍ້າຍແສງໄຟຂຶ້ນກໍາແພງຊ້າໆ, ຂ້າມຊັ້ນເທິງໄປຫາຊຸດທີ່ແປກໃຈຂອງເຄື່ອງກວດໄຟ, ເຄື່ອງສີດນ້ ໍາ, ເຄື່ອງເຊັນເຊີ, ທັງ ຫມົດ ຖືກວາງໄວ້ຕໍ່ກັບຊັ້ນເທິງກະຕ່າສຽງດັງ. ແຮລຊີ້ໃຫ້ເຫັນ. ໂອລິເວີຊອກຫາການຕີ, ຫຼັງຈາກນັ້ນ...
 
 64
 00:04:58,000 --> 00:05:00,450
@@ -620,7 +620,7 @@ Oliver and Arthur sit in a chair next to a couch where a man dressed as a witch,
 00:07:23,550 --> 00:07:29,550
 [LONG-HAIRED MAN]
 Well, I didn't ask for this. Who would ask for this? This color. This nose. This cheek, this chin. You know, this is my life. This isn't a story. This isn't a joke... Oliver is playing along, but he's really not emotionally ready for this party. He feels very far away.
-ຄຸເຂົ່າລົງ
+ດີ, ຂ້ອຍບໍ່ໄດ້ຖາມສິ່ງນີ້. ໃຜຈະຂໍສິ່ງນີ້? ສີນີ້. ດັງນີ້. ຫນ້າ ກາກນີ້, ກະຕ່ານີ້. ເຈົ້າຮູ້ແລ້ວ, ນີ້ແມ່ນຊີວິດຂອງຂ້ອຍ. ນີ້ແມ່ນບໍ່ແມ່ນເລື່ອງລາວ. ນີ້ບໍ່ແມ່ນຢອກຊື່ໆ... ໂອລິເວີ ກໍາ ລັງຫຼິ້ນຮ່ວມກັນ, ແຕ່ລາວບໍ່ພ້ອມທາງຈິດໃຈ ສໍາ ລັບງານລ້ຽງນີ້ແທ້ໆ. ລາວຮູ້ສຶກຢູ່ຫ່າງໄກຫຼາຍ.
 
 98
 00:07:30,050 --> 00:07:32,050
@@ -717,7 +717,7 @@ No.
 00:08:39,000 --> 00:08:45,000
 [COSTUME)]
 And look, you see what happens when you free yourself from the cage, walk away from the factory.
-ຄຸເຂົ່າລົງ
+ແລະເບິ່ງ, ເຈົ້າເຫັນວ່າເກີດຫຍັງຂຶ້ນເມື່ອເຈົ້າປ່ອຍຕົວເອງອອກຈາກກະຕ່າ, ຍ່າງອອກຈາກໂຮງງານຜະລິດ.
 
 113
 00:08:45,500 --> 00:08:47,600
@@ -1079,7 +1079,7 @@ And after?... She makes a casual tossing motion with her hand.
 00:12:33,250 --> 00:12:39,250
 [OLIVER]
 Just somewhere else. Where? Anna only shrugs. She writes more, and tosses the notepad on his lap. Oliver reads: "Can I see you again?" He's very happy.
-ຄຸເຂົ່າລົງ
+ພຽງແຕ່ຢູ່ບ່ອນອື່ນ. ຢູ່ໃສ? ແອນນາພຽງແຕ່ຍືດຫຍຸ່ນ. ນາງຂຽນຫຼາຍຂຶ້ນ, ແລະຖິ້ມກະດານບັນທຶກໃສ່ກະຕ່າຂອງລາວ. ໂອລິເວີອ່ານວ່າ:"ຂ້ອຍສາມາດເຫັນເຈົ້າອີກຄັ້ງບໍ?" ລາວມີຄວາມສຸກຫຼາຍ.
 
 170
 00:12:39,750 --> 00:12:41,750
@@ -1835,7 +1835,7 @@ How do you know so much about people?
 00:20:41,400 --> 00:20:47,400
 [ANNA]
 Oh. Well, you have to learn how to read their faces. She climbs onto his lap, straddles him.
-ຄຸເຂົ່າລົງ
+ໂອ້. ດີ, ເຈົ້າຕ້ອງຮຽນຮູ້ວິທີອ່ານໃບຫນ້າຂອງພວກເຂົາ. ນາງຂຶ້ນເທິງກະຕ່າຂອງລາວ, ຍ່າງລາວ.
 
 289
 00:20:47,900 --> 00:20:53,150
@@ -2030,7 +2030,8 @@ Jesus yourself.
 00:22:41,600 --> 00:22:47,600
 [HAL]
 Hello house  Hello Hal. Andy holds Arthur. Hal and Arthur kiss. They've clearly missed each other. JUMP CUTS: Oliver takes bottles of pills and syrups and inhalers out of a Sav-On bag. He makes a chart of the medicine, the dosage, and puts the pills in a dish. It's emotional job for him.
-ຄຸເຂົ່າລົງ
+ສະບາຍດີເຮືອນສະບາຍດີແຮລ. ແອນດີ້ຖືແອດເຕີ. ແຮລ ແລະ ແອດເຕີຈູບກັນ. ພວກເຂົາໄດ້ຂາດກັນຢ່າງຈະແຈ້ງ. ການຕັດກະໂດດ:
+ໂອລິເວີເອົາຂວດຢາເມັດແລະຊີຣັບແລະເຄື່ອງສູບໃຈອອກຈາກຖົງການຊ່ວຍເຫຼືອ. ລາວເຮັດຕາຕະລາງຂອງຢາ, ປະລິມານ, ແລະເອົາຢາເມົາໃສ່ກະຕ່າ. ມັນເປັນວຽກງານທາງຈິດໃຈ ສໍາ ລັບລາວ.
 
 320
 00:22:48,100 --> 00:22:50,900
@@ -2718,7 +2719,8 @@ Okay, I'll clean it up. It's a little - yech. Andy walks out, Hal pours water in
 00:30:35,550 --> 00:30:40,100
 [HAL]
 Your mother's vase needs some flowers. Oliver looks at them frustrated and uneasy...
-ຄຸເຂົ່າລົງ
+ກະຕ່າຂອງແມ່ຂອງທ່ານຕ້ອງການດອກໄມ້ບາງຢ່າງ.
+ໂອລິເວີເບິ່ງພວກມັນໂຊກຮ້າຍແລະບໍ່ສະບາຍໃຈ...
 
 427
 00:30:40,600 --> 00:30:45,150
@@ -2967,7 +2969,7 @@ Just as it was going so well.
 00:33:20,450 --> 00:33:26,450
 [ANNA]
 I know. I'm sorry. She tosses a pillow over his face and pretends to shoot him twice. She pulls the pillow back tentatively, he's smiling.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍຂໍໂທດ. ນາງຖິ້ມກະຕູ້ໃສ່ໃບຫນ້າຂອງລາວແລະປອມວ່າຍິງລາວສອງຄັ້ງ. ນາງດຶງກະຕ່າກັບຄືນໄປບ່ອນຢ່າງພະຍາຍາມ, ລາວມ່ວນຊື່ນ.
 
 466
 00:33:26,950 --> 00:33:28,950
@@ -3364,7 +3366,7 @@ Wait, wait. She forces him to stay there.
 00:37:43,550 --> 00:37:49,550
 [ANNA]
 I don't want to stop. They hold this pose in silence for a beat, then, surprisingly, he hoists her over his shoulder, and carries her back to their room. She laughs, they've made it past this trouble.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍບໍ່ຢາກຢຸດ. ພວກເຂົາຖືໂພສນີ້ຢ່າງງຽບສະຫງົບ ສໍາ ລັບການຕີ, ຫຼັງຈາກນັ້ນ, ແປກໃຈ, ລາວຍົກນາງຂຶ້ນເທິງກະຕ່າຂອງລາວ, ແລະພານາງກັບຄືນໄປບ່ອນຫ້ອງຂອງພວກເຂົາ. ນາງມ່ວນຊື່ນ, ພວກເຂົາໄດ້ຜ່ານຄວາມຫຍຸ້ງຍາກນີ້ແລ້ວ.
 
 529
 00:37:50,050 --> 00:37:56,050
@@ -3710,7 +3712,8 @@ Next one.
 00:41:50,300 --> 00:41:56,300
 [HAL]
 Lord. With each swallow he pings a glass with a fork. Hal opens a letter from a gay rights organization, he hands Oliver the rainbow sticker we just saw.
-ຄຸເຂົ່າລົງ
+ພຣະຜູ້ເປັນເຈົ້າ.
+ດ້ວຍການດື່ມແຕ່ລະຄັ້ງລາວປິນແກ້ວດ້ວຍກະດານກະຕູ້ກະຕຸ້ນກະຕ່າກະຕ່າຍກະຕ້າກະຕູກກະຕຸກກະຕວກກະຕາກກະຕອກກະຕໍ້ກະຕຶກກະຕູ້ນກະຕຸນກະຕຸງກະຕົງກະຕູນກະຕວງກະຕັນກະຕະນກະຕວນກະຕອງກະຕ່ານກະຕ້ານກະຕ້ນກະຕໍານກະຕ
 
 583
 00:41:56,800 --> 00:41:58,800
@@ -3893,19 +3896,21 @@ On November 27th, 1978. Harvey Milk was shot and killed.
 00:43:49,350 --> 00:43:55,350
 [OLIVER]
 One week later, my father opened his annual Museum Christmas Exhibit. He collected stuffed animals from people in the community, and put them on display. My father printed a quote from The Velveteen Rabbit in large type on the wall...
-ຄຸເຂົ່າລົງ
+ຫນຶ່ງ ອາທິດຕໍ່ມາ, ພໍ່ຂອງຂ້ອຍໄດ້ເປີດງານວາງສະແດງຄຣິດສະມາດຂອງຫໍພິພິທະພັນປະຈໍາປີຂອງລາວ. ລາວໄດ້ເກັບສັດທີ່ເຕັມໄປດ້ວຍຈາກຄົນໃນຊຸມຊົນ, ແລະວາງພວກມັນໃນການສະແດງ. ພໍ່ຂອງຂ້ອຍພິມ ຄໍາ ເວົ້າຈາກກະຕ່າ Velveteen ໃນຕົວພິມໃຫຍ່ໃສ່ກໍາແພງ...
 
 612
 00:43:55,850 --> 00:44:01,850
 [OLIVER V.O.]
 ...`The stuffed rabbit asked - What is real? And the Horse said, "Real isn't how you're made. It's a thing that happens to you. When a child loves you for a long long time not just to play with, but really loves then you become real...
-ຄຸເຂົ່າລົງ
+... ` ກະຕ່າທີ່ເຕັມໄປດ້ວຍຖາມວ່າ - ຄວາມເປັນຈິງແມ່ນຫຍັງ? ແລະມ້າເວົ້າວ່າ,"ຄວາມເປັນຈິງບໍ່ແມ່ນວິທີທີ່ທ່ານຖືກສ້າງຂຶ້ນ.
+ມັນເປັນສິ່ງບາງຢ່າງທີ່ເກີດຂຶ້ນກັບເຈົ້າ. ເມື່ອເດັກນ້ອຍຮັກເຈົ້າເປັນເວລາດົນນານບໍ່ພຽງແຕ່ເພື່ອຫຼິ້ນກັບ, ແຕ່ຮັກແທ້ໆຫຼັງຈາກນັ້ນເຈົ້າກາຍເປັນຄວາມຈິງ...
 
 613
 00:44:02,350 --> 00:44:08,350
 [OLVIER]
 ...And the rabbit asked, 'Does it hurt?' And the horse said, 'Sometimes.' 'Does it happen all at once like being wound up, or bit by bit?'...
-ຄຸເຂົ່າລົງ
+ແລະກະຕ່າຖາມວ່າ, ມັນເຈັບປວດບໍ? ແລະມ້າຕອບວ່າ, ບາງຄັ້ງ. ມັນເກີດຂຶ້ນທັງ
+ຫມົດ ໃນເວລາດຽວກັນຄືກັບການໂຊກຮ້າຍ, ຫຼືບາງຢ່າງຕໍ່ບາງຢ່າງບໍ?...
 
 614
 00:44:08,850 --> 00:44:14,100
@@ -4399,7 +4404,8 @@ Outside my window...
 00:49:27,650 --> 00:49:33,650
 [ANNA]
 That's my closet. Those are my clothes and my pictures. There is a single rack holding up some clothes. Her pictures are taped to the wall. Oliver sits on her bed.
-ຄຸເຂົ່າລົງ
+ນັ້ນແມ່ນກະຕູ້ຂອງຂ້ອຍ. ນັ້ນແມ່ນເຄື່ອງນຸ່ງຫົ່ມຂອງຂ້ອຍແລະຮູບພາບຂອງຂ້ອຍ.
+ມີກະຕ່າດຽວທີ່ຖືບາງເສື້ອຜ້າ. ຮູບພາບຂອງນາງຖືກຕິດໃສ່ກໍາແພງ. ໂອລິເວີນັ່ງຢູ່ເທິງຕຽງຂອງນາງ.
 
 692
 00:49:34,150 --> 00:49:39,750

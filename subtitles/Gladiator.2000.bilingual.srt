@@ -1603,13 +1603,14 @@ If you don't eat you will die.
 00:16:47,450 --> 00:16:53,450
 [JUBA]
 In the village I come from there was a man once.  He went fishing one day and his boat was attacked by crocodiles.  One of them ate his leg.  He pulled himself to the shore and a lion attacked him.  It ate one of his arms.  He dragged himself through the desert on the way home and a scorpion stung his eye.  So he only had one eye.  When he reached the village I sat with him.  I said, "You have lost a leg, an arm and one eye.  You must have a mighty will to live."  He said, "No, Lord, it's just better than the alternative."
-ຄຸເຂົ່າລົງ
+ໃນບ້ານທີ່ຂ້ອຍມາຈາກນັ້ນມີຜູ້ຊາຍຄົນຫນຶ່ງຄັ້ງ. ລາວໄດ້ໄປຫາປາມື້ຫນຶ່ງແລະເຮືອຂອງລາວຖືກໂຈມຕີໂດຍກະຕ່າແມວ. ຫນຶ່ງໃນພວກມັນໄດ້ກິນຕີນຂອງລາວ. ລາວດຶງຕົວເອງໄປຫາແຄມຝັ່ງແລະຊ້າງໄດ້ໂຈມ ຕີລາວ.
+ມັນໄດ້ກິນແຂນ ຫນຶ່ງ ຂອງລາວ. ລາວລາກຕົວເອງຜ່ານທະເລຊາຍໃນທາງກັບບ້ານແລະ scorpion ໄດ້ກັດຕາຂອງລາວ. ສະນັ້ນລາວມີພຽງແຕ່ຕາດຽວ. ເມື່ອລາວຮອດບ້ານຂ້ອຍນັ່ງກັບລາວ. ຂ້ອຍເວົ້າວ່າ,"ເຈົ້າໄດ້ສູນເສຍຕີນ, ແຂ
 
 257
 00:16:53,950 --> 00:16:59,950
 [JUBA]
 Life is a gift from our fathers to us.  Who are you to give it up for lack of lifting a spoon?
-ຄຸເຂົ່າລົງ
+ຊີວິດແມ່ນຂອງຂວັນຈາກພໍ່ແມ່ຂອງພວກເຮົາໃຫ້ພວກເຮົາ. ເຈົ້າເປັນໃຜທີ່ຈະຖິ້ມມັນເພື່ອຂາດການຍົກກະຕ່າ?
 
 258
 00:17:00,450 --> 00:17:06,450
@@ -2114,7 +2115,8 @@ He give it personally?
 00:22:28,700 --> 00:22:34,700
 [PROXIMO]
 He did to me...  Our great father Marcus Aurelius looked into my eyes and touched me on the shoulder.
-ຄຸເຂົ່າລົງ
+ລາວເຮັດກັບຂ້ອຍ... ພໍ່ໃຫຍ່ຂອງພວກເຮົາມາຣັກສ໌
+ອູເຣລີອັສ ໄດ້ເບິ່ງຕາຂອງຂ້ອຍແລະຈັບຂ້ອຍໃສ່ກະຕ່າ.
 
 337
 00:22:35,200 --> 00:22:37,200
@@ -2126,7 +2128,7 @@ You knew Marcus?
 00:22:37,700 --> 00:22:43,300
 [PROXIMO]
 I didn't know him.  He touched me on the shoulder.  Just once.  But that was enough.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍບໍ່ຮູ້ຈັກລາວ. ລາວຈັບຂ້ອຍຢູ່ກະຕ່າ. ພຽງແຕ່ຄັ້ງດຽວ. ແຕ່ມັນພຽງພໍ.
 
 339
 00:22:43,800 --> 00:22:49,800
@@ -3015,7 +3017,7 @@ So the crown passes to your son.
 00:31:51,500 --> 00:31:57,500
 [LUCILLA]
 No.  So that my son will be safe. So that we may leave this charnel house forever and never look back. Look into my eyes, Maximus, and believe what I say to you...
-ຄຸເຂົ່າລົງ
+ບໍ່. ເພື່ອວ່າລູກຊາຍຂອງຂ້ອຍຈະປອດໄພ. ເພື່ອໃຫ້ພວກເຮົາສາມາດອອກຈາກເຮືອນກະຕ່ານີ້ຕະຫຼອດໄປແລະບໍ່ເຄີຍເບິ່ງຫຼັງ. ເບິ່ງໃນຕາຂອງຂ້ອຍ, ແມັກຊິມັສ, ແລະເຊື່ອສິ່ງທີ່ຂ້ອຍບອກເຈົ້າ...
 
 480
 00:31:58,000 --> 00:32:04,000

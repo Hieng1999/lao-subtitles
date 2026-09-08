@@ -465,7 +465,7 @@ The storms and the worms. Is it true, that the sand can blow at seven hundred ki
 00:05:04,150 --> 00:05:10,150
 [YUEH]
 It can render flesh to dust in minutes. And these dry winds can generate tremendous static electricity in the atmosphere. Our body shields won't have enough power to operate in the open air on Arrakis.
-ຄຸເຂົ່າລົງ
+ມັນສາມາດເຮັດໃຫ້ຊີ້ນເປັນຝຸ່ນພາຍໃນນາທີ. ແລະລົມແຫ້ງເຫຼົ່ານີ້ສາມາດຜະລິດໄຟຟ້າສະຖຽນລະພາບທີ່ຍິ່ງໃຫຍ່ໃນບັນຍາກາດ. ກະຕ່າຮ່າງກາຍຂອງພວກເຮົາຈະບໍ່ມີພະລັງງານພຽງພໍທີ່ຈະເຮັດວຽກໃນອາກາດເປີດໃນ Arrakis.
 
 75
 00:05:10,650 --> 00:05:13,100
@@ -2036,7 +2036,7 @@ The shield is down!  The shield is down!
 00:22:18,050 --> 00:22:22,950
 [ATREIDES GUARD CAPTAIN]
 Harkonnen...  Get that shield up! -- 119B.     EXT. LANDING FIELD - ARRAKEEN - NIGHT
-ຄຸເຂົ່າລົງ
+ຮາກອນເນນ... ເອົາກະຕ່ານັ້ນຂຶ້ນ! - 119B. ອອກ. ສະຫນາມລົງຈອດ - ARRAKEEN - ຄືນ
 
 321
 00:22:23,450 --> 00:22:25,450
@@ -3183,13 +3183,14 @@ Who is this Muad'dib?
 00:33:59,850 --> 00:34:05,850
 [STILGAR]
 Usul... It is time you become a sandrider... and travel as a Fremen.  Take the kiswa maker hook of our sietch and ride as a leader of men.
-ຄຸເຂົ່າລົງ
+ອູຊູລ... ມັນເຖິງເວລາແລ້ວທີ່ເຈົ້າຈະກາຍເປັນນັກຂີ່ຊາຍ... ແລະເດີນທາງເປັນຄົນຟຣເມນ. ເອົາກະຕ່າຜູ້ຜະລິດ kiswa ຂອງ sietch ຂອງພວກເຮົາແລະຂີ່ເປັນຜູ້ນໍາຂອງຜູ້ຊາຍ.
 
 504
 00:34:06,350 --> 00:34:12,350
 [STILGAR]
 Two thumpers are planted.  The worm may not surface for the first - he will rise for the second.  Remember, when the worm approaches, you must be utterly still... and close enough to plant the hook firmly under a ring segment....  The worm will turn to lift this exposed area as far from the abrasive sand as possible and it will take you with it -- to the top.  Do not get too close as he approaches... the sand will engulf you....  Wait till the head of the worm passes -- then go... quickly.
-ຄຸເຂົ່າລົງ
+ເຄື່ອງດົນຕີສອງເຄື່ອງຖືກປູກ. ແມງໄມ້ອາດຈະບໍ່ຂຶ້ນເທິງພື້ນຜິວ ສໍາ ລັບຄັ້ງ ທໍາ ອິດ - ລາວຈະຂຶ້ນ ສໍາ ລັບທີສອງ. ຈື່ໄວ້ວ່າ, ເມື່ອແມງໄມ້ໃກ້ຊິດ, ເຈົ້າຕ້ອງງຽບສະຫງົບຢ່າງສົມບູນ...
+ແລະໃກ້ພຽງພໍທີ່ຈະປູກກະຕ່າຢ່າງແຂງແຮງພາຍໃຕ້ພາກແມວ.... ແມງຕາຈະຫັນເພື່ອຍົກພື້ນທີ່ທີ່ເປີດເຜີຍນີ້ຢູ່ຫ່າງໄກຈາກດິນຊາຍທີ່ອາດເປັນໄປໄດ້ແລະມັນຈະພາເຈົ້າກັບມັນ - ເຖິງເທິງສຸດ. ຢ່າເຂົ້າໃກ້ເກີນໄປໃນຂະນະທີ່ລາວໃກ້
 
 505
 00:34:12,850 --> 00:34:14,850

@@ -187,7 +187,8 @@ Leave it here.
 00:02:00,350 --> 00:02:03,850
 [MITCHELL]
 Let's keep going.  We're only an hour from Devil's Cauldron.
-ຄຸເຂົ່າລົງ
+ພວກເຮົາສືບຕໍ່ໄປ. ພວກເຮົາຢູ່ຫ່າງຈາກກະຕ່າຂອງຊາຕານພຽງແຕ່
+ຫນຶ່ງ ຊົ່ວໂມງເທົ່ານັ້ນ.
 
 32
 00:02:04,350 --> 00:02:08,200
@@ -530,7 +531,7 @@ Bet you're right.  But I didn't come by to wangle a meal --
 00:05:49,950 --> 00:05:53,800
 [ERIC]
 -- We appreciate the company. Anne Marie's getting cabin fever already.
-ຄຸເຂົ່າລົງ
+- ພວກເຮົາຍ້ອງຍໍບໍລິສັດ. ແອນ ມາຣີ ກໍາ ລັງມີໄຂ້ກະຕ່າແລ້ວ.
 
 87
 00:05:54,300 --> 00:05:56,750
@@ -548,7 +549,8 @@ Mobile Arctic Dwelling -- MAD.
 00:05:59,750 --> 00:06:04,300
 [ANNE MARIE]
 I call it 'the Turtle,' as in carrying your home on your back.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍເອີ້ນມັນວ່າ' ກະຕ່າກະຕ່າ",
+ຄືກັບການຖືເຮືອນຂອງທ່ານຢູ່ເບື້ອງຫຼັງຂອງທ່ານ.
 
 90
 00:06:04,800 --> 00:06:08,650
@@ -909,7 +911,8 @@ Sure.
 00:10:00,200 --> 00:10:05,800
 [NEFF]
 Snowplow, generator, TV dish... hell, we get the goddamn Playboy Channel!  Here, this is for you.
-ຄຸເຂົ່າລົງ
+ເຄື່ອງປັ່ນຫິມະ, ເຄື່ອງຜະລິດໄຟຟ້າ, ກະຕ່າໂທລະພາບ... ສະບາຍດີ,
+ພວກເຮົາໄດ້ຮັບຊ່ອງ Playboy ທີ່ຮ້າຍແຮງ! ນີ້ແມ່ນ, ນີ້ແມ່ນສໍາລັບເຈົ້າ.
 
 147
 00:10:06,300 --> 00:10:08,300
@@ -1290,7 +1293,7 @@ A daughter in Oregon.
 00:14:06,050 --> 00:14:11,300
 [CORBETT]
 Send him down to her.  There's money in my duffel bag, back at his cabin.
-ຄຸເຂົ່າລົງ
+ສົ່ງລາວລົງໄປຫານາງ. ມີເງິນໃນຖົງກະເປົາກະເປົ໋າຂອງຂ້ອຍ, ກັບຄືນໄປບ່ອນກະຕ່າຂອງລາວ.
 
 207
 00:14:11,800 --> 00:14:13,800
@@ -1532,7 +1535,8 @@ Wait a second.
 00:16:30,250 --> 00:16:35,850
 [ANNE MARIE]
 Maybe you should drive him into Devil's Cauldron, let them decide what to do with him.
-ຄຸເຂົ່າລົງ
+ບາງທີເຈົ້າຄວນຂັບລາວໄປສູ່ກະຕ່າຂອງຊາຕານ,
+ໃຫ້ພວກເຂົາຕັດສິນໃຈວ່າຈະເຮັດຫຍັງກັບລາວ.
 
 246
 00:16:36,350 --> 00:16:39,850
@@ -1727,7 +1731,7 @@ Forget it.
 00:18:40,300 --> 00:18:46,300
 [ERIC]
 Last time I checked the flight plan, we were forty miles northeast of Devil's Cauldron. Southwest is that way.  No sense waiting for a goddamn taxi.
-ຄຸເຂົ່າລົງ
+ໃນຄັ້ງສຸດທ້າຍທີ່ຂ້ອຍກວດເບິ່ງແຜນການບິນ, ພວກເຮົາຢູ່ສີ່ສິບແມລທາງທິດຕາເວັນອອກສຽງເຫນືອຈາກກະຕ່າຂອງຊາຕານ. ພາກໃຕ້ຕາເວັນຕົກແມ່ນທາງນັ້ນ. ບໍ່ມີຄວາມ ຫມາຍ ໃນການລໍຖ້າແທັກຊີ.
 
 277
 00:18:46,800 --> 00:18:50,650
@@ -1777,7 +1781,8 @@ Even in the drifts, this snow's too powdery to make a shelter. When you're done 
 00:19:17,900 --> 00:19:23,900
 [CORBETT]
 Still quite a hike to Devil's Cauldron.  Days.  A long stretch to go without sleep, my friend.  You can hide behind that pistol for now, but take your eyes off me long enough to sneeze --
-ຄຸເຂົ່າລົງ
+ຍັງເປັນການຍ່າງໄປຫາກະຕ່າຂອງຊາຕານຫຼາຍມື້. ການຍ່າງຍາວນານທີ່ຈະໄປໂດຍບໍ່ມີນອນ, ເພື່ອນຂອງຂ້ອຍ.
+ເຈົ້າສາມາດເຊື່ອງຢູ່ເບື້ອງຫຼັງປືນນັ້ນໃນເວລານີ້, ແຕ່ເອົາຕາຂອງທ່ານອອກຈາກຂ້ອຍດົນພໍທີ່ຈະສັ່ນສະເທືອນ -
 
 285
 00:19:24,400 --> 00:19:26,400
@@ -1795,7 +1800,8 @@ Ice is too thin -- you can see the water moving underneath.
 00:19:31,600 --> 00:19:37,600
 [ERIC]
 We're not sitting here 'til November.  There's a cargo plane coming to Devil's Cauldron in four days, and I'm putting you on it.
-ຄຸເຂົ່າລົງ
+ພວກເຮົາບໍ່ໄດ້ນັ່ງຢູ່ນີ້ຈົນຮອດເດືອນພະຈິກ. ມີເຮືອບິນຂົນສົ່ງ ກໍາ
+ລັງມາຮອດກະຕ່າຂອງຊາຕານໃນສີ່ມື້, ແລະຂ້ອຍ ກໍາ ລັງເອົາເຈົ້າໃສ່ມັນ.
 
 288
 00:19:38,100 --> 00:19:41,950
@@ -2073,7 +2079,7 @@ It's a three-hour flight.  They shoulda got there yesterday.
 00:22:35,850 --> 00:22:38,300
 [LEMALLE]
 Maybe they went back to Devil's Cauldron.
-ຄຸເຂົ່າລົງ
+ບາງທີພວກເຂົາໄດ້ກັບຄືນໄປບ່ອນກະຕ່າຂອງຊາຕານ.
 
 332
 00:22:38,800 --> 00:22:41,600
@@ -2246,7 +2252,7 @@ SNAPS ແລະເປີດ, ປ່ອຍສາຍນໍ້າລະບາຍນ
 00:24:36,150 --> 00:24:39,300
 [CORBETT]
 There's a cabin, maybe twenty miles south of here.
-ຄຸເຂົ່າລົງ
+ມີກະຕ່າ, ບາງທີສິບແມລທາງທິດໃຕ້ຈາກບ່ອນນີ້.
 
 359
 00:24:39,800 --> 00:24:41,800
@@ -2651,7 +2657,7 @@ You don't know how true that is.
 00:28:55,350 --> 00:28:58,500
 [ERIC]
 We'll wait here until nightfall. No fire, no tarp.
-ຄຸເຂົ່າລົງ
+ພວກເຮົາຈະລໍຖ້າຢູ່ນີ້ຈົນຮອດຕອນບ່າຍ. ບໍ່ມີໄຟ, ບໍ່ມີກະຕ່າ.
 
 424
 00:28:59,000 --> 00:29:03,200
@@ -3027,7 +3033,7 @@ Shit...  Do what you have to.  So will I.
 00:33:10,900 --> 00:33:12,900
 [LEMALLE]
 Northwest.  Devil's Cauldron.
-ຄຸເຂົ່າລົງ
+ທາງທິດຕາເວັນຕົກສຽງເຫນືອ. ກະຕ່າຂອງຊາຕານ.
 
 483
 00:33:13,400 --> 00:33:15,400
@@ -3109,7 +3115,7 @@ Pretty clever:  If the trappers got that signal beacon and get here in time, Sam
 00:34:02,300 --> 00:34:07,550
 [KENAI]
 -- Forget it.  And try not to bleed on my throw rugs.  Why do this?
-ຄຸເຂົ່າລົງ
+- ລືມມັນ. ແລະພະຍາຍາມບໍ່ເລືອດໃສ່ກະຕ່າຖິ້ມຂອງຂ້ອຍ. ເປັນຫຍັງຂ້ອຍຈຶ່ງເຮັດສິ່ງນີ້?
 
 496
 00:34:08,050 --> 00:34:10,850
@@ -3197,7 +3203,7 @@ I'm staying.
 00:34:56,800 --> 00:34:59,600
 [ERIC]
 Take the snowmobile, park it behind Wilder's cabin.
-ຄຸເຂົ່າລົງ
+ເອົາລົດຫິມະ, ຈອດມັນຢູ່ເບື້ອງຫຼັງກະຕ່າຂອງວາຍລເດີ.
 
 510
 00:35:00,100 --> 00:35:05,350
@@ -3537,7 +3543,7 @@ Doesn't matter.  We know where they're going.  C'mon.
 00:38:37,800 --> 00:38:40,250
 [ANNE MARIE]
 One is moving back toward the cabins.
-ຄຸເຂົ່າລົງ
+ຄົນຫນຶ່ງ ກໍາ ລັງຍ້າຍກັບຄືນໄປບ່ອນໄປຫາກະຕ່າ.
 
 564
 00:38:40,750 --> 00:38:43,200

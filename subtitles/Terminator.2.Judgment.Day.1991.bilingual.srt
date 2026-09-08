@@ -35,7 +35,7 @@ I can't let you take the man's wheels, son. Now get off or I'll put you down.
 00:00:34,450 --> 00:00:39,350
 [WOMAN]
 ...John?  John!  Get in here right now and clean up that pigsty of yours.
-ຄຸເຂົ່າລົງ
+ຈອນ? ຈອນ! ເຂົ້າມາບ່ອນນີ້ທັນທີແລະເຮັດຄວາມສະອາດກະຕ່າຫມູຂອງທ່ານ.
 
 7
 00:00:39,850 --> 00:00:42,300
@@ -98,7 +98,7 @@ The next patient is a 29-year old female diagnosed as acute schizo-affective dis
 00:01:16,250 --> 00:01:18,700
 [SARAH]
 Good morning, Dr. Silberman.  How's the knee?
-ຄຸເຂົ່າລົງ
+ສະບາຍດີ, ດຣ ຊີລເບີແມນ. ກະຕ່າເປັນແນວໃດ?
 
 17
 00:01:19,200 --> 00:01:24,800
@@ -450,7 +450,7 @@ And what it that?
 00:04:58,650 --> 00:05:04,650
 [SARAH]
 You said I could be transferred to the minimum security wing and have visitors if I showed improvement in six months.  Well, it's been six months, and I was looking forward to seeing my son.
-ຄຸເຂົ່າລົງ
+ເຈົ້າບອກວ່າຂ້ອຍສາມາດຖືກໂອນໄປຫາກະຕ່າຄວາມປອດໄພຕໍ່າສຸດແລະມີແຂກຖ້າຂ້ອຍສະແດງໃຫ້ເຫັນການປັບປຸງໃນຫົກເດືອນ. ດີ, ມັນໄດ້ຫົກ ເດືອນແລ້ວ, ແລະຂ້ອຍ ກໍາ ລັງລໍຖ້າທີ່ຈະເຫັນລູກຊາຍຂອງຂ້ອຍ.
 
 73
 00:05:05,150 --> 00:05:11,150
@@ -770,7 +770,8 @@ Janelle?  It's me.
 00:08:29,650 --> 00:08:35,250
 [JANELLE]
 John?  Where are you, honey?  It's late.  You should come home, dear.  I'm making a casserole.
-ຄຸເຂົ່າລົງ
+ຈອນ? ເຈົ້າຢູ່ໃສແມ? ມັນຊ້າແລ້ວ.
+ເຈົ້າຄວນກັບບ້ານແມ. ຂ້ອຍ ກໍາ ລັງເຮັດກະຕ່າ.
 
 123
 00:08:35,750 --> 00:08:37,850
@@ -2839,7 +2840,7 @@ Radio remote.
 00:29:22,000 --> 00:29:24,100
 [JOHN]
 I got it.  Piece of cake.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍເຮັດແລ້ວ. ກະຕ່າກະຕ່າ.
 
 452
 00:29:24,600 --> 00:29:26,600

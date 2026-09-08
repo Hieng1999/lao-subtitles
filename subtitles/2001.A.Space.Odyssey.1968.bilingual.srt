@@ -2473,7 +2473,7 @@ Well, now that we've got one that's actually failed, we should be able to figure
 00:27:04,500 --> 00:27:09,400
 [POOLE]
 There's something wrong with the flip-bolts, Dave. You must have tightened them too much.
-ຄຸເຂົ່າລົງ
+ມີບາງສິ່ງບາງຢ່າງຜິດພາດກັບກະດານກະຕູ້ກະຕ່າກະຕ່າຍກະຕຸ້ນກະຕູ້ນະ, ເດວ. ເຈົ້າຕ້ອງໄດ້ເຂັ້ມງວດພວກມັນເກີນໄປ.
 
 392
 00:27:09,900 --> 00:27:14,450

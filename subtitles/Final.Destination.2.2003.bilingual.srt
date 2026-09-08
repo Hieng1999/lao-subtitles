@@ -1840,7 +1840,8 @@ You have to tell us now.
 00:19:45,800 --> 00:19:51,050
 [I...I...]
 Clear shakes her head by the shoulders and barks commands like an angry drill sergeant.
-ຄຸເຂົ່າລົງ
+ສະອາດສັ່ນຫົວຂອງນາງໂດຍກະຕ່າແລະ barks ຄໍາ
+ສັ່ງຄືກັບພົນຈັດຕະວາການຝຶກອົບຮົມທີ່ໂຊກຮ້າຍ.
 
 294
 00:19:51,550 --> 00:19:57,550
@@ -3976,7 +3977,8 @@ You know, you still never explained to us how you did it.
 00:42:04,150 --> 00:42:10,150
 [THOMAS]
 Well, technically when we died, we gave Death what it wanted. And by the time we were revived, it had already moved on to graver pastures.
-ຄຸເຂົ່າລົງ
+ດີ, ທາງດ້ານເຕັກນິກເມື່ອພວກເຮົາຕາຍ, ພວກເຮົາໃຫ້ຄວາມຕາຍສິ່ງທີ່ມັນຕ້ອງການ.
+ແລະໃນເວລາທີ່ພວກເຮົາຖືກຟື້ນຟູຄືນ, ມັນໄດ້ຍ້າຍໄປສູ່ກະຕ່າທີ່ຮ້າຍແຮງກວ່າເກົ່າແລ້ວ.
 
 635
 00:42:10,650 --> 00:42:13,100

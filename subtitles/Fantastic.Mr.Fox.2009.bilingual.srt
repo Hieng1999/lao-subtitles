@@ -21,7 +21,7 @@ Nothing. Supposedly, it's just a twenty- four hour bug. He gave me some pills.
 00:00:20,400 --> 00:00:26,400
 [FOX]
 I told you. You probably just ate some bad gristle. Fox brushes the fur on Mrs. Fox's ears with his paws. They walk together along the crest of the hill to a fork in the path. Fox points:
-ຄຸເຂົ່າລົງ
+ຂ້ອຍບອກເຈົ້າແລ້ວ. ເຈົ້າອາດຈະຫາກໍ່ກິນກ້ອນກ້ອນທີ່ບໍ່ດີ. ຟອກສ໌ລ້າງຜົມໃສ່ຫູຂອງທ່ານນາງຟຸກສ໌ດ້ວຍຕີນຂອງລາວ. ພວກເຂົາຍ່າງຮ່ວມກັນຕາມຈຸດສູງສຸດຂອງພູໄປຫາກະຕ່າທາງ. ຟຸກສີ້ໃຫ້ເຫັນວ່າ:
 
 5
 00:00:26,900 --> 00:00:30,400
@@ -51,7 +51,7 @@ OK, let's take the scenic route.
 00:00:39,300 --> 00:00:45,300
 [FOX]
 Great. It's actually slightly quicker, anyway. Fox throws his apple core away over his shoulder and dances a quick circle around Mrs. Fox, wrapping his arm around her waist extravagantly and making her laugh as they start off down the scenic route.
-ຄຸເຂົ່າລົງ
+ດີເລີດ. ມັນໄວກວ່າເລັກນ້ອຍ, ຢ່າງໃດກໍຕາມ. ຟອກສ໌ຖິ້ມຫົວໃຈແອບເປີກຂອງລາວໄປເທິງກະຕ່າຂອງລາວແລະເຕັ້ນວົງຈອນໄວອ້ອມຂ້າງທ່ານນາງຟຸກສ໌, ການຫຸ້ມຫໍ່ແຂນຂອງລາວຢູ່ອ້ອມແອວຂອງນາງຢ່າງສວຍງາມແລະເຮັດໃຫ້ນາງມ່ວນຊື່ນໃນຂະນະທີ່ພວກເຂົາເລີ່ມຕົ້ນລົງເສັ້ນທາງທີ່ສວຍໃສ.
 
 10
 00:00:45,800 --> 00:00:47,800
@@ -82,7 +82,8 @@ Well, I guess the horse fence would be a little safer.
 00:01:05,650 --> 00:01:11,650
 [FOX]
 But the bridle path puts us out right next to the squab shack. Mrs. Fox hesitates. She fiddles with her paws. She nods nervously. She shakes slightly. Fox looks at her funny.
-ຄຸເຂົ່າລົງ
+ແຕ່ເສັ້ນທາງກະຕຸ້ນເຮັດໃຫ້ພວກເຮົາອອກຢູ່ຂ້າງກະຕູ້ກະຕ່າກະຕ່າຍກະຕູ້ນະ. ທ່ານນາງຟອກສ໌ລັງເລໃຈ.
+ນາງຫຼິ້ນກັບຕີນຂອງນາງ. ນາງຍືດຫົວດ້ວຍຄວາມກັງວົນ. ນາງສັ່ນສະເທືອນເລັກນ້ອຍ. ຟຸກສ໌ເບິ່ງນາງມ່ວນຊື່ນ.
 
 15
 00:01:12,150 --> 00:01:18,150
@@ -127,7 +128,8 @@ Get away from there.
 00:01:39,900 --> 00:01:45,900
 [FOX]
 Is it spring-loaded? Yeah...  I guess if you come from over there, and you're standing at the door to the squab shack, this little gadget probably triggers the --  Move out of the way, darling. That's right where it's going to land. Mrs. Fox runs back to Fox and tugs at his arm.
-ຄຸເຂົ່າລົງ
+ມັນຖືກໂຫຼດດ້ວຍພາກຮຽນ spring ບໍ? ແມ່ນແລ້ວ... ຂ້ອຍຄິດວ່າຖ້າເຈົ້າມາຈາກບ່ອນນັ້ນ, ແລະເຈົ້າຢືນຢູ່ປະຕູຂອງກະຕ່າກະຕູ້ກະຕຸ້ນ, gadget
+ຂະຫນາດນ້ອຍນີ້ອາດຈະເຮັດໃຫ້ - ອອກຈາກທາງ, ແມ. ນັ້ນແມ່ນບ່ອນທີ່ມັນຈະລົງຈອດ. ທ່ານນາງຟອກສ໌ແລ່ນກັບຄືນໄປບ່ອນຟຸກສ໌ແລະດຶງແຂນຂອງລາວ.
 
 22
 00:01:46,400 --> 00:01:48,500
@@ -178,7 +180,7 @@ Does anybody actually read my column? Do your friends ever talk about it?
 00:02:22,600 --> 00:02:28,600
 [MRS. FOX]
 Of course. In fact, Rabbit's ex- girlfriend just said to me last week, "I should read Foxy's column," but they don't get the Gazette.  Ash! Let's get cracking!
-ຄຸເຂົ່າລົງ
+ແນ່ນອນ. ໃນຄວາມເປັນຈິງ, ເພື່ອນມິດເກົ່າຂອງກະຕ່າພຽງແຕ່ບອກຂ້ອຍໃນອາທິດທີ່ຜ່ານມາ,"ຂ້ອຍຄວນອ່ານຄໍລໍາຂອງຟອກຊີ," ແຕ່ພວກເຂົາບໍ່ໄດ້ຮັບ Gazette ໄດ້. ອາສ໌! ມາແຕກ!
 
 30
 00:02:29,100 --> 00:02:31,200
@@ -236,7 +238,7 @@ I love the way you handled that. Mrs. Fox looks at Fox sideways. She says loudly
 00:03:05,150 --> 00:03:11,150
 [MRS. FOX]
 Your cousin Kristofferson's coming first thing tomorrow morning. I want you to be extra nice to him, because he's going through a very hard time right now, OK? Ash comes back out of his bedroom. He now wears a white cardigan and white socks with his white pants tucked into them. He says aggressively:
-ຄຸເຂົ່າລົງ
+ລູກອ້າຍນ້ອງຂອງທ່ານ ຄຣິດສະຕັອບເຟສັນຈະມາໃນຕອນເຊົ້າມື້ອື່ນ. ຂ້ອຍຢາກໃຫ້ເຈົ້າເປັນຄົນດີຫຼາຍຕໍ່ລາວ, ເພາະວ່າລາວ ກໍາ ລັງຜ່ານເວລາທີ່ຫຍຸ້ງຍາກຫຼາຍໃນເວລານີ້, ດີບໍ? ອາສ໌ກັບມາຈາກຫ້ອງນອນຂອງລາວ. ດຽວນີ້ລາວໃສ່ກະຕູ້ສີຂາວແລະ socks ສີຂາວທີ່ມີກະຕ່າຂາວທີ່ເຊື່ອງໄວ້ໃນພວກມັນ. ລາວເວົ້າຢ່າງຮຸນແຮງວ່າ:
 
 39
 00:03:11,650 --> 00:03:13,650
@@ -470,25 +472,28 @@ wax ແລະຊິ້ນສ່ວນຂອງ gum chewing ແລະແມງໄ
 00:06:20,400 --> 00:06:26,400
 [BADGER]
 Nathan Bunce is a duck and goosefarmer. He owns about 2 million ducksand 500,000 geese. You might say he's kind ofa pot- bellied dwarf of some kind.
-ຄຸເຂົ່າລົງ
+ນາຕັນ ບັນສ໌ເປັນກະສິກອນແບັກແລະແມງໄມ້. ລາວເປັນເຈົ້າຂອງແບກປະມານ 2 ລ້ານຄົນແລະແມວ
+500,000 ຄົນ. ເຈົ້າອາດຈະເວົ້າວ່າລາວເປັນປະເພດຂອງໂຊກແຊງທີ່ມີກະຕ່າບາງຊະນິດ.
 
 74
 00:06:26,900 --> 00:06:32,900
 [BADGER]
 He's so short his chin would probably be under water in the shallow end of any swimming pool on the planet.
-ຄຸເຂົ່າລົງ
+ລາວສັ້ນຫຼາຍ ກະຕ່າຂອງລາວອາດຈະຢູ່ພາຍໃຕ້ນ້ ໍາ
+ໃນຈຸດສິ້ນສຸດທີ່ເລິກຂອງສະລອຍນ້ ໍາ ໃດໆໃນໂລກ.
 
 75
 00:06:33,400 --> 00:06:37,250
 [BADGER]
 He eats only doughnuts with smashed-up goose livers injected into them.
-ຄຸເຂົ່າລົງ
+ລາວກິນພຽງແຕ່ໂດນນັດທີ່ມີກະຕຸ້ນກະຕູ້ກະຕ່າຍກະຕ່າກະຕູ້ນ້ອຍທີ່ຖືກສັກໃສ່ພວກມັນເທົ່ານັ້ນ.
 
 76
 00:06:37,750 --> 00:06:43,000
 [BADGER]
 Franklin Bean is a turkey and apple farmer. He keeps his birds in an orchard
-ຄຸເຂົ່າລົງ
+ແຟຣນຄລິນ ບິນເປັນຜູ້ປູກກະຕ່າແລະ ຫມາກ
+ໄມ້. ລາວຮັກສານົກຂອງລາວໃນສວນຫມາກໄມ້
 
 77
 00:06:43,500 --> 00:06:49,500
@@ -586,7 +591,8 @@ Two muskrats in orange moving company uniforms unloads boxes and furniture from 
 00:07:48,000 --> 00:07:54,000
 [INSERT:]
 A binocular shot of an industrial shack with Boggis Chicken House #1 stencilled on the front of it. Fox lowers the binoculars. His eyes sparkle.
-ຄຸເຂົ່າລົງ
+ການຖ່າຍຮູບຂອງກະຕ່າອຸດສາຫະ ກໍາ ດ້ວຍເຮືອນໄກ່ໂບຈິສສ໌ # 1
+ທີ່ຖືກແຕ້ມຮູບຢູ່ທາງຫນ້າຂອງມັນ. ຟອກສ໌ຫຼຸດກະຕູ້. ຕາຂອງລາວສົດໃສ.
 
 92
 00:07:54,500 --> 00:08:00,500
@@ -626,7 +632,7 @@ Hello, everyone! Good afternoon! Fox, Mrs. Fox, and Ash look up, surprised. A se
 00:08:25,550 --> 00:08:31,550
 [FOX]
 Kristofferson! Welcome to our little tree! I see you brought your swimming trunks! Kristofferson steps off the branch and performs a reserved but perfect jack-knife. He enters the water splashlessly. Fox leaps to his feet, applauding with his paws above his head, whistling and hollering:
-ຄຸເຂົ່າລົງ
+ຄຣິດສະຕັອບເຊີສ໌! ຍິນດີຕ້ອນຮັບໃນຕົ້ນໄມ້ນ້ອຍຂອງພວກເຮົາ! ຂ້ອຍເຫັນວ່າເຈົ້າໄດ້ເອົາກະຕ່າລອຍນ້ ໍາ ຂອງເຈົ້າ! ຄຣິສຕັອກເປີສ໌ສ໌ຍ່າງອອກຈາກສາຂາແລະປະຕິບັດມີດຕັດແຈກທີ່ຖືກສະຫງວນໄວ້ແຕ່ສົມບູນແບບ. ລາວເຂົ້າໄປໃນນ້ ໍາ ໂດຍບໍ່ມີການສີດ. ຟອກສ໌ໂດດຂຶ້ນຕີນຂອງລາວ, ຟັກສ໌ດ້ວຍຕີນຢູ່ເທິງຫົວຂອງລາວ, ສີດແລະຮ້ອງໄຫ້ວ່າ:
 
 98
 00:08:32,050 --> 00:08:38,050
@@ -664,7 +670,7 @@ Well, you know, I think I'm an athlete, and sometimes I feel like you guys don't
 00:08:52,650 --> 00:08:58,650
 [FOX]
 What's the sub-text here? Ash thinks for a minute. He looks at Kristofferson in the next room. Kristofferson is now sitting Indian-style on the floor meditating. His paws are turned upward with his thumbs touching his index fingers forming a ring. Ash says loudly to Mrs. Fox in the kitchen:
-ຄຸເຂົ່າລົງ
+ຂໍ້ຄວາມຍ່ອຍຢູ່ບ່ອນນີ້ແມ່ນຫຍັງ? ອາສ໌ຄິດເປັນເວລາ ຫນຶ່ງ ນາທີ. ລາວເບິ່ງຄຣິດສະຕັອບເຟສສັນໃນຫ້ອງຂ້າງນັ້ນ. ຄຣິດສຕ໌ຟສຊັນດຽວນີ້ນັ່ງແບບອິນເດຍຢູ່ເທິງພື້ນໃນການຈິນຕະນາການ. ກະຕ່າຂອງລາວຖືກຫັນຂຶ້ນດ້ວຍນິ້ວມືຂອງລາວ ສໍາ ຜັດມືຊີ້ບອກຂອງລາວສ້າງວົງຈອນ. ອາສສ໌ເວົ້າຢ່າງແຮງຕໍ່ທ່ານນາງຟອກສ໌ໃນເຮືອນຄົວວ່າ:
 
 104
 00:08:59,150 --> 00:09:02,300
@@ -843,7 +849,8 @@ I picked some blueberries, butterflied them with a scalpel, and laced each one w
 00:11:01,500 --> 00:11:07,500
 [INSERT:]
 Fox's paws meticulously sprinkle a powdered mickey into a dissected blueberry and stitch it shut with red thread.
-ຄຸເຂົ່າລົງ
+ກະຕ່າຂອງຟອກສ໌ສີດແມກເກີແປ້ງໃສ່ ຫມາກ
+ໄມ້ບລູເບຣີທີ່ຖືກຕັດອອກແລະຕັດມັນປິດດ້ວຍເສັ້ນແດງ.
 
 132
 00:11:08,000 --> 00:11:10,100
@@ -1017,7 +1024,7 @@ What's the master escape plan? Fox hesitates, confused. A gunshot fires from amo
 00:13:20,400 --> 00:13:26,400
 [FOX]
 Follow me again! Fox and Kylie run back across the barnyard, past the beagles as they begin to wake up and stagger around. Farmhands appear, loading shotguns and running into the confusion. Fox and Kylie race by, unnoticed, among them. They dart into the house through a flap in the back door. The lights are out in the kitchen. They take a moment, breathing hard in the darkness. Kylie shakes his head in disbelief.
-ຄຸເຂົ່າລົງ
+ຕິດຕາມຂ້ອຍອີກຄັ້ງ! ຟອກສ໌ ແລະ ໄຄລີແລ່ນກັບຄືນໄປບ່ອນຂ້າມສວນແບກເກວ, ຜ່ານບີເກວໃນຂະນະທີ່ພວກເຂົາເລີ່ມຕື່ນແລະຍ່າງຢູ່ທົ່ວໄປ. ມືກະສິກໍາປາກົດຕົວ, ການໂຫຼດປືນປືນແລະແລ່ນເຂົ້າໄປໃນຄວາມສັບສົນ. ຟຸກສ໌ແລະໄຄລີ ແລ່ນຜ່ານ, ໂດຍບໍ່ສັງເກດເຫັນ, ໃນບັນດາພວກເຂົາ. ພວກເຂົາຖິ້ມເຂົ້າໄປໃນເຮືອນຜ່ານກະຕ່າໃນປະຕູຫຼັງ. ແສງສະຫວ່າງຢູ່ເຮືອນຄົວ. ພວກເຂົາໃຊ້ເວລາຊົ່ວ
 
 158
 00:13:26,900 --> 00:13:32,500
@@ -1049,7 +1056,7 @@ I have no idea. Fox opens the door-flap a crack. He looks out and sees Boggis op
 00:13:44,500 --> 00:13:50,500
 [FOX]
 Holy cuss! They opened the gate! Follow me again! Lightning quick, Fox and Kylie burst out through the door- flap, race across the barnyard, and dart through the open gate. Up the road, Boggis screams furiously as he runs with his pack of beagles and farmhands. Fox and Kylie fly into the bushes. As they race through the underbrush Fox says
-ຄຸເຂົ່າລົງ
+ໂຊກຮ້າຍສັກສິດ! ພວກເຂົາເປີດປະຕູ! ຕິດຕາມຂ້ອຍອີກຄັ້ງ! ແສງສະຫວ່າງໄວ, ຟອກສ໌ແລະໄຄລີລະເບີດອອກຜ່ານປະຕູ - ກະຕ່າ, ແລ່ນຂ້າມສວນກະຕ່າກະຕູ້ກະຕຸ້ນກະຕ້າກະຕ່າຍກະຕູ້ນີ້, ແລະແລ່ນຜ່ານປ່ອງປະຕູທີ່ເປີດ. ຂຶ້ນທາງ, ໂບຈິສຮ້ອງໄຫ້ຢ່າງໂກດໃນຂະນະທີ່ລາວແລ່ນກັບແບກລ໌ແລະມືປູກຝັງ. ຟຸກສ໌ ແລະ ໄຄລີບິນເຂົ້າໄປໃນ
 
 163
 00:13:51,000 --> 00:13:57,000
@@ -1062,7 +1069,7 @@ wax ເພື່ອວ່າມັນເບິ່ງຄືວ່າພວກເ�
 00:13:57,500 --> 00:14:03,500
 [MONTAGE:]
 A fox's paw lifts a silver dome off a perfectly roasted chicken with an apple in its mouth. Fox and Mrs. Fox sit at a candle-lit table eating chicken and drinking wine. Ash, Kristofferson, and Kylie sit at a slightly miniature table eating chicken and drinking milk. Fox laughs hysterically as he tells his wife a story. Wine comes out of his nose. Fox and Kylie dash out the door of Boggis' Chicken House #7 carrying three more dead chickens. Lights jolt on. Farmhands run out firing shotguns. Fox and Kylie escape through a hole cut into the electric fence. Fox and Kylie dash out the window of Bunce's Poultry Barn C carrying two dead ducks and a goose. Alarms ring. Farmhands run out firing pistols. Fox and Kylie escape through a hole knocked into a brick wall. Fox and Kylie dash out the gates of Bean's Apple Orchard XII carrying two dead turkeys and a basket of apples. Automatic doors close. Farmhands run out firing rifles. Fox and Kylie escape through a hole chopped into a burning barricade. Fox and Kylie run full-speed through a clover field in the dark. The camera zooms in slowly on their faces as they ford a stream, leap a fallen hawthorn, and cross into the willow glade. They look exhilarated.
-ຄຸເຂົ່າລົງ
+ກະຕ່າຂອງແມວຍົກກະຕ່າເງິນຈາກໄກ່ທີ່ຖືກປຸງແຕ່ງຢ່າງສົມບູນແບບດ້ວຍ ຫມາກ ໄມ້ໃນປາກຂອງມັນ. ຟອກສ໌ແລະທ່ານນາງຟຸກສ໌ນັ່ງຢູ່ໂຕະທີ່ສ່ອງແສງແສງສະຫວ່າງກິນໄກ່ແລະດື່ມເຫລົ້າ. ອາສ໌, ຄຣິດສະຕັອບເຊີຊັນ, ແລະໄຄລີນັ່ງຢູ່ໃນໂຕະຂະຫນາດນ້ອຍ ຫນ້ອຍ ກິນໄກ່ແລະການດື່ມນົມ. ແມວມ່ວນຊື່ນໃນຂະນະທີ່ລາວບອກເມຍຂອງລາວເລື່ອງ. ເຫຼົ້າອອກມາຈາກດ
 
 165
 00:14:04,000 --> 00:14:06,000
@@ -1105,7 +1112,8 @@ This? Nothing. Just some old trophy I won for being an athlete. Fox and Mrs. Fox
 00:14:28,550 --> 00:14:34,550
 [FOX]
 I'm supposed to cover this book party at some animal's nest in a tobacco field down the hill, so me and Kylie are going to hop over there and give it a whirl. Don't wait up. Fox pulls his napkin out of his collar, drops it on the table, and stands up. Mrs. Fox asks cooly:
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຄວນປົກຄຸມງານລ້ຽງປື້ມນີ້ຢູ່ຫູຂອງສັດບາງຄົນໃນສວນຢາສູບຢູ່ລຸ່ມພູ, ສະນັ້ນຂ້ອຍແລະໄຄລີຈະໂດດໄປບ່ອນນັ້ນແລະໃຫ້ມັນ
+ຫມູນ ວຽນ. ຢ່າລໍຖ້າຂຶ້ນ. ຟອກສ໌ດຶງກະຕ່າຂອງລາອອກຈາກຄໍຂອງລາວ, ຖິ້ມມັນໃສ່ໂຕະ, ແລະຢືນຂຶ້ນ. ທ່ານນາງຟອກຊ໌ຖາມຢ່າງເຢັນ:
 
 172
 00:14:35,050 --> 00:14:37,050
@@ -1259,7 +1267,7 @@ You've aged badly, Rat.
 00:16:15,950 --> 00:16:21,950
 [RAT]
 You're gettin' a little long in the tooth, yourself, partner. Rat spins around and hurls himself scuttling over a shelf, down the wall, and through the air onto the brick floor at Fox's feet. He flicks open a switchblade and brandishes it. He hisses.
-ຄຸເຂົ່າລົງ
+ເຈົ້າ ກໍາ ລັງກາຍເປັນຍາວບາງຢ່າງໃນແຂ້ວ, ຕົວເອງ, ຄູ່ຮ່ວມງານ. ແມວຫມູນວຽນແລະຖິ້ມຕົວເອງ scuttling ຜ່ານກະຕ່າ, ລົງກໍາແພງ, ແລະຜ່ານອາກາດໃສ່ພື້ນ brick ຢູ່ຕີນຂອງຟອກສ໌. ລາວເປີດກະດານປ່ຽນແລະຍືດມັນ. ລາວ hisses.
 
 196
 00:16:22,450 --> 00:16:28,450
@@ -1278,7 +1286,8 @@ Do you refer to my wife?
 00:16:31,550 --> 00:16:37,550
 [RAT]
 She was the town tart, in her day. Wild and foot-loose and pretty as a mink stole. She was a creme brulee -- until you made an honest woman out of her, Mr. Fox. Kylie says, intrigued, from his hole:
-ຄຸເຂົ່າລົງ
+ນາງເປັນກະຕ່າເມືອງ, ໃນມື້ຂອງນາງ. ກະຕ່າແລະຕີນທີ່ວ່າງແລະສວຍງາມຄືກັບການລັກຂອງ mink. ນາງເປັນ creme
+brulee - ຈົນກວ່າທ່ານເຮັດໃຫ້ແມ່ຍິງຊື່ສັດຈາກນາງ, ທ້າວຟອກສ໌. ໄຄລີເວົ້າວ່າ, ມີຄວາມສົນໃຈ, ຈາກຮູຂອງລາວ:
 
 199
 00:16:38,050 --> 00:16:40,050
@@ -1297,7 +1306,7 @@ Of course, not. I mean, certainly, she lived. We all did. It was a different tim
 00:16:47,050 --> 00:16:49,050
 [KYLIE]
 But town tart?
-ຄຸເຂົ່າລົງ
+ແຕ່ກະຕ່າເມືອງບໍ?
 
 202
 00:16:49,550 --> 00:16:55,550
@@ -1316,7 +1325,8 @@ That was close, Rat. Be careful.
 00:16:58,650 --> 00:17:04,650
 [RAT]
 Oh, I'm as careful as a -- A door at the top of the stairs opens suddenly with a loud creak. Rat and Fox look terrified. They both dart away and hide behind cider jars. A heavy-set, middle-aged housekeeper carrying a rolling pin comes down the stairs and walks straight over to the shelf where Fox is hiding.
-ຄຸເຂົ່າລົງ
+ໂອ້, ຂ້ອຍລະມັດລະວັງຄືກັບ - ປະຕູຢູ່ເທິງຂັ້ນເທິງເປີດຢ່າງກະທັນຫັນດ້ວຍການສັ່ນສະເທືອນຢ່າງແຮງ. ແມວແລະຟອກສ໌ເບິ່ງຄືວ່າຢ້ານກົວ.
+ພວກເຂົາທັງສອງແລ່ນໄປແລະເຊື່ອງຢູ່ເບື້ອງຫຼັງຖັງຊີດເຕີ. ຜູ້ຮັກສາເຮືອນທີ່ມີອາຍຸກາງທີ່ຖືປິນລວດລ້ອມລົງຂັ້ນເທິງແລະຍ່າງໂດຍກົງໄປຫາກະຕ່າບ່ອນທີ່ຟຸກສ໌ເຊື່ອງໄວ້.
 
 205
 00:17:05,150 --> 00:17:10,750
@@ -1423,7 +1433,8 @@ Second truth: the meaning of ambition is defined in the dictionary. Bean jumps a
 00:18:29,300 --> 00:18:35,300
 [BEAN]
 Third truth: the weakness of the ambitious man is his Achilles heel -- Bean quickly shoots out three more light bulbs behind his back, over his shoulder, and between his legs. The porch goes dark. He flicks on a flashlight and points it in his two colleague's faces. They look scared. Bean says urgently:
-ຄຸເຂົ່າລົງ
+ຄວາມຈິງທີສາມ: ຄວາມອ່ອນແອຂອງຜູ້ຊາຍທີ່ມີຄວາມຕັ້ງໃຈແມ່ນກະຕ່າອາຊີເລສຂອງລາວ - ເບນຍິງໄຟອີກສາມແສງໄຟອີກຢ່າງຢ່າງໄວວາຢູ່ເບື້ອງຫຼັງຂອງລາວ, ຢູ່ເທິງກະທູ້ຂອງລາວ,
+ແລະລະຫວ່າງຕີນຂອງລາວ. ໂປຣຊານກາຍເປັນມືດ. ລາວເປີດແສງສະຫວ່າງແລະແນໃສ່ມັນໃນໃບຫນ້າຂອງເພື່ອນຮ່ວມງານຂອງລາວສອງຄົນ. ພວກເຂົາເບິ່ງຄືວ່າຢ້ານກົວ. ເບນເວົ້າວ່າຢ່າງຮີບດ່ວນ:
 
 221
 00:18:35,800 --> 00:18:41,800
@@ -1506,7 +1517,8 @@ We got the tail, but we missed the fox. Pause. Bean takes out his walkie-talkie.
 00:19:27,900 --> 00:19:33,900
 [BEAN]
 Petey? You and the boys sober up and get out here on the A.S.A.P. Bring eleven shovels, three pick-axes, 500 rounds of ammunition, and a bottle of apple cider.
-ຄຸເຂົ່າລົງ
+ເປຕີ້? ເຈົ້າແລະເດັກຊາຍຈິດໃຈແລະອອກມາບ່ອນນີ້ໃນ ASAP.
+ເອົາກະຕ່າສິບຫນຶ່ງ, ກະຕ່າ pick- ສາມ, ລູກປືນ 500 ລູກ, ແລະຈອກຜັກແອບເປີ.
 
 234
 00:19:34,400 --> 00:19:36,400
@@ -1564,7 +1576,8 @@ I got fired slash quit the Gazette and started stealing chickens on the sly.
 00:20:17,000 --> 00:20:23,000
 [MRS. FOX]
 That tail was the first thing I ever noticed about you. It was easily the most attractive tail for at least 50 miles in every direction. It was probably your single best quality -- and now it's gone forever.
-ຄຸເຂົ່າລົງ
+ກະຕ່ານັ້ນແມ່ນສິ່ງ ທໍາ ອິດທີ່ຂ້ອຍສັງເກດເຫັນກ່ຽວກັບເຈົ້າ. ມັນເປັນກະຕ່າທີ່ ຫນ້າ ສົນໃຈທີ່ສຸດຢ່າງງ່າຍດາຍຢ່າງຫນ້ອຍ
+50 ໄມລ໌ໃນທຸກທິດທາງ. ມັນອາດຈະເປັນຄຸນນະພາບທີ່ດີທີ່ສຸດຂອງທ່ານດຽວ - ແລະດຽວນີ້ມັນຫາຍໄປຕະຫຼອດໄປ.
 
 243
 00:20:23,500 --> 00:20:29,500
@@ -1646,13 +1659,15 @@ Why are you yelling at me?
 00:21:11,650 --> 00:21:17,650
 [KYLIE]
 Stop! Stop! Stop! Fox and Mrs. Fox turn quickly to Kylie standing in the doorway with a red blanket wrapped around his shoulders. Ash
-ຄຸເຂົ່າລົງ
+ຢຸດຢັ້ງ! ຢຸດເຊົາ! ຢືນຢັນ! ຟອກສ໌ ແລະ
+ທ່ານນາງຟອກສສ໌ຫັນໄປຫາໄຄລີທີ່ຢືນຢູ່ທາງປະຕູດ້ວຍຜ້າຜ້າສີແດງທີ່ຫຸ້ມຫໍ່ຢູ່ອ້ອມກະຕ່າຂອງລາວ. ອາສ໌
 
 256
 00:21:18,150 --> 00:21:24,150
 [KYLIE]
 You say one thing, she says another, and it all changes back again! The point of a shovel pierces the ceiling. Everyone looks up and stares in shock. Fox suddenly leaps across the room with a wild energy, scrambles halfway up a wall, and throws over two chairs.
-ຄຸເຂົ່າລົງ
+ເຈົ້າເວົ້າສິ່ງຫນຶ່ງ, ນາງເວົ້າອີກຢ່າງຫນຶ່ງ, ແລະມັນທັງ ຫມົດ ປ່ຽນຄືນອີກຄັ້ງ! ຈຸດຂອງກະຕ່າກະທູ້ກະຕຸ້ນກະຕູ້.
+ທຸກຄົນເບິ່ງຂຶ້ນແລະເບິ່ງໃນຄວາມໂຊກຮ້າຍ. ຟອກສ໌ໂດດຂ້າມຫ້ອງດ້ວຍພະລັງງານປ່າໄມ້, ກະຕຸ້ນເຄິ່ງທາງເທິງກໍາແພງ, ແລະຖິ້ມຕັ່ງສອງບ່ອນ.
 
 257
 00:21:24,650 --> 00:21:30,250
@@ -1901,7 +1916,7 @@ I have no further dialogue in this scene. Bean turns away from the reporter and 
 00:24:12,800 --> 00:24:18,800
 [BEAN]
 I'm not going home until we smoke this son-of-a-cuss out his hole, string him up on a clothesline, and fly him like a kite. Boggis, how many men have you got working on your farm?
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຈະບໍ່ກັບບ້ານຈົນກວ່າພວກເຮົາຈະສູບຢາລູກຊາຍຄົນນີ້ອອກຈາກຮູຂອງລາວ, ຈັບລາວໄວ້ເທິງສາຍເຄື່ອງນຸ່ງຫົ່ມ, ແລະບິນລາວຄືກັບກະຕ່າ. ໂບຈິສ, ເຈົ້າມີຜູ້ຊາຍຫຼາຍປານໃດທີ່ເຮັດວຽກຢູ່ຟາມຂອງທ່ານ?
 
 296
 00:24:19,300 --> 00:24:21,300
@@ -2069,7 +2084,7 @@ We're all cussing starving to death because of you, you mangy, cussing, little c
 00:26:17,800 --> 00:26:23,800
 [BADGER]
 We've been digging in circles for three days. Half the woods've been obliterated. Nobody can get out. Right now my wife's huddled at the bottom of the flint-mine with Mrs. Mole, Mrs. Beaver, Rabbit's ex- girlfriend, no food, no water, and twenty- seven hungry, whining, starving, little animal brats. This is a total cluster- cuss for everybody! Fox looks around the room at the entire gaunt, dirty, emaciated assembly. Everyone stares at him angrily. He swallows. The mole says softly.:
-ຄຸເຂົ່າລົງ
+ພວກເຮົາ ກໍາ ລັງຂຸດຄົ້ນໃນວົງຈອນເປັນເວລາສາມມື້ແລ້ວ. ເຄິ່ງຫນຶ່ງຂອງປ່າໄມ້ໄດ້ຖືກລົບລ້າງແລ້ວ. ບໍ່ມີໃຜສາມາດອອກໄປໄດ້. ດຽວນີ້ເມຍຂອງຂ້ອຍຖືກຫຸ້ມຫໍ່ຢູ່ລຸ່ມຂອງແຮ່ທາດຟລິນຕ໌ກັບທ່ານນາງໂມລ, ທ່ານນາງບີເວີ, ເພື່ອນມິດເກົ່າຂອງກະຕ່າ, ບໍ່ມີອາຫານ, ບໍ່ມີນ້ ໍາ, ແລະສິບເຈັດຫິວ, ຮ້ອງໄຫ້, ຫິວສັດນ້ອຍໆ. ນີ້ແມ່ນກຸ່ມທັງ ຫມົດ - ໂຊກຮ້າຍ ສໍາ ລັບທຸກຄົນ! ຟອກສ
 
 322
 00:26:24,300 --> 00:26:27,100
@@ -2108,7 +2123,7 @@ I'm not going to eat mud!
 00:26:48,250 --> 00:26:54,250
 [BEAVER'S SON]
 Cuss, yeah, you are. Beaver's son grabs a handful of mud, smashes it into Ash's mouth, and forces his jaws up and down in a chewing motion. Ash coughs and splutters. Kristofferson frowns. He takes off his shoes with his feet. He says with a quiet ferocity:
-ຄຸເຂົ່າລົງ
+Cuss, ແມ່ນແລ້ວ, ເຈົ້າເປັນ. ລູກຊາຍຂອງ Beaver ຈັບດິນເຜົາບາງຢ່າງ, ທໍາ ລາຍມັນເຂົ້າໄປໃນປາກຂອງອາສ໌, ແລະບັງຄັບໃຫ້ກະຕ່າຂອງລາວຂຶ້ນແລະລົງໃນການເຄື່ອນໄຫວການກັດກັ້ນ. ອາສ໌ຂີ້ເຫຍື້ອແລະ splatters. ຄຣິດສະຕັອບເຟສັນສ໌. ລາວເອົາເກີບຂອງລາວດ້ວຍຕີນຂອງລາວ. ລາວເວົ້າດ້ວຍຄວາມຮຸນແຮງທີ່ງຽບສະຫງົບ:
 
 328
 00:26:54,750 --> 00:26:59,650
@@ -2127,7 +2142,8 @@ Why'd you take your shoes off?
 00:27:02,750 --> 00:27:08,750
 [KRISTOFFERSON]
 So I don't break your nose when I kick it. Kristofferson kicks Beaver's son in the face, karate chops his neck, elbow-jabs him twice in the gut, and flips the enormous youth over his shoulder and into the mud. Beaver's son gets up, crying, and walks out of the alcove. Ash watches blankly with mud all over his mouth as Kristofferson puts his shoes back on.
-ຄຸເຂົ່າລົງ
+ສະນັ້ນຂ້ອຍບໍ່ທໍາລາຍດັງຂອງທ່ານເມື່ອຂ້ອຍຕີມັນ. ຄຣິສຕັອບເຟສສັນຕີລູກຊາຍຂອງເບເບີເວີໃນໃບຫນ້າ, ຄາຣາເຕຕັດຄໍຂອງລາວ, ກະຕ່າກະຕ່າລາວສອງຄັ້ງໃນທ້ອງ,
+ແລະຫັນຊາວຫນຸ່ມທີ່ໃຫຍ່ຫຼວງຜ່ານກະຕູ້ຂອງລາວແລະເຂົ້າໄປໃນດິນເຜົາ. ລູກຊາຍຂອງບີເບີຟສ໌ຕື່ນຂຶ້ນ, ຮ້ອງໄຫ້, ແລະຍ່າງອອກຈາກແອລກເວີ. ອາສ໌ເບິ່ງສົດໃສດ້ວຍດິນເຜົ່າທົ່ວປາກຂອງລາວໃນຂະນະທີ່ຄ
 
 331
 00:27:09,250 --> 00:27:15,250
@@ -2161,7 +2177,8 @@ Give me a minute. Fox turns and walks away. He faces the wall of the tunnel. He 
 00:27:35,200 --> 00:27:41,200
 [KYLIE]
 Shh! Badger falls silent. Fox sits with his chin on his paw, lost in concentrated thought. He stands up. He nods repeatedly and begins to pace. His eyes dart from one spot to another. His paws move abruptly around in the air drawing lines and shapes. He freezes and looks straight up at the ceiling of the tunnel. He snaps the fingers of his paw and looks to the others. He says with a cautious excitement:
-ຄຸເຂົ່າລົງ
+ສະຫງົບ! ແບດເຈີຕົກງຽບ. ຟອກສ໌ນັ່ງດ້ວຍກະຕ່າຂອງລາວໃສ່ຕີນຂອງລາວ, ສູນເສຍໃນຄວາມຄິດທີ່ສຸມໃສ່. ລາວຢືນຂຶ້ນ. ລາວຍືດຫົວຫຼາຍຄັ້ງແລະເລີ່ມຕົ້ນການເຄື່ອນໄຫວ. ຕາຂອງລາວຖິ້ມຈາກຈຸດ ຫນຶ່ງ
+ໄປຫາອີກບ່ອນຫນຶ່ງ. ກະຕ່າລາວເຄື່ອນຍ້າຍຢ່າງກະທັນຫັນໃນອາກາດແຕ້ມເສັ້ນແລະຮູບຮ່າງ. ລາວເຢັນແລະເບິ່ງຂຶ້ນໂດຍກົງຢູ່ເທິງຊັ້ນເທິງຂອງທໍ່. ລາວ snap ນິ້ວມືຂອງຕີນລາວແລະເບິ່ງຄົນອື່ນ.
 
 336
 00:27:41,700 --> 00:27:43,700
@@ -2210,7 +2227,7 @@ All right! Let's try it!
 00:28:03,300 --> 00:28:09,250
 [FOX]
 Go to the flint-mine. Tell Mrs. Badger, Rabbit's ex-girlfriend, et al. that help is on the way.
-ຄຸເຂົ່າລົງ
+ໄປຫາແຮ່ທາດຟລິນຕ໌. ບອກທ່ານນາງແບດເຈີ, ເພື່ອນມິດເກົ່າຂອງກະຕ່າ, ແລະອື່ນໆວ່າຄວາມຊ່ວຍເຫຼືອ ກໍາ ລັງເດີນທາງມາ.
 
 344
 00:28:09,750 --> 00:28:15,700
@@ -2264,7 +2281,8 @@ I hit it slap in the middle! Do you get how incredible this is? The others nod. 
 00:28:51,650 --> 00:28:57,650
 [FOX]
 Don't lose your heads, now. Let's do this properly. First, everyone have a drink of water. Fox leads the others over to the chickens' drinking trough. They all lap up the cool water. Fox dries his mouth.
-ຄຸເຂົ່າລົງ
+ຢ່າສູນເສຍຫົວຂອງທ່ານ, ດຽວນີ້. ໃຫ້ເຮັດສິ່ງນີ້ຢ່າງຖືກຕ້ອງ. ກ່ອນອື່ນ ຫມົດ, ທຸກຄົນດື່ມນ້ ໍາ.
+ຟອກສ໌ ນໍາຄົນອື່ນໄປຫາກະຕ່າດື່ມຂອງໄກ່. ພວກເຂົາທັງ ຫມົດ ຈັບນ້ ໍາ ເຢັນ. ຟຸກສ໌ແຫ້ງປາກຂອງລາວ.
 
 352
 00:28:58,150 --> 00:29:00,250
@@ -2311,7 +2329,8 @@ So there it is. I hope we can continue our relationship as cousins or family mem
 00:29:33,250 --> 00:29:39,250
 [ASH]
 and let's deal with it right then and not let it blow up into a whole, huge thing involving parents and so on. Agreed? Ash drinks his punch in one long sip and holds out the empty mug for a refill. Kristofferson nods slowly. He points at Ash with his ladle.
-ຄຸເຂົ່າລົງ
+ແລະພວກເຮົາຈະຮັບມືກັບມັນທັນທີແລະບໍ່ປ່ອຍໃຫ້ມັນລະເບີດເປັນສິ່ງໃຫຍ່ຫຼວງທັງ ຫມົດ ທີ່ກ່ຽວຂ້ອງກັບພໍ່ແມ່ແລະອື່ນໆ. ເຫັນດີບໍ?
+ອາສ໌ດື່ມການຕີຂອງລາວໃນດື່ມ ຫນຶ່ງ ທີ່ຍາວນານແລະຍືດຈອກເປົ່າເພື່ອຕື່ມອີກ. ຄຣິດສະຕັອບເຊີສ໌ນ໌ຫົວຊ້າໆ. ລາວຊີ້ໃຫ້ອາສ໌ດ້ວຍກະຕ່າຂອງລາວ.
 
 359
 00:29:39,750 --> 00:29:45,350
@@ -2343,7 +2362,8 @@ Oh, but, Foxy, how humiliating! Having your whole tail blown clean off by a --
 00:30:00,650 --> 00:30:06,650
 [FOX]
 Can we drop it? Kristofferson starts to refill Ash's mug again. Ash suddenly puts his paw over the brim. Kristofferson hesitates. Ash raises an eyebrow and says mysterriously:
-ຄຸເຂົ່າລົງ
+ພວກເຮົາສາມາດຖິ້ມມັນໄດ້ບໍ? ຄຣິດສະຕັອບເຟສສັນ ເລີ່ມຕື່ມຈອກຂອງອາສ໌ອີກຄັ້ງ.
+ອາສ໌ເອົາຕີນຂອງລາວໃສ່ແຄມຢ່າງກະທັນຫັນ. ຄຣິສຕັອມເຟຊັນລັງເລໃຈ. ແອສ໌ຍົກກະຕ່າຕາແລະເວົ້າຢ່າງລຶກລັບວ່າ:
 
 364
 00:30:07,150 --> 00:30:10,300
@@ -2555,7 +2575,8 @@ Well, then maybe we're not all going to die. Fox looks to Mrs. Fox. He stands up
 00:32:46,150 --> 00:32:52,150
 [FOX]
 Excuse us, everyone. Fox leads Mrs. Fox over to a ledge near a cement waterfall on the far side of the brick cavern. He puts his arm around her waist.
-ຄຸເຂົ່າລົງ
+ຂໍໂທດພວກເຮົາ, ທຸກຄົນ. ຟອກສ໌ພາທ່ານນາງຟອກສສ໌ໄປຫາກະຕ່າແຄມນ້ ໍາ
+ຖ້ວມຊີມັງຢູ່ດ້ານທາງໄກຂອງຮູຫີນ. ລາວເອົາແຂນຢູ່ອ້ອມແອວຂອງນາງ.
 
 396
 00:32:52,650 --> 00:32:58,650
@@ -2695,7 +2716,7 @@ Or girl.
 00:34:23,450 --> 00:34:29,450
 [FOX]
 Or girl, right -- because at that point we didn't know. Fox grabs Ash by his shoulders and looks him in the eye.
-ຄຸເຂົ່າລົງ
+ຫຼືເດັກຍິງ, ແມ່ນແລ້ວ - ເພາະວ່າໃນເວລານັ້ນພວກເຮົາບໍ່ຮູ້. ຟອກສ໌ຈັບອາສ໌ຈາກກະຕ່າຂອງລາວແລະເບິ່ງລາວໃນຕາ.
 
 418
 00:34:29,950 --> 00:34:35,950
@@ -2800,7 +2821,8 @@ I'm his son. Everyone looks at Ash. He stands behind them in silhouette. Rat say
 00:35:43,450 --> 00:35:49,450
 [RAT]
 I can see the resemblance. Pause. In an instant, Rat grabs Ash by the tail, picks him up off the ground, swings him in the air, and flings him away twenty feet down the drainpipe. Badger looks stunned. Ash sits in a puddle in a stupor. Rat races toward him down the tunnel. He leaps into the air with his claws out and his teeth bared. As he is about to seize upon Ash -- he is suddenly jerked backwards and spun around. Rat is face to face with Fox. Fox strikes his old-fashioned boxing stance. He draws back and throws a hard punch, nailing Rat square in the jaw. Rat staggers, stunned. He swings his switchblade, cutting Fox across the chest. Fox touches the wound and looks at the blood on the fingers of his paw. He looks to Rat. Rat holds up his wrist and shows Fox a child's plastic digital watch with miniature footballs, baseballs, and soccer balls on it. He says strangely:
-ຄຸເຂົ່າລົງ
+ຂ້ອຍເຫັນຄວາມຄ້າຍຄືກັນໄດ້. ຢຸດເຊົາ. ໃນຊົ່ວຄາວຫນຶ່ງ, ແມວຈັບອາຊ໌ຈາກຫອຍ, ເອົາລາວຂຶ້ນຈາກພື້ນດິນ, ຟື້ນຟູລາວໃນອາກາດ, ແລະຖິ້ມລາວໄປຫ່າງໄກສິບແມັດລົງທໍ່ລະບາຍນ້
+ໍາ. Badger ເບິ່ງຄືວ່າຕົກໃຈ. ອາຊ໌ນັ່ງຢູ່ໃນຖ້ວຍໃນຄວາມໂຊກແຊງ. ແມງໄມ້ແລ່ນໄປຫາລາວລົງທອງລານ. ລາວໂດດເຂົ້າໄປໃນອາກາດດ້ວຍກະຕ່າຂອງລາວອອກແລະແຂ້ວຂອງລາວຖືກເປີດເຜີຍ
 
 434
 00:35:49,950 --> 00:35:51,950
@@ -2818,13 +2840,15 @@ What'd you just say?
 00:35:54,950 --> 00:36:00,950
 [RAT]
 I said I've still got the watch, Mr. Fox. She never asked for it back. A frozen moment. Fox springs forward and clamps his jaws onto Rat's throat. Rat tumbles over backwards. Fox pins him to the ground with his teeth in Rat's neck. Rat kicks and bucks and struggles, but Fox holds him fast. Rat goes limp. Fox releases him. Everyone slowly gathers around Fox and Rat. Ash kneels next to his father. Fox cradles Rat in his arms. Rat whispers:
-ຄຸເຂົ່າລົງ
+ຂ້ອຍບອກວ່າຂ້ອຍຍັງມີໂມງຢູ່, ທ້າວຟອກສ໌. ນາງບໍ່ເຄີຍຂໍມັນກັບຄືນໄປບ່ອນ. ຂະບວນການທີ່ກ້ອນ. ຟຸກສ໌ໂດດໄປຂ້າງຫນ້າແລະຄວບຄຸມກະຕ່າຂອງລາວໃສ່ຄໍຂອງແມວ.
+ແມວຕົກລົງໄປທາງຫຼັງ. ໂຟກສ໌ຈັບລາວລົງພື້ນດິນດ້ວຍແຂ້ວຂອງລາວໃນຄໍແຊກແມງໄມ້. ແມງໄມ້ຕີແລະປືນແລະຕໍ່ສູ້ກັນ, ແຕ່ຟັກສ໌ຖືລາວຢ່າງໄວວາ. ແມັດກາຍອ່ອນແອ້ມແມ
 
 437
 00:36:01,450 --> 00:36:07,450
 [RAT]
 The boy's locked in an apple crate on top of a gun-locker in the attic of Bean Annex. It's a set-up.
-ຄຸເຂົ່າລົງ
+ເດັກຊາຍຖືກລັອກໄວ້ໃນກະຕູ້ ຫມາກ ໄມ້ຢູ່ເທິງກະຕ່າປືນໃນຊັ້ນເທິງຂອງ
+Bean Annex. ມັນແມ່ນການຕັ້ງຄ່າ.
 
 438
 00:36:07,950 --> 00:36:13,950
@@ -2843,7 +2867,7 @@ Never.
 00:36:16,950 --> 00:36:22,950
 [FOX]
 All these wasted years. What were you looking for, Rat? Fox wipes the blood from Rat's chin. Rat mutters.
-ຄຸເຂົ່າລົງ
+ທຸກປີທີ່ເສຍຫາຍທັງ ຫມົດ ນີ້. ເຈົ້າ ກໍາ ລັງຊອກຫາຫຍັງ, ແມວ? ຟອກສ໌ລ້າງເລືອດຈາກກະຕ່າແມວ. ແມງໄມ້ murmurs.
 
 441
 00:36:23,450 --> 00:36:29,450
@@ -2889,7 +2913,8 @@ Redemption? Sure. Fox swallows and says hopelessly with tears in his eyes:
 00:36:51,550 --> 00:36:57,550
 [FOX]
 But, in the end -- he's just another dead rat in a garbage pail behind a Chinese restaurant. Ash puts his hand on Fox's shoulder. Fox lays Rat gently onto the sewer floor. He stands up and turns to the rest of the group. Badger claps his paws together.
-ຄຸເຂົ່າລົງ
+ແຕ່, ໃນທີ່ສຸດ - ລາວພຽງແຕ່ແມວຕາຍອີກຄົນ ຫນຶ່ງ ໃນຖັງຂີ້ເຫຍື້ອຢູ່ເບື້ອງຫຼັງຮ້ານອາຫານຈີນ. ອາສ໌ເອົາມືໃສ່ກະຕ່າຂອງຟອກສ໌.
+ຟຸກສ໌ວາງແມ້ວຢ່າງອ່ອນແອໃສ່ພື້ນລະບາຍນ້ ໍາ. ລາວຕື່ນຂຶ້ນແລະຫັນໄປຫາສ່ວນທີ່ເຫຼືອຂອງກຸ່ມ. Badger claps ກະຕ່າຂອງລາວຮ່ວມກັນ.
 
 448
 00:36:58,050 --> 00:37:00,150
@@ -2901,7 +2926,7 @@ Well, I suppose we should --
 00:37:00,650 --> 00:37:06,650
 [FOX]
 Excuse me, again, B. The search party's been cancelled. We're replacing it with a go-for-broke rescue mission. It's a set- up, but maybe we can make it work. You two little rabbits run tell the others.
-ຄຸເຂົ່າລົງ
+ຂໍໂທດຂ້ອຍ, ອີກເທື່ອຫນຶ່ງ, ບ. ກຸ່ມຊອກຫາໄດ້ຖືກຍົກເລີກແລ້ວ. ພວກເຮົາ ກໍາ ລັງທົດແທນມັນດ້ວຍພາລະກິດການຊ່ວຍເຫຼືອທີ່ແຕກຫັກ. ມັນແມ່ນການຕັ້ງຄ່າ, ແຕ່ບາງທີພວກເຮົາສາມາດເຮັດໃຫ້ມັນເຮັດວຽກໄດ້. ເຈົ້າສອງກະຕ່ານ້ອຍແລ່ນບອກຄົນອື່ນ.
 
 450
 00:37:07,150 --> 00:37:12,400
@@ -2973,7 +2998,7 @@ All right! Let's start planning! Who knows shorthand? Pause. Badger points to hi
 00:38:01,350 --> 00:38:07,350
 [FOX]
 Linda! Lutra Lutra! You got some dry paper? Here we go! Fox, highly energized, moves among the group, touching their shoulders and patting their backs.
-ຄຸເຂົ່າລົງ
+ລິນດາ! ລູຕຣາ ລູທຣາ! ເຈົ້າມີເຈ້ຍແຫ້ງບໍ? ມາແລ້ວ! ຟອກສ໌, ມີພະລັງງານສູງ, ເຄື່ອນຍ້າຍໃນບັນດາກຸ່ມ, ການຈັບກະຕ່າຂອງພວກເຂົາແລະແຕະຫຼັງຂອງພວກເຂົາ.
 
 461
 00:38:07,850 --> 00:38:10,300
@@ -3081,7 +3106,8 @@ Demolitions expert! OK! Linda!
 00:38:51,800 --> 00:38:55,650
 [LINDA]
 Got it! Fox's cheeks and forehead are beaded with perspiration. He
-ຄຸເຂົ່າລົງ
+ຂ້ອຍເຂົ້າໃຈແລ້ວ!
+ກະຕ່າແລະຫນ້າເອິກຂອງຟອກສ໌ແມ່ນມີກະຕ່າດ້ວຍຄວາມຫວານ. ລາວ
 
 479
 00:38:56,150 --> 00:38:58,150
@@ -3140,7 +3166,8 @@ You're a cuss of a lot bigger than you look, Rickity. Kylie tugs at Fox's sleeve
 00:39:37,950 --> 00:39:43,950
 [KYLIE]
 I didn't get a job yet -- or a Latin name. What's my strength? Fox raises an eyebrow. He thinks of something:
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຍັງບໍ່ໄດ້ຮັບວຽກເຮັດງານທໍາເທື່ອ - ຫຼືຊື່ລາຕິນ.
+ຄວາມເຂັ້ມແຂງຂອງຂ້ອຍແມ່ນຫຍັງ? ຟອກສ໌ຍົກກະຕ່າຕາ. ລາວຄິດບາງສິ່ງບາງຢ່າງ:
 
 488
 00:39:44,450 --> 00:39:50,450
@@ -3171,7 +3198,7 @@ Paint an X.
 00:39:58,450 --> 00:40:04,450
 [INSERT:]
 The bottom of the map. Mrs. Fox's paw paints a red X and puts a circle around it. The shot zooms out to reveal the entire valley -- no longer a painting on the brick wall. Lighting strikes at the horizon. Dark clouds loom over the three farmers' compounds. It looks exactly like one of Mrs. Fox's paintings of a landscape in a rainstorm. Bean's helicopter circles the area.
-ຄຸເຂົ່າລົງ
+ສ່ວນລຸ່ມຂອງແຜນທີ່. ກະຕ່າຂອງທ່ານນາງຟອກສ໌ແຕ້ມຮູບ X ສີແດງແລະວາງວົງຈອນຢູ່ອ້ອມຂ້າງມັນ. ການຖ່າຍຮູບຂະຫຍາຍອອກເພື່ອເປີດເຜີຍຮ່ອມພູທັງ ຫມົດ - ບໍ່ເປັນຮູບແຕ້ມຢູ່ເທິງກໍາແພງຕີນອີກຕໍ່ໄປ. ແສງສະຫວ່າງຕີຢູ່ທາງບົກຜ່ອງ. ຟ້າມມືດລອຍຢູ່ເທິງສະໂມສອນຂອງຊາວກະສິກອນສາມຄົນ. ມັນເບິ່ງຄືວ່າເປັນ ຫນຶ່ງ ໃນພາບແຕ້ມຂອງທ່ານນາງຟຸກສ໌ຂອງທັດສະນີຍະພາບໃນ
 
 493
 00:40:04,950 --> 00:40:10,950
@@ -3286,7 +3313,7 @@ Excuse me! Excuse me? Bunce presses stop.
 00:41:17,700 --> 00:41:23,700
 [FOX]
 Come on! That doesn't sound anything like him! It's amateur night in Dixie! Badger rapidly slaps two pieces of flint together. A bit chips off, and sparks fly from the break. He blows on some kindling. He takes a pinecone out of a basket.
-ຄຸເຂົ່າລົງ
+ມາແລ້ວ! ມັນບໍ່ຄ້າຍຄືກັບລາວເລີຍ! ມັນເປັນຄືນນັກມັກໃນ Dixie! Badger ໄດ້ຕີສອງຊິ້ນສ່ວນຂອງ flint ຢ່າງໄວວາຮ່ວມກັນ. ຊິບບາງຢ່າງອອກ, ແລະແສງສະຫວ່າງບິນຈາກການຢຸດເຊົາ. ລາວພັດໃສ່ໄຟບາງຢ່າງ. ລາວເອົາ pincone ອອກຈາກກະຕ່າ.
 
 511
 00:41:24,200 --> 00:41:30,200
@@ -3467,7 +3494,7 @@ What's that white stuff around his mouth?
 00:43:35,250 --> 00:43:41,250
 [KYLIE]
 I think he eats soap. Fox sees an amber, plastic pharmacy bottle on a shelf above some bags of fertilizer. It's reads: Drug: Phenomoxylcarbobubytol, 10 mg
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຄິດວ່າລາວກິນຊັບບອນ. ຟອກສ໌ເຫັນຈອກຢາປລາສຕິກແມບເບີຢູ່ເທິງກະຕ່າເທິງຖົງຢາງບາງຢ່າງ. ມັນອ່ານວ່າ: ຢາເສບຕິດ: Phenomoxylcarbobubytol, 10 ມິລກຣາມ
 
 539
 00:43:41,750 --> 00:43:47,350
@@ -3499,7 +3526,8 @@ He's rabid. With rabies. I've heard about this beagle. The beagle stands up. Fox
 00:44:00,100 --> 00:44:06,100
 [FOX]
 Easy, boy. Fox takes a cautious step toward the beagle. He holds out the back of his paw for the beagle to sniff. He says back over his shoulder to Kylie and Ash:
-ຄຸເຂົ່າລົງ
+ງ່າຍດາຍ, ເດັກຊາຍ. ຟອກສ໌ເອົາບາດກ້າວຢ່າງລະມັດລະວັງໄປສູ່ບີເກວ. ລາວຍືດຫຼັງຂອງຕີນຂອງລາວໃຫ້ບີ
+ເກວກິ່ນຫອມ. ລາວເວົ້າກັບຄືນໄປບ່ອນຜ່ານກະຕ່າຂອງລາວໃຫ້ໄຄລີ ແລະ ອາສ໌:
 
 544
 00:44:06,600 --> 00:44:12,600
@@ -3599,7 +3627,7 @@ Close your eyes. Kristofferson closes his eyes. So does Ash. So do Fox and Kylie
 00:45:24,500 --> 00:45:27,300
 [KRISTOFFERSON]
 You weigh less than a slice of bread.
-ຄຸເຂົ່າລົງ
+ເຈົ້າມີນ້ ໍາ ຫນັກ ຫນ້ອຍ ກວ່າກະຕ່າເຂົ້າຈີ່.
 
 559
 00:45:27,800 --> 00:45:30,950
@@ -3636,7 +3664,7 @@ First, you need to get a running start, which, obviously, I can't do in here, th
 00:45:47,050 --> 00:45:53,050
 [ASH]
 Got it. Ash walks ten paces away to the far end of the shelf. Fox and Kylie watch from above. Kylie says excitedly:
-ຄຸເຂົ່າລົງ
+ຂ້ອຍເຂົ້າໃຈແລ້ວ. ອາສ໌ຍ່າງຫ່າງຫາວາທີສິບໄປຫາຈຸດໄກສຸດຂອງກະຕ່າ. ຟອກສ໌ແລະໄຄລີເບິ່ງຈາກເທິງ. ໄຄລີເວົ້າດ້ວຍຄວາມຕື່ນເຕັ້ນວ່າ:
 
 565
 00:45:53,550 --> 00:45:59,550
@@ -3649,7 +3677,7 @@ He's going to do it! Fox makes a face that says, I'm not so sure. Ash takes a de
 00:46:00,050 --> 00:46:06,050
 [ASH]
 Ki-ya! Ash's toe catches on a loose nail. He somersaults twice through the air and bounces off the side of the apple crate, which falls off the shelf. Kristofferson braces himself. The apple crate hits the floor and shatters into pieces. Kristofferson lies among the wreckage. Ash looks over the side of the shelf. Fox and Kylie watch from above, grimacing.
-ຄຸເຂົ່າລົງ
+Ki-ya! ກະຕ່າຂອງອາສ໌ຈັບກະຕ່າທີ່ວ່າງ. ລາວໂຊມເກາະສອງຄັ້ງຜ່ານອາກາດແລະໂດດອອກຈາກຂ້າງຂອງກະຕູ້ແອບເປີ້ນ, ເຊິ່ງຕົກລົງຈາກກະທູ້. ຄຣິດສະຕັອບຟີຊັນກຽມຕົວເອງ. ກະຕູ້ຫມາກແອັບເປີ່ນຕີພື້ນແລະແຕກເປັນສິ້ນສ່ວນ. ຄຣິສຕັບຟິຊັນນອນຢູ່ໃນບັນດາສິ່ງເສດເຫຼືອ. ອາສ໌ເບິ່ງຂ້າງຂອງ ກະຕຸ້ນ. ຟອກສ໌ແລະໄຄລີເບິ່ງຈາກເທິງ, gr
 
 567
 00:46:06,550 --> 00:46:08,550
@@ -3712,7 +3740,7 @@ Your tractors uprooted my tree. Your posse hunted my family. Your gunmen kidnapp
 00:46:43,000 --> 00:46:45,800
 [ASH]
 I weigh less than a slice of bread.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍມີນ້ ໍາ ຫນັກ ຫນ້ອຍ ກວ່າກະຕ່າເຂົ້າຈີ່.
 
 577
 00:46:46,300 --> 00:46:48,300
@@ -3724,19 +3752,19 @@ What?
 00:46:48,800 --> 00:46:54,800
 [ASH]
 I'll be right back. Ash runs. Fox, Kylie, and Kristofferson watch, shocked, as Ash sprints back to the courtyard doors. The three farmers open fire at him. Fox, Kylie, and Kristofferson duck and take cover behind a hay-bale.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຈະກັບມາທັນທີ. ອາສ໌ແລ່ນ. ຟອກສ໌, ໄຄລີ, ແລະ ຄຣິດສະຕັອບເຟຊັນເບິ່ງ, ຕົກໃຈ, ໃນຂະນະທີ່ອາສ໌ ແລ່ນກັບຄືນໄປບ່ອນປະຕູເດີ່ນ. ຊາວກະສິກອນສາມຄົນເປີດຍິງຕໍ່ລາວ. ປາກແມວ, ໄກລີແລະຄຣິດສ໌ຟຟເຟສັນແລະປົກຄຸມຢູ່ເບື້ອງຫຼັງກະຕ່າຫຍ້າ.
 
 579
 00:46:55,300 --> 00:47:01,300
 [ASH]
 Ki-ya! Ash cyclone-chops the doorknob. The lock clicks. Ash's eyes light up. Ash drops to the ground. He digs a hole and burrows into the dirt as bullets fly everywhere. He breathes in through his nose and out through his mouth. Fox watches with his jaw hanging open. The courtyard doors smash apart and the rabid beagle tears out into the vegetable garden growling, foaming, and thrashing crazily. The farmers shriek and scream and run around, panicking, with their guns blazing. Fox, Kylie, Ash, and Kristofferson jump onto their motorcycle. The beagle rips the tail from Bean's neck, shreds it, chews it up, and swallows it. Fox deflates for an instant, then recovers. He looks to Ash on the back of the motorcycle, behind him, with his hands around Fox's waist. He says with the deepest affection and respect:
-ຄຸເຂົ່າລົງ
+Ki-ya! ພາຍຸອາຊັກໂອນຕັດກະຕ່າປະຕູ. ປິດລັອກຄລິກ. ຕາຂອງອາຊ໌ແສງສະຫວ່າງ. ອາຊ໌ຕົກລົງສູ່ພື້ນດິນ. ລາວຂຸດຮູແລະຂຸດເຂົ້າໄປໃນດິນໃນຂະນະທີ່ລູກປືນບິນຢູ່ທຸກບ່ອນ. ລາວຫາຍໃຈຜ່ານດັງຂອງລາວແລະອອກຜ່ານປາກຂອງລາວ. ຟອກສ໌ເບິ່ງດ້ວຍກະທູ້ຂອງລາວທີ່ຕິດເປີດ. ປະຕູເດີ່ນແຕກແຍກແລະບີເກວທີ່ໂຊກຮ້າຍອອກໄປໃນສວນຜັກທີ່ຮ້ອງໄຫ້, ຟູມ
 
 580
 00:47:01,800 --> 00:47:07,800
 [FOX]
 Ash, that was pure, wild animal craziness. You're an athlete. Ash swallows. He beams. He sits up straighter.  Fox kick-starts the motorcycle and races across the farm. Boggis, Bunce, and Bean scramble onto the roof of a car port with an old, white Mercedes convertible under it. The snarling beagle barks and snaps below them. They watch as: Fox steers the motorcycle toward a broken apple cart at the edge of the property. He guns the motor and yells:
-ຄຸເຂົ່າລົງ
+ແອສ໌, ນັ້ນແມ່ນຄວາມໂຊກແຊງຂອງສັດປ່າທີ່ບໍລິສຸດ. ເຈົ້າເປັນນັກກິລາ. ແອບສ໌ຈູດ. ລາວແສງສະຫວ່າງ. ລາວນັ່ງຂຶ້ນກົງກວ່າເກົ່າ. ຟອກສ໌ເລີ່ມຕົ້ນລົດຈັກແລະແຂ່ງຂັນຂ້າມຟາມ. ໂບຈິສ, ບອນສ໌ ແລະ ບິນຍ່າງຂຶ້ນເທິງຊັ້ນເທິງຂອງທ່າເຮືອລົດທີ່ມີແມຣເຊດສ໌ທີ່ສາມາດປ່ຽນໄດ້ເກົ່າ, ສີຂາວພາຍໃຕ້ມັນ. ກະຕ່າກະຕ່າຫັກແລະສັ່ນຕອງພາຍ
 
 581
 00:47:08,300 --> 00:47:10,300
@@ -3939,7 +3967,8 @@ Open it. Fox pushes open the trap door and crawls out. Everyone follows him.
 00:49:22,950 --> 00:49:28,950
 [FOX]
 Hey, look! There's a whole, enormous, glorious, gigantic supermarket up here! Ash and Kristofferson seem dumbstruck. Fox raises an eyebrow and smiles at Mrs. Fox. She puts her arm around his shoulder.
-ຄຸເຂົ່າລົງ
+ເຮ້, ເບິ່ງ! ມີຮ້ານຊັບເປີເກັດທີ່ໃຫຍ່ຫຼວງ, ທີ່ສວຍງາມ, ທີ່ຍິ່ງໃຫຍ່ຢູ່ເທິງນີ້!
+ອາສ໌ແລະຄຣິດສະຕັອບເປີສັນເບິ່ງຄືວ່າໂງ່ໂງ່ນ. ຟອກສ໌ຍົກກະຕ່າຕາແລະມ່ວນຊື່ນຕໍ່ທ່ານນາງຟອກຊ໌. ນາງເອົາແຂນຢູ່ອ້ອມກະຕູ້ຂອງລາວ.
 
 613
 00:49:29,450 --> 00:49:32,600
@@ -3965,7 +3994,7 @@ Actually, when he spoke to me from the hospital, he said he was already talking
 00:49:45,350 --> 00:49:51,350
 [FOX]
 Oh, really? Well, now's the time to buy. Kylie comes around the end of the aisle pushing a miniature shopping cart filled with jars of jelly, jam, olives, pickles, and honey, plus three loaves of bread, Band-Aids, toothpaste, and a carton of strawberry ice cream. He says
-ຄຸເຂົ່າລົງ
+ໂອ້, ແທ້ຈິງແລ້ວບໍ? ດີ, ດຽວນີ້ມັນເຖິງເວລາທີ່ຈະຊື້. ໄຄລີມາຢູ່ແຄມທ້າຍຂອງທາງລໍາບາກຊຸກຍູ້ກະຕູ້ການຊື້ເຄື່ອງຂະຫນາດນ້ອຍທີ່ເຕັມໄປດ້ວຍຖັງຂອງເຈເລຍ, ຈາມ, ຫມາກ ໄມ້, pickles, ແລະຫວານ, ບວກກັບເຂົ້າຈີ່ສາມກະຕ່າ, Band-Aids, ແປ້ງແຂ້ວ, ແລະກ່ອງຂອງນ້ ໍາ ກ້ອນ strawberry. ລາວເວົ້າວ່າ
 
 617
 00:49:51,850 --> 00:49:53,850
@@ -4002,7 +4031,8 @@ Oh, well. Fox looks at Ash, who is studying a twelve-pack of tropical juice punc
 00:50:08,050 --> 00:50:14,050
 [FOX]
 The white cape rather suits him, doesn't it? Actually, I had to do quite a bit of searching myself before I found a look that really flattered me. Remember those horseshoe cuff-links? Fox and Mrs. Fox crack-up laughing. Fox notices something and stops. He stares at Mrs. Fox strangely. She is glowing. She hesitates. She shrugs.
-ຄຸເຂົ່າລົງ
+ເສື້ອຜ້າສີຂາວ ເຫມາະ ສົມກັບລາວຫຼາຍ, ແມ່ນບໍ? ໃນຄວາມເປັນຈິງ, ຂ້ອຍຕ້ອງຄົ້ນຫາຕົວເອງຫຼາຍກ່ອນທີ່ຂ້ອຍຈະພົບເຫັນການເບິ່ງທີ່ຊົມເຊີຍຂ້ອຍແທ້ໆ.
+ຈື່ສາຍແອວກະທູ້ກະຕູ້ກະດູກກະຕ່າຍກະຕຸ້ນກະຕູ້ນັ້ນບໍ? ຟັອກສ໌ແລະທ່ານນາງຟັວກສ໌ແຕກຂຶ້ນມ່ວນຊື່ນ. ຟາກສ໌ສັງເກດບາງສິ່ງບາງຢ່າງແລະຢຸດເຊົາ. ລາວເບິ່ງທ່ານນາງ ຟັ໊ກສ໌ຢ່າງແປກໃຈ. ນາງສ
 
 623
 00:50:14,550 --> 00:50:20,550

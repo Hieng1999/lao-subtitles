@@ -611,7 +611,7 @@ I understand.
 00:06:37,950 --> 00:06:40,050
 [GRISSOM]
 Jack. Don't forget your lucky deck.
-ຄຸເຂົ່າລົງ
+ແຈກ. ຢ່າລືມກະຕ່າໂຊກດີຂອງທ່ານ.
 
 99
 00:06:40,550 --> 00:06:43,350
@@ -686,7 +686,8 @@ How's your luck, Jim?
 00:07:23,250 --> 00:07:26,050
 [KNOX]
 Mr. Dent. What's your stand on winged vigilantes?
-ຄຸເຂົ່າລົງ
+ທ່ານດັນຕ໌.
+ຄວາມຢືນຂອງທ່ານກ່ຽວກັບພວກປ້ອງກັນຄວາມສະຫງົບທີ່ມີກະຕ່າແມ່ນຫຍັງ?
 
 111
 00:07:26,550 --> 00:07:32,550
@@ -1006,7 +1007,8 @@ ALL EYES TURN to the catwalk overhead, where JACK stands poised with the .38 in 
 00:10:45,200 --> 00:10:51,200
 [NO!!]
 But the bullet has caught JACK in the arm. He spins, totters to the edge of the catwalk... and TOPPLES OVER. The COPS look on helplessly as JACK plunges TWO STORIES DOWN into a CATCH BASIN full of BUBBLING TOXIC WASTE, SCREAMING ALL THE WAY.
-ຄຸເຂົ່າລົງ
+ແຕ່ລູກປືນໄດ້ຈັບແຈກໃນແຂນ. ລາວ ຫມູນ ວຽນ, ສັ່ນສະເທືອນໄປສູ່ແຄມຂອງກະຕ່າທາງ... ແລະ TOPPLES ເຖິງ.
+ຕໍາຫຼວດເບິ່ງຢ່າງບໍ່ມີຄວາມຊ່ວຍເຫຼືອໃນຂະນະທີ່ແຈັກຖິ້ມສອງເລື່ອງລົງໃນສະລອຍນ້ ໍາ ຈັບທີ່ເຕັມໄປດ້ວຍຂີ້ເຫຍື້ອທີ່ເປັນພິດ bubbling, ຮ້ອງໄຫ້ຕະຫຼອດທາງ.
 
 162
 00:10:51,700 --> 00:10:57,700
@@ -2237,7 +2239,8 @@ How much do you weigh?
 00:23:59,250 --> 00:24:05,250
 [HANG ON!]
 The JOKER'S THUGS pile out of the car. The BATARANG catches on the catwalk, and BATMAN triggers the spring-action REEL on his utility belt -- jerking him and VICKI INTO THE AIR.
-ຄຸເຂົ່າລົງ
+ກະຕຸ້ນຂອງໂຈເກີໄດ້ເຕົ້າໂຮມອອກຈາກລົດ. ບາຕາຣານກ໌ຈັບຢູ່ເທິງກະຕ່າທາງ, ແລະແບຕແມນກະຕຸ້ນ REEL
+ການກະ ທໍາ ພາກຮຽນ spring ກ່ຽວກັບສາຍແອວຄວາມປະໂຫຍດຂອງລາວ - ຍັບລາວແລະ VICKI ໃນອາກາດ.
 
 355
 00:24:05,750 --> 00:24:07,750
@@ -3614,7 +3617,8 @@ Great. How??
 00:38:49,050 --> 00:38:55,050
 [GIMME A HAND UP HERE!]
 VICKI climbs aboard. They drape the cape over the face of the spotlight. Then they put their shoulders to the swivel assembly -- tilting the spotlight -- AIMING THE BEAM...
-ຄຸເຂົ່າລົງ
+ວິກກີຂຶ້ນເທິງເຮືອ. ພວກເຂົາເອົາຜ້າຄຸມໃສ່ໃບຫນ້າຂອງແສງສະຫວ່າງສ່ອງແສງ.
+ຫຼັງຈາກນັ້ນພວກເຂົາເອົາກະຕ່າຂອງພວກເຂົາໄປຫາກອງປະຊຸມທີ່ຫມູນວຽນ - ການຫັນແສງ ສະຫວ່າງ - ຈຸດປະສົງສາຍແສງ...
 
 573
 00:38:55,550 --> 00:38:57,550

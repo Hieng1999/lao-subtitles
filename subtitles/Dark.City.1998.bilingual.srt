@@ -1163,7 +1163,7 @@ Listen to me talk!  You must be hungry.
 00:10:49,450 --> 00:10:55,050
 [SCHREBER]
 Whole damn wing lost power.  Wiring's old.  Keep meaning to get it fixed. Here we are.
-ຄຸເຂົ່າລົງ
+ກະຕ່າທັງ ຫມົດ ໄດ້ສູນເສຍພະລັງງານ. ສາຍໄຟເກົ່າແລ້ວ. ສືບຕໍ່ພະຍາຍາມແກ້ໄຂມັນ. ພວກເຮົາຢູ່ບ່ອນນີ້.
 
 190
 00:10:55,550 --> 00:10:59,050

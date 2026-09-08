@@ -347,7 +347,7 @@ Alright?
 00:03:26,900 --> 00:03:30,400
 [AGNES]
 I know it's bloody hard. Keep your chin up Rita.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຮູ້ວ່າມັນຍາກຫຼາຍ. ຮັກສາກະຕ່າຂອງທ່ານຂຶ້ນ Rita.
 
 58
 00:03:30,900 --> 00:03:36,900
@@ -806,7 +806,7 @@ Go home to Mummy, you black bastard you.
 00:08:14,150 --> 00:08:20,150
 [GERALD]
 No one to talk with, All by myself No one to walk with, But I'm happy on the shelf.
-ຄຸເຂົ່າລົງ
+ບໍ່ມີໃຜທີ່ຈະເວົ້າກັບ, ຂ້ອຍເອງບໍ່ມີໃຜທີ່ຈະຍ່າງກັບ, ແຕ່ຂ້ອຍມີຄວາມສຸກຢູ່ເທິງກະຕ່າ.
 
 131
 00:08:20,650 --> 00:08:25,550
@@ -1028,7 +1028,7 @@ I dunno, I suppose they let you wet yourself.
 00:10:26,100 --> 00:10:28,900
 [GEORGE]
 Maybe they give you a nappy or something.
-ຄຸເຂົ່າລົງ
+ບາງທີພວກເຂົາຈະໃຫ້ເຈົ້າກະຕ່າຫຼືບາງສິ່ງບາງຢ່າງ.
 
 167
 00:10:29,400 --> 00:10:31,400
@@ -1780,7 +1780,8 @@ Have you got pets at home? A dog or a cat or a goldfish?
 00:17:50,300 --> 00:17:56,300
 [BETTY]
 I've got a rabbit. We thought it was a girl so I called her Daisy. But then she turned out to be a boy!
-ຄຸເຂົ່າລົງ
+ຂ້ອຍມີກະຕ່າ. ພວກເຮົາຄິດວ່າມັນເປັນເດັກຍິງ
+ສະນັ້ນຂ້ອຍຈຶ່ງເອີ້ນນາງວ່າເດຊີ. ແຕ່ຫຼັງຈາກນັ້ນນາງກາຍເປັນເດັກຊາຍ!
 
 288
 00:17:56,800 --> 00:17:59,950
@@ -1945,7 +1946,7 @@ Good evening, sir.
 00:19:19,350 --> 00:19:22,500
 [IFE]
 It's black-out after 8pm. Please pull your curtains closed.
-ຄຸເຂົ່າລົງ
+ມັນສີດໍາພາຍຫຼັງເວລາ 8 ໂມງແລງ. ກະລຸນາດຶງກະຕ່າຂອງທ່ານປິດ.
 
 315
 00:19:23,000 --> 00:19:27,200
@@ -1969,7 +1970,7 @@ I need to pee.
 00:19:33,850 --> 00:19:35,850
 [IFE]
 Behind those curtains.
-ຄຸເຂົ່າລົງ
+ຢູ່ເບື້ອງຫຼັງກະຕ່ານັ້ນ.
 
 319
 00:19:36,350 --> 00:19:39,850
@@ -3306,7 +3307,7 @@ What the bleedin' hell are ya..!  George? 91.
 00:32:39,400 --> 00:32:45,400
 [GEORGE]
 No one to talk with, All by myself No one to walk with, But I'm happy on the shelf, Ain't misbehavin' I'm savin' my love for you. 92.
-ຄຸເຂົ່າລົງ
+ບໍ່ມີໃຜທີ່ຈະເວົ້າກັບ, ຂ້ອຍເອງບໍ່ມີໃຜທີ່ຈະຍ່າງກັບ, ແຕ່ຂ້ອຍມີຄວາມສຸກຢູ່ເທິງກະຕ່າ, ບໍ່ປະຕິບັດຜິດຂ້ອຍ ກໍາ ລັງຮັກສາຄວາມຮັກຂອງຂ້ອຍ ສໍາ ລັບເຈົ້າ. 92.
 
 535
 00:32:45,900 --> 00:32:47,900
@@ -3497,7 +3498,8 @@ Where am I? Where's my St. Christopher?
 00:34:45,600 --> 00:34:51,600
 [WOMAN]
 It's here love on the dresser. Your clothes are drying on the rack. My name's Ruby. Now drink this.
-ຄຸເຂົ່າລົງ
+ມັນຢູ່ບ່ອນນີ້ຄວາມຮັກໃນກະຕູ້ຊຸດ. ເຄື່ອງນຸ່ງຫົ່ມຂອງທ່ານ ກໍາ
+ລັງແຫ້ງຢູ່ເທິງກະຕ່າ. ຂ້ອຍຊື່ວ່າຣູເບີ. ດຽວນີ້ດື່ມສິ່ງນີ້.
 
 566
 00:34:52,100 --> 00:34:54,200

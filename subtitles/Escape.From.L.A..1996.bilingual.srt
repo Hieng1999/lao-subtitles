@@ -117,7 +117,8 @@ The President's first act as Permanent Commander-in-Chief is Directive 17: prote
 00:01:49,200 --> 00:01:55,200
 [HOURS G.M.T. "]
 A Salesman with a chin-mike speaks non-stop, unintelligible Chinese. A frenzied crowd gathers around him, waving money, placing bets.
-ຄຸເຂົ່າລົງ
+ຜູ້ຂາຍທີ່ມີໄມຄ໌ກະຕ່າເວົ້າຈີນທີ່ບໍ່ຢຸດເຊົາ, ບໍ່ເຂົ້າໃຈໄດ້.
+ຝູງຊົນທີ່ໂຊກຮ້າຍເຕົ້າໂຮມຢູ່ອ້ອມຂ້າງລາວ, ຍືດເງິນ, ວາງການພະນັນ.
 
 19
 00:01:55,700 --> 00:02:01,650
@@ -906,7 +907,8 @@ Take cover, fool.
 00:10:49,350 --> 00:10:55,350
 [CLOSER - HOLLYWOOD BOWL]
 A group of white hooded men, the K.K.K., stand in front of the burning cross holding a ceremony. Next to the cross on stage, a hooded K.K.K. string quartet begins playing a Hayden concerto.
-ຄຸເຂົ່າລົງ
+ກຸ່ມຜູ້ຊາຍໃສ່ກະເປົາສີຂາວ, KKK, ຢືນຢູ່ຕໍ່ຫນ້າກະທູ້ທີ່ເຜົາໄຫມ້ ດໍາ ເນີນພິທີ.
+ຢູ່ຂ້າງກະຕູ້ໃນເວທີ, ຄວາດແຊກແຊງກະຕ່າກະຕ້າກະຕ່າຍກະຕາກະຕູ້ກະຕູ້ນິລະຄອນ Hayden.
 
 142
 00:10:55,850 --> 00:10:57,850
@@ -1216,7 +1218,7 @@ Halt!  Where are you going?  Are you here for the auction?
 00:14:27,750 --> 00:14:33,750
 [BEHIND PLISSKEN]
 Figures have suddenly moved out into the street, all with mismatched body parts - heads too large for their torsos, female body parts mixed with male heads, all sewn together with large, uneven stitches. Plissken is surrounded.
-ຄຸເຂົ່າລົງ
+ຮູບຮ່າງໄດ້ຍ້າຍອອກໄປໃນຖະຫນົນຫົນທາງຢ່າງກະທັນຫັນ, ທັງ ຫມົດ ດ້ວຍສ່ວນຮ່າງກາຍທີ່ບໍ່ເຫມາະສົມ - ຫົວໃຫຍ່ເກີນໄປ ສໍາ ລັບກະຕ່າຂອງພວກເຂົາ, ສ່ວນຮ່າງກາຍຂອງແມ່ຍິງປະສົມປະສານກັບຫົວຜູ້ຊາຍ, ທັງຫມົດຖືກຕັດຮ່ວມກັນດ້ວຍການຕັດຂະຫນາດໃຫຍ່, ບໍ່ເທົ່າທຽມກັນ. Plissken ແມ່ນອ້ອມຮອບ.
 
 190
 00:14:34,250 --> 00:14:36,250
@@ -2059,7 +2061,7 @@ It's Plissken. He grabs an electrical wire and throws it over the side...
 00:23:45,050 --> 00:23:47,500
 [AS PLISSKEN]
 Approaches, ducks behind an old junked car.
-ຄຸເຂົ່າລົງ
+ໃກ້ຊິດ, ກະຕ່າຢູ່ເບື້ອງຫຼັງລົດເກົ່າທີ່ຖືກຂີ້ເຫຍື້ອ.
 
 323
 00:23:48,000 --> 00:23:53,950
@@ -2078,7 +2080,7 @@ Ticks down: 5 - 4...
 00:23:56,950 --> 00:23:59,050
 [A BLACK MUSLIM]
 Dribbles the ball towards the basket.
-ຄຸເຂົ່າລົງ
+ດິບບານໄປສູ່ກະຕ່າ.
 
 326
 00:23:59,550 --> 00:24:01,550
@@ -2090,7 +2092,8 @@ Ticks down: 3 - 2...
 00:24:02,050 --> 00:24:08,050
 [THE BLACK MUSLIM]
 Pulls up into a jump shot, releases the ball into the air. It sails through the basket just as the horn goes off, beating the 24-second violation.
-ຄຸເຂົ່າລົງ
+ດຶງຂຶ້ນໃນການຍິງໂດດ, ປ່ອຍບານເຂົ້າໄປໃນອາກາດ.
+ມັນເດີນເຮືອຜ່ານກະຕ່າໃນເວລາດຽວກັນກັບກະຕູ້ອອກສຽງ, ເອົາຊະນະການລະເມີດ 24 ວິນາທີ.
 
 328
 00:24:08,550 --> 00:24:14,550
@@ -2116,7 +2119,7 @@ Guard still has the ball - the shot clock horn has gone off - 24 second violatio
 00:24:27,250 --> 00:24:33,250
 [BLAM! BLAM! BLAM!]
 The Korean Dragon guard is riddled with bullets. He falls dead on the floor. The Trainers with stretchers quickly collect his body and hurry off the court.
-ຄຸເຂົ່າລົງ
+ເຈົ້າຫນ້າທີ່ປ້ອງກັນດຣາກອນເກົາຫລີຖືກເຕັມໄປດ້ວຍລູກປືນ. ລາວຕົກຕາຍຢູ່ເທິງພື້ນ. ຜູ້ຝຶກອົບຮົມທີ່ມີກະຕ່າກະທູ້ເອົາຮ່າງກາຍຂອງລາວຢ່າງໄວວາແລະໄວອອກຈາກສານ.
 
 332
 00:24:33,750 --> 00:24:35,750
@@ -2346,7 +2349,7 @@ The driver swerves, hits the brakes... and the car hops the curb, slides along t
 00:27:01,600 --> 00:27:07,600
 [PLISSKEN AND UTOPIA]
 Are thrown forward. They tumble off the roof... across the hood... and land on the sidewalk in front of the car. They roll to a stop, as the car screeches to a stop, inches from their heads, as the caravan suddenly puts on its brakes.
-ຄຸເຂົ່າລົງ
+ພວກເຂົາຖືກຖິ້ມໄປທາງຫນ້າ. ພວກເຂົາຕົກລົງຈາກເຮືອນຫລັງ... ຂ້າມກະຕ່າກະຕູ້ກະຕຸ້ນກະຕໍ້ກະຕູ້ນີ້... ແລະລົງຈອດຢູ່ເທິງຖະຫນົນຫົນທາງຢູ່ຕໍ່ຫນ້າລົດ. ພວກເຂົາລວດລ້ອມຈົນຢຸດເຊົາ, ໃນຂະນະທີ່ລົດຮ້ອງໄຫ້ຈົນຢຸດຢັ້ງ, ນິ້ວຈາກຫົວຂອງພວກເຂົາ, ໃນຂະນະທີ່ລົດຂົນສົ່ງໃສ່ບຣັກຂອງມັນຢ່າງກະທັນຫັນ.
 
 368
 00:27:08,100 --> 00:27:10,100
@@ -2413,7 +2416,7 @@ No!
 00:27:38,200 --> 00:27:43,450
 [KABLAM!]
 Plissken's shoulder explodes as a bullet tears through his flesh! He spins, drops the prototype...
-ຄຸເຂົ່າລົງ
+ກະຕ່າຂອງປລິສສເກນລະເບີດໃນຂະນະທີ່ລູກປືນແຕກຜ່ານຊີ້ນຂອງລາວ! ລາວ ຫມູນ ວຽນ, ຖິ້ມແບບຕົ້ນແບບ...
 
 379
 00:27:43,950 --> 00:27:46,050
@@ -3218,7 +3221,7 @@ The President's promised to give whoever helps me 1 million dollars.
 00:36:01,750 --> 00:36:04,550
 [SPINAL]
 Yeah? Greenbacks? I got ten million of them.
-ຄຸເຂົ່າລົງ
+ແມ່ນແລ້ວ? ກະຕ່າສີຂຽວບໍ? ຂ້ອຍມີສິບລ້ານກະຕ່າ.
 
 507
 00:36:05,050 --> 00:36:07,050
@@ -3709,7 +3712,7 @@ Holy shit.
 00:40:33,950 --> 00:40:39,950
 [KAWHAM!]
 The line shoots out and a gleaming grappling hook slams into the side of Plissken's chopper, the prongs clawing in, holding. In the lead helicopter, the Black Cowboys, Spinal and Hershe aim their weapons.
-ຄຸເຂົ່າລົງ
+ເສັ້ນທາງຍິງອອກແລະກະຕ່າຈັບທີ່ສົດໃສຕີໃສ່ຂ້າງຂອງເຮືອບິນຈັກລໍາບາກຂອງປລິສສເກນ, ກະຕ່າກະຕຸ້ນເຂົ້າມາ, ຖື. ໃນເຮລິຄອບເຕີ ນໍາ ຫນ້າ, Cowboys ສີດໍາ, Spinal ແລະ Hershe ແນໃສ່ອາວຸດຂອງພວກເຂົາ.
 
 587
 00:40:40,450 --> 00:40:43,950

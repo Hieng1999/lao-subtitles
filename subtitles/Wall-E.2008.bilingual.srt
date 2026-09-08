@@ -457,7 +457,7 @@ Ee-vah... ?
 00:04:01,250 --> 00:04:07,250
 [ON FAR WALL]
 Two STEWARD ROBOTS come out of the wall. Act like hovering caution signs. A small robot  shoots out a PNEUMATIC TUBE. He bears epaulet like shoulders and a siren for a face. Gopher beeps an ELECTRONIC ORDER for the Stewards to follow.
-ຄຸເຂົ່າລົງ
+ໂຣບອດສ໌ສເຕວາດສອງຄົນອອກມາຈາກກໍາແພງ. ກະທໍາຄືກັບປ້າຍຄວາມລະມັດລະວັງທີ່ຍ່າງຢູ່ເທິງ. ໂຣເບີດນ້ອຍໆຍິງທໍ່ PNEUMATIC ອອກ. ລາວຖື epaulet ຄືກັບກະຕ່າແລະຊີເຣນ ສໍາ ລັບໃບຫນ້າ. Gopher ຮ້ອງຄໍາສັ່ງເອເລັກໂຕຣນິກ ສໍາ ລັບຜູ້ຈັດການທີ່ຈະຕິດຕາມ.
 
 72
 00:04:07,750 --> 00:04:13,750
@@ -528,7 +528,8 @@ Well then what do you want to do?
 00:04:47,850 --> 00:04:53,850
 [ON WALL-E]
 He looks over his shoulder. Passenger #2 is floating right next to them. Isolated in his own hover chair. Also in a red jumpsuit. Also a big baby.
-ຄຸເຂົ່າລົງ
+ລາວເບິ່ງຜ່ານກະຕ່າຂອງລາວ. ຜູ້ໂດຍສານ # 2 ກໍາ ລັງລອຍຢູ່ຂ້າງພວກເຂົາ.
+ຖືກແຍກອອກຈາກບ່ອນນັ່ງລອຍຂອງຕົນເອງ. ນອກຈາກນັ້ນໃນຊຸດກະຕຸ້ນສີແດງ. ນອກນັ້ນເປັນເດັກນ້ອຍໃຫຍ່.
 
 83
 00:04:54,350 --> 00:04:56,350
@@ -787,7 +788,8 @@ I didn't know we had a pool!
 00:07:23,950 --> 00:07:29,950
 [INSIDE THE ELEVATOR]
 Wall-E looks out on the descending Lido Deck. Marvels at it all. His view suddenly goes dark. The elevator doors open on...
-ຄຸເຂົ່າລົງ
+Wall-E ເບິ່ງອອກໄປເທິງກະຕ່າ Lido ທີ່ລົງໄປ. ແປກໃຈມັນທັງ
+ຫມົດ. ທັດສະນະຂອງລາວເຮັດໃຫ້ມືດທັນທີ. ປະຕູຍົກເປີດຢູ່...
 
 124
 00:07:30,450 --> 00:07:32,900
@@ -879,7 +881,8 @@ Honestly, it's the one thing I get to do on this ship.
 00:08:17,050 --> 00:08:23,050
 [OUT ON LIDO DECK]
 - The FAKE NOON SUN reverses at high speed to a SUNRISE. - Passengers' LUNCH CUPS switch to BREAKFAST CUPS. - Poolside passengers' umbrella-bots close up.
-ຄຸເຂົ່າລົງ
+- ແສງຕາເວັນຕອນບ່າຍທີ່ປອມແປງດ້ວຍຄວາມໄວສູງເປັນການຂຶ້ນແສງຕາເວັນ. -
+ຈອກອາຫານທ່ຽງຂອງຜູ້ໂດຍສານປ່ຽນເປັນຈອກອາຫານເຊົ້າ. - ເຮືອກະຕ່າຂອງຄົນໂດຍສານຂ້າງສະລອຍນ້ ໍາ ປິດລົງ.
 
 139
 00:08:23,550 --> 00:08:29,550
@@ -982,7 +985,7 @@ Wow... Will you look at that?
 00:09:27,100 --> 00:09:30,600
 [ON EVE]
 Wall-E taps her shoulder. Not now Wall-E -- Double take!
-ຄຸເຂົ່າລົງ
+Wall-E ຕີກະຕ່າຂອງນາງ. ບໍ່ແມ່ນດຽວນີ້ Wall- E - ເອົາສອງຄັ້ງ!
 
 155
 00:09:31,100 --> 00:09:33,100
@@ -1384,7 +1387,8 @@ Banks of controls light up around them.
 00:13:17,900 --> 00:13:23,900
 [AN ESCAPE POD]
 is revealed at the end of the room. Its hatch automatically opens. Bathes the room with light from its lit interior. Eve turns to Wall-E:
-ຄຸເຂົ່າລົງ
+ຖືກເປີດເຜີຍຢູ່ຕອນທ້າຍຫ້ອງ. ກະຕ່າຂອງມັນເປີດໂດຍອັດຕະໂນມັດ.
+ລ້າງຫ້ອງດ້ວຍແສງສະຫວ່າງຈາກພາຍໃນທີ່ສົດໃສຂອງມັນ. ເອວຫັນໄປຫາ Wall-E:
 
 219
 00:13:24,400 --> 00:13:26,400
@@ -1477,7 +1481,7 @@ Cruising speed.
 00:14:08,200 --> 00:14:11,350
 [SHIP'S COMPUTER]
 You are now free to move around the cabin.
-ຄຸເຂົ່າລົງ
+ເຈົ້າດຽວນີ້ສາມາດເຄື່ອນຍ້າຍຢູ່ທົ່ວກະຕ່າໄດ້.
 
 234
 00:14:11,850 --> 00:14:13,850
@@ -1641,7 +1645,8 @@ They soar across the Axiom's bow.
 00:15:26,400 --> 00:15:32,400
 [INSIDE THE CONCOURSE]
 The sky dome fast-forwards to evening. PAN OVER to the top of the bridge tower. The windows of the Captain's quarters are dark. Only the FLICKERING GLOW OF A HOLO-SCREEN lights the room.
-ຄຸເຂົ່າລົງ
+ກະທູ້ສະຫວັນໄວຕໍ່ໄປຈົນຮອດຕອນແລງ. ກະທູ້ນັ້ນເຖິງເທິງສຸດຂອງກະຕ່າຂົວ.
+ປ່ອງຢ້ຽມຂອງຫ້ອງແຖວຂອງຄັບປິນແມ່ນມືດ. ພຽງແຕ່ແສງສະຫວ່າງທີ່ສ່ອງແສງຂອງ ຫນ້າ ຈໍ HOLO ແສງໃນຫ້ອງ.
 
 260
 00:15:32,900 --> 00:15:34,900
@@ -1713,7 +1718,7 @@ A REPAIR-BOT  welds an antenna. Eve and Wall-E fly into the open hatch behind hi
 00:16:19,000 --> 00:16:22,850
 [SHIP'S COMPUTER]
 The Lido Deck is now closing...The Lido Deck is now closing.
-ຄຸເຂົ່າລົງ
+ກະຕູ້ລິໂດ ກໍາ ລັງປິດດຽວນີ້... ກະຕ່າລີໂດ ກໍາ ນົດດຽວນີ້.
 
 271
 00:16:23,350 --> 00:16:29,350
@@ -2150,7 +2155,8 @@ Must follow my directive.
 00:20:47,500 --> 00:20:53,500
 [DAAAARGH!!]
 The Captain turns away in frustration. His eyes catch sight of the CAPTAIN PORTRAITS. Notices AUTO in every one of them. Looking over all their shoulders. A little closer every generation. The Captain slowly looks over his shoulder... ...and Auto is right behind him. The Captain looks at the plant in his lap. His countenance grows determined. He rights his hat... ...turns to face Auto... ...and gives the most authoritative order of his career:
-ຄຸເຂົ່າລົງ
+ຄັບປິນຫັນໄປດ້ວຍຄວາມໂຊກຮ້າຍ. ຕາຂອງລາວຈັບເຫັນຮູບພາບຂອງຄັບປີນ. ສັງເກດ AUTO ໃນແຕ່ລະຄົນຂອງພວກເຂົາ. ເບິ່ງຜ່ານກະຕ່າຂອງພວກເຂົາທັງ ຫມົດ. ໃກ້ຊິດເລັກນ້ອຍແຕ່ລະລຸ້ນ.
+ຄອບປິນເບິ່ງຜ່ານກະທ່າຂອງລາວຊ້າໆ...... ແລະລົດແມ່ນຢູ່ເບື້ອງຫຼັງລາວ. ຄັບບິນເບິ່ງພືດໃນແອວຂອງລາວ. ໃບຫນ້າຂອງລາວເຕີບໃຫຍ່ທີ່ຕັດສິນໃຈ. ລາວສ້ອມແປງ ຫມວກ ຂອງລາວ...... ຫັນໄປຕໍ່ຫນ້າລົດ.... ແລະໃຫ້
 
 340
 00:20:54,000 --> 00:20:57,850
@@ -2200,7 +2206,8 @@ No!
 00:21:20,700 --> 00:21:26,700
 [ON TRASH CHUTE]
 ...THE PLANT suddenly reappears. Rises like a ghost, up from the chute. Wall-E's head follows. Unawares of the plant resting on his head.
-ຄຸເຂົ່າລົງ
+... ພືດປາກົດຕົວຄືນຢ່າງກະທັນຫັນ. ຂຶ້ນຄືກັບຈິດວິນຍານ, ຂຶ້ນຈາກກະຕ່າ.
+ຫົວຂອງ Wall-E ຕິດຕາມ. ບໍ່ຮູ້ກ່ຽວກັບພືດທີ່ພັກຜ່ອນຢູ່ເທິງຫົວຂອງລາວ.
 
 348
 00:21:27,200 --> 00:21:29,200
@@ -2212,7 +2219,8 @@ Ee-vah?
 00:21:29,700 --> 00:21:35,700
 [WALL-E!!]
 Wall-E straddles the top of the lip chute. The plant drops onto his chest. Wall-E looks at it with surprise.
-ຄຸເຂົ່າລົງ
+Wall-E ຍ່າງຢູ່ເທິງສຸດຂອງກະຕ່າປາກ.
+ພືດຕົກລົງໃສ່ກະທູ້ຂອງລາວ. ວໍລ-E ເບິ່ງມັນດ້ວຍຄວາມແປກໃຈ.
 
 350
 00:21:36,200 --> 00:21:38,200
@@ -2475,7 +2483,8 @@ Auto watches the deck plan display. Monitors the progress of all the stewards. T
 00:24:07,800 --> 00:24:13,400
 [THE CAPTAIN'S QUARTERS]
 The Captain, still trapped. Rams his hover chair against the locked elevator door. Has no effect.
-ຄຸເຂົ່າລົງ
+ຄັບປິນ, ຍັງຖືກຈັບກຸມ.
+ກະຕ່າກະຕ່າຂັບຂີ່ຂອງລາວຕໍ່ປະຕູຍົກທີ່ລັອກໄວ້. ບໍ່ມີຜົນກະທົບ.
 
 391
 00:24:13,900 --> 00:24:16,350
@@ -2791,7 +2800,7 @@ Noo --
 00:27:40,850 --> 00:27:46,850
 [ON LIDO DECK]
 The passengers all spill across the deck. Shaken but OK. Eve sets the monorail down. Rockets over to the holo-detector.
-ຄຸເຂົ່າລົງ
+ຜູ້ໂດຍສານທັງ ຫມົດ ຖິ້ມຜ່ານກະຕ່າ. ສັ່ນສະເທືອນແຕ່ບໍ່ເປັນຫຍັງ. ເອວວາງລົດໄຟໂມໂນຣາຍລ໌ລົງ. ລູກສອນໄຟໄປຫາເຄື່ອງກວດໂຮໂລ.
 
 440
 00:27:47,350 --> 00:27:53,350
@@ -2878,7 +2887,8 @@ appears on the ground. The cockroach watches the dot run down the hillside. The 
 00:28:39,300 --> 00:28:45,300
 [ON CLOUD COVER]
 A DARK PATCH grows behind the clouds. Blots out the sunlight. The Axiom's keel breaks through. Its shadow swallows up the entire landscape.
-ຄຸເຂົ່າລົງ
+ແຄບມືດເຕີບໃຫຍ່ຢູ່ເບື້ອງຫຼັງຫມອກ. ເຮັດໃຫ້ແສງແດດປິດບັງ.
+ກະຕ່າຂອງ Axiom ແຕກຜ່ານ. ຮູບເງົາຂອງມັນຈູດທ້ອງຖິ່ນທັງ ຫມົດ.
 
 454
 00:28:45,800 --> 00:28:51,050

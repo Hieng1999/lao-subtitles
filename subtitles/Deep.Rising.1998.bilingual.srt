@@ -113,7 +113,8 @@ If I told you once...I told you a thousand times...
 00:01:16,600 --> 00:01:22,600
 [PANTUCCI]
 I know...I know...if the cash is there we don't care...  Finnegan this is as mean a pile of shit as we ever carried...
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຮູ້... ຂ້ອຍຮູ້ວ່າ... ຖ້າເງິນສົດຢູ່ບ່ອນນັ້ນພວກເຮົາບໍ່ສົນໃຈ...
+ຟິນເນແກນ ນີ້ແມ່ນກະຕ່າໂຊກຮ້າຍທີ່ຮ້າຍແຮງທີ່ສຸດທີ່ພວກເຮົາເຄີຍຖື...
 
 20
 00:01:23,100 --> 00:01:25,550
@@ -389,7 +390,8 @@ You wanted to see me Captain?
 00:04:16,600 --> 00:04:22,600
 [CAPTAIN]
 We have a storm rising behind us... we may have to close the canopy, I hope it doesn't ruin your party.
-ຄຸເຂົ່າລົງ
+ພວກເຮົາມີລົມພາຍຸ ກໍາ ລັງຂຶ້ນຢູ່ເບື້ອງຫຼັງພວກເຮົາ...
+ພວກເຮົາອາດຈະຕ້ອງປິດກະຕ່າກະທູ້, ຂ້ອຍຫວັງວ່າມັນຈະບໍ່ ທໍາ ລາຍງານຂອງທ່ານ.
 
 64
 00:04:23,100 --> 00:04:29,100
@@ -1332,7 +1334,8 @@ She's almost past the gaping hole now.
 00:13:12,650 --> 00:13:18,650
 [KA-CHUNK-KA-CHUNK-KA-CHUNK...]
 Then something grabs her! She SCREAMS! And falls back towards the gaping hole -- But it's only a twisted piece of metal off a strut. She exhales. Relieved.
-ຄຸເຂົ່າລົງ
+ຫຼັງຈາກນັ້ນບາງສິ່ງບາງຢ່າງຈັບນາງ! ນາງຮ້ອງໄຫ້! ແລະຕົກກັບຄືນໄປບ່ອນໄປສູ່ຮູທີ່ແຕກແຍກ
+- ແຕ່ມັນພຽງແຕ່ເປັນຊິ້ນສ່ວນໂລຫະທີ່ສໍ້ໂກງຈາກກະຕ່າ. ນາງຫາຍໃຈ. ສະບາຍໃຈ.
 
 215
 00:13:19,150 --> 00:13:25,150
@@ -1874,7 +1877,7 @@ Dead.
 00:17:58,150 --> 00:18:04,150
 [YAAHHH!!]
 Chin charges Finnegan, the butt of his rifle raised to smash Finnegan's skull. Finnegan parries and drives Chin into the rear wall of the elevator. Mamooli jumps Finnegan from behind, wrapping his rifle against Finnegan's throat. Pantucci jumps on Mamooli's massive back, ripping at his face. Finnegan drops, buries his elbow in Mamooli's solar plexus, spins, and has his knife out of his boot and at Mamooli's throat in a flash.
-ຄຸເຂົ່າລົງ
+ຈິນໂຈມຕີຟິນເນແກນ, ກະຕ່າປືນຂອງລາວຖືກຍົກຂຶ້ນເພື່ອ ທໍາ ລາຍກະຕ່າຫົວຂອງຟິນນີແກນ. ຟິນນີເກນສ໌ແລະຂັບລົດຈິນເຂົ້າໄປໃນກໍາແພງຫຼັງຂອງຍົກ. ມາໂມລີໂດດຟີນເນແກັນຈາກຫຼັງ, ການຫຸ້ມຫໍ່ປືນຂອງຕົນຕໍ່ກັບຄໍຂອງຟີນນີແກັນ. Pantucci ໂດດໃສ່ຫລັງທີ່ໃຫຍ່ຫຼວງຂອງມາໂມຣີ, ແຕກຢູ່ໃບຫນ້າຂອງລາວ. ຟີນນີເຈນຫຼຸດລົງ, ຝັງກະຕ
 
 304
 00:18:04,650 --> 00:18:06,650
@@ -2594,7 +2597,8 @@ Canton backs away from the Captain, as the Captain's struggle draws him further 
 00:24:10,000 --> 00:24:14,900
 [HURRRRRTTTTTSSSS!!!]
 He struggles WILDLY. Then starts to freeze up as the tentacles wrap around him.
-ຄຸເຂົ່າລົງ
+ລາວຕໍ່ສູ້ຢ່າງປ່າປ່າ.
+ຫຼັງຈາກນັ້ນເລີ່ມກ້ອນລົງໃນຂະນະທີ່ກະຕ່າກະທູ້ຫຸ້ມຫໍ່ຢູ່ອ້ອມລາວ.
 
 422
 00:24:15,400 --> 00:24:17,400
@@ -2936,7 +2940,7 @@ I'll kill you!! I'll fucking kill you!! I'll do it! I'll do it! I'm not playin' 
 00:27:10,950 --> 00:27:16,950
 [FINNEGAN]
 I once saw a guy put a fish in a bottle, then he corked it, sealing it tight, and threw it to a baby octopus. The little sucker felt its way around that bottle, and in less than two minutes, got that cork off, slid inside, and ate that fish.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍເຄີຍເຫັນຜູ້ຊາຍຄົນຫນຶ່ງເອົາປາໃສ່ຈອກ, ຫຼັງຈາກນັ້ນລາວໄດ້ປິດມັນ, ປິດມັນຢ່າງເຂັ້ມງວດ, ແລະຖິ້ມມັນໃສ່ octopus ເດັກນ້ອຍ. ຄົນສູບນ້ອຍໄດ້ຮູ້ສຶກທາງຂອງຕົນຢູ່ອ້ອມຈອກນັ້ນ, ແລະໃນເວລາບໍ່ເກີນສອງນາທີ, ເອົາກະຕ່ານັ້ນອອກ, ລອຍເຂົ້າໄປໃນ, ແລະກິນປານັ້ນ.
 
 478
 00:27:17,450 --> 00:27:19,900
@@ -3258,7 +3262,7 @@ What?
 00:30:05,850 --> 00:30:11,850
 [FINNEGAN]
 You know what kind of force it took to rip open the bow of this ship? A million little things like this...
-ຄຸເຂົ່າລົງ
+ເຈົ້າຮູ້ວ່າມັນຕ້ອງໃຊ້ກໍາລັງໃດເພື່ອເປີດກະຕ່າຂອງເຮືອນີ້? ສິ່ງນ້ອຍໆຫຼາຍລ້ານຢ່າງນີ້...
 
 530
 00:30:12,350 --> 00:30:18,350
@@ -3460,7 +3464,7 @@ Red cross over to blue double blue ...is that what it is? A squid?
 00:32:16,000 --> 00:32:22,000
 [FINNEGAN]
 Squid...squid like...squid type... it's got tentacles, a feed sac... probably one central nervous processor somewhere...what the hell do I know is going on deep down in the ocean...there's all sorts of shit we've never seen...eighty foot clams...60 foot sharks...I'm just guessing...can you get me more juice out of Hercules...fast?
-ຄຸເຂົ່າລົງ
+ກະຕ່າກະຕ່າ... ກະທູ້ກະຕູ້... ມັນມີກະທູ້, ກະຕູ້ອາຫານ... ບາງທີຜູ້ປະມວນຜົນປະສາດໃຈກາງ ຫນຶ່ງ ບ່ອນໃດຫນຶ່ງ... ຂ້ອຍຮູ້ຫຍັງທີ່ ກໍາ ລັງເກີດຂຶ້ນໃນເລິກໃນມະຫາສະຫມຸດ... ມີທຸກຊະນິດຂອງສິ່ງແວດລ້ອມທີ່ພວກເຮົາບໍ່ເຄີຍເຫັນ... ແມວຫົກສິບຕີນ... ຫມາແມວ 60 ຕີນ... ຂ້ອຍພຽງແຕ່ຄິດວ່າ... ເຈົ້າສາມາດເອົານ້ ໍາ ມັນຈາກເຮຣກູເລສໄດ້ບໍ... ໄວ?
 
 562
 00:32:22,500 --> 00:32:25,300
@@ -3622,7 +3626,7 @@ She's gone...
 00:33:59,100 --> 00:34:03,650
 [FINNEGAN]
 Second whistle you make it to the deck and get ready to jump...
-ຄຸເຂົ່າລົງ
+ສຽງຟີສ໌ທີສອງເຈົ້າເຮັດໃຫ້ມັນໄປຫາກະຕ່າແລະກຽມພ້ອມທີ່ຈະໂດດ...
 
 588
 00:34:04,150 --> 00:34:08,350

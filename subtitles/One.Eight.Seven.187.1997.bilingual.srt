@@ -2,7 +2,8 @@
 00:00:10,000 --> 00:00:16,000
 [ASSISTANT PRINCIPAL]
 ... Let's go, people! Tardy lock- out starts in one minute! Get your butts in gear! One minute, people! Move it!
-ຄຸເຂົ່າລົງ
+ໄປ, ຄົນ! ການລັອກອອກຊ້າເລີ່ມຕົ້ນໃນ ຫນຶ່ງ ນາທີ!
+ເອົາກະຕ່າຂອງທ່ານໃນ gear ໄດ້! ຫນຶ່ງ ນາທີ, ປະຊາຊົນ! ຍ້າຍມັນ!
 
 2
 00:00:16,500 --> 00:00:22,500
@@ -1438,7 +1439,8 @@ It's only 'til the end of the year.
 00:15:03,300 --> 00:15:07,500
 [ELLEN]
 Listen, I never thanked you for letting me cry on your shoulder.
-ຄຸເຂົ່າລົງ
+ຟັງ,
+ຂ້ອຍບໍ່ເຄີຍຂອບໃຈເຈົ້າເລີຍທີ່ປ່ອຍໃຫ້ຂ້ອຍຮ້ອງໄຫ້ຢູ່ເທິງກະຕ່າຂອງເຈົ້າ.
 
 230
 00:15:08,000 --> 00:15:10,000

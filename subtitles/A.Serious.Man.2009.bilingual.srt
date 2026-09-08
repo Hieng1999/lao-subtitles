@@ -1679,7 +1679,7 @@ I'm just-I'm not ungrateful, I'm, I just don't know a lot about wine and, given 
 [HALLWAY]
 The bathroom door cracks open in the foreground. DANNY peeks out. His point-of-view: the empty hallway ending in a T with another hallway. A janitor crosses, pushing a broom down the far hallway. He disappears. His echoing footsteps recede. DANNY and Ronny emerge from the bathroom.
 ປະຕູຫ້ອງນ້ ໍາ ເປີດຢູ່ທາງຫນ້າ. ດານນີເບິ່ງອອກໄປ. ຈຸດເຫັນຂອງລາວ: ທາງເດີ່ນທີ່ຫວ່າງສິ້ນສຸດລົງໃນ T ກັບທາງເດີ່ນອື່ນ.
-ຜູ້ຮັກສາຄວາມປອດໄພຂ້າມໄປ, ດັນຄຸເຂົ່າລົງທາງເດີນທາງທາງໄກ. ລາວຫາຍໄປ. ການຍ່າງຂອງລາວທີ່ສັ່ນສະເທືອນຖອຍໄປ. DANNY ແລະ ໂຣນນີອອກມາຈາກຫ້ອງນໍ້າ.
+ຜູ້ຮັກສາຄວາມປອດໄພຂ້າມໄປ, ດັນກະຕ່າລົງທາງເດີນທາງທາງໄກ. ລາວຫາຍໄປ. ການຍ່າງຂອງລາວທີ່ສັ່ນສະເທືອນຖອຍໄປ. DANNY ແລະ ໂຣນນີອອກມາຈາກຫ້ອງນໍ້າ.
 
 263
 00:19:15,550 --> 00:19:21,550

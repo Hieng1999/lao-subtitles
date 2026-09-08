@@ -23,7 +23,8 @@ Why would you say that I am insane?  I wouldn't say that I've lost my mind simpl
 00:00:28,400 --> 00:00:34,400
 [ASH]
 I first saw the damn thing at that blasted cabin. The Necronomicon. An ancient Sumarrian text, bound in human flesh and inked in human blood. It contained bizarre burial rites, prophesies...and instruction for demon resurrection. It was never meant for the world of the living.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍເຫັນສິ່ງແວດລ້ອມຄັ້ງ ທໍາ ອິດທີ່ກະຕ່າທີ່ຖືກລະເບີດນັ້ນ. Necronomicon. ບົດຂຽນ Sumarian ບູຮານ, ຖືກຜູກມັດໃນຊີ້ນມະນຸດແລະໃສ່ສີໃນເລືອດມະນຸດ.
+ມັນປະກອບມີພິທີການຝັງສົບທີ່ແປກໃຈ, ຄໍາ ພະຍາກອນ... ແລະ ຄໍາ ແນະ ນໍາ ສໍາ ລັບການຟື້ນຟູມານຮ້າຍ. ມັນບໍ່ເຄີຍ ຫມາຍ ຄວາມວ່າ ສໍາ ລັບໂລກຂອງຄົນມີຊີວິດ.
 
 5
 00:00:34,900 --> 00:00:37,700
@@ -35,13 +36,15 @@ The book awoke something dark in the woods.
 00:00:38,200 --> 00:00:44,200
 [SUPERIMPOSE:]
 4	  BOOK OF THE DEAD - CAMERA PANNING STRANGE SCRIPT			 4 inscribed on the pages.  Illustrations of demonic faces with white eyes. 5	  EXT. WOODS - NIGHT									 5 We take the point of view of a wind-like demon, swooping low through the woods toward the cabin.  CAMERA rips through the cabin door and comes upon a SCREAMING Ash.
-ຄຸເຂົ່າລົງ
+4 ປື້ມຂອງຄົນຕາຍ - ກ້ອງຖ່າຍຮູບ PANNING SCRIPT ແປກໃຈ 4 ຂຽນໃສ່ຫນ້າ. ຮູບພາບຂອງໃບຫນ້າຜີວາດທີ່ມີຕາສີຂາວ. 5 EXT. ໄມ້ - ຄືນ 5
+ພວກເຮົາເອົາທັດສະນະຂອງວິນຍານທີ່ຄ້າຍຄືກັບລົມ, ບິນຕໍ່າຜ່ານປ່າໄມ້ໄປສູ່ກະຕ່າ. ກ້ອງ ຖ່າຍຮູບແຕກຜ່ານປະຕູຄາຕ່າແລະພົບກັບຂີ້ເຜົາທີ່ຮ້ອງໄຫ້.
 
 7
 00:00:44,700 --> 00:00:50,700
 [ASH]
 It got into my hand and it went bad. 6	  CLOSE ON ASH'S POSSESSED HAND							6 twisting into a claw, before the flashing thunder clouds.
-ຄຸເຂົ່າລົງ
+ມັນເຂົ້າໄປໃນມືຂອງຂ້ອຍແລະມັນໄປບໍ່ດີ. 6 ໃກ້ກັບມືທີ່ຖືຂອງອາຊ໌
+6 ຫັນເປັນກະຕ່າ, ກ່ອນຫມອກຟ້າຮ້ອງໄຟຟ້າທີ່ສ່ອງສະຫວ່າງ.
 
 8
 00:00:51,200 --> 00:00:57,200
@@ -61,7 +64,7 @@ In order to rid myself of the foul thing, I read from a passage in the book that
 00:01:04,200 --> 00:01:10,200
 [ASH]
 ...I just didn't plan on coming along. 11	 EXT. CABIN - NIGHT									 11 Ash, now armed with shotgun and chainsaw, is swallowed by the funnel-cloud of the Time vortex. 12	 INT. TIME VORTEX									   12 Ash is rocketing through a funnel of swirling clouds.  He is swept away from us, hand over foot, through the dark void of Time. 13	 ANIMATION - A TENDRIL OF SMOKE						    13 swirls through blackness as a chorus of women's voices build to eerie crescendo, from a musical note to a SCREAM.  The smoke swirls, pulls in upon itself, like a thing alive, and forms the words:
-ຄຸເຂົ່າລົງ
+ຂ້ອຍພຽງແຕ່ບໍ່ໄດ້ວາງແຜນທີ່ຈະມາພ້ອມກັນ. 11 EXT. ຄາບິນ - ຄືນ 11 ອາສ໌, ດຽວນີ້ອາວຸດດ້ວຍປືນປືນແລະກະດານຕັດກະຕູ້ກະຕ່າກະຕຸ້ນກະຕ້າກະຕ່າຍກະຕູກກະຕຸກກະຕົວກະຕຸນກະຕາດກະຕຸນະຕາດຕະຕາດ. 12 INT. TIME VORTEX 12 Ash ແມ່ນ rocketing ຜ່ານກະຕູ້ນະຕີດກະຕຸງກະຕັນະຕັດກະຕະນະຕັນກະຕູນະຕວດກະຕ
 
 11
 00:01:10,700 --> 00:01:13,850
@@ -121,7 +124,8 @@ Aye!  The pit's a fair test!
 00:01:55,950 --> 00:02:01,950
 [GOLD TOOTHED WARRIOR]
 To the pit with the blackard! 32	 GOLD TOOTH										    32 charges his horse at Ash. But he is met with the wooden stock of Ash's shotgun as it swings into frame, cracking against his jaw. 33	 WIDE SHOT - GOLD TOOTH - STUNTMAN						 33 He tumbles from the horse. leaps atop Gold Tooth's horse and jerks the reigns. 35	 LONG SHOT - ASH'S HORSE								 35 rears up, kicking it's hooves into the air. gallops off as Warrior #2 runs at him. Ash kicks him in the face as he gallops past.  The Warrior is sent reeling. 37	 TRUCKING SHOT - ASH									37 galloping over a hill.  He is almost thrown by the horse, but manages to hang on for dear life.
-ຄຸເຂົ່າລົງ
+ໄປຫາຮູທີ່ມີກະດານສີ ດໍາ! 32 ແຂ້ວຄໍາ 32 ໂຈມຕີມ້າຂອງລາວໃສ່ອາຊ໌. ແຕ່ລາວພົບກັບກະດູກໄມ້ຂອງປືນປືນຂອງອາສ໌ໃນຂະນະທີ່ມັນຫັນເຂົ້າໄປໃນກອບ, ແຕກຕໍ່ກະຕ່າຂອງລາວ. 33
+ການຍິງຢ່າງກວ້າງຂວາງ - ແຂ້ວ ຄໍາ - STUNTMAN 33 ລາວຕົກຈາກມ້າ. ກະໂດດຢູ່ເທິງມ້າຂອງແຂ້ວຄໍາແລະຍັບອານາຈັກ. 35 ການຍິງຍາວ - ມ້າຂອງອາຊິງ 35 ຂຶ້ນຫຼັງ, ການຕີກະຕ
 
 20
 00:02:02,450 --> 00:02:08,450
@@ -134,7 +138,8 @@ Where the hell they put the stirrups on this thing!!?? 38	 CLOSE SHOT - ASH'S FE
 00:02:08,950 --> 00:02:14,950
 [ARTHUR]
 LIEUTENANTS!  Fetch me the blackard. 41	 TWO OF ARTHUR'S ARMORED HORSEMEN						  41 unsheathe their broadswords and gallop after Ash. The remaining Warriors watch for sport. 42	 HIGH SHOT - TWO HORSEMEN								42 They are gaining an Ash. glances behind him. 44	 ASH'S P.O.V. - TRUCKING SHOT - TWO HORSEMEN IN PURSUIT		44 They diverge to either side of CAMERA. whips his horse.
-ຄຸເຂົ່າລົງ
+ພົນຈັດຕະວາ! ເອົາກະຕ່າສີດໍາມາໃຫ້ຂ້ອຍ. 41 ສອງຄົນຂອງກະທູ້ກະຕຸ້ນກະຕູ້ກະດູກກະຕູ້ນະທັດຮັດຂອງແອດເຕີ 41
+ປົດກະຕ້າກະຕຸກກະຕໍ້ກະຕ່າຍກະຕຸນກະຕະນາກກະຕັນກະຕານກະຕວງກະຕາດກະຕ້ນກະຕວນກະຕ່ານກະຕອງກະຕົງກະຕຸ່ນກະຕູນກະຕ້ານກະຕໍານກະຕຸງກະຕັ່ນກະຕວດກະຕິງກະຕັງກະຕັ່ງກະຕ
 
 22
 00:02:15,450 --> 00:02:21,450
@@ -454,7 +459,8 @@ What's going on? ARTHUR points to... 217	THE TRAIL THAT LIES BEFORE THEM						  
 00:06:47,800 --> 00:06:53,800
 [WISEMAN JOHN]
 This is the edge of the land ruled by the Dark Spirit. This path will lead you to an unholy place. A cemetery. There, the Necronomicon awaits. anxiously eyes the wall of swirling mist. 219	THE TWO WARRIORS									   219 finish placing saddlebags of water and food onto... ASH'S HORSE which nervously pounds the earth with it's hooves.
-ຄຸເຂົ່າລົງ
+ນີ້ແມ່ນແຄມຂອງແຜ່ນດິນທີ່ປົກຄອງໂດຍຈິດວິນຍານມືດ. ເສັ້ນທາງນີ້ຈະພາເຈົ້າໄປບ່ອນທີ່ບໍ່ສັກສິດ. ສົບ. ຢູ່ບ່ອນນັ້ນ, Necronomicon ລໍຖ້າ.
+ເບິ່ງກໍາແພງຂອງຫມອກທີ່ຫມູນວຽນຢ່າງກັງວົນ. 219 ນັກຮົບສອງຄົນ 219 ສິ້ນສຸດການວາງຖົງກະຕ່າຂອງນ້ ໍາ ແລະ ອາຫານໃສ່... ມ້າຂອງອາຊ໌ເຊິ່ງເຮັດໃຫ້ໂລກມີຄວາມເຄັ່ງຕຶງ.
 
 69
 00:06:54,300 --> 00:06:59,900
@@ -473,7 +479,8 @@ A moment. 220	WISEMAN JOHN										  220 moves close to Ash.
 00:07:04,400 --> 00:07:10,000
 [WISEMAN JOHN]
 As thou removest the Book from it's cradle, you must recite these words.  Clatoo, verata, Nicto.
-ຄຸເຂົ່າລົງ
+ໃນຂະນະທີ່ເຈົ້າເອົາປື້ມອອກຈາກກະຕ່າຂອງມັນ,
+ເຈົ້າຕ້ອງອ່ານຄໍາເຫຼົ່ານີ້. ຄລາໂຕ, ເວຣາຕາ, ນິກໂຕ.
 
 72
 00:07:10,500 --> 00:07:12,500
@@ -524,7 +531,8 @@ Come on!  Come on! The chainsaw dies. He jerks out his arm to restart it. Putt. 
 00:07:39,950 --> 00:07:45,950
 [ASH]
 Blasted piece of junk! 248	THE EVIL FORCE										248 draws closer. delivers a mighty kick to the door. 250	INT. SHED											250 ANGLE ON DOOR The partially cut log gives way.  Ash tumbles into the storage shed. He slams the door shut and slides the remainder of the log across the latch, re-bolting it. 251	THE EVIL FORCE										251 Hammers at the door of the Shed. BANG! 252	INT. SHED											252 A terrified Ash braces his back against the door. BANG! Earth shaking in its intensity. The planks of the door shudder behind Ash. 253	CLOSE ON LOG BOLT									  253 It cracks. presses himself against the door for all he's worth, praying that whatever it out there, won't get in. BANG!  Splinters fly. 255	CLOSE ON LOG BOLT									  255 BOOM!  The crack widens. 256	THE DOOR FRAME										256 behind Ash begins to buckle beneath the hammering blows. begins to SCREAM.  And the BANGING halts. 258	LONG SHOT - INT. SHED								   258 All is quiet.  Ash hugs the door. Shaking in the silence.  And that's when it hits.  LIKE A LOCOMOTIVE! Ash and the door he braces are blasted away from the wall of the Shed as the Evil Force brings it's tremendous power to bare. 259	INT. SHED - SAM-O-CAM - INTERVOLOMETER					 259 TRACKING WITH ASH AND THE DOOR as they are swept up at super speed in the grip of the Evil Force.  Ash is seen rocketing through the long hallway of the Shed, spinning head over heels.  Ash rips through other doors, taking them with him. Ash is now sandwiched between two doors as he flies through the air. 260	EXT. SHED - SIDE SHOT								   260 The roof of the shed ripples, sending tiles and wood beams flying as the EVIL FORCE surges through the shed like a tidal wave. 261	EXT. REAR DOOR OF SHED								  261 It blows out from the place in a flying stack along with the other doors.  The flying doors slam against a tree and fall to the ground in a stack. 262	THE EVIL FORCE										262 with Ash out of sight, glides forward, into the woods. 263	EXT. SHED- DUSK									    263 LOOKING DOWN UPON - THE STACKS OF DOORS. All is quiet.  We hear the sound of a bolt moving. The doorknob turns slightly.  The door swings upward and opens... revealing a somewhat flattened Ash who picks his groggy and bruised self up.
-ຄຸເຂົ່າລົງ
+ກະດານຂີ້ເຫຍື້ອທີ່ຖືກລະເບີດ! 248 ກໍາ ລັງຮ້າຍ 248 ໃກ້ຊິດ. ສົ່ງການຕີທີ່ເຂັ້ມແຂງຕໍ່ປະຕູ. 250 INT. SHED 250 ມຸມໃສ່ປະຕູກະດານທີ່ຕັດບາງສ່ວນເຮັດໃຫ້ທາງອອກໄປ.
+Ash ຕົກລົງໃນຈານເກັບມ້ຽນ. ລາວປິດປະຕູແລະເລື່ອນສ່ວນທີ່ເຫຼືອຂອງກະດ່ານຂ້າມລັອກ, ປິດມັນຄືນ. 251 ກໍາ ລັງແຮງຮ້າຍ 251 ກະຕ່າກະທູ້ຢູ່ປະຕູຂອງກະຕູ້. BANG! 252 INT
 
 80
 00:07:46,450 --> 00:07:52,050
@@ -572,13 +580,15 @@ Ooops. 307	TINY ASH #2										   307 is burned alive. glances downward at the 
 00:08:25,050 --> 00:08:31,050
 [ASH]
 Nasty little thing's inside me. He stands indignant but double over in sudden pain. Well let's see how you like a little hot water! He grabs the hot kettle from the stove and pours the scalding contents painfully down his throat.  He sets down the kettle and waits for a moment.  A tiny SCREAM emits from Ash's stomach ASH emits a bark of LAUGHTER. He clutches as his chest.  Then his arm.  He rips back his shirt sleeve. 318	CLOSE ON ASH'S ARM - STOP MOTION ANIMATION				  318 We can see the outline of Tiny Ash #6's body squirming down Ash's arm, just beneath the skin. watches in horror as... 320	THE TINY FIGURE									    320 squirms down his wrist and disappears into his iron hand.  The Iron hand snaps open and closes uncontrollably. The possessed iron hand swings at him. 321	THE IRON HAND										 321 connects with an uppercut that knocks Ash out of frame. lands next to an iron vice. He reaches for the EVIL HAND.  But the hand has grabbed a mallet that BONK-BONKS him on the head. Ash is groggy as he is grabbed by the hair and yanked down into the opened vice. 323	THE EVIL IRON HAND									 323 cranks the vice's handle. tightens around Ash's head.  Trapped, he looks to... 325	THE EVIL HAND										 325 rummaging through a wooden toolbox.  It comes upon a crude wooden punch. 326	ANGLE - THE EVIL HAND - UNDERCRANKED					   326 stabs rapidly at Ash's good hand.  But Ash expertly dodges each stab with an opening of the fingers or a closing of the thumb is super fast motion. with is head still wedged in the vice.
-ຄຸເຂົ່າລົງ
+ສິ່ງນ້ອຍໆທີ່ຮ້າຍແຮງຢູ່ພາຍໃນຂ້ອຍ. ລາວຢືນໂຊກຮ້າຍແຕ່ສອງເທົ່າໃນຄວາມເຈັບປວດຢ່າງກະທັນຫັນ. ດີມາເບິ່ງວ່າເຈົ້າມັກນ້ ໍາ ຮ້ອນ ຫນ້ອຍ ຫນຶ່ງ ແນວໃດ!
+ລາວຈັບກະຕູ້ຮ້ອນຈາກເຕົາໄຟແລະຖອກເນື້ອໃນທີ່ຮ້ອນລົງໃນຄໍຂອງລາວຢ່າງເຈັບປ່ວຍ. ລາວວາງກະຕ່າແລະລໍຖ້າຊົ່ວຄາວຫນຶ່ງ. ສຽງຮ້ອງໄຫ້ນ້ອຍໆອອກຈາກທ້ອງຂອງອາສ໌ອອກກະດູກຂອງຄວາມມ່ວນຊື່ນ. ລາວຈັບເປັນທ້ອງຂອງລາວ. ຫຼັງຈາກນັ້ນແຂນຂອງລາວ
 
 87
 00:08:31,550 --> 00:08:37,550
 [ASH]
 Why you dirty little...AHHHHHH!! 328	A PAIR OF IRON PLIERS								   328 has entered frame and clamps down upon Ash's nose.  He emits a nasal SCREAM and shakes the pliers loose.
-ຄຸເຂົ່າລົງ
+ເປັນຫຍັງເຈົ້າຈຶ່ງເປື້ອນນ້ອຍໆ... AHHHHHH!! 328 ຄູ່ຂອງກະດານເຫຼັກ 328
+ໄດ້ເຂົ້າໄປໃນກອບແລະຄັດລົງໃສ່ດັງຂອງອາສ໌. ລາວອອກສຽງຮ້ອງໄຫ້ດັງແລະສັ່ນກະຕ່າກະດູກ.
 
 88
 00:08:38,050 --> 00:08:40,850
@@ -624,13 +634,13 @@ No, no--not the poke-- SSSSsssssssss! jerks his head free from the vice with a S
 00:09:13,450 --> 00:09:19,450
 [ASH]
 Okay then. But he halts abruptly as he feels a strange sensation: His shoulder itches.  He scratches it.  The Itch grows.  It itches madly.  He rips back his shirt.  Upon his shoulder... THERE BLINKS A THIRD EYEBALL!!! 333	THE CAMERA RACES INTO THIS HIDEOUS SIGHT				    333 It is the eyeball of EVIL ASH.  Beneath it, a mouth and nose begin to take shape on the surface of Ash's back. SHRIEKS and SHRIEKS and races out of the mill.  The CAMERA follows him in docu-horror style as he flees into the dark woods. 335	EXT. WOODS - 12MM LENSE - NIGHT						   335 ASH staggers about in a frenzy, stumbling over logs and through the
-ຄຸເຂົ່າລົງ
+ດີແລ້ວ. ແຕ່ລາວຢຸດເຊົາຢ່າງກະທັນຫັນໃນຂະນະທີ່ລາວຮູ້ສຶກຄວາມຮູ້ສຶກທີ່ແປກໃຈ: ກະຕ່າຂອງລາວກັດ. ລາວກັດມັນ. ການກັດຂະຫຍາຍຕົວ. ມັນກັດຂັດຢ່າງໂຊກຮ້າຍ. ລາວຕັດເສື້ອຜ້າຂອງລາວຄືນ. ຢູ່ເທິງກະຕ່າລາວ... ມີຕາຕາທີສາມສ່ອງແສງ!!! 333 ກ້ອງຖ່າຍຮູບແລ່ນເຂົ້າໄປໃນທັດສະນະທີ່ລັບນີ້ 333 ມັນແມ່ນຕາຕາຂອງອາຊ໌ຮ້າຍແຮງ. ຢູ່ພາຍໃຕ້ມັນ, ປາກແລະດັງເລີ່ມສ້າງຮູບຮ່າງ
 
 95
 00:09:19,950 --> 00:09:25,950
 [ASH]
 Dear God, it's growing bigger! 336	THE PROTRUSION SWELLS AND GROWS LARGER.					336 It's taking the shape of a twin human head as it emerges from his shoulder. A head that looks similar to his own, but is Evil incarnate. He is now a man with two heads! 337	TWO HEADED ASH										337 Staggers through the woods like a drunkard, the two identical heads trading insults, and sharply butting against one another. 338	THE BAD ASH HEAD									   338 opens it's mouth and bites the nose of the Good Ash head. 339	THE GOOD ASH HEAD									  339 retaliates by gouging the eyes of the Bad Ash head. 340	TWO HEADED ASH										340 collapses against a tree.  Under the light of the full moon we see a terrifying sight: 341	TWO ADDITIONAL ARMS									341 sprout from Ash's body! rips out of his stomach.  Another foot POPS out from his back. 343	TWO HEADED ASH										343 Like a human spider he scurries about the forest floor, propelled by his four arms and four legs.  Suddenly he stands and SHRIEKS as the EVIL ASH begins to pull away from the first. He literally splits into two. 344	SPLIT SCREEN - WIDE SHOT								344 When it's over, there are two ASHES. GOOD ASH and... They square off beneath the moonlight. 346	HIGH SHOT AS THE TWO ASHES							   346 circle one another like wolves.
-ຄຸເຂົ່າລົງ
+ພຣະເຈົ້າທີ່ຮັກແພງ, ມັນ ກໍາ ລັງເຕີບໃຫຍ່ຂຶ້ນ! 336 ການກະຕຸ້ນຂະຫຍາຍຕົວແລະຂະຫຍາຍໃຫຍ່ຂຶ້ນ. 336 ມັນເປັນການເອົາຮູບຮ່າງຂອງຫົວມະນຸດຄູ່ໃນຂະນະທີ່ມັນ emerges ຈາກກະຕ່າຂອງລາວ. ຫົວທີ່ເບິ່ງຄືວ່າຄ້າຍຄືກັບຂອງຕົນເອງ, ແຕ່ເປັນໂຊກຮ້າຍທີ່ສົດໃສ. ລາວດຽວນີ້ເປັນຜູ້ຊາຍທີ່ມີຫົວສອງຫົວ! 337 ສອງຫົວ Ash 337 Staggers ຜ່ານປ່າໄມ້ຄືກັບຄົນດື່ມ, ຫົວສອງທີ່ຄ້າຍຄືກັນການແລກປ່ຽນການປະນາມ, ແລະຕໍ່ສູ້ກັນຢ່າງຮັດ
 
 96
 00:09:26,450 --> 00:09:28,550
@@ -701,7 +711,8 @@ Hey, what's that you got on your face?
 00:10:16,050 --> 00:10:22,050
 [EVIL ASH HEAD]
 Huh? 363	CLOSE SHOT - THE EVIL DEAD							   363 It's eyes dart, looking for something on it's face when a shovelful of dirt is heaped atop it. 364	EVIL ASH HEAD - P.O.V. - EYEMO						    364 as a shovelful of dirt is heaped atop the CAMERA. buries it deep.  He raises a crude burial marker high above his head;
-ຄຸເຂົ່າລົງ
+ຮາ? 363 ການຍິງໃກ້ຊິດ - ຄົນຕາຍທີ່ຮ້າຍແຮງ 363 ມັນເປັນຕາດາວ, ຊອກຫາບາງສິ່ງບາງຢ່າງໃນໃບຫນ້າຂອງມັນເມື່ອກະຕ່າຂີ້ເຫຍື້ອທີ່ເຕັມໄປດ້ວຍດິນຖືກເກັບໄວ້ເທິງມັນ. 364
+ຫົວຂີ້ເຜີ້ງຮ້າຍແຮງ - P.O.V. - EYEMO 364 ໃນຖານະເປັນກະຕູ້ຂີ້ຝັງຖືກເກັບໃສ່ເທິງກ້ອງຖ່າຍຮູບ. ຝັງມັນຢ່າງເລິກເຊິ່ງ. ລາວຍົກເຄື່ອງ ຫມາຍ ຝັງສົບທີ່ຮຸນແຮງຢູ່ເທິງຫົວຂອງລາວ;
 
 107
 00:10:22,550 --> 00:10:28,550
@@ -870,7 +881,8 @@ No...I sensed something had gone awry. The book's power. It's gone. murmurs at t
 00:12:47,250 --> 00:12:51,800
 [WISEMAN JOHN]
 When you removed the Necronomicon from it's cradle, did you speak the words?
-ຄຸເຂົ່າລົງ
+ເມື່ອເຈົ້າເອົາ Necronomicon
+ອອກຈາກກະຕ່າຂອງມັນ, ເຈົ້າເວົ້າຄໍາເວົ້າບໍ?
 
 132
 00:12:52,300 --> 00:12:54,300
@@ -1016,7 +1028,8 @@ But two days ride.
 00:14:45,900 --> 00:14:49,400
 [ARTHUR]
 Then these winged ones are only the first of them.
-ຄຸເຂົ່າລົງ
+ຫຼັງຈາກນັ້ນພວກທີ່ມີກະຕ່າເຫຼົ່ານີ້ແມ່ນພຽງແຕ່ຄັ້ງ
+ທໍາ ອິດຂອງພວກມັນເທົ່ານັ້ນ.
 
 154
 00:14:49,900 --> 00:14:53,400
@@ -1333,7 +1346,8 @@ M'Lord!  A second division approaching from the South. turns to the South. 530	A
 00:18:33,500 --> 00:18:39,500
 [ARTHUR]
 Powder! 532	GOLD TOOTH AND OTHER WARRIORS							532 hoist large sacks of black powder onto spoons of the catapults. Their fuses are lit. gestures. Swords slice through lines which send giant sacks of black powder catapulting. 534	LONG SHOT - CASTLE									 534 Three flaming projectiles whine as they hurl over the castle walls. 535	THREE FALLING SATCHELS P.O.V.'S						   535 CAMERA CRANING DOWN toward the skeletons as they look upward in horror. BOOM!  The first blast takes out a skeleton horse and rider. Bones fly. BOOM!  FOUR DEADITES are obliterated. turns to the Skeleton Captain #1 who rides alongside him.
-ຄຸເຂົ່າລົງ
+ຝຸ່ນ! 532 ແຂ້ວຄໍາແລະນັກຮົບອື່ນໆ 532 ຍົກຖົງຝຸ່ນສີດໍາຂະຫນາດໃຫຍ່ໃສ່ກະຕ່າຂອງ catapults ໄດ້. ໄຟຟູຂອງພວກເຂົາຖືກແສງສະຫວ່າງ. ການກະຕຸ້ນ.
+ກະຕ່າຕັດຜ່ານເສັ້ນທີ່ສົ່ງຖົງທີ່ຍິ່ງໃຫຍ່ຂອງຝຸ່ນສີ ດໍາ catapulting ໄດ້. 534 ການຍິງຍາວ - ຄາຊລ 534 ລູກປືນໄຟໄຫມ້ສາມໃນຂະນະທີ່ພວກເຂົາຖິ້ມເທິງກໍາແພງຂອງ Castle ໄດ້.
 
 203
 00:18:40,000 --> 00:18:42,000
@@ -1411,7 +1425,8 @@ The book shall be mine! He raises his rusty sword.
 00:19:37,000 --> 00:19:43,000
 [LADDERS!]
 558	TWELVE EVIL DEAD									   558 storm the parapet with three crudely built wooden ladders as large rocks rain down upon them from above. 559	TWO WARRIORS										  559 push away ladder #1. 560	FOUR SKELETONS ON LADDER #1							  560 swing away from the wall and crash to the ground. 561	TWO SKELETONS ON LADDER #2							   561 leap onto the parapet and battle the men with swords. 562	WARRIOR #2										    562 knocks the deadite off the ledge and shouts back toward Arthur.
-ຄຸເຂົ່າລົງ
+558 TWELVE EVIL DEAD 558 ໂຈມຕີ parapet ດ້ວຍຂັ້ນເທິງໄມ້ທີ່ສ້າງຂຶ້ນຢ່າງໂຊກຮ້າຍສາມຢ່າງໃນຂະນະທີ່ຫີນໃຫຍ່ຕົກລົງໃສ່ພວກເຂົາຈາກເທິງ. 559 ສອງນັກຮົບ 559 ດັນຂັ້ນເທິງໄປ #
+1. 560 ສີ່ກະດູກກະດານກະຕ່າກະດາດາດາດາ #1 560 ຫັນຫ່າງຈາກກໍາແພງແລະຕົກລົງກັບດິນ. 561 ສອງກະດາກະດາດາ #2 561 ກະໂດດຂຶ້ນເທິງຂັ້ນເທິງແລະຕໍ່ສູ້ກັບຜູ້ຊາຍດ້ວຍດາບ. 562 Warri
 
 215
 00:19:43,500 --> 00:19:49,500
@@ -1485,7 +1500,8 @@ Yeah.  Right... Ash takes the flask and studies it. ...but what other choice did
 00:20:41,750 --> 00:20:47,750
 [ASH]
 I had to find a place to crash. For a very long time. 627	EXT. CAVE - DAY									    627 ASH with the aid of his horse, drags the Deathcoaster inside the cave. He sets the horse free.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍຕ້ອງຊອກຫາບ່ອນທີ່ຈະຕົກລົງ. ເປັນເວລາດົນນານຫຼາຍ. 627 EXT. CAVE - ວັນທີ 627 ASH
+ດ້ວຍການຊ່ວຍເຫຼືອຂອງມ້າຂອງລາວ, ດຶງກະຕ່າຕາຍເຂົ້າໄປໃນກະທູ້. ລາວເຮັດໃຫ້ມ້າເປັນອິດສະຫຼະ.
 
 226
 00:20:48,250 --> 00:20:54,250

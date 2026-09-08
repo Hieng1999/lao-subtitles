@@ -456,7 +456,7 @@ Do you mind?
 00:05:15,600 --> 00:05:21,600
 ["WELCOME TO ACHERON"]
 Some local has added below in spray-can graffiti "Have a nice day."  Gale-force wind SCREECHES around the steel sign, driving a freezing rain.
-ຄຸເຂົ່າລົງ
+ບາງຄົນທ້ອງຖິ່ນໄດ້ເພີ່ມຢູ່ລຸ່ມນີ້ໃນ graffiti ກະຕ່າສີດ" ມີມື້ທີ່ດີເລີດ." ລົມແຮງລົມຮ້ອງໄຫ້ຢູ່ອ້ອມຂ້າງປ້າຍເຫຼັກ, ຂັບລົດຝົນທີ່ເຢັນ.
 
 73
 00:05:22,100 --> 00:05:28,100
@@ -745,7 +745,7 @@ That's right.
 00:08:20,850 --> 00:08:23,300
 [BURKE]
 Running loaders, forklifts, that sort of thing?
-ຄຸເຂົ່າລົງ
+ການແລ່ນເຄື່ອງໂຫຼດເຄື່ອງ, ເຄື່ອງຍົກກະຕ່າ, ສິ່ງປະເພດນັ້ນບໍ?
 
 119
 00:08:23,800 --> 00:08:29,750
@@ -984,7 +984,7 @@ Looks like that new Lieutenant's too good to eat with us grunts.
 00:10:51,200 --> 00:10:54,350
 [WIERZBOWSKI]
 Yeah.  Got a corn cob up his ass, definitely.
-ຄຸເຂົ່າລົງ
+ແມ່ນແລ້ວ. ມີກະຕ່າເຂົ້າໃນບາກຂອງລາວ, ແນ່ນອນ.
 
 157
 00:10:54,850 --> 00:10:58,000
@@ -2881,7 +2881,7 @@ That's right.  So we put up welded barricades at these intersections...  ...and 
 00:28:42,500 --> 00:28:48,500
 [HICKS]
 Outstanding.  Then all we need's a deck of cards.  All right, let's move like we got a purpose.
-ຄຸເຂົ່າລົງ
+ດີເລີດ. ຫຼັງຈາກນັ້ນສິ່ງດຽວທີ່ພວກເຮົາຕ້ອງການແມ່ນກະຕ່າບັດ. ດີແລ້ວ, ໄປເຄື່ອນຍ້າຍຄືກັບວ່າພວກເຮົາມີຈຸດປະສົງ.
 
 462
 00:28:49,000 --> 00:28:51,000
@@ -3247,7 +3247,8 @@ It was a bad call, that's all.
 00:32:47,000 --> 00:32:53,000
 [RIPLEY]
 Bad call?  These people are fucking dead, Burke!  Well, they're going to nail your hide to the shed... and I'll be there when they do.
-ຄຸເຂົ່າລົງ
+ການໂທທີ່ບໍ່ດີບໍ? ຄົນເຫຼົ່ານີ້ຕາຍແລ້ວ, ບີກ! ດີ,
+ພວກເຂົາຈະຈັບຜິວຂອງທ່ານໃສ່ກະຕ່າ... ແລະຂ້ອຍຈະຢູ່ບ່ອນນັ້ນເມື່ອພວກເຂົາເຮັດ.
 
 519
 00:32:53,500 --> 00:32:58,400
@@ -4428,7 +4429,8 @@ It's okay, baby.  We made it.  It's over.
 00:43:51,500 --> 00:43:57,500
 [BISHOP]
 I gave him a shot, for the pain. We'll need to get a stretcher to cart him up to medical.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍໄດ້ສັກຢາໃຫ້ລາວ, ສໍາ ລັບຄວາມເຈັບປວດ.
+ພວກເຮົາຈະຕ້ອງເອົາກະຕ່າເພື່ອຂັບລາວໄປໂຮງຫມໍ.
 
 710
 00:43:58,000 --> 00:44:03,600

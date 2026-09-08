@@ -509,7 +509,7 @@ Fine. Next.
 00:05:07,850 --> 00:05:09,850
 [WILLIE]
 YOWWWCH! Watch the toenails willya?
-ຄຸເຂົ່າລົງ
+YOWWWCH! ເບິ່ງກະຕ່າຕີນບໍ?
 
 83
 00:05:10,350 --> 00:05:12,350
@@ -684,7 +684,7 @@ Apache Junction. What the fuck do you care?
 00:06:34,050 --> 00:06:36,150
 [WILLIE]
 Get the hell off my lap.
-ຄຸເຂົ່າລົງ
+ອອກຈາກກະຕ່າຂອງຂ້ອຍ.
 
 112
 00:06:36,650 --> 00:06:38,650
@@ -839,7 +839,7 @@ What do you do? I mean, after the holidays?
 00:08:03,350 --> 00:08:06,150
 [WILLIE]
 Nothing 'til March. Then I'm the Easter Bunny.
-ຄຸເຂົ່າລົງ
+ບໍ່ມີຫຍັງຈົນຮອດເດືອນມີນາ. ຫຼັງຈາກນັ້ນຂ້ອຍເປັນກະຕ່າ Easter.
 
 137
 00:08:06,650 --> 00:08:08,650
@@ -2601,7 +2601,7 @@ No. He kicked my ass. You know why?
 00:24:03,100 --> 00:24:05,200
 [KID]
 You went bathroom on Mommy's dishes?
-ຄຸເຂົ່າລົງ
+ເຈົ້າໄປຫ້ອງນ້ ໍາ ໃສ່ກະຕ່າຂອງແມ່ບໍ?
 
 423
 00:24:05,700 --> 00:24:07,700
@@ -3429,7 +3429,8 @@ Take him to his car.
 00:31:19,550 --> 00:31:25,550
 [MARCUS]
 In case you hadn't noticed, I'm a motherfuckin' dwarf. So unless you got a forklift handy, maybe you should lend a hand.
-ຄຸເຂົ່າລົງ
+ໃນກໍລະນີທີ່ທ່ານບໍ່ໄດ້ສັງເກດເຫັນ, ຂ້ອຍເປັນຄົນນ້ອຍໆ.
+ສະນັ້ນຖ້າເຈົ້າບໍ່ມີລົດຍົກກະຕ່າຢູ່ຂ້າງ, ບາງທີເຈົ້າຄວນຊ່ວຍເຫຼືອ.
 
 557
 00:31:26,050 --> 00:31:32,050

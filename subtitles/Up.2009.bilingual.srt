@@ -422,7 +422,8 @@ Wow.
 00:04:48,600 --> 00:04:54,600
 [A SERIES OF SHOTS]
 The jar slowly fills as Carl and Ellie toss in spare change. Their car blows a tire. The two stand by the jar, reluctant.   Carl BREAKS the jar.
-ຄຸເຂົ່າລົງ
+ກະຕູ້ເຕັມໄປຢ່າງຊ້າຊ້າໃນຂະນະທີ່ຄາລ ແລະ ເອລີຖິ້ມເງິນສົດ.
+ລົດຂອງພວກເຂົາພັດລົດຖີບ. ທັງສອງຢືນຢູ່ຂ້າງກະຕູ້, ບໍ່ຢາກ. ຄາລ ທໍາ ລາຍກະຕ່າ.
 
 68
 00:04:55,100 --> 00:04:57,900
@@ -655,7 +656,8 @@ But skip to the end!
 00:06:57,650 --> 00:07:03,650
 [RUSSELL]
 See these? These are my Wilderness Explorer badges. You may notice one is missing. It's my Assisting the Elderly badge. If I get it I will become a Senior Wilderness Explorer! Russell makes the Explorer Sign: his thumbs form a "W", his fingers the "wings" of a bird, then the "claws" of a bear.
-ຄຸເຂົ່າລົງ
+ເຈົ້າເຫັນສິ່ງເຫຼົ່ານີ້ບໍ? ນີ້ແມ່ນປ້າຍນັກຄົ້ນຄວ້າປ່າໄມ້ຂອງຂ້ອຍ. ເຈົ້າອາດຈະສັງເກດເຫັນ ຫນຶ່ງ ທີ່ຂາດຫາຍໄປ. ມັນແມ່ນປ້າຍຊ່ວຍເຫຼືອຜູ້ເຖົ້າຂອງຂ້ອຍ.
+ຖ້າຂ້ອຍໄດ້ຮັບມັນຂ້ອຍຈະກາຍເປັນນັກຄົ້ນ ຄວ້າ ປ່າໄມ້ຜູ້ສູງອາຍຸ! ຣັດເຊວເຮັດປ້າຍຜູ້ຄົ້ນຄ້ວາ: ນິ້ວມືຂອງລາວສ້າງເປັນ"W", ນິ້ວມືຂອງລາວເປັນ"ກະຕ່າ" ຂອງນົກ, ຫຼັງຈາກນັ້ນ"ແຕະ" ຂອງແມວ.
 
 106
 00:07:04,150 --> 00:07:06,150
@@ -921,7 +923,7 @@ What are you doing out here, kid?
 00:09:54,350 --> 00:10:00,350
 [RUSSELL]
 I found the snipe and I followed it under your porch, but this snipe had a long tail and looked more like a large mouse.
-ຄຸເຂົ່າລົງ
+ຂ້ອຍພົບກະຕ່າກະຕູ້ກະຕ່າຍກະຕຸ້ນກະຕ້າກະຕູ້ນກະຕູກກະຕຸກກະຕຸງກະຕໍ້ກະຕົວກະຕຸນກະຕືກະຕວດກະຕູນກະຕູກະຕຸນະຕູ້.
 
 148
 00:10:00,850 --> 00:10:02,850
@@ -1470,13 +1472,13 @@ I'm tiiiired. And my knee hurts.
 00:15:52,400 --> 00:15:54,400
 [CARL]
 Which knee?
-ຄຸເຂົ່າລົງ
+ກະຕ່າໃດ?
 
 235
 00:15:54,900 --> 00:15:58,750
 [RUSSELL]
 My elbow hurts and I have to go to the bathroom.
-ຄຸເຂົ່າລົງ
+ກະຕ່າຂອງຂ້ອຍເຈັບປວດແລະຂ້ອຍຕ້ອງໄປຫ້ອງນ້ ໍາ.
 
 236
 00:15:59,250 --> 00:16:02,050
@@ -1501,7 +1503,7 @@ I don't want to walk anymore.     Can we stop?
 00:16:12,650 --> 00:16:16,500
 [CARL]
 Russell! If you don't hurry up, the tigers will eat you.
-ຄຸເຂົ່າລົງ
+ຣັດເຊວ! ຖ້າເຈົ້າບໍ່ໄວຂຶ້ນ, ກະຕ່າຈະກິນເຈົ້າ.
 
 240
 00:16:17,000 --> 00:16:21,900
@@ -1561,7 +1563,8 @@ Huh?  Tracks?!
 00:16:48,050 --> 00:16:53,300
 [RUSSELL]
 Here, snipe... Come on out, snipe. Snipe! The footprints continue for a time, then stop.
-ຄຸເຂົ່າລົງ
+ຢູ່ບ່ອນນີ້, ກະທູ້... ອອກມາ, ກະຕູ້. ກະຕ່າຍ!
+ກະທູ້ນິ້ວມືສືບຕໍ່ເປັນເວລາດົນນານ, ຫຼັງຈາກນັ້ນຢຸດ.
 
 250
 00:16:53,800 --> 00:16:56,250
@@ -2483,7 +2486,7 @@ That's for you!
 00:25:47,200 --> 00:25:49,200
 [RUSSELL]
 Awh.   Tents are hard.
-ຄຸເຂົ່າລົງ
+ອາວ້. ກະຕ່າແມ່ນຍາກ.
 
 400
 00:25:49,700 --> 00:25:53,900
@@ -3114,7 +3117,7 @@ Well, dinner is served!    Right this way.
 00:32:07,650 --> 00:32:13,650
 [MUNTZ]
 So how are things stateside? Almost tempted to go back a few times, but I have unfinished work here... Please. Dogs pull back chairs for them.   They sit.   Dog waiters place napkins on their laps.
-ຄຸເຂົ່າລົງ
+ສະນັ້ນສິ່ງຕ່າງໆຢູ່ສະຫະລັດເປັນແນວໃດ? ເກືອບຖືກຊັກຊວນທີ່ຈະກັບຄືນໄປບ່ອນສອງສາມຄັ້ງ, ແຕ່ຂ້ອຍມີວຽກທີ່ຍັງບໍ່ສໍາເລັດຢູ່ບ່ອນນີ້... ກະລຸນາ. ຫມາດຶງບ່ອນນັ່ງຄືນ ສໍາ ລັບພວກເຂົາ. ພວກເຂົານັ່ງ. ຜູ້ຮັບໃຊ້ຫມາວາງກະຕູ້ໃສ່ກະຕ່າຂອງພວກເຂົາ.
 
 501
 00:32:14,150 --> 00:32:20,150

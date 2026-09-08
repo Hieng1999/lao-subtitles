@@ -163,7 +163,8 @@ I mean you're not helping! Why is that, Leon?
 00:01:44,800 --> 00:01:50,800
 [DECKARD]
 It was 97 degrees in the city and no hope of improvement.  Not bad if you're a lizard.  But two hours earlier I was drinking Acquavit with an Eskimo lady in North East Alaska.  That's a tough change to make.  It was so good, I didn't want to leave, so I left a day early.
-ຄຸເຂົ່າລົງ
+ມັນມີລະດັບ 97 ອົງສາໃນເມືອງແລະບໍ່ມີຄວາມຫວັງໃນການປັບປຸງ. ບໍ່ຮ້າຍແຮງຖ້າເຈົ້າເປັນກະຕ່າກະຕ່າຍກະຕຸ້ນກະຕ້າກະຕູ້ກະຕູ້ນັ້ນ. ແຕ່ສອງຊົ່ວໂມງກ່ອນຂ້ອຍ ກໍາ ລັງດື່ມ
+Acquavit ກັບແມ່ຍິງ Eskimo ໃນພາກຕາເວັນອອກສຽງເຫນືອອາລາສກາ. ນັ້ນແມ່ນການປ່ຽນແປງທີ່ຍາກທີ່ຈະເຮັດ. ມັນດີຫຼາຍ, ຂ້ອຍບໍ່ຢາກອອກໄປ, ສະນັ້ນຂ້ອຍອອກໄປກ່ອນມື້ຫນຶ່ງ.
 
 28
 00:01:51,300 --> 00:01:54,450
@@ -1184,7 +1185,8 @@ I wouldn't accept it.  Also, I'd report the person who gave it to me to the poli
 00:11:35,700 --> 00:11:40,950
 [DECKARD]
 You have a little boy.  He shows you his butterfly collection, plus the killing jar.
-ຄຸເຂົ່າລົງ
+ເຈົ້າມີເດັກຊາຍນ້ອຍໆ.
+ລາວສະແດງໃຫ້ເຈົ້າເກັບກໍາກະຕ່າກະຕູ້ຂອງລາວ, ບວກກັບຖັງຂ້າ.
 
 192
 00:11:41,450 --> 00:11:43,550

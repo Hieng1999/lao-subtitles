@@ -191,7 +191,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **Blade: Trinity** | **2004** | Horror | 574 | **87.7** | **64.9** | [🇱🇦 Lao](subtitles/Blade.Trinity.2004.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blade.Trinity.2004.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Blitz** | **2011** | Action | 602 | **87.8** | **64.4** | [🇱🇦 Lao](subtitles/Blitz.2011.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blitz.2011.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Blood and Wine** | **1996** | Crime | 926 | **88.4** | **64.6** | [🇱🇦 Lao](subtitles/Blood.and.Wine.1996.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blood.and.Wine.1996.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Blood Diamond** | **2006** | Feature Film | 1,443 | **88.5** | **65.2** | [🇱🇦 Lao](subtitles/Blood.Diamond.2006.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blood Diamond** | **2006** | Feature Film | 1,443 | **88.5** | **65.2** | [🇱🇦 Lao](subtitles/Blood.Diamond.2006.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blood.Diamond.2006.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Blow** | **2001** | Crime | 1,026 | **88.0** | **64.5** | [🇱🇦 Lao](subtitles/Blow.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blow.2001.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Blue Valentine** | **2010** | Romance | 679 | **88.7** | **65.7** | [🇱🇦 Lao](subtitles/Blue.Valentine.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blue.Valentine.2010.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Blue Velvet** | **1986** | Crime | 948 | **88.5** | **64.5** | [🇱🇦 Lao](subtitles/Blue.Velvet.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blue.Velvet.1986.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -230,7 +230,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **Cirque du Freak: The Vampire's Assistant** | **2009** | Adventure | 938 | **88.0** | **65.2** | [🇱🇦 Lao](subtitles/Cirque.du.Freak.The.Vampires.Assistant.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Cirque.du.Freak.The.Vampires.Assistant.2009.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Clash of the Titans** | **2010** | Adventure | 764 | **88.5** | **64.8** | [🇱🇦 Lao](subtitles/Clash.of.the.Titans.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Clash.of.the.Titans.2010.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Cliffhanger** | **1993** | Adventure | 559 | **88.1** | **65.3** | [🇱🇦 Lao](subtitles/Cliffhanger.1993.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Cliffhanger.1993.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Coco** | **2017** | Feature Film | 1,444 | **88.3** | **65.3** | [🇱🇦 Lao](subtitles/Coco.2017.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Coco** | **2017** | Feature Film | 1,444 | **88.3** | **65.3** | [🇱🇦 Lao](subtitles/Coco.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Coco.2017.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Constantine** | **2005** | Horror | 721 | **88.3** | **64.3** | [🇱🇦 Lao](subtitles/Constantine.2005.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Constantine.2005.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Copycat** | **1995** | Horror | 843 | **88.1** | **64.6** | [🇱🇦 Lao](subtitles/Copycat.1995.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Copycat.1995.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Coraline** | **2009** | Animation | 804 | **89.1** | **65.3** | [🇱🇦 Lao](subtitles/Coraline.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Coraline.2009.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -268,7 +268,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **Friday the 13th** | **1980** | Horror | 432 | **87.8** | **64.4** | [🇱🇦 Lao](subtitles/Friday.the.13th.1980.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Friday.the.13th.1980.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Friday the 13th Part VIII: Jason Takes Manhattan** | **1989** | Horror | 569 | **87.7** | **64.2** | [🇱🇦 Lao](subtitles/Friday.the.13th.Part.VIII.Jason.Takes.Manhattan.1989.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Friday.the.13th.Part.VIII.Jason.Takes.Manhattan.1989.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Fright Night** | **1985** | Horror | 883 | **88.3** | **64.8** | [🇱🇦 Lao](subtitles/Fright.Night.1985.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Fright.Night.1985.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Frozen** | **2013** | Feature Film | 1,652 | **88.7** | **64.8** | [🇱🇦 Lao](subtitles/Frozen.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Frozen** | **2013** | Feature Film | 1,652 | **88.7** | **64.8** | [🇱🇦 Lao](subtitles/Frozen.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Frozen.2013.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Frozen** | **2013** | Animation | 917 | **89.3** | **65.2** | [🇱🇦 Lao](subtitles/Frozen.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Frozen.2013.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Gladiator** | **2000** | Drama / Classics | 675 | **88.7** | **65.0** | [🇱🇦 Lao](subtitles/Gladiator.2000.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Gladiator.2000.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Happy Feet** | **2006** | Animation | 633 | **89.0** | **66.0** | [🇱🇦 Lao](subtitles/Happy.Feet.2006.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Happy.Feet.2006.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -282,7 +282,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **L' Avventura (The Adventure)** | **1960** | Thriller | 745 | **88.0** | **64.7** | [🇱🇦 Lao](subtitles/L.Avventura.The.Adventure.1960.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/L.Avventura.The.Adventure.1960.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Megamind** | **2010** | Animation | 866 | **89.3** | **65.8** | [🇱🇦 Lao](subtitles/Megamind.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Megamind.2010.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Memento** | **2000** | Feature Film | 692 | **88.2** | **64.7** | [🇱🇦 Lao](subtitles/Memento.2000.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Memento.2000.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Moana** | **2016** | Feature Film | 1,233 | **88.1** | **65.2** | [🇱🇦 Lao](subtitles/Moana.2016.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Moana** | **2016** | Feature Film | 1,233 | **88.1** | **65.2** | [🇱🇦 Lao](subtitles/Moana.2016.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Moana.2016.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Monkeybone** | **2001** | Animation | 643 | **89.0** | **65.3** | [🇱🇦 Lao](subtitles/Monkeybone.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Monkeybone.2001.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **One Eight Seven (187)** | **1997** | Drama | 754 | **88.2** | **65.2** | [🇱🇦 Lao](subtitles/One.Eight.Seven.187.1997.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/One.Eight.Seven.187.1997.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Onward** | **2020** | Animation | 1,114 | **89.1** | **65.4** | [🇱🇦 Lao](subtitles/Onward.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Onward.2020.bilingual.srt) | ✓ LoRA 1.3B Champion |
@@ -341,7 +341,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **The Lord of the Rings: The Fellowship of the Ring** | **2001** | Feature Film | 817 | **88.4** | **64.6** | [🇱🇦 Lao](subtitles/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Matrix** | **1999** | Drama / Classics | 568 | **88.5** | **65.3** | [🇱🇦 Lao](subtitles/The.Matrix.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Matrix.1999.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Prestige** | **2006** | Feature Film | 1,047 | **88.4** | **64.6** | [🇱🇦 Lao](subtitles/The.Prestige.2006.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Prestige.2006.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **The Shawshank Redemption** | **1994** | Feature Film | 803 | **88.6** | **65.3** | [🇱🇦 Lao](subtitles/The.Shawshank.Redemption.1994.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Shawshank Redemption** | **1994** | Feature Film | 803 | **88.6** | **65.3** | [🇱🇦 Lao](subtitles/The.Shawshank.Redemption.1994.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Shawshank.Redemption.1994.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Silence Of The Lambs** | **1991** | Feature Film | 928 | **88.2** | **65.0** | [🇱🇦 Lao](subtitles/The.Silence.Of.The.Lambs.1991.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Silence.Of.The.Lambs.1991.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Terminator** | **1984** | Feature Film | 503 | **88.1** | **64.7** | [🇱🇦 Lao](subtitles/The.Terminator.1984.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Terminator.1984.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **The Usual Suspects** | **1995** | Feature Film | 768 | **88.7** | **65.1** | [🇱🇦 Lao](subtitles/The.Usual.Suspects.1995.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Usual.Suspects.1995.bilingual.srt) | ✓ LoRA 1.3B Champion |
