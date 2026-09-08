@@ -108,7 +108,36 @@
   .section-title { font-size: 1.25rem; font-weight: 600; }
   .catalog-count { font-size: 0.9rem; color: var(--text-muted); }
   
-  .movie-grid { display: flex; flex-direction: column; gap: 14px; }
+  .movie-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    max-height: 720px;
+    overflow-y: auto;
+    padding-right: 6px;
+    scroll-behavior: smooth;
+  }
+  .movie-grid::-webkit-scrollbar { width: 8px; }
+  .movie-grid::-webkit-scrollbar-track { background: var(--card); border-radius: 8px; }
+  .movie-grid::-webkit-scrollbar-thumb { background: var(--border); border-radius: 8px; }
+  .movie-grid::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+  .load-more-wrap {
+    display: flex; justify-content: center; gap: 12px; margin: 18px 0 24px; flex-wrap: wrap;
+  }
+  .btn-load-more {
+    background: var(--accent-bg); color: var(--accent); border: 1px solid rgba(227, 179, 65, 0.4);
+    padding: 11px 22px; border-radius: 10px; font-weight: 700; cursor: pointer; font-size: 0.95rem;
+    transition: all 0.15s;
+  }
+  .btn-load-more:hover { background: var(--accent); color: #121008; }
+  .btn-load-all {
+    background: var(--card); color: var(--text-muted); border: 1px solid var(--border);
+    padding: 11px 18px; border-radius: 10px; font-weight: 600; cursor: pointer; font-size: 0.92rem;
+    transition: all 0.15s;
+  }
+  .btn-load-all:hover { color: var(--text); border-color: #586069; }
+
   .movie-card {
     display: flex; justify-content: space-between; align-items: center; gap: 20px;
     background: var(--card); border: 1px solid var(--border);
@@ -10233,6 +10262,11 @@
     </div>
   </div>
 
+  <div class="load-more-wrap" id="loadMoreWrap">
+    <button class="btn-load-more" id="btnLoadMore" onclick="loadMore()">⬇ Load 10 More Movies</button>
+    <button class="btn-load-all" id="btnLoadAll" onclick="loadAll()">Show All 277 Movies</button>
+  </div>
+
   <div class="guide-card">
     <h3>📺 How to Use These Subtitles</h3>
     <ol>
@@ -10252,9 +10286,12 @@
 
 <script>
 let selectedGenre = 'all';
+let displayLimit = 10;
+const STEP = 10;
 
 function setGenre(genre, btn) {
   selectedGenre = genre.toLowerCase();
+  displayLimit = 10;
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   filterMovies();
@@ -10262,8 +10299,8 @@ function setGenre(genre, btn) {
 
 function filterMovies() {
   const query = document.getElementById('search').value.toLowerCase().trim();
-  const cards = document.querySelectorAll('.movie-card');
-  let visible = 0;
+  const cards = Array.from(document.querySelectorAll('.movie-card'));
+  let matching = [];
 
   cards.forEach(card => {
     const titleData = card.getAttribute('data-title') || '';
@@ -10273,20 +10310,55 @@ function filterMovies() {
     const matchesGenre = (selectedGenre === 'all') || genreData.includes(selectedGenre);
 
     if (matchesQuery && matchesGenre) {
+      matching.push(card);
+    } else {
+      card.style.display = 'none';
+    }
+  });
+
+  const effectiveLimit = query.length > 0 ? matching.length : displayLimit;
+
+  matching.forEach((card, idx) => {
+    if (idx < effectiveLimit) {
       card.style.display = 'flex';
-      visible++;
     } else {
       card.style.display = 'none';
     }
   });
 
   const countElem = document.getElementById('count');
-  if (visible === cards.length) {
-    countElem.textContent = `Showing all ${visible} movies`;
+  const shownCount = Math.min(matching.length, effectiveLimit);
+  if (matching.length === 0) {
+    countElem.textContent = 'No matching movies found';
+  } else if (matching.length <= effectiveLimit) {
+    countElem.textContent = `Showing all ${matching.length} matching movies`;
   } else {
-    countElem.textContent = `Showing ${visible} of ${cards.length} movies`;
+    countElem.textContent = `Showing ${shownCount} of ${matching.length} movies (scroll or load more below)`;
+  }
+
+  const wrap = document.getElementById('loadMoreWrap');
+  if (wrap) {
+    if (matching.length > effectiveLimit) {
+      wrap.style.display = 'flex';
+      const remaining = matching.length - shownCount;
+      document.getElementById('btnLoadMore').textContent = `⬇ Load ${Math.min(STEP, remaining)} More Movies (${remaining} remaining)`;
+    } else {
+      wrap.style.display = 'none';
+    }
   }
 }
+
+function loadMore() {
+  displayLimit += STEP;
+  filterMovies();
+}
+
+function loadAll() {
+  displayLimit = 999999;
+  filterMovies();
+}
+
+window.addEventListener('DOMContentLoaded', filterMovies);
 </script>
 </body>
 </html>

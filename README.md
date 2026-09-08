@@ -37,6 +37,30 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 
 ## 🎬 Available Subtitles (277 Films · 230,160 Cues)
 
+> 🔍 **Instant Live Search & Filters**:  
+> To instantly search by title, actor, year, or genre across all **277 movies**, visit our interactive web catalog:  
+> 🌐 👉 [**hieng1999.github.io/lao-subtitles**](https://hieng1999.github.io/lao-subtitles/)
+
+### ⭐ Featured Spotlight (Top 10 Movies)
+
+| Movie Title | Year | Genre | Cues | chrF++ Score | BLEU Score | Subtitle File | Translation Quality & Status |
+|:---|:---:|:---|:---:|:---:|:---:|:---|:---|
+| **10 Things I Hate About You** | **1999** | Romance | 1,027 | **88.3** | **64.9** | [`subtitles/10.Things.I.Hate.About.You.1999.lao.srt`](subtitles/10.Things.I.Hate.About.You.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Spider-Man: Across the Spider-Verse** | **2023** | Animation | 1,542 | **89.0** | **66.0** | [`subtitles/Spider-Man.Across.the.Spider-Verse.2023.lao.srt`](subtitles/Spider-Man.Across.the.Spider-Verse.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Toy Story** | **1995** | Animation | 887 | **88.5** | **65.2** | [`subtitles/Toy.Story.1995.lao.srt`](subtitles/Toy.Story.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Avengers: Endgame** | **2019** | Adventure | 1,144 | **88.5** | **64.7** | [`subtitles/Avengers.Endgame.2019.lao.srt`](subtitles/Avengers.Endgame.2019.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Batman** | **1989** | Thriller | 609 | **87.9** | **64.6** | [`subtitles/Batman.1989.lao.srt`](subtitles/Batman.1989.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Wall-E** | **2008** | Animation | 476 | **89.0** | **65.2** | [`subtitles/Wall-E.2008.lao.srt`](subtitles/Wall-E.2008.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Beauty** | **1999** | Drama | 760 | **88.7** | **65.0** | [`subtitles/American.Beauty.1999.lao.srt`](subtitles/American.Beauty.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Argo** | **2012** | Thriller | 759 | **87.6** | **65.1** | [`subtitles/Argo.2012.lao.srt`](subtitles/Argo.2012.lao.srt) | ✓ LoRA 1.3B Champion |
+| **12 and Holding** | **2005** | Drama | 734 | **88.1** | **65.1** | [`subtitles/12.and.Holding.2005.lao.srt`](subtitles/12.and.Holding.2005.lao.srt) | ✓ LoRA 1.3B Champion |
+| **12 Monkeys** | **1995** | Thriller | 779 | **88.3** | **64.7** | [`subtitles/12.Monkeys.1995.lao.srt`](subtitles/12.Monkeys.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+
+<details>
+<summary><b>📜 Click here to expand &amp; browse all 277 movies (230,160 localized cues)...</b></summary>
+
+<br/>
+
 | Movie Title | Year | Genre | Cues | chrF++ Score | BLEU Score | Subtitle File | Translation Quality & Status |
 |:---|:---:|:---|:---:|:---:|:---:|:---|:---|
 | **10 Things I Hate About You** | **1999** | Romance | 1,027 | **88.3** | **64.9** | [`subtitles/10.Things.I.Hate.About.You.1999.lao.srt`](subtitles/10.Things.I.Hate.About.You.1999.lao.srt) | ✓ LoRA 1.3B Champion |
@@ -316,6 +340,8 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **Transformers: The Movie** | **1986** | Animation | 720 | **89.1** | **65.9** | [`subtitles/Transformers.The.Movie.1986.lao.srt`](subtitles/Transformers.The.Movie.1986.lao.srt) | ✓ LoRA 1.3B Champion |
 | **Up** | **2009** | Animation | 720 | **88.8** | **65.4** | [`subtitles/Up.2009.lao.srt`](subtitles/Up.2009.lao.srt) | ✓ LoRA 1.3B Champion |
 | **Wall-E** | **2008** | Animation | 476 | **89.0** | **65.2** | [`subtitles/Wall-E.2008.lao.srt`](subtitles/Wall-E.2008.lao.srt) | ✓ LoRA 1.3B Champion |
+
+</details>
 
 ---
 
