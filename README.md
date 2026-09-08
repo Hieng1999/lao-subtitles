@@ -19,283 +19,283 @@ Major subtitle platforms (OpenSubtitles, Subscene, Addic7ed) do not support Lao 
 
 | Movie Title | Year | Genre | Cues | Subtitle File | Translation Quality & Status |
 |:---|:---:|:---|:---:|:---|:---|
-| **10 things i hate about you** | — | Romance | 1,027 | [`subtitles/10.things.i.hate.about.you.lao.srt`](subtitles/10.things.i.hate.about.you.lao.srt) | ✓ LoRA 1.3B Champion |
-| **12 and holding** | — | Drama | 734 | [`subtitles/12.and.holding.lao.srt`](subtitles/12.and.holding.lao.srt) | ✓ LoRA 1.3B Champion |
-| **12 monkeys** | — | Thriller | 779 | [`subtitles/12.monkeys.lao.srt`](subtitles/12.monkeys.lao.srt) | ✓ LoRA 1.3B Champion |
-| **12 years a slave** | — | Drama | 835 | [`subtitles/12.years.a.slave.lao.srt`](subtitles/12.years.a.slave.lao.srt) | ✓ LoRA 1.3B Champion |
-| **127 hours** | — | Thriller | 282 | [`subtitles/127.hours.lao.srt`](subtitles/127.hours.lao.srt) | ✓ LoRA 1.3B Champion |
-| **1492 conquest of paradise** | — | Drama | 634 | [`subtitles/1492.conquest.of.paradise.lao.srt`](subtitles/1492.conquest.of.paradise.lao.srt) | ✓ LoRA 1.3B Champion |
-| **15 minutes** | — | Thriller | 1,015 | [`subtitles/15.minutes.lao.srt`](subtitles/15.minutes.lao.srt) | ✓ LoRA 1.3B Champion |
-| **17 again** | — | Romance | 817 | [`subtitles/17.again.lao.srt`](subtitles/17.again.lao.srt) | ✓ LoRA 1.3B Champion |
-| **187** | — | Drama | 754 | [`subtitles/187.lao.srt`](subtitles/187.lao.srt) | ✓ LoRA 1.3B Champion |
-| **2001 a space odyssey** | 2001 | Sci-Fi | 447 | [`subtitles/2001.a.space.odyssey.lao.srt`](subtitles/2001.a.space.odyssey.lao.srt) | ✓ LoRA 1.3B Champion |
-| **20th century women** | — | Drama | 648 | [`subtitles/20th.century.women.lao.srt`](subtitles/20th.century.women.lao.srt) | ✓ LoRA 1.3B Champion |
-| **28 days later** | — | Sci-Fi | 609 | [`subtitles/28.days.later.lao.srt`](subtitles/28.days.later.lao.srt) | ✓ LoRA 1.3B Champion |
-| **30 minutes or less** | — | Comedy | 961 | [`subtitles/30.minutes.or.less.lao.srt`](subtitles/30.minutes.or.less.lao.srt) | ✓ LoRA 1.3B Champion |
-| **42** | — | Drama | 1,042 | [`subtitles/42.lao.srt`](subtitles/42.lao.srt) | ✓ LoRA 1.3B Champion |
-| **44 inch chest** | — | Drama | 726 | [`subtitles/44.inch.chest.lao.srt`](subtitles/44.inch.chest.lao.srt) | ✓ LoRA 1.3B Champion |
-| **48 hrs** | — | Thriller | 1,076 | [`subtitles/48.hrs.lao.srt`](subtitles/48.hrs.lao.srt) | ✓ LoRA 1.3B Champion |
-| **50 50** | — | Drama | 1,067 | [`subtitles/50.50.lao.srt`](subtitles/50.50.lao.srt) | ✓ LoRA 1.3B Champion |
-| **500 days of summer** | — | Romance | 1,022 | [`subtitles/500.days.of.summer.lao.srt`](subtitles/500.days.of.summer.lao.srt) | ✓ LoRA 1.3B Champion |
-| **8mm** | — | Thriller | 794 | [`subtitles/8mm.lao.srt`](subtitles/8mm.lao.srt) | ✓ LoRA 1.3B Champion |
-| **a few good men** | — | Thriller | 1,458 | [`subtitles/a.few.good.men.lao.srt`](subtitles/a.few.good.men.lao.srt) | ✓ LoRA 1.3B Champion |
-| **a good person** | — | Drama | 978 | [`subtitles/a.good.person.lao.srt`](subtitles/a.good.person.lao.srt) | ✓ LoRA 1.3B Champion |
-| **a million miles away** | — | Drama | 706 | [`subtitles/a.million.miles.away.lao.srt`](subtitles/a.million.miles.away.lao.srt) | ✓ LoRA 1.3B Champion |
-| **a most violent year** | — | Drama | 1,175 | [`subtitles/a.most.violent.year.lao.srt`](subtitles/a.most.violent.year.lao.srt) | ✓ LoRA 1.3B Champion |
-| **a prayer before dawn** | — | Drama | 364 | [`subtitles/a.prayer.before.dawn.lao.srt`](subtitles/a.prayer.before.dawn.lao.srt) | ✓ LoRA 1.3B Champion |
-| **a quiet place** | — | Sci-Fi | 90 | [`subtitles/a.quiet.place.lao.srt`](subtitles/a.quiet.place.lao.srt) | ✓ LoRA 1.3B Champion |
-| **a real pain** | — | Drama | 871 | [`subtitles/a.real.pain.lao.srt`](subtitles/a.real.pain.lao.srt) | ✓ LoRA 1.3B Champion |
-| **a scanner darkly** | — | Drama | 1,117 | [`subtitles/a.scanner.darkly.lao.srt`](subtitles/a.scanner.darkly.lao.srt) | ✓ LoRA 1.3B Champion |
-| **a serious man** | — | Comedy | 825 | [`subtitles/a.serious.man.lao.srt`](subtitles/a.serious.man.lao.srt) | ✓ LoRA 1.3B Champion |
-| **above the law** | — | Action | 550 | [`subtitles/above.the.law.lao.srt`](subtitles/above.the.law.lao.srt) | ✓ LoRA 1.3B Champion |
-| **absolute power** | — | Thriller | 509 | [`subtitles/absolute.power.lao.srt`](subtitles/absolute.power.lao.srt) | ✓ LoRA 1.3B Champion |
-| **abyss the** | — | Thriller | 665 | [`subtitles/abyss.the.lao.srt`](subtitles/abyss.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **ad astra** | — | Thriller | 493 | [`subtitles/ad.astra.lao.srt`](subtitles/ad.astra.lao.srt) | ✓ LoRA 1.3B Champion |
-| **adaptation** | — | Drama | 820 | [`subtitles/adaptation.lao.srt`](subtitles/adaptation.lao.srt) | ✓ LoRA 1.3B Champion |
-| **addams family the** | — | Horror | 265 | [`subtitles/addams.family.the.lao.srt`](subtitles/addams.family.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **adjustment bureau the** | — | Thriller | 978 | [`subtitles/adjustment.bureau.the.lao.srt`](subtitles/adjustment.bureau.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **affliction** | — | Drama | 770 | [`subtitles/affliction.lao.srt`](subtitles/affliction.lao.srt) | ✓ LoRA 1.3B Champion |
-| **after life** | — | Thriller | 809 | [`subtitles/after.life.lao.srt`](subtitles/after.life.lao.srt) | ✓ LoRA 1.3B Champion |
-| **after school special** | — | Comedy | 1,193 | [`subtitles/after.school.special.lao.srt`](subtitles/after.school.special.lao.srt) | ✓ LoRA 1.3B Champion |
-| **agnes of god** | — | Drama | 944 | [`subtitles/agnes.of.god.lao.srt`](subtitles/agnes.of.god.lao.srt) | ✓ LoRA 1.3B Champion |
-| **air force one** | — | Thriller | 919 | [`subtitles/air.force.one.lao.srt`](subtitles/air.force.one.lao.srt) | ✓ LoRA 1.3B Champion |
-| **airplane** | — | Romance | 627 | [`subtitles/airplane.lao.srt`](subtitles/airplane.lao.srt) | ✓ LoRA 1.3B Champion |
-| **alien 3** | — | Thriller | 689 | [`subtitles/alien.3.lao.srt`](subtitles/alien.3.lao.srt) | ✓ LoRA 1.3B Champion |
-| **alien nation** | — | Sci-Fi | 544 | [`subtitles/alien.nation.lao.srt`](subtitles/alien.nation.lao.srt) | ✓ LoRA 1.3B Champion |
-| **aliens** | — | Thriller | 724 | [`subtitles/aliens.lao.srt`](subtitles/aliens.lao.srt) | ✓ LoRA 1.3B Champion |
-| **all about eve** | — | Drama | 1,409 | [`subtitles/all.about.eve.lao.srt`](subtitles/all.about.eve.lao.srt) | ✓ LoRA 1.3B Champion |
-| **all about steve** | — | Comedy | 777 | [`subtitles/all.about.steve.lao.srt`](subtitles/all.about.steve.lao.srt) | ✓ LoRA 1.3B Champion |
-| **all of us strangers** | — | Romance | 621 | [`subtitles/all.of.us.strangers.lao.srt`](subtitles/all.of.us.strangers.lao.srt) | ✓ LoRA 1.3B Champion |
-| **all the kings men** | — | Drama | 1,078 | [`subtitles/all.the.kings.men.lao.srt`](subtitles/all.the.kings.men.lao.srt) | ✓ LoRA 1.3B Champion |
-| **all the presidents men** | — | Thriller | 994 | [`subtitles/all.the.presidents.men.lao.srt`](subtitles/all.the.presidents.men.lao.srt) | ✓ LoRA 1.3B Champion |
-| **almost famous** | — | Romance | 1,037 | [`subtitles/almost.famous.lao.srt`](subtitles/almost.famous.lao.srt) | ✓ LoRA 1.3B Champion |
-| **alone in the dark** | — | Thriller | 402 | [`subtitles/alone.in.the.dark.lao.srt`](subtitles/alone.in.the.dark.lao.srt) | ✓ LoRA 1.3B Champion |
-| **amadeus** | — | Drama | 1,379 | [`subtitles/amadeus.lao.srt`](subtitles/amadeus.lao.srt) | ✓ LoRA 1.3B Champion |
-| **amelia** | — | Drama | 882 | [`subtitles/amelia.lao.srt`](subtitles/amelia.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american beauty** | — | Drama | 760 | [`subtitles/american.beauty.lao.srt`](subtitles/american.beauty.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american fiction** | — | Drama | 1,025 | [`subtitles/american.fiction.lao.srt`](subtitles/american.fiction.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american gangster** | — | Drama | 839 | [`subtitles/american.gangster.lao.srt`](subtitles/american.gangster.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american graffiti** | — | Drama | 1,122 | [`subtitles/american.graffiti.lao.srt`](subtitles/american.graffiti.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american history x** | — | Thriller | 794 | [`subtitles/american.history.x.lao.srt`](subtitles/american.history.x.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american hustle** | — | Drama | 1,225 | [`subtitles/american.hustle.lao.srt`](subtitles/american.hustle.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american milkshake** | — | Comedy | 801 | [`subtitles/american.milkshake.lao.srt`](subtitles/american.milkshake.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american pie** | — | Comedy | 927 | [`subtitles/american.pie.lao.srt`](subtitles/american.pie.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american president the** | — | Romance | 1,403 | [`subtitles/american.president.the.lao.srt`](subtitles/american.president.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american shaolin king of kickboxers ii** | — | Action | 599 | [`subtitles/american.shaolin.king.of.kickboxers.ii.lao.srt`](subtitles/american.shaolin.king.of.kickboxers.ii.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american sniper** | — | Action | 914 | [`subtitles/american.sniper.lao.srt`](subtitles/american.sniper.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american splendor** | — | Comedy | 584 | [`subtitles/american.splendor.lao.srt`](subtitles/american.splendor.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american the** | — | Thriller | 693 | [`subtitles/american.the.lao.srt`](subtitles/american.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **american werewolf in london** | — | Romance | 854 | [`subtitles/american.werewolf.in.london.lao.srt`](subtitles/american.werewolf.in.london.lao.srt) | ✓ LoRA 1.3B Champion |
-| **amityville asylum the** | — | Horror | 631 | [`subtitles/amityville.asylum.the.lao.srt`](subtitles/amityville.asylum.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **amour** | — | Romance | 502 | [`subtitles/amour.lao.srt`](subtitles/amour.lao.srt) | ✓ LoRA 1.3B Champion |
-| **analyze that** | — | Crime | 1,138 | [`subtitles/analyze.that.lao.srt`](subtitles/analyze.that.lao.srt) | ✓ LoRA 1.3B Champion |
-| **analyze this** | — | Crime | 1,151 | [`subtitles/analyze.this.lao.srt`](subtitles/analyze.this.lao.srt) | ✓ LoRA 1.3B Champion |
-| **anastasia** | — | Animation | 587 | [`subtitles/anastasia.lao.srt`](subtitles/anastasia.lao.srt) | ✓ LoRA 1.3B Champion |
-| **angel eyes** | — | Romance | 974 | [`subtitles/angel.eyes.lao.srt`](subtitles/angel.eyes.lao.srt) | ✓ LoRA 1.3B Champion |
-| **annie hall** | — | Romance | 1,291 | [`subtitles/annie.hall.lao.srt`](subtitles/annie.hall.lao.srt) | ✓ LoRA 1.3B Champion |
-| **anonymous** | — | Thriller | 820 | [`subtitles/anonymous.lao.srt`](subtitles/anonymous.lao.srt) | ✓ LoRA 1.3B Champion |
-| **anora** | — | Romance | 1,137 | [`subtitles/anora.lao.srt`](subtitles/anora.lao.srt) | ✓ LoRA 1.3B Champion |
-| **antitrust** | — | Thriller | 903 | [`subtitles/antitrust.lao.srt`](subtitles/antitrust.lao.srt) | ✓ LoRA 1.3B Champion |
-| **antz** | — | Comedy | 438 | [`subtitles/antz.lao.srt`](subtitles/antz.lao.srt) | ✓ LoRA 1.3B Champion |
-| **apartment the** | — | Comedy | 1,214 | [`subtitles/apartment.the.lao.srt`](subtitles/apartment.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **apocalypse now** | 1979 | Action | 968 | [`subtitles/apocalypse.now.1979.lao.srt`](subtitles/apocalypse.now.1979.lao.srt) | ✓ LoRA 1.3B Champion |
-| **april fools day** | — | Horror | 812 | [`subtitles/april.fools.day.lao.srt`](subtitles/april.fools.day.lao.srt) | ✓ LoRA 1.3B Champion |
-| **arbitrage** | — | Thriller | 1,007 | [`subtitles/arbitrage.lao.srt`](subtitles/arbitrage.lao.srt) | ✓ LoRA 1.3B Champion |
-| **arcade** | — | Sci-Fi | 518 | [`subtitles/arcade.lao.srt`](subtitles/arcade.lao.srt) | ✓ LoRA 1.3B Champion |
-| **arctic blue** | — | Thriller | 613 | [`subtitles/arctic.blue.lao.srt`](subtitles/arctic.blue.lao.srt) | ✓ LoRA 1.3B Champion |
-| **argo** | — | Thriller | 759 | [`subtitles/argo.lao.srt`](subtitles/argo.lao.srt) | ✓ LoRA 1.3B Champion |
-| **army of darkness** | — | Horror | 234 | [`subtitles/army.of.darkness.lao.srt`](subtitles/army.of.darkness.lao.srt) | ✓ LoRA 1.3B Champion |
-| **arthur** | — | Comedy | 1,003 | [`subtitles/arthur.lao.srt`](subtitles/arthur.lao.srt) | ✓ LoRA 1.3B Champion |
-| **as good as it gets** | — | Romance | 824 | [`subtitles/as.good.as.it.gets.lao.srt`](subtitles/as.good.as.it.gets.lao.srt) | ✓ LoRA 1.3B Champion |
-| **assassins** | — | Thriller | 877 | [`subtitles/assassins.lao.srt`](subtitles/assassins.lao.srt) | ✓ LoRA 1.3B Champion |
-| **assignment the** | — | Thriller | 788 | [`subtitles/assignment.the.lao.srt`](subtitles/assignment.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **asteroid city** | — | Sci-Fi | 820 | [`subtitles/asteroid.city.lao.srt`](subtitles/asteroid.city.lao.srt) | ✓ LoRA 1.3B Champion |
-| **austin powers international man of mystery** | — | Comedy | 802 | [`subtitles/austin.powers.international.man.of.mystery.lao.srt`](subtitles/austin.powers.international.man.of.mystery.lao.srt) | ✓ LoRA 1.3B Champion |
-| **austin powers the spy who shagged me** | — | Comedy | 773 | [`subtitles/austin.powers.the.spy.who.shagged.me.lao.srt`](subtitles/austin.powers.the.spy.who.shagged.me.lao.srt) | ✓ LoRA 1.3B Champion |
-| **authors anonymous** | — | Comedy | 765 | [`subtitles/authors.anonymous.lao.srt`](subtitles/authors.anonymous.lao.srt) | ✓ LoRA 1.3B Champion |
-| **autumn in new york** | — | Romance | 916 | [`subtitles/autumn.in.new.york.lao.srt`](subtitles/autumn.in.new.york.lao.srt) | ✓ LoRA 1.3B Champion |
-| **avatar** | 2009 | Sci-Fi | 784 | [`subtitles/avatar.2009.lao.srt`](subtitles/avatar.2009.lao.srt) | ✓ LoRA 1.3B Champion |
-| **avengers endgame** | — | Adventure | 1,144 | [`subtitles/avengers.endgame.lao.srt`](subtitles/avengers.endgame.lao.srt) | ✓ LoRA 1.3B Champion |
-| **avengers the 2012** | 2012 | Sci-Fi | 941 | [`subtitles/avengers.the.2012.lao.srt`](subtitles/avengers.the.2012.lao.srt) | ✓ LoRA 1.3B Champion |
-| **avventura l the adventure** | — | Thriller | 745 | [`subtitles/avventura.l.the.adventure.lao.srt`](subtitles/avventura.l.the.adventure.lao.srt) | ✓ LoRA 1.3B Champion |
-| **babel** | — | Thriller | 1,031 | [`subtitles/babel.lao.srt`](subtitles/babel.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bachelor party** | — | Comedy | 952 | [`subtitles/bachelor.party.lao.srt`](subtitles/bachelor.party.lao.srt) | ✓ LoRA 1.3B Champion |
-| **backdraft** | — | Thriller | 962 | [`subtitles/backdraft.lao.srt`](subtitles/backdraft.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bad boys** | — | Comedy | 792 | [`subtitles/bad.boys.lao.srt`](subtitles/bad.boys.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bad country** | — | Crime | 773 | [`subtitles/bad.country.lao.srt`](subtitles/bad.country.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bad day at black rock** | — | Thriller | 781 | [`subtitles/bad.day.at.black.rock.lao.srt`](subtitles/bad.day.at.black.rock.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bad dreams** | — | Thriller | 732 | [`subtitles/bad.dreams.lao.srt`](subtitles/bad.dreams.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bad lieutenant** | — | Crime | 332 | [`subtitles/bad.lieutenant.lao.srt`](subtitles/bad.lieutenant.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bad santa** | — | Crime | 659 | [`subtitles/bad.santa.lao.srt`](subtitles/bad.santa.lao.srt) | ✓ LoRA 1.3B Champion |
-| **barbie** | — | Adventure | 959 | [`subtitles/barbie.lao.srt`](subtitles/barbie.lao.srt) | ✓ LoRA 1.3B Champion |
-| **barry lyndon** | — | Romance | 787 | [`subtitles/barry.lyndon.lao.srt`](subtitles/barry.lyndon.lao.srt) | ✓ LoRA 1.3B Champion |
-| **barton fink** | — | Thriller | 771 | [`subtitles/barton.fink.lao.srt`](subtitles/barton.fink.lao.srt) | ✓ LoRA 1.3B Champion |
-| **basic** | — | Thriller | 1,059 | [`subtitles/basic.lao.srt`](subtitles/basic.lao.srt) | ✓ LoRA 1.3B Champion |
-| **basic instinct** | — | Thriller | 881 | [`subtitles/basic.instinct.lao.srt`](subtitles/basic.instinct.lao.srt) | ✓ LoRA 1.3B Champion |
-| **batman** | — | Thriller | 609 | [`subtitles/batman.lao.srt`](subtitles/batman.lao.srt) | ✓ LoRA 1.3B Champion |
-| **batman 2** | — | Thriller | 604 | [`subtitles/batman.2.lao.srt`](subtitles/batman.2.lao.srt) | ✓ LoRA 1.3B Champion |
-| **battle los angeles** | — | Sci-Fi | 681 | [`subtitles/battle.los.angeles.lao.srt`](subtitles/battle.los.angeles.lao.srt) | ✓ LoRA 1.3B Champion |
-| **battle of shaker heights the** | — | Romance | 945 | [`subtitles/battle.of.shaker.heights.the.lao.srt`](subtitles/battle.of.shaker.heights.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **beavis and butt head do america** | — | Animation | 703 | [`subtitles/beavis.and.butt.head.do.america.lao.srt`](subtitles/beavis.and.butt.head.do.america.lao.srt) | ✓ LoRA 1.3B Champion |
-| **beekeeper the** | — | Thriller | 762 | [`subtitles/beekeeper.the.lao.srt`](subtitles/beekeeper.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **beginners** | — | Romance | 745 | [`subtitles/beginners.lao.srt`](subtitles/beginners.lao.srt) | ✓ LoRA 1.3B Champion |
-| **belle** | — | Romance | 813 | [`subtitles/belle.lao.srt`](subtitles/belle.lao.srt) | ✓ LoRA 1.3B Champion |
-| **big blue the** | — | Romance | 849 | [`subtitles/big.blue.the.lao.srt`](subtitles/big.blue.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **big eyes** | — | Crime | 835 | [`subtitles/big.eyes.lao.srt`](subtitles/big.eyes.lao.srt) | ✓ LoRA 1.3B Champion |
-| **big fish** | — | Adventure | 804 | [`subtitles/big.fish.lao.srt`](subtitles/big.fish.lao.srt) | ✓ LoRA 1.3B Champion |
-| **big sick the** | — | Romance | 1,119 | [`subtitles/big.sick.the.lao.srt`](subtitles/big.sick.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **big white the** | — | Crime | 840 | [`subtitles/big.white.the.lao.srt`](subtitles/big.white.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **birdman** | — | Romance | 1,099 | [`subtitles/birdman.lao.srt`](subtitles/birdman.lao.srt) | ✓ LoRA 1.3B Champion |
-| **birds the** | — | Romance | 1,139 | [`subtitles/birds.the.lao.srt`](subtitles/birds.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **birthday girl** | — | Romance | 593 | [`subtitles/birthday.girl.lao.srt`](subtitles/birthday.girl.lao.srt) | ✓ LoRA 1.3B Champion |
-| **black dahlia the** | — | Crime | 1,048 | [`subtitles/black.dahlia.the.lao.srt`](subtitles/black.dahlia.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **black panther** | — | Sci-Fi | 923 | [`subtitles/black.panther.lao.srt`](subtitles/black.panther.lao.srt) | ✓ LoRA 1.3B Champion |
-| **black rain** | — | Crime | 650 | [`subtitles/black.rain.lao.srt`](subtitles/black.rain.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blackkklansman** | — | Crime | 1,089 | [`subtitles/blackkklansman.lao.srt`](subtitles/blackkklansman.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blade** | — | Sci-Fi | 560 | [`subtitles/blade.lao.srt`](subtitles/blade.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blade ii** | — | Horror | 566 | [`subtitles/blade.ii.lao.srt`](subtitles/blade.ii.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blade runner** | — | Sci-Fi | 746 | [`subtitles/blade.runner.lao.srt`](subtitles/blade.runner.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blade trinity** | — | Horror | 574 | [`subtitles/blade.trinity.lao.srt`](subtitles/blade.trinity.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blast from the past the** | — | Romance | 1,268 | [`subtitles/blast.from.the.past.the.lao.srt`](subtitles/blast.from.the.past.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bling ring the** | — | Crime | 606 | [`subtitles/bling.ring.the.lao.srt`](subtitles/bling.ring.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blitz** | — | Action | 602 | [`subtitles/blitz.lao.srt`](subtitles/blitz.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blood and wine** | — | Crime | 926 | [`subtitles/blood.and.wine.lao.srt`](subtitles/blood.and.wine.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blood diamond 2006** | 2006 | Feature Film | 1,443 | [`subtitles/blood.diamond.2006.lao.srt`](subtitles/blood.diamond.2006.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blow** | — | Crime | 1,026 | [`subtitles/blow.lao.srt`](subtitles/blow.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blue valentine** | — | Romance | 679 | [`subtitles/blue.valentine.lao.srt`](subtitles/blue.valentine.lao.srt) | ✓ LoRA 1.3B Champion |
-| **blue velvet** | — | Crime | 948 | [`subtitles/blue.velvet.lao.srt`](subtitles/blue.velvet.lao.srt) | ✓ LoRA 1.3B Champion |
-| **body heat** | — | Crime | 871 | [`subtitles/body.heat.lao.srt`](subtitles/body.heat.lao.srt) | ✓ LoRA 1.3B Champion |
-| **body of evidence** | — | Romance | 928 | [`subtitles/body.of.evidence.lao.srt`](subtitles/body.of.evidence.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bodyguard** | — | Romance | 964 | [`subtitles/bodyguard.lao.srt`](subtitles/bodyguard.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bones** | — | Horror | 696 | [`subtitles/bones.lao.srt`](subtitles/bones.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bonnie and clyde** | — | Romance | 736 | [`subtitles/bonnie.and.clyde.lao.srt`](subtitles/bonnie.and.clyde.lao.srt) | ✓ LoRA 1.3B Champion |
-| **book of eli the** | — | Sci-Fi | 786 | [`subtitles/book.of.eli.the.lao.srt`](subtitles/book.of.eli.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bookworm** | — | Adventure | 889 | [`subtitles/bookworm.lao.srt`](subtitles/bookworm.lao.srt) | ✓ LoRA 1.3B Champion |
-| **boondock saints 2 all saints day** | — | Crime | 892 | [`subtitles/boondock.saints.2.all.saints.day.lao.srt`](subtitles/boondock.saints.2.all.saints.day.lao.srt) | ✓ LoRA 1.3B Champion |
-| **boondock saints the** | — | Crime | 787 | [`subtitles/boondock.saints.the.lao.srt`](subtitles/boondock.saints.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bottle rocket** | — | Crime | 1,195 | [`subtitles/bottle.rocket.lao.srt`](subtitles/bottle.rocket.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bound** | — | Crime | 918 | [`subtitles/bound.lao.srt`](subtitles/bound.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bounty hunter the** | — | Romance | 934 | [`subtitles/bounty.hunter.the.lao.srt`](subtitles/bounty.hunter.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bourne identity the** | — | Adventure | 643 | [`subtitles/bourne.identity.the.lao.srt`](subtitles/bourne.identity.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bourne ultimatum the** | — | Adventure | 553 | [`subtitles/bourne.ultimatum.the.lao.srt`](subtitles/bourne.ultimatum.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **box the** | — | Sci-Fi | 811 | [`subtitles/box.the.lao.srt`](subtitles/box.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **boxtrolls the** | — | Animation | 938 | [`subtitles/boxtrolls.the.lao.srt`](subtitles/boxtrolls.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **brazil** | — | Sci-Fi | 912 | [`subtitles/brazil.lao.srt`](subtitles/brazil.lao.srt) | ✓ LoRA 1.3B Champion |
-| **broadcast news** | — | Romance | 1,127 | [`subtitles/broadcast.news.lao.srt`](subtitles/broadcast.news.lao.srt) | ✓ LoRA 1.3B Champion |
-| **broken arrow** | — | Adventure | 921 | [`subtitles/broken.arrow.lao.srt`](subtitles/broken.arrow.lao.srt) | ✓ LoRA 1.3B Champion |
-| **broken embraces** | — | Romance | 991 | [`subtitles/broken.embraces.lao.srt`](subtitles/broken.embraces.lao.srt) | ✓ LoRA 1.3B Champion |
-| **brothers bloom the** | — | Romance | 706 | [`subtitles/brothers.bloom.the.lao.srt`](subtitles/brothers.bloom.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bruce almighty** | — | Romance | 837 | [`subtitles/bruce.almighty.lao.srt`](subtitles/bruce.almighty.lao.srt) | ✓ LoRA 1.3B Champion |
-| **buffy the vampire slayer** | — | Horror | 941 | [`subtitles/buffy.the.vampire.slayer.lao.srt`](subtitles/buffy.the.vampire.slayer.lao.srt) | ✓ LoRA 1.3B Champion |
-| **bull durham** | — | Romance | 884 | [`subtitles/bull.durham.lao.srt`](subtitles/bull.durham.lao.srt) | ✓ LoRA 1.3B Champion |
-| **burlesque** | — | Romance | 1,041 | [`subtitles/burlesque.lao.srt`](subtitles/burlesque.lao.srt) | ✓ LoRA 1.3B Champion |
-| **burn after reading** | — | Crime | 1,052 | [`subtitles/burn.after.reading.lao.srt`](subtitles/burn.after.reading.lao.srt) | ✓ LoRA 1.3B Champion |
-| **burning annie** | — | Romance | 1,165 | [`subtitles/burning.annie.lao.srt`](subtitles/burning.annie.lao.srt) | ✓ LoRA 1.3B Champion |
-| **capote** | — | Crime | 768 | [`subtitles/capote.lao.srt`](subtitles/capote.lao.srt) | ✓ LoRA 1.3B Champion |
-| **carrie** | — | Horror | 719 | [`subtitles/carrie.lao.srt`](subtitles/carrie.lao.srt) | ✓ LoRA 1.3B Champion |
-| **cars 2** | — | Animation | 1,226 | [`subtitles/cars.2.lao.srt`](subtitles/cars.2.lao.srt) | ✓ LoRA 1.3B Champion |
-| **case 39** | — | Horror | 746 | [`subtitles/case.39.lao.srt`](subtitles/case.39.lao.srt) | ✓ LoRA 1.3B Champion |
-| **casino** | — | Crime | 2,483 | [`subtitles/casino.lao.srt`](subtitles/casino.lao.srt) | ✓ LoRA 1.3B Champion |
-| **cast away** | — | Adventure | 787 | [`subtitles/cast.away.lao.srt`](subtitles/cast.away.lao.srt) | ✓ LoRA 1.3B Champion |
-| **catch me if you can** | — | Crime | 933 | [`subtitles/catch.me.if.you.can.lao.srt`](subtitles/catch.me.if.you.can.lao.srt) | ✓ LoRA 1.3B Champion |
-| **cell the** | — | Sci-Fi | 621 | [`subtitles/cell.the.lao.srt`](subtitles/cell.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **charade** | — | Romance | 1,355 | [`subtitles/charade.lao.srt`](subtitles/charade.lao.srt) | ✓ LoRA 1.3B Champion |
-| **chasing amy** | — | Romance | 1,075 | [`subtitles/chasing.amy.lao.srt`](subtitles/chasing.amy.lao.srt) | ✓ LoRA 1.3B Champion |
-| **cherry falls** | — | Horror | 701 | [`subtitles/cherry.falls.lao.srt`](subtitles/cherry.falls.lao.srt) | ✓ LoRA 1.3B Champion |
-| **chronicle** | — | Sci-Fi | 738 | [`subtitles/chronicle.lao.srt`](subtitles/chronicle.lao.srt) | ✓ LoRA 1.3B Champion |
-| **chronicles of narnia the lion the witch and the wardrobe** | — | Adventure | 629 | [`subtitles/chronicles.of.narnia.the.lion.the.witch.and.the.wardrobe.lao.srt`](subtitles/chronicles.of.narnia.the.lion.the.witch.and.the.wardrobe.lao.srt) | ✓ LoRA 1.3B Champion |
-| **cider house rules the** | — | Romance | 1,020 | [`subtitles/cider.house.rules.the.lao.srt`](subtitles/cider.house.rules.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **cinema paradiso** | — | Romance | 457 | [`subtitles/cinema.paradiso.lao.srt`](subtitles/cinema.paradiso.lao.srt) | ✓ LoRA 1.3B Champion |
-| **cirque du freak the vampires assistant** | — | Adventure | 938 | [`subtitles/cirque.du.freak.the.vampires.assistant.lao.srt`](subtitles/cirque.du.freak.the.vampires.assistant.lao.srt) | ✓ LoRA 1.3B Champion |
-| **clash of the titans** | — | Adventure | 764 | [`subtitles/clash.of.the.titans.lao.srt`](subtitles/clash.of.the.titans.lao.srt) | ✓ LoRA 1.3B Champion |
-| **cliffhanger** | — | Adventure | 559 | [`subtitles/cliffhanger.lao.srt`](subtitles/cliffhanger.lao.srt) | ✓ LoRA 1.3B Champion |
-| **coco 2017** | 2017 | Feature Film | 1,444 | [`subtitles/coco.2017.lao.srt`](subtitles/coco.2017.lao.srt) | ✓ LoRA 1.3B Champion |
-| **constantine** | — | Horror | 721 | [`subtitles/constantine.lao.srt`](subtitles/constantine.lao.srt) | ✓ LoRA 1.3B Champion |
-| **copycat** | — | Horror | 843 | [`subtitles/copycat.lao.srt`](subtitles/copycat.lao.srt) | ✓ LoRA 1.3B Champion |
-| **coraline** | — | Animation | 804 | [`subtitles/coraline.lao.srt`](subtitles/coraline.lao.srt) | ✓ LoRA 1.3B Champion |
-| **corpse bride** | — | Animation | 495 | [`subtitles/corpse.bride.lao.srt`](subtitles/corpse.bride.lao.srt) | ✓ LoRA 1.3B Champion |
-| **croods the** | — | Animation | 805 | [`subtitles/croods.the.lao.srt`](subtitles/croods.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **crouching tiger hidden dragon** | — | Adventure | 531 | [`subtitles/crouching.tiger.hidden.dragon.lao.srt`](subtitles/crouching.tiger.hidden.dragon.lao.srt) | ✓ LoRA 1.3B Champion |
-| **crow salvation the** | — | Horror | 572 | [`subtitles/crow.salvation.the.lao.srt`](subtitles/crow.salvation.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **crow the** | — | Horror | 539 | [`subtitles/crow.the.lao.srt`](subtitles/crow.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **dances with wolves** | — | Adventure | 638 | [`subtitles/dances.with.wolves.lao.srt`](subtitles/dances.with.wolves.lao.srt) | ✓ LoRA 1.3B Champion |
-| **dark city** | — | Sci-Fi | 560 | [`subtitles/dark.city.lao.srt`](subtitles/dark.city.lao.srt) | ✓ LoRA 1.3B Champion |
-| **dark star** | — | Sci-Fi | 350 | [`subtitles/dark.star.lao.srt`](subtitles/dark.star.lao.srt) | ✓ LoRA 1.3B Champion |
-| **darkman** | — | Sci-Fi | 930 | [`subtitles/darkman.lao.srt`](subtitles/darkman.lao.srt) | ✓ LoRA 1.3B Champion |
-| **dawn of the dead** | — | Horror | 139 | [`subtitles/dawn.of.the.dead.lao.srt`](subtitles/dawn.of.the.dead.lao.srt) | ✓ LoRA 1.3B Champion |
-| **day the earth stood still the** | — | Sci-Fi | 770 | [`subtitles/day.the.earth.stood.still.the.lao.srt`](subtitles/day.the.earth.stood.still.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **deadpool** | — | Adventure | 742 | [`subtitles/deadpool.lao.srt`](subtitles/deadpool.lao.srt) | ✓ LoRA 1.3B Champion |
-| **deadpool wolverine** | — | Sci-Fi | 742 | [`subtitles/deadpool.wolverine.lao.srt`](subtitles/deadpool.wolverine.lao.srt) | ✓ LoRA 1.3B Champion |
-| **deep rising** | — | Horror | 632 | [`subtitles/deep.rising.lao.srt`](subtitles/deep.rising.lao.srt) | ✓ LoRA 1.3B Champion |
-| **despicable me 2** | — | Animation | 710 | [`subtitles/despicable.me.2.lao.srt`](subtitles/despicable.me.2.lao.srt) | ✓ LoRA 1.3B Champion |
-| **detroit rock city** | — | Adventure | 777 | [`subtitles/detroit.rock.city.lao.srt`](subtitles/detroit.rock.city.lao.srt) | ✓ LoRA 1.3B Champion |
-| **devils advocate** | — | Horror | 1,060 | [`subtitles/devils.advocate.lao.srt`](subtitles/devils.advocate.lao.srt) | ✓ LoRA 1.3B Champion |
-| **django unchained** | 2012 | Adventure | 1,067 | [`subtitles/django.unchained.2012.lao.srt`](subtitles/django.unchained.2012.lao.srt) | ✓ LoRA 1.3B Champion |
-| **dogma** | — | Adventure | 955 | [`subtitles/dogma.lao.srt`](subtitles/dogma.lao.srt) | ✓ LoRA 1.3B Champion |
-| **drag me to hell** | — | Horror | 665 | [`subtitles/drag.me.to.hell.lao.srt`](subtitles/drag.me.to.hell.lao.srt) | ✓ LoRA 1.3B Champion |
-| **dune** | — | Sci-Fi | 617 | [`subtitles/dune.lao.srt`](subtitles/dune.lao.srt) | ✓ LoRA 1.3B Champion |
-| **dune part one** | — | Sci-Fi | 648 | [`subtitles/dune.part.one.lao.srt`](subtitles/dune.part.one.lao.srt) | ✓ LoRA 1.3B Champion |
-| **eight legged freaks** | — | Sci-Fi | 675 | [`subtitles/eight.legged.freaks.lao.srt`](subtitles/eight.legged.freaks.lao.srt) | ✓ LoRA 1.3B Champion |
-| **elemental** | — | Animation | 906 | [`subtitles/elemental.lao.srt`](subtitles/elemental.lao.srt) | ✓ LoRA 1.3B Champion |
-| **escape from l a** | — | Sci-Fi | 617 | [`subtitles/escape.from.l.a.lao.srt`](subtitles/escape.from.l.a.lao.srt) | ✓ LoRA 1.3B Champion |
-| **event horizon** | — | Horror | 892 | [`subtitles/event.horizon.lao.srt`](subtitles/event.horizon.lao.srt) | ✓ LoRA 1.3B Champion |
-| **evil dead** | — | Horror | 310 | [`subtitles/evil.dead.lao.srt`](subtitles/evil.dead.lao.srt) | ✓ LoRA 1.3B Champion |
-| **evil dead ii dead by dawn** | — | Horror | 221 | [`subtitles/evil.dead.ii.dead.by.dawn.lao.srt`](subtitles/evil.dead.ii.dead.by.dawn.lao.srt) | ✓ LoRA 1.3B Champion |
-| **fantastic mr fox** | — | Animation | 625 | [`subtitles/fantastic.mr.fox.lao.srt`](subtitles/fantastic.mr.fox.lao.srt) | ✓ LoRA 1.3B Champion |
-| **feast** | — | Horror | 831 | [`subtitles/feast.lao.srt`](subtitles/feast.lao.srt) | ✓ LoRA 1.3B Champion |
-| **fight club** | 1999 | Drama / Classics | 1,293 | [`subtitles/fight.club.1999.lao.srt`](subtitles/fight.club.1999.lao.srt) | ✓ LoRA 1.3B Champion |
-| **final destination** | — | Horror | 447 | [`subtitles/final.destination.lao.srt`](subtitles/final.destination.lao.srt) | ✓ LoRA 1.3B Champion |
-| **final destination 2** | — | Horror | 648 | [`subtitles/final.destination.2.lao.srt`](subtitles/final.destination.2.lao.srt) | ✓ LoRA 1.3B Champion |
-| **forrest gump** | 1994 | Drama / Classics | 1,065 | [`subtitles/forrest.gump.1994.lao.srt`](subtitles/forrest.gump.1994.lao.srt) | ✓ LoRA 1.3B Champion |
-| **freddy vs jason** | — | Horror | 716 | [`subtitles/freddy.vs.jason.lao.srt`](subtitles/freddy.vs.jason.lao.srt) | ✓ LoRA 1.3B Champion |
-| **friday the 13th** | — | Horror | 432 | [`subtitles/friday.the.13th.lao.srt`](subtitles/friday.the.13th.lao.srt) | ✓ LoRA 1.3B Champion |
-| **friday the 13th part viii jason takes manhattan** | — | Horror | 569 | [`subtitles/friday.the.13th.part.viii.jason.takes.manhattan.lao.srt`](subtitles/friday.the.13th.part.viii.jason.takes.manhattan.lao.srt) | ✓ LoRA 1.3B Champion |
-| **fright night** | — | Horror | 883 | [`subtitles/fright.night.lao.srt`](subtitles/fright.night.lao.srt) | ✓ LoRA 1.3B Champion |
-| **frozen 2013** | 2013 | Feature Film | 1,652 | [`subtitles/frozen.2013.lao.srt`](subtitles/frozen.2013.lao.srt) | ✓ LoRA 1.3B Champion |
-| **frozen disney** | — | Animation | 917 | [`subtitles/frozen.disney.lao.srt`](subtitles/frozen.disney.lao.srt) | ✓ LoRA 1.3B Champion |
-| **gladiator** | 2000 | Drama / Classics | 675 | [`subtitles/gladiator.2000.lao.srt`](subtitles/gladiator.2000.lao.srt) | ✓ LoRA 1.3B Champion |
-| **happy feet** | — | Animation | 633 | [`subtitles/happy.feet.lao.srt`](subtitles/happy.feet.lao.srt) | ✓ LoRA 1.3B Champion |
-| **heavy metal** | — | Animation | 297 | [`subtitles/heavy.metal.lao.srt`](subtitles/heavy.metal.lao.srt) | ✓ LoRA 1.3B Champion |
-| **here comes peter cottontail** | — | Animation | 508 | [`subtitles/here.comes.peter.cottontail.lao.srt`](subtitles/here.comes.peter.cottontail.lao.srt) | ✓ LoRA 1.3B Champion |
-| **how to train your dragon 2** | — | Animation | 726 | [`subtitles/how.to.train.your.dragon.2.lao.srt`](subtitles/how.to.train.your.dragon.2.lao.srt) | ✓ LoRA 1.3B Champion |
-| **inception** | 2010 | Drama / Classics | 1,223 | [`subtitles/inception.2010.lao.srt`](subtitles/inception.2010.lao.srt) | ✓ LoRA 1.3B Champion |
-| **interstellar** | 2014 | Drama / Classics | 902 | [`subtitles/interstellar.2014.lao.srt`](subtitles/interstellar.2014.lao.srt) | ✓ LoRA 1.3B Champion |
-| **kung fu panda** | — | Animation | 694 | [`subtitles/kung.fu.panda.lao.srt`](subtitles/kung.fu.panda.lao.srt) | ✓ LoRA 1.3B Champion |
-| **lego movie the** | — | Animation | 961 | [`subtitles/lego.movie.the.lao.srt`](subtitles/lego.movie.the.lao.srt) | ✓ LoRA 1.3B Champion |
-| **megamind** | — | Animation | 866 | [`subtitles/megamind.lao.srt`](subtitles/megamind.lao.srt) | ✓ LoRA 1.3B Champion |
-| **memento** | 2000 | Drama / Classics | 692 | [`subtitles/memento.2000.lao.srt`](subtitles/memento.2000.lao.srt) | ✓ LoRA 1.3B Champion |
-| **moana 2016** | 2016 | Feature Film | 1,233 | [`subtitles/moana.2016.lao.srt`](subtitles/moana.2016.lao.srt) | ✓ LoRA 1.3B Champion |
-| **monkeybone** | — | Animation | 643 | [`subtitles/monkeybone.lao.srt`](subtitles/monkeybone.lao.srt) | ✓ LoRA 1.3B Champion |
-| **onward** | — | Animation | 1,114 | [`subtitles/onward.lao.srt`](subtitles/onward.lao.srt) | ✓ LoRA 1.3B Champion |
-| **paranorman** | — | Animation | 664 | [`subtitles/paranorman.lao.srt`](subtitles/paranorman.lao.srt) | ✓ LoRA 1.3B Champion |
-| **pulp fiction** | 1994 | Drama / Classics | 1,214 | [`subtitles/pulp.fiction.1994.lao.srt`](subtitles/pulp.fiction.1994.lao.srt) | ✓ LoRA 1.3B Champion |
-| **puss in boots the last wish** | — | Animation | 1,134 | [`subtitles/puss.in.boots.the.last.wish.lao.srt`](subtitles/puss.in.boots.the.last.wish.lao.srt) | ✓ LoRA 1.3B Champion |
-| **reservoir dogs** | 1992 | Drama / Classics | 694 | [`subtitles/reservoir.dogs.1992.lao.srt`](subtitles/reservoir.dogs.1992.lao.srt) | ✓ LoRA 1.3B Champion |
-| **rise of the guardians** | — | Animation | 984 | [`subtitles/rise.of.the.guardians.lao.srt`](subtitles/rise.of.the.guardians.lao.srt) | ✓ LoRA 1.3B Champion |
-| **saving private ryan** | 1998 | Drama / Classics | 934 | [`subtitles/saving.private.ryan.1998.lao.srt`](subtitles/saving.private.ryan.1998.lao.srt) | ✓ LoRA 1.3B Champion |
-| **se7en** | 1995 | Drama / Classics | 489 | [`subtitles/se7en.1995.lao.srt`](subtitles/se7en.1995.lao.srt) | ✓ LoRA 1.3B Champion |
-| **shrek** | — | Animation | 744 | [`subtitles/shrek.lao.srt`](subtitles/shrek.lao.srt) | ✓ LoRA 1.3B Champion |
-| **south park** | — | Animation | 1,257 | [`subtitles/south.park.lao.srt`](subtitles/south.park.lao.srt) | ✓ LoRA 1.3B Champion |
-| **spider man across the spider verse** | — | Animation | 1,542 | [`subtitles/spider.man.across.the.spider.verse.lao.srt`](subtitles/spider.man.across.the.spider.verse.lao.srt) | ✓ LoRA 1.3B Champion |
-| **star wars episode iv a new hope** | 1977 | Drama / Classics | 994 | [`subtitles/star.wars.episode.iv.a.new.hope.1977.lao.srt`](subtitles/star.wars.episode.iv.a.new.hope.1977.lao.srt) | ✓ LoRA 1.3B Champion |
-| **teenage mutant ninja turtles mutant mayhem** | — | Animation | 996 | [`subtitles/teenage.mutant.ninja.turtles.mutant.mayhem.lao.srt`](subtitles/teenage.mutant.ninja.turtles.mutant.mayhem.lao.srt) | ✓ LoRA 1.3B Champion |
-| **terminator 2 judgment day** | 1991 | Drama / Classics | 518 | [`subtitles/terminator.2.judgment.day.1991.lao.srt`](subtitles/terminator.2.judgment.day.1991.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the dark knight** | 2008 | Drama / Classics | 1,243 | [`subtitles/the.dark.knight.2008.lao.srt`](subtitles/the.dark.knight.2008.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the departed** | 2006 | Drama / Classics | 1,180 | [`subtitles/the.departed.2006.lao.srt`](subtitles/the.departed.2006.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the godfather** | 1972 | Drama / Classics | 899 | [`subtitles/the.godfather.1972.lao.srt`](subtitles/the.godfather.1972.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the green mile** | 1999 | Drama / Classics | 1,012 | [`subtitles/the.green.mile.1999.lao.srt`](subtitles/the.green.mile.1999.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the lord of the rings fellowship of the ring** | 2001 | Drama / Classics | 817 | [`subtitles/the.lord.of.the.rings.fellowship.of.the.ring.2001.lao.srt`](subtitles/the.lord.of.the.rings.fellowship.of.the.ring.2001.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the matrix** | 1999 | Drama / Classics | 568 | [`subtitles/the.matrix.1999.lao.srt`](subtitles/the.matrix.1999.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the prestige** | 2006 | Drama / Classics | 1,047 | [`subtitles/the.prestige.2006.lao.srt`](subtitles/the.prestige.2006.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the shawshank redemption 1994** | 1994 | Feature Film | 803 | [`subtitles/the.shawshank.redemption.1994.lao.srt`](subtitles/the.shawshank.redemption.1994.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the silence of the lambs** | 1991 | Drama / Classics | 928 | [`subtitles/the.silence.of.the.lambs.1991.lao.srt`](subtitles/the.silence.of.the.lambs.1991.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the terminator** | 1984 | Drama / Classics | 503 | [`subtitles/the.terminator.1984.lao.srt`](subtitles/the.terminator.1984.lao.srt) | ✓ LoRA 1.3B Champion |
-| **the usual suspects** | 1995 | Drama / Classics | 768 | [`subtitles/the.usual.suspects.1995.lao.srt`](subtitles/the.usual.suspects.1995.lao.srt) | ✓ LoRA 1.3B Champion |
-| **tmnt** | — | Animation | 551 | [`subtitles/tmnt.lao.srt`](subtitles/tmnt.lao.srt) | ✓ LoRA 1.3B Champion |
-| **toy story** | — | Animation | 887 | [`subtitles/toy.story.lao.srt`](subtitles/toy.story.lao.srt) | ✓ LoRA 1.3B Champion |
-| **transformers the movie** | — | Animation | 720 | [`subtitles/transformers.the.movie.lao.srt`](subtitles/transformers.the.movie.lao.srt) | ✓ LoRA 1.3B Champion |
-| **up** | — | Animation | 720 | [`subtitles/up.lao.srt`](subtitles/up.lao.srt) | ✓ LoRA 1.3B Champion |
-| **wall e** | — | Animation | 476 | [`subtitles/wall.e.lao.srt`](subtitles/wall.e.lao.srt) | ✓ LoRA 1.3B Champion |
+| **10 Things I Hate About You** | **1999** | Romance | 1,027 | [`subtitles/10.Things.I.Hate.About.You.1999.lao.srt`](subtitles/10.Things.I.Hate.About.You.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **12 and Holding** | **2005** | Drama | 734 | [`subtitles/12.and.Holding.2005.lao.srt`](subtitles/12.and.Holding.2005.lao.srt) | ✓ LoRA 1.3B Champion |
+| **12 Monkeys** | **1995** | Thriller | 779 | [`subtitles/12.Monkeys.1995.lao.srt`](subtitles/12.Monkeys.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **12 Years a Slave** | **2013** | Drama | 835 | [`subtitles/12.Years.a.Slave.2013.lao.srt`](subtitles/12.Years.a.Slave.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **127 Hours** | **2010** | Thriller | 282 | [`subtitles/127.Hours.2010.lao.srt`](subtitles/127.Hours.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **1492: Conquest of Paradise** | **1992** | Drama | 634 | [`subtitles/1492.Conquest.of.Paradise.1992.lao.srt`](subtitles/1492.Conquest.of.Paradise.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **15 Minutes** | **2001** | Thriller | 1,015 | [`subtitles/15.Minutes.2001.lao.srt`](subtitles/15.Minutes.2001.lao.srt) | ✓ LoRA 1.3B Champion |
+| **17 Again** | **2009** | Romance | 817 | [`subtitles/17.Again.2009.lao.srt`](subtitles/17.Again.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **2001: A Space Odyssey** | **1968** | Sci-Fi | 447 | [`subtitles/2001.A.Space.Odyssey.1968.lao.srt`](subtitles/2001.A.Space.Odyssey.1968.lao.srt) | ✓ LoRA 1.3B Champion |
+| **20th Century Women** | **2016** | Drama | 648 | [`subtitles/20th.Century.Women.2016.lao.srt`](subtitles/20th.Century.Women.2016.lao.srt) | ✓ LoRA 1.3B Champion |
+| **28 Days Later** | **2002** | Sci-Fi | 609 | [`subtitles/28.Days.Later.2002.lao.srt`](subtitles/28.Days.Later.2002.lao.srt) | ✓ LoRA 1.3B Champion |
+| **30 Minutes or Less** | **2011** | Comedy | 961 | [`subtitles/30.Minutes.or.Less.2011.lao.srt`](subtitles/30.Minutes.or.Less.2011.lao.srt) | ✓ LoRA 1.3B Champion |
+| **42** | **2013** | Drama | 1,042 | [`subtitles/42.2013.lao.srt`](subtitles/42.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **44 Inch Chest** | **2009** | Drama | 726 | [`subtitles/44.Inch.Chest.2009.lao.srt`](subtitles/44.Inch.Chest.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **48 Hrs.** | **1982** | Thriller | 1,076 | [`subtitles/48.Hrs..1982.lao.srt`](subtitles/48.Hrs..1982.lao.srt) | ✓ LoRA 1.3B Champion |
+| **50-50** | **2011** | Drama | 1,067 | [`subtitles/50-50.2011.lao.srt`](subtitles/50-50.2011.lao.srt) | ✓ LoRA 1.3B Champion |
+| **500 Days of Summer** | **2009** | Romance | 1,022 | [`subtitles/500.Days.of.Summer.2009.lao.srt`](subtitles/500.Days.of.Summer.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **8MM** | **1999** | Thriller | 794 | [`subtitles/8MM.1999.lao.srt`](subtitles/8MM.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **A Few Good Men** | **1992** | Thriller | 1,458 | [`subtitles/A.Few.Good.Men.1992.lao.srt`](subtitles/A.Few.Good.Men.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **A Good Person** | **2023** | Drama | 978 | [`subtitles/A.Good.Person.2023.lao.srt`](subtitles/A.Good.Person.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **A Million Miles Away** | **2023** | Drama | 706 | [`subtitles/A.Million.Miles.Away.2023.lao.srt`](subtitles/A.Million.Miles.Away.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **A Most Violent Year** | **2014** | Drama | 1,175 | [`subtitles/A.Most.Violent.Year.2014.lao.srt`](subtitles/A.Most.Violent.Year.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **A Prayer Before Dawn** | **2017** | Drama | 364 | [`subtitles/A.Prayer.Before.Dawn.2017.lao.srt`](subtitles/A.Prayer.Before.Dawn.2017.lao.srt) | ✓ LoRA 1.3B Champion |
+| **A Quiet Place** | **2018** | Sci-Fi | 90 | [`subtitles/A.Quiet.Place.2018.lao.srt`](subtitles/A.Quiet.Place.2018.lao.srt) | ✓ LoRA 1.3B Champion |
+| **A Real Pain** | **2024** | Drama | 871 | [`subtitles/A.Real.Pain.2024.lao.srt`](subtitles/A.Real.Pain.2024.lao.srt) | ✓ LoRA 1.3B Champion |
+| **A Scanner Darkly** | **2006** | Drama | 1,117 | [`subtitles/A.Scanner.Darkly.2006.lao.srt`](subtitles/A.Scanner.Darkly.2006.lao.srt) | ✓ LoRA 1.3B Champion |
+| **A Serious Man** | **2009** | Comedy | 825 | [`subtitles/A.Serious.Man.2009.lao.srt`](subtitles/A.Serious.Man.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Above the Law** | **1988** | Action | 550 | [`subtitles/Above.the.Law.1988.lao.srt`](subtitles/Above.the.Law.1988.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Absolute Power** | **1997** | Thriller | 509 | [`subtitles/Absolute.Power.1997.lao.srt`](subtitles/Absolute.Power.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Ad Astra** | **2019** | Thriller | 493 | [`subtitles/Ad.Astra.2019.lao.srt`](subtitles/Ad.Astra.2019.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Adaptation** | **2002** | Drama | 820 | [`subtitles/Adaptation.2002.lao.srt`](subtitles/Adaptation.2002.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Affliction** | **1997** | Drama | 770 | [`subtitles/Affliction.1997.lao.srt`](subtitles/Affliction.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **After School Special** | **2003** | Comedy | 1,193 | [`subtitles/After.School.Special.2003.lao.srt`](subtitles/After.School.Special.2003.lao.srt) | ✓ LoRA 1.3B Champion |
+| **After.Life** | **2009** | Thriller | 809 | [`subtitles/After.Life.2009.lao.srt`](subtitles/After.Life.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Agnes of God** | **1985** | Drama | 944 | [`subtitles/Agnes.of.God.1985.lao.srt`](subtitles/Agnes.of.God.1985.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Air Force One** | **1997** | Thriller | 919 | [`subtitles/Air.Force.One.1997.lao.srt`](subtitles/Air.Force.One.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Airplane** | **1980** | Romance | 627 | [`subtitles/Airplane.1980.lao.srt`](subtitles/Airplane.1980.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Alien 3** | **1992** | Thriller | 689 | [`subtitles/Alien.3.1992.lao.srt`](subtitles/Alien.3.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Alien Nation** | **1988** | Sci-Fi | 544 | [`subtitles/Alien.Nation.1988.lao.srt`](subtitles/Alien.Nation.1988.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Aliens** | **1986** | Thriller | 724 | [`subtitles/Aliens.1986.lao.srt`](subtitles/Aliens.1986.lao.srt) | ✓ LoRA 1.3B Champion |
+| **All About Eve** | **1950** | Drama | 1,409 | [`subtitles/All.About.Eve.1950.lao.srt`](subtitles/All.About.Eve.1950.lao.srt) | ✓ LoRA 1.3B Champion |
+| **All About Steve** | **2009** | Comedy | 777 | [`subtitles/All.About.Steve.2009.lao.srt`](subtitles/All.About.Steve.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **All of Us Strangers** | **2023** | Romance | 621 | [`subtitles/All.of.Us.Strangers.2023.lao.srt`](subtitles/All.of.Us.Strangers.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **All the King's Men** | **2006** | Drama | 1,078 | [`subtitles/All.the.Kings.Men.2006.lao.srt`](subtitles/All.the.Kings.Men.2006.lao.srt) | ✓ LoRA 1.3B Champion |
+| **All the President's Men** | **1976** | Thriller | 994 | [`subtitles/All.the.Presidents.Men.1976.lao.srt`](subtitles/All.the.Presidents.Men.1976.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Almost Famous** | **2000** | Romance | 1,037 | [`subtitles/Almost.Famous.2000.lao.srt`](subtitles/Almost.Famous.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Alone in the Dark** | **2005** | Thriller | 402 | [`subtitles/Alone.in.the.Dark.2005.lao.srt`](subtitles/Alone.in.the.Dark.2005.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Amadeus** | **1984** | Drama | 1,379 | [`subtitles/Amadeus.1984.lao.srt`](subtitles/Amadeus.1984.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Amelia** | **2009** | Drama | 882 | [`subtitles/Amelia.2009.lao.srt`](subtitles/Amelia.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Beauty** | **1999** | Drama | 760 | [`subtitles/American.Beauty.1999.lao.srt`](subtitles/American.Beauty.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Fiction** | **2023** | Drama | 1,025 | [`subtitles/American.Fiction.2023.lao.srt`](subtitles/American.Fiction.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Gangster** | **2007** | Drama | 839 | [`subtitles/American.Gangster.2007.lao.srt`](subtitles/American.Gangster.2007.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Graffiti** | **1973** | Drama | 1,122 | [`subtitles/American.Graffiti.1973.lao.srt`](subtitles/American.Graffiti.1973.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American History X** | **1998** | Thriller | 794 | [`subtitles/American.History.X.1998.lao.srt`](subtitles/American.History.X.1998.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Hustle** | **2013** | Drama | 1,225 | [`subtitles/American.Hustle.2013.lao.srt`](subtitles/American.Hustle.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Milkshake** | **2013** | Comedy | 801 | [`subtitles/American.Milkshake.2013.lao.srt`](subtitles/American.Milkshake.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Pie** | **1999** | Comedy | 927 | [`subtitles/American.Pie.1999.lao.srt`](subtitles/American.Pie.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Shaolin: King of Kickboxers II** | **1992** | Action | 599 | [`subtitles/American.Shaolin.King.of.Kickboxers.II.1992.lao.srt`](subtitles/American.Shaolin.King.of.Kickboxers.II.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Sniper** | **2014** | Action | 914 | [`subtitles/American.Sniper.2014.lao.srt`](subtitles/American.Sniper.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Splendor** | **2003** | Comedy | 584 | [`subtitles/American.Splendor.2003.lao.srt`](subtitles/American.Splendor.2003.lao.srt) | ✓ LoRA 1.3B Champion |
+| **American Werewolf in London** | **1981** | Romance | 854 | [`subtitles/American.Werewolf.in.London.1981.lao.srt`](subtitles/American.Werewolf.in.London.1981.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Amour** | **2012** | Romance | 502 | [`subtitles/Amour.2012.lao.srt`](subtitles/Amour.2012.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Analyze That** | **2002** | Crime | 1,138 | [`subtitles/Analyze.That.2002.lao.srt`](subtitles/Analyze.That.2002.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Analyze This** | **1999** | Crime | 1,151 | [`subtitles/Analyze.This.1999.lao.srt`](subtitles/Analyze.This.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Anastasia** | **1997** | Animation | 587 | [`subtitles/Anastasia.1997.lao.srt`](subtitles/Anastasia.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Angel Eyes** | **2001** | Romance | 974 | [`subtitles/Angel.Eyes.2001.lao.srt`](subtitles/Angel.Eyes.2001.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Annie Hall** | **1977** | Romance | 1,291 | [`subtitles/Annie.Hall.1977.lao.srt`](subtitles/Annie.Hall.1977.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Anonymous** | **2011** | Thriller | 820 | [`subtitles/Anonymous.2011.lao.srt`](subtitles/Anonymous.2011.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Anora** | **2024** | Romance | 1,137 | [`subtitles/Anora.2024.lao.srt`](subtitles/Anora.2024.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Antitrust** | **2001** | Thriller | 903 | [`subtitles/Antitrust.2001.lao.srt`](subtitles/Antitrust.2001.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Antz** | **1998** | Comedy | 438 | [`subtitles/Antz.1998.lao.srt`](subtitles/Antz.1998.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Apocalypse Now** | **1979** | Action | 968 | [`subtitles/Apocalypse.Now.1979.lao.srt`](subtitles/Apocalypse.Now.1979.lao.srt) | ✓ LoRA 1.3B Champion |
+| **April Fool's Day** | **1986** | Horror | 812 | [`subtitles/April.Fools.Day.1986.lao.srt`](subtitles/April.Fools.Day.1986.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Arbitrage** | **2012** | Thriller | 1,007 | [`subtitles/Arbitrage.2012.lao.srt`](subtitles/Arbitrage.2012.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Arcade** | **1993** | Sci-Fi | 518 | [`subtitles/Arcade.1993.lao.srt`](subtitles/Arcade.1993.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Arctic Blue** | **1993** | Thriller | 613 | [`subtitles/Arctic.Blue.1993.lao.srt`](subtitles/Arctic.Blue.1993.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Argo** | **2012** | Thriller | 759 | [`subtitles/Argo.2012.lao.srt`](subtitles/Argo.2012.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Army of Darkness** | **1992** | Horror | 234 | [`subtitles/Army.of.Darkness.1992.lao.srt`](subtitles/Army.of.Darkness.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Arthur** | **2011** | Comedy | 1,003 | [`subtitles/Arthur.2011.lao.srt`](subtitles/Arthur.2011.lao.srt) | ✓ LoRA 1.3B Champion |
+| **As Good As It Gets** | **1997** | Romance | 824 | [`subtitles/As.Good.As.It.Gets.1997.lao.srt`](subtitles/As.Good.As.It.Gets.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Assassins** | **1995** | Thriller | 877 | [`subtitles/Assassins.1995.lao.srt`](subtitles/Assassins.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Asteroid City** | **2023** | Sci-Fi | 820 | [`subtitles/Asteroid.City.2023.lao.srt`](subtitles/Asteroid.City.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Austin Powers - International Man of Mystery** | **1997** | Comedy | 802 | [`subtitles/Austin.Powers.-.International.Man.of.Mystery.1997.lao.srt`](subtitles/Austin.Powers.-.International.Man.of.Mystery.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Austin Powers - The Spy Who Shagged Me** | **1999** | Comedy | 773 | [`subtitles/Austin.Powers.-.The.Spy.Who.Shagged.Me.1999.lao.srt`](subtitles/Austin.Powers.-.The.Spy.Who.Shagged.Me.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Authors Anonymous** | **2014** | Comedy | 765 | [`subtitles/Authors.Anonymous.2014.lao.srt`](subtitles/Authors.Anonymous.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Autumn in New York** | **2000** | Romance | 916 | [`subtitles/Autumn.in.New.York.2000.lao.srt`](subtitles/Autumn.in.New.York.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Avatar** | **2009** | Sci-Fi | 784 | [`subtitles/Avatar.2009.lao.srt`](subtitles/Avatar.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Avengers: Endgame** | **2019** | Adventure | 1,144 | [`subtitles/Avengers.Endgame.2019.lao.srt`](subtitles/Avengers.Endgame.2019.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Babel** | **2006** | Thriller | 1,031 | [`subtitles/Babel.2006.lao.srt`](subtitles/Babel.2006.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bachelor Party** | **1984** | Comedy | 952 | [`subtitles/Bachelor.Party.1984.lao.srt`](subtitles/Bachelor.Party.1984.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Backdraft** | **1991** | Thriller | 962 | [`subtitles/Backdraft.1991.lao.srt`](subtitles/Backdraft.1991.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bad Boys** | **1995** | Comedy | 792 | [`subtitles/Bad.Boys.1995.lao.srt`](subtitles/Bad.Boys.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bad Country** | **2014** | Crime | 773 | [`subtitles/Bad.Country.2014.lao.srt`](subtitles/Bad.Country.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bad Day at Black Rock** | **1955** | Thriller | 781 | [`subtitles/Bad.Day.at.Black.Rock.1955.lao.srt`](subtitles/Bad.Day.at.Black.Rock.1955.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bad Dreams** | **1988** | Thriller | 732 | [`subtitles/Bad.Dreams.1988.lao.srt`](subtitles/Bad.Dreams.1988.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bad Lieutenant** | **1992** | Crime | 332 | [`subtitles/Bad.Lieutenant.1992.lao.srt`](subtitles/Bad.Lieutenant.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bad Santa** | **2003** | Crime | 659 | [`subtitles/Bad.Santa.2003.lao.srt`](subtitles/Bad.Santa.2003.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Barbie** | **2023** | Adventure | 959 | [`subtitles/Barbie.2023.lao.srt`](subtitles/Barbie.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Barry Lyndon** | **1975** | Romance | 787 | [`subtitles/Barry.Lyndon.1975.lao.srt`](subtitles/Barry.Lyndon.1975.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Barton Fink** | **1991** | Thriller | 771 | [`subtitles/Barton.Fink.1991.lao.srt`](subtitles/Barton.Fink.1991.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Basic** | **2003** | Thriller | 1,059 | [`subtitles/Basic.2003.lao.srt`](subtitles/Basic.2003.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Basic Instinct** | **1992** | Thriller | 881 | [`subtitles/Basic.Instinct.1992.lao.srt`](subtitles/Basic.Instinct.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Batman** | **1989** | Thriller | 609 | [`subtitles/Batman.1989.lao.srt`](subtitles/Batman.1989.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Batman 2** | **1992** | Thriller | 604 | [`subtitles/Batman.2.1992.lao.srt`](subtitles/Batman.2.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Battle: Los Angeles** | **2011** | Sci-Fi | 681 | [`subtitles/Battle.Los.Angeles.2011.lao.srt`](subtitles/Battle.Los.Angeles.2011.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Beavis and Butt-head Do America** | **1996** | Animation | 703 | [`subtitles/Beavis.and.Butt-head.Do.America.1996.lao.srt`](subtitles/Beavis.and.Butt-head.Do.America.1996.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Beginners** | **2010** | Romance | 745 | [`subtitles/Beginners.2010.lao.srt`](subtitles/Beginners.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Belle** | **2013** | Romance | 813 | [`subtitles/Belle.2013.lao.srt`](subtitles/Belle.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Big Eyes** | **2014** | Crime | 835 | [`subtitles/Big.Eyes.2014.lao.srt`](subtitles/Big.Eyes.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Big Fish** | **2003** | Adventure | 804 | [`subtitles/Big.Fish.2003.lao.srt`](subtitles/Big.Fish.2003.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Birdman** | **2014** | Romance | 1,099 | [`subtitles/Birdman.2014.lao.srt`](subtitles/Birdman.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Birthday Girl** | **2001** | Romance | 593 | [`subtitles/Birthday.Girl.2001.lao.srt`](subtitles/Birthday.Girl.2001.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Black Panther** | **2018** | Sci-Fi | 923 | [`subtitles/Black.Panther.2018.lao.srt`](subtitles/Black.Panther.2018.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Black Rain** | **1989** | Crime | 650 | [`subtitles/Black.Rain.1989.lao.srt`](subtitles/Black.Rain.1989.lao.srt) | ✓ LoRA 1.3B Champion |
+| **BlacKkKlansman** | **2018** | Crime | 1,089 | [`subtitles/BlacKkKlansman.2018.lao.srt`](subtitles/BlacKkKlansman.2018.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blade** | **1998** | Sci-Fi | 560 | [`subtitles/Blade.1998.lao.srt`](subtitles/Blade.1998.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blade II** | **2002** | Horror | 566 | [`subtitles/Blade.II.2002.lao.srt`](subtitles/Blade.II.2002.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blade Runner** | **1982** | Sci-Fi | 746 | [`subtitles/Blade.Runner.1982.lao.srt`](subtitles/Blade.Runner.1982.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blade: Trinity** | **2004** | Horror | 574 | [`subtitles/Blade.Trinity.2004.lao.srt`](subtitles/Blade.Trinity.2004.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blitz** | **2011** | Action | 602 | [`subtitles/Blitz.2011.lao.srt`](subtitles/Blitz.2011.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blood and Wine** | **1996** | Crime | 926 | [`subtitles/Blood.and.Wine.1996.lao.srt`](subtitles/Blood.and.Wine.1996.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blood Diamond** | **2006** | Feature Film | 1,443 | [`subtitles/Blood.Diamond.2006.lao.srt`](subtitles/Blood.Diamond.2006.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blow** | **2001** | Crime | 1,026 | [`subtitles/Blow.2001.lao.srt`](subtitles/Blow.2001.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blue Valentine** | **2010** | Romance | 679 | [`subtitles/Blue.Valentine.2010.lao.srt`](subtitles/Blue.Valentine.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Blue Velvet** | **1986** | Crime | 948 | [`subtitles/Blue.Velvet.1986.lao.srt`](subtitles/Blue.Velvet.1986.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Body Heat** | **1981** | Crime | 871 | [`subtitles/Body.Heat.1981.lao.srt`](subtitles/Body.Heat.1981.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Body of Evidence** | **1993** | Romance | 928 | [`subtitles/Body.of.Evidence.1993.lao.srt`](subtitles/Body.of.Evidence.1993.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bodyguard** | **1992** | Romance | 964 | [`subtitles/Bodyguard.1992.lao.srt`](subtitles/Bodyguard.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bones** | **2001** | Horror | 696 | [`subtitles/Bones.2001.lao.srt`](subtitles/Bones.2001.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bonnie and Clyde** | **1967** | Romance | 736 | [`subtitles/Bonnie.and.Clyde.1967.lao.srt`](subtitles/Bonnie.and.Clyde.1967.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bookworm** | **2024** | Adventure | 889 | [`subtitles/Bookworm.2024.lao.srt`](subtitles/Bookworm.2024.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Boondock Saints 2: All Saints Day** | **2009** | Crime | 892 | [`subtitles/Boondock.Saints.2.All.Saints.Day.2009.lao.srt`](subtitles/Boondock.Saints.2.All.Saints.Day.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bottle Rocket** | **1996** | Crime | 1,195 | [`subtitles/Bottle.Rocket.1996.lao.srt`](subtitles/Bottle.Rocket.1996.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bound** | **1996** | Crime | 918 | [`subtitles/Bound.1996.lao.srt`](subtitles/Bound.1996.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Brazil** | **1985** | Sci-Fi | 912 | [`subtitles/Brazil.1985.lao.srt`](subtitles/Brazil.1985.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Broadcast News** | **1987** | Romance | 1,127 | [`subtitles/Broadcast.News.1987.lao.srt`](subtitles/Broadcast.News.1987.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Broken Arrow** | **1996** | Adventure | 921 | [`subtitles/Broken.Arrow.1996.lao.srt`](subtitles/Broken.Arrow.1996.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Broken Embraces** | **2009** | Romance | 991 | [`subtitles/Broken.Embraces.2009.lao.srt`](subtitles/Broken.Embraces.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bruce Almighty** | **2003** | Romance | 837 | [`subtitles/Bruce.Almighty.2003.lao.srt`](subtitles/Bruce.Almighty.2003.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Buffy the Vampire Slayer** | **1992** | Horror | 941 | [`subtitles/Buffy.the.Vampire.Slayer.1992.lao.srt`](subtitles/Buffy.the.Vampire.Slayer.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Bull Durham** | **1988** | Romance | 884 | [`subtitles/Bull.Durham.1988.lao.srt`](subtitles/Bull.Durham.1988.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Burlesque** | **2010** | Romance | 1,041 | [`subtitles/Burlesque.2010.lao.srt`](subtitles/Burlesque.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Burn After Reading** | **2008** | Crime | 1,052 | [`subtitles/Burn.After.Reading.2008.lao.srt`](subtitles/Burn.After.Reading.2008.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Burning Annie** | **2004** | Romance | 1,165 | [`subtitles/Burning.Annie.2004.lao.srt`](subtitles/Burning.Annie.2004.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Capote** | **2005** | Crime | 768 | [`subtitles/Capote.2005.lao.srt`](subtitles/Capote.2005.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Carrie** | **1976** | Horror | 719 | [`subtitles/Carrie.1976.lao.srt`](subtitles/Carrie.1976.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Cars 2** | **2011** | Animation | 1,226 | [`subtitles/Cars.2.2011.lao.srt`](subtitles/Cars.2.2011.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Case 39** | **2009** | Horror | 746 | [`subtitles/Case.39.2009.lao.srt`](subtitles/Case.39.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Casino** | **1995** | Crime | 2,483 | [`subtitles/Casino.1995.lao.srt`](subtitles/Casino.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Cast Away** | **2000** | Adventure | 787 | [`subtitles/Cast.Away.2000.lao.srt`](subtitles/Cast.Away.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Catch Me If You Can** | **2002** | Crime | 933 | [`subtitles/Catch.Me.If.You.Can.2002.lao.srt`](subtitles/Catch.Me.If.You.Can.2002.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Charade** | **1963** | Romance | 1,355 | [`subtitles/Charade.1963.lao.srt`](subtitles/Charade.1963.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Chasing Amy** | **1997** | Romance | 1,075 | [`subtitles/Chasing.Amy.1997.lao.srt`](subtitles/Chasing.Amy.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Cherry Falls** | **2000** | Horror | 701 | [`subtitles/Cherry.Falls.2000.lao.srt`](subtitles/Cherry.Falls.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Chronicle** | **2012** | Sci-Fi | 738 | [`subtitles/Chronicle.2012.lao.srt`](subtitles/Chronicle.2012.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Chronicles of Narnia: The Lion, the Witch and the Wardrobe** | **2005** | Adventure | 629 | [`subtitles/Chronicles.of.Narnia.The.Lion.the.Witch.and.the.Wardrobe.2005.lao.srt`](subtitles/Chronicles.of.Narnia.The.Lion.the.Witch.and.the.Wardrobe.2005.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Cinema Paradiso** | **1988** | Romance | 457 | [`subtitles/Cinema.Paradiso.1988.lao.srt`](subtitles/Cinema.Paradiso.1988.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Cirque du Freak: The Vampire's Assistant** | **2009** | Adventure | 938 | [`subtitles/Cirque.du.Freak.The.Vampires.Assistant.2009.lao.srt`](subtitles/Cirque.du.Freak.The.Vampires.Assistant.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Clash of the Titans** | **2010** | Adventure | 764 | [`subtitles/Clash.of.the.Titans.2010.lao.srt`](subtitles/Clash.of.the.Titans.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Cliffhanger** | **1993** | Adventure | 559 | [`subtitles/Cliffhanger.1993.lao.srt`](subtitles/Cliffhanger.1993.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Coco** | **2017** | Feature Film | 1,444 | [`subtitles/Coco.2017.lao.srt`](subtitles/Coco.2017.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Constantine** | **2005** | Horror | 721 | [`subtitles/Constantine.2005.lao.srt`](subtitles/Constantine.2005.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Copycat** | **1995** | Horror | 843 | [`subtitles/Copycat.1995.lao.srt`](subtitles/Copycat.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Coraline** | **2009** | Animation | 804 | [`subtitles/Coraline.2009.lao.srt`](subtitles/Coraline.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Corpse Bride** | **2005** | Animation | 495 | [`subtitles/Corpse.Bride.2005.lao.srt`](subtitles/Corpse.Bride.2005.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Crouching Tiger, Hidden Dragon** | **2000** | Adventure | 531 | [`subtitles/Crouching.Tiger.Hidden.Dragon.2000.lao.srt`](subtitles/Crouching.Tiger.Hidden.Dragon.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Dances with Wolves** | **1990** | Adventure | 638 | [`subtitles/Dances.with.Wolves.1990.lao.srt`](subtitles/Dances.with.Wolves.1990.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Dark City** | **1998** | Sci-Fi | 560 | [`subtitles/Dark.City.1998.lao.srt`](subtitles/Dark.City.1998.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Dark Star** | **1974** | Sci-Fi | 350 | [`subtitles/Dark.Star.1974.lao.srt`](subtitles/Dark.Star.1974.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Darkman** | **1990** | Sci-Fi | 930 | [`subtitles/Darkman.1990.lao.srt`](subtitles/Darkman.1990.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Dawn of the Dead** | **2004** | Horror | 139 | [`subtitles/Dawn.of.the.Dead.2004.lao.srt`](subtitles/Dawn.of.the.Dead.2004.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Deadpool** | **2016** | Adventure | 742 | [`subtitles/Deadpool.2016.lao.srt`](subtitles/Deadpool.2016.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Deadpool & Wolverine** | **2024** | Sci-Fi | 742 | [`subtitles/Deadpool.and.Wolverine.2024.lao.srt`](subtitles/Deadpool.and.Wolverine.2024.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Deep Rising** | **1998** | Horror | 632 | [`subtitles/Deep.Rising.1998.lao.srt`](subtitles/Deep.Rising.1998.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Despicable Me 2** | **2013** | Animation | 710 | [`subtitles/Despicable.Me.2.2013.lao.srt`](subtitles/Despicable.Me.2.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Detroit Rock City** | **1999** | Adventure | 777 | [`subtitles/Detroit.Rock.City.1999.lao.srt`](subtitles/Detroit.Rock.City.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Devil's Advocate** | **1997** | Horror | 1,060 | [`subtitles/Devils.Advocate.1997.lao.srt`](subtitles/Devils.Advocate.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Django Unchained** | **2012** | Adventure | 1,067 | [`subtitles/Django.Unchained.2012.lao.srt`](subtitles/Django.Unchained.2012.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Dogma** | **1999** | Adventure | 955 | [`subtitles/Dogma.1999.lao.srt`](subtitles/Dogma.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Drag Me to Hell** | **2009** | Horror | 665 | [`subtitles/Drag.Me.to.Hell.2009.lao.srt`](subtitles/Drag.Me.to.Hell.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Dune** | **1984** | Sci-Fi | 617 | [`subtitles/Dune.1984.lao.srt`](subtitles/Dune.1984.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Dune Part One** | **2021** | Sci-Fi | 648 | [`subtitles/Dune.Part.One.2021.lao.srt`](subtitles/Dune.Part.One.2021.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Eight Legged Freaks** | **2002** | Sci-Fi | 675 | [`subtitles/Eight.Legged.Freaks.2002.lao.srt`](subtitles/Eight.Legged.Freaks.2002.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Elemental** | **2023** | Animation | 906 | [`subtitles/Elemental.2023.lao.srt`](subtitles/Elemental.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Escape From L.A.** | **1996** | Sci-Fi | 617 | [`subtitles/Escape.From.L.A..1996.lao.srt`](subtitles/Escape.From.L.A..1996.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Event Horizon** | **1997** | Horror | 892 | [`subtitles/Event.Horizon.1997.lao.srt`](subtitles/Event.Horizon.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Evil Dead** | **1981** | Horror | 310 | [`subtitles/Evil.Dead.1981.lao.srt`](subtitles/Evil.Dead.1981.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Evil Dead II: Dead by Dawn** | **1987** | Horror | 221 | [`subtitles/Evil.Dead.II.Dead.by.Dawn.1987.lao.srt`](subtitles/Evil.Dead.II.Dead.by.Dawn.1987.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Fantastic Mr Fox** | **2009** | Animation | 625 | [`subtitles/Fantastic.Mr.Fox.2009.lao.srt`](subtitles/Fantastic.Mr.Fox.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Feast** | **2005** | Horror | 831 | [`subtitles/Feast.2005.lao.srt`](subtitles/Feast.2005.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Fight Club** | **1999** | Drama / Classics | 1,293 | [`subtitles/Fight.Club.1999.lao.srt`](subtitles/Fight.Club.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Final Destination** | **2000** | Horror | 447 | [`subtitles/Final.Destination.2000.lao.srt`](subtitles/Final.Destination.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Final Destination 2** | **2003** | Horror | 648 | [`subtitles/Final.Destination.2.2003.lao.srt`](subtitles/Final.Destination.2.2003.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Forrest Gump** | **1994** | Drama / Classics | 1,065 | [`subtitles/Forrest.Gump.1994.lao.srt`](subtitles/Forrest.Gump.1994.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Freddy vs. Jason** | **2003** | Horror | 716 | [`subtitles/Freddy.vs..Jason.2003.lao.srt`](subtitles/Freddy.vs..Jason.2003.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Friday the 13th** | **1980** | Horror | 432 | [`subtitles/Friday.the.13th.1980.lao.srt`](subtitles/Friday.the.13th.1980.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Friday the 13th Part VIII: Jason Takes Manhattan** | **1989** | Horror | 569 | [`subtitles/Friday.the.13th.Part.VIII.Jason.Takes.Manhattan.1989.lao.srt`](subtitles/Friday.the.13th.Part.VIII.Jason.Takes.Manhattan.1989.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Fright Night** | **1985** | Horror | 883 | [`subtitles/Fright.Night.1985.lao.srt`](subtitles/Fright.Night.1985.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Frozen** | **2013** | Feature Film | 1,652 | [`subtitles/Frozen.2013.lao.srt`](subtitles/Frozen.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Frozen** | **2013** | Animation | 917 | [`subtitles/Frozen.2013.lao.srt`](subtitles/Frozen.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Gladiator** | **2000** | Drama / Classics | 675 | [`subtitles/Gladiator.2000.lao.srt`](subtitles/Gladiator.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Happy Feet** | **2006** | Animation | 633 | [`subtitles/Happy.Feet.2006.lao.srt`](subtitles/Happy.Feet.2006.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Heavy Metal** | **1981** | Animation | 297 | [`subtitles/Heavy.Metal.1981.lao.srt`](subtitles/Heavy.Metal.1981.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Here Comes Peter Cottontail** | **1971** | Animation | 508 | [`subtitles/Here.Comes.Peter.Cottontail.1971.lao.srt`](subtitles/Here.Comes.Peter.Cottontail.1971.lao.srt) | ✓ LoRA 1.3B Champion |
+| **How to Train Your Dragon 2** | **2014** | Animation | 726 | [`subtitles/How.to.Train.Your.Dragon.2.2014.lao.srt`](subtitles/How.to.Train.Your.Dragon.2.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Inception** | **2010** | Drama / Classics | 1,223 | [`subtitles/Inception.2010.lao.srt`](subtitles/Inception.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Interstellar** | **2014** | Drama / Classics | 902 | [`subtitles/Interstellar.2014.lao.srt`](subtitles/Interstellar.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Kung Fu Panda** | **2008** | Animation | 694 | [`subtitles/Kung.Fu.Panda.2008.lao.srt`](subtitles/Kung.Fu.Panda.2008.lao.srt) | ✓ LoRA 1.3B Champion |
+| **L' Avventura (The Adventure)** | **1960** | Thriller | 745 | [`subtitles/L.Avventura.The.Adventure.1960.lao.srt`](subtitles/L.Avventura.The.Adventure.1960.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Megamind** | **2010** | Animation | 866 | [`subtitles/Megamind.2010.lao.srt`](subtitles/Megamind.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Memento** | **2000** | Feature Film | 692 | [`subtitles/Memento.2000.lao.srt`](subtitles/Memento.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Moana** | **2016** | Feature Film | 1,233 | [`subtitles/Moana.2016.lao.srt`](subtitles/Moana.2016.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Monkeybone** | **2001** | Animation | 643 | [`subtitles/Monkeybone.2001.lao.srt`](subtitles/Monkeybone.2001.lao.srt) | ✓ LoRA 1.3B Champion |
+| **One Eight Seven (187)** | **1997** | Drama | 754 | [`subtitles/One.Eight.Seven.187.1997.lao.srt`](subtitles/One.Eight.Seven.187.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Onward** | **2020** | Animation | 1,114 | [`subtitles/Onward.2020.lao.srt`](subtitles/Onward.2020.lao.srt) | ✓ LoRA 1.3B Champion |
+| **ParaNorman** | **2012** | Animation | 664 | [`subtitles/ParaNorman.2012.lao.srt`](subtitles/ParaNorman.2012.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Pulp Fiction** | **1994** | Drama / Classics | 1,214 | [`subtitles/Pulp.Fiction.1994.lao.srt`](subtitles/Pulp.Fiction.1994.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Puss in Boots: The Last Wish** | **2022** | Animation | 1,134 | [`subtitles/Puss.in.Boots.The.Last.Wish.2022.lao.srt`](subtitles/Puss.in.Boots.The.Last.Wish.2022.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Reservoir Dogs** | **1992** | Feature Film | 694 | [`subtitles/Reservoir.Dogs.1992.lao.srt`](subtitles/Reservoir.Dogs.1992.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Rise of the Guardians** | **2012** | Animation | 984 | [`subtitles/Rise.of.the.Guardians.2012.lao.srt`](subtitles/Rise.of.the.Guardians.2012.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Saving Private Ryan** | **1998** | Feature Film | 934 | [`subtitles/Saving.Private.Ryan.1998.lao.srt`](subtitles/Saving.Private.Ryan.1998.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Se7en** | **1995** | Feature Film | 489 | [`subtitles/Se7en.1995.lao.srt`](subtitles/Se7en.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Shrek** | **2001** | Animation | 744 | [`subtitles/Shrek.2001.lao.srt`](subtitles/Shrek.2001.lao.srt) | ✓ LoRA 1.3B Champion |
+| **South Park: Bigger, Longer & Uncut** | **1999** | Animation | 1,257 | [`subtitles/South.Park.Bigger.Longer.and.Uncut.1999.lao.srt`](subtitles/South.Park.Bigger.Longer.and.Uncut.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Spider-Man: Across the Spider-Verse** | **2023** | Animation | 1,542 | [`subtitles/Spider-Man.Across.the.Spider-Verse.2023.lao.srt`](subtitles/Spider-Man.Across.the.Spider-Verse.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Star Wars: Episode IV - A New Hope** | **1977** | Feature Film | 994 | [`subtitles/Star.Wars.Episode.IV.-.A.New.Hope.1977.lao.srt`](subtitles/Star.Wars.Episode.IV.-.A.New.Hope.1977.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Teenage Mutant Ninja Turtles: Mutant Mayhem** | **2023** | Animation | 996 | [`subtitles/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.lao.srt`](subtitles/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Terminator 2: Judgment Day** | **1991** | Feature Film | 518 | [`subtitles/Terminator.2.Judgment.Day.1991.lao.srt`](subtitles/Terminator.2.Judgment.Day.1991.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Abyss** | **1989** | Thriller | 665 | [`subtitles/The.Abyss.1989.lao.srt`](subtitles/The.Abyss.1989.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Addams Family** | **1991** | Horror | 265 | [`subtitles/The.Addams.Family.1991.lao.srt`](subtitles/The.Addams.Family.1991.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Adjustment Bureau** | **2011** | Thriller | 978 | [`subtitles/The.Adjustment.Bureau.2011.lao.srt`](subtitles/The.Adjustment.Bureau.2011.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The American** | **2010** | Thriller | 693 | [`subtitles/The.American.2010.lao.srt`](subtitles/The.American.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The American President** | **1995** | Romance | 1,403 | [`subtitles/The.American.President.1995.lao.srt`](subtitles/The.American.President.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Amityville Asylum** | **2013** | Horror | 631 | [`subtitles/The.Amityville.Asylum.2013.lao.srt`](subtitles/The.Amityville.Asylum.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Apartment** | **1960** | Comedy | 1,214 | [`subtitles/The.Apartment.1960.lao.srt`](subtitles/The.Apartment.1960.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Assignment** | **1997** | Thriller | 788 | [`subtitles/The.Assignment.1997.lao.srt`](subtitles/The.Assignment.1997.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Avengers** | **2012** | Sci-Fi | 941 | [`subtitles/The.Avengers.2012.lao.srt`](subtitles/The.Avengers.2012.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Battle of Shaker Heights** | **2003** | Romance | 945 | [`subtitles/The.Battle.of.Shaker.Heights.2003.lao.srt`](subtitles/The.Battle.of.Shaker.Heights.2003.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Beekeeper** | **2024** | Thriller | 762 | [`subtitles/The.Beekeeper.2024.lao.srt`](subtitles/The.Beekeeper.2024.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Big Blue** | **1988** | Romance | 849 | [`subtitles/The.Big.Blue.1988.lao.srt`](subtitles/The.Big.Blue.1988.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Big Sick** | **2017** | Romance | 1,119 | [`subtitles/The.Big.Sick.2017.lao.srt`](subtitles/The.Big.Sick.2017.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Big White** | **2005** | Crime | 840 | [`subtitles/The.Big.White.2005.lao.srt`](subtitles/The.Big.White.2005.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Birds** | **1963** | Romance | 1,139 | [`subtitles/The.Birds.1963.lao.srt`](subtitles/The.Birds.1963.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Black Dahlia** | **2006** | Crime | 1,048 | [`subtitles/The.Black.Dahlia.2006.lao.srt`](subtitles/The.Black.Dahlia.2006.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Blast from the Past** | **1999** | Romance | 1,268 | [`subtitles/The.Blast.from.the.Past.1999.lao.srt`](subtitles/The.Blast.from.the.Past.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Bling Ring** | **2013** | Crime | 606 | [`subtitles/The.Bling.Ring.2013.lao.srt`](subtitles/The.Bling.Ring.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Book of Eli** | **2010** | Sci-Fi | 786 | [`subtitles/The.Book.of.Eli.2010.lao.srt`](subtitles/The.Book.of.Eli.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Boondock Saints** | **1999** | Crime | 787 | [`subtitles/The.Boondock.Saints.1999.lao.srt`](subtitles/The.Boondock.Saints.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Bounty Hunter** | **2010** | Romance | 934 | [`subtitles/The.Bounty.Hunter.2010.lao.srt`](subtitles/The.Bounty.Hunter.2010.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Bourne Identity** | **2002** | Adventure | 643 | [`subtitles/The.Bourne.Identity.2002.lao.srt`](subtitles/The.Bourne.Identity.2002.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Bourne Ultimatum** | **2007** | Adventure | 553 | [`subtitles/The.Bourne.Ultimatum.2007.lao.srt`](subtitles/The.Bourne.Ultimatum.2007.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Box** | **2009** | Sci-Fi | 811 | [`subtitles/The.Box.2009.lao.srt`](subtitles/The.Box.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Boxtrolls** | **2014** | Animation | 938 | [`subtitles/The.Boxtrolls.2014.lao.srt`](subtitles/The.Boxtrolls.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Brothers Bloom** | **2008** | Romance | 706 | [`subtitles/The.Brothers.Bloom.2008.lao.srt`](subtitles/The.Brothers.Bloom.2008.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Cell** | **2000** | Sci-Fi | 621 | [`subtitles/The.Cell.2000.lao.srt`](subtitles/The.Cell.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Cider House Rules** | **1999** | Romance | 1,020 | [`subtitles/The.Cider.House.Rules.1999.lao.srt`](subtitles/The.Cider.House.Rules.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Croods** | **2013** | Animation | 805 | [`subtitles/The.Croods.2013.lao.srt`](subtitles/The.Croods.2013.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Crow** | **1994** | Horror | 539 | [`subtitles/The.Crow.1994.lao.srt`](subtitles/The.Crow.1994.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Crow Salvation** | **2000** | Horror | 572 | [`subtitles/The.Crow.Salvation.2000.lao.srt`](subtitles/The.Crow.Salvation.2000.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Dark Knight** | **2008** | Drama / Classics | 1,243 | [`subtitles/The.Dark.Knight.2008.lao.srt`](subtitles/The.Dark.Knight.2008.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Day the Earth Stood Still** | **2008** | Sci-Fi | 770 | [`subtitles/The.Day.the.Earth.Stood.Still.2008.lao.srt`](subtitles/The.Day.the.Earth.Stood.Still.2008.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Departed** | **2006** | Feature Film | 1,180 | [`subtitles/The.Departed.2006.lao.srt`](subtitles/The.Departed.2006.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Godfather** | **1972** | Drama / Classics | 899 | [`subtitles/The.Godfather.1972.lao.srt`](subtitles/The.Godfather.1972.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Green Mile** | **1999** | Feature Film | 1,012 | [`subtitles/The.Green.Mile.1999.lao.srt`](subtitles/The.Green.Mile.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The LEGO Movie** | **2014** | Animation | 961 | [`subtitles/The.LEGO.Movie.2014.lao.srt`](subtitles/The.LEGO.Movie.2014.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Lord of the Rings: The Fellowship of the Ring** | **2001** | Feature Film | 817 | [`subtitles/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.lao.srt`](subtitles/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Matrix** | **1999** | Drama / Classics | 568 | [`subtitles/The.Matrix.1999.lao.srt`](subtitles/The.Matrix.1999.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Prestige** | **2006** | Feature Film | 1,047 | [`subtitles/The.Prestige.2006.lao.srt`](subtitles/The.Prestige.2006.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Shawshank Redemption** | **1994** | Feature Film | 803 | [`subtitles/The.Shawshank.Redemption.1994.lao.srt`](subtitles/The.Shawshank.Redemption.1994.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Silence Of The Lambs** | **1991** | Feature Film | 928 | [`subtitles/The.Silence.Of.The.Lambs.1991.lao.srt`](subtitles/The.Silence.Of.The.Lambs.1991.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Terminator** | **1984** | Feature Film | 503 | [`subtitles/The.Terminator.1984.lao.srt`](subtitles/The.Terminator.1984.lao.srt) | ✓ LoRA 1.3B Champion |
+| **The Usual Suspects** | **1995** | Feature Film | 768 | [`subtitles/The.Usual.Suspects.1995.lao.srt`](subtitles/The.Usual.Suspects.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **TMNT** | **2007** | Animation | 551 | [`subtitles/TMNT.2007.lao.srt`](subtitles/TMNT.2007.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Toy Story** | **1995** | Animation | 887 | [`subtitles/Toy.Story.1995.lao.srt`](subtitles/Toy.Story.1995.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Transformers: The Movie** | **1986** | Animation | 720 | [`subtitles/Transformers.The.Movie.1986.lao.srt`](subtitles/Transformers.The.Movie.1986.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Up** | **2009** | Animation | 720 | [`subtitles/Up.2009.lao.srt`](subtitles/Up.2009.lao.srt) | ✓ LoRA 1.3B Champion |
+| **Wall-E** | **2008** | Animation | 476 | [`subtitles/Wall-E.2008.lao.srt`](subtitles/Wall-E.2008.lao.srt) | ✓ LoRA 1.3B Champion |
 
 ---
 
@@ -324,8 +324,8 @@ These subtitles are produced using an advanced local AI translation pipeline run
 1. **Download**: Click any `.srt` link above or download from the [website](https://hieng1999.github.io/lao-subtitles/).
 2. **Rename**: Rename the `.srt` file to match the exact filename of your movie video file:
    ```
-   Coco.2017.720p.mkv
-   Coco.2017.720p.srt
+   10.Things.I.Hate.About.You.1999.720p.mkv
+   10.Things.I.Hate.About.You.1999.720p.srt
    ```
 3. **Play**: Open the video in **VLC**, **MPV**, **Plex**, **IINA**, or **PotPlayer** — the Lao subtitles will automatically appear!
 4. **Timing Nudge**: If your release has different opening logos, adjust subtitle delay in VLC by pressing `G` (earlier) or `H` (later).
