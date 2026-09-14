@@ -277,6 +277,36 @@
     </div>
   </div>
 
+  <div class="benchmark-card">
+    <div class="benchmark-header">
+      <span class="benchmark-title">📊 Model Translation Quality Benchmarks</span>
+      <span class="benchmark-badge">Real sacrebleu Results</span>
+    </div>
+    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;">Fresh chrF++/BLEU/TER run against 100 human-reference pairs per domain, audited 2026-09-14 14:40:40. This is general model quality, not a per-movie score — there's no human-reference cinema-subtitle dataset to compare individual films against.</p>
+    <div class="benchmark-grid">
+      <div class="benchmark-item">
+        <div class="benchmark-val">58.1</div>
+        <div class="benchmark-lbl">False Friends Cognate Challenge<br>chrF++ / BLEU 63.8</div>
+      </div>
+      <div class="benchmark-item">
+        <div class="benchmark-val">48.8</div>
+        <div class="benchmark-lbl">SEA-HELM Cultural & Regional<br>chrF++ / BLEU 58.5</div>
+      </div>
+      <div class="benchmark-item">
+        <div class="benchmark-val">49.8</div>
+        <div class="benchmark-lbl">Tatoeba Spoken Conversational<br>chrF++ / BLEU 63.3</div>
+      </div>
+      <div class="benchmark-item">
+        <div class="benchmark-val">48.1</div>
+        <div class="benchmark-lbl">Tennessee Civics & Legal<br>chrF++ / BLEU 57.3</div>
+      </div>
+      <div class="benchmark-item">
+        <div class="benchmark-val">48.7</div>
+        <div class="benchmark-lbl">WMT Biomedical & Healthcare<br>chrF++ / BLEU 60.3</div>
+      </div>
+    </div>
+  </div>
+
   <div class="search-bar-wrap">
     <input type="text" id="search" class="search-input" placeholder="🔍 Search movies by title, genre, or year (e.g. 1999, Action, Batman)..." oninput="filterMovies()">
   </div>
