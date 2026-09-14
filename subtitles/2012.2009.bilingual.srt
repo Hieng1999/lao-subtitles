@@ -196,7 +196,7 @@ Can you please have a look at this, sir? It's really important.
 00:02:06,100 --> 00:02:08,100
 [ANHEUSER]
 Who wrote this?
-ໃຜຂຽນນີ້?
+ແມ່ນໃຜທີ່ຂຽນເລື່ອງນີ້?
 
 33
 00:02:08,600 --> 00:02:14,550
@@ -209,7 +209,7 @@ An Indian astrophysicist I graduated with from Harvard and Prof. West, the preem
 00:02:15,050 --> 00:02:17,050
 [ANHEUSER]
 Who else knows about it?
-ມີໃຜອີກທີ່ຮູ້ກ່ຽວກັບເລື່ອງນີ້?
+ມີໃຜຮູ້ອີກບໍ່?
 
 35
 00:02:17,550 --> 00:02:19,550
@@ -309,7 +309,7 @@ You must understand I have a very big family. Mister...
 00:03:17,600 --> 00:03:19,600
 [MI-6 OFFICER]
 Isaacs.
-ໄອເຊັກສ.
+ໄອຊາຄສ໌
 
 51
 00:03:20,100 --> 00:03:23,600
@@ -340,7 +340,7 @@ Manfred ມູນນິທິມໍລະດົກໂລກໄດ້ເຮັດ
 00:03:38,250 --> 00:03:42,100
 [MANFRED PICARD]
 And she'll be safe now? Tucked away in the Swiss Alps?
-ແລະນາງຈະປອດໄພໃນປັດຈຸບັນ?
+ແລະຕອນນີ້ນາງຈະປອດໄພບໍ່? ເຊື່ອງໄວ້ໃນພູແອວສະວິດເຊີແລນບໍ່?
 
 56
 00:03:42,600 --> 00:03:44,600
@@ -476,7 +476,7 @@ This is better hours for me. Means I can still write.
 00:05:17,200 --> 00:05:19,200
 [KATE]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 77
 00:05:19,700 --> 00:05:25,650
@@ -743,7 +743,7 @@ Honey, calm down.
 00:08:02,400 --> 00:08:06,250
 [LAURA]
 A man was killed! I want the truth Dad. Right now.
-ຜູ້ຊາຍຄົນນຶ່ງໄດ້ຖືກຂ້າຕາຍ ຂ້ອຍຕ້ອງການຄວາມຈິງ ພໍ່. ໃນທັນທີນີ້.
+ມີຜູ້ຊາຍຖືກຂ້າຕາຍແລ້ວ! ຂ້ອຍຢາກຮູ້ຄວາມຈິງເດີ ພໍ່. ດຽວນີ້.
 
 120
 00:08:06,750 --> 00:08:08,750
@@ -824,7 +824,7 @@ It's okay, Noh'.
 00:08:51,200 --> 00:08:54,000
 [ADRIAN]
 I'll be with you in a second, Professor.
-ຂ້າພະເຈົ້າຈະມາຫາທ່ານໃນຊົ່ວຄາວ, ອາຈານ.
+ຂ້ອຍຈະມາຫາທ່ານອີກບໍ່ດົນນີ້ເດີ ອາຈານ.
 
 133
 00:08:54,500 --> 00:08:58,700
@@ -923,7 +923,7 @@ Officer, can you return them to the campgrounds, please.  Pleasure to meet you, 
 00:09:54,850 --> 00:09:56,850
 [LILLY]
 He was very nice.
-ລາວດີໃຈຫຼາຍ.
+ລາວແມ່ນຄົນດີຫຼາຍ.
 
 149
 00:09:57,350 --> 00:09:59,350
@@ -1320,7 +1320,7 @@ Something for Mosquito bites please?
 00:14:20,800 --> 00:14:22,800
 [CASHIER]
 Before or after?
-ກ່ອນຫລືຫລັງຈາກ?
+ກ່ອນຫຼືຫຼັງຈາກນັ້ນບໍ່?
 
 211
 00:14:23,300 --> 00:14:25,300
@@ -1508,7 +1508,7 @@ Yes, Mr. Karpov.
 00:16:21,300 --> 00:16:24,100
 [YURI]
 Good... That is good. (in Russian to the
-ດີ... ທີ່ດີ.
+ດີ... ນັ້ນແມ່ນດີ. (ໃນພາສາຣັດເຊຍກັບ
 
 241
 00:16:24,600 --> 00:16:30,600
@@ -1811,7 +1811,7 @@ Damn it! Where's the pilot?
 00:19:20,300 --> 00:19:22,400
 [KATE]
 Gordon, you know how to fly.
-Gordon, ເຈົ້າຮູ້ວິທີບິນ.
+ແກດອນ ເຈົ້າຮູ້ແລ້ວວ່າຈະບິນໄດ້ບໍ່.
 
 290
 00:19:22,900 --> 00:19:24,900
@@ -1853,7 +1853,7 @@ I'm coming.
 00:19:37,900 --> 00:19:42,100
 [IN THE DISTANCE]
 A gigantic fissure forms in the earth, shooting towards Santa Monica airport.
-ມີຮ່ອງຮອຍຂະຫນາດໃຫຍ່ເກີດຂຶ້ນໃນດິນ, ຍິງໄປຫາສະຫນາມບິນ Santa Monica.
+ການແຕກທີ່ຍິ່ງໃຫຍ່ສ້າງຂຶ້ນໃນໂລກ, ຍິງໄປສູ່ສະໜາມບິນແຊນຕາ ໂມນີກາ.
 
 297
 00:19:42,600 --> 00:19:44,600
@@ -1901,7 +1901,7 @@ That was amazing, Gordon!
 00:20:00,900 --> 00:20:02,900
 [JACKSON]
 Are you okay?
-ເຈົ້າດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 305
 00:20:03,400 --> 00:20:06,900
@@ -2029,7 +2029,7 @@ Why not? Who cares how long we do certain things? How long we drink booze, how l
 00:21:29,450 --> 00:21:33,650
 [TONY]
 Woah!... Harry, what's the matter with you? Let's go. We're back on.
-ໂຮ!... ຮາຣີ, ມີຫຍັງເກີດຂຶ້ນກັບທ່ານ? ໃຫ້ໄປ. ພວກເຮົາກັບຄືນໄປບ່ອນ.
+ໂວ້!... ແຮຣີ, ເຈົ້າເປັນຫຍັງ? ມາແລ້ວ. ພວກເຮົາກັບມາແລ້ວ.
 
 325
 00:21:34,150 --> 00:21:40,150
@@ -2353,7 +2353,7 @@ We're on our way.
 00:24:54,400 --> 00:24:56,850
 [KATE]
 Jackson, things are really looking bad here!
-ແຈັກສັນ, ສະຖານະການເບິ່ງຄືວ່າບໍ່ດີແທ້ໆ!
+ແຈກສັນ, ບາງສິ່ງບາງຢ່າງເບິ່ງບໍ່ດີຢູ່ບ່ອນນີ້ແທ້ໆ!
 
 377
 00:24:57,350 --> 00:24:59,450
@@ -2371,7 +2371,7 @@ It's following us!
 00:25:02,450 --> 00:25:04,450
 [JACKSON]
 Just don't look back, Lil'bee!
-ພຽງແຕ່ຢ່າເບິ່ງຫລັງ, Lil'bee!
+ພຽງແຕ່ຢ່າມອງຫຼັງເດີ້, ລີລບີ!
 
 380
 00:25:04,950 --> 00:25:06,950
@@ -2479,7 +2479,7 @@ It's daddy!
 00:25:57,600 --> 00:25:59,600
 [KATE]
 Jackson! Here!
-ແຈັກສັນ!
+ແຈກສັນ ມາແລ້ວ!
 
 398
 00:26:00,100 --> 00:26:02,200
@@ -2598,7 +2598,7 @@ That's not your fault sir.
 00:27:13,850 --> 00:27:15,850
 [PRESIDENT WILSON]
 You sound like Anheuser.
-ທ່ານເວົ້າຄ້າຍຄືກັບແອນໄຮເຊີ.
+ເຈົ້າເວົ້າເໝືອນກັບແອນເຮູເຊີ.
 
 417
 00:27:16,350 --> 00:27:22,350
@@ -2718,7 +2718,7 @@ Let's move people! Inside the terminal!
 00:28:36,700 --> 00:28:38,700
 [ADRIAN]
 Where's Anheuser?
-Anheuser ຢູ່ໃສ?
+ແອນເຮູເຊີຢູ່ໃສ?
 
 436
 00:28:39,200 --> 00:28:41,200
@@ -2873,7 +2873,7 @@ Sure... But I need a copilot.
 00:30:09,200 --> 00:30:11,200
 [LILLY]
 Gordon is a pilot.
-Gordon ເປັນນັກບິນ.
+ແກດອນແມ່ນນັກບິນ.
 
 461
 00:30:11,700 --> 00:30:13,700
@@ -3323,13 +3323,13 @@ Not enough. We'll have to make a water landing somewhere in the South China Sea.
 00:34:37,450 --> 00:34:40,250
 [GORDON]
 At least we won't need our landing gear.
-ຢ່າງຫນ້ອຍພວກເຮົາຍັງບໍ່ຈໍາເປັນທີ່ຈະໃຊ້ລົດລົງຈອດ.
+ຢ່າງໜ້ອຍພວກເຮົາຈະບໍ່ຕ້ອງການເຄື່ອງລົງຈອດຂອງພວກເຮົາເລີຍ.
 
 534
 00:34:40,750 --> 00:34:42,750
 [YURI]
 What about it?
-ມັນເປັນແນວໃດ?
+ແມ່ນແລ້ວບໍ່?
 
 535
 00:34:43,250 --> 00:34:45,350
@@ -3411,7 +3411,7 @@ What would you say were the chances of a first time, middle-aged writer, who bar
 00:35:33,900 --> 00:35:35,900
 [LAURA]
 Zero. What's your point?
-0 ຈຸດປະສົງຂອງທ່ານແມ່ນຫຍັງ?
+ບໍ່. ເຈົ້າໝາຍຄວາມວ່າແນວໃດ?
 
 548
 00:35:36,400 --> 00:35:41,650
@@ -3470,7 +3470,7 @@ No wonder the First Lady fell for him. I knew Miss Dorothy Jones long before the
 00:36:19,000 --> 00:36:21,000
 [SALLY]
 I know, she was amazing.
-ຂ້ອຍຮູ້, ນາງຫນ້າປະຫລາດໃຈ.
+ຂ້ອຍຮູ້ແລ້ວ, ນາງແມ່ນໜ້າປະທັບໃຈຫຼາຍ.
 
 557
 00:36:21,500 --> 00:36:23,950
@@ -3495,7 +3495,7 @@ I mean, of course sir. I didn't realize... What can I do for you, Mr. President?
 00:36:33,150 --> 00:36:36,650
 [PRESIDENT WILSON]
 Don't worry about it. You're doing a great job son...
-ບໍ່ຕ້ອງກັງວົນ ເລື້ອງນີ້ ເຈົ້າເຮັດວຽກໄດ້ດີເດີ້ ລູກ...
+ຢ່າກັງວົນເດີ້. ເຈົ້າກໍາລັງເຮັດວຽກດີແທ້ໆລູກຊາຍ...
 
 561
 00:36:37,150 --> 00:36:39,600
@@ -3558,7 +3558,7 @@ Nothing, just static. Not even an emergency signal.
 00:37:09,750 --> 00:37:12,900
 [KATE]
 I can't think about what's going on down there.
-ຂ້າພະເຈົ້າບໍ່ສາມາດຄິດກ່ຽວກັບສິ່ງທີ່ກໍາລັງເກີດຂຶ້ນຢູ່ທີ່ນັ້ນ.
+ຂ້ອຍບໍ່ຄິດໄດ້ວ່າແມ່ນຫຍັງເກີດຂຶ້ນຢູ່ລຸ່ມນັ້ນ.
 
 571
 00:37:13,400 --> 00:37:16,900
@@ -3688,7 +3688,7 @@ I'm so sorry.
 00:38:24,450 --> 00:38:26,450
 [HARRY]
 Tony!!
-ໂຕນີ!!
+ທອນນີ!!
 
 592
 00:38:26,950 --> 00:38:28,950
@@ -3857,7 +3857,7 @@ I wasn't there for you, the way I should have been.
 00:40:10,850 --> 00:40:14,000
 [JACKSON]
 ... And I am so very sorry for that.
-... ແລະຂ້າພະເຈົ້າຮູ້ສຶກເສຍໃຈຫຼາຍສໍາລັບນັ້ນ.
+... ແລະຂ້ອຍຂໍໂທດຫຼາຍຕໍ່ເລື່ອງນັ້ນ.
 
 619
 00:40:14,500 --> 00:40:18,350
@@ -3943,7 +3943,7 @@ CHTO ZA... Gordon ພວກເຮົາຍັງໄວເກີນໄປ!
 00:41:04,500 --> 00:41:06,500
 [SASHA]
 Now! Open it!
-ດຽວນີ້, ເປີດມັນ!
+ດຽວນີ້! ເປີດແລ້ວ!
 
 633
 00:41:07,000 --> 00:41:13,000
@@ -4165,7 +4165,7 @@ I am the supervisor! Now get in line with all the others while we make arrangeme
 00:43:13,250 --> 00:43:15,250
 [YURI]
 I want your name!
-ຂ້ອຍຕ້ອງການຊື່ຂອງເຈົ້າ!
+ຂ້ອຍຢາກຮູ້ຊື່ເຈົ້າເດີ້!
 
 669
 00:43:15,750 --> 00:43:17,750
@@ -4253,7 +4253,7 @@ Dr. Wilson, there's a protocol for all that. You just stick to your art. We'll h
 00:44:11,250 --> 00:44:13,250
 [ANHEUSER]
 Captain? Where is the Bridge?
-ນາຍພົນ, ຂົວຢູ່ໃສ?
+ຄັບປິນ? ຂົວແມ່ນໃສ?
 
 683
 00:44:13,750 --> 00:44:16,200
@@ -4337,7 +4337,7 @@ Satnam ເວົ້າເຖິງຄື້ນຟອງຈາກພາກຕາ�
 00:44:52,450 --> 00:44:54,450
 [PROF. WEST]
 Jesus!
-ພະເຈົ້າເອີຍ!
+ພຣະເຢຊູ!
 
 697
 00:44:54,950 --> 00:44:56,950
@@ -4532,7 +4532,7 @@ Oh my god, that's Yuri!
 00:46:39,700 --> 00:46:41,700
 [TAMARA]
 Caesar!
-Caesar!
+ຊີເຊີ!
 
 729
 00:46:42,200 --> 00:46:44,200
@@ -4675,7 +4675,7 @@ That's an order soldier.
 00:47:56,800 --> 00:47:58,800
 [ADRIAN]
 Don't do it!
-ຢ່າເຮັດ!
+ຢ່າທໍາແບບນັ້ນເດີ້!
 
 752
 00:47:59,300 --> 00:48:04,200
@@ -4785,7 +4785,7 @@ They're opening the gate! It will crush us!
 00:49:12,700 --> 00:49:14,700
 [JACKSON]
 Noah! Watch out!
-ໂນອາ ລະວັງຕົວ!
+ໂນອາ! ລະມັດລະວັງເດີ້!
 
 769
 00:49:15,200 --> 00:49:17,200
@@ -4833,7 +4833,7 @@ Sir, we have a breach in the zoological bay.
 00:49:35,450 --> 00:49:37,450
 [ADRIAN]
 Can you zoom in?
-ທ່ານສາມາດຂະຫຍາຍເຂົ້າມາໄດ້ບໍ?
+ເຈົ້າສາມາດເລັ່ງເບິ່ງໄດ້ບໍ່?
 
 777
 00:49:37,950 --> 00:49:43,200
@@ -5004,7 +5004,7 @@ What now?
 00:51:09,350 --> 00:51:14,600
 [SURVEILLANCE OFFICER]
 The rear of the ship will start sealing itself up one compartment at a time.
-ສ່ວນຫລັງຂອງເຮືອຈະເລີ້ມປະທັບຕາໂຕເອງ ໃນຊ່ອງນຶ່ງໃນແຕ່ລະຄັ້ງ
+ສ່ວນຫຼັງຂອງເຮືອຈະເລີ່ມປິດຕົວເອງໄວ້ໃນຫ້ອງໜຶ່ງໃນເວລາດຽວກັນ.
 
 805
 00:51:15,100 --> 00:51:18,250
@@ -5355,7 +5355,7 @@ Can we pet him?
 00:54:30,550 --> 00:54:33,000
 [LILLY]
 Of course you can. He's your doggie.
-ແນ່ນອນທ່ານສາມາດ. ລາວເປັນ ຫມາຂອງທ່ານ.
+ແມ່ນແລ້ວເຈົ້າສາມາດເຮັດໄດ້. ລາວແມ່ນໝາຂອງເຈົ້າ.
 
 862
 00:54:33,500 --> 00:54:35,500
@@ -5412,7 +5412,7 @@ Here, somebody wants to talk to you.
 00:55:02,900 --> 00:55:04,900
 [ADRIAN]
 This is Helmsley.
-ນີ້ແມ່ນ Helmsley.
+ນີ້ແມ່ນ ເຮລມສລີ.
 
 871
 00:55:05,400 --> 00:55:07,400
@@ -5522,7 +5522,7 @@ Do not fear. Some things will never change.
 00:56:06,100 --> 00:56:08,200
 [JACKSON]
 I thought you might want this.
-ຂ້າພະເຈົ້າຄິດວ່າທ່ານອາດຈະຕ້ອງການນີ້.
+ຂ້ອຍຄິດວ່າເຈົ້າອາດຈະຢາກໄດ້ສິ່ງນີ້.
 
 889
 00:56:08,700 --> 00:56:12,200

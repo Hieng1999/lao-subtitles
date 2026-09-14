@@ -468,7 +468,7 @@ Yeah.
 00:05:12,400 --> 00:05:14,400
 [SYDNEY PROSSER]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 76
 00:05:14,900 --> 00:05:17,000
@@ -1274,7 +1274,7 @@ I want to thank you very much Irving for seeing me. Sorry I'm so nervous.
 00:14:36,000 --> 00:14:38,000
 [IRVING ROSENFELD]
 That's correct.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ແມ່ນແລ້ວ.
 
 202
 00:14:38,500 --> 00:14:44,500
@@ -1350,7 +1350,7 @@ Yes. It's two lunches. What's the big deal?
 00:15:26,850 --> 00:15:28,850
 [IRVING ROSENFELD]
 That's unusual.
-ນັ້ນບໍ່ປົກກະຕິ.
+ນັ້ນແມ່ນບໍ່ທໍາມະດາ
 
 214
 00:15:29,350 --> 00:15:34,600
@@ -1862,7 +1862,7 @@ Only they can't get into his money unless you they know someone, and that someon
 00:21:19,300 --> 00:21:21,300
 [RICHIE DIMASO]
 Oh that's good.
-ໂອ້ ນັ້ນດີ.
+ແມ່ນແລ້ວ ບໍ່ເປັນຫຍັງ.
 
 294
 00:21:21,800 --> 00:21:27,800
@@ -1944,7 +1944,7 @@ Yeah, he's good.
 00:22:08,450 --> 00:22:10,450
 [IRVING ROSENFELD]
 It's a fake.
-ມັນເປັນຕົວະ.
+ແມ່ນບໍ່ຈິງແລ້ວ.
 
 307
 00:22:10,950 --> 00:22:13,400
@@ -2612,7 +2612,7 @@ Yeah we did it. 54.
 00:30:07,300 --> 00:30:09,300
 [IRVING ROSENFELD]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 410
 00:30:09,800 --> 00:30:11,800
@@ -3040,7 +3040,7 @@ Wait who's there? Who are you with?
 00:34:58,700 --> 00:35:00,700
 [RICHIE DIMASO]
 Oh, no, it's just people.
-ໂອ້, ບໍ່, ມັນເປັນພຽງແຕ່ຄົນ.
+ແມ່ນແລ້ວ, ບໍ່, ແມ່ນແຕ່ຄົນເທົ່ານັ້ນ.
 
 477
 00:35:01,200 --> 00:35:03,200
@@ -3385,19 +3385,19 @@ Are you gonna fuck for real or get out of the stall for real?
 00:38:37,700 --> 00:38:39,700
 [EDITH GREENSLY]
 No more fake shit.
-ບໍ່ມີເລື່ອງປອມອີກຕໍ່ໄປ.
+ບໍ່ຕ້ອງເວົ້າສໍ້ໂກງອີກເລີຍ.
 
 532
 00:38:40,200 --> 00:38:42,200
 [RICHIE DIMASO]
 No more fake shit.
-ບໍ່ມີເລື່ອງປອມອີກຕໍ່ໄປ.
+ບໍ່ຕ້ອງເວົ້າສໍ້ໂກງອີກເລີຍ.
 
 533
 00:38:42,700 --> 00:38:44,700
 [EDITH GREENSLY]
 No more fake shit!
-ບໍ່ມີເລື່ອງປອມອີກແລ້ວ!
+ບໍ່ຕ້ອງເວົ້າສໍ້ໂກງອີກເລີຍ!
 
 534
 00:38:45,200 --> 00:38:47,200
@@ -3415,7 +3415,7 @@ Get out!
 00:38:50,200 --> 00:38:52,300
 [RICHIE DIMASO]
 I want to be fucking real!
-ຂ້ອຍຢາກເປັນຕົວຈິງ!
+ຂ້ອຍຢາກແມ່ນຄວາມຈິງແທ້ໆ!
 
 537
 00:38:52,800 --> 00:38:58,800
@@ -3479,7 +3479,7 @@ Can I ask you a question.
 00:39:33,700 --> 00:39:35,700
 [IRVING ROSENFELD]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 547
 00:39:36,200 --> 00:39:38,200
@@ -3491,7 +3491,7 @@ Sheik ແມ່ນສີດໍາບໍ?
 00:39:38,700 --> 00:39:40,700
 [IRVING ROSENFELD]
 He's an Arab.
-ລາວເປັນອາຣັບ.
+ລາວແມ່ນຊາວອາຣັບ.
 
 549
 00:39:41,200 --> 00:39:43,200
@@ -3554,7 +3554,7 @@ It's a microwave. It heats up everything. Pasta, lasagna, meatballs, whatever.
 00:40:15,850 --> 00:40:17,850
 [IRVING ROSENFELD]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 559
 00:40:18,350 --> 00:40:22,550
@@ -3717,7 +3717,7 @@ Alright, fine.
 00:41:59,300 --> 00:42:01,300
 [DANNY]
 Another fire!
-ໄຟອີກຄັ້ງ!
+ອີກໄຟໜຶ່ງ!
 
 585
 00:42:01,800 --> 00:42:06,700
@@ -3882,7 +3882,7 @@ Yeah.   Abdullah Ahmed. 77.
 00:43:50,250 --> 00:43:52,350
 [IRVING ROSENFELD]
 That's it? That's all you got?
-ນັ້ນແມ່ນມັນບໍ? ນັ້ນແມ່ນທັງຫມົດທີ່ທ່ານມີບໍ?
+ແມ່ນແລ້ວບໍ່? ນັ້ນແມ່ນທັງໝົດທີ່ເຈົ້າສາມາດເຮັດໄດ້ບໍ່?
 
 611
 00:43:52,850 --> 00:43:54,950
@@ -3933,7 +3933,7 @@ What's going on?
 00:44:25,050 --> 00:44:27,050
 [RICHIE DIMASO]
 Don't worry about it.
-ຢ່າກັງວົນກ່ຽວກັບມັນ.
+ບໍ່ຕ້ອງກັງວົນເລີຍ.
 
 619
 00:44:27,550 --> 00:44:33,550
@@ -4070,7 +4070,7 @@ International protocol? What the fuck are you talking about?
 00:45:47,450 --> 00:45:49,450
 [IRVING ROSENFELD]
 Do not answer that!
-ຢ່າຕອບເລື່ອງນັ້ນ!
+ຢ່າຕອບເດີ້!
 
 641
 00:45:49,950 --> 00:45:54,850
@@ -4162,7 +4162,7 @@ Look, don't call here again, alright? Don't call at home.
 00:46:34,650 --> 00:46:36,650
 [RICHIE DIMASO]
 Alright? 81.
-ດີບໍ? 81.
+ແມ່ນບໍ່? 81.
 
 656
 00:46:37,150 --> 00:46:39,150
@@ -4602,7 +4602,7 @@ I love her hair, so I know I'm gonna love how she'd do the room --
 00:51:08,300 --> 00:51:10,300
 [RICHIE DIMASO]
 How do you do?
-ເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີບໍ່?
 
 726
 00:51:10,800 --> 00:51:12,900
@@ -4995,7 +4995,7 @@ Why don't you get your fucking hands off me, you fucking whore!
 00:55:25,100 --> 00:55:27,100
 [PETE MUSANE]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 788
 00:55:27,600 --> 00:55:30,400
@@ -5007,7 +5007,7 @@ You're a whore.  This is my husband's whore!
 00:55:30,900 --> 00:55:32,900
 [EDITH GREENSLY]
 That's real nice.
-ນັ້ນແມ່ນດີແທ້ໆ.
+ສະບາຍດີແທ້ໆ.
 
 790
 00:55:33,400 --> 00:55:38,300
@@ -5584,7 +5584,7 @@ Not the way you're behaving.
 01:01:59,150 --> 01:02:02,650
 [RICHIE DIMASO]
 What's the matter with you? Where are you right now?
-ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ? ເຈົ້າຢູ່ໃສໃນເວລານີ້?
+ເຈົ້າເປັນຫຍັງ? ເຈົ້າຢູ່ໃສຕອນນີ້ບໍ່?
 
 880
 01:02:03,150 --> 01:02:05,250
@@ -5962,7 +5962,7 @@ We got the whole floor, yeah.
 01:06:09,750 --> 01:06:11,750
 [EDITH GREENSLY]
 That's good. 116.
-ນັ້ນດີ. 116.
+ແມ່ນແລ້ວ. 116.
 
 940
 01:06:12,250 --> 01:06:14,250
@@ -5987,7 +5987,7 @@ It's alright. I got hit a little bit. My eye. It's a little blurry but I got dro
 01:06:23,750 --> 01:06:25,750
 [RICHIE DIMASO]
 Hey, you OK?
-ເຮ້, ເຈົ້າດີບໍ?
+ສະບາຍດີ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 944
 01:06:26,250 --> 01:06:28,250
@@ -6005,7 +6005,7 @@ Listen, I'm sorry.
 01:06:31,250 --> 01:06:33,250
 [SYDNEY PROSSER]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 947
 01:06:33,750 --> 01:06:35,750
@@ -6238,7 +6238,7 @@ I'm placing g $60,000 into an this brief case for one Congressman Eric Keshoygan
 01:09:09,500 --> 01:09:13,000
 [ERIC KESHOYGAN]
 I'm going to do what I can to help Carmine.
-ຂ້ອຍຈະເຮັດທຸກຢ່າງທີ່ຂ້ອຍສາມາດເຮັດໄດ້ເພື່ອຊ່ວຍຄາເມນ.
+ຂ້ອຍຈະທໍາທຸກຢ່າງເພື່ອຊ່ວຍແຄມິນໄດ້
 
 983
 01:09:13,500 --> 01:09:19,100
@@ -6932,7 +6932,7 @@ He isn't.
 01:17:03,550 --> 01:17:05,550
 [RICHIE DIMASO]
 That's it.
-ນັ້ນແມ່ນມັນ.
+ແມ່ນແລ້ວ.
 
 1092
 01:17:06,050 --> 01:17:09,200
@@ -7089,7 +7089,7 @@ The funds have been transferred.
 01:18:41,600 --> 01:18:43,600
 [RICHIE DIMASO]
 The money's been wired.
-ເງິນໄດ້ຖືກສາຍໄຟ.
+ເງິນແມ່ນຖືກສົ່ງໄປແລ້ວ.
 
 1117
 01:18:44,100 --> 01:18:46,200
@@ -7269,7 +7269,7 @@ No, please, Dolly, just go upstairs. Take the kids and go upstairs!
 01:20:32,300 --> 01:20:34,300
 [DOLLY POLITO]
 Alright, alright.
-ດີແລ້ວ, ດີແລ້ວ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 1146
 01:20:34,800 --> 01:20:40,400
@@ -7656,7 +7656,7 @@ You know, Richard, I think we may call you as a witness, but otherwise you're do
 01:24:47,150 --> 01:24:49,150
 [RICHIE DIMASO]
 Stoddard --
-ສຕອດດາຣ໌...
+ສະຕອດດາ -
 
 1207
 01:24:49,650 --> 01:24:51,650

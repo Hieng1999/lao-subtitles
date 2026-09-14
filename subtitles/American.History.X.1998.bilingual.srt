@@ -26,7 +26,7 @@ How long has he been out there?
 00:00:21,950 --> 00:00:23,950
 [DANNY]
 Not long.
-ບໍ່ຍາວນານ.
+ບໍ່ດົນປານໃດ.
 
 6
 00:00:24,450 --> 00:00:26,450
@@ -38,7 +38,7 @@ Nobody. Relax.
 00:00:26,950 --> 00:00:28,950
 [STACEY]
 Who's out there, Derek?
-ໃຜຢູ່ພາຍນອກນັ້ນ, ເດຣັກ?
+ແມ່ນໃຜຢູ່ຂ້າງນອກເດຣັກ?
 
 8
 00:00:29,450 --> 00:00:31,550
@@ -321,7 +321,7 @@ I don't think Vinyard's gonna be the one to start anything. It's his following.
 00:03:35,550 --> 00:03:37,550
 [RASMUSSEN]
 Either way...let's keep it low.
-ຢ່າງໃດກໍຕາມ... ໃຫ້ມັນຕໍ່າລົງ.
+ບໍ່ວ່າຈະເປັນແນວໃດ... ໃຫ້ງຽບໆໆເດີ້.
 
 52
 00:03:38,050 --> 00:03:40,050
@@ -376,7 +376,7 @@ Next time, man.
 00:04:00,800 --> 00:04:02,800
 [OFFSCREEN VOICE]
 Vinyard!?
-ສວນເຫລົ້າ!?
+Vinyard ແມ່ນບໍ່?
 
 61
 00:04:03,300 --> 00:04:05,300
@@ -537,13 +537,13 @@ Okay.
 00:05:31,750 --> 00:05:33,750
 [SWEENEY]
 How's Derek?
-ເດຣັກເປັນແນວໃດ?
+ເດຣັກສະບາຍດີບໍ່?
 
 87
 00:05:34,250 --> 00:05:36,250
 [DANNY]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 88
 00:05:36,750 --> 00:05:38,750
@@ -1008,7 +1008,7 @@ Zionist-Occupational-Government.
 00:10:15,550 --> 00:10:17,550
 [DEREK]
 It's gonna be fine.
-ມັນຈະດີດີ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 162
 00:10:18,050 --> 00:10:21,550
@@ -1140,7 +1140,7 @@ All right. Thanks.  I'll take care of it. Yeah.
 00:11:19,000 --> 00:11:21,000
 [DEREK]
 What is it, Danny?
-ມັນເປັນຫຍັງ, ດານນີ?
+ແມ່ນຫຍັງເດັນນີ?
 
 184
 00:11:21,500 --> 00:11:23,500
@@ -1424,7 +1424,7 @@ Yeah, man. I believe in Adolf.
 00:13:55,550 --> 00:13:57,550
 [SETH]
 What do you hate, Danny?
-ເຈົ້າກຽດຊັງຫຍັງ, ດານນີ?
+ເຈົ້າບໍ່ມັກຫຍັງເດັນນີ?
 
 230
 00:13:58,050 --> 00:14:00,500
@@ -1822,13 +1822,13 @@ This sucks.
 00:17:41,050 --> 00:17:43,050
 [DANNY]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 295
 00:17:43,550 --> 00:17:45,550
 [DAVINA]
 Hey what?
-ເຮ້ຫຍັງ?
+ສະບາຍດີແມ່ນຫຍັງ?
 
 296
 00:17:46,050 --> 00:17:48,050
@@ -2301,7 +2301,7 @@ Yeah. So here comes this filthy piece of garbage in his Hyundai. He pulls over i
 00:22:52,400 --> 00:22:54,400
 [DAVINA]
 May I be excused please?
-ຂ້ອຍຂໍໂທດໄດ້ບໍ?
+ຂໍອະໄພແດ່ບໍ່?
 
 370
 00:22:54,900 --> 00:22:56,900
@@ -2770,7 +2770,7 @@ If you need me to proof anything for you I will.
 00:27:24,650 --> 00:27:26,650
 [DANNY]
 I'll be all right.
-ຂ້ອຍຈະດີດີ.
+ຂ້ອຍບໍ່ເປັນຫຍັງເລີຍ.
 
 446
 00:27:27,150 --> 00:27:29,600
@@ -3370,7 +3370,7 @@ I had to check it out, Der.  Come on.
 00:33:06,550 --> 00:33:08,550
 [CAMMERON]
 He'll be all right, Derek.
-ລາວຈະດີດີ, ເດຣັກ.
+ລາວບໍ່ເປັນຫຍັງເລີຍ ເດຣັກ.
 
 543
 00:33:09,050 --> 00:33:13,250
@@ -3693,7 +3693,7 @@ They're not friends, Dan!
 00:36:17,600 --> 00:36:19,700
 [DANNY]
 What the hell are they then?!
-ພວກເຂົາເປັນຫຍັງຫຼັງຈາກນັ້ນ?!
+ແມ່ນແລ້ວ ພວກເຂົາແມ່ນຫຍັງແທ້ໆ?!
 
 595
 00:36:20,200 --> 00:36:23,000
@@ -3787,7 +3787,7 @@ No. I don't.
 00:37:15,550 --> 00:37:17,550
 [DEREK]
 Who the fuck are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 610
 00:37:18,050 --> 00:37:24,050
@@ -3951,7 +3951,7 @@ Dr. Sweeney called me. He spoke with a guy on the parole board here.  He thinks 
 00:38:59,600 --> 00:39:01,600
 [DEREK]
 How are the others?
-ຄົນອື່ນເປັນແນວໃດ?
+ຄົນອື່ນສະບາຍດີບໍ່?
 
 636
 00:39:02,100 --> 00:39:08,100
@@ -4343,7 +4343,7 @@ Really? So you've had what? Thirty years to get your shit together?
 00:42:57,950 --> 00:43:00,400
 [HOMELESS MAN]
 All I want is something to eat.
-ຂ້ອຍຢາກກິນພຽງຢ່າງດຽວ.
+ຂ້ອຍພຽງແຕ່ຢາກກິນບາງສິ່ງບາງຢ່າງເທົ່ານັ້ນ.
 
 699
 00:43:00,900 --> 00:43:06,150
@@ -4405,7 +4405,7 @@ Where's Stacey?
 00:43:32,700 --> 00:43:34,700
 [CAMMERON]
 Who gives a fuck?
-ໃຜສົນໃຈ?
+ໃຜບໍ່ສົນໃຈແມ່ນບໍ່?
 
 709
 00:43:35,200 --> 00:43:37,200
@@ -4455,7 +4455,7 @@ Can we help you with something? Do you have any questions about the menu?
 00:44:04,050 --> 00:44:06,050
 [BLACK MAN]
 No questions.
-ບໍ່ມີຄໍາຖາມເລີຍ.
+ບໍ່ຕ້ອງຖາມຫຍັງເລີຍ.
 
 717
 00:44:06,550 --> 00:44:12,550
@@ -4506,7 +4506,7 @@ And I thank God Almighty every day for that, believe me.
 00:44:38,350 --> 00:44:40,350
 [SETH]
 Excuse me? Tyrone?
-ຂໍໂທດຂ້ອຍບໍ? ໄຕຣອນ?
+ຂໍໂທດເດີ? ໄຕຣອນແມ່ນບໍ່?
 
 725
 00:44:40,850 --> 00:44:42,850

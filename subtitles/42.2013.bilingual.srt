@@ -88,7 +88,7 @@ Where's your shortstop from?
 00:01:18,250 --> 00:01:20,250
 [JOHN SCOTT]
 California.
-ຄາລີຟໍເນຍ.
+ແຄລິຟໍເນຍ
 
 15
 00:01:20,750 --> 00:01:26,750
@@ -248,7 +248,7 @@ Yes, sir. The attendant starts unscrewing caps on two 50-GALLON TANKS.
 00:03:10,550 --> 00:03:12,550
 [ATTENDANT]
 Where you all headed?
-ພວກເຈົ້າໄປໃສ?
+ເຈົ້າທັງຫຼາຍກໍາລັງຈະໄປໃສ?
 
 40
 00:03:13,050 --> 00:03:19,050
@@ -337,7 +337,7 @@ A man needs a family relying on him. It insures he'll behave responsibly. Do you
 00:04:06,100 --> 00:04:08,100
 [JACK]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 54
 00:04:08,600 --> 00:04:13,150
@@ -1204,7 +1204,7 @@ C'mon, Dixie, get after it!
 00:14:20,150 --> 00:14:22,150
 [WALKER]
 I'm old!
-ຂ້ອຍເຖົ້າແລ້ວ!
+ຂ້ອຍອາຍຸແລ້ວ!
 
 188
 00:14:22,650 --> 00:14:27,550
@@ -1743,7 +1743,7 @@ I agree. And I'll state another obvious, Clay, I need the players to act like ge
 00:20:36,550 --> 00:20:38,550
 [HOPPER]
 Uh huh.
-ໂອ້ ຮາ.
+ແມ່ນແລ້ວ.
 
 272
 00:20:39,050 --> 00:20:41,500
@@ -1761,7 +1761,7 @@ To treat him as they would any other teammate.
 00:20:45,650 --> 00:20:47,650
 [HOPPER]
 Uh huh.
-ໂອ້ ຮາ.
+ແມ່ນແລ້ວ.
 
 275
 00:20:48,150 --> 00:20:54,150
@@ -1820,7 +1820,7 @@ You find good people every place you go. Even here in Florida...
 00:21:30,450 --> 00:21:32,450
 [LUTHER]
 Is he in there?
-ລາວຢູ່ບ່ອນນັ້ນບໍ?
+ລາວແມ່ນຢູ່ບໍ່?
 
 284
 00:21:32,950 --> 00:21:35,050
@@ -2001,7 +2001,7 @@ INVECTIVE ທີ່ມາຈາກພາກສີຂາວ.
 00:23:43,900 --> 00:23:46,700
 [RACHEL]
 Jack's got a thick skin. He'll be okay.
-ແຈກມີຜິວຫນັງຫນາແຫນ້ນ. ລາວຈະດີດີ.
+ແຈກມີຜິວໜັງໜາແໜ້ນ. ລາວບໍ່ເປັນຫຍັງເລີຍ.
 
 312
 00:23:47,200 --> 00:23:49,200
@@ -2085,7 +2085,7 @@ CHEER ທີ່ໃຫຍ່ແລະປະຕິກິລິຍາເກີນ�
 00:24:43,400 --> 00:24:45,400
 [SMITH]
 It's just a walk.
-ມັນເປັນພຽງແຕ່ການຍ່າງ.
+ແຄ່ແມ່ນການຍ່າງເດີ່ນໆເທົ່ານັ້ນ.
 
 325
 00:24:45,900 --> 00:24:47,900
@@ -2444,7 +2444,7 @@ Come on, Jackie, this fella can't pitch! Speaking of the pitch, here it comes. J
 00:28:56,300 --> 00:28:58,300
 [SMITH]
 You okay?
-ເຈົ້າດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 381
 00:28:58,800 --> 00:29:00,900
@@ -2716,7 +2716,7 @@ I don't know much about the Bible.
 00:32:11,200 --> 00:32:13,200
 [LORRAINE]
 Me neither...
-ຂ້ອຍກໍ່ບໍ່...
+ບໍ່ແມ່ນຂ້ອຍເລີຍ...
 
 423
 00:32:13,700 --> 00:32:19,700
@@ -2992,7 +2992,7 @@ Ain't asked him yet. What difference does it make?
 00:35:27,400 --> 00:35:29,400
 [STANKY]
 None, just wonderin'.
-ບໍ່ມີໃຜ, ພຽງແຕ່ສົງໄສ.
+ບໍ່ມີຫຍັງເລີຍ, ພຽງແຕ່ຢາກຮູ້ວ່າແມ່ນບໍ່.
 
 466
 00:35:29,900 --> 00:35:32,350
@@ -3338,7 +3338,7 @@ You know, Wendell, I never asked you where you were from?
 00:39:27,250 --> 00:39:29,250
 [SMITH]
 Why I'm from Detroit, Jack.
-ເປັນຫຍັງຂ້ອຍມາຈາກດິຕຣອຍ, ແຈກ.
+ນັ້ນແມ່ນເຫດຜົນທີ່ຂ້ອຍມາຈາກເມືອງ Detroit, ແຈກ.
 
 520
 00:39:29,750 --> 00:39:31,850
@@ -3678,7 +3678,7 @@ Opening day nerves. Doing my stomach something awful. Jack nods in commiseration
 00:43:41,450 --> 00:43:43,450
 [REESE]
 There goes another one.
-ອີກຄົນຫນຶ່ງໄປແລ້ວ.
+ແມ່ນແລ້ວອີກໜຶ່ງແລ້ວ.
 
 572
 00:43:43,950 --> 00:43:48,850
@@ -3722,7 +3722,7 @@ Of garbage trucks? Terrified.
 00:44:06,750 --> 00:44:08,750
 [HERMANSKI]
 I'm Hermanski. Welcome to Brooklyn.
-ຂ້ອຍແມ່ນເຮຣມານສກີ. ຍິນດີຕ້ອນຮັບໃນບຣູຄລິນ.
+ຂ້ອຍແມ່ນ ເຮີແມນສະກີ ສະບາຍດີທີ່ບຣູຄລິນ
 
 579
 00:44:09,250 --> 00:44:13,800
@@ -3968,7 +3968,7 @@ I'm perfectly happy.
 00:46:59,400 --> 00:47:01,400
 [RICKEY]
 Is that so?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 617
 00:47:01,900 --> 00:47:07,900
@@ -4433,7 +4433,7 @@ You don't matter right now, Jack. You're in this thing. You don't have the right
 00:52:55,100 --> 00:52:57,100
 [JACK]
 Is that so?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 688
 00:52:57,600 --> 00:53:03,600
@@ -4479,7 +4479,7 @@ Of course there is! You can stand up and hit! You can get on base and you can sc
 00:53:32,300 --> 00:53:34,300
 [JACK]
 They're taking the field.
-ພວກເຂົາ ກໍາ ລັງເອົາສະຫນາມ.
+ພວກເຂາແມ່ນກໍາລັງຈະໄປເດີນສະໜາມ.
 
 695
 00:53:34,800 --> 00:53:39,000
@@ -4524,7 +4524,7 @@ I'm sorry. I want you to know what goes on here, it don't go for me. Jack barely
 00:54:07,600 --> 00:54:09,600
 [BARBER'S VOICE]
 Hermanski steps up.
-ເຮຣມານສກີຂຶ້ນມາ.
+ແຮມແມນສະກີ (Hermanski) ກ້າວຂຶ້ນມາ.
 
 702
 00:54:10,100 --> 00:54:16,100
@@ -4577,7 +4577,7 @@ I'm going in that Phillie dugout tomorrow and wring Chapman's neck! Rickey consi
 00:54:50,200 --> 00:54:52,200
 [PARROTT]
 Did I say something funny?
-ຂ້ອຍເວົ້າບາງສິ່ງບາງຢ່າງທີ່ມ່ວນບໍ?
+ຂ້ອຍເວົ້າຫຍັງມ່ວນບໍ່?
 
 710
 00:54:52,700 --> 00:54:58,700
@@ -4860,7 +4860,7 @@ Pittsburgh! For cash and some I- talian outfielder named Gionfriddo!
 00:58:12,850 --> 00:58:14,850
 [JOCKSTRAP)]
 Pittsburgh...
-ປິຕສເບີກ...
+ປິດສ໌ເບີ...
 
 754
 00:58:15,350 --> 00:58:20,250
@@ -4958,7 +4958,7 @@ Get lost. Here comes STAN MUSIAL, a class act if there ever was one.
 00:59:24,900 --> 00:59:26,900
 [SMITH]
 Hey, Stan, what's the story?
-ເຮ້, ສຕານ, ເລື່ອງໃດ?
+ສະບາຍດີ ແສຕັນ, ເລື່ອງແມ່ນຫຍັງ?
 
 769
 00:59:27,400 --> 00:59:33,350
@@ -5256,7 +5256,7 @@ I used to think Jack was conceited.
 01:02:58,150 --> 01:03:00,150
 [RICKEY]
 Is that so?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 815
 01:03:00,650 --> 01:03:04,150
@@ -5870,7 +5870,7 @@ Nigger lover. Watch yourself. We will get you, carpetbagger.  Typical stuff. Ree
 01:10:16,700 --> 01:10:18,700
 [REESE]
 It's not typical to me.
-ມັນບໍ່ແມ່ນແບບປົກກະຕິ ສໍາ ລັບຂ້ອຍ.
+ບໍ່ເໝືອນກັບຂ້ອຍເລີຍ.
 
 910
 01:10:19,200 --> 01:10:22,700
@@ -6155,7 +6155,7 @@ Walker strokes a DOUBLE over Stanky's head as Stanky breaks off second for third
 01:13:49,350 --> 01:13:53,550
 [RED BARBER'S VOICE]
 ...And Dixie Walker did the same with a double in the eighth.
-ແລະ Dixie Walker ໄດ້ເຮັດຄືກັນກັບສອງເທົ່າໃນທີແປດ.
+... ແລະດິກຊີ ວໍເກີໄດ້ເຮັດຄືກັນດ້ວຍການຕີສອງຄັ້ງໃນຮອບທີແປດ.
 
 953
 01:13:54,050 --> 01:14:00,050
@@ -6275,7 +6275,7 @@ Slaughter said it was an accident.
 01:15:28,900 --> 01:15:31,350
 [JACK]
 What are you asking me for then?
-ເຈົ້າຖາມຂ້ອຍຫຍັງຫຼັງຈາກນັ້ນ?
+ເຈົ້າຂໍຫຍັງຈາກຂ້ອຍແມ່ນບໍ່?
 
 971
 01:15:31,850 --> 01:15:33,950
@@ -6347,7 +6347,7 @@ Do you know what I saw this morning? I was passing a sandlot and a little white 
 01:16:18,100 --> 01:16:20,100
 [JACK]
 Sitting on a fastball?
-ນັ່ງຢູ່ເທິງບານໄວບໍ?
+ນັ່ງໃສ່ບານໄວບໍ່?
 
 982
 01:16:20,600 --> 01:16:26,600
@@ -6720,13 +6720,13 @@ Kirby Higbe who watches Robinson round the bases in disgust.
 01:20:48,050 --> 01:20:50,050
 [HIGBE]
 Pittsburgh...
-ປິຕສເບີກ...
+ປິດສ໌ເບີ...
 
 1039
 01:20:50,550 --> 01:20:52,550
 [JACK]
 I'm home.
-ຂ້ອຍຢູ່ເຮືອນແລ້ວ.
+ຂ້ອຍກັບບ້ານແລ້ວ.
 
 1040
 01:20:53,050 --> 01:20:55,050
@@ -6745,5 +6745,5 @@ Stay just like that. She kisses him. And kisses him. And he kisses her back. As 
 01:21:02,050 --> 01:21:05,900
 [BLUE REV 4-07-12 120.]
 Branch Rickey was elected to the Hall of Fame in 1967.
-Branch Rickey ໄດ້ຖືກເລືອກເຂົ້າໄປໃນ Hall of Fame ໃນປີ 1967.
+ສາຂາ ຣິກເກີຖືກເລືອກເຂົ້າສູ່ສະໂມສອນຄວາມໂດດເດັ່ນໃນປີ 1967.
 

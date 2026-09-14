@@ -357,7 +357,7 @@ Here ya go.  Please pay at the register, if you wouldn't mind.
 00:04:13,350 --> 00:04:15,350
 [JOE]
 Sure thing.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 58
 00:04:15,850 --> 00:04:17,950
@@ -894,7 +894,7 @@ Oh this is bad, this is so bad.  Is it bad?
 00:10:04,900 --> 00:10:06,900
 [MR. WHITE]
 As opposed to good?
-ໃນທາງກົງກັນຂ້າມກັບດີບໍ?
+ທຽບກັບຄວາມດີບໍ່?
 
 143
 00:10:07,400 --> 00:10:10,900
@@ -926,8 +926,7 @@ I haven't had a chance to think. First I was just trying to get the fuck outta t
 00:10:27,350 --> 00:10:33,350
 [MR. PINK]
 Well, you better start thinking about it.  Cause I, sure as fuck, am thinking about it.  In fact, that's all I'm thinking about.  I came this close to just driving off.  Whoever set us up, knows about this place.  There could've been cops sitting here waiting for me.  For all we know, there's cops, driving fast, on their way here now.
-ດີກວ່າເຈົ້າຈະເລີ່ມຄິດກ່ຽວກັບມັນ. ເພາະວ່າຂ້ອຍ, ແນ່ນອນວ່າແຊກແຊງ, ກໍາ ລັງຄິດກ່ຽວກັບເລື່ອງນັ້ນ. ໃນຄວາມເປັນຈິງ, ນັ້ນແມ່ນສິ່ງດຽວທີ່ຂ້ອຍ ກໍາ ລັງ ຄິດກ່ຽວກັບ.
-ຂ້ອຍໃກ້ຊິດນີ້ທີ່ຈະພຽງແຕ່ຂັບລົດໄປ. ໃຜກໍ່ສ້າງພວກເຮົາ, ຮູ້ກ່ຽວກັບບ່ອນນີ້. ອາດມີຕໍາຫຼວດນັ່ງຢູ່ນີ້ລໍຖ້າຂ້ອຍ. ສໍາ ລັບທັງ ຫມົດ ທີ່ພວກເຮົາຮູ້, ມີຕໍາຫລວດ, ຂັບລົດໄວ, ທາງມາບ່ອນນີ້ດຽວນີ້.
+ແມ່ນແລ້ວ, ເຈົ້າຄວນເລີ່ມຄິດກ່ຽວກັບມັນ. ເພາະວ່າຂ້ອຍ, ແນ່ນອນວ່າ, ກໍາ ລັງຄິດກ່ຽວກັບເລື່ອງນີ້. ໃນຄວາມເປັນຈິງ, ນັ້ນແມ່ນທັງໝົດທີ່ຂ້ອຍຄິດກ່ຽວກັບ. ຂ້ອຍໃກ້ຈະພຽງແຕ່ຂັບລົດໄປ. ໃຜກໍ່ຕາມທີ່ວາງແຜນພວກເຮົາ, ຮູ້ກ່ຽວກັບບ່ອນນີ້. ອາດຈະມີຕໍາຫຼວດນັ່ງຢູ່ທີ່ນີ້ລໍຖ້າຂ້ອຍ. ສໍາລັບທັງໝົດທີ່ພວກເຮົາຮູ້, ມີຕໍາຫລວດ, ຂັບລົດໄວ, ທາງມາບ່ອນນີ້ໃນປັດຈຸບັນນີ້.
 
 148
 00:10:33,850 --> 00:10:35,950
@@ -1309,7 +1308,7 @@ Jesus Christ!
 00:14:47,150 --> 00:14:49,150
 [MR. PINK]
 Is he dead?
-ລາວຕາຍແລ້ວບໍ?
+ລາວຕາຍບໍ່?
 
 208
 00:14:49,650 --> 00:14:51,750
@@ -1494,7 +1493,7 @@ One question: Do they have a sheet on you, where you told him you're from?
 00:16:53,000 --> 00:16:55,000
 [MR. WHITE]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 237
 00:16:55,500 --> 00:17:01,500
@@ -1657,7 +1656,7 @@ What would ever make you think that?
 00:18:42,550 --> 00:18:44,650
 [MR. WHITE]
 Is that supposed to be funny?
-ມັນຄວນມ່ວນບໍ?
+ນັ້ນແມ່ນຈະຕ້ອງມ່ວນບໍ່?
 
 263
 00:18:45,150 --> 00:18:47,600
@@ -1953,7 +1952,7 @@ Ain't that a sad truth.  Remy Martin?
 00:21:51,200 --> 00:21:53,200
 [VIC]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 310
 00:21:53,700 --> 00:21:55,700
@@ -2320,8 +2319,7 @@ Hey Dov, we got a major situation here.  I know you know that.  I gotta talk wit
 00:26:12,650 --> 00:26:18,650
 [EDDIE]
 All I know is what Vic told me. He said the place turned into a fuckin bullet festival.  He took a cop as hostage, just to get the fuck out of there.
-ຂ້ອຍຮູ້ພຽງແຕ່ສິ່ງທີ່ວິກບອກຂ້ອຍ. ລາວເວົ້າວ່າບ່ອນນີ້ກາຍເປັນງານບຸນລູກປືນແຊກແຊງ
-. ລາວເອົາຕໍາຫຼວດເປັນຕົວປະກັນ, ພຽງແຕ່ເພື່ອອອກຈາກບ່ອນນັ້ນ.
+ຂ້ອຍພຽງແຕ່ຮູ້ແມ່ນສິ່ງທີ່ວິກໄດ້ບອກຂ້ອຍ. ລາວເວົ້າວ່າບ່ອນນີ້ໄດ້ກາຍເປັນງານບຸນລູກປືນທີ່ສໍ້ໂກງ. ລາວໄດ້ເອົາຕໍາຫຼວດເປັນຕົວປະກັນ, ພຽງແຕ່ເພື່ອອອກຈາກບ່ອນນັ້ນ.
 
 367
 00:26:19,150 --> 00:26:25,150
@@ -2389,7 +2387,7 @@ Hey, fuck you man, you weren't there, we were.  And I'm tellin ya, the cops had 
 00:26:58,600 --> 00:27:00,700
 [EDDIE]
 Okay, Mr. Detective, who did it?
-ດີແລ້ວ, ທ້າວນັກສືບ, ໃຜເຮັດມັນ?
+ແມ່ນແລ້ວ, ທ່ານນັກສືບ, ແມ່ນໃຜທີ່ເຮັດ?
 
 378
 00:27:01,200 --> 00:27:04,700
@@ -2913,7 +2911,7 @@ What about?
 00:32:36,100 --> 00:32:38,100
 [FREDDY]
 The Brewers.
-ພວກ Brewers.
+ຄອບຄົວບຣູເວີ.
 
 461
 00:32:38,600 --> 00:32:40,600
@@ -3876,7 +3874,7 @@ Mr. Orange?  You're Mr. Orange, aren't you?
 00:43:59,550 --> 00:44:01,550
 [MR. WHITE]
 Is he dead?
-ລາວຕາຍແລ້ວບໍ?
+ລາວຕາຍບໍ່?
 
 610
 00:44:02,050 --> 00:44:04,050
@@ -3888,7 +3886,7 @@ Did he did or not?
 00:44:04,550 --> 00:44:06,550
 [FREDDY]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 612
 00:44:07,050 --> 00:44:09,050
@@ -4229,7 +4227,7 @@ I said this lump of shit is workin with the LAPD.
 00:47:56,750 --> 00:47:58,750
 [JOE]
 Aren't you?
-ເຈົ້າບໍ່ແມ່ນບໍ?
+ແມ່ນບໍ່?
 
 665
 00:47:59,250 --> 00:48:03,100
@@ -4411,7 +4409,7 @@ I'm a cop.
 00:49:48,650 --> 00:49:50,650
 [MR. ORANGE]
 I'm sorry, I'm so sorry.
-ຂ້ອຍຂໍໂທດ, ຂ້ອຍຂໍទោសຫຼາຍ.
+ຂໍໂທດເດີ, ຂໍໂທດຫຼາຍໆເດີ.
 
 694
 00:49:51,150 --> 00:49:53,250

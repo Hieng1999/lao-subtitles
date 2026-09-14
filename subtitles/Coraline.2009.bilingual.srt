@@ -15,7 +15,7 @@ Dras, dva, tri, chetyri. Dras, dva, tri, chetyri. Dras, dva, tri ...
 00:00:17,200 --> 00:00:19,200
 [MR. BOBINSKY]
 Mer-sa-vich!
-ເມຣຊາວິກ!
+ສະບາຍດີ!
 
 4
 00:00:19,700 --> 00:00:21,800
@@ -265,7 +265,7 @@ Oh, I definitely heard someone, Why-were- you-born.
 00:02:42,950 --> 00:02:44,950
 [WYBIE'S GRANDMOTHER]
 Wyborne!
-ວີບອນ!
+ວີບໍເນ!
 
 44
 00:02:45,450 --> 00:02:47,450
@@ -313,7 +313,7 @@ I almost fell down a well yesterday, Mom.
 00:03:06,500 --> 00:03:08,500
 [MEL]
 Uh huh.
-ໂອ້ ຮາ.
+ແມ່ນແລ້ວ.
 
 52
 00:03:09,000 --> 00:03:11,000
@@ -468,13 +468,13 @@ Uhhh, you know, this house is a hundred and fifty years old.
 00:04:33,500 --> 00:04:35,500
 [CORALINE]
 So?
-ສະນັ້ນ?
+ແມ່ນແລ້ວບໍ່?
 
 77
 00:04:36,000 --> 00:04:38,000
 [CHARLIE]
 So explore it!
-ສະນັ້ນຄົ້ນຄວ້າມັນ!
+ສະຫຼຸບເບິ່ງເດີ້!
 
 78
 00:04:38,500 --> 00:04:44,450
@@ -607,7 +607,7 @@ Will you stop pestering me if I do this for you?
 00:05:57,800 --> 00:05:59,800
 [MEL]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 99
 00:06:00,300 --> 00:06:02,300
@@ -853,7 +853,7 @@ D'you have any gravy?
 00:08:17,350 --> 00:08:20,150
 [OTHER MOTHER]
 Well, here comes the gravy train! Choo- choo!
-ດີ, ລົດໄຟໂຊສ໌ມາແລ້ວ! Choo- choo!
+ແມ່ນແລ້ວ, ນີ້ແມ່ນລົດໄຟໂຊສມາແລ້ວ! ຊູ - ຊູ!
 
 139
 00:08:20,650 --> 00:08:23,450
@@ -919,7 +919,7 @@ Of course you do. Everyone does.
 00:08:48,250 --> 00:08:50,250
 [CORALINE]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 150
 00:08:50,750 --> 00:08:55,650
@@ -943,7 +943,7 @@ Perfect! Hide and seek in the rain.
 00:09:01,700 --> 00:09:03,700
 [CORALINE]
 What rain?
-ຝົນໃດ?
+ນໍ້າຝົນແມ່ນຫຍັງ?
 
 154
 00:09:04,200 --> 00:09:06,200
@@ -1268,7 +1268,7 @@ Here, have beet. Make you strong.  Daas vee DAAN ya, Caroline.
 00:12:09,950 --> 00:12:11,950
 [CORALINE]
 Cor-a-line.
-ຄໍ-ອາ-ລິນ.
+ຄໍອາແອນ.
 
 206
 00:12:12,450 --> 00:12:14,550
@@ -1367,7 +1367,7 @@ No, no, no, no. I'm sure she'd prefer Jasmine.
 00:13:09,000 --> 00:13:11,000
 [MISS SPINK]
 No, Oolong.
-ບໍ່, ອູລົງ.
+ບໍ່, ໂອໂລງ.
 
 222
 00:13:11,500 --> 00:13:13,500
@@ -1688,7 +1688,7 @@ You know, I've never been inside the Pink Palace.
 00:16:08,450 --> 00:16:10,450
 [CORALINE]
 You're kidding.
-ເຈົ້າໂຊກຮ້າຍ.
+ເຈົ້າແມ່ນບໍ່ຈິງແລ້ວ.
 
 274
 00:16:10,950 --> 00:16:14,100
@@ -1724,7 +1724,7 @@ When they were kids, Grandma's sister disappeared.
 00:16:25,150 --> 00:16:27,150
 [CORALINE]
 Stolen?
-ຖືກລັກເອົາບໍ?
+ຖືກລັກບໍ່?
 
 280
 00:16:27,650 --> 00:16:29,650
@@ -1840,7 +1840,7 @@ The hummingbirds circle around Coraline, light her DRAGONFLY BARRETTE, then cont
 00:17:21,000 --> 00:17:23,000
 [OTHER FATHER]
 Hey!!!
-ເຮ້!!!
+ສະບາຍດີ!!!
 
 299
 00:17:23,500 --> 00:17:25,500
@@ -2291,7 +2291,7 @@ That's what you always say.
 00:21:32,950 --> 00:21:34,950
 [MEL]
 Won't be long.
-ມັນຈະບໍ່ຍາວນານ.
+ບໍ່ຕ້ອງໃຊ້ເວລາຫຼາຍເລີຍ.
 
 371
 00:21:35,450 --> 00:21:37,450
@@ -2790,7 +2790,7 @@ Get a grip, soldier.
 00:26:17,450 --> 00:26:19,450
 [PHOTO FRIENDS]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 451
 00:26:19,950 --> 00:26:21,950
@@ -3127,7 +3127,7 @@ Who's there?
 00:29:35,100 --> 00:29:38,250
 [TALL GIRL GHOST]
 Hush! And shush! For the Beldam might be listening!
-ງຽບ! ແລະງຽບ! ເພາະວ່າເບລດາມອາດຈະຟັງ!
+ສະຫງົບ! ແລະສະຫງົບໆ! ເພາະວ່າ Beldam ອາດຈະໄດ້ຟັງ!
 
 506
 00:29:38,750 --> 00:29:41,550
@@ -3139,7 +3139,7 @@ You ... you mean the Other Mother? ...
 00:29:42,050 --> 00:29:44,050
 [CORALINE]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 508
 00:29:44,550 --> 00:29:48,050
@@ -3151,7 +3151,7 @@ Don't remember our names... But I `member my true mommy...
 00:29:48,550 --> 00:29:50,550
 [CORALINE]
 Why are you all here?
-ພວກເຈົ້າຢູ່ບ່ອນນີ້ເປັນຫຍັງ?
+ເຈົ້າທັງຫຼາຍແມ່ນຫຍັງມາທີ່ນີ້?
 
 510
 00:29:51,050 --> 00:29:53,050
@@ -3414,7 +3414,7 @@ Uh, listen, I-I-I'm really not supposed
 00:32:01,450 --> 00:32:03,450
 [CORALINE]
 She's in there.
-ນາງຢູ່ບ່ອນນັ້ນ.
+ແມ່ນແລ້ວ ນາງແມ່ນຢູ່ໃນນັ້ນ.
 
 553
 00:32:03,950 --> 00:32:06,400
@@ -3893,13 +3893,13 @@ Everybody likes games.
 00:36:22,200 --> 00:36:24,200
 [CORALINE]
 Uh huh.
-ໂອ້ ຮາ.
+ແມ່ນແລ້ວ.
 
 631
 00:36:24,700 --> 00:36:27,150
 [TALL OTHER MOTHER]
 What kind of game would it be?
-ມັນຈະເປັນເກມປະເພດໃດ?
+ມັນເປັນເກມແບບໃດເດີ້?
 
 632
 00:36:27,650 --> 00:36:30,450
@@ -4152,7 +4152,7 @@ Is dis vhat you're looking for?
 00:38:44,900 --> 00:38:46,900
 [CORALINE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 673
 00:38:47,400 --> 00:38:49,850
@@ -4170,7 +4170,7 @@ You'll just go home and be bored and neglected...
 00:38:54,000 --> 00:38:56,000
 [OTHER MR. BOBINSKY]
 ...same as alvays.
-... ເຊັ່ນດຽວກັນກັບສະເຫມີ.
+... ເໝືອນກັບສະເໝີ.
 
 676
 00:38:56,500 --> 00:39:01,050
@@ -4964,5 +4964,5 @@ Ooo, do you want to pop a little gin in it dear?
 00:46:28,550 --> 00:46:30,550
 [MISS FORCIBLE]
 Of course!
-ແນ່ນອນ!
+ແມ່ນແລ້ວ!
 

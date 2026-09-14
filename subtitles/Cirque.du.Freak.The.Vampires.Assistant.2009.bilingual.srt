@@ -335,7 +335,7 @@ Help yourself. She sets her PURSE down on the counter.
 00:04:15,800 --> 00:04:17,800
 [MOM]
 How's your mother?
-ແມ່ຂອງເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີແມ່ເຈົ້າບໍ່?
 
 53
 00:04:18,300 --> 00:04:24,300
@@ -1592,7 +1592,7 @@ Don't move. Annie freezes. Darren grabs a BASEBALL BAT which leans in the corner
 00:19:34,700 --> 00:19:37,150
 [DARREN]
 Steve... Annie reaches out, takes Steve's hand.
-ສຕິວ... ແອນນີຍ່າງໄປ, ຈັບມືສຕິວ.
+ສະຕິວ ແອນນີຍືດອອກມາ, ຈັບມືສະຕິວ.
 
 246
 00:19:37,650 --> 00:19:39,650
@@ -2276,7 +2276,7 @@ Annie SCREAMS as a GERMAN SHEPHERD charges, stops just short of them. GROWLING l
 00:27:47,950 --> 00:27:49,950
 [ANNIE]
 Hey. That's King.
-ເຮ້. ນັ້ນແມ່ນກະສັດ.
+ສະບາຍດີ ນັ້ນແມ່ນ ຄິງ
 
 351
 00:27:50,450 --> 00:27:52,550
@@ -2335,7 +2335,7 @@ It's okay, honey. I just need a band-aid. Darren looks at his mom's neck. His ey
 00:28:30,600 --> 00:28:32,600
 [DARREN]
 You're different...
-ເຈົ້າແຕກຕ່າງ...
+ເຈົ້າແມ່ນບໍ່ຄືກັນ...
 
 360
 00:28:33,100 --> 00:28:39,100
@@ -2576,7 +2576,7 @@ Darren! Oh my God! We're still on Darren's face, his eye open a slit.
 00:31:29,950 --> 00:31:31,950
 [NEIGHBOR]
 Is he dead?
-ລາວຕາຍແລ້ວບໍ?
+ລາວຕາຍບໍ່?
 
 397
 00:31:32,450 --> 00:31:37,000
@@ -2904,7 +2904,7 @@ I was born in 1774. I became -- Crepsley looks back to where Darren has stopped 
 00:35:34,950 --> 00:35:36,950
 [DARREN]
 1774?
-ປີ 1774?
+1774 ແມ່ນບໍ່?
 
 447
 00:35:37,450 --> 00:35:42,700
@@ -3103,7 +3103,7 @@ What others? But as blood oozes, he takes the woman's wrist td his mouth. Darren
 00:37:56,900 --> 00:37:58,900
 [CREPSLEY]
 Your turn.
-ຮອບຂອງເຈົ້າ.
+ແມ່ນແລ້ວແມ່ນເຈົ້າແລ້ວ.
 
 478
 00:37:59,400 --> 00:38:01,400
@@ -4382,7 +4382,7 @@ That part is definitely cool.
 00:52:46,100 --> 00:52:48,100
 [EVRA]
 What's up?
-ມີຫຍັງຂຶ້ນ?
+ສະບາຍດີບໍ່?
 
 678
 00:52:48,600 --> 00:52:50,600
@@ -4577,7 +4577,7 @@ I get scared easy. Darren looks up toward the rafters. From where she dropped.
 00:54:54,800 --> 00:54:56,900
 [DARREN]
 How'd you get up there anyhow?
-ເຈົ້າຂຶ້ນໄປບ່ອນນັ້ນແນວໃດ?
+ແມ່ນແລ້ວ ເຈົ້າໄດ້ຂຶ້ນມາໄດ້ແນວໃດ?
 
 709
 00:54:57,400 --> 00:55:00,550
@@ -4602,7 +4602,7 @@ Don't worry. She's like a gymnast. Debbie moves slowly at first, her arms stretc
 00:55:10,050 --> 00:55:12,050
 [DARREN]
 You're crazy!
-ເຈົ້າໂຊກຮ້າຍ!
+ເຈົ້າແມ່ນໂງ່ແລ້ວ!
 
 713
 00:55:12,550 --> 00:55:14,550
@@ -4678,7 +4678,7 @@ There definitely something different about you. I just can't figure it out.
 00:55:56,550 --> 00:55:58,550
 [DARREN]
 Is Sam your boyfriend?
-ແຊມເປັນແຟນຂອງທ່ານບໍ?
+ແຊມແມ່ນແຟນຂອງເຈົ້າບໍ່?
 
 725
 00:55:59,050 --> 00:56:01,050
@@ -5548,7 +5548,7 @@ It's okay. It's the wolfman. He's in his cage. They move forward again, the cage
 01:06:18,000 --> 01:06:20,000
 [EVRA]
 No don't!
-ບໍ່ ຢ່າເຮັດ!
+ບໍ່ ບໍ່!
 
 860
 01:06:20,500 --> 01:06:26,500

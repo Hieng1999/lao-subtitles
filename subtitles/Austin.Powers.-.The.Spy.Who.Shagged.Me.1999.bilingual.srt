@@ -77,7 +77,7 @@ This isn't over yet, Mr. Powers. I have one more trick up my sleeve, don't I Mr.
 00:00:53,400 --> 00:00:55,500
 [SFX: PLOOP!]
 Capsule begins fiery re-entry to Earth
-ຄັບຊູນເລີ່ມເຂົ້າສູ່ໂລກອີກຄັ້ງຢ່າງຮຸນແຮງ
+ແຄບຊັລເລີ້ມການເດີນທາງກັບຄືນສູ່ໂລກຢ່າງຮຸນແຮງ
 
 14
 00:00:56,000 --> 00:00:58,450
@@ -89,8 +89,7 @@ Oh well, I guess it was nothing.
 00:00:58,950 --> 00:01:02,450
 [AUSTIN]
 Care for some champagne?  Here's to monotony-- I mean, monogamy!
-ເຈົ້າຢາກຊໍາປານີບໍ? ນີ້ແມ່ນເພື່ອ
-monotony - ຂ້ອຍຫມາຍຄວາມວ່າ, monogamy!
+ເຈົ້າບໍ່ຢາກຊໍາປານີບໍ່? ສະບາຍດີຕໍ່ໂມໂນໂຕເນຍ - ຂ້ອຍໝາຍຄວາມວ່າ, ໂມໂນແກມີ!
 
 16
 00:01:02,950 --> 00:01:05,400
@@ -302,7 +301,7 @@ No one talks to my boy that way!
 00:03:06,450 --> 00:03:08,450
 [DR. EVIL]
 I'm OK, I'm OK.
-ຂ້ອຍດີ, ຂ້ອຍດີ.
+ບໍ່ເປັນຫຍັງ, ຂ້ອຍບໍ່ເປັນຫຍັງ.
 
 50
 00:03:08,950 --> 00:03:12,100
@@ -543,7 +542,7 @@ This is ri-goddamn-diculous. Oh well, how about a frickin' time machine? Does th
 00:05:37,650 --> 00:05:39,750
 [NUMBER TWO]
 No, not that I'm aware of.
-ບໍ່, ບໍ່ແມ່ນທີ່ຂ້ອຍຮູ້.
+ບໍ່, ບໍ່ວ່າຂ້ອຍຈະຮູ້ເລີຍ.
 
 88
 00:05:40,250 --> 00:05:46,250
@@ -568,7 +567,7 @@ No, because Austin Powers has "mojo".
 00:05:54,750 --> 00:05:56,750
 [NUMBER TWO]
 Mojo?
-ໂມໂຈໂກ້?
+ໂມໂຈ້ບໍ່?
 
 92
 00:05:57,250 --> 00:06:02,500
@@ -1040,7 +1039,7 @@ Let's stop playing games with each other... especially difficult ones. May I ask
 00:10:59,200 --> 00:11:01,200
 [IVANA]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 166
 00:11:01,700 --> 00:11:04,150
@@ -1206,7 +1205,7 @@ I'm afraid that's not possible, Austin. You see, Dr. Evil has returned.
 00:12:46,450 --> 00:12:48,450
 [AUSTIN]
 Again?
-ອີກເທື່ອຫນຶ່ງບໍ?
+ອີກບໍ່?
 
 192
 00:12:48,950 --> 00:12:50,950
@@ -2233,7 +2232,7 @@ This shag-in is gonna blow your mind, baby, yeah!
 00:23:12,600 --> 00:23:14,600
 [PREGNANT WOMAN]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 355
 00:23:15,100 --> 00:23:17,100
@@ -3041,7 +3040,7 @@ Will you have any whipped cream?
 00:31:20,750 --> 00:31:22,750
 [AUSTIN]
 I will, thank you.
-ຂ້ອຍຈະເຮັດ, ຂອບໃຈ.
+ແມ່ນແລ້ວ, ຂອບໃຈເດີ.
 
 484
 00:31:23,250 --> 00:31:25,250
@@ -3222,7 +3221,7 @@ Can I have a look?
 00:33:11,850 --> 00:33:13,850
 [AUSTIN]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 513
 00:33:14,350 --> 00:33:16,800
@@ -3332,7 +3331,7 @@ Don't worry, Dr. Evil, we can get to him by using the girl.
 00:34:16,350 --> 00:34:18,350
 [DR. EVIL]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 531
 00:34:18,850 --> 00:34:20,950
@@ -3584,7 +3583,7 @@ Five, four, three...
 00:36:48,750 --> 00:36:50,750
 [NUMBER TWO]
 Two, one, liftoff!
-ສອງ, ຫນຶ່ງ, ຍົກຂຶ້ນ!
+ສອງ, ໜຶ່ງ, ບິນຂຶ້ນ!
 
 571
 00:36:51,250 --> 00:36:54,400
@@ -3833,7 +3832,7 @@ If you want something done...
 00:39:16,100 --> 00:39:18,100
 [AUSTIN]
 Almost... got it!
-ເກືອບ... ໄດ້ແລ້ວ!
+ເກືອບແລ້ວ... ຂ້ອຍເຂົ້າໃຈແລ້ວ!
 
 611
 00:39:18,600 --> 00:39:20,600
@@ -4511,7 +4510,7 @@ Before you do that, know this: Austin, I am... your... father.
 00:46:20,500 --> 00:46:22,500
 [AUSTIN]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 719
 00:46:23,000 --> 00:46:29,000
@@ -4640,7 +4639,7 @@ He did it, he saved the world!  Of course, I thought he might.
 00:47:36,100 --> 00:47:38,100
 [FELICITY]
 Austin, you did it!
-ໂອສຕິນ, ເຈົ້າເຮັດໄດ້!
+ໂອສຕິນ ເຈົ້າໄດ້ແລ້ວ!
 
 740
 00:47:38,600 --> 00:47:42,100

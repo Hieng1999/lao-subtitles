@@ -255,7 +255,7 @@ Malee, out. Now.
 00:02:32,800 --> 00:02:34,800
 [MALEE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 43
 00:02:35,300 --> 00:02:37,300
@@ -273,7 +273,7 @@ I told you a 100 times to knock.
 00:02:41,100 --> 00:02:43,100
 [MALEE]
 I said, I was sorry.
-ຂ້ອຍເວົ້າວ່າ, ຂ້ອຍຂໍໂທດ.
+ຂ້ອຍບອກວ່າ ຂໍໂທດເດີ.
 
 46
 00:02:43,600 --> 00:02:45,700
@@ -1114,7 +1114,7 @@ This stuff feels like shit in my mouth.
 00:10:49,350 --> 00:10:51,350
 [NURSE]
 It's macaroni and cheese.
-ມັນເປັນມາຄາໂກນີ ແລະ ຈິດ.
+ແມ່ນແມກາໂກເນຍແລະຊີສ.
 
 181
 00:10:51,850 --> 00:10:55,350
@@ -1165,7 +1165,7 @@ It's gone!     It's all gone!
 00:11:20,500 --> 00:11:22,500
 [LEONARD]
 You holding up alright, Jacob?
-ເຈົ້າຢູ່ດີບໍ, ຈາໂກບ?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ່, ແຈກບ໌?
 
 189
 00:11:23,000 --> 00:11:29,000
@@ -1416,7 +1416,7 @@ Ten seconds. You need forty to pass.
 00:13:47,300 --> 00:13:49,300
 [LEONARD]
 Not bad.
-ບໍ່ຮ້າຍແຮງ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 229
 00:13:49,800 --> 00:13:51,800
@@ -1515,7 +1515,7 @@ This is all your fault.
 00:14:44,350 --> 00:14:46,350
 [JIM]
 Me?
-ຂ້ອຍບໍ?
+ຂ້ອຍແມ່ນບໍ່?
 
 245
 00:14:46,850 --> 00:14:51,750
@@ -1721,7 +1721,7 @@ Okay. Tuesday at 8:30 in the junior high school auditorium.
 00:16:52,050 --> 00:16:54,050
 [GUS]
 I'll be there.
-ຂ້ອຍຈະຢູ່ບ່ອນນັ້ນ.
+ຂ້ອຍຈະມາເດີ້.
 
 278
 00:16:54,550 --> 00:16:57,350
@@ -1892,7 +1892,7 @@ Rudy knew we were going to be there. He never should have come. You want the tru
 00:18:44,600 --> 00:18:46,600
 [JACOB]
 Me?
-ຂ້ອຍບໍ?
+ຂ້ອຍແມ່ນບໍ່?
 
 305
 00:18:47,100 --> 00:18:53,100
@@ -2083,7 +2083,7 @@ Dad?
 00:20:50,050 --> 00:20:52,050
 [JIM]
 Jacob.
-ຈາໂກບ
+ແຈກໂບ
 
 335
 00:20:52,550 --> 00:20:54,550
@@ -2101,7 +2101,7 @@ Fantastic.
 00:20:57,550 --> 00:20:59,550
 [JACOB]
 Me?
-ຂ້ອຍບໍ?
+ຂ້ອຍແມ່ນບໍ່?
 
 338
 00:21:00,050 --> 00:21:02,050
@@ -2358,7 +2358,7 @@ After we'd go trick or treating, we'd sit in our room and swap the candy we hate
 00:23:15,400 --> 00:23:17,400
 [KENNY]
 Almond Joy sucks.
-ແອລມອນດ໌ ໂຈຍສໍ້ໂກງ.
+ແອລແມນດ໌ ໂຈຍບໍ່ດີເລີຍ.
 
 380
 00:23:17,900 --> 00:23:23,900
@@ -2883,7 +2883,7 @@ I'm going for a bike ride.
 00:28:39,250 --> 00:28:41,350
 [YACCO]
 There's a foot of snow outside.
-ມີຫິມະຕາດນອກ.
+ຢູ່ພາຍນອກແມ່ນມີຫິມະໜຶ່ງຟຸດ.
 
 463
 00:28:41,850 --> 00:28:46,050
@@ -3329,7 +3329,7 @@ If you really want her to drop a few tons, put her in jail. Kenny's lost about 3
 00:33:22,950 --> 00:33:24,950
 [LEONARD]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 534
 00:33:25,450 --> 00:33:31,450
@@ -3431,7 +3431,7 @@ You don't want somebody that much older than you. An age difference can cause pr
 00:34:24,950 --> 00:34:26,950
 [MALEE]
 What kind of problems?
-ບັນຫາປະເພດໃດ?
+ຄວາມຫຍຸ້ງຍາກແມ່ນຫຍັງ?
 
 550
 00:34:27,450 --> 00:34:33,450
@@ -3529,7 +3529,7 @@ This is Keith Gardner. You're new brother. Keith our son, Jacob.
 00:35:18,350 --> 00:35:20,350
 [KEITH]
 It's nice to meet you.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກກັນ.
 
 566
 00:35:20,850 --> 00:35:22,850
@@ -3746,7 +3746,7 @@ Leonard?
 00:37:26,550 --> 00:37:28,550
 [GRACE]
 Leonard, what's wrong?
-ໂລນາດ, ມີຫຍັງເກີດຂຶ້ນ?
+ເລນອນດໍ, ມີຫຍັງບໍ່ດີ?
 
 601
 00:37:29,050 --> 00:37:33,950
@@ -3913,7 +3913,7 @@ Everything, and I mean, EVERYTHING in this room is mine. You are not allowed to 
 00:39:04,900 --> 00:39:06,900
 [KEITH]
 Okay, okay.
-ດີ, ດີ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 628
 00:39:07,400 --> 00:39:13,400
@@ -3926,7 +3926,7 @@ If you tell my parents what I said, I'll kill you. I'll shoot you in the fucking
 00:39:13,900 --> 00:39:15,900
 [JACOB]
 What's wrong now?
-ມີຫຍັງເກີດຂຶ້ນດຽວນີ້?
+ມີຫຍັງບໍ່ດີເດີ້?
 
 630
 00:39:16,400 --> 00:39:22,400
@@ -3969,8 +3969,7 @@ Didn't you?
 00:39:37,100 --> 00:39:40,950
 [ASHLEY]
 For your information, your father and I discussed adopting for years.
-ສໍາລັບຂໍ້ມູນຂອງທ່ານ,
-ພໍ່ຂອງທ່ານແລະຂ້ອຍໄດ້ປຶກສາຫາລືການຮັບຮອງເອົາເປັນເວລາຫຼາຍປີ.
+ເພື່ອຄວາມຮູ້ຂອງເຈົ້າເດີ້, ຂ້ອຍກັບພໍ່ເຈົ້າໄດ້ສົນທະນາກ່ຽວກັບການຮັບເອົາລູກເປັນເວລາຫຼາຍປີແລ້ວ.
 
 637
 00:39:41,450 --> 00:39:47,400
@@ -4277,7 +4276,7 @@ You better not. I already packed twice the amount of shit. I can't carry it all 
 00:43:03,700 --> 00:43:05,700
 [JACOB]
 I'll be there.
-ຂ້ອຍຈະຢູ່ບ່ອນນັ້ນ.
+ຂ້ອຍຈະມາເດີ້.
 
 685
 00:43:06,200 --> 00:43:09,350
@@ -4396,7 +4395,7 @@ You're late.
 00:44:14,150 --> 00:44:16,150
 [JACOB]
 I'm here.
-ຂ້ອຍຢູ່ບ່ອນນີ້.
+ຂ້ອຍແມ່ນແລ້ວ.
 
 704
 00:44:16,650 --> 00:44:18,650

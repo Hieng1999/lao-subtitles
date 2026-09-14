@@ -109,7 +109,7 @@ It's beautiful.
 00:01:17,750 --> 00:01:19,750
 [SOLOMON]
 At what price?
-ລາຄາໃດ?
+ລາຄາແມ່ນຫຍັງ?
 
 19
 00:01:20,250 --> 00:01:26,250
@@ -609,7 +609,7 @@ Entertaining at pubs and inns has it's place, but a man of your skills deserves 
 00:06:57,800 --> 00:06:59,800
 [BROWN]
 Hear, hear.
-ຟັງ, ຟັງ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 96
 00:07:00,300 --> 00:07:06,300
@@ -682,7 +682,7 @@ Forty-three dollars. All to you.
 00:07:51,850 --> 00:07:54,650
 [SOLOMON]
 That...it's far more than my wages amount to.
-ນັ້ນ... ມັນເປັນຫຼາຍກ່ວາເງິນເດືອນຂອງຂ້ອຍ.
+ນັ້ນແມ່ນ... ແມ່ນຫຼາຍກວ່າຄ່າແຮງງານຂອງຂ້ອຍ
 
 107
 00:07:55,150 --> 00:08:01,150
@@ -1361,7 +1361,7 @@ Burch. Freeman steps to Solomon. He gives him a looking over.
 00:16:24,400 --> 00:16:26,500
 [FREEMAN]
 Stand up. Solomon does as told.
-ຕື່ນຂຶ້ນ. ໂຊລໂມນເຮັດຕາມຄໍາສັ່ງ.
+ສະເດັດຂຶ້ນ. ສະໂລມອນເຮັດຕາມທີ່ບອກໄວ້.
 
 210
 00:16:27,000 --> 00:16:30,850
@@ -1425,8 +1425,7 @@ Keep on. Keep on. Solomon continues to play.
 00:17:07,950 --> 00:17:13,950
 [FREEMAN]
 A damn sight better than you, Cape. A damn sight better. Cape looks bitter as Solomon plays on.
-ການເບິ່ງທີ່ດີກວ່າເຈົ້າ, Cape. ການເບິ່ງດີກວ່າ
-. Cape ເບິ່ງແຊກແຊງໃນຂະນະທີ່ໂຊໂລມອນຫຼິ້ນຕໍ່ໄປ.
+ດີກວ່າເຈົ້າຫຼາຍ, Cape. ດີກວ່າຫຼາຍ. Cape ເບິ່ງຄືວ່າແຄບໃນຂະນະທີ່ໂຊໂລມອນຫຼິ້ນຕໍ່ໄປ.
 
 220
 00:17:14,450 --> 00:17:17,950
@@ -1949,7 +1948,7 @@ Master Ford is a decent man.
 00:23:36,150 --> 00:23:38,150
 [ELIZA]
 He is a slaver.
-ລາວເປັນຄົນຄ້າຂ້າ.
+ລາວແມ່ນຄນຄ້າໃຊ້
 
 300
 00:23:38,650 --> 00:23:40,650
@@ -2156,7 +2155,7 @@ Make them boards flush.
 00:25:58,850 --> 00:26:00,850
 [SOLOMON]
 They are, sir.
-ພວກເຂົາເປັນ, ທ້າວ.
+ແມ່ນແລ້ວເດີເດີ.
 
 332
 00:26:01,350 --> 00:26:05,550
@@ -2518,7 +2517,7 @@ One hundred eighty two pounds for Platt. Epps does not look happy. Treach says a
 00:30:40,550 --> 00:30:42,550
 [TREACH]
 One hundred eighty two.
-ຫນຶ່ງຮ້ອຍສິບສອງ.
+ສິບແປດສອງ.
 
 387
 00:30:43,050 --> 00:30:46,550
@@ -2783,7 +2782,7 @@ Was he a learned man?
 00:33:25,350 --> 00:33:27,350
 [SOLOMON]
 I suppose so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 429
 00:33:27,850 --> 00:33:29,850
@@ -2947,7 +2946,7 @@ What'n was Epps's concern?
 00:35:07,300 --> 00:35:09,300
 [SOLOMON]
 ...I'd rather not say...
-ຂ້ອຍມັກບໍ່ເວົ້າ...
+ຂ້ອຍບໍ່ຢາກເວົ້າວ່າ...
 
 455
 00:35:09,800 --> 00:35:15,800
@@ -3357,7 +3356,7 @@ No! I will do no such thing. The...the gory detail with which
 00:40:06,300 --> 00:40:08,750
 [PATSEY]
 I thought on it long and hard.
-ຂ້ອຍຄິດກ່ຽວກັບມັນດົນແລະ ຫນັກ.
+ຂ້ອຍໄດ້ຄິດຢ່າງຍາວນານແລະແຂງແຮງ.
 
 518
 00:40:09,250 --> 00:40:13,800
@@ -3416,7 +3415,7 @@ Hard times on the planation. Where previously the field in bloom was a carpet of
 00:40:46,350 --> 00:40:48,350
 [EPPS]
 It is a plague.
-ມັນເປັນພະຍາດລະບາດ.
+ແມ່ນໂລກລະບາດແທ້ໆ.
 
 527
 00:40:48,850 --> 00:40:50,850
@@ -3573,7 +3572,7 @@ You play the fiddle?
 00:42:41,550 --> 00:42:43,550
 [SOLOMON]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 551
 00:42:44,050 --> 00:42:50,050
@@ -3668,7 +3667,7 @@ I am hungry. Give me food.
 00:43:38,600 --> 00:43:40,600
 [SOLOMON]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 566
 00:43:41,100 --> 00:43:45,650
@@ -4057,7 +4056,7 @@ Two hundred sixty pounds.
 00:48:08,250 --> 00:48:10,250
 [EPPS]
 Bob?
-ໂບບ?
+ໂບບແມ່ນບໍ່?
 
 626
 00:48:10,750 --> 00:48:12,850
@@ -4294,7 +4293,7 @@ It is a simple enough request. I ask only that you deposit a letter in the Marks
 00:50:45,400 --> 00:50:47,400
 [ARMSBY]
 Where's the letter now?
-ຈົດຫມາຍຢູ່ໃສດຽວນີ້?
+ຈົດໝາຍແມ່ນຢູ່ໃສຕອນນີ້?
 
 663
 00:50:47,900 --> 00:50:53,900
@@ -4466,7 +4465,7 @@ You ask plainly, I will tell you plainly. What I find amusing: You worry about m
 00:52:58,600 --> 00:53:01,750
 [BASS]
 It is horrid. It's all wrong. All wrong, sir.
-ມັນຮ້າຍແຮງ. ມັນຜິດທັງ ຫມົດ. ທຸກຢ່າງຜິດເດີເດີ.
+ມັນໜ້າຢ້ານກົວ. ມັນບໍ່ຖືກຕ້ອງທັງໝົດ. ບໍ່ຖືກຕ້ອງທັງໝົດເດີເດີ.
 
 689
 00:53:02,250 --> 00:53:04,700
@@ -4656,7 +4655,7 @@ You miserable wench! Where you been?
 00:54:59,900 --> 00:55:01,900
 [PATSEY]
 I been nowhere.
-ຂ້ອຍບໍ່ໄດ້ໄປບ່ອນໃດເລີຍ.
+ຂ້ອຍບໍ່ເຄີຍໄປໃສເລີຍ.
 
 719
 00:55:02,400 --> 00:55:04,400
@@ -4958,7 +4957,7 @@ Do you believe, sir, in justice as you have said?
 00:58:42,200 --> 00:58:44,200
 [BASS]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 766
 00:58:44,700 --> 00:58:47,850
@@ -4970,7 +4969,7 @@ That slavery is an evil that should befall none?
 00:58:48,350 --> 00:58:50,350
 [BASS]
 I believe so.
-ຂ້ອຍເຊື່ອວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 768
 00:58:50,850 --> 00:58:56,850
@@ -5145,7 +5144,7 @@ Mr. Parker...?
 01:00:51,200 --> 01:00:53,200
 [SHERIFF]
 Say again?
-ເວົ້າອີກເທື່ອຫນຶ່ງບໍ?
+ເວົ້າອີກບໍ່?
 
 795
 01:00:53,700 --> 01:00:57,200

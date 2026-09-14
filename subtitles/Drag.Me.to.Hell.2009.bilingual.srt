@@ -112,7 +112,7 @@ It's an absolutely, positively, forget about the shoes already, "no way". They'r
 00:01:25,150 --> 00:01:27,150
 [ELLEN]
 What's Up?
-ມີຫຍັງຂຶ້ນ?
+ສະບາຍດີບໍ່?
 
 19
 00:01:27,650 --> 00:01:33,650
@@ -183,7 +183,7 @@ Hello there! Ellen reaches for the Kitty but Stephanie waves her off.
 00:02:18,850 --> 00:02:20,850
 [ELLEN]
 What about the shoes?
-ແລະເກີບແນວໃດ?
+ແລ້ວເກີບແມ່ນບໍ່?
 
 30
 00:02:21,350 --> 00:02:23,800
@@ -281,7 +281,7 @@ By the way, I put the paperwork for the Mcpherson loan on your desk.
 00:03:26,100 --> 00:03:28,100
 [MR. JACKS]
 Mcpherson?
-ແມັກຟີຊັນ?
+ແມັກເຟີສັນແມ່ນບໍ່?
 
 45
 00:03:28,600 --> 00:03:33,500
@@ -340,7 +340,7 @@ Mr. Jacks, I feel that I'm perfectly capable of--
 00:04:11,950 --> 00:04:13,950
 [STEPHANIE]
 Oh. okay.
-ໂອ້. ດີແລ້ວ.
+ໂອ້ ບໍ່ເປັນຫຍັງ.
 
 54
 00:04:14,450 --> 00:04:17,250
@@ -352,7 +352,7 @@ And would you mind taking your lunch now?
 00:04:17,750 --> 00:04:19,750
 [STEPHANIE]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 56
 00:04:20,250 --> 00:04:26,250
@@ -391,7 +391,7 @@ On toasted rye! And spicy mustard! Stephanie doesn't like fetching lunch for the
 00:04:45,650 --> 00:04:47,650
 [STEPHANIE]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 62
 00:04:48,150 --> 00:04:54,150
@@ -677,7 +677,7 @@ Okay. Wait here. Stephanie stands and moves off. The Old Woman picks through a b
 00:08:10,300 --> 00:08:12,300
 [MR. JACKS]
 What's up?
-ມີຫຍັງຂຶ້ນ?
+ສະບາຍດີບໍ່?
 
 106
 00:08:12,800 --> 00:08:18,800
@@ -734,7 +734,7 @@ What?
 00:08:54,700 --> 00:08:56,700
 [STEPHANIE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 115
 00:08:57,200 --> 00:09:00,000
@@ -1215,7 +1215,7 @@ No, I- Rham Jas grabs her arm and turns it, revealing the threads. that once hel
 00:14:49,450 --> 00:14:51,450
 [RHAM JAS]
 A button.
-ປຸ່ມຫນຶ່ງ.
+ແມ່ນປຸ່ມໜຶ່ງ.
 
 189
 00:14:51,950 --> 00:14:53,950
@@ -1364,7 +1364,7 @@ In the end, he took it, didn't he?
 00:16:16,350 --> 00:16:18,350
 [STEPHANIE]
 I guess so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 213
 00:16:18,850 --> 00:16:21,300
@@ -1590,7 +1590,7 @@ I was gonna surprise you, but what the hell. I've been planning a little trip fo
 00:18:55,800 --> 00:18:57,800
 [STEPHANIE]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 248
 00:18:58,300 --> 00:19:04,300
@@ -1667,7 +1667,7 @@ The Old Woman opens her maw, exposing sharp broken teeth. She lunges for Stephan
 00:19:52,100 --> 00:19:54,100
 [RAY]
 You, okay?
-ເຈົ້າ, ດີບໍ?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 260
 00:19:54,600 --> 00:19:58,450
@@ -1731,7 +1731,7 @@ What are you, the hall monitor?
 00:20:35,150 --> 00:20:37,150
 [STU RUBIN]
 Ha ha! You're funny, Steph.
-ຮາ ຮາ! ເຈົ້າມ່ວນຊື່ນ, ສເຕຟ.
+ແມ່ນແລ້ວ! ເຈົ້າແມ່ນມ່ວນແທ້ໆ, ສະເຕຟ.
 
 270
 00:20:37,650 --> 00:20:39,650
@@ -2193,7 +2193,7 @@ Oh my god, you are so engaged! Ellen's smile fades. She shakes her head desponde
 00:26:21,850 --> 00:26:23,850
 [STEPHANIE]
 What's wrong? I
-ມີຫຍັງເກີດຂຶ້ນ? ຂ້ອຍ
+ມີຫຍັງບໍ່ດີແມ່ນບໍ່? ຂ້ອຍ
 
 341
 00:26:24,350 --> 00:26:28,200
@@ -2249,7 +2249,7 @@ drive through the streets of Bel Air, Stephanie at the wheel. She tunes in a roc
 00:26:59,250 --> 00:27:01,250
 [RAY]
 Something wrong?
-ມີຫຍັງຜິດບໍ?
+ມີຫຍັງບໍ່ດີບໍ່?
 
 350
 00:27:01,750 --> 00:27:07,750
@@ -2288,7 +2288,7 @@ Stephanie, this is my mother, Trudy, and my Father, George. Trudy glances at Ste
 00:27:28,450 --> 00:27:30,450
 [TRUDY]
 How do you do?
-ເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີບໍ່?
 
 356
 00:27:30,950 --> 00:27:32,950
@@ -2465,7 +2465,7 @@ Yes, you're right. But I'm not a teller.
 00:29:25,250 --> 00:29:27,250
 [TRUDY]
 Oh?
-ໂອ້?
+ແມ່ນແລ້ວບໍ່?
 
 384
 00:29:27,750 --> 00:29:33,750
@@ -2657,7 +2657,7 @@ I'm so sorry, Stephanie. I don't know how that fly got. into your--
 00:31:30,300 --> 00:31:32,300
 [TRUDY]
 What sound-?
-ສຽງໃດ -?
+ສຽງຫຍັງ -?
 
 414
 00:31:32,800 --> 00:31:38,800
@@ -2852,7 +2852,7 @@ Okay! I did it. It was me who denied her the loan. I was trying, to get ahead at
 00:33:56,500 --> 00:33:58,500
 [ILENKA]
 Damn straight it was wrong.
-ມັນຜິດແທ້ໆ.
+ແມ່ນແລ້ວ ມັນເປັນຄວາມຜິດ.
 
 444
 00:33:59,000 --> 00:34:05,000
@@ -2897,7 +2897,7 @@ No, please-- I needed her to take this thing off me.
 00:34:29,000 --> 00:34:31,000
 [ILENKA]
 It will never come off.
-ມັນຈະບໍ່ອອກໄປເລີຍ.
+ມັນບໍ່ເຄີຍຈະອອກມາເລີຍ.
 
 451
 00:34:31,500 --> 00:34:35,350

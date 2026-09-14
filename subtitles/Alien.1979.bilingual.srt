@@ -113,7 +113,7 @@ I'm going to buy a cattle ranch.
 00:01:07,650 --> 00:01:09,650
 [ROBY]
 Cattle ranch!
-ຮ້ານລ້ຽງງົວ!
+ກະສິກໍາງົວ!
 
 20
 00:01:10,150 --> 00:01:16,150
@@ -268,7 +268,7 @@ Computer, this is Captain Standard. What conditions are you talking about?
 00:02:39,050 --> 00:02:41,850
 [COMPUTER]
 I have intercepted a transmission of unknown origin.
-ຂ້າພະເຈົ້າໄດ້ກີດຂວາງການສົ່ງສັນຍານ ທີ່ບໍ່ມີມູນເຊື້ອ.
+ຂ້ອຍໄດ້ຈັບການສົ່ງຂ່າວທີ່ບໍ່ຮູ້ຕົ້ນກໍາເນີດແລ້ວ.
 
 45
 00:02:42,350 --> 00:02:44,350
@@ -280,7 +280,7 @@ A transmission?
 00:02:44,850 --> 00:02:46,850
 [COMPUTER]
 A voice transmission.
-ການສົ່ງສຽງ.
+ການສື່ສານສຽງ.
 
 47
 00:02:47,350 --> 00:02:49,350
@@ -688,7 +688,7 @@ And we're... down.
 00:06:43,300 --> 00:06:45,300
 [BROUSSARD]
 Jesus Christ!
-ພະເຈົ້າເອີຍ!
+ພຣະເຢຊູຄຣິດ!
 
 113
 00:06:45,800 --> 00:06:47,800
@@ -737,7 +737,7 @@ Damn it!  How long to fix?
 00:07:09,350 --> 00:07:11,350
 [ROBY]
 How long to fix?
-ດົນປານໃດທີ່ຈະສ້ອມແປງ?
+ຈະຕ້ອງໃຊ້ເວລາຫຼາຍປານໃດເພື່ອແກ້ໄຂ?
 
 121
 00:07:11,850 --> 00:07:13,850
@@ -761,7 +761,7 @@ Right.  Talk to you.
 00:07:19,350 --> 00:07:22,850
 [STANDARD]
 Let's take a look outside.  Turn the screens back on.
-ໃຫ້ພວກເຮົາເບິ່ງຢູ່ນອກ. ເປີດຫນ້າຈໍຄືນ.
+ມາເບິ່ງພາຍນອກກັນເດີ້. ເປີດໜ້າຈໍຄືນອີກຄັ້ງ.
 
 125
 00:07:23,350 --> 00:07:25,350
@@ -807,1163 +807,1163 @@ Or something will be able to see us.
 ຫຼືບາງສິ່ງບາງຢ່າງຈະສາມາດເຫັນພວກເຮົາໄດ້.
 
 132
-00:07:48,950 --> 00:07:53,500
-[ROBY]
-There could be a whole city out there and we'd never see it.
+00:07:48,950 --> 00:07:50,950
+[ALIEN]
+RUN TITLES.
 ລາຍຊື່ການແຂ່ງຂັນ.
 
 133
-00:07:54,000 --> 00:07:57,500
-[BROUSSARD]
-Not sitting on our butts in here, that's for sure.
+00:07:51,450 --> 00:07:56,000
+[ROBY]
+There could be a whole city out there and we'd never see it.
 ມັນອາດຈະມີເມືອງທັງ ຫມົດ ຢູ່ນອກນັ້ນແລະພວກເຮົາຈະບໍ່ເຫັນມັນ.
 
 134
-00:07:58,000 --> 00:08:01,150
-[STANDARD]
-Just settle down.  Sandy, you get any response yet?
+00:07:56,500 --> 00:08:00,000
+[BROUSSARD]
+Not sitting on our butts in here, that's for sure.
 ບໍ່ແມ່ນການນັ່ງຢູ່ເທິງກະຕ່າຂອງພວກເຮົາຢູ່ນີ້, ນັ້ນແນ່ນອນ.
 
 135
-00:08:01,650 --> 00:08:07,600
-[MELKONIS]
-Sorry.  Nothing but that same damn transmission, every 32 seconds.  I've tried every frequency on the spectrum.
+00:08:00,500 --> 00:08:03,650
+[STANDARD]
+Just settle down.  Sandy, you get any response yet?
 ສະບາຍດີ ແຊນດີ, ເຈົ້າໄດ້ຮັບຄໍາຕອບແລ້ວບໍ?
 
 136
-00:08:08,100 --> 00:08:12,300
-[BROUSSARD]
-Are we just going to sit around and wait for an invitation?
+00:08:04,150 --> 00:08:10,100
+[MELKONIS]
+Sorry.  Nothing but that same damn transmission, every 32 seconds.  I've tried every frequency on the spectrum.
 ຂໍໂທດ, ບໍ່ມີຫຍັງ ນອກຈາກການສົ່ງສັນຍານອັນດຽວກັນ ແຕ່ລະ
 32 ວິນາທີ. ຂ້ອຍໄດ້ທົດລອງທຸກຄວາມຖີ່ໃນແຄມສັນຍານ.
 
 137
-00:08:12,800 --> 00:08:14,800
-[ROBY]
-Hello, Faust!
+00:08:10,600 --> 00:08:14,800
+[BROUSSARD]
+Are we just going to sit around and wait for an invitation?
 ພວກເຮົາຈະນັ່ງລໍຖ້າການເຊື້ອເຊີນບໍ?
 
 138
 00:08:15,300 --> 00:08:17,300
-[FAUST]
-Yeah!
+[ROBY]
+Hello, Faust!
 ສະບາຍດີ Faust!
 
 139
-00:08:17,800 --> 00:08:19,900
-[ROBY]
-How's it coming on the engines?
+00:08:17,800 --> 00:08:19,800
+[FAUST]
+Yeah!
 ແມ່ນແລ້ວ!
 
 140
-00:08:20,400 --> 00:08:26,400
-[FAUST]
-I never saw anything as fine as this dust... these cells are all pitted on a microscopic level.  I have to polish these things smooth again, so it's going to take a while.  Okay?
+00:08:20,300 --> 00:08:22,400
+[ROBY]
+How's it coming on the engines?
 ມັນເປັນແນວໃດກັບເຄື່ອງຈັກ?
 
 141
-00:08:26,900 --> 00:08:28,900
-[ROBY]
-Yeah, okay.
+00:08:22,900 --> 00:08:28,900
+[FAUST]
+I never saw anything as fine as this dust... these cells are all pitted on a microscopic level.  I have to polish these things smooth again, so it's going to take a while.  Okay?
 ຂ້ອຍບໍ່ເຄີຍເຫັນສິ່ງໃດທີ່ລະອຽດອ່ອນເທົ່າກັບຂີ້ຝຸ່ນນີ້... ບັນດາຈຸລັງທັງຫຼາຍນີ້ ແມ່ນມີຂຸມຢູ່ໃນລະດັບໄມໂຄຣສໂກປິກ
 . ຂ້ອຍຕ້ອງເຮັດໃຫ້ສິ່ງເຫລົ່ານີ້ລຽບງ່າຍອີກເທື່ອຫນຶ່ງ, ສະນັ້ນມັນຈະໃຊ້ເວລາດົນ. Okay?
 
 142
-00:08:29,400 --> 00:08:33,250
-[STANDARD]
-Sandy... how far are we from the source of the transmission?
+00:08:29,400 --> 00:08:31,400
+[ROBY]
+Yeah, okay.
 ແມ່ນແລ້ວ.
 
 143
-00:08:33,750 --> 00:08:37,250
-[MELKONIS]
-Source of transmission is to the northeast... about 300 meters.
+00:08:31,900 --> 00:08:35,750
+[STANDARD]
+Sandy... how far are we from the source of the transmission?
 ແຊນດີ... ພວກເຮົາຢູ່ໄກປານໃດກັບແຫຼ່ງຂອງການສົ່ງຂໍ້ມູນ?
 
 144
-00:08:37,750 --> 00:08:39,750
-[ROBY]
-Close...
+00:08:36,250 --> 00:08:39,750
+[MELKONIS]
+Source of transmission is to the northeast... about 300 meters.
 ແຫຼ່ງສາຍສົ່ງແມ່ນທາງທິດຕາເວັນອອກສຽງເຫນືອ... ປະມານ 300 ແມັດ.
 
 145
 00:08:40,250 --> 00:08:42,250
-[BROUSSARD]
-Close enough to walk to!
+[ROBY]
+Close...
 ໃກ້ຊິດ...
 
 146
-00:08:42,750 --> 00:08:45,200
-[STANDARD]
-Martin, would you run me an atmospheric?
+00:08:42,750 --> 00:08:44,750
+[BROUSSARD]
+Close enough to walk to!
 ໃກ້ພໍທີ່ຈະຍ່າງໄປ!
 
 147
-00:08:45,700 --> 00:08:49,200
-[ROBY]
-10% argon, 85% nitrogen, 5% neon... and some trace elements.
+00:08:45,250 --> 00:08:47,700
+[STANDARD]
+Martin, would you run me an atmospheric?
 ມາຕິນ, ເຈົ້າສາມາດກວດເບິ່ງອາກາດໃຫ້ຂ້ອຍໄດ້ບໍ່?
 
 148
-00:08:49,700 --> 00:08:51,700
-[STANDARD]
-Nontoxic... but unbreathable. Pressure?
+00:08:48,200 --> 00:08:51,700
+[ROBY]
+10% argon, 85% nitrogen, 5% neon... and some trace elements.
 ແອຣໂກນ 10%, ໄນໂຕຣເຈນ 85%, ນີໂອນ 5%... ແລະອົງປະກອບບາງຢ່າງ.
 
 149
-00:08:52,200 --> 00:08:55,000
-[ROBY]
-Ten to the fourth dynes per square centimeter.
+00:08:52,200 --> 00:08:54,200
+[STANDARD]
+Nontoxic... but unbreathable. Pressure?
 ບໍ່ເປັນພິດ... ແຕ່ບໍ່ຫາຍໃຈ. ຄວາມກົດດັນ?
 
 150
-00:08:55,500 --> 00:08:57,500
-[STANDARD]
-Good!  Moisture content?
+00:08:54,700 --> 00:08:57,500
+[ROBY]
+Ten to the fourth dynes per square centimeter.
 10^4 dynes ຕໍ່ຊັງຕີແມັດມົນທົນ.
 
 151
 00:08:58,000 --> 00:09:00,000
-[ROBY]
-Zero.  Dry as a bone.
+[STANDARD]
+Good!  Moisture content?
 ດີ! ຄວາມຊຸ່ມຊື່ນບໍ?
 
 152
 00:09:00,500 --> 00:09:02,500
-[STANDARD]
-Any microorganisms?
+[ROBY]
+Zero.  Dry as a bone.
 0 ແຫ້ງແຫ້ງເປັນກະດູກ
 
 153
 00:09:03,000 --> 00:09:05,000
-[ROBY]
-Not a one.  It's dead.
-ມີຈຸລະພາກໃດໆບໍ?
+[STANDARD]
+Any microorganisms?
+ມີແມງໄມໂຄຣອາຊີສໃດບໍ່?
 
 154
 00:09:05,500 --> 00:09:07,500
-[STANDARD]
-Anything else?
+[ROBY]
+Not a one.  It's dead.
 ບໍ່ເປັນຫຍັງ ມັນຕາຍແລ້ວ
 
 155
 00:09:08,000 --> 00:09:10,000
-[ROBY]
-Yeah, rock particles.  Dust.
+[STANDARD]
+Anything else?
 ມີຫຍັງອີກບໍ?
 
 156
-00:09:10,500 --> 00:09:16,500
-[STANDARD]
-Well, we won't need pressure suits, but breathing masks are called for. Sandy -- can you rig up some kind of portable unit that we can use to follow that transmission to its source?
+00:09:10,500 --> 00:09:12,500
+[ROBY]
+Yeah, rock particles.  Dust.
 ແມ່ນແລ້ວ, ກ້ອນຫີນ, ຝຸ່ນ.
 
 157
-00:09:17,000 --> 00:09:19,000
-[MELKONIS]
-No problem.
+00:09:13,000 --> 00:09:19,000
+[STANDARD]
+Well, we won't need pressure suits, but breathing masks are called for. Sandy -- can you rig up some kind of portable unit that we can use to follow that transmission to its source?
 ດີ, ພວກເຮົາຍັງບໍ່ຕ້ອງການຊຸດຄວາມກົດດັນ, ແຕ່ຫນ້າກາກຫາຍໃຈແມ່ນຖືກຮຽກຮ້ອງ. Sandy -- ທ່ານສາມາດ rig
 up ບາງປະເພດຂອງຫົວຫນ່ວຍ portable ທີ່ພວກເຮົາສາມາດນໍາໃຊ້ເພື່ອຕິດຕາມການສົ່ງອອກໄປຫາແຫຼ່ງຂອງມັນ?
 
 158
-00:09:19,500 --> 00:09:21,600
-[BROUSSARD]
-I volunteer for the exploration party.
-ບໍ່ມີບັນຫາ.
+00:09:19,500 --> 00:09:21,500
+[MELKONIS]
+No problem.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 159
-00:09:22,100 --> 00:09:25,950
-[STANDARD]
-I heard you.  You want to break out the side arms?
+00:09:22,000 --> 00:09:24,100
+[BROUSSARD]
+I volunteer for the exploration party.
 ຂ້ອຍເປັນອາສາສະຫມັກ ສໍາລັບຄະນະສໍາຫຼວດ.
 
 160
-00:09:26,450 --> 00:09:28,550
+00:09:24,600 --> 00:09:28,450
 [STANDARD]
-I'm sending.  Do you hear me?
+I heard you.  You want to break out the side arms?
 ຂ້ອຍໄດ້ຍິນເຈົ້າ ເຈົ້າຢາກເອົາແຂນຂ້າງອອກບໍ?
 
 161
-00:09:29,050 --> 00:09:31,050
-[BROUSSARD]
-Receiving.
+00:09:28,950 --> 00:09:31,050
+[STANDARD]
+I'm sending.  Do you hear me?
 ຂ້ອຍກໍາລັງສົ່ງ, ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ?
 
 162
 00:09:31,550 --> 00:09:33,550
-[MELKONIS]
+[BROUSSARD]
 Receiving.
 ຮັບ.
 
 163
-00:09:34,050 --> 00:09:40,050
-[STANDARD]
-All right.  Now just remember: keep away from those weapons unless I say otherwise.  Martin, do you read me?
+00:09:34,050 --> 00:09:36,050
+[MELKONIS]
+Receiving.
 ຮັບ.
 
 164
-00:09:40,550 --> 00:09:42,550
-[ROBY]
-Read you, Chaz.
+00:09:36,550 --> 00:09:42,550
+[STANDARD]
+All right.  Now just remember: keep away from those weapons unless I say otherwise.  Martin, do you read me?
 ດີ. ແຕ່ຈື່ໄວ້: ໃຫ້ຢູ່ຫ່າງຈາກອາວຸດເຫຼົ່ານັ້ນ
 ເວັ້ນເສຍແຕ່ວ່າຂ້ອຍບອກອີກຢ່າງ. Martin, ເຈົ້າຮັບຂ້ອຍບໍ?
 
 165
 00:09:43,050 --> 00:09:45,050
-[STANDARD]
-Open the outer door.
+[ROBY]
+Read you, Chaz.
 ຟັງທ່ານ, Chaz.
 
 166
 00:09:45,550 --> 00:09:47,550
 [STANDARD]
-Which way, Sandy?
+Open the outer door.
 ເປີດປະຕູທາງນອກ.
 
 167
 00:09:48,050 --> 00:09:50,050
-[MELKONIS]
-That way.
+[STANDARD]
+Which way, Sandy?
 ທາງໃດ, ແຊນດີ?
 
 168
 00:09:50,550 --> 00:09:52,550
-[STANDARD]
-You lead.
+[MELKONIS]
+That way.
 ທາງນັ້ນ.
 
 169
-00:09:53,050 --> 00:09:55,150
+00:09:53,050 --> 00:09:55,050
 [STANDARD]
-Okay, Martin.  We're on our way.
+You lead.
 ເຈົ້ານໍາຫນ້າ.
 
 170
-00:09:55,650 --> 00:09:59,500
-[ROBY]
-Okay, Chaz, I hear you.  I've got you on my board.
-ໂອເຄ ມາຣ໌ຕິນ ເຣາກໍາລັງເດິນທາງ
+00:09:55,550 --> 00:09:57,650
+[STANDARD]
+Okay, Martin.  We're on our way.
+ແມ່ນແລ້ວ ແມຕິນ ພວກເຮົາກໍາລັງເດີນທາງໄປແລ້ວ
 
 171
-00:10:00,000 --> 00:10:04,200
-[STANDARD]
-Good.  I'm getting you clear too. Let's just keep the line open.
+00:09:58,150 --> 00:10:02,000
+[ROBY]
+Okay, Chaz, I hear you.  I've got you on my board.
 ໂອເຄ, Chaz, ຂ້ອຍໄດ້ຍິນເຈົ້າ ຂ້ອຍມີເຈົ້າຢູ່ໃນກະດານຂອງຂ້ອຍ
 
 172
-00:10:04,700 --> 00:10:10,300
+00:10:02,500 --> 00:10:06,700
 [STANDARD]
-Can't see more than three meters in any direction out here.  We're walking blind, on instruments.
+Good.  I'm getting you clear too. Let's just keep the line open.
 ດີ, ຂ້ອຍຈະໃຫ້ເຈົ້າອອກໄປພ້ອມໆກັນ. ໃຫ້ພວກເຮົາເປີດສາຍຕໍ່ໄປ.
 
 173
-00:10:10,800 --> 00:10:12,800
+00:10:07,200 --> 00:10:12,800
 [STANDARD]
-What's wrong?
+Can't see more than three meters in any direction out here.  We're walking blind, on instruments.
 ບໍ່ສາມາດເຫັນໄດ້ຫຼາຍກວ່າ 3 ແມັດ ໃນທິດທາງໃດໆຢູ່ນີ້
 ພວກເຮົາກໍາລັງຍ່າງເປັນຕາບອດ, ດ້ວຍເຄື່ອງມື.
 
 174
 00:10:13,300 --> 00:10:15,300
-[MELKONIS]
-My signal's fading.
+[STANDARD]
+What's wrong?
 ມີຫຍັງບໍ່ດີ?
 
 175
 00:10:15,800 --> 00:10:17,800
 [MELKONIS]
-It's the dust, it's interfering...
+My signal's fading.
 ສັນຍານຂອງຂ້ອຍກໍາລັງເສື່ອມ.
 
 176
-00:10:18,300 --> 00:10:22,150
+00:10:18,300 --> 00:10:20,300
 [MELKONIS]
-... Hold it, I've got it again.  It's over that way.
+It's the dust, it's interfering...
 ມັນເປັນຂີ້ຝຸ່ນ, ມັນລົບກວນ...
 
 177
-00:10:22,650 --> 00:10:24,650
-[HUNTER]
-What's happening?
+00:10:20,800 --> 00:10:24,650
+[MELKONIS]
+... Hold it, I've got it again.  It's over that way.
 ລໍຖ້າ, ຂ້ອຍໄດ້ມັນອີກ. ມັນຢູ່ທາງນັ້ນ.
 
 178
 00:10:25,150 --> 00:10:27,150
-[ROBY]
-Hell!
+[HUNTER]
+What's happening?
 ມີຫຍັງເກີດຂຶ້ນ?
 
 179
 00:10:27,650 --> 00:10:29,650
-[MELKONIS]
-It's close, real close.
+[ROBY]
+Hell!
 ສະຫວັນນະເຂດ!
 
 180
 00:10:30,150 --> 00:10:32,150
-[STANDARD]
-How far?
+[MELKONIS]
+It's close, real close.
 ມັນໃກ້ຊິດ, ໃກ້ແທ້ໆ.
 
 181
-00:10:32,650 --> 00:10:36,850
-[MELKONIS]
-We should be almost on top of it.  I just can't quite...
+00:10:32,650 --> 00:10:34,650
+[STANDARD]
+How far?
 ຫ່າງໄກປານໃດ?
 
 182
-00:10:37,350 --> 00:10:39,350
-[STANDARD]
-Martin, uh, we've found it.
+00:10:35,150 --> 00:10:39,350
+[MELKONIS]
+We should be almost on top of it.  I just can't quite...
 ພວກເຮົາຍັງເກືອບຈະຢູ່ເທິງມັນ, ແຕ່ຂ້ອຍບໍ່ສາມາດ...
 
 183
 00:10:39,850 --> 00:10:41,850
-[ROBY]
-Found what?
+[STANDARD]
+Martin, uh, we've found it.
 ມາຕິນ, uh, ພວກເຮົາໄດ້ພົບເຫັນມັນ.
 
 184
-00:10:42,350 --> 00:10:46,900
-[STANDARD]
-It appears to be some sort of spacecraft.  We're going to approach it.
+00:10:42,350 --> 00:10:44,350
+[ROBY]
+Found what?
 ພົບຫຍັງ?
 
 185
-00:10:47,400 --> 00:10:50,900
+00:10:44,850 --> 00:10:49,400
 [STANDARD]
-There are no signs of life.  No lights... no movement...
+It appears to be some sort of spacecraft.  We're going to approach it.
 ມັນເບິ່ງຄືວ່າເປັນຍານອະວະກາດບາງຊະນິດ ພວກເຮົາຈະເຂົ້າໃກ້ມັນ
 
 186
-00:10:51,400 --> 00:10:53,400
+00:10:49,900 --> 00:10:53,400
 [STANDARD]
-We're, uh, approaching the base.
+There are no signs of life.  No lights... no movement...
 ບໍ່ມີສັນຍານຊີວິດ ບໍ່ມີແສງໄຟ ບໍ່ມີການເຄື່ອນໄຫວ
 
 187
-00:10:53,900 --> 00:10:58,450
+00:10:53,900 --> 00:10:55,900
 [STANDARD]
-Appears to be a door hanging open, the entrance is clogged with debris.
-ພວກເຮົາ, uh, ໃກ້ເຂົ້າສູ່ຖານ.
+We're, uh, approaching the base.
+ພວກເຮົາ ກໍາ ລັງໃກ້ກັບຖານທັບແລ້ວ.
 
 188
-00:10:58,950 --> 00:11:00,950
-[BROUSSARD]
-Looks like a derelict.
+00:10:56,400 --> 00:11:00,950
+[STANDARD]
+Appears to be a door hanging open, the entrance is clogged with debris.
 ເບິ່ງຄືວ່າເປັນປະຕູທີ່ເປີດຢູ່, ທາງເຂົ້າແມ່ນຖືກບິດດ້ວຍຂີ້ເຫຍື້ອ.
 
 189
-00:11:01,450 --> 00:11:07,050
-[STANDARD]
-Martin, we're going in.  I'm going to hold the conversation to a minimum from here on.
+00:11:01,450 --> 00:11:03,450
+[BROUSSARD]
+Looks like a derelict.
 ເບິ່ງຄືວ່າມັນຖືກປະຖິ້ມ.
 
 190
-00:11:07,550 --> 00:11:09,550
-[MELKONIS]
-Air lock?
+00:11:03,950 --> 00:11:09,550
+[STANDARD]
+Martin, we're going in.  I'm going to hold the conversation to a minimum from here on.
 ມາຕິນ, ພວກເຮົາຈະເຂົ້າໄປ.
 ຂ້ອຍຈະຮັກສາການສົນທະນາໃຫ້ຫນ້ອຍທີ່ສຸດນັບແຕ່ນີ້ໄປ.
 
 191
 00:11:10,050 --> 00:11:12,050
-[STANDARD]
-Who knows?
+[MELKONIS]
+Air lock?
 ລັອກອາກາດ?
 
 192
-00:11:12,550 --> 00:11:15,000
-[BROUSSARD]
-Let's try and find the control room.
+00:11:12,550 --> 00:11:14,550
+[STANDARD]
+Who knows?
 ໃຜຮູ້?
 
 193
-00:11:15,500 --> 00:11:19,000
-[MELKONIS]
-Look at these holes.  This place looks like Swiss cheese.
+00:11:15,050 --> 00:11:17,500
+[BROUSSARD]
+Let's try and find the control room.
 ໃຫ້ພະຍາຍາມຊອກຫາຫ້ອງຄວບຄຸມ.
 
 194
-00:11:19,500 --> 00:11:25,450
-[BROUSSARD]
-This hole goes up several decks -- looks like somebody was firing a military disintegrator in here.
+00:11:18,000 --> 00:11:21,500
+[MELKONIS]
+Look at these holes.  This place looks like Swiss cheese.
 ເບິ່ງຊ່ອງນີ້ ບ່ອນນີ້ເບິ່ງຄືວ່າ cheese Swiss.
 
 195
-00:11:25,950 --> 00:11:27,950
-[STANDARD]
-Climbing gear.
+00:11:22,000 --> 00:11:27,950
+[BROUSSARD]
+This hole goes up several decks -- looks like somebody was firing a military disintegrator in here.
 ຂຸມນີ້ຂຶ້ນໄປຫຼາຍຊັ້ນ ເບິ່ງຄືວ່າມີຄົນຍິງເຄື່ອງລະລາຍທະຫານຢູ່ບ່ອນນີ້
 
 196
 00:11:28,450 --> 00:11:30,450
-[BROUSSARD]
-I'll go first.
+[STANDARD]
+Climbing gear.
 ອຸປະກອນປີນພູ.
 
 197
 00:11:30,950 --> 00:11:32,950
-[STANDARD]
-No, you'll follow me.
+[BROUSSARD]
+I'll go first.
 ຂ້ອຍຈະໄປກ່ອນ.
 
 198
 00:11:33,450 --> 00:11:35,450
-[MELKONIS]
-Holy Christ...
+[STANDARD]
+No, you'll follow me.
 ບໍ່, ເຈົ້າຈະຕິດຕາມຂ້ອຍ.
 
 199
 00:11:35,950 --> 00:11:37,950
-[STANDARD]
-Look at this...
+[MELKONIS]
+Holy Christ...
 ພະເຈົ້າເອີຍ...
 
 200
-00:11:38,450 --> 00:11:41,600
+00:11:38,450 --> 00:11:40,450
 [STANDARD]
-Something has been scratched here... into the veneer.  See?
+Look at this...
 ເບິ່ງນີ້...
 
 201
-00:11:42,100 --> 00:11:44,100
-[LOOK OUT, IT MOVED!]
-Standard knocks his hand down.
+00:11:40,950 --> 00:11:44,100
+[STANDARD]
+Something has been scratched here... into the veneer.  See?
 ມີບາງສິ່ງບາງຢ່າງຖືກຂີດຂວາງຢູ່ບ່ອນນີ້
 ... ເຂົ້າໄປໃນແຜ່ນ. ເຈົ້າເຫັນບໍ່?
 
 202
 00:11:44,600 --> 00:11:46,600
-[STANDARD]
-Keep away from that gun!
+[LOOK OUT, IT MOVED!]
+Standard knocks his hand down.
 ສະແຕນເດີ (Standard) ເອົາມືລາວລົງ.
 
 203
 00:11:47,100 --> 00:11:49,100
 [STANDARD]
-Just machinery.
+Keep away from that gun!
 ຢູ່ຫ່າງຈາກປືນນັ້ນ!
 
 204
 00:11:49,600 --> 00:11:51,600
-[BROUSSARD]
-But functioning.
+[STANDARD]
+Just machinery.
 ພຽງແຕ່ເຄື່ອງຈັກ.
 
 205
-00:11:52,100 --> 00:11:54,550
-[MELKONIS]
-That's where the transmission is coming from.
+00:11:52,100 --> 00:11:54,100
+[BROUSSARD]
+But functioning.
 ແຕ່ເຮັດວຽກໄດ້.
 
 206
-00:11:55,050 --> 00:11:57,150
-[BROUSSARD]
-A recording.  A damned automatic recording.
+00:11:54,600 --> 00:11:57,050
+[MELKONIS]
+That's where the transmission is coming from.
 ນັ້ນແມ່ນບ່ອນທີ່ການສົ່ງສັນຍານ ກໍາ ລັງມາຈາກ.
 
 207
-00:11:57,650 --> 00:11:59,750
-[STANDARD]
-... This is the control room...
+00:11:57,550 --> 00:11:59,650
+[BROUSSARD]
+A recording.  A damned automatic recording.
 ການບັນທຶກ, ເປັນການບັນທືກອັດຕະໂນມັດ.
 
 208
-00:12:00,250 --> 00:12:02,700
+00:12:00,150 --> 00:12:02,250
 [STANDARD]
-... Some details of the control room...
+... This is the control room...
 ນີ້ແມ່ນຫ້ອງຄວບຄຸມ...
 
 209
-00:12:03,200 --> 00:12:07,750
+00:12:02,750 --> 00:12:05,200
 [STANDARD]
-... This is the skeleton... another view of the skeleton... the transmitting device...
+... Some details of the control room...
 ...ບາງລາຍລະອຽດຂອງຫ້ອງຄວບຄຸມ...
 
 210
-00:12:08,250 --> 00:12:14,250
+00:12:05,700 --> 00:12:10,250
 [STANDARD]
-... This is a closeup of the triangle we found scrawled on the console in front of the skeleton...
+... This is the skeleton... another view of the skeleton... the transmitting device...
 ...ນີ້ແມ່ນກະດູກສັນຖານ... ທັດສະນະອີກອັນນຶ່ງຂອງ
 ກະດູກ ສັນຖານ... ເຄື່ອງສົ່ງສັນຍານ...
 
 211
-00:12:14,750 --> 00:12:16,750
+00:12:10,750 --> 00:12:16,750
 [STANDARD]
-... And that's it.
+... This is a closeup of the triangle we found scrawled on the console in front of the skeleton...
 ນີ້ແມ່ນຮູບໃກ້ຊິດຂອງສາມຫຼ່ຽມທີ່ພວກເຮົາພົບເຫັນ
 ຂຽນໃສ່ຄອນໂຊລ ຢູ່ທາງຫນ້າຂອງກະດູກ...
 
 212
 00:12:17,250 --> 00:12:19,250
-[HUNTER]
-Phenomenal.  Staggering.
-... ແລະນັ້ນກໍເປັນທັງຫມົດ.
+[STANDARD]
+... And that's it.
+ນັ້ນແມ່ນແລ້ວ.
 
 213
-00:12:19,750 --> 00:12:24,300
-[BROUSSARD]
-We've got to go back and take a lot more pictures, holograph everything.
+00:12:19,750 --> 00:12:21,750
+[HUNTER]
+Phenomenal.  Staggering.
 ດີເລີດ, ຍາກຫຼາຍ.
 
 214
-00:12:24,800 --> 00:12:30,800
-[MELKONIS]
-And bring back as much physical evidence as possible, too.  The rest of the skeleton.  Some of the machinery.  Written records, if there are any.
+00:12:22,250 --> 00:12:26,800
+[BROUSSARD]
+We've got to go back and take a lot more pictures, holograph everything.
 ພວກເຮົາຕ້ອງກັບໄປຖ່າຍຮູບຫຼາຍຂຶ້ນ, ຖ່າຍຮູບ holograph ທຸກຢ່າງ.
 
 215
-00:12:31,300 --> 00:12:33,300
-[STANDARD]
-Martin?
+00:12:27,300 --> 00:12:33,300
+[MELKONIS]
+And bring back as much physical evidence as possible, too.  The rest of the skeleton.  Some of the machinery.  Written records, if there are any.
 ແລະນໍາເອົາຫຼັກຖານທາງດ້ານຮ່າງກາຍຫຼາຍເທົ່າທີ່ເປັນໄປໄດ້,
 ສ່ວນທີ່ເຫຼືອຂອງກະດູກ, ບາງສ່ວນຂອງເຄື່ອງຈັກ, ບັນທຶກທີ່ຂຽນໄວ້, ຖ້າມີ.
 
 216
-00:12:33,800 --> 00:12:37,650
-[ROBY]
-I agree.  This is the single most important discovery in history.
+00:12:33,800 --> 00:12:35,800
+[STANDARD]
+Martin?
 ມາຕິນ?
 
 217
-00:12:38,150 --> 00:12:40,150
-[STANDARD]
-But?
+00:12:36,300 --> 00:12:40,150
+[ROBY]
+I agree.  This is the single most important discovery in history.
 ຂ້ອຍເຫັນດີ. ນີ້ແມ່ນການຄົ້ນພົບທີ່ສໍາຄັນທີ່ສຸດໃນປະຫວັດສາດ.
 
 218
 00:12:40,650 --> 00:12:42,650
-[ROBY]
-What killed it?
+[STANDARD]
+But?
 ແຕ່ວ່າ?
 
 219
-00:12:43,150 --> 00:12:48,400
-[BROUSSARD]
-Hell, that thing's been dead for years.  Maybe hundreds of years.  The whole planet's dead.
-ມັນຖືກຂ້າຈາກຫຍັງ?
+00:12:43,150 --> 00:12:45,150
+[ROBY]
+What killed it?
+ແມ່ນຫຍັງທີ່ຂ້າມັນຕາຍ?
 
 220
-00:12:48,900 --> 00:12:54,900
-[FAUST]
-The way I figure it, they landed here for repairs or something, then they couldn't take off again.  Maybe the dust ruined their engines.  They set up an S.O.S. beacon, but nobody came.  So they died.
+00:12:45,650 --> 00:12:50,900
+[BROUSSARD]
+Hell, that thing's been dead for years.  Maybe hundreds of years.  The whole planet's dead.
 ເລີຍ, ສິ່ງນັ້ນຕາຍແລ້ວຫລາຍປີ
 ອາດເປັນຫຼາຍຮ້ອຍປີ ດາວເຄາະທັງຫມົດຕາຍແລ້ວ
 
 221
-00:12:55,400 --> 00:12:57,400
-[ROBY]
-He died.
+00:12:51,400 --> 00:12:57,400
+[FAUST]
+The way I figure it, they landed here for repairs or something, then they couldn't take off again.  Maybe the dust ruined their engines.  They set up an S.O.S. beacon, but nobody came.  So they died.
 ຕາມທີ່ຂ້ອຍຄິດ, ພວກເຂົາໄດ້ລົງຈອດຢູ່ທີ່ນີ້ເພື່ອສ້ອມແປງ ຫຼືບາງສິ່ງບາງຢ່າງ, ຫຼັງຈາກນັ້ນພວກເຂົາບໍ່ສາມາດບິນຂຶ້ນອີກ
 . ບາງທີຝຸ່ນໄດ້ທໍາລາຍເຄື່ອງຈັກຂອງພວກເຂົາ. ພວກເຂົາຕັ້ງໄຟ SOS, ແຕ່ບໍ່ມີໃຜມາ. ດັ່ງນັ້ນພວກເຂົາຕາຍ.
 
 222
 00:12:57,900 --> 00:12:59,900
-[FAUST]
-What?
+[ROBY]
+He died.
 ລາວຕາຍແລ້ວ.
 
 223
 00:13:00,400 --> 00:13:02,400
-[ROBY]
-Not they... he...
+[FAUST]
+What?
 ແມ່ນຫຍັງ?
 
 224
-00:13:02,900 --> 00:13:05,000
+00:13:02,900 --> 00:13:04,900
 [ROBY]
-... There was only one skeleton.
+Not they... he...
 ບໍ່ແມ່ນພວກເຂົາ... ລາວ...
 
 225
-00:13:05,500 --> 00:13:07,950
-[STANDARD]
-Jay... how's it coming on the repairs?
+00:13:05,400 --> 00:13:07,500
+[ROBY]
+... There was only one skeleton.
 ...ມີພຽງກະດູກດຽວເທົ່ານັ້ນ.
 
 226
-00:13:08,450 --> 00:13:11,950
-[FAUST]
-Well... I'm going to have to blow the engines out...
+00:13:08,000 --> 00:13:10,450
+[STANDARD]
+Jay... how's it coming on the repairs?
 ແຈ... ການສ້ອມແປງໄປແນວໃດ?
 
 227
-00:13:12,450 --> 00:13:15,600
-[STANDARD]
-And when will you be ready to do that?
+00:13:10,950 --> 00:13:14,450
+[FAUST]
+Well... I'm going to have to blow the engines out...
 ດີ... ຂ້ອຍຈະຕ້ອງປັ່ນເຄື່ອງຈັກອອກ...
 
 228
-00:13:16,100 --> 00:13:18,550
-[FAUST]
-Oh -- I'm not near ready yet.
+00:13:14,950 --> 00:13:18,100
+[STANDARD]
+And when will you be ready to do that?
 ແລະເມື່ອໃດທ່ານຈະພ້ອມທີ່ຈະເຮັດສິ່ງນັ້ນ?
 
 229
-00:13:19,050 --> 00:13:22,200
-[STANDARD]
-Then why the hell are you sitting around here?
+00:13:18,600 --> 00:13:21,050
+[FAUST]
+Oh -- I'm not near ready yet.
 ໂອ້... ຂ້ອຍຍັງບໍ່ທັນພ້ອມເທື່ອ.
 
 230
-00:13:22,700 --> 00:13:24,700
-[FAUST]
-Right.
+00:13:21,550 --> 00:13:24,700
+[STANDARD]
+Then why the hell are you sitting around here?
 ຫຼັງຈາກນັ້ນ ເປັນຫຍັງເຈົ້າຈຶ່ງນັ່ງຢູ່ນີ້?
 
 231
-00:13:25,200 --> 00:13:29,400
-[MELKONIS]
-And there sits man's first contact with intelligent life in the universe.
+00:13:25,200 --> 00:13:27,200
+[FAUST]
+Right.
 ແມ່ນແລ້ວ.
 
 232
-00:13:29,900 --> 00:13:31,900
-[FAUST]
-You ready up there?
+00:13:27,700 --> 00:13:31,900
+[MELKONIS]
+And there sits man's first contact with intelligent life in the universe.
 ແລະນັ້ນແມ່ນການສໍາຜັດຄັ້ງທໍາອິດຂອງມະນຸດ
 ກັບຊີວິດທີ່ສະຫຼາດໃນຈັກກະວານ.
 
 233
 00:13:32,400 --> 00:13:34,400
-[BROUSSARD]
-Sure, we're ready.
+[FAUST]
+You ready up there?
 ເຈົ້າພ້ອມແລ້ວບໍ?
 
 234
-00:13:34,900 --> 00:13:38,050
-[FAUST]
-Okay.  I'm going to start the extraction procedure now.
+00:13:34,900 --> 00:13:36,900
+[BROUSSARD]
+Sure, we're ready.
 ແນ່ນອນ, ພວກເຮົາພ້ອມແລ້ວ.
 
 235
-00:13:38,550 --> 00:13:40,550
-[STANDARD]
-Alas, poor Yorick.
+00:13:37,400 --> 00:13:40,550
+[FAUST]
+Okay.  I'm going to start the extraction procedure now.
 ດີ. ຂ້ອຍຈະເລີ່ມຂັ້ນຕອນການຖອດອອກດຽວນີ້.
 
 236
 00:13:41,050 --> 00:13:43,050
 [STANDARD]
-Find anything we missed?
+Alas, poor Yorick.
 ໂຊກບໍ່ດີ, Yorick ຄົນທຸກຍາກ.
 
 237
-00:13:43,550 --> 00:13:46,350
-[ROBY]
-I don't even know what I'm looking for.
-ພົບເຫັນສິ່ງໃດທີ່ພວກເຮົາພາດບໍ?
+00:13:43,550 --> 00:13:45,550
+[STANDARD]
+Find anything we missed?
+ມີຫຍັງທີ່ພວກເຮົາບໍ່ເຫັນບໍ່?
 
 238
-00:13:46,850 --> 00:13:48,850
-[STANDARD]
-Still worried?
+00:13:46,050 --> 00:13:48,850
+[ROBY]
+I don't even know what I'm looking for.
 ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍຊອກຫາຫຍັງ.
 
 239
 00:13:49,350 --> 00:13:51,350
-[ROBY]
-Oh well... you know me.
+[STANDARD]
+Still worried?
 ຍັງກັງວົນຢູ່ບໍ?
 
 240
-00:13:51,850 --> 00:13:56,400
-[STANDARD]
-I've always respected your opinion, Martin.  If something worries you, it worries me.
+00:13:51,850 --> 00:13:53,850
+[ROBY]
+Oh well... you know me.
 ໂອ້ ດີ... ເຈົ້າຮູ້ຈັກຂ້ອຍ.
 
 241
-00:13:56,900 --> 00:14:00,050
-[ROBY]
-What would you say that was supposed to mean?
+00:13:54,350 --> 00:13:58,900
+[STANDARD]
+I've always respected your opinion, Martin.  If something worries you, it worries me.
 ຂ້ອຍສະເຫມີນັບຖືຄວາມຄິດເຫັນຂອງເຈົ້າ ມາຕິນ
 ຖ້າມີບາງສິ່ງບາງຢ່າງທີ່ເຮັດໃຫ້ເຈົ້າກັງວົນ, ມັນກໍ່ເຮັດໃຫ້ຂ້ອຍກັງ ວົນ.
 
 242
-00:14:00,550 --> 00:14:06,550
-[STANDARD]
-Well... it's obviously intentional... some kind of attempt at communication... maybe it's a symbol that means something to them...
+00:13:59,400 --> 00:14:02,550
+[ROBY]
+What would you say that was supposed to mean?
 ເຈົ້າຄິດວ່າ ມັນຫມາຍຄວາມວ່າແນວໃດ?
 
 243
-00:14:07,050 --> 00:14:09,500
-[ROBY]
-But why draw it on the wall?
+00:14:03,050 --> 00:14:09,050
+[STANDARD]
+Well... it's obviously intentional... some kind of attempt at communication... maybe it's a symbol that means something to them...
 ດີ... ມັນແນ່ນອນວ່າເປັນເຈດຕະນາ... ບາງຊະນິດຂອງຄວາມພະຍາຍາມໃນການສື່ສານ
 ... ບາງທີມັນອາດຈະເປັນສັນຍາລັກທີ່ມີຄວາມຫມາຍບາງຢ່າງສໍາລັບເຂົາເຈົ້າ...
 
 244
-00:14:10,000 --> 00:14:12,450
+00:14:09,550 --> 00:14:12,000
 [ROBY]
-This ship is full of cat hair.
+But why draw it on the wall?
 ແຕ່ເປັນຫຍັງຈຶ່ງແຕ້ມມັນໃສ່ຝາ?
 
 245
-00:14:12,950 --> 00:14:16,800
-[STANDARD]
-Tell you what, Martin.  As soon as the engine's fixed --
+00:14:12,500 --> 00:14:14,950
+[ROBY]
+This ship is full of cat hair.
 ເຮືອນີ້ເຕັມໄປດ້ວຍຜົມແມວ.
 
 246
-00:14:17,300 --> 00:14:19,300
+00:14:15,450 --> 00:14:19,300
 [STANDARD]
-This is Chaz.
+Tell you what, Martin.  As soon as the engine's fixed --
 ຂ້ອຍບອກເຈົ້າວ່າແນວໃດ, Martin ເມື່ອເຄື່ອງຈັກຖືກສ້ອມແປງ
 
 247
-00:14:19,800 --> 00:14:23,650
-[BROUSSARD]
-Chaz, this is Dell.  Can you come topside for a minute?
+00:14:19,800 --> 00:14:21,800
+[STANDARD]
+This is Chaz.
 ນີ້ແມ່ນ Chaz.
 
 248
-00:14:24,150 --> 00:14:26,150
-[STANDARD]
-What's up?
+00:14:22,300 --> 00:14:26,150
+[BROUSSARD]
+Chaz, this is Dell.  Can you come topside for a minute?
 Chaz, ນີ້ແມ່ນ Dell ເຈົ້າມາຂ້າງເທິງໄດ້ບໍ່?
 
 249
-00:14:26,650 --> 00:14:32,650
-[BROUSSARD]
-Well, the sun just came up again, and it seems the wind's died down. It's as clear as a bell outside. There's something I think you ought to see.
+00:14:26,650 --> 00:14:28,650
+[STANDARD]
+What's up?
 ມີຫຍັງຂຶ້ນ?
 
 250
-00:14:33,150 --> 00:14:35,150
-[STANDARD]
-I'm on my way.
+00:14:29,150 --> 00:14:35,150
+[BROUSSARD]
+Well, the sun just came up again, and it seems the wind's died down. It's as clear as a bell outside. There's something I think you ought to see.
 ດີ, ດວງແດດຫາກໍ່ຂຶ້ນອີກແລ້ວ, ແລະເບິ່ງຄືວ່າລົມໄດ້ຫຼຸດລົງ.
 ມັນຈະແຈ້ງຄືກັບກ້ອງດັງຢູ່ນອກ. ມີບາງສິ່ງບາງຢ່າງທີ່ຂ້າພະເຈົ້າຄິດວ່າທ່ານຄວນເບິ່ງ.
 
 251
 00:14:35,650 --> 00:14:37,650
 [STANDARD]
-What is it?
+I'm on my way.
 ຂ້ອຍກໍາລັງເດີນທາງໄປ.
 
 252
 00:14:38,150 --> 00:14:40,150
-[BROUSSARD]
-Take a look.
+[STANDARD]
+What is it?
 ມັນເປັນຫຍັງ?
 
 253
-00:14:40,650 --> 00:14:46,600
+00:14:40,650 --> 00:14:42,650
 [BROUSSARD]
-I was scanning the horizon to see what I could pick up.  Look there, on that screen.
+Take a look.
 ເບິ່ງເບິ່ງ.
 
 254
-00:14:47,100 --> 00:14:49,200
-[STANDARD]
-What is it, I can't --
+00:14:43,150 --> 00:14:49,100
+[BROUSSARD]
+I was scanning the horizon to see what I could pick up.  Look there, on that screen.
 ຂ້ອຍກໍາລັງສະແກນມຸມມອງເພື່ອເບິ່ງວ່າຂ້ອຍສາມາດຈັບໄດ້ຫຍັງ
 ເບິ່ງທີ່ນັ້ນ, ໃນຈໍນັ້ນ.
 
 255
-00:14:49,700 --> 00:14:52,150
+00:14:49,600 --> 00:14:51,700
 [STANDARD]
-This is Chaz.  All hands topside. Now.
+What is it, I can't --
 ມັນເປັນຫຍັງ, ຂ້ອຍບໍ່ສາມາດ...
 
 256
-00:14:52,650 --> 00:14:55,450
+00:14:52,200 --> 00:14:54,650
 [STANDARD]
-Doesn't seem much doubt about it, does there?
+This is Chaz.  All hands topside. Now.
 ນີ້ແມ່ນ Chaz ທຸກຄົນໃຫ້ຢູ່ເທິງ, ທັນທີ.
 
 257
-00:14:55,950 --> 00:15:01,200
-[MELKONIS]
-That creature sure must have considered it important... using his last strength to draw it...
+00:14:55,150 --> 00:14:57,950
+[STANDARD]
+Doesn't seem much doubt about it, does there?
 ມັນເບິ່ງຄືວ່າບໍ່ມີຄວາມສົງໄສຫຼາຍກ່ຽວກັບມັນ, ແມ່ນບໍ?
 
 258
-00:15:01,700 --> 00:15:03,700
-[BROUSSARD]
-Maybe they built it.
+00:14:58,450 --> 00:15:03,700
+[MELKONIS]
+That creature sure must have considered it important... using his last strength to draw it...
 ສິ່ງມີຊີວິດນັ້ນ ແນ່ນອນວ່າ ຈະຖືວ່າ ມັນສໍາຄັນ
 ... ໃຊ້ກໍາລັງສຸດທ້າຍຂອງຕົນ ເພື່ອດຶງມັນ...
 
 259
 00:15:04,200 --> 00:15:06,200
-[FAUST]
-As what?
+[BROUSSARD]
+Maybe they built it.
 ບາງທີພວກເຂົາກໍ່ສ້າງມັນ.
 
 260
 00:15:06,700 --> 00:15:08,700
-[BROUSSARD]
-A marker for buried instrumentation?
+[FAUST]
+As what?
 ເປັນຫຍັງ?
 
 261
 00:15:09,200 --> 00:15:11,200
-[HUNTER]
-Or a mass grave.
+[BROUSSARD]
+A marker for buried instrumentation?
 ເຄື່ອງຫມາຍສໍາລັບເຄື່ອງມືທີ່ຝັງໄວ້?
 
 262
-00:15:11,700 --> 00:15:17,700
-[BROUSSARD]
-Maybe the rest of the crew is in there -- in some kind of suspended animation, waiting to be rescued.
+00:15:11,700 --> 00:15:13,700
+[HUNTER]
+Or a mass grave.
 ຫຼືເປັນຝັງສົບລວມ.
 
 263
-00:15:18,200 --> 00:15:20,300
-[MELKONIS]
-It wasn't necessarily built by them.
+00:15:14,200 --> 00:15:20,200
+[BROUSSARD]
+Maybe the rest of the crew is in there -- in some kind of suspended animation, waiting to be rescued.
 ບາງທີລູກເຮືອສ່ວນທີ່ເຫຼືອກໍອາດຈະຢູ່ໃນບ່ອນນັ້ນ --
 ໃນຊະນິດໃດຫນຶ່ງຂອງການເຄື່ອນໄຫວທີ່ຖືກໂຈະໄວ້, ລໍຖ້າທີ່ຈະໄດ້ຮັບການຊ່ວຍເຫຼືອ.
 
 264
-00:15:20,800 --> 00:15:22,800
-[ROBY]
-Here comes the dust again.
+00:15:20,700 --> 00:15:22,800
+[MELKONIS]
+It wasn't necessarily built by them.
 ມັນບໍ່ຈໍາເປັນຕ້ອງຖືກສ້າງຂຶ້ນໂດຍພວກເຂົາ.
 
 265
-00:15:23,300 --> 00:15:27,850
-[STANDARD]
-Well, does anyone else agree with Martin that we should not explore it?
+00:15:23,300 --> 00:15:25,300
+[ROBY]
+Here comes the dust again.
 ນີ້ແມ່ນຂີ້ຝຸ່ນອີກເທື່ອຫນຶ່ງ.
 
 266
-00:15:28,350 --> 00:15:31,150
+00:15:25,800 --> 00:15:30,350
 [STANDARD]
-Then the sooner we get moving, the better.
+Well, does anyone else agree with Martin that we should not explore it?
 ມີໃຜເຫັນດີນໍາທ່ານ Martin ວ່າພວກເຮົາບໍ່ຄວນຄົ້ນຄວ້າມັນບໍ?
 
 267
-00:15:31,650 --> 00:15:37,650
+00:15:30,850 --> 00:15:33,650
 [STANDARD]
-We can't make out any details or features yet... but it's definitely too regular for a natural formation...
+Then the sooner we get moving, the better.
 ຫຼັງຈາກນັ້ນ ເມື່ອພວກເຮົາເລີ້ມຍ້າຍໄປໄວຂຶ້ນ ກໍດີກວ່າ.
 
 268
-00:15:38,150 --> 00:15:41,650
+00:15:34,150 --> 00:15:40,150
 [STANDARD]
-... There's one thing I can say for sure though...
+We can't make out any details or features yet... but it's definitely too regular for a natural formation...
 ພວກເຮົາຍັງບໍ່ສາມາດກໍານົດລາຍລະອຽດ ຫຼືລັກສະນະໃດໆເທື່ອ...
 ແຕ່ມັນແນ່ນອນວ່າເປັນປົກກະຕິເກີນໄປ ສໍາລັບການສ້າງຕັ້ງທໍາມະຊາດ...
 
 269
-00:15:42,150 --> 00:15:44,150
-[ROBY]
-Now what's wrong?
+00:15:40,650 --> 00:15:44,150
+[STANDARD]
+... There's one thing I can say for sure though...
 ມີສິ່ງນຶ່ງທີ່ຂ້າພະເຈົ້າສາມາດເວົ້າໄດ້ຢ່າງແນ່ນອນ...
 
 270
 00:15:44,650 --> 00:15:46,650
-[HUNTER]
-I've completely lost their signal.
+[ROBY]
+Now what's wrong?
 ດຽວນີ້ມີຫຍັງບໍ່ດີ?
 
 271
 00:15:47,150 --> 00:15:49,150
-[ROBY]
-Can you get them back?
+[HUNTER]
+I've completely lost their signal.
 ຂ້ອຍສູນເສຍສັນຍານຂອງພວກເຂົາຫມົດ.
 
 272
 00:15:49,650 --> 00:15:51,650
-[HUNTER]
-I'm trying.
+[ROBY]
+Can you get them back?
 ເຈົ້າສາມາດເອົາພວກມັນຄືນໄດ້ບໍ?
 
 273
 00:15:52,150 --> 00:15:54,150
-[MELKONIS]
-This looks ancient.
+[HUNTER]
+I'm trying.
 ຂ້ອຍພະຍາຍາມ.
 
 274
-00:15:54,650 --> 00:15:58,150
-[STANDARD]
-Can't tell -- these weather conditions could erode anything, fast.
+00:15:54,650 --> 00:15:56,650
+[MELKONIS]
+This looks ancient.
 ມັນເບິ່ງເກົ່າແກ່.
 
 275
-00:15:58,650 --> 00:16:00,650
-[BROUSSARD]
-There's no entrance.
+00:15:57,150 --> 00:16:00,650
+[STANDARD]
+Can't tell -- these weather conditions could erode anything, fast.
 ບໍ່ສາມາດບອກໄດ້-- ສະພາບອາກາດນີ້ ອາດຈະທໍາລາຍສິ່ງໃດສິ່ງຫນຶ່ງ ໄດ້ໄວ.
 
 276
-00:16:01,150 --> 00:16:04,650
-[MELKONIS]
-Maybe the entrance is buried.  Could be under our feet.
+00:16:01,150 --> 00:16:03,150
+[BROUSSARD]
+There's no entrance.
 ບໍ່ມີທາງເຂົ້າ.
 
 277
-00:16:05,150 --> 00:16:08,650
-[STANDARD]
-Maybe there is no entrance; the thing may be solid.
+00:16:03,650 --> 00:16:07,150
+[MELKONIS]
+Maybe the entrance is buried.  Could be under our feet.
 ບາງທີທາງເຂົ້າອາດຈະຖືກຝັງໄວ້ ອາດຈະຢູ່ໃຕ້ຕີນຂອງພວກເຮົາ
 
 278
-00:16:09,150 --> 00:16:14,050
-[ROBY]
-Well, there ought to be some way we can get through to them --
+00:16:07,650 --> 00:16:11,150
+[STANDARD]
+Maybe there is no entrance; the thing may be solid.
 ບາງທີມັນອາດຈະບໍ່ມີທາງເຂົ້າ; ສິ່ງດັ່ງກ່າວອາດຈະແຂງ.
 
 279
-00:16:14,550 --> 00:16:19,450
-[FAUST]
-Sorry to interrupt, but I'm gonna charge up the engines for a minute, okay?
+00:16:11,650 --> 00:16:16,550
+[ROBY]
+Well, there ought to be some way we can get through to them --
 ດີ, ມັນຕ້ອງມີວິທີໃດຫນຶ່ງທີ່ພວກເຮົາສາມາດເຂົ້າໄປຫາພວກເຂົາ--
 
 280
-00:16:19,950 --> 00:16:21,950
-[ROBY]
-Yeah, okay.  Go ahead.
+00:16:17,050 --> 00:16:21,950
+[FAUST]
+Sorry to interrupt, but I'm gonna charge up the engines for a minute, okay?
 ຂໍໂທດທີ່ຂັດຂວາງ, ແຕ່ວ່າຂ້ອຍຈະສາກເຄື່ອງຈັກຂຶ້ນສໍາລັບນາທີ, ດີບໍ?
 
 281
 00:16:22,450 --> 00:16:24,450
 [ROBY]
-Yes!
+Yeah, okay.  Go ahead.
 ແມ່ນແລ້ວ, ໂອເຄ, ຕໍ່ໄປ.
 
 282
-00:16:24,950 --> 00:16:28,100
-[COMPUTER]
-I have a temporary sequence on the monitor --
+00:16:24,950 --> 00:16:26,950
+[ROBY]
+Yes!
 ແມ່ນແລ້ວ!
 
 283
-00:16:28,600 --> 00:16:31,400
-[ROBY]
-Hold it, I can't hear a damn thing!
+00:16:27,450 --> 00:16:30,600
+[COMPUTER]
+I have a temporary sequence on the monitor --
 ຂ້ອຍມີຮູບຖ່າຍຊົ່ວຄາວຢູ່ເທິງຈໍ
 
 284
-00:16:31,900 --> 00:16:33,900
+00:16:31,100 --> 00:16:33,900
 [ROBY]
-Go ahead!
+Hold it, I can't hear a damn thing!
 ຢຸດເຊົາ, ຂ້ອຍບໍ່ໄດ້ຍິນຫຍັງເລີຍ!
 
 285
 00:16:34,400 --> 00:16:36,400
 [ROBY]
-You mean... you've translated it?
+Go ahead!
 ຕໍ່ໄປ!
 
 286
-00:16:36,900 --> 00:16:40,050
+00:16:36,900 --> 00:16:38,900
 [ROBY]
-Well come on, come on!  What does it say?
+You mean... you've translated it?
 ຫມາຍຄວາມວ່າ... ເຈົ້າແປມັນແລ້ວບໍ?
 
 287
-00:16:40,550 --> 00:16:42,550
-[HUNTER]
-What?  What was that?
+00:16:39,400 --> 00:16:42,550
+[ROBY]
+Well come on, come on!  What does it say?
 ເລີຍ, ເລີຍ! ມັນເວົ້າຫຍັງ?
 
 288
-00:16:43,050 --> 00:16:48,300
-[ROBY]
-The computer just translated the goddamn message.  It's not an S.O.S. It was a warning.
+00:16:43,050 --> 00:16:45,050
+[HUNTER]
+What?  What was that?
 ອະໄຣ? ມັນເປັນຫຍັງ?
 
 289
-00:16:48,800 --> 00:16:51,600
-[BROUSSARD]
-Maybe we can get in by the top.
+00:16:45,550 --> 00:16:50,800
+[ROBY]
+The computer just translated the goddamn message.  It's not an S.O.S. It was a warning.
 ຄອມພິວເຕີແປຂໍ້ຄວາມແລ້ວ ມັນບໍ່ແມ່ນ S.O.S. ມັນເປັນການເຕືອນ
 
 290
-00:16:52,100 --> 00:16:54,100
-[STANDARD]
-You want to try?
+00:16:51,300 --> 00:16:54,100
+[BROUSSARD]
+Maybe we can get in by the top.
 ບາງທີພວກເຮົາສາມາດເຂົ້າໄປທາງເທິງໄດ້.
 
 291
 00:16:54,600 --> 00:16:56,600
-[BROUSSARD]
-Sure.
+[STANDARD]
+You want to try?
 ເຈົ້າຢາກລອງບໍ?
 
 292
-00:16:57,100 --> 00:17:02,000
+00:16:57,100 --> 00:16:59,100
 [BROUSSARD]
-You guys just wait down here till I say it's okay to come up.
-ແນ່ນອນ.
+Sure.
+ແມ່ນແລ້ວ.
 
 293
-00:17:02,500 --> 00:17:04,600
+00:16:59,600 --> 00:17:04,500
 [BROUSSARD]
-There's a hole at the top.
+You guys just wait down here till I say it's okay to come up.
 ພວກເຈົ້າລໍຖ້າຢູ່ຂ້າງລຸ່ມນີ້
 ຈົນກວ່າຂ້ອຍຈະບອກວ່າເຈົ້າສາມາດຂຶ້ນມາໄດ້.
 
 294
-00:17:05,100 --> 00:17:07,100
-[STANDARD]
-Can we come up?
+00:17:05,000 --> 00:17:07,100
+[BROUSSARD]
+There's a hole at the top.
 ມີຮູຢູ່ເທິງສຸດ.
 
 295
-00:17:07,600 --> 00:17:11,100
-[BROUSSARD]
-No, it's too small, only room enough for one person.
+00:17:07,600 --> 00:17:09,600
+[STANDARD]
+Can we come up?
 ພວກເຮົາຂຶ້ນໄປໄດ້ບໍ?
 
 296
-00:17:11,600 --> 00:17:14,050
-[STANDARD]
-Can you see anything in the hole?
+00:17:10,100 --> 00:17:13,600
+[BROUSSARD]
+No, it's too small, only room enough for one person.
 ບໍ່, ມັນນ້ອຍເກີນໄປ, ມີພຽງບ່ອນສໍາລັບຄົນດຽວເທົ່ານັ້ນ.
 
 297
-00:17:14,550 --> 00:17:20,550
-[BROUSSARD]
-I can see... partway down.  It just goes down like a stovepipe.  Smooth walls.  I can't see the bottom -- light won't reach.
+00:17:14,100 --> 00:17:16,550
+[STANDARD]
+Can you see anything in the hole?
 ເຈົ້າເຫັນຫຍັງຢູ່ໃນຮູບໍ?
 
 298
-00:17:21,050 --> 00:17:23,050
-[FAUST]
-Yes?  What is it?
+00:17:17,050 --> 00:17:23,050
+[BROUSSARD]
+I can see... partway down.  It just goes down like a stovepipe.  Smooth walls.  I can't see the bottom -- light won't reach.
 ຂພຈ ສາມາດເບິ່ງໄດ້... ສ່ວນນຶ່ງລົງໄປ. ມັນລົງໄປເຫມືອນທໍ່ເຕົາໄຟ.
 ຝາລຽບ. ຂ້ອຍບໍ່ສາມາດເບິ່ງພື້ນຜິວ -- ແສງສະຫວ່າງຈະບໍ່ເຂົ້າເຖິງ.
 
 299
-00:17:23,550 --> 00:17:29,550
-[ROBY]
-Jay, we've got a problem.  I was wondering if there was any way you could shortcut the repairs and give us immediate takeoff capability.
+00:17:23,550 --> 00:17:25,550
+[FAUST]
+Yes?  What is it?
 ແມ່ນແລ້ວ, ເປັນຫຍັງ?
 
 300
-00:17:30,050 --> 00:17:32,050
-[FAUST]
-Why, what's wrong?
+00:17:26,050 --> 00:17:32,050
+[ROBY]
+Jay, we've got a problem.  I was wondering if there was any way you could shortcut the repairs and give us immediate takeoff capability.
 ເຈີ, ພວກເຮົາມີບັນຫາ. ຂ້ອຍກໍາລັງສົງໄສວ່າ
 ຖ້າມີວິທີໃດທີ່ທ່ານສາມາດຕັດທາງສັ້ນໃນການສ້ອມແປງ ແລະໃຫ້ພວກເຮົາມີຄວາມສາມາດໃນການບິນທັນທີ.
 
 301
-00:17:32,550 --> 00:17:36,400
-[ROBY]
-The computer's translated the alien signal, and it's kind of alarming.
+00:17:32,550 --> 00:17:34,550
+[FAUST]
+Why, what's wrong?
 ເປັນຫຍັງ, ມີຫຍັງບໍ່ດີ?
 
 302
-00:17:36,900 --> 00:17:38,900
-[FAUST]
-What do you mean?
+00:17:35,050 --> 00:17:38,900
+[ROBY]
+The computer's translated the alien signal, and it's kind of alarming.
 ຄອມພິວເຕີໄດ້ແປສັນຍານຂອງຄົນຕ່າງດາວ, ແລະມັນເປັນອັນຕະລາຍ.
 
 303
-00:17:39,400 --> 00:17:45,400
-[ROBY]
-It couldn't translate the whole thing, only three phrases.  I'll just read it to you the way I got it:  "... HOSTILE... SURVIVAL... ADVISE DO
+00:17:39,400 --> 00:17:41,400
+[FAUST]
+What do you mean?
 ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
 
 304
-00:17:45,900 --> 00:17:48,000
-[NOT LAND... "]
-And that's all it could translate.
+00:17:41,900 --> 00:17:47,900
+[ROBY]
+It couldn't translate the whole thing, only three phrases.  I'll just read it to you the way I got it:  "... HOSTILE... SURVIVAL... ADVISE DO
 ມັນບໍ່ສາມາດແປໄດ້ທັງ ຫມົດ, ພຽງແຕ່ສາມປະໂຫຍກ.
 ຂ້ອຍຈະອ່ານມັນໃຫ້ເຈົ້າໃນວິທີທີ່ຂ້ອຍໄດ້ຮັບມັນ:"... HOSTILE... SURVIVAL...
 
 305
-00:17:48,500 --> 00:17:53,750
-[STANDARD]
-Dell, you want to come down, we can figure out where to go from here.
+00:17:48,400 --> 00:17:50,500
+[NOT LAND... "]
+And that's all it could translate.
 ແລະນັ້ນແມ່ນສິ່ງດຽວທີ່ມັນສາມາດແປໄດ້.
 
 306
-00:17:54,250 --> 00:17:56,350
-[BROUSSARD]
-No, I want to go in.
+00:17:51,000 --> 00:17:56,250
+[STANDARD]
+Dell, you want to come down, we can figure out where to go from here.
 ເດລ, ທ່ານຢາກລົງມາ, ພວກເຮົາສາມາດຄິດໄດ້ວ່າຈະໄປໃສຈາກນີ້.
 
 307
-00:17:56,850 --> 00:18:02,850
-[STANDARD]
-Okay, Dell, but just for a preliminary look-around.  Don't unhook yourself from your cable.  And be out in less than ten minutes.
+00:17:56,750 --> 00:17:58,850
+[BROUSSARD]
+No, I want to go in.
 ບໍ່, ຂ້ອຍຢາກເຂົ້າໄປ.
 
 308
-00:18:03,350 --> 00:18:05,350
-[BROUSSARD]
-Right.
+00:17:59,350 --> 00:18:05,350
+[STANDARD]
+Okay, Dell, but just for a preliminary look-around.  Don't unhook yourself from your cable.  And be out in less than ten minutes.
 ດີເດລ, ແຕ່ພຽງແຕ່ເພື່ອເບິ່ງອ້ອມຂ້າງກ່ອນ
 . ແລະອອກໄປໃນເວລາບໍ່ຮອດ 10 ນາທີ.
 
 309
-00:18:05,850 --> 00:18:10,400
+00:18:05,850 --> 00:18:07,850
 [BROUSSARD]
-Okay, I'm in the mouth of the chimney now, and I'm starting down.
+Right.
 ແມ່ນແລ້ວ.
 
 310
-00:18:10,900 --> 00:18:12,900
-[STANDARD]
-Take care.
+00:18:08,350 --> 00:18:12,900
+[BROUSSARD]
+Okay, I'm in the mouth of the chimney now, and I'm starting down.
 ໂອເຄ, ຂ້ອຍຢູ່ໃນປາກຂອງກ້ອນໄຟດຽວນີ້, ແລະຂ້ອຍເລີ່ມລົງໄປ.
 
 311
-00:18:13,400 --> 00:18:16,900
-[BROUSSARD]
-It's noticeably warmer in here.  Warm air rising from below.
+00:18:13,400 --> 00:18:15,400
+[STANDARD]
+Take care.
 ເອົາໃຈໃສ່.
 
 312
-00:18:17,400 --> 00:18:19,400
-[STANDARD]
-Are you okay in there?
+00:18:15,900 --> 00:18:19,400
+[BROUSSARD]
+It's noticeably warmer in here.  Warm air rising from below.
 ອາກາດຮ້ອນຂຶ້ນຈາກລຸ່ມ
 
 313
-00:18:19,900 --> 00:18:25,900
-[BROUSSARD]
-Yeah, I'm okay.  Haven't hit bottom yet.  Definitely a column of warm air rising; it keeps the shaft clear of dust.
+00:18:19,900 --> 00:18:21,900
+[STANDARD]
+Are you okay in there?
 ພໍດີບໍ?
 
 314
-00:18:26,400 --> 00:18:30,250
-[STANDARD]
-What was that Dell, I lost you, do you read me?
+00:18:22,400 --> 00:18:28,400
+[BROUSSARD]
+Yeah, I'm okay.  Haven't hit bottom yet.  Definitely a column of warm air rising; it keeps the shaft clear of dust.
 ແມ່ນແລ້ວ ຂ້ອຍສະບາຍດີ ຍັງບໍ່ທັນຮອດພື້ນດິນເທື່ອ
 ແນ່ນອນວ່າມີອາກາດອົບອຸ່ນສູງຂຶ້ນ
 
 315
-00:18:30,750 --> 00:18:33,900
-[BROUSSARD]
-Yeah, but this is hard work.  Can't talk now.
+00:18:28,900 --> 00:18:32,750
+[STANDARD]
+What was that Dell, I lost you, do you read me?
 ມັນເປັນຫຍັງເດລ, ຂ້ອຍສູນເສຍທ່ານ, ທ່ານໄດ້ຍິນຂ້ອຍບໍ?
 
 316
-00:18:34,400 --> 00:18:36,400
+00:18:33,250 --> 00:18:36,400
 [BROUSSARD]
-I'm way below ground level.
+Yeah, but this is hard work.  Can't talk now.
 ແມ່ນແລ້ວ, ແຕ່ນີ້ກໍເປັນວຽກຫນັກ ບໍ່ສາມາດເວົ້າໄດ້ດຽວນີ້
 
 317
 00:18:36,900 --> 00:18:38,900
-[STANDARD]
-What'd he say?
-ຂ້ອຍຢູ່ທາງລຸ່ມພື້ນດິນ.
+[BROUSSARD]
+I'm way below ground level.
+ຂ້ອຍແມ່ນຢູ່ຕໍ່າກວ່າພື້ນດິນຫຼາຍ.
 
 318
-00:18:39,400 --> 00:18:42,550
-[MELKONIS]
-I couldn't make it out -- too much interference.
+00:18:39,400 --> 00:18:41,400
+[STANDARD]
+What'd he say?
 ລາວເວົ້າຫຍັງ?
 
 319
-00:18:43,050 --> 00:18:49,050
-[HUNTER]
-I'm getting nowhere.  The whole area around the pyramid is dead to transmission.  I think we should go after them.
+00:18:41,900 --> 00:18:45,050
+[MELKONIS]
+I couldn't make it out -- too much interference.
 ຂ້ອຍບໍ່ສາມາດເຂົ້າໃຈໄດ້-- ມີການແຊກແຊງຫຼາຍເກີນໄປ.
 
 320
-00:18:49,550 --> 00:18:51,550
-[ROBY]
-No.
+00:18:45,550 --> 00:18:51,550
+[HUNTER]
+I'm getting nowhere.  The whole area around the pyramid is dead to transmission.  I think we should go after them.
 ຂ້ອຍບໍ່ໄດ້ໄປຫາບ່ອນໃດເລີຍ ພື້ນທີ່ອ້ອມແອ້ມເພຣາມິດທັງ ຫມົດ
 ແມ່ນບໍ່ມີການສົ່ງຕໍ່. ຂ້ອຍຄິດວ່າພວກເຮົາຄວນໄປຕາມພວກເຂົາ.
 
@@ -2279,7 +2279,7 @@ Don't know -- maybe we'll be real lucky and he just broke his neck.  I knew we s
 00:22:06,800 --> 00:22:08,800
 [STANDARD]
 Martin, are you there?
-ມາຕິນ, ເຈົ້າຢູ່ທີ່ນັ້ນບໍ?
+ແມຕິນ ເຈົ້າຢູ່ບໍ່?
 
 371
 00:22:09,300 --> 00:22:11,300
@@ -2353,7 +2353,7 @@ You men stay clear, there's a parasite on him.
 00:22:51,750 --> 00:22:53,850
 [HUNTER]
 Oh -- God -- oh --
-ໂອ... ພຣະເຈົ້າ... ໂອ...
+ໂອ້ - ພຣະເຈົ້າ - ໂອ້...
 
 383
 00:22:54,350 --> 00:22:56,350
@@ -2385,7 +2385,7 @@ That thing, God almighty, didn't you try to get it off him?
 00:23:11,700 --> 00:23:13,700
 [STANDARD]
 It wouldn't come.
-ມັນຈະບໍ່ມາ.
+ມັນບໍ່ຈະມາເລີຍ.
 
 388
 00:23:14,200 --> 00:23:16,200
@@ -2397,7 +2397,7 @@ Medical gloves.
 00:23:16,700 --> 00:23:18,700
 [STANDARD]
 It's really on there tight.
-ມັນແຫນ້ນຫນາແທ້ໆ.
+ແມ່ນແລ້ວ, ມັນແມ່ນຢູ່ໃນນັ້ນຢ່າງເຂັ້ມງວດ.
 
 390
 00:23:19,200 --> 00:23:21,200
@@ -2409,7 +2409,7 @@ Here, let me try.
 00:23:21,700 --> 00:23:23,800
 [STANDARD]
 Stop it, you're tearing his face.
-ຢຸດເຊົາ, ທ່ານກໍາລັງ tearing ໃບຫນ້າຂອງລາວ.
+ສະບາຍດີ, ເຈົ້າ ກໍາ ລັງທໍາລາຍໃບໜ້າຂອງລາວ.
 
 392
 00:23:24,300 --> 00:23:28,850
@@ -2514,7 +2514,7 @@ How does he breathe?
 00:24:22,550 --> 00:24:24,550
 [MELKONIS]
 Blood's thoroughly oxygenated.
-ເລືອດມີອົກຊີເຈນຢ່າງເຕັມທີ່.
+ນໍ້າເລືອດແມ່ນເຕັມໄປດ້ວຍອົກຊີເຈນ.
 
 409
 00:24:25,050 --> 00:24:28,200
@@ -2813,13 +2813,13 @@ Could be some kind of venom, or poison...
 00:27:26,150 --> 00:27:28,150
 [HUNTER]
 This is horrible.
-ອັນນີ້ຮ້າຍແຮງ.
+ນີ້ແມ່ນບໍ່ດີເລີຍ.
 
 457
 00:27:28,650 --> 00:27:30,650
 [ROBY]
 Hey!  what about the film?
-ເຮີ້ ເລື້ອງຮູບເງົາລ່ະ?
+ສະບາຍດີ! ຮູບເງົາແມ່ນແນວໃດ?
 
 458
 00:27:31,150 --> 00:27:33,150
@@ -2902,7 +2902,7 @@ Listen, hadn't somebody better check on Broussard?
 00:28:21,800 --> 00:28:24,600
 [STANDARD]
 I'll do it.  The rest of you continue.
-ຂ້ອຍຈະເຮັດ, ພວກທ່ານອື່ນກໍສືບຕໍ່.
+ແມ່ນແລ້ວ, ຂ້ອຍຈະເຮັດໄດ້. ສ່ວນທີ່ເຫຼືອຂອງເຈົ້າແມ່ນສືບຕໍ່ຕໍ່ໄປ.
 
 471
 00:28:25,100 --> 00:28:27,100
@@ -3063,7 +3063,7 @@ Broussard ເປັນແນວໃດ?
 00:29:53,900 --> 00:29:55,900
 [HUNTER]
 He's running a fever.
-ລາວມີໄຂ້.
+ລາວມີອາການໄຂ້ໄໝ້ຢູ່ແລ້ວ.
 
 497
 00:29:56,400 --> 00:29:58,400
@@ -3093,7 +3093,7 @@ The machine will bring his temperature down.  His vital functions are strong.
 00:30:08,700 --> 00:30:10,700
 [STANDARD]
 Good.
-ດີ.
+ແມ່ນແລ້ວ.
 
 502
 00:30:11,200 --> 00:30:13,200
@@ -3211,7 +3211,7 @@ I think we better take another look at those heiroglyphs.
 00:31:32,350 --> 00:31:34,350
 [FAUST]
 Hey, guess what?
-ເຮ້, guess ວ່າແນວໃດ?
+ສະບາຍດີ, ຄິດບໍ່ວ່າແມ່ນຫຍັງ?
 
 520
 00:31:34,850 --> 00:31:36,850
@@ -3403,7 +3403,7 @@ Don't remember nothing.  Can't hardly remember my name.
 00:33:14,000 --> 00:33:16,000
 [ROBY]
 Are you in pain?
-ທ່ານເຈັບປວດບໍ?
+ເຈົ້າເຈັບບໍ່?
 
 551
 00:33:16,500 --> 00:33:22,100
@@ -3791,7 +3791,7 @@ Good.  Get on it.  But first, I'm issuing a standing order: from this moment for
 00:37:28,150 --> 00:37:30,250
 [STANDARD]
 I thought I'd find you here.
-ຂ້າພະເຈົ້າຄິດວ່າຂ້າພະເຈົ້າຈະພົບທ່ານຢູ່ທີ່ນີ້.
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະພົບເຈົ້າຢູ່ບ່ອນນີ້.
 
 612
 00:37:30,750 --> 00:37:36,750
@@ -4008,7 +4008,7 @@ Hold it.
 00:39:46,500 --> 00:39:48,500
 [FAUST]
 It's within 4 meters.
-ມັນຢູ່ພາຍໃນ 4 ແມັດ.
+ແມ່ນບໍ່ເກີນ 4 ແມັດ.
 
 646
 00:39:49,000 --> 00:39:51,000
@@ -4300,7 +4300,7 @@ While the rest of us wait down in the cooling unit with the net.
 00:42:45,450 --> 00:42:47,450
 [HUNTER]
 Sounds like a rough one.
-ມັນປາກົດວ່າເປັນເລື່ອງຍາກ.
+ແມ່ນແລ້ວ, ມັນເບິ່ງຄືວ່າແມ່ນເລື່ອງທີ່ຫຍຸ້ງຍາກ.
 
 693
 00:42:47,950 --> 00:42:49,950
@@ -4324,7 +4324,7 @@ Let's be democratic.
 00:42:58,000 --> 00:43:00,000
 [STANDARD]
 Martin, take one.
-ມາຕິນ ເອົາອັນນຶ່ງ
+ແມຕິນ, ເອົາມັນໜຶ່ງເດີ້.
 
 697
 00:43:00,500 --> 00:43:02,500
@@ -4361,13 +4361,13 @@ Yeah, we're getting into position.
 00:43:17,400 --> 00:43:19,400
 [HUNTER]
 Okay, I'm starting now.
-ໂອເຄ, ຂ້ອຍເລີ່ມແລ້ວ.
+ແມ່ນແລ້ວ, ຂ້ອຍກໍາລັງເລີ່ມຕົ້ນແລ້ວ.
 
 703
 00:43:19,900 --> 00:43:22,700
 [ROBY]
 There.  That's where it's got to come out.
-ຢູ່ທີ່ນັ້ນ ມັນຕ້ອງໄດ້ອອກມາ
+ແມ່ນແລ້ວ. ນັ້ນແມ່ນບ່ອນທີ່ມັນຕ້ອງອອກມາ.
 
 704
 00:43:23,200 --> 00:43:29,150
@@ -4436,7 +4436,7 @@ And you and I will bag it, and then we'll take it to the ventral air lock, got i
 00:44:02,650 --> 00:44:04,650
 [ROBY]
 Uh-huh.
-Uh-huh.
+ແມ່ນແລ້ວ.
 
 715
 00:44:05,150 --> 00:44:07,150
@@ -4795,693 +4795,707 @@ It's in the main air lock.  Blow the lock.
 ມັນຢູ່ໃນຫ້ອງປິດອາກາດຕົ້ນຕໍ ລະເບີດປະຕູປິດ.
 
 772
-00:47:40,000 --> 00:47:44,900
-["CRITICAL DEPRESSURIZATION"]
-After a moment of panic and confusion, Roby bolts out of the control room.
+00:47:40,000 --> 00:47:42,000
+["INNER DOOR CLOSED"]
+INTERIOR - AIR LOCK
 ພາຍໃນ - ລັອກອາກາດ
 
 773
-00:47:45,400 --> 00:47:47,500
-[ROBY]
-How much oxygen did we lose?
+00:47:42,500 --> 00:47:47,400
+["CRITICAL DEPRESSURIZATION"]
+After a moment of panic and confusion, Roby bolts out of the control room.
 ຫລັງຈາກເກີດຄວາມຢ້ານກົວ ແລະສັບສົນເປັນເວລາດົນ
 , ໂຣບີ ໄດ້ແລ່ນອອກຈາກຫ້ອງຄວບຄຸມ.
 
 774
-00:47:48,000 --> 00:47:50,000
-[STANDARD]
-We've got six hours left.
+00:47:47,900 --> 00:47:50,000
+[ROBY]
+How much oxygen did we lose?
 ພວກເຮົາສູນເສຍອົກຊີເຈນຫຼາຍປານໃດ?
 
 775
 00:47:50,500 --> 00:47:52,500
-[HUNTER]
-Oh my God.
+[STANDARD]
+We've got six hours left.
 ພວກເຮົາມີເວລາອີກ 6 ຊົ່ວໂມງ.
 
 776
 00:47:53,000 --> 00:47:55,000
-[STANDARD]
-Does anybody know what happened?
+[HUNTER]
+Oh my God.
 ໂອ້ພະເຈົ້າເອີຍ.
 
 777
-00:47:55,500 --> 00:48:01,450
-[ROBY]
-I saw it.  Faust got himself jammed in the air lock door.  His body held it open.
+00:47:55,500 --> 00:47:57,500
+[STANDARD]
+Does anybody know what happened?
 ມີໃຜຮູ້ບໍ່ວ່າເກີດຫຍັງຂຶ້ນ?
 
 778
-00:48:01,950 --> 00:48:03,950
-[STANDARD]
-Can we get to him?
+00:47:58,000 --> 00:48:03,950
+[ROBY]
+I saw it.  Faust got himself jammed in the air lock door.  His body held it open.
 ຂ້າພະເຈົ້າໄດ້ເຫັນມັນ Faust ໄດ້ຕິດຕົວເອງໃນປະຕູ
 airlock ຮ່າງກາຍຂອງເຂົາຖືມັນເປີດ
 
 779
-00:48:04,450 --> 00:48:10,450
-[ROBY]
-No, I had to seal off a whole section.  We'd lose too much of our remaining air if we opened the connecting door.
+00:48:04,450 --> 00:48:06,450
+[STANDARD]
+Can we get to him?
 ພວກເຮົາສາມາດໄປຫາລາວໄດ້ບໍ?
 
 780
-00:48:10,950 --> 00:48:12,950
+00:48:06,950 --> 00:48:12,950
 [ROBY]
-Poor kitty; puss puss puss.
+No, I had to seal off a whole section.  We'd lose too much of our remaining air if we opened the connecting door.
 ບໍ່, ຂ້ອຍຕ້ອງໄດ້ປິດສ່ວນນຶ່ງຫມົດ
 ພວກເຮົາຈະສູນເສຍອາກາດຫຼາຍເກີນໄປ ຖ້າພວກເຮົາເປີດປະຕູເຊື່ອມຕໍ່
 
 781
-00:48:13,450 --> 00:48:19,450
-[STANDARD]
-At least we're rid of the damn monster.  It must have been the first thing sucked out of the ship.
+00:48:13,450 --> 00:48:15,450
+[ROBY]
+Poor kitty; puss puss puss.
 ແມວທີ່ທຸກຍາກ, pussy pussy pussy.
 
 782
-00:48:19,950 --> 00:48:24,150
-[ROBY]
-No such luck.  I saw it running down one of the corridors.
+00:48:15,950 --> 00:48:21,950
+[STANDARD]
+At least we're rid of the damn monster.  It must have been the first thing sucked out of the ship.
 ຢ່າງຫນ້ອຍພວກເຮົາຍັງໄດ້ລຶບລ້າງມະຫາສັດຊົ່ວຮ້າຍ
 . ມັນຕ້ອງໄດ້ເປັນສິ່ງທໍາອິດທີ່ດູດອອກຈາກເຮືອ.
 
 783
-00:48:24,650 --> 00:48:30,650
-[HUNTER]
-Oh no!  We can't fight this thing! There's only six hours of air left -- we're dead men!
+00:48:22,450 --> 00:48:26,650
+[ROBY]
+No such luck.  I saw it running down one of the corridors.
 ໂຊກບໍ່ດີ, ຂ້ອຍເຫັນມັນແລ່ນລົງໃນທາງດ່ານນຶ່ງ.
 
 784
-00:48:31,150 --> 00:48:36,750
-[STANDARD]
-I don't buy that.  There's still time to destroy it and get ourselves in the freezers.
+00:48:27,150 --> 00:48:33,150
+[HUNTER]
+Oh no!  We can't fight this thing! There's only six hours of air left -- we're dead men!
 ໂອ້ ບໍ່! ພວກເຮົາບໍ່ສາມາດຕໍ່ສູ້ກັບສິ່ງນີ້ໄດ້!
 ຍັງເຫຼືອອາກາດພຽງ 6 ຊົ່ວໂມງເທົ່ານັ້ນ - ພວກເຮົາຕາຍແລ້ວ!
 
 785
-00:48:37,250 --> 00:48:39,250
-[HUNTER]
-How?
+00:48:33,650 --> 00:48:39,250
+[STANDARD]
+I don't buy that.  There's still time to destroy it and get ourselves in the freezers.
 ຂ້ອຍບໍ່ຊື້ມັນ ມັນຍັງມີເວລາທີ່ຈະທໍາລາຍມັນ
 ແລະເອົາຕົວເອງໄປໃສ່ຕູ້ເຢັນ
 
 786
 00:48:39,750 --> 00:48:41,750
-[STANDARD]
-It's time for drastic remedies.
+[HUNTER]
+How?
 ແນວໃດ?
 
 787
-00:48:42,250 --> 00:48:45,400
-[ROBY]
-It was time for that a couple days ago.
+00:48:42,250 --> 00:48:44,250
+[STANDARD]
+It's time for drastic remedies.
 ມັນເຖິງເວລາແລ້ວ ສໍາລັບການແກ້ໄຂຢ່າງຮຸນແຮງ.
 
 788
-00:48:45,900 --> 00:48:51,900
-[STANDARD]
-That kind of remark is pointless. Now come on -- I want to hear every suggestion you can come up with, no matter how wild.
+00:48:44,750 --> 00:48:47,900
+[ROBY]
+It was time for that a couple days ago.
 ມັນເຖິງເວລາແລ້ວສອງສາມມື້ກ່ອນ.
 
 789
-00:48:52,400 --> 00:48:58,400
-[HUNTER]
-We can't kill it on board.  It's huge now and must have tremendous amounts of that acid in its body.
+00:48:48,400 --> 00:48:54,400
+[STANDARD]
+That kind of remark is pointless. Now come on -- I want to hear every suggestion you can come up with, no matter how wild.
 ການເວົ້າແບບນີ້ບໍ່ມີຈຸດປະສົງ ເລີຍ... ຂ້ອຍຢາກຟັງຄໍາແນະນໍາທຸກຢ່າງ
 ທີ່ເຈົ້າຄິດໄດ້ ບໍ່ວ່າຈະເປັນເລື່ອງທີ່ໂຫດຮ້າຍປານໃດ
 
 790
-00:48:58,900 --> 00:49:02,750
-[ROBY]
-I've got an idea, but you're not going to like it.
+00:48:54,900 --> 00:49:00,900
+[HUNTER]
+We can't kill it on board.  It's huge now and must have tremendous amounts of that acid in its body.
 ພວກເຮົາບໍ່ສາມາດຂ້າມັນໄດ້ຢູ່ເທິງເຮືອ
 ມັນໃຫຍ່ແລ້ວ ແລະຕ້ອງມີອາຊິດໃນຮ່າງກາຍຢ່າງຫຼວງຫຼາຍ
 
 791
-00:49:03,250 --> 00:49:05,250
-[STANDARD]
-Let's hear it.
+00:49:01,400 --> 00:49:05,250
+[ROBY]
+I've got an idea, but you're not going to like it.
 ຂ້ອຍມີແນວຄິດ, ແຕ່ເຈົ້າຈະບໍ່ມັກມັນ.
 
 792
-00:49:05,750 --> 00:49:10,300
-[ROBY]
-Okay.  First we shut down all the cooling systems on the stardrive engines.
+00:49:05,750 --> 00:49:07,750
+[STANDARD]
+Let's hear it.
 ໃຫ້ຟັງ.
 
 793
-00:49:10,800 --> 00:49:12,800
-[STANDARD]
-That'll blow the ship up.
+00:49:08,250 --> 00:49:12,800
+[ROBY]
+Okay.  First we shut down all the cooling systems on the stardrive engines.
 ດີ. ທໍາອິດພວກເຮົາປິດລະບົບເຢັນທັງຫມົດໃນເຄື່ອງຈັກ stardrive.
 
 794
-00:49:13,300 --> 00:49:19,300
-[ROBY]
-Right... but it'll take a few minutes for the engines to overheat and melt down the core.  In the meantime, we get in the lifeboat and leave the ship.
+00:49:13,300 --> 00:49:15,300
+[STANDARD]
+That'll blow the ship up.
 ມັນຈະເຮັດໃຫ້ເຮືອແຕກຂຶ້ນ.
 
 795
-00:49:19,800 --> 00:49:21,800
-[HUNTER]
-Blow the ship up?
+00:49:15,800 --> 00:49:21,800
+[ROBY]
+Right... but it'll take a few minutes for the engines to overheat and melt down the core.  In the meantime, we get in the lifeboat and leave the ship.
 ຖືກຕ້ອງ... ແຕ່ມັນຈະໃຊ້ເວລາສອງສາມນາທີ ສໍາລັບເຄື່ອງຈັກທີ່ຈະ overheat
 ແລະ melt ລົງຫຼັກ ໃນຂະນະດຽວກັນ, ພວກເຮົາໄດ້ຮັບໃນເຮືອລອດແລະອອກຈາກເຮືອ.
 
 796
-00:49:22,300 --> 00:49:27,550
-[ROBY]
-And the creature with it.  We can make it back to Irth in the lifeboat.
+00:49:22,300 --> 00:49:24,300
+[HUNTER]
+Blow the ship up?
 ລະເບີດເຮືອ?
 
 797
-00:49:28,050 --> 00:49:30,850
-[STANDARD]
-But the lifeboat can't accelerate to light speed.
+00:49:24,800 --> 00:49:30,050
+[ROBY]
+And the creature with it.  We can make it back to Irth in the lifeboat.
 ແລະສັດທີ່ມີມັນ ພວກເຮົາສາມາດເຮັດໃຫ້ມັນກັບຄືນໄປ Irth ໃນເຮືອລອດ.
 
 798
-00:49:31,350 --> 00:49:37,350
-[ROBY]
-Doesn't matter -- we're already at light speed.  And when we get back to the Colonies, they'll pick us up in the network.
+00:49:30,550 --> 00:49:33,350
+[STANDARD]
+But the lifeboat can't accelerate to light speed.
 ແຕ່ເຮືອກູ້ໄພບໍ່ສາມາດເລັ່ງເຖິງຄວາມໄວຂອງແສງໄດ້.
 
 799
-00:49:37,850 --> 00:49:43,850
-[HUNTER]
-What about all the minerals and elements in the cargo hold?  That's the only reason we came out here. We'd have to abandon them all.  We'd be broke.
+00:49:33,850 --> 00:49:39,850
+[ROBY]
+Doesn't matter -- we're already at light speed.  And when we get back to the Colonies, they'll pick us up in the network.
 ມັນບໍ່ສໍາຄັນ - ພວກເຮົາກໍາລັງແລ່ນດ້ວຍຄວາມໄວຂອງແສງ
 ແລະເມື່ອພວກເຮົາກັບຄືນໄປທີ່ອານາຄົມ, ພວກເຂົາຈະຈັບພວກເຮົາໃນເຄືອຂ່າຍ.
 
 800
-00:49:44,350 --> 00:49:50,350
-[ROBY]
-Our lives are more important. Anyway, we can take a small amount of the most valuable stuff with us on the lifeboat.
+00:49:40,350 --> 00:49:46,350
+[HUNTER]
+What about all the minerals and elements in the cargo hold?  That's the only reason we came out here. We'd have to abandon them all.  We'd be broke.
 ມີຫຍັງກ່ຽວກັບແຮ່ທາດແລະອົງປະກອບຕ່າງໆໃນຫ້ອງຂົນສົ່ງ? ນັ້ນແມ່ນເຫດຜົນດຽວທີ່ພວກເຮົາໄດ້ມາຢູ່ນີ້
 . ພວກເຮົາຕ້ອງປະຖິ້ມພວກມັນທັງຫມົດ. ພວກເຮົາຈະບໍ່ມີເງິນ.
 
 801
-00:49:50,850 --> 00:49:56,850
-[STANDARD]
-No, it won't work and I just realized why.  There's only one hypersleep freezer on the lifeboat. Only one of us could survive.
+00:49:46,850 --> 00:49:52,850
+[ROBY]
+Our lives are more important. Anyway, we can take a small amount of the most valuable stuff with us on the lifeboat.
 ຊີວິດຂອງພວກເຮົາຍັງສໍາຄັນກວ່າ. ຢ່າງໃດກໍຕາມ,
 ພວກເຮົາສາມາດເອົາຈໍານວນນ້ອຍໆຂອງສິ່ງທີ່ມີຄຸນຄ່າທີ່ສຸດກັບພວກເຮົາໃນເຮືອລອດ.
 
 802
-00:49:57,350 --> 00:49:59,350
-[ROBY]
-Yeah... I forgot.
+00:49:53,350 --> 00:49:59,350
+[STANDARD]
+No, it won't work and I just realized why.  There's only one hypersleep freezer on the lifeboat. Only one of us could survive.
 ບໍ່, ມັນຈະບໍ່ເຮັດວຽກ ແລະຂ້ອຍຫາກໍ່ເຂົ້າໃຈວ່າເປັນຫຍັງ ມີພຽງແຕ່ຕູ້ເຢັນ
 hyper-sleep ເທົ່ານັ້ນໃນເຮືອກູ້ໄພ ມີພຽງຄົນດຽວເທົ່ານັ້ນທີ່ສາມາດລອດຊີວິດໄດ້
 
 803
-00:49:59,850 --> 00:50:04,050
-[STANDARD]
-But the idea's good, if we could just turn it around somehow.
+00:49:59,850 --> 00:50:01,850
+[ROBY]
+Yeah... I forgot.
 ແມ່ນແລ້ວ... ຂ້ອຍລືມ.
 
 804
-00:50:04,550 --> 00:50:10,550
+00:50:02,350 --> 00:50:06,550
 [STANDARD]
-If we could just get the creature into the lifeboat, we could launch it into space and blow it up.
+But the idea's good, if we could just turn it around somehow.
 ແຕ່ວ່າແນວຄວາມຄິດແມ່ນດີ, ຖ້າພວກເຮົາສາມາດຫັນມັນໄປທາງອື່ນໄດ້.
 
 805
-00:50:11,050 --> 00:50:13,050
-[HUNTER]
-Good!  That's good!
+00:50:07,050 --> 00:50:13,050
+[STANDARD]
+If we could just get the creature into the lifeboat, we could launch it into space and blow it up.
 ຖ້າພວກເຮົາຍັງສາມາດເອົາສັດລ້ຽງເຂົ້າໄປໃນເຮືອລອດໄດ້
 ພວກເຮົາສາມາດສົ່ງມັນໄປສູ່ອະວະກາດ ແລະລະເບີດມັນຂຶ້ນ.
 
 806
-00:50:13,550 --> 00:50:19,550
-[STANDARD]
-We can load the lifeboat up with explosives and trigger them remotely, once the lifeboat is in space.
+00:50:13,550 --> 00:50:15,550
+[HUNTER]
+Good!  That's good!
 ດີແລ້ວ, ດີແລ້ວ!
 
 807
-00:50:20,050 --> 00:50:25,300
-[ROBY]
-I think it's going to be almost impossible to drive it up into the lifeboat.
+00:50:16,050 --> 00:50:22,050
+[STANDARD]
+We can load the lifeboat up with explosives and trigger them remotely, once the lifeboat is in space.
 ພວກເຮົາສາມາດໂຫຼດເຮືອກູ້ໄພດ້ວຍລະເບີດ
 ແລະເປີດໄຟພວກມັນຈາກໄລຍະໄກ ເມື່ອເຮືອ ກູ້ໄພຢູ່ໃນອະວະກາດ.
 
 808
-00:50:25,800 --> 00:50:27,800
-[HUNTER]
-We can use the flamethrower.
+00:50:22,550 --> 00:50:27,800
+[ROBY]
+I think it's going to be almost impossible to drive it up into the lifeboat.
 ຂ້ອຍຄິດວ່າ ມັນເກືອບຈະເປັນໄປບໍ່ໄດ້ ທີ່ຈະຂັບມັນຂຶ້ນໄປຫາເຮືອລອດ.
 
 809
 00:50:28,300 --> 00:50:30,300
-[ROBY]
-It's not going to work.
+[HUNTER]
+We can use the flamethrower.
 ພວກເຮົາສາມາດໃຊ້ເຄື່ອງຖິ້ມໄຟໄດ້.
 
 810
-00:50:30,800 --> 00:50:34,300
-[STANDARD]
-You can't say that; I think it's a good plan.
+00:50:30,800 --> 00:50:32,800
+[ROBY]
+It's not going to work.
 ມັນຈະບໍ່ໄດ້ຜົນ.
 
 811
-00:50:34,800 --> 00:50:36,800
-[HUNTER]
-The flamethrower needs more fuel.
+00:50:33,300 --> 00:50:36,800
+[STANDARD]
+You can't say that; I think it's a good plan.
 ເຈົ້າບໍ່ສາມາດເວົ້າແນວນັ້ນໄດ້; ຂ້ອຍຄິດວ່າມັນເປັນແຜນທີ່ດີ.
 
 812
-00:50:37,300 --> 00:50:40,800
-[STANDARD]
-Right.  We've got a lot to accomplish.  Let's get moving.
-ລູກປືນຍິງໄຟໄຫມ້ ຕ້ອງການນໍ້າມັນຕື່ມອີກ.
+00:50:37,300 --> 00:50:39,300
+[HUNTER]
+The flamethrower needs more fuel.
+ເຄື່ອງຖິ້ມໄຟຕ້ອງມີເຊື້ອໄຟຫຼາຍຂຶ້ນ.
 
 813
-00:50:41,300 --> 00:50:43,300
-[HUNTER]
-Which explosive should we use?
+00:50:39,800 --> 00:50:43,300
+[STANDARD]
+Right.  We've got a lot to accomplish.  Let's get moving.
 ແມ່ນແລ້ວ, ພວກເຮົາຍັງມີຫຼາຍຢ່າງທີ່ຈະບັນລຸ ໃຫ້ເລີ້ມໄປ
 
 814
-00:50:43,800 --> 00:50:48,350
-[STANDARD]
-I'd suggest the N-13 sticks.  They're portable, and they can be radio detonated.
+00:50:43,800 --> 00:50:45,800
+[HUNTER]
+Which explosive should we use?
 ພວກເຮົາຄວນໃຊ້ລະເບີດໃດ?
 
 815
-00:50:48,850 --> 00:50:54,850
-[ROBY]
-You know, it's funny -- this stuff we went to so much trouble to dig up -- this treasure, the paydirt -- it'll make it back to Irth just fine -- even if we're not with it.
+00:50:46,300 --> 00:50:50,850
+[STANDARD]
+I'd suggest the N-13 sticks.  They're portable, and they can be radio detonated.
 ຂ້ອຍຂໍແນະນໍາໃຫ້ໃຊ້ N-13 Stick ພວກມັນສາມາດຖືໄດ້
 , ແລະພວກມັນສາມາດຖືກລະເບີດດ້ວຍວິທະຍຸ.
 
 816
-00:50:55,350 --> 00:50:57,350
-[STANDARD]
-Here, carry these.
+00:50:51,350 --> 00:50:57,350
+[ROBY]
+You know, it's funny -- this stuff we went to so much trouble to dig up -- this treasure, the paydirt -- it'll make it back to Irth just fine -- even if we're not with it.
 ທ່ານຮູ້ບໍ່, ມັນມ່ວນ -- ສິ່ງຂອງທີ່ພວກເຮົາຍາມຄວາມຫຍຸ້ງຍາກຫຼາຍເພື່ອຂຸດຄົ້ນ -- ຊັບພະຍາກອນນີ້
 , ການຈ່າຍເງິນ -- ມັນຈະເຮັດໃຫ້ມັນກັບຄືນໄປ Irth ຢ່າງດີ -- ເຖິງແມ່ນວ່າພວກເຮົາຈະບໍ່ມີມັນ.
 
 817
 00:50:57,850 --> 00:50:59,850
-[ROBY]
-Hey watch it!
+[STANDARD]
+Here, carry these.
 ເອົາມາເອົາມາ.
 
 818
-00:51:00,350 --> 00:51:03,150
-[STANDARD]
-It's stable; it doesn't hurt to drop it.
+00:51:00,350 --> 00:51:02,350
+[ROBY]
+Hey watch it!
 Hey ລະວັງມັນ!
 
 819
-00:51:03,650 --> 00:51:05,650
-[HUNTER]
-Hold it!
+00:51:02,850 --> 00:51:05,650
+[STANDARD]
+It's stable; it doesn't hurt to drop it.
 ມັນມີຄວາມ ຫມັ້ນ ຄົງ, ມັນບໍ່ເຈັບປວດທີ່ຈະປ່ອຍມັນລົງ.
 
 820
 00:51:06,150 --> 00:51:08,150
 [HUNTER]
-Up there.
+Hold it!
 ຢຸດເຊົາ!
 
 821
-00:51:08,650 --> 00:51:14,650
-[ROBY]
-So what do we do?  Do we ignore it and finish loading the explosives into the boat -- or do we flush it out now?
+00:51:08,650 --> 00:51:10,650
+[HUNTER]
+Up there.
 ຢູ່ເທິງນັ້ນ.
 
 822
-00:51:15,150 --> 00:51:21,150
-[STANDARD]
-Now.  If we can get it into the boat, we won't have to blow it up -- we can just eject it into space.
+00:51:11,150 --> 00:51:17,150
+[ROBY]
+So what do we do?  Do we ignore it and finish loading the explosives into the boat -- or do we flush it out now?
 ພວກເຮົາເຮັດແນວໃດ? ພວກເຮົາບໍ່ສົນໃຈມັນ
 ແລະຈົບການໂຫຼດລະເບີດໃສ່ເຮືອ ຫຼື ພວກເຮົາຖິ້ມມັນອອກໃນເວລານີ້?
 
 823
-00:51:21,650 --> 00:51:23,750
+00:51:17,650 --> 00:51:23,650
 [STANDARD]
-You can come up!  It's safe!
+Now.  If we can get it into the boat, we won't have to blow it up -- we can just eject it into space.
 ບັດນີ້. ຖ້າພວກເຮົາສາມາດເອົາມັນໄປໃສ່ເຮືອ, ພວກເຮົາຈະບໍ່ຕ້ອງລະເບີດມັນ
 - ພວກເຮົາພຽງແຕ່ສາມາດຖິ້ມມັນອອກສູ່ອະວະກາດໄດ້.
 
 824
-00:51:24,250 --> 00:51:26,250
-[ROBY]
-Oh -- Jesus --
+00:51:24,150 --> 00:51:26,250
+[STANDARD]
+You can come up!  It's safe!
 ເຈົ້າສາມາດຂຶ້ນມາໄດ້ ມັນປອດໄພແລ້ວ
 
 825
-00:51:26,750 --> 00:51:29,900
-[STANDARD]
-The ship's gravitational attraction must have drawn him back.
-ໂອ້... ພຣະຜູ້ເປັນເຈົ້າ...
+00:51:26,750 --> 00:51:28,750
+[ROBY]
+Oh -- Jesus --
+ໂອ້ - ພຣະເຢຊູ -
 
 826
-00:51:30,400 --> 00:51:33,200
-[HUNTER]
-Should we go outside and bring him in?
+00:51:29,250 --> 00:51:32,400
+[STANDARD]
+The ship's gravitational attraction must have drawn him back.
 ຄວາມດຶງດູດຂອງເຮືອຕ້ອງໄດ້ດຶງລາວກັບມາ.
 
 827
-00:51:33,700 --> 00:51:37,900
-[STANDARD]
-No... the risk is too great.  Perhaps after we've destroyed the thing.
+00:51:32,900 --> 00:51:35,700
+[HUNTER]
+Should we go outside and bring him in?
 ພວກເຮົາຍັງຈະອອກໄປຫາລາວບໍ?
 
 828
-00:51:38,400 --> 00:51:40,850
+00:51:36,200 --> 00:51:40,400
 [STANDARD]
-Along the base of the walls there.
+No... the risk is too great.  Perhaps after we've destroyed the thing.
 ບໍ່... ຄວາມສ່ຽງແມ່ນໃຫຍ່ເກີນໄປ.
 ບາງທີຫຼັງຈາກທີ່ພວກເຮົາໄດ້ທໍາລາຍສິ່ງນັ້ນ.
 
 829
-00:51:41,350 --> 00:51:43,350
-[HUNTER]
-This should do it.
+00:51:40,900 --> 00:51:43,350
+[STANDARD]
+Along the base of the walls there.
 ຕາມພື້ນຖານຂອງກໍາແພງນັ້ນ.
 
 830
-00:51:43,850 --> 00:51:49,850
-[ROBY]
-I should hope so!  And we'd better make sure it's pretty far from the ship when we blow it.
+00:51:43,850 --> 00:51:45,850
+[HUNTER]
+This should do it.
 ນີ້ຄວນຈະເຮັດໄດ້.
 
 831
-00:51:50,350 --> 00:51:52,350
-[STANDARD]
-It will be.
+00:51:46,350 --> 00:51:52,350
+[ROBY]
+I should hope so!  And we'd better make sure it's pretty far from the ship when we blow it.
 ຂ້ອຍຫວັງວ່າແນ່ນອນ ແລະພວກເຮົາຄວນແນ່ໃຈວ່າ
 ມັນຈະຢູ່ໄກຈາກເຮືອ ເມື່ອພວກເຮົາລະເບີດມັນ
 
 832
-00:51:52,850 --> 00:51:57,050
-[HUNTER]
-What we really need is some red meat in here for bait.
+00:51:52,850 --> 00:51:54,850
+[STANDARD]
+It will be.
 ມັນຈະເປັນ.
 
 833
-00:51:57,550 --> 00:52:02,100
-[ROBY]
-Well, if we had some, I'd eat it. I'm starting to get hungry.
+00:51:55,350 --> 00:51:59,550
+[HUNTER]
+What we really need is some red meat in here for bait.
 ສິ່ງທີ່ພວກເຮົາຕ້ອງການແທ້ໆ ແມ່ນຊີ້ນແດງໃນນີ້ ເພື່ອເປັນ bait.
 
 834
-00:52:02,600 --> 00:52:06,100
-[STANDARD]
-Well... now we have to herd that thing up here.
+00:52:00,050 --> 00:52:04,600
+[ROBY]
+Well, if we had some, I'd eat it. I'm starting to get hungry.
 ດີ, ຖ້າພວກເຮົາມີບາງຢ່າງ, ຂ້ອຍຈະກິນມັນ. ຂ້ອຍເລີ່ມອຶດຢາກ.
 
 835
-00:52:06,600 --> 00:52:12,600
-[HUNTER]
-Whoever's doing the herding is gonna have their hands pretty full.  I think somebody should stay by the lifeboat to slam the door on the thing once it's inside, and to serve as... as...
+00:52:05,100 --> 00:52:08,600
+[STANDARD]
+Well... now we have to herd that thing up here.
 ດີ... ດຽວນີ້ພວກເຮົາຕ້ອງເອົາສິ່ງນັ້ນມາຢູ່ນີ້.
 
 836
-00:52:13,100 --> 00:52:15,200
-[ROBY]
-Isn't "bait" the word you used?
+00:52:09,100 --> 00:52:15,100
+[HUNTER]
+Whoever's doing the herding is gonna have their hands pretty full.  I think somebody should stay by the lifeboat to slam the door on the thing once it's inside, and to serve as... as...
 ໃຜກໍ່ຕາມທີ່ເຮັດການລ້ຽງສັດ ຈະມີມືເຕັມໄປແລ້ວ
 ຂ້ອຍຄິດວ່າຜູ້ໃດຜູ້ຫນຶ່ງຄວນຈະຢູ່ໃກ້ກັບເຮືອກູ້ໄພ
 
 837
-00:52:15,700 --> 00:52:21,300
-[HUNTER]
-Hey look, somebody has to have his hands free to lock the creature in the lifeboat!
+00:52:15,600 --> 00:52:17,700
+[ROBY]
+Isn't "bait" the word you used?
 ເຈົ້າໃຊ້ຄໍາວ່າ" bait" ບໍ?
 
 838
-00:52:21,800 --> 00:52:27,050
-[STANDARD]
-Yes, and maybe launch the boat and blow it too... if the others are injured.
+00:52:18,200 --> 00:52:23,800
+[HUNTER]
+Hey look, somebody has to have his hands free to lock the creature in the lifeboat!
 ເຮ້ ເບິ່ງ, ບາງຄົນຕ້ອງມີມືຟຣີ ເພື່ອກັກສັດໃນເຮືອກູ້ໄພ!
 
 839
-00:52:27,550 --> 00:52:29,550
-[ROBY]
-Who gets the privilege?
+00:52:24,300 --> 00:52:29,550
+[STANDARD]
+Yes, and maybe launch the boat and blow it too... if the others are injured.
 ແມ່ນແລ້ວ, ແລະອາດຈະປ່ອຍເຮືອ ແລະລະເບີດມັນເຊັ່ນກັນ
 ... ຖ້າຄົນອື່ນໄດ້ຮັບບາດເຈັບ.
 
 840
-00:52:30,050 --> 00:52:35,650
-[HUNTER]
-Just keep your finger off the button till she's way away from the ship, that's all.
+00:52:30,050 --> 00:52:32,050
+[ROBY]
+Who gets the privilege?
 ໃຜໄດ້ຮັບສິດທິພິເສດ?
 
 841
-00:52:36,150 --> 00:52:38,150
-[ROBY]
-Is it armed?
+00:52:32,550 --> 00:52:38,150
+[HUNTER]
+Just keep your finger off the button till she's way away from the ship, that's all.
 ພຽງແຕ່ຮັກສານິ້ວມືຂອງທ່ານຈາກປຸ່ມຈົນກວ່ານາງຈະໄກຈາກເຮືອ
 , ນັ້ນແມ່ນທັງຫມົດ.
 
 842
-00:52:38,650 --> 00:52:44,600
-[HUNTER]
-If you press the button right now, it will blow the whole nose of the ship off.
+00:52:38,650 --> 00:52:40,650
+[ROBY]
+Is it armed?
 ມັນຕິດອາວຸດບໍ?
 
 843
-00:52:45,100 --> 00:52:47,100
-[ROBY]
-Thanks for the thought.
+00:52:41,150 --> 00:52:47,100
+[HUNTER]
+If you press the button right now, it will blow the whole nose of the ship off.
 ຖ້າທ່ານກົດປຸ່ມນີ້ໃນເວລານີ້, ມັນຈະຖິ້ມດັງເຮືອທັງ ຫມົດ ອອກ.
 
 844
-00:52:47,600 --> 00:52:51,800
-[STANDARD]
-All right, Martin, we'll be in touch with you on the communicator.
-ຂອບໃຈສໍາລັບຄວາມຄິດ.
+00:52:47,600 --> 00:52:49,600
+[ROBY]
+Thanks for the thought.
+ຂອບໃຈທີ່ຄິດມາ.
 
 845
-00:52:52,300 --> 00:52:56,500
-[ROBY]
-And you'll let me know when you've got it coming this way...
+00:52:50,100 --> 00:52:54,300
+[STANDARD]
+All right, Martin, we'll be in touch with you on the communicator.
 ດີແລ້ວ, Martin, ພວກເຮົາຈະຕິດຕໍ່ຫາທ່ານຜ່ານເຄື່ອງສື່ສານ.
 
 846
-00:52:57,000 --> 00:53:03,000
-[STANDARD]
-And you stand aside while we drive it in, then shut the hatch, launch the boat, and --
+00:52:54,800 --> 00:52:59,000
+[ROBY]
+And you'll let me know when you've got it coming this way...
 ແລະທ່ານຈະບອກຂ້າພະເຈົ້າເມື່ອທ່ານໄດ້ຮັບມັນມາທາງນີ້...
 
 847
-00:53:03,500 --> 00:53:05,500
-[ROBY]
-Kablooey.
+00:52:59,500 --> 00:53:05,500
+[STANDARD]
+And you stand aside while we drive it in, then shut the hatch, launch the boat, and --
 ແລະທ່ານຢືນຂ້າງຄຽງ ໃນຂະນະທີ່ພວກເຮົາຂັບມັນເຂົ້າ
 , ຫຼັງຈາກນັ້ນປິດປະຕູ, ເປີດເຮືອ, ແລະ -
 
 848
-00:53:06,000 --> 00:53:09,500
-[STANDARD]
-Come on; we haven't much time, air is a factor.
+00:53:06,000 --> 00:53:08,000
+[ROBY]
+Kablooey.
 ຄາບລູອີ.
 
 849
-00:53:10,000 --> 00:53:15,600
+00:53:08,500 --> 00:53:12,000
 [STANDARD]
-We've got something on the tracker... got to be it, it's too big for the cat.
+Come on; we haven't much time, air is a factor.
 ມາ, ພວກເຮົາມີເວລາບໍ່ຫຼາຍ, ອາກາດແມ່ນປັດໃຈຫນຶ່ງ.
 
 850
-00:53:16,100 --> 00:53:18,100
-[HUNTER]
-It's coming from down there.
+00:53:12,500 --> 00:53:18,100
+[STANDARD]
+We've got something on the tracker... got to be it, it's too big for the cat.
 ພວກເຮົາມີບາງສິ່ງບາງຢ່າງໃນເຄື່ອງຕິດຕາມ...
 ມັນຕ້ອງເປັນມັນ, ມັນໃຫຍ່ເກີນໄປສໍາລັບແມວ.
 
 851
-00:53:18,600 --> 00:53:21,750
+00:53:18,600 --> 00:53:20,600
 [HUNTER]
-It must have stopped moving.  I'm not getting anything.
-ມັນມາຈາກບ່ອນນັ້ນ.
+It's coming from down there.
+ມັນກໍາລັງມາຈາກຂ້າງລຸ່ມນັ້ນ.
 
 852
-00:53:22,250 --> 00:53:25,050
-[STANDARD]
-Let me go first; you stay behind me.
+00:53:21,100 --> 00:53:24,250
+[HUNTER]
+It must have stopped moving.  I'm not getting anything.
 ມັນຕ້ອງໄດ້ຢຸດການເຄື່ອນໄຫວ ຂ້ອຍບໍ່ໄດ້ຮັບຫຍັງເລີຍ
 
 853
-00:53:25,550 --> 00:53:27,550
-[HUNTER]
-The flamethrower!
+00:53:24,750 --> 00:53:27,550
+[STANDARD]
+Let me go first; you stay behind me.
 ໃຫ້ຂ້ອຍໄປກ່ອນ, ເຈົ້າຢູ່ເບື້ອງຫຼັງຂ້ອຍ.
 
 854
-00:53:28,050 --> 00:53:30,500
-[STANDARD]
-I can't, the acid will pour out!
+00:53:28,050 --> 00:53:30,050
+[HUNTER]
+The flamethrower!
 ລູກຍິງໄຟ!
 
 855
-00:53:31,000 --> 00:53:33,000
-[ROBY]
-Hello?  Standard?  Hunter?
+00:53:30,550 --> 00:53:33,000
+[STANDARD]
+I can't, the acid will pour out!
 ຂ້ອຍບໍ່ສາມາດ, ອາຊິດຈະໄຫຼອອກ!
 
 856
 00:53:33,500 --> 00:53:35,500
-[STANDARD]
-Kill me...
+[ROBY]
+Hello?  Standard?  Hunter?
 ສະບາຍດີ? ມາດຕະຖານ? Hunter?
 
 857
-00:53:36,000 --> 00:53:38,100
-[ROBY]
-What did it do to you?
+00:53:36,000 --> 00:53:38,000
+[STANDARD]
+Kill me...
 ຂ້າຂ້ອຍ...
 
 858
-00:53:38,600 --> 00:53:40,600
-[STANDARD]
-Look...
+00:53:38,500 --> 00:53:40,600
+[ROBY]
+What did it do to you?
 ມັນເຮັດຫຍັງກັບເຈົ້າ?
 
 859
-00:53:41,100 --> 00:53:43,200
+00:53:41,100 --> 00:53:43,100
 [STANDARD]
-That was Melkonis... it ate Hunter...
+Look...
 ເບິ່ງ...
 
 860
-00:53:43,700 --> 00:53:45,800
-[ROBY]
-I'll get you out of there.
+00:53:43,600 --> 00:53:45,700
+[STANDARD]
+That was Melkonis... it ate Hunter...
 ນັ້ນແມ່ນ Melkonis... ມັນໄດ້ກິນ Hunter...
 
 861
-00:53:46,300 --> 00:53:48,300
-[STANDARD]
-No... don't...
+00:53:46,200 --> 00:53:48,300
+[ROBY]
+I'll get you out of there.
 ຂ້ອຍຈະເອົາເຈົ້າອອກຈາກບ່ອນນັ້ນ.
 
 862
-00:53:48,800 --> 00:53:52,650
-[ROBY]
-But I can save you -- get you to the Autodoc!
+00:53:48,800 --> 00:53:50,800
+[STANDARD]
+No... don't...
 ບໍ່... ຢ່າ...
 
 863
-00:53:53,150 --> 00:53:55,950
-[STANDARD]
-No good... it's eaten too much of me...
+00:53:51,300 --> 00:53:55,150
+[ROBY]
+But I can save you -- get you to the Autodoc!
 ແຕ່ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ - ນໍາເຈົ້າໄປຫາ Autodoc!
 
 864
-00:53:56,450 --> 00:53:58,450
-[ROBY]
-What can I do?
+00:53:55,650 --> 00:53:58,450
+[STANDARD]
+No good... it's eaten too much of me...
 ບໍ່ດີ... ມັນໄດ້ກິນຫຼາຍເກີນໄປຂອງຂ້າພະເຈົ້າ...
 
 865
 00:53:58,950 --> 00:54:00,950
-[STANDARD]
-Kill me...
+[ROBY]
+What can I do?
 ຂ້ອຍເຮັດຫຍັງໄດ້?
 
 866
 00:54:01,450 --> 00:54:03,450
-[ROBY]
-Kitty go bye-bye.
+[STANDARD]
+Kill me...
 ຂ້າຂ້ອຍ...
 
 867
-00:54:03,950 --> 00:54:09,950
+00:54:03,950 --> 00:54:05,950
 [ROBY]
-What'll it be, Kitty?  Here -- how about some Tacitum-35, ten kilos of it.  This'll buy us an island on some nice planet.
+Kitty go bye-bye.
 Kitty ໄປ bye-bye.
 
 868
-00:54:10,450 --> 00:54:16,450
-[COMPUTER]
-Attention!  The cooling units for the stardrive engines are not functioning!  Engines will overload in 4 minutes, 50 seconds!  Attention!
+00:54:06,450 --> 00:54:12,450
+[ROBY]
+What'll it be, Kitty?  Here -- how about some Tacitum-35, ten kilos of it.  This'll buy us an island on some nice planet.
 ຈະເປັນແນວໃດ, Kitty? ນີ້ແມ່ນ -- ແນວໃດກ່ຽວກັບ Tacitum-35
 , ສິບກິໂລຂອງມັນ. ນີ້ຈະຊື້ພວກເຮົາເກາະໃນບາງດາວເຄາະທີ່ງາມ.
 
 869
-00:54:16,950 --> 00:54:21,850
+00:54:12,950 --> 00:54:18,950
 [COMPUTER]
-Attention!  Engines will overheat and main core will melt in 4 minutes, 30 seconds!
+Attention!  The cooling units for the stardrive engines are not functioning!  Engines will overload in 4 minutes, 50 seconds!  Attention!
 ຄວາມລະມັດລະວັງ! ຫນ່ວຍເຢັນສໍາລັບເຄື່ອງຈັກ stardrive
 ບໍ່ເຮັດວຽກ! ເຄື່ອງຈັກຈະ overload ໃນ 4 ນາທີ, 50 ວິນາທີ!
 
 870
-00:54:22,350 --> 00:54:24,800
+00:54:19,450 --> 00:54:24,350
 [COMPUTER]
-Attention!  Engines will overload in 4 minutes!
+Attention!  Engines will overheat and main core will melt in 4 minutes, 30 seconds!
 ຄວາມລະມັດລະວັງ ເຄື່ອງຈັກຈະຮ້ອນເກີນໄປ
 ແລະຫົວໃຈຕົ້ນຕໍຈະລະລາຍໃນ 4 ນາທີ, 30 ວິນາທີ!
 
 871
-00:54:25,300 --> 00:54:28,450
+00:54:24,850 --> 00:54:27,300
 [COMPUTER]
-Attention!  Engines will overload in 3 minutes, 30 seconds!
+Attention!  Engines will overload in 4 minutes!
 ລະມັດລະວັງ! ເຄື່ອງຈັກຈະຖືກໂຫຼດເກີນໄປໃນ 4 ນາທີ!
 
 872
-00:54:28,950 --> 00:54:31,400
+00:54:27,800 --> 00:54:30,950
 [COMPUTER]
-Attention!  Engines will overload in 3 minutes!
+Attention!  Engines will overload in 3 minutes, 30 seconds!
 ລະມັດລະວັງ ເຄື່ອງຈັກຈະຖືກໂຫຼດເກີນໄປໃນ 3 ນາທີ, 30 ວິນາທີ!
 
 873
-00:54:31,900 --> 00:54:35,750
-[ROBY]
-Computer!  I've turned all the cooling units back on!  What's wrong?
+00:54:31,450 --> 00:54:33,900
+[COMPUTER]
+Attention!  Engines will overload in 3 minutes!
 ລະມັດລະວັງ! ເຄື່ອງຈັກຈະຖືກໂຫຼດເກີນໄປໃນ 3 ນາທີ!
 
 874
-00:54:36,250 --> 00:54:42,250
-[COMPUTER]
-The reaction has proceeded too far. The core has begun to melt.  Engines will overload in 2 minutes, 35 seconds.
+00:54:34,400 --> 00:54:38,250
+[ROBY]
+Computer!  I've turned all the cooling units back on!  What's wrong?
 ຄອມພິວເຕີ ຂ້ອຍເປີດເຄື່ອງເຮັດຄວາມເຢັນທັງ ຫມົດ ຄືນແລ້ວ ມີຫຍັງບໍ່ດີ?
 
 875
-00:54:42,750 --> 00:54:45,200
+00:54:38,750 --> 00:54:44,750
 [COMPUTER]
-Attention!  Engines will overload in 2 minutes!
+The reaction has proceeded too far. The core has begun to melt.  Engines will overload in 2 minutes, 35 seconds.
 ການປະຕິກິລິຍາໄດ້ກ້າວໄປໄກເກີນໄປ ຫົວໃຈໄດ້ເລີ່ມລະລາຍ
 ເຄື່ອງຈັກຈະຖືກໂຫຼດເກີນໄປໃນ 2 ນາທີ, 35 ວິນາທີ
 
 876
-00:54:45,700 --> 00:54:48,150
+00:54:45,250 --> 00:54:47,700
 [COMPUTER]
-Attention!  Engines will explode in 90 seconds!
+Attention!  Engines will overload in 2 minutes!
 ລະວັງ! ເຄື່ອງຈັກຈະຖືກໂຫຼດເກີນໄປໃນ 2 ນາທີ!
 
 877
-00:54:48,650 --> 00:54:51,100
+00:54:48,200 --> 00:54:50,650
 [COMPUTER]
-Attention!  Engines will explode in 60 seconds!
+Attention!  Engines will explode in 90 seconds!
 ລະວັງ, ເຄື່ອງຈັກຈະລະເບີດພາຍໃນ 90 ວິນາທີ!
 
 878
-00:54:51,600 --> 00:54:54,400
-[ROBY]
-Try a little of this, you fucking bastard.
+00:54:51,150 --> 00:54:53,600
+[COMPUTER]
+Attention!  Engines will explode in 60 seconds!
 ລະວັງ, ເຄື່ອງຈັກຈະລະເບີດພາຍໃນ 60 ວິນາທີ!
 
 879
-00:54:54,900 --> 00:55:00,900
+00:54:54,100 --> 00:54:56,900
 [ROBY]
-... So it looks like I'll make it back to the Colonies on schedule after all.  I should be to the frontier in another 250 years or so, and then with a little luck the network will pick me up.  I'm not as rich as I was a couple days ago -- but I'm not exactly broke either. Incidentally, I did manage to salvage one souvenir out of this whole mess.
+Try a little of this, you fucking bastard.
 ທົດລອງເບິ່ງເລັກນ້ອຍ, ເຈົ້າຊົ່ວຮ້າຍ.
 
 880
-00:55:01,400 --> 00:55:07,400
-[ROBY]
-Poor Yorick here should go at least partway toward proving I'm not a crank.  I wish it was him we'd met in the first place -- things might have turned out different.
+00:54:57,400 --> 00:54:59,500
+["RAM JETS"]
+EXTERIOR - LIFEBOAT - OUTER SPACE
 ພາຍນອກ - ເຮືອລອດ - ອະວະກາດ
 
 881
-00:55:07,900 --> 00:55:13,900
+00:55:00,000 --> 00:55:06,000
 [ROBY]
-This is Martin Roby, executive officer, last survivor of the commercial vessel SNARK, signing off. Come on, cat, let's go to sleep.
+... So it looks like I'll make it back to the Colonies on schedule after all.  I should be to the frontier in another 250 years or so, and then with a little luck the network will pick me up.  I'm not as rich as I was a couple days ago -- but I'm not exactly broke either. Incidentally, I did manage to salvage one souvenir out of this whole mess.
 ...ເບິ່ງຄືວ່າຂ້ອຍຈະກັບຄືນໄປຄໍລໍເນຍຕາມແຜນການໃນທີ່ສຸດ. ຂ້ອຍຄວນຈະຢູ່ຊາຍແດນອີກ 250 ປີ ຫຼືປະມານນັ້ນ, ແລະຫຼັງຈາກນັ້ນ ຖ້າມີໂຊກດີຫນ້ອຍຫນຶ່ງ ເຄືອຂ່າຍຈະເອົາຂ້ອຍ.
 ຂ້ອຍບໍ່ອຸດົມສົມບູນເທົ່າທີ່ຂ້ອຍມີສອງສາມມື້ກ່ອນ - ແຕ່ຂ້ອຍຍັງບໍ່ທັນເສັຽເງິນເລີຍ. ໃນທາງກົງກັນຂ້າມ, ຂ້ອຍກໍສາມາດກູ້ເອົາຂອງຂວັນທີ່ລະນຶກນຶ່ງ ອອກຈາກຄວາມວຸ້ນວາຍທັງຫມົດນີ້ໄດ້.
+
+882
+00:55:06,500 --> 00:55:12,500
+[ROBY]
+Poor Yorick here should go at least partway toward proving I'm not a crank.  I wish it was him we'd met in the first place -- things might have turned out different.
+ໂຊກບໍ່ດີ Yorick ທີ່ຢູ່ບ່ອນນີ້ ຄວນໄປຢ່າງຫນ້ອຍທາງຫນຶ່ງ ເພື່ອພິສູດໃຫ້ເຫັນວ່າ ຂ້ອຍບໍ່ແມ່ນຄົນຫຼອກລວງ.
+ຂ້ອຍຢາກວ່າ ມັນຈະເປັນລາວທີ່ພວກເຮົາໄດ້ພົບກັນໃນສະຖານທີ່ທໍາອິດ-- ສິ່ງຕ່າງໆອາດຈະເກີດຂຶ້ນຢ່າງແຕກຕ່າງກັນ.
+
+883
+00:55:13,000 --> 00:55:19,000
+[ROBY]
+This is Martin Roby, executive officer, last survivor of the commercial vessel SNARK, signing off. Come on, cat, let's go to sleep.
+ນີ້ແມ່ນ Martin Roby, ເຈົ້າຫນ້າທີ່ບໍລິຫານ,
+ຜູ້ລອດຊີວິດຄົນສຸດທ້າຍຂອງເຮືອການຄ້າ SNARK, ເຊັນລົງ.
 

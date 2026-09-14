@@ -58,7 +58,7 @@ But not for you, Paulie, that's the thing. Those are for the staff.
 00:00:41,400 --> 00:00:44,900
 [PAUL]
 I just borrowed it. Don't see what harm it does.
-ຂ້ອຍພຽງແຕ່ກູ້ຢືມມັນ. ຢ່າເຫັນວ່າມັນເຮັດໃຫ້ເກີດຄວາມເສຍຫາຍຫຍັງ.
+ຂ້ອຍຫາກໍ່ກູ້ຢືມແລ້ວ. ບໍ່ເຫັນວ່າມັນຈະເຮັດໃຫ້ຫຍັງຮ້າຍແຮງບໍ່.
 
 11
 00:00:45,400 --> 00:00:51,400
@@ -313,7 +313,7 @@ Christ. Gimme a minute.
 00:03:20,950 --> 00:03:22,950
 [BRUTAL]
 You all right in there?
-ເຈົ້າດີຢູ່ບ່ອນນັ້ນບໍ?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 51
 00:03:23,450 --> 00:03:25,550
@@ -325,7 +325,7 @@ For a man pissing razor blades.
 00:03:26,050 --> 00:03:29,900
 [BRUTAL]
 You should'a took the day off, gone to see the doctor.
-ເຈົ້າຄວນພັກຜ່ອນມື້ນີ້, ໄປພົບຫມໍ.
+ເຈົ້າຕ້ອງໄດ້ພັກມື້ນີ້, ໄປເບິ່ງໝໍ.
 
 53
 00:03:30,400 --> 00:03:36,400
@@ -904,7 +904,7 @@ Well, he'll get his chance then, won't he? Maybe then he'll be satisfied and mov
 00:10:04,750 --> 00:10:06,750
 [PAUL]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 144
 00:10:07,250 --> 00:10:09,250
@@ -929,7 +929,7 @@ You give Melinda my love, okay? I bet that X-ray turns out to be nothing at all.
 00:10:18,800 --> 00:10:20,800
 [JAN]
 Paul?
-ໂປລ?
+ໂປລແມ່ນບໍ່?
 
 148
 00:10:21,300 --> 00:10:23,300
@@ -1754,7 +1754,7 @@ Had me a young wife when I was eighteen. Spent our first summer in the mountains
 00:19:26,100 --> 00:19:28,200
 [PAUL]
 It'll be fine. You'll do fine.
-ມັນຈະດີດີ. ເຈົ້າຈະເຮັດໄດ້ດີ.
+ບໍ່ເປັນຫຍັງ ເຈົ້າຈະບໍ່ເປັນຫຍັງເລີຍ
 
 278
 00:19:28,700 --> 00:19:30,700
@@ -2001,7 +2001,7 @@ Yes, that's the one. Only Del says his name is Mr. Jingles.
 00:22:05,050 --> 00:22:07,050
 [PERCY]
 Is that so?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 317
 00:22:07,550 --> 00:22:13,550
@@ -2053,7 +2053,7 @@ Uh. So you know. You got a new prisoner coming in tomorrow. William Wharton. You
 00:22:41,250 --> 00:22:43,250
 [PAUL]
 Hal?
-ຮາລ?
+ແຮລ?
 
 325
 00:22:43,750 --> 00:22:46,200
@@ -2362,7 +2362,7 @@ Boss, please. I got to whisper in your ear.
 00:26:11,600 --> 00:26:14,750
 [DEL]
 Boss? You know you not s'pose to do dat.
-ເຈົ້າຫນ້າທີ່? ເຈົ້າຮູ້ວ່າເຈົ້າບໍ່ຕັ້ງໃຈເຮັດສິ່ງນັ້ນ.
+ເຈົ້າຮູ້ບໍ່ວ່າເຈົ້າບໍ່ຄວນເຮັດແບບນັ້ນບໍ່?
 
 374
 00:26:15,250 --> 00:26:18,750
@@ -2816,7 +2816,7 @@ It's from my missus. She wanted to thank you.
 00:30:54,250 --> 00:30:56,250
 [COFFEY]
 Thank me for what?
-ຂອບໃຈຂ້ອຍຫຍັງ?
+ຂອບໃຈຫຍັງແດ່?
 
 446
 00:30:56,750 --> 00:30:58,750
@@ -2840,7 +2840,7 @@ Ohhh.  Was your missus pleased?
 00:31:04,250 --> 00:31:06,250
 [PAUL]
 Several times.
-ຫຼາຍຄັ້ງ.
+ຫຼາຍເທື່ອແລ້ວ.
 
 450
 00:31:06,750 --> 00:31:08,750
@@ -2895,7 +2895,7 @@ Well. Fine. I think I'll keep the rest, then.
 00:31:33,750 --> 00:31:36,200
 [PAUL]
 Courtesy of the gentleman across the way.
-ໂດຍຄວາມກຽດຊັງຈາກຜູ້ຊາຍທາງກົງກັນຂ້າມ.
+ສະບາຍດີຈາກຜູ້ຊາຍຄົນຂ້າມທາງ.
 
 459
 00:31:36,700 --> 00:31:41,600
@@ -3367,7 +3367,7 @@ Dat's it! Dat's da place for Mr. Jingles! You gonna be a circus mouse after all!
 00:36:55,150 --> 00:36:57,150
 [BRUTAL]
 Percy, no!
-ເປີສຊີ, ບໍ່!
+ເປີຊີ ບໍ່!
 
 533
 00:36:57,650 --> 00:37:02,200
@@ -3847,7 +3847,7 @@ Kill it!
 00:42:28,550 --> 00:42:31,700
 [BRUTAL]
 You do it. You're running the show, ain't you?
-ເຈົ້າເຮັດມັນ. ເຈົ້າ ກໍາ ລັງຈັດການລາຍການ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ ເຈົ້າແມ່ນຜູ້ຈັດການ, ແມ່ນບໍ່?
 
 607
 00:42:32,200 --> 00:42:38,200
@@ -3989,7 +3989,7 @@ padded ໄດ້.
 00:44:08,050 --> 00:44:10,050
 [COFFEY]
 Poor Del. Poor old Del.
-ເດລທີ່ທຸກຍາກ. ເດລເກົ່າທີ່ທຸກຈົນ.
+ສະບາຍດີ ເດລ ຜູ້ເຖົ້າທີ່ທຸກຍາກເດລ.
 
 629
 00:44:10,550 --> 00:44:13,350
@@ -4034,7 +4034,7 @@ Ran down there. Don't think he'll be back.  Awful tired now, boss. Dog tired.
 00:44:35,900 --> 00:44:37,900
 [PAUL]
 Me too, John. Me too.
-ຂ້ອຍຄືກັນ, ຈອນ. ຂ້ອຍຄືກັນ.
+ແມ່ນແລ້ວ, ຈອນ. ແມ່ນແລ້ວ.
 
 636
 00:44:38,400 --> 00:44:40,400
@@ -4502,7 +4502,7 @@ I won't. And you can't make me.
 00:49:34,450 --> 00:49:36,900
 [BRUTAL]
 You're dead wrong about that, you know.
-ເຈົ້າຜິດຢ່າງແທ້ຈິງກ່ຽວກັບເລື່ອງນັ້ນ, ເຈົ້າຮູ້ແລ້ວ.
+ເຈົ້າບໍ່ຖືກຕ້ອງເລີຍ, ເຈົ້າຮູ້ບໍ່.
 
 710
 00:49:37,400 --> 00:49:43,400
@@ -4534,7 +4534,7 @@ You would think that.
 00:49:55,100 --> 00:49:57,200
 [BRUTAL]
 You'll get 'em back, don't worry.
-ເຈົ້າຈະເອົາພວກມັນຄືນ, ຢ່າກັງວົນ.
+ເຈົ້າຈະໄດ້ພວກມັນກັບມາບໍ່ຕ້ອງຫ່ວງເລີຍ.
 
 715
 00:49:57,700 --> 00:50:03,700
@@ -4617,7 +4617,7 @@ Where you fink you're goin'?
 00:50:51,550 --> 00:50:53,550
 [COFFEY]
 You're a bad man.
-ເຈົ້າເປັນຄົນຮ້າຍ.
+ເຈົ້າແມ່ນຄົນບໍ່ດີ.
 
 728
 00:50:54,050 --> 00:50:56,150
@@ -4643,7 +4643,7 @@ Niggers oughtta have they own 'lectric chair. White man oughtn't havta sit in no
 00:51:08,900 --> 00:51:10,900
 [COFFEY]
 He's a bad man.
-ລາວເປັນຄົນຮ້າຍ.
+ແມ່ນແລ້ວ, ລາວແມ່ນຄົນບໍ່ດີ.
 
 732
 00:51:11,400 --> 00:51:16,300
@@ -4719,7 +4719,7 @@ The trees are growing sparser, opening onto fields. MORE FIREFLIES are flitting 
 00:51:56,950 --> 00:51:58,950
 [BRUTAL]
 How far is it?
-ມັນຢູ່ໄກປານໃດ?
+ຫ່າງໄກບໍ່?
 
 744
 00:51:59,450 --> 00:52:01,450
@@ -4979,7 +4979,7 @@ John Coffey, ma'am. Like the drink, only not spelt the same.
 00:54:38,300 --> 00:54:40,300
 [COFFEY]
 Ma'am?
-ແມ່?
+ສະບາຍດີ?
 
 786
 00:54:40,800 --> 00:54:42,800
@@ -5648,7 +5648,7 @@ Because he's a six-foot-eight-inch baldheaded black man with barely enough brain
 01:02:14,300 --> 01:02:17,800
 [JAN]
 Do you mean to kill him, you cowards? Do you?
-ເຈົ້າຕັ້ງໃຈທີ່ຈະຂ້າລາວບໍ, ພວກເຈົ້າເປັນຄົນກ້າຫານ? ເຈົ້າເຮັດບໍ?
+ເຈົ້າໝາຍຄວາມວ່າຈະຂ້າລາວບໍ່, ພວກເຈົ້າແມ່ນຄົນຢ້ານກົວ? ແມ່ນບໍ່?
 
 891
 01:02:18,300 --> 01:02:24,300

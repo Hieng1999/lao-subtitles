@@ -208,7 +208,7 @@ Feck  you!  All of you!
 00:02:03,250 --> 00:02:05,250
 [ELAINE]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 35
 00:02:05,750 --> 00:02:07,750
@@ -354,7 +354,7 @@ The other kids make fun of him because of How young he looks.  Nobody includes h
 00:03:19,600 --> 00:03:21,600
 [WILLIAM]
 They do?
-ພວກເຂົາເຮັດບໍ?
+ແມ່ນບໍ່?
 
 59
 00:03:22,100 --> 00:03:24,100
@@ -372,7 +372,7 @@ A Narcotics Officer!
 00:03:27,100 --> 00:03:29,100
 [ELAINE]
 Well what's wrong with that?
-ດີຫຍັງຜິດກັບມັນ?
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນຫຍັງບໍ່ດີ?
 
 62
 00:03:29,600 --> 00:03:35,600
@@ -442,7 +442,7 @@ And when he rebels in some strange and odd way, don't blame me.
 00:04:15,350 --> 00:04:17,350
 [WILLIAM]
 ... am I?
-ຂ້ອຍເປັນບໍ?
+ແມ່ນບໍ່?
 
 73
 00:04:17,850 --> 00:04:20,650
@@ -543,7 +543,7 @@ Well, somebody's gotta be normal around here!
 00:05:16,150 --> 00:05:18,150
 [WILLIAM]
 Eleven.
-ສິບຫນຶ່ງ.
+ສິບໜຶ່ງ.
 
 89
 00:05:18,650 --> 00:05:24,250
@@ -759,7 +759,7 @@ Well, alright.  It's been nice to meet you.  I'll see you around.  Keep sending 
 00:07:27,300 --> 00:07:29,300
 [WILLIAM]
 Okay.  See you.
-ດີແລ້ວ. ພົບກັນ.
+ແມ່ນແລ້ວ. ສະບາຍດີ.
 
 123
 00:07:29,800 --> 00:07:33,650
@@ -791,7 +791,7 @@ And that's what they want!  And it's happening right now.  I'm telling you, you'
 00:07:49,650 --> 00:07:51,650
 [WILLIAM]
 An assignment.
-ຫນ້າທີ່.
+ແມ່ນການມອບໝາຍ.
 
 128
 00:07:52,150 --> 00:07:56,350
@@ -1603,7 +1603,7 @@ Later Jeff!  See you, Dick.  Larry. Ed.  Mick, Gregg, Red Dog, Scully, Frosty, E
 00:15:55,900 --> 00:15:58,350
 [ROADIES			   DICK]
 Laterrrr!			 We'll see you down the line.
-ຫຼັງຈາກນັ້ນ! ພວກເຮົາຈະເຫັນເຈົ້າລົງໃນເສັ້ນທາງ.
+ສະບາຍດີ! ພວກເຮົາຈະພົບກັນໃນໄລຍະຕໍ່ໄປ.
 
 258
 00:15:58,850 --> 00:16:00,850
@@ -1702,7 +1702,7 @@ Hey Darryl.
 00:16:53,400 --> 00:16:55,400
 [DARRYL]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 274
 00:16:55,900 --> 00:17:01,900
@@ -1981,7 +1981,7 @@ I'm retired.  And don't argue with me!
 00:19:32,300 --> 00:19:34,300
 [ROADIE # 3]
 Again?
-ອີກເທື່ອຫນຶ່ງບໍ?
+ອີກບໍ່?
 
 319
 00:19:34,800 --> 00:19:36,800
@@ -2424,7 +2424,7 @@ Is it time for me to say something?
 00:23:54,400 --> 00:23:56,400
 [MRS. DEEGAN]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 390
 00:23:56,900 --> 00:23:58,900
@@ -2538,7 +2538,7 @@ C'mon, Doris!  Darling Bus.  You can make it!
 00:25:06,400 --> 00:25:08,400
 [PENNY]
 Gotcha.
-ເຈົ້າໄດ້ແລ້ວ.
+ແມ່ນແລ້ວ.
 
 408
 00:25:08,900 --> 00:25:10,900
@@ -2739,7 +2739,7 @@ Me too?
 00:27:09,950 --> 00:27:11,950
 [WILLIAM]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 440
 00:27:12,450 --> 00:27:15,600
@@ -2771,7 +2771,7 @@ I was the one who told him what to tattoo on his fingers, I was the one who made
 00:27:31,600 --> 00:27:33,600
 [WILLIAM]
 Charles.  C.  Swoop.
-ແຊລສ໌. ຊີ ສວອບ.
+ແຊລສ໌ C. Swoop.
 
 445
 00:27:34,100 --> 00:27:36,100
@@ -3180,7 +3180,7 @@ So your question you asked me.  I think about It every fucking night.  The "busi
 00:32:21,050 --> 00:32:23,050
 [WILLIAM]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 508
 00:32:23,550 --> 00:32:29,550
@@ -3244,7 +3244,7 @@ How would you describe your role in Stillwater?  What is the chemical that you a
 00:33:07,600 --> 00:33:09,600
 [LARRY]
 I'm the bass-player.
-ຂ້ອຍເປັນນັກຫຼິ້ນບາສ.
+ຂ້ອຍແມ່ນນັກບາສ.
 
 518
 00:33:10,100 --> 00:33:15,000
@@ -3256,7 +3256,7 @@ Right.  And when you take that away... what would be missing?  Stylistically? Wh
 00:33:15,500 --> 00:33:17,500
 [LARRY]
 The bass?
-ບາສບໍ?
+ແບສບໍ່?
 
 520
 00:33:18,000 --> 00:33:21,150
@@ -3406,7 +3406,7 @@ You should give him a break.  There are real problems in the band.   Off the rec
 00:34:47,800 --> 00:34:49,800
 [WILLIAM]
 What problems?
-ບັນຫາໃດ?
+ບັນຫາຫຍັງແດ່?
 
 544
 00:34:50,300 --> 00:34:55,900
@@ -3450,13 +3450,13 @@ What do you love about music?
 00:35:13,100 --> 00:35:15,100
 [JEFF]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 551
 00:35:15,600 --> 00:35:17,600
 [WILLIAM]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 552
 00:35:18,100 --> 00:35:21,950
@@ -3594,7 +3594,7 @@ Are you doing coke again?
 00:36:44,950 --> 00:36:46,950
 [JEFF]
 Oh yeah.  All the time.
-ໂອ້ ແມ່ນແລ້ວ. ຕະຫຼອດເວລາ.
+ແມ່ນແລ້ວ ສະເໝີ.
 
 574
 00:36:47,450 --> 00:36:51,650
@@ -3729,7 +3729,7 @@ Well, my dad died of a heart attack and my sister believes that my Mom is so int
 00:38:15,800 --> 00:38:17,800
 [RUSSELL]
 Okay, that's good.  That's enough.
-ດີແລ້ວ, ນັ້ນດີ. ນັ້ນພຽງພໍ.
+ແມ່ນແລ້ວ, ບໍ່ເປັນຫຍັງ. ພຽງພໍແລ້ວ.
 
 595
 00:38:18,300 --> 00:38:21,100
@@ -4319,13 +4319,13 @@ Can we help it if we like having you around!
 00:44:18,500 --> 00:44:20,500
 [PENNY]
 Rock and roll!
-ໂຣກນ໌ ໂຣລ!
+ໂຣກແອນໂຣລ!
 
 689
 00:44:21,000 --> 00:44:23,000
 [WILLIAM]
 Rock and roll.
-ໂຣກນ໌ ໂຣລ.
+ໂຣກແອນໂຣລ
 
 690
 00:44:23,500 --> 00:44:25,500
@@ -4637,7 +4637,7 @@ That's Mick - he's with The Who.  That's John - with J. Geils.  And that's Richa
 00:47:37,200 --> 00:47:39,200
 [THE WHEEL]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 739
 00:47:39,700 --> 00:47:45,700
@@ -5553,7 +5553,7 @@ This is Craig, your pilot.  It appears we've caught the edge of that electrical 
 00:57:25,800 --> 00:57:27,800
 [RUSSELL]
 Rock and roll.
-ໂຣກນ໌ ໂຣລ.
+ໂຣກແອນໂຣລ
 
 884
 00:57:28,300 --> 00:57:34,300
@@ -6181,7 +6181,7 @@ Well, they haven't talked to Russell - he can always deny the key stuff to the f
 01:04:04,550 --> 01:04:06,550
 [JEFF]
 Is that true?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 983
 01:04:07,050 --> 01:04:13,000

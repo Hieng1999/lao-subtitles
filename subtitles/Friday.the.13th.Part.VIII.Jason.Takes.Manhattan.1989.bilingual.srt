@@ -226,7 +226,7 @@ All right, I'll check it out.
 00:02:15,100 --> 00:02:17,100
 [SUZY]
 Jimmy...?
-ຈິມມີ...?
+ຈິມມີ?
 
 38
 00:02:17,600 --> 00:02:19,600
@@ -343,7 +343,7 @@ Which cabin is Rennie in, Mr. McCulloch?
 00:03:23,900 --> 00:03:25,900
 [MCCULLOCH]
 Rennie's not coming.
-ຣັນນີຈະບໍ່ມາ.
+ແຣນນີບໍ່ມາເລີຍ.
 
 57
 00:03:26,400 --> 00:03:28,400
@@ -368,7 +368,7 @@ Sean -- where the hell have you been? We're already into early departure protoco
 00:03:40,800 --> 00:03:42,800
 [SEAN]
 Be right up, Dad.
-ຂ້ອຍຈະຂຶ້ນທັນທີ, ພໍ່.
+ສະບາຍດີ, ພໍ່.
 
 61
 00:03:43,300 --> 00:03:46,100
@@ -417,7 +417,7 @@ Did you know that I'm giving up teaching?
 00:04:07,900 --> 00:04:09,900
 [RENNIE]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 69
 00:04:10,400 --> 00:04:16,350
@@ -511,7 +511,7 @@ I hear the crew members are cute guys in their twenties.
 00:05:08,150 --> 00:05:10,150
 [EVA]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 84
 00:05:10,650 --> 00:05:15,550
@@ -602,7 +602,7 @@ All right. But if it mysteriously disappears en route, I'll have you sent back h
 00:06:08,400 --> 00:06:10,400
 [TAMARA]
 Perfectly.
-ດີເລີດ.
+ແມ່ນແລ້ວ.
 
 98
 00:06:10,900 --> 00:06:12,900
@@ -1168,7 +1168,7 @@ You're talking to the prom queen, Eva. Do you really think I'm going to risk get
 00:11:46,100 --> 00:11:48,100
 [EVA]
 I guess not.
-ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ.
+ຂ້ອຍຄິດບໍ່.
 
 189
 00:11:48,600 --> 00:11:54,600
@@ -1669,7 +1669,7 @@ Wayne, you're an asshole.
 00:16:47,000 --> 00:16:49,100
 [RENNIE]
 It's not real, it's not real...
-ມັນບໍ່ແມ່ນຈິງ, ມັນບໍ່ແມ່ນແທ້...
+ບໍ່ແມ່ນຄວາມຈິງ, ບໍ່ເປັນຄວາມຈິງ...
 
 269
 00:16:49,600 --> 00:16:51,600
@@ -1935,7 +1935,7 @@ Please...can anybody out there hear me??
 00:19:25,150 --> 00:19:27,150
 [MILES]
 Sean, what's going on?
-ຊອນ, ເກີດຫຍັງຂຶ້ນ?
+ແຊນ, ມີຫຍັງເກີດຂຶ້ນບໍ່?
 
 312
 00:19:27,650 --> 00:19:29,650
@@ -2238,13 +2238,13 @@ Toby?
 00:22:15,450 --> 00:22:17,550
 [EVA]
 Tamara? Are you around here anywhere?
-ທາມາຣາ? ເຈົ້າຢູ່ບ່ອນໃດຢູ່ບ່ອນນີ້ບໍ?
+ທາມາຣາ ເຈົ້າຢູ່ໃກ້ໆນີ້ບໍ່?
 
 361
 00:22:18,050 --> 00:22:20,050
 [EVA]
 Tamara?
-ທາມາຣາ?
+ທາມາຮໍ?
 
 362
 00:22:20,550 --> 00:22:23,350
@@ -2432,7 +2432,7 @@ He's the son of the Captain, for Chrissakes. You'd think he'd be able to operate
 00:24:08,150 --> 00:24:10,150
 [MCCULLOCH]
 Well?
-ດີບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 392
 00:24:10,650 --> 00:24:12,650
@@ -2474,7 +2474,7 @@ There's only one person who needs to see it. And I'm going to find him.
 00:24:32,250 --> 00:24:34,250
 [MISS VAN DEUSEN]
 What about the fire??
-ແລະໄຟແນວໃດ??
+ຈະເປັນແນວໃດກັບໄຟເດີ້?
 
 399
 00:24:34,750 --> 00:24:37,550
@@ -2559,7 +2559,7 @@ It's gonna be okay...
 00:25:15,400 --> 00:25:17,400
 [RENNIE]
 What is it??
-ມັນເປັນຫຍັງ??
+ແມ່ນຫຍັງເດີ້?
 
 413
 00:25:17,900 --> 00:25:19,900
@@ -2706,7 +2706,7 @@ Jason Voorhees is dead!!
 00:26:29,900 --> 00:26:31,900
 [MCCULLOCH]
 Dear Christ...
-ພຣະຄຣິດທີ່ຮັກແພງ...
+ສະບາຍດີ ພຣະຄຣິດ...
 
 437
 00:26:32,400 --> 00:26:34,850
@@ -3082,7 +3082,7 @@ My apologies, Miss. My unit's right over here.
 00:29:40,600 --> 00:29:42,600
 [SEAN]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 499
 00:29:43,100 --> 00:29:45,100
@@ -3347,7 +3347,7 @@ What's wrong, boy?
 00:32:10,500 --> 00:32:12,500
 [TICKET TAKER]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 542
 00:32:13,000 --> 00:32:15,000

@@ -246,7 +246,7 @@ Yeah!  Who! BANKY signs the book of another COLLECTOR.
 00:03:23,050 --> 00:03:25,050
 [COLLECTOR]
 So you draw this!
-ສະນັ້ນເຈົ້າຈຶ່ງແຕ້ມສິ່ງນີ້!
+ສະບາຍດີ ເຈົ້າແຕ້ມແບບນີ້ເດີ້!
 
 39
 00:03:25,550 --> 00:03:31,550
@@ -354,7 +354,7 @@ Then say it - you're a tracer.
 00:04:34,300 --> 00:04:36,300
 [BANKY]
 How should I sign this?
-ຂ້ອຍຄວນລົງນາມສິ່ງນີ້ແນວໃດ?
+ຂ້ອຍຈະລົງນາມແບບໃດແດ່?
 
 56
 00:04:36,800 --> 00:04:42,800
@@ -428,7 +428,7 @@ For years in this industry whenever an African-American character - hero or vill
 00:05:33,850 --> 00:05:35,850
 [VOICE FROM CROWD]
 She's white.
-ນາງເປັນສີຂາວ.
+ນາງແມ່ນຜິວຂາວ
 
 67
 00:05:36,350 --> 00:05:42,350
@@ -797,7 +797,7 @@ This boy is conflicted, I shall play mother-therapist for him.  You two sit tigh
 00:10:10,900 --> 00:10:12,900
 [ALYSSA]
 Is he always Like that!
-ລາວເປັນແບບນັ້ນຢູ່ສະເຫມີບໍ!
+ລາວແມ່ນແບບນັ້ນສະເໝີບໍ່!
 
 123
 00:10:13,400 --> 00:10:19,400
@@ -1002,7 +1002,7 @@ All through high school, he dated this one girl.  They  were inseparable. And wh
 00:12:24,750 --> 00:12:26,750
 [HOLDEN]
 In Pittsburgh.
-ໃນປິຕສເບີກ.
+ໃນເມືອງປິຕສ໌.
 
 155
 00:12:27,250 --> 00:12:33,250
@@ -1372,7 +1372,7 @@ How do you begin and end a question with the same word like that?  You got skill
 00:16:10,900 --> 00:16:12,900
 [HOLDEN]
 I'll be there.
-ຂ້ອຍຈະຢູ່ບ່ອນນັ້ນ.
+ຂ້ອຍຈະມາເດີ້.
 
 214
 00:16:13,400 --> 00:16:15,400
@@ -1420,7 +1420,7 @@ So when we leaving?
 00:16:34,450 --> 00:16:36,450
 [BANKY]
 And?
-ແລະ?
+ແມ່ນແລ້ວບໍ່?
 
 222
 00:16:36,950 --> 00:16:39,750
@@ -1751,7 +1751,7 @@ This is so cool.  The mall!
 00:19:41,650 --> 00:19:43,650
 [ALYSSA]
 Eden Prairie of Menlo Park!
-Eden Prairie ຂອງ Menlo Park!
+ເອເດັນ ປຣີຣີຂອງແມນໂລສ໌!
 
 276
 00:19:44,150 --> 00:19:46,950
@@ -1806,7 +1806,7 @@ Pretty slim.  I haven't been back to the 'burbs since my friend's funeral.
 00:20:12,100 --> 00:20:14,100
 [HOLDEN]
 The Quick Stop girl died!
-ເດັກຍິງຢຸດໄວຕາຍແລ້ວ!
+ສາວຄວິກສະຕັອບຕາຍແລ້ວ!
 
 285
 00:20:14,600 --> 00:20:17,750
@@ -2096,7 +2096,7 @@ In your estimation.
 00:23:17,900 --> 00:23:19,900
 [BANKY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 331
 00:23:20,400 --> 00:23:26,400
@@ -2568,7 +2568,7 @@ Somebody told me that they make comic books here, and I've got an idea for this 
 00:29:01,150 --> 00:29:03,150
 [HOLDEN]
 Twelve episodes.
-ບົດທີສິບສອງ.
+ສິບສອງຕອນ
 
 404
 00:29:03,650 --> 00:29:05,650
@@ -2737,7 +2737,7 @@ If that's the only reason you're attracted to women - because it's the standard.
 00:30:39,250 --> 00:30:41,250
 [HOLDEN]
 It's more than that.
-ມັນຫຼາຍກວ່ານັ້ນ.
+ແມ່ນບໍ່ພຽງແຕ່ນັ້ນເທົ່ານັ້ນ.
 
 431
 00:30:41,750 --> 00:30:44,200
@@ -2956,7 +2956,7 @@ Did I hold up a finger?
 00:32:47,300 --> 00:32:49,300
 [HOLDEN]
 You're kidding?!?!  How...?!?
-ເຈົ້າໂຊກຮ້າຍບໍ?!?! ວິທີການ...?!?
+ເຈົ້າແມ່ນບໍ່ຈິງບໍ່?!?! ແນວໃດ...?!?
 
 466
 00:32:49,800 --> 00:32:53,650
@@ -3352,7 +3352,7 @@ When you file the date-rape charges, don't say I didn't warn you.
 00:36:58,550 --> 00:37:00,550
 [HOLDEN]
 I'm Holden, by the way.
-ຂ້ອຍເປັນໂຮລເດັນ, ເຖິງຢ່າງໃດກໍ່ຕາມ.
+ແມ່ນແລ້ວ, ຂ້ອຍແມ່ນ ໂຮລເດັນ.
 
 529
 00:37:01,050 --> 00:37:06,650
@@ -4030,7 +4030,7 @@ And dead in the center, is a crisp, new, hundred dollar bill.  Now at the end of
 00:43:56,800 --> 00:44:00,650
 [BANKY]
 Which one's going to get to the hundred dollar bill first?
-ໃຜຈະໄປຫາໃບຢັ້ງຢືນເງິນສິບໂດລາກ່ອນ?
+ໃຜຈະໄດ້ເງິນຮ້ອຍໂດລາກ່ອນ?
 
 637
 00:44:01,150 --> 00:44:03,250
@@ -4534,7 +4534,7 @@ I take it that's not good.
 00:49:14,350 --> 00:49:16,350
 [HOLDEN]
 Stay here.
-ຢູ່ບ່ອນນີ້.
+ຢູ່ທີ່ນີ້ເດີ້.
 
 717
 00:49:16,850 --> 00:49:18,850
@@ -4652,7 +4652,7 @@ My agenda is to watch your back.
 00:50:22,050 --> 00:50:24,050
 [HOLDEN]
 To what end?
-ເພື່ອຈຸດປະສົງໃດ?
+ສໍາຫຮັບຫຍັງ?
 
 736
 00:50:24,550 --> 00:50:29,100
@@ -4912,7 +4912,7 @@ I've given that a lot of thought, you know?  I mean, now that I'm being ostraciz
 00:53:10,150 --> 00:53:12,150
 [HOLDEN]
 Still am.
-ຂ້ອຍຍັງເປັນ.
+ແມ່ນແລ້ວ.
 
 777
 00:53:12,650 --> 00:53:18,650
@@ -4975,13 +4975,13 @@ Check out page forty eight.
 00:53:48,350 --> 00:53:50,350
 [HOLDEN]
 So?
-ສະນັ້ນ?
+ແມ່ນແລ້ວບໍ່?
 
 787
 00:53:50,850 --> 00:53:52,850
 [BANKY]
 Did you see the nickname?
-ເຈົ້າເຫັນນາມສະກຸນບໍ?
+ເຈົ້າບໍ່ເຫັນຊື່ຫຼິ້ນບໍ່?
 
 788
 00:53:53,350 --> 00:53:55,350
@@ -5240,7 +5240,7 @@ Banky's not known for believing misinformation.  He's got a pretty good bullshit
 00:56:52,000 --> 00:56:55,500
 [HOOPER]
 So, what if it is true?  Would that bother you?
-ສະນັ້ນ, ຖ້າມັນເປັນຄວາມຈິງແນວໃດ? ມັນຈະກັງວົນເຈົ້າບໍ?
+ສະບາຍດີ, ຖ້າມັນແມ່ນຄວາມຈິງແມ່ນບໍ່? ເຈົ້າບໍ່ສົນໃຈບໍ່?
 
 828
 00:56:56,000 --> 00:56:58,000
@@ -5342,7 +5342,7 @@ Three strikes.
 00:58:00,850 --> 00:58:02,850
 [HOOPER]
 Hey, hey!  There's a line.
-ເຮ້, ເຮ້! ມີສາຍຫນຶ່ງ.
+ສະບາຍດີ! ມີແຖວໜຶ່ງແລ້ວ.
 
 844
 00:58:03,350 --> 00:58:05,350
@@ -5635,7 +5635,7 @@ I blew him while Cohee fucked me.
 01:01:05,000 --> 01:01:07,000
 [HOLDEN]
 Excuse me!?!
-ຂໍໂທດຂ້ອຍ!?!
+ຂໍໂທດເດີ!?!
 
 890
 01:01:07,500 --> 01:01:13,500
@@ -5919,7 +5919,7 @@ Come on man - I'm people who know people.
 01:04:14,450 --> 01:04:16,450
 [HOLDEN]
 You sound like Barbra Streisand.
-ເຈົ້າສຽງຄືກັບບາບຣາ ສຕຣີຊານດ໌.
+ເຈົ້າເວົ້າເໝືອນກັບແບຣບຣາ ສຕຣີແຊນດ໌.
 
 935
 01:04:16,950 --> 01:04:22,950
@@ -6315,7 +6315,7 @@ I'm only going to say it once: shut up.  Now - I know I'm to blame one way or th
 01:08:53,900 --> 01:08:55,900
 [ALYSSA]
 That doesn't matter to me...
-ມັນບໍ່ສໍາຄັນກັບຂ້ອຍ...
+ບໍ່ເປັນຫຍັງກັບຂ້ອຍເລີຍ...
 
 996
 01:08:56,400 --> 01:09:02,400
@@ -6406,7 +6406,7 @@ Don't you see?  That would take care of everything.  Alyssa - I wouldn't feel in
 01:10:00,000 --> 01:10:02,000
 [BANKY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 1010
 01:10:02,500 --> 01:10:05,650
@@ -6674,7 +6674,7 @@ It's mine.
 01:12:35,950 --> 01:12:37,950
 [HOLDEN]
 I saved you one.
-ຂ້ອຍໄດ້ຊ່ວຍເຈົ້າຫນຶ່ງ.
+ຂ້ອຍໄດ້ເກັບໄວ້ໜຶ່ງໃຫ້ເຈົ້າແລ້ວ.
 
 1053
 01:12:38,450 --> 01:12:40,450
@@ -6772,7 +6772,7 @@ Read that, when you have a minute
 01:13:31,000 --> 01:13:33,000
 [ALYSSA]
 I will.
-ຂ້ອຍຈະເຮັດ.
+ແມ່ນແລ້ວ.
 
 1069
 01:13:33,500 --> 01:13:39,450

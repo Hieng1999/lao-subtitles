@@ -96,7 +96,7 @@ Jam quickly pockets his drumsticks and grabs his worn, denim jacket off the pile
 00:01:09,600 --> 00:01:11,600
 [JAM]
 What's up?
-ມີຫຍັງຂຶ້ນ?
+ສະບາຍດີບໍ່?
 
 17
 00:01:12,100 --> 00:01:18,100
@@ -558,7 +558,7 @@ Thanks.
 00:06:08,400 --> 00:06:10,400
 [JAM]
 Beth?
-ແບຕ?
+ແບທ?
 
 90
 00:06:10,900 --> 00:06:12,900
@@ -915,7 +915,7 @@ What?!
 00:09:42,850 --> 00:09:44,850
 [JAM]
 I said, I'm sorry!
-ຂ້ອຍເວົ້າວ່າ, ຂ້ອຍຂໍໂທດ!
+ຂ້ອຍບອກວ່າ ຂໍໂທດເດີ!
 
 147
 00:09:45,350 --> 00:09:51,350
@@ -1731,7 +1731,7 @@ Holy shit! We just pissed off the Incredible Hulk, his idiot half brother and tw
 00:18:53,200 --> 00:18:55,200
 [KENNY]
 Stop the friggin' car NOW!
-ຢຸດລົດທີ່ສໍ້ໂກງດຽວນີ້!
+ຢຸດລົດເດີ້ ດຽວນີ້ເດີ້!
 
 274
 00:18:55,700 --> 00:19:00,950
@@ -2014,7 +2014,7 @@ How would you like a nice Hawaiian Punch?
 00:22:05,050 --> 00:22:07,050
 [KENNY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 318
 00:22:07,550 --> 00:22:09,550
@@ -2215,7 +2215,7 @@ Oh, God, how calculating of me to lead you all on like that after you offered me
 00:24:26,850 --> 00:24:28,850
 [TRIP]
 Whatever... stella.
-ເຖິງຢ່າງໃດກໍ່ຕາມ... ສເຕລາ.
+ບໍ່ວ່າແມ່ນຫຍັງ... ສະເຕລາ.
 
 349
 00:24:29,350 --> 00:24:35,350
@@ -4146,7 +4146,7 @@ Alright! I give up! I hearby and forthwith defer my destiny to you mutts. I may 
 00:46:25,450 --> 00:46:27,550
 [LEX]
 Well, how do you like that?
-ເຈົ້າມັກມັນແນວໃດ?
+ແມ່ນແລ້ວ ເຈົ້າບໍ່ມັກບໍ່?
 
 650
 00:46:28,050 --> 00:46:30,050
@@ -4828,7 +4828,7 @@ No... You don't think...?
 00:53:52,550 --> 00:53:54,550
 [HAWK]
 Nah. Couldn't be.
-ບໍ່. ມັນບໍ່ສາມາດເປັນໄດ້.
+ບໍ່. ບໍ່ເປັນໄປເລີຍ.
 
 757
 00:53:55,050 --> 00:53:57,050

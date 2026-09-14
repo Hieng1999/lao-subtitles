@@ -178,7 +178,7 @@ Tell me where he his now and I'll consider you a loose end.
 00:02:20,850 --> 00:02:22,850
 [VAMPIRE]
 Nobody's th--
-ບໍ່ມີໃຜເປັນ th -
+ບໍ່ມີໃຜແມ່ນ...
 
 29
 00:02:23,350 --> 00:02:29,350
@@ -637,7 +637,7 @@ Few warmbloods have seen what's beyond this door.
 00:07:19,100 --> 00:07:21,100
 [NYSSA]
 Father --
-ພໍ່...
+ພໍ່ -
 
 101
 00:07:21,600 --> 00:07:27,600
@@ -1309,7 +1309,7 @@ Suddenly rip down through the ceiling of the van, peeling it up and back like it
 00:14:39,150 --> 00:14:41,150
 [SCUD]
 They're here!!!!
-ພວກເຂົາຢູ່ບ່ອນນີ້!!!!
+ພວກເຂົາມາແລ້ວ!!!
 
 206
 00:14:41,650 --> 00:14:43,650
@@ -2237,7 +2237,7 @@ Must be hundreds of these skeletons here.
 00:24:40,050 --> 00:24:42,050
 [REINHARDT]
 So?
-ສະນັ້ນ?
+ແມ່ນແລ້ວບໍ່?
 
 353
 00:24:42,550 --> 00:24:47,450
@@ -2359,7 +2359,7 @@ Reinhardt!
 00:25:55,400 --> 00:25:57,400
 [BLADE]
 Re-group!  Re-group!
-ກັບຄືນກຸ່ມ! ກັບມາກຸ່ມ!
+ສະຫຼຸບກັນໃໝ່ເດີ້! ສະຫຼຸດກັນໃໝ່!
 
 372
 00:25:57,900 --> 00:25:59,900
@@ -2778,7 +2778,7 @@ I don't understand.
 00:30:24,000 --> 00:30:26,000
 [WHISTLER]
 Well maybe I do.
-ດີບາງທີຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ ບາງທີແມ່ນແລ້ວ.
 
 438
 00:30:26,500 --> 00:30:28,500
@@ -3154,7 +3154,7 @@ Sitting in the corner, his hands cuffed behind his back.  We are in a security s
 00:34:39,500 --> 00:34:41,500
 [WHISTLER]
 Not nearly enough, Fritz.
-ບໍ່ເກືອບພຽງພໍ, ຟຣີສ.
+ບໍ່ພຽງພໍເລີຍ, ຟຣີສ໌.
 
 497
 00:34:42,000 --> 00:34:44,000
@@ -3278,7 +3278,7 @@ He does now.  He's been watching me since the tunnels. Following me.  I led him 
 00:36:07,850 --> 00:36:10,300
 [BLADE]
 Just like a trail of bread crumbs.
-ຄືກັບເສັ້ນທາງຂອງກະຕ່າເຂົ້າຈີ່.
+ຄືກັບຮ່ອງຮອຍຂອງຂີ້ເຂົ້າຈີ່.
 
 516
 00:36:10,800 --> 00:36:16,800

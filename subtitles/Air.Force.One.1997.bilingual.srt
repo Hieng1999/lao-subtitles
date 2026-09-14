@@ -133,7 +133,7 @@ Sir, this plane carries the President of the United States.
 00:01:49,050 --> 00:01:51,050
 [KORSHUNOV]
 Of course.  I'm sorry.
-ແນ່ນອນ. ຂ້ອຍຂໍໂທດ.
+ແມ່ນແລ້ວ. ຂໍໂທດເດີ.
 
 22
 00:01:51,550 --> 00:01:54,350
@@ -178,7 +178,7 @@ It was a good ad-lib, sir.
 00:02:17,350 --> 00:02:19,350
 [MARSHALL]
 Thanks.  Wrote it last night.
-ຂອບໃຈ. ຂຽນມັນໃນມື້ວານນີ້.
+ຂອບໃຈ. ຂຽນເມື່ອຄືນແລ້ວ.
 
 29
 00:02:19,850 --> 00:02:21,850
@@ -384,7 +384,7 @@ I guess it depends on your perspective.
 00:04:40,450 --> 00:04:42,450
 [KORSHUNOV]
 And all these rooms here?
-ແລະຫ້ອງທັງ ຫມົດ ນີ້ຢູ່ບ່ອນນີ້ບໍ?
+ແລະຫ້ອງທັງຫຼາຍທີ່ນີ້ແມ່ນບໍ່?
 
 61
 00:04:42,950 --> 00:04:48,900
@@ -685,7 +685,7 @@ Hey Joey, how `bout a cocoa, double whip cream.
 00:07:41,300 --> 00:07:43,300
 [ROSE]
 Alice...
-ແອລສ໌...
+ແອລິສ...
 
 109
 00:07:43,800 --> 00:07:46,600
@@ -836,7 +836,7 @@ Okay.  Hey, pumpkin, you'll tell me all about it later, right?
 00:09:08,250 --> 00:09:10,250
 [ALICE]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 133
 00:09:10,750 --> 00:09:13,550
@@ -1276,7 +1276,7 @@ Come on, sir.
 00:13:44,400 --> 00:13:46,400
 [MARSHALL]
 Alice!
-ແອລສ໌!
+ແອລິສ໌!
 
 203
 00:13:46,900 --> 00:13:48,900
@@ -1315,7 +1315,7 @@ This is Air Force One Heavy. I'm coming in full throttle. ETA to Ranstein eight 
 00:14:11,400 --> 00:14:13,400
 [COT. AXELROD]
 Roger that.
-ເຂົ້າໃຈແລ້ວ.
+ແມ່ນແລ້ວ.
 
 209
 00:14:13,900 --> 00:14:15,900
@@ -1397,7 +1397,7 @@ Daddy? Dad?
 00:14:58,050 --> 00:15:00,150
 [NEVSKY]
 Your father has left you behind.
-ພໍ່ເຈົ້າໄດ້ປ່ອຍເຈົ້າຢູ່ເບື້ອງຫຼັງ.
+ພໍ່ເຈົ້າໄດ້ປະຖິ້ມເຈົ້າໄວ້ແລ້ວ.
 
 222
 00:15:00,650 --> 00:15:06,650
@@ -1435,7 +1435,7 @@ Almost there.
 00:15:21,600 --> 00:15:23,600
 [BAZYLEV]
 Keep moving!
-ຍ້າຍໄປຕໍ່ໄປ!
+ສືບຕໍ່ເຄື່ອນໄຫວເດີ!
 
 228
 00:15:24,100 --> 00:15:26,100
@@ -1484,7 +1484,7 @@ Call me if something changes.
 00:15:46,050 --> 00:15:48,050
 [ZEDECK]
 That's it?
-ນັ້ນແມ່ນມັນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 236
 00:15:48,550 --> 00:15:54,550
@@ -1528,7 +1528,7 @@ Nine.
 00:16:11,650 --> 00:16:13,650
 [KORSHUNOV]
 Any of us?
-ມີໃຜໃນພວກເຮົາບໍ?
+ມີໃຜບໍ່?
 
 243
 00:16:14,150 --> 00:16:16,150
@@ -1903,7 +1903,7 @@ When I ran Specops in `Nam, I ordered the destruction of a V.C.  munitions dump.
 00:20:09,250 --> 00:20:12,050
 [GENERAL NORTHWOOD]
 Walter, if you have a point, make it.
-ວາລເຕີ, ຖ້າເຈົ້າມີຄວາມຫມາຍ, ໃຫ້ມັນ.
+ແວລເຕີ ຖ້າເຈົ້າມີຈຸດໝາຍແລ້ວ, ໃຫ້ເວົ້າແນ່ເດີ.
 
 302
 00:20:12,550 --> 00:20:14,650
@@ -1990,7 +1990,7 @@ Viad?
 00:20:54,250 --> 00:20:56,250
 [NEVSKY]
 Vlad? Vlad?
-ວາດ? ວາດບໍ?
+ວລາດ ແມ່ນບໍ່? ວລາດແມ່ນບໍ່?
 
 316
 00:20:56,750 --> 00:21:00,250
@@ -2376,7 +2376,7 @@ Yeah. Do you know what the word "asshole" means.
 00:24:51,950 --> 00:24:53,950
 [ROSE]
 Alice!
-ແອລສ໌!
+ແອລິສ!
 
 377
 00:24:54,450 --> 00:24:56,550
@@ -2599,7 +2599,7 @@ I'm going to take your weapon now, and then I'm going to take you Upstairs to jo
 00:26:55,950 --> 00:26:57,950
 [DEAN]
 Christ, they have him.
-ພຣະຄຣິດ, ພວກເຂົາຈັບລາວ.
+ສະຫວັນນະເຂດ ພວກເຂົາມີລາວແລ້ວ.
 
 413
 00:26:58,450 --> 00:27:03,000
@@ -2654,7 +2654,7 @@ Ramutein Tower Control, please.
 00:27:25,350 --> 00:27:27,450
 [GENERAL GREELY]
 But the effect could be jarring.
-ແຕ່ຜົນກະທົບອາດຈະເປັນການໂຊກຮ້າຍ.
+ແຕ່ຜົລກະທົບອາດຈະບໍ່ດີເລີຍ.
 
 422
 00:27:27,950 --> 00:27:33,550
@@ -2698,7 +2698,7 @@ You'll suffer for what you've done.
 00:27:52,150 --> 00:27:54,150
 [BAZYLEV]
 Up. Get up now!
-ຂຶ້ນ. ຂຶ້ນດຽວນີ້!
+ສະເດັດຂຶ້ນເດີ້! ສະເດດຂຶ້ນທັນທີ!
 
 429
 00:27:54,650 --> 00:27:58,500
@@ -2822,7 +2822,7 @@ We're okay.
 00:28:59,950 --> 00:29:01,950
 [KORSHUNOV]
 Remarkable aircraft. Remarkable.
-ເຮືອບິນທີ່ຍິ່ງໃຫຍ່. ທີ່ຍິ່ງໃຫຍ່ນ.
+ເຮືອບິນທີ່ໜ້າສັງເກດໄດ້. ແມ່ນແລ້ວ.
 
 449
 00:29:02,450 --> 00:29:04,450
@@ -2840,7 +2840,7 @@ Psychology. They're trying to unnerve us.
 00:29:07,550 --> 00:29:09,550
 [GIBBS]
 Well it worked.
-ດີມັນເຮັດວຽກໄດ້.
+ແມ່ນແລ້ວ ມັນໄດ້ຜົນດີ.
 
 452
 00:29:10,050 --> 00:29:16,000
@@ -3027,7 +3027,7 @@ Ms. Mitchell. Hello again.
 00:30:52,850 --> 00:30:54,850
 [ROSE]
 Maria.
-ມາເຣຍ
+ແມຣີຍ
 
 482
 00:30:55,350 --> 00:30:57,450
@@ -3148,7 +3148,7 @@ Seven...
 00:31:51,500 --> 00:31:53,500
 [KORSHUNOV]
 Eight...
-ແປດ...
+8...
 
 502
 00:31:54,000 --> 00:31:56,000
@@ -3710,7 +3710,7 @@ They've cut communication, and I spent a good bit of time looking for alternativ
 00:37:41,750 --> 00:37:43,750
 [SECRETARY]
 The fax machines.
-ເຄື່ອງຟັກສ໌.
+ແຟັກສ໌.
 
 591
 00:37:44,250 --> 00:37:46,250
@@ -3753,7 +3753,7 @@ Eighteen thousand feet, sir. And two hundred knots... otherwise it's suicide.
 00:38:02,800 --> 00:38:04,800
 [MARSHALL]
 Got it.
-ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+ແມ່ນແລ້ວ.
 
 598
 00:38:05,300 --> 00:38:11,300
@@ -3933,7 +3933,7 @@ Roger KC-135 PILOT
 00:39:46,200 --> 00:39:48,200
 [GIBBS]
 That's affirmative.
-ນັ້ນແມ່ນຄວາມຢືນຢັນ.
+ແມ່ນແລ້ວ.
 
 627
 00:39:48,700 --> 00:39:50,700
@@ -4094,7 +4094,7 @@ Yes. Yes he is.
 00:41:15,700 --> 00:41:17,700
 [IPRR. AFO'S FLIGHT DECK -]
 Gibbs steadies the plane.
-ແກບສ໌ເຮັດໃຫ້ເຮືອບິນ ຫມັ້ນ ຄົງ.
+ແກບສ໌ສະຖຽນລະພາບເຮືອບິນ.
 
 653
 00:41:18,200 --> 00:41:20,200
@@ -4644,7 +4644,7 @@ This doesn't make sense.
 00:46:19,200 --> 00:46:21,200
 [V.P. CHANDLER]
 How close are they?
-ພວກເຂົາໃກ້ຊິດຫຼາຍປານໃດ?
+ພວກເຂົາໃກ້ກັນບໍ່?
 
 742
 00:46:21,700 --> 00:46:27,300
@@ -4873,7 +4873,7 @@ This is your last warning. You are violating our airspace. Leave immediately.
 00:48:46,600 --> 00:48:49,400
 [COL. CARLTON]
 I said back off and hold your fire.
-ຂ້ອຍບອກໃຫ້ຖອນຕົວແລະຢຸດຍິງ.
+ຂ້ອຍບອກວ່າ ກັບຄືນໄປບ່ອນແລະບໍ່ຍິງເລີຍ.
 
 778
 00:48:49,900 --> 00:48:52,000
@@ -5149,13 +5149,13 @@ We still got three MiGs running around and six more on the way.
 00:51:21,150 --> 00:51:23,150
 [MARSHALL]
 We're at full throttle.
-ພວກເຮົາຢູ່ໃນຄວາມໄວເຕັມ.
+ພວກເຮົາກໍາລັງເຄື່ອນໄຫວຢ່າງເຕັມທີ່ແລ້ວ.
 
 823
 00:51:23,650 --> 00:51:27,500
 [FIGHTER PILOT #1]
 Air Force One, MiGs four and five are on your tail.
-ກອງທັບອາກາດຫນຶ່ງ, MiGs ສີ່ແລະຫ້າແມ່ນຢູ່ຕາມຫຼັງຂອງທ່ານ.
+ກອງທັບອາກາດໜຶ່ງ, ໄມຈ໌ສີ່ແລະຫ້າກໍາລັງຕິດຕາມເຈົ້າຢູ່.
 
 824
 00:51:28,000 --> 00:51:30,100
@@ -5248,7 +5248,7 @@ Roger that. Kick ass, Navy.
 00:52:15,850 --> 00:52:17,850
 [NAVY SQUADRON LEADER]
 That's affirmative.
-ນັ້ນແມ່ນຄວາມຢືນຢັນ.
+ແມ່ນແລ້ວ.
 
 839
 00:52:18,350 --> 00:52:20,450
@@ -5304,7 +5304,7 @@ I'm sorry, sir.
 00:52:46,650 --> 00:52:48,650
 [MARSHALL]
 Thanks for your help, Colonel.
-ຂອບໃຈ ສໍາ ລັບການຊ່ວຍເຫຼືອຂອງທ່ານ, ນາຍພົນ.
+ຂອບໃຈທີ່ຊ່ວຍເຫຼືອເດີ ພົນຈັດຕະວາ.
 
 848
 00:52:49,150 --> 00:52:55,100
@@ -5516,7 +5516,7 @@ Hold on tight. The first step's a bitch.
 00:54:51,450 --> 00:54:53,450
 [MARSHALL]
 Acknowledged.
-ຍອມຮັບແລ້ວ.
+ຮັບຮູ້ແລ້ວ.
 
 882
 00:54:53,950 --> 00:54:55,950

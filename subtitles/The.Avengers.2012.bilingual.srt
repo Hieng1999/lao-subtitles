@@ -154,7 +154,7 @@ Talk to me, doctor. DR. ERIK SELVIG emerges from behind the CMS machine, concern
 00:01:50,200 --> 00:01:52,200
 [SELVIG]
 Director.
-ຜູ້ຈັດການ.
+ຜູ້ອໍານວຍການ
 
 26
 00:01:52,700 --> 00:01:55,150
@@ -172,7 +172,7 @@ Tesseract is misbehaving.
 00:01:58,150 --> 00:02:00,250
 [NICK FURY]
 Is that supposed to be funny?
-ມັນຄວນມ່ວນບໍ?
+ນັ້ນແມ່ນຈະຕ້ອງມ່ວນບໍ່?
 
 29
 00:02:00,750 --> 00:02:05,300
@@ -447,7 +447,7 @@ Sound the general call. I want every living soul not working rescue looking for 
 00:05:04,700 --> 00:05:06,700
 [AGENT MARIA HILL]
 Roger that.
-ເຂົ້າໃຈແລ້ວ.
+ແມ່ນແລ້ວ.
 
 72
 00:05:07,200 --> 00:05:13,200
@@ -718,13 +718,13 @@ And your actress buddy, is she a spy too? Do they start that young?
 00:08:17,400 --> 00:08:19,400
 [NATASHA]
 I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 115
 00:08:19,900 --> 00:08:21,900
 [BANNER]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 116
 00:08:22,400 --> 00:08:24,400
@@ -1406,7 +1406,7 @@ We need you to look this over. (he holds out a file towards
 00:15:34,500 --> 00:15:36,500
 [STARK)]
 Soon as possible.
-ໄວເທົ່າທີ່ຈະໄວໄດ້.
+ໄວທີ່ສຸດທີ່ສາມາດເຮັດໄດ້.
 
 224
 00:15:37,000 --> 00:15:39,100
@@ -2084,7 +2084,7 @@ Loki, drop the weapon and stand down. Like greased lighting, Loki sends a BLAST 
 00:23:23,700 --> 00:23:25,700
 [LOKI]
 Kneel.
-ຂູກເຂົ່າ.
+ຄຸເຂົ່າລົງ.
 
 329
 00:23:26,200 --> 00:23:32,200
@@ -2226,7 +2226,7 @@ I'm not overly fond of what follows. What the fuck? OUTSIDE THE JET A BLINDING L
 00:24:59,950 --> 00:25:01,950
 [IRON MAN]
 Now there's that guy.
-ດຽວນີ້ມີຄົນນັ້ນ.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນຜູ້ຊາຍຄົນນັ້ນ.
 
 351
 00:25:02,450 --> 00:25:04,450
@@ -2926,7 +2926,7 @@ Is everything a joke to you?
 00:33:09,700 --> 00:33:11,700
 [TONY]
 Funny things are.
-ສິ່ງມ່ວນຊື່ນແມ່ນ.
+ແມ່ນແລ້ວ, ບາງສິ່ງບາງຢ່າງທີ່ມ່ວນແມ່ນ.
 
 459
 00:33:12,200 --> 00:33:16,750
@@ -3606,7 +3606,7 @@ Because of him.
 00:41:05,350 --> 00:41:07,350
 [THOR]
 Me?
-ຂ້ອຍບໍ?
+ຂ້ອຍແມ່ນບໍ່?
 
 564
 00:41:07,850 --> 00:41:13,850
@@ -4212,13 +4212,13 @@ Sir, the HULK and Thor are in shuttle levels 2, 3 and 4!
 00:48:20,950 --> 00:48:23,750
 [AGENT MARIA HILL]
 Sir, the Hulk will tear this place apart!
-ເຈົ້າ, ຮູລກ໌ຈະເຮັດໃຫ້ບ່ອນນີ້ແຕກແຍກ!
+ສະບາຍດີ, ຮັລຄ໌ຈະທໍາລາຍບ່ອນນີ້ໃຫ້ແຕກແຍກກັນ!
 
 658
 00:48:24,250 --> 00:48:26,250
 [NICK FURY]
 Get his attention.
-ເອົາໃຈໃສ່ລາວ.
+ໃຫ້ລາວສົນໃຈເດີ້.
 
 659
 00:48:26,750 --> 00:48:30,600
@@ -4380,7 +4380,7 @@ Your heroes are scattered, your floating fortress falls from the sky...where is 
 00:50:21,200 --> 00:50:23,200
 [AGENT PHIL COULSON]
 You lack conviction.
-ເຈົ້າຂາດຄວາມເຊື່ອຫມັ້ນ.
+ເຈົ້າບໍ່ມີຄວາມໝັ້ນໃຈເລີຍ.
 
 684
 00:50:23,700 --> 00:50:25,700
@@ -4392,7 +4392,7 @@ I don't think I...
 00:50:26,200 --> 00:50:28,200
 [AGENT PHIL COULSON]
 So that's what it does.
-ສະນັ້ນມັນເຮັດແບບນັ້ນ.
+ນັ້ນແມ່ນສິ່ງທີ່ມັນເຮັດ.
 
 686
 00:50:28,700 --> 00:50:30,700
@@ -4404,7 +4404,7 @@ Cap, I need the lever!
 00:50:31,200 --> 00:50:33,200
 [STEVE]
 I need a minute here!
-ຂ້ອຍຕ້ອງການນາທີຫນຶ່ງຢູ່ນີ້!
+ຂ້ອຍຕ້ອງໄດ້ດົນໜຶ່ງເດີ້!
 
 688
 00:50:33,700 --> 00:50:39,700
@@ -4500,7 +4500,7 @@ Well, it's an old fashioned notion.
 00:51:32,900 --> 00:51:35,000
 [SECURITY GUARD]
 You fell out of the sky.
-ເຈົ້າຕົກຈາກສະຫວັນ.
+ເຈົ້າໄດ້ຕົກລົງຈາກທ້ອງຟ້າແລ້ວ.
 
 703
 00:51:35,500 --> 00:51:37,500
@@ -4848,7 +4848,7 @@ Sir.
 00:54:55,600 --> 00:54:57,600
 [NICK FURY]
 Agent Hill?
-ຕົວແທນຮິລ?
+ເຈົ້າໜ້າທີ່ຮິລແມ່ນບໍ່?
 
 759
 00:54:58,100 --> 00:55:01,950
@@ -5704,7 +5704,7 @@ JARVIS. You ever hear the tale of Jonah?
 01:04:49,700 --> 01:04:52,150
 [JARVIS]
 I wouldn't consider him a role model.
-ຂ້ອຍຈະບໍ່ຖືລາວເປັນແບບຢ່າງ.
+ຂ້ອຍບໍ່ຄິດວ່າລາວແມ່ນຕົວແບບທີ່ຈະປະຕິບັດໄດ້ເລີຍ.
 
 892
 01:04:52,650 --> 01:04:56,850
@@ -5909,7 +5909,7 @@ What? That this was somehow their fault? Captain America saved my life. Wherever
 01:06:58,850 --> 01:07:00,850
 [WORLD SECURITY COUNCIL #3]
 Where are the Avengers?
-ພວກ Avengers ຢູ່ໃສ?
+ພວກຜູ້ແກ້ແຄ້ນແມ່ນຢູ່ໃສ?
 
 925
 01:07:01,350 --> 01:07:06,250
@@ -5922,7 +5922,7 @@ I'm not currently tracking their whereabouts. I'd say they've earned a leave of 
 01:07:06,750 --> 01:07:08,750
 [WORLD SECURITY COUNCIL #2]
 And the Tesseract?
-ແລະ ເທສເຊີແຣັກ ໄດ້ແນວໃດ?
+ແລະເທສເຊຣາແຄທແມ່ນບໍ່?
 
 927
 01:07:09,250 --> 01:07:12,750

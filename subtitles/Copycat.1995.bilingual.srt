@@ -1152,7 +1152,7 @@ Snotty neurotic bitch...
 00:12:54,350 --> 00:12:56,350
 [RUBEN]
 Classy madonna.
-ແມດອນນາທີ່ມີສະໄຫມສູງ.
+ແມດໂນນ່າທີ່ສວຍງາມ.
 
 182
 00:12:56,850 --> 00:13:02,850
@@ -1394,7 +1394,7 @@ Sergeant?
 00:15:30,550 --> 00:15:32,550
 [M.J.]
 Yessir.
-Yessir.
+ແມ່ນແລ້ວ.
 
 220
 00:15:33,050 --> 00:15:39,000
@@ -1577,7 +1577,7 @@ Think about it.
 00:17:25,250 --> 00:17:27,250
 [RUBEN]
 What's wrong with him?
-ມີຫຍັງເກີດຂຶ້ນກັບລາວ?
+ມີຫຍັງບໍ່ດີກັບລາວບໍ່?
 
 249
 00:17:27,750 --> 00:17:33,000
@@ -1721,7 +1721,7 @@ If you knew why, you might know where to look for him. I don't envy you this; he
 00:18:55,550 --> 00:18:57,550
 [M.J.]
 Work with me.
-ເຮັດວຽກກັບຂ້ອຍ.
+ຮ່ວມງານກັບຂ້ອຍເດີ້.
 
 272
 00:18:58,050 --> 00:19:00,050
@@ -1778,7 +1778,7 @@ Let's get out of here...
 00:19:30,500 --> 00:19:32,500
 [HELEN]
 Andy!  Please.  Don't you go!
-ແອນດີ້! ກະລຸນາ. ຢ່າໄປ!
+ແອນດີ້! ສະບາຍດີ ຢ່າໄປເດີ້!
 
 281
 00:19:33,000 --> 00:19:39,000
@@ -2049,7 +2049,7 @@ She just got to sleep.  Do you have to tell her about it now?
 00:22:46,600 --> 00:22:48,600
 [M.J.]
 Tell her about what?
-ບອກນາງກ່ຽວກັບຫຍັງ?
+ບອກນາງຫຍັງແດ່?
 
 323
 00:22:49,100 --> 00:22:55,100
@@ -2123,7 +2123,7 @@ Because I'm his damned pin-up girl! His, all of them!  They know me. They're in 
 00:23:50,450 --> 00:23:52,450
 [RUBEN]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 334
 00:23:52,950 --> 00:23:54,950
@@ -2265,7 +2265,7 @@ They'll have a guard here tomorrow. I know you have the idea, but it'll make me 
 00:25:28,350 --> 00:25:30,350
 [RUBEN]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 356
 00:25:30,850 --> 00:25:32,850
@@ -2747,7 +2747,7 @@ What's going down with the sting in Chinatown?  That gonna be off your plate in 
 00:30:46,950 --> 00:30:48,950
 [QUINN]
 Sergeant...
-ພົນຈັດຕະວາ...
+ສະໝຽນ...
 
 431
 00:30:49,450 --> 00:30:51,450
@@ -2841,7 +2841,7 @@ We've got another one.
 00:31:40,200 --> 00:31:42,200
 [HELEN]
 That's no surprise.
-ນັ້ນບໍ່ແມ່ນຄວາມແປກໃຈ.
+ນັ້ນແມ່ນບໍ່ແປກເລີຍ.
 
 446
 00:31:42,700 --> 00:31:44,700
@@ -2975,7 +2975,7 @@ So far nothing they test for comes up positive.
 00:33:12,800 --> 00:33:14,800
 [HELEN]
 Is that it?
-ນັ້ນແມ່ນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 467
 00:33:15,300 --> 00:33:19,150
@@ -3276,7 +3276,7 @@ She was listening to Abba in her parked car when she was shot with a Bulldog .44
 00:36:37,500 --> 00:36:39,500
 [M.J.]
 Tony!
-ໂຕນີ!
+ທອນນີ!
 
 514
 00:36:40,000 --> 00:36:42,800
@@ -3294,7 +3294,7 @@ What's that siren?
 00:36:45,800 --> 00:36:48,600
 [HELEN]
 One of those goddamned car alarms. What's going...
-ຫນຶ່ງໃນເຄື່ອງແຈ້ງເຕືອນລົດນັ້ນ. ເກີດຫຍັງຂຶ້ນ...
+ໜຶ່ງໃນແອລາມລົດທີ່ຮ້າຍແຮງນັ້ນ. ມີຫຍັງເກີດຂຶ້ນ...
 
 517
 00:36:49,100 --> 00:36:55,100
@@ -3531,7 +3531,7 @@ Helen...honey, you know I gotta go.
 00:39:09,950 --> 00:39:12,050
 [RUBEN]
 You know how to use this?
-ເຈົ້າຮູ້ວິທີໃຊ້ສິ່ງນີ້ບໍ?
+ເຈົ້າຮູ້ບໍ່ວ່າຈະໃຊ້ແບບນີ້ບໍ່?
 
 555
 00:39:12,550 --> 00:39:18,550
@@ -3958,7 +3958,7 @@ Not a damn bit...
 00:44:13,150 --> 00:44:15,150
 [DARYLL LEE]
 Hey, Doc!  How you doing?
-ເຮ້, ດອກ! ເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີ, ດອກ! ເຈົ້າສະບາຍດີບໍ່?
 
 621
 00:44:15,650 --> 00:44:17,650
@@ -4106,7 +4106,7 @@ I brought back a gin-seng popper for you.  Guaranteed all-night orgasms.
 00:45:54,450 --> 00:45:56,450
 [M.J.]
 Save it for Helen.
-ຮັກສາມັນໄວ້ ສໍາ ລັບເຮເລນ.
+ເກັບໄວ້ໃຫ້ແຮເລນເດີ້.
 
 644
 00:45:56,950 --> 00:45:59,400
@@ -4257,7 +4257,7 @@ I'm going to the coffee machine. Hold the fort.
 00:47:26,700 --> 00:47:28,700
 [CONRAD]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 668
 00:47:29,200 --> 00:47:33,050
@@ -4439,7 +4439,7 @@ Who gives a fuck?  In all the years I never seen you cry.  You loved him.
 00:49:25,100 --> 00:49:27,100
 [M.J.]
 Who gives a fuck?
-ໃຜສົນໃຈ?
+ໃຜບໍ່ສົນໃຈແມ່ນບໍ່?
 
 697
 00:49:27,600 --> 00:49:30,750

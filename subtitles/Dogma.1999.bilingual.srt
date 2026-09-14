@@ -179,7 +179,7 @@ What better way to show I've repented than by resuming the position I denied... 
 00:02:29,200 --> 00:02:33,400
 [BARTLEBY]
 A killing spree is not going to make things better for us.
-ການຂັບຂີ່ການຂ້າຄົນຈະບໍ່ເຮັດໃຫ້ສິ່ງຕ່າງໆດີຂຶ້ນ ສໍາ ລັບພວກເຮົາ.
+ການຄາດຕະກໍາບໍ່ຈະເຮັດໃຫ້ພວກເຮົາດີຂຶ້ນເລີຍ.
 
 29
 00:02:33,900 --> 00:02:39,900
@@ -644,7 +644,7 @@ I work in an abortion clinic.
 00:08:06,750 --> 00:08:08,750
 [BETH ANY]
 New ]ersey.
-New Jersey.
+ນິວເຊີຊີ.
 
 101
 00:08:09,250 --> 00:08:14,850
@@ -663,7 +663,7 @@ That doesn't sound like a crusade.
 00:08:17,950 --> 00:08:20,400
 [METATRON]
 Aside from the fine print, that's it.
-ນອກຈາກການພິມລະອຽດ, ນັ້ນແມ່ນມັນ.
+ແມ່ນແລ້ວ, ນອກເໜືອໄປຈາກຕົວອັກສອນນ້ອຍໆ, ນັ້ນແມ່ນທັງໝົດ.
 
 104
 00:08:20,900 --> 00:08:22,900
@@ -718,7 +718,7 @@ Because he listened to his friend - a Grigori by the name of Bartleby.
 00:08:47,800 --> 00:08:49,800
 [BETHANY]
 Grigori?
-ແກຣຈໍຣີ?
+ກຣີໂກຣີແມ່ນບໍ່?
 
 113
 00:08:50,300 --> 00:08:54,850
@@ -1001,7 +1001,7 @@ Say you'll offer us sex as a reward.
 00:12:01,100 --> 00:12:03,100
 [BETHANY]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 157
 00:12:03,600 --> 00:12:06,750
@@ -1144,7 +1144,7 @@ I rained down sulfur, man. There's a subtle difference.
 00:13:44,400 --> 00:13:46,400
 [BARTLEBY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 179
 00:13:46,900 --> 00:13:52,900
@@ -1290,7 +1290,7 @@ Where are you going next?
 00:15:19,350 --> 00:15:21,350
 [BETHANY]
 I see.
-ຂ້ອຍເຫັນແລ້ວ.
+ແມ່ນແລ້ວ.
 
 202
 00:15:21,850 --> 00:15:27,850
@@ -1488,7 +1488,7 @@ That stuff was small potatoes. The major sins never change. And believe me - I c
 00:17:29,350 --> 00:17:31,350
 [BARTLEBY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 233
 00:17:31,850 --> 00:17:33,850
@@ -1582,7 +1582,7 @@ That's the problem - romance. You think about it :back in the old days, nobody g
 00:18:25,550 --> 00:18:27,550
 [BARTLEBY]
 The Troubadors.
-ພວກທຣູບາດໍ.
+ຄອບຄົວທຣູບັດໍ.
 
 248
 00:18:28,050 --> 00:18:30,050
@@ -1939,7 +1939,7 @@ Nasty little bastards called the Stygian Triplets. They're not really related. W
 00:22:07,450 --> 00:22:09,450
 [BETHANY]
 So they're dead too?
-ສະນັ້ນພວກເຂົາກໍຕາຍຄືກັນບໍ?
+ແມ່ນແລ້ວ ພວກເຂົາຍັງຕາຍບໍ່?
 
 305
 00:22:09,950 --> 00:22:15,950
@@ -2643,7 +2643,7 @@ Don't you see the resemblance?
 00:29:54,850 --> 00:29:56,850
 [BETHANY]
 I'm confused.
-ຂ້ອຍສັບສົນ.
+ຂ້ອຍບໍ່ເຂົ້າໃຈເລີຍ.
 
 415
 00:29:57,350 --> 00:30:03,350
@@ -2699,7 +2699,7 @@ I'm a muse, stupid.
 00:30:25,350 --> 00:30:27,800
 [BETHANY]
 I can't take much more of this.
-ຂ້ອຍບໍ່ສາມາດຮັບເອົາສິ່ງນີ້ໄດ້ອີກຫຼາຍ.
+ຂ້ອຍບໍ່ຍອມຮັບໄດ້ອີກເລີຍ.
 
 424
 00:30:28,300 --> 00:30:34,300
@@ -3403,7 +3403,7 @@ Jersey's sold out, sir.
 00:37:41,050 --> 00:37:43,050
 [BARTLEBY]
 Are you sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນບໍ່?
 
 536
 00:37:43,550 --> 00:37:45,550
@@ -4362,7 +4362,7 @@ The Scion, I'd imagine.
 00:48:23,200 --> 00:48:25,200
 [BARTLEBY]
 There sure is.
-ມີແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 687
 00:48:25,700 --> 00:48:31,700
@@ -4557,7 +4557,7 @@ You say it as if it's easy.
 00:50:50,900 --> 00:50:52,900
 [BETHANY]
 So then we're screwed?
-ສະນັ້ນຫຼັງຈາກນັ້ນພວກເຮົາຖືກໂຊກຮ້າຍບໍ?
+ແມ່ນແລ້ວ, ພວກເຮົາແມ່ນສໍ້ໂກງແລ້ວບໍ່?
 
 717
 00:50:53,400 --> 00:50:56,550
@@ -5297,7 +5297,7 @@ And just to insure that, we're all going to sit tight, right here, until the two
 00:59:18,800 --> 00:59:20,800
 [JAY]
 Hey...!
-ເຮ້...!
+ສະບາຍດີ!
 
 833
 00:59:21,300 --> 00:59:23,400
@@ -5365,7 +5365,7 @@ None other than.
 00:59:58,700 --> 01:00:00,700
 [BETHANY]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 844
 01:00:01,200 --> 01:00:03,200
@@ -5705,7 +5705,7 @@ Put on channel nine - 'Davey and Goliath'!
 01:03:57,350 --> 01:03:59,350
 [JAY]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 896
 01:03:59,850 --> 01:04:03,350

@@ -282,7 +282,7 @@ I've received ambassadors before.
 00:03:45,900 --> 00:03:47,900
 [AMOUN]
 None like this.
-ບໍ່ມີຫຍັງຄືກັບແບບນີ້.
+ບໍ່ເປັນແບບນີ້ເລີຍ.
 
 44
 00:03:48,400 --> 00:03:54,400
@@ -377,7 +377,7 @@ You have a daughter of age.
 00:05:00,850 --> 00:05:02,850
 [CASSIOPEIA]
 Andromeda!
-ແອນດຣອມເດດາ!
+ແອນດຣູເມດາ!
 
 58
 00:05:03,350 --> 00:05:08,600
@@ -505,7 +505,7 @@ Of course... of course your word is unquestioned here. Thoth's demeanor changes.
 00:06:30,250 --> 00:06:32,350
 [KEPHEUS]
 Where is the lucky young suitor?
-ຜູ້ຟ້ອງສາວໂຊກດີຢູ່ໃສ?
+ຄູ່ຮັກໄວໜຸ່ມຜູ້ໂຊກດີແມ່ນຢູ່ໃສ?
 
 78
 00:06:32,850 --> 00:06:38,850
@@ -702,7 +702,7 @@ But what of the Gods, who had protected and guided us so long? They must breathe
 00:08:55,050 --> 00:08:57,050
 [MARMARA]
 Spyros!
-ສະປິຣັສ!
+ສະປາຍໂຣສ!
 
 108
 00:08:57,550 --> 00:09:00,700
@@ -785,7 +785,7 @@ Come back in the morning and we can talk about it.
 00:09:52,850 --> 00:09:54,850
 [WILTING GIRL]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 121
 00:09:55,350 --> 00:10:01,350
@@ -871,7 +871,7 @@ How long can you hold your breath? Longer than the others? Are there times when 
 00:10:58,250 --> 00:11:00,250
 [PERSEUS]
 None of that means anything.
-ບໍ່ມີຫຍັງໃນນັ້ນ ຫມາຍ ຄວາມວ່າຫຍັງເລີຍ.
+ບໍ່ມີຄວາມໝາຍຫຍັງເລີຍ.
 
 134
 00:11:00,750 --> 00:11:05,650
@@ -1311,7 +1311,7 @@ Cassiopeia! We have agreed such talk has no place in this palace.
 00:15:59,400 --> 00:16:01,400
 [CASSIOPEIA]
 Have we?
-ພວກເຮົາເຮັດບໍ?
+ແມ່ນບໍ່?
 
 202
 00:16:01,900 --> 00:16:07,900
@@ -1448,7 +1448,7 @@ She is unmistakable.
 00:17:35,700 --> 00:17:37,800
 [PERSEUS]
 I'm a stranger here. Any hints?
-ຂ້ອຍເປັນຄົນແປກໃຈຢູ່ນີ້. ມີຂໍ້ແນະນໍາໃດບໍ?
+ຂ້ອຍແມ່ນຄົນແປກທີ່ນີ້ ບໍ່ຮູ້ຫຍັງບໍ່?
 
 223
 00:17:38,300 --> 00:17:41,450
@@ -1661,7 +1661,7 @@ One of the most beautiful women I've ever seen.
 00:19:56,050 --> 00:19:59,200
 [ANDROMEDA]
 Of course, you haven't been much in the world.
-ແນ່ນອນ, ເຈົ້າບໍ່ໄດ້ຢູ່ໃນໂລກຫຼາຍ.
+ແມ່ນແລ້ວ, ເຈົ້າບໍ່ເຄີຍມີຫຼາຍໃນໂລກເລີຍ.
 
 256
 00:19:59,700 --> 00:20:02,850
@@ -1771,7 +1771,7 @@ Tell who?
 00:21:14,500 --> 00:21:16,500
 [ANDROMEDA]
 Them...
-ພວກເຂົາ...
+ພວກນັ້ນ...
 
 273
 00:21:17,000 --> 00:21:23,000
@@ -2988,7 +2988,7 @@ Praetorians ໄດ້. ມົງເກີແລະ Tamburlane ບິດກະທ
 00:36:44,050 --> 00:36:46,050
 [AMOUN]
 Muster to me!
-ເຕົ້າໂຮມກັນກັບຂ້ອຍ!
+ສະໝັກມາຫາຂ້ອຍເດີ້!
 
 458
 00:36:46,550 --> 00:36:52,550

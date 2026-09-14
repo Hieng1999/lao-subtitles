@@ -15,7 +15,7 @@ At Shaolin Temple, in misty Songshan mountains, We monks trained in iron palm un
 00:00:20,450 --> 00:00:22,450
 [YOUNG ADULT]
 I guess not...
-ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ...
+ຂ້ອຍຄິດບໍ່...
 
 4
 00:00:22,950 --> 00:00:28,950
@@ -652,7 +652,7 @@ I'm not a tourist! I want to be a monk! The monk stops, his face a mask of shock
 00:07:58,450 --> 00:08:00,450
 [ADMISSIONS MONK]
 That's not possible.
-ນັ້ນບໍ່ສາມາດເຮັດໄດ້.
+ນັ້ນແມ່ນບໍ່ເປັນໄປໄດ້.
 
 102
 00:08:00,950 --> 00:08:02,950
@@ -720,7 +720,7 @@ Hey! What about my...
 00:08:34,900 --> 00:08:36,900
 [ASHEMA]
 Drew?
-ດຣູ?
+ດຣູແມ່ນບໍ່?
 
 113
 00:08:37,400 --> 00:08:39,400
@@ -928,7 +928,7 @@ I got the idea from a story about a monk who wouldn't leave. I thought...
 00:10:53,300 --> 00:10:55,300
 [SAN DE]
 Has it been hard?
-ມັນຍາກບໍ?
+ແມ່ນບໍ່ຍາກບໍ່?
 
 146
 00:10:55,800 --> 00:11:01,800
@@ -998,7 +998,7 @@ Do you renounce the earthly world?
 00:11:40,100 --> 00:11:42,100
 [DREW]
 Sure do, master. You bet.
-ແນ່ນອນ, ເຈົ້າ. ເຈົ້າແນ່ໃຈວ່າ.
+ແມ່ນແລ້ວ, ເຈົ້າ. ແນ່ນອນ.
 
 157
 00:11:42,600 --> 00:11:47,500
@@ -1091,7 +1091,7 @@ Are they ready to begin their training?
 00:12:37,350 --> 00:12:39,350
 [DRILL SERGEANT]
 They are.
-ພວກເຂົາເປັນ.
+ແມ່ນແລ້ວ.
 
 172
 00:12:39,850 --> 00:12:42,650
@@ -1214,7 +1214,7 @@ If I look half as stupid as you guys do, I'm really in trouble...
 00:13:46,600 --> 00:13:48,600
 [GAO]
 I want another bed.
-ຂ້ອຍຢາກນອນອີກບ່ອນຫນຶ່ງ.
+ຂ້ອຍຢາກມີຕຽງອີກໜຶ່ງເດີ້.
 
 192
 00:13:49,100 --> 00:13:51,100
@@ -1314,7 +1314,7 @@ Good night, Li.
 00:14:43,200 --> 00:14:45,200
 [LI]
 Wan an. DISSOLVE TO:
-ວານແອນ. ແກ້ໄຂໃຫ້:
+ວານແອນ
 
 208
 00:14:45,700 --> 00:14:51,300
@@ -1551,7 +1551,7 @@ So what is this 'night soil' stuff anyway?
 00:17:13,800 --> 00:17:15,800
 [LI]
 Human waste.
-ສິ່ງເສດເຫຼືອຂອງມະນຸດ.
+ຂີ້ເຫຍື້ອຂອງມະນຸດ
 
 246
 00:17:16,300 --> 00:17:20,150
@@ -1692,7 +1692,7 @@ Master San De!
 00:18:50,400 --> 00:18:52,400
 [SAN DE]
 Who else?
-ໃຜອີກຄົນໃດ?
+ມີໃຜອີກບໍ່?
 
 268
 00:18:52,900 --> 00:18:54,900
@@ -2022,13 +2022,13 @@ caving ທ້ອງຂອງດຣູໃນດ້ວຍການຕີຂອງ�
 00:22:47,750 --> 00:22:49,750
 [D.S.]
 Something wrong?
-ມີຫຍັງຜິດບໍ?
+ມີຫຍັງບໍ່ດີບໍ່?
 
 319
 00:22:50,250 --> 00:22:52,250
 [D.S.]
 Switch!
-ປ່ຽນໄປ!
+ແລກປ່ຽນກັນເດີ້!
 
 320
 00:22:52,750 --> 00:22:58,700
@@ -2041,7 +2041,7 @@ The goal of this drill is not to hurt your partner. Just try to tap his chest.
 00:22:59,200 --> 00:23:01,200
 [DREW]
 I know, but...
-ຂ້ອຍຮູ້ແລ້ວ, ແຕ່...
+ແມ່ນແລ້ວ ແຕ່...
 
 322
 00:23:01,700 --> 00:23:05,900
@@ -2246,7 +2246,7 @@ ASHEMA! Here! She looks at Drew again, and this time recognizes him. Drew arrive
 00:25:18,950 --> 00:25:20,950
 [DREW]
 What!?!
-ຫຍັງ!?!
+ແມ່ນບໍ່!?
 
 354
 00:25:21,450 --> 00:25:24,950
@@ -2667,7 +2667,7 @@ I think we might have. If they knew, they'd have already gotten us! You guys jus
 00:30:17,550 --> 00:30:19,550
 [WU]
 I've lost my appetite.
-ຂ້ອຍໄດ້ສູນເສຍຄວາມຢາກອາຫານແລ້ວ.
+ຂ້ອຍບໍ່ຢາກກິນເລີຍ.
 
 419
 00:30:20,050 --> 00:30:26,050
@@ -2973,7 +2973,7 @@ Yeah, I'm staying. If only to keep you guys out of trouble! They walk off, and j
 00:34:02,600 --> 00:34:04,600
 [LI]
 Drew! Are you allright?
-ດຣູ! ເຈົ້າດີບໍ?
+ດຣູ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 466
 00:34:05,100 --> 00:34:11,100
@@ -3160,7 +3160,7 @@ You are to deliver this scroll to the Arhat living on the
 00:36:20,350 --> 00:36:22,350
 [DREW]
 I will, Master.
-ຂ້ອຍຈະເຮັດ, ຄູ.
+ແມ່ນແລ້ວ, ພຣະອາຈານ.
 
 495
 00:36:22,850 --> 00:36:28,850
@@ -3315,7 +3315,7 @@ Is this rope strong enough for both of us? No answer from the man, who is now pu
 00:38:08,450 --> 00:38:10,450
 [DREW]
 OK, OK, I'm going!
-ດີ, ດີ, ຂ້ອຍຈະໄປ!
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ ຂ້ອຍຈະໄປແລ້ວ!
 
 519
 00:38:10,950 --> 00:38:13,400

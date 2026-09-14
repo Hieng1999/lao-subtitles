@@ -262,7 +262,7 @@ Austin Powers?  Hi, I'm Andy Warhol.
 00:02:39,850 --> 00:02:41,850
 [AUSTIN]
 Hey, how are you?
-ເຮ້, ເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີ ເຈົ້າສະບາຍດີບໍ່?
 
 44
 00:02:42,350 --> 00:02:44,350
@@ -486,7 +486,7 @@ Listen son, I want you to forget what you saw here tonight.
 00:04:55,300 --> 00:04:57,400
 [RADAR OPERATOR]
 Commander, I have to log it&emdash
-ຜູ້ບັນຊາການ, ຂ້ອຍຕ້ອງລົງທະບຽນມັນ&mdash
+ເຈົ້າໜ້າທີ່, ຂ້ອຍຕ້ອງບັນທຶກມັນໄວ້&emdash
 
 80
 00:04:57,900 --> 00:05:01,050
@@ -1058,7 +1058,7 @@ Brrrr!  She must be frigid.  There's two things I know about life: one, American
 00:10:56,100 --> 00:10:58,100
 [VANESSA]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 169
 00:10:58,600 --> 00:11:00,600
@@ -1901,7 +1901,7 @@ Great.
 00:19:36,250 --> 00:19:38,250
 [MRS. KENSINGTON]
 How's Austin?
-ໂອສຕິນເປັນແນວໃດ?
+ໂອສຕິນສະບາຍດີບໍ່?
 
 302
 00:19:38,750 --> 00:19:40,750
@@ -2155,7 +2155,7 @@ My God, Vanessa, you are so incredibly beautiful.  Stay right where you are.
 00:22:04,750 --> 00:22:06,850
 [VANESSA]
 I hate having my picture taken.
-ຂ້ອຍກຽດທີ່ຈະຖືກຖ່າຍຮູບຂອງຂ້ອຍ.
+ຂ້ອຍບໍ່ຢາກຖືກຖ່າຍຮູບເລີຍ.
 
 343
 00:22:07,350 --> 00:22:09,800
@@ -2274,7 +2274,7 @@ I haven't had fun like that since college.
 00:23:15,200 --> 00:23:17,200
 [AUSTIN]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 362
 00:23:17,700 --> 00:23:19,700
@@ -2375,7 +2375,7 @@ Right away, Exposition.
 00:24:20,100 --> 00:24:22,200
 [BASIL EXPOSITION]
 Where is Vanessa, by the way?
-ເຖິງຢ່າງໃດກໍ່ຕາມ, ເວເນສຊາຢູ່ໃສ?
+ແມ່ນແລ້ວ ເວເນຊາແມ່ນຢູ່ໃສ?
 
 378
 00:24:22,700 --> 00:24:25,150
@@ -2770,7 +2770,7 @@ In a little while, you'll find out that the Kreplachistani warhead has gone miss
 00:28:08,950 --> 00:28:10,950
 [DR. EVIL]
 Sorry.  ONE-HUNDRED BILLION DOLLARS!
-ຂໍໂທດ. ເງິນໂດລາສິບລ້ານໂດລາ!
+ຂໍໂທດເດີ. ໜຶ່ງຮ້ອຍພັນລ້ານໂດລາ!
 
 441
 00:28:11,450 --> 00:28:13,450
@@ -2992,7 +2992,7 @@ Get away from my mother!
 00:30:22,850 --> 00:30:24,850
 [VANESSA]
 Austin, have you gone mad?
-ໂອສຕິນ, ເຈົ້າໂຊກຮ້າຍບໍ?
+ໂອສຕິນ ເຈົ້າໂງ່ບໍ່?
 
 476
 00:30:25,350 --> 00:30:28,500
@@ -3128,7 +3128,7 @@ Only sailors use condoms, man.
 00:31:44,200 --> 00:31:46,200
 [VANESSA]
 Not in the Nineties.
-ບໍ່ແມ່ນໃນຊຸມປີເກົ້າສິບ.
+ບໍ່ໃນຊຸມປີ 90 ແມ່ນແລ້ວ.
 
 498
 00:31:46,700 --> 00:31:52,300
@@ -3244,7 +3244,7 @@ So, Scott, why don't we start with you.  Why are you here?
 00:33:02,000 --> 00:33:04,000
 [SCOTT EVIL]
 Well, it's kind of weird.
-ດີ, ມັນແປກໃຈບາງຢ່າງ.
+ແມ່ນແລ້ວ, ມັນແປກເລັກນ້ອຍ.
 
 516
 00:33:04,500 --> 00:33:06,500
@@ -3337,7 +3337,7 @@ No, he's really evil.
 00:33:56,950 --> 00:33:58,950
 [THERAPIST]
 Scott.
-ສອດຕ໌.
+ສະກັຕ
 
 531
 00:33:59,450 --> 00:34:02,250
@@ -3502,7 +3502,7 @@ Hi, folks.  You're entering a restricted zone.  Can I see your security badges?
 00:35:57,500 --> 00:35:59,500
 [AUSTIN]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 556
 00:36:00,000 --> 00:36:02,100
@@ -3532,7 +3532,7 @@ That's amazing.  Let's go!
 00:36:10,200 --> 00:36:12,200
 [AUSTIN]
 Hold on one second.
-ລໍຖ້າວິນາທີຫນຶ່ງ.
+ລໍຖ້າດົນໜຶ່ງເດີ້.
 
 561
 00:36:12,700 --> 00:36:14,800
@@ -3764,7 +3764,7 @@ My hand, dammit!  Look at it!
 00:38:28,400 --> 00:38:30,400
 [AUSTIN]
 What's wrong with your hand?
-ມີຫຍັງເກີດຂຶ້ນກັບມືຂອງທ່ານ?
+ມີຫຍັງບໍ່ດີກັບມືຂອງເຈົ້າແມ່ນບໍ່?
 
 598
 00:38:30,900 --> 00:38:36,500
@@ -4162,13 +4162,13 @@ Austin, watch out!
 00:42:57,100 --> 00:42:59,900
 [AUSTIN]
 Not a good time to lose one's head.
-ມັນບໍ່ແມ່ນເວລາທີ່ດີທີ່ຈະສູນເສຍຫົວຄົນຫນຶ່ງ.
+ບໍ່ເປັນເວລາທີ່ເໝາະສົມທີ່ຈະສູນເສຍສະຕິປັນຍາເລີຍ.
 
 660
 00:43:00,400 --> 00:43:02,400
 [VANESSA]
 Indeed.
-ແທ້ຈິງແລ້ວ.
+ແມ່ນແລ້ວ.
 
 661
 00:43:02,900 --> 00:43:06,050
@@ -4318,7 +4318,7 @@ Listen, Vanessa, whatever happens, I just want you to know that I feel bad about
 00:44:30,750 --> 00:44:32,750
 [VANESSA]
 Austin, what's your point?
-ໂອສຕິນ, ຈຸດຫມາຍຂອງທ່ານແມ່ນຫຍັງ?
+ໂອສຕິນ, ເຈົ້າໝາຍຄວາມວ່າແນວໃດ?
 
 685
 00:44:33,250 --> 00:44:39,250
@@ -4510,7 +4510,7 @@ Follow me!  We're going to have to jump over the rail!
 00:46:20,850 --> 00:46:22,850
 [VANESSA]
 Are you crazy?
-ເຈົ້າໂຊກຮ້າຍບໍ?
+ເຈົ້າໂງ່ບໍ່?
 
 716
 00:46:23,350 --> 00:46:25,350

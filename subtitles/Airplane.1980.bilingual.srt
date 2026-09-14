@@ -83,7 +83,7 @@ Taxi!
 00:00:58,500 --> 00:01:00,500
 [STRIKER]
 Back in a minute.
-ກັບມາອີກນາທີຫນຶ່ງ.
+ກັບມາອີກບໍ່ດົນ.
 
 15
 00:01:01,000 --> 00:01:03,000
@@ -165,7 +165,7 @@ This is Captain Oveur.
 00:01:51,100 --> 00:01:53,100
 [OVEUR]
 I've got it!
-ຂ້ອຍເຮັດແລ້ວ!
+ຂ້ອຍໄດ້ແລ້ວ!
 
 28
 00:01:53,600 --> 00:01:59,600
@@ -602,13 +602,13 @@ Roger.
 00:06:29,950 --> 00:06:31,950
 [MURDOCK]
 Huh?
-ຮາ?
+ແມ່ນບໍ່?
 
 97
 00:06:32,450 --> 00:06:34,450
 [BASTA]
 Request vector...over.
-ເວັກເຕີຂໍຮ້ອງ... ສິ້ນສຸດລົງ.
+ເວັກເຕີຄໍາຮ້ອງຂໍ... ສໍາເລັດແລ້ວ.
 
 98
 00:06:34,950 --> 00:06:36,950
@@ -686,7 +686,7 @@ You...you shouldn't have come. I don't have time now.
 00:07:08,900 --> 00:07:10,900
 [MRS. SCHIFF]
 Oh, stewardess...
-ໂອ້, ຜູ້ຈັດການເຮືອບິນ...
+ແມ່ນແລ້ວ, ເຈົ້າໜ້າທີ່ເຮືອບິນ...
 
 111
 00:07:11,400 --> 00:07:13,400
@@ -718,7 +718,7 @@ DISCO TUNE ຫຼິ້ນ. Girl Scout ຖືກຕີຕໍ່ກັບກ່�
 00:07:30,900 --> 00:07:32,900
 [MAKE ANOTHER SELECTION"]
 Girl Scout bashes again.
-ການໂຈມຕີ Girl Scout ອີກເທື່ອຫນຶ່ງ.
+ສາວສະກູທ໌ໂຈມຕີອີກຄັ້ງ.
 
 116
 00:07:33,400 --> 00:07:35,850
@@ -858,7 +858,7 @@ Would you gentlemen care to order your dinners?
 00:09:01,050 --> 00:09:03,500
 [BLACK DUDE #1]
 'Ey ma' muh fuh wha' fo', shi!
-ໂອ້ ແມ່!
+ສະບາຍດີແມ່!
 
 138
 00:09:04,000 --> 00:09:06,800
@@ -1325,7 +1325,7 @@ Could I borrow your guitar? I thought I might be able to cheer her up.
 00:14:08,450 --> 00:14:10,450
 [SISTER ANGELINA]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 212
 00:14:10,950 --> 00:14:14,450
@@ -1373,7 +1373,7 @@ I thought maybe you'd like to hear a song.
 00:14:32,000 --> 00:14:34,000
 [LISA]
 Oh, I'd love to.
-ໂອ້, ຂ້ອຍຢາກເຮັດ.
+ແມ່ນແລ້ວ, ຂ້ອຍຢາກໄດ້ຫຼາຍ.
 
 220
 00:14:34,500 --> 00:14:36,950
@@ -1642,7 +1642,7 @@ Yes. Yes, of course.
 00:17:44,850 --> 00:17:46,850
 [DR. RUMACK]
 Pain there?
-ຄວາມເຈັບປວດຢູ່ບ່ອນນັ້ນບໍ?
+ເຈັບບໍ່?
 
 262
 00:17:47,350 --> 00:17:49,450
@@ -1667,7 +1667,7 @@ You'd better tell the Captain. We've got to land as soon as we can. This woman h
 00:17:59,050 --> 00:18:01,050
 [ELAINE]
 A hospital? What is it?
-ໂຮງຫມໍບໍ? ມັນເປັນຫຍັງ?
+ໂຮງໝໍແມ່ນຫຍັງ?
 
 266
 00:18:01,550 --> 00:18:07,550
@@ -1680,7 +1680,7 @@ It's a big building with patients. But that's not important right now. Tell the 
 00:18:08,050 --> 00:18:10,050
 [ELAINE]
 Certainly.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 268
 00:18:10,550 --> 00:18:15,450
@@ -1705,7 +1705,7 @@ Captain, how soon can we land?
 00:18:21,050 --> 00:18:23,050
 [OVEUR]
 I can't tell.
-ຂ້ອຍບໍ່ສາມາດບອກໄດ້.
+ຂ້ອຍບໍ່ຮູ້ເລີຍ.
 
 272
 00:18:23,550 --> 00:18:26,000
@@ -2247,7 +2247,7 @@ Would ya like a little whiskey, ma'am?
 00:24:00,050 --> 00:24:02,050
 [SPINSTER]
 Certainly not.
-ແນ່ນອນວ່າບໍ່ແມ່ນ.
+ບໍ່ແນ່ນອນ.
 
 358
 00:24:02,550 --> 00:24:04,550
@@ -2340,7 +2340,7 @@ One of the passengers is going to land that plane.
 00:24:57,850 --> 00:24:59,850
 [CAREY]
 Is that possible?
-ມັນເປັນໄປໄດ້ບໍ?
+ແມ່ນບໍ່?
 
 373
 00:25:00,350 --> 00:25:05,600
@@ -3005,7 +3005,7 @@ How much longer can the sick passengers hold out?
 00:32:36,000 --> 00:32:38,000
 [REPORTER #2]
 Who's flying the plane?
-ໃຜຈະບິນເຮືອບິນ?
+ແມ່ນໃຜທີ່ຂັບເຮືອບິນນີ້?
 
 477
 00:32:38,500 --> 00:32:40,500
@@ -3042,7 +3042,7 @@ All right, boys. Let's get some pictures.
 00:32:56,300 --> 00:32:58,300
 [NEWSPAPERS]
 coming off press. SUPERIMPOSE:
-ມາຈາກສື່ມວນຊົນ. SUPERIMPOSE:
+ກໍາ ລັງອອກມາຈາກໜັງສືພິມ. Superimpose:
 
 483
 00:32:58,800 --> 00:33:04,800
@@ -3767,7 +3767,7 @@ See them, Elaine?
 00:41:00,500 --> 00:41:02,500
 [ELAINE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 597
 00:41:03,000 --> 00:41:07,900
@@ -3791,7 +3791,7 @@ There he is!  Striker, you're coming in too fast!
 00:41:14,550 --> 00:41:16,550
 [KRAMER]
 Sound your alarm bell now.
-ສຽງສຽງເຕືອນຂອງທ່ານດຽວນີ້.
+ດັງສຽງແຈ້ງເຕືອນໃຫ້ທັນທີເດີ້.
 
 601
 00:41:17,050 --> 00:41:19,850

@@ -2,7 +2,7 @@
 00:00:10,000 --> 00:00:12,000
 ["ANTITRUST"]
 Screenplay by
-ຮູບເງົາໂດຍ
+ບົດສະແດງໂດຍ
 
 2
 00:00:12,500 --> 00:00:14,500
@@ -39,7 +39,7 @@ Gary always makes sure we've got the coolest stuff to drink.
 00:00:29,750 --> 00:00:31,750
 [DIFFERENT VOICE]
 Knowing your work means something.
-ການຮູ້ວຽກງານຂອງທ່ານ ຫມາຍ ຄວາມວ່າບາງສິ່ງບາງຢ່າງ.
+ຄວາມຮູ້ກ່ຽວກັບວຽກງານຂອງເຈົ້າແມ່ນມີຄວາມໝາຍບາງຢ່າງ.
 
 8
 00:00:32,250 --> 00:00:36,100
@@ -739,7 +739,7 @@ When you get to a certain age, you start wondering. About your legacy. I doubt y
 00:08:22,900 --> 00:08:24,900
 [MILO]
 I do!
-ຂ້ອຍເຮັດ!
+ແມ່ນແລ້ວ!
 
 117
 00:08:25,400 --> 00:08:31,400
@@ -1499,7 +1499,7 @@ I wouldn't worry about it. You've gotta figure most people around here were thei
 00:16:26,300 --> 00:16:28,300
 [MILO]
 ...Were you?
-ເຈົ້າເປັນບໍ?
+ແມ່ນບໍ່?
 
 237
 00:16:28,800 --> 00:16:32,300
@@ -1599,7 +1599,7 @@ Because we bundled it, the judge is threatening to enjoin the whole --
 00:17:27,950 --> 00:17:29,950
 [GARY]
 I'm confused, Ted.
-ຂ້ອຍສັບສົນ, ເທດ.
+ຂ້ອຍບໍ່ເຂົ້າໃຈເລີຍ, ເທດ.
 
 253
 00:17:30,450 --> 00:17:36,450
@@ -1668,7 +1668,7 @@ Everything I do is under scrutiny. The questions they ask, trying to make anythi
 00:18:08,800 --> 00:18:10,800
 [MILO]
 I'm sure.
-ຂ້ອຍແນ່ໃຈວ່າ.
+ແມ່ນແລ້ວ.
 
 264
 00:18:11,300 --> 00:18:17,300
@@ -1687,7 +1687,7 @@ It scales, don't you think?
 00:18:20,300 --> 00:18:22,300
 [MILO]
 Definitely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 267
 00:18:22,800 --> 00:18:25,250
@@ -1944,8 +1944,7 @@ How's it going down there?
 00:20:57,500 --> 00:21:01,350
 [TEDDY]
 I've been hacking for five night's straight, I'm really making headway.
-ຂ້ອຍ ກໍາ ລັງລັກລອບເປັນເວລາຫ້າຄືນຕໍ່ເນື່ອງ
-, ຂ້ອຍກໍາລັງກ້າວຫນ້າແທ້ໆ.
+ຂ້ອຍໄດ້ແຮກເກີມາເປັນເວລາ 5 ຄືນຕິດຕໍ່ກັນແລ້ວ, ຂ້ອຍ ກໍາ ລັງມີຄວາມກ້າວໜ້າຢ່າງແທ້ຈິງ.
 
 308
 00:21:01,850 --> 00:21:05,350
@@ -2076,7 +2075,7 @@ Nothing does. Still. I want him to like me.
 00:22:12,550 --> 00:22:14,550
 [MILO]
 ...What's wrong?
-ມີຫຍັງເກີດຂຶ້ນ?
+ມີຫຍັງບໍ່ດີບໍ່?
 
 329
 00:22:15,050 --> 00:22:17,050
@@ -2215,7 +2214,7 @@ Take good care of this guy.
 00:23:39,450 --> 00:23:41,450
 [LISA]
 You okay?
-ເຈົ້າດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 351
 00:23:41,950 --> 00:23:43,950
@@ -2326,7 +2325,7 @@ The answer's not in the box. It's in the band.
 00:24:42,650 --> 00:24:44,650
 [LISA]
 Milo? You okay?
-ໄມໂລ? ເຈົ້າດີບໍ?
+ໄມໂລ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 369
 00:24:45,150 --> 00:24:47,600
@@ -2338,7 +2337,7 @@ Gotta go home. 'Think I ate something.
 00:24:48,100 --> 00:24:50,100
 [MILO]
 Alice? Alice!
-ແອນລິສ? ແອນລີສ!
+ແອລິສ໌ ແອລີສ໌!
 
 371
 00:24:50,600 --> 00:24:56,600
@@ -2492,7 +2491,7 @@ I know how to get in there. But you've gotta help me.
 00:26:41,200 --> 00:26:43,200
 [ALICE]
 ...Whaddo I do?
-ຂ້ອຍເຮັດຫຍັງ?
+ຂ້ອຍຈະເຮັດແນວໃດ?
 
 395
 00:26:43,700 --> 00:26:45,700
@@ -2655,7 +2654,7 @@ Yeah? Maybe I'll start my rounds with #21 tonight.
 00:28:14,400 --> 00:28:16,400
 [GUARD]
 You are a wild man.
-ເຈົ້າເປັນຜູ້ຊາຍປ່າປ່າ.
+ເຈົ້າແມ່ນຄົນໂງ່ແທ້ໆ.
 
 421
 00:28:16,900 --> 00:28:22,900
@@ -2793,7 +2792,7 @@ Note that the cult members are found reclining after swallowing the [click] Syri
 00:29:58,550 --> 00:30:00,650
 [MILO]
 Please don't be one of them.
-ກະລຸນາຢ່າເປັນຄົນຫນຶ່ງຂອງພວກເຂົາ.
+ສະບາຍດີ ຢ່າເປັນໜຶ່ງໃນພວກນັ້ນເດີ້.
 
 442
 00:30:01,150 --> 00:30:05,350
@@ -2879,7 +2878,7 @@ Mr. Barton, do you remember me?
 00:30:49,700 --> 00:30:51,700
 [BARTON]
 ...It's -- Milo, isn't it?
-ມັນເປັນ - ມິໂລ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ - ໄມໂລ, ແມ່ນບໍ່?
 
 456
 00:30:52,200 --> 00:30:55,000
@@ -3300,7 +3299,7 @@ No.
 00:35:04,150 --> 00:35:06,150
 [MILO]
 Nobody's gonna hurt you.
-ບໍ່ມີໃຜຈະເຮັດໃຫ້ເຈົ້າເຈັບປວດ.
+ບໍ່ມີໃຜຈະທໍາຮ້າຍເຈົ້າເລີຍ.
 
 523
 00:35:06,650 --> 00:35:08,650
@@ -3362,7 +3361,7 @@ I don't think he knows how.
 00:35:37,250 --> 00:35:39,250
 [LISA]
 What about the FBI?
-ແລະ FBI ແນວໃດ?
+ເອຟບີໄອບໍ່?
 
 533
 00:35:39,750 --> 00:35:45,350
@@ -3498,7 +3497,7 @@ I'm okay. It's going well!
 00:37:07,550 --> 00:37:09,550
 [MILO]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 554
 00:37:10,050 --> 00:37:14,250
@@ -3821,7 +3820,7 @@ Every entry was authorized.
 00:40:46,550 --> 00:40:48,550
 [SHROT]
 Keep looking.
-ສືບຕໍ່ຊອກຫາ.
+ສືບຕໍ່ເບິ່ງເດີ.
 
 604
 00:40:49,050 --> 00:40:51,050
@@ -3916,7 +3915,7 @@ None of us knows how to use it. I'm thinking of taking a course.  May I?
 00:41:43,400 --> 00:41:45,400
 [MILO]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 619
 00:41:45,900 --> 00:41:47,900
@@ -4038,7 +4037,7 @@ I'm giving a benefit for the art museum Thursday night. Thought you'd like to br
 00:43:01,000 --> 00:43:03,000
 [MILO]
 That's great! Thanks.
-ນັ້ນດີເລີດ! ຂອບໃຈ.
+ສະບາຍດີ! ຂອບໃຈເດີ.
 
 638
 00:43:03,500 --> 00:43:05,500
@@ -4177,7 +4176,7 @@ All 10,000 of which will be signed onto his browser, no doubt.
 00:44:31,500 --> 00:44:33,500
 [SOCIETY WOMAN]
 And so what?!
-ແລະດັ່ງນັ້ນຫຍັງ?!
+ແລ້ວແມ່ນບໍ່?
 
 660
 00:44:34,000 --> 00:44:36,100
@@ -4189,7 +4188,7 @@ Wait'll all the books are on-line.
 00:44:36,600 --> 00:44:38,600
 [SOCIETY WOMAN]
 And so what?
-ແລະແນວໃດ?
+ແລ້ວແມ່ນບໍ່?
 
 662
 00:44:39,100 --> 00:44:45,100
@@ -4461,7 +4460,7 @@ She called to apologize. I said I was pulling an all-nighter. She said then come
 00:47:45,800 --> 00:47:47,800
 [LISA]
 Please don't go.
-ກະລຸນາຢ່າໄປ.
+ສະບາຍດີ ຢ່າໄປເດີ້.
 
 704
 00:47:48,300 --> 00:47:53,550
@@ -4474,7 +4473,7 @@ At this point the worst thing I could do is anything out of the ordinary.
 00:47:54,050 --> 00:47:56,050
 [LISA]
 Here's the interface.
-ນີ້ແມ່ນການໂຕ້ຕອບ.
+ນີ້ແມ່ນແອິນເຕີເຟັສ.
 
 706
 00:47:56,550 --> 00:48:02,550
@@ -4708,7 +4707,7 @@ Where we going?
 00:49:57,400 --> 00:49:59,400
 [PHIL]
 He's in the Day Care.
-ລາວຢູ່ໃນໂຮງຫມໍວັນ.
+ລາວແມ່ນຢູ່ໃນຫ້ອງດູແລເດັກນ້ອຍ.
 
 744
 00:49:59,900 --> 00:50:02,350
@@ -4807,7 +4806,7 @@ Forget about it. His car's not in the lot, he's gone!
 00:50:50,650 --> 00:50:52,650
 [VOICE]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 760
 00:50:53,150 --> 00:50:55,250
@@ -4819,7 +4818,7 @@ Wanna get a cheeseburger or something?
 00:50:55,750 --> 00:50:57,750
 [MILO]
 Maybe another time.
-ບາງທີໃນເວລາອື່ນ.
+ບາງທີແມ່ນອີກຄັ້ງໜຶ່ງ.
 
 762
 00:50:58,250 --> 00:51:02,100
@@ -4990,7 +4989,7 @@ Wanna be a part of history?
 00:52:37,800 --> 00:52:39,800
 [RENT-A-GUARD]
 Not really.
-ບໍ່ແທ້ໆ.
+ບໍ່ແນ່ນອນ.
 
 789
 00:52:40,300 --> 00:52:44,850
@@ -5032,7 +5031,7 @@ That's what he was doing in here.
 00:53:00,600 --> 00:53:02,600
 [PHIL]
 Gary?
-ແກຣີ?
+ແຄຣີແມ່ນບໍ່?
 
 796
 00:53:03,100 --> 00:53:07,650
@@ -5087,7 +5086,7 @@ Latitude 38 degrees, 55 minutes, 14 seconds South.
 00:53:27,350 --> 00:53:29,350
 [BRIAN]
 Is it your software?
-ມັນເປັນໂປແກຼມຂອງທ່ານບໍ?
+ແມ່ນຊອບແວຂອງເຈົ້າບໍ່?
 
 805
 00:53:29,850 --> 00:53:31,850
@@ -5105,7 +5104,7 @@ Maybe it's the satellite.
 00:53:34,850 --> 00:53:36,850
 [MILO]
 Let's try #2.
-ມາລອງ #2.
+ສະບາຍດີ, ພວກເຮົາຈະພະຍາຍາມ #2.
 
 808
 00:53:37,350 --> 00:53:39,350
@@ -5505,7 +5504,7 @@ Randy, Phil and whoever else knew about it.
 00:57:21,850 --> 00:57:23,850
 [GARY]
 That won't be a problem.
-ນັ້ນຈະບໍ່ເປັນບັນຫາ.
+ນັ້ນແມ່ນບໍ່ເປັນຫຍັງເລີຍ.
 
 872
 00:57:24,350 --> 00:57:27,500
@@ -5558,7 +5557,7 @@ Come on, Bob. Load in the other disk.
 00:58:03,050 --> 00:58:05,050
 [LAWYER]
 Gary?
-ແກຣີ?
+ແຄຣີແມ່ນບໍ່?
 
 880
 00:58:05,550 --> 00:58:11,550
@@ -5577,7 +5576,7 @@ The CYBER PUNDIT chats with LARRY KING.
 00:58:15,000 --> 00:58:17,000
 [LARRY KING]
 That's gotta kill him, right?
-ນັ້ນຕ້ອງຂ້າລາວ, ແມ່ນບໍ?
+ນັ້ນແມ່ນຕ້ອງເຮັດໃຫ້ລາວຕາຍແມ່ນບໍ່?
 
 883
 00:58:17,500 --> 00:58:23,500

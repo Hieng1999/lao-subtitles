@@ -286,7 +286,7 @@ Great.  Broccoli.  Who the fuck ordered broccoli? NEAL, a thin pallid guy, looks
 00:03:24,950 --> 00:03:26,950
 [NEAL]
 Oh that's just disgusting.
-ໂອ້ ມັນກຽດຊັງແທ້ໆ.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນພຽງແຕ່ໜ້າກຽດຊັງ.
 
 46
 00:03:27,450 --> 00:03:29,900
@@ -405,7 +405,7 @@ Hello? Her voice echoes down the silent corridor.   She glimpses something move 
 00:04:31,800 --> 00:04:33,800
 [ANNA]
 Is someone there?
-ມີໃຜຢູ່ບ່ອນນັ້ນບໍ?
+ມີໃຜບໍ່?
 
 65
 00:04:34,300 --> 00:04:36,300
@@ -435,7 +435,7 @@ Shouldn't you be home?
 00:04:48,700 --> 00:04:50,700
 [JACK]
 My mom's picking me up.
-ແມ່ຂອງຂ້ອຍ ກໍາ ລັງເອົາຂ້ອຍ.
+ແມແມ່ນກໍາລັງຈະມາຮັບຂ້ອຍຢູ່.
 
 70
 00:04:51,200 --> 00:04:54,000
@@ -592,7 +592,7 @@ I don't have to do anything.
 00:06:22,900 --> 00:06:24,900
 [ANNA]
 The doctor said--
-ທ່ານຫມໍເວົ້າວ່າ...
+ແພດບອກວ່າ...
 
 95
 00:06:25,400 --> 00:06:31,400
@@ -667,7 +667,7 @@ Where are you going?
 00:07:12,700 --> 00:07:14,700
 [ANNA]
 To do the washing up.
-ເພື່ອເຮັດເຄື່ອງລ້າງ.
+ເພື່ອລ້າງຖ້ວຍ.
 
 107
 00:07:15,200 --> 00:07:18,700
@@ -770,7 +770,7 @@ Thank you Anna. You were always his favorite student.
 00:08:24,350 --> 00:08:26,350
 [MRS. HUTTON]
 How's your mother?
-ແມ່ຂອງເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີແມ່ເຈົ້າບໍ່?
 
 123
 00:08:26,850 --> 00:08:28,850
@@ -879,7 +879,7 @@ The duck is very good. Anna's smile broadens. The tension between them broken fo
 00:09:36,800 --> 00:09:38,800
 [PAUL]
 Let's not argue tonight.    OK?
-ພວກເຮົາບໍ່ຕ້ອງໂຕ້ຖຽງກັນໃນຄືນນີ້. ດີບໍ?
+ຢ່າຂັດແຍ່ງກັນໃນຄືນນີ້ເດີ້. ແມ່ນແລ້ວບໍ່?
 
 140
 00:09:39,300 --> 00:09:41,400
@@ -1204,7 +1204,7 @@ How many times do I have to tell you? You can't leave their stuff laying around.
 00:13:33,350 --> 00:13:35,350
 [ASSISTANT]
 I've been busy, OK.
-ຂ້ອຍມີວຽກເຮັດຢູ່, ດີ.
+ຂ້ອຍມີວຽກຫຼາຍແລ້ວ, ແມ່ນແລ້ວ.
 
 190
 00:13:35,850 --> 00:13:37,950
@@ -1290,7 +1290,7 @@ She didn't come in today. Jack's in the front row.   Following the conversation.
 00:14:39,500 --> 00:14:41,500
 [PAUL]
 Did she call in sick?
-ນາງໂທແຈ້ງວ່າເຈັບປ່ວຍບໍ?
+ນາງໂທບອກວ່າເຈັບບໍ່?
 
 203
 00:14:42,000 --> 00:14:48,000
@@ -1405,7 +1405,7 @@ I don't care. I want to see her. It takes him a second to respond.
 00:16:01,600 --> 00:16:03,600
 [ELIOT]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 221
 00:16:04,100 --> 00:16:10,100
@@ -1710,7 +1710,7 @@ Who was that?
 00:19:18,200 --> 00:19:20,200
 [ELIOT]
 No one.
-ບໍ່ມີໃຜ.
+ບໍ່ໃຜເລີຍ.
 
 270
 00:19:20,700 --> 00:19:22,700
@@ -1722,7 +1722,7 @@ No one? A long beat.
 00:19:23,200 --> 00:19:25,200
 [ELIOT]
 It was Paul.
-ມັນເປັນໂປລ.
+ແມ່ນໂປລ
 
 272
 00:19:25,700 --> 00:19:31,700
@@ -1941,7 +1941,7 @@ Paul gets out awkwardly.    He can't look Tom in the eye.
 00:21:58,700 --> 00:22:00,700
 [TOM]
 You OK?
-ເຈົ້າດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 306
 00:22:01,200 --> 00:22:03,200
@@ -2003,7 +2003,7 @@ You sure you're OK?
 00:22:32,450 --> 00:22:34,450
 [PAUL]
 I fucked up.
-ຂ້ອຍເຮັດຜິດ.
+ຂ້ອຍທໍາຜິດແລ້ວ.
 
 316
 00:22:34,950 --> 00:22:40,200
@@ -2035,7 +2035,7 @@ Eliot opens a cabinet full of boxes of hair dye with photographs of smiling wome
 00:22:52,300 --> 00:22:54,300
 [ANNA]
 Who is she?
-ນາງເປັນໃຜ?
+ນາງແມ່ນໃຜ?
 
 321
 00:22:54,800 --> 00:23:00,050
@@ -2341,7 +2341,7 @@ I'm disappointed with you. An innocent looking YOUNG GIRL  materializes out of t
 00:26:35,850 --> 00:26:37,850
 [ANNA]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 368
 00:26:38,350 --> 00:26:40,450
@@ -2774,7 +2774,7 @@ Paul.   Please pick up.
 00:31:28,850 --> 00:31:30,850
 [ANNA]
 Paul. I'm here.
-ໂປລ. ຂ້ອຍຢູ່ບ່ອນນີ້.
+ໂປລ ຂ້ອຍຢູ່ແລ້ວ.
 
 436
 00:31:31,350 --> 00:31:37,350
@@ -2975,7 +2975,7 @@ Say it.     Say you love me. Suddenly we hear the strident ringing of a phone.
 00:33:46,600 --> 00:33:49,050
 [ANNA]
 Aren't you going to pick it up?
-ເຈົ້າຈະບໍ່ເອົາມັນບໍ?
+ເຈົ້າບໍ່ຈະເອົາບໍ່?
 
 467
 00:33:49,550 --> 00:33:53,750
@@ -2988,7 +2988,7 @@ Me?   No.    It's probably for Eliot. Anna's eyes snap open in shock...
 00:33:54,250 --> 00:33:56,250
 [ANNA]
 Is it always like this?
-ມັນແບບນີ້ຢູ່ສະເຫມີບໍ?
+ສະເໝີແມ່ນບໍ່?
 
 469
 00:33:56,750 --> 00:33:58,750
@@ -3176,7 +3176,7 @@ You're lucky.
 00:36:02,050 --> 00:36:04,050
 [PAUL]
 Am I?
-ຂ້ອຍເປັນບໍ?
+ແມ່ນບໍ່?
 
 498
 00:36:04,550 --> 00:36:06,550
@@ -3291,7 +3291,7 @@ My mother... She didn't cry did she? When she came to see me?
 00:37:23,850 --> 00:37:25,850
 [ELIOT]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 516
 00:37:26,350 --> 00:37:28,350
@@ -3444,7 +3444,7 @@ I hope it's no trouble. I'd just like to see him before the funeral. Eliot glanc
 00:39:06,000 --> 00:39:08,000
 [ELIOT]
 It's no trouble at all.
-ມັນບໍ່ແມ່ນຄວາມຫຍຸ້ງຍາກເລີຍ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 540
 00:39:08,500 --> 00:39:14,500
@@ -3508,7 +3508,7 @@ His smile.    It was a bit more... Vincent raises his fingers to his mouth, tryi
 00:39:51,150 --> 00:39:53,150
 [ELIOT]
 Smiley.
-ມ່ວນຊື່ນ.
+ສະມິລີ.
 
 550
 00:39:53,650 --> 00:39:55,650
@@ -3804,7 +3804,7 @@ A beautiful flower.       They need shade and lots of water.
 00:43:10,900 --> 00:43:12,900
 [ANNA]
 What do they symbolize?
-ພວກເຂົາເປັນສັນຍາລັກຫຍັງ?
+ພວກເຂົາໝາຍຄວາມວ່າແນວໃດ?
 
 596
 00:43:13,400 --> 00:43:15,400
@@ -4471,7 +4471,7 @@ I was always pushing Paul away.      He thought I didn't love him.
 00:50:48,700 --> 00:50:50,700
 [ELIOT]
 Did you?
-ເຈົ້າເຮັດບໍ?
+ແມ່ນບໍ່?
 
 700
 00:50:51,200 --> 00:50:57,200
@@ -5092,8 +5092,7 @@ What was that? Anna responds as if it was nothing strange.
 00:58:28,000 --> 00:58:34,000
 [ANNA]
 It's only the scissors... We see the growing anxiety in Paul's eyes.    Anna's just interested in his lips.
-ມັນເປັນພຽງແຕ່ກະຕ່າກະຕູ້ກະຕ້າກະຕ່າຍກະຕູກກະຕຸ້ນກະຕູ້ນກະຕຸກກະຕວງກະຕຸນກະຕະນາກກະຕັນກະຕານກະຕ່ານະຕານາຕານະທານາ
-. ແອນນາພຽງແຕ່ສົນໃຈປາກຂອງລາວເທົ່ານັ້ນ.
+ມັນເປັນພຽງແຕ່ scissors ໄດ້... ພວກເຮົາເຫັນຄວາມກັງວົນທີ່ເພີ່ມຂຶ້ນໃນຕາຂອງໂປລ. ແອນນາພຽງແຕ່ສົນໃຈໃນປາກຂອງລາວ.
 
 795
 00:58:34,500 --> 00:58:36,500

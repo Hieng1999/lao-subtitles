@@ -413,13 +413,13 @@ Fox... Fox... ບໍ່ແມ່ນ Fox... fo... ເຮ້, ຂ້ອຍຮູ�
 00:04:50,800 --> 00:04:52,800
 [CHARLES FRECK]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 66
 00:04:53,300 --> 00:04:55,300
 [CHARLES FRECK]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 67
 00:04:55,800 --> 00:04:57,800
@@ -519,7 +519,7 @@ That's a neat-o line, but I've heard it before. Everybody bangs me. At least the
 00:05:58,500 --> 00:06:00,500
 [CHARLES FRECK]
 That really sucks.
-ມັນໂຊກຮ້າຍແທ້ໆ.
+ນັ້ນແມ່ນບໍ່ດີແທ້ໆ.
 
 83
 00:06:01,000 --> 00:06:07,000
@@ -667,7 +667,7 @@ Hello?
 00:07:18,200 --> 00:07:20,300
 [BOB ARCTOR]
 Donna.   How you doin'? It's Bob.
-ດອນນາ. ເຈົ້າເປັນແນວໃດ? ມັນແມ່ນໂບບ.
+ດອນນາ ສະບາຍດີເຈົ້າບໍ່? ແມ່ນໂບບ.
 
 107
 00:07:20,800 --> 00:07:22,800
@@ -926,13 +926,13 @@ So is everything good, fellas?
 00:10:04,050 --> 00:10:06,050
 [JIM BARRIS]
 Say, is your name Patty?
-ເວົ້າ, ຊື່ເຈົ້າແມ່ນແປຕຕີ້ບໍ?
+ສະບາຍດີ, ເຈົ້າຊື່ວ່າ ແພຕິບໍ່?
 
 148
 00:10:06,550 --> 00:10:08,550
 [WAITRESS]
 No.  It's Beth.
-ບໍ່. ມັນແມ່ນເບັດ.
+ບໍ່. ແມ່ນແບທ.
 
 149
 00:10:09,050 --> 00:10:11,500
@@ -1729,7 +1729,7 @@ And where are you off to?
 00:19:19,850 --> 00:19:21,850
 [BOB ARCTOR]
 Dropping in on a friend.
-ຂ້ອຍມາພົບເພື່ອນຄົນຫນຶ່ງ.
+ຂ້ອຍກໍາລັງໄປເບິ່ງເພື່ອນຄົນໜຶ່ງຢູ່.
 
 273
 00:19:22,350 --> 00:19:24,350
@@ -1945,7 +1945,7 @@ Hi, yeah, my boyfriend and me got into a fight because of these cowboy boots whi
 00:21:19,800 --> 00:21:21,900
 [ARCTOR]
 This must be bad on you.
-ນີ້ແມ່ນຕ້ອງເປັນອັນຕະລາຍຕໍ່ເຈົ້າ.
+ນີ້ຕ້ອງບໍ່ດີກັບເຈົ້າ.
 
 308
 00:21:22,400 --> 00:21:26,950
@@ -2719,7 +2719,7 @@ Yeah. And we use also use it for playback on five other houses. So you'll be bum
 00:30:11,400 --> 00:30:13,400
 [FRED]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 429
 00:30:13,900 --> 00:30:19,900
@@ -3204,7 +3204,7 @@ How much you pay, Freck?
 00:35:05,050 --> 00:35:07,050
 [CHARLES FRECK]
 Uh, about ten bucks.
-ໂອ້, ປະມານສິບໂດລາ.
+ແມ່ນແລ້ວ, ປະມານ 10 ໂດລາ.
 
 506
 00:35:07,550 --> 00:35:10,000
@@ -3272,7 +3272,7 @@ I phoned and they're checking to see what a rebuilt carb will set you back. Hey,
 00:35:42,950 --> 00:35:44,950
 [CHARLES FRECK]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 517
 00:35:45,450 --> 00:35:47,550
@@ -3506,7 +3506,7 @@ Naw, stay, man, you're a brother.
 00:38:15,400 --> 00:38:17,400
 [CHARLES FRECK]
 Naw, I'm cutting out.
-ບໍ່, ຂ້ອຍ ກໍາ ລັງຕັດອອກ.
+ບໍ່, ຂ້ອຍຈະອອກໄປແລ້ວ.
 
 554
 00:38:17,900 --> 00:38:20,000
@@ -3878,13 +3878,13 @@ I have your stuff.
 00:42:17,350 --> 00:42:19,350
 [BOB ARCTOR]
 My stuff?
-ສິ່ງຂອງຂອງຂ້ອຍບໍ?
+ຂອງຂ້ອຍແມ່ນບໍ່?
 
 613
 00:42:19,850 --> 00:42:21,850
 [DONNA HAWTHORNE]
 Your Death.
-ການຕາຍຂອງທ່ານ.
+ຄວາມຕາຍຂອງເຈົ້າ.
 
 614
 00:42:22,350 --> 00:42:28,350
@@ -3928,7 +3928,7 @@ I don't like Barris, and I don't trust him. He's crazy. And you're crazy when yo
 00:42:45,450 --> 00:42:47,450
 [BOB ARCTOR]
 I am?
-ຂ້ອຍເປັນບໍ?
+ແມ່ນບໍ່?
 
 621
 00:42:47,950 --> 00:42:49,950
@@ -4088,7 +4088,7 @@ The Coca-Cola company is a capitalist monopoly. No one else can make it but them
 00:44:36,000 --> 00:44:38,000
 [BOB ARCTOR]
 Okay, cool.
-ດີ, ດີ.
+ແມ່ນແລ້ວ, ບໍ່ເປັນຫຍັງ.
 
 646
 00:44:38,500 --> 00:44:40,500
@@ -4231,7 +4231,7 @@ I don't like people to grope my body!  I have to watch out for that because I do
 00:45:55,600 --> 00:45:57,600
 [BOB ARCTOR]
 I'm taking off.
-ຂ້ອຍ ກໍາ ລັງບິນໄປ.
+ຂ້ອຍຈະອອກໄປແລ້ວ.
 
 669
 00:45:58,100 --> 00:46:04,100
@@ -4675,7 +4675,7 @@ I suppose I can lay it on that one.  Without him flashing on me. He's docile.
 00:50:30,350 --> 00:50:32,350
 [SCRAMBLE SUIT #1]
 Ugly-looking, too.
-ເບິ່ງບໍ່ດີເຊັ່ນກັນ.
+ນອກຈາກນັ້ນແມ່ນເບິ່ງບໍ່ສວຍງາມອີກດ້ວຍ.
 
 739
 00:50:32,850 --> 00:50:37,400
@@ -4770,13 +4770,13 @@ I believe he said something about that, yes.
 00:51:27,400 --> 00:51:29,400
 [BOB ARCTOR]
 Any extra charge?
-ມີຄ່າທໍານຽມເພີ່ມເຕີມບໍ?
+ມີຄ່າໃຊ້ຈ່າຍເພີ່ມບໍ່?
 
 754
 00:51:29,900 --> 00:51:31,900
 [OLD LADY]
 No extra charge.
-ບໍ່ມີຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມ.
+ບໍ່ຕ້ອງເສຍຄ່າເພີ່ມເຕີມເລີຍ.
 
 755
 00:51:32,400 --> 00:51:36,600
@@ -5090,7 +5090,7 @@ Pathetic, soulless nitwits.
 00:55:13,850 --> 00:55:15,850
 [BOB ARCTOR]
 About an inch high.
-ສູງປະມານ ຫນຶ່ງ ນິ້ວ.
+ເກືອບໜຶ່ງນິ້ວສູງ.
 
 804
 00:55:16,350 --> 00:55:21,950
@@ -5459,7 +5459,7 @@ Okay, Fred, good. Let us process --
 00:59:30,850 --> 00:59:32,850
 [MEDICAL TECHNICIAN #1]
 Thanks for your cooperation, Fred.
-ຂອບໃຈ ສໍາ ລັບການຮ່ວມມືຂອງທ່ານ, ຟຣີດ.
+ຂອບໃຈທີ່ຮ່ວມມືເດີ ຟຣີດ.
 
 861
 00:59:33,350 --> 00:59:35,800
@@ -5730,7 +5730,7 @@ Fred, we've processed your results.
 01:02:25,650 --> 01:02:27,650
 [FRED]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 904
 01:02:28,150 --> 01:02:30,950
@@ -5742,7 +5742,7 @@ You demonstrate something we call a competition phenomenon.
 01:02:31,450 --> 01:02:33,450
 [FRED]
 Okay. Thank you.
-ດີ. ຂອບໃຈ.
+ແມ່ນແລ້ວ ຂອບໃຈເດີ.
 
 906
 01:02:33,950 --> 01:02:39,950
@@ -5824,7 +5824,7 @@ This can't wait.
 01:03:24,750 --> 01:03:26,750
 [HANK]
 Fred?
-ຟຣີດ?
+ແຟຣດ?
 
 919
 01:03:27,250 --> 01:03:29,350
@@ -5937,13 +5937,13 @@ You might be right. But I don't agree. Um, so what does my medical report --
 01:04:37,650 --> 01:04:39,650
 [HANK]
 It says you're completely cuckoo.
-ມັນເວົ້າວ່າເຈົ້າໂຊກຮ້າຍຢ່າງສົມບູນ.
+ມັນບອກວ່າເຈົ້າແມ່ນໂງ່ແທ້ໆ.
 
 937
 01:04:40,150 --> 01:04:42,150
 [FRED]
 Completely?
-ຢ່າງສົມບູນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 938
 01:04:42,650 --> 01:04:45,450
@@ -5955,7 +5955,7 @@ Wie kalt ist es in diesem unterirdischen Gewolbe!
 01:04:45,950 --> 01:04:48,400
 [HANK]
 Maybe two brain cells still light up.
-ບາງທີຈຸລັງສະຫມອງສອງໂຕຍັງສ່ອງແສງຢູ່.
+ບາງທີແມ່ນຍັງມີແສງສະຫວ່າງຢູ່ສອງຈຸລັງສະໝອງ.
 
 940
 01:04:48,900 --> 01:04:51,350
@@ -6304,7 +6304,7 @@ Keep your voice down.
 01:08:37,250 --> 01:08:39,250
 [COP]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 995
 01:08:39,750 --> 01:08:41,750
@@ -6365,7 +6365,7 @@ Substance D?
 01:09:08,600 --> 01:09:10,700
 [NEW-PATH #2]
 It ate his head. Another loser.
-ມັນກິນຫົວຂອງລາວ. ຄົນເສຍຫາຍອີກຄົນຫນຶ່ງ.
+ມັນໄດ້ກິນຫົວລາວແລ້ວ. ອີກຄົນໜຶ່ງທີ່ສູນເສຍ.
 
 1005
 01:09:11,200 --> 01:09:13,650
@@ -6664,7 +6664,7 @@ Bruce.
 01:12:24,100 --> 01:12:26,100
 [MIKE]
 Hey, Bruce!
-ເຮ້ ບຣູສ!
+ສະບາຍດີ ບຣູສ!
 
 1052
 01:12:26,600 --> 01:12:28,600
@@ -6868,13 +6868,13 @@ Is this Jerry Fabin?! Is this Jerry Fabin?!
 01:14:41,050 --> 01:14:43,050
 [FARM MANAGER]
 Your name is Bruce.
-ເຈົ້າຊື່ວ່າ ບຣູສ.
+ເຈົ້າແມ່ນ ບຣູສ.
 
 1084
 01:14:43,550 --> 01:14:45,550
 [BOB ARCTOR]
 My name is Bruce.
-ຂ້ອຍຊື່ວ່າ ບຣູສ.
+ຂ້ອຍແມ່ນ ບຣູສ.
 
 1085
 01:14:46,050 --> 01:14:52,050
@@ -6948,7 +6948,7 @@ This is where you sleep.
 01:15:22,450 --> 01:15:24,550
 [BOB ARCTOR]
 Will I be seeing my friends?
-ຂ້ອຍຈະພົບກັບເພື່ອນຂອງຂ້ອຍບໍ?
+ຂ້ອຍຈະໄດ້ເຫັນເພື່ອນໆບໍ່?
 
 1097
 01:15:25,050 --> 01:15:27,150

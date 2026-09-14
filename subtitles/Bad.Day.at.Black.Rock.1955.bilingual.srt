@@ -158,7 +158,7 @@ There must be some mistake. I'm Hastings, the telegraph agent. Nobody told me th
 00:02:02,450 --> 00:02:04,450
 [MACREEDY]
 They didn't?
-ພວກເຂົາບໍ່ໄດ້ເຮັດບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 26
 00:02:04,950 --> 00:02:10,950
@@ -528,7 +528,7 @@ Not at all. But if you want this room real bad...  ...we could maybe settle your
 00:05:39,400 --> 00:05:41,400
 [MACREEDY]
 I guess so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 85
 00:05:41,900 --> 00:05:45,400
@@ -540,7 +540,7 @@ You guess so. But still you ain't claimin' this room?
 00:05:45,900 --> 00:05:47,900
 [MACREEDY]
 I guess not.
-ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ.
+ຂ້ອຍຄິດບໍ່.
 
 87
 00:05:48,400 --> 00:05:52,250
@@ -639,7 +639,7 @@ Hey! Hold it!
 00:06:43,100 --> 00:06:45,100
 [MACREEDY]
 Got any cigarettes?
-ມີຢາສູບບໍ?
+ມີສູບຢາບໍ່?
 
 103
 00:06:45,600 --> 00:06:47,600
@@ -748,7 +748,7 @@ That's all I know about him, Mr. Smith.
 00:07:35,750 --> 00:07:37,750
 [SMITH]
 Sit down.
-ນັ່ງລົງ.
+ນັ່ງເດີ້.
 
 121
 00:07:38,250 --> 00:07:40,250
@@ -760,7 +760,7 @@ I was only...
 00:07:40,750 --> 00:07:42,750
 [SMITH]
 Sit down.
-ນັ່ງລົງ.
+ນັ່ງເດີ້.
 
 123
 00:07:43,250 --> 00:07:45,250
@@ -1048,7 +1048,7 @@ That's all you do. But while you wait... I talk to him.
 00:10:23,450 --> 00:10:25,450
 [DOC]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 169
 00:10:25,950 --> 00:10:30,150
@@ -1696,7 +1696,7 @@ Sequence omitted from original script.
 00:16:56,750 --> 00:16:58,750
 [SMITH]
 Now, Coley...?
-ດຽວນີ້, ຄໍລີ...?
+ແມ່ນແລ້ວ, ຄໍລີ?
 
 272
 00:16:59,250 --> 00:17:01,700
@@ -1720,7 +1720,7 @@ So there's nothing to worry about.
 00:17:07,300 --> 00:17:09,750
 [SMITH]
 Isn't there?  You got brains, you have.
-ເຈົ້າມີສະຫມອງ, ເຈົ້າມີ.
+ແມ່ນບໍ່? ເຈົ້າມີສະໝອງແລ້ວ, ແມ່ນແລ້ວ.
 
 276
 00:17:10,250 --> 00:17:14,800
@@ -1789,7 +1789,7 @@ No danger, he says. This guy's like a carrier of small pox. Since he arrives, th
 00:17:53,150 --> 00:17:55,150
 [PETE]
 She's just a kid.
-ນາງພຽງແຕ່ເປັນເດັກນ້ອຍເທົ່ານັ້ນ.
+ແມ່ນແລ້ວ, ນາງແມ່ນພຽງແຕ່ເດັກນ້ອຍ.
 
 287
 00:17:55,650 --> 00:18:01,650
@@ -1896,7 +1896,7 @@ Cut it out, Tim.
 00:19:04,000 --> 00:19:06,000
 [TIM]
 You should!
-ເຈົ້າຄວນ!
+ເຈົ້າຕ້ອງໄດ້!
 
 304
 00:19:06,500 --> 00:19:12,500
@@ -2629,7 +2629,7 @@ I think I understand. You're an Army man.  Where'd you get it?
 00:27:05,050 --> 00:27:07,050
 [MACREEDY]
 Italy.
-ອີຕາລີ.
+ອິຕາລີ
 
 420
 00:27:07,550 --> 00:27:12,800
@@ -2655,7 +2655,7 @@ The physical. They wouldn't take me. The morning after Pearl, I was the first ma
 00:27:22,300 --> 00:27:24,300
 [MACREEDY]
 Tough.
-ຍາກຫຼາຍ.
+ຫຍຸ້ງຍາກ.
 
 424
 00:27:24,800 --> 00:27:27,950
@@ -2800,7 +2800,7 @@ Not all. Some of 'em. When they come here snooping.
 00:28:50,100 --> 00:28:52,100
 [MACREEDY]
 Snooping for what?
-ການກວດເບິ່ງຫຍັງ?
+ຄົ້ນຫາຫຍັງແດ່?
 
 447
 00:28:52,600 --> 00:28:55,400
@@ -3040,7 +3040,7 @@ They rip off the top soil of ten winding hills. They sprint in here, fog-heaved 
 00:31:18,350 --> 00:31:20,350
 [DOC]
 Is it gold?
-ມັນເປັນຄໍາບໍ?
+ແມ່ນຄໍາບໍ່?
 
 485
 00:31:20,850 --> 00:31:24,000
@@ -3158,7 +3158,7 @@ Won't start.
 00:32:28,850 --> 00:32:30,850
 [DOC]
 Something wrong?
-ມີຫຍັງຜິດບໍ?
+ມີຫຍັງບໍ່ດີບໍ່?
 
 504
 00:32:31,350 --> 00:32:33,350
@@ -3309,7 +3309,7 @@ That's what it says.
 00:33:58,400 --> 00:34:00,400
 [HASTINGS]
 Lemonade?
-ໂລມອນາດບໍ?
+ນໍ້າລີໂມເນດບໍ່?
 
 528
 00:34:00,900 --> 00:34:02,900
@@ -3346,7 +3346,7 @@ What ails you, Mr. Hastings?
 00:34:17,500 --> 00:34:19,500
 [HASTINGS]
 Me...?
-ຂ້ອຍ...?
+ຂ້ອຍແມ່ນບໍ່?
 
 534
 00:34:20,000 --> 00:34:22,800
@@ -4379,7 +4379,7 @@ Hector!
 00:45:01,600 --> 00:45:03,600
 [HECTOR]
 Hmmmm?
-Hmmmm?
+ແມ່ນແລ້ວບໍ່?
 
 699
 00:45:04,100 --> 00:45:06,100
@@ -4714,7 +4714,7 @@ I'd like to kill you now, but you caused too much pain to die quickly.  You'll b
 00:48:17,250 --> 00:48:19,250
 [MACREEDY]
 Hands behind your head.
-ມືຢູ່ເບື້ອງຫຼັງຫົວຂອງທ່ານ.
+ຈັບມືໄວ້ຫຼັງຫົວເດີ.
 
 753
 00:48:19,750 --> 00:48:22,550
@@ -4757,7 +4757,7 @@ Old Tim here's got his badge back.
 00:48:43,350 --> 00:48:45,450
 [MACREEDY]
 Well. The gang is all here.
-ດີ. ກຸ່ມຄົນທັງ ຫມົດ ຢູ່ບ່ອນນີ້.
+ແມ່ນແລ້ວ. ຄະນະທັງ ໝົດ ແມ່ນຢູ່ບ່ອນນີ້ແລ້ວ.
 
 760
 00:48:45,950 --> 00:48:51,900

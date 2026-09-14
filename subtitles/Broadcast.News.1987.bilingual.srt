@@ -72,7 +72,7 @@ As long as that's your only problem you're...
 00:00:54,450 --> 00:00:56,450
 [TOM]
 It's not.
-ມັນບໍ່ແມ່ນ.
+ແມ່ນບໍ່.
 
 13
 00:00:56,950 --> 00:01:01,150
@@ -138,7 +138,7 @@ I'm always so confused by Aaron. Is he brave and earnest or just a conceited lit
 00:01:47,800 --> 00:01:49,800
 [YOUTH #1]
 Later, Aaron.
-ຕໍ່ມາ, ອາຣອນ.
+ຫຼັງຈາກນັ້ນ ແອຣອນ.
 
 23
 00:01:50,300 --> 00:01:56,300
@@ -299,7 +299,7 @@ It's an ethnic curl, I can't do anything about it.
 00:03:44,500 --> 00:03:47,650
 [AARON]
 No -- Don't worry about it.  Let's do this.
-ບໍ່ - ຢ່າກັງວົນກ່ຽວກັບມັນ. ມາເຮັດສິ່ງນີ້.
+ບໍ່ - ບໍ່ຕ້ອງເປັນຫ່ວງ. ມາເຮັດແບບນີ້ເດີ້.
 
 48
 00:03:48,150 --> 00:03:54,150
@@ -575,7 +575,7 @@ Hi.  I was worried I was early.
 00:06:59,050 --> 00:07:01,050
 [TOM]
 I was a lot earlier.
-ຂ້ອຍເປັນກ່ອນຫຼາຍ.
+ຂ້ອຍແມ່ນກ່ອນໜ້ານີ້ຫຼາຍ.
 
 91
 00:07:01,550 --> 00:07:07,550
@@ -788,7 +788,7 @@ It's hard for me to advise you since you personify something that I truly think 
 00:09:24,750 --> 00:09:26,750
 [TOM]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 124
 00:09:27,250 --> 00:09:33,250
@@ -858,7 +858,7 @@ Okay.  Let's do me.
 00:10:10,600 --> 00:10:12,600
 [JANE]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 135
 00:10:13,100 --> 00:10:19,100
@@ -915,7 +915,7 @@ I never told you the reason I was telling you everything for.
 00:10:46,750 --> 00:10:48,750
 [JANE]
 Hey?
-ເຮ້?
+ສະບາຍດີບໍ່?
 
 144
 00:10:49,250 --> 00:10:55,250
@@ -954,7 +954,7 @@ Any particular area you feel strongest in?
 00:11:13,450 --> 00:11:16,250
 [TOM]
 To be honest, I was best at anchor.
-ເພື່ອເປັນຄວາມຈິງໃຈ, ຂ້ອຍເປັນຄົນທີ່ດີທີ່ສຸດໃນການແອນເກີ.
+ແມ່ນແລ້ວ, ຂ້ອຍແມ່ນແອນເກີທີ່ດີທີ່ສຸດ.
 
 150
 00:11:16,750 --> 00:11:22,700
@@ -1129,7 +1129,7 @@ Here's one.  They allow us to have cameras at an execution in Florida. Do you br
 00:12:58,000 --> 00:13:00,000
 [KLEIN]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 178
 00:13:00,500 --> 00:13:02,500
@@ -1141,13 +1141,13 @@ Why not?
 00:13:03,000 --> 00:13:05,000
 [ERNIE]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 180
 00:13:05,500 --> 00:13:07,500
 [GEORGE]
 You bet.
-ເຈົ້າແນ່ໃຈວ່າ.
+ແມ່ນແລ້ວ.
 
 181
 00:13:08,000 --> 00:13:11,150
@@ -1303,7 +1303,7 @@ You're almost there, you can do it -- can do -- can do.
 00:14:35,800 --> 00:14:37,800
 [BOBBIE]
 Ready.
-ກຽມພ້ອມແລ້ວ.
+ແມ່ນແລ້ວ.
 
 206
 00:14:38,300 --> 00:14:41,450
@@ -1531,7 +1531,7 @@ Did you shoot their boots?
 00:17:13,900 --> 00:17:15,900
 [JANE]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 241
 00:17:16,400 --> 00:17:18,850
@@ -1642,7 +1642,7 @@ Jane!  Bill Rorish wants to speak to you at the break.  I never heard of him han
 00:18:16,550 --> 00:18:18,550
 [BILL]
 Jane?
-ເຈນ?
+ແຈນແມ່ນບໍ່?
 
 259
 00:18:19,050 --> 00:18:21,050
@@ -1975,7 +1975,7 @@ No...no.
 00:21:29,350 --> 00:21:31,350
 [BUDDY]
 One's enough.
-ຫນຶ່ງພຽງພໍ.
+ໜຶ່ງແມ່ນພຽງພໍແລ້ວ.
 
 313
 00:21:31,850 --> 00:21:33,850
@@ -2240,7 +2240,7 @@ What if we just don't tell them anything anymore unless they let you do the stor
 00:24:29,650 --> 00:24:31,650
 [TOM]
 No.  Really...don't worry about it.
-ບໍ່. ແທ້ໆ... ຢ່າກັງວົນກ່ຽວກັບມັນ.
+ບໍ່. ແມ່ນແລ້ວ... ບໍ່ຕ້ອງເປັນຫ່ວງ.
 
 355
 00:24:32,150 --> 00:24:38,150
@@ -2650,7 +2650,7 @@ I hope he moves that fast when it's me on the line.
 00:28:57,000 --> 00:28:59,000
 [JANE]
 Jennifer.  Hey, Jennifer.
-ເຈນນິເຟີ ເຮ້ ເຈນນີເຟຣີ.
+ສະບາຍດີ ແຈນນິເຟີ
 
 420
 00:28:59,500 --> 00:29:04,050
@@ -2899,7 +2899,7 @@ I have to check first.
 00:31:36,200 --> 00:31:39,700
 [BUDDY]
 Well, then check -- but hurry -- There he is!!!
-ດີ, ຫຼັງຈາກນັ້ນກວດສອບ - ແຕ່ໄວ - ລາວຢູ່ບ່ອນນັ້ນ!!!
+ແມ່ນແລ້ວ, ຫຼັງຈາກນັ້ນເບິ່ງ - ແຕ່ໄວໆ - ລາວແມ່ນແລ້ວ!!!
 
 460
 00:31:40,200 --> 00:31:42,200
@@ -3090,7 +3090,7 @@ A lot of alliteration from anxious anchors placed in powerful posts.
 00:33:43,150 --> 00:33:45,150
 [BLAIR]
 It's Aaron.
-ມັນເປັນອາຣອນ.
+ແມ່ນແອຣອນ.
 
 490
 00:33:45,650 --> 00:33:47,650
@@ -3368,7 +3368,7 @@ You'll never show up.
 00:36:59,900 --> 00:37:01,900
 [TOM]
 Jane?
-ເຈນ?
+ແຈນແມ່ນບໍ່?
 
 533
 00:37:02,400 --> 00:37:04,400
@@ -3392,7 +3392,7 @@ Okay.
 00:37:10,000 --> 00:37:12,000
 [JANE]
 Really?  It was good.
-ແທ້ຈິງບໍ? ມັນດີ.
+ແມ່ນບໍ່? ແມ່ນແລ້ວ.
 
 537
 00:37:12,500 --> 00:37:16,700
@@ -3555,7 +3555,7 @@ I sure know that feeling.  Terrific work today.
 00:38:58,450 --> 00:39:00,450
 [JANE]
 Right back to you.
-ກັບຄືນໄປບ່ອນເຈົ້າ.
+ແມ່ນແລ້ວກັບຄືນສູ່ເຈົ້າເດີ້.
 
 563
 00:39:00,950 --> 00:39:02,950
@@ -3702,7 +3702,7 @@ Anyway, they seem to be very serious about making me out eight million from the 
 00:40:34,050 --> 00:40:36,050
 [JANE]
 Jennifer.
-ຈັນນີເຟີ.
+ແຈນນິເຟີ
 
 586
 00:40:36,550 --> 00:40:42,150
@@ -3764,7 +3764,7 @@ The Italians serve the second best things right after the Chinese...I could do a
 00:41:15,650 --> 00:41:17,750
 [AARON]
 Who the heck could that be?
-ນັ້ນອາດຈະເປັນໃຜ?
+ນັ້ນແມ່ນໃຜແທ້ໆ?
 
 596
 00:41:18,250 --> 00:41:20,350
@@ -3834,7 +3834,7 @@ You've made my dreams silly.
 00:42:01,650 --> 00:42:03,650
 [TOM]
 Heavy hitters.
-ພວກຕີຫນັກ.
+ນັກຕີໜັກ.
 
 607
 00:42:04,150 --> 00:42:06,150
@@ -3853,7 +3853,7 @@ Great.  Network news, Washington... I love it.  What do you do when your real li
 00:42:13,150 --> 00:42:15,150
 [AARON]
 Keep it to yourself.
-ຮັກສາມັນໄວ້ໃຫ້ຕົວເອງ.
+ສະຫງວນໄວ້ໃຫ້ເຈົ້າເອງເດີ້.
 
 610
 00:42:15,650 --> 00:42:21,650
@@ -3985,7 +3985,7 @@ I'm starting to... We may do the capitols of the states.
 00:43:35,500 --> 00:43:37,500
 [TOM]
 Fifty, right?
-ຫ້າສິບ, ແມ່ນບໍ?
+50 ແມ່ນບໍ່?
 
 631
 00:43:38,000 --> 00:43:44,000
@@ -4022,7 +4022,7 @@ I'm going to have to do a story from beginning to end on my own.
 00:44:01,550 --> 00:44:04,350
 [JANE]
 Eventually.  Does it have to be right now?
-ໃນທີ່ສຸດ. ມັນຕ້ອງເປັນດຽວນີ້ບໍ?
+ສຸດທ້າຍແມ່ນແລ້ວ. ມັນຕ້ອງແມ່ນໃນເວລານີ້ບໍ່?
 
 637
 00:44:04,850 --> 00:44:10,850
@@ -4166,7 +4166,7 @@ No.  Were you going to you?
 00:45:31,650 --> 00:45:33,650
 [JANE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 660
 00:45:34,150 --> 00:45:37,300
@@ -4264,7 +4264,7 @@ The victims often remain too terrified to talk -- the police powerless and all t
 00:46:41,550 --> 00:46:44,000
 [AARON]
 I'm in a pissy mood.  I'm sorry.
-ຂ້ອຍຢູ່ໃນອາລົມໂຊກຮ້າຍ. ຂ້ອຍຂໍໂທດ.
+ຂ້ອຍມີອາລົມບໍ່ດີແລ້ວ. ຂໍໂທດເດີ.
 
 675
 00:46:44,500 --> 00:46:46,500
@@ -4372,7 +4372,7 @@ Anyway.  I want you to think of this as...
 00:47:52,200 --> 00:47:55,000
 [AARON]
 Just blunt talk, okay?  I'd really appreciate bluntness.
-ພຽງແຕ່ເວົ້າໂດຍກົງ, ດີບໍ? ຂ້ອຍຈະຍ້ອງຍໍຄວາມກົງກັນຂ້າມແທ້ໆ.
+ແມ່ນແລ້ວ, ຂ້ອຍຈະຍ້ອງຍໍຄວາມຈິງໃຈແທ້ໆ.
 
 692
 00:47:55,500 --> 00:47:57,500
@@ -4570,13 +4570,13 @@ Hey, Tom...
 00:50:03,450 --> 00:50:05,450
 [AARON]
 I'm very appreciative.
-ຂ້ອຍຍ້ອງຍໍຫຼາຍ.
+ຂອບໃຈຫຼາຍໆເດີ.
 
 723
 00:50:05,950 --> 00:50:07,950
 [TOM]
 No.  No.
-ບໍ່. ບໍ່.
+ບໍ່ ບໍ່
 
 724
 00:50:08,450 --> 00:50:10,450
@@ -4716,7 +4716,7 @@ You look terrific.
 00:51:37,500 --> 00:51:39,500
 [AARON]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 746
 00:51:40,000 --> 00:51:46,000
@@ -4748,8 +4748,7 @@ Well, the line of the jacket -- No really....just very nice...just right. I wish
 00:51:58,000 --> 00:52:02,550
 [AARON]
 Me too...Hey...if it gets dull a little before 11:00, drop by the studio.
-ຂ້ອຍຄືກັນ... ເຮ້... ຖ້າມັນເຮັດໃຫ້ໂຊກຮ້າຍ
-ຫນ້ອຍ ຫນຶ່ງ ກ່ອນເວລາ 11:00, ມາສະຕູດິໂອ.
+ຂ້ອຍເຊັ່ນກັນ... ສະບາຍດີ... ຖ້າມັນຈະເບື່ອໜ່າຍກ່ອນ 11:00, ມາທີ່ສະຕູດິໂອ.
 
 751
 00:52:03,050 --> 00:52:05,500
@@ -4831,7 +4830,7 @@ If he doesn't see me soon, we're not supposed to be together.
 00:52:50,450 --> 00:52:52,450
 [TOM]
 It's incredible who's here.
-ມັນຫນ້າເຊື່ອໃຈວ່າໃຜຢູ່ບ່ອນນີ້.
+ບໍ່ເຊື່ອໄດ້ເລີຍວ່າແມ່ນໃຜທີ່ມາທີ່ນີ້.
 
 764
 00:52:52,950 --> 00:52:54,950
@@ -4855,7 +4854,7 @@ Want to look at this?
 00:53:00,450 --> 00:53:02,450
 [W.N.P.]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 768
 00:53:02,950 --> 00:53:04,950
@@ -4879,7 +4878,7 @@ Way to go.
 00:53:10,900 --> 00:53:14,400
 [W.N.P.]
 This is terrific news, Aaron.  It's a pleasure to read.
-ນີ້ແມ່ນຂ່າວທີ່ຍິ່ງໃຫຍ່, ອາຣອນ. ມັນເປັນຄວາມສຸກທີ່ຈະອ່ານ.
+ນີ້ແມ່ນຂ່າວທີ່ດີເລີດ ແອຣອນ. ດີໃຈທີ່ໄດ້ອ່ານ.
 
 772
 00:53:14,900 --> 00:53:20,900
@@ -5256,7 +5255,7 @@ Okay.  Sorry.  Don't yell at me like that again, you scared the life out of me.
 00:57:06,350 --> 00:57:08,350
 [AARON]
 I was in the shower.
-ຂ້ອຍຢູ່ໃນອາບນ້ ໍາ.
+ຂ້ອຍກໍາລັງອາບນໍ້າຢູ່.
 
 832
 00:57:08,850 --> 00:57:10,850
@@ -5328,7 +5327,7 @@ Then what was good about it?
 00:57:37,800 --> 00:57:39,800
 [AARON]
 I lost six pounds...
-ຂ້ອຍສູນເສຍຫົກປອນ...
+ຂ້ອຍໄດ້ສູນເສຍ 6 ປອນແລ້ວ...
 
 844
 00:57:40,300 --> 00:57:42,300
@@ -5642,7 +5641,7 @@ Yeah -- well, I'm sorry I'm tying up Jane, I didn't realize you two would be goi
 01:00:57,150 --> 01:00:59,150
 [TOM]
 No.  Don't worry about it.
-ບໍ່. ຢ່າກັງວົນກ່ຽວກັບມັນ.
+ບໍ່. ບໍ່ຕ້ອງກັງວົນເລີຍ.
 
 894
 01:00:59,650 --> 01:01:01,650
@@ -5678,7 +5677,7 @@ I've got my father coming through tomorrow anyway.  I should get some sleep.
 01:01:16,300 --> 01:01:18,300
 [JANE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 900
 01:01:18,800 --> 01:01:21,600
@@ -5765,7 +5764,7 @@ Tell me I'm on the way in.
 01:02:04,600 --> 01:02:06,600
 [WIFE]
 It's Paul.
-ມັນເປັນໂປລ.
+ແມ່ນໂປລ.
 
 914
 01:02:07,100 --> 01:02:09,100
@@ -6105,7 +6104,7 @@ I certainly hope you die soon.
 01:05:33,350 --> 01:05:35,350
 [PAUL]
 Tom.
-ໂຕມ.
+ທອມ.
 
 968
 01:05:35,850 --> 01:05:41,850
@@ -6333,7 +6332,7 @@ Well, I just think that' an extraordinary proposal.
 01:08:04,850 --> 01:08:06,850
 [TOM]
 That's yes?
-ນັ້ນແມ່ນແມ່ນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1004
 01:08:07,350 --> 01:08:10,150
@@ -6477,7 +6476,7 @@ Jane, you know how Tom had tears in the piece the other night?  Ask yourself how
 01:09:52,300 --> 01:09:54,750
 [TOM'S VOICE]
 Okay, that will do it.  You okay?
-ດີແລ້ວ, ນັ້ນຈະເຮັດໄດ້. ເຈົ້າດີບໍ?
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນແລ້ວ. ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 1026
 01:09:55,250 --> 01:09:57,250
@@ -6489,7 +6488,7 @@ That's enough.  That's enough.
 01:09:57,750 --> 01:09:59,750
 [YOUNG WOMAN]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 1028
 01:10:00,250 --> 01:10:02,250
@@ -6526,7 +6525,7 @@ I just need you for another minute now, so we can shoot from behind towards me, 
 01:10:19,050 --> 01:10:21,050
 [YOUNG WOMAN]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 1034
 01:10:21,550 --> 01:10:27,550
@@ -6539,7 +6538,7 @@ Uh-huh.
 01:10:28,050 --> 01:10:30,050
 [SOUNDWOMAN'S VOICE]
 Tom
-ໂຕມ
+ທອມ
 
 1036
 01:10:30,550 --> 01:10:32,550
@@ -6558,7 +6557,7 @@ It kills me we didn't have a second camera. It was so powerful seeing your react
 01:10:39,150 --> 01:10:41,150
 [TOM]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1039
 01:10:41,650 --> 01:10:43,650
@@ -6600,7 +6599,7 @@ Look who's the organized one. I've got everything.
 01:11:01,050 --> 01:11:03,050
 [JANE]
 I'm not going.
-ຂ້ອຍຈະບໍ່ໄປ.
+ຂ້ອຍບໍ່ໄປເລີຍ.
 
 1046
 01:11:03,550 --> 01:11:05,550
@@ -6699,7 +6698,7 @@ It's amazing.  You commit this incredible breach of ethics and you act as if I'm
 01:12:13,250 --> 01:12:15,250
 [TOM]
 I'm leaving now.  Gate 43.
-ຂ້ອຍ ກໍາ ລັງອອກໄປດຽວນີ້. ປະຕູ 43.
+ຂ້ອຍຈະອອກໄປແລ້ວ. ປະຕູ 43.
 
 1061
 01:12:15,750 --> 01:12:17,750
@@ -6775,7 +6774,7 @@ Sir?
 01:12:59,450 --> 01:13:02,250
 [JANE]
 So you have an extra bathing suit, huh?
-ສະນັ້ນເຈົ້າມີຊຸດລອຍນ້ ໍາ ເພີ່ມເຕີມ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ ເຈົ້າມີຊຸດອາບນໍ້າເພີ່ມອີກບໍ່?
 
 1073
 01:13:02,750 --> 01:13:04,750
@@ -6943,7 +6942,7 @@ All right.
 01:14:36,200 --> 01:14:38,200
 [LILA]
 Tom, the speech was magnificent.
-ໂຕມ, ການກ່າວຄໍາປາໄສແມ່ນຍິ່ງໃຫຍ່.
+ທອມ, ຄໍາປາໄສແມ່ນດີເລີດ.
 
 1100
 01:14:38,700 --> 01:14:41,500
@@ -6955,7 +6954,7 @@ Oh, I didn't say anything about your speech.
 01:14:42,000 --> 01:14:44,000
 [TOM]
 I appreciate it.
-ຂ້ອຍຍ້ອງຍໍມັນ.
+ຂ້ອຍຂໍຂອບໃຈເດີ.
 
 1102
 01:14:44,500 --> 01:14:49,750
@@ -7006,7 +7005,7 @@ I think so...They've been talking to me about being Tom's Managing Editor.
 01:15:11,900 --> 01:15:13,900
 [AARON]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1110
 01:15:14,400 --> 01:15:16,400
@@ -7080,7 +7079,7 @@ Bye...boss.
 01:15:57,750 --> 01:15:59,750
 [AARON]
 Hey!  Cliff!  Cliff!
-ເຮ້! ຄລິຟ! ຄລີຟ!
+ສະບາຍດີ ຄລິຟ ຄລີຟ!
 
 1122
 01:16:00,250 --> 01:16:02,250
@@ -7092,7 +7091,7 @@ Go back to your daddy.
 01:16:02,750 --> 01:16:04,750
 [AARON]
 Come on, Cliff.  Come on.
-ມາແລ້ວ ຄລິຟ. ມາແລ້ວ.
+ສະບາຍດີ ຄລິຟ. ສະບາຍແລ້ວ.
 
 1124
 01:16:05,250 --> 01:16:07,250

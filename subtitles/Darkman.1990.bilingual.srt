@@ -80,7 +80,7 @@ Bum leg?
 00:01:03,700 --> 00:01:05,700
 [SKIP]
 No leg.
-ບໍ່ມີຕີນ.
+ບໍ່ຕ້ອງມີຂາເລີຍ.
 
 14
 00:01:06,200 --> 00:01:10,750
@@ -661,7 +661,7 @@ Please, Madame! I serve the Reme!
 00:07:55,150 --> 00:07:57,150
 [STRACK SR.]
 Mine tastes okay.
-ຂອງຂ້ອຍລົດຊາດດີ.
+ຂອງຂ້ອຍແຊບບໍ່ເປັນຫຍັງເລີຍ.
 
 103
 00:07:57,650 --> 00:08:03,650
@@ -1016,7 +1016,7 @@ extends from one wall to the other. Reacting to the shattered test-tube, Julie s
 00:12:01,500 --> 00:12:03,600
 [CLICK]
 a photic-sensor picks up the disturbance.
-ເຄື່ອງເຊັນເຊີຟອດິກຈັບການລົບກວນ.
+ແຊນເຊີໂຟຕິກຈັບຄວາມລົບກວນໄດ້.
 
 158
 00:12:04,100 --> 00:12:10,050
@@ -1678,7 +1678,7 @@ Look, I asked her. She said no, okay? Well, she actually said "I don't know". Pe
 00:20:08,000 --> 00:20:10,000
 [PEYTON]
 I'll get it.
-ຂ້ອຍຈະເອົາມັນ.
+ແມ່ນແລ້ວ, ຂ້ອຍຈະຮັບໄດ້.
 
 259
 00:20:10,500 --> 00:20:12,500
@@ -1728,7 +1728,7 @@ comes on revealing Trumayne.
 00:20:37,200 --> 00:20:39,200
 [ANOTHER LIGHT]
 Rudy Guzman.
-ຣູດີ ກູຊມານ.
+Rudy ກູຊແມນ
 
 267
 00:20:39,700 --> 00:20:45,700
@@ -2560,7 +2560,7 @@ reaches out and delicately touches Julie's hair with a skeletal claw--a twisted 
 00:30:46,550 --> 00:30:48,550
 [DARIOMAN]
 Julie... Julie continues to sleep.
-ຈູລິຍ... ຈູລີສືບຕໍ່ນອນ.
+ຈູລີ... ຈູຣີຍັງນອນຢູ່ຕໍ່ໄປ.
 
 394
 00:30:49,050 --> 00:30:51,500
@@ -3058,7 +3058,7 @@ You know, as much as I'd like to thi differently, i suppose I'm not above the oc
 00:36:48,950 --> 00:36:50,950
 [JULIE]
 Like anyone else.
-ຄືກັບຄົນອື່ນ.
+ຄືກັບໃຜກໍ່ຕາມ.
 
 471
 00:36:51,450 --> 00:36:57,450
@@ -3609,7 +3609,7 @@ Yeah. I am back, aren't I? Just like always.
 00:43:07,600 --> 00:43:10,050
 [DURANT'S VOICE]
 That would be just fine for me.
-ມັນຈະດີດີ ສໍາ ລັບຂ້ອຍ.
+ນັ້ນແມ່ນບໍ່ເປັນຫຍັງກັບຂ້ອຍ.
 
 557
 00:43:10,550 --> 00:43:16,550
@@ -3976,7 +3976,7 @@ Where's who?!
 00:47:28,750 --> 00:47:30,750
 [REAL DURANT]
 Guzman.
-ກູຊມານ.
+ກູຊແມນ
 
 614
 00:47:31,250 --> 00:47:33,350

@@ -787,7 +787,7 @@ It's a fake.
 00:09:50,650 --> 00:09:52,650
 [SCHOOL ADMINISTRATOR]
 Excuse me?
-ຂໍໂທດບໍ?
+ສະບາຍດີບໍ່?
 
 122
 00:09:53,150 --> 00:09:55,250
@@ -1323,7 +1323,7 @@ Go down to the Well-Built Uniform Company at Ninth and Broadway -- they're our u
 00:16:32,550 --> 00:16:34,550
 [ROSS]
 What's your rank?
-ຕໍາແຫນ່ງຂອງທ່ານແມ່ນຫຍັງ?
+ເຈົ້າມີຊັ້ນໃດ?
 
 204
 00:16:35,050 --> 00:16:37,050
@@ -1347,7 +1347,7 @@ It feels great.
 00:16:42,550 --> 00:16:44,550
 [ROSS]
 It's gonna be $164 dollars.
-ມັນຈະເປັນເງິນໂດລາ 164.
+ຈະແມ່ນ $164 ໂດລາ
 
 208
 00:16:45,050 --> 00:16:47,500
@@ -1582,7 +1582,7 @@ Morning. You mind if I ask you a question?
 00:19:29,750 --> 00:19:31,750
 [FRANK]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 245
 00:19:32,250 --> 00:19:38,250
@@ -1828,7 +1828,7 @@ There you go. Would you like a drink after take-off? Frank quickly sits in the j
 00:22:44,900 --> 00:22:46,900
 [FRANK]
 A glass of milk, please.
-ຈອກນົມ, ກະລຸນາ.
+ສະບາຍດີ, ຈອກນົມໜຶ່ງເດີ້.
 
 282
 00:22:47,400 --> 00:22:49,500
@@ -2404,7 +2404,7 @@ You think the FBI are the only ones tracking this guy. We've been following a pa
 00:30:07,500 --> 00:30:09,500
 [JOE SHAYE]
 Let me see some identification.
-ຂໍໃຫ້ຂ້ອຍເຫັນໃບຢັ້ງຢືນບາງຢ່າງ.
+ຂໍໃຫ້ຂ້ອຍເບິ່ງເອກະສານປະຈໍາຕົວແດ່ເດີ.
 
 370
 00:30:10,000 --> 00:30:16,000
@@ -2552,7 +2552,7 @@ Hey, Sean, you want to hear a joke?
 00:31:52,750 --> 00:31:54,750
 [SPECIAL AGENT WILKES]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 393
 00:31:55,250 --> 00:31:57,250
@@ -3238,13 +3238,13 @@ What are you writing?
 00:40:14,850 --> 00:40:16,850
 [BRENDA]
 A letter to Ringo.
-ຈົດຫມາຍໄປຫາຣິງໂກ້.
+ຈົດໝາຍໄປຫາ Ringo.
 
 499
 00:40:17,350 --> 00:40:19,350
 [FRANK]
 What does it say?
-ມັນຂຽນວ່າແນວໃດ?
+ມັນຂຽນຫຍັງໄວ້?
 
 500
 00:40:19,850 --> 00:40:21,950
@@ -4475,7 +4475,7 @@ We have to leave, Brenda. You love me, right? I mean, you would love me no matte
 00:54:46,350 --> 00:54:48,350
 [BRENDA]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 691
 00:54:48,850 --> 00:54:54,850
@@ -5200,7 +5200,7 @@ He's not an agent, Joe. He's a waiter at the restaurant around the corner.
 01:03:19,100 --> 01:03:21,100
 [DETECTIVE JULIEN]
 Julien.
-ຈູເລນ.
+ຈູລິແອນ
 
 803
 01:03:21,600 --> 01:03:24,050
@@ -5636,7 +5636,7 @@ Mr. Abagnale, you've served five years of an eighteen year sentence
 01:08:40,200 --> 01:08:42,300
 [F K]
 That's righ ve years, two months.
-ນັ້ນແມ່ນສິບປີ, ສອງເດືອນ.
+ແມ່ນແລ້ວ 5 ປີ 2 ເດືອນ.
 
 870
 01:08:42,800 --> 01:08:48,800
@@ -6019,7 +6019,7 @@ Somebody gave you a credit card? That's a horrifying thought. The two men sit in
 01:12:58,600 --> 01:13:00,600
 [FRANK]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 930
 01:13:01,100 --> 01:13:04,250

@@ -239,7 +239,7 @@ Sure, but -- forty-two million dollars??
 00:02:44,350 --> 00:02:47,150
 [WARDEN]
 His record's clean.  Thirteen years without an incident.
-ບັນທຶກຂອງລາວແມ່ນສະອາດ. ສາມສິບສາມປີໂດຍບໍ່ມີເຫດການ.
+ບັນທຶກຂອງເຂາແມ່ນບໍ່ເປັນຫຍັງ. 13 ປີທີ່ບໍ່ມີເຫດການຫຍັງເລີຍ.
 
 39
 00:02:47,650 --> 00:02:53,650
@@ -521,7 +521,7 @@ The park tower?  All systems go.  If we can get the junkies and winos cleared ou
 00:05:47,700 --> 00:05:49,700
 [BRUCE]
 I'll think about it.
-ຂ້ອຍຈະຄິດກ່ຽວກັບມັນ.
+ຂ້ອຍຈະຄິດດີເດີ້.
 
 84
 00:05:50,200 --> 00:05:56,200
@@ -634,7 +634,7 @@ Piss off, geek.
 00:07:05,100 --> 00:07:07,200
 [RICKY]
 Yo.  Ricky here.  What's the haps?
-ໂຢ. ຣິກກີຢູ່ບ່ອນນີ້. ເກີດຫຍັງຂຶ້ນ?
+ສະບາຍດີ. ຣິກກີແມ່ນຢູ່ນີ້. ມີຫຍັງເກີດຂຶ້ນ?
 
 102
 00:07:07,700 --> 00:07:09,700
@@ -1188,7 +1188,7 @@ Twenty bucks.
 00:12:53,400 --> 00:12:55,400
 [VICKI]
 ...Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 189
 00:12:55,900 --> 00:12:57,900
@@ -1708,7 +1708,7 @@ The photographer.  I've seen your pictures in the Gazette.
 00:18:50,100 --> 00:18:52,100
 [VICKI]
 The Globe.
-ໂລກໂລກ.
+ໜັງສືພິມ Globe.
 
 270
 00:18:52,600 --> 00:18:56,450
@@ -1734,7 +1734,7 @@ Really.  She must be awfully tired.  How'd you get to be in charge of a huge pro
 00:19:09,200 --> 00:19:12,000
 [SELINA]
 It was easy.  I slept with the Pharoah.
-ມັນງ່າຍດາຍ. ຂ້ອຍນອນກັບຟາໂຣອາ.
+ມັນບໍ່ຫຍຸ້ງຍາກ. ຂ້ອຍໄດ້ນອນກັບຟາຮໍອາ.
 
 274
 00:19:12,500 --> 00:19:15,300
@@ -2148,7 +2148,7 @@ Oh, come on, angel.  You know you want to.  Besides -- I want to see how you do 
 00:23:42,700 --> 00:23:44,700
 [BATMAN]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 339
 00:23:45,200 --> 00:23:47,200
@@ -2525,7 +2525,7 @@ It's incredibly awful.  It got me a little worried.  I hate to think of somethin
 00:27:37,850 --> 00:27:39,850
 [BRUCE]
 Same here.
-ເຊັ່ນກັນຢູ່ນີ້.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 399
 00:27:40,350 --> 00:27:46,350
@@ -2714,7 +2714,7 @@ Didn't you ever wonder where it came from, Bruce?  All the privilege, all the po
 00:29:41,900 --> 00:29:43,900
 [BRUCE]
 Whose fortune?
-ຊັບສິນຂອງໃຜ?
+ແມ່ນຄວາມຮັ່ງມີຂອງໃຜ?
 
 429
 00:29:44,400 --> 00:29:46,400
@@ -3807,7 +3807,7 @@ I dunno.  Might be a good start on a place to live -- for some people who don't 
 00:41:39,700 --> 00:41:41,700
 [VICKI]
 It's Christmas.
-ມັນເປັນຄຣິສມັສ.
+ແມ່ນແລ້ວແມ່ນວັນຄຣິດສະມາດແລ້ວ.
 
 602
 00:41:42,200 --> 00:41:45,000

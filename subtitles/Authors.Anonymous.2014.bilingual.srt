@@ -110,7 +110,7 @@ We love documentaries.
 00:01:16,000 --> 00:01:18,000
 [ALAN]
 We do.
-ພວກເຮົາເຮັດ.
+ແມ່ນແລ້ວ.
 
 19
 00:01:18,500 --> 00:01:20,600
@@ -779,7 +779,7 @@ People. C'mon. Look at her. That glow. Hannah met a guy. She got laid.
 00:08:37,200 --> 00:08:40,700
 [HANNAH]
 As a matter of fact, I did meet a guy.
-ໃນຄວາມເປັນຈິງ, ຂ້ອຍໄດ້ພົບກັບຜູ້ຊາຍຄົນຫນຶ່ງ.
+ແມ່ນແລ້ວ, ຂ້ອຍໄດ້ພົບກັບຄົນໜຶ່ງແລ້ວ.
 
 123
 00:08:41,200 --> 00:08:43,200
@@ -879,7 +879,7 @@ Hey, can you lend me ten bucks?
 00:09:35,750 --> 00:09:37,750
 [HENRY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 139
 00:09:38,250 --> 00:09:40,250
@@ -903,7 +903,7 @@ Yes, yes.   Way to go, Hannah! 20.
 00:09:46,200 --> 00:09:48,200
 [HANNAH]
 Thank you! 'Night.
-ຂອບໃຈ! ຄືນ.
+ຂອບໃຈເດີ! ສະບາຍດີ.
 
 143
 00:09:48,700 --> 00:09:50,700
@@ -1139,7 +1139,7 @@ Let's talk about this at group meeting, OK?
 00:12:12,950 --> 00:12:15,050
 [COLETTE]
 Oh. Of course. Of course. Absolutely.
-ໂອ້ ແນ່ນອນ ແນ່ນອນແນ່ນອນ ແນ່ໃຈແນ່ນອນ
+ແມ່ນແລ້ວ, ແນ່ນອນ. ແນ່ນອນ, ຢ່າງແນ່ນອນ.
 
 180
 00:12:15,550 --> 00:12:17,550
@@ -1281,7 +1281,7 @@ How about a cat? It could be a cat.
 00:13:28,750 --> 00:13:30,750
 [HANNAH]
 Um. Sure.   Probably could be.
-ອູມ. ແນ່ນອນ. ບາງທີອາດຈະເປັນ.
+ແມ່ນແລ້ວ. ບາງທີແມ່ນໄດ້.
 
 203
 00:13:31,250 --> 00:13:36,850
@@ -1485,7 +1485,7 @@ Yes, Brian. I will. Thank you. Thank you. Thank you. I will. Promise. Thank you!
 00:15:42,350 --> 00:15:44,800
 [HENRY]
 You did it, Hannah!   You did it!
-ເຈົ້າເຮັດແລ້ວ, ຮານາ! ເຈົ້າເຮັດໄດ້!
+ແມ່ນແລ້ວ ແຮນນາ ເຈົ້າໄດ້ແລ້ວ!
 
 235
 00:15:45,300 --> 00:15:47,400
@@ -1946,7 +1946,7 @@ Oh, that. They're doing a little documentary about my writing group.
 00:20:32,400 --> 00:20:34,400
 [DAVID]
 Really? 41.
-ແທ້ບໍ? 41.
+ແມ່ນບໍ່? 41.
 
 308
 00:20:34,900 --> 00:20:36,900
@@ -2100,7 +2100,7 @@ Oh, of course. Thanks for bringing it by. Say, honey, David's been reading that 
 00:22:14,300 --> 00:22:18,850
 [COLETTE]
 As a matter of fact, I think I do. I think I do.
-ໃນຄວາມເປັນຈິງ, ຂ້ອຍຄິດວ່າຂ້ອຍເຮັດ. ຂ້ອຍຄິດວ່າມັນເຮັດ.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າແມ່ນແລ້ວ. ຂ້ອຍຄິດແມ່ນແລ້ວ
 
 332
 00:22:19,350 --> 00:22:21,350
@@ -2172,7 +2172,7 @@ Henry.     This is good.   So good.
 00:22:49,350 --> 00:22:51,350
 [HENRY]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 344
 00:22:51,850 --> 00:22:55,700
@@ -2324,7 +2324,7 @@ I've never read The Great Gatsby.
 00:24:20,700 --> 00:24:22,700
 [HENRY]
 You're kidding.
-ເຈົ້າໂຊກຮ້າຍ.
+ເຈົ້າແມ່ນບໍ່ຈິງແລ້ວ.
 
 368
 00:24:23,200 --> 00:24:29,200
@@ -2427,7 +2427,7 @@ Minor details. That's all. All that truly matters is that John K. Butzin is fina
 00:25:35,050 --> 00:25:37,050
 [EUDORA]
 Great book.    Classic.
-ປື້ມທີ່ຍິ່ງໃຫຍ່. ຄລາສສິກ.
+ປື້ມດີເລີດ. ຄລາສສິກ
 
 384
 00:25:37,550 --> 00:25:40,350
@@ -2465,7 +2465,7 @@ Beverly Hills, ah...
 00:25:58,850 --> 00:26:00,850
 [HENRY]
 Definitely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 390
 00:26:01,350 --> 00:26:03,800
@@ -2641,7 +2641,7 @@ Remember, Obert. Complete the mission.
 00:27:41,300 --> 00:27:43,300
 [WILLIAM]
 Got a sec?
-ເຈົ້າມີວິນາທີບໍ?
+ເຈົ້າມີເວລາບໍ່?
 
 418
 00:27:43,800 --> 00:27:45,800
@@ -2832,7 +2832,7 @@ William? 58.
 00:29:43,700 --> 00:29:45,700
 [WILLIAM]
 Hey.   Alan.
-ເຮ້. ແອລານ.
+ສະບາຍດີ ແອລນ
 
 448
 00:29:46,200 --> 00:29:50,050
@@ -3269,7 +3269,7 @@ Wow. Look how far I've moved up already.
 00:34:32,050 --> 00:34:34,050
 [SIGRID]
 John Grisham. 12.
-ຈອນ ແກຣຊາມ. 12.
+ຈອນ ກຣີຊາມ 12.
 
 516
 00:34:34,550 --> 00:34:36,550
@@ -3306,7 +3306,7 @@ What?!
 00:34:50,650 --> 00:34:52,650
 [CLERK]
 Sir?
-ເຈົ້າບໍ?
+ສະບາຍດີ?
 
 522
 00:34:53,150 --> 00:34:56,300
@@ -3581,7 +3581,7 @@ I can't accomplish anything without an agent. They won't come to me. Fine. I'll 
 00:37:32,850 --> 00:37:34,850
 [HANNAH]
 Your writer's block?
-ບລັອກຂອງນັກຂຽນຂອງທ່ານບໍ?
+ແຄບນັກຂຽນຂອງເຈົ້າບໍ່?
 
 566
 00:37:35,350 --> 00:37:37,350
@@ -3932,7 +3932,7 @@ Why isn't it enough that I believe in your writing?
 00:41:21,650 --> 00:41:23,650
 [HANNAH]
 --That I believe in you?
-- ວ່າຊັນເຊື່ອໃນຄຸນ?
+- ວ່າຂ້ອຍເຊື່ອເຈົ້າບໍ່?
 
 621
 00:41:24,150 --> 00:41:28,700
@@ -4351,7 +4351,7 @@ Yeah. Hot date. You know. Can't keep her waiting. A flight attendant. 89.
 00:45:32,650 --> 00:45:34,650
 [HANNAH]
 A flight attendant?
-ເຈົ້າຫນ້າທີ່ບິນບໍ?
+ເປັນຜູ້ຮັບໃຊ້ເຮືອບິນບໍ່?
 
 688
 00:45:35,150 --> 00:45:37,250
@@ -4423,7 +4423,7 @@ Dear, sweet Hannah. Please!
 00:46:04,000 --> 00:46:06,000
 [HANNAH]
 Just say hi.
-ພຽງແຕ່ອວຍພອນ.
+ສະບາຍດີເດີ.
 
 700
 00:46:06,500 --> 00:46:08,600

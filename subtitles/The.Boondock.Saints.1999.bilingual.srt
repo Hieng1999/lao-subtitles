@@ -78,7 +78,7 @@ Aye.
 00:00:59,200 --> 00:01:01,200
 [CONNOR]
 Pleased ta meet ya Rozie.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ ໂຣຊີ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກກັນເດີ້ ໂຣຊີ.
 
 14
 00:01:01,700 --> 00:01:04,500
@@ -315,7 +315,7 @@ Mother, what are you sayin'? You're talkin' crazy here.
 00:03:29,150 --> 00:03:31,150
 [MURPHY]
 What's the matter with her?
-ມີຫຍັງເກີດຂຶ້ນກັບນາງ?
+ມີຫຍັງບໍ່ດີກັບນາງແມ່ນໄໝ?
 
 52
 00:03:31,650 --> 00:03:34,450
@@ -1793,7 +1793,7 @@ What is all this "they" shit? This ain't a movie.
 00:19:22,600 --> 00:19:24,600
 [CONNOR]
 Is that right, Rambo?
-ນັ້ນແມ່ນຄວາມຈິງບໍ, ຣາມໂບ?
+ແມ່ນບໍ່ ແຣມໂບ?
 
 286
 00:19:25,100 --> 00:19:27,550
@@ -1823,7 +1823,7 @@ What's the body count?
 00:19:35,650 --> 00:19:37,650
 [SMECKER]
 Uh, huh.
-ໂອ້, ຮາ.
+ແມ່ນແລ້ວ.
 
 291
 00:19:38,150 --> 00:19:42,000
@@ -1878,7 +1878,7 @@ How many bodies, Greenly?
 00:20:05,000 --> 00:20:07,000
 [GREENLY]
 Eight.
-ແປດ.
+8.
 
 300
 00:20:07,500 --> 00:20:10,650
@@ -2098,7 +2098,7 @@ You see this is bad television.  The little assault guys creeping in through the
 00:22:27,950 --> 00:22:30,050
 [SMECKER]
 Join me in a drink, gentlemen.
-ເຂົ້າຮ່ວມຂ້ອຍດື່ມ, ພວກເຈົ້າ.
+ສະບາຍດີ ພວກເຈົ້າ, ມາຮ່ວມກັນດື່ມນໍາກັນເດີ້.
 
 335
 00:22:30,550 --> 00:22:36,550
@@ -2723,7 +2723,7 @@ Hey Murph.
 00:29:06,350 --> 00:29:08,350
 [MURPHY]
 Roc. You okay?
-ໂຣກ. ເຈົ້າດີບໍ?
+ໂຣກ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 434
 00:29:08,850 --> 00:29:10,850
@@ -3323,7 +3323,7 @@ Liberating isn't it?
 00:35:12,300 --> 00:35:14,300
 [ROCCO]
 Y'know it is, a bit.
-ເຈົ້າຮູ້ວ່າມັນເປັນ, ພຽງເລັກນ້ອຍ.
+ແມ່ນແລ້ວ, ບາງຢ່າງ.
 
 530
 00:35:14,800 --> 00:35:16,800
@@ -4082,7 +4082,7 @@ Well, I'd say that makes him a lia- fuckin-bility.
 00:43:21,300 --> 00:43:23,300
 [CONNOR]
 He isn't to be touched.
-ລາວບໍ່ຄວນຖືກຈັບ.
+ບໍ່ຕ້ອງສໍາຜັດກັບລາວເລີຍ.
 
 650
 00:43:23,800 --> 00:43:25,800
@@ -4119,7 +4119,7 @@ Yeah. Maria, this is Smecker. Could you find me the visitor's list for the day t
 00:43:41,550 --> 00:43:43,550
 [SMECKER]
 Okay, thank you.
-ດີ, ຂອບໃຈ.
+ແມ່ນແລ້ວ ຂອບໃຈເດີ.
 
 656
 00:43:44,050 --> 00:43:47,550
@@ -4173,7 +4173,7 @@ I'm sorry you're gonna hafta see this. Don't look at me!
 00:44:10,850 --> 00:44:13,300
 [PRIEST]
 I'm sorry, I'm sorry. I didn't see.
-ຊັນຂໍໂທດ ຊັນບໍ່ເຫັນ
+ຂ້ອຍຂໍໂທດເດີ, ຂ້ອຍບໍ່ເຫັນເລີຍ.
 
 665
 00:44:13,800 --> 00:44:15,900
@@ -4191,7 +4191,7 @@ Don't do this my son.
 00:44:18,900 --> 00:44:20,900
 [ROCCO]
 Open it!
-ເປີດມັນ!
+ເປີດເດີ!
 
 668
 00:44:21,400 --> 00:44:23,500
@@ -4379,7 +4379,7 @@ You have entered the house of the Lord of your own free will speaking of beliefs
 00:46:13,200 --> 00:46:15,200
 [SMECKER]
 I guess not.
-ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ.
+ຂ້ອຍຄິດບໍ່.
 
 698
 00:46:15,700 --> 00:46:21,700
@@ -4480,7 +4480,7 @@ Yes! Yes! I was thinking that, too. No. I was feeling it. All I needed was to he
 00:47:18,950 --> 00:47:20,950
 [PRIEST]
 Forgive me father.
-ຂໍໂທດຂ້ອຍພໍ່.
+ຂໍໂທດເດີ ພໍ່.
 
 714
 00:47:21,450 --> 00:47:24,250

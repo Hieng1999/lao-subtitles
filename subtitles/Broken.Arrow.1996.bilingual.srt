@@ -169,7 +169,7 @@ Slams a twenty dollar bill down on the bench.
 00:02:07,850 --> 00:02:09,850
 [DEAKINS]
 I can't take that.
-ຂ້ອຍຮັບບໍ່ໄດ້.
+ຂ້ອຍບໍ່ຍອມຮັບໄດ້.
 
 28
 00:02:10,350 --> 00:02:12,350
@@ -417,7 +417,7 @@ Your life. Jim grins. But the ranger pulls out a pistol and shoots Jim, who fall
 00:04:49,050 --> 00:04:51,050
 [BAKER]
 Done.
-ເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 67
 00:04:51,550 --> 00:04:57,550
@@ -937,7 +937,7 @@ The Ghost's blip suddenly disappears from the screen. A chorus of "What the hell
 00:10:55,550 --> 00:10:57,550
 [WILKINS]
 That's not good.
-ມັນບໍ່ດີ.
+ບໍ່ດີເລີຍ.
 
 148
 00:10:58,050 --> 00:11:04,050
@@ -1025,7 +1025,7 @@ Baird's intensely competent assistant.
 00:11:51,100 --> 00:11:53,100
 [BAIRD]
 Giles ...?
-ຈິລສ໌...?
+ໄຈເລສ...?
 
 162
 00:11:53,600 --> 00:11:59,600
@@ -1351,7 +1351,7 @@ Moves fast, grabs Terry's knife hand, then kicks her legs out from under her. Ha
 00:15:36,150 --> 00:15:38,150
 [HALE]
 I'm telling you the truth.
-ຂ້ອຍບອກເຈົ້າຄວາມຈິງ.
+ຂ້ອຍກໍາລັງບອກຄວາມຈິງແມ່ນແລ້ວ.
 
 213
 00:15:38,650 --> 00:15:41,450
@@ -1529,7 +1529,7 @@ Barely has time to raise his rifle before he's hit. He drops.
 00:17:36,400 --> 00:17:38,400
 [ANOTHER HUMVEE]
 Drives up fast.
-ຂັບລົດຂຶ້ນໄວ.
+ຂັບລົດມາໄວໆ.
 
 241
 00:17:38,900 --> 00:17:42,050
@@ -2339,7 +2339,7 @@ Hold on, hold on.  These nukes have codes or something that prevent people from 
 00:26:22,850 --> 00:26:24,850
 [CREELEY]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 369
 00:26:25,350 --> 00:26:29,900
@@ -2862,7 +2862,7 @@ Pulls it out, looks at it.
 00:32:17,900 --> 00:32:20,350
 [ECU NAMETAG]
 It's from "St. Judes Hospital, Radiology Department."
-ມັນມາຈາກໂຮງຫມໍ St. Judes, ພະແນກວິທະຍຸ.
+ແມ່ນມາຈາກ"ໂຮງໝໍສະຕ໌ ຈູເດສ, ພະແນກວິເຄາະແສງສະຫວ່າງ."
 
 452
 00:32:20,850 --> 00:32:24,700
@@ -2874,7 +2874,7 @@ Hale turns to Terry as she pulls over the radio mike.
 00:32:25,200 --> 00:32:27,200
 [HALE]
 Where's St. Judes Hospital?
-ໂຮງຫມໍສຕ໌ ຈູດສ໌ຢູ່ໃສ?
+ໂຮງໝໍສະຕ໌ ຈູເດສຢູ່ໃສ?
 
 454
 00:32:27,700 --> 00:32:29,700
@@ -4121,7 +4121,7 @@ That it did.
 00:46:19,300 --> 00:46:21,300
 [TERRY]
 Are we...?
-ພວກເຮົາແມ່ນບໍ?
+ແມ່ນບໍ່?
 
 650
 00:46:21,800 --> 00:46:23,800
@@ -4139,7 +4139,7 @@ If the butterflies are okay, then we'll be okay.
 00:46:27,950 --> 00:46:29,950
 [TERRY]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 653
 00:46:30,450 --> 00:46:36,450
@@ -4543,7 +4543,7 @@ Leavenworth.
 00:51:18,850 --> 00:51:20,850
 [HALE]
 If that's what it takes.
-ຖ້າມັນຕ້ອງເຮັດແບບນັ້ນ.
+ຖ້າແມ່ນນັ້ນແມ່ນສິ່ງທີ່ຕ້ອງເຮັດ
 
 715
 00:51:21,350 --> 00:51:27,350
@@ -5094,7 +5094,7 @@ Pull up!
 00:57:39,650 --> 00:57:41,650
 [THE HELICOPTER]
 Pulls up fast.
-ດຶງຂຶ້ນຢ່າງໄວວາ.
+ດຶງຂຶ້ນໄວໆ.
 
 801
 00:57:42,150 --> 00:57:45,300
@@ -5413,7 +5413,7 @@ Who grabs onto the cable and slides down it to the roof of the train, bullets pl
 01:01:21,450 --> 01:01:23,450
 [DEAKINS]
 Sees what's coming and jumps.
-ເຫັນວ່າຈະເກີດຫຍັງຂຶ້ນ ແລະໂດດຂຶ້ນ.
+ເຫັນສິ່ງທີ່ກໍາລັງຈະມາແລະໂດດຂຶ້ນ.
 
 852
 01:01:23,950 --> 01:01:25,950

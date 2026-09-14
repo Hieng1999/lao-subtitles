@@ -492,7 +492,7 @@ You did!?    That's fantastic!
 00:05:04,300 --> 00:05:06,300
 [MAGGIE]
 It's no big deal.
-ມັນບໍ່ແມ່ນເລື່ອງໃຫຍ່.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 80
 00:05:06,800 --> 00:05:12,750
@@ -891,13 +891,13 @@ Last night we had the worst electrical storm of the last hundred years.
 00:09:12,950 --> 00:09:14,950
 [MIKE]
 Is that true?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 144
 00:09:15,450 --> 00:09:17,450
 [ED]
 It was pretty bad.
-ມັນຮ້າຍແຮງຫຼາຍ.
+ມັນບໍ່ດີຫຼາຍ.
 
 145
 00:09:17,950 --> 00:09:21,100
@@ -1317,7 +1317,7 @@ They grow up so fast. Mojito?
 00:13:32,600 --> 00:13:34,600
 [JULIE]
 I beg your pardon.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 212
 00:13:35,100 --> 00:13:40,000
@@ -1416,7 +1416,7 @@ Let me guess. Early acceptance?  Where are we going?
 00:14:29,200 --> 00:14:31,200
 [MAGGIE]
 Georgetown.
-ຈໍເຈຕັນ.
+ຈໍເຈຍທາວນ
 
 228
 00:14:31,700 --> 00:14:37,700
@@ -1912,7 +1912,7 @@ Could you move to the left a little?
 00:19:19,200 --> 00:19:21,200
 [MIKE]
 Who's she?
-ນາງເປັນໃຜ?
+ນາງແມ່ນໃຜ?
 
 308
 00:19:21,700 --> 00:19:24,150
@@ -1980,7 +1980,7 @@ What's going on tonight?    You wanna hang out? Do something?
 00:19:57,100 --> 00:19:59,100
 [ALEX]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 319
 00:19:59,600 --> 00:20:01,700
@@ -2194,7 +2194,7 @@ I've been dying to meet you. I've known your father since...
 00:22:15,600 --> 00:22:17,600
 [MIKE]
 Is something wrong?
-ມີຫຍັງຜິດບໍ?
+ມີຫຍັງບໍ່ດີບໍ່?
 
 353
 00:22:18,100 --> 00:22:21,600
@@ -2239,7 +2239,7 @@ My mother...she...she was...a...
 00:22:43,450 --> 00:22:45,450
 [SCARLET]
 Oh?   I'm sorry.
-ໂອ້? ຂ້ອຍຂໍໂທດ.
+ແມ່ນແລ້ວ? ຂໍໂທດເດີ.
 
 360
 00:22:45,950 --> 00:22:51,950
@@ -2337,7 +2337,7 @@ My husband's the only one that ever calls me that.
 00:23:58,200 --> 00:24:00,200
 [ALEX]
 Yo, Mark.    Let's do this.
-ໂຢ, ມາເກວ. ມາເຮັດແບບນີ້.
+ສະບາຍດີ ແມຣກ. ມາເຮັດກັນເດີ້.
 
 375
 00:24:00,700 --> 00:24:02,700
@@ -2513,7 +2513,7 @@ Why? Because Stan says so? You think Stan's a winner? He's going nowhere. You're
 00:25:54,350 --> 00:25:56,350
 [ALEX]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 403
 00:25:56,850 --> 00:26:01,750
@@ -2575,7 +2575,7 @@ Hi, Alex.     I'm Nicole.
 00:26:32,150 --> 00:26:34,250
 [NICOLE]
 You don't look like a Nicole.
-ເຈົ້າເບິ່ງຄືວ່າບໍ່ແມ່ນນິກອລ.
+ເຈົ້າບໍ່ເໝືອນກັບໄນໂຄລເລີຍ.
 
 413
 00:26:34,750 --> 00:26:38,950
@@ -2863,7 +2863,7 @@ Stuck!!!   I'm stuck!   My fingers!
 00:29:25,750 --> 00:29:27,750
 [MR. ADAMS]
 Sit down, Stan! Sit down!
-ນັ່ງລົງ, ສຕານ! ນັ່ງຂຶ້ນ!
+ສະແຕນ ນັ່ງເດີ້!
 
 459
 00:29:28,250 --> 00:29:30,350
@@ -2900,7 +2900,7 @@ This year you're making the team. We practice everyday `til try outs. That gives
 00:29:45,300 --> 00:29:47,300
 [ALEX]
 Forget it.
-ລືມມັນໄປ.
+ລືມເລີຍ.
 
 465
 00:29:47,800 --> 00:29:51,300
@@ -2913,7 +2913,7 @@ Yeah, you're right. You probably don't have any skills anyway.
 00:29:51,800 --> 00:29:53,800
 [ALEX]
 Hey!     I got skills.
-ເຮ້! ຂ້ອຍມີທັກສະ.
+ສະບາຍດີ! ຂ້ອຍມີຄວາມສາມາດ.
 
 467
 00:29:54,300 --> 00:29:57,800
@@ -3099,7 +3099,7 @@ Hey, Scarlet. Exciting, isn't it? My first parent/principal conference.
 00:31:34,550 --> 00:31:36,550
 [SCARLET]
 Fighting?     What's gotten into you?
-ການຕໍ່ສູ້? ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+ການຕໍ່ສູ້ແມ່ນຫຍັງ? ເຈົ້າເປັນຫຍັງ?
 
 497
 00:31:37,050 --> 00:31:39,150
@@ -3306,7 +3306,7 @@ Wow. 10 whole dollars. At that rate I should be able to buy tickets in...2011.
 00:33:43,650 --> 00:33:45,650
 [SCARLET]
 Fine.   20.     Grab a roll.
-ດີ. 20. ເອົາກະທູ້.
+ບໍ່ເປັນຫຍັງ. 20. ເອົາມືລຶກໜຶ່ງ.
 
 530
 00:33:46,150 --> 00:33:48,250
@@ -3655,7 +3655,7 @@ I did it. I'm a Falcon!     The first game's in 2 weeks.
 00:37:14,350 --> 00:37:16,800
 [SCARLET]
 Oh my God, Alex! That's so incredible!
-ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ, ແອເລັກສ໌! ມັນຫນ້າເຊື່ອໃຈຫຼາຍ!
+ສະບາຍດີ ແອເລັກສ໌! ນັ້ນແມ່ນບໍ່ໜ້າເຊື່ອເລີຍ!
 
 586
 00:37:17,300 --> 00:37:22,200
@@ -3962,7 +3962,7 @@ I was upset. I'm sorry. But I need you to show me you love me. Then we'll move i
 00:40:26,150 --> 00:40:28,250
 [MAGGIE]
 Whatever.    I'm with someone else now.
-ເຖິງຢ່າງໃດກໍ່ຕາມ. ຂ້ອຍຢູ່ກັບຄົນອື່ນດຽວນີ້.
+ບໍ່ວ່າແມ່ນຫຍັງ. ຂ້ອຍແມ່ນກັບຄົນອື່ນແລ້ວ.
 
 635
 00:40:28,750 --> 00:40:30,850
@@ -3980,7 +3980,7 @@ Him.
 00:40:33,850 --> 00:40:36,300
 [MIKE]
 Party's over, Stan.      You're out of here.
-ງານລ້ຽງໄດ້ສິ້ນສຸດລົງ, ສຕານ. ເຈົ້າອອກຈາກບ່ອນນີ້.
+ງານລ້ຽງໝົດແລ້ວ ແສຕັນ. ເຈົ້າອອກໄປແລ້ວ.
 
 638
 00:40:36,800 --> 00:40:38,900
@@ -4320,7 +4320,7 @@ Tis I! Elf Princess Ariala of Jamroar.
 00:44:28,600 --> 00:44:30,600
 [ED]
 Check please!
-ກວດສອບຂໍຮ້ອງ!
+ກວດສອບເດີ້!
 
 691
 00:44:31,100 --> 00:44:33,100
@@ -4698,7 +4698,7 @@ What about you and Julie?
 00:48:08,800 --> 00:48:10,800
 [ED]
 Oh, that?    That's lost.
-ໂອ້, ນັ້ນບໍ? ນັ້ນຫາຍໄປແລ້ວ.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນບໍ່? ນັ້ນແມ່ນສູນເສຍແລ້ວ.
 
 752
 00:48:11,300 --> 00:48:14,450
@@ -4730,7 +4730,7 @@ Don't worry about it. My spa guy got the last of the vomit out of the pool so we
 00:48:29,100 --> 00:48:31,100
 [SCARLET]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 757
 00:48:31,600 --> 00:48:36,850

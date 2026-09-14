@@ -1846,13 +1846,13 @@ Maybe I can help, sergeant. I'm a vet...
 00:22:29,250 --> 00:22:31,250
 [SGT. NANTZ]
 You're a veteran?
-ເຈົ້າເປັນຜູ້ເກົ່າແກ່ບໍ?
+ເຈົ້າແມ່ນນັກຮົບເກົ່າບໍ່?
 
 285
 00:22:31,750 --> 00:22:33,750
 [MICHELE]
 No, a veterinarian.
-ບໍ່, ເປັນຫມໍສັດ.
+ບໍ່, ແພດສັດ.
 
 286
 00:22:34,250 --> 00:22:38,450
@@ -2834,7 +2834,7 @@ We're pulling back. Head to the lower street, now! NOW! Nantz runs toward the ed
 00:34:45,400 --> 00:34:47,400
 [CPL. CORREGGIO]
 What about the lieutenant?
-ແລະເລັກຕັນນ໌ແນວໃດ?
+ແລ້ວເລັກຕັນແມ່ນບໍ່?
 
 435
 00:34:47,900 --> 00:34:53,900
@@ -3226,7 +3226,7 @@ Nantz peers out a BACK DOOR. It's clear. They MOVE OUT just as... MORE ALIENS le
 00:39:42,100 --> 00:39:44,100
 [SGT. NANTZ]
 Stavrou, Harris.
-ສະຕາວຣູ, ຮາຣີສ.
+ສະຕາເວຣູ ແຮຣີສ.
 
 495
 00:39:44,600 --> 00:39:46,600

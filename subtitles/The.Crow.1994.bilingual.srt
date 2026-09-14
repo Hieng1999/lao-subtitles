@@ -8,7 +8,7 @@ We're losing the light; let's pack it in.
 00:00:13,300 --> 00:00:15,300
 [ALEXI]
 Snow, maybe?
-ຫິມະ, ບາງທີ?
+ບາງທີແມ່ນຫິມະບໍ່?
 
 3
 00:00:15,800 --> 00:00:17,900
@@ -443,7 +443,7 @@ Victim's name is Shelly Webster. The guy who got tossed is, uh ...--
 00:03:57,150 --> 00:03:59,150
 [BOUNCER]
 Hey!  You got any ID?
-ເຮ້! ເຈົ້າມີໃບຢັ້ງຢືນບໍ?
+ສະບາຍດີ! ເຈົ້າມີບັດປະຈໍາຕົວບໍ່?
 
 74
 00:03:59,650 --> 00:04:02,100
@@ -1410,7 +1410,7 @@ Hel-lo?  Earth to anybody...?
 00:13:13,450 --> 00:13:15,450
 [ELLY]
 Do you feel okay.
-ເຈົ້າຮູ້ສຶກດີບໍ.
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ່.
 
 230
 00:13:15,950 --> 00:13:17,950
@@ -1504,7 +1504,7 @@ You gonna wind up working at a school crosswalk.   that doughnut's chocolate you
 00:14:08,200 --> 00:14:10,200
 [ALBRECHT]
 Well, hello there...chocolate,
-ດີ, ສະບາຍດີຢູ່ບ່ອນນັ້ນ... ໂຊກໂກແລັດ,
+ສະບາຍດີ... ຊັອກໂກແລັດ,
 
 245
 00:14:10,700 --> 00:14:12,700
@@ -1958,7 +1958,7 @@ We need some smokes and some road beers.
 00:18:39,800 --> 00:18:41,800
 [SKANK]
 Got it.
-ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+ແມ່ນແລ້ວ.
 
 318
 00:18:42,300 --> 00:18:45,450
@@ -2051,7 +2051,7 @@ Ow! Owowoowowoowo, goddammit!
 00:19:33,900 --> 00:19:35,900
 [ERIC]
 You caught one.  Drive faster.
-ເຈົ້າຈັບຄົນຫນຶ່ງ. ຂັບລົດໄວຂຶ້ນ.
+ເຈົ້າໄດ້ຈັບໜຶ່ງແລ້ວ. ຂັບລົດໄວກວ່າ.
 
 333
 00:19:36,400 --> 00:19:41,650
@@ -2082,7 +2082,7 @@ To hell with you.
 00:19:52,300 --> 00:19:54,300
 [ERIC]
 Naturally.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 338
 00:19:54,800 --> 00:19:57,600
@@ -2162,7 +2162,7 @@ Hey, Mickey, I need a special with everything.  No sawdust.
 00:20:36,150 --> 00:20:38,150
 [MICKEY]
 Everyone's a comedian.  Enjoy.
-ທຸກຄົນເປັນນັກໂມດິກ. ມ່ວນຊື່ນ.
+ທຸກຄົນແມ່ນຄອມເມີຍ. ມ່ວນໆເດີ້.
 
 351
 00:20:38,650 --> 00:20:41,100
@@ -2266,7 +2266,7 @@ Come now.  You've seen the graffiti -- all over the city in the few hors it has 
 00:21:36,950 --> 00:21:38,950
 [TOP DOLLAR]
 The night is young.
-ຄືນຍັງຫນຸ່ມ.
+ຄືນແມ່ນຍັງໜຸ່ມໆ.
 
 368
 00:21:39,450 --> 00:21:43,650
@@ -2561,7 +2561,7 @@ It's only a flesh wound.
 00:24:25,050 --> 00:24:27,500
 [ALBRECHT]
 It's only fourteen or fifteen flesh wounds.
-ມັນພຽງແຕ່ບາດແຜຊີ້ນສິບສີ່ຫຼືສິບຫ້າ.
+ແມ່ນພຽງແຕ່ 14 ຫຼື 15 ບາດແຜທາງຮ່າງກາຍເທົ່ານັ້ນ.
 
 416
 00:24:28,000 --> 00:24:30,000
@@ -2579,7 +2579,7 @@ Great.  Litterbug of the Living Dead.
 00:24:33,100 --> 00:24:35,100
 [ERIC]
 I'm finished.
-ຂ້ອຍສໍາເລັດແລ້ວ.
+ຂ້ອຍໝົດແລ້ວ.
 
 419
 00:24:35,600 --> 00:24:41,600
@@ -3162,7 +3162,7 @@ The hell you say.  This isn't just about you any more.
 00:30:46,600 --> 00:30:48,600
 [ERIC]
 Don't interfere.
-ຢ່າກັງວົນ.
+ຢ່າແຊກແຊງເລີຍ.
 
 512
 00:30:49,100 --> 00:30:51,550

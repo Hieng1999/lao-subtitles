@@ -452,7 +452,7 @@ So I guess we should start with the C.I.s and the perps from the original case. 
 00:05:27,250 --> 00:05:29,250
 [BURNETT]
 How's O'Fee?
-ໂອຟີເປັນແນວໃດ?
+ໂອເຟີສະບາຍດີບໍ່?
 
 72
 00:05:29,750 --> 00:05:35,750
@@ -1036,7 +1036,7 @@ Only for two days. It wasn't even a phase.
 00:12:09,000 --> 00:12:11,000
 [MAX]
 Okay.   Mark.
-ດີແລ້ວ. ມາຣັກ.
+ແມ່ນແລ້ວ ແມຣກ
 
 163
 00:12:11,500 --> 00:12:17,100
@@ -1082,7 +1082,7 @@ Mike Lowrey. Not again. Will you just have sex with the man and get it over with
 00:12:42,150 --> 00:12:44,150
 [MAX]
 He's just a friend.
-ລາວພຽງແຕ່ເປັນເພື່ອນເທົ່ານັ້ນ.
+ແມ່ນແລ້ວ, ລາວແມ່ນພຽງແຕ່ເພື່ອນຄົນດຽວ.
 
 170
 00:12:44,650 --> 00:12:46,650
@@ -1188,7 +1188,7 @@ Just a hooker --
 00:14:01,350 --> 00:14:03,800
 [MAX]
 My name's Max.  I'm just a friend.
-ຂ້ອຍຊື່ວ່າ ແມັກສ໌. ຂ້ອຍພຽງແຕ່ເປັນເພື່ອນເທົ່ານັ້ນ.
+ຂ້ອຍແມ່ນແມັກສ໌ ຂ້ອຍແມ່ນພຽງແຕ່ເພື່ອນຄົນດຽວ
 
 186
 00:14:04,300 --> 00:14:10,300
@@ -1594,7 +1594,7 @@ Okay.    I'm way undercover.
 00:18:47,700 --> 00:18:49,700
 [JULIE]
 Prove it!
-ພິສູດມັນ!
+ສະແດງໃຫ້ເຫັນເດີ້!
 
 249
 00:18:50,200 --> 00:18:56,200
@@ -2368,7 +2368,7 @@ The guy who killed Max. Now, he was looking for the heroin that Eddie stole from
 00:28:33,850 --> 00:28:35,850
 [BURNETT]
 Special Narcotics Division.
-ກົມເສບຕິດພິເສດ.
+ກົມສະເພາະຕ້ານຢາເສບຕິດ.
 
 367
 00:28:36,350 --> 00:28:40,200
@@ -3421,7 +3421,7 @@ Forget the cop. Kill the girl!
 00:41:28,150 --> 00:41:30,950
 [BURNETT]
 Don't even think about it.  Julie? CUT TO:
-ຢ່າຄິດເຖິງມັນເລີຍ. ຈູລີ? ຕັດອອກ:
+ຢ່າຄິດເລີຍເດີ້. ຈູລີບໍ່?
 
 529
 00:41:31,450 --> 00:41:33,450
@@ -3617,7 +3617,7 @@ So, Mike.   Can I ask you something?
 00:43:53,850 --> 00:43:55,850
 [BURNETT]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 559
 00:43:56,350 --> 00:44:02,350
@@ -3978,7 +3978,7 @@ Good. So who do you think's in there? Ed McMahon come to tell us we're sweepstak
 00:47:56,500 --> 00:47:58,950
 [BURNETT]
 Okay.   What are we doing about it?
-ດີແລ້ວ. ພວກເຮົາຈະເຮັດແນວໃດກ່ຽວກັບມັນ?
+ແມ່ນແລ້ວ ພວກເຮົາຈະທໍາແນວໃດກັບເລື່ອງນີ້?
 
 615
 00:47:59,450 --> 00:48:05,450
@@ -4202,7 +4202,7 @@ Man, it's a good thing you got your memory workin'. Cuz that dead man paperwork 
 00:50:52,700 --> 00:50:54,800
 [JULIE]
 So where's the coffee and donuts?
-ສະນັ້ນກາເຟແລະດອນຕ໌ຢູ່ໃສ?
+ແລ້ວກາເຟແລະໂດນັດແມ່ນຢູ່ໃສ?
 
 649
 00:50:55,300 --> 00:50:57,300
@@ -4609,7 +4609,7 @@ Grab her. But the doors to the second elevator open.
 00:55:45,800 --> 00:55:47,800
 [LOWREY]
 Julie!   Drop now! Pandemonium.
-ຈູລີ! ຕົກລົງດຽວນີ້! Pandemonium.
+ຈູລີ! ຫຼຸດລົງດຽວນີ້! ແພນເດໂມເນຍ.
 
 712
 00:55:48,300 --> 00:55:50,300
@@ -4931,7 +4931,7 @@ Mouths shut, feet moving.    Now, walk.
 00:59:27,150 --> 00:59:29,950
 [CASPER]
 Hey! Wake up out there!     Open it up!
-ເຮ້! ຕື່ນຢູ່ບ່ອນນັ້ນ! ເປີດມັນ!
+ສະບາຍດີ! ຕື່ນຂຶ້ນເດີ້! ເປີດເດີ!
 
 762
 00:59:30,450 --> 00:59:36,450

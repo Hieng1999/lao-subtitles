@@ -156,7 +156,7 @@ You tried to take your life. You do remember that, don't you?
 00:01:58,950 --> 00:02:00,950
 [OLD SALIERI]
 So?
-ສະນັ້ນ?
+ແມ່ນແລ້ວບໍ່?
 
 26
 00:02:01,450 --> 00:02:04,600
@@ -206,7 +206,7 @@ That makes no difference. All men are equal in God's eyes.
 00:02:26,100 --> 00:02:28,100
 [OLD SALIERI]
 Are they?
-ພວກເຂົາເປັນບໍ?
+ແມ່ນບໍ່?
 
 34
 00:02:28,600 --> 00:02:32,100
@@ -337,7 +337,7 @@ And do they believe it?
 00:03:43,050 --> 00:03:45,050
 [VOGLER]
 Is it true?
-ມັນເປັນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 55
 00:03:45,550 --> 00:03:47,550
@@ -682,7 +682,7 @@ What?
 00:07:13,050 --> 00:07:15,050
 [MOZART]
 Tish-I'm-tee.
-Tish-I'm-tee.
+ສະບາຍດີ.
 
 109
 00:07:15,550 --> 00:07:17,550
@@ -725,7 +725,7 @@ Follow me, please. The Archbishop would like a word.
 00:07:36,500 --> 00:07:38,500
 [MOZART]
 Certainly!
-ແນ່ນອນ!
+ແມ່ນແລ້ວ!
 
 116
 00:07:39,000 --> 00:07:42,500
@@ -737,7 +737,7 @@ Well, I think that went off remarkably well, don't you?
 00:07:43,000 --> 00:07:45,000
 [ARCO]
 Indeed.
-ແທ້ຈິງແລ້ວ.
+ແມ່ນແລ້ວ.
 
 118
 00:07:45,500 --> 00:07:49,000
@@ -931,7 +931,7 @@ But not German, I beg your Majesty! Italian is the proper language for opera. Al
 00:09:58,300 --> 00:10:00,400
 [JOSEPH]
 Ah-ha. What do you say, Chamberlain?
-ອາຮາ. ເຈົ້າເວົ້າແນວໃດ, Chamberlain?
+ແມ່ນແລ້ວ. ເຈົ້າຄິດບໍ່, ແຊມເບີລິນ?
 
 148
 00:10:00,900 --> 00:10:06,900
@@ -1020,7 +1020,7 @@ Ah-ha! Siena macaroons - my favourites. Give my best thanks to the baker.
 00:10:54,700 --> 00:10:56,700
 [LORL]
 I will, sir.
-ຂ້ອຍຈະເຮັດ, ທ້າວ.
+ແມ່ນແລ້ວເດີເດີ.
 
 162
 00:10:57,200 --> 00:11:00,000
@@ -1050,13 +1050,13 @@ Grazie, Signore.
 00:11:08,000 --> 00:11:10,000
 [MOZART]
 And the other one?
-ແລະຄົນອື່ນແນວໃດ?
+ແລະອີກໜຶ່ງແມ່ນບໍ່?
 
 167
 00:11:10,500 --> 00:11:12,500
 [MOZART]
 And the other one?
-ແລະຄົນອື່ນແນວໃດ?
+ແລະອີກໜຶ່ງແມ່ນບໍ່?
 
 168
 00:11:13,000 --> 00:11:17,900
@@ -1069,7 +1069,7 @@ Oh, they're both so beautiful, I can't decide. Why don't I have two heads?
 00:11:18,400 --> 00:11:20,400
 [JOSEPH]
 Good, good, good.
-ດີແລ້ວ, ດີ, ດີ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 170
 00:11:20,900 --> 00:11:22,900
@@ -1124,13 +1124,13 @@ What a charming idea. May I see?
 00:11:46,250 --> 00:11:48,350
 [SALIERI]
 It's just a trifle, of course.
-ມັນພຽງແຕ່ເປັນເລື່ອງນ້ອຍໆ, ແນ່ນອນ.
+ແມ່ນແລ້ວ, ມັນເປັນພຽງເລັກນ້ອຍເທົ່ານັ້ນ.
 
 179
 00:11:48,850 --> 00:11:50,850
 [JOSEPH]
 May I try it?
-ຂ້ອຍສາມາດພະຍາຍາມໄດ້ບໍ?
+ຂ້ອຍລອງໄດ້ບໍ່?
 
 180
 00:11:51,350 --> 00:11:53,350
@@ -1168,7 +1168,7 @@ A- flat, ພຣະເຈົ້າ.
 00:12:11,200 --> 00:12:13,200
 [JOSEPH]
 Ah-ha!
-ອາຮາ!
+ແມ່ນແລ້ວ!
 
 186
 00:12:13,700 --> 00:12:15,700
@@ -1230,7 +1230,7 @@ I'm a great admirer of yours, young man. Welcome.
 00:12:43,650 --> 00:12:45,650
 [MOZART]
 Oh, thank you.
-ໂອ້ ຂອບໃຈ.
+ແມ່ນແລ້ວ ຂອບໃຈເດີ.
 
 196
 00:12:46,150 --> 00:12:48,600
@@ -1267,7 +1267,7 @@ I know your work well, Signore. Do you know I actually composed some variations 
 00:13:05,500 --> 00:13:07,500
 [SALIERI]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 202
 00:13:08,000 --> 00:13:10,000
@@ -1337,7 +1337,7 @@ Well, actually, Sire, if you remember, we did finally incline to Italian.
 00:13:49,400 --> 00:13:51,400
 [VON STRACK]
 Did we?
-ພວກເຮົາເຮັດບໍ?
+ແມ່ນບໍ່?
 
 213
 00:13:51,900 --> 00:13:54,700
@@ -1355,7 +1355,7 @@ Oh, German! German! Please let it be German.
 00:13:58,500 --> 00:14:00,500
 [JOSEPH]
 Why so?
-ເປັນຫຍັງຈຶ່ງເປັນດັ່ງນັ້ນ?
+ເປັນຫຍັງແມ່ນ?
 
 216
 00:14:01,000 --> 00:14:03,800
@@ -1586,7 +1586,7 @@ Bene.
 00:16:18,700 --> 00:16:20,700
 [CAVALIERI]
 Maestro.
-ຄູສອນ.
+ແມສເຕີ.
 
 253
 00:16:21,200 --> 00:16:23,200
@@ -1623,7 +1623,7 @@ Oh? News travels fast in Vienna.
 00:16:40,450 --> 00:16:44,300
 [CAVALIERI]
 And he's been commissioned to write an opera. Is it true?
-ແລະລາວໄດ້ຖືກມອບຫມາຍໃຫ້ຂຽນໂອເປຣາ. ມັນເປັນຄວາມຈິງບໍ?
+ແລະລາວໄດ້ຮັບຄໍາສັ່ງໃຫ້ຂຽນໂອເປຣາແມ່ນບໍ່? ແມ່ນແລ້ວບໍ່?
 
 259
 00:16:44,800 --> 00:16:46,800
@@ -2085,7 +2085,7 @@ Katherina! I'll tell you what I'm going to do. I'm going to write another aria f
 00:21:33,750 --> 00:21:35,750
 [CAVALIERI]
 Don't bother!
-ຢ່າກັງວົນ!
+ບໍ່ຕ້ອງເປັນຫ່ວງ!
 
 332
 00:21:36,250 --> 00:21:38,250
@@ -2194,7 +2194,7 @@ What did you think of the music?
 00:22:31,250 --> 00:22:33,250
 [SALIERI]
 Extremely clever.
-ມີຄວາມສະຫຼາດຫຼາຍ.
+ສະຫລາດຫຼາຍ.
 
 350
 00:22:33,750 --> 00:22:35,750
@@ -2218,7 +2218,7 @@ Is her mother still lying on the floor?
 00:22:42,050 --> 00:22:44,050
 [MOZART]
 No, she's fine.
-ບໍ່, ນາງດີດີ.
+ບໍ່, ນາງບໍ່ເປັນຫຍັງເລີຍ.
 
 354
 00:22:44,550 --> 00:22:46,550
@@ -2286,7 +2286,7 @@ Excuse me, Wolfi. Mama is not feeling very well. Can we leave now?
 00:23:19,350 --> 00:23:21,350
 [MOZART]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 365
 00:23:21,850 --> 00:23:27,850
@@ -2358,7 +2358,7 @@ But he needs to be here in Salzburg, Your Grace. He needs me and he needs you. Y
 00:24:10,350 --> 00:24:12,350
 [COLLOREDO]
 Hardly.
-ເກືອບບໍ່.
+ບໍ່ແນ່ນອນ.
 
 376
 00:24:12,850 --> 00:24:18,850
@@ -2436,7 +2436,7 @@ I write to you with urgent news. I am coming to Vienna. Take no further steps to
 00:25:03,400 --> 00:25:05,400
 [MOZART]
 I will.
-ຂ້ອຍຈະເຮັດ.
+ແມ່ນແລ້ວ.
 
 388
 00:25:05,900 --> 00:25:10,800
@@ -2449,7 +2449,7 @@ And will you, Constanze Weber, take this man, Wolfgang to be your lawful husband
 00:25:11,300 --> 00:25:13,300
 [CONSTANZE]
 I will.
-ຂ້ອຍຈະເຮັດ.
+ແມ່ນແລ້ວ.
 
 390
 00:25:13,800 --> 00:25:16,250
@@ -2786,7 +2786,7 @@ Excuse me, sir, there is a lady who insists on talking to you.
 00:28:31,450 --> 00:28:33,450
 [SALIERI]
 Who is she?
-ນາງເປັນໃຜ?
+ນາງແມ່ນໃຜ?
 
 444
 00:28:33,950 --> 00:28:36,750
@@ -2829,7 +2829,7 @@ That's right, Your Excellency. I've come on behalf of my hus band. I'm - I'm bri
 00:28:53,850 --> 00:28:57,000
 [SALIERI]
 How charming.  But why did he not come himself?
-ມັນຫນ້າຮັກຫຼາຍປານໃດ. ແຕ່ເປັນຫຍັງລາວບໍ່ໄດ້ມາເອງ?
+ສະບາຍດີຫຼາຍ. ແຕ່ແມ່ນຫຍັງລາວບໍ່ມາເອງ?
 
 451
 00:28:57,500 --> 00:28:59,500
@@ -2875,7 +2875,7 @@ I - I really cannot do that, Your Excellency. You see, he doesn't know I'm here.
 00:29:28,100 --> 00:29:30,100
 [SALIERI]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 458
 00:29:30,600 --> 00:29:36,200
@@ -3048,7 +3048,7 @@ Come back tonight.
 00:31:18,450 --> 00:31:20,450
 [CONSTANZE]
 Tonight?
-ມື້ນີ້ບໍ?
+ໃນຄືນນີ້ບໍ່?
 
 485
 00:31:20,950 --> 00:31:22,950
@@ -3330,7 +3330,7 @@ Stanzi!
 00:34:19,050 --> 00:34:21,500
 [MOZART]
 What's the matter? What is it? Stanzi!
-ມີຫຍັງເກີດຂຶ້ນ? ມັນເປັນຫຍັງ? ສຕານຊີ!
+ມີຫຍັງບໍ່ດີ? ແມ່ນຫຍັງ? ສະຕານຊີ!
 
 529
 00:34:22,000 --> 00:34:28,000
@@ -3576,7 +3576,7 @@ Whom did they choose?
 00:37:00,650 --> 00:37:02,650
 [SALIERI]
 Herr Sommer.
-ທ້າວໂຊມເມີ.
+ທ້າວ Sommer.
 
 568
 00:37:03,150 --> 00:37:07,350
@@ -3781,7 +3781,7 @@ You won't be teaching this one either. She's my wife.
 00:39:21,300 --> 00:39:23,300
 [MOZART]
 Madame.
-ແມ່.
+ສະບາຍດີ.
 
 600
 00:39:23,800 --> 00:39:29,800
@@ -3858,7 +3858,7 @@ Michael, please! I'm sure you will find her most willing, Herr Mozart. She's rea
 00:40:10,950 --> 00:40:12,950
 [MOZART]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 612
 00:40:13,450 --> 00:40:15,450
@@ -4120,7 +4120,7 @@ Feed? Well, of course she feeds me. She stuffs me like a goose all day long. She
 00:43:04,400 --> 00:43:06,400
 [LEOPOLD]
 Is she not here?
-ນາງບໍ່ໄດ້ຢູ່ບ່ອນນີ້ບໍ?
+ນາງບໍ່ຢູ່ບໍ່?
 
 653
 00:43:06,900 --> 00:43:08,900
@@ -4270,7 +4270,7 @@ What's that?
 00:44:29,150 --> 00:44:31,250
 [MOZART]
 Oh, let's not talk about it.
-ໂອ້, ພວກເຮົາຢ່າເວົ້າກ່ຽວກັບມັນ.
+ແມ່ນແລ້ວ, ບໍ່ຕ້ອງເວົ້າກ່ຽວກັບເລື່ອງນີ້ເລີຍ.
 
 677
 00:44:31,750 --> 00:44:33,750
@@ -4420,7 +4420,7 @@ No, please! This is ridiculous! No, please!
 00:45:58,950 --> 00:46:00,950
 [LEOPOLD]
 No, really!
-ບໍ່, ແທ້ໆ!
+ບໍ່ ແມ່ນແລ້ວ!
 
 701
 00:46:01,450 --> 00:46:03,550
@@ -4716,7 +4716,7 @@ But I really can't tell you, sir.
 00:48:58,700 --> 00:49:00,700
 [LEOPOLD]
 Oh, this is ridiculous.
-ໂອ້, ນີ້ແມ່ນໂຊກຮ້າຍ.
+ແມ່ນແລ້ວ, ນີ້ແມ່ນໂງ່ແທ້ໆ.
 
 749
 00:49:01,200 --> 00:49:07,200
@@ -5236,7 +5236,7 @@ Mozart, are you aware I have declared the French play of Figaro unsuitable for o
 00:54:11,200 --> 00:54:13,200
 [MOZART]
 Yes, Sire.
-ແມ່ນແລ້ວ, ພຣະຜູ້ເປັນເຈົ້າ.
+ແມ່ນແລ້ວເດີເດີ.
 
 832
 00:54:13,700 --> 00:54:18,250
@@ -6057,7 +6057,7 @@ We'll have a little party. Come in. Come in. You know Herr Schikaneder?  This is
 01:03:02,650 --> 01:03:04,650
 [CONSTANZE]
 Wolfi.
-ໂວລຟີ.
+ວູຟຟີ
 
 961
 01:03:05,150 --> 01:03:07,150
@@ -6146,7 +6146,7 @@ The Celebrated
 01:03:57,650 --> 01:03:59,650
 [IN]
 An Evening of
-ຕອນແລງຂອງ
+ຄໍ່າຄືນຂອງ
 
 975
 01:04:00,150 --> 01:04:02,950
@@ -6171,7 +6171,7 @@ On stage we see a set which parodies the dining room in Don Giovanni's palace, s
 01:04:12,850 --> 01:04:14,850
 [SCHIKANEDER]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 979
 01:04:15,350 --> 01:04:17,350
@@ -6189,13 +6189,13 @@ Don Giovannnnnnnnnni!
 01:04:20,350 --> 01:04:22,350
 [COMMENDATORE]
 Down! Down!
-ລົງ! ລົງ!
+ຫຼຸດລົງ! ຫຼຸດຂຶ້ນ!
 
 982
 01:04:22,850 --> 01:04:24,850
 [COMMENDATORE]
 I'm here! I'm here!
-ຂ້ອຍຢູ່ທີ່ນີ້! ຂ້ອຍຢູ່ບ່ອນນີ້!
+ຂ້ອຍຢູ່ແລ້ວ! ຂ້ອຍມາແລ້ວ!
 
 983
 01:04:25,350 --> 01:04:27,350
@@ -6365,7 +6365,7 @@ Behold!
 01:06:07,550 --> 01:06:09,550
 [SECOND LADY]
 Behold!
-ເບິ່ງແມ!
+ສະບາຍດີ!
 
 1010
 01:06:10,050 --> 01:06:12,050
@@ -6383,7 +6383,7 @@ How long does it take to cook a soprano?
 01:06:16,200 --> 01:06:18,300
 [DWARVES]
 Five hours, five minutes, five seconds.
-ຫ້າຊົ່ວໂມງ, ຫ້ານາທີ, ຫ້າວິນາທີ.
+5 ຊົ່ວໂມງ 5 ນາທີ 5 ວິນາທີ
 
 1013
 01:06:18,800 --> 01:06:21,250
@@ -6452,25 +6452,25 @@ hiccups ໄດ້. ຂ້ອຍຢາກມີ hay ບາງຢ່າງ!
 01:06:55,150 --> 01:06:57,150
 [FIRST LADY]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 1024
 01:06:57,650 --> 01:06:59,650
 [SECOND LADY]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 1025
 01:07:00,150 --> 01:07:02,150
 [THIRD LADY]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 1026
 01:07:02,650 --> 01:07:04,650
 [SCHIKANEDER]
 Hey what?
-ເຮ້ຫຍັງ?
+ສະບາຍດີແມ່ນຫຍັງ?
 
 1027
 01:07:05,150 --> 01:07:09,350
@@ -6525,7 +6525,7 @@ Whoa! Whoa, Ottavio! Whoa!
 01:07:29,550 --> 01:07:31,650
 [SCHIKANEDER]
 Well, how do you like that?
-ເຈົ້າມັກມັນແນວໃດ?
+ແມ່ນແລ້ວ ເຈົ້າບໍ່ມັກບໍ່?
 
 1036
 01:07:32,150 --> 01:07:34,600
@@ -6608,7 +6608,7 @@ No, no, I love that. I'd want it to be in German. I haven't done anything in Ger
 01:08:27,450 --> 01:08:30,250
 [SCHIKANEDER]
 So there you are. What do you say?
-ສະນັ້ນເຈົ້າຢູ່ບ່ອນນັ້ນ. ເຈົ້າເວົ້າແນວໃດ?
+ແມ່ນແລ້ວ. ເຈົ້າຄິດແນວໃດ?
 
 1049
 01:08:30,750 --> 01:08:32,850
@@ -6876,7 +6876,7 @@ A man who deserved a Requiem Mass and never got one.
 01:11:22,100 --> 01:11:24,100
 [MOZART]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 1091
 01:11:24,600 --> 01:11:29,150
@@ -6926,7 +6926,7 @@ Who was that?
 01:11:50,950 --> 01:11:52,950
 [MOZART]
 No one.
-ບໍ່ມີໃຜ.
+ບໍ່ໃຜເລີຍ.
 
 1099
 01:11:53,450 --> 01:11:55,450
@@ -7002,7 +7002,7 @@ The only thing that worried me was the actual killing. How does one do that? How
 01:12:36,550 --> 01:12:38,550
 [CONSTANZE]
 Wolfi. Wolfi!
-ໂວຟຟີ. ໂວລຟີ!
+ໂວລຟີ ໂວຮຟີ!
 
 1111
 01:12:39,050 --> 01:12:41,050
@@ -7027,7 +7027,7 @@ Tell him I'm not here. Tell him I'm working on it. Come back later.
 01:12:49,450 --> 01:12:51,450
 [SCHIKANEDER]
 Am I interrupting something?
-ຂ້ອຍລົບກວນບາງສິ່ງບາງຢ່າງບໍ?
+ຂ້ອຍຈະລົບກວນຫຍັງບໍ່?
 
 1115
 01:12:51,950 --> 01:12:53,950
@@ -7082,7 +7082,7 @@ Leave that alone!
 01:13:18,200 --> 01:13:20,200
 [SCHIKANEDER]
 Wolfi!
-ໂວລຟີ!
+ວູຟຟີ!
 
 1124
 01:13:20,700 --> 01:13:22,700
@@ -7405,7 +7405,7 @@ Give me one reason I can understand.
 01:16:32,750 --> 01:16:34,750
 [MOZART]
 I can't write it!
-ຂ້ອຍຂຽນມັນບໍ່ໄດ້!
+ຂ້ອຍບໍ່ສາມາດຂຽນໄດ້ບໍ່!
 
 1175
 01:16:35,250 --> 01:16:37,250
@@ -7884,7 +7884,7 @@ Well, tell him we were here, won't you?
 01:21:33,000 --> 01:21:35,000
 [SALIERI]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 1251
 01:21:35,500 --> 01:21:41,500
@@ -7985,7 +7985,7 @@ But you'd have to swear not to tell a soul. I'm not allowed.
 01:22:37,100 --> 01:22:39,100
 [SALIERI]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 1267
 01:22:39,600 --> 01:22:45,600
@@ -8156,7 +8156,7 @@ The Fire.
 01:24:03,200 --> 01:24:05,200
 [SALIERI]
 What time?
-ເວລາໃດ?
+ເວລາແມ່ນຫຍັງ?
 
 1295
 01:24:05,700 --> 01:24:07,700
@@ -8194,7 +8194,7 @@ Third measure, second beat starting on E.  Flam-mis a-cri-bus ad-dic-tis.  And f
 01:24:25,900 --> 01:24:27,900
 [SALIERI]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 1301
 01:24:28,400 --> 01:24:30,400
@@ -8294,7 +8294,7 @@ Do you have me?
 01:25:23,400 --> 01:25:25,400
 [SALIERI]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 1317
 01:25:25,900 --> 01:25:27,900
@@ -8588,7 +8588,7 @@ Madame, I will respect his. He asked me to stay here.
 01:28:16,850 --> 01:28:18,850
 [CONSTANZE]
 Wolfi?  Wolfi?
-ໂວຟຟີ? ໂວລຟີບໍ?
+ວູລຟີ ວູຮຟີບໍ່?
 
 1364
 01:28:19,350 --> 01:28:24,950
@@ -8601,7 +8601,7 @@ Why? Why? Why? Why add to your misery by confessing to murder? You didn't kill h
 01:28:25,450 --> 01:28:27,450
 [OLD SALIERI]
 I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 1366
 01:28:27,950 --> 01:28:29,950

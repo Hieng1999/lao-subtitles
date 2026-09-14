@@ -348,7 +348,7 @@ Relaxing.   Taking a little sun.
 00:03:41,750 --> 00:03:43,750
 [ABIGAIL]
 Have you gone mad?
-ເຈົ້າໂຊກຮ້າຍບໍ?
+ເຈົ້າໂງ່ບໍ່?
 
 57
 00:03:44,250 --> 00:03:48,450
@@ -525,7 +525,7 @@ Kill the hare. Skin it.   Boil it.
 00:05:43,450 --> 00:05:45,450
 [PUGSLEY]
 During rush hour.
-ໃນຊ່ວງຊົ່ວໂມງທີ່ມີຄົນຊົມເຊີຍ.
+ໃນຊ່ວງເວລາທີ່ມີຄົນຫຼາຍທີ່ສຸດ.
 
 85
 00:05:45,950 --> 00:05:51,950
@@ -1003,7 +1003,7 @@ You can't! Not with red-hot pokers!
 00:11:05,800 --> 00:11:07,800
 [TULLY]
 Is this gonna smell?
-ມັນຈະກິ່ນຫອມບໍ?
+ນີ້ແມ່ນຈະກິ່ນບໍ່?
 
 160
 00:11:08,300 --> 00:11:11,800
@@ -1047,7 +1047,7 @@ Fester - I saw you tonight, at my window. I know it was you.
 00:11:31,700 --> 00:11:33,700
 [ABIGAIL]
 Gordon?
-ໂກດອນ?
+ແກດອນແມ່ນບໍ່?
 
 167
 00:11:34,200 --> 00:11:36,300
@@ -1417,7 +1417,7 @@ Isn't he handsome? Everyone keeps asking where he bought his costume.
 00:15:26,650 --> 00:15:28,650
 [GOMEZ]
 It is a wonderful hat.
-ມັນເປັນ ຫມວກ ທີ່ຍິ່ງໃຫຍ່.
+ມັນເປັນໝວກທີ່ສວຍງາມແທ້ໆ.
 
 226
 00:15:29,150 --> 00:15:31,950

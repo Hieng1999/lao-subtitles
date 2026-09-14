@@ -803,7 +803,7 @@ Master Wayne? Alfred's voice echoes through the vast mansion. No reply.
 00:09:06,000 --> 00:09:09,150
 [ALFRED]
 You haven't been down here in a long time...
-ເຈົ້າບໍ່ໄດ້ຢູ່ລຸ່ມນີ້ເປັນເວລາດົນນານແລ້ວ...
+ເຈົ້າບໍ່ເຄີຍລົງມາທີ່ນີ້ດົນແລ້ວ...
 
 127
 00:09:09,650 --> 00:09:15,650
@@ -975,7 +975,7 @@ I'd like to, if that's okay.
 00:11:01,100 --> 00:11:03,100
 [BLAKE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 154
 00:11:03,600 --> 00:11:06,050
@@ -1070,7 +1070,7 @@ In fact, I'm counting to ten right now... Selina looks in his eyes. The Thug coc
 00:12:04,500 --> 00:12:06,500
 [SELINA]
 Okay, okay -
-ດີ, ດີ -
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ -
 
 169
 00:12:07,000 --> 00:12:09,800
@@ -1201,13 +1201,13 @@ Where -?
 00:13:27,600 --> 00:13:29,700
 [GORDON]
 Get the DWP down here, now!
-ເອົາ DWP ມາບ່ອນນີ້, ດຽວນີ້!
+ຂໍໃຫ້ DWP ມາທີ່ນີ້ເດີ້! ດຽວນີ້!
 
 190
 00:13:30,200 --> 00:13:32,200
 [COP]
 Where's the DWP guy?
-ຜູ້ຊາຍ DWP ຢູ່ໃສ?
+ເຈົ້າໜ້າທີ່ DWP ແມ່ນຢູ່ໃສ?
 
 191
 00:13:32,700 --> 00:13:34,700
@@ -1640,7 +1640,7 @@ Actually, you did that yourself. See, if you funnel the entire R and D budget fo
 00:18:21,850 --> 00:18:23,850
 [WAYNE]
 Even with -
-ເຖິງແມ່ນວ່າກັບ -
+ແມ່ນແຕ່ກັບ -
 
 259
 00:18:24,350 --> 00:18:30,300
@@ -1819,7 +1819,7 @@ Works great except for the autopilot.
 00:20:14,050 --> 00:20:16,050
 [WAYNE]
 What's wrong with that?
-ມີຫຍັງຜິດກັບມັນ?
+ນັ້ນແມ່ນຫຍັງບໍ່ດີ?
 
 287
 00:20:16,550 --> 00:20:20,400
@@ -1957,7 +1957,7 @@ I don't know what he's so upset about, he only had sixty bucks in here.
 00:21:37,250 --> 00:21:39,250
 [SELINA]
 Probably the watch.
-ບາງທີໂມງ.
+ບາງທີແມ່ນໂມງນັ້ນເອງ.
 
 309
 00:21:39,750 --> 00:21:43,600
@@ -2386,7 +2386,7 @@ Master Wayne, if you're considering going back out there you need to hear some r
 00:26:23,700 --> 00:26:25,700
 [WAYNE]
 I'm all ears.
-ຂ້ອຍເປັນຫູທັງ ຫມົດ.
+ແມ່ນແລ້ວ, ຂ້ອຍແມ່ນຫູທັງ ໝົດ.
 
 376
 00:26:26,200 --> 00:26:32,200
@@ -2424,7 +2424,7 @@ No one knows why. Or how he escaped. But they know who trained him one he did...
 00:26:47,500 --> 00:26:49,500
 [A U]
 mentor.
-ຜູ້ແນະນໍາ.
+ຄູສອນ.
 
 382
 00:26:50,000 --> 00:26:56,000
@@ -2528,7 +2528,7 @@ Wayne coming back is change. Change is either good or bad.
 00:28:06,200 --> 00:28:08,200
 [TRADER 2]
 On what basis?
-ອີງໃສ່ຫຍັງ?
+ໂດຍພື້ນຖານຫຍັງ?
 
 398
 00:28:08,700 --> 00:28:14,700
@@ -2850,7 +2850,7 @@ How did you let him go?!
 00:31:34,750 --> 00:31:37,200
 [COP]
 He's got a lot of firepower -
-ລາວມີພະລັງຍິງຫຼາຍ -
+ລາວມີກໍາລັງປືນຫຼາຍ -
 
 449
 00:31:37,700 --> 00:31:43,700
@@ -2989,7 +2989,7 @@ I don't know, do they?
 00:33:04,700 --> 00:33:06,700
 [CATWOMAN]
 So where is it?
-ສະນັ້ນມັນຢູ່ໃສ?
+ແມ່ນແລ້ວແມ່ນຢູ່ໃສ?
 
 471
 00:33:07,200 --> 00:33:09,200
@@ -3116,7 +3116,7 @@ You're welcome.
 00:34:25,700 --> 00:34:27,700
 [CATWOMAN]
 I had it under control.
-ຂ້ອຍຄວບຄຸມມັນໄວ້.
+ຂ້ອຍສາມາດຄວບຄຸມໄດ້ແລ້ວ.
 
 491
 00:34:28,200 --> 00:34:34,200
@@ -3487,7 +3487,7 @@ Alfred? But Alfred is gone.
 00:38:37,750 --> 00:38:39,750
 [FOX]
 Answering your own door?
-ການເປີດປະຕູຂອງທ່ານເອງບໍ?
+ຕອບປະຕູຂອງເຈົ້າເອງບໍ່?
 
 549
 00:38:40,250 --> 00:38:43,400
@@ -4194,7 +4194,7 @@ Nobody's answering. Wayne turns to find Miranda there.
 00:46:09,350 --> 00:46:11,450
 [WAYNE]
 No. I'm on my own now.
-ບໍ່. ຂ້ອຍຢູ່ດ້ວຍຕົນເອງດຽວນີ້.
+ບໍ່. ຂ້ອຍແມ່ນຄົນດຽວແລ້ວ.
 
 661
 00:46:11,950 --> 00:46:16,500
@@ -4604,7 +4604,7 @@ You have an appetite. Why run? You can't hide from us with this record.
 00:50:46,900 --> 00:50:49,350
 [SELINA]
 Maybe it's not you I'm running from.
-ບາງທີຂ້ອຍບໍ່ໄດ້ຫນີຈາກເຈົ້າ.
+ບາງທີແມ່ນບໍ່ແມ່ນເຈົ້າທີ່ຂ້ອຍ ກໍາ ລັງໜີຈາກ.
 
 725
 00:50:49,850 --> 00:50:53,000
@@ -4711,7 +4711,7 @@ Why, honey, you wanna hold my hand?
 00:51:52,350 --> 00:51:54,350
 [WARDEN]
 She'll be just fine.
-ນາງຈະດີດີ.
+ນາງບໍ່ເປັນຫຍັງເລີຍ.
 
 742
 00:51:54,850 --> 00:51:59,750
@@ -4783,7 +4783,7 @@ Okay, Commissioner, you were right.
 00:52:42,400 --> 00:52:44,400
 [GORDON]
 What's happened?
-ເກີດຫຍັງຂຶ້ນ?
+ມີຫຍັງເກີດຂຶ້ນບໍ່?
 
 753
 00:52:44,900 --> 00:52:50,900
@@ -5129,7 +5129,7 @@ They're heading into a trap!
 00:56:30,200 --> 00:56:32,200
 [FOLEY]
 Foley.
-ໂຟລີ.
+ຟໍລີ.
 
 807
 00:56:32,700 --> 00:56:37,600
@@ -5178,7 +5178,7 @@ Gotham, take control of your city...
 00:56:58,350 --> 00:57:00,350
 [BLAKE]
 Foley?
-ໂຟລີ?
+ຟໍລີແມ່ນບໍ່?
 
 815
 00:57:00,850 --> 00:57:04,700
@@ -5761,7 +5761,7 @@ For the bus in case there's a chance to evacuate. Keep it in here - people are s
 01:04:08,200 --> 01:04:10,200
 [FATHER REILLY]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 904
 01:04:10,700 --> 01:04:13,150
@@ -5895,7 +5895,7 @@ Captain, glad to have you here.
 01:05:16,350 --> 01:05:18,450
 [CAPTAIN JONES]
 How many of you are there?
-ເຈົ້າມີຫຼາຍປານໃດຢູ່ບ່ອນນັ້ນ?
+ພວກເຈົ້າແມ່ນຫຼາຍປານໃດ?
 
 926
 01:05:18,950 --> 01:05:24,200
@@ -7852,7 +7852,7 @@ You should use your full name. I like that name... Robin.
 01:27:06,400 --> 01:27:08,500
 [LAWYER]
 Any word on the missing item?
-ມີຂ່າວໃດກ່ຽວກັບສິ່ງຫາຍສາບສູນບໍ?
+ມີຂ່າວຫຍັງບໍ່ກ່ຽວກັບວັດຖຸທີ່ຂາດຢູ່ບໍ່?
 
 1234
 01:27:09,000 --> 01:27:11,000

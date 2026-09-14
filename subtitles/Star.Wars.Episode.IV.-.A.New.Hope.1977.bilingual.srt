@@ -33,7 +33,7 @@ Did you hear that? They've shut down the main reactor. We'll be destroyed for su
 00:00:28,000 --> 00:00:30,000
 [THREEPIO]
 We're doomed!
-ພວກເຮົາຖືກຕັດສິນລົງໂທດ!
+ພວກເຮົາແມ່ນສິ້ນສຸດລົງແລ້ວ!
 
 7
 00:00:30,500 --> 00:00:33,650
@@ -404,7 +404,7 @@ What makes you think there are settlements over there?
 00:04:44,900 --> 00:04:46,900
 [THREEPIO]
 Don't get technical with me.
-ຢ່າກາຍເປັນວິຊາການກັບຂ້ອຍ.
+ຢ່າເວົ້າກັບຂ້ອຍແບບເທັກນິກໆເດີ້.
 
 65
 00:04:47,400 --> 00:04:53,400
@@ -1394,7 +1394,7 @@ Uh? Did he take those two new droids with him?
 00:16:14,500 --> 00:16:16,500
 [AUNT BERU]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 219
 00:16:17,000 --> 00:16:23,000
@@ -2168,7 +2168,7 @@ He doesn't like you.
 00:25:23,050 --> 00:25:25,050
 [LUKE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 339
 00:25:25,550 --> 00:25:27,550
@@ -2270,7 +2270,7 @@ Only passengers. Myself, the boy, two droids, and no questions asked.
 00:26:26,600 --> 00:26:29,400
 [HAN]
 What is it? Some kind of local trouble?
-ມັນເປັນຫຍັງ? ຄວາມຫຍຸ້ງຍາກທ້ອງຖິ່ນບາງຢ່າງບໍ?
+ແມ່ນຫຍັງ? ມີບັນຫາໃນທ້ອງຖິ່ນບໍ່?
 
 355
 00:26:29,900 --> 00:26:33,400
@@ -2365,7 +2365,7 @@ That's okay. I'm never coming back to this planet again.
 00:27:32,550 --> 00:27:34,550
 [GREEDO]
 Going somewhere, Solo?
-ເຈົ້າ ກໍາ ລັງໄປບ່ອນໃດບໍ, ໂຊໂລ?
+ເຈົ້າຈະໄປໃສບໍ່, ໂຊໂລ?
 
 370
 00:27:35,050 --> 00:27:41,050
@@ -3380,7 +3380,7 @@ I use them for smuggling. I never thought I'd be smuggling myself in them. This 
 00:38:54,950 --> 00:38:56,950
 [BEN]
 Leave that to me!
-ໃຫ້ມັນຢູ່ກັບຂ້ອຍ!
+ໃຫ້ຂ້ອຍຮັບຜິດຊອບເດີ້!
 
 530
 00:38:57,450 --> 00:39:01,300
@@ -3737,7 +3737,7 @@ Okay. Now, I'm going to put these on you.
 00:42:37,400 --> 00:42:39,500
 [LUKE]
 Okay. Han, you put these on.
-ດີແລ້ວ. ຮານ, ເຈົ້າໃສ່ສິ່ງເຫຼົ່ານີ້.
+ແມ່ນແລ້ວ ແຮນ, ເຈົ້າໃສ່ພວກນີ້ເດີ້.
 
 587
 00:42:40,000 --> 00:42:44,200
@@ -3887,7 +3887,7 @@ What? Oh... the uniform. I'm Luke Skywalker. I'm here to rescue you.
 00:44:06,850 --> 00:44:08,850
 [LEIA]
 You're who?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 611
 00:44:09,350 --> 00:44:14,600
@@ -4539,7 +4539,7 @@ What was that?
 00:50:22,200 --> 00:50:24,650
 [FIRST TROOPER]
 Oh, it's nothing. Don't worry about it.
-ໂອ້, ມັນບໍ່ມີຫຍັງເລີຍ. ຢ່າກັງວົນກ່ຽວກັບມັນ.
+ແມ່ນແລ້ວ, ບໍ່ເປັນຫຍັງເລີຍ. ບໍ່ຕ້ອງເປັນຫ່ວງ.
 
 716
 00:50:25,150 --> 00:50:27,150
@@ -4587,7 +4587,7 @@ It's them! Blast them!
 00:50:46,800 --> 00:50:48,800
 [HAN]
 Get back to the ship!
-ກັບຄືນໄປບ່ອນເຮືອ!
+ກັບຄືນສູ່ເຮືອເດີ້!
 
 724
 00:50:49,300 --> 00:50:51,400
@@ -5116,8 +5116,7 @@ This will be a day long remembered. It has seen the end of Kenobi and it will so
 00:56:06,200 --> 00:56:10,400
 [MAN'S VOICE]
 All flight trooper, man your stations. All flight troops, man your stations.
-ພວກທະຫານບິນທັງ ຫມົດ, ຜູ້ຊາຍສະຖານີຂອງທ່ານ.
-ພວກທະຫານເຮືອບິນທັງ ຫມົດ ຄົນຊາຍສະຖານີດຂອງທ່ານ.
+ພວກທະຫານບິນທັງ ໝົດ, ຄວບຄຸມສະຖານີຂອງທ່ານ.
 
 808
 00:56:10,900 --> 00:56:14,400
@@ -5388,7 +5387,7 @@ Cut the chatter, Red Two.
 00:58:56,450 --> 00:58:59,250
 [RED LEADER]
 Accelerate to attack speed. This is it, boys!
-ໄວຂຶ້ນເພື່ອໂຈມຕີຄວາມໄວ. ນີ້ແມ່ນມັນ, ເດັກຊາຍ!
+ເລັ່ງຂຶ້ນສູ່ຄວາມໄວໃນການໂຈມຕີ. ນີ້ແມ່ນແລ້ວ, ພວກຜູ້ຊາຍ!
 
 851
 00:58:59,750 --> 00:59:01,850
@@ -5652,7 +5651,7 @@ I copy, Gold Leader. Move into position.
 01:01:21,150 --> 01:01:23,150
 [VADER]
 Stay in attack formation!
-ຢູ່ຢູ່ໃນການສ້າງຕັ້ງການໂຈມຕີ!
+ສະເໝີໄວ້ໃນຮູບແບບການໂຈມຕີເດີ້!
 
 894
 01:01:23,650 --> 01:01:25,650
@@ -5664,7 +5663,7 @@ The exhaust post is...
 01:01:26,150 --> 01:01:28,150
 [GOLD LEADER]
 ...marked and locked in!
-... ຫມາຍ ແລະ ປິດໄວ້!
+...ໝາຍໄວ້ແລະຖືກລັອກໄວ້!
 
 896
 01:01:28,650 --> 01:01:30,750
@@ -5748,7 +5747,7 @@ We're too close.
 01:02:06,300 --> 01:02:08,300
 [GOLD FIVE]
 Stay on target!
-ຢູ່ຕາມເປົ້າຫມາຍ!
+ຮັກສາເປົ້າໝາຍໄວ້ເດີ້!
 
 910
 01:02:08,800 --> 01:02:10,800
@@ -5854,7 +5853,7 @@ We should be able to see it by now.
 01:03:04,800 --> 01:03:07,250
 [RED LEADER]
 Keep your eyes open for those fighters!
-ຈົ່ງເປີດຕາໃຫ້ພວກນັກຕໍ່ສູ້ນັ້ນ!
+ເຝົ້າລະວັງນັກຕໍ່ສູ້ທັງຫຼາຍເດີ້!
 
 927
 01:03:07,750 --> 01:03:09,750
@@ -5987,7 +5986,7 @@ Biggs, Wedge, let's close it up. We're going in. We're going in full throttle.
 01:04:09,000 --> 01:04:11,000
 [WEDGE]
 Right with you, boss.
-ຢູ່ກັບເຈົ້າ, ຫົວຫນ້າ.
+ແມ່ນແລ້ວ, ຫົວໜ້າ.
 
 949
 01:04:11,500 --> 01:04:16,050

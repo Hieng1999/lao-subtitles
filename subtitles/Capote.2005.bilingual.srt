@@ -47,7 +47,7 @@ Oh, I've got a million ideas of what to write next -- I just have to choose one.
 00:00:39,450 --> 00:00:41,450
 [GRAYSON]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 9
 00:00:41,950 --> 00:00:43,950
@@ -370,7 +370,7 @@ As do a lot of folks around here.
 00:03:49,750 --> 00:03:51,750
 [TRUMAN]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 61
 00:03:52,250 --> 00:03:54,250
@@ -419,7 +419,7 @@ I'll talk facts but I won't speculate. The main fact here we need to be clear on
 00:04:17,000 --> 00:04:19,000
 [JOURNALIST #1]
 Had his throat cut.
-ໄດ້ຕັດຄໍຂອງລາວ.
+ຖືກຕັດຄໍແລ້ວ.
 
 69
 00:04:19,500 --> 00:04:25,500
@@ -765,7 +765,7 @@ I thought you were from the FBI with your long coat.
 00:07:38,350 --> 00:07:40,350
 [TRUMAN]
 Is that so?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 125
 00:07:40,850 --> 00:07:42,850
@@ -1109,7 +1109,7 @@ I was writing the script as they were filming, all that time in Italy. I'd work 
 00:11:00,650 --> 00:11:02,650
 [MARIE]
 Humphrey Bogart.
-Humphrey Bogart.
+ແຮມຟຣີ ໂບເກັດ.
 
 180
 00:11:03,150 --> 00:11:06,300
@@ -1184,7 +1184,7 @@ So many of my friends would love to meet you.
 00:11:46,500 --> 00:11:48,500
 [NELLE]
 That'd be fine --
-ມັນຈະດີດີ -
+ບໍ່ເປັນຫຍັງເລີຍ -
 
 192
 00:11:49,000 --> 00:11:54,250
@@ -1405,7 +1405,7 @@ I have 94 percent recall.
 00:14:03,850 --> 00:14:05,850
 [TRUMAN]
 You cut that out.
-ເຈົ້າຢຸດມັນອອກ.
+ສະບາຍດີ ຢ່າເວົ້າແບບນັ້ນເລີຍ.
 
 227
 00:14:06,350 --> 00:14:08,350
@@ -1502,7 +1502,7 @@ Dad?
 00:14:47,950 --> 00:14:49,950
 [DEWEY]
 Not now, Alvin.
-ບໍ່ໃນເວລານີ້, ອາລວິນ.
+ບໍ່ຕອນນີ້ ແອລວິນ.
 
 243
 00:14:50,450 --> 00:14:56,050
@@ -1528,7 +1528,7 @@ You need to call the Chief of Police in Las Vegas when you have a minute.
 00:15:09,150 --> 00:15:11,150
 [NELLE]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 247
 00:15:11,650 --> 00:15:16,200
@@ -1636,7 +1636,7 @@ Um. Truman? All set.
 00:16:17,400 --> 00:16:19,400
 [TRUMAN]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 264
 00:16:19,900 --> 00:16:22,000
@@ -1795,7 +1795,7 @@ I just want permission to talk.  Has anyone else visited?
 00:17:38,750 --> 00:17:40,750
 [DOROTHY]
 Truman --
-ທຣູມານ...
+ທຣູແມນ -
 
 290
 00:17:41,250 --> 00:17:47,250
@@ -2375,7 +2375,7 @@ My Aunts.  That's when I met Nelle -- she lived next door.  Your mother was Indi
 00:23:41,150 --> 00:23:43,150
 [PERRY]
 Cherokee.
-Cherokee.
+ເຊໂຣເກີ.
 
 382
 00:23:43,650 --> 00:23:46,450
@@ -2393,7 +2393,7 @@ No tolerance for it.
 00:23:49,450 --> 00:23:51,450
 [TRUMAN]
 And your father?
-ແລະພໍ່ຂອງເຈົ້າ?
+ແລ້ວພໍ່ເຈົ້າແມ່ນໄງ?
 
 385
 00:23:51,950 --> 00:23:53,950
@@ -2583,7 +2583,7 @@ You look good, healthy again.
 00:25:53,100 --> 00:25:55,100
 [DEWEY]
 Not a chance.
-ບໍ່ມີໂອກາດເລີຍ.
+ບໍ່ເປັນໄປເລີຍ.
 
 415
 00:25:55,600 --> 00:26:01,600
@@ -2608,7 +2608,7 @@ The former, among other things.
 00:26:10,350 --> 00:26:12,350
 [DEWEY]
 I see.
-ຂ້ອຍເຫັນແລ້ວ.
+ແມ່ນແລ້ວ.
 
 419
 00:26:12,850 --> 00:26:17,750
@@ -2752,7 +2752,7 @@ Why? Do you worry what I'll think?
 00:27:38,850 --> 00:27:40,850
 [TRUMAN]
 Is that it?
-ນັ້ນແມ່ນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 442
 00:27:41,350 --> 00:27:43,450
@@ -2878,7 +2878,7 @@ You can't.
 00:28:56,700 --> 00:28:58,700
 [TRUMAN]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 462
 00:28:59,200 --> 00:29:02,000
@@ -2903,7 +2903,7 @@ I told him that.
 00:29:11,100 --> 00:29:13,100
 [HICKOCK]
 No premeditation --
-ບໍ່ມີການວາງແຜນກ່ອນ...
+ບໍ່ຕ້ອງມີຄວາມຕັ້ງໃຈກ່ອນ -
 
 466
 00:29:13,600 --> 00:29:15,600
@@ -2968,7 +2968,7 @@ And we all need to see how this ends for the final part. I can't finish the book
 00:29:55,100 --> 00:29:57,200
 [SHAWN]
 Truman. You got your ending --
-ທຣູມານ. ເຈົ້າມີສິ້ນສຸດຂອງທ່ານ -
+ທຣູແມນ. ເຈົ້າມີຕອນທ້າຍຂອງເຈົ້າແລ້ວ -
 
 476
 00:29:57,700 --> 00:29:59,700
@@ -3181,7 +3181,7 @@ I'll see you at the reading in New York.
 00:32:05,250 --> 00:32:07,250
 [NELLE]
 The sixteenth.
-ວັນທີສິບຫົກ.
+ວັນທີ 16
 
 510
 00:32:07,750 --> 00:32:13,750
@@ -3212,7 +3212,7 @@ Hey, buddy. Thanks.
 00:32:22,200 --> 00:32:24,300
 [PERRY]
 What was he in jail for?
-ລາວຢູ່ໃນຄຸກເປັນຫຍັງ?
+ລາວຖືກຈໍາຄຸກແມ່ນຫຍັງ?
 
 515
 00:32:24,800 --> 00:32:30,800
@@ -3532,7 +3532,7 @@ I'm flying to Kansas tomorrow. I'll get Perry to talk --
 00:35:40,200 --> 00:35:42,300
 [SHAWN]
 Honestly, what's he got to lose?
-ໂດຍຄວາມຈິງໃຈ, ລາວມີຫຍັງທີ່ຈະສູນເສຍ?
+ແມ່ນແລ້ວ, ລາວຈະສູນເສຍຫຍັງແດ່?
 
 566
 00:35:42,800 --> 00:35:45,250
@@ -4104,7 +4104,7 @@ It is COLD. Truman and Jack's limo pulls up. An USHER opens their DOOR.
 00:41:23,950 --> 00:41:25,950
 [TRUMAN]
 Nelle.
-ເນລເລ.
+ນີເລ.
 
 657
 00:41:26,450 --> 00:41:28,550
@@ -4147,7 +4147,7 @@ Well. It's torture. Torture...  ...what they're doing to me.
 00:41:42,700 --> 00:41:44,700
 [NELLE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 664
 00:41:45,200 --> 00:41:51,200
@@ -4172,7 +4172,7 @@ It's torture. They're torturing me.
 00:41:56,700 --> 00:41:58,700
 [NELLE]
 I see.
-ຂ້ອຍເຫັນແລ້ວ.
+ແມ່ນແລ້ວ.
 
 668
 00:41:59,200 --> 00:42:01,650
@@ -4239,7 +4239,7 @@ Oh.  Uh... Yes.
 00:42:29,750 --> 00:42:31,750
 [OPERATOR]
 You'll accept charges?
-ເຈົ້າຈະຍອມຮັບຄ່າໃຊ້ຈ່າຍບໍ?
+ເຈົ້າຈະຮັບຄ່າທໍານຽມບໍ່?
 
 679
 00:42:32,250 --> 00:42:34,250
@@ -4276,7 +4276,7 @@ I'm here.
 00:42:48,450 --> 00:42:50,450
 [PERRY]
 Truman.
-ທຣູມານ.
+ທູຣມານ
 
 685
 00:42:50,950 --> 00:42:52,950
@@ -4307,7 +4307,7 @@ Yeah.
 00:43:05,050 --> 00:43:07,050
 [TRUMAN]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 690
 00:43:07,550 --> 00:43:10,350
@@ -4345,7 +4345,7 @@ Please visit me, Truman. Just...
 00:43:28,850 --> 00:43:30,850
 [GUARD]
 Ready.
-ກຽມພ້ອມແລ້ວ.
+ແມ່ນແລ້ວ.
 
 696
 00:43:31,350 --> 00:43:33,350
@@ -4469,7 +4469,7 @@ Mr. Shawn, if you have to hold him down and put the phone on his ear, I need to 
 00:44:38,750 --> 00:44:40,750
 [SHAWN]
 It's Nelle.
-ມັນເປັນເນລເລ.
+ແມ່ນເນລເລີ້.
 
 716
 00:44:41,250 --> 00:44:43,250
@@ -4682,7 +4682,7 @@ You're not rid of me yet. I'll see you in a few minutes.
 00:46:42,200 --> 00:46:44,200
 [PERRY]
 Nice to see you.
-ດີໃຈທີ່ເຫັນເຈົ້າ.
+ສະບາຍດີທີ່ໄດ້ພົບກັນແລ້ວ.
 
 750
 00:46:44,700 --> 00:46:50,700

@@ -80,7 +80,7 @@ Not overnight. These imaginary monkey cases take time. I vould estimate...roughl
 00:01:03,300 --> 00:01:06,450
 [SHRINK]
 Twelve years and three months ought to do it.
-ສິບສອງປີແລະສາມເດືອນຄວນເຮັດມັນ.
+12 ປີແລະ 3 ເດືອນແມ່ນຈະພຽງພໍແລ້ວ.
 
 14
 00:01:06,950 --> 00:01:11,150
@@ -547,7 +547,7 @@ Pony ride, Mister?
 00:06:23,050 --> 00:06:25,150
 [JOE CAMEL]
 Hey, Mister. Mister! Got a smoke?
-ເຮ້, ທ້າວ. ທ້າວ! ມີສູບຢາບໍ?
+ສະບາຍດີເດີ. ເຈົ້າມີຢາສູບບໍ່?
 
 87
 00:06:25,650 --> 00:06:27,650
@@ -559,7 +559,7 @@ Hey, aren't you Stu Miley?
 00:06:28,150 --> 00:06:30,150
 [HEAD #2]
 We're big fans.
-ພວກເຮົາເປັນແຟນໃຫຍ່.
+ພວກເຮົາແມ່ນແຟນຫຼາຍ.
 
 89
 00:06:30,650 --> 00:06:32,650
@@ -823,7 +823,7 @@ I've put a ton of work into that boy, Alice. I am not going to let him get away 
 00:09:11,450 --> 00:09:13,450
 [JULIE]
 Kimmy...?
-ຄິມມີ...?
+ຄິມມີ?
 
 131
 00:09:13,950 --> 00:09:16,400
@@ -885,7 +885,7 @@ Vital signs have stabilized. That's good.
 00:09:48,000 --> 00:09:51,850
 [KIMMY]
 Can you give us a realistic sense of my brother's chances?
-ເຈົ້າສາມາດໃຫ້ຄວາມຮູ້ສຶກທີ່ແທ້ຈິງກ່ຽວກັບໂອກາດຂອງອ້າຍຂອງຂ້ອຍໄດ້ບໍ?
+ເຈົ້າສາມາດບອກພວກເຮົາໄດ້ບໍ່ວ່າຄວາມເປັນໄປໄດ້ຂອງນ້ອງຊາຍຂອງຂ້ອຍແມ່ນຫຍັງ?
 
 141
 00:09:52,350 --> 00:09:56,900
@@ -1534,7 +1534,7 @@ What is this? Who's dreaming this??  Julie??
 00:17:14,800 --> 00:17:16,800
 [YETI]
 Hey, keep it down!
-ເຮ້, ງຽບລົງ!
+ສະບາຍດີ, ງຽບໆເດີ້!
 
 242
 00:17:17,300 --> 00:17:23,300
@@ -2324,7 +2324,7 @@ Most we've ever used is half a CC.
 00:26:00,150 --> 00:26:02,150
 [JULIE]
 Five CC's.
-ຫ້າ CC.
+5 ຄີຊີ.
 
 366
 00:26:02,650 --> 00:26:04,650
@@ -2356,7 +2356,7 @@ It's just...now that I'm leaving, I feel like there's lots of things I haven't s
 00:26:19,650 --> 00:26:22,100
 [MONKEYBONE]
 Oh, don't you worry. I'll be fine.
-ໂອ້, ຢ່າກັງວົນ. ຂ້ອຍຈະດີດີ.
+ໂອ້ ຢ່າກັງວົນເດີ້ ຂ້ອຍບໍ່ເປັນຫຍັງເລີຍ.
 
 371
 00:26:22,600 --> 00:26:28,600
@@ -2419,7 +2419,7 @@ Stu?
 00:27:00,350 --> 00:27:02,450
 [STU]
 Julie?... Hey, you are a looker.
-ຈູລີ?... ເຮ້, ເຈົ້າເປັນຄົນເບິ່ງດີ.
+ຈູລີ... ສະບາຍດີ, ເຈົ້າແມ່ນຄົນໜ້າຮັກແທ້ໆ.
 
 381
 00:27:02,950 --> 00:27:05,050
@@ -2660,7 +2660,7 @@ Kimmy. Chill. We've still got a pact. If anything ever happens to you, I'll be r
 00:29:38,550 --> 00:29:40,550
 [JULIE]
 Welcome home.
-ຍິນດີຕ້ອນຮັບບ້ານ.
+ສະບາຍດີກັບບ້ານເດີ.
 
 419
 00:29:41,050 --> 00:29:43,500
@@ -2759,7 +2759,7 @@ You sure this is...medically advisable?
 00:30:31,750 --> 00:30:33,750
 [STU-BONE]
 Got a doctor on duty.
-ມີຫມໍຢູ່ຫນ້າທີ່.
+ມີໝໍເຮັດວຽກຢູ່ແລ້ວ.
 
 435
 00:30:34,250 --> 00:30:37,400
@@ -3116,7 +3116,7 @@ I think it's a pig hair.  How much is McDonald's offering?
 00:34:43,750 --> 00:34:45,750
 [HERB]
 Less.
-ຫນ້ອຍລົງ.
+ໜ້ອຍກວ່າ.
 
 491
 00:34:46,250 --> 00:34:52,250
@@ -3530,7 +3530,7 @@ Death, I'm trying to make things right. Take my soul. Turn me into a paper doll.
 00:39:29,600 --> 00:39:31,700
 [DEATH]
 Well - you'd need a body.
-ດີ - ເຈົ້າຈະຕ້ອງການສົບ.
+ແມ່ນແລ້ວ - ເຈົ້າຕ້ອງມີສົບ.
 
 555
 00:39:32,200 --> 00:39:38,200

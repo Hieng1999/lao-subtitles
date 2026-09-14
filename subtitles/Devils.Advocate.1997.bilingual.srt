@@ -125,7 +125,7 @@ I told him I was afraid I would miss my bus. He promised I would get to the bus 
 00:01:40,850 --> 00:01:42,850
 [BARBARA]
 -- and then I screamed...
-- ແລະຫຼັງຈາກນັ້ນຂ້ອຍຮ້ອງໄຫ້...
+- ແລ້ວຂ້ອຍກໍຮ້ອງໄຫ້ວ່າ...
 
 21
 00:01:43,350 --> 00:01:48,600
@@ -138,7 +138,7 @@ I told him I was afraid I would miss my bus. He promised I would get to the bus 
 00:01:49,100 --> 00:01:51,100
 [PROSECUTOR]
 And did he try again?
-ແລະລາວພະຍາຍາມອີກບໍ?
+ແລະລາວລອງອີກບໍ່?
 
 23
 00:01:51,600 --> 00:01:53,600
@@ -459,7 +459,7 @@ Have you ever had a party at your house when your parents were away?  Yes or no?
 00:05:05,400 --> 00:05:07,500
 [PROSECUTOR]
 Objection.   This is way out of...
-ການຄັດຄ້ານ. ນີ້ແມ່ນທາງໄກຈາກ...
+ບໍ່ເຫັນດີ. ນີ້ແມ່ນບໍ່ເໝາະສົມກັບ...
 
 74
 00:05:08,000 --> 00:05:10,000
@@ -718,7 +718,7 @@ You've never been to New York.
 00:07:50,850 --> 00:07:52,850
 [KEVIN]
 Every dog gets a day.
-ຫມາທຸກຄົນໄດ້ຮັບມື້ຫນຶ່ງ.
+ແຕ່ລະໝາໄດ້ຮັບມື້ໜຶ່ງ.
 
 115
 00:07:53,350 --> 00:07:57,900
@@ -779,7 +779,7 @@ Let me tell you about New York.
 00:08:23,900 --> 00:08:25,900
 [KEVIN]
 Babylon.
-ບາບີລອນ.
+ບາບີໂລນ
 
 125
 00:08:26,400 --> 00:08:32,400
@@ -1150,7 +1150,7 @@ John Milton.
 00:12:12,600 --> 00:12:14,600
 [KEVIN]
 Nice to meet you.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກກັນ.
 
 184
 00:12:15,100 --> 00:12:17,200
@@ -1162,7 +1162,7 @@ Have we been treating you well?
 00:12:17,700 --> 00:12:19,700
 [KEVIN]
 Very well.    Thank you.
-ດີຫຼາຍ. ຂອບໃຈ.
+ແມ່ນແລ້ວ. ຂອບໃຈເດີ.
 
 186
 00:12:20,200 --> 00:12:22,650
@@ -1187,7 +1187,7 @@ Good. That's our secret. We kill you with kindness.  What's your secret?
 00:12:32,200 --> 00:12:34,200
 [KEVIN]
 I couldn't say.
-ຂ້ອຍບໍ່ສາມາດເວົ້າໄດ້.
+ຂ້ອຍບໍ່ຮູ້ເລີຍ.
 
 190
 00:12:34,700 --> 00:12:36,700
@@ -1411,7 +1411,7 @@ You don't have to sell me on New York.
 00:14:49,600 --> 00:14:51,700
 [MILTON]
 You like it here, don't you?
-ເຈົ້າມັກບ່ອນນີ້, ແມ່ນບໍ?
+ເຈົ້າມັກທີ່ນີ້ບໍ່?
 
 226
 00:14:52,200 --> 00:14:54,200
@@ -1423,7 +1423,7 @@ Are we negotiating?
 00:14:54,700 --> 00:14:56,700
 [MILTON]
 Always.
-ຕະຫຼອດເວລາ.
+ສະເໝີ.
 
 228
 00:14:57,200 --> 00:14:59,650
@@ -2021,7 +2021,7 @@ Bravo, Kevin. Bravo.  Pamela, you're looking lovely.  Satisfied, Phillipe?
 00:21:10,450 --> 00:21:12,450
 [MOYEZ]
 Always.
-ຕະຫຼອດເວລາ.
+ສະເໝີ.
 
 323
 00:21:12,950 --> 00:21:15,050
@@ -2202,7 +2202,7 @@ Learn the subways, Kevin. Use them. Stay in the trenches.
 00:23:16,900 --> 00:23:18,900
 [KEVIN]
 Mare... Mare...?
-ມາເຣ... ມາເຣ...?
+ແມຣ໌... ແມຮ໌...?
 
 351
 00:23:19,400 --> 00:23:21,400
@@ -2214,13 +2214,13 @@ You're late...
 00:23:21,900 --> 00:23:23,900
 [KEVIN]
 What's all this?
-ສິ່ງທັງ ຫມົດ ນີ້ເປັນຫຍັງ?
+ນີ້ແມ່ນຫຍັງທັງ ໝົດ?
 
 353
 00:23:24,400 --> 00:23:26,400
 [MARY ANN]
 All what?
-ທຸກຢ່າງຫຍັງ?
+ແມ່ນຫຍັງທັງ ໝົດ?
 
 354
 00:23:26,900 --> 00:23:32,900
@@ -2355,7 +2355,7 @@ You haven't met him yet?
 00:24:36,250 --> 00:24:38,250
 [MARY ANN]
 Who is he?
-ລາວເປັນໃຜ?
+ລາວແມ່ນໃຜ?
 
 376
 00:24:38,750 --> 00:24:40,850
@@ -2520,7 +2520,7 @@ If it isn't, will you come to me? Let me help? I'd feel a lot less responsible. 
 00:26:27,050 --> 00:26:29,050
 [MARY ANN]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 402
 00:26:29,550 --> 00:26:35,550
@@ -2558,7 +2558,7 @@ If I do it, everyone in this room that's pretending not to watch us will assume 
 00:26:53,850 --> 00:26:55,850
 [MARY ANN]
 You're kidding.
-ເຈົ້າໂຊກຮ້າຍ.
+ເຈົ້າແມ່ນບໍ່ຈິງແລ້ວ.
 
 408
 00:26:56,350 --> 00:27:02,350
@@ -2669,7 +2669,7 @@ You like to be on top, don't you?
 00:27:54,500 --> 00:27:56,500
 [KEVIN]
 Excuse me?
-ຂໍໂທດບໍ?
+ສະບາຍດີບໍ່?
 
 426
 00:27:57,000 --> 00:28:00,150
@@ -2681,7 +2681,7 @@ Of the situation. You prefer to be on top.
 00:28:00,650 --> 00:28:02,650
 [KEVIN]
 Depends on the view.
-ມັນຂຶ້ນກັບທັດສະນະ.
+ແມ່ນຂຶ້ນກັບຄວາມເຫັນຂອງເຈົ້າເອງ.
 
 428
 00:28:03,150 --> 00:28:05,150
@@ -2791,7 +2791,7 @@ Everywhere.
 00:28:53,950 --> 00:28:55,950
 [BARZOON]
 What's up, John?
-ມີຫຍັງເກີດຂຶ້ນ, ຈອນ?
+ສະບາຍດີ ແຈນ?
 
 446
 00:28:56,450 --> 00:28:59,950
@@ -3353,7 +3353,7 @@ Exactly! You just go out -- you buy a few new suits and you're fine. I've got th
 00:34:59,550 --> 00:35:01,550
 [KEVIN]
 Let's make a baby.
-ພວກເຮົາຈະເຮັດລູກ.
+ມາສ້າງລູກກັນເດີ້.
 
 534
 00:35:02,050 --> 00:35:04,050
@@ -4035,7 +4035,7 @@ Arthur...
 00:41:38,600 --> 00:41:40,600
 [CULLEN]
 Not now.
-ບໍ່ໃນເວລານີ້.
+ບໍ່ຕອນນີ້ເດີ້.
 
 644
 00:41:41,100 --> 00:41:43,100
@@ -4109,7 +4109,7 @@ No, I'm fine.    Thank you.
 00:42:18,350 --> 00:42:20,350
 [MILTON]
 Speak of the devil...
-ເວົ້າກ່ຽວກັບຊາຕານ...
+ເວົ້າເຖິງຊາຕານແລ້ວ...
 
 656
 00:42:20,850 --> 00:42:23,300
@@ -4121,7 +4121,7 @@ I was just telling the Moyez story.
 00:42:23,800 --> 00:42:25,800
 [KEVIN]
 Really.
-ແທ້ໆ.
+ແມ່ນແລ້ວ.
 
 658
 00:42:26,300 --> 00:42:28,300
@@ -4145,7 +4145,7 @@ John Milton.    Nice to meet you.
 00:42:33,900 --> 00:42:36,000
 [MRS. LOMAX]
 Alice Lomax.    How do you do?
-ແອລສ໌ ໂລມາກສ໌. ເຈົ້າເປັນແນວໃດ?
+ແອລິສ໌ ໂລມາແຄສ ສະບາຍດີບໍ່?
 
 662
 00:42:36,500 --> 00:42:42,100
@@ -4158,7 +4158,7 @@ Mary Ann...  I think you've met Christabella, and this is Giselle who's just in 
 00:42:42,600 --> 00:42:44,600
 [KEVIN]
 Thanks for the champagne.
-ຂອບໃຈ ສໍາ ລັບຊໍາປານີ.
+ຂອບໃຈທີ່ແຊມປານີເດີ້.
 
 664
 00:42:45,100 --> 00:42:50,000
@@ -4250,7 +4250,7 @@ Let's talk tomorrow.
 00:43:30,100 --> 00:43:32,100
 [MILTON]
 You sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 679
 00:43:32,600 --> 00:43:35,400
@@ -4923,7 +4923,7 @@ Saw you go in.
 00:50:43,650 --> 00:50:45,650
 [KEVIN]
 What's up?
-ມີຫຍັງຂຶ້ນ?
+ສະບາຍດີບໍ່?
 
 785
 00:50:46,150 --> 00:50:48,150
@@ -5241,7 +5241,7 @@ Oh, Kevin --
 00:54:13,550 --> 00:54:15,550
 [KEVIN]
 What's happened?
-ເກີດຫຍັງຂຶ້ນ?
+ມີຫຍັງເກີດຂຶ້ນບໍ່?
 
 835
 00:54:16,050 --> 00:54:18,050
@@ -6175,7 +6175,7 @@ Whoa... Got me! Damn!  That's my boy. Step on up! Stay angry! Keep hold to that 
 01:03:56,200 --> 01:03:58,200
 [KEVIN]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 984
 01:03:58,700 --> 01:04:03,600
@@ -6201,7 +6201,7 @@ Well, I'm a little more than that. Awful hot in that courtroom, wasn't it? 'What
 01:04:13,100 --> 01:04:15,100
 [KEVIN]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 988
 01:04:15,600 --> 01:04:17,600
@@ -6213,7 +6213,7 @@ I have so many names.
 01:04:18,100 --> 01:04:20,100
 [KEVIN]
 Satan.
-ຊາຕານ.
+ແຊຕານ
 
 990
 01:04:20,600 --> 01:04:22,600
@@ -6327,7 +6327,7 @@ What do you think, Kevin?    What a scene, huh?
 01:05:31,200 --> 01:05:33,200
 [CHRISTABELLA]
 Don't let him scare you.
-ຢ່າປ່ອຍໃຫ້ລາວຢ້ານເຈົ້າ.
+ຢ່າໃຫ້ລາວເຮັດໃຫ້ເຈົ້າຢ້ານກົວເດີ້.
 
 1008
 01:05:33,700 --> 01:05:35,800
@@ -6386,7 +6386,7 @@ Eddie was right. Your name is on the partnership charter. I want you to take ove
 01:06:16,350 --> 01:06:18,350
 [KEVIN]
 Is that it?
-ນັ້ນແມ່ນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1017
 01:06:18,850 --> 01:06:20,850
@@ -6423,13 +6423,13 @@ I want a family.
 01:06:35,350 --> 01:06:37,350
 [KEVIN]
 The Antichrist.
-ຕ້ານຄຣິສຕ໌.
+ແອນຕິຄຣິດ.
 
 1023
 01:06:37,850 --> 01:06:39,850
 [MILTON]
 Whatever...
-ເຖິງຢ່າງໃດກໍ່ຕາມ...
+ບໍ່ວ່າແມ່ນຫຍັງ...
 
 1024
 01:06:40,350 --> 01:06:42,350
@@ -6460,7 +6460,7 @@ Are we negotiating?
 01:06:54,350 --> 01:06:56,350
 [KEVIN]
 Always.
-ຕະຫຼອດເວລາ.
+ສະເໝີ.
 
 1029
 01:06:56,850 --> 01:06:58,850

@@ -526,7 +526,7 @@ Trust me.    You get used to it.
 00:05:44,650 --> 00:05:47,100
 [ROCKET]
 Okay, who here hasn't been to space?
-ດີແລ້ວ, ໃຜຢູ່ບ່ອນນີ້ບໍ່ເຄີຍໄປອະວະກາດ?
+ແມ່ນແລ້ວ, ແມ່ນໃຜທີ່ບໍ່ໄດ້ໄປອະວະກາດເລີຍ?
 
 85
 00:05:47,600 --> 00:05:49,600
@@ -752,7 +752,7 @@ What?  Cassie...
 00:07:58,750 --> 00:08:00,750
 [SCOTT LANG]
 Cassie!   Cassie!
-ຄາຊີ! ຄາຊິ!
+ແຄສຊີ ແຄຊຊີ!
 
 121
 00:08:01,250 --> 00:08:03,250
@@ -1260,7 +1260,7 @@ Quantum fluctuation kinda messes with the Planck Scale, which then triggers the 
 00:13:04,250 --> 00:13:06,250
 [SCOTT LANG]
 I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 202
 00:13:06,750 --> 00:13:12,700
@@ -1306,7 +1306,7 @@ We can snap our own fingers.   We can bring everybody back. 27
 00:13:35,150 --> 00:13:38,300
 [TONY]
 Or screw it up worse than he already has.
-ຫຼືເຮັດໃຫ້ມັນຮ້າຍແຮງກວ່າທີ່ລາວເຄີຍເຮັດແລ້ວ.
+ແມ້ແຕ່ຈະທໍາຄວາມຜິດຫຼາຍກວ່າທີ່ລາວໄດ້ເຮັດແລ້ວ.
 
 209
 00:13:38,800 --> 00:13:40,800
@@ -1376,13 +1376,13 @@ Please don't-
 00:14:21,500 --> 00:14:23,500
 [SCOTT LANG]
 Tony-
-ໂຕນີ...
+ທອນນີ -
 
 220
 00:14:24,000 --> 00:14:26,000
 [TONY]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 221
 00:14:26,500 --> 00:14:32,500
@@ -1459,7 +1459,7 @@ Bigger than his?
 00:15:15,850 --> 00:15:17,850
 [SCOTT LANG]
 I'm confused.
-ຂ້ອຍສັບສົນ.
+ຂ້ອຍບໍ່ເຂົ້າໃຈເລີຍ.
 
 233
 00:15:18,350 --> 00:15:20,350
@@ -1914,7 +1914,7 @@ Okay. I'm going to send you back one week, give you an hour to look around, then
 00:19:36,000 --> 00:19:38,000
 [SCOTT LANG]
 Perfectly not confusing.
-ບໍ່ສັບສົນຢ່າງສົມບູນແບບ.
+ແມ່ນແລ້ວບໍ່ສັບສົນເລີຍ.
 
 306
 00:19:38,500 --> 00:19:40,600
@@ -2193,13 +2193,13 @@ Uh huh. I liked you better either of the other ways. 41
 00:22:12,550 --> 00:22:14,550
 [SMART HULK]
 This is Rocket.
-ນີ້ແມ່ນລູກສອນໄຟ.
+ນີ້ແມ່ນ Rocket.
 
 351
 00:22:15,050 --> 00:22:17,050
 [ROCKET]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 352
 00:22:17,550 --> 00:22:19,550
@@ -2223,7 +2223,7 @@ Great, then you can hose out the gut buckets-
 00:22:27,000 --> 00:22:29,100
 [ROCKET]
 We're definitely here to see him.
-ພວກເຮົາຢູ່ບ່ອນນີ້ເພື່ອເຫັນລາວແນ່ນອນ.
+ແມ່ນແລ້ວ ພວກເຮົາແມ່ນມາທີ່ນີ້ເພື່ອເບິ່ງລາວເດີ້.
 
 356
 00:22:29,600 --> 00:22:32,050
@@ -2339,7 +2339,7 @@ Hey, buddy, are you all right?
 00:23:28,850 --> 00:23:30,850
 [THOR]
 Don't I look all right?
-ຂ້ອຍເບິ່ງບໍ່ດີບໍ?
+ຂ້ອຍບໍ່ເບິ່ງຄືວ່າບໍ່ເປັນຫຍັງບໍ່?
 
 375
 00:23:31,350 --> 00:23:33,450
@@ -2902,7 +2902,7 @@ So this `Time Stone' guy...what kind of doctor was he?
 00:29:06,050 --> 00:29:08,050
 [SMART HULK]
 Strange?
-ແປກໃຈບໍ?
+ແມ່ນບໍ່?
 
 465
 00:29:08,550 --> 00:29:10,550
@@ -2926,7 +2926,7 @@ Yeah.   Sullivan Street. 55
 00:29:16,500 --> 00:29:18,500
 [SMART HULK]
 Bleecker.
-ບລີເກີ.
+Bleecker
 
 469
 00:29:19,000 --> 00:29:21,100
@@ -3138,7 +3138,7 @@ No, no, no-
 00:31:24,650 --> 00:31:26,750
 [ANCIENT ONE]
 Now.   Let's start over, shall we?
-ດຽວນີ້. ມາເລີ່ມຕົ້ນໃຫມ່, ແມ່ນບໍ?
+ແມ່ນແລ້ວ. ພວກເຮົາຈະເລີ່ມຕົ້ນໃໝ່ບໍ່?
 
 503
 00:31:27,250 --> 00:31:29,250
@@ -3233,7 +3233,7 @@ You think you're the only one who's lost people? What do you think we're doing h
 00:32:20,900 --> 00:32:22,900
 [THOR]
 I guess not.
-ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ.
+ຂ້ອຍຄິດບໍ່.
 
 518
 00:32:23,400 --> 00:32:25,400
@@ -3294,7 +3294,7 @@ Yeah, come on, chop chop, we're on the clock, here.
 00:32:52,800 --> 00:32:54,800
 [RHODEY]
 All that?    Really helpful!
-ທັງ ຫມົດ ນັ້ນບໍ? ຊ່ວຍເຫຼືອແທ້ໆ!
+ທັງນັ້ນແມ່ນບໍ່? ຊ່ວຍຫຼາຍແທ້ໆ!
 
 528
 00:32:55,300 --> 00:33:00,200
@@ -3307,7 +3307,7 @@ Clint and Natasha board the Benatar.     Rhodey and Nebula remain on the planet'
 00:33:00,700 --> 00:33:02,700
 [NATASHA]
 Take care of yourself.
-ເບິ່ງແຍງຕົວເອງ.
+ສະຫງວນຕົວເອງເດີ້.
 
 530
 00:33:03,200 --> 00:33:08,450
@@ -3396,7 +3396,7 @@ Why?
 00:33:55,800 --> 00:33:57,800
 [GAMORA]
 He's found an Infinity Stone.
-ລາວໄດ້ພົບຫີນ Infinity.
+ລາວໄດ້ພົບກ້ອນຫີນຄວາມບໍ່ສິ້ນສຸດແລ້ວ.
 
 544
 00:33:58,300 --> 00:34:00,300
@@ -4155,7 +4155,7 @@ Freeze image.
 00:40:55,500 --> 00:40:57,500
 [GAMORA]
 Terrans?
-ຊາວດິນແດນບໍ?
+ຊາວເທຣນແມ່ນບໍ່?
 
 667
 00:40:58,000 --> 00:41:00,000
@@ -4820,7 +4820,7 @@ You trust me?
 00:47:18,050 --> 00:47:20,050
 [STEVE]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 774
 00:47:20,550 --> 00:47:22,550
@@ -4869,7 +4869,7 @@ Good luck with your project, Doctor.
 00:47:42,350 --> 00:47:44,350
 [FEMALE SHIELD AGENT]
 You new here?
-ເຈົ້າເປັນຄົນໃຫມ່ຢູ່ບ່ອນນີ້ບໍ?
+ເຈົ້າແມ່ນຄົນໃໝ່ບໍ່?
 
 782
 00:47:44,850 --> 00:47:46,850
@@ -4906,7 +4906,7 @@ Hey, I'm looking for Dr. Zola. You seen him?
 00:48:02,900 --> 00:48:05,000
 [TONY]
 No.     Haven't seen a soul. 94
-ບໍ່. ຂ້ອຍບໍ່ໄດ້ເຫັນຈິດວິນຍານໃດເລີຍ. 94
+ບໍ່. ບໍ່ເຫັນໃຜເລີຍ. 94
 
 788
 00:48:05,500 --> 00:48:07,500
@@ -4955,7 +4955,7 @@ I'm Howard Stark.  You seem a little green around the gills, Potts. Need some ai
 00:48:26,350 --> 00:48:28,350
 [TONY]
 That'd be swell.
-ມັນຈະດີເລີດ.
+ນັ້ນແມ່ນດີເດີ້.
 
 796
 00:48:28,850 --> 00:48:30,850
@@ -5299,7 +5299,7 @@ Well, good to meet you, Potts.
 00:51:50,000 --> 00:51:52,100
 [TONY]
 You're going to do fine, Howard.
-ເຈົ້າຈະເຮັດໄດ້ດີ, ໂຮວາດ.
+ເຈົ້າຈະບໍ່ເປັນຫຍັງເດີ້, ຮາວາດ.
 
 851
 00:51:52,600 --> 00:51:54,600
@@ -5403,7 +5403,7 @@ Welcome Natasha, daughter of Ivan. Clint, son of Edith.
 00:52:46,650 --> 00:52:48,650
 [NATASHA]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 868
 00:52:49,150 --> 00:52:54,050
@@ -5548,7 +5548,7 @@ Did we get them all?
 00:54:17,450 --> 00:54:19,450
 [STEVE]
 Clint?   Are you okay?
-ຄລິນຕ໌? ເຈົ້າດີບໍ?
+ຄລິນຕ໌ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 891
 00:54:19,950 --> 00:54:21,950
@@ -5761,7 +5761,7 @@ Okay, remember, everyone Thanos snapped away five years ago, you're just bringin
 00:56:28,700 --> 00:56:30,700
 [SMART HULK]
 Got it.
-ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+ແມ່ນແລ້ວ.
 
 925
 00:56:31,200 --> 00:56:35,050
@@ -5785,7 +5785,7 @@ What's happening?   Take it off, take if off!
 00:56:41,350 --> 00:56:43,350
 [STEVE]
 Bruce, you okay?
-ບຣູສ, ເຈົ້າດີບໍ?
+ບຣູສ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 929
 00:56:43,850 --> 00:56:45,850
@@ -6079,7 +6079,7 @@ I try to kill you. Several times. But, eventually...we become friends. We become
 00:59:09,300 --> 00:59:11,300
 [GAMORA]
 That's hard to believe. 119
-ມັນຍາກທີ່ຈະເຊື່ອ. 119
+ບໍ່ເຊື່ອໄດ້ເລີຍ. 119
 
 977
 00:59:11,800 --> 00:59:15,650
@@ -6341,7 +6341,7 @@ Yeah. But you're not going to like where it's parked.
 01:01:22,650 --> 01:01:24,650
 [SCOTT LANG]
 Uh, maybe ten minutes.
-ໂອ້, ບາງທີສິບນາທີ.
+ແມ່ນແລ້ວ, ບາງທີແມ່ນ 10 ນາທີ.
 
 1020
 01:01:25,150 --> 01:01:28,300
@@ -6487,7 +6487,7 @@ Friday, what are they firing at?
 01:02:37,550 --> 01:02:39,550
 [GROOT]
 I am Groot.
-ຂ້ອຍເປັນກຣູຕ໌.
+ຂ້ອຍແມ່ນ ກຣູຕ.
 
 1044
 01:02:40,050 --> 01:02:42,050
@@ -6511,7 +6511,7 @@ Danvers! We're gonna need an assist down here!
 01:02:48,350 --> 01:02:50,350
 [PETER PARKER]
 Uh, hey.    I'm Peter Parker.
-ໂອ້, ເຮ້. ຂ້ອຍເປັນເປເຕີ ປາກເກີ.
+ສະບາຍດີ. ຂ້ອຍແມ່ນ ປີເຕີ ປາເກີ.
 
 1048
 01:02:50,850 --> 01:02:54,000
@@ -6663,7 +6663,7 @@ How are you doing, squirt?     You hungry?
 01:04:24,250 --> 01:04:26,250
 [MORGAN STARK]
 Uh, huh.
-ໂອ້, ຮາ.
+ແມ່ນແລ້ວ.
 
 1072
 01:04:26,750 --> 01:04:28,750
@@ -6675,7 +6675,7 @@ What do you want?
 01:04:29,250 --> 01:04:31,250
 [MORGAN STARK]
 Cheeseburgers?
-Cheeseburgers?
+ແຊສເບີເກີບໍ່?
 
 1074
 01:04:31,750 --> 01:04:34,200
@@ -6842,7 +6842,7 @@ No one's using knives!
 01:06:04,850 --> 01:06:06,850
 [GROOT]
 I am Groot!
-ຂ້ອຍເປັນກຣູຕ໌!
+ຂ້ອຍແມ່ນ ກຣູຕ!
 
 1101
 01:06:07,350 --> 01:06:11,550
@@ -6942,7 +6942,7 @@ For him, as long as he needs. For us, five seconds.  Ready, Cap? You're good to 
 01:07:08,250 --> 01:07:10,250
 [STEVE]
 You bet.
-ເຈົ້າແນ່ໃຈວ່າ.
+ແມ່ນແລ້ວ.
 
 1117
 01:07:10,750 --> 01:07:12,850
@@ -7089,7 +7089,7 @@ Like it's someone else's.
 01:08:20,750 --> 01:08:22,750
 [OLD STEVE]
 It isn't.
-ມັນບໍ່ແມ່ນ.
+ແມ່ນບໍ່.
 
 1141
 01:08:23,250 --> 01:08:25,350

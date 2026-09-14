@@ -267,7 +267,7 @@ I'm all wet.
 00:02:59,500 --> 00:03:01,500
 [CATES]
 What's wrong with that?
-ມີຫຍັງຜິດກັບມັນ?
+ນັ້ນແມ່ນຫຍັງບໍ່ດີ?
 
 44
 00:03:02,000 --> 00:03:05,150
@@ -363,7 +363,7 @@ You oversimplify every...
 00:04:05,400 --> 00:04:07,400
 [CATES]
 Some things are simple, right?
-ບາງສິ່ງບາງຢ່າງງ່າຍດາຍ, ແມ່ນບໍ?
+ບາງຢ່າງແມ່ນງ່າຍໆແມ່ນບໍ່?
 
 59
 00:04:07,900 --> 00:04:09,900
@@ -393,7 +393,7 @@ You got somethin' for us, Henry?
 00:04:20,900 --> 00:04:22,900
 [GANZ]
 How hot are they?
-ພວກເຂົາຮ້ອນຫຼາຍປານໃດ?
+ພວກເຂົາມີຄວາມຮ້ອນບໍ່?
 
 64
 00:04:23,400 --> 00:04:25,850
@@ -1162,7 +1162,7 @@ Summer dress and undergarments scatteredon the floor. LISA, lies naked under the
 00:12:39,050 --> 00:12:41,050
 [LISA]
 Hey...
-ເຮ້...
+ສະບາຍດີ...
 
 186
 00:12:41,550 --> 00:12:43,550
@@ -1204,7 +1204,7 @@ Come on, ask.
 00:12:57,800 --> 00:12:59,800
 [LISA]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 193
 00:13:00,300 --> 00:13:04,150
@@ -1384,7 +1384,7 @@ He'll blow her goddamn head off.
 00:14:59,350 --> 00:15:01,350
 [ROSALIE]
 No. No.
-ບໍ່. ບໍ່.
+ບໍ່ ບໍ່
 
 221
 00:15:01,850 --> 00:15:07,850
@@ -1704,7 +1704,7 @@ A perfect match for the markings from the first gun he used... but not from the 
 00:18:18,350 --> 00:18:22,900
 [RUTH]
 Ya know, there are some very bad people out there in the world.
-ເຈົ້າຮູ້ແລ້ວ, ມີຄົນຮ້າຍຫຼາຍຄົນຢູ່ບ່ອນນັ້ນໃນໂລກ.
+ເຈົ້າຮູ້ບໍ່, ມີຄົນບໍ່ດີຫຼາຍໃນໂລກນີ້.
 
 272
 00:18:23,400 --> 00:18:29,350
@@ -1991,7 +1991,7 @@ Yeah, Guess it must have been a slow news day...
 00:21:31,350 --> 00:21:33,350
 [ELAINE]
 Jack, are you okay?
-ແຈກ, ເຈົ້າດີບໍ?
+ແຈກ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 318
 00:21:33,850 --> 00:21:39,850
@@ -2197,7 +2197,7 @@ I can see a second-rater like you wouldn't be any help at all goin' up against a
 00:23:54,850 --> 00:23:56,850
 [HAMMOND]
 Ganz?
-ແກນສ໌?
+ແວນສ໌ແມ່ນບໍ່?
 
 350
 00:23:57,350 --> 00:24:01,550
@@ -2283,7 +2283,7 @@ It's the only way you're gonna get Ganz.
 00:24:47,900 --> 00:24:49,900
 [CATES]
 I'll think about it.
-ຂ້ອຍຈະຄິດກ່ຽວກັບມັນ.
+ຂ້ອຍຈະຄິດດີເດີ້.
 
 364
 00:24:50,400 --> 00:24:56,350
@@ -2364,7 +2364,7 @@ Gotta sign for him.
 00:25:33,350 --> 00:25:35,350
 [CATES]
 Sure thing...
-ແນ່ນອນ...
+ແມ່ນແລ້ວ...
 
 377
 00:25:35,850 --> 00:25:37,950
@@ -2395,7 +2395,7 @@ Listen, it may be a little out of date. You know, I got a reputation for looking
 00:25:54,000 --> 00:25:56,000
 [GUARD]
 He's all yours.
-ລາວເປັນຂອງເຈົ້າທັງ ຫມົດ.
+ລາວແມ່ນຂອງເຈົ້າແລ້ວ.
 
 382
 00:25:56,500 --> 00:26:00,700
@@ -2688,7 +2688,7 @@ Meet my travel Agent.
 00:29:03,150 --> 00:29:05,150
 [LUTHER]
 A cop...
-ຕໍາຫຼວດ...
+ເຈົ້າໜ້າທີ່...
 
 428
 00:29:05,650 --> 00:29:10,200
@@ -3222,7 +3222,7 @@ I don't know what you're talking about. I just wanna see Ganz nailed.
 00:35:17,650 --> 00:35:19,650
 [CATES]
 The bet's off.
-ການພະນັນຖືກຍົກເລີກແລ້ວ.
+ການພະນັນແມ່ນໝົດແລ້ວ.
 
 512
 00:35:20,150 --> 00:35:24,350
@@ -3429,7 +3429,7 @@ You must a rolled somebody.  They don't let punks like you take jobs that pay th
 00:37:35,800 --> 00:37:38,250
 [PUNK]
 What kind of cop are you, anyway?
-ເຈົ້າເປັນຕໍາຫຼວດປະເພດໃດ, ຢ່າງໃດກໍຕາມ?
+ແມ່ນແລ້ວ ເຈົ້າແມ່ນຕໍາຫຼວດແບບໃດ?
 
 545
 00:37:38,750 --> 00:37:44,750
@@ -3513,7 +3513,7 @@ The gun you took off that redneck in there.
 00:38:40,700 --> 00:38:42,700
 [HAMMOND]
 You made that move, huh?
-ເຈົ້າໄດ້ເຄື່ອນຍ້າຍນັ້ນ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ ເຈົ້າແມ່ນເຈົ້າທີ່ເຄື່ອນໄຫວນັ້ນແມ່ນບໍ່?
 
 558
 00:38:43,200 --> 00:38:47,050
@@ -4541,7 +4541,7 @@ What you don't understand is, I don't give a damn about how this thing looks.
 00:50:14,050 --> 00:50:16,050
 [HAMMOND]
 No class...
-ບໍ່ມີຫ້ອງຮຽນ...
+ບໍ່ມີຊັ້ນຮຽນເລີຍ...
 
 720
 00:50:16,550 --> 00:50:22,550
@@ -4867,7 +4867,7 @@ Naw, right here's okay.
 00:53:23,250 --> 00:53:25,250
 [SOSNA]
 You sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 772
 00:53:25,750 --> 00:53:28,900
@@ -4976,7 +4976,7 @@ Vodka. With a twist. And I want to run a tab.
 00:54:22,150 --> 00:54:24,150
 [HAMMOND]
 My name's Reggie Hammond.
-ຂ້ອຍຊື່ວ່າ ຣີຈີ ຮາມມອນດ໌.
+ຂ້ອຍແມ່ນ ຣີຈີ ແຮມມອນດ໌.
 
 790
 00:54:24,650 --> 00:54:26,650
@@ -5284,7 +5284,7 @@ Hammond now in the middle of the floor dancing his ass off with a girl named CAN
 00:57:13,950 --> 00:57:15,950
 [HAMMOND]
 My name's Reggie Hammond.
-ຂ້ອຍຊື່ວ່າ ຣີຈີ ຮາມມອນດ໌.
+ຂ້ອຍແມ່ນ ຣີຈີ ແຮມມອນດ໌.
 
 840
 00:57:16,450 --> 00:57:18,450
@@ -5692,7 +5692,7 @@ Ganz is satisfied. Luther closes the case.
 01:01:19,150 --> 01:01:21,150
 [LUTHER]
 Rosalie, you okay?
-ໂຣຊາລີ, ເຈົ້າດີບໍ?
+ໂຣຊາລີ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 905
 01:01:21,650 --> 01:01:25,500
@@ -5897,7 +5897,7 @@ It's late, they're closing...
 01:03:37,500 --> 01:03:39,500
 [CATES]
 Don't worry about it.
-ຢ່າກັງວົນກ່ຽວກັບມັນ.
+ບໍ່ຕ້ອງກັງວົນເລີຍ.
 
 937
 01:03:40,000 --> 01:03:42,000
@@ -5941,7 +5941,7 @@ We and my pal here have been taking it on the chin for the last few hours...
 01:04:04,150 --> 01:04:06,150
 [ELAINE]
 Who the hell are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 944
 01:04:06,650 --> 01:04:12,650
@@ -6341,7 +6341,7 @@ You're gonna help us take him.
 01:08:22,700 --> 01:08:24,700
 [CASEY]
 No chance.
-ບໍ່ມີໂອກາດເລີຍ.
+ບໍ່ເປັນໄປເລີຍ.
 
 1007
 01:08:25,200 --> 01:08:31,200
@@ -6520,7 +6520,7 @@ Okay, cop ... give me your gun and I'll let him live. Come on, Cates, you're rea
 01:10:27,250 --> 01:10:29,250
 [CATES]
 Sure...
-ແນ່ນອນ...
+ແມ່ນແລ້ວ...
 
 1035
 01:10:29,750 --> 01:10:33,950
@@ -6735,7 +6735,7 @@ Wait a minute, Cates.  I've been waitin' three years for that.  I don't think it
 01:12:52,900 --> 01:12:54,900
 [CATES]
 There's nothin' to talk about.
-ບໍ່ມີຫຍັງທີ່ຈະເວົ້າກ່ຽວກັບ.
+ບໍ່ມີຫຍັງຕ້ອງເວົ້າເລີຍ.
 
 1069
 01:12:55,400 --> 01:12:59,950

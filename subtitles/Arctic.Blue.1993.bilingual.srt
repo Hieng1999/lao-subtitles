@@ -74,13 +74,13 @@ Where the fuck did you drop Corbett off?
 00:00:48,750 --> 00:00:50,750
 [MITCHELL]
 He's over there.
-ລາວຢູ່ບ່ອນນັ້ນ.
+ລາວແມ່ນຢູ່ຂ້າງນັ້ນ.
 
 14
 00:00:51,250 --> 00:00:53,250
 [ERIC]
 Stay here.
-ຢູ່ບ່ອນນີ້.
+ຢູ່ທີ່ນີ້ເດີ້.
 
 15
 00:00:53,750 --> 00:00:56,200
@@ -715,7 +715,7 @@ No big deal.  We just got off on the wrong foot.  What's your name?
 00:07:50,250 --> 00:07:52,250
 [ERIC]
 Desmond.
-ເດສມອນດ໌.
+ເດສແມນດ໌
 
 116
 00:07:52,750 --> 00:07:54,750
@@ -778,7 +778,7 @@ Christ if I shouldn't know better than to step in soft earth.  I've seen footpri
 00:08:29,250 --> 00:08:31,350
 [WILDER]
 I got it from here.  Thanks.
-ຂ້ອຍເອົາມັນຈາກບ່ອນນີ້. ຂອບໃຈ.
+ຂ້ອຍຈະຮັບໄດ້ແລ້ວ. ຂອບໃຈເດີ.
 
 126
 00:08:31,850 --> 00:08:36,050
@@ -905,7 +905,7 @@ Mr. Desmond!  Arthur Neff.  Area rep for the Federal Assistance Plan.  Tell the 
 00:09:57,700 --> 00:09:59,700
 [ERIC]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 146
 00:10:00,200 --> 00:10:05,800
@@ -1001,7 +1001,7 @@ Look, why get into this again. As long as it's working, let's leave it alone.  I
 00:11:00,750 --> 00:11:02,750
 [ERIC]
 -- Permanently?
-- ຕະຫຼອດໄປ?
+- ສະເໝີບໍ່?
 
 161
 00:11:03,250 --> 00:11:09,250
@@ -1725,7 +1725,7 @@ Look, take these cuffs off.  We need to work together.
 00:18:37,800 --> 00:18:39,800
 [ERIC]
 Forget it.
-ລືມມັນໄປ.
+ລືມເລີຍ.
 
 276
 00:18:40,300 --> 00:18:46,300
@@ -2343,7 +2343,7 @@ You don't feel cold?
 00:25:25,800 --> 00:25:27,800
 [CORBETT]
 It's a spring day...
-ມັນເປັນມື້ພາກຮຽນ spring...
+ແມ່ນມື້ລະດູໃບໄມ້ລົ່ນແລ້ວ...
 
 374
 00:25:28,300 --> 00:25:34,300
@@ -2829,7 +2829,7 @@ Corbett coming here stinks of trouble.  We should make the best of it before it 
 00:30:52,750 --> 00:30:54,750
 [NEFF]
 Stay out of it.
-ຢູ່ຫ່າງຈາກມັນ.
+ສະບາຍດີ ຢ່າມີສ່ວນຮ່ວມເລີຍ.
 
 451
 00:30:55,250 --> 00:30:57,700
@@ -2976,7 +2976,7 @@ I'm standin' guard duty. Besides, rather spend the room money on sloppy seconds.
 00:32:33,950 --> 00:32:35,950
 [WHORE]
 Hey, Tiger --
-ເຮ້, ໄຕເກີ...
+ສະບາຍດີ ໄຕເກີ -
 
 474
 00:32:36,450 --> 00:32:38,550
@@ -3392,7 +3392,7 @@ Say you're okay.  Tell them I'll kill you if they rush us.
 00:37:01,700 --> 00:37:03,700
 [CORBETT]
 Bob?
-ໂບບ?
+ໂບບແມ່ນບໍ່?
 
 540
 00:37:04,200 --> 00:37:08,750
@@ -3416,7 +3416,7 @@ I'm fine.  Look forward to seeing you...
 00:37:14,700 --> 00:37:16,700
 [VIKING BOB]
 Count on it.
-ເຊື່ອມັນໄວ້.
+ເຊື່ອໄດ້ເດີ້.
 
 544
 00:37:17,200 --> 00:37:23,200

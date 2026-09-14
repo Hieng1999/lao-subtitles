@@ -121,7 +121,7 @@ Once I asked my Father where he wanted to go.  And he replied:  "I want to trave
 00:01:41,250 --> 00:01:43,250
 [COLUMBUS]
 Fernando!
-ຟາຣນານໂດ!
+ແຟຣນັນໂດ!
 
 20
 00:01:43,750 --> 00:01:45,750
@@ -358,13 +358,13 @@ Look, Father!
 00:03:57,700 --> 00:03:59,700
 [COLUMBUS]
 Fernando!
-ຟາຣນານໂດ!
+ແຟຣນັນໂດ!
 
 58
 00:04:00,200 --> 00:04:02,200
 [COLUMBUS]
 Fernando!
-ຟາຣນານໂດ!
+ແຟຣນັນໂດ!
 
 59
 00:04:02,700 --> 00:04:04,700
@@ -425,7 +425,7 @@ Perhaps I was never meant to live with a woman...
 00:04:34,200 --> 00:04:36,300
 [BEATRIX]
 I find that hard to believe.
-ຂ້ອຍເຫັນວ່າມັນຍາກທີ່ຈະເຊື່ອ.
+ຂ້ອຍບໍ່ເຊື່ອໄດ້ເລີຍ.
 
 69
 00:04:36,800 --> 00:04:41,700
@@ -834,7 +834,7 @@ Nothing.  That's the point, Fernando.
 00:09:19,250 --> 00:09:21,250
 [PINZON]
 Senor Colon?
-ທ່ານ ຄໍລອນ?
+ສະບາຍດີ ຄໍລອນບໍ່?
 
 133
 00:09:21,750 --> 00:09:27,750
@@ -956,7 +956,7 @@ Your Excellency... truly grateful... your help... as ever...
 00:10:40,600 --> 00:10:42,600
 [ISABEL]
 Rise...!  Come forward!
-ຂຶ້ນ...! ມາຂ້າງຫນ້າ!
+ສະເດັດຂຶ້ນເດີ້... ມາຂ້າງໜ້າເດີ້!
 
 152
 00:10:43,100 --> 00:10:49,100
@@ -2077,7 +2077,7 @@ Tell the Chief we thank him.
 00:21:39,200 --> 00:21:41,200
 [UTAPAN]
 Chief knows.
-ຫົວຫນ້າຮູ້.
+ຫົວໜ້າຮູ້ແລ້ວ.
 
 332
 00:21:41,700 --> 00:21:47,700
@@ -2170,7 +2170,7 @@ March 1493... Thirty nine of my men volunteered to stay behind.  God willing we 
 00:22:32,800 --> 00:22:34,900
 [COLUMBUS]
 Get below!  All of you!  Go!
-ໄປລຸ່ມ! ທຸກຄົນ! ໄປ!
+ໄປຂ້າງລຸ່ມເດີ້! ທຸກທ່ານເດີ! ໄປ!
 
 347
 00:22:35,400 --> 00:22:37,400
@@ -2945,7 +2945,7 @@ You'll be held in detention, deprived of your privileges and possessions.  Until
 00:30:21,600 --> 00:30:23,600
 [MOXICA]
 You will regret this.
-ເຈົ້າຈະເສຍໃຈເລື່ອງນີ້.
+ເຈົ້າຈະຕ້ອງເສຍໃຈຫຼາຍ.
 
 471
 00:30:24,100 --> 00:30:26,100
@@ -2993,7 +2993,7 @@ Do you know them?
 00:30:44,100 --> 00:30:46,100
 [COLUMBUS]
 Stop!  Stop this!
-ຢຸດ! ຢຸດສິ່ງນີ້!
+ຢຸດເຊົາ! ຢຸດນີ້ເດີ້!
 
 479
 00:30:46,600 --> 00:30:48,600
@@ -3059,7 +3059,7 @@ Perhaps hope only exists in the journey.  When it begins, everything is still po
 00:31:31,600 --> 00:31:34,750
 [COLUMBUS]
 This is not how I imagined it to be.
-ນີ້ແມ່ນບໍ່ແມ່ນວິທີທີ່ຂ້ອຍຄິດວ່າມັນຈະເປັນ.
+ບໍ່ຄືທີ່ຂ້ອຍຄິດໄວ້ເລີຍ.
 
 489
 00:31:35,250 --> 00:31:37,250
@@ -3253,7 +3253,7 @@ Good!  I have to go back!
 00:33:27,400 --> 00:33:29,400
 [DIEGO]
 Go back?
-ກັບໄປບໍ?
+ກັບຄືນໄປບ່ອນບໍ່?
 
 520
 00:33:29,900 --> 00:33:32,000
@@ -3339,7 +3339,7 @@ Is he?
 00:34:16,050 --> 00:34:18,050
 [ISABEL]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 534
 00:34:18,550 --> 00:34:20,550
@@ -3549,7 +3549,7 @@ How are you feeling, Fernando?
 00:36:30,000 --> 00:36:32,000
 [FERNANDO]
 Not bad.
-ບໍ່ຮ້າຍແຮງ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 567
 00:36:32,500 --> 00:36:35,300
@@ -3843,13 +3843,13 @@ I knew you would.
 00:39:27,000 --> 00:39:29,000
 [COLUMBUS]
 New worlds create new people.
-ໂລກໃຫມ່ສ້າງຄົນໃຫມ່.
+ໂລກໃໝ່ສ້າງໃຫ້ມີຄົນໃໝ່.
 
 614
 00:39:29,500 --> 00:39:31,950
 [MARCHENA]
 Oh?  So you are a new man?
-ໂອ້? ສະນັ້ນເຈົ້າເປັນຜູ້ຊາຍໃຫມ່ບໍ?
+ແມ່ນແລ້ວ? ເຈົ້າແມ່ນຜູ້ຊາຍໃໝ່ບໍ່?
 
 615
 00:39:32,450 --> 00:39:38,450
@@ -3862,7 +3862,7 @@ I don't know... I have the impression that I didn't change that much.  I still c
 00:39:38,950 --> 00:39:41,400
 [MARCHENA]
 God bless you, and those like you!
-ພຣະເຈົ້າໃຫ້ພອນເຈົ້າ, ແລະຜູ້ທີ່ຄືກັບເຈົ້າ!
+ສະຫວັນນະເຂດ ຈົ່ງພອນເຈົ້າແລະຄົນທີ່ຄ້າຍຄືເຈົ້າເດີ!
 
 617
 00:39:41,900 --> 00:39:44,350

@@ -522,7 +522,7 @@ No...If they're after us, I want the first shot.  Come on, you got some work to 
 00:05:07,750 --> 00:05:09,750
 [BONNIE]
 You're good.
-ເຈົ້າດີ.
+ເຈົ້າບໍ່ເປັນຫຍັງເລີຍ.
 
 86
 00:05:10,250 --> 00:05:12,250
@@ -651,7 +651,7 @@ You just stay in the car and watch and be ready.  Okay now?  You just be ready i
 00:06:19,350 --> 00:06:21,350
 [CLYDE]
 Scared?
-ຢ້ານກົວບໍ?
+? ຢ້ານບໍ່?
 
 107
 00:06:21,850 --> 00:06:23,850
@@ -688,7 +688,7 @@ This is a stickup.  Just take it easy and nothin' will happen to you. Gimme the 
 00:06:38,300 --> 00:06:40,300
 [TELLER]
 Heighdy.
-ສູງຂຶ້ນ.
+ສະບາຍດີ.
 
 113
 00:06:40,800 --> 00:06:42,800
@@ -811,7 +811,7 @@ Well...I'm not sure...  Say, them little red things there stickin' up?  Are they
 00:07:51,900 --> 00:07:53,900
 [C.W.]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 133
 00:07:54,400 --> 00:07:59,300
@@ -881,7 +881,7 @@ You ain't scared, are you?  I believe he is.  What a pity.  We sure coulda used 
 00:08:36,300 --> 00:08:38,300
 [C.W.]
 I guess so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 144
 00:08:38,800 --> 00:08:41,950
@@ -899,7 +899,7 @@ What's your name, boy?
 00:08:44,950 --> 00:08:46,950
 [C.W.]
 C.W. Moss.
-C.W. ໂມສ.
+CW ໂມສ.
 
 147
 00:08:47,450 --> 00:08:49,450
@@ -1054,7 +1054,7 @@ Now C.W.'ll be waitin' right outside in the car.  Here is the teller's cage.  Fo
 00:10:10,600 --> 00:10:12,600
 [BONNIE]
 Why, Clyde...
-ເປັນຫຍັງ, ຄລໄດ...
+ສະບາຍດີ ແຄລໄດ...
 
 172
 00:10:13,100 --> 00:10:15,100
@@ -1122,7 +1122,7 @@ So what?  We take U.S. 85 to Willis Point, don't you know, and cut over on State
 00:10:50,500 --> 00:10:52,500
 [CLYDE]
 Keep it running.
-ໃຫ້ມັນແລ່ນຕໍ່ໄປ.
+ສືບຕໍ່ໃຊ້ງານຕໍ່ໄປເດີ.
 
 183
 00:10:53,000 --> 00:10:55,000
@@ -1362,7 +1362,7 @@ I just ain't gonna work in your Daddy's church--That's final.  "What a beautiful
 00:13:24,450 --> 00:13:26,450
 [CLYDE]
 Buck!
-ບັກ!
+ແບກ!
 
 221
 00:13:26,950 --> 00:13:29,050
@@ -1443,7 +1443,7 @@ Everybody, this is C.W. Moss. C.W., my brother Buck and his wife, Blanche.
 00:14:14,650 --> 00:14:16,650
 [C.W.]
 Heighdy, y'all.
-ສູງຂຶ້ນ, ທຸກຄົນ.
+ສະບາຍດີ ທຸກຄນເດີ.
 
 234
 00:14:17,150 --> 00:14:23,150
@@ -1524,7 +1524,7 @@ Okay.
 00:15:02,900 --> 00:15:06,400
 [BUCK]
 Hey, brother, let's you and me do a little talkin'.
-ເຮ້, ອ້າຍ, ໃຫ້ເຈົ້າແລະຂ້ອຍເວົ້າເລັກນ້ອຍ.
+ສະບາຍດີ ອ້າຍ, ມາພວກເຮົາສອງຄົນເວົ້າກັນເລັກນ້ອຍກັນເດີ້.
 
 247
 00:15:06,900 --> 00:15:09,000
@@ -1597,7 +1597,7 @@ I won't say nothin' to Bonnie about it.
 00:15:44,200 --> 00:15:46,200
 [BUCK]
 I appreciate it.
-ຂ້ອຍຍ້ອງຍໍມັນ.
+ຂ້ອຍຂໍຂອບໃຈເດີ.
 
 259
 00:15:46,700 --> 00:15:48,800
@@ -1760,7 +1760,7 @@ My, you need a haircut, Daddy.  You look like a hillbilly boy.
 00:17:29,550 --> 00:17:31,550
 [BUCK]
 Gotcha!
-ເຈົ້າໄດ້ແລ້ວ!
+ແມ່ນແລ້ວ!
 
 285
 00:17:32,050 --> 00:17:34,050
@@ -1853,7 +1853,7 @@ Quiet!  I'll get it.
 00:18:32,450 --> 00:18:34,450
 [BONNIE]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 300
 00:18:34,950 --> 00:18:36,950
@@ -1921,7 +1921,7 @@ You write that all by yourself?
 00:19:06,600 --> 00:19:09,050
 [BONNIE]
 You want to hear this or not?
-ເຈົ້າຢາກຟັງເລື່ອງນີ້ຫຼືບໍ່?
+ເຈົ້າຢາກໄດ້ຍິນບໍ່?
 
 311
 00:19:09,550 --> 00:19:15,550
@@ -2053,7 +2053,7 @@ Get rid of both of them then.
 00:20:34,150 --> 00:20:36,600
 [CLYDE]
 Why?  What's the matter with you anyway?
-ເປັນຫຍັງ? ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າຢ່າງໃດກໍຕາມ?
+ເປັນຫຍັງ? ເຈົ້າມີຫຍັງບໍ່ດີບໍ່?
 
 332
 00:20:37,100 --> 00:20:43,100
@@ -2178,7 +2178,7 @@ Well, now, getta load of this.  I want y'all to know we are in the custody of Ca
 00:22:06,900 --> 00:22:08,900
 [C.W.]
 Sure 'nough, Clyde?
-ແນ່ນອນວ່າພໍແລ້ວ, ຄລໄດ?
+ແມ່ນແລ້ວບໍ່ ແຄລໄດ?
 
 351
 00:22:09,400 --> 00:22:15,400
@@ -2374,7 +2374,7 @@ This is the Barrow gang.  Everybody just take it easy and nobody will get hurt.
 00:24:10,800 --> 00:24:12,800
 [BUCK]
 Don't do nothin' silly now.
-ຢ່າເຮັດຫຍັງໂງ່ໆດຽວນີ້.
+ຢ່າທໍາຫຍັງໂງ່ໆເດີ້.
 
 382
 00:24:13,300 --> 00:24:15,400
@@ -2509,7 +2509,7 @@ Hell.  That ain't much, is it?
 00:25:25,800 --> 00:25:27,800
 [BUCK]
 Times is hard,
-ເວລາຍາກ,
+ເວລາແມ່ນຫຍຸ້ງຍາກ,
 
 404
 00:25:28,300 --> 00:25:30,300
@@ -3162,7 +3162,7 @@ What's bothering her?
 00:32:02,450 --> 00:32:04,450
 [CLYDE]
 Not now, Blanche.
-ບໍ່ໃນເວລານີ້, ບລານເຊ.
+ບໍ່ຕອນນີ້ ແບລນເຊ.
 
 508
 00:32:04,950 --> 00:32:06,950
@@ -3291,7 +3291,7 @@ Why I love you, sugar.
 00:33:14,000 --> 00:33:16,000
 [CLYDE]
 --wherever.
-- ທຸກບ່ອນ.
+- ບໍ່ວ່າແມ່ນຫຍັງ.
 
 529
 00:33:16,500 --> 00:33:18,950
@@ -3371,7 +3371,7 @@ Ready?
 00:33:58,500 --> 00:34:00,500
 [CLYDE'S VOICE]
 Aw Bonnie--
-ໂອ້ ໂບນນີ...
+ສະບາຍດີ ບອນນີ...
 
 542
 00:34:01,000 --> 00:34:03,000
@@ -3678,7 +3678,7 @@ Who are you, boy?
 00:36:35,350 --> 00:36:37,350
 [C.W.]
 Name's Moss.
-ຊື່ວ່າ ໂມສສ໌.
+ຊື່ແມ່ນ ໂມສ.
 
 592
 00:36:37,850 --> 00:36:39,950
@@ -3720,7 +3720,7 @@ Who's there?  Who is it?
 00:36:53,750 --> 00:36:55,750
 [C.W.]
 It's C.W.  It's Clarence.
-ມັນເປັນຊີວ໌. ມັນແມ່ນຄລເລນສ໌.
+ແມ່ນ C.W. ແມ່ນຄລາເຣນສ໌.
 
 599
 00:36:56,250 --> 00:36:58,250
@@ -3992,7 +3992,7 @@ Blanche Barrow.
 00:39:54,200 --> 00:39:56,200
 [BLANCHE]
 What?  What?  Who is it?
-ຫຍັງ? ຫຍັງ? ໃຜມັນ?
+ແມ່ນແລ້ວ? ແມ່ນແລ້ວ. ແມ່ນໃຜ?
 
 641
 00:39:56,700 --> 00:39:58,700
@@ -4065,7 +4065,7 @@ CW CW ໃຜ?
 00:40:28,750 --> 00:40:30,750
 [BLANCHE]
 C.W. Moss.
-C.W. ໂມສ.
+CW ໂມສ.
 
 653
 00:40:31,250 --> 00:40:33,250
@@ -4233,7 +4233,7 @@ Hey, listen, Bonnie, how do you feel?
 00:42:07,900 --> 00:42:09,900
 [BONNIE]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 680
 00:42:10,400 --> 00:42:14,600
@@ -4463,7 +4463,7 @@ Boy, my feet are sweatin'.
 00:44:45,000 --> 00:44:47,800
 [BONNIE]
 You plannin' to drive with your shoes off?
-ເຈົ້າວາງແຜນທີ່ຈະຂັບລົດດ້ວຍເກີບຂອງທ່ານອອກບໍ?
+ເຈົ້າມີແຜນຈະຂັບລົດໂດຍບໍ່ມີເກີບຢູ່ບໍ່?
 
 716
 00:44:48,300 --> 00:44:50,300

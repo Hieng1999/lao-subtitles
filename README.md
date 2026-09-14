@@ -105,7 +105,7 @@ All translations are generated using Meta AI's **NLLB-200 (1.3B)** distilled arc
 | **Airplane** | **1980** | Romance | 627 | **88.4** | **65.5** | [🇱🇦 Lao](subtitles/Airplane.1980.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Airplane.1980.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Airplane 2: The Sequel** | **1982** | Sci-Fi | 937 | **87.9** | **64.6** | [🇱🇦 Lao](subtitles/Airplane.2.The.Sequel.1982.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Airplane.2.The.Sequel.1982.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Ali** | **2001** | Drama | 995 | **88.8** | **65.2** | [🇱🇦 Lao](subtitles/Ali.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Ali.2001.bilingual.srt) | ✓ LoRA 1.3B Champion |
-| **Alien** | **1979** | Thriller | 883 | **88.4** | **64.5** | [🇱🇦 Lao](subtitles/Alien.1979.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.1979.bilingual.srt) | ✓ LoRA 1.3B Champion |
+| **Alien** | **1979** | Feature Film | 883 | **88.7** | **64.7** | [🇱🇦 Lao](subtitles/Alien.1979.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.1979.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Alien 3** | **1992** | Thriller | 689 | **88.0** | **64.6** | [🇱🇦 Lao](subtitles/Alien.3.1992.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.3.1992.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Alien Nation** | **1988** | Sci-Fi | 544 | **87.7** | **64.5** | [🇱🇦 Lao](subtitles/Alien.Nation.1988.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Nation.1988.bilingual.srt) | ✓ LoRA 1.3B Champion |
 | **Aliens** | **1986** | Thriller | 724 | **87.8** | **64.4** | [🇱🇦 Lao](subtitles/Aliens.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Aliens.1986.bilingual.srt) | ✓ LoRA 1.3B Champion |

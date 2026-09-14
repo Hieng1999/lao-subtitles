@@ -426,7 +426,7 @@ And he might blame you for terrifying him.  That one moment could erase all you'
 00:03:57,450 --> 00:03:59,450
 [CATHERINE]
 Okay, okay...
-ດີ, ດີ...
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ...
 
 71
 00:03:59,950 --> 00:04:05,900
@@ -725,7 +725,7 @@ Complete absence of melanin.
 00:06:54,800 --> 00:06:56,800
 [RAMSEY]
 And that means?
-ແລະມັນຫມາຍຄວາມວ່າແນວໃດ?
+ນັ້ນແມ່ນຫຍັງ?
 
 119
 00:06:57,300 --> 00:07:00,800
@@ -1023,7 +1023,7 @@ Stargher?
 00:09:50,150 --> 00:09:52,150
 [ERICSON]
 Can't see his face.
-ຂ້ອຍບໍ່ສາມາດເຫັນໃບຫນ້າຂອງລາວໄດ້.
+ບໍ່ເຫັນໜ້າລາວໄດ້.
 
 167
 00:09:52,650 --> 00:09:54,650
@@ -1084,13 +1084,13 @@ She's not here.
 00:10:20,300 --> 00:10:22,300
 [RAMSEY]
 You should come downstairs.
-ເຈົ້າຄວນລົງລົງ.
+ເຈົ້າຕ້ອງລົງມາຂ້າງລຸ່ມເດີ້.
 
 177
 00:10:22,800 --> 00:10:24,800
 [JULIA]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 178
 00:10:25,300 --> 00:10:31,300
@@ -1109,7 +1109,7 @@ What the hell does that mean?
 00:10:34,400 --> 00:10:36,400
 [TEDDY LEE]
 He's schizophrenic.
-ລາວເປັນຄົນສະຊິໂຊຟຣີນິກ.
+ລາວແມ່ນຄົນສະໄຊິໂຟເຣນິກ.
 
 181
 00:10:36,900 --> 00:10:41,100
@@ -1635,7 +1635,7 @@ This isn't your responsibility. Remember that.  Don't let them use guilt as a to
 00:16:16,300 --> 00:16:18,300
 [CATHERINE]
 I'll be fine.
-ຂ້ອຍຈະດີດີ.
+ຂ້ອຍບໍ່ເປັນຫຍັງເລີຍ.
 
 263
 00:16:18,800 --> 00:16:20,800
@@ -1698,7 +1698,7 @@ Catherine?  I'm about to start.  If you want me to wait, or...
 00:16:56,750 --> 00:16:58,750
 [CATHERINE]
 No.  No.
-ບໍ່. ບໍ່.
+ບໍ່ ບໍ່
 
 273
 00:16:59,250 --> 00:17:01,350
@@ -2073,7 +2073,7 @@ You were right.  There's a part of him that knows the truth.  About what he did,
 00:20:36,450 --> 00:20:38,450
 [NOVAK]
 What about Julia?
-ຈູເລຍແນວໃດ?
+ຈູເລຍແມ່ນບໍ່?
 
 333
 00:20:38,950 --> 00:20:44,950
@@ -2306,7 +2306,7 @@ Remember, Julia Hickson is priority number one.  Nothing else matters.  Find out
 00:22:56,600 --> 00:22:58,600
 [CATHERINE]
 Okay, okay...
-ດີ, ດີ...
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ...
 
 370
 00:22:59,100 --> 00:23:01,100
@@ -2318,7 +2318,7 @@ Uh-oh...
 00:23:01,600 --> 00:23:03,600
 [CATHERINE]
 Don't kid around, Henry...
-ຢ່າຫຼິ້ນຢູ່ທົ່ວໄປ, ເຮນຣີ...
+ຢ່າມ່ວນໆເດີ້ ແຮນຣີ...
 
 372
 00:23:04,100 --> 00:23:10,100
@@ -2704,7 +2704,7 @@ Nervous?
 00:26:25,000 --> 00:26:27,000
 [NOVAK]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 435
 00:26:27,500 --> 00:26:32,050
@@ -2759,7 +2759,7 @@ I am.  I'm a pretty boring guy.
 00:26:52,700 --> 00:26:54,700
 [MIRIAM]
 I doubt that.
-ຂ້ອຍສົງໄສວ່າ.
+ຂ້ອຍບໍ່ແນ່ໃຈເລີຍ.
 
 444
 00:26:55,200 --> 00:26:57,200
@@ -2822,7 +2822,7 @@ Me god me boy.  Me god good son.
 00:27:33,800 --> 00:27:35,800
 [NOVAK]
 Not real...
-ບໍ່ເປັນຈິງ...
+ບໍ່ແມ່ນແທ້ໆ...
 
 454
 00:27:36,300 --> 00:27:38,300
@@ -2936,7 +2936,7 @@ He brought you to me, didn't he?  If you want Julia to live, trust me.  Trust hi
 00:28:40,850 --> 00:28:42,850
 [CATHERINE]
 Carl...
-ຄາລ...
+ແຄລ...
 
 472
 00:28:43,350 --> 00:28:45,350
@@ -3463,7 +3463,7 @@ I'll tell you what's enough...
 00:33:21,100 --> 00:33:23,100
 [CATHERINE]
 Carl!
-ຄາລ!
+ແຄລ!
 
 558
 00:33:23,600 --> 00:33:26,050
@@ -3499,7 +3499,7 @@ Time to go 'way.
 00:33:37,700 --> 00:33:39,700
 [CATHERINE]
 Carl...?
-ຄາລ...?
+ແຄລ?
 
 564
 00:33:40,200 --> 00:33:42,200
@@ -3541,7 +3541,7 @@ Agent Novak?  Go ahead.
 00:33:57,400 --> 00:33:59,400
 [NOVAK]
 Cole?
-ໂກລ?
+ຄໍລ?
 
 571
 00:33:59,900 --> 00:34:05,900
@@ -3567,7 +3567,7 @@ Lattimer sold the hoist to a guy named Bainbridge who tired to build a machine w
 00:34:15,500 --> 00:34:17,500
 [NOVAK]
 Delano?
-ເດລານໍ?
+ເດລາໂນແມ່ນບໍ່?
 
 575
 00:34:18,000 --> 00:34:21,850
@@ -3689,7 +3689,7 @@ Federal Bureau of Investigation, ma'am. We know all, see all...
 00:35:18,700 --> 00:35:20,700
 [NOVAK]
 How's the patient.
-ຄົນເຈັບເປັນແນວໃດ.
+ຄົນເຈັບສະບາຍດີບໍ່?
 
 595
 00:35:21,200 --> 00:35:23,200

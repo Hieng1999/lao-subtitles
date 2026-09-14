@@ -489,7 +489,7 @@ Oh yeah? What happened to her?
 00:06:16,750 --> 00:06:18,750
 [DWAYNE]
 She passed on.
-ນາງຕາຍແລ້ວ.
+ນາງໄດ້ຜ່ານໄປແລ້ວ.
 
 76
 00:06:19,250 --> 00:06:24,500
@@ -563,7 +563,7 @@ Practice makes perfect. Juicy pantomimes a long, slow chicken head. Dwayne is bl
 00:07:15,150 --> 00:07:19,000
 [JUICY]
 Let me ask you a question...do you really hate your daddy?
-ຂໍໃຫ້ຂ້ອຍຖາມເຈົ້າ... ເຈົ້າກຽດຊັງພໍ່ຂອງເຈົ້າແທ້ບໍ?
+ຂໍຖາມເຈົ້າເດີ້... ເຈົ້າກຽດແຄ້ນພໍ່ບໍ່ແທ້ໆບໍ່?
 
 87
 00:07:19,500 --> 00:07:21,500
@@ -2140,7 +2140,7 @@ Given the situation, I think you should obey all traffic safety laws.
 00:25:23,050 --> 00:25:25,050
 [WILL]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 333
 00:25:25,550 --> 00:25:27,650
@@ -2331,7 +2331,7 @@ I haven't been inside a bank in three years! How the fuck am I supposed to rob o
 00:27:27,200 --> 00:27:29,200
 [CHET]
 It's gonna be okay.
-ມັນຈະດີດີ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 363
 00:27:29,700 --> 00:27:35,700
@@ -2998,7 +2998,7 @@ Now listen, I don't want you to report this car stolen or anything until later t
 00:34:52,800 --> 00:34:54,800
 [MR. FISHER]
 Sure. Anything you say.
-ແນ່ນອນ. ທຸກຢ່າງທີ່ທ່ານເວົ້າ.
+ແມ່ນແລ້ວ. ເຈົ້າເວົ້າຫຍັງກໍຕາມ.
 
 468
 00:34:55,300 --> 00:35:01,300
@@ -3229,7 +3229,7 @@ Please. Just do it. 58.
 00:37:35,250 --> 00:37:37,250
 [KATE]
 Will?
-ວິນລ໌?
+ວີລ?
 
 504
 00:37:37,750 --> 00:37:39,750
@@ -3247,7 +3247,7 @@ What are you doing?
 00:37:42,750 --> 00:37:44,750
 [WILL]
 Just don't come any closer.
-ພຽງແຕ່ຢ່າເຂົ້າໃກ້ອີກຕໍ່ໄປ.
+ພຽງແຕ່ຢ່າມາໃກ້ໆເລີຍ.
 
 507
 00:37:45,250 --> 00:37:47,250
@@ -3401,7 +3401,7 @@ I'm sorry, I don't know who that is.
 00:39:42,300 --> 00:39:44,300
 [DWAYNE]
 So?
-ສະນັ້ນ?
+ແມ່ນແລ້ວບໍ່?
 
 530
 00:39:44,800 --> 00:39:47,250
@@ -3687,7 +3687,7 @@ Why is no one getting me help!?
 00:42:36,200 --> 00:42:38,200
 [WILL]
 Is anyone here a doctor?
-ມີໃຜຢູ່ບ່ອນນີ້ເປັນຫມໍບໍ?
+ມີໃຜທີ່ນີ່ແມ່ນໝໍບໍ່?
 
 576
 00:42:38,700 --> 00:42:41,150
@@ -4047,7 +4047,7 @@ Ah! Get it out!
 00:46:16,000 --> 00:46:18,000
 [WILL]
 I will.
-ຂ້ອຍຈະເຮັດ.
+ແມ່ນແລ້ວ.
 
 633
 00:46:18,500 --> 00:46:20,500
@@ -5031,7 +5031,7 @@ That's it? You're not gonna think about it a little longer? After all we went th
 00:57:24,000 --> 00:57:26,000
 [CHET]
 You offered.
-ເຈົ້າສະ ເຫນີ.
+ເຈົ້າໄດ້ສະເໜີແລ້ວ.
 
 787
 00:57:26,500 --> 00:57:31,750
@@ -5341,7 +5341,7 @@ We still got the money. As long as we have that, she's alive. Come on.
 01:00:49,500 --> 01:00:51,500
 [WILL]
 I'm here!
-ຂ້ອຍຢູ່ບ່ອນນີ້!
+ຂ້ອຍຢູ່ແລ້ວ!
 
 836
 01:00:52,000 --> 01:00:54,450
@@ -5395,7 +5395,7 @@ Will, are you there?
 01:01:14,750 --> 01:01:16,850
 [WILL]
 I'm here. It's gonna be okay.
-ຂ້ອຍຢູ່ບ່ອນນີ້. ມັນຈະດີດີ.
+ຂ້ອຍຢູ່ແລ້ວ. ບໍ່ເປັນຫຍັງເລີຍ.
 
 845
 01:01:17,350 --> 01:01:19,350
@@ -5915,7 +5915,7 @@ Medics are late...probably a couple lazy spicks...you tell 'em I said so...all r
 01:06:31,250 --> 01:06:33,250
 [DWAYNE]
 Sure thing, pop.
-ແນ່ນອນ, ພໍ່.
+ແມ່ນແລ້ວ, ພໍ່.
 
 928
 01:06:33,750 --> 01:06:36,900

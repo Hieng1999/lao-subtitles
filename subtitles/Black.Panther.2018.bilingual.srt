@@ -147,7 +147,7 @@ They won't knock again .
 00:01:41,300 --> 00:01:43,300
 [DORAMILAJE 1]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 25
 00:01:43,800 --> 00:01:46,250
@@ -1244,7 +1244,7 @@ My son. T'Challa kneels down before his father , overcome with grief.
 00:15:21,200 --> 00:15:23,200
 [T'CHALLA]
 I am sorry .
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 194
 00:15:23,700 --> 00:15:28,250
@@ -1397,7 +1397,7 @@ Is that him? Glory to Bast, man, is he still growing?
 00:17:11,550 --> 00:17:13,550
 [W'KABI]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 218
 00:17:14,050 --> 00:17:20,050
@@ -1726,7 +1726,7 @@ Anywhere?
 00:21:13,700 --> 00:21:15,700
 [SHUR!]
 Mhm.
-ແມມ.
+ແມ່ນແລ້ວ.
 
 269
 00:21:16,200 --> 00:21:18,200
@@ -2051,7 +2051,7 @@ In position to secure our exit.
 00:25:10,500 --> 00:25:12,500
 [T'CHALLA]
 And the vibranium.
-ແລະວິບຣານຽມ.
+ແລະວິເບຣນຽມອີກດ້ວຍ.
 
 319
 00:25:13,000 --> 00:25:18,600
@@ -2223,7 +2223,7 @@ Hey. Okoye pretends she doesn't hear him.
 00:27:18,700 --> 00:27:20,700
 [SOUTHAFRICAN TOUGH]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 346
 00:27:21,200 --> 00:27:27,200
@@ -2874,7 +2874,7 @@ And you believe the word of an arms dealer , strapped to a chair. Ross hesitates
 00:35:12,350 --> 00:35:14,350
 [NAKIA]
 Where is that?
-ນັ້ນຢູ່ໃສ?
+ນັ້ນແມ່ນໃສ?
 
 447
 00:35:14,850 --> 00:35:19,400
@@ -3192,7 +3192,7 @@ What happened to my Uncle N'Jobu? My father told me he disappeared ... there was
 00:39:12,750 --> 00:39:14,750
 [ZURI]
 That is not possible .
-ນັ້ນບໍ່ສາມາດເຮັດໄດ້.
+ນັ້ນແມ່ນບໍ່ເປັນໄປໄດ້.
 
 496
 00:39:15,250 --> 00:39:21,250
@@ -3345,7 +3345,7 @@ Just a 'lil gift . Killmonger opens his bag , revealing KLAUE'S CORPSE W'Kabi's
 00:40:54,350 --> 00:40:56,350
 [W'KABI]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 520
 00:40:56,850 --> 00:41:02,850
@@ -3440,7 +3440,7 @@ These train things ... that's magnetic levitation, right?
 00:41:49,200 --> 00:41:51,200
 [SHUR!]
 Obviously.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 535
 00:41:51,700 --> 00:41:57,300
@@ -3745,7 +3745,7 @@ Take him away.
 00:45:31,550 --> 00:45:33,550
 [RIVER TRIBE ELDER]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 582
 00:45:34,050 --> 00:45:40,050
@@ -5039,7 +5039,7 @@ Border Tribe !
 01:00:40,950 --> 01:00:42,950
 [BORDERTRIBE]
 Ay ! Ay 1
-ໂອ້! ໂອ້ 1
+ແມ່ນແລ້ວ! ແມ່ນແລ້ວ 1
 
 785
 01:00:43,450 --> 01:00:49,450
@@ -5406,7 +5406,7 @@ T'Challa ໃນຂະນະທີ່ລາວເຊື່ອມຕໍ່ ຫນ�
 01:05:01,100 --> 01:05:03,100
 [SHURI]
 Nakia! Are you alright?
-Nakia! ເຈົ້າດີບໍ?
+Nakia ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 842
 01:05:03,600 --> 01:05:05,600
@@ -5538,7 +5538,7 @@ Phambili !!!!
 01:06:29,800 --> 01:06:31,800
 [M'BAKU]
 Abya ! ! !
-ອາບຢາ!
+ສະບາຍດີ!
 
 863
 01:06:32,300 --> 01:06:38,300
@@ -5885,7 +5885,7 @@ Are you playing around with that man again?
 01:10:41,650 --> 01:10:43,650
 [CHILD]
 No. Nol
-ບໍ່. ບໍ່
+ບໍ່ ບໍ່
 
 917
 01:10:44,150 --> 01:10:50,150

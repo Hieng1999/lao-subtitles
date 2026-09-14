@@ -8,7 +8,7 @@ written by Karen McCullah Lutz & Kirsten Smith
 00:00:13,300 --> 00:00:15,300
 [RIDER]
 Hey -- sorry.
-ເຮ້ - ຂໍໂທດ.
+ສະບາຍດີ - ຂໍໂທດເດີ.
 
 3
 00:00:15,800 --> 00:00:17,800
@@ -38,13 +38,13 @@ You might wanna think about it
 00:00:25,900 --> 00:00:27,900
 [BOY]
 Hey, Bianca.
-ເຮ້, ບຽນກາ.
+ສະບາຍດີ ບຽນກາ
 
 8
 00:00:28,400 --> 00:00:30,400
 [GIRL]
 Awesome shoes.
-ເກີບທີ່ຍິ່ງໃຫຍ່.
+ເກີບທີ່ສວຍງາມຫຼາຍ.
 
 9
 00:00:30,900 --> 00:00:36,850
@@ -107,7 +107,7 @@ With the teeth of your zipper?
 00:01:03,450 --> 00:01:05,450
 [MICHAEL]
 You the new guy?
-ເຈົ້າເປັນຄົນໃຫມ່ບໍ?
+ເຈົ້າແມ່ນຄົນໃໝ່ບໍ່?
 
 19
 00:01:05,950 --> 00:01:07,950
@@ -270,7 +270,7 @@ You burn, you pine, you perish?
 00:02:33,900 --> 00:02:35,900
 [CAMERON]
 Who is she?
-ນາງເປັນໃຜ?
+ນາງແມ່ນໃຜ?
 
 45
 00:02:36,400 --> 00:02:39,200
@@ -437,7 +437,7 @@ Ms. Stratford, do you care to comment on what you've read so far?
 00:04:23,750 --> 00:04:25,750
 [BIANCA]
 Not really.
-ບໍ່ແທ້ໆ.
+ບໍ່ແນ່ນອນ.
 
 71
 00:04:26,250 --> 00:04:32,200
@@ -999,7 +999,7 @@ No, no, it's my fault -- we didn't have a proper introduction ---
 00:09:45,900 --> 00:09:47,900
 [CAMERON]
 Cameron.
-ຄາເມຣອນ.
+ຄາແມຣອນ
 
 161
 00:09:48,400 --> 00:09:54,400
@@ -1018,7 +1018,7 @@ Seems like she could get a date easy enough...
 00:09:58,550 --> 00:10:00,650
 [BIANCA]
 The problem is, she's completely anti-social.
-ບັນຫາແມ່ນ, ນາງເປັນຕ້ານສັງຄົມຢ່າງສົມບູນ.
+ແມ່ນແລ້ວ, ນາງແມ່ນບໍ່ເປັນສັງຄົມເລີຍ.
 
 164
 00:10:01,150 --> 00:10:03,150
@@ -1189,7 +1189,7 @@ Patrick sits at a table with Scurvy, making something that looks like a machete 
 00:11:53,800 --> 00:11:55,800
 [CAMERON]
 Hey, there
-ເຮ້, ນັ້ນແມ່ນ
+ສະບາຍດີ
 
 191
 00:11:56,300 --> 00:11:58,300
@@ -1201,7 +1201,7 @@ Later, then.
 00:11:58,800 --> 00:12:00,800
 [MICHAEL]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 193
 00:12:01,300 --> 00:12:03,300
@@ -1271,7 +1271,7 @@ That guy?  I heard he ate a live duck once.  Everything but the beak and the fee
 00:12:43,600 --> 00:12:45,600
 [MICHAEL]
 Exactly
-ແທ້ໆ
+ແມ່ນແລ້ວ
 
 204
 00:12:46,100 --> 00:12:48,100
@@ -1526,7 +1526,7 @@ Show me
 00:15:23,900 --> 00:15:27,750
 [BIANCA]
 Give me a sign when he walks by.  And don't point.
-ໃຫ້ຂ້ອຍສັນຍານເມື່ອລາວຍ່າງຜ່ານ. ແລະຢ່າຊີ້ໃຫ້ເຫັນ.
+ສະແດງໃຫ້ຂ້ອຍເມື່ອລາວຜ່ານໄປ. ແລະຢ່າແນະນໍາ.
 
 244
 00:15:28,250 --> 00:15:30,250
@@ -1586,7 +1586,7 @@ Yeah, whatever.  I want you to go out with her.
 00:15:54,200 --> 00:15:56,650
 [PATRICK]
 Sure, Sparky.  I'll get right on it.
-ແນ່ນອນ, Sparky. ຂ້ອຍຈະເຮັດມັນທັນທີ.
+ແມ່ນແລ້ວ, ສະປາເກີ. ຂ້ອຍຈະເລີ້ມທັນທີ.
 
 254
 00:15:57,150 --> 00:15:59,150
@@ -1683,7 +1683,7 @@ Hey. Girlie.
 00:16:50,750 --> 00:16:52,850
 [PATRICK]
 I mean Wo-man.  How ya doin'?
-ຂ້ອຍຫມາຍຄວາມວ່າ Wo-man. ເຈົ້າເປັນແນວໃດ?
+ຂ້ອຍໝາຍຄວາມວ່າ ວູແມນ ສະບາຍດີບໍ່?
 
 270
 00:16:53,350 --> 00:16:55,800
@@ -1714,7 +1714,7 @@ Obviously, I've struck your fancy. So, you see, it worked.  The world makes sens
 00:17:07,850 --> 00:17:09,850
 [PATRICK]
 Pick you up Friday, then
-ເອົາເຈົ້າໃນວັນສຸກ, ຫຼັງຈາກນັ້ນ
+ແລ້ວມາຮັບເຈົ້າວັນສຸກເດີ້
 
 275
 00:17:10,350 --> 00:17:12,350
@@ -1745,7 +1745,7 @@ I know a lot more than that
 00:17:25,900 --> 00:17:27,900
 [KAT]
 Doubtful.  Very doubtful.
-ສົງໄສ. ສົງໄສຫຼາຍ.
+ບໍ່ແນ່ໃຈເລີຍ. ບໍ່ແນ່ນອນຫຼາຍ.
 
 280
 00:17:28,400 --> 00:17:30,400
@@ -1789,7 +1789,7 @@ Can you at least start wearing a bra?
 00:17:54,050 --> 00:17:56,050
 [PATRICK]
 Hey
-ເຮ້
+ສະບາຍດີ
 
 287
 00:17:56,550 --> 00:17:58,550
@@ -2082,7 +2082,7 @@ You know, I read an article about that.
 00:20:46,500 --> 00:20:48,500
 [BIANCA]
 You did?
-ເຈົ້າເຮັດບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 334
 00:20:49,000 --> 00:20:51,000
@@ -2266,7 +2266,7 @@ Have you heard about Bogey Lowenstein's party?
 00:22:35,600 --> 00:22:37,600
 [CAMERON]
 Sure have.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 364
 00:22:38,100 --> 00:22:43,000
@@ -2806,7 +2806,7 @@ I got it, Rick.
 00:27:37,850 --> 00:27:39,850
 [PATRICK]
 Nine-thirty then.
-ເວລາເກົ້າທ່ຽງແລ້ວ.
+ຕອນນັ້ນແມ່ນເວລາ 9 ໂມງ 30 ນາທີ.
 
 451
 00:27:40,350 --> 00:27:42,350
@@ -2935,13 +2935,13 @@ Is it about me?
 00:28:50,050 --> 00:28:52,050
 [MISS PERKY]
 You're completely demented.
-ເຈົ້າໂຊກຮ້າຍຢ່າງສົມບູນ.
+ເຈົ້າແມ່ນໂງ່ແທ້ໆ.
 
 472
 00:28:52,550 --> 00:28:54,550
 [PATRICK]
 See you next week!
-ພົບກັນໃນອາທິດຫນ້າ!
+ສະບາຍດີໃນອາທິດໜ້າເດີ້!
 
 473
 00:28:55,050 --> 00:28:57,050
@@ -2953,7 +2953,7 @@ You two know each other?
 00:28:57,550 --> 00:28:59,550
 [PATRICK/KAT]
 Yeah/No.
-ແມ່ນແລ້ວ/ ບໍ່.
+ແມ່ນ / ບໍ່.
 
 475
 00:29:00,050 --> 00:29:06,050
@@ -3016,7 +3016,7 @@ Daddy, people expect me to be there!
 00:29:35,050 --> 00:29:37,500
 [WALTER]
 If Kat's not going, you're not going.
-ຖ້າແຄຕ໌ບໍ່ໄປ, ເຈົ້າຈະບໍ່ໄປ.
+ຖ້າແຄທບໍ່ໄປແມ່ນເຈົ້າບໍ່ໄປເລີຍ.
 
 485
 00:29:38,000 --> 00:29:42,550
@@ -3029,7 +3029,7 @@ You're ruining my life'  Because you won't be normal, I can't be normal.
 00:29:43,050 --> 00:29:45,050
 [KAT]
 What's normal?
-ສິ່ງທີ່ເປັນປົກກະຕິແມ່ນຫຍັງ?
+ແມ່ນຫຍັງແມ່ນທໍາມະດາ?
 
 487
 00:29:45,550 --> 00:29:51,550
@@ -3555,7 +3555,7 @@ Get her to act like a human
 00:34:33,250 --> 00:34:35,250
 [PATRICK]
 Okay?
-ດີບໍ?
+ແມ່ນບໍ່?
 
 572
 00:34:35,750 --> 00:34:37,750
@@ -3640,7 +3640,7 @@ Cameron -- do you like the girl?
 00:35:16,000 --> 00:35:18,000
 [CAMERON]
 Sure
-ແນ່ນອນ
+ແມ່ນແລ້ວ
 
 586
 00:35:18,500 --> 00:35:20,500
@@ -4065,7 +4065,7 @@ I looked for you back at the party, but you always seemed to be "occupied".
 00:38:59,750 --> 00:39:01,750
 [BIANCA]
 I was?
-ຂ້ອຍເປັນບໍ?
+ແມ່ນບໍ່?
 
 656
 00:39:02,250 --> 00:39:05,750
@@ -4234,7 +4234,7 @@ I got drunk.  I puked.  I got rejected. It was big fun.
 00:40:44,950 --> 00:40:46,950
 [PATRICK]
 Hey
-ເຮ້
+ສະບາຍດີ
 
 683
 00:40:47,450 --> 00:40:50,250
@@ -4379,7 +4379,7 @@ Maybe two.
 00:42:04,250 --> 00:42:06,250
 [PATRICK]
 You makin' any headway?
-ເຈົ້າ ກໍາ ລັງກ້າວຫນ້າບໍ?
+ເຈົ້າມີຄວາມກ້າວໜ້າບໍ່?
 
 707
 00:42:06,750 --> 00:42:08,750
@@ -4884,7 +4884,7 @@ So if you disappoint them from the start, you're covered?
 00:47:06,350 --> 00:47:08,350
 [KAT]
 Something like that
-ບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ
+ບາງຢ່າງແບບນັ້ນ
 
 788
 00:47:08,850 --> 00:47:10,850
@@ -5077,7 +5077,7 @@ Why are you doing this?
 00:48:36,150 --> 00:48:39,300
 [KAT]
 All of it -- what's in it for you?
-ທັງ ຫມົດ ນັ້ນ - ມີຫຍັງໃນມັນ ສໍາ ລັບເຈົ້າ?
+ທັງ ໝົດ - ເຈົ້າຈະໄດ້ຮັບຫຍັງຈາກມັນ?
 
 820
 00:48:39,800 --> 00:48:42,950
@@ -5120,7 +5120,7 @@ Nothing!  There's nothing in it for me. Just the pleasure of your company.
 00:49:01,500 --> 00:49:03,500
 [PATRICK]
 cover that up
-ຈັບໄວ້
+ປົກປິດໄວ້
 
 827
 00:49:04,000 --> 00:49:07,150
@@ -5476,7 +5476,7 @@ Come in.
 00:52:41,350 --> 00:52:43,350
 [KAT]
 Feel like shopping?
-ເຈົ້າຮູ້ສຶກຢາກຊື້ເຄື່ອງບໍ?
+ເຈົ້າຢາກຊື້ບໍ່?
 
 884
 00:52:43,850 --> 00:52:48,050
@@ -5489,7 +5489,7 @@ What do you wanna watch?  We've got crap, crap, crap or crap
 00:52:48,550 --> 00:52:50,550
 [SHARON]
 Dr. Ruth?
-ດຣ ຣຸດສ໌?
+ດຣ ຣູທ໌ບໍ່?
 
 886
 00:52:51,050 --> 00:52:53,050
@@ -5634,7 +5634,7 @@ Look, I'm  -- sorry -- that I questioned your motives.  I was wrong.
 00:54:05,300 --> 00:54:07,300
 [PATRICK]
 No prob.
-ບໍ່ມີບັນຫາ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 910
 00:54:07,800 --> 00:54:09,800
@@ -5888,7 +5888,7 @@ I cared about --
 00:56:31,950 --> 00:56:35,100
 [KAT]
 You are so not what I thought you were.
-ເຈົ້າບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍຄິດວ່າເຈົ້າເປັນ.
+ເຈົ້າບໍ່ເໝືອນທີ່ຂ້ອຍຄິດເລີຍ.
 
 951
 00:56:35,600 --> 00:56:40,150
@@ -5997,7 +5997,7 @@ What's the matter?  Upset that I rubbed off on her?
 00:57:31,050 --> 00:57:33,050
 [WALTER]
 No -- impressed.
-ບໍ່ - ປະທັບໃຈ.
+ບໍ່ - ດີໃຈຫຼາຍ.
 
 969
 00:57:33,550 --> 00:57:39,550
@@ -6136,7 +6136,7 @@ Just smack her now.
 00:58:54,600 --> 00:58:56,700
 [BIANCA]
 We'll be getting back to you.
-ພວກເຮົາຈະໂທຫາເຈົ້າຄືນ.
+ພວກເຮົາຈະກັບມາຫາທ່ານເດີ້.
 
 991
 00:58:57,200 --> 00:58:59,200
@@ -6232,7 +6232,7 @@ Besides, I had some extra cash. Some asshole paid me to take out a really great 
 00:59:56,400 --> 00:59:58,400
 [KAT]
 Is that right?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 1006
 00:59:58,900 --> 01:00:02,400
@@ -6295,7 +6295,7 @@ Oh, Bianca?  Can you get me my freshman yearbook?
 01:00:34,150 --> 01:00:36,950
 [PATRICK]
 Don ' t you even dare. . .
-ເຈົ້າບໍ່ກ້າຫານເລີຍ...
+ຢ່າກ້າເລີຍເດີ້...
 
 1016
 01:00:37,450 --> 01:00:39,450
@@ -6362,7 +6362,7 @@ Patrick -- is that- a.
 01:01:15,050 --> 01:01:17,050
 [KAT]
 Perm?
-ເປີມ?
+Perm ແມ່ນບໍ່?
 
 1027
 01:01:17,550 --> 01:01:19,550

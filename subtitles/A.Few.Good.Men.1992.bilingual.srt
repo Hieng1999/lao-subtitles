@@ -371,7 +371,7 @@ With what, possession of a condiment?
 00:04:15,800 --> 00:04:17,800
 [SPRADLING]
 Kaffee --
-ກາເຟ...
+ກາເຟ -
 
 60
 00:04:18,300 --> 00:04:24,300
@@ -422,13 +422,13 @@ I don't know why I'm agreeing to this.
 00:04:47,700 --> 00:04:49,700
 [WHITAKER]
 'Morning.
-ຕອນເຊົ້າ.
+ສະບາຍດີ.
 
 68
 00:04:50,200 --> 00:04:52,200
 [LAWYERS]
 'Morning Captain Whitaker.
-ຕອນເຊົ້າ ຄັບປິນ ວີຕເກີ.
+ສະບາຍດີ ຄັບປິນ ວີເທເກີ.
 
 69
 00:04:52,700 --> 00:04:54,700
@@ -508,7 +508,7 @@ What's a fenceline?
 00:05:36,800 --> 00:05:38,800
 [WHITAKER]
 Sam?
-ແຊມ?
+ແຊມແມ່ນບໍ່?
 
 82
 00:05:39,300 --> 00:05:43,150
@@ -681,7 +681,7 @@ And how long have you been out of law school?
 00:07:13,050 --> 00:07:15,050
 [KAFFEE]
 A little over a year.
-ຫຼາຍກວ່າປີຫນຶ່ງ.
+ເກືອບໜຶ່ງປີແລ້ວ.
 
 110
 00:07:15,550 --> 00:07:17,550
@@ -706,7 +706,7 @@ No. It's just that when I petitioned Division to have counsel assigned, I was ho
 00:07:27,050 --> 00:07:29,500
 [KAFFEE]
 No offense taken, if you were wondering.
-ບໍ່ຕ້ອງໂຊກຮ້າຍ, ຖ້າເຈົ້າສົງໄສ.
+ບໍ່ເປັນຫຍັງ, ຖ້າເຈົ້າຢາກຮູ້ບໍ່.
 
 114
 00:07:30,000 --> 00:07:36,000
@@ -782,7 +782,7 @@ One of the people you'll be speaking to down there is the barracks C.O., Colonel
 00:08:17,150 --> 00:08:19,150
 [KAFFEE]
 Who hasn't?
-ໃຜບໍ່ເຄີຍເຮັດ?
+ແມ່ນໃຜບໍ່ຮູ້ແມ່ນບໍ່?
 
 126
 00:08:19,650 --> 00:08:25,650
@@ -801,7 +801,7 @@ These are letters that Santiago wrote in his 8 months at GITMO --
 00:08:31,200 --> 00:08:33,200
 [SAM]
 Guantanamo Bay.
-ແຄມພູຕານາມໍ.
+ແມ່ນໍ້າ Guantanamo.
 
 129
 00:08:33,700 --> 00:08:35,700
@@ -890,7 +890,7 @@ Colonel Jessep, yes, but --
 00:09:26,600 --> 00:09:28,600
 [KAFFEE]
 Twelve years.
-ສິບສອງປີ.
+12 ປີແລ້ວ.
 
 143
 00:09:29,100 --> 00:09:31,100
@@ -915,7 +915,7 @@ You haven't talked to a witness, you haven't looked at a piece of paper.
 00:09:42,050 --> 00:09:44,050
 [KAFFEE]
 Pretty impressive, huh?
-ຫນ້າປະທັບໃຈຫຼາຍ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ, ແມ່ນບໍ່?
 
 147
 00:09:44,550 --> 00:09:47,700
@@ -941,7 +941,7 @@ My job is to make sure you do your job. I'm special counsel for Internal Affairs
 00:10:00,100 --> 00:10:02,100
 [KAFFEE]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 151
 00:10:02,600 --> 00:10:04,600
@@ -1214,7 +1214,7 @@ Matthew, siddown.  We go back a while. We went to the Academy together, we were 
 00:12:55,150 --> 00:12:57,150
 [DOWNEY]
 Hal?
-ຮາລ?
+ແຮລ?
 
 194
 00:12:57,650 --> 00:12:59,650
@@ -1232,7 +1232,7 @@ Alright, let's move.
 00:13:02,650 --> 00:13:04,750
 [KAFFEE]
 Alright, let's get tough out there!
-ດີແລ້ວ, ມາແຂງແຮງຢູ່ບ່ອນນັ້ນ!
+ແມ່ນແລ້ວ, ພວກເຮົາຈະແຂງແຮງກັນເດີ້!
 
 197
 00:13:05,250 --> 00:13:07,250
@@ -1383,7 +1383,7 @@ What are you basing this on?
 00:14:33,250 --> 00:14:35,250
 [JO]
 There was no intent.
-ບໍ່ມີຈຸດປະສົງເລີຍ.
+ບໍ່ມີຄວາມຕັ້ງໃຈເລີຍ.
 
 221
 00:14:35,750 --> 00:14:41,750
@@ -1541,7 +1541,7 @@ What's a garden variety Code Red?
 00:16:12,850 --> 00:16:14,850
 [DAWSON]
 Sir?
-ເຈົ້າບໍ?
+ສະບາຍດີ?
 
 246
 00:16:15,350 --> 00:16:21,350
@@ -1754,7 +1754,7 @@ No sir.
 00:18:22,700 --> 00:18:24,700
 [KAFFEE]
 What was your intent?
-ຈຸດປະສົງຂອງທ່ານແມ່ນຫຍັງ?
+ຄວາມຕັ້ງໃຈຂອງເຈົ້າແມ່ນຫຍັງ?
 
 280
 00:18:25,200 --> 00:18:27,200
@@ -1892,7 +1892,7 @@ They plead guilty to manslaughter, I'll drop the conspiracy and the conduct unbe
 00:19:40,350 --> 00:19:42,350
 [KAFFEE]
 I want twelve.
-ຂ້ອຍຢາກສິບສອງຄົນ.
+ຂ້ອຍຢາກ 12.
 
 302
 00:19:42,850 --> 00:19:44,850
@@ -2017,7 +2017,7 @@ By the way, I brought Downey some comic books he was asking for. The kid, Kaffee
 00:20:59,550 --> 00:21:01,550
 [KAFFEE]
 Commander --
-ຜູ້ບັນຊາການ...
+ເຈົ້າໜ້າທີ່ -
 
 322
 00:21:02,050 --> 00:21:04,050
@@ -2356,7 +2356,7 @@ Yeah.
 00:24:24,700 --> 00:24:26,700
 [JO]
 Commander Galloway.
-ຜູ້ບັນຊາການ Galloway.
+ເຈົ້າໜ້າທີ່ Galloway.
 
 376
 00:24:27,200 --> 00:24:32,450
@@ -2537,7 +2537,7 @@ Not at all, sir.
 00:26:13,800 --> 00:26:16,600
 [JESSEP]
 Well, what can we do for you, Danny.
-ດີ, ພວກເຮົາສາມາດເຮັດຫຍັງໄດ້ ສໍາ ລັບເຈົ້າ, ດານນີ.
+ແມ່ນແລ້ວ, ພວກເຮົາສາມາດຊ່ວຍເຈົ້າໄດ້ແນວໃດເດັນນີ.
 
 405
 00:26:17,100 --> 00:26:23,100
@@ -2880,7 +2880,7 @@ I was wondering if you've ever heard the term Code Red.
 00:29:46,950 --> 00:29:48,950
 [KAFFEE]
 Jo --
-ໂຈ...
+ໂຈ -
 
 460
 00:29:49,450 --> 00:29:51,450
@@ -3042,7 +3042,7 @@ You believe that, don't you? Danny? That I'm here to help anyway I can?
 00:31:37,250 --> 00:31:39,250
 [KAFFEE]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 485
 00:31:39,750 --> 00:31:45,750
@@ -3106,7 +3106,7 @@ Dawson and Downey, they don't know it, but they're smothering a grenade.
 00:32:20,850 --> 00:32:22,850
 [KAFFEE]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 495
 00:32:23,350 --> 00:32:25,350
@@ -3231,7 +3231,7 @@ Yes sir.
 00:33:36,250 --> 00:33:38,250
 [KAFFEE]
 Did he?
-ລາວເຮັດບໍ?
+ແມ່ນບໍ່?
 
 515
 00:33:38,750 --> 00:33:40,750
@@ -3674,7 +3674,7 @@ Do you think we were right?
 00:38:05,650 --> 00:38:07,750
 [KAFFEE]
 It doesn't matter what I --
-ມັນບໍ່ສໍາຄັນວ່າຂ້ອຍ...
+ບໍ່ເປັນຫຍັງວ່າຂ້ອຍຈະ -
 
 586
 00:38:08,250 --> 00:38:10,350
@@ -3732,7 +3732,7 @@ You just make a motion tomorrow morning at the arraignment. The judge'll ask you
 00:38:48,750 --> 00:38:50,750
 [KAFFEE]
 Then that's that.
-ຫຼັງຈາກນັ້ນນັ້ນນັ້ນແມ່ນນັ້ນ.
+ນັ້ນແມ່ນແລ້ວ.
 
 595
 00:38:51,250 --> 00:38:57,250
@@ -4248,7 +4248,7 @@ I was talking to Sam.
 00:44:35,350 --> 00:44:37,350
 [SAM]
 What time is it?
-ເວລາເທົ່າໃດ?
+ເວລາແມ່ນບໍ່?
 
 676
 00:44:37,850 --> 00:44:41,350
@@ -4351,7 +4351,7 @@ You're Aunt Ginny?
 00:45:27,250 --> 00:45:29,250
 [GINNY]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 693
 00:45:29,750 --> 00:45:32,200
@@ -4482,13 +4482,13 @@ PFC William Santiago ໃນວັນທີ 3 ສິງຫາປີນີ້ບ�
 00:46:43,800 --> 00:46:45,800
 [MCGUIRE]
 We did.
-ພວກເຮົາເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 714
 00:46:46,300 --> 00:46:48,300
 [ROSS]
 What did the letter say?
-ຈົດຫມາຍຂຽນວ່າແນວໃດ?
+ຈົດໝາຍເວົ້າຫຍັງແດ່?
 
 715
 00:46:48,800 --> 00:46:54,050
@@ -4615,7 +4615,7 @@ No.
 00:48:07,000 --> 00:48:09,000
 [ROSS]
 No more questions.
-ບໍ່ມີຄໍາຖາມອີກຕໍ່ໄປ.
+ບໍ່ຕ້ອງຖາມອີກເລີຍ.
 
 735
 00:48:09,500 --> 00:48:14,050
@@ -4903,7 +4903,7 @@ Doctor Stone, did Willy Santiago die of poisoning?
 00:51:13,350 --> 00:51:15,350
 [STONE]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 780
 00:51:15,850 --> 00:51:21,450
@@ -4967,7 +4967,7 @@ Commander, is it possible?
 00:51:53,650 --> 00:51:55,650
 [STONE]
 Certainly.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 790
 00:51:56,150 --> 00:51:58,600
@@ -5053,7 +5053,7 @@ Fatigue?
 00:52:43,450 --> 00:52:45,450
 [STONE]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 804
 00:52:45,950 --> 00:52:47,950
@@ -5389,7 +5389,7 @@ Nine weeks on a D and D? What was the prosecutor offering?
 00:56:27,500 --> 00:56:29,500
 [JO]
 15 days.
-15 ມື້.
+15 ວັນ.
 
 857
 00:56:30,000 --> 00:56:32,800
@@ -5432,7 +5432,7 @@ Because I want you to think I'm good lawyer.
 00:56:50,750 --> 00:56:52,750
 [KAFFEE]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 864
 00:56:53,250 --> 00:56:59,250
@@ -5584,7 +5584,7 @@ Dawson wouldn't allow it, sir.
 00:58:24,950 --> 00:58:26,950
 [KAFFEE]
 Dawson wouldn't allow it.
-ດາວສັນຈະບໍ່ອະນຸຍາດໃຫ້ມັນ.
+ດາວສັນບໍ່ຍອມຮັບເລີຍ.
 
 888
 00:58:27,450 --> 00:58:33,450
@@ -5647,7 +5647,7 @@ Yes sir.
 00:59:02,450 --> 00:59:04,450
 [ROSS]
 Have you read it?
-ເຈົ້າອ່ານມັນບໍ?
+ເຈົ້າໄດ້ອ່ານບໍ່?
 
 898
 00:59:04,950 --> 00:59:06,950
@@ -5710,7 +5710,7 @@ No sir. No books, sir.
 00:59:44,200 --> 00:59:46,200
 [ROSS]
 No further questions.
-ບໍ່ມີຄໍາຖາມອີກຕໍ່ໄປ.
+ບໍ່ຕ້ອງຖາມຫຍັງອີກເລີຍ.
 
 908
 00:59:46,700 --> 00:59:52,700
@@ -5742,7 +5742,7 @@ I guess I just followed the crowd at chow time, sir.
 01:00:07,350 --> 01:00:09,350
 [KAFFEE]
 No more questions.
-ບໍ່ມີຄໍາຖາມອີກຕໍ່ໄປ.
+ບໍ່ຕ້ອງຖາມອີກເລີຍ.
 
 913
 01:00:09,850 --> 01:00:11,950
@@ -5774,7 +5774,7 @@ KAFFEE ຢຸດຢູ່ໂຕະຫນັງສືພິມປົກກະຕ�
 01:00:27,200 --> 01:00:29,200
 [KAFFEE]
 Hey, Luther.
-ເຮ້, ລູເຕີ.
+ສະບາຍດີ ລູເຕີ
 
 918
 01:00:29,700 --> 01:00:31,800
@@ -6404,7 +6404,7 @@ Wouldn't this form of discipline be considered a code red?
 01:06:54,950 --> 01:06:56,950
 [KENDRICK]
 Not necessarily.
-ບໍ່ຈໍາເປັນ.
+ບໍ່ແນ່ນອນ.
 
 1018
 01:06:57,450 --> 01:07:03,450
@@ -6495,7 +6495,7 @@ A lesson he learned after the Curtis Barnes incident, am I right?
 01:08:02,700 --> 01:08:04,700
 [KENDRICK]
 I would think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 1032
 01:08:05,200 --> 01:08:07,300
@@ -6712,7 +6712,7 @@ I was ordered to give him a Code Red by the Executive officer for Rifle Security
 01:10:22,750 --> 01:10:24,750
 [JO]
 You're gonna do fine.
-ເຈົ້າຈະເຮັດໄດ້ດີ.
+ເຈົ້າຈະບໍ່ເປັນຫຍັງເລີຍ.
 
 1066
 01:10:25,250 --> 01:10:29,450
@@ -6725,7 +6725,7 @@ You think they'll let us go back to our platoon soon, ma'am?
 01:10:29,950 --> 01:10:31,950
 [JO]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 1068
 01:10:32,450 --> 01:10:34,900
@@ -6899,7 +6899,7 @@ I'm sure it is, sir, they keep that log pretty good.
 01:12:06,750 --> 01:12:10,600
 [ROSS]
 How far is it from Post 39 to the Windward barracks?
-ມັນຢູ່ຫ່າງໄກຈາກໂພສ 39 ເຖິງບາຣັກວິນດ໌ເວີດຫຼາຍປານໃດ?
+ມັນຢູ່ຫ່າງໄກປານໃດຈາກຕໍາແໜ່ງ 39 ໄປຫາບາຣັກ Windward?
 
 1096
 01:12:11,100 --> 01:12:13,550
@@ -7031,7 +7031,7 @@ The witness has been read his rights, commander.
 01:13:34,250 --> 01:13:36,250
 [DOWNEY]
 Hal?
-ຮາລ?
+ແຮລ?
 
 1117
 01:13:36,750 --> 01:13:38,750
@@ -7055,7 +7055,7 @@ Your honor --
 01:13:44,700 --> 01:13:46,700
 [DOWNEY]
 Hal?
-ຮາລ?
+ແຮລ?
 
 1121
 01:13:47,200 --> 01:13:50,000
@@ -7073,7 +7073,7 @@ He did, didn't he? Dawson told you to give Santiago a code red.
 01:13:55,550 --> 01:13:57,550
 [DOWNEY]
 Hal?
-ຮາລ?
+ແຮລ?
 
 1124
 01:13:58,050 --> 01:14:00,050
@@ -7085,7 +7085,7 @@ Don't look at him.
 01:14:00,550 --> 01:14:02,550
 [DOWNEY]
 Hal?
-ຮາລ?
+ແຮລ?
 
 1126
 01:14:03,050 --> 01:14:05,050
@@ -7123,7 +7123,7 @@ Danny. I'm sorry.
 01:14:23,650 --> 01:14:25,650
 [KAFFEE]
 Don't worry about it.
-ຢ່າກັງວົນກ່ຽວກັບມັນ.
+ບໍ່ຕ້ອງກັງວົນເລີຍ.
 
 1132
 01:14:26,150 --> 01:14:32,150
@@ -8190,7 +8190,7 @@ Your honor --
 01:25:30,000 --> 01:25:32,000
 [RANDOLPH]
 The objection's noted.
-ການຄັດຄ້ານໄດ້ຖືກສັງເກດເຫັນ.
+ການຄັດຄ້ານແມ່ນຖືກບັນທຶກໄວ້ແລ້ວ.
 
 1302
 01:25:32,500 --> 01:25:34,500
@@ -8251,7 +8251,7 @@ Excuse me, I didn't dismiss you.
 01:26:00,250 --> 01:26:02,250
 [JESSEP]
 I beg your pardon.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 1312
 01:26:02,750 --> 01:26:05,550
@@ -8934,7 +8934,7 @@ Why?
 01:33:06,200 --> 01:33:08,200
 [KAFFEE]
 Harold, I'm sorry.
-ໂຮຣລດ, ຂ້ອຍຂໍໂທດ.
+ແຮໂຣລດ, ຂໍໂທດເດີ.
 
 1420
 01:33:08,700 --> 01:33:10,700
@@ -9027,7 +9027,7 @@ Gentleman?
 01:33:54,800 --> 01:33:56,800
 [KAFFEE]
 Harold!
-ຮາຮໍລອດ!
+ແຮໂລດ!
 
 1435
 01:33:57,300 --> 01:33:59,300
@@ -9095,7 +9095,7 @@ Tell him I say "Hi".
 01:34:34,000 --> 01:34:36,000
 [ROSS]
 Will do.
-ຈະເຮັດໄດ້.
+ແມ່ນແລ້ວ.
 
 1446
 01:34:36,500 --> 01:34:42,500

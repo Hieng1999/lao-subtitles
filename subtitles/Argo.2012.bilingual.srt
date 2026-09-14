@@ -252,7 +252,7 @@ de- Schafer! Schafer ໄດ້! ບານປະຊາກອນທັງ ຫມ�
 00:03:01,100 --> 00:03:03,550
 [BRICE]
 At least 60. Could be a hundred.
-ຢ່າງຫນ້ອຍ 60. ອາດຈະເປັນສິບ.
+ຢ່າງໜ້ອຍ 60. ບາງທີແມ່ນ 100.
 
 41
 00:03:04,050 --> 00:03:06,050
@@ -283,7 +283,7 @@ I was told five.
 00:03:18,050 --> 00:03:20,050
 [BATES]
 Apparently it's six now.
-ເບິ່ງຄືວ່າມັນເປັນເວລາຫົກດຽວນີ້.
+ເບິ່ງຄືວ່າຕອນນີ້ແມ່ນເວລາ 6 ໂມງແລ້ວ.
 
 46
 00:03:20,550 --> 00:03:22,550
@@ -307,7 +307,7 @@ Where are they?
 00:03:28,850 --> 00:03:30,850
 [SAUNDERS]
 The Canadian Ambassador's house.
-ເຮືອນຂອງເອກອັກຄະລັດຖະທູດການາດາ.
+ບ້ານຂອງທູດການາດາ.
 
 50
 00:03:31,350 --> 00:03:33,350
@@ -370,7 +370,7 @@ Put him on a plane. Fuck him.
 00:04:09,650 --> 00:04:12,100
 [JORDAN]
 He's half dead and he's in chemo.
-ລາວຕາຍເຄິ່ງຫນຶ່ງແລະລາວຢູ່ໃນເຄມີໂມ.
+ລາວແມ່ນເຄິ່ງຕາຍແລ້ວ ແລະລາວກໍາລັງຮັບການປິ່ນປົວເຄມີ.
 
 60
 00:04:12,600 --> 00:04:15,050
@@ -494,7 +494,7 @@ Carter's shitting enough bricks to build the pyramids. He wants the six of them 
 00:05:40,100 --> 00:05:42,100
 [MENDEZ]
 Who else knows?
-ໃຜອີກຄົນໃດຮູ້?
+ມີໃຜຮູ້ອີກບໍ່?
 
 79
 00:05:42,600 --> 00:05:48,600
@@ -1091,7 +1091,7 @@ Mr. Chambers.
 00:12:54,350 --> 00:12:56,350
 [CHAMBERS]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 170
 00:12:56,850 --> 00:13:02,850
@@ -1104,7 +1104,7 @@ Kevin Harkins? Chambers gives the kid a look, takes the phone from him and puts 
 00:13:03,350 --> 00:13:05,350
 [CHAMBERS]
 Hey, Tony.
-ເຮ້, ໂຕນີ.
+ສະບາຍດີ ໂຕນີ.
 
 172
 00:13:05,850 --> 00:13:09,700
@@ -1253,7 +1253,7 @@ A Komiteh drags away a MAN in his forties while the man's wife cries. Automatic 
 00:14:48,850 --> 00:14:50,850
 [LEE SCHATZ]
 50 caliber?
-ຄາລີເບີ 50?
+ຄາລິເບີ 50 ບໍ່?
 
 195
 00:14:51,350 --> 00:14:53,350
@@ -1677,7 +1677,7 @@ He's only a prick if you catch him on the wrong day.
 00:19:17,600 --> 00:19:19,600
 [MENDEZ]
 Is it the wrong day?
-ມັນເປັນມື້ທີ່ບໍ່ຖືກຕ້ອງບໍ?
+ແມ່ນບໍ່ວັນທີ່ຜິດບໍ່?
 
 262
 00:19:20,100 --> 00:19:25,350
@@ -1696,7 +1696,7 @@ You're gonna get this into production in one month?
 00:19:29,500 --> 00:19:31,500
 [MENDEZ]
 One month.
-ເດືອນຫນຶ່ງ.
+ໜຶ່ງເດືອນ.
 
 265
 00:19:32,000 --> 00:19:34,000
@@ -2160,7 +2160,7 @@ We will begin the trials and will carry out the sentences. This MONTAGE: Voice u
 00:24:38,350 --> 00:24:41,150
 [(REALIZING THE]
 gravity of it) He's marginalized the moderates now.
-ຄວາມຫນັກແຫນ້ນຂອງມັນ) ລາວໄດ້ຍົກເວັ້ນຄົນປານກາງດຽວນີ້.
+ຄວາມຮ້າຍແຮງຂອງມັນ) ລາວໄດ້ແຄກແຄມພວກທີ່ປານກາງໃນປັດຈຸບັນ.
 
 338
 00:24:41,650 --> 00:24:43,650
@@ -2205,7 +2205,7 @@ ARGO - ສຸດທ້າຍ 53.
 00:25:09,450 --> 00:25:11,450
 [MENDEZ]
 Why'd he do it?
-ລາວເຮັດມັນເປັນຫຍັງ?
+ເປັນຫຍັງລາວຈຶ່ງທໍາແບບນັ້ນ?
 
 345
 00:25:11,950 --> 00:25:14,400
@@ -2680,7 +2680,7 @@ Left.
 00:30:29,250 --> 00:30:31,250
 [MENDEZ]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 419
 00:30:31,750 --> 00:30:37,750
@@ -2875,7 +2875,7 @@ What are the chances?
 00:32:33,500 --> 00:32:35,500
 [MENDEZ]
 The chances are good.
-ໂອກາດດີ.
+ຄວາມເປັນໄປໄດ້ແມ່ນດີ.
 
 450
 00:32:36,000 --> 00:32:40,550
@@ -3652,7 +3652,7 @@ Where was your passport issued? Bob Anders dsn't know. ANGLES ON the Houseguests
 00:41:26,350 --> 00:41:28,350
 [ANDERS]
 Vancouver.
-ວັງວູເວີ.
+ວັງເວີເກີ
 
 571
 00:41:28,850 --> 00:41:30,850
@@ -3952,7 +3952,7 @@ N.E ປິດມັນລົງ.
 00:44:41,100 --> 00:44:43,100
 [O'DONNELL]
 I'm saying it's back on!
-ຂ້ອຍບອກວ່າມັນເປີດຄືນແລ້ວ!
+ຂ້ອຍເວົ້າວ່າ ມັນກັບມາແລ້ວ!
 
 618
 00:44:43,600 --> 00:44:47,100
@@ -4187,7 +4187,7 @@ It's manned by Revolutionaries. Most of them were educated in the U.S. or Europe
 00:46:57,050 --> 00:46:59,050
 [BOB ANDERS]
 Or Canada?
-ຫຼືການາດາບໍ?
+ຫຼືແມ່ນກາເນດາບໍ່?
 
 656
 00:46:59,550 --> 00:47:02,350
@@ -4655,7 +4655,7 @@ Groucho?
 00:52:21,650 --> 00:52:23,650
 [CHAMBERS]
 Karl.
-ຄາລ.
+ແຄລ
 
 729
 00:52:24,150 --> 00:52:30,150
@@ -4746,7 +4746,7 @@ She said, �Why couldn't we pull off something like that?' You know what I said
 00:53:25,900 --> 00:53:27,900
 [MENDEZ]
 Wha'd you say to her?
-ເຈົ້າບອກນາງຫຍັງ?
+ເຈົ້າເວົ້າຫຍັງກັບນາງແມ່ນບໍ່?
 
 743
 00:53:28,400 --> 00:53:30,400

@@ -284,7 +284,7 @@ No, I'd be imposing on her, I'd be just another tongue-tied gushing fan...
 00:03:53,350 --> 00:03:56,150
 [KAREN]
 There isn't another like you, there couldn't be-
-ບໍ່ມີຄົນອື່ນຄືກັບເຈົ້າ, ມັນບໍ່ສາມາດມີ...
+ບໍ່ມີໃຜອີກຄນຄືເຈົ້າ ບໍ່ສາມາດມີໄດ້ -
 
 44
 00:03:56,650 --> 00:04:01,200
@@ -303,7 +303,7 @@ You look just fine...  ... by the way. What's your name?
 00:04:06,050 --> 00:04:08,050
 [EVE]
 Eve. Eve Harrington.
-ເອວ. ເອວ ຮາຣິງຕັນ.
+ເອວ, ເອວ ແຮຣິງຕັນ
 
 47
 00:04:08,550 --> 00:04:12,400
@@ -631,7 +631,7 @@ Hello, Miss Harrington.
 00:07:32,550 --> 00:07:34,650
 [EVE]
 How do you do, Mr. Richards.
-ເຈົ້າເປັນແນວໃດ, ທ້າວ ຣິກຊາດສ໌.
+ສະບາຍດີເດີ, ທ້າວ ຣີຈາດສ໌.
 
 99
 00:07:35,150 --> 00:07:39,000
@@ -970,7 +970,7 @@ The air lines have clocks, even if you haven't! I start shooting a week from Mon
 00:11:08,300 --> 00:11:10,300
 [KAREN]
 Bill-
-ບິລ...
+ບິລ -
 
 153
 00:11:10,800 --> 00:11:13,950
@@ -1185,7 +1185,7 @@ I'd like that.
 00:13:00,650 --> 00:13:02,750
 [LLOYD]
 It's been a real pleasure, Eve.
-ມັນເປັນຄວາມຍິນດີທີ່ແທ້ຈິງ, ເອວ.
+ສະບາຍດີແທ້ໆ, ເອວ.
 
 188
 00:13:03,250 --> 00:13:05,700
@@ -1668,7 +1668,7 @@ Call me when you get in...
 00:17:36,900 --> 00:17:38,900
 [BILL]
 Hey - junior...
-ເຮ້ - ເດັກນ້ອຍ...
+ສະບາຍດີ - ຈູເນຍ...
 
 266
 00:17:39,400 --> 00:17:45,350
@@ -1681,7 +1681,7 @@ Keep your eyes on her. Don't let her get lonely. She's a loose lamb in a jungle.
 00:17:45,850 --> 00:17:47,850
 [EVE]
 Don't worry...
-ຢ່າກັງວົນ...
+ບໍ່ຕ້ອງຫ່ວງເດີ້...
 
 268
 00:17:48,350 --> 00:17:54,350
@@ -1708,7 +1708,7 @@ That same night we sent for Eve's things, her few pitiful possessions... she mov
 00:18:07,850 --> 00:18:09,850
 [STAGE MANAGER]
 One more?
-ອີກຫນຶ່ງບໍ?
+ອີກໜຶ່ງບໍ່?
 
 272
 00:18:10,350 --> 00:18:16,300
@@ -1908,7 +1908,7 @@ She's got two things to do - carry clothes an' press 'em wrong - an' just let an
 00:20:25,300 --> 00:20:27,300
 [MARGO]
 Eve-
-ເອວ...
+ເອວ -
 
 303
 00:20:27,800 --> 00:20:31,650
@@ -2058,7 +2058,7 @@ Kid stuff or not, it doesn't happen every day, I want to heat it - and if you wo
 00:21:54,850 --> 00:21:56,850
 [MARGO]
 Sing it?
-ຮ້ອງເພງບໍ?
+ຮ້ອງບໍ່?
 
 327
 00:21:57,350 --> 00:22:00,500
@@ -2139,7 +2139,7 @@ Yeah... I will.
 00:22:42,950 --> 00:22:44,950
 [BILL]
 How is Eve? Okay?
-ເອວເປັນແນວໃດ? ດີບໍ?
+ເອວສະບາຍດີບໍ່? ແມ່ນແລ້ວບໍ່?
 
 340
 00:22:45,450 --> 00:22:47,450
@@ -2331,7 +2331,7 @@ There's the script to go back to the Guild-
 00:24:26,850 --> 00:24:28,850
 [EVE]
 I've got it.
-ຂ້ອຍເຮັດແລ້ວ.
+ຂ້ອຍໄດ້ແລ້ວ.
 
 371
 00:24:29,350 --> 00:24:33,900
@@ -2540,7 +2540,7 @@ I think she would cheer.
 00:26:59,000 --> 00:27:01,100
 [EVE]
 But Mr. Richards and Mr. Sampson-
-ແຕ່ທ່ານ ຣິກຊາດສ໌ ແລະ ທ້າວ ແຊມຊອນ...
+ແຕ່ທ່ານ ຣິກແຊດແລະທ່ານ ແຊມສັນ -
 
 403
 00:27:01,600 --> 00:27:03,600
@@ -2558,7 +2558,7 @@ Then - would you talk to Mr. Fabian about it?
 00:27:08,100 --> 00:27:10,100
 [KAREN]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 406
 00:27:10,600 --> 00:27:12,600
@@ -3214,7 +3214,7 @@ Some snowy night in front of the fire... in the meantime, while we're on the sub
 00:34:34,650 --> 00:34:36,650
 [EVE]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 509
 00:34:37,150 --> 00:34:40,650
@@ -3756,7 +3756,7 @@ I just played it.
 00:40:20,000 --> 00:40:22,000
 [MARGO]
 Play it again.
-ຫຼິ້ນມັນອີກເທື່ອຫນຶ່ງ.
+ຫຼິ້ນອີກຄັ້ງເດີ້.
 
 595
 00:40:22,500 --> 00:40:24,950
@@ -4013,7 +4013,7 @@ She'd be a great help - read scripts, interview people you have to see, get rid 
 00:43:17,950 --> 00:43:19,950
 [MAX]
 Well...
-ດີ...
+ແມ່ນແລ້ວ...
 
 635
 00:43:20,450 --> 00:43:26,450
@@ -4645,7 +4645,7 @@ I mean, among other things, that it must have been a revelation to have your twe
 00:50:08,000 --> 00:50:10,000
 [LLOYD]
 That's beside the point.
-ນັ້ນແມ່ນຢູ່ຂ້າງຈຸດ.
+ນັ້ນແມ່ນບໍ່ສໍາຄັນເລີຍ.
 
 735
 00:50:10,500 --> 00:50:16,500
@@ -4916,7 +4916,7 @@ I will not calm down!
 00:53:04,100 --> 00:53:06,100
 [BILL]
 Don't calm down.
-ຢ່າສະຫງົບໃຈ.
+ຢ່າສະບາຍໃຈເດີ້.
 
 778
 00:53:06,600 --> 00:53:08,700
@@ -5241,7 +5241,7 @@ It's going to be a cozy weekend.
 00:56:37,100 --> 00:56:39,100
 [LLOYD]
 What is?
-ມັນເປັນຫຍັງ?
+ແມ່ນຫຍັງ?
 
 829
 00:56:39,600 --> 00:56:45,600
@@ -5316,7 +5316,7 @@ It was a cold weekend - outside and in. Bill didn't come at all. Margo didn't kn
 00:57:43,100 --> 00:57:45,100
 [KAREN]
 What time is it?
-ເວລາເທົ່າໃດ?
+ເວລາແມ່ນບໍ່?
 
 840
 00:57:45,600 --> 00:57:51,600
@@ -5538,7 +5538,7 @@ Do you want it on?
 01:00:06,100 --> 01:00:08,100
 [KAREN]
 It doesn't matter.
-ມັນບໍ່ສໍາຄັນ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 875
 01:00:08,600 --> 01:00:10,600
@@ -5854,7 +5854,7 @@ When you told me that whatever I became, it would be because of you-
 01:03:39,550 --> 01:03:41,550
 [BILL]
 Your make-up's a little heavy.
-ເຄື່ອງແຕ່ງກາຍຂອງທ່ານ ຫນັກ ຫນ້ອຍ ຫນຶ່ງ.
+ແມກເກີຂອງເຈົ້າແມ່ນໜັກເລັກນ້ອຍ.
 
 925
 01:03:42,050 --> 01:03:44,050
@@ -5897,7 +5897,7 @@ I'm only human, rumors to the contrary. And I'm as curious as the next man...
 01:04:01,200 --> 01:04:03,200
 [EVE]
 Find out.
-ຊອກຫາ.
+ຄົ້ນຄວ້າເດີ້.
 
 932
 01:04:03,700 --> 01:04:09,700
@@ -6285,7 +6285,7 @@ Why not read my column to pass the time? The minutes will fly like hours...  ...
 01:08:14,500 --> 01:08:16,500
 [KAREN]
 I just can't believe it.
-ຂ້ອຍພຽງແຕ່ບໍ່ເຊື່ອມັນໄດ້.
+ຂ້ອຍບໍ່ເຊື່ອໄດ້ເລີຍ.
 
 993
 01:08:17,000 --> 01:08:23,000
@@ -6367,7 +6367,7 @@ Eve.
 01:09:10,350 --> 01:09:12,350
 [KAREN]
 Eve?
-ເອວ?
+ເອວແມ່ນບໍ່?
 
 1006
 01:09:12,850 --> 01:09:18,850
@@ -6630,7 +6630,7 @@ The so-called art of acting is not one for which I have a particularly high rega
 01:12:19,050 --> 01:12:21,050
 [MARGO]
 Hear, hear...
-ຟັງ, ຟັງ...
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ...
 
 1046
 01:12:21,550 --> 01:12:27,550
@@ -6847,7 +6847,7 @@ Pass me the empty bottle. I may find her... why, look. There's Rasputin.
 01:14:43,300 --> 01:14:45,300
 [MARGO]
 Encore du champagne.
-ອີກເທື່ອຫນຶ່ງຂອງຊໍາປານີ.
+ແຊມປານີອີກເທື່ອໜຶ່ງ.
 
 1080
 01:14:45,800 --> 01:14:47,800
@@ -6896,7 +6896,7 @@ Karen, in all the years of our friendship, I have never let you go to the Ladies
 01:15:11,100 --> 01:15:13,100
 [KAREN]
 Well... all right.
-ດີ... ດີແລ້ວ.
+ແມ່ນແລ້ວ... ບໍ່ເປັນຫຍັງ.
 
 1088
 01:15:13,600 --> 01:15:15,600
@@ -7480,7 +7480,7 @@ I remember.
 01:21:23,400 --> 01:21:25,400
 [MARGO]
 You'll be there, won't you.
-ເຈົ້າຈະຢູ່ບ່ອນນັ້ນ, ແມ່ນບໍ.
+ເຈົ້າຈະມາແມ່ນບໍ່?
 
 1181
 01:21:25,900 --> 01:21:28,000
@@ -7757,7 +7757,7 @@ Are you that sure of tomorrow?
 01:24:32,250 --> 01:24:34,250
 [EVE]
 Aren't you?
-ເຈົ້າບໍ່ແມ່ນບໍ?
+ແມ່ນບໍ່?
 
 1224
 01:24:34,750 --> 01:24:36,750
@@ -7800,7 +7800,7 @@ Stars.
 01:24:53,950 --> 01:24:55,950
 [EVE]
 What time?
-ເວລາໃດ?
+ເວລາແມ່ນຫຍັງ?
 
 1231
 01:24:56,450 --> 01:24:58,450
@@ -8543,7 +8543,7 @@ Congratulations, Eve.
 01:33:36,500 --> 01:33:38,500
 [EVE]
 Thank you, Karen.
-ຂອບໃຈ, ຄາເຣນ.
+ຂອບໃຈແຄຣັນ.
 
 1346
 01:33:39,000 --> 01:33:45,000
@@ -8643,7 +8643,7 @@ Very well. I shall drop you and go on to the party. I have no intention of missi
 01:34:36,000 --> 01:34:38,000
 [EVE]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 1362
 01:34:38,500 --> 01:34:40,500
@@ -8793,7 +8793,7 @@ I'll just pick up the broken glass.
 01:36:00,100 --> 01:36:02,100
 [EVE]
 Don't bother.
-ຢ່າກັງວົນ.
+ບໍ່ຕ້ອງຫ່ວງເລີຍ.
 
 1386
 01:36:02,600 --> 01:36:06,100
@@ -8847,7 +8847,7 @@ You rest. I'll get it...
 01:36:27,900 --> 01:36:29,900
 [ADDISON]
 Hello, there. Who are you?
-ສະບາຍດີ, ຢູ່ບ່ອນນັ້ນ. ເຈົ້າເປັນໃຜ?
+ສະບາຍດີ ເຈົ້າແມ່ນໃຜ?
 
 1395
 01:36:30,400 --> 01:36:34,950
@@ -8885,13 +8885,13 @@ And what is your name?
 01:36:50,000 --> 01:36:52,000
 [GIRL]
 Phoebe.
-ຟີເບີ.
+ຟີບີ.
 
 1401
 01:36:52,500 --> 01:36:54,500
 [ADDISON]
 Phoebe?
-ຟີເບີ?
+ຟີບີແມ່ນບໍ່?
 
 1402
 01:36:55,000 --> 01:36:57,000

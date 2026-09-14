@@ -67,7 +67,7 @@ You weren't supposed to tell them.
 00:00:55,600 --> 00:00:57,600
 [TEACHER]
 Pardon me?
-ຂໍໂທດຂ້ອຍບໍ?
+ຂໍໂທດບໍ່?
 
 12
 00:00:58,100 --> 00:01:03,700
@@ -173,7 +173,7 @@ Are you okay? Mary grasps for breath, struggles to speak.
 00:02:14,900 --> 00:02:16,900
 [MARY]
 Water.
-ນໍ້າ.
+ນ້ ໍາ.
 
 28
 00:02:17,400 --> 00:02:22,300
@@ -397,7 +397,7 @@ Exactly.
 00:05:04,350 --> 00:05:06,350
 [HARTMAN]
 Al Qaeda connection?
-ການເຊື່ອມໂຍງກັບອາລຄາອີດາບໍ?
+ມີສາຍພົວພັນກັບອາລໄຄດາບໍ່?
 
 62
 00:05:06,850 --> 00:05:08,850
@@ -660,7 +660,7 @@ Mary, hi. I'm Steve. She puts up a finger - "just a second". She turns around an
 00:08:01,450 --> 00:08:03,450
 [MRS. HOROWITZ]
 And how's your mother?
-ແລະແມ່ຂອງເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີແມ່ເຈົ້າບໍ່?
 
 103
 00:08:03,950 --> 00:08:07,100
@@ -809,7 +809,7 @@ And I have no problem with that whatsoever. She kisses his neck. He looks up wit
 00:09:49,150 --> 00:09:51,150
 [MARY]
 Steve?
-ສຕິວ?
+ສະຕິວບໍ່?
 
 126
 00:09:51,650 --> 00:09:53,650
@@ -1184,7 +1184,7 @@ Interesting way to go.
 00:14:13,150 --> 00:14:15,150
 [MARY]
 Indeed.
-ແທ້ຈິງແລ້ວ.
+ແມ່ນແລ້ວ.
 
 184
 00:14:15,650 --> 00:14:19,850
@@ -1422,7 +1422,7 @@ Abe, Catherine, I'm off. I don't know where I'm going - The Greyhound Bus DRIVER
 00:17:22,800 --> 00:17:24,800
 [DRIVER]
 Dallas.
-ດາລັສ.
+ດາລາສ
 
 220
 00:17:25,300 --> 00:17:31,300
@@ -1990,7 +1990,7 @@ Mind if I ask you a few questions on camera?
 00:24:44,250 --> 00:24:46,250
 [HOWARD]
 Me?
-ຂ້ອຍບໍ?
+ຂ້ອຍແມ່ນບໍ່?
 
 306
 00:24:46,750 --> 00:24:49,900
@@ -2222,7 +2222,7 @@ She's on me what, thirty seconds after meeting me, and the chick will not shut u
 00:27:31,400 --> 00:27:33,400
 [ANGUS]
 Wherever news goes...
-ທຸກບ່ອນທີ່ຂ່າວໄປ...
+ບໍ່ວ່າຂ່າວຈະໄປໃສ...
 
 342
 00:27:33,900 --> 00:27:39,900
@@ -3085,7 +3085,7 @@ I'm not. It's more like picking travel destinations based on where you happen to
 00:38:06,200 --> 00:38:08,200
 [STEVE]
 Stalking.
-ການຕິດຕາມ.
+ການຕາມລໍາບາກ.
 
 475
 00:38:08,700 --> 00:38:14,700
@@ -3098,7 +3098,7 @@ Hartman told me you wanted me here. Now that I am, what better opportunity for u
 00:38:15,200 --> 00:38:17,200
 [STEVE]
 This is crazy.
-ນີ້ແມ່ນໂຊກຮ້າຍ.
+ນີ້ແມ່ນຄວາມໂງ່ແທ້ໆ.
 
 477
 00:38:17,700 --> 00:38:19,700
@@ -3533,7 +3533,7 @@ Ridiculous? Mom! How many times did you propose to dad?
 00:43:48,300 --> 00:43:50,300
 [MRS. HOROWITZ MR. HOROWITZ]
 Twice. Seven times.
-ສອງຄັ້ງ. ເຈັດຄັ້ງ.
+ສອງເທື່ອ. ເຈັດເທື່ອ.
 
 543
 00:43:50,800 --> 00:43:56,800
@@ -3937,7 +3937,7 @@ You know what I'd call this?
 00:48:39,600 --> 00:48:41,600
 [HOWARD]
 Quagmire?
-ຄວາກມິຣ໌?
+Quagmire ແມ່ນບໍ່?
 
 605
 00:48:42,100 --> 00:48:44,200
@@ -4047,7 +4047,7 @@ Getting some fresh air. It helps my pores. Steve tries to grab the paper.
 00:49:53,350 --> 00:49:55,350
 [STEVE]
 Hughes!
-ຮູຈສ໌!
+ຮຸຍສ໌!
 
 622
 00:49:55,850 --> 00:49:57,850
@@ -4481,7 +4481,7 @@ That's a good sign right there. The Young Rescuer grabs the note.
 00:55:15,550 --> 00:55:17,550
 [RESCUE SUPERVISOR]
 What's it say?
-ມັນຂຽນວ່າແນວໃດ?
+ມັນຂຽນຫຍັງໄວ້?
 
 688
 00:55:18,050 --> 00:55:23,300

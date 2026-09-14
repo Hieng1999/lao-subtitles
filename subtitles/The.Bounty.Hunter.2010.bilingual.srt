@@ -81,7 +81,7 @@ You got a hundred bucks on you?
 00:00:51,750 --> 00:00:54,900
 [STEWART]
 Now are you gonna let me in on it?
-ດຽວນີ້ເຈົ້າຈະປ່ອຍໃຫ້ຂ້ອຍຮູ້ກ່ຽວກັບມັນບໍ?
+ດຽວນີ້ເຈົ້າຈະບອກຂ້ອຍບໍ່?
 
 15
 00:00:55,400 --> 00:00:58,900
@@ -1055,7 +1055,7 @@ I've had a lousy week, too. My cousin Linda fell off a cruise ship.
 00:10:36,350 --> 00:10:38,350
 [CASS]
 Oh. I'm sorry.
-ໂອ້. ຂ້ອຍຂໍໂທດ.
+ໂອ້ ຂໍໂທດເດີ.
 
 171
 00:10:38,850 --> 00:10:42,000
@@ -1100,7 +1100,7 @@ Wait a second: you're Milo. She talks about you all the time.
 00:11:07,000 --> 00:11:09,000
 [MILO]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 178
 00:11:09,500 --> 00:11:11,600
@@ -1468,7 +1468,7 @@ Hello, Milo.
 00:14:53,650 --> 00:14:55,650
 [MILO]
 Fancy meeting you here.
-ດີໃຈທີ່ພົບເຈົ້າຢູ່ນີ້.
+ສະບາຍດີທີ່ໄດ້ພົບກັນຢູ່ນີ້.
 
 236
 00:14:56,150 --> 00:14:58,150
@@ -1560,7 +1560,7 @@ What I do is, I track down criminals. People who jumped bail. Idiots who decided
 00:15:40,250 --> 00:15:42,700
 [CASS]
 Now, hold on just a second, Milo...
-ດຽວນີ້, ລໍຖ້າພຽງແຕ່ວິນາທີຫນຶ່ງ, ມິໂລ...
+ແມ່ນແລ້ວ, ລໍຖ້າດົນໜຶ່ງເດີ້, ໄມໂລ...
 
 251
 00:15:43,200 --> 00:15:49,200
@@ -1747,7 +1747,7 @@ I'm at the Atlantic City Boardwalk. Actually, I'm in the trunk of my ex- husband
 00:17:30,450 --> 00:17:32,450
 [JIMMY]
 I'm...
-ຂ້ອຍ...
+ຂ້ອຍແມ່ນ...
 
 281
 00:17:32,950 --> 00:17:34,950
@@ -1936,7 +1936,7 @@ Son of a...
 00:19:29,900 --> 00:19:31,900
 [OW...]
 40.
-40.
+ສີ່ສິບ.
 
 311
 00:19:32,400 --> 00:19:34,400
@@ -1984,7 +1984,7 @@ Get in the car.
 00:19:50,100 --> 00:19:52,100
 [CASS]
 Your windshield's cracked.
-ປ່ອງຢ້ຽມທາງອາກາດຂອງທ່ານແຕກແລ້ວ.
+ແວ່ນລົມຂອງເຈົ້າແມ່ນແຕກແລ້ວ.
 
 319
 00:19:52,600 --> 00:19:54,600
@@ -2296,7 +2296,7 @@ We used to be together. Back when I was young and foolish.
 00:22:35,950 --> 00:22:37,950
 [CASS]
 And I was confused.
-ແລະຂ້ອຍສັບສົນ.
+ແລະຂ້ອຍກໍ່ບໍ່ເຂົ້າໃຈເລີຍ.
 
 370
 00:22:38,450 --> 00:22:40,450
@@ -2564,7 +2564,7 @@ Alrightee, then. Cheers.
 00:25:25,150 --> 00:25:27,250
 [CASS]
 Can I have some privacy, please?
-ຂ້ອຍສາມາດມີຄວາມເປັນສ່ວນຕົວໄດ້ບໍ, ກະລຸນາ?
+ຂໍຄວາມເປັນສ່ວນຕົວແດ່ບໍ່?
 
 413
 00:25:27,750 --> 00:25:29,850
@@ -2777,7 +2777,7 @@ Both of you go this time, and make sure you get the right guy. I don't have time
 00:27:11,400 --> 00:27:13,400
 [STEWART]
 What about me?
-ຂ້ອຍແນວໃດ?
+ຂ້ອຍແມ່ນບໍ່?
 
 448
 00:27:13,900 --> 00:27:17,750
@@ -2885,7 +2885,7 @@ Speed up!
 00:28:19,950 --> 00:28:23,100
 [MILO]
 Would you just calm down for a second and...
-ເຈົ້າຈະສະຫງົບໃຈພຽງຊົ່ວຄາວແລະ...
+ສະບາຍໃຈບໍ່ສອງວິນາທີໜຶ່ງ ແລະ...
 
 465
 00:28:23,600 --> 00:28:29,200
@@ -3046,7 +3046,7 @@ Nope.
 00:29:59,300 --> 00:30:01,300
 [MILO]
 Stripper?
-ນັກສຕຣີປ໌ບໍ?
+ສະຕຣີປເກີບໍ່?
 
 491
 00:30:01,800 --> 00:30:07,050
@@ -3319,7 +3319,7 @@ The garage is closed for the night. Guess you'll have to wait til tomorrow.
 00:32:50,550 --> 00:32:52,550
 [MAHLER]
 Guess not.
-ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ.
+ຂ້ອຍຄິດບໍ່.
 
 534
 00:32:53,050 --> 00:32:55,050
@@ -3465,7 +3465,7 @@ Don't tell me to take it easy, now we have to go all the way downstairs again...
 00:34:07,650 --> 00:34:09,650
 [MAID]
 What's the name?
-ຊື່ວ່າແນວໃດ?
+ຊື່ແມ່ນຫຍັງ?
 
 558
 00:34:10,150 --> 00:34:12,150
@@ -3577,7 +3577,7 @@ Whatever. You wait by the door. And I'll handle this.
 00:35:11,000 --> 00:35:13,000
 [CASS]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 576
 00:35:13,500 --> 00:35:16,300
@@ -3789,7 +3789,7 @@ Can I help you?  Wait, it can't be...
 00:37:18,600 --> 00:37:20,600
 [DAWN]
 Edmund, come quick!
-ແອດມອນດ໌, ມາໄວ!
+ແອດມັນດ໌ ມາໄວໆເດີ້!
 
 610
 00:37:21,100 --> 00:37:23,100
@@ -3820,7 +3820,7 @@ What a lovely surprise. It's been, what, 3 years?
 00:37:32,250 --> 00:37:34,250
 [MILO]
 Has it?
-ມັນມີບໍ?
+ແມ່ນບໍ່?
 
 615
 00:37:34,750 --> 00:37:36,750
@@ -3968,7 +3968,7 @@ How is everything? Is it like that magical night 3 years ago?
 00:38:57,550 --> 00:38:59,550
 [CASS]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 639
 00:39:00,050 --> 00:39:02,050
@@ -4037,7 +4037,7 @@ I told everyone you like to wear my panties.
 00:39:39,800 --> 00:39:41,800
 [MILO]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 650
 00:39:42,300 --> 00:39:48,250
@@ -4618,7 +4618,7 @@ Nothing. I had her add mayo to your burger. I remember you like that.
 00:45:18,300 --> 00:45:20,300
 [MILO]
 Oh.  Thanks.
-ໂອ້ ຂອບໃຈ.
+ແມ່ນແລ້ວ. ຂອບໃຈເດີ.
 
 743
 00:45:20,800 --> 00:45:26,800
@@ -4796,13 +4796,13 @@ You know what? I think I'll get a real job. Work at Kinko's. Or Burger King. Tha
 00:47:10,200 --> 00:47:12,300
 [RAY]
 Hey. Who the fuck are you?
-ເຮ້. ເຈົ້າເປັນໃຜ?
+ສະບາຍດີ ເຈົ້າແມ່ນໃຜ?
 
 771
 00:47:12,800 --> 00:47:14,800
 [JIMMY]
 Nobody.
-ບໍ່ມີໃຜ.
+ບໍ່ໃຜເລີຍ.
 
 772
 00:47:15,300 --> 00:47:19,150
@@ -5258,7 +5258,7 @@ No. I'm not...
 00:51:42,700 --> 00:51:44,700
 [MILO]
 Ok, just don't...
-ດີ, ພຽງແຕ່ຢ່າ...
+ແມ່ນແລ້ວ, ພຽງແຕ່ບໍ່...
 
 845
 00:51:45,200 --> 00:51:47,200
@@ -5463,7 +5463,7 @@ Can you just get us out of here, please?
 00:53:51,800 --> 00:53:53,800
 [CASS]
 Umph...
-ອູມຟ໌...
+ໂອ້...
 
 878
 00:53:54,300 --> 00:53:56,300
@@ -5499,7 +5499,7 @@ Uh, yeah. I can see the bomb. Now we get up.
 00:54:08,650 --> 00:54:10,650
 [CASS]
 Did you throw it?
-ເຈົ້າຖິ້ມມັນບໍ?
+ເຈົ້າໄດ້ຖິ້ມບໍ່?
 
 884
 00:54:11,150 --> 00:54:13,150
@@ -5560,7 +5560,7 @@ No. I'm fucking with you. For fun. Just for my own personal enjoyment...
 00:54:40,450 --> 00:54:42,450
 [CASS]
 Ok, Ok.
-ດີ, ດີ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 894
 00:54:42,950 --> 00:54:44,950
@@ -5705,7 +5705,7 @@ See ya.
 00:55:54,650 --> 00:55:56,650
 [CASS]
 Oh. Ok.
-ໂອ້. ດີ.
+ໂອ້ ບໍ່ເປັນຫຍັງ
 
 918
 00:55:57,150 --> 00:55:59,250

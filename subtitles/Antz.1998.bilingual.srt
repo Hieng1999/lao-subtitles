@@ -324,7 +324,7 @@ I felt the same way before I got married.  Confused.  Scared.
 00:03:49,800 --> 00:03:51,800
 [BALA]
 You did?
-ເຈົ້າເຮັດບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 52
 00:03:52,300 --> 00:03:58,300
@@ -494,7 +494,7 @@ I'm the Princess, aren't I?
 00:05:40,800 --> 00:05:42,800
 [HANDMAIDEN #2]
 Of course --
-ແນ່ນອນວ່າ...
+ແມ່ນແລ້ວ...
 
 79
 00:05:43,300 --> 00:05:45,400
@@ -593,13 +593,13 @@ Are you sure this is a real dance?
 00:06:37,700 --> 00:06:39,700
 [BALA]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 95
 00:06:40,200 --> 00:06:42,200
 [BALA]
 You're right!
-ເຈົ້າເວົ້າຖືກຕ້ອງ!
+ແມ່ນແລ້ວ!
 
 96
 00:06:42,700 --> 00:06:48,650
@@ -612,7 +612,7 @@ Why can't I just do whatever I want to do?  Why can't I just go wild?! Yahoo!
 00:06:49,150 --> 00:06:51,150
 [SOLDIER]
 Hey!  Watch your step, worker.
-ເຮ້! ລະວັງຂັ້ນຕອນຂອງທ່ານ, ຄົນງານ.
+ສະບາຍດີ! ລະມັດລະວັງເດີ້, ຄົນງານ.
 
 98
 00:06:51,650 --> 00:06:55,850
@@ -710,7 +710,7 @@ Maybe I'll get lucky.  You know, Z, I wouldn't do this for anyone but you...
 00:07:43,550 --> 00:07:45,550
 [WEAVER]
 Wear this.
-ໃສ່ສິ່ງນີ້.
+ນຸ່ງແບບນີ້ເດີ້.
 
 114
 00:07:46,050 --> 00:07:48,050
@@ -891,7 +891,7 @@ Light it up!
 00:09:50,150 --> 00:09:52,150
 [COLONEL]
 They're here!!!
-ພວກເຂົາຢູ່ບ່ອນນີ້!!!
+ພວກເຂົາມາແລ້ວ!!!
 
 142
 00:09:52,650 --> 00:09:54,650
@@ -1031,7 +1031,7 @@ Who said you could have a chat? You're not a chatter, you're a digger!  So shut 
 00:11:19,300 --> 00:11:21,300
 [AZTECA]
 Leave him alone!  He's new.
-ຢ່າມາຍຸ້ງກັບລາວ! ລາວເປັນຄົນໃຫມ່.
+ຢ່າເວົ້າຫຍັງກັບລາວເດີ້! ລາວແມ່ນຄົນໃໝ່.
 
 164
 00:11:21,800 --> 00:11:27,400
@@ -1102,7 +1102,7 @@ Poor Z -- I should never have let you go!
 00:12:08,850 --> 00:12:11,650
 [ONE TO NOTHING!  WE WIN!]
 The band strikes up again, and everyone cheers.
-ກຸ່ມດົນຕີໂຈມຕີອີກຄັ້ງ, ແລະທຸກຄົນຊົມເຊີຍ.
+ແບນດ໌ໄດ້ໂຈມຕີອີກເທື່ອໜຶ່ງ, ແລະທຸກຄົນໄດ້ສະແດງຄວາມຍິນດີ.
 
 175
 00:12:12,150 --> 00:12:18,150
@@ -1153,7 +1153,7 @@ Well she better -- she's engaged to one.  Me!
 00:12:46,900 --> 00:12:48,900
 [FORMICA]
 Affirmative.
-ຢືນຢັນ.
+ແມ່ນແລ້ວ.
 
 183
 00:12:49,400 --> 00:12:55,400
@@ -2062,7 +2062,7 @@ Mandible's muscles bulge.  The veins in his head throb.  This is one ass-kicking
 00:21:57,050 --> 00:21:59,150
 [MANDIBLE]
 Let's MOVE!  GO, people!  GO!  GO!
-ໄປເຄື່ອນຍ້າຍ! ໄປ, ປະຊາຊົນ! ໄປ! ໄປ. ໄປ!
+ສະບາຍດີ! ໄປເດີ້, ປະຊາຊົນ! ໄປເດີ! ໄປ!
 
 328
 00:21:59,650 --> 00:22:05,250
@@ -2155,7 +2155,7 @@ You held onto this all that time?
 00:22:48,050 --> 00:22:50,050
 [BEETLE]
 Hey Z!
-ເຮ້ Z!
+ສະບາຍດີ Z!
 
 343
 00:22:50,550 --> 00:22:56,550
@@ -2168,7 +2168,7 @@ Wanna bring back dessert?  There's a thirty foot long blimp in the next can, mad
 00:22:57,050 --> 00:22:59,050
 [TRACKER ANT]
 Yesyesyesyesyes --
-ແມ່ນແລ້ວ ແມ່ນແລ້ວ...
+ແມ່ນແລ້ວ -
 
 345
 00:22:59,550 --> 00:23:01,550
@@ -2199,7 +2199,7 @@ What if, like...we're just these tiny little things, and we're just like part of
 00:23:16,450 --> 00:23:18,450
 [LADYBUG]
 Man...that's so deep...
-ຜູ້ຊາຍ... ມັນເລິກຫຼາຍ...
+ສະບາຍດີ... ນັ້ນແມ່ນຄວາມເລິກເຊິ່ງຫຼາຍ...
 
 350
 00:23:18,950 --> 00:23:24,950
@@ -2449,7 +2449,7 @@ Very well, General -- I know you -- all work and no play!
 00:25:48,700 --> 00:25:50,700
 [FORMICA]
 Alright, let's move out!
-ດີແລ້ວ, ໄປອອກໄປ!
+ແມ່ນແລ້ວ, ໄປເດີ້!
 
 390
 00:25:51,200 --> 00:25:55,050
@@ -2647,7 +2647,7 @@ No, I'm Z.
 00:27:39,400 --> 00:27:41,400
 [AZTECA]
 I'm Z!
-ຂ້ອຍເປັນ Z!
+ຂ້ອຍແມ່ນ Z!
 
 422
 00:27:41,900 --> 00:27:43,900
@@ -2754,5 +2754,5 @@ Sir, if it's any consolation, I still think you're completely worthless as an in
 00:28:43,700 --> 00:28:45,700
 [BALA]
 A few?
-ບາງຄົນບໍ?
+ບໍ່ຫຼາຍບໍ່?
 

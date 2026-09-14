@@ -29,7 +29,7 @@ It was very bitter. She said she was glad I knew, that she hated all the sneakin
 00:00:28,750 --> 00:00:30,750
 [D.A.]
 What was your response?
-ການຕອບໂຕ້ຂອງທ່ານແມ່ນຫຍັງ?
+ຄໍາຕອບຂອງເຈົ້າແມ່ນຫຍັງ?
 
 6
 00:00:31,250 --> 00:00:34,050
@@ -80,7 +80,7 @@ I went to a few bars first. Later, I decided to drive to Mr. Quentin's home and 
 00:01:06,050 --> 00:01:08,050
 [D.A.]
 With what intention?
-[ໄອຍະການ] ດ້ວຍຄວາມຕັ້ງໃຈໃດ?
+ດ້ວຍຈຸດປະສົງຫຍັງ?
 
 14
 00:01:08,550 --> 00:01:13,800
@@ -235,7 +235,7 @@ You strike me as a particularly icy and remorseless man, Mr. Dufresne. It chills
 00:02:58,000 --> 00:03:00,000
 [MAN #1]
 Sit.
-ນັ່ງລົງ.
+ນັ່ງເດີ້.
 
 38
 00:03:00,500 --> 00:03:05,050
@@ -280,7 +280,7 @@ So when Andy Dufresne came to me in 1949 and asked me to smuggle Rita Hayworth i
 00:03:30,850 --> 00:03:32,850
 [CON]
 Fresh fish! Fresh fish today!
-[CON] ປາສົດ! ປາສົດມື້ນີ້!
+ປາສົດໆໆໆ ມື້ນີ້!
 
 45
 00:03:33,350 --> 00:03:39,350
@@ -331,7 +331,7 @@ Comin' from you, Heywood, you being so pretty and all...
 00:04:06,250 --> 00:04:08,250
 [FLOYD]
 Takin' bets today, Red?
-[ຟລອຍດ໌] ການພະນັນມື້ນີ້ບໍ, Red?
+ເຈົ້າຈະພະນັນບໍ່ມື້ນີ້ເດີ້, Red?
 
 53
 00:04:08,750 --> 00:04:12,950
@@ -429,7 +429,7 @@ C'mon, boys, who's gonna prove me wrong?  Floyd, Skeet, Joe, Heywood. Four brave
 00:05:06,600 --> 00:05:08,600
 [HADLEY]
 Eyes front.
-[ ເຮດລີ] ຕາຕໍ່ຫນ້າ.
+ຕາຕໍ່ໜ້າ.
 
 69
 00:05:09,100 --> 00:05:15,100
@@ -875,7 +875,7 @@ Fair enough. A rock-hammer is about eight or nine inches long. Looks like a mini
 00:10:11,300 --> 00:10:13,300
 [RED]
 Rocks.
-[ສີແດງ] ຫີນ.
+ຫີນຫີນ.
 
 139
 00:10:13,800 --> 00:10:15,800
@@ -1012,7 +1012,7 @@ I understand. Thank you, Mr...?
 00:11:45,900 --> 00:11:47,900
 [RED]
 Red. The name's Red.
-[ສີແດງ] ສີແດງ. ຊື່ແມ່ນສີແດງ.
+ແຣດ. ຊື່ແມ່ນແຮດ.
 
 161
 00:11:48,400 --> 00:11:51,200
@@ -1063,7 +1063,7 @@ Andy was right. I finally got the joke. It would take a man about six hundred ye
 00:12:26,750 --> 00:12:28,750
 [RED]
 Dufresne.
-ດູຟເຣສນ໌.
+ດູຟເຣນ
 
 169
 00:12:29,250 --> 00:12:31,350
@@ -1761,7 +1761,7 @@ Me first.
 00:20:01,200 --> 00:20:03,200
 [ANDY]
 Okay.
-ແອນດີ້ ດີ.
+ແມ່ນແລ້ວ.
 
 279
 00:20:03,700 --> 00:20:05,800
@@ -3388,7 +3388,7 @@ Peter Stevens.
 00:38:33,350 --> 00:38:35,350
 [RED]
 Who?
-[ສີແດງ] ໃຜ?
+ແມ່ນໃຜ?
 
 532
 00:38:35,850 --> 00:38:41,850
@@ -3762,7 +3762,7 @@ That's crap, son. He's proud of you. Proud as a hen.  We been friends a long tim
 00:43:02,500 --> 00:43:04,500
 [TOMMY]
 Smart fella, ain't he?
-ຄົນສະຫຼາດ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ, ລາວແມ່ນຜູ້ຊາຍທີ່ສະຫຼາດບໍ່?
 
 590
 00:43:05,000 --> 00:43:09,200
@@ -3904,7 +3904,7 @@ Look, if it's the squeeze, don't worry. I'd never say what goes on in here. I'd 
 00:44:45,700 --> 00:44:51,700
 [NORTON]
 Don't you ever mention money to me again, you sorry son of a bitch! Not in this office, not anywhere!  Get in here! Now!
-ຂ້ອຍຢອກຊື່ໆ
+ຢ່າເວົ້າເຖິງເງິນກັບຂ້ອຍອີກເທື່ອໜຶ່ງ, ເຈົ້າໂຊກຮ້າຍທີ່ເສຍໃຈ! ບໍ່ຢູ່ໃນຫ້ອງການນີ້, ບໍ່ຢູ່ບ່ອນໃດ! ເຂົ້າມາບ່ອນນີ້! ດຽວນີ້!
 
 612
 00:44:52,200 --> 00:44:56,400
@@ -3961,7 +3961,7 @@ Since '47. Going on nineteen years.
 00:45:26,900 --> 00:45:28,900
 [MAIL CALLER]
 Thomas Williams!
-[ ໂທລະສັບອີເມວ] ໂຕມັສ ວິກິມັສ!
+ໂຕມັສ ວີລິມສ໌!
 
 621
 00:45:29,400 --> 00:45:31,400
@@ -4011,7 +4011,7 @@ Kid passed. C-plus average. Thought you'd like to know.
 00:45:53,700 --> 00:45:55,700
 [MERT]
 Warden wants to talk.
-ຜູ້ປົກຄອງຢາກເວົ້າ.
+ເຈົ້າໜ້າທີ່ຢາກເວົ້າກັນເດີ້.
 
 629
 00:45:56,200 --> 00:45:58,200
@@ -4296,7 +4296,7 @@ Sure I did. I mean why wouldn't I?
 00:49:16,100 --> 00:49:18,100
 [FLOYD]
 Christ! Remember Brooks Hatlen?
-[ຟລອຍດ໌] ພຣະຄຣິດ! ຈື່ບຣູສ ຮັດເລນບໍ?
+ພຣະຄຣິດ! ເຈົ້າຈື່ບໍ່ ບຣູຄສ໌ ແຮຕເລນບໍ່?
 
 673
 00:49:18,600 --> 00:49:21,400
@@ -4388,7 +4388,7 @@ Get my stuff down t'laundry. And shine my shoes. I want 'em lookin' like mirrors
 00:50:04,850 --> 00:50:06,850
 [GUARD]
 Open number twelve!
-[ເບິ່ງແຍງ] ເປີດເລກສິບສອງ!
+ເປີດເລກທີ 12!
 
 688
 00:50:07,350 --> 00:50:09,350
@@ -4445,13 +4445,13 @@ WHAT THE FUCK!
 00:50:40,600 --> 00:50:45,500
 [NORTON]
 I want every man on that cellblock questioned! Start with that friend of his!
-ຂ້ອຍຢອກຊື່ໆ
+ຂ້ອຍຢາກໃຫ້ທຸກຜູ້ຊາຍໃນຄຸກນັ້ນຖືກສອບຖາມ! ເລີ່ມຕົ້ນຈາກເພື່ອນລາວຄົນນັ້ນ!
 
 697
 00:50:46,000 --> 00:50:48,000
 [HADLEY]
 who?
-[ ເຮດລີ] ໃຜ?
+ແມ່ນໃຜ?
 
 698
 00:50:48,500 --> 00:50:50,500
@@ -4819,7 +4819,7 @@ Hal! Dave! Get your butts in here!
 00:55:11,200 --> 00:55:13,200
 [D.A.]
 Byron Hadley?
-ໄບຣອນ ຮາດລີ?
+ໄບຣອນ ແຮດລີແມ່ນບໍ່?
 
 755
 00:55:13,700 --> 00:55:19,700
@@ -4951,7 +4951,7 @@ Your file says you've served forty years of a life sentence. You feel you've bee
 00:56:57,900 --> 00:56:59,900
 [MAN #1]
 Shall I repeat the question?
-ຂ້ອຍຄວນຕອບຄໍາຖາມອີກບໍ?
+ຂ້ອຍຈະຖາມອີກບໍ່?
 
 775
 00:57:00,400 --> 00:57:06,400
@@ -5050,7 +5050,7 @@ Things got different out here.
 00:58:06,850 --> 00:58:12,850
 [P.O.]
 Tell me about it. Young punks protesting the war. You imagine? Even my own kid. Oughtta bust his fuckin' skull.
-ຂ້ອຍຢອກຊື່ໆ
+ບອກຂ້ອຍກ່ຽວກັບມັນ. ພວກໂຊກຮ້າຍໄວໜຸ່ມປະທ້ວງສົງຄາມ. ເຈົ້າຄິດບໍ່? ເຖິງແມ່ນວ່າລູກຂອງຂ້ອຍເອງ. ຄວນຈະທໍາລາຍຫົວຂອງລາວ.
 
 790
 00:58:13,350 --> 00:58:15,350

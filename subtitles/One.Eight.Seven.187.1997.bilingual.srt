@@ -102,7 +102,7 @@ The purpose of the bicycle is to demonstrate the principle of centripetal force.
 00:01:15,400 --> 00:01:17,400
 [VOICE IN THE CROWD]
 Magnum force.
-ກໍາລັງມະຫາສານ.
+ຄວາມເຂັ້ມແຂງສູງສຸດ.
 
 18
 00:01:17,900 --> 00:01:23,900
@@ -339,7 +339,7 @@ Hey, I'm on your side, Garfield, but my hands are tied. Kid has a right to his p
 00:03:51,050 --> 00:03:53,050
 [TREVOR]
 What's wrong with that?
-ມີຫຍັງຜິດກັບມັນ?
+ນັ້ນແມ່ນຫຍັງບໍ່ດີ?
 
 55
 00:03:53,550 --> 00:03:59,550
@@ -364,7 +364,7 @@ Tell you what, as soon as I get a chance I'll summons the kid. Promise.
 00:04:08,400 --> 00:04:10,400
 [TREVOR]
 Morning...
-ຕອນເຊົ້າ...
+ສະບາຍດີ...
 
 59
 00:04:10,900 --> 00:04:15,450
@@ -915,7 +915,7 @@ Roosevelt Whitney? Didn't some teacher get stabbed to death there last year?
 00:09:43,150 --> 00:09:45,150
 [TREVOR]
 Actually, he survived.
-ໃນຄວາມເປັນຈິງ, ລາວໄດ້ລອດຊີວິດ.
+ແມ່ນແລ້ວ, ລາວຍັງລອດຊີວິດຢູ່.
 
 147
 00:09:45,650 --> 00:09:51,650
@@ -1130,7 +1130,7 @@ Yeah...  ... Ellen.
 00:11:57,000 --> 00:11:59,000
 [ELLENA]
 Trevor.
-ເທຣເວອຮໍ
+ທຣີເວີ.
 
 181
 00:11:59,500 --> 00:12:02,650
@@ -1758,7 +1758,7 @@ You've read Animal Farm?
 00:18:22,450 --> 00:18:24,450
 [CESAR]
 ... schoolgirl.
-ເດັກຍິງໂຮງຮຽນ.
+... ສາວນັກຮຽນ.
 
 281
 00:18:24,950 --> 00:18:26,950
@@ -1837,7 +1837,7 @@ Rita, give Cesar your book.    Let 'im read.
 00:19:04,050 --> 00:19:06,050
 [CESAR]
 Forget it.
-ລືມມັນໄປ.
+ລືມເລີຍ.
 
 294
 00:19:06,550 --> 00:19:08,550
@@ -1935,7 +1935,7 @@ Where'd that come from, sir?
 00:19:56,600 --> 00:19:58,600
 [TREVOR]
 A doctor.
-ເປັນຫມໍ.
+ແມ່ນໝໍ.
 
 310
 00:19:59,100 --> 00:20:02,600
@@ -2034,7 +2034,7 @@ I've been meaning to come by your room.
 00:21:00,050 --> 00:21:02,050
 [ELLEN]
 You okay?
-ເຈົ້າດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 326
 00:21:02,550 --> 00:21:06,400
@@ -2268,7 +2268,7 @@ Some gangbanger might think we're violating his civil rights...
 00:23:30,500 --> 00:23:32,500
 [HYLAND]
 Sorry, Iris. Completely forgot.
-ຂໍໂທດ, ໄອຣິສ. ລືມຢ່າງສົມບູນ.
+ສະບາຍດີ ໄອຣີສ. ຂ້ອຍລືມໝົດແລ້ວ.
 
 363
 00:23:33,000 --> 00:23:39,000
@@ -2587,7 +2587,7 @@ Put your clothes on, Rita.
 00:26:40,600 --> 00:26:42,700
 [TREVOR]
 No harm done... Don't cry now.
-ບໍ່ມີຄວາມເສຍຫາຍທີ່ເກີດຂຶ້ນ... ຢ່າຮ້ອງໄຫ້ດຽວນີ້.
+ບໍ່ເປັນຫຍັງເລີຍ... ຢ່າຮ້ອງໄຫ້ເດີ້.
 
 414
 00:26:43,200 --> 00:26:49,200
@@ -2869,7 +2869,7 @@ So, how's Jack?
 00:29:12,750 --> 00:29:14,750
 [TREVOR]
 ... Jack's good.
-ແຈກດີ.
+ແຈກບໍ່ເປັນຫຍັງ.
 
 460
 00:29:15,250 --> 00:29:18,750
@@ -2966,7 +2966,7 @@ Don't beat yourself up too much. It was an accident. He was probably after a cat
 00:30:01,800 --> 00:30:03,800
 [TREVOR]
 It's aspirin...
-ມັນເປັນອາສປິນ...
+ແມ່ນແອສປີຣິນ...
 
 476
 00:30:04,300 --> 00:30:10,300
@@ -3004,13 +3004,13 @@ I know about what's not fair. I left part of my lung in a damn hospital because 
 00:30:24,800 --> 00:30:26,800
 [ELLEN]
 Trevor?
-ເທຣເວອຮໍ
+ທເຣວໍແມ່ນບໍ່?
 
 482
 00:30:27,300 --> 00:30:29,300
 [ELLEN]
 Trevor?
-ເທຣເວອຮໍ
+ທເຣວໍແມ່ນບໍ່?
 
 483
 00:30:29,800 --> 00:30:31,900
@@ -3276,7 +3276,7 @@ So you like hip-hop, Mr. G?
 00:32:57,950 --> 00:32:59,950
 [TREVOR]
 ... I hate it.
-ຂ້ອຍກຽດຊັງມັນ.
+... ຂ້ອຍບໍ່ມັກເລີຍ.
 
 526
 00:33:00,450 --> 00:33:02,550
@@ -3970,7 +3970,7 @@ I live right up here off Chandler. I'll buy you a drink.
 00:40:27,900 --> 00:40:30,700
 [TREVOR]
 I better get goin'. Thanks for the soda.
-ຂ້ອຍຄວນໄປ. ຂອບໃຈ ສໍາ ລັບໂຊດາ.
+ຂ້ອຍຕ້ອງໄປແລ້ວ. ຂອບໃຈທີ່ໃຫ້ໂຊດາ.
 
 635
 00:40:31,200 --> 00:40:34,000
@@ -4048,7 +4048,7 @@ Haven't you ever just wanted to blow one of these little bastards away?
 00:41:25,150 --> 00:41:27,150
 [TREVOR]
 You're drunk.
-ເຈົ້າດື່ມແລ້ວ.
+ເຈົ້າແມ່ນເມົາແລ້ວ.
 
 647
 00:41:27,650 --> 00:41:31,150
@@ -4186,7 +4186,7 @@ He ain't done nuthin' tuh me. That boy's fulla shit. What's he been sayin'?
 00:42:49,950 --> 00:42:51,950
 [TREVOR]
 Doesn't matter.
-ມັນບໍ່ສໍາຄັນ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 669
 00:42:52,450 --> 00:42:58,450
@@ -4496,7 +4496,7 @@ I'm sayin' you're a fool.
 00:45:50,200 --> 00:45:52,200
 [STEVIE]
 Don't do it!
-ຢ່າເຮັດມັນ!
+ຢ່າທໍາແບບນັ້ນເດີ້!
 
 719
 00:45:52,700 --> 00:45:57,250

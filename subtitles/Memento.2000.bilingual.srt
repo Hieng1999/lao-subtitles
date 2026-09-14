@@ -364,7 +364,7 @@ So you're holding my calls?
 00:03:28,650 --> 00:03:30,650
 [BURT]
 As requested.
-ຕາມຄໍາຮ້ອງຂໍ.
+ຕາມທີ່ຂໍໄວ້.
 
 61
 00:03:31,150 --> 00:03:33,250
@@ -567,7 +567,7 @@ It is tough. Almost impossible. I'm sorry I can't remember you. It's not persona
 00:05:18,750 --> 00:05:20,750
 [NATALIE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 94
 00:05:21,250 --> 00:05:23,250
@@ -668,7 +668,7 @@ Deals?
 00:06:24,750 --> 00:06:26,750
 [NATALIE]
 It's isolated.
-ມັນໂດດດ່ຽວ.
+ແມ່ນແລ້ວ, ມັນຖືກແຍກຕ່າງຫາກ.
 
 110
 00:06:27,250 --> 00:06:29,700
@@ -778,7 +778,7 @@ This isn't my room?
 00:07:23,550 --> 00:07:25,550
 [BURT]
 No, let's go.
-ບໍ່, ໄປ.
+ບໍ່ ແມ່ນແລ້ວ, ໄປເດີ້.
 
 128
 00:07:26,050 --> 00:07:28,150
@@ -1165,7 +1165,7 @@ Sorry. It's only me.
 00:11:35,650 --> 00:11:37,650
 [NATALIE]
 Sleep okay?
-ນອນດີບໍ?
+ນອນບໍ່ເປັນຫຍັງບໍ່?
 
 189
 00:11:38,150 --> 00:11:40,150
@@ -1228,7 +1228,7 @@ I'm helping you because you helped me.
 00:12:17,400 --> 00:12:19,400
 [LEONARD]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 199
 00:12:19,900 --> 00:12:23,750
@@ -1355,7 +1355,7 @@ I came to you straight after he did it. I showed you what he'd done and asked fo
 00:13:38,650 --> 00:13:40,750
 [LEONARD]
 So I just take your word?
-ສະນັ້ນຂ້ອຍພຽງແຕ່ເຊື່ອຄໍາຫມັ້ນສັນຍາຂອງທ່ານບໍ?
+ສະນັ້ນຂ້ອຍຈະເຊື່ອຄໍາເວົ້າຂອງເຈົ້າບໍ່?
 
 219
 00:13:41,250 --> 00:13:43,250
@@ -1374,7 +1374,7 @@ Something feels wrong. I think someone's fucking with me. Trying to get me to ki
 00:13:50,250 --> 00:13:52,250
 [NATALIE]
 Did you?
-ເຈົ້າເຮັດບໍ?
+ແມ່ນບໍ່?
 
 222
 00:13:52,750 --> 00:13:54,750
@@ -1474,7 +1474,7 @@ It's... it must be for when I've found him.		 * * She looks at Leonard. Leonard 
 00:14:50,100 --> 00:14:52,100
 [LEONARD]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 238
 00:14:52,600 --> 00:14:54,600
@@ -1492,7 +1492,7 @@ What happened?
 00:14:57,600 --> 00:15:00,750
 [NATALIE]
 He went to meet somebody and didn't come back.
-ລາວໄປພົບຄົນຫນຶ່ງແລະບໍ່ໄດ້ກັບມາ.
+ລາວໄດ້ໄປພົບກັບໃຜແລະບໍ່ກັບມາເລີຍ.
 
 241
 00:15:01,250 --> 00:15:03,350
@@ -1628,7 +1628,7 @@ What's your name?
 00:16:17,000 --> 00:16:19,000
 [MAN]
 Dodd.
-ດອດດ໌.
+ດອດ.
 
 263
 00:16:19,500 --> 00:16:21,500
@@ -1813,7 +1813,7 @@ Fuck you. We shoulda taken his car.
 00:18:00,600 --> 00:18:02,600
 [LEONARD]
 What's wrong with this one?
-ມີຫຍັງຜິດກັບຄົນນີ້?
+ມີຫຍັງບໍ່ດີກັບແບບນີ້ແມ່ນບໍ່?
 
 293
 00:18:03,100 --> 00:18:05,100
@@ -1934,7 +1934,7 @@ Don't be too hard on yourself.
 00:18:58,450 --> 00:19:00,450
 [LEONARD]
 Seat belt.
-ສາຍແອວບ່ອນນັ່ງ.
+ສາຍແອວຄວາມປອດໄພ.
 
 313
 00:19:00,950 --> 00:19:03,050
@@ -2213,7 +2213,7 @@ Lenny, as a buddy, let me inform you. Your business here is very much finished. 
 00:21:33,550 --> 00:21:35,550
 [LEONARD]
 Who's she?
-ນາງເປັນໃຜ?
+ນາງແມ່ນໃຜ?
 
 358
 00:21:36,050 --> 00:21:39,550
@@ -2760,7 +2760,7 @@ You don't know, do you? You're blissfully ignorant, aren't you?
 00:27:09,800 --> 00:27:11,800
 [LEONARD]
 I have this condition -
-ຂ້ອຍມີສະພາບນີ້ -
+ຂ້ອຍມີເງື່ອນໄຂນີ້ -
 
 445
 00:27:12,300 --> 00:27:18,300
@@ -2924,7 +2924,7 @@ I'm gonna use you, you stupid fuck. I'm telling you now because I'll enjoy it mo
 00:28:49,550 --> 00:28:51,550
 [LEONARD]
 Don't say another fucking word!
-ຢ່າເວົ້າອີກເທື່ອຫນຶ່ງ!
+ຢ່າເວົ້າຫຍັງອີກເລີຍ!
 
 471
 00:28:52,050 --> 00:28:54,150
@@ -3066,7 +3066,7 @@ I know you said you didn't want any calls...
 00:30:15,400 --> 00:30:17,500
 [LEONARD]
 That's right I did, didn't I?
-ນັ້ນແມ່ນຄວາມຈິງທີ່ຂ້ອຍເຮັດ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ ຂ້ອຍແມ່ນແລ້ວ ແມ່ນບໍ່?
 
 494
 00:30:18,000 --> 00:30:22,550
@@ -3078,7 +3078,7 @@ Yeah, but there's a call for you from this guy. He's a cop.
 00:30:23,050 --> 00:30:25,050
 [LEONARD]
 A cop?
-ຕໍາຫຼວດບໍ?
+ເຈົ້າໜ້າທີ່ບໍ່?
 
 496
 00:30:25,550 --> 00:30:30,100
@@ -3139,7 +3139,7 @@ Sweet.
 00:30:57,950 --> 00:30:59,950
 [LEONARD]
 Dying.
-ການຕາຍ.
+ກໍາ ລັງຕາຍແລ້ວ.
 
 506
 00:31:00,450 --> 00:31:02,450
@@ -3254,7 +3254,7 @@ My boyfriend told me about you.
 00:31:54,800 --> 00:31:56,800
 [LEONARD]
 Who's your boyfriend?
-ເພື່ອນຊາຍຂອງທ່ານແມ່ນໃຜ?
+ແຟນຂອງເຈົ້າແມ່ນໃຜ?
 
 525
 00:31:57,300 --> 00:31:59,300
@@ -3279,7 +3279,7 @@ Are you Teddy?
 00:32:06,300 --> 00:32:08,300
 [LEONARD]
 My name's Leonard.							 *
-ຂ້ອຍຊື່ວ່າ ເລນອນດ໌. *
+ຂ້ອຍແມ່ນ ເລນອນດ໌ *
 
 529
 00:32:08,800 --> 00:32:10,800
@@ -3484,7 +3484,7 @@ Gimme the keys, I'll move the car.
 00:34:06,100 --> 00:34:08,200
 [LEONARD]
 It'll be alright for a minute.
-ມັນຈະດີດີສໍາລັບນາທີຫນຶ່ງ.
+ບໍ່ເປັນຫຍັງເລີຍດົນໜຶ່ງ.
 
 562
 00:34:08,700 --> 00:34:10,700
@@ -3502,7 +3502,7 @@ Lenny, I'll be back in a minute. I've got to get you some stuff.
 00:34:16,600 --> 00:34:18,700
 [TEDDY]
 Give us a minute, will ya?
-ໃຫ້ພວກເຮົາດົນຫນຶ່ງ, ເຈົ້າຈະເຮັດແນວໃດ?
+ໃຫ້ພວກເຮົາດົນໜຶ່ງເດີ້, ແມ່ນບໍ່?
 
 565
 00:34:19,200 --> 00:34:21,200
@@ -3659,7 +3659,7 @@ Wouldn't be appropriate.						*
 00:35:52,250 --> 00:35:54,250
 [JIMMY]
 Teddy?!
-ເທດດີບໍ?
+ເທດີແມ່ນບໍ່?
 
 590
 00:35:54,750 --> 00:35:56,750
@@ -4222,7 +4222,7 @@ To set yourself a puzzle you won't ever solve. You know how many towns, how many
 00:41:28,850 --> 00:41:30,850
 [LEONARD]
 Your name's Teddy.
-ເຈົ້າຊື່ວ່າເທດີ.
+ເຈົ້າແມ່ນເທດີ.
 
 681
 00:41:31,350 --> 00:41:37,350

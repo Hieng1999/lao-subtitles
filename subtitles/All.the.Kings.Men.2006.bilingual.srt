@@ -224,7 +224,7 @@ You the reporter that's been snoopin' around town?
 00:02:11,000 --> 00:02:13,000
 [JACK]
 Are you Tiny Duffy?
-ເຈົ້າເປັນດັຟຟີນ້ອຍບໍ?
+ເຈົ້າແມ່ນ ທິນນີ ດັບຟີບໍ່?
 
 38
 00:02:13,500 --> 00:02:15,500
@@ -292,7 +292,7 @@ Who isn't a commissioner?
 00:02:48,400 --> 00:02:50,400
 [DUFFY]
 He's the head man.
-ລາວເປັນຫົວຫນ້າ.
+ແມ່ນແລ້ວ, ລາວແມ່ນຫົວໜ້າ.
 
 49
 00:02:50,900 --> 00:02:54,050
@@ -513,7 +513,7 @@ This is my wife, Lucy, Mr. Burden.
 00:05:08,800 --> 00:05:10,800
 [JACK AND LUCY]
 How do you do?
-ເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີບໍ່?
 
 84
 00:05:11,300 --> 00:05:13,300
@@ -794,7 +794,7 @@ Yes. You've earned your vacation. You've been writing these like you really mean
 00:08:01,500 --> 00:08:03,500
 [JACK]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 129
 00:08:04,000 --> 00:08:10,000
@@ -807,7 +807,7 @@ I hadn't been home in a long time. Only a hundred and thirty miles from Kanoma C
 00:08:10,500 --> 00:08:12,500
 [JACK]
 Hello, Mother.
-ຮັສຕາ ລາວິສຕາ, ເບບີ້່.
+ສະບາຍດີ ແມ່.
 
 131
 00:08:13,000 --> 00:08:18,950
@@ -1118,7 +1118,7 @@ Anne, Burden's Landing is a place on the moon. It isn't real. It doesn't exist. 
 00:11:30,050 --> 00:11:32,050
 [ANNE]
 And do what?
-ແລະເຮັດຫຍັງ?
+ແລະຈະທໍາຫຍັງແດ່?
 
 180
 00:11:32,550 --> 00:11:38,500
@@ -1665,7 +1665,7 @@ Did it sound all right, Mr. Burden?
 00:17:15,200 --> 00:17:17,200
 [JACK]
 Fine, Willie, fine.
-ດີ, ວີລີ, ດີ.
+ແມ່ນແລ້ວ, ວີລີ, ແມ່ນແລ້ວ.
 
 267
 00:17:17,700 --> 00:17:19,700
@@ -1766,7 +1766,7 @@ Come in.
 00:18:19,150 --> 00:18:21,150
 [WILLIE]
 A great governor.
-ເຈົ້າແຂວງທີ່ຍິ່ງໃຫຍ່.
+ເປັນຜູ້ປົກຄອງທີ່ດີເລີດ.
 
 283
 00:18:21,650 --> 00:18:26,550
@@ -1810,7 +1810,7 @@ Nothing... except Willie here has been saying as how he's not going to be govern
 00:18:44,300 --> 00:18:46,300
 [SADIE]
 So you told him.
-ສະນັ້ນເຈົ້າຈຶ່ງບອກລາວ.
+ແມ່ນແລ້ວ ເຈົ້າບອກລາວແລ້ວ.
 
 290
 00:18:46,800 --> 00:18:49,600
@@ -1878,7 +1878,7 @@ Enough? He didn't even get anything out of it. Oh, they'd have paid you to take 
 00:19:22,750 --> 00:19:24,750
 [WILLIE]
 Is it true?
-ມັນເປັນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 301
 00:19:25,250 --> 00:19:27,700
@@ -1890,7 +1890,7 @@ He wants to know if it's true.
 00:19:28,200 --> 00:19:30,200
 [WILLIE]
 Is it true?
-ມັນເປັນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 303
 00:19:30,700 --> 00:19:32,700
@@ -2075,7 +2075,7 @@ But I am going to tell you a story. It's a funny story...
 00:21:18,650 --> 00:21:20,650
 [SADIE]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 333
 00:21:21,150 --> 00:21:23,150
@@ -2578,7 +2578,7 @@ That's the object. Not like when they beat up my boy Tom.
 00:26:39,950 --> 00:26:41,950
 [JACK]
 How is Tom?
-ໂຕມເປັນແນວໃດ?
+ທອມສະບາຍດີບໍ່?
 
 413
 00:26:42,450 --> 00:26:45,600
@@ -2701,7 +2701,7 @@ No. No, I don't play that way. I like you, boy. I always have. I'll tell you wha
 00:27:49,000 --> 00:27:51,800
 [JACK]
 You throw money around like it was money.
-ເຈົ້າຖິ້ມເງິນຢູ່ທົ່ວໄປຄືກັບວ່າມັນເປັນເງິນ.
+ເຈົ້າຈະຖິ້ມເງິນໄປມາແບບວ່າແມ່ນເງິນແທ້ໆ.
 
 433
 00:27:52,300 --> 00:27:55,450
@@ -3055,13 +3055,13 @@ I hate all women.
 00:31:38,750 --> 00:31:40,750
 [SADIE]
 Was she pretty?
-ນາງສວຍງາມບໍ?
+ນາງແມ່ນນາງງາມບໍ່?
 
 489
 00:31:41,250 --> 00:31:43,250
 [SADIE]
 Was she pretty?
-ນາງສວຍງາມບໍ?
+ນາງແມ່ນນາງງາມບໍ່?
 
 490
 00:31:43,750 --> 00:31:47,600
@@ -3343,7 +3343,7 @@ They're talking about impeachment proceedings.
 00:34:50,500 --> 00:34:52,500
 [WILLIE]
 Against who?
-ຕໍ່ຕ້ານໃຜ?
+ຕໍ່ກັບໃຜແມ່ນບໍ່?
 
 534
 00:34:53,000 --> 00:34:55,000
@@ -3367,7 +3367,7 @@ How true is it?
 00:35:00,600 --> 00:35:02,600
 [WILLIE]
 It's too true.
-ມັນເປັນຄວາມຈິງຫຼາຍ.
+ແມ່ນແລ້ວຫຼາຍ.
 
 538
 00:35:03,100 --> 00:35:06,600
@@ -3875,13 +3875,13 @@ Why? Because your uncle resigned?
 00:40:27,750 --> 00:40:30,200
 [STANTON]
 That's partly it. There are other things.
-ນັ້ນແມ່ນສ່ວນຫນຶ່ງຂອງມັນ. ມີສິ່ງອື່ນໆອີກ.
+ນັ້ນແມ່ນບາງສ່ວນແລ້ວ. ມີອີກຫຼາຍຢ່າງອີກດ້ວຍ.
 
 619
 00:40:30,700 --> 00:40:32,700
 [ANNE]
 What other things?
-ສິ່ງອື່ນໆໃດ?
+ອີກຫຍັງແດ່?
 
 620
 00:40:33,200 --> 00:40:35,200
@@ -3966,7 +3966,7 @@ But at least a hospital will be built, and the sick will be cared for.
 00:41:19,050 --> 00:41:21,050
 [STANTON]
 At what price?
-ລາຄາໃດ?
+ລາຄາແມ່ນຫຍັງ?
 
 634
 00:41:21,550 --> 00:41:23,550
@@ -4044,7 +4044,7 @@ Have some photostat copies made of these. I'll be back tomorrow for them.
 00:42:13,250 --> 00:42:15,250
 [JACK]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 646
 00:42:15,750 --> 00:42:17,750
@@ -4676,7 +4676,7 @@ I didn't say.
 00:48:49,900 --> 00:48:51,900
 [WILLIE]
 What business are you in?
-ເຈົ້າເຮັດທຸລະກິດຫຍັງ?
+ເຈົ້າແມ່ນອາຊີບຫຍັງ?
 
 747
 00:48:52,400 --> 00:48:54,400
@@ -4821,7 +4821,7 @@ Shut up!
 00:50:23,100 --> 00:50:27,650
 [WILLIE]
 Get that man out of here! Come on, get him out of here.
-ເອົາຜູ້ຊາຍຄົນນັ້ນອອກຈາກບ່ອນນີ້! ມາແລ້ວ, ເອົາລາວອອກຈາກບ່ອນນີ້.
+! ສະບາຍດີ, ເອົາລາວອອກຈາກບ່ອນນີ້ເດີ້.
 
 770
 00:50:28,150 --> 00:50:30,150
@@ -5761,7 +5761,7 @@ How many votes have we got?
 01:00:12,850 --> 01:00:14,850
 [SADIE]
 Eleven.
-ສິບຫນຶ່ງ.
+ສິບໜຶ່ງ.
 
 919
 01:00:15,350 --> 01:00:17,350
@@ -6441,7 +6441,7 @@ I'm frightened, Jack.
 01:07:16,000 --> 01:07:18,100
 [JACK]
 For who? Your brother, or Willie?
-ສໍາລັບໃຜ? ອ້າຍຂອງທ່ານ, ຫຼືວີລີ?
+ແມ່ນໃຜ? ແມ່ນອ້າຍຂອງເຈົ້າ ຫຼືແມ່ນວີລີ?
 
 1027
 01:07:18,600 --> 01:07:20,600
@@ -6561,7 +6561,7 @@ All right now. Everybody... that means everybody... let's let Willie know we're 
 01:08:32,150 --> 01:08:35,300
 [WANT WILLIE. WE WANT WILLIE.]
 The chant is picked up enthusiastically by the crowd.
-ການຮ້ອງເພງຖືກຮັບເອົາດ້ວຍຄວາມກະຕຸ້ນໃຈໂດຍຄົນຊົມເຊີຍ.
+ຄໍາຮ້ອງແມ່ນຖືກຮັບໂດຍຄວາມກະຕືລືລົ້ນໂດຍຝູງຊົນ.
 
 1046
 01:08:35,800 --> 01:08:41,800

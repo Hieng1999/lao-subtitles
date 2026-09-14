@@ -382,7 +382,7 @@ Can't argue with that! Give me a call tomorrow, let's go for coffee soon yeah?
 00:04:16,450 --> 00:04:18,450
 [LISA]
 Sure. Night.
-ແນ່ນອນ. ຄືນ.
+ແມ່ນແລ້ວ, ຄືນ.
 
 62
 00:04:18,950 --> 00:04:20,950
@@ -437,7 +437,7 @@ Seriously?
 00:04:45,700 --> 00:04:47,700
 [MIXTER]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 71
 00:04:48,200 --> 00:04:51,000
@@ -526,7 +526,7 @@ We work nights so today we'll just show you around, okay?
 00:05:35,450 --> 00:05:37,450
 [LISA]
 Okay, thank you.
-ດີ, ຂອບໃຈ.
+ແມ່ນແລ້ວ ຂອບໃຈເດີ.
 
 85
 00:05:37,950 --> 00:05:41,100
@@ -833,7 +833,7 @@ Well those aren't the strangest.
 00:09:07,150 --> 00:09:09,150
 [LISA]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 133
 00:09:09,650 --> 00:09:15,650
@@ -989,7 +989,7 @@ Do you want to grab a coffee?
 00:10:39,900 --> 00:10:41,900
 [LISA]
 Sure. 25.
-ແນ່ນອນ. 25.
+ແມ່ນແລ້ວ. 25.
 
 158
 00:10:42,400 --> 00:10:45,550
@@ -1257,7 +1257,7 @@ Sorry.
 00:13:18,500 --> 00:13:21,300
 [DELANEY]
 Don't worry about it. Better safe than sorry.
-ຢ່າກັງວົນກ່ຽວກັບມັນ. ດີກວ່າຄວາມປອດໄພກ່ວາຄວາມເສຍໃຈ.
+ບໍ່ຕ້ອງເປັນຫ່ວງ. ສະຫງົບດີກວ່າຄວາມເສຍໃຈ.
 
 201
 00:13:21,800 --> 00:13:24,250
@@ -1889,7 +1889,7 @@ A distraught Lisa rushes towards the exit.
 00:19:42,300 --> 00:19:44,300
 [DELANEY]
 What's wrong Lisa?
-ມີຫຍັງເກີດຂຶ້ນລີຊາ?
+ມີຫຍັງບໍ່ດີລີຊາ?
 
 303
 00:19:44,800 --> 00:19:50,800
@@ -1985,7 +1985,7 @@ Don't worry, it gets to everyone at first. But the last thing I want is for you 
 00:20:47,800 --> 00:20:49,900
 [LISA]
 Thank you. I really appreciate that.
-ຂອບໃຈ. ຂ້ອຍຍ້ອງຍໍມັນແທ້ໆ.
+ຂອບໃຈເດີ. ຂ້ອຍຂອບໃຈແທ້ໆ.
 
 318
 00:20:50,400 --> 00:20:52,400
@@ -2160,7 +2160,7 @@ Good. Now don't you got some cleaning to do somewhere?
 00:22:37,450 --> 00:22:39,450
 [LISA]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 346
 00:22:39,950 --> 00:22:42,750
@@ -2240,7 +2240,7 @@ I figure it'll wake me up a little.
 00:23:23,050 --> 00:23:25,500
 [NANCY]
 So what's wrong with the place? 50
-ສະນັ້ນມີຫຍັງຜິດກັບບ່ອນນັ້ນ? 50
+ແມ່ນແລ້ວ, ມີຫຍັງບໍ່ດີກັບບ່ອນນີ້? 50
 
 359
 00:23:26,000 --> 00:23:31,600
@@ -2431,7 +2431,7 @@ Well I need the money for starters. But now it feels like I need to find out mor
 00:25:30,600 --> 00:25:32,700
 [NANCY]
 Maybe you are crazy after all!
-ບາງທີເຈົ້າໂຊກຮ້າຍແທ້ໆ!
+ບາງທີແມ່ນແລ້ວ ເຈົ້າແມ່ນໂງ່ແທ້ໆ!
 
 389
 00:25:33,200 --> 00:25:39,200
@@ -2640,7 +2640,7 @@ I ain't saying your stupid pop, I'm telling you the truth! I was robbed god-damn
 00:27:38,950 --> 00:27:40,950
 [LOUISE]
 What the hell's going on??
-ເກີດຫຍັງຂຶ້ນ??
+ມີຫຍັງເກີດຂຶ້ນແມ່ນບໍ່?
 
 422
 00:27:41,450 --> 00:27:46,700
@@ -2679,7 +2679,7 @@ Don't you touch him!!
 00:28:06,300 --> 00:28:08,300
 [RONALD SENIOR]
 He needs some fuckin' discipline!!
-ລາວຕ້ອງການການຄວບຄຸມບາງຢ່າງ!!
+ລາວຕ້ອງມີວິໄນບາງຢ່າງເດີ້!!
 
 428
 00:28:08,800 --> 00:28:10,800
@@ -2864,7 +2864,7 @@ Honestly?
 00:29:54,550 --> 00:29:58,400
 [DELANEY]
 To be honest I don't believe in all that ghost stuff.
-ເພື່ອເປັນຄວາມຈິງໃຈຂ້ອຍບໍ່ເຊື່ອໃນສິ່ງທັງ ຫມົດ ນັ້ນ.
+ເວົ້າຈິງໆ ຂ້ອຍບໍ່ເຊື່ອເລື່ອງຈິດວິນຍານທັງ ໝົດ ນັ້ນເລີຍ.
 
 458
 00:29:58,900 --> 00:30:03,100
@@ -2985,7 +2985,7 @@ There's stories about the Native Americans being slaughtered on this land many y
 00:31:23,250 --> 00:31:25,250
 [LISA]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 477
 00:31:25,750 --> 00:31:31,750
@@ -3115,7 +3115,7 @@ So the legend has basis in historical fact?
 00:32:56,000 --> 00:32:58,000
 [GLORIA]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 497
 00:32:58,500 --> 00:33:04,500
@@ -3272,7 +3272,7 @@ Of course, come in.
 00:34:34,100 --> 00:34:36,550
 [MIXTER]
 What can I do for you Lisa?
-ຂ້ອຍສາມາດເຮັດຫຍັງໄດ້ ສໍາ ລັບເຈົ້າລີຊາ?
+ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ແນວໃດລີຊາ?
 
 522
 00:34:37,050 --> 00:34:43,000

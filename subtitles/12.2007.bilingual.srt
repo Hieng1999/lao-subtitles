@@ -61,7 +61,7 @@ Okay, we're going to have to go...
 00:00:52,000 --> 00:00:54,000
 [ALLEN]
 Okay, oh doctor.
-ໂອເຄ, ໂອ້ທ່ານຫມໍ.
+ແມ່ນແລ້ວ, ໂອ້ ດອກຕໍ.
 
 11
 00:00:54,500 --> 00:00:56,500
@@ -128,7 +128,7 @@ Like an entire solid month.
 00:01:28,700 --> 00:01:30,700
 [TALK SHOW HOST]
 Uh huh...
-Uh huh...
+ແມ່ນແລ້ວ...
 
 22
 00:01:31,200 --> 00:01:36,450
@@ -176,7 +176,7 @@ Hello...yeah...hold on. I can transfer you now.
 00:01:57,250 --> 00:01:59,250
 [TALK SHOW HOST]
 Are you there? Hello?
-ເຈົ້າຢູ່ທີ່ນັ້ນບໍ?
+ເຈົ້າຢູ່ບໍ່? ສະບາຍດີ?
 
 30
 00:01:59,750 --> 00:02:01,750
@@ -424,7 +424,7 @@ We'll just go home and we'll wait it out.
 00:04:25,150 --> 00:04:27,150
 [MARIE-NOEL]
 This place stinks!
-ສະຖານທີ່ນີ້ຊົ່ວຮ້າຍ!
+ບ່ອນນີ້ກິ່ນຫອມແທ້ໆ!
 
 70
 00:04:27,650 --> 00:04:29,650
@@ -730,7 +730,7 @@ Very quiet. Where you from?
 00:07:48,600 --> 00:07:50,600
 [AUGUST]
 Nashville.
-Nashville.
+ນາສວິລ
 
 118
 00:07:51,100 --> 00:07:53,100
@@ -813,7 +813,7 @@ Do you know why the apartment's only half per month of the going rate for this s
 00:08:40,500 --> 00:08:42,500
 [AUGUST.]
 No.
-ບໍ່.
+ບໍ່ ແມ່ນແລ້ວ.
 
 131
 00:08:43,000 --> 00:08:45,800
@@ -837,7 +837,7 @@ TONY, are you there, Tony! Tony! Tony!
 00:08:53,250 --> 00:08:55,350
 [TONY]
 Do you have a church key?
-ເຈົ້າມີກະແຈຂອງໂບດບໍ?
+ເຈົ້າມີປຸ່ມຂອງສາດສະໜາຈັກບໍ່?
 
 135
 00:08:55,850 --> 00:08:57,850
@@ -924,7 +924,7 @@ The is your meeting so why don't we get down to business.
 00:09:45,000 --> 00:09:47,000
 [DAVE]
 Sounds fine.
-ຟັງໄດ້ດີ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 149
 00:09:47,500 --> 00:09:52,750
@@ -1156,7 +1156,7 @@ Big Brother. Orwell! No, no, That's too recent.
 00:12:20,700 --> 00:12:22,700
 [DOOLITTLE]
 The situation is irreversible.
-ສະຖານະການນີ້ ບໍ່ສາມາດປ່ຽນໄດ້.
+ສະພາບການແມ່ນບໍ່ສາມາດຫັນຄືນໄດ້ເລີຍ.
 
 185
 00:12:23,200 --> 00:12:27,050
@@ -1238,7 +1238,7 @@ This thing with the surfers has become some sort of a cult. There have been a fe
 00:13:13,900 --> 00:13:15,900
 [TONY]
 Uh huh.
-Uh huh.
+ແມ່ນແລ້ວ.
 
 198
 00:13:16,400 --> 00:13:22,400
@@ -1287,7 +1287,7 @@ LA ເປັນແນວໃດ?
 00:13:38,000 --> 00:13:40,000
 [TONY]
 A dry hole.
-ຂຸມແຫ້ງແຫ້ງ.
+ເປັນຮູແຫ້ງ.
 
 206
 00:13:40,500 --> 00:13:46,500
@@ -1381,7 +1381,7 @@ I'm in the same situation you are. Moving or sitting still is the same thing, th
 00:14:44,200 --> 00:14:46,200
 [MARIE-NOEL]
 What about the government?
-ລັດ ຖະ ບານກໍເປັນແນວໃດ?
+ແລ້ວລັດຖະບານແມ່ນບໍ່?
 
 221
 00:14:46,700 --> 00:14:50,900
@@ -1394,7 +1394,7 @@ I think we can stall the government until the next gubernatorial election.
 00:14:51,400 --> 00:14:53,400
 [MARIE-NOEL]
 Forget it.
-ລືມມັນ.
+ລືມເລີຍ.
 
 223
 00:14:53,900 --> 00:14:58,800
@@ -1478,7 +1478,7 @@ I protest in advance any role where I am resolved as ineffective, irrelevant, ma
 00:15:51,050 --> 00:15:53,050
 [TONY]
 Good.
-ດີ.
+ແມ່ນແລ້ວ.
 
 236
 00:15:53,550 --> 00:15:59,550
@@ -1831,7 +1831,7 @@ Oh my god!  I can't fucking believe this! My car must have popped out of park!  
 00:19:17,800 --> 00:19:19,800
 [CAR MAN]
 Call 911!
-ໂທຫາ 911!
+ໂທ 911!
 
 293
 00:19:20,300 --> 00:19:26,300
@@ -1929,7 +1929,7 @@ In Maine, it's been frozen for two months.
 00:20:35,400 --> 00:20:37,400
 [AUNT DEBBIE]
 Why are you here anyway?
-ເຈົ້າມາເຮັດຫຍັງຢູ່ນີ້?
+ເຈົ້າແມ່ນຫຍັງຢູ່ບ່ອນນີ້ແມ່ນບໍ່?
 
 308
 00:20:37,900 --> 00:20:43,900
@@ -2139,13 +2139,13 @@ What are you doing?  You depraved person! Is that a client?  Get out of here!
 00:22:47,150 --> 00:22:49,150
 [TONY]
 Number 12.
-ອັນດັບ 12
+ໝາຍເລກ 12
 
 341
 00:22:49,650 --> 00:22:51,650
 [MORTICIAN]
 Mr. Peterson?
-ທ້າວເປີເຕີສັນ?
+ທ້າວ ເປຕສັນແມ່ນບໍ່?
 
 342
 00:22:52,150 --> 00:22:54,600
@@ -2207,7 +2207,7 @@ We should help him.
 00:23:24,650 --> 00:23:26,650
 [PAN]
 No.
-ບໍ່.
+ບໍ່ ແມ່ນແລ້ວ.
 
 352
 00:23:27,150 --> 00:23:33,150
@@ -2272,7 +2272,7 @@ No, don't.
 00:24:08,350 --> 00:24:10,350
 [WOMAN]
 There's gas leaking. Get out.
-ມັນມີນໍ້າມັນຮົ່ວໄຫລ ອອກໄປ
+ມີການຮົ່ວໄຫລຂອງແກັສ. ອອກໄປເດີ້.
 
 362
 00:24:10,850 --> 00:24:12,850
@@ -2340,7 +2340,7 @@ Holy shit, ນັ້ນແມ່ນ cousin ຂອງຂ້າພະເຈົ້�
 00:24:44,800 --> 00:24:46,800
 [SON]
 Where's the money Greg?
-ເງິນຢູ່ໃສ Greg?
+ເງິນແມ່ນຢູ່ໃສເດີ້ ແກຣກ?
 
 373
 00:24:47,300 --> 00:24:50,100
@@ -2358,7 +2358,7 @@ Maybe he isn't Greg. They said he was a big guy.
 00:24:54,950 --> 00:24:56,950
 [SON]
 Where's the money Greg?
-ເງິນຢູ່ໃສ Greg?
+ເງິນແມ່ນຢູ່ໃສເດີ້ ແກຣກ?
 
 376
 00:24:57,450 --> 00:24:59,900
@@ -2413,7 +2413,7 @@ Is this 6600 Graintree?
 00:25:23,550 --> 00:25:25,550
 [ALLEN]
 Greentree!
-Greentree!
+ກຣີນຕຣີ!
 
 385
 00:25:26,050 --> 00:25:28,050
@@ -2425,7 +2425,7 @@ What?
 00:25:28,550 --> 00:25:30,550
 [ALLEN]
 Greentree!
-Greentree!
+ກຣີນຕຣີ!
 
 387
 00:25:31,050 --> 00:25:33,850
@@ -2455,7 +2455,7 @@ You guys do sloppy work.
 00:25:42,750 --> 00:25:45,550
 [RADIO]
 The New York Daily news says.. 1200 people
-ຂ່າວໃນຫນັງສືພິມ New York Daily ເວົ້າວ່າ... ປະຊາຊົນ 1,200 ຄົນ
+ຂ່າວໃນໜັງສືພິມນິວຢອກເດລີເວົ້າວ່າ.. 1200 ຄົນ
 
 392
 00:25:46,050 --> 00:25:49,200
@@ -2654,7 +2654,7 @@ I've heard that before.
 00:27:29,250 --> 00:27:31,250
 [BARRY]
 Do you want this?
-ເຈົ້າຕ້ອງການສິ່ງນີ້ບໍ?
+ເຈົ້າຢາກບໍ່?
 
 424
 00:27:31,750 --> 00:27:35,950
@@ -2721,7 +2721,7 @@ See you Allen. Aren't you going in the actor's entrance?
 00:28:07,200 --> 00:28:12,800
 [ALLEN]
 They always bring us in the back door here but I'm going in the front today.
-ພວກເຮົາຍາມໃດກໍ່ເອົາປະຕູຫລັງເຂົ້າມາ ແຕ່ມື້ນີ້ຂ້ອຍຈະເຂົ້າໄປທາງຫນ້າ
+ພວກເຂົາມາເອົາພວກເຮົາມາທາງຫຼັງຢູ່ບ່ອນນີ້ສະເໝີ ແຕ່ຂ້ອຍຈະໄປທາງໜ້າມື້ນີ້.
 
 435
 00:28:13,300 --> 00:28:19,300
@@ -2740,7 +2740,7 @@ Should I take that personally?
 00:28:22,300 --> 00:28:24,400
 [ALLEN]
 Take it how ever you'd like.
-ເອົາມັນໄປຕາມທີ່ທ່ານຕ້ອງການ.
+ເອົາມັນຕາມທີ່ເຈົ້າຢາກ.
 
 438
 00:28:24,900 --> 00:28:30,500
@@ -2826,7 +2826,7 @@ You're a pussy Barry.  Casting?
 00:29:08,800 --> 00:29:10,800
 [TONY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 452
 00:29:11,300 --> 00:29:13,400
@@ -3068,7 +3068,7 @@ Don't worry about it..Just a dead beat. We have to get out of here there's going
 00:31:33,950 --> 00:31:36,050
 [TENANT'S VOICE]
 Who checked the gas main, asshole!
-ຜູ້ໃດກວດກາແກັສຫຼັກ, asshole!
+ໃຜແມ່ນໃຜທີ່ໄດ້ກວດກາສາຍແກັສຫຼັກເດີ້, ສະບາຍດີ!
 
 491
 00:31:36,550 --> 00:31:42,550

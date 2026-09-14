@@ -233,7 +233,7 @@ My music mox!
 00:02:37,800 --> 00:02:39,800
 [TATIANA]
 Anastasia, no!
-ແອນາສຕາຊີຍ, ບໍ່!
+ແອນາສະຕາເຊຍ ບໍ່!
 
 39
 00:02:40,300 --> 00:02:42,300
@@ -571,7 +571,7 @@ Any line.
 00:05:50,200 --> 00:05:52,200
 [PEASANT 3]
 All lines are good lines.
-ເສັ້ນທັງ ຫມົດ ແມ່ນເສັ້ນທີ່ດີ.
+ທຸກສາຍແມ່ນສາຍດີໆ.
 
 94
 00:05:52,700 --> 00:05:54,700
@@ -891,7 +891,7 @@ She could be right under our nose
 00:08:46,750 --> 00:08:48,750
 [DMITRI]
 Ouch!  That really hurt!
-ໂອ້! ມັນເຈັບປວດຫຼາຍ!
+ໂອ້! ນັ້ນແມ່ນຄວາມເຈັບປວດແທ້ໆ!
 
 146
 00:08:49,250 --> 00:08:51,700
@@ -1063,7 +1063,7 @@ Anya is released from Nicholas' embrace.  He kisses her on the forehead and slow
 00:10:46,200 --> 00:10:48,200
 [DMITRI]
 Who are you?!
-ເຈົ້າເປັນໃຜ?!
+ເຈົ້າແມ່ນໃຜເດີ້?
 
 173
 00:10:48,700 --> 00:10:50,700
@@ -1177,7 +1177,7 @@ Perhaps it's because she has amnesia too - can't remember. . .
 00:12:05,450 --> 00:12:07,450
 [VLADIMIR]
 How much do you weigh?
-ເຈົ້າມີນ້ ໍາ ຫນັກ ຫຼາຍປານໃດ?
+ເຈົ້າມີນໍ້າໜັກເທົ່າໃດ?
 
 191
 00:12:07,950 --> 00:12:12,150
@@ -1659,7 +1659,7 @@ By pulling my hair?!
 00:17:29,800 --> 00:17:31,900
 [DMITRI]
 I was all out of dynamite!
-ຂ້ອຍຫມົດດິນາມິດແລ້ວ!
+ຂ້ອຍບໍ່ມີໄດນາມິດເລີຍ!
 
 267
 00:17:32,400 --> 00:17:36,950
@@ -2232,7 +2232,7 @@ Well, the only thing you've got when you've got a home is a fear of losing it! Y
 00:22:47,200 --> 00:22:49,200
 [ANYA]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 360
 00:22:49,700 --> 00:22:55,700
@@ -2476,7 +2476,7 @@ I'd just like to ask you a few questions, dear...
 00:25:20,200 --> 00:25:22,200
 [ANYA]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 399
 00:25:22,700 --> 00:25:24,700
@@ -2572,7 +2572,7 @@ But it's not	the money, Vlad.
 00:26:25,100 --> 00:26:27,100
 [VLADIMIR]
 Are you feeling all right?
-ເຈົ້າຮູ້ສຶກດີບໍ?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 414
 00:26:27,600 --> 00:26:32,850
@@ -2869,7 +2869,7 @@ I don't know! I don't want to hurt you...
 00:29:15,850 --> 00:29:17,850
 [TATIANA]
 Do you remember this?
-ເຈົ້າຈື່ສິ່ງນີ້ບໍ?
+ເຈົ້າບໍ່ຈໍາບໍ່?
 
 462
 00:29:18,350 --> 00:29:24,350

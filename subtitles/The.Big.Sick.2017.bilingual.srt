@@ -125,13 +125,13 @@ He might have been doing cocaine. 3
 00:01:25,150 --> 00:01:27,150
 [CJ]
 Was he doing cocaine recreationally?
-ລາວໃຊ້ໂກເກິນເພື່ອການພັກຜ່ອນບໍ?
+ລາວແມ່ນໃຊ້ໂກເກນເພື່ອຄວາມສຸກບໍ່?
 
 22
 00:01:27,650 --> 00:01:29,650
 [MARY]
 A true cokehead.
-ຄົນໂກເກຍທີ່ແທ້ຈິງ.
+ຄັອກແຄນແທ້ໆ.
 
 23
 00:01:30,150 --> 00:01:36,150
@@ -257,7 +257,7 @@ Did he say anything about me?
 00:02:49,450 --> 00:02:51,450
 [CJ]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 43
 00:02:51,950 --> 00:02:53,950
@@ -1097,7 +1097,7 @@ Thank you so much.
 00:11:27,450 --> 00:11:29,450
 [ZUBEIDA]
 The truth is out there!
-ຄວາມຈິງຢູ່ບ່ອນນັ້ນ!
+ຄວາມຈິງແມ່ນຢູ່ຂ້າງນອກແລ້ວ!
 
 177
 00:11:29,950 --> 00:11:32,050
@@ -1224,7 +1224,7 @@ How many women have you shown this movie to?
 00:13:01,300 --> 00:13:03,300
 [KUMAIL]
 Zero.
-ໂຊລ.
+ບໍ່ມີຫຍັງເລີຍ.
 
 197
 00:13:03,800 --> 00:13:09,400
@@ -1480,7 +1480,7 @@ But I thought you really liked it!
 00:15:27,700 --> 00:15:29,700
 [MARY]
 I really liked it.
-ຂ້ອຍມັກມັນຫຼາຍ.
+ຂ້ອຍມັກແທ້ໆ.
 
 238
 00:15:30,200 --> 00:15:32,650
@@ -1633,7 +1633,7 @@ Now all rise for the Pakistani national anthem.
 00:17:05,200 --> 00:17:07,200
 [EMILY]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 262
 00:17:07,700 --> 00:17:09,800
@@ -1734,7 +1734,7 @@ Yeah.
 00:18:05,450 --> 00:18:07,450
 [KUMAIL]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 278
 00:18:07,950 --> 00:18:09,950
@@ -1846,7 +1846,7 @@ This is normal. Girls go to get coffee in the middle of the night. Have you neve
 00:19:10,350 --> 00:19:12,350
 [KUMAIL]
 Are you okay? 29
-ເຈົ້າດີບໍ? 29
+ບໍ່ເປັນຫຍັງບໍ່? 29
 
 296
 00:19:12,850 --> 00:19:15,650
@@ -2034,7 +2034,7 @@ Acha.
 00:20:59,400 --> 00:21:01,400
 [KUMAIL]
 She's white.
-ນາງເປັນສີຂາວ.
+ນາງແມ່ນຜິວຂາວ
 
 326
 00:21:01,900 --> 00:21:07,900
@@ -2724,7 +2724,7 @@ Denise. This is your name in Urdu. 43
 00:28:38,950 --> 00:28:40,950
 [DENISE]
 Wow, that is so cool.
-ໂວ້, ມັນເຢັນຫຼາຍ.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນດີຫຼາຍ.
 
 434
 00:28:41,450 --> 00:28:43,450
@@ -2785,7 +2785,7 @@ So we'll see you guys up there. We'll be in touch.
 00:29:10,550 --> 00:29:12,550
 [CHRIS]
 What about C-Dog?
-C-Dog ຈະເປັນແນວໃດ?
+C-Dog ແມ່ນບໍ່?
 
 444
 00:29:13,050 --> 00:29:15,050
@@ -2803,7 +2803,7 @@ Um, me. What about me?
 00:29:18,050 --> 00:29:20,050
 [DALAVAN]
 You know, funny stuff, okay?
-ເຈົ້າຮູ້ແລ້ວ, ສິ່ງມ່ວນຊື່ນ, ດີບໍ?
+ແມ່ນແລ້ວ, ບາງສິ່ງບາງຢ່າງທີ່ມ່ວນໆ, ແມ່ນແລ້ວບໍ່?
 
 447
 00:29:20,550 --> 00:29:22,650
@@ -2833,7 +2833,7 @@ Kumail. It's Jessie.
 00:29:30,650 --> 00:29:32,650
 [KUMAIL]
 Hey.     Who?
-ເຮ້. ໃຜ?
+ສະບາຍດີ ໃຜ?
 
 452
 00:29:33,150 --> 00:29:37,350
@@ -2872,7 +2872,7 @@ Hi. I am looking for Emily Gardner. Um, Emily Gardner? She was checked in...
 00:29:58,750 --> 00:30:00,750
 [KUMAIL]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 458
 00:30:01,250 --> 00:30:03,250
@@ -3030,7 +3030,7 @@ You should call her family.
 00:31:41,150 --> 00:31:43,150
 [KUMAIL]
 I'm sorry. 48
-ຂ້ອຍຂໍໂທດ. 48
+ຂໍໂທດເດີ. 48
 
 483
 00:31:43,650 --> 00:31:49,650
@@ -3074,7 +3074,7 @@ Listen, the doctor will be here any minute. She's just running a little late. Do
 00:32:08,950 --> 00:32:10,950
 [TERRY]
 Okay. Thank you.
-ດີແລ້ວ. ຂອບໃຈ.
+ແມ່ນແລ້ວ ຂອບໃຈເດີ.
 
 490
 00:32:11,450 --> 00:32:13,550
@@ -3130,8 +3130,7 @@ We immediately initiated orotracheal intubation. Thankfully it hasn't affected h
 00:32:40,850 --> 00:32:46,850
 [DR. WHELAN]
 We don't know the exact nature of the infection yet, but we've got her on a broad spectrum of antibiotics.
-ພວກເຮົາຍັງບໍ່ຮູ້ລັກສະນະທີ່ແນ່ນອນຂອງການຕິດເຊື້ອເທື່ອ,
-ແຕ່ພວກເຮົາມີນາງຢູ່ໃນແຊກແຊງຂອງຢາຕ້ານເຊື້ອທີ່ກວ້າງຂວາງ.
+ພວກເຮົາຍັງບໍ່ຮູ້ລັກສະນະທີ່ແນ່ນອນຂອງການຕິດເຊື້ອເທື່ອ, ແຕ່ພວກເຮົາມີຢາຕ້ານເຊື້ອທີ່ກວ້າງຂວາງໃຫ້ນາງ.
 
 499
 00:32:47,350 --> 00:32:49,450
@@ -3298,7 +3297,7 @@ I got another Taco Bell one...
 00:34:34,350 --> 00:34:36,350
 [BETH]
 Did you forget something?
-ເຈົ້າລືມບາງສິ່ງບາງຢ່າງບໍ?
+ເຈົ້າລືມຫຍັງບໍ່?
 
 525
 00:34:36,850 --> 00:34:38,850
@@ -3438,7 +3437,7 @@ Hey, can I come?
 00:36:02,800 --> 00:36:04,800
 [BETH]
 Whatever.
-ເຖິງຢ່າງໃດກໍ່ຕາມ.
+ບໍ່ວ່າແມ່ນຫຍັງ.
 
 547
 00:36:05,300 --> 00:36:11,300
@@ -3613,7 +3612,7 @@ Kumail.
 00:37:51,750 --> 00:37:53,750
 [KUMAIL]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 575
 00:37:54,250 --> 00:38:00,250
@@ -3888,7 +3887,7 @@ A few, a few. What's your name, sir?
 00:40:47,550 --> 00:40:49,550
 [TERRY]
 Terry.
-ເທອຮໍຣີ
+ເທີຣີ
 
 619
 00:40:50,050 --> 00:40:55,300
@@ -3901,7 +3900,7 @@ Terry. And who's this lady next to you? Is it Cloth? A little Terry Cloth?
 00:40:55,800 --> 00:40:57,800
 [BETH]
 It's Beth.
-ມັນເປັນເບັດ.
+ແມ່ນແບທ
 
 621
 00:40:58,300 --> 00:41:01,450
@@ -4383,7 +4382,7 @@ Okay. I lied about the show to get out of hanging out with you guys. And then I 
 00:45:50,600 --> 00:45:52,600
 [BETH]
 Well that didn't work.
-ດີນັ້ນບໍ່ໄດ້ເຮັດວຽກ.
+ແມ່ນແລ້ວ ມັນບໍ່ໄດ້ຜົນເລີຍ.
 
 698
 00:45:53,100 --> 00:45:56,250
@@ -4402,7 +4401,7 @@ Yeah, you did.  I don't know how people do it when their family's sick. My Uncle
 00:46:03,250 --> 00:46:05,250
 [KUMAIL]
 Cancer? 70
-ມະເຮັງບໍ? 70
+ແຄນເຊີ 70
 
 701
 00:46:05,750 --> 00:46:11,750
@@ -4652,7 +4651,7 @@ Nothing. I wasn't doing anything.
 00:48:35,350 --> 00:48:37,350
 [SHARMEEN]
 Kumail.
-ຄູມາອິນ.
+ຄູມາແມລ
 
 741
 00:48:37,850 --> 00:48:41,350
@@ -4665,7 +4664,7 @@ Alright, I'll tell you. I was... studying for the LSAT.
 00:48:41,850 --> 00:48:43,850
 [SHARMEEN]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 743
 00:48:44,350 --> 00:48:50,350
@@ -5096,7 +5095,7 @@ Kumail. We're looking into everything. We're not holding anything back from you.
 00:53:40,550 --> 00:53:43,350
 [KUMAIL]
 Cause Beth wants to move her to Northwestern.
-ເພາະເບັດຢາກຍ້າຍນາງໄປ Northwestern.
+ເພາະແບທຢາກຍ້າຍນາງໄປທີ່ໂນທ ເວສເຕີນ.
 
 810
 00:53:43,850 --> 00:53:49,850
@@ -5183,7 +5182,7 @@ Hey I talked to Nurse Judy, and she was saying that moving Emily could be a bad 
 00:54:32,250 --> 00:54:34,250
 [TERRY]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 824
 00:54:34,750 --> 00:54:37,200
@@ -5195,7 +5194,7 @@ Yeah, she said it could be dangerous.
 00:54:37,700 --> 00:54:39,700
 [KUMAIL]
 Like...
-ເຊັ່ນວ່າ...
+ຄືກັບ...
 
 826
 00:54:40,200 --> 00:54:46,200
@@ -5423,7 +5422,7 @@ What are you doing here?
 00:56:58,400 --> 00:57:00,500
 [SHARMEEN]
 What is wrong with you, Kumi?
-ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ, ຄູມີ?
+ເຈົ້າມີຫຍັງບໍ່ດີ, ຄູມີ?
 
 862
 00:57:01,000 --> 00:57:03,450
@@ -5460,7 +5459,7 @@ Okay. So?
 00:57:18,500 --> 00:57:20,500
 [SHARMEEN]
 So?
-ສະນັ້ນ?
+ແມ່ນແລ້ວບໍ່?
 
 868
 00:57:21,000 --> 00:57:23,800
@@ -5778,7 +5777,7 @@ I'll just ring you up for four burgers.
 01:00:50,750 --> 01:00:52,750
 [KUMAIL]
 I'm sorry. 91
-ຂ້ອຍຂໍໂທດ. 91
+ຂໍໂທດເດີ. 91
 
 918
 01:00:53,250 --> 01:00:56,400
@@ -6021,7 +6020,7 @@ Honey, we'll be right outside.
 01:03:20,800 --> 01:03:22,800
 [KUMAIL]
 Hey. 96
-ເຮ້. 96
+ສະບາຍດີ 96
 
 957
 01:03:23,300 --> 01:03:29,300
@@ -6109,7 +6108,7 @@ Naw dog. I'm not joking. You're not funny to me. You just make me sad. You make 
 01:04:17,100 --> 01:04:19,200
 [EMILY]
 Will you please get my mom?
-ເຈົ້າຂໍຮ້ອງເອົາແມ່ຂອງຂ້ອຍບໍ?
+ເຈົ້າຈະເອົາແມ່ຂ້ອຍມາບໍ່?
 
 971
 01:04:19,700 --> 01:04:21,700
@@ -6271,7 +6270,7 @@ There's not enough room in the car, probably. We leave in a week, all right? And
 01:06:09,250 --> 01:06:11,250
 [MARY]
 Your destiny awaits!
-ຈຸດຫມາຍປາຍທາງຂອງທ່ານລໍຖ້າ!
+ຄາດໝາຍຂອງເຈົ້າກໍາລັງລໍຖ້າ!
 
 996
 01:06:11,750 --> 01:06:17,000
@@ -6342,7 +6341,7 @@ Hey, can we talk for a second?
 01:06:54,800 --> 01:06:56,800
 [EMILY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 1007
 01:06:57,300 --> 01:07:03,300
@@ -6545,7 +6544,7 @@ Hey guys, I think I might just pop out for a bit.
 01:09:24,400 --> 01:09:26,400
 [TERRY]
 By yourself?
-ດ້ວຍຕົວເອງບໍ?
+ເຈົ້າເອງບໍ່?
 
 1038
 01:09:26,900 --> 01:09:30,750
@@ -6629,7 +6628,7 @@ Yeah. I mean, yeah.
 01:10:07,150 --> 01:10:09,150
 [KUMAIL]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 1052
 01:10:09,650 --> 01:10:11,650
@@ -6784,7 +6783,7 @@ I'm moving to New York.
 01:11:32,300 --> 01:11:34,300
 [EMILY]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1077
 01:11:34,800 --> 01:11:40,400
@@ -6908,7 +6907,7 @@ You are still kicked out of the family, but because we did not get a proper chan
 01:12:45,600 --> 01:12:47,600
 [KUMAIL]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 1097
 01:12:48,100 --> 01:12:51,250
@@ -7030,7 +7029,7 @@ Yeah, and now you're getting more laughs than me, and I don't like that. Do you 
 01:14:07,450 --> 01:14:09,450
 [EMILY]
 Chicago.
-ຊິຄາໂກ.
+ຊິກາໂກ
 
 1116
 01:14:09,950 --> 01:14:13,450

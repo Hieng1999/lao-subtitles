@@ -2,7 +2,7 @@
 00:00:10,000 --> 00:00:12,000
 [BATMAN]
 Screenplay by
-ຮູບເງົາໂດຍ
+ບົດສະແດງໂດຍ
 
 2
 00:00:12,500 --> 00:00:14,500
@@ -310,7 +310,7 @@ No offense, boys, but these guys are seeing something up there.
 00:03:34,800 --> 00:03:36,900
 [ECKHARDT]
 No comment. Print what you like.
-ບໍ່ມີຄໍາເຫັນ. ພິມສິ່ງທີ່ທ່ານມັກ.
+ບໍ່ຕ້ອງມີຄໍາເຫັນເລີຍ. ພິມຕາມທີ່ເຈົ້າຕ້ອງການ.
 
 51
 00:03:37,400 --> 00:03:41,600
@@ -459,7 +459,7 @@ God, a girl could get hurt doing this.
 00:05:00,750 --> 00:05:02,750
 [VICKI]
 I do get hurt.
-ຂ້ອຍເຈັບປວດແທ້ໆ.
+ແມ່ນແລ້ວ ຂ້ອຍແມ່ນໄດ້ຮັບຄວາມເຈັບປວດ.
 
 75
 00:05:03,250 --> 00:05:05,250
@@ -925,7 +925,7 @@ Shoot to kill.
 00:09:53,900 --> 00:09:55,900
 [SAFECRACKER]
 ... Empty.
-... ເປົ່າ.
+... ບໍ່ມີຫຍັງເລີຍ.
 
 149
 00:09:56,400 --> 00:09:58,400
@@ -1513,7 +1513,7 @@ Nobody wants a war, Carmine. If we can't do business, we shake hands and part fr
 00:16:16,550 --> 00:16:18,550
 [ROTELLI]
 That's it?
-ນັ້ນແມ່ນມັນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 241
 00:16:19,050 --> 00:16:21,050
@@ -1525,7 +1525,7 @@ That's it.
 00:16:21,550 --> 00:16:23,550
 [CRIMELORD]
 ... You're insane!
-ເຈົ້າໂຊກຮ້າຍ!
+ເຈົ້າແມ່ນໂງ່ແລ້ວ!
 
 243
 00:16:24,050 --> 00:16:28,950
@@ -1597,7 +1597,7 @@ He blinks rapidly. He relaxes his grip. Before VICKI's eyes, he's changing... be
 00:17:14,300 --> 00:17:16,750
 [BRUCE]
 Oh my God... are you all right?
-ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ... ເຈົ້າດີບໍ?
+ສະບາຍດີ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 254
 00:17:17,250 --> 00:17:23,250
@@ -2215,7 +2215,7 @@ Are they ours?
 00:23:49,150 --> 00:23:51,150
 [GOON I]
 We got 'em!
-ພວກເຮົາຈັບພວກມັນແລ້ວ!
+ພວກເຮົາໄດ້ແລ້ວ!
 
 351
 00:23:51,650 --> 00:23:53,750
@@ -2227,7 +2227,7 @@ Take 'em! I want his head!
 00:23:54,250 --> 00:23:56,250
 [BATMAN]
 How much do you weigh?
-ເຈົ້າມີນ້ ໍາ ຫນັກ ຫຼາຍປານໃດ?
+ເຈົ້າມີນໍ້າໜັກເທົ່າໃດ?
 
 353
 00:23:56,750 --> 00:23:58,750
@@ -2294,7 +2294,7 @@ I dunno. You seen him before?
 00:24:27,000 --> 00:24:29,450
 [GOON III]
 Maybe he's got some kind of I.D.
-ບາງທີລາວມີໃບຢັ້ງຢືນບາງຢ່າງ.
+ບາງທີແມ່ນລາວມີເອກະສານປະຈໍາຕົວບາງຢ່າງ
 
 364
 00:24:29,950 --> 00:24:32,050
@@ -2520,7 +2520,7 @@ They used to terrify me. But I forced myself to keep coming back, and --  -- I g
 00:26:38,250 --> 00:26:40,250
 [VICKI]
 Who pays for all this?
-ໃຜຈ່າຍເງິນ ສໍາ ລັບສິ່ງທັງ ຫມົດ ນີ້?
+ໃຜຈະຈ່າຍຄ່າທັງ ໝົດ ນີ້ແມ່ນບໍ່?
 
 401
 00:26:40,750 --> 00:26:42,750
@@ -2681,7 +2681,7 @@ Not what?
 00:28:24,800 --> 00:28:26,800
 [VICKI]
 He's not crazy.
-ລາວບໍ່ແມ່ນຄົນໂຊກຮ້າຍ.
+ລາວບໍ່ໄດ້ໂງ່ເລີຍ.
 
 426
 00:28:27,300 --> 00:28:33,300
@@ -3141,7 +3141,7 @@ I've had an automatic tracer on this number ever since he tracked you to the mus
 00:33:35,400 --> 00:33:37,400
 [BRUCE]
 Got it!
-ຂ້ອຍເຂົ້າໃຈແລ້ວ!
+ແມ່ນແລ້ວ!
 
 498
 00:33:37,900 --> 00:33:39,900
@@ -3624,7 +3624,7 @@ VICKI climbs aboard. They drape the cape over the face of the spotlight. Then th
 00:38:55,550 --> 00:38:57,550
 [JOKER]
 No... NOOOOO!!!
-ບໍ່... NOOOOO!!!
+ບໍ່... ບໍ່!!!
 
 574
 00:38:58,050 --> 00:39:00,050
@@ -3643,7 +3643,7 @@ The JOKER'S GOONS are coming up fast as VICKI reaches the Ford, starts it, and c
 00:39:07,050 --> 00:39:09,050
 [VICKI]
 You okay?
-ເຈົ້າດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 577
 00:39:09,550 --> 00:39:11,650
@@ -3693,7 +3693,7 @@ You do him. I'm outta here.
 00:39:34,550 --> 00:39:36,550
 [VOICE]
 Yo.
-ໂຢ.
+ສະບາຍດີ.
 
 585
 00:39:37,050 --> 00:39:43,050

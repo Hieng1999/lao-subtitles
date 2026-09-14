@@ -14,13 +14,13 @@ Look!  Right there!  It's shining!
 00:00:15,000 --> 00:00:17,000
 [JACQUES]
 A coin.
-ເງິນກີບ.
+ສະກຸນເງິນ.
 
 4
 00:00:17,500 --> 00:00:19,500
 [FIRST BOY]
 I found it.
-ຂ້ອຍພົບມັນແລ້ວ.
+ຂ້ອຍໄດ້ພົບແລ້ວ.
 
 5
 00:00:20,000 --> 00:00:22,000
@@ -74,7 +74,7 @@ It's a small coin.
 00:00:42,050 --> 00:00:44,050
 [FIRST BOY]
 A Ferrari.
-ລົດຟາຣາຣີ.
+ແຟຣາຣີ.
 
 14
 00:00:44,550 --> 00:00:47,350
@@ -171,7 +171,7 @@ Count!
 00:01:33,350 --> 00:01:35,350
 [ROBERTO]
 1... 2... 3...
-1... 2... 3...
+1. 2. 3.
 
 30
 00:01:35,850 --> 00:01:37,850
@@ -416,7 +416,7 @@ Ten thousand.
 00:03:42,500 --> 00:03:44,500
 [SUPERVISOR]
 Lira?
-ລີຣາ?
+ລີລາແມ່ນບໍ່?
 
 70
 00:03:45,000 --> 00:03:47,000
@@ -933,7 +933,7 @@ You're back!  Hello.  We were burgled.
 00:08:45,500 --> 00:08:47,500
 [JOHANA]
 Again?
-ອີກເທື່ອຫນຶ່ງບໍ?
+ອີກບໍ່?
 
 153
 00:08:48,000 --> 00:08:50,000
@@ -983,7 +983,7 @@ So what, all they ever want is your phone number anyway.
 00:09:12,200 --> 00:09:14,200
 [SALLY]
 Well?
-ດີບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 161
 00:09:14,700 --> 00:09:16,700
@@ -1272,7 +1272,7 @@ Wait!  Professor...?
 00:12:09,650 --> 00:12:11,650
 [LAWRENCE]
 ... Yes?
-ແມ່ນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 207
 00:12:12,150 --> 00:12:18,150
@@ -1311,7 +1311,7 @@ The mafia!  La Cosa Nostra! Coppola!  De Niro...!  I knew it!  I knew we shouldn
 00:12:38,500 --> 00:12:40,500
 [DUFFY]
 What's happened??
-ເກີດຫຍັງຂຶ້ນ??
+ມີຫຍັງເກີດຂຶ້ນບໍ່?
 
 213
 00:12:41,000 --> 00:12:43,000
@@ -2010,7 +2010,7 @@ Very good.
 00:19:31,650 --> 00:19:33,650
 [ROBERTO]
 What about the shoes?
-ແລະເກີບແນວໃດ?
+ແລ້ວເກີບແມ່ນບໍ່?
 
 325
 00:19:34,150 --> 00:19:37,650
@@ -2584,7 +2584,7 @@ I don't understand.  We've tried for two days.  They won't eat.  They won't perf
 00:25:19,100 --> 00:25:21,100
 [JACQUES]
 Is she the new one?
-ນາງເປັນຄົນໃຫມ່ບໍ?
+ແມ່ນນາງແມ່ນຄົນໃໝ່ບໍ່?
 
 417
 00:25:21,600 --> 00:25:24,050
@@ -2608,7 +2608,7 @@ Did you ever think of trying the public pool?
 00:25:30,700 --> 00:25:32,700
 [JOHANA]
 He's a dolphin specialist.
-ລາວເປັນຜູ້ຊ່ຽວຊານດັລຟິນ.
+ລາວແມ່ນນັກຊ່ຽວຊານດອນຟິນ.
 
 421
 00:25:33,200 --> 00:25:38,100
@@ -2620,7 +2620,7 @@ In that case what's wrong with the new one?  Is she sick or not.
 00:25:38,600 --> 00:25:40,600
 [JACQUES]
 Not the way you mean.
-ບໍ່ແມ່ນວິທີທີ່ທ່ານຫມາຍຄວາມວ່າ.
+ບໍ່ແມ່ນແບບທີ່ເຈົ້າໝາຍຄວາມ.
 
 423
 00:25:41,100 --> 00:25:47,100
@@ -2837,7 +2837,7 @@ Don't you agree, Jacques?
 00:27:45,050 --> 00:27:47,150
 [JACQUES]
 ... You always were the best.
-ເຈົ້າເປັນຄົນທີ່ດີທີ່ສຸດຢູ່ສະເຫມີ.
+ເຈົ້າແມ່ນຄົນດີທີ່ສຸດສະເໝີ.
 
 458
 00:27:47,650 --> 00:27:49,650
@@ -2875,7 +2875,7 @@ No, I have to ask you a favor...  You're the only one who'll understand.
 00:28:07,050 --> 00:28:09,050
 [MAMMA MOLINARI]
 Tutto va bene?
-ທຸກຢ່າງດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 464
 00:28:09,550 --> 00:28:11,550
@@ -3513,7 +3513,7 @@ Thank you.
 00:34:13,900 --> 00:34:16,000
 [TECHNICIAN]
 Minus 800 feet.  End of descent.
-ຫຼຸດ 800 ຟຸດ. ທ້າຍຂອງການລົງ.
+- 800 ຟຸດ. ສິ້ນສຸດການຫຼຸດລົງ.
 
 567
 00:34:16,500 --> 00:34:18,950
@@ -3733,7 +3733,7 @@ You're right.  You're fired.
 00:36:24,300 --> 00:36:27,800
 [JOHANA]
 Will that interfere with my getting maternity leave?  I'm pregnant.
-ມັນຈະກີດຂວາງການອອກພັກການຖືພາຂອງຂ້ອຍບໍ? ຂ້ອຍຖືພາ.
+ນັ້ນຈະລົບກວນບໍ່ໃຫ້ຂ້ອຍໄດ້ຮັບວັນພັກແມ່ບໍ? ຂ້ອຍຖືພາແລ້ວ.
 
 602
 00:36:28,300 --> 00:36:30,300
@@ -3898,7 +3898,7 @@ I'm being a pain, huh?
 00:37:55,350 --> 00:37:57,350
 [JOHANA]
 You sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 629
 00:37:57,850 --> 00:37:59,850
@@ -4199,7 +4199,7 @@ You have eight hours before she gets here.
 00:40:47,700 --> 00:40:49,700
 [ENZO]
 He's really going totally deaf!
-ລາວ ກໍາ ລັງຫູຫນວກຢ່າງແທ້ຈິງ!
+ລາວກໍາລັງກາຍເປັນຄົນຫູໜວກແທ້ໆ!
 
 678
 00:40:50,200 --> 00:40:56,200
@@ -4212,7 +4212,7 @@ I'm not as deaf as you are blind, my boy!  You take care of your eyes, I'll take
 00:40:56,700 --> 00:40:58,700
 [ENZO]
 I'm sorry Uncle Louis.
-ຂ້ອຍຂໍໂທດແມວລູຍສ໌.
+ຂໍໂທດເດີ ພໍ່ເຖົ້າລູຍສ໌.
 
 680
 00:40:59,200 --> 00:41:04,100
@@ -4409,7 +4409,7 @@ Louis, we were French!
 00:42:48,350 --> 00:42:50,800
 [UNCLE LOUIS]
 That's different!  What's the matter with you?
-ນັ້ນແມ່ນແຕກຕ່າງກັນ! ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າ?
+ນັ້ນແມ່ນບໍ່ຄືກັນ! ເຈົ້າເປັນຫຍັງ?
 
 712
 00:42:51,300 --> 00:42:53,300
@@ -4550,7 +4550,7 @@ Yes...  Could you please give this to Enzo.
 00:44:02,700 --> 00:44:04,700
 [JOHANA]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 735
 00:44:05,200 --> 00:44:11,150
@@ -4594,7 +4594,7 @@ Not yet... I'm waiting for the right moment.
 00:44:29,850 --> 00:44:31,850
 [JACQUES]
 Good huh?
-ດີບໍ?
+ແມ່ນບໍ່?
 
 742
 00:44:32,350 --> 00:44:38,350
@@ -4918,7 +4918,7 @@ You told Bonita, but you didn't tell him, right?
 00:47:43,750 --> 00:47:45,750
 [ENZO]
 Don't.
-ຢ່າເຮັດ.
+ຢ່າທໍາແບບນັ້ນເດີ້.
 
 794
 00:47:46,250 --> 00:47:48,250
@@ -4937,7 +4937,7 @@ Because he won't understand and it will just hurt you... Jacques has been put on
 00:47:55,250 --> 00:47:57,250
 [JOHANA]
 Five minutes and fifty seconds.
-ຫ້ານາທີແລະສິບວິນາທີ.
+5 ນາທີ 50 ວິນາທີ.
 
 797
 00:47:57,750 --> 00:47:59,750
@@ -4988,7 +4988,7 @@ Do you ever sometimes just stop and think how sweet life can be?
 00:48:28,100 --> 00:48:30,100
 [JACQUES]
 ... Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 805
 00:48:30,600 --> 00:48:34,800
@@ -5246,7 +5246,7 @@ That's good... that's wonderful. It's wonderful for you.
 00:51:03,850 --> 00:51:05,850
 [JOHANA]
 You are the father.
-ເຈົ້າເປັນພໍ່.
+ເຈົ້າແມ່ນພໍ່ແລ້ວ.
 
 846
 00:51:06,350 --> 00:51:08,450

@@ -142,7 +142,7 @@ That's affirmative, Roy. Tether oh- niner-four-five is offline.
 00:02:02,350 --> 00:02:04,350
 [ROY MCBRIDE]
 Roger that.
-ເຂົ້າໃຈແລ້ວ.
+ແມ່ນແລ້ວ.
 
 23
 00:02:04,850 --> 00:02:07,300
@@ -585,7 +585,7 @@ Major, have you not been LISTENING?!? 20.
 00:07:19,550 --> 00:07:21,550
 [ROY MCBRIDE]
 Yessir.   It surely does.
-Yessir. ມັນແນ່ນອນວ່າເຮັດ.
+ແມ່ນແລ້ວ. ແມ່ນແລ້ວແນ່ນອນ.
 
 91
 00:07:22,050 --> 00:07:24,050
@@ -611,7 +611,7 @@ Like you, I was skeptical of his survival. But after reviewing the Neptune trans
 00:07:37,550 --> 00:07:39,550
 [ROY MCBRIDE]
 I will, sir.
-ຂ້ອຍຈະເຮັດ, ທ້າວ.
+ແມ່ນແລ້ວເດີເດີ.
 
 95
 00:07:40,050 --> 00:07:43,200
@@ -798,7 +798,7 @@ Good morning, Major.
 00:09:46,900 --> 00:09:48,900
 [ROY MCBRIDE]
 `Morning.
-ຕອນເຊົ້າ.
+ສະບາຍດີ.
 
 124
 00:09:49,400 --> 00:09:54,650
@@ -824,7 +824,7 @@ Of course...
 00:10:04,150 --> 00:10:07,650
 [MAN'S VOICE]
 Uplink should be ready to go in just a moment.
-Uplink ຄວນພ້ອມທີ່ຈະໄປໃນພຽງແຕ່ຊົ່ວຄາວຫນຶ່ງ.
+ການເຊື່ອມຕໍ່ທາງເທິງຄວນຈະພ້ອມແລ້ວທີ່ຈະເປີດໃຊ້ງານໃນເວລາບໍ່ດົນ.
 
 128
 00:10:08,150 --> 00:10:10,150
@@ -856,7 +856,7 @@ Point-to-point contact with the Mars signal is now engaged. Through the squawk b
 00:10:25,050 --> 00:10:27,050
 [ROY MCBRIDE]
 Roger that.
-ເຂົ້າໃຈແລ້ວ.
+ແມ່ນແລ້ວ.
 
 133
 00:10:27,550 --> 00:10:32,100
@@ -1179,7 +1179,7 @@ That's a negative, Hawk. They're still out there, behind us at 140 and 220 degre
 00:14:23,500 --> 00:14:25,500
 [ROY MCBRIDE]
 I will handle these...
-ຂ້ອຍຈະຮັບມືກັບສິ່ງເຫຼົ່ານີ້...
+ຂ້ອຍຈະຮັບຜິດຊອບເລື່ອງນີ້ເອງ...
 
 182
 00:14:26,000 --> 00:14:28,000
@@ -1322,7 +1322,7 @@ Frank Yoshida's our Medic. And Lt. Alan Tanner is on for navigation and payload.
 00:15:52,250 --> 00:15:54,250
 [ROY MCBRIDE]
 Good to meet all you.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າທັງ ຫມົດ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກທຸກທ່ານເດີ.
 
 204
 00:15:54,750 --> 00:15:57,900
@@ -1380,7 +1380,7 @@ Ten, nine, eight, seven, six... ignition sequence begin. We have main engine sta
 00:16:30,950 --> 00:16:32,950
 [DONALD SCOBEE]
 Three, two, one.
-ສາມ, ສອງ, ຫນຶ່ງ.
+ສາມສອງໜຶ່ງ.
 
 213
 00:16:33,450 --> 00:16:35,450
@@ -1852,7 +1852,7 @@ Samir Malik - ຂ້ອຍເປັນຜູ້ຊີ້ນໍາ. ກັບສ�
 00:21:49,000 --> 00:21:51,000
 [CHERYL]
 Pleased to meet you.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກກັນ.
 
 286
 00:21:51,500 --> 00:21:57,500
@@ -1889,7 +1889,7 @@ I've been fully briefed.
 00:22:08,100 --> 00:22:10,100
 [ROY MCBRIDE]
 Yessir.
-Yessir.
+ແມ່ນແລ້ວ.
 
 292
 00:22:10,600 --> 00:22:12,600
@@ -1973,7 +1973,7 @@ So this whole zone is deserted now-- but it still has power, that's what I'm to 
 00:23:04,350 --> 00:23:06,350
 [COLONEL LIPSET]
 That is correct, major.
-ນັ້ນແມ່ນຄວາມຈິງ, ນາຍພົນ.
+ແມ່ນແລ້ວ, ນາຍພົນ.
 
 305
 00:23:06,850 --> 00:23:12,850
@@ -2113,7 +2113,7 @@ You haven't noticed anything unusual inside the reactors?
 00:24:33,750 --> 00:24:35,750
 [FRANCESCA DESANCTIS]
 Apart from the physical activity?
-ນອກຈາກການເຄື່ອນໄຫວທາງຮ່າງກາຍບໍ?
+ນອກຈາກການອອກກໍາລັງກາຍແມ່ນບໍ່?
 
 327
 00:24:36,250 --> 00:24:38,250
@@ -2363,7 +2363,7 @@ The area we're entering was self- sufficient at one time, with a greenhouse and 
 00:27:41,150 --> 00:27:43,150
 [KATHRYN COLLINS]
 Will do.
-ຈະເຮັດໄດ້.
+ແມ່ນແລ້ວ.
 
 365
 00:27:43,650 --> 00:27:49,650
@@ -2493,7 +2493,7 @@ All right. Ma'am, I have to inform you, I've got an operation I need to conduct 
 00:29:12,100 --> 00:29:14,100
 [ROY MCBRIDE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 385
 00:29:14,600 --> 00:29:17,050
@@ -2610,7 +2610,7 @@ We're his family. He had no way back, but maybe you will.  Please. He needs our 
 00:30:33,300 --> 00:30:35,400
 [ALAN TANNER]
 Down!    On your knees! Right now!
-ລົງ! ຢູ່ເທິງເຂົ່າ! ດຽວນີ້!
+ຫຼຸດລົງ! ຂຶ້ນເຂົ່າເດີ້! ທັນທີນີ້!
 
 403
 00:30:35,900 --> 00:30:39,050
@@ -2754,7 +2754,7 @@ Did you gain any further information from her?
 00:32:04,450 --> 00:32:06,450
 [LOOK AT US.]
 After a BEAT:
-ຫຼັງຈາກການຕີ:
+ຈັກບຶດໜຶ່ງ,:
 
 426
 00:32:06,950 --> 00:32:12,200
@@ -2850,7 +2850,7 @@ You...killed her?
 00:33:07,700 --> 00:33:10,500
 [FRANKLIN YOSHIDA]
 It was likely some kind of congenital disorder.
-ມັນອາດຈະເປັນພະຍາດທີ່ເກີດຈາກແມ່.
+ມັນອາດຈະແມ່ນຄວາມຜິດປົກກະຕິທີ່ເກີດມາຈາກເນື້ອໃນບາງຢ່າງ.
 
 441
 00:33:11,000 --> 00:33:17,000

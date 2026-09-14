@@ -136,7 +136,7 @@ You would do as well to read the mind of a rhinoceros.
 00:01:24,850 --> 00:01:26,850
 [TITUS]
 They simply will not surrender.
-ພວກເຂົາພຽງແຕ່ຈະບໍ່ຍອມຮັບ.
+ພວກເຂົາຍັງບໍ່ຍອມຈຳນົນເລີຍ.
 
 24
 00:01:27,350 --> 00:01:30,150
@@ -185,7 +185,7 @@ Brothers -- I salute you!  For Rome!
 00:01:51,650 --> 00:01:53,650
 [MAXIMUS]
 Caesar.
-ຄາຊ້າ.
+ໄຊເຊີ
 
 32
 00:01:54,150 --> 00:01:59,050
@@ -504,7 +504,7 @@ It must be.
 00:05:06,200 --> 00:05:08,200
 [FALCO]
 Hail, Marcus Aurelius.
-ສະບາຍດີ, ມາຣັກສ໌ ອາເຣເລຍສ໌.
+ສະບາຍດີ ແມຣກັສ ອູເລຍສ໌.
 
 83
 00:05:08,700 --> 00:05:11,850
@@ -542,7 +542,7 @@ Still damning me to the four winds?
 00:05:26,500 --> 00:05:29,650
 [GAIUS]
 Still eager for your triumphant return to Rome, Caesar.
-ຍັງມີຄວາມກະຕືລືລົ້ນຕໍ່ການກັບຄືນໄປໂຣມຢ່າງຊະນະເລີດຂອງທ່ານ, ຊີເຊີ.
+ຍັງຄອຍຖ້າການກັບຄືນໄປທີ່ໂຣມຢ່າງໄຊຊະນະຂອງເຈົ້າຢູ່, ຊີເຊີ.
 
 89
 00:05:30,150 --> 00:05:35,400
@@ -807,7 +807,7 @@ This is a pleasant fiction, isn't it?
 00:08:21,400 --> 00:08:23,400
 [MAXIMUS]
 Caesar.
-ຄາຊ້າ.
+ໄຊເຊີ
 
 131
 00:08:23,900 --> 00:08:25,900
@@ -952,7 +952,7 @@ Son... I know that one grove of your vineyard is worth more to you than all the 
 00:10:08,300 --> 00:10:10,300
 [MAXIMUS]
 I shall, Caesar.
-ຂ້ອຍຈະເຮັດ, ຊີເຊີ.
+ແມ່ນແລ້ວ, ຊີເຊີ.
 
 153
 00:10:10,800 --> 00:10:16,800
@@ -1452,7 +1452,7 @@ What about this one?  Look at the arms!
 00:15:12,750 --> 00:15:14,750
 [PROXIMO]
 Good teeth --
-ແຂ້ວທີ່ດີ -
+ແຂ້ວດີໆ -
 
 233
 00:15:15,250 --> 00:15:17,350
@@ -1704,7 +1704,7 @@ How many strokes?
 00:18:00,850 --> 00:18:02,850
 [PROXIMO]
 Two.
-ສອງ.
+2.
 
 273
 00:18:03,350 --> 00:18:05,450
@@ -2059,7 +2059,7 @@ Ah... so it's Rome you want.  Well you shall have her, Gladiator.  The new Emper
 00:21:56,600 --> 00:21:58,600
 [PROXIMO]
 Not even that.
-ບໍ່ເຖິງແມ່ນວ່ານັ້ນ.
+ບໍ່ແມ່ນແຕ່ນັ້ນເລີຍ.
 
 328
 00:21:59,100 --> 00:22:01,550
@@ -2382,7 +2382,7 @@ And I haven't enough men.
 00:25:25,000 --> 00:25:27,000
 [LUCILLA]
 What about the army?
-ແລະກອງທັບແນວໃດ?
+ແລ້ວກອງທັບແມ່ນບໍ່?
 
 379
 00:25:27,500 --> 00:25:31,350
@@ -3124,7 +3124,7 @@ My father was killed.
 00:32:59,400 --> 00:33:01,400
 [MAXIMUS]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 497
 00:33:01,900 --> 00:33:06,450
@@ -3317,7 +3317,7 @@ I knew the old man well.  And I loved him very much.  In our youth we would spen
 00:35:05,450 --> 00:35:07,450
 [MAXIMUS]
 He did.
-ລາວເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 528
 00:35:07,950 --> 00:35:11,800
@@ -3355,7 +3355,7 @@ I am sorry to have kept you away... I needed this time to think...
 00:35:29,600 --> 00:35:31,600
 [LUCILLA]
 Of course...
-ແນ່ນອນ...
+ແມ່ນແລ້ວ...
 
 534
 00:35:32,100 --> 00:35:38,100
@@ -3423,7 +3423,7 @@ And what if he should win?
 00:36:25,900 --> 00:36:28,700
 [COMMODUS]
 A God is more powerful than a man...
-ພຣະເຈົ້າມີຄວາມເຂັ້ມແຂງກວ່າຜູ້ຊາຍ...
+ພຣະເຈົ້າມີພະລັງຫຼາຍກ່ວາມະນຸດ...
 
 544
 00:36:29,200 --> 00:36:35,200
@@ -3607,7 +3607,7 @@ Then be worthy of him.  The old Titan who would rather die bravely in a just bat
 00:38:37,150 --> 00:38:39,150
 [JUBA]
 And impotent.
-ແລະບໍ່ມີພະລັງ.
+ແລະບໍ່ສາມາດເຮັດໄດ້ເລີຍ.
 
 572
 00:38:39,650 --> 00:38:43,500
@@ -3680,7 +3680,7 @@ All that was a long time ago.  Too much wine and too many women.  And too much m
 00:39:13,000 --> 00:39:15,000
 [MAXIMUS]
 No --
-ບໍ່...
+ບໍ່ -
 
 584
 00:39:15,500 --> 00:39:21,500
@@ -4017,7 +4017,7 @@ Go!  Bring us the army!
 00:42:43,050 --> 00:42:45,050
 [PROXIMO]
 Quickly --
-ໄວໆ...
+ໄວໆໆ -
 
 637
 00:42:45,550 --> 00:42:51,550
@@ -4048,7 +4048,7 @@ Gods... they're killing them all.
 00:42:59,550 --> 00:43:01,550
 [LUCIUS]
 What is that fire?
-ໄຟນັ້ນເປັນຫຍັງ?
+ນັ້ນແມ່ນໄຟຫຍັງ?
 
 642
 00:43:02,050 --> 00:43:05,900

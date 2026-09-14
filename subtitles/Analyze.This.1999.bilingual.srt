@@ -319,7 +319,7 @@ Yeah.  I hate her! I really hate her!  Okay. Dad again. Let's go.
 00:04:11,550 --> 00:04:13,650
 [VITTI]
 So what did you find out?
-ເຈົ້າຮູ້ວ່າຫຍັງ?
+ເຈົ້າໄດ້ຮູ້ຫຍັງແດ່?
 
 50
 00:04:14,150 --> 00:04:18,350
@@ -441,7 +441,7 @@ Don't fuckin' lie to me!
 00:05:27,100 --> 00:05:29,200
 [NICKY]
 Honest to God, I don't know!
-ໂດຍຄວາມຈິງໃຈຕໍ່ພຣະເຈົ້າ, ຂ້ອຍບໍ່ຮູ້!
+ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ຮູ້ເລີຍ!
 
 70
 00:05:29,700 --> 00:05:31,700
@@ -604,7 +604,7 @@ At least take my card. You might look at the damage in the morning and change yo
 00:07:09,550 --> 00:07:11,550
 [JELLY]
 You're a doctor?
-ເຈົ້າເປັນຫມໍບໍ?
+ເຈົ້າແມ່ນໝໍບໍ່?
 
 96
 00:07:12,050 --> 00:07:14,050
@@ -629,7 +629,7 @@ minivan ເຫຼົ່ານັ້ນຮັບມືກັບແນວໃດ?
 00:07:22,550 --> 00:07:24,550
 [JIMMY]
 Jelly!   Let's go!
-ເຈເລຍ! ໄປ!
+ສະບາຍດີ! ໄປເດີ້!
 
 100
 00:07:25,050 --> 00:07:27,050
@@ -905,7 +905,7 @@ I'm a little choked up here.   I gotta get some air.
 00:10:29,550 --> 00:10:31,550
 [JELLY]
 You feel all right?
-ເຈົ້າຮູ້ສຶກດີບໍ?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 143
 00:10:32,050 --> 00:10:36,600
@@ -1258,7 +1258,7 @@ A hundred and fifty.
 00:14:05,800 --> 00:14:07,800
 [BEN]
 He's not leaving.
-ລາວຈະບໍ່ອອກໄປ.
+ລາວບໍ່ຈະອອກໄປເລີຍ.
 
 199
 00:14:08,300 --> 00:14:10,300
@@ -1325,13 +1325,13 @@ Jelly, wait outside.
 00:14:37,750 --> 00:14:39,750
 [VITTI]
 Sit down.
-ນັ່ງລົງ.
+ນັ່ງເດີ້.
 
 210
 00:14:40,250 --> 00:14:42,250
 [BEN]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 211
 00:14:42,750 --> 00:14:44,750
@@ -1426,7 +1426,7 @@ Not fuckin' likely --
 00:15:39,000 --> 00:15:41,000
 [VITTI]
 So who starts?
-ສະນັ້ນໃຜຈະເລີ່ມຕົ້ນ?
+ແມ່ນແລ້ວ ໃຜຈະເລີ່ມກ່ອນ?
 
 226
 00:15:41,500 --> 00:15:45,350
@@ -1777,7 +1777,7 @@ Why would I want to look at the camera?
 00:19:24,000 --> 00:19:26,000
 [MICHAEL]
 Oh, yeah.  Is it okay?
-ໂອ້, ແມ່ນແລ້ວ. ມັນດີບໍ?
+ແມ່ນແລ້ວ ບໍ່ເປັນຫຍັງບໍ່?
 
 281
 00:19:26,500 --> 00:19:30,700
@@ -1807,7 +1807,7 @@ You are? And you still really want to get married?
 00:19:41,000 --> 00:19:43,000
 [BEN]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 286
 00:19:43,500 --> 00:19:49,500
@@ -1913,7 +1913,7 @@ No, I wasn't thinking about my wife.  Now I'm thinking about my wife. Goddamn it
 00:20:47,100 --> 00:20:49,100
 [SHEILA]
 I'm sorry, Paul.
-ຂ້ອຍຂໍໂທດ, ໂປລ.
+ຂໍໂທດເດີ ໂປລ.
 
 303
 00:20:49,600 --> 00:20:51,600
@@ -2674,7 +2674,7 @@ Oh, I can tell you really care.
 00:29:13,550 --> 00:29:15,550
 [BEN]
 Okay.   What's going on?
-ດີແລ້ວ. ເກີດຫຍັງຂຶ້ນ?
+ແມ່ນແລ້ວ. ມີຫຍັງເກີດຂຶ້ນບໍ່?
 
 423
 00:29:16,050 --> 00:29:22,050
@@ -2960,7 +2960,7 @@ How you doin'?
 00:32:07,750 --> 00:32:09,750
 [BEN]
 Nice to meet you.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກກັນ.
 
 469
 00:32:10,250 --> 00:32:14,100
@@ -3098,7 +3098,7 @@ My father. He was a big man in the neighborhood -- very well respected. Everybod
 00:33:31,350 --> 00:33:33,350
 [BEN]
 He passed away?
-ລາວຕາຍແລ້ວບໍ?
+ລາວຕາຍບໍ່?
 
 491
 00:33:33,850 --> 00:33:39,850
@@ -3149,7 +3149,7 @@ I was hangin'   out in the neighborhood.    I had a borghata -- like a kid   gan
 00:34:03,050 --> 00:34:05,050
 [BEN]
 You fought about it?
-ເຈົ້າຕໍ່ສູ້ກັນກ່ຽວກັບມັນບໍ?
+ເຈົ້າໄດ້ຂັດແຍ່ງກັນບໍ່?
 
 499
 00:34:05,550 --> 00:34:08,000
@@ -3406,7 +3406,7 @@ Mr. and Mrs. Vitti, this is Laura, my fiancee.
 00:36:43,850 --> 00:36:45,850
 [VITTI]
 Nice to meet you.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກກັນ.
 
 540
 00:36:46,350 --> 00:36:48,350
@@ -3431,7 +3431,7 @@ Whoa.  He's a bruiser.  You're sure this is your kid? You're a pound and a half 
 00:36:57,950 --> 00:36:59,950
 [MICHAEL]
 Seriously?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 544
 00:37:00,450 --> 00:37:02,450
@@ -4037,7 +4037,7 @@ Get a dictionary and find out what this 'closure' is. If that's what he's hittin
 00:43:29,250 --> 00:43:31,250
 [VITTI]
 Good?
-ດີບໍ?
+ແມ່ນບໍ່?
 
 640
 00:43:31,750 --> 00:43:37,750
@@ -4211,7 +4211,7 @@ Fine. I can hear better in there anyway.
 00:45:11,050 --> 00:45:13,050
 [BEN]
 So.   FBI.
-ສະນັ້ນ. FBI.
+ແມ່ນແລ້ວ. FBI.
 
 668
 00:45:13,550 --> 00:45:16,000
@@ -4444,7 +4444,7 @@ This is bullshit.
 00:47:46,800 --> 00:47:48,800
 [BEN]
 You wrote it.
-ເຈົ້າຂຽນມັນ.
+ແມ່ນເຈົ້າເອງທີ່ຂຽນ.
 
 705
 00:47:49,300 --> 00:47:55,300
@@ -4735,7 +4735,7 @@ Don't buy me a Rolex.
 00:50:50,600 --> 00:50:52,700
 [VITTI]
 Who said anything about buying it?
-ໃຜເວົ້າຫຍັງກ່ຽວກັບການຊື້ມັນ?
+ໃຜເວົ້າຫຍັງເລີຍວ່າຈະຊື້ບໍ່?
 
 751
 00:50:53,200 --> 00:50:56,000
@@ -4926,7 +4926,7 @@ You paused. That means you had a feeling. What does he do?
 00:52:51,800 --> 00:52:53,800
 [BEN]
 He's a psychiatrist.
-ລາວເປັນແພດຈິດໃຈ.
+ລາວແມ່ນໝໍຈິດໃຈ.
 
 781
 00:52:54,300 --> 00:52:56,750
@@ -5304,7 +5304,7 @@ Yeah, this is where his father got whacked.
 00:56:44,100 --> 00:56:46,100
 [JELLY]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 842
 00:56:46,600 --> 00:56:48,600
@@ -5911,7 +5911,7 @@ Did you say anything?
 01:02:20,900 --> 01:02:23,350
 [VITTI]
 My father was so mad at me.
-ພໍ່ຂອງຂ້ອຍໂຊກຮ້າຍຫຼາຍຕໍ່ຂ້ອຍ.
+ພໍ່ຂ້ອຍໂກດແຄ້ນຂ້ອຍຫຼາຍ.
 
 941
 01:02:23,850 --> 01:02:25,950
@@ -6468,7 +6468,7 @@ Shut up. You're making him nervous. If he gets nervous and fucks up, they'll kil
 01:08:17,850 --> 01:08:19,850
 [BEN]
 This is insane.
-ນີ້ແມ່ນໂຊກຮ້າຍ.
+ນີ້ແມ່ນຄວາມໂງ່ແທ້ໆ.
 
 1029
 01:08:20,350 --> 01:08:26,350
@@ -7153,7 +7153,7 @@ I'm doing twenty-five to life.
 01:15:43,000 --> 01:15:45,100
 [BEN]
 That should be plenty of time.
-ນັ້ນຄວນມີເວລາພຽງພໍ.
+ນັ້ນແມ່ນເວລາທີ່ພຽງພໍແລ້ວ.
 
 1137
 01:15:45,600 --> 01:15:49,800
@@ -7243,7 +7243,7 @@ Whatever you want, Dr. Sobol. My friend told me to stay as long as you wanted me
 01:16:38,300 --> 01:16:40,300
 [LAURA]
 Your choice, Tony.
-ການເລືອກຂອງທ່ານ, ໂຕນີ.
+ແມ່ນເຈົ້າເລືອກເອງ, ໂຕນີ.
 
 1151
 01:16:40,800 --> 01:16:44,650

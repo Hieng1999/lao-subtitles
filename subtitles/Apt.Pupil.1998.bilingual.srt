@@ -73,7 +73,7 @@ Call them if you want.
 00:00:58,650 --> 00:01:00,650
 [DUSSANDER]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 13
 00:01:01,150 --> 00:01:07,150
@@ -500,7 +500,7 @@ Sure, you got a Coke?
 00:05:51,900 --> 00:05:53,900
 [DUSSANDER]
 No Kok.
-ບໍ່ມີ Kok.
+ບໍ່ ແມ່ນ ບໍ່.
 
 79
 00:05:54,400 --> 00:05:56,400
@@ -740,7 +740,7 @@ Exactly.  And you're going to tell it to me.
 00:08:22,700 --> 00:08:24,700
 [DUSSANDER]
 You're a monster.
-ເຈົ້າເປັນສັດລ້ຽງ.
+ເຈົ້າແມ່ນສັດຮ້າຍແທ້ໆ.
 
 117
 00:08:25,200 --> 00:08:27,300
@@ -832,7 +832,7 @@ Take it easy, Jesus.  It's just me, flinch- man.
 00:09:34,950 --> 00:09:36,950
 [TODD]
 Don't do that.
-ຢ່າເຮັດແນວນັ້ນ.
+ຢ່າທໍາແບບນັ້ນເດີ້.
 
 131
 00:09:37,450 --> 00:09:40,600
@@ -881,7 +881,7 @@ You didn't hear it from me.
 00:10:00,250 --> 00:10:02,250
 [TODD]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 139
 00:10:02,750 --> 00:10:04,750
@@ -1107,7 +1107,7 @@ Yeah, fine.  That was good story though.  You always tell them good, once I get 
 00:12:24,000 --> 00:12:26,800
 [DICK]
 You're tight.  Don't hold your breath so long.
-ເຈົ້າເຂັ້ມງວດ ຢ່າຄ້າງຫາຍໃຈດົນເກີນໄປ
+ເຈົ້າແມ່ນແໜ້ນແຟ້ນ. ຢ່າຈັບຫາຍໃຈດົນປານໃດ.
 
 175
 00:12:27,300 --> 00:12:29,300
@@ -1234,7 +1234,7 @@ Did you practice that in front of a mirror or something?
 00:13:52,050 --> 00:13:54,050
 [DICK]
 Hey, he's not...?
-ເຮີ້, ລາວບໍ່...?
+ສະບາຍດີ, ລາວບໍ່ແມ່ນ...
 
 195
 00:13:54,550 --> 00:13:56,550
@@ -1425,13 +1425,13 @@ That's right, kitty-kitty.  That's right.
 00:15:52,600 --> 00:15:54,600
 [DUSSANDER]
 Gotcha.
-ເຈົ້າໄດ້.
+ແມ່ນແລ້ວ.
 
 225
 00:15:55,100 --> 00:15:57,100
 [TODD]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 226
 00:15:57,600 --> 00:16:01,450
@@ -1480,7 +1480,7 @@ That was a lousy thing for me to say.  I'm sorry, honey.
 00:16:20,050 --> 00:16:22,050
 [TODD]
 Let's just go home.
-ໃຫ້ພວກເຮົາກັບບ້ານ.
+ແຄ່ກັບບ້ານກັນເດີ້.
 
 234
 00:16:22,550 --> 00:16:24,550
@@ -1668,7 +1668,7 @@ What's that supposed to mean?
 00:18:27,350 --> 00:18:29,350
 [DICK]
 Forget it.
-ລືມມັນ.
+ລືມເລີຍ.
 
 263
 00:18:29,850 --> 00:18:32,300
@@ -1982,7 +1982,7 @@ About face.
 00:21:40,800 --> 00:21:42,800
 [TODD]
 Okay, that's enough.
-ດີແລ້ວ, ພໍແລ້ວ.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນພຽງພໍ.
 
 313
 00:21:43,300 --> 00:21:45,300
@@ -2061,7 +2061,7 @@ You said something?
 00:22:20,850 --> 00:22:22,850
 [TODD]
 No.
-ບໍ່.
+ບໍ່ ແມ່ນແລ້ວ.
 
 326
 00:22:23,350 --> 00:22:29,350
@@ -2129,7 +2129,7 @@ Something's come up.  Sit down.
 00:23:04,350 --> 00:23:07,150
 [DUSSANDER]
 I see.  What seems to be the trouble?
-ເຫັນແລ້ວ, ມີບັນຫາຫຍັງແດ່?
+ແມ່ນແລ້ວ. ເບິ່ງຄືວ່າຄວາມຫຍຸ້ງຍາກແມ່ນຫຍັງ?
 
 337
 00:23:07,650 --> 00:23:13,650
@@ -2331,7 +2331,7 @@ Mr. Bowden?
 00:25:18,750 --> 00:25:20,750
 [DUSSANDER]
 Mr. French, a pleasure.
-ທ້າວຝຣັ່ງ, ຍິນດີ.
+ສະບາຍດີແຟຣນຊ໌, ດີໃຈຫຼາຍ.
 
 369
 00:25:21,250 --> 00:25:23,350
@@ -2462,13 +2462,13 @@ Her mother, Sabrina, lives in a nursing home in Florida.  I'm afraid after her h
 00:26:54,400 --> 00:26:57,900
 [FRENCH]
 Probably not the best person for Monica to speak to.
-ອາດຈະບໍ່ເປັນຄົນທີ່ດີທີ່ສຸດ ສໍາລັບໂມນີກາ ທີ່ຈະເວົ້າກັບ.
+ບາງທີບໍ່ແມ່ນຄົນທີ່ເໝາະສົມທີ່ສຸດທີ່ແມນິກາສາມາດເວົ້າໄດ້.
 
 389
 00:26:58,400 --> 00:27:00,400
 [DUSSANDER]
 Indeed.
-ແທ້ຈິງແລ້ວ.
+ແມ່ນແລ້ວ.
 
 390
 00:27:00,900 --> 00:27:06,900
@@ -2495,7 +2495,7 @@ Yes, I see that.  Anyway, Todd is, and I hate to phrase it this way, but he's on
 00:27:20,400 --> 00:27:22,400
 [DUSSANDER]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 394
 00:27:22,900 --> 00:27:28,900
@@ -2988,7 +2988,7 @@ You know this means we're through.  You won't be seeing me around here anymore.
 00:33:22,950 --> 00:33:24,950
 [DUSSANDER]
 No, I suppose I won't.
-ບໍ່, ຂ້າພະເຈົ້າຄາດວ່າຂ້າພະເຈົ້າຈະບໍ່.
+ບໍ່, ຂ້ອຍຄິດວ່າບໍ່.
 
 470
 00:33:25,450 --> 00:33:27,450
@@ -3140,7 +3140,7 @@ Because Sally Chong wouldn't hack up a baby pig, you snuck by her in the ranking
 00:34:58,850 --> 00:35:00,850
 [TODD]
 No.
-ບໍ່.
+ບໍ່ ແມ່ນແລ້ວ.
 
 494
 00:35:01,350 --> 00:35:03,450
@@ -3165,7 +3165,7 @@ Todd, you really should be proud of yourself. To tell you the truth, I'm amazed 
 00:35:12,950 --> 00:35:14,950
 [TODD]
 Thanks, I guess.
-ຂອບໃຈ, ຂ້າພະເຈົ້າຄິດວ່າ.
+ຂອບໃຈເດີ, ຂ້ອຍຄິດວ່າແມ່ນແລ້ວ.
 
 498
 00:35:15,450 --> 00:35:21,450
@@ -3235,7 +3235,7 @@ Okay, Todd.  I know this isn't the place to talk about this.  But my door is alw
 00:35:57,900 --> 00:35:59,900
 [TODD]
 I know.  Thanks.
-ຂ້ອຍຮູ້, ຂອບໃຈ.
+ແມ່ນແລ້ວ. ຂອບໃຈເດີ.
 
 509
 00:36:00,400 --> 00:36:02,500
@@ -3259,8 +3259,7 @@ Hey.
 00:36:08,000 --> 00:36:13,250
 [JOEY]
 I... ah, I heard about Stanford.  I heard a couple of weeks ago actually. ...Congrats.
-ຂ້າພະເຈົ້າ... ah, ຂ້າພະເຈົ້າໄດ້ຍິນກ່ຽວກັບ Stanford
-ຂ້ອຍໄດ້ຍິນສອງສາມອາທິດທີ່ຜ່ານມາໃນຄວາມເປັນຈິງ...ຊົມເຊີຍ.
+ຂ້ອຍ... ອາ, ຂ້ອຍໄດ້ຍິນກ່ຽວກັບສະແຕນຟອດ. ຂ້ອຍໄດ້ຟັງສອງສາມອາທິດກ່ອນແທ້ໆ.... ຂໍສະແດງຄວາມຍິນດີ.
 
 513
 00:36:13,750 --> 00:36:15,750
@@ -3391,7 +3390,7 @@ Todd, I'm gonna go.  I'm gonna... walk home.
 00:37:27,750 --> 00:37:29,750
 [JOEY]
 Todd...
-ໂຕດ...
+ທອດ...
 
 534
 00:37:30,250 --> 00:37:33,750
@@ -3460,7 +3459,7 @@ Ain't no reason to be rude.  You see, I know something about you. ...I know your
 00:38:11,450 --> 00:38:13,450
 [DUSSANDER]
 I see.
-ຂ້ອຍເຫັນແລ້ວ.
+ແມ່ນແລ້ວ.
 
 545
 00:38:13,950 --> 00:38:19,950
@@ -3516,7 +3515,7 @@ I guess your parents don't need a graduation announcement.
 00:38:43,650 --> 00:38:45,650
 [DICK]
 No.
-ບໍ່.
+ບໍ່ ແມ່ນແລ້ວ.
 
 554
 00:38:46,150 --> 00:38:48,150
@@ -3621,7 +3620,7 @@ Perhaps.
 00:39:44,100 --> 00:39:46,100
 [ARCHIE]
 Maybe even twenty.
-ບາງທີກໍອາດຈະ 20 ຄົນ.
+ບາງທີແມ່ນແຕ່ສອງສິບ.
 
 571
 00:39:46,600 --> 00:39:48,600
@@ -3993,7 +3992,7 @@ We are wasting time now, boy.  Come back to the door.  You are not going to find
 00:43:40,050 --> 00:43:42,050
 [TODD]
 Oh really?
-ໂອ້ ແທ້ໆບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 630
 00:43:42,550 --> 00:43:44,550
@@ -4150,7 +4149,7 @@ What are you talking about?
 00:44:54,250 --> 00:44:57,050
 [TODD]
 The safety deposit box.  I want the key...
-ກ່ອງເງິນຝາກ, ຂ້ອຍຕ້ອງການກະແຈ...
+ກ່ອງເງິນຝາກຄວາມປອດໄພ. ຂ້ອຍຢາກມີປຸ່ມ...
 
 656
 00:44:57,550 --> 00:44:59,550
@@ -4464,7 +4463,7 @@ His parents died when he was very young.  He is like a son to me.  I have no chi
 00:47:58,350 --> 00:48:00,350
 [DUSSANDER]
 I see.
-ຂ້ອຍເຫັນແລ້ວ.
+ແມ່ນແລ້ວ.
 
 707
 00:48:00,850 --> 00:48:06,850
@@ -4625,7 +4624,7 @@ Perhaps... perhaps I could persuade you to wait here just until I fall asleep.  
 00:49:33,600 --> 00:49:35,600
 [BEN]
 Excuse me, young man.
-ຂໍອະໄພ, ຊາຍຫນຸ່ມ.
+ຂໍໂທດເດີ, ຊາຍໜຸ່ມ.
 
 733
 00:49:36,100 --> 00:49:39,600
@@ -4752,7 +4751,7 @@ Mr. Krauss has been moved.  I'm going to give you something.  It will help you s
 00:50:55,550 --> 00:50:58,350
 [DUSSANDER]
 I don't want it.  Who is that man?
-ຂ້ອຍບໍ່ຕ້ອງການມັນ ໃຜເປັນຜູ້ຊາຍຄົນນັ້ນ?
+ຂ້ອຍບໍ່ຢາກ. ຜູ້ຊາຍນັ້ນແມ່ນໃຜ?
 
 753
 00:50:58,850 --> 00:51:02,000
@@ -4789,7 +4788,7 @@ Yes, of course, but you seem to have me confused with someone else.  My name is 
 00:51:18,100 --> 00:51:20,900
 [WEISKOPF]
 My name is Weiskopf.  You are Kurt Dussander.
-ຂ້າພະເຈົ້າຊື່ Weiskopf ທ່ານແມ່ນ Kurt Dussander.
+ຂ້ອຍແມ່ນ ເວສໂກຟ. ເຈົ້າແມ່ນ ຄູຕ ດູຊານເດີ.
 
 759
 00:51:21,400 --> 00:51:25,950
@@ -4871,7 +4870,7 @@ What are you doing there in the dark?
 00:52:15,600 --> 00:52:17,600
 [TODD]
 Oh, ...working.
-ໂອ້... ເຮັດວຽກ.
+ແມ່ນແລ້ວ... ກໍາ ລັງເຮັດວຽກຢູ່.
 
 772
 00:52:18,100 --> 00:52:20,100
@@ -5100,7 +5099,7 @@ Hello.
 00:54:44,500 --> 00:54:46,600
 [DICK]
 What kind of doctor are you?
-ທ່ານເປັນຫມໍແບບໃດ?
+ເຈົ້າແມ່ນໝໍແບບໃດ?
 
 808
 00:54:47,100 --> 00:54:49,100
@@ -5177,7 +5176,7 @@ He's not feeling well.
 00:55:39,350 --> 00:55:41,450
 [MONICA]
 Can I get you some coffee?
-ເຈົ້າຢາກໄດ້ກາເຟບໍ?
+ຂ້ອຍສາມາດເອົາກາເຟມາໃຫ້ເຈົ້າໄດ້ບໍ່?
 
 820
 00:55:41,950 --> 00:55:47,950
@@ -5241,13 +5240,13 @@ It isn't?
 00:56:26,000 --> 00:56:28,000
 [RICHLER]
 No.
-ບໍ່.
+ບໍ່ ແມ່ນແລ້ວ.
 
 830
 00:56:28,500 --> 00:56:30,500
 [MONICA]
 Maybe somebody broke in.
-ບາງທີອາດມີຄົນລັກເຂົ້າມາ
+ບາງທີແມ່ນມີໃຜມາລັກລອບເຂົ້າມາ.
 
 831
 00:56:31,000 --> 00:56:37,000
@@ -5303,7 +5302,7 @@ No, not really.
 00:57:05,600 --> 00:57:07,600
 [RICHLER]
 How about phone calls?
-ໂທລະສັບບໍ?
+ຈະເປັນແນວໃດກັບການໂທຫາທາງໂທລະສັບ?
 
 840
 00:57:08,100 --> 00:57:14,100
@@ -5367,7 +5366,7 @@ Look, I'm sure this whole thing has come as a terrible shock.  I think we've don
 00:57:48,450 --> 00:57:50,900
 [WEISKOPF]
 Thank you, Todd.  Mr. and Mrs. Bowden.
-ຂອບໃຈທ່ານ Todd, ທ່ານແລະທ່ານນາງ Bowden.
+ຂອບໃຈເດີ, ໂຕດ. ທ້າວແລະທ່ານນາງບາວເດັນ.
 
 850
 00:57:51,400 --> 00:57:57,400
@@ -5406,13 +5405,13 @@ Oh, Todd, by the way....  Have you ever seen this man before?
 00:58:18,100 --> 00:58:20,100
 [TODD]
 No.
-ບໍ່.
+ບໍ່ ແມ່ນແລ້ວ.
 
 856
 00:58:20,600 --> 00:58:22,600
 [RICHLER]
 Okay, thanks.
-ດີ, ຂອບໃຈ.
+ແມ່ນແລ້ວ ຂອບໃຈເດີ.
 
 857
 00:58:23,100 --> 00:58:29,100
@@ -5437,7 +5436,7 @@ Yeah... fine.
 00:58:34,600 --> 00:58:36,600
 [DICK]
 You sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 861
 00:58:37,100 --> 00:58:39,100
@@ -5504,7 +5503,7 @@ This afternoon, if you're up for it, we'll go do something.  How 'bout it?
 00:59:14,700 --> 00:59:16,700
 [TODD]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 872
 00:59:17,200 --> 00:59:19,300
@@ -5541,7 +5540,7 @@ Todd... I found something troubling in the morning news.  Are your parents home?
 00:59:34,650 --> 00:59:36,650
 [TODD]
 No.
-ບໍ່.
+ບໍ່ ແມ່ນແລ້ວ.
 
 878
 00:59:37,150 --> 00:59:42,400
@@ -5632,7 +5631,7 @@ You know all this crap you see on TV about forensics... hairs and fibers, that s
 01:00:45,700 --> 01:00:49,200
 [TODD]
 Oh, how would you know?  You're a fucking guidance counsellor.
-ໂອ້, ເຈົ້າຮູ້ຈາກໃສ ເຈົ້າເປັນຜູ້ແນະນໍາທາງດ້ານການສຶກສາ
+ແມ່ນແລ້ວ, ເຈົ້າຈະຮູ້ໄດ້ແນວໃດ? ເຈົ້າແມ່ນຜູ້ແນະນໍາການຊີ້ນໍາ.
 
 892
 01:00:49,700 --> 01:00:52,850

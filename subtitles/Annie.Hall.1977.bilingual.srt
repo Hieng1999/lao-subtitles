@@ -2,7 +2,7 @@
 00:00:10,000 --> 00:00:12,100
 [ANNIE HALL]
 written by Woody Allen Marshall Brickman
-ຂຽນໂດຍ Woody Allen Marshall Brickman
+ຂຽນໂດຍ ວູດີ ແອເລນ ມາຊາລ ບຣິກແມນ
 
 2
 00:00:12,600 --> 00:00:18,600
@@ -175,13 +175,13 @@ Why, I was just expressing a healthy sexual curiosity.
 00:02:07,000 --> 00:02:09,800
 [TEACHER]
 Six-year-old boys don't have girls on their minds.
-ເດັກຊາຍອາຍຸຫົກປີບໍ່ມີເດັກຍິງຢູ່ໃນຈິດໃຈຂອງພວກເຂົາ.
+ເດັກຊາຍອາຍຸ 6 ປີບໍ່ຄິດກ່ຽວກັບເດັກຍິງເລີຍ.
 
 29
 00:02:10,300 --> 00:02:12,300
 [ALVY]
 I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 30
 00:02:12,800 --> 00:02:16,650
@@ -226,7 +226,7 @@ I lost track of most of my old schoolmates, but I wound up a comedian.  They did
 00:02:38,600 --> 00:02:40,600
 [DICK CAVETT]
 Four-P?
-Four-P?
+4P ແມ່ນບໍ່?
 
 37
 00:02:41,100 --> 00:02:44,250
@@ -251,7 +251,7 @@ I distinctly heard it.  He muttered under his breath, "Jew."
 00:02:55,250 --> 00:02:57,250
 [ROB]
 You're crazy!
-ເຈົ້າໂຊກຮ້າຍ!
+ເຈົ້າແມ່ນໂງ່ແລ້ວ!
 
 41
 00:02:57,750 --> 00:03:03,750
@@ -730,7 +730,7 @@ Probably on their first date, right?
 00:08:11,450 --> 00:08:13,450
 [MAN IN LINE]
 It's a narrow view.
-ມັນເປັນທັດສະນະທີ່ແຄບ.
+ນັ້ນແມ່ນຄວາມເຫັນທີ່ແຄບແຄ້ນ.
 
 116
 00:08:13,950 --> 00:08:19,950
@@ -986,7 +986,7 @@ Excuse ... excuse me, when do I go on?
 00:11:11,850 --> 00:11:13,850
 [ALLISON]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 155
 00:11:14,350 --> 00:11:16,800
@@ -1086,7 +1086,7 @@ Yes.
 00:12:15,000 --> 00:12:17,000
 [ALLISON]
 Do you feel all right?
-ເຈົ້າຮູ້ສຶກດີບໍ?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 171
 00:12:17,500 --> 00:12:19,500
@@ -1373,7 +1373,7 @@ Okay, it's in.  It's definitely in the pot!
 00:15:19,350 --> 00:15:21,450
 [ANNIE]
 All right.  All right.  All right.
-ໂອເຄ ໂອເຄ
+ແມ່ນແລ້ວ. ແມ່ນແລ້ວ, ແມ່ນແລ້ວ
 
 216
 00:15:21,950 --> 00:15:27,950
@@ -1723,7 +1723,7 @@ What's fascinating is that it's physical. You know, it's one thing about intelle
 00:19:10,150 --> 00:19:12,150
 [ROBIN]
 Stop acting out.
-ຢຸດການສະແດງອອກ.
+ສະບາຍດີ, ຢຸດການກະທໍາແບບນີ້ເດີ້.
 
 271
 00:19:12,650 --> 00:19:18,650
@@ -2006,7 +2006,7 @@ Hi.  Hi, hi.
 00:22:01,300 --> 00:22:03,300
 [ALVY]
 Hi.  Oh, hi.  Hi.
-ສະບາຍດີ. ໂອ້, ສະບາຍ ດີ. ສະຫວັດດີການ.
+ສະບາຍດີ ໂອ້ ສະບາຍ ດີ ສະບາຍໆ
 
 316
 00:22:03,800 --> 00:22:07,650
@@ -2105,7 +2105,7 @@ Yeah, well, I'm, but I ...
 00:22:57,850 --> 00:22:59,850
 [ALVY]
 So sorry.
-ຂໍໂທດຫຼາຍ.
+ຂໍໂທດເດີ.
 
 332
 00:23:00,350 --> 00:23:06,350
@@ -2216,7 +2216,7 @@ Okay.
 00:23:58,300 --> 00:24:00,300
 [ANNIE]
 Okay, that's good.
-ດີແລ້ວ, ນັ້ນດີ.
+ແມ່ນແລ້ວ, ບໍ່ເປັນຫຍັງ.
 
 350
 00:24:00,800 --> 00:24:02,800
@@ -2415,7 +2415,7 @@ Jesus, my-my grammy ... n-never gave gifts, you know.  She-she was	too busy gett
 00:25:47,800 --> 00:25:49,800
 [ANNIE]
 Well ...
-ດີ...
+ແມ່ນແລ້ວ...
 
 382
 00:25:50,300 --> 00:25:52,300
@@ -2446,13 +2446,13 @@ Hey, well, listen ... hey, you wanna come upstairs and, uh ... and have a glass 
 00:26:04,300 --> 00:26:07,450
 [ALVY]
 No, no, that'll be fine. I don't mind. Sure.
-ບໍ່, ບໍ່, ມັນຈະດີ. ຂ້ອຍບໍ່ສົນໃຈ. ແນ່ນອນ.
+ບໍ່ບໍ່, ບໍ່ເປັນຫຍັງເລີຍ. ຂ້ອຍບໍ່ເປັນຫຍັງ. ແມ່ນແລ້ວ.
 
 387
 00:26:07,950 --> 00:26:09,950
 [ANNIE]
 You sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 388
 00:26:10,450 --> 00:26:12,450
@@ -2513,7 +2513,7 @@ Sylvia Plath.
 00:26:39,900 --> 00:26:41,900
 [ANNIE]
 M'hm...
-ຂ້ອຍ...
+ແມ່ນແລ້ວ...
 
 398
 00:26:42,400 --> 00:26:46,950
@@ -2667,7 +2667,7 @@ Why not?
 00:28:24,350 --> 00:28:26,350
 [ANNIE]
 Oh, I see, I see.
-ໂອ້, ຂ້ອຍເຂົ້າໃຈແລ້ວ, ຂ້ອຍເຫັນແລ້ວ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 422
 00:28:26,850 --> 00:28:32,100
@@ -2691,7 +2691,7 @@ Yeah.  Oh, yeah.  Yeah, I see.  I guess-
 00:28:39,200 --> 00:28:41,200
 [ANNIE]
 Fifteen years, huh?
-ສິບຫ້າປີ, ແມ່ນບໍ?
+15 ປີແມ່ນບໍ່?
 
 426
 00:28:41,700 --> 00:28:43,700
@@ -2721,7 +2721,7 @@ Well, uh ...  You're what Grammy Hall would call a real Jew.
 00:28:53,900 --> 00:28:55,900
 [ALVY]
 Oh, thank you.
-ໂອ້ ຂອບໃຈ.
+ແມ່ນແລ້ວ ຂອບໃຈເດີ.
 
 431
 00:28:56,400 --> 00:29:02,400
@@ -2766,8 +2766,7 @@ Photography's interesting, 'cause, you know, it's-it's a new art form, and a, uh
 00:29:28,250 --> 00:29:32,100
 [ANNIE]
 Aesthetic criteria?  You mean, whether it's, uh, good photo or not?
-ມາດຕະຖານດ້ານຄວາມງາມບໍ? ເຈົ້າຫມາຍຄວາມວ່າ
-, ມັນເປັນ, ອູ, ຮູບທີ່ດີຫຼືບໍ່?
+ເຈົ້າໝາຍຄວາມວ່າແມ່ນບໍ່ວ່າມັນແມ່ນ, ແມ່ນແລ້ວ, ຮູບທີ່ດີບໍ່?
 
 438
 00:29:32,600 --> 00:29:37,150
@@ -3004,7 +3003,7 @@ Gimme a kiss.
 00:31:53,400 --> 00:31:55,400
 [ANNIE]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 476
 00:31:55,900 --> 00:31:59,750
@@ -3048,7 +3047,7 @@ Okay.
 00:32:16,850 --> 00:32:18,850
 [ALVY]
 Okay?
-ດີບໍ?
+ແມ່ນບໍ່?
 
 483
 00:32:19,350 --> 00:32:21,350
@@ -3245,7 +3244,7 @@ What?  What?
 00:34:05,150 --> 00:34:07,150
 [ALVY]
 Hey?
-ເຮ້?
+ສະບາຍດີບໍ່?
 
 515
 00:34:07,650 --> 00:34:09,650
@@ -3302,7 +3301,7 @@ I've a very pessimistic view of life. You should know this about me if we're gon
 00:34:39,700 --> 00:34:41,700
 [ANNIE]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 524
 00:34:42,200 --> 00:34:44,300
@@ -3314,7 +3313,7 @@ Those are the two categories ...
 00:34:44,800 --> 00:34:46,800
 [ANNIE]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 526
 00:34:47,300 --> 00:34:53,250
@@ -3327,7 +3326,7 @@ M'hm.
 00:34:53,750 --> 00:34:55,750
 [ANNIE]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 528
 00:34:56,250 --> 00:34:58,250
@@ -3351,7 +3350,7 @@ I don't-don't know how they get through life.  It's amazing to me.
 00:35:05,950 --> 00:35:07,950
 [ANNIE]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 532
 00:35:08,450 --> 00:35:14,450
@@ -3364,7 +3363,7 @@ You know, and the miserable is everyone else.  That's-that's all.  So-so when yo
 00:35:14,950 --> 00:35:16,950
 [ANNIE]
 U-huh.
-U-huh.
+ແມ່ນແລ້ວ.
 
 534
 00:35:17,450 --> 00:35:19,450
@@ -3376,7 +3375,7 @@ Look, look at that guy.
 00:35:19,950 --> 00:35:21,950
 [ANNIE]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 536
 00:35:22,450 --> 00:35:28,450
@@ -3590,7 +3589,7 @@ Whatta you mean?  You're not gonna give up your own apartment, are you?
 00:37:30,250 --> 00:37:32,250
 [ANNIE]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 570
 00:37:32,750 --> 00:37:34,750
@@ -3878,13 +3877,13 @@ No, I'm fine.
 00:40:43,850 --> 00:40:45,850
 [ALVY]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 615
 00:40:46,350 --> 00:40:48,350
 [ANNIE]
 U-huh.
-U-huh.
+ແມ່ນແລ້ວ.
 
 616
 00:40:48,850 --> 00:40:52,000
@@ -3946,7 +3945,7 @@ Well, it ruins it for me if you have grass  because, you know, I'm, like, a come
 00:41:25,850 --> 00:41:27,850
 [ANNIE]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 626
 00:41:28,350 --> 00:41:34,350
@@ -4038,7 +4037,7 @@ Yeah.  Yeah.  And you know something? I think that I'm starting to get more of y
 00:42:33,000 --> 00:42:35,000
 [ALVY]
 Are yuh?
-ເຈົ້າເປັນບໍ?
+ແມ່ນບໍ່?
 
 640
 00:42:35,500 --> 00:42:37,500
@@ -4373,7 +4372,7 @@ Right.  Tsch, well, I have to-I have t-o go now, Duane, because I-I'm due back o
 00:45:50,500 --> 00:45:53,300
 [MOM HALL]
 Now, don't let it be so long, now.
-ດຽວນີ້, ຢ່າປ່ອຍໃຫ້ມັນຍາວຫຼາຍ, ດຽວນີ້.
+ສະບາຍດີ ຢ່າໃຫ້ມັນດົນເກີນໄປເດີ້.
 
 694
 00:45:53,800 --> 00:45:55,800
@@ -4599,7 +4598,7 @@ Alvy!  Alvy!  You're the one who never wanted to make a real commitment.  You do
 00:48:07,950 --> 00:48:09,950
 [ANNIE]
 I'm home!
-ຂ້ອຍຢູ່ເຮືອນແລ້ວ!
+ຂ້ອຍກັບບ້ານແລ້ວ!
 
 730
 00:48:10,450 --> 00:48:12,450
@@ -4650,7 +4649,7 @@ Me?  I'm-I'm one of the few males who suffers from that, so, so ... you know.
 00:48:39,950 --> 00:48:41,950
 [ANNIE]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 738
 00:48:42,450 --> 00:48:44,450
@@ -4669,7 +4668,7 @@ Well, she said that I was very guilty about my impulses toward marriage, and-and
 00:48:50,700 --> 00:48:52,700
 [ALVY]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 741
 00:48:53,200 --> 00:48:59,150
@@ -4688,7 +4687,7 @@ Tsch. Rea - ສິ່ງທັງ ຫມົດ ນີ້ເກີດຂຶ້ນ
 00:49:03,300 --> 00:49:05,300
 [ANNIE]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 744
 00:49:05,800 --> 00:49:11,800
@@ -4936,7 +4935,7 @@ Uh, I'm very shallow and empty and I have no ideas and nothing interesting to sa
 00:51:47,500 --> 00:51:49,600
 [YOUNG MAN]
 And I'm exactly the same way.
-ແລະຂ້ອຍກໍຄືກັນ.
+ແລະຂ້ອຍແມ່ນແບບດຽວກັນຢ່າງແທ້ໆ.
 
 783
 00:51:50,100 --> 00:51:55,000
@@ -5414,7 +5413,7 @@ Two ... Yeah.  Lotta, lotta trouble. There's two of 'em.
 00:57:00,400 --> 00:57:02,400
 [ANNIE]
 Two?
-ສອງຄົນບໍ?
+ສອງບໍ່?
 
 858
 00:57:02,900 --> 00:57:08,900
@@ -5463,7 +5462,7 @@ Honey, there's a spider in your bathroom the size of a Buick.
 00:57:29,800 --> 00:57:31,800
 [ANNIE]
 Well, okay.  Oooh.
-ດີ, ດີ. ໂອ້.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ. ໂອ້.
 
 866
 00:57:32,300 --> 00:57:35,100
@@ -5475,7 +5474,7 @@ Hey, what is this?  You got black soap?
 00:57:35,600 --> 00:57:37,600
 [ANNIE]
 It's for my complexion.
-ມັນເປັນສໍາລັບຜິວຫນັງຂອງຂ້ອຍ.
+ແມ່ນເພື່ອຜິວໜັງຂອງຂ້ອຍເອງ.
 
 868
 00:57:38,100 --> 00:57:44,100
@@ -5620,7 +5619,7 @@ Tsch, ເປັນຫຍັງພວກເຮົາບໍ່ເອົາ... ເ�
 00:59:07,950 --> 00:59:09,950
 [ANNIE]
 Okay, okay.  Okay.
-ດີ, ດີ. ດີ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ. ແມ່ນແລ້ວ
 
 891
 00:59:10,450 --> 00:59:13,250
@@ -5713,7 +5712,7 @@ Oh, look, look, there's that ... that's -that's my old house.  That's where I us
 01:00:03,400 --> 01:00:05,400
 [ANNIE]
 Holy cow!
-ງົວສັກສິດ!
+ສະຫວັນນະເຂດ!
 
 906
 01:00:05,900 --> 01:00:10,450
@@ -6234,7 +6233,7 @@ Oh, well, I-if it's inconvenient, eh, we can't do it now ... that's fine, too.  
 01:05:13,450 --> 01:05:15,450
 [ANNIE]
 Hey-
-ເຮ້...
+ສະບາຍດີ -
 
 989
 01:05:15,950 --> 01:05:21,200
@@ -6500,7 +6499,7 @@ Oh, do you know something-I didn't tell yuh, we're going to California next week
 01:08:29,100 --> 01:08:31,100
 [GIRL]
 Oh, really?
-ໂອ້, ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1030
 01:08:31,600 --> 01:08:33,600
@@ -6591,7 +6590,7 @@ You know, I can't get over that this is really Beverly Hills.
 01:09:35,800 --> 01:09:39,650
 [VOICES]
 We wish you a Merry Christmas, And a Happy New Year.
-ພວກເຮົາຂໍອວຍພອນເຈົ້າໃຫ້ມີວັນຄຣິດສະມາດທີ່ດີ, ແລະປີໃຫມ່ດີ.
+ພວກເຮົາຂໍຝາກຄວາມສະບາຍດີວັນຄຣິສມັສ ແລະ ສະບາຍດີປີໃໝ່ເດີ.
 
 1044
 01:09:40,150 --> 01:09:44,000
@@ -6973,7 +6972,7 @@ Yes, excuse me.  Perhaps it would be even better if we took him to the hospital 
 01:13:28,250 --> 01:13:30,250
 [ANNIE]
 Uh-huh ... Oh, hospital?
-ໂອ້... ໂອ້ ໂຮງຫມໍບໍ?
+ແມ່ນແລ້ວ... ແມ່ນແລ້ວ, ໂຮງໝໍບໍ່?
 
 1105
 01:13:30,750 --> 01:13:34,600
@@ -7004,7 +7003,7 @@ You like this house, Max?
 01:13:46,600 --> 01:13:48,600
 [ALVY]
 M'hm.
-ຂ້ອຍ.
+ແມ່ນແລ້ວ.
 
 1110
 01:13:49,100 --> 01:13:53,300
@@ -7264,7 +7263,7 @@ Charlie Chaplin.
 01:16:19,500 --> 01:16:21,500
 [ALVY]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 1152
 01:16:22,000 --> 01:16:24,000
@@ -7533,7 +7532,7 @@ This "Denial of Death".  You remember this?
 01:19:14,950 --> 01:19:16,950
 [ANNIE]
 Oh-
-ໂອ້...
+ໂອ້ -
 
 1194
 01:19:17,450 --> 01:19:20,600
@@ -8007,7 +8006,7 @@ Officer, I know what you're gonna say. I'm-I'm not a great driver, you know, I-I
 01:24:38,550 --> 01:24:40,650
 [OFFICER]
 May I see your license, please?
-ຂ້ອຍສາມາດເຫັນໃບອະນຸຍາດຂອງທ່ານໄດ້ບໍ?
+ຂ້ອຍຂໍເບິ່ງໃບຂັບຂີ່ຂອງທ່ານໄດ້ບໍ່?
 
 1267
 01:24:41,150 --> 01:24:47,150

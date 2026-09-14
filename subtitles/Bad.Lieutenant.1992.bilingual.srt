@@ -152,7 +152,7 @@ I want 15 on the Mets.
 00:01:58,800 --> 00:02:00,800
 [LITE]
 How about 7 1/2?
-ຈະເປັນແນວໃດກັບ 7 1/2?
+7 1/2 ແມ່ນບໍ່?
 
 25
 00:02:01,300 --> 00:02:07,300
@@ -635,7 +635,7 @@ So what. Are you a Catholic?
 00:07:05,800 --> 00:07:07,800
 [LT]
 Sure!
-ແນ່ນອນ!
+ແມ່ນແລ້ວ!
 
 102
 00:07:08,300 --> 00:07:10,300
@@ -672,7 +672,7 @@ If you know what's good for you, you'll keep staying on Oakland!
 00:07:27,000 --> 00:07:29,100
 [BET COP]
 Oakland? Is that how you're going?
-ໂອຄແລນ? ເຈົ້າໄປແບບນັ້ນບໍ?
+ໂອຄແລນແມ່ນບໍ່? ນັ້ນແມ່ນວິທີທີ່ທ່ານກໍາລັງໄປບໍ່?
 
 108
 00:07:29,600 --> 00:07:35,600
@@ -905,7 +905,7 @@ I believe in God the Father Almighty, Creator of Heaven and Earth...
 00:10:14,150 --> 00:10:17,650
 [LT]
 You wouldn't put some religious trip on me, would you?
-ເຈົ້າຈະບໍ່ເອົາການເດີນທາງທາງສາສະຫນາໃສ່ຂ້ອຍ, ແມ່ນບໍ?
+ເຈົ້າບໍ່ຢາກໃຫ້ຂ້ອຍໄປເຄື່ອນໄຫວທາງສາສະໜາບໍ່ ແມ່ນບໍ່?
 
 144
 00:10:18,150 --> 00:10:20,150
@@ -1573,7 +1573,7 @@ There's nothing to think about. Either you put in my bet or you ain't getting no
 00:18:04,050 --> 00:18:06,050
 [LARGE]
 Oh, really?
-ໂອ້, ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 248
 00:18:06,550 --> 00:18:10,400
@@ -1670,7 +1670,7 @@ How come all those guys who're looking to get 50 from the Church haven't come up
 00:19:15,250 --> 00:19:17,250
 [LT]
 I'm a Catholic.
-ຂ້ອຍເປັນຄາໂຕລິກ.
+ຂ້ອຍແມ່ນແຄໂຕລິກ.
 
 263
 00:19:17,750 --> 00:19:20,900

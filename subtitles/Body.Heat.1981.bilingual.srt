@@ -431,7 +431,7 @@ I told you. I've got a husband.
 00:04:39,800 --> 00:04:41,800
 [RACINE]
 I'll buy him one too.
-ຂ້ອຍຈະຊື້ຫນຶ່ງໃຫ້ລາວເຊັ່ນກັນ.
+ຂ້ອຍຈະຊື້ໃຫ້ລາວອີກດ້ວຍ.
 
 70
 00:04:42,300 --> 00:04:44,300
@@ -776,7 +776,7 @@ Maybe you should drink at home.
 00:07:51,100 --> 00:07:53,100
 [MATTY]
 Too quiet.
-ງຽບເກີນໄປ.
+ສະງຽບຫຼາຍ.
 
 126
 00:07:53,600 --> 00:07:55,700
@@ -1222,7 +1222,7 @@ I don't know. Maybe This sure is a friendly town.
 00:11:53,200 --> 00:11:55,200
 [RACINE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 199
 00:11:55,700 --> 00:11:58,500
@@ -1544,7 +1544,7 @@ Whatcha got in pie today, Stella?
 00:15:06,050 --> 00:15:08,050
 [STELLA]
 Cherry, cherry... and cherry.
-Cherry, cherry... ແລະ cherry.
+ແຊຣ໌, ແຊຣີ... ແລະແຊຣີ.
 
 251
 00:15:08,550 --> 00:15:10,550
@@ -1747,7 +1747,7 @@ Oh, I know you will, darling. I didn't mean that. I know you will. But it doesn'
 00:17:21,750 --> 00:17:23,850
 [RACINE]
 Anyway, you'll come out all right.
-ຢ່າງໃດກໍຕາມ, ເຈົ້າຈະອອກມາໄດ້ດີ.
+ແມ່ນແລ້ວ, ເຈົ້າຈະອອກມາບໍ່ເປັນຫຍັງເລີຍ.
 
 283
 00:17:24,350 --> 00:17:26,350
@@ -2186,7 +2186,7 @@ I've heard this place is great. But you can't get near it on the weekends and I 
 00:21:45,650 --> 00:21:47,650
 [RACINE]
 Is that right?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 353
 00:21:48,150 --> 00:21:53,750
@@ -2294,7 +2294,7 @@ Edmund's company owns The Breakers.
 00:22:51,900 --> 00:22:53,900
 [RACINE]
 Is that right?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 370
 00:22:54,400 --> 00:23:00,400
@@ -2815,7 +2815,7 @@ Edmund.
 00:28:39,600 --> 00:28:41,600
 [MATTY]
 I can't sleep, either.
-ຂ້ອຍບໍ່ນອນໄດ້ຄືກັນ.
+ຂ້ອຍຍັງບໍ່ສາມາດນອນໄດ້ເລີຍ.
 
 452
 00:28:42,100 --> 00:28:44,100
@@ -2968,7 +2968,7 @@ She did.
 00:30:03,700 --> 00:30:05,700
 [HEATHER]
 Thank you, Aunt Matty.
-ຂອບໃຈ, ແມ່ຕູ້ແມັດຕິ.
+ຂອບໃຈແມຕີ້.
 
 477
 00:30:06,200 --> 00:30:08,200
@@ -3223,7 +3223,7 @@ I think there's someone downstairs I heard something.
 00:32:32,950 --> 00:32:34,950
 [MATTY]
 Are you sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນບໍ່?
 
 518
 00:32:35,450 --> 00:32:37,450
@@ -3382,7 +3382,7 @@ Ned.   Miles Hardin. Do you want him?
 00:33:55,900 --> 00:33:57,900
 [RACINE]
 Who is he?
-ລາວເປັນໃຜ?
+ລາວແມ່ນໃຜ?
 
 544
 00:33:58,400 --> 00:34:00,850
@@ -3703,7 +3703,7 @@ No, there doesn't seem to be any problem here. This is Edmund Walker's last will
 00:37:10,350 --> 00:37:12,450
 [HARDIN]
 Would anyone mind if I smoked?
-ມີໃຜບໍ່ສົນໃຈຖ້າຂ້ອຍສູບຢາບໍ?
+ບໍ່ເປັນຫຍັງບໍ່ວ່າຂ້ອຍຈະສູບຢາບໍ່?
 
 595
 00:37:12,950 --> 00:37:16,450
@@ -3913,7 +3913,7 @@ Hi, guys. Just come on in, make yourself at home.
 00:39:31,400 --> 00:39:33,400
 [GRACE]
 Sorry about that.
-ຂໍໂທດກ່ຽວກັບເລື່ອງນັ້ນ.
+ຂໍໂທດເດີ.
 
 628
 00:39:33,900 --> 00:39:39,900
@@ -4228,7 +4228,7 @@ I've been down there a lot lately. Isn't that amazing? Miami. Jesus. I'm handlin
 00:43:09,250 --> 00:43:11,250
 [LOWENSTEIN]
 He is mad.
-ລາວໂຊກຮ້າຍ.
+ລາວແມ່ນໂງ່ແລ້ວ.
 
 677
 00:43:11,750 --> 00:43:17,750
@@ -4447,7 +4447,7 @@ I'm sorry our town is so hot for your visit.
 00:45:41,750 --> 00:45:43,750
 [HEATHER]
 It sure is.
-ມັນແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 711
 00:45:44,250 --> 00:45:46,250
@@ -4465,7 +4465,7 @@ Goodbye.
 00:45:49,250 --> 00:45:51,350
 [STELLA]
 Hi, Racine. How you doing today?
-ສະບາຍດີ, ຣາຊິນ. ເຈົ້າເປັນແນວໃດໃນມື້ນີ້?
+ສະບາຍດີ ແຣຊິນ ເຈົ້າສະບາຍດີບໍ່ມື້ນີ້?
 
 714
 00:45:51,850 --> 00:45:55,700
@@ -4552,7 +4552,7 @@ Poor little Heather! She's never seen one angry before. But it made quite an imp
 00:46:37,500 --> 00:46:39,500
 [RACINE]
 That's it?
-ນັ້ນແມ່ນມັນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 728
 00:46:40,000 --> 00:46:46,000
@@ -4650,7 +4650,7 @@ I don't know what to think. I'm worried. But it's not about the glasses. Or your
 00:47:48,300 --> 00:47:50,300
 [RACINE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 743
 00:47:50,800 --> 00:47:56,800
@@ -4849,7 +4849,7 @@ Hey, this is silly. You're not still mad about that Gourson business?  We had to
 00:50:03,900 --> 00:50:05,900
 [RACINE]
 Forget it.
-ລືມມັນໄປ.
+ລືມເລີຍ.
 
 774
 00:50:06,400 --> 00:50:09,200
@@ -4948,7 +4948,7 @@ Teddy Laursen is in County. He's very anxious to talk to you. He sounded bad.
 00:50:59,300 --> 00:51:01,300
 [BEVERLY]
 Hey, are you all right?
-ເຮ້, ເຈົ້າດີບໍ?
+ສະບາຍດີ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 790
 00:51:01,800 --> 00:51:07,800

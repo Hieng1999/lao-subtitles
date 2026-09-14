@@ -97,7 +97,7 @@ He's all yours. And I'm not your partner.
 00:01:09,750 --> 00:01:11,750
 [LEE]
 Someday.
-ມື້ຫນຶ່ງ.
+ມື້ໜຶ່ງແມ່ນແລ້ວ.
 
 17
 00:01:12,250 --> 00:01:18,250
@@ -116,7 +116,7 @@ skeeter ແລະການຕໍ່ສູ້ດື່ມກ່ຽວກັບຫ
 00:01:21,250 --> 00:01:23,250
 [BUCKY]
 Somethin' up, Tommy?
-ມີຫຍັງເກີດຂຶ້ນບໍ, ໂຕມມີ?
+ບໍ່ເປັນຫຍັງບໍ່, ໂຕມມີ?
 
 20
 00:01:23,750 --> 00:01:27,600
@@ -401,7 +401,7 @@ Papa?
 00:04:14,350 --> 00:04:16,350
 [DOLPH]
 Guten tag, Dwight.
-ກະທູ້ດີເດີ້, ດວາຍຕ໌.
+ສະບາຍດີ, ດວາຍຕ໌.
 
 65
 00:04:16,850 --> 00:04:18,850
@@ -611,7 +611,7 @@ Well?
 00:06:29,350 --> 00:06:31,350
 [BUCKY]
 He'll catch on soon enough.
-ລາວຈະຈັບໄດ້ໄວພໍສົມຄວນ.
+ລາວຈະເຂົ້າໃຈໄດ້ໄວໆນີ້.
 
 98
 00:06:31,850 --> 00:06:33,850
@@ -774,7 +774,7 @@ Versailles apartments. Sixth and St. Andrews.
 00:08:03,500 --> 00:08:05,500
 [BUCKY]
 Right there!
-ຢູ່ບ່ອນນັ້ນ!
+ແມ່ນແລ້ວ!
 
 124
 00:08:06,000 --> 00:08:08,000
@@ -835,7 +835,7 @@ Least I don't call him "kike".
 00:08:32,950 --> 00:08:34,950
 [VOGEL]
 C'mon, Billy.
-ມາແລ້ວ, ບີລີ.
+ສະບາຍດີ ບີລີ.
 
 134
 00:08:35,450 --> 00:08:37,450
@@ -1126,7 +1126,7 @@ Rise and shine partner!
 00:11:17,800 --> 00:11:19,800
 [BUCKY]
 Lee? You okay?
-ລີ? ເຈົ້າດີບໍ?
+ລີ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 181
 00:11:20,300 --> 00:11:26,300
@@ -1267,7 +1267,7 @@ You were supposed to meet me at the fights tonight, remember?
 00:12:31,950 --> 00:12:33,950
 [LEE]
 Priority. Remember.
-ເປັນບູລິມະສິດ. ຈື່ໄວ້.
+ໃຫ້ຄວາມສໍາຄັນກ່ອນ. ຈື່ໄວ້ເດີ.
 
 204
 00:12:34,450 --> 00:12:36,900
@@ -1640,7 +1640,7 @@ Lee stomps, you tread lightly.
 00:16:24,350 --> 00:16:26,350
 [BUCKY]
 Lee's--
-ລີ...
+ລີແມ່ນ...
 
 263
 00:16:26,850 --> 00:16:31,750
@@ -1865,7 +1865,7 @@ I'm bored.
 00:18:37,000 --> 00:18:39,000
 [BUCKY]
 This'll just take a minute.
-ມັນຈະໃຊ້ເວລາພຽງແຕ່ ຫນຶ່ງ ນາທີເທົ່ານັ້ນ.
+ມັນຈະໃຊ້ເວລາບໍ່ຫຼາຍປານໃດ.
 
 299
 00:18:39,500 --> 00:18:43,700
@@ -2042,7 +2042,7 @@ Relax, Elizabeth.
 00:20:31,500 --> 00:20:33,600
 [ELIZABETH SHORT]
 Sorry. Can we try it again?
-ຂໍໂທດ. ພວກເຮົາສາມາດພະຍາຍາມອີກເທື່ອຫນຶ່ງໄດ້ບໍ?
+ຂໍໂທດເດີ. ພວກເຮົາລອງອີກບໍ່?
 
 327
 00:20:34,100 --> 00:20:36,100
@@ -2186,7 +2186,7 @@ No shit.
 00:21:55,000 --> 00:21:57,000
 [BUCKY]
 What about this girl?
-ເດັກຍິງຄົນນີ້ແນວໃດ?
+ແລ້ວສາວຄົນນີ້ແມ່ນບໍ່?
 
 350
 00:21:57,500 --> 00:21:59,500
@@ -2383,7 +2383,7 @@ You plied Betty with drinks, got her to talk about her old boyfriends and came o
 00:24:08,700 --> 00:24:10,700
 [RED MANLEY]
 No--
-ບໍ່...
+ບໍ່ -
 
 381
 00:24:11,200 --> 00:24:17,200
@@ -2409,13 +2409,13 @@ Yes, Reddy, yes. You thought of every girl who said "I don't suck", every time y
 00:24:26,700 --> 00:24:28,700
 [RED MANLEY]
 No--
-ບໍ່...
+ບໍ່ -
 
 385
 00:24:29,200 --> 00:24:31,200
 [RED MANLEY]
 No--
-ບໍ່...
+ບໍ່ -
 
 386
 00:24:31,700 --> 00:24:34,850
@@ -2597,7 +2597,7 @@ I'm a policeman.
 00:26:16,600 --> 00:26:18,600
 [MADELEINE]
 Well that's a new one--
-ດີນັ້ນແມ່ນຄົນໃຫມ່...
+ແມ່ນແລ້ວ ນັ້ນແມ່ນເລື່ອງໃໝ່ໆ -
 
 415
 00:26:19,100 --> 00:26:21,100
@@ -2846,7 +2846,7 @@ Look. I hate to pull this, but Daddy has heard about you. He insisted you stay f
 00:28:52,800 --> 00:28:54,800
 [BUCKY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 454
 00:28:55,300 --> 00:29:01,300
@@ -2903,7 +2903,7 @@ Too bad. Shamed his family.  Speaking of families--
 00:29:28,850 --> 00:29:30,950
 [RAMONA]
 Madeleine says nice things about you.
-ແມັກເດລິນເວົ້າບາງສິ່ງບາງຢ່າງທີ່ດີກ່ຽວກັບເຈົ້າ.
+ແມດເລນເວົ້າຫຍັງດີໆກ່ຽວກັບເຈົ້າ.
 
 463
 00:29:31,450 --> 00:29:36,000
@@ -3231,7 +3231,7 @@ They were just pickups.
 00:32:56,400 --> 00:32:58,850
 [RUSS MILLARD]
 No one who would do her harm?
-ບໍ່ມີໃຜທີ່ຈະເຮັດໃຫ້ນາງເຈັບປວດບໍ?
+ບໍ່ມີໃຜທີ່ຈະທໍາຮ້າຍນາງບໍ່?
 
 515
 00:32:59,350 --> 00:33:03,200
@@ -3496,7 +3496,7 @@ They picked up Linda Martin yesterday. She had a stag film of her and Betty Shor
 00:35:44,300 --> 00:35:46,300
 [MADELEINE]
 Did she mention me?
-ນາງໄດ້ກ່າວເຖິງຂ້ອຍບໍ?
+ນາງໄດ້ເວົ້າກ່ຽວກັບຂ້ອຍບໍ່?
 
 557
 00:35:46,800 --> 00:35:52,800
@@ -3930,7 +3930,7 @@ It's not as much fun once it moves to the back pages, is it?  I hear they arrest
 00:40:44,950 --> 00:40:46,950
 [BUCKY]
 I heard that, too.
-ຂ້ອຍໄດ້ຍິນແລ້ວ.
+ຂ້ອຍກໍໄດ້ຍິນຄືກັນ.
 
 624
 00:40:47,450 --> 00:40:49,450
@@ -4215,7 +4215,7 @@ Bucky! No! Stop him!  I'll do whatever you want...
 00:43:52,150 --> 00:43:54,150
 [ISSLER]
 I'll be okay....Liz...
-ຂ້ອຍຈະດີດີ... ລີສ...
+ຂ້ອຍບໍ່ເປັນຫຍັງເລີຍ... ລີສ໌...
 
 669
 00:43:54,650 --> 00:43:56,650
@@ -5063,7 +5063,7 @@ Four of my guys he take, the fifth he don't. Rurales take him home to sleep it o
 00:52:27,750 --> 00:52:29,750
 [BUCKY]
 That's it?
-ນັ້ນແມ່ນມັນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 803
 00:52:30,250 --> 00:52:32,250
@@ -5172,7 +5172,7 @@ Blanchard's dead. Bullet in the cabeza.  Rumor is they never found any money.
 00:53:39,400 --> 00:53:41,500
 [BUCKY]
 Prove it to me. Prove it!
-ໃຫ້ມັນພິສູດໃຫ້ຂ້ອຍ. ພິສູດມັນ!
+ສະແດງໃຫ້ຂ້ອຍເຫັນເດີ້. ສະແດງໄວ້ເດີ້!
 
 820
 00:53:42,000 --> 00:53:46,900
@@ -5330,7 +5330,7 @@ Yes. Tell whoever cleans it up to use pure ammonia...  Mrs. Chambers--
 00:55:09,600 --> 00:55:11,600
 [JANE CHAMBERS]
 Jane.
-ເຈນ
+ແຈນ.
 
 845
 00:55:12,100 --> 00:55:16,300
@@ -5409,7 +5409,7 @@ Wonder how he made it?
 00:55:54,500 --> 00:55:56,500
 [VIC]
 No mystery there. Real estate.
-ບໍ່ມີຄວາມລັບຢູ່ບ່ອນນັ້ນ. ອະສັງຫາລິມະຊັບ.
+ບໍ່ມີຄວາມລັບເລີຍ. ຊັບສິນທີ່ແທ້ຈິງ.
 
 858
 00:55:57,000 --> 00:55:59,000
@@ -5440,7 +5440,7 @@ I'm...looking for the hammer.
 00:56:11,000 --> 00:56:13,000
 [KAY]
 Dwight?
-ດວາຍທ໌?
+ດວາຍຕ໌ແມ່ນບໍ່?
 
 863
 00:56:13,500 --> 00:56:15,950
@@ -5543,7 +5543,7 @@ You're not that old. And you're not very widowed.
 00:57:24,000 --> 00:57:26,100
 [JANE CHAMBERS]
 You either are or you aren't.
-ເຈົ້າເປັນຫຼືບໍ່.
+ແມ່ນແລ້ວ ຫຼືບໍ່ແມ່ນແລ້ວ.
 
 879
 00:57:26,600 --> 00:57:29,050
@@ -5562,7 +5562,7 @@ Eldridge had cancer. I half expected it. We weren't that close anymore...You mar
 00:57:34,600 --> 00:57:36,600
 [BUCKY]
 Little over a year.
-ເກີນກວ່າປີຫນຶ່ງ.
+ເກືອບໜຶ່ງປີແລ້ວ.
 
 882
 00:57:37,100 --> 00:57:39,200
@@ -5625,7 +5625,7 @@ My husband was rich and did a mean Charleston. I loved him until I found out he 
 00:58:14,200 --> 00:58:16,200
 [BUCKY]
 It's not so strange.
-ມັນບໍ່ແປກໃຈຫຼາຍ.
+ບໍ່ແປກຫຼາຍເລີຍ.
 
 892
 00:58:16,700 --> 00:58:21,250
@@ -6323,7 +6323,7 @@ I need to see it.
 01:05:52,550 --> 01:05:54,550
 [EMMETT SPRAGUE]
 It?
-ມັນບໍ?
+ແມ່ນບໍ່?
 
 1001
 01:05:55,050 --> 01:05:58,200
@@ -6489,7 +6489,7 @@ Oh is that so? You poor boy. Your life is worse than mine. Maybe the cruel joke 
 01:07:38,750 --> 01:07:40,750
 [KAY]
 Dwight?
-ດວາຍທ໌?
+ດວາຍຕ໌ແມ່ນບໍ່?
 
 1027
 01:07:41,250 --> 01:07:45,100

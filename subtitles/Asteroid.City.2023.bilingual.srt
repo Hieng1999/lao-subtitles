@@ -366,7 +366,7 @@ I know.
 00:03:43,800 --> 00:03:45,800
 [AUGIE]
 The time is never right.
-ເວລາບໍ່ເຄີຍຖືກຕ້ອງເລີຍ.
+ເວລາແມ່ນບໍ່ເໝາະສົມເລີຍ.
 
 60
 00:03:46,300 --> 00:03:48,300
@@ -465,7 +465,7 @@ Dear Heavenly Father, We thank Thee kindly for a terrific bus ride. I ate three 
 00:04:36,700 --> 00:04:38,700
 [CURLY-HAIRED GIRL]
 Could so!
-ມັນເປັນໄປໄດ້!
+ແມ່ນແລ້ວ!
 
 76
 00:04:39,200 --> 00:04:41,200
@@ -608,7 +608,7 @@ This bucket of nuts just stole my quarter.
 00:05:55,700 --> 00:05:57,700
 [MOTEL MANAGER]
 I beg your pardon.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 99
 00:05:58,200 --> 00:06:04,200
@@ -659,7 +659,7 @@ Did you know? Already.
 00:06:28,500 --> 00:06:30,500
 [WOODROW]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 107
 00:06:31,000 --> 00:06:37,000
@@ -728,7 +728,7 @@ You took a picture of me.
 00:07:11,800 --> 00:07:13,800
 [AUGIE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 118
 00:07:14,300 --> 00:07:16,300
@@ -770,13 +770,13 @@ Because I work in trenches, battlefields, and combat zones. 21.
 00:07:30,800 --> 00:07:32,800
 [MIDGE]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 125
 00:07:33,300 --> 00:07:35,300
 [AUGIE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 126
 00:07:35,800 --> 00:07:37,900
@@ -813,7 +813,7 @@ Make me a print first. To approve.
 00:07:56,200 --> 00:07:58,200
 [AUGIE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 132
 00:07:58,700 --> 00:08:00,700
@@ -837,7 +837,7 @@ I have a question.
 00:08:06,200 --> 00:08:08,200
 [AUGIE]
 Uh-huh. 22.
-ອູຮູ. 22.
+ແມ່ນແລ້ວ. 22.
 
 136
 00:08:08,700 --> 00:08:11,150
@@ -1171,7 +1171,7 @@ Who hit you?
 00:11:40,250 --> 00:11:42,250
 [MIDGE]
 Nobody.
-ບໍ່ມີໃຜ.
+ບໍ່ໃຜເລີຍ.
 
 189
 00:11:42,750 --> 00:11:46,600
@@ -1252,7 +1252,7 @@ No.
 00:12:27,250 --> 00:12:29,250
 [CLIFFORD]
 Let's do a personality test.
-ພວກເຮົາຈະເຮັດການທົດສອບບຸກຄະລິກໍາ.
+ມາເຮັດການທົດສອບຄວາມເປັນສ່ວນຕົວກັນເດີ້.
 
 202
 00:12:29,750 --> 00:12:31,750
@@ -1519,7 +1519,7 @@ After that, the second person says the name the first one said and adds another;
 00:14:54,250 --> 00:14:56,250
 [RICKY]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 245
 00:14:56,750 --> 00:14:58,750
@@ -1720,7 +1720,7 @@ Memorizing my lines.
 00:16:48,600 --> 00:16:50,600
 [AUGIE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 277
 00:16:51,100 --> 00:16:53,100
@@ -1813,7 +1813,7 @@ I prefer to play abused, tragic alcoholics, and one day I'll probably be discove
 00:17:45,000 --> 00:17:47,000
 [AUGIE]
 That's true.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ແມ່ນແລ້ວ.
 
 292
 00:17:47,500 --> 00:17:49,500
@@ -1837,7 +1837,7 @@ Why not? I mean: I wasn't going to. I'm sorry.
 00:17:57,650 --> 00:18:01,850
 [AUGIE]
 Thank you. They do know, by the way -- but just barely.
-ຂອບໃຈ. ພວກເຂົາຮູ້, ເຖິງຢ່າງໃດກໍ່ຕາມ - ແຕ່ພຽງແຕ່ເກືອບ.
+ຂອບໃຈເດີ. ແມ່ນແລ້ວພວກເຂົາຮູ້ແລ້ວ - ແຕ່ພຽງເລັກນ້ອຍເທົ່ານັ້ນ.
 
 296
 00:18:02,350 --> 00:18:04,450
@@ -2070,7 +2070,7 @@ Really? Wow! What'll they say in Squad 75?
 00:20:18,600 --> 00:20:20,600
 [WOODROW]
 Hm?
-ເຮມ?
+ແມ່ນແລ້ວບໍ່?
 
 333
 00:20:21,100 --> 00:20:23,100
@@ -2173,7 +2173,7 @@ Cool and delicious.
 00:21:28,900 --> 00:21:31,700
 [PLAYWRIGHT]
 How long have you been in the service?
-ເຈົ້າຢູ່ໃນບໍລິການດົນປານໃດ?
+ເຈົ້າເຮັດວຽກໃນຕໍາແໜ່ງມາໄດ້ດົນປານໃດ?
 
 349
 00:21:32,200 --> 00:21:36,050
@@ -2571,7 +2571,7 @@ One last note: when Midge makes her exit in Act 3, Scene V -- try having her say
 00:26:00,700 --> 00:26:02,700
 [DIRECTOR]
 I will.
-ຂ້ອຍຈະເຮັດ.
+ແມ່ນແລ້ວ.
 
 411
 00:26:03,200 --> 00:26:05,200
@@ -2698,7 +2698,7 @@ That's an alien doing jumping jacks. That's an alien in a top hat. That's an ali
 00:27:22,500 --> 00:27:24,600
 [DETECTIVE #1]
 Let's take it from the top.
-ມາເອົາມັນຈາກເທິງສຸດ.
+ແມ່ນແລ້ວ, ພວກເຮົາຈະເລີ່ມຕົ້ນຈາກເບື້ອງຕົ້ນ.
 
 431
 00:27:25,100 --> 00:27:29,300
@@ -2889,7 +2889,7 @@ I'm not a good mother.
 00:29:10,750 --> 00:29:12,750
 [AUGIE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 462
 00:29:13,250 --> 00:29:19,250
@@ -2909,7 +2909,7 @@ We have a magical time when we're together. I have another girl and a boy. They 
 00:29:26,250 --> 00:29:28,250
 [AUGIE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 465
 00:29:28,750 --> 00:29:30,750
@@ -2921,7 +2921,7 @@ He rarely sees them, either.
 00:29:31,250 --> 00:29:33,250
 [AUGIE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 467
 00:29:33,750 --> 00:29:39,750
@@ -2979,13 +2979,13 @@ I mean, I think I know now what I realize we are: two catastrophically wounded p
 00:30:10,250 --> 00:30:12,250
 [AUGIE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 476
 00:30:12,750 --> 00:30:14,750
 [AUGIE]
 Let's change the subject.
-ພວກເຮົາປ່ຽນຫົວຂໍ້.
+ແລກຫົວຂໍ້ກັນເດີ້.
 
 477
 00:30:15,250 --> 00:30:17,250
@@ -3166,7 +3166,7 @@ cactuses ຕາຍແລະຕຽງແມ່ນໍ້າທີ່ແຫ້ງ�
 00:32:14,550 --> 00:32:16,550
 [J.J.]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 505
 00:32:17,050 --> 00:32:19,050
@@ -3197,7 +3197,7 @@ You dare me?
 00:32:31,500 --> 00:32:33,500
 [J.J.]
 How about water?
-ຈະເປັນແນວໃດກັບນໍ້າ?
+ນໍ້າແມ່ນບໍ່?
 
 510
 00:32:34,000 --> 00:32:38,200
@@ -3275,7 +3275,7 @@ What happens next? Nobody knows! Will he visit us again? Will he speak to us? Wh
 00:33:30,300 --> 00:33:32,300
 [AUGIE]
 That's true.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ແມ່ນແລ້ວ.
 
 522
 00:33:32,800 --> 00:33:37,350
@@ -4057,7 +4057,7 @@ It says, "shouting and crying."
 00:41:40,700 --> 00:41:42,700
 [AUGIE]
 Uh-huh.
-ໂອ້.
+ແມ່ນແລ້ວ.
 
 646
 00:41:43,200 --> 00:41:45,200
@@ -4125,7 +4125,7 @@ So smash everything off the --
 00:42:17,500 --> 00:42:19,500
 [MIDGE]
 Use your grief. 94.
-ໃຊ້ຄວາມໂຊກຮ້າຍຂອງທ່ານ. 94.
+ໃຊ້ຄວາມທຸກທໍລະມານຂອງເຈົ້າເດີ້. 94.
 
 657
 00:42:20,000 --> 00:42:24,550
@@ -4544,7 +4544,7 @@ Maybe we can prove the hypothesis of Celestial Flirtation . 103.
 00:46:53,350 --> 00:46:55,350
 [DR. HICKENLOOPER]
 Let's try.
-ພວກເຮົາພະຍາຍາມ.
+ມາລອງກັນເດີ້.
 
 723
 00:46:55,850 --> 00:47:00,050
@@ -4598,7 +4598,7 @@ I'd like to take this opportunity -- and, by the way, all of this year's project
 00:47:34,400 --> 00:47:36,400
 [WOODROW]
 It's today again.
-ມັນເປັນມື້ນີ້ອີກເທື່ອຫນຶ່ງ.
+ແມ່ນແລ້ວແມ່ນມື້ນີ້ອີກແລ້ວ.
 
 731
 00:47:36,900 --> 00:47:39,350
@@ -4774,7 +4774,7 @@ Isn't there supposed to be some kind of answer? Out there in the cosmic wilderne
 00:49:16,700 --> 00:49:18,700
 [DIRECTOR]
 "Maybe there is one!"
-ບາງທີມີຄົນຫນຶ່ງ!
+ບາງທີແມ່ນມີໜຶ່ງເດີ້!
 
 759
 00:49:19,200 --> 00:49:23,400
@@ -4830,7 +4830,7 @@ We still use your photograph.
 00:49:45,750 --> 00:49:47,750
 [ACTRESS/WIFE]
 Do you remember the dialogue?
-ເຈົ້າຈື່ການສົນທະນາບໍ?
+ເຈົ້າບໍ່ຈື່ການເວົ້າກັນບໍ່?
 
 768
 00:49:48,250 --> 00:49:50,250
@@ -4989,7 +4989,7 @@ I would question whether it even is a plot.
 00:51:33,850 --> 00:51:35,850
 [STANLEY]
 It isn't.
-ມັນບໍ່ແມ່ນ.
+ແມ່ນບໍ່.
 
 793
 00:51:36,350 --> 00:51:38,350
@@ -5040,7 +5040,7 @@ I don't believe in God anymore.
 00:52:04,850 --> 00:52:06,850
 [STANLEY]
 Fair enough. Amen.
-ຍຸຕິທໍາພໍສົມຄວນ. ອາເມນ.
+ແມ່ນແລ້ວ. ອາເມນ.
 
 801
 00:52:07,350 --> 00:52:10,500

@@ -220,7 +220,7 @@ Peter Joshua.
 00:02:23,650 --> 00:02:25,650
 [REGGIE]
 I'm Regina Lampert.
-ຂ້ອຍເປັນເຣຈິນາ ລາມເປີຕ໌.
+ຂ້ອຍແມ່ນ ຣີຈິນາ ແລມເປີຕ໌.
 
 37
 00:02:26,150 --> 00:02:28,150
@@ -1185,7 +1185,7 @@ Pas du tout, madame, pardon -- pardon -- pardon.
 00:12:06,100 --> 00:12:08,100
 [SYLVIE]
 Who is it from?
-ມັນມາຈາກໃຜ?
+ແມ່ນຈາກໃຜແມ່ນບໍ່?
 
 191
 00:12:08,600 --> 00:12:10,600
@@ -1403,7 +1403,7 @@ To be more specific, he was wanted by this agency.
 00:14:20,700 --> 00:14:22,700
 [REGGIE]
 So that was it.
-ສະນັ້ນນັ້ນແມ່ນມັນ.
+ນັ້ນແມ່ນແລ້ວ.
 
 226
 00:14:23,200 --> 00:14:26,700
@@ -1654,7 +1654,7 @@ That's impossible. You're the only one who could have it.
 00:16:57,100 --> 00:16:59,550
 [REGGIE]
 I'm sorry it's impossible. It's the truth.
-ຂ້ອຍຂໍໂທດວ່າມັນບໍ່ສາມາດເຮັດໄດ້. ມັນເປັນຄວາມຈິງ.
+ຂ້ອຍຂໍໂທດບໍ່ເປັນໄປເລີຍ. ແມ່ນຄວາມຈິງແລ້ວ.
 
 266
 00:17:00,050 --> 00:17:02,050
@@ -2114,7 +2114,7 @@ He stiffens as the pain registers. Instead of shouting he merely closes his eyes
 00:21:52,500 --> 00:21:54,500
 [PETER]
 Reggie -- what's the trouble?
-ຣີຈີ - ມີຫຍັງເກີດຂຶ້ນ?
+ຣີຈີ - ບັນຫາແມ່ນຫຍັງ?
 
 339
 00:21:55,000 --> 00:21:57,800
@@ -2252,7 +2252,7 @@ As she frantically beats out the matches, her eyes on her work.
 00:23:14,050 --> 00:23:16,050
 [REGGIE]
 You're insane, absolutely insane!
-ເຈົ້າໂຊກຮ້າຍແທ້ໆ!
+ເຈົ້າແມ່ນໂງ່ແລ້ວ, ໂງ່ແທ້ໆ!
 
 361
 00:23:16,550 --> 00:23:18,650
@@ -2771,7 +2771,7 @@ If you do find the money -- you won't forget t' tell us about it, will you, fell
 00:28:41,450 --> 00:28:43,450
 [PETER]
 Don't worry.
-ຢ່າເປັນຫ່ວງ.
+ບໍ່ຕ້ອງຫ່ວງເລີຍ.
 
 444
 00:28:43,950 --> 00:28:49,950
@@ -2784,7 +2784,7 @@ Oh, I ain't worryin' -- but see this pudgy little fella here?  He worries -- an'
 00:28:50,450 --> 00:28:52,450
 [REGGIE]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 446
 00:28:52,950 --> 00:28:54,950
@@ -2991,7 +2991,7 @@ He -- he said if I didn't give the money, he'll kill me.
 00:31:02,200 --> 00:31:04,300
 [PETER]
 I wouldn't take that too seriously.
-ຂ້ອຍຈະບໍ່ເອົາມັນຢ່າງຈິງໃຈຫຼາຍ.
+ຂ້ອຍບໍ່ຕ້ອງເອົາໃຈໃສ່ຫຼາຍເລີຍ.
 
 479
 00:31:04,800 --> 00:31:06,800
@@ -3894,7 +3894,7 @@ Okay -- turn around.
 00:40:23,650 --> 00:40:25,650
 [SCOBIE]
 Sit down.
-ນັ່ງລົງ.
+ນັ່ງເດີ້.
 
 623
 00:40:26,150 --> 00:40:28,150
@@ -3924,7 +3924,7 @@ I said with the mouth shut.
 00:40:37,150 --> 00:40:39,150
 [DYLE]
 Sorry about that.
-ຂໍໂທດກ່ຽວກັບເລື່ອງນັ້ນ.
+ຂໍໂທດເດີ.
 
 628
 00:40:39,650 --> 00:40:41,650
@@ -4208,7 +4208,7 @@ Would you like to see where I was tattooed?
 00:43:29,200 --> 00:43:31,200
 [REGGIE]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 674
 00:43:31,700 --> 00:43:34,850
@@ -4337,7 +4337,7 @@ Come here.
 00:44:39,600 --> 00:44:41,600
 [REGGIE]
 Sit down.
-ນັ່ງລົງ.
+ນັ່ງເດີ້.
 
 695
 00:44:42,100 --> 00:44:48,100
@@ -4362,7 +4362,7 @@ Oh-oh -- here it comes. The fatherly talk. You forget I'm already a widow.
 00:44:56,600 --> 00:44:58,700
 [DYLE]
 So was Juliet -- at fifteen.
-ຈູລີຕ໌ເຊັ່ນກັນ - ໃນເວລາສິບຫ້າປີ.
+ຄືກັນກັບຈູເລຍ - ເມື່ອອາຍຸສິບຫ້າປີ.
 
 699
 00:44:59,200 --> 00:45:01,200
@@ -4535,7 +4535,7 @@ We'll be waitin' in room forty-seven, Miz Lampert -- so you just wiggle on over.
 00:46:34,900 --> 00:46:36,900
 [REGGIE]
 What day is it?
-ມັນເປັນມື້ໃດ?
+ແມ່ນມື້ໃດແລ້ວ?
 
 727
 00:46:37,400 --> 00:46:39,400
@@ -4579,7 +4579,7 @@ Are you a real cowboy?
 00:47:02,950 --> 00:47:04,950
 [TEX]
 Sure am.
-ແນ່ນອນວ່າເປັນ.
+ແມ່ນແລ້ວ.
 
 734
 00:47:05,450 --> 00:47:07,450
@@ -4676,7 +4676,7 @@ And stop threatening that boy. He doesn't have the money. Mrs. Lampert doesn't e
 00:47:51,800 --> 00:47:53,800
 [SCOBIE]
 Then who does?
-ຫຼັງຈາກນັ້ນໃຜເຮັດ?
+ແລ້ວແມ່ນໃຜບໍ່?
 
 750
 00:47:54,300 --> 00:47:57,100
@@ -4688,7 +4688,7 @@ I don't know, Herman -- maybe you do.
 00:47:57,600 --> 00:47:59,600
 [SCOBIE]
 Me?
-ຂ້ອຍບໍ?
+ຂ້ອຍແມ່ນບໍ່?
 
 752
 00:48:00,100 --> 00:48:02,200
@@ -4785,7 +4785,7 @@ We'd better exchange keys. Here's mine.
 00:49:08,600 --> 00:49:10,600
 [SCOBIE]
 I'll take that.
-ຂ້ອຍຈະເອົາມັນ.
+ຂ້ອຍຈະຮັບໄດ້.
 
 767
 00:49:11,100 --> 00:49:13,550
@@ -4956,7 +4956,7 @@ Nachurly. ແລະມັນຍັງໃຊ້ກັບເຮຣມານເຊ�
 00:50:42,700 --> 00:50:44,700
 [TEX & GIDEON]
 Nachurly!
-Naurly!
+ສະບາຍດີ!
 
 795
 00:50:45,200 --> 00:50:49,400
@@ -5368,7 +5368,7 @@ I'd love some, thanks.
 00:54:45,750 --> 00:54:47,750
 [REGGIE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 861
 00:54:48,250 --> 00:54:50,350
@@ -5443,7 +5443,7 @@ What? Assassinate somebody?
 00:55:29,400 --> 00:55:31,400
 [REGGIE]
 No --
-ບໍ່...
+ບໍ່ -
 
 873
 00:55:31,900 --> 00:55:37,900
@@ -5523,7 +5523,7 @@ I'm only next door -- if anything happens, holler.
 00:56:18,150 --> 00:56:20,150
 [DYLE]
 Reggie!
-ຣີຈີ!
+ເຣຈີ!
 
 886
 00:56:20,650 --> 00:56:22,650
@@ -6394,7 +6394,7 @@ But everyone and his Aunt Lilian's been through that bag. Somebody would have se
 01:05:21,750 --> 01:05:23,750
 [ADAM]
 Let's look anyway.
-ພວກເຮົາເບິ່ງຢ່າງໃດກໍຕາມ.
+ແມ່ນແລ້ວ, ມາເບິ່ງກັນເລີຍ.
 
 1025
 01:05:24,250 --> 01:05:26,250
@@ -6488,7 +6488,7 @@ Heroin -- peppermint-flavored heroin.
 01:06:20,200 --> 01:06:23,000
 [REGGIE]
 Well, I guess that's it -- dead end.
-ດີ, ຂ້ອຍຄິດວ່ານັ້ນແມ່ນມັນ - ຈຸດຕາຍ.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າແມ່ນແລ້ວ - ບໍ່ເປັນທາງເລີຍ.
 
 1040
 01:06:23,500 --> 01:06:29,500
@@ -7121,7 +7121,7 @@ Il est l�!
 01:13:21,400 --> 01:13:23,400
 [MED. SHOT -- STAMP BOOTH]
 Closed, deserted, empty.
-ປິດໄວ້, ຖືກປະຖິ້ມໄວ້, ເປົ່າ.
+ປິດແລ້ວ, ຫາຍສາບສູນແລ້ວ, ບໍ່ມີຫຍັງເລີຍ.
 
 1140
 01:13:23,900 --> 01:13:25,900
@@ -7245,7 +7245,7 @@ How much is it worth?
 01:14:36,700 --> 01:14:38,700
 [F�LIX]
 The money is unimportant.
-ເງິນບໍ່ມີຄວາມສໍາຄັນ.
+ເງິນແມ່ນບໍ່ສໍາຄັນເລີຍ.
 
 1160
 01:14:39,200 --> 01:14:41,200
@@ -7462,13 +7462,13 @@ Where are you going? Wait!
 01:17:03,100 --> 01:17:05,100
 [ADAM]
 Reggie!
-ຣີຈີ!
+ເຣຈີ!
 
 1194
 01:17:05,600 --> 01:17:07,600
 [ADAM]
 Reggie!
-ຣີຈີ!
+ເຣຈີ!
 
 1195
 01:17:08,100 --> 01:17:10,100
@@ -7912,7 +7912,7 @@ Wait, please! I need some time to think!
 01:21:40,950 --> 01:21:42,950
 [CARSON]
 One --
-ຫນຶ່ງ...
+ໜຶ່ງແມ່ນ -
 
 1266
 01:21:43,450 --> 01:21:49,450
@@ -7931,7 +7931,7 @@ As he slowly moves along behind the second colonnade, his gun ready, trying to g
 01:21:52,450 --> 01:21:54,450
 [CARSON'S VOICE]
 -- three --
-- ສາມ...
+- ສາມ -
 
 1269
 01:21:54,950 --> 01:21:56,950

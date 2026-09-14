@@ -79,7 +79,7 @@ Perhaps he asks you to inspect it...
 00:01:03,550 --> 00:01:05,550
 [CUTTER]
 ...normal.
-... ປົກກະຕິ.
+... ທໍາມະດາແລ້ວ.
 
 14
 00:01:06,050 --> 00:01:08,050
@@ -202,7 +202,7 @@ No, sir. Something went wrong.
 00:02:05,550 --> 00:02:07,550
 [PROSECUTOR]
 What went wrong?
-ເກີດຫຍັງຂຶ້ນ?
+ມີຫຍັງບໍ່ດີເດີ້?
 
 34
 00:02:08,050 --> 00:02:12,600
@@ -513,7 +513,7 @@ The whole town has electricity?
 00:05:45,900 --> 00:05:47,900
 [ANGIER]
 Quit a reception.
-ອອກຈາກງານຕ້ອນຮັບ.
+ຢຸດການຮັບແຂກເດີ້.
 
 82
 00:05:48,400 --> 00:05:54,400
@@ -526,7 +526,7 @@ You're our first guest of the season, Mr.Angier.  Your telegram didn't indicate 
 00:05:54,900 --> 00:05:56,900
 [ANGIER]
 As long as it takes.
-ດົນເທົ່າທີ່ມັນຕ້ອງເຮັດ.
+ເທົ່າທີ່ຕ້ອງໄດ້.
 
 84
 00:05:57,400 --> 00:06:00,200
@@ -1194,7 +1194,7 @@ Mr.Fallon is my ingeneur-
 00:12:37,150 --> 00:12:39,250
 [SARAH]
 Where did yo get all of-
-ເຈົ້າເອົາທັງ ຫມົດ ຈາກໃສ...
+ເຈົ້າໄດ້ມາຈາກໃສທັງ ໝົດ -
 
 191
 00:12:39,750 --> 00:12:42,900
@@ -1802,7 +1802,7 @@ Exactly.
 00:18:53,250 --> 00:18:55,250
 [ANGIER]
 Where's the generator?
-ເຄື່ອງຜະລິດໄຟຢູ່ໃສ?
+ແຈນເນເຕີຢູ່ໃສ?
 
 288
 00:18:55,750 --> 00:18:57,750
@@ -1851,7 +1851,7 @@ Yes.
 00:19:18,050 --> 00:19:20,050
 [BORDEN]
 I think not.
-ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ.
+ຂ້ອຍບໍ່ຄິດເລີຍ.
 
 296
 00:19:20,550 --> 00:19:25,100
@@ -1863,7 +1863,7 @@ Never thought I'd find an answer at the bottom of a pint glass.
 00:19:25,600 --> 00:19:27,600
 [CUTTER]
 Hasn't stopped you looking.
-ມັນບໍ່ໄດ້ຢຸດເຈົ້າຈາກການຊອກຫາ.
+ບໍ່ຢຸດເຈົ້າບໍ່ໃຫ້ເບິ່ງເລີຍ.
 
 298
 00:19:28,100 --> 00:19:30,100
@@ -2193,7 +2193,7 @@ A lot more beautiful when it's full, Mr.Angier.
 00:22:57,400 --> 00:22:59,400
 [ANGIER]
 Don't worry.
-ຢ່າເປັນຫ່ວງ.
+ບໍ່ຕ້ອງຫ່ວງເລີຍ.
 
 350
 00:22:59,900 --> 00:23:05,900
@@ -2751,7 +2751,7 @@ How does he do it?
 00:29:20,600 --> 00:29:22,600
 [CUTTER]
 He uses a double.
-ລາວໃຊ້ສອງເທົ່າ.
+ລາວໃຊ້ double.
 
 437
 00:29:23,100 --> 00:29:26,250
@@ -3295,7 +3295,7 @@ I suppose I should get more rest.
 00:35:38,400 --> 00:35:41,200
 [OLIVIA]
 Life is not full of these moments, Robbie.
-ຊີວິດບໍ່ໄດ້ເຕັມໄປດ້ວຍຊ່ວງເວລານີ້, ໂຣບບີ.
+ຊີວິຕບໍ່ເຕັມໄປດ້ວຍວິນາທີແບບນີ້ເລີຍ, ໂຣເບີ.
 
 522
 00:35:41,700 --> 00:35:45,550
@@ -3778,7 +3778,7 @@ Ah, very good. Root DOWNS the rest of his new pint, placing the empty glass in f
 00:40:43,950 --> 00:40:45,950
 [BORDEN]
 Another?
-ອີກຫນຶ່ງບໍ?
+ອີກບໍ່?
 
 599
 00:40:46,450 --> 00:40:52,450
@@ -4010,7 +4010,7 @@ Cutter was right- it's a double.
 00:42:58,350 --> 00:43:00,350
 [ANGIER]
 Of course Borden said that-
-ແນ່ນອນວ່າໂບດເດັນເວົ້າວ່າ...
+ແມ່ນແລ້ວ ບອດເດັນບອກວ່າ...
 
 636
 00:43:00,850 --> 00:43:06,850
@@ -4315,7 +4315,7 @@ How fast can you gid?
 00:45:56,850 --> 00:45:58,850
 [ANGIER]
 How's the arm?
-ກະຕ່າເປັນແນວໃດ?
+ສະບາຍດີແຂນບໍ່?
 
 685
 00:45:59,350 --> 00:46:01,800
@@ -4979,7 +4979,7 @@ You mean it today.
 00:53:20,450 --> 00:53:22,450
 [BORDEN]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 789
 00:53:22,950 --> 00:53:28,950
@@ -5197,7 +5197,7 @@ Clever predictions, I'm sure. The provenance of the journal is clear and under n
 00:55:58,600 --> 00:56:00,600
 [BORDEN]
 It doesn't matter.
-ມັນບໍ່ສໍາຄັນ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 823
 00:56:01,100 --> 00:56:03,100
@@ -5930,7 +5930,7 @@ Got a visitor. Lord Caldlow. With a little girl.
 01:03:56,050 --> 01:03:58,050
 [BORDEN]
 Jess, how are you?
-ເຈສສ໌, ເຈົ້າເປັນແນວໃດ?
+ເຈສ ສະບາຍດີບໍ່?
 
 938
 01:03:58,550 --> 01:04:00,550

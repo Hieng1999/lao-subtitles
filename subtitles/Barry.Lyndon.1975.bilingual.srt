@@ -88,7 +88,7 @@ I accept, but I insist on a wager. The loser must do whatever the winner pleases
 00:01:16,750 --> 00:01:18,750
 [DOROTHY]
 Agreed.
-ເຫັນດີ.
+ແມ່ນແລ້ວ.
 
 15
 00:01:19,250 --> 00:01:25,250
@@ -993,7 +993,7 @@ He's hit here, in the neck.
 00:13:17,850 --> 00:13:19,850
 [HARRY]
 How is it with you?
-ເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີເຈົ້າບໍ່?
 
 151
 00:13:20,350 --> 00:13:26,350
@@ -1196,7 +1196,7 @@ The next time my lady travels, she'd better leave you at home!
 00:15:52,300 --> 00:15:54,300
 [RODERICK]
 What is this noise, fellows?
-ສຽງດັງນີ້ເປັນຫຍັງ, ພວກຜູ້ຊາຍ?
+ສະບາຍດີ ເພື່ອນໆ, ສຽງນີ້ແມ່ນຫຍັງ?
 
 182
 00:15:54,800 --> 00:15:57,600
@@ -1855,7 +1855,7 @@ I should get half.
 00:25:04,550 --> 00:25:06,550
 [RODERICK]
 Your share is one guinea.
-ສ່ວນແບ່ງຂອງທ່ານແມ່ນກີເນຍຫນຶ່ງ.
+ສ່ວນຂອງເຈົ້າແມ່ນໜຶ່ງກີເນຍ.
 
 280
 00:25:07,050 --> 00:25:10,900
@@ -2062,7 +2062,7 @@ It's a lie!  You're a deserter! You're an impostor, sir; Your lies and folly hav
 00:27:32,600 --> 00:27:34,600
 [RODERICK]
 Neither!
-ບໍ່ຄືກັນ!
+ບໍ່ແມ່ນເລີຍ!
 
 312
 00:27:35,100 --> 00:27:38,950
@@ -2332,7 +2332,7 @@ You will do.  I will give you 30... a day.  I do not provide your clothing; you 
 00:30:50,650 --> 00:30:52,650
 [CHEVALIER]
 Is there something wrong?
-ມີຫຍັງຜິດບໍ?
+ມີຫຍັງບໍ່ດີບໍ່?
 
 353
 00:30:53,150 --> 00:30:59,150
@@ -2792,7 +2792,7 @@ Me!  Why, man, I have been in bed all morning.  I am ill -- I have taken physic 
 00:36:21,800 --> 00:36:26,700
 [CHAMBERMAID]
 I have it -- I have it!  Lazlo is off in your honor's dress.
-ຂ້ອຍມັນ - ຂ້ອຍມັນ! ລາຊໂລອອກໃນຊຸດກຽດຕິຍົດຂອງທ່ານ.
+ແມ່ນແລ້ວ - ແມ່ນແລ້ວ! ລາຊໂລແມ່ນອອກໃນຊຸດຂອງເຈົ້າ.
 
 424
 00:36:27,200 --> 00:36:33,200
@@ -4949,7 +4949,7 @@ Mister Bracegirdle said to me that he had heard her ladyship lives in some fear 
 01:05:08,100 --> 01:05:10,100
 [RODERICK]
 I see.
-ຂ້ອຍເຫັນແລ້ວ.
+ແມ່ນແລ້ວ.
 
 748
 01:05:10,600 --> 01:05:16,600

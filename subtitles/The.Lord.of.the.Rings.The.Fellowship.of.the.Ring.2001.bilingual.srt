@@ -377,7 +377,7 @@ Alright then..keep your secrets. Before you came along we Bagginses were very we
 00:04:22,250 --> 00:04:24,250
 [GANDALF]
 Indeed?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 61
 00:04:24,750 --> 00:04:27,550
@@ -403,7 +403,7 @@ Whatever you did...you've been officially labelled as a Disturber of the Peace.
 00:04:39,250 --> 00:04:41,250
 [GANDALF]
 Oh, really?
-ໂອ້, ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 65
 00:04:41,750 --> 00:04:47,750
@@ -545,7 +545,7 @@ I've got to get away from these confounded relatives, hanging on the bell all da
 00:06:17,400 --> 00:06:20,900
 [GANDALF]
 So, you mean to go through with your plan, then?
-ສະນັ້ນ, ເຈົ້າຫມາຍຄວາມວ່າຈະ ດໍາ ເນີນແຜນການຂອງທ່ານ, ຫຼັງຈາກນັ້ນ?
+ແມ່ນແລ້ວ, ເຈົ້າໝາຍຄວາມວ່າຈະປະຕິບັດຕາມແຜນຂອງທ່ານບໍ່?
 
 87
 00:06:21,400 --> 00:06:24,550
@@ -883,7 +883,7 @@ I think you've had that ring quite long enough.
 00:10:02,550 --> 00:10:04,550
 [BILBO]
 You want it for yourself!
-ເຈົ້າຢາກມັນ ສໍາ ລັບຕົວເອງ!
+ເຈົ້າຢາກໃຫ້ມັນແມ່ນຂອງເຈົ້າເອງບໍ່!
 
 140
 00:10:05,050 --> 00:10:11,050
@@ -1544,7 +1544,7 @@ For that is why you have come, is it not, my old friend?
 00:16:53,200 --> 00:16:55,200
 [GANDALF]
 Saruman!
-ຊາຣູມານ!
+ຊາຣູແມນ!
 
 245
 00:16:55,700 --> 00:16:57,700
@@ -1556,13 +1556,13 @@ Are you sure of this?
 00:16:58,200 --> 00:17:00,200
 [GANDALF]
 Beyond any doubt.
-ນອກຈາກຄວາມສົງໄສໃດໆ.
+ບໍ່ຕ້ອງສົງໄສເລີຍ.
 
 247
 00:17:00,700 --> 00:17:03,500
 [SARUMAN]
 So the ring of power has been found?
-ສະນັ້ນແມວຂອງພະລັງໄດ້ຖືກພົບເຫັນແລ້ວບໍ?
+ແມ່ນແລ້ວແຫວນອໍານາດແມ່ນຖືກພົບແລ້ວບໍ່?
 
 248
 00:17:04,000 --> 00:17:08,550
@@ -1767,7 +1767,7 @@ Hello Frodo
 00:19:15,750 --> 00:19:17,750
 [SAM]
 What's the meaning of this!
-ຄວາມຫມາຍຂອງສິ່ງນີ້ແມ່ນຫຍັງ!
+ນີ້ໝາຍຄວາມວ່າແນວໃດ!
 
 280
 00:19:18,250 --> 00:19:20,250
@@ -2079,7 +2079,7 @@ This, my friend, is a pint.
 00:22:04,700 --> 00:22:07,150
 [PIPPIN]
 It comes in pints?    I'm getting one!
-ມັນມາໃນປິນຕ໌ບໍ? ຂ້ອຍ ກໍາ ລັງເອົາຫນຶ່ງ!
+ມັນມາເປັນປິນບໍ? ຂ້ອຍຈະເອົາໜຶ່ງແລ້ວ!
 
 330
 00:22:07,650 --> 00:22:11,150
@@ -2149,7 +2149,7 @@ The ring...in agonizing Slow motion we watch as it seems to hang in the air for 
 00:22:50,300 --> 00:22:52,300
 [IN THE TWILIGHT WORLD:]
 ANGLE ON:
-ມຸມໃສ່:
+ທັດສະນະ:
 
 341
 00:22:52,800 --> 00:22:55,950
@@ -2187,7 +2187,7 @@ Indeed? I can usually avoid being seen if I wish, but to disappear entirely... t
 00:23:12,300 --> 00:23:14,300
 [FRODO]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 347
 00:23:14,800 --> 00:23:16,800
@@ -2437,7 +2437,7 @@ Back, you devils!
 00:25:38,300 --> 00:25:40,300
 [IN THE TWILIGHT WORLD:]
 ANGLE ON:
-ມຸມໃສ່:
+ທັດສະນະ:
 
 387
 00:25:40,800 --> 00:25:44,650
@@ -2512,7 +2512,7 @@ He'll never make it! Close on: Frodo...head lolling about, barely conscious.
 00:26:20,750 --> 00:26:22,750
 [FRODO]
 Gandalf...Gandalf?
-ແກນດາລຟ... ແກນດັລຟ?
+ແກນດາລຟ໌... ແຄນດາລາຟ໌ແມ່ນບໍ່?
 
 399
 00:26:23,250 --> 00:26:28,850
@@ -2581,7 +2581,7 @@ Frodo, Im Arwen...telin let thaed. I am Arwen, I have come here to help you.  La
 00:27:02,900 --> 00:27:04,900
 [PIPPIN]
 Who is she?
-ນາງເປັນໃຜ?
+ນາງແມ່ນໃຜ?
 
 410
 00:27:05,400 --> 00:27:07,400
@@ -2593,7 +2593,7 @@ Frodo?
 00:27:07,900 --> 00:27:09,900
 [SAM]
 She's an elf.
-ນາງເປັນເອວຟ໌.
+ນາງແມ່ນແອລຟ໌.
 
 412
 00:27:10,400 --> 00:27:16,400
@@ -2785,7 +2785,7 @@ There is only one Lord of the Ring. Only one who can bend it to his will...and h
 00:29:14,500 --> 00:29:16,500
 [SARUMAN]
 So you have chosen death!
-ສະນັ້ນເຈົ້າຈຶ່ງເລືອກຄວາມຕາຍ!
+ແມ່ນແລ້ວ ເຈົ້າເລືອກແມ່ນຄວາມຕາຍແລ້ວ!
 
 442
 00:29:17,000 --> 00:29:20,500
@@ -3653,7 +3653,7 @@ There is a fell voice in the air.
 00:39:14,950 --> 00:39:16,950
 [GANDALF]
 It's Saruman.
-ມັນເປັນຊາຣູມານ.
+ແມ່ນຊາຣູແມນ.
 
 577
 00:39:17,450 --> 00:39:21,650
@@ -4558,7 +4558,7 @@ They were Elves once. Taken by the Dark Powers ... tortured and mutilated...a ru
 00:49:18,550 --> 00:49:20,550
 [LURTZ]
 Saruman.
-ຊາຣູມານ.
+ຊາຣູແມນ
 
 719
 00:49:21,050 --> 00:49:27,050
@@ -4853,7 +4853,7 @@ Go, Frodo!
 00:52:39,000 --> 00:52:41,000
 [ARAGORN]
 Run! Run!!
-ແລ່ນ! ແລ່ນ!!
+ແລ້ວກວ່າແລ້ວກະ!!
 
 765
 00:52:41,500 --> 00:52:43,500
@@ -4919,7 +4919,7 @@ Boromir!
 00:53:06,950 --> 00:53:08,950
 [BOROMIR]
 Run!   Run!
-ແລ່ນແລ່ນ! ແລ່ນ!
+ແລ່ນເດີ້! ແລ່ນເດີ!
 
 776
 00:53:09,450 --> 00:53:11,450
@@ -5177,7 +5177,7 @@ We may yet, Mr. Frodo.   We may.
 00:55:48,050 --> 00:55:50,050
 [FRODO]
 Sam?
-ແຊມ?
+ແຊມແມ່ນບໍ່?
 
 817
 00:55:50,550 --> 00:55:52,550

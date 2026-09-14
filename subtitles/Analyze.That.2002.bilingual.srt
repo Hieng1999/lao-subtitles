@@ -468,7 +468,7 @@ Wow.   Talk about withholding.
 00:05:44,650 --> 00:05:46,650
 [BEN]
 Michael?
-ໄມເກວ?
+ໄມເຄລ?
 
 74
 00:05:47,150 --> 00:05:53,150
@@ -500,7 +500,7 @@ Did I say that?
 00:06:06,250 --> 00:06:08,250
 [MILLER]
 You folks need a minute?
-ພວກເຈົ້າຕ້ອງການນາທີບໍ?
+ພວກເຈົ້າບໍ່ຕ້ອງໃຊ້ເວລາບໍ່?
 
 79
 00:06:08,750 --> 00:06:10,750
@@ -596,7 +596,7 @@ Oh, yeah. Get him to do 'Officer Krupke.' It's really good.
 00:07:06,750 --> 00:07:09,200
 [VITTI]
 'Who's the pretty girl in the mirror
-ໃຜເປັນສາວງາມໃນຈໍ
+ແມ່ນໃຜແມ່ນເດັກຍິງທີ່ສວຍງາມໃນຈໍ
 
 94
 00:07:09,700 --> 00:07:12,150
@@ -805,7 +805,7 @@ Try again.   7-3-8.
 00:09:32,800 --> 00:09:34,800
 [VITTI]
 Blue. CUT TO:
-ສີຟ້າ. ຕັດອອກ:
+ສີຟ້າ.
 
 127
 00:09:35,300 --> 00:09:39,500
@@ -999,7 +999,7 @@ You want to see him killed in prison?
 00:11:51,050 --> 00:11:53,050
 [BEN]
 No, of course not.
-ບໍ່, ແນ່ນອນວ່າບໍ່ແມ່ນ.
+ບໍ່ ແນ່ນອນບໍ່.
 
 157
 00:11:53,550 --> 00:11:56,700
@@ -1011,7 +1011,7 @@ Or sent to a facility for the criminally insane.
 00:11:57,200 --> 00:11:59,200
 [BEN]
 No --
-ບໍ່...
+ບໍ່ -
 
 159
 00:11:59,700 --> 00:12:05,700
@@ -1253,7 +1253,7 @@ Yeah,   they'll probably want to throw me a   party and give me a gold watch. Tr
 00:14:45,900 --> 00:14:47,900
 [BEN]
 You are, aren't you?
-ເຈົ້າເປັນ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ ແມ່ນບໍ່?
 
 197
 00:14:48,400 --> 00:14:54,400
@@ -1577,7 +1577,7 @@ Or you're pussy-whipped.
 00:18:28,700 --> 00:18:30,700
 [BEN]
 Paul --
-ໂປລ...
+ໂປລ -
 
 248
 00:18:31,200 --> 00:18:33,200
@@ -1608,7 +1608,7 @@ Mike, can we talk for a second?
 00:18:45,650 --> 00:18:47,650
 [MICHAEL]
 Sure.     What?
-ແນ່ນອນ. ຫຍັງ?
+ແມ່ນແລ້ວ. ຫຍັງ?
 
 253
 00:18:48,150 --> 00:18:54,150
@@ -1634,7 +1634,7 @@ Good. Because I want you to know that you can talk to me about stuff and that I 
 00:19:03,650 --> 00:19:05,650
 [MICHAEL]
 I do, Dad.
-ຂ້ອຍເຮັດ, ພໍ່.
+ແມ່ນແລ້ວ, ພໍ່.
 
 257
 00:19:06,150 --> 00:19:12,150
@@ -1647,7 +1647,7 @@ And if I seemed a little hard on Grandpa, it's just that your grandfather was a 
 00:19:12,650 --> 00:19:14,650
 [MICHAEL]
 It's not.
-ມັນບໍ່ແມ່ນ.
+ແມ່ນບໍ່.
 
 259
 00:19:15,150 --> 00:19:21,150
@@ -1710,7 +1710,7 @@ Ohhhhh!   Ohhhhh, Paul!
 00:19:52,050 --> 00:19:54,150
 [WOMAN]
 Ohhhh, God!   Oh, oh, oh, oh!
-ໂອ້ ພຣະເຈົ້າ! ໂອ້ ໂອ້, ໂອ້!
+ໂອ້ ສະຫວັນນະເຂດ! ໂອ້, ໂອ້!
 
 269
 00:19:54,650 --> 00:20:00,250
@@ -2089,7 +2089,7 @@ Shylocking, bookmaking, unions, the usual --
 00:24:21,100 --> 00:24:23,100
 [BEN]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 328
 00:24:23,600 --> 00:24:29,600
@@ -2585,7 +2585,7 @@ Makin' new friends. How's it going, Doc? I brought some clothes for Mr. Vitti.
 00:29:35,900 --> 00:29:37,900
 [LAURA]
 Ben?
-ແບນ?
+ແບນແມ່ນບໍ່?
 
 407
 00:29:38,400 --> 00:29:42,600
@@ -3084,7 +3084,7 @@ Paul, I heard you were out.
 00:35:13,850 --> 00:35:15,850
 [VITTI]
 Hey, Joey.
-ເຮ້, ໂຈຍ.
+ສະບາຍດີ ໂຈຍ.
 
 485
 00:35:16,350 --> 00:35:18,450
@@ -3451,7 +3451,7 @@ You coulda hung wet towels on it.
 00:39:15,550 --> 00:39:18,000
 [JELLY]
 He's like a racehorse in that area.
-ລາວຄ້າຍຄືກັບມ້າແຂ່ງຂັນໃນເຂດນັ້ນ.
+ລາວແມ່ນເໝືອນກັບມ້າແລ່ນໃນພື້ນທີ່ນັ້ນ.
 
 543
 00:39:18,500 --> 00:39:20,500
@@ -3931,7 +3931,7 @@ You don't need this in your life -- especially not now. You really need to be gr
 00:44:47,800 --> 00:44:49,800
 [BEN]
 I am.
-ຂ້ອຍເປັນ.
+ແມ່ນແລ້ວ.
 
 618
 00:44:50,300 --> 00:44:52,300
@@ -4040,7 +4040,7 @@ Who are you working for?
 00:46:02,550 --> 00:46:04,550
 [GUNMAN]
 Nobody!
-ບໍ່ມີໃຜ!
+ບໍ່ໃຜເລີຍ!
 
 635
 00:46:05,050 --> 00:46:07,050
@@ -4622,7 +4622,7 @@ I guess everybody's gone Hollywood, huh?
 00:52:24,750 --> 00:52:26,750
 [VITTI]
 How you doin', Patty.
-ເຈົ້າເປັນແນວໃດ, ປັດຕີ້.
+ສະບາຍດີ ແພຕິ.
 
 727
 00:52:27,250 --> 00:52:29,350
@@ -4640,7 +4640,7 @@ I'm an extra.
 00:52:32,350 --> 00:52:34,350
 [PATTY]
 An extra what?
-ຫຍັງເພີ່ມເຕີມ?
+ເພີ່ມຫຍັງອີກບໍ່?
 
 730
 00:52:34,850 --> 00:52:40,850
@@ -4678,7 +4678,7 @@ Another grand. One of the producers really likes the ponies.
 00:52:58,700 --> 00:53:00,700
 [PATTY]
 So eighteen hundred bucks.
-ສະນັ້ນເງິນສິບແປດຮ້ອຍໂດລາ.
+ແມ່ນແລ້ວ 18 ຮ້ອຍໂດລາ.
 
 736
 00:53:01,200 --> 00:53:03,200
@@ -4937,7 +4937,7 @@ The guy who shot at you -- he was acting on his own. I never gave an order.
 00:55:55,200 --> 00:55:57,200
 [VITTI]
 Is that right?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 776
 00:55:57,700 --> 00:56:03,700
@@ -5056,7 +5056,7 @@ No, what are   you doing here? I came to tell you   we have a preliminary meetin
 00:57:06,800 --> 00:57:08,800
 [VITTI]
 Patty who?
-ແພຕຕີ້ໃຜ?
+ແພຕິແມ່ນໃຜ?
 
 795
 00:57:09,300 --> 00:57:15,300
@@ -5138,7 +5138,7 @@ Yeah, that's good!
 00:57:59,100 --> 00:58:01,100
 [BEN]
 Paul --
-ໂປລ...
+ໂປລ -
 
 808
 00:58:01,600 --> 00:58:06,500
@@ -5477,7 +5477,7 @@ But your parole officer --
 01:01:48,550 --> 01:01:50,550
 [VITTI]
 Send my regrets.
-ສົ່ງຄວາມເສຍໃຈຂອງຂ້ອຍໄປ.
+ສະແດງຄວາມເສຍໃຈເດີ.
 
 861
 01:01:51,050 --> 01:01:53,850
@@ -6040,7 +6040,7 @@ A ten and five ones -- when you have the chance. He turns around to talk to Jell
 01:08:03,300 --> 01:08:05,300
 [BEN]
 Okay, Paul, what's going on?
-ດີແລ້ວ, ໂປລ, ເກີດຫຍັງຂຶ້ນ?
+ແມ່ນແລ້ວ ໂປລ, ມີຫຍັງເກີດຂຶ້ນບໍ່?
 
 950
 01:08:05,800 --> 01:08:07,800
@@ -6563,7 +6563,7 @@ Actually, gold is measured in troy ounces. 14.6 ounces to the pound. That would 
 01:14:05,700 --> 01:14:07,700
 [BEN]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1031
 01:14:08,200 --> 01:14:13,450
@@ -6779,7 +6779,7 @@ I know. I know. Jelly comes around the corner and sees the two men in a weepy em
 01:16:31,250 --> 01:16:33,250
 [JELLY]
 Oh, boy.    This is bad.
-ໂອ້, ເດັກຊາຍ. ນີ້ແມ່ນບໍ່ດີ.
+ແມ່ນແລ້ວ, ນີ້ບໍ່ດີເລີຍ.
 
 1065
 01:16:33,750 --> 01:16:39,750
@@ -7042,7 +7042,7 @@ I know. I'll make sure. How about some breakfast? I could make you some waffles 
 01:19:31,450 --> 01:19:33,450
 [VITTI]
 Can't do that.
-ຂ້ອຍເຮັດແບບນັ້ນບໍ່ໄດ້.
+ບໍ່ສາມາດເຮັດໄດ້.
 
 1106
 01:19:33,950 --> 01:19:39,950

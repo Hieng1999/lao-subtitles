@@ -62,7 +62,7 @@ You scared him...
 00:00:35,300 --> 00:00:37,300
 [MEAGAN]
 I scared him?
-ຂ້ອຍຢ້ານລາວບໍ?
+ຂ້ອຍເຮັດໃຫ້ລາວຢ້ານບໍ່?
 
 12
 00:00:37,800 --> 00:00:39,800
@@ -105,7 +105,7 @@ If anyone here believes that these two should not be joined in unholy matrimony,
 00:00:59,100 --> 00:01:01,100
 [JESSE]
 Meagan!
-Meagan!
+ແມເກນ!
 
 19
 00:01:01,600 --> 00:01:03,600
@@ -135,7 +135,7 @@ Wake up, sleepy head. Time to wake up.
 00:01:12,500 --> 00:01:14,500
 [LIZZY]
 I had a bad dream.
-ຂ້ອຍມີຄວາມຝັນຮ້າຍ.
+ຂ້ອຍໄດ້ຝັນບໍ່ດີເດີ້.
 
 24
 00:01:15,000 --> 00:01:17,000
@@ -184,7 +184,7 @@ As the sun rises on yet another morning, still no end in sight for the standoff 
 00:01:36,700 --> 00:01:38,700
 [MEAGAN]
 Morning.
-ຕອນເຊົ້າ.
+ສະບາຍດີ.
 
 32
 00:01:39,200 --> 00:01:41,200
@@ -382,7 +382,7 @@ Damn lawyers... what a bunch of assholes. Shakespeare was right -- kill all the 
 00:03:42,450 --> 00:03:44,450
 [S.W.A.T. COMMANDER]
 Smaller anyway.
-ນ້ອຍກວ່າຢ່າງໃດກໍ່ຕາມ.
+ແມ່ນແລ້ວ, ມັນຍັງນ້ອຍກວ່າເດີ.
 
 63
 00:03:44,950 --> 00:03:49,500
@@ -538,7 +538,7 @@ Punks. There's a difference...  ...barely.
 00:05:12,500 --> 00:05:14,500
 [MISS KREPPS]
 Meagan!?
-Meagan!?
+ເມແກນແມ່ນບໍ່?
 
 88
 00:05:15,000 --> 00:05:17,000
@@ -637,7 +637,7 @@ I asked if you were ready to give your report?
 00:06:07,600 --> 00:06:09,600
 [MEAGAN]
 Sure...
-ແນ່ນອນ...
+ແມ່ນແລ້ວ...
 
 104
 00:06:10,100 --> 00:06:13,950
@@ -662,7 +662,7 @@ Are you sure?
 00:06:23,450 --> 00:06:25,450
 [SCHOOL NURSE]
 Meagan?
-Meagan?
+ແມເກນແມ່ນບໍ່?
 
 108
 00:06:25,950 --> 00:06:29,800
@@ -932,7 +932,7 @@ I remember... Lizzy wandered off one day and we couldn't find her. The police ca
 00:09:28,450 --> 00:09:30,450
 [LEONARD]
 You're stupid!
-ເຈົ້າໂງ່!
+ເຈົ້າແມ່ນຄົນໂງ່ແທ້ໆ!
 
 150
 00:09:30,950 --> 00:09:32,950
@@ -1348,7 +1348,7 @@ Where do you shoot?
 00:14:01,000 --> 00:14:03,000
 [MEAGAN]
 Shoot?
-ຍິງບໍ?
+ແມ່ນບໍ່?
 
 215
 00:14:03,500 --> 00:14:09,500
@@ -1598,7 +1598,7 @@ Oh, yeah? Why don't you call then?
 00:16:27,550 --> 00:16:29,550
 [STORMIE]
 Okay, I will!
-ດີ, ຂ້ອຍຈະເຮັດ!
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ!
 
 255
 00:16:30,050 --> 00:16:32,050
@@ -1792,7 +1792,7 @@ It's not the gun, it's what's in it -- silver bullets blessed by a priest.
 00:18:24,750 --> 00:18:26,750
 [JESSE]
 Will that work?
-ມັນຈະເຮັດວຽກໄດ້ບໍ?
+ແມ່ນບໍ່?
 
 286
 00:18:27,250 --> 00:18:29,250
@@ -2062,7 +2062,7 @@ Where are you going to find a hit man? The yellow pages? In your dreams...
 00:21:08,500 --> 00:21:10,500
 [MEAGAN]
 Jason...
-ຈາຊອນ...
+ແຈຊັນ...
 
 329
 00:21:11,000 --> 00:21:13,000
@@ -2570,7 +2570,7 @@ Somehow!
 00:26:33,300 --> 00:26:35,400
 [MEAGAN]
 Is he going to be okay?
-ລາວຈະດີບໍ?
+ລາວບໍ່ເປັນຫຍັງບໍ່?
 
 410
 00:26:35,900 --> 00:26:41,900
@@ -2627,7 +2627,7 @@ Three's a crowd, bitch! Why don't you just go get [BEEP]
 00:27:12,350 --> 00:27:14,350
 [MEAGAN]
 Jesse, wake up! WAKE UP!!
-ເຈສຊີ ຕື່ນ! ຕື່ນ!!
+ແຈສຊີ, ຕື່ນຂຶ້ນເດີ້! ຕື່ນຂື້ນເດີ້!!
 
 419
 00:27:14,850 --> 00:27:16,850
@@ -2726,7 +2726,7 @@ Almost.
 00:28:07,800 --> 00:28:09,900
 [ERWIN]
 Is she going to be alright?
-ນາງຈະດີບໍ?
+ນາງຈະບໍ່ເປັນຫຍັງບໍ່?
 
 435
 00:28:10,400 --> 00:28:15,300
@@ -2870,7 +2870,7 @@ Okay... let's do it.
 00:29:35,000 --> 00:29:37,000
 [STORMIE]
 Hey! Watch that!
-ເຮ້! ເບິ່ງແມ!
+ສະບາຍດີ! ລະວັງເດີ້!
 
 458
 00:29:37,500 --> 00:29:40,300
@@ -2998,7 +2998,7 @@ I just can't believe he's dead. I keep thinking he'll show up any minute...
 00:31:00,650 --> 00:31:02,750
 [ERWIN]
 Well, that just about does it...
-ດີ, ນັ້ນເກືອບເຮັດມັນ...
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນເກືອບແມ່ນແລ້ວ...
 
 478
 00:31:03,250 --> 00:31:09,250
@@ -3123,7 +3123,7 @@ Welcome aboard, son! I'm sure you'll have a great time!
 00:32:20,800 --> 00:32:22,800
 [ERWIN]
 Holy shit! It worked!
-ສະຫວັນນະເຂດ! ມັນເຮັດວຽກໄດ້!
+ສະບາຍດີ! ມັນໄດ້ຜົນແທ້ໆ!
 
 498
 00:32:23,300 --> 00:32:26,450
@@ -3154,7 +3154,7 @@ Jason! JASON! You've got to get up! Do you hear me? Get up!
 00:32:40,700 --> 00:32:42,700
 [ERWIN]
 Well... it's off now.
-ດີ... ມັນປິດແລ້ວ.
+ແມ່ນແລ້ວ... ດຽວນີ້ມັນໝົດແລ້ວ.
 
 503
 00:32:43,200 --> 00:32:47,400
@@ -3285,7 +3285,7 @@ Alright... anybody else left in there had better say their prayers!
 00:34:02,200 --> 00:34:04,200
 [ERWIN]
 There's no one else inside.
-ບໍ່ມີໃຜອີກຄົນໃດຢູ່ພາຍໃນ.
+ບໍ່ມີໃຜອີກໃນນັ້ນເລີຍ.
 
 524
 00:34:04,700 --> 00:34:07,850
@@ -3327,7 +3327,7 @@ You...
 00:34:23,750 --> 00:34:25,750
 [MURDOCH]
 Let her go.
-ປ່ອຍນາງໄປ.
+ແມ່ນແລ້ວ, ໃຫ້ນາງໄປ.
 
 531
 00:34:26,250 --> 00:34:29,400
@@ -3509,7 +3509,7 @@ Meagan, ຄັບປິນ
 00:36:04,600 --> 00:36:06,600
 [MEAGAN]
 A mental hospital.
-ໂຮງຫມໍຈິດໃຈ.
+ໂຮງໝໍສຸຂະພາບຈິດ.
 
 561
 00:36:07,100 --> 00:36:13,100
@@ -3789,7 +3789,7 @@ Something just happened at the TV station.
 00:39:17,550 --> 00:39:20,000
 [DEPUTY]
 Don't worry about it -- get undressed.
-ຢ່າກັງວົນກ່ຽວກັບມັນ - ອອກເຄື່ອງນຸ່ງຫົ່ມ.
+ບໍ່ຕ້ອງເປັນຫ່ວງ - ອອກເຄື່ອງນຸ່ງ.
 
 605
 00:39:20,500 --> 00:39:22,500
@@ -4086,7 +4086,7 @@ You're a virgin?!
 00:41:59,050 --> 00:42:01,150
 [MEAGAN]
 Oh, that's right -- tell everybody!
-ໂອ້, ນັ້ນແມ່ນຄວາມຈິງ - ບອກທຸກຄົນ!
+ແມ່ນແລ້ວ - ບອກທຸກຄົນເດີ້!
 
 653
 00:42:01,650 --> 00:42:07,650

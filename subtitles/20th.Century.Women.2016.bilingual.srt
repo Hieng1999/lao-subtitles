@@ -152,13 +152,13 @@ Our car burst into flames in the parking lot.
 00:01:39,650 --> 00:01:41,650
 [JULIE]
 Seriously?
-ຈິງໃຈບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 26
 00:01:42,150 --> 00:01:44,150
 [WILLIAM]
 You OK?
-ເຈົ້າດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 27
 00:01:44,650 --> 00:01:46,650
@@ -242,7 +242,7 @@ It was so much easier before you got all horny. He's tried this before, but he i
 00:02:39,650 --> 00:02:41,750
 [JAMIE]
 It's not like you, don't -
-ມັນບໍ່ແມ່ນຄືກັບເຈົ້າ, ຢ່າ -
+ບໍ່ເໝືອນເຈົ້າເລີຍ, ຢ່າ -
 
 40
 00:02:42,250 --> 00:02:48,250
@@ -1004,7 +1004,7 @@ If it made him this mad, maybe it wasn't a good idea?
 00:11:21,850 --> 00:11:24,300
 [DOROTHEA]
 Maybe I did do the wrong thing?
-ບາງທີຂ້ອຍເຮັດສິ່ງທີ່ຜິດບໍ?
+ບາງທີແມ່ນຂ້ອຍໄດ້ເຮັດຜິດບໍ່?
 
 159
 00:11:24,800 --> 00:11:29,000
@@ -1035,13 +1035,13 @@ Jamie.
 00:11:40,350 --> 00:11:42,350
 [ABBIE]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 164
 00:11:42,850 --> 00:11:44,850
 [WILLIAM]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 165
 00:11:45,350 --> 00:11:51,350
@@ -1207,7 +1207,7 @@ Fuck. What're you gonna do? 32.
 00:13:11,450 --> 00:13:13,450
 [JULIE]
 It'll be fine.
-ມັນຈະດີດີ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 192
 00:13:13,950 --> 00:13:17,450
@@ -2084,7 +2084,7 @@ Yeah, no, not a lesbian.
 00:22:47,900 --> 00:22:50,000
 [CHARLIE]
 OK, well then, let's go out?
-ດີແລ້ວ, ຫຼັງຈາກນັ້ນ, ໄປອອກໄປບໍ?
+ແມ່ນແລ້ວ, ສະບາຍດີ, ພວກເຮົາຈະອອກໄປບໍ່?
 
 330
 00:22:50,500 --> 00:22:56,500
@@ -2178,7 +2178,7 @@ I'm trying. 54.
 00:23:44,300 --> 00:23:46,300
 [DOROTHEA]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 345
 00:23:46,800 --> 00:23:50,650
@@ -2190,7 +2190,7 @@ What about you? Have you thought about your impact on him?
 00:23:51,150 --> 00:23:53,150
 [DOROTHEA]
 Me?
-ຂ້ອຍບໍ?
+ຂ້ອຍແມ່ນບໍ່?
 
 347
 00:23:53,650 --> 00:23:58,900
@@ -2436,7 +2436,7 @@ Thanks.
 00:26:45,050 --> 00:26:47,150
 [JULIAN]
 Did you have a good time?
-ເຈົ້າມ່ວນຊື່ນບໍ?
+ເຈົ້າໄດ້ມ່ວນບໍ່?
 
 385
 00:26:47,650 --> 00:26:52,550
@@ -3014,7 +3014,7 @@ That's beautiful.
 00:33:16,650 --> 00:33:18,650
 [DOROTHEA]
 You fixed it? 72.
-ເຈົ້າແກ້ໄຂມັນບໍ? 72.
+ເຈົ້າໄດ້ແກ້ໄຂບໍ່? 72.
 
 475
 00:33:19,150 --> 00:33:22,300
@@ -3033,7 +3033,7 @@ Can we take it for a ride?
 00:33:25,750 --> 00:33:27,750
 [WILLIAM]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 478
 00:33:28,250 --> 00:33:32,100
@@ -3546,7 +3546,7 @@ Sex during menstruation can be very pleasurable for a woman, even provide relief
 00:39:26,400 --> 00:39:28,400
 [DOROTHEA]
 You too?
-ເຈົ້າຄືກັນບໍ?
+ເຈົ້າແມ່ນບໍ່?
 
 558
 00:39:28,900 --> 00:39:34,900
@@ -3565,7 +3565,7 @@ Jack Nicholson's character gets a lobotomy so the big Indian guy, like suffocate
 00:39:41,900 --> 00:39:43,900
 [DOROTHEA]
 Let's talk about something else.
-ມາເວົ້າກ່ຽວກັບບາງສິ່ງບາງຢ່າງອີກ.
+ມາເວົ້າເລື່ອງອື່ນກັນເດີ້.
 
 561
 00:39:44,400 --> 00:39:47,200
@@ -3577,7 +3577,7 @@ First time I had sex I was 14...
 00:39:47,700 --> 00:39:49,700
 [JAMIE]
 Julie?! 85.
-ຈູລີ?! 85.
+ຈູລີບໍ່? 85.
 
 563
 00:39:50,200 --> 00:39:56,200
@@ -3637,7 +3637,7 @@ I'm dealing with everything, you are dealing with nothing. He leaves, wildly pis
 00:40:34,200 --> 00:40:36,200
 [JULIE]
 Hey?
-ເຮ້?
+ສະບາຍດີບໍ່?
 
 572
 00:40:36,700 --> 00:40:39,500
@@ -3674,7 +3674,7 @@ You can't sleep here and just want to talk with me anymore.
 00:40:58,850 --> 00:41:00,850
 [JULIE]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 578
 00:41:01,350 --> 00:41:03,350
@@ -3746,7 +3746,7 @@ Yes. I need to see your license. Dorothea's anti-authority thing kicks in.
 00:41:47,900 --> 00:41:50,700
 [DOROTHEA]
 Well what if I don't have my license?
-ດີຖ້າຂ້ອຍບໍ່ມີໃບອະນຸຍາດຂອງຂ້ອຍແນວໃດ?
+ແມ່ນແລ້ວ ຖ້າຂ້ອຍບໍ່ມີໃບຂັບຂີ່ແມ່ນບໍ່?
 
 589
 00:41:51,200 --> 00:41:54,000
@@ -3987,7 +3987,7 @@ I want to dye my hair. She's not really comfortable with that.
 00:44:35,050 --> 00:44:37,050
 [DOROTHEA]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 627
 00:44:37,550 --> 00:44:43,550
@@ -4013,7 +4013,7 @@ At first. Or maybe I was just supposed to be in love. Or scared that I'd never b
 00:44:53,500 --> 00:44:55,500
 [JAMIE]
 Are you lonely?
-ເຈົ້າເປັນຄົນດຽວບໍ?
+ເຈົ້າບໍ່ຮູ້ສຶກໂດດດ່ຽວບໍ່?
 
 631
 00:44:56,000 --> 00:44:59,850

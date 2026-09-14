@@ -92,7 +92,7 @@ The next patient is a 29-year old female diagnosed as acute schizo-affective dis
 00:01:13,750 --> 00:01:15,750
 [SILBERMAN]
 'Morning, Sarah.
-ຕອນເຊົ້າ, ຊາຣາ.
+ສະບາຍດີ ແຊຣາ.
 
 16
 00:01:16,250 --> 00:01:18,700
@@ -150,7 +150,7 @@ I'm not taking it.  Now I don't want any trouble...
 00:01:53,150 --> 00:01:55,250
 [DOUGLAS]
 Ain't no trouble at all --
-ມັນບໍ່ມີບັນຫາເລີຍ -
+ບໍ່ເປັນຫຍັງເລີຍ -
 
 25
 00:01:55,750 --> 00:01:57,750
@@ -354,7 +354,7 @@ Remember the message... the future is not set. There is not fate but what we mak
 00:03:51,200 --> 00:03:53,200
 [SARAH]
 Kyle, don't go!
-ໄຄລ, ຢ່າໄປ!
+ໄຄລ ຢ່າໄປເດີ້!
 
 58
 00:03:53,700 --> 00:03:56,850
@@ -444,7 +444,7 @@ It has helped me a lot to have a goal, something to look forward to.
 00:04:56,150 --> 00:04:58,150
 [SILBERMAN]
 And what it that?
-ແລະມັນເປັນຫຍັງ?
+ນັ້ນແມ່ນຫຍັງ?
 
 72
 00:04:58,650 --> 00:05:04,650
@@ -600,7 +600,7 @@ Some cop is scoping for you, dude.
 00:06:51,950 --> 00:06:53,950
 [TERMINATOR]
 Get down.
-ນັ່ງລົງ.
+ຫຼຸດລົງເດີ້.
 
 96
 00:06:54,450 --> 00:06:56,550
@@ -739,7 +739,7 @@ Negative.  The T-1000 will definitely try to reacquire you there.
 00:08:13,550 --> 00:08:15,550
 [JOHN]
 You sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 118
 00:08:16,050 --> 00:08:18,050
@@ -1341,7 +1341,7 @@ I said I was okay.
 00:13:45,100 --> 00:13:47,900
 [SARAH]
 It was stupid of you to go there.
-ມັນເປັນຄວາມໂງ່ຈາກເຈົ້າທີ່ຈະໄປບ່ອນນັ້ນ.
+ນັ້ນແມ່ນຄວາມໂງ່ທີ່ເຈົ້າໄປທີ່ນັ້ນ.
 
 215
 00:13:48,400 --> 00:13:54,400
@@ -1617,7 +1617,7 @@ Keep it under sixty-five.  We can't afford to be pulled over.
 00:16:24,700 --> 00:16:26,700
 [TERMINATOR]
 Affirmative.
-ຢືນຢັນ.
+ແມ່ນແລ້ວ.
 
 259
 00:16:27,200 --> 00:16:33,200
@@ -1951,7 +1951,7 @@ Why did you marry me, Miles?  Why did we have these two children?  You don't nee
 00:19:57,750 --> 00:19:59,750
 [DYSON]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 312
 00:20:00,250 --> 00:20:03,400
@@ -2200,7 +2200,7 @@ You mean people?  I don't know.  We just cry. You know.  When it hurts.
 00:22:41,700 --> 00:22:43,700
 [TERMINATOR]
 Pain causes it?
-ຄວາມເຈັບປວດເຮັດໃຫ້ມັນເກີດຂຶ້ນບໍ?
+ຄວາມເຈັບປວດແມ່ນສາເຫດຂອງມັນບໍ່?
 
 351
 00:22:44,200 --> 00:22:50,200
@@ -2435,7 +2435,7 @@ I couldn't... oh, God.  You... came here... to stop me?
 00:25:05,750 --> 00:25:07,750
 [JOHN]
 Uh huh.
-ໂອ້ ຮາ.
+ແມ່ນແລ້ວ.
 
 388
 00:25:08,250 --> 00:25:11,400
@@ -2478,7 +2478,7 @@ In the bathroom.  Danny, can you get them for us?
 00:25:28,550 --> 00:25:30,550
 [DYSON]
 Who are you people?
-ພວກເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 395
 00:25:31,050 --> 00:25:33,050
@@ -2658,7 +2658,7 @@ Miles, I'm scared.  Okay.  But the only thing that scares me more than you going
 00:27:28,150 --> 00:27:30,250
 [SARAH]
 Is it safe for them here?
-ມັນປອດໄພບໍ ສໍາ ລັບພວກເຂົາຢູ່ນີ້?
+ແມ່ນບໍ່ວ່າພວກເຂົາຈະປອດໄພຢູ່ບ່ອນນີ້ບໍ່?
 
 423
 00:27:30,750 --> 00:27:35,300
@@ -3039,7 +3039,7 @@ What?
 00:31:01,900 --> 00:31:03,900
 [JOHN]
 Come on!  Let's go!
-ມາແລ້ວ! ໄປ!
+ສະບາຍດີ! ໄປເດີ້!
 
 485
 00:31:04,400 --> 00:31:07,550
@@ -3113,7 +3113,7 @@ I need a vacation.
 00:31:43,450 --> 00:31:45,450
 [JOHN]
 Is it dead?
-ມັນຕາຍແລ້ວບໍ?
+ມັນຕາຍບໍ່?
 
 497
 00:31:45,950 --> 00:31:47,950

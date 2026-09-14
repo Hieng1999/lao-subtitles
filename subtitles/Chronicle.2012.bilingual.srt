@@ -346,7 +346,7 @@ Hi.
 00:03:12,350 --> 00:03:14,350
 [ANDREW]
 Hey-
-ເຮ້...
+ສະບາຍດີ -
 
 58
 00:03:14,850 --> 00:03:18,350
@@ -371,7 +371,7 @@ Don't videotape us, okay, or we'll call security. We see you watching us, we're 
 00:03:29,350 --> 00:03:31,350
 [ANDREW]
 ...okay.
-ດີແລ້ວ.
+... ບໍ່ເປັນຫຍັງ.
 
 62
 00:03:31,850 --> 00:03:33,850
@@ -450,7 +450,7 @@ You're a senior.     Just come, you'll have fun.
 00:04:09,450 --> 00:04:11,450
 [ANDREW]
 I'll think about it.
-ຂ້ອຍຈະຄິດກ່ຽວກັບມັນ.
+ຂ້ອຍຈະຄິດດີເດີ້.
 
 75
 00:04:11,950 --> 00:04:15,800
@@ -469,7 +469,7 @@ Yeah?
 00:04:18,800 --> 00:04:21,250
 [MATT]
 Keep the camera at home.    It's weird.
-ຮັກສາກ້ອງຖ່າຍຮູບຢູ່ເຮືອນ. ມັນແປກໃຈ.
+ສະຫງວນກ້ອງຢູ່ເຮືອນເດີ. ມັນແປກບໍ່ດີ.
 
 78
 00:04:21,750 --> 00:04:23,750
@@ -657,7 +657,7 @@ Say okay.
 00:06:16,700 --> 00:06:18,700
 [ANDREW]
 Okay-
-ດີແລ້ວ...
+ແມ່ນແລ້ວ -
 
 108
 00:06:19,200 --> 00:06:25,200
@@ -689,7 +689,7 @@ Are you Andrew-with-the-camera?  Matt's cousin, Matt said you had a camera?
 00:06:35,050 --> 00:06:37,050
 [STEVE]
 Dude, are you okay?
-ເພື່ອນ, ເຈົ້າດີບໍ?
+ສະບາຍດີ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 113
 00:06:37,550 --> 00:06:39,550
@@ -830,7 +830,7 @@ Andrew Detmer, that's right.   I remember you from homeroom, Freshman year.
 00:07:49,050 --> 00:07:51,050
 [ANDREW]
 You remember that?
-ເຈົ້າຈື່ບໍ?
+ເຈົ້າບໍ່ຈໍາບໍ່?
 
 136
 00:07:51,550 --> 00:07:57,550
@@ -972,7 +972,7 @@ Listen.
 00:09:08,900 --> 00:09:10,900
 [ANDREW]
 Singing?
-ຮ້ອງເພງບໍ?
+ຮ້ອງບໍ່?
 
 159
 00:09:11,400 --> 00:09:13,400
@@ -1107,7 +1107,7 @@ Matt's face is suddenly in front of the camera.
 00:10:21,300 --> 00:10:23,300
 [ANDREW]
 Steve's up ahead-
-ສຕິວຢູ່ທາງຫນ້າ...
+ສະຕິວແມ່ນຢູ່ຂ້າງໜ້າ -
 
 181
 00:10:23,800 --> 00:10:29,800
@@ -1188,7 +1188,7 @@ I don't wanna film it, it's messing with the camera-
 00:11:09,500 --> 00:11:11,500
 [STEVE]
 Touch one!
-ຈັບຫນຶ່ງ!
+ແຕະໜຶ່ງເດີ້!
 
 194
 00:11:12,000 --> 00:11:14,000
@@ -1327,7 +1327,7 @@ The trick is to pretend like it's on a plate. You get it on the plate and then y
 00:12:34,350 --> 00:12:36,350
 [STEVE]
 Mhm.
-ແມມ.
+ແມ່ນແລ້ວ.
 
 216
 00:12:36,850 --> 00:12:42,450
@@ -1528,7 +1528,7 @@ Yeah. I know. I'm actually, yeah, I'm sure my mom is cheating on my dad.
 00:14:44,200 --> 00:14:46,200
 [ANDREW]
 How-
-ແນວໃດ...
+ສະບາຍດີ...
 
 248
 00:14:46,700 --> 00:14:52,700
@@ -1824,7 +1824,7 @@ Steve Steve Steve-
 00:17:39,950 --> 00:17:41,950
 [STEVE]
 Got it, got it.
-ໄດ້ແລ້ວ, ໄດ້ແລ້ວ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 295
 00:17:42,450 --> 00:17:44,900
@@ -2552,7 +2552,7 @@ Okay...good.
 00:24:58,950 --> 00:25:00,950
 [STEVE]
 Well that answers that.
-ດີນັ້ນຕອບນັ້ນ.
+ແມ່ນແລ້ວ ນັ້ນແມ່ນຄໍາຕອບແລ້ວ.
 
 411
 00:25:01,450 --> 00:25:05,300
@@ -2726,7 +2726,7 @@ Oh yeah? Well you could use some shut the fuck up.
 00:26:46,600 --> 00:26:48,600
 [STEVE]
 You lack initiative.
-ເຈົ້າຂາດຄວາມລິເລີ່ມ.
+ເຈົ້າບໍ່ມີຄວາມຕັ້ງໃຈເລີຍ.
 
 439
 00:26:49,100 --> 00:26:51,100
@@ -3215,7 +3215,7 @@ Hey Andrew, hope you're seeing this. Congratulations, sir. I'm drunk, sorry. I w
 00:31:42,150 --> 00:31:44,150
 [CASEY]
 Hey Matt.
-ເຮ້ ແມັດ.
+ສະບາຍດີ ແມັດ.
 
 517
 00:31:44,650 --> 00:31:46,650
@@ -3320,7 +3320,7 @@ Mr. Detmer hurls the camera directly into Andrew's face.    It knocks him down a
 00:33:00,750 --> 00:33:02,850
 [ANDREW]
 You asshole, you fucking crazy asshole-
-ເຈົ້າໂຊກຮ້າຍ, ເຈົ້າໂສກຮ້າຍທີ່ຜິດປົກກະຕິ...
+ສະບາຍດີ, ເຈົ້າແມ່ນຄົນໂຊກຮ້າຍທີ່ໂງ່...
 
 533
 00:33:03,350 --> 00:33:09,350
@@ -3612,7 +3612,7 @@ See, it's- I put a little sheet between myself and the knife, and the barrier, t
 00:36:10,400 --> 00:36:12,400
 [ANDREW]
 Hey Wayne!
-ເຮ້ ເວີນ!
+ສະບາຍດີ ເວີນ!
 
 579
 00:36:12,900 --> 00:36:14,900

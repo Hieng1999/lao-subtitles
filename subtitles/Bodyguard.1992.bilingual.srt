@@ -9,7 +9,7 @@ Freeze! ANGLE - DOORWAY TO GARAGE A uniformed chauffeur freezes in his tracks.  
 00:00:16,500 --> 00:00:18,500
 [FRANK]
 Call 911.
-ໂທ 911
+ໂທຫາ 911.
 
 3
 00:00:19,000 --> 00:00:21,000
@@ -455,7 +455,7 @@ Rachel, Frank Farmer is here. Devaney nods in Frank's direction.     Nicki looks
 00:05:07,000 --> 00:05:09,000
 [RACHEL]
 Who's here?
-ໃຜຢູ່ບ່ອນນີ້?
+ແມ່ນໃຜທີ່ນີ້?
 
 73
 00:05:09,500 --> 00:05:11,500
@@ -494,7 +494,7 @@ Frank Farmer, Rachel Marron. Rachel offers her hand and they shake.    Rachel lo
 00:05:32,150 --> 00:05:34,250
 [RACHEL]
 You don't look like a bodyguard.
-ເຈົ້າເບິ່ງຄືວ່າບໍ່ແມ່ນຄົນປົກປ້ອງຮ່າງກາຍ.
+ເຈົ້າບໍ່ເໝືອນກັບເຈົ້າໜ້າທີ່ຮັກສາຮ່າງກາຍເລີຍ.
 
 79
 00:05:34,750 --> 00:05:36,750
@@ -530,7 +530,7 @@ This is Nicki, Rachel's sister and personal secretary.
 00:05:48,150 --> 00:05:50,250
 [NICKI]
 Nice to meet you, Mr. Farmer.
-ດີໃຈທີ່ຮູ້ຈັກທ່ານ, ທ້າວຊາວນາ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກທ່ານເດີ, ທ່ານຊາວກະສິກອນ.
 
 85
 00:05:50,750 --> 00:05:56,700
@@ -713,7 +713,7 @@ Shut up, Tony.
 00:08:00,750 --> 00:08:02,750
 [FARMER]
 Nice meeting you.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກກັນ.
 
 113
 00:08:03,250 --> 00:08:05,350
@@ -776,7 +776,7 @@ Hi.
 00:08:41,950 --> 00:08:43,950
 [FLETCHER]
 How are you today?
-ເຈົ້າເປັນແນວໃດໃນມື້ນີ້?
+ສະບາຍດີມື້ນີ້ບໍ່?
 
 123
 00:08:44,450 --> 00:08:46,450
@@ -997,7 +997,7 @@ There was no reason for the police. No one got hurt.
 00:11:11,650 --> 00:11:13,650
 [FRANK]
 What about the chauffeur?
-ແລະຄົນຂັບຂີ່ແນວໃດ?
+ແລ້ວຄົນຂັບລົດແມ່ນບໍ່?
 
 158
 00:11:14,150 --> 00:11:20,150
@@ -1447,7 +1447,7 @@ How's the private stuff?
 00:16:21,550 --> 00:16:23,550
 [FRANK]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 228
 00:16:24,050 --> 00:16:28,250
@@ -1596,7 +1596,7 @@ I handle things fine, Frank. You watch me and you'll learn something.
 00:18:02,400 --> 00:18:04,400
 [FRANK]
 Turn left.
-ຫັນໄປຊ້າຍ.
+ຫັນທາງຊ້າຍເດີ້.
 
 251
 00:18:04,900 --> 00:18:09,100
@@ -1608,7 +1608,7 @@ Is that him? Frank shakes his head, he's not sure.   Tony reacts.
 00:18:09,600 --> 00:18:11,600
 [TONY]
 Hey, what's going on?
-ເຮ້, ເກີດຫຍັງຂຶ້ນ?
+ສະບາຍດີ, ມີຫຍັງເກີດຂຶ້ນບໍ່?
 
 253
 00:18:12,100 --> 00:18:18,100
@@ -1621,7 +1621,7 @@ Shortcut. FRANK'S POV - TOYOTA IN REARVIEW MIRROR As the limo turns, the 4 X 4 f
 00:18:18,600 --> 00:18:20,600
 [FRANK]
 Slow down, very slow.
-ຊ້າລົງ, ຊ້າຫຼາຍ.
+ຊ້າໆໆໆຫຼາຍໆ.
 
 255
 00:18:21,100 --> 00:18:23,550
@@ -2630,7 +2630,7 @@ Hey!   Gotcha, didn't I?
 00:29:40,350 --> 00:29:42,350
 [FRANK]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 413
 00:29:42,850 --> 00:29:47,400
@@ -2792,7 +2792,7 @@ Your kinda music?
 00:31:39,450 --> 00:31:41,450
 [FRANK]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 438
 00:31:41,950 --> 00:31:45,100
@@ -3243,7 +3243,7 @@ Your "client"?
 00:36:24,050 --> 00:36:26,050
 [FRANK]
 I made a mistake.
-ຂ້ອຍເຮັດຄວາມຜິດພາດ.
+ຂ້ອຍຜິດແລ້ວ.
 
 509
 00:36:26,550 --> 00:36:29,350
@@ -3628,7 +3628,7 @@ O.K. Rachel. It's showtime! They're rolling. Let's go.
 00:41:15,600 --> 00:41:17,600
 [FRANK]
 Is this really necessary?
-ມັນຈໍາເປັນແທ້ບໍ?
+ນີ້ແມ່ນຄວາມຈໍາເປັນບໍ່?
 
 568
 00:41:18,100 --> 00:41:20,100
@@ -3753,7 +3753,7 @@ Technically I'm off duty,   but the Governor may show up here   later, so I thou
 00:42:52,950 --> 00:42:54,950
 [FRANK]
 How old is she?
-ນາງອາຍຸຫຼາຍປານໃດ?
+ນາງອາຍຸເທົ່າໃດ?
 
 587
 00:42:55,450 --> 00:43:01,450
@@ -3855,7 +3855,7 @@ That's orange juice! Rachel gives Portman an approving once-over.
 00:44:01,550 --> 00:44:03,550
 [RACHEL]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 603
 00:44:04,050 --> 00:44:06,050
@@ -3879,7 +3879,7 @@ We used to work together.
 00:44:12,000 --> 00:44:15,500
 [RACHEL]
 Ah... Well, well, well.    And what do you do now?
-ອາ... ດີແລ້ວ, ດີ, ດີ. ແລະເຈົ້າເຮັດຫຍັງດຽວນີ້?
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ. ແລະເຈົ້າຈະເຮັດແນວໃດດຽວນີ້?
 
 607
 00:44:16,000 --> 00:44:18,000
@@ -4191,7 +4191,7 @@ I'm sorry. Frank steps away, rubs a hand through his hair, tries to collect hims
 00:48:04,500 --> 00:48:06,500
 [RACHEL]
 Fletcher? No response.
-ຟເລສເຕີ? ບໍ່ມີການຕອບໂຕ້.
+ຟເລສເຕີ ບໍ່ມີຄໍາຕອບເລີຍ
 
 655
 00:48:07,000 --> 00:48:09,450
@@ -4426,7 +4426,7 @@ I don't want anyone going out in it until you've checked it over first. Okay? Ev
 00:50:58,300 --> 00:51:00,300
 [HENRY]
 Every time.
-ທຸກຄັ້ງ.
+ສະເໝີ.
 
 691
 00:51:00,800 --> 00:51:06,800
@@ -4916,7 +4916,7 @@ How do we stop him?
 00:57:08,950 --> 00:57:10,950
 [FRANK]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 766
 00:57:11,450 --> 00:57:13,450

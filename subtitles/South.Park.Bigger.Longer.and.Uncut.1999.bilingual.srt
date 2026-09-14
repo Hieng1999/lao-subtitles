@@ -317,7 +317,7 @@ Damn it!
 00:03:32,550 --> 00:03:34,550
 [TICKET GUY]
 Next, please?
-ຕໍ່ໄປ, ກະລຸນາ?
+ຕໍ່ໄປແມ່ນບໍ່?
 
 52
 00:03:35,050 --> 00:03:37,500
@@ -460,7 +460,7 @@ Oh.
 00:04:58,200 --> 00:05:00,200
 [IKE]
 Poo bada!
-ໂປ້ ບາດາ!
+ສະບາຍດີ!
 
 75
 00:05:00,700 --> 00:05:02,700
@@ -944,13 +944,13 @@ Dude, you just said fuck again.
 00:09:34,450 --> 00:09:36,450
 [MR. GARRISON]
 Stanly!
-ສະຕັນລີ!
+ສະແຕນລີ!
 
 153
 00:09:36,950 --> 00:09:38,950
 [KENNY]
 Mph.
-ແມນ.
+ແມຟ.
 
 154
 00:09:39,450 --> 00:09:41,450
@@ -999,13 +999,13 @@ How would you like to gargle rat jiz?
 00:10:03,200 --> 00:10:05,200
 [CARTMAN]
 I said -
-ຂ້ອຍເວົ້າວ່າ -
+ຂ້ອຍບອກວ່າ -
 
 162
 00:10:05,700 --> 00:10:07,800
 [KYLE]
 Oh, dude we are fucked now.
-ໂອ້, ເພື່ອນພວກເຮົາຖືກໂຊກຮ້າຍແລ້ວ.
+ແມ່ນແລ້ວ, ສະບາຍດີ ພວກເຮົາແມ່ນສໍ້ໂກງແລ້ວ.
 
 163
 00:10:08,300 --> 00:10:12,500
@@ -1099,7 +1099,7 @@ Thank you all for coming on such short notice. As you can see, your boys are all
 00:11:01,400 --> 00:11:03,500
 [STAN'S MOTHER]
 This just isn't like you, Stanley!
-ນີ້ແມ່ນພຽງແຕ່ບໍ່ຄືກັບເຈົ້າ, ສຕັນເລີ!
+ນີ້ແມ່ນບໍ່ເໝືອນເຈົ້າເລີຍ ແສນລີ!
 
 178
 00:11:04,000 --> 00:11:08,550
@@ -1175,7 +1175,7 @@ It was the Terrance and Phllip movie!
 00:11:46,200 --> 00:11:48,200
 [STAN]
 Dude!
-ເພື່ອນ!
+ສະບາຍດີ!
 
 190
 00:11:48,700 --> 00:11:52,200
@@ -1397,7 +1397,7 @@ Ms. Brovlofski, how are these kids seeing this film? Is bad parenting to blame? 
 00:14:15,700 --> 00:14:17,700
 [KYLE'S MOTHER]
 Canada!
-ກາເນດາ!
+ແຄນາດາ!
 
 225
 00:14:18,200 --> 00:14:22,050
@@ -1501,7 +1501,7 @@ Say Phillip, want to see the Northern Lights?
 00:15:28,350 --> 00:15:30,350
 [PHILLIP]
 You bet, Terrance!
-ເຈົ້າແນ່ໃຈວ່າ, ເທຣນສ໌!
+ແມ່ນແລ້ວ, ເທຣນສ໌!
 
 241
 00:15:30,850 --> 00:15:36,100
@@ -1514,7 +1514,7 @@ HA HA HA! ເຈົ້າໄດ້ເຜົາໄຫມ້ຕົວເອງຈ�
 00:15:36,600 --> 00:15:38,600
 [TERRANCE]
 I sure did, Phillip!!
-ຂ້ອຍເຮັດແນ່ນອນ, ຟີລິບປ໌!!
+ແມ່ນແລ້ວ ຟີລິບ!!
 
 243
 00:15:39,100 --> 00:15:41,100
@@ -1620,7 +1620,7 @@ No you can't Kenny!
 00:16:35,250 --> 00:16:37,250
 [KENNY]
 Mph rm rmph!!
-Mph rm rmph!!
+ແມຟ ຣມແມຟ!!
 
 260
 00:16:37,750 --> 00:16:43,000
@@ -1692,7 +1692,7 @@ Watch his liver!!!
 00:17:11,700 --> 00:17:13,700
 [ASSISTANT]
 I'll get it!!!
-ຂ້ອຍຈະເອົາມັນ!!!
+ຂ້ອຍຈະຮັບໄດ້ເດີ້!!!
 
 272
 00:17:14,200 --> 00:17:18,750
@@ -1955,7 +1955,7 @@ Yeah, I'm having total deja vu right now. Like this has all happened before...
 00:19:58,650 --> 00:20:00,650
 [KENNY]
 Mph rmph rm!
-ແມຟ ຣີມຟຣ໌!
+ແມຟ Rmph Rm!
 
 313
 00:20:01,150 --> 00:20:03,150
@@ -2006,7 +2006,7 @@ Oh shit! Hey it's not MY fault! You should arrest those pervert Canadians!
 00:20:28,850 --> 00:20:31,300
 [KYLE'S MOTHER]
 Oh we will, Mr. Scumbag... We will...
-ໂອ້ ພວກເຮົາຈະເຮັດ, ທ້າວສກູມບາກ... ພວກເຮົາຈະ...
+ແມ່ນແລ້ວ, ທ່ານ Scumbag... ພວກເຮົາຈະ...
 
 321
 00:20:31,800 --> 00:20:37,800
@@ -2249,7 +2249,7 @@ We demand their release IMMEDIATELY!! As you can see from this graph, the entire
 00:23:02,050 --> 00:23:04,050
 [KYLE'S MOTHER]
 If I may?
-ຖ້າຂ້ອຍອະນຸຍາດບໍ?
+ຖ້າຂ້ອຍສາມາດເຮັດໄດ້ບໍ່?
 
 359
 00:23:04,550 --> 00:23:08,400
@@ -2261,7 +2261,7 @@ As president and founder of M.A.C., I would like to state-
 00:23:08,900 --> 00:23:10,900
 [UNITED NATIONS HEAD]
 Excuse me, M.A.C.?
-ຂໍໂທດຂ້ອຍ, MAC?
+ສະບາຍດີ ແມຄ໌?
 
 361
 00:23:11,400 --> 00:23:13,400
@@ -2332,7 +2332,7 @@ Sorry, kid. Cheesy Poofs are a Canadian export. We can't carry them any more.
 00:23:56,050 --> 00:23:58,500
 [KYLE]
 Who the hell made up that law?!
-ໃຜໄດ້ສ້າງກົດ ຫມາຍ ນັ້ນບໍ?
+ແມ່ນໃຜທີ່ຄິດສ້າງກົດໝາຍນັ້ນເດີ້?!
 
 372
 00:23:59,000 --> 00:24:05,000
@@ -3842,7 +3842,7 @@ God damn it, why does she keep saying that?
 00:40:02,850 --> 00:40:04,950
 [STAN]
 I'm so sick of these soldiers.
-ຂ້ອຍເມື່ອຍກັບທະຫານເຫຼົ່ານີ້ຫຼາຍ.
+ຂ້ອຍຮູ້ສຶກເມື່ອຍຫຼາຍກັບພວກທະຫານຄົນນີ້.
 
 611
 00:40:05,450 --> 00:40:07,450
@@ -4154,7 +4154,7 @@ Damn, your mom's a bitch, Kyle.
 00:43:12,000 --> 00:43:14,000
 [CARTMAN]
 Amen to that.
-ອາເມນຕໍ່ນັ້ນ.
+ແມ່ນແລ້ວ.
 
 661
 00:43:14,500 --> 00:43:16,500
@@ -4555,7 +4555,7 @@ Wow!
 00:47:42,650 --> 00:47:44,750
 [KYLE]
 I'll just try the first one.
-ຂ້ອຍພຽງແຕ່ພະຍາຍາມຄັ້ງ ທໍາ ອິດເທົ່ານັ້ນ.
+ຂ້ອຍຈະລອງແບບທໍາອິດເດີ້.
 
 724
 00:47:45,250 --> 00:47:49,100
@@ -5074,7 +5074,7 @@ Somebody's here...
 00:53:13,050 --> 00:53:15,050
 [KYLE]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 806
 00:53:15,550 --> 00:53:17,650
@@ -5177,7 +5177,7 @@ I thought you had something planned.
 00:54:00,300 --> 00:54:02,300
 [STAN]
 Me?!
-ຂ້ອຍບໍ?
+ຂ້ອຍແມ່ນບໍ່?
 
 823
 00:54:02,800 --> 00:54:08,400
@@ -5446,7 +5446,7 @@ Alright men, get lots of rest, and prepare thyselves for battle!
 00:56:56,050 --> 00:56:58,050
 [KYLE]
 Gotcha.
-ເຈົ້າໄດ້ແລ້ວ.
+ແມ່ນແລ້ວ.
 
 865
 00:56:58,550 --> 00:57:04,500
@@ -5709,7 +5709,7 @@ I get what I want, and what I want is for youuuuu toooo put ooooout!!!
 01:00:20,050 --> 01:00:22,050
 [SATAN]
 What if I just left?
-ຖ້າຂ້ອຍອອກຈາກໄປແນວໃດ?
+ຖ້າຂ້ອຍພຽງແຕ່ອອກໄປແມ່ນບໍ່?
 
 905
 01:00:22,550 --> 01:00:28,550
@@ -5740,7 +5740,7 @@ Him? I don't know... He can be nice... sometimes.
 01:00:38,850 --> 01:00:40,850
 [KENNY]
 Mph rmph rm rmph rm.
-ແມຟ ຣມຟຣມຟຮມຟຣີ.
+ແມຟ rmph rm.
 
 910
 01:00:41,350 --> 01:00:45,550
@@ -5987,7 +5987,7 @@ Sheet.  Did you bring ze mirror?
 01:03:24,100 --> 01:03:26,100
 [STAN]
 Got it.
-ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+ແມ່ນແລ້ວ.
 
 949
 01:03:26,600 --> 01:03:28,600
@@ -6030,13 +6030,13 @@ Now listen carefully. Stan and Kyle, you stand watch here and await my return. I
 01:03:45,600 --> 01:03:47,700
 [KYLE]
 What's a dying giraffe sound like?
-ສຽງຈີຣາຟາທີ່ຕາຍຄືແນວໃດ?
+ສຽງຂອງຈີຣາຟທີ່ກໍາລັງຕາຍແມ່ນຫຍັງ?
 
 956
 01:03:48,200 --> 01:03:50,200
 [THE MOLE]
 Gwpaapa. Gwpaapa.
-ກວປາປາ. ກວປາປາ.
+ສະບາຍດີ.
 
 957
 01:03:50,700 --> 01:03:52,700
@@ -6290,7 +6290,7 @@ The execution is going to happen any moment... We must prepare.
 01:06:35,750 --> 01:06:37,750
 [KENNY]
 Mph rmph rm!
-ແມຟ ຣີມຟຣ໌!
+ແມຟ Rmph Rm!
 
 997
 01:06:38,250 --> 01:06:44,200
@@ -6339,7 +6339,7 @@ Cartman runs off, leaving the power completely on.
 01:07:03,500 --> 01:07:05,500
 [AMERICAN SOLDIER]
 Found one!
-ພົບຫນຶ່ງ!
+ພົບແລ້ວ!
 
 1005
 01:07:06,000 --> 01:07:08,000
@@ -6500,7 +6500,7 @@ The boys look up to see three large MARINES pointing guns at them.
 01:08:28,900 --> 01:08:30,900
 [KYLE]
 Run, Stan!!
-ແລ່ນ, ສຕານ!!
+ແລ່ນເດີ້ ແສຕັນ!!
 
 1031
 01:08:31,400 --> 01:08:34,200
@@ -6581,7 +6581,7 @@ Quebec ເມື່ອຂ້ອຍນອນໃນ disco ນັ້ນ.
 01:09:17,350 --> 01:09:19,350
 [PHILLIP]
 I know, Terrance. I know.
-ຂ້ອຍຮູ້, ເທຣນສ໌. ຂ້ອຍຮູ້.
+ແມ່ນແລ້ວ ແເທຣນສ໌ ຂ້ອຍຮູ້ແລ້ວ
 
 1044
 01:09:19,850 --> 01:09:23,000
@@ -7044,7 +7044,7 @@ Die Canadian, mmkay?!
 01:13:42,400 --> 01:13:44,400
 [MR. MACKEY]
 Mkay-
-ແມັກເກີ...
+ສະບາຍດີ -
 
 1118
 01:13:44,900 --> 01:13:47,000
@@ -7191,7 +7191,7 @@ Mr. Hat! Noooooo!
 01:15:15,900 --> 01:15:17,900
 [KYLE]
 Stan!
-ແສຕັນ!
+ສະຕັນ!
 
 1141
 01:15:18,400 --> 01:15:23,650
@@ -7236,7 +7236,7 @@ Wait! He's not haunting us, he's trying to tell us something!
 01:15:45,050 --> 01:15:47,050
 [KENNY]
 Mph rmph rm rmph rm!
-ແມຟ ຣມຟຣມຟຮມຟຣີ!
+ແມຟ rmph rm rm!
 
 1148
 01:15:47,550 --> 01:15:53,550

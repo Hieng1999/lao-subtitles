@@ -706,7 +706,7 @@ Open up, open up -- we haven't got all night.
 00:08:13,700 --> 00:08:15,800
 [BLONDE]
 So this is your mother's apartment?
-ສະນັ້ນນີ້ແມ່ນເຮືອນຂອງແມ່ຂອງທ່ານບໍ?
+ແມ່ນແລ້ວ, ນີ້ແມ່ນອາພາດເມັນຂອງແມ່ເຈົ້າບໍ່?
 
 112
 00:08:16,300 --> 00:08:18,300
@@ -774,7 +774,7 @@ That's all.  Take it away.
 00:08:47,250 --> 00:08:49,350
 [FRAN]
 Watch the door, please.  Blasting off.
-ເບິ່ງປະຕູ, ກະລຸນາ. ລະເບີດອອກໄປ.
+ເຝົ້າລະວັງປະຕູເດີ, ກະລຸນາ. ກໍາ ລັງເປີດຕົວ.
 
 123
 00:08:49,850 --> 00:08:52,300
@@ -1221,7 +1221,7 @@ Care to make a small wager?
 00:14:02,050 --> 00:14:05,550
 [MOFFETT]
 I've been here twice as long as you have --
-ຂ້ອຍຢູ່ບ່ອນນີ້ເປັນເວລາດົນກວ່າເຈົ້າສອງເທົ່າ -
+ຂ້ອຍມາທີ່ນີ້ໄດ້ສອງເທົ່າກັບເຈົ້າແລ້ວ -
 
 192
 00:14:06,050 --> 00:14:08,150
@@ -1239,7 +1239,7 @@ It's a bet.
 00:14:11,150 --> 00:14:13,150
 [FRAN]
 Going up?
-ຂຶ້ນໄປບໍ?
+ເຈົ້າຈະຂຶ້ນບໍ່?
 
 195
 00:14:13,650 --> 00:14:18,200
@@ -1284,7 +1284,7 @@ Couldn't happen to a nicer guy.  You know, you're the only one around here who e
 00:14:41,150 --> 00:14:43,150
 [BUD]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 202
 00:14:43,650 --> 00:14:49,650
@@ -1519,7 +1519,7 @@ Who?
 00:17:09,000 --> 00:17:11,100
 [SHELDRAKE]
 Loyal, cooperative, resourceful C. C. Baxter.
-ຄວາມສັດຊື່, ການຮ່ວມມື, ຄວາມສາມາດ C. C. Baxter.
+C. C. ແບັກສເຕີທີ່ສັດຊື່, ຮ່ວມມື, ມີຊັບພະຍາກອນ.
 
 239
 00:17:11,600 --> 00:17:13,600
@@ -1746,7 +1746,7 @@ That's good thinking, Baxter. Next month there's going to be a shift in personne
 00:19:48,400 --> 00:19:50,400
 [BUD]
 I am?
-ຂ້ອຍເປັນບໍ?
+ແມ່ນບໍ່?
 
 274
 00:19:50,900 --> 00:19:55,100
@@ -1900,7 +1900,7 @@ Would you like to?
 00:21:21,200 --> 00:21:23,200
 [FRAN]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 299
 00:21:23,700 --> 00:21:28,950
@@ -2104,7 +2104,7 @@ Well, don't tell the fellows in the office about the appendix. They may get the 
 00:23:39,500 --> 00:23:41,500
 [BUD]
 Eight-thirty!
-ເວລາແປດສາມ!
+ເວລາ 8 ໂມງ 30!
 
 331
 00:23:42,000 --> 00:23:44,000
@@ -2468,7 +2468,7 @@ You know I do.
 00:27:14,200 --> 00:27:16,200
 [SHELDRAKE]
 Fran --
-ແຟຣນ...
+ແຟຣນ -
 
 390
 00:27:16,700 --> 00:27:18,700
@@ -2719,7 +2719,7 @@ Sure you will.  Say, Baxter, about the apartment - now that you got a raise, don
 00:30:00,100 --> 00:30:02,100
 [BUD]
 Well -- I guess so.
-ດີ - ຂ້ອຍຄິດວ່າເປັນ.
+ແມ່ນແລ້ວ - ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 430
 00:30:02,600 --> 00:30:05,400
@@ -2953,7 +2953,7 @@ Cheers.
 00:32:35,600 --> 00:32:37,600
 [BUD]
 One more?
-ອີກຫນຶ່ງບໍ?
+ອີກໜຶ່ງບໍ່?
 
 467
 00:32:38,100 --> 00:32:40,200
@@ -3003,7 +3003,7 @@ Three.
 00:33:04,600 --> 00:33:06,600
 [FRAN]
 I thought so.
-ຂ້ອຍຄິດດັ່ງນັ້ນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 475
 00:33:07,100 --> 00:33:11,300
@@ -3142,7 +3142,7 @@ Really? You mean you wouldn't be ashamed to be seen with somebody in a hat like 
 00:34:32,150 --> 00:34:34,150
 [FRAN]
 Of course not.
-ແນ່ນອນວ່າບໍ່ແມ່ນ.
+ແມ່ນແລ້ວບໍ່.
 
 497
 00:34:34,650 --> 00:34:39,900
@@ -3237,7 +3237,7 @@ No problem. Why don't we discuss it sometime over the holidays -- I could call y
 00:35:39,650 --> 00:35:41,650
 [FRAN]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 512
 00:35:42,150 --> 00:35:45,650
@@ -3590,7 +3590,7 @@ Stop that, Fran.
 00:39:41,450 --> 00:39:43,450
 [FRAN]
 You'll miss your train, Jeff.
-ເຈົ້າຈະພາດລົດໄຟຂອງທ່ານ, ເຈຟສ໌.
+ເຈົ້າຈະຂາດລົດໄຟເດີ້ ແຈຟ.
 
 567
 00:39:43,950 --> 00:39:45,950
@@ -3657,7 +3657,7 @@ I know, Charlie. I know. I work for the outfit.
 00:40:17,700 --> 00:40:20,500
 [BARTENDER]
 Hey, knock it off, will you? Go home.
-ເຮ້, ຢຸດມັນລົງ, ເຈົ້າຈະເຮັດແນວໃດ? ກັບບ້ານ.
+ສະບາຍດີ, ຢຸດເຊົາເລີຍ, ແມ່ນບໍ່? ກັບບ້ານເດີ້.
 
 578
 00:40:21,000 --> 00:40:23,000
@@ -3838,7 +3838,7 @@ I didn't mean right now.
 00:42:08,250 --> 00:42:10,250
 [BUD]
 Dr. Dreyfuss! Hey, Doc!
-ດຣ ເດຣີຟັສ! ເຮ້, ດອກ!
+ດຣ ດຣີຟັສ ສະບາຍດີ ດອກ!
 
 607
 00:42:10,750 --> 00:42:16,750
@@ -3918,7 +3918,7 @@ Not this one --  -- in there, Doc.
 00:42:49,350 --> 00:42:51,450
 [MARGIE]
 Say, what's going on here, anyway?
-ເວົ້າ, ເກີດຫຍັງຂຶ້ນຢູ່ນີ້, ຢ່າງໃດກໍຕາມ?
+ສະບາຍດີ, ມີຫຍັງເກີດຂຶ້ນຢູ່ນີ້ແມ່ນບໍ່?
 
 620
 00:42:51,950 --> 00:42:54,050
@@ -3955,7 +3955,7 @@ You bet I will. And when I tell him how you treated me, he'll push your face in.
 00:43:11,200 --> 00:43:13,650
 [BUD]
 She going to be all right, Doc?
-ນາງຈະດີດີບໍ, ດອກ?
+ນາງຈະບໍ່ເປັນຫຍັງບໍ່, ດອກ?
 
 626
 00:43:14,150 --> 00:43:16,600
@@ -4304,7 +4304,7 @@ Any of that coffee left?
 00:46:34,850 --> 00:46:36,850
 [BUD]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 682
 00:46:37,350 --> 00:46:39,800
@@ -4348,7 +4348,7 @@ She didn't mean it, Doc -- it was an accident -- she had a little too much to dr
 00:47:00,500 --> 00:47:02,500
 [DR. DREYFUSS]
 Aren't you?
-ເຈົ້າບໍ່ແມ່ນບໍ?
+ແມ່ນບໍ່?
 
 689
 00:47:03,000 --> 00:47:09,000
@@ -4426,7 +4426,7 @@ So who did you think it was -- Kris Kringle? What was going on here last night?
 00:47:54,450 --> 00:47:56,450
 [BUD]
 Last night?
-ໃນມື້ວານນີ້ບໍ?
+ເມື່ອຄືນແລ້ວບໍ່?
 
 701
 00:47:56,950 --> 00:48:01,850
@@ -4641,7 +4641,7 @@ Yes, sir -- I understand.  She left a note -- you want me to open it and read it
 00:50:28,500 --> 00:50:30,500
 [FRAN]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 734
 00:50:31,000 --> 00:50:33,000
@@ -5153,7 +5153,7 @@ That's right. Will you see that Mr. Sheldrake gets it?
 00:55:58,450 --> 00:56:00,450
 [BUD]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 816
 00:56:00,950 --> 00:56:03,050
@@ -5209,7 +5209,7 @@ I think I'm going to give it all up.
 00:56:30,900 --> 00:56:32,900
 [BUD]
 Give what up?
-ຍອມຮັບຫຍັງ?
+ສະຖິ້ມຫຍັງແດ່?
 
 825
 00:56:33,400 --> 00:56:36,200
@@ -5360,7 +5360,7 @@ I'm sure that's the explanation.
 00:58:06,450 --> 00:58:08,450
 [FRAN]
 You really think so?
-ເຈົ້າຄິດດັ່ງນັ້ນແທ້ບໍ?
+ເຈົ້າຄິດແມ່ນບໍ່?
 
 849
 00:58:08,950 --> 00:58:10,950
@@ -5384,7 +5384,7 @@ What for?
 00:58:17,250 --> 00:58:20,400
 [FRAN]
 I'm going to write a letter to Mrs. Sheldrake.
-ຂ້ອຍຈະຂຽນຈົດຫມາຍໄປຫາທ່ານນາງ Sheldrake.
+ຂ້ອຍຈະໄປຂຽນຈົດໝາຍໃຫ້ທ່ານນາງ ເຊລເດຣັກເດີ້.
 
 853
 00:58:20,900 --> 00:58:22,900
@@ -5451,7 +5451,7 @@ You sure you want to throw that card?
 00:58:55,400 --> 00:58:57,400
 [FRAN]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 864
 00:58:57,900 --> 00:58:59,900
@@ -5551,7 +5551,7 @@ Mildred --  !
 00:59:57,750 --> 00:59:59,750
 [SYLVIA]
 What's holding things up?
-ເປັນຫຍັງຈຶ່ງເຮັດໃຫ້ສິ່ງຕ່າງໆຢຸດເຊົາ?
+ແມ່ນຫຍັງທີ່ຊັກຊ້າຫຼາຍ?
 
 880
 01:00:00,250 --> 01:00:04,800
@@ -5711,7 +5711,7 @@ Miss Olsen, will you come into my office, please?
 01:01:30,550 --> 01:01:32,650
 [MISS OLSEN]
 Did you have a nice Christmas?
-ເຈົ້າມີວັນຄຣິດສະມາດທີ່ດີບໍ?
+ເຈົ້າໄດ້ພັກຄຣິສມັສດີບໍ່?
 
 906
 01:01:33,150 --> 01:01:35,250
@@ -5838,7 +5838,7 @@ Well, at least you can talk to her -- let me put her on -- and please be gentle 
 01:03:03,550 --> 01:03:05,650
 [BUD]
 There's a call for you --
-ມີໂທລະສັບສໍາລັບເຈົ້າ -
+ມີການໂທຫາທ່ານ -
 
 926
 01:03:06,150 --> 01:03:08,150
@@ -5882,7 +5882,7 @@ Fran, why did you do it? It's so childish -- and it never solves anything -- I o
 01:03:29,700 --> 01:03:31,700
 [SHELDRAKE]
 Are you there, Fran?
-ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ, ຟຣານ?
+ເຈົ້າຢູ່ບໍ່ ແຟຣນ?
 
 933
 01:03:32,200 --> 01:03:38,200
@@ -6084,7 +6084,7 @@ You mean to someone like Mr. Sheldrake.
 01:05:38,550 --> 01:05:40,550
 [BUD]
 I guess so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 965
 01:05:41,050 --> 01:05:43,150
@@ -6568,7 +6568,7 @@ This is my brother-in-law, Karl Matuschka.
 01:10:45,200 --> 01:10:47,300
 [BUD]
 How do you do, Mr. Matuschka?
-ເຈົ້າເປັນແນວໃດ, ທ້າວ Matuschka?
+ສະບາຍດີເດີ, ທ້າວ ມາຕູສກາ?
 
 1042
 01:10:47,800 --> 01:10:51,300
@@ -6625,7 +6625,7 @@ Hi, Baxter.
 01:11:26,500 --> 01:11:28,500
 [DR. DREYFUSS]
 How's the patient?
-ຄົນເຈັບເປັນແນວໃດ?
+ຄົນເຈັບສະບາຍດີບໍ່?
 
 1051
 01:11:29,000 --> 01:11:31,000
@@ -6722,7 +6722,7 @@ You?
 01:12:20,250 --> 01:12:22,250
 [BUD]
 Who else?
-ໃຜອີກຄົນໃດ?
+ມີໃຜອີກບໍ່?
 
 1067
 01:12:22,750 --> 01:12:24,750
@@ -6853,7 +6853,7 @@ And I've got good news for you, Baxter. All your troubles are over.
 01:13:36,300 --> 01:13:38,300
 [BUD]
 Sir?
-ເຈົ້າບໍ?
+ສະບາຍດີ?
 
 1088
 01:13:38,800 --> 01:13:44,800
@@ -6999,13 +6999,13 @@ Fine. How's your eye?
 01:15:10,200 --> 01:15:12,200
 [BUD]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 1111
 01:15:12,700 --> 01:15:14,700
 [FRAN]
 How's everything at the apartment?
-ທຸກຢ່າງຢູ່ເຮືອນຢູ່ແນວໃດ?
+ທຸກຢ່າງຢູ່ອາພາດເມັນແມ່ນໄງບໍ່?
 
 1112
 01:15:15,200 --> 01:15:19,050
@@ -7044,7 +7044,7 @@ I told you all along. You see, you were wrong about Mr. Sheldrake.
 01:15:35,550 --> 01:15:37,550
 [FRAN]
 I guess so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 1118
 01:15:38,050 --> 01:15:44,050
@@ -7333,7 +7333,7 @@ Say, Baxter -- we're having a little party and we ran out of ice -- so I was won
 01:18:27,100 --> 01:18:29,100
 [BUD]
 Sure, Doc.
-ແນ່ນອນ, ດອກ.
+ແມ່ນແລ້ວ ດອກ.
 
 1164
 01:18:29,600 --> 01:18:32,400
@@ -7624,7 +7624,7 @@ I'm going to send him a fruit cake every Christmas.
 01:21:23,550 --> 01:21:25,550
 [FRAN]
 Cut.
-ຕັດ.
+ແຄ່ແລ້ວ.
 
 1211
 01:21:26,050 --> 01:21:28,050

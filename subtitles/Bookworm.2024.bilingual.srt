@@ -378,7 +378,7 @@ You have my I.D.
 00:04:10,250 --> 00:04:12,250
 [DOTTY]
 I do? Where?
-ຂ້ອຍເຮັດບໍ? ຢູ່ໃສ?
+ແມ່ນແລ້ວ? ຢູ່ໃສ?
 
 61
 00:04:12,750 --> 00:04:18,000
@@ -429,7 +429,7 @@ I just... I've heard so many horror stories. You can't be too careful, with othe
 00:04:41,950 --> 00:04:43,950
 [STRAWN]
 I guess so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 69
 00:04:44,450 --> 00:04:50,450
@@ -1003,7 +1003,7 @@ I mean... I could take you, maybe?
 00:10:27,700 --> 00:10:29,700
 [MILDRED]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 160
 00:10:30,200 --> 00:10:36,200
@@ -1271,7 +1271,7 @@ Cheers, Strawn. Cheers for single- handedly destroying my belief in the power of
 00:13:08,550 --> 00:13:10,550
 [STRAWN]
 Do you... want an autograph?
-ເຈົ້າ... ຢາກມີໃບຢັ້ງຢືນບໍ?
+ເຈົ້າບໍ່... ເຈົ້າຢາກມີໃບລົງນາມບໍ່?
 
 203
 00:13:11,050 --> 00:13:13,050
@@ -1478,7 +1478,7 @@ You know, you don't talk like a...
 00:15:39,850 --> 00:15:41,850
 [MILDRED]
 Like a normal child?
-ຄືກັບເດັກນ້ອຍປົກກະຕິບໍ?
+ຄືກັບເດັກທໍາມະດາບໍ່?
 
 235
 00:15:42,350 --> 00:15:46,200
@@ -1702,7 +1702,7 @@ Long day.
 00:17:51,000 --> 00:17:53,000
 [STRAWN]
 How's your mom doing?
-ແມ່ຂອງເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີແມ່ເຈົ້າບໍ່?
 
 271
 00:17:53,500 --> 00:17:58,400
@@ -1735,7 +1735,7 @@ You could say she's struggling.
 00:18:13,650 --> 00:18:15,650
 [STRAWN]
 With?
-ກັບໃຜ?
+ແມ່ນບໍ່?
 
 276
 00:18:16,150 --> 00:18:18,150
@@ -1759,7 +1759,7 @@ The debt, Einstein. She's struggling with all the debt.
 00:18:24,800 --> 00:18:26,800
 [STRAWN]
 What debt?
-ຫນີ້ໃດ?
+ເປັນໜີ້ຫຍັງ?
 
 280
 00:18:27,300 --> 00:18:29,300
@@ -1844,7 +1844,7 @@ I know you have a belly full of beans, but this tent is a fart-free zone. If you
 00:19:24,200 --> 00:19:26,200
 [STRAWN]
 Sure. 31.
-ແນ່ນອນ. 31.
+ແມ່ນແລ້ວ. 31.
 
 293
 00:19:26,700 --> 00:19:32,700
@@ -2784,7 +2784,7 @@ That's a scree run.
 00:28:51,550 --> 00:28:53,550
 [VOICE]
 Kia ora!
-ໂມງໃດ!
+ສະບາຍດີ!
 
 443
 00:28:54,050 --> 00:28:56,050
@@ -3053,7 +3053,7 @@ I've kidnapped your daughter.
 00:31:32,600 --> 00:31:34,600
 [STRAWN]
 Excuse me?
-ຂໍໂທດບໍ?
+ສະບາຍດີບໍ່?
 
 486
 00:31:35,100 --> 00:31:37,100
@@ -3092,7 +3092,7 @@ And before you get any ideas, I'd like to inform you that I have a black belt in
 00:31:59,600 --> 00:32:01,600
 [STRAWN]
 Do you really? 54.
-ເຈົ້າເຮັດແທ້ບໍ? 54.
+ແມ່ນບໍ່? 54.
 
 492
 00:32:02,100 --> 00:32:04,100
@@ -3735,7 +3735,7 @@ You just handed it over, on a silver platter.
 00:38:08,350 --> 00:38:10,350
 [STRAWN]
 I'm so sorry.
-ຂ້ອຍຂໍໂທດຫຼາຍ.
+ຂໍໂທດເດີ.
 
 595
 00:38:10,850 --> 00:38:16,850
@@ -3799,7 +3799,7 @@ That's not twenty paces. That was sixteen paces. And I can still see you. Like a
 00:38:51,650 --> 00:38:53,650
 [STRAWN]
 It all makes sense now.
-ມັນມີຄວາມ ຫມາຍ ທັງ ຫມົດ ດຽວນີ້.
+ທຸກຢ່າງແມ່ນມີຄວາມໝາຍແລ້ວ.
 
 605
 00:38:54,150 --> 00:38:56,150
@@ -3891,7 +3891,7 @@ You said twenty paces? Let's make it fifty. No, screw that. Let's make it one hu
 00:39:40,350 --> 00:39:42,350
 [STRAWN]
 Someone there?
-ມີໃຜຢູ່ບ່ອນນັ້ນບໍ?
+ມີໃຜບໍ່?
 
 620
 00:39:42,850 --> 00:39:45,300
@@ -4196,7 +4196,7 @@ Piper Excelsum. Known around these parts as Kawakawa.
 00:42:43,000 --> 00:42:45,000
 [STRAWN]
 Kawakawa...
-ຄາວາກາວາ...
+Kawakawa...
 
 669
 00:42:45,500 --> 00:42:51,450
@@ -4286,7 +4286,7 @@ Sorry.  Look. We lost it all. It's a kick in the head, no doubt. But we've got g
 00:43:46,900 --> 00:43:48,900
 [STRAWN]
 Mildred. Hey...
-ມິລເດຣດ ເຮ້...
+ແມລເດຣດ ສະບາຍດີ...
 
 683
 00:43:49,400 --> 00:43:51,400
@@ -4385,7 +4385,7 @@ Okay.
 00:44:38,550 --> 00:44:40,550
 [STRAWN]
 Hey. What is it?
-ເຮ້. ມັນເປັນຫຍັງ?
+ສະບາຍດີ. ແມ່ນຫຍັງ?
 
 699
 00:44:41,050 --> 00:44:43,050
@@ -4475,7 +4475,7 @@ If you're going to wake me up in the middle of the night, at least tell me why.
 00:45:42,050 --> 00:45:44,050
 [STRAWN]
 Hey. What is it?
-ເຮ້. ມັນເປັນຫຍັງ?
+ສະບາຍດີ. ແມ່ນຫຍັງ?
 
 713
 00:45:44,550 --> 00:45:50,550
@@ -4500,7 +4500,7 @@ Yeah. Sure. Okay.
 00:45:56,050 --> 00:45:58,050
 [MILDRED]
 Stay here.
-ຢູ່ບ່ອນນີ້.
+ຢູ່ທີ່ນີ້ເດີ້.
 
 717
 00:45:58,550 --> 00:46:00,550

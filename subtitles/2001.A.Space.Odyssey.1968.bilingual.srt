@@ -70,13 +70,13 @@ Well, shall we go through Documentation?
 00:00:48,200 --> 00:00:50,200
 [FLOYD]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 13
 00:00:50,700 --> 00:00:52,800
 [RECEPTIONIST]
 Will you use number eight, please?
-ເຈົ້າຈະໃຊ້ເລກທີແປດບໍ, ກະລຸນາ?
+ເຈົ້າຈະໃຊ້ເບີ 8 ໄດ້ບໍ່?
 
 14
 00:00:53,300 --> 00:00:55,300
@@ -281,7 +281,7 @@ Three, darling. One... two ... three. Be sure to tell Mommy I called.
 00:02:49,850 --> 00:02:51,850
 [CHILD]
 I will, Daddy.
-ຂ້ອຍຈະເຮັດ, ພໍ່.
+ແມ່ນແລ້ວ, ພໍ່.
 
 47
 00:02:52,350 --> 00:02:55,150
@@ -419,7 +419,7 @@ And this is Dr. Kalinan... Stretyneva...
 00:04:15,800 --> 00:04:18,950
 [SMYSLOV]
 Dr. Floyd, won't you join us for a drink?
-ດຣ ຟລອຍດ໌, ເຈົ້າຈະບໍ່ເຂົ້າຮ່ວມພວກເຮົາເພື່ອດື່ມບໍ?
+ດຣ ຟລອຍດ໌ ເຈົ້າບໍ່ຢາກຮ່ວມກັນດື່ມນໍາບໍ່?
 
 69
 00:04:19,450 --> 00:04:23,650
@@ -486,7 +486,7 @@ Oh, that's such a delightful age.
 00:04:53,850 --> 00:04:55,850
 [FLOYD]
 How is gregor?
-ແກຣເກີຣ໌ເປັນແນວໃດ?
+ເກຣກໍສະບາຍດີບໍ່?
 
 80
 00:04:56,350 --> 00:05:02,350
@@ -556,7 +556,7 @@ Well, it's just for the past two weeks there have been some extremely odd things
 00:05:45,650 --> 00:05:47,650
 [FLOYD]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 91
 00:05:48,150 --> 00:05:54,150
@@ -594,7 +594,7 @@ That's right.
 00:06:15,150 --> 00:06:17,150
 [FLOYD]
 I see.
-ຂ້ອຍເຫັນແລ້ວ.
+ແມ່ນແລ້ວ.
 
 97
 00:06:17,650 --> 00:06:23,650
@@ -657,7 +657,7 @@ Dr. Floyd, at the risk of pressing you on a point you seem reticent to discuss, 
 00:06:57,450 --> 00:06:59,450
 [FLOYD]
 Certainly.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 107
 00:06:59,950 --> 00:07:05,950
@@ -1088,7 +1088,7 @@ Can we go down there closer to it?
 00:12:22,050 --> 00:12:24,050
 [HALVORSEN]
 Certainly.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 173
 00:12:24,550 --> 00:12:27,350
@@ -1358,7 +1358,7 @@ Well, it's nothing really important, but it's annoying.
 00:15:26,850 --> 00:15:28,850
 [BOWMAN]
 What's up?
-ມີຫຍັງຂຶ້ນ?
+ສະບາຍດີບໍ່?
 
 215
 00:15:29,350 --> 00:15:31,350
@@ -1695,7 +1695,7 @@ At the end of a hundred days of exploration, we will all go into hibernation. Is
 00:19:05,250 --> 00:19:07,250
 [HAL]
 That's true.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ແມ່ນແລ້ວ.
 
 268
 00:19:07,750 --> 00:19:13,750
@@ -1708,7 +1708,7 @@ Approximately five years after we go into hibernation, the recovery vehicle will
 00:19:14,250 --> 00:19:16,250
 [HAL]
 That's true
-ນັ້ນແມ່ນຄວາມຈິງ
+ແມ່ນແລ້ວ
 
 270
 00:19:16,750 --> 00:19:22,750
@@ -1721,7 +1721,7 @@ There is no other purpose for this mission than to carry out a continuation of t
 00:19:23,250 --> 00:19:25,250
 [HAL]
 That's true.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ແມ່ນແລ້ວ.
 
 272
 00:19:25,750 --> 00:19:27,750
@@ -2068,7 +2068,7 @@ Hello, Frank, can I have a word with you?
 00:22:38,350 --> 00:22:40,350
 [POOLE]
 Yes, Hal, what's up?
-ແມ່ນແລ້ວ, ຮາລ, ມີຫຍັງເກີດຂຶ້ນ?
+ແມ່ນແລ້ວ ແຮລ, ສະບາຍດີບໍ່?
 
 328
 00:22:40,850 --> 00:22:46,100
@@ -2161,7 +2161,7 @@ Well... Hal's reported the AO-unit about to fail again.
 00:23:40,050 --> 00:23:42,050
 [BOWMAN]
 You're kidding.
-ເຈົ້າໂຊກຮ້າຍ.
+ເຈົ້າແມ່ນບໍ່ຈິງແລ້ວ.
 
 343
 00:23:42,550 --> 00:23:44,550
@@ -2211,7 +2211,7 @@ Well, as far as I'm concerned, there isn't a damn thing wrong with these units. 
 00:24:12,500 --> 00:24:14,500
 [POOLE]
 Hal?
-ຮາລ?
+ແຮລ?
 
 351
 00:24:15,000 --> 00:24:17,000
@@ -2362,7 +2362,7 @@ Condition yellow.
 00:26:04,650 --> 00:26:06,650
 [BOWMAN]
 What's up?
-ມີຫຍັງຂຶ້ນ?
+ສະບາຍດີບໍ່?
 
 374
 00:26:07,150 --> 00:26:09,250
@@ -2405,7 +2405,7 @@ Naturally, Dave, I'm not pleased that the AO-unit has failed, but I hope at leas
 00:26:26,450 --> 00:26:28,550
 [BOWMAN]
 I'm sorry about the misunderstanding, Hal.
-ຂ້ອຍຂໍໂທດກ່ຽວກັບຄວາມເຂົ້າໃຈຜິດ, ຮາລ.
+ຂ້ອຍຂໍໂທດທີ່ບໍ່ເຂົ້າໃຈກັນເດີ້ ແຮລ.
 
 381
 00:26:29,050 --> 00:26:31,050
@@ -2417,7 +2417,7 @@ Well, don't worry about it.
 00:26:31,550 --> 00:26:33,650
 [BOWMAN]
 And don't you worry about it.
-ແລະຢ່າກັງວົນກ່ຽວກັບມັນ.
+ແລະບໍ່ຕ້ອງກັງວົນເລີຍ.
 
 383
 00:26:34,150 --> 00:26:36,600
@@ -2492,7 +2492,7 @@ I guess you don't know your own strength, old boy.
 00:27:18,950 --> 00:27:20,950
 [BOWMAN]
 I guess not.
-ຂ້ອຍຄິດວ່າບໍ່ແມ່ນ.
+ຂ້ອຍຄິດບໍ່.
 
 395
 00:27:21,450 --> 00:27:25,300
@@ -2805,7 +2805,7 @@ The purpose of this mission is no more than to carry out a continuation of the s
 00:31:07,300 --> 00:31:09,300
 [HAL'S VOICE]
 That is true.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ແມ່ນແລ້ວ.
 
 443
 00:31:09,800 --> 00:31:15,800

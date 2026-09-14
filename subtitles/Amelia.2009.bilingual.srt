@@ -187,7 +187,7 @@ I'm told you want to fly the Atlantic Ocean.
 00:02:37,900 --> 00:02:39,900
 [AMELIA]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 30
 00:02:40,400 --> 00:02:46,400
@@ -482,7 +482,7 @@ Almost.
 00:06:20,850 --> 00:06:22,850
 [AMELIA]
 Got it.   I think.
-ຂ້ອຍເຂົ້າໃຈແລ້ວ. ຂ້ອຍຄິດວ່າ.
+ແມ່ນແລ້ວ ຂ້ອຍຄິດວ່າແມ່ນແລ້ວ
 
 75
 00:06:23,350 --> 00:06:29,350
@@ -946,7 +946,7 @@ But why is he you? Oh.
 00:12:18,700 --> 00:12:20,700
 [GEORGE]
 He's brilliant, charismatic...
-ລາວສວຍງາມ, ມີ charismatic...
+ລາວແມ່ນແສງສະຫວ່າງ, ມີແຄຣິສມາຕິກ...
 
 145
 00:12:21,200 --> 00:12:24,700
@@ -1548,7 +1548,7 @@ The book's yours.     The letters are mine. He smiles.       Bows in submission.
 00:20:19,100 --> 00:20:21,100
 [GEORGE]
 ou're the boss.
-ເຈົ້າເປັນຫົວຫນ້າ.
+ເຈົ້າແມ່ນຫົວໜ້າແລ້ວ.
 
 235
 00:20:21,600 --> 00:20:27,600
@@ -1649,7 +1649,7 @@ True and misleading.      Why would I sign that?
 00:21:37,900 --> 00:21:40,000
 [GEORGE]
 So Bill and Slim get paid.
-ສະນັ້ນບິລ ແລະ ສລິມຈະໄດ້ຮັບການຈ່າຍເງິນ.
+ເພື່ອໃຫ້ບິລ ແລະ ສະລິມໄດ້ຮັບເງິນເດືອນ.
 
 250
 00:21:40,500 --> 00:21:46,500
@@ -1824,7 +1824,7 @@ Well, good for you! I would have expected nothing less. You want a tip?
 00:23:59,550 --> 00:24:01,550
 [ELINOR]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 276
 00:24:02,050 --> 00:24:05,550
@@ -2366,7 +2366,7 @@ I'm surprised you're all right with this... WIDEN ANGLE.     George kneeling bes
 00:30:41,500 --> 00:30:43,500
 [GEORGE]
 Really.
-ແທ້ໆ.
+ແມ່ນແລ້ວ.
 
 359
 00:30:44,000 --> 00:30:50,000
@@ -2458,7 +2458,7 @@ All this? G
 00:31:51,450 --> 00:31:53,450
 [EORGE]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 373
 00:31:53,950 --> 00:31:58,150
@@ -3039,7 +3039,7 @@ Gore would love that. He has a little crush, I'm afraid.
 00:39:28,800 --> 00:39:30,800
 [AMELIA]
 At seven?
-ໃນເວລາເຈັດບໍ?
+ຕອນເຈັດບໍ່?
 
 460
 00:39:31,300 --> 00:39:37,250
@@ -3090,7 +3090,7 @@ I'm serious, Amelia. Her soft smile.
 00:40:01,100 --> 00:40:03,100
 [AMELIA]
 I know.   Always.
-ຂ້ອຍຮູ້ແລ້ວ. ຕະຫຼອດເວລາ.
+ແມ່ນແລ້ວ, ສະເໝີ.
 
 468
 00:40:03,600 --> 00:40:09,200
@@ -5341,7 +5341,7 @@ You told me I was the star.   And you were no one at all. GEORGE  I thought I wa
 01:08:53,400 --> 01:08:55,400
 [GEORGE]
 How's Fred?
-ຟຣີດເປັນແນວໃດ?
+ແຟຣດສະບາຍດີບໍ່?
 
 808
 01:08:55,900 --> 01:09:01,900

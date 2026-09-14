@@ -417,7 +417,7 @@ Tell the President to adopt. I think I'll like L.A.
 00:05:44,000 --> 00:05:46,000
 [PLISSKEN]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 64
 00:05:46,500 --> 00:05:48,600
@@ -699,7 +699,7 @@ By the way - who gives me the anti-toxin?
 00:09:01,150 --> 00:09:03,600
 [MALLOY]
 A medical team will be standing by.
-ທີມງານທາງການແພດຈະຢືນພ້ອມ.
+ມີທີມງານແພດກໍາລັງຕຽມພ້ອມ.
 
 108
 00:09:04,100 --> 00:09:06,100
@@ -901,7 +901,7 @@ Shut-up, fuck! Stop makin' noise!
 00:10:46,850 --> 00:10:48,850
 [SPINAL]
 Take cover, fool.
-ກວມເອົາຕົວເອງ, ຄົນໂງ່.
+ສະຫງວນຕົວເດີ້, ຄົນໂງ່.
 
 141
 00:10:49,350 --> 00:10:55,350
@@ -1249,7 +1249,7 @@ Hi, Snake. It's so great to meet you. My name's Taslima. I'm a fan of yours.
 00:14:49,100 --> 00:14:51,100
 [PLISSKEN]
 Are you crazy?
-ເຈົ້າໂຊກຮ້າຍບໍ?
+ເຈົ້າໂງ່ບໍ່?
 
 195
 00:14:51,600 --> 00:14:56,500
@@ -1508,7 +1508,7 @@ I use the eye and the music to scare em off. They're so whacked out, man, it wor
 00:17:24,400 --> 00:17:26,500
 [TASLIMA]
 How far down does it go?
-ມັນລົງໄປໄກປານໃດ?
+ມັນຢູ່ລຸ່ມຫຼາຍປານໃດ?
 
 237
 00:17:27,000 --> 00:17:31,200
@@ -1534,7 +1534,7 @@ I own this whole place. Used to work here in the old days. I was right in this r
 00:17:44,700 --> 00:17:46,700
 [TASLIMA]
 Gun runners.
-ພວກລັກລອບປືນ.
+ພວກຂົນສົ່ງປືນ.
 
 241
 00:17:47,200 --> 00:17:49,200
@@ -2374,7 +2374,7 @@ My... father sent you... didn't he?  He sent you to kill me...
 00:27:17,800 --> 00:27:19,800
 [UTOPIA]
 Didn't he?
-ລາວບໍ່?
+ແມ່ນບໍ່?
 
 372
 00:27:20,300 --> 00:27:22,300
@@ -3221,7 +3221,7 @@ The President's promised to give whoever helps me 1 million dollars.
 00:36:01,750 --> 00:36:04,550
 [SPINAL]
 Yeah? Greenbacks? I got ten million of them.
-ແມ່ນແລ້ວ? ກະຕ່າສີຂຽວບໍ? ຂ້ອຍມີສິບລ້ານກະຕ່າ.
+ແມ່ນແລ້ວ? ແມ່ນແລ້ວ, ຂ້ອຍມີເງິນ 10 ລ້ານໂດລາ.
 
 507
 00:36:05,050 --> 00:36:07,050
@@ -3515,7 +3515,7 @@ Where's Plissken?
 00:38:44,500 --> 00:38:46,500
 [MAP TO THE STARS EDDIE]
 He's... near.
-ລາວຢູ່ໃກ້ແລ້ວ.
+ລາວແມ່ນ... ໃກ້ໆແລ້ວ.
 
 555
 00:38:47,000 --> 00:38:49,450
@@ -3811,13 +3811,13 @@ biceps ຂອງລາວ. ເລືອດໄຫຼອອກ. ຫ້ອງຫຼ
 00:41:35,050 --> 00:41:37,050
 [PLISSKEN]
 Where's the anti-toxin...?
-ຢາຕ້ານສານພິດຢູ່ໃສ...?
+ແອນຕິໂຕຊິນແມ່ນຢູ່ໃສ...?
 
 603
 00:41:37,550 --> 00:41:39,550
 [PRESIDENT]
 Give me the prototype.
-ໃຫ້ຂ້ອຍແບບຕົ້ນແບບ.
+ໃຫ້ຂ້ອຍຕົວແບບເດີມເດີ້.
 
 604
 00:41:40,050 --> 00:41:43,200
@@ -3881,7 +3881,7 @@ You didn't finish the mission, Plissken. We'll have to do that for you.
 00:42:19,850 --> 00:42:21,850
 [PLISSKEN]
 Got a smoke?
-ມີສູບຢາບໍ?
+ມີສູບບໍ່?
 
 614
 00:42:22,350 --> 00:42:28,350

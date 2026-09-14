@@ -39,7 +39,7 @@ Talby, Talby, this is Doolittle.  Do you read me?  Talby?
 00:00:36,000 --> 00:00:38,000
 [DOOLITTLE]
 Talby, do you read me?
-ທາລບີ, ເຈົ້າອ່ານຂ້ອຍບໍ?
+ທາລບີ ເຈົ້າໄດ້ຍິນບໍ່?
 
 8
 00:00:38,500 --> 00:00:40,950
@@ -105,7 +105,7 @@ Your GHF reading is minus fifteen.
 00:01:07,150 --> 00:01:09,150
 [PINBACK]
 Doolittle...
-ດູລີຕລ...
+ດູລິຕລ໌...
 
 19
 00:01:09,650 --> 00:01:11,650
@@ -279,7 +279,7 @@ Unlock fail safe.
 00:02:48,650 --> 00:02:50,650
 [PINBACK]
 Fail safe unlocked.
-ປອດໄພລົ້ມເຫຼວຖືກເປີດ.
+ປ້ອງກັນຄວາມລົ້ມເຫຼວບໍ່ຖືກລັອກແລ້ວ.
 
 47
 00:02:51,150 --> 00:02:57,100
@@ -447,7 +447,7 @@ Come on, Doolittle, give it a name.
 00:04:24,700 --> 00:04:26,700
 [DOOLITTLE]
 Fred.
-ຟຣີດ.
+ແຟຣດ
 
 74
 00:04:27,200 --> 00:04:29,200
@@ -484,7 +484,7 @@ Pinback, throw me the chart log.
 00:04:45,050 --> 00:04:47,500
 [DOOLITTLE]
 Let's have some music in here, Boiler.
-ມາມີດົນຕີບາງຢ່າງຢູ່ນີ້, Boiler.
+ມາຟັງດົນຕີກັນເດີ້, Boiler.
 
 80
 00:04:48,000 --> 00:04:54,000
@@ -530,7 +530,7 @@ You know, Talby, you really ought to eat with the rest of us.  You spend too muc
 00:05:19,000 --> 00:05:21,000
 [TALBY]
 I like it up here.
-ຂ້ອຍມັກຢູ່ເທິງນີ້.
+ຂ້ອຍມັກທີ່ນີ້ຫຼາຍ.
 
 87
 00:05:21,500 --> 00:05:24,300
@@ -667,7 +667,7 @@ Ah, Doolittle, I do have a malfunction on this readout, but I can't seem to pinp
 00:07:02,550 --> 00:07:06,400
 [DOOLITTLE]
 Don't worry about it.  We'll find out when it goes bad.
-ຢ່າກັງວົນກ່ຽວກັບມັນ. ພວກເຮົາຈະຮູ້ວ່າມັນຈະຮ້າຍແຮງເມື່ອໃດ.
+ບໍ່ຕ້ອງເປັນຫ່ວງ. ພວກເຮົາຈະຮູ້ເມື່ອມັນບໍ່ດີ.
 
 108
 00:07:06,900 --> 00:07:11,800
@@ -908,7 +908,7 @@ Ah, well, I think I've found the malfunction, sir.  I'm in the Emergency Air Loc
 00:09:38,800 --> 00:09:40,800
 [DOOLITTLE]
 Not now!
-ບໍ່ທັນທີ!
+ບໍ່ຕອນນີ້ເດີ້!
 
 146
 00:09:41,300 --> 00:09:44,450
@@ -1221,7 +1221,7 @@ Well, sir, the Dodgers broke up, disbanded over thirteen years ago.
 00:12:53,150 --> 00:12:55,150
 [POWELL]
 Ah... pity, pity...
-ອາ... ຂໍໂທດ, ຂໍໂທດ...
+ແມ່ນແລ້ວ... ໂຊກຮ້າຍ, ໂຊຄຮ້າຍ...
 
 195
 00:12:55,650 --> 00:12:59,500
@@ -1444,7 +1444,7 @@ Hello, bomb, are you with me?
 00:15:00,600 --> 00:15:02,600
 [BOMB #20]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 231
 00:15:03,100 --> 00:15:05,900
@@ -1618,7 +1618,7 @@ Key?
 00:16:41,300 --> 00:16:43,300
 [BOILER]
 Where's the fail-safe key?
-ປຸ່ມຄວາມປອດໄພຈາກຄວາມລົ້ມເຫຼວຢູ່ໃສ?
+ປຸ່ມປ້ອງກັນຄວາມຜິດພາດຢູ່ໃສ?
 
 259
 00:16:43,800 --> 00:16:45,800
@@ -1667,7 +1667,7 @@ And you can only do it once, right?
 00:17:09,850 --> 00:17:11,850
 [BOMB #20]
 That is correct.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ແມ່ນແລ້ວ.
 
 267
 00:17:12,350 --> 00:17:17,250
@@ -1850,7 +1850,7 @@ We've got to disarm the bomb.
 00:18:57,700 --> 00:18:59,700
 [PINBACK]
 Doolittle, are you there?
-ດູລີຕລ, ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ?
+ດູລິຕລ໌ ເຈົ້າຢູ່ບໍ່?
 
 296
 00:19:00,200 --> 00:19:06,200
@@ -2023,7 +2023,7 @@ And in addition to the darkness there was also me.  And I moved upon the face of
 00:20:30,650 --> 00:20:32,650
 [BOILER]
 Bomb, hey bomb.
-ລະເບີດ, ເຮ້ລະເບີດ.
+ສະບາຍດີລະເບີດ.
 
 324
 00:20:33,150 --> 00:20:35,150
@@ -2117,7 +2117,7 @@ Doolittle, I'm heading right toward something.  It's behind me, in the distance.
 00:21:26,150 --> 00:21:28,150
 [DOOLITTLE]
 Oh yeah?
-ໂອ້ ແມ່ນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 339
 00:21:28,650 --> 00:21:31,100

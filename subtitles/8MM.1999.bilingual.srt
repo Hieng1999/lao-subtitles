@@ -53,7 +53,7 @@ Thank you.
 00:00:39,550 --> 00:00:41,550
 [AMY]
 Welcome home.
-ຍິນດີຕ້ອນຮັບບ້ານ.
+ສະບາຍດີກັບບ້ານເດີ.
 
 10
 00:00:42,050 --> 00:00:44,850
@@ -127,7 +127,7 @@ Let's get my bags and get the hell out of here.
 00:01:20,000 --> 00:01:22,000
 [AMY]
 How's the detective business?
-ທຸລະກິດນັກສືບເປັນແນວໃດ?
+ວຽກງານນັກສືບແມ່ນແນວໃດ?
 
 22
 00:01:22,500 --> 00:01:28,100
@@ -1149,7 +1149,7 @@ People remember me from the news.  Can you drive me back now?
 00:12:42,650 --> 00:12:44,650
 [WELLES]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 182
 00:12:45,150 --> 00:12:47,150
@@ -1215,7 +1215,7 @@ We're all like that.
 00:13:31,250 --> 00:13:33,250
 [MRS MATHEWS]
 Are you religious?
-ເຈົ້າເປັນສາສະຫນາບໍ?
+ເຈົ້າແມ່ນສາສະໜາບໍ່?
 
 192
 00:13:33,750 --> 00:13:35,750
@@ -1444,7 +1444,7 @@ Can I interest you in a battery operated-vagina?
 00:16:03,200 --> 00:16:05,200
 [WELLES]
 Pardon me?
-ຂໍໂທດຂ້ອຍບໍ?
+ຂໍໂທດບໍ່?
 
 228
 00:16:05,700 --> 00:16:09,550
@@ -1723,7 +1723,7 @@ Okay, let's pretend I live in the same fantasy world where you make four hundred
 00:19:02,750 --> 00:19:04,750
 [MAX]
 Sounds good, pops.
-ມັນເບິ່ງຄືວ່າດີ, ພໍ່.
+ແມ່ນແລ້ວ, ພໍ່.
 
 272
 00:19:05,250 --> 00:19:09,100
@@ -2063,7 +2063,7 @@ You're joking.
 00:22:31,250 --> 00:22:34,400
 [MRS CHRISTIAN]
 To the penny.  Exactly one million dollars in cash.
-ເຖິງເງິນສົດ. ເງິນສົດ ຫນຶ່ງ ລ້ານໂດລາຢ່າງແນ່ນອນ.
+ແມ່ນແລ້ວ. ແມ່ນແລ້ວ 1 ລ້ານໂດລາເປັນເງິນສົດ.
 
 326
 00:22:34,900 --> 00:22:36,900
@@ -2245,7 +2245,7 @@ No thank you.
 00:24:19,650 --> 00:24:21,650
 [WELLES]
 Okay, I'll take it all.
-ດີ, ຂ້ອຍຈະເອົາມັນທັງ ຫມົດ.
+ແມ່ນແລ້ວ, ຂ້ອຍຈະຮັບທັງ ໝົດ.
 
 355
 00:24:22,150 --> 00:24:24,600
@@ -2414,7 +2414,7 @@ You killed that girl and you put it on film.  You and your pals, you're fucked. 
 00:26:00,550 --> 00:26:02,550
 [WELLES]
 Come on, Eddie...
-ມາແລ້ວ ເອດດີ...
+ສະບາຍດີ ແອດດີ...
 
 382
 00:26:03,050 --> 00:26:05,050
@@ -2783,7 +2783,7 @@ No... it's nothing... that's not him.
 00:29:51,600 --> 00:29:53,600
 [WELLES]
 Who is he?
-ລາວເປັນໃຜ?
+ລາວແມ່ນໃຜ?
 
 441
 00:29:54,100 --> 00:29:57,600
@@ -2796,7 +2796,7 @@ I told you, he's one of Dino Velvet's stock players...
 00:29:58,100 --> 00:30:00,100
 [WELLES]
 Who is he, his name?
-ລາວເປັນໃຜ, ຊື່ຂອງລາວບໍ?
+ລາວແມ່ນໃຜ, ຊື່ລາວແມ່ນຫຍັງ?
 
 443
 00:30:00,600 --> 00:30:06,600
@@ -2835,7 +2835,7 @@ What kind of Junior P.I. would I be if I didn't go with you?
 00:30:24,500 --> 00:30:26,500
 [MAN'S VOICE]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 449
 00:30:27,000 --> 00:30:29,000
@@ -3047,7 +3047,7 @@ You have a beautiful face... the way the light hits it.  I'd like to take your p
 00:32:32,200 --> 00:32:34,200
 [WELLES]
 I'd rather you didn't.
-ຂ້ອຍມັກວ່າເຈົ້າບໍ່ເຮັດ.
+ຂ້ອຍຢາກບໍ່ໃຫ້ເຈົ້າເຮັດ.
 
 483
 00:32:34,700 --> 00:32:36,700
@@ -3238,7 +3238,7 @@ Hmm?  Oh, the knifes?  They're just props.  Nice, aren't they?
 00:34:10,000 --> 00:34:12,000
 [WELLES]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 514
 00:34:12,500 --> 00:34:16,700
@@ -3685,7 +3685,7 @@ You fuckers!
 00:38:49,700 --> 00:38:51,700
 [EDDIE]
 You're a dead man.
-ເຈົ້າເປັນຜູ້ຊາຍຕາຍແລ້ວ.
+ເຈົ້າແມ່ນຄົນຕາຍແລ້ວ.
 
 585
 00:38:52,200 --> 00:38:54,200
@@ -4111,7 +4111,7 @@ I can't tell you, Amy.  You know I can't.  You have to trust me...
 00:42:47,100 --> 00:42:49,100
 [AMY]
 Tom...
-ໂຕມ...
+ທອມ...
 
 654
 00:42:49,600 --> 00:42:53,800
@@ -4630,7 +4630,7 @@ What are you thinking you're gonna do... ?
 00:47:44,250 --> 00:47:46,250
 [WELLES]
 Keep moving.
-ຍ້າຍໄປຕໍ່ໄປ.
+ສືບຕໍ່ເຄື່ອນໄຫວຕໍ່ໄປເດີ.
 
 738
 00:47:46,750 --> 00:47:52,750
@@ -4836,7 +4836,7 @@ Someone... some men, they took your daughter and they drugged her, and they took
 00:50:00,150 --> 00:50:02,150
 [MRS MATHEWS]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 770
 00:50:02,650 --> 00:50:08,650

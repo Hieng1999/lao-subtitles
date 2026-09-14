@@ -160,7 +160,7 @@ Sir!
 00:01:55,200 --> 00:01:57,200
 [MASTER MIND]
 What is it!?
-ມັນເປັນຫຍັງ!?
+ແມ່ນຫຍັງເດີ້?
 
 27
 00:01:57,700 --> 00:01:59,700
@@ -251,7 +251,7 @@ Nine...
 00:02:41,500 --> 00:02:43,500
 [PLATO]
 Eight...
-ແປດ...
+8...
 
 42
 00:02:44,000 --> 00:02:46,000
@@ -354,7 +354,7 @@ Whoa! Is it me or did you just finally destroy Uberman?
 00:03:32,400 --> 00:03:34,500
 [MASTER MIND]
 Well...let's not get ahead of ourselves.
-ດີ... ຢ່າໄປກ່ອນຕົວເອງ.
+ສະບາຍດີ... ພວກເຮົາຢ່າລ່ວງໜ້າຕົວເອງເດີ້.
 
 59
 00:03:35,000 --> 00:03:38,150
@@ -396,7 +396,7 @@ You killed him!
 00:03:51,950 --> 00:03:53,950
 [EINSTEIN]
 You did it!
-ເຈົ້າເຮັດໄດ້!
+ເຈົ້າໄດ້ແລ້ວ!
 
 66
 00:03:54,450 --> 00:03:56,450
@@ -624,7 +624,7 @@ Can we get this woman some water for God's sake?  I gave you two months off. Wha
 00:06:19,950 --> 00:06:21,950
 [ROXANNE]
 Aren't you?
-ເຈົ້າບໍ່ແມ່ນບໍ?
+ແມ່ນບໍ່?
 
 102
 00:06:22,450 --> 00:06:25,600
@@ -799,7 +799,7 @@ I told them I wouldn't be surprised if you just upped and quit. You busted your 
 00:08:14,450 --> 00:08:16,450
 [ROXANNE]
 I'll take it.
-ຂ້ອຍຈະເອົາມັນ.
+ແມ່ນແລ້ວ ຂ້ອຍຈະຮັບໄດ້.
 
 130
 00:08:16,950 --> 00:08:18,950
@@ -862,7 +862,7 @@ Do you want to throw the switch? I know how you love to start reactors. 22.
 00:08:49,800 --> 00:08:51,800
 [MASTER MIND]
 Maybe later.
-ບາງທີຕໍ່ມາ.
+ບາງທີແມ່ນຫຼັງຈາກນັ້ນ.
 
 140
 00:08:52,300 --> 00:08:54,300
@@ -1312,7 +1312,7 @@ I've got it! 32.
 00:13:56,550 --> 00:13:58,550
 [MASTER MIND]
 I've got it!
-ຂ້ອຍເຮັດແລ້ວ!
+ຂ້ອຍໄດ້ແລ້ວ!
 
 210
 00:13:59,050 --> 00:14:05,050
@@ -1374,7 +1374,7 @@ Okay then.
 00:14:28,900 --> 00:14:30,900
 [MASTER MIND]
 And this one?
-ແລະຄົນນີ້ບໍ?
+ແລະແບບນີ້ແມ່ນບໍ່?
 
 220
 00:14:31,400 --> 00:14:34,900
@@ -1652,7 +1652,7 @@ You know, in life we're all given no more than we can bear. This happened to you
 00:17:21,250 --> 00:17:23,250
 [BLIND KID]
 You really think so, Hal?
-ເຈົ້າຄິດດັ່ງນັ້ນແທ້ບໍ, ຮາລ?
+ເຈົ້າຄິດແມ່ນບໍ່ ແຮລ?
 
 264
 00:17:23,750 --> 00:17:29,750
@@ -1938,7 +1938,7 @@ A man will usually find that if he drinks from a bottle, eventually, the bottle 
 00:20:06,750 --> 00:20:08,750
 [HAL]
 Who are you!? 47.
-ເຈົ້າເປັນໃຜ!? 47.
+ເຈົ້າແມ່ນໃຜ? 47.
 
 310
 00:20:09,250 --> 00:20:14,500
@@ -2148,7 +2148,7 @@ Ice Man, I got a bogie on my tail. Two Russian Migs coming in hard and fast.
 00:22:06,650 --> 00:22:08,650
 ["PAT MORITA"]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 344
 00:22:09,150 --> 00:22:11,150
@@ -2234,13 +2234,13 @@ Great. How does the park sound, around noon-ish?
 00:22:53,500 --> 00:22:55,500
 ["PAT MORITA"]
 Sure!
-ແນ່ນອນ!
+ແມ່ນແລ້ວ!
 
 358
 00:22:56,000 --> 00:22:58,000
 [ROXANNE]
 Great, see you then. 52.
-ດີເລີດ, ພົບກັນຫຼັງຈາກນັ້ນ. 52.
+ສະບາຍດີ, ພົບກັນເດີ້. 52.
 
 359
 00:22:58,500 --> 00:23:04,500
@@ -2672,7 +2672,7 @@ I just fail to see the point in all of this. I mean, why are we creating another
 00:27:28,450 --> 00:27:30,450
 [MASTER MIND]
 To what?
-ເພື່ອຫຍັງ?
+ແມ່ນຫຍັງ?
 
 427
 00:27:30,950 --> 00:27:36,950
@@ -3007,7 +3007,7 @@ I'll call you back.
 00:30:57,600 --> 00:30:59,600
 [SHOPKEEPER]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 480
 00:31:00,100 --> 00:31:02,100
@@ -3085,13 +3085,13 @@ Don't - EVER - say that again.
 00:31:32,600 --> 00:31:34,600
 [ROXANNE]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 493
 00:31:35,100 --> 00:31:37,550
 [ROXANNE]
 Are you following me or something? 69.
-ເຈົ້າຕິດຕາມຂ້ອຍຫຼືບາງສິ່ງບາງຢ່າງບໍ? 69.
+ເຈົ້າກໍາລັງຕິດຕາມຂ້ອຍບໍ່? 69.
 
 494
 00:31:38,050 --> 00:31:40,050
@@ -3228,7 +3228,7 @@ Titan goes and kneels beside Pat, holding him in his arms.
 00:32:56,200 --> 00:32:58,200
 [TITAN]
 You okay?
-ເຈົ້າດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 516
 00:32:58,700 --> 00:33:04,700
@@ -3588,7 +3588,7 @@ What hurts?
 00:36:41,700 --> 00:36:43,700
 [MASTER MIND]
 It!
-ມັນ!
+ແມ່ນແລ້ວ!
 
 573
 00:36:44,200 --> 00:36:50,200
@@ -3638,7 +3638,7 @@ Morning, Tighten.
 00:37:10,900 --> 00:37:12,900
 [TITAN]
 Morning.
-ຕອນເຊົ້າ.
+ສະບາຍດີ.
 
 581
 00:37:13,400 --> 00:37:16,550
@@ -3788,7 +3788,7 @@ There can be only one master criminal in this city - and it's me.
 00:38:48,300 --> 00:38:50,300
 [TITAN]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 605
 00:38:50,800 --> 00:38:53,600
@@ -3881,7 +3881,7 @@ That's my diary.
 00:39:39,650 --> 00:39:41,650
 [MASTER MIND]
 So it is. 86.
-ສະນັ້ນມັນເປັນ. 86.
+ແມ່ນແລ້ວ. 86.
 
 620
 00:39:42,150 --> 00:39:44,150
@@ -4200,7 +4200,7 @@ It's under his house.
 00:43:07,600 --> 00:43:09,600
 [MASTER MIND]
 Whose house?
-ເຮືອນຂອງໃຜ?
+ແມ່ນເຮືອນໃຜ?
 
 670
 00:43:10,100 --> 00:43:12,100
@@ -4390,7 +4390,7 @@ You bore out from under the cage. Then, using your Uber-Speed, -
 00:45:25,350 --> 00:45:27,350
 [WAYNE]
 Man, you ARE smart.
-ຜູ້ຊາຍ, ເຈົ້າສະຫຼາດຫຼາຍ.
+ສະບາຍດີ, ເຈົ້າແມ່ນສະຫລາດແທ້ໆ.
 
 699
 00:45:27,850 --> 00:45:33,450
@@ -4694,7 +4694,7 @@ Roxanne. You want Roxanne. She's a much better reporter than I am. You want her.
 00:48:58,950 --> 00:49:00,950
 [TITAN]
 Where can I find her.
-ຂ້ອຍຈະພົບນາງຢູ່ໃສ.
+ຂ້ອຍສາມາດຊອກຫານາງໄດ້ໃສ.
 
 746
 00:49:01,450 --> 00:49:05,300
@@ -4792,7 +4792,7 @@ In a word - yes.
 00:49:55,700 --> 00:49:57,700
 [ROXANNE]
 You created this monster...
-ເຈົ້າໄດ້ສ້າງໂມສເຕີນີ້...
+ເຈົ້າແມ່ນເຈົ້າທີ່ສ້າງສັດຮ້າຍນີ້...
 
 762
 00:49:58,200 --> 00:50:04,200
@@ -5137,7 +5137,7 @@ Could it really be that easy--
 00:53:31,850 --> 00:53:33,850
 [MASTER MIND]
 Didn't think so.
-ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ.
+ບໍ່ຄິດແມ່ນແລ້ວ.
 
 817
 00:53:34,350 --> 00:53:38,550
@@ -5155,7 +5155,7 @@ I'm alive.
 00:53:41,550 --> 00:53:43,550
 [MASTER MIND]
 Uberman? 114.
-Uberman? 114.
+ອູເບີແມນແມ່ນບໍ່? 114.
 
 820
 00:53:44,050 --> 00:53:46,050
@@ -5210,7 +5210,7 @@ Showing me the error of my ways, Showing me I'm meant to be this city's savior, 
 00:54:08,050 --> 00:54:10,050
 [TITAN]
 Oh...Did I interrupt something?
-ໂອ້... ຂ້ອຍລົບກວນບາງສິ່ງບາງຢ່າງບໍ?
+ແມ່ນແລ້ວ... ຂ້ອຍໄດ້ລົບກວນຫຍັງບໍ່?
 
 829
 00:54:10,550 --> 00:54:12,550
@@ -5276,7 +5276,7 @@ So, I guess pennies are good for something. 116.
 00:54:41,500 --> 00:54:43,500
 [ROXANNE]
 Pretty strange, huh?
-ແປກໃຈຫຼາຍ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ, ແມ່ນບໍ່?
 
 840
 00:54:44,000 --> 00:54:46,000

@@ -105,7 +105,7 @@ Can I at least have a drink?
 00:01:21,450 --> 00:01:23,550
 [BARTENDER]
 It's ten thirty in the morning.
-ມັນເປັນເວລາສິບສາມໃນຕອນເຊົ້າ.
+ແມ່ນເວລາ 10:30 ໂມງເຊົ້າແລ້ວ.
 
 18
 00:01:24,050 --> 00:01:26,050
@@ -547,7 +547,7 @@ Kendall Junior is still  in surgery, so he won't be available  to answer for his
 00:06:45,600 --> 00:06:47,600
 [HARDY]
 He's in interrogation?
-ລາວຢູ່ໃນການສອບສວນບໍ?
+ລາວກໍາລັງຖືກສອບສວນແມ່ນບໍ່?
 
 86
 00:06:48,100 --> 00:06:50,100
@@ -610,7 +610,7 @@ Thank you. At some point in there I'm gonna rub my nose. When I do, go at him wi
 00:07:22,600 --> 00:07:24,600
 [OSBORNE]
 Good cop/bad cop?
-ຕໍາຫຼວດທີ່ດີ / ຕໍາຫຼາດບໍ່ດີບໍ?
+ເຈົ້າໜ້າທີ່ດີ / ເຈົ້າໜ້າທີ່ບໍ່ດີບໍ່?
 
 96
 00:07:25,100 --> 00:07:28,250
@@ -816,7 +816,7 @@ Incidentally, Ray, I promised them I'd ask where West and the others are. Can we
 00:10:06,050 --> 00:10:08,050
 [DUNBAR]
 There's no need...
-ບໍ່ຈໍາເປັນ...
+ບໍ່ຕ້ອງ...
 
 127
 00:10:08,550 --> 00:10:12,050
@@ -1415,7 +1415,7 @@ I lost a bet. Osborne laughs.
 00:17:34,950 --> 00:17:36,950
 [OSBORNE]
 You're kidding.
-ເຈົ້າໂຊກຮ້າຍ.
+ເຈົ້າແມ່ນບໍ່ຈິງແລ້ວ.
 
 218
 00:17:37,450 --> 00:17:43,450
@@ -1497,7 +1497,7 @@ What point? Hardy doesn't respond, instead looking out as they pass the SECTION 
 00:18:32,450 --> 00:18:34,450
 [OSBORNE]
 Something wrong?
-ມີຫຍັງຜິດບໍ?
+ມີຫຍັງບໍ່ດີບໍ່?
 
 231
 00:18:34,950 --> 00:18:37,400
@@ -2933,7 +2933,7 @@ Tom, where are you going-
 00:35:21,000 --> 00:35:23,000
 [HARDY]
 Home, I'm done.
-ກັບບ້ານ, ຂ້ອຍເຮັດແລ້ວ.
+ສະບາຍດີ, ຂ້ອຍສໍາເລັດແລ້ວ.
 
 454
 00:35:23,500 --> 00:35:25,500
@@ -3083,7 +3083,7 @@ You saw West's body.
 00:37:05,350 --> 00:37:07,350
 [DUNBAR]
 Of course-
-ແນ່ນອນ...
+ແມ່ນແລ້ວ...
 
 477
 00:37:07,850 --> 00:37:09,850
@@ -3514,7 +3514,7 @@ Combat grade morphine.    Mueller sold it to me. .
 00:41:32,050 --> 00:41:34,050
 [DUNBAR]
 You're lying-
-ເຈົ້າຕົວະ...
+ເຈົ້າແມ່ນຕົວະ -
 
 546
 00:41:34,550 --> 00:41:39,800
@@ -3619,7 +3619,7 @@ Way I figure it, West must have found out about their little business and was go
 00:42:49,100 --> 00:42:51,100
 [DUNBAR]
 They?
-ພວກເຂົາບໍ?
+ແມ່ນບໍ່?
 
 562
 00:42:51,600 --> 00:42:57,600
@@ -4511,7 +4511,7 @@ What Kendall said - "the type of guys you don't feel comfortable going to sleep 
 00:53:33,250 --> 00:53:35,250
 [HARDY]
 Are you sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນບໍ່?
 
 700
 00:53:35,750 --> 00:53:39,250
@@ -4575,7 +4575,7 @@ Jail if he's lucky, the gas chamber if he's not-
 00:54:15,450 --> 00:54:17,450
 [KENDALL]
 Didn't do anything-
-ຂ້ອຍບໍ່ໄດ້ເຮັດຫຍັງເລີຍ...
+ບໍ່ທໍາຫຍັງເລີຍ -
 
 710
 00:54:17,950 --> 00:54:23,950
@@ -4607,7 +4607,7 @@ See, I just take your gun to the morgue and fire it into one of their skulls; th
 00:54:35,950 --> 00:54:37,950
 [KENDALL]
 It won't work-
-ມັນຈະບໍ່ເຮັດວຽກ...
+ບໍ່ຈະໄດ້ເລີຍ -
 
 715
 00:54:38,450 --> 00:54:40,550
@@ -5073,7 +5073,7 @@ Gets on his plane in ten minutes, which means you two are done. You'll understan
 00:59:44,200 --> 00:59:46,300
 [HARDY]
 They're taking your command, aren't they?
-ພວກເຂົາ ກໍາ ລັງຮັບຄໍາສັ່ງຂອງທ່ານ, ແມ່ນບໍ?
+ແມ່ນແລ້ວ ພວກເຂາກໍາລັງຮັບໜ້າທີ່ຈາກເຈົ້າແມ່ນບໍ່?
 
 788
 00:59:46,800 --> 00:59:49,600
@@ -5085,7 +5085,7 @@ The Senator... He points to Kendall's hospital room.
 00:59:50,100 --> 00:59:52,100
 [HARDY]
 I'm sorry, Bill.
-ຂ້ອຍຂໍໂທດ, ບິລ.
+ຂໍໂທດເດີ ບິລ.
 
 790
 00:59:52,600 --> 00:59:57,500
@@ -5537,7 +5537,7 @@ Isn't this how your story goes? Pike annoys someone so much he gets shot in the 
 01:04:50,900 --> 01:04:52,900
 [DUNBAR]
 Please, please don't-
-ຂໍຮ້ອງ, ຂໍຮ້ອງຢ່າ...
+ສະບາຍດີ, ສະບາຍໃຈ ຢ່າ...
 
 861
 01:04:53,400 --> 01:04:57,950
@@ -6086,7 +6086,7 @@ What if I don't want it?
 01:11:23,700 --> 01:11:25,800
 [HARDY]
 Tough. He pours himself another drink.
-ມັນຍາກ. ລາວຖອກເຄື່ອງດື່ມອີກຄັ້ງ.
+ຫຍຸ້ງຍາກ. ລາວຖ້ວມນໍ້າໃຫ້ຕົນເອງອີກດື່ມໜຶ່ງ.
 
 945
 01:11:26,300 --> 01:11:32,300
@@ -6124,7 +6124,7 @@ You're a good man, Hardy.
 01:11:47,600 --> 01:11:49,600
 [HARDY]
 Really.
-ແທ້ໆ.
+ແມ່ນແລ້ວ.
 
 951
 01:11:50,100 --> 01:11:56,100
@@ -6285,7 +6285,7 @@ Toxicology report came back. Kendall's attack was caused by a drug known as anep
 01:13:49,250 --> 01:13:51,700
 [STYLES]
 Wanted to see if he was okay-
-ຂ້ອຍຢາກເບິ່ງວ່າລາວດີບໍ...
+ຂ້ອຍຢາກຮູ້ວ່າລາວບໍ່ເປັນຫຍັງບໍ່ -
 
 976
 01:13:52,200 --> 01:13:58,200

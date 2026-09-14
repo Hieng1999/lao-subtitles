@@ -80,7 +80,7 @@ Here you go...
 00:01:04,000 --> 00:01:06,000
 [GAVIN]
 You're disappointed.
-ເຈົ້າຜິດຫວັງ.
+ເຈົ້າບໍ່ພໍໃຈເລີຍ.
 
 14
 00:01:06,500 --> 00:01:08,950
@@ -473,7 +473,7 @@ Oh wow, that's great. Goldenrod - 4.17.11 11.
 00:04:52,750 --> 00:04:54,750
 [JULIE]
 I made this for you.
-ຂ້ອຍເຮັດສິ່ງນີ້ ສໍາ ລັບເຈົ້າ.
+ຂ້ອຍໄດ້ເຮັດແບບນີ້ເພື່ອເຈົ້າແລ້ວ.
 
 77
 00:04:55,250 --> 00:04:59,100
@@ -486,7 +486,7 @@ You made this? This is amazing. One candle, thank you very...
 00:04:59,600 --> 00:05:01,600
 [JEFFREY]
 Thank you, Diane.
-ຂອບໃຈດາຍນ໌.
+ຂອບໃຈເດີ, ໄດແອນ.
 
 79
 00:05:02,100 --> 00:05:04,100
@@ -937,7 +937,7 @@ He just texted me. He's very sorry, but he's been detained.
 00:09:45,550 --> 00:09:47,550
 [ROBERT]
 Detained where?
-ຖືກກັກຕົວຢູ່ໃສ?
+ຖືກຄຸມຂັງຢູ່ໃສ?
 
 150
 00:09:48,050 --> 00:09:51,550
@@ -1084,7 +1084,7 @@ She's in the back.
 00:11:00,900 --> 00:11:02,900
 [ROBERT]
 Hey, Julie.
-ເຮ້ ຈູລີ.
+ສະບາຍດີ ຈູລີ.
 
 174
 00:11:03,400 --> 00:11:09,400
@@ -1277,7 +1277,7 @@ Robert follows her. They stand at a great distance as she downs a red wine.
 00:12:56,450 --> 00:12:58,450
 [ROBERT]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 205
 00:12:58,950 --> 00:13:01,050
@@ -1451,7 +1451,7 @@ Car roll had multiple impacts, but she was here  and her feet  were down there.
 00:14:36,200 --> 00:14:38,650
 [BRYER]
 ... So who kicked out the door?
-ສະນັ້ນໃຜໄດ້ຕີປະຕູອອກ?
+ແມ່ນແລ້ວ ໃຜແມ່ນໃຜທີ່ໄດ້ຂັບໄລ່ປະຕູອອກ?
 
 233
 00:14:39,150 --> 00:14:41,150
@@ -1482,7 +1482,7 @@ So all you're sayin' is, you need a ride somewhere. Goldenrod - 4.17.11 30.
 00:14:52,500 --> 00:14:54,500
 [ROBERT]
 That's correct.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ແມ່ນແລ້ວ.
 
 238
 00:14:55,000 --> 00:15:01,000
@@ -1812,7 +1812,7 @@ Hypothetically, the situation you're describing would be involuntary manslaughte
 00:18:00,400 --> 00:18:02,400
 [ROBERT]
 And such a person...
-ແລະຄົນດັ່ງກ່າວ...
+ແລະຄົນນັ້ນແມ່ນ...
 
 291
 00:18:02,900 --> 00:18:08,900
@@ -1945,7 +1945,7 @@ And what'd you say about the Justice Department? Depending on what they decide t
 00:19:23,750 --> 00:19:25,750
 [SYD]
 I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 312
 00:19:26,250 --> 00:19:28,350
@@ -2095,7 +2095,7 @@ Sherry Netherland. Checked in about an hour ago.
 00:20:46,750 --> 00:20:48,750
 [ROBERT]
 He called?
-ລາວໂທຫາບໍ?
+ລາວໂທບໍ່?
 
 336
 00:20:49,250 --> 00:20:55,250
@@ -2560,7 +2560,7 @@ It was through our holding company. You seem a little confused by all this...
 00:25:17,300 --> 00:25:20,100
 [BRYER]
 I am. But I'll get there. Gimme time.
-ຂ້ອຍເປັນ. ແຕ່ຂ້ອຍຈະໄປບ່ອນນັ້ນ. ໃຫ້ຂ້ອຍເວລາ.
+ແມ່ນແລ້ວ. ແຕ່ຂ້ອຍຈະມາຮອດແລ້ວ. ໃຫ້ເວລາໃຫ້ຂ້ອຍ.
 
 411
 00:25:20,600 --> 00:25:22,600
@@ -2624,7 +2624,7 @@ Well that seems to make sense. So we're all good with the apartment, then?
 00:25:58,550 --> 00:26:00,550
 [ROBERT]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 421
 00:26:01,050 --> 00:26:03,050
@@ -2661,7 +2661,7 @@ Oh, no, I just hit it on the medicine cabinet.
 00:26:19,050 --> 00:26:21,050
 [BRYER]
 Last night?
-ໃນມື້ວານນີ້ບໍ?
+ເມື່ອຄືນແລ້ວບໍ່?
 
 427
 00:26:21,550 --> 00:26:23,550
@@ -3614,7 +3614,7 @@ Where are you at with the kid?
 00:35:32,200 --> 00:35:34,200
 [MILLS]
 So far he won't budge.
-ມາຮອດປະຈຸບັນລາວຈະບໍ່ຍ້າຍໄປ.
+ຈົນຮອດປັດຈຸບັນລາວບໍ່ເຄື່ອນຍ້າຍເລີຍ.
 
 580
 00:35:34,700 --> 00:35:40,700
@@ -3823,7 +3823,7 @@ Brooke's waiting for you...
 00:37:37,850 --> 00:37:39,850
 [ROBERT]
 Did we have a meeting?
-ພວກເຮົາມີກອງປະຊຸມບໍ?
+ພວກເຮົາໄດ້ພົບກັນບໍ່?
 
 613
 00:37:40,350 --> 00:37:42,350
@@ -3853,7 +3853,7 @@ I'll stand.  Didn't you think I'd find out?
 00:37:51,150 --> 00:37:53,150
 [ROBERT]
 I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 618
 00:37:53,650 --> 00:37:57,150
@@ -4053,7 +4053,7 @@ For a moment I thought you were gonna say you were sorry.
 00:40:08,300 --> 00:40:10,300
 [ROBERT]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 649
 00:40:10,800 --> 00:40:12,800
@@ -4140,7 +4140,7 @@ Where you got that...? That's bullshit, cause I didn't do it. That's impossible.
 00:41:00,600 --> 00:41:02,600
 [BRYER]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 663
 00:41:03,100 --> 00:41:07,300
@@ -4418,7 +4418,7 @@ Triborough. ທ້າວແກຣນຕ໌, ການຊີ້ແຈງຄວາ
 00:43:33,700 --> 00:43:35,700
 [JIMMY]
 This is crazy.
-ນີ້ແມ່ນໂຊກຮ້າຍ.
+ນີ້ແມ່ນຄວາມໂງ່ແທ້ໆ.
 
 708
 00:43:36,200 --> 00:43:38,300
@@ -4555,7 +4555,7 @@ They're lying!
 00:44:54,250 --> 00:44:56,250
 [EARL]
 Okay, now here's what...
-ດີແລ້ວ, ດຽວນີ້ນີ້ແມ່ນສິ່ງທີ່...
+ແມ່ນແລ້ວ, ບັດນີ້ແມ່ນຫຍັງ...
 
 730
 00:44:56,750 --> 00:44:58,750
@@ -4732,7 +4732,7 @@ I'm good. I wanna run.
 00:46:38,000 --> 00:46:40,100
 [ELLEN]
 Everything okay with you and Tom?
-ທຸກຢ່າງດີກັບເຈົ້າແລະໂຕມບໍ?
+ເຈົ້າກັບໂຕມບໍ່ເປັນຫຍັງບໍ່?
 
 758
 00:46:40,600 --> 00:46:42,600
@@ -4763,7 +4763,7 @@ You want me to guess? Brookie, come on, don't be silly, tell me what's...
 00:46:53,950 --> 00:46:55,950
 [BROOKE]
 (heading to pick up her
-(ໄປເອົານາງ
+( ກໍາ ລັງໄປຮັບນາງ
 
 763
 00:46:56,450 --> 00:47:02,450
@@ -4913,7 +4913,7 @@ Fuck you. Goldenrod - 4.17.11 80.
 00:48:28,100 --> 00:48:30,100
 [MAYFIELD]
 Excuse me...?
-ຂໍໂທດຂ້ອຍບໍ?
+ສະບາຍດີ...
 
 787
 00:48:30,600 --> 00:48:36,600
@@ -5393,7 +5393,7 @@ It's not really that simple, Jimmy. I'm in a situation now.
 00:52:57,550 --> 00:52:59,550
 [JIMMY]
 What situation?
-ສະຖານະການໃດ?
+ສະພາບການແມ່ນຫຍັງ?
 
 865
 00:53:00,050 --> 00:53:06,050
@@ -6261,7 +6261,7 @@ Who authorized this?
 01:02:14,650 --> 01:02:16,650
 [AIMES]
 I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 1002
 01:02:17,150 --> 01:02:19,150

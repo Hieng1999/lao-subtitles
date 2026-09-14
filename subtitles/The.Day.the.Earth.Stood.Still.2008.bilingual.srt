@@ -391,7 +391,7 @@ We informed the White House over an hour ago.
 00:05:27,900 --> 00:05:31,400
 [GENERAL]
 Didn't drop any hints about where he's from, did he?
-ລາວບໍ່ໄດ້ປ່ອຍຂໍ້ແນະນໍາໃດໆກ່ຽວກັບບ່ອນທີ່ລາວມາຈາກ, ແມ່ນບໍ?
+ບໍ່ບອກຫຍັງເລີຍວ່າລາວມາຈາກໃສແມ່ນບໍ່?
 
 60
 00:05:31,900 --> 00:05:33,900
@@ -454,7 +454,7 @@ The President asked me to convey his deepest apologies for what has happened. We
 00:06:06,500 --> 00:06:08,500
 [KLAATU]
 Sit down, Mr. Harley.
-ນັ່ງລົງ, ທ້າວຮາເລີ.
+ນັ່ງເດີ້, ທ້າວແຮລລີ.
 
 70
 00:06:09,000 --> 00:06:15,000
@@ -510,7 +510,7 @@ I'm afraid, in the present situation you'll have to learn to think that way.
 00:06:42,450 --> 00:06:44,450
 [HARLEY]
 The present situation?
-ສະຖານະການໃນປະຈຸບັນບໍ?
+ສະພາບການໃນປັດຈຸບັນແມ່ນບໍ່?
 
 79
 00:06:44,950 --> 00:06:47,750
@@ -856,7 +856,7 @@ Take it downstairs and have it analyzed.  Then I don't know whether I'll just ge
 00:10:47,600 --> 00:10:49,600
 [FIRST MAJOR]
 Afternoon, Mr. Harley.
-ຕອນບ່າຍ, ທ້າວຮາເລີ.
+ສະບາຍດີເດີ, ທ້າວແຮລລີ.
 
 133
 00:10:50,100 --> 00:10:52,100
@@ -874,7 +874,7 @@ Good afternoon.  I'm glad to see you up and around.
 00:10:56,600 --> 00:10:58,700
 [KLAATU]
 Thank you... Have you any news?
-ຂອບໃຈ... ເຈົ້າມີຂ່າວໃດບໍ?
+ຂອບໃຈເດີ... ມີຂ່າວບໍ່?
 
 136
 00:10:59,200 --> 00:11:05,200
@@ -1089,7 +1089,7 @@ My name is Carpenter. I'm looking for a room.
 00:13:46,150 --> 00:13:48,150
 [BOBBY]
 Are you an FBI man?
-ເຈົ້າເປັນຄົນ FBI ບໍ?
+ເຈົ້າແມ່ນເຈົ້າໜ້າທີ່ FBI ບໍ່?
 
 168
 00:13:48,650 --> 00:13:50,650
@@ -1488,7 +1488,7 @@ Sure. Right near where my mother works.
 00:18:32,900 --> 00:18:34,900
 [KLAATU]
 Where is that?
-ນັ້ນຢູ່ໃສ?
+ນັ້ນແມ່ນໃສ?
 
 230
 00:18:35,400 --> 00:18:41,400
@@ -1794,7 +1794,7 @@ How dare you write on that blackboard!  Do you realize the Professor has been wo
 00:21:57,100 --> 00:22:00,250
 [KLAATU]
 He'll catch on to it in no time now.
-ລາວຈະຈັບມັນໃນເວລາບໍ່ທັນໃດດຽວນີ້.
+ລາວຈະເຂົ້າໃຈໄດ້ບໍ່ດົນເລີຍ.
 
 279
 00:22:00,750 --> 00:22:04,600
@@ -1981,7 +1981,7 @@ Would you give me your two dollars for a couple of them?
 00:24:03,150 --> 00:24:05,150
 [BOBBY]
 Well, sure, but--
-ດີ, ແນ່ນອນ, ແຕ່...
+ແມ່ນແລ້ວ, ແຕ່...
 
 309
 00:24:05,650 --> 00:24:07,650
@@ -2496,7 +2496,7 @@ I'll wait outside.
 00:29:20,750 --> 00:29:22,750
 [BARNHARDT]
 You wrote this?
-ເຈົ້າຂຽນສິ່ງນີ້ບໍ?
+ເຈົ້າແມ່ນເຈົ້າທີ່ຂຽນເລື່ອງນີ້ບໍ່?
 
 392
 00:29:23,250 --> 00:29:29,250
@@ -2712,7 +2712,7 @@ It is not enough to have men of science. We scientists are too easily ignored --
 00:32:09,600 --> 00:32:11,700
 [KLAATU]
 I leave that in your hands.
-ຂ້ອຍປ່ອຍມັນໄວ້ໃນມືຂອງເຈົ້າ.
+ຂ້ອຍປ່ອຍໃຫ້ເຈົ້າຮັບຜິດຊອບເດີ້.
 
 425
 00:32:12,200 --> 00:32:15,700
@@ -2771,7 +2771,7 @@ I'm afraid you have no alternative. In such, a case the planet Earth would have 
 00:32:53,300 --> 00:32:55,300
 [BARNHARDT]
 Such power exists?
-ຄວາມເຂັ້ມແຂງດັ່ງກ່າວມີຢູ່ບໍ?
+ມີພະລັງແບບນັ້ນບໍ່?
 
 434
 00:32:55,800 --> 00:32:57,900
@@ -2901,7 +2901,7 @@ He's a fine boy, Mrs. Benson.
 00:34:10,250 --> 00:34:12,250
 [HELEN]
 Naturally I think so.
-ແນ່ນອນວ່າຂ້ອຍຄິດດັ່ງນັ້ນ.
+ແມ່ນແລ້ວ ຂ້ອຍຄິດແນ່ນອນ.
 
 455
 00:34:12,750 --> 00:34:18,750
@@ -2946,7 +2946,7 @@ I will be in just a minute.
 00:34:40,200 --> 00:34:42,200
 [TOM]
 The picture starts at eight-fifty.
-ຮູບເລີ່ມຕົ້ນໃນເວລາແປດສິບ.
+ຮູບເລີ່ມແຕ່ເວລາ 8 ໂມງ 50 ນາທີ.
 
 462
 00:34:42,700 --> 00:34:44,800
@@ -3629,7 +3629,7 @@ What happened?
 00:42:33,600 --> 00:42:35,600
 [KLAATU]
 What time is it?
-ເວລາເທົ່າໃດ?
+ແມ່ນແລ້ວ ເວລາແມ່ນບໍ່?
 
 569
 00:42:36,100 --> 00:42:38,100
@@ -3919,13 +3919,13 @@ I can see no other hope for your planet. If the meeting should fail, then I'm af
 00:45:45,550 --> 00:45:47,550
 [KLAATU]
 It must be twelve-thirty.
-ມັນຕ້ອງເປັນເວລາສິບສອງສາມ.
+ມັນຕ້ອງແມ່ນເວລາ 12 ໂມງ 30 ນາທີແລ້ວ.
 
 615
 00:45:48,050 --> 00:45:50,050
 [HELEN]
 Yes -- Just exactly.
-ແມ່ນແລ້ວ - ພຽງແຕ່ແນ່ນອນ.
+ແມ່ນແລ້ວ - ແມ່ນແລ້ວ.
 
 616
 00:45:50,550 --> 00:45:55,800
@@ -3938,7 +3938,7 @@ of other streets, as the strident sounds of traffic build up and normalcy is reg
 00:45:56,300 --> 00:45:58,300
 [HELEN]
 Where are you going now?
-ເຈົ້າໄປໃສດຽວນີ້?
+ເຈົ້າຈະໄປໃສຕອນນີ້ບໍ່?
 
 618
 00:45:58,800 --> 00:46:04,800
@@ -4737,7 +4737,7 @@ No. That's all finished.
 00:56:12,000 --> 00:56:14,000
 [KLAATU]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 740
 00:56:14,500 --> 00:56:20,500

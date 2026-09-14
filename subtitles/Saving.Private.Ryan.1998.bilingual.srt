@@ -211,7 +211,7 @@ Are CUT TO RIBBONS by MACHINE GUN FIRE.  All KILLED.  They fall to the rocks bel
 00:02:52,100 --> 00:02:54,100
 [MILLER]
 It's the only way.
-ມັນເປັນວິທີດຽວ.
+ນັ້ນແມ່ນທາງດຽວ.
 
 34
 00:02:54,600 --> 00:02:56,700
@@ -242,7 +242,7 @@ JACKSON, PICK OFF A FEW OF THEM,
 00:03:09,150 --> 00:03:11,150
 [JACKSON]
 You betcha, Captain.
-ເຈົ້າແນ່ໃຈວ່າ, ຄັບປິນ.
+ແມ່ນແລ້ວ, ຄັບປິນ.
 
 39
 00:03:11,650 --> 00:03:14,100
@@ -368,7 +368,7 @@ TWO DOZEN GERMANS FIRE BACK as they retreat.
 00:04:25,500 --> 00:04:27,500
 [MILLER]
 Okay, Wade, your turn.
-ດີແລ້ວ, ເວດ, ນັດຂອງທ່ານ.
+ແມ່ນແລ້ວ, ເວດ, ແມ່ນເຈົ້າແລ້ວ.
 
 59
 00:04:28,000 --> 00:04:30,000
@@ -1061,7 +1061,7 @@ Sorry, sir, fresh out of trucks, how 'bout a '38 Ford Roadster, hard-top, red wi
 00:11:47,850 --> 00:11:49,850
 [MILLER]
 White-walls?
-ຝາຂາວບໍ?
+ກໍາແພງສີຂາວບໍ່?
 
 168
 00:11:50,350 --> 00:11:54,900
@@ -1388,7 +1388,7 @@ Well, I, for one, like cheese.
 00:15:08,400 --> 00:15:10,400
 [REIBEN]
 Well, you're a happy idiot.
-ດີ, ເຈົ້າເປັນຄົນໂຊກດີ.
+ແມ່ນແລ້ວ, ເຈົ້າແມ່ນຄົນໂງ່ທີ່ມີຄວາມສຸກ.
 
 220
 00:15:10,900 --> 00:15:13,700
@@ -1444,7 +1444,7 @@ See a long, straight stretch of road.  Half-a-dozen burning, obliterated America
 00:15:43,500 --> 00:15:45,500
 [MILLER]
 Sarge?
-ນາຍພົນ?
+ພົນຈັດຕະວາບໍ່?
 
 229
 00:15:46,000 --> 00:15:48,000
@@ -2018,8 +2018,7 @@ I most likely would have, sir, had I been given the opportunity.
 00:21:53,800 --> 00:21:59,800
 [REIBEN]
 If we find Ryan and he's still alive, that son-of-a-bitch is gonna carry this goddamned B.A.R. back to the beach for me.
-ຖ້າພວກເຮົາພົບຣາຍນ໌ ແລະລາວຍັງມີຊີວິດຢູ່,
-ລູກແຊກແຊງນັ້ນຈະເອົາ B.A.R ນີ້ກັບຄືນໄປຫາດຊາຍ ສໍາ ລັບຂ້ອຍ.
+ຖ້າພວກເຮົາພົບ ຣາຍນ໌ ແລະລາວຍັງມີຊີວິດຢູ່, ຄົນໂຊກຮ້າຍນັ້ນຈະເອົາ B.A.R ນີ້ກັບຄືນໄປຫາດຊາຍສໍາລັບຂ້ອຍ.
 
 320
 00:22:00,300 --> 00:22:06,300
@@ -2092,7 +2091,7 @@ You think he really believed it?
 00:22:52,650 --> 00:22:54,650
 [WADE]
 Who knows?  It worked.
-ໃຜຮູ້? ມັນເຮັດວຽກໄດ້.
+ໃຜຮູ້ບໍ່? ມັນໄດ້ຜົນແທ້ໆ.
 
 331
 00:22:55,150 --> 00:23:01,150
@@ -2172,7 +2171,7 @@ Dang!  That was close!
 00:23:40,400 --> 00:23:42,400
 [MILLER]
 Your turn.
-ຮອບຂອງເຈົ້າ.
+ແມ່ນແລ້ວແມ່ນເຈົ້າແລ້ວ.
 
 344
 00:23:42,900 --> 00:23:46,400
@@ -2353,7 +2352,7 @@ Forty-two-hundred, I figure.
 00:25:26,200 --> 00:25:28,300
 [UPHAM]
 You take account of the wind?
-ເຈົ້າເອົາໃຈໃສ່ລົມບໍ?
+ເຈົ້າຄິດເຖິງລົມບໍ່?
 
 373
 00:25:28,800 --> 00:25:34,050
@@ -2764,13 +2763,13 @@ Maybe.
 00:30:03,350 --> 00:30:06,150
 [SARGE]
 It's not normal, not reading letters from home.
-ມັນບໍ່ແມ່ນເລື່ອງປົກກະຕິ, ບໍ່ອ່ານຈົດຫມາຍຈາກເຮືອນ.
+ມັນບໍ່ທໍາມະດາ, ບໍ່ອ່ານຈົດໝາຍຈາກບ້ານ.
 
 438
 00:30:06,650 --> 00:30:08,750
 [MILLER]
 Since when have things been normal?
-ນັບຕັ້ງແຕ່ເວລາໃດທີ່ສິ່ງຕ່າງໆເປັນປົກກະຕິ?
+ນັບແຕ່ເມື່ອໃດທີ່ທຸກຢ່າງແມ່ນປົກກະຕິແລ້ວ?
 
 439
 00:30:09,250 --> 00:30:11,700
@@ -2967,7 +2966,7 @@ You may have to find yourself a new line of work, this one doesn't seem to agree
 00:31:56,900 --> 00:31:58,900
 [MILLER]
 I'll be alright.
-ຂ້ອຍຈະດີດີ.
+ຂ້ອຍບໍ່ເປັນຫຍັງເລີຍ.
 
 471
 00:31:59,400 --> 00:32:02,550
@@ -3135,7 +3134,7 @@ In the shadow by those two trees.
 00:33:29,600 --> 00:33:31,600
 [MILLER]
 My guess, too.
-ຂ້ອຍຄິດວ່າເຊັ່ນກັນ.
+ຂ້ອຍຄິດຄືກັນ.
 
 498
 00:33:32,100 --> 00:33:34,100
@@ -3307,7 +3306,7 @@ That only leaves three.
 00:35:01,050 --> 00:35:03,050
 [MILLER]
 Plenty.
-ຫຼາຍ.
+ແມ່ນແລ້ວຫຼາຍແລ້ວ.
 
 526
 00:35:03,550 --> 00:35:05,550
@@ -3607,7 +3606,7 @@ That was no twenty-two flat.
 00:38:20,650 --> 00:38:22,650
 [MILLER]
 He lied.  Let's move out.
-ລາວຕົວະ. ໄປອອກໄປ.
+ລາວແມ່ນຕົວະ. ໄປເຄື່ອນຍ້າຍກັນເດີ້.
 
 573
 00:38:23,150 --> 00:38:27,350
@@ -4584,7 +4583,7 @@ I can tell what the gunners had for dinner.
 00:48:39,450 --> 00:48:41,450
 [MILLER]
 Those guns are close.
-ປືນເຫຼົ່ານັ້ນໃກ້ແລ້ວ.
+ປືນນັ້ນແມ່ນໃກ້ໆແລ້ວ.
 
 728
 00:48:41,950 --> 00:48:44,400
@@ -4830,7 +4829,7 @@ A good man, kind of cheerful, Reiben, here, used to call him a happy idiot.
 00:51:09,850 --> 00:51:11,850
 [REIBEN]
 Like hell, I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 767
 00:51:12,350 --> 00:51:18,350
@@ -4887,7 +4886,7 @@ Rounds a corner.  Sees them.  OPENS
 00:51:46,350 --> 00:51:48,350
 [UP WITH HIS SUB-MACHINE GUN.]
 Forrest DIVES, FIRES BACK.
-ຟໍເຣສດ໌ DIVES, ໄຟກັບຄືນໄປບ່ອນ.
+ຟໍເຣສດ໌ ດີເວສ, ໄຟກັບມາ.
 
 776
 00:51:48,850 --> 00:51:50,850
@@ -5159,7 +5158,7 @@ FIRES A BURST into a German's belly. HITS another with the stock of his Thompson
 00:54:20,350 --> 00:54:22,350
 [HAND-TO-HAND.]
 FORREST AND THE OTHER PARATROOPERS
-ຟໍເຣສຕ໌ ແລະ ພວກທະຫານປາຣາຕຣູເປີຄົນອື່ນ
+ຟໍເຣສຕ໌ ແລະທະຫານຝາອື່ນໆ
 
 820
 00:54:22,850 --> 00:54:24,950
@@ -5215,7 +5214,7 @@ I got him.
 00:54:53,750 --> 00:54:56,200
 [REIBEN]
 Like hell you did, I got him.
-ເຈົ້າເຮັດແນວໃດ, ຂ້ອຍຈັບລາວແລ້ວ.
+ແມ່ນແລ້ວ, ຂ້ອຍໄດ້ລາວແລ້ວ.
 
 829
 00:54:56,700 --> 00:54:58,700
@@ -5272,7 +5271,7 @@ Open up with a volley.
 00:55:30,250 --> 00:55:32,250
 [SARGE]
 Is almost there.
-ເກືອບຮອດແລ້ວ.
+ແມ່ນແລ້ວເກືອບແລ້ວ.
 
 838
 00:55:32,750 --> 00:55:38,750
@@ -5419,7 +5418,7 @@ What deal?
 00:56:45,900 --> 00:56:47,900
 [UPHAM]
 Forget it.
-ລືມມັນໄປ.
+ລືມເລີຍ.
 
 862
 00:56:48,400 --> 00:56:51,550

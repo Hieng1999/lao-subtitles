@@ -52,7 +52,7 @@ Thank you.
 00:00:37,950 --> 00:00:39,950
 [ABEL]
 You sure?
-ເຈົ້າແນ່ໃຈບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 10
 00:00:40,450 --> 00:00:42,450
@@ -88,7 +88,7 @@ Well I woke up feeling very good about this.
 00:00:56,400 --> 00:00:58,400
 [ABEL]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 16
 00:00:58,900 --> 00:01:02,750
@@ -224,7 +224,7 @@ Yes. This contract here, your lawyers have fully reviewed it?
 00:02:18,650 --> 00:02:20,650
 [ANDREW WALSH]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 38
 00:02:21,150 --> 00:02:27,150
@@ -614,7 +614,7 @@ These men are cowards. Too weak to make a living... or even fight with their own
 00:05:57,350 --> 00:05:59,350
 [ABEL]
 May I take it?
-ຂ້ອຍເອົາມັນໄດ້ບໍ?
+ຂ້ອຍຮັບໄດ້ບໍ່?
 
 101
 00:05:59,850 --> 00:06:01,850
@@ -817,7 +817,7 @@ Mr. Walsh, as I know you know, this office has been investigating your entire in
 00:07:44,750 --> 00:07:46,750
 [ANDREW WALSH]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 134
 00:07:47,250 --> 00:07:53,250
@@ -1087,7 +1087,7 @@ We don't know yet.
 00:10:46,350 --> 00:10:48,350
 [ANNA]
 Who else?
-ໃຜອີກຄົນໃດ?
+ມີໃຜອີກບໍ່?
 
 176
 00:10:48,850 --> 00:10:51,300
@@ -1568,7 +1568,7 @@ We don't know yet.
 00:15:17,450 --> 00:15:19,450
 [ANNA]
 Who else?
-ໃຜອີກຄົນໃດ?
+ມີໃຜອີກບໍ່?
 
 254
 00:15:19,950 --> 00:15:22,400
@@ -1685,7 +1685,7 @@ They've been getting word back from our drivers.
 00:16:24,600 --> 00:16:26,600
 [ANNA]
 What word?
-ຄໍາໃດ?
+ຄໍາວ່າຫຍັງ?
 
 273
 00:16:27,100 --> 00:16:29,550
@@ -1867,7 +1867,7 @@ Do you hear that noise... that's the noise.
 00:18:10,900 --> 00:18:12,900
 [SALES STUDENT ALEX]
 What noise?
-ສຽງໃດ?
+ສຽງຫຍັງແມ່ນໄໝ?
 
 302
 00:18:13,400 --> 00:18:19,400
@@ -2503,7 +2503,7 @@ What's to understand?
 00:24:41,600 --> 00:24:43,600
 [ANDREW WALSH]
 It's illegal.
-ມັນຜິດກົດຫມາຍ.
+ແມ່ນບໍ່ຖືກຕ້ອງຕາມກົດໝາຍ.
 
 403
 00:24:44,100 --> 00:24:50,100
@@ -2596,7 +2596,7 @@ That depends what they do with it. If they kill their wife with them, then no. T
 00:25:33,900 --> 00:25:35,900
 [ANDREW WALSH]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 418
 00:25:36,400 --> 00:25:38,400
@@ -2662,7 +2662,7 @@ What's to understand?
 00:26:02,300 --> 00:26:04,300
 [ANDREW WALSH]
 It's illegal.
-ມັນຜິດກົດຫມາຍ.
+ແມ່ນບໍ່ຖືກຕ້ອງຕາມກົດໝາຍ.
 
 429
 00:26:04,800 --> 00:26:07,600
@@ -2772,7 +2772,7 @@ That depends what they do with it. If they kill their wife with them, then no. T
 00:27:02,300 --> 00:27:04,300
 [ANDREW WALSH]
 Who is it?
-ມັນເປັນໃຜ?
+ແມ່ນໃຜ?
 
 447
 00:27:04,800 --> 00:27:06,800
@@ -2871,7 +2871,7 @@ Are you really serious with this, this is what it's come to, walking around outs
 00:27:59,150 --> 00:28:01,250
 [ANDREW WALSH]
 I am and it is. 55
-ຂ້ອຍເປັນແລະມັນເປັນ. 55
+ແມ່ນແລ້ວ ແລະແມ່ນແລ້ວ 55
 
 463
 00:28:01,750 --> 00:28:04,550
@@ -3018,7 +3018,7 @@ I know what you are asking and no... I never ask myself why I do this. It just f
 00:29:40,150 --> 00:29:42,150
 [ANDREW WALSH]
 That's very simple.
-ມັນງ່າຍດາຍຫຼາຍ.
+ນັ້ນແມ່ນງ່າຍໆຫຼາຍ.
 
 486
 00:29:42,650 --> 00:29:44,650
@@ -3030,7 +3030,7 @@ Yes...
 00:29:45,150 --> 00:29:47,150
 [ABEL]
 ...It is.
-ມັນເປັນ.
+ແມ່ນແລ້ວ.
 
 488
 00:29:47,650 --> 00:29:49,650
@@ -3109,7 +3109,7 @@ I'll be right back.
 00:30:22,250 --> 00:30:24,250
 [ARTHUR LEWIS]
 So how are you?
-ເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີເຈົ້າບໍ່?
 
 501
 00:30:24,750 --> 00:30:27,200
@@ -3220,7 +3220,7 @@ Do you think they will close?
 00:31:44,650 --> 00:31:46,650
 [ABEL]
 Of course. 61
-ແນ່ນອນ. 61
+ແມ່ນແລ້ວ. 61
 
 518
 00:31:47,150 --> 00:31:49,150
@@ -3250,7 +3250,7 @@ I mean it. We can't just leave it here.
 00:32:00,150 --> 00:32:02,150
 [ANNA]
 Is it dead?
-ມັນຕາຍແລ້ວບໍ?
+ມັນຕາຍບໍ່?
 
 523
 00:32:02,650 --> 00:32:04,650
@@ -3675,7 +3675,7 @@ Good for you. My husband is not my father. Not even close. So if I were you I wo
 00:36:17,950 --> 00:36:19,950
 [ABEL]
 Hey, how are you?
-ເຮ້, ເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີ ເຈົ້າສະບາຍດີບໍ່?
 
 591
 00:36:20,450 --> 00:36:25,000
@@ -3719,7 +3719,7 @@ Are you ready to get back to work?
 00:36:44,650 --> 00:36:46,650
 [JULIAN]
 I think so.
-ຂ້ອຍຄິດວ່າເປັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 598
 00:36:47,150 --> 00:36:49,150
@@ -3826,7 +3826,7 @@ Mr. Rose, I am Alex with Standard Heating Oil.
 00:37:46,850 --> 00:37:48,850
 [HUSBAND]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 615
 00:37:49,350 --> 00:37:55,350
@@ -4436,7 +4436,7 @@ Six and a half.
 00:43:52,000 --> 00:43:54,000
 [ARTHUR LEWIS]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 713
 00:43:54,500 --> 00:43:59,400
@@ -4474,7 +4474,7 @@ May? They look at each other.
 00:44:14,000 --> 00:44:16,000
 [ARTHUR LEWIS]
 It doesn't matter.
-ມັນບໍ່ສໍາຄັນ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 719
 00:44:16,500 --> 00:44:20,000
@@ -4601,7 +4601,7 @@ Quiet.
 00:45:13,200 --> 00:45:15,200
 [DAUGHTERS]
 You move. 88
-ເຈົ້າຍ້າຍໄປ. 88
+ເຈົ້າເຄື່ອນຍ້າຍເດີ. 88
 
 740
 00:45:15,700 --> 00:45:21,700
@@ -4666,7 +4666,7 @@ Stop!!
 00:45:58,750 --> 00:46:00,750
 [ABEL]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 750
 00:46:01,250 --> 00:46:03,250
@@ -4752,13 +4752,13 @@ This is all worth it.
 00:46:42,650 --> 00:46:44,650
 [ABEL]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 764
 00:46:45,150 --> 00:46:47,150
 [ABEL]
 You should get to bed.
-ເຈົ້າຄວນໄປນອນ.
+ເຈົ້າຕ້ອງໄປນອນເດີ້.
 
 765
 00:46:47,650 --> 00:46:49,650
@@ -4782,7 +4782,7 @@ I love you too.
 00:46:55,150 --> 00:46:57,150
 [ANDREW WALSH]
 Is Julian here? 92
-ຈູລຽນຢູ່ບ່ອນນີ້ບໍ? 92
+ຈູລຽນແມ່ນຢູ່ບໍ່? 92
 
 769
 00:46:57,650 --> 00:46:59,650
@@ -4850,7 +4850,7 @@ I strongly suggest you think that through before you answer it. Because even if 
 00:47:34,450 --> 00:47:36,450
 [JULIAN]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 780
 00:47:36,950 --> 00:47:38,950
@@ -4925,7 +4925,7 @@ This is a lawyer who will meet you when they bring you to the station. You no lo
 00:48:18,100 --> 00:48:20,100
 [JULIAN]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 792
 00:48:20,600 --> 00:48:22,600
@@ -4991,7 +4991,7 @@ Not today... but by the end of the week... maybe.
 00:48:49,400 --> 00:48:51,400
 [JULIAN]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 803
 00:48:51,900 --> 00:48:53,900
@@ -5033,7 +5033,7 @@ I'm gonna try to get us a little more time.
 00:49:10,100 --> 00:49:12,100
 [COP 1]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 810
 00:49:12,600 --> 00:49:14,600
@@ -5045,7 +5045,7 @@ Thank you for seeing me.
 00:49:15,100 --> 00:49:17,100
 [JOSEPH]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 812
 00:49:17,600 --> 00:49:19,600
@@ -5126,7 +5126,7 @@ Yes... Well, the officers there didn't set it up very well on their end either.
 00:50:00,250 --> 00:50:02,250
 [ANDREW WALSH]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 825
 00:50:02,750 --> 00:50:04,750
@@ -5398,7 +5398,7 @@ Thank you for letting me in.
 00:52:34,950 --> 00:52:36,950
 [LUISA]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 869
 00:52:37,450 --> 00:52:39,450
@@ -5571,7 +5571,7 @@ Thank you both for agreeing to meet with me.
 00:54:13,450 --> 00:54:15,450
 [LORRAINE LEFKOWITZ]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 897
 00:54:15,950 --> 00:54:20,850
@@ -5690,7 +5690,7 @@ And due to circumstances beyond my control my bank has left me at the altar.
 00:55:29,750 --> 00:55:31,750
 [LORAINE LEFKOWITZ]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 916
 00:55:32,250 --> 00:55:38,250
@@ -5804,7 +5804,7 @@ But over the last six months 110,000 gallons of fuel has been stolen from my fam
 00:56:41,900 --> 00:56:43,900
 [ABEL]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 934
 00:56:44,400 --> 00:56:46,400
@@ -5904,7 +5904,7 @@ This is all worth it.
 00:57:37,700 --> 00:57:39,700
 [ABEL]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 950
 00:57:40,200 --> 00:57:42,200
@@ -6031,7 +6031,7 @@ Thank you.
 00:58:38,100 --> 00:58:40,100
 [ARNOLD KLINE]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 971
 00:58:40,600 --> 00:58:43,050
@@ -6104,7 +6104,7 @@ Your Far Rockaway facility bought a load of fuel last week off one of my stolen 
 00:59:17,100 --> 00:59:19,100
 [ARNOLD KLINE]
 That's not possible.
-ນັ້ນບໍ່ສາມາດເຮັດໄດ້.
+ນັ້ນແມ່ນບໍ່ເປັນໄປໄດ້.
 
 983
 00:59:19,600 --> 00:59:25,600
@@ -6276,7 +6276,7 @@ I know.
 01:00:49,750 --> 01:00:51,750
 [ABEL]
 Good...
-ດີ...
+ແມ່ນແລ້ວ...
 
 1011
 01:00:52,250 --> 01:00:54,250
@@ -6542,7 +6542,7 @@ Who knew?
 01:03:02,600 --> 01:03:04,600
 [ANNA]
 How was your brother?
-ອ້າຍຂອງເຈົ້າເປັນແນວໃດ?
+ສະບາຍດີພີ່ນ້ອງເຈົ້າບໍ່?
 
 1055
 01:03:05,100 --> 01:03:08,950
@@ -6604,7 +6604,7 @@ We can probably pull it off. Three different parties... it'll be a mess... and t
 01:03:37,850 --> 01:03:39,850
 [ANNA]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 1065
 01:03:40,350 --> 01:03:44,200
@@ -6641,13 +6641,13 @@ It's a bank account.
 01:03:57,600 --> 01:03:59,600
 [ABEL]
 Whose?
-ຂອງໃຜ?
+ແມ່ນໃຜ?
 
 1071
 01:04:00,100 --> 01:04:02,100
 [ANNA]
 Ours.
-ຂອງເຮາ
+ແມ່ນຂອງພວກເຮົາ.
 
 1072
 01:04:02,600 --> 01:04:04,700
@@ -6703,7 +6703,7 @@ Since 1971 I have been skimming money out of the company. Some years a little...
 01:04:29,950 --> 01:04:31,950
 [ANNA]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 1081
 01:04:32,450 --> 01:04:35,600
@@ -6904,7 +6904,7 @@ I don't know why but I guess I never realized we even had this view from back he
 01:06:32,650 --> 01:06:34,650
 [ABEL]
 I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 1113
 01:06:35,150 --> 01:06:38,650
@@ -7026,7 +7026,7 @@ We call the police.
 01:07:33,650 --> 01:07:35,650
 [ANDREW WALSH]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1133
 01:07:36,150 --> 01:07:39,300
@@ -7044,7 +7044,7 @@ I'm very sorry. Did you know him well?
 01:07:43,100 --> 01:07:45,100
 [ABEL]
 I did.
-ຂ້ອຍເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 1136
 01:07:45,600 --> 01:07:49,800
@@ -7062,7 +7062,7 @@ Yeah. For a while I thought he was... it's just...
 01:07:54,300 --> 01:07:56,300
 [A.D.A. LAWRENCE]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 1139
 01:07:56,800 --> 01:07:59,250
@@ -7116,7 +7116,7 @@ Well, thank you for coming. I wanted to make sure this was handled correctly.
 01:08:21,750 --> 01:08:23,750
 [A.D.A. LAWRENCE]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 1148
 01:08:24,250 --> 01:08:26,700

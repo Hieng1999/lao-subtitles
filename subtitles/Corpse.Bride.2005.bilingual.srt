@@ -94,7 +94,7 @@ So I should be myself?
 00:01:19,300 --> 00:01:21,400
 [NELL]
 You haven'r been hearing ar all!
-ເຈົ້າໄດ້ຍິນທັງຫມົດແລ້ວ!
+ເຈົ້າບໍ່ເຄີຍໄດ້ຍິນຫຍັງເລີຍ!
 
 16
 00:01:21,900 --> 00:01:26,100
@@ -285,7 +285,7 @@ I ... I do apologize, Miss Everglot. How rude of me to ... Victoria comes over t
 00:03:42,500 --> 00:03:44,600
 [VICTORIA]
 The song. What is it called?
-ເພງນັ້ນ. ມັນເອີ້ນວ່າແນວໃດ?
+ເພງນັ້ນແມ່ນຫຍັງ?
 
 45
 00:03:45,100 --> 00:03:48,250
@@ -420,7 +420,7 @@ Oh, right! With this ... this ... Hand ...
 00:05:04,950 --> 00:05:06,950
 [PASTOR GALSWELLS]
 (annoyed,
-(ໂຊກຮ້າຍ,
+(ບໍ່ພໍໃຈ,
 
 67
 00:05:07,450 --> 00:05:13,450
@@ -562,7 +562,7 @@ Dropping the ring! This boy doesn't want to be married! Even Victoria is startin
 00:06:43,700 --> 00:06:45,700
 [VICTOR]
 I'll get it!
-ຂ້ອຍຈະເອົາມັນ!
+ຂ້ອຍຈະຮັບແລ້ວ!
 
 89
 00:06:46,200 --> 00:06:52,200
@@ -1763,7 +1763,7 @@ I can assure you it's not what you think. She's dead! Look! He grabs the Corpse 
 00:20:42,750 --> 00:20:44,750
 [CORPSE BRIDE]
 Who is she?
-ນາງເປັນໃຜ?
+ນາງແມ່ນໃຜ?
 
 275
 00:20:45,250 --> 00:20:50,500
@@ -2001,7 +2001,7 @@ Burn me with a flame, I'll keep smiling just the same.
 00:23:27,850 --> 00:23:29,850
 [BLACKWIDOW]
 As well you should!
-ເຈົ້າຄວນເຮັດເຊັ່ນກັນ!
+ແມ່ນແລ້ວ ເຈົ້າຕ້ອງເຮັດຄືກັນ!
 
 312
 00:23:30,350 --> 00:23:36,350
@@ -2250,7 +2250,7 @@ Victor.
 00:26:38,650 --> 00:26:40,650
 [FINIS]
 Whatever.
-ເຖິງຢ່າງໃດກໍ່ຕາມ.
+ບໍ່ວ່າແມ່ນຫຍັງ.
 
 350
 00:26:41,150 --> 00:26:46,050
@@ -2393,7 +2393,7 @@ Coming through, coming through! New arrival! 55. He ushers in the new arrival, a
 00:28:26,450 --> 00:28:28,450
 [VICTOR]
 Mayhew!
-Mayhew!
+ໄມເຮວ!
 
 372
 00:28:28,950 --> 00:28:30,950
@@ -2608,7 +2608,7 @@ Excuse me?
 00:30:47,200 --> 00:30:49,200
 [CORPSE BRIDE]
 (a little more
-(ອີກຫນ້ອຍຫນຶ່ງ
+(ອີກໜ້ອຍໜຶ່ງ
 
 406
 00:30:49,700 --> 00:30:51,700
@@ -2960,7 +2960,7 @@ Mother, Father. This is Emily.
 00:35:07,150 --> 00:35:09,150
 [WILLIAM]
 Pleased to meet you.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກກັນ.
 
 460
 00:35:09,650 --> 00:35:11,650
@@ -3132,7 +3132,7 @@ I want an annulment.
 00:37:04,150 --> 00:37:06,150
 [PASTOR GALSWELL]
 Done.
-ເຮັດແລ້ວ.
+ແມ່ນແລ້ວ.
 
 487
 00:37:06,650 --> 00:37:12,650

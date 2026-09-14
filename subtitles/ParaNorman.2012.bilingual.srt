@@ -14,7 +14,7 @@ Brains! CLOSE ON the woman as she raises her hands and SCREAMS.
 00:00:17,200 --> 00:00:19,200
 [GRANDMA BABCOCK]
 What's happening now?
-ເກີດຫຍັງຂຶ້ນດຽວນີ້?
+ມີຫຍັງເກີດຂຶ້ນຕອນນີ້ບໍ່?
 
 4
 00:00:19,700 --> 00:00:22,150
@@ -160,7 +160,7 @@ Then why do you keep on talking to her?
 00:01:53,200 --> 00:01:55,200
 [NORMAN]
 Because she talks back!
-ເພາະວ່ານາງຕອບໂຕ້!
+ເພາະແມ່ນວ່ານາງເວົ້າກັບຄືນໄປບ່ອນ!
 
 27
 00:01:55,700 --> 00:01:58,500
@@ -319,7 +319,7 @@ Yeah, good to see you! How you doin'? Hi Mrs Hardman. You look nice today. I lik
 00:04:00,300 --> 00:04:02,300
 [HAIRDRYER GHOST]
 Does anyone smell burning?
-ມີໃຜກິ່ນຫອມໄຫມ້ບໍ?
+ມີໃຜຮູ້ສຶກກິ່ນໄໝ້ບໍ່?
 
 51
 00:04:02,800 --> 00:04:04,800
@@ -331,7 +331,7 @@ Hey, peace, man.
 00:04:05,300 --> 00:04:07,300
 [NORMAN]
 Totally.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 53
 00:04:07,800 --> 00:04:09,800
@@ -369,7 +369,7 @@ Hey, how you doin'? A little further along Norman nods pleasantly to the ghost o
 00:04:27,900 --> 00:04:29,900
 [NORMAN]
 Hi! How's it hanging?
-ສະບາຍດີ! ມັນຢູ່ແນວໃດ?
+ສະບາຍດີ! ສະພາບດີບໍ່?
 
 59
 00:04:30,400 --> 00:04:34,600
@@ -832,7 +832,7 @@ No. My grandma told me it's usually people who still have stuff to figure out. O
 00:10:04,800 --> 00:10:06,800
 [NORMAN]
 Bub?
-ບັບບ໌?
+ບັບບໍ່?
 
 130
 00:10:07,300 --> 00:10:13,300
@@ -1102,7 +1102,7 @@ He continues running directly off the edge of the stage and lands on the floor w
 00:13:19,400 --> 00:13:21,400
 [SANDRA BABCOCK]
 Norman!
-ໂນມນ!
+ໂນແມນ!
 
 172
 00:13:21,900 --> 00:13:24,350
@@ -1292,7 +1292,7 @@ Get the book and read from it! Before the sun sets tonight!
 00:15:30,800 --> 00:15:32,800
 [NORMAN]
 But this is crazy!
-ແຕ່ສິ່ງນີ້ໂຊກຮ້າຍ!
+ແຕ່ນີ້ແມ່ນຄວາມໂງ່ແທ້ໆ!
 
 202
 00:15:33,300 --> 00:15:39,300
@@ -1377,7 +1377,7 @@ Norman? Alvin tears around the corner in pursuit, but Neil stands in his way, wa
 00:16:28,850 --> 00:16:30,850
 [NEIL]
 Hey! What's the big deal?
-ເຮ້! ມີຫຍັງສໍາຄັນ?
+ສະບາຍດີ! ເລື່ອງໃຫຍ່ແມ່ນຫຍັງ?
 
 215
 00:16:31,350 --> 00:16:37,350
@@ -1523,7 +1523,7 @@ Jeez, who rattled your chains?
 00:18:09,100 --> 00:18:12,950
 [NORMAN]
 No one. Norman isn't in the mood for any more discussion.
-ບໍ່ມີໃຜ. ໂນມນບໍ່ມີອາລົມທີ່ຈະສົນທະນາອີກຕໍ່ໄປ.
+ບໍ່ມີໃຜເລີຍ. ໂນແມນບໍ່ຢາກສົນທະນາກັນອີກເລີຍ.
 
 238
 00:18:13,450 --> 00:18:17,650
@@ -1573,7 +1573,7 @@ And you'd do it no matter what?
 00:18:41,600 --> 00:18:43,600
 [GRANDMA BABCOCK]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 246
 00:18:44,100 --> 00:18:47,950
@@ -1600,7 +1600,7 @@ So I said to her, "Girl, come back and talk to me when your basket toss gets twe
 00:19:01,450 --> 00:19:03,450
 [COURTNEY]
 Norman?!
-ໂນມນບໍ?
+ໂນແມນບໍ່?
 
 250
 00:19:03,950 --> 00:19:07,100
@@ -1884,7 +1884,7 @@ I didn't really think he was serious about going up to the old graveyard on his 
 00:22:30,550 --> 00:22:32,550
 [COURTNEY]
 So Norman!
-ສະນັ້ນນໍມານ!
+ສະບາຍດີ ໂນແມນ!
 
 294
 00:22:33,050 --> 00:22:38,650
@@ -2808,7 +2808,7 @@ Hide!
 00:34:08,200 --> 00:34:11,000
 [MITCH]
 Oh, no it's not. It's just grown- ups.
-ໂອ້, ບໍ່ມັນບໍ່ແມ່ນ. ມັນເປັນພຽງແຕ່ຜູ້ໃຫຍ່.
+ໂອ້ ບໍ່ແມ່ນແລ້ວ. ແມ່ນແຕ່ຜູ້ໃຫຍ່ເທົ່ານັ້ນ.
 
 435
 00:34:11,500 --> 00:34:13,500
@@ -3003,7 +3003,7 @@ Necromancer!
 00:36:28,200 --> 00:36:30,200
 [FEMALE TOURIST]
 This is all his doing!
-ນີ້ແມ່ນການເຮັດຂອງລາວທັງ ຫມົດ!
+ນີ້ແມ່ນທັງໝົດແມ່ນຜົນງານຂອງລາວ!
 
 465
 00:36:30,700 --> 00:36:36,700
@@ -3138,7 +3138,7 @@ Stop! Leave me alone or I'll make you sorry! I'll make all of you sorry! Norman 
 00:38:20,450 --> 00:38:23,950
 [SCREAMS.]
 The world turns black and Norman collapses in a faint.
-ໂລກກາຍເປັນສີ ດໍາ ແລະ ໂນມນຕົກລົງໃນຄວາມອ່ອນແອ.
+ໂລກໄດ້ກາຍເປັນມືດ ແລະ ໂນແມນໄດ້ລົ້ມລົງຢ່າງບໍ່ຮູ້ສຶກ.
 
 485
 00:38:24,450 --> 00:38:30,450
@@ -3277,7 +3277,7 @@ Uh, well, no. Unless we get brought back as zombies, and then technically you'll
 00:40:09,800 --> 00:40:11,800
 [COURTNEY]
 Norman?
-ໂນມນ?
+ໂນແມນແມ່ນບໍ່?
 
 506
 00:40:12,300 --> 00:40:14,300
@@ -3595,7 +3595,7 @@ Oh, right, you think maybe we should stop at a graveyard and dig up some other e
 00:43:59,300 --> 00:44:01,300
 [SANDRA BABCOCK]
 It's not a bad idea.
-ມັນບໍ່ແມ່ນຄວາມຄິດທີ່ບໍ່ດີ.
+ບໍ່ເປັນຄວາມບໍ່ດີເລີຍ.
 
 555
 00:44:01,800 --> 00:44:03,800
@@ -3715,7 +3715,7 @@ Uh... I really need to speak with you.
 00:45:14,450 --> 00:45:16,450
 [AGGIE]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 574
 00:45:16,950 --> 00:45:22,950

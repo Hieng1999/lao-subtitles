@@ -138,13 +138,13 @@ Hoark ໄດ້ເຫັນຄວາມຝັນຮ້າຍທີ່ຮ້າ�
 00:01:42,700 --> 00:01:44,700
 [STOICK]
 Any Night Furies?
-ມີ Night Furies ບໍ?
+ມີ Night ຟິວຣີບໍ່?
 
 23
 00:01:45,200 --> 00:01:47,200
 [VIKING #1]
 None so far.
-ຍັງບໍ່ມີເທື່ອ.
+ບໍ່ມີຫຍັງເລີຍຈົນຮອດປະຈຸບັນ.
 
 24
 00:01:47,700 --> 00:01:49,700
@@ -277,7 +277,7 @@ Arggh!
 00:03:31,700 --> 00:03:35,200
 [GOBBER]
 See, now this right here is what I'm talking about.
-ເບິ່ງ, ບັດນີ້ທີ່ນີ້ແມ່ນສິ່ງທີ່ຂ້າພະເຈົ້າເວົ້າກ່ຽວກັບ.
+ແມ່ນແລ້ວ, ນີ້ແມ່ນສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງເວົ້າຢູ່.
 
 44
 00:03:35,700 --> 00:03:37,700
@@ -465,7 +465,7 @@ Come back here!
 00:05:46,350 --> 00:05:48,350
 [HICCUP]
 I know. Be right back!
-ຂ້ອຍຮູ້, ຂ້ອຍຈະກັບມາ!
+ຂ້ອຍຮູ້ແລ້ວ. ກັບມາທັນທີເດີ້!
 
 73
 00:05:48,850 --> 00:05:54,850
@@ -818,7 +818,7 @@ No, you don't.
 00:09:50,750 --> 00:09:52,750
 [STOICK]
 No, actually I do.
-ບໍ່, ໃນຄວາມເປັນຈິງແລ້ວ ຂ້ອຍຮູ້.
+ບໍ່, ແທ້ຈິງແລ້ວແມ່ນແລ້ວ.
 
 128
 00:09:53,250 --> 00:09:55,250
@@ -965,7 +965,7 @@ I've decided I don't want to I think it's time you learn fight dragons. to fight
 00:11:38,650 --> 00:11:40,650
 [STOICK]
 You go first.
-ເຈົ້າໄປກ່ອນ.
+ເຈົ້າກ່ອນເດີ້.
 
 151
 00:11:41,150 --> 00:11:43,150
@@ -1224,7 +1224,7 @@ The Terrible Terror.
 00:14:21,200 --> 00:14:23,200
 [FISHLEGS]
 Attack eight. Venom twelve.
-ໂຈມຕີທີ 8 ລະເບີດ Venom 12
+ການໂຈມຕີ 8. ຢາພິດ 12
 
 192
 00:14:23,700 --> 00:14:25,700
@@ -1359,7 +1359,7 @@ Five!
 00:15:52,100 --> 00:15:54,100
 [FISHLEGS]
 No, six.
-ບໍ່, 6 ຄົນ
+ບໍ່, ຫົກ.
 
 213
 00:15:54,600 --> 00:15:57,400
@@ -1519,7 +1519,7 @@ She's right, you have to be tough on yourselves. CREAK. All eyes turn to Hiccup,
 00:17:57,250 --> 00:18:02,150
 [GOBBER]
 Where did Hiccup go wrong? He tries to take a seat at the table...
-Hiccup ເຮັດຜິດຫຍັງ?
+Hiccup ໄດ້ຜິດຢູ່ໃສ? ລາວພະຍາຍາມທີ່ຈະນັ່ງຢູ່ໂຕະ...
 
 237
 00:18:02,650 --> 00:18:04,650
@@ -1544,7 +1544,7 @@ He's never where he should be.
 00:18:14,250 --> 00:18:16,250
 [GOBBER]
 Thank you, Astrid. Gobber stands.
-ຂອບໃຈ, Astrid. Gobber ຢືນ.
+ຂອບໃຈແອສຕຣີດ. ໂກບເບີຢືນຢູ່.
 
 241
 00:18:16,750 --> 00:18:22,750
@@ -1641,7 +1641,7 @@ All mine then. Wow, so okay. I'll
 00:19:23,150 --> 00:19:25,150
 [SEE YOU--]
 Slam.
-ແຊມ.
+ສະລາມ.
 
 256
 00:19:25,650 --> 00:19:27,650
@@ -2176,7 +2176,7 @@ Hey!
 00:26:40,000 --> 00:26:42,800
 [RUFFNUT]
 It's us, idiots. Astrid and Ruffnut are soaked.
-ພວກເຮົາຍັງໂງ່, Astrid ແລະ Ruffnut ແມ່ນຊຸ່ມ.
+ແມ່ນພວກເຮົາ, ພວກໂງ່. ແອສຕຣີດ ແລະ ຣູຟນັດແມ່ນຊຸ່ມຊື່ນແລ້ວ.
 
 336
 00:26:43,300 --> 00:26:47,150
@@ -2441,7 +2441,7 @@ Well, I trust you found the nest at least?
 00:29:49,550 --> 00:29:51,550
 [STOICK]
 Not even close.
-ແມ່ນແຕ່ບໍ່ໃກ້ຊິດ.
+ບໍ່ໃກ້ໆເລີຍ.
 
 377
 00:29:52,050 --> 00:29:58,050
@@ -2792,7 +2792,7 @@ Oh, I... brought you something. He presents a horned helmet.
 00:34:03,650 --> 00:34:06,100
 [STOICK]
 To keep you safe in the ring.
-ເພື່ອຮັກສາຄວາມປອດໄພຂອງທ່ານ ໃນວົງແຫວນ.
+ເພື່ອໃຫ້ເຈົ້າປອດໄພໃນວົງການ.
 
 431
 00:34:06,600 --> 00:34:09,400
@@ -2824,7 +2824,7 @@ Wear it proudly. You deserve it. You've held up your end of the deal. Stoick bea
 00:34:24,400 --> 00:34:26,500
 [HICCUP]
 I should really get to bed.
-ຂ້ອຍຄວນໄປນອນ.
+ຂ້ອຍຕ້ອງໄປນອນແທ້ໆ.
 
 436
 00:34:27,000 --> 00:34:29,100
@@ -3395,7 +3395,7 @@ Be careful with that dragon.
 00:41:17,650 --> 00:41:20,100
 [HICCUP]
 It's not the dragon I'm worried about.
-ຂ້ອຍບໍ່ກັງວົນກ່ຽວກັບມັງກຣ.
+ແມ່ນບໍ່ແມ່ນດຣາກອນທີ່ຂ້ອຍກັງວົນ
 
 524
 00:41:20,600 --> 00:41:22,700
@@ -3944,13 +3944,13 @@ Here.
 00:47:39,150 --> 00:47:41,150
 [VIKING #2]
 One length to your stern.
-ຫນຶ່ງຄວາມຍາວເພື່ອ stern ຂອງທ່ານ.
+ໜຶ່ງຄວາມຍາວຈົນຮອດຫຼັງຂອງເຈົ້າ.
 
 609
 00:47:41,650 --> 00:47:43,650
 [VIKING #3]
 On your starboard flank.
-ຢູ່ເບື້ອງຂວາຂອງທ່ານ.
+ຢູ່ດ້ານຂວາຂອງເຈົ້າ.
 
 610
 00:47:44,150 --> 00:47:46,150
@@ -5040,7 +5040,7 @@ I might make a few tweaks. Astrid appears and jabs Hiccup in the arm. Hiccup rec
 01:01:25,950 --> 01:01:27,950
 [ASTRID]
 That's for scaring me.
-ນັ້ນແມ່ນສໍາລັບການຢ້ານຂ້ອຍ.
+ນັ້ນແມ່ນເພື່ອເຮັດໃຫ້ຂ້ອຍຢ້ານກົວ.
 
 775
 01:01:28,450 --> 01:01:34,450

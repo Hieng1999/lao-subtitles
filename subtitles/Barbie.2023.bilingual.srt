@@ -623,7 +623,7 @@ No, Ken is just a good friend.  And after all, this is MY Dreamhouse. It's Barbi
 00:06:10,950 --> 00:06:12,950
 [KEN RYAN GOSLING]
 Right as always.
-ຖືກຕ້ອງຄືກັບປົກກະຕິ.
+ແມ່ນແລ້ວເໝືອນສະເໝີ
 
 102
 00:06:13,450 --> 00:06:15,450
@@ -635,7 +635,7 @@ And: It's girl's night!
 00:06:15,950 --> 00:06:17,950
 [BARBIE EMMA]
 Come on, Barbie, slumber party!
-ມາແລ້ວ, ບາເບີ, ງານລ້ຽງນອນ!
+ສະບາຍດີ ແບຣບີ, ງານພັກນອນ!
 
 104
 00:06:18,450 --> 00:06:20,550
@@ -719,13 +719,13 @@ Ha, ha. Ha ha ha ha.
 00:06:54,500 --> 00:06:57,300
 [BARBIE ANA]
 Come on, Barbie, let's run towards the water!
-ມາແລ້ວ, ບາເບີ, ໄປແລ່ນໄປຫານ້ ໍາ!
+ສະບາຍດີ ແບຣບີ, ມາແລ່ນໄປຫານໍ້າເດີ້!
 
 118
 00:06:57,800 --> 00:06:59,800
 [BARBIE SHARON]
 Hey Barbie, are you OK?
-ເຮ້ ບາເບີ, ເຈົ້າດີບໍ?
+ສະບາຍດີ ບາເບີ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 119
 00:07:00,300 --> 00:07:02,300
@@ -775,7 +775,7 @@ Stop it, Ken.
 00:07:25,500 --> 00:07:27,500
 [KEN KINGSLEY]
 I'm sorry... I'm sorry...
-ຂ້ອຍ ຂໍໂທດ... ຂ້ອຍຂໍໂທດ...
+ຂໍໂທດເດີ... ຂໍໂທດເດີ້...
 
 127
 00:07:28,000 --> 00:07:34,000
@@ -788,7 +788,7 @@ I know I'm Stereotypical Barbie, and therefore don't form conjectures concerning
 00:07:34,500 --> 00:07:36,500
 [BARBIE ALEXANDRA]
 You're malfunctioning!
-ເຈົ້າເຮັດວຽກຜິດປົກກະຕິ!
+ເຈົ້າບໍ່ເຮັດວຽກໄດ້ເລີຍ!
 
 129
 00:07:37,000 --> 00:07:39,100
@@ -949,7 +949,7 @@ Oh, um, nothing. A really fun game of volleyball...
 00:09:10,200 --> 00:09:12,200
 [WEIRD BARBIE]
 Really?!
-ແທ້ຈິງບໍ?
+ແມ່ນບໍ່?
 
 155
 00:09:12,700 --> 00:09:14,700
@@ -1227,7 +1227,7 @@ And how will I get back? 25.
 00:12:07,500 --> 00:12:09,600
 [WEIRD BARBIE]
 Same way you came, in reverse.
-ທາງດຽວກັນທີ່ທ່ານມາ, ໃນທາງກົງກັນຂ້າມ.
+ຄືກັບທີ່ເຈົ້າມາ, ກົງກັນຂ້າມ.
 
 199
 00:12:10,100 --> 00:12:16,100
@@ -1415,7 +1415,7 @@ I'm coming with you!
 00:14:08,000 --> 00:14:10,000
 [BARBIE MARGOT]
 Please get out!
-ກະລຸນາອອກໄປ!
+ສະບາຍດີ ອອກໄປເດີ້!
 
 229
 00:14:10,500 --> 00:14:16,500
@@ -1659,7 +1659,7 @@ The faster I figure this out, the faster we get home.
 00:16:29,050 --> 00:16:31,150
 [KEN RYAN GOSLING]
 What am I supposed to do?!
-ຂ້ອຍຄວນເຮັດຫຍັງແດ່?!
+ຂ້ອຍຈະຕ້ອງເຮັດແນວໃດເດີ້?
 
 268
 00:16:31,650 --> 00:16:33,750
@@ -1719,7 +1719,7 @@ What have you got?
 00:16:59,800 --> 00:17:01,800
 [BARBIE MARGOT]
 You go first.
-ເຈົ້າໄປກ່ອນ.
+ເຈົ້າກ່ອນເດີ້.
 
 278
 00:17:02,300 --> 00:17:04,300
@@ -1918,7 +1918,7 @@ Um... excuse me...
 00:18:50,750 --> 00:18:52,750
 [MATTEL CEO]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 310
 00:18:53,250 --> 00:18:55,250
@@ -2130,7 +2130,7 @@ That's Sasha.
 00:20:58,900 --> 00:21:00,900
 [BARBIE MARGOT]
 Hey Sasha!
-ເຮ້ ຊາຊາ!
+ສະບາຍດີ ຊາຊາ!
 
 344
 00:21:01,400 --> 00:21:07,400
@@ -2167,7 +2167,7 @@ Hey ladies! Sasha, what's up?
 00:21:20,100 --> 00:21:22,100
 [SASHA]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 350
 00:21:22,600 --> 00:21:26,100
@@ -2528,7 +2528,7 @@ You're going to have to come with us. 50.
 00:24:55,100 --> 00:24:57,100
 [BARBIE MARGOT]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 408
 00:24:57,600 --> 00:24:59,600
@@ -2725,7 +2725,7 @@ But since I came all the way here could I meet the woman in charge? Your CEO?
 00:26:59,950 --> 00:27:01,950
 [MATTEL CEO]
 Um, that would be me.
-ອູມ, ນັ້ນຈະເປັນຂ້ອຍ.
+ແມ່ນແລ້ວ, ນັ້ນແມ່ນຂ້ອຍ.
 
 439
 00:27:02,450 --> 00:27:04,450
@@ -2909,7 +2909,7 @@ I'm not what I used to be. I used to be perfect. 58.
 00:28:40,250 --> 00:28:42,250
 [BARBIE MARGOT]
 Who... who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 469
 00:28:42,750 --> 00:28:44,750
@@ -2921,7 +2921,7 @@ Thank you... ?
 00:28:45,250 --> 00:28:47,250
 [BARBIE MARGOT]
 Thank you, Ruth.
-ຂອບໃຈ, ຣຸດສ໌.
+ຂອບໃຈເດີ້, ຣູຕ໌.
 
 471
 00:28:47,750 --> 00:28:49,750
@@ -3104,7 +3104,7 @@ Oh, come off it, everybody hates women. Women hate women and men hate women. It'
 00:30:39,900 --> 00:30:41,900
 [BARBIE MARGOT]
 Is that true?
-ນັ້ນແມ່ນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 500
 00:30:42,400 --> 00:30:44,400
@@ -3196,7 +3196,7 @@ Boligrafos.
 00:31:29,750 --> 00:31:31,750
 [APP]
 Muy bien!
-ດີຫຼາຍ!
+ແມ່ນແລ້ວ!
 
 515
 00:31:32,250 --> 00:31:34,250
@@ -3370,7 +3370,7 @@ It feels right!
 00:33:13,800 --> 00:33:15,800
 [BARBIE MARGOT]
 It does!
-ມັນເຮັດ!
+ແມ່ນແລ້ວ!
 
 543
 00:33:16,300 --> 00:33:18,300
@@ -3413,7 +3413,7 @@ Hi Barbie!
 00:33:35,700 --> 00:33:37,700
 [BARBIE MARGOT]
 ) Oh... OK. Hi Ken.
-ໂອ້... ດີແລ້ວ. ສະບາຍດີເຄນ.
+ແມ່ນແລ້ວ ສະບາຍດີ ແຄນ.
 
 550
 00:33:38,200 --> 00:33:41,700
@@ -3672,7 +3672,7 @@ No, I don't. I don't like that.
 00:36:24,450 --> 00:36:26,450
 [BARBIES]
 We do!
-ພວກເຮົາເຮັດ!
+ແມ່ນແລ້ວ!
 
 591
 00:36:26,950 --> 00:36:28,950
@@ -3999,7 +3999,7 @@ We interrupt this broadcast to bring you our NEW radio station KKEN 107.5. Playi
 00:40:19,350 --> 00:40:21,350
 [SASHA]
 Who are you?!
-ເຈົ້າເປັນໃຜ?!
+ເຈົ້າແມ່ນໃຜເດີ້?
 
 641
 00:40:21,850 --> 00:40:23,850
@@ -4076,7 +4076,7 @@ Just get in the car and keep it singing... be ready for anything.  Hey man!
 00:41:10,900 --> 00:41:12,900
 [KEN CONSTRUCTION WORKER]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 653
 00:41:13,400 --> 00:41:17,250
@@ -4385,7 +4385,7 @@ You are beautiful. 86.
 00:44:25,600 --> 00:44:27,600
 [GLORIA]
 But you ARE smart.
-ແຕ່ເຈົ້າເປັນຄົນສະຫຼາດ.
+ແຕ່ເຈົ້າແມ່ນສະຫລາດແທ້ໆ.
 
 702
 00:44:28,100 --> 00:44:34,100
@@ -4875,7 +4875,7 @@ Hey. I've been thinking.
 00:49:53,750 --> 00:49:55,750
 [KEN RYAN GOSLING]
 Uh huh.
-ໂອ້ ຮາ.
+ແມ່ນແລ້ວ.
 
 779
 00:49:56,250 --> 00:49:58,250
@@ -4887,7 +4887,7 @@ Right. Well, this place--
 00:49:58,750 --> 00:50:00,750
 [KEN RYAN GOSLING]
 Uh huh--
-ໂອ້ ຮາ...
+ແມ່ນແລ້ວ...
 
 781
 00:50:01,250 --> 00:50:04,750
@@ -4924,7 +4924,7 @@ And... I'm ready to be your long- term-distance-low-commitment-casual girlfriend
 00:50:21,950 --> 00:50:25,100
 [KEN RYAN GOSLING]
 Um... will you just hold on for one second.
-ອູມ... ເຈົ້າພຽງແຕ່ລໍຖ້າຊົ່ວຄາວດຽວບໍ.
+ສະບາຍດີ... ເຈົ້າຈະລໍຖ້າບໍ່ດົນໜຶ່ງບໍ່.
 
 787
 00:50:25,600 --> 00:50:27,600
@@ -5010,7 +5010,7 @@ Who are you texting?
 00:51:12,700 --> 00:51:14,700
 [BARBIE MARGOT]
 No one.
-ບໍ່ມີໃຜ.
+ບໍ່ໃຜເລີຍ.
 
 801
 00:51:15,200 --> 00:51:17,200
@@ -5177,7 +5177,7 @@ I'll see you on the Malibu beach!
 00:52:45,700 --> 00:52:47,700
 [KEN KINGSLEY]
 The water is cold!
-ນ້ ໍາ ເຢັນ!
+ນໍ້າແມ່ນເຢັນແລ້ວ!
 
 828
 00:52:48,200 --> 00:52:50,200
@@ -5314,7 +5314,7 @@ Which makes Allan cry. Barbie Margot goes into the Dreamhouse to comfort him:
 00:54:00,500 --> 00:54:02,500
 [BARBIE MARGOT]
 Hey, are you okay?
-ເຮ້, ເຈົ້າດີບໍ?
+ສະບາຍດີ ເຈົ້າບໍ່ເປັນຫຍັງບໍ່?
 
 850
 00:54:03,000 --> 00:54:05,000

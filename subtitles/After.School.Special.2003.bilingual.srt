@@ -588,7 +588,7 @@ Yeah.
 00:07:27,850 --> 00:07:29,850
 [MATT]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 91
 00:07:30,350 --> 00:07:32,350
@@ -653,7 +653,7 @@ No, it is. It's just--
 00:08:10,900 --> 00:08:12,900
 [MAX]
 I'll take it.
-ຂ້ອຍຈະເອົາມັນ.
+ຂ້ອຍຈະຮັບໄດ້.
 
 101
 00:08:13,400 --> 00:08:15,400
@@ -816,7 +816,7 @@ Fine. Watch your balls.
 00:09:54,850 --> 00:09:56,850
 [COOP]
 Grommets!
-ໂກຣເມສ!
+ກຣູເມັດ!
 
 127
 00:09:57,350 --> 00:10:03,350
@@ -889,7 +889,7 @@ I'm gonna go talk to her. What have I got to lose?
 00:10:51,800 --> 00:10:53,800
 [FRED]
 Your dignity?
-ຄວາມກຽດຊັງຂອງທ່ານບໍ?
+ຄວາມມີກຽດຕິຍົດຂອງເຈົ້າບໍ່?
 
 138
 00:10:54,300 --> 00:10:57,800
@@ -908,7 +908,7 @@ Ask her if she has any unusual hats. Girls like that. Deacon gives Matt a dirty 
 00:11:04,800 --> 00:11:06,800
 [DEACON]
 Hey, Naomi.
-ເຮ້, ນາໂມຍ.
+ສະບາຍດີ ນາໂມຍ
 
 141
 00:11:07,300 --> 00:11:09,300
@@ -982,7 +982,7 @@ Screw off. I'm talking to Deacon.
 00:11:42,150 --> 00:11:44,150
 [JAKE]
 Whatever.
-ເຖິງຢ່າງໃດກໍ່ຕາມ.
+ບໍ່ວ່າແມ່ນຫຍັງ.
 
 153
 00:11:44,650 --> 00:11:50,650
@@ -1436,7 +1436,7 @@ What?
 00:17:14,800 --> 00:17:16,800
 [DEACON]
 Let's make one.
-ພວກເຮົາຈະເຮັດຫນຶ່ງ.
+ສະບາຍດີ, ມາເຮັດໜຶ່ງກັນເດີ້.
 
 222
 00:17:17,300 --> 00:17:19,300
@@ -1503,7 +1503,7 @@ Yes. Adult films made by virgins for virgins.
 00:17:52,650 --> 00:17:54,650
 [MATT]
 With good cinematography.
-ດ້ວຍຮູບຖ່າຍຮູບທີ່ດີ.
+ດ້ວຍການຖ່າຍຮູບດີໆ.
 
 233
 00:17:55,150 --> 00:18:00,400
@@ -1737,13 +1737,13 @@ Are you kidding? The camera loves you.
 00:20:23,450 --> 00:20:25,450
 [VIC]
 Seriously?
-ຈິງໃຈບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 270
 00:20:25,950 --> 00:20:27,950
 [MIKE]
 Absolutely.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 271
 00:20:28,450 --> 00:20:34,450
@@ -1987,7 +1987,7 @@ Okay, fine. Then I'm Sam ...  Slam. Sam Slam. The Back Door Man. Matt and Fred l
 00:23:11,150 --> 00:23:13,150
 [MATT]
 That name sucks.
-ຊື່ນັ້ນໂຊກຮ້າຍ.
+ຊື່ນັ້ນແມ່ນບໍ່ດີເລີຍ.
 
 309
 00:23:13,650 --> 00:23:19,650
@@ -2323,7 +2323,7 @@ We're on business, he's on vacation. He hands the i.d.'s back.
 00:27:12,200 --> 00:27:14,200
 [BOUNCER]
 Well, "tiki-alohi-noa-lohi."
-ດີ,"tiki-alohi-noa-lohi."
+ແມ່ນແລ້ວ,"ຕິກີ - ອາໂລຮີ - ໂນອາ - ໂລຮີ".
 
 361
 00:27:14,700 --> 00:27:16,700
@@ -2553,7 +2553,7 @@ Actually, we're filmmakers. We're here looking for new talent.
 00:29:25,500 --> 00:29:27,500
 [AMERICAN FLAG STRIPPER]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 398
 00:29:28,000 --> 00:29:32,900
@@ -2605,7 +2605,7 @@ Aren't you? You know we're going to need two forms of i.d. to prove you're over 
 00:30:00,000 --> 00:30:02,000
 [ASHLEY]
 I'm eighteen. Don't worry.
-ຂ້ອຍອາຍຸສິບແປດປີ. ຢ່າກັງວົນ.
+ຂ້ອຍອາຍຸ 18 ປີ ບໍ່ຕ້ອງກັງວົນເດີ້.
 
 406
 00:30:02,500 --> 00:30:04,500
@@ -2834,7 +2834,7 @@ No.
 00:32:32,400 --> 00:32:34,400
 [FRED]
 Are you crazy?
-ເຈົ້າໂຊກຮ້າຍບໍ?
+ເຈົ້າໂງ່ບໍ່?
 
 442
 00:32:34,900 --> 00:32:40,900
@@ -3177,7 +3177,7 @@ Action... Jake finally whips off his underwear and faces Ashley.
 00:36:05,700 --> 00:36:07,700
 [ASHLEY]
 That's it?
-ນັ້ນແມ່ນມັນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 496
 00:36:08,200 --> 00:36:10,200
@@ -3296,7 +3296,7 @@ No. You do it. A beat.
 00:37:23,850 --> 00:37:25,850
 [MATT]
 Fred.
-ຟຣີດ.
+ແຟຣດ
 
 515
 00:37:26,350 --> 00:37:28,350
@@ -3566,7 +3566,7 @@ Listen. Mark and J.T. are having a party tonight. You want to meet me there?
 00:40:24,300 --> 00:40:26,300
 [DEACON]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 557
 00:40:26,800 --> 00:40:28,800
@@ -3785,7 +3785,7 @@ You know, Rachael's coming back from Paris in a couple of weeks.
 00:42:42,750 --> 00:42:44,750
 [DEACON]
 So?
-ສະນັ້ນ?
+ແມ່ນແລ້ວບໍ່?
 
 592
 00:42:45,250 --> 00:42:48,750
@@ -3996,13 +3996,13 @@ Yeah, it'll be a great shot. Fred takes off his shorts and walks over to the oth
 00:45:08,450 --> 00:45:10,450
 [FRED]
 Hey.
-ເຮ້
+ສະບາຍດີ
 
 625
 00:45:10,950 --> 00:45:12,950
 [DEACON]
 S'up?
-ເຈົ້າຂຶ້ນບໍ?
+ສະບາຍດີບໍ່?
 
 626
 00:45:13,450 --> 00:45:15,450
@@ -4222,7 +4222,7 @@ How's Naomi?
 00:47:27,300 --> 00:47:29,300
 [DEACON]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 661
 00:47:29,800 --> 00:47:32,600
@@ -4998,7 +4998,7 @@ Fine. Whatever. Let's get started. I'm sure she'll be really helpful. Coop comes
 00:56:17,950 --> 00:56:19,950
 [COOP]
 Oh, hey, Naomi.
-ໂອ້, ເຮ້, ໂນາໂມຍ.
+ສະບາຍດີ ນາໂມຍ
 
 782
 00:56:20,450 --> 00:56:23,250
@@ -5273,7 +5273,7 @@ Oh. Okay. Maybe later. Listen, Ashley. I want to ask you something... personal. 
 00:59:16,000 --> 00:59:18,000
 [ASHLEY]
 Uh huh.
-ໂອ້ ຮາ.
+ແມ່ນແລ້ວ.
 
 825
 00:59:18,500 --> 00:59:20,600
@@ -5285,7 +5285,7 @@ You know Deacon is only seventeen.
 00:59:21,100 --> 00:59:23,100
 [ASHLEY]
 Uh huh.
-ໂອ້ ຮາ.
+ແມ່ນແລ້ວ.
 
 827
 00:59:23,600 --> 00:59:29,600
@@ -5669,7 +5669,7 @@ So, Deacon. How'd you think you did on your midterms?
 01:03:41,600 --> 01:03:43,600
 [DEACON]
 Fine.
-ດີແລ້ວ.
+ບໍ່ເປັນຫຍັງ.
 
 887
 01:03:44,100 --> 01:03:50,100
@@ -6360,7 +6360,7 @@ I don't know. I thought you guys were having fun. I didn't want to be the wuss. 
 01:11:21,600 --> 01:11:23,600
 [FRED]
 So what about the car?
-ສະນັ້ນລົດແນວໃດ?
+ແລ້ວລົດແມ່ນບໍ່?
 
 996
 01:11:24,100 --> 01:11:26,100
@@ -6441,7 +6441,7 @@ Hey, Ashley. Can I ask you a question?
 01:12:11,000 --> 01:12:13,000
 [ASHLEY]
 Sure.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 1009
 01:12:13,500 --> 01:12:17,000
@@ -6460,7 +6460,7 @@ Are you kidding? Come on, guys. You have it made. You're smart, funny, fun to be
 01:12:24,000 --> 01:12:26,000
 [MATT]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1012
 01:12:26,500 --> 01:12:32,500
@@ -6544,7 +6544,7 @@ Ashley. Deacon's ex.
 01:13:22,500 --> 01:13:24,500
 [WENDY]
 Seriously?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1025
 01:13:25,000 --> 01:13:28,150
@@ -6562,7 +6562,7 @@ No.
 01:13:31,150 --> 01:13:33,150
 [KELLY]
 I think so.  No.
-ຂ້ອຍຄິດວ່າເປັນ. ບໍ່.
+ຂ້ອຍຄິດແມ່ນແລ້ວ ບໍ່
 
 1028
 01:13:33,650 --> 01:13:39,650
@@ -6739,7 +6739,7 @@ I won't. You can tell people you dumped me if you want.
 01:15:23,950 --> 01:15:25,950
 [NAOMI]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 1056
 01:15:26,450 --> 01:15:28,450
@@ -6923,7 +6923,7 @@ What?!? The guys freak out, but Mike's gun keeps them in place.
 01:17:28,550 --> 01:17:30,550
 [VIC]
 Start with him.
-ເລີ່ມຕົ້ນດ້ວຍລາວ.
+ເລີ່ມຈາກລາວເດີ້.
 
 1085
 01:17:31,050 --> 01:17:33,500
@@ -6997,7 +6997,7 @@ What?
 01:18:07,950 --> 01:18:10,050
 [MIKE]
 That's a lot of product, Vic.
-ນັ້ນແມ່ນຜະລິດຕະພັນຫຼາຍ, ວິກ.
+ນັ້ນແມ່ນສິນຄ້າຫຼາຍແທ້ໆ, ວິກ.
 
 1097
 01:18:10,550 --> 01:18:13,350
@@ -7016,7 +7016,7 @@ We'll give you the website if you let us go. Vic looks at Mike for a second, the
 01:18:20,350 --> 01:18:22,350
 [VIC]
 Okay, so what's your cut?
-ດີແລ້ວ, ສະນັ້ນສ່ວນແບ່ງຂອງທ່ານແມ່ນຫຍັງ?
+ແມ່ນແລ້ວ, ສ່ວນຂອງເຈົ້າແມ່ນຫຍັງ?
 
 1100
 01:18:22,850 --> 01:18:24,850
@@ -7223,7 +7223,7 @@ I can explain.
 01:20:23,950 --> 01:20:25,950
 [MR. LEWIS]
 Explain? Explain?
-ຄໍາອະທິບາຍ? ຄໍາ ອະທິບາຍບໍ?
+ແຈ້ງໃຫ້ຟັງບໍ່? ແຈ່ມແຈ້ງບໍ່?
 
 1133
 01:20:26,450 --> 01:20:28,900
@@ -7254,7 +7254,7 @@ I knew we shouldn't have let him have a girlfriend--
 01:20:44,950 --> 01:20:46,950
 [MR. LEWIS]
 Let alone two--
-ບໍ່ວ່າສອງຄົນ...
+ບໍ່ຕ້ອງເວົ້າເຖິງສອງຄົນເລີຍ...
 
 1138
 01:20:47,450 --> 01:20:52,700
@@ -7512,7 +7512,7 @@ I thought I told you not to call me that anymore.
 01:23:48,850 --> 01:23:51,650
 [JAKE]
 What are you going to do about it?
-ເຈົ້າຈະເຮັດຫຍັງກັບມັນ?
+ເຈົ້າຈະທໍາແນວໃດກັບເລື່ອງນີ້?
 
 1178
 01:23:52,150 --> 01:23:58,150

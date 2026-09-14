@@ -625,7 +625,7 @@ She turns, startled. Feeling guilty, Margaret rushes from Walter. Busying hersel
 00:07:06,300 --> 00:07:08,300
 [WALTER]
 What's wrong...?
-ມີຫຍັງເກີດຂຶ້ນ...?
+ມີຫຍັງບໍ່ດີ...?
 
 99
 00:07:08,800 --> 00:07:14,400
@@ -1136,7 +1136,7 @@ Your work is very powerful. There's so much emotion in those eyes. OUCH! Walter'
 00:13:02,300 --> 00:13:04,300
 [TIPSY LADY]
 Is something wrong?
-ມີຫຍັງຜິດບໍ?
+ມີຫຍັງບໍ່ດີບໍ່?
 
 178
 00:13:04,800 --> 00:13:09,000
@@ -1235,7 +1235,7 @@ It was a misunderstanding. And then, I didn't want to jinx the sale.
 00:14:12,350 --> 00:14:14,350
 [MARGARET]
 Don't ever do it again.
-ຢ່າເຮັດມັນອີກເທື່ອຫນຶ່ງ.
+ຢ່າທໍາແບບນີ້ອີກເລີຍ.
 
 193
 00:14:14,850 --> 00:14:20,850
@@ -1869,7 +1869,7 @@ Oh "we" did?? And why would "we" do that??
 00:21:53,950 --> 00:21:55,950
 [MARGARET]
 Well... he's more established.
-ດີ... ລາວໄດ້ຮັບການສ້າງຕັ້ງຂຶ້ນຫຼາຍຂຶ້ນ.
+ແມ່ນແລ້ວ... ລາວມີຄວາມໝັ້ນຄົງຫຼາຍຂຶ້ນແລ້ວ.
 
 290
 00:21:56,450 --> 00:22:02,450
@@ -1902,7 +1902,7 @@ Ah, my sweet! Are you enjoying the scene?
 00:22:18,150 --> 00:22:20,150
 [EVERYONE!]
 40.
-40.
+ສີ່ສິບ.
 
 295
 00:22:20,650 --> 00:22:26,650
@@ -2279,7 +2279,7 @@ Whew! Something smells in here. You should open a window. Margaret blinks, a bit
 00:26:53,950 --> 00:26:55,950
 [MARGARET]
 What time is it?
-ເວລາເທົ່າໃດ?
+ເວລາແມ່ນບໍ່?
 
 352
 00:26:56,450 --> 00:27:01,000
@@ -2398,7 +2398,7 @@ Who'd you tell about the Big Eyes?
 00:28:03,450 --> 00:28:05,450
 [MARGARET]
 Nobody!
-ບໍ່ມີໃຜ!
+ບໍ່ໃຜເລີຍ!
 
 371
 00:28:05,950 --> 00:28:08,750
@@ -2572,7 +2572,7 @@ I'm fine, Dad. I lost a tooth.
 00:30:03,900 --> 00:30:06,350
 [WALTER]
 Really? Did you get in a fight?
-ແທ້ຈິງບໍ? ເຈົ້າໄດ້ເຂົ້າໃນການຕໍ່ສູ້ບໍ?
+ແມ່ນແລ້ວບໍ່? ເຈົ້າໄດ້ຕໍ່ສູ້ກັນບໍ່?
 
 398
 00:30:06,850 --> 00:30:08,850
@@ -2735,7 +2735,7 @@ No, that's not fair! The floor's fine for me. Jane smiles nervously. She stares 
 00:31:43,200 --> 00:31:45,200
 [JANE]
 Do you live far away?
-ເຈົ້າຢູ່ຫ່າງໄກບໍ?
+ເຈົ້າອາໄສຢູ່ໄກບໍ່?
 
 424
 00:31:45,700 --> 00:31:48,150
@@ -2828,7 +2828,7 @@ I painted it!
 00:32:36,600 --> 00:32:38,600
 [RICH MAN]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 439
 00:32:39,100 --> 00:32:41,100
@@ -3036,7 +3036,7 @@ When we moved in, I thought a wet bar was extravagant... but it's surprising how
 00:35:02,350 --> 00:35:04,350
 [DEE-ANN]
 How's Walter?
-ວາລເຕີເປັນແນວໃດ?
+ວາລເຕີສະບາຍດີບໍ່?
 
 471
 00:35:04,850 --> 00:35:08,700
@@ -3525,7 +3525,7 @@ YEAH YEAH! Point taken. I'm standing here naked and humiliated in front of you. 
 00:40:50,050 --> 00:40:52,050
 [MARGARET]
 How old is the subject?
-ຫົວຂໍ້ອາຍຸເທົ່າໃດ?
+ຫົວຂໍ້ແມ່ນອາຍຸຫຼາຍປານໃດ?
 
 546
 00:40:52,550 --> 00:40:54,650
@@ -3602,7 +3602,7 @@ Walter agitatedly paces, circling the stacks of PRINTS.
 00:41:41,750 --> 00:41:43,850
 [WALTER]
 How many posters are back here?
-ມີປ້າຍຢູ່ບ່ອນນີ້ຫຼາຍປານໃດ?
+ມີໂພສເຕີຫຼາຍປານໃດຢູ່ຂ້າງຫຼັງນີ້?
 
 558
 00:41:44,350 --> 00:41:46,450
@@ -4202,7 +4202,7 @@ You got all that paint and turpentine in there? Well I'm gonna burn you up! He p
 00:48:49,750 --> 00:48:52,200
 [WALTER]
 You're gonna blow like an atom bomb!
-ເຈົ້າຈະແຕກຂຶ້ນຄືກັບລະເບີດອະໂຕມ!
+ເຈົ້າຈະລະເບີດຂຶ້ນເໝືອນລະ ເບີດແອັດມິກ!
 
 650
 00:48:52,700 --> 00:48:58,700
@@ -4298,8 +4298,7 @@ Walter, I want a divorce.
 00:49:49,650 --> 00:49:55,650
 [WALTER]
 Whew. It hurts to hear you say those words. Silence. He is feigning "hurt feelings." Struggling for a response. Finally, his thoughts sharpen up, smart and shrewd.
-ໂວ້. ມັນເຈັບປວດທີ່ຈະໄດ້ຍິນເຈົ້າເວົ້າ ຄໍາ ເວົ້າເຫຼົ່ານັ້ນ. ຄວາມງຽບສະຫງົບ. ລາວ ກໍາ
-ລັງປອມແປງວ່າ"ຄວາມຮູ້ສຶກທີ່ບາດເຈັບ." ການຕໍ່ສູ້ເພື່ອຕອບໂຕ້. ສຸດທ້າຍ, ຄວາມຄິດຂອງລາວແຊກແຊງ, ສະຫລາດແລະສະຫຼາດ.
+ໂວ້. ມັນເຈັບປວດທີ່ຈະໄດ້ຍິນທ່ານເວົ້າຄໍາເຫລົ່ານັ້ນ. ຄວາມງຽບສະຫງົບ. ລາວ ກໍາ ລັງປອມແປງ"ຄວາມຮູ້ສຶກທີ່ເຈັບປ່ວຍ". ກໍາ ລັງຕໍ່ສູ້ເພື່ອຕອບໂຕ້. ສຸດທ້າຍ, ຄວາມຄິດຂອງລາວແຊບຂຶ້ນ, ສະຫລາດແລະສະຫຼາດ.
 
 665
 00:49:56,150 --> 00:49:58,950
@@ -5228,7 +5227,7 @@ Mr. Keane?
 01:01:19,550 --> 01:01:21,550
 [WALTER]
 I'm... setting the mood.
-ຂ້ອຍ ກໍາ ລັງ... ກໍາ ນົດສະພາບແວດລ້ອມ.
+ຂ້ອຍແມ່ນ... ກໍາ ນົດບັນຍາກາດ.
 
 807
 01:01:22,050 --> 01:01:24,150

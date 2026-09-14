@@ -428,7 +428,7 @@ It's obviously an aborticide.
 00:04:48,600 --> 00:04:50,600
 [LARCH]
 Obviously.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 70
 00:04:51,100 --> 00:04:53,100
@@ -466,7 +466,7 @@ Good boy. Good job. And you call yourself "not a doctor"!  Keep an eye on her--s
 00:05:10,850 --> 00:05:12,950
 [LARCH]
 Take care of that, will you?
-ເອົາໃຈໃສ່ມັນ, ເຈົ້າຈະເຮັດບໍ?
+ເຈົ້າຈະເບິ່ງແຍງບໍ່?
 
 76
 00:05:13,450 --> 00:05:15,450
@@ -540,7 +540,7 @@ Fuzzy is not uncommon. I tell you, there's something about the premature babies 
 00:05:54,750 --> 00:05:56,750
 [HOMER]
 I haven't read that.
-ຂ້ອຍບໍ່ໄດ້ອ່ານມັນ.
+ຂ້ອຍບໍ່ເຄີຍອ່ານເລີຍ.
 
 88
 00:05:57,250 --> 00:06:03,250
@@ -940,7 +940,7 @@ Dr. Larch wouldn't let just anyone take *any* of us!
 00:09:46,600 --> 00:09:48,600
 [HOMER]
 That's true.
-ນັ້ນແມ່ນຄວາມຈິງ.
+ແມ່ນແລ້ວ.
 
 152
 00:09:49,100 --> 00:09:51,200
@@ -1186,7 +1186,7 @@ He doesn't think she's his mother, Fuzzy.
 00:12:08,050 --> 00:12:10,150
 [FUZZY]
 He does so! He *loves* her!
-ລາວເຮັດແບບນັ້ນ! ລາວ * ຮັກນາງ!
+ແມ່ນແລ້ວ! ລາວ * ຮັກ * ນາງແທ້ໆ!
 
 192
 00:12:10,650 --> 00:12:12,750
@@ -1483,7 +1483,7 @@ It wasn't me!
 00:14:58,950 --> 00:15:01,050
 [LARCH]
 Did you go to someone else?
-ເຈົ້າໄປຫາຄົນອື່ນບໍ?
+ເຈົ້າໄດ້ໄປຫາໃຜບໍ່?
 
 240
 00:15:01,550 --> 00:15:06,450
@@ -1745,7 +1745,7 @@ So, Mrs...
 00:17:37,450 --> 00:17:39,450
 [CANDY]
 Candy. Candy Kendall.
-ແຄນດີ. ແກນດີ ເຄນດາລ.
+ແຄນດີ ແຄັນດາລ.
 
 282
 00:17:39,950 --> 00:17:41,950
@@ -1763,7 +1763,7 @@ How many months are you?
 00:17:44,950 --> 00:17:46,950
 [CANDY]
 Two.
-ສອງ.
+2.
 
 285
 00:17:47,450 --> 00:17:51,300
@@ -1887,7 +1887,7 @@ Oh, well. I don't imagine there's any strain or stress around *here*!
 00:18:56,600 --> 00:18:58,600
 [WALLY]
 How is she doing?
-ນາງເປັນແນວໃດ?
+ນາງສະບາຍດີບໍ່?
 
 305
 00:18:59,100 --> 00:19:01,100
@@ -2029,7 +2029,7 @@ Cape Kenneth...
 00:20:16,800 --> 00:20:18,800
 [HOMER]
 That sounds fine.
-ມັນເບິ່ງຄືວ່າດີ.
+ນັ້ນແມ່ນບໍ່ເປັນຫຍັງເລີຍ.
 
 328
 00:20:19,300 --> 00:20:25,300
@@ -2055,7 +2055,7 @@ In other parts of the world, I suppose there are other ways.
 00:20:37,000 --> 00:20:39,000
 [HOMER]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 332
 00:20:39,500 --> 00:20:45,500
@@ -2355,7 +2355,7 @@ Where's Mandalay?
 00:23:36,500 --> 00:23:38,500
 [CANDY]
 Burma!
-ບີຣາມາ!
+ບີມານາມາ!
 
 380
 00:23:39,000 --> 00:23:41,000
@@ -2473,7 +2473,7 @@ It's called the Burma run. It's about a seven-hour round-trip flight between Ind
 00:24:45,950 --> 00:24:47,950
 [HOMER]
 At what altitude?
-ຢູ່ຄວາມສູງໃດ?
+ໃນລະດັບສູງເທົ່າໃດ?
 
 399
 00:24:48,450 --> 00:24:53,350
@@ -2519,7 +2519,7 @@ Uh, look... if you're serious about wanting a job, picking apples isn't that bor
 00:25:16,950 --> 00:25:19,050
 [HOMER]
 Oh, I would love that, Wally.
-ໂອ້, ຂ້ອຍຢາກເຮັດແບບນັ້ນ, ວາລີ.
+ແມ່ນແລ້ວ, ຂ້ອຍຢາກໄດ້ຫຼາຍ, ວາລີ.
 
 406
 00:25:19,550 --> 00:25:23,400
@@ -2531,7 +2531,7 @@ I guess I'll see you around the orchards. Thanks for everything.
 00:25:23,900 --> 00:25:25,900
 [HOMER]
 Sure... I'll see you around.
-ແນ່ນອນ... ຂ້ອຍຈະເຫັນເຈົ້າຢູ່ອ້ອມຂ້າງ.
+ແມ່ນແລ້ວ... ຂ້ອຍຈະເຫັນກັນເດີ້.
 
 408
 00:25:26,400 --> 00:25:28,400
@@ -2575,7 +2575,7 @@ How do you do, Homer Wells...
 00:25:49,950 --> 00:25:51,950
 [HOMER]
 How do you do...
-ເຈົ້າເຮັດແນວໃດ...
+ສະບາຍດີ...
 
 415
 00:25:52,450 --> 00:25:55,950
@@ -2662,7 +2662,7 @@ Rose, this is Homer--Homer, this is Mr. Rose's daughter, Rose.
 00:26:42,550 --> 00:26:44,550
 [HOMER]
 Rose Rose?
-ໂຣຊສ໌ ໂຣສສ໌?
+ໂຣຊ໌ ໂຣສ໌ບໍ່?
 
 429
 00:26:45,050 --> 00:26:47,150
@@ -2680,7 +2680,7 @@ No, no--Homer is a new *picker*. He's going to stay here with you.
 00:26:52,700 --> 00:26:54,700
 [ROSE ROSE]
 He's stayin' *here*?
-ລາວຢູ່ບ່ອນນີ້ບໍ?
+ລາວຈະຢູ່ * ທີ່ນີ້ * ແມ່ນບໍ່?
 
 432
 00:26:55,200 --> 00:26:59,050
@@ -3133,7 +3133,7 @@ That's better. I can tell you got yourself some education. Them's good hands you
 00:31:33,550 --> 00:31:35,550
 [HOMER]
 I guess so...
-ຂ້ອຍຄິດວ່າເປັນ...
+ຂ້ອຍຄິດແມ່ນແລ້ວ...
 
 504
 00:31:36,050 --> 00:31:38,050
@@ -3334,7 +3334,7 @@ Where's your manners? Make room for Homer, so's he can enjoy the view.
 00:33:41,450 --> 00:33:43,450
 [MUDDY]
 What view?
-ທັດສະນະໃດ?
+ຄວາມເຫັນແມ່ນຫຍັງ?
 
 536
 00:33:43,950 --> 00:33:47,450
@@ -4530,7 +4530,7 @@ Just tell me. Do you want me to go? Do you want me to stay?
 00:46:47,550 --> 00:46:49,550
 [CANDY]
 It will be okay.
-ມັນຈະດີດີ.
+ບໍ່ເປັນຫຍັງເລີຍ.
 
 724
 00:46:50,050 --> 00:46:52,050
@@ -4626,7 +4626,7 @@ I don't know.  Just promise me one thing.
 00:47:52,700 --> 00:47:54,700
 [HOMER]
 Uh... sure.
-ໂອ້... ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 739
 00:47:55,200 --> 00:48:00,800
@@ -4700,7 +4700,7 @@ Now, now, Jack--that just ain't right.
 00:48:32,500 --> 00:48:34,950
 [ROSE ROSE]
 You just stay out of trouble, Homer!
-ເຈົ້າພຽງແຕ່ຢູ່ຫ່າງຈາກຄວາມຫຍຸ້ງຍາກ, ໂຮມເປີ!
+ເຈົ້າພຽງແຕ່ບໍ່ໃຫ້ມີບັນຫາເລີຍ, ໂຮມເປີ!
 
 751
 00:48:35,450 --> 00:48:37,450
@@ -4862,7 +4862,7 @@ It's that Candy, too...
 00:50:33,050 --> 00:50:35,150
 [MR. ROSE]
 Don't this place look like home?
-ບ່ອນນີ້ເບິ່ງຄືວ່າເຮືອນບໍ?
+ບ່ອນນີ້ບໍ່ເໝືອນກັບບ້ານບໍ່?
 
 776
 00:50:35,650 --> 00:50:37,650
@@ -5000,7 +5000,7 @@ She ain't hungry every mornin' 'cause she's sick every mornin'.
 00:52:00,000 --> 00:52:02,000
 [HOMER]
 You okay, Rose?
-ເຈົ້າດີບໍ, ໂຣຊສ໌?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ່, ໂຣສ?
 
 798
 00:52:02,500 --> 00:52:05,650
@@ -5279,7 +5279,7 @@ I didn't see where you was pickin' this mornin', Homer, but you musta worked up 
 00:54:50,350 --> 00:54:52,350
 [HOMER]
 Is it true?
-ມັນເປັນຄວາມຈິງບໍ?
+ແມ່ນບໍ່?
 
 843
 00:54:52,850 --> 00:54:55,300
@@ -5452,7 +5452,7 @@ It's encephalitis B. He's recovering at Mount Lavinia Hospital, Ceylon.  Uh... C
 00:56:51,250 --> 00:56:53,250
 [MAJOR WINSLOW]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 870
 00:56:53,750 --> 00:56:56,200
@@ -5562,7 +5562,7 @@ No, don't--that's something. Nothing is nothing.  Don't even look at me. I want.
 00:57:51,350 --> 00:57:53,350
 [CANDY]
 ...to do nothing.
-... ເພື່ອບໍ່ເຮັດຫຍັງເລີຍ.
+...ບໍ່ຕ້ອງທໍາຫຍັງເລີຍ.
 
 888
 00:57:53,850 --> 00:57:57,000
@@ -5619,7 +5619,7 @@ For God's sake, Homer, Wally's been shot down!
 00:58:28,450 --> 00:58:30,450
 [HOMER]
 I know, I'm sorry.
-ຂ້ອຍຮູ້ແລ້ວ, ຂ້ອຍຂໍໂທດ.
+ແມ່ນແລ້ວ, ຂໍໂທດເດີ.
 
 897
 00:58:30,950 --> 00:58:32,950
@@ -5967,7 +5967,7 @@ Please... that's enough. I *loved* you, too--you know I did.
 01:02:01,850 --> 01:02:03,850
 [HOMER]
 "...did." Well, okay.
-ຂ້ອຍເຮັດແລ້ວ. ດີ, ດີ.
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ.
 
 953
 01:02:04,350 --> 01:02:06,350
@@ -6136,7 +6136,7 @@ This came for you a couple of days ago. Olive asked me to bring it. With everyth
 01:04:02,150 --> 01:04:04,150
 [HOMER]
 Sure. Thanks.
-ແນ່ນອນ. ຂອບໃຈ.
+ແມ່ນແລ້ວ. ຂອບໃຈເດີ.
 
 979
 01:04:04,650 --> 01:04:09,900

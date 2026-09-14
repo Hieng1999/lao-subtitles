@@ -21,13 +21,13 @@ Flight 784 for San Francisco is now ready for boarding at inmate number 66578, G
 00:00:21,200 --> 00:00:23,200
 [COLE]
 Ssssst!  Jose, what's going on?
-ໂຊເຊ, ເກີດຫຍັງຂຶ້ນ?
+ສະບາຍດີ ໂຊເຊ, ມີຫຍັງເກີດຂຶ້ນບໍ່?
 
 5
 00:00:23,700 --> 00:00:25,700
 [JOSE]
 "Volunteers" again.
-ພວກອາສາສະຫມັກອີກເທື່ອຫນຶ່ງ.
+"ສະໝັກໃຈ" ອີກເທື່ອໜຶ່ງ.
 
 6
 00:00:26,200 --> 00:00:28,200
@@ -187,7 +187,7 @@ We appreciate you volunteering.  You're a very good observer, Cole.
 00:01:47,800 --> 00:01:49,800
 [COLE]
 Uh, thank you.
-ໂອ້, ຂອບໃຈ.
+ແມ່ນແລ້ວ ຂອບໃຈເດີ.
 
 32
 00:01:50,300 --> 00:01:52,400
@@ -257,7 +257,7 @@ Not to volunteer could be a real mistake.
 00:02:29,500 --> 00:02:31,500
 [MICROBIOLOGIST]
 Definitely a mistake!
-ມັນເປັນຄວາມຜິດພາດຢ່າງແນ່ນອນ!
+ແນ່ນອນວ່າແມ່ນຄວາມຜິດ!
 
 43
 00:02:32,000 --> 00:02:38,000
@@ -551,7 +551,7 @@ Do you know what year it is?
 00:05:25,050 --> 00:05:27,050
 [COLE]
 What year is it?
-ມັນເປັນປີໃດ?
+ແມ່ນປີໃດເດີ້?
 
 90
 00:05:27,550 --> 00:05:30,000
@@ -807,7 +807,7 @@ Mr. Cole -- last night you told Dr. Railly you thought it was...  1995. ... How 
 00:08:34,000 --> 00:08:36,450
 [COLE]
 Hey, I'm not going to hurt anybody.
-ເຮ້, ຂ້ອຍຈະບໍ່ເຮັດໃຫ້ໃຜເຈັບປວດ.
+ສະບາຍດີ, ຂ້ອຍຈະບໍ່ທໍາຮ້າຍໃຜເລີຍ.
 
 129
 00:08:36,950 --> 00:08:42,950
@@ -948,7 +948,7 @@ It was some lady.  She didn't know anything.
 00:10:18,650 --> 00:10:20,750
 [RAILLY]
 Perhaps it was a wrong number...
-ບາງທີມັນເປັນເລກທີ່ບໍ່ຖືກຕ້ອງ...
+ບາງທີແມ່ນໝາຍເລກທີ່ຜິດ...
 
 151
 00:10:21,250 --> 00:10:25,100
@@ -1034,7 +1034,7 @@ In the 18th century there was no such thing!  Nobody'd ever imagined such a thin
 00:11:23,300 --> 00:11:25,300
 [COLE]
 I'm not crazy.
-ຂ້ອຍບໍ່ແມ່ນຄົນໂຊກຮ້າຍ.
+ຂ້ອຍບໍ່ໂງ່ເລີຍ.
 
 164
 00:11:25,800 --> 00:11:31,800
@@ -1483,7 +1483,7 @@ Did you see it?
 00:16:12,350 --> 00:16:14,350
 [COLE]
 Uh, no, sir.  I...
-ໂອ້, ບໍ່, ທ້າວ. ຂ້ອຍ...
+ແມ່ນແລ້ວ ບໍ່ເດີ. ຂ້ອຍ...
 
 235
 00:16:14,850 --> 00:16:18,700
@@ -1501,7 +1501,7 @@ Him?  You saw that man?
 00:16:21,700 --> 00:16:24,500
 [COLE]
 Uh, I think so.  In the mental hospital.
-ໂອ້, ຂ້ອຍຄິດວ່າເປັນ. ໃນໂຮງຫມໍຈິດໃຈ.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດແມ່ນແລ້ວ. ຢູ່ໂຮງໝໍຈິດໃຈ.
 
 238
 00:16:25,000 --> 00:16:27,100
@@ -2310,7 +2310,7 @@ Shut up!
 00:25:04,150 --> 00:25:06,150
 [COLE]
 Mason???
-ແມຊອນ???
+ແມຊັນບໍ່???
 
 366
 00:25:06,650 --> 00:25:08,650
@@ -2613,7 +2613,7 @@ They find him?
 00:28:13,050 --> 00:28:15,050
 [SECOND AGENT]
 Who??
-ໃຜ??
+ແມ່ນໃຜ?
 
 414
 00:28:15,550 --> 00:28:18,000
@@ -3710,7 +3710,7 @@ Hey!  Do you know what she's doing?
 00:40:26,400 --> 00:40:28,400
 [TEDDY]
 What's it say?
-ມັນຂຽນວ່າແນວໃດ?
+ມັນຂຽນຫຍັງໄວ້?
 
 586
 00:40:28,900 --> 00:40:30,900
@@ -3839,7 +3839,7 @@ Now I have to get going -- do my part. You guys check all this stuff out and loa
 00:41:54,550 --> 00:41:57,000
 [FALE]
 He's seriously crazy -- you know that.
-ລາວໂຊກຮ້າຍຢ່າງຈິງຈັງ - ເຈົ້າຮູ້ແລ້ວ.
+ລາວແມ່ນໂງ່ແທ້ໆ - ເຈົ້າຮູ້ບໍ່.
 
 606
 00:41:57,500 --> 00:41:59,500
@@ -4120,7 +4120,7 @@ Just...just in case.  In case I'm not crazy...  That's how they find us.  By our
 00:45:01,050 --> 00:45:03,050
 [RAILLY]
 Push it tight!
-ກົດມັນຢ່າງເຂັ້ມງວດ!
+ແໜ້ນໆເດີ້!
 
 650
 00:45:03,550 --> 00:45:08,100
@@ -4203,7 +4203,7 @@ And this.  Anything else?
 00:45:53,100 --> 00:45:55,100
 [RAILLY]
 I guess that's it.
-ຂ້ອຍຄິດວ່າມັນແມ່ນມັນ.
+ຂ້ອຍຄິດແມ່ນແລ້ວ.
 
 663
 00:45:55,600 --> 00:45:58,400
@@ -4309,7 +4309,7 @@ I didn't believe her -- it seemed too crazy even for you.  But, just in case, I 
 00:46:59,400 --> 00:47:01,400
 [JEFFREY]
 What...virus?
-ໄວຣັສໃດ?
+ແມ່ນແລ້ວ... ໄວຣັສຫຍັງ?
 
 680
 00:47:01,900 --> 00:47:06,450
@@ -4327,7 +4327,7 @@ What virus are we talking about, Dad?
 00:47:09,900 --> 00:47:11,900
 [DR. MASON]
 You're insane, Jeffrey.
-ເຈົ້າໂຊກຮ້າຍ, ເຈຟຣີ.
+ເຈົ້າແມ່ນໂງ່ແລ້ວ ເຈຟຣີ.
 
 683
 00:47:12,400 --> 00:47:18,400
@@ -4430,7 +4430,7 @@ You said you'd never seen the ocean...
 00:48:20,650 --> 00:48:22,650
 [COLE]
 Kathryn?!
-ແຄຕຣິນບໍ?
+ແຄທຣິນແມ່ນບໍ່?
 
 699
 00:48:23,150 --> 00:48:26,300
@@ -4468,7 +4468,7 @@ I remember you...like this.  I feel I've known you before.  I feel I've always k
 00:48:46,350 --> 00:48:48,350
 [RAILLY]
 Nine thirty
-ໂມງເກົ້າສິບ
+9:30
 
 705
 00:48:48,850 --> 00:48:50,850
@@ -4532,7 +4532,7 @@ You can hear it on the radio all the stations...
 00:49:27,050 --> 00:49:29,150
 [RAILLY]
 Maybe it's going to be okay.
-ບາງທີມັນຈະດີດີ.
+ບາງທີມັນບໍ່ເປັນຫຍັງເລີຍ.
 
 715
 00:49:29,650 --> 00:49:35,650
@@ -4788,7 +4788,7 @@ They gave you a pardon, man.  Whatdaya want?
 00:52:25,850 --> 00:52:27,950
 [COLE]
 Who am I supposed to shoot?
-ຂ້ອຍຄວນຍິງໃຜ?
+ຂ້ອຍຈະຕ້ອງຍິງໃຜແດ່?
 
 755
 00:52:28,450 --> 00:52:34,450
@@ -4845,7 +4845,7 @@ I'm going to have to ask you to open this, sir.
 00:53:04,000 --> 00:53:06,000
 [DR. PETERS]
 Open it?  Of course.
-ເປີດມັນບໍ? ແນ່ນອນ.
+ເປີດບໍ່? ແມ່ນແລ້ວ.
 
 764
 00:53:06,500 --> 00:53:11,750

@@ -554,7 +554,7 @@ David?
 00:06:34,200 --> 00:06:36,200
 [WOMAN]
 I better go.
-ຂ້ອຍຄວນໄປ.
+ຂ້ອຍຕ້ອງໄປເດີ້.
 
 88
 00:06:36,700 --> 00:06:42,700
@@ -896,7 +896,7 @@ Something got into me. He means her. They stare at each other.
 00:10:37,750 --> 00:10:40,200
 [DAVID]
 What's the deal with you and argyles?
-ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າແລະ Argyles?
+ເຈົ້າກັບແອຣກິລແມ່ນຫຍັງ?
 
 141
 00:10:40,700 --> 00:10:46,700
@@ -1364,7 +1364,7 @@ If it were me, I'd level with him.
 00:16:08,900 --> 00:16:10,900
 [RIC:HARDSON]
 Completely?
-ຢ່າງສົມບູນບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 213
 00:16:11,400 --> 00:16:17,400
@@ -2149,7 +2149,7 @@ And...I might have to push the speech.
 00:24:53,550 --> 00:24:55,550
 [CHARLIE]
 What? Are you crazy?!
-ຫຍັງ? ເຈົ້າໂຊກຮ້າຍບໍ?!
+ແມ່ນບໍ່? ເຈົ້າໂງ່ບໍ່?!
 
 335
 00:24:56,050 --> 00:24:58,850
@@ -2205,7 +2205,7 @@ I don't think you should cancel your speech. What if I don't like you at the end
 00:25:29,000 --> 00:25:31,000
 [DAVID]
 I'll take my chances.
-ຂ້ອຍຈະເອົາໂອກາດຂອງຂ້ອຍ.
+ຂ້ອຍຈະໃຊ້ຄວາມສ່ຽງໄດ້ເລີຍ.
 
 344
 00:25:31,500 --> 00:25:36,050
@@ -3534,7 +3534,7 @@ He's getting out of range!
 00:40:02,500 --> 00:40:04,500
 [CHEF]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 554
 00:40:05,000 --> 00:40:08,500
@@ -3596,7 +3596,7 @@ It goes without saying that I'll kill you if you hurt her.
 00:40:37,550 --> 00:40:39,550
 [MCCRADY]
 There are several next ones--
-ມີຫຼາຍຄົນຕໍ່ໄປ...
+ມີອີກຫຼາຍຢ່າງຕໍ່ໄປ -
 
 564
 00:40:40,050 --> 00:40:42,850
@@ -4034,7 +4034,7 @@ You said you had trouble feeling.
 00:45:40,900 --> 00:45:42,900
 [DAVID]
 You're insane.
-ເຈົ້າໂຊກຮ້າຍ.
+ເຈົ້າແມ່ນໂງ່ແລ້ວ.
 
 632
 00:45:43,400 --> 00:45:45,850
@@ -4403,7 +4403,7 @@ Hello? :Why, are you calling?
 00:49:46,450 --> 00:49:48,450
 [DAVID]
 What's wrong..
-ມີຫຍັງເກີດຂຶ້ນ..
+ມີຫຍັງບໍ່ດີ...
 
 689
 00:49:48,950 --> 00:49:51,050
@@ -5001,7 +5001,7 @@ It a sprain.
 00:56:53,950 --> 00:56:55,950
 [DAVID]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 781
 00:56:56,450 --> 00:56:58,450
@@ -5060,7 +5060,7 @@ I...I have to go make a few calls. His voice cracks. Elise notices.
 00:57:37,500 --> 00:57:39,500
 [ELISE]
 You okay?
-ເຈົ້າດີບໍ?
+ບໍ່ເປັນຫຍັງບໍ່?
 
 790
 00:57:40,000 --> 00:57:42,000
@@ -5691,7 +5691,7 @@ I'm going for the blue door.
 01:05:01,750 --> 01:05:03,750
 [HARRY]
 Of course... MUSIC CUE .
-ແນ່ນອນ... ຄໍາ ແນະ ນໍາ ດົນຕີ.
+ແມ່ນແລ້ວ... CUE ດົນຕີ.
 
 888
 01:05:04,250 --> 01:05:06,250
@@ -5796,7 +5796,7 @@ We're next. Will you check on her?
 01:06:02,050 --> 01:06:04,050
 ['DAM]
 It's an emergency.
-ມັນເປັນສຸກເສີນ.
+ແມ່ນຄວາມສຸກເສີນເດີ້.
 
 905
 01:06:04,550 --> 01:06:06,550
@@ -6212,7 +6212,7 @@ Hello, David... Good morning, Elise. His voice is gentle, paternal.
 01:10:42,750 --> 01:10:44,750
 [DAVID]
 Who are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 970
 01:10:45,250 --> 01:10:49,450

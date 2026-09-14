@@ -637,7 +637,7 @@ Once you buy a prize, it's yours and yours to keep.
 00:07:36,900 --> 00:07:39,350
 [FLICK]
 Got it, got it!  Baby on board!
-ຂ້ອຍເຂົ້າໃຈແລ້ວ, ຂ້ອຍເຂົ້າໃຈ! ເດັກນ້ອຍຢູ່ເທິງເຮືອ!
+ແມ່ນແລ້ວ, ແມ່ນແລ້ວ! ເດັກນ້ອຍຂຶ້ນມາແລ້ວ!
 
 100
 00:07:39,850 --> 00:07:41,850
@@ -867,7 +867,7 @@ rock the workshop, knocking the agents back.
 00:10:04,450 --> 00:10:06,450
 [CUMBERLAND]
 Rise and shine, sleepyhead.
-ຕື່ນຂຶ້ນແລະສ່ອງແສງ, ຫົວນອນ.
+ສະບາຍດີເດີ້, ຄົນນອນຫຼັບ.
 
 136
 00:10:06,950 --> 00:10:08,950
@@ -982,7 +982,7 @@ There's nothing to tell.  They exist.
 00:11:24,350 --> 00:11:26,450
 [VANCE]
 And are you one of them?
-ແລະເຈົ້າເປັນຫນຶ່ງໃນພວກມັນບໍ?
+ແລະເຈົ້າແມ່ນໜຶ່ງໃນນັ້ນບໍ່?
 
 154
 00:11:26,950 --> 00:11:31,500
@@ -1344,7 +1344,7 @@ So my entrance back there -- what do you think?  Too flashy?  Right on the money
 00:15:40,900 --> 00:15:42,900
 [BLADE]
 Who are you people?
-ພວກເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 210
 00:15:43,400 --> 00:15:49,000
@@ -1637,7 +1637,7 @@ The movies are just a comforting fairytale compared to the real deal. There's no
 00:18:52,850 --> 00:18:54,850
 [BLADE]
 How early?
-ຕອນເຊົ້າປານໃດ?
+ໄວປານໃດແມ່ນບໍ່?
 
 256
 00:18:55,350 --> 00:18:57,450
@@ -1836,7 +1836,7 @@ Think about it, Blade.  We could wipe them all out in a single move.
 00:21:06,800 --> 00:21:08,900
 [BLADE]
 So what's been holding you back?
-ສະນັ້ນຫຍັງ ກໍາ ລັງກີດກັ້ນເຈົ້າ?
+ແມ່ນແລ້ວແມ່ນຫຍັງທີ່ກັກຕົວເຈົ້າໄວ້?
 
 287
 00:21:09,400 --> 00:21:15,400
@@ -1910,7 +1910,7 @@ And do you know why?  Once, all of my kind could brave the day. We were true pre
 00:22:03,450 --> 00:22:05,450
 [DANICA]
 That's impossible --
-ນັ້ນບໍ່ສາມາດເຮັດໄດ້ -
+ນັ້ນແມ່ນບໍ່ເປັນໄປໄດ້ -
 
 298
 00:22:05,950 --> 00:22:07,950
@@ -2603,7 +2603,7 @@ We don't have a choice!  They're going to win, don't you see that?!  He's come b
 00:29:50,650 --> 00:29:52,650
 [BLADE]
 There's me.
-ຂ້ອຍຢູ່ບ່ອນນັ້ນ.
+ແມ່ນແລ້ວແມ່ນຂ້ອຍ.
 
 406
 00:29:53,150 --> 00:29:55,150
@@ -2859,7 +2859,7 @@ You alright?
 00:32:36,500 --> 00:32:38,500
 [ABIGAIL]
 I'll be fine.
-ຂ້ອຍຈະດີດີ.
+ຂ້ອຍບໍ່ເປັນຫຍັງເລີຍ.
 
 446
 00:32:39,000 --> 00:32:41,000
@@ -2922,7 +2922,7 @@ Where are you taking us?
 00:33:20,100 --> 00:33:22,100
 [CAULDER]
 Another safehouse.
-ເຮືອນທີ່ປອດໄພອີກແຫ່ງຫນຶ່ງ.
+ອີກບ່ອນໜຶ່ງທີ່ປອດໄພ.
 
 456
 00:33:22,600 --> 00:33:28,600
@@ -3224,13 +3224,13 @@ Nothing a hot tub full of Bactine won't fix.
 00:36:55,600 --> 00:36:57,600
 [ABIGAIL]
 Zoe --
-ໂຊຍ...
+ໂຊຍ -
 
 503
 00:36:58,100 --> 00:37:00,100
 [KING]
 Drake's got her.
-ດຣັກກ໌ຈັບນາງໄວ້.
+ດຣັກໄດ້ນາງແລ້ວ.
 
 504
 00:37:00,600 --> 00:37:02,700
@@ -3359,7 +3359,7 @@ No offense, Danica --  -- but I've wanted to kill you since the moment we slept 
 00:38:30,350 --> 00:38:32,350
 [DANICA]
 I was that bad, huh?
-ຂ້ອຍຮ້າຍແຮງຫຼາຍ, ແມ່ນບໍ?
+ຂ້ອຍບໍ່ດີຫຼາຍແມ່ນບໍ່?
 
 524
 00:38:32,850 --> 00:38:34,950

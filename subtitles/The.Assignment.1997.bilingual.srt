@@ -407,7 +407,7 @@ Eat shit and die slow.
 00:04:48,850 --> 00:04:50,850
 [MICKENA]
 Jack, no!
-ແຈກ, ບໍ່!
+ແຈກ ບໍ່!
 
 65
 00:04:51,350 --> 00:04:54,500
@@ -624,7 +624,7 @@ Nu?
 00:07:24,600 --> 00:07:26,600
 [AMOS]
 Oyyyy.
-ໂອ້ ໂອ້.
+ສະບາຍດີ.
 
 98
 00:07:27,100 --> 00:07:33,100
@@ -1277,7 +1277,7 @@ Nuclear...
 00:14:31,150 --> 00:14:33,950
 [JOEY]
 Is there going to be a war, Poppi?
-ຈະມີການສົງຄາມບໍ, ປັອບປີ?
+ຈະມີສົງຄາມບໍ່, Poppi?
 
 201
 00:14:34,450 --> 00:14:36,550
@@ -1693,7 +1693,7 @@ He doesn't want to be Che Guevara, he wants to be the James Bond of the People's
 00:19:33,450 --> 00:19:35,450
 [JACK]
 Dead again.
-ຕາຍອີກເທື່ອຫນຶ່ງ.
+ຕາຍອີກແລ້ວ.
 
 265
 00:19:35,950 --> 00:19:37,950
@@ -1960,7 +1960,7 @@ Bullshit! I'm ready now. Give me any test you want. Christ, I already passed you
 00:22:40,100 --> 00:22:42,200
 [RAMIREZ]
 Shoo Ismak? Isme... Carlos. Isme Carlos.
-Shoo Ismak? Isme... ຄາລັສສ໌. Isme ຄາລາສສັຍ.
+ສະບາຍດີ ອີສມາຄ໌? ຂ້ອຍແມ່ນ... ແຄຣລັສສ໌. ຂ້ອຍແມ່ນແຄຮລັຊ໌.
 
 306
 00:22:42,700 --> 00:22:44,800
@@ -2180,7 +2180,7 @@ Think you can be lucky three times in a row?
 00:25:15,000 --> 00:25:17,000
 [RAMIREZ]
 How about four?
-ຈະເປັນແນວໃດກັບສີ່?
+ແມ່ນແລ້ວບໍ່ 4?
 
 340
 00:25:17,500 --> 00:25:19,500
@@ -2192,7 +2192,7 @@ Annibal! It's over!
 00:25:20,000 --> 00:25:22,000
 [JACK]
 Stay out of it.
-ຢູ່ຫ່າງຈາກມັນ.
+ສະບາຍດີ ຢ່າມີສ່ວນຮ່ວມເລີຍ.
 
 342
 00:25:22,500 --> 00:25:24,500
@@ -2567,7 +2567,7 @@ Yeah.
 00:29:02,700 --> 00:29:04,700
 [CARLA]
 You like it?
-ເຈົ້າມັກມັນບໍ?
+ເຈົ້າບໍ່ມັກບໍ່?
 
 402
 00:29:05,200 --> 00:29:07,200
@@ -2628,7 +2628,7 @@ Then he goes to the refrigerator and eats... He's always hungry afterwards... al
 00:29:38,500 --> 00:29:40,500
 [RAMIREZ]
 I'm sorry... I'm sorry.
-ຂ້ອຍຂໍໂທດ... ຂ້ອຍ ຂໍໂທດ.
+ຂໍໂທດເດີ... ຂໍໂທດເດີ້.
 
 412
 00:29:41,000 --> 00:29:43,000
@@ -2860,7 +2860,7 @@ You will... you'll need a time of decompression and it will be hard at first, bu
 00:32:22,500 --> 00:32:24,500
 [RAMIREZ]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 447
 00:32:25,000 --> 00:32:31,000
@@ -3000,7 +3000,7 @@ Yes, sir.
 00:33:29,450 --> 00:33:31,450
 [VOICE]
 Sir...?
-ເຈົ້າ...?
+ສະບາຍດີ?
 
 470
 00:33:31,950 --> 00:33:33,950
@@ -3449,7 +3449,7 @@ There was a man with her... who we don't know... They must have spotted him come
 00:38:17,350 --> 00:38:19,350
 [CARLOS]
 Where is the girl now?
-ເດັກຍິງຢູ່ໃສດຽວນີ້?
+ເດັກສາວແມ່ນຢູ່ໃສຕອນນີ້?
 
 540
 00:38:19,850 --> 00:38:21,850
@@ -3858,7 +3858,7 @@ What are you talking about?
 00:42:44,000 --> 00:42:46,000
 [MAURA]
 Haven't you?
-ເຈົ້າບໍ່ເຮັດບໍ?
+ແມ່ນບໍ່?
 
 604
 00:42:46,500 --> 00:42:50,350
@@ -3870,7 +3870,7 @@ No. What... what would make you say a thing like that?
 00:42:50,850 --> 00:42:52,850
 [MAURA]
 You're different...
-ເຈົ້າແຕກຕ່າງ...
+ເຈົ້າແມ່ນບໍ່ຄືກັນ...
 
 606
 00:42:53,350 --> 00:42:59,350
@@ -4185,7 +4185,7 @@ Leading Ramirez through a number of corridors, the Captain stops at a closed doo
 00:46:14,550 --> 00:46:16,550
 [CAPTAIN]
 He's all yours.
-ລາວເປັນຂອງເຈົ້າທັງ ຫມົດ.
+ລາວແມ່ນຂອງເຈົ້າແລ້ວ.
 
 656
 00:46:17,050 --> 00:46:19,050
@@ -4256,8 +4256,7 @@ Don't tell me about Carlos, Jack. I know exactly who Carlos is. I know a hell of
 00:47:05,050 --> 00:47:11,050
 [JACK]
 You want to get back to bein' you? Then finish it. Kill him. Kill him and he's dead and it's over with. You walk away from it now and what do you think you're gonna be like the next time you read that that son of a bitch blew up some airplane full of women and kids.
-ເຈົ້າຢາກກັບມາເປັນເຈົ້າບໍ? ຫຼັງຈາກນັ້ນສິ້ນສຸດມັນ. ຂ້າລາວ.ຂ້າລາວແລະລາວຕາຍແລ້ວແລະມັນຫມົດແລ້ວ.
-ເຈົ້າຍ່າງຈາກມັນດຽວນີ້ແລະເຈົ້າຄິດວ່າເຈົ້າຈະເປັນແນວໃດໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານອ່ານວ່າລູກແຊກແຊງນັ້ນໄດ້ລະເບີດເຮືອບິນບາງຢ່າງທີ່ເຕັມໄປດ້ວຍແມ່ຍິງແລະເດັກນ້ອຍ.
+ເຈົ້າຢາກກັບຄືນມາເປັນເຈົ້າບໍ່? ຫຼັງຈາກນັ້ນຈົບມັນ. ຂ້າລາວ.ຂ້າລາວແລະລາວຈະຕາຍແລະມັນຈະສິ້ນສຸດລົງ. ເຈົ້າຍ່າງອອກຈາກມັນດຽວນີ້ແລະເຈົ້າຄິດວ່າເຈົ້າຈະເປັນແນວໃດໃນຄັ້ງຕໍ່ໄປທີ່ທ່ານອ່ານວ່າຄົນໂຊກຮ້າຍນັ້ນໄດ້ລະເບີດເຮືອບິນທີ່ເຕັມໄປດ້ວຍແມ່ຍິງແລະເດັກນ້ອຍ.
 
 667
 00:47:11,550 --> 00:47:15,050
@@ -4351,7 +4350,7 @@ We used a double agent to get word to the Russians that Carlos is really here to
 00:48:23,750 --> 00:48:25,750
 [RAMIREZ]
 Got it.
-ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+ແມ່ນແລ້ວ.
 
 681
 00:48:26,250 --> 00:48:32,250
@@ -4786,7 +4785,7 @@ Awfully warm for this time of year isn't it?
 00:53:11,800 --> 00:53:13,800
 [RAMIREZ]
 Any word?
-ມີຫຍັງຮູ້ບໍ?
+ມີຂ່າວບໍ່?
 
 748
 00:53:14,300 --> 00:53:16,300
@@ -5017,7 +5016,7 @@ I know.
 00:55:31,100 --> 00:55:33,100
 [DOCTOR]
 Feeling drowsy now?
-ເຈົ້າຮູ້ສຶກນອນຫຼັບດຽວນີ້ບໍ?
+ຮູ້ສຶກຢາກນອນບໍ່ຕອນນີ້ບໍ່?
 
 785
 00:55:33,600 --> 00:55:35,600

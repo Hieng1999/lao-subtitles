@@ -314,7 +314,7 @@ What does Dr. Bennett say? Okay. No, sure, let me talk to him. I'll wait.
 00:03:58,100 --> 00:04:00,100
 [JOSEPHINE]
 It's bad.
-ມັນບໍ່ດີ.
+ບໍ່ດີເລີຍ.
 
 50
 00:04:00,600 --> 00:04:04,100
@@ -1302,7 +1302,7 @@ Hardly two stories in the whole place. Now I've heard in real cities, they've go
 00:14:05,600 --> 00:14:07,600
 [KARL]
 Really?
-ແທ້ບໍ?
+ແມ່ນແລ້ວບໍ່?
 
 208
 00:14:08,100 --> 00:14:13,700
@@ -1341,7 +1341,7 @@ What's your name, Giant?
 00:14:31,800 --> 00:14:33,800
 [KARL]
 Karl.
-ຄາລ.
+ແຄລ.
 
 214
 00:14:34,300 --> 00:14:40,300
@@ -1425,7 +1425,7 @@ She said that the biggest fish in the river gets that way by never being caught.
 00:15:32,700 --> 00:15:34,700
 [EDWARD]
 Okay. Thanks.
-ດີ. ຂອບໃຈ.
+ແມ່ນແລ້ວ ຂອບໃຈເດີ.
 
 227
 00:15:35,200 --> 00:15:37,200
@@ -1659,7 +1659,7 @@ Everything here tastes better. Even the water is sweet. Never gets too hot, too 
 00:17:58,800 --> 00:18:00,800
 [EDWARD]
 Hey!
-ເຮ້!
+ສະບາຍດີ!
 
 264
 00:18:01,300 --> 00:18:03,300
@@ -1709,7 +1709,7 @@ I've been working on this poem for 12 years.
 00:18:28,350 --> 00:18:30,350
 [EDWARD]
 Really.
-ແທ້ໆ.
+ແມ່ນແລ້ວ.
 
 272
 00:18:30,850 --> 00:18:35,050
@@ -1857,7 +1857,7 @@ And when I'm 38, you'll be 48. And that's not much difference at all.
 00:19:52,300 --> 00:19:54,750
 [EDWARD]
 Sure is a lot now, though, huh?
-ເຖິງຢ່າງໃດກໍ່ຕາມ, ດຽວນີ້ມັນຫຼາຍ, ແມ່ນບໍ?
+ແມ່ນແລ້ວແມ່ນຫຼາຍແລ້ວ, ແມ່ນບໍ່?
 
 296
 00:19:55,250 --> 00:19:58,400
@@ -2068,7 +2068,7 @@ Mom, would you say you understand Dad?
 00:21:51,350 --> 00:21:53,350
 [SANDRA]
 Of course.
-ແນ່ນອນ.
+ແມ່ນແລ້ວ.
 
 330
 00:21:53,850 --> 00:21:58,750
@@ -2483,7 +2483,7 @@ That's great.
 00:26:34,000 --> 00:26:36,000
 [EDWARD]
 Good to meet you.
-ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ.
+ສະບາຍດີທີ່ໄດ້ຮູ້ຈັກກັນ.
 
 395
 00:26:36,500 --> 00:26:42,500
@@ -2736,7 +2736,7 @@ I was wrong about you kid. You may not have much, but what you got, you got a lo
 00:29:31,800 --> 00:29:33,800
 [EDWARD]
 There's only one I want.
-ຂ້ອຍຢາກມີພຽງແຕ່ຄົນດຽວເທົ່ານັ້ນ.
+ມີພຽງແຕ່ໜຶ່ງທີ່ຂ້ອຍຢາກໄດ້.
 
 434
 00:29:34,300 --> 00:29:40,250
@@ -3036,7 +3036,7 @@ Truth is, I've been thirsty my whole life. Never really known why.
 00:32:37,400 --> 00:32:40,200
 [EDWARD]
 There was one time when I was eleven...
-ມີຄັ້ງຫນຶ່ງເມື່ອຂ້ອຍອາຍຸສິບຫນຶ່ງ...
+ມີເວລາໜຶ່ງທີ່ຂ້ອຍອາຍຸ 11 ປີ...
 
 482
 00:32:40,700 --> 00:32:42,800
@@ -3187,7 +3187,7 @@ You weren't alone.
 00:34:28,500 --> 00:34:30,500
 [PING]
 Who the hell are you?
-ເຈົ້າເປັນໃຜ?
+ເຈົ້າແມ່ນໃຜ?
 
 505
 00:34:31,000 --> 00:34:33,100
@@ -3328,7 +3328,7 @@ You never told me how your parents met.
 00:36:06,400 --> 00:36:08,400
 [WILL]
 They met at Auburn.
-ພວກເຂົາພົບກັນຢູ່ອູບູນ.
+ພວກເຂົາໄດ້ພົບກັນທີ່ Auburn.
 
 527
 00:36:08,900 --> 00:36:14,900
@@ -4008,7 +4008,7 @@ Hello.
 00:43:30,600 --> 00:43:32,600
 [JENNY]
 I wasn't expecting you.
-ຂ້ອຍບໍ່ໄດ້ຄາດວ່າເຈົ້າຈະມາ.
+ຂ້ອຍບໍ່ຄາດຫວັງເຈົ້າເລີຍ.
 
 634
 00:43:33,100 --> 00:43:35,100
@@ -4332,7 +4332,7 @@ I see. I thank you for your time.
 00:47:37,600 --> 00:47:39,600
 [EDWARD]
 I'm sorry.
-ຂ້ອຍຂໍໂທດ.
+ຂໍໂທດເດີ.
 
 683
 00:47:40,100 --> 00:47:42,100
@@ -4611,7 +4611,7 @@ You'll call if...
 00:50:35,150 --> 00:50:37,150
 [WILL]
 I will. I'll call.
-ຂ້ອຍຈະເຮັດ. ຂ້ອຍຈະໂທ.
+ແມ່ນແລ້ວ, ຂ້ອຍຈະໂທ.
 
 727
 00:50:37,650 --> 00:50:40,450
@@ -4647,7 +4647,7 @@ Do you like it, being pregnant?
 00:50:54,750 --> 00:50:56,750
 [JOSEPHINE]
 I do.
-ຂ້ອຍເຮັດ.
+ແມ່ນແລ້ວ.
 
 733
 00:50:57,250 --> 00:51:03,250
