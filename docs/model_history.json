@@ -1,0 +1,75 @@
+{
+  "schema_note": "Every number in this file is real and independently reproducible -- computed from actual sacrebleu runs, actual verification-pipeline state files, or actual dataset files in the lao-thai-translator repo. Nothing here is estimated, projected, or hand-typed as a round number. Fields with a null value mean 'not measured under this methodology,' never 'assumed good.'",
+  "last_updated": "2026-09-14",
+  "generations": [
+    {
+      "id": "gen3",
+      "label": "Generation 3",
+      "date": "2026-09-11",
+      "checkpoint": "lao_lora_adapter_1.3B_dpo_prebulk38k_20260911_001253 (archived, superseded)",
+      "status": "superseded",
+      "reference_benchmark": null,
+      "roundtrip_benchmark": null,
+      "corrections": null,
+      "release_notes": "The DPO-trained checkpoint produced by an earlier 5-step sanitization-pipeline retrain. Superseded after we identified what we internally call the 'Generation 3 crisis': a cycle-consistency blind spot where a forward and reverse translation model can share a bias that round-trips cleanly while being confidently wrong about the actual meaning. That specific failure mode is the reason Generation 4's verification system (below) uses back-translation as only one of two independent checks, never the sole gate. We don't show chrF++/BLEU scores for Generation 3 -- it predates this project's current benchmark suites, and we'd rather show nothing than a number we didn't actually measure."
+    },
+    {
+      "id": "gen4",
+      "label": "Generation 4 (current, live)",
+      "date": "2026-09-14",
+      "checkpoint": "lao_lora_adapter_1.3B_dpo (active)",
+      "status": "current",
+      "reference_benchmark": {
+        "status": "complete",
+        "mean_chrf_pp": 50.71,
+        "mean_bleu": 60.64,
+        "suite_count": 5,
+        "pairs_per_suite": 100,
+        "methodology": "sacrebleu corpus_chrf (word_order=2) / corpus_bleu (tokenize=char) against 100 human-reference translation pairs per domain, 5 domains total. Model-level quality signal, not a per-movie score.",
+        "source_file": "reports/BENCHMARK_SCORECARD.json"
+      },
+      "roundtrip_benchmark": {
+        "status": "in_progress",
+        "movies_scored": 200,
+        "movies_total": 287,
+        "mean_roundtrip_chrf_pp": 60.82,
+        "mean_roundtrip_bleu": 45.49,
+        "methodology": "Published Lao translated back to English with a reverse-direction adapter, scored (sacrebleu) against the original English source. Not a human-reference score -- measures round-trip semantic fidelity, updated automatically as the corpus-wide scan progresses.",
+        "note": "This block is overwritten automatically by sync_to_lao_subtitles.py every time the catalog is republished, using whatever fraction of the 287-movie corpus has been scored so far. It will keep updating until movies_scored reaches movies_total."
+      },
+      "corrections": {
+        "total_confirmed": 7251,
+        "movies_covered": 287,
+        "defect_categories_fixed": [
+          "Garbled decoder artifact (a bare \"ແມ\" token left as an incomplete fragment, never finished into a real word)",
+          "Repetition / stutter artifacts (e.g. a phrase's opening words duplicated back-to-back)",
+          "\"Cat\" hallucination (a garbled token completed into the unrelated real word for \"cat\")",
+          "\"Interfere\" hallucination (the real word for \"interfere/intervene\" substituted for unrelated content -- the single largest defect pattern found in this project)",
+          "Code-mixing (untranslated English words left stranded inside otherwise-Lao sentences)",
+          "Calque / literal-translation errors (idioms mistranslated word-for-word)",
+          "Numeral errors (e.g. \"100 thousand\" rendered as \"ten thousand\")"
+        ]
+      },
+      "release_notes": "Every one of the 287 published movies was independently re-verified, cue by cue, using a Double-Lock Back-Translation Consensus system. Lock 1 is a set of deterministic Lao-text filters built and refined by hand as each new failure pattern was found. Lock 2 is an English-only back-translation semantic-equivalence judge -- the model is never shown its own Lao output to grade, precisely because that self-referential check is what caused the Generation 3 crisis. A correction is written only when BOTH locks independently agree. This process confirmed 7,251 corrections. The largest single defect found was a hallucinated substitution of the real Lao word for 'interfere' standing in for unrelated content -- 654 raw occurrences found corpus-wide; a dedicated cleanup pass fixed only 15 of those (2.6%), confirming most instances are a stable model bias rather than a one-off translation slip. That known limitation is left undisturbed in the published corpus rather than papered over, pending a future targeted retrain."
+    },
+    {
+      "id": "gen5",
+      "label": "Generation 5 (in preparation)",
+      "date": "2026-09-14",
+      "checkpoint": null,
+      "status": "prep",
+      "reference_benchmark": null,
+      "roundtrip_benchmark": null,
+      "corrections": null,
+      "dataset": {
+        "source_triplets": 7251,
+        "unique_after_dedup": 5124,
+        "duplicates_dropped": 2127,
+        "train_examples": 4611,
+        "val_examples": 513,
+        "split": "90/10, seeded (seed=42)"
+      },
+      "release_notes": "Training has not started yet. The Generation 5 DPO dataset has been staged from Generation 4's own 7,251 verified corrections: deduplicated by prompt (2,127 duplicates dropped, keeping the first occurrence of each), split 90/10 into 4,611 training examples and 513 validation examples. We publish performance numbers only after they're actually measured against a trained checkpoint -- this entry intentionally has no scores yet, and won't until a real retrain has run."
+    }
+  ]
+}
