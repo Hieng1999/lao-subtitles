@@ -29,11 +29,11 @@
         "source_file": "reports/BENCHMARK_SCORECARD.json"
       },
       "roundtrip_benchmark": {
-        "status": "in_progress",
-        "movies_scored": 200,
+        "status": "complete",
+        "movies_scored": 287,
         "movies_total": 287,
-        "mean_roundtrip_chrf_pp": 60.82,
-        "mean_roundtrip_bleu": 45.49,
+        "mean_roundtrip_chrf_pp": 60.39,
+        "mean_roundtrip_bleu": 45.18,
         "methodology": "Published Lao translated back to English with a reverse-direction adapter, scored (sacrebleu) against the original English source. Not a human-reference score -- measures round-trip semantic fidelity, updated automatically as the corpus-wide scan progresses.",
         "note": "This block is overwritten automatically by sync_to_lao_subtitles.py every time the catalog is republished, using whatever fraction of the 287-movie corpus has been scored so far. It will keep updating until movies_scored reaches movies_total."
       },
