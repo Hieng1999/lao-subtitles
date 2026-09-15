@@ -132,7 +132,10 @@
     font-size: 0.87rem; color: var(--text-muted); line-height: 1.6;
   }
 
-  .search-bar-wrap { margin: 16px 0 12px; position: relative; }
+  .controls-row {
+    display: flex; gap: 12px; align-items: center; flex-wrap: wrap; margin: 16px 0 12px;
+  }
+  .search-bar-wrap { position: relative; flex: 1 1 320px; min-width: 0; margin: 0; }
   .search-input {
     width: 100%; padding: 14px 18px; border-radius: 12px;
     background: var(--card); border: 1px solid var(--border);
@@ -150,7 +153,23 @@
   .filter-btn:hover, .filter-btn.active {
     background: var(--accent-bg); color: var(--accent); border-color: rgba(227, 179, 65, 0.4);
   }
-  
+
+  .sort-wrap { display: flex; align-items: center; gap: 8px; flex: 0 0 auto; }
+  .sort-label { font-size: 0.85rem; color: var(--text-muted); }
+  .sort-select {
+    background: var(--card); border: 1px solid var(--border); color: var(--text);
+    padding: 6px 12px; border-radius: 8px; font-size: 0.85rem; cursor: pointer;
+  }
+  .sort-select:focus { border-color: var(--accent); outline: none; }
+
+  .score-legend {
+    display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center;
+    background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.07);
+    border-radius: 10px; padding: 10px 14px; margin: 0 0 18px; font-size: 0.8rem; color: var(--text-muted);
+  }
+  .legend-title { font-weight: 700; color: var(--text); font-size: 0.8rem; }
+  .legend-item strong { color: var(--accent); }
+
   .section-header {
     display: flex; justify-content: space-between; align-items: center;
     margin: 24px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border);
@@ -454,10 +473,6 @@
     </div>
   </div>
 
-  <div class="search-bar-wrap">
-    <input type="text" id="search" class="search-input" placeholder="🔍 Search movies by title, genre, or year (e.g. 1999, Action, Batman)..." oninput="filterMovies()">
-  </div>
-
   <div class="genre-filters">
     <button class="filter-btn active" onclick="setGenre('all', this)">All (287)</button>
     <button class="filter-btn" onclick="setGenre('action', this)">Action</button>
@@ -472,13 +487,34 @@
     <button class="filter-btn" onclick="setGenre('thriller', this)">Thriller</button>
   </div>
 
+  <div class="controls-row">
+    <div class="search-bar-wrap">
+      <input type="text" id="search" class="search-input" placeholder="🔍 Search movies by title, genre, or year (e.g. 1999, Action, Batman)..." oninput="filterMovies()">
+    </div>
+    <div class="sort-wrap">
+      <label for="sort-dropdown" class="sort-label">Sort by:</label>
+      <select id="sort-dropdown" class="sort-select" onchange="sortMovies()">
+        <option value="title">Title (A-Z)</option>
+        <option value="chrf">↺ chrF++ (High to Low)</option>
+        <option value="bleu">↺ BLEU (High to Low)</option>
+        <option value="fixed">Most Corrections Fixed</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="score-legend" title="How to read the numbers on each movie card">
+    <span class="legend-title">📖 Score Key:</span>
+    <span class="legend-item"><strong>↺ (Round-Trip Fidelity)</strong> — the published Lao line translated back into English and scored (chrF++/BLEU) against the original English script, to measure how well the meaning was preserved. Higher = more faithful. This is <em>not</em> a human-reference translation score.</span>
+    <span class="legend-item"><strong>Fixed</strong> — the number of hallucinations and artifacts surgically removed from this movie's subtitles by our Double-Lock verification filters.</span>
+  </div>
+
   <div class="section-header">
     <div class="section-title">Available Subtitles</div>
     <div class="catalog-count" id="count">Showing all 287 movies</div>
   </div>
 
   <div class="movie-grid" id="movies">
-    <div class="movie-card" data-title="10 things i hate about you romance 1999" data-genre="romance">
+    <div class="movie-card" data-title="10 things i hate about you romance 1999" data-genre="romance" data-chrf="62.04" data-bleu="45.68" data-fixed="42">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">10 Things I Hate About You</span>
@@ -521,7 +557,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="12 comedy 2007" data-genre="comedy">
+    <div class="movie-card" data-title="12 comedy 2007" data-genre="comedy" data-chrf="60.55" data-bleu="43.89" data-fixed="30">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">12</span>
@@ -564,7 +600,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="12 and holding drama 2005" data-genre="drama">
+    <div class="movie-card" data-title="12 and holding drama 2005" data-genre="drama" data-chrf="68.20" data-bleu="54.64" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">12 and Holding</span>
@@ -607,7 +643,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="12 monkeys thriller 1995" data-genre="thriller">
+    <div class="movie-card" data-title="12 monkeys thriller 1995" data-genre="thriller" data-chrf="63.26" data-bleu="49.64" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">12 Monkeys</span>
@@ -650,7 +686,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="12 years a slave drama 2013" data-genre="drama">
+    <div class="movie-card" data-title="12 years a slave drama 2013" data-genre="drama" data-chrf="48.44" data-bleu="29.32" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">12 Years a Slave</span>
@@ -693,7 +729,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="127 hours thriller 2010" data-genre="thriller">
+    <div class="movie-card" data-title="127 hours thriller 2010" data-genre="thriller" data-chrf="53.52" data-bleu="37.02" data-fixed="3">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">127 Hours</span>
@@ -736,7 +772,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="1492: conquest of paradise drama 1992" data-genre="drama">
+    <div class="movie-card" data-title="1492: conquest of paradise drama 1992" data-genre="drama" data-chrf="63.01" data-bleu="48.17" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">1492: Conquest of Paradise</span>
@@ -779,7 +815,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="15 minutes thriller 2001" data-genre="thriller">
+    <div class="movie-card" data-title="15 minutes thriller 2001" data-genre="thriller" data-chrf="63.81" data-bleu="49.18" data-fixed="37">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">15 Minutes</span>
@@ -822,7 +858,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="17 again romance 2009" data-genre="romance">
+    <div class="movie-card" data-title="17 again romance 2009" data-genre="romance" data-chrf="65.83" data-bleu="53.26" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">17 Again</span>
@@ -865,7 +901,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="2001: a space odyssey sci-fi 1968" data-genre="sci-fi">
+    <div class="movie-card" data-title="2001: a space odyssey sci-fi 1968" data-genre="sci-fi" data-chrf="64.01" data-bleu="47.88" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">2001: A Space Odyssey</span>
@@ -908,7 +944,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="2012 thriller 2009" data-genre="thriller">
+    <div class="movie-card" data-title="2012 thriller 2009" data-genre="thriller" data-chrf="60.70" data-bleu="43.05" data-fixed="40">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">2012</span>
@@ -951,7 +987,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="20th century women drama 2016" data-genre="drama">
+    <div class="movie-card" data-title="20th century women drama 2016" data-genre="drama" data-chrf="53.00" data-bleu="38.44" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">20th Century Women</span>
@@ -994,7 +1030,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="28 days later sci-fi 2002" data-genre="sci-fi">
+    <div class="movie-card" data-title="28 days later sci-fi 2002" data-genre="sci-fi" data-chrf="60.86" data-bleu="47.24" data-fixed="25">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">28 Days Later</span>
@@ -1037,7 +1073,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="30 minutes or less comedy 2011" data-genre="comedy">
+    <div class="movie-card" data-title="30 minutes or less comedy 2011" data-genre="comedy" data-chrf="61.96" data-bleu="48.49" data-fixed="14">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">30 Minutes or Less</span>
@@ -1080,7 +1116,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="42 drama 2013" data-genre="drama">
+    <div class="movie-card" data-title="42 drama 2013" data-genre="drama" data-chrf="58.36" data-bleu="41.42" data-fixed="30">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">42</span>
@@ -1123,7 +1159,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="44 inch chest drama 2009" data-genre="drama">
+    <div class="movie-card" data-title="44 inch chest drama 2009" data-genre="drama" data-chrf="44.93" data-bleu="31.95" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">44 Inch Chest</span>
@@ -1166,7 +1202,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="48 hrs. thriller 1982" data-genre="thriller">
+    <div class="movie-card" data-title="48 hrs. thriller 1982" data-genre="thriller" data-chrf="58.91" data-bleu="43.50" data-fixed="26">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">48 Hrs.</span>
@@ -1209,7 +1245,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="50-50 drama 2011" data-genre="drama">
+    <div class="movie-card" data-title="50-50 drama 2011" data-genre="drama" data-chrf="67.00" data-bleu="53.67" data-fixed="48">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">50-50</span>
@@ -1252,7 +1288,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="500 days of summer romance 2009" data-genre="romance">
+    <div class="movie-card" data-title="500 days of summer romance 2009" data-genre="romance" data-chrf="66.02" data-bleu="53.25" data-fixed="73">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">500 Days of Summer</span>
@@ -1295,7 +1331,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="8mm thriller 1999" data-genre="thriller">
+    <div class="movie-card" data-title="8mm thriller 1999" data-genre="thriller" data-chrf="62.92" data-bleu="50.02" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">8MM</span>
@@ -1338,7 +1374,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="a few good men thriller 1992" data-genre="thriller">
+    <div class="movie-card" data-title="a few good men thriller 1992" data-genre="thriller" data-chrf="58.92" data-bleu="40.93" data-fixed="56">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">A Few Good Men</span>
@@ -1381,7 +1417,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="a good person drama 2023" data-genre="drama">
+    <div class="movie-card" data-title="a good person drama 2023" data-genre="drama" data-chrf="64.32" data-bleu="50.59" data-fixed="35">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">A Good Person</span>
@@ -1424,7 +1460,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="a million miles away drama 2023" data-genre="drama">
+    <div class="movie-card" data-title="a million miles away drama 2023" data-genre="drama" data-chrf="65.15" data-bleu="49.98" data-fixed="30">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">A Million Miles Away</span>
@@ -1467,7 +1503,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="a most violent year drama 2014" data-genre="drama">
+    <div class="movie-card" data-title="a most violent year drama 2014" data-genre="drama" data-chrf="64.41" data-bleu="49.14" data-fixed="53">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">A Most Violent Year</span>
@@ -1510,7 +1546,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="a prayer before dawn drama 2017" data-genre="drama">
+    <div class="movie-card" data-title="a prayer before dawn drama 2017" data-genre="drama" data-chrf="58.01" data-bleu="42.45" data-fixed="10">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">A Prayer Before Dawn</span>
@@ -1553,7 +1589,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="a quiet place sci-fi 2018" data-genre="sci-fi">
+    <div class="movie-card" data-title="a quiet place sci-fi 2018" data-genre="sci-fi" data-chrf="65.81" data-bleu="51.95" data-fixed="2">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">A Quiet Place</span>
@@ -1596,7 +1632,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="a real pain drama 2024" data-genre="drama">
+    <div class="movie-card" data-title="a real pain drama 2024" data-genre="drama" data-chrf="63.16" data-bleu="47.11" data-fixed="36">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">A Real Pain</span>
@@ -1639,7 +1675,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="a scanner darkly drama 2006" data-genre="drama">
+    <div class="movie-card" data-title="a scanner darkly drama 2006" data-genre="drama" data-chrf="59.59" data-bleu="43.22" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">A Scanner Darkly</span>
@@ -1682,7 +1718,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="a serious man comedy 2009" data-genre="comedy">
+    <div class="movie-card" data-title="a serious man comedy 2009" data-genre="comedy" data-chrf="46.93" data-bleu="29.13" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">A Serious Man</span>
@@ -1725,7 +1761,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="above the law action 1988" data-genre="action">
+    <div class="movie-card" data-title="above the law action 1988" data-genre="action" data-chrf="55.00" data-bleu="36.73" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Above the Law</span>
@@ -1768,7 +1804,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="absolute power thriller 1997" data-genre="thriller">
+    <div class="movie-card" data-title="absolute power thriller 1997" data-genre="thriller" data-chrf="62.61" data-bleu="42.71" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Absolute Power</span>
@@ -1811,7 +1847,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="ad astra thriller 2019" data-genre="thriller">
+    <div class="movie-card" data-title="ad astra thriller 2019" data-genre="thriller" data-chrf="60.29" data-bleu="43.10" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Ad Astra</span>
@@ -1854,7 +1890,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="adaptation drama 2002" data-genre="drama">
+    <div class="movie-card" data-title="adaptation drama 2002" data-genre="drama" data-chrf="61.38" data-bleu="45.47" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Adaptation</span>
@@ -1897,7 +1933,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="affliction drama 1997" data-genre="drama">
+    <div class="movie-card" data-title="affliction drama 1997" data-genre="drama" data-chrf="62.20" data-bleu="47.29" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Affliction</span>
@@ -1940,7 +1976,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="after school special comedy 2003" data-genre="comedy">
+    <div class="movie-card" data-title="after school special comedy 2003" data-genre="comedy" data-chrf="60.16" data-bleu="45.59" data-fixed="38">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">After School Special</span>
@@ -1983,7 +2019,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="after.life thriller 2009" data-genre="thriller">
+    <div class="movie-card" data-title="after.life thriller 2009" data-genre="thriller" data-chrf="59.27" data-bleu="43.38" data-fixed="26">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">After.Life</span>
@@ -2026,7 +2062,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="agnes of god drama 1985" data-genre="drama">
+    <div class="movie-card" data-title="agnes of god drama 1985" data-genre="drama" data-chrf="64.56" data-bleu="51.56" data-fixed="42">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Agnes of God</span>
@@ -2069,7 +2105,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="air drama 2023" data-genre="drama">
+    <div class="movie-card" data-title="air drama 2023" data-genre="drama" data-chrf="58.90" data-bleu="41.85" data-fixed="57">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Air</span>
@@ -2112,7 +2148,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="air force one thriller 1997" data-genre="thriller">
+    <div class="movie-card" data-title="air force one thriller 1997" data-genre="thriller" data-chrf="63.32" data-bleu="46.85" data-fixed="32">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Air Force One</span>
@@ -2155,7 +2191,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="airplane romance 1980" data-genre="romance">
+    <div class="movie-card" data-title="airplane romance 1980" data-genre="romance" data-chrf="64.31" data-bleu="50.11" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Airplane</span>
@@ -2198,7 +2234,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="airplane 2: the sequel sci-fi 1982" data-genre="sci-fi">
+    <div class="movie-card" data-title="airplane 2: the sequel sci-fi 1982" data-genre="sci-fi" data-chrf="58.26" data-bleu="40.44" data-fixed="41">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Airplane 2: The Sequel</span>
@@ -2241,7 +2277,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="ali drama 2001" data-genre="drama">
+    <div class="movie-card" data-title="ali drama 2001" data-genre="drama" data-chrf="54.77" data-bleu="36.45" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Ali</span>
@@ -2284,7 +2320,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="alien feature film 1979" data-genre="feature film">
+    <div class="movie-card" data-title="alien feature film 1979" data-genre="feature film" data-chrf="56.41" data-bleu="39.71" data-fixed="39">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Alien</span>
@@ -2327,7 +2363,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="alien 3 thriller 1992" data-genre="thriller">
+    <div class="movie-card" data-title="alien 3 thriller 1992" data-genre="thriller" data-chrf="62.41" data-bleu="45.40" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Alien 3</span>
@@ -2370,7 +2406,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="alien nation sci-fi 1988" data-genre="sci-fi">
+    <div class="movie-card" data-title="alien nation sci-fi 1988" data-genre="sci-fi" data-chrf="61.57" data-bleu="45.89" data-fixed="16">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Alien Nation</span>
@@ -2413,7 +2449,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="aliens thriller 1986" data-genre="thriller">
+    <div class="movie-card" data-title="aliens thriller 1986" data-genre="thriller" data-chrf="62.21" data-bleu="47.44" data-fixed="16">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Aliens</span>
@@ -2456,7 +2492,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="all about eve drama 1950" data-genre="drama">
+    <div class="movie-card" data-title="all about eve drama 1950" data-genre="drama" data-chrf="58.74" data-bleu="43.37" data-fixed="38">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">All About Eve</span>
@@ -2499,7 +2535,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="all about steve comedy 2009" data-genre="comedy">
+    <div class="movie-card" data-title="all about steve comedy 2009" data-genre="comedy" data-chrf="59.78" data-bleu="41.98" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">All About Steve</span>
@@ -2542,7 +2578,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="all of us strangers romance 2023" data-genre="romance">
+    <div class="movie-card" data-title="all of us strangers romance 2023" data-genre="romance" data-chrf="63.74" data-bleu="49.67" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">All of Us Strangers</span>
@@ -2585,7 +2621,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="all the king's men drama 2006" data-genre="drama">
+    <div class="movie-card" data-title="all the king's men drama 2006" data-genre="drama" data-chrf="63.79" data-bleu="50.70" data-fixed="27">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">All the King's Men</span>
@@ -2628,7 +2664,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="all the president's men thriller 1976" data-genre="thriller">
+    <div class="movie-card" data-title="all the president's men thriller 1976" data-genre="thriller" data-chrf="59.06" data-bleu="39.08" data-fixed="30">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">All the President's Men</span>
@@ -2671,7 +2707,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="almost famous romance 2000" data-genre="romance">
+    <div class="movie-card" data-title="almost famous romance 2000" data-genre="romance" data-chrf="64.59" data-bleu="49.97" data-fixed="27">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Almost Famous</span>
@@ -2714,7 +2750,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="alone in the dark thriller 2005" data-genre="thriller">
+    <div class="movie-card" data-title="alone in the dark thriller 2005" data-genre="thriller" data-chrf="65.97" data-bleu="52.19" data-fixed="7">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Alone in the Dark</span>
@@ -2757,7 +2793,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="amadeus drama 1984" data-genre="drama">
+    <div class="movie-card" data-title="amadeus drama 1984" data-genre="drama" data-chrf="57.29" data-bleu="42.62" data-fixed="66">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Amadeus</span>
@@ -2800,7 +2836,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="amelia drama 2009" data-genre="drama">
+    <div class="movie-card" data-title="amelia drama 2009" data-genre="drama" data-chrf="57.63" data-bleu="41.04" data-fixed="11">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Amelia</span>
@@ -2843,7 +2879,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american beauty drama 1999" data-genre="drama">
+    <div class="movie-card" data-title="american beauty drama 1999" data-genre="drama" data-chrf="65.83" data-bleu="53.22" data-fixed="32">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Beauty</span>
@@ -2886,7 +2922,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american fiction drama 2023" data-genre="drama">
+    <div class="movie-card" data-title="american fiction drama 2023" data-genre="drama" data-chrf="63.51" data-bleu="49.18" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Fiction</span>
@@ -2929,7 +2965,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american gangster drama 2007" data-genre="drama">
+    <div class="movie-card" data-title="american gangster drama 2007" data-genre="drama" data-chrf="67.01" data-bleu="51.82" data-fixed="30">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Gangster</span>
@@ -2972,7 +3008,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american graffiti drama 1973" data-genre="drama">
+    <div class="movie-card" data-title="american graffiti drama 1973" data-genre="drama" data-chrf="60.48" data-bleu="44.62" data-fixed="37">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Graffiti</span>
@@ -3015,7 +3051,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american history x thriller 1998" data-genre="thriller">
+    <div class="movie-card" data-title="american history x thriller 1998" data-genre="thriller" data-chrf="61.46" data-bleu="48.08" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American History X</span>
@@ -3058,7 +3094,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american hustle drama 2013" data-genre="drama">
+    <div class="movie-card" data-title="american hustle drama 2013" data-genre="drama" data-chrf="63.97" data-bleu="48.22" data-fixed="31">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Hustle</span>
@@ -3101,7 +3137,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american milkshake comedy 2013" data-genre="comedy">
+    <div class="movie-card" data-title="american milkshake comedy 2013" data-genre="comedy" data-chrf="62.99" data-bleu="47.34" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Milkshake</span>
@@ -3144,7 +3180,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american pie comedy 1999" data-genre="comedy">
+    <div class="movie-card" data-title="american pie comedy 1999" data-genre="comedy" data-chrf="62.10" data-bleu="48.53" data-fixed="30">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Pie</span>
@@ -3187,7 +3223,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american shaolin: king of kickboxers ii action 1992" data-genre="action">
+    <div class="movie-card" data-title="american shaolin: king of kickboxers ii action 1992" data-genre="action" data-chrf="55.91" data-bleu="40.69" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Shaolin: King of Kickboxers II</span>
@@ -3230,7 +3266,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american sniper action 2014" data-genre="action">
+    <div class="movie-card" data-title="american sniper action 2014" data-genre="action" data-chrf="60.72" data-bleu="45.35" data-fixed="24">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Sniper</span>
@@ -3273,7 +3309,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american splendor comedy 2003" data-genre="comedy">
+    <div class="movie-card" data-title="american splendor comedy 2003" data-genre="comedy" data-chrf="62.76" data-bleu="45.61" data-fixed="14">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Splendor</span>
@@ -3316,7 +3352,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="american werewolf in london romance 1981" data-genre="romance">
+    <div class="movie-card" data-title="american werewolf in london romance 1981" data-genre="romance" data-chrf="61.64" data-bleu="47.78" data-fixed="25">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">American Werewolf in London</span>
@@ -3359,7 +3395,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="amour romance 2012" data-genre="romance">
+    <div class="movie-card" data-title="amour romance 2012" data-genre="romance" data-chrf="61.60" data-bleu="48.25" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Amour</span>
@@ -3402,7 +3438,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="analyze that crime 2002" data-genre="crime">
+    <div class="movie-card" data-title="analyze that crime 2002" data-genre="crime" data-chrf="60.43" data-bleu="45.38" data-fixed="29">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Analyze That</span>
@@ -3445,7 +3481,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="analyze this crime 1999" data-genre="crime">
+    <div class="movie-card" data-title="analyze this crime 1999" data-genre="crime" data-chrf="65.67" data-bleu="51.63" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Analyze This</span>
@@ -3488,7 +3524,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="anastasia animation 1997" data-genre="animation">
+    <div class="movie-card" data-title="anastasia animation 1997" data-genre="animation" data-chrf="64.36" data-bleu="51.29" data-fixed="10">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Anastasia</span>
@@ -3531,7 +3567,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="angel eyes romance 2001" data-genre="romance">
+    <div class="movie-card" data-title="angel eyes romance 2001" data-genre="romance" data-chrf="64.83" data-bleu="51.26" data-fixed="27">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Angel Eyes</span>
@@ -3574,7 +3610,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="annie hall romance 1977" data-genre="romance">
+    <div class="movie-card" data-title="annie hall romance 1977" data-genre="romance" data-chrf="60.98" data-bleu="46.40" data-fixed="54">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Annie Hall</span>
@@ -3617,7 +3653,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="anonymous thriller 2011" data-genre="thriller">
+    <div class="movie-card" data-title="anonymous thriller 2011" data-genre="thriller" data-chrf="57.14" data-bleu="41.19" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Anonymous</span>
@@ -3660,7 +3696,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="anora romance 2024" data-genre="romance">
+    <div class="movie-card" data-title="anora romance 2024" data-genre="romance" data-chrf="62.92" data-bleu="50.20" data-fixed="39">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Anora</span>
@@ -3703,7 +3739,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="antitrust thriller 2001" data-genre="thriller">
+    <div class="movie-card" data-title="antitrust thriller 2001" data-genre="thriller" data-chrf="62.81" data-bleu="45.05" data-fixed="36">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Antitrust</span>
@@ -3746,7 +3782,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="antz comedy 1998" data-genre="comedy">
+    <div class="movie-card" data-title="antz comedy 1998" data-genre="comedy" data-chrf="60.45" data-bleu="49.11" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Antz</span>
@@ -3789,7 +3825,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="apocalypse now action 1979" data-genre="action">
+    <div class="movie-card" data-title="apocalypse now action 1979" data-genre="action" data-chrf="57.07" data-bleu="36.57" data-fixed="38">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Apocalypse Now</span>
@@ -3832,7 +3868,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="april fool's day horror 1986" data-genre="horror">
+    <div class="movie-card" data-title="april fool's day horror 1986" data-genre="horror" data-chrf="63.27" data-bleu="50.36" data-fixed="36">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">April Fool's Day</span>
@@ -3875,7 +3911,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="apt pupil thriller 1998" data-genre="thriller">
+    <div class="movie-card" data-title="apt pupil thriller 1998" data-genre="thriller" data-chrf="58.56" data-bleu="42.62" data-fixed="46">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Apt Pupil</span>
@@ -3918,7 +3954,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="arbitrage thriller 2012" data-genre="thriller">
+    <div class="movie-card" data-title="arbitrage thriller 2012" data-genre="thriller" data-chrf="64.87" data-bleu="50.58" data-fixed="26">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Arbitrage</span>
@@ -3961,7 +3997,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="arcade sci-fi 1993" data-genre="sci-fi">
+    <div class="movie-card" data-title="arcade sci-fi 1993" data-genre="sci-fi" data-chrf="66.82" data-bleu="55.53" data-fixed="14">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Arcade</span>
@@ -4004,7 +4040,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="arctic blue thriller 1993" data-genre="thriller">
+    <div class="movie-card" data-title="arctic blue thriller 1993" data-genre="thriller" data-chrf="61.16" data-bleu="45.07" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Arctic Blue</span>
@@ -4047,7 +4083,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="argo thriller 2012" data-genre="thriller">
+    <div class="movie-card" data-title="argo thriller 2012" data-genre="thriller" data-chrf="58.29" data-bleu="38.87" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Argo</span>
@@ -4090,7 +4126,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="army of darkness horror 1992" data-genre="horror">
+    <div class="movie-card" data-title="army of darkness horror 1992" data-genre="horror" data-chrf="29.26" data-bleu="12.39" data-fixed="0">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Army of Darkness</span>
@@ -4133,7 +4169,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="arthur comedy 2011" data-genre="comedy">
+    <div class="movie-card" data-title="arthur comedy 2011" data-genre="comedy" data-chrf="60.83" data-bleu="45.64" data-fixed="16">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Arthur</span>
@@ -4176,7 +4212,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="as good as it gets romance 1997" data-genre="romance">
+    <div class="movie-card" data-title="as good as it gets romance 1997" data-genre="romance" data-chrf="60.42" data-bleu="46.83" data-fixed="26">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">As Good As It Gets</span>
@@ -4219,7 +4255,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="assassins thriller 1995" data-genre="thriller">
+    <div class="movie-card" data-title="assassins thriller 1995" data-genre="thriller" data-chrf="65.44" data-bleu="50.82" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Assassins</span>
@@ -4262,7 +4298,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="asteroid city sci-fi 2023" data-genre="sci-fi">
+    <div class="movie-card" data-title="asteroid city sci-fi 2023" data-genre="sci-fi" data-chrf="61.08" data-bleu="43.59" data-fixed="35">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Asteroid City</span>
@@ -4305,7 +4341,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="austin powers - international man of mystery comedy 1997" data-genre="comedy">
+    <div class="movie-card" data-title="austin powers - international man of mystery comedy 1997" data-genre="comedy" data-chrf="63.32" data-bleu="49.57" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Austin Powers - International Man of Mystery</span>
@@ -4348,7 +4384,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="austin powers - the spy who shagged me comedy 1999" data-genre="comedy">
+    <div class="movie-card" data-title="austin powers - the spy who shagged me comedy 1999" data-genre="comedy" data-chrf="60.84" data-bleu="47.31" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Austin Powers - The Spy Who Shagged Me</span>
@@ -4391,7 +4427,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="authors anonymous comedy 2014" data-genre="comedy">
+    <div class="movie-card" data-title="authors anonymous comedy 2014" data-genre="comedy" data-chrf="67.25" data-bleu="52.35" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Authors Anonymous</span>
@@ -4434,7 +4470,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="autumn in new york romance 2000" data-genre="romance">
+    <div class="movie-card" data-title="autumn in new york romance 2000" data-genre="romance" data-chrf="64.29" data-bleu="50.47" data-fixed="45">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Autumn in New York</span>
@@ -4477,7 +4513,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="avatar sci-fi 2009" data-genre="sci-fi">
+    <div class="movie-card" data-title="avatar sci-fi 2009" data-genre="sci-fi" data-chrf="61.63" data-bleu="44.37" data-fixed="32">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Avatar</span>
@@ -4520,7 +4556,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="avengers: endgame adventure 2019" data-genre="adventure">
+    <div class="movie-card" data-title="avengers: endgame adventure 2019" data-genre="adventure" data-chrf="63.42" data-bleu="50.63" data-fixed="38">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Avengers: Endgame</span>
@@ -4563,7 +4599,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="babel thriller 2006" data-genre="thriller">
+    <div class="movie-card" data-title="babel thriller 2006" data-genre="thriller" data-chrf="66.89" data-bleu="54.68" data-fixed="27">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Babel</span>
@@ -4606,7 +4642,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bachelor party comedy 1984" data-genre="comedy">
+    <div class="movie-card" data-title="bachelor party comedy 1984" data-genre="comedy" data-chrf="62.02" data-bleu="48.75" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bachelor Party</span>
@@ -4649,7 +4685,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="backdraft thriller 1991" data-genre="thriller">
+    <div class="movie-card" data-title="backdraft thriller 1991" data-genre="thriller" data-chrf="61.52" data-bleu="45.57" data-fixed="25">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Backdraft</span>
@@ -4692,7 +4728,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bad boys comedy 1995" data-genre="comedy">
+    <div class="movie-card" data-title="bad boys comedy 1995" data-genre="comedy" data-chrf="59.61" data-bleu="42.91" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bad Boys</span>
@@ -4735,7 +4771,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bad country crime 2014" data-genre="crime">
+    <div class="movie-card" data-title="bad country crime 2014" data-genre="crime" data-chrf="57.86" data-bleu="41.02" data-fixed="22">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bad Country</span>
@@ -4778,7 +4814,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bad day at black rock thriller 1955" data-genre="thriller">
+    <div class="movie-card" data-title="bad day at black rock thriller 1955" data-genre="thriller" data-chrf="59.64" data-bleu="44.03" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bad Day at Black Rock</span>
@@ -4821,7 +4857,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bad dreams thriller 1988" data-genre="thriller">
+    <div class="movie-card" data-title="bad dreams thriller 1988" data-genre="thriller" data-chrf="63.67" data-bleu="50.81" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bad Dreams</span>
@@ -4864,7 +4900,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bad lieutenant crime 1992" data-genre="crime">
+    <div class="movie-card" data-title="bad lieutenant crime 1992" data-genre="crime" data-chrf="54.14" data-bleu="38.24" data-fixed="6">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bad Lieutenant</span>
@@ -4907,7 +4943,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bad santa crime 2003" data-genre="crime">
+    <div class="movie-card" data-title="bad santa crime 2003" data-genre="crime" data-chrf="55.01" data-bleu="39.00" data-fixed="33">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bad Santa</span>
@@ -4950,7 +4986,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="barbie adventure 2023" data-genre="adventure">
+    <div class="movie-card" data-title="barbie adventure 2023" data-genre="adventure" data-chrf="61.73" data-bleu="45.93" data-fixed="32">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Barbie</span>
@@ -4993,7 +5029,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="barry lyndon romance 1975" data-genre="romance">
+    <div class="movie-card" data-title="barry lyndon romance 1975" data-genre="romance" data-chrf="54.47" data-bleu="36.03" data-fixed="8">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Barry Lyndon</span>
@@ -5036,7 +5072,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="barton fink thriller 1991" data-genre="thriller">
+    <div class="movie-card" data-title="barton fink thriller 1991" data-genre="thriller" data-chrf="57.68" data-bleu="41.91" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Barton Fink</span>
@@ -5079,7 +5115,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="basic thriller 2003" data-genre="thriller">
+    <div class="movie-card" data-title="basic thriller 2003" data-genre="thriller" data-chrf="55.57" data-bleu="38.86" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Basic</span>
@@ -5122,7 +5158,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="basic instinct thriller 1992" data-genre="thriller">
+    <div class="movie-card" data-title="basic instinct thriller 1992" data-genre="thriller" data-chrf="66.54" data-bleu="51.11" data-fixed="26">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Basic Instinct</span>
@@ -5165,7 +5201,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="batman thriller 1989" data-genre="thriller">
+    <div class="movie-card" data-title="batman thriller 1989" data-genre="thriller" data-chrf="59.61" data-bleu="45.54" data-fixed="16">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Batman</span>
@@ -5208,7 +5244,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="batman 2 thriller 1992" data-genre="thriller">
+    <div class="movie-card" data-title="batman 2 thriller 1992" data-genre="thriller" data-chrf="60.59" data-bleu="45.55" data-fixed="10">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Batman 2</span>
@@ -5251,7 +5287,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="battle: los angeles sci-fi 2011" data-genre="sci-fi">
+    <div class="movie-card" data-title="battle: los angeles sci-fi 2011" data-genre="sci-fi" data-chrf="50.44" data-bleu="34.23" data-fixed="4">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Battle: Los Angeles</span>
@@ -5294,7 +5330,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="beavis and butt-head do america animation 1996" data-genre="animation">
+    <div class="movie-card" data-title="beavis and butt-head do america animation 1996" data-genre="animation" data-chrf="58.45" data-bleu="43.76" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Beavis and Butt-head Do America</span>
@@ -5337,7 +5373,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="beginners romance 2010" data-genre="romance">
+    <div class="movie-card" data-title="beginners romance 2010" data-genre="romance" data-chrf="63.20" data-bleu="47.55" data-fixed="26">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Beginners</span>
@@ -5380,7 +5416,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="belle romance 2013" data-genre="romance">
+    <div class="movie-card" data-title="belle romance 2013" data-genre="romance" data-chrf="51.78" data-bleu="34.62" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Belle</span>
@@ -5423,7 +5459,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="big eyes crime 2014" data-genre="crime">
+    <div class="movie-card" data-title="big eyes crime 2014" data-genre="crime" data-chrf="55.77" data-bleu="40.24" data-fixed="16">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Big Eyes</span>
@@ -5466,7 +5502,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="big fish adventure 2003" data-genre="adventure">
+    <div class="movie-card" data-title="big fish adventure 2003" data-genre="adventure" data-chrf="65.73" data-bleu="50.70" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Big Fish</span>
@@ -5509,7 +5545,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="birdman romance 2014" data-genre="romance">
+    <div class="movie-card" data-title="birdman romance 2014" data-genre="romance" data-chrf="61.99" data-bleu="49.00" data-fixed="36">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Birdman</span>
@@ -5552,7 +5588,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="birthday girl romance 2001" data-genre="romance">
+    <div class="movie-card" data-title="birthday girl romance 2001" data-genre="romance" data-chrf="62.32" data-bleu="48.22" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Birthday Girl</span>
@@ -5595,7 +5631,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="black panther sci-fi 2018" data-genre="sci-fi">
+    <div class="movie-card" data-title="black panther sci-fi 2018" data-genre="sci-fi" data-chrf="55.69" data-bleu="36.51" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Black Panther</span>
@@ -5638,7 +5674,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="black rain crime 1989" data-genre="crime">
+    <div class="movie-card" data-title="black rain crime 1989" data-genre="crime" data-chrf="63.87" data-bleu="50.20" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Black Rain</span>
@@ -5681,7 +5717,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blackkklansman crime 2018" data-genre="crime">
+    <div class="movie-card" data-title="blackkklansman crime 2018" data-genre="crime" data-chrf="56.59" data-bleu="35.97" data-fixed="38">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">BlacKkKlansman</span>
@@ -5724,7 +5760,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blade sci-fi 1998" data-genre="sci-fi">
+    <div class="movie-card" data-title="blade sci-fi 1998" data-genre="sci-fi" data-chrf="65.66" data-bleu="50.05" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blade</span>
@@ -5767,7 +5803,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blade ii horror 2002" data-genre="horror">
+    <div class="movie-card" data-title="blade ii horror 2002" data-genre="horror" data-chrf="56.36" data-bleu="39.13" data-fixed="8">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blade II</span>
@@ -5810,7 +5846,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blade runner sci-fi 1982" data-genre="sci-fi">
+    <div class="movie-card" data-title="blade runner sci-fi 1982" data-genre="sci-fi" data-chrf="62.16" data-bleu="46.42" data-fixed="25">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blade Runner</span>
@@ -5853,7 +5889,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blade: trinity horror 2004" data-genre="horror">
+    <div class="movie-card" data-title="blade: trinity horror 2004" data-genre="horror" data-chrf="57.85" data-bleu="40.36" data-fixed="13">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blade: Trinity</span>
@@ -5896,7 +5932,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blitz action 2011" data-genre="action">
+    <div class="movie-card" data-title="blitz action 2011" data-genre="action" data-chrf="62.57" data-bleu="49.15" data-fixed="30">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blitz</span>
@@ -5939,7 +5975,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blood and wine crime 1996" data-genre="crime">
+    <div class="movie-card" data-title="blood and wine crime 1996" data-genre="crime" data-chrf="58.85" data-bleu="41.84" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blood and Wine</span>
@@ -5982,7 +6018,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blood diamond feature film 2006" data-genre="feature film">
+    <div class="movie-card" data-title="blood diamond feature film 2006" data-genre="feature film" data-chrf="59.68" data-bleu="41.50" data-fixed="62">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blood Diamond</span>
@@ -6025,7 +6061,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blow crime 2001" data-genre="crime">
+    <div class="movie-card" data-title="blow crime 2001" data-genre="crime" data-chrf="66.16" data-bleu="52.08" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blow</span>
@@ -6068,7 +6104,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blue valentine romance 2010" data-genre="romance">
+    <div class="movie-card" data-title="blue valentine romance 2010" data-genre="romance" data-chrf="64.65" data-bleu="52.55" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blue Valentine</span>
@@ -6111,7 +6147,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="blue velvet crime 1986" data-genre="crime">
+    <div class="movie-card" data-title="blue velvet crime 1986" data-genre="crime" data-chrf="60.98" data-bleu="45.23" data-fixed="31">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Blue Velvet</span>
@@ -6154,7 +6190,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="body heat crime 1981" data-genre="crime">
+    <div class="movie-card" data-title="body heat crime 1981" data-genre="crime" data-chrf="64.96" data-bleu="51.00" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Body Heat</span>
@@ -6197,7 +6233,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="body of evidence romance 1993" data-genre="romance">
+    <div class="movie-card" data-title="body of evidence romance 1993" data-genre="romance" data-chrf="64.02" data-bleu="47.32" data-fixed="27">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Body of Evidence</span>
@@ -6240,7 +6276,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bodyguard romance 1992" data-genre="romance">
+    <div class="movie-card" data-title="bodyguard romance 1992" data-genre="romance" data-chrf="57.95" data-bleu="41.46" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bodyguard</span>
@@ -6283,7 +6319,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bones horror 2001" data-genre="horror">
+    <div class="movie-card" data-title="bones horror 2001" data-genre="horror" data-chrf="61.08" data-bleu="45.14" data-fixed="9">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bones</span>
@@ -6326,7 +6362,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bonnie and clyde romance 1967" data-genre="romance">
+    <div class="movie-card" data-title="bonnie and clyde romance 1967" data-genre="romance" data-chrf="59.75" data-bleu="43.84" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bonnie and Clyde</span>
@@ -6369,7 +6405,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bookworm adventure 2024" data-genre="adventure">
+    <div class="movie-card" data-title="bookworm adventure 2024" data-genre="adventure" data-chrf="63.59" data-bleu="51.82" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bookworm</span>
@@ -6412,7 +6448,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="boondock saints 2: all saints day crime 2009" data-genre="crime">
+    <div class="movie-card" data-title="boondock saints 2: all saints day crime 2009" data-genre="crime" data-chrf="57.53" data-bleu="40.56" data-fixed="24">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Boondock Saints 2: All Saints Day</span>
@@ -6455,7 +6491,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bottle rocket crime 1996" data-genre="crime">
+    <div class="movie-card" data-title="bottle rocket crime 1996" data-genre="crime" data-chrf="64.90" data-bleu="51.22" data-fixed="57">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bottle Rocket</span>
@@ -6498,7 +6534,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bound crime 1996" data-genre="crime">
+    <div class="movie-card" data-title="bound crime 1996" data-genre="crime" data-chrf="68.27" data-bleu="55.69" data-fixed="31">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bound</span>
@@ -6541,7 +6577,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="brazil sci-fi 1985" data-genre="sci-fi">
+    <div class="movie-card" data-title="brazil sci-fi 1985" data-genre="sci-fi" data-chrf="59.24" data-bleu="46.31" data-fixed="26">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Brazil</span>
@@ -6584,7 +6620,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="broadcast news romance 1987" data-genre="romance">
+    <div class="movie-card" data-title="broadcast news romance 1987" data-genre="romance" data-chrf="63.47" data-bleu="47.41" data-fixed="58">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Broadcast News</span>
@@ -6627,7 +6663,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="broken arrow adventure 1996" data-genre="adventure">
+    <div class="movie-card" data-title="broken arrow adventure 1996" data-genre="adventure" data-chrf="57.78" data-bleu="39.80" data-fixed="14">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Broken Arrow</span>
@@ -6670,7 +6706,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="broken embraces romance 2009" data-genre="romance">
+    <div class="movie-card" data-title="broken embraces romance 2009" data-genre="romance" data-chrf="61.60" data-bleu="47.68" data-fixed="22">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Broken Embraces</span>
@@ -6713,7 +6749,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bruce almighty romance 2003" data-genre="romance">
+    <div class="movie-card" data-title="bruce almighty romance 2003" data-genre="romance" data-chrf="54.18" data-bleu="38.82" data-fixed="11">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bruce Almighty</span>
@@ -6756,7 +6792,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="buffy the vampire slayer horror 1992" data-genre="horror">
+    <div class="movie-card" data-title="buffy the vampire slayer horror 1992" data-genre="horror" data-chrf="62.88" data-bleu="48.55" data-fixed="33">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Buffy the Vampire Slayer</span>
@@ -6799,7 +6835,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="bull durham romance 1988" data-genre="romance">
+    <div class="movie-card" data-title="bull durham romance 1988" data-genre="romance" data-chrf="58.56" data-bleu="40.35" data-fixed="13">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Bull Durham</span>
@@ -6842,7 +6878,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="burlesque romance 2010" data-genre="romance">
+    <div class="movie-card" data-title="burlesque romance 2010" data-genre="romance" data-chrf="55.53" data-bleu="39.67" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Burlesque</span>
@@ -6885,7 +6921,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="burn after reading crime 2008" data-genre="crime">
+    <div class="movie-card" data-title="burn after reading crime 2008" data-genre="crime" data-chrf="60.51" data-bleu="46.12" data-fixed="45">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Burn After Reading</span>
@@ -6928,7 +6964,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="burning annie romance 2004" data-genre="romance">
+    <div class="movie-card" data-title="burning annie romance 2004" data-genre="romance" data-chrf="67.15" data-bleu="54.19" data-fixed="35">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Burning Annie</span>
@@ -6971,7 +7007,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="capote crime 2005" data-genre="crime">
+    <div class="movie-card" data-title="capote crime 2005" data-genre="crime" data-chrf="63.05" data-bleu="47.46" data-fixed="31">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Capote</span>
@@ -7014,7 +7050,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="carrie horror 1976" data-genre="horror">
+    <div class="movie-card" data-title="carrie horror 1976" data-genre="horror" data-chrf="61.32" data-bleu="49.15" data-fixed="38">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Carrie</span>
@@ -7057,7 +7093,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="cars 2 animation 2011" data-genre="animation">
+    <div class="movie-card" data-title="cars 2 animation 2011" data-genre="animation" data-chrf="61.80" data-bleu="47.41" data-fixed="39">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Cars 2</span>
@@ -7100,7 +7136,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="case 39 horror 2009" data-genre="horror">
+    <div class="movie-card" data-title="case 39 horror 2009" data-genre="horror" data-chrf="66.05" data-bleu="52.63" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Case 39</span>
@@ -7143,7 +7179,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="casino crime 1995" data-genre="crime">
+    <div class="movie-card" data-title="casino crime 1995" data-genre="crime" data-chrf="61.11" data-bleu="46.62" data-fixed="110">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Casino</span>
@@ -7186,7 +7222,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="cast away adventure 2000" data-genre="adventure">
+    <div class="movie-card" data-title="cast away adventure 2000" data-genre="adventure" data-chrf="62.07" data-bleu="46.38" data-fixed="35">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Cast Away</span>
@@ -7229,7 +7265,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="catch me if you can crime 2002" data-genre="crime">
+    <div class="movie-card" data-title="catch me if you can crime 2002" data-genre="crime" data-chrf="62.53" data-bleu="45.11" data-fixed="13">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Catch Me If You Can</span>
@@ -7272,7 +7308,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="charade romance 1963" data-genre="romance">
+    <div class="movie-card" data-title="charade romance 1963" data-genre="romance" data-chrf="59.69" data-bleu="40.74" data-fixed="31">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Charade</span>
@@ -7315,7 +7351,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="chasing amy romance 1997" data-genre="romance">
+    <div class="movie-card" data-title="chasing amy romance 1997" data-genre="romance" data-chrf="56.48" data-bleu="40.26" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Chasing Amy</span>
@@ -7358,7 +7394,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="cherry falls horror 2000" data-genre="horror">
+    <div class="movie-card" data-title="cherry falls horror 2000" data-genre="horror" data-chrf="65.27" data-bleu="49.98" data-fixed="33">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Cherry Falls</span>
@@ -7401,7 +7437,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="chronicle sci-fi 2012" data-genre="sci-fi">
+    <div class="movie-card" data-title="chronicle sci-fi 2012" data-genre="sci-fi" data-chrf="59.94" data-bleu="43.90" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Chronicle</span>
@@ -7444,7 +7480,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="chronicles of narnia: the lion, the witch and the wardrobe adventure 2005" data-genre="adventure">
+    <div class="movie-card" data-title="chronicles of narnia: the lion, the witch and the wardrobe adventure 2005" data-genre="adventure" data-chrf="60.15" data-bleu="45.26" data-fixed="9">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Chronicles of Narnia: The Lion, the Witch and the Wardrobe</span>
@@ -7487,7 +7523,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="cinema paradiso romance 1988" data-genre="romance">
+    <div class="movie-card" data-title="cinema paradiso romance 1988" data-genre="romance" data-chrf="64.28" data-bleu="51.47" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Cinema Paradiso</span>
@@ -7530,7 +7566,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="cirque du freak: the vampire's assistant adventure 2009" data-genre="adventure">
+    <div class="movie-card" data-title="cirque du freak: the vampire's assistant adventure 2009" data-genre="adventure" data-chrf="51.41" data-bleu="34.64" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Cirque du Freak: The Vampire's Assistant</span>
@@ -7573,7 +7609,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="clash of the titans adventure 2010" data-genre="adventure">
+    <div class="movie-card" data-title="clash of the titans adventure 2010" data-genre="adventure" data-chrf="52.51" data-bleu="34.73" data-fixed="11">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Clash of the Titans</span>
@@ -7616,7 +7652,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="cliffhanger adventure 1993" data-genre="adventure">
+    <div class="movie-card" data-title="cliffhanger adventure 1993" data-genre="adventure" data-chrf="59.98" data-bleu="41.25" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Cliffhanger</span>
@@ -7659,7 +7695,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="coco feature film 2017" data-genre="feature film">
+    <div class="movie-card" data-title="coco feature film 2017" data-genre="feature film" data-chrf="60.68" data-bleu="48.03" data-fixed="50">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Coco</span>
@@ -7702,7 +7738,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="constantine horror 2005" data-genre="horror">
+    <div class="movie-card" data-title="constantine horror 2005" data-genre="horror" data-chrf="53.28" data-bleu="34.89" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Constantine</span>
@@ -7745,7 +7781,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="copycat horror 1995" data-genre="horror">
+    <div class="movie-card" data-title="copycat horror 1995" data-genre="horror" data-chrf="61.45" data-bleu="46.19" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Copycat</span>
@@ -7788,7 +7824,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="coraline animation 2009" data-genre="animation">
+    <div class="movie-card" data-title="coraline animation 2009" data-genre="animation" data-chrf="57.61" data-bleu="44.01" data-fixed="25">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Coraline</span>
@@ -7831,7 +7867,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="corpse bride animation 2005" data-genre="animation">
+    <div class="movie-card" data-title="corpse bride animation 2005" data-genre="animation" data-chrf="53.29" data-bleu="38.17" data-fixed="11">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Corpse Bride</span>
@@ -7874,7 +7910,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="crouching tiger, hidden dragon adventure 2000" data-genre="adventure">
+    <div class="movie-card" data-title="crouching tiger, hidden dragon adventure 2000" data-genre="adventure" data-chrf="63.67" data-bleu="49.68" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Crouching Tiger, Hidden Dragon</span>
@@ -7917,7 +7953,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="dances with wolves adventure 1990" data-genre="adventure">
+    <div class="movie-card" data-title="dances with wolves adventure 1990" data-genre="adventure" data-chrf="58.52" data-bleu="42.48" data-fixed="13">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Dances with Wolves</span>
@@ -7960,7 +7996,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="dark city sci-fi 1998" data-genre="sci-fi">
+    <div class="movie-card" data-title="dark city sci-fi 1998" data-genre="sci-fi" data-chrf="62.81" data-bleu="48.91" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Dark City</span>
@@ -8003,7 +8039,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="dark star sci-fi 1974" data-genre="sci-fi">
+    <div class="movie-card" data-title="dark star sci-fi 1974" data-genre="sci-fi" data-chrf="58.00" data-bleu="43.21" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Dark Star</span>
@@ -8046,7 +8082,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="darkman sci-fi 1990" data-genre="sci-fi">
+    <div class="movie-card" data-title="darkman sci-fi 1990" data-genre="sci-fi" data-chrf="52.24" data-bleu="33.83" data-fixed="9">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Darkman</span>
@@ -8089,7 +8125,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="dawn of the dead horror 2004" data-genre="horror">
+    <div class="movie-card" data-title="dawn of the dead horror 2004" data-genre="horror" data-chrf="40.67" data-bleu="22.38" data-fixed="2">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Dawn of the Dead</span>
@@ -8132,7 +8168,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="deadpool adventure 2016" data-genre="adventure">
+    <div class="movie-card" data-title="deadpool adventure 2016" data-genre="adventure" data-chrf="59.06" data-bleu="44.60" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Deadpool</span>
@@ -8175,7 +8211,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="deadpool & wolverine sci-fi 2024" data-genre="sci-fi">
+    <div class="movie-card" data-title="deadpool & wolverine sci-fi 2024" data-genre="sci-fi" data-chrf="59.04" data-bleu="44.57" data-fixed="22">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Deadpool & Wolverine</span>
@@ -8218,7 +8254,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="deep rising horror 1998" data-genre="horror">
+    <div class="movie-card" data-title="deep rising horror 1998" data-genre="horror" data-chrf="58.50" data-bleu="45.84" data-fixed="22">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Deep Rising</span>
@@ -8261,7 +8297,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="despicable me 2 animation 2013" data-genre="animation">
+    <div class="movie-card" data-title="despicable me 2 animation 2013" data-genre="animation" data-chrf="63.07" data-bleu="50.97" data-fixed="27">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Despicable Me 2</span>
@@ -8304,7 +8340,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="detroit rock city adventure 1999" data-genre="adventure">
+    <div class="movie-card" data-title="detroit rock city adventure 1999" data-genre="adventure" data-chrf="60.44" data-bleu="46.58" data-fixed="8">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Detroit Rock City</span>
@@ -8347,7 +8383,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="devil's advocate horror 1997" data-genre="horror">
+    <div class="movie-card" data-title="devil's advocate horror 1997" data-genre="horror" data-chrf="63.20" data-bleu="48.33" data-fixed="37">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Devil's Advocate</span>
@@ -8390,7 +8426,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="django unchained adventure 2012" data-genre="adventure">
+    <div class="movie-card" data-title="django unchained adventure 2012" data-genre="adventure" data-chrf="47.67" data-bleu="29.57" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Django Unchained</span>
@@ -8433,7 +8469,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="dogma adventure 1999" data-genre="adventure">
+    <div class="movie-card" data-title="dogma adventure 1999" data-genre="adventure" data-chrf="60.36" data-bleu="44.23" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Dogma</span>
@@ -8476,7 +8512,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="drag me to hell horror 2009" data-genre="horror">
+    <div class="movie-card" data-title="drag me to hell horror 2009" data-genre="horror" data-chrf="56.28" data-bleu="38.36" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Drag Me to Hell</span>
@@ -8519,7 +8555,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="dune sci-fi 1984" data-genre="sci-fi">
+    <div class="movie-card" data-title="dune sci-fi 1984" data-genre="sci-fi" data-chrf="55.73" data-bleu="40.94" data-fixed="13">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Dune</span>
@@ -8562,7 +8598,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="dune part one sci-fi 2021" data-genre="sci-fi">
+    <div class="movie-card" data-title="dune part one sci-fi 2021" data-genre="sci-fi" data-chrf="60.00" data-bleu="44.39" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Dune Part One</span>
@@ -8605,7 +8641,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="eight legged freaks sci-fi 2002" data-genre="sci-fi">
+    <div class="movie-card" data-title="eight legged freaks sci-fi 2002" data-genre="sci-fi" data-chrf="65.43" data-bleu="52.10" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Eight Legged Freaks</span>
@@ -8648,7 +8684,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="elemental animation 2023" data-genre="animation">
+    <div class="movie-card" data-title="elemental animation 2023" data-genre="animation" data-chrf="62.00" data-bleu="47.85" data-fixed="36">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Elemental</span>
@@ -8691,7 +8727,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="escape from l.a. sci-fi 1996" data-genre="sci-fi">
+    <div class="movie-card" data-title="escape from l.a. sci-fi 1996" data-genre="sci-fi" data-chrf="59.11" data-bleu="42.78" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Escape From L.A.</span>
@@ -8734,7 +8770,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="event horizon horror 1997" data-genre="horror">
+    <div class="movie-card" data-title="event horizon horror 1997" data-genre="horror" data-chrf="64.23" data-bleu="50.06" data-fixed="42">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Event Horizon</span>
@@ -8777,7 +8813,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="evil dead horror 1981" data-genre="horror">
+    <div class="movie-card" data-title="evil dead horror 1981" data-genre="horror" data-chrf="58.42" data-bleu="44.12" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Evil Dead</span>
@@ -8820,7 +8856,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="evil dead ii: dead by dawn horror 1987" data-genre="horror">
+    <div class="movie-card" data-title="evil dead ii: dead by dawn horror 1987" data-genre="horror" data-chrf="62.58" data-bleu="49.11" data-fixed="4">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Evil Dead II: Dead by Dawn</span>
@@ -8863,7 +8899,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="fantastic mr fox animation 2009" data-genre="animation">
+    <div class="movie-card" data-title="fantastic mr fox animation 2009" data-genre="animation" data-chrf="53.04" data-bleu="35.25" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Fantastic Mr Fox</span>
@@ -8906,7 +8942,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="feast horror 2005" data-genre="horror">
+    <div class="movie-card" data-title="feast horror 2005" data-genre="horror" data-chrf="57.91" data-bleu="42.42" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Feast</span>
@@ -8949,7 +8985,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="fight club drama / classics 1999" data-genre="drama / classics">
+    <div class="movie-card" data-title="fight club drama / classics 1999" data-genre="drama / classics" data-chrf="64.40" data-bleu="50.23" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Fight Club</span>
@@ -8992,7 +9028,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="final destination horror 2000" data-genre="horror">
+    <div class="movie-card" data-title="final destination horror 2000" data-genre="horror" data-chrf="63.33" data-bleu="50.69" data-fixed="13">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Final Destination</span>
@@ -9035,7 +9071,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="final destination 2 horror 2003" data-genre="horror">
+    <div class="movie-card" data-title="final destination 2 horror 2003" data-genre="horror" data-chrf="63.93" data-bleu="49.41" data-fixed="14">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Final Destination 2</span>
@@ -9078,7 +9114,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="forrest gump drama / classics 1994" data-genre="drama / classics">
+    <div class="movie-card" data-title="forrest gump drama / classics 1994" data-genre="drama / classics" data-chrf="64.25" data-bleu="49.19" data-fixed="32">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Forrest Gump</span>
@@ -9121,7 +9157,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="freddy vs. jason horror 2003" data-genre="horror">
+    <div class="movie-card" data-title="freddy vs. jason horror 2003" data-genre="horror" data-chrf="65.52" data-bleu="53.10" data-fixed="25">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Freddy vs. Jason</span>
@@ -9164,7 +9200,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="friday the 13th horror 1980" data-genre="horror">
+    <div class="movie-card" data-title="friday the 13th horror 1980" data-genre="horror" data-chrf="59.95" data-bleu="44.37" data-fixed="25">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Friday the 13th</span>
@@ -9207,7 +9243,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="friday the 13th part viii: jason takes manhattan horror 1989" data-genre="horror">
+    <div class="movie-card" data-title="friday the 13th part viii: jason takes manhattan horror 1989" data-genre="horror" data-chrf="63.89" data-bleu="51.03" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Friday the 13th Part VIII: Jason Takes Manhattan</span>
@@ -9250,7 +9286,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="fright night horror 1985" data-genre="horror">
+    <div class="movie-card" data-title="fright night horror 1985" data-genre="horror" data-chrf="52.06" data-bleu="36.11" data-fixed="13">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Fright Night</span>
@@ -9293,7 +9329,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="frozen feature film 2013" data-genre="feature film">
+    <div class="movie-card" data-title="frozen feature film 2013" data-genre="feature film" data-chrf="60.61" data-bleu="48.99" data-fixed="75">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Frozen</span>
@@ -9336,7 +9372,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="frozen animation 2013" data-genre="animation">
+    <div class="movie-card" data-title="frozen animation 2013" data-genre="animation" data-chrf="61.66" data-bleu="49.05" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Frozen</span>
@@ -9379,7 +9415,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="gladiator drama / classics 2000" data-genre="drama / classics">
+    <div class="movie-card" data-title="gladiator drama / classics 2000" data-genre="drama / classics" data-chrf="59.43" data-bleu="43.34" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Gladiator</span>
@@ -9422,7 +9458,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="happy feet animation 2006" data-genre="animation">
+    <div class="movie-card" data-title="happy feet animation 2006" data-genre="animation" data-chrf="55.59" data-bleu="40.58" data-fixed="10">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Happy Feet</span>
@@ -9465,7 +9501,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="heavy metal animation 1981" data-genre="animation">
+    <div class="movie-card" data-title="heavy metal animation 1981" data-genre="animation" data-chrf="62.19" data-bleu="47.63" data-fixed="8">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Heavy Metal</span>
@@ -9508,7 +9544,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="here comes peter cottontail animation 1971" data-genre="animation">
+    <div class="movie-card" data-title="here comes peter cottontail animation 1971" data-genre="animation" data-chrf="59.08" data-bleu="43.72" data-fixed="9">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Here Comes Peter Cottontail</span>
@@ -9551,7 +9587,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="how to train your dragon animation 2010" data-genre="animation">
+    <div class="movie-card" data-title="how to train your dragon animation 2010" data-genre="animation" data-chrf="54.23" data-bleu="35.17" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">How to Train Your Dragon</span>
@@ -9594,7 +9630,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="how to train your dragon 2 animation 2014" data-genre="animation">
+    <div class="movie-card" data-title="how to train your dragon 2 animation 2014" data-genre="animation" data-chrf="57.74" data-bleu="44.49" data-fixed="13">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">How to Train Your Dragon 2</span>
@@ -9637,7 +9673,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="inception drama / classics 2010" data-genre="drama / classics">
+    <div class="movie-card" data-title="inception drama / classics 2010" data-genre="drama / classics" data-chrf="65.28" data-bleu="51.23" data-fixed="33">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Inception</span>
@@ -9680,7 +9716,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="interstellar drama / classics 2014" data-genre="drama / classics">
+    <div class="movie-card" data-title="interstellar drama / classics 2014" data-genre="drama / classics" data-chrf="67.73" data-bleu="52.89" data-fixed="10">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Interstellar</span>
@@ -9723,7 +9759,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="kung fu panda animation 2008" data-genre="animation">
+    <div class="movie-card" data-title="kung fu panda animation 2008" data-genre="animation" data-chrf="61.28" data-bleu="47.27" data-fixed="26">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Kung Fu Panda</span>
@@ -9766,7 +9802,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="l' avventura (the adventure) thriller 1960" data-genre="thriller">
+    <div class="movie-card" data-title="l' avventura (the adventure) thriller 1960" data-genre="thriller" data-chrf="63.00" data-bleu="49.94" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">L' Avventura (The Adventure)</span>
@@ -9809,7 +9845,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="megamind animation 2010" data-genre="animation">
+    <div class="movie-card" data-title="megamind animation 2010" data-genre="animation" data-chrf="62.57" data-bleu="48.24" data-fixed="31">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Megamind</span>
@@ -9852,7 +9888,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="memento feature film 2000" data-genre="feature film">
+    <div class="movie-card" data-title="memento feature film 2000" data-genre="feature film" data-chrf="66.28" data-bleu="51.95" data-fixed="25">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Memento</span>
@@ -9895,7 +9931,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="moana feature film 2016" data-genre="feature film">
+    <div class="movie-card" data-title="moana feature film 2016" data-genre="feature film" data-chrf="58.61" data-bleu="43.97" data-fixed="67">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Moana</span>
@@ -9938,7 +9974,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="monkeybone animation 2001" data-genre="animation">
+    <div class="movie-card" data-title="monkeybone animation 2001" data-genre="animation" data-chrf="59.11" data-bleu="45.99" data-fixed="13">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Monkeybone</span>
@@ -9981,7 +10017,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="one eight seven (187) drama 1997" data-genre="drama">
+    <div class="movie-card" data-title="one eight seven (187) drama 1997" data-genre="drama" data-chrf="61.33" data-bleu="44.50" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">One Eight Seven (187)</span>
@@ -10024,7 +10060,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="onward animation 2020" data-genre="animation">
+    <div class="movie-card" data-title="onward animation 2020" data-genre="animation" data-chrf="62.26" data-bleu="49.57" data-fixed="27">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Onward</span>
@@ -10067,7 +10103,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="paranorman animation 2012" data-genre="animation">
+    <div class="movie-card" data-title="paranorman animation 2012" data-genre="animation" data-chrf="56.97" data-bleu="41.02" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">ParaNorman</span>
@@ -10110,7 +10146,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="pulp fiction drama / classics 1994" data-genre="drama / classics">
+    <div class="movie-card" data-title="pulp fiction drama / classics 1994" data-genre="drama / classics" data-chrf="56.38" data-bleu="39.70" data-fixed="44">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Pulp Fiction</span>
@@ -10153,7 +10189,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="puss in boots: the last wish animation 2022" data-genre="animation">
+    <div class="movie-card" data-title="puss in boots: the last wish animation 2022" data-genre="animation" data-chrf="57.35" data-bleu="43.91" data-fixed="36">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Puss in Boots: The Last Wish</span>
@@ -10196,7 +10232,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="reservoir dogs feature film 1992" data-genre="feature film">
+    <div class="movie-card" data-title="reservoir dogs feature film 1992" data-genre="feature film" data-chrf="55.00" data-bleu="38.08" data-fixed="14">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Reservoir Dogs</span>
@@ -10239,7 +10275,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="rise of the guardians animation 2012" data-genre="animation">
+    <div class="movie-card" data-title="rise of the guardians animation 2012" data-genre="animation" data-chrf="59.80" data-bleu="48.81" data-fixed="24">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Rise of the Guardians</span>
@@ -10282,7 +10318,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="saving private ryan feature film 1998" data-genre="feature film">
+    <div class="movie-card" data-title="saving private ryan feature film 1998" data-genre="feature film" data-chrf="54.44" data-bleu="37.92" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Saving Private Ryan</span>
@@ -10325,7 +10361,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="se7en feature film 1995" data-genre="feature film">
+    <div class="movie-card" data-title="se7en feature film 1995" data-genre="feature film" data-chrf="57.67" data-bleu="41.49" data-fixed="6">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Se7en</span>
@@ -10368,7 +10404,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="shrek animation 2001" data-genre="animation">
+    <div class="movie-card" data-title="shrek animation 2001" data-genre="animation" data-chrf="58.83" data-bleu="45.80" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Shrek</span>
@@ -10411,7 +10447,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="shrek the third animation 2007" data-genre="animation">
+    <div class="movie-card" data-title="shrek the third animation 2007" data-genre="animation" data-chrf="56.63" data-bleu="41.20" data-fixed="49">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Shrek the Third</span>
@@ -10454,7 +10490,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="south park: bigger, longer & uncut animation 1999" data-genre="animation">
+    <div class="movie-card" data-title="south park: bigger, longer & uncut animation 1999" data-genre="animation" data-chrf="60.32" data-bleu="43.70" data-fixed="36">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">South Park: Bigger, Longer & Uncut</span>
@@ -10497,7 +10533,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="spider-man: across the spider-verse animation 2023" data-genre="animation">
+    <div class="movie-card" data-title="spider-man: across the spider-verse animation 2023" data-genre="animation" data-chrf="63.82" data-bleu="50.60" data-fixed="57">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Spider-Man: Across the Spider-Verse</span>
@@ -10540,7 +10576,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="star wars: episode iv - a new hope feature film 1977" data-genre="feature film">
+    <div class="movie-card" data-title="star wars: episode iv - a new hope feature film 1977" data-genre="feature film" data-chrf="62.54" data-bleu="47.77" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Star Wars: Episode IV - A New Hope</span>
@@ -10583,7 +10619,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="teenage mutant ninja turtles: mutant mayhem animation 2023" data-genre="animation">
+    <div class="movie-card" data-title="teenage mutant ninja turtles: mutant mayhem animation 2023" data-genre="animation" data-chrf="58.19" data-bleu="45.26" data-fixed="37">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Teenage Mutant Ninja Turtles: Mutant Mayhem</span>
@@ -10626,7 +10662,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="terminator 2: judgment day feature film 1991" data-genre="feature film">
+    <div class="movie-card" data-title="terminator 2: judgment day feature film 1991" data-genre="feature film" data-chrf="64.25" data-bleu="51.02" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Terminator 2: Judgment Day</span>
@@ -10669,7 +10705,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the abyss thriller 1989" data-genre="thriller">
+    <div class="movie-card" data-title="the abyss thriller 1989" data-genre="thriller" data-chrf="60.01" data-bleu="45.57" data-fixed="22">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Abyss</span>
@@ -10712,7 +10748,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the addams family horror 1991" data-genre="horror">
+    <div class="movie-card" data-title="the addams family horror 1991" data-genre="horror" data-chrf="54.31" data-bleu="38.61" data-fixed="5">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Addams Family</span>
@@ -10755,7 +10791,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the adjustment bureau thriller 2011" data-genre="thriller">
+    <div class="movie-card" data-title="the adjustment bureau thriller 2011" data-genre="thriller" data-chrf="61.17" data-bleu="44.25" data-fixed="14">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Adjustment Bureau</span>
@@ -10798,7 +10834,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the american thriller 2010" data-genre="thriller">
+    <div class="movie-card" data-title="the american thriller 2010" data-genre="thriller" data-chrf="61.27" data-bleu="46.78" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The American</span>
@@ -10841,7 +10877,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the american president romance 1995" data-genre="romance">
+    <div class="movie-card" data-title="the american president romance 1995" data-genre="romance" data-chrf="64.32" data-bleu="48.69" data-fixed="37">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The American President</span>
@@ -10884,7 +10920,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the amityville asylum horror 2013" data-genre="horror">
+    <div class="movie-card" data-title="the amityville asylum horror 2013" data-genre="horror" data-chrf="59.29" data-bleu="43.54" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Amityville Asylum</span>
@@ -10927,7 +10963,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the apartment comedy 1960" data-genre="comedy">
+    <div class="movie-card" data-title="the apartment comedy 1960" data-genre="comedy" data-chrf="64.03" data-bleu="45.09" data-fixed="43">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Apartment</span>
@@ -10970,7 +11006,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the assignment thriller 1997" data-genre="thriller">
+    <div class="movie-card" data-title="the assignment thriller 1997" data-genre="thriller" data-chrf="61.26" data-bleu="46.91" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Assignment</span>
@@ -11013,7 +11049,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the avengers sci-fi 2012" data-genre="sci-fi">
+    <div class="movie-card" data-title="the avengers sci-fi 2012" data-genre="sci-fi" data-chrf="54.60" data-bleu="38.17" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Avengers</span>
@@ -11056,7 +11092,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the back-up plan romance 2010" data-genre="romance">
+    <div class="movie-card" data-title="the back-up plan romance 2010" data-genre="romance" data-chrf="60.05" data-bleu="44.79" data-fixed="71">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Back-up Plan</span>
@@ -11099,7 +11135,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the battle of shaker heights romance 2003" data-genre="romance">
+    <div class="movie-card" data-title="the battle of shaker heights romance 2003" data-genre="romance" data-chrf="63.81" data-bleu="49.25" data-fixed="33">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Battle of Shaker Heights</span>
@@ -11142,7 +11178,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the beekeeper thriller 2024" data-genre="thriller">
+    <div class="movie-card" data-title="the beekeeper thriller 2024" data-genre="thriller" data-chrf="61.79" data-bleu="45.89" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Beekeeper</span>
@@ -11185,7 +11221,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the big blue romance 1988" data-genre="romance">
+    <div class="movie-card" data-title="the big blue romance 1988" data-genre="romance" data-chrf="64.37" data-bleu="50.53" data-fixed="27">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Big Blue</span>
@@ -11228,7 +11264,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the big sick romance 2017" data-genre="romance">
+    <div class="movie-card" data-title="the big sick romance 2017" data-genre="romance" data-chrf="64.96" data-bleu="49.68" data-fixed="42">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Big Sick</span>
@@ -11271,7 +11307,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the big white crime 2005" data-genre="crime">
+    <div class="movie-card" data-title="the big white crime 2005" data-genre="crime" data-chrf="64.10" data-bleu="50.39" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Big White</span>
@@ -11314,7 +11350,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the birds romance 1963" data-genre="romance">
+    <div class="movie-card" data-title="the birds romance 1963" data-genre="romance" data-chrf="61.59" data-bleu="48.02" data-fixed="34">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Birds</span>
@@ -11357,7 +11393,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the black dahlia crime 2006" data-genre="crime">
+    <div class="movie-card" data-title="the black dahlia crime 2006" data-genre="crime" data-chrf="59.85" data-bleu="43.04" data-fixed="32">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Black Dahlia</span>
@@ -11400,7 +11436,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the blast from the past romance 1999" data-genre="romance">
+    <div class="movie-card" data-title="the blast from the past romance 1999" data-genre="romance" data-chrf="63.00" data-bleu="50.46" data-fixed="52">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Blast from the Past</span>
@@ -11443,7 +11479,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the bling ring crime 2013" data-genre="crime">
+    <div class="movie-card" data-title="the bling ring crime 2013" data-genre="crime" data-chrf="64.89" data-bleu="49.08" data-fixed="25">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Bling Ring</span>
@@ -11486,7 +11522,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the book of eli sci-fi 2010" data-genre="sci-fi">
+    <div class="movie-card" data-title="the book of eli sci-fi 2010" data-genre="sci-fi" data-chrf="64.47" data-bleu="50.65" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Book of Eli</span>
@@ -11529,7 +11565,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the boondock saints crime 1999" data-genre="crime">
+    <div class="movie-card" data-title="the boondock saints crime 1999" data-genre="crime" data-chrf="57.26" data-bleu="40.86" data-fixed="14">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Boondock Saints</span>
@@ -11572,7 +11608,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the bounty hunter romance 2010" data-genre="romance">
+    <div class="movie-card" data-title="the bounty hunter romance 2010" data-genre="romance" data-chrf="64.89" data-bleu="52.95" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Bounty Hunter</span>
@@ -11615,7 +11651,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the bourne identity adventure 2002" data-genre="adventure">
+    <div class="movie-card" data-title="the bourne identity adventure 2002" data-genre="adventure" data-chrf="61.30" data-bleu="43.05" data-fixed="22">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Bourne Identity</span>
@@ -11658,7 +11694,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the bourne ultimatum adventure 2007" data-genre="adventure">
+    <div class="movie-card" data-title="the bourne ultimatum adventure 2007" data-genre="adventure" data-chrf="66.76" data-bleu="52.21" data-fixed="26">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Bourne Ultimatum</span>
@@ -11701,7 +11737,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the box sci-fi 2009" data-genre="sci-fi">
+    <div class="movie-card" data-title="the box sci-fi 2009" data-genre="sci-fi" data-chrf="61.45" data-bleu="47.93" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Box</span>
@@ -11744,7 +11780,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the boxtrolls animation 2014" data-genre="animation">
+    <div class="movie-card" data-title="the boxtrolls animation 2014" data-genre="animation" data-chrf="54.58" data-bleu="40.48" data-fixed="27">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Boxtrolls</span>
@@ -11787,7 +11823,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the brothers bloom romance 2008" data-genre="romance">
+    <div class="movie-card" data-title="the brothers bloom romance 2008" data-genre="romance" data-chrf="61.67" data-bleu="45.74" data-fixed="18">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Brothers Bloom</span>
@@ -11830,7 +11866,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the cell sci-fi 2000" data-genre="sci-fi">
+    <div class="movie-card" data-title="the cell sci-fi 2000" data-genre="sci-fi" data-chrf="65.50" data-bleu="51.31" data-fixed="20">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Cell</span>
@@ -11873,7 +11909,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the cider house rules romance 1999" data-genre="romance">
+    <div class="movie-card" data-title="the cider house rules romance 1999" data-genre="romance" data-chrf="62.61" data-bleu="45.90" data-fixed="31">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Cider House Rules</span>
@@ -11916,7 +11952,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the croods animation 2013" data-genre="animation">
+    <div class="movie-card" data-title="the croods animation 2013" data-genre="animation" data-chrf="61.87" data-bleu="49.45" data-fixed="22">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Croods</span>
@@ -11959,7 +11995,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the crow horror 1994" data-genre="horror">
+    <div class="movie-card" data-title="the crow horror 1994" data-genre="horror" data-chrf="59.78" data-bleu="45.42" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Crow</span>
@@ -12002,7 +12038,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the crow salvation horror 2000" data-genre="horror">
+    <div class="movie-card" data-title="the crow salvation horror 2000" data-genre="horror" data-chrf="65.88" data-bleu="52.13" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Crow Salvation</span>
@@ -12045,7 +12081,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the dark knight drama / classics 2008" data-genre="drama / classics">
+    <div class="movie-card" data-title="the dark knight drama / classics 2008" data-genre="drama / classics" data-chrf="58.56" data-bleu="41.93" data-fixed="24">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Dark Knight</span>
@@ -12088,7 +12124,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the day the earth stood still sci-fi 2008" data-genre="sci-fi">
+    <div class="movie-card" data-title="the day the earth stood still sci-fi 2008" data-genre="sci-fi" data-chrf="59.56" data-bleu="40.48" data-fixed="19">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Day the Earth Stood Still</span>
@@ -12131,7 +12167,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the departed feature film 2006" data-genre="feature film">
+    <div class="movie-card" data-title="the departed feature film 2006" data-genre="feature film" data-chrf="62.49" data-bleu="47.74" data-fixed="36">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Departed</span>
@@ -12174,7 +12210,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the godfather drama / classics 1972" data-genre="drama / classics">
+    <div class="movie-card" data-title="the godfather drama / classics 1972" data-genre="drama / classics" data-chrf="63.65" data-bleu="48.88" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Godfather</span>
@@ -12217,7 +12253,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the green mile feature film 1999" data-genre="feature film">
+    <div class="movie-card" data-title="the green mile feature film 1999" data-genre="feature film" data-chrf="57.58" data-bleu="42.49" data-fixed="23">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Green Mile</span>
@@ -12260,7 +12296,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the lego movie animation 2014" data-genre="animation">
+    <div class="movie-card" data-title="the lego movie animation 2014" data-genre="animation" data-chrf="63.92" data-bleu="49.34" data-fixed="38">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The LEGO Movie</span>
@@ -12303,7 +12339,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the lord of the rings: the fellowship of the ring feature film 2001" data-genre="feature film">
+    <div class="movie-card" data-title="the lord of the rings: the fellowship of the ring feature film 2001" data-genre="feature film" data-chrf="58.45" data-bleu="42.69" data-fixed="21">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Lord of the Rings: The Fellowship of the Ring</span>
@@ -12346,7 +12382,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the matrix drama / classics 1999" data-genre="drama / classics">
+    <div class="movie-card" data-title="the matrix drama / classics 1999" data-genre="drama / classics" data-chrf="58.30" data-bleu="35.92" data-fixed="12">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Matrix</span>
@@ -12389,7 +12425,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the prestige feature film 2006" data-genre="feature film">
+    <div class="movie-card" data-title="the prestige feature film 2006" data-genre="feature film" data-chrf="56.64" data-bleu="39.96" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Prestige</span>
@@ -12432,7 +12468,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the shawshank redemption feature film 1994" data-genre="feature film">
+    <div class="movie-card" data-title="the shawshank redemption feature film 1994" data-genre="feature film" data-chrf="52.38" data-bleu="38.06" data-fixed="22">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Shawshank Redemption</span>
@@ -12475,7 +12511,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the silence of the lambs feature film 1991" data-genre="feature film">
+    <div class="movie-card" data-title="the silence of the lambs feature film 1991" data-genre="feature film" data-chrf="59.75" data-bleu="43.64" data-fixed="8">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Silence Of The Lambs</span>
@@ -12518,7 +12554,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the terminator feature film 1984" data-genre="feature film">
+    <div class="movie-card" data-title="the terminator feature film 1984" data-genre="feature film" data-chrf="63.63" data-bleu="51.58" data-fixed="24">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Terminator</span>
@@ -12561,7 +12597,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="the usual suspects feature film 1995" data-genre="feature film">
+    <div class="movie-card" data-title="the usual suspects feature film 1995" data-genre="feature film" data-chrf="61.09" data-bleu="44.41" data-fixed="24">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">The Usual Suspects</span>
@@ -12604,7 +12640,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="tmnt animation 2007" data-genre="animation">
+    <div class="movie-card" data-title="tmnt animation 2007" data-genre="animation" data-chrf="51.24" data-bleu="33.48" data-fixed="9">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">TMNT</span>
@@ -12647,7 +12683,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="toy story animation 1995" data-genre="animation">
+    <div class="movie-card" data-title="toy story animation 1995" data-genre="animation" data-chrf="60.29" data-bleu="48.10" data-fixed="22">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Toy Story</span>
@@ -12690,7 +12726,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="transformers: the movie animation 1986" data-genre="animation">
+    <div class="movie-card" data-title="transformers: the movie animation 1986" data-genre="animation" data-chrf="54.51" data-bleu="37.49" data-fixed="15">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Transformers: The Movie</span>
@@ -12733,7 +12769,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="up animation 2009" data-genre="animation">
+    <div class="movie-card" data-title="up animation 2009" data-genre="animation" data-chrf="56.95" data-bleu="41.39" data-fixed="17">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Up</span>
@@ -12776,7 +12812,7 @@
         </div>
       </div>
     </div>
-    <div class="movie-card" data-title="wall-e animation 2008" data-genre="animation">
+    <div class="movie-card" data-title="wall-e animation 2008" data-genre="animation" data-chrf="52.77" data-bleu="39.14" data-fixed="28">
       <div class="movie-info">
         <div class="movie-title-row">
           <span class="movie-title">Wall-E</span>
@@ -12914,6 +12950,36 @@ function loadMore() {
 
 function loadAll() {
   displayLimit = 999999;
+  filterMovies();
+}
+
+function sortMovies() {
+  const sortBy = document.getElementById('sort-dropdown').value;
+  const grid = document.getElementById('movies');
+  const cards = Array.from(grid.querySelectorAll('.movie-card'));
+
+  const getNum = (card, attr) => parseFloat(card.dataset[attr]) || 0;
+
+  cards.sort((a, b) => {
+    if (sortBy === 'title') {
+      return (a.dataset.title || '').localeCompare(b.dataset.title || '');
+    } else if (sortBy === 'chrf') {
+      return getNum(b, 'chrf') - getNum(a, 'chrf');
+    } else if (sortBy === 'bleu') {
+      return getNum(b, 'bleu') - getNum(a, 'bleu');
+    } else if (sortBy === 'fixed') {
+      return getNum(b, 'fixed') - getNum(a, 'fixed');
+    }
+    return 0;
+  });
+
+  // Re-append in sorted order -- appendChild on a node already in the DOM
+  // moves it rather than cloning it, so this reorders in place. filterMovies()
+  // re-queries '.movie-card' fresh every time it runs and simply respects
+  // whatever DOM order it finds, so no changes were needed there for the two
+  // to work together -- sort first, then let the existing search/genre/limit
+  // logic apply on top of the new order.
+  cards.forEach(card => grid.appendChild(card));
   filterMovies();
 }
 
