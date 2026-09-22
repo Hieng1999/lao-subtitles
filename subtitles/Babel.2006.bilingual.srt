@@ -1598,7 +1598,7 @@ Look son, these are Mike and Debbie, the kids I take care of.
 00:14:09,350 --> 00:14:11,350
 [LUIS]
 Pleased to meet you Mike.
-ສະບາຍດີ ໄມຄ໌.
+ດີໃຈທີ່ຮູ້ຈັກເຈົ້າໄມຄ໌.
 
 264
 00:14:11,850 --> 00:14:13,850

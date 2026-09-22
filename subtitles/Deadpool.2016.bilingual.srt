@@ -727,7 +727,7 @@ Boothe!
 00:07:14,300 --> 00:07:16,300
 [BOOTHE]
 Heya, Wade!
-ສະບາຍດີ, ເວດ!
+ເຮຍ, ເວດ!
 
 118
 00:07:16,800 --> 00:07:21,000
@@ -1511,7 +1511,7 @@ See, people do react differently. Vanessa's already working on Plan A. B. All th
 00:14:50,300 --> 00:14:52,300
 [DOCTOR]
 Mr. Wilson?
-ສະບາຍດີ ວີລສັນແມ່ນບໍ່?
+ທ້າວ ວີລສັນ?
 
 244
 00:14:52,800 --> 00:14:58,400

@@ -2792,7 +2792,7 @@ Note that the cult members are found reclining after swallowing the [click] Syri
 00:29:58,550 --> 00:30:00,650
 [MILO]
 Please don't be one of them.
-ສະບາຍດີ ຢ່າເປັນໜຶ່ງໃນພວກນັ້ນເດີ້.
+ກະລຸນາຢ່າເປັນຄົນຫນຶ່ງຂອງພວກເຂົາ.
 
 442
 00:30:01,150 --> 00:30:05,350
@@ -4460,7 +4460,7 @@ She called to apologize. I said I was pulling an all-nighter. She said then come
 00:47:45,800 --> 00:47:47,800
 [LISA]
 Please don't go.
-ສະບາຍດີ ຢ່າໄປເດີ້.
+ກະລຸນາຢ່າໄປ.
 
 704
 00:47:48,300 --> 00:47:53,550
@@ -5104,7 +5104,7 @@ Maybe it's the satellite.
 00:53:34,850 --> 00:53:36,850
 [MILO]
 Let's try #2.
-ສະບາຍດີ, ພວກເຮົາຈະພະຍາຍາມ #2.
+ມາລອງ #2.
 
 808
 00:53:37,350 --> 00:53:39,350

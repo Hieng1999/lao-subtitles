@@ -1,6 +1,6 @@
 {
   "schema_note": "Every number in this file is real and independently reproducible -- computed from actual sacrebleu runs, actual verification-pipeline state files, or actual dataset files in the lao-thai-translator repo. Nothing here is estimated, projected, or hand-typed as a round number. Fields with a null value mean 'not measured under this methodology,' never 'assumed good.'",
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-22",
   "generations": [
     {
       "id": "gen3",

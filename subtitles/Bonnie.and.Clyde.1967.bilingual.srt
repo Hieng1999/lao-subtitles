@@ -1054,7 +1054,7 @@ Now C.W.'ll be waitin' right outside in the car.  Here is the teller's cage.  Fo
 00:10:10,600 --> 00:10:12,600
 [BONNIE]
 Why, Clyde...
-ສະບາຍດີ ແຄລໄດ...
+ເປັນຫຍັງ, ຄລໄດ...
 
 172
 00:10:13,100 --> 00:10:15,100
@@ -1443,7 +1443,7 @@ Everybody, this is C.W. Moss. C.W., my brother Buck and his wife, Blanche.
 00:14:14,650 --> 00:14:16,650
 [C.W.]
 Heighdy, y'all.
-ສະບາຍດີ ທຸກຄນເດີ.
+ສູງຂຶ້ນ, ທຸກຄົນ.
 
 234
 00:14:17,150 --> 00:14:23,150
@@ -3371,7 +3371,7 @@ Ready?
 00:33:58,500 --> 00:34:00,500
 [CLYDE'S VOICE]
 Aw Bonnie--
-ສະບາຍດີ ບອນນີ...
+ໂອ້ ໂບນນີ...
 
 542
 00:34:01,000 --> 00:34:03,000
