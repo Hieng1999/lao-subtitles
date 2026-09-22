@@ -12,8 +12,6 @@
 
 These subtitles are translated by a local machine-translation model. **No human has reviewed these files.** Errors, stiff or unnatural phrasing, and occasional mistranslations are expected -- this is machine output, not a professional or community human translation. If you find a bad line, please open an issue: see **Report a bad line** below.
 
-> Lao notice: pending
-
 High-quality Lao-language subtitle files (`.srt`) for **287 legendary films** that have **no Lao subtitles available anywhere else online**. Over **238,841 dialogue cues** localized into authentic, natural spoken Lao.
 
 🌐 **Browse, search & download directly at the live website → [hieng1999.github.io/lao-subtitles](https://hieng1999.github.io/lao-subtitles/)**
