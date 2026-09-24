@@ -99,6 +99,7 @@
   }
   .me-badge-current { color: var(--accent); border-color: rgba(227, 179, 65, 0.4); }
   .me-badge-prep { color: var(--green); border-color: rgba(63, 185, 80, 0.35); }
+  .me-badge-retired { color: var(--text-muted); border-color: rgba(255, 255, 255, 0.12); }
   .me-gen-scores { display: flex; gap: 14px; flex-wrap: wrap; margin: 8px 0; }
   .me-score { font-size: 0.83rem; color: var(--text-muted); }
   .me-score strong { color: var(--accent); font-size: 0.98rem; }
@@ -306,7 +307,7 @@
     <p class="subtitle">Free, high-quality Lao subtitle files (.srt) for 285 legendary feature films</p>
   </header>
 
-  <div class="notice-box" style="border:2px solid var(--accent); border-radius:10px; padding:14px 16px; margin:16px 0; background:var(--accent-bg);">
+  <div class="notice-box" style="border:2px solid var(--accent); border-radius:10px; padding:14px 16px; margin:16px 0; background:var(--accent-bg); overflow-wrap:anywhere; word-break:break-word;">
     <p style="margin:0 0 8px; font-weight:600;">Please read before downloading</p>
     <p style="margin:0 0 6px;">These subtitles are translated by a local machine-translation model. <strong>No human has reviewed these files.</strong>
     Errors, stiff or unnatural phrasing, and occasional mistranslations are expected -- this is machine output, not a professional or community human translation.</p>
@@ -8067,8 +8068,8 @@ window.addEventListener('DOMContentLoaded', filterMovies);
       return;
     }
     container.innerHTML = gens.map(function(g) {
-      var badgeClass = g.status === 'current' ? 'me-badge-current' : (g.status === 'prep' ? 'me-badge-prep' : '');
-      var badgeLabel = g.status === 'current' ? 'CURRENT' : (g.status === 'prep' ? 'IN PREP' : 'SUPERSEDED');
+      var badgeClass = g.status === 'current' ? 'me-badge-current' : (g.status === 'prep' ? 'me-badge-prep' : (g.status === 'retired' ? 'me-badge-retired' : ''));
+      var badgeLabel = g.status === 'current' ? 'CURRENT' : (g.status === 'prep' ? 'IN PREP' : (g.status === 'retired' ? 'RETIRED' : 'SUPERSEDED'));
       var scores = '';
       if (g.reference_benchmark && g.reference_benchmark.status === 'complete') {
         scores += '<span class="me-score">Reference chrF++ <strong>' + g.reference_benchmark.mean_chrf_pp.toFixed(1) + '</strong></span>';
