@@ -309,7 +309,7 @@
 
   <div class="notice-box" style="border:2px solid var(--accent); border-radius:10px; padding:14px 16px; margin:16px 0; background:var(--accent-bg); overflow-wrap:anywhere; word-break:break-word;">
     <p style="margin:0 0 8px; font-weight:600;">Please read before downloading</p>
-    <p style="margin:0 0 6px;">These subtitles are translated by a local machine-translation model. <strong>No human has reviewed these files.</strong> An earlier automatic review step also sent lines to a cloud AI service (Google Gemini) and applied some of its edits to the Lao; future versions of these files will not use it.
+    <p style="margin:0 0 6px;">These subtitles are translated by a local machine-translation model. <strong>No human has reviewed these files.</strong> An earlier automatic review step also sent lines to a cloud AI service (Google Gemini) and applied some of its edits to the Lao; future versions of these files will not use it. The model was fine-tuned mostly on machine-translated text, including earlier output of this project and corrections written by Google Gemini; only a small share of its training data was translated by people.
     Errors, stiff or unnatural phrasing, and occasional mistranslations are expected -- this is machine output, not a professional or community human translation.</p>
     <p style="margin:6px 0 0;">This catalog has two kinds of file. "Subtitles" are timed to a specific film's real dialogue and are machine-translated, not reviewed by a person. "Translated screenplays" are a screenplay, sometimes only an excerpt, translated to Lao with synthetic, evenly-spaced timing (not synced to any actual film) -- useful to read, not to play alongside a video.</p>
     <p style="margin:0;">If you find a bad line, please use the "🚩 Report a bad line" link on that movie's card to open a GitHub issue.</p>
@@ -356,31 +356,9 @@
 
   <div class="benchmark-card">
     <div class="benchmark-header">
-      <span class="benchmark-title">📊 Automatic Reference Benchmark</span>
+      <span class="benchmark-title">📊 Quality Score</span>
     </div>
-    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;">Automatic reference benchmark on 500 test sentences in five domains; not a subtitle quality score. Audited 2026-09-15 13:27:58. There's no human-reference cinema-subtitle dataset to compare individual films against.</p>
-    <div class="benchmark-grid">
-      <div class="benchmark-item">
-        <div class="benchmark-val">61.7</div>
-        <div class="benchmark-lbl">False Friends Cognate Challenge<br>chrF++</div>
-      </div>
-      <div class="benchmark-item">
-        <div class="benchmark-val">48.0</div>
-        <div class="benchmark-lbl">SEA-HELM Cultural & Regional<br>chrF++</div>
-      </div>
-      <div class="benchmark-item">
-        <div class="benchmark-val">54.6</div>
-        <div class="benchmark-lbl">Tatoeba Spoken Conversational<br>chrF++</div>
-      </div>
-      <div class="benchmark-item">
-        <div class="benchmark-val">49.6</div>
-        <div class="benchmark-lbl">Tennessee Civics & Legal<br>chrF++</div>
-      </div>
-      <div class="benchmark-item">
-        <div class="benchmark-val">51.4</div>
-        <div class="benchmark-lbl">WMT Biomedical & Healthcare<br>chrF++</div>
-      </div>
-    </div>
+    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;">We don't publish a quality score yet: the only automatic benchmark available uses machine-made reference translations, so it measures consistency, not quality. Ratings from a native Lao reader will be summarised here when they exist.</p>
   </div>
 
 
@@ -6926,10 +6904,6 @@ window.addEventListener('DOMContentLoaded', filterMovies);
       var badgeClass = g.status === 'current' ? 'me-badge-current' : (g.status === 'prep' ? 'me-badge-prep' : (g.status === 'retired' ? 'me-badge-retired' : ''));
       var badgeLabel = g.status === 'current' ? 'CURRENT' : (g.status === 'prep' ? 'IN PREP' : (g.status === 'retired' ? 'RETIRED' : 'SUPERSEDED'));
       var scores = '';
-      if (g.reference_benchmark && g.reference_benchmark.status === 'complete') {
-        scores += '<span class="me-score">Reference chrF++ <strong>' + g.reference_benchmark.mean_chrf_pp.toFixed(1) + '</strong></span>';
-        scores += '<span class="me-score">Reference BLEU <strong>' + g.reference_benchmark.mean_bleu.toFixed(1) + '</strong></span>';
-      }
       if (g.roundtrip_benchmark) {
         var rt = g.roundtrip_benchmark;
         var rtLabel = rt.status === 'in_progress' ? (' (' + rt.movies_scored + '/' + rt.movies_total + ' movies scored)') : '';

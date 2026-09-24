@@ -50,19 +50,9 @@ The **7,231** corrections counted below were applied only if they passed **both*
 
 ---
 
-## 📊 Automatic Reference Benchmark
+## 📊 Quality Score
 
-Automatic reference benchmark on 500 test sentences in five domains; not a subtitle quality score. A fresh [sacrebleu](https://github.com/mjpost/sacrebleu) `chrF++` run (audited 2026-09-15 13:27:58) against 100 human-reference translation pairs per domain, re-generated every time this catalog is published:
-
-| Benchmark Domain | Focus | chrF++ |
-|:---|:---|:---:|
-| **False Friends Cognate Challenge** | Hard-Negative Lao-Thai Cognates (100 pairs) | **61.7** |
-| **SEA-HELM Cultural & Regional** | Regional Culture & Geography (100 pairs) | **48.0** |
-| **Tatoeba Spoken Conversational** | Natural Conversational Dialogues (100 pairs) | **54.6** |
-| **Tennessee Civics & Legal** | Legal & Government Statutes (100 pairs) | **49.6** |
-| **WMT Biomedical & Healthcare** | Clinical Diagnoses & Dosages (100 pairs) | **51.4** |
-
-> **This measures general translation quality, not individual movies.** There's no professionally-translated Lao reference for these specific films to score against. What you're seeing here is the underlying model's performance on standardized challenge sets (10 of each suite's 100 pairs are a deliberate stress-test variant of another pair in the same set, testing a known-hard discourse-marker pattern -- not 100 fully independent sentences).
+We don't publish a quality score yet: the only automatic benchmark available uses machine-made reference translations, so it measures consistency, not quality. Ratings from a native Lao reader will be summarised here when they exist.
 
 ---
 
