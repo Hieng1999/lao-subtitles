@@ -10,7 +10,7 @@
 
 ### Please read before downloading
 
-These subtitles are translated by a local machine-translation model. **No human has reviewed these files.** Errors, stiff or unnatural phrasing, and occasional mistranslations are expected -- this is machine output, not a professional or community human translation. If you find a bad line, please open an issue: see **Report a bad line** below.
+These subtitles are translated by a local machine-translation model. **No human has reviewed these files.** An earlier automatic review step also sent lines to a cloud AI service (Google Gemini) and applied some of its edits to the Lao; future versions of these files will not use it. Errors, stiff or unnatural phrasing, and occasional mistranslations are expected -- this is machine output, not a professional or community human translation. If you find a bad line, please open an issue: see **Report a bad line** below.
 
 This catalog has two kinds of file. "Subtitles" are timed to a specific film's real dialogue and are machine-translated, not reviewed by a person. "Translated screenplays" are a full script translated to Lao with synthetic, evenly-spaced timing (not synced to any actual film) -- useful to read, not to play alongside a video.
 
@@ -18,7 +18,7 @@ High-quality Lao-language subtitle files (`.srt`) for **285 legendary films** th
 
 🌐 **Browse, search & download directly at the live website → [hieng1999.github.io/lao-subtitles](https://hieng1999.github.io/lao-subtitles/)**
 
-Major subtitle platforms (OpenSubtitles, Subscene, Addic7ed) do not support Lao as a language category or upload format. This open-source repository fills that gap so Lao speakers and families worldwide can enjoy world-class movies in their own language. Everything here is **free to download**.
+Lao subtitles for most films are hard or impossible to find on the major subtitle sites. This public repository fills that gap so Lao speakers and families worldwide can enjoy world-class movies in their own language. Everything here is **free to download**.
 
 ---
 
@@ -446,7 +446,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 
 ## 🧠 How These Subtitles Are Produced
 
-These subtitles are produced using a local AI translation pipeline running 100% offline on an **NVIDIA GeForce RTX 5090 (32GB VRAM)**, in two stages: generation, then independent verification.
+Translation runs on a local model (NLLB-200 1.3B with a LoRA adapter) on an **NVIDIA GeForce RTX 5090**. An earlier automatic review step also sent lines to a cloud AI service (Google Gemini) and applied some of its edits to the Lao; future versions of these files will not use it. No person has reviewed these files.
 
 1. **Generation — 5-step cinema translation pass**:
    - **Step 1: Named Entity Recognition & Cultural Pronouns** — Enforces natural honorifics (`ເຈົ້າ`, `ຂ້ອຍ`, `ອ້າຍ`, `ເອື້ອຍ`, `ນ້ອງ`) matched to character relationships.
