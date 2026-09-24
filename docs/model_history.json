@@ -1,6 +1,6 @@
 {
  "schema_note": "Every number in this file is real and independently reproducible -- computed from actual sacrebleu runs, actual verification-pipeline state files, or actual dataset files in the lao-thai-translator repo. Nothing here is estimated, projected, or hand-typed as a round number. Fields with a null value mean 'not measured under this methodology,' never 'assumed good.'",
- "last_updated": "2026-09-22",
+ "last_updated": "2026-09-23",
  "generations": [
   {
    "id": "gen3",
@@ -42,14 +42,14 @@
      "Numeral errors (e.g. \"100 thousand\" rendered as \"ten thousand\")"
     ]
    },
-   "release_notes": "Every one of the 287 published movies was independently re-verified, cue by cue, using a Double-Lock Back-Translation Consensus system. Lock 1 is a set of deterministic Lao-text filters built and refined by hand as each new failure pattern was found. Lock 2 is an English-only back-translation semantic-equivalence judge -- the model is never shown its own Lao output to grade, precisely because that self-referential check is what caused the Generation 3 crisis. A correction is written only when BOTH locks independently agree. This process confirmed 7,251 corrections. The largest single defect found was a hallucinated substitution of the real Lao word for 'interfere' standing in for unrelated content -- 654 raw occurrences found corpus-wide; a dedicated cleanup pass fixed only 15 of those (2.6%), confirming most instances are a stable model bias rather than a one-off translation slip. That known limitation is left undisturbed in the published corpus rather than papered over, pending a future targeted retrain."
+   "release_notes": "The 287 published movies were re-checked automatically by two machine filters -- no human reviewer read or approved these translations. Filter 1 is a set of deterministic Lao-text pattern checks built and refined by hand as each new failure pattern was found. Filter 2 is an English-only back-translation semantic-equivalence judge -- the model is never shown its own Lao output to grade, precisely because that self-referential check is what caused the Generation 3 crisis. An automatic correction was applied only when both filters independently flagged the same segment. This process applied 7,251 automatic corrections. The largest single defect found was a hallucinated substitution of the real Lao word for 'interfere' standing in for unrelated content -- 654 raw occurrences found corpus-wide; a dedicated cleanup pass fixed only 15 of those (2.6%), confirming most instances are a stable model bias rather than a one-off translation slip. That known limitation is left undisturbed in the published corpus rather than papered over, pending a future targeted retrain."
   },
   {
    "id": "gen5",
    "label": "Generation 5 (in preparation)",
    "date": "2026-09-14",
    "checkpoint": null,
-   "status": "prep",
+   "status": "retired",
    "reference_benchmark": null,
    "roundtrip_benchmark": null,
    "corrections": null,
@@ -61,7 +61,7 @@
     "val_examples": 513,
     "split": "90/10, seeded (seed=42)"
    },
-   "release_notes": "Training has not started yet. The Generation 5 DPO dataset has been staged from Generation 4's own 7,251 verified corrections: deduplicated by prompt (2,127 duplicates dropped, keeping the first occurrence of each), split 90/10 into 4,611 training examples and 513 validation examples. We publish performance numbers only after they're actually measured against a trained checkpoint -- this entry intentionally has no scores yet, and won't until a real retrain has run."
+   "release_notes": "This DPO/self-training plan was abandoned; training was never started. The staged dataset numbers below are kept as a historical record only. The next candidate under evaluation is a supervised adapter (S3X), currently being assessed by native Lao readers. We publish performance numbers only after they're actually measured against a trained, evaluated checkpoint -- this entry intentionally has no scores yet."
   }
  ]
 }

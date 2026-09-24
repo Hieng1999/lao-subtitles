@@ -1,8 +1,8 @@
 # Lao Movie Subtitles · ຄຳບັນຍາຍພາສາລາວ
 
 [![Website](https://img.shields.io/badge/Website-hieng1999.github.io%2Flao--subtitles-gold?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
-[![Movies](https://img.shields.io/badge/Catalog-287%20Movies-blue?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
-[![Cues](https://img.shields.io/badge/Cues-238,841%20Localized-green?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
+[![Movies](https://img.shields.io/badge/Catalog-285%20Movies-blue?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
+[![Cues](https://img.shields.io/badge/Cues-237,356%20Localized-green?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
 [![Machine Translation](https://img.shields.io/badge/Machine%20Translation-not%20reviewed%20by%20a%20person-lightgrey?style=flat-square)](#please-read-before-downloading)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue?style=flat-square)](LICENSE)
 [![GPU](https://img.shields.io/badge/Accelerated-NVIDIA%20RTX%205090-76B900?style=flat-square&logo=nvidia)](https://github.com/Hieng1999/lao-subtitles)
@@ -12,7 +12,9 @@
 
 These subtitles are translated by a local machine-translation model. **No human has reviewed these files.** Errors, stiff or unnatural phrasing, and occasional mistranslations are expected -- this is machine output, not a professional or community human translation. If you find a bad line, please open an issue: see **Report a bad line** below.
 
-High-quality Lao-language subtitle files (`.srt`) for **287 legendary films** that have **no Lao subtitles available anywhere else online**. Over **238,841 dialogue cues** localized into authentic, natural spoken Lao.
+This catalog has two kinds of file. "Subtitles" are timed to a specific film's real dialogue and are machine-translated, not reviewed by a person. "Translated screenplays" are a full script translated to Lao with synthetic, evenly-spaced timing (not synced to any actual film) -- useful to read, not to play alongside a video.
+
+High-quality Lao-language subtitle files (`.srt`) for **285 legendary films** that have **no Lao subtitles available anywhere else online**. Over **237,356 dialogue cues** localized into authentic, natural spoken Lao.
 
 🌐 **Browse, search & download directly at the live website → [hieng1999.github.io/lao-subtitles](https://hieng1999.github.io/lao-subtitles/)**
 
@@ -22,11 +24,11 @@ Major subtitle platforms (OpenSubtitles, Subscene, Addic7ed) do not support Lao 
 
 ## 🏆 How We Verify Quality
 
-Every one of the 287 movies in this catalog has been **independently re-checked, cue by cue, against its original English source** — not just translated once and published. Here's exactly what that means, in real numbers from the actual verification run (not estimates):
+Every one of the 285 movies in this catalog has been **independently re-checked, cue by cue, against its original English source** — not just translated once and published. Here's exactly what that means, in real numbers from the actual verification run (not estimates):
 
 | Verification Step | Result |
 |:---|---:|
-| Movies re-verified cue-by-cue | **287 / 287** |
+| Films re-checked automatically (machine filters, no human review) | **287 / 285** |
 | Total dialogue cues checked | **238,751** |
 | Cues where re-translation disagreed with the published line | 220,361 |
 | Rejected — known decoder artifact (garbled token) | 14,344 |
@@ -35,7 +37,7 @@ Every one of the 287 movies in this catalog has been **independently re-checked,
 | Rejected — untranslated English left in the Lao text | 7,817 |
 | Sent to the English-only semantic-equivalence judge | 31,338 |
 | Rejected — judge could not confirm the meaning matched | 23,278 |
-| **Corrections actually applied (passed every check)** | **7,266** |
+| **Corrections actually applied (passed every check)** | **7,231** |
 
 **How a correction gets approved — the "double lock":** a candidate replacement only ever gets written to a published `.srt` file if it passes **both** of these, independently:
 
@@ -46,30 +48,28 @@ A correction is applied only if **both** locks agree. If either one is unsure, t
 
 > **We're not claiming this is perfect.** Some known failure patterns — like a specific word the model occasionally substitutes for slang or profanity it doesn't have a good translation for — are hard to fully eliminate through re-translation alone, and a small number of these remain in the catalog even after this process (see **Contributing & Corrections** below for how to report one). We'd rather tell you that honestly than publish a big round number that doesn't hold up.
 
-> 📈 **Round-trip fidelity benchmark (complete):** 287/287 movies scored so far, running average **chrF++ 60.4** / **BLEU 45.2** (published Lao translated back to English and compared to the original — see the per-movie ↺ scores below). See **[Model Evolution](https://hieng1999.github.io/lao-subtitles/#model-evolution)** on the live site for how this compares across model generations.
-
 ---
 
-## 📊 Model Translation Quality Benchmarks
+## 📊 Automatic Reference Benchmark
 
-These are real, independently-computable numbers — a fresh [sacrebleu](https://github.com/mjpost/sacrebleu) `chrF++`/`BLEU`/`TER` run (audited 2026-09-15 13:27:58) against 100 human-reference translation pairs per domain, re-generated every time this catalog is published, not hand-maintained or estimated:
+Automatic reference benchmark on 500 test sentences in five domains; not a subtitle quality score. A fresh [sacrebleu](https://github.com/mjpost/sacrebleu) `chrF++` run (audited 2026-09-15 13:27:58) against 100 human-reference translation pairs per domain, re-generated every time this catalog is published:
 
-| Benchmark Domain | Focus | chrF++ | BLEU | TER (lower=better) |
-|:---|:---|:---:|:---:|:---:|
-| **False Friends Cognate Challenge** | Hard-Negative Lao-Thai Cognates (100 pairs) | **61.7** | **68.1** | **44.8%** |
-| **SEA-HELM Cultural & Regional** | Regional Culture & Geography (100 pairs) | **48.0** | **55.9** | **59.0%** |
-| **Tatoeba Spoken Conversational** | Natural Conversational Dialogues (100 pairs) | **54.6** | **68.6** | **46.6%** |
-| **Tennessee Civics & Legal** | Legal & Government Statutes (100 pairs) | **49.6** | **58.3** | **61.4%** |
-| **WMT Biomedical & Healthcare** | Clinical Diagnoses & Dosages (100 pairs) | **51.4** | **64.1** | **47.8%** |
+| Benchmark Domain | Focus | chrF++ |
+|:---|:---|:---:|
+| **False Friends Cognate Challenge** | Hard-Negative Lao-Thai Cognates (100 pairs) | **61.7** |
+| **SEA-HELM Cultural & Regional** | Regional Culture & Geography (100 pairs) | **48.0** |
+| **Tatoeba Spoken Conversational** | Natural Conversational Dialogues (100 pairs) | **54.6** |
+| **Tennessee Civics & Legal** | Legal & Government Statutes (100 pairs) | **49.6** |
+| **WMT Biomedical & Healthcare** | Clinical Diagnoses & Dosages (100 pairs) | **51.4** |
 
-> **This measures general translation quality, not individual movies.** There's no professionally-translated Lao reference for these specific films to score against — that's the gap this project exists to fill. What you're seeing here is the underlying model's performance on standardized, independently-reviewable challenge sets (10 of each suite's 100 pairs are a deliberate stress-test variant of another pair in the same set, testing a known-hard discourse-marker pattern — not 100 fully independent sentences). For quality specific to the movies themselves, see **How We Verify Quality** above.
+> **This measures general translation quality, not individual movies.** There's no professionally-translated Lao reference for these specific films to score against. What you're seeing here is the underlying model's performance on standardized challenge sets (10 of each suite's 100 pairs are a deliberate stress-test variant of another pair in the same set, testing a known-hard discourse-marker pattern -- not 100 fully independent sentences).
 
 ---
 
 
 ## 🎬 Case Studies: How the Model Learns
 
-These are real, unedited before/after examples pulled directly from the verification corpus described above — not illustrative mockups. Each one shows the exact old published line, the exact new verified correction, and the reasoning the independent back-translation judge gave for approving the fix.
+These are real, unedited before/after examples pulled directly from the verification corpus described above — not illustrative mockups. Each one shows the exact old published line, the exact new automatic correction (machine-checked, not reviewed by a person), and the reasoning the independent back-translation judge gave for approving the fix.
 
 #### Screenplay Direction Fix — *Ad Astra*
 
@@ -126,10 +126,10 @@ These are real, unedited before/after examples pulled directly from the verifica
 
 Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-subtitles/) has a "Report a bad line" link that opens a pre-filled [GitHub issue](https://github.com/Hieng1999/lao-subtitles/issues/new) for that film -- fill in the timestamp, the line as shown, and what's wrong. You can also open an issue directly at **[https://github.com/Hieng1999/lao-subtitles/issues](https://github.com/Hieng1999/lao-subtitles/issues)**.
 
-## 🎬 Available Subtitles (287 Films · 238,841 Cues)
+## 🎬 Available Subtitles (285 Films · 237,356 Cues)
 
 > 🔍 **Instant Live Search & Filters**:
-> To instantly search by title, actor, year, or genre across all **287 movies**, visit our interactive web catalog:
+> To instantly search by title, actor, year, or genre across all **285 movies**, visit our interactive web catalog:
 > 🌐 👉 [**hieng1999.github.io/lao-subtitles**](https://hieng1999.github.io/lao-subtitles/)
 
 ### ⭐ Featured Spotlight (Top 10 Movies)
@@ -144,18 +144,18 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Wall-E** | **2008** | Animation | 476 | [🇱🇦 Lao](subtitles/Wall-E.2008.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Wall-E.2008.bilingual.srt) | Machine translation, not reviewed by a person |
 | **American Beauty** | **1999** | Drama | 760 | [🇱🇦 Lao](subtitles/American.Beauty.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/American.Beauty.1999.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Argo** | **2012** | Thriller | 759 | [🇱🇦 Lao](subtitles/Argo.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Argo.2012.bilingual.srt) | Machine translation, not reviewed by a person |
-| **12** | **2007** | Comedy | 505 | [🇱🇦 Lao](subtitles/12.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.2007.bilingual.srt) | Machine translation, not reviewed by a person, 2 flagged of 505 |
+| **12** | **2007** | Comedy | 505 | [🇱🇦 Lao](subtitles/12.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.2007.bilingual.srt) | Machine translation, not reviewed by a person |
 | **12 and Holding** | **2005** | Drama | 734 | [🇱🇦 Lao](subtitles/12.and.Holding.2005.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.and.Holding.2005.bilingual.srt) | Machine translation, not reviewed by a person |
 
 <details>
-<summary><b>📜 Click here to expand &amp; browse all 287 movies (238,841 localized cues)...</b></summary>
+<summary><b>📜 Click here to expand &amp; browse all 285 movies (237,356 localized cues)...</b></summary>
 
 <br/>
 
 | Movie Title | Year | Genre | Cues | Subtitle Downloads | Verification Status |
 |:---|:---:|:---|:---:|:---|:---|
 | **10 Things I Hate About You** | **1999** | Romance | 1,027 | [🇱🇦 Lao](subtitles/10.Things.I.Hate.About.You.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/10.Things.I.Hate.About.You.1999.bilingual.srt) | Machine translation, not reviewed by a person |
-| **12** | **2007** | Comedy | 505 | [🇱🇦 Lao](subtitles/12.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.2007.bilingual.srt) | Machine translation, not reviewed by a person, 2 flagged of 505 |
+| **12** | **2007** | Comedy | 505 | [🇱🇦 Lao](subtitles/12.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.2007.bilingual.srt) | Machine translation, not reviewed by a person |
 | **12 and Holding** | **2005** | Drama | 734 | [🇱🇦 Lao](subtitles/12.and.Holding.2005.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.and.Holding.2005.bilingual.srt) | Machine translation, not reviewed by a person |
 | **12 Monkeys** | **1995** | Thriller | 779 | [🇱🇦 Lao](subtitles/12.Monkeys.1995.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.Monkeys.1995.bilingual.srt) | Machine translation, not reviewed by a person |
 | **12 Years a Slave** | **2013** | Drama | 835 | [🇱🇦 Lao](subtitles/12.Years.a.Slave.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.Years.a.Slave.2013.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -164,11 +164,11 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **15 Minutes** | **2001** | Thriller | 1,015 | [🇱🇦 Lao](subtitles/15.Minutes.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/15.Minutes.2001.bilingual.srt) | Machine translation, not reviewed by a person |
 | **17 Again** | **2009** | Romance | 817 | [🇱🇦 Lao](subtitles/17.Again.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/17.Again.2009.bilingual.srt) | Machine translation, not reviewed by a person |
 | **2001: A Space Odyssey** | **1968** | Sci-Fi | 447 | [🇱🇦 Lao](subtitles/2001.A.Space.Odyssey.1968.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/2001.A.Space.Odyssey.1968.bilingual.srt) | Machine translation, not reviewed by a person |
-| **2012** | **2009** | Thriller | 893 | [🇱🇦 Lao](subtitles/2012.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/2012.2009.bilingual.srt) | Machine translation, not reviewed by a person, 2 flagged of 893 |
+| **2012** | **2009** | Thriller | 893 | [🇱🇦 Lao](subtitles/2012.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/2012.2009.bilingual.srt) | Machine translation, not reviewed by a person |
 | **20th Century Women** | **2016** | Drama | 648 | [🇱🇦 Lao](subtitles/20th.Century.Women.2016.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/20th.Century.Women.2016.bilingual.srt) | Machine translation, not reviewed by a person |
 | **28 Days Later** | **2002** | Sci-Fi | 609 | [🇱🇦 Lao](subtitles/28.Days.Later.2002.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/28.Days.Later.2002.bilingual.srt) | Machine translation, not reviewed by a person |
 | **30 Minutes or Less** | **2011** | Comedy | 961 | [🇱🇦 Lao](subtitles/30.Minutes.or.Less.2011.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/30.Minutes.or.Less.2011.bilingual.srt) | Machine translation, not reviewed by a person |
-| **42** | **2013** | Drama | 1,042 | [🇱🇦 Lao](subtitles/42.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/42.2013.bilingual.srt) | Machine translation, not reviewed by a person, 16 flagged of 1042 |
+| **42** | **2013** | Drama | 1,042 | [🇱🇦 Lao](subtitles/42.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/42.2013.bilingual.srt) | Machine translation, not reviewed by a person |
 | **44 Inch Chest** | **2009** | Drama | 726 | [🇱🇦 Lao](subtitles/44.Inch.Chest.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/44.Inch.Chest.2009.bilingual.srt) | Machine translation, not reviewed by a person |
 | **48 Hrs.** | **1982** | Thriller | 1,076 | [🇱🇦 Lao](subtitles/48.Hrs..1982.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/48.Hrs..1982.bilingual.srt) | Machine translation, not reviewed by a person |
 | **50-50** | **2011** | Drama | 1,067 | [🇱🇦 Lao](subtitles/50-50.2011.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/50-50.2011.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -360,7 +360,6 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Friday the 13th Part VIII: Jason Takes Manhattan** | **1989** | Horror | 569 | [🇱🇦 Lao](subtitles/Friday.the.13th.Part.VIII.Jason.Takes.Manhattan.1989.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Friday.the.13th.Part.VIII.Jason.Takes.Manhattan.1989.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Fright Night** | **1985** | Horror | 883 | [🇱🇦 Lao](subtitles/Fright.Night.1985.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Fright.Night.1985.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Frozen** | **2013** | Feature Film | 1,652 | [🇱🇦 Lao](subtitles/Frozen.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Frozen.2013.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Frozen** | **2013** | Animation | 917 | [🇱🇦 Lao](subtitles/Frozen.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Frozen.2013.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Gladiator** | **2000** | Drama / Classics | 675 | [🇱🇦 Lao](subtitles/Gladiator.2000.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Gladiator.2000.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Happy Feet** | **2006** | Animation | 633 | [🇱🇦 Lao](subtitles/Happy.Feet.2006.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Happy.Feet.2006.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Heavy Metal** | **1981** | Animation | 297 | [🇱🇦 Lao](subtitles/Heavy.Metal.1981.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Heavy.Metal.1981.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -375,7 +374,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Memento** | **2000** | Feature Film | 692 | [🇱🇦 Lao](subtitles/Memento.2000.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Memento.2000.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Moana** | **2016** | Feature Film | 1,233 | [🇱🇦 Lao](subtitles/Moana.2016.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Moana.2016.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Monkeybone** | **2001** | Animation | 643 | [🇱🇦 Lao](subtitles/Monkeybone.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Monkeybone.2001.bilingual.srt) | Machine translation, not reviewed by a person |
-| **One Eight Seven (187)** | **1997** | Drama | 754 | [🇱🇦 Lao](subtitles/One.Eight.Seven.187.1997.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/One.Eight.Seven.187.1997.bilingual.srt) | Machine translation, not reviewed by a person, 11 flagged of 754 |
+| **One Eight Seven (187)** | **1997** | Drama | 754 | [🇱🇦 Lao](subtitles/One.Eight.Seven.187.1997.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/One.Eight.Seven.187.1997.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Onward** | **2020** | Animation | 1,114 | [🇱🇦 Lao](subtitles/Onward.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Onward.2020.bilingual.srt) | Machine translation, not reviewed by a person |
 | **ParaNorman** | **2012** | Animation | 664 | [🇱🇦 Lao](subtitles/ParaNorman.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/ParaNorman.2012.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Pulp Fiction** | **1994** | Drama / Classics | 1,214 | [🇱🇦 Lao](subtitles/Pulp.Fiction.1994.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Pulp.Fiction.1994.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -430,7 +429,6 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **The Green Mile** | **1999** | Feature Film | 1,012 | [🇱🇦 Lao](subtitles/The.Green.Mile.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Green.Mile.1999.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The LEGO Movie** | **2014** | Animation | 961 | [🇱🇦 Lao](subtitles/The.LEGO.Movie.2014.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.LEGO.Movie.2014.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Lord of the Rings: The Fellowship of the Ring** | **2001** | Feature Film | 817 | [🇱🇦 Lao](subtitles/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.bilingual.srt) | Machine translation, not reviewed by a person |
-| **The Matrix** | **1999** | Drama / Classics | 568 | [🇱🇦 Lao](subtitles/The.Matrix.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Matrix.1999.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Prestige** | **2006** | Feature Film | 1,047 | [🇱🇦 Lao](subtitles/The.Prestige.2006.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Prestige.2006.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Shawshank Redemption** | **1994** | Feature Film | 803 | [🇱🇦 Lao](subtitles/The.Shawshank.Redemption.1994.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Shawshank.Redemption.1994.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Silence Of The Lambs** | **1991** | Feature Film | 928 | [🇱🇦 Lao](subtitles/The.Silence.Of.The.Lambs.1991.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Silence.Of.The.Lambs.1991.bilingual.srt) | Machine translation, not reviewed by a person |
