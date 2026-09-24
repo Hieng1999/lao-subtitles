@@ -12,9 +12,9 @@
 
 These subtitles are translated by a local machine-translation model. **No human has reviewed these files.** An earlier automatic review step also sent lines to a cloud AI service (Google Gemini) and applied some of its edits to the Lao; future versions of these files will not use it. Errors, stiff or unnatural phrasing, and occasional mistranslations are expected -- this is machine output, not a professional or community human translation. If you find a bad line, please open an issue: see **Report a bad line** below.
 
-This catalog has two kinds of file. "Subtitles" are timed to a specific film's real dialogue and are machine-translated, not reviewed by a person. "Translated screenplays" are a full script translated to Lao with synthetic, evenly-spaced timing (not synced to any actual film) -- useful to read, not to play alongside a video.
+This catalog has two kinds of file. "Subtitles" are timed to a specific film's real dialogue and are machine-translated, not reviewed by a person. "Translated screenplays" are a screenplay, sometimes only an excerpt, translated to Lao with synthetic, evenly-spaced timing (not synced to any actual film) -- useful to read, not to play alongside a video.
 
-High-quality Lao-language subtitle files (`.srt`) for **285 legendary films** that have **no Lao subtitles available anywhere else online**. Over **237,356 dialogue cues** localized into authentic, natural spoken Lao.
+Machine-translated Lao .srt files for **285 films** that have **no Lao subtitles available anywhere else online**. Over **237,356 dialogue cues** localized into authentic, natural spoken Lao.
 
 🌐 **Browse, search & download directly at the live website → [hieng1999.github.io/lao-subtitles](https://hieng1999.github.io/lao-subtitles/)**
 
@@ -28,7 +28,7 @@ Every one of the 285 movies in this catalog has been **independently re-checked,
 
 | Verification Step | Result |
 |:---|---:|
-| Films re-checked automatically (machine filters, no human review) | **287 / 285** |
+| Films re-checked automatically (machine filters, no human review) | **285 / 285** |
 | Total dialogue cues checked | **238,751** |
 | Cues where re-translation disagreed with the published line | 220,361 |
 | Rejected — known decoder artifact (garbled token) | 14,344 |
@@ -44,7 +44,7 @@ Every one of the 285 movies in this catalog has been **independently re-checked,
 1. **Deterministic Lao-text filters** — reject anything matching a known decoder failure mode we found and catalogued by hand: a garbled placeholder token, a real word ("cat", "interfere") standing in for a slang term it shouldn't, an immediately-repeated stutter, or English words left untranslated inside the Lao line.
 2. **English-only back-translation judge** — the candidate Lao line is translated *back* into English with a separate reverse-direction model, and a local LLM judge is asked only "do these two English sentences mean the same thing?" — it never reads Lao, so it can't be fooled by fluent-looking-but-wrong Lao text.
 
-A correction is applied only if **both** locks agree. If either one is unsure, the line is left as published and nothing changes.
+The **7,231** corrections counted below were applied only if they passed **both** of these checks -- never either one alone. If either one is unsure, the line is left as published and nothing changes.
 
 > **We're not claiming this is perfect.** Some known failure patterns — like a specific word the model occasionally substitutes for slang or profanity it doesn't have a good translation for — are hard to fully eliminate through re-translation alone, and a small number of these remain in the catalog even after this process (see **Contributing & Corrections** below for how to report one). We'd rather tell you that honestly than publish a big round number that doesn't hold up.
 
@@ -446,7 +446,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 
 ## 🧠 How These Subtitles Are Produced
 
-Translation runs on a local model (NLLB-200 1.3B with a LoRA adapter) on an **NVIDIA GeForce RTX 5090**. An earlier automatic review step also sent lines to a cloud AI service (Google Gemini) and applied some of its edits to the Lao; future versions of these files will not use it. No person has reviewed these files.
+Translation runs on a local model (NLLB-200 1.3B with a LoRA adapter) on an **NVIDIA GeForce RTX 5090**. The model was fine-tuned mostly on machine-translated text, including earlier output of this project and corrections written by Google Gemini; only a small share of its training data was translated by people. An earlier automatic review step also sent lines to a cloud AI service (Google Gemini) and applied some of its edits to the Lao; future versions of these files will not use it. No person has reviewed these files.
 
 1. **Generation — 5-step cinema translation pass**:
    - **Step 1: Named Entity Recognition & Cultural Pronouns** — Enforces natural honorifics (`ເຈົ້າ`, `ຂ້ອຍ`, `ອ້າຍ`, `ເອື້ອຍ`, `ນ້ອງ`) matched to character relationships.

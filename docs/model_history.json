@@ -30,7 +30,7 @@
    },
    "roundtrip_benchmark": null,
    "corrections": {
-    "total_confirmed": 7251,
+    "total_confirmed": 7231,
     "movies_covered": 287,
     "defect_categories_fixed": [
      "Garbled decoder artifact (a bare \"ແມ\" token left as an incomplete fragment, never finished into a real word)",
@@ -42,7 +42,7 @@
      "Numeral errors (e.g. \"100 thousand\" rendered as \"ten thousand\")"
     ]
    },
-   "release_notes": "The 287 published movies were re-checked automatically by two machine filters -- no human reviewer read or approved these translations. Filter 1 is a set of deterministic Lao-text pattern checks built and refined by hand as each new failure pattern was found. Filter 2 is an English-only back-translation semantic-equivalence judge -- the model is never shown its own Lao output to grade, precisely because that self-referential check is what caused the Generation 3 crisis. An automatic correction was applied only when both filters independently flagged the same segment. This process applied 7,251 automatic corrections. The largest single defect found was a hallucinated substitution of the real Lao word for 'interfere' standing in for unrelated content -- 654 raw occurrences found corpus-wide; a dedicated cleanup pass fixed only 15 of those (2.6%), confirming most instances are a stable model bias rather than a one-off translation slip. That known limitation is left undisturbed in the published corpus rather than papered over, pending a future targeted retrain. Separately, the review step that produced the published files sent lines to Google Gemini, a cloud AI service, and applied some of its edits; that step will not be used again."
+   "release_notes": "The 287 published movies were re-checked automatically by two machine filters -- no human reviewer read or approved these translations. Filter 1 is a set of deterministic Lao-text pattern checks built and refined by hand as each new failure pattern was found. Filter 2 is an English-only back-translation semantic-equivalence judge -- the model is never shown its own Lao output to grade, precisely because that self-referential check is what caused the Generation 3 crisis. An automatic correction was applied only when both filters independently flagged the same segment. This process applied 7,231 automatic corrections (the figure this page's Model Evolution card had previously shown, 7,251, was a stale snapshot from an earlier point in the catalog -- corrected here to match the current 285-film published catalog). The largest single defect found was a hallucinated substitution of the real Lao word for 'interfere' standing in for unrelated content -- 654 raw occurrences found corpus-wide; a dedicated cleanup pass fixed only 15 of those (2.6%), confirming most instances are a stable model bias rather than a one-off translation slip. That known limitation is left undisturbed in the published corpus rather than papered over, pending a future targeted retrain. Separately, the review step that produced the published files sent lines to Google Gemini, a cloud AI service, and applied some of its edits; that step will not be used again. The model was fine-tuned mostly on machine-translated text, including earlier output of this project and corrections written by Google Gemini; only a small share of its training data was translated by people."
   },
   {
    "id": "gen5",
