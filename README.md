@@ -1,8 +1,8 @@
 # Lao Movie Subtitles · ຄຳບັນຍາຍພາສາລາວ
 
 [![Website](https://img.shields.io/badge/Website-hieng1999.github.io%2Flao--subtitles-gold?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
-[![Movies](https://img.shields.io/badge/Catalog-555%20Movies-blue?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
-[![Cues](https://img.shields.io/badge/Cues-633,757%20Localized-green?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
+[![Movies](https://img.shields.io/badge/Catalog-551%20Movies-blue?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
+[![Cues](https://img.shields.io/badge/Cues-630,491%20Localized-green?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
 [![Machine Translation](https://img.shields.io/badge/Machine%20Translation-not%20reviewed%20by%20a%20person-lightgrey?style=flat-square)](#please-read-before-downloading)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue?style=flat-square)](LICENSE)
 [![GPU](https://img.shields.io/badge/Accelerated-NVIDIA%20RTX%205090-76B900?style=flat-square&logo=nvidia)](https://github.com/Hieng1999/lao-subtitles)
@@ -14,7 +14,7 @@ These subtitles are translated by a local machine-translation model. **No human 
 
 This catalog has two kinds of file. "Subtitles" are timed to a specific film's real dialogue and are machine-translated, not reviewed by a person. "Translated screenplays" are a screenplay, sometimes only an excerpt, translated to Lao with synthetic, evenly-spaced timing (not synced to any actual film) -- useful to read, not to play alongside a video.
 
-Machine-translated Lao .srt files for **555 films** that have **no Lao subtitles available anywhere else online**. Over **633,757 dialogue cues** localized into authentic, natural spoken Lao.
+Machine-translated Lao .srt files for **551 films** that have **no Lao subtitles available anywhere else online**. Over **630,491 dialogue cues** localized into authentic, natural spoken Lao.
 
 🌐 **Browse, search & download directly at the live website → [hieng1999.github.io/lao-subtitles](https://hieng1999.github.io/lao-subtitles/)**
 
@@ -24,11 +24,11 @@ Lao subtitles for most films are hard or impossible to find on the major subtitl
 
 ## 🏆 How We Verify Quality
 
-Every one of the 555 movies in this catalog has been **independently re-checked, cue by cue, against its original English source** — not just translated once and published. Here's exactly what that means, in real numbers from the actual verification run (not estimates):
+Every one of the 551 movies in this catalog has been **independently re-checked, cue by cue, against its original English source** — not just translated once and published. Here's exactly what that means, in real numbers from the actual verification run (not estimates):
 
 | Verification Step | Result |
 |:---|---:|
-| Films re-checked automatically (machine filters, no human review) | **252 / 555** |
+| Films re-checked automatically (machine filters, no human review) | **248 / 551** |
 | Total dialogue cues checked | **238,751** |
 | Cues where re-translation disagreed with the published line | 220,361 |
 | Rejected — known decoder artifact (garbled token) | 14,344 |
@@ -37,14 +37,14 @@ Every one of the 555 movies in this catalog has been **independently re-checked,
 | Rejected — untranslated English left in the Lao text | 7,817 |
 | Sent to the English-only semantic-equivalence judge | 31,338 |
 | Rejected — judge could not confirm the meaning matched | 23,278 |
-| **Corrections actually applied (passed every check)** | **6,281** |
+| **Corrections actually applied (passed every check)** | **6,183** |
 
 **How a correction gets approved — the "double lock":** a candidate replacement only ever gets written to a published `.srt` file if it passes **both** of these, independently:
 
 1. **Deterministic Lao-text filters** — reject anything matching a known decoder failure mode we found and catalogued by hand: a garbled placeholder token, a real word ("cat", "interfere") standing in for a slang term it shouldn't, an immediately-repeated stutter, or English words left untranslated inside the Lao line.
 2. **English-only back-translation judge** — the candidate Lao line is translated *back* into English with a separate reverse-direction model, and a local LLM judge is asked only "do these two English sentences mean the same thing?" — it never reads Lao, so it can't be fooled by fluent-looking-but-wrong Lao text.
 
-The **6,281** corrections counted below were applied only if they passed **both** of these checks -- never either one alone. If either one is unsure, the line is left as published and nothing changes.
+The **6,183** corrections counted below were applied only if they passed **both** of these checks -- never either one alone. If either one is unsure, the line is left as published and nothing changes.
 
 > **We're not claiming this is perfect.** Some known failure patterns — like a specific word the model occasionally substitutes for slang or profanity it doesn't have a good translation for — are hard to fully eliminate through re-translation alone, and a small number of these remain in the catalog even after this process (see **Contributing & Corrections** below for how to report one). We'd rather tell you that honestly than publish a big round number that doesn't hold up.
 
@@ -116,10 +116,10 @@ These are real, unedited before/after examples pulled directly from the verifica
 
 Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-subtitles/) has a "Report a bad line" link that opens a pre-filled [GitHub issue](https://github.com/Hieng1999/lao-subtitles/issues/new) for that film -- fill in the timestamp, the line as shown, and what's wrong. You can also open an issue directly at **[https://github.com/Hieng1999/lao-subtitles/issues](https://github.com/Hieng1999/lao-subtitles/issues)**.
 
-## 🎬 Available Subtitles (555 Films · 633,757 Cues)
+## 🎬 Available Subtitles (551 Films · 630,491 Cues)
 
 > 🔍 **Instant Live Search & Filters**:
-> To instantly search by title, actor, year, or genre across all **555 movies**, visit our interactive web catalog:
+> To instantly search by title, actor, year, or genre across all **551 movies**, visit our interactive web catalog:
 > 🌐 👉 [**hieng1999.github.io/lao-subtitles**](https://hieng1999.github.io/lao-subtitles/)
 
 ### ⭐ Featured Spotlight (Top 10 Movies)
@@ -138,7 +138,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **12 Years a Slave** | **2013** | Drama | 835 | [🇱🇦 Lao](subtitles/12.Years.a.Slave.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/12.Years.a.Slave.2013.bilingual.srt) | Machine translation, not reviewed by a person |
 
 <details>
-<summary><b>📜 Click here to expand &amp; browse all 555 movies (633,757 localized cues)...</b></summary>
+<summary><b>📜 Click here to expand &amp; browse all 551 movies (630,491 localized cues)...</b></summary>
 
 <br/>
 
@@ -192,17 +192,14 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Airplane 2: The Sequel** | **1982** | Sci-Fi | 937 | [🇱🇦 Lao](subtitles/Airplane.2.The.Sequel.1982.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Airplane.2.The.Sequel.1982.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Aladdin** | **1992** |  | 1,294 | [🇱🇦 Lao](subtitles/Aladdin.1992.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Aladdin.1992.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Ali** | **2001** | Drama | 995 | [🇱🇦 Lao](subtitles/Ali.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Ali.2001.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Alien** | **1979** | Feature Film | 883 | [🇱🇦 Lao](subtitles/Alien.1979.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.1979.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Alien 3** | **1992** | Thriller | 689 | [🇱🇦 Lao](subtitles/Alien.3.1992.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.3.1992.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Alien 3 Assembly Cut** | **1992** |  | 1,393 | [🇱🇦 Lao](subtitles/Alien.3.Assembly.Cut.1992.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.3.Assembly.Cut.1992.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Alien Directors Cut** | **1979** |  | 885 | [🇱🇦 Lao](subtitles/Alien.Directors.Cut.1979.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Directors.Cut.1979.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Alien** | **1979** | feature film | 885 | [🇱🇦 Lao](subtitles/Alien.1979.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.1979.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Alien 3** | **1992** | thriller | 1,393 | [🇱🇦 Lao](subtitles/Alien.3.1992.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.3.1992.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Alien Nation** | **1988** | Sci-Fi | 544 | [🇱🇦 Lao](subtitles/Alien.Nation.1988.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Nation.1988.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Alien Resurrection Special Edition** | **1997** |  | 905 | [🇱🇦 Lao](subtitles/Alien.Resurrection.Special.Edition.1997.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Resurrection.Special.Edition.1997.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Alien Verses Predator Requiem Unrated** | **2007** |  | 810 | [🇱🇦 Lao](subtitles/Alien.Verses.Predator.Requiem.Unrated.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Verses.Predator.Requiem.Unrated.2007.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Alien Verses Predator Unrated** | **2004** |  | 593 | [🇱🇦 Lao](subtitles/Alien.Verses.Predator.Unrated.2004.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Verses.Predator.Unrated.2004.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Alien Resurrection** | **1997** |  | 905 | [🇱🇦 Lao](subtitles/Alien.Resurrection.1997.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Resurrection.1997.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Alien Verses Predator** | **2004** |  | 593 | [🇱🇦 Lao](subtitles/Alien.Verses.Predator.2004.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Verses.Predator.2004.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Alien Verses Predator Requiem** | **2007** |  | 810 | [🇱🇦 Lao](subtitles/Alien.Verses.Predator.Requiem.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Verses.Predator.Requiem.2007.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Alien: Covenant** | **2017** |  | 1,452 | [🇱🇦 Lao](subtitles/Alien.Covenant.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alien.Covenant.2017.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Aliens** | **1986** | Thriller | 724 | [🇱🇦 Lao](subtitles/Aliens.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Aliens.1986.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Aliens Special Edition** | **1986** |  | 1,425 | [🇱🇦 Lao](subtitles/Aliens.Special.Edition.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Aliens.Special.Edition.1986.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Aliens** | **1986** | thriller | 1,425 | [🇱🇦 Lao](subtitles/Aliens.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Aliens.1986.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Alita: Battle Angel** | **2019** |  | 1,306 | [🇱🇦 Lao](subtitles/Alita.Battle.Angel.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Alita.Battle.Angel.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **All About Eve** | **1950** | Drama | 1,409 | [🇱🇦 Lao](subtitles/All.About.Eve.1950.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/All.About.Eve.1950.bilingual.srt) | Machine translation, not reviewed by a person |
 | **All About Steve** | **2009** | Comedy | 777 | [🇱🇦 Lao](subtitles/All.About.Steve.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/All.About.Steve.2009.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -280,10 +277,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Batman** | **1989** | Thriller | 609 | [🇱🇦 Lao](subtitles/Batman.1989.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Batman.1989.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Batman 2** | **1992** | Thriller | 604 | [🇱🇦 Lao](subtitles/Batman.2.1992.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Batman.2.1992.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Batman Begins** | **2005** |  | 1,389 | [🇱🇦 Lao](subtitles/Batman.Begins.2005.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Batman.Begins.2005.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Batman The Dark Knight** | **2008** |  | 1,824 | [🇱🇦 Lao](subtitles/Batman.The.Dark.Knight.2008.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Batman.The.Dark.Knight.2008.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Batman The Dark Knight Rises** | **2012** |  | 1,778 | [🇱🇦 Lao](subtitles/Batman.The.Dark.Knight.Rises.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Batman.The.Dark.Knight.Rises.2012.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Batman v Superman Dawn of Justice (2016) {edition-Ultimate Edition}** | **None** |  | 1,584 | [🇱🇦 Lao](subtitles/Batman.v.Superman.Dawn.of.Justice.2016.edition.Ultimate.Edition.None.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Batman.v.Superman.Dawn.of.Justice.2016.edition.Ultimate.Edition.None.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Batman v Superman: Dawn of Justice** | **2016** |  | 1,538 | [🇱🇦 Lao](subtitles/Batman.v.Superman.Dawn.of.Justice.2016.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Batman.v.Superman.Dawn.of.Justice.2016.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Batman vs. Teenage Mutant Ninja Turtles** | **2019** |  | 1,022 | [🇱🇦 Lao](subtitles/Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Batman.vs.Teenage.Mutant.Ninja.Turtles.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Batman: Hush** | **2019** |  | 1,012 | [🇱🇦 Lao](subtitles/Batman.Hush.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Batman.Hush.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Battle: Los Angeles** | **2011** | Sci-Fi | 681 | [🇱🇦 Lao](subtitles/Battle.Los.Angeles.2011.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Battle.Los.Angeles.2011.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -292,7 +286,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Belle** | **2013** | Romance | 813 | [🇱🇦 Lao](subtitles/Belle.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Belle.2013.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Big Eyes** | **2014** | Crime | 835 | [🇱🇦 Lao](subtitles/Big.Eyes.2014.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Big.Eyes.2014.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Big Fish** | **2003** | Adventure | 804 | [🇱🇦 Lao](subtitles/Big.Fish.2003.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Big.Fish.2003.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Bilal A New Breed of Hero** | **2015** |  | 1,090 | [🇱🇦 Lao](subtitles/Bilal.A.New.Breed.of.Hero.2015.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Bilal.A.New.Breed.of.Hero.2015.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Bilal: A New Breed of Hero** | **2015** |  | 1,090 | [🇱🇦 Lao](subtitles/Bilal.A.New.Breed.of.Hero.2015.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Bilal.A.New.Breed.of.Hero.2015.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Birdman** | **2014** | Romance | 1,099 | [🇱🇦 Lao](subtitles/Birdman.2014.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Birdman.2014.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Birthday Girl** | **2001** | Romance | 593 | [🇱🇦 Lao](subtitles/Birthday.Girl.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Birthday.Girl.2001.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Black Panther** | **2018** | sci-fi | 1,585 | [🇱🇦 Lao](subtitles/Black.Panther.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Black.Panther.2018.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -343,6 +337,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Cars 2** | **2011** | Animation | 1,226 | [🇱🇦 Lao](subtitles/Cars.2.2011.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Cars.2.2011.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Case 39** | **2009** | Horror | 746 | [🇱🇦 Lao](subtitles/Case.39.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Case.39.2009.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Casino** | **1995** | Crime | 2,483 | [🇱🇦 Lao](subtitles/Casino.1995.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Casino.1995.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Casino Royale** | **2006** |  | 1,042 | [🇱🇦 Lao](subtitles/Casino.Royale.2006.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Casino.Royale.2006.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Cast Away** | **2000** | Adventure | 787 | [🇱🇦 Lao](subtitles/Cast.Away.2000.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Cast.Away.2000.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Catch Me If You Can** | **2002** | Crime | 933 | [🇱🇦 Lao](subtitles/Catch.Me.If.You.Can.2002.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Catch.Me.If.You.Can.2002.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Chamber Of Secrets** | **2002** |  | 1,637 | [🇱🇦 Lao](subtitles/Chamber.Of.Secrets.2002.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Chamber.Of.Secrets.2002.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -391,7 +386,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Dolittle** | **2020** |  | 1,098 | [🇱🇦 Lao](subtitles/Dolittle.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Dolittle.2020.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Dora and the Lost City of Gold** | **2019** |  | 1,472 | [🇱🇦 Lao](subtitles/Dora.and.the.Lost.City.of.Gold.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Dora.and.the.Lost.City.of.Gold.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Drag Me to Hell** | **2009** | Horror | 665 | [🇱🇦 Lao](subtitles/Drag.Me.to.Hell.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Drag.Me.to.Hell.2009.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Dragon Ball Super Broly** | **2018** |  | 994 | [🇱🇦 Lao](subtitles/Dragon.Ball.Super.Broly.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Dragon.Ball.Super.Broly.2018.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Dragon Ball Super: Broly** | **2018** |  | 994 | [🇱🇦 Lao](subtitles/Dragon.Ball.Super.Broly.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Dragon.Ball.Super.Broly.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Dumbo** | **2019** |  | 1,207 | [🇱🇦 Lao](subtitles/Dumbo.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Dumbo.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Dune** | **1984** | sci-fi | 1,146 | [🇱🇦 Lao](subtitles/Dune.1984.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Dune.1984.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Dune Part One** | **2021** | Sci-Fi | 648 | [🇱🇦 Lao](subtitles/Dune.Part.One.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Dune.Part.One.2021.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -401,7 +396,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Elemental** | **2023** | Animation | 906 | [🇱🇦 Lao](subtitles/Elemental.2023.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Elemental.2023.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Escape From L.A.** | **1996** | Sci-Fi | 617 | [🇱🇦 Lao](subtitles/Escape.From.L.A..1996.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Escape.From.L.A..1996.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Eternal Code** | **2019** |  | 1,750 | [🇱🇦 Lao](subtitles/Eternal.Code.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Eternal.Code.2019.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Eurovision Song Contest The Story Of Fire Saga** | **2020** |  | 2,038 | [🇱🇦 Lao](subtitles/Eurovision.Song.Contest.The.Story.Of.Fire.Saga.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Eurovision.Song.Contest.The.Story.Of.Fire.Saga.2020.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Eurovision Song Contest: The Story of Fire Saga** | **2020** |  | 2,038 | [🇱🇦 Lao](subtitles/Eurovision.Song.Contest.The.Story.of.Fire.Saga.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Eurovision.Song.Contest.The.Story.of.Fire.Saga.2020.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Event Horizon** | **1997** | Horror | 892 | [🇱🇦 Lao](subtitles/Event.Horizon.1997.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Event.Horizon.1997.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Evil Dead** | **1981** | Horror | 310 | [🇱🇦 Lao](subtitles/Evil.Dead.1981.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Evil.Dead.1981.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Evil Dead II: Dead by Dawn** | **1987** | Horror | 221 | [🇱🇦 Lao](subtitles/Evil.Dead.II.Dead.by.Dawn.1987.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Evil.Dead.II.Dead.by.Dawn.1987.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -409,7 +404,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Fantastic Beasts: The Crimes of Grindelwald** | **2018** |  | 1,184 | [🇱🇦 Lao](subtitles/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Fantastic.Beasts.The.Crimes.of.Grindelwald.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Fantastic Mr Fox** | **2009** | Animation | 625 | [🇱🇦 Lao](subtitles/Fantastic.Mr.Fox.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Fantastic.Mr.Fox.2009.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Fantasy Island** | **2020** |  | 1,581 | [🇱🇦 Lao](subtitles/Fantasy.Island.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Fantasy.Island.2020.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Fast & Furious Presents Hobbs & Shaw** | **2019** |  | 2,153 | [🇱🇦 Lao](subtitles/Fast.Furious.Presents.Hobbs.Shaw.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Fast.Furious.Presents.Hobbs.Shaw.2019.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Fast & Furious Presents: Hobbs & Shaw** | **2019** |  | 2,153 | [🇱🇦 Lao](subtitles/Fast.Furious.Presents.Hobbs.Shaw.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Fast.Furious.Presents.Hobbs.Shaw.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Feast** | **2005** | Horror | 831 | [🇱🇦 Lao](subtitles/Feast.2005.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Feast.2005.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Fight Club** | **1999** | Drama / Classics | 1,293 | [🇱🇦 Lao](subtitles/Fight.Club.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Fight.Club.1999.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Fighting with My Family** | **2019** |  | 1,953 | [🇱🇦 Lao](subtitles/Fighting.with.My.Family.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Fighting.with.My.Family.2019.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -455,7 +450,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **How to Train Your Dragon** | **2010** | animation | 866 | [🇱🇦 Lao](subtitles/How.to.Train.Your.Dragon.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/How.to.Train.Your.Dragon.2010.bilingual.srt) | Machine translation, not reviewed by a person |
 | **How to Train Your Dragon 2** | **2014** | Animation | 726 | [🇱🇦 Lao](subtitles/How.to.Train.Your.Dragon.2.2014.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/How.to.Train.Your.Dragon.2.2014.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Hunter Killer** | **2018** |  | 1,255 | [🇱🇦 Lao](subtitles/Hunter.Killer.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Hunter.Killer.2018.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Impractical Jokers The Movie** | **2020** |  | 2,177 | [🇱🇦 Lao](subtitles/Impractical.Jokers.The.Movie.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Impractical.Jokers.The.Movie.2020.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Impractical Jokers: The Movie** | **2020** |  | 2,177 | [🇱🇦 Lao](subtitles/Impractical.Jokers.The.Movie.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Impractical.Jokers.The.Movie.2020.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Inception** | **2010** | Drama / Classics | 1,223 | [🇱🇦 Lao](subtitles/Inception.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Inception.2010.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Instant Family** | **2018** |  | 2,062 | [🇱🇦 Lao](subtitles/Instant.Family.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Instant.Family.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Interstellar** | **2014** | Drama / Classics | 902 | [🇱🇦 Lao](subtitles/Interstellar.2014.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Interstellar.2014.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -463,7 +458,6 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Iron Man 2** | **2010** |  | 1,527 | [🇱🇦 Lao](subtitles/Iron.Man.2.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Iron.Man.2.2010.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Iron Man 3** | **2013** |  | 1,813 | [🇱🇦 Lao](subtitles/Iron.Man.3.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Iron.Man.3.2013.bilingual.srt) | Machine translation, not reviewed by a person |
 | **It Chapter Two** | **2019** |  | 2,404 | [🇱🇦 Lao](subtitles/It.Chapter.Two.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/It.Chapter.Two.2019.bilingual.srt) | Machine translation, not reviewed by a person |
-| **James Bond Casino Royale** | **2006** |  | 1,042 | [🇱🇦 Lao](subtitles/James.Bond.Casino.Royale.2006.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/James.Bond.Casino.Royale.2006.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Jexi** | **2019** |  | 1,800 | [🇱🇦 Lao](subtitles/Jexi.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Jexi.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **John Carter** | **2012** |  | 1,272 | [🇱🇦 Lao](subtitles/John.Carter.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/John.Carter.2012.bilingual.srt) | Machine translation, not reviewed by a person |
 | **John Wick** | **2014** |  | 846 | [🇱🇦 Lao](subtitles/John.Wick.2014.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/John.Wick.2014.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -475,10 +469,10 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Juliet, Naked** | **2018** |  | 2,039 | [🇱🇦 Lao](subtitles/Juliet.Naked.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Juliet.Naked.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Jumanji: Welcome to the Jungle** | **2017** |  | 1,804 | [🇱🇦 Lao](subtitles/Jumanji.Welcome.to.the.Jungle.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Jumanji.Welcome.to.the.Jungle.2017.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Jungle Cruise** | **2021** |  | 1,605 | [🇱🇦 Lao](subtitles/Jungle.Cruise.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Jungle.Cruise.2021.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Jurassic World 3 Dominion** | **2022** |  | 1,668 | [🇱🇦 Lao](subtitles/Jurassic.World.3.Dominion.2022.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Jurassic.World.3.Dominion.2022.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Jurassic World: Dominion** | **2022** |  | 1,668 | [🇱🇦 Lao](subtitles/Jurassic.World.Dominion.2022.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Jurassic.World.Dominion.2022.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Jurassic World: Fallen Kingdom** | **2018** |  | 1,047 | [🇱🇦 Lao](subtitles/Jurassic.World.Fallen.Kingdom.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Jurassic.World.Fallen.Kingdom.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Justice League** | **2017** |  | 1,277 | [🇱🇦 Lao](subtitles/Justice.League.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Justice.League.2017.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Justice League vs Teen Titans** | **2016** |  | 739 | [🇱🇦 Lao](subtitles/Justice.League.vs.Teen.Titans.2016.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Justice.League.vs.Teen.Titans.2016.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Justice League vs. Teen Titans** | **2016** |  | 739 | [🇱🇦 Lao](subtitles/Justice.League.vs.Teen.Titans.2016.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Justice.League.vs.Teen.Titans.2016.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Justice League vs. the Fatal Five** | **2019** |  | 756 | [🇱🇦 Lao](subtitles/Justice.League.vs.the.Fatal.Five.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Justice.League.vs.the.Fatal.Five.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Kingsman: The Golden Circle** | **2017** |  | 1,815 | [🇱🇦 Lao](subtitles/Kingsman.The.Golden.Circle.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Kingsman.The.Golden.Circle.2017.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Knives Out** | **2019** |  | 1,823 | [🇱🇦 Lao](subtitles/Knives.Out.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Knives.Out.2019.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -486,7 +480,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Kung Fu Panda** | **2008** | Animation | 694 | [🇱🇦 Lao](subtitles/Kung.Fu.Panda.2008.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Kung.Fu.Panda.2008.bilingual.srt) | Machine translation, not reviewed by a person |
 | **L' Avventura (The Adventure)** | **1960** | Thriller | 745 | [🇱🇦 Lao](subtitles/L.Avventura.The.Adventure.1960.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/L.Avventura.The.Adventure.1960.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Late Night** | **2019** |  | 2,195 | [🇱🇦 Lao](subtitles/Late.Night.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Late.Night.2019.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Left Behind III World At War** | **2005** |  | 1,187 | [🇱🇦 Lao](subtitles/Left.Behind.III.World.At.War.2005.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Left.Behind.III.World.At.War.2005.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Left Behind III: World at War** | **2005** |  | 1,187 | [🇱🇦 Lao](subtitles/Left.Behind.III.World.at.War.2005.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Left.Behind.III.World.at.War.2005.bilingual.srt) | Machine translation, not reviewed by a person |
 | **London Has Fallen** | **2016** |  | 1,032 | [🇱🇦 Lao](subtitles/London.Has.Fallen.2016.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/London.Has.Fallen.2016.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Lucy** | **2014** |  | 830 | [🇱🇦 Lao](subtitles/Lucy.2014.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Lucy.2014.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Maleficent: Mistress of Evil** | **2019** |  | 1,109 | [🇱🇦 Lao](subtitles/Maleficent.Mistress.of.Evil.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Maleficent.Mistress.of.Evil.2019.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -503,7 +497,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Monkeybone** | **2001** | Animation | 643 | [🇱🇦 Lao](subtitles/Monkeybone.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Monkeybone.2001.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Monsters, Inc.** | **2001** |  | 1,081 | [🇱🇦 Lao](subtitles/Monsters.Inc.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Monsters.Inc.2001.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Moonfall** | **2022** |  | 1,967 | [🇱🇦 Lao](subtitles/Moonfall.2022.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Moonfall.2022.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Mr  Jones** | **2019** |  | 871 | [🇱🇦 Lao](subtitles/Mr.Jones.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Mr.Jones.2019.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Mr. Jones** | **2019** |  | 871 | [🇱🇦 Lao](subtitles/Mr.Jones.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Mr.Jones.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Night School** | **2018** |  | 2,545 | [🇱🇦 Lao](subtitles/Night.School.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Night.School.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Ocean's Eight** | **2018** |  | 1,778 | [🇱🇦 Lao](subtitles/Oceans.Eight.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Oceans.Eight.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Official Secrets** | **2019** |  | 1,877 | [🇱🇦 Lao](subtitles/Official.Secrets.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Official.Secrets.2019.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -517,7 +511,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Peppermint** | **2018** |  | 1,105 | [🇱🇦 Lao](subtitles/Peppermint.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Peppermint.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Pirates of the Caribbean: Dead Men Tell No Tales** | **2017** |  | 1,105 | [🇱🇦 Lao](subtitles/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Pirates.of.the.Caribbean.Dead.Men.Tell.No.Tales.2017.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Pixels** | **2015** |  | 1,693 | [🇱🇦 Lao](subtitles/Pixels.2015.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Pixels.2015.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Playing With Fire** | **2019** |  | 1,590 | [🇱🇦 Lao](subtitles/Playing.With.Fire.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Playing.With.Fire.2019.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Playing with Fire** | **2019** |  | 1,590 | [🇱🇦 Lao](subtitles/Playing.with.Fire.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Playing.with.Fire.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Pokémon Detective Pikachu** | **2019** |  | 1,276 | [🇱🇦 Lao](subtitles/Pok.mon.Detective.Pikachu.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Pok.mon.Detective.Pikachu.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Prisoner Of Azkaban** | **2004** |  | 1,398 | [🇱🇦 Lao](subtitles/Prisoner.Of.Azkaban.2004.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Prisoner.Of.Azkaban.2004.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Prometheus** | **2012** |  | 1,770 | [🇱🇦 Lao](subtitles/Prometheus.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Prometheus.2012.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -548,7 +542,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Skyfall** | **2012** |  | 1,166 | [🇱🇦 Lao](subtitles/Skyfall.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Skyfall.2012.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Skyscraper** | **2018** |  | 1,019 | [🇱🇦 Lao](subtitles/Skyscraper.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Skyscraper.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Smallfoot** | **2018** |  | 1,774 | [🇱🇦 Lao](subtitles/Smallfoot.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Smallfoot.2018.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Snake Eyes G I Joe Origins** | **2021** |  | 775 | [🇱🇦 Lao](subtitles/Snake.Eyes.G.I.Joe.Origins.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Snake.Eyes.G.I.Joe.Origins.2021.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Snake Eyes: G.I. Joe Origins** | **2021** |  | 775 | [🇱🇦 Lao](subtitles/Snake.Eyes.G.I.Joe.Origins.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Snake.Eyes.G.I.Joe.Origins.2021.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Snow White** | **2025** |  | 1,363 | [🇱🇦 Lao](subtitles/Snow.White.2025.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Snow.White.2025.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Sorcerer's Stone** | **2001** |  | 1,291 | [🇱🇦 Lao](subtitles/Sorcerers.Stone.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Sorcerers.Stone.2001.bilingual.srt) | Machine translation, not reviewed by a person |
 | **South Park: Bigger, Longer & Uncut** | **1999** | Animation | 1,257 | [🇱🇦 Lao](subtitles/South.Park.Bigger.Longer.and.Uncut.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/South.Park.Bigger.Longer.and.Uncut.1999.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -560,28 +554,28 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Spies in Disguise** | **2019** |  | 1,568 | [🇱🇦 Lao](subtitles/Spies.in.Disguise.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Spies.in.Disguise.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Split** | **2016** |  | 1,272 | [🇱🇦 Lao](subtitles/Split.2016.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Split.2016.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Standing Up, Falling Down** | **2019** |  | 2,008 | [🇱🇦 Lao](subtitles/Standing.Up.Falling.Down.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Standing.Up.Falling.Down.2019.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Star Trek - Star Trek** | **2009** |  | 1,394 | [🇱🇦 Lao](subtitles/Star.Trek.Star.Trek.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.Star.Trek.2009.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Star Trek - The Final Frontier** | **1989** |  | 1,036 | [🇱🇦 Lao](subtitles/Star.Trek.The.Final.Frontier.1989.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.The.Final.Frontier.1989.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Star Trek - The Search for Spock** | **1984** |  | 1,267 | [🇱🇦 Lao](subtitles/Star.Trek.The.Search.for.Spock.1984.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.The.Search.for.Spock.1984.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Star Trek - The Undiscovered Country** | **1991** |  | 1,154 | [🇱🇦 Lao](subtitles/Star.Trek.The.Undiscovered.Country.1991.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.The.Undiscovered.Country.1991.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Star Trek - The Voyage Home** | **1986** |  | 1,331 | [🇱🇦 Lao](subtitles/Star.Trek.The.Voyage.Home.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.The.Voyage.Home.1986.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Star Trek - The Wrath of Khan** | **1982** |  | 1,461 | [🇱🇦 Lao](subtitles/Star.Trek.The.Wrath.of.Khan.1982.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.The.Wrath.of.Khan.1982.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Star Trek** | **2009** |  | 1,394 | [🇱🇦 Lao](subtitles/Star.Trek.2009.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.2009.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Star Trek II: The Wrath of Khan** | **1982** |  | 1,461 | [🇱🇦 Lao](subtitles/Star.Trek.II.The.Wrath.of.Khan.1982.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.II.The.Wrath.of.Khan.1982.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Star Trek III: The Search for Spock** | **1984** |  | 1,267 | [🇱🇦 Lao](subtitles/Star.Trek.III.The.Search.for.Spock.1984.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.III.The.Search.for.Spock.1984.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Trek Into Darkness** | **2013** |  | 1,774 | [🇱🇦 Lao](subtitles/Star.Trek.Into.Darkness.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.Into.Darkness.2013.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Star Trek IV: The Voyage Home** | **1986** |  | 1,331 | [🇱🇦 Lao](subtitles/Star.Trek.IV.The.Voyage.Home.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.IV.The.Voyage.Home.1986.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Star Trek V: The Final Frontier** | **1989** |  | 1,036 | [🇱🇦 Lao](subtitles/Star.Trek.V.The.Final.Frontier.1989.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.V.The.Final.Frontier.1989.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Star Trek VI: The Undiscovered Country** | **1991** |  | 1,154 | [🇱🇦 Lao](subtitles/Star.Trek.VI.The.Undiscovered.Country.1991.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.VI.The.Undiscovered.Country.1991.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Trek: First Contact** | **1996** |  | 716 | [🇱🇦 Lao](subtitles/Star.Trek.First.Contact.1996.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.First.Contact.1996.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Trek: Generations** | **1994** |  | 1,031 | [🇱🇦 Lao](subtitles/Star.Trek.Generations.1994.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.Generations.1994.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Trek: Insurrection** | **1998** |  | 788 | [🇱🇦 Lao](subtitles/Star.Trek.Insurrection.1998.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.Insurrection.1998.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Trek: Nemesis** | **2002** |  | 1,035 | [🇱🇦 Lao](subtitles/Star.Trek.Nemesis.2002.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.Nemesis.2002.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Trek: The Motion Picture** | **1979** |  | 1,071 | [🇱🇦 Lao](subtitles/Star.Trek.The.Motion.Picture.1979.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Trek.The.Motion.Picture.1979.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Star Wars Episode VII - The Force Awakens** | **2015** |  | 1,405 | [🇱🇦 Lao](subtitles/Star.Wars.Episode.VII.The.Force.Awakens.2015.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Wars.Episode.VII.The.Force.Awakens.2015.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Star Wars Episode VIII - The Last Jedi** | **2017** |  | 1,547 | [🇱🇦 Lao](subtitles/Star.Wars.Episode.VIII.The.Last.Jedi.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Wars.Episode.VIII.The.Last.Jedi.2017.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Wars: Episode I - The Phantom Menace** | **1999** |  | 1,222 | [🇱🇦 Lao](subtitles/Star.Wars.Episode.I.The.Phantom.Menace.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Wars.Episode.I.The.Phantom.Menace.1999.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Wars: Episode IV - A New Hope** | **1977** | drama / classics | 1,371 | [🇱🇦 Lao](subtitles/Star.Wars.Episode.IV.-.A.New.Hope.1977.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Wars.Episode.IV.-.A.New.Hope.1977.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Wars: Episode V - The Empire Strikes Back** | **1980** |  | 1,133 | [🇱🇦 Lao](subtitles/Star.Wars.Episode.V.The.Empire.Strikes.Back.1980.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Wars.Episode.V.The.Empire.Strikes.Back.1980.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Star Wars: Episode VI - Return of the Jedi** | **1983** |  | 1,007 | [🇱🇦 Lao](subtitles/Star.Wars.Episode.VI.Return.of.the.Jedi.1983.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Wars.Episode.VI.Return.of.the.Jedi.1983.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Star Wars: The Force Awakens** | **2015** |  | 1,405 | [🇱🇦 Lao](subtitles/Star.Wars.The.Force.Awakens.2015.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Wars.The.Force.Awakens.2015.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Star Wars: The Last Jedi** | **2017** |  | 1,547 | [🇱🇦 Lao](subtitles/Star.Wars.The.Last.Jedi.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Star.Wars.The.Last.Jedi.2017.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Stuber** | **2019** |  | 1,968 | [🇱🇦 Lao](subtitles/Stuber.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Stuber.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Superman: Red Son** | **2020** |  | 967 | [🇱🇦 Lao](subtitles/Superman.Red.Son.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Superman.Red.Son.2020.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Tag** | **2018** |  | 1,983 | [🇱🇦 Lao](subtitles/Tag.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Tag.2018.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Teen Titans Go! Vs  Teen Titans** | **2019** |  | 1,169 | [🇱🇦 Lao](subtitles/Teen.Titans.Go.Vs.Teen.Titans.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Teen.Titans.Go.Vs.Teen.Titans.2019.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Teen Titans Go! vs. Teen Titans** | **2019** |  | 1,169 | [🇱🇦 Lao](subtitles/Teen.Titans.Go.vs.Teen.Titans.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Teen.Titans.Go.vs.Teen.Titans.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Teenage Mutant Ninja Turtles: Mutant Mayhem** | **2023** | Animation | 996 | [🇱🇦 Lao](subtitles/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Tenet** | **2020** |  | 1,872 | [🇱🇦 Lao](subtitles/Tenet.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Tenet.2020.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Terminator 2: Judgment Day** | **1991** | Feature Film | 518 | [🇱🇦 Lao](subtitles/Terminator.2.Judgment.Day.1991.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Terminator.2.Judgment.Day.1991.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -610,7 +604,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **The Bling Ring** | **2013** | Crime | 606 | [🇱🇦 Lao](subtitles/The.Bling.Ring.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Bling.Ring.2013.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Book of Eli** | **2010** | Sci-Fi | 786 | [🇱🇦 Lao](subtitles/The.Book.of.Eli.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Book.of.Eli.2010.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Boondock Saints** | **1999** | Crime | 787 | [🇱🇦 Lao](subtitles/The.Boondock.Saints.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Boondock.Saints.1999.bilingual.srt) | Machine translation, not reviewed by a person |
-| **The Boss Baby Family Business** | **2021** |  | 2,462 | [🇱🇦 Lao](subtitles/The.Boss.Baby.Family.Business.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Boss.Baby.Family.Business.2021.bilingual.srt) | Machine translation, not reviewed by a person |
+| **The Boss Baby: Family Business** | **2021** |  | 2,462 | [🇱🇦 Lao](subtitles/The.Boss.Baby.Family.Business.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Boss.Baby.Family.Business.2021.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Bouncer** | **2018** |  | 446 | [🇱🇦 Lao](subtitles/The.Bouncer.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Bouncer.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Bounty Hunter** | **2010** | Romance | 934 | [🇱🇦 Lao](subtitles/The.Bounty.Hunter.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Bounty.Hunter.2010.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Bourne Identity** | **2002** | Adventure | 643 | [🇱🇦 Lao](subtitles/The.Bourne.Identity.2002.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Bourne.Identity.2002.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -627,7 +621,8 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **The Croods A New Age** | **2020** |  | 1,717 | [🇱🇦 Lao](subtitles/The.Croods.A.New.Age.2020.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Croods.A.New.Age.2020.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Crow** | **1994** | Horror | 539 | [🇱🇦 Lao](subtitles/The.Crow.1994.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Crow.1994.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Crow Salvation** | **2000** | Horror | 572 | [🇱🇦 Lao](subtitles/The.Crow.Salvation.2000.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Crow.Salvation.2000.bilingual.srt) | Machine translation, not reviewed by a person |
-| **The Dark Knight** | **2008** | Drama / Classics | 1,243 | [🇱🇦 Lao](subtitles/The.Dark.Knight.2008.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Dark.Knight.2008.bilingual.srt) | Machine translation, not reviewed by a person |
+| **The Dark Knight** | **2008** | drama / classics | 1,824 | [🇱🇦 Lao](subtitles/The.Dark.Knight.2008.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Dark.Knight.2008.bilingual.srt) | Machine translation, not reviewed by a person |
+| **The Dark Knight Rises** | **2012** |  | 1,778 | [🇱🇦 Lao](subtitles/The.Dark.Knight.Rises.2012.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Dark.Knight.Rises.2012.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Day the Earth Stood Still** | **2008** | Sci-Fi | 770 | [🇱🇦 Lao](subtitles/The.Day.the.Earth.Stood.Still.2008.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Day.the.Earth.Stood.Still.2008.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Death and Return of Superman** | **2019** |  | 1,854 | [🇱🇦 Lao](subtitles/The.Death.and.Return.of.Superman.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Death.and.Return.of.Superman.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Death of Superman** | **2018** |  | 779 | [🇱🇦 Lao](subtitles/The.Death.of.Superman.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Death.of.Superman.2018.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -655,7 +650,7 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **The Lion King** | **2019** |  | 1,547 | [🇱🇦 Lao](subtitles/The.Lion.King.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Lion.King.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Lord of the Rings: The Fellowship of the Ring** | **2001** | Feature Film | 817 | [🇱🇦 Lao](subtitles/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Lord.of.the.Rings.The.Fellowship.of.the.Ring.2001.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Man from Earth: Holocene** | **2017** |  | 958 | [🇱🇦 Lao](subtitles/The.Man.from.Earth.Holocene.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Man.from.Earth.Holocene.2017.bilingual.srt) | Machine translation, not reviewed by a person |
-| **The Matrix 4 Resurrections** | **2021** |  | 1,809 | [🇱🇦 Lao](subtitles/The.Matrix.4.Resurrections.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Matrix.4.Resurrections.2021.bilingual.srt) | Machine translation, not reviewed by a person |
+| **The Matrix Resurrections** | **2021** |  | 1,809 | [🇱🇦 Lao](subtitles/The.Matrix.Resurrections.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Matrix.Resurrections.2021.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Meg** | **2018** |  | 1,394 | [🇱🇦 Lao](subtitles/The.Meg.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Meg.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Nightingale** | **2018** |  | 1,436 | [🇱🇦 Lao](subtitles/The.Nightingale.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Nightingale.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **The Nutcracker and the Four Realms** | **2018** |  | 1,101 | [🇱🇦 Lao](subtitles/The.Nutcracker.and.the.Four.Realms.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/The.Nutcracker.and.the.Four.Realms.2018.bilingual.srt) | Machine translation, not reviewed by a person |
@@ -681,11 +676,12 @@ Every movie card on the [live site](https://hieng1999.github.io/Hieng1999/lao-su
 | **Thor: The Dark World** | **2013** |  | 1,128 | [🇱🇦 Lao](subtitles/Thor.The.Dark.World.2013.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Thor.The.Dark.World.2013.bilingual.srt) | Machine translation, not reviewed by a person |
 | **TMNT** | **2007** | Animation | 551 | [🇱🇦 Lao](subtitles/TMNT.2007.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/TMNT.2007.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Tolkien** | **2019** |  | 1,592 | [🇱🇦 Lao](subtitles/Tolkien.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Tolkien.2019.bilingual.srt) | Machine translation, not reviewed by a person |
-| **Tom and Jerry** | **2021** |  | 1,665 | [🇱🇦 Lao](subtitles/Tom.and.Jerry.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Tom.and.Jerry.2021.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Tom & Jerry** | **2021** |  | 1,665 | [🇱🇦 Lao](subtitles/Tom.Jerry.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Tom.Jerry.2021.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Tomb Raider** | **2018** |  | 941 | [🇱🇦 Lao](subtitles/Tomb.Raider.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Tomb.Raider.2018.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Toy Story** | **1995** | animation | 1,144 | [🇱🇦 Lao](subtitles/Toy.Story.1995.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Toy.Story.1995.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Toy Story 2** | **1999** |  | 1,195 | [🇱🇦 Lao](subtitles/Toy.Story.2.1999.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Toy.Story.2.1999.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Toy Story 3** | **2010** |  | 1,217 | [🇱🇦 Lao](subtitles/Toy.Story.3.2010.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Toy.Story.3.2010.bilingual.srt) | Machine translation, not reviewed by a person |
+| **Toy Story 4** | **2019** |  | 1,811 | [🇱🇦 Lao](subtitles/Toy.Story.4.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Toy.Story.4.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Transformers: The Movie** | **1986** | Animation | 720 | [🇱🇦 Lao](subtitles/Transformers.The.Movie.1986.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Transformers.The.Movie.1986.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Trauma Center** | **2019** |  | 748 | [🇱🇦 Lao](subtitles/Trauma.Center.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Trauma.Center.2019.bilingual.srt) | Machine translation, not reviewed by a person |
 | **Triple Threat** | **2019** |  | 1,060 | [🇱🇦 Lao](subtitles/Triple.Threat.2019.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Triple.Threat.2019.bilingual.srt) | Machine translation, not reviewed by a person |

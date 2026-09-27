@@ -1,5 +1,56 @@
 # Changelog
 
+## 2026-09-26 (catalog update)
+
+Catalog update (Part S2): fixes found by re-checking the live batch-1 site (555 films,
+published earlier the same day) plus a second publish batch.
+
+- **Duplicate cards fixed.** Catalog<->library re-matching now strips edition words
+  (Special Edition, Director's Cut, Unrated, Assembly Cut, Remastered, Theatrical,
+  Ultimate Edition, Final Cut) and folds "verses"/"vs." together before comparing
+  titles. Found 4 films that were published twice -- once as an old "Translated
+  screenplay" catalog card, once as a separate "Subtitles" library card missing only
+  because of an edition word or an extra series-name prefix: Alien (1979, "Directors
+  Cut"), Alien 3 (1992, "Assembly Cut"), Aliens (1986, "Special Edition"), and The Dark
+  Knight (2008, from a folder named "Batman The Dark Knight"). Each now has one card,
+  under its catalog stem, showing the cut it's actually timed to. A genuinely different
+  cut of an already-sourced catalog film, or two library folders for different editions
+  of the same film, still get separate cards. Two folders found to be true duplicates
+  (same film, same cut) publish the one with more kept lines and drop the other
+  (Batman V Superman: Dawn of Justice).
+- **Library titles corrected.** Rebuilt library metadata from fresh OpenSubtitles
+  searches with a stricter accept rule (year must match; title must match exactly, or
+  the search result's words must all appear in the folder's own words, or word-overlap
+  (Jaccard) >= 0.8) -- rejects a same-word-count coincidence, so a folder named
+  "Robin Hood" no longer canonicalizes to the unrelated film "Christopher Robin" (this
+  library's most visible past mismatch); 13 titles corrected this run (e.g. "Batman The
+  Dark Knight Rises" -> "The Dark Knight Rises"), the rest kept their cleaned folder name
+  when no confident search match existed. Never carries over an id from the old,
+  unreliable metadata file. Also fixed 4 titles that were showing a raw "&amp;" instead
+  of "&" (OpenSubtitles' own title field carries HTML entities verbatim).
+- **A privacy leak in one attribution line fixed.** Alita: Battle Angel's credit line was
+  showing the uploader's donation message and personal phone number, because the credit
+  text's own line breaks were being erased before the code looked for a stopping point.
+  Every attribution is now built one physical line at a time; a line break always ends
+  it. Scanned every published attribution afterward for donation/ad/phone-number
+  patterns: none found.
+- **"How We Verify Quality" card scoped correctly.** Its numbers (automatic re-
+  translation and pattern-check corrections) have only ever described the older
+  "Translated screenplay" files; the card now says so explicitly, drops the
+  "Independently" claim, and adds a plain line for "Subtitles" files stating what is
+  actually checked for them (model weights, per-line timing, non-empty lines, credit/ad
+  removal, defect-pattern checks) and that no quality score is published for them yet.
+- **One unit on every card.** "Subtitles" cards now say "N lines", matching "Translated
+  screenplay" cards (was "N cues").
+- Toy Story 4 (2019), held back from batch 1 over a false timing-check failure (two
+  English cues sharing one timestamp), is now published -- the check is a multiset
+  comparison, so a shared timestamp on the English side no longer fails a Lao file whose
+  own cues all genuinely match.
+- Verified: link check 0 failures; every listed film's site files byte-identical to the
+  translated source; subtitle/screenplay counts match the page header; 0 local paths; 0
+  attributions with a 6+ digit run or a donation/ad-boilerplate word; 0 duplicate
+  title+year+cut on the page; headless Chrome confirms card count, both labels, 0 "n/a".
+
 ## 2026-09-26
 
 Catalog rebuild: published the S3X-translated R2 batch (Part S1), the adapter staged as
