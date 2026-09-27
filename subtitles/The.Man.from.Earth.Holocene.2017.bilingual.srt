@@ -1,0 +1,5645 @@
+1
+00:00:02,406 --> 00:00:06,272
+Hi, my name is Richard Schenkman, and I directed "Jerome Bixby's The Man from Earth",
+ສະບາຍດີ,ຂ້ອຍຊື່ວ່າຣິກາສ໌ສະເກນແມນ,ແລະຂ້ອຍ
+ໄດ້ຊີ້ນໍາ"ຜູ້ຊາຍຈາກໂລກຂອງເຈໂຣມບິກສບີ",
+
+2
+00:00:06,398 --> 00:00:09,732
+as well as the movie you're about to watch, "The Man from Earth: Holocene".
+ເຊັ່ນດຽວກັນກັບຮູບເງົາທີ່ທ່ານກໍາລັ
+ງຈະເບິ່ງ,"ຜູ້ຊາຍຈາກໂລກ: Holocene" .
+
+3
+00:00:09,858 --> 00:00:13,803
+My team and I are working very hard to make sure that every single person in the world
+ຂ້ອຍແລະທີມງານຂອງຂ້ອຍກໍາລັງເຮັດວຽກ
+ໜັກຫຼາຍເພື່ອຮັບປະກັນວ່າທຸກໆຄົນໃນໂລກ
+
+4
+00:00:13,929 --> 00:00:16,834
+who wants to see the movie has access to stream or download it,
+ຜູ້ທີ່ຢາກເບິ່ງຮູບເງົາສາມາດເຂົ້າເຖິງ
+ການຖ່າຍທອດຫຼືດາວໂຫຼດມັນໄດ້,
+
+5
+00:00:16,960 --> 00:00:20,756
+even to the point of uploading ourselves to the filesharing community.
+ເຖິງແມ່ນວ່າຈະອັບໂຫຼດຕົວເອງ
+ໃນຊຸມຊົນແບ່ງປັນເອກະສານ.
+
+6
+00:00:20,882 --> 00:00:24,357
+But while it's true that many people will have free access to the movie,
+ແຕ່ໃນຂະນະທີ່ມັນເປັນຄວາມຈິງວ່າຄົນຫຼາຍ
+ຄົນຈະສາມາດເຂົ້າເບິ່ງຮູບເງົາໄດ້ຟຣີ,
+
+7
+00:00:24,483 --> 00:00:26,686
+that hardly means it was free to make.
+ນັ້ນເກືອບບໍ່ໝາຍຄວາມ
+ວ່າມັນເປັນຟຣີທີ່ຈະເຮັດ.
+
+8
+00:00:26,812 --> 00:00:31,452
+Dozens of people worked for months or years on the film, and they deserve to be paid,
+ມີຄົນຫຼາຍສິບຄົນເຮັດວຽກໃນຮູບເງົາເປັນເວລາຫຼາຍເດືອນ
+ຫຼືຫຼາຍປີ,ແລະພວກເຂົາສົມຄວນໄດ້ຮັບການຈ່າຍເງິນ,
+
+9
+00:00:31,578 --> 00:00:36,670
+just as you deserve to be paid for the work that you do, whatever that work is, and wherever it is you do it.
+ຄືກັບທີ່ເຈົ້າສົມຄວນໄດ້ຮັບການຈ່າຍເງິນສໍາລັບການເຮັດວຽກທີ່ທ່ານເຮັດ,
+ວຽກງານນັ້ນແມ່ນຫຍັງກໍ່ຕາມ,ແລະບໍ່ວ່າຈະເປັນບ່ອນໃດກໍ່ຕາມທີ່ທ່ານເຮັດມັນ.
+
+10
+00:00:40,710 --> 00:00:42,976
+and make a donation, of any size,
+ແລະໃຫ້ການບໍລິຈາກ, ຂອງຂະໜາດໃດກໍ່ຕາມ,
+
+11
+00:00:43,102 --> 00:00:46,475
+if you've watched the movie without paying for it up front.
+ຖ້າເຈົ້າໄດ້ເບິ່ງຮູບເງົາ
+ໂດຍບໍ່ຕ້ອງຈ່າຍຄ່າກ່ອນ.
+
+12
+00:00:46,601 --> 00:00:49,202
+It's a global experiment in the honor system.
+ມັນເປັນການທົດລອງ
+ທົ່ວໂລກໃນລະບົບກຽດຕິຍົດ.
+
+13
+00:00:49,328 --> 00:00:52,781
+We're asking people: "If you watch our movie, and you like it
+ພວກເຮົາກໍາລັງຖາມຄົນວ່າ:"ຖ້າເຈົ້າ
+ເບິ່ງຮູບເງົາຂອງພວກເຮົາ,ແລະເຈົ້າມັກມັນ
+
+14
+00:00:52,907 --> 00:00:56,881
+will you pay something directly to the people who made it?"
+ເຈົ້າຈະຈ່າຍເງິນບາງສິ່ງບາງຢ່າງ
+ໂດຍກົງໃຫ້ຄົນທີ່ເຮັດມັນບໍ?
+
+15
+00:00:57,007 --> 00:01:01,554
+Thank you again for your support, and I hope you enjoy "The Man from Earth: Holocene".
+ຂອບໃຈອີກເທື່ອໜຶ່ງສໍາລັບການສະໜັບສະໜູນຂອງທ່ານ,ແລະຂ້າພະເຈົ້າ
+ຫວັງວ່າທ່ານຈະເພີດເພີນກັບ"ຜູ້ຊາຍຈາກໂລກ: Holocene" .
+
+16
+00:02:09,210 --> 00:02:14,257
+MAIN TITLE
+ຫົວຂໍ້ຫຼັກ
+
+17
+00:02:29,827 --> 00:02:32,817
+Prehistoric chicks are kind of hot.
+ເດັກຍິງກ່ອນປະຫວັດສາດແມ່ນຮ້ອນຫຼາຍ.
+
+18
+00:02:33,164 --> 00:02:36,772
+- I'd tap that.
+- Yeah, I bet you would.
+- ຂ້ອຍຈະຕີມັນ.
+- ແມ່ນແລ້ວ, ຂ້ອຍແນ່ໃຈວ່າເຈົ້າຈະເຮັດ.
+
+19
+00:02:37,975 --> 00:02:42,239
+- Look at this guy. He's like, half animal...
+- He's the same as us.
+- ເບິ່ງຄົນນີ້. ລາວຄືກັບ, ເຄິ່ງສັດ...
+- ລາວຄືກັນກັບພວກເຮົາ.
+
+20
+00:02:42,364 --> 00:02:48,812
+Homo Sapiens, everyone? Genetically, biologically no different than you or I.
+ໂຮໂມຊາປຽນສ໌,ທຸກຄົນບໍ?ທາງພັນທຸກໍາ,
+ທາງຊີວະພາບບໍ່ແຕກຕ່າງຈາກເຈົ້າຫຼືຂ້ອຍ.
+
+21
+00:02:48,937 --> 00:02:53,755
+We even live in the same geological epoch as them: the Holocene.
+ພວກເຮົາຍັງອາໄສຢູ່ໃນສະໄໝພູມສາດ
+ດຽວກັນກັບພວກເຂົາ:ໂຮໂລເຊນ.
+
+22
+00:02:53,881 --> 00:02:57,342
+It started right after the last ice age.
+ມັນເລີ່ມຂຶ້ນທັນທີຫຼັງ
+ຈາກສະໄໝຫິມະສຸດທ້າຍ.
+
+23
+00:02:57,467 --> 00:03:04,015
+The fact is Cro-Magnon is an out-dated term that merely separates them as Europeans, as opposed to Africans.
+ຄວາມຈິງແມ່ນຄຣູແມນນອນແມ່ນຄໍາສັບທີ່ໝົດອາຍຸທີ່ພຽງແຕ່ແຍກ
+ພວກມັນອອກເປັນຊາວເອີຣົບໃນທາງກົງກັນຂ້າມກັບຊາວອາຟຣິກາ.
+
+24
+00:03:05,631 --> 00:03:07,645
+Any of this ringing a bell?
+ມີຫຍັງໃນສິ່ງນີ້ສຽງດັງບໍ?
+
+25
+00:03:10,194 --> 00:03:16,444
+They had the same hopes and fears as us. The same ties to family and group.
+ພວກເຂົາມີຄວາມຫວັງແລະຄວາມຢ້ານກົວດຽວກັນກັບ
+ພວກເຮົາ.ຄວາມເຊື່ອມໂຍງດຽວກັນກັບຄອບຄົວແລະກຸ່ມ.
+
+26
+00:03:16,570 --> 00:03:21,825
+Actually I think they had stronger ties to group than us. And to their fellow living creatures.
+ໃນຄວາມເປັນຈິງຂ້ອຍຄິດວ່າພວກເຂົາມີສາຍພົວພັນທີ່ແຂງແຮງ
+ກັບກຸ່ມກ່ວາພວກເຮົາ.ແລະກັບສັດທີ່ມີຊີວິດຮ່ວມຂອງພວກເຂົາ.
+
+27
+00:03:22,131 --> 00:03:25,590
+But let's think about it. If this man were alive today...
+ແຕ່ໃຫ້ຄິດກ່ຽວກັບມັນ.ຖ້າຜູ້ຊາຍ
+ຄົນນີ້ຍັງມີຊີວິດຢູ່ມື້ນີ້...
+
+28
+00:03:25,715 --> 00:03:27,956
+He would be very old.
+ລາວຈະເຖົ້າຫຼາຍ.
+
+29
+00:03:28,905 --> 00:03:32,168
+Especially considering most never made it past thirty-two.
+ໂດຍສະເພາະພິຈາລະນາວ່າສ່ວນໃຫຍ່
+ບໍ່ເຄີຍຜ່ານເວລາສາມສິບສອງ.
+
+30
+00:03:32,294 --> 00:03:37,380
+He might even appreciate antibiotics, and running shoes.
+ລາວອາດຈະຍ້ອງຍໍຢາຕ້ານ
+ເຊື້ອ,ແລະເກີບແລ່ນ.
+
+31
+00:03:37,506 --> 00:03:40,969
+But what would he think of what we've done with our world today?
+ແຕ່ລາວຈະຄິດແນວໃດກ່ຽວກັບສິ່ງທີ່ພວກເຮົາ
+ໄດ້ເຮັດກັບໂລກຂອງພວກເຮົາໃນມື້ນີ້?
+
+32
+00:03:41,094 --> 00:03:44,161
+This small knit group he would have died to maintain...
+ກຸ່ມນ້ອຍໆທີ່ເຊື່ອມໂຍງ
+ນີ້ລາວຈະຕາຍເພື່ອຮັກສາ...
+
+33
+00:03:44,286 --> 00:03:48,418
+is now a self-involved generation of social media addicts...
+ດຽວນີ້ເປັນຮຸ່ນທີ່ກ່ຽວຂ້ອງກັບ
+ຕົວເອງຂອງຄົນຕິດຢາສື່ສັງຄົມ...
+
+34
+00:03:48,544 --> 00:03:54,787
+so far removed from his perception of humanity, it has to seem...
+ຫ່າງໄກຈາກຄວາມຮັບຮູ້ຂອງລາວກ່ຽວກັບ
+ມະນຸດສະທໍາ,ມັນຕ້ອງເບິ່ງຄືວ່າ...
+
+35
+00:03:54,913 --> 00:03:57,809
+- alien.
+- She's talking about you, bro'.
+- ຄົນຕ່າງດາວ
+- ນາງເວົ້າກ່ຽວກັບເຈົ້າ, ອ້າຍ.
+
+36
+00:04:01,591 --> 00:04:05,309
+- Let's talk about tools.
+- You're a tool.
+- ມາເວົ້າກ່ຽວກັບເຄື່ອງມື.
+- ເຈົ້າເປັນເຄື່ອງມື.
+
+37
+00:04:05,434 --> 00:04:08,294
+The most basic tool would be a simple rock.
+ເຄື່ອງມືພື້ນຖານທີ່ສຸດຈະເປັນຫີນງ່າຍດາຍ.
+
+38
+00:04:08,419 --> 00:04:12,379
+With a hammer stone you can break another rock and create a sharp edge.
+ດ້ວຍຫີນກະດານເຈົ້າສາມາດທໍາລາຍຫີນ
+ອື່ນໄດ້ແລະສ້າງແຄມທີ່ກະທັດຮັດ.
+
+39
+00:04:12,504 --> 00:04:15,356
+Now this sharp flake of stone can be used to skin an animal...
+ດຽວນີ້ກະດານຫີນທີ່ກະທັດຮັດ
+ນີ້ສາມາດໃຊ້ໄດ້ເພື່ອຜິວສັດ...
+
+40
+00:04:15,481 --> 00:04:17,507
+You almost done?
+ເຈົ້າເກືອບສໍາເລັດແລ້ວບໍ?
+
+41
+00:04:18,316 --> 00:04:20,383
+Not really.
+ບໍ່ຈຮິງໆ
+
+42
+00:04:20,508 --> 00:04:24,762
+- Can't you just take pictures?
+- That's not the assignment.
+- ເຈົ້າບໍ່ສາມາດຖ່າຍຮູບໄດ້ບໍ?
+- ນັ້ນບໍ່ແມ່ນໜ້າທີ່.
+
+43
+00:04:24,888 --> 00:04:30,695
+Professor Shulman wants us to identify the individual markers that indicate a skull is, say...
+ສາດສະດາຈານຊູລແມນຢາກໃຫ້ພວກເຮົາລະບຸເຄື່ອງໝາຍສ່ວນ
+ບຸກຄົນທີ່ຊີ້ໃຫ້ເຫັນວ່າກະດູກຫົວແມ່ນ,ເວົ້າວ່າ...
+
+44
+00:04:30,821 --> 00:04:34,856
+Paranthropus Boisei versus Paranthropus Robustus.
+Paranthropus Boisei ຕໍ່ຕ້ານ
+Parantropus Robustus .
+
+45
+00:04:37,860 --> 00:04:42,836
+That's Professor Young. What the hell is he doing here?
+ນັ້ນແມ່ນສາດສະດາຈານຢົງ.
+ລາວເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+46
+00:04:42,961 --> 00:04:45,783
+Professor Kittriss is giving those kids a tour.
+ສາດສະດາຈານ Kittriss ກໍາລັງໃຫ້
+ເດັກນ້ອຍເຫຼົ່ານັ້ນທ່ຽວຊົມ.
+
+47
+00:04:45,999 --> 00:04:50,225
+Oh, and he tags along.
+That's so cute.
+ໂອ້, ແລະລາວຕິດຕາມ. ນັ້ນແມ່ນໜ້າຮັກຫຼາຍ.
+
+48
+00:04:54,125 --> 00:05:00,173
+For god's sake, Tara, they live together. And besides, he's like a thousand.
+ສໍາລັບພຣະເຈົ້າ,ຕາຣາ,ພວກເຂົາອາໄສຢູ່
+ຮ່ວມກັນ.ແລະນອກຈາກນັ້ນ,ລາວປະມານພັນຄົນ.
+
+49
+00:05:00,405 --> 00:05:06,054
+Forty, tops. Plus Kittriss is a little hottie, so I gotta step up my game.
+ສີ່ສິບ,ສູງສຸດ.ບວກກັບ Kittriss ແມ່ນສວຍງາມ
+ເລັກນ້ອຍ,ສະນັ້ນຂ້ອຍຕ້ອງເພີ່ມການຫຼິ້ນຂອງຂ້ອຍ.
+
+50
+00:05:07,242 --> 00:05:09,217
+You comin'?
+ເຈົ້າຈະມາບໍ?
+
+51
+00:05:09,343 --> 00:05:11,483
+Yeah, I guess.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າ.
+
+52
+00:05:16,202 --> 00:05:21,273
+Professor Young, hi. So cool seeing you here.
+ສາດສະດາຈານຢົງ,ສະບາຍດີ.ດີໃຈ
+ຫຼາຍທີ່ເຫັນເຈົ້າຢູ່ບ່ອນນີ້.
+
+53
+00:05:21,398 --> 00:05:26,366
+- Isabel and I were just doing some research.
+- I'm taking Shulman's Early Transitional Humans.
+- ຂ້ອຍແລະອີຊາເບວພຽງແຕ່ ກໍາ ລັງຄົ້ນຄວ້າບາງຢ່າງ.
+- ຂ້ອຍ ກໍາ ລັງເອົາມະນຸດໄລຍະຜ່ານຕົ້ນຂອງຊູລແມນ.
+
+54
+00:05:26,492 --> 00:05:29,234
+Sketching femurs and jawbones?
+ການແຕ້ມຮູບກະດູກກະຕ່າແລະກະທູ້ບໍ?
+
+55
+00:05:29,359 --> 00:05:31,742
+Okay, here we go.
+ດີແລ້ວ, ມາແລ້ວ.
+
+56
+00:05:31,867 --> 00:05:35,242
+Smaller braincase, slight crest on the top of the skull...
+ກະເປົາສະໝອງທີ່ນ້ອຍກວ່າ,ກະທູ້
+ເລັກນ້ອຍຢູ່ເທິງຫົວຫົວ...
+
+57
+00:05:35,367 --> 00:05:38,540
+wide upper jaw, but small teeth?
+ກະຕ່າເທິງກວ້າງ, ແຕ່ແຂ້ວນ້ອຍບໍ?
+
+58
+00:05:38,665 --> 00:05:42,264
+- Homo Habilis.
+- Well done.
+-
+- ໂຮໂມ ຮາບີລີສ.
+- ເຮັດໄດ້ດີ.
+
+59
+00:05:42,389 --> 00:05:48,132
+- You teach comparative religion.
+- There's more to human history than religion, Tara.
+-
+- ເຈົ້າສອນການປຽບທຽບສາສະໜາ.
+- ມີຫຼາຍຢ່າງໃນປະຫວັດສາດຂອງມະນຸດກ່ວາສາສະໜາ, ຕາຣາ.
+
+60
+00:05:48,257 --> 00:05:51,182
+We were just going to grab coffee. You want to join?
+ພວກເຮົາພຽງແຕ່ຈະໄປກິນກາເຟ
+.ເຈົ້າຢາກເຂົ້າຮ່ວມບໍ?
+
+61
+00:05:51,308 --> 00:05:55,231
+I'm gonna grab a bite with Professor Kittriss when she finishes. But thank you.
+ຂ້ອຍຈະກິນອາຫານກັບສາດສະດາຈານ Kittriss
+ເມື່ອນາງສິ້ນສຸດລົງ.ແຕ່ຂອບໃຈ.
+
+62
+00:05:55,356 --> 00:05:57,380
+You like these Cro-Magnons?
+ເຈົ້າມັກຄຣູແມແກນນ໌ເຫຼົ່ານີ້ບໍ?
+
+63
+00:05:57,506 --> 00:06:03,069
+Well, they're more of a mash-up of various early humans. But I like the cave paintings.
+ດີ,ພວກເຂົາເປັນການປະສົມປະສານຂອງມະນຸດ
+ເບື້ອງຕົ້ນຕ່າງໆ.ແຕ່ຂ້ອຍມັກຮູບແຕ້ມຮູ.
+
+64
+00:06:03,652 --> 00:06:07,490
+Me, too. Hey, let's get a shot in front of the display.
+ຂ້ອຍຄືກັນ.ເຮ້,ມາຖ່າຍຮູບ
+ຢູ່ຕໍ່ໜ້າການສະແດງ.
+
+65
+00:06:09,977 --> 00:06:16,070
+Carolyn told me you'd like to borrow some books. Come by any time. Take whatever you want. If I haven't read them yet, I probably won't.
+ຄາໂຣລິນບອກຂ້ອຍວ່າເຈົ້າຢາກກູ້ໜັງສືບາງຢ່າງ.ມາທຸກເວລາ.ເອົາທຸກຢ່າງ
+ທີ່ທ່ານຕ້ອງການ.ຖ້າຂ້ອຍຍັງບໍ່ອ່ານພວກມັນເທື່ອ,ຂ້ອຍອາດຈະບໍ່ເຮັດ.
+
+66
+00:06:16,195 --> 00:06:18,960
+Thank you, Professor Young.
+ຂອບໃຈ, ສາດສະດາຈານຢົງ.
+
+67
+00:06:19,085 --> 00:06:22,552
+You're welcome. I'll see you girls in class.
+ເຈົ້າຍິນດີຕ້ອນຮັບ.ຂ້ອຍ
+ຈະເຫັນເຈົ້າໃນຫ້ອງຮຽນ.
+
+68
+00:06:25,734 --> 00:06:27,968
+"I like the paintings."
+ຂ້ອຍມັກຮູບແຕ້ມ.
+
+69
+00:06:28,093 --> 00:06:31,805
+- Dude, he knows more about this stuff than the museum people.
+- They're called curators.
+- ເພື່ອນ, ລາວຮູ້ກ່ຽວກັບສິ່ງນີ້ຫຼາຍກ່ວາຄົນໃນຫໍພິພິທະພັນ.
+- ພວກເຂົາເອີ້ນວ່າຜູ້ຄຸ້ມຄອງ.
+
+70
+00:06:31,930 --> 00:06:35,395
+My point is, he's a very brilliant man.
+ຈຸດປະສົງຂອງຂ້ອຍແມ່ນ,ລາວ
+ເປັນຜູ້ຊາຍທີ່ສວຍງາມຫຼາຍ.
+
+71
+00:06:35,520 --> 00:06:37,569
+With a great ass.
+ດ້ວຍບາກທີ່ຍິ່ງໃຫຍ່.
+
+72
+00:06:38,855 --> 00:06:43,245
+CHICO, CALIFORNIA
+ຈິກໂກ້, ຄາລີຟໍເນຍ
+
+73
+00:07:15,132 --> 00:07:17,735
+Hey, hon.
+-
+ເຮ້, ແຟນ.
+
+74
+00:07:17,860 --> 00:07:21,061
+You should come running with me some time.
+ເຈົ້າຄວນມາແລ່ນກັບຂ້ອຍບາງຄັ້ງ.
+
+75
+00:07:21,187 --> 00:07:25,725
+- Running from what?
+- To stay in shape.
+- ໜີຈາກຫຍັງ?
+- ເພື່ອຮັກສາຮ່າງກາຍ.
+
+76
+00:07:29,410 --> 00:07:33,852
+I need a shower. You want to come wash my back?
+ຂ້ອຍຕ້ອງການອາບນ້ໍາ.ເຈົ້າ
+ຢາກມາລ້າງຫຼັງຂ້ອຍບໍ?
+
+77
+00:07:33,977 --> 00:07:37,015
+In truth, yes.
+However...
+ໃນຄວາມຈິງແລ້ວ,ແມ່ນແລ້ວ
+.ເຖິງຢ່າງໃດກໍ່ຕາມ...
+
+78
+00:07:37,921 --> 00:07:42,391
+How's this batch? Any geniuses I should be on the lookout for?
+ຊຸດນີ້ເປັນແນວໃດ?ມີຈີເນຍ
+ໃດທີ່ຂ້ອຍຄວນເບິ່ງແຍງບໍ?
+
+79
+00:07:42,516 --> 00:07:47,933
+You mean, anybody who can write a coherent sentence? Remember when kids went to college to expand their minds?
+ເຈົ້າໝາຍຄວາມວ່າ,ມີໃຜທີ່ສາມາດຂຽນປະໂຫຍກທີ່ສອດຄ່ອງໄດ້ບໍ?ເຈົ້າ
+ຈື່ບໍ່ວ່າເດັກນ້ອຍໄປວິທະຍາໄລເພື່ອຂະຫຍາຍຈິດໃຈຂອງພວກເຂົາບໍ?
+
+80
+00:07:48,058 --> 00:07:54,055
+Now, it seems to be just a perfunctory step on their way to Silicon Valley. And those are the good ones.
+ດຽວນີ້,ມັນເບິ່ງຄືວ່າເປັນພຽງແຕ່ບາດກ້າວພື້ນຜິວໃນທາງ
+ຂອງພວກເຂົາໄປຫາ Silicon Valley ແລະພວກນັ້ນແມ່ນຄົນດີ.
+
+81
+00:07:54,181 --> 00:07:59,060
+I don't know. You really think young people have changed that much in twenty years?
+ຂ້ອຍບໍ່ຮູ້.ເຈົ້າຄິດວ່າຄົນໜຸ່ມ
+ໄດ້ປ່ຽນແປງຫຼາຍໃນເວລາສິບປີບໍ?
+
+82
+00:08:01,633 --> 00:08:03,999
+I like this grey.
+ຂ້ອຍມັກສີຂາວນີ້.
+
+83
+00:08:04,920 --> 00:08:09,639
+But if it bugs you, then color it. I won't tell.
+ແຕ່ຖ້າມັນກັງວົນເຈົ້າ,ຫຼັງ
+ຈາກນັ້ນສີມັນ.ຂ້ອຍຈະບໍ່ບອກ.
+
+84
+00:08:09,765 --> 00:08:12,905
+You know Mohammed dyed his hair?
+ເຈົ້າຮູ້ວ່າໂມຮໍາເມັດໄດ້ສີຜົມຂອງລາວບໍ?
+
+85
+00:08:13,031 --> 00:08:16,514
+See? If it's good enough for the prophet, then...
+ເຈົ້າເຫັນບໍ?ຖ້າມັນດີພໍສົມຄວນ
+ສໍາລັບສາດສະດາ,ຫຼັງຈາກນັ້ນ...
+
+86
+00:08:16,640 --> 00:08:19,382
+Nobody notices except you.
+ບໍ່ມີໃຜສັງເກດເຫັນນອກຈາກເຈົ້າ.
+
+87
+00:08:31,264 --> 00:08:37,515
+And he hasn't aged a day in ten years. Every woman on the faculty would give anything to have that secret.
+ແລະລາວບໍ່ໄດ້ອາຍຸມື້ໜຶ່ງໃນສິບປີ.ແມ່ຍິງທຸກຄົນ
+ໃນຄະນະວິຊາການຈະໃຫ້ທຸກຢ່າງເພື່ອມີຄວາມລັບນັ້ນ.
+
+88
+00:08:37,640 --> 00:08:41,796
+- Is that what they're after, Edith?
+- Oh, stop, Harry.
+- ນັ້ນແມ່ນສິ່ງທີ່ພວກເຂົາ ກໍາ ລັງຊອກຫາບໍ, ເອດິດ?
+- ໂອ້, ຢຸດເຊົາ, ແຮຣີ.
+
+89
+00:08:50,676 --> 00:08:53,887
+Then switch to spin class if you're sick of Zumba.
+ຫຼັງຈາກນັ້ນປ່ຽນໄປຫ້ອງຮຽນສ
+ປິນຖ້າເຈົ້າເມື່ອຍກັບຊູມບາ.
+
+90
+00:08:54,012 --> 00:08:58,645
+It doesn't matter what you do, the doctor just said you need to...
+ມັນບໍ່ສໍາຄັນວ່າເຈົ້າເຮັດຫຍັງ,
+ທ່ານໝໍຫາກໍ່ບອກວ່າເຈົ້າຕ້ອງ...
+
+91
+00:08:58,770 --> 00:09:03,916
+I'm not nagging, mother. You were the one complaining about...
+ຂ້ອຍບໍ່ໄດ້ຮ້ອງໄຫ້,ແມ່.ເຈົ້າ
+ເປັນຄົນທີ່ຮ້ອງທຸກກ່ຽວກັບ...
+
+92
+00:09:04,041 --> 00:09:06,878
+I gotta go to class. I'm gonna be late.
+ຂ້ອຍຕ້ອງໄປຫ້ອງຮຽນ. ຂ້ອຍຈະຊ້າ.
+
+93
+00:09:08,387 --> 00:09:14,147
+I'll tell you what, mother: Why don't we all just take care of ourselves for once. Sound fair?
+ຂ້ອຍຈະບອກເຈົ້າວ່າແນວໃດ,ແມ່:ເປັນຫຍັງພວກເຮົາທຸກຄົນ
+ຈຶ່ງບໍ່ເບິ່ງແຍງຕົວເອງຄັ້ງດຽວ.ເບິ່ງຄືວ່າຍຸຕິທໍາບໍ?
+
+94
+00:09:15,544 --> 00:09:16,888
+Again?
+ອີກເທື່ອໜຶ່ງບໍ?
+
+95
+00:09:19,796 --> 00:09:24,153
+She spent so many years focused on my father's illness that now...
+ນາງໃຊ້ເວລາຫຼາຍປີສຸມໃສ່ພະຍາດ
+ຂອງພໍ່ຂອງຂ້ອຍທີ່ດຽວນີ້...
+
+96
+00:09:24,278 --> 00:09:31,069
+God, Isabel. You put everything on hold forever while he was... She's gotta back off.
+ພຣະເຈົ້າ,ອີຊາເບວ.ເຈົ້າເຮັດໃຫ້ທຸກຢ່າງລໍຖ້າ
+ຕະຫຼອດໄປໃນຂະນະທີ່ລາວແມ່ນ...ນາງຕ້ອງກັບຄືນໄປບ່ອນ.
+
+97
+00:09:31,194 --> 00:09:34,439
+It's your life, right? Isn't it, finally?
+ມັນເປັນຊີວິດຂອງເຈົ້າ,
+ແມ່ນບໍ?ແມ່ນບໍ,ສຸດທ້າຍ?
+
+98
+00:09:45,491 --> 00:09:49,478
+No, I'm sorry. I love you, too.
+ບໍ່, ຂ້ອຍຂໍໂທດ. ຂ້ອຍຮັກເຈົ້າເຊັ່ນກັນ.
+
+99
+00:09:49,603 --> 00:09:52,590
+I'll call later. Bye.
+ຂ້ອຍຈະໂທຕໍ່ມາ. ສະບາຍດີ.
+
+100
+00:09:52,885 --> 00:09:56,725
+You are a way better daughter than I will ever be.
+ເຈົ້າເປັນລູກສາວທີ່ດີກວ່າຂ້ອຍເລີຍ.
+
+101
+00:09:57,861 --> 00:10:00,840
+Hey guys. This is Matt Douglas from Primal Kickboxing.
+ສະບາຍດີພວກຜູ້ຊາຍ.ນີ້ແມ່ນແມັດ
+ດອກລັສຈາກປືນ Kickboxing ຕົ້ນຕໍ.
+
+102
+00:10:03,028 --> 00:10:04,310
+Let's go.
+ໄປແລ້ວ.
+
+103
+00:10:05,689 --> 00:10:09,315
+Let's go, you ready? I'll take it easy on you.
+ໄປແລ້ວ,ເຈົ້າພ້ອມແລ້ວ
+ບໍ?ຂ້ອຍຈະຜ່ອນຄາຍເຈົ້າ.
+
+104
+00:10:10,224 --> 00:10:14,319
+So I get into position. First thing I do is lead with a head kick.
+ສະນັ້ນຂ້ອຍເຂົ້າໄປໃນຕໍາແໜ່ງ.ສິ່ງທໍາອ
+ິດທີ່ຂ້ອຍເຮັດແມ່ນນໍາໜ້າດ້ວຍການຕີຫົວ.
+
+105
+00:10:15,212 --> 00:10:17,624
+Then I follow up with two punches.
+ຫຼັງຈາກນັ້ນຂ້ອຍຕິດຕາມດ້ວຍການຕີສອງຄັ້ງ.
+
+106
+00:10:21,134 --> 00:10:23,207
+C'mon, focus, man.
+ມາແລ້ວ, ສຸມໃສ່, ຜູ້ຊາຍ.
+
+107
+00:10:40,012 --> 00:10:43,248
+Seriously, man. Why do I even bother, really?
+ຢ່າງຈິງໃຈ,ຜູ້ຊາຍ.ຂ້ອຍກັງ
+ວົນເປັນຫຍັງ,ແທ້ຈິງແລ້ວ?
+
+108
+00:10:43,373 --> 00:10:48,354
+Oh, my fault, man. I'm literally on my way downstairs right now.
+ໂອ້,ຄວາມຜິດຂອງຂ້ອຍ,ຜູ້ຊາຍ.
+ຂ້ອຍກໍາລັງລົງທາງລຸ່ມໃນເວລານີ້.
+
+109
+00:10:49,512 --> 00:10:52,337
+Five. Four.
+ຫ້າ. ສີ່.
+
+110
+00:10:53,590 --> 00:10:55,205
+Three.
+ສາມຄນ
+
+111
+00:10:56,098 --> 00:10:57,642
+Two.
+ສອງຄນ
+
+112
+00:10:59,566 --> 00:11:03,066
+One. Boom. See how fast...?
+ໜຶ່ງ. ບູມ. ເບິ່ງວ່າໄວປານໃດ...?
+
+113
+00:11:03,191 --> 00:11:07,466
+Amazing. I can't even see you, you're so fast. You're like the Flash.
+ແປກໃຈ.ຂ້ອຍບໍ່ເຫັນເຈົ້າເລີຍ,
+ເຈົ້າໄວຫຼາຍ.ເຈົ້າຄືກັບແຟລຊ໌.
+
+114
+00:11:07,591 --> 00:11:09,754
+C'mon, I'm waiting on you.
+ມາແລ້ວ, ຂ້ອຍ ກໍາ ລັງລໍຖ້າເຈົ້າ.
+
+115
+00:11:36,309 --> 00:11:39,405
+- Have a great class, Professor.
+- You too, babe.
+- ມີຫ້ອງຮຽນທີ່ດີເລີດ, ສາດສະດາຈານ.
+- ເຈົ້າຄືກັນ, ເດັກນ້ອຍ.
+
+116
+00:11:44,618 --> 00:11:50,443
+We're all burning. Every one of us. Burning with desire.
+ພວກເຮົາທຸກຄົນກໍາລັງເຜົາໄໝ້.ທຸກຄົນ
+ຂອງພວກເຮົາ.ໄຟໄຜ້ດ້ວຍຄວາມປາຖະໜາ.
+
+117
+00:11:50,568 --> 00:11:56,598
+We're burning with a fire caused by what the Buddha called the three poisons.
+ພວກເຮົາກໍາລັງເຜົາໄໝ້ດ້ວຍໄຟທີ່ເກີດຈາກ
+ສິ່ງທີ່ພະພຸດທະເຈົ້າເອີ້ນວ່າພິດສາມຢ່າງ.
+
+118
+00:11:56,723 --> 00:11:59,500
+Greed. Anger. Ignorance.
+ຄວາມກຽດຊັງ. ຄວາມໂຊກຮ້າຍ. ຄວາມບໍ່ຮູ້.
+
+119
+00:11:59,625 --> 00:12:05,035
+Except he taught us that we can fix this. We can turn them around.
+ຍົກເວັ້ນວ່າລາວໄດ້ສອນພວກເຮົາວ່າພວກເຮົາສາມາດ
+ແກ້ໄຂເລື່ອງນີ້ໄດ້.ພວກເຮົາສາມາດຫັນພວກເຂົາໄດ້.
+
+120
+00:12:05,160 --> 00:12:08,605
+Greed can become Generosity.
+ຄວາມໂຊກຮ້າຍສາມາດກາຍເປັນຄວາມຍຸຕິທໍາໄດ້.
+
+121
+00:12:11,246 --> 00:12:13,988
+Anger becomes Compassion.
+ຄວາມໂຊກຮ້າຍກາຍເປັນຄວາມເຫັນໃຈ.
+
+122
+00:12:16,191 --> 00:12:19,355
+And Ignorance becomes Wisdom.
+ແລະຄວາມບໍ່ຮູ້ກາຍເປັນຄວາມສະຫຼາດ.
+
+123
+00:12:23,262 --> 00:12:27,263
+There are miracles are around us all the time, he said.
+ລາວເວົ້າວ່າມີສິ່ງມະຫັດສະຈັນ
+ຢູ່ອ້ອມຂ້າງພວກເຮົາຕະຫຼອດເວລາ.
+
+124
+00:12:27,388 --> 00:12:31,793
+The fact that we're here, together, in this room, is a miracle.
+ຄວາມຈິງທີ່ວ່າພວກເຮົາຢູ່ບ່ອນນີ້,
+ຮ່ວມກັນ,ໃນຫ້ອງນີ້,ແມ່ນສິ່ງມະຫັດສະຈັນ.
+
+125
+00:12:33,448 --> 00:12:36,122
+Isn't the Buddha kind of a hypocrite?
+ພຣະພຸດທະເຈົ້າບໍ່ແມ່ນຄົນໂຊກຮ້າຍບໍ?
+
+126
+00:12:36,247 --> 00:12:42,726
+Sure, he gave up all worldly goods, his father's money, and told us all to live a ife of restraint...
+ແນ່ນອນ,ລາວໄດ້ປະຖິ້ມຊັບສິນໂລກທັງໝົດ,ເງິນຂອງພໍ່ຂອງລາວ
+,ແລະບອກພວກເຮົາທຸກຄົນໃຫ້ດໍາລົງຊີວິດດ້ວຍຄວາມຄວບຄຸມ...
+
+127
+00:12:42,851 --> 00:12:47,890
+and then he ended up super fat. Like crazy fat, like, c'mon dude.
+ແລະຫຼັງຈາກນັ້ນລາວໄດ້ສິ້ນສຸດລົງເປັນໄຂມັນ super
+.ເຊັ່ນໄຂມັນໂຊກຮ້າຍ,ເຊັ່ນວ່າ,ມາແລ້ວເພື່ອນ.
+
+128
+00:12:48,301 --> 00:12:51,645
+You're talking about those statues you see in Chinatown, right?
+ເຈົ້າກໍາລັງເວົ້າກ່ຽວກັບຮູບປັ້ນເຫຼົ່
+ານັ້ນທີ່ທ່ານເຫັນໃນເມືອງຈີນ,ແມ່ນບໍ?
+
+129
+00:12:51,770 --> 00:12:55,355
+The Buddha depicted in those statues, he's Asian, right?
+ພຣະພຸດທະເຈົ້າທີ່ສະແດງໃນຮູບປັ້ນ
+ເຫຼົ່ານັ້ນ,ລາວເປັນຄົນອາຊີ,ແມ່ນບໍ?
+
+130
+00:12:55,481 --> 00:12:58,692
+- So...
+- It's not the Buddha.
+- ສະນັ້ນ...
+- ມັນບໍ່ແມ່ນພະພຸດທະເຈົ້າ.
+
+131
+00:12:58,988 --> 00:13:01,612
+- What do you mean?
+- Well, think about it.
+- ເຈົ້າໝາຍຄວາມວ່າແນວໃດ?
+- ດີ, ຄິດກ່ຽວກັບມັນ.
+
+132
+00:13:01,738 --> 00:13:05,427
+Siddhartha Gautama was Indian. From Nepal.
+Siddhartha Gautama ແມ່ນ
+ຊາວອິນເດຍ.ຈາກເນປານ.
+
+133
+00:13:05,552 --> 00:13:11,701
+A Chinese monk came to India, became a Buddhist, went home and started spreading the religion.
+ພຣະສົງຈີນຄົນໜຶ່ງມາອິນເດຍ,ກາຍເປັນຊາວ
+ບຸດດິສ,ກັບບ້ານແລະເລີ່ມເຜີຍແຜ່ສາສະໜາ.
+
+134
+00:13:11,826 --> 00:13:17,247
+The Chinese mixed in Taoism. Their monks introduced the head shaving, the robes...
+ຊາວຈີນປະສົມປະສານກັບຕາໂອິສມ.ພະສົງຂອງ
+ພວກເຂົາໄດ້ນໍາສະເໜີການຕັດຫົວ,ເສື້ອຜ້າ...
+
+135
+00:13:17,372 --> 00:13:22,262
+the fat, happy Buddha named Hotei.
+ພຣະພຸດທະເຈົ້າທີ່ໄຂມັນ
+ແລະມີຄວາມສຸກຊື່ວ່າໂຮເຕຍ.
+
+136
+00:13:22,388 --> 00:13:25,802
+The actual Buddha was a regular man, with a normal body and a full head of hair.
+ພຣະພຸດທະເຈົ້າທີ່ແທ້ຈິງແມ່ນຜູ້ຊາຍປົກກະຕິ
+,ມີຮ່າງກາຍປົກກະຕິແລະຫົວເຕັມໄປດ້ວຍຜົມ.
+
+137
+00:13:25,928 --> 00:13:28,557
+- But he was a god.
+-
+- ແຕ່ລາວເປັນພະເຈົ້າ.
+
+138
+00:13:28,682 --> 00:13:30,636
+never claimed to be.
+ບໍ່ເຄີຍອ້າງວ່າເປັນ.
+
+139
+00:13:30,762 --> 00:13:35,375
+Just a man, who thought long and hard about the human condition and achieved enlightenment.
+ພຽງແຕ່ເປັນຜູ້ຊາຍ,ຜູ້ທີ່ຄິດຢ່າງຍາວນານແລະໜັກ
+ກ່ຽວກັບສະພາບຂອງມະນຸດແລະບັນລຸຄວາມສະຫວ່າງ.
+
+140
+00:13:35,500 --> 00:13:40,970
+Like Jesus. Only without the long blond hair and blue eyes.
+ຄືກັບພຣະເຢຊູ.ພຽງແຕ່ບໍ່ມີ
+ຜົມສີບົວຍາວແລະຕາສີຟ້າ.
+
+141
+00:13:41,095 --> 00:13:44,382
+- But Jesus wasn't just a man.
+-
+-ແຕ່ພຣະເຢຊູບໍ່ແມ່ນ
+ພຽງແຕ່ຜູ້ຊາຍເທົ່ານັ້ນ.
+
+142
+00:13:44,507 --> 00:13:51,287
+He claimed to be the son of God. He died, and was resurrected. So we know he was divine.
+ລາວອ້າງວ່າເປັນລູກຊາຍຂອງພຣະເຈົ້າ.ລາວຕາຍ,ແລະຖືກ
+ຟື້ນຟູຂຶ້ນ.ສະນັ້ນພວກເຮົາຮູ້ວ່າລາວເປັນພຣະເຈົ້າ.
+
+143
+00:13:51,413 --> 00:13:56,304
+You know, or you have faith? You can only know what you can prove.
+ເຈົ້າຮູ້ແລ້ວ,ຫຼືເຈົ້າມີຄວາມເຊື່ອບໍ?ເຈົ້າ
+ສາມາດຮູ້ພຽງແຕ່ສິ່ງທີ່ເຈົ້າສາມາດພິສູດໄດ້.
+
+144
+00:13:56,429 --> 00:13:59,460
+God is beyond proof, logic or reason.
+ພຣະເຈົ້າເກີນຄວາມພິສູດ,
+ຄວາມສົມເຫດສົມຜົນຫຼືເຫດຜົນ.
+
+145
+00:13:59,585 --> 00:14:06,385
+You can believe in God or Jesus through faith... but that's different from knowing.
+ເຈົ້າສາມາດເຊື່ອໃນພຣະເຈົ້າຫຼືພຣະເຢຊູ
+ຜ່ານຄວາມເຊື່ອ...ແຕ່ມັນແຕກຕ່າງຈາກການຮູ້.
+
+146
+00:14:07,652 --> 00:14:13,768
+I know that Jesus existed; there's historical evidence of that. And I have faith that he was divine.
+ຂ້ອຍຮູ້ວ່າພຣະເຢຊູມີຢູ່;ມີຫຼັກຖານປະຫວັດສາດ
+ກ່ຽວກັບເລື່ອງນັ້ນ.ແລະຂ້ອຍເຊື່ອວ່າລາວເປັນພະເຈົ້າ.
+
+147
+00:14:13,893 --> 00:14:18,897
+Aquinas said faith is a divine act supernaturally bestowed. "Ask and ye shall receive."
+ອາຄິນາສ໌ເວົ້າວ່າຄວາມເຊື່ອແມ່ນການກະທໍາຂອງພະເຈົ້າທີ່ຖືກ
+ມອບໃຫ້ດ້ວຍຄວາມພົ້ນຈາກທໍາມະຊາດ."ຂໍແລະເຈົ້າຈະໄດ້ຮັບ."
+
+148
+00:14:19,022 --> 00:14:23,026
+Kierkegaard on the other hand said we must leap to faith.
+Kierkegaard ໃນອີກດ້ານໜຶ່ງເວົ້າວ່າ
+ພວກເຮົາຕ້ອງໂດດໄປສູ່ຄວາມເຊື່ອ.
+
+149
+00:14:23,152 --> 00:14:27,031
+It's an act you must choose to perform.
+ມັນເປັນການສະແດງທີ່ທ່ານ
+ຕ້ອງເລືອກທີ່ຈະປະຕິບັດ.
+
+150
+00:14:27,157 --> 00:14:33,661
+Kierkegaard was more demanding, okay? He was sick of people sitting around talking about religion all day without doing anything about it.
+ເຄີເກກອດມີຄວາມຕ້ອງການຫຼາຍຂຶ້ນ,ດີບໍ?ລາວເມື່ອຍກັບຄົນນັ່ງຢູ່ອ້ອມ
+ຂ້າງເວົ້າກ່ຽວກັບສາສະໜາຕະຫຼອດມື້ໂດຍບໍ່ມີການເຮັດຫຍັງກ່ຽວກັບມັນ.
+
+151
+00:14:33,787 --> 00:14:38,886
+I hope he didn't mean this class, though. But, weren't we supposed to be talking about Buddha?
+ຂ້ອຍຫວັງວ່າລາວບໍ່ໄດ້ໝາຍຄວາມວ່າຫ້ອງຮຽນນີ້,
+ເຖິງຢ່າງໃດກໍ່ຕາມ.ແຕ່,ພວກເຮົາບໍ່ຄວນເວົ້າກ່ຽວກັບບຸດດາບໍ?
+
+152
+00:14:39,011 --> 00:14:43,005
+- They had a lot in common, Jesus and Buddha.
+- How so?
+- ພວກເຂົາມີຄວາມຄ້າຍຄືກັນຫຼາຍຢ່າງ, ພຣະເຢຊູແລະພະພຸດທະເຈົ້າ.
+- ເປັນແນວໃດ?
+
+153
+00:14:43,449 --> 00:14:47,384
+Well... there's a lot of overlap in their philosophies.
+ດີ...ມີຄວາມສອດຄ່ອງຫຼາຍ
+ໃນປັດຊະຍາຂອງພວກເຂົາ.
+
+154
+00:14:47,510 --> 00:14:52,389
+They both taught the golden rule, that we should be charitable and not judge others.
+ພວກເຂົາທັງສອງໄດ້ສອນກົດລະບຽບຄໍາ,ວ່າພວກເຮົາ
+ຄວນເປັນຄົນໃຈບຸນແລະບໍ່ຕັດສິນໃຈຄົນອື່ນ.
+
+155
+00:14:52,514 --> 00:14:56,477
+But the Buddha said you shouldn't believe in something just because it's written in scripture.
+ແຕ່ພຸດດາເວົ້າວ່າເຈົ້າບໍ່ຄວນເຊື່ອໃນບາງສິ່ງ
+ບາງຢ່າງພຽງແຕ່ຍ້ອນວ່າມັນຖືກຂຽນໄວ້ໃນພຣະຄໍາພີ.
+
+156
+00:14:56,602 --> 00:15:00,647
+The whole premise with Jesus is to accept on faith. That's a pretty huge difference.
+ຈຸດປະສົງທັງໝົດກັບພຣະເຢຊູແມ່ນການຍອມຮັບຕາມ
+ຄວາມເຊື່ອ.ນັ້ນແມ່ນຄວາມແຕກຕ່າງທີ່ໃຫຍ່ຫຼວງຫຼາຍ.
+
+157
+00:15:00,773 --> 00:15:06,320
+- Also the purpose of suffering. Jesus suffered for us.
+- While the Buddha's whole thing was to eliminate suffering.
+- ເຊັ່ນດຽວກັນກັບຈຸດປະສົງຂອງການທຸກທໍລະມານ. ພຣະເຢຊູໄດ້ທຸກຍາກ ສໍາ ລັບພວກເຮົາ.
+- ໃນຂະນະທີ່ສິ່ງທັງ ໝົດ ຂອງພະພຸດທະເຈົ້າແມ່ນເພື່ອ ກໍາ ຈັດຄວາມທຸກທໍລະມານ.
+
+158
+00:15:06,446 --> 00:15:11,283
+- Eliminate desire.
+- Which is what causes suffering, I know. I listen. I was listening.
+- ກໍາຈັດຄວາມປາຖະໜາ.
+- ນັ້ນແມ່ນສິ່ງທີ່ເຮັດໃຫ້ຄວາມທຸກທໍລະມານ, ຂ້ອຍຮູ້. ຂ້ອຍຟັງ. ຂ້ອຍໄດ້ຟັງ.
+
+159
+00:15:13,010 --> 00:15:17,002
+Okay. Next time we cover the path to Nirvana...
+ດີແລ້ວ.ໃນຄັ້ງຕໍ່ໄປທີ່ພວກເຮົາ
+ປົກຄຸມເສັ້ນທາງໄປຫານິຣວານາ...
+
+160
+00:15:17,127 --> 00:15:22,380
+and we will wrap the semester up with Jainism. It's like Buddhism, but less fun.
+ແລະພວກເຮົາຈະສິ້ນສຸດຊ່ວງຮຽນດ້ວຍສາສະໜາຈາ
+ຍິນ.ມັນຄ້າຍຄືກັບພຸດດິສມ໌,ແຕ່ບໍ່ມ່ວນຫຼາຍ.
+
+161
+00:15:22,505 --> 00:15:26,987
+Jain women have to be reborn as men to reach enlightenment.
+ແມ່ຍິງຈາິນຕ້ອງເກີດໃໝ່ເປັນຜູ້
+ຊາຍເພື່ອບັນລຸຄວາມສະຫວ່າງ.
+
+162
+00:15:27,112 --> 00:15:30,582
+We all know it should be the other way 'round. Thank you.
+ພວກເຮົາທຸກຄົນຮູ້ວ່າມັນ
+ຄວນເປັນທາງອື່ນ.ຂອບໃຈ.
+
+163
+00:15:34,361 --> 00:15:39,315
+- Great lecture.
+- You never use any notes or anything. You just, like, know all this stuff.
+- ການສອນທີ່ດີເລີດ.
+- ເຈົ້າບໍ່ເຄີຍໃຊ້ບັນທຶກໃດໆຫຼືຫຍັງເລີຍ. ເຈົ້າພຽງແຕ່, ເຊັ່ນວ່າ, ຮູ້ສິ່ງທັງ ໝົດ ນີ້.
+
+164
+00:15:39,440 --> 00:15:41,187
+I've been at it a very, very long time.
+ຂ້ອຍເຮັດມັນເປັນເວລາດົນນານຫຼາຍ.
+
+165
+00:15:41,313 --> 00:15:46,979
+So, in honor of wrapping up the unit, we're having a Buddhist vegetarian dinner. Think you could come?
+ສະນັ້ນ,ເພື່ອເປັນກຽດຕິຍົດຂອງການປິດໜ່ວຍງານ,ພວກເຮົາກໍາລັງ
+ຈັດງານລ້ຽງອາຫານຄໍ່າຜັກພຸດດິສ.ເຈົ້າຄິດວ່າເຈົ້າສາມາດມາໄດ້ບໍ?
+
+166
+00:15:47,104 --> 00:15:49,696
+- Thank you, but... I don't think so.
+- Busy?
+- ຂອບໃຈ, ແຕ່... ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ.
+- ມີວຽກເຮັດງານທໍາບໍ?
+
+167
+00:15:49,822 --> 00:15:52,074
+I appreciate the invitation.
+ຂ້ອຍຍ້ອງຍໍການເຊີນ.
+
+168
+00:15:53,126 --> 00:15:55,900
+For what it's worth, the Buddha ate meat.
+ຖ້າມັນມີມູນຄ່າຫຍັງ,
+ພະພຸດທະເຈົ້າກິນຊີ້ນ.
+
+169
+00:15:56,025 --> 00:15:59,744
+He never said you had to be a vegetarian. He just didn't like to see animals killed.
+ລາວບໍ່ເຄີຍເວົ້າວ່າເຈົ້າຕ້ອງເປັນຜັກ
+ຜັກ.ລາວພຽງແຕ່ບໍ່ມັກເຫັນສັດຖືກຂ້າຕາຍ.
+
+170
+00:15:59,869 --> 00:16:04,919
+- Who does? But you know, bacon.
+- Bacon donuts. Best invention ever.
+- ໃຜເຮັດ? ແຕ່ເຈົ້າຮູ້ແລ້ວ, ບັກຄອນ.
+- ດອນຕ໌ແບກອນ. ການຄົ້ນຄວ້າທີ່ດີທີ່ສຸດທີ່ເຄີຍມີມາ.
+
+171
+00:16:09,505 --> 00:16:13,839
+- I've not seen it.
+- Oh, you haven't seen it? Everybody's seen it!
+- ຂ້ອຍບໍ່ໄດ້ເຫັນມັນ.
+- ໂອ້, ເຈົ້າບໍ່ໄດ້ເຫັນມັນບໍ? ທຸກຄົນເຫັນມັນແລ້ວ!
+
+172
+00:16:14,915 --> 00:16:17,761
+- So? Is he coming?
+- Isabel can work on him. Right?
+- ສະນັ້ນ? ລາວຈະມາບໍ?
+- ອີຊາເບວສາມາດເຮັດວຽກກັບລາວໄດ້. ແມ່ນບໍ?
+
+173
+00:16:17,886 --> 00:16:23,146
+- I can try.
+- I can't believe the class is almost over.
+- ຂ້ອຍສາມາດພະຍາຍາມໄດ້.
+- ຂ້ອຍບໍ່ເຊື່ອວ່າຫ້ອງຮຽນເກືອບສິ້ນສຸດລົງແລ້ວ.
+
+174
+00:16:25,362 --> 00:16:31,088
+And next semester he's teaching lame Abrahamic and Zoroastrianism religions again.
+ແລະໃນສົກຮຽນຕໍ່ໄປລາວຈະສອນສາສະໜາອາບຣາຮາມ
+ິກແລະໂຊໂຣອາສຕຣີຍາມທີ່ໂຊກຮ້າຍອີກຄັ້ງ.
+
+175
+00:16:31,213 --> 00:16:35,159
+- There's nothing lame about Abrahamic religions.
+- You know what I mean. Just that...
+- ບໍ່ມີຫຍັງໂຊກຮ້າຍກ່ຽວກັບສາສະໜາອາບຣາຮາມິກ.
+- ເຈົ້າຮູ້ວ່າຂ້ອຍໝາຍຄວາມວ່າແນວໃດ. ພຽງແຕ່ວ່າ...
+
+176
+00:16:35,285 --> 00:16:39,747
+- He should do Hellenistic.
+- Yeah, Zeus and Herakles and what-not. That'd be cool.
+- ລາວຄວນຮຽນພາສາເຮລີນິກ.
+- ແມ່ນແລ້ວ, Zeus ແລະ Herakles ແລະສິ່ງທີ່ບໍ່ແມ່ນ. ນັ້ນຈະເປັນເຢັນ.
+
+177
+00:16:39,873 --> 00:16:46,354
+- Yeah, the only problem is he only does real religions, Liko.
+- You don't think the Greeks and Romans were on to anything?
+- ແມ່ນແລ້ວ, ບັນຫາດຽວແມ່ນລາວເຮັດພຽງແຕ່ສາສະໜາທີ່ແທ້ຈິງເທົ່ານັ້ນ, ລິກໂກ້.
+- ເຈົ້າບໍ່ຄິດວ່າຊາວເກຣັກແລະໂຣມໄດ້ພົບຫຍັງບໍ?
+
+178
+00:16:46,480 --> 00:16:51,536
+Christians got half their stuff from the Pagans. Or do you need to take World of the Early Church again?
+ຊາວຄຣິສຕຽນໄດ້ຮັບເຄິ່ງໜຶ່ງຂອງສິ່ງຂອງຂອງພວກເຂົາຈາກຊາວ
+ປາການຫຼືເຈົ້າຕ້ອງເອົາໂລກຂອງສາດສະໜາຈັກຕົ້ນສະໄໝອີກຄັ້ງບໍ?
+
+179
+00:16:51,662 --> 00:16:56,621
+Guys... We need to focus on what's important. Getting Professor Young to come to dinner.
+ພວກຜູ້ຊາຍ...ພວກເຮົາຕ້ອງສຸມໃສ່ສິ່ງທີ່ສໍາ
+ຄັນ.ເຮັດໃຫ້ສາດສະດາຈານຢອງມາກິນອາຫານຄໍ່າ.
+
+180
+00:16:56,746 --> 00:17:01,346
+- There's so much in that guy's head I want to get at.
+- Me, too.
+- ມີຫຼາຍຢ່າງໃນຫົວຂອງຄົນນັ້ນທີ່ຂ້ອຍຢາກເຂົ້າເຖິງ.
+- ຂ້ອຍຄືກັນ.
+
+181
+00:17:01,471 --> 00:17:05,511
+- How do we get him to come?
+- I think Tara probably has a few ideas.
+- ພວກເຮົາຈະເຮັດໃຫ້ລາວມາແນວໃດ?
+- ຂ້ອຍຄິດວ່າຕາຣາອາດຈະມີແນວຄິດບາງຢ່າງ.
+
+182
+00:17:05,636 --> 00:17:08,534
+- Don't be gross, Liko.
+- Leave her alone, man.
+- ຢ່າໂຊກຮ້າຍ, ລິກໂກ້.
+- ປ່ອຍນາງຢູ່ສະຫງົບ, ຜູ້ຊາຍ.
+
+183
+00:17:08,659 --> 00:17:11,614
+- So you going to that Delta Psi party later?
+- Those guys are animals.
+- ເຈົ້າຈະໄປງານລ້ຽງເດລຕາ ປຊີຊີ້ຕໍ່ມາບໍ?
+- ພວກຄົນນັ້ນແມ່ນສັດ.
+
+184
+00:17:11,740 --> 00:17:16,309
+- Yeah. Party animals.
+- Liko, what're you, five?
+- ແມ່ນແລ້ວ ສັດງານລ້ຽງ.
+- ລິກໂກ, ເຈົ້າເປັນຫຍັງ, ຫ້າບໍ?
+
+185
+00:17:16,435 --> 00:17:22,499
+No, I do not need to get drunk on a Wednesday night, thank you. With a bunch of boys.
+ບໍ່,ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງດື່ມໃນ
+ຄືນວັນພຸດ,ຂອບໃຈ.ກັບກຸ່ມເດັກຊາຍ.
+
+186
+00:17:22,625 --> 00:17:26,050
+Your loss. I'm going. Saint Philip?
+ການສູນເສຍຂອງທ່ານ.
+ຂ້ອຍຈະໄປ.ສັກສິດຟີລິບ?
+
+187
+00:17:26,175 --> 00:17:31,809
+Saint Philip has Bible study Wednesdays. You have no short-term memory, do you?
+ສັກສິດຟີລິບມີການສຶກສາພຣະຄໍາພີໃນວັນພຸດ
+.ເຈົ້າບໍ່ມີຄວາມຊົງຈໍາໄລຍະສັ້ນ,ແມ່ນບໍ?
+
+188
+00:17:31,935 --> 00:17:35,552
+I don't know. What was the question?
+ຂ້ອຍບໍ່ຮູ້. ຄໍາ ຖາມແມ່ນຫຍັງ?
+
+189
+00:17:37,627 --> 00:17:41,253
+- John, I'm glad I caught you.
+- Dr. Parker. Did we have an appointment?
+- ຈອນ, ຂ້ອຍດີໃຈທີ່ໄດ້ຈັບເຈົ້າ.
+- ດຣ ປາກເກີ. ພວກເຮົາມີເວລາພົບກັນບໍ?
+
+190
+00:17:41,378 --> 00:17:45,355
+I gotta share this with somebody, and you're the only one I know that can appreciate it.
+ຂ້ອຍຕ້ອງແບ່ງປັນເລື່ອງນີ້ກັບຄົນອື່ນ,ແລະເຈົ້າ
+ເປັນຄົນດຽວທີ່ຂ້ອຍຮູ້ຈັກທີ່ສາມາດຍ້ອງຍໍມັນໄດ້.
+
+191
+00:17:45,480 --> 00:17:52,277
+I got this at a garage sale last weekend. It's a seventy-five year old bottle of single-malt scotch.
+ຂ້ອຍໄດ້ສິ່ງນີ້ໃນການຂາຍ garage ໃນທ້າຍອາທິດທີ່ຜ່ານມາ
+.ມັນແມ່ນຈອກວິກສ໌ໂຊກໂກ້ດຽວທີ່ມີອາຍຸສິບຫ້າປີ.
+
+192
+00:17:52,402 --> 00:17:55,531
+Yeah. Paid entirely too much for it, but the story...
+ແມ່ນແລ້ວ.ໄດ້ຈ່າຍເງິນຫຼາຍເກີນໄປ
+ສໍາລັບມັນ,ແຕ່ເລື່ອງນີ້...
+
+193
+00:17:55,656 --> 00:18:01,203
+This woman's husband brings it back from Scotland in the sixties, and they've been saving it for a special occasion.
+ຜົວຂອງຜູ້ຍິງຄົນນີ້ເອົາມັນມາຈາກສະກອດແລນໃນຊຸມປີຫົກ
+ສິບ,ແລະພວກເຂົາໄດ້ເກັບຮັກສາມັນໄວ້ສໍາລັບໂອກາດພິເສດ.
+
+194
+00:18:01,328 --> 00:18:04,947
+- And saving it, and saving it...
+- And the special occasion never came.
+- ແລະການຊ່ວຍມັນ, ແລະຊ່ວຍມັນ...
+- ແລະໂອກາດພິເສດບໍ່ເຄີຍມາເລີຍ.
+
+195
+00:18:05,072 --> 00:18:10,666
+And he died couple of months ago, and now she's selling his stuff and moving to Costa Rica.
+ແລະລາວຕາຍເມື່ອສອງສາມເດືອນກ່ອນ,ແລະດຽວນີ້ນາງ
+ກໍາລັງຂາຍສິ່ງຂອງຂອງລາວແລະຍ້າຍໄປໂກສຕາຣິກາ.
+
+196
+00:18:10,791 --> 00:18:15,342
+But here's the kicker: we get home and we get a message from Kitty and Ron.
+ແຕ່ສິ່ງສໍາຄັນແມ່ນ:ພວກເຮົາກັບບ້ານ
+ແລະໄດ້ຮັບຂໍ້ຄວາມຈາກຄິດຕີ້ແລະໂຣນ.
+
+197
+00:18:15,468 --> 00:18:18,511
+The baby came. I'm a grandfather.
+ເດັກນ້ອຍມາແລ້ວ. ຂ້ອຍເປັນພໍ່ເຖົ້າ.
+
+198
+00:18:18,637 --> 00:18:21,983
+Congratulations Gil. Fantastic.
+ຂໍສະແດງຄວາມຍິນດີຈິລ. ດີເລີດ.
+
+199
+00:18:23,246 --> 00:18:26,562
+- Special occasion?
+- Yes. Indeed.
+- ໂອກາດພິເສດບໍ?
+- ແມ່ນແລ້ວ. ແທ້ຈິງແລ້ວ.
+
+200
+00:18:34,120 --> 00:18:36,966
+- To my grandson.
+- Hear, hear.
+- ຕໍ່ລູກຫລານຂອງຂ້ອຍ.
+- ຟັງ, ຟັງ.
+
+201
+00:18:51,256 --> 00:18:54,717
+- That is...
+- Terrible.
+- ນັ້ນແມ່ນ...
+- ມັນຮ້າຍແຮງ.
+
+202
+00:18:54,842 --> 00:18:58,951
+I don't know if I've ever tasted anything quite like that.
+ຂ້ອຍບໍ່ຮູ້ວ່າຂ້ອຍເຄີຍ
+ລົດຊາດຫຍັງແບບນັ້ນບໍ.
+
+203
+00:18:59,076 --> 00:19:05,858
+Just goes to show that nothing lasts forever. Even whiskey spoils.
+ພຽງແຕ່ສະແດງໃຫ້ເຫັນວ່າບໍ່ມີຫຍັງຍືນຍົງ
+ຕະຫຼອດໄປ.ເຖິງແມ່ນວ່າວີສກີຈະສໍ້ໂກງ.
+
+204
+00:19:06,905 --> 00:19:08,639
+Who knew?
+ໃຜຮູ້?
+
+205
+00:19:14,239 --> 00:19:16,473
+A grandson, John.
+ລູກຫຼານ, ຈອນ.
+
+206
+00:19:16,599 --> 00:19:21,668
+On one hand, it's incredibly invigorating. On the other, it means...
+ໃນດ້ານໜຶ່ງ,ມັນເຮັດໃຫ້ແຂງແຮງຫຼາຍ
+.ໃນດ້ານອື່ນ,ມັນໝາຍຄວາມວ່າ...
+
+207
+00:19:21,793 --> 00:19:25,169
+I'm so old.
+ຂ້ອຍອາຍຸຫຼາຍແລ້ວ.
+
+208
+00:19:25,294 --> 00:19:30,036
+Each day, as he grows, learns to walk, learns to talk...
+ທຸກໆມື້,ໃນຂະນະທີ່ລາວເຕີບໃຫຍ່ຂຶ້ນ
+,ຮຽນຮູ້ການຍ່າງ,ສຶກສາການເວົ້າ...
+
+209
+00:19:30,161 --> 00:19:33,967
+It means I'm getting one day closer to death.
+ມັນໝາຍຄວາມວ່າຂ້ອຍກໍາລັງ
+ໃກ້ຊິດກັບຄວາມຕາຍມື້ໜຶ່ງ.
+
+210
+00:19:35,544 --> 00:19:37,303
+Another drink?
+ດື່ມອີກບໍ?
+
+211
+00:19:38,528 --> 00:19:40,473
+What the hell?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+212
+00:19:56,529 --> 00:19:58,413
+That's awful.
+ມັນຮ້າຍແຮງຫຼາຍ.
+
+213
+00:20:02,770 --> 00:20:08,528
+I'm not getting maudlin. It's just life.
+ຂ້ອຍບໍ່ໄດ້ໂຊກຮ້າຍ.ມັນ
+ເປັນພຽງແຕ່ຊີວິດເທົ່ານັ້ນ.
+
+214
+00:20:08,653 --> 00:20:10,827
+Well, this brings it home.
+ດີ, ນີ້ແມ່ນເອົາມັນກັບບ້ານ.
+
+215
+00:20:13,903 --> 00:20:16,608
+Do you ever regret not having kids, John?
+ເຈົ້າເຄີຍເສຍໃຈບໍວ່າບໍ່ມີລູກ, ຈອນ?
+
+216
+00:20:19,427 --> 00:20:23,326
+Look... I'm sorry. I don't mean to pry.
+ເບິ່ງ... ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ຢາກສົນໃຈ.
+
+217
+00:20:23,452 --> 00:20:27,640
+Don't be sorry. It's difficult to discuss.
+ຢ່າຂໍໂທດ. ມັນຍາກທີ່ຈະປຶກສາຫາລື.
+
+218
+00:20:27,766 --> 00:20:29,538
+What isn't?
+ຫຍັງບໍ່ແມ່ນ?
+
+219
+00:20:32,953 --> 00:20:36,775
+Say, you wanna go have a real drink?
+ເວົ້າ, ເຈົ້າຢາກໄປດື່ມແທ້ບໍ?
+
+220
+00:20:37,056 --> 00:20:40,847
+I can't. I have to go home and cook Carolyn dinner.
+ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.ຂ້ອຍຕ້ອງກັບບ້ານ
+ແລະປຸງແຕ່ງອາຫານຄໍ່າຂອງຄາໂຣລິນ.
+
+221
+00:20:40,972 --> 00:20:46,368
+But congratulations, Dr. Parker. I couldn't be more happy for you.
+ແຕ່ຂໍສະແດງຄວາມຍິນດີ,ດຣປາກເກີ.ຂ້ອຍ
+ບໍ່ສາມາດມີຄວາມສຸກຫຼາຍຂຶ້ນສໍາລັບເຈົ້າໄດ້.
+
+222
+00:20:57,312 --> 00:20:59,061
+It's open.
+ມັນເປີດແລ້ວ.
+
+223
+00:21:09,055 --> 00:21:12,780
+For Carolyn? Coffee table is fine.
+ສໍາລັບແຄໂຣລິນບໍ? ໂຕະກາເຟບໍ່ເປັນຫຍັງ.
+
+224
+00:21:24,523 --> 00:21:27,201
+So, about those books...
+ສະນັ້ນ, ກ່ຽວກັບປື້ມເຫຼົ່ານັ້ນ...
+
+225
+00:21:27,326 --> 00:21:31,159
+They're in the den. Grab all you want.
+ພວກເຂົາຢູ່ໃນຫ້ອງ.ເອົາ
+ທຸກຢ່າງທີ່ທ່ານຕ້ອງການ.
+
+226
+00:21:56,188 --> 00:22:01,274
+Have you given that dinner any further thought? You could bring Professor Kittriss. Obviously.
+ເຈົ້າໄດ້ຄິດກ່ຽວກັບອາຫານຄໍ່ານັ້ນອີກບໍ?ເຈົ້າ
+ສາມາດເອົາສາດສະດາຈານ Kittriss ໄດ້.ແນ່ນອນ.
+
+227
+00:22:01,399 --> 00:22:02,946
+We'll see.
+ພວກເຮົາຈະເຫັນ.
+
+228
+00:22:04,548 --> 00:22:06,600
+Thanks, Professor.
+ຂອບໃຈ, ສາດສະດາຈານ.
+
+229
+00:22:08,465 --> 00:22:13,205
+- Oh, and please tell Ms. Kittriss I said good night.
+- I will.
+- ໂອ້, ແລະກະລຸນາບອກທ່ານນາງ Kittriss ຂ້ອຍຂໍອວຍພອນຄືນດີ.
+- ຂ້ອຍຈະເຮັດ.
+
+230
+00:22:20,617 --> 00:22:23,256
+- Smells great.
+- Thanks.
+- ມັນກິ່ນຫອມດີເລີດ.
+- ຂອບໃຈ
+
+231
+00:22:23,382 --> 00:22:30,967
+It's getting harder and harder to find anything that isn't loaded with mercury, or farm raised in filthy water.
+ມັນກໍາລັງຍາກຂຶ້ນແລະຍາກຂຶ້ນທີ່ຈະຊອກຫາສິ່ງໃດໆທີ່
+ບໍ່ຖືກໂຫຼດດ້ວຍເມກູຣີ,ຫຼືຟາມທີ່ລ້ຽງຢູ່ໃນນ້ໍາເປື້ອນ.
+
+232
+00:22:31,093 --> 00:22:36,569
+- Thank god we still have Pop Tarts.
+- Miracles. All around us.
+- ຂອບໃຈພຣະເຈົ້າທີ່ພວກເຮົາມີກະຕ່າ Pop ຍັງມີ.
+- ສິ່ງມະຫັດສະຈັນ. ຢູ່ອ້ອມຂ້າງພວກເຮົາ.
+
+233
+00:22:40,029 --> 00:22:44,820
+- How was your day?
+- As always. This is the highlight.
+- ມື້ຂອງເຈົ້າເປັນແນວໃດ?
+- ດັ່ງປົກກະຕິແລ້ວ. ນີ້ແມ່ນຈຸດເດັ່ນ.
+
+234
+00:22:45,335 --> 00:22:51,834
+I was thinking of going hunting this weekend. I'm starting to forget what real food tastes like.
+ຂ້ອຍກໍາລັງຄິດທີ່ຈະໄປລ່າສັດໃນທ້າຍອາທິດນີ້.
+ຂ້ອຍເລີ່ມລືມວ່າອາຫານທີ່ແທ້ຈິງລົດຊາດແນວໃດ.
+
+235
+00:22:53,099 --> 00:22:57,122
+I thought you'd come with me to the Hillary and Rob thing.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະໄປກັບຂ້ອຍ
+ໄປຫາເລື່ອງຮິລລາຣີແລະໂຣບ.
+
+236
+00:22:57,247 --> 00:23:03,614
+She's feeling really down lately, and we thought a party would cheer her up.
+ນາງຮູ້ສຶກໂຊກຮ້າຍຫຼາຍໃນໄລຍະຜ່ານມາ,ແລະ
+ພວກເຮົາຄິດວ່າງານລ້ຽງຈະເຮັດໃຫ້ນາງມີຄວາມສຸກ.
+
+237
+00:23:03,739 --> 00:23:07,038
+Hosting parties always stresses her out.
+ການຈັດງານລ້ຽງເຮັດໃຫ້ນາງ
+ມີຄວາມກົດດັນຢູ່ສະເໝີ.
+
+238
+00:23:07,164 --> 00:23:11,430
+You know... People. Laughing, carrying on.
+ເຈົ້າຮູ້ແລ້ວ...ຄົນ.
+ມ່ວນຊື່ນ,ດໍາເນີນຕໍ່ໄປ.
+
+239
+00:23:11,556 --> 00:23:14,473
+I don't know. I think I need some time alone.
+ຂ້ອຍບໍ່ຮູ້.ຂ້ອຍຄິດວ່າ
+ຂ້ອຍຕ້ອງການເວລາຢູ່ຄົນດຽວ.
+
+240
+00:23:14,599 --> 00:23:20,169
+- You're the king of "alone", John. Why not give the opposite a chance?
+-
+-ເຈົ້າເປັນກະສັດຂອງ"ຄົນດຽວ",ຈອນ.ເປັນ
+ຫຍັງບໍ່ໃຫ້ທາງກົງກັນຂ້າມເປັນໂອກາດ?
+
+241
+00:23:20,294 --> 00:23:22,595
+Doesn't work so well for me.
+ມັນບໍ່ເຮັດວຽກດີຫຼາຍ ສໍາ ລັບຂ້ອຍ.
+
+242
+00:23:26,895 --> 00:23:29,144
+I'm gonna go change.
+ຂ້ອຍຈະໄປປ່ຽນເຄື່ອງ.
+
+243
+00:23:39,379 --> 00:23:42,318
+God, you scared the crap out of me.
+ພຣະເຈົ້າ, ເຈົ້າເຮັດໃຫ້ຂ້ອຍຢ້ານກົວຫຼາຍ.
+
+244
+00:23:42,443 --> 00:23:48,677
+You didn't miss anything. Typical Delta Psi party. Pack as many people as you can into a room and spray them down with beer.
+ເຈົ້າບໍ່ໄດ້ພາດຫຍັງເລີຍ.ງານລ້ຽງ Delta Psi ແບບປົກກະຕິ.ເອົາຄົນຫຼາຍ
+ເທົ່າທີ່ທ່ານສາມາດເຮັດໄດ້ເຂົ້າໄປໃນຫ້ອງແລະສີດພວກມັນລົງດ້ວຍເບຍ.
+
+245
+00:23:48,802 --> 00:23:53,574
+- Figuratively speaking, I hope?
+- For the most part. What's that?
+- ເວົ້າແບບຕົວຢ່າງ, ຂ້ອຍຫວັງວ່າ?
+- ສ່ວນໃຫຍ່ແລ້ວ. ນັ້ນແມ່ນຫຍັງ?
+
+246
+00:23:53,699 --> 00:23:57,739
+- Book on early man I borrowed from Professor Young.
+- How'd it go?
+- ປື້ມກ່ຽວກັບມະນຸດເບື້ອງຕົ້ນທີ່ຂ້ອຍກູ້ຢືມຈາກສາດສະດາຈານຢອງ.
+- ມັນໄປແນວໃດ?
+
+247
+00:23:57,864 --> 00:24:02,610
+I asked again about dinner. Told him he could bring Professor Kittriss.
+ຂ້ອຍຖາມອີກເທື່ອໜຶ່ງກ່ຽວກັບອາຫານຄໍ່າ.ບອກ
+ລາວວ່າລາວສາມາດເອົາສາດສະດາຈານ Kittriss ໄດ້.
+
+248
+00:24:02,736 --> 00:24:05,484
+What for? Last thing we need is another chick.
+ເປັນຫຍັງ?ສິ່ງສຸດທ້າຍທີ່ພວກເຮົາ
+ຕ້ອງການແມ່ນເດັກຍິງອີກຄົນໜຶ່ງ.
+
+249
+00:24:05,610 --> 00:24:11,864
+Anyway, this guy Jenkins is an archeologist with a lot of field work under his belt.
+ຢ່າງໃດກໍຕາມ,ຜູ້ຊາຍຄົນນີ້ເຈນກິນສ໌ແມ່ນນັກບູຮານ
+ສາດທີ່ມີວຽກງານພາກສະໜາມຫຼາຍໃນສາຍແອວຂອງລາວ.
+
+250
+00:24:11,990 --> 00:24:17,705
+The book's really good. But the spine wasn't even cracked, although it's personally signed.
+ປື້ມດີແທ້ໆ.ແຕ່ກະດູກສັນຫຼັງບໍ່ໄດ້ແຕກເລີຍ,
+ເຖິງແມ່ນວ່າມັນຖືກລົງນາມໂດຍສ່ວນຕົວກໍ່ຕາມ.
+
+251
+00:24:17,830 --> 00:24:21,121
+He's cute. Or was.
+ລາວໜ້າຮັກ. ຫຼືເປັນ.
+
+252
+00:24:21,910 --> 00:24:26,332
+"To my dear friend John Oldman." Wait, what?
+ຕໍ່ເພື່ອນທີ່ຮັກຂອງຂ້ອຍ
+ຈອນໂອລດແມນ.ລໍຖ້າ,ຫຍັງ?
+
+253
+00:24:26,457 --> 00:24:30,154
+I know, right? Maybe he was kidding. "Old man" instead of "young"?
+ຂ້ອຍຮູ້ແລ້ວ,ແມ່ນບໍ?ບາງທີລາວໂຊກຮ້າຍ
+."ຜູ້ຊາຍອາຍຸ"ແທນທີ່ຈະ"ໜຸ່ມ"?
+
+254
+00:24:30,279 --> 00:24:35,950
+It's dated May 2007. So that would make Professor Young, like, thirty three maybe.
+ມັນມີວັນທີເດືອນພຶດສະພາ 2007 .ສະນັ້ນມັນຈະ
+ເຮັດໃຫ້ສາດສະດາຈານ Young ,ປະມານ,ສາມສິບສາມບາງທີ.
+
+255
+00:24:36,075 --> 00:24:42,332
+Exactly. You're not gonna call an old man "old man". You're gonna call a young guy that. Like calling a big guy "tiny".
+ແທ້ຈິງແລ້ວ.ເຈົ້າຈະບໍ່ເອີ້ນຜູ້ຊາຍເຖົ້າວ່າ"ຜູ້ຊາຍເຍົ້າ".
+ເຈົ້າຈະເອີ້ນຜູ້ຊາຍໜຸ່ມວ່າ.ຄືກັບການເອີ້ນຜູ້ຊາຍໃຫຍ່ວ່າ"ນ້ອຍ".
+
+256
+00:24:42,457 --> 00:24:47,825
+- But it's not "old man". It's "Oldman".
+- And maybe it's Kittriss's book.
+- ແຕ່ມັນບໍ່ແມ່ນ"ຜູ້ຊາຍເຖົ້າ". ມັນແມ່ນ"ຜູ້ຊາຍເກົ່າ".
+- ແລະບາງທີມັນອາດຈະເປັນປື້ມຂອງ Kittriss ໄດ້.
+
+257
+00:24:47,950 --> 00:24:52,781
+- So who's this Jenkins guy?
+- Let's go to the Interwebs.
+- ສະນັ້ນຄົນເຈນກິນສ໌ຄົນນີ້ແມ່ນໃຜ?
+- ໄປຫາອິນເຕີເວບ.
+
+258
+00:25:00,705 --> 00:25:05,935
+Taught at Santa Clarita University. Zillion archeology digs.
+ສອນຢູ່ມະຫາວິທະຍາໄລຊານຕາຄລາຣີຕາ
+.ການຂຸດຄົ້ນບູຮານສາດສິບລ້ານຄົນ.
+
+259
+00:25:06,060 --> 00:25:12,934
+Oh, academic awards. Blah, blah, blah... He wrote some other books...
+ໂອ້,ລາງວັນວິທະຍາສາດ.ບລ້າ,ບລະ
+ລ່າ...ລາວຂຽນປື້ມອື່ນໆບາງຢ່າງ...
+
+260
+00:25:14,442 --> 00:25:17,055
+But this last one...
+ແຕ່ຄົນສຸດທ້າຍນີ້...
+
+261
+00:25:18,098 --> 00:25:21,411
+"The Longest Night: My Conversation with the Man From Earth"...
+ຄືນທີ່ຍາວທີ່ສຸດ:ການສົນທະນາ
+ຂອງຂ້ອຍກັບຜູ້ຊາຍຈາກໂລກ...
+
+262
+00:25:21,536 --> 00:25:28,733
+about the night he spent with a university professor named John Oldman who claimed to be 14,000 years old.
+ກ່ຽວກັບຄືນທີ່ລາວໄດ້ໃຊ້ເວລາກັບສາດສະດາຈານມະຫາວິທະຍາໄລ
+ຊື່ວ່າຈອນໂອລດແມນຜູ້ທີ່ອ້າງວ່າມີອາຍຸ 14 , 000 ປີ.
+
+263
+00:25:29,340 --> 00:25:34,683
+And the comments are... Scathing puts it mildly. Yikes.
+ແລະຄໍາເຫັນແມ່ນ...ການສັກຊິງ
+ເວົ້າມັນຢ່າງອ່ອນແອ. Yikes .
+
+264
+00:25:34,809 --> 00:25:40,121
+"...Longest Night would merely be melodramatic sci-fi nonsense, but the author presents this hokum as non-fiction...
+"...ຄືນທີ່ຍາວນານທີ່ສຸດຈະເປັນພຽງແຕ່ຄວາມໂງ່ທາງວິທະຍາສາດທີ່ສວຍງາມ
+,ແຕ່ຜູ້ຂຽນນໍາສະເໜີ hokum ນີ້ເປັນເລື່ອງທີ່ບໍ່ເປັນເລື່ອງປອມ...
+
+265
+00:25:40,246 --> 00:25:44,692
+and thus abandons any academic authority he may have once possessed."
+ແລະດັ່ງນັ້ນລາອອກຈາກອໍານາດວິທະຍາສາດ
+ໃດໆທີ່ລາວອາດຈະມີໃນຄັ້ງໜຶ່ງ."
+
+266
+00:25:46,153 --> 00:25:50,630
+Ooh, get this one: "Offensive to the religious and non-religious alike...
+ໂອ້,ຟັງເລື່ອງນີ້:"ໂຊກຮ້າຍຕໍ່ຄົນ
+ສາສະໜາແລະຜູ້ທີ່ບໍ່ແມ່ນສາສະນາຄືກັນ...
+
+267
+00:25:50,755 --> 00:25:55,146
+Jenkins asks us to believe that the savior himself is a practicing Buddhist who walks among us...
+ເຈນກິນສ໌ຂໍໃຫ້ພວກເຮົາເຊື່ອວ່າຜູ້ຊ່ວຍຕົວເອງແມ່ນຊາວ
+ບຸດດິສທີ່ປະຕິບັດການທີ່ຍ່າງຢູ່ລະຫວ່າງພວກເຮົາ...
+
+268
+00:25:55,271 --> 00:25:58,889
+in the guise of a handsome, mild-mannered university professor."
+ໃນຮູບແບບຂອງສາດສະດາຈານ
+ມະຫາວິທະຍາໄລທີ່ສວຍງາມ,ທີ່ອ່ອນແອ."
+
+269
+00:25:59,014 --> 00:26:02,892
+That sounds like Professor Young. He knows everything about Buddhism.
+ມັນເບິ່ງຄືວ່າເປັນສາດສະດາຈານຢອງ.
+ລາວຮູ້ທຸກຢ່າງກ່ຽວກັບພຸດທະສາສະໜາ.
+
+270
+00:26:03,018 --> 00:26:06,021
+Yeah, but the savior. Like, Jesus?
+ແມ່ນແລ້ວ,ແຕ່ຜູ້ຊ່ວຍ
+.ເຊັ່ນວ່າ,ພຣະເຢຊູບໍ?
+
+271
+00:26:06,146 --> 00:26:09,357
+He could totally be my own, personal Jesus.
+ລາວສາມາດເປັນພຣະເຢຊູສ່ວນຕົວ
+ຂອງຂ້ອຍໄດ້ຢ່າງສົມບູນ.
+
+272
+00:26:13,325 --> 00:26:17,293
+We are totally getting that book.
+ພວກເຮົາຈະເອົາປື້ມນັ້ນຢ່າງສົມບູນ.
+
+273
+00:26:30,606 --> 00:26:32,631
+Like a thief in the night.
+ຄືກັບຄົນລັກໃນຕອນກາງຄືນ.
+
+274
+00:26:37,591 --> 00:26:41,430
+I woke you, I'm sorry. I must be getting out of practice.
+ຂ້ອຍຕື່ນເຈົ້າແລ້ວ,ຂ້ອຍຂໍໂທດ
+.ຂ້ອຍຕ້ອງອອກຈາກການຝຶກຊ້ອມ.
+
+275
+00:26:41,556 --> 00:26:43,876
+At being sneaky?
+ໃນການຫຼອກລວງບໍ?
+
+276
+00:26:44,002 --> 00:26:45,877
+Stealthy.
+ສະລັບຊັດ.
+
+277
+00:26:46,486 --> 00:26:50,825
+You really have to go? We could spend the whole weekend in bed.
+ເຈົ້າຕ້ອງໄປແທ້ບໍ?ພວກເຮົາສາມາດ
+ໃຊ້ເວລາທ້າຍອາທິດທັງໝົດໃນຕຽງໄດ້.
+
+278
+00:26:50,950 --> 00:26:54,486
+- And go to Hillary and Rob's thing.
+- Fair trade, isn't it?
+- ແລະໄປຫາເລື່ອງຂອງຮິລລາຣີ ແລະ ໂຣບ.
+- ການຄ້າທີ່ຍຸຕິທໍາ, ແມ່ນບໍ?
+
+279
+00:26:54,611 --> 00:26:58,115
+I'm going stir crazy, Carolyn.
+ຂ້ອຍຈະກະຕຸ້ນຄວາມໂຊກຮ້າຍ, ຄາໂຣລິນ.
+
+280
+00:26:58,240 --> 00:27:02,370
+- I hate when you disappear.
+- I'm know, it's just something's...
+- ຂ້ອຍກຽດຊັງເມື່ອເຈົ້າຫາຍໄປ.
+- ຂ້ອຍຮູ້ແລ້ວ, ມັນພຽງແຕ່ບາງສິ່ງບາງຢ່າງແມ່ນ...
+
+281
+00:27:02,495 --> 00:27:06,326
+something's not right. I'm not bouncing back the way I'm used to doing.
+ບາງສິ່ງບາງຢ່າງບໍ່ຖືກຕ້ອງ.ຂ້ອຍບໍ່ໄດ້
+ກັບຄືນໄປບ່ອນຕາມວິທີທີ່ຂ້ອຍເຄີຍເຮັດ.
+
+282
+00:27:06,451 --> 00:27:09,509
+It's called "getting older".
+ມັນເອີ້ນວ່າ"ການເຕີບໃຫຍ່".
+
+283
+00:27:10,210 --> 00:27:15,107
+But if you insist on stomping around the woods like a cave man...
+ແຕ່ຖ້າເຈົ້າຢືນຢັນວ່າຈະຍ່າງຢູ່
+ທົ່ວປ່າໄມ້ຄືກັບຜູ້ຊາຍຮູຮານ...
+
+284
+00:27:15,232 --> 00:27:18,927
+I suppose it's a better mid-life-crisis thing to do than...
+ຂ້ອຍຄິດວ່າມັນເປັນສິ່ງທີ່ດີກວ່າໃນ
+ການວິກິດການກາງຊີວິດທີ່ຈະເຮັດກ່ວາ...
+
+285
+00:27:19,052 --> 00:27:24,426
+buying a motorcycle and taking off with some student. Right?
+ຊື້ລົດຈັກແລະບິນກັບ
+ນັກຮຽນບາງຄົນ.ແມ່ນບໍ?
+
+286
+00:27:24,552 --> 00:27:28,736
+Then I'd better try and get back the deposit on that Ducati.
+ຫຼັງຈາກນັ້ນຂ້ອຍຄວນພະຍາຍາມ
+ເອົາເງິນຝາກຄືນໃນດູຄາຕີນັ້ນ.
+
+287
+00:27:35,356 --> 00:27:36,981
+I'll see you.
+ຂ້ອຍຈະເຫັນເຈົ້າ.
+
+288
+00:28:59,309 --> 00:29:01,947
+- Hey.
+- C'mon in.
+- ເຮ້
+- ເຂົ້າມາ.
+
+289
+00:29:02,072 --> 00:29:04,005
+Hey, Liko.
+ເຮ້, ລິກໂກ້.
+
+290
+00:29:04,880 --> 00:29:08,078
+- You kids want anything to eat?
+- Oh, no thanks, Mom, we're good.
+- ພວກເຈົ້າຢາກກິນຫຍັງບໍ?
+- ໂອ້, ບໍ່ຂອບໃຈ, ແມ່, ພວກເຮົາດີ.
+
+291
+00:29:08,203 --> 00:29:10,896
+- Yeah, I want something, Mrs. Nichols.
+- Yeah, me too.
+- ແມ່ນແລ້ວ, ຂ້ອຍຢາກບາງສິ່ງບາງຢ່າງ, ທ່ານນາງ Nichols.
+- ແມ່ນແລ້ວ, ຂ້ອຍຄືກັນ.
+
+292
+00:29:11,021 --> 00:29:14,302
+They're kidding. Thanks, Mom. Will you knock it off, man?
+ພວກເຂົາໂຊກຮ້າຍ.ຂອບໃຈ,ແມ່
+.ເຈົ້າຈະຢຸດມັນບໍ,ຜູ້ຊາຍ?
+
+293
+00:29:14,427 --> 00:29:16,519
+She's adorable, by the way.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ນາງໜ້າຮັກ.
+
+294
+00:29:16,644 --> 00:29:21,200
+- Alright, so what's so earth-shattering?
+- Can we...?
+- ດີແລ້ວ, ສະນັ້ນເປັນຫຍັງເຮັດໃຫ້ໂລກສັ່ນສະເທືອນຫຼາຍ?
+- ພວກເຮົາສາມາດ...?
+
+295
+00:29:23,927 --> 00:29:26,559
+I want with pickles and mustard.
+ຂ້ອຍຢາກມີ pickles ແລະ mustard.
+
+296
+00:29:26,684 --> 00:29:28,411
+We're fine.
+ພວກເຮົາບໍ່ເປັນຫຍັງ.
+
+297
+00:29:30,231 --> 00:29:32,018
+So what's up?
+ສະນັ້ນມີຫຍັງເກີດຂຶ້ນ?
+
+298
+00:29:34,880 --> 00:29:37,927
+For ten years, this guy, Arthur M. Jenkins...
+ເປັນເວລາສິບປີແລ້ວ,ຜູ້ຊາຍ
+ຄົນນີ້,ແອດເຕີມ໌ເຈນກິນສ໌...
+
+299
+00:29:38,052 --> 00:29:43,075
+taught at Santa Clarita University alongside a history professor named John Oldman.
+ສອນຢູ່ມະຫາວິທະຍາໄລຊານຕາຄລາຣີຕາພ້ອມກັບ
+ສາດສະດາຈານປະຫວັດສາດຊື່ວ່າຈອນໂອລດແມນ.
+
+300
+00:29:43,200 --> 00:29:50,497
+One night this Oldman guy gathers his professor friends and tells them that he's really fourteen thousand years old.
+ໃນຄືນໜຶ່ງຄົນໂອລດແມນຄົນນີ້ໄດ້ເຕົ້າໂຮມເພື່ອນອາຈານ
+ຂອງລາວແລະບອກພວກເຂົາວ່າລາວອາຍຸສິບສີ່ພັນປີແທ້ໆ.
+
+301
+00:29:50,622 --> 00:29:56,256
+He was born a caveman, somehow became immortal. He knew Columbus, Vincent Van Gogh, all this crazy stuff.
+ລາວເກີດເປັນຄົນຮູຮານ,ບາງຢ່າງກາຍເປັນຄົນບໍ່ຕາຍ.ລາວ
+ຮູ້ຈັກໂຄລໍາບັສ,ວິນເຊັນຕ໌ວານໂກກ,ສິ່ງໂຊກຮ້າຍທັງໝົດນີ້.
+
+302
+00:29:56,381 --> 00:30:00,171
+He would always use the name John, often with a pun for a last name.
+ລາວຈະໃຊ້ຊື່ຈອນຢູ່ສະເໝີ,ມັກຈະ
+ມີຄໍາເວົ້າສໍາລັບນາມສະກຸນ.
+
+303
+00:30:00,297 --> 00:30:06,803
+Stay in one place for ten years or so, until people started realizing he didn't age.
+ຢູ່ບ່ອນດຽວປະມານສິບປີ,ຈົນກວ່າຄົນຈະ
+ເລີ່ມເຂົ້າໃຈວ່າລາວບໍ່ໄດ້ເຖົ້າແກ່.
+
+304
+00:30:06,928 --> 00:30:11,591
+Lived under hundreds of identities, including, wait for it...
+ດໍາລົງຊີວິດພາຍໃຕ້ຕົວຕົນຫຼາຍ
+ຮ້ອຍຄົນ,ລວມທັງ,ລໍຖ້າມັນ...
+
+305
+00:30:11,716 --> 00:30:15,103
+- Jesus of Nazareth.
+-
+- ພຣະເຢຊູຈາກນາຊາເຣັດ.
+
+306
+00:30:17,408 --> 00:30:22,317
+- He'd lived for thousands of years, never aging, never dying, traveling the world...
+- Studying with the Buddha...
+- ລາວໄດ້ດໍາລົງຊີວິດເປັນເວລາຫຼາຍພັນປີ, ບໍ່ເຄີຍເຖົ້າແກ່, ບໍ່ເຄຍຕາຍ, ເດີນທາງທົ່ວໂລກ...
+- ຮຽນກັບພະພຸດທະເຈົ້າ...
+
+307
+00:30:22,442 --> 00:30:25,833
+...until one day he set up shop in Jerusalem and started preaching.
+ຈົນກວ່າມື້ໜຶ່ງລາວຈະຕັ້ງຮ້ານຄ້າ
+ໃນເຢຣູຊາເລັມແລະເລີ່ມຕົ້ນປະກາດ.
+
+308
+00:30:25,958 --> 00:30:29,756
+Yadda yadda yadda, he gets crucified, his wounds heal, he sneaks off and...
+Yada yadda yadda ,ລາວຖືກ crucified ,
+ບາດເຈັບຂອງລາວ healed ,ລາວ sneaks ອອກແລະ...
+
+309
+00:30:29,881 --> 00:30:32,620
+we have Christianity. By accident.
+ພວກເຮົາມີຄວາມຄຣິສຕຽນ. ໂດຍອຸບັດຕິເຫດ.
+
+310
+00:30:32,745 --> 00:30:35,541
+What do you mean, "yadda yadda yadda we have Christianity"? You can't just...
+ເຈົ້າໝາຍຄວາມວ່າແນວໃດ," yadda yadda yadda
+ພວກເຮົາມີຄຣິສຕຽນ"?ເຈົ້າບໍ່ສາມາດພຽງແຕ່...
+
+311
+00:30:35,666 --> 00:30:40,388
+It's science fiction, alright? People write speculative fiction about Jesus all the time.
+ມັນເປັນເລື່ອງວິທະຍາສາດປອມ,ດີບໍ?ຄົນ
+ຂຽນເລື່ອງປອມປອມກ່ຽວກັບພຣະເຢຊູຕະຫຼອດເວລາ.
+
+312
+00:30:40,513 --> 00:30:44,443
+You should see what they write about Kirk and Spock. Better yet, you shouldn't.
+ເຈົ້າຄວນເບິ່ງສິ່ງທີ່ພວກເຂົາຂຽນກ່ຽວກັບຄິກ
+ແລະສປອກ.ດີກວ່າອີກຢ່າງໜຶ່ງ,ເຈົ້າບໍ່ຄວນ.
+
+313
+00:30:44,568 --> 00:30:48,802
+But he said that it's a true story. See? Says right there, "non-fiction".
+ແຕ່ລາວເວົ້າວ່າມັນເປັນເລື່ອງທີ່ແທ້ຈິງ.ເຈົ້າ
+ເຫັນບໍ?ມັນຂຽນຢູ່ບ່ອນນັ້ນ,"ບໍ່ແມ່ນເລື່ອງນິທານ".
+
+314
+00:30:48,928 --> 00:30:51,239
+Oh, well, then it must be true.
+ໂອ້,ດີ,ຫຼັງຈາກນັ້ນ
+ມັນຕ້ອງເປັນຄວາມຈິງ.
+
+315
+00:30:51,364 --> 00:30:56,129
+- There are plenty of alien abduction books in the non-fiction section.
+- Look, I checked up on Arthur Jenkins.
+- ມີປື້ມລັກພາຕົວຂອງຄົນຕ່າງດາວຫຼາຍໃນພາກທີ່ບໍ່ແມ່ນເລື່ອງນິທານ.
+- ເບິ່ງ, ຂ້ອຍໄດ້ກວດສອບກ່ຽວກັບແອດເຕີ ເຈນກິນສ໌.
+
+316
+00:30:56,254 --> 00:31:02,067
+He was a tenured archeology professor, published a pile of books. The real deal.
+ລາວເປັນອາຈານສາດສະດຸບູຮານທີ່ປະຈໍາການ,ໄດ້
+ເຜີຍແຜ່ປື້ມຫຼາຍປຶ້ມ.ຂໍ້ຕົກລົງທີ່ແທ້ຈິງ.
+
+317
+00:31:02,192 --> 00:31:05,988
+Then this one came out and he got laughed off the planet.
+ຫຼັງຈາກນັ້ນຄົນນີ້ອອກມາ
+ແລະລາວຖືກມ່ວນຊື່ນຈາກໂລກ.
+
+318
+00:31:06,113 --> 00:31:09,657
+- No wonder.
+- But he did his research.
+- ບໍ່ແປກໃຈ.
+- ແຕ່ລາວໄດ້ຄົ້ນຄວ້າຂອງຕົນ.
+
+319
+00:31:09,801 --> 00:31:15,144
+Found out that the John Oldman he knew didn't exist until 2001. No mention of him anywhere.
+ຂ້ອຍຮູ້ວ່າຈອນໂອລດແມນທີ່ລາວຮູ້ຈັກບໍ່ໄດ້ມີຢູ່
+ຈົນຮອດປີ 2001 ບໍ່ມີການກ່າວເຖິງລາວຢູ່ບ່ອນໃດເລີຍ.
+
+320
+00:31:15,269 --> 00:31:20,460
+His references, driver's licence, W-2. Everything turned out to be fake.
+ຂໍ້ອ້າງອີງຂອງລາວ,ໃບຂັບຂີ່,
+W-2 .ທຸກຢ່າງປາກົດວ່າເປັນປອມ.
+
+321
+00:31:20,586 --> 00:31:24,964
+Jenkins even tracked down two previous colleges where he'd taught under different names.
+ເຈນຄິນສ໌ໄດ້ຕິດຕາມວິທະຍາໄລສອງແຫ່ງກ່ອນໜ້າ
+ນີ້ບ່ອນທີ່ລາວໄດ້ສອນດ້ວຍຊື່ທີ່ແຕກຕ່າງກັນ.
+
+322
+00:31:25,090 --> 00:31:27,617
+John Magdel and John Permian.
+ຈອນ ມາຈເດລ ແລະ ຈອນ ເປີມຽນ.
+
+323
+00:31:27,743 --> 00:31:33,559
+Magdel? Magdelanian? I have no idea what Permian is.
+Magdel ? Magdelanian ?ຂ້ອຍ
+ບໍ່ຮູ້ວ່າ Permian ແມ່ນຫຍັງ.
+
+324
+00:31:33,684 --> 00:31:38,269
+The first Great Extinction, two-hundred and fifty million years ago.
+ການສູນພັນທີ່ຍິ່ງໃຫຍ່ຄັ້ງທໍາ
+ອິດ,ສອງຮ້ອຍຫ້າສິບລ້ານປີກ່ອນ.
+
+325
+00:31:38,395 --> 00:31:43,644
+They both also had fake references, and left abruptly after about ten years.
+ພວກເຂົາທັງສອງຍັງມີຂໍ້ອ້າງອີງປອມແລະ
+ອອກໄປຢ່າງກະທັນຫັນຫຼັງຈາກປະມານສິບປີ.
+
+326
+00:31:43,769 --> 00:31:51,254
+And their descriptions, John Oldman, John Magdel, John Permian, are virtually identical.
+ແລະການອະທິບາຍຂອງພວກເຂົາ,ຈອນໂອລດແມນ,
+ຈອນມາຈເດລ,ຈອງເປີມຽນ,ແມ່ນເກືອບຄືກັນ.
+
+327
+00:31:51,379 --> 00:31:56,067
+Oldman's DMV records somehow vanished two days after he did.
+ບັນທຶກ DMV ຂອງໂອລດແມນຫາຍໄປ
+ຢ່າງໃດກໍ່ຕາມສອງມື້ຫຼັງຈາກລາວເຮັດ.
+
+328
+00:31:56,192 --> 00:31:59,723
+Google him now, the only reference is this book.
+Google ລາວດຽວນີ້,ການອ
+້າງອີງດຽວແມ່ນປື້ມນີ້.
+
+329
+00:31:59,848 --> 00:32:06,623
+If this Oldman guy is real, he makes his past disappear every time he changes identity.
+ຖ້າຄົນໂອລດແມນຄົນນີ້ເປັນຄົນແທ້ໆ,ລາວເຮັດໃຫ້
+ອະດີດຂອງລາວຫາຍໄປທຸກຄັ້ງທີ່ລາວປ່ຽນຕົວຕົນ.
+
+330
+00:32:07,405 --> 00:32:12,334
+Makes sense. Million years old, staying under the radar, you gotta keep moving.
+ມັນມີຄວາມໝາຍ.ອາຍຸຫຼາຍລ້ານປີ,ຢູ່
+ພາຍໃຕ້ຣາດາ,ເຈົ້າຕ້ອງຍ້າຍໄປຕໍ່ໄປ.
+
+331
+00:32:14,819 --> 00:32:19,226
+- Philip, we're not trying to offend you.
+- I'm not offended.
+- ຟີລິບ, ພວກເຮົາບໍ່ໄດ້ພະຍາຍາມໂຊກຮ້າຍເຈົ້າ.
+- ຂ້ອຍບໍ່ໂຊກຮ້າຍ.
+
+332
+00:32:19,352 --> 00:32:22,312
+No, I know. It's just, you really believe.
+ບໍ່,ຂ້ອຍຮູ້.ມັນພຽງແຕ່
+,ເຈົ້າເຊື່ອແທ້ໆ.
+
+333
+00:32:22,438 --> 00:32:27,644
+Look, I know the world isn't flat, I know it's more than six thousand years old.
+ເບິ່ງ,ຂ້ອຍຮູ້ວ່າໂລກບໍ່ແມ່ນແຜ່ນ,ຂ້ອຍ
+ຮູ້ວ່າມັນມີອາຍຸຫຼາຍກວ່າຫົກພັນປີ.
+
+334
+00:32:27,769 --> 00:32:31,823
+But I believe a man named Jesus lived and died for our sins.
+ແຕ່ຂ້ອຍເຊື່ອວ່າຜູ້ຊາຍຊື່ວ່າພຣະເຢຊູໄດ້ດໍ
+າລົງຊີວິດແລະຕາຍເພື່ອຄວາມບາບຂອງພວກເຮົາ.
+
+335
+00:32:32,717 --> 00:32:39,161
+Philip... You know there are millions and millions of people who don't believe in Jesus Christ's divinity.
+ຟີລິບ...ເຈົ້າຮູ້ວ່າມີຄົນຫຼາຍລ້ານຄົນທີ່
+ບໍ່ເຊື່ອໃນຄວາມເປັນພະເຈົ້າຂອງພຣະເຢຊູຄຣິດ.
+
+336
+00:32:39,286 --> 00:32:43,512
+I mean, Jews, Hindus, Wiccans, plenty more.
+ຂ້ອຍໝາຍຄວາມວ່າ,ຊາວຢິວ,ຊາວ
+ຮິນດູ,ຊາວວິກກາ,ອີກຫຼາຍຄົນ.
+
+337
+00:32:45,995 --> 00:32:48,894
+Yes, but that doesn't mean they're right.
+ແມ່ນແລ້ວ,ແຕ່ມັນບໍ່ໄດ້ໝາ
+ຍຄວາມວ່າພວກເຂົາຖືກຕ້ອງ.
+
+338
+00:32:49,019 --> 00:32:54,887
+Some people believe the Galactic Dictator Xenu brought his people to earth and hid them in volcanoes, so...
+ບາງຄນເຊື່ອວ່າເຈນູຜູ້ຜະເດັດການແກລັກຕິກໄດ້ນໍາ
+ຄນຂອງເຂາມາທີ່ໂລກແລະເຊື່ອງພວກເຂາໄວ້ໃນພູເຂົາໄຟ
+
+339
+00:32:55,131 --> 00:32:59,081
+Point is, Jenkins' book is just a story.
+ຈຸດປະສົງແມ່ນ,ປື້ມຂອງເຈນກິນສ
+໌ແມ່ນພຽງແຕ່ເລື່ອງເທົ່ານັ້ນ.
+
+340
+00:32:59,206 --> 00:33:04,708
+If I could allow my faith to be shaken by the fantasies of a disgruntled college professor...
+ຖ້າຂ້ອຍສາມາດອະນຸຍາດໃຫ້ຄວາມເຊື່ອຂອງຂ້ອຍຖືກສັ່ນສະເທືອນ
+ໂດຍຄວາມຄິດຂອງສາດສະດາຈານວິທະຍາໄລທີ່ບໍ່ພໍໃຈ...
+
+341
+00:33:04,833 --> 00:33:07,472
+then I'm not really much of a Christian, am I?
+ຫຼັງຈາກນັ້ນຂ້ອຍບໍ່ແມ່ນ
+ຄຣິສຕຽນຫຼາຍ,ແມ່ນບໍ?
+
+342
+00:33:07,597 --> 00:33:12,822
+So Jenkins writes a book about John Oldman. Fine, whatever. What's this got to do with any of us?
+ຈັນຄິນສ໌ຂຽນປື້ມກ່ຽວກັບຈອນໂອລດແມນດີ,ບໍ່ວ່າ
+ຈະເປັນຫຍັງ.ເລື່ອງນີ້ກ່ຽວຂ້ອງກັບພວກເຮົາໃດ?
+
+343
+00:33:12,948 --> 00:33:14,710
+Show him.
+ສະແດງໃຫ້ລາວເຫັນ.
+
+344
+00:33:15,386 --> 00:33:18,178
+I found this book at Professor Young's.
+ຂ້ອຍພົບປື້ມນີ້ຢູ່ເຮືອນສາດສະດາຈານຢົງ.
+
+345
+00:33:18,953 --> 00:33:20,842
+Read the inscription.
+ອ່ານຄໍາຂຽນ.
+
+346
+00:33:23,272 --> 00:33:27,170
+"To my dear friend John Oldman."
+ຕໍ່ເພື່ອນຮັກຂອງຂ້ອຍຈອນ ໂອລດແມນ.
+
+347
+00:33:29,198 --> 00:33:31,967
+Professor Young and John Oldman knew each other?
+ສາດສະດາຈານຢອງແລະຈອນ
+ໂອລດແມນຮູ້ຈັກກັນບໍ?
+
+348
+00:33:36,448 --> 00:33:41,601
+What if... What if Professor Young actually is John Oldman.
+ຖ້າ...ຖ້າສາດສະດາຈານຢ
+ົງແມ່ນຈອນໂອລດແມນແທ້ໆ.
+
+349
+00:33:43,330 --> 00:33:47,190
+How do you make that leap? Are there any pictures?
+ເຈົ້າເຮັດການໂດດນັ້ນແນວໃດ? ມີຮູບໃດບໍ?
+
+350
+00:33:47,393 --> 00:33:53,104
+Okay, well, Jenkins talks about several times when Oldman conspicuously avoided having his picture taken.
+ດີ,ດີ,ເຈນກິນສ໌ເວົ້າກ່ຽວກັບຫຼາຍຄັ້ງທີ່ໂອລດແມນ
+ຫຼີກເວັ້ນການຖ່າຍຮູບຂອງລາວຢ່າງ conspicuously .
+
+351
+00:33:53,229 --> 00:34:00,237
+Turning around, stepping behind someone, answering a phone call that no one else heard ringing, whatever, just to avoid being photographed.
+ຫັນໄປ,ຍ່າງຢູ່ເບື້ອງຫຼັງຄົນໜຶ່ງ,ຕອບໂທລະສັບທີ່ບໍ່ມີໃຜໄດ້ຍິນ
+ດັງ,ບໍ່ວ່າຈະເປັນຫຍັງ,ພຽງແຕ່ເພື່ອຫຼີກເວັ້ນການຖ່າຍຮູບ.
+
+352
+00:34:00,362 --> 00:34:04,104
+To Jenkins' knowledge, the only existing picture of John Oldman...
+ຕາມຄວາມຮູ້ຂອງເຈນກິນສ໌,ຮູບ
+ດຽວທີ່ມີຢູ່ຂອງຈອນໂອລດແມນ...
+
+353
+00:34:04,229 --> 00:34:08,354
+was taken in 2006 at a barbecue.
+ຖືກຖ່າຍໃນປີ 2006 ຢູ່ງານບາບີເກວ.
+
+354
+00:34:15,760 --> 00:34:19,430
+THE ONLY KNOWN PHOTOGRAPH
+OF JOHN OLDMAN
+ຮູບພາບດຽວທີ່ຮູ້ຈັກຂອງຈອນ ໂອລດແມນ
+
+355
+00:34:21,049 --> 00:34:28,121
+Wait, so if Professor Young is Jesus Christ returned, then that means we're in...
+ລໍຖ້າ,ສະນັ້ນຖ້າສາດສະດາຈານຢົງແມ່ນພຣະເຢຊູຄຣິດ
+ກັບມາ,ຫຼັງຈາກນັ້ນມັນໝາຍຄວາມວ່າພວກເຮົາຢູ່ໃນ...
+
+356
+00:34:28,246 --> 00:34:30,440
+The End Times.
+ການສິ້ນສຸດເວລາ.
+
+357
+00:34:30,565 --> 00:34:36,277
+But, if Jesus never left, then he's not "returned." He's just...
+ແຕ່,ຖ້າພຣະເຢຊູບໍ່ເຄີຍອອກຈາກ,ຫຼັງຈາກ
+ນັ້ນລາວບໍ່ໄດ້"ກັບມາ."ລາວພຽງແຕ່...
+
+358
+00:34:36,402 --> 00:34:37,990
+here.
+ມາແລ້ວ.
+
+359
+00:34:43,253 --> 00:34:46,830
+Cool. I'm hungry. Tara, wanna go get something?
+ດີເລີດ.ຂ້ອຍຢາກກິນ.ຕາຣາ,ເຈົ້າ
+ຢາກໄປເອົາບາງສິ່ງບາງຢ່າງບໍ?
+
+360
+00:34:53,507 --> 00:34:56,181
+I found an email for Jenkins.
+ຂ້ອຍພົບອີເມວ ສໍາ ລັບເຈນກິນສ໌.
+
+361
+00:34:57,783 --> 00:35:00,166
+What have we got, Betsy?
+ພວກເຮົາມີຫຍັງ, ເບຕຊີ?
+
+362
+00:35:00,291 --> 00:35:03,924
+Look at that. I think we've got lunch.
+ເບິ່ງມັນ.ຂ້ອຍຄິດວ່າ
+ພວກເຮົາມີອາຫານທ່ຽງ.
+
+363
+00:35:05,580 --> 00:35:07,369
+Nice.
+ດີເລີດ.
+
+364
+00:35:09,940 --> 00:35:12,080
+Keep it.
+ຮັກສາມັນໄວ້.
+
+365
+00:35:12,206 --> 00:35:16,355
+And there's another beauty. Alright, Betsy. Let's go.
+ແລະມີຄວາມງາມອີກຢ່າງ
+ໜຶ່ງ.ດີແລ້ວ,ເບຕຊີ.ໄປ.
+
+366
+00:35:32,643 --> 00:35:36,041
+These are for me.
+ເຫຼົ່ານີ້ແມ່ນສໍາລັບຂ້ອຍ.
+
+367
+00:35:39,252 --> 00:35:41,572
+Smell good, too.
+ກິ່ນຫອມດີເຊັ່ນກັນ.
+
+368
+00:35:43,815 --> 00:35:46,197
+Let's make that move.
+ພວກເຮົາຈະເຄື່ອນໄຫວນັ້ນ.
+
+369
+00:35:52,229 --> 00:35:56,939
+Let's see, let's move this knight.
+ມາເບິ່ງກັນ, ໃຫ້ຍ້າຍນາຍຊາຍຄົນນີ້ໄປ.
+
+370
+00:36:01,760 --> 00:36:03,495
+What's this?
+ນີ້ແມ່ນຫຍັງ?
+
+371
+00:36:05,456 --> 00:36:10,939
+...The Longest Night and found it fascinating. Would you be willing to speak with me about John Oldman?
+ເຈົ້າຢາກເວົ້າກັບຂ້ອຍ
+ກ່ຽວກັບຈອນໂອລດແມນບໍ?
+
+372
+00:36:13,877 --> 00:36:15,963
+Dear Miss Chang...
+ນາງແຊງທີ່ຮັກແພງ...
+
+373
+00:36:16,817 --> 00:36:20,862
+Why don't you and John Oldman...
+ເປັນຫຍັງເຈົ້າແລະຈອນ ໂອລດແມນຈຶ່ງບໍ່...
+
+374
+00:36:20,987 --> 00:36:24,722
+go straight to hell?
+ໄປສູ່ອານາໄມບໍ?
+
+375
+00:36:29,361 --> 00:36:32,183
+Why don't they leave me alone?
+ເປັນຫຍັງພວກເຂົາຈຶ່ງບໍ່
+ປ່ອຍຂ້ອຍໄວ້ຢ່າງສະຫງົບ?
+
+376
+00:36:32,308 --> 00:36:34,713
+I'm sorry. I'm sorry.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍ ຂໍໂທດ.
+
+377
+00:36:34,838 --> 00:36:40,696
+Hey, hey, c'mere, don't run away. I'm sorry. I didn't mean to frighten you.
+ເຮ້ເຮ້, C'mere ,ຢ່າໜີໄປ.ຂ້ອຍຂໍໂທດ.
+ຂ້ອຍບໍ່ໄດ້ຕັ້ງໃຈທີ່ຈະຢ້ານກົວເຈົ້າ.
+
+378
+00:37:47,768 --> 00:37:51,669
+- I'm not so sure about this anymore.
+- It was your idea.
+- ຂ້ອຍບໍ່ແນ່ໃຈເລື່ອງນີ້ອີກແລ້ວ.
+- ມັນເປັນຄວາມຄິດຂອງເຈົ້າ.
+
+379
+00:37:51,794 --> 00:37:56,902
+I know, but I work for Professor Kittress. And now I'm feeling really 'violatey', you know?
+ຂ້ອຍຮູ້ແລ້ວ,ແຕ່ຂ້ອຍເຮັດວຽກສໍາລັບສາດສະດາຈານ Kittress
+ແລະດຽວນີ້ຂ້ອຍຮູ້ສຶກ'ການລະເມີດ'ແທ້ໆ,ເຈົ້າຮູ້ບໍ?
+
+380
+00:37:57,027 --> 00:38:00,283
+- So let's go home.
+- But I feel like I want to know, you know?
+- ສະນັ້ນພວກເຮົາຈະກັບບ້ານ.
+- ແຕ່ຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍຢາກຮູ້, ເຈົ້າຮູ້ບໍ?
+
+381
+00:38:00,408 --> 00:38:02,502
+So, let's keep going.
+ສະນັ້ນ, ໄປຕໍ່ໄປ.
+
+382
+00:38:02,627 --> 00:38:06,799
+- Ugh, I wish Jenkins was more responsive.
+- I wish he was less of a dick.
+- ໂອ້, ຂ້ອຍຢາກວ່າເຈນກິນສ໌ຈະຕອບຮັບຫຼາຍຂຶ້ນ.
+- ຂ້ອຍຢາກໃຫ້ລາວເປັນຄົນໂຊກຮ້າຍ ໜ້ອຍ ກວ່າ.
+
+383
+00:38:06,924 --> 00:38:12,118
+Okay, do you want proof, or not? Photos, something?
+ດີແລ້ວ,ເຈົ້າຢາກມີຫຼັກຖານບໍ,
+ຫຼືບໍ່?ຮູບພາບ,ບາງສິ່ງບາງຢ່າງ?
+
+384
+00:38:19,629 --> 00:38:23,314
+This is so exciting.
+ນີ້ແມ່ນໜ້າຕື່ນເຕັ້ນຫຼາຍ.
+
+385
+00:38:28,588 --> 00:38:32,455
+- Pretty bad-ass, Isabel.
+- It wasn't locked.
+- ໂຊກຮ້າຍຫຼາຍ, ອີຊາເບວ.
+- ມັນບໍ່ໄດ້ລັອກໄວ້.
+
+386
+00:38:32,580 --> 00:38:36,187
+Breaking and entering. Felony makes you kinda hot.
+ການລັກລອບແລະເຂົ້າມາ.ການກະ
+ທໍາຜິດເຮັດໃຫ້ເຈົ້າຮ້ອນຫຼາຍ.
+
+387
+00:38:37,150 --> 00:38:42,643
+- Whoa. He really does have a Van Gogh.
+- Total fake. That'd be worth, like, three zillion dollars.
+- ໂວ້. ລາວມີວານໂກກແທ້ໆ.
+- ມັນເປັນປອມຢ່າງສົມບູນ. ມັນຈະມີມູນຄ່າປະມານສາມລ້ານໂດລາ.
+
+388
+00:38:43,385 --> 00:38:47,448
+- Cool Tazer? What's this for?
+- What do you think, perv?
+- Tazer ທີ່ເຢັນບໍ? ນີ້ແມ່ນຫຍັງ?
+- ເຈົ້າຄິດແນວໃດ, ຄົນໂຊກຮ້າຍ?
+
+389
+00:38:47,574 --> 00:38:49,432
+Don't touch that.
+ຢ່າຈັບສິ່ງນັ້ນ.
+
+390
+00:39:01,836 --> 00:39:03,130
+Gurar...
+ກູຣານ...
+
+391
+00:39:06,157 --> 00:39:10,182
+I want to be objective, but I really want to believe this 'cause...
+ຂ້ອຍຢາກເປັນຈຸດປະສົງ,ແຕ່ຂ້ອຍ
+ຢາກເຊື່ອສິ່ງນີ້ແທ້ໆເພາະວ່າ...
+
+392
+00:39:10,308 --> 00:39:13,877
+it would be so deeply, deeply cool.
+ມັນຈະເຢັນຫຼາຍ, ເຢັນຫຼາຍ.
+
+393
+00:39:15,419 --> 00:39:18,361
+- Let's split up.
+- I'll do the bedroom.
+- ພວກເຮົາຈະແຍກກັນ.
+- ຂ້ອຍຈະເຮັດຫ້ອງນອນ.
+
+394
+00:39:24,219 --> 00:39:26,297
+There's a basement.
+ມີຊັ້ນລຸ່ມ.
+
+395
+00:40:59,946 --> 00:41:01,369
+Kittriss is home.
+ຄິດຕຣິດສ໌ຢູ່ເຮືອນແລ້ວ.
+
+396
+00:41:02,667 --> 00:41:04,251
+Yeah, gimme one sec'.
+ແມ່ນແລ້ວ, ໃຫ້ຂ້ອຍວິນາທີໜຶ່ງ.
+
+397
+00:41:04,377 --> 00:41:06,806
+Hey. We gotta go.
+ເຮ້. ພວກເຮົາຕ້ອງໄປ.
+
+398
+00:41:06,931 --> 00:41:08,625
+Now.
+ດຽວນີ້.
+
+399
+00:41:10,034 --> 00:41:12,968
+- Come on.
+- Yeah, I'm coming, I'm coming.
+- ມາແລ້ວ.
+- ແມ່ນແລ້ວ, ຂ້ອຍກໍາລັງມາ, ຂ້ອຍ ກໍາ ລັງມາ.
+
+400
+00:41:15,610 --> 00:41:18,049
+- There's a back door.
+- Awesome.
+- ມີປະຕູຫຼັງ.
+- ດີເລີດ.
+
+401
+00:42:16,524 --> 00:42:23,103
+So, my cousin Janet's an art history major at Columbia. She said the painting could be an unregistered Van Gogh.
+ສະນັ້ນ,ພີ່ນ້ອງຊາຍຂອງຂ້ອຍເຈນຕ໌ເປັນວິຊາການປະຫວັດສາດສິລະປະ
+ໃນໂຄລໍາເບຍນາງເວົ້າວ່າຮູບແຕ້ມອາດຈະເປັນວານໂກກທີ່ບໍ່ລົງທະບຽນ
+
+402
+00:42:23,228 --> 00:42:26,165
+Well, we looked into the authors of those books from the basement.
+ດີ,ພວກເຮົາໄດ້ເບິ່ງນັກຂຽນຂອງ
+ປື້ມເຫຼົ່ານັ້ນຈາກຊັ້ນລຸ່ມ.
+
+403
+00:42:26,291 --> 00:42:30,806
+Any history they had prior to publication is sketchy, or nonexistent.
+ປະຫວັດສາດໃດໆທີ່ພວກເຂົາມີກ່ອນ
+ການເຜີຍແຜ່ແມ່ນ sketchy ,ຫຼືບໍ່ມີ.
+
+404
+00:42:30,931 --> 00:42:36,720
+Some of the publishers are out of business, but I reached three. None of them had any contact information for the author.
+ຜູ້ເຜີຍແຜ່ບາງຄົນບໍ່ໄດ້ເຮັດທຸລະກິດ,ແຕ່ຂ້ອຍໄດ້ບັນລຸສາມ
+ຄົນ.ບໍ່ມີໃຜໃນພວກເຂົາມີຂໍ້ມູນຕິດຕໍ່ໃດໆສໍາລັບຜູ້ຂຽນ.
+
+405
+00:42:36,845 --> 00:42:41,406
+Each guy vanished with no forwarding address within a couple of years of publication.
+ແຕ່ລະຄົນຫາຍໄປໂດຍບໍ່ມີທີ່ຢູ່ສົ່ງ
+ຕໍ່ພາຍໃນສອງສາມປີຂອງການເຜີຍແຜ່.
+
+406
+00:42:41,532 --> 00:42:45,102
+"Jonathan Evermore"? He wrote the sci-fi novel "Everlasting Tomorrow,"
+ໂຈນາຕັນເອເວີມໍ?ລາວຂຽນນະວະນິຍາຍ
+ິທະຍາສາດ "Everlasting Tomorrow" ,
+
+407
+00:42:45,228 --> 00:42:48,186
+about an "immortal's search for the meaning of his solitary existence".
+ກ່ຽວກັບ"ການຊອກຫາຂອງຄົນບໍ່ຕາຍເພື່ອ
+ຄວາມໝາຍຂອງການມີຢູ່ຄົນດຽວຂອງລາວ".
+
+408
+00:42:48,311 --> 00:42:51,803
+So I called Bantam and told them I was his granddaughter, looking for his royalty payments.
+ສະນັ້ນຂ້ອຍຈຶ່ງໂທຫາແບນທາມແລະບອກພວກເຂົາວ່າຂ້ອຍ
+ເປັນລູກສາວຂອງລາວ,ຊອກຫາການຈ່າຍຄ່າຊັບສິນຂອງລາວ.
+
+409
+00:42:51,928 --> 00:42:57,778
+She said she was so happy I called, since they've been piling up since 1966.
+ນາງເວົ້າວ່ານາງດີໃຈຫຼາຍທີ່ຂ້ອຍໂທ,ເນື່ອງຈາກ
+ວ່າພວກເຂົາກໍາລັງເພີ່ມຂື້ນຕັ້ງແຕ່ປີ 1966 .
+
+410
+00:42:57,903 --> 00:43:01,452
+No, asshole. We're not taking his money.
+ບໍ່,ຄົນໂຊກຮ້າຍ.ພວກເຮົາ
+ຈະບໍ່ເອົາເງິນຂອງລາວ.
+
+411
+00:43:02,165 --> 00:43:05,078
+-
+- Guys, we're just gonna leave all that money?
+-ພວກຜູ້ຊາຍ,ພວກເຮົາພຽງແຕ່
+ຈະປ່ອຍເງິນທັງໝົດນັ້ນບໍ?
+
+412
+00:43:28,383 --> 00:43:32,357
+Isn't it weird? Every time someone claims to have been reincarnated,
+ມັນແປກໃຈບໍ່?ທຸກຄັ້ງທີ່
+ຄົນໃດອ້າງວ່າຖືກເກີດໃໝ່,
+
+413
+00:43:32,483 --> 00:43:36,538
+they were always Napoleon, you know? Alexander the Great. Cleopatra.
+ພວກເຂົາເປັນນາໂປເລນຢູ່ສະເໝີ,ເຈົ້າຮູ້ບໍ
+?ອາເລັກຊານເດີຍ໌ທີ່ຍິ່ງໃຫຍ່.ຄລີໂອບາຕຣາ.
+
+414
+00:43:36,664 --> 00:43:43,409
+It's never the slave who cleaned out Cleopatra's chamber pot. Or the guy making chamber pots.
+ມັນບໍ່ເຄີຍເປັນຄົນໃຊ້ທີ່ເຮັດຄວາມສະອາດກະຕ່າ
+ຫ້ອງຂອງຄລີໂອບາຕຣາ.ຫຼືຜູ້ຊາຍທີ່ເຮັດກະຕູ້ຫ້ອງ.
+
+415
+00:43:43,535 --> 00:43:46,497
+"John Oldman" said he knew the Buddha. Sailed with Columbus.
+ຈອນໂອລດແມນເວົ້າວ່າລາວຮູ້ຈັກ
+ພະພຸດທະເຈົ້າ.ໄດ້ເດີນເຮືອກັບໂຄລໍາບັສ.
+
+416
+00:43:46,622 --> 00:43:49,541
+No, he didn't actually sail with Columbus.
+ບໍ່, ລາວບໍ່ໄດ້ເດີນເຮືອກັບໂຄລໍາບັສແທ້ໆ.
+
+417
+00:43:50,212 --> 00:43:52,321
+I read the book, dude.
+ຂ້ອຍອ່ານປື້ມແລ້ວ, ເພື່ອນ.
+
+418
+00:43:53,618 --> 00:43:56,173
+C'mon, get in there. There you go.
+ມາແລ້ວ,ເຂົ້າໄປບ່ອນນັ້ນ
+.ນັ້ນແມ່ນເຈົ້າ.
+
+419
+00:43:56,712 --> 00:44:01,637
+So, eh... Did you saw it? The Van Gogh?
+ສະນັ້ນ,ເອ້...ເຈົ້າ
+ເຫັນມັນບໍ?ວານໂກກ?
+
+420
+00:44:04,078 --> 00:44:06,922
+You starting to believe a little bit.
+ເຈົ້າເລີ່ມເຊື່ອເລັກນ້ອຍ.
+
+421
+00:44:07,048 --> 00:44:12,106
+Look, just ‘cause a guy is fourteen thousand years old, it doesn't make him Jesus.
+ເບິ່ງ,ພຽງແຕ່ຍ້ອນວ່າຜູ້ຊາຍອາຍຸສິບສີ
+່ພັນປີ,ມັນບໍ່ເຮັດໃຫ້ລາວເປັນພຣະເຢຊູ.
+
+422
+00:44:14,009 --> 00:44:16,867
+He could be the guy who made the nails for the cross.
+ລາວອາດຈະເປັນຄົນທີ່
+ເຮັດດອກໄມ້ສໍາລັບຂ້າມ.
+
+423
+00:44:20,489 --> 00:44:24,437
+- I was Malcolm X in my past life.
+- Yeah, for sure.
+- ຂ້ອຍເປັນແມລຄອມ ເອັກສ໌ໃນຊີວິດທີ່ຜ່ານມາຂອງຂ້ອຍ.
+- ແມ່ນແລ້ວ, ແນ່ນອນ.
+
+424
+00:44:38,881 --> 00:44:45,056
+Hello, Dr. Jenkins, if this is you. And if it's not you, I apologize for the wrong number, whoever this is.
+ສະບາຍດີດຣເຈນກິນສ໌,ຖ້ານີ້ແມ່ນເຈົ້າ.ແລະຖ້າມັນບໍ່ແມ່ນເຈົ້າ
+,ຂ້ອຍຂໍໂທດສໍາລັບເບີທີ່ບໍ່ຖືກຕ້ອງ,ບໍ່ວ່າຄົນນີ້ແມ່ນໃຜ.
+
+425
+00:44:45,181 --> 00:44:48,642
+So Dr. Jenkins, my name is Isabel Chang.
+ສະນັ້ນດຣເຈນກິນສ໌,
+ຂ້ອຍຊື່ວ່າອີຊາເບວແຊງ.
+
+426
+00:44:48,859 --> 00:44:55,273
+I do apologize for calling so late, although I did try emailing. Anyway, here's the thing.
+ຂ້ອຍຂໍໂທດທີ່ໂທຊ້າຫຼາຍ,ເຖິງແມ່ນວ່າຂ້ອຍໄດ້
+ພະຍາຍາມອີເມວ.ຢ່າງໃດກໍ່ຕາມ,ນີ້ແມ່ນເລື່ອງ.
+
+427
+00:44:55,399 --> 00:45:01,572
+I believe my professor is John Oldman. He's going by the name John Young, here at Chico.
+ຂ້ອຍເຊື່ອວ່າສາດສະດາຈານຂອງຂ້ອຍແມ່ນຈອນໂອລດ
+ແມນ.ລາວໄປດ້ວຍຊື່ຈອນຢົງ,ຢູ່ບ່ອນນີ້ໃນ Chico .
+
+428
+00:45:02,663 --> 00:45:08,593
+Please call me back if you can, okay? I really, really would love to talk with you.
+ກະລຸນາໂທຫາຂ້ອຍຄືນຖ້າເຈົ້າສາມາດເຮັດໄດ້
+,ດີບໍ?ຂ້ອຍຢາກເວົ້າກັບເຈົ້າແທ້ໆ.
+
+429
+00:45:08,719 --> 00:45:13,417
+I know you took a lot of crap for your book, and I just want you to know...
+ຂ້ອຍຮູ້ວ່າເຈົ້າໄດ້ຮັບຄວາມໂຊກຮ້າຍຫຼາຍສໍາລັບ
+ປື້ມຂອງທ່ານ,ແລະຂ້ອຍພຽງແຕ່ຢາກໃຫ້ເຈົ້າຮູ້...
+
+430
+00:45:14,050 --> 00:45:19,234
+I believe you. There is something different about John Young.
+ຂ້ອຍເຊື່ອເຈົ້າ.ມີບາງສິ່ງບາງຢ່າງ
+ທີ່ແຕກຕ່າງກັນກ່ຽວກັບຈອນຢອງ.
+
+431
+00:45:19,359 --> 00:45:25,620
+My number's 530-555-0168. Thank you.
+ເບີຂອງຂ້ອຍແມ່ນ 530-555-0168. ຂອບໃຈ.
+
+432
+00:47:25,191 --> 00:47:30,136
+Okay, thank you. We will fax that right over.
+ດີແລ້ວ,ຂອບໃຈ.ພວກເຮົາ
+ຈະສົ່ງຟັກສ໌ມັນມາທັນທີ.
+
+433
+00:47:30,262 --> 00:47:34,855
+Another one? Fax... God, what year is this, anyway?
+ອີກໜຶ່ງ?ຟັກສ໌...ພຣະເຈົ້າ
+,ນີ້ແມ່ນປີໃດ,ຢ່າງໃດກໍຕາມ?
+
+434
+00:47:45,402 --> 00:47:50,316
+- I'm calling about your email.
+- Yes. Who is this?
+- ຂ້ອຍໂທກ່ຽວກັບອີເມວຂອງທ່ານ.
+- ແມ່ນແລ້ວ. ນີ້ແມ່ນໃຜ?
+
+435
+00:47:50,441 --> 00:47:53,160
+This is Violet Collsen.
+ນີ້ແມ່ນວິໂອເລຕ໌ ຄໍລເຊນ.
+
+436
+00:47:55,855 --> 00:48:00,333
+- I'm sorry. Violet...?
+- Collsen. From Central Idaho College.
+- ຂ້ອຍຂໍໂທດ. ວາຍໂລຕ໌...?
+- ຄໍລເຊນ. ຈາກວິທະຍາໄລໄອດາໂຮກາງ.
+
+437
+00:48:00,459 --> 00:48:07,341
+I've been retired for many years now, and my daughter works at the college in admissions just like I did.
+ຂ້ອຍໄດ້ບໍານານມາຫຼາຍປີແລ້ວ,ແລະລູກສາວຂອງຂ້ອຍ
+ເຮັດວຽກຢູ່ວິທະຍາໄລໃນການເຂົ້າຮຽນຄືກັນກັບຂ້ອຍ.
+
+438
+00:48:07,466 --> 00:48:11,886
+But it was the funniest thing the other day. She was working at home...
+ແຕ່ມັນເປັນສິ່ງທີ່ມ່ວນທີ່ສຸດໃນ
+ມື້ອື່ນ.ນາງກໍາລັງເຮັດວຽກຢູ່ເຮືອນ...
+
+439
+00:48:12,011 --> 00:48:17,451
+and I walked passed her desk just when your email came.
+ແລະຂ້ອຍຍ່າງຜ່ານໂຕະຂອງ
+ນາງເມື່ອອີເມວຂອງທ່ານມາ.
+
+440
+00:48:17,576 --> 00:48:22,984
+Well, I saw the photo and recognized him immediately.
+ດີ, ຂ້ອຍເຫັນຮູບແລະຮູ້ຈັກລາວທັນທີ.
+
+441
+00:48:23,690 --> 00:48:26,569
+- You did?
+- Yes, John Pleis.
+- ເຈົ້າເຮັດບໍ?
+- ແມ່ນແລ້ວ, ຈອນ ປເລສ.
+
+442
+00:48:26,694 --> 00:48:31,533
+He was a remarkable man. You just never forget that kind of a person.
+ລາວເປັນຜູ້ຊາຍທີ່ຍິ່ງໃຫຍ່.ເຈົ້າ
+ພຽງແຕ່ບໍ່ເຄີຍລືມຄົນປະເພດນັ້ນເລີຍ.
+
+443
+00:48:31,658 --> 00:48:36,792
+- What do you remember about him?
+- Well, he was the best anthropology professor we ever had.
+- ເຈົ້າຈື່ຫຍັງກ່ຽວກັບລາວ?
+- ດີ, ລາວເປັນອາຈານວິທະຍາສາດມະນຸດສະທໍາທີ່ດີທີ່ສຸດທີ່ພວກເຮົາເຄີຍມີ.
+
+444
+00:48:36,917 --> 00:48:42,126
+He just had a way about him. You felt you could tell him your secrets.
+ລາວພຽງແຕ່ມີວິທີກ່ຽວກັບລາວ.ເຈົ້າຮູ້ສຶກ
+ວ່າເຈົ້າສາມາດບອກລາວຄວາມລັບຂອງທ່ານໄດ້.
+
+445
+00:48:42,251 --> 00:48:47,214
+- And he always had the best advice.
+- This was how long ago?
+- ແລະລາວມີຄໍາແນະນໍາທີ່ດີທີ່ສຸດຢູ່ສະເໝີ.
+- ນີ້ແມ່ນເມື່ອຫຼາຍປານໃດແລ້ວ?
+
+446
+00:48:48,156 --> 00:48:51,927
+Oh, that's about 1957?
+ໂອ້, ນັ້ນແມ່ນປະມານປີ 1957 ບໍ?
+
+447
+00:48:52,052 --> 00:48:58,227
+- And you remember him clearly?
+- Oh, yeah. He was a very handsome man, too.
+- ແລະເຈົ້າຈື່ລາວຢ່າງຈະແຈ້ງບໍ?
+- ໂອ້, ແມ່ນແລ້ວ. ລາວເປັນຜູ້ຊາຍທີ່ສວຍງາມຫຼາຍເຊັ່ນກັນ.
+
+448
+00:48:59,229 --> 00:49:01,311
+John Pleis?
+ຈອນ ປເລສ?
+
+449
+00:49:01,437 --> 00:49:07,150
+P-l-e-i-s. Funny name, kind of sticks in your head.
+P-l-e-i-s .ຊື່ທີ່ມ່ວນຊື່ນ,
+ບາງຢ່າງຕິດຢູ່ໃນຫົວຂອງທ່ານ.
+
+450
+00:49:07,276 --> 00:49:10,821
+I tried to see what else I could find before calling you...
+ຂ້ອຍພະຍາຍາມເບິ່ງວ່າຂ້ອຍສາມາດ
+ພົບຫຍັງອີກກ່ອນທີ່ຈະໂທຫາເຈົ້າ...
+
+451
+00:49:10,947 --> 00:49:16,723
+- and there was nothing. He just disappeared.
+- Yes, he does that.
+- ແລະບໍ່ມີຫຍັງເລີຍ. ລາວພຽງແຕ່ຫາຍໄປ.
+- ແມ່ນແລ້ວ, ລາວເຮັດແບບນັ້ນ.
+
+452
+00:49:16,848 --> 00:49:21,956
+Well, thank you so much, Ms. Collsen. This is your number if I have any more questions?
+ດີ,ຂອບໃຈຫຼາຍໆ,ນາງຄໍລເຊນ.ນີ້ແມ່ນ
+ເບີຂອງທ່ານຖ້າຂ້ອຍມີຄໍາຖາມອີກບໍ?
+
+453
+00:49:22,081 --> 00:49:26,128
+- Great. Well, thank you so much. Goodbye then.
+- Goodbye.
+- ດີເລີດ. ດີ, ຂອບໃຈຫຼາຍໆ. ສະບາຍດີຫຼັງຈາກນັ້ນ.
+- ສະບາຍດີ.
+
+454
+00:49:27,323 --> 00:49:30,664
+- Pleis. Pleistocene?
+-
+- ຂໍຮ້ອງ. Pleistocene ບໍ?
+
+455
+00:49:30,790 --> 00:49:37,723
+Okay. So we have contacted what, sixty small colleges in fourteen states and this was our second hit so far.
+ດີແລ້ວ.ສະນັ້ນພວກເຮົາໄດ້ຕິດຕໍ່ຫຍັງ,ວິທະຍາໄລນ້ອຍຫົກສິບໃນລັດ
+ສິບສີ່ແລະນີ້ແມ່ນການຕີຄັ້ງທີສອງຂອງພວກເຮົາຈົນເຖິງປະຈຸບັນ.
+
+456
+00:49:38,024 --> 00:49:41,924
+Professor Young is a dead ringer for teachers in Idaho and...
+ສາດສະດາຈານຢອງເປັນຄົນຕາຍສໍ
+າລັບຄູອາຈານໃນໄອດາໂຮແລະ...
+
+457
+00:49:42,049 --> 00:49:46,690
+Western Wyoming. John Mortem, archaeology, 1979.
+ວາຍອອມິງຕາເວັນຕົກ.ຈອນມອດ
+ເຕມ,ວັດຖຸບູຮານສາດ,ປີ 1979 .
+
+458
+00:49:50,319 --> 00:49:52,745
+- Isabel Chang?
+-
+- ອີຊາເບວ ແຊງ?
+
+459
+00:49:52,870 --> 00:49:58,410
+- This is Arthur Jenkins. You've been trying to reach me.
+- I have, yes.
+- ນີ້ແມ່ນແອດເຕີ ເຈນກິນສ໌. ເຈົ້າ ກໍາ ລັງພະຍາຍາມຕິດຕໍ່ຫາຂ້ອຍ.
+- ຂ້ອຍເຮັດແລ້ວ, ແມ່ນແລ້ວ.
+
+460
+00:49:58,535 --> 00:50:03,539
+Get me a picture. A new, clean picture. Email it, or text it to this number.
+ເອົາຮູບໃຫ້ຂ້ອຍ.ຮູບໃໝ່,ສະອາດ.ສົ່ງອ
+ີເມວມັນ,ຫຼືສົ່ງຂໍ້ຄວາມມັນຫາເບີນີ້.
+
+461
+00:50:03,665 --> 00:50:06,501
+- I emailed that one...
+-
+- ຂ້ອຍໄດ້ສົ່ງອີເມວຄົນນັ້ນ...
+
+462
+00:50:06,627 --> 00:50:12,006
+Brand-new, full face. Do that and we'll see. Otherwise, we have nothing to talk about.
+ໜ້າໃໝ່ຢ່າງເຕັມທີ່.ເຮັດແບບນັ້ນແລະພວກເຮົາຈະເຫັນ.
+ຖ້າບໍ່ດັ່ງນັ້ນ,ພວກເຮົາມີຫຍັງທີ່ຈະເວົ້າກ່ຽວກັບ.
+
+463
+00:50:12,132 --> 00:50:15,260
+Thank you so much, Dr. Jenkins. I'm so grateful...
+ຂອບໃຈຫຼາຍໆ,ດຣເຈນກິນ
+ສ໌.ຂ້ອຍຂອບໃຈຫຼາຍ...
+
+464
+00:50:30,383 --> 00:50:33,251
+Hey, Professor. We know we're early, but...
+ເຮ້,ສາດສະດາຈານ.ພວກເຮົາ
+ຮູ້ວ່າພວກເຮົາໄວແລ້ວ,ແຕ່...
+
+465
+00:50:33,376 --> 00:50:39,118
+It's the last class, and we don't have you next semester. So we thought we'd have a little goodbye party.
+ມັນເປັນຫ້ອງຮຽນສຸດທ້າຍ,ແລະພວກເຮົາບໍ່ມີເຈົ້າໃນ semester
+ຕໍ່ໄປ.ສະນັ້ນພວກເຮົາຄິດວ່າພວກເຮົາຈະມີງານລ້ຽງອວຍພອນນ້ອຍໆ.
+
+466
+00:50:39,243 --> 00:50:42,446
+- I'm not going anywhere, you know.
+- We know. But...
+- ຂ້ອຍຈະບໍ່ໄປໃສເລີຍ, ເຈົ້າຮູ້ແລ້ວ.
+- ພວກເຮົາຮູ້ແລ້ວ. ແຕ່...
+
+467
+00:50:42,571 --> 00:50:46,707
+- Here. Cappuccino.
+- My weakness. Thank you.
+- ມາແລ້ວ. ຄັບປູຊິນໂກ້.
+- ຄວາມອ່ອນແອຂອງຂ້ອຍ. ຂອບໃຈ.
+
+468
+00:50:46,833 --> 00:50:48,797
+Quick, picture.
+ໄວໆ, ຮູບ.
+
+469
+00:50:53,887 --> 00:50:57,469
+- Wait, can we go again?
+- You know the rules.
+- ລໍຖ້າ, ພວກເຮົາສາມາດໄປອີກໄດ້ບໍ?
+- ເຈົ້າຮູ້ກົດລະບຽບ.
+
+470
+00:50:57,731 --> 00:50:59,864
+Real quick.
+ໄວແທ້ໆ.
+
+471
+00:51:03,168 --> 00:51:09,013
+Okay, class has begun. Take your seats. Cellphones off. And thank you for the coffee.
+ດີແລ້ວ,ຫ້ອງຮຽນໄດ້ເລີ່ມຕົ້ນແລ້ວ.ເອົາບ່ອນນັ່ງ
+ຂອງທ່ານ.ໂທລະສັບມືຖືປິດ.ແລະຂອບໃຈສໍາລັບກາເຟ.
+
+472
+00:51:15,317 --> 00:51:17,197
+Cellphones off.
+ໂທລະສັບມືຖືປິດ.
+
+473
+00:51:21,326 --> 00:51:24,298
+- I knew it.
+- He did it on purpose.
+- ຂ້ອຍຮູ້ແລ້ວ.
+- ລາວເຮັດມັນດ້ວຍຈຸດປະສົງ.
+
+474
+00:51:24,423 --> 00:51:27,590
+I'm sure of it, man. He didn't want his picture taken so he messed up both shots.
+ຂ້ອຍແນ່ໃຈວ່າ,ຜູ້ຊາຍ.ລາວບໍ່ຢາກໃຫ້ຖ່າຍຮູບ
+ລາວສະນັ້ນລາວເຮັດໃຫ້ການຍິງທັງສອງຜິດພາດ.
+
+475
+00:51:27,715 --> 00:51:31,697
+I guess after fourteen thousand years, you learn a thing or two about hiding.
+ຂ້ອຍຄິດວ່າຫຼັງຈາກສິບສີ່ພັນປີ,ເຈົ້າຈະຮຽນ
+ຮູ້ບາງສິ່ງບາງຢ່າງກ່ຽວກັບການເຊື່ອງໄວ້.
+
+476
+00:51:31,822 --> 00:51:36,208
+- But these days, there's cameras everywhere.
+- He won't be able to hide anymore.
+- ແຕ່ໃນມື້ນີ້, ມີກ້ອງຖ່າຍຮູບຢູ່ທຸກບ່ອນ.
+- ລາວຈະບໍ່ເຊື່ອງໄວ້ໄດ້ອີກຕໍ່ໄປ.
+
+477
+00:51:36,333 --> 00:51:42,994
+Whatever he's been doing all these years, changing his identity... I mean, it's over. Time's up. Don't you see?
+ບໍ່ວ່າລາວຈະເຮັດຫຍັງຕະຫຼອດປີ,ການປ່ຽນແປງຕົວຕົນຂອງລາວ...
+ຂ້ອຍໝາຍຄວາມວ່າມັນໝົດແລ້ວ.ເວລາໝົດໄປແລ້ວ.ເຈົ້າບໍ່ເຫັນບໍ?
+
+478
+00:51:43,119 --> 00:51:45,520
+What do you suggest?
+ເຈົ້າແນະ ນໍາ ຫຍັງ?
+
+479
+00:51:45,645 --> 00:51:49,349
+Maybe we just talk to him. Tell him the truth.
+ບາງທີພວກເຮົາພຽງແຕ່
+ເວົ້າກັບລາວ.ບອກລາວຄວາມຈິງ.
+
+480
+00:51:49,474 --> 00:51:52,763
+- What truth?
+- That we know who he is.
+- ຄວາມຈິງໃດ?
+- ວ່າພວກເຮົາຮູ້ວ່າລາວເປັນໃຜ.
+
+481
+00:51:52,888 --> 00:51:57,229
+Based on a discredited book by a lonely old crank and some circumstantial evidence?
+ອີງຕາມປື້ມທີ່ຖືກລະເມີດໂດຍຄົນໂຊກຮ້າຍເກົ
+່າຄົນດຽວແລະຫຼັກຖານທາງອ້ອມຂ້າງບາງຢ່າງບໍ?
+
+482
+00:51:57,354 --> 00:52:03,450
+We are not crazy people. There is something special about John.
+ພວກເຮົາບໍ່ແມ່ນຄົນໂຊກຮ້າຍ.ມີ
+ບາງສິ່ງບາງຢ່າງພິເສດກ່ຽວກັບຈອນ.
+
+483
+00:52:03,575 --> 00:52:07,434
+We all knew it the first time we heard him speak. Right?
+ພວກເຮົາທຸກຄົນຮູ້ມັນໃນຄັ້ງທໍາອິດ
+ທີ່ພວກເຮົາໄດ້ຍິນລາວເວົ້າ.ແມ່ນບໍ?
+
+484
+00:52:09,340 --> 00:52:16,254
+All throughout history there have been prophets, visionaries. Men and women touched by God.
+ຕະຫຼອດປະຫວັດສາດມີຜູ້ທໍານາຍ,ຜູ້ມີວິໄສທັດ
+ຜູ້ຊາຍແລະແມ່ຍິງທີ່ຖືກດຶງດູດໂດຍພຣະເຈົ້າ.
+
+485
+00:52:16,380 --> 00:52:21,928
+Who's to say John Young isn't one of these people? Why is that so impossible?
+ໃຜຈະເວົ້າວ່າຈອນຢົງບໍ່ແມ່ນຄົນໜຶ່ງໃນຄົນເຫຼົ່
+ານີ້?ເປັນຫຍັງມັນຈຶ່ງບໍ່ສາມາດເຮັດໄດ້ຫຼາຍ?
+
+486
+00:52:22,053 --> 00:52:24,849
+Well, it sure isn't likely.
+ດີ, ມັນແນ່ນອນວ່າບໍ່ເປັນໄປໄດ້.
+
+487
+00:52:24,974 --> 00:52:28,583
+I'm not saying he's the "son of God".
+ຂ້ອຍບໍ່ໄດ້ເວົ້າວ່າລາວ
+ເປັນ"ລູກຊາຍຂອງພຣະເຈົ້າ".
+
+488
+00:52:28,709 --> 00:52:34,652
+But if he is fourteen thousand years old, he's the wisest man in the world. In history.
+ແຕ່ຖ້າລາວອາຍຸສິບສີ່ພັນປີ,ລາວເປັນຜູ້
+ຊາຍທີ່ສະຫຼາດທີ່ສຸດໃນໂລກ.ໃນປະຫວັດສາດ.
+
+489
+00:52:34,777 --> 00:52:40,043
+- He should be listened to. Followed.
+- Worshipped? Is that what you're gonna say?
+- ລາວຄວນຖືກຟັງ. ຕິດຕາມ.
+- ເຈົ້າຈະເວົ້າແບບນັ້ນບໍ?
+
+490
+00:52:40,168 --> 00:52:43,051
+- There could be a whole new...
+- Religion?
+- ມັນອາດຈະມີຄົນໃໝ່ທັງ ໝົດ...
+- ສາສະໜາບໍ?
+
+491
+00:52:43,176 --> 00:52:46,285
+Or something, around him.
+ຫຼືບາງສິ່ງບາງຢ່າງ, ຢູ່ອ້ອມຂ້າງລາວ.
+
+492
+00:52:46,410 --> 00:52:52,347
+A corrective for everything everyone has gotten wrong about Jesus for the past 2000 years.
+ການແກ້ໄຂທຸກຢ່າງທີ່ທຸກຄົນເຂົ້າໃຈຜິດ
+ກ່ຽວກັບພຣະເຢຊູໃນໄລຍະ 2000 ປີທີ່ຜ່ານມາ.
+
+493
+00:52:52,473 --> 00:52:57,292
+If that story is true, then everything I've believed for half my life is a total lie.
+ຖ້າເລື່ອງນັ້ນເປັນຄວາມຈິງ,ຫຼັງຈາກນັ້ນທຸກຢ່າງທີ່ຂ້ອຍເຊື່ອ
+ເປັນເວລາເຄິ່ງໜຶ່ງຂອງຊີວິດຂອງຂ້ອຍແມ່ນຕົວະຢ່າງສົມບູນ.
+
+494
+00:52:57,418 --> 00:53:02,349
+Everything that millions and millions of people throughout history have believed, and lived and died for...
+ທຸກຢ່າງທີ່ຄົນຫຼາຍລ້ານຄົນໃນຕະຫຼອດປະຫວັດ
+ສາດໄດ້ເຊື່ອ,ແລະດໍາລົງຊີວິດແລະຕາຍເພື່ອ...
+
+495
+00:53:02,474 --> 00:53:06,056
+is total bullshit. So, no.
+ມັນເປັນຄວາມໂຊກຮ້າຍ
+ຢ່າງສົມບູນ.ສະນັ້ນ,ບໍ່.
+
+496
+00:53:12,473 --> 00:53:17,144
+Okay, okay. One clear picture of Professor Young's face, and that's it.
+ດີ,ດີ.ຮູບດຽວທີ່ສະອາດຂອງໃບໜ້າຂອງ
+ສາດສະດາຈານຢອງ,ແລະນັ້ນແມ່ນມັນ.
+
+497
+00:54:20,046 --> 00:54:23,261
+I'm not sure.
+ຂ້ອຍບໍ່ແນ່ໃຈ.
+
+498
+00:54:23,386 --> 00:54:27,971
+If it is John, he's changed.
+ຖ້າມັນແມ່ນຈອນ, ລາວໄດ້ປ່ຽນແປງແລ້ວ.
+
+499
+00:54:29,848 --> 00:54:32,065
+I need to speak with him.
+ຂ້ອຍຕ້ອງເວົ້າກັບລາວ.
+
+500
+00:54:32,190 --> 00:54:36,730
+Probably take me ten or eleven hours to make my way up there.
+ຂ້ອຍອາດຈະໃຊ້ເວລາສິບຫຼືສິບໜຶ່ງ
+ຊົ່ວໂມງເພື່ອຂຶ້ນໄປບ່ອນນັ້ນ.
+
+501
+00:54:39,797 --> 00:54:44,848
+Hey Betsy, I gotta hit the road for a few days, honey.
+ເຮ້ເບັດຊີ,ຂ້ອຍຕ້ອງອອກເດີນທາງ
+ເປັນເວລາສອງສາມມື້,ແຟນ.
+
+502
+00:54:45,790 --> 00:54:50,176
+But I'll have Suzanne come check on you though. Be a good girl.
+ແຕ່ຂ້ອຍຈະໃຫ້ຊູຊານມາກວດເບິ່ງເຈົ້າ
+ຢ່າງໃດກໍ່ຕາມ.ເປັນເດັກຍິງທີ່ດີ.
+
+503
+00:55:14,149 --> 00:55:19,981
+- Looks nasty.
+- I got sloppy. Stupid mistake.
+- ເບິ່ງຄືວ່າບໍ່ດີ.
+- ຂ້ອຍບໍ່ລະມັດລະວັງ. ຄວາມຜິດພາດທີ່ໂງ່.
+
+504
+00:55:21,141 --> 00:55:25,215
+What's up? Worried about your grade? 'Cause you shouldn't be, you did great.
+ມີຫຍັງເກີດຂຶ້ນ?ກັງວົນກ່ຽວກັບຄະແນນຂອງທ່ານບໍ
+?ເພາະວ່າເຈົ້າບໍ່ຄວນເປັນ,ເຈົ້າເຮັດໄດ້ດີເລີດ.
+
+505
+00:55:25,341 --> 00:55:29,103
+I don't know, it's not that. But thanks.
+ຂ້ອຍບໍ່ຮູ້, ມັນບໍ່ແມ່ນນັ້ນ. ແຕ່ຂອບໃຈ.
+
+506
+00:55:29,228 --> 00:55:31,910
+Then what's wrong? Was there something specific, Tara?
+ຫຼັງຈາກນັ້ນມີຫຍັງເກີດຂຶ້ນ?ມີ
+ບາງສິ່ງບາງຢ່າງສະເພາະບໍ,ຕາຣາ?
+
+507
+00:55:32,035 --> 00:55:39,000
+I wanted to apologize for yesterday. The pictures and everything. We're just really going to miss you.
+ຂ້ອຍຢາກຂໍໂທດສໍາລັບມື້ວານນີ້.ຮູບພາບແລະ
+ທຸກຢ່າງ.ພວກເຮົາພຽງແຕ່ຈະຂາດເຈົ້າແທ້ໆ.
+
+508
+00:55:39,125 --> 00:55:41,715
+That's okay. I'm going to miss you guys, too.
+ມັນບໍ່ເປັນຫຍັງ. ຂ້ອຍຈະຂາດເຈົ້າຄືກັນ.
+
+509
+00:55:44,227 --> 00:55:47,481
+I maybe don't act it, but...
+ຂ້ອຍອາດຈະບໍ່ສະແດງມັນ, ແຕ່...
+
+510
+00:55:48,711 --> 00:55:51,989
+I've been lonely most of my life.
+ຂ້ອຍເປັນຄົນໂດດດ່ຽວຕະຫຼອດຊີວິດຂອງຂ້ອຍ.
+
+511
+00:55:52,719 --> 00:55:58,103
+Boys only cared about... And the girls hated me because of it.
+ເດັກຊາຍພຽງແຕ່ສົນໃຈກ່ຽວກັບ...
+ແລະເດັກຍິງກຽດຊັງຂ້ອຍເພາະມັນ.
+
+512
+00:55:58,883 --> 00:56:03,197
+My parents' friends were always being creepy and...
+ເພື່ອນຂອງພໍ່ແມ່ຂອງຂ້ອຍແມ່ນ
+ເປັນຄົນຢ້ານກົວຢູ່ສະເໝີແລະ...
+
+513
+00:56:03,322 --> 00:56:10,156
+At some point you either become the person everybody thinks you are, or you just hide.
+ໃນຈຸດໃດໜຶ່ງເຈົ້າຈະກາຍເປັນຄົນທີ່ທຸກຄົນ
+ຄິດວ່າເຈົ້າເປັນ,ຫຼືເຈົ້າພຽງແຕ່ເຊື່ອງໄວ້.
+
+514
+00:56:10,883 --> 00:56:15,202
+I didn't want to hide, so... I'm sorry, I don't...
+ຂ້ອຍບໍ່ຢາກເຊື່ອງໄວ້,ສະນັ້ນ
+...ຂ້ອຍຂໍໂທດ,ຂ້ອຍບໍ່...
+
+515
+00:56:15,328 --> 00:56:17,129
+It's okay.
+ມັນບໍ່ເປັນຫຍັງ.
+
+516
+00:56:18,219 --> 00:56:21,916
+You're okay. You're okay.
+ເຈົ້າບໍ່ເປັນຫຍັງ. ເຈົ້າດີ.
+
+517
+00:56:22,041 --> 00:56:23,670
+What was that?
+ນັ້ນແມ່ນຫຍັງ?
+
+518
+00:56:26,840 --> 00:56:28,425
+You know you want me.
+ເຈົ້າຮູ້ວ່າເຈົ້າຢາກຂ້ອຍ.
+
+519
+00:56:28,551 --> 00:56:31,761
+Stop. Stop.
+ຢຸດຢັ້ງ. ຢຸດເຊົາ.
+
+520
+00:56:31,887 --> 00:56:36,307
+- You've been watching me for two years. Don't deny it.
+- You're my student.
+- ເຈົ້າ ກໍາ ລັງເບິ່ງຂ້ອຍເປັນເວລາສອງປີແລ້ວ. ຢ່າປະຕິເສດມັນ.
+- ເຈົ້າເປັນນັກຮຽນຂອງຂ້ອຍ.
+
+521
+00:56:36,433 --> 00:56:39,613
+It's okay. You're safe with me.
+ມັນບໍ່ເປັນຫຍັງ. ເຈົ້າປອດໄພກັບຂ້ອຍ.
+
+522
+00:56:39,739 --> 00:56:43,148
+I know who you are. I think it's amazing.
+ຂ້ອຍຮູ້ວ່າເຈົ້າເປັນໃຜ.
+ຂ້ອຍຄິດວ່າມັນຍິ່ງໃຫຍ່.
+
+523
+00:56:45,899 --> 00:56:50,822
+I don't know what you think you know about me, but I need you out of my office.
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າຄິດວ່າເຈົ້າຮູ້ຫຍັງກ່ຽວກັບຂ້ອຍ
+,ແຕ່ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າອອກຈາກຫ້ອງການຂອງຂ້ອຍ.
+
+524
+00:56:51,334 --> 00:56:55,840
+Fine, I'll make it easy for you.
+ດີ, ຂ້ອຍຈະເຮັດໃຫ້ມັນງ່າຍຕໍ່ເຈົ້າ.
+
+525
+00:56:55,965 --> 00:57:00,999
+- Do not make me call security.
+- And tell them what? That I assaulted you sexually?
+- ຢ່າເຮັດໃຫ້ຂ້ອຍໂທຫາຄວາມປອດໄພ.
+- ແລະບອກພວກເຂົາຫຍັງ? ວ່າຂ້ອຍໄດ້ໂຈມຕີເຈົ້າທາງເພດບໍ?
+
+526
+00:57:02,917 --> 00:57:05,770
+Tara, this isn't happening.
+ຕາຣາ, ນີ້ແມ່ນບໍ່ໄດ້ເກີດຂຶ້ນ.
+
+527
+00:57:07,422 --> 00:57:09,507
+- I'm sorry.
+- It's okay.
+- ຂ້ອຍຂໍໂທດ.
+- ມັນບໍ່ເປັນຫຍັງ.
+
+528
+00:57:30,133 --> 00:57:31,780
+Well, you can't.
+ດີ, ເຈົ້າບໍ່ສາມາດເຮັດໄດ້.
+
+529
+00:57:31,906 --> 00:57:37,159
+Spring semester starts in three weeks and you have two sections already filled.
+ລະດູໃບໄມ້ປົ່ງຈະເລີ່ມຕົ້ນໃນສາມອາທິດ
+ແລະເຈົ້າມີສອງພາກສ່ວນທີ່ເຕັມໄປແລ້ວ.
+
+530
+00:57:37,285 --> 00:57:39,665
+- I'm sorry.
+- Sorry?
+- ຂ້ອຍຂໍໂທດ.
+- ຂໍໂທດບໍ?
+
+531
+00:57:39,790 --> 00:57:43,696
+- I can recommend a replacement.
+- I can't replace you, John, you know that.
+- ຂ້ອຍສາມາດແນະ ນໍາ ຜູ້ແທນໄດ້.
+- ຂ້ອຍບໍ່ສາມາດທົດແທນເຈົ້າໄດ້, ຈອນ, ເຈົ້າຮູ້ແລ້ວ.
+
+532
+00:57:43,821 --> 00:57:50,840
+The students love you. Your classes filled in an hour. If you wanted to teach a third section that would sell out, too.
+ນັກຮຽນຮັກເຈົ້າ.ຫ້ອງຮຽນຂອງເຈົ້າເຕັມໄປໃນຊົ່ວໂມງ
+ໜຶ່ງ.ຖ້າເຈົ້າຢາກສອນພາກທີສາມທີ່ຈະຂາຍອອກເຊັ່ນກັນ.
+
+533
+00:57:50,966 --> 00:57:55,845
+- What's going on here?
+- Something's come up and I have to go.
+- ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+- ມີບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນແລະຂ້ອຍຕ້ອງໄປ.
+
+534
+00:57:55,970 --> 00:57:58,673
+- What?
+- It's personal.
+- ຫຍັງ?
+- ມັນເປັນເລື່ອງສ່ວນຕົວ.
+
+535
+00:57:58,798 --> 00:58:02,072
+- Look, I'll get Chandra and we can fix this...
+-
+-ເບິ່ງ,ຂ້ອຍຈະເອົາຊານດຣາແລະ
+ພວກເຮົາສາມາດແກ້ໄຂເລື່ອງນີ້ໄດ້...
+
+536
+00:58:02,197 --> 00:58:04,955
+I just have to go.
+ຂ້ອຍພຽງແຕ່ຕ້ອງໄປ.
+
+537
+00:58:06,915 --> 00:58:09,651
+Please, don't do this to me.
+ກະລຸນາ, ຢ່າເຮັດແບບນີ້ກັບຂ້ອຍ.
+
+538
+00:58:09,776 --> 00:58:12,654
+I regret it, Gill. Deeply, I do.
+ຂ້ອຍເສຍໃຈມັນ,ຈິລ.ຢ່າງ
+ເລິກເຊິ່ງ,ຂ້ອຍເຮັດ.
+
+539
+00:58:15,383 --> 00:58:18,827
+Obviously I can't give you a recommendation under these circumstances.
+ແນ່ນອນວ່າຂ້ອຍບໍ່ສາມາດແນະ
+ນໍາເຈົ້າໄດ້ໃນສະພາບການນີ້.
+
+540
+00:58:18,953 --> 00:58:22,705
+Anywhere you go, I'll have to tell them about this mess you're dumping in my lap.
+ເຈົ້າໄປໃສກໍ່ຕາມ,ຂ້ອຍຕ້ອງບອກພວກເຂົາກ່ຽວກັບ
+ຄວາມສັບສົນທີ່ທ່ານກໍາລັງຖິ້ມໃສ່ກະຕ່າຂອງຂ້ອຍ.
+
+541
+00:58:22,831 --> 00:58:25,335
+I understand.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+542
+00:58:25,461 --> 00:58:30,130
+Paperwork for the semester is all wrapped up? Grades logged, evaluations, all that?
+ເອກະສານສໍາລັບສົກຮຽນທັງໝົດແມ່ນສໍາເລັດແລ້ວບໍ
+?ຄະແນນບັນທຶກໄວ້,ການປະເມີນຜົນ,ທັງໝົດນັ້ນບໍ?
+
+543
+00:58:30,256 --> 00:58:34,801
+- Yes. The last couple of things, I'll take care of today.
+- You're leaving that soon?
+- ແມ່ນແລ້ວ. ສອງສາມສິ່ງສຸດທ້າຍ, ຂ້ອຍຈະເບິ່ງແຍງມື້ນີ້.
+- ເຈົ້າຈະອອກໄປໄວໆນີ້ບໍ?
+
+544
+00:58:36,852 --> 00:58:40,056
+I truly hope that eventually there are no hard feelings.
+ຂ້ອຍຫວັງຢ່າງແທ້ຈິງວ່າໃນທີ່ສຸດ
+ບໍ່ມີຄວາມຮູ້ສຶກຮ້າຍແຮງ.
+
+545
+00:58:42,321 --> 00:58:46,563
+I'll get over it. But this stinks.
+ຂ້ອຍຈະຜ່ານມັນໄປ. ແຕ່ສິ່ງນີ້ກິ່ນຫອມ.
+
+546
+00:58:46,844 --> 00:58:51,040
+I was hoping to give you my chair in five or six years.
+ຂ້ອຍຫວັງວ່າຈະໃຫ້ເຈົ້າ
+ຕັ່ງຂອງຂ້ອຍໃນຫ້າຫຼືຫົກປີ.
+
+547
+00:58:51,165 --> 00:58:53,658
+I'd have been honored to take it.
+ຂ້ອຍຈະເປັນກຽດຕິຍົດທີ່ຈະເອົາມັນ.
+
+548
+00:59:02,244 --> 00:59:07,947
+- What the hell were you thinking?
+- I don't know. I just... you know.
+- ເຈົ້າຄິດຫຍັງຢູ່?
+- ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍພຽງແຕ່... ເຈົ້າຮູ້ແລ້ວ.
+
+549
+00:59:08,072 --> 00:59:11,462
+- Okay, what else did he say?
+- Nothing.
+- ດີແລ້ວ, ລາວເວົ້າຫຍັງອີກ?
+- ບໍ່ມີຫຍັງເລີຍ.
+
+550
+00:59:12,807 --> 00:59:14,257
+But...
+ແຕ່...
+
+551
+00:59:15,572 --> 00:59:18,127
+What? What else?
+ຫຍັງອີກຫຍັງອີກ?
+
+552
+00:59:18,252 --> 00:59:22,932
+- I think I maybe spilled the beans a little bit.
+- What beans?
+- ຂ້ອຍຄິດວ່າຂ້ອຍອາດຈະຖິ້ມຖົ່ວເຫຼືອງ ໜ້ອຍ ໜຶ່ງ.
+- ໝາກ ໄມ້ໃດ?
+
+553
+00:59:23,284 --> 00:59:25,760
+That we know about him.
+ວ່າພວກເຮົາຮູ້ກ່ຽວກັບລາວ.
+
+554
+00:59:28,111 --> 00:59:31,213
+What exactly did you say?
+ເຈົ້າເວົ້າຫຍັງແທ້ໆ?
+
+555
+00:59:32,736 --> 00:59:36,080
+Well, I... Does it matter? If he knows that we know...
+ດີ,ຂ້ອຍ...ມັນມີຄວາມສໍາຄັນບໍ
+?ຖ້າລາວຮູ້ວ່າພວກເຮົາຮູ້...
+
+556
+00:59:36,205 --> 00:59:39,156
+Then he'll disappear for good.
+ຫຼັງຈາກນັ້ນລາວຈະຫາຍໄປຕະຫຼອດໄປ.
+
+557
+00:59:39,282 --> 00:59:44,674
+- Crap, Jenkins is on his way down here. He's on the road, right now.
+- Well, can you call him?
+- ສະບາຍດີ, ເຈນກິນສ໌ ກໍາ ລັງລົງມາບ່ອນນີ້. ລາວຢູ່ໃນທາງ, ດຽວນີ້.
+- ດີ, ເຈົ້າສາມາດໂທຫາລາວໄດ້ບໍ?
+
+558
+00:59:55,510 --> 00:59:57,166
+Voice mail.
+ຈົດໝາຍສຽງ.
+
+559
+00:59:59,213 --> 01:00:02,097
+Hey, Dr. Jenkins. It's Isabel Chang.
+ເຮ້, ດຣ ເຈນກິນສ໌. ມັນແມ່ນອີຊາເບວ ແຊງ.
+
+560
+01:00:02,222 --> 01:00:06,620
+Professor Young maybe knows we know and might be leaving here really soon.
+ສາດສະດາຈານ Young ບາງທີຮູ້ວ່າພວກເຮົາ
+ຮູ້ແລະອາດຈະອອກຈາກບ່ອນນີ້ໃນໄວໆນີ້.
+
+561
+01:00:06,745 --> 01:00:11,783
+Please let me know what time you're gonna get here. What we should do.
+ກະລຸນາບອກຂ້ອຍວ່າເຈົ້າຈະມາຮອດບ່ອນນີ້
+ໃນເວລາໃດ.ພວກເຮົາຄວນເຮັດແນວໃດ.
+
+562
+01:00:17,673 --> 01:00:20,979
+Let's find the guys. It's gonna be okay.
+ພວກເຮົາຈະຊອກຫາຜູ້ຊາຍ. ມັນຈະດີດີ.
+
+563
+01:00:23,244 --> 01:00:27,198
+- I knew it. I just knew it.
+-
+- ຂ້ອຍຮູ້ແລ້ວ. ຂ້ອຍພຽງແຕ່ຮູ້ມັນ.
+
+564
+01:00:27,323 --> 01:00:30,588
+What, stay calm? Don't get worked up? No, why would I?
+ຫຍັງ,ສະບາຍໃຈ?ຢ່າໂຊກຮ້າຍ?
+ບໍ່,ເປັນຫຍັງຂ້ອຍຈຶ່ງເຮັດ?
+
+565
+01:00:30,713 --> 01:00:36,581
+- I'm only asking that you...
+- Let you slip away quietly, no muss no fuss.
+- ຂ້ອຍພຽງແຕ່ຂໍໃຫ້ເຈົ້າ...
+- ໃຫ້ເຈົ້າລອຍໄປຢ່າງງຽບສະຫງົບ, ບໍ່ຈໍາເປັນຕ້ອງບໍ່ມີຄວາມວຸ້ນວາຍ.
+
+566
+01:00:36,706 --> 01:00:43,200
+- I've left you money, of course. I don't want you to be...
+- I don't need your fucking charity, John.
+- ຂ້ອຍໄດ້ປ່ອຍເງິນໃຫ້ເຈົ້າແລ້ວ, ແນ່ນອນ. ຂ້ອຍບໍ່ຢາກໃຫ້ເຈົ້າເປັນ...
+- ຂ້ອຍບໍ່ຕ້ອງການຄວາມໃຈບຸນຂອງທ່ານ, ຈອນ.
+
+567
+01:00:43,325 --> 01:00:45,432
+I have a job.
+ຂ້ອຍມີວຽກເຮັດ.
+
+568
+01:00:46,087 --> 01:00:48,111
+I need you.
+ຂ້ອຍຕ້ອງການເຈົ້າ.
+
+569
+01:00:50,166 --> 01:00:51,963
+I'm sorry.
+ຂ້ອຍຂໍໂທດ.
+
+570
+01:00:52,088 --> 01:00:57,193
+I don't understand why you're leaving. The explanation part got by me somehow.
+ຂ້ອຍບໍ່ເຂົ້າໃຈວ່າເປັນຫຍັງເຈົ້າອອກໄປ
+.ສ່ວນອະທິບາຍໄດ້ຜ່ານຂ້ອຍຢ່າງໃດກໍຕາມ.
+
+571
+01:00:58,541 --> 01:01:02,572
+I told you from the start that I would eventually move on.
+ຂ້ອຍບອກເຈົ້າຕັ້ງແຕ່ເລີ່ມຕົ້ນ
+ວ່າຂ້ອຍຈະຍ້າຍໄປຕໍ່ໄປໃນທີ່ສຸດ.
+
+572
+01:01:02,697 --> 01:01:06,884
+Yeah, but that's something people say. Like...
+ແມ່ນແລ້ວ,ແຕ່ມັນແມ່ນບາງສິ່ງ
+ບາງຢ່າງທີ່ຄົນເວົ້າ.ເຊັ່ນວ່າ...
+
+573
+01:01:07,009 --> 01:01:10,122
+"I hate dogs", "I'm never getting married", "I don't want kids".
+ຂ້ອຍກຽດຊັງໝາ,ຂ້ອຍຈະບໍ່
+ແຕ່ງງານເລີຍ,ຂ້ອຍບໍ່ຢາກມີລູກ.
+
+574
+01:01:10,248 --> 01:01:16,487
+People say that shit all the time, and guess what? Five years later they're married, with kids. And a dog.
+ຄົນເວົ້າເລື່ອງນັ້ນຕະຫຼອດເວລາ,ແລະຄິດວ່າຫຍັງ?
+ຫ້າປີຕໍ່ມາພວກເຂົາແຕ່ງງານແລ້ວ,ມີລູກ.ແລະມີໝາ.
+
+575
+01:01:16,612 --> 01:01:18,825
+Not me.
+ບໍ່ແມ່ນຂ້ອຍ.
+
+576
+01:01:18,950 --> 01:01:21,301
+Well, apparently not.
+ດີ, ເບິ່ງຄືວ່າບໍ່ແມ່ນ.
+
+577
+01:01:26,236 --> 01:01:30,643
+How can a man with so much passion be so cold?
+ຜູ້ຊາຍທີ່ມີຄວາມກະຕຸ້ນຫຼາຍ
+ປານໃດສາມາດເຢັນຫຼາຍໄດ້ບໍ?
+
+578
+01:01:31,580 --> 01:01:34,033
+What was this to you?
+ນີ້ແມ່ນຫຍັງຕໍ່ເຈົ້າ?
+
+579
+01:01:34,158 --> 01:01:36,557
+I've told you how I feel.
+ຂ້ອຍບອກເຈົ້າແລ້ວວ່າຂ້ອຍຮູ້ສຶກແນວໃດ.
+
+580
+01:01:38,259 --> 01:01:43,033
+Because I'm leaving does not mean that I don't care about you.
+ເພາະຂ້ອຍຈະອອກໄປບໍ່ໄດ້ໝາຍ
+ຄວາມວ່າຂ້ອຍບໍ່ສົນໃຈເຈົ້າ.
+
+581
+01:01:45,197 --> 01:01:48,454
+That's all I'm going to get out of you, isn't it?
+ນັ້ນແມ່ນທັງໝົດທີ່ຂ້ອຍຈະ
+ໄດ້ຮັບຈາກເຈົ້າ,ແມ່ນບໍ?
+
+582
+01:01:48,580 --> 01:01:50,509
+No, just save it.
+ບໍ່, ພຽງແຕ່ຮັກສາມັນໄວ້.
+
+583
+01:01:50,634 --> 01:01:56,044
+- I'll be back in a few days. I assume you'll be gone by then?
+-
+-ຂ້ອຍຈະກັບມາໃນສອງສາມມື້.ຂ້ອຍ
+ຄິດວ່າເຈົ້າຈະອອກໄປໃນເວລານັ້ນບໍ?
+
+584
+01:01:57,481 --> 01:02:00,590
+Well, Merry Christmas, John.
+ດີ, ສະບາຍດີຄຣິສມັສ, ຈອນ.
+
+585
+01:02:01,595 --> 01:02:03,721
+Thanks for everything.
+ຂອບໃຈ ສໍາ ລັບທຸກຢ່າງ.
+
+586
+01:02:17,017 --> 01:02:22,181
+- Well, just keep him there.
+- How are we supposed to do that?
+- ດີ, ພຽງແຕ່ຮັກສາລາວຢູ່ບ່ອນນັ້ນ.
+- ພວກເຮົາຄວນເຮັດແບບນັ້ນແນວໃດ?
+
+587
+01:02:22,306 --> 01:02:27,587
+I don't know. But just keep him there. I'm still about two hours away.
+ຂ້ອຍບໍ່ຮູ້.ແຕ່ພຽງແຕ່ຮັກສາລາວຢູ່ບ່ອນນັ້ນ
+.ຂ້ອຍຍັງຢູ່ຫ່າງຈາກປະມານສອງຊົ່ວໂມງ.
+
+588
+01:02:28,451 --> 01:02:31,462
+You can't get here any faster?
+ເຈົ້າບໍ່ສາມາດມາບ່ອນນີ້ໄດ້ໄວຂຶ້ນບໍ?
+
+589
+01:02:33,322 --> 01:02:36,459
+I can only go so fast.
+ຂ້ອຍສາມາດໄປໄດ້ໄວຫຼາຍເທົ່ານັ້ນ.
+
+590
+01:02:36,584 --> 01:02:40,713
+But don't tell him I'm coming. That'll only make him leave even faster.
+ແຕ່ຢ່າບອກລາວວ່າຂ້ອຍຈະມາ.ນັ້ນພຽງແຕ່
+ຈະເຮັດໃຫ້ລາວອອກໄປໄວກວ່າເກົ່າ.
+
+591
+01:02:41,447 --> 01:02:46,813
+- Alright. Do your best.
+- Yes, I will do my best.
+- ດີແລ້ວ. ເຮັດທຸກຢ່າງທີ່ດີທີ່ສຸດ.
+- ແມ່ນແລ້ວ, ຂ້ອຍຈະເຮັດທຸກຢ່າງທີ່ດີທີ່ສຸດ.
+
+592
+01:02:49,095 --> 01:02:53,059
+- Just keep him there? How?
+- We know where he lives.
+- ພຽງແຕ່ຮັກສາລາວຢູ່ບ່ອນນັ້ນບໍ? ແນວໃດ?
+- ພວກເຮົາຮູ້ວ່າລາວອາໄສຢູ່ໃສ.
+
+593
+01:02:53,184 --> 01:02:58,393
+Oh. You wanna go talk to him again? You think that's the best course of action right now?
+ໂອ້.ເຈົ້າຢາກໄປເວົ້າກັບລາວອີກບໍ?ເຈົ້າຄິດວ່າ
+ນັ້ນແມ່ນການກະທໍາທີ່ດີທີ່ສຸດໃນເວລານີ້ບໍ?
+
+594
+01:02:58,518 --> 01:03:02,485
+What choice do we have? If we don't go see him now, we'll never see him again.
+ພວກເຮົາມີທາງເລືອກຫຍັງ?ຖ້າພວກເຮົາບໍ່ໄປພົບ
+ລາວດຽວນີ້,ພວກເຮົາຈະບໍ່ເຫັນລາວອີກເທື່ອໜຶ່ງ.
+
+595
+01:03:04,580 --> 01:03:06,274
+Let's go.
+ໄປແລ້ວ.
+
+596
+01:03:42,400 --> 01:03:46,940
+Please don't leave yet. Just stay one more night. Have dinner with us.
+ກະລຸນາຢ່າອອກໄປເທື່ອ.ພຽງແຕ່ຢູ່ອີ
+ກຄືນໜຶ່ງ.ກິນອາຫານຄໍ່າກັບພວກເຮົາ.
+
+597
+01:03:47,065 --> 01:03:51,826
+- We only want to talk.
+- I think it's best for everybody if I hit the road now.
+- ພວກເຮົາພຽງແຕ່ຢາກເວົ້າເທົ່ານັ້ນ.
+- ຂ້ອຍຄິດວ່າມັນດີທີ່ສຸດ ສໍາ ລັບທຸກຄົນຖ້າຂ້ອຍໄປທາງດຽວນີ້.
+
+598
+01:03:51,951 --> 01:03:58,207
+- Please, professor. I have so many questions for you.
+- I'm sure my replacement will be at least as knowledgeable as I am.
+- ກະລຸນາ, ສາດສະດາຈານ. ຂ້ອຍມີຄໍາຖາມຫຼາຍຢ່າງຕໍ່ເຈົ້າ.
+- ຂ້ອຍແນ່ໃຈວ່າຜູ້ແທນຂອງຂ້ອຍຈະຮູ້ຢ່າງໜ້ອຍເທົ່າກັບຂ້ອຍ.
+
+599
+01:03:58,332 --> 01:04:00,634
+You know that's not what we mean.
+ເຈົ້າຮູ້ວ່ານັ້ນບໍ່ແມ່ນ
+ສິ່ງທີ່ພວກເຮົາໝາຍຄວາມວ່າ.
+
+600
+01:04:02,173 --> 01:04:04,495
+- I don't know what you want from me.
+- We don't want anything from you.
+- ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າຢາກຫຍັງຈາກຂ້ອຍ.
+- ພວກເຮົາບໍ່ຢາກມີຫຍັງຈາກເຈົ້າ.
+
+601
+01:04:04,620 --> 01:04:08,978
+- I want to learn from you.
+- This looks a lot more like stalking.
+- ຂ້ອຍຢາກຮຽນຮູ້ຈາກເຈົ້າ.
+- ນີ້ແມ່ນເບິ່ງຄືວ່າຄ້າຍຄືກັບການຕິດຕາມຫຼາຍ.
+
+602
+01:04:09,103 --> 01:04:11,262
+We read the book.
+ພວກເຮົາອ່ານປື້ມ.
+
+603
+01:04:16,509 --> 01:04:18,946
+Don't deny that you're John Oldman.
+ຢ່າປະຕິເສດວ່າເຈົ້າເປັນຈອນ ໂອລດແມນ.
+
+604
+01:04:25,278 --> 01:04:28,529
+I'm sorry. It's fiction.
+ຂ້ອຍຂໍໂທດ. ມັນເປັນເລື່ອງປອມ.
+
+605
+01:04:30,900 --> 01:04:37,298
+Yes, I knew Art Jenkins. And yes, we gathered at my cabin. And played a game.
+ແມ່ນແລ້ວ,ຂ້ອຍຮູ້ຈັກອາຣຕ໌ເຈນກິນສ໌.ແລະແມ່ນແລ້ວ,
+ພວກເຮົາໄດ້ເຕົ້າໂຮມກັນຢູ່ເຮືອນຂອງຂ້ອຍ.ແລະຫຼິ້ນເກມ.
+
+606
+01:04:37,423 --> 01:04:42,004
+A game. A bunch of eggheads playing intellectual charades.
+ເກມ.ກຸ່ມຄົນໂຊກຮ້າຍທີ່
+ຫຼິ້ນກະຕຸ້ນທາງປັນຍາ.
+
+607
+01:04:42,130 --> 01:04:44,477
+Maybe it went too far.
+ບາງທີມັນໄປໄກເກີນໄປ.
+
+608
+01:04:44,603 --> 01:04:48,841
+Art got angry and I guess this was his response.
+ອາຣຕ໌ໂຊກຮ້າຍແລະຂ້ອຍຄິດວ່າ
+ນີ້ແມ່ນການຕອບໂຕ້ຂອງລາວ.
+
+609
+01:04:49,220 --> 01:04:53,596
+And it's my understanding that things have not gone well for him since its publication.
+ແລະເປັນຄວາມເຂົ້າໃຈຂອງຂ້ອຍວ່າສິ່ງຕ່າງໆບໍ່ໄດ້
+ໄປດີສໍາລັບລາວນັບຕັ້ງແຕ່ການເຜີຍແຜ່ຂອງມັນ.
+
+610
+01:04:53,721 --> 01:04:57,719
+Early retirement. Laughed out of academia.
+ການບໍານານກ່ອນກໍານົດ.
+ມ່ວນຊື່ນຈາກສະຖາບັນວິທະຍາສາດ.
+
+611
+01:04:57,844 --> 01:05:02,656
+That can happen when you publish a science fiction novel as fact.
+ມັນອາດຈະເກີດຂຶ້ນເມື່ອເຈົ້າເຜີຍແຜ່
+ນະວະນິຍາຍວິທະຍາສາດເປັນຄວາມຈິງ.
+
+612
+01:05:02,782 --> 01:05:05,345
+You're saying it's all lies. That Jenkins just made the whole thing up.
+ເຈົ້າກໍາລັງເວົ້າວ່າມັນທັງໝົດແມ່ນຕົວະ
+.ວ່າເຈນກິນສ໌ຫາກໍ່ຄິດເລື່ອງທັງໝົດ.
+
+613
+01:05:05,470 --> 01:05:11,280
+I'm saying that just because you write a book and call it 'non-fiction' doesn't make it true.
+ຂ້ອຍເວົ້າວ່າພຽງແຕ່ຍ້ອນວ່າເຈົ້າຂຽນປື້ມແລະເອີ້ນມັນວ່າ
+'ບໍ່ເປັນເລື່ອງປອມ'ມັນບໍ່ໄດ້ເຮັດໃຫ້ມັນເປັນຄວາມຈິງ.
+
+614
+01:05:13,462 --> 01:05:15,705
+You're safe with us.
+ເຈົ້າປອດໄພກັບພວກເຮົາ.
+
+615
+01:05:15,830 --> 01:05:20,274
+We respect you and want to help you spread the word.
+ພວກເຮົາເຄົາລົບເຈົ້າແລະ
+ຢາກຊ່ວຍເຈົ້າເຜີຍແຜ່ຂ່າວ.
+
+616
+01:05:21,633 --> 01:05:24,321
+- What word?
+- The word...
+- ຄໍາໃດ?
+- ຄໍາວ່າ...
+
+617
+01:05:26,094 --> 01:05:27,830
+of God.
+ຂອງພຣະເຈົ້າ.
+
+618
+01:05:27,955 --> 01:05:32,696
+- You think I'm trying to spread the word of God?
+- Aren't you?
+- ເຈົ້າຄິດວ່າຂ້ອຍ ກໍາ ລັງພະຍາຍາມເຜີຍແຜ່ຄໍາຂອງພຣະເຈົ້າບໍ?
+- ເຈົ້າບໍ່ແມ່ນບໍ?
+
+619
+01:05:32,821 --> 01:05:35,846
+I am a teacher, not a preacher.
+ຂ້ອຍເປັນຄູ, ບໍ່ແມ່ນຜູ້ປະກາດ.
+
+620
+01:05:36,835 --> 01:05:41,759
+Jesus was a teacher. His last words were: "Go ye into the world and teach all nations." You said that.
+ພຣະເຢຊູເປັນຄູສອນ.ຄໍາເວົ້າສຸດທ້າຍຂອງລາວແມ່ນວ່າ:"
+ໄປສູ່ໂລກແລະສອນບັນດາຊາດທັງໝົດ."ເຈົ້າເວົ້າແບບນັ້ນ.
+
+621
+01:05:41,884 --> 01:05:44,297
+Maybe in class. I teach the Bible.
+ບາງທີໃນຫ້ອງຮຽນ. ຂ້ອຍສອນພຣະຄໍາພີ.
+
+622
+01:05:44,422 --> 01:05:49,735
+You are the living embodiment of Jesus Christ. You are Him. Always have been, and still are.
+ເຈົ້າເປັນຮ່າງກາຍທີ່ມີຊີວິດຂອງພຣະເຢຊູຄຣ
+ິດ.ເຈົ້າເປັນລາວ.ຕະຫຼອດເວລາ,ແລະຍັງເປັນ.
+
+623
+01:05:49,860 --> 01:05:53,364
+That is... what's the word I'm looking for? Nuts.
+ນັ້ນແມ່ນ...ຄໍາທີ່ຂ້ອຍກໍາ
+ລັງຊອກຫາແມ່ນຫຍັງ?ໝາກໄມ້.
+
+624
+01:05:54,769 --> 01:05:57,470
+I'm not even Christian.
+ຂ້ອຍບໍ່ແມ່ນຄຣິສຕຽນເລີຍ.
+
+625
+01:05:59,219 --> 01:06:01,747
+Were you, or were you not, Jesus?
+ເຈົ້າເປັນ, ຫຼືເຈົ້າບໍ່ແມ່ນ, ພຣະເຢຊູບໍ?
+
+626
+01:06:06,391 --> 01:06:11,853
+Whatever it is you kids are looking for, whatever it is you think I can tell you...
+ບໍ່ວ່າເປັນຫຍັງທີ່ພວກເຈົ້າກໍາລັງຊອກຫາ,ບໍ່ວ່າຈະ
+ເປັນຫຍັງທີ່ເຈົ້າຄິດວ່າຂ້ອຍສາມາດບອກເຈົ້າໄດ້...
+
+627
+01:06:12,743 --> 01:06:16,095
+You're going to have to find it somewhere else.
+ເຈົ້າຈະຕ້ອງຊອກຫາມັນຢູ່ບ່ອນອື່ນ.
+
+628
+01:06:18,012 --> 01:06:22,705
+Alright, professor. Have a good life.
+ດີແລ້ວ, ສາດສະດາຈານ. ມີຊີວິດທີ່ດີ.
+
+629
+01:06:22,831 --> 01:06:25,649
+A good, long life.
+ຊີວິດທີ່ດີແລະຍາວນານ.
+
+630
+01:06:37,329 --> 01:06:39,705
+- What did you do?
+- I just tried to keep him here.
+- ເຈົ້າເຮັດຫຍັງ?
+- ຂ້ອຍພຽງແຕ່ພະຍາຍາມຮັກສາລາວຢູ່ບ່ອນນີ້.
+
+631
+01:06:39,830 --> 01:06:43,235
+- So you killed him?
+- I didn't kill him. I tazed him. He hit his head.
+- ສະນັ້ນເຈົ້າໄດ້ຂ້າລາວບໍ?
+- ຂ້ອຍບໍ່ໄດ້ຂ້າລາວ. ຂ້ອຍໄດ້ສູບຢາລາວ. ລາວຕີຫົວຂອງລາວ.
+
+632
+01:06:43,360 --> 01:06:45,082
+Is he breathing?
+ລາວຫາຍໃຈບໍ?
+
+633
+01:06:50,009 --> 01:06:53,009
+- Yeah, he's alive.
+- You are a lunatic.
+- ແມ່ນແລ້ວ, ລາວຍັງມີຊີວິດຢູ່.
+- ເຈົ້າເປັນຄົນໂຊກຮ້າຍ.
+
+634
+01:06:53,134 --> 01:06:55,697
+- We have to call an ambulance.
+- Hang on, hang on. Wait.
+- ພວກເຮົາຕ້ອງໂທຫາລົດສຸກເສີນ.
+- ລໍຖ້າ, ລໍ ຖ້າ.ລໍຖ້າ.
+
+635
+01:06:55,822 --> 01:06:59,610
+What, you wanna make sure he's dead? You wanna be the guy who killed the immortal?
+ຫຍັງ,ເຈົ້າຢາກແນ່ໃຈວ່າລາວຕາຍແລ້ວບໍ
+?ເຈົ້າຢາກເປັນຄົນທີ່ຂ້າຄົນບໍ່ຕາຍບໍ?
+
+636
+01:07:02,350 --> 01:07:05,904
+- If Jenkins' story is true...
+- Then he's been through a lot worse.
+- ຖ້າເລື່ອງຂອງເຈນກິນສ໌ເປັນຄວາມຈິງ...
+- ຫຼັງຈາກນັ້ນລາວໄດ້ຜ່ານສິ່ງຮ້າຍແຮງກວ່າເກົ່າ.
+
+637
+01:07:06,029 --> 01:07:09,594
+You are insane. We have to get him to a doctor.
+ເຈົ້າໂຊກຮ້າຍ. ພວກເຮົາຕ້ອງພາລາວໄປຫາໝໍ.
+
+638
+01:07:11,150 --> 01:07:13,935
+- What did you take?
+- I'm sorry, I can't hear you.
+- ເຈົ້າກິນຫຍັງ?
+- ຂ້ອຍຂໍໂທດ, ຂ້ອຍບໍ່ໄດ້ຍິນເຈົ້າ.
+
+639
+01:07:14,061 --> 01:07:18,629
+- Art. Art Jenkins.
+- Dr. Jenkins. What's up?
+- Art. Art Jenkins.
+- ດຣ ເຈນກິນສ໌. ມີຫຍັງເກີດຂຶ້ນ?
+
+640
+01:07:18,755 --> 01:07:21,560
+My car died. Piece of crap.
+ລົດຂອງຂ້ອຍຕາຍແລ້ວ. ເປັນສິ່ງໂຊກຮ້າຍ.
+
+641
+01:07:21,685 --> 01:07:25,913
+I'm broken down by the side of the road. You didn't let John leave, did you? Please tell me you didn't.
+ຂ້ອຍແຕກແຍກຢູ່ແຄມທາງເຈົ້າບໍ່ໄດ້ປ່ອຍໃຫ້ຈອນອ
+ອກໄປແມ່ນບໍ?ກະລຸນາບອກຂ້ອຍວ່າເຈົ້າບໍ່ໄດ້ເຮັດ
+
+642
+01:07:26,038 --> 01:07:29,162
+He's still here. Where are you?
+ລາວຍັງຢູ່ບ່ອນນີ້. ເຈົ້າຢູ່ໃສ?
+
+643
+01:07:29,288 --> 01:07:34,423
+- I don't know. Red Bluff.
+- That's about an hour away.
+- ຂ້ອຍບໍ່ຮູ້. Red Bluff.
+- ນັ້ນແມ່ນຫ່າງຈາກປະມານ ໜຶ່ງ ຊົ່ວໂມງ.
+
+644
+01:07:35,235 --> 01:07:38,564
+- His car broke down in Red Bluff.
+-
+- ລົດຂອງລາວແຕກໃນ Red Bluff.
+
+645
+01:07:38,689 --> 01:07:43,391
+- Can you tell me exactly where you are?
+- It's where the 99 meets the 5.
+- ເຈົ້າບອກຂ້ອຍໄດ້ບໍວ່າເຈົ້າຢູ່ໃສແທ້ໆ?
+- ມັນເປັນບ່ອນທີ່ 99 ພົບກັບ 5.
+
+646
+01:07:43,516 --> 01:07:47,430
+There's a motel, and a lot of dirt.
+ມີໂຮງແຮມ, ແລະດິນຫຼາຍ.
+
+647
+01:07:47,555 --> 01:07:52,266
+- Can't he just take an Uber?
+- You guys go. I've got this.
+- ລາວບໍ່ສາມາດເອົາ Uber ໄດ້ບໍ?
+- ພວກເຈົ້າໄປ. ຂ້ອຍຮັບຜິດຊອບເລື່ອງນີ້.
+
+648
+01:07:52,391 --> 01:07:58,957
+Okay, Dr. Jenkins. We're gonna come pick you up. Just stay there. We're on our way. We'll call when we're close, okay?
+ດີແລ້ວດຣເຈນກິນສ໌ພວກເຮົາຈະມາຮັບເຈົ້າພຽງແຕ່ຢູ່ບ່ອນນັ້ນ
+ພວກເຮົາກໍາລັງເດີນທາງພວກເຮົາຈະໂທຫາເມື່ອໃກ້ແລ້ວດີບໍ?
+
+649
+01:07:59,082 --> 01:08:01,800
+Okay. Thank you.
+ໂອເຄ ຂອບໃຈ
+
+650
+01:08:06,516 --> 01:08:11,456
+Okay, so is there anything else that I should be doing? How long 'til you get here? Okay.
+ດີແລ້ວ,ສະນັ້ນມີຫຍັງອີກທີ່ຂ້ອຍຄວນເຮັດບໍ?ຈະໃຊ້
+ເວລາຫຼາຍປານໃດຈົນກວ່າເຈົ້າຈະມາຮອດບ່ອນນີ້?ດີ.
+
+651
+01:08:12,719 --> 01:08:15,378
+Okay, okay, I'll see you soon. Thank you.
+ດີ,ດີ,ຂ້ອຍຈະເຫັນ
+ເຈົ້າໃນໄວໆນີ້.ຂອບໃຈ.
+
+652
+01:08:16,823 --> 01:08:20,220
+You guys go. Ambulance is on the way, okay? And take the idiot with you.
+ພວກເຈົ້າໄປ.ລົດສຸກເສີນກໍາລັງເດີນທາງໄປ
+,ດີບໍ?ແລະເອົາຄົນໂງ່ກັບເຈົ້າ.
+
+653
+01:08:20,345 --> 01:08:23,363
+- Are you sure?
+- Yeah, I got it.
+- ເຈົ້າແນ່ໃຈບໍ?
+- ແມ່ນແລ້ວ, ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+654
+01:08:23,488 --> 01:08:28,704
+God, what's gonna happen when he wakes up? He's gonna be so pissed.
+ພຣະເຈົ້າ,ຈະເກີດຫຍັງຂຶ້ນເມື່ອ
+ລາວຕື່ນຂຶ້ນ?ລາວຈະໂຊກຮ້າຍຫຼາຍ.
+
+655
+01:08:28,829 --> 01:08:31,050
+Well, he forgave Judas.
+ດີ, ລາວໄດ້ອະໄພຈູດາ.
+
+656
+01:08:32,712 --> 01:08:33,816
+Let's go.
+ໄປແລ້ວ.
+
+657
+01:09:34,877 --> 01:09:37,047
+You need to release me.
+ເຈົ້າຕ້ອງປ່ອຍຂ້ອຍອອກ.
+
+658
+01:09:40,853 --> 01:09:43,135
+What am I doing here?
+ຂ້ອຍເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+659
+01:09:44,794 --> 01:09:47,953
+You've kidnapped me. Do you realize that?
+ເຈົ້າໄດ້ລັກພາຕົວຂ້ອຍ
+ແລ້ວ.ເຈົ້າເຂົ້າໃຈບໍ?
+
+660
+01:09:49,723 --> 01:09:51,560
+We just wanted you to stay.
+ພວກເຮົາພຽງແຕ່ຢາກໃຫ້ເຈົ້າຢູ່.
+
+661
+01:09:51,814 --> 01:09:57,454
+I wanted to go. So you knocked me out and tied me to a chair.
+ຂ້ອຍຢາກໄປ.ສະນັ້ນເຈົ້າໄດ້ເຮັດໃຫ້
+ຂ້ອຍຕົກໃຈແລະຜູກມັດຂ້ອຍໃສ່ຕັ່ງ.
+
+662
+01:09:57,579 --> 01:10:03,180
+Cut me loose. I'll leave. You'll never hear from me again.
+ປ່ອຍຂ້ອຍອອກ.ຂ້ອຍຈະອອກໄປ.ເຈົ້າ
+ຈະບໍ່ໄດ້ຍິນຈາກຂ້ອຍອີກເທື່ອໜຶ່ງ.
+
+663
+01:10:03,305 --> 01:10:07,784
+I'm sorry. I can't.
+ຂ້ອຍຂໍໂທດ. ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.
+
+664
+01:10:07,910 --> 01:10:12,297
+Yes you can. Just cut the tape and walk away.
+ແມ່ນແລ້ວເຈົ້າສາມາດເຮັດໄດ້
+.ພຽງແຕ່ຕັດເທບແລະຍ່າງໄປ.
+
+665
+01:10:13,219 --> 01:10:18,070
+- Do you want something to drink?
+-
+- ເຈົ້າຢາກດື່ມຫຍັງບໍ?
+
+666
+01:10:20,047 --> 01:10:22,251
+Why are you doing this?
+ເຈົ້າເຮັດແບບນີ້ເປັນຫຍັງ?
+
+667
+01:10:27,895 --> 01:10:31,868
+- I want to know the truth.
+- You want to know the truth.
+- ຂ້ອຍຢາກຮູ້ຄວາມຈິງ.
+- ເຈົ້າຢາກຮູ້ຄວາມຈິງ.
+
+668
+01:10:34,610 --> 01:10:37,720
+- Where are the others?
+- They'll be back soon.
+- ຄົນອື່ນຢູ່ໃສ?
+- ພວກເຂົາຈະກັບມາໄວໆນີ້.
+
+669
+01:10:39,511 --> 01:10:44,320
+So is there a plan, or are you guys just winging it?
+ສະນັ້ນມີແຜນການບໍ,ຫຼື
+ເຈົ້າພຽງແຕ່ບິນມັນບໍ?
+
+670
+01:10:44,446 --> 01:10:51,926
+I mean, am I going to be tortured for information? I don't know where the bomb is hidden, I don't have any gold treasure stashed.
+ຂ້ອຍໝາຍຄວາມວ່າ,ຂ້ອຍຈະຖືກທໍລະມານເພື່ອຂໍ້ມູນບໍ?ຂ້ອຍບໍ່ຮູ້ວ່າ
+ລະເບີດຖືກເຊື່ອງໄວ້ໃສ,ຂ້ອຍບໍ່ມີຊັບສິນຄໍາໃດທີ່ຖືກເຊື້ອໄວ້.
+
+671
+01:10:52,051 --> 01:10:55,806
+- They just went to go get Dr. Jenkins.
+-
+- ພວກເຂົາພຽງແຕ່ໄປເອົາດຣ ເຈນກິນສ໌.
+
+672
+01:10:57,047 --> 01:11:02,024
+Art is an angry, bitter man. He does not have our best interest at heart.
+ສິລະປະເປັນຜູ້ຊາຍໂຊກຮ້າຍ,ໂຊຄຮ້າຍ.ລາວບໍ່ມີ
+ຜົນປະໂຫຍດທີ່ດີທີ່ສຸດຂອງພວກເຮົາໃນຫົວໃຈ.
+
+673
+01:11:02,150 --> 01:11:04,884
+He only wants to talk to you.
+ລາວພຽງແຕ່ຢາກເວົ້າກັບເຈົ້າເທົ່ານັ້ນ.
+
+674
+01:11:05,009 --> 01:11:09,680
+I'm tied to a chair and Art wants to talk to me.
+ຂ້ອຍຖືກຜູກມັດກັບຕັ່ງແລະ
+ສິລະປະຢາກເວົ້າກັບຂ້ອຍ.
+
+675
+01:11:09,969 --> 01:11:13,860
+I'm concerned for your safety. You need to cut me loose.
+ຂ້ອຍກັງວົນກ່ຽວກັບຄວາມປອດໄພ
+ຂອງທ່ານ.ເຈົ້າຕ້ອງປ່ອຍຂ້ອຍອອກ.
+
+676
+01:11:19,188 --> 01:11:21,415
+Where do you worship, Philip?
+ເຈົ້າບູຊາຢູ່ໃສ, ຟີລິບ?
+
+677
+01:11:22,206 --> 01:11:24,819
+I'm assuming that you worship somewhere because you seem...
+ຂ້ອຍຄິດວ່າເຈົ້າບູຊາບ່ອນໃດ
+ໜຶ່ງເພາະວ່າເຈົ້າເບິ່ງຄືວ່າ...
+
+678
+01:11:24,945 --> 01:11:27,837
+Will you please just stop talking? Please.
+ເຈົ້າຂໍຮ້ອງຢຸດເວົ້າບໍ? ກະລຸນາ.
+
+679
+01:11:29,047 --> 01:11:34,321
+- Wouldn't sitting here in silence be much worse?
+- I don't know, okay? I'm just trying to think.
+- ນັ່ງຢູ່ບ່ອນນີ້ຢ່າງງຽບສະຫງົບຈະບໍ່ຮ້າຍແຮງກວ່າເກົ່າບໍ?
+- ຂ້ອຍບໍ່ຮູ້, ດີບໍ? ຂ້ອຍພຽງແຕ່ພະຍາຍາມຄິດ.
+
+680
+01:11:49,500 --> 01:11:53,064
+It's the Jubilee Christian Fellowship, my church.
+ມັນເປັນສະມາຄົມຄຣິສ
+ຕຽນຍູບີລີ,ໂບດຂອງຂ້ອຍ.
+
+681
+01:11:53,907 --> 01:11:58,853
+I've heard of it. You live locally with your mother, right?
+ຂ້ອຍເຄີຍໄດ້ຍິນເລື່ອງມັນແລ້ວ.ເຈົ້າອາ
+ໄສຢູ່ທ້ອງຖິ່ນກັບແມ່ຂອງເຈົ້າ,ແມ່ນບໍ?
+
+682
+01:12:00,606 --> 01:12:02,919
+She attends as well?
+ນາງໄປຮ່ວມເຊັ່ນກັນບໍ?
+
+683
+01:12:05,188 --> 01:12:07,571
+She knows where you are right now?
+ນາງຮູ້ວ່າເຈົ້າຢູ່ໃສໃນເວລານີ້ບໍ?
+
+684
+01:12:09,348 --> 01:12:12,532
+- She's at a retreat.
+- What kind?
+- ນາງຢູ່ໃນການຖອນຕົວ.
+- ຊະນິດໃດ?
+
+685
+01:12:12,657 --> 01:12:15,884
+Transformation Conference. It's about...
+ກອງປະຊຸມການປ່ຽນແປງ. ມັນກ່ຽວກັບ...
+
+686
+01:12:17,079 --> 01:12:22,315
+preparing for the future. Protecting the church.
+ການກະກຽມສໍາລັບອະນາຄົດ
+.ການປົກປ້ອງສາດສະໜາຈັກ.
+
+687
+01:12:22,441 --> 01:12:26,080
+So she's very involved. Both of you are.
+ສະນັ້ນນາງມີສ່ວນຮ່ວມ
+ຫຼາຍ.ເຈົ້າທັງສອງແມ່ນ.
+
+688
+01:12:26,205 --> 01:12:30,386
+Yeah, her mostly, 'cause I'm busy with school.
+ແມ່ນແລ້ວ,ນາງສ່ວນໃຫຍ່,ເພາະວ່າ
+ຂ້ອຍມີວຽກເຮັດງານທໍາກັບໂຮງຮຽນ.
+
+689
+01:12:30,579 --> 01:12:33,769
+You'll be more involved after you graduate, right?
+ເຈົ້າຈະມີສ່ວນຮ່ວມຫຼາຍ
+ຂຶ້ນຫຼັງຈາກຮຽນຈົບ,ແມ່ນບໍ?
+
+690
+01:12:35,211 --> 01:12:40,104
+Look, I have questions, okay? I have some questions. Will you answer them?
+ເບິ່ງ,ຂ້ອຍມີຄໍາຖາມ,ດີບໍ?ຂ້ອຍມີຄໍ
+າຖາມບາງຢ່າງ.ເຈົ້າຈະຕອບພວກມັນບໍ?
+
+691
+01:12:40,229 --> 01:12:42,598
+To the best of my ability.
+ດ້ວຍຄວາມສາມາດທີ່ດີທີ່ສຸດຂອງຂ້ອຍ.
+
+692
+01:12:44,532 --> 01:12:47,945
+- I want to...
+- You want to talk about Jesus.
+- ຂ້ອຍຢາກ...
+- ເຈົ້າຢາກເວົ້າກ່ຽວກັບພຣະເຢຊູ.
+
+693
+01:12:56,024 --> 01:13:00,557
+You believe the Bible as the word of God, right?
+ເຈົ້າເຊື່ອໃນພຣະຄໍາພີວ່າ
+ເປັນຄໍາຂອງພຣະເຈົ້າ,ແມ່ນບໍ?
+
+694
+01:13:00,683 --> 01:13:02,292
+Absolutely.
+ແນ່ນອນ.
+
+695
+01:13:02,418 --> 01:13:05,152
+How did you come to that belief?
+ເຈົ້າມາເຖິງຄວາມເຊື່ອນັ້ນແນວໃດ?
+
+696
+01:13:08,814 --> 01:13:11,566
+Growing up, my dad drank.
+ຕອນທີ່ຂ້ອຍເຕີບໃຫຍ່, ພໍ່ຂອງຂ້ອຍດື່ມ.
+
+697
+01:13:13,227 --> 01:13:16,746
+He hit my mother, so we got out of there.
+ລາວຕີແມ່ຂອງຂ້ອຍ,ສະນັ້ນ
+ພວກເຮົາໄດ້ອອກຈາກບ່ອນນັ້ນ.
+
+698
+01:13:16,871 --> 01:13:19,582
+Some people took us in...
+ບາງຄົນໄດ້ເອົາພວກເຮົາເຂົ້າມາ...
+
+699
+01:13:19,708 --> 01:13:24,363
+they brought us to the church, and it saved us, really.
+ພວກເຂົາເອົາພວກເຮົາໄປໂບດ,ແລະ
+ມັນໄດ້ຊ່ວຍພວກເຮົາ,ແທ້ຈິງແລ້ວ.
+
+700
+01:13:27,407 --> 01:13:31,871
+We were baptized. Born again.
+ພວກເຮົາຖືກບັບຕິສະມາ. ເກີດໃໝ່.
+
+701
+01:13:32,823 --> 01:13:37,036
+And you now have a personal relationship with Jesus Christ as your savior?
+ແລະດຽວນີ້ເຈົ້າມີຄວາມສໍາພັນສ່ວນຕົວ
+ກັບພຣະເຢຊູຄຣິດເປັນຜູ້ຊ່ວຍເຈົ້າບໍ?
+
+702
+01:13:37,161 --> 01:13:38,787
+Yes sir, I do.
+ແມ່ນແລ້ວເດີ, ຂ້ອຍເຮັດ.
+
+703
+01:13:40,067 --> 01:13:42,416
+What would he want you to do now?
+ລາວຢາກໃຫ້ເຈົ້າເຮັດຫຍັງດຽວນີ້?
+
+704
+01:13:44,125 --> 01:13:47,754
+I don't know. Why don't you tell me?
+ຂ້ອຍບໍ່ຮູ້.ເປັນຫຍັງ
+ເຈົ້າຈຶ່ງບໍ່ບອກຂ້ອຍ?
+
+705
+01:13:49,571 --> 01:13:53,659
+- Who exactly do you think I am?
+- I don't know.
+- ເຈົ້າຄິດວ່າຂ້ອຍເປັນໃຜແທ້ໆ?
+- ຂ້ອຍບໍ່ຮູ້.
+
+706
+01:13:53,785 --> 01:13:58,055
+I don't know. You're certainly the best professor that I ever had.
+ຂ້ອຍບໍ່ຮູ້.ເຈົ້າເປັນສາດສະດາຈານ
+ທີ່ດີທີ່ສຸດທີ່ຂ້ອຍເຄີຍມີ.
+
+707
+01:13:58,180 --> 01:14:03,164
+And you know more about the Bible than even Pastor Michaels, plus every other religion besides.
+ແລະເຈົ້າຮູ້ກ່ຽວກັບພຣະຄໍາພີຫຼາຍກ່ວາແມ້ກະ
+ທັ້ງພະບຸຣຸດໄມເກວສ໌,ບວກກັບສາສະໜາອື່ນໆອີກ.
+
+708
+01:14:04,469 --> 01:14:06,758
+Most of my teachers, they don't...
+ຄູສອນຂອງຂ້ອຍສ່ວນໃຫຍ່, ພວກເຂົາບໍ່...
+
+709
+01:14:07,527 --> 01:14:09,220
+they won't...
+ພວກເຂົາຈະບໍ່...
+
+710
+01:14:09,345 --> 01:14:12,556
+acknowledge the central truth of scripture. They...
+ຍອມຮັບຄວາມຈິງໃຈກາງຂອງ
+ພຣະຄໍາພີ.ພວກເຂົາ...
+
+711
+01:14:12,681 --> 01:14:18,035
+believe that faith and science can't co-exist and that's just not true.
+ເຊື່ອວ່າຄວາມເຊື່ອແລະວິທະຍາສາດບໍ່ສາມາດ
+ຢູ່ຮ່ວມກັນໄດ້ແລະມັນພຽງແຕ່ບໍ່ແມ່ນຄວາມຈິງ.
+
+712
+01:14:18,754 --> 01:14:20,746
+That's not how you teach it.
+ນັ້ນບໍ່ແມ່ນວິທີທີ່ທ່ານສອນມັນ.
+
+713
+01:14:21,680 --> 01:14:26,293
+That just means I'm a decent teacher. Right?
+ນັ້ນພຽງແຕ່ໝາຍຄວາມວ່າຂ້ອຍ
+ເປັນຄູສອນທີ່ດີເລີດ.ແມ່ນບໍ?
+
+714
+01:14:27,618 --> 01:14:32,430
+I met Isabel freshman year. It was in your Intro class.
+ຂ້ອຍພົບກັບອີຊາເບວໃນປີທໍາອິດ.ມັນ
+ແມ່ນໃນຫ້ອງຮຽນການເປີດຕົວຂອງທ່ານ.
+
+715
+01:14:33,844 --> 01:14:37,524
+She was the first one of us to realize there's just something...
+ນາງເປັນຄົນທໍາອິດໃນພວກເຮົາທີ່ຈະ
+ເຂົ້າໃຈວ່າມີພຽງແຕ່ບາງສິ່ງບາງຢ່າງ...
+
+716
+01:14:37,649 --> 01:14:40,922
+different about you.
+ແຕກຕ່າງກັບເຈົ້າ.
+
+717
+01:14:41,766 --> 01:14:43,617
+The way you spoke.
+ວິທີທີ່ທ່ານເວົ້າ.
+
+718
+01:14:46,938 --> 01:14:52,344
+- I mean, you saved that janitor's life.
+- That was just CPR, you could do it.
+- ຂ້ອຍໝາຍຄວາມວ່າ, ເຈົ້າໄດ້ຊ່ວຍຊີວິດຂອງຜູ້ຮັກສາເຮືອນນັ້ນ.
+- ນັ້ນແມ່ນພຽງແຕ່ CPR ເທົ່ານັ້ນ, ເຈົ້າສາມາດເຮັດໄດ້.
+
+719
+01:14:52,469 --> 01:14:56,615
+- You talked that girl out of suicide.
+- She just needed someone to hear her.
+- ເຈົ້າໄດ້ເວົ້າກັບເດັກຍິງຄົນນັ້ນຈາກການຂ້າຕົວຕາຍ.
+- ນາງພຽງແຕ່ຕ້ອງການຄົນທີ່ຈະຍິນນາງ.
+
+720
+01:14:56,740 --> 01:14:59,494
+Yeah, but there's all the other weird stuff, too. You know, like...
+ແມ່ນແລ້ວ,ແຕ່ມີສິ່ງແປກໃຈອື່ນໆອີກທັງ
+ໝົດເຊັ່ນກັນ.ເຈົ້າຮູ້ແລ້ວ,ເຊັ່ນວ່າ...
+
+721
+01:14:59,619 --> 01:15:04,032
+how there's no pictures of you anywhere. There's no record of you online before you started teaching at the school.
+ບໍ່ມີຮູບຂອງເຈົ້າຢູ່ບ່ອນໃດໆບໍ່ມີບັນທຶກຂອງເຈົ້າ
+ໃນອອນລາຍກ່ອນທີ່ເຈົ້າຈະເລີ່ມສອນຢູ່ໂຮງຮຽນ
+
+722
+01:15:04,157 --> 01:15:10,671
+I've got my own reasons for wanting to be very private these days. That's all.
+ຂ້ອຍມີເຫດຜົນຂອງຂ້ອຍເອງທີ່ຈະຢາກເປັນສ່ວນ
+ຕົວຫຼາຍໃນມື້ນີ້.ນັ້ນແມ່ນທັງໝົດ.
+
+723
+01:15:13,407 --> 01:15:15,407
+I mean, on one hand...
+ຂ້ອຍໝາຍຄວາມວ່າ, ໃນອີກດ້ານໜຶ່ງ...
+
+724
+01:15:15,532 --> 01:15:21,348
+what if God really did send His son to Earth to spread his word.
+ຖ້າພຣະເຈົ້າໄດ້ສົ່ງລູກຊາຍຂອງລາວມາສູ່
+ໂລກເພື່ອເຜີຍແຜ່ຄໍາເວົ້າຂອງລາວແນວໃດ.
+
+725
+01:15:21,473 --> 01:15:26,466
+Maybe you're exactly how he'd do it, right? Allow a man to live for thousands and thousands of years...
+ບາງທີເຈົ້າແມ່ນວິທີທີ່ລາວຈະເຮັດມັນ,ແມ່ນບໍ?
+ອະນຸຍາດໃຫ້ຜູ້ຊາຍດໍາລົງຊີວິດເປັນເວລາຫຼາຍພັນປີ...
+
+726
+01:15:26,592 --> 01:15:30,585
+traveling the world, collecting all of this knowledge and wisdom,
+ການເດີນທາງໄປທົ່ວໂລກ,ການເກັບກໍາ
+ຄວາມຮູ້ແລະຄວາມສະຫຼາດທັງໝົດນີ້,
+
+727
+01:15:30,711 --> 01:15:34,903
+and once he's got it, he starts preaching.
+ແລະເມື່ອລາວໄດ້ຮັບມັນ
+ແລ້ວ,ລາວເລີ່ມປະກາດ.
+
+728
+01:15:35,455 --> 01:15:39,517
+What he's saying is the truth, so people grasp it right away.
+ສິ່ງທີ່ລາວເວົ້າແມ່ນຄວາມຈິງ,
+ສະນັ້ນຄົນຈະເຂົ້າໃຈມັນທັນທີ.
+
+729
+01:15:39,642 --> 01:15:44,461
+It's like Christianity. It took over the world in just a couple of hundred years.
+ມັນຄ້າຍຄືກັບຄຣິສຕຽນ.ມັນໄດ້ຄອບຄອງ
+ໂລກໃນເວລາພຽງສອງສາມຮ້ອຍປີເທົ່ານັ້ນ.
+
+730
+01:15:48,248 --> 01:15:51,545
+- It makes a certain kind of sense.
+- And you want to believe that story.
+- ມັນມີຄວາມໝາຍບາງຢ່າງ.
+- ແລະເຈົ້າຢາກເຊື່ອເລື່ອງນັ້ນ.
+
+731
+01:15:54,756 --> 01:15:57,444
+I'm not sure. Because...
+ຂ້ອຍບໍ່ແນ່ໃຈ. ເພາະວ່າ...
+
+732
+01:15:57,569 --> 01:16:01,387
+if you are Jesus, then...
+ຖ້າເຈົ້າເປັນພຣະເຢຊູ, ຫຼັງຈາກນັ້ນ...
+
+733
+01:16:01,513 --> 01:16:04,211
+that means that the Bible is just...
+ນັ້ນໝາຍຄວາມວ່າພຣະຄໍາພີພຽງແຕ່...
+
+734
+01:16:06,294 --> 01:16:08,103
+fiction.
+ນິທານ
+
+735
+01:16:10,452 --> 01:16:16,236
+I want to know the truth. I need to know the truth. Can you just tell me the truth, please?
+ຂ້ອຍຢາກຮູ້ຄວາມຈິງ.ຂ້ອຍຕ້ອງຮູ້ຄວາມແທ້ຈິງ
+.ເຈົ້າສາມາດບອກຂ້ອຍຄວາມຈິງໄດ້ບໍ,ກະລຸນາ?
+
+736
+01:16:16,362 --> 01:16:19,198
+If I tell you the truth, Philip, will you let me go?
+ຖ້າຂ້ອຍບອກຄວາມຈິງໃຫ້ເຈົ້າ,
+ຟີລິບ,ເຈົ້າຈະປ່ອຍຂ້ອຍໄປບໍ?
+
+737
+01:16:20,849 --> 01:16:22,326
+Yeah, I guess so.
+ແມ່ນແລ້ວ, ຂ້ອຍຄິດວ່າເປັນ.
+
+738
+01:16:22,903 --> 01:16:25,996
+- Okay, I want you to listen very carefully.
+-
+-ດີແລ້ວ,ຂ້ອຍຢາກໃຫ້ເຈົ້າ
+ຟັງຢ່າງລະມັດລະວັງຫຼາຍ.
+
+739
+01:16:26,121 --> 01:16:31,185
+Two thousand years ago I stood on a hill in Galilee...
+ສອງພັນປີກ່ອນຂ້ອຍຢືນຢູ່
+ເທິງພູໃນກາລີເລຍ...
+
+740
+01:16:31,310 --> 01:16:37,091
+and I spoke some basic spiritual truths I'd picked up over the years.
+ແລະຂ້ອຍໄດ້ເວົ້າຄວາມຈິງທາງວິນຍານພື້ນຖານ
+ບາງຢ່າງທີ່ຂ້ອຍໄດ້ຮຽນຮູ້ໃນຫລາຍປີ.
+
+741
+01:16:37,216 --> 01:16:40,537
+And when the gospels were written they called me Christ.
+ແລະເມື່ອພຣະກິດຕິຄຸນຖືກຂຽນ
+ພວກເຂົາເອີ້ນຂ້ອຍວ່າພຣະຄຣິດ.
+
+742
+01:16:40,662 --> 01:16:46,683
+But frankly, the whole thing got a lot bigger and went in a very different direction than I ever intended.
+ແຕ່ຢ່າງຈິງຈັງ,ເລື່ອງທັງໝົດໄດ້ໃຫຍ່ຂຶ້ນຫຼາຍ
+ແລະໄປທາງທີ່ແຕກຕ່າງກັນຫຼາຍກ່ວາທີ່ຂ້ອຍຕັ້ງໃຈ.
+
+743
+01:16:46,808 --> 01:16:51,439
+It got violent and scary and I took off.
+ມັນກາຍເປັນຄວາມຮຸນແຮງແລະ
+ຢ້ານກົວແລະຂ້ອຍໄດ້ບິນໄປ.
+
+744
+01:16:51,657 --> 01:16:54,203
+I've kept my head down ever since...
+ຂ້ອຍໄດ້ຮັກສາຫົວລົງຕັ້ງແຕ່...
+
+745
+01:16:54,911 --> 01:16:59,863
+and I have to move on far more often than I would like.
+ແລະຂ້ອຍຕ້ອງຍ້າຍໄປອີ
+ກຫຼາຍກ່ວາທີ່ຂ້ອຍຢາກ.
+
+746
+01:17:00,528 --> 01:17:02,977
+But lately something's changed.
+ແຕ່ໃນໄລຍະຜ່ານມາບາງສິ່ງ
+ບາງຢ່າງໄດ້ປ່ຽນແປງ.
+
+747
+01:17:03,731 --> 01:17:07,951
+I'm getting lines in my face, grey hair. I don't heal as fast as I used to.
+ຂ້ອຍກໍາລັງໄດ້ຮັບເສັ້ນໃນໃບໜ້າຂອງຂ້ອຍ,ຜົມສີຂາວ
+.ຂ້ອຍບໍ່ໄດ້ປິ່ນປົວໄວເທົ່າທີ່ຂ້ອຍເຄີຍເຮັດ.
+
+748
+01:17:08,076 --> 01:17:14,567
+I don't know if it's something in the air, or in the water, the food. Something in my blood, or DNA...
+ຂ້ອຍບໍ່ຮູ້ວ່າມັນເປັນບາງສິ່ງບາງຢ່າງໃນອາກາດ,ຫຼື
+ໃນນ້ໍາ,ອາຫານ.ບາງຢ່າງໃນເລືອດຂອງຂ້ອຍ,ຫຼື DNA ...
+
+749
+01:17:14,692 --> 01:17:19,610
+or a ticking time bomb in my soul. I feel different.
+ຫຼືລະເບີດເວລາທີ່ສັ່ນສະເທືອນໃນຈິດ
+ວິນຍານຂອງຂ້ອຍ.ຂ້ອຍຮູ້ສຶກແຕກຕ່າງກັນ.
+
+750
+01:17:20,966 --> 01:17:23,269
+Are you dying?
+ເຈົ້າ ກໍາ ລັງຕາຍບໍ?
+
+751
+01:17:23,395 --> 01:17:28,063
+I don't know. Maybe. Maybe I'm just changing.
+ຂ້ອຍບໍ່ຮູ້.ອາດຈະເປັນ.
+ບາງທີຂ້ອຍພຽງແຕ່ປ່ຽນແປງ.
+
+752
+01:17:28,817 --> 01:17:30,633
+Into what?
+ເຂົ້າໄປໃນຫຍັງ?
+
+753
+01:17:32,669 --> 01:17:37,481
+If your time is limited, it's more important now than ever for you to come forward.
+ຖ້າເວລາຂອງເຈົ້າຈໍາກັດ,ມັນມີຄວາມສໍາຄັນຫຼາຍ
+ຂຶ້ນດຽວນີ້ກວ່າເກົ່າສໍາລັບເຈົ້າທີ່ຈະມາຂ້າງໜ້າ.
+
+754
+01:17:37,606 --> 01:17:42,242
+For you to spread the word as only you can.
+ເພື່ອໃຫ້ເຈົ້າເຜີຍແຜ່ຂ່າວດັ່ງທີ່ພຽງ
+ແຕ່ເຈົ້າເທົ່ານັ້ນສາມາດເຮັດໄດ້.
+
+755
+01:17:43,685 --> 01:17:48,133
+I've thought about it a lot and I want to help.
+ຂ້ອຍໄດ້ຄິດກ່ຽວກັບມັນ
+ຫຼາຍແລ້ວແລະຂ້ອຍຢາກຊ່ວຍ.
+
+756
+01:17:48,802 --> 01:17:52,414
+There is so much pain and suffering.
+ມີຄວາມເຈັບປວດແລະທຸກທໍລະມານຫຼາຍປານໃດ.
+
+757
+01:17:54,251 --> 01:17:58,649
+The New Testament said that I would return, but the truth is I never left.
+ພຣະສັນຍາໃໝ່ເວົ້າວ່າຂ້ອຍຈະກັບມາ,
+ແຕ່ຄວາມຈິງແມ່ນຂ້ອຍບໍ່ເຄີຍອອກຈາກ.
+
+758
+01:17:59,685 --> 01:18:06,283
+The Book of Revelation says that Jesus will rule over this planet with his believers for a thousand years.
+ປື້ມເປີດເຜີຍກ່າວວ່າພຣະເຢຊູຈະປົກຄອງ
+ໂລກນີ້ກັບຜູ້ເຊື່ອຂອງລາວເປັນເວລາພັນປີ.
+
+759
+01:18:06,408 --> 01:18:10,681
+Shouldn't there be a better way to help people than ruling over them like a king?
+ບໍ່ຄວນມີວິທີທີ່ດີກວ່າທີ່ຈະຊ່ວຍຄົນ
+ກ່ວາການປົກຄອງພວກເຂົາຄືກັບກະສັດບໍ?
+
+760
+01:18:11,864 --> 01:18:15,480
+But what about the Rapture, where the dead in Christ will rise?
+ແຕ່ຈະເປັນແນວໃດກັບການຍຶດເອົາ,ບ່ອນ
+ທີ່ຄົນຕາຍໃນພຣະຄຣິດຈະຕື່ນຂຶ້ນ?
+
+761
+01:18:15,606 --> 01:18:19,526
+Why not bring them into the light now? Why condemn them to darkness?
+ເປັນຫຍັງຈຶ່ງບໍ່ນໍາພວກເຂົາເຂົ້າສູ່ແສງສະຫວ່າງ
+ດຽວນີ້?ເປັນຫຍັງຈຶ່ງຕັດສິນໃຫ້ພວກເຂົາຢູ່ໃນຄວາມມືດ?
+
+762
+01:18:19,652 --> 01:18:23,981
+- Because they've condemned themselves to darkness.
+- That's harsh.
+- ເພາະວ່າພວກເຂົາໄດ້ຕັດສິນໃຈຕົນເອງໃຫ້ຢູ່ໃນຄວາມມືດ.
+- ນັ້ນແມ່ນຄວາມຮຸນແຮງ.
+
+763
+01:18:24,106 --> 01:18:30,495
+No it isn't. That's the fate of those who haven't been saved. The fate of those who've abandoned their faith.
+ບໍ່ມັນບໍ່ແມ່ນ.ນັ້ນແມ່ນຊະຕາກໍາລ
+ັງຂອງຜູ້ທີ່ບໍ່ໄດ້ຖືກຊ່ວຍເຫຼືອ.
+
+764
+01:18:30,620 --> 01:18:36,802
+Everyone can be saved. Everyone can find peace and love.
+ທຸກຄົນສາມາດຖືກຊ່ວຍເຫຼືອໄດ້.ທຸກໆ
+ຄົນສາມາດພົບຄວາມສະຫງົບແລະຄວາມຮັກ.
+
+765
+01:18:36,927 --> 01:18:42,669
+Why not create a Heaven on Earth, now? We can help do that.
+ເປັນຫຍັງບໍ່ສ້າງສະຫວັນຢູ່ເທິງໂລກ
+,ດຽວນີ້?ພວກເຮົາສາມາດຊ່ວຍເຮັດໄດ້.
+
+766
+01:18:42,794 --> 01:18:46,595
+But right now I need your help.
+ແຕ່ໃນເວລານີ້ຂ້ອຍຕ້ອງການ
+ຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ.
+
+767
+01:18:47,528 --> 01:18:51,415
+- What can I do?
+- It's time to cut me loose.
+- ຂ້ອຍສາມາດເຮັດແນວໃດ?
+- ມັນເຖິງເວລາແລ້ວທີ່ຈະຕັດຂ້ອຍອອກ.
+
+768
+01:19:14,348 --> 01:19:16,200
+Okay, what's your plan?
+ດີແລ້ວ, ແຜນການຂອງທ່ານແມ່ນຫຍັງ?
+
+769
+01:19:16,544 --> 01:19:18,502
+One step at a time.
+ຂັ້ນຕອນດຽວໃນເວລາດຽວກັນ.
+
+770
+01:19:19,661 --> 01:19:23,755
+If you're the son of God, why can't you just cut yourself loose?
+ຖ້າເຈົ້າເປັນລູກຊາຍຂອງພຣະເຈົ້າ,ເປັນ
+ຫຍັງເຈົ້າຈຶ່ງບໍ່ສາມາດຕັດຕົວເອງໄດ້?
+
+771
+01:19:23,880 --> 01:19:26,697
+Son of Man. No magical powers.
+ລູກຊາຍຂອງມະນຸດ. ບໍ່ມີພະລັງຊະຍາກອນ.
+
+772
+01:19:29,083 --> 01:19:31,209
+Okay, you want a plan.
+ດີແລ້ວ, ເຈົ້າຢາກມີແຜນການ.
+
+773
+01:19:31,334 --> 01:19:36,240
+There are many paths to enlightenment, including the born again experience that you've had.
+ມີຫລາຍເສັ້ນທາງໄປສູ່ຄວາມສະຫວ່າງ,ລວມ
+ທັງປະສົບການເກີດໃໝ່ທີ່ເຈົ້າເຄີຍມີ.
+
+774
+01:19:36,365 --> 01:19:40,888
+- But there are equally valid paths.
+- No there aren't.
+- ແຕ່ມີເສັ້ນທາງທີ່ຖືກຕ້ອງເທົ່າກັນ.
+- ບໍ່ບໍ່ມີ.
+
+775
+01:19:41,013 --> 01:19:45,215
+It says in Matthew 18:3...
+ມັນຂຽນໄວ້ໃນມັດທາຍ 18:3...
+
+776
+01:19:45,341 --> 01:19:50,974
+Jesus tells his disciples: "Except ye be converted, and become as little children, ye shall not enter into the kingdom of Heaven."
+ພຣະເຢຊູບອກພວກສາວົກຂອງລາວວ່າ:"ຖ້າເຈົ້າບໍ່ປ່ຽນໃຈແລະ
+ກາຍເປັນເດັກນ້ອຍ,ເຈົ້າຈະບໍ່ເຂົ້າໄປໃນອານາຈັກສະຫວັນ."
+
+777
+01:19:51,099 --> 01:19:56,481
+There are other approaches to enlightenment that have been practiced throughout time across the globe.
+ມີວິທີການອື່ນໆໃນການສະຫວ່າງທີ່ໄດ້ຮັບ
+ການປະຕິບັດຕະຫຼອດເວລາໃນທົ່ວໂລກ.
+
+778
+01:19:56,606 --> 01:20:02,421
+- Why wouldn't we draw on that experience, and that wisdom?
+- But do these other paths involve the cleansing blood of Christ? Because...
+- ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ດຶງດູດປະສົບການນັ້ນ, ແລະຄວາມສະຫຼາດນັ້ນ?
+- ແຕ່ເສັ້ນທາງອື່ນໆນີ້ກ່ຽວຂ້ອງກັບເລືອດທີ່ເຮັດຄວາມສະອາດຂອງພຣະຄຣິດບໍ? ເພາະວ່າ...
+
+779
+01:20:02,546 --> 01:20:05,756
+The path is less important than the goal:
+ເສັ້ນທາງມີຄວາມສໍາຄັນໜ້ອຍກວ່າເປົ້າໝາຍ:
+
+780
+01:20:05,882 --> 01:20:12,219
+a personal transformation that enables us to empathize with others...
+ການປ່ຽນແປງສ່ວນຕົວທີ່ເຮັດໃຫ້
+ພວກເຮົາມີຄວາມເຫັນໃຈກັບຄົນອື່ນ...
+
+781
+01:20:12,345 --> 01:20:16,351
+and bring Heaven on Earth right now.
+ແລະນໍາສະຫວັນມາສູ່ໂລກດຽວນີ້.
+
+782
+01:20:16,736 --> 01:20:20,981
+Rational humans have existed on this planet for 200,000 years.
+ມະນຸດທີ່ມີເຫດຜົນໄດ້ມີຢູ່ເທິງ
+ໂລກນີ້ເປັນເວລາ 200 , 000 ປີແລ້ວ.
+
+783
+01:20:21,303 --> 01:20:25,444
+Right? The New Testament has only existed for a fraction of that time, Philip.
+ແມ່ນບໍ?ພຣະສັນຍາໃໝ່ມີຢູ່ພຽງແຕ່
+ສ່ວນນ້ອຍໆຂອງເວລານັ້ນ,ຟີລິບ.
+
+784
+01:20:25,569 --> 01:20:29,574
+No, no. This is liberal theological nonsense.
+ບໍ່,ບໍ່.ນີ້ແມ່ນ
+ຄວາມໂງ່ທາງທິດສະດີເສລີ.
+
+785
+01:20:29,699 --> 01:20:33,869
+- What, so you're a Methodist now?
+- I'm not being clear...
+- ຫຍັງ, ສະນັ້ນເຈົ້າເປັນ Methodist ດຽວນີ້ບໍ?
+- ຂ້ອຍບໍ່ໄດ້ແຈ້ງ...
+
+786
+01:20:33,994 --> 01:20:39,142
+Nah, you know what? I've had a personal relationship with Jesus Christ as my savior for the past ten years now.
+ບໍ່,ເຈົ້າຮູ້ວ່າຫຍັງ?ຂ້ອຍມີຄວາມສໍາພັນສ່ວນຕົວກັບ
+ພຣະເຢຊູຄຣິດເປັນຜູ້ຊ່ວຍຂອງຂ້ອຍເປັນເວລາສິບປີແລ້ວ.
+
+787
+01:20:39,267 --> 01:20:43,536
+I think I know who Jesus is, and I can tell you right now that you don't sound anything like him.
+ຂ້ອຍຄິດວ່າຂ້ອຍຮູ້ວ່າພຣະເຢຊູແມ່ນໃຜ,ແລະຂ້ອຍສາມາດ
+ບອກເຈົ້າໄດ້ດຽວນີ້ວ່າເຈົ້າບໍ່ໄດ້ສຽງຄືກັບລາວເລີຍ.
+
+788
+01:20:43,661 --> 01:20:46,936
+I don't know which translation of the Bible you've read, whose version...
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າອ່ານການແປພາສາ
+ຂອງພຣະຄໍາພີໃດ,ເວີຊັນຂອງໃຜ...
+
+789
+01:20:47,061 --> 01:20:49,755
+It's so seductive, isn't it?
+ມັນດຶງດູດຫຼາຍ, ແມ່ນບໍ?
+
+790
+01:20:49,880 --> 01:20:54,783
+It's so seductive. The desire to believe you is so strong.
+ມັນດຶງດູດຫຼາຍ.ຄວາມປາຖະໜາ
+ທີ່ຈະເຊື່ອເຈົ້າແຂງແຮງຫຼາຍ.
+
+791
+01:20:56,770 --> 01:21:02,365
+But if word of your existence got out, if Isabel had her way and people started worshipping you, it would destroy the world.
+ແຕ່ຖ້າຂ່າວກ່ຽວກັບການມີຢູ່ຂອງເຈົ້າອອກມາ,ຖ້າອີຊາເບວ
+ເຮັດຕາມທາງຂອງນາງແລະຄົນເລີ່ມບູຊາເຈົ້າ,ມັນຈະທໍາລາຍໂລກ.
+
+792
+01:21:02,490 --> 01:21:05,697
+I have no intention of starting a religion.
+ຂ້ອຍບໍ່ມີຈຸດປະສົງທີ່ຈະເລີ່ມຕົ້ນສາສະໜາ.
+
+793
+01:21:09,730 --> 01:21:12,540
+You're a real smooth talker, Professor Young.
+ເຈົ້າເປັນຜູ້ເວົ້າທີ່ລຽບ
+ງ່າຍແທ້ໆ,ສາດສະດາຈານຢົງ.
+
+794
+01:21:16,044 --> 01:21:20,134
+While you're certainly not Jesus, you do remind me of someone else in the Bible.
+ໃນຂະນະທີ່ເຈົ້າບໍ່ແມ່ນພຣະເຢຊູແນ່ນອນ,
+ເຈົ້າເຮັດໃຫ້ຂ້ອຍຈື່ຄົນອື່ນໃນພຣະຄໍາພີ.
+
+795
+01:21:20,919 --> 01:21:24,361
+Someone with miraculous powers of persuasion.
+ບາງຄົນທີ່ມີພະລັງການ
+ຊັກຊວນທີ່ມະຫັດສະຈັນ.
+
+796
+01:21:25,341 --> 01:21:30,425
+Someone obsessed with transforming the world, overturning the true message of the Bible.
+ບາງຄນທີ່ຕິດໃຈກັບການປ່ຽນແປງໂລກ,ການ
+ໂຄ່ນລົ້ມຂໍ້ຄວາມທີ່ແທ້ຈິງຂອງພຣະຄໍາພີ.
+
+797
+01:21:32,872 --> 01:21:35,095
+You're not Jesus Christ.
+ເຈົ້າບໍ່ແມ່ນພຣະເຢຊູຄຣິດ.
+
+798
+01:21:35,908 --> 01:21:37,682
+You're the Anti-Christ.
+ເຈົ້າເປັນແອນຕິຄຣິດ.
+
+799
+01:21:39,676 --> 01:21:43,373
+Cut me loose, Philip, so we can discuss this rationally, please.
+ປ່ອຍຂ້ອຍອອກ,ຟີລິບ,ເພື່ອໃຫ້ພວກເຮົາສາມາດ
+ປຶກສາຫາລືເລື່ອງນີ້ໄດ້ຢ່າງສົມເຫດສົມຜົນ,ກະລຸນາ.
+
+800
+01:21:43,498 --> 01:21:49,341
+Sure, yeah. Cut loose the Anti-Christ. What harm could possibly come from that?
+ແນ່ນອນ,ແມ່ນແລ້ວ.ຕັດແອນຕິຄຣິດອອກ
+.ຄວາມເສຍຫາຍໃດທີ່ອາດຈະມາຈາກນັ້ນ?
+
+801
+01:21:49,466 --> 01:21:51,872
+Why don't you listen to yourself?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ຟັງຕົວເອງ?
+
+802
+01:21:51,997 --> 01:21:57,744
+A minute earlier you're prepared to believe I'm Jesus, now I'm the Anti-Christ.
+ກ່ອນໜ້ານີ້ເຈົ້າກຽມພ້ອມທີ່ຈະເຊື່ອວ່າຂ້ອຍ
+ເປັນພຣະເຢຊູ,ດຽວນີ້ຂ້ອຍເປັນແອນຕິຄຣິດ.
+
+803
+01:21:58,040 --> 01:22:00,376
+I'm not sure who you are.
+ຂ້ອຍບໍ່ແນ່ໃຈວ່າເຈົ້າເປັນໃຜ.
+
+804
+01:22:01,283 --> 01:22:05,044
+Maybe you're just a regular guy who's a really good story teller.
+ບາງທີເຈົ້າພຽງແຕ່ເປັນຜູ້ຊາຍປົກກະຕິ
+ທີ່ເປັນຜູ້ບອກເລື່ອງທີ່ດີແທ້ໆ.
+
+805
+01:22:05,169 --> 01:22:09,942
+But you're the one who claimed to be Jesus, and right now you sound more like the Great Deceiver.
+ແຕ່ເຈົ້າເປັນຄົນທີ່ອ້າງວ່າເປັນພຣະເຢຊູ,ແລະໃນເວລາ
+ນີ້ເຈົ້າເບິ່ງຄືວ່າເປັນຄົນຫຼອກລວງທີ່ຍິ່ງໃຫຍ່ຫຼາຍ.
+
+806
+01:22:10,067 --> 01:22:16,103
+Do you even know what the Anti-Christ is? The concept doesn't exist in the Bible.
+ເຈົ້າຮູ້ວ່າແອນຕິຄຣິດແມ່ນຫຍັງບໍ?
+ແນວຄວາມຄິດນີ້ບໍ່ມີຢູ່ໃນພຣະຄໍາພີ.
+
+807
+01:22:16,880 --> 01:22:23,858
+It's a distortion that superstitious monks created by pulling completely unrelated passages together.
+ມັນເປັນການສໍ້ໂກງທີ່ພະສົງທີ່ເຊື່ອຖືຄວາມຜິດພາດໄດ້ສ້າງ
+ຂື້ນໂດຍການດຶງຂໍ້ທີ່ບໍ່ມີຄວາມກ່ຽວຂ້ອງທັງໝົດເຂົ້າກັນ.
+
+808
+01:22:23,983 --> 01:22:30,001
+Now the word "Antichrist" appears in the Epistles of John...
+ດຽວນີ້ຄໍາວ່າ "Antichrist"
+ປາກົດຢູ່ໃນຈົດໝາຍຂອງຈອນ...
+
+809
+01:22:30,126 --> 01:22:32,271
+but it never refers to a single person.
+ແຕ່ມັນບໍ່ເຄີຍອ້າງເຖິງຄົນດຽວເລີຍ.
+
+810
+01:22:32,396 --> 01:22:37,784
+You know that I'm talking about the really bad guy from the Book of Revelation, whatever medieval monks named him.
+ເຈົ້າຮູ້ວ່າຂ້ອຍກໍາລັງເວົ້າກ່ຽວກັບຄົນຮ້າຍແທ້ໆຈາກ
+ປື້ມ Revelation ,ບໍ່ວ່າໂມນກ໌ສະໄໝກາງຈະເອີ້ນລາວແນວໃດ.
+
+811
+01:22:38,013 --> 01:22:45,041
+Okay. What malevolent creature from the Book of Revelation do I remotely resemble to you?
+ດີແລ້ວ.ຂ້ອຍຄ້າຍຄືກັບເຈົ້າຢູ່ຫ່າງ
+ໄກຈາກສັດຮ້າຍໃດຈາກປື້ມ Revelation ?
+
+812
+01:22:47,451 --> 01:22:53,481
+There's the seven-headed Beast who is wounded to death.
+ມີສັດທີ່ມີຫົວເຈັດຫົວ
+ທີ່ຖືກບາດເຈັບຈົນຕາຍ.
+
+813
+01:22:53,607 --> 01:22:56,845
+His wounds miraculously heal. You can do that.
+ບາດເຈັບຂອງລາວຫາຍດີຢ່າງ
+ມະຫັດສະຈັນ.ເຈົ້າສາມາດເຮັດໄດ້.
+
+814
+01:22:58,138 --> 01:23:03,811
+The Beast blasphemes God and heaven, much like your theology of many paths.
+ສັດຮ້າຍໂຊກຮ້າຍພຣະເຈົ້າແລະສະຫວັນ,ຄືກັບ
+ທິດສະດີຂອງເຈົ້າຂອງເສັ້ນທາງຫຼາຍຢ່າງ.
+
+815
+01:23:03,936 --> 01:23:09,190
+Ultimately everyone left on earth is worshiping him, and it seems like you're pushing for a similar plan.
+ສຸດທ້າຍທຸກຄົນທີ່ຍັງເຫຼືອຢູ່ເທິງໂລກກໍາລັງບູຊາລາວ,
+ແລະເບິ່ງຄືວ່າເຈົ້າກໍາລັງຊຸກຍູ້ແຜນການທີ່ຄ້າຍຄືກັນ.
+
+816
+01:23:10,091 --> 01:23:12,527
+All that's missing is the 666.
+ສິ່ງດຽວທີ່ຂາດຫາຍແມ່ນ 666.
+
+817
+01:23:13,951 --> 01:23:15,986
+You got any tattoos?
+ເຈົ້າມີ tattoo ໃດບໍ?
+
+818
+01:23:17,716 --> 01:23:23,663
+The nonsense about the Beast is fantasy literature and nothing more.
+ຄວາມໂງ່ກ່ຽວກັບສັດແມ່ນວັນນະຄະດີ
+ຈິນຕະນາການແລະບໍ່ມີຫຍັງອີກ.
+
+819
+01:23:25,037 --> 01:23:27,626
+You really don't believe in the Bible, do you?
+ເຈົ້າບໍ່ເຊື່ອໃນພຣະຄໍາພີແທ້ໆ, ແມ່ນບໍ?
+
+820
+01:23:27,752 --> 01:23:30,503
+It's a book, written by people.
+ມັນເປັນປື້ມ, ຂຽນໂດຍຄົນ.
+
+821
+01:23:32,466 --> 01:23:38,649
+Whatever you are, you're a serious enemy of the Bible, and your message could have catastrophic effects on the Christian faith.
+ບໍ່ວ່າເຈົ້າຈະເປັນໃຜ,ເຈົ້າເປັນສັດຕູທີ່ຮ້າຍແຮງຂອງພຣະຄໍາພີ,ແລະ
+ຂໍ້ຄວາມຂອງທ່ານອາດຈະມີຜົນກະທົບອັນຮ້າຍແຮງຕໍ່ຄວາມເຊື່ອຂອງຊາວຄຣິສຕຽນ.
+
+822
+01:23:38,775 --> 01:23:42,208
+- You are a threat.
+- I just want to be left alone.
+- ເຈົ້າເປັນໄພຂົ່ມຂູ່.
+- ຂ້ອຍພຽງແຕ່ຢາກຖືກປ່ອຍໄວ້ຢ່າງສະຫງົບ.
+
+823
+01:23:42,333 --> 01:23:44,559
+I don't believe you.
+ຂ້ອຍບໍ່ເຊື່ອເຈົ້າ.
+
+824
+01:23:47,279 --> 01:23:50,676
+- I haven't lied to you once.
+-
+- ຂ້ອຍບໍ່ເຄີຍຕົວະເຈົ້າເທື່ອເລີຍ.
+
+825
+01:23:50,802 --> 01:23:54,444
+I have an idea. Let's have a little test of faith.
+ຂ້ອຍມີແນວຄິດ. ມາທົດສອບຄວາມເຊື່ອນ້ອຍໆ.
+
+826
+01:23:55,342 --> 01:23:58,657
+- For me or for you?
+- Both of us.
+- ສໍາລັບຂ້ອຍຫຼືສໍາລັບເຈົ້າ?
+- ພວກເຮົາທັງສອງ.
+
+827
+01:24:00,207 --> 01:24:02,707
+I know what I believe in.
+ຂ້ອຍຮູ້ວ່າຂ້ອຍເຊື່ອຫຍັງ.
+
+828
+01:24:02,833 --> 01:24:06,618
+Okay. So if I really am the Beast...
+ດີແລ້ວ. ສະນັ້ນຖ້າຂ້ອຍເປັນສັດແທ້ໆ...
+
+829
+01:24:07,392 --> 01:24:10,418
+what do you think God would have you do with me?
+ເຈົ້າຄິດວ່າພຣະເຈົ້າຢາກ
+ໃຫ້ເຈົ້າເຮັດຫຍັງກັບຂ້ອຍ?
+
+830
+01:24:12,806 --> 01:24:17,509
+- Probably kill you.
+- Then do it. Let's end this.
+- ບາງທີຈະຂ້າເຈົ້າ.
+- ຫຼັງຈາກນັ້ນເຮັດມັນ. ມາສິ້ນສຸດເລື່ອງນີ້.
+
+831
+01:24:18,142 --> 01:24:23,473
+I didn't exactly say you were the Anti-Christ. I just said it could be a possibility.
+ຂ້ອຍບໍ່ໄດ້ເວົ້າວ່າເຈົ້າເປັນແອນຕິຄຣິດ.ຂ້ອຍ
+ພຽງແຕ່ເວົ້າວ່າມັນອາດຈະເປັນຄວາມເປັນໄປໄດ້.
+
+832
+01:24:23,598 --> 01:24:29,019
+Well, that's good news. If you're not going to kill me for being the Beast, you're going to have to let me go sometime.
+ດີ,ນັ້ນແມ່ນຂ່າວດີ.ຖ້າເຈົ້າຈະບໍ່ຂ້າຂ້ອຍ
+ເພາະເປັນສັດ,ເຈົ້າຈະຕ້ອງປ່ອຍຂ້ອຍໄປບາງຄັ້ງ.
+
+833
+01:24:29,145 --> 01:24:32,816
+But there's still a possibility that you could be Jesus and I can't let you go until I know one way or another.
+ແຕ່ຍັງມີຄວາມເປັນໄປໄດ້ວ່າເຈົ້າອາດຈະເປັນພຣະເຢຊູແລະຂ້ອຍ
+ບໍ່ສາມາດປ່ອຍເຈົ້າໄປໄດ້ຈົນກວ່າຂ້ອຍຈະຮູ້ວິທີໃດໜຶ່ງ.
+
+834
+01:24:32,941 --> 01:24:37,220
+- I already told you I was.
+- That doesn't prove anything.
+- ຂ້ອຍບອກເຈົ້າແລ້ວວ່າຂ້ອຍເປັນ.
+- ນັ້ນບໍ່ໄດ້ພິສູດຫຍັງເລີຍ.
+
+835
+01:24:38,029 --> 01:24:41,021
+Then plunge your knife into me and find out for sure.
+ຫຼັງຈາກນັ້ນຖິ້ມດອກໄມ້ຂອງທ່ານ
+ໃສ່ຂ້ອຍແລະຮູ້ຢ່າງແນ່ນອນ.
+
+836
+01:24:41,147 --> 01:24:45,370
+If I'm Jesus I'll survive. Or die and be reborn.
+ຖ້າຂ້ອຍເປັນພຣະເຢຊູຂ້ອຍຈະ
+ລອດຊີວິດ.ຫຼືຕາຍແລະເກີດໃໝ່.
+
+837
+01:24:45,943 --> 01:24:50,743
+- Maybe you're just a manipulative story teller, and I'd be a murderer.
+-
+-ບາງທີເຈົ້າພຽງແຕ່ເປັນຜູ້ບອກເລື່ອງທີ່
+manipulative ,ແລະຂ້ອຍຈະເປັນຜູ້ຄາດຕະກໍາ.
+
+838
+01:24:50,868 --> 01:24:56,005
+But it still comes down to the same choices: stab me or let me go.
+ແຕ່ມັນຍັງຕົກລົງກັບການເລືອກ
+ດຽວກັນ:ດອກຂ້ອຍຫຼືປ່ອຍຂ້ອຍໄປ.
+
+839
+01:24:58,485 --> 01:25:02,790
+So just, stick this knife in your eye or something?
+ສະນັ້ນພຽງແຕ່,ເອົາດອກໄມ້ນີ້ໃສ່
+ຕາຂອງທ່ານຫຼືບາງສິ່ງບາງຢ່າງບໍ?
+
+840
+01:25:02,915 --> 01:25:06,005
+Why not place it on my right side?
+ເປັນຫຍັງຈຶ່ງບໍ່ວາງ
+ມັນຢູ່ດ້ານຂວາຂອງຂ້ອຍ?
+
+841
+01:25:06,131 --> 01:25:09,352
+- Like the Roman soldier with the spear.
+-
+- ຄືກັບທະຫານໂຣມທີ່ມີປືນ.
+
+842
+01:25:11,650 --> 01:25:15,609
+So you want me to stab you right now as an act of faith.
+ສະນັ້ນເຈົ້າຢາກໃຫ້ຂ້ອຍແທງເຈົ້າ
+ດຽວນີ້ເປັນການກະທໍາຄວາມເຊື່ອ.
+
+843
+01:25:15,734 --> 01:25:17,444
+I didn't say that.
+ຂ້ອຍບໍ່ໄດ້ເວົ້າແບບນັ້ນ.
+
+844
+01:25:19,321 --> 01:25:21,865
+- But what if I want to?
+- Then you would be...
+- ແຕ່ຖ້າຂ້ອຍຢາກເຮັດແນວໃດ?
+- ຫຼັງຈາກນັ້ນເຈົ້າຈະເປັນ...
+
+845
+01:26:14,439 --> 01:26:18,527
+Hi, you've reached Philip. Sorry I can't get to the phone right now, but if you leave your name, number...
+ສະບາຍດີ,ເຈົ້າໄດ້ໂທຫາຟີລິບແລ້ວ.ຂໍໂທດວ່າຂ້ອຍບໍ່ສາມາດ
+ຕອບໂທລະສັບໄດ້ໃນເວລານີ້,ແຕ່ຖ້າເຈົ້າປ່ອຍຊື່,ເບີ...
+
+846
+01:26:18,653 --> 01:26:21,063
+No answer.
+ບໍ່ມີຄໍາຕອບ.
+
+847
+01:26:21,189 --> 01:26:25,512
+Philip, what's up? Where are you? We have Dr. Jenkins, we're really close. Call me.
+ຟີລິບ,ມີຫຍັງເກີດຂຶ້ນ?ເຈົ້າຢູ່ໃສ?ພວກເຮົາ
+ມີດຣເຈນກິນສ໌,ພວກເຮົາໃກ້ຊິດແທ້ໆ.ໂທຫາຂ້ອຍ.
+
+848
+01:26:27,009 --> 01:26:30,782
+So what's your problem with him, anyway?
+ສະນັ້ນບັນຫາຂອງທ່ານກັບ
+ລາວແມ່ນຫຍັງ,ຢ່າງໃດກໍຕາມ?
+
+849
+01:26:30,907 --> 01:26:33,477
+- Me?
+- Yeah. What'd he ever do to you?
+- ຂ້ອຍບໍ?
+- ແມ່ນແລ້ວ. ລາວເຄີຍເຮັດຫຍັງກັບເຈົ້າ?
+
+850
+01:26:33,603 --> 01:26:37,690
+Aside from the fact that he ruined my life? That problem?
+ນອກຈາກຄວາມຈິງທີ່ວ່າລາວໄດ້ທໍາ
+ລາຍຊີວິດຂອງຂ້ອຍບໍ?ບັນຫານັ້ນບໍ?
+
+851
+01:26:38,751 --> 01:26:40,603
+Don't get salty, dude.
+ຢ່າເປັນເກືອ, ເພື່ອນ.
+
+852
+01:26:41,290 --> 01:26:46,477
+- What happened, Dr. Jenkins?
+- Well, you read my book, Isabel. Yes?
+- ເກີດຫຍັງຂຶ້ນ, ດຣ ເຈນກິນສ໌?
+- ດີ, ເຈົ້າອ່ານປື້ມຂອງຂ້ອຍ, ອີຊາເບວ. ແມ່ນບໍ?
+
+853
+01:26:46,603 --> 01:26:50,416
+You were all good friends, academic peers...
+ເຈົ້າທັງໝົດແມ່ນເພື່ອນທີ່ດີ,
+ເພື່ອນຮ່ວມງານທາງວິທະຍາສາດ...
+
+854
+01:26:50,541 --> 01:26:54,374
+He told you his story one night, then "just kidding" and poof, he vanished.
+ລາວບອກເຈົ້າເລື່ອງຂອງລາວໃນຄືນໜຶ່ງ,ຫຼັງ
+ຈາກນັ້ນ"ພຽງແຕ່ໂຊກຮ້າຍ"ແລະ poof ,ລາວຫາຍໄປ.
+
+855
+01:26:54,499 --> 01:26:58,963
+I was angry. I felt betrayed. We all felt betrayed.
+ຂ້ອຍໂຊກຮ້າຍ.ຂ້ອຍຮູ້ສຶກວ່າຖືກປະໝາດ
+.ພວກເຮົາທຸກຄົນຮູ້ສຶກຖືກປະພາດ.
+
+856
+01:26:59,088 --> 01:27:03,236
+And I left there that evening, wanting to expose him for the lunatic that I thought he was.
+ແລະຂ້ອຍອອກຈາກບ່ອນນັ້ນໃນຕອນແລງນັ້ນ,ຢາກເປີດເຜີຍ
+ລາວສໍາລັບຄົນໂຊກຮ້າຍທີ່ຂ້ອຍຄິດວ່າລາວເປັນ.
+
+857
+01:27:03,361 --> 01:27:06,153
+So you became a ninja stalker.
+ສະນັ້ນເຈົ້າຈຶ່ງກາຍເປັນຄົນຕິດຕາມນິນຈາ.
+
+858
+01:27:06,824 --> 01:27:09,973
+I'd given up hope of finding him until I saw your email.
+ຂ້ອຍໄດ້ປະຖິ້ມຄວາມຫວັງທີ່ຈະຊອກຫາ
+ລາວຈົນກວ່າຂ້ອຍຈະເຫັນອີເມວຂອງທ່ານ.
+
+859
+01:27:10,098 --> 01:27:14,102
+But that doesn't explain how you went from a skeptic to a believer.
+ແຕ່ມັນບໍ່ໄດ້ອະທິບາຍວ່າເຈົ້າໄດ້
+ກາຍຈາກຄົນສົງໄສເປັນຄົນເຊື່ອແນວໃດ.
+
+860
+01:27:14,416 --> 01:27:20,633
+I'm an archaeologist. I dug deep, looking for the truth, but I...
+ຂ້ອຍເປັນນັກບູຮານສາດ.ຂ້ອຍຂຸດຄົ້ນຢ່າງ
+ເລິກເຊິ່ງ,ຊອກຫາຄວາມຈິງ,ແຕ່ຂ້ອຍ...
+
+861
+01:27:20,758 --> 01:27:25,572
+couldn't disprove his fantastic story.
+ຂ້ອຍບໍ່ສາມາດພິສູດເລື່ອ
+ງທີ່ຍິ່ງໃຫຍ່ຂອງລາວໄດ້.
+
+862
+01:27:25,892 --> 01:27:32,234
+- So I published. And...
+- Got run out of Dodge on a rail.
+- ສະນັ້ນຂ້ອຍຈຶ່ງເຜີຍແຜ່. ແລະ...
+- ຂ້ອຍຖືກແລ່ນອອກຈາກ Dodge ໃນລົດໄຟ.
+
+863
+01:27:32,360 --> 01:27:34,581
+It sucks to be you.
+ມັນໂຊກຮ້າຍທີ່ຈະເປັນເຈົ້າ.
+
+864
+01:27:37,835 --> 01:27:39,979
+No, I would agree.
+ບໍ່, ຂ້ອຍເຫັນດີ.
+
+865
+01:27:49,421 --> 01:27:53,663
+- I guess the ambulance has already come and gone.
+- They left the front door open. Maybe there's a note.
+- ຂ້ອຍຄິດວ່າລົດສຸກເສີນໄດ້ມາແລ້ວແລະໄປແລ້ວ.
+- ພວກເຂົາປ່ອຍປະຕູທາງໜ້າເປີດໄວ້. ບາງທີມີຂໍ້ຄວາມ.
+
+866
+01:27:53,788 --> 01:27:56,922
+Start calling the hospitals. There can't be that many in this town.
+ເລີ່ມໂທຫາໂຮງໝໍ.ບໍ່ສາມາດ
+ມີຫຼາຍປານໃດໃນເມືອງນີ້ໄດ້.
+
+867
+01:27:57,047 --> 01:28:02,039
+- Professor Young's truck is gone.
+- Hello? Anybody home?
+- ລົດບັນທຸກຂອງສາດສະດາຈານຢອງຫາຍໄປແລ້ວ.
+- ສະບາຍດີ? ມີໃຜຢູ່ເຮືອນບໍ?
+
+868
+01:28:02,164 --> 01:28:06,613
+Still no answer. Philip, what's up? Where are you?
+ຍັງບໍ່ມີຄໍາຕອບ.ຟີລິບ,
+ມີຫຍັງເກີດຂຶ້ນ?ເຈົ້າຢູ່ໃສ?
+
+869
+01:28:25,195 --> 01:28:28,245
+- Look, there's blood.
+-
+- ເບິ່ງ, ມີເລືອດ.
+
+870
+01:28:41,218 --> 01:28:44,569
+Okay, okay. What went on here?
+ດີ, ດີ. ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+871
+01:28:44,694 --> 01:28:49,085
+- I don't know. Philip said he was calling an ambulance.
+- You need to call the police.
+- ຂ້ອຍບໍ່ຮູ້. ຟີລິບບອກວ່າລາວ ກໍາ ລັງໂທຫາລົດສຸກເສີນ.
+- ເຈົ້າຕ້ອງໂທຫາຕໍາຫຼວດ.
+
+872
+01:28:49,210 --> 01:28:53,368
+- Hang on, we don't know what happened.
+- That's why you need to call the police.
+- ລໍຖ້າ, ພວກເຮົາບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນ.
+- ນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າຕ້ອງໂທຫາຕໍາຫຼວດ.
+
+873
+01:28:53,668 --> 01:28:56,440
+Philip might've done something stupid.
+ຟີລິບອາດຈະເຮັດບາງສິ່ງບາງຢ່າງທີ່ໂງ່.
+
+874
+01:28:57,328 --> 01:29:00,210
+Don't touch that. You have to dial 911.
+ຢ່າຈັບມັນ. ເຈົ້າຕ້ອງໂທຫາ 911.
+
+875
+01:29:00,335 --> 01:29:03,696
+There's a broken chair and some blood. We don't know what went on.
+ມີຕັ່ງທີ່ແຕກແລະເລືອດບາງຢ່າງ.
+ພວກເຮົາບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນ.
+
+876
+01:29:03,821 --> 01:29:07,522
+Two people and a car are missing.
+ຄົນສອງຄົນແລະລົດຫາຍໄປ.
+
+877
+01:29:07,648 --> 01:29:11,358
+- We have to find Philip.
+- No, you have to call the p...
+- ພວກເຮົາຕ້ອງຊອກຫາຟີລິບ.
+- ບໍ່, ເຈົ້າຕ້ອງໂທຫາ p...
+
+878
+01:29:12,429 --> 01:29:14,899
+I'll do it.
+ຂ້ອຍຈະເຮັດມັນ.
+
+879
+01:29:15,024 --> 01:29:20,728
+Wait, wait, just one minute, okay? I don't want to get in trouble, okay? No one does. Let's just think about what happened.
+ຖ້າ,ລໍຖ້າ,ພຽງແຕ່ໜຶ່ງນາທີ,ດີ?ຂ້ອຍບໍ່ຢາກເຂົ້າໄປໃນຄວາມຫຍຸ້ງຍາກ
+,ດີບໍ?ບໍ່ມີໃຜເຮັດ.ພວກເຮົາພຽງແຕ່ຄິດກ່ຽວກັບສິ່ງທີ່ເກີດຂຶ້ນ.
+
+880
+01:29:20,853 --> 01:29:23,937
+If the ambulance came, then Professor Young is in the hospital.
+ຖ້າລົດສຸກເສີນມາ,ຫຼັງຈາກນັ້ນ
+ສາດສະດາຈານຢອງຢູ່ໃນໂຮງໝໍ.
+
+881
+01:29:24,062 --> 01:29:29,304
+No. The paramedics would have stopped the bleeding down here. There wouldn't be a blood trail all the way up the stairs right there.
+ບໍ່.ພວກແພດສຸກເສີນຈະຢຸດການເລືອດໄຫຼຢູ່ບ່ອນນີ້.ມັນ
+ຈະບໍ່ມີຮ່ອງຮອຍເລືອງຕະຫຼອດທາງຂຶ້ນຂັ້ນເທິງຢູ່ບ່ອນນັ້ນ.
+
+882
+01:29:29,429 --> 01:29:32,198
+- We're not criminals.
+- No, no, you have no choice.
+- ພວກເຮົາບໍ່ແມ່ນອາຊະຍາກໍາ.
+- ບໍ່, ບໍ່, ເຈົ້າບໍ່ມີທາງເລືອກ.
+
+883
+01:29:32,323 --> 01:29:38,997
+If the cops come, then we all get arrested, okay? Forget college, forget everything. Our lives are totally over, period.
+ຖ້າຕໍາຫຼວດມາ,ຫຼັງຈາກນັ້ນພວກເຮົາທຸກຄົນຈະຖືກຈັບກຸມ,ດີບໍ?ລືມ
+ວິທະຍາໄລ,ລືມທຸກຢ່າງ.ຊີວິດຂອງພວກເຮົາໄດ້ສິ້ນສຸດລົງຢ່າງສົມບູນ,ຈຸດ.
+
+884
+01:29:39,398 --> 01:29:42,813
+But where are they?
+ແຕ່ພວກເຂົາຢູ່ໃສ?
+
+885
+01:29:42,938 --> 01:29:47,217
+Do you think Professor Young killed Philip?
+ເຈົ້າຄິດວ່າສາດສະດາຈານຢົງໄດ້ຂ້າຟີລິບບໍ?
+
+886
+01:29:47,343 --> 01:29:50,924
+- No way.
+- Maybe Philip killed Professor Young.
+- ບໍ່ເປັນໄປເລີຍ.
+- ບາງທີຟີລິບໄດ້ຂ້າສາດສະດາຈານ ຢົງ.
+
+887
+01:29:51,050 --> 01:29:57,054
+Now that is impossible. Because he would have had to cut his head off. And there's not enough blood in here for that.
+ດຽວນີ້ມັນບໍ່ສາມາດເຮັດໄດ້ເພາະວ່າລາວຈະຕ້ອງຕັດຫົວຂອງ
+ລາວອອກແລະບໍ່ມີເລືອດພຽງພໍໃນບ່ອນນີ້ສໍາລັບສິ່ງນັ້ນ
+
+888
+01:29:57,179 --> 01:30:01,233
+- That's a little graphic.
+- Maybe they both just drove away together.
+- ນັ້ນແມ່ນຮູບພາບນ້ອຍໆ.
+- ບາງທີພວກເຂົາທັງສອງພຽງແຕ່ຂັບລົດໄປຮ່ວມກັນ.
+
+889
+01:30:01,358 --> 01:30:05,606
+- After having a knife fight?
+- Or a ritual sacrifice?
+- ຫຼັງຈາກການຕໍ່ສູ້ດ້ວຍດອກໄມ້ບໍ?
+- ຫຼືເປັນການເສຍສະຫຼະພິທີການບໍ?
+
+890
+01:30:06,320 --> 01:30:11,007
+Okay, Professor Young was leaving... Maybe he just left.
+ດີແລ້ວ,ສາດສະດາຈານຢົງກໍາລັງ
+ອອກໄປ...ບາງທີລາວຫາກໍ່ອອກໄປ.
+
+891
+01:30:11,132 --> 01:30:17,201
+No, because the Van Gogh is still upstairs. It doesn't make sense that he would leave it behind, after all these years.
+ບໍ່,ເພາະວ່າ Van Gogh ຍັງຢູ່ເທິງ.ມັນບໍ່ມີຄວາມໝາຍ
+ວ່າລາວຈະປ່ອຍມັນຢູ່ເບື້ອງຫຼັງ,ຫຼັງຈາກຫຼາຍປີນີ້.
+
+892
+01:30:17,327 --> 01:30:21,579
+Okay, listen. Tara, why don't you and Dr. Jenkins call all the hospitals, see if he's there.
+ດີແລ້ວ,ຟັງ.ຕາຣາ,ເປັນຫຍັງເຈົ້າແລະດຣເຈນກິນສ໌ຈຶ່ງ
+ບໍ່ໂທຫາໂຮງໝໍທັງໝົດ,ເບິ່ງວ່າລາວຢູ່ບ່ອນນັ້ນບໍ.
+
+893
+01:30:21,704 --> 01:30:25,530
+Liko and I will stay here, figure out what to do with this.
+ຂ້ອຍແລະລີໂກຈະຢູ່ບ່ອນນີ້,
+ຄິດວ່າຈະເຮັດແນວໃດກັບສິ່ງນີ້.
+
+894
+01:30:26,413 --> 01:30:28,350
+Sound like a plan.
+ມັນເບິ່ງຄືວ່າເປັນແຜນການ.
+
+895
+01:31:22,374 --> 01:31:28,313
+Well, I got your letter, obviously. I was surprised to hear from you, to say the least. And a letter.
+ດີ,ຂ້ອຍໄດ້ຮັບຈົດໝາຍຂອງທ່ານ,ແນ່ນອນ.ຂ້ອຍແປກໃຈ
+ທີ່ໄດ້ຍິນຈາກທ່ານ,ເວົ້າຢ່າງໜ້ອຍ.ແລະຈົດໝາຍ.
+
+896
+01:31:30,062 --> 01:31:32,902
+Technology is not my friend these days.
+ເທັກໂນໂລຢີບໍ່ແມ່ນ
+ເພື່ອນຂອງຂ້ອຍໃນມື້ນີ້.
+
+897
+01:31:39,867 --> 01:31:45,248
+- It was a lot of absorb, John.
+- I know.
+- ມັນດູດຊຶມຫຼາຍ, ຈອນ.
+- ຂ້ອຍຮູ້ແລ້ວ.
+
+898
+01:31:47,671 --> 01:31:49,742
+How are you feeling?
+ເຈົ້າຮູ້ສຶກແນວໃດ?
+
+899
+01:31:49,867 --> 01:31:54,565
+Still sore. I'm not used to being injured for an extended period of time.
+ຂ້ອຍຍັງເຈັບປວດ.ຂ້ອຍບໍ່ເຄີຍ
+ໄດ້ຮັບບາດເຈັບເປັນເວລາດົນນານ.
+
+900
+01:31:54,690 --> 01:31:56,596
+It's only been six weeks.
+ມັນພຽງແຕ່ຫົກອາທິດແລ້ວ.
+
+901
+01:31:56,721 --> 01:32:00,359
+I've had much worse, and I'm usually up in a couple of days.
+ຂ້ອຍເຄີຍມີຮ້າຍແຮງກວ່າເກົ່າ
+,ແລະຂ້ອຍມັກຕື່ນໃນສອງສາມມື້.
+
+902
+01:32:01,111 --> 01:32:06,144
+- This is different, Harry.
+- How so?
+- ນີ້ແມ່ນແຕກຕ່າງກັນ, ແຮຣີ.
+- ເປັນແນວໃດ?
+
+903
+01:32:06,472 --> 01:32:09,981
+I don't know. But I hope I'll find out soon.
+ຂ້ອຍບໍ່ຮູ້.ແຕ່ຂ້ອຍຫວັງ
+ວ່າຂ້ອຍຈະຮູ້ວ່າໄວໆນີ້.
+
+904
+01:32:11,853 --> 01:32:15,931
+I like the beard. Reminds me of a Schauzer I had once.
+ຂ້ອຍມັກດອກໄມ້.ຈື່ຂ້ອຍເຖິງ
+Schauzer ທີ່ຂ້ອຍເຄີຍມີຄັ້ງໜຶ່ງ.
+
+905
+01:32:18,463 --> 01:32:21,250
+No, no. I got it.
+ບໍ່, ບໍ່. ຂ້ອຍເຮັດແລ້ວ.
+
+906
+01:32:23,229 --> 01:32:26,747
+- So you're living here?
+- Yes.
+- ສະນັ້ນເຈົ້າອາໄສຢູ່ບ່ອນນີ້ບໍ?
+- ແມ່ນແລ້ວ.
+
+907
+01:32:27,472 --> 01:32:30,781
+- How much longer?
+- I don't know.
+- ອີກດົນປານໃດ?
+- ຂ້ອຍບໍ່ຮູ້.
+
+908
+01:32:35,157 --> 01:32:38,801
+I think I found a name for myself, Harry. A classification.
+ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ພົບຊື່ສໍາ
+ລັບຕົວເອງ,ແຮຣີ.ການຈັດປະເພດ.
+
+909
+01:32:39,536 --> 01:32:43,144
+- 'Holocene Man'.
+- Your dates are a little off.
+- ຜູ້ຊາຍໂຮໂລເຊນ.
+- ວັນທີຂອງທ່ານຜິດພາດເລັກນ້ອຍ.
+
+910
+01:32:43,269 --> 01:32:47,565
+- The Holocene only goes back twelve thousand years. And you, you're...
+-
+-ໂຮໂລເຊນກັບຄືນໄປບ່ອນພຽງແຕ່ສິບສອງ
+ພັນປີເທົ່ານັ້ນ.ແລະເຈົ້າ,ເຈົ້າແມ່ນ...
+
+911
+01:32:47,690 --> 01:32:52,222
+I saw the ice melt, watched the birth of the epoch.
+ຂ້ອຍເຫັນກ້ອນລະລາຍ,
+ເບິ່ງການເກີດຂອງສະໄໝ.
+
+912
+01:32:52,978 --> 01:32:58,463
+Yeah, well, the scientific community is starting to coalesce around the idea that the Holocene's over.
+ແມ່ນແລ້ວ,ດີ,ປະຊາຄົມວິທະຍາສາດກໍາລັງເລີ່ມຕົ້ນລວມ
+ຕົວຢູ່ອ້ອມຮອບຄວາມຄິດວ່າ Holocene ໄດ້ສິ້ນສຸດລົງ.
+
+913
+01:32:58,588 --> 01:33:03,159
+We're now living in the Anthropocene.
+ພວກເຮົາກໍາລັງດໍາລົງຊີວິດ
+ໃນ Anthropocene ດຽວນີ້.
+
+914
+01:33:04,173 --> 01:33:08,665
+The impact of man's activities on the planet being so severe it's changed it permanently,
+ຜົນກະທົບຈາກກິດຈະການຂອງມະນຸດໃນໂລກທີ່
+ຮ້າຍແຮງຫຼາຍມັນໄດ້ປ່ຽນແປງມັນຢ່າງຖາວອນ,
+
+915
+01:33:08,791 --> 01:33:11,792
+creating a whole new epoch.
+ສ້າງຍຸກໃໝ່ຢ່າງສົມບູນ.
+
+916
+01:33:12,431 --> 01:33:16,129
+That would explain a thing or two about my condition.
+ນັ້ນຈະອະທິບາຍບາງສິ່ງ
+ບາງຢ່າງກ່ຽວກັບສະພາບຂອງຂ້ອຍ.
+
+917
+01:33:16,255 --> 01:33:18,409
+End of an era.
+ການສິ້ນສຸດຂອງຍຸກສະໄໝ.
+
+918
+01:33:19,008 --> 01:33:22,553
+Oh, John. C'mon, don't talk like that.
+ໂອ້ ຈອນ. ມາແລ້ວ, ຢ່າເວົ້າແບບນັ້ນ.
+
+919
+01:33:22,678 --> 01:33:27,099
+Well, everything ends. And apparently, nobody lives forever.
+ດີ,ທຸກຢ່າງສິ້ນສຸດລົງ.ແລະ
+ເບິ່ງຄືວ່າ,ບໍ່ມີໃຜອາໄສຢູ່ຕະຫຼອດໄປ.
+
+920
+01:33:31,236 --> 01:33:32,948
+What is it?
+ມັນເປັນຫຍັງ?
+
+921
+01:33:35,626 --> 01:33:40,313
+John, I didn't do this, come here, for any reason, except you asked.
+ຈອນ,ຂ້ອຍບໍ່ໄດ້ເຮັດສິ່ງນີ້,ມາບ່ອນນີ້,
+ດ້ວຍເຫດຜົນໃດກໍ່ຕາມ,ຍົກເວັ້ນວ່າທ່ານຖາມ.
+
+922
+01:33:40,439 --> 01:33:44,403
+But, since we're here, and since we're talking. I could really use your help.
+ແຕ່,ນັບຕັ້ງແຕ່ພວກເຮົາຢູ່ບ່ອນນີ້,ແລະຕັ້ງແຕ່ພວກເຮົາກໍາ
+ລັງເວົ້າກັນ.ຂ້ອຍສາມາດໃຊ້ຄວາມຊ່ວຍເຫຼືອຂອງທ່ານໄດ້ແທ້ໆ.
+
+923
+01:33:44,528 --> 01:33:49,581
+It's my dad. He's been sick for a while. And now...
+ມັນເປັນພໍ່ຂອງຂ້ອຍ.ລາວເຈັບປ່ວຍ
+ເປັນເວລາດົນນານແລ້ວ.ແລະດຽວນີ້...
+
+924
+01:33:50,541 --> 01:33:54,573
+Would you be willing to come home with me? Just for a while?
+ເຈົ້າພ້ອມທີ່ຈະກັບບ້ານ
+ກັບຂ້ອຍບໍ?ພຽງແຕ່ຊົ່ວຄາວ?
+
+925
+01:33:56,456 --> 01:34:03,456
+- I think he would really like to meet you.
+- I'll go check my calendar. But I think I'm free.
+- ຂ້ອຍຄິດວ່າລາວຢາກພົບເຈົ້າແທ້ໆ.
+- ຂ້ອຍຈະໄປກວດເບິ່ງຕາຕະລາງຂອງຂ້ອຍ. ແຕ່ຂ້ອຍຄິດວ່າຂ້ອຍເປັນອິດສະຫຼະ.
+
+926
+01:36:16,489 --> 01:36:20,398
+Dr. Jenkins? Angelo Garcetti, FBI.
+ດຣ ເຈນກິນສ໌? ແອນເຈໂລ ແກຣເຊັດຕິ, FBI.
+
+927
+01:36:20,707 --> 01:36:23,418
+FBI. What can I do for you?
+FBI ຂ້ອຍສາມາດຊ່ວຍເຈົ້າໄດ້ແນວໃດ?
+
+928
+01:36:23,543 --> 01:36:28,927
+I was hoping we could talk about John Young, aka John Oldman, aka John Magdel.
+ຂ້ອຍຫວັງວ່າພວກເຮົາສາມາດເວົ້າກ່ຽວກັບ
+ຈອນຢົງ,ຫຼືຈອນໂອລດແມນ,ຫຼືຈອນມາຈເດວ.
+
+929
+01:36:29,052 --> 01:36:31,911
+Yeah, yeah. I know who you mean.
+ແມ່ນແລ້ວ,ແມ່ນແລ້ວ.ຂ້ອຍ
+ຮູ້ວ່າເຈົ້າໝາຍຄວາມວ່າໃຜ.
+
+930
+01:36:32,036 --> 01:36:37,739
+- I don't know where he is, if that's what you want to know.
+- Oh, I'm aware of that. If you knew where he was, I'd know where he was.
+- ຂ້ອຍບໍ່ຮູ້ວ່າລາວຢູ່ໃສ, ຖ້ານັ້ນແມ່ນສິ່ງທີ່ເຈົ້າຢາກຮູ້.
+- ໂອ້, ຂ້ອຍຮູ້ເລື່ອງນັ້ນ. ຖ້າເຈົ້າຮູ້ວ່າລາວຢູ່ໃສ, ຂ້ອຍຈະຮູ້ວ່າລາວຢູ່ໃນໃສ.
+
+931
+01:36:37,864 --> 01:36:40,372
+Oh. Is that so?
+ໂອ້. ນັ້ນແມ່ນຄວາມຈິງບໍ?
+
+932
+01:36:40,965 --> 01:36:46,364
+- Do you think he kidnapped Philip Nichols?
+- I hope not. I'd hate to think he'd hurt a kid.
+- ເຈົ້າຄິດວ່າລາວໄດ້ລັກພາຕົວຟີລິບ ນິກອລສ໌ບໍ?
+- ຂ້ອຍຫວັງວ່າບໍ່ແມ່ນ. ຂ້ອຍບໍ່ຢາກຄິດວ່າລາວຈະເຮັດໃຫ້ເດັກນ້ອຍເຈັບປວດ.
+
+933
+01:36:46,489 --> 01:36:49,559
+You have reason to believe he's capable of violence?
+ເຈົ້າມີເຫດຜົນທີ່ຈະເຊື່ອວ່າ
+ລາວສາມາດໃຊ້ຄວາມຮຸນແຮງໄດ້ບໍ?
+
+934
+01:36:50,301 --> 01:36:55,809
+He hunts large animals with a bow and arrow, and he butchers them with his own hands.
+ລາວລ່າສັດໃຫຍ່ດ້ວຍກະທູ້ແລະລູກປືນ
+,ແລະລາວຂ້າພວກມັນດ້ວຍມືຂອງລາວເອງ.
+
+935
+01:36:55,934 --> 01:36:59,854
+- I have no idea what he's capable of.
+-
+-ຂ້ອຍບໍ່ຮູ້ເລີຍວ່າ
+ລາວສາມາດເຮັດຫຍັງໄດ້.
+
+936
+01:36:59,980 --> 01:37:05,276
+- You've said this main claims to be immortal?
+- Sometimes he claims it, sometimes he denies it.
+- ເຈົ້າບອກວ່າຄົນຫລັກຄົນນີ້ອ້າງວ່າເປັນຄົນບໍ່ຕາຍບໍ?
+- ບາງຄັ້ງລາວອ້າງວ່າມັນ, ບາງຄັ້ງລາວກ່າວປະຕິເສດມັນ.
+
+937
+01:37:05,401 --> 01:37:10,490
+- Do you think it's true?
+- I don't know anymore. Maybe he's just older than he looks.
+- ເຈົ້າຄິດວ່າມັນເປັນຄວາມຈິງບໍ?
+- ຂ້ອຍບໍ່ຮູ້ອີກແລ້ວ. ບາງທີລາວພຽງແຕ່ໃຫຍ່ກວ່າທີ່ເບິ່ງຄືວ່າ.
+
+938
+01:37:10,615 --> 01:37:16,168
+You describe him as over six feet, thin, with dark hair and eyes.
+ເຈົ້າອະທິບາຍລາວວ່າສູງກວ່າ 6
+ຟຸດ,ອ່ອນແອ,ມີຜົມສີດໍາແລະຕາ.
+
+939
+01:37:16,293 --> 01:37:18,325
+Interesting.
+ໜ້າສົນໃຈ.
+
+940
+01:37:18,450 --> 01:37:22,247
+- Why? What's it to you?
+- It's a cold case.
+- ເປັນຫຍັງ? ມັນເປັນຫຍັງກັບເຈົ້າ?
+- ມັນເປັນກໍລະນີທີ່ເຢັນ.
+
+941
+01:37:22,372 --> 01:37:26,020
+Crazy thing. His description matches a guy, died years ago.
+ສິ່ງໂຊກຮ້າຍ.ການອະທິບາຍຂອງລາວເໝາະສົມກັບ
+ຜູ້ຊາຍຄົນໜຶ່ງ,ເສຍຊີວິດຫຼາຍປີກ່ອນ.
+
+942
+01:37:26,145 --> 01:37:32,645
+But witnesses keep placing him at the scene of violent crimes. Sick, twisted stuff, nightmares.
+ແຕ່ພວກພະຍານສືບຕໍ່ວາງລາວຢູ່ບ່ອນເກີດອາຊະຍາກໍາ
+ທີ່ຮຸນແຮງ.ສິ່ງເຈັບປ່ວຍ,ທີ່ສໍ້ໂກງ,ຄວາມຝັນຮ້າຍ.
+
+943
+01:37:33,332 --> 01:37:38,653
+Always a different name, different place, but the same description.
+ຊື່ທີ່ແຕກຕ່າງກັນຢູ່ສະເໝີ,ສະຖານທີ່
+ທີ່ແຕກຕ່າງກັນ,ແຕ່ການອະທິບາຍດຽວກັນ.
+
+944
+01:37:39,348 --> 01:37:43,397
+I don't think John would hurt people intentionally.
+ຂ້ອຍບໍ່ຄິດວ່າຈອນຈະເຮັດໃຫ້
+ຄົນເຈັບປວດຢ່າງຕັ້ງໃຈ.
+
+945
+01:37:43,523 --> 01:37:49,393
+- But he is certainly a skilled identity fabricator.
+- Maybe so.
+- ແຕ່ລາວແນ່ນອນວ່າເປັນຜູ້ປອມແປງຕົວຕົນທີ່ມີຄວາມສາມາດ.
+- ບາງທີເປັນ.
+
+946
+01:37:49,519 --> 01:37:54,909
+But an immortal, identity-changing serial killer... Do you think such a thing could exist?
+ແຕ່ຜູ້ຄາດຕະກໍາຊຸດທີ່ບໍ່ມີຄວາມຕາຍ,ປ່ຽນຕົວຕົນ
+...ເຈົ້າຄິດວ່າສິ່ງດັ່ງກ່າວສາມາດມີຢູ່ໄດ້ບໍ?
+
+947
+01:37:56,481 --> 01:37:58,528
+I think...
+ຂ້ອຍຄິດວ່າ...
+
+948
+01:37:59,911 --> 01:38:02,082
+anything is possible.
+ທຸກຢ່າງເປັນໄປໄດ້.
+
+949
+01:38:04,999 --> 01:38:07,242
+Hi again. I hope you enjoyed the film.
+ສະບາຍດີອີກເທື່ອໜຶ່ງ.ຂ້ອຍຫວັງ
+ວ່າເຈົ້າໄດ້ເພີດເພີນກັບຮູບເງົາ.
+
+950
+01:38:07,368 --> 01:38:09,672
+As you probably noticed, we left the ending kind of open,
+ດັ່ງທີ່ເຈົ້າອາດຈະສັງເກດເຫັນ,
+ພວກເຮົາໄດ້ປ່ອຍໃຫ້ຕອນທ້າຍເປີດຢູ່,
+
+951
+01:38:09,798 --> 01:38:13,982
+and that's because we hope to make another movie, or possibly even a television series.
+ແລະນັ້ນແມ່ນຍ້ອນວ່າພວກເຮົາຫວັງທີ່ຈະເຮັດ
+ຮູບເງົາອີກຄັ້ງ,ຫຼືບາງທີເຖິງແມ່ນວ່າຊຸດໂທລະພາບ.
+
+952
+01:38:14,108 --> 01:38:16,413
+But we can't do any of that without your support,
+ແຕ່ພວກເຮົາບໍ່ສາມາດເຮັດສິ່ງທັງໝົດ
+ນັ້ນໄດ້ໂດຍບໍ່ມີການສະໜັບສະໜູນຂອງທ່ານ,
+
+953
+01:38:16,539 --> 01:38:20,342
+and that's why we really appreciate your decision to go to manfromearth.com
+ແລະນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຮົາຍ້ອງຍໍ
+ການຕັດສິນໃຈຂອງທ່ານທີ່ຈະໄປ manfromearth . com
+
+954
+01:38:20,468 --> 01:38:23,523
+and click "donate". Whatever amount you think is fair.
+ແລະຄລິກໃສ່"ບໍລິຈາກ".ເງິນຈໍາ
+ນວນໃດທີ່ທ່ານຄິດວ່າເປັນຍຸຕິທໍາ.
+
+955
+01:38:23,649 --> 01:38:27,053
+You can also help out by buying a DVD or a Blu-Ray.
+ເຈົ້າຍັງສາມາດຊ່ວຍໄດ້
+ໂດຍການຊື້ DVD ຫຼື Blu-Ray .
+
+956
+01:38:27,179 --> 01:38:29,919
+Once again, we really appreciate your support.
+ອີກເທື່ອໜຶ່ງ,ພວກເຮົາຍ້ອງຍໍ
+ການສະໜັບສະໜູນຂອງທ່ານແທ້ໆ.
+
+957
+01:38:30,045 --> 01:38:34,210
+We thank you for watching the movie, and for helping to spread the word.
+ພວກເຮົາຂອບໃຈເຈົ້າທີ່ເບິ່ງ
+ຮູບເງົາ,ແລະທີ່ຊ່ວຍເຜີຍແຜ່ຂ່າວ.
+
+958
+01:38:36,210 --> 01:38:41,210
+INSERT CREDITS HERE
+ໃສ່ສິນເຊື່ອຢູ່ບ່ອນນີ້
+
