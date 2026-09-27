@@ -1,0 +1,5049 @@
+1
+00:01:02,937 --> 00:01:07,274
+There he is! Let's get him.
+ລາວຢູ່ບ່ອນນັ້ນ! ມາເອົາລາວ.
+
+2
+00:03:14,431 --> 00:03:19,352
+Area 7 to Command. We could use another survey team out here.
+ເຂດ 7 ເຖິງການບັນຊາການ.ພວກເຮົາສາມາດ
+ໃຊ້ທີມສໍາຫຼວດອີກຄົນໜຶ່ງຢູ່ນີ້ໄດ້.
+
+3
+00:03:19,560 --> 00:03:25,274
+Ensigns McCauley and Gilles,
+assist edaphology team in area 7.
+ພົນຈັດຕະວາແມັກຄູລີແລະຈີລສ໌,
+ຊ່ວຍທີມງານເອດາຟໍໂລຈີໃນເຂດ 7 .
+
+4
+00:03:25,483 --> 00:03:27,526
+Acknowledged.
+ຍອມຮັບແລ້ວ.
+
+5
+00:03:47,794 --> 00:03:51,172
+Admiral Dougherty is waiting
+for this. Transmit it to the ship.
+ນາຍພົນດູເກີຕີກໍາລັງລໍຖ້າ
+ສິ່ງນີ້.ສົ່ງມັນໄປຫາເຮືອ.
+
+6
+00:03:51,381 --> 00:03:54,550
+"Alert!"
+Area 12!
+ແຈ້ງເຕືອນ! ເຂດ 12!
+
+7
+00:04:02,016 --> 00:04:05,769
+- "The android is out of control."
+- Report.
+- ແອນດຣອຍອອກຈາກການຄວບຄຸມ.
+- ລາຍງານ.
+
+8
+00:04:05,977 --> 00:04:10,940
+- "He's headed toward the village."
+- Over there!
+- ລາວ ກໍາ ລັງໄປສູ່ບ້ານ.
+- ຢູ່ບ່ອນນັ້ນ!
+
+9
+00:04:13,067 --> 00:04:16,153
+Magnify.
+ຍິ່ງໃຫຍ່ຂຶ້ນ.
+
+10
+00:04:22,868 --> 00:04:25,620
+Hold your fire.
+ຢຸດຍິງ.
+
+11
+00:04:25,829 --> 00:04:28,414
+What is it?
+ມັນເປັນຫຍັງ?
+
+12
+00:04:32,793 --> 00:04:35,212
+Base to Commander Data.
+ຖານໃຫ້ຂໍ້ມູນຜູ້ບັນຊາການ.
+
+13
+00:04:35,421 --> 00:04:40,092
+Re-routing microhydraulic
+power distribution.
+ການປ່ຽນເສັ້ນທາງການແຈກຢາຍ
+ພະລັງງານໄມໂຄໄຮໂດຼລິກ.
+
+14
+00:04:40,300 --> 00:04:44,304
+- "Regulating thermal overload."
+- Data, report immediately!
+- ການຄວບຄຸມຄວາມຮ້ອນເກີນໄປ.
+- ຂໍ້ມູນ, ລາຍງານທັນທີ!
+
+15
+00:04:44,512 --> 00:04:49,684
+Transferring matrix functions.
+Engaging secondary protocol.
+ການໂອນໜ້າທີ່ແມຕຣິກສ໌.ການ
+ເຊື່ອມໂຍງໂປໂຕໂຄລຂັ້ນສອງ.
+
+16
+00:04:49,892 --> 00:04:52,269
+He's trying to remove the headpiece.
+ລາວ ກໍາ ລັງພະຍາຍາມເອົາກະຕ່າຫົວອອກ.
+
+17
+00:04:52,478 --> 00:04:56,440
+All field units,
+intercept the android.
+ໜ່ວຍງານພາກສະໜາມທັງ
+ໝົດ,ກີດກັ້ນແອນດຣອຍ.
+
+18
+00:05:02,695 --> 00:05:04,864
+Artim, it's all right.
+ອາຕີມ, ມັນບໍ່ເປັນຫຍັງ.
+
+19
+00:05:10,119 --> 00:05:12,162
+Get inside.
+ເຂົ້າໄປໃນ.
+
+20
+00:05:23,005 --> 00:05:29,428
+Everyone get inside now.
+Backto your homes.
+ທຸກຄົນເຂົ້າໄປໃນເຮືອນດຽວນີ້
+.ກັບຄືນໄປເຮືອນຂອງທ່ານ.
+
+21
+00:05:30,554 --> 00:05:35,141
+- Secondary protocol is active.
+- Stop him! Now!
+- ໂປໂຕໂກລຂັ້ນສອງແມ່ນເຄື່ອນໄຫວ.
+- ຢຸດລາວ! ດຽວນີ້!
+
+22
+00:05:45,567 --> 00:05:51,198
+Commander Data, stand down.
+That's an order! Stand down!
+ຜູ້ບັນຊາການ Data ,ຖອນຕົວອອກ
+.ນັ້ນແມ່ນຄໍາສັ່ງ!ຖອນໂຕອອກ!
+
+23
+00:06:24,936 --> 00:06:28,064
+Who are they?.
+ພວກເຂົາເປັນໃຜ?.
+
+24
+00:06:49,542 --> 00:06:53,045
+It's an M-class planet.
+Population 300 million.
+ມັນເປັນໂລກປະເພດ M .
+ປະຊາກອນ 300 ລ້ານຄົນ.
+
+25
+00:06:53,254 --> 00:06:57,591
+- Say the greeting again.
+- Yew-chin chef-faw.
+- ສະບາຍດີອີກເທື່ອໜຶ່ງ.
+- Yew-chin chef-faw.
+
+26
+00:06:57,799 --> 00:07:01,720
+You either need a new uniform
+or a new neck.
+ເຈົ້າຕ້ອງການຊຸດໃໝ່ຫຼືຄໍໃໝ່.
+
+27
+00:07:01,928 --> 00:07:06,474
+- My collar size hasn't changed.
+- Of course not!
+- ຂະໜາດຄໍຂອງຂ້ອຍບໍ່ໄດ້ປ່ຽນແປງ.
+- ແນ່ນອນວ່າບໍ່ແມ່ນ!
+
+28
+00:07:06,682 --> 00:07:10,436
+Our guests
+are eating the floral arrangements.
+ແຂກຂອງພວກເຮົາກໍາລັງ
+ກິນການຈັດວາງດອກໄມ້.
+
+29
+00:07:10,644 --> 00:07:15,440
+- No cocktails before dinner?.
+- My God! Are they vegetarian?
+- ບໍ່ມີຄອກເທວກ່ອນອາຫານຄໍ່າບໍ?
+- ພຣະເຈົ້າຂອງຂ້ອຍ! ພວກເຂົາເປັນຜັກຜັກບໍ?
+
+30
+00:07:15,691 --> 00:07:21,029
+Does the chef have a dressing
+that goes well with chrysanthemums?
+ເຈົ້າຄົວມີເຄື່ອງນຸ່ງຫົ່ມທີ່
+ເຂົ້າກັນໄດ້ດີກັບກຣິຊານເທມັມບໍ?
+
+31
+00:07:25,199 --> 00:07:29,912
+Captain Picard, Command wants
+to know our ETA at the Goren system?
+ຄັບປິນປິກາດ,ການບັນຊາການຢາກຮູ້
+ເວລາເວລາຂອງພວກເຮົາໃນລະບົບໂກເຣນບໍ?
+
+32
+00:07:30,120 --> 00:07:33,707
+- The Goren system?
+- Some territorial dispute.
+- ລະບົບໂກເຣນບໍ?
+- ການຂັດແຍ່ງເຂດແດນບາງຢ່າງ.
+
+33
+00:07:33,915 --> 00:07:39,170
+If we delay our trip to Hanoran Il,
+it'll put us in the monsoon season.
+ຖ້າພວກເຮົາຊັກຊ້າການເດີນທາງໄປຮານໍານອ
+ິລ,ມັນຈະເຮັດໃຫ້ພວກເຮົາຢູ່ໃນລະດູຝົນ.
+
+34
+00:07:39,379 --> 00:07:41,214
+Captain ...
+ຄັບປິນ...
+
+35
+00:07:41,422 --> 00:07:46,885
+- The diplomatic corps is busy.
+- So we get to put out another fire.
+- ກົມການທູດມີວຽກເຮັດງານທໍາຫຼາຍ.
+- ສະນັ້ນພວກເຮົາຈະສາມາດປິດໄຟອີກຄັ້ງ.
+
+36
+00:07:48,303 --> 00:07:52,557
+Can anyone remember
+when we used to be explorers?
+ມີໃຜຈື່ໄດ້ບໍວ່າເມື່ອ
+ພວກເຮົາເຄີຍເປັນນັກຄົ້ນຄວ້າ?
+
+37
+00:07:53,225 --> 00:07:55,518
+Deck 10.
+ກະຕ່າ 10.
+
+38
+00:07:55,727 --> 00:07:59,397
+Remember, they're not
+as advanced as we are.
+ຈື່ໄວ້ວ່າ,ພວກເຂົາບໍ່ໄດ້
+ກ້າວໜ້າເທົ່າກັບພວກເຮົາ.
+
+39
+00:07:59,605 --> 00:08:04,735
+- They've just achieved warp drive.
+- Nowthey're a protectorate.
+- ພວກເຂົາຫາກໍ່ບັນລຸການຂັບເຄື່ອນ warp ໄດ້.
+- ດຽວນີ້ພວກເຂົາເປັນຜູ້ປົກປ້ອງ.
+
+40
+00:08:04,943 --> 00:08:10,699
+With the Borg and the Dominon,
+we need all the allies we can get.
+ກັບໂບກແລະໂດມິນອນ,ພວກເຮົາຕ້ອງການພັນທະ
+ມິດທັງໝົດທີ່ພວກເຮົາສາມາດໄດ້ຮັບໄດ້.
+
+41
+00:08:11,908 --> 00:08:13,910
+Captain on deck.
+ຄັບປິນຢູ່ເທິງເຮືອ.
+
+42
+00:08:19,081 --> 00:08:22,876
+- Regent Cuzar like to dance.
+- Can she mambo?
+- Regent Cuzar ມັກເຕັ້ນ.
+- ນາງສາມາດມາມບູໄດ້ບໍ?
+
+43
+00:08:23,085 --> 00:08:26,505
+- Very funny.
+- The Captain cuts quite a rug.
+- ມ່ວນຫຼາຍ.
+- ຄັບປິນຕັດກະທູ້ທີ່ດີເລີດ.
+
+44
+00:08:26,713 --> 00:08:31,593
+La Forge to Picard. I need to talk
+to you before the reception.
+La Forge ເຖິງ Picard .ຂ້ອຍຕ້ອງ
+ເວົ້າກັບເຈົ້າກ່ອນການຕ້ອນຮັບ.
+
+45
+00:08:31,801 --> 00:08:35,471
+Mr Worf!
+What are you doing here?
+ທ່ານວໍຟ! ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+46
+00:08:35,680 --> 00:08:38,557
+Can it wait?
+ມັນລໍຖ້າໄດ້ບໍ?
+
+47
+00:08:38,766 --> 00:08:43,353
+- Tell him to come up here.
+- The Captain wants you to join us.
+- ບອກລາວໃຫ້ຂຶ້ນມາບ່ອນນີ້.
+- ຄັບປິນຢາກໃຫ້ເຈົ້າເຂົ້າຮ່ວມພວກເຮົາ.
+
+48
+00:08:43,562 --> 00:08:48,358
+There's a communiqué from
+Admiral Dougherty about Data.
+ມີການຖະແຫຼງຂ່າວຈາກ admiral
+Dougherty ກ່ຽວກັບ Data .
+
+49
+00:08:58,992 --> 00:09:02,245
+Regent Cuzar, welcome aboard.
+ເຈົ້າໜ້າທີ່ຄູຊາຣ໌, ຍິນດີຕ້ອນຮັບໃນເຮືອ.
+
+50
+00:09:02,454 --> 00:09:08,042
+Captain Picard, I welcome you
+in the tradition of my people.
+ຄັບປິນປິກາດ,ຂ້ອຍຍິນດີຕ້ອນຮັບ
+ເຈົ້າໃນປະເພນີຂອງປະຊາຊົນຂອງຂ້ອຍ.
+
+51
+00:09:17,175 --> 00:09:21,513
+We are so honoured to be accepted
+within the great Federation family.
+ພວກເຮົາເປັນກຽດທີ່ຖືກຍອມຮັບ
+ໃນຄອບຄົວສະຫະພັນທີ່ຍິ່ງໃຫຍ່.
+
+52
+00:09:21,721 --> 00:09:25,224
+- We have a dance later.
+- I look forward to it.
+- ພວກເຮົາມີການເຕັ້ນຕໍ່ມາ.
+- ຂ້ອຍລໍຖ້າມັນ.
+
+53
+00:09:33,023 --> 00:09:36,276
+- Counsellor ..?
+- Nice bead work.
+- ທີ່ປຶກສາ...?
+- ວຽກງານກະດານທີ່ດີເລີດ.
+
+54
+00:09:36,485 --> 00:09:43,032
+Captain, Admiral Dougherty is aboard
+a Son'a ship in sector 4-4-1 .
+ຄັບປິນ, admiral Dougherty ແມ່ນ
+ຢູ່ໃນເຮືອ Son'a ໃນພາກສ່ວນ 4-4-1 .
+
+55
+00:09:43,241 --> 00:09:47,203
+He's requesting Data's schematics.
+He doesn't say why.
+ລາວກໍາລັງຂໍແຜນການຂອງ Data
+.ລາວບໍ່ໄດ້ບອກວ່າເປັນຫຍັງ.
+
+56
+00:09:47,411 --> 00:09:51,957
+Data was only scheduled to observe
+the Ba'ku village for a week.
+ຂໍ້ມູນແມ່ນຖືກກໍານົດໄວ້ເພື່ອສັງເກດເຫັນ
+ບ້ານບາຄູເປັນເວລາໜຶ່ງອາທິດເທົ່ານັ້ນ.
+
+57
+00:09:52,165 --> 00:09:56,753
+Geordi, set up a secure com-link
+to the Admiral.
+ຈໍດີ,ສ້າງການເຊື່ອມຕໍ່ການ
+ສື່ສານທີ່ປອດໄພກັບຜູ້ບັນຊາການ.
+
+58
+00:09:56,961 --> 00:10:01,799
+Hars Adislo. We met at the
+Nel Bato conference last year.
+ຮາສອາດິສໂລ.ພວກເຮົາພົບກັນໃນ
+ກອງປະຊຸມເນລບາໂຕປີທີ່ຜ່ານມາ.
+
+59
+00:10:02,008 --> 00:10:06,428
+Did you read my paper
+on thermionic transconductance?
+ເຈົ້າໄດ້ອ່ານບົດຂຽນຂອງຂ້ອຍກ່ຽວກັບ
+ການສົ່ງເສີມ transconductivity thermionic ບໍ?
+
+60
+00:10:06,637 --> 00:10:09,264
+Would you excuse me?
+ເຈົ້າຂໍໂທດຂ້ອຍບໍ?
+
+61
+00:10:13,476 --> 00:10:18,022
+He's not acknowledging
+any Starfleet protocol.
+ລາວບໍ່ໄດ້ຍອມຮັບໂປໂຕໂກລ Starfleet ໃດໆ.
+
+62
+00:10:18,231 --> 00:10:24,194
+- What precipitated this behaviour?.
+- "I don't know. Now he has hostages."
+- ສິ່ງທີ່ກະຕຸ້ນການປະພຶດນີ້?.
+- ຂ້ອຍບໍ່ຮູ້. ດຽວນີ້ລາວມີຕົວປະກັນ.
+
+63
+00:10:24,403 --> 00:10:27,489
+We could be there in two days.
+ພວກເຮົາສາມາດໄປຮອດບ່ອນນັ້ນໃນເວລາສອງມື້.
+
+64
+00:10:27,697 --> 00:10:32,452
+That's not a good idea. Your ship
+hasn't been fitted for this region.
+ນັ້ນບໍ່ແມ່ນຄວາມຄິດທີ່ດີ.ເຮືອ
+ຂອງທ່ານບໍ່ໄດ້ເໝາະສົມກັບພາກພື້ນນີ້.
+
+65
+00:10:32,660 --> 00:10:36,122
+- "There are environmental concerns."
+- Such as?
+- "ມີຄວາມກັງວົນກ່ຽວກັບສິ່ງແວດລ້ອມ."
+- ເຊັ່ນວ່າ?
+
+66
+00:10:36,330 --> 00:10:40,918
+We're studying various anomalies.
+They call this area the Briar Patch.
+ພວກເຮົາກໍາລັງສຶກສາຄວາມຜິດປົກກະຕິຕ່າງໆ
+.ພວກເຂົາເອີ້ນພື້ນທີ່ນີ້ວ່າ Briar Patch .
+
+67
+00:10:41,126 --> 00:10:44,671
+We've had trouble
+even getting a signal to you.
+ພວກເຮົາມີຄວາມຫຍຸ້ງຍາກເຖິງແມ່ນວ່າ
+ຈະສົ່ງສັນຍານໄປຫາເຈົ້າ.
+
+68
+00:10:44,880 --> 00:10:49,592
+Just get me Data's schematics.
+I'll keep you informed.
+ພຽງແຕ່ເອົາແຜນການຂອງ Data ໃຫ້
+ຂ້ອຍ.ຂ້ອຍຈະແຈ້ງໃຫ້ເຈົ້າຮູ້.
+
+69
+00:10:56,307 --> 00:10:59,852
+- His emotion chip?
+- He didn't take it with him.
+- ຊິບຄວາມຮູ້ສຶກຂອງລາວບໍ?
+- ລາວບໍ່ໄດ້ເອົາມັນກັບລາວ.
+
+70
+00:11:00,060 --> 00:11:04,481
+Send the Admiral Data's schematics.
+ສົ່ງແຜນການຂອງ Admiral Data ໄດ້.
+
+71
+00:11:06,149 --> 00:11:10,945
+Report to the galley and tell
+the chef to skip the fish course.
+ລາຍງານຕໍ່ເຮືອນຄົວແລະບອກ
+ຫົວຄົວໃຫ້ພາດຫຼັກສູດປາ.
+
+72
+00:11:11,153 --> 00:11:14,531
+I'd like our guests to depart
+as soon as etiquette allows.
+ຂ້ອຍຢາກໃຫ້ແຂກຂອງພວກເຮົາອອກ
+ໄປທັນທີທີ່ລະບຽບການອະນຸຍາດ.
+
+73
+00:11:14,740 --> 00:11:18,785
+I'm going to ask Worf
+to delay his return to DS9.
+ຂ້ອຍຈະຂໍໃຫ້ວໍຟຊັກຊ້າ
+ການກັບຄືນໄປບ່ອນ DS9 .
+
+74
+00:11:18,994 --> 00:11:22,497
+Sector 4-4-1 is on our way
+to the Goren system.
+ຂະແໜງການ 4-4-1 ກໍາລັງ
+ເດີນທາງໄປສູ່ລະບົບໂກເຣນ.
+
+75
+00:11:22,706 --> 00:11:27,168
+- They are in opposite directions.
+- Are they?.
+- ພວກເຂົາຢູ່ໃນທິດທາງກົງກັນຂ້າມ.
+- ພວກເຂົາເປັນບໍ?
+
+76
+00:11:45,476 --> 00:11:50,189
+I should never have let you
+talk me into that duck blind.
+ຂ້ອຍບໍ່ຄວນປ່ອຍໃຫ້ເຈົ້າເວົ້າ
+ຂ້ອຍໃຫ້ເປັນຕາບອດແກະນັ້ນເລີຍ.
+
+77
+00:11:50,397 --> 00:11:55,026
+Federation procedures have made this
+more difficult than it needed to be.
+ຂັ້ນຕອນຂອງສະຫະພັນໄດ້ເຮັດໃຫ້ເລື່ອ
+ງນີ້ຍາກກວ່າທີ່ມັນຈໍາເປັນຕ້ອງເປັນ.
+
+78
+00:11:55,235 --> 00:12:00,990
+We have to protect the planet's
+population from unnecessary risk.
+ພວກເຮົາຕ້ອງປົກປ້ອງປະຊາກອນຂອງ
+ໂລກຈາກຄວາມສ່ຽງທີ່ບໍ່ຈໍາເປັນ.
+
+79
+00:12:01,199 --> 00:12:05,327
+Planet's population?
+600 people!
+ປະຊາກອນຂອງໂລກບໍ? 600 ຄົນ!
+
+80
+00:12:05,536 --> 00:12:11,333
+If you want to avoid unnecessary
+risks, leave your android at home.
+ຖ້າເຈົ້າຢາກຫຼີກເວັ້ນຄວາມສ່ຽງທີ່ບໍ່
+ຈໍາເປັນ,ໃຫ້ Android ຂອງທ່ານຢູ່ເຮືອນ.
+
+81
+00:12:11,541 --> 00:12:16,713
+- "We are approaching the planet."
+- Take us into a high orbit.
+- ພວກເຮົາ ກໍາ ລັງເຂົ້າໃກ້ໂລກ.
+- ເອົາພວກເຮົາໄປສູ່ວົງໂຄຈອນສູງ.
+
+82
+00:12:16,921 --> 00:12:21,509
+Lie down, the girls
+will take 20 years off your face.
+ນອນລົງ,ເດັກຍິງຈະເອົາ 20
+ປີອອກຈາກໃບໜ້າຂອງທ່ານ.
+
+83
+00:12:21,717 --> 00:12:26,388
+- Another time, perhaps.
+- Your self-restraint puzzles me.
+- ບາງທີໃນອີກຄັ້ງໜຶ່ງ.
+- ການຄວບຄຸມຕົວຂອງທ່ານເຮັດໃຫ້ຂ້ອຍສັບສົນ.
+
+84
+00:12:26,597 --> 00:12:31,309
+You deny yourself every benefit
+this mission has to offer.
+ເຈົ້າປະຕິເສດຕົວເອງທຸກຜົນປະໂຫຍດ
+ທີ່ພາລະກິດນີ້ສາມາດສະເໜີໄດ້.
+
+85
+00:12:31,518 --> 00:12:36,564
+Such benefits are to be shared with
+"all"the people of the Federation.
+ຜົນປະໂຫຍດດັ່ງກ່າວແມ່ນຈະຖືກແບ່ງປັນ
+ກັບ"ທຸກຄົນ"ຂອງປະຊາຊົນຂອງສະຫະພັນ.
+
+86
+00:12:41,277 --> 00:12:46,656
+- Report!
+- Phaser blast. Unknown origin.
+- ລາຍງານ!
+- ການລະເບີດຟາເຊີ. ຕົ້ນກໍາເນີດທີ່ບໍ່ຮູ້.
+
+87
+00:12:48,825 --> 00:12:52,870
+- Take us out of orbit.
+- Photon torpedoes.
+- ເອົາພວກເຮົາອອກຈາກວົງໂຄຈອນ.
+- ໂຕຣເປໂດຟອດອນ.
+
+88
+00:12:57,082 --> 00:13:00,085
+- The vessel has broken off pursuit.
+- Visual contact.
+- ເຮືອໄດ້ຢຸດການຕິດຕາມ.
+- ການຕິດຕໍ່ຕາ.
+
+89
+00:13:02,879 --> 00:13:06,674
+That's our ship.
+ນັ້ນແມ່ນເຮືອຂອງພວກເຮົາ.
+
+90
+00:13:26,150 --> 00:13:30,404
+We're about to lose communications
+with Starfleet.
+ພວກເຮົາກໍາລັງຈະສູນເສຍ
+ການສື່ສານກັບ Starfleet .
+
+91
+00:13:30,655 --> 00:13:34,575
+I have all the files on the
+duck-blind mission and the Son'a.
+ຂ້ອຍມີເອກະສານທັງໝົດກ່ຽວກັບ
+ພາລະກິດຕາບອດແກະແລະໂຊນາ.
+
+92
+00:13:34,783 --> 00:13:38,912
+You have two days to become experts.
+ເຈົ້າມີເວລາສອງມື້ທີ່
+ຈະກາຍເປັນຜູ້ຊ່ຽວຊານ.
+
+93
+00:13:39,496 --> 00:13:43,791
+Mr Worf, we need a plan
+to safely capture Data.
+ທ້າວວໍຟ,ພວກເຮົາຕ້ອງການແຜນການ
+ເພື່ອຈັບຂໍ້ມູນຢ່າງປອດໄພ.
+
+94
+00:13:44,000 --> 00:13:49,338
+La Forge has modified this tricorder
+with one of Data's actuation servos.
+La Forge ໄດ້ປັບປຸງ tricorder ນີ້ດ້ວຍ
+ໜຶ່ງໃນ servos ການກະຕຸ້ນຂອງ Data ໄດ້.
+
+95
+00:13:49,547 --> 00:13:53,759
+Its range is only four metres,
+but it will shut him down.
+ໄລຍະທາງຂອງມັນພຽງແຕ່ສີ່ແມັດ
+ເທົ່ານັ້ນ,ແຕ່ມັນຈະປິດລາວລົງ.
+
+96
+00:13:55,218 --> 00:13:57,971
+Good to have you back.
+ດີໃຈທີ່ເຈົ້າກັບມາ.
+
+97
+00:13:59,139 --> 00:14:01,974
+Take us in.
+ເອົາພວກເຮົາເຂົ້າມາ.
+
+98
+00:14:15,195 --> 00:14:20,324
+Half a century ago,
+they conquered two primitive races -
+ເມື່ອເຄິ່ງສະຕະວັດກ່ອນ,ພວກເຂົາ
+ໄດ້ເອົາຊະນະສອງເຊື້ອຊາດຕົ້ນຕໍ-
+
+99
+00:14:20,533 --> 00:14:24,286
+- and integrated them into
+their culture as a labour class.
+-ແລະເຊື່ອມໂຍງພວກມັນເຂົ້າໄປໃນວັດທະນະ
+ທໍາຂອງພວກເຂົາໃນຖານະເປັນຊັ້ນຄົນງານ.
+
+100
+00:14:25,537 --> 00:14:34,003
+The Son'a have produced quantities
+of the narcotic ketracel-white.
+ພວກໂຊນໄດ້ຜະລິດຢາເສບຕິດ
+ketracel-white ໃນປະລິມານຫຼາຍ.
+
+101
+00:14:35,296 --> 00:14:40,926
+Their ships are rumoured to be
+equipped with outlawed weapons.
+ມີຂ່າວລືວ່າເຮືອຂອງພວກເຂົາຖືກ
+ຕິດຕັ້ງດ້ວຍອາວຸດທີ່ຖືກຫ້າມ.
+
+102
+00:14:41,135 --> 00:14:45,430
+- Why are we involved with them?
+- Good question.
+- ພວກເຮົາກ່ຽວຂ້ອງກັບພວກເຂົາເປັນຫຍັງ?
+- ຄໍາຖາມທີ່ດີ.
+
+103
+00:14:47,933 --> 00:14:50,685
+You haven't done that in a while.
+ເຈົ້າບໍ່ໄດ້ເຮັດແບບນັ້ນດົນນານແລ້ວ.
+
+104
+00:14:50,894 --> 00:14:53,563
+- What you're doing to my neck.
+- What?
+- ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງກັບຄໍຂອງຂ້ອຍ.
+- ຫຍັງ?
+
+105
+00:15:00,986 --> 00:15:04,031
+Bridge to Commander Worf.
+ຂົວໄປຫາຜູ້ບັນຊາການວໍຟ.
+
+106
+00:15:04,239 --> 00:15:07,325
+- "Worf!"
+- Captain.
+- ວໍຟ!
+- ຄັບປິນ
+
+107
+00:15:07,534 --> 00:15:12,580
+How are things on DS9? Don't
+officers report for duty on time?
+ເລື່ອງຢູ່ເທິງ DS9 ເປັນແນວໃດ?
+ເຈົ້າໜ້າທີ່ບໍ່ລາຍງານໜ້າທີ່ໃນເວລາບໍ?
+
+108
+00:15:16,834 --> 00:15:23,381
+- "Sorry, sir. I'm on my way."
+- We'll skip the court martial.
+- ຂໍໂທດເດີ. ຂ້ອຍ ກໍາ ລັງເດີນທາງໄປແລ້ວ.
+- ພວກເຮົາຈະພາດສານທະຫານ.
+
+109
+00:15:24,716 --> 00:15:29,303
+When was the last time
+we aligned the torque sensors?
+ພວກເຮົາໄດ້ສອດຄ່ອງເຊັນເຊີ
+torque ຄັ້ງສຸດທ້າຍເມື່ອໃດ?
+
+110
+00:15:29,512 --> 00:15:32,932
+- Two months ago.
+- They don't sound right.
+- ສອງເດືອນກ່ອນ.
+- ພວກເຂົາເບິ່ງຄືວ່າບໍ່ຖືກຕ້ອງ.
+
+111
+00:15:33,140 --> 00:15:38,812
+They are out of alignment
+by 12 microns. You could hear that?
+ພວກເຂົາອອກຈາກການສອດຄ່ອງໂດຍ
+12 ໄມໂຄຣນ.ເຈົ້າໄດ້ຍິນມັນບໍ?
+
+112
+00:15:39,021 --> 00:15:43,233
+When I was an ensign, I could
+detect a 3-micron misalignment.
+ເມື່ອຂ້ອຍເປັນທຸງ,ຂ້ອຍສາມາດ
+ກວດພົບຄວາມຜິດພາດ 3 ໄມໂຄຣນໄດ້.
+
+113
+00:15:43,441 --> 00:15:48,154
+The Son'a ship with Adm. Dougherty
+has entered tracking range.
+ລູກຊາຍເປັນເຮືອທີ່ມີພົນຈັດຕະວາ
+ດູເກີຕີໄດ້ເຂົ້າໄປໃນລະດັບຕິດຕາມ.
+
+114
+00:15:49,822 --> 00:15:53,534
+Straighten your baldric.
+On screen.
+ແກ້ໄຂກະທູ້ຂອງທ່ານ. ໃນໜ້າຈໍ.
+
+115
+00:15:53,742 --> 00:15:57,204
+Captain, I wasn't expecting you.
+ຄັບປິນ, ຂ້ອຍບໍ່ໄດ້ຄາດວ່າເຈົ້າຈະມາ.
+
+116
+00:15:57,412 --> 00:16:00,832
+This is important to the Enterprise.
+ນີ້ແມ່ນມີຄວາມສໍາຄັນຕໍ່ບໍລິສັດ.
+
+117
+00:16:01,040 --> 00:16:06,212
+Data attacked us in the mission
+scout ship, yesterday.
+ຂໍ້ມູນໄດ້ໂຈມຕີພວກເຮົາໃນເຮືອ
+ກວດສອບພາລະກິດ,ມື້ວານນີ້.
+
+118
+00:16:06,420 --> 00:16:10,466
+Ru'afo and I have decided
+to send in an assault team.
+ຂ້ອຍແລະຣູອາໂຟໄດ້ຕັດສິນໃຈ
+ສົ່ງທີມໂຈມຕີເຂົ້າມາ.
+
+119
+00:16:10,674 --> 00:16:14,428
+Worf and I are working out
+a tactical plan ...
+ຂ້ອຍແລະວໍຟກໍາລັງ
+ເຮັດວຽກແຜນການກະຕຸ້ນ...
+
+120
+00:16:14,636 --> 00:16:21,434
+Your android damaged my ship.
+He must be destroyed.
+ແອນດຣອຍຂອງທ່ານໄດ້ທໍາລາຍເຮືອ
+ຂອງຂ້ອຍ.ລາວຕ້ອງຖືກທໍາລາຍ.
+
+121
+00:16:21,642 --> 00:16:28,440
+I know what Data means to Starfleet,
+but our crew are in danger.
+ຂ້ອຍຮູ້ວ່າ Data ໝາຍຄວາມວ່າແນວໃດຕໍ່ Starfleet
+,ແຕ່ລູກເຮືອຂອງພວກເຮົາຢູ່ໃນອັນຕະລາຍ.
+
+122
+00:16:28,649 --> 00:16:34,487
+If our attempt to capture Data
+fails, I will terminate him.
+ຖ້າຄວາມພະຍາຍາມຂອງພວກເຮົາທີ່ຈະ
+ຈັບຂໍ້ມູນລົ້ມເຫຼວ,ຂ້ອຍຈະຢຸດລາວ.
+
+123
+00:16:34,696 --> 00:16:39,450
+I should be the one to do it.
+I'm his captain and his friend.
+ຂ້ອຍຄວນເປັນຄົນທີ່ຈະເຮັດມັນ.ຂ້ອຍ
+ເປັນຄັບປິນຂອງລາວແລະເພື່ອນຂອງລາວ.
+
+124
+00:16:42,203 --> 00:16:47,749
+All right, you have 12 hours, then
+I want you out of the Briar Patch.
+ດີແລ້ວ,ເຈົ້າມີເວລາ 12 ຊົ່ວໂມງ,ຫຼັງຈາກ
+ນັ້ນຂ້ອຍຢາກໃຫ້ເຈົ້າອອກຈາກ Briar Patch .
+
+125
+00:16:47,958 --> 00:16:53,004
+We'll head out to the perimeter
+to call for Son'a reinforcements.
+ພວກເຮົາຈະອອກໄປຫາເຂດອ້ອມຂ້າງ
+ເພື່ອໂທຫາການເສີມສ້າງຂອງລູກຊາຍ.
+
+126
+00:16:53,213 --> 00:16:55,089
+Understood.
+ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+127
+00:16:55,298 --> 00:16:58,134
+Good luck. Dougherty out.
+ໂຊກດີ. ດູເກີຕີອອກໄປ.
+
+128
+00:17:08,184 --> 00:17:14,857
+- We're not picking up any ships.
+- Try a wide-band covariant signal.
+- ພວກເຮົາບໍ່ໄດ້ເອົາເຮືອໃດໆ.
+- ພະຍາຍາມສັນຍານ covariant ຂະໜາດກວ້າງ.
+
+129
+00:17:15,066 --> 00:17:17,818
+The rings are masking his approach.
+ວົງແຫວນກໍາລັງປິດບັງ
+ການເຂົ້າເຖິງຂອງລາວ.
+
+130
+00:17:18,027 --> 00:17:23,323
+The metaphasic radiation from the
+rings is in a state of extreme flux.
+ແສງສະຫວ່າງ metaphasic ຈາກວົງແຫວນແມ່ນ
+ຢູ່ໃນສະຖານະການຂອງ flux ທີ່ຮ້າຍແຮງ.
+
+131
+00:17:26,493 --> 00:17:30,413
+Come out, come out
+wherever you are ...
+ອອກມາ, ອອກມາບໍ່ວ່າເຈົ້າຢູ່ໃສ...
+
+132
+00:17:30,621 --> 00:17:34,959
+- Sir?.
+- That's something my mother ...
+- ເຈົ້າບໍ?
+- ນັ້ນແມ່ນບາງສິ່ງບາງຢ່າງທີ່ແມ່ຂອງຂ້ອຍ...
+
+133
+00:17:37,169 --> 00:17:38,754
+Hold on.
+ລໍຖ້າ.
+
+134
+00:17:44,884 --> 00:17:50,473
+Open all hailing frequencies.
+Data, this is Captain Picard.
+ເປີດຄວາມຖີ່ການຮ້ອງທຸກທັງໝົດ
+.ຂໍ້ມູນ,ນີ້ແມ່ນຄັບປິນປິກາດ.
+
+135
+00:17:50,681 --> 00:17:53,392
+Please respond.
+ກະລຸນາຕອບ.
+
+136
+00:17:58,438 --> 00:18:02,442
+If we fire tachyon bursts,
+he'll have to reset his shields.
+ຖ້າພວກເຮົາຍິງລະເບີດ tachyon ,ລາວ
+ຈະຕ້ອງຕັ້ງຄ່າກະທູ້ຂອງລາວຄືນ.
+
+137
+00:18:02,650 --> 00:18:06,696
+- Then we can beam him out.
+- Make it so.
+- ຫຼັງຈາກນັ້ນພວກເຮົາສາມາດສົ່ງລາວອອກໄດ້.
+- ເຮັດໃຫ້ມັນເປັນດັ່ງນັ້ນ.
+
+138
+00:18:11,492 --> 00:18:15,954
+- Direct hit. His shields are down.
+- Beam him out.
+- ການຍິງໂດຍກົງ. ປ້ອງກັນຂອງລາວຕົກລົງ.
+- ສົ່ງລາວອອກໄປ.
+
+139
+00:18:20,208 --> 00:18:25,546
+- He's using a transport inhibitor.
+- Prepare to enter the atmosphere.
+- ລາວ ກໍາ ລັງໃຊ້ເຄື່ອງກີດຂວາງການຂົນສົ່ງ.
+- ກຽມພ້ອມທີ່ຈະເຂົ້າໄປໃນບັນຍາກາດ.
+
+140
+00:18:25,755 --> 00:18:27,798
+That will shake him.
+ນັ້ນຈະສັ່ນສະເທືອນລາວ.
+
+141
+00:18:34,554 --> 00:18:39,642
+- Scanners are off-line.
+- Start evasive manoeuvres.
+- ເຄື່ອງສະແກນບໍ່ໄດ້ໃຊ້ງານ.
+- ເລີ່ມການເຄື່ອນໄຫວຫລົບໜີ.
+
+142
+00:19:00,536 --> 00:19:07,167
+He can fly a ship and anticipate our
+tactics. His brain is functioning.
+ລາວສາມາດບິນເຮືອໄດ້ແລະຄາດການເຕັກນິກ
+ຂອງພວກເຮົາ.ສະໝອງຂອງລາວກໍາລັງເຮັດວຽກຢູ່.
+
+143
+00:19:07,376 --> 00:19:12,463
+We know how he responds to threats.
+I wonder how he would respond ...
+ພວກເຮົາຮູ້ວ່າລາວຕອບໂຕ້ຕໍ່ການຂົ່ມຂູ່
+ແນວໃດ.ຂ້ອຍສົງໄສວ່າລາວຈະຕອບສະໜອງແນວໃດ...
+
+144
+00:19:14,298 --> 00:19:17,343
+Do you know Gilbert & Sullivan?
+ເຈົ້າຮູ້ຈັກ Gilbert & Sullivan ບໍ?
+
+145
+00:19:17,551 --> 00:19:22,347
+No, I've not had a chance
+to meet all the new crew members.
+ບໍ່,ຂ້ອຍຍັງບໍ່ມີໂອກາດພົບ
+ສະມາຊິກທີມງານຄົນໃໝ່ທັງໝົດ.
+
+146
+00:19:24,516 --> 00:19:29,187
+They're composers,
+from the 19th century.
+ພວກເຂົາເປັນນັກດົນຕີ, ຈາກສະຕະວັດທີ 19.
+
+147
+00:19:33,107 --> 00:19:37,736
+Data was rehearsing "HMS Pinafore"
+just before he left.
+ເດຕາກໍາລັງທົດລອງ "HMS
+Pinafore" ກ່ອນທີ່ລາວຈະອອກໄປ.
+
+148
+00:19:37,945 --> 00:19:43,950
+A Brltish tar is a soaring soul
+as free as a mountain bird
+ກະທູ້ Brltish ແມ່ນຈິດວິນຍານທີ່
+ຂຶ້ນສູງເປັນອິດສະຫຼະຄືກັບນົກພູເຂົາ
+
+149
+00:19:44,159 --> 00:19:49,163
+his fist should be ready to resist
+a dictatorial word
+ກະດານມື
+
+150
+00:19:49,372 --> 00:19:51,374
+Sing, Worf.
+ຮ້ອງເພງ, ວໍຟ.
+
+151
+00:19:51,582 --> 00:19:54,126
+- "his nose should pant"
+- "and his lips should curl"
+- ດັງລາວຄວນຫາຍໃຈ
+- "ແລະປາກຂອງລາວຄວນ curl"
+
+152
+00:19:54,335 --> 00:19:57,629
+- "his cheeks should flame"
+- "and his brow should furl"
+- ໃບໜ້າລາວຄວນໄໝ້
+- ແລະໃບໜ້າຂອງລາວຄວນສັ່ນສະເທືອນ
+
+153
+00:19:57,838 --> 00:20:00,882
+- "his bosom should heave"
+- "and his hea"rt "should glow"
+- ກະຕ່າຂອງລາວຄວນຍົກຂຶ້ນ
+- ແລະຫົວໃຈຂອງລາວຄວນສ່ອງແສງ
+
+154
+00:20:01,091 --> 00:20:04,886
+and his fist be ever ready
+for a knockdown blow
+ແລະມືຂອງລາວຈະພ້ອມແລ້ວ
+ສໍາລັບການຕີທີ່ຕົກລົງ
+
+155
+00:20:05,094 --> 00:20:08,806
+his nose should pant
+and his lips should curl
+ດັງສັ່ນແລະປາກສັ່ນ
+
+156
+00:20:09,015 --> 00:20:11,183
+his cheeks should flame
+and his brow should furl
+ຄໍຄໍ
+
+157
+00:20:11,392 --> 00:20:13,727
+his bosom should heave
+"and his heart "should glow"
+ກະຕ່າຂອງລາວຄວນຍົກຂຶ້ນ"ແລະ
+ຫົວໃຈຂອງລາວ"ຄວນສ່ອງແສງ"
+
+158
+00:20:13,936 --> 00:20:17,355
+and his fist be ever ready
+for a knockdown blow
+ແລະມືຂອງລາວຈະພ້ອມແລ້ວ
+ສໍາລັບການຕີທີ່ຕົກລົງ
+
+159
+00:20:17,564 --> 00:20:19,691
+Prepare the docking clamps.
+ກຽມກະດານຈັບການຕິດຕໍ່.
+
+160
+00:20:19,899 --> 00:20:22,610
+his eyes should flash
+wlth an inborn fire
+ຕາລາວຕ້ອງສ່ອງແສງດ້ວຍໄຟດັ້ງເດີມ
+
+161
+00:20:22,819 --> 00:20:25,696
+{y:i}his brow wlth scorn be wrung
+ໜ້າເອິກຂອງລາວດ້ວຍຄວາມ
+ປະໝາດຖືກສັ່ນສະເທືອນ
+
+162
+00:20:25,905 --> 00:20:28,908
+{y:i}he never should bow down
+{y:i}to a domineering frown
+ລາວບໍ່ຄວນຍອມຮັບ ໜ້າ ກາກທີ່ປົກຄອງເລີຍ
+
+163
+00:20:29,116 --> 00:20:32,244
+{y:i}or the tang of a tyrant tongue
+{ y: i} ຫຼືກະທູ້ຂອງພາສາຂອງຄົນໂຊກຮ້າຍ
+
+164
+00:20:32,452 --> 00:20:35,872
+- "his hea"rt "should stamp"
+- "and his throat should growl"
+- ຫົວໃຈຂອງລາວຄວນປະທັບຕາ
+- ແລະຄໍຂອງລາວຄວນສັ່ນສະເທືອນ
+
+165
+00:20:36,081 --> 00:20:39,042
+- "his hair should curl"
+- "and his face should scowl"
+- ຜົມລາວຄວນຄຸ້ງ
+- ແລະໃບໜ້າລາວຄວນສັ່ນສະເທືອນ
+
+166
+00:20:39,250 --> 00:20:42,461
+- "his eyes should flash"
+- "and his breast protrude"
+- ຕາຂອງລາວຄວນສ່ອງສະຫວ່າງ
+- ແລະທ້ອງຂອງລາວອອກມາ
+
+167
+00:20:42,670 --> 00:20:46,840
+and this should be
+his customary attltude
+ແລະນີ້ຄວນຈະເປັນທັດສະນະ
+ຄະຕິປົກກະຕິຂອງລາວ
+
+168
+00:20:47,049 --> 00:20:50,677
+his foot should stamp
+and his voice should drop
+ຂາຕັບ
+
+169
+00:20:50,886 --> 00:20:53,972
+his hair should curl
+and his face ...
+ຜົມຂອງລາວຄວນສຽບແລະໃບໜ້າຂອງລາວ...
+
+170
+00:20:55,974 --> 00:21:00,770
+If we do not release him,
+he may destroy both vessels.
+ຖ້າພວກເຮົາບໍ່ປ່ອຍລາວ,ລາວ
+ອາດຈະທໍາລາຍເຮືອທັງສອງ.
+
+171
+00:21:00,978 --> 00:21:03,898
+I'm not letting go of him.
+ຂ້ອຍຈະບໍ່ປ່ອຍລາວໄປ.
+
+172
+00:21:06,817 --> 00:21:13,114
+- We must stabilise.
+- All power to inertial dampers.
+- ພວກເຮົາຕ້ອງໝັ້ນຄົງ.
+- ພະລັງງານທັງ ໝົດ ໄປຫາເຄື່ອງບັນເທົາຄວາມອ່ອນແອ.
+
+173
+00:21:13,323 --> 00:21:17,910
+- The auto-sequencer is damaged.
+- Transfer control to manual.
+- ເຄື່ອງຕິດຕາມແບບອັດຕະໂນມັດຖືກເສຍຫາຍ.
+- ໂອນການຄວບຄຸມໄປສູ່ຄູ່ມື.
+
+174
+00:21:25,042 --> 00:21:28,295
+Auto-sequencer realigned.
+Engaging stabilisers.
+ເຄື່ອງຕິດຕາມແບບອັດຕະໂນມັດຖືກ
+ປັບປຸງຄືນ.ການຈັບກຸມເຄື່ອງຄົງທີ່.
+
+175
+00:21:28,503 --> 00:21:31,673
+- Damping field established.
+- M"ax"imum power.
+- ສະໜາມຫຼຸດຜ່ອນຄວາມຊຶມຊື່ນຖືກສ້າງຕັ້ງຂຶ້ນ.
+- ພະລັງງານສູງສຸດ.
+
+176
+00:21:41,723 --> 00:21:44,434
+Now, Mr Worf.
+ດຽວນີ້, ທ້າວວໍຟ໌.
+
+177
+00:21:57,696 --> 00:22:01,366
+Commander Data is safely in custody.
+ຜູ້ບັນຊາການເດຕາຖືກຄຸມຂັງຢ່າງປອດໄພ.
+
+178
+00:22:34,104 --> 00:22:40,193
+- Captain, Subahdar Gallatin.
+- Lt. Curtis, Doughertys attaché.
+- ຄັບປິນ, ຊູບາຮາດາ ແກລາຕິນ.
+- ພົນຈັດຕະວາ ຄູຕສ໌, ຜູ້ຕິດຕໍ່ຂອງໂດເກີຕີ.
+
+179
+00:22:40,401 --> 00:22:45,114
+- Are you all right?
+- We've been treated extremely well.
+- ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+- ພວກເຮົາໄດ້ຮັບການປິ່ນປົວຢ່າງດີເລີດ.
+
+180
+00:22:45,865 --> 00:22:50,285
+They have incredible
+mental discipline and perception.
+ພວກເຂົາມີວິໄນຈິດໃຈແລະ
+ຄວາມຮັບຮູ້ທີ່ຍິ່ງໃຫຍ່.
+
+181
+00:22:50,744 --> 00:22:53,789
+- My name is Sojef.
+- Jean-Luc Picard.
+- ຂ້ອຍຊື່ວ່າ ໂຊເຈຟ.
+- ຈິນ ລຸກ ປິກາດ.
+
+182
+00:22:53,997 --> 00:22:56,583
+Dr Crusher and Counsellor Troi.
+ດຣ ຄຣູເຊີ ແລະ ທີ່ປຶກສາທຣອຍ.
+
+183
+00:22:56,791 --> 00:23:02,046
+- Would you like something to eat?
+- No, we're here to rescue them.
+- ເຈົ້າຢາກກິນຫຍັງບໍ?
+- ບໍ່, ພວກເຮົາຢູ່ບ່ອນນີ້ເພື່ອຊ່ວຍພວກເຂົາ.
+
+184
+00:23:03,381 --> 00:23:07,968
+As you wish. I would ask you
+to disarm yourselves.
+ຕາມທີ່ເຈົ້າຕ້ອງການ.ຂ້ອຍ
+ຂໍໃຫ້ເຈົ້າປົດອາວຸດຕົວເອງ.
+
+185
+00:23:08,177 --> 00:23:11,680
+This village is a sanctuary of life.
+ບ້ານນີ້ເປັນບ່ອນສັກສິດຂອງຊີວິດ.
+
+186
+00:23:14,390 --> 00:23:17,268
+Prepare the hostages for transport.
+ກຽມຕົວປະກັນ ສໍາ ລັບການຂົນສົ່ງ.
+
+187
+00:23:17,477 --> 00:23:22,773
+They should be quarantined before
+joining the ship's population.
+ພວກເຂົາຄວນຖືກກັກກັນກ່ອນທີ່
+ຈະເຂົ້າຮ່ວມປະຊາກອນຂອງເຮືອ.
+
+188
+00:23:25,317 --> 00:23:28,904
+We believed they were being held
+against their will.
+ພວກເຮົາເຊື່ອວ່າພວກເຂົາຖືກຄຸມຂັງ
+ໂດຍບໍ່ຕາມຄວາມຕ້ອງການຂອງພວກເຂົາ.
+
+189
+00:23:29,112 --> 00:23:33,825
+It's not our custom
+to hold anyone against their will.
+ມັນບໍ່ແມ່ນຮີດຄອງປະເພນີຂອງພວກເຮົາທີ່ຈະ
+ຈັບໃຜໂດຍບໍ່ຕາມຄວາມຕ້ອງການຂອງພວກເຂົາ.
+
+190
+00:23:34,033 --> 00:23:39,997
+The android told us they were our
+enemies, and that more would follow.
+ແອນດຣອຍບອກພວກເຮົາວ່າພວກເຂົາເປັນສັດຕູ
+ຂອງພວກເຮົາ,ແລະວ່າຫຼາຍຄົນຈະຕິດຕາມ.
+
+191
+00:23:40,205 --> 00:23:42,541
+Are you our enemy?.
+ເຈົ້າເປັນສັດຕູຂອງພວກເຮົາບໍ?.
+
+192
+00:23:42,749 --> 00:23:48,421
+Non-interference in other cultures
+is my people's prime directive.
+ການບໍ່ແຊກແຊງໃນວັດທະນະທໍາອື່ນໆ
+ແມ່ນຄໍາສັ່ງຫຼັກຂອງປະຊາຊົນຂອງຂ້ອຍ.
+
+193
+00:23:48,630 --> 00:23:53,759
+Your directive apparently doesn't
+include spying on other cultures.
+ຄໍາແນະນໍາຂອງທ່ານເບິ່ງຄືວ່າບໍ່ລວມ
+ທັງການສືບສວນກ່ຽວກັບວັດທະນະທໍາອື່ນໆ.
+
+194
+00:23:55,428 --> 00:24:00,098
+The android is a member of my crew.
+Apparently, he was taken ill.
+ແອນດຣອຍເປັນສະມາຊິກຂອງທີມງານ
+ຂອງຂ້ອຍ.ເບິ່ງຄືວ່າ,ລາວເຈັບປ່ວຍ.
+
+195
+00:24:00,307 --> 00:24:05,145
+We were unable to repair the phase
+variance in his positronic matrix.
+ພວກເຮົາບໍ່ສາມາດສ້ອມແປງຄວາມແຕກຕ່າງ
+ຂອງໄລຍະໃນແມຕຣິກສ໌ໂພຊິຕຣອນຂອງລາວໄດ້.
+
+196
+00:24:05,353 --> 00:24:10,733
+The captain finds it hard to believe
+we possess such technical skills.
+ຄັບປິນເຫັນວ່າມັນຍາກທີ່ຈະເຊື່ອວ່າ
+ພວກເຮົາມີຄວາມສາມາດດ້ານເຕັກນິກດັ່ງກ່າວ.
+
+197
+00:24:10,942 --> 00:24:16,280
+Not applying our technological
+abilities is a matter of choice.
+ບໍ່ໃຊ້ຄວາມສາມາດດ້ານເຕັກໂນໂລຢີ
+ຂອງພວກເຮົາແມ່ນເລື່ອງຂອງການເລືອກ.
+
+198
+00:24:16,488 --> 00:24:21,660
+Creating a machine to do man's work
+takes something away from man.
+ການສ້າງເຄື່ອງຈັກເພື່ອເຮັດວຽກຂອງ
+ຜູ້ຊາຍເອົາບາງສິ່ງບາງຢ່າງຈາກຜູ້ຊາຍ.
+
+199
+00:24:21,868 --> 00:24:25,913
+At one time, we explored the galaxy,
+just as you do.
+ໃນເວລາດຽວກັນ,ພວກເຮົາໄດ້
+ຄົ້ນຄວ້າກາວທຽມ,ຄືກັບເຈົ້າເຮັດ.
+
+200
+00:24:26,122 --> 00:24:30,418
+- You have warp capability?.
+- Capability, yes.
+- ເຈົ້າມີຄວາມສາມາດ warp ໄດ້ບໍ?
+- ຄວາມສາມາດ, ແມ່ນແລ້ວ.
+
+201
+00:24:30,626 --> 00:24:34,463
+But where can warp drive take us
+except away from here?
+ແຕ່ເຄື່ອງຂັບເຄື່ອນວໍປ໌ສາມາດພາ
+ພວກເຮົາໄປໃສໄດ້ນອກຈາກບ່ອນນີ້?
+
+202
+00:24:44,388 --> 00:24:48,058
+I apologise for our intrusion.
+ຂ້ອຍຂໍໂທດ ສໍາ ລັບການເຂົ້າມາຂອງພວກເຮົາ.
+
+203
+00:24:56,775 --> 00:25:01,487
+Because they have warp capability,
+the consequences will be minimal.
+ເນື່ອງຈາກວ່າພວກເຂົາມີຄວາມສາມາດ
+warp ,ຜົນກະທົບຈະເປັນໜ້ອຍທີ່ສຸດ.
+
+204
+00:25:01,696 --> 00:25:06,659
+Terrific job. Now pack your bags
+and get the hell out of there.
+ວຽກທີ່ດີເລີດ.ດຽວນີ້ເກັບຖົງ
+ຂອງທ່ານແລະອອກຈາກບ່ອນນັ້ນ.
+
+205
+00:25:06,867 --> 00:25:12,330
+- "How's Data?"
+- La Forge is doing the diagnostic.
+- ຂໍ້ມູນເປັນແນວໃດ?
+- La Forge ກໍາ ລັງເຮັດການກວດສອບ.
+
+206
+00:25:12,539 --> 00:25:19,837
+Rendezvous wlth us to transfer
+crew and equipment on your way out.
+ພົບກັນກັບພວກເຮົາເພື່ອໂອນລູກເຮືອ
+ແລະອຸປະກອນໃນທາງອອກຂອງທ່ານ.
+
+207
+00:25:20,046 --> 00:25:27,135
+- You're not finished here?
+- "Just a few loose ends to tie up."
+- ເຈົ້າຍັງບໍ່ສໍາເລັດຢູ່ບ່ອນນີ້ບໍ?
+- ພຽງແຕ່ສອງສາມຈຸດທີ່ວ່າງທີ່ຈະຜູກມັດ.
+
+208
+00:25:54,619 --> 00:25:56,579
+Come in.
+ເຂົ້າມາ.
+
+209
+00:25:59,915 --> 00:26:03,668
+- Have you got a minute?
+- Sure.
+- ເຈົ້າມີນາທີບໍ?
+- ແນ່ນອນ.
+
+210
+00:26:03,877 --> 00:26:09,424
+- I need a little counselling.
+- That's a first.
+- ຂ້ອຍຕ້ອງການຄໍາແນະນໍາເລັກນ້ອຍ.
+- ນັ້ນແມ່ນຄັ້ງທໍາອິດ.
+
+211
+00:26:09,632 --> 00:26:12,718
+Do I lie down, or what?
+ຂ້ອຍນອນລົງບໍ, ຫຼືຫຍັງ?
+
+212
+00:26:12,927 --> 00:26:18,640
+Whatever makes you comfortable,
+but it isn't a therapeutic posture.
+ທຸກຢ່າງທີ່ເຮັດໃຫ້ເຈົ້າສະບາຍໃຈ,
+ແຕ່ມັນບໍ່ແມ່ນການຢືນການປິ່ນປົວ.
+
+213
+00:26:18,849 --> 00:26:23,061
+- But it is comfortable.
+- Why don't you try sitting up?
+- ແຕ່ມັນສະບາຍໃຈ.
+- ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ພະຍາຍາມນັ່ງຂຶ້ນ?
+
+214
+00:26:23,270 --> 00:26:26,481
+Why don't you try lying down?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ພະຍາຍາມນອນລົງ?
+
+215
+00:26:26,689 --> 00:26:32,319
+You're in quite a mood today. Did
+you just come down here to play?.
+ເຈົ້າມີຄວາມມ່ວນຊື່ນຫຼາຍມື້ນີ້.ເຈົ້າ
+ຫາກໍ່ລົງມາບ່ອນນີ້ເພື່ອຫຼິ້ນບໍ?.
+
+216
+00:26:32,528 --> 00:26:35,656
+- I'm having a mid-life crisis.
+- I believe you.
+- ຂ້ອຍກໍາລັງປະສົບກັບວິກິດການກາງຊີວິດ.
+- ຂ້ອຍເຊື່ອເຈົ້າ.
+
+217
+00:26:35,864 --> 00:26:38,950
+- I'm not sleeping well.
+- Dr Crusher can help.
+- ຂ້ອຍບໍ່ນອນດີ.
+- ດຣ ຄຣູເຊີສາມາດຊ່ວຍໄດ້.
+
+218
+00:26:39,159 --> 00:26:43,746
+What I need
+I can't get from Dr Crusher.
+ສິ່ງທີ່ຂ້ອຍຕ້ອງການຂ້ອຍ
+ບໍ່ສາມາດເອົາໄດ້ຈາກດຣຄຣູເຊີ.
+
+219
+00:26:43,955 --> 00:26:48,667
+Can two people go back in time
+and fix a mistake they've made?
+ຄົນສອງຄົນສາມາດກັບຄືນໄປບ່ອນໃນເວລາແລະ
+ແກ້ໄຂຄວາມຜິດພາດທີ່ພວກເຂົາໄດ້ເຮັດໄດ້ບໍ?
+
+220
+00:26:48,876 --> 00:26:52,379
+On this ship, anything's possible.
+ໃນເຮືອນີ້, ທຸກຢ່າງແມ່ນເປັນໄປໄດ້.
+
+221
+00:26:55,132 --> 00:26:57,551
+Yuk!
+ຢຸກ!
+
+222
+00:26:57,759 --> 00:27:04,223
+- I never kissed you with a beard.
+- I kiss you, and you say 'yuk'!
+- ຂ້ອຍບໍ່ເຄີຍຈູບເຈົ້າດ້ວຍດອກໄມ້ເລີຍ.
+- ຂ້ອຍຈູບເຈົ້າ, ແລະເຈົ້າເວົ້າວ່າ'yuk'!
+
+223
+00:27:08,811 --> 00:27:13,940
+I reconstructed Data's neural net
+and replaced these memory engrams.
+ຂ້ອຍໄດ້ສ້າງເຄືອຂ່າຍປະສາດຂອງເດຕາຄືນ
+ແລະປ່ຽນອິນແກຣມຄວາມຊົງຈໍາເຫຼົ່ານີ້.
+
+224
+00:27:14,149 --> 00:27:20,071
+- How were they damaged?
+- By a Son'a weapon.
+- ພວກເຂົາໄດ້ຮັບຄວາມເສຍຫາຍແນວໃດ?
+- ໂດຍອາວຸດຂອງລູກຊາຍ.
+
+225
+00:27:20,279 --> 00:27:26,994
+- He malfunctioned after they fired?
+- I believe so.
+- ລາວເຮັດວຽກຜິດປົກກະຕິຫຼັງຈາກພວກເຂົາຍິງບໍ?
+- ຂ້ອຍເຊື່ອວ່າເປັນ.
+
+226
+00:27:27,202 --> 00:27:35,168
+- Why would they fire on him first?
+- A shot caused him to malfunction.
+- ເປັນຫຍັງພວກເຂົາຈຶ່ງຍິງລາວກ່ອນ?
+- ການຍິງເຮັດໃຫ້ລາວເຮັດວຽກຜິດປົກກະຕິ.
+
+227
+00:27:35,376 --> 00:27:38,588
+His ethical subroutines
+then took over.
+ຫຼັງຈາກນັ້ນຊຸດຍ່ອຍທາງດ້ານ
+ສິນທໍາຂອງລາວໄດ້ຮັບຜິດຊອບ.
+
+228
+00:27:38,796 --> 00:27:42,883
+So he still knewthe difference
+between right and wrong.
+ສະນັ້ນລາວຍັງຮູ້ຄວາມແຕກຕ່າງ
+ລະຫວ່າງຄວາມຖືກຕ້ອງແລະຜິດ.
+
+229
+00:27:43,092 --> 00:27:47,262
+The system prevents anyone from
+taking advantage of his memory loss.
+ລະບົບປ້ອງກັນບໍ່ໃຫ້ໃຜໄດ້ໃຊ້ປະໂຫຍດ
+ຈາກການສູນເສຍຄວາມຊົງຈໍາຂອງລາວ.
+
+230
+00:27:47,471 --> 00:27:51,433
+Yet he attacked us
+and told the Ba'ku we were a threat.
+ເຖິງຢ່າງໃດກໍ່ຕາມລາວໄດ້ໂຈມຕີພວກເຮົາ
+ແລະບອກບາຄູວ່າພວກເຮົາເປັນໄພຂົ່ມຂູ່.
+
+231
+00:27:51,641 --> 00:27:56,562
+- Are the implants bothering you?
+- No, I'm just tired.
+- ການປູກຝັງ ກໍາ ລັງກັງວົນເຈົ້າບໍ?
+- ບໍ່, ຂ້ອຍພຽງແຕ່ເມື່ອຍແລ້ວ.
+
+232
+00:28:05,904 --> 00:28:10,408
+- Geordi? Captain?
+- You're on the Enterprise, Data.
+- ຈໍດີ? ຄັບປິນບໍ?
+- ເຈົ້າຢູ່ໃນບໍລິສັດ, ຂໍ້ມູນ.
+
+233
+00:28:12,034 --> 00:28:16,205
+I seem to be missing
+several memory engrams.
+ຂ້ອຍເບິ່ງຄືວ່າຂາດອິນແກ
+ຣມຄວາມຊົງຈໍາຫຼາຍຢ່າງ.
+
+234
+00:28:16,413 --> 00:28:19,041
+There they are.
+ພວກເຂົາຢູ່ບ່ອນນັ້ນ.
+
+235
+00:28:22,377 --> 00:28:26,172
+What's the last thing you remember?.
+ສິ່ງສຸດທ້າຍທີ່ທ່ານຈື່ແມ່ນຫຍັງ?.
+
+236
+00:28:26,381 --> 00:28:31,594
+- "His nose should pant..."
+- From the mission.
+- ດັງຂອງລາວຄວນຫາຍໃຈ...
+- ຈາກພາລະກິດ.
+
+237
+00:28:31,802 --> 00:28:36,015
+I was gathering
+phsyiometric data on the Ba'ku.
+ຂ້ອຍກໍາລັງເກັບກໍາຂໍ້ມູນ
+ຟີຊີໂອເມຕຣິກກ່ຽວກັບບາຄູ.
+
+238
+00:28:36,223 --> 00:28:39,101
+Some children walked into the hills.
+ເດັກນ້ອຍບາງຄົນຍ່າງເຂົ້າໄປໃນພູ.
+
+239
+00:28:45,189 --> 00:28:51,320
+Artim, where were you
+the day the android appeared to us?
+ອາຕີມ,ເຈົ້າຢູ່ໃສໃນມື້ທີ່
+ແອນດຣອຍປະກົດຕົວໃຫ້ພວກເຮົາ?
+
+240
+00:28:51,529 --> 00:28:55,949
+- In the hills by the dam.
+- Can you show us?
+- ໃນພູເຂົາຢູ່ແຄມເຂື່ອນ.
+- ເຈົ້າສາມາດສະແດງໃຫ້ພວກເຮົາໄດ້ບໍ?
+
+241
+00:29:12,923 --> 00:29:17,886
+There is no reason to fear me. I am
+operating within normal parameters.
+ບໍ່ມີເຫດຜົນທີ່ຈະຢ້ານຂ້ອຍ.ຂ້ອຍກໍາລ
+ັງປະຕິບັດງານພາຍໃນພາລາມິເຕີປົກກະຕິ.
+
+242
+00:29:18,094 --> 00:29:21,389
+They fixed me.
+ພວກເຂົາແກ້ໄຂຂ້ອຍ.
+
+243
+00:29:23,307 --> 00:29:28,771
+- The boy is afraid of me.
+- It's nothing personal.
+- ເດັກຊາຍຢ້ານຂ້ອຍ.
+- ມັນບໍ່ມີຫຍັງສ່ວນຕົວ.
+
+244
+00:29:28,979 --> 00:29:35,652
+- These people rejected technology.
+- I am technology personified.
+- ພວກຄົນເຫຼົ່ານີ້ໄດ້ປະຕິເສດເຕັກໂນໂລຊີ.
+- ຂ້ອຍເປັນບຸກຄົນຂອງເຕັກໂນໂລຢີ.
+
+245
+00:29:35,860 --> 00:29:40,948
+That young man has never seen
+a machine that walks and talks.
+ຜູ້ຊາຍໜຸ່ມຄົນນັ້ນບໍ່ເຄີຍເຫັນ
+ເຄື່ອງຈັກທີ່ຍ່າງແລະເວົ້າເລີຍ.
+
+246
+00:29:47,955 --> 00:29:51,374
+Bridge to Riker.
+ຂົວໄປຫາ ຣິກເກີ.
+
+247
+00:29:51,583 --> 00:29:56,087
+- Can I get backto you, Worf?
+- "It's Admiral Dougherty."
+- ຂ້ອຍສາມາດກັບມາຫາເຈົ້າໄດ້ບໍ, ວໍຟ?
+- ມັນເປັນພົນຈັດຕະວາ ດູເກີຕີ.
+
+248
+00:29:56,295 --> 00:29:59,590
+Patch him through.
+Yes, Admiral?
+ເຊື່ອມຕໍ່ລາວ. ແມ່ນແລ້ວ, ນາຍພົນບໍ?
+
+249
+00:29:59,799 --> 00:30:04,553
+- Why haven't you left orbit?
+- "Picard is still on the surface."
+- ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ອອກຈາກວົງໂຄຈອນ?
+- ປິກາດຍັງຢູ່ເທິງພື້ນຜິວ.
+
+250
+00:30:04,761 --> 00:30:08,390
+He wants an explanation
+as to why Data malfunctioned.
+ລາວຢາກໃຫ້ຄໍາອະທິບາຍວ່າເປັນ
+ຫຍັງຂໍ້ມູນເຮັດວຽກຜິດປົກກະຕິ.
+
+251
+00:30:08,556 --> 00:30:11,726
+His future at Starfleet
+depends on it.
+ອະນາຄົດຂອງລາວໃນ Starfleet ຂຶ້ນກັບມັນ.
+
+252
+00:30:13,770 --> 00:30:19,858
+Remind the Captain
+his 12 hours are up. Dougherty out.
+ຈື່ໃຫ້ຄັບປິນວ່າເວລາ 12 ຊົ່ວໂມງ
+ຂອງລາວໝົດແລ້ວ.ດູເກີຕີອອກໄປ.
+
+253
+00:30:21,985 --> 00:30:26,156
+Your body is producing
+far too many toxins.
+ຮ່າງກາຍຂອງເຈົ້າກໍາລັງ
+ຜະລິດສານພິດຫຼາຍເກີນໄປ.
+
+254
+00:30:26,406 --> 00:30:30,493
+We've reached the limit
+of genetic manipulation.
+ພວກເຮົາໄດ້ບັນລຸຂອບເຂດ
+ຂອງການຄວບຄຸມພັນຊາດແລ້ວ.
+
+255
+00:30:30,701 --> 00:30:34,663
+I won't need any more
+genetic manipulation -
+ຂ້ອຍຈະບໍ່ຕ້ອງການການ
+ຄວບຄຸມພັນຊາດອີກຕໍ່ໄປ-
+
+256
+00:30:34,872 --> 00:30:39,876
+- if our Federation friends will
+allow us to complete this mission.
+-ຖ້າເພື່ອນຂອງສະຫະພັນຂອງພວກເຮົາຈະ
+ອະນຸຍາດໃຫ້ພວກເຮົາສໍາເລັດພາລະກິດນີ້.
+
+257
+00:30:47,633 --> 00:30:52,513
+Tricorder functions are limited due
+to kelbonite deposits in the area.
+ໜ້າທີ່ Tricorder ແມ່ນຈໍາກັດ
+ເນື່ອງຈາກການຝາກ Kelbonite ໃນພື້ນທີ່.
+
+258
+00:30:52,721 --> 00:30:57,142
+How about a passive radiation scan?
+ຈະເປັນແນວໃດກັບການສະແກນ
+ແສງສະຫວ່າງແບບບໍ່ເຄື່ອນໄຫວ?
+
+259
+00:30:58,643 --> 00:31:04,565
+There appear to be strong neutrino
+emissions coming from the lake.
+ເບິ່ງຄືວ່າມີການປ່ອຍນິວຕຣິ
+ນໂກ້ທີ່ແຂງແຮງມາຈາກທະເລສາບ.
+
+260
+00:31:21,372 --> 00:31:24,208
+Can he breathe underwater?.
+ລາວສາມາດຫາຍໃຈພາຍໃຕ້ນ້ ໍາ ໄດ້ບໍ?.
+
+261
+00:31:24,417 --> 00:31:28,045
+Data doesn't breathe.
+ຂໍ້ມູນບໍ່ຫາຍໃຈ.
+
+262
+00:31:28,254 --> 00:31:33,175
+- Won't he rust?
+- No.
+- ລາວຈະບໍ່ rust ບໍ?
+- ບໍ່.
+
+263
+00:31:56,654 --> 00:31:58,698
+Captain!
+ຄັບປິນ!
+
+264
+00:31:58,906 --> 00:32:03,160
+I believe I know what is causing
+the neutrino emissions.
+ຂ້ອຍເຊື່ອວ່າຂ້ອຍຮູ້ວ່າເປັນຫຍັງທີ່
+ເຮັດໃຫ້ການປ່ອຍນິວຕຣິນໂກ້ເກີດຂຶ້ນ.
+
+265
+00:32:41,194 --> 00:32:45,448
+The vessel
+is clearly Federation in origin.
+ເຮືອແມ່ນມາຈາກສະຫະພັນຢ່າງແນ່ນອນ.
+
+266
+00:32:45,657 --> 00:32:49,285
+"Just a few loose ends
+to tie up!"
+ພຽງແຕ່ສອງສາມຈຸດທີ່ວ່າງທີ່ຈະຜູກມັດ!
+
+267
+00:32:50,036 --> 00:32:54,123
+- We're not interested in this.
+- I am.
+- ພວກເຮົາບໍ່ສົນໃຈເລື່ອງນີ້.
+- ຂ້ອຍເປັນ.
+
+268
+00:32:57,000 --> 00:33:00,462
+- It would be wiser ...
+- I'm going with you.
+- ມັນຈະສະຫຼາດກວ່າ...
+- ຂ້ອຍຈະໄປກັບເຈົ້າ.
+
+269
+00:33:49,631 --> 00:33:53,885
+It is a holographic projection.
+ມັນເປັນການຄາດຄະເນໂຮໂລແກຣຟິກ.
+
+270
+00:33:57,013 --> 00:33:59,682
+Incomplete, I might add.
+ບໍ່ຄົບຖ້ວນ, ຂ້ອຍອາດຈະເພີ່ມເຕີມ.
+
+271
+00:33:59,891 --> 00:34:04,645
+This is a computer-driven image
+created by photons and forcefields.
+ນີ້ແມ່ນຮູບທີ່ຖືກຄອມພິວເຕີຂັບເຄື່ອນ
+ສ້າງຂື້ນໂດຍຟອດອນແລະສະໜາມກໍາລັງ.
+
+272
+00:34:04,853 --> 00:34:08,273
+I know what a hologram is.
+ຂ້ອຍຮູ້ວ່າໂຮໂລແກຣມແມ່ນຫຍັງ.
+
+273
+00:34:08,482 --> 00:34:12,485
+Why would anyone want
+to create one of our village?
+ເປັນຫຍັງໃຜຈຶ່ງຢາກສ້າງບ້ານຂອງພວກເຮົາ?
+
+274
+00:34:12,694 --> 00:34:17,114
+If you were following the children
+and discovered this ship ...
+ຖ້າເຈົ້າຕິດຕາມເດັກນ້ອຍ
+ແລະຄົ້ນພົບເຮືອນີ້...
+
+275
+00:34:18,240 --> 00:34:22,202
+I may have been shot to protect
+the secret of its existence.
+ຂ້ອຍອາດຈະຖືກຍິງເພື່ອປົກປ້ອງ
+ຄວາມລັບຂອງການມີຢູ່ຂອງມັນ.
+
+276
+00:34:22,411 --> 00:34:27,791
+Why would they duplicate this
+village except to deceive the Ba'ku?
+ເປັນຫຍັງພວກເຂົາຈຶ່ງເຮັດແບບນີ້
+ບ້ານນອກຈາກທີ່ຈະຫຼອກລວງ Ba'ku ໄດ້?
+
+277
+00:34:27,999 --> 00:34:31,836
+- Deceive us?
+- To move you off this planet.
+- ຫຼອກລວງພວກເຮົາບໍ?
+- ເພື່ອຍ້າຍເຈົ້າອອກຈາກໂລກນີ້.
+
+278
+00:34:32,045 --> 00:34:34,922
+You'd fall asleep in your village -
+ເຈົ້າຈະນອນໃນບ້ານຂອງທ່ານ -
+
+279
+00:34:35,131 --> 00:34:39,009
+- and wake up
+on this flying holodeck.
+- ແລະຕື່ນຂຶ້ນເທິງໂຮໂລເດັກບິນນີ້.
+
+280
+00:34:39,218 --> 00:34:42,804
+Transported en masse,
+and in a few days -
+ຖືກຂົນສົ່ງຢ່າງໃຫຍ່
+ຫຼວງ,ແລະໃນສອງສາມມື້-
+
+281
+00:34:43,013 --> 00:34:47,642
+- relocated on a similar planet
+without ever realising it.
+-ຍ້າຍໄປທີ່ໂລກທີ່
+ຄ້າຍຄືກັນໂດຍບໍ່ຮູ້ເລີຍ.
+
+282
+00:34:47,851 --> 00:34:52,480
+Why would the Federation
+wish to move the Ba'ku?
+ເປັນຫຍັງສະຫະພັນຈຶ່ງຢາກຍ້າຍ Ba'ku ໄດ້?
+
+283
+00:34:52,688 --> 00:34:56,358
+I don't know.
+ຂ້ອຍບໍ່ຮູ້.
+
+284
+00:35:31,932 --> 00:35:35,727
+Computer, end program.
+De-cloakthe vessel.
+ຄອມພິວເຕີ,ໂປແກຼມສຸດທ້າຍ.
+ປົດເຄື່ອງນຸ່ງຫົ່ມຂອງເຮືອ.
+
+285
+00:35:38,146 --> 00:35:39,731
+Help!
+ຊ່ວຍເຫຼືອ!
+
+286
+00:35:39,939 --> 00:35:43,443
+I can't swim.
+ຂ້ອຍລອຍບໍ່ໄດ້.
+
+287
+00:35:49,907 --> 00:35:52,367
+Don't panic.
+ຢ່າຢ້ານກົວ.
+
+288
+00:35:52,576 --> 00:35:57,038
+I've been shot at on a ship
+that has come to abduct us.
+ຂ້ອຍຖືກຍິງໃສ່ໃນເຮືອທີ່ມາລັກຕົວພວກເຮົາ.
+
+289
+00:35:57,247 --> 00:36:00,750
+What's there to panic about?
+ມີຫຍັງຕ້ອງຢ້ານກົວ?
+
+290
+00:36:01,083 --> 00:36:06,088
+For water landings, I am designed
+to serve as a flotation device.
+ສໍາລັບການລົງຈອດໃນນໍ້າ,ຂ້ອຍຖືກອ
+ອກແບບມາເພື່ອເປັນອຸປະກອນລອຍນໍ້າ.
+
+291
+00:36:11,718 --> 00:36:15,889
+Did the hostages mention
+anything about a cloaked ship?
+ພວກຕົວປະກັນໄດ້ກ່າວເຖິງຫຍ
+ັງກ່ຽວກັບເຮືອທີ່ປິດບັງບໍ?
+
+292
+00:36:16,097 --> 00:36:18,933
+- No, sir.
+- Debrief them again.
+- ບໍ່ເດີ.
+- ຖາມພວກເຂົາອີກຄັ້ງ.
+
+293
+00:36:19,141 --> 00:36:24,730
+- Have you been in a fight?
+- No, it is a gorch.
+- ເຈົ້າເຄີຍຕໍ່ສູ້ບໍ?
+- ບໍ່, ມັນເປັນໂກກ.
+
+294
+00:36:27,107 --> 00:36:29,401
+A pimple, sir.
+ກະດູກກະດູກ, ທ້າວ.
+
+295
+00:36:31,528 --> 00:36:35,990
+Well... it's hardly noticeable.
+ດີ... ມັນເກືອບບໍ່ສາມາດສັງເກດເຫັນໄດ້.
+
+296
+00:36:50,628 --> 00:36:54,215
+Smooth as an android's bottom.
+ງຽບໆຄືກັບດ້ານລຸ່ມຂອງແອນດຣອຍ.
+
+297
+00:36:54,423 --> 00:36:58,594
+- Dougherty noticed we haven't left.
+- We're not going anywhere.
+- ດູເກີຕີສັງເກດເຫັນວ່າພວກເຮົາບໍ່ໄດ້ອອກຈາກ.
+- ພວກເຮົາຈະບໍ່ໄປໃສເລີຍ.
+
+298
+00:36:58,802 --> 00:37:01,722
+Deck 5.
+ກະຕ່າທີ 5.
+
+299
+00:37:04,474 --> 00:37:08,603
+Klingons never do anything small.
+ຄິນລິງບໍ່ເຄີຍເຮັດຫຍັງນ້ອຍໆເລີຍ.
+
+300
+00:37:08,811 --> 00:37:13,941
+- Dr Crusher asked to speakto you.
+- Picard to Crusher.
+- ດຣ ຄຣູເຊີ ຂໍເວົ້າກັບເຈົ້າ.
+- ປິກາດໄປຫາ ຄຣູເຊີ.
+
+301
+00:37:14,149 --> 00:37:19,363
+The Son'a hostages
+declined to be examined.
+ພວກຕົວປະກັນຂອງລູກຊາຍໄດ້
+ປະຕິເສດທີ່ຈະຖືກກວດສອບ.
+
+302
+00:37:19,571 --> 00:37:21,656
+- And our people?
+- They're fine.
+- ແລະປະຊາຊົນຂອງພວກເຮົາບໍ?
+- ພວກເຂົາບໍ່ເປັນຫຍັງ.
+
+303
+00:37:21,865 --> 00:37:28,246
+In fact they're better than fine.
+Improved muscle tone, high energy.
+ໃນຄວາມເປັນຈິງພວກເຂົາດີກວ່າດີ.
+ການປັບປຸງສຽງກ້າມຊີ້ນ,ພະລັງງານສູງ.
+
+304
+00:37:28,454 --> 00:37:31,081
+Very well, Doctor.
+ດີຫຼາຍ, ດອກຕໍ.
+
+305
+00:37:31,290 --> 00:37:36,420
+Don't release the Son'a officers
+until I've talked to Ahdar Ru'afo.
+ຢ່າປ່ອຍເຈົ້າໜ້າທີ່ໂຊນອາຈົນກວ່າ
+ຂ້ອຍຈະເວົ້າກັບອາດາຣູອາໂຟ.
+
+306
+00:37:36,628 --> 00:37:40,548
+Commander, may I ..?
+ຜູ້ບັນຊາການ, ຂ້ອຍສາມາດ...?
+
+307
+00:37:46,929 --> 00:37:49,348
+Computer, music.
+ຄອມພິວເຕີ, ດົນຕີ.
+
+308
+00:37:49,556 --> 00:37:53,060
+- Not that, something Latin.
+- "Specify."
+- ບໍ່ແມ່ນນັ້ນ, ບາງສິ່ງບາງຢ່າງພາສາລາຕິນ.
+- ສະແດງໃຫ້ເຫັນ.
+
+309
+00:37:53,268 --> 00:37:56,104
+The mambo.
+ແມມບູ.
+
+310
+00:37:59,023 --> 00:38:01,734
+That's more like it.
+ນັ້ນແມ່ນມັນຫຼາຍຂຶ້ນ.
+
+311
+00:38:22,795 --> 00:38:26,173
+How old are you?
+ເຈົ້າອາຍຸເທົ່າໃດ?
+
+312
+00:38:26,924 --> 00:38:31,052
+Our solar system was on the verge
+of self-annihilation.
+ລະບົບແສງຕາເວັນຂອງພວກເຮົາ
+ຢູ່ແຄມການທໍາລາຍຕົວເອງ.
+
+313
+00:38:31,261 --> 00:38:35,723
+Technology had created weapons
+that threatened to destroy all life.
+ເຕັກໂນໂລຊີໄດ້ສ້າງອາວຸດທີ່
+ຂົ່ມຂູ່ທີ່ຈະທໍາລາຍຊີວິດທັງໝົດ.
+
+314
+00:38:35,932 --> 00:38:39,852
+A small group of us
+set off to find a new home.
+ພວກເຮົາຍັງເປັນກຸ່ມນ້ອຍໆ
+ທີ່ອອກໄປຊອກຫາເຮືອນໃໝ່.
+
+315
+00:38:40,019 --> 00:38:45,607
+A home that would be isolated
+from the threats of other worlds.
+ບ້ານທີ່ຈະຖືກແຍກອອກຈາກ
+ໄພຂົ່ມຂູ່ຈາກໂລກອື່ນ.
+
+316
+00:38:45,774 --> 00:38:51,863
+- That was 309 years ago.
+- And you haven't aged since then.
+- ນັ້ນແມ່ນ 309 ປີກ່ອນ.
+- ແລະເຈົ້າບໍ່ໄດ້ເຖົ້າແກ່ຕັ້ງແຕ່ເວລານັ້ນ.
+
+317
+00:38:52,071 --> 00:38:56,742
+I was a lot older when we arrived,
+in terms of my physical condition.
+ຂ້ອຍອາຍຸຫຼາຍເມື່ອພວກເຮົາມາຮອດ
+,ໃນແງ່ຂອງສະພາບຮ່າງກາຍຂອງຂ້ອຍ.
+
+318
+00:38:56,951 --> 00:39:01,079
+There's a metaphasic radiation
+coming from the planet's rings.
+ມີແສງສະຫວ່າງ metaphasic
+ທີ່ມາຈາກວົງແຫວນຂອງໂລກ.
+
+319
+00:39:01,288 --> 00:39:04,833
+It regenerates
+our genetic structure.
+ມັນຟື້ນຟູໂຄງສ້າງພັນທຸຂອງພວກເຮົາ.
+
+320
+00:39:05,041 --> 00:39:10,505
+- You must have noticed the effects.
+- We've just begun to.
+- ເຈົ້າຕ້ອງໄດ້ສັງເກດເຫັນຜົນກະທົບ.
+- ພວກເຮົາຫາກໍ່ເລີ່ມຕົ້ນແລ້ວ.
+
+321
+00:39:11,339 --> 00:39:15,426
+- I suppose you're 75.
+- No, I'm 12.
+- ຂ້ອຍຄິດວ່າເຈົ້າອາຍຸ 75 ປີ.
+- ບໍ່, ຂ້ອຍອາຍຸ 12 ປີ.
+
+322
+00:39:15,634 --> 00:39:21,264
+The radiation won't affect him
+until he reaches maturity.
+ແສງສະຫວ່າງຈະບໍ່ສົ່ງຜົນກະທົບ
+ລາວຈົນກວ່າລາວຈະບັນລຸຄວາມ成熟.
+
+323
+00:39:21,473 --> 00:39:27,937
+What you have here is more valuable
+than gold-pressed latinum.
+ສິ່ງທີ່ເຈົ້າມີຢູ່ນີ້ມີຄຸນຄ່າ
+ຫຼາຍກ່ວາລາຕິນຽມທີ່ຖືກກົດຄໍາ.
+
+324
+00:39:28,146 --> 00:39:33,609
+That's the reason someone may be
+trying to take your world from you.
+ນັ້ນແມ່ນເຫດຜົນທີ່ບາງຄົນອາດຈະ
+ພະຍາຍາມເອົາໂລກຂອງທ່ານຈາກທ່ານ.
+
+325
+00:39:33,817 --> 00:39:36,904
+The android was right.
+ແອນດຣອຍເວົ້າຖືກຕ້ອງ.
+
+326
+00:39:37,112 --> 00:39:42,534
+If it wasn't for Data, it's probable
+that you would be relocated by now.
+ຖ້າມັນບໍ່ແມ່ນຂໍ້ມູນ,ມັນເປັນໄປໄດ້ວ່າ
+ເຈົ້າຈະຖືກຍ້າຍໄປບ່ອນອື່ນໃນເວລານີ້.
+
+327
+00:39:42,742 --> 00:39:47,371
+The moment we pick up a weapon
+we become one of them.
+ໃນຊ່ວງເວລາທີ່ພວກເຮົາເອົາອາວຸ
+ດພວກເຮົາກາຍເປັນໜຶ່ງໃນພວກມັນ.
+
+328
+00:39:47,580 --> 00:39:51,208
+- We lose everything we are.
+- It may not come to that.
+- ພວກເຮົາສູນເສຍທຸກຢ່າງທີ່ພວກເຮົາເປັນ.
+- ມັນອາດຈະບໍ່ມາຮອດນັ້ນ.
+
+329
+00:39:52,543 --> 00:39:56,296
+The architects of this conspiracy
+want to keep it a secret.
+ນັກສະຖາປັດຕະຍະກໍາຂອງການສົມຮູ້
+ຮ່ວມຄິດນີ້ຢາກຮັກສາມັນເປັນຄວາມລັບ.
+
+330
+00:39:56,505 --> 00:40:00,967
+Not only from you,
+but from my people, as well.
+ບໍ່ພຽງແຕ່ຈາກເຈົ້າເທົ່ານັ້ນ,
+ແຕ່ຈາກປະຊາຊົນຂອງຂ້ອຍເຊັ່ນກັນ.
+
+331
+00:40:03,678 --> 00:40:06,430
+I don't intend to let them.
+ຂ້ອຍບໍ່ຕັ້ງໃຈທີ່ຈະປ່ອຍໃຫ້ພວກເຂົາ.
+
+332
+00:40:11,560 --> 00:40:17,190
+We've always known that to survive
+we had to remain apart.
+ພວກເຮົາຮູ້ຢູ່ສະເໝີວ່າເພື່ອ
+ຢູ່ລອດພວກເຮົາຕ້ອງຢູ່ຫ່າງກັນ.
+
+333
+00:40:17,398 --> 00:40:22,445
+Many of the young people want
+to know more about the offland.
+ຊາວໜຸ່ມຫຼາຍຄົນຢາກຮູ້ຫຼາຍ
+ຂຶ້ນກ່ຽວກັບເຂດນອກທະເລ.
+
+334
+00:40:22,653 --> 00:40:27,783
+They're attracted to stories
+of a faster pace of life.
+ພວກເຂົາຖືກດຶງດູດໄປສູ່ເລື່ອງ
+ຂອງຄວາມໄວຂອງຊີວິດທີ່ໄວຂຶ້ນ.
+
+335
+00:40:27,991 --> 00:40:34,039
+Most of my people would
+sell their souls to slow life down.
+ຄົນຂອງຂ້ອຍສ່ວນໃຫຍ່ຈະຂາຍຈິດວິນຍານ
+ຂອງພວກເຂົາເພື່ອເຮັດໃຫ້ຊີວິດຊ້າລົງ.
+
+336
+00:40:34,247 --> 00:40:37,291
+But not you?
+ແຕ່ບໍ່ແມ່ນເຈົ້າບໍ?
+
+337
+00:40:37,500 --> 00:40:40,878
+There are days.
+ມີມື້ບາງມື້.
+
+338
+00:40:41,587 --> 00:40:45,883
+You don't live up to your reputation
+as an offlander.
+ເຈົ້າບໍ່ສອດຄ່ອງກັບຊື່ສຽງ
+ຂອງທ່ານເປັນຄົນຕ່າງປະເທດ.
+
+339
+00:40:46,091 --> 00:40:51,471
+In defence of offlanders,
+there are many more people like me.
+ໃນການປ້ອງກັນຄົນຕ່າງປະເທດ
+,ມີຄົນຫຼາຍຄົນຄືກັບຂ້ອຍ.
+
+340
+00:40:51,679 --> 00:40:57,393
+Who wouldn't be tempted
+by the promise of perpetual youth?
+ໃຜຈະບໍ່ຖືກດຶງດູດໂດຍຄໍາ
+ໝັ້ນສັນຍາຂອງຊາວໜຸ່ມຕະຫຼອດໄປ?
+
+341
+00:40:59,019 --> 00:41:05,776
+You give me more credit than
+I deserve. Of course I'm tempted.
+ເຈົ້າໃຫ້ຂ້ອຍຄວາມຍ້ອງຍໍຫຼາຍກ່ວາທີ່
+ຂ້ອຍສົມຄວນ.ແນ່ນອນວ່າຂ້ອຍຖືກດຶງດູດ.
+
+342
+00:41:05,984 --> 00:41:10,154
+But some of the darkest chapters
+in the history of my world -
+ແຕ່ບາງບົດທີ່ມືດທີ່ສຸດໃນ
+ປະຫວັດສາດຂອງໂລກຂອງຂ້ອຍ-
+
+343
+00:41:10,363 --> 00:41:17,453
+- involve the forced relocation
+of one people to satisfy another.
+-ລວມເຖິງການຍ້າຍຖິ່ນຖານຢ່າງບັງຄັບໃຫ້
+ປະຊາຊົນຄົນໜຶ່ງເພື່ອຄວາມພໍໃຈຄົນອື່ນ.
+
+344
+00:41:18,829 --> 00:41:22,874
+I had hoped that we had learned
+from our mistakes, -
+ຂ້ອຍຫວັງວ່າພວກເຮົາໄດ້ຮຽນຮູ້
+ຈາກຄວາມຜິດພາດຂອງພວກເຮົາ,-
+
+345
+00:41:23,083 --> 00:41:27,837
+- but it seems
+that some of us haven't.
+- ແຕ່ເບິ່ງຄືວ່າບາງຄົນເຮົາບໍ່ໄດ້ເຮັດ.
+
+346
+00:41:35,386 --> 00:41:41,308
+- Extraordinary craftsmanship.
+- It's the work of students.
+- ການຫັດຖະກໍາທີ່ພິເສດ.
+- ມັນເປັນວຽກງານຂອງນັກຮຽນ.
+
+347
+00:41:42,600 --> 00:41:45,979
+They're almost ready
+to become apprentices.
+ພວກເຂົາເກືອບພ້ອມແລ້ວ
+ທີ່ຈະກາຍເປັນນັກຮຽນ.
+
+348
+00:41:46,187 --> 00:41:51,192
+In 30 or 40 years
+some of them will become artisans.
+ໃນເວລາ 30 ຫຼື 40 ປີບາງຄົນ
+ຈະກາຍເປັນຊ່າງມື.
+
+349
+00:41:51,400 --> 00:41:54,945
+Apprenticing for 30 years ...
+ການຮຽນຮູ້ເປັນເວລາ 30 ປີ...
+
+350
+00:41:56,280 --> 00:42:01,159
+Did your people's mental discipline
+develop here?
+ຄວາມເຂັ້ມງວດທາງຈິດໃຈຂອງປະຊາຊົນ
+ຂອງທ່ານພັດທະນາຢູ່ບ່ອນນີ້ບໍ?
+
+351
+00:42:01,367 --> 00:42:05,997
+More questions.
+Always the explorer.
+ຄໍາຖາມອີກ. ເປັນນັກຄົ້ນຄວ້າຢູ່ສະເໝີ.
+
+352
+00:42:08,457 --> 00:42:12,377
+- If you stay, that will change.
+- Will it?
+- ຖ້າເຈົ້າຢູ່, ນັ້ນຈະປ່ຽນແປງ.
+- ມັນຈະເຮັດໄດ້ບໍ?
+
+353
+00:42:12,878 --> 00:42:18,883
+You stop reviewing the past,
+stop planning for tomorrow.
+ເຈົ້າຢຸດການທົບທວນຄືນອະດີດ,
+ຢຸດການວາງແຜນສໍາລັບມື້ອື່ນ.
+
+354
+00:42:20,260 --> 00:42:23,012
+Let me ask you a question:
+ຂໍຖາມເຈົ້າວ່າ:
+
+355
+00:42:23,221 --> 00:42:29,393
+Have you ever experienced
+a perfect moment in time?
+ເຈົ້າເຄີຍປະສົບກັບຊ່ວງ
+ເວລາທີ່ສົມບູນແບບບໍ?
+
+356
+00:42:29,601 --> 00:42:34,773
+When time seemed to stop, and you
+could almost live in that moment?
+ເມື່ອເວລາເບິ່ງຄືວ່າຢຸດເຊົາ,ແລະເຈົ້າ
+ເກືອບສາມາດດໍາລົງຊີວິດໃນເວລານັ້ນໄດ້ບໍ?
+
+357
+00:42:38,568 --> 00:42:44,156
+Seeing my home planet from space,
+for the first time.
+ເຫັນໂລກບ້ານຂອງຂ້ອຍຈາກ
+ອະວະກາດ,ເປັນຄັ້ງທໍາອິດ.
+
+358
+00:42:44,365 --> 00:42:47,534
+Yes, exactly.
+ແມ່ນແລ້ວ, ແທ້ຈິງແລ້ວ.
+
+359
+00:42:47,743 --> 00:42:51,371
+Nothing more complicated
+than perception.
+ບໍ່ມີຫຍັງສັບສົນກວ່າຄວາມຮູ້ສຶກ.
+
+360
+00:42:53,957 --> 00:42:57,335
+You explore the universe.
+ເຈົ້າຄົ້ນຄວ້າຈັກກະວານ.
+
+361
+00:42:57,543 --> 00:43:04,675
+We discovered that a single moment
+in time can be a universe in itself.
+ພວກເຮົາໄດ້ຄົ້ນພົບວ່າເວລາດຽວໃນເວລາ
+ສາມາດເປັນຈັກກະວານດ້ວຍຕົນເອງໄດ້.
+
+362
+00:43:04,883 --> 00:43:08,345
+Full of powerful forces.
+ເຕັມໄປດ້ວຍກໍາລັງທີ່ເຂັ້ມແຂງ.
+
+363
+00:43:08,553 --> 00:43:13,808
+Most people aren't aware enough
+of the "now"to even notice.
+ຄົນສ່ວນໃຫຍ່ບໍ່ຮູ້ພຽງພໍກ່ຽວກັບ
+"ດຽວນີ້"ເພື່ອສັງເກດເຫັນເລີຍ.
+
+364
+00:43:14,016 --> 00:43:18,687
+I wish I could spare
+a few centuries to learn.
+ຂ້ອຍຢາກໃຫ້ຂ້ອຍສາມາດປະຢັດ
+ສອງສາມສະຕະວັດເພື່ອຮຽນຮູ້.
+
+365
+00:43:18,896 --> 00:43:24,109
+It took us centuries to learn that
+it doesn't have to take that long.
+ມັນໃຊ້ເວລາພວກເຮົາຫຼາຍສະຕະວັດເພື່ອຮຽນ
+ຮູ້ວ່າມັນບໍ່ຈໍາເປັນຕ້ອງໃຊ້ເວລາຫຼາຍປານໃດ.
+
+366
+00:43:24,317 --> 00:43:27,612
+There's one thing
+I don't understand.
+ມີສິ່ງໜຶ່ງທີ່ຂ້ອຍບໍ່ເຂົ້າໃຈ.
+
+367
+00:43:27,821 --> 00:43:32,491
+In 300 years,
+you never learned to swim?
+ໃນເວລາ 300 ປີ,ເຈົ້າ
+ບໍ່ເຄີຍຮຽນລອຍນ້ໍາບໍ?
+
+368
+00:43:32,700 --> 00:43:36,245
+I haven't got around to it yet.
+ຂ້ອຍຍັງບໍ່ທັນເຂົ້າເຖິງມັນເທື່ອ.
+
+369
+00:43:42,042 --> 00:43:47,505
+I wonder if you're aware
+of the trust you engender.
+ຂ້ອຍຢາກຮູ້ວ່າເຈົ້າຮູ້ກ່ຽວກັບ
+ຄວາມໄວ້ວາງໃຈທີ່ທ່ານສ້າງຂື້ນບໍ.
+
+370
+00:43:47,714 --> 00:43:51,842
+- It's unusual ...
+- For an offlander?.
+- ມັນບໍ່ປົກກະຕິ...
+- ສໍາລັບຄົນຕ່າງປະເທດບໍ?
+
+371
+00:43:52,051 --> 00:43:55,804
+For someone so young.
+ສໍາລັບຄົນໜຸ່ມຫຼາຍ.
+
+372
+00:44:30,127 --> 00:44:34,714
+- Geordi?
+- Captain.
+- ຈໍດີ?
+- ຄັບປິນ
+
+373
+00:44:34,923 --> 00:44:38,718
+There wasn't anything wrong
+with my implants.
+ບໍ່ມີຫຍັງຜິດກັບການປູກຝັງຂອງຂ້ອຍ.
+
+374
+00:44:38,927 --> 00:44:43,431
+There was something right
+with my eyes.
+ມີບາງສິ່ງບາງຢ່າງຖືກຕ້ອງກັບຕາຂອງຂ້ອຍ.
+
+375
+00:44:46,308 --> 00:44:53,315
+Dr Crusher found that the cells
+around my optic nerve had ...
+ດຣຄຣູເຊີພົບວ່າຈຸລັງຢູ່ອ້ອມຂ້າງ
+ເສັ້ນປະສາດສາຍຕາຂອງຂ້ອຍມີ...
+
+376
+00:44:53,523 --> 00:44:58,152
+... started to regenerate.
+... ເລີ່ມຟື້ນຟູຄືນໃໝ່.
+
+377
+00:44:59,445 --> 00:45:05,284
+It may not last.
+And if it doesn't ...
+ມັນອາດຈະບໍ່ຍືນຍົງ. ແລະຖ້າມັນບໍ່...
+
+378
+00:45:05,492 --> 00:45:09,955
+... I just wanted, before we go ...
+ຂ້ອຍພຽງແຕ່ຢາກ, ກ່ອນທີ່ພວກເຮົາຈະໄປ...
+
+379
+00:45:10,163 --> 00:45:13,833
+You know, I've never seen a sunrise.
+ເຈົ້າຮູ້ແລ້ວ,ຂ້ອຍບໍ່ເຄີຍ
+ເຫັນດວງຕາເວັນຂຶ້ນເລີຍ.
+
+380
+00:45:14,042 --> 00:45:18,629
+At least not the way you see them.
+ຢ່າງໜ້ອຍບໍ່ແມ່ນວິທີທີ່ທ່ານເຫັນພວກເຂົາ.
+
+381
+00:45:46,654 --> 00:45:49,490
+Come.
+ມາແລ້ວ.
+
+382
+00:45:51,784 --> 00:45:56,538
+Am I to understand
+that you're not releasing my men?
+ຂ້ອຍຕ້ອງເຂົ້າໃຈວ່າເຈົ້າ
+ຈະບໍ່ປ່ອຍຜູ້ຊາຍຂອງຂ້ອຍບໍ?
+
+383
+00:45:56,747 --> 00:46:00,584
+We found the holoship.
+ພວກເຮົາພົບເຮືອໂຮໂລສ໌.
+
+384
+00:46:00,792 --> 00:46:05,421
+- Let the captain and me ...
+- No!
+- ໃຫ້ຄັບປິນແລະຂ້ອຍ...
+- ບໍ່!
+
+385
+00:46:12,761 --> 00:46:17,766
+This entire mission has been one
+Federation blunder after another.
+ພາລະກິດທັງໝົດນີ້ແມ່ນຄວາມຜິດ
+ພາດຂອງສະຫະພັນໜຶ່ງຕໍ່ໜຶ່ງ.
+
+386
+00:46:19,142 --> 00:46:25,398
+Return my men, or this alliance will
+end with your ship's destruction.
+ກັບຄືນຜູ້ຊາຍຂອງຂ້ອຍ,ຫຼືພັນທະມິດນີ້ຈະ
+ສິ້ນສຸດລົງດ້ວຍການທໍາລາຍເຮືອຂອງທ່ານ.
+
+387
+00:46:35,574 --> 00:46:38,993
+You're looking well, Jean-Luc.
+Rested.
+ເຈົ້າເບິ່ງດີ, ຈິນ ລຸກ. ພັກຜ່ອນ.
+
+388
+00:46:39,202 --> 00:46:43,873
+I won't let you move them. I will
+take this to the Federation Council.
+ຂ້ອຍຈະບໍ່ປ່ອຍໃຫ້ເຈົ້າຍ້າຍພວກມັນ.
+ຂ້ອຍຈະເອົາເລື່ອງນີ້ໄປຫາສະພາສະຫະພັນ.
+
+389
+00:46:44,081 --> 00:46:47,209
+I'm acting on their orders.
+ຂ້ອຍກໍາລັງປະຕິບັດຕາມ
+ຄໍາສັ່ງຂອງພວກເຂົາ.
+
+390
+00:46:47,418 --> 00:46:50,337
+To abandon our prime directive?
+ເພື່ອປະຖິ້ມຄໍາສັ່ງຫຼັກຂອງພວກເຮົາບໍ?
+
+391
+00:46:50,545 --> 00:46:56,509
+These people are not indigenous.
+They're not meant to be immortal.
+ຄົນເຫຼົ່ານີ້ບໍ່ແມ່ນຄົນພື້ນເມືອງ.ພວກເຂົາ
+ບໍ່ໄດ້ໝາຍຄວາມວ່າຈະເປັນຄົນບໍ່ຕາຍໄດ້.
+
+392
+00:46:56,718 --> 00:47:00,763
+We'll be restoring them
+to their natural evolution.
+ພວກເຮົາຈະຟື້ນຟູພວກມັນຄືນສູ່
+ການພັດທະນາທໍາມະຊາດຂອງພວກເຂົາ.
+
+393
+00:47:00,972 --> 00:47:05,225
+Who the hell are we to determine
+the course of evolution?
+ພວກເຮົາເປັນໃຜທີ່ຈະກໍາ
+ນົດເສັ້ນທາງການພັດທະນາ?
+
+394
+00:47:05,392 --> 00:47:07,936
+There are 600 people there.
+ມີຄົນ 600 ຄົນຢູ່ບ່ອນນັ້ນ.
+
+395
+00:47:08,145 --> 00:47:13,733
+The regenerative properties of
+this radiation could help billions.
+ຄຸນສົມບັດການຟື້ນຟູຂອງແສງສະຫວ່າງ
+ນີ້ສາມາດຊ່ວຍຫຼາຍພັນລ້ານຄົນໄດ້.
+
+396
+00:47:13,900 --> 00:47:19,280
+The Son'a can collect metaphasic
+particles from the planet's rings.
+ໂຊນອາສາມາດເກັບກູ້ສ່ວນແບ່ງ
+metaphasic ຈາກວົງແຫວນຂອງໂລກໄດ້.
+
+397
+00:47:19,488 --> 00:47:25,327
+- The planet is in Federation space.
+- Our planet, their technology.
+- ດາວໂລກຢູ່ໃນອະວະກາດຂອງສະຫະພັນ.
+- ດາວໂລກຂອງພວກເຮົາ, ເຕັກໂນໂລຢີຂອງພວກເຂົາ.
+
+398
+00:47:25,535 --> 00:47:30,915
+A technology we can't duplicate.
+You know what that makes us?
+ເຕັກໂນໂລຊີທີ່ພວກເຮົາບໍ່ສາມາດເຮັດແບບສອງຄັ້ງ
+ໄດ້.ເຈົ້າຮູ້ວ່າມັນເຮັດໃຫ້ພວກເຮົາເປັນຫຍັງ?
+
+399
+00:47:31,124 --> 00:47:39,089
+- Partners.
+- Our partners are petty thugs.
+- ຄູ່ຮ່ວມງານ.
+- ຄູ່ຮ່ວມງານຂອງພວກເຮົາແມ່ນຄົນຮ້າຍນ້ອຍໆ.
+
+400
+00:47:39,298 --> 00:47:43,719
+On Earth, petroleum once turned
+petty thugs into world leaders.
+ໃນໂລກ,ນໍ້າມັນເຄີຍເຮັດໃຫ້ພວກ
+ໂຊກຮ້າຍນ້ອຍໆກາຍເປັນຜູ້ນໍາໂລກ.
+
+401
+00:47:43,927 --> 00:47:51,476
+Warp drive created a Romulan empire.
+We can handle the Son'a.
+ການຂັບເຄື່ອນ Warp ໄດ້ສ້າງອານາຈັກໂຣມ
+ູລານ.ພວກເຮົາສາມາດຮັບມືກັບ Son'a ໄດ້.
+
+402
+00:47:51,684 --> 00:47:55,437
+We probably said the same
+about the Romulans.
+ພວກເຮົາອາດຈະເວົ້າຄືກັນກ່ຽວກັບໂຣມູລານ.
+
+403
+00:47:55,646 --> 00:48:02,235
+Lifespans will be doubled. An entire
+new medical science will evolve.
+ຄວາມຍາວຂອງຊີວິດຈະເພີ່ມຂຶ້ນສອງເທົ່າ
+.ວິທະຍາສາດການແພດໃໝ່ທັງໝົດຈະພັດທະນາ.
+
+404
+00:48:02,444 --> 00:48:06,573
+Your chief engineer has the use
+of his eyes for the first time.
+ວິສະວະກອນຫົວໜ້າຂອງທ່ານໄດ້
+ໃຊ້ຕາຂອງລາວເປັນຄັ້ງທໍາອິດ.
+
+405
+00:48:06,781 --> 00:48:09,825
+Will you take that away from him?
+ເຈົ້າຈະເອົາມັນຈາກລາວບໍ?
+
+406
+00:48:10,034 --> 00:48:14,163
+With the whole Briar Patch, why
+does it have to be this one planet?
+ດ້ວຍແຜ່ນ Briar ທັງໝົດ,ເປັນຫຍ
+ັງມັນຈຶ່ງຕ້ອງເປັນໂລກດຽວນີ້?
+
+407
+00:48:14,371 --> 00:48:18,792
+The concentration in the rings
+makes it work.
+ຄວາມສຸມໃສ່ໃນວົງແຫວນ
+ເຮັດໃຫ້ມັນເຮັດວຽກໄດ້.
+
+408
+00:48:19,000 --> 00:48:23,254
+They'll inject something into
+the rings and start a reaction.
+ພວກເຂົາຈະສີດບາງສິ່ງບາງຢ່າງໃສ່
+ວົງແຫວນແລະເລີ່ມຕົ້ນປະຕິກິລິຍາ.
+
+409
+00:48:23,463 --> 00:48:31,011
+- The planet will be uninhabitable.
+- Delay them, let us study it.
+- ດາວໂລກຈະບໍ່ມີຄົນຢູ່ອາໄສໄດ້.
+- ຊັກຊ້າພວກເຂົາ, ໃຫ້ພວກເຮົາສຶກສາມັນ.
+
+410
+00:48:31,220 --> 00:48:36,224
+Our best scientific minds
+can't find any other way to do this.
+ຈິດໃຈວິທະຍາສາດທີ່ດີທີ່ສຸດຂອງພວກເຮົາ
+ບໍ່ສາມາດຊອກຫາວິທີອື່ນທີ່ຈະເຮັດສິ່ງນີ້ໄດ້.
+
+411
+00:48:36,433 --> 00:48:40,478
+The Son'a can establish a separate
+colony on the planet until we do.
+ລູກຊາຍສາມາດສ້າງຕັ້ງຄລູເນຍແຍກ
+ຕ່າງຫາກໃນໂລກຈົນກວ່າພວກເຮົາຈະເຮັດ.
+
+412
+00:48:40,687 --> 00:48:45,107
+It would take ten years' exposure
+to reverse their condition.
+ມັນຈະໃຊ້ເວລາສິບປີຂອງການເປີດ
+ເຜີຍເພື່ອປ່ຽນສະພາບຂອງພວກເຂົາ.
+
+413
+00:48:45,316 --> 00:48:48,819
+Some of them
+won't survive that long.
+ບາງຄົນຈະບໍ່ລອດຊີວິດດົນປານໃດ.
+
+414
+00:48:49,028 --> 00:48:53,323
+Besides, who would want to live
+in the Briar Patch?
+ນອກຈາກນັ້ນ,ໃຜຢາກອາ
+ໄສຢູ່ໃນ Briar Patch ?
+
+415
+00:48:53,532 --> 00:48:56,868
+The Ba'ku.
+ບາຄູ.
+
+416
+00:48:59,912 --> 00:49:05,000
+We are betraying the principles upon
+which the Federation was founded.
+ພວກເຮົາກໍາລັງປະໝາດຫຼັກການທີ່
+ສະຫະພັນຖືກສ້າງຕັ້ງຂຶ້ນ.
+
+417
+00:49:05,209 --> 00:49:09,504
+It's an attack upon its very soul.
+ມັນເປັນການໂຈມຕີຕໍ່ຈິດວິນຍານຂອງມັນເອງ.
+
+418
+00:49:17,387 --> 00:49:21,515
+And it will destroy the Ba'ku.
+ແລະມັນຈະທໍາລາຍ Ba'ku ໄດ້.
+
+419
+00:49:23,517 --> 00:49:29,856
+Cultures have been destroyed in
+every forced relocation in history.
+ວັດທະນະທໍາໄດ້ຖືກທໍາລາຍໃນທຸກໆ
+ການຍ້າຍທີ່ບັງຄັບໃນປະຫວັດສາດ.
+
+420
+00:49:30,065 --> 00:49:34,736
+Jean-Luc,
+we're only moving 600 people.
+ຈິນລຸກ,ພວກເຮົາກໍາລັງຍ້າຍ
+ຄົນພຽງແຕ່ 600 ຄົນເທົ່ານັ້ນ.
+
+421
+00:49:36,237 --> 00:49:40,991
+How many people does it take
+before it becomes wrong?
+ມັນຕ້ອງມີຄົນຫຼາຍປານໃດກ່ອນ
+ທີ່ຈະກາຍເປັນຄວາມຜິດພາດ?
+
+422
+00:49:41,784 --> 00:49:45,704
+1,000?
+50,000?
+1,000? 50,000?
+
+423
+00:49:45,912 --> 00:49:50,124
+A million?
+How many people does it take?
+ລ້ານຄົນ? ມັນຕ້ອງມີຄົນຫຼາຍປານໃດ?
+
+424
+00:49:50,333 --> 00:49:56,630
+You'll proceed to the Goren system,
+and release the Son'a officers.
+ເຈົ້າຈະສືບຕໍ່ໄປສູ່ລະບົບໂກ
+ເຣນ,ແລະປ່ອຍເຈົ້າໜ້າທີ່ໂຊນອາ.
+
+425
+00:49:56,839 --> 00:50:01,510
+File whatever protests you wish to.
+ສະໝັກການປະທ້ວງໃດກໍ່ຕາມທີ່ທ່ານຕ້ອງການ.
+
+426
+00:50:04,012 --> 00:50:08,558
+By the time you do,
+this will all be done.
+ເມື່ອເຈົ້າເຮັດ,ສິ່ງ
+ທັງໝົດນີ້ຈະເຮັດແລ້ວ.
+
+427
+00:50:57,977 --> 00:51:00,480
+Gallatin!
+ແກລາດິນ!
+
+428
+00:51:00,688 --> 00:51:07,569
+The righteous Starfleet captain
+finally released you.
+ຄັບປິນ Starfleet ທີ່ຍຸຕິ
+ທໍາໄດ້ປ່ອຍເຈົ້າໃນທີ່ສຸດ.
+
+429
+00:51:07,778 --> 00:51:11,406
+- Any problems on the surface?
+- No, sir.
+- ມີບັນຫາໃດຢູ່ເທິງພື້ນຜິວບໍ?
+- ບໍ່ເດີ.
+
+430
+00:51:13,325 --> 00:51:17,245
+But it wasn't easy being among them.
+ແຕ່ມັນບໍ່ແມ່ນເລື່ອງງ່າຍ
+ທີ່ຈະຢູ່ໃນບັນດາພວກມັນ.
+
+431
+00:51:17,453 --> 00:51:20,998
+Just don't forget
+what they did to us.
+ພຽງແຕ່ຢ່າລືມສິ່ງທີ່
+ພວກເຂົາເຮັດກັບພວກເຮົາ.
+
+432
+00:51:23,250 --> 00:51:26,753
+We'll have them rounded up
+in a day or two.
+ພວກເຮົາຈະເກັບພວກມັນ
+ໄວ້ໃນມື້ໜຶ່ງຫຼືສອງມື້.
+
+433
+00:51:26,962 --> 00:51:30,632
+We needn't bother
+with a holoship anymore.
+ພວກເຮົາບໍ່ຈໍາເປັນຕ້ອງກັງ
+ວົນກັບເຮືອໂຮໂລອີກຕໍ່ໄປ.
+
+434
+00:51:30,841 --> 00:51:35,219
+Get the holding cells ready.
+ກຽມຄຸກຄຸມຂັງໄວ້.
+
+435
+00:51:35,428 --> 00:51:39,849
+I'm going to miss these little
+flesh-stretching sessions of ours.
+ຂ້ອຍຈະຂາດການປະຊຸມຂະຫຍາຍ
+ຊີ້ນນ້ອຍໆຂອງພວກເຮົາ.
+
+436
+00:52:03,120 --> 00:52:07,290
+Re-routing the transport grid
+to avoid detection was wise.
+ການປ່ຽນເສັ້ນທາງເຄືອຂ່າຍຂົນສົ່ງເພື່ອ
+ຫຼີກເວັ້ນການກວດພົບແມ່ນມີຄວາມສະຫຼາດ.
+
+437
+00:52:07,499 --> 00:52:11,836
+However, the transporter
+is rarely used after 02:00 hours.
+ເຖິງຢ່າງໃດກໍ່ຕາມ,ເຄື່ອງຂົນສົ່ງ
+ແມ່ນບໍ່ຄ່ອຍຖືກໃຊ້ຫຼັງຈາກເວລາ 02 : 00 .
+
+438
+00:52:12,044 --> 00:52:16,548
+- Going out for a spin?
+- Seven tons of explosives.
+- ເຈົ້າຈະອອກໄປຫຼິ້ນບໍ?
+- ລະເບີດເຈັດໂຕນ.
+
+439
+00:52:16,757 --> 00:52:20,802
+Tetryon pulse launchers
+and isomagnetic disintegrators.
+ເຄື່ອງຍິງກະຕຸ້ນ Tetryon ແລະ
+ເຄື່ອງລະລາຍ isomagnetic .
+
+440
+00:52:21,011 --> 00:52:25,598
+- A hunting trip?
+- Return to your quarters.
+- ການເດີນທາງລ່າສັດບໍ?
+- ກັບຄືນໄປບ່ອນຫ້ອງຂອງທ່ານ.
+
+441
+00:52:25,807 --> 00:52:30,728
+- That's an order.
+- No uniform, no orders.
+- ນັ້ນແມ່ນຄໍາສັ່ງ.
+- ບໍ່ມີຊຸດ, ບໍ່ມີຄໍາສັ່ງ.
+
+442
+00:52:30,936 --> 00:52:35,816
+How can I look at a sunrise, knowing
+what my sight cost these people?
+ຂ້ອຍຈະເບິ່ງດວງຕາເວັນຂຶ້ນໄດ້ແນວໃດ,ຮູ້ວ່າ
+ສາຍຕາຂອງຂ້ອຍເສຍຄ່າຫຼາຍປານໃດຕໍ່ຄົນເຫຼົ່ານີ້?
+
+443
+00:52:36,024 --> 00:52:42,947
+Exposure could stimulate rebellious
+instincts common to youth -
+ການເປີດເຜີຍສາມາດກະຕຸ້ນຈິດໃຈ
+ກະບົດທີ່ທົ່ວໄປໃນໄວໜຸ່ມ-
+
+444
+00:52:43,156 --> 00:52:47,243
+- which would affect everyone's
+judgement ... except mine.
+-ເຊິ່ງຈະສົ່ງຜົນກະທົບຕໍ່ການຕັດສິນໃຈ
+ຂອງທຸກຄົນ...ຍົກເວັ້ນຂອງຂ້ອຍ.
+
+445
+00:52:47,451 --> 00:52:51,247
+What do you think we should do?
+ເຈົ້າຄິດວ່າພວກເຮົາຄວນເຮັດແນວໃດ?
+
+446
+00:52:51,455 --> 00:52:56,334
+Saddle up.
+Lock and load.
+ຂັບລົດຂຶ້ນ. ປິດແລະໂຫຼດ.
+
+447
+00:53:00,672 --> 00:53:04,342
+They won't begin the procedure
+while the planet is inhabited.
+ພວກເຂົາຈະບໍ່ເລີ່ມຕົ້ນຂັ້ນ
+ຕອນໃນຂະນະທີ່ໂລກມີຄົນຢູ່ອາໄສ.
+
+448
+00:53:04,550 --> 00:53:08,470
+Our job is to keep
+the planet inhabited.
+ວຽກງານຂອງພວກເຮົາແມ່ນ
+ການຮັກສາໂລກໃຫ້ມີຄົນຢູ່ອາໄສ.
+
+449
+00:53:08,679 --> 00:53:13,517
+We'll show what's happening here.
+Make the Council "see" the Ba'ku.
+ພວກເຮົາຈະສະແດງສິ່ງທີ່ເກີດຂຶ້ນຢູ່
+ນີ້.ເຮັດໃຫ້ສະພາ"ເຫັນ" Ba'ku ໄດ້.
+
+450
+00:53:13,725 --> 00:53:19,188
+Then it won't be so easy to
+turn a blind eye to their suffering.
+ຫຼັງຈາກນັ້ນມັນຈະບໍ່ງ່າຍທີ່ຈະ
+ປິດຕາຕໍ່ຄວາມທຸກທໍລະມານຂອງພວກເຂົາ.
+
+451
+00:53:19,397 --> 00:53:25,653
+- I'll be back before you know it.
+- We'll hold out as long as we can.
+- ຂ້ອຍຈະກັບມາກ່ອນທີ່ເຈົ້າຈະຮູ້ມັນ.
+- ພວກເຮົາຈະທົນທານໄດ້ດົນເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໄດ້.
+
+452
+00:53:46,713 --> 00:53:50,508
+The injector performs perfectly
+in every simulation.
+ເຄື່ອງສັກຢາປະຕິບັດໄດ້ຢ່າງ
+ສົມບູນແບບໃນການຈໍາລອງທຸກຢ່າງ.
+
+453
+00:53:50,717 --> 00:53:55,763
+The Enterprise left orbit, but a
+support craft is on the surface.
+Enterprise ໄດ້ອອກຈາກວົງໂຄຈອນ,ແຕ່
+ເຮືອສະໜັບສະໜູນແມ່ນຢູ່ເທິງພື້ນຜິວ.
+
+454
+00:53:55,972 --> 00:53:59,558
+It's the Captain's yacht.
+Five persons on board.
+ມັນເປັນເຮືອເຮືອຂອງຄັບປິນ
+.ມີຄົນຫ້າຄົນຢູ່ເທິງເຮືອ.
+
+455
+00:53:59,767 --> 00:54:04,313
+We're not waiting. Get everyone
+off the surface tonight.
+ພວກເຮົາບໍ່ໄດ້ລໍຖ້າ.ເອົາ
+ທຸກຄົນອອກຈາກພື້ນຜິວໃນຄືນນີ້.
+
+456
+00:54:06,940 --> 00:54:09,359
+Gallatin.
+ກາລາຕິນ.
+
+457
+00:54:09,567 --> 00:54:14,447
+If Picard or any of his people
+interfere ... eliminate them.
+ຖ້າ Picard ຫຼືຄົນໃດໆຂອງລາວ
+ແຊກແຊງ...ກໍາຈັດພວກເຂົາ.
+
+458
+00:54:20,994 --> 00:54:24,623
+We're leaving the village.
+Take only what you need.
+ພວກເຮົາກໍາລັງອອກຈາກບ້ານ.ເອົາພຽງແຕ່
+ສິ່ງທີ່ເຈົ້າຕ້ອງການເທົ່ານັ້ນ.
+
+459
+00:54:24,831 --> 00:54:30,002
+Bring food.
+We may not be back for days.
+ເອົາອາຫານມາ.ພວກເຮົາອາດ
+ຈະບໍ່ກັບມາເປັນເວລາຫຼາຍມື້.
+
+460
+00:54:41,805 --> 00:54:44,390
+It's a transport inhibitor.
+ມັນເປັນເຄື່ອງກີດຂວາງການຂົນສົ່ງ.
+
+461
+00:54:44,599 --> 00:54:49,103
+It will prevent anyone
+being beamed off the surface.
+ມັນຈະປ້ອງກັນບໍ່ໃຫ້ໃຜ
+ຖືກສົ່ງອອກຈາກພື້ນຜິວ.
+
+462
+00:54:49,979 --> 00:54:54,066
+Kelbonite in the hills will
+interfere with their transporters.
+Kelbonite ໃນພູເຂົາຈະລົບກວນ
+ກັບເຄື່ອງຂົນສົ່ງຂອງພວກເຂົາ.
+
+463
+00:54:54,274 --> 00:55:00,363
+Where there aren't any deposits
+we'll use transport inhibitors.
+ບ່ອນທີ່ບໍ່ມີເງິນຝາກໃດໆພວກເຮົາ
+ຈະໃຊ້ເຄື່ອງກີດຂວາງການຂົນສົ່ງ.
+
+464
+00:55:00,572 --> 00:55:03,449
+The mountains are full of kelbonite.
+ພູເຂົາເຕັມໄປດ້ວຍເຄລໂບໄນຕ໌.
+
+465
+00:55:03,658 --> 00:55:07,286
+- Transport will be difficult there.
+- There are caves in the mountains.
+- ການຂົນສົ່ງຈະຍາກຢູ່ບ່ອນນັ້ນ.
+- ມີຮູຮານໃນພູເຂົາ.
+
+466
+00:55:07,495 --> 00:55:13,834
+Good, but they're not going
+to make it easy for us to get there.
+ດີ,ແຕ່ພວກເຂົາຈະບໍ່ເຮັດໃຫ້ມັນ
+ງ່າຍຕໍ່ພວກເຮົາທີ່ຈະໄປບ່ອນນັ້ນ.
+
+467
+00:55:14,042 --> 00:55:19,881
+Captain, we activated the transport
+inhibitors around the village.
+ຄັບປິນ,ພວກເຮົາໄດ້ເປີດໃຊ້ງານ
+ເຄື່ອງກີດຂວາງການຂົນສົ່ງຢູ່ທົ່ວບ້ານ.
+
+468
+00:55:23,217 --> 00:55:26,137
+Move these people out!
+ເອົາຄົນເຫຼົ່ານີ້ອອກໄປ!
+
+469
+00:55:31,183 --> 00:55:36,104
+- The transporters won't function.
+- They're using inhibitors.
+- ເຄື່ອງຂົນສົ່ງຈະບໍ່ເຮັດວຽກ.
+- ພວກເຂົາ ກໍາ ລັງໃຊ້ເຄື່ອງກີດຂວາງ.
+
+470
+00:55:36,354 --> 00:55:39,524
+Locate and destroy them.
+ຊອກຫາແລະທໍາລາຍພວກມັນ.
+
+471
+00:55:50,825 --> 00:55:54,954
+You're carrying too much.
+We have a long climb ahead of us.
+ເຈົ້າກໍາລັງຖືຫຼາຍເກີນໄປ.ພວກເຮົາມີການ
+ຂຶ້ນສູງທີ່ຍາວນານຢູ່ຕໍ່ໜ້າພວກເຮົາ.
+
+472
+00:56:05,839 --> 00:56:10,718
+Three transport inhibitors down.
+There's a gap in the field.
+ເຄື່ອງກີດຂວາງການຂົນສົ່ງສາມຄົນ
+ຕົກລົງ.ມີຊ່ອງຫວ່າງໃນພາກສະໜາມ.
+
+473
+00:56:46,918 --> 00:56:49,170
+Father!
+ພໍ່!
+
+474
+00:57:00,347 --> 00:57:03,975
+Kelbonite deposits
+are blocking our transporters.
+ຊັບສິນເຄລໂບນໄຕກໍາລັງກີດຂວາງ
+ເຄື່ອງຂົນສົ່ງຂອງພວກເຮົາ.
+
+475
+00:57:04,183 --> 00:57:07,436
+- Recommendations?
+- Let me talkto Picard.
+- ຄໍາແນະນໍາບໍ?
+- ຂໍໃຫ້ຂ້ອຍເວົ້າກັບປິກາດ.
+
+476
+00:57:07,645 --> 00:57:11,565
+Talk! We should send down
+an assault team.
+ເວົ້າ! ພວກເຮົາຄວນສົ່ງທີມໂຈມຕີລົງ.
+
+477
+00:57:11,774 --> 00:57:16,736
+If people get hurt, all the support
+we have in the Federation ...
+ຖ້າຄົນເຈັບປວດ,ການສະໜັບສະໜູນ
+ທັງໝົດທີ່ພວກເຮົາມີໃນສະຫະພັນ...
+
+478
+00:57:16,945 --> 00:57:22,367
+Federation support, Federation
+procedures, Federation rules.
+ການສະໜັບສະໜູນຂອງສະຫະພັນ,ຂັ້ນ
+ຕອນສະຫະພາບ,ກົດລະບຽບສະຫະປະຊາຊາດ.
+
+479
+00:57:22,575 --> 00:57:26,954
+Look in the mirror,
+the Federation is old.
+ເບິ່ງໃນຈໍ, ສະຫະພັນເກົ່າແລ້ວ.
+
+480
+00:57:27,163 --> 00:57:31,667
+In the past 24 months, they've been
+challenged by every major power.
+ໃນ 24 ເດືອນທີ່ຜ່ານມາ,ພວກເຂົາໄດ້
+ຖືກທ້າທາຍໂດຍທຸກໆອໍານາດໃຫຍ່.
+
+481
+00:57:31,875 --> 00:57:34,753
+The Borg, the Cardassians,
+the Dominion.
+ໂບຣກ, ຄາດາຊຽນ, ໂດມິນຽນ.
+
+482
+00:57:34,961 --> 00:57:38,756
+They all smell the scent of death
+on the Federation.
+ພວກເຂົາທັງໝົດກິ່ນຫອມ
+ກິ່ນຂອງຄວາມຕາຍໃນສະຫະພັນ.
+
+483
+00:57:38,965 --> 00:57:43,886
+You embraced our offer
+to give the Federation new life.
+ເຈົ້າຍອມຮັບຂໍ້ສະເໜີຂອງພວກເຮົາ
+ເພື່ອໃຫ້ສະຫະພັນມີຊີວິດໃໝ່.
+
+484
+00:57:44,095 --> 00:57:49,933
+How badly do you want it?
+There are hard choices to be made.
+ເຈົ້າຢາກມັນຫຼາຍປານໃດ?
+ມີການເລືອກທີ່ຍາກທີ່ຈະເຮັດ.
+
+485
+00:57:50,142 --> 00:57:57,315
+If news gets through of your
+captain's brave struggle, -
+ຖ້າຂ່າວຜ່ານການຕໍ່ສູ້ທີ່
+ກ້າຫານຂອງຄັບປິນຂອງທ່ານ,-
+
+486
+00:57:57,523 --> 00:58:03,862
+- Federation politicians will waver.
+There will be a public debate.
+-ນັກການເມືອງຂອງສະຫະພັນຈະສັ່ນສະເທືອນ
+.ຈະມີການປຶກສາຫາລືສາທາລະນະ.
+
+487
+00:58:04,071 --> 00:58:09,492
+Federation allies will want
+their say ... Need I go on?
+ພັນທະມິດຂອງສະຫະພັນຈະຢາກເວົ້າ
+ຂອງພວກເຂົາ...ຂ້ອຍຕ້ອງສືບຕໍ່ບໍ?
+
+488
+00:58:09,701 --> 00:58:14,747
+Isolinear tags would allow
+our transporters to lock onto them.
+ປ້າຍເສັ້ນດຽວຈະອະນຸຍາດໃຫ້ເຄື່ອງ
+ຂົນສົ່ງຂອງພວກເຮົາລັອກໃສ່ພວກມັນ.
+
+489
+00:58:14,956 --> 00:58:19,043
+We'd have to tag every one of them.
+We don't have the time.
+ພວກເຮົາຕ້ອງໃສ່ປ້າຍທຸກໆ
+ຄົນ.ພວກເຮົາບໍ່ມີເວລາ.
+
+490
+00:58:19,251 --> 00:58:23,589
+In 19 hours the Enterprise will
+be able to contact the Federation.
+ໃນເວລາ 19 ຊົ່ວໂມງ Enterprise
+ຈະສາມາດຕິດຕໍ່ຫາສະຫະພັນໄດ້.
+
+491
+00:58:23,797 --> 00:58:28,468
+- I'll order Riker to turn around.
+- Picard's first officer.
+- ຂ້ອຍຈະສັ່ງໃຫ້ຣິກເກີຫັນໄປ.
+- ເຈົ້າໜ້າທີ່ຄົນທໍາອິດຂອງປິກາດ.
+
+492
+00:58:28,677 --> 00:58:32,305
+Do you really believe he'll listen?
+ເຈົ້າເຊື່ອວ່າລາວຈະຟັງແທ້ບໍ?
+
+493
+00:58:32,513 --> 00:58:37,601
+My ships
+could intercept the Enterprise.
+ເຮືອຂອງຂ້ອຍສາມາດກີດຂວາງບໍລິສັດໄດ້.
+
+494
+00:58:37,810 --> 00:58:40,979
+I could send them to ...
+ຂ້ອຍສາມາດສົ່ງພວກມັນໄປ...
+
+495
+00:58:41,188 --> 00:58:44,524
+... escort it back.
+... ນໍາມັນກັບຄືນໄປບ່ອນ.
+
+496
+00:58:44,733 --> 00:58:49,404
+But Commander Riker
+might not want to come.
+ແຕ່ຜູ້ບັນຊາການ ຣິກເກີອາດຈະບໍ່ຢາກມາ.
+
+497
+00:58:52,073 --> 00:58:54,074
+Send your ships.
+ສົ່ງເຮືອຂອງທ່ານ.
+
+498
+00:59:17,179 --> 00:59:22,892
+- Do you like being a machine?
+- I aspire to be more than I am.
+- ເຈົ້າມັກເປັນເຄື່ອງຈັກບໍ?
+- ຂ້ອຍຕັ້ງໃຈທີ່ຈະເປັນຫຼາຍກ່ວາຂ້ອຍເປັນ.
+
+499
+00:59:23,101 --> 00:59:30,607
+I know why. So people like us
+won't be afraid of you anymore.
+ຂ້ອຍຮູ້ວ່າເປັນຫຍັງ.ສະນັ້ນຄົນຄື
+ກັບພວກເຮົາຈະບໍ່ຢ້ານເຈົ້າອີກຕໍ່ໄປ.
+
+500
+00:59:30,816 --> 00:59:33,860
+Don't you ever get tired?
+ເຈົ້າບໍ່ເຄີຍເມື່ອຍບໍ?
+
+501
+00:59:34,069 --> 00:59:38,281
+My power cells
+continually recharge themselves.
+ເຊວພະລັງງານຂອງຂ້ອຍກໍາລັງ
+ສາກໄຟຕົວເອງຢ່າງຕໍ່ເນື່ອງ.
+
+502
+00:59:38,490 --> 00:59:43,578
+I can't imagine
+what it's like to be a machine.
+ຂ້ອຍບໍ່ຄິດວ່າເປັນແນວໃດ
+ທີ່ຈະເປັນເຄື່ອງຈັກ.
+
+503
+00:59:43,786 --> 00:59:49,333
+I have often tried to imagine
+what it is like to be a child.
+ຂ້ອຍມັກພະຍາຍາມຈິນຕະນາການວ່າມ
+ັນເປັນແນວໃດທີ່ຈະເປັນເດັກນ້ອຍ.
+
+504
+00:59:49,541 --> 00:59:53,753
+Really?. For one thing, your legs
+are shorter than everyone else's.
+ແທ້ຈິງບໍ?ໜຶ່ງໃນສິ່ງໜຶ່ງ,
+ຂາຂອງທ່ານສັ້ນກວ່າຄົນອື່ນ.
+
+505
+00:59:53,962 --> 00:59:57,549
+But they are in
+a constant state of growth.
+ແຕ່ພວກມັນຢູ່ໃນສະພາບການ
+ເຕີບໃຫຍ່ຢ່າງຕໍ່ເນື່ອງ.
+
+506
+00:59:57,757 --> 01:00:00,760
+- Is it difficult to adapt?
+- Adapt?
+- ມັນຍາກທີ່ຈະປັບຕົວບໍ?
+- ປັບຕົວໄດ້ບໍ?
+
+507
+01:00:00,968 --> 01:00:05,764
+A child's specifications change
+from one moment to the next.
+ຂໍ້ກໍານົດຂອງເດັກນ້ອຍປ່ຽນແປງ
+ຈາກຊ່ວງໜຶ່ງໄປຫາຊ່ວງຕໍ່ໄປ.
+
+508
+01:00:05,973 --> 01:00:11,353
+- Do you trip over your own feet?
+- Sometimes.
+- ເຈົ້າກະຕຸ້ນຕີນເອງບໍ?
+- ບາງຄັ້ງ.
+
+509
+01:00:11,561 --> 01:00:16,274
+My legs are exactly
+87.2 cm in length.
+ຂາຂອງຂ້ອຍມີຄວາມຍາວ 87.2 ຊັງຕີແມັດ.
+
+510
+01:00:16,482 --> 01:00:20,277
+They were 87.2 cm
+the day I was created.
+ພວກເຂົາມີຄວາມສູງ 87 . 2 ຊັງຕີ
+ແມັດໃນມື້ທີ່ຂ້ອຍຖືກສ້າງຂຶ້ນ.
+
+511
+01:00:20,486 --> 01:00:24,031
+They will be 87.2 cm
+the day I go off-line.
+ພວກເຂົາຈະສູງເຖິງ 87 . 2 ຊັງຕີ
+ແມັດໃນມື້ທີ່ຂ້ອຍອອກໄປ offline .
+
+512
+01:00:24,239 --> 01:00:27,868
+I depend on specifications
+that do not change.
+ຂ້ອຍຂຶ້ນກັບຂໍ້ກໍານົດທີ່ບໍ່ປ່ຽນແປງ.
+
+513
+01:00:28,076 --> 01:00:34,582
+I will never experience growing up
+or tripping over my own feet.
+ຂ້ອຍຈະບໍ່ປະສົບການເຕີບໃຫຍ່ຂຶ້ນ
+ຫຼືຕົກລົງເທິງຕີນຂອງຂ້ອຍເອງເລີຍ.
+
+514
+01:00:34,790 --> 01:00:41,463
+But you've never had adults
+telling you what to do all the time.
+ແຕ່ເຈົ້າບໍ່ເຄີຍມີຜູ້ໃຫຍ່ບອກ
+ເຈົ້າວ່າຕ້ອງເຮັດແນວໃດຕະຫຼອດເວລາ.
+
+515
+01:00:41,672 --> 01:00:49,012
+I'd accept that in exchange for
+knowing what childhood is like.
+ຂ້ອຍຈະຍອມຮັບມັນໃນແລກປ່ຽນກັບການ
+ຮູ້ວ່າການເປັນເດັກນ້ອຍເປັນແນວໃດ.
+
+516
+01:00:49,220 --> 01:00:53,266
+- Do machines ever play?.
+- I play the violin.
+- ເຄື່ອງຈັກເຄີຍຫຼິ້ນບໍ?.
+- ຂ້ອຍຫຼິ້ນວີໂລນ.
+
+517
+01:00:53,474 --> 01:00:58,854
+- My chess is quite advanced.
+- No, I mean play for fun.
+- ແຊກແຊມຂອງຂ້ອຍມີຄວາມກ້າວໜ້າຫຼາຍ.
+- ບໍ່, ຂ້ອຍໝາຍຄວາມວ່າຫຼິ້ນເພື່ອມ່ວນຊື່ນ.
+
+518
+01:01:00,439 --> 01:01:04,234
+Androids do not have fun.
+ແອນດຣອຍດ໌ບໍ່ມ່ວນຊື່ນ.
+
+519
+01:01:04,442 --> 01:01:10,031
+If you want to know what it's like
+to be a child, learn to play.
+ຖ້າເຈົ້າຢາກຮູ້ວ່າເປັນ
+ເດັກນ້ອຍແນວໃດ,ຮຽນຮູ້ການຫຼິ້ນ.
+
+520
+01:01:22,584 --> 01:01:28,005
+- Captain.
+- Worf, you need a haircut.
+- ຄັບປິນ
+- ວໍຟ, ເຈົ້າຕ້ອງການຕັດຜົມ.
+
+521
+01:01:28,214 --> 01:01:33,427
+Rapid hair growth is experienced
+by Klingons during Jaktahla.
+ການເຕີບໃຫຍ່ຂອງຜົມຢ່າງໄວວາແມ່ນປະສົບ
+ການໂດຍຄລິງຕັນໃນລະຫວ່າງຈັກຕາລາ.
+
+522
+01:01:33,635 --> 01:01:38,974
+Puberty. Although for a Klingon
+that scarcely does it justice.
+ເຖິງແມ່ນວ່າສໍາລັບຄິນລິງຕັນ
+ມັນເກືອບບໍ່ທໍາຄວາມຍຸຕິທໍາ.
+
+523
+01:01:39,182 --> 01:01:44,562
+Any mood swings or aggressive
+tendencies, you let me know at once.
+ການປ່ຽນແປງຈິດໃຈໃດໆຫຼືທ່າທາງ
+ຮຸນແຮງ,ເຈົ້າໃຫ້ຂ້ອຍຮູ້ທັນທີ.
+
+524
+01:01:44,770 --> 01:01:48,148
+Yes, sir.
+The Ba'ku need some rest.
+ແມ່ນແລ້ວເດີ.ບາຄູ
+ຕ້ອງການພັກຜ່ອນບາງຢ່າງ.
+
+525
+01:01:48,357 --> 01:01:52,694
+According to the geo-scan,
+this is a safe area.
+ອີງຕາມການສະແກນພູມສາດ
+,ນີ້ແມ່ນເຂດທີ່ປອດໄພ.
+
+526
+01:01:52,903 --> 01:01:55,947
+Very well, break out some rations.
+ດີຫຼາຍ, ເອົາສ່ວນແບ່ງບາງຢ່າງອອກ.
+
+527
+01:02:00,201 --> 01:02:05,080
+The caves are just over that ridge.
+We can hide there.
+ຮູຮານແມ່ນຢູ່ຂ້າງເທິງພູເຂົານັ້ນ.
+ພວກເຮົາສາມາດເຊື່ອງໄວ້ບ່ອນນັ້ນໄດ້.
+
+528
+01:02:05,289 --> 01:02:09,084
+The Son'a will knowthat
+as well as we do.
+ລູກຊາຍຈະຮູ້ມັນຄືກັນກັບພວກເຮົາ.
+
+529
+01:02:14,714 --> 01:02:19,218
+It's been 300 years
+since I've seen a bald man.
+ມັນເປັນເວລາ 300 ປີທີ່ຂ້ອຍເຫັນ
+ຜູ້ຊາຍຜິວຂາວຄັ້ງສຸດທ້າຍ.
+
+530
+01:02:22,138 --> 01:02:25,390
+Why did you never marry?.
+ເປັນຫຍັງເຈົ້າບໍ່ເຄີຍແຕ່ງງານເລີຍ?.
+
+531
+01:02:25,599 --> 01:02:29,394
+Don't tell me it's because
+you haven't got around to it yet.
+ຢ່າບອກຂ້ອຍວ່າມັນເປັນຍ້ອນວ່າ
+ເຈົ້າຍັງບໍ່ທັນເຂົ້າເຖິງມັນເທື່ອ.
+
+532
+01:02:29,603 --> 01:02:32,522
+What's the rush?
+ຄວາມຮີບດ່ວນແມ່ນຫຍັງ?
+
+533
+01:02:32,730 --> 01:02:37,318
+I should warn you, I've always
+been attracted to older women.
+ຂ້ອຍຄວນເຕືອນເຈົ້າ,ຂ້ອຍມັກ
+ແມ່ຍິງອາຍຸສູງກວ່າຢູ່ສະເໝີ.
+
+534
+01:03:00,422 --> 01:03:03,216
+How are you doing this?
+ເຈົ້າເຮັດແບບນີ້ແນວໃດ?
+
+535
+01:03:03,425 --> 01:03:06,261
+No more questions.
+ບໍ່ມີຄໍາຖາມອີກຕໍ່ໄປ.
+
+536
+01:03:20,816 --> 01:03:24,652
+- Two Son'a ships approaching.
+- ETA?
+- ເຮືອໂຊນອາສອງລໍາ ກໍາ ລັງໃກ້ຊິດ.
+- ເວລາມາຮອດບໍ?
+
+537
+01:03:24,861 --> 01:03:28,406
+- 18 minutes.
+- We can't transmit for one hour.
+- 18 ນາທີ.
+- ພວກເຮົາບໍ່ສາມາດສົ່ງຕໍ່ໄດ້ເປັນເວລາ ໜຶ່ງ ຊົ່ວໂມງ.
+
+538
+01:03:28,614 --> 01:03:33,661
+- They're hailing us.
+- Tell them our receiver is down.
+- ພວກເຂົາ ກໍາ ລັງຕ້ອນຮັບພວກເຮົາ.
+- ບອກພວກເຂົາວ່າເຄື່ອງຮັບຂອງພວກເຮົາຕົກລົງ.
+
+539
+01:03:33,869 --> 01:03:37,748
+- I don't thinkthey believe us.
+- Why not?
+- ຂ້ອຍບໍ່ຄິດວ່າພວກເຂົາເຊື່ອພວກເຮົາ.
+- ເປັນຫຍັງບໍ່?
+
+540
+01:03:38,874 --> 01:03:43,836
+Photon torpedo.
+A universal method of communication.
+ໂຕຣເປໂດຟອດອນ. ວິທີການສື່ສານທົ່ວໄປ.
+
+541
+01:03:44,045 --> 01:03:47,214
+Yes, when you don't like someone.
+ແມ່ນແລ້ວ, ເມື່ອເຈົ້າບໍ່ມັກໃຜ.
+
+542
+01:03:47,381 --> 01:03:51,468
+- Full impulse.
+- The manifolds can't handle it.
+- ຄວາມກະຕຸ້ນຢ່າງເຕັມທີ່.
+- ກະດານໂມນໄຟລ໌ບໍ່ສາມາດຮັບມືກັບມັນໄດ້.
+
+543
+01:03:51,677 --> 01:03:55,472
+If we don't outrun them,
+it won't matter.
+ຖ້າພວກເຮົາບໍ່ໜີພວກເຂົາ
+,ມັນຈະບໍ່ສໍາຄັນ.
+
+544
+01:03:55,722 --> 01:03:59,559
+- I'll be in engineering.
+- Battle stations!
+- ຂ້ອຍຈະຢູ່ໃນວິສະວະກໍາ.
+- ສະຖານີສູ້ຮົບ!
+
+545
+01:03:59,976 --> 01:04:04,105
+Have your boobs started
+to firm up?
+ທ້ອງຂອງເຈົ້າເລີ່ມແຂງແຮງຂຶ້ນບໍ?
+
+546
+01:04:04,313 --> 01:04:08,359
+Not that we care about such things
+in this day and age.
+ບໍ່ແມ່ນວ່າພວກເຮົາສົນໃຈສິ່ງ
+ດັ່ງກ່າວໃນມື້ນີ້ແລະອາຍຸນີ້.
+
+547
+01:04:08,567 --> 01:04:11,778
+Thank you, Data.
+ຂອບໃຈ, ຂໍ້ມູນ.
+
+548
+01:04:18,868 --> 01:04:23,456
+I've an odd craving for the blood
+of a live Kolar beast.
+ຂ້ອຍມີຄວາມປາຖະໜາທີ່ແປກໃຈຕໍ່
+ເລືອດຂອງສັດໂກລາທີ່ຢູ່ອາໄສ.
+
+549
+01:04:23,664 --> 01:04:26,959
+This environment is affecting me.
+ສິ່ງແວດລ້ອມນີ້ກໍາລ
+ັງສົ່ງຜົນກະທົບຂ້ອຍ.
+
+550
+01:04:27,167 --> 01:04:32,213
+Have you noticed how your
+boobs have started to firm up?
+ເຈົ້າເຫັນບໍວ່າທ້ອງ
+ຂອງເຈົ້າເລີ່ມແຂງແຮງຂຶ້ນບໍ?
+
+551
+01:04:34,007 --> 01:04:36,717
+Take cover!
+ກຸ້ມກັນ!
+
+552
+01:05:22,342 --> 01:05:26,721
+Isolinear tags.
+Transporters can lock onto them.
+ປ້າຍເສັ້ນດຽວ.ເຄື່ອງຂົນສົ່ງ
+ສາມາດລັອກໃສ່ພວກມັນໄດ້.
+
+553
+01:05:26,930 --> 01:05:30,641
+There's a cavern at the base
+of the next hill.
+ມີຮູຮານຢູ່ລຸ່ມພູຂ້າງໜ້າ.
+
+554
+01:06:02,712 --> 01:06:06,340
+- Shields at 60%.
+- "Engineering to bridge."
+- ປ້ອງກັນຢູ່ 60%.
+- ວິສະວະກອນເພື່ອຂົວ.
+
+555
+01:06:06,549 --> 01:06:12,095
+We're going to blow ourselves up
+without help from the Son'a!
+ພວກເຮົາຈະລະເບີດຕົວເອງໂດຍ
+ບໍ່ມີຄວາມຊ່ວຍເຫຼືອຈາກໂຊນອາ!
+
+556
+01:06:12,304 --> 01:06:17,600
+- What's inside that nebula cluster?.
+- Cometary debris. Metreon gas.
+- ມີຫຍັງຢູ່ພາຍໃນກະດານເມົານັ້ນ?.
+- ສິ່ງເສດເຫຼືອຂອງດາວທຽມ. ແກັສເມຕເຣອນ.
+
+557
+01:06:17,809 --> 01:06:22,271
+- We don't want go in there.
+- Yes, we do.
+- ພວກເຮົາບໍ່ຢາກເຂົ້າໄປໃນບ່ອນນັ້ນ.
+- ແມ່ນແລ້ວ, ພວກເຮົາເຮັດ.
+
+558
+01:06:22,480 --> 01:06:26,650
+It's time to use the Briar Patch
+the way Brer Rabbit did.
+ມັນເຖິງເວລາແລ້ວທີ່ຈະໃຊ້ Briar
+Patch ຕາມວິທີທີ່ Brer Rabbit ໄດ້ເຮັດ.
+
+559
+01:06:41,664 --> 01:06:44,958
+Inside the caves, quickly.
+ພາຍໃນຮູຮານ, ຢ່າງໄວວາ.
+
+560
+01:06:45,167 --> 01:06:46,835
+This way.
+ທາງນີ້.
+
+561
+01:06:58,637 --> 01:07:00,639
+Aggressive tendencies.
+ທ່າທາງຮຸນແຮງ.
+
+562
+01:07:05,060 --> 01:07:11,107
+They've detonated an isolytic burst.
+A subspace tear is forming.
+ພວກເຂົາຍັງໄດ້ລະເບີດການລະເບີດ Isolitic
+.ການແຕກແຍກ subspace ກໍາລັງສ້າງຕັ້ງຂຶ້ນ.
+
+563
+01:07:12,567 --> 01:07:16,654
+Subspace weapons were banned
+by the Khitomer accord.
+ອາວຸດພາຍໃຕ້ອະວະກາດຖືກຫ້
+າມໂດຍຂໍ້ຕົກລົງ Khitomer .
+
+564
+01:07:16,862 --> 01:07:21,617
+- I'll lodge a protest.
+- Our warp core is magnetised.
+- ຂ້ອຍຈະຍື່ນການປະທ້ວງ.
+- ຫົວໃຈ warp ຂອງພວກເຮົາຖືກແມ່ເຫຼັກ.
+
+565
+01:07:21,825 --> 01:07:25,745
+We're pulling the tear
+like a zipper across space.
+ພວກເຮົາກໍາລັງດຶງຮອຍແຕກ
+ຄືກັບສາຍແອວຜ່ານອະວະກາດ.
+
+566
+01:07:25,954 --> 01:07:29,832
+- We could eject the core.
+- Will that stop the tear?.
+- ພວກເຮົາສາມາດຖິ້ມຫົວໃຈໄດ້.
+- ນັ້ນຈະຢຸດການແຕກແຍກບໍ?
+
+567
+01:07:30,041 --> 01:07:31,751
+You got me.
+ເຈົ້າຈັບຂ້ອຍແລ້ວ.
+
+568
+01:07:31,959 --> 01:07:37,339
+- Is that your expert opinion?
+- It might neutralise the cascade.
+- ນັ້ນແມ່ນຄວາມຄິດເຫັນຂອງຜູ້ຊ່ຽວຊານຂອງທ່ານບໍ?
+- ມັນອາດຈະລົບກວນກະແສນ້ ໍາ.
+
+569
+01:07:37,548 --> 01:07:41,593
+Subspace weapons are unpredictable.
+That's why they're banned.
+ອາວຸດໃຕ້ອະວະກາດແມ່ນບໍ່ສາມາດຄາດເດົາ
+ໄດ້.ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຂົາຖືກຫ້າມ.
+
+570
+01:07:41,801 --> 01:07:47,056
+The tear is closing on us.
+Impact in 15 seconds.
+ການແຕກຫັກກໍາລັງປິດຢູ່ເທິງ
+ພວກເຮົາ.ຜົນກະທົບໃນ 15 ວິນາທີ.
+
+571
+01:07:47,265 --> 01:07:49,350
+Eject the core.
+ຖິ້ມຫົວໃຈອອກ.
+
+572
+01:07:49,558 --> 01:07:53,896
+- I just did.
+- lmpact in ten seconds.
+- ຂ້ອຍຫາກໍ່ເຮັດແລ້ວ.
+- ກະທົບໃນເວລາສິບວິນາທີ.
+
+573
+01:07:56,773 --> 01:07:59,150
+Detonate!
+ລະເບີດ!
+
+574
+01:08:12,412 --> 01:08:15,624
+Get me a medic over here.
+ເອົາແພດມາຫາຂ້ອຍຢູ່ນີ້.
+
+575
+01:08:24,882 --> 01:08:28,385
+It worked. The tear is sealed.
+ມັນເຮັດວຽກໄດ້. ການແຕກແມ່ນຖືກປິດໄວ້.
+
+576
+01:08:28,594 --> 01:08:33,098
+But there's nothing to stop them
+from doing it again.
+ແຕ່ບໍ່ມີຫຍັງຈະຢຸດພວກເຂົາ
+ຈາກການເຮັດມັນອີກຄັ້ງ.
+
+577
+01:08:33,306 --> 01:08:37,977
+- Transmission range: 36 minutes.
+- We're through running.
+- ໄລຍະເວລາສົ່ງ: 36 ນາທີ.
+- ພວກເຮົາແລ່ນແລ້ວ.
+
+578
+01:08:57,787 --> 01:09:01,165
+Another 43 reported taken.
+ອີກ 43 ຄົນຖືກລາຍງານວ່າຖືກຈັບ.
+
+579
+01:09:10,882 --> 01:09:15,094
+They're trying to drive us out
+so their drones can tag us.
+ພວກເຂົາກໍາລັງພະຍາຍາມຂັບພວກເຮົາອອກເພື່ອໃຫ້ເຮືອບິນ
+ບໍ່ມີຄົນຂັບຂອງພວກເຂົາສາມາດຕິດປ້າຍພວກເຮົາໄດ້.
+
+580
+01:09:15,303 --> 01:09:19,765
+The structural integrity of this
+cavern won't hold for long.
+ຄວາມສົມບູນແບບທາງໂຄງສ້າງຂອງ
+ຮູຮານນີ້ຈະບໍ່ຍືນຍົງດົນນານ.
+
+581
+01:09:19,974 --> 01:09:27,605
+- Is there another way out of here?
+- Let's trackthe water's course.
+- ມີທາງອອກຈາກບ່ອນນີ້ອີກບໍ?
+- ມາຕິດຕາມເສັ້ນທາງຂອງນ້ ໍາ.
+
+582
+01:09:37,489 --> 01:09:42,160
+I'm reading a nitrogen-oxygen flow
+behind that calcite formation.
+ຂ້ອຍກໍາລັງອ່ານການໄຫຼຂອງໄນໂຕຣເຈນ-ອົກ
+ຊີເຈນຢູ່ເບື້ອງຫຼັງການສ້າງ calcite ນັ້ນ.
+
+583
+01:09:42,369 --> 01:09:46,122
+Will this structure hold
+if we blast through?
+ໂຄງສ້າງນີ້ຈະຍືນຍົງຖ້າ
+ພວກເຮົາລະເບີດຜ່ານບໍ?
+
+584
+01:09:46,331 --> 01:09:50,126
+I believe it is safe.
+ຂ້ອຍເຊື່ອວ່າມັນປອດໄພ.
+
+585
+01:09:50,334 --> 01:09:53,420
+Fire.
+ໄຟ.
+
+586
+01:10:10,311 --> 01:10:15,982
+Get everybody into those caves.
+Set up a forcefield.
+ເອົາທຸກຄົນເຂົ້າໄປໃນຮູຮານ
+ເຫຼົ່ານັ້ນ.ສ້າງສະໜາມກໍາລັງ.
+
+587
+01:10:23,156 --> 01:10:28,994
+- Are those pockets of metreon gas?
+- Yes, highly volatile.
+- ນັ້ນແມ່ນກະເປົາແກັສເມຕເຣອນບໍ?
+- ແມ່ນແລ້ວ, ມີຄວາມປ່ຽນແປງຫຼາຍ.
+
+588
+01:10:29,203 --> 01:10:33,498
+I want to use the ram-scoop
+to collect as much of it as we can.
+ຂ້ອຍຢາກໃຊ້ກະຕ່າແມມເພື່ອເກັບເອົາມັນ
+ຫຼາຍເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໄດ້.
+
+589
+01:10:33,707 --> 01:10:40,380
+- The purpose being?
+- To shove it down their throats.
+- ຈຸດປະສົງແມ່ນຫຍັງ?
+- ເພື່ອດັນມັນລົງຄໍຂອງພວກເຂົາ.
+
+590
+01:10:40,588 --> 01:10:45,384
+- If the gas ignites ...
+- It's our only way out of here.
+- ຖ້າແກັສໄໝ້...
+- ມັນເປັນວິທີດຽວທີ່ພວກເຮົາຈະອອກຈາກບ່ອນນີ້.
+
+591
+01:10:45,593 --> 01:10:49,638
+History will remember this
+as the Riker manoeuvre.
+ປະຫວັດສາດຈະຈື່ສິ່ງນີ້ວ່າ
+ເປັນການເຄື່ອນໄຫວຂອງຣິກເກີ.
+
+592
+01:10:53,516 --> 01:10:56,519
+Access manual steering column.
+ເຂົ້າເຖິງເສົາຄວບຄຸມຄູ່ມື.
+
+593
+01:10:57,729 --> 01:11:03,108
+- Controls to manual.
+- "Storage cells are at maximum."
+- ການຄວບຄຸມໄປສູ່ຄູ່ມື.
+- ເຊວເກັບຮັກສາຢູ່ໃນລະດັບສູງສຸດ.
+
+594
+01:11:03,317 --> 01:11:06,320
+They're powering forward weapons.
+ພວກເຂົາ ກໍາ ລັງໃຊ້ພະລັງງານອາວຸດທາງໜ້າ.
+
+595
+01:11:06,695 --> 01:11:09,614
+Blow out the ram-scoop.
+ລະເບີດກະຕ່າແຣມອອກ.
+
+596
+01:11:09,823 --> 01:11:13,117
+"Ram"-"scoop released."
+"ຣາມ"-"ສະກູບຖືກປ່ອຍອອກມາ."
+
+597
+01:11:29,007 --> 01:11:31,259
+Captain.
+ຄັບປິນ
+
+598
+01:11:31,467 --> 01:11:35,721
+- Keep these people moving.
+- Bring them out.
+- ຮັກສາຄົນເຫຼົ່ານີ້ເຄື່ອນຍ້າຍ.
+- ເອົາພວກມັນອອກມາ.
+
+599
+01:11:44,771 --> 01:11:48,149
+It won't be long before
+the drones get here.
+ມັນຈະບໍ່ໃຊ້ເວລາຫຼາຍກ່ອນທີ່
+ເຮືອບິນບໍ່ມີຄົນຂັບຈະມາຮອດບ່ອນນີ້.
+
+600
+01:11:49,233 --> 01:11:52,320
+Keep moving!
+ຍ້າຍໄປຕໍ່ໄປ!
+
+601
+01:11:53,571 --> 01:11:58,659
+There are caves on higher ground.
+We'll be safe there.
+ມີຮູຮານຢູ່ເທິງພື້ນທີ່ສູງກວ່າ
+.ພວກເຮົາຈະປອດໄພຢູ່ບ່ອນນັ້ນ.
+
+602
+01:12:03,079 --> 01:12:07,125
+Take a look at this med-scan.
+ເບິ່ງການສະແກນທາງການແພດນີ້.
+
+603
+01:12:07,333 --> 01:12:11,003
+His DNA profile.
+ໂປຣໄຟລ໌ DNA ຂອງລາວ.
+
+604
+01:12:11,212 --> 01:12:16,008
+- How can that be possible?
+- Maybe we should askthem.
+- ມັນເປັນໄປໄດ້ແນວໃດ?
+- ບາງທີພວກເຮົາຄວນຖາມພວກເຂົາ.
+
+605
+01:12:28,853 --> 01:12:33,023
+Artim, what are you doing? Come!
+ອາຕີມ, ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ? ມາ!
+
+606
+01:12:40,530 --> 01:12:46,744
+Is this the last group?
+Get them ready to move out.
+ນີ້ແມ່ນກຸ່ມສຸດທ້າຍບໍ?ໃຫ້
+ພວກເຂົາພ້ອມທີ່ຈະຍ້າຍອອກໄປ.
+
+607
+01:12:46,952 --> 01:12:49,997
+Anij went to find Artim.
+ແອນີຈ໌ໄປຊອກຫາອາຣຕິມ.
+
+608
+01:13:13,309 --> 01:13:19,357
+- Go with Tournel!
+- No, I want to stay with you!
+- ໄປກັບ Tournel!
+- ບໍ່, ຂ້ອຍຢາກຢູ່ກັບເຈົ້າ!
+
+609
+01:13:32,160 --> 01:13:36,414
+- Worf to Picard!
+- Two life-signs, one is faint.
+- ວໍຟໄປຫາປິກາດ!
+- ສັນຍານຊີວິດສອງຢ່າງ, ໜຶ່ງ ແມ່ນອ່ອນແອ.
+
+610
+01:13:36,622 --> 01:13:40,793
+There are almost four metric tons
+of rock blocking our way.
+ມີຫີນເກືອບສີ່ໂຕນແມັດກັ້ນທາງຂອງພວກເຮົາ.
+
+611
+01:13:41,001 --> 01:13:45,005
+That might cause another cave-in.
+ນັ້ນອາດຈະເຮັດໃຫ້ເກີດການຕົກລົງອີກຄັ້ງ.
+
+612
+01:14:03,605 --> 01:14:06,691
+Anij?
+ແອນີຈ໌?
+
+613
+01:14:12,154 --> 01:14:16,158
+- "Worf to Picard."
+- Yes, I can hear you.
+- ວໍຟໄປຫາປິກາດ.
+- ແມ່ນແລ້ວ, ຂ້ອຍໄດ້ຍິນເຈົ້າ.
+
+614
+01:14:16,366 --> 01:14:19,453
+We're trying to get to you, sir.
+ພວກເຮົາ ກໍາ ລັງພະຍາຍາມຫາທ່ານເດີ.
+
+615
+01:14:20,203 --> 01:14:23,331
+Anij ...
+ແອນຈ໌...
+
+616
+01:14:29,795 --> 01:14:33,215
+Help is on the way.
+ຄວາມຊ່ວຍເຫຼືອ ກໍາ ລັງມາຮອດແລ້ວ.
+
+617
+01:14:33,424 --> 01:14:38,178
+- Hurry, Anij is hurt.
+- "How bad is she?"
+- ໄວໆ, ແອນີຈ໌ເຈັບປວດ.
+- ນາງຮ້າຍແຮງປານໃດ?
+
+618
+01:14:40,847 --> 01:14:45,768
+- I'm losing her.
+- "We're coming as fast as we can."
+- ຂ້ອຍ ກໍາ ລັງສູນເສຍນາງ.
+- ພວກເຮົາ ກໍາ ລັງມາໄວເທົ່າທີ່ພວກເຮົາສາມາດເຮັດໄດ້.
+
+619
+01:14:53,942 --> 01:14:58,488
+Anij, stay with me.
+ແອນີຈ໌, ຢູ່ກັບຂ້ອຍ.
+
+620
+01:15:01,449 --> 01:15:07,621
+Help me find the power
+to keep you in this moment.
+ຊ່ວຍຂ້ອຍຊອກຫາພະລັງທີ່ຈະ
+ຮັກສາເຈົ້າຢູ່ໃນເວລານີ້.
+
+621
+01:15:08,789 --> 01:15:13,335
+Don't let go of this moment.
+ຢ່າປ່ອຍເວລານີ້ໄປ.
+
+622
+01:15:29,266 --> 01:15:33,186
+- She's stabilising.
+- Is it safe to move her?.
+- ນາງ ກໍາ ລັງຄົງທີ່.
+- ມັນປອດໄພບໍທີ່ຈະຍ້າຍນາງ?.
+
+623
+01:15:33,394 --> 01:15:36,564
+Safer than leaving her here.
+ມັນປອດໄພກວ່າທີ່ຈະປ່ອຍນາງຢູ່ບ່ອນນີ້.
+
+624
+01:15:40,276 --> 01:15:44,821
+And you thought
+it would take centuries to learn.
+ແລະເຈົ້າຄິດວ່າມັນຈະໃຊ້
+ເວລາຫຼາຍຮ້ອຍປີທີ່ຈະຮຽນຮູ້.
+
+625
+01:17:15,987 --> 01:17:20,283
+Order them to surrender.
+You won't be court-martialled.
+ສັ່ງໃຫ້ພວກເຂົາຍອມຮັບ.
+ເຈົ້າຈະບໍ່ຖືກສານທະຫານ.
+
+626
+01:17:20,491 --> 01:17:27,372
+A court martial will let the people
+know what is happening here.
+ສານທະຫານຈະແຈ້ງໃຫ້ປະຊາຊົນ
+ຮູ້ວ່າເກີດຫຍັງຂຶ້ນຢູ່ນີ້.
+
+627
+01:17:27,581 --> 01:17:32,460
+The Enterprise has destroyed
+one ship, the other is on fire.
+Enterprise ໄດ້ທໍາລາຍ
+ເຮືອໜຶ່ງ,ອື່ນແມ່ນໄຟໄໝ້.
+
+628
+01:17:32,669 --> 01:17:37,632
+The Enterprise was defending itself.
+Ru'afo must have attacked.
+ບໍລິສັດກໍາລັງປ້ອງກັນຕົວເອງ
+.ຣູອາໂຟຕ້ອງໄດ້ໂຈມຕີ.
+
+629
+01:17:37,840 --> 01:17:42,428
+I can't believe that he didn't
+have your consent, Admiral.
+ຂ້ອຍບໍ່ເຊື່ອວ່າລາວບໍ່ມີ
+ຄວາມເຫັນດີຂອງທ່ານ,ນາຍພົນ.
+
+630
+01:17:42,636 --> 01:17:46,723
+I wonder which one of us
+will be facing that court martial.
+ຂ້ອຍຢາກຮູ້ວ່າໃຜໃນພວກເຮົາ
+ຈະປະເຊີນກັບສານທະຫານນັ້ນ.
+
+631
+01:17:47,599 --> 01:17:53,813
+- There's nothing to be gained here.
+- Right, this is going to end now.
+- ບໍ່ມີຫຍັງທີ່ຈະໄດ້ຮັບຈາກບ່ອນນີ້.
+- ແມ່ນແລ້ວ, ເລື່ອງນີ້ຈະສິ້ນສຸດລົງດຽວນີ້.
+
+632
+01:17:54,021 --> 01:17:59,360
+- I'm going to launch the injector.
+- No, you're not.
+- ຂ້ອຍຈະເປີດຕົວເຄື່ອງສີດຢາ.
+- ບໍ່, ເຈົ້າບໍ່ແມ່ນ.
+
+633
+01:17:59,568 --> 01:18:04,573
+In six hours, every living thing
+in this system will be dead.
+ໃນເວລາຫົກຊົ່ວໂມງ,ທຸກສິ່ງ
+ທີ່ມີຊີວິດໃນລະບົບນີ້ຈະຕາຍ.
+
+634
+01:18:04,781 --> 01:18:08,159
+You would kill your own people?
+ເຈົ້າຈະຂ້າຄົນຂອງເຈົ້າເອງບໍ?
+
+635
+01:18:08,368 --> 01:18:13,289
+Your own parents?
+Brothers, sisters?
+ພໍ່ແມ່ຂອງເຈົ້າເອງບໍ?
+ອ້າຍນ້ອງ,ເອື້ອຍນ້ອງ?
+
+636
+01:18:13,497 --> 01:18:19,211
+Didn't you know?. The Son'a
+and the Ba'ku are the same race.
+ເຈົ້າບໍ່ຮູ້ບໍ?.ໂຊນອາແລະ
+ບາຄູແມ່ນເຊື້ອຊາດດຽວກັນ.
+
+637
+01:18:21,963 --> 01:18:24,716
+Picard just told us.
+ປິກາດຫາກໍ່ບອກພວກເຮົາ.
+
+638
+01:18:25,467 --> 01:18:29,095
+Our DNA is identical.
+DNA ຂອງພວກເຮົາແມ່ນຄືກັນ.
+
+639
+01:18:29,971 --> 01:18:35,059
+Which one were you?
+Gal'na? Ro'tin?
+ເຈົ້າເປັນຄົນໃດ? ແກລນາ? ໂຣຕິນ?
+
+640
+01:18:35,267 --> 01:18:40,730
+- They're gone forever.
+- What's he talking about?
+- ພວກເຂົາໄປແລ້ວຕະຫຼອດໄປ.
+- ລາວເວົ້າຫຍັງຢູ່?
+
+641
+01:18:40,939 --> 01:18:45,777
+A century ago, some young people
+wanted to live like offlanders.
+ເມື່ອສະຕະວັດກ່ອນ,ຊາວໜຸ່ມບາງຄົນ
+ຢາກອາໄສຢູ່ຄືກັບຄົນຕ່າງປະເທດ.
+
+642
+01:18:45,985 --> 01:18:51,740
+- They tried to take over.
+- And you exiled us to die slowly.
+- ພວກເຂົາພະຍາຍາມຮັບຜິດຊອບ.
+- ແລະເຈົ້າໄດ້ຂັບໄລ່ພວກເຮົາໄປຕາຍຊ້າໆ.
+
+643
+01:18:51,949 --> 01:18:55,327
+You're Ro'tin, aren't you?
+ເຈົ້າເປັນໂຣຕິນ, ແມ່ນບໍ?
+
+644
+01:18:55,535 --> 01:18:58,955
+There's something in the voice.
+ມີບາງສິ່ງບາງຢ່າງໃນສຽງ.
+
+645
+01:19:00,123 --> 01:19:03,668
+Would you be his friend, Gal'na?
+ເຈົ້າຈະເປັນເພື່ອນຂອງລາວບໍ, ແກລນາ?
+
+646
+01:19:03,876 --> 01:19:09,840
+I helped your mother bathe you.
+She still speaks of you.
+ຂ້ອຍຊ່ວຍແມ່ຂອງເຈົ້າລ້າງເຈົ້າ
+.ນາງຍັງເວົ້າກ່ຽວກັບເຈົ້າຢູ່.
+
+647
+01:19:10,049 --> 01:19:13,844
+You brought the Federation
+into the middle of a blood feud.
+ເຈົ້າໄດ້ນໍາສະຫະພັນເຂົ້າໄປ
+ໃນກາງຂອງຄວາມໂຊກຮ້າຍເລືອດ.
+
+648
+01:19:14,052 --> 01:19:19,098
+The children have returned
+to expel their elders.
+ເດັກນ້ອຍໄດ້ກັບມາໄລ່
+ຜູ້ໃຫຍ່ຂອງພວກເຂົາອອກ.
+
+649
+01:19:19,307 --> 01:19:24,437
+Except Ru'afo's need for revenge
+has escalated into parricide.
+ຍົກເວັ້ນຄວາມຕ້ອງການຂອງການແກ້ແຄ້ນຂອງ
+ຣູອາໂຟໄດ້ເພີ່ມຂຶ້ນເປັນການຂ້າພໍ່ແມ່.
+
+650
+01:19:27,606 --> 01:19:31,234
+It was for the Federation.
+ມັນເປັນສໍາລັບສະຫະພັນ.
+
+651
+01:19:31,443 --> 01:19:35,572
+It was all for the Federation.
+ມັນທັງ ໝົດ ແມ່ນເພື່ອສະຫະພັນ.
+
+652
+01:19:46,957 --> 01:19:52,128
+We're taking this ship out of here.
+This mission is over.
+ພວກເຮົາກໍາລັງເອົາເຮືອນີ້ອອກ
+ຈາກບ່ອນນີ້.ພາລະກິດນີ້ໝົດແລ້ວ.
+
+653
+01:19:52,337 --> 01:19:55,798
+- It is not over.
+- It is over.
+- ມັນຍັງບໍ່ສິ້ນສຸດລົງ.
+- ມັນໝົດແລ້ວ.
+
+654
+01:20:01,845 --> 01:20:04,931
+I do not take orders from you!
+ຂ້ອຍບໍ່ຮັບຄໍາສັ່ງຈາກເຈົ້າ!
+
+655
+01:20:16,650 --> 01:20:22,948
+If you launch the injector,
+the Federation will pursue you ...
+ຖ້າເຈົ້າເປີດຕົວເຄື່ອງສີດ
+,ສະຫະພັນຈະຕິດຕາມເຈົ້າ...
+
+656
+01:20:23,156 --> 01:20:30,246
+The Federation will never know
+what happened here.
+ສະຫະພັນຈະບໍ່ຮູ້ວ່າເກີດ
+ຫຍັງຂຶ້ນຢູ່ນີ້ເລີຍ.
+
+657
+01:20:56,853 --> 01:21:00,857
+Admiral Dougherty
+won't be joining us.
+ນາຍພົນໂດເກີຕີຈະບໍ່ເຂົ້າຮ່ວມພວກເຮົາ.
+
+658
+01:21:01,066 --> 01:21:04,360
+Deploy the collector.
+ຈັດຕັ້ງເຄື່ອງເກັບກໍາ.
+
+659
+01:21:06,696 --> 01:21:10,658
+- Do you have a problem with that?
+- May I talkto you alone?
+- ເຈົ້າມີບັນຫາກັບເລື່ອງນັ້ນບໍ?
+- ຂ້ອຍສາມາດເວົ້າກັບເຈົ້າໄດ້ບໍ?
+
+660
+01:21:10,866 --> 01:21:13,911
+- Deploy the collector.
+- Yes, sir.
+- ຈັດຕັ້ງເຄື່ອງເກັບກໍາ.
+- ແມ່ນແລ້ວເດີ.
+
+661
+01:21:17,831 --> 01:21:24,879
+- You want to kill them all?
+- No one hated them more than you.
+- ເຈົ້າຢາກຂ້າພວກເຂົາທັງ ໝົດ ບໍ?
+- ບໍ່ມີໃຜກຽດຊັງພວກເຂົາຫຼາຍກ່ວາເຈົ້າ.
+
+662
+01:21:25,087 --> 01:21:31,468
+We've come a long way. This is the
+moment we've planned for so long.
+ພວກເຮົາໄດ້ເດີນທາງໄປໄກແລ້ວ.ນີ້ແມ່ນຊ່ວງ
+ເວລາທີ່ພວກເຮົາໄດ້ວາງແຜນມາເປັນເວລາດົນນານ.
+
+663
+01:21:34,429 --> 01:21:38,766
+Transfer all Starfleet personnel
+to the cargo hold.
+ໂອນພະນັກງານຂອງກອງທັບດາວ
+ທັງໝົດໄປບ່ອນເກັບສິນຄ້າ.
+
+664
+01:21:38,975 --> 01:21:42,353
+See that Picard joins them.
+ເບິ່ງວ່າປິກາດເຂົ້າຮ່ວມພວກເຂົາ.
+
+665
+01:21:42,561 --> 01:21:47,733
+The shields in that section
+won't protect them from the heat.
+ປ້ອງກັນໃນສ່ວນນັ້ນຈະບໍ່
+ປົກປ້ອງພວກມັນຈາກຄວາມຮ້ອນ.
+
+666
+01:21:47,941 --> 01:21:51,027
+Thank you for reminding me.
+ຂອບໃຈທີ່ເຕືອນຂ້ອຍ.
+
+667
+01:22:36,485 --> 01:22:38,821
+Jean-Luc.
+ຈິນ ລຸກ.
+
+668
+01:22:47,245 --> 01:22:50,748
+Come with me.
+ມາກັບຂ້ອຍ.
+
+669
+01:23:05,470 --> 01:23:08,597
+It must have been strange for you
+as a hostage, -
+ມັນຕ້ອງແປກໃຈສໍາລັບ
+ເຈົ້າເປັນຕົວປະກັນ,-
+
+670
+01:23:08,806 --> 01:23:13,185
+- surrounded by all the friends
+and family you once knew.
+-ອ້ອມຮອບດ້ວຍເພື່ອນມິດແລະຄອບຄົວ
+ທັງໝົດທີ່ເຈົ້າເຄີຍຮູ້ຈັກ.
+
+671
+01:23:13,393 --> 01:23:16,563
+All looking
+exactly as they did then.
+ທຸກຄົນເບິ່ງຄືວ່າພວກເຂົາເຮັດໃນເວລານັ້ນ.
+
+672
+01:23:16,772 --> 01:23:21,609
+Like looking through
+the eyes of childhood again.
+ຄືກັບການເບິ່ງຜ່ານຕາຂອງ
+ເດັກນ້ອຍອີກເທື່ອໜຶ່ງ.
+
+673
+01:23:21,818 --> 01:23:26,405
+And here you are,
+closing those eyes.
+ແລະເຈົ້າຢູ່ບ່ອນນີ້, ປິດຕາເຫຼົ່ານັ້ນ.
+
+674
+01:23:26,614 --> 01:23:30,826
+Trying not to see what bitterness
+has done to the Son'a.
+ພະຍາຍາມບໍ່ເຫັນຄວາມໂຊກຮ້າຍ
+ໄດ້ເຮັດຫຍັງກັບລູກຊາຍ.
+
+675
+01:23:31,034 --> 01:23:35,539
+How it's turned Ru'afo
+into a madman. And you ...
+ມັນໄດ້ປ່ຽນຣູອາໂຟເປັນຄົນ
+ໂຊກຮ້າຍແນວໃດ.ແລະເຈົ້າ...
+
+676
+01:23:35,747 --> 01:23:38,625
+It's turned you into a coward.
+ມັນເຮັດໃຫ້ເຈົ້າກາຍເປັນຄົນກ້າຫານ.
+
+677
+01:23:38,833 --> 01:23:43,129
+A man who denies his own conscience.
+ຜູ້ຊາຍທີ່ປະຕິເສດຈິດໃຈຂອງຕົນເອງ.
+
+678
+01:23:43,337 --> 01:23:46,840
+Get in.
+ເຂົ້າມາ.
+
+679
+01:23:50,802 --> 01:23:57,266
+A coward without the moral courage
+to prevent an atrocity.
+ເປັນຄົນກ້າຫານທີ່ບໍ່ມີຄວາມທ້າທາຍ
+ທາງສິນທໍາທີ່ຈະປ້ອງກັນຄວາມໂຊກຮ້າຍ.
+
+680
+01:23:57,475 --> 01:24:02,938
+- Are you pleading for your life?
+- I'm not pleading for my life.
+- ເຈົ້າຂໍຮ້ອງເພື່ອຊີວິດຂອງທ່ານບໍ?
+- ຂ້ອຍບໍ່ໄດ້ຂໍຮ້ອງເພື່ອຊີວິດຂອງຂ້ອຍ.
+
+681
+01:24:05,232 --> 01:24:08,360
+I'm pleading for yours.
+ຂ້ອຍຂໍຮ້ອງ ສໍາ ລັບເຈົ້າ.
+
+682
+01:24:08,568 --> 01:24:13,281
+You can still go home, Gal'na.
+ເຈົ້າຍັງສາມາດກັບບ້ານໄດ້, ແກລນາ.
+
+683
+01:24:22,498 --> 01:24:27,794
+Computer, close turbolift doors.
+ຄອມພິວເຕີ, ປິດປະຕູຍົກຕູບລີຟ໌.
+
+684
+01:24:28,670 --> 01:24:32,131
+You're asking me
+to do the impossible.
+ເຈົ້າກໍາລັງຂໍໃຫ້ຂ້ອຍເຮັດ
+ສິ່ງທີ່ບໍ່ສາມາດເຮັດໄດ້.
+
+685
+01:24:32,340 --> 01:24:36,677
+- You can disable the injector.
+- From the bridge.
+- ເຈົ້າສາມາດປິດເຄື່ອງສີດໄດ້.
+- ຈາກຂົວ.
+
+686
+01:24:36,886 --> 01:24:41,306
+- The crew is loyal to Ru'afo.
+- Perhaps we can lure him away.
+- ທີມງານແມ່ນສັດຊື່ຕໍ່ຣູອາໂຟ.
+- ບາງທີພວກເຮົາສາມາດດຶງລາວໄປໄດ້.
+
+687
+01:24:41,515 --> 01:24:47,270
+As soon as he realises something is
+wrong, he'll override my commands.
+ເມື່ອລາວຮູ້ວ່າມີບາງສິ່ງບາງຢ່າງ
+ຜິດພາດ,ລາວຈະຍົກເລີກຄໍາສັ່ງຂອງຂ້ອຍ.
+
+688
+01:24:47,479 --> 01:24:54,068
+He may not realise something
+is wrong. Get me to a transmitter.
+ລາວອາດຈະບໍ່ຮູ້ວ່າບາງສິ່ງບາງຢ່າງ
+ຜິດພາດ.ເອົາຂ້ອຍໄປຫາເຄື່ອງສົ່ງ.
+
+689
+01:24:54,276 --> 01:24:58,739
+I need to speak with Data and Worf
+down on the planet.
+ຂ້ອຍຕ້ອງເວົ້າກັບ Data
+ແລະ Worf ຢູ່ເທິງໂລກ.
+
+690
+01:25:04,411 --> 01:25:06,871
+Initiate separation.
+ເລີ່ມການແຍກກັນ.
+
+691
+01:25:07,080 --> 01:25:10,458
+Separation in three minutes.
+ການແຍກກັນໃນເວລາສາມນາທີ.
+
+692
+01:25:10,666 --> 01:25:15,212
+A small craft is approaching.
+It's powering up its weapons.
+ເຮືອນ້ອຍໆກໍາລັງໃກ້ຊິດ.ມັນກໍາ
+ລັງເພີ່ມພະລັງງານອາວຸດຂອງມັນ.
+
+693
+01:25:15,420 --> 01:25:19,925
+- On screen.
+- One person aboard, the android.
+- ໃນໜ້າຈໍ.
+- ມີຄົນໜຶ່ງຢູ່ເທິງເຮືອ, ແອນດຣອຍ.
+
+694
+01:25:20,133 --> 01:25:22,719
+He's no threat.
+ລາວບໍ່ແມ່ນໄພຂົ່ມຂູ່.
+
+695
+01:25:27,390 --> 01:25:31,310
+Data to Picard.
+They're ignoring my attack.
+ຂໍ້ມູນໄປຫາ Picard .ພວກເຂົາກໍາ
+ລັງບໍ່ສົນໃຈການໂຈມຕີຂອງຂ້ອຍ.
+
+696
+01:25:31,518 --> 01:25:35,272
+Keep firing into the shield.
+Is Worf in position?
+ສືບຕໍ່ຍິງໃສ່ກະທູ້. ວໍຟຢູ່ໃນຕໍາແໜ່ງບໍ?
+
+697
+01:25:35,480 --> 01:25:40,276
+- Yes, he's ready for transport.
+- "We're approaching the bridge."
+- ແມ່ນແລ້ວ, ລາວພ້ອມແລ້ວ ສໍາ ລັບການຂົນສົ່ງ.
+- ພວກເຮົາ ກໍາ ລັງເຂົ້າໃກ້ຂົວ.
+
+698
+01:25:44,947 --> 01:25:49,451
+- Separation in one minute.
+- He's disrupting our shields.
+- ການແຍກກັນໃນ ໜຶ່ງ ນາທີ.
+- ລາວ ກໍາ ລັງລົບກວນກະທູ້ຂອງພວກເຮົາ.
+
+699
+01:25:49,660 --> 01:25:54,331
+If they go out of phase,
+we'll be exposed to the reaction.
+ຖ້າພວກມັນອອກຈາກໄລຍະ,ພວກເຮົາ
+ຈະຖືກເປີດເຜີຍຕໍ່ປະຕິກິລິຍາ.
+
+700
+01:25:54,706 --> 01:26:01,212
+Very well, destroy that ship.
+Do not delay the countdown.
+ດີຫຼາຍ,ທໍາລາຍເຮືອນັ້
+ນ.ຢ່າຊັກຊ້າການນັບຄືນ.
+
+701
+01:26:07,217 --> 01:26:11,179
+Data to Picard. They are
+rotating their shield harmonics.
+ຂໍ້ມູນໄປຫາປິກາດ.ພວກເຂົາກໍາລັງ
+ໝູນວຽນຮາໂມນິກກະຕ່າຂອງພວກເຂົາ.
+
+702
+01:26:11,388 --> 01:26:14,641
+I am attempting
+to return to the surface.
+ຂ້ອຍກໍາລັງພະຍາຍາມ
+ກັບຄືນໄປບ່ອນພື້ນຜິວ.
+
+703
+01:26:14,849 --> 01:26:19,395
+- The Federation ship has been hit.
+- Separation in 20 seconds.
+- ເຮືອຂອງສະຫະພັນໄດ້ຖືກຕີ.
+- ການແຍກກັນໃນເວລາ 20 ວິນາທີ.
+
+704
+01:26:21,021 --> 01:26:23,774
+- What's that?
+- I don't know.
+- ນັ້ນແມ່ນຫຍັງ?
+- ຂ້ອຍບໍ່ຮູ້.
+
+705
+01:26:23,982 --> 01:26:28,862
+- The systems don't seem affected.
+- Separation in ten seconds.
+- ລະບົບເບິ່ງຄືວ່າບໍ່ໄດ້ຮັບຜົນກະທົບ.
+- ການແຍກກັນໃນເວລາສິບວິນາທີ.
+
+706
+01:26:31,197 --> 01:26:34,367
+Five seconds.
+5 ວິນາທີ
+
+707
+01:26:35,451 --> 01:26:38,954
+The injector assembly has separated.
+ກອງປະຊຸມເຄື່ອງສີດໄດ້ແຍກກັນແລ້ວ.
+
+708
+01:26:56,136 --> 01:27:00,390
+Exactly
+as the simulations predicted.
+ຄືກັບທີ່ການທົດລອງໄດ້ຄາດຄະເນໄວ້.
+
+709
+01:27:03,894 --> 01:27:07,772
+I'm not showing any change
+in metaphasic flux levels.
+ຂ້ອຍບໍ່ໄດ້ສະແດງການປ່ຽນແປງໃດໆ
+ໃນລະດັບຄວາມໄຫຼຂອງ metaphasic .
+
+710
+01:27:07,981 --> 01:27:14,820
+- Your scanners are malfunctioning.
+- All ship functions are off-line.
+- ເຄື່ອງສະແກນຂອງທ່ານ ກໍາ ລັງເຮັດວຽກຜິດພາດ.
+- ການເຮັດວຽກຂອງເຮືອທັງ ໝົດ ແມ່ນປິດລົງ.
+
+711
+01:27:15,029 --> 01:27:19,324
+How can there be no ship functions
+if the view screen is working?
+ຈະເປັນແນວໃດທີ່ຈະບໍ່ມີໜ້າທີ່
+ຂອງເຮືອຖ້າໜ້າຈໍເບິ່ງເຮັດວຽກ?
+
+712
+01:27:19,533 --> 01:27:24,162
+Artificial gravity is stable.
+Life support is ...
+ຄວາມດຶງດູດທາງດິດແມ່ນໝັ້ນຄົງ
+.ການສະໜັບສະໜູນຊີວິດແມ່ນ...
+
+713
+01:27:36,381 --> 01:27:39,884
+A holodeck!
+ກະຕ່າໂຮໂລ!
+
+714
+01:28:08,410 --> 01:28:14,082
+We were transported to the holoship
+when we reset our shields.
+ພວກເຮົາຖືກຂົນສົ່ງໄປຫາເຮືອໂຮໂລສ໌ເມື່ອ
+ພວກເຮົາຕັ້ງຄ່າກະທູ້ຂອງພວກເຮົາຄືນ.
+
+715
+01:28:14,290 --> 01:28:20,087
+Everything we saw was an illusion.
+Ru'afo, authorisation Delta 2-1 .
+ທຸກຢ່າງທີ່ພວກເຮົາເຫັນແມ່ນຄວາມຫຼອ
+ກລວງ.ຣູອາໂຟ,ການອະນຸຍາດເດລຕາ 2-1 .
+
+716
+01:28:20,296 --> 01:28:23,507
+Override all commands
+to injector assembly one.
+ຍົກເລີກຄໍາສັ່ງທັງໝົດໄປຫາ
+ກອງປະຊຸມເຄື່ອງສີດໜຶ່ງ.
+
+717
+01:28:23,716 --> 01:28:29,137
+Unable to comply. Injector
+assembly one has been deactivated.
+ບໍ່ສາມາດປະຕິບັດໄດ້.ການປະຊຸມເຄື່ອງສີດ
+ນ້ໍາໜຶ່ງໄດ້ຖືກປິດໃຊ້ງານແລ້ວ.
+
+718
+01:28:37,728 --> 01:28:42,608
+All injector sub-systems
+aboard the collector are off-line.
+ລະບົບຍ່ອຍເຄື່ອງສີດທັງໝົດ
+ໃນເຄື່ອງເກັບກໍາແມ່ນປິດສາຍ.
+
+719
+01:28:42,816 --> 01:28:47,654
+De-cloakthe holoship
+and engage a tractor beam.
+ເອົາເຄື່ອງນຸ່ງຫົ່ມ holoship
+ແລະຈັບກຸມແສງດຶງດູດ.
+
+720
+01:28:55,036 --> 01:29:00,624
+The crew know something is wrong.
+I've secured the bridge.
+ທີມງານຮູ້ວ່າມີບາງສິ່ງບາງຢ່າງ
+ຜິດພາດ.ຂ້ອຍໄດ້ປະກັນຂົວແລ້ວ.
+
+721
+01:29:03,460 --> 01:29:08,423
+We have 14 long-range transporters.
+Are they all useless?
+ພວກເຮົາມີເຄື່ອງຂົນສົ່ງໄລຍະໄກ 14
+ເຄື່ອງ.ພວກມັນທັງໝົດບໍ່ເປັນປະໂຫຍດບໍ?
+
+722
+01:29:08,590 --> 01:29:12,677
+They were locked
+after we were beamed here.
+ພວກເຂົາຖືກລັອກຫຼັງຈາກ
+ພວກເຮົາຖືກສົ່ງມາບ່ອນນີ້.
+
+723
+01:29:12,843 --> 01:29:16,930
+Isolate one and re-route it
+through the auxiliary processor.
+ແຍກໜຶ່ງແລະປ່ຽນເສັ້ນທາງ
+ມັນຜ່ານໂປເຊດເຊີຊ່ວຍເຫຼືອ.
+
+724
+01:29:17,139 --> 01:29:21,351
+There's nothing we can do.
+They have control of our ship.
+ບໍ່ມີຫຍັງທີ່ພວກເຮົາສາມາດເຮັດໄດ້
+.ພວກເຂົາຄວບຄຸມເຮືອຂອງພວກເຮົາ.
+
+725
+01:29:21,601 --> 01:29:23,978
+I'm not going backto our ship.
+ຂ້ອຍຈະບໍ່ກັບຄືນໄປບ່ອນເຮືອຂອງພວກເຮົາ.
+
+726
+01:29:26,648 --> 01:29:29,859
+- Worf, destroy that thing.
+- Aye, sir.
+- ວໍຟ, ທໍາ ລາຍສິ່ງນັ້ນ.
+- ແມ່ນແລ້ວເດີ.
+
+727
+01:29:31,402 --> 01:29:36,865
+- Weapons systems are off-line.
+- They're re-routing controls.
+- ລະບົບອາວຸດບໍ່ໄດ້ໃຊ້ງານ.
+- ພວກເຂົາ ກໍາ ລັງປ່ຽນເສັ້ນທາງການຄວບຄຸມ.
+
+728
+01:29:38,742 --> 01:29:44,288
+The collector launch sequence
+has resumed.
+ລໍາດັບການປ່ອຍເຄື່ອງເກັບ
+ກໍາໄດ້ເລີ່ມຕົ້ນຄືນແລ້ວ.
+
+729
+01:29:44,831 --> 01:29:48,626
+Collector shields have been raised.
+Someone's on board.
+ປ້ອງກັນຜູ້ເກັບໄດ້ຍົກຂຶ້ນ
+ແລ້ວ.ມີຄົນຢູ່ເທິງເຮືອ.
+
+730
+01:29:49,084 --> 01:29:52,337
+- It's Ru'afo.
+- Can you override the launch?
+- ມັນເປັນຣູອາໂຟ.
+- ເຈົ້າສາມາດຍົກເລີກການປ່ອຍໄດ້ບໍ?
+
+731
+01:29:52,546 --> 01:29:59,719
+Not without access codes. There
+is self-destruct on the collector.
+ບໍ່ແມ່ນໂດຍບໍ່ມີລະຫັດການເຂົ້າເຖິງ
+.ມີການທໍາລາຍຕົວເອງໃນຜູ້ເກັບກໍາ.
+
+732
+01:29:59,928 --> 01:30:06,600
+- Try to beam through those shields.
+- It has to be detonated manually.
+- ພະຍາຍາມສົ່ງໄຟຜ່ານກະຕ່າເຫຼົ່ານັ້ນ.
+- ມັນຕ້ອງຖືກລະເບີດດ້ວຍມື.
+
+733
+01:30:06,809 --> 01:30:11,230
+Transport is possible between the
+shield generators within 100 metres.
+ການຂົນສົ່ງແມ່ນເປັນໄປໄດ້ລະຫວ່າງ
+ເຄື່ອງຜະລິດກະທູ້ພາຍໃນ 100 ແມັດ.
+
+734
+01:30:11,438 --> 01:30:15,525
+Take us into position.
+Remain at your post.
+ເອົາພວກເຮົາເຂົ້າໄປໃນຕໍາ
+ແໜ່ງ.ຢູ່ທີ່ຕໍາແໜ່ງຂອງທ່ານ.
+
+735
+01:30:15,734 --> 01:30:20,446
+- I need you to beam me back.
+- We're approaching the collector.
+- ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າສົ່ງຂ້ອຍກັບມາ.
+- ພວກເຮົາ ກໍາ ລັງໃກ້ກັບຜູ້ເກັບກໍາ.
+
+736
+01:30:20,655 --> 01:30:26,243
+When the fuel tanks start venting,
+weapons fire may ignite the exhaust.
+ເມື່ອຖັງນໍ້າມັນເຊື້ອໄຟເລີ່ມລະບາຍອາກາດ
+,ການຍິງອາວຸດອາດຈະເຮັດໃຫ້ເຊື້ອໄຟອອກ.
+
+737
+01:30:35,126 --> 01:30:39,213
+{y:i}Separation
+{y:i}in 2 minutes and 15 seconds.
+ການແຍກກັນໃນເວລາ 2 ນາທີແລະ 15 ວິນາທີ.
+
+738
+01:30:48,513 --> 01:30:51,182
+"Intruder ale"rt.
+ຄົນລັກລອບເຂົ້າມາແມ່ນແລ້ວ.
+
+739
+01:31:25,839 --> 01:31:27,882
+Captain!
+ຄັບປິນ!
+
+740
+01:31:28,091 --> 01:31:30,468
+Worf?
+ວໍຟ?
+
+741
+01:31:37,057 --> 01:31:40,769
+Captain Picard
+is on board the collector.
+ຄັບປິນ ປິກາດຢູ່ເທິງເຄື່ອງເກັບກໍາ.
+
+742
+01:31:40,977 --> 01:31:45,982
+Enterprise to Picard!
+Do you need assistance?
+ບໍລິສັດຫາ Picard !ເຈົ້າ
+ຕ້ອງການຄວາມຊ່ວຍເຫຼືອບໍ?
+
+743
+01:31:48,276 --> 01:31:51,654
+- I may need a lift in a minute.
+- We're on our way.
+- ຂ້ອຍອາດຈະຕ້ອງການລົດຂຶ້ນໃນນາທີໜຶ່ງ.
+- ພວກເຮົາ ກໍາ ລັງເດີນທາງໄປແລ້ວ.
+
+744
+01:31:51,862 --> 01:31:55,449
+Separation in one minute.
+ການແຍກກັນໃນ ໜຶ່ງ ນາທີ.
+
+745
+01:32:21,806 --> 01:32:24,517
+- Report.
+- It's Ru'afo's ship!
+- ລາຍງານ.
+- ມັນເປັນເຮືອຂອງຣູອາໂຟ!
+
+746
+01:32:24,725 --> 01:32:27,144
+On screen.
+ໃນໜ້າຈໍ.
+
+747
+01:32:27,353 --> 01:32:33,108
+Sensors are reading over 100 Ba'ku
+on board and one Klingon.
+ເຊັນເຊີກໍາລັງອ່ານຫຼາຍກວ່າ 100
+ບາຄູໃນເຮືອແລະຄລິງກອນຄົນໜຶ່ງ.
+
+748
+01:32:33,316 --> 01:32:38,404
+Target their ventral engines and
+life support. Collision course.
+ແນໃສ່ເຄື່ອງຈັກທ້ອງແລະການສະໜັບສະໜູນ
+ຊີວິດຂອງພວກເຂົາ.ເສັ້ນທາງການປະທະກັນ.
+
+749
+01:32:41,240 --> 01:32:43,701
+Stop!
+ຢຸດເຊົາ!
+
+750
+01:32:47,037 --> 01:32:53,293
+- We're getting too old for this.
+- Soon that won't be a problem.
+- ພວກເຮົາ ກໍາ ລັງເຖົ້າເກີນໄປ ສໍາ ລັບສິ່ງນີ້.
+- ໃນໄວໆນີ້ມັນຈະບໍ່ເປັນບັນຫາເລີຍ.
+
+751
+01:32:53,501 --> 01:32:55,920
+Separation in 30 seconds.
+ການແຍກກັນໃນເວລາ 30 ວິນາທີ.
+
+752
+01:32:56,129 --> 01:33:00,007
+You're really going to risk
+igniting the exhaust?
+ເຈົ້າຈະສ່ຽງທີ່ຈະເຮັດໃຫ້ໄຟໄໝ້ອອກບໍ?
+
+753
+01:33:00,216 --> 01:33:03,135
+All right, I will!
+ດີແລ້ວ, ຂ້ອຍຈະເຮັດ!
+
+754
+01:33:12,560 --> 01:33:16,480
+- Shields at 60%.
+- Hold your course.
+- ປ້ອງກັນຢູ່ 60%.
+- ຮັກສາເສັ້ນທາງຂອງທ່ານ.
+
+755
+01:33:18,399 --> 01:33:21,860
+- He wouldn't.
+- Yes, he would.
+- ລາວຈະບໍ່ເຮັດ.
+- ແມ່ນແລ້ວ, ລາວຈະເຮັດ.
+
+756
+01:33:23,904 --> 01:33:25,905
+Now!
+ດຽວນີ້!
+
+757
+01:33:36,790 --> 01:33:39,918
+Stand by, Captain. We're on our way.
+ກຽມພ້ອມ,ຄັບປິນ.ພວກເຮົາ
+ກໍາລັງເດີນທາງໄປແລ້ວ.
+
+758
+01:33:40,127 --> 01:33:43,588
+Sorry, time's up.
+ຂໍໂທດ, ເວລາໝົດແລ້ວ.
+
+759
+01:34:20,205 --> 01:34:23,499
+What kept you, Number One?
+ເຈົ້າຊັກຊ້າຫຍັງ, ອັນດັບໜຶ່ງ?
+
+760
+01:34:23,708 --> 01:34:28,504
+The Federation Council
+has halted the Ba'ku relocation.
+ສະພາສະຫະພັນໄດ້ຢຸດການ
+ຍ້າຍຖິ່ນຖານຂອງບາຄູ.
+
+761
+01:34:28,712 --> 01:34:31,673
+There'll be a top-level review.
+ຈະມີການທົບທວນຄືນລະດັບສູງສຸດ.
+
+762
+01:34:31,882 --> 01:34:35,343
+- Ru'afo's ship is hailing us.
+- On screen.
+- ເຮືອຂອງຣູອາໂຟ ກໍາ ລັງຕ້ອນຮັບພວກເຮົາ.
+- ໃນໜ້າຈໍ.
+
+763
+01:34:35,927 --> 01:34:43,100
+The Son'a crew want a cease-fire.
+We have three minutes of air left.
+ທີມງານຂອງລູກຊາຍຢາກຢຸດຍິງ.
+ພວກເຮົາມີອາກາດທີ່ເຫຼືອສາມນາທີ.
+
+764
+01:34:43,309 --> 01:34:45,978
+Prepare to beam aboard.
+ກຽມພ້ອມທີ່ຈະສົ່ງໄຟຟ້າຂຶ້ນເຮືອ.
+
+765
+01:34:52,859 --> 01:34:57,780
+How will we feel when we leave
+this metaphasic radiation?
+ພວກເຮົາຈະຮູ້ສຶກແນວໃດເມື່ອພວກເຮົາ
+ອອກຈາກແສງສະຫວ່າງ metaphasic ນີ້?
+
+766
+01:34:57,989 --> 01:35:01,784
+Your feelings about her
+haven't changed.
+ຄວາມຮູ້ສຶກຂອງເຈົ້າຕໍ່ນາງບໍ່ໄດ້ປ່ຽນແປງ.
+
+767
+01:35:01,992 --> 01:35:06,163
+This place just let them out
+for a little fresh air.
+ບ່ອນນີ້ພຽງແຕ່ປ່ອຍໃຫ້ພວກເຂົາ
+ອອກໄປເພື່ອລົມສົດບາງຢ່າງ.
+
+768
+01:35:08,540 --> 01:35:12,961
+- How can we bring them back home?
+- Askthem.
+- ພວກເຮົາສາມາດນໍາພວກມັນກັບບ້ານໄດ້ແນວໃດ?
+- ຖາມພວກເຂົາ.
+
+769
+01:35:13,169 --> 01:35:18,507
+I'm afraid there's too much
+bitterness on both sides.
+ຂ້ອຍຢ້ານວ່າຄວາມໂຊກຮ້າຍ
+ຫຼາຍເກີນໄປໃນທັງສອງຝ່າຍ.
+
+770
+01:35:22,302 --> 01:35:25,597
+Mother and son.
+ແມ່ແລະລູກຊາຍ.
+
+771
+01:35:25,806 --> 01:35:29,684
+- You arranged this?
+- To begin the healing process.
+- ເຈົ້າຈັດການສິ່ງນີ້ບໍ?
+- ເພື່ອເລີ່ມຕົ້ນຂະບວນການປິ່ນປົວ.
+
+772
+01:35:40,068 --> 01:35:43,905
+What am I going to do without you?
+ຂ້ອຍຈະເຮັດຫຍັງໂດຍບໍ່ມີເຈົ້າ?
+
+773
+01:35:44,114 --> 01:35:47,242
+I wish I could stay ...
+ຂ້ອຍຢາກສາມາດຢູ່ໄດ້...
+
+774
+01:35:47,450 --> 01:35:51,954
+But these are perilous times
+for the Federation.
+ແຕ່ພວກນີ້ເປັນເວລາອັນ
+ຕະລາຍສໍາລັບສະຫະພັນ.
+
+775
+01:35:52,163 --> 01:35:56,250
+I can't abandon it to people
+who would threaten -
+ຂ້ອຍບໍ່ສາມາດປະຖິ້ມມັນ
+ໃຫ້ຄົນທີ່ຈະຂົ່ມຂູ່-
+
+776
+01:35:56,458 --> 01:36:00,962
+- everything I've spent a lifetime
+defending. I have to go back ...
+-ທຸກຢ່າງທີ່ຂ້ອຍໄດ້ໃຊ້ຊີວິດເພື່ອ
+ປ້ອງກັນ.ຂ້ອຍຕ້ອງກັບຄືນໄປບ່ອນ...
+
+777
+01:36:01,171 --> 01:36:07,135
+If only to slowthings down
+at the Federation Council.
+ຖ້າຫາກວ່າພຽງແຕ່ເພື່ອເຮັດໃຫ້
+ຄວາມຊ້າລົງໃນສະພາສະຫະພັນ.
+
+778
+01:36:09,095 --> 01:36:14,349
+I have 318 days of shore leave
+coming, and ...
+ຂ້ອຍມີເວລາພັກຝັ່ງທະເລ
+318 ມື້ທີ່ຈະມາເຖິງ,ແລະ...
+
+779
+01:36:17,310 --> 01:36:19,646
+... I intend to use them.
+ຂ້ອຍຕັ້ງໃຈທີ່ຈະໃຊ້ພວກມັນ.
+
+780
+01:36:30,072 --> 01:36:32,115
+Data?
+ຂໍ້ມູນບໍ?
+
+781
+01:36:32,324 --> 01:36:35,160
+It's time to go.
+ມັນເຖິງເວລາແລ້ວທີ່ຈະໄປ.
+
+782
+01:36:35,368 --> 01:36:38,538
+I have to go home now.
+ຂ້ອຍຕ້ອງກັບບ້ານດຽວນີ້.
+
+783
+01:36:38,746 --> 01:36:41,666
+- Bye.
+- Bye.
+- ສະບາຍດີ.
+- ສະບາຍດີ.
+
+784
+01:36:55,428 --> 01:36:59,223
+Mr Data,
+I hope we'll see you again.
+ທ້າວ Data ,ຂ້ອຍຫວັງວ່າ
+ພວກເຮົາຈະເຫັນເຈົ້າອີກຄັ້ງ.
+
+785
+01:37:05,604 --> 01:37:12,235
+Data! Don't forget, you have
+to have a little fun every day.
+ຂໍ້ມູນ!ຢ່າລືມ,ເຈົ້າຕ້ອງ
+ມ່ວນຊື່ນເລັກນ້ອຍທຸກໆມື້.
+
+786
+01:37:12,902 --> 01:37:16,114
+Good advice.
+ຄໍາແນະນໍາທີ່ດີ.
+
+787
+01:37:26,748 --> 01:37:31,794
+Picard to Enterprise.
+Seven to beam up.
+ປິກາດໄປຫາບໍລິສັດ.ເຈັດ
+ຄົນທີ່ຈະສົ່ງອອກໄປ.
+
+788
+01:37:35,798 --> 01:37:38,217
+Energize.
+ໃຫ້ພະລັງ.
+
