@@ -6,10 +6,11 @@ Catalog update (batch 3): 797 films, up from 551. 610 of them are now real "Subt
 files (was 303) and 187 are still "Translated screenplay" files (was 248).
 
 - **246 new films.** Their English subtitles came from an English subtitle track already
-  inside the film file, rather than from a separate download. 241 are new films; 5 are a
-  second card for a film already listed, covering a different cut (Avatar Extended,
-  Blade: Trinity Unrated, and the Director's Cut of Battle Royale, Kingdom of Heaven and
-  Pitch Black).
+  inside the film file, rather than from a separate download. 241 are new films. The
+  other 5 are cards for a particular cut of a film: Avatar (Extended) and Blade: Trinity
+  (Unrated) are a second card beside the film's existing card, while Battle Royale,
+  Kingdom of Heaven and Pitch Black are listed only as their Director's Cut -- there is
+  no separate card for the theatrical version of those three.
 - **61 "Translated screenplay" cards became "Subtitles" cards.** Those films now have a
   Lao file timed to the film's real dialogue instead of a screenplay with even spacing.
 - **Venom is listed as a 2018 film.** It was listed as 2019, which is wrong: Venom was
@@ -20,7 +21,11 @@ files (was 303) and 187 are still "Translated screenplay" files (was 248).
   subtitles, captions, transcription, syncing, correction, translation or dialogue. A
   credit naming something else (for example a video re-encoder and a release group) is
   not a subtitle source, so those cards say "English subtitle source not stated"
-  instead. 7 cards changed.
+  instead. Measured against the site as it stood before this update: 12 cards that were
+  already listed now show a different line -- 6 say the English subtitle source is not
+  stated, 3 show a name that had been cut off before, and 3 lost a trailing "-" or "~"
+  that was part of the credit's decoration. The 61 cards that changed from "Translated
+  screenplay" to "Subtitles" gain an attribution line, which they did not have at all.
 - **Three titles corrected:** "Alien Verses Predator" -> "Alien vs. Predator", "Alien
   Verses Predator Requiem" -> "Alien vs. Predator Requiem", and "The Hitmans Wifes
   Bodyguard" -> "The Hitman's Wife's Bodyguard".
@@ -29,6 +34,15 @@ files (was 303) and 187 are still "Translated screenplay" files (was 248).
   "Tom & Jerry" and "Victoria & Abdul" moved to file names that spell out "and"; and the
   Batman v Superman Ultimate Edition card, whose file name ended in a stray ".None",
   became a theatrical card plus a proper Ultimate Edition card.
+- **The README and the website text were corrected.** Claims that no step of this
+  project actually checks were removed: that these films have no Lao subtitles anywhere
+  else, that the Lao reads naturally, that every film in the catalogue was re-checked
+  line by line against its English source, that the timing is aligned to the film's
+  audio, and a set of case studies explaining what Lao words mean. Every verification
+  number now says which films it counts and which file it was counted from; the film
+  tables show each film's type and, where there is one, its edition; and the "How to
+  Use" steps name the real download buttons and say what the timing of each kind of file
+  actually is.
 - **11 films are held back** and keep whatever card they already had: 8 whose title could
   not be resolved, Beauty and the Beast (2017) and Asteroid City (2023), which did not
   pass the automatic checks, and the theatrical cut of Avatar (2009), which has not been

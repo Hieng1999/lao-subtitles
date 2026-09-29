@@ -335,24 +335,25 @@
       <span class="benchmark-title">🏆 How We Verify Quality</span>
       <span class="benchmark-badge">Machine-Checked</span>
     </div>
-    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;">The numbers below are about the older <strong>"Translated screenplay"</strong> files only. Each of those was re-translated fresh and compared against the published line; the <strong>4,483</strong> corrections counted below were applied only if they passed <strong>both</strong> a semantic-equivalence check (translated back to English and compared to the original) <strong>and</strong> a set of filters for known failure patterns — never either one alone. No human reviewed any of it.</p>
-    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;"><strong>"Subtitles"</strong> files (S3X) are checked differently: the model's loaded weights are verified against the adapter file on disk, every line's timing is checked against its English source file, every line is confirmed non-empty, credit and ad lines are removed, and the same automatic defect-pattern checks are run against the translated text. No quality score is published for these files -- no native Lao reader has reviewed them yet.</p>
+    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;">The numbers below are about the older &quot;Translated screenplay&quot; files only. Each of those was re-translated fresh and compared against the published line, and a correction was written only when it passed both a set of filters for known failure patterns and a semantic-equivalence check -- never either one alone. For that second check the candidate Lao line is translated back into English by a separate reverse-direction model, and a local LLM running on this machine is asked only whether the two English sentences mean the same thing; it is never shown any Lao. No human reviewed any of it.</p>
+    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;">&quot;Subtitles&quot; files (S3X) are checked differently: the model&#x27;s loaded weights are verified against the adapter file on disk, every line&#x27;s timing is checked against its English source file, every line is confirmed non-empty, credit and ad lines are removed, and the same automatic defect-pattern checks are run against the translated text. They are not re-translated a second time and compared, so none of the numbers below cover them. No quality score is published for these files -- no native Lao reader has reviewed them yet.</p>
+    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;">Every number below is counted over one set: the 187 &quot;Translated screenplay&quot; films still published here, 187 of this catalogue's 797 films. They are re-summed for this build from the run's own per-film state file, <code>lao_nlp/data/metadata_and_state/srt_verification_state.json</code>, in the translator repository. The run itself covered 287 films; 100 of those are no longer published and are counted nowhere below.</p>
     <div class="benchmark-grid">
       <div class="benchmark-item">
         <div class="benchmark-val">187/797</div>
-        <div class="benchmark-lbl">Films re-checked automatically</div>
+        <div class="benchmark-lbl">&quot;Translated screenplay&quot; films re-checked, of all films published</div>
       </div>
       <div class="benchmark-item">
-        <div class="benchmark-val">31,338</div>
-        <div class="benchmark-lbl">Sent to Judge Review</div>
+        <div class="benchmark-val">19,366</div>
+        <div class="benchmark-lbl">Cues sent to the English-only judge (those 187 films)</div>
       </div>
       <div class="benchmark-item">
-        <div class="benchmark-val">4,483</div>
-        <div class="benchmark-lbl">Corrections Applied</div>
+        <div class="benchmark-val">4,479</div>
+        <div class="benchmark-lbl">Corrections applied (those 187 films)</div>
       </div>
       <div class="benchmark-item">
-        <div class="benchmark-val">32,126</div>
-        <div class="benchmark-lbl">Known Bad Patterns Rejected</div>
+        <div class="benchmark-val">20,521</div>
+        <div class="benchmark-lbl">Cues rejected by the pattern filters (those 187 films)</div>
       </div>
 
     </div>
@@ -374,87 +375,6 @@
     <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;">How this project's model has changed across generations, loaded live from <code>model_history.json</code>. Any number shown below (corrections applied, dataset rows staged) is real and computed; no generation here has a quality score -- see the Quality Score section above for why.</p>
     <div id="model-evolution-timeline" class="model-evolution-timeline">
       <p style="color: var(--text-muted); font-size: 0.9rem;">Loading model history…</p>
-    </div>
-  </div>
-
-
-  <div class="benchmark-card">
-    <div class="benchmark-header">
-      <span class="benchmark-title">🎬 Case Studies: How the Model Learns</span>
-      <span class="benchmark-badge">Real, Unedited Examples</span>
-    </div>
-    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 4px 0 14px;">Real before/after examples pulled directly from the verification corpus -- not mockups. Each shows the exact old published line, the new automatic correction (machine-checked, not reviewed by a person), and why the independent judge approved the fix.</p>
-    <div class="cs-grid">
-      <div class="cs-card">
-        <div class="cs-card-head">
-          <span class="cs-category">Screenplay Direction Fix</span>
-          <span class="cs-movie">Ad Astra</span>
-        </div>
-        <div class="cs-row"><span class="cs-row-label">Source</span><span class="cs-source">"After a BEAT:"</span></div>
-        <div class="cs-row"><span class="cs-row-label">✗ Legacy Output</span><span class="cs-legacy">ຫຼັງຈາກການຕີ:</span> <span class="cs-bt">(back-translates to: "One catch:")</span></div>
-        <div class="cs-row"><span class="cs-row-label">Machine translation, not reviewed by a person</span><span class="cs-verified">ຈັກບຶດໜຶ່ງ,:</span></div>
-        <div class="cs-why">The old translation took the screenwriting term "beat" (a pause) completely literally, producing the wrong meaning in Lao. The fix recognizes it as a stage direction, not a physical action.</div>
-      </div>
-      <div class="cs-card">
-        <div class="cs-card-head">
-          <span class="cs-category">Calque / Literal-Translation Fix</span>
-          <span class="cs-movie">10 Things I Hate About You</span>
-        </div>
-        <div class="cs-row"><span class="cs-row-label">Source</span><span class="cs-source">"You're completely demented."</span></div>
-        <div class="cs-row"><span class="cs-row-label">✗ Legacy Output</span><span class="cs-legacy">ເຈົ້າໂຊກຮ້າຍຢ່າງສົມບູນ.</span> <span class="cs-bt">(back-translates to: "You're really crazy.")</span></div>
-        <div class="cs-row"><span class="cs-row-label">Machine translation, not reviewed by a person</span><span class="cs-verified">ເຈົ້າແມ່ນໂງ່ແທ້ໆ.</span></div>
-        <div class="cs-why">A recurring, documented bug in this project: the model would sometimes translate "crazy/insane/demented" using the Lao word for "unlucky" (ໂຊກຮ້າຍ) instead of the correct word for "crazy" (ໂງ່) -- a literal-sounding but semantically wrong substitution.</div>
-      </div>
-      <div class="cs-card">
-        <div class="cs-card-head">
-          <span class="cs-category">Calque / Literal-Translation Fix</span>
-          <span class="cs-movie">2001: A Space Odyssey</span>
-        </div>
-        <div class="cs-row"><span class="cs-row-label">Source</span><span class="cs-source">"You're kidding."</span></div>
-        <div class="cs-row"><span class="cs-row-label">✗ Legacy Output</span><span class="cs-legacy">ເຈົ້າໂຊກຮ້າຍ.</span> <span class="cs-bt">(back-translates to: "You're not serious.")</span></div>
-        <div class="cs-row"><span class="cs-row-label">Machine translation, not reviewed by a person</span><span class="cs-verified">ເຈົ້າແມ່ນບໍ່ຈິງແລ້ວ.</span></div>
-        <div class="cs-why">The same "unlucky"-for-"crazy" calque bug recurring independently in a different movie, confirming it was a systemic model bias rather than a one-off mistake in a single file.</div>
-      </div>
-      <div class="cs-card">
-        <div class="cs-card-head">
-          <span class="cs-category">Idiom / Slang Fix</span>
-          <span class="cs-movie">12 Monkeys</span>
-        </div>
-        <div class="cs-row"><span class="cs-row-label">Source</span><span class="cs-source">"Push it tight!"</span></div>
-        <div class="cs-row"><span class="cs-row-label">✗ Legacy Output</span><span class="cs-legacy">ກົດມັນຢ່າງເຂັ້ມງວດ!</span> <span class="cs-bt">(back-translates to: "Tighten up!")</span></div>
-        <div class="cs-row"><span class="cs-row-label">Machine translation, not reviewed by a person</span><span class="cs-verified">ແໜ້ນໆເດີ້!</span></div>
-        <div class="cs-why">The old line translated the English idiom word-for-word into a stiff, overly formal Lao command. The fix uses a natural spoken-Lao reduplication pattern a real speaker would actually say.</div>
-      </div>
-      <div class="cs-card">
-        <div class="cs-card-head">
-          <span class="cs-category">Idiom / Slang Fix</span>
-          <span class="cs-movie">15 Minutes</span>
-        </div>
-        <div class="cs-row"><span class="cs-row-label">Source</span><span class="cs-source">"In a minute, Ludwig."</span></div>
-        <div class="cs-row"><span class="cs-row-label">✗ Legacy Output</span><span class="cs-legacy">ໃນນາທີຫນຶ່ງ, ລູດວິດຈ໌.</span> <span class="cs-bt">(back-translates to: "In a moment, Ludwig.")</span></div>
-        <div class="cs-row"><span class="cs-row-label">Machine translation, not reviewed by a person</span><span class="cs-verified">ອີກບໍ່ດົນ, ລູດວິດິກ.</span></div>
-        <div class="cs-why">"In a minute" was translated as a literal unit of time instead of the idiom "in a moment." The fix restores the natural, non-literal meaning.</div>
-      </div>
-      <div class="cs-card">
-        <div class="cs-card-head">
-          <span class="cs-category">Hallucination Removal ("cat" substitution)</span>
-          <span class="cs-movie">The Lord of the Rings: The Fellowship of the Ring</span>
-        </div>
-        <div class="cs-row"><span class="cs-row-label">Source</span><span class="cs-source">"So the ring of power has been found?"</span></div>
-        <div class="cs-row"><span class="cs-row-label">✗ Legacy Output</span><span class="cs-legacy">ສະນັ້ນແມວຂອງພະລັງໄດ້ຖືກພົບເຫັນແລ້ວບໍ?</span> <span class="cs-bt">(back-translates to: "Yes, the power ring has been found?")</span></div>
-        <div class="cs-row"><span class="cs-row-label">Machine translation, not reviewed by a person</span><span class="cs-verified">ແມ່ນແລ້ວແຫວນອໍານາດແມ່ນຖືກພົບແລ້ວບໍ່?</span></div>
-        <div class="cs-why">A known model failure mode: the real, correctly-spelled Lao word for "cat" (ແມວ) sometimes appears as a filler substitution for completely unrelated words -- here standing in for "ring." The fix restores the actual entity from the English source.</div>
-      </div>
-      <div class="cs-card">
-        <div class="cs-card-head">
-          <span class="cs-category">Hallucination Removal (garbled fragment)</span>
-          <span class="cs-movie">Freddy vs. Jason</span>
-        </div>
-        <div class="cs-row"><span class="cs-row-label">Source</span><span class="cs-source">"Hey! Watch that!"</span></div>
-        <div class="cs-row"><span class="cs-row-label">✗ Legacy Output</span><span class="cs-legacy">ເຮ້! ເບິ່ງແມ!</span> <span class="cs-bt">(back-translates to: "Hello! Watch out!")</span></div>
-        <div class="cs-row"><span class="cs-row-label">Machine translation, not reviewed by a person</span><span class="cs-verified">ສະບາຍດີ! ລະວັງເດີ້!</span></div>
-        <div class="cs-why">The old translation ended in a bare, incomplete "ແມ" fragment -- a known decoder artifact that never finishes into a real word. The fix replaces it with an actual, complete Lao warning phrase.</div>
-      </div>
     </div>
   </div>
 
@@ -18656,11 +18576,12 @@
 
   <div class="guide-card">
     <h3>📺 How to Use These Subtitles</h3>
+    <p style="color: var(--text-muted); font-size: 0.92rem; margin: 0 0 10px;">These steps are for <strong>&quot;Subtitles&quot;</strong> files. A <strong>&quot;Translated screenplay&quot;</strong> file is for reading: its timing is synthetic, so it will not line up with a video.</p>
     <ol>
-      <li><strong>Download:</strong> Click the yellow <code>⬇ Download .srt</code> button for any film above.</li>
-      <li><strong>Rename:</strong> Match the <code>.srt</code> filename exactly to your movie video file (e.g. <code>10.Things.I.Hate.About.You.1999.720p.mkv</code> &amp; <code>10.Things.I.Hate.About.You.1999.720p.srt</code>).</li>
+      <li><strong>Download:</strong> click a film's <code>🇱🇦 Lao SRT</code> button above (on a &quot;Translated screenplay&quot; card it reads <code>🇱🇦 Lao script (SRT)</code>), or <code>🇺🇸/🇱🇦 Bilingual</code> for the English-and-Lao file.</li>
+      <li><strong>Rename:</strong> rename the <code>.srt</code> so its name matches your video file exactly (e.g. <code>2001.A.Space.Odyssey.1968.mkv</code> &amp; <code>2001.A.Space.Odyssey.1968.srt</code>).</li>
       <li><strong>Play:</strong> Open in VLC, Plex, MPV, IINA, or PotPlayer — Lao subtitles will display automatically.</li>
-      <li><strong>Timing Nudge:</strong> If your release has different opening logos, adjust sync in VLC with <code>G</code> (earlier) or <code>H</code> (later).</li>
+      <li><strong>Timing:</strong> &quot;Subtitles&quot; files keep the timing of the English subtitle file they were translated from. That file may have been timed for a different release of the film, so lines can run early or late -- use your player&#x27;s subtitle-delay keys to shift them. &quot;Translated screenplay&quot; files have synthetic, evenly-spaced timing and will not line up with a video at all. In VLC that is <code>G</code> (earlier) and <code>H</code> (later).</li>
     </ol>
   </div>
 
