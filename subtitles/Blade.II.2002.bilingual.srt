@@ -1,3606 +1,3904 @@
 1
-00:00:10,000 --> 00:00:16,000
-[EMPLOYEE]
-Have you recently visited a tropical country?  Uh-huh?  In the past twelve months have you gotten a tattoo, non sterile acupuncture, or undergone any ear, skin or body piercing?
-ເຈົ້າເຄີຍໄປຢ້ຽມຢາມປະເທດຮ້ອນບໍ່ດົນມານີ້ບໍ? ອູຮູ? ໃນເວລາສິບສອງເດືອນທີ່ຜ່ານມາເຈົ້າໄດ້ເຮັດ
-tattoo, ການສັກຢາ acupuncture ທີ່ບໍ່ແມ່ນ sterile, ຫຼືໄດ້ຮັບການເຈາະຫູ, ຜິວຫນັງຫຼືຮ່າງກາຍໃດໆບໍ?
+00:00:52,761 --> 00:00:53,845
+First time giving blood?
+ເປັນຄັ້ງທໍາອິດທີ່ໃຫ້ເລືອດບໍ?
 
 2
-00:00:16,500 --> 00:00:18,500
-[NURSE]
-Jared Nomak?
-ເຈຣດ ໂນມາກ?
+00:00:56,348 --> 00:00:58,183
+Yes.
+ແມ່ນແລ້ວ.
 
 3
-00:00:19,000 --> 00:00:21,100
-[NURSE]
-Hi.  We're ready for you now.
-ສະບາຍດີ. ພວກເຮົາພ້ອມແລ້ວ ສໍາ ລັບເຈົ້າດຽວນີ້.
+00:00:59,726 --> 00:01:00,936
+They pay cash here.
+ພວກເຂົາຈ່າຍເງິນສົດຢູ່ນີ້.
 
 4
-00:00:21,600 --> 00:00:26,500
-[NURSE]
-I see from your questionnaire that you don't have any immediate next of kin?
-ຂ້ອຍເຫັນຈາກແບບສອບຖາມຂອງທ່ານວ່າເຈົ້າບໍ່ມີພີ່ນ້ອງໃກ້ຊິດໃດໆບໍ?
+00:01:01,103 --> 00:01:03,730
+And there's no limit to how
+many times you give.
+ແລະບໍ່ມີຂໍ້ຈໍາກັດວ່າ
+ເຈົ້າຈະໃຫ້ຫຼາຍປານໃດ.
 
 5
-00:00:27,000 --> 00:00:29,100
-[NOMAK]
-Not that I'm in contact with.
-ບໍ່ແມ່ນວ່າຂ້ອຍຕິດຕໍ່ກັນ.
+00:01:03,897 --> 00:01:05,857
+They even buy it in the jar.
+ພວກເຂົາແມ້ກະທັ້ງຊື້ມັນໃນຈອກ.
 
 6
-00:00:29,600 --> 00:00:32,400
-[NURSE]
-Nobody to call in case of an emergency?
-ບໍ່ມີໃຜທີ່ຈະໂທຫາໃນກໍລະນີສຸກເສີນບໍ?
+00:01:06,650 --> 00:01:09,736
+Jared Nomak, we're ready for you.
+ເຈຣດໂນມາກ,ພວກເຮົາ
+ພ້ອມແລ້ວສໍາລັບເຈົ້າ.
 
 7
-00:00:32,900 --> 00:00:36,400
-[NOMAK]
-No --  Does that mean I can't be a donor?
-ບໍ່ - ນັ້ນຫມາຍຄວາມວ່າຂ້ອຍບໍ່ສາມາດເປັນຜູ້ບໍລິຈາກໄດ້ບໍ?
+00:01:23,041 --> 00:01:25,460
+In the past 12 months,
+have you gotten a tattoo...
+ໃນ 12 ເດືອນທີ່ຜ່ານມາ,
+ເຈົ້າໄດ້ເຮັດ tattoo ບໍ...
 
 8
-00:00:36,900 --> 00:00:41,450
-[NURSE]
-It depends.  We came up with some unusual results on your blood test.
-ມັນຂຶ້ນກັບ.
-ພວກເຮົາໄດ້ພົບຜົນທີ່ບໍ່ປົກກະຕິບາງຢ່າງໃນການກວດເລືອດຂອງທ່ານ.
+00:01:25,627 --> 00:01:27,921
+...or undergone any ear,
+skin, or body piercings?
+...ຫຼືໄດ້ຮັບການເຈາະຫູໃດ
+ໆ,ຜິວໜັງ,ຫຼືຮ່າງກາຍບໍ?
 
 9
-00:00:41,950 --> 00:00:43,950
-[NOMAK]
-How unusual?
-ບໍ່ເປັນປົກກະຕິຫຼາຍປານໃດ?
+00:01:28,088 --> 00:01:29,423
+No.
+ບໍ່.
 
 10
-00:00:44,450 --> 00:00:49,700
-[NURSE]
-Your blood has a very rare phenotype, one that's quite valuable to people like us.
-ເລືອດຂອງເຈົ້າມີຟີນໂອໄບທີ່ຫາຍາກຫຼາຍ,
-ຫນຶ່ງ ທີ່ມີຄຸນຄ່າຫຼາຍຕໍ່ຄົນເຊັ່ນພວກເຮົາ.
+00:01:30,215 --> 00:01:33,051
+Where did you get that scar on your chin?
+ເຈົ້າໄດ້ຮັບບາດແຜທີ່ຢູ່
+ເທິງກະຕ່າຂອງທ່ານຈາກໃສ?
 
 11
-00:00:50,200 --> 00:00:52,300
-[NOMAK]
-Us?  What are you talking about?
-ພວກເຮົາ? ເຈົ້າເວົ້າຫຍັງຢູ່?
+00:01:33,927 --> 00:01:34,970
+Childhood accident.
+ອຸບັດຕິເຫດໃນໄວເດັກ.
 
 12
-00:00:52,800 --> 00:00:57,700
-[DOCTOR]
-It's a good news-bad news scenario, Jared.  Good news for us, bad for you.
-ມັນເປັນສະຖານະການຂ່າວດີ - ຂ່າວບໍ່ດີ, ເຈຣດ.
-ຂ່າວດີ ສໍາ ລັບພວກເຮົາ, ຂ່າວບໍ່ ດີ ສໍາ ລັບເຈົ້າ.
+00:01:36,638 --> 00:01:39,766
+You say you don't have any immediate
+next of kin, is that right?
+ເຈົ້າເວົ້າວ່າເຈົ້າບໍ່ມີຍາດ
+ພີ່ນ້ອງໃກ້ຊິດໃດໆ,ແມ່ນບໍ?
 
 13
-00:00:58,200 --> 00:01:04,200
-[ON THE DOORWAY]
-as Nomak steps into the hallway.  Because of the lights above, there are alternating pools of light and shadow in the hall.  Nomak advances towards us, his face coming in and out of darkness.
-ໃນຂະນະທີ່ໂນມາກເຂົ້າໄປໃນທາງເດີ່ນ. ຍ້ອນແສງສະຫວ່າງຢູ່ເທິງ, ມີສະລອຍນ້ ໍາ
-ແສງແລະເງົາທີ່ປ່ຽນກັນໃນຫ້ອງປະຊຸມ. ໂນມາກກ້າວໄປສູ່ພວກເຮົາ, ໃບຫນ້າຂອງລາວເຂົ້າແລະອອກຈາກຄວາມມືດ.
+00:01:39,933 --> 00:01:41,310
+Not that I'm in contact with.
+ບໍ່ແມ່ນວ່າຂ້ອຍຕິດຕໍ່ກັບ.
 
 14
-00:01:04,700 --> 00:01:06,700
-[NOMAK]
-Vampires --
-ແວມປີສ໌...
+00:01:41,476 --> 00:01:45,314
+- Nobody to call in case of an emergency?
+- No one.
+- ບໍ່ມີໃຜທີ່ຈະໂທໃນກໍລະນີສຸກເສີນບໍ?
+- ບໍ່ມີໃຜ.
 
 15
-00:01:07,200 --> 00:01:09,200
-[NOMAK]
-I fucking hate vampires.
-ຂ້ອຍກຽດຊັງແວມປີ.
+00:01:45,480 --> 00:01:47,733
+- No family?
+- I told you, no.
+- ບໍ່ມີຄອບຄົວບໍ?
+- ຂ້ອຍບອກເຈົ້າແລ້ວ, ບໍ່.
 
 16
-00:01:09,700 --> 00:01:15,700
-[BLADE]
-exits just behind them, eschewing the stairs completely and vaulting over the railing.  He unholsters his MACH pistol as he drops, FIRING it as he lands in a cat-like stance on the snowy ground below --
-ອອກຈາກຢູ່ເບື້ອງຫຼັງພວກເຂົາ, ຫຼີກລ້ຽງຂັ້ນເທິງຢ່າງສົມບູນແລະໂດດຂຶ້ນເທິງລໍາບາກ. ລາວເປີດປືນ MACH
-ຂອງລາວໃນຂະນະທີ່ລາວຫຼຸດລົງ, ຍິງມັນໃນຂະນະທີ່ລາວກັບສະຖານະພາບຄືກັບແມວໃນພື້ນທີ່ຫິມະຂ້າງລຸ່ມ -
+00:01:48,567 --> 00:01:52,029
+Are you telling me I can't be a donor?
+ເຈົ້າບອກຂ້ອຍວ່າຂ້ອຍບໍ່ສາມາດ
+ເປັນຜູ້ບໍລິຈາກໄດ້ບໍ?
 
 17
-00:01:16,200 --> 00:01:22,200
-[ON BLADE]
-Running like a bull, condensed vapor streaming from his mouth and nostrils.  Splashing through puddles of icy water storming through barriers of plywood and razor wire, leaping over mountains of garbage bags.
-ແລ່ນຄືກັບງົວ, ຄວັນທີ່ສັ່ນສະເທືອນໄຫຼຈາກປາກແລະຮູດັງຂອງລາວ. ການສີດຜ່ານຖ້ວມນ້
-ໍາ ກ້ອນທີ່ໂຈມຕີຜ່ານອຸປະສັກຂອງກະດານແລະສາຍຕັດຜົມ, ໂດດຜ່ານພູຂອງຖົງຂີ້ເຫຍື້ອ.
+00:01:52,195 --> 00:01:56,408
+It depends. We came up with some
+unusual results on your blood test.
+ມັນຂຶ້ນກັບ.ພວກເຮົາໄດ້ຜົນທີ່ບໍ່
+ປົກກະຕິບາງຢ່າງຈາກການກວດເລືອດຂອງທ່ານ.
 
 18
-00:01:22,700 --> 00:01:28,700
-[ON THE VAMPIRES]
-as they flatten a length of cyclone fencing like it was crepe paper.  They scramble up an obstacle of waste bins, leaping into the air --
-ໃນຂະນະທີ່ພວກເຂົາສຽບຄວາມຍາວຂອງແຄບພາຍຸຄືກັບວ່າມັນເປັນເຈ້ຍ crepe
-. ພວກເຂົາກະຕຸ້ນອຸປະສັກຂອງຖັງຂີ້ເຫຍື້ອ, ໂດດເຂົ້າໄປໃນອາກາດ -
+00:01:56,575 --> 00:01:59,995
+What? How? How unusual?
+ຫຍັງ? ແນວໃດ? ບໍ່ປົກກະຕິຫຼາຍປານໃດ?
 
 19
-00:01:29,200 --> 00:01:35,150
-[BACK TO BLADE]
-pulling out his twin-bladed boomerang as he runs.  He flings the weapon.  It twirls around, catching --
-ດຶງບູເມຣັງສອງກະດານຂອງລາວອອກໃນຂະນະທີ່ລາວແລ່ນ
-. ລາວຖິ້ມອາວຸດ. ມັນຫມູນວຽນຢູ່ທົ່ວໄປ, ຈັບ -
+00:02:02,497 --> 00:02:03,915
+Let me explain.
+ຂໍໃຫ້ຂ້ອຍອະທິບາຍ.
 
 20
-00:01:35,650 --> 00:01:41,650
-[ST. CLOUD IN MID-LEAP]
-and cutting the vampire completely in half.  As the disintegrating halves of St. Cloud fall to the side, Blade storms over the waste bin.
-ແລະຕັດແວມປີຢ່າງສົມບູນເປັນເຄິ່ງຫນຶ່ງ. ໃນຂະນະທີ່ເຄິ່ງສ່ວນທີ່ແຕກແຍກຂອງ
-St Cloud ຕົກລົງໄປຂ້າງ, Blade ພາຍຸຜ່ານຖັງຂີ້ເຫຍື້ອ.
+00:02:04,082 --> 00:02:08,837
+Your blood has a very rare phenotype,
+one we haven't encountered before.
+ເລືອດຂອງເຈົ້າມີຟີໂນໄຕບ໌ທີ່ຫາຍາກຫຼາຍ
+,ໜຶ່ງທີ່ພວກເຮົາບໍ່ເຄີຍພົບກ່ອນ.
 
 21
-00:01:42,150 --> 00:01:48,150
-[BLADE]
-Bursts from the factory.  Segura revs his BMW, trying to run him down.  At the last second, Blade pivots aside like a matador.  Segura circles around for another try.
-ການລະເບີດຈາກໂຮງງານຜະລິດ. ເຊເກູຣາ ຫມູນ ວຽນ BMW ຂອງລາວ, ພະຍາຍາມຂັບລົດລາວລົງ.
-ໃນວິນາທີສຸດທ້າຍ, ບເລດຫັນໄປຂ້າງຄຽງຄືກັບແມຕາດໍ.ເຊເກູລາຫມູນວຽນຢູ່ອ້ອມຂ້າງເພື່ອພະຍາຍາມອີກຄັ້ງ.
+00:02:11,923 --> 00:02:13,925
+What? What are you talking about?
+ເຈົ້າເວົ້າຫຍັງຢູ່?
 
 22
-00:01:48,650 --> 00:01:54,650
-[THE OVERPASS]
-before them is under construction.  There's a twenty-foot gap in the road where a portion is missing, pieces of re-bar poking out from the ends of the prefabricated sections.
-ກ່ອນພວກເຂົາ ກໍາ ລັງກໍ່ສ້າງຢູ່. ມີຊ່ອງຫວ່າງສິບແມັດໃນທາງທີ່ສ່ວນ ຫນຶ່ງ
-ຂາດຫາຍໄປ, ຊິ້ນສ່ວນຂອງ re-bar ອອກຈາກຈຸດສິ້ນສຸດຂອງພາກສ່ວນ prefabricated ໄດ້.
+00:02:15,427 --> 00:02:19,264
+- Who are you? No. No.
+- Sit down, please.
+- ເຈົ້າເປັນໃຜ? ບໍ່. ບໍ່.
+- ນັ່ງລົງ, ກະລຸນາ.
 
 23
-00:01:55,150 --> 00:02:01,150
-[ON BLADE]
-as he snaps his hand up -- a trio of Japanese throwing stars appearing between his fingers like a magician's cards.  He flings the stars at Jigsaw's bike --
-ໃນຂະນະທີ່ລາວຈັບມືຂຶ້ນ - ສາມຄົນຍີ່ປຸ່ນທີ່ຖິ້ມດາວປາກົດຕົວລະຫວ່າງນິ້ວມືຂອງລາວຄືກັບບັດຂອງນັກຊະຍາກອນ
-. ລາວຖິ່ມດາວໃສ່ລົດຖີບຂອງຈິກຊາວ -
+00:02:21,933 --> 00:02:23,060
+What is this?
+ນີ້ແມ່ນຫຍັງ?
 
 24
-00:02:01,650 --> 00:02:05,500
-[UP AHEAD]
-Rush cuts onto an on-ramp, powering his way onto the freeway.
-ຣັດຊ໌ຕັດເຂົ້າໄປໃນທາງເດີນທາງ, ໃຫ້ພະລັງງານທາງຂອງລາວໄປທາງດ່ວນ.
+00:02:23,226 --> 00:02:27,314
+This is a good news-bad
+news scenario, Jared.
+ນີ້ແມ່ນສະຖານະການຂ່າວ
+ດີ-ຂ່າວບໍ່ດີ,ເຈຣດ.
 
 25
-00:02:06,000 --> 00:02:08,800
-[BLADE]
-is gaining on him like demon of speed.
-ກໍາ ລັງຊະນະລາວຄືກັບໂຊກຮ້າຍຂອງຄວາມໄວ.
+00:02:27,481 --> 00:02:29,274
+Good news for us.
+ຂ່າວດີ ສໍາ ລັບພວກເຮົາ.
 
 26
-00:02:09,300 --> 00:02:15,300
-[RUSH]
-goes flying onto the road, rolling over and over, one of his legs SNAPPING at a bone-breaking angle.  As he lies there MOANING, Blade circles around, sweeping past Rush's decimated bike, retrieving his sward from the burning wreckage.
-ໄປບິນໄປທາງ, ຫມູນ ວຽນໄປແລະໄປ, ຫນຶ່ງ ໃນຕີນຂອງລາວ SNAPPING ໃນມຸມທີ່ແຕກກະດູກ. ໃນຂະນະທີ່ລາວນອນຢູ່ບ່ອນນັ້ນ MOANING,
-ກະດານວົງຈອນຢູ່ອ້ອມຂ້າງ, ລ້າງຜ່ານລົດຖີບທີ່ຖືກສິ້ນສຸດລົງຂອງ Rush ໄດ້, ການເກັບກູ້ກະດານຂອງລາວຈາກສິ່ງເສດເຫຼືອທີ່ເຜົາໄຫມ້.
+00:02:31,777 --> 00:02:33,612
+Bad news...
+ຂ່າວບໍ່ດີ...
 
 27
-00:02:15,800 --> 00:02:20,350
-[BLADE]
-Tell me where he his now and I'll consider you a loose end.
-ບອກຂ້ອຍວ່າລາວຢູ່ໃສດຽວນີ້ແລະຂ້ອຍຈະຖືວ່າເຈົ້າເປັນຈຸດທີ່ວ່າງ.
+00:02:35,572 --> 00:02:36,740
+...for you.
+... ສໍາ ລັບເຈົ້າ.
 
 28
-00:02:20,850 --> 00:02:22,850
-[VAMPIRE]
-Nobody's th--
-ບໍ່ມີໃຜແມ່ນ...
+00:03:41,012 --> 00:03:43,682
+Forget what you think you know.
+ລືມສິ່ງທີ່ເຈົ້າຄິດວ່າເຈົ້າຮູ້.
 
 29
-00:02:23,350 --> 00:02:29,350
-[THREE LARGE TANKS]
-are hidden inside.  The first two are empty.  A MAN is suspended within the third, bobbing weightlessly in a sea of red plasma.  His long, gray hair floats about his face, shrouding his weathered features.  We're not sure if he's sleeping or dead.
-ແມ່ນເຊື່ອງໄວ້ພາຍໃນ. ສອງຄັ້ງ ທໍາ ອິດແມ່ນຫວ່າງ. ຜູ້ຊາຍຖືກໂຈະໄວ້ພາຍໃນທີສາມ, ຍ່າງໂດຍບໍ່ມີນ້ ໍາ ຫນັກ ໃນທະເລຂອງພລາສມາສີແດງ
-. ຜົມຍາວແລະສີຂາວຂອງລາວລອຍຢູ່ອ້ອມໃບຫນ້າຂອງລາວ, ປົກຄຸມລັກສະນະຂອງສະພາບອາກາດຂອງລາວ. ພວກເຮົາບໍ່ແນ່ໃຈວ່າລາວນອນຫຼືຕາຍບໍ.
+00:03:43,849 --> 00:03:47,060
+Vampires exist.
+ແວມປີຣ໌ມີຢູ່.
 
 30
-00:02:29,850 --> 00:02:33,350
-[BLADE]
-Old man, old man, what've they done to you --
-ຜູ້ເຖົ້າ, ຜູ້ເຍົ້າ, ພວກເຂົາເຮັດຫຍັງກັບເຈົ້າ -
+00:03:49,104 --> 00:03:52,524
+My name is Blade.
+ຂ້ອຍຊື່ວ່າ ບເລດ.
 
 31
-00:02:33,850 --> 00:02:37,350
-[WHISTLER]
-Why didn't you finish me off?!?!  I told you --
-ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ສິ້ນສຸດຂ້ອຍບໍ?!?! ຂ້ອຍບອກເຈົ້າວ່າ -
+00:03:52,691 --> 00:03:55,736
+I was born half human, half vampire.
+ຂ້ອຍເກີດເປັນຄົນເຄິ່ງ
+ໜຶ່ງ,ເຄິ່ງໜຶ່ງແວມປີ.
 
 32
-00:02:37,850 --> 00:02:39,850
-[BLADE]
-Come on, Whistler.
-ມາແລ້ວ, ວີສລເຕີ.
+00:03:57,404 --> 00:04:01,658
+They call me The Daywalker.
+ພວກເຂົາເອີ້ນຂ້ອຍວ່າ Daywalker.
 
 33
-00:02:40,350 --> 00:02:42,350
-[BLADE]
-Let's go home.
-ໄປບ້ານ.
+00:04:03,368 --> 00:04:08,498
+I have all their strengths,
+none of their weaknesses...
+ຂ້ອຍມີຄວາມເຂັ້ມແຂງຂອງພວກເຂົາທັງໝົດ
+,ບໍ່ມີຄວາມອ່ອນແອຂອງພວກເຂົາເລີຍ...
 
 34
-00:02:42,850 --> 00:02:44,850
-[BLADE]
-Scud!
-ສັກດ໌!
+00:04:08,665 --> 00:04:11,042
+...except for the thirst.
+ຍົກເວັ້ນຄວາມຢາກ.
 
 35
-00:02:45,350 --> 00:02:47,450
-[SCUD]
-Lock up your daughters, people --
-ປິດລູກສາວຂອງທ່ານໄວ້, ປະຊາຊົນ -
+00:04:12,419 --> 00:04:15,797
+Twenty years ago, I met
+a man that changed that.
+ເມື່ອສິບປີກ່ອນ,ຂ້ອຍພົບ
+ຜູ້ຊາຍທີ່ປ່ຽນແປງເລື່ອງນັ້ນ.
 
 36
-00:02:47,950 --> 00:02:49,950
-[SCUD]
-The Dark Knight returns.
-ນັກຮົບມືດກັບມາ.
-
-37
-00:02:50,450 --> 00:02:52,550
-[SCUD]
-Little toke of the smokage, B?
-ການສູບຢານ້ອຍໆ, B?
-
-38
-00:02:53,050 --> 00:02:55,850
-[BLADE]
-Knock it off.  We've got work to do.
-ຢຸດມັນລົງ. ພວກເຮົາມີວຽກເຮັດຢູ່.
-
-39
-00:02:56,350 --> 00:03:01,950
-[WHISTLER]
-is inside.  Blade unfastens the hood, slipping it off. Immediately, Whistler sits up, LUNGING at Blade!
-ແມ່ນຢູ່ໃນພາຍໃນ. ກະດານກະດານກ້າວກ້າວກະດານ, ປ່ອຍມັນອອກ
-. ທັນທີ, Whistler ນັ່ງຂຶ້ນ, LUNGING ຢູ່ກະດາດ!
-
-40
-00:03:02,450 --> 00:03:04,450
-[SCUD]
-Fuck me!
-ຂ້ອຍໄປໂຊກຮ້າຍ!
-
-41
-00:03:04,950 --> 00:03:10,200
-[BLADE]
-You going to stand there crapping your pants or are you going to help me?!
-ເຈົ້າຈະຢືນຢູ່ບ່ອນນັ້ນ ກໍາ
-ລັງສໍ້ໂກງກະເປົາຂອງທ່ານຫຼືເຈົ້າຈະຊ່ວຍຂ້ອຍບໍ?!
-
-42
-00:03:10,700 --> 00:03:12,800
-[SCUD]
-You got something in mind, Blade?
-ເຈົ້າມີຫຍັງຢູ່ໃນໃຈບໍ, ບເລດ?
-
-43
-00:03:13,300 --> 00:03:18,550
-[BLADE]
-Ultra-rapid detox.  They use it on heroin addicts, make 'em go cold-turkey in one night.
-ພວກເຂົາໃຊ້ມັນໃສ່ຄົນຕິດເຮໂຣອິນ, ເຮັດໃຫ້ພວກເຂົາໄປເຢັນໃນຄືນດຽວ.
-
-44
-00:03:19,050 --> 00:03:22,200
-[BLADE]
-Gonna try and OD Whistler on a retroviral cure.
-ຂ້ອຍຈະພະຍາຍາມແລະ OD Whistler ກ່ຽວກັບການປິ່ນປົວ retroviral ໄດ້.
-
-45
-00:03:22,700 --> 00:03:25,150
-[SCUD]
-I don't know about this, man --
-ຂ້ອຍບໍ່ຮູ້ກ່ຽວກັບເລື່ອງນີ້, ຜູ້ຊາຍ -
-
-46
-00:03:25,650 --> 00:03:27,650
-[BLADE]
-Get back!!!
-ກັບຄືນໄປບ່ອນ!!!
-
-47
-00:03:28,150 --> 00:03:34,150
-[BLADE]
-If there's anything of you left in there, Whistler, listen up now.  Come morning, those shutters are going up. Either you'll be cured, or you'll fry.
-ຖ້າມີບາງສິ່ງບາງຢ່າງຂອງເຈົ້າທີ່ຍັງເຫຼືອຢູ່ບ່ອນນັ້ນ, ວີສລເຕີ, ຟັງດຽວນີ້. ມາເຊົ້າ
-, ປິດປຸ່ມເຫຼົ່ານັ້ນ ກໍາ ລັງຂຶ້ນ. ເຈົ້າຈະໄດ້ຮັບການປິ່ນປົວ, ຫຼືເຈົ້າຈະ fry.
-
-48
-00:03:34,650 --> 00:03:37,100
-[BLADE]
-It's going to be a long night.
-ມັນຈະເປັນຄືນທີ່ຍາວນານ.
-
-49
-00:03:37,600 --> 00:03:39,600
-[WHISTLER]
-Daylight.  Son of a bitch.
-ແສງສະຫວ່າງຂອງມື້. ລູກໂຊກຮ້າຍ.
-
-50
-00:03:40,100 --> 00:03:42,100
-[BLADE]
-How do you feel?
-ເຈົ້າຮູ້ສຶກແນວໃດ?
-
-51
-00:03:42,600 --> 00:03:46,100
-[WHISTLER]
-Like a fucking heifer took a dump in my mouth.
-ຄືກັບວ່າງົວແມວແມລແມນແມລາແມມລ.
-
-52
-00:03:46,600 --> 00:03:48,600
-[WHISTLER]
-You came back for me.
-ເຈົ້າກັບມາຫາຂ້ອຍ.
-
-53
-00:03:49,100 --> 00:03:51,100
-[BLADE]
-Did you think I wouldn't?
-ເຈົ້າຄິດວ່າຂ້ອຍຈະບໍ່ເຮັດບໍ?
-
-54
-00:03:51,600 --> 00:03:53,600
-[WHISTLER]
-Took you long enough.
-ເຈົ້າໃຊ້ເວລາຫຼາຍພໍສົມຄວນ.
-
-55
-00:03:54,100 --> 00:04:00,100
-[BLADE]
-Let's just hope you've kicked the Thirst for good.  I'll be watching you close. You start to back-slide --
-ພວກເຮົາພຽງແຕ່ຫວັງວ່າເຈົ້າໄດ້ເອົາຄວາມດອກດອກລົງຢ່າງດີ.
-ຂ້ອຍຈະເບິ່ງເຈົ້າຢ່າງໃກ້ຊິດ. ເຈົ້າເລີ່ມເລື່ອນກັບຄືນໄປບ່ອນ -
-
-56
-00:04:00,600 --> 00:04:04,450
-[WHISTLER]
-You put a bullet in my brain.  Wouldn't expect anything else.
-ເຈົ້າເອົາລູກປືນໃສ່ສະຫມອງຂອງຂ້ອຍ. ຂ້ອຍບໍ່ຄາດຫວັງຫຍັງອີກເລີຍ.
-
-57
-00:04:04,950 --> 00:04:10,950
-[WHISTLER]
-I'll say one thing for doing time as a suckhead.  Seems to have knocked that cancer of mine back into remission.
-ຂ້ອຍຈະເວົ້າສິ່ງດຽວ ສໍາ ລັບການເຮັດເວລາເປັນຄົນສູບ.
-ເບິ່ງຄືວ່າໄດ້ເຮັດໃຫ້ມະເຮັງຂອງຂ້ອຍກັບຄືນໄປບ່ອນໃນການຫຼຸດຜ່ອນ.
-
-58
-00:04:11,450 --> 00:04:13,450
-[WHISTLER]
-Where the hell's my lathe?
-ເຄື່ອງຕັດຂອງຂ້ອຍຢູ່ໃສ?
-
-59
-00:04:13,950 --> 00:04:19,950
-[TV]
-Here he comes, here comes Speed Racer! He's a demon on wheels.  He's gaining on you so you better look alive.  He's busy revving up the powerful Mach Five --
-ລາວມາແລ້ວ, ຜູ້ແຂ່ງລົດຄວາມໄວມາແລ້ວ! ລາວເປັນໂຊກຮ້າຍຢູ່ເທິງລໍ້. ລາວ ກໍາ
-ລັງຊະນະເຈົ້າເພື່ອໃຫ້ເຈົ້າເບິ່ງດີກວ່າຊີວິດຢູ່. ລາວມີວຽກເຮັດງານທໍາໃນການເພີ່ມຄວາມໄວທີ່ເຂັ້ມແຂງ Mach ຫ້າ -
-
-60
-00:04:20,450 --> 00:04:26,450
-[SCUD]
-Whistler.  Cool beans.  Nice to meet you, man.  Heard a lot.  I'm Josh Frohmeyer.  You can call me Scud, though.  That's what most people do.
-ວີສລເຕີ. ຫມາກ ໄມ້ທີ່ເຢັນ. ດີໃຈທີ່ຮູ້ຈັກເຈົ້າແມ. ໄດ້ຍິນຫຼາຍ. ຂ້ອຍເປັນໂຈສ ຟຣູເມຍ.
-ເຈົ້າສາມາດເອີ້ນຂ້ອຍວ່າສກູດໄດ້, ເຖິງຢ່າງໃດກໍ່ຕາມ. ນັ້ນແມ່ນສິ່ງທີ່ຄົນສ່ວນໃຫຍ່ເຮັດ.
-
-61
-00:04:26,950 --> 00:04:28,950
-[WHISTLER]
-Tell me something, Skid --
-ບອກຂ້ອຍບາງສິ່ງບາງຢ່າງ, ສະກີດ -
-
-62
-00:04:29,450 --> 00:04:31,450
-[SCUD]
-Scud.
-ສະກດ.
-
-63
-00:04:31,950 --> 00:04:34,750
-[WHISTLER]
-Whatever --  What'd you do to the Charger?
-ເຖິງຢ່າງໃດກໍ່ຕາມ - ເຈົ້າເຮັດຫຍັງກັບເຄື່ອງສາກໄຟ?
-
-64
-00:04:35,250 --> 00:04:41,250
-[SCUD]
-The pimp-mobile?  Just made a few after market modifications.  Nitrous-oxide injection system, forged aluminum pistons and crankshaft, higher flowing fuel pump.
-ລົດໂມບິລ໌? ພຽງແຕ່ເຮັດສອງສາມຫຼັງຈາກການປັບປຸງຕະຫຼາດ. ລະບົບສີດນິດຣັສ-ໂອຊິດ,
-ປິດສຕັນອາລູມິນຽມທີ່ປອມແປງແລະກະດານຄຣານຄ໌, ເຄື່ອງປັ່ນປ່ວນເຊື້ອໄຟທີ່ໄຫຼສູງກວ່າ.
-
-65
-00:04:41,750 --> 00:04:44,550
-[WHISTLER]
-Gave it a more aggressive exhaust profile ramping.
-ໃຫ້ມັນມີໂປຣໄຟລ໌ອອກທີ່ຮຸນແຮງກວ່າເກົ່າ.
-
-66
-00:04:45,050 --> 00:04:48,900
-[SCUD]
-Fuck yeah.  Whole package'll crank this betty up another three-hundred horsepower.
-ແມ່ນແລ້ວ. ກະເປົາທັງ ຫມົດ
-ຈະເຮັດໃຫ້ແບຕຕີ້ນີ້ເພີ່ມພະລັງງານມ້າອີກສາມຮ້ອຍຄົນ.
-
-67
-00:04:49,400 --> 00:04:53,950
-[WHISTLER]
-And you'll burn the damn thing out before your next fucking oil change.
-ແລະເຈົ້າຈະເຜົາໄຫມ້ສິ່ງນັ້ນກ່ອນການປ່ຽນນ້ ໍາ ມັນຕໍ່ໄປ.
-
-68
-00:04:54,450 --> 00:04:56,900
-[WHISTLER]
-Where'd you dig up this shit-bird anyway?
-ເຈົ້າໄດ້ຂຸດເອົານົກຢອກຊື່ໆນີ້ຢູ່ໃສຢ່າງໃດກໍ່ຕາມ?
-
-69
-00:04:57,400 --> 00:04:59,400
-[SCUD]
-Look, what's your problem?
-ເບິ່ງ, ບັນຫາຂອງເຈົ້າແມ່ນຫຍັງ?
-
-70
-00:04:59,900 --> 00:05:05,900
-[WHISTLER]
-My problem, shitbird, is that I tried to blow my fucking head off and wound up sucking blood clots for the last year and a half!  Now you're standing there choking your chicken like we're all walking around some fucking candy-ass vampire sitcom!
-ບັນຫາຂອງຂ້ອຍ, ນົກສໍ້ໂກງ, ແມ່ນວ່າຂ້ອຍພະຍາຍາມລະເບີດຫົວຂອງຂ້ອຍແລະສິ້ນສຸດລົງການດູດເລືອດ clots ສໍາລັບປີທີ່ຜ່ານມາແລະເຄິ່ງຫນຶ່ງ
-! ດຽວນີ້ເຈົ້າຢືນຢູ່ບ່ອນນັ້ນບິດໄກ່ຂອງທ່ານຄືກັບວ່າພວກເຮົາທຸກຄົນ ກໍາ ລັງຍ່າງຢູ່ອ້ອມຂ້າງບາງ sitcom vampire ແຊກແຊງ!
-
-71
-00:05:06,400 --> 00:05:12,400
-[SCUD]
-Hey, you think I don't know what's at stake here?  We practically compromised our whole operation to save your puckered old ass!  And for what?
-ເຮ້, ເຈົ້າຄິດວ່າຂ້ອຍບໍ່ຮູ້ວ່າມີຫຍັງຢູ່ໃນອັນຕະລາຍຢູ່ນີ້ບໍ? ພວກເຮົາເກືອບສ່ຽງຕໍ່ການປະຕິບັດງານທັງ
-ຫມົດ ຂອງພວກເຮົາເພື່ອຊ່ວຍບາກເກົ່າທີ່ສໍ້ໂກງຂອງທ່ານ! ແລະ ສໍາ ລັບຫຍັງ?
-
-72
-00:05:12,900 --> 00:05:17,100
-[WHISTLER]
-Our operation?!  Our operation?!  I built this operation, you fucking turd stain.
-ການປະຕິບັດງານຂອງພວກເຮົາບໍ?! ການປະຕິບັດການຂອງພວກເຮົາບໍ?
-ຂ້ອຍໄດ້ສ້າງການປະຕິບັດງານນີ້, ເຈົ້າເປັນຂີ້ເຫຍື້ອທີ່ສໍ້ໂກງ.
-
-73
-00:05:17,600 --> 00:05:19,700
-[SCUD]
-Motion sensors.  Looks like Zone Three.
-ເຄື່ອງເຊັນເຊີການເຄື່ອນໄຫວ. ເບິ່ງຄືວ່າເປັນເຂດສາມ.
-
-74
-00:05:20,200 --> 00:05:22,200
-[BLADE]
-Human?
-ມະນຸດບໍ?
-
-75
-00:05:22,700 --> 00:05:25,500
-[SCUD]
-Body temp's fifty so I'll guess suck head.
-ອຸນຫະພູມຮ່າງກາຍແມ່ນຫ້າສິບ ສະນັ້ນຂ້ອຍຈະຄິດວ່າດູດຫົວ.
-
-76
-00:05:26,000 --> 00:05:29,850
-[SCUD]
-I don't understand, I'm not getting anything on the surveillance cams.
-ຂ້ອຍບໍ່ເຂົ້າໃຈ,
-ຂ້ອຍບໍ່ໄດ້ໄດ້ຮັບຫຍັງເລີຍໃນກ້ອງຖ່າຍຮູບການຕິດຕາມກວດກາ.
-
-77
-00:05:30,350 --> 00:05:36,350
-[WHISTLER]
-They're fried.  Whoever's out there is using magnesium flares.  Seems like they've got your security system stopped out pretty well.
-ພວກເຂົາຖືກຕົ້ມແລ້ວ. ໃຜຢູ່ພາຍນອກນັ້ນ ກໍາ ລັງໃຊ້ໄຟແມກນີຊຽມ
-. ເບິ່ງຄືວ່າພວກເຂົາມີລະບົບຄວາມປອດໄພຂອງທ່ານຢຸດລົງດີຫຼາຍ.
-
-78
-00:05:36,850 --> 00:05:41,750
-[SCUD]
-Whoa, whoa, easy cowboy - I'm not trusting you with a weapon just yet.
-ໂວ້, ໂວ່, ຄາວໂບຍທີ່ງ່າຍດາຍ -
-ຂ້ອຍຍັງບໍ່ເຊື່ອໃຈເຈົ້າດ້ວຍອາວຸດເທື່ອ.
-
-79
-00:05:42,250 --> 00:05:44,250
-[BLADE]
-Hit the God-lights.
-ແສງສະຫວ່າງຂອງພຣະເຈົ້າ.
-
-80
-00:05:44,750 --> 00:05:49,300
-[CLOSE ON FIGURES' FACES]
-They are wearing metal goggles with iris shut to mere pin prick openings.
-ພວກເຂົາໃສ່ແວ່ນຕາໂລຫະທີ່ມີ iris ປິດໃຫ້ພຽງແຕ່ເປີດປິນປິກ.
-
-81
-00:05:49,800 --> 00:05:55,800
-[THE FIRST LATEX CLAD FIGURE]
-Who is now removing something from a satchel.  Whistler FIRES.  The Intruder drops the object and cartwheels away.
-ຜູ້ທີ່ດຽວນີ້ ກໍາ ລັງເອົາບາງສິ່ງບາງຢ່າງອອກຈາກກະເປົາ
-. Whistler ໄຟ. ຜູ້ເຂົ້າມາຖິ້ມວັດຖຸແລະລົດຈັກໄປ.
-
-82
-00:05:56,300 --> 00:05:59,100
-[ON BLADE]
-Unsheathing his sword, rushing at the First Intruder.
-ເປີດກະທູ້ຂອງລາວ, ແລ່ນໄປຫາຜູ້ເຂົ້າມາຄັ້ງ ທໍາ ອິດ.
-
-83
-00:05:59,600 --> 00:06:01,600
-[BLADE]
-Take off your masks.
-ເອົາ ຫນ້າ ກາກຂອງທ່ານອອກ.
-
-84
-00:06:02,100 --> 00:06:08,100
-[ASAD]
-My name is Asad.  This is Nyssa.  We represent the Shadow Cabinet.  The ruling body of Vampire nation.  They're offering you a truce.  They want to meet with you.
-ຂ້ອຍຊື່ວ່າອາຊາດ. ນີ້ແມ່ນນິສຊາ. ພວກເຮົາເປັນຕົວແທນຂອງກະຊວງເງົາ. ອົງກອນປົກຄອງຂອງປະເທດແວມປີ
-. ພວກເຂົາ ກໍາ ລັງສະ ເຫນີ ໃຫ້ເຈົ້າຢຸດເຊົາ. ພວກເຂົາຢາກພົບກັບເຈົ້າ.
-
-85
-00:06:08,600 --> 00:06:10,600
-[SCUD]
-Bullshit.
-ໂຊກຮ້າຍ.
-
-86
-00:06:11,100 --> 00:06:17,100
-[NYSSA]
-For decades you've been the thing we've feared the most.  But there's something else loose on the streets now --
-ເປັນເວລາຫຼາຍສິບປີແລ້ວເຈົ້າເປັນສິ່ງທີ່ພວກເຮົາຢ້ານກົວທີ່ສຸດ
-. ແຕ່ມີບາງສິ່ງບາງຢ່າງອື່ນທີ່ວ່າງຢູ່ໃນຖະຫນົນຫົນທາງດຽວນີ້ -
-
-87
-00:06:17,600 --> 00:06:23,600
-[CLOSE ON]
-The final still.  A blurry, horrific shot of Nomak's half turned face and back.  We get a sense of distorted, inhuman physiognomy.
-ການສິ້ນສຸດລົງຍັງຄົງຢູ່. ການຖ່າຍຮູບທີ່ສັບສົນ, ທີ່ຮ້າຍແຮງຂອງເຄິ່ງຫນຶ່ງຂອງໂນມາກຫັນຫນ້າແລະຫຼັງ
-. ພວກເຮົາໄດ້ຮັບຄວາມຮູ້ສຶກຂອງ physiognomy ທີ່ສໍ້ໂກງ, ບໍ່ເປັນມະນຸດ.
-
-88
-00:06:24,100 --> 00:06:26,100
-[NYSSA]
-Something worse than you.
-ບາງສິ່ງບາງຢ່າງທີ່ຮ້າຍແຮງກວ່າເຈົ້າ.
-
-89
-00:06:26,600 --> 00:06:30,450
-[SCUD]
-This whole deal's giving me a serious case of the butt-willies.
-ຂໍ້ຕົກລົງທັງ ຫມົດ ນີ້ ກໍາ
-ລັງເຮັດໃຫ້ຂ້ອຍເປັນກໍລະນີທີ່ຮ້າຍແຮງຂອງຄົນໂຊກຮ້າຍ.
-
-90
-00:06:30,950 --> 00:06:36,950
-[WHISTLER]
-Look, kid, they obviously found your base of operations.  If it was a trap, why flip their dicks by announcing themselves?
-ເບິ່ງແມ, ເດັກນ້ອຍ, ພວກເຂົາແນ່ນອນວ່າພົບຖານປະຕິບັດງານຂອງທ່ານ.
-ຖ້າມັນເປັນແຄບ, ເປັນຫຍັງຈຶ່ງຫັນທ້ອງຂອງພວກເຂົາໂດຍປະກາດຕົວເອງ?
-
-91
-00:06:37,450 --> 00:06:43,450
-[BLADE]
-I agree.  We play along for now, we might wind up learning something about how their world ticks.
-ຂ້ອຍເຫັນດີ. ພວກເຮົາຫຼິ້ນຮ່ວມກັນໃນເວລານີ້,
-ພວກເຮົາອາດຈະສິ້ນສຸດລົງການຮຽນຮູ້ບາງສິ່ງບາງຢ່າງກ່ຽວກັບວິທີການໂລກຂອງພວກເຂົາ.
-
-92
-00:06:43,950 --> 00:06:46,050
-[WHISTLER]
-Either that or feeding the worms.
-ນັ້ນຫຼືການໃຫ້ອາຫານແມງໄມ້.
-
-93
-00:06:46,550 --> 00:06:48,650
-[ASAD]
-They're ready to see you now.
-ພວກເຂົາພ້ອມແລ້ວທີ່ຈະເຫັນເຈົ້າດຽວນີ້.
-
-94
-00:06:49,150 --> 00:06:51,150
-[BLADE]
-What?
-ຫຍັງ?
-
-95
-00:06:51,650 --> 00:06:57,650
-[NYSSA]
-They tell bedtime stories about you. Blade the big, bad boogie-man.  Frankly, I'm disappointed.  That you were willing to come along so easily, I mean.  Without any assurances.
-ພວກເຂົາບອກເລື່ອງກ່ອນນອນກ່ຽວກັບເຈົ້າ. ບເລດຜູ້ຊາຍບູຈີທີ່ໃຫຍ່ແລະບໍ່ດີ. ໂດຍກົງ, ຂ້ອຍຜິດຫວັງ
-. ວ່າເຈົ້າພ້ອມທີ່ຈະມາພ້ອມຢ່າງງ່າຍດາຍຫຼາຍ, ຂ້ອຍຫມາຍຄວາມວ່າ. ໂດຍບໍ່ມີການຮັບປະກັນໃດໆ.
-
-96
-00:06:58,150 --> 00:07:02,350
-[BLADE]
-Semtex explosive.  Enough to level a city block.  How's that for assurance?
-ລະເບີດເຊມເທັກສ໌. ພຽງພໍທີ່ຈະເຮັດໃຫ້ບລັອກເມືອງເທົ່າທຽມກັນ
-. ນັ້ນເປັນແນວໃດ ສໍາ ລັບການຮັບປະກັນ?
-
-97
-00:07:02,850 --> 00:07:08,800
-[A FINAL DOOR]
-Oak, set into a stainless steel wall.  Incalculably ancient, elaborately carved.  Brought over from the "Old World."
-Oak, ຖືກວາງໄວ້ໃນກໍາແພງເຫຼັກສະແຕນເລດ. ບູຮານທີ່ບໍ່ສາມາດຄິດໄລ່ໄດ້
-, ຖືກຕັດຢ່າງລະອຽດ. ນໍາມາຈາກ"ໂລກເກົ່າ".
-
-98
-00:07:09,300 --> 00:07:15,300
-[NYSSA]
-The House of Erebus you encountered before were nothing but feudal lords. The true power of the Vampire Nation lies here --
-ເຮືອນຂອງເອເຣບັສທີ່ທ່ານພົບກັນກ່ອນແມ່ນບໍ່ມີຫຍັງນອກຈາກເຈົ້າຂອງຊົນເຜົ່າ
-. ອໍານາດທີ່ແທ້ຈິງຂອງຊາດແວມປີແມ່ນຢູ່ບ່ອນນີ້ -
-
-99
-00:07:15,800 --> 00:07:18,600
-[ASAD]
-Few warmbloods have seen what's beyond this door.
-ມີເລືອດອຸ່ນບາງຄົນໄດ້ເຫັນສິ່ງທີ່ຢູ່ພາຍນອກປະຕູນີ້.
-
-100
-00:07:19,100 --> 00:07:21,100
-[NYSSA]
-Father --
-ພໍ່ -
-
-101
-00:07:21,600 --> 00:07:27,600
-[DAMASKINOS]
-I hope you don't mind the cold.  When one such as myself reaches an advanced age, certain precautions are needed in order to preserve the flesh.
-ຂ້ອຍຫວັງວ່າເຈົ້າບໍ່ສົນໃຈຄວາມເຢັນ. ເມື່ອຄົນເຊັ່ນຂ້ອຍບັນລຸອາຍຸສູງ
-, ການລະມັດລະວັງບາງຢ່າງແມ່ນຕ້ອງການເພື່ອຮັກສາຊີ້ນ.
-
-102
-00:07:28,100 --> 00:07:30,200
-[ASAD]
-Blade, this is Overlord Eli Damaskinos.
-ບເລດ, ນີ້ແມ່ນຜູ້ປົກຄອງ Eli Damaskinos.
-
-103
-00:07:30,700 --> 00:07:36,650
-[DAMASKINOS]
-Welcome, Daywalker.  I thank you for coming.  I've been anxious to meet you for quite some time.
-ຍິນດີຕ້ອນຮັບ, Daywalker. ຂ້ອຍຂອບໃຈເຈົ້າທີ່ມາ. ຂ້ອຍ
-ກໍາ ລັງກັງວົນທີ່ຈະພົບເຈົ້າເປັນເວລາດົນນານແລ້ວ.
-
-104
-00:07:37,150 --> 00:07:42,050
-[DAMASKINOS]
-And the late Abraham Whistler.  I trust your time amongst our numbers was agreeable?
-ແລະອາບຣາຮາມ ວີສລເຕີທີ່ຕາຍແລ້ວ.
-ຂ້ອຍເຊື່ອວ່າເວລາຂອງທ່ານໃນລະຫວ່າງຕົວເລກຂອງພວກເຮົາແມ່ນຍອມຮັບໄດ້ບໍ?
-
-105
-00:07:42,550 --> 00:07:48,550
-[DAMASKINOS]
-It has been said, you may have enemies whom you hate, but not enemies whom you despise.  Be proud of your enemy: then his success shall be yours, too.  In that regard, I should thank you.
-ມັນໄດ້ຖືກເວົ້າໄວ້ວ່າ, ເຈົ້າອາດຈະມີສັດຕູທີ່ທ່ານກຽດຊັງ, ແຕ່ບໍ່ແມ່ນສັດຕູທີ່ເຈົ້າປະຫມາດ.
-ມີຄວາມພາກພູມໃຈກັບສັດຕູຂອງທ່ານ: ຫຼັງຈາກນັ້ນຄວາມສໍາເລັດຂອງລາວຈະເປັນຂອງເຈົ້າເຊັ່ນກັນ. ໃນເລື່ອງນັ້ນ, ຂ້ອຍຄວນຂອບໃຈທ່ານ.
-
-106
-00:07:49,050 --> 00:07:51,050
-[BLADE]
-For what?
-ສໍາລັບຫຍັງ?
-
-107
-00:07:51,550 --> 00:07:53,550
-[STEVENS]
-Eliminating Deacon Frost.
-ການ ກໍາ ຈັດ Deacon Frost.
-
-108
-00:07:54,050 --> 00:07:58,600
-[STEVENS]
-All that unseemly business with LaMagra. You did us a favor.  Carter Stevens.
-ການເຮັດທຸລະກິດທີ່ບໍ່ເຫມາະສົມທັງ ຫມົດ ກັບ LaMagra
-. ເຈົ້າເຮັດຄວາມສະດວກໃຫ້ພວກເຮົາ. ຄາເຕີ ສຕິເວນສ໌.
-
-109
-00:07:59,100 --> 00:08:01,100
-[BLADE]
-You're human.
-ເຈົ້າເປັນມະນຸດ.
-
-110
-00:08:01,600 --> 00:08:03,600
-[STEVENS]
-Barely.  I'm a lawyer.
-ເກືອບບໍ່. ຂ້ອຍເປັນທະນາຍຄວາມ.
-
-111
-00:08:04,100 --> 00:08:10,100
-[ASAD]
-Mr. Stevens works with the National Institute of Health.  Given that they monitor the nation's blood supply, a strategic alliance seemed prudent.
-ທ້າວສຕິເວນສ໌ເຮັດວຽກກັບສະຖາບັນສຸຂະພາບແຫ່ງຊາດ. ເນື່ອງຈາກວ່າພວກເຂົາຕິດຕາມການສະ
-ຫນອງ ເລືອດຂອງປະເທດ, ພັນທະມິດຍຸດທະສາດເບິ່ງຄືວ່າມີຄວາມລະມັດລະວັງ.
-
-112
-00:08:10,600 --> 00:08:16,600
-[STEVENS]
-We also finance a number of humanitarian organizations -- the National Institute of Infectious Diseases for one, the Human Genome Project...
-ພວກເຮົາຍັງສະຫນອງທຶນໃຫ້ແກ່ອົງການມະນຸດສະທໍາຈໍານວນຫນຶ່ງ -
-ສະຖາບັນແຫ່ງຊາດຂອງພະຍາດຕິດຕໍ່ສໍາລັບຫນຶ່ງ, ໂຄງການຈີໂນມມະນຸດ...
-
-113
-00:08:17,100 --> 00:08:19,100
-[BLADE]
-Why?
-ເປັນຫຍັງ?
-
-114
-00:08:19,600 --> 00:08:21,600
-[NYSSA]
-Survival.
-ການລອດຊີວິດ.
-
-115
-00:08:22,100 --> 00:08:28,100
-[NYSSA]
-As you may know, Vampirism is an arbovirus, one that's spread through the saliva of parasitic organisms --  In this case, vampires are the vector. The virus replicates within the human bloodstream, evolving its host into an entirely new life-form.  Unfortunately, viruses evolve too --
-ດັ່ງທີ່ທ່ານອາດຈະຮູ້ແລ້ວ, Vampirism ແມ່ນໄວຣັສ arbovirus, ຫນຶ່ງ ທີ່ແຜ່ກະຈາຍຜ່ານນ້ ໍາ ມັນຂອງສັດຕູພືດ - ໃນກໍລະນີນີ້, ວາມປິຣ໌ແມ່ນຜູ້ສົ່ງເຊື້ອ
-. ໄວຣັດ replicates ໃນໄຫຼ່ເລືອດຂອງມະນຸດ, ການພັດທະນາເຈົ້າພາບຂອງຕົນເປັນຮູບແບບຊີວິດໃຫມ່ຢ່າງສົມບູນແບບ. ໂຊກຮ້າຍ, ໄວໂຣສພັດທະນາເຊັ່ນກັນ -
-
-116
-00:08:28,600 --> 00:08:34,600
-[NYSSA]
-We've dubbed this new virus the Reaper Strain.  And like any good pathogen, it appears to have found a carrier -- a "Patient Zero".
-ພວກເຮົາໄດ້ເອີ້ນໄວຣັສ ໃຫມ່ ນີ້ວ່າສາຍພັນ Reaper. ແລະຄືກັບເຊື້ອພະຍາດທີ່ດີໃດໆ
-, ມັນເບິ່ງຄືວ່າໄດ້ພົບຜູ້ຖື - ເປັນ"ຄົນເຈັບ Zero".
-
-117
-00:08:35,100 --> 00:08:37,100
-[NYSSA]
-His name is Jared Nomak.
-ຊື່ລາວແມ່ນເຈຣດ ໂນມາກ.
-
-118
-00:08:37,600 --> 00:08:43,600
-[DAMASKINOS]
-Thiavolos, as we used to say in Greece. The Devil.  Pure Thirst.  Nothing more. He was born a vampire, but he is an anomaly.  Like you.  Unlike the rest of us, however, he feeds on not just humans, but vampires as well.
-Thiavolos, ດັ່ງທີ່ພວກເຮົາເຄີຍເວົ້າໃນປະເທດເກຣັກ. ຊາຕານ. ຄວາມດອກດື່ມທີ່ບໍລິສຸດ. ບໍ່ມີຫຍັງອີກ. ລາວເກີດເປັນແວມປີ,
-ແຕ່ລາວເປັນຄວາມຜິດປົກກະຕິ. ຄືກັບເຈົ້າ. ແຕກຈາກພວກເຮົາຄົນອື່ນ, ເຖິງຢ່າງໃດກໍ່ຕາມ, ລາວກິນບໍ່ພຽງແຕ່ມະນຸດເທົ່ານັ້ນ, ແຕ່ແວມປີເຊັ່ນກັນ.
-
-119
-00:08:44,100 --> 00:08:46,900
-[BLADE]
-Seems like he's doing me a favor, then.
-ມັນເບິ່ງຄືວ່າລາວ ກໍາ ລັງເຮັດຄວາມສະດວກໃຫ້ຂ້ອຍ, ຫຼັງຈາກນັ້ນ.
-
-120
-00:08:47,400 --> 00:08:53,400
-[NYSSA]
-You're missing the point.  Their vampire victims don't die.  They turn.  They become carriers.  If the Reapers continue unchecked, there could be thousands of them before the month is over.  Do the math.
-ເຈົ້າ ກໍາ ລັງພາດຈຸດນັ້ນ. ຜູ້ເຄາະຮ້າຍແວມປີຂອງພວກເຂົາບໍ່ຕາຍ. ພວກເຂົາຫັນໄປ. ພວກເຂົາກາຍເປັນຜູ້ຂົນສົ່ງ
-. ຖ້າຜູ້ເກັບກ່ຽວສືບຕໍ່ບໍ່ຖືກກວດກາ, ມັນອາດຈະມີຫຼາຍພັນຄົນກ່ອນເດືອນຈະສິ້ນສຸດລົງ. ເຮັດການຄິດໄລ່.
-
-121
-00:08:53,900 --> 00:08:56,700
-[BLADE]
-You want me to hunt them for you.
-ເຈົ້າຢາກໃຫ້ຂ້ອຍລ່າພວກມັນ ສໍາ ລັບເຈົ້າ.
-
-122
-00:08:57,200 --> 00:08:59,200
-[DAMASKINOS]
-Not alone.
-ບໍ່ແມ່ນຄົນດຽວ.
-
-123
-00:08:59,700 --> 00:09:05,300
-[ASAD]
-We've been training a small tactical unit -- the Bloodpack.  We want you to lead them.
-ພວກເຮົາ ກໍາ ລັງຝຶກອົບຮົມ ຫນ່ວຍ ງານການປະຕິບັດງານນ້ອຍໆ
-- ກະເປົາເລືອດ. ພວກເຮົາຢາກໃຫ້ເຈົ້າ ນໍາ ພາພວກເຂົາ.
-
-124
-00:09:05,800 --> 00:09:10,000
-[WHISTLER]
-Just how long has this little social club of yours been together?
-ສະໂມສອນສັງຄົມນ້ອຍໆຂອງເຈົ້າຢູ່ຮ່ວມກັນດົນປານໃດ?
-
-125
-00:09:10,500 --> 00:09:12,500
-[NYSSA]
-Two years.
-ສອງປີ.
-
-126
-00:09:13,000 --> 00:09:16,500
-[BLADE]
-Then they weren't created to go after your "patient zero".
-ຫຼັງຈາກນັ້ນພວກເຂົາບໍ່ໄດ້ສ້າງຂຶ້ນເພື່ອໄປຕາມ"ຄົນເຈັບສູນກາງ"
-ຂອງທ່ານ.
-
-127
-00:09:17,000 --> 00:09:19,450
-[NYSSA]
-No.  They've been training to hunt you.
-ບໍ່. ພວກເຂົາ ກໍາ ລັງຝຶກອົບຮົມເພື່ອລ່າເຈົ້າ.
-
-128
-00:09:19,950 --> 00:09:21,950
-[BLADE]
-What do you think?
-ເຈົ້າຄິດແນວໃດ?
-
-129
-00:09:22,450 --> 00:09:24,450
-[WHISTLER]
-Sounds like a plan.
-ມັນເບິ່ງຄືວ່າເປັນແຜນການ.
-
-130
-00:09:24,950 --> 00:09:26,950
-[BLADE]
-What do you really think?
-ເຈົ້າຄິດແນວໃດແທ້ໆ?
-
-131
-00:09:27,450 --> 00:09:33,450
-[WHISTLER]
-These guys are shitting bricks cause they're no longer on the top of the food chain.  They're going to fuck us the first chance they get.
-ພວກຄົນເຫຼົ່ານີ້ ກໍາ ລັງສໍ້ໂກງຕີນເພາະວ່າພວກເຂົາບໍ່ໄດ້ຢູ່ເທິງສຸດຂອງຕ່ອງໂສ້ອາຫານອີກແລ້ວ
-. ພວກເຂົາຈະຟັກພວກເຮົາໃນໂອກາດ ທໍາ ອິດທີ່ພວກເຂົາໄດ້ຮັບ.
-
-132
-00:09:33,950 --> 00:09:36,050
-[SCUD]
-So you're going to do this?
-ເຈົ້າຈະເຮັດແບບນີ້ບໍ?
-
-133
-00:09:36,550 --> 00:09:41,450
-[BLADE]
-Keep your friends close and your enemies closer.  Isn't that how the saying goes?
-ຮັກສາເພື່ອນມິດຂອງທ່ານຢູ່ໃກ້ໆແລະສັດຕູຂອງທ່ານໃກ້ຊິດ
-. ນັ້ນບໍ່ແມ່ນວິທີທີ່ຄໍາເວົ້າເວົ້າ?
-
-134
-00:09:41,950 --> 00:09:47,950
-[SCUD]
-I'm worried about him.  Look, I know he's your friend, but just watch him, okay?  Nobody goes cold Turkey from the Thirst in a night.
-ຂ້ອຍກັງວົນກ່ຽວກັບລາວ. ເບິ່ງ, ຂ້ອຍຮູ້ວ່າລາວເປັນເພື່ອນຂອງທ່ານ,
-ແຕ່ພຽງແຕ່ເບິ່ງແຍງລາວ, ດີບໍ? ບໍ່ມີໃຜຈະເຢັນຕຸລະກີຈາກຄວາມດອກດອກໃນຄືນດຽວ.
-
-135
-00:09:48,450 --> 00:09:54,450
-[BACK ON WHISTLER]
-Surrounded by the salvaged parts and massive gears of long discarded machinery, half-hidden in shadow.  A shaft of morning sunlight cuts in through one of the windows, slowly moving across the floor towards his position.  He shifts in his chair, moving slightly --
-ອ້ອມແອ້ມດ້ວຍສ່ວນທີ່ຖືກຊ່ວຍເຫຼືອແລະເຄື່ອງຈັກທີ່ໃຫຍ່ຫຼວງຂອງກົນຈັກທີ່ຖືກຖິ້ມໄວ້ເປັນເວລາດົນນານ, ເຄິ່ງເຊື່ອງໄວ້ໃນເງົາ.
-ກະດານແສງຕາເວັນຕອນເຊົ້າຕັດເຂົ້າໄປໃນ ຫນຶ່ງ ໃນປ່ອງຢ້ຽມ, ເຄື່ອນຍ້າຍຊ້າຂ້າມພື້ນໄປສູ່ ຕໍາ ແຫນ່ງ ຂອງລາວ. ລາວປ່ຽນໃນຕັ່ງຂອງລາວ, ຍ້າຍເລັກນ້ອຍ -
-
-136
-00:09:54,950 --> 00:10:00,950
-[A CAR]
-pull up to the pumps outside.  A MAN gets out, slides his credit card through the reader, starts pumping gas.
-ຢຸດໄປຫາປັມບໍາພາຍນອກ. ຜູ້ຊາຍຄົນຫນຶ່ງອອກໄປ,
-ສະລອຍບັດເຄຣດິດຂອງລາວຜ່ານເຄື່ອງອ່ານ, ເລີ່ມສູບແກັສ.
-
-137
-00:10:01,450 --> 00:10:07,450
-[ON THE SECOND MONITOR]
-We SEE a FIGURE standing at the back by the Slurpee machine. The figure turns, approaching.  It's Nomak.  He sets a package of gum on the counter, looks to the baby.  He smiles, wriggles his finger.  The child COOS and smiles back.
-ພວກເຮົາເຫັນຮູບຮ່າງຢືນຢູ່ດ້ານຫຼັງຢູ່ຂ້າງເຄື່ອງ Slurpee. ຮູບຮ່າງຫັນໄປ, ໃກ້ຊິດ. ມັນແມ່ນໂນມາກ. ລາວວາງຊຸດຂອງ
-gum ຢູ່ເທິງໂຕະ, ເບິ່ງເດັກນ້ອຍ. ລາວມ່ວນຊື່ນ, ຍືດນິ້ວມືຂອງລາວ. ເດັກນ້ອຍ COOS ແລະມ່ວນກັບຄືນໄປບ່ອນ.
-
-138
-00:10:07,950 --> 00:10:12,150
-[THE FIRST MONITOR]
-The car is still there, but the man pumping gas is gone.
-ລົດຍັງຢູ່ບ່ອນນັ້ນ, ແຕ່ຜູ້ຊາຍທີ່ປັ່ນປ່ວນແກັສຫາຍໄປແລ້ວ.
-
-139
-00:10:12,650 --> 00:10:18,650
-[A GHOSTLY FIGURE]
-Standing off in the fog-bound shadows.  The woman looks back to the mini-mart, then back again to where the figure was standing.  But the figure is gone!  Growing increasingly anxious, the woman hurries back.
-ຢືນຢູ່ຫ່າງຈາກເງົາທີ່ຕິດພັນກັບຫມອກ. ແມ່ຍິງເບິ່ງກັບຄືນໄປບ່ອນຮ້ານຂາຍເຄື່ອງນ້ອຍໆ,
-ຫຼັງຈາກນັ້ນກັບມາອີກບ່ອນທີ່ຮູບພາບຢືນຢູ່. ແຕ່ຮູບພາບໄດ້ຫາຍໄປແລ້ວ! ກໍາ ລັງກັງວົນຫຼາຍຂຶ້ນ, ແມ່ຍິງແລ່ນກັບມາ.
-
-140
-00:10:19,150 --> 00:10:25,150
-[NOMAK]
-He smiles cruelly, the scar/seam in his chin just beginning to part.  The woman gasps, turns to run --
-ລາວມ່ວນຊື່ນຢ່າງໂຊກຮ້າຍ, ກະດູກ /
-ເຊືອກໃນຈານຂອງລາວພຽງແຕ່ເລີ່ມຕົ້ນແຍກອອກ. ແມ່ຍິງຫາຍໃຈ, ຫັນໄປແລ່ນ -
-
-141
-00:10:25,650 --> 00:10:27,650
-[SCUD]
-Um, we've got company.
-ອູມ, ພວກເຮົາມີຄົນຢູ່.
-
-142
-00:10:28,150 --> 00:10:34,150
-[NYSSA AND BLOODPACK]
-Stand before us.  They represent an assortment of ages and races, their one unifying characteristic being a callous, almost fanatical disregard for human life.  In short, these guys are the most stone-cold motherfuckers we've ever seen.
-ຢືນຢູ່ຕໍ່ຫນ້າພວກເຮົາ. ພວກເຂົາສະແດງໃຫ້ເຫັນຄວາມຫຼາກຫຼາຍຂອງອາຍຸແລະເຊື້ອຊາດ, ຄຸນລັກສະນະທີ່ເປັນເອກະພາບຂອງພວກເຂົາແມ່ນການບໍ່ສົນໃຈຊີວິດມະນຸດຢ່າງບໍ່ມີຄວາມຮູ້ສຶກ
-, ເກືອບເປັນແຟນຕິກ. ໃນສັ້ນ, ພວກຜູ້ຊາຍເຫຼົ່ານີ້ແມ່ນຄົນຢອກຊື່ໆຮ້າຍທີ່ເຢັນທີ່ສຸດທີ່ພວກເຮົາເຄີຍເຫັນ.
-
-143
-00:10:34,650 --> 00:10:38,150
-[WHISTLER]
-Well if it isn't Snow White and the Seven Suckheads.
-ດີຖ້າມັນບໍ່ແມ່ນສີຂາວຫິມະແລະຫົວສູດເຈັດຫົວ.
-
-144
-00:10:38,650 --> 00:10:40,750
-[REINHARDT]
-Check it out, troops.  Count Chocula.
-ເບິ່ງມັນແມ, ທະຫານ. Count Chocula.
-
-145
-00:10:41,250 --> 00:10:45,100
-[ASAD]
-Blade, this is Reinhardt.  That's Snowman, Lighthammer, Priest, Chupa and Verlaine.
-ບເລດ, ນີ້ແມ່ນຣາຍນຮາດຕ໌. ນັ້ນແມ່ນຄົນຫິມະ
-, ກະດານແສງສະຫວ່າງ, ພະສົງ, ຈູປາແລະເວີເລນ.
-
-146
-00:10:45,600 --> 00:10:48,050
-[REINHARDT]
-Tell me something, Chief.  Can you blush?
-ບອກຂ້ອຍບາງສິ່ງບາງຢ່າງ, ຫົວຫນ້າ. ເຈົ້າສາມາດສີດໍາໄດ້ບໍ?
-
-147
-00:10:48,550 --> 00:10:51,000
-[BLADE]
-Alright, you want to play this game?
-ດີແລ້ວ, ເຈົ້າຢາກຫຼິ້ນເກມນີ້ບໍ?
-
-148
-00:10:51,500 --> 00:10:57,500
-[BLADE]
-You've been training two years to take me out.  Here I am, the big, bad vampire hunter.  So do it.
-ເຈົ້າ ກໍາ ລັງຝຶກອົບຮົມສອງປີເພື່ອເອົາຂ້ອຍອອກ.
-ຂ້ອຍຢູ່ບ່ອນນີ້, ຜູ້ລ່າແວມປີໃຫຍ່ແລະບໍ່ດີ. ສະນັ້ນເຮັດມັນ.
-
-149
-00:10:58,000 --> 00:11:00,450
-[NYSSA]
-What the hell are you doing, Blade?
-ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່, ບເລດ?
-
-150
-00:11:00,950 --> 00:11:06,950
-[BLADE]
-We're going to be working as a unit, you people will be taking orders from me.  So let's get it over with.  I'll give you a free shot, Reinhardt.
-ພວກເຮົາຈະເຮັດວຽກເປັນຫນ່ວຍງານ, ພວກເຈົ້າຈະຮັບຄໍາສັ່ງຈາກຂ້ອຍ.
-ສະນັ້ນພວກເຮົາຈະສິ້ນສຸດລົງດ້ວຍມັນ. ຂ້ອຍຈະໃຫ້ເຈົ້າໂອກາດຟຣີ, ຣາຍນຮາດ.
-
-151
-00:11:07,450 --> 00:11:12,700
-[BLADE]
-Why are you looking at her for?  You need permission?   I'm giving it to you.
-ເຈົ້າເບິ່ງນາງເປັນຫຍັງ? ເຈົ້າຕ້ອງການອະນຸຍາດບໍ
-? ຂ້ອຍ ກໍາ ລັງໃຫ້ມັນໃຫ້ເຈົ້າ.
-
-152
-00:11:13,200 --> 00:11:15,200
-[CHUPA]
-Take him, cabron!
-ເອົາລາວ, ຄາບຣອນ!
-
-153
-00:11:15,700 --> 00:11:18,500
-[BLADE]
-What's wrong, Reinhardt?  You need a fucking manual?
-ມີຫຍັງເກີດຂຶ້ນ, ຣາຍນຮາດຕ໌? ເຈົ້າຕ້ອງການຄູ່ມືບໍ?
-
-154
-00:11:19,000 --> 00:11:21,000
-[VERLAINE]
-Do it, Reinhardt.  Do it!!!
-ເຮັດມັນ, ຣາຍນຮາດຕ໌. ເຮັດມັນ!!!
-
-155
-00:11:21,500 --> 00:11:27,500
-[BLADE]
-Listen up, Adolph, I just popped an explosive charge in the back of your head.  Silver nitrate.  Rigged to blow if anyone tampers with it.  I'll be keeping the detonator on me at all times.  You so much as look at me crosswise and I swear you'll be macking your girlfriend's pie with a fucking neck stump!  Got it?!
-ຟັງຟັງ, ອາໂດລຟ໌, ຂ້ອຍຫາກໍ່ລະເບີດໂຊກແຊງໃນດ້ານຫຼັງຂອງຫົວຂອງທ່ານ. ນິດຣາທຊີລເວີ. ຖືກກໍານົດໄວ້ເພື່ອພັດ if ໃຜກະທໍາຜິດກັບມັນ. ຂ້ອຍຈະຮັກສາ
-detonator ຢູ່ເທິງຂ້ອຍຕະຫຼອດເວລາ. ເຈົ້າພຽງແຕ່ເບິ່ງຂ້ອຍຂ້າມແລະຂ້ອຍສາບານໂຕວ່າເຈົ້າຈະເຮັດ pie ຂອງແຟນຂອງທ່ານດ້ວຍກະດູກຄໍ! ເຂົ້າໃຈບໍ?!
-
-156
-00:11:28,000 --> 00:11:30,000
-[BLADE]
-Any questions?
-ມີຄໍາຖາມໃດບໍ?
-
-157
-00:11:30,500 --> 00:11:36,500
-[WHISTLER]
-Hefting a heavy ordnance case on the table.  Blade and company sit on one side, the Bloodpack on the other.
-ການຍົກກະເປົາລູກປືນຫນັກໃສ່ໂຕະ. ກະເປົາແລະບໍລິສັດນັ່ງຢູ່ຂ້າງຫນຶ່ງ
-, ກະເປົ໋າເລືອດຢູ່ອີກດ້ານຫນຶ່ງ.
-
-158
-00:11:37,000 --> 00:11:43,000
-[WHISTLER]
-Glaser safety rounds in .38, .45, and 9mm caliber.  Foil capsules at the tip filled with silver nitrate grains.  They pack a major kinetic energy dump.  And since you suckheads don't like sunlight, we've modified the entry lights with UV filters --
-ການຫມູນວຽນຄວາມປອດໄພຂອງແກ້ວໃນ.38,.45, ແລະ 9 ມມ. ຄາບຊູນແຜ່ນໃນຈຸດທີ່ເຕັມໄປດ້ວຍເມັດໄນທຣາດເງິນ.
-ພວກເຂົາບັນຈຸການຖິ້ມພະລັງງານເຄື່ອນໄຫວທີ່ໃຫຍ່ຫຼວງ. ແລະເພາະວ່າເຈົ້າຄົນສູບບໍ່ມັກແສງແດດ, ພວກເຮົາໄດ້ປັບປ່ຽນແສງເຂົ້າດ້ວຍເຄື່ອງກັ່ນຕອງ UV -
-
-159
-00:11:43,500 --> 00:11:49,500
-[WHISTLER]
-This puppy here?  Hyper-velocity railgun.  Spits up silver-tipped iron core needles at six thousand butt humping feet per second.  Like this --
-ຫມາແມວນີ້ຢູ່ບ່ອນນີ້ບໍ? ປືນລົດໄຟຄວາມໄວສູງ.
-ປາກກະດານຫຼັກເຫຼັກທີ່ມີຈຸດເງິນໃນຫົກພັນຕີນທີ່ຍ່າງຕໍ່ວິນາທີ. ດັ່ງນີ້ -
-
-160
-00:11:50,000 --> 00:11:52,100
-[CHUPA]
-Hey, hey!  The fuck you doing?!
-ເຮ້, ເຮ້! ເຈົ້າເຮັດຫຍັງຢູ່ບໍ?!
-
-161
-00:11:52,600 --> 00:11:54,600
-[WHISTLER]
-Getting your attention, Paco.
-ຂ້ອຍ ກໍາ ລັງດຶງດູດຄວາມສົນໃຈຂອງທ່ານ, Paco.
-
-162
-00:11:55,100 --> 00:12:00,350
-[CHUPA]
-Well you've got it, warmblood.  Now what the fuck are you gonna do with it?
-ເຈົ້າໄດ້ມັນແລ້ວ, ເລືອດອົບອຸ່ນ. ດຽວນີ້ເຈົ້າຈະເຮັດຫຍັງກັບມັນ?
-
-163
-00:12:00,850 --> 00:12:04,700
-[BLADE]
-If you girls are finished flirting, I'd like to get started.
-ຖ້າເຈົ້າສາວໄດ້ສິ້ນສຸດການຟລິຕຕ໌ແລ້ວ, ຂ້ອຍຢາກເລີ່ມຕົ້ນ.
-
-164
-00:12:05,200 --> 00:12:11,200
-[MOMENTS LATER]
-Blade, Whistler, and the Bloodpack are silently suiting up for war -- strapping on body armor, securing stakes and knives, CLICKING ammo cartridges into their various weapons.
-ບເລດ, ວີສລເຕີ, ແລະກະເປົາເລືອດ ກໍາ ລັງກຽມພ້ອມຢ່າງງຽບສະຫງົບ ສໍາ ລັບສົງຄາມ -
-ຕິດໃສ່ກະເປົ໋າປ້ອງກັນຮ່າງກາຍ, ປ້ອງກັນກະຕ່າແລະມີດຕັດ, ຄລິກກະຕູ້ລູກປືນເຂົ້າໄປໃນອາວຸດຕ່າງໆຂອງພວກເຂົາ.
-
-165
-00:12:11,700 --> 00:12:13,700
-[BLADE]
-Didn't I kill you already?
-ຂ້ອຍບໍ່ໄດ້ຂ້າເຈົ້າແລ້ວບໍ?
-
-166
-00:12:14,200 --> 00:12:16,200
-[VERLAINE]
-That was my sister.
-ນັ້ນແມ່ນເອື້ອຍຂອງຂ້ອຍ.
-
-167
-00:12:16,700 --> 00:12:20,550
-[BLADE]
-This the part where you beat your chest and vow revenge?
-ນີ້ແມ່ນສ່ວນທີ່ເຈົ້າຕີທ້ອງແລະສາບານໂຕວ່າຈະແກ້ແຄ້ນບໍ?
-
-168
-00:12:21,050 --> 00:12:23,050
-[VERLAINE]
-Something like that.
-ບາງສິ່ງບາງຢ່າງເຊັ່ນນັ້ນ.
-
-169
-00:12:23,550 --> 00:12:25,650
-[BLADE]
-Save it for the director's cut.
-ຮັກສາມັນໄວ້ ສໍາ ລັບການຕັດຂອງຜູ້ອໍານວຍການ.
-
-170
-00:12:26,150 --> 00:12:28,150
-[BLADE]
-Where to first?
-ໄປໃສກ່ອນ?
-
-171
-00:12:28,650 --> 00:12:30,650
-[NYSSA]
-The House of Pain.
-ເຮືອນຂອງຄວາມເຈັບປວດ.
-
-172
-00:12:31,150 --> 00:12:37,150
-[THE HOUSE OF PAIN]
-Rises before them, a Gothic Revival hotel marred by graffiti scrawls and boarded up windows.  There's a large neon "HOTEL" sign on the side of the building.
-ຂຶ້ນຢູ່ຕໍ່ຫນ້າພວກເຂົາ, ໂຮງແຮມການຟື້ນຟູ Gothic ທີ່ຖືກ ທໍາ ລາຍໂດຍການຂຽນ
-graffiti ແລະປ່ອງຢ້ຽມທີ່ຕິດແຜ່ນ. ມີປ້າຍ"HOTEL" neon ຂະຫນາດໃຫຍ່ຢູ່ຂ້າງຂອງອາຄານ.
-
-173
-00:12:37,650 --> 00:12:43,650
-[NYSSA]
-From what we can gather, the Reapers hunt in packs, targeting places where vampires congregate.  So far, they've attacked bloodbanks, safehouses, underground clubs like this --
-ຈາກສິ່ງທີ່ພວກເຮົາສາມາດເກັບກໍາໄດ້, ພວກ Reapers ລ່າສັດໃນຊຸດ, ແນໃສ່ສະຖານທີ່ທີ່ແວມປີສ໌ເຕົ້າໂຮມກັນ
-. ຈົນເຖິງປະຈຸບັນ, ພວກເຂົາໄດ້ໂຈມຕີທະນາຄານເລືອດ, ເຮືອນປອດໄພ, ສະໂມສອນໃຕ້ດິນເຊັ່ນນີ້ -
-
-174
-00:12:44,150 --> 00:12:47,300
-[WHISTLER]
-I don't see any traffic, no vampire glyphs --
-ຂ້ອຍບໍ່ເຫັນການຈະລາຈອນໃດໆ, ບໍ່ມີ glyphs vampire -
-
-175
-00:12:47,800 --> 00:12:53,050
-[NYSSA]
-Look closer.  Because of your efforts, we've had to re-think our habits, tighten our security.
-ເບິ່ງໃກ້ຊິດ. ຍ້ອນຄວາມພະຍາຍາມຂອງທ່ານ,
-ພວກເຮົາຕ້ອງຄິດຄືນນິໄສຂອງພວກເຮົາ, ເພີ່ມຄວາມປອດໄພຂອງພວກເຮົາ.
-
-176
-00:12:53,550 --> 00:12:55,650
-[WHISTLER]
-Let's put this clusterfuck in gear.
-ມາເອົາຄົນໂຊກແຊງນີ້ໃສ່ເຄື່ອງຈັກ.
-
-177
-00:12:56,150 --> 00:13:00,700
-[REINHARDT]
-You're not going anywhere, greenjeans. You won't be able to pass for us.
-ເຈົ້າຈະບໍ່ໄປໃສເລີຍ, ຊາວສີຂຽວ. ເຈົ້າຈະບໍ່ຜ່ານພວກເຮົາໄດ້.
-
-178
-00:13:01,200 --> 00:13:03,200
-[WHISTLER]
-Like I give a shit.
-ຄືກັບວ່າຂ້ອຍສົນໃຈ.
-
-179
-00:13:03,700 --> 00:13:07,900
-[BLADE]
-He's right.  They'll smell that you're human.  Stay here, watch our backs.
-ລາວເວົ້າຖືກຕ້ອງ. ພວກເຂົາຈະກິ່ນຫອມວ່າເຈົ້າເປັນມະນຸດ
-. ຢູ່ບ່ອນນີ້, ເບິ່ງແຍງຫຼັງຂອງພວກເຮົາ.
-
-180
-00:13:08,400 --> 00:13:10,400
-[WHISTLER]
-I don't like it.
-ຂ້ອຍບໍ່ມັກມັນ.
-
-181
-00:13:10,900 --> 00:13:13,700
-[BLADE]
-I'm not giving you a choice, old man.
-ຂ້ອຍບໍ່ໄດ້ໃຫ້ເຈົ້າທາງເລືອກ, ພໍ່ເຖົ້າ.
-
-182
-00:13:14,200 --> 00:13:20,150
-[REINHARDT]
-You don't keep that dog of yours curbed, Blade.  We might have to do it for you.
-ເຈົ້າບໍ່ຮັກສາຫມາຂອງເຈົ້າໄວ້ຢ່າງຄວບຄຸມ, ບເລດ
-. ພວກເຮົາອາດຈະຕ້ອງເຮັດມັນ ສໍາ ລັບເຈົ້າ.
-
-183
-00:13:20,650 --> 00:13:22,650
-[BLADE]
-Keep pushing, asshole.
-ສືບຕໍ່ກົດດັນ, ຄົນໂຊກຮ້າຍ.
-
-184
-00:13:23,150 --> 00:13:29,100
-[NYSSA]
-This is our world you're entering.  You may see things -- feeding.  Just remember why you're here.
-ນີ້ແມ່ນໂລກຂອງພວກເຮົາທີ່ທ່ານ ກໍາ ລັງເຂົ້າມາ. ເຈົ້າອາດຈະເຫັນສິ່ງບາງຢ່າງ
-- ການກິນອາຫານ. ພຽງແຕ່ຈື່ວ່າເປັນຫຍັງເຈົ້າຢູ່ບ່ອນນີ້.
-
-185
-00:13:29,600 --> 00:13:31,600
-[BLADE]
-I haven't forgotten.
-ຂ້ອຍບໍ່ໄດ້ລືມ.
-
-186
-00:13:32,100 --> 00:13:34,550
-[PRIEST]
-So what are we looking for, exactly?
-ສະນັ້ນພວກເຮົາ ກໍາ ລັງຊອກຫາຫຍັງແທ້ໆ?
-
-187
-00:13:35,050 --> 00:13:37,050
-[ASAD]
-Anyone who looks suspicious.
-ໃຜທີ່ເບິ່ງຄືວ່າສົງໄສ.
-
-188
-00:13:37,550 --> 00:13:39,550
-[BLADE]
-You gotta be kidding me.
-ເຈົ້າຕ້ອງໂຊກຮ້າຍຂ້ອຍ.
-
-189
-00:13:40,050 --> 00:13:46,050
-[AN ELABORATE S&M STAGE SHOW]
-is under way.  Joel Peter Witkin channeled by Julie Taymor. A SHE-VAMPIRE hangs from the ceiling, her body supported by steel pins which have been hooked through her flesh.  THREE PVC-clad spindly FIGURES minister to her.
-ກໍາ ລັງ ດໍາ ເນີນຢູ່. ໂຈລ ເປຕຣ໌ ວີຕກິນ ນໍາ ພາໂດຍຈູລີ ໄຕມໍ. Vampire ນາງຕິດຢູ່ເທິງຊັ້ນເທິງ,
-ຮ່າງກາຍຂອງນາງໄດ້ຮັບການສະຫນັບສະຫນູນໂດຍປິນເຫຼັກທີ່ໄດ້ຖືກເຊື່ອມຕໍ່ຜ່ານຊີ້ນຂອງນາງ. ຮູບຮ່າງທີ່ສວຍງາມສາມຊຸດ PVC ລັດຖະມົນຕີໃຫ້ນາງ.
-
-190
-00:13:46,550 --> 00:13:49,350
-[TWO VAMPIRES]
-French kiss, exchanging razor blades with their tongues.
-ການຈູບຝຣັ່ງ, ການແລກປ່ຽນກະດານຕັດດ້ວຍພາສາຂອງພວກເຂົາ.
-
-191
-00:13:49,850 --> 00:13:52,650
-[BLADE]
-What is it with you people and pain?
-ມີຫຍັງເກີດຂຶ້ນກັບເຈົ້າແລະຄວາມເຈັບປວດ?
-
-192
-00:13:53,150 --> 00:13:59,150
-[NYSSA]
-We need it.  Sensations are addictive and pain cuts the deepest.  Tattoos, piercings, tribal scarring -- because we regenerate, none of it's permanent.  So we have to take it to the next level. To remind us we're alive.
-ພວກເຮົາຕ້ອງການມັນ. ຄວາມຮູ້ສຶກແມ່ນເປັນຢາເສບຕິດແລະຄວາມເຈັບປວດຕັດຢ່າງເລິກເຊິ່ງທີ່ສຸດ. tattoo, ການເຈາະ, ການບາດແຜຊົນເຜົ່າ -
-ເພາະວ່າພວກເຮົາຟື້ນຟູ, ບໍ່ມີຫຍັງຂອງມັນເປັນຖາວອນ. ສະນັ້ນພວກເຮົາຕ້ອງເອົາມັນໄປສູ່ລະດັບຕໍ່ໄປ. ເພື່ອເຕືອນພວກເຮົາວ່າພວກເຮົາມີຊີວິດຢູ່.
-
-193
-00:13:59,650 --> 00:14:05,650
-[ON BLADE]
-Drifting through the press of flesh.  Feral faces flash by us, distorted by the stroboscopic lights.  A SHE-VAMPIRE latches onto him.  He shoves her aside, keeps scanning faces. It takes every ounce of his restraint not to cut loose.
-ການຂັບເຄື່ອນຜ່ານການກົດດັນຂອງຊີ້ນ. ໃບຫນ້າທີ່ຮ້າຍແຮງແສງສະຫວ່າງໂດຍພວກເຮົາ, ຈົບແນ່ໂດຍແສງໄຟສຕຣອບໂບສໂກບສ໌.
-ນາງແວມປີຕິດຢູ່ເທິງລາວ. ລາວຊຸກຍູ້ນາງໄປຂ້າງ, ສືບຕໍ່ສະແກນໃບຫນ້າ. ມັນຕ້ອງທຸກອອນສ໌ຂອງການຄວບຄຸມຂອງລາວບໍ່ຕັດອອກ.
-
-194
-00:14:06,150 --> 00:14:08,150
-[BLADE]
-You reading me, Scud?
-ເຈົ້າອ່ານຂ້ອຍບໍ, ສັກດ໌?
-
-195
-00:14:08,650 --> 00:14:10,650
-[SCUD]
-Loud and clear, B.
-ສຽງດັງແລະຈະແຈ້ງ, ບີ.
-
-196
-00:14:11,150 --> 00:14:14,650
-[SCUD]
-Everything's copacetic in the Mystery Van.  How you doing, Whistler?
-ທຸກຢ່າງແມ່ນ copacetic ໃນລົດບັນທຸກ
-Mystery. ເຈົ້າເປັນແນວໃດ, Whistler?
-
-197
-00:14:15,150 --> 00:14:17,150
-[WHISTLER]
-Walking on sunshine, toke-boy.
-ຍ່າງຢູ່ເທິງແສງແດດ, ເດັກຊາຍ toke-boy.
-
-198
-00:14:17,650 --> 00:14:19,650
-[CORPULENT VAMPIRE]
-Close the fucking door, buddy.
-ປິດປະຕູແມ, ເພື່ອນ.
-
-199
-00:14:20,150 --> 00:14:22,150
-[CORPULENT VAMPIRE]
-I said, close the f--
-ຂ້ອຍບອກວ່າ, ປິດແຟ...
-
-200
-00:14:22,650 --> 00:14:24,650
-[NYSSA]
-What was that?
-ນັ້ນແມ່ນຫຍັງ?
-
-201
-00:14:25,150 --> 00:14:27,150
-[BLADE]
-Nothing.
-ບໍ່ມີຫຍັງເລີຍ.
-
-202
-00:14:27,650 --> 00:14:29,650
-[SCUD]
-Um, Whistler, you out there?
-ອູມ, ວີສລເຕີ, ເຈົ້າຢູ່ບ່ອນນັ້ນບໍ?
-
-203
-00:14:30,150 --> 00:14:32,150
-[SCUD]
-Whistler?
-ວີສລເຕີ?
-
-204
-00:14:32,650 --> 00:14:38,650
-[A PAIR OF CLAWED HANDS]
-Suddenly rip down through the ceiling of the van, peeling it up and back like it was tinfoil!  A REAPER with a bloody bandage covering his eye SNARLS down at us.
-ກະທັນຫັນຕັດລົງຜ່ານຊັ້ນເທິງຂອງລົດບັນທຸກ, ປັບມັນຂຶ້ນແລະກັບຄືນໄປບ່ອນຄືກັບວ່າມັນເປັນແຜ່ນຢາງ
-! ຜູ້ຕັດດ້ວຍຜ້າຫຸ້ມຫໍ່ເລືອດປົກຄຸມຕາຂອງລາວ SNARLS ລົງຫາພວກເຮົາ.
-
-205
-00:14:39,150 --> 00:14:41,150
-[SCUD]
-They're here!!!!
-ພວກເຂົາມາແລ້ວ!!!
-
-206
-00:14:41,650 --> 00:14:43,650
-[LIGHTHAMMER]
-Ohmygodhe'sfuckingkillingmehe's --
-ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ ກໍາ ລັງຂ້າຂ້ອຍ -
-
-207
-00:14:44,150 --> 00:14:50,150
-[BLOOD VESSELS]
-Are popping up beneath the Reaper's briefly translucent skin, becoming engorged and dilated.  The veins continue to swell, racing up his neck, then branching out over his face, chest, and arms -- like an instant network of varicose veins.
-ພວກມັນ ກໍາ ລັງປາກົດຂຶ້ນພາຍໃຕ້ຜິວ ຫນັງ ທີ່ໂປ່ງໃສສັ້ນໆຂອງຜູ້ເກັບກ່ຽວ, ກາຍເປັນທີ່ສັ່ນສະເທືອນແລະຂະຫຍາຍຕົວ. ເສັ້ນເລືອດສືບຕໍ່ຟື້ນຟູ
-, ແຂ່ງຂັນຂຶ້ນຄໍຂອງລາວ, ຫຼັງຈາກນັ້ນສາຂາອອກໄປເທິງໃບຫນ້າຂອງລາວ, ທ້ອງ, ແລະແຂນ - ຄືກັບເຄືອຂ່າຍຂອງເສັ້ນເລືອງ varicose ທັນທີ.
-
-208
-00:14:50,650 --> 00:14:52,650
-[SCUD]
-UV headlights, c'mon, come on!!!
-ແສງໄຟຫນ້າ UV, ມາ, ມາ!!!
-
-209
-00:14:53,150 --> 00:14:55,150
-[SCUD]
-FuckmefuckmefuckmeFUCKME!!!!
-ຂ້ອຍໂຊກຮ້າຍຂ້ອຍ!!!!
-
-210
-00:14:55,650 --> 00:15:01,650
-[BACK TO THE PRIEST]
-Alarmed, reaching for a specialized shotgun instead.  The Reaper continues forward, moving so fast she almost seems a blur as BA-BOOM! BA-BOOM!  Priest pumps his shotgun repeatedly.  Two projectiles fire out, chained together by a length of titanium cable.  The cable catches the Reaper in the mid-section, cutting it clean in half!
-ຢ້ານກົວ, ຍ່າງໄປຫາປືນປືນພິເສດແທນ. ຜູ້ເກັບກ່ຽວສືບຕໍ່ໄປຂ້າງຫນ້າ, ຍ້າຍໄວຫຼາຍທີ່ນາງເກືອບເບິ່ງຄືວ່າເປັນ blur ເປັນ BA-BOOM! BA-Boom!
-ປະໂລຫິດປັ່ນປ່ວນປືນຂອງລາວຫຼາຍຄັ້ງ. ລູກປືນສອງລູກປືນຍິງອອກ, ຕິດພັນກັນໂດຍຄວາມຍາວຂອງສາຍໄຕຕນຽມ. ສາຍໄຟຈັບຜູ້ເກັບກ່ຽວໃນພາກກາງ, ຕັດມັນສະອາດໃນເຄິ່ງຫນຶ່ງ!
-
-211
-00:15:02,150 --> 00:15:05,300
-[SCUD]
-Use your entry lights!  They can't stand the UV!!!
-ໃຊ້ແສງເຂົ້າຂອງທ່ານ! ພວກເຂົາບໍ່ສາມາດຍອມຮັບ UV ໄດ້!!!
-
-212
-00:15:05,800 --> 00:15:07,800
-[ASAD]
-Use your entry lights!
-ໃຊ້ແສງເຂົ້າຂອງທ່ານ!
-
-213
-00:15:08,300 --> 00:15:14,300
-[THE SUN]
-beginning to rise beyond the cityscape horizon.  Nomak is already at the opposite side of the building, moving fast.
-ເລີ່ມຂຶ້ນນອກຈາກທ້ອງຖິ່ນທັດສະນະຂອງເມືອງ.
-ໂນມາກແມ່ນຢູ່ທາງກົງກັນຂ້າມຂອງອາຄານແລ້ວ, ເຄື່ອນຍ້າຍໄວ.
-
-214
-00:15:14,800 --> 00:15:17,600
-[BLADE]
-Whistler!  He's heading across the roof! Take him!
-ວີສລເຕີ! ລາວ ກໍາ ລັງໄປຂ້າມເຮືອນຫລັງ! ເອົາລາວ!
-
-215
-00:15:18,100 --> 00:15:20,100
-[BLADE]
-Whistler!!!
-ວີສລເຕີ!!!
-
-216
-00:15:20,600 --> 00:15:26,600
-[UP AHEAD]
-Nomak abruptly stops, having reached the end of the roof. The nearest neighboring rooftop is too far away and the drop from this last ledge looks unsurvivable, even for someone like Nomak.
-ໂນມາກຢຸດຢ່າງກະທັນຫັນ, ຫຼັງຈາກທີ່ບັນລຸຈຸດສິ້ນສຸດຂອງເຮືອນຫລັງ.
-ເຮືອນຫລັງທີ່ໃກ້ຊິດທີ່ສຸດແມ່ນຢູ່ຫ່າງໄກເກີນໄປແລະການຫຼຸດລົງຈາກແຄມສຸດທ້າຍນີ້ເບິ່ງຄືວ່າບໍ່ສາມາດຢູ່ໄດ້, ເຖິງແມ່ນວ່າ ສໍາ ລັບຄົນຄືກັບໂນມາກ.
-
-217
-00:15:27,100 --> 00:15:33,100
-[NOMAK]
-Is the enemy of my enemy my friend or my enemy?  What do you think, Blade?  What am I to you?
-ເຈົ້າຄິດແນວໃດ, ບເລດ? ຂ້ອຍເປັນຫຍັງຕໍ່ເຈົ້າ?
-
-218
-00:15:33,600 --> 00:15:35,600
-[NOMAK]
-Athelfiki singenia ex amato.
-Athelfiki singenia ອະດີດຄົນຮັກ.
-
-219
-00:15:36,100 --> 00:15:38,100
-[NYSSA]
-You're hurt.
-ເຈົ້າເຈັບປວດ.
-
-220
-00:15:38,600 --> 00:15:40,600
-[BLADE]
-I'll heal.
-ຂ້ອຍຈະປິ່ນປົວດີ.
-
-221
-00:15:41,100 --> 00:15:43,100
-[NYSSA]
-What about Nomak?
-ໂນມາກແນວໃດ?
-
-222
-00:15:43,600 --> 00:15:48,150
-[BLADE]
-He escaped.  You didn't tell me they were immune to silver and garlic.
-ລາວຫນີໄປ. ເຈົ້າບໍ່ໄດ້ບອກຂ້ອຍວ່າພວກເຂົາມີພູມຕ້ານທານຕໍ່ເງິນແລະ
-ຫມາກ ໄມ້.
-
-223
-00:15:48,650 --> 00:15:50,650
-[NYSSA]
-I didn't know.
-ຂ້ອຍບໍ່ຮູ້.
-
-224
-00:15:51,150 --> 00:15:53,150
-[BLADE]
-We lose anybody?
-ພວກເຮົາສູນເສຍໃຜບໍ?
-
-225
-00:15:53,650 --> 00:15:55,650
-[NOMAK]
-Lighthammer and --
-ກະດານໄຟແລະ -
-
-226
-00:15:56,150 --> 00:16:01,050
-[PRIEST]
-Oh god, oh God it hurts!  It hurts, it hurts, fuck, it hurts.  Ugh!
-ໂອ້ ພຣະເຈົ້າ, ໂອ້ ພະເຈົ້າມັນເຈັບປວດ! ມັນເຈັບ
-ປວດ, ມັນເຈັບປ່ວຍ, ສະບາຍດີ, ມັນເຈັບປວດ. ອູຟ!
-
-227
-00:16:01,550 --> 00:16:03,650
-[BLADE]
-how long since he was bitten?
-ລາວຖືກກັດມາດົນປານໃດ?
-
-228
-00:16:04,150 --> 00:16:06,150
-[NYSSA]
-Minutes.
-ນາທີ.
-
-229
-00:16:06,650 --> 00:16:08,650
-[BLADE]
-It's already changing him --
-ມັນ ກໍາ ລັງປ່ຽນແປງລາວແລ້ວ -
-
-230
-00:16:09,150 --> 00:16:12,650
-[REINHARDT]
-Jesus, can't you get him to shut the fuck up!?
-ພຣະເຢຊູ, ເຈົ້າບໍ່ສາມາດເຮັດໃຫ້ລາວງຽບໄດ້ບໍ!?
-
-231
-00:16:13,150 --> 00:16:19,150
-[NYSSA]
-His blood cells aren't producing oxygen anymore.  His own body is suffocating him.  These things are like crack addicts.  If they don't feed every few hours, they'll feed on themselves.
-ເຊລເລືອດຂອງລາວບໍ່ໄດ້ຜະລິດອົກຊີເຈນອີກຕໍ່ໄປ. ຮ່າງກາຍຂອງລາວເອງ ກໍາ ລັງບິດລາວ.
-ສິ່ງເຫຼົ່ານີ້ຄືກັບຄົນຕິດຢາແຄຣັກ. ຖ້າພວກເຂົາບໍ່ກິນທຸກໆສອງສາມຊົ່ວໂມງ, ພວກເຂົາຈະກິນຕົວເອງ.
-
-232
-00:16:19,650 --> 00:16:23,150
-[REINHARDT]
-Somebody put him out of his misery for fuck's sake!
-ບາງຄົນເຮັດໃຫ້ລາວອອກຈາກຄວາມທຸກທໍລະມານຂອງລາວ!
-
-233
-00:16:23,650 --> 00:16:26,100
-[VERLAINE]
-You kill him!  I'm not killing him!
-ເຈົ້າຂ້າລາວ! ຂ້ອຍບໍ່ໄດ້ຂ້າລາວເລີຍ!
-
-234
-00:16:26,600 --> 00:16:28,600
-[CHUPA]
-Mierda!!
-ມິຣດາ!!
-
-235
-00:16:29,100 --> 00:16:35,100
-[BLADE]
-Without batting an eye, he draws his MACH pistol, briefly aiming at the on-rushing creature's chest, then adjusting his aim to one of the blacked-out windows above and behind it.
-ໂດຍບໍ່ຕ້ອງສັ່ນຕາ, ລາວດຶງປືນ MACH ຂອງລາວ, ແນໃສ່ກະທູ້ຂອງສັດທີ່ແລ່ນໄປຢ່າງສັ້ນໆ,
-ຫຼັງຈາກນັ້ນປັບເປົ້າຫມາຍຂອງລາວໃຫ້ກັບ ຫນຶ່ງ ໃນປ່ອງຢ້ຽມທີ່ສີດໍາຢູ່ເທິງແລະຫຼັງມັນ.
-
-236
-00:16:35,600 --> 00:16:40,150
-[WHISTLER]
-If this is the best you turd-stains have to offer, I'm not impressed.
-ຖ້າວ່ານີ້ແມ່ນສິ່ງທີ່ດີທີ່ສຸດທີ່ເຈົ້າມີໃຫ້, ຂ້ອຍບໍ່ປະທັບໃຈ.
-
-237
-00:16:40,650 --> 00:16:44,150
-[BLADE]
-I thought you were supposed to be watching our backs.
-ຂ້ອຍຄິດວ່າເຈົ້າຄວນເບິ່ງແຍງຫລັງພວກເຮົາ.
-
-238
-00:16:44,650 --> 00:16:47,100
-[WHISTLER]
-Ran into a little Reaper trouble myself.
-ຂ້ອຍເອງໄດ້ພົບກັບຄວາມຫຍຸ້ງຍາກຂອງ Reaper ນ້ອຍໆ.
-
-239
-00:16:47,600 --> 00:16:53,600
-[CHUPA]
-Oh yeah?  Like how little?  In case you hadn't noticed, we lost two men while you were out farting around.
-ໂອ້ ແມ່ນແລ້ວ? ເຊັ່ນວ່ານ້ອຍປານໃດ? ໃນກໍລະນີທີ່ທ່ານບໍ່ໄດ້ສັງເກດເຫັນ,
-ພວກເຮົາໄດ້ສູນເສຍຜູ້ຊາຍສອງຄົນໃນຂະນະທີ່ເຈົ້າຢູ່ພາຍນອກສັ່ນສະເທືອນຢູ່ທົ່ວໄປ.
-
-240
-00:16:54,100 --> 00:16:58,650
-[WHISTLER]
-You need to ratchet those 'nads of yours down a few notches, paco.
-ເຈົ້າຕ້ອງເຮັດໃຫ້ກະດານຂອງເຈົ້າລົງສອງສາມຂັ້ນຕອນ, ປາໂກ.
-
-241
-00:16:59,150 --> 00:17:02,650
-[CHUPA]
-Listen, hillbilly, you are a cunt-hair away from cowboy heaven.
-ຟັງ, ຄົນພູເຂົາ, ເຈົ້າຢູ່ຫ່າງໄກຈາກສະຫວັນຄາວໂບຍ.
-
-242
-00:17:03,150 --> 00:17:05,950
-[WHISTLER]
-Ain't no thing but a chicken wing, buttercup.
-ບໍ່ມີຫຍັງນອກຈາກກະຕ່າໄກ່, buttercup.
-
-243
-00:17:06,450 --> 00:17:08,450
-[BLADE]
-Where were you, Whistler?
-ເຈົ້າຢູ່ໃສ, ວີສລເຕີ?
-
-244
-00:17:08,950 --> 00:17:10,950
-[WHISTLER]
-I'll show you.
-ຂ້ອຍຈະສະແດງໃຫ້ເຈົ້າເຫັນ.
-
-245
-00:17:11,450 --> 00:17:17,450
-[A REAPER]
-Cowering by the culvert.  One we recognize.  The other vampire guard from the bloodbank, now transformed.  He's shrunken and emaciated, pale.  And although he's obviously dying, he still HISSES, his fanged mouth snapping ineffectually at them.  His arm has been trapped -- pinned under one of the sectional culvert coverings.  It looks like he's been trying to gnaw it off in order to escape.
-ການກັງວົນຢູ່ແຄມກະທູ້. ຫນຶ່ງທີ່ພວກເຮົາຮັບຮູ້. ເຈົ້າຫນ້າທີ່ແວມປີອີກຄົນ ຫນຶ່ງ ຈາກທະນາຄານເລືອດ, ດຽວນີ້ຖືກປ່ຽນແປງ. ລາວໄດ້ຫຼຸດລົງແລະອ່ອນແອ, ສີຂາວ. ແລະເຖິງແມ່ນວ່າລາວ ກໍາ ລັງຕາຍຢ່າງແນ່ນອນ
-, ລາວຍັງສັ່ນສະເທືອນ, ປາກແຂນຂອງລາວແຕກບໍ່ປະສິດທິຜົນຕໍ່ພວກເຂົາ. ແຂນຂອງລາວຖືກຈັບໄວ້ - ຖືກຕິດຢູ່ພາຍໃຕ້ ຫນຶ່ງ ໃນການປົກຄຸມກະຕູ້ສ່ວນ. ມັນເບິ່ງຄືວ່າມັນ ກໍາ ລັງພະຍາຍາມກັດມັນເພື່ອຫນີ.
-
-246
-00:17:17,950 --> 00:17:19,950
-[REINHARDT]
-What the hell?
-ມີຫຍັງເກີດຂຶ້ນ?
-
-247
-00:17:20,450 --> 00:17:26,050
-[WHISTLER]
-I found him like this.  I think he was trying to crawl back into that culvert.
-ຂ້ອຍພົບລາວແບບນີ້. ຂ້ອຍຄິດວ່າລາວ
-ກໍາ ລັງພະຍາຍາມຍ່າງກັບຄືນໄປບ່ອນນັ້ນ.
-
-248
-00:17:26,550 --> 00:17:28,550
-[NYSSA]
-Everything okay?
-ທຸກຢ່າງດີບໍ?
-
-249
-00:17:29,050 --> 00:17:31,050
-[DAMASKINOS]
-Yes?
-ແມ່ນແລ້ວບໍ?
-
-250
-00:17:31,550 --> 00:17:33,650
-[STEVENS]
-They've made contact with the Reapers.
-ພວກເຂົາໄດ້ຕິດຕໍ່ກັບຜູ້ເກັບກ່ຽວແລ້ວ.
-
-251
-00:17:34,150 --> 00:17:36,150
-[DAMASKINOS]
-Any casualties?
-ມີຜູ້ບາດເຈັບໃດບໍ?
-
-252
-00:17:36,650 --> 00:17:38,650
-[STEVENS]
-Two so far.
-ສອງຄົນມາຮອດປະຈຸບັນ.
-
-253
-00:17:39,150 --> 00:17:43,000
-[DAMASKINOS]
-An inevitability, I suppose.  Nyssa was not among them, I trust.
-ຂ້ອຍຄິດວ່າເປັນສິ່ງທີ່ບໍ່ສາມາດຫຼີກລ່ຽງໄດ້.
-ນີສຊາບໍ່ໄດ້ຢູ່ໃນບັນດາພວກເຂົາ, ຂ້ອຍເຊື່ອວ່າ.
-
-254
-00:17:43,500 --> 00:17:46,650
-[STEVENS]
-No.  This is a dangerous game, you're playing, Damaskinos.
-ບໍ່. ນີ້ແມ່ນເກມອັນຕະລາຍ, ເຈົ້າ ກໍາ ລັງຫຼິ້ນ, Damaskinos.
-
-255
-00:17:47,150 --> 00:17:53,150
-[DAMASKINOS]
-Any game worthy of being played is.  One must be patient.  In this way, I have outlived my enemies.  All of them.
-ເກມໃດທີ່ຄວນຫຼິ້ນແມ່ນ. ຄົນຕ້ອງມີຄວາມອົດທົນ. ໃນທາງນີ້
-, ຂ້ອຍໄດ້ລອດຊີວິດຈາກສັດຕູຂອງຂ້ອຍ. ທັງ ຫມົດ.
-
-256
-00:17:53,650 --> 00:17:58,550
-[STEVENS]
-Blade's too volatile.  You're not going to be able to keep manipulating him --
-ກະທູ້ມີຄວາມປ່ຽນແປງຫຼາຍ. ເຈົ້າຈະບໍ່ສາມາດຄວບຄຸມລາວໄດ້ຕໍ່ໄປ -
-
-257
-00:17:59,050 --> 00:18:05,050
-[DAMASKINOS]
-You worry too much, Stevens.  I have assurance from our friend inside that events are unfolding as scripted.
-ເຈົ້າກັງວົນຫຼາຍເກີນໄປ, ສຕິເວນສ໌.
-ຂ້ອຍມີຄວາມຫມັ້ນໃຈຈາກເພື່ອນຂອງພວກເຮົາພາຍໃນວ່າເຫດການ ກໍາ ລັງເກີດຂຶ້ນຕາມບົດຂຽນ.
-
-258
-00:18:05,550 --> 00:18:11,500
-[STEVENS]
-As scripted?  You've already lost two of your own.  How many more are you willing to sacrifice?
-ຕາມບົດຂຽນບໍ? ເຈົ້າໄດ້ສູນເສຍສອງຄົນຂອງເຈົ້າແລ້ວ
-. ເຈົ້າພ້ອມທີ່ຈະເສຍສະຫຼະອີກຫຼາຍປານໃດ?
-
-259
-00:18:12,000 --> 00:18:16,200
-[DAMASKINOS]
-As many as it takes.  Do you see that jar over there?
-ຫຼາຍເທົ່າທີ່ມັນຕ້ອງການ. ເຈົ້າເຫັນຖັງນັ້ນຢູ່ບ່ອນນັ້ນບໍ?
-
-260
-00:18:16,700 --> 00:18:22,700
-[DAMASKINOS]
-It contains my human heart --  Something I relinquished a long time ago.  Only a fool would appeal to it now.
-ມັນບັນຈຸຫົວໃຈມະນຸດຂອງຂ້ອຍ - ບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍໄດ້ປະຖິ້ມໄວ້ດົນນານແລ້ວ
-. ພຽງແຕ່ຄົນໂງ່ຈະຮ້ອງຂໍມັນດຽວນີ້.
-
-261
-00:18:23,200 --> 00:18:25,200
-[BLADE]
-Recognize him?
-ເຈົ້າຮູ້ຈັກລາວບໍ?
-
-262
-00:18:25,700 --> 00:18:30,950
-[NYSSA]
-From the surveillance footage in the bloodbank.  He was one of the guard's Nomak attacked.
-ຈາກຮູບພາບການຕິດຕາມກວດກາໃນທະນາຄານເລືອດ. ລາວເປັນຄົນ
-ຫນຶ່ງ ໃນຄົນໂນມາກຂອງຄົນປົກປ້ອງທີ່ຖືກໂຈມຕີ.
-
-263
-00:18:31,450 --> 00:18:34,250
-[BLADE]
-Which means he turned about seventy-two hours ago.
-ຫມາຍຄວາມວ່າລາວຫັນມາປະມານສິບສອງຊົ່ວໂມງກ່ອນ.
-
-264
-00:18:34,750 --> 00:18:40,750
-[NYSSA]
-Right.  So why is he dying?  He doesn't appear to have any broken bones, no entry wounds of any kind -- what's killing him?
-ແມ່ນແລ້ວ. ສະນັ້ນລາວ ກໍາ ລັງຕາຍເປັນຫຍັງ? ລາວເບິ່ງຄືວ່າບໍ່ມີກະດູກທີ່ແຕກໃດໆ
-, ບໍ່ມີບາດແຜເຂົ້າໄປໃນປະເພດໃດໆ - ສິ່ງທີ່ ກໍາ ລັງຂ້າລາວ?
-
-265
-00:18:41,250 --> 00:18:43,250
-[BLADE]
-Time.
-ເວລາແລ້ວ.
-
-266
-00:18:43,750 --> 00:18:49,750
-[BLADE]
-No hemoglobin left. Their metabolisms are too fast.  They burn out.  That's why they're having to feed so often.  Their systems are self destructing.
-ບໍ່ມີເຮມໂຮມໂບິນທີ່ເຫຼືອ. ການ metabolizms ຂອງເຂົາເຈົ້າໄວເກີນໄປ. ພວກເຂົາເຜົາໄຫມ້ອອກ.
-ນັ້ນແມ່ນເຫດຜົນທີ່ພວກເຂົາຕ້ອງກິນອາຫານຫຼາຍຄັ້ງ. ລະບົບຂອງພວກເຂົາ ກໍາ ລັງ ທໍາ ລາຍຕົວເອງ.
-
-267
-00:18:50,250 --> 00:18:54,800
-[NYSSA]
-If that's true, what about Nomak?  He's been alive longer than the others.
-ຖ້າມັນເປັນຄວາມຈິງ, ໂນມາກແນວໃດ? ລາວມີຊີວິດຢູ່ດົນກວ່າຄົນອື່ນ.
-
-268
-00:18:55,300 --> 00:19:00,550
-[BLADE]
-Nomak's different.  He's the carrier.  There's something driving him beyond the Thirst.  Something we're missing.
-ໂນມາກແຕກຕ່າງ. ລາວເປັນຜູ້ຂົນສົ່ງ.
-ມີບາງສິ່ງບາງຢ່າງທີ່ຂັບຂີ່ລາວເກີນຄວາມດອກດອກ. ບາງສິ່ງບາງ ຢ່າງທີ່ພວກເຮົາຂາດ.
-
-269
-00:19:01,050 --> 00:19:07,050
-[NYSSA]
-They appear to have a nictating membrane here, like you'd see on a crocodile or camel.  Shields the eyes from sunlight.
-ພວກມັນເບິ່ງຄືວ່າມີກະດານນິກຕານຢູ່ບ່ອນນີ້,
-ຄືກັບທີ່ທ່ານຈະເຫັນໃນຈານຫຼືກ້ອງ. ປົກປ້ອງຕາຈາກແສງແດດ.
-
-270
-00:19:07,550 --> 00:19:13,550
-[NYSSA]
-A bifurcated mandible.  More developed masseter muscles and zygomatic bones around the mouth allowing for a much larger, stronger bite --
-ປິດ
-
-271
-00:19:14,050 --> 00:19:20,050
-[PULL BACK TO REVEAL]
-Blade, Nyssa, and Scud are gathered around the autopsy table. The rest of the crew linger further back.
-ບເລດ, ນິສຊາ, ແລະ ສັກດ໌ຖືກເຕົ້າໂຮມຢູ່ອ້ອມໂຕະການກວດສົບ
-. ສ່ວນທີ່ເຫຼືອຂອງທີມງານຍືນຍົງຢູ່ເບື້ອງຫຼັງ.
-
-272
-00:19:20,550 --> 00:19:22,650
-[NYSSA]
-Epidermal layers are thicker, tougher --
-ຊັ້ນຜິວຫນັງແມ່ນຫນາກວ່າ, ແຂງແຮງກວ່າ -
-
-273
-00:19:23,150 --> 00:19:25,150
-[SCUD]
-Ho-lee shit.
-ໂຮລີ.
-
-274
-00:19:25,650 --> 00:19:31,650
-[NYSSA]
-I've never seen anything like this.  The Reapers are as different from us as we are from you.  It's almost as if the virus is re-wiring their bodies, creating new, parasitic organs which consume the old ones.
-ຂ້ອຍບໍ່ເຄີຍເຫັນສິ່ງໃດແບບນີ້ເລີຍ. ພວກຜູ້ເກັບກ່ຽວແຕກຕ່າງຈາກພວກເຮົາເທົ່າທີ່ພວກເຮົາແຕກຕ່າງຈາກເຈົ້າ.
-ມັນເກືອບຄືກັບວ່າໄວຣັສ ກໍາ ລັງເຊື່ອມຕໍ່ຮ່າງກາຍຂອງພວກເຂົາຄືນ ໃຫມ່, ສ້າງອະໄວຍະວະ ໃຫມ່, ໂພຊິດທີ່ບໍລິໂພກເກົ່າ.
-
-275
-00:19:32,150 --> 00:19:34,150
-[BLADE]
-Like cancer with a purpose.
-ຄືກັບມະເຮັງທີ່ມີຈຸດປະສົງ.
-
-276
-00:19:34,650 --> 00:19:39,900
-[NYSSA]
-Exactly.  Look at the digestive system. It's been drastically simplified.  Super charged.  And this --
-ແທ້ຈິງແລ້ວ. ເບິ່ງລະບົບຍ່ອຍອາຫານ.
-ມັນຖືກງ່າຍດາຍຢ່າງຫຼວງຫຼາຍ. ຖືກສາກໄຟສູງ. ແລະສິ່ງນີ້ -
-
-277
-00:19:40,400 --> 00:19:42,850
-[NYSSA]
-The heart is completely encased in bone.
-ຫົວໃຈຖືກຫຸ້ມຫໍ່ໄວ້ດ້ວຍກະດູກຢ່າງສົມບູນ.
-
-278
-00:19:43,350 --> 00:19:45,800
-[SCUD]
-Good luck getting a stake through that.
-ໂຊກດີທີ່ຈະເອົາຮຸ້ນຜ່ານນັ້ນ.
-
-279
-00:19:46,300 --> 00:19:49,800
-[BLADE]
-We've got six hours till sunrise.  Be ready by then.
-ພວກເຮົາມີເວລາຫົກຊົ່ວໂມງຈົນຮອດຕອນເຊົ້າ. ກຽມພ້ອມໃນເວລານັ້ນ.
-
-280
-00:19:50,300 --> 00:19:52,300
-[ASAD]
-What happens at sunrise?
-ເກີດຫຍັງຂຶ້ນໃນຕອນເຊົ້າ?
-
-281
-00:19:52,800 --> 00:19:54,900
-[BLADE]
-We take up the hunt again.
-ພວກເຮົາເລີ່ມຕົ້ນການລ່າສັດອີກຄັ້ງ.
-
-282
-00:19:55,400 --> 00:19:57,400
-[CHUPA]
-You gotta be fucking joking.
-ເຈົ້າຕ້ອງໂຊກຮ້າຍ.
-
-283
-00:19:57,900 --> 00:20:03,850
-[BLADE]
-You've seen what we're up against. Daylight's the only advantage we've got. They'll be more vulnerable then.
-ເຈົ້າເຫັນແລ້ວວ່າພວກເຮົາ ກໍາ ລັງປະເຊີນກັບຫຍັງ.
-ແສງສະຫວ່າງຂອງມື້ແມ່ນຂໍ້ດີດຽວທີ່ພວກເຮົາມີ. ພວກເຂົາຈະມີຄວາມອ່ອນແອຫຼາຍຂຶ້ນຫຼັງຈາກນັ້ນ.
-
-284
-00:20:04,350 --> 00:20:06,350
-[REINHARDT]
-And so will we.
-ແລະພວກເຮົາກໍ່ຈະເຮັດເຊັ່ນກັນ.
-
-285
-00:20:06,850 --> 00:20:11,400
-[BLADE]
-Look, I care about the humans who are dying, not you, got it?
-ເບິ່ງ, ຂ້ອຍສົນໃຈມະນຸດທີ່ ກໍາ ລັງຕາຍ, ບໍ່ແມ່ນເຈົ້າ, ເຂົ້າໃຈບໍ?
-
-286
-00:20:11,900 --> 00:20:17,500
-[REINHARDT]
-Spare me the race card, OJ.  We're not going out into the sun.  It's too risky.
-ຊ່ວຍຂ້ອຍບັດແຂ່ງຂັນ, ໂອຈີ.
-ພວກເຮົາຈະບໍ່ອອກໄປສູ່ແສງຕາເວັນ. ມັນມີຄວາມສ່ຽງຫຼາຍ.
-
-287
-00:20:18,000 --> 00:20:23,950
-[BLADE]
-You don't have a choice.  You're just going to have to protect yourselves as best you can.
-ເຈົ້າບໍ່ມີທາງເລືອກ.
-ເຈົ້າພຽງແຕ່ຈະຕ້ອງປົກປ້ອງຕົວເອງດີທີ່ສຸດທີ່ເຈົ້າສາມາດເຮັດໄດ້.
-
-288
-00:20:24,450 --> 00:20:27,250
-[REINHARDT]
-You buying any of this chocolate Elvis bullshit?
-ເຈົ້າຊື້ສິ່ງໂຊກໂກແລັດ ເອວສ໌ນີ້ບໍ?
-
-289
-00:20:27,750 --> 00:20:33,750
-[CHUPA]
-This guy doesn't know what the fuck he's doing.  We already lost Priest and Lighthammer, who's gonna be next?  Fuck him.  Fuck his rules.  First chance I get, I'm chowing down on that fucking HeeHaw sidekick of his.
-ຜູ້ຊາຍຄົນນີ້ບໍ່ຮູ້ວ່າລາວ ກໍາ ລັງເຮັດຫຍັງ. ພວກເຮົາໄດ້ສູນເສຍປະໂລຫິດແລະແສງສະຫວ່າງແລ້ວ, ໃຜຈະເປັນຄົນຕໍ່ໄປ?
-ໃຫ້ລາວໄປ. ໃຫ້ກົດລະບຽບຂອງລາວໄປ. ໂອກາດ ທໍາ ອິດທີ່ຂ້ອຍໄດ້ຮັບ, ຂ້ອຍ ກໍາ ລັງກິນຄູ່ຮ່ວມງານ HeeHaw ຂອງລາວນັ້ນ.
-
-290
-00:20:34,250 --> 00:20:36,250
-[VERLAINE]
-What do you think, Asad?
-ເຈົ້າຄິດແນວໃດ, ອາຊາດ?
-
-291
-00:20:36,750 --> 00:20:38,850
-[ASAD]
-I don't think.  I follow orders.
-ຂ້ອຍບໍ່ຄິດ. ຂ້ອຍປະຕິບັດຕາມຄໍາສັ່ງ.
-
-292
-00:20:39,350 --> 00:20:44,950
-[WHISTLER]
-You ask me, you and Miss Muffet are getting a mite too cozy for my taste.
-ເຈົ້າຖາມຂ້ອຍ, ເຈົ້າແລະນາງມູເຟຕ໌ ກໍາ
-ລັງໄດ້ຮັບແມວທີ່ອ່ອນແອເກີນໄປ ສໍາ ລັບລົດຊາດຂອງຂ້ອຍ.
-
-293
-00:20:45,450 --> 00:20:47,450
-[BLADE]
-I wouldn't worry about it.
-ຂ້ອຍຈະບໍ່ກັງວົນກ່ຽວກັບມັນ.
-
-294
-00:20:47,950 --> 00:20:53,950
-[WHISTLER]
-I am worrying.  Seems to me, you're starting to get confused as to which side of the line you're standing on.
-ຂ້ອຍກັງວົນ. ເບິ່ງຄືວ່າຂ້ອຍ, ເຈົ້າ ກໍາ
-ລັງເລີ່ມສັບສົນກ່ຽວກັບດ້ານໃດຂອງເສັ້ນທີ່ທ່ານຢືນຢູ່.
-
-295
-00:20:54,450 --> 00:21:00,050
-[BLADE]
-Pretty hollow words coming from a man who spent the last year running with the enemy.
-ຄໍາເວົ້າທີ່ເປົ່າເປົ່າທີ່ມາຈາກຜູ້ຊາຍທີ່ໃຊ້ເວລາປີທີ່ຜ່ານມາແລ່ນກັບສັດຕູ
-.
-
-296
-00:21:00,550 --> 00:21:03,350
-[WHISTLER]
-What the hell is that supposed to mean?
-ນັ້ນຫມາຍຄວາມວ່າແນວໃດ?
-
-297
-00:21:03,850 --> 00:21:09,850
-[BLADE]
-It means I'm starting to wonder if the vampires still have their hooks in you. You've been acting strange ever since I gave you the cure.  Reckless, quick to anger --  You said it yourself, Whistler.  Those vampires knew our defense system backwards and forwards.  Where'd they get their intel?
-ມັນຫມາຍຄວາມວ່າຂ້ອຍ ກໍາ ລັງເລີ່ມສົງໄສວ່າແວມປີຍັງມີກະຕ່າຂອງພວກເຂົາໃນເຈົ້າບໍ. ເຈົ້າ ກໍາ ລັງປະຕິບັດແບບແປກໃຈຕັ້ງແຕ່ຂ້ອຍໃຫ້ຢາປິ່ນປົວເຈົ້າ. ບໍ່ລະມັດລະວັງ, ໄວຕໍ່ຄວາມໂຊກຮ້າຍ - ເຈົ້າເວົ້າມັນເອງ, ວີສລເຕີ. ແວມປີເຫລົ່ານັ້ນຮູ້ລະບົບປ້ອງກັນຂອງພວກເຮົາກັບຄືນໄປບ່ອນແລະຕໍ່ຫນ້າ. ພວກເຂົາໄດ້ຮັບຂໍ້ມູນຂອງພວກເຂົາຈາກໃສ?
-
-298
-00:21:10,350 --> 00:21:14,900
-[WHISTLER]
-I'm compromised?!  Me?!  I'm not the one playing stink-finger with Vampirella out there!
-ຂ້ອຍຈົບແນ່ບໍ?! ຂ້ອຍ?! ຂ້ອຍບໍ່ແມ່ນຄົນທີ່ຫຼິ້ນນິ້ວມືກິ່ນຫອມກັບ
-Vampirella ຢູ່ບ່ອນນັ້ນ!
-
-299
-00:21:15,400 --> 00:21:17,500
-[BLADE]
-You're out of line, old man.
-ເຈົ້າເກີນຂອບເຂດແລ້ວ, ພໍ່ເຖົ້າ.
-
-300
-00:21:18,000 --> 00:21:20,000
-[WHISTLER]
-We'll see.
-ພວກເຮົາຈະເຫັນ.
-
-301
-00:21:20,500 --> 00:21:22,500
-[DEALER]
-Lookin' to get hooked up?
-ເຈົ້າ ກໍາ ລັງຊອກຫາທີ່ຈະຕິດຕໍ່ກັນບໍ?
-
-302
-00:21:23,000 --> 00:21:25,000
-[CHUPA]
-What you got?
-ເຈົ້າມີຫຍັງ?
-
-303
-00:21:25,500 --> 00:21:27,600
-[DEALER]
-Horse, Hawaiian ice.  Whatever you want.
-ມ້າ, ກ້ອນຮາວາຍ. ສິ່ງໃດທີ່ທ່ານຕ້ອງການ.
-
-304
-00:21:28,100 --> 00:21:31,950
-[CHUPA]
-Whatever, huh?  Well I'm all off the hook on that bitch.
-ເຖິງຢ່າງໃດກໍ່ຕາມ, ແມ່ນບໍ? ດີຂ້ອຍໄດ້ອອກຈາກ
-hook ກ່ຽວກັບແຊກແຊງນັ້ນທັງຫມົດ.
-
-305
-00:21:32,450 --> 00:21:34,450
-[DEALER]
-So what's it gonna be?
-ສະນັ້ນມັນຈະເປັນຫຍັງ?
-
-306
-00:21:34,950 --> 00:21:36,950
-[CHUPA]
-Fear.
-ຄວາມຢ້ານກົວ.
-
-307
-00:21:37,450 --> 00:21:39,550
-[CHUPA]
-I like a little adrenaline chaser.
-ຂ້ອຍມັກເຄື່ອງລ່າແອນເດຣນາລິນນ້ອຍໆ.
-
-308
-00:21:40,050 --> 00:21:46,050
-[WHAP!  A HAND]
-Grabs a fistful of Chupa's hair, jerking his head back.  It's Blade.  He yanks Chupa off the dealer.
-ຈັບຜົມຂອງ Chupa ຢ່າງເຕັມທີ່, ຍັບຫົວຂອງລາວກັບຄືນໄປບ່ອນ
-. ມັນແມ່ນ Blade. ລາວຖິ້ມ Chupa ອອກຈາກຜູ້ຂາຍ.
-
-309
-00:21:46,550 --> 00:21:48,650
-[BLADE]
-What do you think you're doing?
-ເຈົ້າຄິດວ່າເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
-
-310
-00:21:49,150 --> 00:21:51,150
-[CHUPA]
-Trying to feed, puto baboso!
-ພະຍາຍາມໃຫ້ອາຫານ, ຄົນໂຊກຮ້າຍ!
-
-311
-00:21:51,650 --> 00:21:57,600
-[NYSSA]
-Do it and you die.  You heard Asad.  Until this is over, these people are our allies.
-ເຮັດມັນແລະເຈົ້າຈະຕາຍ. ເຈົ້າໄດ້ຍິນອາຊາດ.
-ຈົນກວ່າສິ່ງນີ້ຈະສິ້ນສຸດລົງ, ຄົນເຫຼົ່ານີ້ແມ່ນພັນທະມິດຂອງພວກເຮົາ.
-
-312
-00:21:58,100 --> 00:22:02,300
-[CHUPA]
-Oh I haven't forgotten about Asad.  I'm just wondering if you have.
-ໂອ້ ຂ້ອຍບໍ່ໄດ້ລືມອາຊາດ. ຂ້ອຍພຽງແຕ່ສົງໄສວ່າເຈົ້າມີບໍ.
-
-313
-00:22:02,800 --> 00:22:06,300
-[NYSSA]
-He's right about one thing.  We do have to survive.
-ລາວເວົ້າຖືກຕ້ອງກ່ຽວກັບສິ່ງດຽວ. ພວກເຮົາຕ້ອງຢູ່ລອດຊີວິດ.
-
-314
-00:22:06,800 --> 00:22:09,600
-[BLADE]
-You don't have to hunt to do it.
-ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງລ່າເພື່ອເຮັດມັນ.
-
-315
-00:22:10,100 --> 00:22:16,100
-[NYSSA]
-Really?  What are we supposed to do, then?  Starve ourselves because we fee on others in order to live?  What about that scumbag you just let off the hook? A nothing.  A drug-dealer.  How do you justify saving people like that?
-ແທ້ຈິງແລ້ວ? ພວກເຮົາຄວນເຮັດຫຍັງ, ຫຼັງຈາກນັ້ນ? ຍຶດຫິວຕົວເອງເພາະວ່າພວກເຮົາຈ່າຍຄ່າທໍານຽມຕໍ່ຄົນອື່ນເພື່ອດໍາລົງຊີວິດ?
-ຈະເປັນແນວໃດກັບຄົນໂຊກແຊງທີ່ເຈົ້າພຽງແຕ່ປ່ອຍອອກຈາກ hook ໄດ້? ບໍ່ມີຫຍັງເລີຍ. ຜູ້ຂາຍຢາເສບຕິດ. ເຈົ້າຍຸຕິທໍາການຊ່ວຍເຫຼືອຄົນແບບນັ້ນແນວໃດ?
-
-316
-00:22:16,600 --> 00:22:22,600
-[NYSSA]
-You know the Thirst better than any of us.  You're barely managing to tread water yourself.  Living in a constant state of pain, having to shoot up that serum of yours.  That's not what I call surviving, Blade.
-ເຈົ້າຮູ້ຄວາມດອກດອກດີກວ່າພວກເຮົາທຸກຄົນ. ເຈົ້າເກືອບບໍ່ສາມາດຍ່າງນ້ ໍາ ດ້ວຍຕົວເອງ. ດໍາ
-ລົງຊີວິດຢູ່ໃນສະພາບຄວາມເຈັບປວດຢ່າງຕໍ່ເນື່ອງ, ຕ້ອງສີດເຊຣູມຂອງທ່ານນັ້ນ. ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍເອີ້ນວ່າການຢູ່ລອດ, ບເລດ.
-
-317
-00:22:23,100 --> 00:22:25,550
-[WHISTLER]
-The hell are you fiddling with there?
-ເຈົ້າ ກໍາ ລັງຫຼິ້ນຢູ່ບ່ອນນັ້ນບໍ?
-
-318
-00:22:26,050 --> 00:22:32,050
-[SCUD]
-Tweaked the phosphor rod, modified the collimated beam, wanna concentrate the light, get something like a UV laser going.
-ຂ້ອຍໄດ້ປັບປຸງກະດານຟັສຟໍຣ໌, ປັບປ່ຽນແສງສະຫວ່າງທີ່ໂກລິມັດ,
-ຢາກສຸມໃສ່ແສງໄຟ, ໃຫ້ບາງສິ່ງບາງຢ່າງຄືກັບເລເຊີ UV ດໍາ ເນີນໄປ.
-
-319
-00:22:32,550 --> 00:22:35,000
-[WHISTLER]
-You're wasting your time, already been tried.
-ເຈົ້າ ກໍາ ລັງເສຍເວລາຂອງທ່ານ, ໄດ້ຖືກທົດລອງແລ້ວ.
-
-320
-00:22:35,500 --> 00:22:39,700
-[SCUD]
-Yeah, but you didn't have the Scudster working on it, did you?
-ແມ່ນແລ້ວ, ແຕ່ເຈົ້າບໍ່ມີ Scudster ເຮັດວຽກກ່ຽວກັບມັນ, ແມ່ນບໍ?
-
-321
-00:22:40,200 --> 00:22:42,300
-[WHISTLER]
-Nope.  Back then we did not.
-ບໍ່. ຕອນນັ້ນພວກເຮົາບໍ່ໄດ້ເຮັດ.
-
-322
-00:22:42,800 --> 00:22:45,600
-[SCUD]
-So how long have you known Blade, anyway?
-ເຈົ້າຮູ້ຈັກບເລດດົນປານໃດ, ຢ່າງໃດກໍຕາມ?
-
-323
-00:22:46,100 --> 00:22:48,100
-[WHISTLER]
-Going on twenty years now.
-ມັນ ກໍາ ລັງ ດໍາ ເນີນໄປເປັນເວລາສິບປີແລ້ວ.
-
-324
-00:22:48,600 --> 00:22:51,400
-[SCUD]
-Blade doesn't talk about the old days much.
-ບເລດບໍ່ເວົ້າກ່ຽວກັບສະໄຫມເກົ່າຫຼາຍ.
-
-325
-00:22:51,900 --> 00:22:55,400
-[WHISTLER]
-Blade doesn't talk about anything much.  What about you, though?
-ບເລດບໍ່ເວົ້າກ່ຽວກັບຫຍັງຫຼາຍ. ເຈົ້າແນວໃດ, ເຖິງຢ່າງໃດກໍ່ຕາມ?
-
-326
-00:22:55,900 --> 00:22:57,900
-[WHISTLER]
-Pretty.
-ດີເລີດ.
-
-327
-00:22:58,400 --> 00:23:04,400
-[SCUD]
-I was backpacking.  Hooked up with these two chicks who were off to see the Burning Man festival.  We were gonna take "E", have ourselves a little freeball out in the desert.  You know the riff, "Dear Penthouse, I never thought this would happen to me, but --"
-ຂ້ອຍ ກໍາ ລັງຖົງຫຼັງ. ຕິດຕໍ່ກັບເດັກຍິງສອງຄົນນີ້ທີ່ອອກໄປເບິ່ງງານບຸນຜູ້ຊາຍທີ່ເຜົາໄຫມ້. ພວກເຮົາຈະເອົາ"E",
-ມີຕົວເອງບານຟຣີນ້ອຍໆໃນທະເລຊາຍ. ເຈົ້າຮູ້ riff ໄດ້," Penthouse ທີ່ຮັກແພງ, ຂ້ອຍບໍ່ເຄີຍຄິດວ່າສິ່ງນີ້ຈະເກີດຂຶ້ນກັບຂ້ອຍ, ແຕ່ -"
-
-328
-00:23:04,900 --> 00:23:10,900
-[SCUD]
-Anyway, halfway through our Three's Company marathon, Janet and Chrissy started taking chunks out of me.  Woulda died too if Blade hadn't shown up and staked those mamacitas a new honeyhole.  Things kinda fell in place after that.
-ຢ່າງໃດກໍຕາມ, ໃນເຄິ່ງທາງຜ່ານມາຣາຊອນຂອງບໍລິສັດສາມຂອງພວກເຮົາ, ຈານຕ໌ ແລະ ຄຣິສຊີໄດ້ເລີ່ມຕົ້ນເອົາຊິ້ນສ່ວນອອກຈາກຂ້ອຍ.
-ວູລດາຈະຕາຍເຊັ່ນກັນຖ້າບເລດບໍ່ໄດ້ປາກົດຕົວແລະວາງແມມຊີຕາສ໌ນັ້ນເປັນຮູຫວານ ໃຫມ່. ສິ່ງບາງຢ່າງຕົກຢູ່ໃນບ່ອນຫຼັງຈາກນັ້ນ.
-
-329
-00:23:11,400 --> 00:23:13,500
-[SCUD]
-Took myself a few souvenirs, though.
-ເຖິງຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍໄດ້ເອົາເຄື່ອງລະນຶກບາງຢ່າງໃຫ້ຕົວເອງ.
-
-330
-00:23:14,000 --> 00:23:16,450
-[SCUD]
-Mmm-mmm.  Poppa's got a brand new bag.
-ມມມມ. ພໍ່ມີຖົງທີ່ໃຫມ່ແທ້ໆ.
-
-331
-00:23:16,950 --> 00:23:21,850
-[SCUD]
-The powerpacks have a limited charge, maybe ten minutes of continuous use at most.
-ກະເປົາພະລັງງານມີຄ່າສາກຈໍາກັດ,
-ບາງທີສິບນາທີຂອງການໃຊ້ຢ່າງຕໍ່ເນື່ອງສູງສຸດ.
-
-332
-00:23:22,350 --> 00:23:24,350
-[NYSSA]
-What are these?
-ເຫຼົ່ານີ້ແມ່ນຫຍັງ?
-
-333
-00:23:24,850 --> 00:23:30,850
-[SCUD]
-UV flashbang grenades with plug-in phosphor sticks --  This is for the grand finale.  Wired together a couple-dozen of those puppies.  But I'd be careful where you pop your load.  Might end up frying yourselves in the process.
-ລູກປືນແຟສບັງ UV ດ້ວຍກະດານຟັສຟໍຣ໌ທີ່ຕິດຕໍ່ - ນີ້ແມ່ນ ສໍາ ລັບການສິ້ນສຸດທີ່ຍິ່ງໃຫຍ່. ສາຍໄຟຮ່ວມກັນສອງສາມສິບຄົນຂອງຫມາ
-ຫມາ ນັ້ນ. ແຕ່ຂ້ອຍຈະລະມັດລະວັງບ່ອນທີ່ທ່ານປັບໂຫຼດຂອງທ່ານ. ອາດຈະສິ້ນເຊີຍການຕົ້ມຕົວເອງໃນຂະບວນການ.
-
-334
-00:23:31,350 --> 00:23:33,450
-[WHISTLER]
-What about you?  You're not coming?
-ເຈົ້າແນວໃດ? ເຈົ້າຈະບໍ່ມາບໍ?
-
-335
-00:23:33,950 --> 00:23:37,450
-[SCUD]
-After last night?  Dude, I'm a lover, not a fighter.
-ຫຼັງຈາກມື້ວານນີ້ບໍ? ເພື່ອນ, ຂ້ອຍເປັນຄົນຮັກ, ບໍ່ແມ່ນນັກຕໍ່ສູ້.
-
-336
-00:23:37,950 --> 00:23:42,500
-[ASAD]
-What good is all this firepower if we don't know where they're hiding?
-ຄວາມເຂັ້ມແຂງປືນທັງ ຫມົດ
-ນີ້ເປັນປະໂຫຍດຫຍັງຖ້າພວກເຮົາບໍ່ຮູ້ວ່າພວກເຂົາເຊື່ອງຢູ່ໃສ?
-
-337
-00:23:43,000 --> 00:23:45,800
-[BLADE]
-We won't need to.  They'll come to us.
-ພວກເຮົາຈະບໍ່ຈໍາເປັນຕ້ອງເຮັດ. ພວກເຂົາຈະມາຫາພວກເຮົາ.
-
-338
-00:23:46,300 --> 00:23:48,300
-[REINHARDT]
-How?
-ແນວໃດ?
-
-339
-00:23:48,800 --> 00:23:50,800
-[REINHARDT]
-This is fucking foul!
-ນີ້ແມ່ນໂຊກຮ້າຍແທ້ໆ!
-
-340
-00:23:51,300 --> 00:23:57,300
-[NYSSA]
-They're pheromones.  I infused them from that Reaper's adrenal glands.  All mammals use them to mark their territory.  Even vampires.
-ພວກມັນເປັນຟີໂຣໂມນ. ຂ້ອຍໄດ້ສີດພວກມັນຈາກກະດານ adrenal ຂອງຜູ້ເກັບກ່ຽວນັ້ນ.
-ສັດລ້ຽງທັງ ຫມົດ ໃຊ້ພວກມັນເພື່ອ ຫມາຍ ເຂດແດນຂອງພວກເຂົາ. ເຖິງແມ່ນວ່າແວມປີ.
-
-341
-00:23:57,800 --> 00:24:01,650
-[CHUPA]
-Fuck that!  I'm not spraying some gash hound's nut-juice on me!
-ຂ້ອຍບໍ່ໄດ້ສີດນ້ ໍາ ຫມາກ ນັດຂອງຫມາ gash ບາງຢ່າງໃສ່ຂ້ອຍ!
-
-342
-00:24:02,150 --> 00:24:07,750
-[NYSSA]
-Trust me, the Reapers will key to it. If we use this, we'll draw them out.
-ເຊື່ອຂ້ອຍ, ຜູ້ເກັບກ່ຽວຈະເປັນປຸ່ມ ສໍາ ຄັນຂອງມັນ
-. ຖ້າພວກເຮົາໃຊ້ສິ່ງນີ້, ພວກເຮົາຈະດຶງພວກເຂົາອອກ.
-
-343
-00:24:08,250 --> 00:24:10,250
-[BLADE]
-Time for Nyssa's pheromones.
-ມັນເຖິງເວລາແລ້ວ ສໍາ ລັບຟີໂຣໂມນຂອງນິສຊາ.
-
-344
-00:24:10,750 --> 00:24:12,750
-[WHISTLER]
-Eau de suckhead.  Tasty.
-ນ້ ໍາ ຂອງຫົວສູບ. ມ່ວນຊື່ນ.
-
-345
-00:24:13,250 --> 00:24:19,250
-[BLADE]
-We'll split into three units.  First team that makes contact wins the prize. Try to maintain radio silence from here on out.
-ພວກເຮົາຈະແບ່ງອອກເປັນສາມ ຫນ່ວຍ ງານ. ທີມງານ ທໍາ ອິດທີ່ຕິດຕໍ່ໄດ້ຊະນະລາງວັນ
-. ພະຍາຍາມຮັກສາຄວາມງຽບສະຫງົບທາງວິທະຍຸຈາກບ່ອນນີ້ອອກໄປ.
-
-346
-00:24:19,750 --> 00:24:21,750
-[CHUPA]
-Turn it off.
-ປິດມັນອອກ.
-
-347
-00:24:22,250 --> 00:24:25,400
-[CHUPA]
-We want to attract them, not scare them off.
-ພວກເຮົາຢາກດຶງດູດພວກເຂົາ, ບໍ່ແມ່ນເຮັດໃຫ້ພວກເຂົາຢ້ານກົວ.
-
-348
-00:24:25,900 --> 00:24:31,150
-[WHISTLER]
-Yeah, but you fangs can see in the dark. What am I supposed to do?
-ແມ່ນແລ້ວ, ແຕ່ເຈົ້າແຂ້ວສາມາດເຫັນໃນຄວາມມືດໄດ້. ຂ້ອຍຄວນເຮັດຫຍັງ?
-
-349
-00:24:31,650 --> 00:24:34,100
-[CHUPA]
-Bifocals, grandpa.  And try to keep up.
-Bifocals, ພໍ່ເຖົ້າ. ແລະພະຍາຍາມຕິດຕາມ.
-
-350
-00:24:34,600 --> 00:24:36,600
-[WHISTLER]
-Shit!
-ສະບາຍດີ!
-
-351
-00:24:37,100 --> 00:24:39,550
-[BLADE]
-Must be hundreds of these skeletons here.
-ມັນຕ້ອງມີກາກກະດູກເຫຼົ່ານີ້ຫຼາຍຮ້ອຍຄົນຢູ່ນີ້.
-
-352
-00:24:40,050 --> 00:24:42,050
-[REINHARDT]
-So?
-ແມ່ນແລ້ວບໍ່?
-
-353
-00:24:42,550 --> 00:24:47,450
-[BLADE]
-So I think you people may have underestimated how many Reapers you're dealing with.
-ສະນັ້ນຂ້ອຍຄິດວ່າເຈົ້າອາດຈະຖືກປະເມີນຕໍ່າວ່າເຈົ້າ
-ກໍາ ລັງປະເຊີນກັບຜູ້ເກັບກ່ຽວຫຼາຍປານໃດ.
-
-354
-00:24:47,950 --> 00:24:49,950
-[CHUPA]
-Hey,hillbilly.
-ເຮ້, Hillbilly.
-
-355
-00:24:50,450 --> 00:24:52,450
-[WHISTLER]
-What the fuck you doing?
-ເຈົ້າເຮັດຫຍັງຢູ່?
-
-356
-00:24:52,950 --> 00:24:58,950
-[CHUPA]
-Ain't nobody here but you and me, chicken wing.  I'd say this is as good a time as any to settle up.
-ບໍ່ມີໃຜຢູ່ບ່ອນນີ້ນອກຈາກເຈົ້າແລະຂ້ອຍ, ກະຕ່າໄກ່.
-ຂ້ອຍຈະເວົ້າວ່ານີ້ແມ່ນເວລາທີ່ດີເທົ່າກັບໃດກໍ່ຕາມທີ່ຈະແກ້ໄຂ.
-
-357
-00:24:59,450 --> 00:25:02,250
-[NYSSA]
-Blade.  We've got six Reapers.  They're all dead.
-ກະດານ. ພວກເຮົາມີຜູ້ເກັບກ່ຽວຫົກຄົນ. ພວກເຂົາທຸກຄົນຕາຍແລ້ວ.
-
-358
-00:25:02,750 --> 00:25:04,750
-[BLADE]
-Fry 'em.
-ປັ່ນພວກມັນ.
-
-359
-00:25:05,250 --> 00:25:07,250
-[ASAD]
-What?  Where did they go?
-ຫຍັງ? ພວກເຂົາໄປໃສ?
-
-360
-00:25:07,750 --> 00:25:09,850
-[VERLAINE]
-Screw that, where did Snowman go?
-ຄົນຫິມະໄປໃສ?
-
-361
-00:25:10,350 --> 00:25:12,350
-[NYSSA]
-Jesus, they were playing possum!
-ພຣະເຢຊູ, ພວກເຂົາ ກໍາ ລັງຫຼິ້ນໂອບຊູມ!
-
-362
-00:25:12,850 --> 00:25:18,850
-[A DOZEN REAPERS]
-Clinging to the ceiling above.  They drop down on Chupa like a pack of rabid dogs, literally tearing him in half.
-ພວກເຂົາຕິດກັບຊັ້ນເທິງຢູ່ເທິງ. ພວກເຂົາຕົກລົງໃສ່ Chupa
-ຄືກັບກະເປົາຂອງຫມາທີ່ໂຊກຮ້າຍ, ຕົວຈິງແລ້ວແບ່ງລາວເປັນເຄິ່ງຫນຶ່ງ.
-
-363
-00:25:19,350 --> 00:25:25,350
-[THE BERM OF HUMAN BONES]
-EXPLODE apart.  Reapers CHARGE towards them, hitting Blade in the chest, driving him backwards.  As Blade falls, his entry light swings upward, illuminating.
-ລະເບີດແຍກຕ່າງຫາກ. ຜູ້ເກັບຄ່າໃຊ້ຈ່າຍໄປຫາພວກເຂົາ, ຕີ Blade ໃນກະທູ້,
-ຂັບລົດລາວກັບຄືນໄປບ່ອນ. ໃນຂະນະທີ່ Blade ຕົກລົງ, ແສງສະຫວ່າງເຂົ້າໄປໃນຂອງລາວຫັນຂຶ້ນ, ແຈ້ງ.
-
-364
-00:25:25,850 --> 00:25:31,850
-[ANOTHER REAPER]
-Drops down atop Reinhardt, knocking his UV gun into the water.  We SEE even MORE REAPERS converging in on them from the side tunnels in a cacophony of SHADOW and NOISE.
-ຕົກລົງຢູ່ເທິງສຸດຂອງຣາຍນຮາດຕ໌, ປືນ UV ຂອງລາວລົງໃນນ້ ໍາ.
-ພວກເຮົາເຫັນຜູ້ທໍາລາຍຫຼາຍຂຶ້ນທີ່ເຂົ້າມາຫາພວກເຂົາຈາກທໍ່ຂ້າງໃນ cacophony ຂອງເງົາແລະສຽງດັງ.
-
-365
-00:25:32,350 --> 00:25:38,350
-[A REAPER]
-Leaps, landing on Verlaine's back.  It grabs her head and deftly SNAPS her spine in half with a sickening CRUNCH!
-ມັນໂດດຂຶ້ນ, ລົງຈອດຢູ່ເບື້ອງຫຼັງຂອງເວຣເລນ.
-ມັນຈັບຫົວຂອງນາງແລະກະຕຸ້ນຫລັງຂອງນາງໃນເຄິ່ງຫນຶ່ງດ້ວຍການສັ່ນສະເທືອນທີ່ເຈັບປວດ!
-
-366
-00:25:38,850 --> 00:25:40,850
-[NOMAK]
+00:04:16,548 --> 00:04:18,049
 Whistler.
 ວີສລເຕີ.
 
-367
-00:25:41,350 --> 00:25:45,550
-[NOMAK]
-If you survive this, tell your master. My end is my beginning.
-ຖ້າເຈົ້າລອດຊີວິດຈາກສິ່ງນີ້, ບອກເຈົ້າຂອງເຈົ້າ
-. ການສິ້ນສຸດຂອງຂ້ອຍແມ່ນການເລີ່ມຕົ້ນຂອງຂ້ອຍ.
-
-368
-00:25:46,050 --> 00:25:49,900
-[ON REINHARDT]
-Firing his non-UV weapon.  Two Reapers are closing in on him.
-ການຍິງອາວຸດທີ່ບໍ່ແມ່ນ UV ຂອງລາວ.
-ຜູ້ເກັບກ່ຽວສອງຄົນ ກໍາ ລັງໃກ້ຊິດກັບລາວ.
-
-369
-00:25:50,400 --> 00:25:52,400
-[BLADE]
-Take mine!
-ເອົາຂອງຂ້ອຍ!
-
-370
-00:25:52,900 --> 00:25:54,900
-[BLADE]
-Reinhardt!
-ຣາຍນຮາດ!
-
-371
-00:25:55,400 --> 00:25:57,400
-[BLADE]
-Re-group!  Re-group!
-ສະຫຼຸບກັນໃໝ່ເດີ້! ສະຫຼຸດກັນໃໝ່!
-
-372
-00:25:57,900 --> 00:25:59,900
-[NYSSA]
-Where's Chupa?
-ຈູປາຢູ່ໃສ?
-
-373
-00:26:00,400 --> 00:26:02,400
-[WHISTLER]
-Forget him, he's chunk-style.
-ລືມລາວ, ລາວເປັນແບບຊິ້ນສ່ວນ.
-
-374
-00:26:02,900 --> 00:26:04,900
-[ASAD]
-Same with Snowman and Verlaine.
-ເຊັ່ນດຽວກັນກັບຄົນຫິມະແລະເວຣເລນ.
-
-375
-00:26:05,400 --> 00:26:08,900
-[WHISTLER]
-Guess that perfume of yours did the trick after all?
-ຂ້ອຍຄິດວ່າກິ່ນຫອມຂອງເຈົ້າໄດ້ເຮັດວຽກໄດ້ບໍ?
-
-376
-00:26:09,400 --> 00:26:11,500
-[BLADE]
-A little too well, I'd say.
-ຂ້ອຍຈະເວົ້າວ່າດີເກີນໄປເລັກນ້ອຍ.
-
-377
-00:26:12,000 --> 00:26:18,000
-[DOZENS OF RED EYES]
-are staring out at them from the darkness of the Eastern Tunnel.  Then we hear a HISSING SOUND coming from the opposite direction.  Blade and the others spin around --
-ພວກເຮົາ ກໍາ ລັງເບິ່ງພວກມັນຈາກຄວາມມືດຂອງທໍ່ຕາເວັນອອກ.
-ຫຼັງຈາກນັ້ນພວກເຮົາໄດ້ຍິນສຽງສັ່ນສະເທືອນທີ່ມາຈາກທິດທາງກົງກັນຂ້າມ. ກະດານແລະຄົນອື່ນ ຫມູນ ວຽນ -
-
-378
-00:26:18,500 --> 00:26:24,500
-[MORE RED-EYED REAPERS]
-are closing in on them from the West.  AND THE NORTH.  AND THE SOUTH!  There must be forty of them in all.
-ພວກເຂົາ ກໍາ ລັງໃກ້ຊິດກັບພວກເຂົາຈາກຕາເວັນຕົກ.
-ແລະພາກເຫນືອ. ແລະທາງໃຕ້! ມັນຕ້ອງມີສີ່ສິບຄົນທັງ ຫມົດ.
-
-379
-00:26:25,000 --> 00:26:28,150
-[WHISTLER]
-Perfect.  We got the whole fucking Partridge family here.
-ດີເລີດ. ພວກເຮົາມີຄອບຄົວ Partridge ທັງ ຫມົດ ຢູ່ບ່ອນນີ້.
-
-380
-00:26:28,650 --> 00:26:34,650
-[A REAPER]
-Lunges at them from the North.  Asad triggers his UV laser, scorching the creature.  It HOWLS and slinks backwards.
-ກະທູ້ໃສ່ພວກເຂົາຈາກພາກເຫນືອ. ອາຊາດກະຕຸ້ນເລເຊີ UV ຂອງລາວ
-, ການເຜົາໄຫມ້ສັດ. ມັນ HOWLS ແລະ slides ກັບຄືນໄປບ່ອນ.
-
-381
-00:26:35,150 --> 00:26:41,150
-[TWO MORE REAPERS]
-Attack from the East and the West.  Blade and Nyssa respond in kind, burning their assailants in mid-air.  But even as they fire, their UV beams weaken, the flashes of light coming from their barrels pulsing less frequently.
-ການໂຈມຕີຈາກຕາເວັນອອກແລະຕາເວັນຕົກ. ບເລດ ແລະ ນີສຊາຕອບໂຕ້ແບບດຽວກັນ, ການເຜົາໄຫມ້ຜູ້ໂຊກຮ້າຍຂອງພວກເຂົາໃນກາງອາກາດ.
-ແຕ່ເຖິງແມ່ນວ່າພວກເຂົາຈະຍິງ, ແສງ UV ຂອງພວກເຂົາອ່ອນແອ, ການສ່ອງແສງແສງຈາກຖັງຂອງພວກເຂົາ pulsing ຫນ້ອຍ ລົງເລື້ອຍໆ.
-
-382
-00:26:41,650 --> 00:26:47,650
-[WHISTLER]
-Unless anybody has any bright ideas, I'd say we're about half a battery away from a reaper gang-bang.
-ເວັ້ນເສຍແຕ່ວ່າໃຜມີແນວຄິດທີ່ສົດໃສໃດໆ,
-ຂ້ອຍຈະເວົ້າວ່າພວກເຮົາຢູ່ຫ່າງຈາກແບັດເຕີຣີເຄິ່ງຫນຶ່ງຈາກການໂຈມຕີກຸ່ມເກັບກ່ຽວ.
-
-383
-00:26:48,150 --> 00:26:50,600
-[BLADE]
-Give me the rest of the pheromones.
-ໃຫ້ຂ້ອຍຟີໂຣໂມນທີ່ເຫຼືອ.
-
-384
-00:26:51,100 --> 00:26:53,100
-[ASAD]
-What are you doing?
-ເຈົ້າເຮັດຫຍັງຢູ່?
-
-385
-00:26:53,600 --> 00:26:59,600
-[BLADE]
-Verlaine's body is back there somewhere with the UV bomb.  If you train your guns in that direction, you'll drive an opening in their ranks.  I'll run for it.  When the Reapers come after me, you make a break for it the other way.
-ສົບຂອງເວຣເລນຢູ່ບ່ອນນັ້ນກັບລະເບີດ UV. ຖ້າເຈົ້າຝຶກອົບຮົມປືນຂອງທ່ານໃນທິດທາງນັ້ນ, ເຈົ້າຈະຂັບຂີ່ເປີດໃນແຖວຂອງພວກເຂົາ
-. ຂ້ອຍຈະແລ່ນໄປຫາມັນ. ເມື່ອຜູ້ເກັບກ່ຽວມາຕາມຂ້ອຍ, ເຈົ້າເຮັດການພັກຜ່ອນ ສໍາ ລັບມັນທາງອື່ນ.
-
-386
-00:27:00,100 --> 00:27:02,100
-[ASAD]
-You won't make it.
-ເຈົ້າຈະບໍ່ເຮັດໄດ້.
-
-387
-00:27:02,600 --> 00:27:04,700
-[BLADE]
-Then I'll die trying, won't I?
-ຫຼັງຈາກນັ້ນຂ້ອຍຈະຕາຍໃນການພະຍາຍາມ, ແມ່ນບໍ?
-
-388
-00:27:05,200 --> 00:27:07,200
-[NYSSA]
-Blade.
-ກະດານ.
-
-389
-00:27:07,700 --> 00:27:12,250
-[BLADE]
-Save it.  I don't want to hear your words.  Let's do this NOW!!!
-ຮັກສາມັນໄວ້. ຂ້ອຍບໍ່ຢາກໄດ້ຍິນຄໍາເວົ້າຂອງທ່ານ
-. ມາເຮັດສິ່ງນີ້ດຽວນີ້!!!
-
-390
-00:27:12,750 --> 00:27:18,750
-[ON WHISTLER]
-cut off from Nyssa and Asad.  He spots a maintenance ladder and runs for it, dragging himself up the rungs.  A Reaper leaps up the ladder after him --
-ຖືກຕັດອອກຈາກນິສຊາ ແລະ ອາຊາດ. ລາວເຫັນຂັ້ນເທິງການຮັກສາແລະແລ່ນໄປຫາມັນ
-, ດຶງຕົວເອງຂຶ້ນຂັ້ນເທິງ. ຜູ້ເກັບກ່ຽວໂດດຂຶ້ນຂັ້ນຕອນຫຼັງຈາກລາວ -
-
-391
-00:27:19,250 --> 00:27:25,250
-[BENEATH THE WATER]
-Asad still burns, flaring up and disintegrating from the surface on downward like a piece of liquid-drenched magnesium, bubbles streaming from his writing body.
-ອາຊາດຍັງໄຫມ້ຢູ່, ໄຫມ້ຂຶ້ນແລະລະລາຍຈາກພື້ນຜິວລົງໄປຂ້າງລຸ່ມຄືກັບຊິ້ນສ່ວນຂອງແມກນີຊຽມທີ່ຈົມນໍ້າແຫຼວ
-, ບັບບູລ໌ໄຫຼຈາກຮ່າງກາຍການຂຽນຂອງລາວ.
-
-392
-00:27:25,750 --> 00:27:31,000
-[NYSSA]
-Bleeding and horribly burned despite Asad's sacrifice.  Blade crouches, scooping her up into his arms.
-ການເລືອດແລະຖືກເຜົາໄຫມ້ຢ່າງຮ້າຍແຮງເຖິງແມ່ນວ່າການເສຍສະຫຼະຊີວິດຂອງອາຊາດ
-. ກະດານກະຕຸ້ນ, ເອົານາງຂຶ້ນໃນແຂນຂອງລາວ.
-
-393
-00:27:31,500 --> 00:27:33,500
-[ER NURSE]
-Sir, you can't just --
-ເຈົ້າ, ເຈົ້າບໍ່ສາມາດພຽງແຕ່...
-
-394
-00:27:34,000 --> 00:27:36,000
-[DOCTOR]
-What?!
-ຫຍັງ?!
-
-395
-00:27:36,500 --> 00:27:38,500
-[BLADE]
-She needs a hypertransfusion.  NOW!
-ນາງຕ້ອງການການຖ່າຍເລືອດສູງ. ດຽວນີ້!
-
-396
-00:27:39,000 --> 00:27:41,000
-[DOCTOR]
-God in Heaven.
-ພຣະເຈົ້າໃນສະຫວັນ.
-
-397
-00:27:41,500 --> 00:27:43,600
-[POLICEMAN]
-Alright, buddy, step away if --
-ດີແລ້ວ, ເພື່ອນ, ອອກໄປຖ້າ -
-
-398
-00:27:44,100 --> 00:27:46,100
-[BLADE]
-Do you want to die?
-ເຈົ້າຢາກຕາຍບໍ?
-
-399
-00:27:46,600 --> 00:27:48,600
-[DOCTOR]
-Not particularly.
-ບໍ່ເປັນຫຍັງເລີຍ.
-
-400
-00:27:49,100 --> 00:27:51,550
-[BLADE]
-Then get your fucking team in gear.
-ຫຼັງຈາກນັ້ນເອົາທີມງານຂອງທ່ານໃສ່ເຄື່ອງຈັກ.
-
-401
-00:27:52,050 --> 00:27:58,000
-[A SHAFT OF SUNLIGHT]
-cuts through an icy window pane above, angling down near Nyssa's cot.  Dust motes swirl about it.
-ຕັດຜ່ານກະດານປ່ອງຢ້ຽມນ້ ໍາ ກ້ອນຢູ່ເທິງ,
-ມຸມລົງຢູ່ໃກ້ກັບຕຽງນິດຊາ. ແມງໄມ້ຂີ້ຝຸ່ນ ຫມູນ ວຽນຢູ່ອ້ອມຂ້າງມັນ.
-
-402
-00:27:58,500 --> 00:28:00,600
-[NYSSA]
-Each day is a little life.
-ແຕ່ລະມື້ແມ່ນຊີວິດນ້ອຍໆ.
-
-403
-00:28:01,100 --> 00:28:03,100
-[BLADE]
-What?
-ຫຍັງ?
-
-404
-00:28:03,600 --> 00:28:09,600
-[NYSSA]
-"Each day is a little life.  Every waking and rising a little birth, every fresh morning a little youth, every going to rest and sleep a little death."
-ແຕ່ລະມື້ແມ່ນຊີວິດນ້ອຍໆ. ແຕ່ລະຕື່ນແລະຕື່ນເກີດນ້ອຍໆ,
-ແຕ່ລະເຊົ້າສົດໃສໄວຫນຸ່ມນ້ອຍ, ທຸກການໄປພັກຜ່ອນແລະນອນຕາຍເລັກນ້ອຍ.
-
-405
-00:28:10,100 --> 00:28:12,100
-[NYSSA]
-Anyone else make it?
-ມີໃຜອີກຄົນໃດເຮັດໄດ້ບໍ?
-
-406
-00:28:12,600 --> 00:28:14,600
-[BLADE]
-I don't think so.
-ຂ້ອຍບໍ່ຄິດດັ່ງນັ້ນ.
-
-407
-00:28:15,100 --> 00:28:17,100
-[NYSSA]
-Thank you.
-ຂອບໃຈ
-
-408
-00:28:17,600 --> 00:28:19,600
-[BLADE]
-For what?
-ສໍາລັບຫຍັງ?
-
-409
-00:28:20,100 --> 00:28:25,700
-[NYSSA]
-It would've been easy for you to let me die back there today, but you didn't.
-ມັນຈະງ່າຍຕໍ່ເຈົ້າທີ່ຈະປ່ອຍໃຫ້ຂ້ອຍຕາຍຢູ່ບ່ອນນັ້ນມື້ນີ້
-, ແຕ່ເຈົ້າບໍ່ໄດ້ເຮັດ.
-
-410
-00:28:26,200 --> 00:28:28,650
-[BLADE]
-I wouldn't read too much into it.
-ຂ້ອຍຈະບໍ່ອ່ານຫຼາຍເກີນໄປໃນມັນ.
-
-411
-00:28:29,150 --> 00:28:31,250
-[BLADE]
-You don't want to go there.
-ເຈົ້າບໍ່ຢາກໄປບ່ອນນັ້ນ.
-
-412
-00:28:31,750 --> 00:28:33,750
-[NYSSA]
-Why?
-ເປັນຫຍັງ?
-
-413
-00:28:34,250 --> 00:28:38,800
-[BLADE]
-Because one of us is going to kill the other before this ends.
-ເພາະວ່າຄົນຫນຶ່ງໃນພວກເຮົາຈະຂ້າຄົນອື່ນກ່ອນທີ່ເລື່ອງນີ້ຈະສິ້ນສຸດລົງ.
-
-414
-00:28:39,300 --> 00:28:43,850
-[NYSSA]
-It doesn't have to be like that.  We don't have to be enemies.
-ມັນບໍ່ຕ້ອງເປັນແບບນັ້ນ. ພວກເຮົາບໍ່ຈໍາເປັນຕ້ອງເປັນສັດຕູ.
-
-415
-00:28:44,350 --> 00:28:50,350
-[BLADE]
-Get real.  I was useful to Damaskinos as long as the hunt was still on.  Now that it's over, all bets are off.
-ເຂົ້າໃຈແທ້ໆ. ຂ້ອຍເປັນປະໂຫຍດຕໍ່ດາມາສກິນໂສ ຕາບໃດທີ່ການລ່າສັດຍັງ
-ດໍາ ເນີນຢູ່. ດຽວນີ້ມັນສິ້ນສຸດລົງແລ້ວ, ການພະນັນທັງ ຫມົດ ຖືກປິດລົງ.
-
-416
-00:28:50,850 --> 00:28:53,650
-[NYSSA]
-If that's true, then why'd you save me?
-ຖ້າມັນເປັນຄວາມຈິງ, ຫຼັງຈາກນັ້ນເຈົ້າໄດ້ຊ່ວຍຂ້ອຍເປັນຫຍັງ?
-
-417
-00:28:54,150 --> 00:28:56,600
-[NYSSA]
-Why do you hate us so much?
-ເຈົ້າກຽດຊັງພວກເຮົາຫຼາຍປານໃດ?
-
-418
-00:28:57,100 --> 00:29:02,000
-[BLADE]
-I am a hunter.  A weapon.  It's what I do.  It's in my blood.
-ຂ້ອຍເປັນນັກລ່າສັດ. ເປັນອາວຸດ.
-ມັນແມ່ນສິ່ງທີ່ຂ້ອຍເຮັດ. ມັນຢູ່ໃນເລືອດຂອງຂ້ອຍ.
-
-419
-00:29:02,500 --> 00:29:08,500
-[NYSSA]
-Well it's in mine, too.  I'm a pureblood.  I wasn't turned.  I was born this way.  Just like you.  Am I evil because I want to survive?  What about a wolf?  What about any predator?
-ດີມັນຢູ່ໃນຂອງຂ້ອຍເຊັ່ນກັນ. ຂ້ອຍເປັນເລືອດບໍລິສຸດ. ຂ້ອຍບໍ່ໄດ້ປ່ຽນໃຈເຫລື້ອມໃສ. ຂ້ອຍເກີດແບບນີ້.
-ຄືກັບເຈົ້າ. ຂ້ອຍຮ້າຍແຮງເພາະວ່າຂ້ອຍຢາກຢູ່ລອດຊີວິດບໍ? ກ່ຽວກັບແມວແນວໃດ? ກ່ຽວກັບສັດລ້ຽງໃດໆແນວໃດ?
-
-420
-00:29:09,000 --> 00:29:15,000
-[NYSSA]
-The only difference between you and me is that I made peace with who I was a long time ago.  I'm not ashamed of what I am.  You haven't been hunting us all these years.  You've been hunting yourself.
-ຄວາມແຕກຕ່າງດຽວລະຫວ່າງເຈົ້າແລະຂ້ອຍແມ່ນວ່າຂ້ອຍໄດ້ສ້າງສັນຕິພາບກັບຜູ້ທີ່ຂ້ອຍເປັນເມື່ອຍນານແລ້ວ.
-ຂ້ອຍບໍ່ໂຊກຮ້າຍກ່ຽວກັບສິ່ງທີ່ຂ້ອຍເປັນ. ເຈົ້າບໍ່ໄດ້ລ່າພວກເຮົາຕະຫຼອດປີນີ້. ເຈົ້າ ກໍາ ລັງລ່າຕົວເອງ.
-
-421
-00:29:15,500 --> 00:29:17,500
-[NYSSA]
-You're hurting me.
-ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ຂ້ອຍເຈັບປວດ.
-
-422
-00:29:18,000 --> 00:29:21,150
-[BLADE]
-Pain cuts the deepest, isn't that what you said?
-ຄວາມເຈັບປວດຕັດເລິກທີ່ສຸດ, ນັ້ນແມ່ນສິ່ງທີ່ເຈົ້າເວົ້າບໍ?
-
-423
-00:29:21,650 --> 00:29:23,650
-[BLADE]
-Reminds you you're alive?
-ຈື່ເຈົ້າວ່າເຈົ້າຍັງມີຊີວິດຢູ່ບໍ?
-
-424
-00:29:24,150 --> 00:29:30,150
-[THE TWO OF THEM]
-Naked on the tatami mats upon which Blade sleeps.  Skin beaded with sweat.  Breath steaming in the chill air.  He's atop her, moving inside her with measured thrusts.
-ເປົ່າຢູ່ເທິງກະຕ່າຕາດາມີທີ່ບເລດນອນຢູ່. ຜິວຫນັງທີ່ຖືກຕັດດ້ວຍຫວານ. ການຫາຍໃຈ
-steaming ໃນອາກາດເຢັນ. ລາວຢູ່ເທິງນາງ, ເຄື່ອນຍ້າຍພາຍໃນນາງດ້ວຍການຊຸກຍູ້ທີ່ວັດແທກ.
-
-425
-00:29:30,650 --> 00:29:36,650
-[PULLING BACK AGAIN]
-Nyssa clutching greedily at Blade like she never wants to let go.  Her soul is gone -- transported to that place we drift to when the euphoria overtake us and we're somehow able to transcend the horror of our fleeting lives.
-ນີສຊາຈັບບເລດຢ່າງໂຊກແຊງຄືກັບວ່ານາງບໍ່ເຄີຍຢາກປ່ອຍໄປ. ຈິດວິນຍານຂອງນາງຫາຍໄປແລ້ວ -
-ຖືກຂົນສົ່ງໄປບ່ອນນັ້ນທີ່ພວກເຮົາຍ່າງໄປເມື່ອຄວາມສຸກບັນລຸພວກເຮົາແລະພວກເຮົາສາມາດຂ້າມຄວາມຢ້ານກົວຂອງຊີວິດທີ່ຜ່ານໄປຂອງພວກເຮົາໄດ້ຢ່າງໃດກໍຕາມ.
-
-426
-00:29:37,150 --> 00:29:43,150
-[LATER]
-Blade and Nyssa lie in each other's arms, awash in moonlight, blissfully dead to the world until --
-ບເລດ ແລະ ນີສຊານອນຢູ່ໃນແຂນຂອງກັນແລະກັນ,
-ຖືກຖ້ວມໃນແສງເດືອນ, ຕາຍຢ່າງສຸກຕໍ່ໂລກຈົນກວ່າ -
-
-427
-00:29:43,650 --> 00:29:49,650
-[SOMETHING MAKES BLADE STIR]
-He sits up, listening.  Nyssa stirs beside him.  She moves to speak but Blade holds up a hand, silencing her.  Together, they slowly creep towards a nearby window where --
-ລາວນັ່ງຂຶ້ນ, ຟັງ. ນີສຊາກະຕຸ້ນຢູ່ຂ້າງລາວ. ນາງເຄື່ອນຍ້າຍເພື່ອເວົ້າແຕ່ບເລດຖືມືຂຶ້ນ
-, ປິດງຽບນາງ. ພ້ອມກັນ, ພວກເຂົາຍ່າງໄປສູ່ປ່ອງຢ້ຽມໃກ້ຊິດບ່ອນທີ່ -
-
-428
-00:29:50,150 --> 00:29:52,150
-[SCUD]
-What's going on?
-ເກີດຫຍັງຂຶ້ນ?
-
-429
-00:29:52,650 --> 00:29:54,650
-[BLADE]
-He was here.  Watching us.
-ລາວຢູ່ບ່ອນນີ້. ເບິ່ງພວກເຮົາ.
-
-430
-00:29:55,150 --> 00:29:57,150
-[SCUD]
-Nomak?
-ໂນມາກ?
-
-431
-00:29:57,650 --> 00:30:00,800
-[BLADE]
-He wants us to know he's hunting us now.
-ລາວຢາກໃຫ້ພວກເຮົາຮູ້ວ່າລາວ ກໍາ ລັງລ່າພວກເຮົາດຽວນີ້.
-
-432
-00:30:01,300 --> 00:30:07,300
-[MOMENTS LATER]
-Blade is at the computer workstation.  He activates the footage of Nomak he was viewing earlier.  He fast-forwards to a specific moment, then plays it back at normal speed.
-ບເລດຢູ່ສະຖານີເຮັດວຽກຄອມພິວເຕີ. ລາວເປີດໃຊ້ງານຮູບພາບຂອງໂນມາກທີ່ລາວ ກໍາ ລັງເບິ່ງກ່ອນຫນ້ານີ້
-. ລາວໄວຕໍ່ໄປເຖິງຊ່ວງເວລາທີ່ແນ່ນອນ, ຫຼັງຈາກນັ້ນຫຼິ້ນມັນກັບຄືນໄປບ່ອນດ້ວຍຄວາມໄວປົກກະຕິ.
-
-433
-00:30:07,800 --> 00:30:12,000
-[BLADE]
-Nomak said something to me before he disappeared the first time --
-ໂນມາກເວົ້າບາງສິ່ງບາງຢ່າງກັບຂ້ອຍກ່ອນທີ່ລາວຈະຫາຍໄປຄັ້ງ ທໍາ ອິດ -
-
-434
-00:30:12,500 --> 00:30:18,500
-[BLADE]
-Athelfiki singenia ex amato.  At first I thought he might've been using one of the vampire dialects.  But it turns out, it's Greek.  Do you know what it means?
-ຂ້ອຍຄິດວ່າລາວອາດຈະໃຊ້ພາສາ ຫນຶ່ງ ໃນພາສາແວມປີ. ແຕ່ມັນປາກົດວ່າ
-, ມັນແມ່ນພາສາເກຣັກ. ເຈົ້າຮູ້ວ່າມັນ ຫມາຍ ຄວາມວ່າແນວໃດ?
-
-435
-00:30:19,000 --> 00:30:21,000
-[BLADE]
-It means "bloodbrother."
-ມັນຫມາຍຄວາມວ່າ"ອ້າຍເລືອດ".
-
-436
-00:30:21,500 --> 00:30:23,500
-[NYSSA]
-I don't understand.
-ຂ້ອຍບໍ່ເຂົ້າໃຈ.
-
-437
-00:30:24,000 --> 00:30:26,000
-[WHISTLER]
-Well maybe I do.
-ແມ່ນແລ້ວ ບາງທີແມ່ນແລ້ວ.
-
-438
-00:30:26,500 --> 00:30:28,500
-[WHISTLER]
-Your security's for shit, kid.
-ຄວາມປອດໄພຂອງທ່ານແມ່ນໂຊກຮ້າຍ, ເດັກນ້ອຍ.
-
-439
-00:30:29,000 --> 00:30:31,100
-[BLADE]
-Where the hell have you been?
-ເຈົ້າຢູ່ໃສ?
-
-440
-00:30:31,600 --> 00:30:33,700
-[WHISTLER]
-Just out connecting a few dots.
-ພຽງແຕ່ອອກໄປເຊື່ອມຕໍ່ຈຸດບາງຢ່າງ.
-
-441
-00:30:34,200 --> 00:30:40,200
-[WHISTLER]
-Bangin' some vampire chick.  Kind of a faux pas in our line of work, wouldn't you say?  Hope you double bagged it, at least.
-ການຈັບເດັກຍິງແວມປີບາງຄົນ. ເປັນການກະທໍາຜິດພາດໃນສາຍການເຮັດວຽກຂອງພວກເຮົາ
-, ເຈົ້າບໍ່ເວົ້າບໍ? ຫວັງວ່າເຈົ້າໄດ້ຖົງມັນສອງຄັ້ງ, ຢ່າງຫນ້ອຍ.
-
-442
-00:30:40,700 --> 00:30:42,700
-[BLADE]
-What's your problem, Whistler?
-ບັນຫາຂອງເຈົ້າແມ່ນຫຍັງ, ວີສລເຕີ?
-
-443
-00:30:43,200 --> 00:30:45,300
-[WHISTLER]
-Why don't you ask your girlfriend?
-ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ຖາມແຟນຂອງທ່ານ?
-
-444
-00:30:45,800 --> 00:30:51,800
-[WHISTLER]
-I did some checking on that Carter Stevens character.  That familiar of theirs who claimed he was with the NIH? Turns out he used to work for them, but he doesn't anymore.
-ຂ້ອຍໄດ້ກວດສອບບາງຢ່າງກ່ຽວກັບຕົວລະຄອນແຄຕເຕີ ສຕິເວນສ໌ນັ້ນ. ຄົນທີ່ຮູ້ຈັກຂອງພວກເຂົາທີ່ອ້າງວ່າລາວຢູ່ກັບ
-NIH? ປາກົດວ່າລາວເຄີຍເຮັດວຽກ ສໍາ ລັບພວກເຂົາ, ແຕ່ລາວບໍ່ເຮັດອີກຕໍ່ໄປ.
-
-445
-00:30:52,300 --> 00:30:54,400
-[BLADE]
-Then who does he work for?
-ຫຼັງຈາກນັ້ນລາວເຮັດວຽກສໍາລັບໃຜ?
-
-446
-00:30:54,900 --> 00:31:00,900
-[WHISTLER]
-Some biotech outfit called Caliban Industries.  They've been lying to us since day one.  This Nomak fucker didn't evolve.  He was designed.
-ເຄື່ອງນຸ່ງຫົ່ມວິທະຍາສາດຊີວະພາບບາງຢ່າງທີ່ເອີ້ນວ່າອຸດສາຫະ ກໍາ ຄາລີບານ. ພວກເຂົາ ກໍາ
-ລັງຕົວະຕໍ່ພວກເຮົາຕັ້ງແຕ່ມື້ ທໍາ ອິດ. ຄົນໂຊກຮ້າຍໂນມາກຄົນນີ້ບໍ່ໄດ້ພັດທະນາ. ລາວຖືກອອກແບບ.
-
-447
-00:31:01,400 --> 00:31:03,850
-[NYSSA]
-I don't know what he's talking about.
-ຂ້ອຍບໍ່ຮູ້ວ່າລາວເວົ້າຫຍັງ.
-
-448
-00:31:04,350 --> 00:31:09,600
-[WHISTLER]
-You expect us to believe that?  Who you going to trust, Blade?  Me or her?
-ເຈົ້າຄາດວ່າພວກເຮົາຈະເຊື່ອສິ່ງນັ້ນບໍ
-? ເຈົ້າຈະເຊື່ອໃຜ, ບເລດ? ຂ້ອຍຫຼືນາງ?
-
-449
-00:31:10,100 --> 00:31:12,100
-[STEVENS]
-You?
-ເຈົ້າບໍ?
-
-450
-00:31:12,600 --> 00:31:18,600
-[BLADE]
-Stands in the entry way.  Whistler is behind him, holding a gun to Nyssa.  Scud is there, too.
-ຢືນຢູ່ທາງເຂົ້າ. ວີສລເຕີຢູ່ເບື້ອງຫຼັງລາວ,
-ຖືປືນຕໍ່ນິສຊາ. ສັກດຍັງຢູ່ບ່ອນນັ້ນເຊັ່ນກັນ.
-
-451
-00:31:19,100 --> 00:31:21,100
-[BLADE]
-Start talking, bitch.
-ເລີ່ມເວົ້າ, ໂຊກຮ້າຍ.
-
-452
-00:31:21,600 --> 00:31:23,700
-[STEVENS]
-I don't know what you --
-ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າ...
-
-453
-00:31:24,200 --> 00:31:26,200
-[BLADE]
-Nomak!  You created him!
-ໂນມາກ! ເຈົ້າໄດ້ສ້າງລາວ!
-
-454
-00:31:26,700 --> 00:31:28,800
-[STEVENS]
-Ohgodohgodohgod...  Alright, alright.  Yes, we did...
-ໂອ້ ພຣະເຈົ້າພຣະເຈົ້າ... ດີແລ້ວ, ດີແລ້ວ. ແມ່ນແລ້ວ, ພວກເຮົາເຮັດ...
-
-455
-00:31:29,300 --> 00:31:33,500
-[PLEASE!  PLEASE!!!]
-Blade releases him.  Stevens sinks to the floor, cradling his brutalized face.
-ກະດານປ່ອຍລາວ. ສຕິເວນສ໌ຕົກລົງລົງພື້ນ, ຕັບໃບຫນ້າທີ່ໂຊກຮ້າຍຂອງລາວ.
-
-456
-00:31:34,000 --> 00:31:36,100
-[BLADE]
-Keep talking, Stevens.  Tell me why.
-ສືບຕໍ່ເວົ້າ, ສຕິເວນສ໌. ບອກຂ້ອຍວ່າເປັນຫຍັງ.
-
-457
-00:31:36,600 --> 00:31:42,600
-[STEVENS]
-The Shadow Cabinet.  For decades they've been trying to find a way to rid themselves of their hereditary weaknesses.  Viral epidemiology, immunochemistry.  Recombinant DNA was the next logical step.
-ຄະນະລັດຖະບານເງົາ. ເປັນເວລາຫຼາຍສິບປີພວກເຂົາ ກໍາ ລັງພະຍາຍາມຊອກຫາວິທີທີ່ຈະ ກໍາ ຈັດຕົນເອງຈາກຄວາມອ່ອນແອທີ່ເກີດຈາກເຊື້ອຊາດຂອງພວກເຂົາ
-. ວິທະຍາສາດພະຍາດລະບາດໄວຣັສ, ເຄມີຕ້ານທານ. DNA ທີ່ປະສົມປະສານແມ່ນບາດກ້າວທີ່ສົມເຫດສົມຜົນຕໍ່ໄປ.
-
-458
-00:31:43,100 --> 00:31:47,300
-[NYSSA]
-No, that's not possible.  They wouldn't keep something like this from me...
-ບໍ່, ນັ້ນບໍ່ສາມາດເຮັດໄດ້. ພວກເຂົາຈະບໍ່ເຊື່ອງສິ່ງນີ້ຈາກຂ້ອຍ...
-
-459
-00:31:47,800 --> 00:31:53,800
-[STEVENS]
-Your father didn't want you to know.  Something went wrong.  The Reaper strain was too aggressive.  Then Nomak escaped.
-ພໍ່ເຈົ້າບໍ່ຢາກໃຫ້ເຈົ້າຮູ້. ບາງສິ່ງບາງຢ່າງຜິດພາດ. ສາຍພັນ
-Reaper ແມ່ນຮຸນແຮງເກີນໄປ. ຫຼັງຈາກນັ້ນໂນມາກໄດ້ຫນີໄປ.
-
-460
-00:31:54,300 --> 00:31:57,800
-[WHISTLER]
-And we're supposed to clean up your mess.  Fucking perfect.
-ແລະພວກເຮົາຄວນເຮັດຄວາມສະອາດຄວາມສັບສົນຂອງທ່ານ. ດີເລີດ.
-
-461
-00:31:58,300 --> 00:32:04,300
-[STEVENS]
-Look, the fact that Nomak was artificially created didn't make the threat any less urgent.  He was still out there, spreading the Reaper virus.
-ເບິ່ງ, ຄວາມຈິງທີ່ວ່າໂນມາກຖືກສ້າງຂື້ນຢ່າງດິດສ້າງບໍ່ໄດ້ເຮັດໃຫ້ໄພຂົ່ມຂູ່ມີຄວາມຮີບດ່ວນ
-ຫນ້ອຍ ກວ່າ. ລາວຍັງຢູ່ບ່ອນນັ້ນ, ການແຜ່ລະບາດໄວຣັສ Reaper.
-
-462
-00:32:04,800 --> 00:32:09,350
-[BLADE]
-The genetic material you spliced into Nomak --  Where did you get it?
-ວັດສະດຸພັນທະນະທໍາທີ່ທ່ານໄດ້ເຊື່ອມໂຍງເຂົ້າໄປໃນໂນມາກ
-- ເຈົ້າເອົາມັນຈາກໃສ?
-
-463
-00:32:09,850 --> 00:32:13,350
-[DAMASKINOS]
-I should think that would be obvious at this point.
-ຂ້ອຍຄວນຄິດວ່າມັນຈະແຈ້ງຢູ່ຈຸດນີ້.
-
-464
-00:32:13,850 --> 00:32:16,300
-[DAMASKINOS]
-We took the genetic material from you.
-ພວກເຮົາເອົາວັດສະດຸພັນທຸຈາກເຈົ້າ.
-
-465
-00:32:16,800 --> 00:32:22,800
-[DAMASKINOS]
-Jared Nomak is your genetic brother. And I suppose if you follow that line of reasoning to its logical conclusion, then these are your offspring.
-ເຈຣດ ໂນມາກແມ່ນອ້າຍພັນທຸ ກໍາ ຂອງທ່ານ. ແລະຂ້ອຍຄິດວ່າຖ້າທ່ານຕິດຕາມເສັ້ນຄວາມຄິດເຫັນນັ້ນຈົນເຖິງຂໍ້ສະຫຼຸບທີ່ສົມເຫດສົມຜົນຂອງມັນ
-, ຫຼັງຈາກນັ້ນພວກນີ້ແມ່ນລູກຫຼານຂອງທ່ານ.
-
-466
-00:32:23,300 --> 00:32:29,300
-[THE EUGENICS CHAMBER]
-We are in a vast, multitiered, temperature-controlled chamber -- equal parts 21st century medical facility and Hammer House of Horror.
-ພວກເຮົາຢູ່ໃນຫ້ອງທີ່ກວ້າງຂວາງ, ຫຼາຍຊັ້ນ, ຄວບຄຸມອຸນຫະພູມ -
-ສ່ວນເທົ່າທຽມກັນສະຖາບັນການແພດສະຕະວັດທີ 21 ແລະ ເຮືອນຂອງຄວາມຢ້ານກົວ Hammer.
-
-467
-00:32:29,800 --> 00:32:35,800
-[TINY EMBRYOS]
-Each no bigger than a thumbnail, line the walls of the chamber, preserved in credit card sized cryo-cases.  There are thousands of them, resting atop one another in racks with stretch from the floor on upwards.
-ແຕ່ລະຄົນບໍ່ໃຫຍ່ກວ່າກະຕ່າກະຕູ້ກະຕຸ້ນກະຕູ້ນະຕູ້, ຖືກຮັກສາໄວ້ໃນກໍລະນີຄຣີໂອຂະຫນາດບັດເຄຣດິດ. ມີຫຼາຍພັນຄົນຂອງພວກເຂົາ, ພັກຜ່ອນຢູ່ເທິງກັນແລະກັນໃນ racks ກັບຍືດຫຍຸ່ນຈາກພື້ນຂຶ້ນໄປ.
-
-468
-00:32:36,300 --> 00:32:42,300
-[DAMASKINOS]
-A new breed, begotten from your own flesh.  Immune to silver, even sunlight.  The wolves have lain with the sheep long enough.  No more compromises.  No more deals.  Only closure.
-ສາຍພັນ ໃຫມ່, ເກີດຈາກຊີ້ນຂອງທ່ານເອງ. ປ້ອງກັນຕໍ່ເງິນ, ເຖິງແມ່ນວ່າແສງຕາເວັນ.
-ແມວໄດ້ນອນກັບແມວດົນພໍສົມຄວນ. ບໍ່ມີການຕົກລົງອີກຕໍ່ໄປ. ບໍ່ມີຂໍ້ຕົກລົງເພີ່ມເຕີມ. ພຽງແຕ່ປິດ.
-
-469
-00:32:42,800 --> 00:32:48,800
-[REINHARDT]
-enters from the shadows, holding Scud's rail-gun.  Much of his face has been burnt away, leaving him with a ghastly death's head mask of blackened muscle and exposed bone.
-ເຂົ້າມາຈາກເງົາ, ຖືປືນລົດໄຟຂອງສັກດ໌. ສ່ວນໃຫຍ່ຂອງໃບຫນ້າຂອງລາວໄດ້ຖືກເຜົາໄຫມ້ໄປ,
-ເຮັດໃຫ້ລາວມີ ຫນ້າ ກາກຫົວຂອງຄວາມຕາຍທີ່ຮ້າຍແຮງຈາກກ້າມຊີ້ນທີ່ສີດໍາແລະກະດູກທີ່ເປີດເຜີຍ.
-
-470
-00:32:49,300 --> 00:32:51,400
-[REINHARDT]
-Put it back in park, Blade.
-ເອົາມັນກັບຄືນໄປບ່ອນສວນສາທາລະນະ, ບເລດ.
-
-471
-00:32:51,900 --> 00:32:53,900
-[BLADE]
-Thought you were dead.
-ຂ້ອຍຄິດວ່າເຈົ້າຕາຍແລ້ວ.
-
-472
-00:32:54,400 --> 00:32:58,250
-[REINHARDT]
-Seems like there's a lot of that going around these days.
-ເບິ່ງຄືວ່າມີຫຼາຍຢ່າງທີ່ເກີດຂຶ້ນໃນມື້ນີ້.
-
-473
-00:32:58,750 --> 00:33:04,350
-[REINHARDT]
-Six-thousand feet per second, isn't that what Whistler said?  Let's see you dodge this one --
-ຫົກພັນແມັດຕໍ່ວິນາທີ, ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ວີສລເຕີເວົ້າບໍ
-? ມາເບິ່ງວ່າເຈົ້າຫຼີກເວັ້ນຄົນນີ້ -
-
-474
-00:33:04,850 --> 00:33:06,850
-[NYSSA]
-Blade!
-ກະດານ!
-
-475
-00:33:07,350 --> 00:33:13,350
-[ON BLADE]
-Gritting his teeth against the pain.  He reaches inside his combat harness, pulling out the remote detonator for the explosive flechette in Reinhardt's skull.
-ລາວຍືດແຂ້ວຂອງຕົນຕໍ່ຕ້ານຄວາມເຈັບປວດ. ລາວຍ່າງເຂົ້າໄປໃນກະດານຕໍ່ສູ້ຂອງລາວ
-, ດຶງເຄື່ອງລະເບີດຫ່າງໄກສອກຫຼີກ ສໍາ ລັບກະຕູ້ລະເບັງໃນຫົວຂອງຣາຍນຮາດ.
-
-476
-00:33:13,850 --> 00:33:15,850
-[BLADE]
-Kiss your ass goodbye, Reinhardt.
-ຈູບຫລັງເຈົ້າອວຍພອນ, ຣາຍນຮາດ.
-
-477
-00:33:16,350 --> 00:33:19,500
-[SCUD]
-You're wasting your time, Blade.  The flechette's a dud.
-ເຈົ້າ ກໍາ ລັງເສຍເວລາຂອງທ່ານ, ບເລດ. ຟເລັກເກັດແມ່ນໂຊກຮ້າຍ.
-
-478
-00:33:20,000 --> 00:33:26,000
-[SCUD]
-It was never supposed to explode.  All it was supposed to do was make you feel like you were in control.
-ມັນບໍ່ຄວນລະເບີດເລີຍ.
-ມັນຄວນເຮັດພຽງແຕ່ເຮັດໃຫ້ເຈົ້າຮູ້ສຶກວ່າເຈົ້າຄວບຄຸມ.
-
-479
-00:33:26,500 --> 00:33:32,500
-[REINHARDT]
-Thought you had me on a short leash, didn't you, chief?  Only it turns out, you're the one that's been on the leash.
-ເຈົ້າຄິດວ່າເຈົ້າມີຂ້ອຍຢູ່ເທິງສາຍແອວສັ້ນ, ແມ່ນບໍ, ຫົວຫນ້າ
-? ພຽງແຕ່ມັນປາກົດວ່າ, ເຈົ້າເປັນຄົນທີ່ຢູ່ໃສ່ສາຍແ ອວ.
-
-480
-00:33:33,000 --> 00:33:35,000
-[REINHARDT]
-That's better.
-ນັ້ນດີກວ່າ.
-
-481
-00:33:35,500 --> 00:33:37,600
-[SCUD]
-See, I'm one of Damaskinos' familiars.
-ເຈົ້າເຫັນແລ້ວ, ຂ້ອຍເປັນຄົນຫນຶ່ງໃນຄອບຄົວຂອງດາມາສກິນໂສ.
-
-482
-00:33:38,100 --> 00:33:40,100
-[SCUD]
-Yeah, your little cootchie knew.
-ແມ່ນແລ້ວ, ລູກນ້ອຍຂອງເຈົ້າຮູ້.
-
-483
-00:33:40,600 --> 00:33:43,750
-[WHISTLER]
-You little shit.  When did they get to you?
-ພວກເຂົາມາຫາເຈົ້າເມື່ອໃດ?
-
-484
-00:33:44,250 --> 00:33:50,250
-[SCUD]
-Back when Blade had me hunting down your puckered old ass.  What's up with your hair, anyway?  Fucking Willie Nelson look-a-like?
-ກັບຄືນໄປບ່ອນເມື່ອບເລດເຮັດໃຫ້ຂ້ອຍລ່າຫລັງເກົ່າທີ່ສໍ້ໂກງຂອງທ່ານ.
-ມີຫຍັງເກີດຂຶ້ນກັບຜົມຂອງທ່ານ, ຢ່າງໃດກໍຕາມ? ເບິ່ງຄືວ່າວີລີ ເນລສັນ?
-
-485
-00:33:50,750 --> 00:33:53,200
-[SCUD]
-Man, I so wanted to do that.
-ຜູ້ຊາຍ, ຂ້ອຍຢາກເຮັດແບບນັ້ນຫຼາຍ.
-
-486
-00:33:53,700 --> 00:33:59,700
-[SCUD]
-And you.  You never cared about me.  I gave you everything.  All you cared about was digging up the old fuck!  You think they scoped out my security system?  I let them in.  Dude, I practically gave 'em the fucking keys.  I've been feeding Damaskinos information the whole time. Providing them with samples of your genetic material -- helping them with the Reaper program.  They're close, Blade.  Right up against it.  Any day now, they're all going to be Daywalkers. And when that happens, well, let's just say, I don't want to be on the losing team.  You may be strong, you may be fast, but in the end, you're just too human, B.
-ແລະເຈົ້າ. ເຈົ້າບໍ່ເຄີຍສົນໃຈຂ້ອຍເລີຍ. ຂ້ອຍໃຫ້ເຈົ້າທຸກຢ່າງ. ເຈົ້າພຽງແຕ່ສົນໃຈການຂຸດຄົ້ນແຊກແຊງເກົ່າ! ເຈົ້າຄິດວ່າພວກເຂົາໄດ້ຄົ້ນພົບລະບົບຄວາມປອດໄພຂອງຂ້ອຍບໍ? ຂ້ອຍປ່ອຍໃຫ້ພວກເຂົາເຂົ້າມາ. ເພື່ອນ
-, ຂ້ອຍເກືອບໃຫ້ພວກມັນປຸ່ມແຊບແຊມແຊ. ຂ້ອຍ ກໍາ ລັງໃຫ້ຂໍ້ມູນຂອງດາມາສກິນໂສຕະຫຼອດເວລາ. ການສະ ຫນອງ ຕົວຢ່າງຂອງວັດສະດຸທາງພັນຂອງທ່ານໃຫ້ພວກເຂົາ - ຊ່ວຍພວກເຂົາກັບໂປແກຼມ Reaper. ພວກເຂົາໃກ້ຊິດ, ບເລດ.
-
-487
-00:34:00,200 --> 00:34:04,050
-[SCUD]
-So that's down and dirty.  Got anything to say for yourself?
-ສະນັ້ນມັນຢູ່ລຸ່ມແລະເປື້ອນ. ມີຫຍັງທີ່ຈະເວົ້າເພື່ອຕົວເອງບໍ?
-
-488
-00:34:04,550 --> 00:34:10,550
-[BLADE]
-Two things.  One, I was on to you the moment they turned you.  And two --  I switched that dud of yours back with the real one.
-ສອງສິ່ງ. ຫນຶ່ງ, ຂ້ອຍເຫັນເຈົ້າໃນເວລາທີ່ພວກເຂົາປ່ຽນເຈົ້າ
-. ແລະສອງ - ຂ້ອຍປ່ຽນຄົນໂຊກຮ້າຍຂອງເຈົ້າກັບຄົນແທ້ຈິງ.
-
-489
-00:34:11,050 --> 00:34:13,050
-[REINHARDT]
-Son of a bitch!
-ລູກໂຊກຮ້າຍ!
-
-490
-00:34:13,550 --> 00:34:15,550
-[DAMASKINOS]
-Reinhardt!
-ຣາຍນຮາດ!
-
-491
-00:34:16,050 --> 00:34:20,950
-[REINHARDT]
-What about him, then?  Me and Hobo Kelly here have a little unfinished business.
-ແລ້ວລາວແນວໃດ? ຂ້ອຍແລະໂຮໂບ
-ເຄລລີຢູ່ນີ້ມີທຸລະກິດນ້ອຍໆທີ່ຍັງບໍ່ສໍາເລັດ.
-
-492
-00:34:21,450 --> 00:34:25,650
-[CLOSE ON]
-Blade's sword pommel as the booby-trap blades in the handle spring out.
-ກະດານກະທູ້ກະດານຂອງກະດາດໃນຂະນະທີ່ກະດູກກະດ່າກະຕ່າກະດ້າກະດວງກະດ່າງກະດິງກະດ້າງກະດົງກະດົນກະດອງກະດ່ານກະດຸນກະດຸງກະດັງກະດັນກະດອນກະດັ່ງກະດວນກະດູນກະດິນກະດູ້ນກະດະນກະດ
-
-493
-00:34:26,150 --> 00:34:28,150
-[REINHARDT]
+37
+00:04:18,717 --> 00:04:21,261
+He taught me how to hold
+the thirst at bay.
+ລາວສອນຂ້ອຍວິທີການ
+ຮັກສາຄວາມຢາກຢູ່ຫ່າງໄກ.
+
+38
+00:04:22,179 --> 00:04:24,347
+Taught me the rules.
+ສອນຂ້ອຍກົດລະບຽບ.
+
+39
+00:04:24,514 --> 00:04:27,642
+Gave me the weapons to hunt with:
+ໃຫ້ຂ້ອຍອາວຸດທີ່ຈະລ່າສັດດ້ວຍ:
+
+40
+00:04:27,809 --> 00:04:32,522
+Silver, garlic, sunlight.
+ເງິນ, ໝາກ ໄມ້, ແສງແດດ.
+
+41
+00:04:33,607 --> 00:04:35,859
+Two years ago, he was attacked.
+ສອງປີກ່ອນ, ລາວຖືກໂຈມຕີ.
+
+42
+00:04:36,026 --> 00:04:40,614
+They took him, and turned him
+into the thing I hate most.
+ພວກເຂົາເອົາລາວໄປ,ແລະເຮັດໃຫ້ລາວ
+ກາຍເປັນສິ່ງທີ່ຂ້ອຍກຽດຊັງທີ່ສຸດ.
+
+43
+00:04:42,657 --> 00:04:45,243
+I should have finished him off.
+ຂ້ອຍຄວນຈະສິ້ນສຸດລາວ.
+
+44
+00:04:45,410 --> 00:04:47,579
+Now I'm hunting him.
+ດຽວນີ້ຂ້ອຍ ກໍາ ລັງລ່າລາວ.
+
+45
+00:04:50,582 --> 00:04:52,626
+I will find him.
+ຂ້ອຍຈະຊອກຫາລາວ.
+
+46
+00:04:52,793 --> 00:04:56,379
+And nothing will stand in my way.
+ແລະບໍ່ມີຫຍັງຈະຢືນຢູ່ທາງຂອງຂ້ອຍ.
+
+47
+00:05:18,985 --> 00:05:21,446
+Daywalker's here! Stop him!
+Daywalker ຢູ່ບ່ອນນີ້! ຢຸດລາວ!
+
+48
+00:05:35,377 --> 00:05:36,711
+Where is he?
+ລາວຢູ່ໃສ?
+
+49
+00:06:21,506 --> 00:06:23,133
+Hey!
+ເຮ້!
+
+50
+00:08:15,537 --> 00:08:16,579
+No, no.
+ບໍ່, ບໍ່.
+
+51
+00:08:22,627 --> 00:08:27,382
+Take me to him, and I'll
+consider you a loose end.
+ເອົາຂ້ອຍໄປຫາລາວ,ແລະຂ້ອຍຈະ
+ພິຈາລະນາເຈົ້າເປັນຈຸດທີ່ວ່າງ.
+
+52
+00:10:49,399 --> 00:10:50,525
+Catch you later.
+ພົບກັນຕໍ່ມາ.
+
+53
+00:11:28,688 --> 00:11:30,481
+Old man.
+ຜູ້ເຖົ້າ.
+
+54
+00:11:30,899 --> 00:11:32,817
+Look at what they've done to you.
+ເບິ່ງວ່າພວກເຂົາເຮັດຫຍັງກັບເຈົ້າ.
+
+55
+00:12:27,538 --> 00:12:28,748
+Let's go home.
+ໄປບ້ານກັນ.
+
+56
+00:13:16,587 --> 00:13:20,425
+Lock up your daughters, boys and girls,
+the dark knight returns.
+ປິດລູກສາວຂອງເຈົ້າໄວ້,ເດັກຊາຍ
+ແລະເດັກຍິງ,ນັກຮົບມືດກັບມາ.
+
+57
+00:13:25,555 --> 00:13:28,141
+- Need a toke of the smokage there, B?
+- Later.
+- ເຈົ້າຕ້ອງການສູບຢາຢູ່ບ່ອນນັ້ນບໍ, ບີ?
+- ຫຼັງຈາກນັ້ນ.
+
+58
+00:13:28,975 --> 00:13:30,476
+Cut the lights.
+ປິດແສງໄຟ.
+
+59
+00:13:36,274 --> 00:13:38,067
+You found him.
+ເຈົ້າພົບລາວແລ້ວ.
+
+60
+00:13:43,489 --> 00:13:44,782
+You didn't kill him.
+ເຈົ້າບໍ່ໄດ້ຂ້າລາວ.
+
+61
+00:13:46,826 --> 00:13:47,952
+Give me a hand.
+ຊ່ວຍຂ້ອຍ.
+
+62
+00:13:50,621 --> 00:13:53,750
+I got a bad feeling about this, B.
+ຂ້ອຍມີຄວາມຮູ້ສຶກບໍ່ດີ
+ກ່ຽວກັບເລື່ອງນີ້,ບີ.
+
+63
+00:13:54,417 --> 00:13:57,503
+Unh! Listen to his breathing.
+He's already dying.
+ໂອ້!ຟັງການຫາຍໃຈຂອງ
+ລາວ.ລາວກໍາລັງຕາຍແລ້ວ.
+
+64
+00:13:57,670 --> 00:14:00,381
+He's in pain. Why don't you
+just put him out of his misery?
+ລາວເຈັບປວດ.ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເອົາ
+ລາວອອກຈາກຄວາມທຸກທໍລະມານຂອງລາວ?
+
+65
+00:14:00,548 --> 00:14:02,550
+They had him on stasis
+in a halfway house.
+ພວກເຂົາມີລາວຢູ່ໃນ
+stasis ໃນເຮືອນເຄິ່ງທາງ.
+
+66
+00:14:03,718 --> 00:14:06,471
+I'm giving him an accelerated
+retro-viral detox.
+ຂ້ອຍກໍາລັງໃຫ້ລາວການກໍາຈັດ
+ພິດໄວຣັດ retro ທີ່ໄວຂຶ້ນ.
+
+67
+00:14:06,929 --> 00:14:08,056
+Like a heroin addict.
+ຄືກັບຄົນຕິດເຮໂຣອິນ.
+
+68
+00:14:09,182 --> 00:14:11,559
+- Agh!
+- Make him go cold turkey in one night.
+- ໂອ້!
+- ເຮັດໃຫ້ລາວໄປເຢັນໃນຄືນດຽວ.
+
+69
+00:14:11,726 --> 00:14:13,144
+Shit ain't gonna work, man.
+ມັນຈະບໍ່ເຮັດວຽກ, ຜູ້ຊາຍ.
+
+70
+00:14:13,311 --> 00:14:15,313
+I say you kill the motherfucker right now.
+ຂ້ອຍເວົ້າວ່າເຈົ້າຂ້າຄົນໂຊກຮ້າຍດຽວນີ້.
+
+71
+00:14:16,439 --> 00:14:17,815
+Get out.
+ອອກໄປ.
+
+72
+00:14:27,158 --> 00:14:32,497
+If there's anything left of you
+in there, Whistler, listen up.
+ຖ້າມີຫຍັງເຫຼືອຈາກເຈົ້າ
+ຢູ່ບ່ອນນັ້ນ,ວີສລເຕີ,ຟັງ.
+
+73
+00:14:33,331 --> 00:14:36,626
+In the morning, those blinds
+are going to open...
+ໃນຕອນເຊົ້າ, ຕາບອດເຫຼົ່ານັ້ນຈະເປີດ...
+
+74
+00:14:37,335 --> 00:14:41,130
+...whether you're cured or not.
+ບໍ່ວ່າເຈົ້າໄດ້ຮັບການປິ່ນປົວຫຼືບໍ່.
+
+75
+00:14:52,892 --> 00:14:55,019
+Hey, man, I didn't mean to call him...
+ເຮ້,ຜູ້ຊາຍ,ຂ້ອຍບໍ່ໄດ້
+ຕັ້ງໃຈໂທຫາລາວ...
+
+76
+00:15:33,933 --> 00:15:36,310
+Listen to me, Blade.
+ຟັງຂ້ອຍ, ບເລດ.
+
+77
+00:15:38,396 --> 00:15:41,441
+- You're gonna have to finish me off.
+- No.
+- ເຈົ້າຈະຕ້ອງຂ້າຂ້ອຍໝົດ.
+- ບໍ່.
+
+78
+00:15:42,733 --> 00:15:44,902
+Give me that damn gun.
+ໃຫ້ປືນນັ້ນໃຫ້ຂ້ອຍ.
+
+79
+00:15:51,826 --> 00:15:53,244
+Now walk away.
+ດຽວນີ້ຍ່າງໄປ.
+
+80
+00:15:53,411 --> 00:15:56,247
+Stubborn son of a bitch.
+ລູກໂຊກຮ້າຍທີ່ແຂງແຮງ.
+
+81
+00:16:47,924 --> 00:16:49,634
+How do you feel?
+ເຈົ້າຮູ້ສຶກແນວໃດ?
+
+82
+00:16:55,097 --> 00:16:56,807
+Like hammered shit.
+ຄືກັບສິ່ງໂຊກຮ້າຍທີ່ຖືກຕີ.
+
+83
+00:17:00,811 --> 00:17:02,313
+How'd you find me?
+ເຈົ້າພົບຂ້ອຍແນວໃດ?
+
+84
+00:17:03,314 --> 00:17:07,360
+Started out in Moscow, then Romania.
+ເລີ່ມຕົ້ນໃນມົສກູ, ຫຼັງຈາກນັ້ນໂຣມາເນຍ.
+
+85
+00:17:07,527 --> 00:17:11,322
+- They kept moving you around.
+- How long was I gone?
+- ພວກເຂົາສືບຕໍ່ຍ້າຍເຈົ້າຢູ່ທົ່ວໄປ.
+- ຂ້ອຍໄປດົນປານໃດ?
+
+86
+00:17:14,408 --> 00:17:18,037
+- Months?
+- Too long.
+- ເດືອນບໍ?
+- ດົນເກີນໄປ.
+
+87
+00:17:24,669 --> 00:17:26,212
+Years.
+ຫຼາຍປີ.
+
+88
+00:17:29,048 --> 00:17:31,008
+They'd torture me almost to death...
+ພວກເຂົາຈະທໍລະມານຂ້ອຍເກືອບຈົນຕາຍ...
+
+89
+00:17:31,175 --> 00:17:33,719
+...and then let me heal in a vat of blood...
+ແລະຫຼັງຈາກນັ້ນປ່ອຍໃຫ້
+ຂ້ອຍປິ່ນປົວໃນຖັງເລືອດ...
+
+90
+00:17:34,345 --> 00:17:37,098
+...so they could go at it again.
+ເພື່ອໃຫ້ພວກເຂົາສາມາດ
+ໄປຫາມັນອີກເທື່ອໜຶ່ງ.
+
+91
+00:17:39,475 --> 00:17:44,522
+Sorry sons of bitches could have at least
+fixed my goddamn leg while they were at it.
+ຂໍໂທດພວກໂຊກຮ້າຍສາມາດແກ້ໄຂຕີນຂອງຂ້ອຍໄດ້
+ຢ່າງໜ້ອຍໃນຂະນະທີ່ພວກເຂົາກໍາລັງເຮັດມັນ.
+
+92
+00:17:47,525 --> 00:17:49,318
+Where's my arc welder?
+ເຄື່ອງເຊື່ອມ arc ຂອງຂ້ອຍຢູ່ໃສ?
+
+93
+00:18:04,959 --> 00:18:07,712
+Whistler, nice to meet you, man.
+I heard a lot about you.
+ວີສລເຕີ,ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ,ຜູ້ຊາຍ
+.ຂ້ອຍໄດ້ຍິນຫຼາຍກ່ຽວກັບເຈົ້າ.
+
+94
+00:18:07,878 --> 00:18:10,548
+I'm Josh. You can call me Scud, though.
+Everybody does.
+ຂ້ອຍເປັນໂຈສ໌.ເຈົ້າສາມາດເອີ້ນຂ້ອຍວ່າ
+ສກູດໄດ້,ເຖິງຢ່າງໃດກໍ່ຕາມ.ທຸກຄົນເຮັດ.
+
+95
+00:18:22,602 --> 00:18:23,728
+Tell me something, Skid.
+ບອກຂ້ອຍບາງສິ່ງບາງຢ່າງ, ສກີດ.
+
+96
+00:18:25,146 --> 00:18:27,231
+No, man, it's Scud. Scud, like "stud."
+ບໍ່,ຜູ້ຊາຍ,ມັນແມ່ນສ
+ກູດ.ສກູດ,ຄືກັບ"ສຕູດ".
+
+97
+00:18:27,398 --> 00:18:30,276
+- Scud.
+- Whatever. What did you do in here?
+- ສຄດ
+- ບໍ່ວ່າຈະເປັນແນວໃດ. ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+98
+00:18:30,860 --> 00:18:33,738
+The pimpmobile? Just a little
+after-market modification.
+ລົດໂຊກຮ້າຍບໍ?ພຽງແຕ່
+ການປ່ຽນແປງນ້ອຍໆຫຼັງຈາກຕະຫຼາດ.
+
+99
+00:18:33,904 --> 00:18:36,115
+- Nitrous oxide and shit like that.
+- Oh, yeah.
+- ໄນໂຕຣັສ ໂອຊິດ ແລະສິ່ງອື່ນໆເຊັ່ນນັ້ນ.
+- ໂອ້, ແມ່ນແລ້ວ.
+
+100
+00:18:36,282 --> 00:18:39,201
+You gave it a more aggressive
+exhaust profile ramping.
+ເຈົ້າໄດ້ໃຫ້ມັນໂປຣໄຟລ໌
+ອອກທີ່ຮຸນແຮງກວ່າເກົ່າ.
+
+101
+00:18:39,368 --> 00:18:42,121
+Whole package will crank that
+Betty up maybe 300 horsepower.
+ຊຸດທັງໝົດຈະເຮັດໃຫ້ເບຕຕີ້
+ນັ້ນເພີ່ມຂຶ້ນບາງທີ 300 ແຮງມ້າ.
+
+102
+00:18:42,288 --> 00:18:45,291
+You'll burn the damned thing out
+before your next oil change.
+ເຈົ້າຈະເຜົາໄໝ້ສິ່ງດັ່ງກ່າວ
+ກ່ອນການປ່ຽນນ້ໍາມັນຄັ້ງຕໍ່ໄປ.
+
+103
+00:18:46,125 --> 00:18:48,252
+Where did you dig up
+this shitbird, anyway?
+ເຈົ້າໄດ້ຂຸດຄົ້ນນົກໂຊກຮ້າຍ
+ນີ້ຢູ່ໃສ,ຢ່າງໃດກໍຕາມ?
+
+104
+00:18:48,419 --> 00:18:50,171
+What the fuck is your problem, Poppy?
+ບັນຫາຂອງເຈົ້າແມ່ນຫຍັງ, ໂປເປີ?
+
+105
+00:18:50,338 --> 00:18:53,424
+My problem is I've been sucking
+blood clots for two years.
+ບັນຫາຂອງຂ້ອຍແມ່ນຂ້ອຍໄດ້ດູດ
+ເລືອດ clots ເປັນເວລາສອງປີແລ້ວ.
+
+106
+00:18:53,591 --> 00:18:56,927
+I get out to find some jerkoff
+fucking with my life's work.
+ຂ້ອຍອອກໄປຊອກຫາຄົນໂຊກຮ້າຍບາງຄົນ
+ທີ່ສໍ້ໂກງວຽກຂອງຊີວິດຂອງຂ້ອຍ.
+
+107
+00:18:57,094 --> 00:18:59,263
+We jeopardized our operation
+to save your ass.
+ພວກເຮົາໄດ້ສ່ຽງການປະຕິບັດງານ
+ຂອງພວກເຮົາເພື່ອຊ່ວຍເຈົ້າ.
+
+108
+00:18:59,430 --> 00:19:00,890
+- "Our operation"?
+- Yeah.
+- "ການປະຕິບັດງານຂອງພວກເຮົາ"?
+- ແມ່ນແລ້ວ.
+
+109
+00:19:01,057 --> 00:19:04,393
+"Our operation"?
+I built this operation, you ass-wipe.
+ຂ້ອຍໄດ້ສ້າງການປະຕິບັດ
+ງານນີ້,ເຈົ້າລ້າງບາກ.
+
+110
+00:19:08,564 --> 00:19:10,441
+Motion sensors. It's on three, gentlemen.
+ເຄື່ອງເຊັນເຊີການເຄື່ອນໄຫວ
+.ມັນຢູ່ໃນສາມ,ພວກເຈົ້າ.
+
+111
+00:19:11,359 --> 00:19:12,485
+Human?
+ມະນຸດບໍ?
+
+112
+00:19:13,653 --> 00:19:17,073
+Uh, body temperature, 50.
+I'd guess suckhead.
+ອູ,ອຸນຫະພູມຮ່າງກາຍ, 50
+.ຂ້ອຍຄິດວ່າຄົນໂຊກຮ້າຍ.
+
+113
+00:19:23,663 --> 00:19:26,123
+Fried. They're using magnesium flares.
+ພວກເຂົາ ກໍາ ລັງໃຊ້ໄຟແມກນີຊຽມ.
+
+114
+00:19:26,624 --> 00:19:29,251
+They've got your security
+system scoped out.
+ພວກເຂົາໄດ້ກວດເບິ່ງ
+ລະບົບຄວາມປອດໄພຂອງທ່ານ.
+
+115
+00:19:31,629 --> 00:19:33,589
+Whoa, whoa, whoa, I don't trust you...
+ໂວ້, ໂວ່, ໂວາ, ຂ້ອຍບໍ່ເຊື່ອເຈົ້າ...
+
+116
+00:20:17,675 --> 00:20:19,802
+Whoa, whoa, whoa, whoa, whoa.
+ໂວ້, ໂວ່, ໂວາ, ໂຫວ່.
+
+117
+00:20:19,969 --> 00:20:21,262
+Cool outfit.
+ເຄື່ອງນຸ່ງຫົ່ມທີ່ເຢັນ.
+
+118
+00:20:29,520 --> 00:20:30,855
+Guard lights.
+ແສງປ້ອງກັນ.
+
+119
+00:22:28,180 --> 00:22:31,809
+We represent the ruling body
+of the Vampire Nation.
+ພວກເຮົາເປັນຕົວແທນຂອງອົ
+ງກອນປົກຄອງຂອງຊາດແວມປີ.
+
+120
+00:22:32,643 --> 00:22:34,353
+They're offering you a truce.
+ພວກເຂົາ ກໍາ ລັງສະເໜີເຈົ້າການຢຸດເຊົາ.
+
+121
+00:22:35,896 --> 00:22:37,189
+They want to meet with you.
+ພວກເຂົາຢາກພົບກັບເຈົ້າ.
+
+122
+00:22:41,068 --> 00:22:42,528
+Scud.
+ສຄດ
+
+123
+00:22:46,156 --> 00:22:47,283
+Take off your mask.
+ເອົາໜ້າກາກຂອງທ່ານອອກ.
+
+124
+00:22:52,913 --> 00:22:56,542
+My name is Asad. This is Nyssa.
+ຂ້ອຍຊື່ວ່າ ອາຊາດ. ນີ້ແມ່ນ ນີຊາ.
+
+125
+00:23:00,296 --> 00:23:03,090
+You have been our most feared enemy.
+ເຈົ້າເປັນສັດຕູທີ່
+ຢ້ານກົວທີ່ສຸດຂອງພວກເຮົາ.
+
+126
+00:23:03,257 --> 00:23:06,385
+But now there's something
+else loose on the streets.
+ແຕ່ດຽວນີ້ມີອີກບາງສິ່ງບາງຢ່າງ
+ທີ່ປ່ອຍຕົວຢູ່ຖະໜົນຫົນທາງ.
+
+127
+00:23:07,386 --> 00:23:08,637
+Something worse than you.
+ບາງສິ່ງບາງຢ່າງທີ່ຮ້າຍແຮງກວ່າເຈົ້າ.
+
+128
+00:23:23,861 --> 00:23:25,946
+What's so funny?
+ມີຫຍັງມ່ວນຫຼາຍ?
+
+129
+00:23:26,113 --> 00:23:29,241
+They tell stories about Blade
+as the bogeyman.
+ພວກເຂົາບອກເລື່ອງກ່ຽວກັບ
+ບເລດເປັນຄົນໂບເກີແມນ.
+
+130
+00:23:29,658 --> 00:23:31,201
+Frankly, I'm disappointed.
+ເວົ້າຢ່າງຈິງໃຈ, ຂ້ອຍຜິດຫວັງ.
+
+131
+00:23:31,994 --> 00:23:35,539
+You hear that, B? She's disappointed.
+ເຈົ້າໄດ້ຍິນມັນບໍ, ບີ? ນາງຜິດຫວັງ.
+
+132
+00:23:36,081 --> 00:23:39,043
+He agreed to come along so easily.
+ລາວເຫັນດີທີ່ຈະມາພ້ອມຢ່າງງ່າຍດາຍຫຼາຍ.
+
+133
+00:23:39,793 --> 00:23:43,339
+Come on, B, show her. Pretty please?
+ມາແລ້ວ,ບີ,ສະແດງໃຫ້
+ນາງເຫັນ.ຂໍຮ້ອງຫຼາຍບໍ?
+
+134
+00:23:46,759 --> 00:23:48,302
+Semtex.
+Semtex.
+
+135
+00:23:48,886 --> 00:23:52,097
+Enough explosives to level a city block.
+ລະເບີດພຽງພໍທີ່ຈະເຮັດໃຫ້
+ບລັອກເມືອງເທົ່າທຽມກັນ.
+
+136
+00:23:54,475 --> 00:23:55,935
+You still disappointed?
+ເຈົ້າຍັງຜິດຫວັງບໍ?
+
+137
+00:24:18,624 --> 00:24:21,543
+The guards look human, B.
+They're probably familiars.
+ເຈົ້າໜ້າທີ່ເບິ່ງຄືວ່າເປັນມະນຸດ
+,ບີ.ພວກເຂົາອາດຈະເປັນຄອບຄົວ.
+
+138
+00:24:39,812 --> 00:24:42,272
+You sure about this?
+ເຈົ້າແນ່ໃຈບໍ?
+
+139
+00:24:42,439 --> 00:24:44,566
+What if I'm not?
+ຖ້າຂ້ອຍບໍ່ແມ່ນແນວໃດ?
+
+140
+00:24:56,412 --> 00:24:58,664
+The true power of the Vampire
+Nation lies here.
+ພະລັງທີ່ແທ້ຈິງຂອງຊາດແວມປີຣ໌ຢູ່ບ່ອນນີ້.
+
+141
+00:25:11,552 --> 00:25:12,886
+Father?
+ພໍ່?
+
+142
+00:25:20,144 --> 00:25:24,606
+Blade, this is Overlord Eli Damaskinos.
+ບເລດ, ນີ້ແມ່ນຜູ້ປົກຄອງ Eli Damaskinos.
+
+143
+00:25:29,361 --> 00:25:34,199
+It has been said, "Be proud of your
+enemy and enjoy his success."
+ມັນເຄີຍເວົ້າວ່າ,"ພາກພູມໃຈກັບສັດຕູ
+ຂອງທ່ານແລະເພີດເພີນກັບຄວາມສໍາເລັດຂອງລາວ."
+
+144
+00:25:34,366 --> 00:25:36,785
+In that regard, I should thank you.
+ໃນເລື່ອງນັ້ນ, ຂ້ອຍຄວນຂອບໃຈເຈົ້າ.
+
+145
+00:25:36,952 --> 00:25:40,080
+- For what?
+- Eliminating Deacon Frost.
+- ສໍາລັບຫຍັງ?
+- ກໍາຈັດ Deacon Frost.
+
+146
+00:25:40,247 --> 00:25:43,459
+You did us a favor. Karel Kounen.
+ເຈົ້າເຮັດຄວາມຊ່ວຍເຫຼືອ
+ພວກເຮົາ.ຄາເຣລຄູເນນ.
+
+147
+00:25:46,003 --> 00:25:48,797
+- You're human.
+- Barely. I'm a lawyer.
+- ເຈົ້າເປັນມະນຸດ.
+- ເກືອບ. ຂ້ອຍເປັນທະນາຍຄວາມ.
+
+148
+00:25:48,964 --> 00:25:50,340
+European Health Consortium.
+ສະມາຄົມສຸຂະພາບເອີຣົບ.
+
+149
+00:25:50,507 --> 00:25:56,180
+As you may know,
+vampirism is a horrible virus...
+ດັ່ງທີ່ເຈົ້າອາດຈະຮູ້ແລ້ວ,
+vampirism ແມ່ນໄວຣັສທີ່ຮ້າຍແຮງ...
+
+150
+00:25:56,346 --> 00:25:59,349
+...carried in the saliva of predators.
+... ຖືກຂົນໃນນໍ້າຕານຂອງສັດລ້ຽງ.
+
+151
+00:25:59,516 --> 00:26:03,896
+In 72 hours, it spreads through
+the human bloodstream...
+ໃນເວລາ 72 ຊົ່ວໂມງ,ມັນແຜ່ລາມ
+ຜ່ານສາຍເລືອດຂອງມະນຸດ...
+
+152
+00:26:04,063 --> 00:26:06,899
+...creating new parasitic organs.
+... ການສ້າງອະໄວຍະວະແມງໄມ້ໃໝ່.
+
+153
+00:26:07,066 --> 00:26:08,358
+Like cancer.
+ຄືກັບມະເຮັງ.
+
+154
+00:26:10,569 --> 00:26:13,489
+Cancer with a purpose.
+ມະເຮັງທີ່ມີຈຸດປະສົງ.
+
+155
+00:26:15,866 --> 00:26:20,329
+Unfortunately, viruses evolve too.
+We've encountered a new one.
+ໂຊກຮ້າຍ,ໄວຣັສພັດທະນາເຊັ່ນກັນ
+.ພວກເຮົາໄດ້ພົບຄົນໃໝ່.
+
+156
+00:26:20,496 --> 00:26:21,955
+We dubbed it the Reaper strain.
+ພວກເຮົາເອີ້ນມັນວ່າສາຍພັນ Reaper.
+
+157
+00:26:22,706 --> 00:26:26,502
+And like any good pathogen,
+it appears to have found a carrier.
+ແລະຄືກັບເຊື້ອພະຍາດທີ່ດີໃດໆ
+,ມັນເບິ່ງຄືວ່າໄດ້ພົບຜູ້ຖື.
+
+158
+00:26:34,593 --> 00:26:36,220
+There, Jared Nomak.
+ນັ້ນແລ້ວ, ເຈຣດ ໂນມາກ.
+
+159
+00:26:37,387 --> 00:26:40,766
+Born a vampire, but an anomaly like you.
+ເກີດເປັນແວມປີ,ແຕ່ເປັນ
+ຄວາມຜິດປົກກະຕິຄືກັບເຈົ້າ.
+
+160
+00:26:42,351 --> 00:26:44,978
+Unlike the rest of us, however...
+ເຖິງຢ່າງໃດກໍ່ຕາມ,ບໍ່ຄື
+ກັບພວກເຮົາຄົນອື່ນ...
+
+161
+00:26:45,145 --> 00:26:50,400
+...he feeds on not just humans,
+but vampires as well.
+...ລາວກິນອາຫານບໍ່ພຽງແຕ່ມະນຸດ
+ເທົ່ານັ້ນ,ແຕ່ແວມປີເຊັ່ນກັນ.
+
+162
+00:26:50,567 --> 00:26:53,987
+- Looks like he was doing me a favor.
+- You're missing the point.
+- ເບິ່ງຄືວ່າລາວ ກໍາ ລັງເຮັດຄວາມຊ່ວຍເຫຼືອຂ້ອຍ.
+- ເຈົ້າພາດຈຸດປະສົງ.
+
+163
+00:26:54,863 --> 00:26:58,033
+Their vampire victims don't die.
+ຜູ້ເຄາະຮ້າຍແວມປີຂອງພວກເຂົາບໍ່ຕາຍ.
+
+164
+00:26:58,200 --> 00:27:00,244
+They turn. They become carriers.
+ພວກເຂົາຫັນໄປ. ພວກເຂົາກາຍເປັນຜູ້ຖື.
+
+165
+00:27:00,410 --> 00:27:01,870
+You've got to understand.
+ເຈົ້າຕ້ອງເຂົ້າໃຈ.
+
+166
+00:27:02,037 --> 00:27:06,166
+These things are like crack addicts.
+They need to feed daily.
+ສິ່ງເຫຼົ່ານີ້ຄ້າຍຄືກັບຄົນຕິດຢາແຄ
+ຣັກ.ພວກເຂົາຕ້ອງກິນອາຫານທຸກໆມື້.
+
+167
+00:27:06,333 --> 00:27:08,836
+Nomak's been up for 72 hours.
+ໂນມາກຕື່ນມາ 72 ຊົ່ວໂມງແລ້ວ.
+
+168
+00:27:09,002 --> 00:27:12,297
+By our estimates, there are
+already a dozen Reapers.
+ຕາມການຄາດຄະເນຂອງພວກເຮົາ,
+ມີຜູ້ເກັບກ່ຽວສິບຄົນແລ້ວ.
+
+169
+00:27:12,464 --> 00:27:14,716
+There'll be hundreds
+before the week is out.
+ຈະມີຫຼາຍຮ້ອຍຄົນກ່ອນອາທິດຈະສິ້ນສຸດລົງ.
+
+170
+00:27:14,883 --> 00:27:18,095
+Thousands within a matter of months.
+Do the math.
+ຫຼາຍພັນຄົນພາຍໃນເລື່ອງ
+ຂອງເດືອນ.ເຮັດການຄິດໄລ່.
+
+171
+00:27:19,346 --> 00:27:21,265
+Wait, let me get this right.
+ລໍຖ້າ,ຂໍໃຫ້ຂ້ອຍເຂົ້າໃຈ
+ເລື່ອງນີ້ຢ່າງຖືກຕ້ອງ.
+
+172
+00:27:21,431 --> 00:27:25,102
+You want me to hunt them for you?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍລ່າ
+ພວກມັນສໍາລັບເຈົ້າບໍ?
+
+173
+00:27:25,269 --> 00:27:29,898
+When they are finished with us,
+who do you think they'll turn on next?
+ເມື່ອພວກເຂົາເຮັດສໍາເລັດກັບພວກເຮົາ,
+ເຈົ້າຄິດວ່າພວກເຂົາຈະເປີດຕົວໃຜຕໍ່ໄປ?
+
+174
+00:27:30,566 --> 00:27:32,609
+Your precious humans.
+ມະນຸດທີ່ຮັກແພງຂອງທ່ານ.
+
+175
+00:27:33,443 --> 00:27:35,612
+Not one of them will be left.
+ບໍ່ມີໃຜໃນນັ້ນຈະຖືກປ່ອຍໄວ້.
+
+176
+00:27:36,780 --> 00:27:40,826
+We spent two years training a small
+tactical unit, the Bloodpack.
+ພວກເຮົາໃຊ້ເວລາສອງປີໃນການຝຶກອົບຮົມ
+ໜ່ວຍງານກະຕຸ້ນນ້ອຍໆ,ກະຕຸ້ນເລືອດ.
+
+177
+00:27:40,993 --> 00:27:42,703
+We want you to lead them.
+ພວກເຮົາຢາກໃຫ້ເຈົ້າເປັນຜູ້ນໍາພວກເຂົາ.
+
+178
+00:27:42,995 --> 00:27:44,454
+Two years?
+ສອງປີບໍ?
+
+179
+00:27:45,956 --> 00:27:47,749
+We've been training to hunt you.
+ພວກເຮົາ ກໍາ ລັງຝຶກອົບຮົມເພື່ອລ່າເຈົ້າ.
+
+180
+00:27:51,461 --> 00:27:55,674
+- So, B-man, what do you think?
+- Sounds like a plan.
+- ສະນັ້ນ, ຜູ້ຊາຍ B, ເຈົ້າຄິດແນວໃດ?
+- ມັນເບິ່ງຄືວ່າເປັນແຜນການ.
+
+181
+00:27:56,133 --> 00:27:58,051
+What do you really think?
+ເຈົ້າຄິດແນວໃດແທ້ໆ?
+
+182
+00:27:58,218 --> 00:28:01,054
+They're gonna fuck us
+the first chance they get.
+ພວກເຂົາຈະຟັກພວກເຮົາໃນໂອກ
+າດທໍາອິດທີ່ພວກເຂົາໄດ້ຮັບ.
+
+183
+00:28:02,347 --> 00:28:04,808
+We ain't gonna do this, though, right?
+ເຖິງຢ່າງໃດກໍ່ຕາມ,ພວກເຮົາ
+ຈະບໍ່ເຮັດແບບນີ້,ແມ່ນບໍ?
+
+184
+00:28:05,434 --> 00:28:07,561
+We'll play along for now.
+ພວກເຮົາຈະຫຼິ້ນຮ່ວມກັນໃນເວລານີ້.
+
+185
+00:28:07,728 --> 00:28:10,480
+They'll take us in deeper
+than we've ever been.
+ພວກເຂົາຈະພາພວກເຮົາເຂົ້າໄປໃນຄວາມ
+ເລິກເຊິ່ງກວ່າທີ່ພວກເຮົາເຄີຍເປັນ.
+
+186
+00:28:10,647 --> 00:28:13,650
+Get a chance to see
+how their world really ticks.
+ໄດ້ຮັບໂອກາດທີ່ຈະເຫັນວ່າໂລກ
+ຂອງພວກເຂົາເຮັດວຽກແນວໃດແທ້ໆ.
+
+187
+00:28:13,817 --> 00:28:15,652
+I had enough of their world.
+ຂ້ອຍພໍແລ້ວຈາກໂລກຂອງພວກເຂົາ.
+
+188
+00:28:16,653 --> 00:28:21,366
+They're just shitting bricks because
+they're no longer top of the food chain.
+ພວກເຂົາພຽງແຕ່ໂຊກຮ້າຍແກ້ວເພາະວ່າພວກເຂົາ
+ບໍ່ໄດ້ຢູ່ເທິງສຸດຂອງຕ່ອງໂສ້ອາຫານອີກຕໍ່ໄປ.
+
+189
+00:28:21,700 --> 00:28:24,661
+Damn, man, I'm really worried about him.
+ສະບາຍດີ,ຜູ້ຊາຍ,ຂ້ອຍ
+ກັງວົນກ່ຽວກັບລາວແທ້ໆ.
+
+190
+00:28:24,828 --> 00:28:29,208
+Look, I know he's your friend and all,
+but I think you should watch him.
+ເບິ່ງ,ຂ້ອຍຮູ້ວ່າລາວເປັນເພື່ອນຂອງເຈົ້າແລະ
+ທັງໝົດ,ແຕ່ຂ້ອຍຄິດວ່າເຈົ້າຄວນເບິ່ງແຍງລາວ.
+
+191
+00:28:29,791 --> 00:28:33,503
+Nobody goes cold turkey
+from the thirst in just one night.
+ບໍ່ມີໃຜຈະເຢັນຈາກຄວາມຢາກໃນມື້ດຽວ.
+
+192
+00:29:15,754 --> 00:29:17,381
+Looking to get hooked up?
+ເຈົ້າ ກໍາ ລັງຊອກຫາການເຊື່ອມຕໍ່ບໍ?
+
+193
+00:29:17,547 --> 00:29:19,967
+Maybe. What do you have?
+ບາງທີ. ເຈົ້າມີຫຍັງ?
+
+194
+00:29:20,133 --> 00:29:23,845
+No problem. Horse, Hawaiian ice.
+ບໍ່ເປັນຫຍັງ. ມ້າ, ກ້ອນຮາວາຍ.
+
+195
+00:29:24,012 --> 00:29:26,056
+Whatever you need.
+ທຸກຢ່າງທີ່ເຈົ້າຕ້ອງການ.
+
+196
+00:29:26,223 --> 00:29:27,724
+Whatever I need.
+ທຸກຢ່າງທີ່ຂ້ອຍຕ້ອງການ.
+
+197
+00:29:29,685 --> 00:29:32,187
+I like that. What if I need you?
+ຂ້ອຍມັກມັນ. ຖ້າຂ້ອຍຕ້ອງການເຈົ້າແນວໃດ?
+
+198
+00:29:47,661 --> 00:29:49,413
+So, so sweet.
+ສະນັ້ນ, ມ່ວນຫຼາຍ.
+
+199
+00:30:25,615 --> 00:30:29,119
+They are ready whenever
+you are, Daywalker.
+ພວກເຂົາພ້ອມທຸກຄັ້ງທີ່
+ເຈົ້າພ້ອມ, Daywalker .
+
+200
+00:30:43,008 --> 00:30:46,303
+Blade, meet the Bloodpack.
+ບເລດ, ພົບກັບກະເປົາເລືອດ.
+
+201
+00:30:47,679 --> 00:30:51,099
+Lighthammer, Verlaine...
+ກະດານແສງສະຫວ່າງ, ເວຣເລນ...
+
+202
+00:30:51,266 --> 00:30:53,643
+...Priest, Snowman...
+... ພະສົງ, ຜູ້ຊາຍຫິມະ...
+
+203
+00:30:54,978 --> 00:30:58,273
+...Chupa and Reinhardt.
+... Chupa ແລະ Reinhardt.
+
+204
+00:31:11,661 --> 00:31:13,121
+Hey, uh.
+ເຮ້, ໂອ້.
+
+205
+00:31:14,289 --> 00:31:17,459
+Me and the gang were wondering...
+ຂ້ອຍແລະກຸ່ມຄົນຮ້າຍ ກໍາ ລັງສົງໄສວ່າ...
+
+206
+00:31:19,169 --> 00:31:20,295
+What was that?
+ນັ້ນແມ່ນຫຍັງ?
+
+207
+00:31:22,297 --> 00:31:23,715
+Can you blush?
+ເຈົ້າສາມາດສົດໃສໄດ້ບໍ?
+
+208
+00:31:25,300 --> 00:31:26,635
+Here we go, Poppy.
+ມາແລ້ວ, ໂປເປີ.
+
+209
+00:31:29,888 --> 00:31:31,014
+Oh, I get it.
+ໂອ້, ຂ້ອຍເຂົ້າໃຈແລ້ວ.
+
+210
+00:31:32,349 --> 00:31:34,059
+I see now.
+ຂ້ອຍເຫັນແລ້ວ.
+
+211
+00:31:34,559 --> 00:31:37,062
+You've been training
+for two years to take me out.
+ເຈົ້າໄດ້ຝຶກອົບຮົມເປັນເວລາ
+ສອງປີເພື່ອເອົາຂ້ອຍອອກ.
+
+212
+00:31:38,188 --> 00:31:39,523
+And now here I am.
+ແລະດຽວນີ້ຂ້ອຍຢູ່ບ່ອນນີ້.
+
+213
+00:31:39,940 --> 00:31:41,358
+Ooh.
+ໂອ້.
+
+214
+00:31:41,525 --> 00:31:44,653
+Ooh, so exciting, isn't it?
+ໂອ້, ມັນໜ້າຕື່ນເຕັ້ນຫຼາຍ, ແມ່ນບໍ?
+
+215
+00:31:44,820 --> 00:31:46,363
+Okay, here's your chance.
+ດີແລ້ວ, ນີ້ແມ່ນໂອກາດຂອງທ່ານ.
+
+216
+00:31:49,199 --> 00:31:51,201
+Come on. Come on,
+what are you waiting for?
+ມາແລ້ວ. ມາແລ້ວ, ເຈົ້າລໍຖ້າຫຍັງຢູ່?
+
+217
+00:31:52,869 --> 00:31:54,704
+Here I am, right here in front of you.
+ຂ້ອຍຢູ່ບ່ອນນີ້, ຢູ່ບ່ອນນີ້ຕໍ່ໜ້າເຈົ້າ.
+
+218
+00:31:54,871 --> 00:31:56,790
+Adolf here gets the first shot.
+ອາໂດລຟ໌ຢູ່ນີ້ໄດ້ຮັບການຍິງຄັ້ງ ທໍາ ອິດ.
+
+219
+00:31:57,040 --> 00:32:00,544
+Come on. What are you looking at her for?
+You need permission?
+ມາແລ້ວ.ເຈົ້າເບິ່ງນາງເປັນຫຍັງ?
+ເຈົ້າຕ້ອງການອະນຸຍາດບໍ?
+
+220
+00:32:00,710 --> 00:32:04,923
+Maybe you need a little bit of incentive.
+Okay, I can help with that.
+ບາງທີເຈົ້າຕ້ອງການແຮງຊຸກຍູ້ເລັກນ້ອຍ
+.ດີ,ຂ້ອຍສາມາດຊ່ວຍໄດ້ກັບເລື່ອງນັ້ນ.
+
+221
+00:32:07,384 --> 00:32:09,219
+What's the matter? Missed that?
+ມີຫຍັງເກີດຂຶ້ນ? ເຈົ້າພາດມັນບໍ?
+
+222
+00:32:09,386 --> 00:32:10,762
+It's okay, I can do it again.
+ມັນບໍ່ເປັນຫຍັງ,ຂ້ອຍ
+ສາມາດເຮັດໄດ້ອີກຄັ້ງ.
+
+223
+00:32:15,100 --> 00:32:16,643
+Come on. What, you need a manual?
+ມາແລ້ວ. ຫຍັງ, ເຈົ້າຕ້ອງການຄູ່ມືບໍ?
+
+224
+00:32:16,810 --> 00:32:18,395
+- Kill the bastard!
+- Do it! Come on!
+- ຂ້າຄົນໂຊກຮ້າຍ!
+- ເຮັດມັນ! ມາແລ້ວ!
+
+225
+00:32:27,404 --> 00:32:30,740
+Now you've got an explosive device
+stuck to the back of your head.
+ດຽວນີ້ເຈົ້າມີອຸປະກອນລະເບີດ
+ຕິດຢູ່ດ້ານຫຼັງຂອງຫົວຂອງທ່ານ.
+
+226
+00:32:30,907 --> 00:32:34,744
+Silver nitrate, rigged to go off
+if anybody tampers with it.
+ນິດຣາຕ໌ເງິນ,ຖືກກົນຈັກ
+ເພື່ອລະເບີດຖ້າໃຜສໍ້ໂກງມັນ.
+
+227
+00:32:34,911 --> 00:32:37,414
+I'll have the detonator with me.
+ຂ້ອຍຈະມີເຄື່ອງລະເບີດຢູ່ກັບຂ້ອຍ.
+
+228
+00:32:37,581 --> 00:32:40,375
+And you, if you so much
+as look at me wrong...
+ແລະເຈົ້າ, ຖ້າເຈົ້າເບິ່ງຂ້ອຍຜິດ...
+
+229
+00:32:42,669 --> 00:32:44,212
+Whoo.
+ໂວ້.
+
+230
+00:32:45,297 --> 00:32:47,424
+From now on, we work as a unit.
+ຕັ້ງແຕ່ນີ້ໄປ,ພວກເຮົາ
+ເຮັດວຽກເປັນໜ່ວຍງານ.
+
+231
+00:32:48,091 --> 00:32:50,760
+You'll be taking orders from me.
+ເຈົ້າຈະຮັບຄໍາສັ່ງຈາກຂ້ອຍ.
+
+232
+00:32:52,929 --> 00:32:54,222
+Any questions?
+ມີຄໍາຖາມໃດບໍ?
+
+233
+00:32:59,895 --> 00:33:01,438
+Good.
+ດີນະ
+
+234
+00:33:04,316 --> 00:33:07,444
+You want to catch the hunter,
+you start with the prey.
+ເຈົ້າຢາກຈັບຜູ້ລ່າສັດ,
+ເຈົ້າເລີ່ມຕົ້ນດ້ວຍສັດລ້ຽງ.
+
+235
+00:33:08,612 --> 00:33:12,616
+We'll target all the night places
+where vampires congregate.
+ພວກເຮົາຈະແນໃສ່ສະຖານທີ່ທັງໝົດໃນ
+ຕອນກາງຄືນທີ່ແວມປີເຕົ້າໂຮມກັນ.
+
+236
+00:33:13,783 --> 00:33:18,205
+Blood banks, safe houses,
+the bigger, the better.
+ທະນາຄານເລືອດ,ເຮືອນທີ່ປອດໄພ
+,ຂະໜາດໃຫຍ່ກວ່າ,ດີກວ່າ.
+
+237
+00:33:18,371 --> 00:33:21,917
+So, what's first?
+ສະນັ້ນ, ກ່ອນອື່ນແມ່ນຫຍັງ?
+
+238
+00:33:25,837 --> 00:33:27,464
+The House of Pain.
+ເຮືອນຂອງຄວາມເຈັບປວດ.
+
+239
+00:33:40,810 --> 00:33:42,812
+Where's the entrance?
+ທາງເຂົ້າຢູ່ໃສ?
+
+240
+00:33:43,563 --> 00:33:47,776
+I don't see any signs, no vampire glyphs.
+ຂ້ອຍບໍ່ເຫັນປ້າຍໃດໆ,
+ບໍ່ມີ glyphs vampire .
+
+241
+00:33:47,943 --> 00:33:51,488
+No, because of you,
+we've had to rethink our habits...
+ບໍ່,ຍ້ອນເຈົ້າ,ພວກເຮົາຕ້ອງ
+ຄິດຄືນເຖິງນິໄສຂອງພວກເຮົາ...
+
+242
+00:33:51,988 --> 00:33:54,074
+...tighten our security.
+... ເພີ່ມຄວາມປອດໄພຂອງພວກເຮົາ.
+
+243
+00:33:55,992 --> 00:33:57,994
+Have a closer look.
+ເບິ່ງຢ່າງໃກ້ຊິດ.
+
+244
+00:34:05,544 --> 00:34:06,878
 Nice.
 ດີເລີດ.
 
-494
-00:34:28,650 --> 00:34:32,500
-[REINHARDT]
-How many vampires do you think he's killed with this thing?
-ເຈົ້າຄິດວ່າລາວໄດ້ຂ້າແວມປີຫຼາຍປານໃດດ້ວຍສິ່ງນີ້?
+245
+00:34:07,045 --> 00:34:09,005
+Thirty-eight, .45 and 9mm caliber.
+ສາມສິບແປດ,.45 ແລະ 9 ມມ.
 
-495
-00:34:33,000 --> 00:34:39,000
-[ON WHISTLER]
-Sitting in the corner, his hands cuffed behind his back.  We are in a security station filled with surveillance monitors offering various views of the laboratory complex.
-ນັ່ງຢູ່ແຄມ, ມືຂອງລາວຖືກຈັບຢູ່ເບື້ອງຫຼັງຂອງລາວ.
-ພວກເຮົາຢູ່ໃນສະຖານີຄວາມປອດໄພທີ່ເຕັມໄປດ້ວຍເຄື່ອງຕິດຕາມກວດກາທີ່ສະ ເຫນີ ທັດສະນະຕ່າງໆຂອງສະໂມສອນຫ້ອງທົດລອງ.
+246
+00:34:09,172 --> 00:34:13,552
+All with foil capsules at the tip filled
+with silver nitrate and garlic extract.
+ທັງໝົດດ້ວຍແຄບຊູນຟອນໃນຈຸດທີ່
+ເຕັມໄປດ້ວຍນິດຣາຕ໌ເງິນແລະສານສະກັດແກ້ວ.
 
-496
-00:34:39,500 --> 00:34:41,500
-[WHISTLER]
-Not nearly enough, Fritz.
-ບໍ່ພຽງພໍເລີຍ, ຟຣີສ໌.
+247
+00:34:13,718 --> 00:34:19,015
+This hyper-velocity stake gun spits out
+a silver stake at 6000 feet per second.
+ປືນກະດານທີ່ມີຄວາມໄວສູງນີ້ຖິ້ມກະດາດ
+ເງິນອອກດ້ວຍຄວາມໄວ 6000 ຟຸດຕໍ່ວິນາທີ.
 
-497
-00:34:42,000 --> 00:34:44,000
-[REINHARDT]
-Keep talking, warmblood.
-ສືບຕໍ່ເວົ້າ, ເລືອດອົບອຸ່ນ.
+248
+00:34:19,182 --> 00:34:21,643
+Since you suckers don't like sunlight...
+ເນື່ອງຈາກວ່າເຈົ້າ
+ໂຊກຮ້າຍບໍ່ມັກແສງແດດ...
 
-498
-00:34:44,500 --> 00:34:48,700
-[REINHARDT]
-When I'm through with you, you'll be begging for a dirt nap.
-ເມື່ອຂ້ອຍຈົບກັບເຈົ້າແລ້ວ, ເຈົ້າຈະຮ້ອງຂໍໃຫ້ນອນຝົນ.
+249
+00:34:21,810 --> 00:34:25,480
+...we've modified the gun's
+entry light with a UV filter.
+ພວກເຮົາໄດ້ປັບປຸງແສງສະຫວ່າງ
+ເຂົ້າຂອງປືນດ້ວຍເຄື່ອງກັ່ນຕອງ UV .
 
-499
-00:34:49,200 --> 00:34:55,200
-[WHISTLER]
-Been dead before.  Didn't much cotton to it.  Tell you what, chicken shit.  You do your worst.  We'll settle up after.
-ເຄີຍຕາຍກ່ອນ. ບໍ່ເຮັດຜ້າຝ້າຍຫຼາຍຕໍ່ມັນ. ຂ້ອຍຈະບອກເຈົ້າວ່າຫຍັງ,
-ໂຊກແຊງໄກ່. ເຈົ້າເຮັດສິ່ງທີ່ຮ້າຍແຮງທີ່ສຸດ. ພວກເຮົາຈະແກ້ໄຂຫຼັງຈາກນັ້ນ.
+250
+00:34:25,647 --> 00:34:28,650
+Pop it open, instant UV light.
+ເປີດມັນ, ແສງ UV ທັນທີ.
 
-500
-00:34:55,700 --> 00:34:57,700
-[DAMASKINOS]
-My child --
-ລູກຂອງຂ້ອຍ...
+251
+00:34:30,193 --> 00:34:33,530
+- Filter's on, no problem.
+- Yo, B, check this out.
+- ເຄື່ອງກັ່ນຕອງເປີດແລ້ວ, ບໍ່ເປັນຫຍັງ.
+- ໂຢ, ບີ, ເບິ່ງສິ່ງນີ້.
 
-501
-00:34:58,200 --> 00:35:04,200
-[DAMASKINOS]
-I would hate to think you were losing your perspective.  Who do you think God favors in the web?  The spider or the fly?
-ຂ້ອຍບໍ່ຢາກຄິດວ່າເຈົ້າ ກໍາ ລັງສູນເສຍທັດສະນະຂອງທ່ານ.
-ເຈົ້າຄິດວ່າພຣະເຈົ້າຊົມເຊີຍໃຜໃນເວັບໄຊທ໌? ແມງໄມ້ຫຼືແມງໄມ້?
+252
+00:34:33,697 --> 00:34:35,907
+It's got a pneumatic
+syringe delivery system.
+ມັນມີລະບົບສົ່ງຢາສູບລົມ.
 
-502
-00:35:04,700 --> 00:35:10,300
-[NYSSA]
-Nomak said something to Blade in Greek. Athelfiki singenia ex amato.  Where did he learn that?
-ໂນມາກເວົ້າບາງສິ່ງບາງຢ່າງກັບບເລດໃນພາສາເກຣັກ. Athelfiki
-singenia ex amato. ລາວໄດ້ຮຽນຮູ້ສິ່ງນັ້ນຢູ່ໃສ?
+253
+00:34:36,074 --> 00:34:39,369
+The vials are filled with
+an anticoagulant called EDTA.
+ຢາວານແມ່ນເຕັມໄປດ້ວຍຢາຕ້ານ
+ການໄຫຼ່ເລືອດທີ່ເອີ້ນວ່າ EDTA .
 
-503
-00:35:10,800 --> 00:35:12,800
-[DAMASKINOS]
-From his father, of course.
-ຈາກພໍ່ຂອງລາວແນ່ນອນ.
+254
+00:34:39,536 --> 00:34:42,080
+One punch with this blows
+your target up like a balloon.
+ການຕີດຽວດ້ວຍສິ່ງນີ້ຈະລະເບີດ
+ເປົ້າໝາຍຂອງທ່ານຂຶ້ນຄືກັບບາລອນ.
 
-504
-00:35:13,300 --> 00:35:15,400
-[NYSSA]
-You experimented on your own, son?
-ເຈົ້າທົດລອງດ້ວຍຕົນເອງບໍ, ລູກຊາຍ?
+255
+00:34:42,247 --> 00:34:45,000
+The cartridge ejects. Automatic reload.
+ກະຕູ້ຖິ້ມອອກ. ການໂຫຼດຄືນອັດຕະໂນມັດ.
 
-505
-00:35:15,900 --> 00:35:21,900
-[DAMASKINOS]
-I have fathered thousands of children in centuries since I first walked this earth.  Make no mistake, Nyssa.  Those blood-ties mean nothing to me when measured against the ascendancy of our race.  Nothing.  If you have any interest in remaining alive, you would do well to remember that.
-ຂ້ອຍໄດ້ເປັນພໍ່ຂອງລູກຫຼາຍພັນຄົນໃນຫຼາຍສະຕະວັດນັບຕັ້ງແຕ່ຂ້ອຍຍ່າງໂລກນີ້ຄັ້ງ ທໍາ ອິດ. ຢ່າເຮັດຄວາມຜິດພາດ, ນີສຊາ. ສາຍພົວພັນເລືອດນັ້ນບໍ່ມີຄວາມ ຫມາຍ
-ຫຍັງເລີຍ ສໍາ ລັບຂ້ອຍເມື່ອວັດແທກກັບການຂຶ້ນຂອງເຊື້ອຊາດຂອງພວກເຮົາ. ບໍ່ມີຫຍັງເລີຍ. ຖ້າເຈົ້າມີຄວາມສົນໃຈໃດໆໃນການຢູ່ອາໄສ, ເຈົ້າຄວນຈື່ສິ່ງນັ້ນ.
+256
+00:34:45,750 --> 00:34:47,127
+Nice.
+ດີເລີດ.
 
-506
-00:35:22,400 --> 00:35:28,400
-[DAMASKINOS]
-With every century, humans become more repulsive to me.  Once, you were souls to be taken, corrupted.  But you have disgraced yourselves to being nothing more than blood and meat.
-ໃນແຕ່ລະສະຕະວັດ, ມະນຸດກາຍເປັນທີ່ກຽດຊັງຫຼາຍຕໍ່ຂ້ອຍ. ຄັ້ງຫນຶ່ງ, ເຈົ້າເປັນຈິດວິນຍານທີ່ຈະຖືກເອົາໄປ
-, ສໍ້ລາດບັງຫຼວງ. ແຕ່ເຈົ້າໄດ້ເຮັດໃຫ້ຕົວເອງເປັນຫຍັງຫຼາຍກ່ວາເລືອດແລະຊີ້ນ.
+257
+00:34:48,545 --> 00:34:49,713
+Let's go.
+ໄປແລ້ວ.
 
-507
-00:35:28,900 --> 00:35:34,900
-[STEVENS]
-We're going to harvest you, Blade.  Bone marrow, organs, everything.  Your tissue's too valuable to let go to waste.
-ພວກເຮົາຈະເກັບກ່ຽວເຈົ້າ, ບເລດ. ກະດູກກະດູກ, ອະໄວຍະວະ, ທຸກຢ່າງ
-. ເນື້ອເຍື່ອຂອງທ່ານມີຄຸນຄ່າຫຼາຍເກີນໄປທີ່ຈະປ່ອຍໃຫ້ເສຍຫາຍ.
+258
+00:34:49,879 --> 00:34:52,382
+You won't pass for one of us. No way.
+ເຈົ້າຈະບໍ່ຜ່ານເປັນຄົນໜຶ່ງ
+ໃນພວກເຮົາ.ບໍ່ເປັນໄປເລີຍ.
 
-508
-00:35:35,400 --> 00:35:37,400
-[BLADE]
-Nomak is still out there.
-ໂນມາກຍັງຢູ່ພາຍນອກຢູ່.
+259
+00:34:52,549 --> 00:34:54,718
+- Like I give a shit.
+- No, he's right.
+- ຄືກັບວ່າຂ້ອຍສົນໃຈ.
+- ບໍ່, ລາວເວົ້າຖືກຕ້ອງ.
 
-509
-00:35:37,900 --> 00:35:43,900
-[DAMASKINOS]
-True, but thanks to you, we know his weakness.  We can keep him contained. It's just a matter of time before we hunt him down.
-ແມ່ນແລ້ວ, ແຕ່ຍ້ອນເຈົ້າ, ພວກເຮົາຮູ້ຄວາມອ່ອນແອຂອງລາວ.
-ພວກເຮົາສາມາດຮັກສາລາວໄວ້ໄດ້. ມັນເປັນພຽງແຕ່ເລື່ອງເວລາກ່ອນທີ່ພວກເຮົາຈະລ່າລາວ.
+260
+00:34:56,219 --> 00:34:58,763
+Why don't you post up
+on the roof over there?
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ໂພສ
+ຢູ່ເທິງເຮືອນຫລັງຢູ່ບ່ອນນັ້ນ?
 
-510
-00:35:44,400 --> 00:35:46,500
-[BLADE]
-Too bad you're out of it.
-ໂຊກຮ້າຍທີ່ເຈົ້າອອກຈາກມັນ.
+261
+00:34:58,930 --> 00:35:01,224
+Cover our backs.
+ປົກປ້ອງຫລັງຂອງພວກເຮົາ.
 
-511
-00:35:47,000 --> 00:35:49,000
-[DAMASKINOS]
-And why is that?
-ແລະເປັນຫຍັງນັ້ນ?
+262
+00:35:01,391 --> 00:35:04,894
+So the Bloodpack's calling
+the shots now, huh?
+ສະນັ້ນກະເປົາເລືອດກໍາລັງ
+ເອີ້ນການຍິງດຽວນີ້,ແມ່ນບໍ?
 
-512
-00:35:49,500 --> 00:35:54,750
-[BLADE]
-Revenge.  That's what Nomak wanted all along.  To pay back the people who created him.
-ການແກ້ແຄ້ນ. ນັ້ນແມ່ນສິ່ງທີ່ໂນມາກຕ້ອງການຕະຫຼອດເວລາ
-. ເພື່ອຈ່າຍຄືນຄົນທີ່ສ້າງລາວ.
+263
+00:35:05,770 --> 00:35:07,230
+Great.
+ດີເລີດ.
 
-513
-00:35:55,250 --> 00:36:00,850
-[STEVENS]
-You may be right.  Fortunately for us, he has no idea where this facility is located.
-ເຈົ້າອາດຈະຖືກຕ້ອງ. ໂຊກດີ ສໍາ ລັບພວກເຮົາ
-, ລາວບໍ່ຮູ້ບ່ອນທີ່ສະຖານທີ່ນີ້ຕັ້ງຢູ່.
+264
+00:35:09,608 --> 00:35:12,360
+Better curb that dog of yours
+or we'll do it for you.
+ດີກວ່າຈະຄວບຄຸມໝາຂອງເຈົ້ານັ້ນ
+ຫຼືພວກເຮົາຈະເຮັດມັນສໍາລັບເຈົ້າ.
 
-514
-00:36:01,350 --> 00:36:07,350
-[BLADE]
-He does now.  He's been watching me since the tunnels. Following me.  I led him right to you.
-ລາວເຮັດດຽວນີ້. ລາວ ກໍາ ລັງເບິ່ງຂ້ອຍຕັ້ງແຕ່ທໍ່
-. ຕິດຕາມຂ້ອຍ. ຂ້ອຍພາລາວໄປຫາເຈົ້າໂດຍກົງ.
+265
+00:35:16,114 --> 00:35:18,408
+Keep pushing, asshole.
+ສືບຕໍ່ກົດດັນ, ຄົນໂຊກຮ້າຍ.
 
-515
-00:36:07,850 --> 00:36:10,300
-[BLADE]
-Just like a trail of bread crumbs.
-ຄືກັບຮ່ອງຮອຍຂອງຂີ້ເຂົ້າຈີ່.
+266
+00:36:02,744 --> 00:36:04,287
+We're in.
+ພວກເຮົາເຂົ້າມາແລ້ວ.
 
-516
-00:36:10,800 --> 00:36:16,800
-[A SERIES OF QUICK SHOTS]
-Various hallways, the helipad outside Caliban industries, etc.  In rapid succession, we SEE more TRAILS OF BLOOD DROPLETS.  Then, just as quickly, we are back --
-ທາງເດີ່ນຕ່າງໆ, ສະ ຫນາມ ເຮລິປາດພາຍນອກອຸດສາຫະ ກໍາ ຄາລີບານ, ແລະອື່ນໆ. ໃນການສືບທອດຢ່າງໄວວາ
-, ພວກເຮົາເຫັນເສັ້ນທາງຂອງເລືອດຫຼາຍຂຶ້ນ. ຫຼັງຈາກນັ້ນ, ຢ່າງໄວວາເທົ່າກັນ, ພວກເຮົາກັບມາ -
+267
+00:36:13,171 --> 00:36:14,798
+You're about to enter our world.
+ເຈົ້າ ກໍາ ລັງຈະເຂົ້າໄປໃນໂລກຂອງພວກເຮົາ.
 
-517
-00:36:17,300 --> 00:36:23,300
-[FATHER!]
-Damaskinos' eyes widen in terror as he stumbles backwards, activating an ALARM.  He looks to the guards, SCREAMING.
-ຕາຂອງດາມາສກິນໂສຍກວ້າງຂວາງດ້ວຍຄວາມຢ້ານກົວໃນຂະນະທີ່ລາວຕົກລົງກັບຄືນໄປບ່ອນ
-, ເປີດໃຊ້ອາລາມ. ລາວເບິ່ງຄົນປົກປ້ອງ, ຮ້ອງໄຫ້.
+268
+00:36:15,465 --> 00:36:18,051
+You will see things, feeding.
+ເຈົ້າຈະເຫັນສິ່ງຕ່າງໆ, ການກິນອາຫານ.
 
-518
-00:36:23,800 --> 00:36:25,800
-[DAMASKINOS]
-Stop him!
-ຢຸດລາວໄວ້!
+269
+00:36:18,218 --> 00:36:20,804
+Just remember why you're here.
+ພຽງແຕ່ຈື່ໄວ້ວ່າເຈົ້າ
+ຢູ່ບ່ອນນີ້ເປັນຫຍັງ.
 
-519
-00:36:26,300 --> 00:36:28,300
-[REINHARDT]
-Shit!
+270
+00:36:21,638 --> 00:36:23,723
+I haven't forgotten.
+ຂ້ອຍບໍ່ໄດ້ລືມ.
+
+271
+00:36:36,277 --> 00:36:38,571
+What exactly are we looking for in here?
+ພວກເຮົາ ກໍາ ລັງຊອກຫາຫຍັງຢູ່ບ່ອນນີ້?
+
+272
+00:36:38,738 --> 00:36:41,574
+Anything that looks suspicious.
+ທຸກຢ່າງທີ່ເບິ່ງຄືວ່າສົງໄສ.
+
+273
+00:36:48,790 --> 00:36:50,959
+You gotta be kidding me.
+ເຈົ້າຕ້ອງໂຊກຮ້າຍຂ້ອຍ.
+
+274
+00:36:53,336 --> 00:36:56,756
+What y'all get it ain't haunted, call it
+I see some of y'all thirsty for it
+ສິ່ງທີ່ເຈົ້າໄດ້ຮັບມັນບໍ່ແມ່ນການລໍາບາກ
+,ເອີ້ນມັນຂ້ອຍເຫັນບາງຄົນຂອງເຈົ້າຢາກມັນ
+
+275
+00:36:56,923 --> 00:37:00,385
+Straight frontin' y'all winnin' come down
+To the combat, dog, I'm a workaholic
+ຕໍ່ໜ້າທ່ານທັງໝົດກໍາລັງຊະນະລົງສູ່
+ການຕໍ່ສູ້,ໝາ,ຂ້ອຍເປັນຄົນມັກເຮັດວຽກ
+
+276
+00:37:00,552 --> 00:37:03,930
+My swag touches every enemy
+Within my clutches
+ຊັບສິນຂອງຂ້ອຍຈັບສັດຕູ
+ທຸກຄົນພາຍໃນແຂນຂອງຂ້ອຍ
+
+277
+00:37:04,097 --> 00:37:07,225
+Black makin' that ruckus
+And I'm puttin' that lean on all you suckas
+ຄົນສີດໍາກໍາລັງເຮັດໃຫ້ຄວາມວຸ້ນວາຍນັ້ນແລະ
+ຂ້ອຍກໍາລັງວາງຄວາມຍອມຮັບນັ້ນໃສ່ເຈົ້າທັງໝົດ
+
+278
+00:37:07,392 --> 00:37:11,187
+Black! Your bone crushes
+Every opponent suffers
+ສີດໍາ!ກະດູກຂອງທ່ານຖືກ
+ສັ່ນສະເທືອນທຸກໆຄູ່ແຂ່ງທຸກທໍລະມານ
+
+279
+00:37:11,354 --> 00:37:14,649
+Your tone hushes from punches
+Don't you like percussion?
+ສຽງຂອງທ່ານງຽບຈາກການ
+ຕີເຈົ້າບໍ່ມັກການຕີບໍ?
+
+280
+00:37:14,816 --> 00:37:16,484
+Don't lose yo life for nothin'
+ຢ່າສູນເສຍຊີວິດຂອງທ່ານເພື່ອຫຍັງເລີຍ
+
+281
+00:37:16,651 --> 00:37:18,194
+You don't wanna try to touch 'em
+ເຈົ້າບໍ່ຢາກພະຍາຍາມຈັບພວກມັນ
+
+282
+00:37:18,361 --> 00:37:21,531
+No competition, listen
+This ain't open for discussion
+ບໍ່ມີການແຂ່ງຂັນ,ຟັງສິ່ງນີ້
+ບໍ່ໄດ້ເປີດໃຫ້ມີການປຶກສາຫາລື
+
+283
+00:37:21,698 --> 00:37:24,617
+Ha, you want it, want it
+Come on, you want it
+ຮາ,ເຈົ້າຢາກມັນ,ຢາກມັນ
+ມາແລ້ວ,ເຈົ້າຕ້ອງການມັນ
+
+284
+00:37:24,784 --> 00:37:29,122
+Ha, come on, you want it, want it
+Ha, you want it, come on
+Ha ,ມາແລ້ວ,ເຈົ້າຢາກມັນ,ຢາກ
+ມັນ Ha ,ເຈົ້າຕ້ອງການມັນ,ມາ
+
+285
+00:37:45,388 --> 00:37:47,390
+Scud, do you read me?
+ສັກດ໌, ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ?
+
+286
+00:37:50,351 --> 00:37:53,855
+- You reading me?
+- Reading you loud and clear, B.
+- ເຈົ້າອ່ານຂ້ອຍບໍ?
+- ອ່ານເຈົ້າຢ່າງແຮງແລະຈະແຈ້ງ, ບີ.
+
+287
+00:37:54,022 --> 00:37:55,857
+The whole place is a safe house.
+ບ່ອນທັງ ໝົດ ແມ່ນເຮືອນທີ່ປອດໄພ.
+
+288
+00:37:56,024 --> 00:37:58,401
+Windows are painted black,
+one access door.
+ປ່ອງຢ້ຽມຖືກແຕ້ມສີດໍ
+າ,ປະຕູເຂົ້າເຖິງດຽວ.
+
+289
+00:37:58,568 --> 00:38:01,070
+- Two, or 300 suckheads in here.
+- That sounds cool.
+- ສອງ, ຫຼືຄົນໂຊກຮ້າຍ 300 ຄົນຢູ່ນີ້.
+- ມັນເບິ່ງຄືວ່າເຢັນ.
+
+290
+00:38:02,906 --> 00:38:04,949
+Hey, W, you got me?
+ເຮ້, ວີ, ເຈົ້າເຂົ້າໃຈຂ້ອຍບໍ?
+
+291
+00:38:07,535 --> 00:38:08,995
+W?
+W?
+
+292
+00:38:12,749 --> 00:38:15,752
+Tell me something, how's the weather
+up there, sweetheart?
+ບອກຂ້ອຍບາງສິ່ງບາງຢ່າງ,ສະພາບອາ
+ກາດຢູ່ເທິງນັ້ນເປັນແນວໃດ,ທີ່ຮັກ?
+
+293
+00:38:16,044 --> 00:38:18,922
+Walking on sunshine, toad boy.
+ຍ່າງຢູ່ເທິງແສງແດດ, ເດັກຊາຍກະຕ່າ.
+
+294
+00:38:24,844 --> 00:38:25,929
+Look at them.
+ເບິ່ງພວກມັນ.
+
+295
+00:38:26,095 --> 00:38:28,515
+Half of these bastards,
+they're not even purebloods.
+ເຄິ່ງໜຶ່ງຂອງຄົນໂຊກຮ້າຍເຫຼົ່ານີ້
+,ພວກເຂົາບໍ່ແມ່ນເລືອດບໍລິສຸດເລີຍ.
+
+296
+00:38:29,682 --> 00:38:30,892
+I tell you what.
+ຂ້ອຍບອກເຈົ້າວ່າແນວໃດ.
+
+297
+00:38:31,059 --> 00:38:33,061
+Why don't we just fucking kill everyone?
+ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ຂ້າທຸກຄົນເລີຍ?
+
+298
+00:38:34,562 --> 00:38:36,940
+Just to make sure.
+ພຽງແຕ່ເພື່ອແນ່ໃຈວ່າ.
+
+299
+00:38:40,610 --> 00:38:43,321
+God, it would be so easy.
+ພຣະເຈົ້າ, ມັນຈະງ່າຍຫຼາຍ.
+
+300
+00:38:59,629 --> 00:39:01,589
+He's got you.
+ລາວຈັບເຈົ້າແລ້ວ.
+
+301
+00:39:07,929 --> 00:39:10,306
+Fuck you.
+ເຈົ້າໄປໂຊກຮ້າຍ.
+
+302
+00:39:32,412 --> 00:39:34,163
+Daywalker.
+ຄົນຍ່າງມື້.
+
+303
+00:40:48,821 --> 00:40:50,740
+Mother's milk.
+ນົມແມ່.
+
+304
+00:40:51,240 --> 00:40:55,620
+I say we got about half an hour
+till sunrise, Cinderella. Hurry up.
+ຂ້ອຍເວົ້າວ່າພວກເຮົາມີເວລາປະມານເຄິ່ງ
+ຊົ່ວໂມງຈົນຮອດຕອນເຊົ້າ, Cinderella .ໄວຂຶ້ນ.
+
+305
+00:41:13,763 --> 00:41:15,598
+I spotted one, but lost him.
+ຂ້ອຍເຫັນຄົນໜຶ່ງ, ແຕ່ສູນເສຍລາວ.
+
+306
+00:41:15,765 --> 00:41:17,475
+Be on the lookout.
+ລະວັງໄວ້.
+
+307
+00:41:27,276 --> 00:41:28,736
+Fuck.
+ສະບາຍດີ.
+
+308
+00:42:58,242 --> 00:43:01,037
+Whistler, man, they're on the roof.
+On the roof of my bus.
+ວີສລເຕີ,ຜູ້ຊາຍ,ພວກເຂົາຢູ່ເທິງເຮືອນຫລ
+ັງ.ຢູ່ເທິງເຮືອນຫຼັງຂອງລົດເມຂອງຂ້ອຍ.
+
+309
+00:43:25,019 --> 00:43:27,105
+Shh.
+ສະບາຍດີ.
+
+310
+00:44:28,124 --> 00:44:29,917
+Nomak.
+ໂນມາກ
+
+311
+00:44:30,793 --> 00:44:32,587
+Daywalker.
+ຄົນຍ່າງມື້.
+
+312
+00:44:34,255 --> 00:44:35,548
+What am I to you?
+ຂ້ອຍເປັນຫຍັງຕໍ່ເຈົ້າ?
+
+313
+00:44:35,715 --> 00:44:40,803
+Is the enemy of my enemy
+my friend or my enemy?
+ສັດຕູຂອງສັດຕູຂອງຂ້ອຍແມ່ນເພື່ອນ
+ຂອງຂ້ອຍຫຼືສັດຕູຂອງຂ້ອຍບໍ?
+
+314
+00:44:57,153 --> 00:44:58,196
+Aah!
+ອາ!
+
+315
+00:44:59,655 --> 00:45:03,117
+We're under attack!
+There's three of them. Probably more.
+ພວກເຮົາຖືກໂຈມຕີ!ມີ
+ສາມຄົນ.ບາງທີຫຼາຍຂຶ້ນ.
+
+316
+00:45:13,294 --> 00:45:14,837
+Daylight.
+ແສງສະຫວ່າງຂອງມື້.
+
+317
+00:46:58,524 --> 00:47:00,276
+Silver don't do shit.
+ເງິນບໍ່ເຮັດຫຍັງເລີຍ.
+
+318
+00:47:00,443 --> 00:47:01,444
+Don't waste the bullets.
+ຢ່າເສຍລູກປືນ.
+
+319
+00:47:01,610 --> 00:47:04,488
+- Motherfucker.
+- You hear me, Chupa?
+- ຄົນໂຊກຮ້າຍ.
+- ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ, ຈູປາ?
+
+320
+00:47:04,697 --> 00:47:06,198
+Say "cheese."
+ເວົ້າວ່າ"ຈິດ".
+
+321
+00:47:23,591 --> 00:47:25,134
+Come on.
+ມາແລ້ວ.
+
+322
+00:48:04,673 --> 00:48:06,717
+How about some daylight, motherfucker?
+ຈະເປັນແນວໃດກັບແສງສະຫວ່າງ
+ຂອງມື້,ຄົນໂຊກຮ້າຍ?
+
+323
+00:50:03,751 --> 00:50:04,877
+Fuck!
 ສະບາຍດີ!
 
+324
+00:51:03,227 --> 00:51:07,815
+Listen to me. If you're under attack, use
+your UV lights. They can't take the light.
+ຟັງຂ້ອຍ.ຖ້າເຈົ້າຖືກໂຈມຕີ,ໃຊ້ແສງ UV
+ຂອງທ່ານ.ພວກເຂົາບໍ່ສາມາດຮັບແສງໄດ້.
+
+325
+00:51:57,364 --> 00:51:58,490
+Priest?
+ພຣະສົງບໍ?
+
+326
+00:51:59,033 --> 00:52:02,119
+We're not dying here, man. Come on.
+ພວກເຮົາຈະບໍ່ຕາຍຢູ່ນີ້, ຜູ້ຊາຍ. ມາແລ້ວ.
+
+327
+00:52:02,286 --> 00:52:03,370
+Priest is down.
+ພຣະສົງຕົກລົງແລ້ວ.
+
+328
+00:52:08,375 --> 00:52:12,004
+Daylight's coming.
+You're on your own, Blade.
+ແສງສະຫວ່າງຂອງມື້ກໍາລັງ
+ມາຮອດ.ເຈົ້າຢູ່ຄົນດຽວ,ບເລດ.
+
+329
+00:52:35,861 --> 00:52:38,447
+You want me so bad, Blade?
+ເຈົ້າຢາກຂ້ອຍຫຼາຍປານໃດ, ບເລດ?
+
+330
+00:52:40,032 --> 00:52:41,367
+Here I am.
+ຂ້ອຍຢູ່ບ່ອນນີ້.
+
+331
+00:52:43,452 --> 00:52:45,412
+Why kill me?
+ເປັນຫຍັງຈຶ່ງຂ້າຂ້ອຍ?
+
+332
+00:52:47,956 --> 00:52:51,210
+You and I, we have the same enemy.
+ເຈົ້າແລະຂ້ອຍ, ພວກເຮົາມີສັດຕູດຽວກັນ.
+
+333
+00:52:51,377 --> 00:52:52,795
+We want the same thing.
+ພວກເຮົາຢາກສິ່ງດຽວກັນ.
+
+334
+00:54:31,894 --> 00:54:33,687
+We need the same thing, Blade.
+ພວກເຮົາຕ້ອງການສິ່ງດຽວກັນ, ບເລດ.
+
+335
+00:55:26,865 --> 00:55:28,617
+What happened?
+ເກີດຫຍັງຂຶ້ນ?
+
+336
+00:55:28,784 --> 00:55:31,036
+Why didn't you tell me these
+things were immune...
+ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກຂ້ອຍວ່າ
+ສິ່ງເຫຼົ່ານີ້ເປັນພູມຕ້ານທານ...
+
+337
+00:55:31,203 --> 00:55:33,539
+- ...to silver and garlic?
+- I didn't know.
+- ... ກັບເງິນແລະທຽມບໍ?
+- ຂ້ອຍບໍ່ຮູ້.
+
+338
+00:55:33,705 --> 00:55:36,250
+If you did, would you have told me?
+ຖ້າເຈົ້າເຮັດ, ເຈົ້າຈະບອກຂ້ອຍບໍ?
+
+339
+00:55:37,292 --> 00:55:40,170
+I think you know the truth
+when you hear it.
+ຂ້ອຍຄິດວ່າເຈົ້າຮູ້ຄວາມ
+ຈິງເມື່ອເຈົ້າໄດ້ຍິນມັນ.
+
+340
+00:55:41,171 --> 00:55:43,382
+Then why didn't he kill you?
+ຫຼັງຈາກນັ້ນເປັນຫຍັງລາວບໍ່ໄດ້ຂ້າເຈົ້າ?
+
+341
+00:55:49,012 --> 00:55:52,224
+- How long since he's been bitten?
+- About 20 minutes.
+- ລາວຖືກກັດມາດົນປານໃດ?
+- ປະມານ 20 ນາທີ.
+
+342
+00:55:52,391 --> 00:55:56,103
+- His skin is fucking burning.
+- He's already starting to change.
+- ຜິວໜັງຂອງລາວກໍາລັງເຜົາໄໝ້.
+- ລາວ ກໍາ ລັງເລີ່ມຕົ້ນປ່ຽນແປງແລ້ວ.
+
+343
+00:55:59,398 --> 00:56:02,234
+Will someone just shut him the fuck up?
+ມີໃຜຈະປິດປາກລາວບໍ?
+
+344
+00:56:21,753 --> 00:56:22,796
+Hold on!
+ລໍຖ້າ!
+
+345
+00:56:22,963 --> 00:56:25,424
+- Hold him, Chupa!
+- Come on, man.
+- ຈັບລາວໄວ້, ຊູປາ!
+- ມາແລ້ວ, ຜູ້ຊາຍ.
+
+346
+00:56:25,591 --> 00:56:27,718
+Just put him out of his fucking misery.
+ພຽງແຕ່ເອົາລາວອອກຈາກ
+ຄວາມທຸກທໍລະມານຂອງລາວ.
+
+347
+00:56:29,094 --> 00:56:31,430
+Don't you get it?
+You can't finish him that way.
+ເຈົ້າບໍ່ເຂົ້າໃຈບໍ?ເຈົ້າ
+ບໍ່ສາມາດສິ້ນສຸດລາວໄດ້ແບບນັ້ນ.
+
+348
+00:56:31,597 --> 00:56:35,267
+Hold him down. Hold him down, Chupa.
+ຮັກສາມັນໄວ້. ຮັກລາວໄວ້, ຈູປາ.
+
+349
+00:56:38,228 --> 00:56:39,479
+Move.
+ຍ້າຍໄປ.
+
+350
+00:56:43,108 --> 00:56:44,401
+Back off!
+ກັບຄືນໄປບ່ອນ!
+
+351
+00:56:58,582 --> 00:57:01,710
+If that was your Bloodpack
+Sunday punch, we're in trouble.
+ຖ້າມັນເປັນການຕີວັນອາທິດຂອງ Bloodpack
+ຂອງທ່ານ,ພວກເຮົາຢູ່ໃນຄວາມຫຍຸ້ງຍາກ.
+
+352
+00:57:01,877 --> 00:57:03,754
+This motherfucker left his post.
+ຄົນໂຊກຮ້າຍຄົນນີ້ໄດ້
+ອອກຈາກຕໍາແໜ່ງຂອງລາວ.
+
+353
+00:57:03,921 --> 00:57:06,590
+- He just disappeared.
+- Where were you?
+- ລາວຫາກໍ່ຫາຍໄປ.
+- ເຈົ້າຢູ່ໃສ?
+
+354
+00:57:06,757 --> 00:57:08,592
+Ran into a little Reaper action myself.
+ຂ້ອຍເອງພົບກັບການກະທໍາ Reaper ນ້ອຍໆ.
+
+355
+00:57:08,759 --> 00:57:12,888
+Oh, yeah? How little?
+We lost a man, Priest.
+ໂອ້,ແມ່ນແລ້ວ?ນ້ອຍປານໃດ?
+ພວກເຮົາໄດ້ສູນເສຍຜູ້ຊາຍ,ພຣະສົງ.
+
+356
+00:57:13,472 --> 00:57:17,309
+You want me to carve his
+fucking name on your chest?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍຕັດຊື່
+ຂອງລາວໃສ່ທ້ອງຂອງທ່ານບໍ?
+
+357
+00:57:18,477 --> 00:57:19,937
+Let me show you.
+ຂໍໃຫ້ຂ້ອຍສະແດງໃຫ້ເຈົ້າ.
+
+358
+00:57:28,070 --> 00:57:30,280
+Saw it moving in the alley
+and followed it down.
+ຂ້ອຍເຫັນມັນເຄື່ອນຍ້າຍຢູ່ໃນ
+ຖະໜົນຫົນທາງແລະຕິດຕາມມັນລົງ.
+
+359
+00:57:30,447 --> 00:57:34,826
+Found it just like this.
+I think they came through here.
+ຂ້ອຍພົບມັນແບບນີ້.ຂ້ອຍ
+ຄິດວ່າພວກເຂົາຜ່ານບ່ອນນີ້.
+
+360
+00:57:35,118 --> 00:57:39,039
+It was trying to crawl back
+in the culvert and caught his arm.
+ມັນກໍາລັງພະຍາຍາມຍ່າງກັບຄືນໄປ
+ບ່ອນໃນກະຕ່າແລະຈັບແຂນຂອງລາວ.
+
+361
+00:57:39,206 --> 00:57:42,584
+Been gnawing at it like a coyote.
+ຂ້ອຍ ກໍາ ລັງກັດມັນຄືກັບໂກຢຕ໌.
+
+362
+00:57:44,252 --> 00:57:46,421
+Little boy blue.
+ເດັກຊາຍນ້ອຍສີຟ້າ.
+
+363
+00:57:48,048 --> 00:57:49,841
+It's already dying.
+ມັນ ກໍາ ລັງຕາຍແລ້ວ.
+
+364
+00:57:50,008 --> 00:57:53,053
+I need to examine it
+as quickly as possible.
+ຂ້ອຍຕ້ອງກວດເບິ່ງມັນໄວເທົ່າທີ່ຈະໄວໄດ້.
+
+365
+00:57:53,971 --> 00:57:56,431
+Okay, look for a lever. Let's open it.
+ດີແລ້ວ, ຊອກຫາກະຕຸ້ນ. ມາເປີດມັນ.
+
+366
+00:58:17,119 --> 00:58:20,080
+They've made contact with the Reapers.
+ພວກເຂົາໄດ້ຕິດຕໍ່ກັບຜູ້ເກັບກ່ຽວແລ້ວ.
+
+367
+00:58:20,247 --> 00:58:23,583
+- Any casualties?
+- One so far.
+- ມີຜູ້ບາດເຈັບໃດບໍ?
+- ໜຶ່ງຈົນເຖິງປະຈຸບັນ.
+
+368
+00:58:24,084 --> 00:58:28,213
+It was not Nyssa, I trust?
+ມັນບໍ່ແມ່ນນິສຊາ, ຂ້ອຍເຊື່ອບໍ?
+
+369
+00:58:29,464 --> 00:58:31,091
+No.
+ບໍ່.
+
+370
+00:58:32,426 --> 00:58:35,012
+This a dangerous game
+you're playing, Damaskinos.
+ນີ້ແມ່ນເກມທີ່ອັນຕະລາຍທີ່
+ທ່ານກໍາລັງຫຼິ້ນ, Damaskinos .
+
+371
+00:58:35,345 --> 00:58:37,556
+Blade is too volatile.
+ກະດານມີຄວາມອ່ອນແອເກີນໄປ.
+
+372
+00:58:37,973 --> 00:58:40,017
+You won't be able to keep
+manipulating him.
+ເຈົ້າຈະບໍ່ສາມາດຄວບຄຸມລາວໄດ້ຕໍ່ໄປ.
+
+373
+00:58:40,183 --> 00:58:41,518
+You worry too much.
+ເຈົ້າກັງວົນຫຼາຍເກີນໄປ.
+
+374
+00:58:42,019 --> 00:58:46,314
+I've been informed by our friend inside
+that events are unfolding as scripted.
+ຂ້ອຍໄດ້ຮັບການແຈ້ງຈາກເພື່ອນຂອງພວກເຮົາ
+ພາຍໃນວ່າເຫດການກໍາລັງພັດທະນາຕາມບົດຂຽນ.
+
+375
+00:58:46,481 --> 00:58:48,483
+You've already lost one of your own.
+ເຈົ້າໄດ້ສູນເສຍຄົນຂອງເຈົ້າແລ້ວ.
+
+376
+00:58:48,650 --> 00:58:51,028
+How many more are you
+willing to sacrifice?
+ເຈົ້າພ້ອມທີ່ຈະເສຍສະຫຼະອີກຫຼາຍປານໃດ?
+
+377
+00:58:53,030 --> 00:58:55,991
+- Every one.
+- Even your own daughter?
+- ທຸກຄນ
+- ເຖິງແມ່ນວ່າລູກສາວຂອງທ່ານເອງບໍ?
+
+378
+00:58:59,953 --> 00:59:03,373
+Yes, even her.
+ແມ່ນແລ້ວ, ເຖິງແມ່ນວ່ານາງ.
+
+379
+00:59:12,090 --> 00:59:13,717
+Recognize this?
+ເຈົ້າຮັບຮູ້ສິ່ງນີ້ບໍ?
+
+380
+00:59:14,051 --> 00:59:17,179
+The blood bank. He's one of the guards.
+ທະນາຄານເລືອດ. ລາວເປັນໜຶ່ງໃນຄົນປົກປ້ອງ.
+
+381
+00:59:17,345 --> 00:59:20,891
+So why is he dying? What's killing him?
+ສະນັ້ນລາວກໍາລັງຕາຍເປັນຫຍັງ?
+ສິ່ງທີ່ກໍາລັງຂ້າລາວ?
+
+382
+00:59:21,058 --> 00:59:22,768
+Time.
+ເວລາແລ້ວ.
+
+383
+00:59:23,101 --> 00:59:25,062
+His metabolism is burning too fast.
+ການທົດແທນອາຫານຂອງລາວກ
+ໍາລັງເຜົາໄໝ້ໄວເກີນໄປ.
+
+384
+00:59:26,813 --> 00:59:31,526
+They need fresh blood every couple of hours
+or they'll start feeding on themselves.
+ພວກເຂົາຕ້ອງການເລືອດສົດທຸກໆສອງສາມຊົ່ວໂມງ
+ຫຼືພວກເຂົາຈະເລີ່ມຕົ້ນກິນຕົວເອງ.
+
+385
+00:59:31,902 --> 00:59:34,863
+Nomak's different. He's the carrier.
+ໂນມາກແຕກຕ່າງ. ລາວເປັນຜູ້ຂົນສົ່ງ.
+
+386
+00:59:35,530 --> 00:59:39,367
+It all started with him, it'll end with him.
+ມັນທັງໝົດເລີ່ມຕົ້ນດ້ວຍລາວ
+,ມັນຈະສິ້ນສຸດລົງກັບລາວ.
+
+387
+01:00:03,558 --> 01:00:06,019
+- Open the mouth, Scud.
+- Heh.
+- ເປີດປາກ, ສັກດ໌.
+- ເຮ້.
+
+388
+01:00:07,145 --> 01:00:09,773
+Open the mouth.
+ເປີດປາກ.
+
+389
+01:00:09,940 --> 01:00:11,316
+B, man, come on.
+ບີ, ຜູ້ຊາຍ, ມາແລ້ວ.
+
+390
+01:00:11,858 --> 01:00:13,401
+Sissy.
+Sissy.
+
+391
+01:00:24,871 --> 01:00:27,999
+Ugh. Gah.
+ໂອ້. ແກ.
+
+392
+01:00:30,252 --> 01:00:32,963
+Only the tongue carries the virus.
+ພຽງແຕ່ພາສາເທົ່ານັ້ນທີ່ຖືໄວຣັສ.
+
+393
+01:00:33,130 --> 01:00:36,299
+It is injected through these barbs.
+ມັນຖືກສີດຜ່ານກະດານເຫຼົ່ານີ້.
+
+394
+01:00:37,843 --> 01:00:40,137
+It has bifurcated masseter muscles.
+ມັນມີກ້າມຊີ້ນທີ່ແຕກແຍກອອກ.
+
+395
+01:00:40,679 --> 01:00:43,598
+Overdeveloped, allowing
+for a much stronger bite.
+ພັດທະນາເກີນໄປ,ຊ່ວຍໃຫ້
+ການກັດແຂງແຮງຫຼາຍ.
+
+396
+01:00:45,725 --> 01:00:48,019
+Jaw structure remains the same.
+ໂຄງສ້າງກະຕ່າຍັງຄົງຄືກັນ.
+
+397
+01:00:48,186 --> 01:00:51,189
+But there's no mandible bone.
+ແຕ່ບໍ່ມີກະດູກກະຕ່າ.
+
+398
+01:00:51,356 --> 01:00:52,941
+Squeeze that tooth, Scud.
+ກົດແຂ້ວນັ້ນ, ສັກດ໌.
+
+399
+01:01:04,578 --> 01:01:06,538
+Neurotoxin.
+ນິວໂຣໂຕຊິນ.
+
+400
+01:01:06,955 --> 01:01:09,332
+Probably paralyzes their
+victim while they feed.
+ບາງທີເຮັດໃຫ້ຜູ້ເຄາະຮ້າຍຂອງພວກເຂົາ
+ສັ່ນສະເທືອນໃນຂະນະທີ່ພວກເຂົາກິນອາຫານ.
+
+401
+01:01:13,545 --> 01:01:16,798
+Garlic don't work.
+Silver, that don't work.
+ໝາກໄມ້ບໍ່ເຮັດວຽກ.ເງິນ
+,ນັ້ນບໍ່ໄດ້ເຮັດວຽກ.
+
+402
+01:01:16,965 --> 01:01:21,011
+- We gotta go with the sunlight, right?
+- That's deadly to us too.
+- ພວກເຮົາຕ້ອງໄປກັບແສງແດດ, ແມ່ນບໍ?
+- ນັ້ນແມ່ນອັນຕະລາຍຕໍ່ພວກເຮົາເຊັ່ນກັນ.
+
+403
+01:01:21,178 --> 01:01:23,138
+So let's see what else we can find.
+ສະນັ້ນພວກເຮົາຈະເບິ່ງວ່າ
+ພວກເຮົາສາມາດຊອກຫາຫຍັງອີກ.
+
+404
+01:01:49,581 --> 01:01:54,211
+These things are as different
+from us as we are from you.
+ສິ່ງເຫຼົ່ານີ້ແຕກຕ່າງຈາກພວກເຮົາ
+ເທົ່າທີ່ພວກເຮົາແຕກຕ່າງຈາກເຈົ້າ.
+
+405
+01:02:00,050 --> 01:02:01,426
+Look at that.
+ເບິ່ງມັນ.
+
+406
+01:02:01,593 --> 01:02:04,137
+The heart is encased in bone.
+ຫົວໃຈຖືກຫຸ້ມຫໍ່ໄວ້ໃນກະດູກ.
+
+407
+01:02:04,304 --> 01:02:07,766
+- Only the side is vulnerable.
+- Good luck getting a stake through that.
+- ພຽງແຕ່ດ້ານທີ່ອ່ອນແອເທົ່ານັ້ນ.
+- ໂຊກດີທີ່ຈະເອົາກະດານຜ່ານນັ້ນ.
+
+408
+01:02:07,933 --> 01:02:11,394
+Pull a leg off a spider,
+it keeps moving on its own...
+ດຶງຕີນອອກຈາກແມງໄມ້,ມັນສືບຕໍ່
+ເຄື່ອນຍ້າຍດ້ວຍຕົນເອງ...
+
+409
+01:02:11,561 --> 01:02:14,981
+...essentially trying to walk
+without a body attached to it.
+...ໂດຍພື້ນຖານແລ້ວພະຍາຍາມຍ່າງ
+ໂດຍບໍ່ມີຮ່າງກາຍຕິດກັບມັນ.
+
+410
+01:02:15,148 --> 01:02:17,567
+- What the fuck are you doing?
+- Hardwired, right?
+- ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່?
+- ມີສາຍຮາດແວ, ແມ່ນບໍ?
+
+411
+01:02:24,241 --> 01:02:26,660
+What the fuck is that?
+ນັ້ນແມ່ນຫຍັງ?
+
+412
+01:02:27,077 --> 01:02:30,455
+Brain's dead. Body's still trying to feed.
+ສະໝອງຕາຍແລ້ວ.ຮ່າງກາຍ
+ຍັງພະຍາຍາມໃຫ້ອາຫານ.
+
+413
+01:02:31,957 --> 01:02:36,044
+We got six hours before sunrise.
+Be ready by then.
+ພວກເຮົາມີເວລາຫົກຊົ່ວໂມງກ່ອນທີ່
+ດວງຕາເວັນຈະຂຶ້ນ.ພ້ອມແລ້ວໃນເວລານັ້ນ.
+
+414
+01:02:36,920 --> 01:02:41,132
+Hey, what happens at sunrise?
+ເຮ້, ເກີດຫຍັງຂຶ້ນໃນຕອນເຊົ້າ?
+
+415
+01:02:42,676 --> 01:02:46,221
+Blade, I'm talking to you.
+What happens at sunrise?
+ບເລດ,ຂ້ອຍກໍາລັງເວົ້າກັບເຈົ້າ
+.ເກີດຫຍັງຂຶ້ນໃນຕອນເຊົ້າ?
+
+416
+01:02:47,722 --> 01:02:49,266
+We hunt.
+ພວກເຮົາລ່າສັດ.
+
+417
+01:02:49,432 --> 01:02:52,394
+- In broad daylight?
+- You gotta be fucking joking.
+- ໃນແສງສະຫວ່າງກາງເວັນບໍ?
+- ເຈົ້າຕ້ອງໂຊກຮ້າຍ.
+
+418
+01:02:52,560 --> 01:02:55,021
+You better get you
+some sunscreen, buttercup.
+ເຈົ້າຄວນເອົາເຄື່ອງປ້ອງກັນ
+ແດດບາງຢ່າງ, buttercup .
+
+419
+01:02:55,188 --> 01:02:56,648
+Listen, shitkicker.
+ຟັງ, ຄົນໂຊກຮ້າຍ.
+
+420
+01:02:56,815 --> 01:02:59,985
+You're about one cunt hair
+away from hillbilly heaven.
+ເຈົ້າຢູ່ຫ່າງຈາກສະຫວັນຂອງຄົນ
+ພູເຂົາປະມານໜຶ່ງຜົມໂຊກຮ້າຍ.
+
+421
+01:03:00,151 --> 01:03:02,862
+I love it when you talk dirty.
+ຂ້ອຍມັກເມື່ອເຈົ້າເວົ້າເປື້ອນ.
+
+422
+01:03:05,407 --> 01:03:07,284
+Sunlight's the only edge we've got.
+ແສງແດດແມ່ນແຄມດຽວທີ່ພວກເຮົາມີ.
+
+423
+01:03:08,076 --> 01:03:10,453
+- They'll be more vulnerable then.
+- And so will we.
+- ພວກເຂົາຈະມີຄວາມອ່ອນແອຫຼາຍຂຶ້ນໃນເວລານັ້ນ.
+- ແລະພວກເຮົາເຊັ່ນກັນ.
+
+424
+01:03:12,789 --> 01:03:15,500
+Let's be real about one thing.
+ໃຫ້ເປັນຄວາມຈິງກ່ຽວກັບສິ່ງດຽວ.
+
+425
+01:03:16,126 --> 01:03:18,420
+I don't expect everybody
+to make it back tomorrow.
+ຂ້ອຍບໍ່ຄາດວ່າທຸກຄົນຈະກັບມາມື້ອື່ນ.
+
+426
+01:03:20,171 --> 01:03:24,676
+Remember to protect
+yourselves at all times.
+ຈື່ໄວ້ວ່າຕ້ອງປົກປ້ອງຕົວເອງທຸກເວລາ.
+
+427
+01:03:32,475 --> 01:03:34,311
+What are you looking for?
+ເຈົ້າ ກໍາ ລັງຊອກຫາຫຍັງ?
+
+428
+01:03:34,477 --> 01:03:37,314
+Phosphor rods. If I can
+suss out the light source...
+ກະດານຟອດສຟໍຣ໌.ຖ້າຂ້ອຍ
+ສາມາດຊອກຫາແຫຼ່ງແສງໄດ້...
+
+429
+01:03:37,480 --> 01:03:41,651
+...maybe I can make some sort of UV
+flash-bang grenade or something.
+ບາງທີຂ້ອຍສາມາດເຮັດລະເບີດໄຟຟ້າ
+UV ບາງຢ່າງຫຼືບາງສິ່ງບາງຢ່າງໄດ້.
+
+430
+01:03:41,818 --> 01:03:42,986
+It's been tried already.
+ມັນໄດ້ຖືກພະຍາຍາມແລ້ວ.
+
+431
+01:03:43,403 --> 01:03:46,656
+Yeah, but you didn't have the Scudster
+working on it then, did you?
+ແມ່ນແລ້ວ,ແຕ່ເຈົ້າບໍ່ໄດ້ມີ Scudster
+ເຮັດວຽກກ່ຽວກັບມັນໃນເວລານັ້ນ,ແມ່ນບໍ?
+
+432
+01:03:58,710 --> 01:04:00,253
+- Blade.
+- Mm.
+- ກະດານ.
+- ມມ
+
+433
+01:04:00,920 --> 01:04:04,215
+- The way you talk to them, us.
+- What is it?
+- ວິທີທີ່ເຈົ້າເວົ້າກັບພວກເຂົາ, ພວກເຮົາ.
+- ມັນເປັນຫຍັງ?
+
+434
+01:04:04,382 --> 01:04:06,843
+We are together in this, remember?
+ພວກເຮົາຢູ່ຮ່ວມກັນໃນເລື່ອງນີ້, ຈື່ບໍ?
+
+435
+01:04:07,969 --> 01:04:09,721
+Why do you hate us so much?
+ເຈົ້າກຽດຊັງພວກເຮົາຫຼາຍປານໃດ?
+
+436
+01:04:10,555 --> 01:04:11,639
+It's fate.
+ມັນເປັນຕາຕະລາງ.
+
+437
+01:04:12,932 --> 01:04:15,226
+- It's in my blood.
+- Well, it's in mine too.
+- ມັນຢູ່ໃນເລືອດຂອງຂ້ອຍ.
+- ດີ, ມັນຢູ່ໃນຂອງຂ້ອຍເຊັ່ນກັນ.
+
+438
+01:04:15,435 --> 01:04:18,646
+I'm a pureblood. I was born a vampire.
+ຂ້ອຍເປັນເລືອດບໍລິສຸດ
+.ຂ້ອຍເກີດເປັນແວມປີ.
+
+439
+01:04:23,860 --> 01:04:28,490
+You know the thirst better than any of us,
+shooting that serum of yours.
+ເຈົ້າຮູ້ຄວາມຢາກດີກວ່າພວກເຮົາ
+ທຸກຄົນ,ການຍິງເຊຣັມຂອງທ່ານ.
+
+440
+01:04:28,656 --> 01:04:33,453
+The only difference between us is that I made
+peace with what I am a long time ago.
+ຄວາມແຕກຕ່າງດຽວລະຫວ່າງພວກເຮົາແມ່ນວ່າຂ້ອຍໄດ້
+ສ້າງຄວາມສະຫງົບກັບສິ່ງທີ່ຂ້ອຍເປັນດົນນານແລ້ວ.
+
+441
+01:04:40,752 --> 01:04:44,506
+- How long have you known Blade?
+- Going on 20 years.
+- ເຈົ້າຮູ້ຈັກບເລດດົນປານໃດ?
+- ມັນດໍາເນີນໄປເປັນເວລາ 20 ປີແລ້ວ.
+
+442
+01:04:44,672 --> 01:04:47,425
+He doesn't talk about
+the old days that much.
+ລາວບໍ່ເວົ້າກ່ຽວກັບສະໄໝເກົ່າຫຼາຍປານໃດ.
+
+443
+01:04:47,592 --> 01:04:50,053
+Blade doesn't talk about anything much.
+ບເລດບໍ່ເວົ້າກ່ຽວກັບຫຍັງຫຼາຍ.
+
+444
+01:04:51,262 --> 01:04:53,181
+You want to hear something funny?
+ເຈົ້າຢາກໄດ້ຍິນບາງສິ່ງບາງຢ່າງທີ່ມ່ວນບໍ?
+
+445
+01:04:53,348 --> 01:04:57,644
+Blade kind of looks at you
+like a father figure.
+ບເລດເບິ່ງເຈົ້າຄືກັບຮູບຮ່າງພໍ່.
+
+446
+01:04:57,811 --> 01:04:59,270
+Tell me something.
+ບອກຂ້ອຍບາງສິ່ງບາງຢ່າງ.
+
+447
+01:05:00,105 --> 01:05:01,398
+How'd you two hook up?
+ເຈົ້າທັງສອງເຊື່ອມຕໍ່ກັນແນວໃດ?
+
+448
+01:05:02,649 --> 01:05:04,109
+I was backpacking.
+ຂ້ອຍ ກໍາ ລັງຖົງຫຼັງ.
+
+449
+01:05:04,275 --> 01:05:07,487
+I met these two chicks, decided
+to take them back to my, uh, tent...
+ຂ້ອຍພົບກັບເດັກຍິງສອງຄົນນີ້,ຕັດສິນໃຈທີ່
+ຈະພາພວກເຂົາກັບຄືນໄປບ່ອນຂອງຂ້ອຍ,ອູ,ແຖບ...
+
+450
+01:05:07,654 --> 01:05:10,698
+- ...for a little Three's Company action.
+- Pretty.
+- ... ສໍາ ລັບການກະ ທໍາ ຂອງບໍລິສັດສາມຄົນນ້ອຍໆ.
+- ງາມ.
+
+451
+01:05:10,865 --> 01:05:14,369
+Next thing I know, Janet and Chrissy
+start tearing chunks out of my stomach.
+ສິ່ງຕໍ່ໄປທີ່ຂ້ອຍຮູ້,ເຈນຕ໌ແລະຄຣິສຊີ
+ເລີ່ມຕັດຊິ້ນສ່ວນອອກຈາກທ້ອງຂອງຂ້ອຍ.
+
+452
+01:05:14,828 --> 01:05:17,705
+Blade shows up, saves my ass.
+ບເລດປາກົດຕົວ, ຊ່ວຍຂ້ອຍ.
+
+453
+01:05:17,872 --> 01:05:19,958
+Everything else just
+sort of fell into place.
+ທຸກຢ່າງອື່ນໆພຽງແຕ່ຕົກລົງໃນສະຖານທີ່.
+
+454
+01:05:23,503 --> 01:05:26,172
+- Let's try it.
+- All right.
+- ພວກເຮົາຈະພະຍາຍາມມັນ.
+- ດີແລ້ວ.
+
+455
+01:05:38,435 --> 01:05:40,311
+Maybe I fucked up.
+Maybe you were right.
+ບາງທີຂ້ອຍໄດ້ເຮັດຜິດ
+.ບາງທີເຈົ້າຖືກຕ້ອງ.
+
+456
+01:05:46,317 --> 01:05:49,779
+All right. Papa's got a brand new bag.
+ດີແລ້ວ. ພໍ່ມີຖົງ ໃໝ່ ຢ່າງແທ້ຈິງ.
+
+457
+01:06:29,777 --> 01:06:31,696
+Let me ask one question.
+ຂໍໃຫ້ຂ້ອຍຖາມຄໍາຖາມດຽວ.
+
+458
+01:06:31,863 --> 01:06:34,073
+How the hell are we gonna
+find these Reapers?
+ພວກເຮົາຈະຊອກຫາພວກ
+Reapers ເຫຼົ່ານີ້ແນວໃດ?
+
+459
+01:06:34,240 --> 01:06:37,118
+We won't have to. They'll come to us.
+ພວກເຮົາຈະບໍ່ຕ້ອງເຮັດ.
+ພວກເຂົາຈະມາຫາພວກເຮົາ.
+
+460
+01:06:42,540 --> 01:06:44,542
+- What is this shit?
+- Pheromones.
+- ສິ່ງນີ້ເປັນຫຍັງ?
+- ຟີໂຣໂມນ.
+
+461
+01:06:44,709 --> 01:06:47,212
+Harvested from the Reapers'
+adrenal glands.
+ຖືກເກັບຈາກກະດານ
+adrenal ຂອງ Reapers ໄດ້.
+
+462
+01:06:47,378 --> 01:06:49,714
+They're gonna key to it.
+ພວກເຂົາຈະປຸ່ມມັນ.
+
+463
+01:06:51,382 --> 01:06:55,303
+They want us to spray on
+some suckpuppy's nut juice?
+ພວກເຂົາຢາກໃຫ້ພວກເຮົາສີດນ້ໍ
+າໝາກນັດຂອງລູກນ້ອຍບາງຄົນບໍ?
+
+464
+01:06:56,471 --> 01:06:59,182
+First use your firearms
+to drive them back.
+ກ່ອນອື່ນໃຊ້ອາວຸດໄຟຂອງທ່ານ
+ເພື່ອຂັບພວກເຂົາກັບຄືນໄປບ່ອນ.
+
+465
+01:06:59,349 --> 01:07:00,892
+Then toss your UV grenades.
+ຫຼັງຈາກນັ້ນຖິ້ມລະເບີດ UV ຂອງທ່ານ.
+
+466
+01:07:01,059 --> 01:07:03,269
+Right. This is what we got
+for the grand finale.
+ແມ່ນແລ້ວ.ນີ້ແມ່ນສິ່ງທີ່ພວກເຮົາ
+ໄດ້ຮັບສໍາລັບງານສຸດທ້າຍທີ່ຍິ່ງໃຫຍ່.
+
+467
+01:07:03,436 --> 01:07:07,857
+I hot-wired a couple of these
+babies to a nitro-vacuum.
+ຂ້ອຍໄດ້ເຊື່ອມຕໍ່ເດັກນ້ອຍ
+ສອງສາມຄົນນີ້ກັບເຄື່ອງຟອກໄນໂຕ.
+
+468
+01:07:08,024 --> 01:07:11,194
+Just be real careful where you
+pop your load, all right?
+ພຽງແຕ່ລະມັດລະວັງແທ້ໆວ່າເຈົ້າ
+ເອົາໂຫຼດຂອງທ່ານຢູ່ໃສ,ດີບໍ?
+
+469
+01:07:11,361 --> 01:07:13,029
+And you, you're not coming?
+ແລະເຈົ້າ, ເຈົ້າຈະບໍ່ມາບໍ?
+
+470
+01:07:13,196 --> 01:07:15,573
+No. I'm a lover, not a fighter.
+ບໍ່. ຂ້ອຍເປັນຄົນຮັກ, ບໍ່ແມ່ນນັກຕໍ່ສູ້.
+
+471
+01:07:16,991 --> 01:07:18,701
+UVs have a 10-second delay.
+UV ມີຄວາມຊ້າ 10 ວິນາທີ.
+
+472
+01:07:20,662 --> 01:07:24,874
+Nyssa, just remember to take cover.
+ນິດຊາ, ພຽງແຕ່ຈື່ໄວ້ວ່າຕ້ອງປົກປ້ອງ.
+
+473
+01:07:27,627 --> 01:07:30,797
+Hey, Blade, give me a hand.
+ເຮ້, ບເລດ, ຊ່ວຍຂ້ອຍ.
+
+474
+01:07:34,592 --> 01:07:37,720
+You and Miss Muffet getting
+a little cozy there?
+ເຈົ້າແລະນາງມູເຟຕ໌ກໍາລັງມີ
+ຄວາມອົບອຸ່ນຢູ່ບ່ອນນັ້ນບໍ?
+
+475
+01:07:37,887 --> 01:07:40,932
+I wouldn't worry about that if I was you.
+ຂ້ອຍຈະບໍ່ກັງວົນກ່ຽວກັບ
+ເລື່ອງນັ້ນຖ້າຂ້ອຍເປັນເຈົ້າ.
+
+476
+01:07:41,099 --> 01:07:43,059
+Looks to me like you're
+getting confused...
+ເບິ່ງຄືວ່າຂ້ອຍວ່າ
+ເຈົ້າກໍາລັງສັບສົນ...
+
+477
+01:07:43,226 --> 01:07:46,312
+...as to which side of the line
+you're standing on.
+ວ່າເຈົ້າຢືນຢູ່ຂ້າງໃດຂອງເສັ້ນທາງ.
+
+478
+01:07:46,854 --> 01:07:49,107
+Those are real hollow words
+coming from a man...
+ນັ້ນແມ່ນຄໍາເວົ້າທີ່ເປົ່າ
+ເປົ່າທີ່ມາຈາກຜູ້ຊາຍແທ້ໆ...
+
+479
+01:07:49,274 --> 01:07:52,652
+...who just spent two years
+running with the enemy.
+...ຜູ້ທີ່ຫາກໍ່ໃຊ້ເວລາ
+ສອງປີແລ່ນກັບສັດຕູ.
+
+480
+01:07:52,819 --> 01:07:56,072
+And what the hell is that
+supposed to mean?
+ແລະມັນໝາຍຄວາມວ່າແນວໃດ?
+
+481
+01:07:57,282 --> 01:08:00,493
+You know, Whistler,
+there's an old saying:
+ເຈົ້າຮູ້ແລ້ວ,ວີສລເຕີ
+,ມີຄໍາເວົ້າເກົ່າວ່າ:
+
+482
+01:08:00,660 --> 01:08:05,665
+"Keep your friends close,
+but keep your enemies closer."
+ຮັກສາເພື່ອນຂອງທ່ານຢູ່ໃກ້ໆ,ແຕ່
+ຮັກສາສັດຕູຂອງທ່ານໃກ້ຊິດກວ່າເກົ່າ.
+
+483
+01:08:05,832 --> 01:08:07,417
+You might want to remember that.
+ເຈົ້າອາດຈະຢາກຈື່ມັນໄວ້.
+
+484
+01:08:31,649 --> 01:08:34,569
+Blade, we should split into three units.
+ບເລດ, ພວກເຮົາຄວນແບ່ງອອກເປັນສາມໜ່ວຍງານ.
+
+485
+01:09:47,642 --> 01:09:50,687
+We're trying to attract them,
+not scare them off.
+ພວກເຮົາກໍາລັງພະຍາຍາມດຶງດູດພວກເຂົາ
+,ບໍ່ແມ່ນເຮັດໃຫ້ພວກເຂົາຢ້ານກົວ.
+
+486
+01:09:50,853 --> 01:09:54,065
+Yeah, well, some of us can't see
+in the dark, you fucking nipplehead.
+ແມ່ນແລ້ວ,ດີ,ບາງຄົນໃນພວກເຮົາບໍ່ສາມາດ
+ເຫັນໃນຄວາມມືດໄດ້,ເຈົ້າຫົວທ້ອງ.
+
+487
+01:09:54,232 --> 01:09:56,484
+What am I supposed to do?
+ຂ້ອຍຄວນເຮັດແນວໃດ?
+
+488
+01:09:57,110 --> 01:10:00,446
+Bifocals, Grandpa, and try to keep up.
+Bifocals, ພໍ່ເຖົ້າ, ແລະພະຍາຍາມຕິດຕາມ.
+
+489
+01:10:56,711 --> 01:10:58,629
+Let's do this.
+ມາເຮັດແບບນີ້.
+
+490
+01:11:04,469 --> 01:11:06,137
+Hey, hillbilly.
+ເຮ້, ຄົນພູເຂົາ.
+
+491
+01:11:06,304 --> 01:11:08,931
+What the fuck you doing?
+ເຈົ້າເຮັດຫຍັງຢູ່?
+
+492
+01:11:09,098 --> 01:11:13,895
+Ain't nobody here but you
+and us, buttercup.
+ບໍ່ມີໃຜຢູ່ບ່ອນນີ້ນອກຈາກ
+ເຈົ້າແລະພວກເຮົາ, buttercup .
+
+493
+01:11:16,355 --> 01:11:19,108
+We lose a partner, and Blade loses one!
+ພວກເຮົາສູນເສຍຄູ່ຮ່ວມງານ
+,ແລະບເລດສູນເສຍໜຶ່ງ!
+
+494
+01:11:27,325 --> 01:11:29,744
+I'll leave you two lovebirds
+some time to yourselves.
+ຂ້ອຍຈະປ່ອຍໃຫ້ເຈົ້າທັງສອງນົກ
+ຮັກໃຊ້ເວລາບາງຢ່າງໃຫ້ເຈົ້າເອງ.
+
+495
+01:12:06,864 --> 01:12:08,533
+Verlaine?
+ເວຣເລນ?
+
+496
+01:13:04,547 --> 01:13:07,258
+I spotted a group in the east tunnel.
+ຂ້ອຍເຫັນກຸ່ມຄົນໜຶ່ງໃນທໍ່ທາງຕາເວັນອອກ.
+
+497
+01:13:07,425 --> 01:13:09,468
+I'm prepping the bomb pack.
+ຂ້ອຍ ກໍາ ລັງກະກຽມຊຸດລະເບີດ.
+
+498
+01:13:09,635 --> 01:13:11,137
+Nyssa.
+ນີຊາ.
+
+499
+01:13:34,619 --> 01:13:35,953
+Get out!
+ອອກໄປ!
+
+500
+01:13:36,120 --> 01:13:37,580
+Right now.
+ດຽວນີ້.
+
+501
+01:13:41,125 --> 01:13:42,335
+No!
+ບໍ່!
+
+502
+01:13:46,255 --> 01:13:48,049
+No!
+ບໍ່!
+
+503
+01:13:50,676 --> 01:13:53,721
+I'll attract them to me.
+Do what I tell you. Move!
+ຂ້ອຍຈະດຶງດູດພວກເຂົາມາຫາຂ້ອຍ.
+ເຮັດຕາມທີ່ຂ້ອຍບອກເຈົ້າ.ຍ້າຍໄປ!
+
+504
+01:13:57,308 --> 01:13:58,893
+Ten...
+ສິບ...
+
+505
+01:13:59,060 --> 01:14:00,102
+...nine...
+... ເກົ້າ...
+
+506
+01:14:00,978 --> 01:14:02,021
+...eight...
+ແປດ...
+
+507
+01:14:02,813 --> 01:14:04,065
+...seven...
+ເຈັດ...
+
+508
+01:14:04,482 --> 01:14:05,775
+...six...
+... ຫົກ...
+
+509
+01:14:06,984 --> 01:14:08,486
+...five...
+... ຫ້າ...
+
+510
+01:14:09,153 --> 01:14:10,863
+...four...
+ສີ່...
+
+511
+01:14:11,238 --> 01:14:12,448
+...three...
+... ສາມ...
+
+512
+01:14:13,658 --> 01:14:15,034
+...two...
+ສອງ...
+
+513
+01:14:17,703 --> 01:14:19,205
+...one.
+... ໜຶ່ງ.
+
+514
+01:14:44,063 --> 01:14:45,231
+Piece of junk.
+ກະດານຂີ້ເຫຍື້ອ.
+
+515
+01:14:59,495 --> 01:15:01,080
+What the hell is this?
+ນີ້ແມ່ນຫຍັງ?
+
+516
+01:15:02,707 --> 01:15:04,959
+You trying to stink me to death, old man?
+ເຈົ້າກໍາລັງພະຍາຍາມກິ່ນຫອມ
+ຂ້ອຍຈົນຕາຍບໍ,ພໍ່ເຖົ້າ?
+
+517
+01:15:15,761 --> 01:15:17,388
+Wait!
+ລໍຖ້າ!
+
+518
+01:15:19,181 --> 01:15:21,434
+- You okay?
+- Yeah.
+- ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+- ແມ່ນແລ້ວ.
+
+519
+01:15:21,600 --> 01:15:25,062
+We gotta move.
+We got a lot of company.
+ພວກເຮົາຕ້ອງຍ້າຍໄປ.
+ພວກເຮົາມີບໍລິສັດຫຼາຍຄົນ.
+
 520
-00:36:28,800 --> 00:36:30,800
-[DAMASKINOS]
-Get out of the way.
-ອອກຈາກທາງ.
+01:15:28,024 --> 01:15:31,318
+All units, regroup. Regroup!
+ໜ່ວຍງານທັງໝົດ,ຈັດ
+ກຸ່ມຄືນ.ຈັດກຸ່ມໃໝ່!
 
 521
-00:36:31,300 --> 00:36:33,400
-[WHISTLER]
-Come on, Blade.  Talk to me!
-ມາແລ້ວ, ບເລດ. ເວົ້າກັບຂ້ອຍ!
+01:15:56,677 --> 01:16:00,806
+Eat shit, you ugly motherfuckers!
+ກິນສິ່ງແວດລ້ອມ,ພວກເຈົ້າ
+ໂຊກຮ້າຍທີ່ສວຍງາມ!
 
 522
-00:36:33,900 --> 00:36:35,900
-[BLADE]
-Blood...
-ເລືອດ...
+01:16:03,142 --> 01:16:04,477
+There's nobody left!
+ບໍ່ມີໃຜເຫຼືອອີກແລ້ວ!
 
 523
-00:36:36,400 --> 00:36:39,550
-[ON STEVENS]
-panicked, turning towards the open elevator cab where --
-ຢ້ານກົວ, ຫັນໄປສູ່ລົດແທັກຊີຍົກເປີດບ່ອນທີ່ -
+01:16:07,980 --> 01:16:09,774
+Aah! Unh.
+ອາ! ອູຮ໌.
 
 524
-00:36:40,050 --> 00:36:46,000
-[DAMASKINOS]
-is waiting.  But even as Stevens starts towards the elevator, Damaskinos dispassionately presses the "CLOSE DOOR" button.
-ກໍາ ລັງລໍຖ້າ. ແຕ່ເຖິງແມ່ນວ່າສຕິເວນສ໌ຈະເລີ່ມຕົ້ນໄປສູ່ຍົກ
-, Damaskinos ຢ່າງບໍ່ມີຄວາມຮູ້ສຶກກົດປຸ່ມ"ປິດປະຕູ".
+01:16:24,371 --> 01:16:27,083
+- Where's the bomb pack?
+- Had to leave it down that tunnel.
+- ກະເປົາລະເບີດຢູ່ໃສ?
+- ຂ້ອຍຕ້ອງປ່ອຍມັນລົງໃນທໍ່ນັ້ນ.
 
 525
-00:36:46,500 --> 00:36:48,500
-[STEVENS]
-What are you doing?!!
-ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?!!
+01:16:27,249 --> 01:16:29,126
+Give me the rest of the pheromones.
+ໃຫ້ຂ້ອຍຟີໂຣໂມນທີ່ເຫຼືອ.
 
 526
-00:36:49,000 --> 00:36:55,000
-[REINHARDT AND HIS MEN]
-converge on the lab from two directions at once.  Some of the vampires spill through the door on the second level with Reinhardt, while others enter on the ground floor.
-ເຂົ້າສູ່ຫ້ອງທົດລອງຈາກສອງທິດທາງໃນເວລາດຽວກັນ.
-ບາງຄົນຂອງແວມປີສ໌ໄຫຼຜ່ານປະຕູໃນລະດັບທີສອງກັບຣາຍນຮາດຕ໌, ໃນຂະນະທີ່ຄົນອື່ນເຂົ້າໄປໃນຊັ້ນລຸ່ມ.
+01:16:32,880 --> 01:16:34,840
+Go down that tunnel. Go, go, go!
+ໄປລຸ່ມທໍ່ນັ້ນ. ໄປ, ໄປ,ໄປ!
 
 527
-00:36:55,500 --> 00:36:57,500
-[REINHARDT]
-Stop him!!!
-ຢຸດລາວ!!!
+01:16:37,051 --> 01:16:43,140
+You obviously do not know
+who you are fucking with!
+ເຈົ້າແນ່ນອນວ່າເຈົ້າບໍ່ຮູ້
+ວ່າເຈົ້າກໍາລັງໂຊກຮ້າຍກັບໃຜ!
 
 528
-00:36:58,000 --> 00:37:04,000
-[ON BLADE]
-gripping the guard rail for support, dragging himself along. Reinhardt fires.  A SHOTGUN BLAST hits Blade, grazing him but otherwise missing him.  As Reinhardt curses and prepares to fire again --
-ຈັບລົດໄຟປ້ອງກັນເພື່ອການສະ ຫນັບ ສະ ຫນູນ, ດຶງຕົວເອງໄປ. ຣາຍນຮາດຕ໌ຍິງ. ການລະເບີດປືນຍິງຕີບເລດ
-, ລ້ຽງລາວແຕ່ຖ້າບໍ່ດັ່ງນັ້ນພາດລາວ. ໃນຂະນະທີ່ຣາຍນ ຮອດຕ໌ໂຊກຮ້າຍແລະກຽມພ້ອມທີ່ຈະຍິງອີກຄັ້ງ -
+01:17:18,717 --> 01:17:22,930
+By the way, Blade, did I happen
+to mention the bomb lever is stuck?
+ເຖິງຢ່າງໃດກໍ່ຕາມ,ບເລດ,ຂ້ອຍເຄີຍ
+ກ່າວເຖິງວ່າກະຕຸ້ນລະເບີດຕິດຢູ່ບໍ?
 
 529
-00:37:04,500 --> 00:37:10,500
-[THE BLOOD CASK BELOW]
-Blade sinks from view, disappearing beneath the churning slurry of crimson.  A beat passes as Reinhardt and his men draw closer, apprehensive.  Then, an explosion of BLOOD gushes over Reinhardt and the others.  They fall backwards, blinded, slipping --
-ກະດານຕົກລົງຈາກສາຍຕາ, ສູນຫາຍພາຍໃຕ້ຄວາມສັ່ນສະເທືອນຂອງສີແດງ. ການຕີຜ່ານໃນຂະນະທີ່ຣາຍນຮາດຕ໌ແລະຜູ້ຊາຍຂອງລາວໃກ້ຊິດ,
-ຢ້ານກົວ. ຫຼັງຈາກນັ້ນ, ການລະເບີດຂອງເລືອດໄຫຼລົງເທິງຣາຍັນຮາດດ໌ແລະຄົນອື່ນ. ພວກເຂົາຕົກກັບຄືນໄປບ່ອນ, ຕາບອດ, ລອຍ -
+01:17:29,019 --> 01:17:30,437
+Suck this!
+ດູດສິ່ງນີ້!
 
 530
-00:37:11,000 --> 00:37:17,000
-[BLADE]
-surfaces from the cask in morbidly glorious slow-motion. Think of Sheen in the end-sequence of Apocalypse Now, only instead of a river of mud, Blade is covered head-to-toe in crimson.  Majestic and glistening.  A primordial god.  He rears back his head, letting loose a triumphal ROAR.
-ພື້ນຜິວຈາກຖັງໃນການເຄື່ອນໄຫວຊ້າທີ່ສວຍງາມຢ່າງໂຊກຮ້າຍ. ຄິດກ່ຽວກັບ Sheen ໃນຊຸດສຸດທ້າຍຂອງ Apocalypse ດຽວນີ້, ພຽງແຕ່ແທນທີ່ຈະເປັນແມ່ນໍ້າຂອງດິນເຜົາ
-, ກະດານຖືກປົກຫຸ້ມດ້ວຍສີແດງຈາກຫົວຫາຕີນ. ຍິ່ງໃຫຍ່ແລະສົດໃສ. ພຣະເຈົ້າຕົ້ນສະບັບ. ລາວຍົກຫົວຄືນ, ປ່ອຍອອກສຽງໂຫວດໄຊຊະນະ.
+01:17:33,149 --> 01:17:35,234
+Let's go!
+ໄປແລ້ວ!
 
 531
-00:37:17,500 --> 00:37:23,500
-[REINHARDT]
-The vampire mercenary clutches Blade's sword in his hand, but the weapon provides him with little sense of security given that he's just seen a dozen of his men slaughtered.  The automatic sprinkler system is on now, spraying water down upon Blade and Reinhardt alike.  Blade advances.
-ນັກຈ້າງແວມບີຣ໌ຈັບກະທູ້ຂອງບເລດໃນມືຂອງລາວ, ແຕ່ອາວຸດໃຫ້ລາວຄວາມຮູ້ສຶກຄວາມປອດໄພ ຫນ້ອຍ ຫນຶ່ງ ເນື່ອງຈາກວ່າລາວຫາກໍ່ເຫັນຜູ້ຊາຍຂອງລາວສິບຄົນຖືກຂ້າຕາຍ
-. ລະບົບເຄື່ອງສີດອັດຕະໂນມັດ ກໍາ ລັງເປີດຢູ່ດຽວນີ້, ສີດນ້ ໍາ ລົງໃສ່ບ ເລດແລະຣາຍນຮາດເຊັ່ນກັນ. ກະທູ້ກ້າວຫນ້າ.
+01:18:15,232 --> 01:18:17,526
+You want a bite of me? Well, come on!
+ເຈົ້າຢາກກັດຂ້ອຍບໍ? ດີ, ມາ!
 
 532
-00:37:24,000 --> 00:37:26,450
-[BLADE]
-Tell me something, chief.  Can you blush?
-ບອກຂ້ອຍບາງສິ່ງບາງຢ່າງ, ຫົວຫນ້າ. ເຈົ້າສາມາດສີດໍາໄດ້ບໍ?
+01:18:18,235 --> 01:18:19,570
+Come on, motherfucker!
+ມາແລ້ວ, ຄົນໂຊກຮ້າຍ!
 
 533
-00:37:26,950 --> 00:37:28,950
-[NYSSA]
-I overrode the security codes.
-ຂ້ອຍໄດ້ຍົກເລີກລະຫັດຄວາມປອດໄພ.
+01:19:38,524 --> 01:19:40,150
+Whistler.
+ວີສລເຕີ.
 
 534
-00:37:29,450 --> 00:37:31,450
-[NYSSA]
-We're locked in.
-ພວກເຮົາຖືກລັອກໄວ້.
+01:19:40,317 --> 01:19:41,694
+Wait.
+ລໍຖ້າ.
 
 535
-00:37:31,950 --> 00:37:34,400
-[DAMASKINOS]
-Are you insane?  He'll kill us both!
-ເຈົ້າໂຊກຮ້າຍບໍ? ລາວຈະຂ້າພວກເຮົາທັງສອງ!
+01:19:42,611 --> 01:19:44,488
+You will survive this...
+ເຈົ້າຈະລອດຊີວິດຈາກສິ່ງນີ້...
 
 536
-00:37:34,900 --> 00:37:36,900
-[NYSSA]
-Maybe it's better that way.
-ບາງທີມັນດີກວ່າແບບນັ້ນ.
+01:19:44,655 --> 01:19:46,949
+...only to tell Blade...
+ພຽງແຕ່ບອກບເລດ...
 
 537
-00:37:37,400 --> 00:37:41,600
-[BLADE]
-What's it going to be, Damaskinos? Thiavolos.  The devil you know --
-ມັນຈະເປັນຫຍັງ, Damaskinos? Thiavolos. ຊາຕານທີ່ທ່ານຮູ້ຈັກ -
+01:19:48,158 --> 01:19:49,285
+...about this ring.
+... ກ່ຽວກັບແຫວນນີ້.
 
 538
-00:37:42,100 --> 00:37:45,600
-[BLADE]
-enters the lobby from a mezzanine above, sword in hand.
-ເຂົ້າໄປໃນໂລບີຈາກ mezzanine ເທິງ, ກະທູ້ໃນມື.
+01:19:50,452 --> 01:19:55,124
+About the truth. The truth, old man.
+ກ່ຽວກັບຄວາມຈິງ. ຄວາມຈິງ, ພໍ່ເຖົ້າ.
 
 539
-00:37:46,100 --> 00:37:48,200
-[BLADE]
--- or the devil you don't?
-- ຫຼືຊາຕານທີ່ທ່ານບໍ່ເຮັດບໍ?
+01:19:56,250 --> 01:19:57,626
+Damaskinos...
+ດາເມສຄິນອສ...
 
 540
-00:37:48,700 --> 00:37:51,850
-[DAMASKINOS]
-For God's sake, Nyssa!  Let us out of here!
-ສໍາລັບພຣະເຈົ້າ, ນີສຊາ! ໃຫ້ພວກເຮົາອອກຈາກບ່ອນນີ້!
+01:20:06,802 --> 01:20:08,512
+Nyssa.
+ນີຊາ.
 
 541
-00:37:52,350 --> 00:37:58,350
-[NOMAK]
-bursts into the lobby, ROARING.  If anything, he is even more animalistic now, his features having become grossly distorted.
-ມັນລະເບີດເຂົ້າໄປໃນໂລບີ, ການຮ້ອງໄຫ້. ຖ້າມີຫຍັງເລີຍ,
-ລາວເປັນສັດຫຼາຍຂຶ້ນດຽວນີ້, ຄຸນລັກສະນະຂອງລາວໄດ້ຈົບແນ່ຢ່າງຮ້າຍແຮງ.
+01:21:36,392 --> 01:21:38,602
+You've done a great job.
+ເຈົ້າໄດ້ເຮັດວຽກທີ່ດີເລີດ.
 
 542
-00:37:58,850 --> 00:38:02,350
-[NOMAK]
-Why are you frightened, father?  The prodigal son has returned.
-ເຈົ້າຢ້ານຫຍັງ, ພໍ່? ລູກຊາຍທີ່ເສຍຫາຍໄດ້ກັບມາແລ້ວ.
+01:21:40,187 --> 01:21:42,648
+Not that great, I'd say.
+ຂ້ອຍຈະເວົ້າວ່າ ບໍ່ດີຫຼາຍ.
 
 543
-00:38:02,850 --> 00:38:04,850
-[BLADE]
-Get out of here!
-ອອກຈາກບ່ອນນີ້!
+01:22:05,129 --> 01:22:09,299
+What is it, my daughter?
+ມັນເປັນຫຍັງ, ລູກສາວຂອງຂ້ອຍ?
 
 544
-00:38:05,350 --> 00:38:07,350
-[BLADE]
-Nyssa!!!
-ນີສຊາ!!!
+01:22:58,557 --> 01:23:02,603
+They took them. All our weapons.
+Even your sword.
+ພວກເຂົາເອົາພວກມັນໄປ.ອາວຸດທັງໝົດ
+ຂອງພວກເຮົາ.ເຖິງແມ່ນວ່າກະທູ້ຂອງທ່ານ.
 
 545
-00:38:07,850 --> 00:38:13,850
-[ON BLADE]
-as he leaps from the mezzanine level, sword extended, like Beowulf diving to slay Grendel.  He PLUNGES the sword deep into Nomak's upper torso.  Then DRIVES it in even further --
-ໃນຂະນະທີ່ລາວໂດດຈາກລະດັບ mezzanine, ກະທູ້ຍືດຍາວ, ຄືກັບ Beowulf ຖິ້ມເພື່ອຂ້າແກຣນເດລ.
-ລາວຖິ້ມກະທູ້ຢ່າງເລິກເຊິ່ງໃນຮ່າງກາຍເທິງຂອງໂນມາກ. ຫຼັງຈາກນັ້ນຂັບມັນເຂົ້າໄປໃນອີກຕໍ່ໄປ -
+01:23:02,769 --> 01:23:05,105
+Somebody's been keeping
+tabs on us from inside.
+ບາງຄົນ ກໍາ ລັງຕິດຕາມພວກເຮົາຈາກພາຍໃນ.
 
 546
-00:38:14,350 --> 00:38:20,350
-[ON NOMAK]
-stumbling backwards into the wall.  The sword has sunk so deep that the tip is actually protruding out his back, SCRAPING a gash across the wall as Nomak slides towards the floor.
-ການກະຕຸ້ນກັບຄືນໄປບ່ອນເຂົ້າໄປໃນກໍາແພງ. ກະຕ່າໄດ້ຕົກລົງຢ່າງເລິກເຊິ່ງທີ່ຈຸດຂອງມັນ ກໍາ
-ລັງໂດດອອກຈາກຫຼັງຂອງລາວແທ້ໆ, ກໍາ ລັງຂັດຂວາງຮອຍຂ້າມ ກໍາແພງໃນຂະນະທີ່ໂນມາກລອຍໄປສູ່ພື້ນ.
+01:23:05,272 --> 01:23:06,440
+Where are we?
+ພວກເຮົາຢູ່ໃສ?
 
 547
-00:38:20,850 --> 00:38:26,850
-[NOMAK]
-lowers his head towards Blade's face.  The scar/seam in Nomak's chin splits open and Nomak's lower jaw flares apart, distending and widening to reveal the awful, glistening hell maw -- the hollow inner fangs and striated cartilage which are closing about Blade's face.  Blade twists his head violently to the right, then glimpses the broken tip of his sword resting a few feet away.  He reaches for it in desperation, plunging it up into Nomak's chest.  Nomak HOWLS. Because the hilt has been broken off, Blade is forced to grip the cutting edge of the weapon with his bare hands.  It slices into his fingers --
-ຫຼຸດຫົວລົງໄປສູ່ໃບຫນ້າຂອງບເລດ. ກະດູກ / ເຊມໃນຈານຂອງໂນມາກແຕກແຍກແລະກະດູກຕີນລຸ່ມຂອງໂນມາກແສງສະຫວ່າງແຍກຕ່າງຫາກ, ຂະຫຍາຍແລະຂະຫຍາຍອອກເພື່ອເປີດເຜີຍກະຕູ້ອານາໄມທີ່ຮ້າຍແຮງ, ທີ່ສົດໃສ - ແຂ້ວພາຍໃນທີ່ເປື້ອນແລະກະທູ້ເສັ້ນແອວທີ່ປິດຢູ່ອ້ອມຂ້າງໃບ ຫນ້າ ຂອງ Blade. ກະຕ່າຫັນຫົວຂອງລາວຢ່າງຮຸນແຮງໄປທາງຂວາ, ຫຼັງຈາກນັ້ນເຫັນຈຸດແຕກ
+01:23:06,607 --> 01:23:09,193
+Some kind of chamber deep in their lair.
+ຫ້ອງບາງຢ່າງເລິກໃນຮົ້ວຂອງພວກເຂົາ.
 
 548
-00:38:27,350 --> 00:38:29,350
-[NOMAK]
-Blood brother.
-ອ້າຍເລືອດ.
+01:23:10,110 --> 01:23:14,698
+They smashed up everything,
+the workshop, all of it.
+ພວກເຂົາໄດ້ທໍາລາຍທຸກຢ່າງ
+,ຫ້ອງປະຊຸມ,ທັງໝົດ.
 
 549
-00:38:29,850 --> 00:38:31,850
-[NYSSA]
-How does it look?
-ມັນເບິ່ງຄືແນວໃດ?
+01:23:14,865 --> 01:23:18,368
+They've been lying to us from day one.
+ພວກເຂົາໄດ້ຕົວະພວກເຮົາ
+ຕັ້ງແຕ່ມື້ທໍາອິດ.
 
 550
-00:38:32,350 --> 00:38:34,350
-[BLADE]
-Not good.
-ບໍ່ດີ.
+01:23:18,535 --> 01:23:21,205
+The Reaper strain didn't evolve.
+ສາຍພັນ Reaper ບໍ່ໄດ້ພັດທະນາ.
 
 551
-00:38:34,850 --> 00:38:39,750
-[NYSSA]
-It won't be long now.  I can already feel it burning inside me --
-ມັນຈະບໍ່ຍາວນານດຽວນີ້. ຂ້ອຍຮູ້ສຶກວ່າມັນໄຫມ້ພາຍໃນຂ້ອຍແລ້ວ -
+01:23:21,371 --> 01:23:22,789
+It was designed.
+ມັນຖືກອອກແບບ.
 
 552
-00:38:40,250 --> 00:38:46,250
-[NYSSA]
-I don't want to become what Nomak was --  I can't.  I want to die while I'm still vampire.
-ຂ້ອຍບໍ່ຢາກກາຍເປັນສິ່ງທີ່ໂນມາກເປັນ - ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້
-. ຂ້ອຍຢາກຕາຍໃນຂະນະທີ່ຂ້ອຍຍັງເປັນແວມປີ.
+01:23:24,166 --> 01:23:26,960
+- What?
+- Designed. Nomak told me.
+- ຫຍັງ?
+- ຖືກອອກແບບ. ໂນມາກບອກຂ້ອຍ.
 
 553
-00:38:46,750 --> 00:38:49,200
-[BLADE]
-What do you want me to do?
-ເຈົ້າຢາກໃຫ້ຂ້ອຍເຮັດຫຍັງ?
+01:23:27,127 --> 01:23:30,380
+I saw him back in the sewers.
+He let me live.
+ຂ້ອຍເຫັນລາວກັບຄືນໄປບ່ອນໃນລະ
+ບາຍນ້ໍາ.ລາວປ່ອຍຂ້ອຍຢູ່ອາໄສ.
 
 554
-00:38:49,700 --> 00:38:52,150
-[NYSSA]
-I want to see the sun rise.
-ຂ້ອຍຢາກເຫັນແສງຕາເວັນຂຶ້ນ.
+01:23:30,547 --> 01:23:32,132
+Did he?
+ລາວເຮັດບໍ?
 
 555
-00:38:52,650 --> 00:38:58,650
-[ON BLADE]
-his face a mask of sad resignation.  He lifts Nyssa into his arms.  She closes her eyes, resting her head on his chest.
-ໃບຫນ້າຂອງລາວເປັນ ຫນ້າ ກາກຂອງການລາອອກຈາກຄວາມໂຊກຮ້າຍ.
-ລາວຍົກນິດຊາຂຶ້ນໃນແຂນຂອງລາວ. ນາງປິດຕາຂອງນາງ, ພັກຜ່ອນຫົວຂອງນາງໃສ່ທ້ອງຂອງລາວ.
+01:23:32,549 --> 01:23:34,801
+How generous of him.
+ລາວເປັນຄົນໃຈບຸນຫຼາຍປານໃດ.
 
 556
-00:38:59,150 --> 00:39:05,150
-[THE HORIZON]
-where the faintest glimmer of pre-dawn light brightens the cloud-swept sky.  It's peaceful.  We can hear the SURF crashing on the shore below.
-ບ່ອນທີ່ແສງສະຫວ່າງທີ່ອ່ອນແອທີ່ສຸດກ່ອນຕອນເຊົ້າເຮັດໃຫ້ສະຫວັນທີ່ປົກຫຸ້ມດ້ວຍເມກສົດໃສ
-. ມັນສັນຕິພາບ. ພວກເຮົາສາມາດຍິນສຽງ Surf ຕົກລົງຢູ່ແຄມຝັ່ງທາງລຸ່ມ.
+01:23:35,844 --> 01:23:40,098
+I brought you here to see
+the fruits of our labor.
+ຂ້ອຍພາເຈົ້າມາບ່ອນນີ້ເພື່ອເບິ່ງ
+ຜົນຂອງຄວາມພະຍາຍາມຂອງພວກເຮົາ.
 
 557
-00:39:05,650 --> 00:39:08,100
-[NYSSA]
-Each day is a little life.  Remember?
-ແຕ່ລະມື້ແມ່ນຊີວິດນ້ອຍໆ. ຈື່ບໍ?
+01:23:42,643 --> 01:23:49,233
+For years I've struggled to rid our kind
+of any hereditary weaknesses.
+ເປັນເວລາຫລາຍປີທີ່ຂ້ອຍໄດ້ຕໍ່ສູ້ເພື່ອກໍາຈັດ
+ຄວາມອ່ອນແອທາງເຊື້ອຊາດໃດໆຈາກຄົນຂອງພວກເຮົາ.
 
 558
-00:39:08,600 --> 00:39:14,600
-[WE RISE UP]
-isolating Blade alone on the windswept bluff.  After a moment, Whistler moves to Blade's side.  He rests a hand on Blade's shoulder, but doesn't say a word.  We keep moving up and up until the two of them are just a pair of tiny figures on the rolling coastline.  Then we --
-ການແຍກແບລດ໌ຄົນດຽວຢູ່ເທິງແບນແບວແບຣນ. ຫຼັງຈາກຊົ່ວຄາວຫນຶ່ງ, ວີສລເຕີຍ້າຍໄປຂ້າງແບຼນ. ລາວພັກເຊົາມືໃສ່ກະຕ່າຂອງແບຮນ, ແຕ່ບໍ່ເວົ້າຄໍາໃດໆ. ພວກເຮົາສືບຕໍ່ເຄື່ອນຍ້າຍຂຶ້ນແລະຂຶ້ນຈົນກວ່າທັງສອງແມ່ນພຽງແຕ່ສອງຕົວເລກນ້ອຍໆໃນສາຍແຄມຝັ່ງທະເລທີ່ລໍາບາກ. ຫຼັງຈາກນັ້ນພວກເຮົາ -
+01:23:49,399 --> 01:23:56,323
+And so recombining DNA was
+simply the next logical step.
+ແລະດັ່ງນັ້ນການປະສົມປະສານ DNA ແມ່ນ
+ພຽງແຕ່ຂັ້ນຕອນທີ່ສົມເຫດສົມຜົນຕໍ່ໄປ.
 
 559
-00:39:15,100 --> 00:39:21,100
-[A SERIES OF CLOSEUPS]
-Images of a weapon being forged, all filtered through shimmering convection waves of intense heat.  We SEE a HAMMER CLANGING DOWN.  The FIRES of a ROARING furnace.  SPARKS showering up from titanium slowly being given shape.  Molten silver.  Acid etching.  And then we PULL BACK to reveal --
-ຮູບພາບຂອງອາວຸດທີ່ຖືກປອມແປງ, ທັງ ຫມົດ ຖືກກັ່ນຕອງຜ່ານຄື້ນຟອງການສັ່ນສະເທືອນຂອງຄວາມຮ້ອນທີ່ຮຸນແຮງ. ພວກເຮົາເຫັນແມມເຕີທີ່ຕິດຢູ່ລຸ່ມ.
-ໄຟຂອງເຕົາອົບທີ່ຮ້ອງໄຫ້. ແສງສະຫວ່າງທີ່ຖ້ວມຈາກໄຕຕານຽມຖືກໃຫ້ຮູບຮ່າງຊ້າໆ. ເງິນລະລາຍ. ການຕັດອາຊິດ. ແລະຫຼັງຈາກນັ້ນພວກເຮົາດຶງກັບຄືນໄປບ່ອນເພື່ອເປີດເຜີຍ -
+01:23:58,742 --> 01:24:02,454
+Nomak was the first. A failure.
+ໂນມາກແມ່ນຄົນ ທໍາ ອິດ. ຄວາມລົ້ມເຫຼວ.
 
 560
-00:39:21,600 --> 00:39:27,600
-[A NEW SWORD]
-perfect.  Lethal.  Wrought from titanium, plated in sliver. As Blade inspects the sword, we hear his earlier words again:
-ສົມບູນແບບ. ອັນຕະລາຍ. ຖືກເຮັດຈາກໄຕຕານຽມ, ຖືກໃສ່ໃນກະດານ.
-ໃນຂະນະທີ່ບເລດກວດສອບກະທູ້, ພວກເຮົາໄດ້ຍິນຄໍາເວົ້າກ່ອນຂອງລາວອີກຄັ້ງ:
+01:24:02,621 --> 01:24:07,751
+But in time, there will be
+a new pure race...
+ແຕ່ໃນເວລາ,ຈະມີການ
+ແຂ່ງຂັນທີ່ບໍລິສຸດໃໝ່...
 
 561
-00:39:28,100 --> 00:39:33,000
-[BLADE]
-I am a hunter.  A weapon.  It's what I do.  It's in my blood...
-ຂ້ອຍເປັນນັກລ່າສັດ. ເປັນອາວຸດ.
-ມັນແມ່ນສິ່ງທີ່ຂ້ອຍເຮັດ. ມັນຢູ່ໃນເລືອດຂອງຂ້ອຍ...
+01:24:07,918 --> 01:24:09,962
+...begotten from my own flesh...
+... ເກີດຈາກຊີ້ນຂອງຂ້ອຍເອງ...
 
 562
-00:39:33,500 --> 00:39:37,700
-[RUSH]
--- yelling for your tender touch, you can never get enough --
-- ຮ້ອງໄຫ້ຂໍຄວາມສໍາຜັດທີ່ອ່ອນແອຂອງທ່ານ
-, ເຈົ້າບໍ່ສາມາດໄດ້ຮັບພຽງພໍໄດ້ເລີຍ -
+01:24:10,587 --> 01:24:13,131
+...immune to silver...
+... ຕໍ່ຕ້ານເງິນ...
 
 563
-00:39:38,200 --> 00:39:40,650
-[RUSH]
--- cover me with your love --
-- ປົກຄຸມຂ້ອຍດ້ວຍຄວາມຮັກຂອງທ່ານ -
+01:24:13,590 --> 01:24:16,093
+...soon even sunlight.
+... ໄວໆນີ້ເຖິງແມ່ນວ່າແສງແດດ.
 
 564
-00:39:41,150 --> 00:39:44,650
-[RUSH]
-Voulez-vous coucher avec moi, ce soir! Voulez-vous coucher AVEC MOI!!!
-ເຈົ້າຢາກນອນກັບຂ້ອຍໃນຄືນນີ້ບໍ! ເຈົ້າຕ້ອງການນອນຢູ່ກັບຂ້ອຍບໍ!!!
+01:24:16,260 --> 01:24:19,721
+I got a question for you,
+you lying son of a bitch.
+ຂ້ອຍມີຄໍາຖາມສໍາລັບ
+ເຈົ້າ,ເຈົ້າໂຊກຮ້າຍຕົວະ.
 
 565
-00:39:45,150 --> 00:39:47,600
-[BLADE]
-Who flashes an evil smile at us.
-ຜູ້ທີ່ເຮັດໃຫ້ຄວາມມ່ວນຊື່ນທີ່ຮ້າຍແຮງຕໍ່ພວກເຮົາ.
+01:24:19,888 --> 01:24:23,600
+You want to explain how Nomak
+got ahold of this ring?
+ເຈົ້າຢາກອະທິບາຍວ່າ
+ໂນມາກໄດ້ວົງນີ້ແນວໃດ?
 
 566
-00:39:48,100 --> 00:39:50,550
-[BLADE]
-What?  You think I forgot about you?
-ຫຍັງ? ເຈົ້າຄິດວ່າຂ້ອຍລືມເຈົ້າບໍ?
+01:24:33,026 --> 01:24:36,238
+I would have thought that was
+obvious at this point.
+ຂ້ອຍຄິດວ່າມັນຈະແຈ້ງໃນຈຸດນີ້.
+
+567
+01:24:36,613 --> 01:24:41,243
+I gave it to him, of course.
+A gift from father to son.
+ຂ້ອຍໄດ້ໃຫ້ມັນໃຫ້ລາວ,ແນ່ນອນ
+.ຂອງຂວັນຈາກພໍ່ໃຫ້ລູກຊາຍ.
+
+568
+01:24:53,297 --> 01:24:55,465
+I thought he'd never leave.
+ຂ້ອຍຄິດວ່າລາວຈະບໍ່ອອກໄປເລີຍ.
+
+569
+01:25:00,804 --> 01:25:04,808
+The wolf has lain with the sheep
+long enough.
+ໝູໄດ້ນອນກັບແກະດານດົນພໍສົມຄວນ.
+
+570
+01:25:04,975 --> 01:25:09,646
+Reinhardt, you can kiss your ass goodbye.
+ຣີນຮາດຕ໌, ເຈົ້າສາມາດຈູບບາກຂອງທ່ານໄດ້.
+
+571
+01:25:15,277 --> 01:25:17,821
+Oh, huh. I'm sorry, man.
+ໂອ້, ຮາ. ຂ້ອຍຂໍໂທດ, ຜູ້ຊາຍ.
+
+572
+01:25:17,988 --> 01:25:22,034
+B, you're wasting your time, man.
+The bomb's a dud.
+ບີ,ເຈົ້າກໍາລັງເສຍເວລາຂອງທ່ານ
+,ຜູ້ຊາຍ.ລະເບີດແມ່ນໂຊກຮ້າຍ.
+
+573
+01:25:22,200 --> 01:25:24,369
+It was never supposed to explode.
+ມັນບໍ່ຄວນລະເບີດເລີຍ.
+
+574
+01:25:24,536 --> 01:25:27,789
+It was just supposed
+to make you feel in control.
+ມັນພຽງແຕ່ຄວນເຮັດໃຫ້
+ເຈົ້າຮູ້ສຶກວ່າຄວບຄຸມ.
+
+575
+01:25:27,956 --> 01:25:31,877
+You thought you had me
+on a short leash, didn't you, jefe?
+ເຈົ້າຄິດວ່າເຈົ້າຈັບຂ້ອຍຢູ່ເທິງ
+ສາຍແອວສັ້ນ,ແມ່ນບໍ,ຫົວໜ້າ?
+
+576
+01:25:39,259 --> 01:25:40,302
+Much better.
+ດີກວ່າຫຼາຍ.
+
+577
+01:25:43,847 --> 01:25:44,973
+See this?
+ເຈົ້າເຫັນສິ່ງນີ້ບໍ?
+
+578
+01:25:46,516 --> 01:25:48,185
+I'm one of Damaskinos' familiars.
+ຂ້ອຍເປັນຄົນໜຶ່ງໃນຄອບຄົວຂອງດາເມສຄິນໂຊ.
+
+579
+01:25:49,311 --> 01:25:51,897
+They needed my help to bring
+you here to control Nomak.
+ພວກເຂົາຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງຂ້ອຍ
+ເພື່ອພາເຈົ້າມາບ່ອນນີ້ເພື່ອຄວບຄຸມໂນມາກ.
+
+580
+01:25:52,064 --> 01:25:54,232
+The old fuck, he was always just bait.
+ຄົນໂຊກຮ້າຍເກົ່າ,ລາວພຽງແຕ່
+ເປັນແຊບເທົ່ານັ້ນຢູ່ສະເໝີ.
+
+581
+01:25:54,399 --> 01:25:58,195
+I mean, look at him.
+He's your only real weakness, man.
+ຂ້ອຍໝາຍຄວາມວ່າ,ເບິ່ງລາວ.ລາວເປັນ
+ຄວາມອ່ອນແອທີ່ແທ້ຈິງຂອງທ່ານດຽວ,ຜູ້ຊາຍ.
+
+582
+01:25:58,362 --> 01:26:01,782
+You may be fast, you may be strong
+and all that other bullshit...
+ເຈົ້າອາດຈະໄວ,ເຈົ້າອາດຈະແຂງແຮງ
+ແລະຄວາມໂຊກຮ້າຍອື່ນໆທັງໝົດນັ້ນ...
+
+583
+01:26:01,948 --> 01:26:04,743
+...but in the end, B,
+you're just too human.
+ແຕ່ໃນທີ່ສຸດ, ບີ, ເຈົ້າເປັນມະນຸດເກີນໄປ.
+
+584
+01:26:06,995 --> 01:26:08,538
+Well, you little shit.
+ດີ, ເຈົ້າໂຊກຮ້າຍນ້ອຍໆ.
+
+585
+01:26:08,705 --> 01:26:09,748
+- Heh.
+- Unh.
+- ເຮ້.
+- ໂອ້.
+
+586
+01:26:12,876 --> 01:26:15,796
+You think they scoped out
+my security system?
+ເຈົ້າຄິດວ່າພວກເຂົາໄດ້ກວດເບິ່ງ
+ລະບົບຄວາມປອດໄພຂອງຂ້ອຍບໍ?
+
+587
+01:26:15,962 --> 01:26:18,799
+I let them in, asshole!
+ຂ້ອຍປ່ອຍໃຫ້ພວກເຂົາເຂົ້າມາ, ຄົນໂຊກຮ້າຍ!
+
+588
+01:26:18,965 --> 01:26:21,218
+I practically handed them the keys.
+ຂ້ອຍເກືອບໄດ້ມອບປຸ່ມໃຫ້ພວກເຂົາ.
+
+589
+01:26:21,385 --> 01:26:22,761
+You heard Cue Ball, right?
+ເຈົ້າໄດ້ຍິນ Cue Ball, ແມ່ນບໍ?
+
+590
+01:26:22,928 --> 01:26:25,555
+Pretty soon they're all
+gonna be daywalkers, man.
+ໄວໆນີ້ພວກເຂົາທຸກຄົນຈະເປັນ
+ຄົນຍ່າງກາງເວັນ,ຜູ້ຊາຍ.
+
+591
+01:26:25,722 --> 01:26:29,017
+When that happens,
+I'd rather be a pet than cattle.
+ເມື່ອມັນເກີດຂຶ້ນ,ຂ້ອຍ
+ມັກຈະເປັນສັດລ້ຽງກ່ວາງົວ.
+
+592
+01:26:29,184 --> 01:26:30,977
+You got me, B?
+ເຈົ້າຈັບຂ້ອຍແລ້ວບໍ, ບີ?
+
+593
+01:26:33,063 --> 01:26:36,983
+- What do you think about that, man?
+- Two things.
+- ເຈົ້າຄິດແນວໃດກ່ຽວກັບເລື່ອງນັ້ນ, ຜູ້ຊາຍ?
+- ສອງຢ່າງ.
+
+594
+01:26:37,150 --> 01:26:42,155
+One, I've been onto you
+since they turned you.
+ໜຶ່ງ,ຂ້ອຍກໍາລັງຕິດຕາມເຈົ້າ
+ຕັ້ງແຕ່ພວກເຂົາປ່ຽນເຈົ້າ.
+
+595
+01:26:43,365 --> 01:26:44,783
+And two...
+ແລະສອງ...
+
+596
+01:26:46,493 --> 01:26:48,078
+...it's not a dud.
+... ມັນບໍ່ແມ່ນຄວາມຜິດພາດ.
+
+597
+01:26:48,745 --> 01:26:50,038
+Oh, great.
+ໂອ້ ດີເລີດ.
+
+598
+01:26:58,755 --> 01:27:00,674
+I was just starting to like him.
+ຂ້ອຍຫາກໍ່ເລີ່ມມັກລາວ.
+
+599
+01:27:00,841 --> 01:27:02,467
+Take him down!
+ເອົາລາວລົງ!
+
+600
+01:27:35,959 --> 01:27:39,546
+We're going to harvest your blood,
+every drop of it.
+ພວກເຮົາຈະເກັບເລືອດ
+ຂອງທ່ານ,ທຸກເມັດຂອງມັນ.
+
+601
+01:27:39,713 --> 01:27:43,633
+Then bone marrow, organs, everything.
+ຫຼັງຈາກນັ້ນເສັ້ນກະດູກ
+,ອະໄວຍະວະ,ທຸກຢ່າງ.
+
+602
+01:27:43,800 --> 01:27:48,180
+We'll find the missing key
+to creating daywalkers.
+ພວກເຮົາຈະຊອກຫາປຸ່ມທີ່ຂາດຫາ
+ຍໄປໃນການສ້າງຄົນຍ່າງກາງເວັນ.
+
+603
+01:27:55,312 --> 01:27:57,147
+Now, this might hurt a bit.
+ດຽວນີ້, ນີ້ແມ່ນອາດຈະເຈັບປວດເລັກນ້ອຍ.
+
+604
+01:28:01,651 --> 01:28:03,528
+Nice.
+ດີເລີດ.
+
+605
+01:28:04,404 --> 01:28:06,198
+I wonder...
+ຂ້ອຍຢາກຮູ້ວ່າ...
+
+606
+01:28:07,115 --> 01:28:09,868
+...how many vampires
+he's killed with this thing.
+ລາວໄດ້ຂ້າແວມປີຫຼາຍປານໃດດ້ວຍສິ່ງນີ້.
+
+607
+01:28:10,035 --> 01:28:11,745
+Not nearly enough, Fritz.
+ບໍ່ເກືອບພຽງພໍ, ຟຣີສ.
+
+608
+01:28:13,538 --> 01:28:14,956
+Keep talking, honky-tonk.
+ສືບຕໍ່ເວົ້າ, honky-tonk.
+
+609
+01:28:15,123 --> 01:28:18,960
+Just makes my sending you
+to the next world all the sweeter.
+ພຽງແຕ່ເຮັດໃຫ້ການສົ່ງເຈົ້າ
+ໄປສູ່ໂລກຕໍ່ໄປທີ່ຫວານກວ່າເກົ່າ.
+
+610
+01:28:19,461 --> 01:28:21,338
+Been there, done that.
+ຂ້ອຍເຄີຍຢູ່ບ່ອນນັ້ນ, ເຮັດສິ່ງນັ້ນ.
+
+611
+01:28:21,505 --> 01:28:25,759
+Do your worst, chickenshit.
+We'll settle up after.
+ເຮັດສິ່ງທີ່ຮ້າຍແຮງທີ່ສຸດຂອງທ່ານ,ໄກ່
+ໂຊກຮ້າຍ.ພວກເຮົາຈະແກ້ໄຂຫຼັງຈາກນັ້ນ.
+
+612
+01:28:47,823 --> 01:28:49,825
+What else should I find out?
+ຂ້ອຍຄວນຮູ້ຫຍັງອີກ?
+
+613
+01:28:50,784 --> 01:28:52,577
+I trusted you...
+ຂ້ອຍເຊື່ອເຈົ້າ...
+
+614
+01:28:53,203 --> 01:28:55,121
+...with my men...
+... ກັບຜູ້ຊາຍຂອງຂ້ອຍ...
+
+615
+01:28:55,622 --> 01:28:57,541
+...with my will...
+... ດ້ວຍຄວາມຕ້ອງການຂອງຂ້ອຍ...
+
+616
+01:28:58,041 --> 01:29:00,001
+...with my life.
+... ດ້ວຍຊີວິດຂອງຂ້ອຍ.
+
+617
+01:29:01,211 --> 01:29:04,256
+You, you sent us out there.
+ເຈົ້າ, ເຈົ້າໄດ້ສົ່ງພວກເຮົາໄປບ່ອນນັ້ນ.
+
+618
+01:29:06,800 --> 01:29:09,386
+You sent me to die.
+ເຈົ້າໄດ້ສົ່ງຂ້ອຍໄປຕາຍ.
+
+619
+01:29:11,930 --> 01:29:16,768
+Our enemy saved my life twice,
+and you have used us...
+ສັດຕູຂອງພວກເຮົາໄດ້ຊ່ວຍຊີວິດຂ້ອຍ
+ສອງຄັ້ງ,ແລະເຈົ້າໄດ້ໃຊ້ພວກເຮົາ...
+
+620
+01:29:16,935 --> 01:29:18,687
+...your own children.
+... ລູກຂອງເຈົ້າເອງ.
+
+621
+01:29:19,980 --> 01:29:22,440
+Make no mistake, Nyssa.
+ຢ່າເຮັດຄວາມຜິດພາດ, ນີຊາ.
+
+622
+01:29:22,607 --> 01:29:25,235
+Those blood ties mean nothing to me...
+ສາຍພົວພັນເລືອດເຫຼົ່ານັ້ນ
+ບໍ່ມີຄວາມໝາຍຫຍັງເລີຍຕໍ່ຂ້ອຍ...
+
+623
+01:29:25,402 --> 01:29:27,821
+...when measured against
+the ascendancy of our race.
+ເມື່ອວັດແທກກັບການຂຶ້ນສູງ
+ຂອງເຊື້ອຊາດຂອງພວກເຮົາ.
+
+624
+01:29:30,574 --> 01:29:35,453
+Who do you think God
+really favors in the web?
+ເຈົ້າຄິດວ່າພຣະເຈົ້າ
+ມັກໃຜແທ້ໆໃນເວັບໄຊທ໌?
+
+625
+01:29:36,997 --> 01:29:39,833
+The spider or the fly?
+ແມງໄມ້ຫຼືຍຸງ?
+
+626
+01:29:45,005 --> 01:29:48,258
+- Nomak.
+- Hmm?
+- ໂນມາກ
+- ຮັມມ໌?
+
+627
+01:29:52,262 --> 01:29:53,847
+What about him?
+ລາວແນວໃດ?
+
+628
+01:29:54,806 --> 01:29:57,434
+He wants revenge...
+ລາວຢາກແກ້ແຄ້ນ...
+
+629
+01:29:57,601 --> 01:30:03,356
+...on the people who created him.
+... ກ່ຽວກັບຄົນທີ່ສ້າງລາວ.
+
+630
+01:30:03,523 --> 01:30:05,567
+You may be right.
+ເຈົ້າອາດຈະຖືກຕ້ອງ.
+
+631
+01:30:05,734 --> 01:30:10,113
+But fortunately for us,
+he doesn't know this location.
+ແຕ່ໂຊກດີສໍາລັບພວກເຮົາ
+,ລາວບໍ່ຮູ້ສະຖານທີ່ນີ້.
+
+632
+01:30:12,449 --> 01:30:14,534
+Now...
+ດຽວນີ້...
+
+633
+01:30:15,911 --> 01:30:17,162
+...he does.
+ລາວເຮັດ.
+
+634
+01:30:46,441 --> 01:30:47,692
+What the fuck?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+635
+01:31:42,455 --> 01:31:46,126
+Come on, kid. Don't you even
+think about dying on me.
+ມາແລ້ວ,ເດັກນ້ອຍ.ຢ່າຄິດເຖິງ
+ການຕາຍຢູ່ເທິງຂ້ອຍເລີຍ.
+
+636
+01:31:47,627 --> 01:31:51,631
+You didn't give up on me,
+I won't give up on you.
+ເຈົ້າບໍ່ໄດ້ປະລະຂ້ອຍ
+,ຂ້ອຍຈະບໍ່ປະລະເຈົ້າ.
+
+637
+01:31:51,798 --> 01:31:54,718
+Come on, Blade.
+ມາແລ້ວ, ບເລດ.
+
+638
+01:32:02,600 --> 01:32:03,935
+Blood.
+ເລືອດ.
+
+639
+01:32:05,729 --> 01:32:06,980
+Yeah.
+ແມ່ນແລ້ວ.
+
+640
+01:32:07,772 --> 01:32:09,065
+Blood.
+ເລືອດ.
+
+641
+01:32:44,976 --> 01:32:46,561
+Father!
+ພໍ່!
+
+642
+01:32:46,936 --> 01:32:49,439
+He'll never enter here.
+ລາວຈະບໍ່ເຂົ້າມາບ່ອນນີ້ເລີຍ.
+
+643
+01:32:55,904 --> 01:32:57,447
+Father!
+ພໍ່!
+
+644
+01:33:23,431 --> 01:33:25,475
+Father!
+ພໍ່!
+
+645
+01:33:53,503 --> 01:33:54,838
+Go on, kid.
+ໄປ, ເດັກນ້ອຍ.
+
+646
+01:33:58,341 --> 01:33:59,676
+Go!
+ໄປ!
+
+647
+01:36:17,772 --> 01:36:19,274
+Go! Get him!
+ໄປ! ເອົາລາວ!
+
+648
+01:36:32,662 --> 01:36:33,913
+Get in there!
+ເຂົ້າໄປບ່ອນນັ້ນ!
+
+649
+01:36:49,012 --> 01:36:50,346
+Hmm.
+ອືມ.
+
+650
+01:36:51,264 --> 01:36:56,269
+Well, like my daddy said right
+before he killed my mom:
+ດີ,ດັ່ງທີ່ພໍ່ຂອງຂ້ອຍເວົ້າ
+ກ່ອນທີ່ລາວຈະຂ້າແມ່ຂອງຂ້ອຍ:
+
+651
+01:36:56,436 --> 01:36:58,980
+"Want anything done right,
+you gotta do it yourself."
+ເຈົ້າຢາກເຮັດຫຍັງຢ່າງຖືກຕ້ອງ
+,ເຈົ້າຕ້ອງເຮັດມັນເອງ.
+
+652
+01:37:03,276 --> 01:37:04,736
+He also said...
+ລາວຍັງເວົ້າວ່າ...
+
+653
+01:37:21,085 --> 01:37:22,795
+Can you blush?
+ເຈົ້າສາມາດສົດໃສໄດ້ບໍ?
+
+654
+01:37:37,060 --> 01:37:38,269
+Hey, kid.
+ເຮ້, ເດັກນ້ອຍ.
+
+655
+01:38:18,601 --> 01:38:21,354
+I reset the security code.
+ຂ້ອຍໄດ້ຕັ້ງລະຫັດຄວາມປອດໄພຄືນ.
+
+656
+01:38:22,355 --> 01:38:26,818
+- We're locked in.
+- Are you insane?!
+- ພວກເຮົາຖືກລັອກໄວ້ແລ້ວ.
+- ເຈົ້າໂຊກຮ້າຍບໍ?
+
+657
+01:38:27,610 --> 01:38:30,613
+- He'll kill us both.
+- Yes.
+- ລາວຈະຂ້າພວກເຮົາທັງສອງ.
+- ແມ່ນແລ້ວ.
+
+658
+01:38:32,532 --> 01:38:36,327
+Isn't it sad that you die
+not by the hand of your enemy...
+ມັນບໍ່ໂຊກຮ້າຍບໍວ່າເຈົ້າຕາຍ
+ບໍ່ແມ່ນໂດຍມືຂອງສັດຕູຂອງທ່ານ...
+
+659
+01:38:36,994 --> 01:38:38,913
+...but by that of your own children?
+ແຕ່ໂດຍລູກຂອງເຈົ້າເອງບໍ?
+
+660
+01:38:48,965 --> 01:38:50,508
+Father.
+ພໍ່.
+
+661
+01:40:24,894 --> 01:40:26,646
+Nyssa.
+ນີຊາ.
+
+662
+01:41:16,612 --> 01:41:17,905
+Nomak!
+ໂນມາກ!
+
+663
+01:41:22,535 --> 01:41:25,037
+Blade, it could end right here.
+ບເລດ, ມັນອາດຈະສິ້ນສຸດລົງຢູ່ນີ້.
+
+664
+01:41:25,997 --> 01:41:28,207
+What do you think, huh?
+ເຈົ້າຄິດແນວໃດ, ແມ່ນບໍ?
+
+665
+01:44:24,008 --> 01:44:28,304
+After all, it looks like I've
+finished my father's job.
+ຫຼັງຈາກນັ້ນ,ມັນເບິ່ງຄືວ່າ
+ຂ້ອຍໄດ້ເຮັດວຽກຂອງພໍ່ແລ້ວ.
+
+666
+01:45:28,239 --> 01:45:31,617
+It's strange.
+ມັນແປກໃຈ.
+
+667
+01:45:33,285 --> 01:45:34,495
+It hurts...
+ມັນເຈັບປວດ...
+
+668
+01:45:34,995 --> 01:45:37,289
+It hurts no more.
+ມັນບໍ່ເຈັບປວດອີກຕໍ່ໄປ.
+
+669
+01:46:36,640 --> 01:46:38,851
+It won't be long.
+ມັນຈະບໍ່ຍາວນານ.
+
+670
+01:46:39,935 --> 01:46:43,439
+I can already feel it
+burning inside of me.
+ຂ້ອຍຮູ້ສຶກວ່າມັນເຜົາໄໝ້ພາຍໃນຂ້ອຍແລ້ວ.
+
+671
+01:46:47,026 --> 01:46:50,529
+I want to die while I'm still a vampire.
+ຂ້ອຍຢາກຕາຍໃນຂະນະທີ່ຂ້ອຍຍັງເປັນແວມປີ.
+
+672
+01:47:03,709 --> 01:47:06,128
+I want to see the sun.
+ຂ້ອຍຢາກເຫັນແສງຕາເວັນ.
+
+673
+01:48:40,764 --> 01:48:44,351
+Go to booth number three. Enjoy, man.
+ໄປໂຕະເລກທີສາມ. ມ່ວນຊື່ນ, ຜູ້ຊາຍ.
+
+674
+01:48:49,773 --> 01:48:53,610
+Are you sure, uh,
+that the girls are live?
+ເຈົ້າແນ່ໃຈບໍ,ອູ,ວ່າ
+ເດັກຍິງແມ່ນມີຊີວິດຢູ່ບໍ?
+
+675
+01:48:54,069 --> 01:48:57,239
+- Last time I checked.
+- Thank you.
+- ຕອນສຸດທ້າຍທີ່ຂ້ອຍກວດເບິ່ງ.
+- ຂອບໃຈເດີ.
+
+676
+01:48:57,781 --> 01:49:01,285
+A couple of razor blades, just in case.
+ກະດານຕັດຜົມສອງສາມກະດານ
+,ພຽງແຕ່ໃນກໍລະນີໃດໜຶ່ງ.
+
+677
+01:49:08,459 --> 01:49:11,045
+Oh, you didn't think I forgot
+about you, did you?
+ໂອ້,ເຈົ້າບໍ່ຄິດວ່າ
+ຂ້ອຍລືມເຈົ້າ,ແມ່ນບໍ?
 

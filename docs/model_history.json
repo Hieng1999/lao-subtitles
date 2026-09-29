@@ -1,6 +1,6 @@
 {
- "schema_note": "Every number in this file is real and independently reproducible -- computed from actual sacrebleu runs, actual verification-pipeline state files, or actual dataset files in the lao-thai-translator repo. Nothing here is estimated, projected, or hand-typed as a round number. Fields with a null value mean 'not measured under this methodology,' never 'assumed good.'",
- "last_updated": "2026-09-26",
+ "schema_note": "Every number in this file is real and reproducible from the files it was computed from -- actual sacrebleu runs, actual verification-pipeline state files, or actual dataset files in the lao-thai-translator repository, which is not public, so a reader outside the project cannot recompute them independently. Nothing here is estimated, projected, or hand-typed as a round number. Fields with a null value mean 'not measured under this methodology,' never 'assumed good.'",
+ "last_updated": "2026-09-29",
  "generations": [
   {
    "id": "gen3",
@@ -22,8 +22,13 @@
    "reference_benchmark": null,
    "roundtrip_benchmark": null,
    "corrections": {
-    "total_confirmed": 7231,
+    "counted_over": "The 287 films the Back-Translation Consensus verification run covered. Of those, 187 are still published as \"Translated screenplay\" files, 98 are still in the catalogue but now have a \"Subtitles\" file instead (their screenplay file was replaced), and 2 are no longer published at all.",
+    "source_file": "lao_nlp/data/metadata_and_state/srt_verification_state.json",
+    "re_summed_on": "2026-09-29",
+    "total_confirmed": 7263,
     "movies_covered": 287,
+    "movies_still_published": 187,
+    "confirmed_on_still_published": 4479,
     "defect_categories_fixed": [
      "Garbled decoder artifact (a bare \"ແມ\" token left as an incomplete fragment, never finished into a real word)",
      "Repetition / stutter artifacts (e.g. a phrase's opening words duplicated back-to-back)",
@@ -32,15 +37,17 @@
      "Code-mixing (untranslated English words left stranded inside otherwise-Lao sentences)",
      "Calque / literal-translation errors (idioms mistranslated word-for-word)",
      "Numeral errors (e.g. \"100 thousand\" rendered as \"ten thousand\")"
-    ]
+    ],
+    "movies_now_subtitle_cards": 98,
+    "movies_no_longer_published": 2
    },
-   "release_notes": "The 287 films in the verification run (285 are still published) were re-checked automatically by two machine filters -- no human reviewer read or approved these translations. Filter 1 is a set of deterministic Lao-text pattern checks built and refined by hand as each new failure pattern was found. Filter 2 is an English-only back-translation semantic-equivalence judge -- the model is never shown its own Lao output to grade, precisely because that self-referential check is what caused the Generation 3 crisis. An automatic correction was applied only when both filters independently flagged the same segment. This process applied 7,231 automatic corrections (the figure this page's Model Evolution card had previously shown, 7,251, was a stale snapshot from an earlier point in the catalog -- corrected here to match the current 285-film published catalog). The largest single defect found was a hallucinated substitution of the real Lao word for 'interfere' standing in for unrelated content -- 654 raw occurrences found corpus-wide; a dedicated cleanup pass fixed only 15 of those (2.6%), confirming most instances are a stable model bias rather than a one-off translation slip. That known limitation is left undisturbed in the published corpus rather than papered over, pending a future targeted retrain. Separately, the review step that produced the published files sent lines to Google Gemini, a cloud AI service, and applied some of its edits; that step will not be used again. The model was fine-tuned mostly on machine-translated text, including earlier output of this project and corrections written by Google Gemini; only a small share of its training data was translated by people."
+   "release_notes": "The 287 films in the verification run (187 of them are still published as \"Translated screenplay\" files, 98 are still in the catalogue but now have a \"Subtitles\" file instead, and 2 are no longer published) were re-checked automatically by two machine filters -- no human reviewer read or approved these translations. Filter 1 is a set of deterministic Lao-text pattern checks built and refined by hand as each new failure pattern was found. Filter 2 is an English-only back-translation semantic-equivalence judge: the candidate Lao line is translated back into English by a separate reverse-direction model and a local LLM running on the project's own computer is asked only whether the two English sentences mean the same thing -- the model is never shown Lao to grade, precisely because that self-referential check is what caused the Generation 3 crisis. An automatic correction was applied only when both filters independently approved it. Re-summed from the run's own per-film state file on 2026-09-29: 7,263 corrections across all 287 films, of which 4,479 are in the 187 files still published. Earlier versions of this page showed 7,251 and then 7,231 for the run as a whole; both were counted at an earlier point and are superseded by this re-sum, which comes straight from the state file named above. The largest single defect found was a hallucinated substitution of the real Lao word for 'interfere' standing in for unrelated content -- 654 raw occurrences found corpus-wide; a dedicated cleanup pass fixed only 15 of those (2.6%), confirming most instances are a stable model bias rather than a one-off translation slip. That known limitation is left undisturbed in the published corpus rather than papered over, pending a future targeted retrain. Neither model behind the files on this site was trained on the corrections this run found. This Generation 4 adapter's own checkpoint_meta.json is dated 2026-09-08 04:13:26, six days before the corrections file existed (2026-09-14 14:13:33). The training file behind S3X, lao_nlp/external_corpora/S3x1_heldout.jsonl, records the file each of its 206,745 rows came from: none of them the corrections file, and none of its 3,070 DPO-preference rows carries a line the run approved. Eight experimental adapters were trained on those corrections on 14-15 September 2026 and none of them was ever published -- see Generation 5 below. Separately, the review step that produced the published files sent lines to Google Gemini, a cloud AI service, and applied some of its edits; that step will not be used again. The model was fine-tuned mostly on machine-translated text, including earlier output of this project and corrections written by Google Gemini; only a small share of its training data was translated by people."
   },
   {
    "id": "gen5",
-   "label": "Generation 5 (retired plan)",
-   "date": "2026-09-14",
-   "checkpoint": null,
+   "label": "Generation 5 (trained, never published)",
+   "date": "2026-09-15",
+   "checkpoint": "lao_lora_adapter_1.3B_dpo_gen5 through _gen5_7 (8 adapters, none promoted)",
    "status": "retired",
    "reference_benchmark": null,
    "roundtrip_benchmark": null,
@@ -53,7 +60,29 @@
     "val_examples": 513,
     "split": "90/10, seeded (seed=42)"
    },
-   "release_notes": "This DPO/self-training plan was abandoned; training was never started. The staged dataset numbers below are kept as a historical record only. The next candidate under evaluation is a supervised adapter (S3X), to be checked by a native Lao reader before any use. We publish performance numbers only after they're actually measured against a trained, evaluated checkpoint -- this entry intentionally has no scores yet."
+   "release_notes": "This entry used to say the plan was abandoned before any training happened. That was wrong, and this is the correction. Training did happen: eight DPO adapters (lao_lora_adapter_1.3B_dpo_gen5 through _gen5_7) were trained and saved between 2026-09-14 20:20 and 2026-09-15 05:11, each with its own training log and benchmark scorecard, and 4,611-4,667 rows of every training file used (9,051-10,278 rows each) are an exact source-and-correction pair from the Generation 4 verification run's own corrections file. The plan was then retired on the results, not before starting: every one of the eight adapters scored below Generation 4 on this project's five benchmark suites. None was promoted, and no file on this site was produced by any of them. No score is shown for them here for the same reason no score is shown for any generation on this page: those suites use machine-made reference translations, so they measure consistency, not quality (see the Quality Score section). The staged dataset numbers below are the record of what was trained on: they were built from the 7,251 corrections that run produced. The next candidate after this plan was a supervised adapter (S3X), which is now what every \"Subtitles\" file on this site comes from.",
+   "corrections_reused": {
+    "counted_over": "The five gen5_*_blended_dpo_train.jsonl files this plan trained on, and srt_publish_corrections.jsonl, the Generation 4 verification run's own output.",
+    "source_file": "lao_nlp/data/synthetic_triplets/",
+    "measured_on": "2026-09-29",
+    "training_rows_per_file": [
+     9051,
+     9351,
+     9332,
+     9654,
+     10278
+    ],
+    "rows_that_are_an_exact_correction_pair": [
+     4611,
+     4611,
+     4667,
+     4667,
+     4667
+    ],
+    "adapters_trained": 8,
+    "adapters_promoted": 0,
+    "published_files_from_them": 0
+   }
   },
   {
    "id": "s3x",

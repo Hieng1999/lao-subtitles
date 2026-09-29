@@ -1,2504 +1,3234 @@
 1
-00:00:10,000 --> 00:00:12,000
-[ALONE IN THE DARK]
-Written by
-ຂຽນໂດຍ
+00:00:03,900 --> 00:00:11,500
+In 1967 mine workers discovered the
+first remnants of a long lost civilization:
+ໃນປີ 1967 ຄົນງານແຮ່ທາດໄດ້ຄົ້ນພົບສິ່ງເສດເຫລ
+ືອທໍາອິດຂອງວັດທະນະທໍາທີ່ສູນເສຍໄປດົນນານ:
 
 2
-00:00:12,500 --> 00:00:18,500
-[P.O.V. CREATURE:]
-Tomething chases Young Edward through the dark forest. Its P.O.V. is skewed, inhuman. It is gaining on him.
-ບາງສິ່ງບາງຢ່າງລ່າຫຼັງເອດວາດຫນຸ່ມຜ່ານປ່າມືດ. P.O.V
-ຂອງມັນແມ່ນສໍ້ໂກງ, ບໍ່ເປັນມະນຸດ. ມັນ ກໍາ ລັງຊະນະລາວ.
+00:00:11,600 --> 00:00:12,900
+The Abkani.
+ຄົນອາບຄານີ.
 
 3
-00:00:19,000 --> 00:00:25,000
-[P.O.V. CREATURE:]
-The light stops whatever is chasing Young Edward at the edge of the forest. What is making the light isn't visible, only Young Edward's silhouette running towards the blinding light.
-ແສງສະຫວ່າງຢຸດເຊົາສິ່ງໃດກໍ່ຕາມທີ່ ກໍາ ລັງລ່າຫຼັງເອດວາດຫນຸ່ມຢູ່ແຄມປ່າໄມ້. ສິ່ງທີ່
-ກໍາ ລັງເຮັດໃຫ້ແສງສະວ່າງບໍ່ເຫັນໄດ້, ພຽງແຕ່ຮູບຊົງຂອງເອດວາດຫນຸ່ມແລ່ນໄປສູ່ແສງຕາບອດ.
+00:00:13,100 --> 00:00:17,100
+The Abkani Believed there are two worlds on this planet.
+ຄົນອາບຄານີເຊື່ອວ່າມີໂລກສອງໂລກໃນໂລກນີ້.
 
 4
-00:00:25,500 --> 00:00:31,500
-[SUPER: 20 YEARS AGO]
-The beams of a dozen flashlights cut through the mist of the dark forest. A dozen uniformed DEPUTIES move through the forest, shining their flashlights around, searching.
-ແສງໄຟຂອງແສງໄຟສິບຄົນຕັດຜ່ານຫມອກຂອງປ່າໄມ້ມືດ. ຜູ້ແທນທີ່ໃສ່ເຄື່ອງນຸ່ງຫົ່ມສິບຄົນທີ່ເຄື່ອນຍ້າຍຜ່ານປ່າ
-, ແສງສະຫວ່າງແສງຂອງພວກເຂົາຢູ່ອ້ອມຂ້າງ, ຊອກຫາ.
+00:00:17,200 --> 00:00:20,400
+A world of light and a world of darkness
+ໂລກຂອງແສງສະຫວ່າງແລະໂລກຂອງຄວາມມືດ
 
 5
-00:00:32,000 --> 00:00:34,000
-[SHERIFF]
-What's going on, Adams?
-ເກີດຫຍັງຂຶ້ນ, ແອດມັສ?
+00:00:20,600 --> 00:00:25,200
+10.000 years ago, the Abkani opened
+a gate between these worlds.
+ເມື່ອ 10 , 000 ປີກ່ອນ,ຊາວອາບຄານີ
+ໄດ້ເປີດປະຕູລະຫວ່າງໂລກເຫຼົ່ານີ້.
 
 6
-00:00:34,500 --> 00:00:38,700
-[DEPUTY ADAMS]
-Twenty kids live at this orphanage, Sheriff. All twenty have gone missing.
-ເດັກນ້ອຍສິບຄົນອາໄສຢູ່ເຮືອນເດັກເຖົ້ານີ້
-, ເຈົ້າຫນ້າທີ່. ທັງສິບໄດ້ຫາຍສາບສູນແລ້ວ.
+00:00:25,400 --> 00:00:29,400
+Before they could close it,
+something evil slipped through.
+ກ່ອນທີ່ພວກເຂົາຈະປິດມັນໄດ້,ບາງສິ່ງ
+ບາງຢ່າງທີ່ຮ້າຍແຮງໄດ້ລອຍຜ່ານ.
 
 7
-00:00:39,200 --> 00:00:45,200
-[SISTER CLARA]
-After the power went out, I went to check on the children. But their beds were empty. Every one of them. They just disappeared...
-ຫຼັງຈາກໄຟຟ້າອອກໄປ, ຂ້ອຍໄປກວດເບິ່ງເດັກນ້ອຍ.
-ແຕ່ຕຽງຂອງພວກເຂົາເປົ່າ. ແຕ່ລະຄົນຂອງພວກເຂົາ. ພວກເຂົາພຽງແຕ່ຫາຍໄປ...
+00:00:29,800 --> 00:00:32,400
+The Abkani mysteriously vanished from the earth.
+ຄົນອາບຄານີຫາຍໄປຈາກໂລກຢ່າງລຶກລັບ.
 
 8
-00:00:45,700 --> 00:00:49,200
-[DEPUTY ADAMS]
-Are you okay, son? Are the other kids around here?
-ເຈົ້າບໍ່ເປັນຫຍັງບໍ, ລູກຊາຍ? ເດັກນ້ອຍຄົນອື່ນຢູ່ໃກ້ໆນີ້ບໍ?
+00:00:32,600 --> 00:00:37,800
+Only a few artifacts remained, Hidden
+in the world's most remote places.
+ມີພຽງແຕ່ວັດຖຸບູຮານສອງສາມຢ່າງທີ່ຍັງເຫຼືອ
+,ເຊື່ອງໄວ້ໃນສະຖານທີ່ຫ່າງໄກທີ່ສຸດຂອງໂລກ.
 
 9
-00:00:49,700 --> 00:00:51,800
-[YOUNG EDWARD]
-I don't know... I don't remember...
-ຂ້ອຍບໍ່ຮູ້... ຂ້ອຍບໍ່ຈື່...
+00:00:37,900 --> 00:00:41,600
+These artifacts speak of terrifying
+creatures that thrive in the darkness,
+ວັດຖຸບູຮານເຫຼົ່ານີ້ເວົ້າເຖິງສັດທີ
+່ຢ້ານກົວທີ່ເຕີບໃຫຍ່ໃນຄວາມມືດ,
 
 10
-00:00:52,300 --> 00:00:56,500
-[DEPUTY ADAMS]
-Why don't we start with your name? Do you remember your name?
-ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ເລີ່ມຕົ້ນດ້ວຍຊື່ຂອງທ່ານ
-? ເຈົ້າຈື່ຊື່ຂອງທ່ານບໍ?
+00:00:41,700 --> 00:00:47,000
+...waiting for the day when
+the gate can be opened again.
+...ລໍຖ້າມື້ທີ່ປະຕູ
+ສາມາດເປີດໄດ້ອີກຄັ້ງ.
 
 11
-00:00:57,000 --> 00:00:59,000
-[YOUNG EDWARD]
-Edward... Edward Carnby.
-ເອດວາດ... ເອັດວາດ ຄາຣນບີ.
+00:00:47,200 --> 00:00:51,200
+Bureau 713, The government's
+paranormal research agency,
+ຫ້ອງການ 713 ,ອົງການຄົ້ນຄວ້າ
+ພາຍນອກທໍາມະຊາດຂອງລັດຖະບານ,
 
 12
-00:00:59,500 --> 00:01:05,100
-[SUPER: 20 YEARS LATER]
-EDWARD CARNBY , lean and intense, wakes up. He quickly looks around to get his bearings.
-ເອດວາດ ຄາຣນບີ, ອ່ອນແລະແຫນ້ນແຟ້ນ, ຕື່ນຂຶ້ນ.
-ລາວເບິ່ງຢູ່ອ້ອມຂ້າງຢ່າງໄວວາເພື່ອໄດ້ຮັບສາຍສົ່ງຂອງລາວ.
+00:00:51,600 --> 00:00:56,400
+...was established to uncover the
+dark secrets of this lost civilization.
+...ຖືກສ້າງຕັ້ງຂຶ້ນເພື່ອເປີດເຜີຍ
+ຄວາມລັບມືດຂອງວັດທະນະທໍາທີ່ສູນເສຍນີ້.
 
 13
-00:01:05,600 --> 00:01:07,600
-[SMALL BOY]
+00:00:56,600 --> 00:00:59,800
+Under the direction of Archaeologist Lionel Hudgens,
+ພາຍໃຕ້ການຊີ້ນໍາຂອງນັກ
+ບູຮານສາດລີໂອເນວຮູດເຈນສ໌,
+
+14
+00:01:00,000 --> 00:01:04,000
+...Bureau 713 began collecting abkani artifacts.
+ຫ້ອງການ 713 ເລີ່ມເກັບກໍ
+າວັດຖຸບູຮານ Abkani ໄດ້.
+
+15
+00:01:04,400 --> 00:01:08,000
+When the government shut down his controversial research,
+ເມື່ອລັດຖະບານປິດ
+ການຄົ້ນຄວ້າທີ່ໂຕ້ຖຽງຂອງລາວ,
+
+16
+00:01:08,200 --> 00:01:12,800
+...Hudgengs built a laboratory hidden
+within an abandoned gold mine.
+... Hudgengs ໄດ້ສ້າງຫ້ອງທົດລອງເຊື່ອງ
+ໄວ້ພາຍໃນແຮ່ທອງຄໍາທີ່ຖືກປະຖິ້ມໄວ້.
+
+17
+00:01:13,000 --> 00:01:17,000
+There, he conducted savage experiments on
+orphaned children
+ຢູ່ບ່ອນນັ້ນ,ລາວໄດ້ດໍາເນີນການ
+ທົດລອງທີ່ໂຊກຮ້າຍກັບເດັກນ້ອຍເຖົ້າ
+
+18
+00:01:17,100 --> 00:01:21,100
+...in an attempt to merge man with creature.
+ໃນຄວາມພະຍາຍາມທີ່ຈະ
+ປະສົມປະສານມະນຸດກັບສັດ.
+
+19
+00:01:21,400 --> 00:01:25,000
+Hudgens' victims survived as sleepers.
+ຜູ້ເຄາະຮ້າຍຂອງຮູດເຈນສ໌
+ໄດ້ລອດຊີວິດເປັນຄົນນອນ.
+
+20
+00:01:25,200 --> 00:01:29,600
+Lost souls awaiting the moment of their calling.
+ຈິດວິນຍານທີ່ສູນເສຍທີ່ລໍຖ້າ
+ຊົ່ວຄາວຂອງການເອີ້ນຂອງພວກເຂົາ.
+
+21
+00:02:16,100 --> 00:02:20,700
+It's just...
+the children are my responsibility.
+ມັນພຽງແຕ່...ເດັກນ້ອຍແມ່ນ
+ຄວາມຮັບຜິດຊອບຂອງຂ້ອຍ.
+
+22
+00:02:20,800 --> 00:02:22,700
+We've been through this before.
+ພວກເຮົາເຄີຍຜ່ານເລື່ອງນີ້ກ່ອນ.
+
+23
+00:02:22,800 --> 00:02:25,600
+These children have been specially selected.
+ເດັກນ້ອຍເຫຼົ່ານີ້ຖືກຄັດເລືອກໂດຍສະເພາະ.
+
+24
+00:02:25,800 --> 00:02:28,800
+If my work is a success, thousands of lives can be saved.
+ຖ້າວຽກຂອງຂ້ອຍປະສົບຜົນສໍາເລັດ,ຊີວິດ
+ຫຼາຍພັນຄົນສາມາດຖືກຊ່ວຍເຫຼືອໄດ້.
+
+25
+00:02:29,000 --> 00:02:34,400
+It's not about a few children.
+It's about the future of our species.
+ມັນບໍ່ແມ່ນເລື່ອງເດັກນ້ອຍສອງສາມຄົນ.
+ມັນກ່ຽວກັບອະນາຄົດຂອງຊະນິດຂອງພວກເຮົາ.
+
+26
+00:02:38,800 --> 00:02:44,300
+Anyway, it's too late for doubt now.
+The process has already started.
+ຢ່າງໃດກໍຕາມ,ມັນຊ້າເກີນໄປສໍາລັບການ
+ສົງໄສດຽວນີ້.ຂະບວນການໄດ້ເລີ່ມຕົ້ນແລ້ວ.
+
+27
+00:02:44,500 --> 00:02:47,100
+Just do what we agreed.
+ພຽງແຕ່ເຮັດຕາມທີ່ພວກເຮົາຕົກລົງກັນ.
+
+28
+00:02:47,200 --> 00:02:52,300
+At 10 P.M.,you call the police
+and you tell them the children have disappeared.
+ຕອນ 10 ໂມງແລງ,ເຈົ້າໂທຫາຕໍາຫຼວດແລະ
+ບອກພວກເຂົາວ່າເດັກນ້ອຍຫາຍໄປແລ້ວ.
+
+29
+00:02:52,500 --> 00:02:55,700
+Sir, the subjects have been transported. Good.
+ເຈົ້າ, ຫົວຂໍ້ໄດ້ຖືກຂົນສົ່ງແລ້ວ. ດີ.
+
+30
+00:02:55,900 --> 00:03:01,800
+But, sir, there's a problem. Head count had twenty of them before transport.
+Now we've only got nineteen. Someone's missing.
+ແຕ່,ເຈົ້າ,ມີບັນຫາ.ການນັບຫົວມີສິບຄົນກ່ອນການຂົນສົ່ງ
+.ດຽວນີ້ພວກເຮົາມີພຽງແຕ່ສິບເກົ້າຄົນ.ບາງຄົນຫາຍສາບສູນ.
+
+31
+00:03:02,200 --> 00:03:02,900
+Shit!
+ສະບາຍດີ!
+
+32
+00:03:35,400 --> 00:03:39,000
+Good evening, Sheriff.
+-What's going on, Adams?
+ສະບາຍດີ, ເຈົ້າໜ້າທີ່.
+- ເກີດຫຍັງຂຶ້ນ, ແອດມັສ?
+
+33
+00:03:39,200 --> 00:03:42,800
+There's twenty kids living at this orphanage.
+All twenty of them have gone missing.
+ມີເດັກນ້ອຍສິບຄົນອາໄສຢູ່ເຮືອນເດັກເຖົ້າ
+ນີ້.ທັງໝົດສິບຄົນທີ່ຫາຍສາບສູນແລ້ວ.
+
+34
+00:03:42,800 --> 00:03:43,500
+-And Then?
+- ແລະຫຼັງຈາກນັ້ນ?
+
+35
+00:03:43,500 --> 00:03:48,500
+-After the power went out I went to check on the children
+Their beds were empty, every one of them.
+-ຫຼັງຈາກໄຟຟ້າອອກໄປຂ້ອຍໄປກວດເບິ່ງ
+ເດັກນ້ອຍຕຽງຂອງພວກເຂົາເປົ່າ,ທຸກຄົນ.
+
+36
+00:03:48,600 --> 00:03:53,600
+They just disappeared.
+ພວກເຂົາພຽງແຕ່ຫາຍໄປ.
+
+37
+00:04:07,300 --> 00:04:09,300
 Did you have a nightmare?
 ເຈົ້າມີຄວາມຝັນຮ້າຍບໍ?
 
-14
-00:01:08,100 --> 00:01:14,100
-[SMALL BOY]
-You ate cheese with dinner. My mommy says cheese gives you nightmares. Want to see my coloring book?
-ເຈົ້າກິນຈິດກັບອາຫານຄໍ່າ. ແມ່ຂອງຂ້ອຍເວົ້າວ່າຈິດເຮັດໃຫ້ເຈົ້າມີຄວາມຝັນຮ້າຍ
-. ເຈົ້າຢາກເຫັນປື້ມສີຂອງຂ້ອຍບໍ?
-
-15
-00:01:14,600 --> 00:01:20,600
-[SMALL BOY]
-I think there's a vampire living in my closet, but my mommy says vampires and ghosts aren't real. She says there's nothing to be afraid of in the dark.
-ຂ້ອຍຄິດວ່າມີແວມປີອາໄສຢູ່ໃນກະຕູ້ຂອງຂ້ອຍ, ແຕ່ແມ່ຂອງຂ້ອຍເວົ້າວ່າແວມປີແລະຈິດວິນຍານບໍ່ແມ່ນຄວາມເປັນຈິງ
-. ນາງເວົ້າວ່າບໍ່ມີຫຍັງຕ້ອງຢ້ານກົວໃນຄວາມມືດ.
-
-16
-00:01:21,100 --> 00:01:26,700
-[CARNBY]
-Your mother is wrong. Being afraid of the dark is what keeps most of us alive.
-ແມ່ຂອງເຈົ້າຜິດ.
-ການຢ້ານກົວຄວາມມືດແມ່ນສິ່ງທີ່ເຮັດໃຫ້ພວກເຮົາສ່ວນໃຫຍ່ມີຊີວິດຢູ່.
-
-17
-00:01:27,200 --> 00:01:30,000
-[SMALL BOY]
-Everybody else tells me not to be afraid.
-ທຸກຄົນອື່ນບອກຂ້ອຍວ່າ ຢ່າຢ້ານກົວ.
-
-18
-00:01:30,500 --> 00:01:32,950
-[CARNBY]
-That's because they don't know the truth.
-ນັ້ນແມ່ນຍ້ອນວ່າພວກເຂົາບໍ່ຮູ້ຄວາມຈິງ.
-
-19
-00:01:33,450 --> 00:01:39,450
-[CARNBY]
-So, maybe you're thinking I'm an asshole, trying to scare this poor kid for no reason. But that's where you're wrong. Because I've got my reasons. There's a world around you that you've trained yourself not to see. You've willfully closed your eyes. But your fear of the dark is not a weakness. It's there to protect you from things you'd better pray you never see. My eyes were forced open a long time ago. Now I know. Just because you can't see something, doesn't mean it can't kill you.
-ສະນັ້ນ, ບາງທີເຈົ້າ ກໍາ ລັງຄິດວ່າຂ້ອຍເປັນຄົນໂຊກແຊງ, ພະຍາຍາມຢ້ານເດັກທຸກຍາກຄົນນີ້ໂດຍບໍ່ມີເຫດຜົນ. ແຕ່ນັ້ນແມ່ນບ່ອນທີ່ທ່ານຜິດພາດ. ເພາະວ່າຂ້ອຍມີເຫດຜົນຂອງຂ້ອຍ. ມີໂລກຢູ່ອ້ອມຂ້າງເຈົ້າທີ່ເຈົ້າໄດ້ຝຶກອົບຮົມຕົວເອງບໍ່ເຫັນ
-. ເຈົ້າໄດ້ປິດຕາຂອງທ່ານດ້ວຍຄວາມຕັ້ງໃຈ. ແຕ່ຄວາມຢ້ານກົວຂອງຄວາມມືດບໍ່ແມ່ນຄວາມອ່ອນແອ. ມັນຢູ່ບ່ອນນັ້ນເພື່ອປົກປ້ອງເຈົ້າຈາກສິ່ງທີ່ທ່ານຄວນອະທິຖານວ່າທ່ານບໍ່ເຄີຍເຫັນ. ຕາຂອງຂ້ອຍຖືກບັງຄັບໃຫ້ເປີດດົນ
-
-20
-00:01:39,950 --> 00:01:41,950
-[CABBIE]
-You travel light.
-ເຈົ້າເດີນທາງເບົາໆ.
-
-21
-00:01:42,450 --> 00:01:46,300
-[CARNBY]
-Trust me, I'm carrying enough baggage for the both of us.
-ເຊື່ອຂ້ອຍ, ຂ້ອຍຖືຖົງທີ່ພຽງພໍ ສໍາ ລັບພວກເຮົາທັງສອງ.
-
-22
-00:01:46,800 --> 00:01:49,600
-[CABBIE]
-That's pretty funny, man. What do you do?
-ນັ້ນແມ່ນມ່ວນຫຼາຍ, ຜູ້ຊາຍ. ເຈົ້າເຮັດຫຍັງ?
-
-23
-00:01:50,100 --> 00:01:52,100
-[CARNBY]
-You really want to know?
-ເຈົ້າຢາກຮູ້ແທ້ບໍ?
-
-24
-00:01:52,600 --> 00:01:56,450
-[CABBIE]
-Yeah, man. Hearing about my passengers' lives keeps the job interesting.
-ແມ່ນແລ້ວ, ຜູ້ຊາຍ.
-ການຍິນກ່ຽວກັບຊີວິດຂອງຜູ້ໂດຍສານຂອງຂ້ອຍເຮັດໃຫ້ວຽກງານມີຄວາມສົນໃຈ.
-
-25
-00:01:56,950 --> 00:01:58,950
-[CARNBY]
-I'm a paranormal investigator.
-ຂ້ອຍເປັນນັກສືບສວນເລື່ອງພາວະທໍາມະຊາດ.
-
-26
-00:01:59,450 --> 00:02:01,450
-[CABBIE]
-Get the fuck outta here!
-ອອກຈາກບ່ອນນີ້!
-
-27
-00:02:01,950 --> 00:02:03,950
-[CABBIE]
-What does that mean exactly?
-ນັ້ນຫມາຍຄວາມວ່າແນວໃດແທ້ໆ?
-
-28
-00:02:04,450 --> 00:02:06,900
-[CARNBY]
-I'm an effective solution to unusual problems.
-ຂ້ອຍເປັນວິທີແກ້ໄຂທີ່ປະສິດທິຜົນຕໍ່ບັນຫາທີ່ບໍ່ປົກກະຕິ.
-
-29
-00:02:07,400 --> 00:02:11,250
-[CARNBY]
-Speaking of which, that taxi's been following us since the airport.
-ເວົ້າເຖິງນັ້ນ, ລົດແທັກຊີນັ້ນ ກໍາ
-ລັງຕິດຕາມພວກເຮົາຕັ້ງແຕ່ສະຫນາມບິນ.
-
-30
-00:02:11,750 --> 00:02:14,200
-[CABBIE]
-No shit? Want me to lose him?
-ບໍ່ເປັນຫຍັງບໍ? ເຈົ້າຢາກໃຫ້ຂ້ອຍສູນເສຍລາວບໍ?
-
-31
-00:02:14,700 --> 00:02:16,700
-[CARNBY]
-If you can...
-ຖ້າເຈົ້າສາມາດ...
-
-32
-00:02:17,200 --> 00:02:19,200
-[CABBIE]
-I'm trapped, man!
-ຂ້ອຍຖືກຈັບກຸມແລ້ວ, ຜູ້ຊາຍ!
-
-33
-00:02:19,700 --> 00:02:21,700
-[CARNBY]
-I'll draw him away...
-ຂ້ອຍຈະດຶງລາວໄປ...
-
-34
-00:02:22,200 --> 00:02:24,200
-[BEAT COP]
-Hey!
-ສະບາຍດີ!
-
-35
-00:02:24,700 --> 00:02:26,700
-[GUARD]
-Got another delivery, Ms. Cedrac.
-ມີການສົ່ງອີກຄັ້ງ, ນາງເຊດຣັກ.
-
-36
-00:02:27,200 --> 00:02:31,050
-[ALINE]
-I don't have anything scheduled. What museum was it transferred from?
-ຂ້ອຍບໍ່ມີຫຍັງວາງແຜນ. ມັນຖືກໂອນຈາກຫໍພິພິທະພັນໃດ?
-
-37
-00:02:31,550 --> 00:02:33,650
-[DELIVERY GUY]
-For Dr. Hudgens, from Dr. Hudgens.
-ສໍາລັບດຣ ຮູດເຈນສ໌, ຈາກດຣຮູດເຈັນສ໌.
-
 38
-00:02:34,150 --> 00:02:38,350
-[ALINE]
-It's probably an error. It must be for the big Abkani show.
-ມັນອາດຈະເປັນຄວາມຜິດພາດ. ມັນຕ້ອງເປັນ
-ສໍາ ລັບງານສະແດງ Abkani ທີ່ໃຫຍ່.
+00:04:10,500 --> 00:04:14,400
+My mommy says that there's nothing
+to be afraid of in the dark.
+ແມ່ຂອງຂ້ອຍເວົ້າວ່າບໍ່ມີຫຍັງ
+ຕ້ອງຢ້ານກົວໃນຄວາມມືດ.
 
 39
-00:02:38,850 --> 00:02:40,850
-[DELIVERY GUY]
-Abkani? What the hell's Abkani?
-ອາບຄານີ? ອາບການີແມ່ນຫຍັງ?
+00:04:20,500 --> 00:04:23,200
+Your mother's wrong, kid.
+ແມ່ຂອງເຈົ້າຜິດ, ເດັກນ້ອຍ.
 
 40
-00:02:41,350 --> 00:02:47,350
-[GUARD]
-Ancient Native American civilization. They were this super-advanced culture, but something like ten thousand years ago, they just disappeared.
-ວັດທະນະທໍາພື້ນເມືອງອາເມລິກາບູຮານ. ພວກເຂົາເປັນວັດທະນະ ທໍາ
-ທີ່ກ້າວຫນ້າຫຼາຍ, ແຕ່ບາງສິ່ງບາງຢ່າງປະມານສິບພັນປີກ່ອນ, ພວກເຂົາພຽງແຕ່ຫາຍໄປ.
+00:04:23,300 --> 00:04:28,200
+Being afraid of the dark
+is what keeps most of us alive.
+ຄວາມຢ້ານກົວຄວາມມືດແມ່ນສິ່ງທີ່
+ເຮັດໃຫ້ພວກເຮົາສ່ວນໃຫຍ່ມີຊີວິດຢູ່.
 
 41
-00:02:47,850 --> 00:02:49,850
-[LINE]
-You've been reading up.
-ເຈົ້າ ກໍາ ລັງອ່ານຂຶ້ນ.
+00:04:39,900 --> 00:04:44,400
+Pinkerton. Carnby is coming in on flight 185
+from Buenos Aires.
+ປິນເກີຕັນ.ຄານບີກໍາລັງເຂົ້າມາດ
+້ວຍຖ້ຽວບິນ 185 ຈາກບູເນັສໄອຣສ໌.
 
 42
-00:02:50,350 --> 00:02:53,500
-[GUARD]
-Not much else to do around here at night.
-ບໍ່ມີຫຍັງອີກຫຼາຍຢ່າງທີ່ຈະເຮັດຢູ່ບ່ອນນີ້ໃນຕອນກາງຄືນ.
+00:04:44,600 --> 00:04:51,200
+He's got the artifact. Intercept him at the airport,
+Get the artifact and kill him.
+ລາວມີວັດຖຸບູຮານ.ຢຸດລາວຢູ່
+ສະໜາມບິນ,ເອົາວັດຖຸດິບແລະຂ້າລາວ.
 
 43
-00:02:54,000 --> 00:02:58,200
-[DELIVERY GUY]
-Says here it's not to be opened by anyone but Dr. Hudgens.
-ມັນເວົ້າວ່າຢູ່ນີ້ມັນບໍ່ຄວນເປີດໂດຍໃຜນອກຈາກດຣ ຮູດເຈນສ໌.
+00:04:58,100 --> 00:05:01,700
+So maybe you're thinking I'm an asshole scaring that kid for no reason.
+ສະນັ້ນບາງທີເຈົ້າຄິດວ່າຂ້ອຍເປັນຄົນໂຊກຮ້າຍ
+ທີ່ຢ້ານເດັກນ້ອຍນັ້ນໂດຍບໍ່ມີເຫດຜົນ.
 
 44
-00:02:58,700 --> 00:03:01,500
-[GUARD]
-This is Aline Cedrac. She's the assistant curator.
-ນີ້ແມ່ນອາລິນ ເຊດຣັກ. ນາງເປັນຜູ້ຊ່ວຍຄູເຣດເຕີ.
+00:05:01,900 --> 00:05:04,000
+...but I'm just trying to protect him.
+ແຕ່ຂ້ອຍພຽງແຕ່ພະຍາຍາມປົກປ້ອງລາວ.
 
 45
-00:03:02,000 --> 00:03:08,000
-[ALINE]
-We've got Abkani artifacts coming in from museums around the world. Until Hudgens gets back, I'm doing all the cataloguing anyway.
-ພວກເຮົາມີວັດຖຸບູຮານ Abkani ທີ່ເຂົ້າມາຈາກຫໍພິພິທະພັນທົ່ວໂລກ. ຈົນກວ່າ
-Hudgens ຈະກັບມາ, ຂ້ອຍ ກໍາ ລັງເຮັດການຈັດລຽງທັງ ຫມົດ ຢ່າງໃດກໍ່ຕາມ.
+00:05:04,200 --> 00:05:07,200
+You see, there's a world around you.
+that you've trained yourself not to see.
+ເຈົ້າເຫັນແລ້ວ,ມີໂລກຢູ່ອ້ອມຂ້າງ
+ເຈົ້າ.ທີ່ເຈົ້າໄດ້ຝຶກຕົວເອງບໍ່ເຫັນ.
 
 46
-00:03:08,500 --> 00:03:12,350
-[GUARD]
-Where is Hudgens anyway? The show opens in a few days.
-ຮູດເຈນສ໌ຢູ່ໃສຢ່າງໃດກໍ່ຕາມ? ງານສະແດງຈະເປີດໃນສອງສາມມື້.
+00:05:07,300 --> 00:05:11,000
+Call it paranormal, supernatural, occult, whatever.
+ເອີ້ນມັນວ່າ paranormal , supernatural
+, occult ,ບໍ່ວ່າຈະເປັນຫຍັງ.
 
 47
-00:03:12,850 --> 00:03:17,050
-[ALINE]
-Off on another archeological goosechase. He thinks he's finally found the Erebus.
-ອອກໄປໃນການລ່າແມວບູຊາອີກຄັ້ງ. ລາວຄິດວ່າລາວໄດ້ພົບ Erebus ໃນທີ່ສຸດ.
+00:05:11,200 --> 00:05:15,800
+But inside all of us
+is an uncontrollable fear of the dark.
+ແຕ່ພາຍໃນພວກເຮົາທຸກຄົນແມ່ນຄວາມຢ້ານກົວ
+ທີ່ບໍ່ສາມາດຄວບຄຸມໄດ້ຕໍ່ຄວາມມືດ.
 
 48
-00:03:17,550 --> 00:03:23,150
-[GUARD]
-So he sticks you with the work. At least it keeps your mind off your boyfriend.
-ສະນັ້ນລາວຈຶ່ງເຮັດໃຫ້ເຈົ້າເຮັດວຽກ.
-ຢ່າງຫນ້ອຍມັນເຮັດໃຫ້ຈິດໃຈຂອງທ່ານອອກຈາກແຟນຂອງທ່ານ.
+00:05:16,000 --> 00:05:19,000
+Kids are told it's irrational, but it's not..
+ເດັກນ້ອຍຖືກບອກວ່າມັນ
+ບໍ່ສົມເຫດສົມຜົນ,ແຕ່ມັນບໍ່ແມ່ນ..
 
 49
-00:03:23,650 --> 00:03:26,800
-[LINE]
-I'll be in my office if you need me.
-ຂ້ອຍຈະຢູ່ຫ້ອງການຂອງຂ້ອຍຖ້າເຈົ້າຕ້ອງການຂ້ອຍ.
+00:05:19,200 --> 00:05:22,800
+Fear is what protects you
+from the things you don't believe in.
+ຄວາມຢ້ານກົວແມ່ນສິ່ງທີ່ປົກປ້ອງ
+ເຈົ້າຈາກສິ່ງທີ່ທ່ານບໍ່ເຊື່ອ.
 
 50
-00:03:27,300 --> 00:03:29,300
-[DELIVERY GUY]
-What was that all about?
-ນັ້ນແມ່ນຫຍັງ?
+00:05:23,000 --> 00:05:25,400
+I learned the truth a long time ago-.
+ຂ້ອຍໄດ້ຮຽນຮູ້ຄວາມຈິງກ່ອນໜ້ານີ້.
 
 51
-00:03:29,800 --> 00:03:35,400
-[GUARD]
-Damn it... I shouldn't have said that. Her boyfriend's been missing for the last three months.
-ສະບາຍດີ... ຂ້ອຍບໍ່ຄວນເວົ້າແບບນັ້ນ.
-ເພື່ອນຊາຍຂອງນາງຫາຍສາບສູນເປັນເວລາສາມເດືອນທີ່ຜ່ານມາ.
+00:05:25,600 --> 00:05:31,200
+just because you can't see something,
+doesn't mean it can't kill you.
+ພຽງແຕ່ຍ້ອນວ່າເຈົ້າບໍ່ສາມາດເຫັນບາງສິ່ງ
+ບາງຢ່າງ,ບໍ່ໝາຍຄວາມວ່າມັນບໍ່ສາມາດຂ້າເຈົ້າໄດ້.
 
 52
-00:03:35,900 --> 00:03:37,900
-[DELIVERY GUY]
-Nice going, jack-ass.
-ໄປດີໆ, ຄົນໂຊກຮ້າຍ.
+00:05:34,500 --> 00:05:38,300
+When I was ten, I lost my memory.
+Gone, erased.
+ເມື່ອຂ້ອຍອາຍຸສິບປີ,ຂ້ອຍໄດ້ສູນເສຍ
+ຄວາມຊົງຈໍາຂອງຂ້ອຍ.ໄປແລ້ວ,ຖືກລຶບລ້າງ.
 
 53
-00:03:38,400 --> 00:03:43,300
-[CAPTAIN CHERNICK]
-They say a sunken ship is like a grave. It should never be disturbed.
-ພວກເຂົາເວົ້າວ່າເຮືອທີ່ຈົມແມ່ນຄືກັບຝັງສົບ. ມັນບໍ່ຄວນຖືກລົບກວນເລີຍ.
+00:05:38,400 --> 00:05:41,200
+I know something bad happened
+back then at the orphanage.
+ຂ້ອຍຮູ້ວ່າມີບາງສິ່ງບາງຢ່າງທີ່ບໍ່ດີ
+ເກີດຂຶ້ນໃນເວລານັ້ນຢູ່ເຮືອນເດັກເຖົ້າ.
 
 54
-00:03:43,800 --> 00:03:49,800
-[HUDGENS]
-I've been searching for the Erebus for twenty years, Captain. Now that I've found it, I'm afraid your ill-informed superstitions aren't enough to stop me.
-ຂ້ອຍ ກໍາ ລັງຊອກຫາ Erebus ເປັນເວລາສິບປີແລ້ວ, ຄັບປິນ. ດຽວນີ້ທີ່ຂ້ອຍໄດ້ພົບມັນ
-, ຂ້ອຍຢ້ານວ່າຄວາມເຊື່ອບ້າທີ່ບໍ່ຮູ້ສານຂອງທ່ານບໍ່ພຽງພໍທີ່ຈະຢຸດຂ້ອຍ.
+00:05:41,400 --> 00:05:45,400
+I've been looking for answers ever since.
+You don't have to believe me.
+ຂ້ອຍກໍາລັງຊອກຫາຄໍາຕອບຕັ້ງແຕ່ນັ້ນ
+.ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງເຊື່ອຂ້ອຍ.
 
 55
-00:03:50,300 --> 00:03:52,300
-[HUDGENS]
-Bring it up.
-ເອົາມັນຂຶ້ນ.
+00:05:45,800 --> 00:05:50,600
+My name is Edward Carnby, and I'm here to protect you
+from the things you don't believe.
+ຂ້ອຍຊື່ວ່າເອດວາດຄາຣນບີ,ແລະຂ້ອຍຢູ່ບ່ອນນີ້
+ເພື່ອປົກປ້ອງເຈົ້າຈາກສິ່ງທີ່ທ່ານບໍ່ເຊື່ອ.
 
 56
-00:03:52,800 --> 00:03:58,800
-[JOHN]
-Edward, John here. Hope things went well wherever you were this time. And, please, do not, I repeat, do not tell me about it. Every time you tell me about your latest case, I get nightmares for a week. Anyway, give me a call when you get back. Linda wants to have you by for dinner. Lord knows why, but she seems to like you. And if you haven't scared Aline away yet, bring her along.
-ເອດວາດ, ຈອນຢູ່ນີ້. ຫວັງວ່າສິ່ງຕ່າງໆໄດ້ດີຢູ່ບ່ອນໃດທີ່ທ່ານຢູ່ຄັ້ງນີ້. ແລະ, ກະລຸນາ, ຢ່າເຮັດ, ຂ້ອຍຊໍ້າອີກ, ຢ່າບອກຂ້ອຍກ່ຽວກັບມັນ. ທຸກຄັ້ງທີ່ທ່ານບອກຂ້າພະເຈົ້າກ່ຽວກັບກໍລະນີຫຼ້າສຸດຂອງທ່ານ,
-ຂ້ອຍໄດ້ຮັບຄວາມຝັນຮ້າຍເປັນເວລາ ຫນຶ່ງ ອາທິດ. ຢ່າງໃດກໍ່ຕາມ, ໂທຫາຂ້ອຍເມື່ອເຈົ້າກັບມາ. ລິນດາຢາກໃຫ້ເຈົ້າຢູ່ເຮືອນອາຫານຄໍ່າ. ພຣະເຈົ້າຮູ້ເຫດຜົນ, ແຕ່ນາງເບິ່ງຄືວ່າມັກເຈົ້າ. ແລະຖ້າເຈົ້າຍັງບໍ່ຢ້ານກົວອາລິນໄປເທື່ອ,
+00:05:58,200 --> 00:06:03,600
+You travel light.
+-I carry enough baggage for the both of us. Trust me.
+ເຈົ້າເດີນທາງເບົາໆ.
+- ຂ້ອຍຖືຖົງທີ່ພຽງພໍ ສໍາ ລັບພວກເຮົາທັງສອງ. ເຊື່ອຂ້ອຍ.
 
 57
-00:03:59,300 --> 00:04:03,850
-[CAPTAIN CHERNICK]
-Don't you want to open it? Make sure it's what you're looking for?
-ເຈົ້າບໍ່ຢາກເປີດມັນບໍ?
-ໃຫ້ແນ່ໃຈວ່າມັນແມ່ນສິ່ງທີ່ເຈົ້າ ກໍາ ລັງຊອກຫາບໍ?
+00:06:04,400 --> 00:06:08,400
+That's funny, man. What do you do?
+-You don't want to know.
+ນັ້ນແມ່ນມ່ວນຊື່ນ, ຜູ້ຊາຍ. ເຈົ້າເຮັດຫຍັງ?
+- ເຈົ້າບໍ່ຢາກຮູ້.
 
 58
-00:04:04,350 --> 00:04:07,850
-[HUDGENS]
-The conditions must be perfect. Otherwise, there will be... consequences.
-ສະພາບການຕ້ອງສົມບູນແບບ. ຖ້າບໍ່ດັ່ງນັ້ນ, ຈະມີ... ຜົນກະທົບ.
+00:06:08,500 --> 00:06:13,400
+Sure, I do. That's the best part
+of the job, you know learning about people's lives.
+ແນ່ນອນ,ຂ້ອຍເຮັດ.ນັ້ນແມ່ນສ່ວນທີ່ດີທີ່ສຸດຂອງ
+ວຽກງານ,ເຈົ້າຮູ້ການຮຽນຮູ້ກ່ຽວກັບຊີວິດຂອງຄົນ.
 
 59
-00:04:08,350 --> 00:04:10,450
-[CAPTAIN CHERNICK]
+00:06:15,600 --> 00:06:23,300
+I'm a paranormal investigator.
+-Are you fucking serious? Really? What does that mean exactly?
+ຂ້ອຍເປັນນັກສືບສວນຄວາມຜິດປົກກະຕິ.
+- ເຈົ້າເວົ້າຈິງບໍ? ແທ້ໆບໍ? ນັ້ນໝາຍຄວາມວ່າແນວໃດແທ້ໆ?
+
+60
+00:06:24,200 --> 00:06:29,000
+Let me put it this way. I hunt and track down
+the strange and unusual.
+ຂໍໃຫ້ຂ້ອຍເວົ້າແບບນີ້.ຂ້ອຍລ່າແລະ
+ຕິດຕາມສິ່ງທີ່ແປກໃຈແລະຜິດປົກກະຕິ.
+
+61
+00:06:30,300 --> 00:06:35,500
+Speaking of strange and unusual that cab's
+been following us since we left the airport.
+ເວົ້າເຖິງເລື່ອງແປກໃຈແລະບໍ່ປົກກະຕິນັ້ນແທັກຊີກໍ
+າລັງຕິດຕາມພວກເຮົາຕັ້ງແຕ່ພວກເຮົາອອກຈາກສະໜາມບິນ.
+
+62
+00:06:35,500 --> 00:06:36,800
+-No shit?
+-No shit.
+- ບໍ່ມີຫຍັງບໍ?
+- ບໍ່ເປັນຫຍັງ.
+
+63
+00:06:38,200 --> 00:06:42,000
+You want me to lose him?
+-I wouldn't mind.
+ເຈົ້າຢາກໃຫ້ຂ້ອຍສູນເສຍລາວບໍ?
+- ຂ້ອຍບໍ່ເປັນຫຍັງ.
+
+64
+00:06:43,000 --> 00:06:44,800
+Let's do it.
+ມາເຮັດມັນ.
+
+65
+00:07:00,900 --> 00:07:03,900
+They really want something from you. Shit!
+ພວກເຂົາຢາກມີບາງສິ່ງບາງຢ່າງ
+ຈາກເຈົ້າແທ້ໆ.ສະບາຍດີ!
+
+66
+00:07:07,600 --> 00:07:09,200
+That's my cab, man!
+ນັ້ນແມ່ນແທັກຊີຂອງຂ້ອຍ, ຜູ້ຊາຍ!
+
+67
+00:07:12,700 --> 00:07:14,900
+My boss is gonna fucking kill me!
+ຫົວໜ້າຂອງຂ້ອຍຈະຂ້າຂ້ອຍ!
+
+68
+00:07:16,600 --> 00:07:18,900
+My insurance is not gonna cover this, man!
+ປະກັນໄພຂອງຂ້ອຍຈະບໍ່
+ປົກຄຸມສິ່ງນີ້,ຜູ້ຊາຍ!
+
+69
+00:07:18,900 --> 00:07:19,600
+Shit!
+ສະບາຍດີ!
+
+70
+00:07:19,600 --> 00:07:23,000
+Pull into this market up here.
+And kill someone?
+ຈັບເຂົ້າໄປໃນຕະຫຼາດນີ້
+ຢູ່ບ່ອນນີ້.ແລະຂ້າຄົນໃດບໍ?
+
+71
+00:07:49,700 --> 00:07:51,200
+Stay down!
+ຢູ່ລຸ່ມ!
+
+72
+00:08:01,900 --> 00:08:03,200
+You all right?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+73
+00:08:15,800 --> 00:08:17,000
+Where is he?
+ລາວຢູ່ໃສ?
+
+74
+00:11:39,100 --> 00:11:44,800
+Miss Cedrac, we got another delivery.
+-I don't have anything scheduled for today.
+ນາງເຊດຣັກ, ພວກເຮົາມີການຈັດສົ່ງອີກຄັ້ງ.
+- ຂ້ອຍບໍ່ມີຫຍັງວາງແຜນ ສໍາ ລັບມື້ນີ້.
+
+75
+00:11:45,000 --> 00:11:49,600
+What museum was it transferred from?
+-For Dr Hudgens from Dr Hudgens.
+ມັນຖືກໂອນຈາກຫໍພິພິທະພັນໃດ?
+- ສໍາລັບດຣ ຮູດເຈນສ໌ ຈາກດຣຮູດເຈັນສ໌.
+
+76
+00:11:49,800 --> 00:11:55,000
+That must be a mistake. It's probably for the big Abkani show.
+-Abkani? What is Abkani?
+ນັ້ນຕ້ອງເປັນຄວາມຜິດພາດ. ມັນອາດຈະເປັນ ສໍາ ລັບງານສະແດງ Abkani ທີ່ໃຫຍ່.
+- Abkani? Abkani ແມ່ນຫຍັງ?
+
+77
+00:11:55,700 --> 00:11:57,900
+It's an ancient Native American civilization.
+ມັນເປັນວັດທະນະທໍາ
+ພື້ນເມືອງອາເມລິກາບູຮານ.
+
+78
+00:11:58,100 --> 00:12:02,900
+They were, like, this super-advanced culture
+until, like, 10,000 years ago, they just disappeared.
+ພວກເຂົາເປັນວັດທະນະທໍາທີ່ກ້າວໜ້າຫຼາຍຈົນກວ່າ
+,ປະມານ 10 , 000 ປີກ່ອນ,ພວກເຂົາພຽງແຕ່ຫາຍໄປ.
+
+79
+00:12:03,900 --> 00:12:06,100
+It says it's only to be opened by Dr. Hudgens.
+ມັນເວົ້າວ່າມັນພຽງແຕ່ຈະຖືກ
+ເປີດໂດຍດຣຮູດເຈນສ໌ເທົ່ານັ້ນ.
+
+80
+00:12:06,200 --> 00:12:11,400
+This is Aline Cedrac. She's the assistant curator.
+-We have artifacts coming in from all around the world.
+ນີ້ແມ່ນອາລິນ ເຊດຣັກ. ນາງເປັນຜູ້ຊ່ວຍຄູອາຊີບ.
+- ພວກເຮົາມີວັດຖຸບູຮານທີ່ເຂົ້າມາຈາກທົ່ວໂລກ.
+
+81
+00:12:11,600 --> 00:12:14,500
+Until Hudgens gets back, I will be doing
+all his cataloging for him.
+ຈົນກວ່າຮັດເຈນສ໌ຈະກັບມາ,ຂ້ອຍຈະເຮັດການ
+ຈັດປະເພດທັງໝົດຂອງລາວສໍາລັບລາວ.
+
+82
+00:12:14,600 --> 00:12:17,300
+Hey, where is Hudgens anyway?
+The show opens in a couple days.
+ເຮ້,ຮູດເຈນສ໌ຢູ່ໃສຢ່າງໃດກໍ່ຕາມ
+?ການສະແດງເປີດໃນສອງສາມມື້.
+
+83
+00:12:17,500 --> 00:12:21,500
+He's off on another archaeological goose chase.
+He thinks he's finally found the Arabis..
+ລາວອອກໄປໃນການລ່າຫຼັງກຸ້ງບູຮານອີກຄັ້ງ
+.ລາວຄິດວ່າລາວໄດ້ພົບຊາວອາຣັບໃນທີ່ສຸດ..
+
+84
+00:12:21,800 --> 00:12:23,800
+So he sticks you with all the work.
+ສະນັ້ນລາວເຮັດໃຫ້ເຈົ້າເຮັດວຽກທັງ ໝົດ.
+
+85
+00:12:24,000 --> 00:12:27,200
+At least it takes your mind
+off your boyfriend, right?
+ຢ່າງໜ້ອຍມັນເຮັດໃຫ້ຈິດໃຈຂອງເຈົ້າ
+ອອກຈາກແຟນຂອງທ່ານ,ແມ່ນບໍ?
+
+86
+00:12:27,400 --> 00:12:30,800
+I'll be in my office
+if you need me.
+ຂ້ອຍຈະຢູ່ຫ້ອງການຂອງຂ້ອຍ
+ຖ້າເຈົ້າຕ້ອງການຂ້ອຍ.
+
+87
+00:12:30,800 --> 00:12:31,500
+Yeah.
+ແມ່ນແລ້ວ.
+
+88
+00:12:33,500 --> 00:12:37,800
+They say a sunken ship is like a grave.
+It should never be disturbed.
+ພວກເຂົາເວົ້າວ່າເຮືອທີ່ຈົມແມ່ນຄ້າຍຄື
+ກັບຝັງສົບ.ມັນບໍ່ຄວນຖືກລົບກວນເລີຍ.
+
+89
+00:12:38,000 --> 00:12:41,400
+I've been searching for the Arabis
+for over twenty years, Captain.
+ຂ້ອຍກໍາລັງຊອກຫາຊາວອາຣັບເປັນເວລາ
+ຫຼາຍກວ່າສິບປີແລ້ວ,ຄັບປິນ.
+
+90
+00:12:41,400 --> 00:12:45,900
+and now that I've found it, I'm afraid your
+ill-informed superstitions aren't enough to stop me.
+ແລະດຽວນີ້ທີ່ຂ້ອຍພົບມັນແລ້ວ,ຂ້ອຍຢ້ານວ່າຄວາມເຊື່ອຖື
+ບິດບາບທີ່ບໍ່ຖືກຕ້ອງຂອງທ່ານຈະບໍ່ພຽງພໍທີ່ຈະຢຸດຂ້ອຍ.
+
+91
+00:13:06,000 --> 00:13:09,300
+OK, Hudgens,
+let's see what we've got.
+ດີແລ້ວ,ຮູດເຈນສ໌,ມາ
+ເບິ່ງວ່າພວກເຮົາມີຫຍັງ.
+
+92
+00:14:37,000 --> 00:14:41,000
+Edward, it's John here. I don't know if you're
+back from wherever you were this time
+ເອດວາດ,ມັນແມ່ນຈອນຢູ່ນີ້.ຂ້ອຍບໍ່ຮູ້
+ວ່າເຈົ້າກັບມາຈາກບ່ອນໃດໃນຄັ້ງນີ້
+
+93
+00:14:41,000 --> 00:14:43,700
+but if you are, call me.
+ແຕ່ຖ້າເຈົ້າເປັນ, ໂທຫາຂ້ອຍ.
+
+94
+00:14:43,700 --> 00:14:49,600
+It's the nightmares. They've started again.
+I need to know if it's just me. Call me, please.
+ມັນເປັນຄວາມຝັນຮ້າຍ.ພວກເຂົາໄດ້ເລີ່ມຕົ້ນອີກເທື່ອໜຶ່ງ
+.ຂ້ອຍຕ້ອງຮູ້ວ່າມັນພຽງແຕ່ຂ້ອຍບໍ.ໂທຫາຂ້ອຍ,ກະລຸນາ.
+
+95
+00:15:16,400 --> 00:15:20,800
+Well, are you going to open it up? make
+sure it's what you're looking for?
+ດີ,ເຈົ້າຈະເປີດມັນບໍ?ໃຫ້ແນ່ໃຈວ່າມ
+ັນແມ່ນສິ່ງທີ່ເຈົ້າກໍາລັງຊອກຫາບໍ?
+
+96
+00:15:22,500 --> 00:15:27,900
+The conditions must be perfect.
+Otherwise, there may be consequences.
+ເງື່ອນໄຂຕ້ອງສົມບູນແບບ.
+ຖ້າບໍ່ດັ່ງນັ້ນ,ອາດຈະມີຜົນກະທົບ.
+
+97
+00:15:31,900 --> 00:15:34,600
 Is this made of solid gold?
 ນີ້ແມ່ນເຮັດດ້ວຍຄໍາແຂງບໍ?
 
-60
-00:04:10,950 --> 00:04:16,950
-[HUDGENS]
-Did you know the Abkani were the first civilization to use gold for their valuables? They believed it held the power to contain evil spirits. Thousands of years later, we don't even remember why gold was valuable to us in the first place. Now, let's load it onto the truck.
-ເຈົ້າຮູ້ບໍວ່າຄົນອາບຄານີແມ່ນວັດທະນະທໍາ ທໍາ ອິດທີ່ໃຊ້ຄໍາ ສໍາ ລັບສິ່ງທີ່ມີຄຸນຄ່າຂອງພວກເຂົາ? ພວກເຂົາເຊື່ອວ່າມັນມີພະລັງທີ່ຈະບັນຈຸຈິດວິນຍານຮ້າຍ
-. ຫຼາຍພັນປີຕໍ່ມາ, ພວກເຮົາບໍ່ຈື່ເລີຍວ່າເປັນຫຍັງຄໍາມີຄຸນຄ່າ ສໍາ ລັບພວກເຮົາໃນອັນດັບ ທໍາ ອິດ. ດຽວນີ້, ໃຫ້ໂຫຼດມັນໃສ່ລົດບັນທຸກ.
+98
+00:15:35,000 --> 00:15:39,700
+You know, the Abkani was the first civilization
+to use gold to house their valuables.
+ເຈົ້າຮູ້ແລ້ວ,ຊາວອາບຄານີແມ່ນວັດທະນະທໍາທໍາອິດທີ່
+ໃຊ້ຄໍາເພື່ອເກັບຮັກສາສິ່ງທີ່ມີຄຸນຄ່າຂອງພວກເຂົາ.
 
-61
-00:04:17,450 --> 00:04:23,450
-[ALINE]
-The pictograms are late-period Abkani. It seems to be some sort of... prophecy. Shadows that make ghosts of men. The world of light consumed by darkness. This is the first indication I've ever seen that the Abkani had a myth about the end of the world.
-ຮູບພາບແມ່ນອາບຄານີໃນໄລຍະຫຼ້າສຸດ. ມັນເບິ່ງຄືວ່າເປັນບາງຊະນິດຂອງ... ຄໍາ ພະຍາກອນ. ຄວາມເງົາທີ່ເຮັດໃຫ້ຈິດວິນຍານຂອງຜູ້ຊາຍ.
-ໂລກແສງສະຫວ່າງທີ່ຖືກບໍລິໂພກໂດຍຄວາມມືດ. ນີ້ແມ່ນການຊີ້ບອກຄັ້ງ ທໍາ ອິດທີ່ຂ້ອຍເຄີຍເຫັນວ່າອາບການີມີນິທານກ່ຽວກັບສິ້ນສຸດໂລກ.
+99
+00:15:39,800 --> 00:15:43,800
+They believed it held the power
+to contain evil spirits.
+ພວກເຂົາເຊື່ອວ່າມັນມີພະລັງ
+ທີ່ຈະຄວບຄຸມຈິດວິນຍານຮ້າຍ.
 
-62
-00:04:23,950 --> 00:04:28,500
-[CAPTAIN CHERNICK]
-If the container's made of gold, whatever's inside must be worth a fortune.
-ຖ້າຖັງແມ່ນເຮັດດ້ວຍຄໍາ, ສິ່ງໃດກໍ່ຕາມໃນພາຍໃນຕ້ອງມີມູນຄ່າຊັບສິນ.
+100
+00:15:44,100 --> 00:15:48,000
+Nowadays, we can't even remember.
+why we value gold in the first place.
+ໃນປະຈຸບັນ,ພວກເຮົາບໍ່ສາມາດຈື່ໄດ້ເລີຍວ່າເປັນ
+ຫຍັງພວກເຮົາຖືງຄໍາເປັນສິ່ງທີ່ສໍາຄັນທີ່ສຸດ.
 
-63
-00:04:29,000 --> 00:04:31,000
-[HUDGENS]
-You have no idea...
-ເຈົ້າບໍ່ຮູ້ເລີຍ...
+101
+00:15:48,100 --> 00:15:50,000
+Let's just load this on the truck.
+ພວກເຮົາພຽງແຕ່ໂຫຼດສິ່ງນີ້ໃສ່ລົດບັນທຸກ.
 
-64
-00:04:31,500 --> 00:04:33,950
-[CAPTAIN CHERNICK]
-But I'm looking forward to finding out.
-ແຕ່ຂ້ອຍ ກໍາ ລັງລໍຖ້າທີ່ຈະຮູ້.
+102
+00:16:23,200 --> 00:16:28,100
+If the container is made of solid gold
+whatever's inside must be worth a fortune.
+ຖ້າຖັງເຮັດດ້ວຍຄໍາທີ່ແຂງແຮງສິ່ງໃດກໍ່ຕາມ
+ທີ່ຢູ່ໃນພາຍໃນຕ້ອງມີມູນຄ່າເປັນຊັບສິນ.
 
-65
-00:04:34,450 --> 00:04:38,300
-[HUDGENS]
-I suppose one should not be surprised when mercenaries act mercenary.
-ຂ້ອຍຄິດວ່າຄົນຫນຶ່ງບໍ່ຄວນແປກໃຈເມື່ອທະຫານຈ້າງປະຕິບັດເປັນທະຫານຈ້າ.
+103
+00:16:28,300 --> 00:16:32,100
+Oh, you have no idea.
+-But I'm looking forward to finding out.
+ໂອ້, ເຈົ້າບໍ່ຮູ້ເລີຍ.
+- ແຕ່ຂ້ອຍຫວັງທີ່ຈະຮູ້.
 
-66
-00:04:38,800 --> 00:04:40,800
-[HUDGENS]
-You're making a terrible mistake.
-ເຈົ້າ ກໍາ ລັງເຮັດຄວາມຜິດພາດທີ່ຮ້າຍແຮງ.
+104
+00:16:34,000 --> 00:16:35,600
+Listen! You'll make a terrible mistake!
+ຟັງ! ເຈົ້າຈະເຮັດຄວາມຜິດພາດທີ່ຮ້າຍແຮງ!
 
-67
-00:04:41,300 --> 00:04:46,200
-[CAPTAIN CHERNICK]
-The only mistake would be letting you walk out with whatever's in there. Barnes...
-ຄວາມຜິດພາດດຽວຈະເປັນການປ່ອຍໃຫ້ເຈົ້າອອກໄປດ້ວຍສິ່ງໃດກໍ່ຕາມໃນນັ້ນ
-. ບາຣນສ໌...
+105
+00:16:35,800 --> 00:16:40,900
+The only mistake I'd be making is letting you
+walk out with whatever's inside. Throw him in there!
+ຄວາມຜິດພາດດຽວທີ່ຂ້ອຍຈະເຮັດແມ່ນປ່ອຍໃຫ້ເຈົ້າອອກໄປ
+ດ້ວຍສິ່ງໃດກໍ່ຕາມທີ່ຢູ່ໃນພາຍໃນ.ຖິ້ມລາວໄວ້ບ່ອນນັ້ນ!
 
-68
-00:04:46,700 --> 00:04:48,700
-[CAPTAIN CHERNICK]
-Throw him in there.
-ຖິ້ມລາວໄວ້ບ່ອນນັ້ນ.
+106
+00:16:42,600 --> 00:16:44,200
+Open it up, Captain.
+ເປີດມັນຂຶ້ນ, ຄັບປິນ.
 
-69
-00:04:49,200 --> 00:04:51,200
-[HUDGENS]
-Captain! Don't open it!
-ຄັບປິນ! ຢ່າເປີດມັນ!
+107
+00:16:44,200 --> 00:16:44,700
+Let's see what we've got.
+ມາເບິ່ງວ່າພວກເຮົາມີຫຍັງ.
 
-70
-00:04:51,700 --> 00:04:54,500
-[APTAIN CHERNICK]
-Let's see what all the fuss is about...
-ມາເບິ່ງວ່າຄວາມວຸ້ນວາຍທັງ ຫມົດ ແມ່ນຫຍັງ...
+108
+00:16:48,100 --> 00:16:49,800
+Don't open it!
+ຢ່າເປີດມັນ!
 
-71
-00:04:55,000 --> 00:04:57,000
-[LINDA]
+109
+00:17:14,000 --> 00:17:14,900
 John?
 ຈອນ?
 
-72
-00:04:57,500 --> 00:04:59,500
-[HUDGENS]
-They're faster than I thought...
-ພວກເຂົາໄວກວ່າທີ່ຂ້ອຍຄິດ...
+110
+00:19:10,600 --> 00:19:12,000
+Oh my God.
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ.
 
-73
-00:05:00,000 --> 00:05:02,000
-[CAPTAIN CHERNICK]
-Kill him.
-ຂ້າລາວ.
+111
+00:19:54,000 --> 00:19:57,000
+BUREAU 713
+AGENCY FOR PARANORMAL INVESTIGATIONS
+ຫ້ອງການ 713 ອົງການສໍ
+າລັບການສືບສວນພິເສດ
 
-74
-00:05:02,500 --> 00:05:04,500
-[BURKE]
-his better be good, Miles.
-ລາວດີກວ່າຈະດີ, ໄມລ໌ສ໌.
-
-75
-00:05:05,000 --> 00:05:08,500
-[AGENT MILES]
-Sir, we're getting some strange readings in the control room.
-ເຈົ້າ, ພວກເຮົາ ກໍາ ລັງໄດ້ຮັບການອ່ານທີ່ແປກໃຈບາງຢ່າງໃນຫ້ອງຄວບຄຸມ.
-
-76
-00:05:09,000 --> 00:05:13,900
-[BURKE]
-his is Bureau 713. "Strange" doesn't even crack my radar. Now what's the situation?
-ລາວແມ່ນຫ້ອງການ 713."ແປກໃຈ"
-ບໍ່ເຖິງແມ່ນວ່າຈະແຕກຣາດາຂອງຂ້ອຍ. ດຽວນີ້ສະຖານະການແມ່ນຫຍັງ?
-
-77
-00:05:14,400 --> 00:05:18,600
-[AGENT MILES]
-Well, sir, normal levels of paranormal activity range from three to five...
-ດີເດີ,
-ລະດັບປົກກະຕິຂອງການເຄື່ອນໄຫວພາວະທໍາມະຊາດແມ່ນຕັ້ງແຕ່ສາມຫາຫ້າ...
-
-78
-00:05:19,100 --> 00:05:23,300
-[BURKE]
-condescending) Yes Miles. And what level are the sensors picking up now?
-ແມ່ນແລ້ວ ໄມລ໌ສ໌. ແລະເຊັນເຊີ ກໍາ ລັງເພີ່ມລະດັບໃດດຽວນີ້?
-
-79
-00:05:23,800 --> 00:05:25,800
-[AGENT MILES]
-We don't know.
-ພວກເຮົາບໍ່ຮູ້.
-
-80
-00:05:26,300 --> 00:05:28,400
-[AGENT MILES]
-They only go up to 50.
-ພວກເຂົາພຽງແຕ່ຂຶ້ນເຖິງ 50 ເທົ່ານັ້ນ.
-
-81
-00:05:28,900 --> 00:05:31,000
-[BURKE]
-What are we looking at, Krashinsky?
+112
+00:20:04,600 --> 00:20:06,000
+What are we looking at, Krashinski?
 ພວກເຮົາ ກໍາ ລັງເບິ່ງຫຍັງ, ຄຣາຊິນສກີ?
 
-82
-00:05:31,500 --> 00:05:33,500
-[KRASH]
+113
+00:20:06,200 --> 00:20:09,000
 Electromagnetics off the scale, Commander.
-ເອເລັກໂຕຣເມັກນິກອອກຈາກລະດັບ, ຜູ້ບັນຊາການ.
+I've never seen anything like it.
+ເອເລັກໂຕຣເມັກເນັດຈາກຂະໜາດ,ຜູ້ບັນຊາການ
+.ຂ້ອຍບໍ່ເຄີຍເຫັນຫຍັງຄືກັບມັນເລີຍ.
 
-83
-00:05:34,000 --> 00:05:36,000
-[AGENT YONEK]
-Recalibrating sensors now, sir.
-ກໍາ ລັງປັບຕົວເຊັນເຊີຄືນດຽວນີ້ເດີເດີ.
+114
+00:20:09,100 --> 00:20:11,200
+Recalibrating all sensors now, sir.
+ກໍາ ລັງປັບຕົວເຊັນເຊີທັງ ໝົດ ດຽວນີ້ເດີ.
 
-84
-00:05:36,500 --> 00:05:41,050
-[SISTER CLARA]
-Still having trouble sleeping, Edward? You can't stay up all night, you know.
-ເຈົ້າຍັງມີຄວາມຫຍຸ້ງຍາກໃນການນອນບໍ, ເອດວາດ?
-ເຈົ້າບໍ່ສາມາດຢູ່ຕື່ນຕະຫຼອດຄືນໄດ້, ເຈົ້າຮູ້ແລ້ວ.
+115
+00:20:15,100 --> 00:20:18,800
+There's no malfunctions sir.
+These are accurate readings.
+ບໍ່ມີການເຮັດວຽກຜິດພາດເດີ.
+ນີ້ແມ່ນການອ່ານທີ່ຖືກຕ້ອງ.
 
-85
-00:05:41,550 --> 00:05:43,550
-[YOUNG EDWARD]
-Sister, something's happened.
-ເອື້ອຍ, ບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນ.
+116
+00:20:18,800 --> 00:20:20,100
+Jesus Christ.
+ພຣະເຢຊູຄຣິດ.
 
-86
-00:05:44,050 --> 00:05:46,050
-[SISTER CLARA]
-What is it, Edward?
-ມັນເປັນຫຍັງ, ເອດວາດ?
-
-87
-00:05:46,550 --> 00:05:49,350
-[YOUNG EDWARD]
-They're not gone anymore. The others are back.
-ພວກເຂົາບໍ່ໄດ້ໄປອີກແລ້ວ. ຄົນອື່ນກັບມາແລ້ວ.
-
-88
-00:05:49,850 --> 00:05:51,850
-[CARNBY]
+117
+00:20:29,300 --> 00:20:31,800
 Hello?
+-Did a shipment arrive for me today?
 ສະບາຍດີ?
+- ການຂົນສົ່ງໄດ້ມາຮອດຂ້ອຍມື້ນີ້ບໍ?
 
-89
-00:05:52,350 --> 00:05:54,350
-[LINDA]
-Edward, thank god!
-ເອດວາດ, ຂອບໃຈພຣະເຈົ້າ!
+118
+00:20:31,900 --> 00:20:34,700
+Oh, it's a fascinating piece, Dr. Hudgens.
+I started decoding the pictograms and-
+ໂອ້,ມັນເປັນສ່ວນທີ່ໜ້າສົນໃຈ,ດຣຮູດ
+ເຈນສ໌.ຂ້ອຍເລີ່ມ decoding ຮູບພາບແລະ-
 
-90
-00:05:54,850 --> 00:05:56,850
-[CARNBY]
-Linda, what's wrong?
-ລິນດາ, ມີຫຍັງເກີດຂຶ້ນ?
+119
+00:20:34,900 --> 00:20:38,100
+Who told you to do that?
+That crate was not to be opened.
+ໃຜບອກເຈົ້າໃຫ້ເຮັດແບບນັ້ນ
+?ກະຕູ້ນັ້ນບໍ່ຄວນເປີດ.
 
-91
-00:05:57,350 --> 00:06:03,350
-[LINDA]
-It's John. I woke up and... he's just gone. All his clothes are here. His car's in the garage. It's like he just got up in the middle of the night and walked out.
-ມັນເປັນຈອນ. ຂ້ອຍຕື່ນຂຶ້ນແລະ... ລາວພຽງແຕ່ໄປແລ້ວ. ເຄື່ອງນຸ່ງຫົ່ມຂອງລາວທັງ ຫມົດ
-ຢູ່ບ່ອນນີ້. ລົດຂອງລາວຢູ່ໃນ garage. ມັນຄືກັບວ່າລາວພຽງແຕ່ຕື່ນໃນກາງຄືນແລະອອກໄປ.
+120
+00:20:38,100 --> 00:20:39,400
+Yeah, but I was only just gonna catalog it for you.
+ແມ່ນແລ້ວ,ແຕ່ຂ້ອຍພຽງແຕ່ຈະ
+ລະບຸມັນສໍາລັບເຈົ້າເທົ່ານັ້ນ.
 
-92
-00:06:03,850 --> 00:06:06,650
-[CARNBY]
-I'll figure this out, Linda. I'll find John.
-ຂ້ອຍຈະຄິດເລື່ອງນີ້, ລິນດາ. ຂ້ອຍຈະຊອກຫາຈອນ.
+121
+00:20:39,400 --> 00:20:42,100
+It's not your place to question my instructions, miss Cedrac.
+ມັນບໍ່ແມ່ນບ່ອນຂອງທ່ານທີ່ຈະສົງໄສ
+ຄໍາແນະນໍາຂອງຂ້ອຍ,ນາງເຊດຣັກ.
 
-93
-00:06:07,150 --> 00:06:13,150
-[LINDA]
-Edward... you've known each other since you were kids. Did he... did he tell you he was leaving me?
-ເອດວາດ... ເຈົ້າຮູ້ຈັກກັນຕັ້ງແຕ່ເຈົ້າເປັນເດັກນ້ອຍ
-. ລາວ... ລາວບອກເຈົ້າວ່າລາວຈະອອກຈາກຂ້ອຍບໍ?
+122
+00:20:42,200 --> 00:20:45,200
+Leave the tablet alone.
+I'll catalog it myself when I get back
+ປ່ອຍແທັບເລັດໄວ້ຢ່າງສະຫງົບ.ຂ້ອຍ
+ຈະບັນທຶກມັນເອງເມື່ອຂ້ອຍກັບມາ
 
-94
-00:06:13,650 --> 00:06:15,650
-[CARNBY]
+123
+00:20:45,400 --> 00:20:46,900
+But, Dr. Hudgens, I-
+ແຕ່, ດຣ ຮູດເຈນສ໌, ຂ້ອຍ...
+
+124
+00:20:54,200 --> 00:20:56,800
+Sir I found them.
+Sister Clara, something's happened.
+ເຈົ້າຂ້ອຍພົບພວກມັນ.ເອື້ອຍຄ
+ລາຣາ,ບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນ.
+
+125
+00:20:56,800 --> 00:20:58,300
+The others are back.
+ຄົນອື່ນກັບມາແລ້ວ.
+
+126
+00:21:22,800 --> 00:21:23,600
+Yeah?
+ແມ່ນແລ້ວບໍ?
+
+127
+00:21:23,600 --> 00:21:27,900
+Edward. Thank God.
+-Hey, Linda. What's wrong?
+ເອດວາດ. ຂອບໃຈພຣະເຈົ້າ.
+- ເຮ້, ລິນດາ. ມີຫຍັງເກີດຂຶ້ນ?
+
+128
+00:21:28,100 --> 00:21:31,300
+It's John. I woke up,
+and he's just gone.
+ມັນເປັນຈອນ.ຂ້ອຍຕື່ນຂຶ້ນ
+,ແລະລາວພຽງແຕ່ໄປແລ້ວ.
+
+129
+00:21:31,500 --> 00:21:34,100
+All of his clothes are here,
+His car's in the garage...
+ເຄື່ອງນຸ່ງຫົ່ມຂອງລາວທັງໝົດ
+ຢູ່ບ່ອນນີ້,ລົດຂອງລາວຢູ່ໃນ garage ...
+
+130
+00:21:34,200 --> 00:21:38,600
+...It's like he just got up
+in the middle of the night and walked out.
+ມັນຄ້າຍຄືກັບວ່າລາວຫາກໍ່
+ຕື່ນຂຶ້ນໃນກາງຄືນແລະອອກໄປ.
+
+131
+00:21:38,800 --> 00:21:40,800
+I'll be right over.
+ຂ້ອຍຈະມາທັນທີ.
+
+132
+00:21:46,100 --> 00:21:50,100
+According to Abkani legend, when they opened the
+gate between our world and the world of darkness
+ອີງຕາມນິທານ Abkani ,ເມື່ອພວກເຂົາເປີດ
+ປະຕູລະຫວ່າງໂລກຂອງພວກເຮົາແລະໂລກຄວາມມືດ
+
+133
+00:21:50,500 --> 00:21:54,300
+a few people survived by joining forces
+with the creaturesfrom the other side.
+ບາງຄົນໄດ້ລອດຊີວິດໂດຍການຮ່ວມ
+ກໍາລັງກັບສັດຈາກອີກຝ່າຍໜຶ່ງ.
+
+134
+00:21:54,400 --> 00:21:58,000
+They gained supernatural power
+but lost their humanity.
+ພວກເຂົາໄດ້ຮັບພະລັງພົ້ນຈາກທໍາມະຊາດ
+ແຕ່ໄດ້ສູນເສຍມະນຸດສະທໍາຂອງພວກເຂົາ.
+
+135
+00:21:58,100 --> 00:22:01,000
+That would explain the man who
+tried to kill me this morning.
+ນັ້ນຈະອະທິບາຍຜູ້ຊາຍທີ່
+ພະຍາຍາມຂ້າຂ້ອຍໃນຕອນເຊົ້ານີ້.
+
+136
+00:22:01,300 --> 00:22:05,000
+I have this bad feeling that's what's happened
+to John and the others.
+ຂ້ອຍມີຄວາມຮູ້ສຶກບໍ່ດີວ່ານັ້ນແມ່ນ
+ສິ່ງທີ່ເກີດຂຶ້ນກັບຈອນແລະຄົນອື່ນ.
+
+137
+00:22:07,600 --> 00:22:11,400
+Edward, you've known each other
+since you were kids. Did he...
+ເອດວາດ,ເຈົ້າຮູ້ຈັກກັນຕັ້ງແຕ່
+ເຈົ້າເປັນເດັກນ້ອຍ.ລາວ...
+
+138
+00:22:11,600 --> 00:22:13,800
+Did he tell you
+he was leaving me?
+ລາວບອກເຈົ້າວ່າລາວຈະອອກຈາກຂ້ອຍບໍ?
+
+139
+00:22:13,900 --> 00:22:16,900
 Of course not.
-ແມ່ນແລ້ວບໍ່.
+-Then where is he, Edward?
+ແນ່ນອນວ່າບໍ່ແມ່ນ.
+- ຫຼັງຈາກນັ້ນລາວຢູ່ໃສ, ເອດວາດ?
 
-95
-00:06:16,150 --> 00:06:18,950
-[LINDA]
-Then where is he, Edward? What's going on?
-ຫຼັງຈາກນັ້ນລາວຢູ່ໃສ, ເອດວາດ? ເກີດຫຍັງຂຶ້ນ?
+140
+00:22:17,000 --> 00:22:18,800
+What is going on?
+ເກີດຫຍັງຂຶ້ນ?
 
-96
-00:06:19,450 --> 00:06:21,450
-[SISTER CLARA]
+141
+00:22:21,000 --> 00:22:21,600
+I'll figure this out. I'll find John. Don't worry.
+ຂ້ອຍຈະຄິດເລື່ອງນີ້.ຂ້ອຍ
+ຈະຊອກຫາຈອນ.ຢ່າກັງວົນ.
+
+142
+00:22:21,600 --> 00:22:25,600
+I'll figure this out. I'll find John. Don't worry
+ຂ້ອຍຈະຄິດເລື່ອງນີ້.ຂ້ອຍ
+ຈະຊອກຫາຈອນ.ຢ່າກັງວົນ
+
+143
+00:22:27,900 --> 00:22:28,900
+Ok.
+ໂອເຄ
+
+144
+00:22:42,600 --> 00:22:44,300
+Fischer here.
+-Hey, Fisch. It's Carnby.
+ຟິສເກີຢູ່ບ່ອນນີ້.
+- ເຮ້, ຟິສກ໌. ມັນແມ່ນຄາຣນບີ.
+
+145
+00:22:44,600 --> 00:22:47,900
+-Edward
+-know it's been a while. You gotta do me a favor.
+- ເອດວາດ
+- ຂ້ອຍຮູ້ວ່າເປັນເວລາດົນນານແລ້ວ. ເຈົ້າຕ້ອງເຮັດຄວາມຊ່ວຍເຫຼືອຂ້ອຍ.
+
+146
+00:22:48,100 --> 00:22:51,000
+I haven't heard from you
+since you left 713. What's up?
+ຂ້ອຍບໍ່ໄດ້ຍິນຈາກເຈົ້າຕັ້ງແຕ່
+ເຈົ້າອອກຈາກ 713 .ມີຫຍັງເກີດຂຶ້ນ?
+
+147
+00:22:51,200 --> 00:22:54,200
+A friend of mine who grew up in my
+orphanage disappeared last night.
+ເພື່ອນຂອງຂ້ອຍທີ່ເຕີບໃຫຍ່ຢູ່ໃນເຮືອນ
+ເດັກເຖົ້າຂອງຂ້ອຍຫາຍໄປໃນມື້ວານນີ້.
+
+148
+00:22:54,200 --> 00:22:55,200
+His name's John Dillon.
+ຊື່ລາວແມ່ນຈອນ ດີລອນ.
+
+149
+00:22:55,200 --> 00:22:56,700
+Can you try to dig up
+some information?
+ເຈົ້າສາມາດພະຍາຍາມຂຸດຄົ້ນ
+ຂໍ້ມູນບາງຢ່າງໄດ້ບໍ?
+
+150
+00:22:56,900 --> 00:23:00,300
+They'll kill me if they
+find out, but let me check.
+ພວກເຂົາຈະຂ້າຂ້ອຍຖ້າພວກເຂົາ
+ຮູ້ວ່າ,ແຕ່ໃຫ້ຂ້ອຍກວດເບິ່ງ.
+
+151
+00:23:00,600 --> 00:23:04,600
+All right. I have to take a trip down memory lane.
+I'll meet you at 3:00 at our old hangout. OK?
+ດີແລ້ວ.ຂ້ອຍຕ້ອງເດີນທາງໄປຕາມເສັ້ນທາງຄວາມຊົງຈໍາ.ຂ້ອຍຈະ
+ພົບເຈົ້າໃນເວລາ 3 : 00 ຢູ່ບ່ອນພົບກັນເກົ່າຂອງພວກເຮົາ.ດີບໍ?
+
+152
+00:23:04,800 --> 00:23:07,100
+-Please take care, Edward.
+-I'll see you then.
+- ກະລຸນາເບິ່ງແຍງຕົວເອງ, ເອດວາດ.
+- ຂ້ອຍຈະເຫັນເຈົ້າໃນເວລານັ້ນ.
+
+153
+00:23:12,200 --> 00:23:19,100
+One, two, three.
+Bluebells, cockle shells eevie, ivy, over.
+ໜຶ່ງ,ສອງ,ສາມ. Bluebells ,
+shells cockle eevie , ivy , over .
+
+154
+00:23:19,100 --> 00:23:21,900
+I like coffee, I like tea...
+ຂ້ອຍມັກກາເຟ, ຂ້ອຍມັກຊາ...
+
+155
+00:23:35,200 --> 00:23:39,200
 Welcome home, Edward.
+-Should I make some tea?
 ຍິນດີຕ້ອນຮັບກັບບ້ານ, ເອດວາດ.
+- ຂ້ອຍຄວນເຮັດຊາບໍ?
 
-97
-00:06:21,950 --> 00:06:23,950
-[SOPHIE]
-Should I make some tea?
-ຂ້ອຍຄວນເຮັດຊາບໍ?
-
-98
-00:06:24,450 --> 00:06:26,450
-[SISTER CLARA]
+156
+00:23:39,500 --> 00:23:41,100
 Yes. Thank you, Sophie.
 ແມ່ນແລ້ວ. ຂອບໃຈ, ໂຊຟີ.
 
-99
-00:06:26,950 --> 00:06:30,800
-[SISTER CLARA]
-Let me get a look at you. Are you sleeping enough?
-ຂໍໃຫ້ຂ້ອຍເບິ່ງເຈົ້າ. ເຈົ້ານອນພຽງພໍບໍ?
+157
+00:23:41,200 --> 00:23:45,200
+Let me look at you
+You've been getting enough sleep?
+ຂໍໃຫ້ຂ້ອຍເບິ່ງເຈົ້າ ເຈົ້ານອນພຽງພໍບໍ?
 
-100
-00:06:31,300 --> 00:06:35,500
-[CARNBY]
-Sister... John disappeared last night. And something happened to me as well.
-ເອື້ອຍ... ຈອນຫາຍໄປໃນມື້ວານນີ້.
-ແລະບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນກັບຂ້ອຍເຊັ່ນກັນ.
+158
+00:23:46,800 --> 00:23:54,500
+Sister, John disappeared last night,
+and something happened to me as well
+ເອື້ອຍ,ຈອນຫາຍໄປໃນມື້ວານນີ້,ແລະ
+ບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນກັບຂ້ອຍເຊັ່ນກັນ
 
-101
-00:06:36,000 --> 00:06:38,000
-[SISTER CLARA]
+159
+00:23:56,500 --> 00:23:58,500
 It's happening again.
-ມັນເກີດຂຶ້ນອີກເທື່ອຫນຶ່ງ.
+ມັນເກີດຂຶ້ນອີກເທື່ອໜຶ່ງ.
 
-102
-00:06:38,500 --> 00:06:42,350
-[CARNBY]
-I need your help, Sister. I need to find the others.
-ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ, ເອື້ອຍ. ຂ້ອຍຕ້ອງຊອກຫາຄົນອື່ນ.
+160
+00:24:00,600 --> 00:24:05,200
+I need your help.
+I want to find the others.
+ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອ
+ຂອງທ່ານ.ຂ້ອຍຢາກຊອກຫາຄົນອື່ນ.
 
-103
-00:06:42,850 --> 00:06:44,850
-[SISTER CLARA]
+161
+00:24:06,200 --> 00:24:09,300
 I'll get their files.
-ຂ້ອຍຈະເອົາເອກະສານຂອງພວກເຂົາ.
+Come on.
+ຂ້ອຍຈະເອົາເອກະສານຂອງພວກເຂົາ. ມາແລ້ວ.
 
-104
-00:06:45,350 --> 00:06:48,850
-[CARNBY]
+162
+00:24:13,500 --> 00:24:16,900
+It's good to see you, Edward.
+You should visit more often.
+ດີໃຈທີ່ເຫັນເຈົ້າ,ເອດວາດ.
+ເຈົ້າຄວນໄປຢ້ຽມຢາມຫຼາຍຂຶ້ນ.
+
+163
+00:24:19,300 --> 00:24:23,300
+Yeah, that is very strange huh?
+He just disappeared.
+ແມ່ນແລ້ວ,ນັ້ນແມ່ນແປກໃຈ
+ຫຼາຍແມ່ນບໍ?ລາວພຽງແຕ່ຫາຍໄປ.
+
+164
+00:24:24,700 --> 00:24:29,600
+I understand you must be very concerned
 I'll let you know as soon as I hear something.
-ຂ້ອຍຈະບອກເຈົ້າທັນທີທີ່ຂ້ອຍໄດ້ຍິນບາງສິ່ງບາງຢ່າງ.
+ຂ້ອຍເຂົ້າໃຈວ່າເຈົ້າຕ້ອງກັງວົນຫຼາຍຂ້ອຍຈະ
+ບອກເຈົ້າທັນທີທີ່ຂ້ອຍໄດ້ຍິນບາງສິ່ງບາງຢ່າງ.
 
-105
-00:06:49,350 --> 00:06:51,450
-[FISCHER]
+165
+00:24:30,200 --> 00:24:32,000
+Ok thank you.
+ດີແລ້ວ ຂອບໃຈ.
+
+166
+00:24:40,800 --> 00:24:44,100
+I was recruited into Bureau 713
+when I was 20.
+ຂ້ອຍຖືກຈ້າງເຂົ້າໄປໃນຫ້ອງ
+ການ 713 ເມື່ອຂ້ອຍອາຍຸ 20 ປີ.
+
+167
+00:24:44,300 --> 00:24:46,900
+I learned everything I could
+about the paranormal.
+ຂ້ອຍໄດ້ຮຽນຮູ້ທຸກຢ່າງທີ່ຂ້ອຍ
+ສາມາດເຮັດໄດ້ກ່ຽວກັບສິ່ງແປກໃຈ.
+
+168
+00:24:47,100 --> 00:24:51,000
+I was a good agent, but it didn't get me
+any closer to the truth.
+ຂ້ອຍເປັນຕົວແທນທີ່ດີ,ແຕ່ມັນບໍ່ໄດ້
+ເຮັດໃຫ້ຂ້ອຍໃກ້ຊິດກັບຄວາມຈິງ.
+
+169
+00:24:51,200 --> 00:24:55,200
+Every time I uncovered a new Abkani artifact
+it immediately got classified.
+ທຸກຄັ້ງທີ່ຂ້ອຍພົບວັດຖຸບູຮານ
+ໃໝ່ຂອງອາບຄານີມັນຖືກປິດລັບທັນທີ.
+
+170
+00:24:55,600 --> 00:25:00,500
+I realized I'd never get
+the answers I was looking for with 713 calling the shots.
+ຂ້ອຍຮູ້ວ່າຂ້ອຍຈະບໍ່ໄດ້ຮັບຄໍາຕອບທີ່
+ຂ້ອຍກໍາລັງຊອກຫາກັບ 713 ທີ່ເອີ້ນການຍິງ.
+
+171
+00:25:03,500 --> 00:25:05,900
 Why did I agree to this?
 ຂ້ອຍເຫັນດີກັບສິ່ງນີ້ເປັນຫຍັງ?
 
-106
-00:06:51,950 --> 00:06:54,400
-[CARNBY]
-I ordered for you, Fischer. It's pecan.
-ຂ້ອຍສັ່ງສໍາລັບເຈົ້າ, ຟິສເກີ. ມັນແມ່ນປາການ.
+172
+00:25:06,100 --> 00:25:11,800
+Come on, Fisch. It's a beautiful day.
+I ordered your favorite. It's pecan right?
+ມາແລ້ວ,ຟິສກ໌.ມັນເປັນມື້ທີ່ສວຍງາມ.ຂ້ອຍ
+ສັ່ງອາຫານທີ່ທ່ານມັກທີ່ສຸດ.ມັນແມ່ນ pecan ແມ່ນບໍ?
 
-107
-00:06:54,900 --> 00:06:57,000
-[FISCHER]
-You've got a good memory, Carnby.
-ເຈົ້າມີຄວາມຊົງຈໍາທີ່ດີ, ຄາຣນບີ.
+173
+00:25:14,900 --> 00:25:18,900
+You have a good memory, Carnby.
+It's all in the details, right?
+ເຈົ້າມີຄວາມຊົງຈໍາທີ່ດີ,ຄານບີ.
+ມັນທັງໝົດຢູ່ໃນລາຍລະອຽດ,ແມ່ນບໍ?
 
-108
-00:06:57,500 --> 00:07:03,500
-[FISCHER]
-I tracked down the three you asked about. They all disappeared last night. Same story. No suitcase. No car. Just up and walked out in the middle of the night.
-ຂ້ອຍໄດ້ຕິດຕາມສາມຄົນທີ່ເຈົ້າຖາມກ່ຽວກັບ. ພວກເຂົາທັງ ຫມົດ ໄດ້ຫາຍໄປໃນມື້ວານນີ້
-. ເລື່ອງດຽວກັນ. ບໍ່ມີກະເປົາ. ບໍ່ມີລົດ. ພຽງແຕ່ຂຶ້ນແລະອອກໄປໃນກາງຄືນ.
+174
+00:25:19,800 --> 00:25:25,400
+I tracked down the three you asked me about
+They all disappeared last night.
+ຂ້ອຍໄດ້ຕິດຕາມສາມຄົນທີ່ເຈົ້າຖາມຂ້ອຍ
+ກ່ຽວກັບພວກເຂົາທັງໝົດໄດ້ຫາຍໄປໃນມື້ວານນີ້.
 
-109
-00:07:04,000 --> 00:07:06,100
-[CARNBY]
-That means all nineteen are missing.
-ນັ້ນຫມາຍຄວາມວ່າທັງຫມົດສິບເກົ້າຄົນຫາຍສາບສູນ.
+175
+00:25:26,000 --> 00:25:27,800
+Same story-
+ເລື່ອງດຽວກັນ...
 
-110
-00:07:06,600 --> 00:07:12,600
-[FISCHER]
-I ran full cross-references. Nothing much in common between them. Except they all grew up in the same orphanage. Your orphanage. What's going on, Carnby?
-ຂ້ອຍໄດ້ເຮັດການອ້າງອີງຂ້າມກັນຢ່າງເຕັມທີ່. ບໍ່ມີຫຍັງລວມກັນຫຼາຍລະຫວ່າງພວກເຂົາ. ຍົກເວັ້ນວ່າພວກເຂົາທັງ
-ຫມົດ ເຕີບໃຫຍ່ໃນໂຮງແຮມເດັກເຖົ້າດຽວກັນ. ໂຮງແຮມເດັກນ້ອຍຂອງທ່ານ. ເກີດຫຍັງຂຶ້ນ, ຄານບີ?
+176
+00:25:27,900 --> 00:25:34,000
+...no suitcase, no car just up and
+walked out into the light.
+ບໍ່ມີກະເປົາ,ບໍ່ມີລົດພຽງແຕ່
+ຂຶ້ນແລະຍ່າງອອກໄປສູ່ແສງສະຫວ່າງ.
 
-111
-00:07:13,100 --> 00:07:15,550
-[CARNBY]
-That's what I'm trying to find out.
-ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍ ກໍາ ລັງພະຍາຍາມຊອກຫາ.
+177
+00:25:36,100 --> 00:25:40,500
+So that means all nineteen are missing.
+-I did a full cross-reference too.
+ສະນັ້ນມັນໝາຍຄວາມວ່າທັງໝົດສິບເກົ້າຄົນຫາຍສາບສູນ.
+- ຂ້ອຍໄດ້ເຮັດການປຽບທຽບກັນຢ່າງເຕັມທີ່ເຊັ່ນກັນ.
 
-112
-00:07:16,050 --> 00:07:20,250
-[CARNBY]
-Thanks Fischer. It's good to know I've still got friends at 713.
-ຂອບໃຈຟິສເກີ. ດີໃຈທີ່ຮູ້ວ່າຂ້ອຍຍັງມີເພື່ອນຢູ່ 713
+178
+00:25:40,700 --> 00:25:46,700
+Nothing much in common except they all grew up
+in the same orphanage. Your orphanage.
+ບໍ່ມີຫຍັງຄ້າຍຄືກັນຫຼາຍຍົກເວັ້ນວ່າພວກເຂົາທັງໝົດເຕີ
+ບໃຫຍ່ໃນໂຮງໝໍເດັກເຖົ້າດຽວກັນ.ໂຮງໝໍເດັກນ້ອຍຂອງທ່ານ.
 
-113
-00:07:20,750 --> 00:07:22,750
-[ALINE]
-Hello?
-ສະບາຍດີ?
+179
+00:25:48,000 --> 00:25:50,400
+What's going on, Carnby?
+ເກີດຫຍັງຂຶ້ນ, ຄານບີ?
 
-114
-00:07:23,250 --> 00:07:25,700
-[HUDGENS]
-Did a shipment arrive for me today?
-ການຂົນສົ່ງມາຮອດຂ້ອຍມື້ນີ້ບໍ?
+180
+00:25:54,300 --> 00:25:56,800
+That's what I'm trying to figure out here.
+ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍກໍາລ
+ັງພະຍາຍາມຄິດຢູ່ບ່ອນນີ້.
 
-115
-00:07:26,200 --> 00:07:30,400
-[ALINE]
-It's a fascinating piece, Dr. Hudgens. I started decoding the pictograms and...
-ມັນເປັນກະດານທີ່ ຫນ້າ ສົນໃຈ, ດຣ ຮູດເຈນສ໌
-. ຂ້ອຍເລີ່ມ decoding ຮູບພາບແລະ...
+181
+00:25:58,600 --> 00:26:03,200
+Thanks, Fisch. I'll see you around.
+It's good to know I've still got friends at the 713.
+ຂອບໃຈຟິສສ໌.ຂ້ອຍຈະເຫັນເຈົ້າຢູ່ອ້ອມຂ້າງ.
+ດີໃຈທີ່ຮູ້ວ່າຂ້ອຍຍັງມີເພື່ອນຢູ່ທາງ 713 .
 
-116
-00:07:30,900 --> 00:07:35,450
-[HUDGENS]
-Who told you to do that? That crate was not to be opened.
-ໃຜບອກເຈົ້າໃຫ້ເຮັດແບບນັ້ນ? ກະຕູ້ນັ້ນບໍ່ຄວນເປີດ.
+182
+00:26:09,900 --> 00:26:13,000
+Miss Cedrac, there's someone here to see you.
+ນາງເຊດຣັກ,ມີຄົນ
+ຢູ່ບ່ອນນີ້ຢາກເຫັນເຈົ້າ.
 
-117
-00:07:35,950 --> 00:07:39,100
-[ALINE]
-I was only going to catalogue it for you.
-ຂ້ອຍພຽງແຕ່ຈະຈັດອັນດັບມັນ ສໍາ ລັບເຈົ້າເທົ່ານັ້ນ.
+183
+00:26:18,000 --> 00:26:18,800
+-Edward!
+- ເອດວາດ!
 
-118
-00:07:39,600 --> 00:07:45,600
-[HUDGENS]
-It's not your place to question my instructions, Ms. Cedrac. Leave the tablet alone. I'll catalogue it myself when I get back.
-ມັນບໍ່ແມ່ນບ່ອນຂອງທ່ານທີ່ຈະສົງໄສ ຄໍາ ແນະ ນໍາ ຂອງຂ້ອຍ, ນາງເຊດຣັກ
-. ຢ່າມາຍຸ້ງກັບແທັບເລັດ. ຂ້ອຍຈະບັນທຶກມັນເອງເມື່ອຂ້ອຍກັບມາ.
+184
+00:26:18,800 --> 00:26:20,800
+-Oh, God, I missed you.
+- ໂອ້ ພຣະເຈົ້າ, ຂ້ອຍຂາດເຈົ້າ.
 
-119
-00:07:46,100 --> 00:07:48,200
-[ALINE]
-But, Dr. Hudgens, I was just...
-ແຕ່, ດຣ ຮູດເຈນສ໌, ຂ້ອຍພຽງແຕ່...
+185
+00:26:24,000 --> 00:26:26,400
+I thought you were dead,
+you asshole.
+ຂ້ອຍຄິດວ່າເຈົ້າຕາຍແລ້ວ, ເຈົ້າໂຊກຮ້າຍ.
 
-120
-00:07:48,700 --> 00:07:50,800
-[GUARD]
-There's... somebody here to see you.
-ມີ... ມີຄົນຢູ່ບ່ອນນີ້ຢາກເຫັນເຈົ້າ.
+186
+00:26:26,400 --> 00:26:28,100
+God.
+ພຣະເຈົ້າ.
 
-121
-00:07:51,300 --> 00:07:53,300
-[ALINE]
-Edward...
-ເອດວາດ...
+187
+00:26:28,100 --> 00:26:31,500
+Just give me five minutes, all right?
+I can explain everything
+ໃຫ້ຂ້ອຍຫ້ານາທີ,ດີບໍ?ຂ້ອຍ
+ສາມາດອະທິບາຍທຸກຢ່າງໄດ້
 
-122
-00:07:53,800 --> 00:07:55,800
-[CARNBY]
-I missed you too.
-ຂ້ອຍຄິດຮອດເຈົ້າຄືກັນ.
+188
+00:26:31,600 --> 00:26:35,200
+In private, Rob.
+-Oh, I should... Yeah, I'm gonna go.
+ໃນສ່ວນຕົວ, ໂຣບ.
+- ໂອ້, ຂ້ອຍຄວນ... ແມ່ນແລ້ວ, ຂ້ອຍຈະໄປ.
 
-123
-00:07:56,300 --> 00:07:58,750
-[ALINE]
-I thought you were dead, you asshole!
-ຂ້ອຍຄິດວ່າເຈົ້າຕາຍແລ້ວ, ເຈົ້າໂຊກຮ້າຍ!
+189
+00:26:35,900 --> 00:26:39,800
+Give me one reason why I should
+ever even speak to you again?
+ໃຫ້ຂ້ອຍເຫດຜົນດຽວວ່າເປັນຫຍັງ
+ຂ້ອຍຄວນເວົ້າກັບເຈົ້າອີກຄັ້ງບໍ?
 
-124
-00:07:59,250 --> 00:08:01,350
-[CARNBY]
-Aline... let me explain. In private.
-ອາລິນ... ຂໍໃຫ້ຂ້ອຍອະທິບາຍ. ໃນສ່ວນຕົວ.
+190
+00:26:45,100 --> 00:26:47,200
+Look at this.
+ເບິ່ງສິ່ງນີ້.
 
-125
-00:08:01,850 --> 00:08:06,400
-[ALINE]
-Give me one reason why I'd ever want to speak to you again?
-ໃຫ້ຂ້ອຍເຫດຜົນດຽວວ່າເປັນຫຍັງຂ້ອຍຢາກເວົ້າກັບເຈົ້າອີກຄັ້ງບໍ?
+191
+00:26:51,600 --> 00:26:55,600
+I was in the Amazon for six weeks
+tracking down poacher across their transport lines.
+ຂ້ອຍຢູ່ໃນ Amazon ເປັນເວລາຫົກອາທິດຕິດຕາມ
+ຜູ້ລ່າສັດຂ້າມສາຍການຂົນສົ່ງຂອງພວກເຂົາ.
 
-126
-00:08:06,900 --> 00:08:08,900
-[ALINE]
-It's Abkani...
-ມັນເປັນອາບຄານີ...
+192
+00:26:55,900 --> 00:27:01,400
+Then I fell in with a group of ex-Chilean military
+who were selling artifacts on the black market.
+ຫຼັງຈາກນັ້ນຂ້ອຍໄດ້ພົບກັບກຸ່ມອະດີດທະຫານ
+ຊີລີຜູ້ທີ່ຂາຍວັດຖຸບູຮານໃນຕະຫຼາດສີດໍາ.
 
-127
-00:08:09,400 --> 00:08:11,850
-[CARNBY]
-Five minutes, Aline. I'll tell you everything.
-ຫ້ານາທີ, ອາລິນ. ຂ້ອຍຈະບອກເຈົ້າທຸກຢ່າງ.
+193
+00:27:01,600 --> 00:27:05,600
+That was found on the
+southern tip of Chile in a gold mine.
+ມັນຖືກພົບເຫັນຢູ່ຈຸດໃຕ້ຂອງຊິລີໃນບໍ່ຄໍາ.
 
-128
-00:08:12,350 --> 00:08:18,350
-[CARNBY]
-I was in the Amazon for six weeks, tracking poachers through their transport lines. Then I fell in with a group of ex- Chilean military selling artifacts on the black-market. This was found in a gold mine in the southern tip of Chile.
-ຂ້ອຍຢູ່ໃນ Amazon ເປັນເວລາຫົກອາທິດ, ຕິດຕາມພວກລ່າລັກລອບຜ່ານສາຍການຂົນສົ່ງຂອງພວກເຂົາ.
-ຫຼັງຈາກນັ້ນຂ້ອຍຕົກກັບກຸ່ມຂອງອະດີດທະຫານຊິເລຍຂາຍວັດຖຸບູຮານໃນຕະຫຼາດສີດໍາ. ນີ້ແມ່ນພົບໃນແຮ່ທາດຄໍາໃນຈຸດທາງໃຕ້ຂອງຊິເລ.
+194
+00:27:09,700 --> 00:27:11,700
+It's Abkani.
+ມັນເປັນອາບຄານີ.
 
-129
-00:08:18,850 --> 00:08:21,650
-[ALINE]
-And how did you end up with it?
-ແລະເຈົ້າສິ້ນສຸດລົງກັບມັນແນວໃດ?
+195
+00:27:12,000 --> 00:27:18,000
+You know, you could have called or even written
+just to let me know that you were alive.
+ເຈົ້າຮູ້ແລ້ວ,ເຈົ້າສາມາດໂທຫາຫຼືແມ້ກະທັ້ງ
+ຂຽນພຽງແຕ່ໃຫ້ຂ້ອຍຮູ້ວ່າເຈົ້າຍັງມີຊີວິດຢູ່.
 
-130
-00:08:22,150 --> 00:08:24,150
-[CARNBY]
-I asked very nicely.
-ຂ້ອຍຖາມຢ່າງດີຫຼາຍ.
+196
+00:27:23,300 --> 00:27:26,800
+Do the inscriptions make any sense to you?
+ຄໍາຂຽນມີຄວາມ ໝາຍ ໃດໆຕໍ່ເຈົ້າບໍ?
 
-131
-00:08:24,650 --> 00:08:29,550
-[ALINE]
-You should've called, Edward. Or written. Just to let me know you were alive.
-ເຈົ້າຄວນໂທ, ເອດວາດ. ຫຼືຂຽນ.
-ພຽງແຕ່ໃຫ້ຂ້ອຍຮູ້ວ່າເຈົ້າຍັງມີຊີວິດຢູ່.
+197
+00:27:27,600 --> 00:27:32,000
+I'm not sure. The thing is they're all from different locations
+ຂ້ອຍບໍ່ແນ່ໃຈ.ເລື່ອງແມ່ນພວກເຂົາທັງ
+ໝົດແມ່ນມາຈາກສະຖານທີ່ທີ່ແຕກຕ່າງກັນ
 
-132
-00:08:30,050 --> 00:08:32,500
-[CARNBY]
-Does it make any sense to you?
-ມັນມີຄວາມ ຫມາຍ ໃດໆບໍ?
+198
+00:27:32,200 --> 00:27:36,200
+Venezuela, Newfoundland, Alaska
+and now this one from Chile.
+ເວເນຊູເອລານິວຟາວນແລນອາລາສ
+ກາແລະດຽວນີ້ຄົນນີ້ມາຈາກຊິລີ.
 
-133
-00:08:33,000 --> 00:08:35,800
-[ALINE]
-Yesterday, maybe not. But something happened last night.
-ມື້ວານນີ້, ບາງທີບໍ່ແມ່ນ. ແຕ່ບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນໃນມື້ວານນັ້ນ.
+199
+00:27:36,500 --> 00:27:40,500
+10,000 years ago, that would have been like
+burying them at the ends of the earth.
+ເມື່ອ 10 , 000 ປີກ່ອນ,ມັນຄ້າຍຄື
+ກັບການຝັງພວກມັນຢູ່ແຄມໂລກ.
 
-134
-00:08:36,300 --> 00:08:41,900
-[ALINE]
-They were found in completely different locations. Alaska. Newfoundland. Venezuela. And now this one's from Chile.
-ພວກເຂົາຖືກພົບເຫັນໃນສະຖານທີ່ທີ່ແຕກຕ່າງກັນຢ່າງສົມບູນ.
-ອາລາສກາ. ນິວຟານແລນ. ເວເນຊູເອລາ. ແລະດຽວນີ້ຄົນນີ້ມາຈາກຊິລີ.
+200
+00:27:40,700 --> 00:27:45,900
+Yeah. But why? If you want someone to build a puzzle
+why would you hide the pieces so far apart?
+ແມ່ນແລ້ວ.ແຕ່ເປັນຫຍັງ?ຖ້າເຈົ້າຢາກໃຫ້ຄົນໃດສ້າງກະຕຸ້ນ
+ເປັນຫຍັງເຈົ້າຈຶ່ງເຊື່ອງຊິ້ນສ່ວນຕ່າງໆຢູ່ຫ່າງກັນຫຼາຍ?
 
-135
-00:08:42,400 --> 00:08:48,000
-[CARNBY]
-Ten thousand years ago, it would've been like burying them at the ends of the earth.
-ເມື່ອສິບພັນປີກ່ອນ, ມັນຈະເປັນຄືກັບການຝັງພວກມັນຢູ່ຈຸດສິ້ນສຸດຂອງໂລກ.
+201
+00:27:53,200 --> 00:27:55,000
+Now what?
+ດຽວນີ້ຫຍັງ?
 
-136
-00:08:48,500 --> 00:08:54,500
-[ALINE]
-The Abkani's written language is based on pictograms. Combinations of symbols to create different meanings. But there's one here I've never seen before.
-ພາສາທີ່ຂຽນຂອງ Abkani ແມ່ນອີງໃສ່ຮູບພາບ.
-ການປະສົມປະສານຂອງສັນຍາລັກເພື່ອສ້າງຄວາມຫມາຍທີ່ແຕກຕ່າງກັນ. ແຕ່ມີຫນຶ່ງທີ່ຂ້ອຍບໍ່ເຄີຍເຫັນກ່ອນ.
+202
+00:27:58,100 --> 00:28:01,600
+Is Rob trying to create a mood or something?
+ໂຣບກໍາລັງພະຍາຍາມສ້າງອາ
+ລົມຫຼືບາງສິ່ງບາງຢ່າງບໍ?
 
-137
-00:08:55,000 --> 00:08:57,800
-[CARNBY]
-You're not trying to seduce me, are you?
-ເຈົ້າບໍ່ໄດ້ພະຍາຍາມຊັກຊວນຂ້ອຍ, ແມ່ນບໍ?
-
-138
-00:08:58,300 --> 00:09:00,300
-[ALINE]
+203
+00:28:02,400 --> 00:28:04,100
 Give me that.
 ໃຫ້ຂ້ອຍນັ້ນ.
 
-139
-00:09:00,800 --> 00:09:02,800
-[ALINE]
-What is it?
-ມັນເປັນຫຍັງ?
+204
+00:28:19,000 --> 00:28:19,600
+Hello?
+ສະບາຍດີ?
 
-140
-00:09:03,300 --> 00:09:06,800
-[CARNBY]
-Hairs on the back of my neck just stood up.
-ຜົມຢູ່ດ້ານຫຼັງຂອງຄໍຂອງຂ້ອຍຫາກໍ່ຂຶ້ນ.
+205
+00:28:48,500 --> 00:28:49,200
+Hello?
+ສະບາຍດີ?
 
-141
-00:09:07,300 --> 00:09:11,150
-[ALINE]
-How come every time you show up, my life gets complicated?
-ເປັນຫຍັງທຸກຄັ້ງທີ່ເຈົ້າປາກົດຕົວ, ຊີວິດຂອງຂ້ອຍຈຶ່ງສັບສົນຂຶ້ນ?
+206
+00:29:00,600 --> 00:29:04,600
+Ms Cedrac...Mr Carnby?
+ນາງເຊດຣັກ... ທ້າວ ຄານບີບໍ?
 
-142
-00:09:11,650 --> 00:09:14,100
-[CARNBY]
+207
+00:29:29,900 --> 00:29:32,200
+What the hell's with the lights?
+ມີຫຍັງເກີດຂຶ້ນກັບແສງສະຫວ່າງ?
+
+208
+00:29:32,300 --> 00:29:36,300
+How come every time you show up,
+my life gets complicated?
+ເປັນຫຍັງທຸກຄັ້ງທີ່ເຈົ້າປາກົດ
+ຕົວ,ຊີວິດຂອງຂ້ອຍຈຶ່ງສັບສົນຂຶ້ນ?
+
+209
+00:29:36,500 --> 00:29:38,900
 I could ask you the same thing.
 ຂ້ອຍສາມາດຖາມເຈົ້າຄືກັນ.
 
-143
-00:09:14,600 --> 00:09:19,500
-[BREAKS.]
-The tail withdraws from the Guard. The Guard's body falls to the ground, dead.
-ຫລັງຖອນຕົວອອກຈາກຄົນປົກປ້ອງ. ສົບຂອງຄົນປົກຄອງຕົກລົງສູ່ພື້ນດິນ, ຕາຍ.
+210
+00:30:14,200 --> 00:30:16,000
+What is it?
+ມັນເປັນຫຍັງ?
 
-144
-00:09:20,000 --> 00:09:22,000
-[CARNBY]
-I think we'd better run...
-ຂ້ອຍຄິດວ່າພວກເຮົາຄວນແລ່ນ...
+211
+00:30:16,600 --> 00:30:20,600
+Nothing. The hair on the back
+of my neck just stood up.
+ບໍ່ມີຫຍັງເລີຍ.ຜົມຢູ່ດ້ານຫຼັງ
+ຄໍຂອງຂ້ອຍຫາກໍ່ຢືນຂຶ້ນ.
 
-145
-00:09:22,500 --> 00:09:24,500
-[CARNBY]
-Can't hold it...
-ຂ້ອຍບໍ່ສາມາດຖືໄດ້...
+212
+00:30:38,200 --> 00:30:38,900
+Hello?
+ສະບາຍດີ?
 
-146
-00:09:25,000 --> 00:09:27,450
-[CARNBY]
-Is there any way out of here?
-ມີທາງອອກໄປບໍ່?
+213
+00:30:57,600 --> 00:30:59,600
+Did you hear that?
+ເຈົ້າໄດ້ຍິນບໍ?
 
-147
-00:09:27,950 --> 00:09:32,500
-[ALINE]
-No! Why didn't you ask me that before you pushed me in here?
-ບໍ່!
-ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ຖາມຂ້ອຍກ່ອນທີ່ເຈົ້າຈະດັນຂ້ອຍເຂົ້າມາບ່ອນນີ້?
+214
+00:31:16,500 --> 00:31:17,200
+Rob!
+ໂຣບ!
 
-148
-00:09:33,000 --> 00:09:35,000
-[ALINE]
-What do you think?
-ເຈົ້າຄິດແນວໃດ?
+215
+00:31:20,400 --> 00:31:21,900
+Come on! Go! Go!
+ມາແລ້ວ. ໄປ! ໄປ!
 
-149
-00:09:35,500 --> 00:09:37,950
-[ALINE]
-Those doors lead to the front entrance.
-ປະຕູເຫຼົ່ານັ້ນພາໄປສູ່ທາງເຂົ້າທາງຫນ້າ.
+216
+00:31:41,200 --> 00:31:43,000
+What the hell was that?
+ນັ້ນແມ່ນຫຍັງ?
 
-150
-00:09:38,450 --> 00:09:40,450
-[AGENT BARR]
-Reading two xenos.
-ອ່ານສອງ xenos.
+217
+00:31:53,200 --> 00:31:56,900
+Get down! Come on! Lock the door!
+Get the key in there!
+ລົງລົງ!ມາແລ້ວ!ປິດປະຕູ!
+ເອົາປຸ່ມເຂົ້າມາບ່ອນນັ້ນ!
 
-151
-00:09:40,950 --> 00:09:42,950
-[KRASH]
-Confirmed.
-ຢືນຢັນແລ້ວ.
+218
+00:31:59,800 --> 00:32:01,500
+It's our only way
+out of here!
+ມັນເປັນວິທີດຽວທີ່
+ພວກເຮົາຈະອອກຈາກບ່ອນນີ້!
 
-152
-00:09:43,450 --> 00:09:45,450
-[AGENT CHEUNG]
-There!
-ນັ້ນແລ້ວ!
+219
+00:32:03,100 --> 00:32:04,700
+Aline!
+ອາລິນ!
 
-153
-00:09:45,950 --> 00:09:47,950
-[KRASH]
-Losing readings.
-ການສູນເສຍການອ່ານ.
+220
+00:32:09,600 --> 00:32:11,200
+-You all right?
+- ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
 
-154
-00:09:48,450 --> 00:09:50,900
-[AGENT BARR]
-Cheung! Marko! Don't let them get away!
-Cheung! ມາຣໂກ! ຢ່າປ່ອຍໃຫ້ພວກເຂົາຫນີໄປ!
+221
+00:32:12,100 --> 00:32:14,000
+-Yeah, I'm ok.
+- ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ເປັນຫຍັງ.
 
-155
-00:09:51,400 --> 00:09:53,500
-[KRASH]
-Readings gone. You lost them, Barr.
-ການອ່ານຫາຍໄປ. ເຈົ້າໄດ້ສູນເສຍພວກມັນ, ບາຣ໌.
+222
+00:33:07,800 --> 00:33:10,100
+I want a full security sweep of the area.
+ຂ້ອຍຢາກກວດສອບຄວາມປອດໄພ
+ຢ່າງເຕັມທີ່ໃນພື້ນທີ່.
 
-156
-00:09:54,000 --> 00:10:00,000
-[BURKE]
-I want a full security sweep. Miles, get Fischer to send his sci-and-spy boys down here. Now go.
-ຂ້ອຍຢາກກວດສອບຄວາມປອດໄພຢ່າງເຕັມທີ່. ໄມລ໌ສ໌,
-ໃຫ້ຟິສເກີສົ່ງເດັກຊາຍວິທະຍາສາດແລະນັກສືບຂອງລາວລົງມາບ່ອນນີ້. ດຽວນີ້ໄປ.
+223
+00:33:10,300 --> 00:33:13,600
+Miles, Call Fischer and tell
+him to get his boys down here now. Let's go!
+ໄມລ໌ສ໌,ໂທຫາຟິສເກີແລະບອກລາວໃຫ້ເອົາ
+ເດັກຊາຍຂອງລາວລົງມາບ່ອນນີ້ດຽວນີ້.ໄປ!
 
-157
-00:10:00,500 --> 00:10:03,300
-[BURKE]
-hat the hell are you doing here, Carnby?
-ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້, ຄາຣນບີ?
+224
+00:33:38,300 --> 00:33:40,400
+Scanners Clear?
+-Scanners clear.
+ເຄື່ອງສະແກນສະອາດບໍ?
+- ເຄື່ອງສະແກນສະອາດ.
 
-158
-00:10:03,800 --> 00:10:05,800
-[CARNBY]
-Hey Richie.
-ເຮ້ ຣິກຊີ.
+225
+00:33:49,200 --> 00:33:53,200
+What the hell are you doing here, Carnby?
+Hey, Burke. Good to see you too.
+ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້,ຄານບີ?
+ເຮ້,ບີກ.ດີໃຈທີ່ເຫັນເຈົ້າເຊັ່ນກັນ.
 
-159
-00:10:06,300 --> 00:10:08,750
-[BURKE]
-It's Commander Burke. This is my unit.
-ມັນເປັນຜູ້ບັນຊາການເບີກ. ນີ້ແມ່ນຫນ່ວຍງານຂອງຂ້ອຍ.
+226
+00:33:53,600 --> 00:33:56,600
+You shouldn't be here.
+This is my unit now.
+ເຈົ້າບໍ່ຄວນຢູ່ບ່ອນນີ້.ນີ້
+ແມ່ນໜ່ວຍງານຂອງຂ້ອຍດຽວນີ້.
 
-160
-00:10:09,250 --> 00:10:11,250
-[ALINE]
-They saved our lives.
-ພວກເຂົາໄດ້ຊ່ວຍຊີວິດພວກເຮົາ.
+227
+00:33:56,800 --> 00:34:01,200
+You must be very proud.
+-You used to be able to take care of yourself there, Carnby.
+ເຈົ້າຕ້ອງພາກພູມໃຈຫຼາຍ.
+- ເຈົ້າເຄີຍສາມາດເບິ່ງແຍງຕົວເອງໄດ້ບ່ອນນັ້ນ, ຄານບີ.
 
-161
-00:10:11,750 --> 00:10:17,700
-[BURKE]
-You used to be able to take care of yourself, Carnby. Gotten soft since you left 713?
-ເຈົ້າເຄີຍສາມາດເບິ່ງແຍງຕົວເອງໄດ້, ຄານບີ.
-ກາຍເປັນອ່ອນນຸ້ມນັບຕັ້ງແຕ່ເຈົ້າອອກຈາກ 713?
+228
+00:34:01,400 --> 00:34:04,800
+Got a little soft
+since you left 713?
+ເຈົ້າອ່ອນແອເລັກນ້ອຍ
+ຕັ້ງແຕ່ເຈົ້າອອກຈາກ 713 ບໍ?
 
-162
-00:10:18,200 --> 00:10:21,350
-[AGENT MILES]
-Ms. Cedrac, I'm Agent Miles. This is Commander Burke.
-ນາງເຊດຣັກ, ຂ້ອຍເປັນຕົວແທນແມລສ໌. ນີ້ແມ່ນຜູ້ບັນຊາການເບີກ.
+229
+00:34:05,000 --> 00:34:09,400
+You should take her to the medic
+and check that arm. This way.
+ເຈົ້າຄວນພານາງໄປຫາແພດແລະ
+ກວດເບິ່ງແຂນນັ້ນ.ທາງນີ້.
 
-163
-00:10:21,850 --> 00:10:25,700
-[BURKE]
-Aline Cedrac. Pleasure to meet you. How's the Ph.D. coming along?
-ອາລິນ ເຊດຣັກ. ດີໃຈທີ່ຮູ້ຈັກເຈົ້າ. PhD ກໍາ ລັງດໍາເນີນໄປແນວໃດ?
-
-164
-00:10:26,200 --> 00:10:28,200
-[ALINE]
-It's fine. Thanks.
-ບໍ່ເປັນຫຍັງ. ຂອບໃຈ.
-
-165
-00:10:28,700 --> 00:10:30,800
-[BURKE]
-Miles, get her to a medic.
-ໄມລ໌ສ໌, ເອົານາງໄປຫາແພດ.
-
-166
-00:10:31,300 --> 00:10:33,300
-[CARNBY]
+230
+00:34:11,300 --> 00:34:13,000
 I'll catch up.
 ຂ້ອຍຈະຈັບໄດ້.
 
-167
-00:10:33,800 --> 00:10:36,250
-[BURKE]
-Why am I still looking at you?
-ຂ້ອຍຍັງເບິ່ງເຈົ້າຢູ່ເປັນຫຍັງ?
+231
+00:34:13,600 --> 00:34:15,800
+Why are you still here?
+Why am I still here?
+ເຈົ້າຍັງຢູ່ນີ້ເປັນຫຍັງ?
+ຂ້ອຍຍັງຢູ່ບ່ອນນີ້ເປັນຫຍັງ?
 
-168
-00:10:36,750 --> 00:10:39,550
-[CARNBY]
-I need to know what those things are.
-ຂ້ອຍຕ້ອງຮູ້ວ່າສິ່ງເຫຼົ່ານັ້ນແມ່ນຫຍັງ.
+232
+00:34:15,900 --> 00:34:18,900
+I just got my ass chased around this
+goddamn museum by something I couldn't see.
+ຂ້ອຍຫາກໍ່ຖືກລ່າຫຼັງຢູ່ທົ່ວຫໍພິພິທະພັນນີ້
+ໂດຍບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍບໍ່ສາມາດເຫັນໄດ້.
 
-169
-00:10:40,050 --> 00:10:46,050
-[BURKE]
-That information's classified. If you were still an agent, you'd already know. But since you're not, stay out of my way.
-ຂໍ້ມູນນັ້ນເປັນລັບ. ຖ້າເຈົ້າຍັງເປັນຕົວແທນ, ເຈົ້າຈະຮູ້ແລ້ວ
-. ແຕ່ເພາະວ່າເຈົ້າບໍ່ແມ່ນ, ຢູ່ຫ່າງຈາກທາງຂອງຂ້ອຍ.
+233
+00:34:19,000 --> 00:34:22,800
+I want to know what the hell they are, what they're doing in
+the goddamn city! I want to know what 713 knows about it?
+ຂ້ອຍຢາກຮູ້ວ່າພວກເຂົາເປັນຫຍັງ,ພວກເຂົາກໍາລັງເຮັດ
+ຫຍັງໃນເມືອງ!ຂ້ອຍຢາກຮູ້ວ່າ 713 ຮູ້ຫຍັງກ່ຽວກັບມັນ?
 
-170
-00:10:46,550 --> 00:10:48,550
-[CARNBY]
-I'm asking nicely.
-ຂ້ອຍຂໍຢ່າງດີໆ.
+234
+00:34:23,000 --> 00:34:24,600
+You're not 713 anymore, OK? That information is classified.
+That means it's none of your fucking business!
+ເຈົ້າບໍ່ແມ່ນ 713 ອີກແລ້ວ,ດີບໍ?ຂໍ້ມູນນັ້ນເປັນ
+ຄວາມລັບ.ນັ້ນໝາຍຄວາມວ່າມັນບໍ່ແມ່ນເລື່ອງຂອງເຈົ້າ!
 
-171
-00:10:49,050 --> 00:10:51,050
-[BURKE]
-Get him out of here!
-ເອົາລາວອອກຈາກບ່ອນນີ້!
+235
+00:34:24,600 --> 00:34:28,600
+You're not 713 anymore, OK? That information is classified.
+That means it's none of our fucking business!
+ເຈົ້າບໍ່ແມ່ນ 713 ອີກແລ້ວ,ດີບໍ?ຂໍ້ມູນນັ້ນເປັນ
+ຄວາມລັບ.ນັ້ນໝາຍຄວາມວ່າມັນບໍ່ແມ່ນເລື່ອງຂອງພວກເຮົາ!
 
-172
-00:10:51,550 --> 00:10:54,700
-[CARNBY]
-You're right, Commander. I guess I have gone soft.
-ເຈົ້າເວົ້າຖືກຕ້ອງ, ຜູ້ບັນຊາການ. ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ອ່ອນແອແລ້ວ.
+236
+00:34:28,800 --> 00:34:34,000
+We've got this under control. Thank you!
+I don't need your help. Get him out of here, Marko.
+ພວກເຮົາຄວບຄຸມເລື່ອງນີ້ແລ້ວ.ຂອບໃຈ!ຂ້ອຍບໍ່ຕ້ອງການ
+ຄວາມຊ່ວຍເຫຼືອຂອງທ່ານ.ເອົາລາວອອກຈາກບ່ອນນີ້,ມາຣໂກ.
 
-173
-00:10:55,200 --> 00:10:57,650
-[ALINE]
-I want to finish studying those artifacts.
-ຂ້ອຍຢາກສິ້ນສຸດການສຶກສາວັດຖຸບູຮານເຫຼົ່ານັ້ນ.
+237
+00:34:34,200 --> 00:34:36,700
+I asked very nicely.
+ຂ້ອຍຖາມຢ່າງດີເລີດ.
 
-174
-00:10:58,150 --> 00:11:04,150
-[CARNBY]
-I need to find out what's happened to John and the others. Stay in contact. We'll meet up later.
-ຂ້ອຍຕ້ອງຮູ້ວ່າເກີດຫຍັງຂຶ້ນກັບຈອນແລະຄົນອື່ນ
-. ຮັກສາການຕິດຕໍ່ກັນ. ພວກເຮົາຈະພົບກັນຕໍ່ມາ.
+238
+00:34:38,500 --> 00:34:39,600
+Real tough, huh?
+ແຂງແຮງແທ້ໆ, ແມ່ນບໍ?
 
-175
-00:11:04,650 --> 00:11:07,450
-[ALINE]
-Commander, I need to get to my office.
-ຜູ້ບັນຊາການ, ຂ້ອຍຕ້ອງໄປຫ້ອງການຂອງຂ້ອຍ.
+239
+00:34:39,600 --> 00:34:41,300
+All right!
+ດີແລ້ວ!
 
-176
-00:11:07,950 --> 00:11:10,050
-[BURKE]
-The museum's quarantined until we're done.
-ຫໍພິພິທະພັນຖືກກັກກັນຈົນກວ່າພວກເຮົາຈະເຮັດແລ້ວ.
+240
+00:34:42,000 --> 00:34:46,800
+You're right, Buke. Maybe I have gotten soft
+ເຈົ້າເວົ້າຖືກຕ້ອງ,ບຸກເກີ
+.ບາງທີຂ້ອຍໄດ້ອ່ອນແອແລ້ວ
 
-177
-00:11:10,550 --> 00:11:16,500
-[ALINE]
-At least let me pack up my work. There's priceless artifacts in there. If they get damaged...
-ຢ່າງຫນ້ອຍປ່ອຍໃຫ້ຂ້ອຍເກັບວຽກຂອງຂ້ອຍໄວ້.
-ມີວັດຖຸປະດິດທີ່ບໍ່ມີຄ່າໃນນັ້ນ. ຖ້າພວກມັນຖືກເສຍຫາຍ...
+241
+00:34:46,900 --> 00:34:49,000
+You just keep walking.
+ເຈົ້າພຽງແຕ່ຍ່າງຕໍ່ໄປ.
 
-178
-00:11:17,000 --> 00:11:21,200
-[BURKE]
-If you notice anything out of the ordinary, let me know immediately.
-ຖ້າເຈົ້າເຫັນບາງສິ່ງບາງຢ່າງທີ່ຜິດປົກກະຕິ, ໃຫ້ຂ້ອຍຮູ້ທັນທີ.
+242
+00:34:49,700 --> 00:34:52,000
+Come on, Miles.
+Fucking prick.
+ມາແລ້ວ, ໄມລ໌ສ໌. ຄົນໂຊກຮ້າຍ.
 
-179
-00:11:21,700 --> 00:11:26,600
-[ALINE]
-I don't think I want to know your definition of out of the ordinary.
-ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍຢາກຮູ້ ຄໍາ ນິຍາມຂອງທ່ານກ່ຽວກັບການຜິດປົກກະຕິ.
+243
+00:34:54,400 --> 00:34:56,600
+Thank you very much, Burke.
+ຂອບໃຈຫຼາຍໆ, ບີກ.
 
-180
-00:11:27,100 --> 00:11:29,100
-[FISCHER]
+244
+00:35:10,000 --> 00:35:11,800
+-Hey!
+-Hi!
+- ເຮ້!
+- ສະບາຍດີ!
+
+245
+00:35:11,800 --> 00:35:16,200
+-You ok?
+-Yeah, I'm fine. I need to study those artifacts.
+- ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+- ແມ່ນແລ້ວ, ຂ້ອຍບໍ່ເປັນຫຍັງ. ຂ້ອຍຕ້ອງສຶກສາວັດຖຸບູຮານເຫຼົ່ານັ້ນ.
+
+246
+00:35:16,400 --> 00:35:20,400
+All right. I'm gonna go and figure out
+what's going on with John and the others.
+ດີແລ້ວ.ຂ້ອຍຈະໄປຄິດວ່າເກີດ
+ຫຍັງຂຶ້ນກັບຈອນແລະຄົນອື່ນ.
+
+247
+00:35:20,800 --> 00:35:23,800
+We'll hook up later, Ok?
+ພວກເຮົາຈະພົບກັນຕໍ່ມາ, ດີບໍ?
+
+248
+00:35:39,600 --> 00:35:42,300
 You shouldn't be here, Carnby.
-ເຈົ້າບໍ່ຄວນຢູ່ບ່ອນນີ້, ຄາຣນບີ.
+ເຈົ້າບໍ່ຄວນຢູ່ບ່ອນນີ້, ຄານບີ.
 
-181
-00:11:29,600 --> 00:11:34,850
-[CARNBY]
-I'm not here. Commander Burke is. Now what the hell is that thing inside him?
-ຂ້ອຍບໍ່ໄດ້ຢູ່ບ່ອນນີ້. ຜູ້ບັນຊາການເບີກແມ່ນ
-. ດຽວນີ້ສິ່ງນັ້ນໃນລາວແມ່ນຫຍັງ?
+249
+00:35:44,100 --> 00:35:47,200
+I'm not.
+Commander Burke is.
+ຂ້ອຍບໍ່ແມ່ນ. ຜູ້ບັນຊາການເບີກແມ່ນ.
 
-182
-00:11:35,350 --> 00:11:40,950
-[FISCHER]
-Your curiosity have anything to do with the fingerprint of yours I found on his corpse?
-ຄວາມຢາກຮູ້ຂອງທ່ານມີຫຍັງກ່ຽວຂ້ອງກັບນິ້ວມືຂອງທ່ານທີ່ຂ້ອຍພົບໃນສົບຂອງລາວບໍ
-?
+250
+00:35:47,400 --> 00:35:50,200
+Your curiosity have anything to do...
+ຄວາມຢາກຮູ້ສຶກຂອງທ່ານ
+ມີຫຍັງກ່ຽວຂ້ອງກັບ...
 
-183
-00:11:41,450 --> 00:11:46,700
-[CARNBY]
-The list of people I trust is short, Fischer. Is it about to get shorter?
-ບັນຊີລາຍຊື່ຂອງຄົນທີ່ຂ້ອຍເຊື່ອຖືແມ່ນສັ້ນ
-, ຟິສເກີ. ມັນ ກໍາ ລັງຈະສັ້ນລົງບໍ?
+251
+00:35:50,400 --> 00:35:54,800
+...With the fingerprint of yours
+I found on this corpse?
+ດ້ວຍນິ້ວມືຂອງທ່ານທີ່ຂ້ອຍພົບໃນສົບນີ້ບໍ?
 
-184
-00:11:47,200 --> 00:11:49,200
-[CARNBY]
-Have you I-D'd him?
-ເຈົ້າໄດ້ ID ລາວບໍ?
+252
+00:35:55,400 --> 00:36:01,700
+Fisch, the list of people I trust is short.
+I'm not making it shorter.
+ຟິສກ໌,ລາຍຊື່ຄົນທີ່ຂ້ອຍເຊື່ອຖືແມ່ນ
+ສັ້ນ.ຂ້ອຍຈະບໍ່ເຮັດໃຫ້ມັນສັ້ນລົງ.
 
-185
-00:11:49,700 --> 00:11:52,850
-[FISCHER]
-Yeah, we got dentals. Agent James Pinkerton. He's ex-713.
-ແມ່ນແລ້ວ, ພວກເຮົາມີແຂ້ວ. ຕົວແທນເຈມສ໌ ປິນເກີຕັນ. ລາວເປັນອະດີດ-713.
+253
+00:36:05,600 --> 00:36:10,000
+Have you I.D.'d him yet?
+we got his dentals.
+ເຈົ້າໄດ້ລະບຸລາວແລ້ວບໍ
+?ພວກເຮົາມີແຂ້ວຂອງລາວ.
 
-186
-00:11:53,350 --> 00:11:55,350
-[CARNBY]
-He was an agent? When?
-ລາວເປັນຕົວແທນບໍ? ເມື່ອໃດ?
+254
+00:36:10,200 --> 00:36:15,900
+Agent James Pinkerton.
+He's ex-713.
+ຕົວແທນເຈມສ໌ປິນເກີຕັນ
+.ລາວເປັນອະດີດ -713 .
 
-187
-00:11:55,850 --> 00:12:01,850
-[FISCHER]
-Went MIA twenty years ago. Presumed dead. I'm trying to get more intell, but his records are so classified, they're practically invisible. arnby takes the tongs from Fischer, holding open the skin. Fischer makes a series of incisions with the scalpel, disconnecting the spinal-worm from Pinkerton's spine.
-ໄປ MIA ເມື່ອສິບປີກ່ອນ. ຄາດວ່າຕາຍແລ້ວ. ຂ້ອຍ ກໍາ ລັງພະຍາຍາມທີ່ຈະໄດ້ຮັບຄວາມສະຫຼາດຫຼາຍຂຶ້ນ, ແຕ່ບັນທຶກຂອງລາວຖືກຈັດປະເພດຫຼາຍ,
-ພວກເຂົາເກືອບບໍ່ເຫັນໄດ້. ອາຣນບີເອົາກະດານຈາກຟິສເກີ, ຖືຜິວຫນັງເປີດ. ຟິດເຊີເຮັດການຕັດຊຸດ ຫນຶ່ງ ດ້ວຍກະຕ່າກະດູກ, ຕັດແມງໄມ້ຫຼັງຈາກຫຼັງຂອງປິນເກີຕັນ.
+255
+00:36:17,000 --> 00:36:21,400
+What? You telling me he was an agent? When?
+ຫຍັງ?ເຈົ້າບອກຂ້ອຍວ່າລາວ
+ເປັນຕົວແທນບໍ?ເມື່ອໃດ?
 
-188
-00:12:02,350 --> 00:12:04,450
-[CARNBY]
-It's fused with his nervous system.
-ມັນປະສົມປະສານກັບລະບົບປະສາດຂອງລາວ.
+256
+00:36:21,600 --> 00:36:24,800
+Went M.I.A. twenty years ago.
+ໄປ MIA ເມື່ອສິບປີກ່ອນ.
 
-189
-00:12:04,950 --> 00:12:07,750
-[FISCHER]
-I've never seen this kind of symbiosis before.
-ຂ້ອຍບໍ່ເຄີຍເຫັນການສັມພັນແບບນີ້ກ່ອນ.
+257
+00:36:25,000 --> 00:36:28,900
+His records are so classified,
+they're practically invisible.
+ບັນທຶກຂອງລາວເປັນຄວາມລັບຫຼາຍ,
+ພວກເຂົາເກືອບບໍ່ສາມາດເບິ່ງເຫັນໄດ້.
 
-190
-00:12:08,250 --> 00:12:10,250
-[FISCHER]
-Scanner's still reading something...
-ເຄື່ອງສະແກນຍັງອ່ານບາງສິ່ງບາງຢ່າງ...
+258
+00:36:29,100 --> 00:36:31,200
+Why the hell was he trying to kill me?
+ລາວພະຍາຍາມຂ້າຂ້ອຍເປັນຫຍັງ?
 
-191
-00:12:10,750 --> 00:12:13,200
-[HUDGENS]
-The Abkani never cease to amaze me.
-ຄົນອາບຄານີບໍ່ເຄີຍຢຸດທີ່ຈະເຮັດໃຫ້ຂ້ອຍແປກໃຈເລີຍ.
+259
+00:36:31,400 --> 00:36:36,700
+This might have something to do with it.
+Fused to the spinal cord.
+ນີ້ແມ່ນອາດຈະກ່ຽວຂ້ອງກັບມັນ
+.ເຊື່ອມໂຍງກັບກະດູກສັນຫຼັງ.
 
-192
-00:12:13,700 --> 00:12:19,700
-[HUDGENS]
-Such a complex society at a time when most of humanity was still hunting and gathering and huddling around fires.
-ສັງຄົມທີ່ສັບສົນຫຼາຍໃນເວລາທີ່ສ່ວນໃຫຍ່ຂອງມະນຸດຍັງລ່າສັດແລະເຕົ້າໂຮມກັນແລະໂຮມຊຸມນຸມຢູ່ອ້ອມໄຟ
-.
+260
+00:36:53,200 --> 00:36:55,400
+There's another piece in here.
+ມີອີກຊິ້ນສ່ວນໜຶ່ງຢູ່ນີ້.
 
-193
-00:12:20,200 --> 00:12:22,650
-[ALINE]
-Dr. Hudgens. When did you get back?
-ດຣ ຮູດເຈນສ໌. ເຈົ້າກັບມາເມື່ອໃດ?
+261
+00:36:55,800 --> 00:37:00,900
+It's been severed. Never seen this kind of symbiosis before.
+ມັນຖືກຕັດອອກແລ້ວ.ບໍ່ເຄີຍ
+ເຫັນການສັມພັນແບບນີ້ກ່ອນ.
 
-194
-00:12:23,150 --> 00:12:27,700
-[HUDGENS]
-A few hours ago. I heard there was some excitement. Are you alright?
-ສອງສາມຊົ່ວໂມງກ່ອນ. ຂ້ອຍໄດ້ຍິນວ່າມີຄວາມຕື່ນເຕັ້ນບາງຢ່າງ
-. ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+262
+00:37:01,200 --> 00:37:05,100
+This must be why his entire
+nervous system was compromised.
+ນີ້ແມ່ນເຫດຜົນທີ່ລະບົບປະສາດ
+ທັງໝົດຂອງລາວຖືກຕົກລົງກັນ.
 
-195
-00:12:28,200 --> 00:12:31,000
-[ALINE]
-I'm fine. A bit shaken up. But fine.
-ຂ້ອຍບໍ່ເປັນຫຍັງ. ສັ່ນສະເທືອນເລັກນ້ອຍ. ແຕ່ດີ.
+263
+00:37:11,300 --> 00:37:14,000
+The scanner is still getting a reading.
+ເຄື່ອງສະແກນຍັງໄດ້ຮັບການອ່ານຢູ່.
 
-196
-00:12:31,500 --> 00:12:37,500
-[HUDGENS]
-I apologize for snapping at you earlier. Now, what are you still doing here after all you've been through?
-ຂ້ອຍຂໍໂທດທີ່ກະຕຸ້ນເຈົ້າກ່ອນ. ດຽວນີ້,
-ເຈົ້າຍັງເຮັດຫຍັງຢູ່ບ່ອນນີ້ຫຼັງຈາກທັງ ຫມົດ ທີ່ເຈົ້າໄດ້ຜ່ານໄປ?
+264
+00:37:22,800 --> 00:37:23,500
+-What?
+- ຫຍັງ?
 
-197
-00:12:38,000 --> 00:12:40,100
-[HUDGENS]
-Where did you get that image?
-ເຈົ້າເອົາຮູບນັ້ນມາຈາກໃສ?
+265
+00:37:29,600 --> 00:37:32,800
+The Abkani never cease
+to amaze me..
+ຄົນອາບຄານີບໍ່ເຄີຍຢຸດ
+ເຮັດໃຫ້ຂ້ອຍແປກໃຈເລີຍ..
 
-198
-00:12:40,600 --> 00:12:42,600
-[ALINE]
-Edward.
-ເອດວາດ.
+266
+00:37:33,000 --> 00:37:35,100
+Such a complex society...
+ສັງຄົມທີ່ສັບສົນຫຼາຍປານໃດ...
 
-199
-00:12:43,100 --> 00:12:47,650
-[HUDGENS]
-This is a major find. I'll need to analyze it. Confirm its authenticity.
-ນີ້ແມ່ນການພົບເຫັນທີ່ສໍາຄັນ.
-ຂ້ອຍຈະຕ້ອງວິເຄາະມັນ. ຢືນຢັນຄວາມເປັນຈິງຂອງມັນ.
+267
+00:37:35,300 --> 00:37:39,900
+...at a time when most of humanity was hunting and gathering
+and huddling around fires.
+ໃນເວລາທີ່ສ່ວນໃຫຍ່ຂອງມະນຸດກໍາລັງລ່າສັດ
+ແລະເກັບກໍາແລະເຕົ້າໂຮມຢູ່ອ້ອມແອ້ມໄຟ.
 
-200
-00:12:48,150 --> 00:12:50,150
-[ALINE]
-I can do that myself.
-ຂ້ອຍເຮັດໄດ້ເອງ.
+268
+00:37:40,100 --> 00:37:43,800
+Dr Hudgens, when did you get back?
+-Oh, a few hours ago.
+ດຣ ຮູດເຈນສ໌, ເຈົ້າກັບມາເມື່ອໃດ?
+- ໂອ້, ສອງສາມຊົ່ວໂມງກ່ອນ.
 
-201
-00:12:50,650 --> 00:12:52,650
-[HUDGENS]
-That wasn't a request...
-ນັ້ນບໍ່ແມ່ນຄໍາຮ້ອງຂໍ...
+269
+00:37:43,900 --> 00:37:46,900
+I heard you had some excitement. Are you all right?
+ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າມີຄວາມ
+ຕື່ນເຕັ້ນບາງຢ່າງ.ເຈົ້າດີບໍ?
 
-202
-00:12:53,150 --> 00:12:55,150
-[HUDGENS]
+270
+00:37:47,100 --> 00:37:50,200
+Yeah, I'm fine.
+a little shaken up, but I'm ok.
+ແມ່ນແລ້ວ,ຂ້ອຍບໍ່ເປັນຫຍັງ.
+ສັ່ນສະເທືອນເລັກນ້ອຍ,ແຕ່ຂ້ອຍດີ.
+
+271
+00:37:50,400 --> 00:37:53,600
+Look I must apologize
+for snapping at you earlier.
+ເບິ່ງຂ້ອຍຕ້ອງຂໍໂທດທີ່ໂຊກຮ້າຍເຈົ້າກ່ອນ.
+
+272
+00:37:53,800 --> 00:37:57,800
+But why are you still here, after all you've been through?
+ແຕ່ເຈົ້າຍັງຢູ່ບ່ອນນີ້ເປັນຫຍັງ,
+ຫຼັງຈາກເຈົ້າໄດ້ຜ່ານທຸກຢ່າງແລ້ວ?
+
+273
+00:38:00,600 --> 00:38:03,400
+-Where'd you get that image?
+-Edward.
+- ເຈົ້າເອົາຮູບນັ້ນມາຈາກໃສ?
+- ເອດວາດ
+
+274
+00:38:03,600 --> 00:38:06,800
+That's a major find.
+I'll have to analyze that.
+ນັ້ນແມ່ນການຄົ້ນພົບທີ່ສໍ
+າຄັນ.ຂ້ອຍຕ້ອງວິເຄາະມັນ.
+
+275
+00:38:07,000 --> 00:38:09,400
+Actually, I'll do that myself.
+It's not a request.
+ໃນຄວາມເປັນຈິງ,ຂ້ອຍຈະເຮັດ
+ມັນເອງ.ມັນບໍ່ແມ່ນຄໍາຮ້ອງຂໍ.
+
+276
+00:38:09,600 --> 00:38:11,700
 Where is the artifact?
-ວັດຖຸບູຮານແມ່ນຢູ່ໃສ?
+-Everything ok in here?
+ວັດຖຸບູຮານຢູ່ໃສ?
+- ທຸກຢ່າງດີຢູ່ບ່ອນນີ້ບໍ?
 
-203
-00:12:55,650 --> 00:12:57,650
-[AGENT CHEUNG]
-Everything okay in here?
-ທຸກຢ່າງດີຢູ່ບ່ອນນີ້ບໍ?
+277
+00:38:11,900 --> 00:38:14,500
+Who are you?
+-Miss Cedracs security detail.
+ເຈົ້າເປັນໃຜ?
+- ລາຍລະອຽດຄວາມປອດໄພຂອງນາງເຊດຣາກສ໌.
 
-204
-00:12:58,150 --> 00:13:00,150
-[HUDGENS]
-And you are?
-ແລະເຈົ້າແມ່ນບໍ?
+278
+00:38:14,600 --> 00:38:17,500
+My dear, have you any idea who I am?
+-Dr. Lionel Hudgens.
+ເຈົ້າຮູ້ບໍ່ວ່າຂ້ອຍເປັນໃຜ?
+- ດຣ ລິໂອເນວ ຮູດເຈນສ໌.
 
-205
-00:13:00,650 --> 00:13:02,650
-[AGENT CHEUNG]
-Ms. Cedrac's security detail.
-ລາຍລະອຽດຄວາມປອດໄພຂອງນາງເຊດຣັກ.
+279
+00:38:17,700 --> 00:38:22,100
+former agent,
+Science-spy division currently 713 advisor status.
+ອະດີດຕົວແທນ,ຂະແໜງການສືບລັບວິທະຍາສາດ
+ໃນປະຈຸບັນສະຖານະການທີ່ປຶກສາ 713 .
 
-206
-00:13:03,150 --> 00:13:06,300
-[HUDGENS]
-My dear, do you have any idea who I...
-ເຈົ້າຮູ້ບໍວ່າຂ້ອຍ...
+280
+00:38:22,200 --> 00:38:24,400
+I know exactly who you are.
+ຂ້ອຍຮູ້ວ່າເຈົ້າເປັນໃຜແທ້ໆ.
 
-207
-00:13:06,800 --> 00:13:12,800
-[AGENT CHEUNG]
-Dr. Lionel Hudgens. Former agent, sci-and- spy division. Currently 713 advisor status. I know exactly who you are. But I'm not your "dear" anything.
-ດຣ ເລໂອນ ຮູດເຈນສ໌. ຕົວແທນເກົ່າ, ພະແນກວິທະຍາສາດແລະນັກສືບ. ປະຈຸບັນສະຖານະການທີ່ປຶກສາ
-713. ຂ້ອຍຮູ້ວ່າເຈົ້າເປັນໃຜຢ່າງແນ່ນອນ. ແຕ່ຂ້ອຍບໍ່ແມ່ນ"ຄົນຮັກ" ຂອງເຈົ້າຫຍັງເລີຍ.
+281
+00:38:26,500 --> 00:38:30,800
+Well, I'll have to hold off my curiosity till the morning.
+ດີ,ຂ້ອຍຕ້ອງລໍຖ້າຄວາມຢາກຮູ້
+ສຶກຂອງຂ້ອຍຈົນຮອດຕອນເຊົ້າ.
 
-208
-00:13:13,300 --> 00:13:16,800
-[HUDGENS]
-I'll just have to hold off my curiosity until morning.
-ຂ້ອຍພຽງແຕ່ຕ້ອງກັກຄວາມຢາກຮູ້ຂອງຂ້ອຍໄວ້ຈົນຮອດຕອນເຊົ້າ.
+282
+00:38:31,000 --> 00:38:36,200
+Dr. Hudgens, I meant to ask, did you finally find the Arabis?
+ດຣຮູດເຈນສ໌,ຂ້ອຍຢາກຖາມວ່າ
+,ເຈົ້າໄດ້ພົບຊາວອາຣັບບໍ?
 
-209
-00:13:17,300 --> 00:13:21,850
-[ALINE]
-Dr. Hudgens... I forgot to ask. Did you find the Erebus this time?
-ດຣ ຮູດເຈນສ໌... ຂ້ອຍລືມຖາມ. ເຈົ້າພົບ Erebus ໃນຄັ້ງນີ້ບໍ?
+283
+00:38:36,900 --> 00:38:42,700
+Just an empty shipwreck. Like you said:
+another wild-goose chase.
+ພຽງແຕ່ເຮືອທີ່ເປົ່າເປົ່າ.ດັ່ງທີ່ທ່ານໄດ້
+ເວົ້າແລ້ວ:ການລ່າຫຼັງກະຕ່າປ່າອີກຄັ້ງ.
 
-210
-00:13:22,350 --> 00:13:26,550
-[HUDGENS]
-Just an empty shipwreck. You were right. It was another wild goosechase.
-ພຽງແຕ່ເຮືອຕົກເປົ່າ. ເຈົ້າເວົ້າຖືກຕ້ອງ
-. ມັນແມ່ນການລ່າແມວປ່າອີກຄັ້ງຫນຶ່ງ.
+284
+00:38:49,000 --> 00:38:54,400
+You've got one inside you, too,
+but symbiosis is incomplete.
+ເຈົ້າມີໜຶ່ງໃນຕົວເຈົ້າເຊັ່ນກັນ,
+ແຕ່ການຮ່ວມຊີວິດແມ່ນບໍ່ສົມບູນແບບ.
 
-211
-00:13:27,050 --> 00:13:29,850
-[ALINE]
-Since when do I have a security detail?
-ຂ້ອຍມີລາຍລະອຽດຄວາມປອດໄພຕັ້ງແຕ່ເມື່ອໃດ?
+285
+00:38:55,500 --> 00:39:00,400
+I was electrocuted when I was a kid.
+That must have killed it.
+ຂ້ອຍຖືກໄຟຟ້າຕົກເມື່ອຂ້ອຍເປັນ
+ເດັກນ້ອຍ.ນັ້ນຕ້ອງໄດ້ຂ້າມັນ.
 
-212
-00:13:30,350 --> 00:13:32,800
-[AGENT CHEUNG]
-Since it seemed like you needed it.
-ເພາະມັນເບິ່ງຄືວ່າເຈົ້າຕ້ອງການມັນ.
-
-213
-00:13:33,300 --> 00:13:36,800
-[FISCHER]
-There's one inside you too. But the symbiosis is incomplete.
-ມີຫນຶ່ງໃນເຈົ້າເຊັ່ນກັນ. ແຕ່ການສັມພັນແມ່ນບໍ່ສົມບູນແບບ.
-
-214
-00:13:37,300 --> 00:13:39,300
-[CARNBY]
+286
+00:39:00,600 --> 00:39:02,600
 Can you remove it?
 ເຈົ້າສາມາດເອົາມັນໄດ້ບໍ?
 
-215
-00:13:39,800 --> 00:13:42,600
-[FISCHER]
-I could try. But it might paralyze you.
-ຂ້ອຍສາມາດພະຍາຍາມໄດ້. ແຕ່ມັນອາດຈະເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ.
+287
+00:39:03,000 --> 00:39:07,000
+Well I could try,
+but it could paralyze you.
+ດີຂ້ອຍສາມາດພະຍາຍາມໄດ້,ແຕ່
+ມັນອາດຈະເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ.
 
-216
-00:13:43,100 --> 00:13:45,100
-[ALINE]
-What's missing...
-ສິ່ງທີ່ຂາດຫາຍ...
+288
+00:40:03,600 --> 00:40:07,300
+So these organisms are somehow connected
+to the creatures from the museum, right?
+ສະນັ້ນຊີວະພາບເຫຼົ່ານີ້ມີຄວາມ
+ກ່ຽວຂ້ອງກັບສັດຈາກຫໍພິພິທະພັນ,ແມ່ນບໍ?
 
-217
-00:13:45,600 --> 00:13:51,200
-[CARNBY]
-I'm not much for coincidences. These organisms must be connected to those things from the museum.
-ຂ້ອຍບໍ່ມັກຄວາມກົງກັນຂ້າມຫຼາຍ.
-ສິ່ງມີຊີວິດເຫຼົ່ານີ້ຕ້ອງເຊື່ອມຕໍ່ກັບສິ່ງເຫຼົ່ານັ້ນຈາກຫໍພິພິທະພັນ.
+289
+00:40:07,400 --> 00:40:09,700
+We call them Zenoes.
+-Catchy.
+ພວກເຮົາເອີ້ນພວກມັນວ່າ Zenoes.
+- ຈັບໄດ້.
 
-218
-00:13:51,700 --> 00:13:53,700
-[FISCHER]
-We call them xenomorphs.
-ພວກເຮົາເອີ້ນພວກມັນວ່າ xenomorphs.
+290
+00:40:09,900 --> 00:40:12,500
+When did they first appear?
+-Two years ago.
+ພວກເຂົາປາກົດຕົວຄັ້ງ ທໍາ ອິດເມື່ອໃດ?
+- ເມື່ອສອງປີກ່ອນ.
 
-219
-00:13:54,200 --> 00:13:56,300
-[CARNBY]
-Catchy. When did they first appear?
-ພວກມັນປາກົດຕົວຄັ້ງ ທໍາ ອິດເມື່ອໃດ?
+291
+00:40:12,600 --> 00:40:15,600
+They've been 713's top priority ever since...
+ພວກເຂົາເປັນບູລິມະສິດ
+ສູງສຸດຂອງ 713 ຕັ້ງແຕ່...
 
-220
-00:13:56,800 --> 00:14:02,800
-[FISCHER]
-Two years ago. They've been 713's top priority ever since. But it's been almost exclusively in rural areas. This kind of urban infiltration is unprecedented.
-ສອງປີກ່ອນ. ພວກເຂົາເປັນບູລິມະສິດສູງສຸດຂອງ 713 ນັບຕັ້ງແຕ່ນັ້ນ.
-ແຕ່ມັນເກືອບສະເພາະຢູ່ໃນເຂດຊົນນະບົດ. ການເຂົ້າໄປໃນເມືອງແບບນີ້ບໍ່ມີປະຫວັດສາດ.
+292
+00:40:15,800 --> 00:40:22,200
+...But it's been almost exclusively in rural
+areas.This sort of urban infiltration is unheard of.
+ແຕ່ມັນເກືອບສະເພາະຢູ່ໃນເຂດຊົນນະບົດ.ການ
+ລັກລອບເຂົ້າເມືອງແບບນີ້ບໍ່ເຄີຍມີມາກ່ອນ.
 
-221
-00:14:03,300 --> 00:14:05,300
-[CARNBY]
+293
+00:40:22,900 --> 00:40:24,900
 Have you isolated any weaknesses?
 ເຈົ້າໄດ້ແຍກຄວາມອ່ອນແອໃດບໍ?
 
-222
-00:14:05,800 --> 00:14:11,800
-[FISCHER]
-Most metals pass right through them. So normal bullets and blades are useless. But they're vulnerable to elements 76 to 79. Osmium, iridium, platinum, and gold. Negates their ability to disrupt electricity.
-ໂລຫະສ່ວນໃຫຍ່ຜ່ານພວກມັນໂດຍກົງ. ສະນັ້ນລູກປືນແລະກະດານປົກກະຕິແມ່ນບໍ່ມີປະໂຫຍດ. ແຕ່ພວກມັນມີຄວາມອ່ອນແອຕໍ່ອົງປະກອບ
-76 ຫາ 79. ໂອສມຽມ, ອີຣີດີມ, ປລາຕິນຽມ, ແລະຄໍາ. ປະຕິເສດຄວາມສາມາດຂອງພວກເຂົາໃນການລົບກວນໄຟຟ້າ.
+294
+00:40:25,400 --> 00:40:28,600
+They're vulnerable
+to elements 76 to 79-
+ພວກເຂົາມີຄວາມອ່ອນແອ
+ຕໍ່ອົງປະກອບ 76 ຫາ 79 -
 
-223
-00:14:12,300 --> 00:14:15,800
-[CARNBY]
-If they disrupt electricity, why did my flashlight still work?
-ຖ້າພວກເຂົາລົບກວນໄຟຟ້າ, ເປັນຫຍັງແສງໄຟຂອງຂ້ອຍຍັງເຮັດວຽກຢູ່?
+295
+00:40:28,700 --> 00:40:31,600
+osmium, iridium, platinum, and gold...
+ໂອສມີຍັມ,ອິຣີດີຍມ,
+ປລາຕິນຽມ,ແລະຄໍາ...
 
-224
-00:14:16,300 --> 00:14:20,150
-[FISCHER]
-The closer the current to its power source, the less disruption.
-ຄວາມໄຫຼ່ໃກ້ກັບແຫຼ່ງພະລັງງານຂອງມັນຫຼາຍຂຶ້ນ, ການລົບກວນ ຫນ້ອຍ ລົງ.
+296
+00:40:31,700 --> 00:40:35,700
+negates their ability
+to disrupt electricity.
+ມັນປະຕິເສດຄວາມສາມາດຂອງ
+ພວກເຂົາທີ່ຈະລົບກວນໄຟຟ້າ.
 
-225
-00:14:20,650 --> 00:14:26,650
-[FISCHER]
-This is calibrated to track their disruption field. It won't help you see them, but you'll know when they're nearby.
-ນີ້ແມ່ນຖືກກໍານົດໄວ້ເພື່ອຕິດຕາມສະ ຫນາມ ການລົບກວນຂອງພວກເຂົາ.
-ມັນຈະບໍ່ຊ່ວຍເຈົ້າເຫັນພວກມັນ, ແຕ່ເຈົ້າຈະຮູ້ເມື່ອພວກມັນຢູ່ໃກ້ໆ.
+297
+00:40:36,000 --> 00:40:39,600
+If they disrupt electricity, How come
+my flashlight still worked?
+ຖ້າພວກເຂົາລົບກວນໄຟຟ້າ,ເປັນຫຍ
+ັງແສງໄຟຂອງຂ້ອຍຍັງເຮັດວຽກຢູ່?
 
-226
-00:14:27,150 --> 00:14:33,150
-[FISCHER]
-They live almost exclusively in darkness. Sunlight's lethal in large doses. But only certain light frequencies hurt them.
-ພວກເຂົາອາໄສຢູ່ເກືອບສະເພາະໃນຄວາມມືດ. ແສງຕາເວັນເປັນອັນຕະລາຍໃນປະລິມານໃຫຍ່
-. ແຕ່ພຽງແຕ່ຄວາມຖີ່ແສງສະຫວ່າງບາງຢ່າງເຮັດໃຫ້ພວກເຂົາເຈັບປວດ.
+298
+00:40:41,600 --> 00:40:46,400
+Well, the closer the current is
+to its power source the less the disruption.
+ດີ,ສາຍໄໝແມ່ນໃກ້ກັບແຫຼ່ງ
+ພະລັງງານຂອງມັນໜ້ອຍການລົບກວນ.
 
-227
-00:14:33,650 --> 00:14:36,450
-[ISCHER]
-These lamps are set to an effective frequency.
-ແສງໄຟເຫຼົ່ານີ້ຖືກຕັ້ງຄ່າໃຫ້ເປັນຄວາມຖີ່ທີ່ມີປະສິດທິຜົນ.
+299
+00:40:46,500 --> 00:40:51,800
+Now, this has been calibrated
+to track their disruption field.
+ດຽວນີ້,ສິ່ງນີ້ໄດ້ຖືກ calibrated ເພື່ອ
+ຕິດຕາມສະໜາມການລົບກວນຂອງພວກເຂົາ.
 
-228
-00:14:36,950 --> 00:14:42,900
-[FISCHER]
-But for maximum damage, we use bullets coated in a photon-accelerated luminescent resin. Cuts right through them.
-ແຕ່ເພື່ອຄວາມເສຍຫາຍສູງສຸດ, ພວກເຮົາໃຊ້ລູກປືນທີ່ເຄືອບດ້ວຍ
-resin ແສງສະຫວ່າງທີ່ມີຄວາມໄວຟອດອນ. ຕັດຜ່ານພວກມັນ.
+300
+00:40:51,900 --> 00:40:55,500
+It won't help you see them,
+but it'll let you know when they're nearby.
+ມັນຈະບໍ່ຊ່ວຍເຈົ້າເຫັນພວກມັນ,ແຕ່ມັນ
+ຈະແຈ້ງໃຫ້ເຈົ້າຮູ້ເມື່ອພວກມັນຢູ່ໃກ້ໆ.
 
-229
-00:14:43,400 --> 00:14:46,200
-[CARNBY]
-I'm going to need a lot of those.
-ຂ້ອຍຈະຕ້ອງການພວກນັ້ນຫຼາຍຢ່າງ.
+301
+00:40:55,700 --> 00:41:00,200
+They live almost exclusively in the dark.
+Sunlight is lethal in large doses...
+ພວກເຂົາອາໄສຢູ່ໃນຄວາມມືດເກືອບສະເພາະ
+ແສງຕາເວັນເປັນອັນຕະລາຍໃນປະລິມານໃຫຍ່...
 
-230
-00:14:46,700 --> 00:14:48,700
-[CARNBY]
-Five minutes...
-ຫ້ານາທີ...
+302
+00:41:00,400 --> 00:41:04,000
+...But only certain
+light frequencies can hurt them..
+ແຕ່ພຽງແຕ່ຄວາມຖີ່ແສງສະຫວ່າງບາງຢ່າງເທົ່ານັ້ນ
+ທີ່ສາມາດເຮັດໃຫ້ພວກເຂົາເຈັບປວດໄດ້..
 
-231
-00:14:49,200 --> 00:14:51,200
-[AGENT MILES]
-Fischer...
-ຟິສເກີ...
+303
+00:41:04,100 --> 00:41:08,100
+These lamps have been set
+to an effective frequency.
+ແສງໄຟເຫຼົ່ານີ້ຖືກຕັ້ງຄ່າ
+ຕາມຄວາມຖີ່ທີ່ປະສິດທິພາບ.
 
-232
-00:14:51,700 --> 00:14:53,800
-[AGENT MILES]
+304
+00:41:11,600 --> 00:41:15,100
+But for maximum damage,
+we use bullets...
+ແຕ່ເພື່ອຄວາມເສຍຫາຍສູງສຸດ
+,ພວກເຮົາໃຊ້ລູກປືນ...
+
+305
+00:41:15,300 --> 00:41:21,000
+...coated in a photon-accelerated luminescent
+resin.Cuts right through them.
+...ຖືກປົກຄຸມດ້ວຍຢາງແສງສະຫວ່າງ
+ທີ່ມີຄວາມໄວຟອດອນ.ຕັດຜ່ານພວກມັນ.
+
+306
+00:41:27,000 --> 00:41:29,600
+I'm gonna need a lot of these.
+ຂ້ອຍຈະຕ້ອງການສິ່ງເຫຼົ່ານີ້ຫຼາຍຢ່າງ.
+
+307
+00:41:45,500 --> 00:41:50,300
+The man who attacked meyesterday, was
+after the Abkani artifact I found in Chile.
+ຜູ້ຊາຍທີ່ໂຈມຕີຂ້ອຍມື້ວານນີ້,ແມ່ນຕາມ
+ວັດຖຸບູຮານ Abkani ທີ່ຂ້ອຍພົບໃນຊີລີ.
+
+308
+00:41:50,400 --> 00:41:53,600
+He was driven by the same force
+that controls the creatures.
+ລາວຖືກຂັບເຄື່ອນໂດຍກໍາ
+ລັງດຽວກັນທີ່ຄວບຄຸມສັດ.
+
+309
+00:41:53,800 --> 00:41:56,800
+The Zenoes at the museum
+were after the same thing.
+ພວກເຊໂນສ໌ຢູ່ຫໍພິພິທະພັນ
+ກໍາລັງຊອກຫາສິ່ງດຽວກັນ.
+
+310
+00:41:56,900 --> 00:42:01,200
+It can't be a coincidence, John
+and the others have also gone missing.
+ມັນບໍ່ສາມາດເປັນຄວາມກົງກັນຂ້າມໄດ້,
+ຈອນແລະຄົນອື່ນຍັງຫາຍສາບສູນເຊັ່ນກັນ.
+
+311
+00:42:01,300 --> 00:42:04,500
+I'm close to the truth.
+I know it.
+ຂ້ອຍໃກ້ກັບຄວາມຈິງ. ຂ້ອຍຮູ້ມັນ.
+
+312
+00:42:04,800 --> 00:42:09,300
+But whoever controls these things
+is going to send more after me.
+ແຕ່ໃຜຄວບຄຸມສິ່ງເຫຼົ່ານີ້
+ຈະສົ່ງອີກຫຼາຍຢ່າງຕາມຂ້ອຍ.
+
+313
+00:42:26,700 --> 00:42:29,400
 Commander Burke wants to see you.
 ຜູ້ບັນຊາການເບີກຢາກເຫັນເຈົ້າ.
 
-233
-00:14:54,300 --> 00:14:56,300
-[LINE]
-Edward?
-ແອດວາດແມ່ນບໍ່?
+314
+00:43:34,000 --> 00:43:37,600
+I heard you met with Carnby.
+Why?
+ຂ້ອຍໄດ້ຍິນວ່າເຈົ້າ
+ພົບກັບຄາຣນບີ.ເປັນຫຍັງ?
 
-234
-00:14:56,800 --> 00:14:58,800
-[ALINE]
-I see nothing's changed...
-ຂ້ອຍເຫັນວ່າບໍ່ມີຫຍັງປ່ຽນແປງ...
+315
+00:43:37,800 --> 00:43:41,300
+Well, he has intel we need.
+I trust him.
+ດີ,ລາວມີຂໍ້ມູນທີ່ພວກເຮົາ
+ຕ້ອງການ.ຂ້ອຍເຊື່ອລາວ.
 
-235
-00:14:59,300 --> 00:15:01,300
-[ALINE]
-Edward?
-ແອດວາດແມ່ນບໍ່?
+316
+00:43:41,500 --> 00:43:45,500
+You trust him. Right.
+We need to trust each other, Fischer.
+ເຈົ້າເຊື່ອລາວ.ແມ່ນແລ້ວ.ພວກເຮົາ
+ຕ້ອງເຊື່ອກັນແລະກັນ,ຟິສເກີ.
 
-236
-00:15:01,800 --> 00:15:03,800
-[ALINE]
-Sweet dreams...
-ຄວາມຝັນທີ່ຫວານ...
+317
+00:43:45,700 --> 00:43:48,000
+I mean, I need to know
+whose side you're on.
+ຂ້ອຍໝາຍຄວາມວ່າ,ຂ້ອຍຕ້ອງ
+ຮູ້ວ່າເຈົ້າຢູ່ຂ້າງໃຜ.
 
-237
-00:15:04,300 --> 00:15:06,400
-[BURKE]
-Have you been meeting with Carnby?
-ເຈົ້າໄດ້ພົບກັບຄາຣນບີບໍ?
+318
+00:43:48,100 --> 00:43:54,000
+Or I can just remove you from the unit
+and you and Carnby can hang out anytime
+you want. You can grab a pizza, go to the movies.
+ຫຼືຂ້ອຍສາມາດເອົາເຈົ້າອອກຈາກໜ່ວຍງານແລະເຈົ້າແລະຄາຣນບີສາມາດຢູ່
+ຮ່ວມກັນໄດ້ທຸກເວລາທີ່ທ່ານຕ້ອງການ.ເຈົ້າສາມາດກິນປິຊາ,ໄປເບິ່ງຮູບເງົາ.
 
-238
-00:15:06,900 --> 00:15:10,400
-[FISCHER]
-Yes. He's got intell we need. And I trust him.
-ແມ່ນແລ້ວ. ລາວມີປັນຍາທີ່ພວກເຮົາຕ້ອງການ. ແລະຂ້ອຍເຊື່ອລາວ.
-
-239
-00:15:10,900 --> 00:15:15,450
-[URKE]
-We've got to trust each other, Fischer. Are you with us or not?
-ພວກເຮົາຕ້ອງເຊື່ອກັນແລະກັນ, ຟິສເກີ. ເຈົ້າຢູ່ກັບພວກເຮົາຫຼືບໍ່?
-
-240
-00:15:15,950 --> 00:15:18,050
-[ISCHER]
-What do you need from me?
+319
+00:43:54,100 --> 00:43:55,800
+What is it you need from me?
 ເຈົ້າຕ້ອງການຫຍັງຈາກຂ້ອຍ?
 
-241
-00:15:18,550 --> 00:15:21,350
-[BURKE]
-All the intell you've got on Edward Carnby.
-ຄວາມຮູ້ທັງ ຫມົດ ທີ່ເຈົ້າມີກ່ຽວກັບເອດວາດ ຄາຣນບີ.
+320
+00:43:57,200 --> 00:44:04,000
+I need all the intel you have on Edward Carnby and I
+need you to keep your mouth shut. You understand me?
+ຂ້ອຍຕ້ອງການຂໍ້ມູນທັງໝົດທີ່ເຈົ້າມີກ່ຽວກັບເອດວາດຄານ
+ບີແລະຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າປິດປາກ.ເຈົ້າເຂົ້າໃຈຂ້ອຍບໍ?
 
-242
-00:15:21,850 --> 00:15:25,350
-[FISCHER]
-What else could I do? I had to tell him.
-ຂ້ອຍສາມາດເຮັດຫຍັງອີກໄດ້? ຂ້ອຍຕ້ອງບອກລາວ.
+321
+00:45:23,800 --> 00:45:25,700
+I'll get it.
+ຂ້ອຍຈະເອົາມັນ.
 
-243
-00:15:25,850 --> 00:15:31,800
-[SARAH FISCHER]
-You did the right thing, Paul. From what you've told me, Carnby can take care of himself.
-ເຈົ້າເຮັດສິ່ງທີ່ຖືກຕ້ອງ, ໂປລ. ຈາກສິ່ງທີ່ເຈົ້າບອກຂ້ອຍ
-, ຄາຣນບີສາມາດເບິ່ງແຍງຕົວເອງໄດ້.
+322
+00:46:00,900 --> 00:46:01,500
+Sara?
+ຊາຮ່າ?
 
-244
-00:15:32,300 --> 00:15:34,300
-[SARAH FISCHER]
-I'll get it. You stir.
-ຂ້ອຍຈະເອົາມັນ. ເຈົ້າກະຕຸ້ນ.
+323
+00:46:09,200 --> 00:46:09,900
+Sara?
+ຊາຮ່າ?
 
-245
-00:15:34,800 --> 00:15:36,800
-[FISCHER]
-Sarah? Answer me! Sarah!
-ຊາຣາ? ຕອບຂ້ອຍ! ຊາຣາ!
+324
+00:46:14,300 --> 00:46:16,800
+Oh, God, Sara!
+ໂອ້ ພຣະເຈົ້າ, ຊາຣາ!
 
-246
-00:15:37,300 --> 00:15:40,100
-[HUDGENS]
-If you can't beat us, Fischer, join us.
-ຖ້າເຈົ້າບໍ່ສາມາດເອົາຊະນະພວກເຮົາໄດ້, ຟິສເກີ, ເຂົ້າຮ່ວມພວກເຮົາ.
+325
+00:46:47,400 --> 00:46:49,500
+Now you're with us.
+ດຽວນີ້ເຈົ້າຢູ່ກັບພວກເຮົາ.
 
-247
-00:15:40,600 --> 00:15:46,600
-[P.O.V. CREATURE:]
-Something chases Young Edward as he runs for his life through the misty, dark forest. He runs towards a light up ahead.
-ບາງສິ່ງບາງຢ່າງລ່າຫຼັງເອດວາດຫນຸ່ມໃນຂະນະທີ່ລາວແລ່ນເພື່ອຊີວິດຂອງລາວຜ່ານປ່າໄມ້ທີ່ມືດແລະມືດ
-. ລາວແລ່ນໄປສູ່ແສງສະຫວ່າງຢູ່ທາງຫນ້າ.
+326
+00:46:54,300 --> 00:46:57,100
+It seems all the pieces fit together.
+ມັນເບິ່ງຄືວ່າທຸກຊິ້ນສ່ວນເຂົ້າກັນໄດ້.
 
-248
-00:15:47,100 --> 00:15:49,100
-[ALINE]
-Something smells amazing.
-ມີບາງສິ່ງບາງຢ່າງກິ່ນຫອມທີ່ຍິ່ງໃຫຍ່.
+327
+00:46:57,300 --> 00:47:01,000
+Now I need your help
+to figure out why.
+ດຽວນີ້ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອ
+ຂອງທ່ານເພື່ອຄິດວ່າເປັນຫຍັງ.
 
-249
-00:15:49,600 --> 00:15:51,600
-[ALINE]
-I love omelettes.
-ຂ້ອຍມັກໂອເມັດຫຼາຍ.
+328
+00:47:01,100 --> 00:47:03,900
+With the pieces assembled like this
+maybe the computer can plot a location
+ດ້ວຍຊິ້ນສ່ວນທີ່ໂຮມກັນແບບນີ້ບາງທີ
+ຄອມພິວເຕີສາມາດວາງແຜນສະຖານທີ່ໄດ້
 
-250
-00:15:52,100 --> 00:15:54,100
-[CARNBY]
-I know.
-ຂ້ອຍຮູ້ແລ້ວ.
+329
+00:47:04,000 --> 00:47:07,400
+...based on the symbols
+matching these constellations.
+...ອີງຕາມສັນຍາລັກທີ່ສອດ
+ຄ່ອງກັບດວງດາວເຫຼົ່ານີ້.
 
-251
-00:15:54,600 --> 00:16:00,600
-[ALINE]
-I figured out a connection with the symbols on those artifacts. They correspond to constellations. But something's missing.
-ຂ້ອຍຄິດວ່າມີຄວາມເຊື່ອມໂຍງກັບສັນຍາລັກໃນວັດຖຸບູຮານເຫຼົ່ານັ້ນ
-. ພວກເຂົາສອດຄ່ອງກັບດາວທຽມ. ແຕ່ບາງສິ່ງບາງຢ່າງຂາດຫາຍໄປ.
+330
+00:47:07,600 --> 00:47:09,100
+So, what are we looking for exactly?
+ສະນັ້ນ, ພວກເຮົາ ກໍາ ລັງຊອກຫາຫຍັງແທ້ໆ?
 
-252
-00:16:01,100 --> 00:16:03,100
-[CARNBY]
-Maybe this will help...
-ບາງທີສິ່ງນີ້ຈະຊ່ວຍ...
+331
+00:47:09,300 --> 00:47:12,700
+The Abkani used constellations
+to pinpoint a geographic location
+ຄົນອາບຄານີໃຊ້ດາວທຽມເພື່ອ
+ແນ່ນອນສະຖານທີ່ທາງພູມສາດ
 
-253
-00:16:03,600 --> 00:16:06,050
-[ALINE]
-Can you run the program on this?
-ເຈົ້າສາມາດດໍາເນີນໂປແກຼມໄດ້ບໍ?
+332
+00:47:12,900 --> 00:47:17,500
+...but I don't think we could zero in
+more than maybe a 100-mile radius.
+ແຕ່ຂ້ອຍບໍ່ຄິດວ່າພວກເຮົາສາມາດສູນ
+ເສຍໄດ້ໃນໄລຍະທາງຫຼາຍກວ່າ 100 ໄມລ໌.
 
-254
-00:16:06,550 --> 00:16:08,550
-[CARNBY]
-What are we looking for?
-ພວກເຮົາ ກໍາ ລັງຊອກຫາຫຍັງ?
+333
+00:47:18,500 --> 00:47:20,100
+-Edward.
+-Yeah.
+- ເອດວາດ
+- ແມ່ນແລ້ວ.
 
-255
-00:16:09,050 --> 00:16:15,050
-[ALINE]
-The Abkani used constellations to pin- point a geographical location. But I don't think I can isolate it closer than a hundred mile radius.
-ຊາວອາບຄານີໄດ້ໃຊ້ດາວທຽມເພື່ອແນະ ນໍາ ສະຖານທີ່ພູມສາດ.
-ແຕ່ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍສາມາດແຍກມັນໄດ້ໃກ້ກວ່າເສັ້ນຜ່າກາງສິບແມລ.
+334
+00:47:20,100 --> 00:47:24,700
+If this is correct I think the
+computer can pinpoint the location.
+ຖ້າສິ່ງນີ້ຖືກຕ້ອງຂ້ອຍຄິດວ່າຄອ
+ມພິວເຕີສາມາດແນ່ນອນສະຖານທີ່ໄດ້.
 
-256
-00:16:15,550 --> 00:16:17,550
-[LINE]
-Edward...
-ເອດວາດ...
+335
+00:47:25,200 --> 00:47:27,200
+That's right in our area,
+isn't it?
+ນັ້ນແມ່ນໃນເຂດຂອງພວກເຮົາ, ແມ່ນບໍ?
 
-257
-00:16:18,050 --> 00:16:20,050
-[CARNBY]
-Yeah. That's us right there.
-ແມ່ນແລ້ວ. ນັ້ນແມ່ນພວກເຮົາຢູ່ບ່ອນນັ້ນ.
+336
+00:47:28,800 --> 00:47:29,700
+Shit!
+ສະບາຍດີ!
 
-258
-00:16:20,550 --> 00:16:22,550
-[CARNBY]
+337
+00:47:32,200 --> 00:47:33,700
+Here.
+ມາແລ້ວ.
+
+338
+00:47:40,600 --> 00:47:42,200
+Stay there.
+ຢູ່ບ່ອນນັ້ນ.
+
+339
+00:48:29,700 --> 00:48:31,400
 John?
 ຈອນ?
 
-259
-00:16:23,050 --> 00:16:25,050
-[CARNBY]
-Behind you!
-ຢູ່ເບື້ອງຫຼັງເຈົ້າ!
+340
+00:48:33,100 --> 00:48:35,000
+Shit. John, it's me.
+It's Edward.
+ສະບາຍດີ.ຈອນ,ມັນແມ່ນ
+ຂ້ອຍ.ມັນແມ່ນເອດວາດ.
 
-260
-00:16:25,550 --> 00:16:27,550
-[ALINE]
-That looked like John.
-ມັນເບິ່ງຄືວ່າຈອນ.
+341
+00:48:59,900 --> 00:49:02,000
+Aline, come on! Come on!
+This way! This way!
+ອາລິນ, ມາ! ມາ! ທາງນີ້!ທາງນີ້!
 
-261
-00:16:28,050 --> 00:16:31,900
-[CARNBY]
-It is. The other two are from the orphanage as well.
-ມັນເປັນ. ສອງຄົນອື່ນແມ່ນມາຈາກໂຮງແຮມເດັກເຖົ້າເຊັ່ນກັນ.
+342
+00:49:10,600 --> 00:49:12,500
+Come on, Come on! Uh!
+ມາແລ້ວ, ມາແລ້ວ! ໂອ້!
 
-262
-00:16:32,400 --> 00:16:34,400
-[ALINE]
-You had no choice.
-ເຈົ້າບໍ່ມີທາງເລືອກ.
+343
+00:49:16,200 --> 00:49:17,200
+Come on!
+ມາແລ້ວ!
 
-263
-00:16:34,900 --> 00:16:36,900
-[CARNBY]
-Something's controlling them.
-ບາງສິ່ງບາງຢ່າງ ກໍາ ລັງຄວບຄຸມພວກເຂົາ.
+344
+00:49:17,200 --> 00:49:18,700
+Come on! This way!
+ມາແລ້ວ! ທາງນີ້!
 
-264
-00:16:37,400 --> 00:16:39,400
-[ALINE]
-How many are there altogether?
-ມີຫຼາຍປານໃດທັງ ຫມົດ?
+345
+00:49:32,000 --> 00:49:34,500
+We better get out of here.
+Come on.
+ພວກເຮົາຄວນອອກຈາກບ່ອນນີ້. ມາແລ້ວ.
 
-265
-00:16:39,900 --> 00:16:41,900
-[CARNBY]
-Twenty. Including me.
-ສິບ. ລວມທັງຂ້ອຍ.
+346
+00:49:42,000 --> 00:49:44,400
+-I just killed John.
+-What do you mean?
+- ຂ້ອຍຫາກໍ່ຂ້າຈອນແລ້ວ.
+- ເຈົ້າໝາຍຄວາມວ່າແນວໃດ?
 
-266
-00:16:42,400 --> 00:16:48,400
-[P.O.V. CREATURE:]
-The invisible xenomorph creature's skewed, inhuman P.O.V. as it looks across the Loft, searching. It locates Carnby and Aline and heads directly for them. ll that is visible of the creature's trajectory is furniture being knocked aside as the creature rushes towards them.
-ສິ່ງມີຊີວິດ xenomorph ທີ່ເບິ່ງບໍ່ເຫັນແມ່ນສໍ້ໂກງ, P.O.V ທີ່ບໍ່ມີມະນຸດສະທໍາໃນຂະນະທີ່ມັນເບິ່ງຂ້າມ Loft, ຊອກຫາ. ມັນຊອກຫາ Carnby
-ແລະ Aline ແລະໄປໂດຍກົງໄປຫາພວກເຂົາ. ll ທີ່ເຫັນໄດ້ຈາກເສັ້ນທາງຂອງສິ່ງມີຊີວິດແມ່ນເຟີນີເຈີຖືກຖິ້ມຂ້າງໃນຂະນະທີ່ສັດແລ່ນໄປສູ່ພວກເຂົາ.
+347
+00:49:44,600 --> 00:49:48,000
+He was one of them.
+Something was controlling him.
+ລາວເປັນໜຶ່ງໃນພວກມັນ.ບາງສິ່ງ
+ບາງຢ່າງກໍາລັງຄວບຄຸມລາວ.
 
-267
-00:16:48,900 --> 00:16:51,000
-[CARNBY]
-We'd better get out of here.
-ພວກເຮົາຄວນອອກຈາກບ່ອນນີ້.
+348
+00:49:48,100 --> 00:49:51,600
+Then you had no choice.
+How many more are there?
+ຫຼັງຈາກນັ້ນເຈົ້າ
+ບໍ່ມີທາງເລືອກ.ມີອີກຫຼາຍປານໃດ?
 
-268
-00:16:51,500 --> 00:16:53,950
-[KRASH]
-Multiple readings confirmed. Back-up's on the way.
-ການອ່ານຫຼາຍຢ່າງຖືກຢືນຢັນ. ການສະ ຫນັບ ສະ ຫນູນ ກໍາ ລັງເດີນທາງມາ.
+349
+00:49:53,000 --> 00:49:55,100
+There were twenty of us.
+ພວກເຮົາຍັງມີສິບຄົນ.
 
-269
-00:16:54,450 --> 00:17:00,450
-[P.O.V. CREATURE:]
-An invisible creature swoops out of the shadows towards an Agent, who is FIRING in the opposite direction. The creature whips past the Agent, slicing him open with a fluid slash of its claws. The creature keeps moving directly for Carnby.
-ສັດທີ່ເບິ່ງບໍ່ເຫັນໄດ້ໂດດອອກຈາກເງົາໄປຫາຕົວແທນ, ຜູ້ທີ່ ກໍາ ລັງຍິງໃນທິດທາງກົງກັນຂ້າມ. ສັດຈະເລີນຮ້າຍຂ້າມຕົວແທນຜ່ານ, ຕັດລາວເປີດດ້ວຍການຕັດແຫຼວຂອງກະຕ່າຂອງມັນ. ສິ່ງມີຊີວິດສືບຕໍ່ເຄື່ອນຍ້າຍໂດຍກົງໄປຫາຄາຣນບີ.
+350
+00:50:55,300 --> 00:50:59,200
+Krash, Alpha Unit reporting.
+Body count at six dead. Please alert meds.
+ການຕົກລົງ,ໜ່ວຍງານອາລຟາລາຍງານ.ການນັບ
+ສົບຢູ່ຫົກຄົນຕາຍ.ກະລຸນາແຈ້ງການແພດ.
 
-270
-00:17:00,950 --> 00:17:02,950
-[CARNBY]
-Aline!
-ອາລິນ!
+351
+00:51:00,700 --> 00:51:04,000
+How many casualties we got?
+-Nine so far, sir.
+ພວກເຮົາມີຜູ້ບາດເຈັບຫຼາຍປານໃດ?
+- ເກົ້າຄົນຈົນເຖິງປະຈຸບັນເດີເດີ.
 
-271
-00:17:03,450 --> 00:17:05,450
-[KRASH]
-Landing.
-ການລົງຈອດ.
+352
+00:51:04,700 --> 00:51:07,400
+We're still getting
+some sort of readings.
+ພວກເຮົາຍັງໄດ້ຮັບການອ່ານບາງຢ່າງ.
 
-272
-00:17:05,950 --> 00:17:11,950
-[P.O.V. CREATURE:]
-Another invisible creature skirts along the edge of a wall, avoiding the GUNFIRE. It locates its target, an Agent FIRING up at the ceiling. It races towards the Agent.
-ສັດທີ່ເບິ່ງບໍ່ເຫັນອີກຫນຶ່ງຍ່າງຕາມແຄມກໍາແພງ, ຫຼີກລ້ຽງການຍິງປືນ.
-ມັນຊອກຫາເປົ້າຫມາຍຂອງຕົນ, ຕົວແທນຍິງຂຶ້ນເທິງຊັ້ນເທິງ. ມັນແລ່ນໄປຫາຕົວແທນ.
+353
+00:51:07,500 --> 00:51:11,500
+Recalibrating heat sensors
+All agents, proceed with caution.
+ການປັບຕົວເຊັນເຊີຄວາມຮ້ອນທັງໝົດ
+ຕົວແທນ,ດໍາເນີນການຢ່າງລະມັດລະວັງ.
 
-273
-00:17:12,450 --> 00:17:14,450
-[AGENT BARR]
-We're clear, sir.
-ພວກເຮົາສະອາດແລ້ວເດີເດີ.
+354
+00:51:36,100 --> 00:51:37,700
+Stand fast.
+ຢືນຢັນ.
 
-274
-00:17:14,950 --> 00:17:17,750
-[BURKE]
-Love what you've done with the place, Carnby.
-ຂ້ອຍມັກສິ່ງທີ່ເຈົ້າເຮັດກັບບ່ອນນີ້, ຄາຣນບີ.
+355
+00:51:38,800 --> 00:51:42,400
+Carnby, drop your weapon!
+On the ground now!
+ຄານບີ,ຖິ້ມອາວຸດຂອງທ່ານ
+ລົງ!ລົງພື້ນດຽວນີ້!
 
-275
-00:17:18,250 --> 00:17:20,250
-[AGENT MILES]
-Sir, this one's infected too!
-ເຈົ້າ, ຄົນນີ້ຕິດເຊື້ອເຊັ່ນກັນ!
+356
+00:51:42,900 --> 00:51:47,400
+Burke, just in the nick of time, as usual.
+-I know you're infected. I'm taking you in.
+ບຸກ, ພຽງແຕ່ໃນເວລາທີ່ ເໝາະ ສົມ, ຕາມປົກກະຕິແລ້ວ.
+- ຂ້ອຍຮູ້ວ່າເຈົ້າຕິດເຊື້ອ. ຂ້ອຍຈະເອົາເຈົ້າເຂົ້າມາ.
 
-276
-00:17:20,750 --> 00:17:22,750
-[AGENT TURNER]
-Got another one here!
-ມີອີກຫນຶ່ງຢູ່ບ່ອນນີ້!
+357
+00:51:47,600 --> 00:51:51,100
+Are you kidding me? What's the first rule
+they teach you at 713, huh?
+ເຈົ້າໂຊກຮ້າຍຂ້ອຍບໍ?ກົດລະບຽບທໍາອິ
+ດທີ່ພວກເຂົາສອນເຈົ້າຢູ່ 713 ,ແມ່ນບໍ?
 
-277
-00:17:23,250 --> 00:17:26,400
-[BURKE]
-Drop your weapon and get down on the ground.
-ຖິ້ມອາວຸດຂອງທ່ານແລະລົງລົງເທິງດິນ.
+358
+00:51:51,100 --> 00:51:55,000
+Trust your instincts, right?
+You really think I'm one of these creatures?
+ເຊື່ອຄວາມຮູ້ສຶກຂອງເຈົ້າ,ແມ່ນບໍ?ເຈົ້າ
+ຄິດວ່າຂ້ອຍເປັນໜຶ່ງໃນສັດເຫຼົ່ານີ້ບໍ?
 
-278
-00:17:26,900 --> 00:17:28,900
-[ALINE]
-What are you doing?
-ເຈົ້າເຮັດຫຍັງຢູ່?
+359
+00:51:56,100 --> 00:51:58,300
+I said drop your fucking weapon!
+ຂ້ອຍບອກວ່າຖິ້ມອາວຸດຂອງທ່ານ!
 
-279
-00:17:29,400 --> 00:17:34,300
-[BURKE]
-He's been infected with some kind of organism. He could be under its control.
-ລາວຖືກຕິດເຊື້ອດ້ວຍຊີວະພາບບາງຊະນິດ.
-ລາວອາດຈະຢູ່ພາຍໃຕ້ການຄວບຄຸມຂອງມັນ.
+360
+00:52:19,400 --> 00:52:20,600
+Hey, Burke!
+ເຮ້, ບາກ!
 
-280
-00:17:34,800 --> 00:17:39,000
-[CARNBY]
-It's true. I've got one inside me. But it's not controlling me.
-ມັນເປັນຄວາມຈິງ. ຂ້ອຍມີຫນຶ່ງພາຍໃນຂ້ອຍ. ແຕ່ມັນບໍ່ໄດ້ຄວບຄຸມຂ້ອຍ.
+361
+00:52:38,000 --> 00:52:41,200
+Krash, this is Cheung.
+We're on the upper level.
+ຄຣັສ,ນີ້ແມ່ນ Cheung .
+ພວກເຮົາຢູ່ໃນລະດັບເທິງ.
 
-281
-00:17:39,500 --> 00:17:44,750
-[BURKE]
-You'll excuse me if I don't take your word for it. Now drop your weapon.
-ເຈົ້າຈະຂໍໂທດຂ້ອຍຖ້າຂ້ອຍບໍ່ເຊື່ອຄໍາເວົ້າຂອງທ່ານ
-ສໍາ ລັບມັນ. ດຽວນີ້ຖິ້ມອາວຸດຂອງທ່ານ.
+362
+00:52:45,500 --> 00:52:50,000
+Cheung, I'm reading four signatures.
+They're moving to surround you. Possible ambush.
+Cheung ,ຂ້ອຍກໍາລັງອ່ານລາຍເຊັນສີ່ຄົນ.ພວກເຂົາກໍາລັງ
+ເຄື່ອນຍ້າຍໄປອ້ອມຂ້າງເຈົ້າ.ການວາງຂັງທີ່ເປັນໄປໄດ້.
 
-282
-00:17:45,250 --> 00:17:47,250
-[AGENT TURNER]
-Get out of the way!
-ອອກຈາກທາງ!
+363
+00:52:50,200 --> 00:52:53,300
+I'm routing backup from the lower level.
+Proceed with extreme caution.
+ຂ້ອຍກໍາລັງສົ່ງການຊ່ວຍເຫຼືອຈາກລະດັບລຸ່ມ
+.ດໍາເນີນການດ້ວຍຄວາມລະມັດລະວັງທີ່ສຸດ.
 
-283
-00:17:47,750 --> 00:17:49,750
-[ALINE]
-He's not one of them.
-ລາວບໍ່ແມ່ນຄົນນັ້ນ.
+364
+00:53:19,500 --> 00:53:21,600
+Where the hell is our backup?
+ການຊ່ວຍເຫຼືອຂອງພວກເຮົາຢູ່ໃສ?
 
-284
-00:17:50,250 --> 00:17:55,150
-[URKE]
-If I've got to shoot through you to get to him, I'll do it.
-ຖ້າຂ້ອຍຕ້ອງຍິງຜ່ານເຈົ້າເພື່ອໄປຫາລາວ, ຂ້ອຍຈະເຮັດມັນ.
+365
+00:53:21,700 --> 00:53:26,700
+Cheung, reinforcements have engaged
+targets in stairwell. You're on your own.
+Cheung ,ການເສີມສ້າງໄດ້ຕໍ່ສູ້ເປົ້າໝາຍ
+ໃນ stairwell ໄດ້.ເຈົ້າຢູ່ດ້ວຍຕົນເອງ.
 
-285
-00:17:55,650 --> 00:17:57,750
-[CARNBY]
-Why are the lights still out?
-ເປັນຫຍັງແສງສະຫວ່າງຍັງປິດຢູ່?
+366
+00:54:06,900 --> 00:54:08,500
+Any others?
+ມີຄົນອື່ນບໍ?
 
-286
-00:17:58,250 --> 00:18:00,250
-[AGENT BARR]
+367
+00:54:08,800 --> 00:54:10,400
 Scanner's clear.
-ເຄື່ອງສະແກນແມ່ນສະອາດ.
+ເຄື່ອງສະແກນສະອາດແລ້ວ.
 
-287
-00:18:00,750 --> 00:18:02,750
-[KRASH]
-Negative.
-ບໍ່.
+368
+00:54:11,100 --> 00:54:13,100
+Krash?
+ການຕົກລົງບໍ?
 
-288
-00:18:03,250 --> 00:18:05,700
-[BURKE]
-Forget to pay your power bill, Carnby?
-ລືມຈ່າຍຄ່າໄຟຟ້າບໍ, ຄາຣນບີ?
+369
+00:54:13,100 --> 00:54:16,900
+All heat signatures motionless.
+Clear. Repeat-you are clear.
+ສັນຍາຄວາມຮ້ອນທັງໝົດບໍ່ເຄື່ອນຍ້າຍ
+.ສະອາດ.ຊໍ້າອີກ-ເຈົ້າສະອາດ.
 
-289
-00:18:06,200 --> 00:18:11,450
-[BURKE]
-You remember the number one rule they teach you in 713 training? Trust your instincts.
-ເຈົ້າຈື່ກົດລະບຽບອັນດັບ ຫນຶ່ງ ທີ່ພວກເຂົາສອນເຈົ້າໃນການຝຶກອົບຮົມ
-713 ບໍ? ເຊື່ອຄວາມຮູ້ສຶກຂອງທ່ານ.
+370
+00:54:17,500 --> 00:54:19,100
+Let's move out.
+ໄປອອກໄປ.
 
-290
-00:18:11,950 --> 00:18:17,950
-[BURKE]
-Fischer's missing. So is Hudgens. And I've got a situation brewing that makes this scrap look like a bar brawl.
-ຟິສເກີຫາຍສາບສູນ. ເຊັ່ນດຽວກັນກັບຮູດເຈນສ໌. ແລະຂ້ອຍມີສະຖານະການທີ່
-ກໍາ ລັງຜະລິດທີ່ເຮັດໃຫ້ສິ່ງເສດເຫຼືອນີ້ເບິ່ງຄືວ່າເປັນການຕໍ່ສູ້ບາ.
+371
+00:54:27,000 --> 00:54:32,700
+Commander Burke, we have got a new development. all available
+agents are being rerouted to an abandoned gold mine in your sector
+ຜູ້ບັນຊາການເບີກ,ພວກເຮົາມີການພັດທະນາໃໝ່.ຕົວແທນທີ່ມີຢູ່ທັງ
+ໝົດຖືກປ່ຽນເສັ້ນທາງໄປຫາແຮ່ທອງຄໍາທີ່ຖືກປະຖິ້ມໃນພາກສ່ວນຂອງທ່ານ
 
-291
-00:18:18,450 --> 00:18:21,250
-[ALINE]
+372
+00:54:32,900 --> 00:54:37,300
+Scan is picking up multiple Zenoe signatures
+converging on the location.
+ການສະແກນກໍາລັງຈັບລາຍເຊັນເຊ
+ໂນຫຼາຍຢ່າງທີ່ສຸມໃສ່ສະຖານທີ່.
+
+373
+00:54:37,400 --> 00:54:41,300
+You have been assigned field command
+of the operation. Proceed there immediately.
+ເຈົ້າໄດ້ຖືກມອບໝາຍໃຫ້ເປັນຜູ້ບັນຊາການພາກສະໜາມ
+ຂອງການປະຕິບັດງານ.ດໍາເນີນການໄປບ່ອນນັ້ນທັນທີ.
+
+374
+00:54:41,500 --> 00:54:44,400
+Will one of you tell me what the hell's going on here?
+-We picked up massive readings.
+ມີໃຜບອກຂ້ອຍວ່າເກີດຫຍັງຂຶ້ນຢູ່ນີ້ບໍ?
+- ພວກເຮົາໄດ້ຮັບການອ່ານຢ່າງໃຫຍ່ຫຼວງ.
+
+375
+00:54:44,500 --> 00:54:48,200
+That's not what I asked.
+What the hell is going on here?
+ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ຂ້ອຍ
+ຖາມ.ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+376
+00:54:49,800 --> 00:54:53,800
+Look, Fischer's missing.
+So is Hudgens.
+ເບິ່ງ,ຟິສເກີຫາຍໄປ.
+ເຊັ່ນດຽວກັນກັບຮູດເຈນສ໌.
+
+377
+00:54:54,200 --> 00:54:56,800
+I got a feeling
+this is just the beginning.
+ຂ້ອຍຮູ້ສຶກວ່ານີ້ພຽງແຕ່
+ເປັນການເລີ່ມຕົ້ນເທົ່ານັ້ນ.
+
+378
+00:54:57,000 --> 00:55:00,600
 What does Hudgens have to do with this?
+-That's what I want to find out.
 ຮູດເຈນສ໌ກ່ຽວຂ້ອງກັບເລື່ອງນີ້ແນວໃດ?
+- ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຢາກຮູ້.
 
-292
-00:18:21,750 --> 00:18:27,700
-[BURKE]
-That's what I want to find out. I need you both to brief me in the air.
-ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຢາກຮູ້ວ່າ.
-ຂ້ອຍຕ້ອງການເຈົ້າທັງສອງໃຫ້ຂ້ອຍຮູ້ໃນອາກາດ.
+379
+00:55:00,700 --> 00:55:03,600
+I'll brief you both in the air.
+Let's go.
+ຂ້ອຍຈະແຈ້ງໃຫ້ເຈົ້າທັງສອງໃນອາກາດ. ໄປ.
 
-293
-00:18:28,200 --> 00:18:31,000
-[BURKE]
-Oh, and Carnby... I'll need my I-D back.
-ໂອ້, ແລະ ຄາຣນບີ... ຂ້ອຍຈະຕ້ອງການໃບຢັ້ງຢືນຂອງຂ້ອຍຄືນ.
+380
+00:55:04,800 --> 00:55:08,300
+Krash, I'm gonna get this place
+locked up now.
+ຄຣັສຊ໌,ຂ້ອຍຈະເຮັດໃຫ້
+ບ່ອນນີ້ປິດໄວ້ດຽວນີ້.
 
-294
-00:18:31,500 --> 00:18:36,400
-[KRASH]
-We're practically off the scale, Commander. This is unprecedented. Should I initiate Contingency Nine-Alpha?
-ພວກເຮົາເກືອບອອກຈາກລະດັບ, ຜູ້ບັນຊາການ. ນີ້ແມ່ນບໍ່ເຄີຍມີມາກ່ອນ
-. ຂ້ອຍຄວນເລີ່ມຕົ້ນຄວາມສຸກເສີນເກົ້າອາລຟາບໍ?
+381
+00:55:11,500 --> 00:55:15,300
+Oh ah, Carnby, I'll need my I.D. back.
+ໂອ້ອາ,ຄານບີ,ຂ້ອຍຈະຕ້ອງການ
+ໃບຢັ້ງຢືນຂອງຂ້ອຍຄືນ.
 
-295
-00:18:36,900 --> 00:18:41,100
-[BURKE]
-The military? We don't have time to wait for them to mobilize.
-ພວກທະຫານບໍ? ພວກເຮົາບໍ່ມີເວລາລໍຖ້າພວກເຂົາທີ່ຈະເຄື່ອນໄຫວ.
+382
+00:55:32,800 --> 00:55:35,900
+So, where are we going, Burke?
+-To the Britannia gold mine.
+ສະນັ້ນ, ພວກເຮົາຈະໄປໃສ, ບີກ?
+- ໄປຫີນຄໍາຂອງບຣິຕານີຍ.
 
-296
-00:18:41,600 --> 00:18:43,600
-[KRASH]
-Is that a negative, Commander?
-ນັ້ນແມ່ນລົບບໍ, ຜູ້ບັນຊາການ?
+383
+00:55:36,000 --> 00:55:38,500
+The Britannia mine? I grew up in that area.
+Why are we going there?
+ບໍ່ແຮ່ບຣິຕານີຍ?ຂ້ອຍເຕີບໃຫຍ່ຢູ່ໃນເຂດ
+ນັ້ນ.ເປັນຫຍັງພວກເຮົາຈຶ່ງໄປບ່ອນນັ້ນ?
 
-297
-00:18:44,100 --> 00:18:50,100
-[AGENT MILES]
-We've got three perimeters of flash- mines. Gatling guns are set to electromagnetic motion tracking. And every available agent in the vicinity is here. But Commander...
-ພວກເຮົາມີຂອບເຂດສາມແມນແສງສະຫວ່າງ. ປືນກັດລິງຖືກຕັ້ງໄວ້ເພື່ອຕິດຕາມການເຄື່ອນໄຫວໄຟຟ້າແມ່ເຫຼັກ
-. ແລະຕົວແທນທີ່ມີຢູ່ທຸກຄົນໃນເຂດໃກ້ຄຽງແມ່ນຢູ່ນີ້. ແຕ່ຜູ້ບັນຊາການ...
+384
+00:55:38,700 --> 00:55:43,200
+They shut it down 22 years ago after six
+miners were killed in an unexplained accident
+ພວກເຂົາປິດມັນເມື່ອ 22 ປີກ່ອນຫຼັງຈາກທີ່ຄົນງານແຮ່
+ຫີນຫົກຄົນເສຍຊີວິດໃນອຸບັດຕິເຫດທີ່ບໍ່ຮູ້ເຫດຜົນ
 
-298
-00:18:50,600 --> 00:18:54,100
-[BURKE]
-I know, Miles. But back-up won't make it before sunrise.
-ຂ້ອຍຮູ້ແລ້ວ, ໄມລ໌ສ໌. ແຕ່ການສະ ຫນັບ ສະ
-ຫນູນ ຈະບໍ່ສາມາດເຮັດໄດ້ກ່ອນຕາເວັນຂຶ້ນ.
+385
+00:55:43,400 --> 00:55:45,200
+Did 713 investigate?
+713 ໄດ້ສືບສວນບໍ?
 
-299
-00:18:54,600 --> 00:18:56,700
-[AGENT TURNER]
-Generator will be on-line shortly, sir.
-ເຄື່ອງຜະລິດໄຟຟ້າຈະເປີດໃຊ້ໃນໄວໆນີ້ເດີເດີ.
+386
+00:55:45,400 --> 00:55:49,000
+The report concluded there was
+no paranormal activity.
+ລາຍງານໄດ້ສະຫຼຸບວ່າບໍ່ມີ
+ກິດຈະກໍາພາຍນອກທໍາມະຊາດໃດໆ.
 
-300
-00:18:57,200 --> 00:18:59,650
-[ALINE]
-It looks like you're going to war.
-ມັນເບິ່ງຄືວ່າເຈົ້າຈະໄປສົງຄາມ.
+387
+00:55:49,200 --> 00:55:55,500
+...But get this the agents in charge of the
+investigation were Dr. Lionel Hudgens and James Pinkerton
+ແຕ່ຮັບຟັງເລື່ອງນີ້ຕົວແທນທີ່ຮັບຜິດຊອບການ
+ສືບສວນແມ່ນດຣລິໂອເນວຮູດເຈນສ໌ແລະເຈມສ໌ປິນເກີຕັນ
 
-301
-00:19:00,150 --> 00:19:06,150
-[BURKE]
-We are. The highest xeno concentration on record is closing in on this location. This could be our chance to wipe them out once and for all.
-ພວກເຮົາແມ່ນ. ຄວາມເຂັ້ມຂຸ້ນ xeno ທີ່ສູງທີ່ສຸດໃນບັນທຶກ ກໍາ ລັງໃກ້ຊິດກັບສະຖານທີ່ນີ້
-. ນີ້ແມ່ນອາດຈະເປັນໂອກາດຂອງພວກເຮົາທີ່ຈະລົບລ້າງພວກເຂົາຄັ້ງດຽວແລະຕະຫຼອດໄປ.
+388
+00:56:09,400 --> 00:56:10,900
+Krash, what are your readings?
+ຄຣັສສ໌, ການອ່ານຂອງທ່ານແມ່ນຫຍັງ?
 
-302
-00:19:06,650 --> 00:19:08,750
-[CARNBY]
-We need to go down there.
-ພວກເຮົາຕ້ອງລົງໄປບ່ອນນັ້ນ.
+389
+00:56:12,100 --> 00:56:15,700
+Practically off the scale, Commander.
+This is unprecedented. Initiate 59-Alpha.
+ເກືອບອອກຈາກຂະໜາດ,ຜູ້ບັນຊາການ.ນີ້ແມ່ນ
+ບໍ່ເຄີຍມີມາກ່ອນ.ເລີ່ມຕົ້ນ 59- ອາລຟາ.
 
-303
-00:19:09,250 --> 00:19:11,250
-[BURKE]
-What?
-ຫຍັງ?
+390
+00:56:15,800 --> 00:56:18,900
+No. Hold them off for now.
+Wait for my command.
+ບໍ່.ຢຸດພວກເຂົາໄວ້ໃນເວລາ
+ນີ້.ລໍຖ້າຄໍາສັ່ງຂອງຂ້ອຍ.
 
-304
-00:19:11,750 --> 00:19:17,750
-[CARNBY]
-They're coming here for a reason. Until we know what they're after, we're never really going to be able to stop them.
-ພວກເຂົາ ກໍາ ລັງມາບ່ອນນີ້ດ້ວຍເຫດຜົນ. ຈົນກວ່າພວກເຮົາຈະຮູ້ວ່າພວກເຂົາ
-ກໍາ ລັງຊອກຫາຫຍັງ, ພວກເຮົາຈະບໍ່ສາມາດຢຸດພວກເຂົາໄດ້ແທ້ໆ.
+391
+00:56:19,100 --> 00:56:23,700
+We've got three guerillas with flashlights set up
+gatling guns with electromagnetic motion tracking.
+ພວກເຮົາມີນັກຮົບກີເຣລາສາມຄົນພ້ອມກັບແສງໄຟໄຟຕັ້ງປືນ
+gatling ດ້ວຍການຕິດຕາມການເຄື່ອນໄຫວໄຟຟ້າແມ່ເຫຼັກ.
 
-305
-00:19:18,250 --> 00:19:24,200
-[AGENT MILES]
-Something's definitely down there, sir. But there's too much interference to get a clear reading from here.
-ມີບາງສິ່ງບາງຢ່າງຢູ່ລຸ່ມນັ້ນແນ່ນອນເດີ.
-ແຕ່ມີການແຊກແຊງຫຼາຍເກີນໄປທີ່ຈະໄດ້ຮັບການອ່ານທີ່ສະອາດຈາກບ່ອນນີ້.
+392
+00:56:23,900 --> 00:56:28,500
+And every available agent in the vicinity is here
+-Look, I don't care what you have to do.
+Get more bodies down here now!
+ແລະຕົວແທນທຸກຄົນທີ່ສາມາດໃຊ້ໄດ້ໃນເຂດໃກ້ຄຽງແມ່ນຢູ່ນີ້
+- ເບິ່ງ, ຂ້ອຍບໍ່ສົນໃຈວ່າເຈົ້າຕ້ອງເຮັດຫຍັງ. ເອົາສົບຫຼາຍຂຶ້ນມາບ່ອນນີ້ດຽວນີ້!
 
-306
-00:19:24,700 --> 00:19:30,700
-[BURKE]
-Goddamn it. Miles, you're in charge of perimeter defense. Nothing gets in or out until we find out what's down there.
-ສະບາຍດີ. ໄມລ໌ສ໌, ເຈົ້າຮັບຜິດຊອບການປ້ອງກັນອ້ອມແອ້ມ.
-ບໍ່ມີຫຍັງເຂົ້າຫຼືອອກຈົນກວ່າພວກເຮົາຈະຮູ້ວ່າມີຫຍັງຢູ່ລຸ່ມນັ້ນ.
+393
+00:56:28,600 --> 00:56:30,700
+Look at this place!
+We need more!
+ເບິ່ງບ່ອນນີ້! ພວກເຮົາຕ້ອງການຫຼາຍຂຶ້ນ!
 
-307
-00:19:31,200 --> 00:19:36,450
-[ALINE]
-I've been thinking about something. The Abkani prophecy. The shadows that make ghosts of men...
-ຂ້ອຍ ກໍາ ລັງຄິດກ່ຽວກັບບາງສິ່ງບາງຢ່າງ. ຄໍາ
-ພະຍາກອນອາບຄານີ. ຄວາມເງົາທີ່ເຮັດໃຫ້ຈິດວິນຍານຂອງຜູ້ຊາຍ...
+394
+00:56:30,800 --> 00:56:33,600
+Looks like we're going to war.
+Yeah, well we are.
+ເບິ່ງຄືວ່າພວກເຮົາຈະໄປສົງຄາມ
+.ແມ່ນແລ້ວ,ດີພວກເຮົາເປັນ.
 
-308
-00:19:36,950 --> 00:19:40,800
-[CARNBY]
-Every culture has a story about the end of the world.
-ວັດທະນະທໍາທຸກຄົນມີເລື່ອງກ່ຽວກັບການສິ້ນສຸດໂລກ.
+395
+00:56:33,800 --> 00:56:37,200
+Highest Zenoe concentration ever
+is in this area.
+ຄວາມເຂັ້ມແຂງສູງສຸດຂອງເຊ
+ໂນເຄີຍຢູ່ໃນພື້ນທີ່ນີ້.
 
-309
-00:19:41,300 --> 00:19:44,100
-[ALINE]
-But not every story starts to come true.
-ແຕ່ບໍ່ແມ່ນເລື່ອງທັງ ຫມົດ ທີ່ເລີ່ມເປັນຄວາມຈິງ.
+396
+00:56:37,300 --> 00:56:40,100
+It's our chance to get
+rid of them once and for all.
+ມັນເປັນໂອກາດຂອງພວກເຮົາທີ່ຈະກໍ
+າຈັດພວກມັນຄັ້ງດຽວແລະຕະຫຼອດໄປ.
 
-310
-00:19:44,600 --> 00:19:46,600
-[AGENT BARR]
-It's definitely this way, sir.
-ມັນແນ່ນອນທາງນີ້ເດີເດີເດີ.
+397
+00:56:52,000 --> 00:56:57,800
+Turner, why is that thing not up and running?
+-Just arrived here, sir. The generator will be online shortly.
+ເທັນເນີ, ເປັນຫຍັງສິ່ງນັ້ນຈຶ່ງບໍ່ເຮັດວຽກ?
+- ຫາກໍ່ມາຮອດບ່ອນນີ້ເດີ. ເຄື່ອງຜະລິດໄຟຟ້າຈະເປີດໃຊ້ໃນໄວໆນີ້.
 
-311
-00:19:47,100 --> 00:19:49,100
-[BURKE]
-It's a dead end.
-ມັນເປັນທາງບິດບິດ.
+398
+00:56:58,500 --> 00:57:01,000
+Got to move faster.
+This is top priority.
+ຕ້ອງເຄື່ອນໄຫວໄວຂຶ້ນ.ນີ້
+ແມ່ນຄວາມສໍາຄັນສູງສຸດ.
 
-312
-00:19:49,600 --> 00:19:51,600
-[AGENT BARR]
-Readings are getting stronger.
-ການອ່ານ ກໍາ ລັງແຂງແຮງຂຶ້ນ.
+399
+00:57:37,100 --> 00:57:42,800
+All the readings I'm getting from outside are huge.
+The stuff I'm getting from down there
+I've never seen anything like it before.
+ການອ່ານທັງໝົດທີ່ຂ້ອຍໄດ້ຮັບຈາກພາຍນອກແມ່ນໃຫຍ່ຫຼວງ.ສິ່ງຕ່າງໆ
+ທີ່ຂ້ອຍໄດ້ຮັບມາຈາກບ່ອນນັ້ນຂ້ອຍບໍ່ເຄີຍເຫັນຫຍັງຄືກັບມັນກ່ອນ.
 
-313
-00:19:52,100 --> 00:19:54,100
-[BURKE]
-We'll double-back. Take another tunnel.
-ພວກເຮົາຈະກັບຄືນໄປບ່ອນສອງຄັ້ງ. ເອົາທໍ່ອີກຫນຶ່ງ.
+400
+00:57:55,600 --> 00:57:59,600
+What's going on?
+-This is where we need to go.
+ເກີດຫຍັງຂຶ້ນ?
+- ນີ້ແມ່ນບ່ອນທີ່ພວກເຮົາຕ້ອງໄປ.
 
-314
-00:19:54,600 --> 00:19:56,600
-[CARNBY]
-Wait. Aline, look at this...
-ລໍຖ້າ. ອາລິນ, ເບິ່ງສິ່ງນີ້...
+401
+00:58:01,400 --> 00:58:06,600
+They're all coming here for a reason.
+Until we know what that is, we're not gonna be able
+to stop them.
+ພວກເຂົາທັງໝົດກໍາລັງມາບ່ອນນີ້ດ້ວຍເຫດຜົນ.ຈົນກວ່າພວກເຮົາ
+ຈະຮູ້ວ່າມັນເປັນຫຍັງ,ພວກເຮົາຈະບໍ່ສາມາດຢຸດພວກເຂົາໄດ້.
 
-315
-00:19:57,100 --> 00:19:59,100
-[ALINE]
-They're Abkani.
-ພວກເຂົາເປັນອາບຄານີ.
+402
+00:58:07,900 --> 00:58:09,800
+So we go in?
+ສະນັ້ນພວກເຮົາຈະເຂົ້າໄປບໍ?
 
-316
-00:19:59,600 --> 00:20:01,600
-[AGENT CHEUNG]
+403
+00:58:12,200 --> 00:58:14,900
+Miles, Defend the perimeter..
+ໄມລ໌ສ໌, ປົກປ້ອງຂອບເຂດ..
+
+404
+00:59:22,300 --> 00:59:27,000
+Turner, where's the genny at right now?
+-Any minute now. Just back off, Miles.
+ເທັນເນີ, ເຄື່ອງຜະລິດໄຟຟ້າຢູ່ໃສໃນເວລານີ້?
+- ທຸກນາທີດຽວນີ້. ພຽງແຕ່ກັບຄືນໄປບ່ອນ, ໄມລ໌ສ໌.
+
+405
+00:59:27,300 --> 00:59:30,900
+Come on, Turner. We need those lights, all right?
+We need the power. Let's go.
+ມາແລ້ວ, Turner .ພວກເຮົາຕ້ອງການແສງສະຫວ່າງ
+ນັ້ນ,ດີບໍ?ພວກເຮົາຕ້ອງການພະລັງງານ.ໄປ.
+
+406
+00:59:38,100 --> 00:59:42,600
+Perimeter defenses up.
+Still waiting for the genny to come back on line.
+ການປ້ອງກັນບໍລິເວນຂຶ້ນ.ຍັງລໍຖ້າ
+ໃຫ້ເຄື່ອງຜະລິດໄຟຟ້າກັບມາສູ່ສາຍ.
+
+407
+00:59:45,700 --> 00:59:51,300
+All agents, Britannia operation in code yellow.
+All units in place and standing by for genny to come online.
+ຕົວແທນທັງໝົດ,ການປະຕິບັດງານບຣິຕານຢາໃນລະຫັດສີເຫຼືອງ.ໜ່ວຍງານທັງ
+ໝົດຢູ່ບ່ອນແລະພ້ອມແລ້ວສໍາລັບເຄື່ອງຈັກຜະລິດໄຟຟ້າທີ່ຈະເປີດໃຊ້ງານ.
+
+408
+01:00:03,600 --> 01:00:09,600
+Misfire. Misfire.
+No engagement. Hold your fire.
+ການຍິງບໍ່ດີ.ການຍິງທີ່ບໍ່ດີ
+.ບໍ່ມີການແຕ່ງງານ.ຢຸດຍິງ.
+
+409
+01:00:34,500 --> 01:00:38,000
+Krash, any updates?
+-Perimeter defenses in place, Commander.
+ຄຣັສສ໌, ມີການປັບປຸງໃດບໍ?
+- ການປ້ອງກັນບໍລິເວນຢູ່ໃນສະຖານທີ່, ຜູ້ບັນຊາການ.
+
+410
+01:00:38,700 --> 01:00:40,300
+Copy that.
+ເຂົ້າໃຈແລ້ວ.
+
+411
+01:01:12,900 --> 01:01:15,000
+Looks like it's a dead-end.
+ເບິ່ງຄືວ່າມັນເປັນຈຸດຕາຍ.
+
+412
+01:01:15,300 --> 01:01:16,900
+I'll go check it out
+ຂ້ອຍຈະໄປກວດເບິ່ງມັນ
+
+413
+01:01:20,500 --> 01:01:25,600
+Turner, you said five minutes ten minutes ago.
+Come on. Where the hell are the lights?
+ເທັນເນີ,ເຈົ້າບອກຫ້ານາທີສິບນາທີ
+ກ່ອນ.ມາແລ້ວ.ແສງສະຫວ່າງຢູ່ໃສ?
+
+414
+01:01:36,000 --> 01:01:37,700
+About fucking time.
+ມັນເຖິງເວລາແລ້ວ.
+
+415
+01:01:49,100 --> 01:01:51,100
+Readings are stable, sir.
+ການອ່ານແມ່ນໝັ້ນຄົງເດີເດີເດີ.
+
+416
+01:01:57,800 --> 01:01:59,600
+Another dead-end.
+ອີກຈຸດບິດບິດໜຶ່ງ.
+
+417
+01:02:00,400 --> 01:02:04,400
+Maybe we should double back
+and try another tunnel.
+ບາງທີພວກເຮົາຄວນກັບຄືນໄປບ່ອນ
+ສອງຄັ້ງແລະພະຍາຍາມທໍ່ອື່ນ.
+
+418
+01:02:07,900 --> 01:02:10,600
+There's got to be
+something else here.
+ມັນຕ້ອງມີບາງສິ່ງບາງຢ່າງອີກບ່ອນນີ້.
+
+419
+01:02:20,100 --> 01:02:22,000
+Look at this.
+ເບິ່ງສິ່ງນີ້.
+
+420
+01:02:24,000 --> 01:02:26,000
+It's Abkani.
+ມັນເປັນອາບຄານີ.
+
+421
+01:02:33,000 --> 01:02:35,700
 There's more over here.
-ມີອີກຢູ່ບ່ອນນີ້.
+-I think I found something.
+ມີອີກຫຼາຍຢ່າງຢູ່ບ່ອນນີ້.
+- ຂ້ອຍຄິດວ່າຂ້ອຍພົບບາງສິ່ງບາງຢ່າງ.
 
-317
-00:20:02,100 --> 00:20:04,100
-[AGENT BARR]
-What do you got, Marko?
-ເຈົ້າມີຫຍັງ, ມາຣໂກ?
-
-318
-00:20:04,600 --> 00:20:06,600
-[AGENT BARR]
-Marko!
-ມາເກວ!
-
-319
-00:20:07,100 --> 00:20:09,200
-[BURKE]
-We've got to get down there.
+422
+01:02:46,700 --> 01:02:48,800
+We've got to go down there.
 ພວກເຮົາຕ້ອງລົງໄປບ່ອນນັ້ນ.
 
-320
-00:20:09,700 --> 00:20:11,800
-[URKE]
-We're retrieving Marko. Keep me posted.
-ພວກເຮົາ ກໍາ ລັງເອົາມາຣໂກ. ໃຫ້ຂ້ອຍຮູ້.
+423
+01:02:49,600 --> 01:02:51,700
+Let's move, people.
+ໄປເຄື່ອນຍ້າຍ, ຄົນ.
 
-321
-00:20:12,300 --> 00:20:15,100
-[AGENT FEENSTRA]
+424
+01:02:54,400 --> 01:02:57,600
 How long do we have to hold them?
+-Only till dawn.
 ພວກເຮົາຕ້ອງຖືພວກມັນໄວ້ດົນປານໃດ?
+- ພຽງແຕ່ຈົນຮອດຕອນເຊົ້າ.
 
-322
-00:20:15,600 --> 00:20:17,600
-[AGENT MILES]
-Only until dawn.
-ພຽງແຕ່ຈົນຮອດຕອນເຊົ້າ.
+425
+01:02:57,800 --> 01:03:00,200
+That's four hours away, sir..
+-That's right.
+ນັ້ນແມ່ນຫ່າງຈາກສີ່ຊົ່ວໂມງເດີເດີ..
+- ນັ້ນແມ່ນຄວາມຈິງ.
 
-323
-00:20:18,100 --> 00:20:20,100
-[AGENT FEENSTRA]
-Sir... that's four hours away.
-ເຈົ້າ... ນັ້ນແມ່ນຫ່າງຈາກສີ່ຊົ່ວໂມງ.
-
-324
-00:20:20,600 --> 00:20:22,600
-[AGENT MILES]
-I know.
-ຂ້ອຍຮູ້ແລ້ວ.
-
-325
-00:20:23,100 --> 00:20:25,100
-[AGENT MILES]
+426
+01:03:24,200 --> 01:03:25,600
 Incoming!
 ເຂົ້າມາ!
 
-326
-00:20:25,600 --> 00:20:27,700
-[AGENT MILES]
-Where the hell are the lights?
-ແສງສະຫວ່າງຢູ່ໃສ?
+427
+01:03:33,600 --> 01:03:36,400
+Electromagnetics around the mine
+are off the scale.
+ໄຟຟ້າແມ່ເຫຼັກຢູ່ອ້ອມແອ້ມ
+ບໍ່ແຮ່ແມ່ນອອກຈາກລະດັບ.
 
-327
-00:20:28,200 --> 00:20:31,700
-[AGENT TURNER]
-The generator's not coming on-line. They must be disrupting it.
-ເຄື່ອງຜະລິດໄຟຟ້າບໍ່ໄດ້ເຂົ້າສູ່ລະບົບ
-. ພວກເຂົາຕ້ອງ ກໍາ ລັງລົບກວນມັນ.
+428
+01:03:36,600 --> 01:03:41,000
+Getting too much interference.
+Satellite intel is compromised.
+ໄດ້ຮັບການແຊກແຊງຫຼາຍເກີນໄປ
+.ຂໍ້ມູນດາວທຽມຖືກຕົກລົງກັນ.
 
-328
-00:20:32,200 --> 00:20:35,000
-[KRASH]
-Electromagnetics around the mine are off the scale.
-ກະດານໄຟຟ້າແມກເນັດອ້ອມແອ້ມແຮ່ທາດແມ່ນອອກຈາກລະດັບ.
+429
+01:03:44,500 --> 01:03:46,300
+Fischer, no!
+ຟິສເກີ, ບໍ່!
 
-329
-00:20:35,500 --> 00:20:37,500
-[CARNBY]
-Aline!
-ອາລິນ!
+430
+01:03:52,800 --> 01:03:55,200
+Sir, the generator's gone!
+ເຈົ້າ, ເຄື່ອງຜະລິດໄຟຟ້າຫາຍໄປແລ້ວ!
 
-330
-00:20:38,000 --> 00:20:40,000
-[BURKE]
-Cheung! Cut the line!
-Cheung! ຕັດສາຍ!
+431
+01:04:23,100 --> 01:04:26,400
+Hold your fire till they reach
+the second perimeter.
+ຢຸດຍິງຈົນກວ່າພວກເຂົາ
+ຈະບັນລຸຂອບເຂດທີສອງ.
 
-331
-00:20:40,500 --> 00:20:42,500
-[ALINE]
+432
+01:04:31,100 --> 01:04:36,800
+Commander, 713 has approved reinforcements
+They're already en route. What is your status?
+Can you read me?
+ຜູ້ບັນຊາການ, 713 ໄດ້ອະນຸມັດການເສີມສ້າງພວກເຂົາກໍາລັງ
+ເດີນທາງໄປແລ້ວສະຖານະການຂອງທ່ານແມ່ນຫຍັງ?ເຈົ້າອ່ານຂ້ອຍໄດ້ບໍ?
+
+433
+01:04:36,900 --> 01:04:40,900
+Yeah. We're retrieving Marko.
+Tell them to hurry up, goddamn it.
+ແມ່ນແລ້ວ.ພວກເຮົາກໍາລັງເອົາມາຣ
+ໂກ.ບອກພວກເຂົາໃຫ້ໄວຂຶ້ນ,ສະບາຍດີ.
+
+434
+01:04:44,800 --> 01:04:47,500
+Hold your fire
+till they hit the perimeter.
+ຢຸດຍິງຈົນກວ່າພວກເຂົາຈະຕີເຂດອ້ອມຂ້າງ.
+
+435
+01:05:04,100 --> 01:05:05,600
+Fire! Fire!
+ໄຟ! ໄຟ!
+
+436
+01:05:30,500 --> 01:05:32,100
+Faster. Come on.
+ໄວຂຶ້ນ. ມາແລ້ວ.
+
+437
+01:05:34,100 --> 01:05:36,900
+Aline, Hang on! Hang on!
+ອາລິນ, ລໍຖ້າ! ລໍ ຖ້າ!
+
+438
+01:05:38,400 --> 01:05:40,000
+I got you.
+ຂ້ອຍຈັບເຈົ້າແລ້ວ.
+
+439
+01:05:40,100 --> 01:05:41,900
+Grab ahold!
+Get your footing!.
+ຈັບໄວ້! ເອົາຕີນຂອງທ່ານ!.
+
+440
+01:05:45,400 --> 01:05:47,200
+Go! Go! Go! Go!
+ໄປ! ໄປ! ອອກໄປ!
+
+441
+01:05:47,900 --> 01:05:49,800
+Come on! Move Faster!
+ມາແລ້ວ! ຍ້າຍໄວຂຶ້ນ!
+
+442
+01:05:49,800 --> 01:05:51,700
+Come on!
+Get down there! Jump!
+ມາແລ້ວ! ລົງໄປບ່ອນນັ້ນ! ໂດດ!
+
+443
+01:05:51,800 --> 01:05:53,600
+Burke, I'm stuck!
+ບຸກ, ຂ້ອຍຕິດຢູ່!
+
+444
+01:06:03,300 --> 01:06:05,000
+What? Cheung-
+ຫຍັງ? Cheung -
+
+445
+01:06:05,400 --> 01:06:13,100
+Lay down. Lay down. Barr, get over here. I'm
+gonna keep pressure on the wound. I need you
+to wrap this now. Relax. Everything's gonna be fine.
+ນອນ.ນອນລົງ.ບາຣ໌,ມາບ່ອນນີ້.ຂ້ອຍຈະຮັກສາຄວາມກົດດັນໃສ່ບາດເຈັບ.
+ຂ້ອຍຕ້ອງການໃຫ້ເຈົ້າຫຸ້ມຫໍ່ສິ່ງນີ້ດຽວນີ້.ສະບາຍໃຈ.ທຸກຢ່າງຈະດີດີ.
+
+446
+01:06:13,200 --> 01:06:17,200
+-Gunships approaching.
+-Richards, Richards, do you copy?
+- ເຮືອປືນ ກໍາ ລັງໃກ້ຊິດ.
+- ຣິກຊາດສ໌, ຣິກສາດສໍ, ເຈົ້າໄດ້ຍິນບໍ?
+
+447
+01:06:39,100 --> 01:06:41,100
+All right, Feenstra.
+Check on Richards.
+ດີແລ້ວ, ຟີນສຕຣາ. ເບິ່ງຣິກຊາດສ໌.
+
+448
+01:06:51,100 --> 01:06:54,200
+I don't think we're supposed to be here.
+ຂ້ອຍບໍ່ຄິດວ່າພວກເຮົາຄວນຢູ່ບ່ອນນີ້.
+
+449
+01:06:55,100 --> 01:06:57,300
+You guys, check this out.
+ພວກເຈົ້າ, ເບິ່ງສິ່ງນີ້.
+
+450
+01:07:01,700 --> 01:07:03,400
 It's a warning.
 ມັນເປັນການເຕືອນ.
 
-332
-00:20:43,000 --> 00:20:45,000
-[CARNBY]
-Subtle.
-ງຽບໆ.
+451
+01:07:03,800 --> 01:07:05,400
+What's the warning?
+ຄໍາເຕືອນແມ່ນຫຍັງ?
 
-333
-00:20:45,500 --> 00:20:51,100
-[ALINE]
-The gist of it is, even if you make it down here alive, you're already dead.
-ຄວາມສໍາຄັນຂອງມັນແມ່ນ,
-ເຖິງແມ່ນວ່າເຈົ້າຈະເຮັດໃຫ້ມັນລົງມາບ່ອນນີ້ມີຊີວິດຢູ່, ເຈົ້າຕາຍແລ້ວ.
+452
+01:07:06,600 --> 01:07:11,900
+It says once you make it
+down here alive you're already dead.
+ມັນເວົ້າວ່າເມື່ອເຈົ້າລົງມາບ່ອນນີ້
+ມີຊີວິດຢູ່ແລ້ວເຈົ້າຕາຍແລ້ວ.
 
-334
-00:20:51,600 --> 00:20:54,750
-[AGENT MILES]
-Hold your fire until they're at the second perimeter.
-ຢຸດຍິງຈົນກວ່າພວກເຂົາຈະຢູ່ເຂດອ້ອມຮອບທີສອງ.
+453
+01:07:13,000 --> 01:07:14,900
+That's comforting.
+ນັ້ນແມ່ນຄວາມສະບາຍໃຈ.
 
-335
-00:20:55,250 --> 00:20:57,250
-[AGENT MILES]
-Fire!
-ໄຟ!
+454
+01:07:16,800 --> 01:07:20,800
+Miles...
+-Burke, go again.
+ໄມລສ໌...
+- ບຸກ, ໄປອີກເທື່ອໜຶ່ງ.
 
-336
-00:20:57,750 --> 00:20:59,750
-[CARNBY]
-Aline!
-ອາລິນ!
+455
+01:07:21,000 --> 01:07:25,000
+I'm trying to find a way out of here.
+Miles, Krash, anyone.
+ຂ້ອຍກໍາລັງພະຍາຍາມຊອກຫາວິທີອອກ
+ຈາກບ່ອນນີ້.ໄມລ໌ສ໌,ຄຣັສ,ໃຜກໍ່ຕາມ.
 
-337
-00:21:00,250 --> 00:21:02,350
-[BURKE]
-We've got to get up there.
-ພວກເຮົາຕ້ອງຂຶ້ນໄປບ່ອນນັ້ນ.
+456
+01:07:25,800 --> 01:07:27,400
+Burke, go again.
+ບຸກ, ໄປອີກເທື່ອໜຶ່ງ.
 
-338
-00:21:02,850 --> 00:21:04,850
-[GENT TURNER]
-Hit it.
-ເອົາມັນໄປ.
+457
+01:07:33,400 --> 01:07:35,400
+Are you getting anything?
+-Nothing.
+ເຈົ້າໄດ້ຮັບຫຍັງບໍ?
+- ບໍ່ມີຫຍັງເລີຍ.
 
-339
-00:21:05,350 --> 00:21:07,350
-[AGENT FEENSTRA]
-We made it, sir.
-ພວກເຮົາເຮັດໄດ້ເດີເດີ.
+458
+01:07:35,500 --> 01:07:39,800
+I'm getting nothing but static. Change your
+frequency, Try again, Burke, Miles come in.
+ຂ້ອຍບໍ່ໄດ້ໄດ້ຮັບຫຍັງນອກຈາກສະຖຽນລະພາບ.ປ່ຽນຄວາມ
+ຖີ່ຂອງທ່ານ,ພະຍາຍາມອີກເທື່ອໜຶ່ງ,ບີກ,ໄມລ໌ເຂົ້າມາ.
 
-340
-00:21:07,850 --> 00:21:09,850
-[AGENT TURNER]
-Fischer?
-ຟິສເກີ?
+459
+01:08:07,300 --> 01:08:09,100
+Fall back!
+ກັບຄືນໄປບ່ອນ!
 
-341
-00:21:10,350 --> 00:21:12,350
-[BURKE]
-Goddamn it!
-ສະບາຍດີ!
+460
+01:08:09,400 --> 01:08:11,500
+We've got to get out of here.
+ພວກເຮົາຕ້ອງອອກຈາກບ່ອນນີ້.
 
-342
-00:21:12,850 --> 00:21:14,850
-[CARNBY]
-We'll find a way out.
-ພວກເຮົາຈະຊອກຫາທາງອອກ.
+461
+01:08:37,900 --> 01:08:40,000
+Watch it! Watch her legs!
+ລະມັດລະວັງມັນ! ລະວັງຕີນຂອງນາງ!
 
-343
-00:21:15,350 --> 00:21:18,850
-[CARNBY]
-It's just like the organism Fischer took out of Pinkerton.
-ມັນຄ້າຍຄືກັບຊີວະພາບທີ່ຟິສເກີເອົາອອກຈາກປິນເກີຕັນ.
+462
+01:09:15,400 --> 01:09:17,400
+She's gone.
+ນາງໄປແລ້ວ.
 
-344
-00:21:19,350 --> 00:21:24,250
-[ALINE]
-Maybe this is what they look like when they grow outside a human host?
-ບາງທີພວກມັນເບິ່ງຄືດັ່ງນີ້ເມື່ອພວກມັນເຕີບໃຫຍ່ຢູ່ພາຍນອກເຈົ້າພາບມະນຸດບໍ
-?
+463
+01:10:05,100 --> 01:10:11,100
+Burke, come on. She's gone.
+-Come on. We've got to find a way out.
+ເບີກ, ມາແລ້ວ. ນາງໄປແລ້ວ.
+- ມາແລ້ວ. ພວກເຮົາຕ້ອງຊອກຫາທາງອອກ.
 
-345
-00:21:24,750 --> 00:21:26,850
-[BURKE]
-I think you'd better see this.
-ຂ້ອຍຄິດວ່າເຈົ້າຄວນເບິ່ງສິ່ງນີ້.
+464
+01:10:14,900 --> 01:10:18,600
+Miles, Richards is dead.
+Everyone is dead!
+ໄມລ໌ສ໌,ຣິກຊາດສ໌
+ຕາຍແລ້ວ.ທຸກຄົນຕາຍແລ້ວ!
 
-346
-00:21:27,350 --> 00:21:29,350
-[AGENT MILES]
+465
+01:10:27,600 --> 01:10:31,600
+All right, find some high ground.
+I'm gonna stay here. Go.
+ດີແລ້ວ,ຊອກຫາພື້ນທີ່ສູງ
+ບາງຢ່າງ.ຂ້ອຍຈະຢູ່ບ່ອນນີ້.ໄປ.
+
+466
+01:10:32,700 --> 01:10:36,000
+Go!
+-Watch your back.
+ໄປ!
+- ເບິ່ງແຍງຫຼັງຂອງທ່ານ.
+
+467
+01:10:51,700 --> 01:10:55,700
+Something tells me we're not
+the first ones down here.
+ບາງສິ່ງບາງຢ່າງບອກຂ້ອຍວ່າພວກເຮົາ
+ບໍ່ແມ່ນຄົນທໍາອິດທີ່ລົງມາບ່ອນນີ້.
+
+468
+01:10:57,100 --> 01:10:58,900
+Let's blow it, Barr.
+ມາລະເບີດມັນ, ບາຣ໌.
+
+469
+01:11:36,000 --> 01:11:37,500
+Let's go.
+ໄປແລ້ວ.
+
+470
+01:12:05,800 --> 01:12:07,500
 Feenstra!
-ຟິນສຕຣາ!
+ຟີນສຕຣາ!
 
-347
-00:21:29,850 --> 00:21:31,950
-[ALINE]
-The Abkani didn't put this here.
-ຄົນອາບຄານີບໍ່ໄດ້ວາງສິ່ງນີ້ຢູ່ນີ້.
+471
+01:15:23,400 --> 01:15:27,000
+This isn't happening.
+It doesn't make any sense.
+ນີ້ແມ່ນບໍ່ໄດ້ເກີດຂຶ້ນ
+.ມັນບໍ່ມີຄວາມໝາຍໃດໆ.
 
-348
-00:21:32,450 --> 00:21:34,450
-[GENT BARR]
-There's no way through.
-ບໍ່ມີທາງຜ່ານ.
+472
+01:15:40,400 --> 01:15:45,200
+We've been trying to stop something
+that they created the whole time.
+ພວກເຮົາກໍາລັງພະຍາຍາມຢຸດບາງສິ່ງ
+ບາງຢ່າງທີ່ພວກເຂົາສ້າງຕະຫຼອດເວລາ.
 
-349
-00:21:34,950 --> 00:21:36,950
-[BURKE]
-There's always a way...
-ມີທາງຢູ່ສະເຫມີ...
+473
+01:15:45,500 --> 01:15:52,500
+My guys are dying out there for nothing!
+for fucking nothing!
+ພວກຜູ້ຊາຍຂອງຂ້ອຍກໍາລັງຕາຍຢູ່ບ່ອນນັ້ນ
+ບໍ່ມີຫຍັງເລີຍ!ບໍ່ມີຫຍັງເລີຍເລີຍ!
 
-350
-00:21:37,450 --> 00:21:39,450
-[AGENT FEENSTRA]
-I'm out.
-ຂ້ອຍອອກແລ້ວ.
+474
+01:16:06,300 --> 01:16:08,400
+You guys, come here.
+What's going on?
+ພວກເຈົ້າ, ມາບ່ອນນີ້. ເກີດຫຍັງຂຶ້ນ?
 
-351
-00:21:39,950 --> 00:21:41,950
-[AGENT MILES]
-Last one.
-ຄົນສຸດທ້າຍ.
+475
+01:16:22,900 --> 01:16:25,000
+Aline, give me the artifact.
+ອາລິນ, ໃຫ້ຂ້ອຍວັດຖຸບູຮານ.
 
-352
-00:21:42,450 --> 00:21:44,450
-[AGENT MILES]
-Commander? Krash? Anyone?
-ຜູ້ບັນຊາການ? ການຕົກລົງ? ມີໃຜບໍ?
+476
+01:16:36,800 --> 01:16:38,300
+it's a key
+ເປັນກະແຈ
 
-353
-00:21:44,950 --> 00:21:50,900
-[AGENT FEENSTRA]
-I can't walk. If I lay down suppressing fire, maybe you can make it out of here.
-ຂ້ອຍບໍ່ສາມາດຍ່າງໄດ້. ຖ້າຂ້ອຍນອນລົງໃນການຄວບຄຸມໄຟ
-, ບາງທີເຈົ້າສາມາດອອກຈາກບ່ອນນີ້ໄດ້.
+477
+01:16:39,100 --> 01:16:42,400
+This could be our only way out of here.
+ນີ້ແມ່ນອາດຈະເປັນທາງອອກ
+ດຽວຂອງພວກເຮົາຈາກບ່ອນນີ້.
 
-354
-00:21:51,400 --> 00:21:54,550
-[AGENT MILES]
-I die fighting or I don't die at all.
-ຂ້ອຍຕາຍໃນການຕໍ່ສູ້ຫຼືຂ້ອຍບໍ່ຕາຍເລີຍ.
+478
+01:16:42,700 --> 01:16:46,400
+The answers I've been looking for my whole life.
+could be on the other side of this thing.
+ຄໍາຕອບທີ່ຂ້ອຍກໍາລັງຊອກຫາຕະຫຼອດຊີວິດ
+ຂອງຂ້ອຍອາດຢູ່ທາງອື່ນຂອງສິ່ງນີ້.
 
-355
-00:21:55,050 --> 00:21:57,500
-[ALINE]
-You sure this is going to work?
-ເຈົ້າແນ່ໃຈວ່າສິ່ງນີ້ຈະເຮັດວຽກໄດ້ບໍ?
+479
+01:16:46,500 --> 01:16:51,000
+Some doors are meant to stay shut.
+-What do you want to do, Carnby?
+ປະຕູບາງຢ່າງຄວນປິດໄວ້.
+- ເຈົ້າຢາກເຮັດຫຍັງ, ຄານບີ?
 
-356
-00:21:58,000 --> 00:22:00,000
-[ALINE]
-What is this place?
-ບ່ອນນີ້ເປັນຫຍັງ?
+480
+01:17:01,800 --> 01:17:03,900
+I say...
+ຂ້ອຍເວົ້າວ່າ...
 
-357
-00:22:00,500 --> 00:22:02,500
-[CARNBY]
-This is where it happened.
-ນີ້ແມ່ນບ່ອນທີ່ມັນເກີດຂຶ້ນ.
+481
+01:17:06,700 --> 01:17:09,300
+...we trust the Abkani.
+ພວກເຮົາເຊື່ອຖືຊາວອາບຄານີ.
 
-358
-00:22:03,000 --> 00:22:05,000
-[ALINE]
-Who did this to you?
-ໃຜເຮັດສິ່ງນີ້ກັບເຈົ້າ?
+482
+01:17:10,400 --> 01:17:13,300
+Drop your weapons!
+Now move away from the door!
+ຖິ້ມອາວຸດຂອງທ່ານ!
+ດຽວນີ້ຍ້າຍອອກຈາກປະຕູ!
 
-359
-00:22:05,500 --> 00:22:07,500
-[AGENT BARR]
-Commander...
-ຜູ້ບັນຊາການ...
+483
+01:17:16,300 --> 01:17:18,200
+Do it!
+ເຮັດມັນ!
 
-360
-00:22:08,000 --> 00:22:10,000
-[ALINE]
-Edward, look...
-ເອດວາດ, ເບິ່ງ...
+484
+01:17:19,300 --> 01:17:21,200
+Put them down!
+ເອົາພວກມັນລົງ!
 
-361
-00:22:10,500 --> 00:22:12,500
-[CARNBY]
-So it's a key.
-ສະນັ້ນມັນເປັນປຸ່ມ.
+485
+01:17:22,400 --> 01:17:24,900
+Guns on the floor now!
+ປືນໃສ່ພື້ນດຽວນີ້!
 
-362
-00:22:13,000 --> 00:22:19,000
-[BURKE]
-I say we got two options. One, we open this door, deal with whatever's on the other side.
-ຂ້ອຍເວົ້າວ່າພວກເຮົາມີທາງເລືອກສອງຢ່າງ. ຫນຶ່ງ,
-ພວກເຮົາເປີດປະຕູນີ້, ຮັບມືກັບສິ່ງໃດກໍ່ຕາມທີ່ຢູ່ທາງອື່ນ.
+486
+01:17:26,000 --> 01:17:31,900
+That's good. That's good. Now get in here.
+Does this place bring back memories, Carnby?
+ນັ້ນແມ່ນດີ.ນັ້ນແມ່ນທີ່ດີ.ດຽວນີ້ເຂົ້າມາບ່ອນນີ້
+.ບ່ອນນີ້ເຮັດໃຫ້ຄວາມຊົງຈໍາກັບຄືນມາບໍ,ຄານບີ?
 
-363
-00:22:19,500 --> 00:22:23,700
-[ALINE]
-The pictograms carved here make it pretty clear that's a bad idea.
-ຮູບປັ້ນທີ່ຖືກຕັດຢູ່ບ່ອນນີ້ເຮັດໃຫ້ມັນແຈ້ງວ່າມັນເປັນຄວາມຄິດທີ່ບໍ່ດີ
-.
+487
+01:17:32,600 --> 01:17:34,400
+You were my last failure here.
+ເຈົ້າເປັນຄວາມລົ້ມເຫຼວ
+ສຸດທ້າຍຂອງຂ້ອຍຢູ່ນີ້.
 
-364
-00:22:24,200 --> 00:22:30,150
-[BURKE]
-Two, we set enough C-4 to bury this place. Keep whatever's in there, down here for good.
-ສອງ, ພວກເຮົາ ກໍາ ນົດ C-4 ພຽງພໍທີ່ຈະຝັງບ່ອນນີ້
-. ຮັກສາສິ່ງໃດກໍ່ຕາມໃນນັ້ນ, ຢູ່ບ່ອນນີ້ຕະຫຼອດໄປ.
+488
+01:17:34,600 --> 01:17:39,400
+If you hadn't escaped, 713 would never have
+shut down my experiments.
+ຖ້າເຈົ້າບໍ່ໄດ້ໜີ, 713 ຈະບໍ່
+ເຄີຍປິດການທົດລອງຂອງຂ້ອຍເລີຍ.
 
-365
-00:22:30,650 --> 00:22:35,200
-[CARNBY]
-The answers I've been looking for my whole life could be in there.
-ຄໍາຕອບທີ່ຂ້ອຍ ກໍາ ລັງຊອກຫາຕະຫຼອດຊີວິດຂອງຂ້ອຍອາດຈະຢູ່ໃນນັ້ນ.
+489
+01:17:41,200 --> 01:17:46,200
+I spen twenty years looking for the key
+to that door! Now give it to me.
+ຂ້ອຍໃຊ້ເວລາສິບປີຊອກຫາປຸ່ມຂອງ
+ປະຕູນັ້ນ!ດຽວນີ້ໃຫ້ມັນໃຫ້ຂ້ອຍ.
 
-366
-00:22:35,700 --> 00:22:38,150
-[ALINE]
-Some doors are locked for a reason.
-ບາງປະຕູຖືກລັອກດ້ວຍເຫດຜົນ.
+490
+01:17:46,500 --> 01:17:48,600
+Give it to me!
+ໃຫ້ມັນໃຫ້ຂ້ອຍ!
 
-367
-00:22:38,650 --> 00:22:41,100
-[CARNBY]
-Barr... how much C-4 you got left?
-ບາຣ໌... ເຈົ້າຍັງເຫຼືອ C-4 ຫຼາຍປານໃດ?
+491
+01:17:49,500 --> 01:17:56,800
+What a pity, you were a fine archaeologist.
+-Aline, just give it to him.
+ໂຊກຮ້າຍຫຼາຍປານໃດ, ເຈົ້າເປັນນັກບູຮານສາດທີ່ດີເລີດ.
+- ອາລິນ, ພຽງແຕ່ໃຫ້ມັນໃຫ້ລາວ.
 
-368
-00:22:41,600 --> 00:22:43,700
-[AGENT BARR]
-Enough to blow this place to...
-ພຽງພໍທີ່ຈະລະເບີດບ່ອນນີ້ໃຫ້...
+492
+01:17:57,600 --> 01:18:00,200
+There's been enough killing today.
+ມີການຄາດຕະກໍາພຽງພໍໃນມື້ນີ້.
 
-369
-00:22:44,200 --> 00:22:46,300
-[HUDGENS]
-I'm afraid I can't allow that.
-ຂ້ອຍຢ້ານວ່າຂ້ອຍບໍ່ສາມາດອະນຸຍາດໃຫ້ມັນໄດ້.
+493
+01:18:05,000 --> 01:18:06,800
+That's fine. Right.
+ມັນບໍ່ເປັນຫຍັງ. ແມ່ນແລ້ວ.
 
-370
-00:22:46,800 --> 00:22:49,250
-[HUDGENS]
-Now drop your weapons and back away.
-ດຽວນີ້ຖິ້ມອາວຸດຂອງທ່ານແລະກັບຄືນໄປບ່ອນ.
+494
+01:18:08,700 --> 01:18:10,700
+Now get over there!
+ດຽວນີ້ໄປບ່ອນນັ້ນ!
 
-371
-00:22:49,750 --> 00:22:51,750
-[CARNBY]
-It was 713.
-ມັນເປັນ 713.
+495
+01:18:13,400 --> 01:18:16,900
+You never could have opened the door, you know.
+Not without this.
+ເຈົ້າບໍ່ສາມາດເປີດປະຕູໄດ້ເລີຍ,
+ເຈົ້າຮູ້ແລ້ວ.ບໍ່ໂດຍບໍ່ມີສິ່ງນີ້.
 
-372
-00:22:52,250 --> 00:22:58,250
-[HUDGENS]
-Our early work was crude, I admit. But eventually we perfected the implant process. You were our last failure, Carnby. If you hadn't escaped, 713 never would've shut down the experiments. Burke's eyes flash with anger.
-ວຽກງານເບື້ອງຕົ້ນຂອງພວກເຮົາແມ່ນແປກໆ, ຂ້ອຍຍອມຮັບ. ແຕ່ໃນທີ່ສຸດພວກເຮົາໄດ້ເຮັດໃຫ້ຂະບວນການປູກຝັງສົມບູນແບບ.
-ເຈົ້າເປັນຄວາມລົ້ມເຫຼວສຸດທ້າຍຂອງພວກເຮົາ, ຄາຣນບີ. ຖ້າເຈົ້າບໍ່ໄດ້ຫນີ, 713 ຈະບໍ່ເຄີຍປິດການທົດລອງ. ຕາຂອງເບີກສ່ອງແສງດ້ວຍຄວາມໂຊກຮ້າຍ.
+496
+01:18:21,200 --> 01:18:25,200
+Hudgens, Don't be insane.
+Don't open that door.
+ຮູດເຈນສ໌, ຢ່າໂຊກຮ້າຍ. ຢ່າເປີດປະຕູນັ້ນ.
 
-373
-00:22:58,750 --> 00:23:00,850
-[BURKE]
-There's no way this was sanctioned.
-ມັນບໍ່ມີທາງໃດທີ່ສິ່ງນີ້ຖືກອະນຸມັດ.
+497
+01:18:26,600 --> 01:18:30,100
+Hudgens, please, think about what you're doing
+Don't open that door!
+ຮູດເຈນສ໌,ກະລຸນາ,ຄິດກ່ຽວກັບສິ່ງທີ່
+ເຈົ້າກໍາລັງເຮັດຢ່າເປີດປະຕູນັ້ນ!
 
-374
-00:23:01,350 --> 00:23:07,350
-[HUDGENS]
-Before your kind took over, 713 had very different... priorities. Now, you just blaze in and destroy everything before we can learn to control it. I've wasted twenty years working in secret because of short-sighted men like you. Hudgens sees the Abkani device Aline is holding.
-ກ່ອນທີ່ຄົນຂອງເຈົ້າຈະເຂົ້າຮັບຕໍາແຫນ່ງ, 713 ມີບູລິມະສິດທີ່ແຕກຕ່າງກັນຫຼາຍ. ດຽວນີ້, ເຈົ້າພຽງແຕ່ໄຫມ້ເຂົ້າມາແລະ ທໍາ ລາຍທຸກຢ່າງກ່ອນທີ່ພວກເຮົາສາມາດຮຽນຮູ້ການຄວບຄຸມມັນໄດ້
-. ຂ້ອຍໄດ້ເສຍເວລາສິບປີເຮັດວຽກໃນຄວາມລັບຍ້ອນຜູ້ຊາຍທີ່ເບິ່ງສັ້ນເຊັ່ນເຈົ້າ. ຮູດເຈນສ໌ເຫັນອຸປະກອນອາບຄານີທີ່ອາລິນຖືຢູ່.
+498
+01:19:38,700 --> 01:19:44,200
+All right, let's just back up nice and easy,
+nice and slow.
+ດີແລ້ວ,ພວກເຮົາພຽງແຕ່ກັບຄືນໄປບ່ອນຢ່າງ
+ງ່າຍດາຍແລະສະບາຍດີ,ຢ່າງສະບາຍແລະຊ້າໆ.
 
-375
-00:23:07,850 --> 00:23:13,850
-[HUDGENS]
-There it is... Aline's expression is firm, unafraid. She grips the device tightly. Hudgens is about to pull the trigger.
-ມັນຢູ່ບ່ອນນັ້ນ... ການສະແດງອອກຂອງອາລິນແມ່ນແຂງແຮງ, ບໍ່ຢ້ານກົວ
-. ນາງຈັບອຸປະກອນຢ່າງເຂັ້ມງວດ. ຮູດເຈນສ໌ ກໍາ ລັງຈະດຶງກະຕຸ້ນ.
+499
+01:19:52,400 --> 01:19:54,000
+Go, go, go!
+ອອກໄປ, ອອກໄປ!
 
-376
-00:23:14,350 --> 00:23:16,350
-[HUDGENS]
-You were a fine archeologist.
-ເຈົ້າເປັນນັກບູຮານສາດທີ່ດີເລີດ.
+500
+01:20:10,300 --> 01:20:12,300
+Come on! This way! Come on!
+ມາ! ທາງນີ້! ມາ!
 
-377
-00:23:16,850 --> 00:23:18,850
-[CARNBY]
-Aline...
-ອາລິນ...
+501
+01:20:22,100 --> 01:20:26,700
+Commander Burke,
+Miles, Richards...Come in!
+ຜູ້ບັນຊາການເບີກ,ໄມລ໌ສ
+໌,ຣິກຊາດສ໌...ເຂົ້າມາ!
 
-378
-00:23:19,350 --> 00:23:22,500
-[CARNBY]
-Give him the key. Enough people have died today.
-ໃຫ້ລາວປຸ່ມປຸ່ມ. ມີຄົນຕາຍພຽງພໍໃນມື້ນີ້.
+502
+01:20:27,100 --> 01:20:29,600
+Or any operations. Over.
+ຫຼືການປະຕິບັດງານໃດໆ. ໝົດແລ້ວ.
 
-379
-00:23:23,000 --> 00:23:26,150
-[HUDGENS]
-You couldn't have opened it anyway. Not without this...
-ເຈົ້າບໍ່ສາມາດເປີດມັນໄດ້ຢ່າງໃດກໍ່ຕາມ. ບໍ່ແມ່ນໂດຍບໍ່ມີສິ່ງນີ້...
+503
+01:20:30,500 --> 01:20:32,500
+Can anyone read me?
+ມີໃຜອ່ານຂ້ອຍໄດ້ບໍ?
 
-380
-00:23:26,650 --> 00:23:31,200
-[HUDGENS]
-Insert the key. line inserts the device into the opening in the door.
-ໃສ່ປຸ່ມ. ເສັ້ນທາງໃສ່ອຸປະກອນເຂົ້າໄປໃນການເປີດໃນປະຕູ.
+504
+01:20:40,200 --> 01:20:42,100
+come on! Go, go! Run!
+ມາແລ້ວ! ໄປ, ໄປ! ແລ່ນ!
 
-381
-00:23:31,700 --> 00:23:33,700
-[HUDGENS]
-Now turn it.
-ດຽວນີ້ຫັນມັນ.
+505
+01:20:42,700 --> 01:20:46,700
+Hey! There's a ladder up here!
+-How's it look?
+ເຮ້! ມີຂັ້ນເທິງຢູ່ເທິງນີ້!
+- ມັນເບິ່ງຄືແນວໃດ?
 
-382
-00:23:34,200 --> 00:23:40,200
-[HUDGENS]
-When we found the first of them, 713 saw just another threat to be eliminated. But I knew it was something more. It was the first. The first to wake. I've woken others since then. But the rest are coming...
-ເມື່ອພວກເຮົາພົບຄົນ ທໍາ ອິດຂອງພວກເຂົາ, 713 ເຫັນພຽງແຕ່ໄພຂົ່ມຂູ່ອີກອັນ ຫນຶ່ງ ທີ່ຈະຖືກລົບລ້າງ. ແຕ່ຂ້ອຍຮູ້ວ່າມັນເປັນບາງສິ່ງບາງຢ່າງຫຼາຍກວ່ານັ້ນ
-. ມັນແມ່ນຄັ້ງ ທໍາ ອິດ. ຄົນ ທໍາ ອິດທີ່ຈະຕື່ນຕົວ. ຂ້ອຍໄດ້ຕື່ນຄົນອື່ນນັບຕັ້ງແຕ່ນັ້ນ. ແຕ່ສ່ວນທີ່ເຫຼືອ ກໍາ ລັງມາ...
+506
+01:20:48,000 --> 01:20:51,500
+It looks like It could be a way out
+-All right, I'm pulling..
+ມັນເບິ່ງຄືວ່າ ມັນອາດຈະເປັນທາງອອກ
+- ດີແລ້ວ, ຂ້ອຍ ກໍາ ລັງດຶງ..
 
-383
-00:23:40,700 --> 00:23:43,150
-[LINE]
-These doors won't hold them for long
-ປະຕູເຫຼົ່ານີ້ຈະບໍ່ຖືພວກມັນດົນນານ
+507
+01:20:56,800 --> 01:21:00,100
+What is it?
+-Detonator's inactive. The signal's not going through
+ມັນເປັນຫຍັງ?
+- ເຄື່ອງລະເບີດບໍ່ເຄື່ອນໄຫວ. ສັນຍານບໍ່ໄດ້ຜ່ານ
 
-384
-00:23:43,650 --> 00:23:46,450
-[BURKE]
-Once we get out, we can remote detonate.
-ເມື່ອພວກເຮົາອອກໄປແລ້ວ, ພວກເຮົາສາມາດລະເບີດທາງໄກໄດ້.
+508
+01:21:00,300 --> 01:21:03,800
+We'll find another way. Let's get out of here!
+I've got to get back there. I've got to get closer to them.
+ພວກເຮົາຈະຊອກຫາວິທີອື່ນ.ໄປຈາກບ່ອນນີ້!ຂ້ອຍຕ້ອງ
+ກັບຄືນໄປບ່ອນນັ້ນ.ຂ້ອຍຕ້ອງໃກ້ຊິດກັບພວກເຂົາ.
 
-385
-00:23:46,950 --> 00:23:51,500
-[CARNBY]
-Look at the dust on the floor. This is where Hudgens got in.
-ເບິ່ງຂີ້ຝຸ່ນຢູ່ເທິງພື້ນ. ນີ້ແມ່ນບ່ອນທີ່ຮູດເຈນສ໌ເຂົ້າມາ.
+509
+01:21:03,900 --> 01:21:05,700
+You can hear them!
+Let's get the hell out of here!
+ເຈົ້າສາມາດຍິນພວກເຂົາໄດ້! ໄປຈາກບ່ອນນີ້!
 
-386
-00:23:52,000 --> 00:23:54,000
-[CARNBY]
-Over there!
-ຢູ່ບ່ອນນັ້ນ!
+510
+01:21:06,200 --> 01:21:07,900
+Let's go! Come on!
+ໄປ! ມາ!
 
-387
-00:23:54,500 --> 00:23:57,650
-[BURKE]
-The remote detonator's inactive. The signal can't get through.
-ເຄື່ອງລະເບີດຫ່າງໄກສອກຫຼີກບໍ່ເຄື່ອນໄຫວ. ສັນຍານບໍ່ສາມາດຜ່ານໄດ້.
+511
+01:21:09,500 --> 01:21:12,300
+You guys get out of here, I'm going back.
+ພວກເຈົ້າອອກຈາກບ່ອນນີ້
+,ຂ້ອຍຈະກັບຄືນໄປບ່ອນ.
 
-388
-00:23:58,150 --> 00:24:00,150
-[CARNBY]
-We'll find a way.
-ພວກເຮົາຈະຊອກຫາວິທີ.
+512
+01:21:12,900 --> 01:21:14,800
+Burke, come on!
+ບຸກ, ມາແລ້ວ!
 
-389
-00:24:00,650 --> 00:24:04,150
-[URKE]
-You saved my life, Carnby. I don't much like debts.
-ເຈົ້າໄດ້ຊ່ວຍຊີວິດຂ້ອຍ, ຄາຣນບີ. ຂ້ອຍບໍ່ມັກຫນີ້ສິນຫຼາຍ.
-
-390
-00:24:04,650 --> 00:24:06,650
-[CARNBY]
-Burke!
-ບຸກ!
-
-391
-00:24:07,150 --> 00:24:10,300
-[ALINE]
-Edward... if he detonates those charges, we're all dead.
-ເອດວາດ... ຖ້າລາວລະເບີດການໂຈມຕີນັ້ນ, ພວກເຮົາທຸກຄົນຕາຍແລ້ວ.
-
-392
-00:24:10,800 --> 00:24:13,250
-[CARNBY]
+513
+01:22:39,600 --> 01:22:42,200
 They were under us the whole time.
 ພວກເຂົາຢູ່ພາຍໃຕ້ພວກເຮົາຕະຫຼອດເວລາ.
 
-393
-00:24:13,750 --> 00:24:15,750
-[ALINE]
-Where are all the children?
-ເດັກນ້ອຍທັງ ຫມົດ ຢູ່ໃສ?
+514
+01:22:53,400 --> 01:22:55,600
+I don't believe it.
+ຂ້ອຍບໍ່ເຊື່ອມັນ.
 
-394
-00:24:16,250 --> 00:24:18,250
-[CARNBY]
-Something's very wrong...
-ບາງສິ່ງບາງຢ່າງຜິດພາດຫຼາຍ...
+515
+01:23:11,000 --> 01:23:12,900
+Sister Clara?
+ເອື້ອຍຄລາຣາ?
 
-395
-00:24:18,750 --> 00:24:20,750
-[ALINE]
-Edward... what's going on?
-ເອດວາດ... ເກີດຫຍັງຂຶ້ນ?
+516
+01:24:40,300 --> 01:24:43,800
+8:45 A.M.
+CITY EVACUATED
+8:45 ໂມງເຊົ້າ ເມືອງຖືກຍົກຍ້າຍອອກໄປ
 
-396
-00:24:21,250 --> 00:24:26,850
-[CARNBY]
-Remember what Hudgens said? I was his last failure. He said he perfected the implant process.
-ຈື່ໄວ້ວ່າຮູດເຈນສ໌ເວົ້າຫຍັງ? ຂ້ອຍເປັນຄວາມລົ້ມເຫຼວສຸດທ້າຍຂອງລາວ
-. ລາວເວົ້າວ່າລາວໄດ້ເຮັດໃຫ້ຂະບວນການປູກຝັງສົມບູນແບບ.
+517
+01:26:02,000 --> 01:26:06,400
+The gate was closed again.
+But, like Abkani discovered...
+ປະຕູຖືກປິດອີກເທື່ອໜຶ່ງ.ແຕ່
+,ດັ່ງທີ່ອາບຄານີຄົ້ນພົບ...
 
-397
-00:24:27,350 --> 00:24:29,350
-[ALINE]
-It can't be...
-ມັນບໍ່ສາມາດເປັນໄດ້...
+518
+01:26:06,600 --> 01:26:11,200
+...there's a price to pay for
+bringing darkness into the light.
+...ມີລາຄາທີ່ຈະຈ່າຍສໍາລັບການ
+ນໍາຄວາມມືດເຂົ້າສູ່ແສງສະຫວ່າງ.
 
-398
-00:24:29,850 --> 00:24:33,000
-[CARNBY]
-Then where the hell is everybody? Where's everybody gone?
-ຫຼັງຈາກນັ້ນທຸກຄົນຢູ່ໃສ? ທຸກຄົນໄປໃສ?
+519
+01:26:11,400 --> 01:26:15,300
+The Abkani people were wiped off the face of the earth.
+ຄົນອາບຄານີຖືກລ້າງອອກຈາກໃບໜ້າໂລກ.
 
-399
-00:24:33,500 --> 00:24:39,500
-[CARNBY]
-Here's what I know. There are two worlds on this planet. A world of light and a world of darkness. For millions of years, these worlds were in balance. But now, the lights of human civilization burn everywhere. The dark places are disappearing. We forced them to come out of the shadows. Now, it's my job to force them back in. My name is Edward Carnby. I'm here to protect you from things you don't believe in.
-ນີ້ແມ່ນສິ່ງທີ່ຂ້ອຍຮູ້. ມີໂລກສອງໂລກໃນໂລກນີ້. ໂລກຂອງແສງສະຫວ່າງແລະໂລກຂອງຄວາມມືດ. ເປັນເວລາຫຼາຍລ້ານປີ, ໂລກເຫຼົ່ານີ້ຢູ່ໃນຄວາມສົມດຸນ. ແຕ່ດຽວນີ້, ແສງຂອງວັດທະນະທໍາມະນຸດໄຫມ້ຢູ່ທຸກບ່ອນ. ສະຖານທີ່ມືດ
-ກໍາ ລັງຫາຍໄປ. ພວກເຮົາບັງຄັບໃຫ້ພວກເຂົາອອກຈາກເງົາ. ດຽວນີ້, ມັນເປັນວຽກຂອງຂ້ອຍທີ່ຈະບັງຊາພວກເຂົາກັບມາ. ຂ້ອຍຊື່ວ່າເອດວາດ ຄາຣນບີ. ຂ້ອຍຢູ່ບ່ອນນີ້ເພື່ອປົກປ້ອງເຈົ້າຈາກສິ່ງທີ່ທ່ານບໍ່ເຊື່ອ.
-
-400
-00:24:40,000 --> 00:24:42,000
-[CARNBY]
-Aline...
-ອາລິນ...
-
-401
-00:24:42,500 --> 00:24:44,500
-[ALINE]
-Yes Edward?
-ແມ່ນແລ້ວ ເອດວາດ?
-
-402
-00:24:45,000 --> 00:24:47,450
-[CARNBY]
-It's going to be a busy day.
-ມັນຈະເປັນມື້ທີ່ຫຍຸ້ງຍາກ.
+520
+01:26:15,500 --> 01:26:20,300
+And now, it looks like it's happening
+all over again.
+ແລະດຽວນີ້,ມັນເບິ່ງຄືວ່າມັນ
+ກໍາລັງເກີດຂຶ້ນອີກເທື່ອໜຶ່ງ.
 
