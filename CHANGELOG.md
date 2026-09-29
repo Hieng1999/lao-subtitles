@@ -1,5 +1,39 @@
 # Changelog
 
+## 2026-09-29 (catalog update)
+
+Catalog update (batch 3): 797 films, up from 551. 610 of them are now real "Subtitles"
+files (was 303) and 187 are still "Translated screenplay" files (was 248).
+
+- **246 new films.** Their English subtitles came from an English subtitle track already
+  inside the film file, rather than from a separate download. 241 are new films; 5 are a
+  second card for a film already listed, covering a different cut (Avatar Extended,
+  Blade: Trinity Unrated, and the Director's Cut of Battle Royale, Kingdom of Heaven and
+  Pitch Black).
+- **61 "Translated screenplay" cards became "Subtitles" cards.** Those films now have a
+  Lao file timed to the film's real dialogue instead of a screenplay with even spacing.
+- **Venom is listed as a 2018 film.** It was listed as 2019, which is wrong: Venom was
+  released in 2018. Its card and both of its files moved from `Venom.2019` to
+  `Venom.2018`.
+- **Attribution lines now have to name subtitle work.** A credit carried out of an
+  English subtitle file is only shown when it says it is about the subtitles --
+  subtitles, captions, transcription, syncing, correction, translation or dialogue. A
+  credit naming something else (for example a video re-encoder and a release group) is
+  not a subtitle source, so those cards say "English subtitle source not stated"
+  instead. 7 cards changed.
+- **Three titles corrected:** "Alien Verses Predator" -> "Alien vs. Predator", "Alien
+  Verses Predator Requiem" -> "Alien vs. Predator Requiem", and "The Hitmans Wifes
+  Bodyguard" -> "The Hitman's Wife's Bodyguard".
+- **Six duplicate or broken cards removed.** "Hobbs & Shaw" and "Fast & Furious
+  Presents: Hobbs & Shaw" were the same film and are now one card; "Cowboys & Aliens",
+  "Tom & Jerry" and "Victoria & Abdul" moved to file names that spell out "and"; and the
+  Batman v Superman Ultimate Edition card, whose file name ended in a stray ".None",
+  became a theatrical card plus a proper Ultimate Edition card.
+- **11 films are held back** and keep whatever card they already had: 8 whose title could
+  not be resolved, Beauty and the Beast (2017) and Asteroid City (2023), which did not
+  pass the automatic checks, and the theatrical cut of Avatar (2009), which has not been
+  translated yet.
+
 ## 2026-09-26 (catalog update)
 
 Catalog update (Part S2): fixes found by re-checking the live batch-1 site (555 films,

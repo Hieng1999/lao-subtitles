@@ -1,3529 +1,5289 @@
 1
-00:00:10,000 --> 00:00:12,000
-[BLADE]
------
-- -
+00:01:03,856 --> 00:01:05,482
+La policía la encontró en la calle.
+ຕໍາຫຼວດພົບນາງຢູ່ຖະໜົນຫົນທາງ.
 
 2
-00:00:12,500 --> 00:00:14,500
-[NURSE #1]
-She's not breathing!
-ນາງບໍ່ໄດ້ຫາຍໃຈ!
+00:01:05,649 --> 00:01:08,110
+Parece que le ha mordido
+algún tipo de animal.
+ມັນເບິ່ງຄືວ່າມີສັດບາງຊະນິດໄດ້ກັດລາວ.
 
 3
-00:00:15,000 --> 00:00:17,000
-[SENIOR RESIDENT]
-Intubate her!
-ເອົານາງເຂົ້າໄປໃນທໍ່!
+00:01:08,402 --> 00:01:12,573
+Joder. Ha roto aguas.
+Tiene contracciones uterinas.
+ໂຈເດີ.ມັນແຕກນ້ໍາ.ມັນມີການ
+contractions ຂອງ uterine .
 
 4
-00:00:17,500 --> 00:00:19,500
-[RESIDENT]
-Blood-pressure's forty and falling --
-ຄວາມກົດດັນເລືອດແມ່ນສີ່ສິບແລະຫຼຸດລົງ -
+00:01:12,739 --> 00:01:14,199
+Hay que hacerle una cesárea.
+ຂ້ອຍຕ້ອງເຮັດການຕັດຊີຊາໃຫ້ນາງ.
 
 5
-00:00:20,000 --> 00:00:23,850
-[SENIOR RESIDENT]
-Jesus, her water's broken --  She's going into uterine contractions --
-ພຣະເຢຊູ, ນ້ ໍາ ຂອງນາງແຕກແລ້ວ - ນາງ ກໍາ
-ລັງເຂົ້າໄປໃນການ contractions ຂອງ uterine -
+00:01:19,913 --> 00:01:22,291
+PERMISO DE CONDUCIR
+VANESSA BROOKS
+ໃບອະນຸຍາດຂັບຂີ່ VANESSA BROOKS
 
 6
-00:00:24,350 --> 00:00:26,350
-[DENNIS]
-So where we going?
-ສະນັ້ນພວກເຮົາຈະໄປໃສ?
+00:02:09,795 --> 00:02:12,341
+HOY
+ມື້ນີ້
 
 7
-00:00:26,850 --> 00:00:28,850
-[RAQUEL]
-It's a surprise.
-ມັນເປັນຄວາມແປກໃຈ.
+00:02:12,591 --> 00:02:15,761
+- ¿Qué tienes ahí, pequeño?
+- Es mi bomba de calor.
+- ເຈົ້າມີຫຍັງຢູ່ບ່ອນນັ້ນ, ນ້ອຍ?
+- ມັນເປັນລະເບີດຄວາມຮ້ອນຂອງຂ້ອຍ.
 
 8
-00:00:29,350 --> 00:00:31,350
-[DENNIS]
-I likes surprises.
-ຂ້ອຍມັກຄວາມແປກໃຈ.
+00:02:15,928 --> 00:02:17,095
+Seguro que sí.
+ແນ່ນອນວ່າແມ່ນແລ້ວ.
 
 9
-00:00:31,850 --> 00:00:34,650
-[RAQUEL]
-What do you have down there, little man?
-ເຈົ້າມີຫຍັງຢູ່ລຸ່ມນັ້ນ, ຜູ້ຊາຍນ້ອຍ?
+00:02:20,724 --> 00:02:23,769
+- ¿Adónde vamos?
+- Es una sorpresa, monada.
+- ໄປໃສ?
+- ມັນເປັນຄວາມແປກໃຈ, ໂມນາດາ.
 
 10
-00:00:35,150 --> 00:00:37,150
-[DENNIS]
-Heat-seeker.
-ເຄື່ອງຊອກຫາຄວາມຮ້ອນ.
+00:02:23,936 --> 00:02:28,106
+Sí, me gustan las sorpresas. Genial.
+ແມ່ນແລ້ວ, ຂ້ອຍມັກຄວາມແປກໃຈ. ດີເລີດ.
 
 11
-00:00:37,650 --> 00:00:39,650
-[RAQUEL]
-I'll bet.
-ຂ້ອຍແນ່ໃຈວ່າ.
+00:02:31,693 --> 00:02:33,612
+Madre mía.
+ແມ່ຂອງຂ້ອຍ.
 
 12
-00:00:40,150 --> 00:00:42,600
-[DENNIS]
-What the fuck are we doing here?
+00:02:34,530 --> 00:02:36,323
+¿Qué cojones hacemos aquí?
 ພວກເຮົາເຮັດຫຍັງຢູ່ບ່ອນນີ້?
 
 13
-00:00:43,100 --> 00:00:45,100
-[DENNIS]
-Fuck, I need a drink!!!
-ຂ້ອຍຕ້ອງການດື່ມ!!!
+00:02:39,159 --> 00:02:41,370
+Mira todo eso.
+ເບິ່ງສິ່ງທັງ ໝົດ ນັ້ນ.
 
 14
-00:00:45,600 --> 00:00:47,600
-[RAQUEL]
-What's wrong, baby?
-ມີຫຍັງເກີດຂຶ້ນແມ?
-
-15
-00:00:48,100 --> 00:00:50,100
-[BLADE]
-Where is Deacon Frost?
-Deacon Frost ຢູ່ໃສ?
-
-16
-00:00:50,600 --> 00:00:52,600
-[BLADE]
-Got something in your throat.
-ມີບາງສິ່ງບາງຢ່າງຢູ່ໃນຄໍຂອງທ່ານ.
-
-17
-00:00:53,100 --> 00:00:55,900
-[QUINN]
-Fuck you, Day-walker, I ain't saying shit --
-ຂ້ອຍບໍ່ໄດ້ເວົ້າຫຍັງເລີຍ -
-
-18
-00:00:56,400 --> 00:00:58,400
-[BLADE]
-Frost.
-ຟຣັສຕ໌
-
-19
-00:00:58,900 --> 00:01:03,100
-[QUINN]
-You won't stop him, Blade. The Tide's rising, the Sleeper's gonna --
-ເຈົ້າຈະບໍ່ຢຸດລາວ, ບເລດ. ຄື້ນຟອງ ກໍາ ລັງຂຶ້ນ, ຜູ້ນອນຈະ -
-
-20
-00:01:03,600 --> 00:01:05,600
-[DENNIS]
-Please don't --
-ກະລຸນາຢ່າ...
-
-21
-00:01:06,100 --> 00:01:09,950
-[ASSISTANT]
-Brought you a baked potato, nice and crispy. Still warm, too.
-ຂ້ອຍເອົາເຂົ້າຈີ່ທີ່ປຸງແຕ່ງມາໃຫ້ເຈົ້າ
-, ດີແລະ crispy. ຍັງອົບອຸ່ນເຊັ່ນກັນ.
-
-22
-00:01:10,450 --> 00:01:12,450
-[CURTIS]
-Jesus, that's rank --
-ພຣະເຢຊູ, ນັ້ນແມ່ນລະດັບ -
-
-23
-00:01:12,950 --> 00:01:14,950
-[CURTIS]
-What's his story?
-ເລື່ອງລາວແມ່ນຫຍັງ?
-
-24
-00:01:15,450 --> 00:01:21,450
-[ASSISTANT]
-Paramedics said he was still screaming when they found him. Looks like some joker had stapled him to a wall.
-ພວກແພດສຸກສາລາເວົ້າວ່າລາວຍັງຮ້ອງໄຫ້ຢູ່ເມື່ອພວກເຂົາພົບລາວ
-. ເບິ່ງຄືວ່າຄົນໂຊກແຊງບາງຄົນໄດ້ຕິດລາວໃສ່ກໍາແພງ.
-
-25
-00:01:21,950 --> 00:01:23,950
-[CURTIS]
-Pretty.
-ດີເລີດ.
-
-26
-00:01:24,450 --> 00:01:26,550
-[KAREN]
-You took this off a DOA?
-ເຈົ້າເອົາສິ່ງນີ້ຈາກ DOA ບໍ?
-
-27
-00:01:27,050 --> 00:01:29,050
-[KAREN]
-This isn't human blood.
-ນີ້ແມ່ນບໍ່ແມ່ນເລືອດຂອງມະນຸດ.
-
-28
-00:01:29,550 --> 00:01:31,550
-[CURTIS]
-Then what is it?
-ຫຼັງຈາກນັ້ນມັນເປັນຫຍັງ?
-
-29
-00:01:32,050 --> 00:01:35,550
-[KAREN]
-I don't know --  Look at this blood smear --
-ຂ້ອຍບໍ່ຮູ້ - ເບິ່ງການສີດເລືອດນີ້ແມ...
-
-30
-00:01:36,050 --> 00:01:42,050
-[KAREN]
-The red blood cells are biconvex, which is theoretically impossible. They're hypochromic, there's virtually no hemoglobin in them.  Look at the PMNs, they're binucleated, they should be mononucleated.
-ຊະນິດເລືອດແດງແມ່ນ biconvex, ເຊິ່ງເປັນໄປບໍ່ໄດ້ທາງທິດສະດີ. ພວກເຂົາເປັນ hypochromic, ມີເກືອບບໍ່ມີ
-hemoglobin ໃນພວກເຂົາ. ເບິ່ງ PMNs ໄດ້, ພວກເຂົາເປັນ binucleated, ພວກເຂົາຄວນເປັນ mononucleated ໄດ້.
-
-31
-00:01:42,550 --> 00:01:44,550
-[CURTIS]
-What about the chemistry panel?
-ແລະຄະນະກໍາມະການເຄມີແນວໃດ?
-
-32
-00:01:45,050 --> 00:01:51,050
-[JULIE]
-Blood sugar level is three times the norm, phosphorous and uric acid are off the scales.  Like the woman said, impossible.
-ລະດັບນ້ ໍາ ຕານໃນເລືອດແມ່ນສາມເທົ່າຂອງມາດຕະຖານ,
-ຟັສຟໍຣັສແລະອາຊິດຢູຣິກແມ່ນອອກຈາກລະດັບ. ດັ່ງທີ່ແມ່ຍິງເວົ້າ, ບໍ່ເປັນໄປໄດ້.
-
-33
-00:01:51,550 --> 00:01:57,550
-[KAREN]
-Curtis, it's three in the morning. I'm really not in the mood for one of your practical jokes.
-ຄູຕິສ໌, ມັນເປັນເວລາສາມໂມງເຊົ້າ. ຂ້ອຍບໍ່ຢູ່ໃນສະພາບແວດລ້ອມ
-ສໍາ ລັບໂຊກຮ້າຍຕົວຈິງຂອງທ່ານຫນຶ່ງ.
-
-34
-00:01:58,050 --> 00:02:04,050
-[CURTIS]
-It's not a joke. I've got the stiff sitting in the morgue right now -- look, just come up and see him, okay? Five minutes, that's all I ask.
-ມັນບໍ່ແມ່ນໂຊກແຊງ. ຂ້ອຍມີສົບທີ່ແຂງແຮງນັ່ງຢູ່ໃນຫ້ອງສົບໃນເວລານີ້ -
-ເບິ່ງ, ພຽງແຕ່ຂຶ້ນມາເບິ່ງລາວ, ດີບໍ? ຫ້ານາທີ, ນັ້ນແມ່ນທັງຫມົດທີ່ຂ້ອຍຂໍ.
-
-35
-00:02:04,550 --> 00:02:07,700
-[KAREN]
-I thought you promised to give me some distance?
-ຂ້ອຍຄິດວ່າເຈົ້າສັນຍາວ່າຈະໃຫ້ຂ້ອຍໄລຍະຫ່າງບາງຢ່າງບໍ?
-
-36
-00:02:08,200 --> 00:02:11,000
-[CURTIS]
-This is purely professional curiosity, Karen, I swear.
-ນີ້ແມ່ນຄວາມຢາກຮູ້ສຶກດ້ານວິຊາຊີບຢ່າງບໍລິສຸດ, ຄາເຣນ, ຂ້ອຍສາບານໂຕ.
-
-37
-00:02:11,500 --> 00:02:17,100
-[KAREN]
-Five minutes, not a second more. And I don't want to hear a word about "us".
-ຫ້ານາທີ, ບໍ່ອີກວິນາທີຫນຶ່ງ.
-ແລະຂ້ອຍບໍ່ຢາກຍິນ ຄໍາ ເວົ້າກ່ຽວກັບ"ພວກເຮົາ".
-
-38
-00:02:17,600 --> 00:02:19,600
-[CURTIS]
-No problem.
-ບໍ່ເປັນຫຍັງ.
-
-39
-00:02:20,100 --> 00:02:22,900
-[KAREN]
-You haven't started in on the internal organs?
-ເຈົ້າຍັງບໍ່ເລີ່ມຕົ້ນກ່ຽວກັບອະໄວຍະວະພາຍໃນບໍ?
-
-40
-00:02:23,400 --> 00:02:26,200
-[CURTIS]
-Just the blood sample from the pericardial sac.
-ພຽງແຕ່ຕົວຢ່າງເລືອດຈາກຖົງ pericardial ໄດ້.
-
-41
-00:02:26,700 --> 00:02:28,700
-[CURTIS]
-That's weird --
-ນັ້ນແມ່ນເລື່ອງແປກໆ -
-
-42
-00:02:29,200 --> 00:02:31,200
-[KAREN]
-What?
-ຫຍັງ?
-
-43
-00:02:31,700 --> 00:02:37,300
-[CURTIS]
-He looks different now, burns are less extreme, some of these wounds have closed up --
-ລາວເບິ່ງຄືວ່າແຕກຕ່າງກັນດຽວນີ້, ການເຜົາໄຫມ້ແມ່ນບໍ່ຮ້າຍແຮງຫຼາຍ
-, ບາງສ່ວນຂອງບາດເຈັບເຫຼົ່ານີ້ໄດ້ປິດລົງ -
-
-44
-00:02:37,800 --> 00:02:41,650
-[CURTIS]
-Tell me something, honestly, you ever have second thoughts about us?
-ບອກຂ້ອຍບາງສິ່ງບາງຢ່າງ, ຢ່າງຈິງໃຈ,
-ເຈົ້າເຄີຍຄິດສອງຄັ້ງກ່ຽວກັບພວກເຮົາບໍ?
-
-45
-00:02:42,150 --> 00:02:44,150
-[KAREN]
-Sometimes --
-ບາງຄັ້ງ...
-
-46
-00:02:44,650 --> 00:02:50,250
-[KAREN]
--- but then I remember what an ass-hole you were and I'm snapped back to reality.
--
-ແຕ່ຫຼັງຈາກນັ້ນຂ້ອຍຈື່ວ່າເຈົ້າເປັນຄົນໂຊກຮ້າຍຫຼາຍປານໃດແລະຂ້ອຍຖືກດຶງກັບຄືນສູ່ຄວາມເປັນຈິງ.
-
-47
-00:02:50,750 --> 00:02:53,550
-[CURTIS]
-Jesus, Karen, you're breaking my heart here --
-ພຣະເຢຊູ, ຄາເຣນ, ເຈົ້າ ກໍາ ລັງ ທໍາ ລາຍຫົວໃຈຂອງຂ້ອຍຢູ່ນີ້ -
-
-48
-00:02:54,050 --> 00:02:56,050
-[QUINN]
--- more -- blood --
-- ຫຼາຍຂຶ້ນ - ເລືອດ -
-
-49
-00:02:56,550 --> 00:02:58,550
-[BLADE]
-Now don't we look dapper?
-ດຽວນີ້ພວກເຮົາເບິ່ງຄືວ່າບໍ່ສວຍງາມບໍ?
-
-50
-00:02:59,050 --> 00:03:01,050
-[UNIFORM #1]
-Hold it, ass-hole!
-ຢຸດຢັ້ງ, ຄົນໂຊກຮ້າຍ!
-
-51
-00:03:01,550 --> 00:03:03,550
-[UNIFORM #1]
-I said hold it!!!
-ຂ້ອຍບອກວ່າ ຢຸດຢັ້ງ!!!
-
-52
-00:03:04,050 --> 00:03:06,050
-[KAREN]
-My shoulder -- dislocated --
-ກະຕ່າຂອງຂ້ອຍ - ຖືກຂັບຂີ່ -
-
-53
-00:03:06,550 --> 00:03:08,550
-[BLADE]
-Whistler!
-ວີສລເຕີ!
-
-54
-00:03:09,050 --> 00:03:11,150
-[WHISTLER]
-Are we bringing home strays now?
-ພວກເຮົາ ກໍາ ລັງເອົາຄົນຍ່າງບ້ານຢູ່ບໍ?
-
-55
-00:03:11,650 --> 00:03:13,650
-[BLADE]
-She's been bitten.
-ນາງຖືກກັດແລ້ວ.
-
-56
-00:03:14,150 --> 00:03:16,150
-[WHISTLER]
-You should've killed her, then.
-ເຈົ້າຄວນຂ້ານາງ, ຫຼັງຈາກນັ້ນ.
-
-57
-00:03:16,650 --> 00:03:19,450
-[BLADE]
-She hasn't turned yet.  You can help her.
-ນາງຍັງບໍ່ປ່ຽນໃຈເທື່ອ. ເຈົ້າສາມາດຊ່ວຍນາງໄດ້.
-
-58
-00:03:19,950 --> 00:03:24,850
-[WHISTLER]
-No promises. You watch her close. She starts to turn, you finish her off.
-ບໍ່ມີຄໍາຫມັ້ນສັນຍາ. ເຈົ້າເບິ່ງນາງຢ່າງໃກ້ຊິດ
-. ນາງເລີ່ມຫັນໄປ, ເຈົ້າສິ້ນສຸດນາງ.
-
-59
-00:03:25,350 --> 00:03:29,900
-[WHISTLER]
-Localized necrosis. She's borderline. Another hour and she'd be well into the change.
-ໂນກຣັສທີ່ຢູ່ທ້ອງຖິ່ນ. ນາງຢູ່ຊາຍແດນ.
-ອີກຊົ່ວໂມງແລະນາງຈະເຂົ້າໄປໃນການປ່ຽນແປງຢ່າງດີ.
-
-60
-00:03:30,400 --> 00:03:32,400
-[WHISTLER]
-Can you hear me, woman?
-ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ, ແມ່ຍິງ?
-
-61
-00:03:32,900 --> 00:03:34,900
-[KAREN]
-What -- ?
-ຫຍັງ -?
-
-62
-00:03:35,400 --> 00:03:41,400
-[WHISTLER]
-You've been bitten by a vampire. We've got to try and burn out the venom, just like a rattlesnake bite --
-ເຈົ້າຖືກແວມປີແມ. ພວກເຮົາຕ້ອງພະຍາຍາມເຜົາໄຫມ້ສານພິດ
-, ຄືກັບການແຊກແຊງຂອງຊ້າງກະຕຸ້ນ -
-
-63
-00:03:41,900 --> 00:03:43,900
-[WHISTLER]
-Hold her.
-ຈັບນາງໄວ້.
-
-64
-00:03:44,400 --> 00:03:50,400
-[WHISTLER]
-"Dr. Karen Jansen". Listen close, I'm going to inject you with an antidote made from allium setivum -- garlic. This is going to hurt. A lot.
-ດຣ ຄາເຣນ ຈານເຊັນ. ຟັງຢ່າງໃກ້ຊິດ, ຂ້ອຍຈະສັກຢາຕ້ານຢາທີ່ເຮັດຈາກອາລລຽມ
-ເຊຕິວູມ - ຫມາກ ໄມ້. ນີ້ແມ່ນຈະເຈັບປວດຫຼາຍ.
-
-65
-00:03:50,900 --> 00:03:56,500
-[DRAGONETTI]
-Blade. Once again, our interests have fallen victim to his ridiculous crusade. He must be destroyed.
-ກະດານ. ອີກເທື່ອຫນຶ່ງ,
-ຄວາມສົນໃຈຂອງພວກເຮົາໄດ້ຕົກເປັນຜູ້ເຄາະຮ້າຍຕໍ່ການເດີນຂະບວນການຂ້າມຊາດທີ່ໂຊກຮ້າຍຂອງລາວ. ລາວຕ້ອງຖືກທໍາລາຍ.
-
-66
-00:03:57,000 --> 00:03:59,000
-[FROST]
-You're wrong, Dragonetti.
-ເຈົ້າຜິດ, ດຣາກອນເນັດຕີ.
-
-67
-00:03:59,500 --> 00:04:05,100
-[FROST]
-The Day Walker represents a unique opportunity. We'd be fools to waste it by killing him.
-ວັນ Walker ສະແດງໃຫ້ເຫັນໂອກາດທີ່ເປັນເອກະລັກ.
-ພວກເຮົາຈະເປັນຄົນໂງ່ທີ່ຈະເສຍມັນໂດຍການຂ້າລາວ.
-
-68
-00:04:05,600 --> 00:04:11,600
-[DRAGONETTI]
-Deacon Frost. You refuse to speak our language, you insult the House of Erebus by using the humans' gutter-tongue, have you no respect for tradition?
-ເຈົ້າປະຕິເສດທີ່ຈະເວົ້າພາສາຂອງພວກເຮົາ, ເຈົ້າໂຊກຮ້າຍເຮືອນ Erebus
-ໂດຍການໃຊ້ພາສາກະຕ່າຂອງມະນຸດ, ເຈົ້າບໍ່ມີຄວາມເຄົາລົບປະເພນີບໍ?
-
-69
-00:04:12,100 --> 00:04:15,600
-[FROST]
-Why should I respect something which has outlived its purpose?
-ເປັນຫຍັງຂ້ອຍຈຶ່ງຕ້ອງເຄົາລົບສິ່ງບາງຢ່າງທີ່ເກີນຈຸດປະສົງຂອງມັນ?
-
-70
-00:04:16,100 --> 00:04:20,300
-[DRAGONETTI]
-I see. And what would you have us do with this "half-breed"?
-ຂ້ອຍເຫັນແລ້ວ. ແລະເຈົ້າຢາກໃຫ້ພວກເຮົາເຮັດຫຍັງກັບ"ເຄິ່ງພັນ" ນີ້?
-
-71
-00:04:20,800 --> 00:04:26,050
-[FROST]
-Study him. Unlock the secrets of his DNA. He's the key we've been looking for.
-ສຶກສາລາວ. ເປີດລັອກຄວາມລັບຂອງ DNA ຂອງລາວ
-. ລາວເປັນປຸ່ມທີ່ພວກເຮົາ ກໍາ ລັງຊອກຫາ.
-
-72
-00:04:26,550 --> 00:04:28,550
-[DRAGONETTI]
-He is an abomination!
-ລາວເປັນສິ່ງກຽດຊັງ!
-
-73
-00:04:29,050 --> 00:04:35,050
-[FROST]
-Why should we spend our lives cringing from the daylight when his blood offers us an alternative? Enough talk. It's time we stepped out of the shadows!
-ເປັນຫຍັງພວກເຮົາຈຶ່ງຕ້ອງໃຊ້ຊີວິດຂອງພວກເຮົາສັ່ນສະເທືອນຈາກແສງສະຫວ່າງຂອງມື້ໃນເວລາທີ່ເລືອດຂອງລາວສະ
-ເຫນີ ທາງເລືອກໃຫ້ພວກເຮົາ? ການເວົ້າພຽງພໍ. ມັນເຖິງເວລາແລ້ວທີ່ພວກເຮົາອອກຈາກເງົາ!
-
-74
-00:04:35,550 --> 00:04:41,500
-[FROST]
-Am I? Or am I just the first to say out loud what we've all been thinking?
-ຂ້ອຍເປັນບໍ? ຫຼືຂ້ອຍພຽງແຕ່ເປັນຄົນ ທໍາ
-ອິດທີ່ຈະເວົ້າຢ່າງສູງສິ່ງທີ່ພວກເຮົາທຸກຄົນ ກໍາ ລັງຄິດຢູ່ບໍ?
-
-75
-00:04:42,000 --> 00:04:48,000
-[DRAGONETTI]
-The shadows suit us, Frost. We've existed this way for thousands of years. Who are you to challenge our ways?
-ຄວາມເງົາເຫມາະສົມກັບພວກເຮົາ, ຟຣັສຕ໌. ພວກເຮົາມີຊີວິດຢູ່ແບບນີ້ເປັນເວລາຫຼາຍພັນປີແລ້ວ
-. ເຈົ້າເປັນໃຜທີ່ຈະທ້າທາຍວິທີຂອງພວກເຮົາ?
-
-76
-00:04:48,500 --> 00:04:54,500
-[FROST]
-Someone who's sick of living off scraps. The coming age belongs to us, not the humans!  When the final war between our races comes, who do you want leading the charge?
-ບາງຄົນທີ່ເມື່ອຍຈາກການດໍາລົງຊີວິດຈາກສິ່ງເສດເຫຼືອ. ສະໄຫມທີ່ຈະມາເຖິງແມ່ນຂອງພວກເຮົາ,
-ບໍ່ແມ່ນມະນຸດ! ເມື່ອສົງຄາມສຸດທ້າຍລະຫວ່າງເຊື້ອຊາດຂອງພວກເຮົາມາ, ເຈົ້າຢາກໃຫ້ໃຜເປັນຜູ້ ນໍາ ຫນ້າ?
-
-77
-00:04:55,000 --> 00:05:00,950
-[FROST]
-Some withered up fossil ready to snap like a brittle bone at the first sign of change?
-ບາງສິ່ງບາງຢ່າງທີ່ແຫ້ງແຫ້ງພ້ອມທີ່ຈະແຕກຄືກັບກະດູກທີ່ສັ່ນສະເທືອນໃນສັນຍານ
-ທໍາ ອິດຂອງການປ່ຽນແປງບໍ?
-
-78
-00:05:01,450 --> 00:05:03,450
-[DRAGONETTI]
-Get out!!!
-ອອກໄປ!!!
-
-79
-00:05:03,950 --> 00:05:08,500
-[FROST]
-Careful, old fang. You might wake up one day and find yourself extinct.
-ລະມັດລະວັງ, ແຂ້ວເກົ່າ.
-ເຈົ້າອາດຈະຕື່ນຂຶ້ນໃນມື້ຫນຶ່ງແລະພົບຕົວເອງຫາຍໄປ.
-
-80
-00:05:09,000 --> 00:05:14,250
-[WHISTLER]
-I had to increase the dose. You're building up a resistance to the serum --
-ຂ້ອຍຕ້ອງເພີ່ມປະລິມານ. ເຈົ້າ ກໍາ ລັງສ້າງຄວາມຕ້ານທານຕໍ່ຊີຣັມ -
-
-81
-00:05:14,750 --> 00:05:16,750
-[BLADE]
-Just do it, old man.
-ພຽງແຕ່ເຮັດມັນ, ພໍ່ເຖົ້າ.
-
-82
-00:05:17,250 --> 00:05:19,250
-[BLADE]
-You shouldn't be here.
-ເຈົ້າບໍ່ຄວນຢູ່ບ່ອນນີ້.
-
-83
-00:05:19,750 --> 00:05:21,750
-[KAREN]
-I'm sorry, I --
-ຂ້ອຍຂໍໂທດ, ຂ້ອຍ...
-
-84
-00:05:22,250 --> 00:05:24,350
-[WHISTLER]
-Wandered off the beaten path, Doctor?
-ເຈົ້າຍ່າງອອກຈາກເສັ້ນທາງທີ່ຖືກຕີແລ້ວບໍ, ດອກຕໍ?
-
-85
-00:05:24,850 --> 00:05:26,850
-[KAREN]
-Who are you people?
-ພວກເຈົ້າເປັນໃຜ?
-
-86
-00:05:27,350 --> 00:05:32,600
-[WHISTLER]
-My name is Abraham Whistler.  This is Blade. As for our little homunculus here --
-ຂ້ອຍຊື່ວ່າອາບຣາຮາມ ວີສລເຕີ. ນີ້ແມ່ນບເລດ
-. ກ່ຽວກັບໂຮມນູລູສນ້ອຍຂອງພວກເຮົາຢູ່ນີ້ -
-
-87
-00:05:33,100 --> 00:05:35,100
-[BLADE]
--- he's a vampire.
-- ລາວເປັນແວມປີ.
-
-88
-00:05:35,600 --> 00:05:37,600
-[KAREN]
-You're joking --
-ເຈົ້າໂຊກຮ້າຍ...
-
-89
-00:05:38,100 --> 00:05:42,650
-[WHISTLER]
-Not at all. You're looking at a prime specimen of the homines nocturna.
-ບໍ່ເລີຍ. ເຈົ້າ ກໍາ ລັງເບິ່ງຕົວຢ່າງຕົ້ນຕໍຂອງ homines nocturna.
-
-90
-00:05:43,150 --> 00:05:47,350
-[WHISTLER]
-If Blade hadn't brought you here, you would've wound up like him.
-ຖ້າບເລດບໍ່ໄດ້ພາເຈົ້າມາບ່ອນນີ້, ເຈົ້າຈະສິ້ນສຸດລົງຄືກັບລາວ.
-
-91
-00:05:47,850 --> 00:05:49,850
-[KAREN]
-Why did you help me?
-ເຈົ້າຊ່ວຍຂ້ອຍເປັນຫຍັງ?
-
-92
-00:05:50,350 --> 00:05:52,350
-[BLADE]
-Stupidity.
-ຄວາມໂງ່.
-
-93
-00:05:52,850 --> 00:05:58,450
-[WHISTLER]
-Maybe not. I did some checking, she's a hematologist. Knowledge like that might come in handy.
-ບາງທີບໍ່ແມ່ນ. ຂ້ອຍໄດ້ກວດສອບບາງຢ່າງ,
-ນາງເປັນນັກວິທະຍາສາດເລືອດ. ຄວາມຮູ້ເຊັ່ນນັ້ນອາດຈະເປັນປະໂຫຍດ.
-
-94
-00:05:58,950 --> 00:06:02,100
-[BLADE]
-It's not worth the risk. We can't trust her.
-ມັນບໍ່ຄຸ້ມຄ່າຄວາມສ່ຽງ. ພວກເຮົາບໍ່ສາມາດເຊື່ອຖືນາງໄດ້.
-
-95
-00:06:02,600 --> 00:06:04,600
-[KAREN]
-Why?
-ເປັນຫຍັງ?
-
-96
-00:06:05,100 --> 00:06:10,000
-[BLADE]
-Because you're tainted. The venom's still inside you. You could still turn on us.
-ເພາະເຈົ້າຖືກເປື້ອນ. ຢາພິດຍັງຢູ່ໃນຕົວເຈົ້າ
-. ເຈົ້າຍັງສາມາດຫັນຕໍ່ພວກເຮົາໄດ້.
-
-97
-00:06:10,500 --> 00:06:12,500
-[KAREN]
-What happens then?
-ຫຼັງຈາກນັ້ນເກີດຫຍັງຂຶ້ນ?
-
-98
-00:06:13,000 --> 00:06:17,200
-[BLADE]
-Then I have to take you out, just like any other bloodsucker.
-ຫຼັງຈາກນັ້ນຂ້ອຍຕ້ອງເອົາເຈົ້າອອກ, ຄືກັບຄົນດູດເລືອດຄົນອື່ນ.
-
-99
-00:06:17,700 --> 00:06:23,700
-[BLADE]
-We hunt them, moving from one city to the next, tracking their migrations. They're hard to kill. They tend to regenerate.
-ພວກເຮົາລ່າພວກມັນ, ຍ້າຍຈາກເມືອງ ຫນຶ່ງ ໄປຫາອີກເມືອງຫນຶ່ງ,
-ຕິດຕາມການຍ້າຍຖິ່ນຖານຂອງພວກເຂົາ. ພວກເຂົາຍາກທີ່ຈະຂ້າ. ພວກເຂົາມັກຈະຟື້ນຟູຄືນໃຫມ່.
-
-100
-00:06:24,200 --> 00:06:27,000
-[KAREN]
-So what do you use, then? A stake?
-ເຈົ້າໃຊ້ຫຍັງ, ຫຼັງຈາກນັ້ນ? ກະດານບໍ?
-
-101
-00:06:27,500 --> 00:06:33,500
-[WHISTLER]
-Some of the old wives' tales are true -- they're severely allergic to silver, various types of wood. Feed them garlic and they'll go into anaphylactic shock --
-ບາງເລື່ອງຂອງເມຍເຖົ້າແມ່ນຄວາມຈິງ - ພວກເຂົາເປັນອາເລັກຊີຕໍ່ເງິນຢ່າງຮ້າຍແຮງ,
-ໄມ້ປະເພດຕ່າງໆ. ໃຫ້ອາຫານພວກເຂົານ້ ໍາ ຕານແລະພວກເຂົາຈະເຂົ້າໄປໃນໂຊກແອັດຟິລາຕິກ -
-
-102
-00:06:34,000 --> 00:06:37,150
-[WHISTLER]
--- and of course there's always sunlight, ultra-violet rays.
-- ແລະແນ່ນອນວ່າມີແສງແດດຢູ່ສະເຫມີ, ແສງສະຫວ່າງອູລຕາວິໂອເລດ.
-
-103
-00:06:37,650 --> 00:06:40,800
-[KAREN]
-And you honestly expect me to believe all this?
-ແລະເຈົ້າຄາດວ່າຂ້ອຍຈະເຊື່ອສິ່ງທັງ ຫມົດ ນີ້ບໍ?
-
-104
-00:06:41,300 --> 00:06:47,300
-[BLADE]
-I don't care what you believe. I saved your life once, I don't plan on making a habit of it. You want my advice, you'll be out of the city by nightfall. If you're stupid enough to stay, that's your business.
-ຂ້ອຍບໍ່ສົນໃຈວ່າເຈົ້າເຊື່ອຫຍັງ. ຂ້ອຍໄດ້ຊ່ວຍຊີວິດເຈົ້າຄັ້ງຫນຶ່ງ, ຂ້ອຍບໍ່ໄດ້ວາງແຜນທີ່ຈະເຮັດໃຫ້ມັນເປັນນິໄສ.
-ເຈົ້າຕ້ອງການ ຄໍາ ແນະ ນໍາ ຂອງຂ້ອຍ, ເຈົ້າຈະອອກຈາກເມືອງໃນຕອນກາງຄືນ. ຖ້າເຈົ້າໂງ່ພໍທີ່ຈະຢູ່, ນັ້ນແມ່ນທຸລະກິດຂອງທ່ານ.
-
-105
-00:06:47,800 --> 00:06:52,000
-[KAREN]
-I can't just leave. I have a life here, a career --
-ຂ້ອຍບໍ່ສາມາດອອກໄປໄດ້ເລີຍ. ຂ້ອຍມີຊີວິດຢູ່ບ່ອນນີ້, ອາຊີບ -
-
-106
-00:06:52,500 --> 00:06:57,750
-[BLADE]
-Not anymore. You've seen one of them. You won't be allowed to live after that.
-ບໍ່ອີກຕໍ່ໄປ. ເຈົ້າໄດ້ເຫັນ ຫນຶ່ງ ໃນພວກມັນແລ້ວ
-. ເຈົ້າຈະບໍ່ອະນຸຍາດໃຫ້ດໍາລົງຊີວິດຫຼັງຈາກນັ້ນ.
-
-107
-00:06:58,250 --> 00:07:04,250
-[WHISTLER]
-There's a war going on out there. Blade, myself, a few others -- we've tried to keep it from spilling over onto the streets.  Sometimes people like yourself get caught in the cross-fire.
-ມີສົງຄາມ ກໍາ ລັງເກີດຂຶ້ນຢູ່ນອກນັ້ນ. ກະດານ, ຂ້ອຍເອງ, ຄົນອື່ນສອງສາມຄົນ -
-ພວກເຮົາໄດ້ພະຍາຍາມບໍ່ໃຫ້ມັນໄຫຼເຂົ້າໄປໃນຖະຫນົນຫົນທາງ. ບາງຄັ້ງຄົນຄືກັບເຈົ້າຖືກຈັບໃນໄຟຂ້າມກັນ.
-
-108
-00:07:04,750 --> 00:07:10,750
-[KAREN]
-I can go to the police. I have blood samples back at the hospital. I can show them.
-ຂ້ອຍສາມາດໄປຫາຕໍາຫຼວດໄດ້. ຂ້ອຍມີຕົວຢ່າງເລືອດຢູ່ໂຮງຫມໍ
-. ຂ້ອຍສາມາດສະແດງພວກມັນໄດ້.
-
-109
-00:07:11,250 --> 00:07:15,100
-[BLADE]
-Do it. You'll be dead before you can file the complaint.
-ເຮັດມັນ. ເຈົ້າຈະຕາຍກ່ອນທີ່ຈະສາມາດຍື່ນຄໍາຮ້ອງທຸກໄດ້.
-
-110
-00:07:15,600 --> 00:07:17,700
-[KAREN]
-That's ridiculous! No one's that powerful.
-ນັ້ນແມ່ນໂຊກຮ້າຍ! ບໍ່ມີໃຜມີພະລັງຫຼາຍປານໃດ.
-
-111
-00:07:18,200 --> 00:07:24,200
-[WHISTLER]
-You're talking about a brotherhood that predates the Catholic Church by thousands of years. Their survival depends on their ability to blend in. Chances are, you've encountered them and not even known it. On the subway, in a bar --
-ເຈົ້າ ກໍາ ລັງເວົ້າກ່ຽວກັບອ້າຍນ້ອງທີ່ກ່ອນສາດສະຫນາຈັກຄາໂຕລິກຫຼາຍພັນປີ. ການຢູ່ລອດຂອງພວກເຂົາຂື້ນກັບຄວາມສາມາດຂອງພວກເຂົາໃນການປະສົມປະສານກັນ
-. ຄວາມເປັນໄປໄດ້ແມ່ນ, ເຈົ້າໄດ້ພົບກັບພວກເຂົາແລະບໍ່ຮູ້ມັນເລີຍ. ໃນລົດໄຟໃຕ້ດິນ, ໃນບາ -
-
-112
-00:07:24,700 --> 00:07:26,700
-[BLADE]
-Get in. You�re leaving.
-ເຂົ້າມາ. ເຈົ້າ ກໍາ ລັງອອກໄປ.
-
-113
-00:07:27,200 --> 00:07:29,200
-[WHISTLER]
-Wait.
-ລໍຖ້າ.
-
-114
-00:07:29,700 --> 00:07:34,250
-[WHISTLER]
-Consider it a parting gift. Vampire mace -- silver nitrate, essence of garlic.
-ຖືວ່າມັນເປັນຂອງຂວັນການແຍກກັນ. ກະຕ່າແວມປີ
-- ນິດຣາທເງິນ, ເນື້ອໃນຂອງທາດເຫຼືອງ.
-
-115
-00:07:34,750 --> 00:07:40,000
-[KAREN]
-So that's it? You guys just patch me up and send me on my way?
-ສະນັ້ນນັ້ນແມ່ນມັນບໍ?
-ພວກເຈົ້າພຽງແຕ່ປິ່ນປົວຂ້ອຍແລະສົ່ງຂ້ອຍໄປທາງຂອງຂ້ອຍບໍ?
-
-116
-00:07:40,500 --> 00:07:46,500
-[WHISTLER]
-There is one other thing. I'd buy yourself a gun if I were you. If you start becoming sensitive to the daylight, if you start becoming thirsty regardless of much you've had to drink -- then I suggest you take that gun and use it on yourself. Better that, than the alternative.
-ມີອີກສິ່ງຫນຶ່ງ. ຂ້ອຍຈະຊື້ປືນຕົວເອງຖ້າຂ້ອຍເປັນເຈົ້າ. ຖ້າເຈົ້າເລີ່ມມີຄວາມຮູ້ສຶກຕໍ່ແສງສະຫວ່າງຂອງມື້,
-ຖ້າເຈົ້າເລີ່ມຕົ້ນກາຍເປັນຄວາມດອກດອກບໍ່ວ່າເຈົ້າຕ້ອງດື່ມຫຼາຍປານໃດ - ຫຼັງຈາກນັ້ນຂ້ອຍແນະ ນໍາ ໃຫ້ເຈົ້າເອົາປືນນັ້ນແລະໃຊ້ມັນໃສ່ຕົວເອງ. ດີກວ່ານັ້ນ, ກ່ວາທາງເລືອກ.
-
-117
-00:07:47,000 --> 00:07:49,000
-[DRAGONETTI]
-What are you doing here?
-ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
-
-118
-00:07:49,500 --> 00:07:53,350
-[DRAGONETTI]
-These archives are restricted to members of the House of Erebus.
-ບັນທຶກເຫຼົ່ານີ້ຖືກຈໍາກັດໃຫ້ສະມາຊິກຂອງເຮືອນ Erebus.
-
-119
-00:07:53,850 --> 00:07:59,850
-[FROST]
-Please. You and the other Elders wouldn't know what to do with these texts if your lives depended on it.  Which, of course, they do.
-ກະລຸນາ. ເຈົ້າແລະຜູ້ເຖົ້າຄົນອື່ນຈະບໍ່ຮູ້ວ່າຈະເຮັດຫຍັງກັບຂໍ້ຄວາມເຫຼົ່ານີ້ຖ້າຊີວິດຂອງທ່ານຂື້ນກັບມັນ
-. ເຊິ່ງແນ່ນອນ, ພວກເຂົາເຮັດ.
-
-120
-00:08:00,350 --> 00:08:06,350
-[DRAGONETTI]
-You're wasting your time, Frost. Far greater scholars than you have tried to decipher these words. Whatever secrets they hold have been lost.
-ເຈົ້າ ກໍາ ລັງເສຍເວລາຂອງທ່ານ, ຟຣັສຕ໌. ນັກວິທະຍາສາດທີ່ໃຫຍ່ກວ່າເຈົ້າຫຼາຍຄົນໄດ້ພະຍາຍາມຄົ້ນພົບ
-ຄໍາ ເຫຼົ່ານີ້. ຄວາມລັບໃດທີ່ພວກເຂົາຖືໄດ້ສູນເສຍໄປແລ້ວ.
-
-121
-00:08:06,850 --> 00:08:08,850
-[FROST]
-Perhaps.
-ບາງທີ.
-
-122
-00:08:09,350 --> 00:08:11,450
-[DRAGONETTI]
-What are you up to, Frost?
-ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ, ຟຣັສຕ໌?
-
-123
-00:08:11,950 --> 00:08:14,400
-[FROST'S VOICE]
-Wouldn't you like to know, Old Fang?
-ເຈົ້າບໍ່ຢາກຮູ້ບໍ, ຟັງເກົ່າ?
-
-124
-00:08:14,900 --> 00:08:18,400
-[BLADE]
-Remember what we said. Keep your eyes open. They're everywhere.
-ຈື່ໄວ້ວ່າພວກເຮົາເວົ້າຫຍັງ. ປິດຕາໄວ້. ພວກເຂົາຢູ່ທຸກບ່ອນ.
-
-125
-00:08:18,900 --> 00:08:22,050
-[KAREN]
-I need the police. This is an emergency --
-ຂ້ອຍຕ້ອງການຕໍາຫຼວດ. ນີ້ແມ່ນສຸກເສີນ -
-
-126
-00:08:22,550 --> 00:08:28,550
-[KAREN]
-Hello? My name is Karen Jansen, I was with Curtis Webb at Mid-Town Hospital last night -- that's right, I witnessed the attack --  115 Aurora, apartment 3G. Yes, I'll wait here. Please hurry.
-ສະບາຍດີ? ຂ້ອຍຊື່ວ່າ ຄາເຣນ ຈານເຊັນ, ຂ້ອຍຢູ່ກັບ ຄູຕິສ໌ ເວັບບ໌ຢູ່ໂຮງຫມໍກາງເມືອງໃນມື້ວານນີ້ -
-ນັ້ນແມ່ນຄວາມຈິງ, ຂ້ອຍເຫັນການໂຈມຕີ - 115 ອາໂຣຣາ, ອາພາດເມັນ 3G. ແມ່ນແລ້ວ, ຂ້ອຍຈະລໍຖ້າຢູ່ນີ້. ກະລຸນາໄວ.
-
-127
-00:08:29,050 --> 00:08:31,150
-[KAREN]
-Get a grip on yourself, girl.
-ຈັບຕົວເອງໄວ້, ເດັກຍິງ.
-
-128
-00:08:31,650 --> 00:08:33,650
-[KAREN]
-Who is it?
-ແມ່ນໃຜ?
-
-129
-00:08:34,150 --> 00:08:36,950
-[GIDEON]
-Sergeant Gideon. I'm responding to a 911 call.
-ພົນຈັດຕະວາຈີເດອນ. ຂ້ອຍ ກໍາ ລັງຕອບໂຕ້ການໂທ 911.
-
-130
-00:08:37,450 --> 00:08:40,250
-[KAREN]
-Yes, that was me, I'm Karen Jansen --
-ແມ່ນແລ້ວ, ນັ້ນແມ່ນຂ້ອຍ, ຂ້ອຍເປັນຄາເຣນ ຈານເຊັນ -
-
-131
-00:08:40,750 --> 00:08:46,750
-[GIDEON]
-Are you all right?  I'm glad you called, Ms. Jansen, we've been anxious to get a hold of you. You disappeared on us for a while.
-ເຈົ້າບໍ່ເປັນຫຍັງບໍ? ຂ້ອຍດີໃຈທີ່ເຈົ້າໂທ, ນາງຈານເຊັນ, ພວກເຮົາ
-ກໍາ ລັງກັງວົນທີ່ຈະຕິດຕໍ່ຫາເຈົ້າ. ເຈົ້າຫາຍໄປຈາກພວກເຮົາຊົ່ວຄາວ.
-
-132
-00:08:47,250 --> 00:08:52,850
-[KAREN]
-I know. Listen -- do you have any idea what happened to Curtis, the other doctor?
-ຂ້ອຍຮູ້ແລ້ວ. ຟັງ -
-ເຈົ້າຮູ້ບໍ່ວ່າເກີດຫຍັງຂຶ້ນກັບຄູຕິສ໌, ຫມໍຄົນອື່ນບໍ?
-
-133
-00:08:53,350 --> 00:08:57,900
-[GIDEON]
-Oh, he's dead. But I wouldn't worry about that if I were you.
-ໂອ້, ລາວຕາຍແລ້ວ.
-ແຕ່ຂ້ອຍຈະບໍ່ກັງວົນກ່ຽວກັບເລື່ອງນັ້ນຖ້າຂ້ອຍເປັນເຈົ້າ.
-
-134
-00:08:58,400 --> 00:09:00,400
-[KAREN]
-Why?
-ເປັນຫຍັງ?
-
-135
-00:09:00,900 --> 00:09:02,900
-[GIDEON]
-Because you're dead too.
-ເພາະເຈົ້າຕາຍແລ້ວເຊັ່ນກັນ.
-
-136
-00:09:03,400 --> 00:09:05,400
-[GIDEON]
-Garlic?
-ຫມາກ ໄມ້?
-
-137
-00:09:05,900 --> 00:09:08,700
-[KAREN]
-He said it would work against vampires --
-ລາວເວົ້າວ່າ ມັນຈະເຮັດວຽກຕໍ່ຕ້ານແວມປີ -
-
-138
-00:09:09,200 --> 00:09:11,300
-[GIDEON]
-Who said I was a vampire?
-ໃຜບອກວ່າຂ້ອຍເປັນແວມປີ?
-
-139
-00:09:11,800 --> 00:09:16,350
-[GIDEON]
-Thanks for the laugh. You can shut your eyes if you want to.
-ຂອບໃຈທີ່ມ່ວນຊື່ນ. ເຈົ້າສາມາດປິດຕາໄດ້ຖ້າເຈົ້າຕ້ອງການ.
-
-140
-00:09:16,850 --> 00:09:18,850
-[BLADE]
-You okay?
-ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
-
-141
-00:09:19,350 --> 00:09:21,350
-[KAREN]
-How did you know?
-ເຈົ້າຮູ້ແນວໃດ?
-
-142
-00:09:21,850 --> 00:09:27,100
-[BLADE]
-Figured they'd send someone after you. Thought I'd wait around and see who showed up.
-ຂ້ອຍຄິດວ່າພວກເຂົາຈະສົ່ງຄົນມາຕາມເຈົ້າ. ຂ້ອຍ
-ຄິດວ່າຂ້ອຍຈະລໍຖ້າຢູ່ອ້ອມຂ້າງແລະເບິ່ງວ່າໃຜປາກົດຕົວ.
-
-143
-00:09:27,600 --> 00:09:29,600
-[KAREN]
-You used me as bait?!
-ເຈົ້າໃຊ້ຂ້ອຍເປັນແມງໄມ້ບໍ?
-
-144
-00:09:30,100 --> 00:09:32,100
-[BLADE]
-It worked, didn't it?
-ມັນເຮັດວຽກໄດ້, ແມ່ນບໍ?
-
-145
-00:09:32,600 --> 00:09:34,600
-[KAREN]
-But, he could've --
-ແຕ່, ລາວສາມາດໄດ້...
-
-146
-00:09:35,100 --> 00:09:37,100
-[BLADE]
-He didn't. Get over it.
-ລາວບໍ່ໄດ້ເຮັດ. ເອົາມັນຜ່ານໄປ.
-
-147
-00:09:37,600 --> 00:09:39,600
-[KAREN]
-But he's a policeman --
-ແຕ່ລາວເປັນຕໍາຫຼວດ -
-
-148
-00:09:40,100 --> 00:09:44,650
-[BLADE]
-He's a familiar. A human who works for the vampires. See this mark?
-ລາວເປັນຄົນຮູ້ຈັກກັນດີ. ເປັນມະນຸດທີ່ເຮັດວຽກ
-ສໍາ ລັບແວມປີ. ເຫັນເຄື່ອງຫມາຍນີ້ບໍ?
-
-149
-00:09:45,150 --> 00:09:51,150
-[BLADE]
-That's a glyph, kind of like a vampire cattle brand. That means Officer Friendly here is someone's property. Any of the other vampire's try to bleed him, they'll have to answer to Friendly's owner --  This glyph belongs to Deacon Frost. We've been tracking him for a while now --
-ນັ້ນແມ່ນກລິຟ, ຄ້າຍຄືກັບຍີ່ຫໍ້ງົວແວມປີ. ນັ້ນ ຫມາຍ ຄວາມວ່າເຈົ້າຫນ້າທີ່ມິດຕະພາບຢູ່ນີ້ແມ່ນຊັບສິນຂອງຄົນໃດຫນຶ່ງ. ຖ້າແວມປີຄົນອື່ນພະຍາຍາມເລືອດລາວ
-, ພວກເຂົາຕ້ອງຕອບກັບເຈົ້າຂອງແມດຕະພາບ - ກລິຟນີ້ເປັນຂອງ Deacon Frost. ພວກເຮົາ ກໍາ ລັງຕິດຕາມລາວເປັນເວລາດົນນານແລ້ວ -
-
-150
-00:09:51,650 --> 00:09:55,500
-[KAREN]
-Why in God's name would anyone want to work for them?
-ເປັນຫຍັງໃຜຈຶ່ງຢາກເຮັດວຽກ ສໍາ ລັບພວກເຂົາ?
-
-151
-00:09:56,000 --> 00:10:01,950
-[BLADE]
-Because they're vampire wanna-bes. If they're loyal, if they prove themselves, then their masters will turn them.
-ເພາະວ່າພວກເຂົາເປັນຄົນຢາກເປັນແວມປີ. ຖ້າພວກເຂົາສັດຊື່,
-ຖ້າພວກເຂົາພິສູດຕົວເອງ, ຫຼັງຈາກນັ້ນເຈົ້າຂອງພວກເຂົາຈະປ່ຽນພວກເຂົາ.
-
-152
-00:10:02,450 --> 00:10:04,450
-[KAREN]
-And that's a good thing?
-ແລະມັນເປັນສິ່ງທີ່ດີບໍ?
-
-153
-00:10:04,950 --> 00:10:08,450
-[BLADE]
-For some. Live forever, never get old. The ultimate high.
-ສໍາລັບບາງຄົນ. ດໍາລົງຊີວິດຕະຫຼອດໄປ, ບໍ່ເຄີຍເຖົ້າແກ່. ສູງສຸດສຸດ.
-
-154
-00:10:08,950 --> 00:10:12,100
-[BLADE]
-How 'bout you, Officer? You a good little bloodhound?
-ເຈົ້າແນວໃດ, ເຈົ້າຫນ້າທີ່? ເຈົ້າເປັນຫມາເລືອດນ້ອຍທີ່ດີບໍ?
-
-155
-00:10:12,600 --> 00:10:16,100
-[BLADE]
-Looks like our friend was blood-running.  Where were you headed?
-ເບິ່ງຄືວ່າເພື່ອນຂອງພວກເຮົາ ກໍາ ລັງໄຫຼເລືອດ. ເຈົ້າ ກໍາ ລັງໄປໃສ?
-
-156
-00:10:16,600 --> 00:10:18,600
-[GIDEON]
-Mphuck you --
-ເຈົ້າໂຊກຮ້າຍ...
-
-157
-00:10:19,100 --> 00:10:21,900
-[GIDEON]
-Jesus -- 1227 Brookner -- Holliston Clinic --
-ພຣະເຢຊູ - 1227 ບຣູເຄນເນີ - ຄລີນິກໂຮລິສຕັນ -
-
-158
-00:10:22,400 --> 00:10:24,400
-[KAREN]
-What are you doing?!
-ເຈົ້າເຮັດຫຍັງຢູ່ບໍ?
-
-159
-00:10:24,900 --> 00:10:26,900
-[BLADE]
-Preventive medicine.
-ຢາປ້ອງກັນ.
-
-160
-00:10:27,400 --> 00:10:30,200
-[KAREN]
-You can't do this, he's human, it's murder.
-ເຈົ້າບໍ່ສາມາດເຮັດແບບນີ້ໄດ້, ລາວເປັນມະນຸດ, ມັນແມ່ນການຄາດຕະກໍາ.
-
-161
-00:10:30,700 --> 00:10:34,200
-[BLADE]
-It's war, now get the fuck out of the way!
-ມັນເປັນສົງຄາມ, ດຽວນີ້ອອກຈາກທາງ!
-
-162
-00:10:34,700 --> 00:10:40,300
-[BLADE]
-God-damnit!!! Do you have any idea what you just did?! He'll warn them. They'll be waiting!
-ເຈົ້າຮູ້ບໍ່ວ່າເຈົ້າຫາກໍ່ເຮັດຫຍັງບໍ?
-! ລາວຈະເຕືອນພວກເຂົາ. ພວກເຂົາຈະລໍຖ້າ!
-
-163
-00:10:40,800 --> 00:10:46,800
-[KAREN]
-You were going to kill him. What was I supposed to do?! Shut my eyes and pretend I didn't see what I saw?
-ເຈົ້າຈະຂ້າລາວ. ຂ້ອຍຄວນເຮັດຫຍັງ?!
-ປິດຕາຂອງຂ້ອຍແລະເຮັດແບບວ່າຂ້ອຍບໍ່ເຫັນສິ່ງທີ່ຂ້ອຍເຫັນບໍ?
-
-164
-00:10:47,300 --> 00:10:53,300
-[BLADE]
-Let me set you straight on something, Doctor. What you've "seen" so far is nothing. The world you live in's just the sugar-coated topping. There's another world beneath it, the real world -- and it's a fucking bloodbath. If you want to survive in it, you'd better pull your head out of your ass.
-ຂໍໃຫ້ຂ້ອຍແນະ ນໍາ ເຈົ້າກ່ຽວກັບບາງສິ່ງບາງຢ່າງ, ດອກຕໍ. ສິ່ງທີ່ທ່ານໄດ້"ເຫັນ" ມາຮອດປະຈຸບັນແມ່ນບໍ່ມີຫຍັງເລີຍ. ໂລກທີ່ທ່ານອາໄສຢູ່ໃນພຽງແຕ່ topper ທີ່ປົກຫຸ້ມດ້ວຍນ້
-ໍາ ຕານເທົ່ານັ້ນ. ມີໂລກອື່ນຢູ່ພາຍໃຕ້ມັນ, ໂລກທີ່ແທ້ຈິງ - ແລະມັນເປັນອາບນ້ ໍາ ເລືອດທີ່ສໍ້ໂກງ. ຖ້າເຈົ້າຢາກຢູ່ລອດໃນມັນ, ເຈົ້າຄວນດຶງຫົວອອກຈາກບາກຂອງທ່ານ.
-
-165
-00:10:53,800 --> 00:10:55,900
-[GIDEON]
-Look, I know you're disappointed --
-ເບິ່ງ, ຂ້ອຍຮູ້ວ່າເຈົ້າຜິດຫວັງ -
-
-166
-00:10:56,400 --> 00:10:58,400
-[FROST]
-Crestfallen.
-ຄຣີສຕ໌ຟາລານ.
-
-167
-00:10:58,900 --> 00:11:02,750
-[GIDEON]
-Blade was waiting for me. There wasn't anything I could do.
-ບເລດ ກໍາ ລັງລໍຖ້າຂ້ອຍ. ບໍ່ມີຫຍັງທີ່ຂ້ອຍສາມາດເຮັດໄດ້.
-
-168
-00:11:03,250 --> 00:11:06,400
-[FROST]
-Tell me something, Gideon, what blood type are you?
-ບອກຂ້ອຍບາງສິ່ງບາງຢ່າງ, ແກເດອນ, ເຈົ້າເປັນກຸ່ມເລືອດໃດ?
-
-169
-00:11:06,900 --> 00:11:08,900
-[GIDEON]
-I don't really know --
-ຂ້ອຍບໍ່ຮູ້ແທ້ໆ...
-
-170
-00:11:09,400 --> 00:11:15,400
-[FROST]
-Take a wild stab. A? B? O, perhaps? I'm interested in the antigens here, the agglutination reaction --
-ເອົາດອກໄມ້ທີ່ປ່າໄມ້. A? B? O, ບາງທີ?
-ຂ້ອຍສົນໃຈແອນຕິເຈນທີ່ນີ້, ການປະຕິກິລິຍາ agglutination -
-
-171
-00:11:15,900 --> 00:11:18,000
-[FROST]
-I'm going to guess AB positive.
-ຂ້ອຍຈະຄິດວ່າ AB ເປັນບວກ.
-
-172
-00:11:18,500 --> 00:11:20,950
-[FROST]
-AB positive. Give the man a prize.
-ເອເບີບວກ. ໃຫ້ຜູ້ຊາຍລາງວັນ.
-
-173
-00:11:21,450 --> 00:11:25,300
-[BLADE]
-What the hell are you doing?! I could have killed you!
-ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ບໍ?! ຂ້ອຍສາມາດຂ້າເຈົ້າໄດ້!
-
-174
-00:11:25,800 --> 00:11:28,600
-[KAREN]
-I remembered the address. I followed you --
-ຂ້ອຍຈື່ທີ່ຢູ່. ຂ້ອຍຕິດຕາມເຈົ້າ -
-
-175
-00:11:29,100 --> 00:11:32,950
-[BLADE]
-Do you have a death wish or are you just stupid?
-ເຈົ້າມີຄວາມປາຖະຫນາຢາກຕາຍບໍ ຫຼືເຈົ້າພຽງແຕ່ໂງ່ບໍ?
-
-176
-00:11:33,450 --> 00:11:39,450
-[KAREN]
-Look, if what you say is true, if there's a chance I could turn into one of them, then I've got no choice, do I? I have to work with you. I need to learn everything I can about them. It's the only way I'll be able to find a cure for myself.
-ເບິ່ງ, ຖ້າສິ່ງທີ່ເຈົ້າເວົ້າແມ່ນຄວາມຈິງ, ຖ້າມີໂອກາດຂ້ອຍສາມາດກາຍເປັນ ຫນຶ່ງ ໃນພວກມັນ, ຫຼັງຈາກນັ້ນຂ້ອຍບໍ່ມີທາງເລືອກ, ແມ່ນບໍ?
-ຂ້ອຍຕ້ອງເຮັດວຽກກັບເຈົ້າ. ຂ້ອຍຕ້ອງຮຽນຮູ້ທຸກຢ່າງທີ່ຂ້ອຍສາມາດກ່ຽວກັບພວກເຂົາໄດ້. ມັນແມ່ນວິທີດຽວທີ່ຂ້ອຍຈະສາມາດຊອກຫາຢາປິ່ນປົວຕົວເອງໄດ້.
-
-177
-00:11:39,950 --> 00:11:41,950
-[BLADE]
-There is no cure.
-ບໍ່ມີຢາປິ່ນປົວ.
-
-178
-00:11:42,450 --> 00:11:44,450
-[KAREN]
-You don't know that.
-ເຈົ້າບໍ່ຮູ້ເລື່ອງນັ້ນ.
-
-179
-00:11:44,950 --> 00:11:46,950
-[KAREN]
-What are you looking at?
-ເຈົ້າເບິ່ງຫຍັງຢູ່?
-
-180
-00:11:47,450 --> 00:11:49,450
-[BLADE]
-What do you see here?
-ເຈົ້າເຫັນຫຍັງຢູ່ບ່ອນນີ້?
-
-181
-00:11:49,950 --> 00:11:51,950
-[KAREN]
-Graffiti --
-ການ graffiti -
-
-182
-00:11:52,450 --> 00:11:54,450
-[BLADE]
-Look closer.
-ເບິ່ງໃກ້ຊິດ.
-
-183
-00:11:54,950 --> 00:12:00,950
-[BLADE]
-This isn't a gang tag, it's a vampire marking. It means there's a safe-house nearby. A place they can go if dawn is coming.
-ນີ້ແມ່ນບໍ່ແມ່ນປ້າຍຂອງກຸ່ມຄົນຮ້າຍ, ມັນແມ່ນປ້າຍແວມປີ. ມັນ ຫມາຍ
-ຄວາມວ່າມີເຮືອນປອດໄພຢູ່ໃກ້ໆ. ບ່ອນທີ່ພວກເຂົາສາມາດໄປໄດ້ຖ້າຕອນເຊົ້າ ກໍາ ລັງມາຮອດ.
-
-184
-00:12:01,450 --> 00:12:04,600
-[KAREN]
-I know this place -- it's a blood bank.
-ຂ້ອຍຮູ້ຈັກບ່ອນນີ້ - ມັນແມ່ນທະນາຄານເລືອດ.
-
-185
-00:12:05,100 --> 00:12:11,100
-[BLADE]
-Owned by vampires. There's one of these in every major city, and just like Domino's, they always deliver.  You telling me you're ready to walk through that door?
-ເປັນເຈົ້າຂອງຂອງແວມປີສ໌. ມີ ຫນຶ່ງ ໃນສິ່ງເຫຼົ່ານີ້ໃນທຸກໆເມືອງໃຫຍ່, ແລະຄືກັບຂອງໂດມິນໂກ້
-, ພວກເຂົາສະເຫມີສົ່ງ. ເຈົ້າບອກຂ້ອຍວ່າເຈົ້າພ້ອມທີ່ຈະຍ່າງຜ່ານປະຕູນັ້ນບໍ?
-
-186
-00:12:11,600 --> 00:12:17,600
-[BLADE]
-All right, then, listen up, Vampire Anatomy 101. Crosses and running water don't do dick, so forget what you've seen in the movies.
-ດີແລ້ວ, ຫຼັງຈາກນັ້ນ, ຟັງຂຶ້ນ, ວິທະຍາສາດແວມປີ 101. ຂ້າມແລະນ້
-ໍາ ທີ່ໄຫຼບໍ່ເຮັດຫຍັງ, ສະນັ້ນລືມສິ່ງທີ່ເຈົ້າເຫັນໃນຮູບເງົາ.
-
-187
-00:12:18,100 --> 00:12:21,250
-[BLADE]
-You use the stake, silver, or sunlight, got it?
-ເຈົ້າໃຊ້ກະດານ, ເງິນ, ຫຼືແສງແດດ, ເຂົ້າໃຈບໍ?
-
-188
-00:12:21,750 --> 00:12:24,200
-[BLADE]
-Know how to use one of these?
-ເຈົ້າຮູ້ວິທີໃຊ້ສິ່ງນີ້ບໍ?
-
-189
-00:12:24,700 --> 00:12:26,700
-[KAREN]
-No.
-ບໍ່
-
-190
-00:12:27,200 --> 00:12:33,200
-[BLADE]
-Safety's off, round's already chambered --  Silver hollow-points filled with garlic. You aim for the heart or the head, anything else is a one-way ticket to a pine box.
-ຄວາມປອດໄພຖືກປິດແລ້ວ, ຮອບແມ່ນມີຫ້ອງແລ້ວ - ຈຸດເປົ່າເງິນທີ່ເຕັມໄປດ້ວຍທາດເຫຼືອງ
-. ເຈົ້າແນໃສ່ຫົວໃຈຫຼືຫົວ, ສິ່ງອື່ນແມ່ນປີ້ທາງດຽວໄປຫາກ່ອງປິນ.
-
-191
-00:12:33,700 --> 00:12:35,700
-[BLADE]
-Get out. Now.
-ອອກໄປ. ດຽວນີ້.
-
-192
-00:12:36,200 --> 00:12:38,650
-[BLADE]
-I know you're blood-running. Who's your sponsor?
-ຂ້ອຍຮູ້ວ່າເຈົ້າ ກໍາ ລັງໄຫຼເລືອດ.
-ຜູ້ສະ ຫນັບ ສະ ຫນູນ ຂອງທ່ານແມ່ນໃຜ?
-
-193
-00:12:39,150 --> 00:12:41,250
-[TANAKA]
-I don't know what you're --
-ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເປັນຫຍັງ -
-
-194
-00:12:41,750 --> 00:12:43,850
-[KAREN]
-What if you've made a mistake?
-ຖ້າເຈົ້າເຮັດຄວາມຜິດພາດແນວໃດ?
-
-195
-00:12:44,350 --> 00:12:46,350
-[BLADE]
-What's this? A birthmark?
-ນີ້ແມ່ນຫຍັງ? ເຄື່ອງຫມາຍເກີດບໍ?
-
-196
-00:12:46,850 --> 00:12:50,700
-[BLADE]
-Still think we might be wrong?  How much are you shipping?
-ເຈົ້າຍັງຄິດວ່າພວກເຮົາອາດຈະຜິດບໍ? ເຈົ້າ ກໍາ ລັງສົ່ງຫຼາຍປານໃດ?
-
-197
-00:12:51,200 --> 00:12:53,200
-[TANAKA]
-Bite me!
-ກັດຂ້ອຍ!
-
-198
-00:12:53,700 --> 00:12:59,300
-[BLADE]
-I've got a message for your masters -- the night's no longer safe for their kind.
-ຂ້ອຍມີຂໍ້ຄວາມ ສໍາ ລັບເຈົ້າຂອງເຈົ້າຂອງທ່ານ -
-ຄືນນີ້ບໍ່ປອດໄພອີກຕໍ່ໄປ ສໍາ ລັບຄົນຂອງພວກເຂົາ.
-
-199
-00:12:59,800 --> 00:13:05,800
-[KAREN]
-You let him go --  An hour ago you were ready to kill a man for less, this one didn't even talk.
-ເຈົ້າປ່ອຍລາວໄປ - ຫນຶ່ງ ຊົ່ວໂມງກ່ອນເຈົ້າພ້ອມທີ່ຈະຂ້າຜູ້ຊາຍ
-ສໍາ ລັບ ຫນ້ອຍ ກວ່າ, ຄົນນີ້ບໍ່ເວົ້າເລີຍ.
-
-200
-00:13:06,300 --> 00:13:08,300
-[BLADE]
-He will.
-ລາວຈະເຮັດ.
-
-201
-00:13:08,800 --> 00:13:14,750
-[AUTOMATED VOICE]
-"You've reached a number that is no longer in service. Please consult your operator and try again".
-ເຈົ້າໄດ້ຕິດຕໍ່ເບີທີ່ບໍ່ມີການບໍລິການອີກແລ້ວ.
-ກະລຸນາປຶກສາຜູ້ປະຕິບັດງານຂອງທ່ານແລະພະຍາຍາມອີກຄັ້ງ.
-
-202
-00:13:15,250 --> 00:13:17,350
-[TANAKA'S VOICE]
-It's Tanaka, PIN number sixteen-zero-zero-nine --
-ມັນເປັນຕານາກາ, ເລກ PIN ສິບຫົກສິບເກົ້າ -
-
-203
-00:13:17,850 --> 00:13:19,850
-[VOICE]
-Yes?
-ແມ່ນແລ້ວບໍ?
-
-204
-00:13:20,350 --> 00:13:22,350
-[TANAKA]
-Get me Pearl!
-ເອົາເປລມາໃຫ້ຂ້ອຍ!
-
-205
-00:13:22,850 --> 00:13:24,850
-[VOICE]
-Pearl is feeding --
-ເພິລ ກໍາ ລັງກິນອາຫານ -
-
-206
-00:13:25,350 --> 00:13:31,350
-[TANAKA]
-Look, I'm not fucking around here! That hunter Frost has been talking about? He was just at the clinic. Tore the goddamn place apart!
-ເບິ່ງ, ຂ້ອຍບໍ່ໄດ້ສໍ້ໂກງຢູ່ບ່ອນນີ້! ນັກລ່າສັດຟຣັສຕ໌ນັ້ນ ກໍາ
-ລັງເວົ້າກ່ຽວກັບບໍ? ລາວພຽງແຕ່ຢູ່ຄລີນິກ. ທໍາ ລາຍບ່ອນທີ່ຮ້າຍແຮງ!
-
-207
-00:13:31,850 --> 00:13:37,850
-[BLADE]
-Looks like we hit pay-dirt. This place is crawling with them.  See the valets over there? They're vampires. So is the doorman.
-ເບິ່ງຄືວ່າພວກເຮົາໄດ້ຕີເປື້ອນການຈ່າຍເງິນ. ບ່ອນນີ້ ກໍາ ລັງຍ່າງກັບພວກເຂົາ
-. ເບິ່ງຄົນຮັບໃຊ້ຢູ່ບ່ອນນັ້ນບໍ? ພວກເຂົາເປັນແວມປີ. ເຈົ້າປະຕູເຊັ່ນກັນ.
-
-208
-00:13:38,350 --> 00:13:40,350
-[KAREN]
-How can you tell?
-ເຈົ້າຮູ້ໄດ້ແນວໃດ?
-
-209
-00:13:40,850 --> 00:13:44,000
-[BLADE]
-The way they move, they way they smell --
-ວິທີທີ່ພວກເຂົາເຄື່ອນຍ້າຍ, ວິທີການທີ່ພວກເຂົາກິ່ນຫອມ -
-
-210
-00:13:44,500 --> 00:13:50,450
-[BLADE]
-The whore on the corner, she's one too. So are the two men standing under the streetlight.
-ນາງຢອກຊື່ໆ ແຊງຢູ່ແຄມ, ນາງເປັນຄົນຫນຶ່ງເຊັ່ນກັນ.
-ເຊັ່ນດຽວກັນກັບຜູ້ຊາຍສອງຄົນທີ່ຢືນຢູ່ພາຍໃຕ້ແສງຖະຫນົນ.
-
-211
-00:13:50,950 --> 00:13:54,800
-[KAREN]
-So many of them -- I still can't believe they're real.
-ພວກມັນຫຼາຍປານໃດ - ຂ້ອຍຍັງບໍ່ເຊື່ອວ່າພວກມັນເປັນຈິງ.
-
-212
-00:13:55,300 --> 00:13:58,100
-[BLADE]
-There are worse things than vampires out there.
-ມີສິ່ງຮ້າຍແຮງກວ່າແວມປີຢູ່ບ່ອນນັ້ນ.
-
-213
-00:13:58,600 --> 00:14:00,600
-[KAREN]
-Like what?
-ເຊັ່ນວ່າຫຍັງ?
-
-214
-00:14:01,100 --> 00:14:03,100
-[BLADE]
-Like me.
-ຄືກັບຂ້ອຍ.
-
-215
-00:14:03,600 --> 00:14:06,750
-[DOORMAN]
-I'm sorry, sir -- do you have an invitation?
-ຂ້ອຍຂໍໂທດເດີ - ເຈົ້າມີຄໍາເຊື້ອເຊີນບໍ?
-
-216
-00:14:07,250 --> 00:14:09,250
-[KID]
-Hey --
-ສະບາຍດີ -
-
-217
-00:14:09,750 --> 00:14:11,750
-[BLADE]
-Where's the entrance?!
-ທາງເຂົ້າຢູ່ໃສ?!
-
-218
-00:14:12,250 --> 00:14:14,350
-[TANAKA]
-I can't -- they'll kill me!
-ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ - ພວກເຂົາຈະຂ້າຂ້ອຍ!
-
-219
-00:14:14,850 --> 00:14:18,000
-[BLADE]
-I got news for you, butt-boy. You're already dead.
-ຂ້ອຍມີຂ່າວສໍາລັບເຈົ້າ, ເດັກຊາຍບາກ. ເຈົ້າຕາຍແລ້ວ.
-
-220
-00:14:18,500 --> 00:14:21,300
-[TANAKA]
-Oh God, shit -- behind the bookcase --
-ໂອ້ ພຣະເຈົ້າ, ສະບາຍດີ - ຢູ່ເບື້ອງຫຼັງກະຕູ້ປື້ມ -
-
-221
-00:14:21,800 --> 00:14:23,800
-[BLADE]
-After you.
-ຫຼັງຈາກເຈົ້າ.
-
-222
-00:14:24,300 --> 00:14:26,300
-[KAREN]
-What is this place?
-ບ່ອນນີ້ເປັນຫຍັງ?
-
-223
-00:14:26,800 --> 00:14:28,800
-[BLADE]
-Some kind of archive --
-ບາງປະເພດຂອງເອກະສານ -
-
-224
-00:14:29,300 --> 00:14:34,550
-[KAREN]
-Isn't this all a little high-tech? I thought vampires were more into cobwebs and coffins.
-ນີ້ແມ່ນບໍ່ແມ່ນເຕັກໂນໂລຢີສູງຫຼາຍບໍ?
-ຂ້ອຍຄິດວ່າແວມປີຣ໌ມັກເຄືອຂ່າຍແມງໄມ້ແລະກະຕ່າຫຼາຍຂຶ້ນ.
-
-225
-00:14:35,050 --> 00:14:41,050
-[BLADE]
-You've been watching too much TV. They've got their claws sunk into everything -- finance, real estate, politics. Probably own half of Downtown.
-ເຈົ້າ ກໍາ ລັງເບິ່ງໂທລະພາບຫຼາຍເກີນໄປ. ພວກເຂົາມີກະຕ່າຂອງພວກເຂົາຈົມເຂົ້າໄປໃນທຸກຢ່າງ
-- ການເງິນ, ອະສັງຫາລິມະຊັບ, ການເມືອງ. ບາງທີເປັນເຈົ້າຂອງເຄິ່ງຫນຶ່ງຂອງໃຈກາງເມືອງ.
-
-226
-00:14:41,550 --> 00:14:44,700
-[BLADE]
-This must be where they keep their records --
-ນີ້ແມ່ນຕ້ອງເປັນບ່ອນທີ່ພວກເຂົາຮັກສາບັນທຶກຂອງພວກເຂົາ -
-
-227
-00:14:45,200 --> 00:14:47,200
-[PEARL'S VOICE]
-Lorca, is that you?
-ໂລຣກາ, ນັ້ນແມ່ນເຈົ້າບໍ?
-
-228
-00:14:47,700 --> 00:14:49,700
-[PEARL]
-He's here!
-ລາວຢູ່ບ່ອນນີ້!
-
-229
-00:14:50,200 --> 00:14:52,200
-[FROST'S VOICE]
-Congratulations, Day-Walker.
-ຂໍສະແດງຄວາມຍິນດີ, Day-Walker.
-
-230
-00:14:52,700 --> 00:14:54,700
-[BLADE]
-Frost?
-ຟຣັສຕ໌?
-
-231
-00:14:55,200 --> 00:14:59,750
-[FROST]
-In the flesh, Blade. I understand you've been looking for me. I'm flattered.
-ໃນຊີ້ນ, ບເລດ. ຂ້ອຍເຂົ້າໃຈວ່າເຈົ້າ
-ກໍາ ລັງຊອກຫາຂ້ອຍ. ຂ້ອຍຖືກຊົມເຊີຍ.
-
-232
-00:15:00,250 --> 00:15:04,100
-[BLADE]
-Don't be. You're another notch on my sword hilt, nothing else.
-ຢ່າເປັນ. ເຈົ້າເປັນບາດກ້າວອີກຫນຶ່ງໃນຈານກະທູ້ຂອງຂ້ອຍ, ບໍ່ມີຫຍັງອີກ.
-
-233
-00:15:04,600 --> 00:15:10,600
-[FROST]
-You're quick, Blade, I'll give you that. In the space of an hour you've crossed my familiar, destroyed a blood bank --  Now here you are in the heart of our archives, terrorizing our curator.
-ເຈົ້າໄວ, ບເລດ, ຂ້ອຍຈະໃຫ້ເຈົ້ານັ້ນ. ໃນໄລຍະເວລາ ຫນຶ່ງ ຊົ່ວໂມງເຈົ້າໄດ້ຂ້າມທີ່ຮູ້ຈັກຂອງຂ້ອຍ,
-ທໍາ ລາຍທະນາຄານເລືອດ - ດຽວນີ້ເຈົ້າຢູ່ໃນຫົວໃຈຂອງບັນທຶກຂອງພວກເຮົາ, ຢ້ານກົວຄູເຣເຕີຂອງພວກເຮົາ.
-
-234
-00:15:11,100 --> 00:15:14,600
-[PEARL'S VOICE]
-He has a knife to my throat, Frost! He --
-ລາວມີດອກໄມ້ຢູ່ຄໍຂອງຂ້ອຍ, ຟຣັສຕ໌! ລາວ -
-
-235
-00:15:15,100 --> 00:15:21,050
-[FROST]
-You're history, Pearl. Have the good grace to die with some dignity.  Round one to you, Blade.
-ເຈົ້າເປັນປະຫວັດສາດ, ເພິລ.
-ມີຄຸນງາມຄວາມດີທີ່ຈະຕາຍດ້ວຍກຽດຕິຍົດບາງຢ່າງ. ຮອບທໍາອິດໃຫ້ເຈົ້າ, ບເລດ.
-
-236
-00:15:21,550 --> 00:15:23,550
-[PEARL]
-What is that?
+00:02:43,205 --> 00:02:45,290
+¿Qué coño es eso?
 ນັ້ນແມ່ນຫຍັງ?
 
-237
-00:15:24,050 --> 00:15:30,050
-[BLADE]
-A sun lamp. We're gonna play twenty questions. Depending on your answers, you might get to have yourself a tanning session.
-ແສງແດດແສງຕາເວັນ. ພວກເຮົາຈະຫຼິ້ນຄໍາຖາມສິບຄໍາ. ອີງຕາມ ຄໍາ
-ຕອບຂອງທ່ານ, ທ່ານອາດຈະໄດ້ຮັບໃຫ້ຕົວເອງການປະຊຸມ tanning ໄດ້.
-
-238
-00:15:30,550 --> 00:15:34,750
-[BLADE]
-What were you in such a big hurry to delete just now?
-ເຈົ້າມີຄວາມຮີບດ່ວນຫຼາຍປານໃດທີ່ຈະລຶບດຽວນີ້?
-
-239
-00:15:35,250 --> 00:15:40,150
-[PEARL]
-It's an epistle, a letter Frost has been translating -- it prophesizes LaMagra's return.
-ມັນເປັນຈົດຫມາຍ, ຈົດຫມາຍທີ່ຟຣັສຕ໌ ກໍາ
-ລັງແປພາສາ - ມັນຄາດຄະເນການກັບມາຂອງລາມາແກຣ.
-
-240
-00:15:40,650 --> 00:15:42,650
-[BLADE]
-And who is LaMagra?
-ແລະ LaMagra ແມ່ນໃຜ?
-
-241
-00:15:43,150 --> 00:15:45,150
-[PEARL]
-LaMagra is The Sleeper!!!
-LaMagra ແມ່ນຜູ້ນອນ!!!
-
-242
-00:15:45,650 --> 00:15:49,500
-[BLADE]
-Where's the original, Pearl? You must have it around here somewhere.
-ຕົ້ນສະບັບຢູ່ໃສ, ເພິລ? ເຈົ້າຕ້ອງມີມັນຢູ່ບ່ອນໃດບ່ອນນີ້.
-
-243
-00:15:50,000 --> 00:15:52,000
-[PEARL]
-The vault --
-ກະຕູ້ເງິນ...
-
-244
-00:15:52,500 --> 00:15:54,500
-[BLADE]
-If he moves, cook him.
-ຖ້າລາວເຄື່ອນຍ້າຍ, ປຸງແຕ່ງລາວ.
-
-245
-00:15:55,000 --> 00:15:59,200
-[PEARL]
-Please, I'll give you the combination -- you'll damage the documents --
-ກະລຸນາ, ຂ້ອຍຈະໃຫ້ເຈົ້າປະສົມປະສານ - ເຈົ້າຈະ ທໍາ ລາຍເອກະສານ -
-
-246
-00:15:59,700 --> 00:16:01,700
-[BLADE]
-That's the point.
-ນັ້ນແມ່ນຈຸດປະສົງ.
-
-247
-00:16:02,200 --> 00:16:04,200
-[KAREN]
-He moved.
-ລາວຍ້າຍໄປ.
-
-248
-00:16:04,700 --> 00:16:06,700
-[KAREN]
-What are these?
-ເຫຼົ່ານີ້ແມ່ນຫຍັງ?
-
-249
-00:16:07,200 --> 00:16:09,200
-[QUINN]
-Hola, amigo. Remember me?
-ສະບາຍດີ, ເພື່ອນ. ຈື່ຂ້ອຍບໍ?
-
-250
-00:16:09,700 --> 00:16:14,600
-[QUINN]
-You took my arm, Blade. But that's okay, I'm growing a new one --
-ເຈົ້າເອົາແຂນຂອງຂ້ອຍ, ບເລດ. ແຕ່ມັນບໍ່ເປັນຫຍັງ
-, ຂ້ອຍ ກໍາ ລັງເຕີບໃຫຍ່ ໃຫມ່ -
-
-251
-00:16:15,100 --> 00:16:21,100
-[QUINN]
-Nice, huh? Think I'll ever play the piano again?  You can slice him, you can dice him, and the man just keeps on coming.
-ດີເລີດ, ແມ່ນບໍ? ເຈົ້າຄິດວ່າຂ້ອຍຈະຫຼິ້ນປິໂອອີກເທື່ອຫນຶ່ງບໍ?
-ທ່ານສາມາດຕັດລາວໄດ້, ເຈົ້າສາມາດຕັດລາວກະໄດ້, ແລະຜູ້ຊາຍພຽງແຕ່ສືບຕໍ່ມາ.
-
-252
-00:16:21,600 --> 00:16:25,100
-[QUINN]
-Stay with me, sweetness, I'm not through with you yet.
-ຢູ່ກັບຂ້ອຍແມ, ຂ້ອຍຍັງບໍ່ສິ້ນສຸດກັບເຈົ້າເທື່ອ.
-
-253
-00:16:25,600 --> 00:16:31,600
-[QUINN]
-Teak. Nice craftsmanship.  Now here's a man who takes his job just a little too seriously, don't you think?  Which reminds me, Blade, think I owe you one --
-ໄຕກ໌. ການເຮັດງານທໍາທີ່ດີເລີດ. ດຽວນີ້ມີຜູ້ຊາຍຄົນ ຫນຶ່ງ ທີ່ເອົາວຽກງານຂອງລາວຢ່າງຈິງໃຈເກີນໄປເລັກນ້ອຍ
-, ເຈົ້າບໍ່ຄິດບໍ? ເຊິ່ງເຮັດໃຫ້ຂ້ອຍຈື່ໄວ້, ບເລດ, ຄິດວ່າຂ້ອຍເປັນຫນີ້ເຈົ້າ ຫນຶ່ງ -
-
-254
-00:16:32,100 --> 00:16:35,950
-[QUINN]
-Actually, if you want to get technical, I owe you two.
-ແມ່ນແລ້ວ, ຖ້າເຈົ້າຢາກຮູ້ດ້ານວິຊາການ, ຂ້ອຍເປັນໜີ້ເຈົ້າສອງຄົນ.
-
-255
-00:16:36,450 --> 00:16:38,450
-[QUINN]
-What's so funny, bright eyes?
-ມີຫຍັງມ່ວນຫຼາຍ, ຕາສົດໃສ?
-
-256
-00:16:38,950 --> 00:16:40,950
-[BLADE]
-I'm expecting some company.
-ຂ້ອຍຄາດວ່າຈະມີຄົນມາຮ່ວມກັນ.
-
-257
-00:16:41,450 --> 00:16:43,450
-[VOICE]
-Get down!
-ຫຼຸດລົງ!
-
-258
-00:16:43,950 --> 00:16:48,150
-[WHISTLER]
-Christ, I'm too old for this. Somebody get me a goddamn wheelchair.
-ພຣະຄຣິດ, ຂ້ອຍອາຍຸເກີນໄປ ສໍາ ລັບສິ່ງນີ້. ບາງຄົນເອົາຕັ່ງລໍ້ໃຫ້ຂ້ອຍ.
-
-259
-00:16:48,650 --> 00:16:50,650
-[KAREN]
-How did you find us?!
-ເຈົ້າພົບພວກເຮົາແນວໃດ?!
-
-260
-00:16:51,150 --> 00:16:53,150
-[WHISTLER]
-We keep in radio contact.
-ພວກເຮົາຮັກສາການຕິດຕໍ່ທາງວິທະຍຸ.
-
-261
-00:16:53,650 --> 00:16:56,100
-[KAREN]
-You've been listening in the whole time?
-ເຈົ້າໄດ້ຟັງຕະຫຼອດເວລາບໍ?
-
-262
-00:16:56,600 --> 00:17:02,600
-[WHISTLER]
-You think I'd let him run loose without a chaperone? Blade ferrets their rat-holes out, I map them. Then we blow them all to kingdom come.
-ເຈົ້າຄິດວ່າຂ້ອຍຈະປ່ອຍໃຫ້ລາວແລ່ນອອກໄປໂດຍບໍ່ມີຜູ້ຕິດຕາມບໍ? ກະດານກະດານແມວຂອງພວກເຂົາອອກ
-, ຂ້ອຍເຮັດແຜນທີ່ພວກມັນ. ຫຼັງຈາກນັ້ນພວກເຮົາຈະພັດພວກມັນທັງ ຫມົດ ໄປສູ່ອານາຈັກມາ.
-
-263
-00:17:03,100 --> 00:17:07,300
-[WHISTLER]
-There's a subway line due East of here. We'd best make tracks.
-ມີສາຍລົດໄຟໃຕ້ດິນທາງທິດຕາເວັນອອກຈາກບ່ອນນີ້
-. ພວກເຮົາຄວນເຮັດເສັ້ນທາງທີ່ດີທີ່ສຸດ.
-
-264
-00:17:07,800 --> 00:17:09,800
-[KAREN]
-Whistler!
-ວີສລເຕີ!
-
-265
-00:17:10,300 --> 00:17:12,300
-[WHISTLER]
-Go on, I'll be fine!
-ໄປ, ຂ້ອຍຈະດີດີ!
-
-266
-00:17:12,800 --> 00:17:15,250
-[BLADE]
-He can take care of himself! GO!!!
-ລາວສາມາດເບິ່ງແຍງຕົວເອງໄດ້! ໄປ!!!
-
-267
-00:17:15,750 --> 00:17:17,750
-[KAREN]
-You're hurt --
-ເຈົ້າເຈັບປວດ...
-
-268
-00:17:18,250 --> 00:17:20,350
-[BLADE]
-Nothing that won't heal by dawn.
-ບໍ່ມີຫຍັງທີ່ຈະບໍ່ຫາຍດີໃນຕອນເຊົ້າ.
-
-269
-00:17:20,850 --> 00:17:22,950
-[BLADE]
-I need help with this --
-ຂ້ອຍຕ້ອງການຄວາມຊ່ວຍເຫຼືອກັບສິ່ງນີ້ -
-
-270
-00:17:23,450 --> 00:17:25,550
-[KAREN]
-What am I injecting you with?
-ຂ້ອຍສັກຢາຫຍັງໃຫ້ເຈົ້າ?
-
-271
-00:17:26,050 --> 00:17:28,500
-[BLADE]
-Serum -- it's a human hemoglobin substitute.
-ເຊຣັມ - ມັນແມ່ນການທົດແທນເຮມໂກບິນຂອງມະນຸດ.
-
-272
-00:17:29,000 --> 00:17:31,100
-[KAREN]
-You're one of them, aren't you?
-ເຈົ້າເປັນຄົນຫນຶ່ງໃນພວກມັນ, ແມ່ນບໍ?
-
-273
-00:17:31,600 --> 00:17:34,050
-[BLADE]
-Not quite. I'm a hybrid. Half-human, half-vampire.
-ບໍ່ແນ່ນອນ. ຂ້ອຍເປັນພັນປະສົມ. ເຄິ່ງມະນຸດ, ເຄິ່ງແວມປີ.
-
-274
-00:17:34,550 --> 00:17:36,550
-[WHISTLER]
-What took you so long?
-ເຈົ້າໃຊ້ເວລາຫຼາຍປານໃດ?
-
-275
-00:17:37,050 --> 00:17:39,050
-[BLADE]
-Don't even start, old man.
-ຢ່າເລີ່ມຕົ້ນເລີຍ, ພໍ່ເຖົ້າ.
-
-276
-00:17:39,550 --> 00:17:42,700
-[KAREN]
-Why didn't you tell me the truth about him?
-ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ບອກຂ້ອຍຄວາມຈິງກ່ຽວກັບລາວ?
-
-277
-00:17:43,200 --> 00:17:45,650
-[WHISTLER]
-We weren't sure we could trust you.
-ພວກເຮົາບໍ່ແນ່ໃຈວ່າພວກເຮົາສາມາດເຊື່ອໃຈເຈົ້າໄດ້.
-
-278
-00:17:46,150 --> 00:17:52,150
-[WHISTLER]
-Blade's mother was attacked by a vampire while she was pregnant. Ultimately, she died, but her unborn child lived. Unfortunately, he'd undergone certain genetic changes while in the womb --
-ແມ່ຂອງບເລດຖືກໂຈມຕີໂດຍແວມປີໃນຂະນະທີ່ນາງຖືພາ. ໃນທີ່ສຸດ, ນາງຕາຍ, ແຕ່ລູກທີ່ຍັງບໍ່ເກີດຂອງນາງຍັງມີຊີວິດຢູ່
-. ໂຊກຮ້າຍ, ລາວໄດ້ປະສົບກັບການປ່ຽນແປງທາງພັນທຸ ກໍາ ບາງຢ່າງໃນຂະນະທີ່ຢູ່ໃນທ້ອງ -
-
-279
-00:17:52,650 --> 00:17:58,650
-[WHISTLER]
-I found Blade when he was thirteen. He'd been living on the streets, feeding off the homeless. Apparently the Thirst manifested itself at puberty --  I took him for one of them at first, almost killed him, too. But then I realized what he was.
-ຂ້ອຍພົບບເລດເມື່ອລາວອາຍຸສິບສາມປີ. ລາວໄດ້ອາໄສຢູ່ໃນຖະຫນົນຫົນທາງ, ອາຫານຈາກຄົນບໍ່ມີເຮືອນ. ເບິ່ງຄືວ່າຄວາມດອກດອກໄດ້ສະແດງຕົວເອງໃນໄວລຸ້ນ
-- ຂ້ອຍຖືລາວເປັນ ຫນຶ່ງ ໃນພວກມັນໃນເບື້ອງຕົ້ນ, ເກືອບຈະຂ້າລາວເຊັ່ນກັນ. ແຕ່ຫຼັງຈາກນັ້ນຂ້ອຍຮູ້ວ່າລາວເປັນຫຍັງ.
-
-280
-00:17:59,150 --> 00:18:01,250
-[QUINN]
-He took my fucking hand! Again!
-ລາວຈັບມືຂອງຂ້ອຍອີກເທື່ອຫນຶ່ງ!
-
-281
-00:18:01,750 --> 00:18:07,750
-[FROST]
-You seem to be in the habit of losing them fairly often, Quinn. Maybe the amputee lifestyle just suits you.
-ເຈົ້າເບິ່ງຄືວ່າມີນິໄສທີ່ຈະສູນເສຍພວກມັນເລື້ອຍໆ, ຄວິນ.
-ບາງທີແບບຊີວິດການເປັນຢູ່ຂອງຄົນຕັດພຽງແຕ່ ເຫມາະ ສົມກັບເຈົ້າ.
-
-282
-00:18:08,250 --> 00:18:10,350
-[QUINN]
-We need to find him, tonight.
-ພວກເຮົາຕ້ອງຊອກຫາລາວ, ໃນຄືນນີ້.
-
-283
-00:18:10,850 --> 00:18:16,850
-[FROST]
-Down, boy. Blade's not going anywhere. I promise. Right now, though, we've more pressing business --  It's time Dragonetti paid the piper.
-ລົງ, ເດັກຊາຍ. ກະດານກະດານບໍ່ໄປໃສເລີຍ. ຂ້ອຍສັນຍາ. ໃນເວລານີ້, ເຖິງຢ່າງໃດກໍ່ຕາມ,
-ພວກເຮົາມີທຸລະກິດທີ່ກົດດັນຫຼາຍຂຶ້ນ - ມັນເຖິງເວລາແລ້ວທີ່ດຣາກເນັດຕີຈະຈ່າຍເງິນທໍ່.
-
-284
-00:18:17,350 --> 00:18:23,350
-[WHISTLER]
-Blade's unique, you know. A one in a billion anomaly. He can withstand sunlight, garlic, even silver. But he still has the Thirst.
-ບເລດເປັນເອກະລັກ, ເຈົ້າຮູ້ແລ້ວ. ຄວາມຜິດປົກກະຕິ ຫນຶ່ງ ໃນລ້ານຄົນ.
-ລາວສາມາດທົນທານຕໍ່ແສງແດດ, ຫມາກ ໄມ້, ເຖິງແມ່ນວ່າເງິນ. ແຕ່ລາວຍັງມີຄວາມດອກດອກ.
-
-285
-00:18:23,850 --> 00:18:26,650
-[KAREN]
-What happens if he doesn't take the serum?
-ຈະເກີດຫຍັງຂຶ້ນຖ້າລາວບໍ່ກິນຊີຣັມ?
-
-286
-00:18:27,150 --> 00:18:33,150
-[WHISTLER]
-The Thirst overcomes him, just like the others. It's not something he can control.  The problem is, time's running out. His body's starting to reject the serum. And so far, all my efforts to find a cure have ended in failure --
-ຄວາມດອກດອກ ກໍາ ລັງເອົາຊະນະລາວ, ຄືກັບຄົນອື່ນ. ມັນບໍ່ແມ່ນບາງສິ່ງບາງຢ່າງທີ່ລາວສາມາດຄວບຄຸມໄດ້. ບັນຫາແມ່ນ, ເວລາ ກໍາ ລັງ ຫມົດ ໄປ.
-ຮ່າງກາຍຂອງລາວ ກໍາ ລັງເລີ່ມປະຕິເສດເຊຣູມ. ແລະຈົນເຖິງປະຈຸບັນ, ຄວາມພະຍາຍາມຂອງຂ້ອຍທັງ ຫມົດ ເພື່ອຊອກຫາຢາປິ່ນປົວໄດ້ສິ້ນສຸດລົງໃນຄວາມລົ້ມເຫຼວ -
-
-287
-00:18:33,650 --> 00:18:39,650
-[KAREN]
-No offense, Whistler, but you're not exactly working with state of the art equipment here. You might have missed something.
-ບໍ່ຕ້ອງໂຊກຮ້າຍ, ວີສລເຕີ, ແຕ່ເຈົ້າບໍ່ໄດ້ເຮັດວຽກກັບອຸປະກອນທີ່ທັນສະໄຫມຢູ່ບ່ອນນີ້
-. ເຈົ້າອາດຈະພາດບາງສິ່ງບາງຢ່າງ.
-
-288
-00:18:40,150 --> 00:18:44,350
-[WHISTLER]
-Which is why you're here. We could use someone with your experience.
-ນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າຢູ່ບ່ອນນີ້.
-ພວກເຮົາສາມາດໃຊ້ຄົນທີ່ມີປະສົບການຂອງທ່ານໄດ້.
-
-289
-00:18:44,850 --> 00:18:50,850
-[WHISTLER]
-This used to be mine, you know. It's been passed down through the centuries, from one hunter to the next --
-ນີ້ແມ່ນເຄີຍເປັນຂອງຂ້ອຍ, ເຈົ້າຮູ້ແລ້ວ.
-ມັນໄດ້ຖືກມອບຜ່ານຜ່ານສະຕະວັດຕ່າງໆ, ຈາກນັກລ່າສັດຄົນ ຫນຶ່ງ ຫາຄົນຕໍ່ໄປ -
-
-290
-00:18:51,350 --> 00:18:53,350
-[KAREN]
-Why do you hunt them?
-ເຈົ້າລ່າພວກມັນເປັນຫຍັງ?
-
-291
-00:18:53,850 --> 00:18:55,850
-[WHISTLER]
-Habit, mostly, just like this.
-ນິໄສ, ສ່ວນໃຫຍ່, ພຽງແຕ່ແບບນີ້.
-
-292
-00:18:56,350 --> 00:19:02,350
-[WHISTLER]
-I had a family once -- a wife, three daughters. Then a drifter named Deacon Frost came calling one evening --
-ຂ້ອຍມີຄອບຄົວຄັ້ງຫນຶ່ງ - ເມຍ, ລູກສາວສາມຄົນ.
-ຫຼັງຈາກນັ້ນຄົນຍ່າງຍ່າງຊື່ວ່າ Deacon Frost ໄດ້ໂທຫາໃນຕອນແລງຫນຶ່ງ -
-
-293
-00:19:02,850 --> 00:19:04,850
-[KAREN]
-He killed them?
-ລາວໄດ້ຂ້າພວກເຂົາບໍ?
-
-294
-00:19:05,350 --> 00:19:11,350
-[WHISTLER]
-Eventually. He toyed with them first. He made me choose, do you understand? Which order they would die in --
-ໃນທີ່ສຸດ. ລາວຫຼິ້ນກັບພວກມັນກ່ອນ. ລາວເຮັດໃຫ້ຂ້ອຍເລືອກ
-, ເຈົ້າເຂົ້າໃຈບໍ? ພວກເຂົາຈະຕາຍຕາມລໍາດັບໃດ -
-
-295
-00:19:11,850 --> 00:19:13,850
-[KAREN]
-How did you escape?
-ເຈົ້າຫນີໄດ້ແນວໃດ?
-
-296
-00:19:14,350 --> 00:19:20,350
-[WHISTLER]
-I didn't. He was cruel enough to let me live.  Even gave me a souvenir to remember him by.
-ຂ້ອຍບໍ່ໄດ້ເຮັດ. ລາວໂຊກຮ້າຍພໍທີ່ຈະປ່ອຍໃຫ້ຂ້ອຍຢູ່ອາໄສ
-. ເຖິງແມ່ນວ່າຈະໃຫ້ຂ້ອຍເຄື່ອງລະນຶກເພື່ອຈື່ລາວດ້ວຍ.
-
-297
-00:19:20,850 --> 00:19:24,000
-[KAREN]
-And now you're using Blade to exact your revenge?
-ແລະດຽວນີ້ເຈົ້າ ກໍາ ລັງໃຊ້ບເລດເພື່ອແກ້ແຄ້ນເຈົ້າບໍ?
-
-298
-00:19:24,500 --> 00:19:28,700
-[WHISTLER]
-Frost's bodycount keeps rising, and I'm not getting any younger, am I?
-ຈໍານວນສົບຂອງຟຣັສຕ໌ ກໍາ ລັງເພີ່ມຂຶ້ນຢ່າງຕໍ່ເນື່ອງ
-, ແລະຂ້ອຍບໍ່ໄດ້ກາຍເປັນໄວຫນຸ່ມກວ່າເກົ່າ, ແມ່ນບໍ?
-
-299
-00:19:29,200 --> 00:19:35,200
-[WHISTLER]
-I wouldn't go in there if I were you. It's best to leave him alone when he's like this.
-ຂ້ອຍຈະບໍ່ເຂົ້າໄປໃນບ່ອນນັ້ນຖ້າຂ້ອຍເປັນເຈົ້າ.
-ມັນດີທີ່ສຸດທີ່ຈະປ່ອຍລາວຢູ່ບ່ອນດຽວເມື່ອລາວເປັນແບບນີ້.
-
-300
-00:19:35,700 --> 00:19:37,700
-[KAREN]
-I'll take my chances.
-ຂ້ອຍຈະໃຊ້ຄວາມສ່ຽງໄດ້ເລີຍ.
-
-301
-00:19:38,200 --> 00:19:40,200
-[KAREN]
-Blade?
-ກະດານ?
-
-302
-00:19:40,700 --> 00:19:42,700
-[KAREN]
-It's dark in here.
-ມັນມືດຢູ່ບ່ອນນີ້.
-
-303
-00:19:43,200 --> 00:19:45,300
-[BLADE]
-You get used to the darkness.
-ເຈົ້າເຄີຍກັບຄວາມມືດ.
-
-304
-00:19:45,800 --> 00:19:47,900
-[KAREN]
-Whistler told me about your mother.
-ວີສລເຕີບອກຂ້ອຍກ່ຽວກັບແມ່ຂອງທ່ານ.
-
-305
-00:19:48,400 --> 00:19:51,550
-[BLADE]
-I can't close my eyes without hearing her scream.
-ຂ້ອຍບໍ່ສາມາດປິດຕາໄດ້ໂດຍບໍ່ຕ້ອງໄດ້ຍິນສຽງຮ້ອງໄຫ້ຂອງນາງ.
-
-306
-00:19:52,050 --> 00:19:55,900
-[KAREN]
-Those aren't real memories. No one has that kind of recall.
-ນັ້ນບໍ່ແມ່ນຄວາມຊົງຈໍາທີ່ແທ້ຈິງ. ບໍ່ມີໃຜມີຄວາມຊົງຈໍາແບບນັ້ນ.
-
-307
-00:19:56,400 --> 00:20:02,400
-[BLADE]
-I do. I remember from day one. People staring at me, sensing I was different. Watching the fear grow in their eyes, knowing in their hearts I wasn't human.
-ຂ້ອຍເຮັດ. ຂ້ອຍຈື່ຕັ້ງແຕ່ມື້ ທໍາ ອິດ. ຄົນເບິ່ງຂ້ອຍ, ຮູ້ສຶກວ່າຂ້ອຍແຕກຕ່າງ.
-ເບິ່ງຄວາມຢ້ານກົວເຕີບໃຫຍ່ໃນຕາຂອງພວກເຂົາ, ຮູ້ໃນຫົວໃຈຂອງພວກເຂົາວ່າຂ້ອຍບໍ່ແມ່ນມະນຸດ.
-
-308
-00:20:02,900 --> 00:20:08,900
-[KAREN]
-If you're not human, then why do you bleed like us? I've seen vampire blood, you don't have it running through your veins.
-ຖ້າເຈົ້າບໍ່ແມ່ນມະນຸດ, ຫຼັງຈາກນັ້ນເປັນຫຍັງເຈົ້າເລືອດຄືກັບພວກເຮົາ
-? ຂ້ອຍໄດ້ເຫັນເລືອງແວມປີ, ເຈົ້າບໍ່ມີມັນໄຫຼຜ່ານເສັ້ນເລື່ອຂອງທ່ານ.
-
-309
-00:20:09,400 --> 00:20:11,400
-[BLADE]
-Just get out of here.
-ພຽງແຕ່ອອກຈາກບ່ອນນີ້.
-
-310
-00:20:11,900 --> 00:20:13,900
-[KAREN]
-Blade --
-ກະດານກະດານ...
-
-311
-00:20:14,400 --> 00:20:16,400
-[BLADE]
-I said, GET OUT!!!
-ຂ້ອຍເວົ້າວ່າ, ອອກໄປ!!!
-
-312
-00:20:16,900 --> 00:20:18,900
-[FROST'S VOICE]
-Rise and shine, little wing.
-ຕື່ນຂຶ້ນແລະສ່ອງແສງ, ກະຕ່ານ້ອຍ.
-
-313
-00:20:19,400 --> 00:20:21,500
-[DRAGONETTI]
-What is this? Where am I?!
-ນີ້ແມ່ນຫຍັງ? ຂ້ອຍຢູ່ໃສ?!
-
-314
-00:20:22,000 --> 00:20:27,600
-[FROST]
-When was the last time you stopped to appreciate a sunrise, Dragonetti? Three, four hundred years?
-ເຈົ້າຢຸດຢັ້ງຄັ້ງສຸດທ້າຍທີ່ຈະຍ້ອງຍໍການຂຶ້ນຂອງແສງຕາເວັນເມື່ອໃດ
-, ດຣາກອນເນັດຕີ? ສາມ, ສີ່ຮ້ອຍປີ?
-
-315
-00:20:28,100 --> 00:20:30,900
-[FROST]
-How do you like that? Right on time.
-ເຈົ້າມັກມັນແນວໃດ? ທັນເວລາ.
-
-316
-00:20:31,400 --> 00:20:35,250
-[DRAGONETTI]
-The other elders will never let you get away with this!
-ຜູ້ເຖົ້າຄົນອື່ນຈະບໍ່ປ່ອຍໃຫ້ເຈົ້າຫນີໄປດ້ວຍສິ່ງນີ້ເລີຍ!
-
-317
-00:20:35,750 --> 00:20:41,000
-[DRAGONETTI]
-Don't you see, you fools?! He'll betray you too! He's planning on invoking LaMagra himself!
-ເຈົ້າບໍ່ເຫັນບໍ, ພວກເຈົ້າໂງ່?! ລາວຈະປະຫມາດເຈົ້າເຊັ່ນກັນ
-! ລາວ ກໍາ ລັງວາງແຜນທີ່ຈະເອີ້ນລາມາແກຣເອງ!
-
-318
-00:20:41,500 --> 00:20:47,100
-[FROST]
-The wheel turns, old fang. Guess you just got a little too long in the tooth.
-ລົດຖີບຫັນໄປ, ແຂ້ວເກົ່າ.
-ຂ້ອຍຄິດວ່າເຈົ້າພຽງແຕ່ມີແຂ້ວຍາວເກີນໄປເລັກນ້ອຍ.
-
-319
-00:20:47,600 --> 00:20:50,750
-[FROST]
-Dragonetti was right. You were fools to trust me.
-ດຣາກເນັດຕີເວົ້າຖືກຕ້ອງ. ເຈົ້າເປັນຄົນໂງ່ທີ່ຈະເຊື່ອຂ້ອຍ.
-
-320
-00:20:51,250 --> 00:20:53,250
-[WHISTLER]
-Going somewhere?
-ເຈົ້າໄປບ່ອນໃດບໍ?
-
-321
-00:20:53,750 --> 00:20:56,900
-[BLADE]
-China Town. I need more serum.  What's all this?
-ເມືອງຈີນ. ຂ້ອຍຕ້ອງການຊີຣັມຫຼາຍຂຶ້ນ. ສິ່ງທັງ ຫມົດ ນີ້ແມ່ນຫຍັງ?
-
-322
-00:20:57,400 --> 00:21:01,600
-[KAREN]
-I made a trip to the hospital last night, borrowed some equipment.
-ຂ້ອຍໄດ້ເດີນທາງໄປໂຮງຫມໍໃນມື້ວານນີ້, ຢືມອຸປະກອນບາງຢ່າງ.
-
-323
-00:21:02,100 --> 00:21:04,100
-[BLADE]
-For your miracle cure?
-ສໍາລັບການປິ່ນປົວມະຫັດສະຈັນຂອງທ່ານບໍ?
-
-324
-00:21:04,600 --> 00:21:07,750
-[WHISTLER]
-She's been making real progress, Blade.  Show him --
-ນາງ ກໍາ ລັງກ້າວຫນ້າຢ່າງແທ້ຈິງ, ບເລດ. ສະແດງໃຫ້ລາວ -
-
-325
-00:21:08,250 --> 00:21:14,250
-[KAREN]
-This is sodium citrate. It's an anti-coagulant. We use it to treat blood-clots sometimes. Vampire blood is thinner than humans, though. Watch what happens when I introduce some into a sample --
-ນີ້ແມ່ນຊິດຣາດໂຊດຽມ. ມັນແມ່ນຢາຕ້ານການສັ່ນສະເທືອນ. ພວກເຮົາໃຊ້ມັນເພື່ອປິ່ນປົວເລືອດ clots ບາງຄັ້ງ.
-ເລືອດແວມປີແມ່ນອ່ອນກວ່າມະນຸດ, ເຖິງຢ່າງໃດກໍ່ຕາມ. ເບິ່ງສິ່ງທີ່ເກີດຂຶ້ນເມື່ອຂ້ອຍ ນໍາ ບາງຢ່າງເຂົ້າໄປໃນຕົວຢ່າງ -
-
-326
-00:21:14,750 --> 00:21:19,300
-[WHISTLER]
-Can you imagine what a dash of that would do on your sword?
-ເຈົ້າຄິດໄດ້ບໍວ່າກະດານຂອງມັນຈະເຮັດຫຍັງກັບດາບຂອງທ່ານ?
-
-327
-00:21:19,800 --> 00:21:24,000
-[KAREN]
-Before you go, I'd like to take a sample of your blood.
-ກ່ອນທີ່ເຈົ້າຈະໄປ, ຂ້ອຍຢາກເອົາຕົວຢ່າງເລືອດຂອງທ່ານ.
-
-328
-00:21:24,500 --> 00:21:26,500
-[KAREN]
-Is he sick?
-ລາວເຈັບປ່ວຍບໍ?
-
-329
-00:21:27,000 --> 00:21:29,000
-[BLADE]
-Cancer.
-ແຄນເຊີ
-
-330
-00:21:29,500 --> 00:21:31,600
-[KAREN]
-You care about him, don't you?
-ເຈົ້າສົນໃຈລາວ, ແມ່ນບໍ?
-
-331
-00:21:32,100 --> 00:21:38,100
-[BLADE]
-We've got a good arrangement, that's all. Whistler makes the weapons, I use them, the vampires die -- end of story.
-ພວກເຮົາມີການຈັດຕັ້ງທີ່ດີ, ນັ້ນແມ່ນທັງຫມົດ.
-ວີສລເຕີເຮັດອາວຸດ, ຂ້ອຍໃຊ້ພວກມັນ, ແວມປີຕາຍ - ສິ້ນສຸດເລື່ອງ.
-
-332
-00:21:38,600 --> 00:21:43,150
-[KAREN]
-My mother used to say that a cold heart is a dead heart.
-ແມ່ຂອງຂ້ອຍເຄີຍເວົ້າວ່າ ຫົວໃຈເຢັນແມ່ນຫົວໃຈຕາຍແລ້ວ.
-
-333
-00:21:43,650 --> 00:21:46,450
-[BLADE]
-Your mother sounds like a Hallmark greeting card.
-ແມ່ຂອງເຈົ້າເບິ່ງຄືວ່າເປັນບັດອວຍພອນ Hallmark.
-
-334
-00:21:46,950 --> 00:21:51,500
-[BLADE]
-I'd wish you luck, Doc, but I never put much stock in optimism.
-ຂ້ອຍຢາກຂໍຄວາມໂຊກດີໃຫ້ເຈົ້າ, ດອກ,
-ແຕ່ຂ້ອຍບໍ່ເຄີຍເອົາໃຈໃສ່ຄວາມຫວັງດີຫຼາຍເລີຍ.
-
-335
-00:21:52,000 --> 00:21:54,000
-[BLADE]
-How's it going, Kam?
-ເປັນແນວໃດ, ຄາມ?
-
-336
-00:21:54,500 --> 00:21:56,500
-[KAM]
-You're a week early.
-ແມ່ນແລ້ວ, ເຈົ້າແມ່ນໄວກວ່າໜຶ່ງອາທິດແລ້ວ.
-
-337
-00:21:57,000 --> 00:21:59,000
-[BLADE]
-I was in the neighborhood.
-ຂ້ອຍຢູ່ໃກ້ຄຽງ.
-
-338
-00:21:59,500 --> 00:22:02,650
-[BLADE]
-Whistler says I'm building up a resistance to it.
-ວີສລເຕີເວົ້າວ່າ ຂ້ອຍ ກໍາ ລັງສ້າງຄວາມຕ້ານທານຕໍ່ມັນ.
-
-339
-00:22:03,150 --> 00:22:05,250
-[KAM]
-I was afraid that might happen.
-ຂ້ອຍຢ້ານວ່າມັນອາດຈະເກີດຂຶ້ນ.
-
-340
-00:22:05,750 --> 00:22:08,550
-[BLADE]
-Maybe it's time to start exploring other alternatives.
-ບາງທີມັນເຖິງເວລາແລ້ວທີ່ຈະເລີ່ມຄົ້ນຄວ້າທາງເລືອກອື່ນ.
-
-341
-00:22:09,050 --> 00:22:11,500
-[KAM]
-There's only one alternative to the serum.
-ມີທາງເລືອກດຽວຕໍ່ຊີຣູມ.
-
-342
-00:22:12,000 --> 00:22:14,000
-[BLADE]
-Yeah. I know.
-ແມ່ນແລ້ວ. ຂ້ອຍຮູ້ແລ້ວ.
-
-343
-00:22:14,500 --> 00:22:19,750
-[BLADE]
-Thanks, Kam.  One other thing. Have you ever heard of a vampire called the Sleeper?
-ຂອບໃຈ, ຄາມ. ອີກສິ່ງຫນຶ່ງ.
-ເຈົ້າເຄີຍໄດ້ຍິນກ່ຽວກັບແວມປີຣ໌ທີ່ເອີ້ນວ່າຄົນນອນບໍ?
-
-344
-00:22:20,250 --> 00:22:25,850
-[BLADE]
-I found this in there archives. I need to find someone who can read their language.
-ຂ້ອຍພົບສິ່ງນີ້ໃນບັນທຶກຢູ່ບ່ອນນັ້ນ.
-ຂ້ອຍຕ້ອງຊອກຫາຄົນໃດທີ່ສາມາດອ່ານພາສາຂອງພວກເຂົາໄດ້.
-
-345
-00:22:26,350 --> 00:22:32,350
-[KAM]
-I've heard about a woman named Miracia. Some say she's a mayombero, a Santeria witch. Supposedly she lives in that tent community down by the city dump. I'm told she only sees people at night.
-ຂ້ອຍໄດ້ຍິນກ່ຽວກັບແມ່ຍິງຊື່ວ່າ ມິຣາຊີຍ. ບາງຄົນເວົ້າວ່ານາງເປັນ Mayombero, ສາດສະດາ Santeria.
-ຄາດວ່ານາງອາໄສຢູ່ໃນຊຸມຊົນແຖບທີ່ຢູ່ຂ້າງລຸ່ມຂອງຖັງຖິ້ມເມືອງ. ຂ້ອຍບອກວ່ານາງເຫັນຄົນພຽງແຕ່ໃນຕອນກາງຄືນເທົ່ານັ້ນ.
-
-346
-00:22:32,850 --> 00:22:34,850
-[MAN]
-Afternoon, Blade.
-ສະບາຍດີ ແບລດ໌.
-
-347
-00:22:35,350 --> 00:22:37,350
-[FROST]
-Easy.
-ງ່າຍດາຍ.
-
-348
-00:22:37,850 --> 00:22:43,850
-[FROST]
-Wouldn't want our little friend here to wind up on the back of a milk carton, would we?
-ພວກເຮົາບໍ່ຢາກໃຫ້ເພື່ອນນ້ອຍຂອງພວກເຮົາທີ່ນີ້ສິ້ນສຸດລົງຢູ່ດ້ານຫຼັງຂອງກະຕູ້ນົມ
-, ແມ່ນບໍ?
-
-349
-00:22:44,350 --> 00:22:46,350
-[FROST]
-Beautiful day, isn't it?
-ມື້ທີ່ສວຍງາມ, ແມ່ນບໍ?
-
-350
-00:22:46,850 --> 00:22:48,950
-[BLADE]
-How can you be out here?
-ເຈົ້າຢູ່ບ່ອນນີ້ໄດ້ແນວໃດ?
-
-351
-00:22:49,450 --> 00:22:55,450
-[FROST]
-I dabble in pharmaceuticals, medical research. We've developed a type of sun-blocker using octyl salicylate, a few others things.
-ຂ້ອຍມັກຜະລິດຕະພັນຢາ, ການຄົ້ນຄວ້າທາງການແພດ.
-ພວກເຮົາໄດ້ພັດທະນາປະເພດຂອງເຄື່ອງປ້ອງກັນແສງຕາເວັນໂດຍໃຊ້ salicylate octyl, ບາງສິ່ງບາງຢ່າງອື່ນໆ.
-
-352
-00:22:55,950 --> 00:23:01,950
-[FROST]
-It's not very effective in direct sunlight, but it's a start. The goal, of course, is to be like you, "the Day-walker".
-ມັນບໍ່ມີປະສິດທິຜົນຫຼາຍໃນແສງແດດໂດຍກົງ, ແຕ່ມັນເປັນການເລີ່ມຕົ້ນ
-. ເປົ້າຫມາຍ, ແນ່ນອນ, ແມ່ນທີ່ຈະເປັນຄືກັບເຈົ້າ,"ຄົນຍ່າງໃນມື້".
-
-353
-00:23:02,450 --> 00:23:04,450
-[BLADE]
-I don't buy it.
-ຂ້ອຍບໍ່ເຊື່ອມັນ.
-
-354
-00:23:04,950 --> 00:23:10,950
-[FROST]
-Why not? The future of our race runs through your bloodstream. You've got the best of both worlds, Blade. All of our strengths and none of our weaknesses.
-ເປັນຫຍັງບໍ່? ອະນາຄົດຂອງເຊື້ອຊາດຂອງພວກເຮົາແລ່ນຜ່ານສາຍເລືອດຂອງທ່ານ. ເຈົ້າມີທີ່ດີທີ່ສຸດຂອງທັງສອງໂລກ
-, ບເລດ. ຄວາມເຂັ້ມແຂງທັງ ຫມົດ ຂອງພວກເຮົາແລະບໍ່ມີຄວາມອ່ອນແອຂອງພວກເຮົາ.
-
-355
-00:23:11,450 --> 00:23:13,900
-[BLADE]
-Maybe I don't see it that way.
-ບາງທີຂ້ອຍບໍ່ເຫັນມັນແບບນັ້ນ.
-
-356
-00:23:14,400 --> 00:23:20,400
-[FROST]
-Oh, so it's back to pretending we're human again, is it? Spare me the Uncle Tom routine. You can't keep denying what you are. You're one of us, Blade. You always have been.
-ໂອ້, ສະນັ້ນມັນກັບມາເຮັດແບບວ່າພວກເຮົາເປັນມະນຸດອີກເທື່ອຫນຶ່ງ, ແມ່ນບໍ? ຊ່ວຍຂ້ອຍຈາກການປົກກະຕິຂອງພໍ່ເຖົ້າໂຕມ
-. ເຈົ້າບໍ່ສາມາດປະຕິເສດສິ່ງທີ່ເຈົ້າເປັນໄດ້ຕໍ່ໄປ. ເຈົ້າເປັນ ຫນຶ່ງ ໃນພວກເຮົາ, ບເລດ. ເຈົ້າເຄີຍເປັນຢູ່ສະເຫມີ.
-
-357
-00:23:20,900 --> 00:23:22,900
-[BLADE]
-You're wrong.
-ເຈົ້າຜິດ.
-
-358
-00:23:23,400 --> 00:23:29,400
-[FROST]
-Am I? You think the humans will ever accept a half-breed like you? They can't. They're afraid of you.  The humans fear us because we're superior. They fear us because in their hearts they know their race has become obsolete.
-ຂ້ອຍເປັນບໍ? ເຈົ້າຄິດວ່າມະນຸດຈະຍອມຮັບຄົນເຄິ່ງພັນເຊັ່ນເຈົ້າບໍ? ພວກເຂົາບໍ່ສາມາດເຮັດໄດ້. ພວກເຂົາຢ້ານເຈົ້າ. ມະນຸດຢ້ານພວກເຮົາເພາະວ່າພວກເຮົາສູງກວ່າ
-. ພວກເຂົາມີຄວາມຢ້ານກົວຂອງພວກເຮົາເພາະວ່າໃນຫົວໃຈຂອງພວກເຂົາພວກເຂົາຮູ້ວ່າເຊື້ອຊາດຂອງພວກເຂົາໄດ້ກາຍເປັນເກົ່າແກ່ແລ້ວ.
-
-359
-00:23:29,900 --> 00:23:35,500
-[FROST]
-Look at them, just an endless stream of cattle in a mad race to the slaughterhouse.
-ເບິ່ງພວກເຂົາແມ,
-ພຽງແຕ່ສາຍແອວລ້ຽງສັດທີ່ບໍ່ມີສິ້ນສຸດໃນການແຂ່ງຂັນທີ່ໂຊກຮ້າຍໄປຫາໂຮງຂ້າສັດ.
-
-360
-00:23:36,000 --> 00:23:42,000
-[FROST]
-The pause that refreshes --  Care for some? Smells good, doesn't it? Pungent, with just an irrepressible hint of iron.
-ການຢຸດເຊົາທີ່ສົດໃສ - ເບິ່ງແຍງບາງຄົນ? ກິ່ນຫອມດີ, ແມ່ນບໍ
-? ກະຕຸ້ນ, ມີພຽງແຕ່ຊັດເຈນຂອງເຫຼັກທີ່ບໍ່ສາມາດຄວບຄຸມໄດ້.
-
-361
-00:23:42,500 --> 00:23:44,500
-[BLADE]
-Pass.
-ຜ່ານໄປ.
-
-362
-00:23:45,000 --> 00:23:50,600
-[FROST]
-You sure now? I bled a newborn for this. You won't find a drink that's sweeter.
-ເຈົ້າແນ່ໃຈດຽວນີ້ບໍ? ຂ້ອຍໄດ້ເລືອດເດັກນ້ອຍເກີດໃຫມ່
-ສໍາ ລັບສິ່ງນີ້. ເຈົ້າຈະບໍ່ພົບເຄື່ອງດື່ມທີ່ຫວານກວ່າ.
-
-363
-00:23:51,100 --> 00:23:57,100
-[FROST]
-Tell me honestly, do you really get the same rush from that pasteurized piss-serum of yours?  You're surprised I know about your serum? You shouldn't be. I know everything about you.
-ບອກຂ້ອຍຢ່າງຈິງໃຈ, ເຈົ້າໄດ້ຮັບຄວາມຮີບດ່ວນດຽວກັນຈາກຊີຣັມທ້ອງທ້ອງຖິ່ນທີ່ຖືກປັສເຕີຣີສ໌ຂອງທ່ານບໍ
-? ເຈົ້າແປກໃຈວ່າຂ້ອຍຮູ້ກ່ຽວກັບຊີຣາມຂອງເຈົ້າ? ເຈົ້າບໍ່ຄວນເປັນ. ຂ້ອຍຮູ້ທຸກຢ່າງກ່ຽວກັບເຈົ້າ.
-
-364
-00:23:57,600 --> 00:24:03,600
-[FROST]
-You can't keep walking the razor's edge, Blade. The day will come -- and soon, when you'll have to choose between our kind and their's. If I were you, I'd take care not to wind up on the wrong end of the fang.
-ເຈົ້າບໍ່ສາມາດຍ່າງຢູ່ແຄມກະດານຕັດໄດ້, ບເລດ. ມື້ຈະມາຮອດ - ແລະໄວໆນີ້, ເມື່ອເຈົ້າຕ້ອງເລືອກລະຫວ່າງປະເພດຂອງພວກເຮົາແລະຂອງພວກເຂົາ
-. ຖ້າຂ້ອຍເປັນເຈົ້າ, ຂ້ອຍຈະເບິ່ງແຍງບໍ່ໃຫ້ສິ້ນສຸດລົງໃນຈຸດທີ່ບໍ່ຖືກຕ້ອງຂອງແຂ້ວ.
-
-365
-00:24:04,100 --> 00:24:07,600
-[FROST]
-Love to continue this chat, but it appears I'm melting.
-ຂ້ອຍຢາກສືບຕໍ່ການສົນທະນານີ້, ແຕ່ເບິ່ງຄືວ່າຂ້ອຍ ກໍາ ລັງລະລາຍ.
-
-366
-00:24:08,100 --> 00:24:10,100
-[BLADE]
-You're not going anywhere.
-ເຈົ້າຈະບໍ່ໄປໃສເລີຍ.
-
-367
-00:24:10,600 --> 00:24:12,600
-[FROST]
-Watch me.
-ເບິ່ງຂ້ອຍແມ.
-
-368
-00:24:13,100 --> 00:24:16,600
-[MERCURY]
-This is Mercury. Tell Deacon I've found their hiding place.
-ນີ້ແມ່ນ Mercury. ບອກ Deacon ວ່າຂ້ອຍໄດ້ພົບບ່ອນເຊື່ອງຂອງພວກເຂົາ.
-
-369
-00:24:17,100 --> 00:24:19,100
-[BLADE]
-Any progress?
-ມີຄວາມກ້າວຫນ້າໃດບໍ?
-
-370
-00:24:19,600 --> 00:24:21,600
-[KAREN]
-Some. It's been slow --
-ບາງຢ່າງ. ມັນຊ້າຊ້າ -
-
-371
-00:24:22,100 --> 00:24:24,100
-[BLADE]
-You don't look so good.
-ເຈົ້າບໍ່ເບິ່ງດີເລີຍ.
-
-372
-00:24:24,600 --> 00:24:28,100
-[KAREN]
-I'm just tired, that's all. We've been up all night.
-ຂ້ອຍພຽງແຕ່ເມື່ອຍ, ນັ້ນແມ່ນທັງຫມົດ. ພວກເຮົາໄດ້ຕື່ນຕະຫຼອດຄືນ.
-
-373
-00:24:28,600 --> 00:24:30,600
-[KAREN]
-Excuse me.
-ຂໍໂທດເດີ.
-
-374
-00:24:31,100 --> 00:24:33,100
-[BLADE]
-It's started.
-ມັນເລີ່ມແລ້ວ.
-
-375
-00:24:33,600 --> 00:24:36,400
-[BLADE]
-You've got another day or two at most.
-ເຈົ້າມີອີກມື້ຫນຶ່ງຫຼືສອງມື້ສູງສຸດ.
-
-376
-00:24:36,900 --> 00:24:39,000
-[BLADE]
-For what it's worth, I'm sorry.
-ແມ່ນແລ້ວ, ຂ້ອຍຂໍໂທດເດີ.
-
-377
-00:24:39,500 --> 00:24:42,300
-[KAREN]
-You make it sound like I'm already dead.
-ເຈົ້າເຮັດໃຫ້ມັນອອກສຽງຄືກັບວ່າຂ້ອຍຕາຍແລ້ວ.
-
-378
-00:24:42,800 --> 00:24:44,800
-[MAN]
-Extranjero. �Quien es?
-ຄົນຕ່າງດ້າວ. ງຽບບໍ?
-
-379
-00:24:45,300 --> 00:24:48,100
-[BLADE]
-I'm here to see Miracia. Kam sent me.
-ຂ້ອຍມາທີ່ນີ້ເພື່ອພົບມິຣາຊີຍ. ຄາມໄດ້ສົ່ງຂ້ອຍ.
-
-380
-00:24:48,600 --> 00:24:50,600
-[WOMAN]
-This way.
-ທາງນີ້.
-
-381
-00:24:51,100 --> 00:24:56,350
-[KAREN]
-All right, let's start with the basics -- why do vampires need to drink blood?
-ດີແລ້ວ, ມາເລີ່ມຕົ້ນດ້ວຍພື້ນຖານ - ເປັນຫຍັງແວມປີຈຶ່ງຕ້ອງດື່ມເລືອດ?
-
-382
-00:24:56,850 --> 00:24:58,950
-[WHISTLER]
-Their own blood can't sustain hemoglobin.
-ເລືອດຂອງເຂົາເຈົ້າເອງບໍ່ສາມາດຮັກສາເຮມໂກບິນໄດ້.
-
-383
-00:24:59,450 --> 00:25:02,950
-[KAREN]
-Then vampirism is a genetic defect, just like Hemolytic anemia?
-ຫຼັງຈາກນັ້ນແວມປິຣີສັມແມ່ນຄວາມຜິດພາດທາງພັນທຸ
-ກໍາ, ຄືກັບໂຣກເລືອດຕຸ່ມ Hemolytic ບໍ?
-
-384
-00:25:03,450 --> 00:25:05,450
-[KAREN]
-So what about gene therapy?
-ສະນັ້ນການປິ່ນປົວເຊື້ອຊາດແນວໃດ?
-
-385
-00:25:05,950 --> 00:25:11,950
-[KAREN]
-Basically you'd have to re-write the victim's DNA, alter it so that the DNA will produce proteins capable of generating hemoglobin.
-ໂດຍພື້ນຖານແລ້ວ ເຈົ້າຕ້ອງຂຽນ DNA ຂອງຜູ້ເຄາະຮ້າຍຄືນ,
-ປ່ຽນມັນເພື່ອໃຫ້ DNA ຈະຜະລິດໂປຣຕີນທີ່ສາມາດຜະລິດ hemoglobin ໄດ້.
-
-386
-00:25:12,450 --> 00:25:14,450
-[WHISTLER]
-How?
-ແນວໃດ?
-
-387
-00:25:14,950 --> 00:25:20,950
-[KAREN]
-With a retrovirus. It's injected into the bone marrow cells, it causes the host's DNA to mutate. They've been using them to treat Sickle-cell anemia.
-ດ້ວຍໄວຣັສກັບຄືນໄປບ່ອນ. ມັນຖືກສັກຢາເຂົ້າໄປໃນຈຸລັງກະດູກ, ມັນເຮັດໃຫ້ DNA
-ຂອງເຈົ້າພາບປ່ຽນແປງ. ພວກເຂົາ ກໍາ ລັງໃຊ້ພວກມັນເພື່ອປິ່ນປົວໂຣກເລືອດຕັບ Sickle-cell.
-
-388
-00:25:21,450 --> 00:25:24,250
-[WHISTLER]
-You're serious? You actually think this could work?
-ເຈົ້າເວົ້າຈິງບໍ? ເຈົ້າຄິດວ່າສິ່ງນີ້ສາມາດເຮັດວຽກໄດ້ບໍ?
-
-389
-00:25:24,750 --> 00:25:30,750
-[KAREN]
-On me, yes. On Blade, I'm not so sure --  The problem is, Blade didn't contract the vampire virus from a bite like I did. He was born with it. The irony is, I could probably cure every vampire but him.
-ໃນຂ້ອຍ, ແມ່ນແລ້ວ. ໃນບເລດ, ຂ້ອຍບໍ່ແນ່ໃຈຫຼາຍ - ບັນຫາແມ່ນ, ບເລດບໍ່ໄດ້ຕິດເຊື້ອໄວຣັສແວມປີຈາກການກັດເຊັ່ນຂ້ອຍເຮັດ
-. ລາວເກີດດ້ວຍມັນ. ຄວາມໂຊກແຊງແມ່ນ, ຂ້ອຍອາດຈະສາມາດປິ່ນປົວແວມປີທຸກຄົນນອກຈາກລາວ.
-
-390
-00:25:31,250 --> 00:25:36,500
-[WHISTLER]
-Then we're back to square one, aren't we? Sooner or later, the Thirst always wins.
-ຫຼັງຈາກນັ້ນພວກເຮົາກັບຄືນໄປບ່ອນສີ່ແສນ ທໍາ ອິດ
-, ແມ່ນບໍ? ກ່ອນຫຼືຫຼ້າສຸດ, ຄວາມດັນຊະນະສະເຫມີ.
-
-391
-00:25:37,000 --> 00:25:39,000
-[KAREN]
-What happened to the power?
-ມີຫຍັງເກີດຂຶ້ນກັບໄຟຟ້າບໍ່?
-
-392
-00:25:39,500 --> 00:25:43,000
-[WHISTLER]
-I don't know, but the back-up generator should've kicked in.
-ຂ້ອຍບໍ່ຮູ້, ແຕ່ເຄື່ອງຜະລິດສໍາຮອງຄວນຈະເລີ່ມຕົ້ນ.
-
-393
-00:25:43,500 --> 00:25:45,500
-[WHISTLER]
-UV floodlights are down too.
-ແສງສະຫວ່າງນໍ້າຖ້ວມ UV ຍັງຫຼຸດລົງເຊັ່ນກັນ.
-
-394
-00:25:46,000 --> 00:25:48,000
-[WHISTLER]
-Get it!!!
-ເອົາມັນ!!!
-
-395
-00:25:48,500 --> 00:25:53,400
-[WHISTLER]
-Understand this -- they are monsters. Hesitate for even a moment, and you've lost.
-ເຂົ້າໃຈສິ່ງນີ້ - ພວກເຂົາເປັນໂມສເຕີ.
-ກັງວົນເຖິງແມ່ນວ່າຊົ່ວຄາວຫນຶ່ງ, ແລະເຈົ້າໄດ້ສູນເສຍ.
-
-396
-00:25:53,900 --> 00:25:55,900
-[FROST]
-Words to live by, Whistler.
-ຄໍາເວົ້າທີ່ຈະດໍາລົງຊີວິດຕາມ, ວີສລເຕີ.
-
-397
-00:25:56,400 --> 00:25:59,550
-[FROST]
-It's been a long time, hasn't it, "old friend"?
-ມັນເປັນເວລາດົນນານແລ້ວ, ແມ່ນບໍ,"ເພື່ອນເກົ່າ"?
-
-398
-00:26:00,050 --> 00:26:02,050
-[MIRACIA]
-Is something wrong, my friend?
-ມີຫຍັງຜິດບໍ, ເພື່ອນຂອງຂ້ອຍ?
-
-399
-00:26:02,550 --> 00:26:04,550
-[BLADE]
-You're blind --
-ເຈົ້າເປັນຕາບອດ...
-
-400
-00:26:05,050 --> 00:26:07,500
-[MIRACIA]
-There are other ways to see. Sit.
-ມີວິທີອື່ນທີ່ຈະເຫັນ. ນັ່ງ.
-
-401
-00:26:08,000 --> 00:26:12,200
-[MIRACIA]
-Perhaps you have brought me something -- an offering for the orishas?
-ບາງທີເຈົ້າໄດ້ເອົາບາງສິ່ງບາງຢ່າງມາໃຫ້ຂ້ອຍ
-- ການສະ ເຫນີ ສໍາລັບ orishaes ໄດ້ບໍ?
-
-402
-00:26:12,700 --> 00:26:14,700
-[MIRACIA]
-Hold out your hands.
-ຍືດມືອອກ.
-
-403
-00:26:15,200 --> 00:26:19,750
-[BLADE]
-I didn't come here to get my palms read. I need something translated.
-ຂ້ອຍບໍ່ໄດ້ມາບ່ອນນີ້ເພື່ອໃຫ້ອ່ານມືຂອງຂ້ອຍ
-. ຂ້ອຍຕ້ອງການບາງສິ່ງບາງຢ່າງທີ່ຖືກແປພາສາ.
-
-404
-00:26:20,250 --> 00:26:22,250
-[MIRACIA]
-Show me.
-ສະແດງໃຫ້ຂ້ອຍເຫັນ.
-
-405
-00:26:22,750 --> 00:26:24,750
-[MIRACIA]
-Sangre. Written in blood.
-Sangre. ຂຽນດ້ວຍເລືອດ.
-
-406
-00:26:25,250 --> 00:26:29,450
-[MIRACIA]
-This is an old tongue, from an old world. It concerns LaMagra.
-ນີ້ແມ່ນພາສາເກົ່າ, ຈາກໂລກເກົ່າ. ມັນກ່ຽວຂ້ອງກັບ LaMagra.
-
-407
-00:26:29,950 --> 00:26:31,950
-[BLADE]
-Who is LaMagra?
-ລາມາແກຣເປັນໃຜ?
-
-408
-00:26:32,450 --> 00:26:35,250
-[MIRACIA]
-The vampire God. This speaks of His return.
-ພຣະເຈົ້າແວມປີ. ນີ້ແມ່ນເວົ້າເຖິງການກັບມາຂອງລາວ.
-
-409
-00:26:35,750 --> 00:26:41,750
-[MIRACIA]
-"-- there will come a Day Walker."  "His blood will call the Sleeper from beyond the Veil of Tears."
-" - ຈະມີຄົນຍ່າງມື້ຈະມາ."
-ເລືອດຂອງລາວຈະໂທຫາຜູ້ນອນຈາກພາຍນອກຜ້າປົກຂອງນໍ້າຕາ."
-
-410
-00:26:42,250 --> 00:26:44,250
-[BLADE]
-His blood -- ?
-ເລືອດຂອງລາວ -?
-
-411
-00:26:44,750 --> 00:26:50,750
-[MIRACIA]
-The Day Walker's blood is a disparador -- a trigger, you see? For LaMagra's return. One need only consume it and the spirit of his ancestors will settle upon him.  "And the Sleeper will rise from the shadows anew, cleansing the world in a Tide of Blood."
-ເລືອດຂອງວັນ Walker ແມ່ນຜູ້ກະຕຸ້ນ - ເຈົ້າເຫັນບໍ? ສໍາລັບການກັບມາຂອງ LaMagra ໄດ້.
-ຄົນພຽງແຕ່ຕ້ອງບໍລິໂພກມັນແລະຈິດວິນຍານຂອງບັນພະບຸລຸດຂອງລາວຈະຕັ້ງຖິ່ນຖານຢູ່ເທິງລາວ." ແລະຜູ້ນອນຈະຂຶ້ນຈາກເງົາອີກຄັ້ງ, ທໍາ ຄວາມສະອາດໂລກໃນຄື້ນຟອງເລືອດ."
-
-412
-00:26:51,250 --> 00:26:53,250
-[BLADE]
-"The Blood Tide".
-ຄື້ນຟອງເລືອດ.
-
-413
-00:26:53,750 --> 00:26:59,750
-[MIRACIA]
-Yes. The vampire apocalypse. It is said that all who feel its taint will succumb to the Thirst.
-ແມ່ນແລ້ວ. Apocalypse vampire.
-ມັນເວົ້າວ່າທຸກຄົນທີ່ຮູ້ສຶກຄວາມສໍ້ໂກງຂອງມັນຈະຍອມຮັບຄວາມດອກດອກ.
-
-414
-00:27:00,250 --> 00:27:02,250
-[BLADE]
-How do I stop it?
-ຂ້ອຍຈະຢຸດມັນແນວໃດ?
-
-415
-00:27:02,750 --> 00:27:08,350
-[MIRACIA]
-The Great Wheel turns, my friend. The Dark is rising. How would you fight a shadow?
-ລົດຖີບໃຫຍ່ຫັນໄປ, ເພື່ອນຂອງຂ້ອຍ. ຄວາມມືດ
-ກໍາ ລັງຂຶ້ນ. ເຈົ້າຈະຕໍ່ສູ້ກັບເງົາແນວໃດ?
-
-416
-00:27:08,850 --> 00:27:10,950
-[MIRACIA]
-I am tired. Dawn is coming.
-ຂ້ອຍເມື່ອຍແລ້ວ. ຕອນເຊົ້າ ກໍາ ລັງມາຮອດ.
-
-417
-00:27:11,450 --> 00:27:13,550
-[BLADE]
-But I just got here --
-ແຕ່ຂ້ອຍຫາກໍ່ມາຮອດບ່ອນນີ້ -
-
-418
-00:27:14,050 --> 00:27:16,500
-[MIRACIA]
-You've been here longer than you think.
-ເຈົ້າຢູ່ບ່ອນນີ້ດົນກວ່າທີ່ເຈົ້າຄິດ.
-
-419
-00:27:17,000 --> 00:27:19,800
-[BLADE]
-Jesus, Whistler, what did they do to you?
-ພຣະເຢຊູ, ວີສລເຕີ, ພວກເຂົາເຮັດຫຍັງກັບເຈົ້າ?
-
-420
-00:27:20,300 --> 00:27:22,300
-[WHISTLER]
-Frost took her --
-ຟຣັສຕ໌ເອົານາງໄປ...
-
-421
-00:27:22,800 --> 00:27:24,800
-[BLADE]
-Don't try to talk --
-ຢ່າພະຍາຍາມເວົ້າ...
-
-422
-00:27:25,300 --> 00:27:30,200
-[WHISTLER]
-Listen. You have to -- finish me off. You don't want me coming back.
-ຟັງ. ເຈົ້າຕ້ອງ - ສິ້ນສຸດຂ້ອຍ. ເຈົ້າບໍ່ຢາກໃຫ້ຂ້ອຍກັບມາ.
-
-423
-00:27:30,700 --> 00:27:33,150
-[BLADE]
-No, we can treat the wounds --
-ບໍ່, ພວກເຮົາສາມາດປິ່ນປົວບາດເຈັບໄດ້ -
-
-424
-00:27:33,650 --> 00:27:35,750
-[WHISTLER]
-Too far gone, you know that.
-ໄປໄກເກີນໄປ, ເຈົ້າຮູ້ແລ້ວ.
-
-425
-00:27:36,250 --> 00:27:38,250
-[BLADE]
-Whistler, I can't.
-ວິສລເຕີ, ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້.
-
-426
-00:27:38,750 --> 00:27:41,550
-[WHISTLER]
-Yes you can. Now get on with it.
-ແມ່ນແລ້ວເຈົ້າສາມາດເຮັດໄດ້. ດຽວນີ້ໄປກັບມັນ.
-
-427
-00:27:42,050 --> 00:27:44,050
-[BLADE]
-Whistler, I --
-ວີສລເຕີ, ຂ້ອຍ...
-
-428
-00:27:44,550 --> 00:27:48,750
-[WHISTLER]
-I know.  Just be quick about it, will you? Do it right.
-ຂ້ອຍຮູ້ແລ້ວ. ພຽງແຕ່ໄວກ່ຽວກັບມັນ,
-ເຈົ້າຈະເຮັດແນວໃດ? ເຮັດມັນຢ່າງຖືກຕ້ອງ.
-
-429
-00:27:49,250 --> 00:27:55,250
-[FROST]
-Hello, Blade. By the time you watch this, Whistler will no doubt be winging his way to Heaven, thanks to your capable hands. If it makes any difference to you, he put up quite a fight.
-ສະບາຍດີ, ບເລດ. ໃນເວລາທີ່ເຈົ້າເບິ່ງສິ່ງນີ້, ວີສລເຕີຈະບໍ່ມີຂໍ້ສົງໄສທີ່ຈະບິນທາງໄປສູ່ສະຫວັນ,
-ຂອບໃຈກັບມືທີ່ມີຄວາມສາມາດຂອງທ່ານ. ຖ້າມັນມີຄວາມແຕກຕ່າງໃດໆຕໍ່ເຈົ້າ, ລາວໄດ້ຕໍ່ສູ້ຢ່າງຍິ່ງໃຫຍ່.
-
-430
-00:27:55,750 --> 00:28:01,750
-[FROST]
-Now, I'm sure you're wondering about Ms. Jansen's well-being. She's alive and kicking -- "ambulatory", as they like to say in the trade. Whether or not she remains so is entirely up to you.  I'll make this as easy as possible for you, Blade. You can find us at the Edgewood Towers. We'll be waiting with baited breath.
-ດຽວນີ້, ຂ້ອຍແນ່ໃຈວ່າເຈົ້າ ກໍາ ລັງສົງໄສກ່ຽວກັບຄວາມສະບາຍດີຂອງນາງຈານເຊັນ. ນາງມີຊີວິດຢູ່ແລະຕີ -"ການຍ່າງ", ດັ່ງທີ່ພວກເຂົາມັກເວົ້າໃນການຄ້າ. ບໍ່ວ່ານາງຍັງຄົງເປັນດັ່ງນັ້ນແມ່ນຂຶ້ນກັບເຈົ້າທັງ
-ຫມົດ. ຂ້ອຍຈະເຮັດໃຫ້ສິ່ງນີ້ງ່າຍທີ່ສຸດ ສໍາ ລັບເຈົ້າ, ບເລດ. ເຈົ້າສາມາດຊອກຫາພວກເຮົາຢູ່ຫໍ Edgewood ໄດ້. ພວກເຮົາຈະລໍຖ້າດ້ວຍລົມຫາຍໃຈທີ່ຖືກຈັບ.
-
-431
-00:28:02,250 --> 00:28:04,250
-[FROST]
-Well, here we are, Doctor.
-ດີ, ພວກເຮົາຢູ່ບ່ອນນີ້, ດອກຕໍ.
-
-432
-00:28:04,750 --> 00:28:06,850
-[KAREN]
-Why haven't you killed me yet?
-ເປັນຫຍັງເຈົ້າຍັງບໍ່ຂ້າຂ້ອຍເທື່ອ?
-
-433
-00:28:07,350 --> 00:28:11,200
-[MERCURY]
-Deacon likes to play with his food before he eats it.
-Deacon ມັກຫຼິ້ນກັບອາຫານຂອງລາວກ່ອນທີ່ຈະກິນມັນ.
-
-434
-00:28:11,700 --> 00:28:13,800
-[KAREN]
-How many of you are there?
-ພວກເຈົ້າແມ່ນຫຼາຍປານໃດ?
-
-435
-00:28:14,300 --> 00:28:20,300
-[FROST]
-A few thousand scattered about the globe. In the past, we've had to restrict our numbers for fear of discovery. That won't be necessary after tonight.
-ສອງສາມພັນຄົນແຈກຢາຍທົ່ວໂລກ. ໃນອະດີດ, ພວກເຮົາຕ້ອງຈໍາກັດ ຈໍາ
-ນວນຂອງພວກເຮົາເພື່ອຢ້ານກົວການຄົ້ນພົບ. ນັ້ນຈະບໍ່ຈໍາເປັນຫຼັງຈາກຄືນນີ້.
-
-436
-00:28:20,800 --> 00:28:22,800
-[KAREN]
-What happens then?
-ຫຼັງຈາກນັ້ນເກີດຫຍັງຂຶ້ນ?
-
-437
-00:28:23,300 --> 00:28:29,300
-[FROST]
-The Blood Tide. Our long-prophesied holy war against the humans. There's a force, you see -- a spirit that exists in our blood. I've discovered a way to invoke it.
-ສາຍໄຫຼ້ເລືອດ. ສົງຄາມສັກສິດຂອງພວກເຮົາທີ່ຖືກທໍານາຍໄວ້ເປັນເວລາດົນນານຕໍ່ຕ້ານມະນຸດ. ມີພະລັງ
-, ເຈົ້າເຫັນ - ຈິດວິນຍານທີ່ມີຢູ່ໃນເລືອງຂອງພວກເຮົາ. ຂ້ອຍໄດ້ຄົ້ນພົບວິທີທີ່ຈະເອີ້ນມັນ.
-
-438
-00:28:29,800 --> 00:28:31,800
-[KAREN]
-LaMagra --
-ລາມາແກຣ...
-
-439
-00:28:32,300 --> 00:28:38,300
-[FROST]
-That's right. The answers were there all along, of course, scribbled down in the forgotten languages of my kind. Waiting for someone with the patience to decipher them. My elders were foolish enough to dismiss them as wives tales. But I knew better.  Imagine my surprise when Blade turned out to be the key which would set that force free.
-ນັ້ນແມ່ນຄວາມຈິງ. ຄໍາ ຕອບຢູ່ບ່ອນນັ້ນຕະຫຼອດເວລາ, ແນ່ນອນ, ຂຽນລົງໃນພາສາທີ່ລືມຂອງປະເພດຂອງຂ້ອຍ. ລໍຖ້າຄົນທີ່ມີຄວາມອົດທົນທີ່ຈະ decipher ພວກເຂົາ.
-ຜູ້ເຖົ້າຂອງຂ້ອຍໂງ່ພໍທີ່ຈະໄລ່ພວກມັນເປັນເລື່ອງຂອງເມຍ. ແຕ່ຂ້ອຍຮູ້ດີກວ່າ. ຈິນຕະນາການຄວາມແປກໃຈຂອງຂ້ອຍເມື່ອບເລດປາກົດວ່າເປັນປຸ່ມທີ່ຈະປ່ອຍພະລັງນັ້ນ.
-
-440
-00:28:38,800 --> 00:28:44,800
-[FROST]
-LaMagra isn't a physical being. He's a spirit, requiring a flesh and blood host in order to manifest himself.
-ລາມາແກຣບໍ່ແມ່ນສິ່ງທີ່ມີຮ່າງກາຍ. ລາວເປັນຈິດວິນຍານ
-, ຕ້ອງການເຈົ້າພາບຊີ້ນແລະເລືອດເພື່ອສະແດງຕົວເອງ.
-
-441
-00:28:45,300 --> 00:28:47,300
-[KAREN]
-You.
-ເຈົ້າ.
-
-442
-00:28:47,800 --> 00:28:50,600
-[FROST]
-Who better to usher in the Blood Tide?
-ໃຜດີກວ່າທີ່ຈະ ນໍາ ເອົາສາຍເລືອດເຂົ້າມາ?
-
-443
-00:28:51,100 --> 00:28:57,100
-[KAREN]
-There's no need for any of this. Your condition can be treated. Whistler and I were working on a cure when --
-ບໍ່ຈໍາເປັນຕ້ອງມີສິ່ງນີ້ເລີຍ. ສະພາບຂອງທ່ານສາມາດປິ່ນປົວໄດ້
-. ຂ້ອຍແລະວິສລເຕີ ກໍາ ລັງເຮັດວຽກກ່ຽວກັບການຮັກສາເມື່ອ -
-
-444
-00:28:57,600 --> 00:29:03,600
-[FROST]
-What makes you think we want to be cured? Blood is only part of the equation. The hunt, the killing, that's what the Thirst is really about.
-ເປັນຫຍັງເຈົ້າຈຶ່ງຄິດວ່າພວກເຮົາຢາກໄດ້ຮັບການປິ່ນປົວ? ເລືອດແມ່ນພຽງແຕ່ເປັນສ່ວນ ຫນຶ່ງ
-ຂອງຄວາມເທົ່າທຽມ. ການລ່າສັດ, ການຂ້າ, ນັ້ນແມ່ນສິ່ງທີ່ຄວາມດອກດອກແມ່ນກ່ຽວກັບແທ້ໆ.
-
-445
-00:29:04,100 --> 00:29:06,200
-[KAREN]
-But you use blood banks --
-ແຕ່ເຈົ້າໃຊ້ທະນາຄານເລືອດ -
-
-446
-00:29:06,700 --> 00:29:12,700
-[FROST]
-Only as a last resort. Preserved blood is inferior. There's no flavor left to it, no life.  Fortunately, I've found a way around that particular obstacle.
-ພຽງແຕ່ເປັນທາງເລືອກສຸດທ້າຍ. ເລືອດທີ່ຖືກຮັກສາໄວ້ແມ່ນຕໍ່າກວ່າ.
-ບໍ່ມີລົດຊາດທີ່ເຫຼືອໄວ້ໃຫ້ມັນ, ບໍ່ມີຊີວິດ. ໂຊກດີ, ຂ້ອຍໄດ້ພົບວິທີຜ່ານອຸປະສັກສະເພາະນັ້ນ.
-
-447
-00:29:13,200 --> 00:29:19,200
-[FROST]
-Under these conditions I can keep a donor alive for years, producing anywhere from fifty to a hundred pints of blood.  Of course, this is just a pilot program, really. Once the Tide comes, we'll need to expand production. So many more mouths to feed --
-ພາຍໃຕ້ເງື່ອນໄຂເຫຼົ່ານີ້ຂ້ອຍສາມາດຮັກສາຜູ້ບໍລິຈາກຊີວິດເປັນເວລາຫຼາຍປີ, ຜະລິດເລືອດຢູ່ບ່ອນໃດກໍ່ຕາມຈາກຫ້າສິບຫາສິບປິນຕ໌. ແນ່ນອນ
-, ນີ້ແມ່ນພຽງແຕ່ໂຄງການທົດລອງເທົ່ານັ້ນ, ແທ້ຈິງແລ້ວ. ເມື່ອຄື້ນຟອງມາ, ພວກເຮົາຈະຕ້ອງຂະຫຍາຍການຜະລິດ. ປາກຫຼາຍຢ່າງທີ່ຈະໃຫ້ອາຫານ -
-
-448
-00:29:19,700 --> 00:29:21,700
-[KAREN]
-You're a monster.
-ເຈົ້າເປັນໂມສເຕີ.
-
-449
-00:29:22,200 --> 00:29:28,200
-[FROST]
-Why? Because we live at another species' expense? Your people farm cattle and veal, don't they? Fattening them up with steroids? It's called evolution, Doctor. Survival of the fittest.
-ເປັນຫຍັງ? ເພາະວ່າພວກເຮົາອາໄສຢູ່ຕາມຄ່າໃຊ້ຈ່າຍຂອງຊະນິດອື່ນບໍ? ປະຊາຊົນຂອງທ່ານປູກງົວແລະຊີ້ນງົວ, ແມ່ນບໍ
-? ການເຮັດໃຫ້ພວກມັນໄຂມັນດ້ວຍສະເຕີຣອຍດ໌? ມັນເອີ້ນວ່າການພັດທະນາ, ດອກຕໍ. ການຢູ່ລອດຂອງຄົນແຂງແຮງທີ່ສຸດ.
-
-450
-00:29:28,700 --> 00:29:34,700
-[FROST]
-I have a wake-up call for the human race. You're no longer at the top of the food chain.
-ຂ້ອຍມີຄໍາຮ້ອງຕື່ນຕົວ ສໍາ ລັບເຊື້ອຊາດມະນຸດ.
-ເຈົ້າບໍ່ໄດ້ຢູ່ເທິງສຸດຂອງຕ່ອງໂສ້ອາຫານອີກແລ້ວ.
-
-451
-00:29:35,200 --> 00:29:38,350
-[VAMPIRE]
-You think I'm afraid of that toothpick of yours?
-ເຈົ້າຄິດວ່າຂ້ອຍຢ້ານກົວເຄື່ອງດູດແຂ້ວຂອງເຈົ້າບໍ?
-
-452
-00:29:38,850 --> 00:29:41,300
-[BLADE]
-You should be. I've made some improvements.
-ເຈົ້າຄວນເປັນ. ຂ້ອຍໄດ້ປັບປຸງບາງຢ່າງແລ້ວ.
-
-453
-00:29:41,800 --> 00:29:43,800
-[VANESSA]
-Jason.
-ແຈຊັນ
-
-454
-00:29:44,300 --> 00:29:46,300
-[BLADE]
-Mother -- ?!
-ແມ່ -?!
-
-455
-00:29:46,800 --> 00:29:52,800
-[VANESSA]
-I've missed you so much, Jason.  You have no idea what I've been through, how much I've wanted to see you --
-ຂ້ອຍຄິດຮອດເຈົ້າຫຼາຍ, ເຈຊອນ. ເຈົ້າບໍ່ຮູ້ເລີຍວ່າຂ້ອຍໄດ້ຜ່ານຫຍັງ
-, ຂ້ອຍຢາກເຫັນເຈົ້າຫຼາຍປານໃດ -
-
-456
-00:29:53,300 --> 00:29:55,300
-[BLADE]
-But you -- died --
-ແຕ່ເຈົ້າ - ເສຍຊີວິດ -
-
-457
-00:29:55,800 --> 00:29:57,800
-[VANESSA]
-Deacon brought me back.
-Deacon ໄດ້ພາຂ້ອຍກັບມາ.
-
-458
-00:29:58,300 --> 00:30:00,300
-[BLADE]
-Fight him --
-ຕໍ່ສູ້ກັບລາວ -
-
-459
-00:30:00,800 --> 00:30:06,800
-[FROST]
-She can't. She's one of my thralls now. She has about as much free will as a puppet on a string.  You love me, don't you, Vanessa?
-ນາງບໍ່ສາມາດເຮັດໄດ້. ນາງເປັນຄົນໃຊ້ຂອງຂ້ອຍດຽວນີ້.
-ນາງມີອິດສະຫຼະພາບປະມານເທົ່າກັບລູກຫຼານທີ່ຕິດສາຍແອວ. ເຈົ້າຮັກຂ້ອຍ, ແມ່ນບໍ, ເວເນສສ໌?
-
-460
-00:30:07,300 --> 00:30:09,300
-[VANESSA]
-Yes.
+15
+00:02:51,672 --> 00:02:53,590
+Eh.
+ເອ້.
+
+16
+00:02:55,759 --> 00:02:58,011
+¿Qué acabas de decir?
+ເຈົ້າຫາກໍ່ເວົ້າຫຍັງ?
+
+17
+00:03:52,774 --> 00:03:56,778
+Hola, ¿qué pasa? Coño.
+ສະບາຍດີ, ເກີດຫຍັງຂຶ້ນ? ລູກຊາຍ.
+
+18
+00:04:06,455 --> 00:04:08,498
+Muy bien.
+ດີຫຼາຍ.
+
+19
+00:04:15,214 --> 00:04:17,089
+Sí.
 ແມ່ນແລ້ວ.
 
+20
+00:04:33,148 --> 00:04:35,692
+¿Qué pasa?
+ມີຫຍັງເກີດຂຶ້ນ?
+
+21
+00:04:43,534 --> 00:04:44,660
+Eh, tío.
+ເອ້, ພໍ່ເຖົ້າ.
+
+22
+00:04:50,374 --> 00:04:52,042
+Joder.
+ໂຈເດີ.
+
+23
+00:05:01,677 --> 00:05:04,471
+Mierda, necesito una copa.
+ເຈົ້າ, ຂ້ອຍຕ້ອງການຈອກ.
+
+24
+00:05:29,621 --> 00:05:30,581
+BAÑO DE SANGRE
+ນ້ ໍາ ເລືອດ
+
+25
+00:05:51,935 --> 00:05:53,270
+No. No.
+ບໍ່. ບໍ່.
+
+26
+00:05:59,151 --> 00:06:01,153
+¿Qué pasa, monada?
+ມີຫຍັງເກີດຂຶ້ນ, ໂມນາດາ?
+
+27
+00:06:05,073 --> 00:06:06,366
+¡No!
+ບໍ່!
+
+28
+00:06:11,371 --> 00:06:12,456
+No.
+ບໍ່.
+
+29
+00:06:35,854 --> 00:06:38,690
+Cállate, hombre.
+ປິດງຽບ, ຜູ້ຊາຍ.
+
+30
+00:06:57,543 --> 00:07:00,379
+- ¿Es él?
+- Joder, es él.
+- ມັນເປັນລາວບໍ?
+- ໂຈເດີ, ມັນແມ່ນລາວ.
+
+31
+00:07:01,922 --> 00:07:03,173
+Es el que ha visto el sol.
+ມັນເປັນຄົນທີ່ເຫັນແສງຕາເວັນ.
+
+32
+00:07:24,611 --> 00:07:26,947
+¡Vamos, es el que ha visto el sol!
+ໄປ, ມັນແມ່ນຄົນທີ່ເຫັນແສງຕາເວັນ!
+
+33
+00:07:47,009 --> 00:07:50,470
+¡Eh! Te voy a arrancar tu puta cabeza.
+ເອ້! ຂ້ອຍຈະຕັດຫົວເຈົ້າອອກ.
+
+34
+00:08:07,529 --> 00:08:10,449
+- ¡Cuidado! ¡Eh, apartaos!
+- ¡Largo de aquí!
+- ລະມັດລະວັງ! ເອ້, ແຕກຕ່າງກັນ!
+- ອອກຈາກບ່ອນນີ້!
+
+35
+00:08:44,024 --> 00:08:47,778
+Es él. Es él. Cogedle. Destrozadle.
+ມັນເປັນລາວ.ມັນແມ່ນ
+ລາວ. Cogedle .ທໍາລາຍ.
+
+36
+00:08:48,028 --> 00:08:50,948
+Te vamos a machacar.
+Haced que le duela.
+ພວກເຮົາຈະເຮັດໃຫ້ເຈົ້າໂຊກຮ້າຍ
+.ເຮັດໃຫ້ລາວເຮັດສອງຄັ້ງ.
+
+37
+00:09:56,638 --> 00:09:58,390
+Quinn...
+ຄວິນ...
+
+38
+00:10:00,767 --> 00:10:03,478
+...ya estoy un poco cansado
+de cortarte en pedazos.
+ຂ້ອຍເມື່ອຍເລັກນ້ອຍຈາກ
+ການຕັດເຈົ້າເປັນຊິ້ນສ່ວນ.
+
+39
+00:10:07,399 --> 00:10:11,028
+Esta vez voy a probar
+con el fuego, para variar.
+ໃນຄັ້ງນີ້ຂ້ອຍຈະທົດລອງ
+ໃຊ້ໄຟ,ເພື່ອປ່ຽນແປງ.
+
+40
+00:10:13,906 --> 00:10:15,991
+Dale recuerdos a Frost.
+ເດລຈື່ຟຣັສຕ໌.
+
+41
+00:10:19,494 --> 00:10:21,830
+No, por favor. No lo hagas.
+ບໍ່, ກະລຸນາ. ບໍ່ມີ lo hagas.
+
+42
+00:10:22,915 --> 00:10:23,916
+Por aquí, sargento.
+ໄປບ່ອນນີ້, ພົນຈັດຕະວາ.
+
+43
+00:10:35,969 --> 00:10:37,304
+- Apagadlo.
+- Sí, señor.
+- Apagadlo.
+- ແມ່ນແລ້ວ, ທ້າວ.
+
+44
+00:10:37,471 --> 00:10:39,473
+Ya vienen los paramédicos.
+ເຈົ້າມາຮອດແພດປິ່ນປົວ.
+
+45
+00:11:02,037 --> 00:11:05,624
+Tengo un cadáver calcinado para ti.
+Todavía está caliente.
+ຂ້ອຍມີສົບທີ່ຖືກເຜົາໄໝ້ສໍ
+າລັບເຈົ້າ.ມັນຍັງຮ້ອນຢູ່.
+
+46
+00:11:05,791 --> 00:11:07,209
+Uno, dos, tres.
+ໜຶ່ງ, ສອງ, ສາມ.
+
+47
+00:11:12,840 --> 00:11:15,217
+Joder, es repugnante.
+ໂຈເດີ, ມັນກຽດຊັງ.
+
+48
+00:11:15,384 --> 00:11:18,512
+Los paramédicos dicen que estaba
+gritando cuando le encontraron...
+ພວກແພດສຸກເສີນເວົ້າວ່າລາວ
+ຮ້ອງໄຫ້ເມື່ອພວກເຂົາພົບລາວ...
+
+49
+00:11:18,679 --> 00:11:21,139
+...clavado a una pared.
+... ໃສ່ເຄື່ອງນຸ່ງຫົ່ມ.
+
+50
+00:11:21,306 --> 00:11:23,559
+Muy bonito.
+ງາມຫຼາຍ.
+
+51
+00:11:28,897 --> 00:11:29,982
+KAREN JENSON
+HEMATÓLOGA
+ຄາເຣນ ເຈນສັນ HEMATOLOGA
+
+52
+00:11:36,238 --> 00:11:39,908
+¿Has visto las pruebas? El azúcar
+en sangre es el triple de lo normal.
+ເຈົ້າເຫັນຫຼັກຖານບໍ?ນ້ໍາຕານໃນ
+ເລືອດແມ່ນສາມເທົ່າຂອງປົກກະຕິ.
+
+53
+00:11:40,075 --> 00:11:42,160
+Tiene el fósforo y el ácido úrico
+disparados.
+ມັນມີຟອດສຟໍຣັສແລະອາຊິດຢູຣິກໂຊກຮ້າຍ.
+
+54
+00:11:42,327 --> 00:11:44,538
+¿La has extraído
+de alguien que ingresó cadáver?
+ເຈົ້າໄດ້ເອົາມັນອອກຈາກ
+ຄົນໃດທີ່ເອົາສົບເຂົ້າມາບໍ?
+
+55
+00:11:45,581 --> 00:11:47,165
+Sí.
+ແມ່ນແລ້ວ.
+
+56
+00:11:47,833 --> 00:11:49,501
+Pero no tiene sentido.
+ແຕ່ມັນບໍ່ມີຄວາມ ໝາຍ.
+
+57
+00:11:53,422 --> 00:11:55,924
+Los glóbulos rojos son biconvexos,
+y es imposible.
+ພວກ globules ສີແດງແມ່ນ biconvexos
+,ເຈົ້າບໍ່ສາມາດເຮັດໄດ້.
+
+58
+00:11:56,508 --> 00:11:59,386
+Mira los polimorfonucleares,
+tienen doble núcleo.
+ເບິ່ງໂປລີມໍຟອນິວເຄຍ,
+ພວກເຂົາມີນິວເຄລຍສອງເທົ່າ.
+
+59
+00:12:02,472 --> 00:12:06,727
+- Curtis, son las tres de la mañana...
+- Esto no es una broma.
+- ຄູຕສ໌, ລູກຊາຍໃນເວລາສາມໂມງເຊົ້າ...
+- ນີ້ແມ່ນບໍ່ແມ່ນໂຊກຮ້າຍ.
+
+60
+00:12:06,894 --> 00:12:10,105
+Tengo el cadáver
+en el depósito ahora mismo.
+ຂ້ອຍມີສົບຢູ່ໃນບ່ອນເກັບມ້ຽນໃນເວລານີ້.
+
+61
+00:12:10,898 --> 00:12:13,692
+Creí que habías prometido
+darme algo de distancia.
+ຂ້ອຍຄິດວ່າເຈົ້າໄດ້ສັນຍາໃຫ້
+ຂ້ອຍບາງສິ່ງບາງຢ່າງຈາກໄລຍະຫ່າງ.
+
+62
+00:12:14,359 --> 00:12:16,445
+Solo quiero que le eches un vistazo.
+ຂ້ອຍພຽງແຕ່ຢາກໃຫ້ເຈົ້າເບິ່ງມັນ.
+
+63
+00:12:23,327 --> 00:12:26,622
+Vale. Enséñame el cadáver.
+ດີ. ສອນຂ້ອຍສົບ.
+
+64
+00:12:26,872 --> 00:12:29,041
+Y no quiero oír
+ni una palabra sobre nosotros.
+ແລະຂ້ອຍບໍ່ຢາກໄດ້ຍິນຄໍາ
+ເວົ້າໃດໆກ່ຽວກັບພວກເຮົາ.
+
+65
+00:12:29,208 --> 00:12:32,586
+Hecho. Eso ya lo hemos hablado.
+ແມ່ນແລ້ວ.ນັ້ນແມ່ນສິ່ງທີ່
+ພວກເຮົາໄດ້ເວົ້າກັນແລ້ວ.
+
+66
+00:12:35,881 --> 00:12:38,050
+¿No has empezado
+con los órganos internos?
+ເຈົ້າບໍ່ໄດ້ເລີ່ມຕົ້ນ
+ດ້ວຍອະໄວຍະວະພາຍໃນບໍ?
+
+67
+00:12:38,300 --> 00:12:41,428
+No, solo una muestra de sangre
+a través del pericardio.
+ບໍ່,ພຽງແຕ່ຕົວຢ່າງ
+ເລືອດຜ່ານ pericardium .
+
+68
+00:12:42,763 --> 00:12:46,058
+El maxilar parece un poco deformado.
+ກະຕ່າປາກເບິ່ງຄືວ່າສໍ້ໂກງເລັກນ້ອຍ.
+
+69
+00:12:46,225 --> 00:12:48,727
+Hay una estructura extraña
+alrededor de los colmillos.
+ມີໂຄງສ້າງແປກໃຈຢູ່ອ້ອມຂ້າງກະຕ່າ.
+
+70
+00:12:48,894 --> 00:12:51,813
+Voy a abrirle y a comprobar
+la mucosa traqueal.
+ຂ້ອຍຈະເປີດກະຕ່າແລະກວດສອບກະດານທ້ອງ.
+
+71
+00:12:56,902 --> 00:12:59,321
+Déjame que te haga una pregunta.
+ຂໍໃຫ້ຂ້ອຍຖາມເຈົ້າ.
+
+72
+00:13:00,197 --> 00:13:02,115
+Sinceramente.
+ຢ່າງຈິງໃຈ.
+
+73
+00:13:02,866 --> 00:13:05,410
+¿Alguna vez te replanteas lo nuestro?
+ເຈົ້າຄິດຄືນເລື່ອງຂອງພວກເຮົາບໍ?
+
+74
+00:13:07,746 --> 00:13:08,747
+A veces.
+ບາງຄັ້ງ.
+
+75
+00:13:10,999 --> 00:13:13,502
+Pero luego me acuerdo
+de lo capullo que fuiste.
+ແຕ່ຫຼັງຈາກນັ້ນຂ້ອຍຈະຮູ້ວ່າ
+ເຈົ້າເປັນຄົນໂຊກຮ້າຍຫຼາຍປານໃດ.
+
+76
+00:13:13,752 --> 00:13:15,379
+¿Te importaría darme un respiro?
+ເຈົ້າບໍ່ສົນໃຈໃຫ້ຂ້ອຍຫາຍໃຈບໍ?
+
+77
+00:13:15,546 --> 00:13:18,131
+Me pediste algo de tiempo,
+y te lo he dado.
+ເຈົ້າຂໍເວລາບາງຢ່າງຈາກ
+ຂ້ອຍ,ແລະເຈົ້າໄດ້ໃຫ້ມັນ.
+
+78
+00:13:18,298 --> 00:13:21,176
+- Mira, Curtis, se acabó.
+- Lo intento. En serio.
+- Mira, Curtis, ມັນສິ້ນສຸດລົງແລ້ວ.
+- ຂ້ອຍພະຍາຍາມ. ຢ່າງຈິງໃຈ.
+
+79
+00:13:40,654 --> 00:13:43,657
+- ¡Llamad a seguridad!
+- ¡Atrás!
+- ໂທຫາຄວາມປອດໄພ!
+- ຢູ່ເບື້ອງຫຼັງ!
+
+80
+00:13:58,672 --> 00:14:00,257
+He vuelto para rematarte.
+ລາວຫັນມາເພື່ອສິ້ນສຸດລົງ.
+
+81
+00:14:00,507 --> 00:14:02,384
+Apártate de mi camino, bicho raro.
+ອອກຈາກທາງຂອງຂ້ອຍ, ສັດແປກໃຈ.
+
+82
+00:14:09,558 --> 00:14:10,934
+¡Quieto!
+ງຽບໆ!
+
+83
+00:14:12,811 --> 00:14:15,439
+Hijo de puta,
+¿te has vuelto loco o qué?
+ເຈົ້າໂຊກຮ້າຍແລ້ວຫຼືຫຍັງ?
+
+84
+00:15:06,073 --> 00:15:07,824
+- Ahí, está ahí.
+- Vamos.
+- ໂອ້, ມັນຢູ່ບ່ອນນັ້ນ.
+- ໄປ.
+
+85
+00:15:07,991 --> 00:15:09,451
+- Venga.
+- Eh, alto ahí.
+- ເວນກາ
+- ເອ້, ຢຸດຢູ່ບ່ອນນັ້ນ.
+
+86
+00:15:09,701 --> 00:15:10,994
+- Vamos. Vamos.
+- Fuego.
+- ໄປ. ໄປ.
+- ໄຟ.
+
+87
+00:15:12,621 --> 00:15:13,664
+Seguid. Seguid.
+ຕິດຕໍ່. ຕິດຕໍ່ກັນ.
+
+88
+00:15:16,583 --> 00:15:18,335
+Tiene que salir.
+ເຈົ້າຕ້ອງອອກໄປ.
+
+89
+00:15:19,253 --> 00:15:21,213
+- Vamos.
+- No puede salir.
+- ໄປ.
+- ບໍ່ອອກໄປໄດ້.
+
+90
+00:15:28,387 --> 00:15:30,389
+- ¡Quieto!
+- Alto ahí.
+- ງຽບໆ!
+- ຢູ່ບ່ອນນັ້ນ.
+
+91
+00:15:30,639 --> 00:15:32,683
+- No lo hagas.
+- Eh, eh...
+- ບໍ່ມີໂຮຮກາສ໌.
+- ເອ້, ເອ້...
+
+92
+00:15:46,446 --> 00:15:48,073
+Mi hombro...
+ກະຕ່າຂອງຂ້ອຍ...
+
+93
+00:15:48,490 --> 00:15:50,742
+...está dislocado.
+... ມັນຖືກຍ້າຍອອກໄປ.
+
+94
+00:17:39,601 --> 00:17:41,478
+Whistler.
+ວີສລເຕີ.
+
+95
+00:17:44,523 --> 00:17:45,941
+Whistler.
+ວີສລເຕີ.
+
+96
+00:17:51,905 --> 00:17:53,448
+¿Ahora traes perros callejeros?
+ດຽວນີ້ມັນຕິດຕາມໝາຖະໜົນບໍ?
+
+97
+00:17:56,034 --> 00:17:57,160
+Le han mordido.
+ເລ ຮານກັດ.
+
+98
+00:18:01,623 --> 00:18:03,250
+Pues tendrías que haberla matado.
+ສະນັ້ນເຈົ້າຕ້ອງໄດ້ຂ້ານາງ.
+
+99
+00:18:03,500 --> 00:18:05,460
+Sí, ya lo sé...
+ແມ່ນແລ້ວ, ເຈົ້າຮູ້ວ່າ...
+
+100
+00:18:07,337 --> 00:18:08,797
+...pero no lo hice.
+ແຕ່ຂ້ອຍບໍ່ໄດ້ເຮັດມັນ.
+
+101
+00:18:15,637 --> 00:18:20,809
+Vigílala de cerca.
+Si empieza a cambiar, la rematas.
+ຖ້າມັນເລີ່ມປ່ຽນແປງ, ມັນຈະສິ້ນສຸດລົງ.
+
+102
+00:18:24,855 --> 00:18:26,815
+O lo haré yo.
+ໂອ້ ຂ້ອຍຈະເຮັດເຈົ້າ.
+
+103
+00:18:33,906 --> 00:18:35,449
+Está al límite.
+ມັນຢູ່ໃນຂອບເຂດ.
+
+104
+00:18:37,326 --> 00:18:40,954
+Otra hora y habrá realizado
+el cambio completo.
+ໃນຊົ່ວໂມງຕໍ່ໄປເຈົ້າຈະໄດ້
+ເຮັດການປ່ຽນແປງຢ່າງສົມບູນ.
+
+105
+00:18:42,581 --> 00:18:46,168
+Doctora Karen Jenson,
+escuche con atención.
+ດຣ ຄາເຣນ ເຈນສັນ, ຟັງດ້ວຍຄວາມສົນໃຈ.
+
+106
+00:18:46,502 --> 00:18:50,881
+Le voy a inyectar allium sativum. Ajo.
+ຂ້ອຍຈະສີດຢາ allium
+sativum .ນອກຈາກນັ້ນ.
+
+107
+00:18:51,048 --> 00:18:52,966
+Le va a doler mucho.
+ຂ້ອຍຈະເຈັບປວດຫຼາຍຂຶ້ນ.
+
+108
+00:18:53,217 --> 00:18:55,093
+Fue Quinn.
+ເປັນຄວິນ.
+
+109
+00:18:55,260 --> 00:18:57,804
+¿El chico de los recados de Frost?
+ເດັກຊາຍຈາກເຄື່ອງຮັບຜິດຊອບຂອງຟຣັສຕ໌ບໍ?
+
+110
+00:18:58,305 --> 00:19:00,849
+- ¿Tienes alguna pista?
+- No.
+- ເຈົ້າມີຂໍ້ແນະນໍາໃດບໍ?
+- ບໍ່.
+
+111
+00:19:01,850 --> 00:19:03,519
+Qué pena.
+ໂຊກຮ້າຍຫຼາຍປານໃດ.
+
+112
+00:19:06,021 --> 00:19:07,314
+Sujétala.
+ຊູເຈຕາລາ.
+
+113
+00:19:18,492 --> 00:19:23,205
+Le doy cincuenta cincuenta,
+si sobrevive a esta noche.
+ຂ້ອຍຈະເຮັດສິບຫ້າສິບ,
+ຖ້າລອດຊີວິດໃນຄືນນີ້.
+
+114
+00:19:49,314 --> 00:19:52,943
+Blade, el que ha visto el sol.
+ບເລດ, ຄົນທີ່ເຫັນແສງຕາເວັນ.
+
+115
+00:19:53,110 --> 00:19:55,571
+Sigue con su ridícula cruzada.
+ແນ່ນອນວ່າກັບໂຊກຮ້າຍທີ່ຂ້າມໄປ.
+
+116
+00:19:59,449 --> 00:20:01,493
+¿Cuántos han muerto?
+ມີຄົນຕາຍຫຼາຍປານໃດ?
+
+117
+00:20:01,952 --> 00:20:06,540
+No tenemos una cifra exacta.
+Por lo visto, usó mucha plata.
+ພວກເຮົາບໍ່ມີຕົວເລກທີ່ແນ່ນອນ
+.ເບິ່ງຄືວ່າ,ມັນໃຊ້ເງິນຫຼາຍ.
+
+118
+00:20:07,416 --> 00:20:10,127
+- Tenemos dificultades...
+- Traed a Frost.
+- ພວກເຮົາມີຄວາມຫຍຸ້ງຍາກ...
+- ຕິດຕາມ Frost ໄດ້.
+
+119
+00:20:18,552 --> 00:20:19,595
+Diácono Frost.
+Diácono Frost.
+
+120
+00:20:23,640 --> 00:20:25,934
+Ya puede pasar.
+ເຈົ້າສາມາດຜ່ານໄປໄດ້.
+
+121
+00:20:35,068 --> 00:20:39,239
+Eres una vergüenza
+para la nación de vampiros, Frost.
+ເຈົ້າເປັນຄວາມໂຊກຮ້າຍສໍ
+າລັບຊາດແວມປີຣ໌,ຟຣັສຕ໌.
+
+122
+00:20:40,073 --> 00:20:41,491
+Si rompemos el tratado...
+ຖ້າພວກເຮົາລະເມີດສົນທິສັນຍາ...
+
+123
+00:20:42,034 --> 00:20:44,119
+...si formamos grandes grupos...
+... ຖ້າພວກເຮົາສ້າງກຸ່ມໃຫຍ່...
+
+124
+00:20:44,828 --> 00:20:48,081
+...los políticos humanos
+nos harán la vida muy difícil.
+ພວກນັກການເມືອງມະນຸດຈະເຮັດໃຫ້
+ຊີວິດຂອງພວກເຮົາຫຍຸ້ງຍາກຫຼາຍ.
+
+125
+00:20:48,916 --> 00:20:51,627
+Lo entenderías...
+ເຈົ້າຈະເຂົ້າໃຈ...
+
+126
+00:20:52,252 --> 00:20:54,254
+...si tu sangre fuera pura.
+ຖ້າເລືອດຂອງທ່ານແມ່ນບໍລິສຸດ.
+
+127
+00:20:56,173 --> 00:20:58,300
+¿No tenemos
+problemas suficientes con Blade?
+ພວກເຮົາມີບັນຫາພຽງພໍກັບບເລດບໍ?
+
+128
+00:20:59,968 --> 00:21:01,970
+Esas discotecas son peligrosas.
+ພວກມັນເປັນດິໂຄເກາທີ່ອັນຕະລາຍຫຼາຍ.
+
+129
+00:21:02,137 --> 00:21:03,722
+¿Ah, sí?
+ອາ, ແມ່ນບໍ?
+
+130
+00:21:03,972 --> 00:21:07,518
+Llaman demasiado la atención.
+Ya conoces nuestra política.
+ພວກເຂົາເອີ້ນຄວາມສົນໃຈເກີນໄປ.
+ເຈົ້າຮູ້ນະໂຍບາຍຂອງພວກເຮົາແລ້ວ.
+
+131
+00:21:07,768 --> 00:21:09,686
+Es su política, no la mía.
+ມັນເປັນນະໂຍບາຍຂອງທ່ານ, ບໍ່ແມ່ນຂອງຂ້ອຍ.
+
+132
+00:21:10,354 --> 00:21:11,855
+Nuestro sustento...
+ການລ້ຽງດູຂອງພວກເຮົາ...
+
+133
+00:21:12,856 --> 00:21:16,944
+...depende de nuestra capacidad
+para integrarnos...
+ມັນຂຶ້ນກັບຄວາມສາມາດຂອງພວກເຮົາ
+ທີ່ຈະເຊື່ອມໂຍງພວກເຮົາ...
+
+134
+00:21:17,194 --> 00:21:18,487
+...de nuestra discreción.
+... ຈາກຄວາມລະມັດລະວັງຂອງພວກເຮົາ.
+
+135
+00:21:19,655 --> 00:21:22,824
+Quizá sea hora
+de olvidar nuestra discreción.
+ບາງທີມັນເຖິງເວລາແລ້ວທີ່ຈະ
+ລືມຄວາມລະມັດລະວັງຂອງພວກເຮົາ.
+
+136
+00:21:23,534 --> 00:21:25,244
+Deberíamos mandar sobre los humanos...
+ພວກເຮົາຄວນສັ່ງກ່ຽວກັບມະນຸດ...
+
+137
+00:21:25,410 --> 00:21:28,288
+...no andar por ahí haciendo
+tratados secretos con ellos.
+ຢ່າຍ່າງຢູ່ບ່ອນນັ້ນເຮັດ
+ສັນຍາລັບກັບພວກເຂົາ.
+
+138
+00:21:28,539 --> 00:21:31,917
+No jodas, son nuestra comida,
+no nuestros aliados.
+ບໍ່ມີໂຈດາ,ລູກຊາຍອາຫານຂອງພວກເຮົາ
+,ບໍ່ມີພັນທະມິດຂອງພວກເຮົາ.
+
+139
+00:21:32,167 --> 00:21:34,920
+- Te estás pasando, Frost.
+- ¿Ah, sí?
+- ເຈົ້າ ກໍາ ລັງຜ່ານໄປ, ຟຣັສຕ໌.
+- ອາ, ແມ່ນບໍ?
+
+140
+00:21:35,087 --> 00:21:38,715
+Quizá sea el primero que dice
+lo que todos estábamos pensando.
+ບາງທີຈະເປັນຄົນທໍາອິດທີ່ເວົ້າ
+ສິ່ງທີ່ພວກເຮົາທຸກຄົນກໍາລັງຄິດ.
+
+141
+00:21:38,966 --> 00:21:43,512
+Hemos existido así
+durante miles de años.
+ພວກເຮົາມີຢູ່ແບບນີ້
+ເປັນເວລາຫຼາຍພັນປີແລ້ວ.
+
+142
+00:21:43,679 --> 00:21:48,183
+¿Quién eres tú
+para desafiar nuestros modos?
+ເຈົ້າເປັນໃຜທີ່ຈະທ້າທາຍແບບຂອງພວກເຮົາ?
+
+143
+00:21:48,433 --> 00:21:50,519
+Ni siquiera eres un purasangre.
+ເຈົ້າຍັງບໍ່ແມ່ນເລືອດບໍລິສຸດເລີຍ.
+
+144
+00:21:53,981 --> 00:21:55,148
+Como si eso importara.
+ຄືກັບວ່າມັນສໍາຄັນ.
+
+145
+00:21:56,483 --> 00:22:00,195
+Yo nací vampiro...
+ເຈົ້າເກີດເປັນແວມປີຣ໌...
+
+146
+00:22:00,362 --> 00:22:04,074
+...igual que todos los miembros
+de esta casa.
+... ຄືກັບສະມາຊິກທຸກຄົນໃນເຮືອນນີ້.
+
+147
+00:22:04,241 --> 00:22:05,325
+Pero a ti, Frost...
+ແຕ່ເຈົ້າ, ຟຣັສຕ໌...
+
+148
+00:22:08,912 --> 00:22:11,373
+...a ti solo te convirtieron.
+... ເຈົ້າເປັນຄົນດຽວທີ່ປ່ຽນໃຈເຫລື້ອມໃສ.
+
+149
+00:22:13,542 --> 00:22:17,546
+El mundo nos pertenece
+a nosotros, no a los humanos.
+ໂລກຂຶ້ນກັບພວກເຮົາ, ບໍ່ແມ່ນມະນຸດ.
+
+150
+00:22:17,880 --> 00:22:20,007
+Y lo sabes.
+ເຈົ້າຮູ້ແລ້ວ.
+
+151
+00:22:24,011 --> 00:22:26,763
+¿Tenemos más asuntos que tratar?
+ພວກເຮົາມີເລື່ອງອື່ນທີ່ຈະແກ້ໄຂບໍ?
+
+152
+00:22:27,681 --> 00:22:32,019
+Bueno, está lo de las cuentas
+en el extranjero. Tenemos problemas...
+ມັນກ່ຽວກັບບັນຊີຢູ່
+ຕ່າງປະເທດ.ພວກເຮົາມີບັນຫາ...
+
+153
+00:22:32,186 --> 00:22:33,812
+¿Habéis hecho la transferencia...?
+ເຈົ້າໄດ້ເຮັດການໂອນເງິນບໍ?
+
+154
+00:22:33,979 --> 00:22:39,276
+Gaetano, quizá algún día te despiertes
+para que ver que te has extinguido.
+Gaetano ,ບາງທີມື້ໜຶ່ງເຈົ້າຈະ
+ຕື່ນຂຶ້ນເພື່ອເຫັນວ່າເຈົ້າໄດ້ປິດລົງ.
+
+155
+00:23:02,299 --> 00:23:05,177
+ESENCIA DE
+AJO
+ເອເຊັນຊີຍ ເດ ອາໂຈ
+
+156
+00:23:12,392 --> 00:23:16,021
+- Has venido una semana antes.
+- Ya.
+- ມາແລ້ວໜຶ່ງອາທິດກ່ອນ.
+- ແມ່ນແລ້ວ.
+
+157
+00:23:22,736 --> 00:23:26,782
+Whistler dice que me estoy haciendo
+resistente al suero.
+ວີສລເຕີເວົ້າວ່າຂ້ອຍກໍາລ
+ັງເຮັດໃຫ້ຕ້ານທານກັບຊີໂຣ.
+
+158
+00:23:28,659 --> 00:23:31,036
+Sí, ya supuse que podría pasar.
+ແມ່ນແລ້ວ,ເຈົ້າຄິດວ່າ
+ມັນສາມາດຜ່ານໄປໄດ້.
+
+159
+00:23:40,295 --> 00:23:42,589
+Cuídate, ¿vale?
+ເບິ່ງແຍງຕົວເອງ, ດີບໍ?
+
+160
+00:25:26,777 --> 00:25:29,279
+Igual me estoy ablandando a mi edad...
+ຄືກັບຂ້ອຍ ກໍາ ລັງອ່ອນແອອາຍຸຂອງຂ້ອຍ...
+
+161
+00:25:29,530 --> 00:25:32,366
+...por dejarte traer a casa
+a esa chica.
+...ຂໍໃຫ້ເຈົ້າເອົາເຮືອນ
+ໃຫ້ເດັກຍິງຄົນນັ້ນ.
+
+162
+00:25:33,033 --> 00:25:37,955
+Fue una estupidez.
+Aunque puede que hayas tenido suerte.
+ມັນເປັນຄວາມໂງ່.ເຖິງແມ່ນວ່າ
+ເຈົ້າອາດຈະໂຊກດີ.
+
+163
+00:25:38,914 --> 00:25:41,124
+He comprobado su historial.
+ລາວໄດ້ພິສູດປະຫວັດສາດຂອງທ່ານ.
+
+164
+00:25:43,877 --> 00:25:47,130
+Resulta que es hematóloga.
+ມັນປາກົດວ່າລາວເປັນນັກວິຊາການເລືອດ.
+
+165
+00:25:47,840 --> 00:25:50,592
+Podría sernos de ayuda.
+ຂ້ອຍສາມາດຊ່ວຍພວກເຮົາໄດ້.
+
+166
+00:25:51,510 --> 00:25:53,387
+Lo dudo.
+ຂ້ອຍສົງໄສ.
+
+167
+00:25:54,429 --> 00:25:56,014
+Hablo en serio.
+ເວົ້າຢ່າງຈິງໃຈ.
+
+168
+00:25:56,181 --> 00:26:01,186
+Le he echado un vistazo a su libreta.
+Está investigando algo.
+ລາວໄດ້ເບິ່ງປື້ມບັນທຶກຂອງລາວ.
+ລາວກໍາລັງສືບສວນບາງສິ່ງບາງຢ່າງ.
+
+169
+00:26:03,105 --> 00:26:04,523
+Te he aumentado la dosis.
+ລາວໄດ້ເພີ່ມປະລິມານ.
+
+170
+00:26:06,108 --> 00:26:09,444
+Ya son más de 50 miligramos.
+Empieza a ser peligroso.
+ລູກຊາຍຂອງທ່ານເກີນ 50 ມິລ
+ligram .ເລີ່ມເປັນອັນຕະລາຍ.
+
+171
+00:26:09,611 --> 00:26:13,991
+Tú hazlo, viejo.
+ເຈົ້າໂຊກຮ້າຍ, ຜູ້ເຖົ້າ.
+
+172
+00:27:13,592 --> 00:27:15,511
+¿Alejándose del camino, doctora?
+ເຈົ້າ ກໍາ ລັງອອກຈາກທາງບໍ, ດອກຕໍ?
+
+173
+00:27:17,471 --> 00:27:19,223
+¿Quiénes sois?
+ເຈົ້າເປັນໃຜ?
+
+174
+00:27:19,473 --> 00:27:20,807
+Me llamo Abraham Whistler.
+ຂ້ອຍເອີ້ນວ່າ ອາບຣາຮາມ ວີສລເຕີ.
+
+175
+00:27:22,309 --> 00:27:23,560
+Ya conoces a Blade.
+ເຈົ້າຮູ້ຈັກກະດານ.
+
+176
+00:27:39,868 --> 00:27:41,620
+Entonces ¿me tenéis prisionera?
+ສະນັ້ນເຈົ້າຈະຈັບຂ້ອຍເປັນນັກໂທດບໍ?
+
+177
+00:27:43,163 --> 00:27:45,123
+En absoluto.
+ແນ່ນອນ.
+
+178
+00:27:45,290 --> 00:27:49,378
+Teníamos que tomar ciertas precauciones
+antes de dejarte marchar.
+ພວກເຮົາຕ້ອງເອົາການລະມັດລະວັງ
+ບາງຢ່າງກ່ອນທີ່ຈະປ່ອຍໃຫ້ເຈົ້າໄປ.
+
+179
+00:27:49,920 --> 00:27:52,798
+Tienes que entender
+que están por todas partes.
+ເຈົ້າຕ້ອງເຂົ້າໃຈວ່າພວກມັນຢູ່ທຸກບ່ອນ.
+
+180
+00:27:53,048 --> 00:27:54,883
+Los vampiros.
+ພວກແວມປີຣັສ.
+
+181
+00:27:55,050 --> 00:27:56,593
+Los Hominis nocturna.
+Los Hominis nocturna.
+
+182
+00:27:57,928 --> 00:27:59,513
+Nosotros les damos caza.
+ພວກເຮົາຈະເອົາພວກມັນໄປລ່າສັດ.
+
+183
+00:27:59,680 --> 00:28:03,183
+Vamos de una ciudad a otra
+siguiendo sus migraciones.
+ພວກເຮົາຈະຈາກເມືອງໜຶ່ງໄປເມືອງອື
+່ນຕາມການຍ້າຍຖິ່ນຖານຂອງພວກເຂົາ.
+
+184
+00:28:03,433 --> 00:28:04,685
+Son difíciles de matar.
+ລູກຊາຍຍາກທີ່ຈະຂ້າ.
+
+185
+00:28:04,852 --> 00:28:08,355
+- Tienden a regenerarse.
+- ¿Y me lo tengo que creer?
+- ກະຕຸ້ນການຟື້ນຟູ.
+- ຂ້ອຍຕ້ອງເຊື່ອບໍ?
+
+186
+00:28:08,605 --> 00:28:11,608
+Bueno, ya conociste
+al señor Crujiente en el hospital.
+ດີ,ເຈົ້າຮູ້ຈັກທ່ານຄ
+ຣູຈິນເຕໃນໂຮງໝໍແລ້ວ.
+
+187
+00:28:11,775 --> 00:28:13,277
+¿Tú qué crees?
+ເຈົ້າຄິດແນວໃດ?
+
+188
+00:28:15,821 --> 00:28:19,199
+¿Y qué usáis, entonces?
+¿Estacas? ¿Crucifijos?
+ແລະເຈົ້າໃຊ້ຫຍັງ,ຫຼັງຈາກ
+ນັ້ນ?ກະດານ?ກະຕ່າຂ້າມໄມ້?
+
+189
+00:28:19,449 --> 00:28:24,162
+Los crucifijos no sirven de nada.
+Pero algunas leyendas son ciertas.
+ພວກ crucifijos ບໍ່ຊ່ວຍຫຍັງເລີຍ
+.ແຕ່ນິທານບາງຢ່າງແມ່ນຄວາມຈິງ.
+
+190
+00:28:24,329 --> 00:28:28,041
+Los vampiros son
+muy alérgicos a la plata.
+ພວກແວມປີຣັສເປັນອາເລັກຊີຫຼາຍຕໍ່ເງິນ.
+
+191
+00:28:28,208 --> 00:28:31,003
+Si les das ajo, sufren
+un choque anafiláctico.
+ຖ້າພວກມັນເຮັດເຊັ່ນນັ້ນ,ຈະ
+ປະສົບກັບການໂຊກແຊງແອນາຟິລາຕິກ.
+
+192
+00:28:31,170 --> 00:28:34,298
+Y luego están la luz del sol
+y los rayos ultravioleta.
+ແລະຫຼັງຈາກນັ້ນມີແສງແດດ
+ແລະແສງ ultraviolet .
+
+193
+00:28:35,799 --> 00:28:40,179
+He arreglado este trasto.
+¿Quieres probarlo esta noche?
+ລາວໄດ້ແກ້ໄຂສິ່ງນີ້.ເຈົ້າ
+ຢາກທົດລອງມັນໃນຄືນນີ້ບໍ?
+
+194
+00:28:46,143 --> 00:28:47,519
+Sigue pesando mucho.
+ແນ່ນອນວ່າ ໜັກ ຫຼາຍ.
+
+195
+00:28:48,979 --> 00:28:50,355
+Pero tú eres fuerte.
+ແຕ່ເຈົ້າແຂງແຮງ.
+
+196
+00:28:52,941 --> 00:28:56,361
+Si quieres seguir viviendo,
+vete de la ciudad antes del anochecer.
+ຖ້າເຈົ້າຢາກຢູ່ຕໍ່ໄປ,ອ
+ອກຈາກເມືອງກ່ອນຕອນແລງ.
+
+197
+00:28:56,612 --> 00:28:58,280
+¿Y adónde voy a ir?
+ຂ້ອຍຈະໄປໃສ?
+
+198
+00:29:02,159 --> 00:29:04,661
+Te has expuesto a ellos.
+ເຈົ້າໄດ້ເປີດເຜີຍພວກເຂົາແລ້ວ.
+
+199
+00:29:04,912 --> 00:29:08,582
+De un modo u otro,
+alguien vendrá a matarte.
+ໃນທາງໜຶ່ງແລະອີກທາງໜຶ່ງ
+,ບາງຄົນຈະຂາຍ matarte .
+
+200
+00:29:12,794 --> 00:29:15,506
+Hay una guerra ahí fuera.
+ມີສົງຄາມຢູ່ນອກນັ້ນ.
+
+201
+00:29:16,048 --> 00:29:18,717
+Blade, yo y unos cuantos más...
+ບເລດ, ເຈົ້າມີອີກຫຼາຍຄົນ...
+
+202
+00:29:18,967 --> 00:29:22,054
+...hemos intentado evitar
+que llegue a las calles...
+ພວກເຮົາພະຍາຍາມປ້ອງກັນບໍ່ໃຫ້
+ມັນມາຮອດຖະໜົນຫົນທາງ...
+
+203
+00:29:22,221 --> 00:29:26,558
+...pero a veces, gente como tú
+queda atrapada en el fuego cruzado.
+ແຕ່ບາງຄັ້ງ,ຄົນຄືກັບ
+ເຈົ້າຖືກຈັບໃນໄຟຂ້າມ.
+
+204
+00:29:26,725 --> 00:29:29,269
+Tengo muestras de sangre.
+Puedo ir a la policía.
+ຂ້ອຍມີຕົວຢ່າງເລືອດ.ຂ້ອຍ
+ສາມາດໄປຫາຕໍາຫຼວດໄດ້.
+
+205
+00:29:29,520 --> 00:29:31,980
+La policía está con ellos.
+ຕໍາຫຼວດຢູ່ກັບພວກເຂົາ.
+
+206
+00:29:32,147 --> 00:29:34,650
+Tienes que entender
+que están por todas partes.
+ເຈົ້າຕ້ອງເຂົ້າໃຈວ່າພວກມັນຢູ່ທຸກບ່ອນ.
+
+207
+00:29:34,816 --> 00:29:37,444
+Es probable
+que los hayas visto sin saberlo.
+ມັນເປັນໄປໄດ້ວ່າເຈົ້າເຄີຍເຫັນໂດຍບໍ່ຮູ້.
+
+208
+00:29:37,694 --> 00:29:39,321
+En el metro, o en un bar.
+ໃນລົດໄຟໃຕ້ດິນ, ຫຼືໃນບາ.
+
+209
+00:29:41,698 --> 00:29:43,617
+¿Y ya está?
+ເຈົ້າຢູ່ໃສ?
+
+210
+00:29:44,576 --> 00:29:47,371
+Me curáis y me dejáis a mi suerte.
+ເຈົ້າປິ່ນປົວຂ້ອຍແລະ
+ປ່ອຍໃຫ້ຂ້ອຍມີໂຊກດີຂອງຂ້ອຍ.
+
+211
+00:29:51,458 --> 00:29:55,420
+Toma. Es un líquido antivampiros.
+ໂຕມາມາ. ມັນແມ່ນແຫຼວຕ້ານແວມປີຣັສ.
+
+212
+00:29:56,338 --> 00:29:58,215
+Nitrato de plata, esencia de ajo.
+ນິດຣາໂຕຂອງເງິນ, ຄວາມສໍາຄັນຂອງ ajo.
+
+213
+00:29:59,216 --> 00:30:00,926
+Mantén los ojos abiertos.
+ຮັກສາຕາເປີດໄວ້.
+
+214
+00:30:01,677 --> 00:30:03,428
+Ten cuidado.
+ສິບຄວາມລະວັງ.
+
+215
+00:30:07,015 --> 00:30:09,268
+Y otra cosa...
+ແລະອີກສິ່ງໜຶ່ງ...
+
+216
+00:30:09,768 --> 00:30:12,229
+...cómprate una pistola.
+... ຊື້ປືນ.
+
+217
+00:30:12,938 --> 00:30:15,107
+Si te vuelves sensible a la luz...
+ຖ້າເຈົ້າມີຄວາມຮູ້ສຶກໃນແສງສະຫວ່າງ...
+
+218
+00:30:16,525 --> 00:30:21,530
+...si tienes sed,
+por mucho que hayas bebido...
+ຖ້າເຈົ້າຢາກດື່ມ,ເຖິງແມ່ນວ່າ
+ເຈົ້າໄດ້ດື່ມຫຼາຍປານໃດ...
+
+219
+00:30:21,822 --> 00:30:25,909
+...te sugiero que cojas la pistola
+y te pegues un tiro.
+ຂ້ອຍແນະນໍາໃຫ້ເຈົ້າ
+ເອົາປືນແລະຍິງຕົວເອງ.
+
+220
+00:30:29,079 --> 00:30:31,957
+Es mejor que la alternativa.
+ມັນດີກວ່າທາງເລືອກ.
+
+221
+00:31:29,348 --> 00:31:31,350
+Ya se te había advertido antes.
+ເຈົ້າຮູ້ແລ້ວວ່າຂ້ອຍໄດ້ປະກາດເຈົ້າກ່ອນ.
+
+222
+00:31:31,517 --> 00:31:35,979
+Esos archivos solo son
+para los miembros de la Casa de Erebus.
+ບັນທຶກເຫຼົ່ານັ້ນແມ່ນລູກຊາຍດຽວ
+ສໍາລັບສະມາຊິກຂອງເຮືອນເອເຣບັສ.
+
+223
+00:31:37,981 --> 00:31:41,944
+Estás perdiendo el tiempo.
+Es un idioma muerto.
+ເຈົ້າກໍາລັງເສຍເວລາ.
+ມັນເປັນພາສາຕາຍແລ້ວ.
+
+224
+00:31:42,110 --> 00:31:45,697
+Los textos antiguos
+nunca se podrán traducir.
+ຂໍ້ຄວາມເກົ່າໆຈະບໍ່ສາມາດແປໄດ້ເລີຍ.
+
+225
+00:31:47,157 --> 00:31:49,243
+Tú ni siquiera los entenderías.
+ເຈົ້າຍັງບໍ່ເຂົ້າໃຈພວກເຂົາເລີຍ.
+
+226
+00:31:51,787 --> 00:31:53,914
+¡Maldita sea, Frost,
+te estoy hablando!
+ທະເລແມລດິຕ້າ, Frost ,ຂ້ອຍ
+ກໍາລັງເວົ້າກັບເຈົ້າ!
+
+227
+00:31:58,043 --> 00:32:00,838
+Baja la voz, Gaetano.
+ຫຼຸດສຽງລົງ, Gaetano.
+
+228
+00:32:02,506 --> 00:32:05,050
+Estamos en una biblioteca.
+No tienes que gritar.
+ພວກເຮົາຢູ່ໃນຫ້ອງສະໝຸດ.
+ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຮ້ອງໄຫ້.
+
+229
+00:32:06,593 --> 00:32:08,929
+¿Qué estás tramando, Frost?
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່, ຟຣັສຕ໌?
+
+230
+00:32:20,232 --> 00:32:22,442
+¿Qué vas a hacer?
+ເຈົ້າຈະເຮັດຫຍັງ?
+
+231
+00:32:27,990 --> 00:32:29,700
+¿Qué?
+ຫຍັງ?
+
+232
+00:32:34,288 --> 00:32:36,540
+Me aburres.
+ຂ້ອຍເບື່ອໜ່າຍ.
+
+233
+00:32:59,313 --> 00:33:02,691
+PROTEGE ESTOS SIGNOS PUES
+SEÑALAN EL PRINCIPIO DE SU FIN
+ປ້ອງກັນສັນຍານເຫຼົ່ານີ້ສາມາດ
+ສະແດງຕົ້ນຕໍຂອງສິ້ນສຸດຂອງມັນໄດ້
+
+234
+00:33:11,033 --> 00:33:13,744
+Recuerda lo que te dijimos.
+ຈື່ສິ່ງທີ່ພວກເຮົາບອກເຈົ້າໄວ້.
+
+235
+00:33:13,994 --> 00:33:17,122
+Mantén los ojos abiertos.
+Están por todas partes.
+ຮັກສາຕາເປີດໄວ້. ພວກເຂົາຢູ່ທຸກບ່ອນ.
+
+236
+00:33:19,166 --> 00:33:20,626
+Pero si es de día.
+ແຕ່ຖ້າມັນເປັນມື້.
+
+237
+00:33:27,341 --> 00:33:29,551
+- Eh, eh, eso es mío.
+- ¿Tiene algo suelto?
+- ເຮ້, ເອ້, ນັ້ນແມ່ນຂອງຂ້ອຍ.
+- ເຈົ້າມີບາງສິ່ງບາງຢ່າງທີ່ວ່າງບໍ?
+
+238
+00:33:54,618 --> 00:33:57,162
+- ¿Algo más?
+- No, nada más.
+- ມີຫຍັງອີກບໍ?
+- ບໍ່, ບໍ່ມີຫຍັງອີກ.
+
+239
+00:34:20,518 --> 00:34:21,645
+¿Qué tal?
+ເປັນແນວໃດ?
+
+240
+00:35:42,559 --> 00:35:46,146
+Lo siento. Espere. Espere. Espere.
+Soy agente de policía.
+ຂໍໂທດ.ລໍຖ້າ.ລອງລໍຖ້າ.ຂ້ອຍ
+ເປັນເຈົ້າໜ້າທີ່ຕໍາຫຼວດ.
+
+241
+00:35:46,396 --> 00:35:49,316
+Lo siento, ¿vale? Soy policía.
+No pretendía asustarla.
+ຂ້ອຍເປັນຕໍາຫຼວດ.ຂ້ອຍບໍ່ໄດ້
+ເຮັດແບບວ່າຢ້ານກົວນາງ.
+
+242
+00:35:49,483 --> 00:35:52,069
+- La puerta estaba abierta.
+- ¿Qué hace aquí?
+- ປະຕູເປີດແລ້ວ.
+- ເຈົ້າເຮັດຫຍັງຢູ່ບ່ອນນີ້?
+
+243
+00:35:52,236 --> 00:35:54,530
+Vine a hacer una inspección rutinaria.
+ມາເຮັດການກວດກາປົກກະຕິ.
+
+244
+00:35:54,696 --> 00:35:57,783
+Soy el agente Krieger,
+de la comisaría 42.
+ຂ້ອຍເປັນຕົວແທນຄຣີເກີ
+,ຈາກສະຖານີຕໍາຫຼວດ 42 .
+
+245
+00:35:58,408 --> 00:36:00,702
+Usted es Karen Jenson, ¿verdad?
+ເຈົ້າເປັນແຄຣນ ເຈນສັນ, ແມ່ນບໍ?
+
+246
+00:36:01,286 --> 00:36:02,454
+Sí.
+ແມ່ນແລ້ວ.
+
+247
+00:36:02,704 --> 00:36:06,959
+Sus colegas del hospital dijeron
+que fue secuestrada anoche.
+ເພື່ອນຮ່ວມງານຂອງຂ້ອຍຈາກໂຮງໝໍ
+ເວົ້າວ່າລາວຖືກລັກພາຕົວໃນມື້ວານນີ້.
+
+248
+00:36:07,626 --> 00:36:09,294
+¿Se encuentra bien?
+ເຈົ້າພົບກັນດີບໍ?
+
+249
+00:36:10,212 --> 00:36:12,548
+¿Qué le pasó al otro médico
+con el que estaba?
+ເກີດຫຍັງຂຶ້ນກັບໝໍຄົນອື່ນທີ່ຂ້ອຍຢູ່ກັບ?
+
+250
+00:36:14,174 --> 00:36:16,969
+Curtis Webb, falleció.
+ຄູຕສ໌ ເວັບບ໌, ຕົກລົງ.
+
+251
+00:36:18,554 --> 00:36:20,973
+No, no se preocupe
+ahora por eso, ¿vale?
+ບໍ່,ຢ່າກັງວົນກ່ຽວກັບ
+ເລື່ອງນັ້ນດຽວນີ້,ດີບໍ?
+
+252
+00:36:22,307 --> 00:36:26,228
+- ¿Por qué?
+- Porque estás muerta, zorra.
+- ເປັນຫຍັງ?
+- ເພາະເຈົ້າຕາຍແລ້ວ, ໂຊຣ.
+
+253
+00:36:29,815 --> 00:36:32,442
+Hija de puta, ¿qué es eso?
+ລູກສາວໂຊກຮ້າຍ, ນັ້ນແມ່ນຫຍັງ?
+
+254
+00:36:34,278 --> 00:36:35,529
+¿Qué es, ajo?
+ມັນເປັນຫຍັງ, ໂຈ?
+
+255
+00:36:36,154 --> 00:36:38,782
+Sí, me dijo que funcionaría
+contra los vampiros.
+ແມ່ນແລ້ວ,ຂ້ອຍບອກວ່າມັນ
+ຈະເຮັດວຽກຕໍ່ຕ້ານແວມປີຣ໌.
+
+256
+00:36:38,949 --> 00:36:40,784
+¿Vampiros?
+ແວມປີຣັສບໍ?
+
+257
+00:36:41,034 --> 00:36:42,995
+¿Quién dijo que yo sea vampiro, eh?
+ໃຜບອກວ່າຂ້ອຍເປັນແວມປີຣ໌, ແມ່ນບໍ?
+
+258
+00:36:45,289 --> 00:36:46,456
+Nadie.
+ບໍ່ມີໃຜ.
+
+259
+00:36:51,420 --> 00:36:53,046
+Es un siervo.
+ມັນເປັນຄົນຮັບໃຊ້.
+
+260
+00:36:54,173 --> 00:36:56,550
+Un aspirante a vampiro.
+ຜູ້ສະໝັກເປັນແວມປີຣ໌.
+
+261
+00:36:56,884 --> 00:36:59,219
+Si muestra lealtad suficiente...
+ຖ້າສະແດງຄວາມສັດຊື່ພຽງພໍ...
+
+262
+00:36:59,386 --> 00:37:02,848
+...y demuestra su valor,
+quizá su amo le convierta.
+...ແລະສະແດງຄວາມກ້າຫານຂອງທ່ານ,ບາງ
+ທີຄວາມຮັກຂອງທ່ານເຮັດໃຫ້ລາວເຊື່ອຖື.
+
+263
+00:37:04,600 --> 00:37:06,810
+Un momento. ¿Me has usado de cebo?
+ດົນໜຶ່ງ. ເຈົ້າເຄີຍໃຊ້ຂ້ອຍບໍ?
+
+264
+00:37:07,060 --> 00:37:08,478
+Supéralo.
+ຊູເປຣາໂລ.
+
+265
+00:37:13,483 --> 00:37:15,694
+¿Todo eso es necesario?
+ສິ່ງທັງ ໝົດ ນັ້ນມີຄວາມຈໍາເປັນບໍ?
+
+266
+00:37:19,823 --> 00:37:23,202
+Es un glifo,
+una marca de ganado vampírica.
+ມັນເປັນກລິໂຟ,ເຄື່ອງໝາຍ
+ຂອງສັດລ້ຽງແວມປີຣິກ.
+
+267
+00:37:23,452 --> 00:37:26,163
+El agente Krieger
+es propiedad de alguien.
+ຕົວແທນຄຣີເກີເປັນຊັບສິນຂອງຄົນອື່ນ.
+
+268
+00:37:26,330 --> 00:37:28,832
+Si otro vampiro
+intentara desangrarle...
+ຖ້າແວມປີຣູຄົນອື່ນພະຍາຍາມຕັດເລືອດອອກ...
+
+269
+00:37:28,999 --> 00:37:30,876
+...tendría que responder
+ante su dueño.
+ຂ້ອຍຢາກຕອບຕໍ່ເຈົ້າຂອງມັນ.
+
+270
+00:37:32,836 --> 00:37:37,382
+Deacon Frost.
+Llevamos mucho tiempo buscándole.
+Deacon Frost .ພວກເຮົາໃຊ້
+ເວລາຫຼາຍໃນການຊອກຫາລາວ.
+
+271
+00:37:37,966 --> 00:37:43,514
+Muy bien, agente Krieger,
+¿vas a ser un buen sabueso?
+ດີຫຼາຍ,ຕົວແທນຄຣີເກີ,
+ເຈົ້າຈະເປັນຄົນຮູ້ທີ່ດີບໍ?
+
+272
+00:37:43,680 --> 00:37:45,599
+¿Nos dirás lo que trama tu amo?
+ເຈົ້າຈະບອກພວກເຮົາວ່າຮັກ
+ຂອງເຈົ້າກໍາລັງວາງແຜນຫຍັງບໍ?
+
+273
+00:37:45,766 --> 00:37:48,352
+Genial, ahora le robas.
+¿A mí también me vas a robar?
+ດີເລີດ,ດຽວນີ້ເຈົ້າລັກມັນ
+.ເຈົ້າຈະລັກຂ້ອຍຄືກັນບໍ?
+
+274
+00:37:48,602 --> 00:37:51,563
+¿Cómo crees que financiamos
+esta organización, eh?
+ເຈົ້າຄິດວ່າພວກເຮົາຈະສະໜັບສະໜູນ
+ການຈັດຕັ້ງນີ້ແນວໃດ,ແມ່ນບໍ?
+
+275
+00:37:51,730 --> 00:37:54,775
+No somos
+una organización benéfica precisamente.
+ພວກເຮົາບໍ່ແມ່ນອົງການກຸສົນຢ່າງແນ່ນອນ.
+
+276
+00:37:57,361 --> 00:37:59,488
+Es falso.
+ມັນເປັນຕົວະ.
+
+277
+00:38:02,157 --> 00:38:04,993
+Vaya, parece que nuestro amigo
+ha estado recaudando sangre.
+ໂອ້,ເບິ່ງຄືວ່າເພື່ອນ
+ຂອງພວກເຮົາກໍາລັງເກັບເລືອດ.
+
+278
+00:38:05,994 --> 00:38:09,039
+Clínica Hillburn. Lo conozco,
+es un banco de sangre.
+ຄລີນິກາຮິລເບຣນ.ຂ້ອຍຮູ້ຈັກ
+ມັນ,ມັນແມ່ນທະນາຄານເລືອດ.
+
+279
+00:38:09,206 --> 00:38:12,084
+Propiedad de vampiros,
+hay uno en cada ciudad.
+ເປັນຊັບສິນຂອງແວມປີຣັ
+ສ,ມີໜຶ່ງໃນທຸກໆເມືອງ.
+
+280
+00:38:12,251 --> 00:38:15,045
+Y siempre hacen entregas.
+¿Adónde ibas a llevarla?
+ເຈົ້າຈະສົ່ງມັນໄປໃສ?
+
+281
+00:38:15,212 --> 00:38:17,089
+No sé de qué estás hablando...
+ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ...
+
+282
+00:38:18,799 --> 00:38:20,509
+Oye, tranquilo.
+ໂອ້, ສະບາຍໃຈ.
+
+283
+00:38:20,676 --> 00:38:25,264
+Solo te lo preguntaré una vez más.
+¿Adónde la ibas a llevar?
+ຂ້ອຍຈະຖາມເຈົ້າອີກເທື່ອໜຶ່ງ
+.ເຈົ້າຈະເອົາມັນໄປໃສ?
+
+284
+00:38:25,430 --> 00:38:26,515
+Que te follen.
+ເຈົ້າໂຊກຮ້າຍຫຼາຍປານໃດ.
+
+285
+00:38:26,682 --> 00:38:29,184
+- ¿A mí? No, vas a comerte esto.
+- No, espera.
+- ຂ້ອຍບໍ? ບໍ່, ເຈົ້າຈະຄ້າສິ່ງນີ້.
+- ບໍ່, ລໍຖ້າ.
+
+286
+00:38:29,893 --> 00:38:30,853
+Apártense.
+ແພຣຕັນເຊ.
+
+287
+00:38:34,481 --> 00:38:36,149
+Madre mía.
+ແມ່ຂອງຂ້ອຍ.
+
+288
+00:38:39,695 --> 00:38:41,321
+Mira, allí.
+ມິຣາ, ຢູ່ບ່ອນນັ້ນ.
+
+289
+00:38:46,326 --> 00:38:48,328
+Más te vale despertar.
+ເຈົ້າຄວນຫາຍໃຈຫຼາຍຂຶ້ນ.
+
+290
+00:38:48,912 --> 00:38:51,540
+El mundo en el que vives
+es un decorado de azúcar.
+ໂລກທີ່ເຈົ້າຢູ່ອາໄສແມ່ນ
+ການຕົກແຕ່ງຈາກນ້ໍາຕານ.
+
+291
+00:38:51,707 --> 00:38:55,252
+Hay otro mundo debajo de él,
+el mundo real.
+ມີໂລກອື່ນຢູ່ພາຍໃຕ້ລາວ, ໂລກທີ່ແທ້ຈິງ.
+
+292
+00:38:55,419 --> 00:38:59,840
+Y si quieres sobrevivir,
+aprender a apretar el gatillo.
+ແລະຖ້າເຈົ້າຢາກຢູ່ລອດ
+,ຮຽນຮູ້ການຈັບກະຕ່າ.
+
+293
+00:39:03,427 --> 00:39:06,513
+- Un momento. Voy contigo.
+- No sirves para nada.
+- ດົນໜຶ່ງ. ຂ້ອຍຈະໄປກັບເຈົ້າ.
+- ບໍ່ມີປະໂຫຍດຫຍັງເລີຍ.
+
+294
+00:39:10,809 --> 00:39:12,603
+Tengo que quedarme contigo.
+ຂ້ອຍຢາກຢູ່ກັບເຈົ້າ.
+
+295
+00:39:12,769 --> 00:39:16,857
+Es la única forma de sobrevivir
+para buscarme una cura.
+ມັນເປັນວິທີດຽວທີ່ຈະລອດຊີວິດ
+ເພື່ອຊອກຫາຢາປິ່ນປົວຂ້ອຍ.
+
+296
+00:39:17,024 --> 00:39:19,484
+No hay ninguna cura.
+ບໍ່ມີການປິ່ນປົວໃດໆ.
+
+297
+00:39:29,661 --> 00:39:31,955
+No va a volver.
+ບໍ່ຈະກັບມາອີກເທື່ອໜຶ່ງ.
+
+298
+00:39:32,122 --> 00:39:33,790
+Nadie es tan idiota.
+ບໍ່ມີໃຜເປັນຄົນໂງ່ຫຼາຍ.
+
+299
+00:39:34,041 --> 00:39:36,960
+Cuando entiendes
+la naturaleza de algo...
+ເມື່ອເຈົ້າເຂົ້າໃຈລັກ
+ສະນະຂອງບາງສິ່ງບາງຢ່າງ...
+
+300
+00:39:37,127 --> 00:39:38,921
+...sabes de lo que es capaz.
+ເຈົ້າຮູ້ວ່າເຈົ້າສາມາດເຮັດໄດ້ແນວໃດ.
+
+301
+00:39:57,064 --> 00:40:00,400
+- Soy Krieger. Estoy en 16009.
+- ¿Sí?
+- ຂ້ອຍເປັນຄຣີເກີ. ຂ້ອຍຢູ່ໃນປີ 16009.
+- ແມ່ນບໍ?
+
+302
+00:40:00,567 --> 00:40:03,445
+- Ponme con Pearl.
+- Pearl se está alimentando.
+- ເອົາຂ້ອຍກັບເປຣລ.
+- ເພີລ ກໍາ ລັງກິນອາຫານ.
+
+303
+00:40:06,323 --> 00:40:10,661
+Tengo una entrega de Frost
+y acabo de cruzarme con Blade.
+ຂ້ອຍມີການຈັດສົ່ງຈາກຟຣັ
+ສຕ໌ແລະຫາກໍ່ຂ້າມກັບບເລດ.
+
+304
+00:40:15,916 --> 00:40:18,418
+Hay que desalojar la clínica Hillburn.
+ຂ້ອຍຕ້ອງຍົກຍ້າຍໂຮງໝໍຮິລເບຣນອອກ.
+
+305
+00:40:39,690 --> 00:40:43,569
+Hemos tenido suerte.
+Es una marca de vampiros.
+ພວກເຮົາໂຊກດີ.ມັນແມ່ນ
+ເຄື່ອງໝາຍຂອງແວມປີຣສ.
+
+306
+00:40:43,735 --> 00:40:46,405
+Significa que hay un piso franco
+en las proximidades.
+ມັນໝາຍຄວາມວ່າມີເຮືອນເປີດຢູ່ໃກ້ໆກັນ.
+
+307
+00:40:46,572 --> 00:40:49,616
+Un lugar donde pueden ir
+cuando se acerca el amanecer.
+ບ່ອນທີ່ພວກເຂົາສາມາດໄປໄດ້
+ເມື່ອຕອນເຊົ້າໃກ້ຈະຂຶ້ນ.
+
+308
+00:40:49,867 --> 00:40:53,370
+¿Ves a esos aparcacoches?
+Son vampiros.
+ເຈົ້າເຫັນຄົນຈອດລົດ
+ນັ້ນບໍ?ລູກຊາຍແວມປີຣັສ.
+
+309
+00:40:53,537 --> 00:40:56,039
+El portero, también.
+ຜູ້ຮັກສາປະຕູ, ເຊັ່ນກັນ.
+
+310
+00:40:56,290 --> 00:40:58,458
+Y la puta de la esquina.
+ເຈົ້າເປັນໂຊກຮ້າຍຈາກແຄມ.
+
+311
+00:40:59,835 --> 00:41:03,255
+- ¿Cómo lo sabes?
+- Por cómo se mueven.
+- ເຈົ້າຮູ້ແນວໃດ?
+- ສໍາລັບການເຄື່ອນຍ້າຍ.
+
+312
+00:41:03,422 --> 00:41:05,507
+Por cómo huelen.
+ສໍາລັບການກິນ.
+
+313
+00:41:08,719 --> 00:41:10,345
+Es como una pesadilla.
+ມັນຄ້າຍຄືກັບຄວາມຝັນຮ້າຍ.
+
+314
+00:41:10,512 --> 00:41:12,931
+Hay cosas peores que los vampiros
+en la noche.
+ມີສິ່ງຮ້າຍແຮງກວ່າແວມປີໃນຕອນກາງຄືນ.
+
+315
+00:41:13,182 --> 00:41:16,518
+- ¿Como qué?
+- Como yo.
+- ເປັນຫຍັງ?
+- ຄືກັບເຈົ້າ.
+
+316
+00:41:17,644 --> 00:41:19,563
+Vale, anatomía básica de vampiros.
+ດີ, Anatomy ພື້ນຖານຂອງ vampires.
+
+317
+00:41:19,813 --> 00:41:23,442
+Las cruces y el agua no hacen nada,
+olvida lo que has visto en el cine.
+ຂ້າມແລະນ້ໍາບໍ່ເຮັດຫຍັງເລີຍ,
+ລືມສິ່ງທີ່ເຈົ້າເຫັນໃນຮູບເງົາ.
+
+318
+00:41:23,609 --> 00:41:27,738
+Usa estacas, plata o luz solar.
+¿Sabes usar una de estas?
+ໃຊ້ກະດານ,ເງິນຫຼືແສງຕາເວັນ
+.ເຈົ້າຮູ້ການໃຊ້ສິ່ງນີ້ບໍ?
+
+319
+00:41:27,988 --> 00:41:31,825
+- No, pero seguro que aprendo rápido.
+- No hay seguro, está cargada.
+- ບໍ່, ແຕ່ແນ່ໃຈວ່າຂ້ອຍຈະຮຽນຮູ້ໄວ.
+- ບໍ່ແນ່ໃຈ, ມັນຖືກໂຫຼດແລ້ວ.
+
+320
+00:41:31,992 --> 00:41:35,329
+Balas de plata expansivas rellenas de ajo.
+Apunta a la cabeza o al corazón.
+ລູກປືນເງິນຂະຫຍາຍຕົວເຕັມໄປດ້ວຍ
+ajo .ແນໃສ່ຫົວຫຼືຫົວໃຈ.
+
+321
+00:41:35,495 --> 00:41:38,373
+Si apuntas a otra parte, morirás.
+ຖ້າແນໃສ່ອີກສ່ວນໜຶ່ງ, ເຈົ້າຈະຕາຍ.
+
+322
+00:41:39,291 --> 00:41:43,795
+¿Tienen una invitación?
+ເຈົ້າມີຄໍາເຊີນບໍ?
+
+323
+00:42:30,592 --> 00:42:31,635
+Kenji.
+ເຄນຈິ
+
+324
+00:42:46,900 --> 00:42:48,193
+¿Dónde está la entrada?
+ທາງເຂົ້າຢູ່ໃສ?
+
+325
+00:42:48,360 --> 00:42:51,071
+No puedo decírtelo, si...
+ຂ້ອຍບໍ່ສາມາດບອກເຈົ້າໄດ້, ຖ້າ...
+
+326
+00:42:54,157 --> 00:42:57,160
+Te lo preguntaré una vez más.
+¿Dónde está la entrada?
+ຂ້ອຍຈະຖາມເຈົ້າອີກ
+ເທື່ອໜຶ່ງ.ທາງເຂົ້າຢູ່ໃສ?
+
+327
+00:42:57,327 --> 00:43:02,416
+Vale. Está en el congelador.
+ດີແລ້ວ. ມັນຢູ່ໃນຕູ້ເຢັນ.
+
+328
+00:43:11,508 --> 00:43:15,220
+¡Venga, tío, te lo he dicho!
+¡Está en el congelador!
+ມາແລ້ວ,ພໍ່ເຖົ້າ,ລາວບອກ
+ເຈົ້າແລ້ວ!ມັນຢູ່ໃນຕູ້ເຢັນ!
+
+329
+00:43:24,313 --> 00:43:26,857
+- Vale.
+- Dale a Frost un mensaje de mi parte.
+- ວາເລ.
+- ໃຫ້ຟຣັສຕ໌ຂໍ້ຄວາມຈາກຂ້ອຍ.
+
+330
+00:43:27,024 --> 00:43:30,694
+Dile que se ha abierto la veda
+para todos los chupacuellos.
+ບອກວ່າໄດ້ເປີດປະຕູສໍາລັບ
+ຄົນ chupacuellos ທັງໝົດ.
+
+331
+00:44:12,611 --> 00:44:15,239
+Es una especie de archivo.
+ມັນເປັນເອກະສານບາງຢ່າງ.
+
+332
+00:44:19,034 --> 00:44:21,495
+Aquí deben de guardar
+casi todos sus historiales.
+ບ່ອນນີ້ຕ້ອງເກັບຮັກສາປະຫວັດ
+ສາດເກືອບທັງໝົດຂອງພວກເຂົາໄວ້.
+
+333
+00:44:21,662 --> 00:44:23,413
+¿Y esta tecnología punta?
+ແລະເທັກໂນໂລຢີສຸດຍອດນີ້ບໍ?
+
+334
+00:44:23,580 --> 00:44:27,793
+Lo tienen todo controlado. Política,
+economía, mercado inmobiliario.
+ພວກເຂົາຄວບຄຸມທຸກຢ່າງ.ການເມືອງ
+,ເສດຖະກິດ,ຕະຫຼາດຊັບສິນ.
+
+335
+00:44:27,960 --> 00:44:31,046
+Ya son dueños de la mitad del centro.
+ເຈົ້າເປັນເຈົ້າຂອງລູກຊາຍຈາກກາງສູນກາງ.
+
+336
+00:44:51,108 --> 00:44:54,403
+- Hola, ¿qué tal?
+- Me sorprende que estuvieran allí.
+- ສະບາຍດີ, ເປັນແນວໃດ?
+- ຂ້ອຍແປກໃຈວ່າພວກເຂົາຢູ່ບ່ອນນັ້ນ.
+
+337
+00:44:54,653 --> 00:44:56,446
+Las fiestas de Frost son increíbles.
+ງານບຸນຂອງຟຣັສຕ໌ແມ່ນຍິ່ງໃຫຍ່.
+
+338
+00:44:56,697 --> 00:44:59,658
+Ya, pero ¿dónde está?
+ແມ່ນແລ້ວ, ແຕ່ເຈົ້າຢູ່ໃສ?
+
+339
+00:45:07,833 --> 00:45:11,044
+TRADUCIENDO
+ຜູ້ແປພາສາ
+
+340
+00:45:13,797 --> 00:45:14,840
+Venga, cariño.
+ມາແລ້ວ, ຄົນຮັກ.
+
+341
+00:45:17,467 --> 00:45:19,511
+TRADUCCIÓN
+COMPLETA
+ຄໍາແປທີ່ສົມບູນແບບ
+
+342
+00:45:24,892 --> 00:45:27,644
+No hagas esperar a todo el mundo.
+ບໍ່ຕ້ອງລໍຖ້າທຸກຄົນ.
+
+343
+00:45:47,080 --> 00:45:50,209
+Deacon, hay alguien que quiere verle.
+Deacon, ມີຄົນໜຶ່ງທີ່ຢາກເຫັນທ່ານ.
+
+344
+00:45:53,170 --> 00:45:55,756
+Tengo que hablar contigo, Frost.
+ຂ້ອຍຢາກເວົ້າກັບເຈົ້າ, ຟຣັສຕ໌.
+
+345
+00:45:56,340 --> 00:45:58,425
+Lo siento. Tenía que venir.
+ຂໍໂທດ. ຂ້ອຍຕ້ອງມາ.
+
+346
+00:45:58,675 --> 00:46:02,721
+Es un error ir con Pearl.
+Lo sé. Y yo no soy nadie.
+ມັນເປັນຄວາມຜິດພາດກັບເປຣລ.ຂ້ອຍ
+ຮູ້ແລ້ວ.ແລະຂ້ອຍບໍ່ແມ່ນໃຜເລີຍ.
+
+347
+00:46:02,888 --> 00:46:05,432
+- Sé que estás decepcionado.
+- ¿Tan transparente soy?
+- ຂ້ອຍຮູ້ວ່າເຈົ້າຜິດຫວັງ.
+- ຂ້ອຍໂປ່ງໃສຫຼາຍບໍ?
+
+348
+00:46:05,682 --> 00:46:07,100
+- ¿Queréis conocerle?
+- Sí.
+- ເຈົ້າຢາກຮູ້ຈັກລາວບໍ?
+- ແມ່ນແລ້ວ.
+
+349
+00:46:07,267 --> 00:46:10,395
+Os lo puedo presentar, somos íntimos.
+Somos como hermanos.
+ຂ້ອຍສາມາດແນະນໍາເຈົ້າໄດ້,ພວກເຮົາ
+ເປັນເພື່ອນມິດ.ພວກເຮົາຄືກັບອ້າຍນ້ອງ.
+
+350
+00:46:10,896 --> 00:46:13,023
+Joder. Frost...
+ໂຈເດີ. Frost...
+
+351
+00:46:13,190 --> 00:46:14,358
+- Hola.
+- Sí.
+- ສະບາຍດີ.
+- ແມ່ນແລ້ວ.
+
+352
+00:46:15,526 --> 00:46:19,029
+Deacon, les he contado
+a estas zorras todo sobre ti, tío.
+Deacon ,ລາວບອກພວກໂຊກຮ້າຍເຫຼົ່າ
+ນີ້ທຸກຢ່າງກ່ຽວກັບເຈົ້າ, uncle .
+
+353
+00:46:19,196 --> 00:46:20,614
+Se morían por conocerte.
+ພວກເຂົາຈະຕາຍເພື່ອຮູ້ຈັກເຈົ້າ.
+
+354
+00:46:20,864 --> 00:46:23,659
+Estas zorras están flipadas.
+Las conocí...
+ພວກໂຊກຮ້າຍເຫຼົ່ານີ້ກໍາ
+ລັງສໍ້ໂກງ.ຂ້ອຍຮູ້ຈັກ...
+
+355
+00:46:23,825 --> 00:46:25,702
+- Qué bien.
+- ¿Deacon?
+- ດີຫຼາຍ.
+- ເຈົ້າໜ້າທີ່ບໍ?
+
+356
+00:46:25,953 --> 00:46:28,372
+Frost, es Blade.
+ຟຣັສຕ໌, ມັນແມ່ນບເລດ.
+
+357
+00:46:28,622 --> 00:46:30,874
+Está ocupado.
+Cuando se concentra en algo...
+ລາວມີວຽກເຮັດງານທໍາຫຼາຍ.ເມື່ອ
+ລາວສຸມໃສ່ບາງສິ່ງບາງຢ່າງ...
+
+358
+00:46:31,041 --> 00:46:34,545
+- ...no tiene tiempo para tonterías.
+- Frost, esto es importante.
+- ... ບໍ່ມີເວລາ ສໍາ ລັບຄວາມໂງ່.
+- ຟຣັສຕ໌, ນີ້ແມ່ນມີຄວາມສໍາຄັນ.
+
+359
+00:46:34,795 --> 00:46:38,841
+Blade me estaba esperando.
+Están usando a la chica de cebo.
+ຂ້ອຍກໍາລັງລໍຖ້າຂ້ອຍ.ພວກເຂົາ
+ກໍາລັງໃຊ້ເດັກຍິງຂອງເຊໂບ.
+
+360
+00:46:39,007 --> 00:46:41,760
+- Y tú picaste, como un idiota.
+- Cállate, puta.
+- ເຈົ້າສໍ້ໂກງ, ຄືກັບຄົນໂງ່.
+- ປິດງຽບ, ໂຊກຮ້າຍ.
+
+361
+00:46:41,927 --> 00:46:45,264
+No sabía que él estaría allí.
+Era una trampa, ¿sabes?
+ຂ້ອຍບໍ່ຮູ້ວ່າລາວຢູ່ບ່ອນນັ້ນ
+.ມັນເປັນກະຕ່າ,ເຈົ້າຮູ້ບໍ?
+
+362
+00:46:45,430 --> 00:46:48,600
+Pero tranquilo, no hay problema.
+Podemos coger a la chica.
+ແຕ່ສະຫງົບໃຈ,ບໍ່ມີບັນຫາເລີຍ
+.ພວກເຮົາສາມາດຈັບເດັກຍິງໄດ້.
+
+363
+00:46:49,852 --> 00:46:51,353
+Sí.
+ແມ່ນແລ້ວ.
+
+364
+00:46:58,402 --> 00:46:59,361
+Sí.
+ແມ່ນແລ້ວ.
+
+365
+00:47:02,281 --> 00:47:04,616
+Ah, vamos.
+ອາ, ໄປ.
+
+366
+00:47:05,492 --> 00:47:07,828
+- Sí.
+- Qué bien.
+- ແມ່ນແລ້ວ.
+- ດີຫຼາຍ.
+
+367
+00:47:20,090 --> 00:47:22,718
+Olvida a la chica. Quiero a Blade.
+ລືມເດັກຍິງ. ຂ້ອຍຢາກມີກະດານ.
+
+368
+00:47:22,968 --> 00:47:24,511
+Ya lo sé.
+ເຈົ້າຮູ້ແລ້ວ.
+
+369
+00:47:24,678 --> 00:47:27,890
+¿Me oyes, Quinn? Le quiero vivo.
+ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ,ຄວິນ
+?ຂ້ອຍຢາກໃຫ້ລາວຢູ່ອາໄສ.
+
+370
+00:47:28,056 --> 00:47:29,016
+¿Qué?
+ຫຍັງ?
+
+371
+00:47:31,852 --> 00:47:35,022
+Un momento, tío. ¿Le quieres vivo?
+ດົນໜຶ່ງ,ພໍ່ເຖົ້າ.ເຈົ້າ
+ຢາກໃຫ້ລາວຢູ່ອາໄສບໍ?
+
+372
+00:47:38,108 --> 00:47:40,485
+¿A qué huele?
+ເຈົ້າເຫັນຫຍັງ?
+
+373
+00:47:42,613 --> 00:47:45,741
+Estudia la imagen
+con atención, Frost.
+ສຶກສາຮູບພາບດ້ວຍຄວາມເອົາໃຈໃສ່, ຟຣັສຕ໌.
+
+374
+00:47:45,908 --> 00:47:50,787
+Necesitarás 12 purasangres
+para que el ritual funcione.
+ເຈົ້າຈະຕ້ອງການເລືອດບໍລິສຸດ 12
+ຢ່າງເພື່ອໃຫ້ພິທີການເຮັດວຽກໄດ້.
+
+375
+00:47:50,954 --> 00:47:52,247
+Krieger, ¿eres tú?
+ຄຣີເກີ, ເຈົ້າເປັນບໍ?
+
+376
+00:47:53,081 --> 00:47:54,708
+Está aquí. Está aquí.
+ລາວຢູ່ບ່ອນນີ້. ລາວຢູ່ທີ່ນີ້.
+
+377
+00:47:54,958 --> 00:47:57,544
+Este debe de ser Pearl,
+el encargado del registro.
+ນີ້ແມ່ນຕ້ອງເປັນເປຣລ
+,ຜູ້ຮັບຜິດຊອບທະບຽນ.
+
+378
+00:47:58,420 --> 00:47:59,379
+Está aquí.
+ລາວຢູ່ບ່ອນນີ້.
+
+379
+00:48:00,297 --> 00:48:03,759
+Me va a matar.
+Me necesitas, Frost. Me necesitas.
+ຂ້ອຍຕ້ອງການຂ້ອຍ, ຟຣັສຕ໌. ຂ້ອຍຕ້ອງການ.
+
+380
+00:48:03,926 --> 00:48:05,719
+Pearl, eres historia.
+ເພີລ, ເຈົ້າເປັນປະຫວັດສາດ.
+
+381
+00:48:05,886 --> 00:48:08,305
+Ten la decencia
+de morir con algo de dignidad.
+ຈົ່ງມີກຽດຕິຍົດທີ່ຈະຕາຍ
+ດ້ວຍຄວາມກຽດຊັງບາງຢ່າງ.
+
+382
+00:48:08,555 --> 00:48:11,600
+Frost, maldito chupasangre.
+ຟຣັສຕ໌, chupasangre ທີ່ໂຊກຮ້າຍ.
+
+383
+00:48:11,767 --> 00:48:14,770
+- Enhorabuena, Blade.
+- Frost.
+- ເອນໂຮຣາບູເນນາ, ບເລດ.
+- ກ້ອນ.
+
+384
+00:48:15,020 --> 00:48:17,481
+Me han dicho que me andas
+buscando. Es un halago.
+ຂ້ອຍຖືກບອກວ່າຂ້ອຍກໍາລ
+ັງຊອກຫາ.ມັນເປັນຮາລາໂກ.
+
+385
+00:48:17,731 --> 00:48:18,941
+Ya se te pasará.
+ເຈົ້າຈະຜ່ານໄປ.
+
+386
+00:48:21,527 --> 00:48:22,486
+Joder.
+ໂຈເດີ.
+
+387
+00:48:25,113 --> 00:48:28,659
+- ¿Qué es eso?
+- Eso es una lámpara ultravioleta.
+- ນັ້ນແມ່ນຫຍັງ?
+- ນັ້ນແມ່ນແສງສະຫວ່າງ ultraviolet.
+
+388
+00:48:29,284 --> 00:48:31,453
+Vamos a jugar
+al juego de las 20 preguntas.
+ພວກເຮົາຈະໄປຫຼິ້ນເກ
+ມຂອງຄໍາຖາມ 20 ຄໍາຖາມ.
+
+389
+00:48:31,703 --> 00:48:35,374
+Dependiendo de cómo respondas,
+saldrás de aquí con un buen bronceado.
+ຂຶ້ນກັບວິທີທີ່ທ່ານຕອບ,ທ່ານຈະອອ
+ກຈາກບ່ອນນີ້ດ້ວຍການສີດທອງທີ່ດີ.
+
+390
+00:48:35,541 --> 00:48:37,501
+¿Qué es eso?
+ນັ້ນແມ່ນຫຍັງ?
+
+391
+00:48:37,751 --> 00:48:41,171
+¿Eso? Ah, no es nada.
+Es una investigación rutinaria.
+ໂອ້,ມັນບໍ່ມີຫຍັງເລີຍ.
+ມັນເປັນການສືບສວນປົກກະຕິ.
+
+392
+00:48:41,338 --> 00:48:43,632
+En realidad, es un videojuego.
+ໃນຄວາມເປັນຈິງ, ມັນເປັນເກມວິດີໂອ.
+
+393
+00:48:54,726 --> 00:48:56,019
+Eso te habrá dolido.
+ນັ້ນຈະເຮັດໃຫ້ເຈົ້າເຈັບປວດ.
+
+394
+00:48:56,270 --> 00:48:59,481
+- Es un fragmento de la profecía.
+- ¿Qué profecía?
+- ມັນເປັນສ່ວນໜຶ່ງຂອງຄໍາທໍານາຍ.
+- ຄໍາທໍານາຍໃດ?
+
+395
+00:48:59,731 --> 00:49:03,443
+Ah, no estoy seguro.
+Hay muchas. ¿Cómo iba a...?
+ບໍ່ແນ່ໃຈ. ມີຫຼາຍຢ່າງ. ຂ້ອຍໄປແນວໃດ...?
+
+396
+00:49:06,655 --> 00:49:08,866
+¡La Magra se acerca!
+La Magra ໃກ້ຊິດ!
+
+397
+00:49:09,449 --> 00:49:11,952
+¡Los Espíritus de los Doce...
+ຈິດວິນຍານຂອງສິບສອງຄົນ...
+
+398
+00:49:12,369 --> 00:49:16,164
+...despertarán al Dios de la Sangre!
+...ພວກເຂົາຈະຕື່ນຕົວ
+ໃຫ້ພຣະເຈົ້າຂອງເລືອດ!
+
+399
+00:49:18,208 --> 00:49:21,253
+¡Y no hay nada que puedas
+hacer para evitarlo!
+ແລະບໍ່ມີຫຍັງທີ່ທ່ານ
+ສາມາດເຮັດໄດ້ເພື່ອປ້ອງກັນມັນ!
+
+400
+00:49:21,503 --> 00:49:23,005
+¿No me digas?
+ເຈົ້າບໍ່ບອກຂ້ອຍບໍ?
+
+401
+00:49:24,089 --> 00:49:26,258
+Bueno, eso es lo que dice Frost.
+ດີ, ນັ້ນແມ່ນສິ່ງທີ່ຟຣັສຕ໌ເວົ້າ.
+
+402
+00:49:26,508 --> 00:49:29,428
+Entonces no te importará
+prestarme esto un rato, ¿no?
+ສະນັ້ນເຈົ້າບໍ່ສົນໃຈໃຫ້
+ຂ້ອຍຢືມແມວນີ້,ແມ່ນບໍ?
+
+403
+00:49:29,678 --> 00:49:32,389
+Si se mueve, fríelo.
+ຖ້າຍ້າຍໄປ, ຟຣີໂລ.
+
+404
+00:49:35,726 --> 00:49:36,685
+¿Qué hay aquí?
+ມີຫຍັງຢູ່ບ່ອນນີ້?
+
+405
+00:49:36,935 --> 00:49:39,521
+Nada. Es un almacén.
+Pero pierdes el tiempo.
+ບໍ່ມີຫຍັງເລີຍ.ມັນເປັນ
+ຮ້ານຄ້າ.ແຕ່ເສຍເວລາ.
+
+406
+00:49:39,771 --> 00:49:41,607
+No hay nada de importancia.
+ບໍ່ມີຫຍັງສໍາຄັນເລີຍ.
+
+407
+00:49:41,857 --> 00:49:44,568
+- Entonces no te importará que mire.
+- ¡No!
+- ສະນັ້ນເຈົ້າຈະບໍ່ສົນໃຈວ່າຂ້ອຍເບິ່ງແນວໃດ.
+- ບໍ່!
+
+408
+00:50:07,466 --> 00:50:08,759
+Se movió.
+ເບິ່ງຮູບເງົາ.
+
+409
+00:50:40,415 --> 00:50:42,459
+¿Qué es esto?
+ນີ້ແມ່ນຫຍັງ?
+
+410
+00:50:43,544 --> 00:50:46,713
+Son las páginas
+del Libro de Erebus.
+ຂ້ອຍເປັນ ໜ້າ ຂອງປື້ມຂອງເອເຣບັສ.
+
+411
+00:50:47,089 --> 00:50:49,466
+La Biblia de los vampiros.
+ຄໍາພີໄບເບີຂອງແວມປີຣັສ.
+
+412
+00:50:50,843 --> 00:50:53,387
+Lo contiene todo...
+ມັນບັນຈຸທຸກຢ່າງ...
+
+413
+00:50:53,929 --> 00:50:55,514
+...toda su historia.
+... ປະຫວັດສາດຂອງທ່ານທັງ ໝົດ.
+
+414
+00:50:56,765 --> 00:51:00,143
+La Magra debe de ser
+una de sus leyendas.
+La Magra ຕ້ອງເປັນໜຶ່ງ
+ໃນນິທານຂອງພວກເຂົາ.
+
+415
+00:51:04,189 --> 00:51:06,608
+¿Y por qué le interesa tanto
+La Magra a Frost?
+ແລະເປັນຫຍັງລາວສົນໃຈ La
+Magra a Frost ຫຼາຍປານໃດ?
+
+416
+00:51:44,980 --> 00:51:46,481
+Dame la mano.
+ແມ່ຍິງມື.
+
+417
+00:51:50,027 --> 00:51:51,111
+¿Te acuerdas de mí?
+ເຈົ້າຈື່ຂ້ອຍບໍ?
+
+418
+00:52:09,713 --> 00:52:10,839
+¡Dale fuerte!
+ເດລ ຟູເຣດ!
+
+419
+00:52:27,564 --> 00:52:30,692
+Eh. ¡Eh! Bien hecho.
+ເອ້. ເອ້! ເຮັດໄດ້ດີ.
+
+420
+00:52:31,401 --> 00:52:34,655
+Vaya, vaya, vaya.
+Me dejaste sin brazo.
+ເຈົ້າປ່ອຍຂ້ອຍບໍ່ມີແຂນ.
+
+421
+00:52:35,322 --> 00:52:38,492
+¿Te acuerdas? Pero no pasa nada.
+ເຈົ້າຈື່ບໍ? ແຕ່ບໍ່ມີຫຍັງເກີດຂຶ້ນ.
+
+422
+00:52:39,493 --> 00:52:40,911
+He conseguido uno nuevo.
+ລາວສາມາດເຮັດໄດ້ອີກໜຶ່ງ.
+
+423
+00:52:42,287 --> 00:52:44,206
+¿Crees que volveré a tocar el piano?
+ເຈົ້າຄິດວ່າຂ້ອຍຈະຫຼິ້ນປິໂອອີກບໍ?
+
+424
+00:52:46,250 --> 00:52:50,128
+Puedes cortarle, trocearle,
+pero a Quinn nadie puede pararle.
+ເຈົ້າສາມາດຕັດມັນໄດ້,ຕັດມັນອ
+ອກ,ແຕ່ບໍ່ມີໃຜສາມາດຈັບມັນໄດ້.
+
+425
+00:52:50,379 --> 00:52:53,674
+Mirad.
+Tengo su cuchillo para jabalíes.
+ມິຣາດ.ຂ້ອຍມີດອກໄມ້
+ຂອງທ່ານສໍາລັບ jabalíes .
+
+426
+00:52:58,178 --> 00:52:59,513
+Eres un capullo, Crease.
+ເຈົ້າເປັນຄົນໂຊກຮ້າຍ, ຄຣີສ.
+
+427
+00:53:00,931 --> 00:53:04,643
+Eres un capullo.
+"Tengo su cuchillo para jabalíes".
+ເຈົ້າເປັນຄົນໂກບູໂລ.ຂ້ອຍຈະເອົ
+າດອກໄມ້ຂອງທ່ານສໍາລັບ jabalíes .
+
+428
+00:53:05,519 --> 00:53:08,188
+Eres una caja de sorpresas,
+¿verdad, jefe?
+ເຈົ້າເປັນກ່ອງຄວາມ
+ແປກໃຈ,ແມ່ນບໍ,ຫົວໜ້າ?
+
+429
+00:53:16,864 --> 00:53:19,366
+No te acerques a mí, monada...
+ຢ່າມາໃກ້ຂ້ອຍ, ໂມນາດາ...
+
+430
+00:53:19,867 --> 00:53:22,619
+...porque todavía
+no he terminado contigo.
+...ເພາະວ່າຍັງບໍ່ມີລາວ
+ສິ້ນສຸດການກັບເຈົ້າ.
+
+431
+00:53:24,788 --> 00:53:26,123
+¿Qué tenemos aquí?
+ພວກເຮົາມີຫຍັງຢູ່ບ່ອນນີ້?
+
+432
+00:53:28,292 --> 00:53:31,795
+Plata. Pura artesanía, ¿eh?
+ເງິນ. ການຫັດຖະກໍາທີ່ບໍລິສຸດ, ແມ່ນບໍ?
+
+433
+00:53:32,045 --> 00:53:33,839
+Te habrá costado una fortuna.
+ມັນຕ້ອງມີຄ່າໃຊ້ຈ່າຍຫຼາຍ.
+
+434
+00:53:34,089 --> 00:53:38,260
+Aquí tenéis a un hombre
+que se toma su trabajo...
+ເຈົ້າມີຜູ້ຊາຍຄົນໜຶ່ງ
+ທີ່ເອົາວຽກຂອງທ່ານ...
+
+435
+00:53:40,012 --> 00:53:42,514
+...un poco demasiado en serio,
+¿no os parece?
+ມັນເບິ່ງຄືວ່າເປັນ
+ຄວາມຈິງຫຼາຍເກີນໄປ,ບໍ່?
+
+436
+00:53:47,269 --> 00:53:51,106
+Ahora que lo pienso, Blade,
+te debo una.
+ຕອນນີ້ຂ້ອຍຄິດແລ້ວ,ບເລດ
+,ຂ້ອຍເປັນໜີ້ເຈົ້າໜຶ່ງ.
+
+437
+00:53:55,903 --> 00:53:58,947
+Aunque, técnicamente, Blade...
+ເຖິງຢ່າງໃດກໍ່ຕາມ,ທາງ
+ດ້ານເຕັກນິກ,ບເລດ...
+
+438
+00:53:59,990 --> 00:54:01,241
+...te debo dos.
+... ເຈົ້າຕ້ອງເຮັດສອງຢ່າງ.
+
+439
+00:54:05,078 --> 00:54:06,496
+¿De qué te ríes, ojitos?
+ເຈົ້າມ່ວນຊື່ນຫຍັງ, ພໍ່ແມ່?
+
+440
+00:54:09,750 --> 00:54:11,543
+Estoy esperando compañía.
+ຂ້ອຍກໍາລັງລໍຖ້າບໍລິສັດ.
+
+441
+00:54:27,184 --> 00:54:29,269
+¿Os pillo en mal momento, cabrones?
+ເຈົ້າໃສ່ກະຕ່າໃນເວລາທີ່
+ບໍ່ດີບໍ,ຄົນໂຊກຮ້າຍ?
+
+442
+00:54:29,520 --> 00:54:30,687
+¡No, nada de armas!
+ບໍ່, ບໍ່ມີອາວຸດ!
+
+443
+00:54:32,898 --> 00:54:35,526
+¡No, no, no! ¡Idiotas!
+ບໍ່, ບໍ່, ບໍ່ມີ! ຄົນໂງ່!
+
+444
+00:54:41,156 --> 00:54:43,408
+No, a la mierda él. ¡Coged a Blade!
+ບໍ່, ລາວໂຊກຮ້າຍ. ຈັບກະດານ!
+
+445
+00:54:43,659 --> 00:54:45,077
+¡Gilipollas!
+ຈິລິໂປລາສ!
+
+446
+00:54:45,744 --> 00:54:47,704
+- ¡Moveos!
+- Rápido.
+- ເຄື່ອນຍ້າຍ!
+- ໄວໆ.
+
+447
+00:54:51,500 --> 00:54:56,755
+¡Idiotas, quietos! ¡Le necesito!
+¡Deac quiere a Blade vivo! ¡Vamos!
+ພວກໂງ່,ງຽບສະຫງົບ!ຂ້ອຍຕ້ອງການພວກມັນ
+! Deac ຕ້ອງການກະດານທີ່ມີຊີວິດຢູ່!ໄປ!
+
+448
+00:55:01,343 --> 00:55:03,929
+- ¿Estuviste escuchando todo el rato?
+- Por radio.
+- ເຈົ້າ ກໍາ ລັງຟັງແມວທັງ ໝົດ ບໍ?
+- ຜ່ານວິທະຍຸ.
+
+449
+00:55:04,096 --> 00:55:07,266
+¿Crees que le iba a dejar suelto
+sin carabina?
+ເຈົ້າຄິດວ່າຂ້ອຍຈະປ່ອຍລາວ
+ອອກໄປໂດຍບໍ່ມີ carabina ບໍ?
+
+450
+00:55:08,141 --> 00:55:09,351
+¡ATENCIÓN!
+TRENES SIN CONDUCTOR
+ລະມັດລະວັງ! ລົດໄຟບໍ່ມີຜູ້ຂັບຂີ່
+
+451
+00:55:15,816 --> 00:55:18,318
+Joder, soy demasiado viejo para esto.
+ໂຈເດີ, ຂ້ອຍອາຍຸເກີນໄປ ສໍາ ລັບສິ່ງນີ້.
+
+452
+00:55:18,569 --> 00:55:20,571
+Que alguien me traiga
+una silla de ruedas.
+ຂໍໃຫ້ໃຜເອົາຕັ່ງລໍ້ມາໃຫ້ຂ້ອຍ.
+
+453
+00:55:29,079 --> 00:55:31,331
+Whistler.
+ວີສລເຕີ.
+
+454
+00:55:31,498 --> 00:55:34,334
+Sabe cuidarse solo. Salta.
+ຮູ້ການເບິ່ງແຍງຕົນເອງຄົນດຽວ. ໂຊລຕາ.
+
+455
+00:56:55,290 --> 00:56:56,542
+¿Qué vas a hacer?
+ເຈົ້າຈະເຮັດຫຍັງ?
+
+456
+00:56:58,168 --> 00:56:59,962
+Madre de Dios.
+ແມ່ຂອງພຣະເຈົ້າ.
+
+457
+00:57:14,476 --> 00:57:15,519
+¿Qué te pasa?
+ເກີດຫຍັງຂຶ້ນກັບເຈົ້າ?
+
+458
+00:57:18,063 --> 00:57:20,065
+Lo tengo dislocado.
+ຂ້ອຍມີຄວາມຍືດຫຍຸ່ນ.
+
+459
+00:57:20,232 --> 00:57:21,775
+Déjame ayudarte.
+ຂໍໃຫ້ຂ້ອຍຊ່ວຍເຈົ້າ.
+
+460
+00:57:21,859 --> 00:57:23,318
+Yo te ayudaré.
+ຂ້ອຍຈະຊ່ວຍເຈົ້າ.
+
 461
-00:30:09,800 --> 00:30:15,400
-[FROST]
-What do we have here? Your precious serum? I don't think you'll be needing this anymore.
-ພວກເຮົາມີຫຍັງຢູ່ບ່ອນນີ້? ເຊຣູມທີ່ມີຄຸນຄ່າຂອງທ່ານບໍ
-? ຂ້ອຍບໍ່ຄິດວ່າເຈົ້າຈະຕ້ອງການສິ່ງນີ້ອີກຕໍ່ໄປ.
+00:57:34,997 --> 00:57:38,125
+- Déjame echarte una mano...
+- No. Aléjate.
+- ຂໍໃຫ້ຂ້ອຍເອົາມື...
+- ບໍ່. ເອເລຈາຕ໌.
 
 462
-00:30:15,900 --> 00:30:17,900
-[BLADE]
-Please --
-ກະລຸນາ...
+00:57:54,183 --> 00:57:55,726
+Eres uno de ellos, ¿verdad?
+ເຈົ້າເປັນໜຶ່ງໃນພວກມັນ, ແມ່ນບໍ?
 
 463
-00:30:18,400 --> 00:30:22,600
-[VANESSA]
-Listen to your father, Jason. It's going to be a better world.
-ຟັງພໍ່ເຈົ້າ, ເຈຊອນ. ມັນຈະເປັນໂລກທີ່ດີກວ່າເກົ່າ.
+00:57:58,395 --> 00:58:02,649
+No. Soy diferente.
+ບໍ່. ຂ້ອຍແຕກຕ່າງ.
 
 464
-00:30:23,100 --> 00:30:29,100
-[FROST]
-Don't look so surprised, Blade. You've spent your life looking for the vampire who fathered you. Well you can rest easy now, you've found him.  Daddy's here.
-ຢ່າເບິ່ງແປກໃຈຫຼາຍ, ບເລດ. ເຈົ້າໄດ້ໃຊ້ເວລາຊີວິດຂອງທ່ານຊອກຫາແວມບີຣ໌ທີ່ເກີດເຈົ້າ
-. ດີເຈົ້າສາມາດພັກຜ່ອນຢ່າງສະຫງົບສຸກດຽວນີ້, ເຈົ້າໄດ້ພົບລາວ. ພໍ່ຢູ່ບ່ອນນີ້.
+00:58:09,406 --> 00:58:11,074
+Le encontré a los trece años.
+ຂ້ອຍພົບລາວເມື່ອອາຍຸ 13 ປີ.
 
 465
-00:30:29,600 --> 00:30:35,600
-[FROST]
-It's true, Blade. You've got my blood running through your veins.  Thirty years ago. A moonlit street, a woman on her way home alone. You were conceived the night I tore my fangs into your mother's flesh.
-ມັນເປັນຄວາມຈິງ, ບເລດ. ເຈົ້າມີເລືອດຂອງຂ້ອຍໄຫຼຜ່ານເສັ້ນເລືອງຂອງທ່ານ. ສາມສິບປີກ່ອນ. ຖະຫນົນແສງເດືອນ
-, ແມ່ຍິງໃນທາງກັບບ້ານຄົນດຽວ. ເຈົ້າຖືກຖືພາໃນຄືນທີ່ຂ້ອຍຕັດແຂ້ວຂອງຂ້ອຍເຂົ້າໄປໃນຊີ້ນຂອງແມ່ຂອງທ່ານ.
+00:58:11,241 --> 00:58:15,579
+Había estado viviendo en la calle,
+alimentándose de mendigos.
+ຂ້ອຍອາໄສຢູ່ໃນຖະໜົນຫົນ
+ທາງ,ກິນອາຫານຈາກຄົນຂໍທານ.
 
 466
-00:30:36,100 --> 00:30:38,100
-[KAREN]
-Are you all right?
-ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+00:58:16,038 --> 00:58:19,208
+Con la pubertad, había empezado
+a tener necesidad de sangre.
+ຂ້ອຍໄດ້ເລີ່ມມີຄວາມຕ້ອງການເລືອດ.
 
 467
-00:30:38,600 --> 00:30:40,600
-[BLADE]
-I've been better --
-ຂ້ອຍດີກວ່າເກົ່າ...
+00:58:19,791 --> 00:58:22,961
+Al principio, pensé que era un vampiro.
+ໃນເບື້ອງຕົ້ນ,ຂ້ອຍ
+ຄິດວ່າມັນເປັນແວມປີຣ໌.
 
 468
-00:30:41,100 --> 00:30:43,200
-[BLADE]
-How long have we been driving?
-ພວກເຮົາຂັບລົດດົນປານໃດ?
+00:58:23,253 --> 00:58:25,589
+Estuve a punto de matarle.
+ຂ້ອຍເປັນຈຸດທີ່ຈະຂ້າລາວ.
 
 469
-00:30:43,700 --> 00:30:47,550
-[KAREN]
-I don't know. I woke up just before you did --
-ຂ້ອຍບໍ່ຮູ້. ຂ້ອຍຕື່ນກ່ອນເຈົ້າ -
+00:58:25,756 --> 00:58:28,467
+Pero luego me di cuenta de lo que era.
+ແຕ່ຫຼັງຈາກນັ້ນຂ້ອຍຮູ້ວ່າມັນເປັນຫຍັງ.
 
 470
-00:30:48,050 --> 00:30:50,050
-[KAREN]
-Is it bad?
-ມັນບໍ່ດີບໍ?
+00:58:29,009 --> 00:58:32,930
+Un vampiro atacó a la madre de Blade
+cuando estaba embarazada.
+ແວມປີຣ໌ໄດ້ໂຈມຕີແມ່ຂອງບເລດເມື່ອນາງຖືພາ.
 
 471
-00:30:50,550 --> 00:30:55,450
-[BLADE]
-We get out of this alive, maybe I'll take that miracle cure of yours.
-ພວກເຮົາຈະອອກຈາກສິ່ງນີ້ຢ່າງມີຊີວິດຢູ່,
-ບາງທີຂ້ອຍຈະເອົາຢາມະຫັດສະຈັນຂອງເຈົ້າ.
+00:58:33,096 --> 00:58:36,099
+Ella murió, pero él sobrevivió.
+ເອລາຕາຍແລ້ວ, ແຕ່ລາວຍັງລອດຊີວິດຢູ່.
 
 472
-00:30:55,950 --> 00:30:57,950
-[KAREN]
-It won't work on you.
-ມັນຈະບໍ່ເຮັດວຽກກັບເຈົ້າ.
+00:58:36,350 --> 00:58:39,978
+Desgraciadamente, él había sufrido
+ciertos cambios genéticos.
+ໂຊກຮ້າຍ,ລາວໄດ້ປະສົບກັບ
+ການປ່ຽນແປງທາງພັນທຸກໍາບາງຢ່າງ.
 
 473
-00:30:58,450 --> 00:31:00,450
-[BLADE]
-What are you talking about?
-ເຈົ້າເວົ້າຫຍັງຢູ່?
+00:58:40,562 --> 00:58:45,609
+Puede resistir el ajo, la plata,
+y hasta la luz del sol.
+ມັນສາມາດທົນທານຕໍ່ການ
+ໂຈມຕີ,ເງິນ,ແລະເຖິງແສງແດດ.
 
 474
-00:31:00,950 --> 00:31:06,900
-[KAREN]
-Your condition's congenital, the genetic mutations occurred in utero. All the other victims contracted vampirism after birth.
-ສະພາບຂອງທ່ານແມ່ນເກີດຈາກກໍາເນີດ, ການປ່ຽນແປງທາງພັນທຸ ກໍາ ເກີດຂຶ້ນໃນ
-utero. ຜູ້ເຄາະຮ້າຍອື່ນໆທັງ ຫມົດ ໄດ້ຕິດພັນກັບ vampirism ຫຼັງຈາກເກີດ.
+00:58:45,776 --> 00:58:47,277
+Y tiene la misma fuerza que ellos.
+ເຈົ້າມີຄວາມເຂັ້ມແຂງເທົ່າກັບພວກເຂົາ.
 
 475
-00:31:07,400 --> 00:31:13,350
-[KAREN]
-I can't cure you, Blade. I can cure myself, but I can't cure you.  I'm so sorry.
-ຂ້ອຍບໍ່ສາມາດຮັກສາເຈົ້າໄດ້, ບເລດ. ຂ້ອຍສາມາດຮັກສາຕົວເອງໄດ້
-, ແຕ່ຂ້ອຍບໍ່ສາມາດປິ່ນປົວເຈົ້າໄດ້. ຂ້ອຍຂໍໂທດຫຼາຍ.
+00:58:49,404 --> 00:58:52,241
+Mañana a esta hora,
+todas sus heridas habrán cicatrizado.
+ຕອນເຊົ້າໃນເວລານີ້,ບາດເຈັບທັງ
+ໝົດຂອງລາວຈະໄດ້ຮັບການປິ່ນປົວ.
 
 476
-00:31:13,850 --> 00:31:15,850
-[FROST]
-Welcome home, children.
-ຍິນດີຕ້ອນຮັບກັບບ້ານ, ເດັກນ້ອຍ.
+00:58:54,243 --> 00:58:56,745
+Sin embargo, envejece como un humano.
+ເຖິງຢ່າງໃດກໍ່ຕາມ, ເຖົ້າແກ່ຄືກັບມະນຸດ.
 
 477
-00:31:16,350 --> 00:31:22,350
-[FROST]
-On its surface, this building houses one of the city's oldest financial institutions -- and for over two-hundred years its served our corporate needs. Look beneath the surface, however, and you'll discover another truth entirely --
-ໃນພື້ນຜິວຂອງມັນ, ອາຄານນີ້ມີ ຫນຶ່ງ ໃນສະຖາບັນການເງິນທີ່ເກົ່າແກ່ທີ່ສຸດຂອງເມືອງ - ແລະເປັນເວລາຫຼາຍກວ່າສອງຮ້ອຍປີມັນໄດ້ບໍລິການຄວາມຕ້ອງການຂອງບໍລິສັດຂອງພວກເຮົາ
-. ເບິ່ງຢູ່ພາຍໃຕ້ພື້ນຜືນ, ເຖິງຢ່າງໃດກໍ່ຕາມ, ແລະທ່ານຈະຄົ້ນພົບຄວາມຈິງອີກຢ່າງ ຫນຶ່ງ ຢ່າງສົມບູນ -
+00:58:56,912 --> 00:58:59,414
+Los vampiros envejecen
+más lento que nosotros.
+ພວກແວມປີຣ໌ເຖົ້າແກ່ຊ້າກວ່າພວກເຮົາ.
 
 478
-00:31:22,850 --> 00:31:24,850
-[FROST]
-As above, so below.
-ຄືກັບຂ້າງເທິງ, ເຊັ່ນດຽວກັນກັບຂ້າງລຸ່ມ.
+00:59:00,666 --> 00:59:05,879
+Por desgracia,
+también heredó su sed.
+ໂຊກຮ້າຍ, ລາວຍັງໄດ້ຮັບມໍລະດົກຂອງທ່ານ.
 
 479
-00:31:25,350 --> 00:31:30,250
-[FROST]
-Welcome to our hall of ancients, Doctor. We call it the Temple of Night.
-ຍິນດີຕ້ອນຮັບໃນຫ້ອງປະຊຸມຂອງບູຮານຂອງພວກເຮົາ
-, ດອກຕໍ. ພວກເຮົາເອີ້ນມັນວ່າວັດຂອງຄືນ.
+00:59:06,463 --> 00:59:09,508
+Pensaba que el suero
+servía para evitar eso.
+ຂ້ອຍຄິດວ່າ serum ຈະ
+ຊ່ວຍປ້ອງກັນສິ່ງນັ້ນ.
 
 480
-00:31:30,750 --> 00:31:32,850
-[FROST]
-Let's see this sword of his.
-ມາເບິ່ງກະທູ້ຂອງລາວນີ້.
+00:59:09,675 --> 00:59:11,927
+El tiempo se le acaba.
+ເວລາຈະສິ້ນສຸດລົງ.
 
 481
-00:31:33,350 --> 00:31:35,350
-[FROST]
-Still quite sharp, I see.
-ຂ້ອຍເຫັນວ່າຍັງສ່ອງແສງຫຼາຍ.
+00:59:13,303 --> 00:59:16,181
+Su cuerpo empieza a rechazarlo.
+ຮ່າງກາຍຂອງເຈົ້າເລີ່ມປະຕິເສດມັນ.
 
 482
-00:31:35,850 --> 00:31:37,850
-[KAREN]
-Blade --
-ກະດານກະດານ...
+00:59:16,807 --> 00:59:21,562
+Y, por ahora, todos mis esfuerzos
+por curarle han fracasado.
+ແລະ,ໃນເວລານີ້,ຄວາມພະຍາຍາມຂອງຂ້ອຍ
+ທັງໝົດເພື່ອປິ່ນປົວລາວໄດ້ລົ້ມເຫຼວ.
 
 483
-00:31:38,350 --> 00:31:44,350
-[FROST]
-You're wasting your breath, woman. He can't hear you now. It's the Thirst, you see? It already has him in its grip.
-ເຈົ້າ ກໍາ ລັງເສຍຫາຍຫາຍໃຈຂອງທ່ານ, ແມ່ຍິງ. ລາວບໍ່ສາມາດຍິນທ່ານໄດ້ດຽວນີ້
-. ມັນແມ່ນຄວາມດອກດອກ, ເຈົ້າເຫັນບໍ? ມັນມີລາວຢູ່ໃນຄວບຄຸມຂອງຕົນແລ້ວ.
+00:59:25,315 --> 00:59:27,109
+¿Por qué les dais caza?
+ເປັນຫຍັງເຈົ້າຈຶ່ງໃຫ້ພວກມັນລ່າສັດ?
 
 484
-00:31:44,850 --> 00:31:50,850
-[FROST]
-How long has it been since you had your serum? Twelve hours? More? You must be quite thirsty by now.
-ມັນເປັນເວລາດົນປານໃດທີ່ເຈົ້າກິນຊີຣູມຂອງທ່ານ?
-ເວລາສິບສອງຊົ່ວໂມງ? ຫຼາຍກວ່າ? ເຈົ້າຕ້ອງດອກດອກຫຼາຍໃນເວລານີ້.
+00:59:29,236 --> 00:59:31,655
+Yo tenía familia.
+ຂ້ອຍມີຄອບຄົວ.
 
 485
-00:31:51,350 --> 00:31:57,350
-[FROST]
-What does it feel like? Is your blood on fire? Are you burning up inside? Give in to the Thirst, Blade. Embrace your true nature.
-ມັນຮູ້ສຶກແນວໃດ? ເລືອດຂອງທ່ານຖືກໄຟໄຫມ້ບໍ? ເຈົ້າຖືກເຜົາຜານພາຍໃນບໍ
-? ຍອມຮັບຄວາມຢາກ, ກະດານ. ຕ້ອນຮັບ ທໍາ ມະຊາດທີ່ແທ້ຈິງຂອງທ່ານ.
+00:59:31,822 --> 00:59:34,992
+Mujer, dos hijas.
+ແມ່ຍິງ, ລູກສາວສອງຄົນ.
 
 486
-00:31:57,850 --> 00:31:59,850
-[BLADE]
--- go to hell --
-- ໄປສູ່ອານາໄມ...
+00:59:36,827 --> 00:59:40,497
+Una tarde, apareció un trotamundos.
+Un vampiro.
+ຕອນບ່າຍໜຶ່ງ,ມີຄົນຍ່າງຜ່ານ
+ໂລກປາກົດຕົວ.ເປັນແວມປີຣ໌.
 
 487
-00:32:00,350 --> 00:32:03,500
-[FROST]
-I've got news for you, Blade. We're already here.
-ຂ້ອຍມີຂ່າວສໍາລັບເຈົ້າ, ບເລດ. ພວກເຮົາຢູ່ບ່ອນນີ້ແລ້ວ.
+00:59:42,541 --> 00:59:44,293
+Primero jugó con ellas.
+ທໍາອິດລາວຫຼິ້ນກັບພວກມັນ.
 
 488
-00:32:04,000 --> 00:32:07,500
-[FROST]
-Take him to the sanctuary. It's time he was bled.
-ເອົາລາວໄປບ່ອນສັກສິດ. ມັນເຖິງເວລາແລ້ວທີ່ລາວຈະເລືອດອອກ.
+00:59:45,210 --> 00:59:49,089
+Luego me obligó a decidir
+en qué orden debían morir.
+ຫຼັງຈາກນັ້ນລາວບັງຄັບໃຫ້ຂ້ອຍຕັດສິນໃຈ
+ວ່າພວກເຂົາຄວນຕາຍຕາມລໍາດັບໃດ.
 
 489
-00:32:08,000 --> 00:32:14,000
-[FROST]
-I'd let you watch the proceedings, Doctor, but I'm afraid that privilege is reserved for members of my own race. Don't worry, though, I've made alternate arrangements for you.
-ຂ້ອຍຈະປ່ອຍໃຫ້ເຈົ້າເບິ່ງການດໍາເນີນຄະດີ, ດອກຕໍ, ແຕ່ຂ້ອຍຢ້ານວ່າສິດທິພິເສດນັ້ນຖືກສະຫງວນໄວ້ ສໍາ
-ລັບສະມາຊິກຂອງເຊື້ອຊາດຂອງຂ້ອຍເອງ. ຢ່າກັງວົນ, ເຖິງຢ່າງໃດກໍ່ຕາມ, ຂ້ອຍໄດ້ຈັດການທາງເລືອກ ສໍາ ລັບເຈົ້າ.
+00:59:52,718 --> 00:59:57,681
+Eliminamos a todos los que encontramos,
+pero la cosa está empeorando.
+ພວກເຮົາກໍາຈັດທຸກຄົນທີ່ພົບເຫັນ,
+ແຕ່ເລື່ອງນີ້ກໍາລັງຮ້າຍແຮງຂຶ້ນ.
 
 490
-00:32:14,500 --> 00:32:20,500
-[FROST]
-We call this the Bone Pit. It's where we keep our mistakes, the ones who couldn't successfully make the transition from human to vampire.
-ພວກເຮົາເອີ້ນສິ່ງນີ້ວ່າຮູກະດູກ. ມັນແມ່ນບ່ອນທີ່ພວກເຮົາເກັບຮັກສາຄວາມຜິດພາດຂອງພວກເຮົາ
-, ຜູ້ທີ່ບໍ່ສາມາດເຮັດການປ່ຽນແປງຈາກມະນຸດເປັນແວມປີໄດ້ຢ່າງປະສົບຜົນສໍາເລັດ.
+00:59:57,764 --> 00:59:59,141
+Por culpa de Frost.
+ຍ້ອນຄວາມຜິດຂອງຟຣັສຕ໌.
 
 491
-00:32:21,000 --> 00:32:25,550
-[FROST]
-They'll feed on anything, given the chance -- animals, corpses, even other vampires.
-ພວກເຂົາຈະກິນທຸກຢ່າງ, ຖ້າມີໂອກາດ -
-ສັດ, ສົບ, ເຖິງແມ່ນວ່າແວມປີອື່ນໆ.
+00:59:59,308 --> 01:00:02,728
+Está pasando algo entre los vampiros.
+ມີບາງສິ່ງບາງຢ່າງ
+ເກີດຂຶ້ນລະຫວ່າງແວມປີຣ໌.
 
 492
-00:32:26,050 --> 00:32:32,050
-[FROST]
-Of course, a strapping young woman like yourself -- well I think you just might be considered finger food.
-ແນ່ນອນ, ແມ່ຍິງຫນຸ່ມທີ່ຕິດສາຍແອວຄືກັບເຈົ້າ -
-ດີຂ້ອຍຄິດວ່າເຈົ້າພຽງແຕ່ອາດຈະຖືກພິຈາລະນາເປັນອາຫານນິ້ວມື.
+01:00:02,895 --> 01:00:05,063
+Algo importante.
+ບາງສິ່ງບາງຢ່າງທີ່ສໍາຄັນ.
 
 493
-00:32:32,550 --> 00:32:38,150
-[FROST]
-It's been a long road, hasn't it? Such a pity Whistler led you so far astray.
-ມັນເປັນເສັ້ນທາງທີ່ຍາວນານ, ແມ່ນບໍ?
-ໂຊກຮ້າຍທີ່ວິສລເຕີໄດ້ພາເຈົ້າໄປທາງທີ່ຜິດ.
+01:00:05,355 --> 01:00:09,735
+Y me jugaría el cuello
+a que ese cabrón es el artífice de todo.
+ແລະຂ້ອຍຈະຫຼິ້ນຄໍໃຫ້ຄົນໂຊກຮ້າຍ
+ຄົນນັ້ນແມ່ນຜູ້ສ້າງທຸກຢ່າງ.
 
 494
-00:32:38,650 --> 00:32:44,650
-[FROST]
-I don't blame you, though. I want you to know that. Even after all you've done. I understand, Blade, I really do. It's the human side of you which has corrupted your reasoning, made you weak. But we'll take care of that, won't we?
-ເຖິງຢ່າງໃດກໍ່ຕາມຂ້ອຍບໍ່ໄດ້ກ່າວໂທດເຈົ້າ. ຂ້ອຍຢາກໃຫ້ເຈົ້າຮູ້ສິ່ງນັ້ນ. ເຖິງແມ່ນວ່າເຈົ້າໄດ້ເຮັດທຸກຢ່າງແລ້ວ. ຂ້ອຍເຂົ້າໃຈ, ບເລດ,
-ຂ້ອຍເຮັດແທ້ໆ. ມັນແມ່ນດ້ານມະນຸດຂອງເຈົ້າທີ່ໄດ້ສໍ້ລາດບັງຫຼວງຄວາມຄິດຂອງທ່ານ, ເຮັດໃຫ້ເຈົ້າອ່ອນແອ. ແຕ່ພວກເຮົາຈະເບິ່ງແຍງສິ່ງນັ້ນ, ແມ່ນບໍ?
+01:00:13,363 --> 01:00:15,407
+¿Blade?
+ກະດານບໍ?
 
 495
-00:32:45,150 --> 00:32:49,000
-[BLADE]
-I'd kill myself -- before I turned into something like you.
-ຂ້ອຍຈະຂ້າຕົວເອງ - ກ່ອນທີ່ຂ້ອຍຈະກາຍເປັນບາງສິ່ງບາງຢ່າງຄືກັບເຈົ້າ.
+01:00:32,382 --> 01:00:35,260
+Whistler me ha contado lo que pasó.
+ວີສລເຕີບອກຂ້ອຍວ່າເກີດຫຍັງຂຶ້ນ.
 
 496
-00:32:49,500 --> 00:32:55,500
-[FROST]
-No you wouldn't. I'm going to bleed you dry, Blade. All the poison that makes you human.  When the Tide comes, you'll be begging me put you through the Change.
-ບໍ່ເຈົ້າຈະບໍ່ເຮັດ. ຂ້ອຍຈະເລືອດເຈົ້າແຫ້ງ, ບເລດ. ຢາພິດທັງ ຫມົດ ທີ່ເຮັດໃຫ້ເຈົ້າເປັນມະນຸດ
-. ເມື່ອຄື້ນຟອງມາ, ເຈົ້າຈະຮ້ອງຂໍໃຫ້ຂ້ອຍເຮັດໃຫ້ເຈົ້າຜ່ານການປ່ຽນແປງ.
+01:00:37,971 --> 01:00:40,807
+Me ha explicado lo que eres.
+ລາວອະທິບາຍໃຫ້ຂ້ອຍວ່າເຈົ້າເປັນຫຍັງ.
 
 497
-00:32:56,000 --> 00:32:59,850
-[FROST]
-It's done. We should ready ourselves for the ritual of invocation.
-ມັນເຮັດແລ້ວ. ພວກເຮົາຄວນກຽມຕົວເອງ ສໍາ ລັບພິທີການຮ້ອງຂໍ.
+01:00:43,560 --> 01:00:45,771
+Tú no me conoces.
+ເຈົ້າບໍ່ຮູ້ຈັກຂ້ອຍ.
 
 498
-00:33:00,350 --> 00:33:02,450
-[VANESSA]
-There's no use fighting us, Jason.
-ມັນບໍ່ມີປະໂຫຍດໃນການຕໍ່ສູ້ກັບພວກເຮົາ, ເຈຊອນ.
+01:00:45,938 --> 01:00:48,732
+No sabes nada sobre mí.
+ເຈົ້າບໍ່ຮູ້ຫຍັງເລີຍກ່ຽວກັບຂ້ອຍ.
 
 499
-00:33:02,950 --> 00:33:05,750
-[BLADE]
-How could you be a part of this?
-ເຈົ້າເປັນສ່ວນຫນຶ່ງໃນເລື່ອງນີ້ໄດ້ແນວໃດ?
+01:00:51,068 --> 01:00:53,070
+No soy humano.
+ບໍ່ເປັນມະນຸດ.
 
 500
-00:33:06,250 --> 00:33:09,400
-[VANESSA]
-These are my people now. I'm one of them.
-ນີ້ແມ່ນຄົນຂອງຂ້ອຍດຽວນີ້. ຂ້ອຍເປັນຄົນ ຫນຶ່ງ ໃນພວກເຂົາ.
+01:00:56,406 --> 01:00:57,407
+A mí me pareces humano...
+ຂ້ອຍເບິ່ງຄືວ່າເປັນມະນຸດ...
 
 501
-00:33:09,900 --> 00:33:11,900
-[BLADE]
-You don't have to be.
-ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງເປັນ.
+01:00:57,491 --> 01:01:00,410
+Los humanos no beben sangre.
+ຄົນບໍ່ມີເລືອດ.
 
 502
-00:33:12,400 --> 00:33:16,250
-[VANESSA]
-You don't understand. I've killed, I've hunted, and I've enjoyed it.
-ເຈົ້າບໍ່ເຂົ້າໃຈ. ຂ້ອຍໄດ້ຂ້າ,
-ຂ້ອຍໄດ້ລ່າສັດ, ແລະຂ້ອຍໄດ້ເພີດເພີນກັບມັນ.
+01:01:00,577 --> 01:01:02,955
+Eso fue hace mucho tiempo.
+ນັ້ນແມ່ນເວລາຫຼາຍນານແລ້ວ.
 
 503
-00:33:16,750 --> 00:33:22,750
-[VANESSA]
-I wish you could see the world as I do. Deacon opened my eyes. There's no turning back from that.
-ຂ້ອຍຢາກໃຫ້ເຈົ້າສາມາດເຫັນໂລກໄດ້ຄືກັບຂ້ອຍ. Deacon
-ໄດ້ເປີດຕາຂອງຂ້ອຍ. ບໍ່ມີການກັບຄືນໄປບ່ອນຈາກນັ້ນ.
+01:01:03,830 --> 01:01:05,916
+Quizá deberías olvidarlo.
+ບາງທີເຈົ້າຄວນລືມມັນ.
 
 504
-00:33:23,250 --> 00:33:25,250
-[BLADE]
-I don't believe that.
-ຂ້ອຍບໍ່ເຊື່ອເລື່ອງນັ້ນ.
+01:01:08,794 --> 01:01:13,715
+Me he pasado la vida buscando
+al ser que mató a mi madre...
+ຂ້ອຍໄດ້ໃຊ້ເວລາຕະຫຼອດຊີວິດ
+ຊອກຫາຄົນທີ່ຂ້າແມ່ຂອງຂ້ອຍ...
 
 505
-00:33:25,750 --> 00:33:30,650
-[VANESSA]
-You will. Time is on our side. Sooner or later, the Thirst always wins.
-ເຈົ້າຈະເຮັດ. ເວລາຢູ່ຂ້າງພວກເຮົາ.
-ກ່ອນຫຼືຫຼ້າສຸດ, ຄວາມດັນຊະນະສະເຫມີ.
+01:01:14,550 --> 01:01:17,469
+...y me convirtió en lo que soy.
+...ແລະເຮັດໃຫ້ຂ້ອຍ
+ກາຍເປັນສິ່ງທີ່ຂ້ອຍເປັນ.
 
 506
-00:33:31,150 --> 00:33:33,150
-[BLADE]
-Mother!
-ແມ່!
+01:01:19,972 --> 01:01:22,850
+Y cada vez que me cargo
+a uno de esos monstruos...
+ແລະທຸກຄັ້ງທີ່ຂ້ອຍບັນທຸກ
+ໜຶ່ງໃນໂມສເຕີເຫຼົ່ານັ້ນ...
 
 507
-00:33:33,650 --> 00:33:36,450
-[VANESSA]
-Your mother died the night you were born.
-ແມ່ຂອງເຈົ້າຕາຍໃນຄືນທີ່ເຈົ້າເກີດ.
+01:01:23,016 --> 01:01:26,228
+...recupero un pedacito
+de mi vida perdida.
+ຂ້ອຍຈະຟື້ນຟູສ່ວນນ້ອຍໆຂອງ
+ຊີວິດທີ່ສູນເສຍຂອງຂ້ອຍ.
 
 508
-00:33:36,950 --> 00:33:38,950
-[REVENANT]
-Karennnnn --
-ຄາເຣນນ໌...
+01:01:26,395 --> 01:01:29,857
+Así que no me hables de olvidar.
+ສະນັ້ນຂ້ອຍບໍ່ມັກລືມ.
 
 509
-00:33:39,450 --> 00:33:42,250
-[REVENANT]
-Karreennnnnn. I never thought I'd see you againnnnn.
-ຂ້ອຍບໍ່ເຄີຍຄິດວ່າຂ້ອຍຈະເຫັນເຈົ້າອີກເທື່ອຫນຶ່ງ.
+01:01:33,277 --> 01:01:34,778
+¿Culpa mía? ¡Nos pilló por sorpresa!
+ຄວາມຜິດຂອງຂ້ອຍບໍ?ເມັດ
+ຂອງພວກເຮົາເປັນຄວາມແປກໃຈ!
 
 510
-00:33:42,750 --> 00:33:44,750
-[KAREN]
-Curtis?!
-ຄູຕິສ໌ບໍ?
+01:01:34,945 --> 01:01:37,656
+¿Dos de ellos
+contra todo tu equipo de seguridad?
+ສອງຄົນໃນພວກມັນຕໍ່ຕ້ານທີ
+ມງານຄວາມປອດໄພຂອງທ່ານບໍ?
 
 511
-00:33:45,250 --> 00:33:49,100
-[CURTIS REVENANT]
-Tell, me, Karennn -- ever have second thoughts -- about us?
-ບອກ, ຂ້ອຍ, ຄາເຣນນ໌ - ເຄີຍຄິດສອງຄັ້ງບໍ - ກ່ຽວກັບພວກເຮົາ?
+01:01:37,739 --> 01:01:40,033
+No me eches la culpa,
+también estabas allí.
+ບໍ່ໃຫ້ຂ້ອຍຜິດ, ເຈົ້າຍັງຢູ່ບ່ອນນັ້ນ.
 
 512
-00:33:49,600 --> 00:33:51,700
-[MERCURY]
-It won't be long now, lover.
-ມັນຈະບໍ່ຍາວນານດຽວນີ້, ຄົນຮັກ.
+01:01:40,117 --> 01:01:43,537
+Seguro que Deacon comprenderá
+nuestra reducción de plantilla.
+ແນ່ນອນວ່າ Deacon ຈະເຂົ້າໃຈການ
+ຫຼຸດຜ່ອນຕົວແບບຂອງພວກເຮົາ.
 
 513
-00:33:52,200 --> 00:33:54,200
-[QUINN]
-We should finish him off.
-ພວກເຮົາຄວນເຮັດລາວໃຫ້ຫມົດແລ້ວ.
+01:01:43,704 --> 01:01:46,707
+- Maldita zorra.
+- La vida de mutilado te sienta bien.
+- ມາລດິຕ້າ ໂຊຣຣາ.
+- ຊີວິດຂອງຄົນຖືກຕັດຫຍິບເຮັດໃຫ້ເຈົ້າຮູ້ສຶກດີ.
 
 514
-00:33:54,700 --> 00:33:56,700
-[MERCURY]
-No. Deacon wants him turned.
-ບໍ່. Deacon ຢາກໃຫ້ລາວຫັນໄປ.
+01:01:46,790 --> 01:01:48,917
+Te voy a borrar tu sonrisa
+con este muñón.
+ຂ້ອຍຈະຂີ້ເຫຍື້ອຄວາມມ່ວນຊື່ນ
+ຂອງເຈົ້າດ້ວຍກະຕ່ານີ້.
 
 515
-00:33:57,200 --> 00:33:59,300
-[QUINN]
-Fucking waste, if you ask me.
-ການເສຍຫາຍທີ່ຮ້າຍແຮງ, ຖ້າເຈົ້າຖາມຂ້ອຍ.
+01:01:49,001 --> 01:01:52,546
+Reconócelo, angelito. Metiste
+la pata. Te dieron tu merecido.
+ຮັບຮູ້ມັນ,ແອນຈີລີໂຕ. Metiste la pata
+.ພວກເຂົາໃຫ້ເຈົ້າຄວາມສົມຄວນຂອງທ່ານ.
 
 516
-00:33:59,800 --> 00:34:05,800
-[FROST]
-Tonight is the night we've waited our entire lives for. Tonight, the blood-dimmed Tide is loosed upon the world. Tonight, the Age of Man comes to an end.
-ຄືນນີ້ແມ່ນຄືນທີ່ພວກເຮົາໄດ້ລໍຖ້າຕະຫຼອດຊີວິດຂອງພວກເຮົາ. ຄືນນີ້,
-ຄື້ນຟອງທີ່ສີດໍາດ້ວຍເລືອດຖືກປ່ອຍອອກມາສູ່ໂລກ. ມື້ນີ້, ຍຸກຂອງມະນຸດສິ້ນສຸດລົງ.
+01:01:57,009 --> 01:01:58,927
+Deac, déjame cargármelo.
+ເດັກ, ໃຫ້ຂ້ອຍຂົນສົ່ງຂ້ອຍ.
 
 517
-00:34:06,300 --> 00:34:08,300
-[KAREN]
+01:01:59,094 --> 01:02:01,471
+¡Mira lo que me hizo!
+¡Me volvió a cortar el brazo!
+ເບິ່ງວ່າລາວເຮັດຫຍັງກັບ
+ຂ້ອຍ!ຂ້ອຍໄດ້ຕັດແຂນອີກຄັ້ງ!
+
+518
+01:02:01,555 --> 01:02:04,349
+Escúchame. Le quiero vivo.
+ຟັງຂ້ອຍ. ຂ້ອຍຢາກໃຫ້ລາວຢູ່ອາໄສ.
+
+519
+01:02:04,516 --> 01:02:06,268
+¿De qué coño estás hablando...?
+ເຈົ້າເວົ້າຫຍັງຢູ່...?
+
+520
+01:02:06,435 --> 01:02:09,980
+¿Le quieres vivo? Llevamos años
+intentando matar a ese cabrón.
+ພວກເຮົາພະຍາຍາມຂ້າຄົນໂຊກຮ້າຍ
+ນັ້ນເປັນເວລາຫຼາຍປີແລ້ວ.
+
+521
+01:02:10,147 --> 01:02:12,566
+¿Te has vuelto loco? ¿Quieres...?
+ເຈົ້າໂຊກຮ້າຍບໍ? ເຈົ້າຢາກ...?
+
+522
+01:02:13,066 --> 01:02:16,403
+Grandullón, relájate.
+ພໍ່ເຖົ້າ, ສະບາຍໃຈ.
+
+523
+01:02:16,570 --> 01:02:17,821
+Ten paciencia.
+ຄວາມອົດທົນສິບຢ່າງ.
+
+524
+01:02:19,531 --> 01:02:20,949
+Nos queda mucho por hacer.
+ພວກເຮົາມີຫຼາຍຢ່າງທີ່ຈະເຮັດ.
+
+525
+01:02:22,451 --> 01:02:23,493
+Te necesito.
+ຂ້ອຍຕ້ອງການເຈົ້າ.
+
+526
+01:02:27,497 --> 01:02:30,250
+- Te necesito.
+- Sí.
+- ຂ້ອຍຕ້ອງການເຈົ້າ.
+- ແມ່ນແລ້ວ.
+
+527
+01:03:12,709 --> 01:03:14,795
+Buenos días.
+ສະບາຍດີ.
+
+528
+01:03:15,462 --> 01:03:17,548
+¿Cómo te encuentras?
+ເຈົ້າພົບກັນແນວໃດ?
+
+529
+01:03:26,306 --> 01:03:28,267
+Mira eso.
+ເບິ່ງນັ້ນ.
+
+530
+01:03:31,854 --> 01:03:34,773
+Empieza a oler
+un poco a chamusquina, ¿verdad?
+ເລີ່ມກິ່ນຫອມຊາມຸສຄິນາເລັກນ້ອຍ, ແມ່ນບໍ?
+
+531
+01:03:36,233 --> 01:03:40,153
+¿Cuándo fue la última vez
+que disfrutaste de un bonito amanecer?
+ເຈົ້າໄດ້ເພີດເພີນກັບຕອນເຊົ້າ
+ທີ່ສວຍງາມຄັ້ງສຸດທ້າຍເມື່ອໃດ?
+
+532
+01:03:40,237 --> 01:03:44,408
+Es verdad, tú naciste vampiro,
+nunca has tenido el placer, ¿verdad?
+ເຈົ້າເກີດເປັນແວມປີຣ໌,
+ບໍ່ເຄີຍມີຄວາມສຸກເລີຍ,ແມ່ນບໍ?
+
+533
+01:03:44,575 --> 01:03:47,452
+No pasa nada. No te preocupes.
+ບໍ່ມີຫຍັງເກີດຂຶ້ນ. ຢ່າກັງວົນ.
+
+534
+01:03:47,619 --> 01:03:50,831
+Al menos estamos aquí juntos.
+Compartiendo este momento.
+ຢ່າງໜ້ອຍພວກເຮົາຢູ່ບ່ອນນີ້
+ຮ່ວມກັນ.ແບ່ງປັນເວລານີ້.
+
+535
+01:03:50,998 --> 01:03:53,542
+Y eso significa
+mucho para mí, por cierto.
+ແລະມັນໝາຍຄວາມວ່າຫຼາຍ
+ຕໍ່ຂ້ອຍ,ຢ່າງໃດກໍຕາມ.
+
+536
+01:03:53,625 --> 01:03:55,627
+Lo digo en serio.
+ຂ້ອຍເວົ້າຈິງໃຈ.
+
+537
+01:03:57,212 --> 01:03:59,506
+Porque si llegas a conocerme bien...
+ເພາະຖ້າເຈົ້າຮູ້ຈັກຂ້ອຍດີ...
+
+538
+01:03:59,673 --> 01:04:02,467
+...soy un tío bastante sentimental.
+ຂ້ອຍເປັນພໍ່ເຖົ້າທີ່ມີຄວາມຮູ້ສຶກຫຼາຍ.
+
+539
+01:04:02,634 --> 01:04:05,429
+Un poco inocente, se podría decir.
+ບໍ່ຜິດຫຍັງເລັກນ້ອຍ, ຂ້ອຍສາມາດເວົ້າໄດ້.
+
+540
+01:04:07,222 --> 01:04:09,933
+Haz lo que quieras, Frost.
+ເຮັດສິ່ງທີ່ເຈົ້າຢາກ, ຟຣັສຕ໌.
+
+541
+01:04:10,267 --> 01:04:12,186
+Nada va a cambiar.
+ບໍ່ມີຫຍັງຈະປ່ຽນແປງ.
+
+542
+01:04:13,645 --> 01:04:16,565
+No lo entiendes, joder.
+ບໍ່ເຂົ້າໃຈ, ໂຊກຮ້າຍ.
+
+543
+01:04:17,816 --> 01:04:20,903
+- Nunca serás un purasangre.
+- Sujetadle.
+- ເຈົ້າຈະບໍ່ເປັນເລືອດບໍລິສຸດເລີຍ.
+- ຫົວຂໍ້.
+
+544
+01:04:23,572 --> 01:04:25,949
+Nunca nos gobernarás.
+ເຈົ້າຈະບໍ່ປົກຄອງພວກເຮົາເລີຍ.
+
+545
+01:04:38,295 --> 01:04:41,632
+La madre que me parió.
+Que tengas un buen día.
+ແມ່ທີ່ບອກຂ້ອຍ. ຂໍໃຫ້ເຈົ້າມີມື້ທີ່ດີ.
+
+546
+01:04:42,382 --> 01:04:46,094
+Lo siento, tío. Te hemos dejado
+con los dientes largos.
+ຂໍໂທດ,ພໍ່ເຖົ້າ.ພວກເຮົາ
+ໄດ້ປ່ອຍເຈົ້າດ້ວຍແຂ້ວໃຫຍ່.
+
+547
+01:04:47,137 --> 01:04:51,808
+¿Qué pasa? Ha sido gracioso.
+"Con los dientes largos". Qué bueno.
+ມີຫຍັງເກີດຂຶ້ນ?ມັນມ່ວນຊື່ນ
+."ດ້ວຍແຂ້ວໃຫຍ່".ດີຫຼາຍ.
+
+548
+01:04:51,975 --> 01:04:54,478
+¿Te he contado el del duende...?
+ລາວບອກເຈົ້າກ່ຽວກັບຄົນໂຊກຮ້າຍບໍ?
+
+549
+01:05:23,298 --> 01:05:25,884
+¿Qué has hecho con Dragonetti?
+ເຈົ້າເຮັດຫຍັງກັບດຣາກອນເຕຕີ?
+
+550
+01:05:32,474 --> 01:05:34,935
+Vamos directos al grano, ¿os parece?
+ພວກເຮົາຈະໄປສູ່ເຂົ້າຈີ່
+ໂດຍກົງ,ເຈົ້າຄິດແນວໃດ?
+
+551
+01:05:35,102 --> 01:05:37,980
+Necesito 12 voluntarios.
+ຂ້ອຍຕ້ອງການອາສາສະໝັກ 12 ຄົນ.
+
+552
+01:05:44,570 --> 01:05:46,446
+Whistler.
+ວີສລເຕີ.
+
+553
+01:05:48,782 --> 01:05:50,158
+¿Qué es esto?
+ນີ້ແມ່ນຫຍັງ?
+
+554
+01:05:51,827 --> 01:05:54,371
+Huele como si un vampiro
+se hubiera limpiado el culo.
+ມັນກິ່ນຫອມຄືກັບວ່າແວມປີຣ໌ຈະລ້າງບາກ.
+
+555
+01:05:54,454 --> 01:05:55,956
+Lo cogí de los archivos.
+ຂ້ອຍເອົາມັນຈາກເອກະສານ.
+
+556
+01:05:56,039 --> 01:05:58,959
+- Está escrito con sangre.
+- Es del Libro de Erebus.
+- ມັນຂຽນດ້ວຍເລືອດ.
+- ມັນເປັນຈາກປື້ມຂອງເອເຣບັສ.
+
+557
+01:06:05,340 --> 01:06:07,718
+Es en lo que Frost
+ha estado trabajando.
+ມັນເປັນສິ່ງທີ່ຟຣັສ
+ຕ໌ກໍາລັງເຮັດວຽກຢູ່.
+
+558
+01:06:07,885 --> 01:06:11,221
+Dice algo del Dios de la Sangre,
+de los Espíritus de los Doce.
+ມັນເວົ້າບາງສິ່ງບາງຢ່າງກ່ຽວກັບພຣະເຈົ້າຂອງ
+ເລືອດ,ກ່ຽວກັບຈິດວິນຍານຂອງສິບສອງຄົນ.
+
+559
+01:06:11,305 --> 01:06:13,765
+No lo sé. No sé qué pone el resto.
+ຂ້ອຍບໍ່ຮູ້.ຂ້ອຍບໍ່ຮູ້ວ່າ
+ເອົາສ່ວນທີ່ເຫຼືອໄວ້ຫຍັງ.
+
+560
+01:06:13,849 --> 01:06:15,475
+A ver si esto te ayuda.
+ເບິ່ງວ່າມັນຈະຊ່ວຍເຈົ້າບໍ.
+
+561
+01:06:16,435 --> 01:06:18,729
+Algo averiguaremos.
+ບາງສິ່ງບາງຢ່າງພວກເຮົາຈະກວດສອບ.
+
+562
+01:06:19,438 --> 01:06:20,981
+¿Qué es todo esto?
+ສິ່ງທັງ ໝົດ ນີ້ແມ່ນຫຍັງ?
+
+563
+01:06:21,148 --> 01:06:25,611
+Anoche hice una visita al hospital,
+cogí algo de equipamiento prestado.
+ມື້ວານນີ້ຂ້ອຍໄດ້ໄປຢ້ຽມຢາມໂຮງໝໍ,
+ຂ້ອຍເອົາເຄື່ອງອຸປະກອນທີ່ຢືມໄວ້.
+
+564
+01:06:25,903 --> 01:06:28,530
+¿Para tu cura milagrosa?
+ເພື່ອການປິ່ນປົວມະຫັດສະຈັນຂອງທ່ານບໍ?
+
+565
+01:06:30,240 --> 01:06:32,993
+Esto es EDTA. Es un anticoagulante.
+ນີ້ແມ່ນ EDTA. ມັນແມ່ນຢາຕ້ານເລືອດ.
+
+566
+01:06:33,160 --> 01:06:35,204
+Se usa para tratar coágulos en sangre.
+ມັນໃຊ້ເພື່ອປິ່ນປົວໄຂ້ເລືອດ.
+
+567
+01:06:36,288 --> 01:06:40,584
+Mira lo que pasa cuando lo introduzco
+en una muestra de sangre de vampiro.
+ເບິ່ງວ່າເກີດຫຍັງຂຶ້ນເມື່ອຂ້ອຍນໍາ
+ລາວເຂົ້າໄປໃນຕົວຢ່າງເລືອດແວມປີຣ໌.
+
+568
+01:06:42,294 --> 01:06:44,254
+No te acerques mucho.
+ບໍ່ເຈົ້າໃກ້ຊິດຫຼາຍ.
+
+569
+01:06:44,421 --> 01:06:47,132
+La reacción tiene mucha energía.
+ການປະຕິກິລິຍາມີພະລັງງານຫຼາຍ.
+
+570
+01:06:55,557 --> 01:06:59,520
+- Menuda cura.
+- No dije que el EDTA fuera una cura.
+- ການປິ່ນປົວ Menuda.
+- ຂ້ອຍບໍ່ໄດ້ບອກວ່າ EDTA ແມ່ນຢາປິ່ນປົວ.
+
+571
+01:06:59,603 --> 01:07:04,233
+Pero podrías usarlo para reventar
+unas cuantas cabezas de vampiro.
+ແຕ່ເຈົ້າສາມາດໃຊ້ມັນເພື່ອຄົ້ນພົບ
+ຫົວແວມປີຣ໌ບາງຢ່າງອີກຄັ້ງ.
+
+572
+01:07:06,193 --> 01:07:08,946
+Un momento.
+Necesito una muestra de tu sangre.
+ຂ້ອຍຕ້ອງການຕົວຢ່າງເລືອດຂອງທ່ານ.
+
+573
+01:07:09,112 --> 01:07:12,658
+Luego. Tengo que ir al centro.
+ຫຼັງຈາກນັ້ນ. ຂ້ອຍຕ້ອງໄປສູນກາງ.
+
+574
+01:07:12,824 --> 01:07:15,494
+- Necesito suero.
+- El suero puede esperar.
+- ຂ້ອຍຕ້ອງການໂຊໂຣ.
+- ຊູເຣໂກ້ສາມາດລໍຖ້າໄດ້.
+
+575
+01:07:15,577 --> 01:07:18,038
+Esto es importante.
+ນີ້ແມ່ນສໍາຄັນ.
+
+576
+01:07:39,101 --> 01:07:42,020
+- ¿Está enfermo?
+- Cáncer.
+- ເຈົ້າເຈັບປ່ວຍບໍ?
+- ມະເຮັງ.
+
+577
+01:07:44,773 --> 01:07:47,484
+Le aprecias mucho, ¿verdad?
+ເຈົ້າຍ້ອງຍໍມັນຫຼາຍ, ແມ່ນບໍ?
+
+578
+01:07:47,651 --> 01:07:52,573
+Tenemos un acuerdo genial.
+Él fabrica armas, y yo las uso.
+ພວກເຮົາມີຂໍ້ຕົກລົງທີ່ດີເລີດ.
+ລາວຜະລິດອາວຸດ,ແລະຂ້ອຍໃຊ້ພວກມັນ.
+
+579
+01:07:56,535 --> 01:08:00,998
+Mi madre siempre decía:
+"Un corazón frío es un corazón muerto".
+ແມ່ຂອງຂ້ອຍເວົ້າຢູ່ສະເໝີວ່າ
+:"ຫົວໃຈເຢັນແມ່ນຫົວໃຈຕາຍ".
+
+580
+01:08:18,807 --> 01:08:21,185
+No tienes buena cara.
+ເຈົ້າບໍ່ມີຄົນດີ.
+
+581
+01:08:21,643 --> 01:08:27,274
+Solo estoy un poco cansada.
+Hemos trabajado toda la noche.
+ຂ້ອຍພຽງແຕ່ເມື່ອຍເລັກນ້ອຍ
+.ພວກເຮົາເຮັດວຽກຕະຫຼອດຄືນ.
+
+582
+01:08:29,359 --> 01:08:32,321
+Supongo que no lo cogimos a tiempo.
+ຂ້ອຍຄິດວ່າພວກເຮົາຈະບໍ່
+ເຂົ້າໃຈມັນໃນເວລາໃດໜຶ່ງ.
+
+583
+01:08:33,238 --> 01:08:37,451
+Te queda un día, dos como mucho.
+ເຈົ້າຍັງເຫຼືອມື້ໜຶ່ງ, ສອງເທົ່າໃດ.
+
+584
+01:08:41,287 --> 01:08:43,540
+Si te sirve de algo, lo siento.
+ຖ້າເຈົ້າມີປະໂຫຍດຫຍັງແດ່, ຂໍໂທດ.
+
+585
+01:08:44,499 --> 01:08:47,669
+Hablas como si ya estuviera muerta.
+ເຈົ້າເວົ້າຄືກັບວ່າເຈົ້າຕາຍແລ້ວ.
+
+586
+01:09:05,479 --> 01:09:07,314
 Blade.
 ກະດານ.
 
-518
-00:34:08,800 --> 00:34:14,400
-[FROST]
-"And what rough beast, its hour come round at last, slouches towards Bethlehem to be born?"
-ແລະສັດທີ່ຮ້າຍແຮງໃດ, ເວລາຂອງມັນມາຮອດໃນທີ່ສຸດ
-, ຍ່າງໄປທາງເບຕເລມເພື່ອເກີດ?
+587
+01:09:31,171 --> 01:09:32,965
+¿Cómo lo llevas, jefe?
+ເຈົ້າເອົາມັນແນວໃດ, ຫົວໜ້າ?
 
-519
-00:34:14,900 --> 00:34:16,900
-[BLADE]
-Get out of here --
-ອອກຈາກບ່ອນນີ້ -
+588
+01:09:34,341 --> 01:09:36,218
+Tranquilo.
+ສະບາຍໃຈ.
 
-520
-00:34:17,400 --> 00:34:19,400
-[KAREN]
-I'm not leaving without you.
-ຂ້ອຍຈະບໍ່ອອກໄປໂດຍບໍ່ມີເຈົ້າ.
+589
+01:09:37,176 --> 01:09:39,054
+No querrás
+que la cara de nuestra amiga...
+ເຈົ້າຈະບໍ່ຢາກໃຫ້ໃບໜ້າ
+ຂອງເພື່ອນຂອງພວກເຮົາ...
 
-521
-00:34:19,900 --> 00:34:22,000
-[BLADE]
-You don't understand. The Thirst --
-ເຈົ້າບໍ່ເຂົ້າໃຈ. ຄວາມຢາກດື່ມ -
+590
+01:09:39,220 --> 01:09:41,932
+...acabe en un anuncio
+de desaparecidos, ¿verdad?
+...ສິ້ນສຸດລົງໃນການປະກາດ
+ຂອງຄົນຫາຍສາບສູນ,ແມ່ນບໍ?
 
-522
-00:34:22,500 --> 00:34:24,500
-[BLADE]
--- tearing me -- apart.
-- ເຮັດໃຫ້ຂ້ອຍແຕກແຍກກັນ.
+591
+01:09:44,475 --> 01:09:48,939
+Es un placer conocerte por fin.
+Llevo años vigilándote.
+ມັນເປັນຄວາມຍິນດີທີ່ຮູ້ຈັກເຈົ້າໃນທີ່ສຸດ.
+ຂ້ອຍໄດ້ເບິ່ງແຍງເຈົ້າເປັນເວລາຫຼາຍປີແລ້ວ.
 
-523
-00:34:25,000 --> 00:34:27,450
-[KAREN]
-I know. Take some of my blood.
-ຂ້ອຍຮູ້ແລ້ວ. ເອົາເລືອດຂອງຂ້ອຍບາງຢ່າງ.
+592
+01:09:49,106 --> 01:09:54,111
+Lo sé todo sobre ti.
+Tu suero, Whistler, todo.
+ຂ້ອຍຮູ້ທຸກຢ່າງກ່ຽວກັບເຈົ້າ.
+ໂຊຣູຂອງທ່ານ,ວີສລເຕີ,ທຸກຢ່າງ.
 
-524
-00:34:27,950 --> 00:34:29,950
-[BLADE]
-No --
-ບໍ່ -
+593
+01:09:54,611 --> 01:09:56,071
+Crema protectora.
+ຄຣີມາ ປ້ອງກັນ.
 
-525
-00:34:30,450 --> 00:34:36,400
-[KAREN]
-It's the only way. You know that. We'll never get out of here alive if you don't.
-ມັນເປັນວິທີດຽວ. ເຈົ້າຮູ້ແລ້ວ.
-ພວກເຮົາຈະບໍ່ອອກຈາກບ່ອນນີ້ຊີວິດຖ້າເຈົ້າບໍ່ເຮັດ.
+594
+01:09:56,154 --> 01:09:58,574
+Oye, por algo se empieza, ¿no?
+ໂອ້, ບາງສິ່ງບາງຢ່າງເລີ່ມຕົ້ນ, ແມ່ນບໍ?
 
-526
-00:34:36,900 --> 00:34:40,400
-[BLADE]
-I can't -- I won't be able to stop --
-ຂ້ອຍບໍ່ສາມາດ - ຂ້ອຍຈະບໍ່ສາມາດຢຸດໄດ້ -
+595
+01:09:58,740 --> 01:10:02,286
+La meta, por supuesto, es ser
+como tú. El que ha visto el sol.
+ເປົ້າໝາຍແມ່ນແນ່ນອນວ່າຈະເປັນຄື
+ກັບເຈົ້າ.ຄົນທີ່ເຫັນແສງຕາເວັນ.
 
-527
-00:34:40,900 --> 00:34:45,800
-[KAREN]
-Yes you will. The human side of you is stronger. I know it is.
-ແມ່ນແລ້ວເຈົ້າຈະເຮັດ.
-ດ້ານມະນຸດຂອງເຈົ້າແຂງແຮງກວ່າ. ຂ້ອຍຮູ້ວ່າມັນເປັນ.
+596
+01:10:03,912 --> 01:10:05,956
+Tienes lo mejor
+de ambos mundos, ¿verdad?
+ເຈົ້າມີສິ່ງທີ່ດີທີ່ສຸດ
+ໃນທັງສອງໂລກ,ແມ່ນບໍ?
 
-528
-00:34:46,300 --> 00:34:48,300
-[KAREN]
-Don't stop --
-ຢ່າຢຸດ...
+597
+01:10:06,957 --> 01:10:10,002
+Toda nuestra fuerza
+y ninguno de nuestros puntos débiles.
+ຄວາມເຂັ້ມແຂງທັງໝົດຂອງພວກເຮົາແລະ
+ບໍ່ມີຈຸດອ່ອນແອຂອງພວກເຮົາເລີຍ.
 
-529
-00:34:48,800 --> 00:34:50,800
-[KAREN]
-My God --
-ພຣະເຈົ້າຂອງຂ້ອຍ...
+598
+01:10:10,836 --> 01:10:13,130
+Bueno, puede que yo no lo vea así.
+ດີ, ບາງທີຂ້ອຍອາດຈະບໍ່ເຫັນລາວແບບນີ້.
 
-530
-00:34:51,300 --> 00:34:53,300
-[KAREN]
-Are you -- all right?
-ເຈົ້າ - ດີບໍ?
+599
+01:10:13,213 --> 01:10:16,216
+Ah, ¿otra vez fingiendo
+que eres humano?
+ອາ,ເຈົ້າເຮັດແບບວ່າ
+ເຈົ້າເປັນມະນຸດອີກບໍ?
 
-531
-00:34:53,800 --> 00:34:55,800
-[BLADE]
-Never been better.
-ບໍ່ເຄີຍດີກວ່າເກົ່າເລີຍ.
+600
+01:10:16,383 --> 01:10:19,928
+Vamos. Ahórrame el rollo
+del Tío Tom, ¿te parece?
+ໄປ.ຊ່ວຍຂ້ອຍບົດຂຽນຂອງ
+ພໍ່ເຖົ້າໂຕມ,ເຈົ້າຄິດແນວໃດ?
 
-532
-00:34:56,300 --> 00:34:58,300
-[MERCURY]
-Deacon?
-ເຈົ້າຫນ້າທີ່ບໍ?
+601
+01:10:20,095 --> 01:10:23,182
+No puedes seguir negando lo que eres.
+ເຈົ້າບໍ່ສາມາດປະຕິເສດສິ່ງ
+ທີ່ເຈົ້າເປັນໄດ້ຕໍ່ໄປ.
 
-533
-00:34:58,800 --> 00:35:00,800
-[FROST]
-No longer.
-ບໍ່ອີກແລ້ວ.
+602
+01:10:23,974 --> 01:10:28,187
+¿Crees que los humanos aceptarán
+a un mestizo como tú? No pueden.
+ເຈົ້າຄິດວ່າມະນຸດຈະຍອມຮັບ
+ຄົນປະສົມຄືກັບເຈົ້າບໍ?
 
-534
-00:35:01,300 --> 00:35:03,300
-[BLADE]
-Frost!!!
-ຟຣັສຕ໌!!!
+603
+01:10:28,353 --> 01:10:30,480
+Te tienen miedo.
+ເຈົ້າຢ້ານກົວ.
 
-535
-00:35:03,800 --> 00:35:05,800
-[BLADE]
-Who dies first?
-ໃຜຈະຕາຍກ່ອນ?
+604
+01:10:30,647 --> 01:10:33,358
+Y deberían. Eres un animal.
+ເຈົ້າຄວນເປັນສັດ.
 
-536
-00:35:06,300 --> 00:35:08,300
-[FROST]
-Take him.
-ເອົາລາວໄປ.
+605
+01:10:33,525 --> 01:10:35,360
+Un puto maniaco.
+ຄົນໂຊກຮ້າຍ.
 
-537
-00:35:08,800 --> 00:35:14,400
-[QUINN]
-Grew another hand for you sweetmeat --  -- and now I'm gonna kill you with it.
-ຂ້ອຍໄດ້ປູກມືອີກຫນຶ່ງ ສໍາ ລັບເຈົ້າຊີ້ນຫວານ
-- - ແລະດຽວນີ້ຂ້ອຍຈະຂ້າເຈົ້າດ້ວຍມັນ.
+606
+01:10:39,156 --> 01:10:42,242
+Mírales. Son ganado.
+ມິຣາເລສ. ລູກຊາຍການາດາ.
 
-538
-00:35:14,900 --> 00:35:18,750
-[BLADE]
-Let's see if you can grow a new one of these!
-ມາເບິ່ງວ່າເຈົ້າສາມາດປູກສິ່ງນີ້ໄດ້ບໍ!
+607
+01:10:42,409 --> 01:10:44,244
+Trozos de carne.
+ກະດານຊີ້ນ.
 
-539
-00:35:19,250 --> 00:35:21,250
-[BLADE]
-Next?
-ຕໍ່ໄປແມ່ນໄງ?
+608
+01:10:44,411 --> 01:10:47,206
+¿Qué importa cómo acabe su mundo?
+ມັນສໍາຄັນຫຍັງວ່າໂລກຈະສິ້ນສຸດລົງແນວໃດ?
 
-540
-00:35:21,750 --> 00:35:24,200
-[MERCURY]
-Have a taste of your own medicine!
-ດື່ມຢາຂອງທ່ານເອງ!
+609
+01:10:47,372 --> 01:10:51,543
+Plagas, guerras, hambre.
+ໂຣກຮ້າຍ, ສົງຄາມ, ແຮມເບີ.
 
-541
-00:35:24,700 --> 00:35:26,700
-[FROST]
-Enough!!!
-ພຽງພໍແລ້ວ!!!
+610
+01:10:51,627 --> 01:10:54,922
+La moralidad
+no encaja en su modo de vida.
+ຄວາມຈິດໃຈບໍ່ເໝາະສົມກັບ
+ວິທີການດໍາລົງຊີວິດຂອງພວກເຂົາ.
 
-542
-00:35:27,200 --> 00:35:33,200
-[FROST]
-You're too late, Blade. I'm already changing. Don't you see? The Sleeper has awakened. I'm not just Frost anymore. I'm becoming a god now, blood incarnate.
-ເຈົ້າຊ້າເກີນໄປ, ບເລດ. ຂ້ອຍ ກໍາ ລັງປ່ຽນແປງແລ້ວ. ເຈົ້າບໍ່ເຫັນບໍ? ຜູ້ນອນໄດ້ຕື່ນຕົວແລ້ວ
-. ຂ້ອຍບໍ່ແມ່ນພຽງແຕ່ຟຣັສຕ໌ອີກຕໍ່ໄປ. ຂ້ອຍກາຍເປັນພະເຈົ້າດຽວນີ້, ເລືອດເປັນຕົວຈິງ.
+611
+01:10:55,005 --> 01:11:00,010
+Nosotros venimos de una selección
+natural, tío. La nueva raza.
+ພວກເຮົາມາຈາກການເລືອກທໍາມະ
+ຊາດ,ພໍ່ເຖົ້າ.ເຊື້ອສາຍໃໝ່.
 
-543
-00:35:33,700 --> 00:35:36,850
-[VANESSA]
-Did you think I'd forgotten you, you little whore?
-ເຈົ້າຄິດວ່າຂ້ອຍລືມເຈົ້າແລ້ວບໍ, ເຈົ້າຢອກຊື່ໆນ້ອຍ?
+612
+01:11:00,719 --> 01:11:03,138
+Creo que se está corriendo el rímel.
+ຂ້ອຍຄິດວ່າສາຍໄຟກໍາລັງແລ່ນຢູ່.
 
-544
-00:35:37,350 --> 00:35:39,350
-[FROST]
-You can't hurt me anymore.
-ເຈົ້າບໍ່ສາມາດເຮັດໃຫ້ຂ້ອຍເຈັບປວດອີກຕໍ່ໄປໄດ້.
+613
+01:11:10,521 --> 01:11:14,316
+Te estoy ofreciendo una tregua.
+Te quiero con nosotros.
+ຂ້ອຍກໍາລັງສະເໜີສັນຍາສະຫງົບໃຫ້ເຈົ້າ
+.ຂ້ອຍຢາກໃຫ້ເຈົ້າຢູ່ກັບພວກເຮົາ.
 
-545
-00:35:39,850 --> 00:35:41,850
-[BLADE]
-Where are you?!
-ເຈົ້າຢູ່ໃສ?!
+614
+01:11:14,483 --> 01:11:17,236
+¿Me tomas por idiota?
+ຂ້ອຍເປັນຄົນໂງ່ບໍ?
 
-546
-00:35:42,350 --> 00:35:44,350
-[FROST]
-Everywhere.
-ທຸກບ່ອນ.
+615
+01:11:18,070 --> 01:11:19,905
+"Los Espíritus de los Doce...
+ພວກຈິດວິນຍານຂອງສິບສອງຄົນ...
 
-547
-00:35:44,850 --> 00:35:47,650
-[FROST]
-You want my blood so much?! Take it!
-ເຈົ້າຢາກເລືອດຂອງຂ້ອຍຫຼາຍປານໃດ?! ເອົາມັນ!
+616
+01:11:20,364 --> 01:11:23,575
+...despertarán a La Magra".
+... ພວກເຂົາຈະຕື່ນຂຶ້ນ La Magra.
 
-548
-00:35:48,150 --> 00:35:54,150
-[FROST]
-I was wrong about you, Blade. You were never one of us. You're a traitor to your race.
-ຂ້ອຍຜິດກ່ຽວກັບເຈົ້າ, ບເລດ. ເຈົ້າບໍ່ເຄີຍເປັນຄົນ
-ຫນຶ່ງ ໃນພວກເຮົາ. ເຈົ້າເປັນຜູ້ປະຫມາດເຊື້ອຊາດຂອງທ່ານ.
+617
+01:11:25,118 --> 01:11:26,912
+Conoces al Dios de la Sangre.
+ເຈົ້າຮູ້ຈັກພຣະເຈົ້າຂອງເລືອດ.
 
-549
-00:35:54,650 --> 00:35:56,650
-[KAREN]
-Get away from him!
-ອອກຈາກລາວ!
+618
+01:11:26,995 --> 01:11:29,331
+Frost...
+Frost...
 
-550
-00:35:57,150 --> 00:35:59,150
-[KAREN]
-Blade!
-ກະດານ!
+619
+01:11:29,748 --> 01:11:32,334
+...para mí, no eres más...
+... ສໍາ ລັບຂ້ອຍ, ບໍ່ມີເຈົ້າອີກ...
 
-551
-00:35:59,650 --> 00:36:02,800
-[BLADE]
-Guess you're not quite as invulnerable as you thought.
-ຂ້ອຍຄິດວ່າເຈົ້າບໍ່ແມ່ນຄົນບໍ່ສາມາດໂຊກຮ້າຍໄດ້ເທົ່າທີ່ເຈົ້າຄິດ.
+620
+01:11:32,501 --> 01:11:35,337
+...que otro vampiro muerto.
+...ວ່າແວມປີອີກຄົນໜຶ່ງຕາຍແລ້ວ.
 
-552
-00:36:03,300 --> 00:36:09,300
-[FROST]
-You're wrong -- a few minutes more, and my transition will be complete. Even your sword won't be able to affect me then.
-ເຈົ້າຜິດ - ອີກສອງສາມນາທີ, ແລະການປ່ຽນແປງຂອງຂ້ອຍຈະ ສໍາ ເລັດຮູບ.
-ເຖິງແມ່ນວ່າກະທູ້ຂອງທ່ານຈະບໍ່ສາມາດສົ່ງຜົນກະທົບຂ້ອຍໃນເວລານັ້ນ.
+621
+01:11:35,420 --> 01:11:38,131
+Eres un idiota, ¿lo sabías?
+ເຈົ້າເປັນຄົນໂງ່, ເຈົ້າຮູ້ບໍ?
 
-553
-00:36:09,800 --> 00:36:12,250
-[BLADE]
-You don't have a few minutes, Frost.
-ເຈົ້າບໍ່ມີເວລາສອງສາມນາທີ, ຟຣັສຕ໌.
+622
+01:11:38,298 --> 01:11:40,592
+Vengo a ofrecerte una solución...
+ຂ້ອຍມາສະເໜີວິທີແກ້ໄຂ...
 
-554
-00:36:12,750 --> 00:36:17,650
-[FROST]
-Just as I thought. Still chained to your mother's breast after all these years.
-ຄືກັບທີ່ຂ້ອຍຄິດ. ຍັງຕິດພັນກັບທ້ອງຂອງແມ່ຂອງທ່ານຫຼັງຈາກຫຼາຍປີນີ້.
+623
+01:11:40,759 --> 01:11:43,929
+...y tú vas y me escupes a la cara.
+ແລະເຈົ້າຈະໄປແລະຂ້ອຍ Escupes a la cara.
 
-555
-00:36:18,150 --> 00:36:20,150
-[FROST]
-You're too human, Blade.
-ເຈົ້າເປັນມະນຸດເກີນໄປ, ບເລດ.
+624
+01:11:44,763 --> 01:11:46,557
+Cuidado.
+ລະມັດລະວັງ.
 
-556
-00:36:20,650 --> 00:36:23,800
-[BLADE]
-It's because I'm human that I can do this.
-ມັນເປັນຍ້ອນວ່າຂ້ອຍເປັນມະນຸດທີ່ຂ້ອຍສາມາດເຮັດສິ່ງນີ້ໄດ້.
+625
+01:11:50,310 --> 01:11:52,563
+¿Y a mí qué me importa?
+ແລະຂ້ອຍເປັນຫຍັງຂ້ອຍສົນໃຈ?
 
-557
-00:36:24,300 --> 00:36:26,300
-[KAREN]
-Blade?
-ກະດານ?
+626
+01:11:52,729 --> 01:11:56,775
+No son más que ganado,
+como tú has dicho.
+ບໍ່ມີລູກຊາຍຫຼາຍກວ່າການຊະນະ
+,ດັ່ງທີ່ທ່ານໄດ້ເວົ້າແລ້ວ.
 
-558
-00:36:26,800 --> 00:36:32,750
-[KAREN]
-I never imagined I'd be so happy to see the sun rise --  It's over, isn't it?
-ຂ້ອຍບໍ່ເຄີຍຄິດວ່າຂ້ອຍຈະມີຄວາມສຸກຫຼາຍທີ່ຈະເຫັນແສງຕາເວັນຂຶ້ນ
-- ມັນສິ້ນສຸດລົງແລ້ວ, ແມ່ນບໍ?
+627
+01:11:57,359 --> 01:12:00,529
+Si quieres optar
+por el camino difícil, tú mismo.
+ຖ້າເຈົ້າຢາກເລືອກທາງ
+ທີ່ຫຍຸ້ງຍາກ,ເຈົ້າເອງ.
 
-559
-00:36:33,250 --> 00:36:35,350
-[BLADE]
-For them. But for me --
-ສໍາລັບພວກເຂົາ. ແຕ່ສໍາລັບຂ້ອຍ -
+628
+01:12:00,696 --> 01:12:02,948
+Pero te prometo
+que cuando esto haya acabado...
+ແຕ່ຂ້ອຍສັນຍາວ່າເມື່ອ
+ສິ່ງນີ້ສິ້ນສຸດລົງ...
 
-560
-00:36:35,850 --> 00:36:37,950
-[BLADE]
-I feel like it's finally beginning.
-ຂ້ອຍຮູ້ສຶກວ່າມັນ ກໍາ ລັງເລີ່ມຕົ້ນຢ່າງສຸດທ້າຍ.
+629
+01:12:03,115 --> 01:12:06,618
+...desearás no haber salido
+del útero de tu madre.
+ເຈົ້າຈະຢາກບໍ່ໃຫ້ອອກຈາກທ້ອງແມ່ຂອງເຈົ້າ.
+
+630
+01:12:40,694 --> 01:12:41,945
+Vete a casa.
+ເອົາເຮືອນໄປ.
+
+631
+01:12:45,866 --> 01:12:48,410
+Es sencillo.
+¿Por qué beben sangre los vampiros?
+ມັນງ່າຍດາຍ.ເປັນຫຍັງ
+ແວມປີຣ໌ຈຶ່ງດື່ມເລືອດ?
+
+632
+01:12:48,577 --> 01:12:51,205
+Porque su propia sangre
+no retiene la hemoglobina.
+ເພາະເລືອດຂອງຕົນເອງບໍ່ສາມາດ
+ຮັກສາ hemoglobin ໄດ້.
+
+633
+01:12:51,288 --> 01:12:54,333
+Exacto. Es un defecto genético,
+como la anemia hemolítica.
+ແມ່ນແລ້ວ.ມັນເປັນຂໍ້ບົກຜ່ອງ
+ທາງພັນທຸກໍາ,ຄືກັບໂຣກເລືອດຂາດ.
+
+634
+01:12:54,499 --> 01:12:57,085
+Hay que tratarlo con terapia genética.
+ຂ້ອຍຕ້ອງປິ່ນປົວມັນ
+ດ້ວຍການຮັກສາເຊື້ອຊາດ.
+
+635
+01:12:57,169 --> 01:13:00,839
+Rehacer el ADN de la víctima
+con un retrovirus.
+ການຟື້ນຟູ DNA ຂອງຜູ້
+ເຄາະຮ້າຍດ້ວຍໄວຣັດ retro .
+
+636
+01:13:01,006 --> 01:13:03,091
+Lo están probando
+en la anemia falciforme.
+ພວກເຂົາ ກໍາ ລັງທົດສອບໃນໂຣກເລືອດຕໍ່າ.
+
+637
+01:13:03,258 --> 01:13:04,468
+¿Crees que es seguro?
+ເຈົ້າຄິດວ່າມັນປອດໄພບໍ?
+
+638
+01:13:04,635 --> 01:13:08,847
+No tengo ni idea,
+pero no tengo elección, ¿no?
+ຂ້ອຍບໍ່ຮູ້ເລີຍ,ແຕ່ຂ້ອຍ
+ບໍ່ມີທາງເລືອກ,ແມ່ນບໍ?
+
+639
+01:13:11,016 --> 01:13:12,768
+¿Crees que podría funcionar?
+ເຈົ້າຄິດວ່າມັນສາມາດເຮັດວຽກໄດ້ບໍ?
+
+640
+01:13:12,851 --> 01:13:16,730
+¿Conmigo? Sí.
+ກັບຂ້ອຍບໍ? ແມ່ນແລ້ວ.
+
+641
+01:13:16,980 --> 01:13:18,815
+Con Blade, no estoy tan segura.
+ກັບບເລດ, ຂ້ອຍບໍ່ແນ່ໃຈຫຼາຍ.
+
+642
+01:13:18,982 --> 01:13:22,402
+Él no se convirtió en vampiro
+por un mordisco, como yo.
+ລາວບໍ່ໄດ້ກາຍເປັນແວມປີ
+ຍ້ອນໂມດດິສໂກ,ຄືກັບຂ້ອຍ.
+
+643
+01:13:22,569 --> 01:13:26,323
+Él nació así. Forma parte de su ADN.
+ລາວເກີດແບບນີ້.ເປັນສ່ວນ
+ໜຶ່ງຂອງ DNA ຂອງລາວ.
+
+644
+01:13:27,449 --> 01:13:30,953
+Creo que podré curar su sed,
+pero requerirá tiempo.
+ຂ້ອຍຄິດວ່າຂ້ອຍສາມາດປິ່ນປົວຄວາມຢາກ
+ຂອງທ່ານໄດ້,ແຕ່ມັນຈະຕ້ອງການເວລາ.
+
+645
+01:13:31,119 --> 01:13:33,539
+No lo tenemos.
+ບໍ່ວ່າພວກເຮົາມີຫຍັງ.
+
+646
+01:13:33,622 --> 01:13:36,458
+Ya viste lo que había en ese disco.
+ເຈົ້າເຫັນແລ້ວວ່າມີຫຍັງຢູ່ໃນດິສໂກນັ້ນ.
+
+647
+01:13:41,129 --> 01:13:43,006
+Maldita sea.
+ທະເລມາລດິຕ້າ.
+
+648
+01:13:44,007 --> 01:13:45,592
+Fuera de aquí.
+ອອກຈາກບ່ອນນີ້.
+
+649
+01:14:10,701 --> 01:14:12,202
+He dicho que te largues.
+ລາວບອກວ່າລາວຈະປະຖິ້ມເຈົ້າ.
+
+650
+01:14:18,333 --> 01:14:21,712
+Bonito lugar.
+Nos llevó un tiempo encontrarlo.
+ສະຖານທີ່ທີ່ສວຍງາມ.ພວກເຮົາ
+ໃຊ້ເວລາເພື່ອພົບກັບລາວ.
+
+651
+01:14:29,928 --> 01:14:32,848
+- Muérdeme y acaba de una vez.
+- No te voy a morder.
+- ຂ້າຂ້ອຍແລະສິ້ນສຸດລົງທັນທີ.
+- ບໍ່, ຂ້ອຍຢາກເປັນຜູ້ຂ້າ.
+
+652
+01:14:46,361 --> 01:14:48,405
+Todo tuyo.
+ທຸກຢ່າງຂອງເຈົ້າ.
+
+653
+01:15:00,209 --> 01:15:02,085
+¿Whistler?
+ວີສເລີ?
+
+654
+01:15:41,792 --> 01:15:43,085
+¡REPRODÚCEME!
+ຜະລິດຄືນ!
+
+655
+01:16:09,111 --> 01:16:10,904
+Frost se la ha llevado.
+Frost ໄດ້ພາໄປ.
+
+656
+01:16:18,745 --> 01:16:20,914
+Escúchame.
+ຟັງຂ້ອຍ.
+
+657
+01:16:23,292 --> 01:16:25,419
+El disco...
+ດິສໂກ...
+
+658
+01:16:25,669 --> 01:16:27,212
+...lo hemos descodificado.
+... ພວກເຮົາໄດ້ decoded ມັນ.
+
+659
+01:16:27,754 --> 01:16:34,011
+Frost está intentando desencadenar
+un puto apocalipsis vampírico.
+ຟຣັສຕ໌ກໍາລັງພະຍາຍາມເຮັດໃຫ້ເກີດ
+ອຸບັດຕິເຫດແວມປີຣິກໂຊກຮ້າຍ.
+
+660
+01:16:36,221 --> 01:16:38,557
+Hay una especie de...
+ມີຊະນິດໜຶ່ງຂອງ...
+
+661
+01:16:38,849 --> 01:16:42,728
+...dios vampírico
+al que está intentando resucitar.
+ເຈົ້າແວມປີຣີທີ່ເຈົ້າ
+ກໍາລັງພະຍາຍາມຟື້ນຟູ.
+
+662
+01:16:43,520 --> 01:16:44,938
+La Magra.
+La Magra.
+
+663
+01:16:48,525 --> 01:16:50,944
+Tú eres la clave.
+ເຈົ້າເປັນກະແຈ.
+
+664
+01:16:51,862 --> 01:16:53,405
+Necesita tu sangre.
+ຂ້ອຍຕ້ອງການເລືອດຂອງເຈົ້າ.
+
+665
+01:16:57,201 --> 01:16:59,995
+La sangre del que conoce al sol.
+ເລືອດຂອງຜູ້ທີ່ຮູ້ຈັກແສງຕາເວັນ.
+
+666
+01:17:02,289 --> 01:17:04,499
+Tú eres el elegido.
+ເຈົ້າເປັນຄົນທີ່ຖືກເລືອກ.
+
+667
+01:17:08,003 --> 01:17:10,464
+Escúchame, Blade.
+ຟັງຂ້ອຍ, ບເລດ.
+
+668
+01:17:11,298 --> 01:17:14,593
+- No puedes ir a por él.
+- Y una mierda.
+- ເຈົ້າບໍ່ສາມາດໄປຫາລາວໄດ້.
+- ເຈົ້າເປັນຄົນໂຊກຮ້າຍ.
+
+669
+01:17:14,760 --> 01:17:20,057
+Si Frost te pone las manos encima,
+se acabó.
+ຖ້າຟຣັສຕ໌ວາງມືໃສ່
+ເຈົ້າ,ມັນຈະສິ້ນສຸດລົງ.
+
+670
+01:17:22,226 --> 01:17:25,395
+Habrá ejércitos de esos cabrones.
+ຈະມີກອງທັບຂອງຄົນໂຊກຮ້າຍເຫຼົ່ານັ້ນ.
+
+671
+01:17:27,731 --> 01:17:29,858
+Mierda.
+ມິຣດ້າ.
+
+672
+01:17:33,779 --> 01:17:35,447
+Tendrás que acabar conmigo.
+ເຈົ້າຕ້ອງສິ້ນສຸດກັບຂ້ອຍ.
+
+673
+01:17:37,157 --> 01:17:39,785
+No quiero convertirme en uno de ellos.
+ຂ້ອຍບໍ່ຢາກກາຍເປັນຄົນໜຶ່ງຂອງພວກເຂົາ.
+
+674
+01:17:41,119 --> 01:17:42,663
+Puedo curarte las heridas.
+ຂ້ອຍສາມາດປິ່ນປົວບາດເຈັບໄດ້.
+
+675
+01:17:44,498 --> 01:17:46,041
+Es demasiado tarde.
+ມັນຊ້າເກີນໄປ.
+
+676
+01:17:47,000 --> 01:17:49,378
+Ya lo sabes.
+ເຈົ້າຮູ້ແລ້ວ.
+
+677
+01:17:52,089 --> 01:17:54,216
+Dame tu pistola.
+ແມ່ຍິງປືນຂອງທ່ານ.
+
+678
+01:17:56,134 --> 01:17:57,427
+No.
+ບໍ່.
+
+679
+01:17:58,846 --> 01:18:01,139
+Dame tu puta pistola.
+ແມ່ຍິງປືນຂອງທ່ານ.
+
+680
+01:18:26,164 --> 01:18:29,918
+Y ahora lárgate, hijo de puta.
+ແລະດຽວນີ້ອອກໄປ, ລູກໂຊກຮ້າຍ.
+
+681
+01:18:34,798 --> 01:18:37,092
+Lárgate de una puta vez.
+ອອກໄປອີກຄັ້ງ.
+
+682
+01:18:58,113 --> 01:19:01,825
+Cuando veas esto,
+tu amigo Whistler estará muerto.
+ເມື່ອເຈົ້າເຫັນສິ່ງນີ້,ເພື່ອນ
+ຂອງເຈົ້າວີສລເຕີຈະຕາຍແລ້ວ.
+
+683
+01:19:01,992 --> 01:19:05,204
+Por si te hace sentir mejor,
+se defendió muy bien.
+ຖ້າເຈົ້າຮູ້ສຶກດີຂຶ້ນ,ຂ້ອຍ
+ປ້ອງກັນຕົວເອງໄດ້ດີຫຼາຍ.
+
+684
+01:19:05,495 --> 01:19:08,540
+Nos encontrarás
+en las Torres Edgewood.
+ພວກເຮົາຈະພົບກັນໃນ Torres Edgewood.
+
+685
+01:20:46,180 --> 01:20:48,599
+Pareces un poco tensa.
+ເບິ່ງຄືວ່າມີຄວາມເຄັ່ງຕຶງເລັກນ້ອຍ.
+
+686
+01:20:48,765 --> 01:20:51,977
+Incluso reprimida,
+como si quisieras liberarte de algo.
+ເຖິງແມ່ນວ່າຖືກກົດດັນ,ຄືກັບວ່າ
+ເຈົ້າຢາກປ່ອຍຕົວຈາກບາງສິ່ງບາງຢ່າງ.
+
+687
+01:20:53,604 --> 01:20:58,817
+¿No?
+¿Blade no... se ha liado contigo?
+ບໍ່? ກະດານບໍ່... ໄດ້ຕິດຕໍ່ກັບເຈົ້າບໍ?
+
+688
+01:21:00,110 --> 01:21:02,070
+No sé, es que...
+ບໍ່ຮູ້, ມັນແມ່ນວ່າ...
+
+689
+01:21:02,613 --> 01:21:05,282
+Veo a una mujer tan preciosa.
+ຂ້ອຍເຫັນແມ່ຍິງທີ່ສວຍງາມຫຼາຍ.
+
+690
+01:21:06,200 --> 01:21:08,452
+Con una piel tan bonita.
+ດ້ວຍຜິວໜັງທີ່ສວຍງາມຫຼາຍ.
+
+691
+01:21:10,329 --> 01:21:12,122
+Y me gustaría verte feliz, nada más.
+ແລະຂ້ອຍຢາກເຫັນເຈົ້າ
+ມີຄວາມສຸກ,ບໍ່ມີຫຍັງອີກ.
+
+692
+01:21:12,206 --> 01:21:16,335
+¿Es ahora
+cuando te ofreces a convertirme?
+ມັນເປັນເວລານີ້ທີ່ເຈົ້າ
+ສະເໜີໃຫ້ປ່ຽນໃຈຂ້ອຍບໍ?
+
+693
+01:21:16,960 --> 01:21:19,505
+O eso o una bolsa para cadáveres.
+ໂອ້ ນັ້ນແມ່ນກະເປົາ ສໍາ ລັບສົບ.
+
+694
+01:21:20,047 --> 01:21:22,799
+Adelante. Muérdeme.
+ກ່ອນ. Muérdeme.
+
+695
+01:21:23,675 --> 01:21:25,802
+Sé cómo curarme.
+ຂ້ອຍຮູ້ວິທີປິ່ນປົວຂ້ອຍເອງ.
+
+696
+01:21:25,886 --> 01:21:28,972
+Ya lo hice antes, y volveré a hacerlo.
+ເຈົ້າເຄີຍເຮັດມັນກ່ອນ
+ແລ້ວ,ເຈົ້າຈະເຮັດອີກຄັ້ງ.
+
+697
+01:21:29,223 --> 01:21:33,227
+- No hay cura, monada.
+- La hay si te han mordido.
+- ບໍ່ມີການປິ່ນປົວຫຍ້າ, ໂມນາດາ.
+- ຖ້າເຈົ້າຖືກກັດ.
+
+698
+01:21:33,602 --> 01:21:35,812
+Si antes fuiste humano.
+ຖ້າກ່ອນເຈົ້າເປັນມະນຸດ.
+
+699
+01:21:41,318 --> 01:21:43,820
+¿Cómo te hiciste
+esa cicatriz, Deacon?
+ເຈົ້າເຮັດໃຫ້ບາດແຜ
+ນັ້ນເປັນແນວໃດ, Deacon ?
+
+700
+01:21:43,987 --> 01:21:47,074
+Quien nace vampiro es capaz
+de regenerarse de nacimiento.
+ແວມປີຣ໌ທີ່ເກີດມາສາມາດ
+ຟື້ນຕົວໄດ້ຈາກການເກີດ.
+
+701
+01:21:47,241 --> 01:21:50,202
+Debiste hacerte la cicatriz
+antes de convertirte.
+ເຈົ້າຕ້ອງເຮັດແຜກ່ອນ
+ທີ່ຈະປ່ຽນໃຈເຫລື້ອມໃສ.
+
+702
+01:21:51,119 --> 01:21:52,788
+¿No es cierto?
+ມັນບໍ່ແມ່ນຄວາມຈິງບໍ?
+
+703
+01:21:52,955 --> 01:21:55,499
+Los vampiros como tú
+no sois una especie.
+ພວກແວມປີຣ໌ຄືກັບເຈົ້າບໍ່ແມ່ນຊະນິດໜຶ່ງ.
+
+704
+01:21:55,666 --> 01:21:59,920
+Solo estáis infectados por un virus,
+como una enfermedad venérea...
+ພຽງແຕ່ຕິດເຊື້ອໄວຣັສ,
+ເຊັ່ນວ່າພະຍາດໄວຣັດ...
+
+705
+01:22:00,087 --> 01:22:02,214
+Yo te diré lo que somos, bonita.
+ຂ້ອຍຈະບອກເຈົ້າວ່າພວກເຮົາເປັນຫຍັງ, ງາມ.
+
+706
+01:22:02,381 --> 01:22:05,843
+Somos la cima de la cadena alimenticia.
+El Dios de la Sangre llegará...
+ພວກເຮົາຢູ່ເທິງສຸດຂອງຕ່ອງໂສ້ອາ
+ຫານ.ພຣະເຈົ້າຂອງເລືອດຈະມາຮອດ...
+
+707
+01:22:06,009 --> 01:22:09,763
+...y después de esta noche,
+los tuyos pasaréis a la historia.
+ແລະຫຼັງຈາກຄືນນີ້,ຄົນຂອງເຈົ້າ
+ຈະຜ່ານໄປສູ່ປະຫວັດສາດ.
+
+708
+01:22:10,013 --> 01:22:13,642
+Es un huracán, un acto divino.
+ມັນເປັນເຮຣາການ, ການກະທໍາຂອງພຣະເຈົ້າ.
+
+709
+01:22:13,809 --> 01:22:16,311
+Todo el que atrape en su camino
+será convertido.
+ທຸກສິ່ງທຸກຢ່າງທີ່ຈັບໃນທາງ
+ຂອງລາວຈະຖືກປ່ຽນໃຈເຫລື້ອມໃສ.
+
+710
+01:22:18,438 --> 01:22:20,274
+Todos los que has conocido...
+ທຸກຄົນທີ່ເຈົ້າຮູ້ຈັກ...
+
+711
+01:22:20,440 --> 01:22:23,735
+...todos aquellos
+a los que hayas amado.
+... ທຸກຄົນທີ່ເຈົ້າຮັກ.
+
+712
+01:22:23,902 --> 01:22:27,197
+Dará igual quién sea
+purasangre y quién no.
+ມັນຈະເໝືອນກັນວ່າໃຜເປັນເລືອດ
+ບໍລິສຸດແລະໃຜບໍ່ແມ່ນ.
+
+713
+01:22:27,906 --> 01:22:30,826
+¿Cómo vas a curar al mundo entero?
+ເຈົ້າຈະປິ່ນປົວໂລກທັງ ໝົດ ແນວໃດ?
+
+714
+01:22:36,540 --> 01:22:38,876
+Y la sangre de Blade es la clave.
+ແລະເລືອດຂອງບເລດແມ່ນກະແຈ.
+
+715
+01:22:39,209 --> 01:22:40,627
+Tenemos un intruso.
+ພວກເຮົາມີຄົນເຂົ້າມາ.
+
+716
+01:23:10,073 --> 01:23:12,326
+No lo entiendes.
+Ese tío es la bomba.
+ເຈົ້າບໍ່ເຂົ້າໃຈມັນ.
+ພໍ່ເຖົ້າຄົນນັ້ນແມ່ນລະເບີດ.
+
+717
+01:23:12,492 --> 01:23:14,453
+Tenía 20 tíos a su alrededor...
+Yo lo vi.
+ມີຄົນ 20 ຄົນຢູ່ອ້ອມຂ້າງ
+ເຈົ້າ...ຂ້ອຍເຫັນມັນ.
+
+718
+01:23:14,703 --> 01:23:17,372
+- Te lanza unos chismes...
+- Tiene una espada.
+- ຂ້ອຍຈະຖິ້ມຂ່າວລືບາງຢ່າງໃຫ້ເຈົ້າ...
+- ເຈົ້າມີກະທູ້.
+
+719
+01:23:17,539 --> 01:23:20,918
+Sí, la lanza al aire, y la vuelve
+a coger. ¡Cierra el puto pico!
+ແມ່ນແລ້ວ,ກະທູ້ໃນອາກາດ,ແລະມັນກັບ
+ຄືນໄປບ່ອນເປັນ coger .ປິດປິກໂກ້!
+
+720
+01:23:21,168 --> 01:23:23,170
+Aquí no hay entradas ni salidas.
+ບໍ່ມີທາງເຂົ້າແລະທາງອອກຢູ່ບ່ອນນີ້.
+
+721
+01:23:23,337 --> 01:23:25,589
+Conseguidlo, ¿vale?
+Es uno solo y va a pie.
+ມັນເປັນຄົນດຽວແລະໄປ pie.
+
+722
+01:23:29,343 --> 01:23:30,928
+¡Cogedle! ¡Cogedle! ¡Vamos!
+ໂກເກດ! ໂກເຈດ! ໄປ!
+
+723
+01:23:31,178 --> 01:23:32,429
+¡Es él, es él!
+ມັນເປັນລາວ, ມັນແມ່ນລາວ!
+
+724
+01:23:51,865 --> 01:23:53,534
+¿Por qué oigo disparos?
+ເປັນຫຍັງຂ້ອຍຈຶ່ງໄດ້ຍິນການຍິງ?
+
+725
+01:23:54,701 --> 01:23:57,663
+¿He dado la orden de disparar?
+Le necesito vivo.
+ລາວໄດ້ສັ່ງໃຫ້ຍິງບໍ?
+ຂ້ອຍຕ້ອງການລາວຢູ່ອາໄສ.
+
+726
+01:23:58,497 --> 01:24:00,249
+No.
+ບໍ່
+
+727
+01:24:02,125 --> 01:24:04,962
+Por favor. Yo solo trabajo para ellos.
+ກະລຸນາ.ຂ້ອຍເຮັດວຽກສໍ
+າລັບພວກເຂົາເທົ່ານັ້ນ.
+
+728
+01:24:07,589 --> 01:24:10,175
+- Joder. Cerradlo todo.
+- Sí, señor.
+- ໂຈເດີ. ປິດມັນທັງ ໝົດ.
+- ແມ່ນແລ້ວ, ທ້າວ.
+
+729
+01:25:57,908 --> 01:25:59,243
+¿Eric?
+ເອຣິກ?
+
+730
+01:26:10,921 --> 01:26:11,964
+Habías muerto.
+ເຈົ້າຕາຍແລ້ວ.
+
+731
+01:26:13,298 --> 01:26:17,052
+Resucité, Eric.
+Aquella misma noche.
+ການຟື້ນຟູຄືນ, ເອຣິກ. ຄືນດຽວກັນນີ້.
+
+732
+01:26:19,179 --> 01:26:22,641
+Y Deacon me recibió
+con los brazos abiertos.
+ເຈົ້າ Deacon ໄດ້ຕ້ອນຮັບ
+ຂ້ອຍດ້ວຍແຂນເປີດ.
+
+733
+01:26:38,407 --> 01:26:40,492
+Joder. Pensé que te alegrarías.
+ໂຈເດີ. ຂ້ອຍຄິດວ່າເຈົ້າຈະສຸກ.
+
+734
+01:26:42,578 --> 01:26:45,914
+Cuando por fin te reúnes con tu madre
+¿y reaccionas así?
+ເມື່ອເຈົ້າພົບກັບແມ່ຂອງເຈົ້າ
+ໃນທີ່ສຸດເຈົ້າຈະປະຕິກິລິຍາແບບນີ້ບໍ?
+
+735
+01:26:46,582 --> 01:26:48,375
+Blade, ríndete. Se acabó.
+ກະດານ, ເບິ່ງມັນ. ມັນສິ້ນສຸດລົງແລ້ວ.
+
+736
+01:26:49,042 --> 01:26:51,461
+Ella me pertenece.
+ເອລາເປັນຂອງຂ້ອຍ.
+
+737
+01:26:53,672 --> 01:26:54,965
+Borra esa cara de asombro.
+ໂບຣຣາ ຄົນໜ້າປະຫລາດໃຈນັ້ນ.
+
+738
+01:26:56,383 --> 01:26:59,761
+Llevas toda la vida buscando
+al vampiro que mordió a tu madre.
+ເຈົ້າໃຊ້ເວລາຕະຫຼອດຊີວິດຊອກຫາ
+ແວມປີຣ໌ທີ່ກັດແມ່ຂອງເຈົ້າ.
+
+739
+01:27:00,012 --> 01:27:01,847
+Bueno, aquí estoy.
+ດີ, ຂ້ອຍຢູ່ບ່ອນນີ້.
+
+740
+01:27:04,600 --> 01:27:07,936
+Nadie creyó que sobrevivirías
+a la muerte de tu madre.
+ບໍ່ມີໃຜເຊື່ອວ່າເຈົ້າຈະລອດຊີວິດ
+ຈາກຄວາມຕາຍຂອງແມ່ຂອງເຈົ້າ.
+
+741
+01:27:08,103 --> 01:27:10,898
+Pero lo hiciste, y aquí estamos...
+ແຕ່ເຈົ້າເຮັດແລ້ວ,ແລະ
+ພວກເຮົາຢູ່ບ່ອນນີ້...
+
+742
+01:27:11,148 --> 01:27:13,192
+...una gran familia feliz.
+ຄອບຄົວທີ່ສຸກໃຫຍ່.
+
+743
+01:27:25,162 --> 01:27:27,623
+Necesito mi suero.
+ຂ້ອຍຕ້ອງການໂຊຣູຂອງຂ້ອຍ.
+
+744
+01:27:29,458 --> 01:27:32,753
+Quizá si salgo de esta
+me someteré a tu milagrosa cura.
+ບາງທີຖ້າຂ້ອຍອອກຈາກສິ່ງນີ້ຂ້ອຍຈະ
+ຍອມຮັບການປິ່ນປົວມະຫັດສະຈັນຂອງທ່ານ.
+
+745
+01:27:32,920 --> 01:27:34,421
+Hay un inconveniente.
+ມີຄວາມບໍ່ສະດວກ.
+
+746
+01:27:38,926 --> 01:27:40,219
+Si funciona...
+ຖ້າມັນເຮັດວຽກ...
+
+747
+01:27:41,053 --> 01:27:45,891
+...perderás tu fuerza
+y tu capacidad para regenerarte.
+ເຈົ້າຈະສູນເສຍຄວາມເຂັ້ມແຂງແລະ
+ຄວາມສາມາດໃນການຟື້ນຟູຕົວເອງ.
+
+748
+01:27:46,433 --> 01:27:49,144
+Serás totalmente humano.
+ເຈົ້າຈະເປັນມະນຸດຢ່າງສົມບູນ.
+
+749
+01:28:26,557 --> 01:28:29,685
+Ven aquí. Levántate, maldita sea.
+ມາບ່ອນນີ້. ຍົກຂຶ້ນ, ທະເລທີ່ໂຊກຮ້າຍ.
+
+750
+01:28:50,956 --> 01:28:54,585
+Blade, Karen, me alegro
+de que hayáis venido.
+ບເລດ, ຄາເຣນ, ຂ້ອຍດີໃຈທີ່ເຈົ້າມາ.
+
+751
+01:28:54,751 --> 01:28:58,213
+Oye, tío. Gracias por las gafas.
+ໂອ້, ພໍ່ຕູ້. ຂອບໃຈ ສໍາ ລັບແວ່ນຕາ.
+
+752
+01:28:59,631 --> 01:29:03,927
+Nuestros ancestros llaman a este lugar
+el Templo de la Noche Eterna.
+ບັນພະບຸລຸດຂອງພວກເຮົາເອີ້ນ
+ບ່ອນນີ້ວ່າວັດແຫ່ງຄືນຖາວອນ.
+
+753
+01:29:06,763 --> 01:29:08,182
+Es bonito, ¿verdad?
+ມັນສວຍງາມ, ແມ່ນບໍ?
+
+754
+01:29:08,432 --> 01:29:11,894
+Por lo visto, estos genios
+olvidaron que existía.
+ເບິ່ງຄືວ່າ,ຈິນຕະນາການ
+ເຫຼົ່ານີ້ລືມວ່າມັນມີຢູ່.
+
+755
+01:29:12,060 --> 01:29:14,188
+Por suerte para nosotros...
+ໂຊກດີ ສໍາ ລັບພວກເຮົາ...
+
+756
+01:29:14,354 --> 01:29:18,984
+...soy lo que se podría llamar
+un estudioso de la historia.
+ຂ້ອຍເປັນສິ່ງທີ່ສາມາດເອີ້ນ
+ວ່ານັກສຶກສາປະຫວັດສາດ.
+
+757
+01:29:31,872 --> 01:29:33,749
+¿Por qué estamos aquí?
+ພວກເຮົາຢູ່ບ່ອນນີ້ເປັນຫຍັງ?
+
+758
+01:29:36,210 --> 01:29:39,588
+Este templo se construyó
+para un momento glorioso:
+ວັດນີ້ຖືກສ້າງຂຶ້ນເພື່ອ
+ຊ່ວງເວລາທີ່ສະຫງ່າລາສີ:
+
+759
+01:29:39,838 --> 01:29:44,051
+Esta noche,
+y para el Dios de la Sangre.
+ໃນຄືນນີ້, ເຈົ້າເປັນພະເຈົ້າຂອງເລືອດ.
+
+760
+01:29:51,934 --> 01:29:53,727
+Gracias.
+ຂອບໃຈ.
+
+761
+01:29:57,940 --> 01:30:00,484
+A ver tu espada.
+ເບິ່ງກະທູ້ຂອງທ່ານ.
+
+762
+01:30:04,821 --> 01:30:07,658
+Titanio, ¿verdad? ¿Grabada con ácido?
+ໄຕຕານິໂອ, ແມ່ນບໍ? ເຈົ້າຈັບອາຊິດບໍ?
+
+763
+01:30:10,202 --> 01:30:12,037
+Podría acostumbrarme a un arma así.
+ຂ້ອຍສາມາດໃຊ້ປືນແບບນີ້ໄດ້.
+
+764
+01:30:18,252 --> 01:30:21,755
+¿Qué? Pareces sorprendido.
+ຫຍັງ? ເບິ່ງຄືວ່າແປກໃຈ.
+
+765
+01:30:22,798 --> 01:30:25,634
+Te lo dije, Blade,
+lo sé todo sobre ti.
+ຂ້ອຍບອກເຈົ້າແລ້ວ,ບເລດ,ຂ້ອຍ
+ຮູ້ທຸກຢ່າງກ່ຽວກັບເຈົ້າ.
+
+766
+01:30:27,010 --> 01:30:28,136
+Extiende el brazo, Quinn.
+ຍືດແຂນອອກ, ຄວິນ.
+
+767
+01:30:28,387 --> 01:30:30,556
+¿Para qué?
+Ya los tengo mucho mejor.
+ເປັນຫຍັງ? ຂ້ອຍມີພວກມັນດີກວ່າເກົ່າ.
+
+768
+01:30:30,806 --> 01:30:34,059
+Extiende el brazo. Venga.
+ຍືດແຂນອອກ. ມາ.
+
+769
+01:30:36,854 --> 01:30:38,689
+Deac, yo...
+Deac, ເຈົ້າ...
+
+770
+01:30:43,360 --> 01:30:44,862
+Es broma.
+ມັນເປັນໂຊກຮ້າຍ.
+
+771
+01:30:47,197 --> 01:30:50,158
+Era una broma, tío.
+Era una puta broma.
+ມັນເປັນໂຊກຮ້າຍ,ພໍ່ເຖົ້າ
+.ມັນແມ່ນໂຊຄຮ້າຍ.
+
+772
+01:30:50,409 --> 01:30:52,077
+Blade.
+ກະດານ.
+
+773
+01:30:52,870 --> 01:30:54,955
+- Blade.
+- No puede oírte, cariño.
+- ກະດານ.
+- ຂ້ອຍບໍ່ສາມາດຍິນເຈົ້າໄດ້, ຄົນຮັກ.
+
+774
+01:30:55,122 --> 01:30:57,583
+Ahora le domina la sed.
+ດຽວນີ້ລາວປົກຄອງຄວາມຢາກ.
+
+775
+01:31:03,297 --> 01:31:04,423
+¿Qué tenemos aquí?
+ພວກເຮົາມີຫຍັງຢູ່ບ່ອນນີ້?
+
+776
+01:31:05,257 --> 01:31:07,134
+Tu valioso suero.
+ຊູເຣໂກ້ທີ່ມີຄຸນຄ່າຂອງທ່ານ.
+
+777
+01:31:09,386 --> 01:31:13,849
+¿Cuánto hace que no te chutas?
+¿Doce, tres horas, tal vez?
+ເຈົ້າບໍ່ໄດ້ຕົກດົນປານໃດ?
+ສິບສອງ,ສາມຊົ່ວໂມງ,ບາງທີ?
+
+778
+01:31:14,349 --> 01:31:17,352
+Seguro que te mueres
+por un trago, ¿verdad?
+ແນ່ນອນວ່າເຈົ້າຈະຕາຍຈາກດື່ມ, ແມ່ນບໍ?
+
+779
+01:31:20,230 --> 01:31:22,316
+¿Cómo te sientes?
+ເຈົ້າຮູ້ສຶກແນວໃດ?
+
+780
+01:31:23,233 --> 01:31:24,985
+¿Te arde la sangre?
+ເຈົ້າເຜົາໄໝ້ເລືອດບໍ?
+
+781
+01:31:25,736 --> 01:31:27,738
+Pruébalo.
+Pruébalo.
+
+782
+01:31:28,071 --> 01:31:30,199
+Puede que te guste.
+ເຈົ້າອາດຈະມັກ.
+
+783
+01:31:30,449 --> 01:31:32,826
+Gracias, pero prefiero
+la sangre de verdad.
+ຂອບໃຈ, ແຕ່ຂ້ອຍມັກເລືອດທີ່ແທ້ຈິງ.
+
+784
+01:31:33,911 --> 01:31:38,332
+En todo caso, creo
+que no volverás a necesitarlo.
+ໃນທຸກກໍລະນີ,ຂ້ອຍຄິດວ່າເຈົ້າ
+ຈະບໍ່ຕ້ອງການມັນອີກເທື່ອໜຶ່ງ.
+
+785
+01:31:45,130 --> 01:31:49,051
+Es una lástima, ¿no?
+Ver en lo que te has convertido...
+ມັນເປັນຄວາມໂຊກຮ້າຍ,ແມ່ນບໍ?
+ເບິ່ງວ່າເຈົ້າໄດ້ກາຍເປັນຫຍັງ...
+
+786
+01:31:50,010 --> 01:31:51,845
+...y lo que deberías haber sido.
+ແລະສິ່ງທີ່ເຈົ້າຄວນເປັນ.
+
+787
+01:31:52,304 --> 01:31:55,724
+Aunque no te culpo.
+Con todo lo que te ha pasado...
+ເຖິງແມ່ນວ່າຂ້ອຍຈະບໍ່ກ່າວໂທດເຈົ້າ.
+ເຖິງແມ່ນວ່າສິ່ງທັງໝົດທີ່ເກີດຂຶ້ນກັບເຈົ້າ...
+
+788
+01:31:55,891 --> 01:31:58,936
+...tu lado humano es
+lo que te ha hecho ser débil.
+...ດ້ານມະນຸດຂອງທ່ານແມ່ນ
+ສິ່ງທີ່ເຮັດໃຫ້ທ່ານອ່ອນແອ.
+
+789
+01:31:59,102 --> 01:32:03,148
+- Deberías obedecer a tu sangre.
+- Di lo que quieras...
+- ເຈົ້າຄວນປະຕິບັດຕາມເລືອດຂອງທ່ານ.
+- ເຈົ້າຢາກຫຍັງ...
+
+790
+01:32:03,315 --> 01:32:06,068
+...pero te aseguro
+que morirás cuando amanezca.
+ແຕ່ຂ້ອຍຮັບປະກັນເຈົ້າວ່າ
+ເຈົ້າຈະຕາຍເມື່ອເຈັບປວດ.
+
+791
+01:32:10,697 --> 01:32:11,990
+Lleváoslo de aquí.
+ເອົາມັນອອກຈາກບ່ອນນີ້.
+
+792
+01:32:16,495 --> 01:32:18,872
+Y llevaos a estos capullos abajo.
+Ahora.
+ເຈົ້າຈະພາພວກນີ້ໄປຂ້າງລຸ່ມ. ດຽວນີ້.
+
+793
+01:32:19,039 --> 01:32:22,376
+- Venga. Vamos. Vamos.
+- En marcha.
+- ມາ. ມາ. ໄປ.
+- ເດີນຂະບວນ.
+
+794
+01:32:23,001 --> 01:32:24,211
+Venga.
+ເວນກາ
+
+795
+01:32:27,005 --> 01:32:29,800
+Tranquila, cariño.
+No nos hemos olvidado de ti.
+ສະບາຍໃຈ,ຄົນຮັກ.ບໍ່ວ່າ
+ພວກເຮົາຈະລືມເຈົ້າ.
+
+796
+01:32:29,967 --> 01:32:34,596
+No, cariño. Hemos planeado
+algo muy especial para ti.
+ບໍ່,ຄົນຮັກ.ພວກເຮົາໄດ້ວາງແຜນບາງສິ່ງ
+ບາງຢ່າງພິເສດຫຼາຍສໍາລັບເຈົ້າ.
+
+797
+01:32:34,847 --> 01:32:37,683
+Encontré a un surfista
+con un buen culo y le dejé seco.
+ຂ້ອຍພົບຄົນລອຍນໍ້າທີ່ມີບາກ
+ທີ່ດີແລະປ່ອຍໃຫ້ມັນແຫ້ງ.
+
+798
+01:32:37,850 --> 01:32:40,936
+- ¿Y pensaste que se transformaría?
+- Pero no se transformó, ¿no?
+- ເຈົ້າຄິດວ່າຂ້ອຍຈະປ່ຽນແປງບໍ?
+- ແຕ່ບໍ່ປ່ຽນແປງ, ແມ່ນບໍ?
+
+799
+01:32:41,103 --> 01:32:45,440
+No, se transformó en una especie
+de zombi. A veces pasa, monada.
+ມັນກາຍເປັນຊະນິດຂອງໂຊມບີ
+ບາງຄັ້ງມັນເກີດຂຶ້ນ,ໂມນາດາ.
+
+800
+01:32:46,108 --> 01:32:48,777
+- Estaba alucinado.
+- Patético.
+- ຂ້ອຍໂຊກຮ້າຍ.
+- ໂປເຕຕິໂກ.
+
+801
+01:32:48,944 --> 01:32:51,738
+Esos tíos son una escoria.
+Se comen cualquier cosa.
+ພວກພໍ່ເຖົ້າເຫຼົ່ານັ້ນແມ່ນລູກຊາຍ
+ຂອງ Escoria .ພວກເຂົາກິນທຸກຢ່າງ.
+
+802
+01:32:51,905 --> 01:32:55,576
+Animales, roedores,
+cadáveres, y a veces...
+ສັດ, ແມງໄມ້, ສົບ, ແລະບາງຄັ້ງ...
+
+803
+01:32:57,077 --> 01:32:58,412
+...hasta comen vampiros.
+... ຈົນກວ່າແວມປີຣ໌ຈະມາ.
+
+804
+01:32:58,662 --> 01:32:59,913
+Un punto a su favor.
+ຈຸດໜຶ່ງໃນຄວາມເຫັນດີຂອງທ່ານ.
+
+805
+01:33:00,080 --> 01:33:04,126
+Teniendo en cuenta eso, quiero
+presentarte a un viejo amigo tuyo.
+ຈື່ສິ່ງນັ້ນໄວ້,ຂ້ອຍຢາກແນະນໍາ
+ເພື່ອນເກົ່າຂອງເຈົ້າໃຫ້ເຈົ້າ.
+
+806
+01:33:09,506 --> 01:33:13,302
+Qué pena. Me caía bien.
+ໂຊກຮ້າຍຫຼາຍປານໃດ. ຂ້ອຍມັກດີ.
+
+807
+01:33:13,969 --> 01:33:16,096
+Qué desperdicio.
+ຄວາມເສຍຫາຍຫຼາຍປານໃດ.
+
+808
+01:33:36,533 --> 01:33:39,286
+No sé lo que me está pasando.
+ຂ້ອຍບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນກັບຂ້ອຍ.
+
+809
+01:33:39,536 --> 01:33:41,205
+No tengo pulso.
+ບໍ່ມີກະດານໃຈຂອງຂ້ອຍ.
+
+810
+01:33:41,455 --> 01:33:44,499
+Y por supuesto,
+está la cuestión de la lividez.
+ແລະແນ່ນອນ, ນີ້ແມ່ນບັນຫາຄວາມສົດໃສ.
+
+811
+01:33:46,251 --> 01:33:47,336
+¿Curtis?
+ຄູຕິສ?
+
+812
+01:33:52,424 --> 01:33:54,593
+¿Karen?
+ຄາເຣນ?
+
+813
+01:33:55,093 --> 01:33:56,762
+Karen.
+ຄາເຣນ
+
+814
+01:33:57,012 --> 01:33:59,806
+No pensé que volvería a verte.
+ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍຈະກາຍເປັນສີຂຽວ.
+
+815
+01:33:59,973 --> 01:34:03,268
+Dime, Karen,
+¿te has replanteado lo nuestro?
+ບອກຂ້ອຍ,ຄາເຣນ,ເຈົ້າໄດ້
+ປ່ຽນແຜນການຂອງພວກເຮົາບໍ?
+
+816
+01:34:21,870 --> 01:34:23,330
+Karen.
+ຄາເຣນ
+
+817
+01:34:23,789 --> 01:34:25,541
+Karen.
+ຄາເຣນ
+
+818
+01:34:25,791 --> 01:34:27,084
+¡Karen!
+ຄາເຣນ!
+
+819
+01:34:28,460 --> 01:34:30,838
+¡Karen!
+ຄາເຣນ!
+
+820
+01:34:31,588 --> 01:34:32,631
+¡Karen!
+ຄາເຣນ!
+
+821
+01:34:33,257 --> 01:34:34,758
+¡Karen!
+ຄາເຣນ!
+
+822
+01:35:39,615 --> 01:35:42,159
+Pobrecito.
+ຄົນທຸກຍາກ.
+
+823
+01:35:43,368 --> 01:35:45,662
+Estás muy enfermo.
+ເຈົ້າເຈັບປ່ວຍຫຼາຍ.
+
+824
+01:35:46,288 --> 01:35:48,707
+Tienes mucha sed.
+ເຈົ້າຢາກດື່ມຫຼາຍ.
+
+825
+01:35:48,874 --> 01:35:51,502
+No me toques.
+ບໍ່ຕ້ອງຈັບຂ້ອຍ.
+
+826
+01:35:53,295 --> 01:35:56,548
+Eric, mírame.
+ເອຣິກ, ເບິ່ງຂ້ອຍ.
+
+827
+01:35:56,798 --> 01:36:01,261
+Ahora, los vampiros son mi gente.
+Soy uno de ellos.
+ພວກແວມປີຣ໌ແມ່ນຄົນຂອງຂ້ອຍ
+.ຂ້ອຍເປັນໜຶ່ງໃນພວກເຂົາ.
+
+828
+01:36:01,637 --> 01:36:03,805
+No puede ser.
+ບໍ່ເປັນໄປໄດ້.
+
+829
+01:36:04,515 --> 01:36:06,975
+Sí puede ser.
+ແມ່ນແລ້ວມັນສາມາດເປັນໄດ້.
+
+830
+01:36:09,102 --> 01:36:12,022
+Intenta entenderlo, Eric.
+ຂ້ອຍພະຍາຍາມເຂົ້າໃຈມັນ, ເອຣິກ.
+
+831
+01:36:12,856 --> 01:36:16,401
+Tu madre murió hace mucho tiempo.
+ແມ່ຂອງເຈົ້າຕາຍດົນນານແລ້ວ.
+
+832
+01:36:17,986 --> 01:36:20,239
+He cazado.
+ລາວໄດ້ casado.
+
+833
+01:36:20,948 --> 01:36:23,242
+He matado.
+ລາວຖືກຂ້າຕາຍ.
+
+834
+01:36:25,035 --> 01:36:27,538
+Y lo he disfrutado.
+ເຈົ້າເບິ່ງວ່າລາວມັກ.
+
+835
+01:36:28,080 --> 01:36:30,207
+¿Tú no?
+ເຈົ້າບໍ່ບໍ?
+
+836
+01:36:30,999 --> 01:36:33,544
+Sé que sí.
+ຂ້ອຍຮູ້ວ່າແມ່ນແລ້ວ.
+
+837
+01:36:35,170 --> 01:36:39,424
+Antes o después, la sed siempre gana.
+ກ່ອນຫຼືຫຼັງຈາກນັ້ນ, ຄວາມຢາກຢາກສະເໝີ.
+
+838
+01:37:23,427 --> 01:37:25,179
+Vamos.
+ໄປ.
+
+839
+01:37:31,101 --> 01:37:32,102
+Situadlos.
+ສະຖານະການ.
+
+840
+01:37:33,228 --> 01:37:36,148
+Uno sobre cada glifo,
+debajo de las tumbas.
+ໜຶ່ງໃນແຕ່ລະກລິຟໂກ້, ການທໍາລາຍຝັງສົບ.
+
+841
+01:37:36,732 --> 01:37:37,983
+Que todo sea perfecto.
+ທຸກຢ່າງແມ່ນດີເລີດ.
+
+842
+01:38:19,233 --> 01:38:20,275
+Sube el ascensor.
+ຂຶ້ນລົດຍົກ.
+
+843
+01:38:44,258 --> 01:38:46,343
+ALMACÉN
+ອາລມາເຊນ
+
+844
+01:39:00,315 --> 01:39:02,109
+Estúpida.
+ຄົນໂງ່.
+
+845
+01:39:02,359 --> 01:39:05,779
+¿Qué crees que pasará?
+¿La Magra? ¿El Dios de la Sangre?
+ເຈົ້າຄິດວ່າຈະເກີດຫຍັງຂຶ້ນ?
+La Magra ?ພຣະເຈົ້າຂອງເລືອດບໍ?
+
+846
+01:39:06,029 --> 01:39:09,241
+No es más que un cuento de hadas
+para vampiros.
+ມັນບໍ່ແມ່ນຫຍັງນອກຈາກເລື່ອ
+ງຂອງ Hadas ສໍາລັບ vampires .
+
+847
+01:39:09,408 --> 01:39:12,202
+Entonces ¿por qué sudas, purasangre?
+ສະນັ້ນເປັນຫຍັງເຈົ້າຈຶ່ງສູດ, ປົວເລືອດ?
+
+848
+01:39:12,411 --> 01:39:14,913
+¿Tienes miedo
+de que te robemos tu alma?
+ເຈົ້າຢ້ານວ່າພວກເຮົາຈະ
+ລັກຈິດວິນຍານຂອງເຈົ້າບໍ?
+
+849
+01:39:15,080 --> 01:39:17,416
+¿Tu espíritu de purasangre?
+ຈິດວິນຍານຂອງເລືອດບໍລິສຸດຂອງທ່ານບໍ?
+
+850
+01:39:18,292 --> 01:39:21,044
+Deberías temer. Lee la profecía.
+ເຈົ້າຄວນຢ້ານກົວ. ອ່ານຄໍາທໍານາຍ.
+
+851
+01:39:21,295 --> 01:39:24,381
+Ya es hora de que contribuyáis
+en algo a la causa.
+ມັນເຖິງເວລາແລ້ວທີ່ເຈົ້າຈະ
+ປະກອບສ່ວນບາງສິ່ງບາງຢ່າງຕໍ່ເຫດຜົນ.
+
+852
+01:39:28,677 --> 01:39:33,307
+Aunque Frost tenga razón,
+¿realmente crees que le importas?
+ເຖິງແມ່ນວ່າຟຣັສຕ໌ມີຄວາມຖືກ
+ຕ້ອງ,ເຈົ້າຄິດວ່າລາວສົນໃຈແທ້ບໍ?
+
+853
+01:39:33,473 --> 01:39:36,560
+Vas a morir, igual que todos nosotros.
+ເຈົ້າຈະຕາຍ, ຄືກັບພວກເຮົາທຸກຄົນ.
+
+854
+01:40:01,627 --> 01:40:03,587
+Blade.
+ກະດານ.
+
+855
+01:40:12,721 --> 01:40:15,432
+Esta noche,
+la Era del Hombre llega a su fin.
+ໃນຄືນນີ້, ຍຸກຂອງຜູ້ຊາຍໄດ້ສິ້ນສຸດລົງ.
+
+856
+01:40:15,933 --> 01:40:17,768
+Se acabaron las concesiones.
+ພວກເຂົາຈະສິ້ນສຸດການຍອມຮັບ.
+
+857
+01:40:17,935 --> 01:40:19,269
+Vamos a ser dioses.
+ພວກເຮົາຈະເປັນພະເຈົ້າ.
+
+858
+01:40:20,938 --> 01:40:24,233
+- Claro que sí.
+- Sí.
+- ແນ່ນອນວ່າແມ່ນແລ້ວ.
+- ແມ່ນແລ້ວ.
+
+859
+01:40:25,609 --> 01:40:30,489
+Voy a ser travieso. Voy a ser
+un dios vampiro muy travieso.
+ຂ້ອຍຈະເປັນຄົນໂຊກຮ້າຍ.
+ຂ້ອຍຈະເປັນເຈົ້າແວມປີຫຼາຍ.
+
+860
+01:40:33,659 --> 01:40:35,244
+Estoy aquí.
+ຂ້ອຍຢູ່ບ່ອນນີ້.
+
+861
+01:40:38,372 --> 01:40:40,541
+Tengo que detener...
+ຂ້ອຍຢາກຢຸດ...
+
+862
+01:40:40,874 --> 01:40:43,961
+- Detener el...
+- Guarda tu fuerza.
+- ຢຸດການ...
+- ຮັກສາຄວາມເຂັ້ມແຂງຂອງທ່ານ.
+
+863
+01:40:44,169 --> 01:40:45,963
+Flujo.
+ຟລູໂຈ.
+
+864
+01:40:47,214 --> 01:40:50,050
+Estás en choque hipovolémico.
+Te estás desangrando.
+ເຈົ້າຢູ່ໃນຄວາມໂຊກແຊງ hypovolemic
+.ເຈົ້າກໍາລັງເລືອດອອກ.
+
+865
+01:40:50,717 --> 01:40:53,554
+Necesito suero.
+ຂ້ອຍຕ້ອງການໂຊໂຣ.
+
+866
+01:41:11,655 --> 01:41:13,448
+Blade.
+ກະດານ.
+
+867
+01:41:14,491 --> 01:41:16,034
+Blade.
+ກະດານ.
+
+868
+01:41:18,412 --> 01:41:20,414
+Escúchame.
+ຟັງຂ້ອຍ.
+
+869
+01:41:21,540 --> 01:41:24,376
+Quiero que bebas mi sangre.
+ຂ້ອຍຢາກໃຫ້ເຈົ້າດື່ມເລືອດຂອງຂ້ອຍ.
+
+870
+01:41:25,586 --> 01:41:27,629
+No.
+ບໍ່.
+
+871
+01:41:29,464 --> 01:41:31,133
+No.
+ບໍ່.
+
+872
+01:41:31,425 --> 01:41:33,719
+Hazlo, venga.
+ຮາຊໂລ, ມາ.
+
+873
+01:41:36,555 --> 01:41:38,182
+¡Quítame las manos de encima!
+ເອົາມືອອກຈາກຂ້ອຍ!
+
+874
+01:41:59,453 --> 01:42:00,913
+¿Quién tiene sed?
+ໃຜຢາກກິນ?
+
+875
+01:42:01,788 --> 01:42:04,791
+Espero que tengáis todos mucha sed.
+ຂ້ອຍຫວັງວ່າເຈົ້າທຸກຄົນຢາກດື່ມຫຼາຍ.
+
+876
+01:42:24,061 --> 01:42:27,189
+Por favor. Para, por favor.
+ຂໍຮ້ອງ. Para, ກະລຸນາ.
+
+877
+01:42:29,983 --> 01:42:31,735
+Para.
+Para.
+
+878
+01:42:34,279 --> 01:42:35,280
+Dios.
+ພຣະເຈົ້າ.
+
+879
+01:42:36,698 --> 01:42:38,784
+No pares.
+ບໍ່ມີຄູ່ຮ່ວມງານ.
+
+880
+01:42:52,381 --> 01:42:54,550
+No pares.
+ບໍ່ມີຄູ່ຮ່ວມງານ.
+
+881
+01:42:58,178 --> 01:43:00,013
+Dios.
+ພຣະເຈົ້າ.
+
+882
+01:43:46,185 --> 01:43:47,144
+¿Qué tal?
+ເປັນແນວໃດ?
+
+883
+01:44:58,382 --> 01:45:02,719
+Eric, soy tu madre.
+ເອຣິກ, ຂ້ອຍເປັນແມ່ຂອງເຈົ້າ.
+
+884
+01:45:04,638 --> 01:45:06,849
+No le harías daño a tu madre...
+ບໍ່, ລາວຈະເຮັດໃຫ້ແມ່ຂອງເຈົ້າເຈັບປວດ...
+
+885
+01:45:07,307 --> 01:45:09,184
+...¿verdad?
+ແທ້ບໍ?
+
+886
+01:45:11,103 --> 01:45:13,021
+Ven aquí.
+ມາບ່ອນນີ້.
+
+887
+01:45:13,814 --> 01:45:15,983
+Solo estamos tú y yo.
+ພວກເຮົາຢູ່ກັບເຈົ້າແລະເຈົ້າເທົ່ານັ້ນ.
+
+888
+01:45:16,775 --> 01:45:18,944
+Tengo que liberarte.
+ຂ້ອຍຢາກປ່ອຍເຈົ້າອອກໄປ.
+
+889
+01:45:29,997 --> 01:45:31,748
+¡Joder!
+ໂຊກຮ້າຍ!
+
+890
+01:46:35,812 --> 01:46:38,357
+- ¿Deacon?
+- Ya no.
+- ເຈົ້າໜ້າທີ່ບໍ?
+- ແມ່ນແລ້ວ.
+
+891
+01:46:54,331 --> 01:46:56,875
+Frost.
+ກ້ອນ.
+
+892
+01:46:57,042 --> 01:46:59,670
+- Matadle.
+- Espera. Me la debes.
+- Matadle.
+- ລໍຖ້າ. ຂ້ອຍຕ້ອງເຮັດ.
+
+893
+01:46:59,920 --> 01:47:01,463
+Tengo dos manos nuevas, Blade.
+ຂ້ອຍມີມືໃໝ່ສອງມື, ບເລດ.
+
+894
+01:47:01,630 --> 01:47:04,216
+No sé cuál de las dos
+usar para matarte.
+ຂ້ອຍບໍ່ຮູ້ວ່າຈະໃຊ້ສອງ
+ຢ່າງໃດເພື່ອຂ້າເຈົ້າ.
+
+895
+01:47:25,153 --> 01:47:26,113
+Frost.
+ກ້ອນ.
+
+896
+01:48:11,950 --> 01:48:13,535
+¡Frost!
+ກ້ອນ!
+
+897
+01:48:48,195 --> 01:48:50,072
+Voy a disfrutar mucho con esto.
+ຂ້ອຍຈະເພີດເພີນຫຼາຍກັບສິ່ງນີ້.
+
+898
+01:49:38,871 --> 01:49:40,914
+Eh, Blade.
+ເອ້, ບເລດ.
+
+899
+01:49:43,083 --> 01:49:44,209
+Acabemos con esto.
+ພວກເຮົາຈະສິ້ນສຸດເລື່ອງນີ້.
+
+900
+01:50:35,719 --> 01:50:37,930
+¿Qué cojones?
+ໂຊກຮ້າຍຫຍັງ?
+
+901
+01:50:38,430 --> 01:50:40,724
+Demasiado tarde, Blade.
+ຕອນບ່າຍເກີນໄປ, ບເລດ.
+
+902
+01:50:59,451 --> 01:51:01,245
+Ahora me toca a mí.
+ດຽວນີ້ຂ້ອຍຈັບຂ້ອຍ.
+
+903
+01:51:27,229 --> 01:51:29,606
+Mírate. Eres una zorra.
+ເບິ່ງ. ເຈົ້າເປັນໂຊຣາ.
+
+904
+01:51:31,483 --> 01:51:34,862
+¿Qué, tu suero?
+Ahora no te servirá de nada, semental.
+ດຽວນີ້ມັນຈະບໍ່ຊ່ວຍ
+ເຈົ້າຫຍັງເລີຍ, Semental .
+
+905
+01:51:42,452 --> 01:51:44,496
+Buena puntería.
+ການແນໃສ່ທີ່ດີ.
+
+906
+01:52:15,652 --> 01:52:20,032
+Hay cabrones que se empeñan
+en patinar sobre hielo cuesta arriba.
+ມີຄົນໂຊກຮ້າຍທີ່ພະຍາຍາມສະ
+ເກດເທິງນ້ໍາກ້ອນຢູ່ເທິງສຸດ.
+
+907
+01:52:51,647 --> 01:52:53,148
+Blade.
+ກະດານ.
+
+908
+01:53:01,281 --> 01:53:03,617
+Larguémonos de aquí.
+ໃຫ້ພວກເຮົາອອກຈາກບ່ອນນີ້.
+
+909
+01:53:39,444 --> 01:53:43,532
+Tengo que volver al laboratorio
+si pretendo curarte.
+ຂ້ອຍຕ້ອງກັບຄືນໄປບ່ອນທົດລອງ
+ຖ້າຂ້ອຍພະຍາຍາມປິ່ນປົວເຈົ້າ.
+
+910
+01:53:44,449 --> 01:53:46,326
+Esto no ha terminado.
+ນີ້ແມ່ນຍັງບໍ່ສິ້ນສຸດລົງ.
+
+911
+01:53:46,577 --> 01:53:48,704
+Guárdate esa cura.
+ຮັກສາການຮັກສານັ້ນໄວ້.
+
+912
+01:53:49,037 --> 01:53:53,584
+Todavía estamos en guerra,
+y tengo trabajo que hacer.
+ພວກເຮົາຍັງຢູ່ໃນສົງຄາມ
+,ແລະຂ້ອຍຕ້ອງເຮັດວຽກ.
+
+913
+01:53:54,126 --> 01:53:58,755
+¿Quieres ayudarme?
+Fabrica un suero mejor.
+ເຈົ້າຢາກຊ່ວຍຂ້ອຍບໍ? ສ້າງຊີຣູທີ່ດີກວ່າ.
+
+914
+01:54:07,055 --> 01:54:10,559
+MOSCÚ
+ໂມສກູ
+
+915
+01:54:35,876 --> 01:54:38,504
+Hace frío. ¿Adónde vamos?
+ມັນເຢັນ. ພວກເຮົາຈະໄປໃສ?
+
+916
+01:54:38,795 --> 01:54:41,465
+- Es una sorpresa.
+- ¿Una sorpresa?
+- ມັນເປັນຄວາມແປກໃຈ.
+- ຄວາມແປກໃຈບໍ?
+
+917
+01:54:42,299 --> 01:54:44,051
+Me gustan las sorpresas.
+ຂ້ອຍມັກຄວາມແປກໃຈ.
+
+918
+01:54:44,760 --> 01:54:46,178
+Entonces te gustará esto...
+ສະນັ້ນເຈົ້າຈະມັກສິ່ງນີ້...
+
+919
+01:55:02,361 --> 01:55:03,612
+¿Te pillo en mal momento...
+ຂ້ອຍຈະເອົາ pillo ໃນເວລາທີ່ບໍ່ດີ...
+
+920
+01:55:05,072 --> 01:55:06,198
+...camarada?
+ເພື່ອນຮ່ວມງານບໍ?
 

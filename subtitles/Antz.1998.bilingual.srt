@@ -1,2758 +1,6668 @@
 1
-00:00:10,000 --> 00:00:12,000
-[MOTIVATIONAL COUNSELLOR]
-Terrific!  You should feel insignificant!
-ດີເລີດ! ເຈົ້າຄວນຮູ້ສຶກບໍ່ສໍາຄັນ!
+00:00:48,760 --> 00:00:52,355
+All my life, I've lived
+and worked in the big city
+ຕະຫຼອດຊີວິດຂ້ອຍ,ຂ້ອຍອາໄສ
+ຢູ່ແລະເຮັດວຽກໃນເມືອງໃຫຍ່
 
 2
-00:00:12,500 --> 00:00:18,500
-[MOTIVATIONAL COUNSELLOR]
-YES!!!  You know, people ask me, "Doctor, why are you always happy?" And I tell them it's mind over matter.  I don't mind that I don't matter!  Do you get it?  Do you get it?
-ແມ່ນແລ້ວ!!! ເຈົ້າຮູ້ແລ້ວ, ຄົນຖາມຂ້ອຍວ່າ,"ຫມໍ, ເຈົ້າມີຄວາມສຸກຢູ່ສະເຫມີເປັນຫຍັງ?"
-ແລະຂ້ອຍບອກພວກເຂົາວ່າມັນເປັນຈິດໃຈຫຼາຍກວ່າວັດຖຸ. ຂ້ອຍບໍ່ສົນໃຈວ່າຂ້ອຍບໍ່ສໍາຄັນ! ເຈົ້າເຂົ້າໃຈມັນບໍ? ເຈົ້າເຂົ້າໃຈບໍ?
+00:00:52,440 --> 00:00:55,671
+which, now that I think of it,
+is kind of a problem,
+ເຊິ່ງ,ຕອນນີ້ທີ່ຂ້ອຍຄິດກ່ຽວກັບ
+ມັນ,ມັນເປັນບັນຫາບາງຢ່າງ,
 
 3
-00:00:19,000 --> 00:00:23,200
-[MOTIVATIONAL COUNSELLOR]
-Z, we're part of the fastest growing species in the whole world!
-Z, ພວກເຮົາເປັນສ່ວນຫນຶ່ງຂອງຊະນິດທີ່ເຕີບໃຫຍ່ໄວທີ່ສຸດໃນໂລກທັງ ຫມົດ!
+00:00:55,800 --> 00:00:59,156
+since I always feel
+uncomfortable around crowds.
+ເນື່ອງຈາກວ່າຂ້ອຍຮູ້ສຶກ
+ບໍ່ສະບາຍໃຈຢູ່ໃກ້ກັບຄົນຫຼາຍ.
 
 4
-00:00:23,700 --> 00:00:25,800
-[MOTIVATIONAL COUNSELLOR]
-Ask me why we're so successful.
-ຖາມຂ້ອຍວ່າເປັນຫຍັງພວກເຮົາປະສົບຜົນສໍາເລັດຫຼາຍ.
+00:00:59,240 --> 00:01:02,073
+I mean it.
+I have a fear of enclosed spaces.
+ຂ້ອຍເວົ້າແທ້ໆ. ຂ້ອຍຢ້ານກົວພື້ນທີ່ປິດ.
 
 5
-00:00:26,300 --> 00:00:28,750
-[MOTIVATIONAL COUNSELLOR]
-I'm glad you asked me that question!
-ຂ້ອຍດີໃຈທີ່ເຈົ້າຖາມຂ້ອຍ ຄໍາ ຖາມນັ້ນ!
+00:01:02,200 --> 00:01:04,555
+Everything makes me feel trapped.
+ທຸກຢ່າງເຮັດໃຫ້ຂ້ອຍຮູ້ສຶກຖືກຈັບກຸມ.
 
 6
-00:00:29,250 --> 00:00:31,350
-[MOTIVATIONAL COUNSELLOR]
-What do you see out there?
-ເຈົ້າເຫັນຫຍັງຢູ່ບ່ອນນັ້ນ?
+00:01:04,640 --> 00:01:08,599
+I tell myself there's gotta be
+something better out there.
+ຂ້ອຍບອກຕົວເອງວ່າຕ້ອງມີບາງສິ່ງ
+ບາງຢ່າງທີ່ດີກວ່າຢູ່ບ່ອນນັ້ນ.
 
 7
-00:00:31,850 --> 00:00:36,400
-[MOTIVATIONAL COUNSELLOR]
-Right!  Ants!  Millions of creatures, each with his assigned task, all pulling together!
-ແມ່ນແລ້ວ! ແມງໄມ້! ສັດລ້ານຄົນ,
-ແຕ່ລະຄົນມີຫນ້າທີ່ທີ່ຖືກມອບຫມາຍໃຫ້, ທັງ ຫມົດ ດຶງກັນ!
+00:01:08,680 --> 00:01:10,796
+But maybe I... I think too much.
+ແຕ່ບາງທີຂ້ອຍ... ຂ້ອຍຄິດຫຼາຍເກີນໄປ.
 
 8
-00:00:36,900 --> 00:00:42,500
-[MOTIVATIONAL COUNSELLOR]
-You see?  Being an ant is being able to say, "Hey -- I'm meaningless, you're meaningless."
-ເຈົ້າເຫັນບໍ? ເປັນແມງໄມ້ແມ່ນສາມາດເວົ້າໄດ້ວ່າ,"
-ເຮ້ - ຂ້ອຍບໍ່ມີຄວາມ ຫມາຍ, ເຈົ້າບໍ່ມີຄວາມຫມາຍ."
+00:01:10,880 --> 00:01:13,838
+I think everything
+goes back to the fact...
+ຂ້ອຍຄິດວ່າທຸກຢ່າງກັບ
+ຄືນໄປບ່ອນຄວາມຈິງ...
 
 9
-00:00:43,000 --> 00:00:47,900
-[MOTIVATIONAL COUNSELLOR]
-Z...you need help.  Whoops!  We're gonna have to stop there.  Your minute is up!
-Z... ເຈົ້າຕ້ອງການຄວາມຊ່ວຍເຫຼືອ. ໂວ້!
-ພວກເຮົາຈະຕ້ອງຢຸດຢູ່ບ່ອນນັ້ນ. ນາທີຂອງທ່ານຫມົດແລ້ວ!
+00:01:13,960 --> 00:01:16,474
+that I had a very anxious childhood.
+ວ່າຂ້ອຍມີໄວລຸ້ນທີ່ກັງວົນຫຼາຍ.
 
 10
-00:00:48,400 --> 00:00:54,350
-[MOTIVATIONAL COUNSELLOR]
-Now back to work!  We've made real progress!  Remember -- let's be best superorganism we can be!
-ດຽວນີ້ກັບຄືນໄປບ່ອນເຮັດວຽກ! ພວກເຮົາໄດ້ກ້າວຫນ້າແທ້ໆ! ຈື່ໄວ້
-- ໃຫ້ເປັນ superorganism ທີ່ດີທີ່ສຸດທີ່ພວກເຮົາສາມາດເປັນໄດ້!
+00:01:16,560 --> 00:01:19,472
+My mother never had time for me.
+ແມ່ຂອງຂ້ອຍບໍ່ເຄີຍມີ
+ເວລາສໍາລັບຂ້ອຍເລີຍ.
 
 11
-00:00:54,850 --> 00:01:00,850
-[AZTECA]
-Hello?!  Earth to Z!  You better snap out of it, or there's gonna be a lot of pissed off ants!
-ສະບາຍດີ?! ໂລກເຖິງ Z! ເຈົ້າຄວນອອກຈາກມັນ
-, ຫຼືຈະມີແມງໄມ້ທີ່ໂຊກຮ້າຍຫຼາຍ!
+00:01:19,600 --> 00:01:23,229
+When you're the middle child
+in a family of five million,
+ເມື່ອເຈົ້າເປັນລູກກາງ
+ໃນຄອບຄົວຫ້າລ້ານຄົນ,
 
 12
-00:01:01,350 --> 00:01:07,350
-[AZTECA]
-Z, old pal...  SHUT UP!!!  It's bad enough there's a food shortage without you complaining about it every day.
-Z, ເພື່ອນເກົ່າ... ປິດງຽບ!!!
-ມັນຮ້າຍແຮງພໍສົມຄວນວ່າມີການຂາດແຄນອາຫານໂດຍບໍ່ມີເຈົ້າຮ້ອງທຸກກ່ຽວກັບມັນທຸກໆມື້.
+00:01:23,320 --> 00:01:26,676
+you don't get any attention.
+How is it possible?
+ເຈົ້າບໍ່ໄດ້ຮັບຄວາມສົນໃຈ
+ໃດໆ.ມັນເປັນໄປໄດ້ແນວໃດ?
 
 13
-00:01:07,850 --> 00:01:13,850
-[AZTECA]
-No, Z.  The squeaky wheel gets thrown away, alright?  You're a good ant, Z, even though you are a pain in my rear- segment.  I don't wanna see anything happen to you.  So quit mouthing off, before you get in trouble.
-ບໍ່, Z. ລໍ້ທີ່ສັ່ນສະເທືອນຖືກຖິ້ມອອກ, ດີບໍ? ເຈົ້າເປັນແມງໄມ້ທີ່ດີ, Z, ເຖິງແມ່ນວ່າເຈົ້າເປັນຄວາມເຈັບປວດໃນພາກສ່ວນຫຼັງຂອງຂ້ອຍ
-. ຂ້ອຍບໍ່ຢາກເຫັນຫຍັງເກີດຂຶ້ນກັບເຈົ້າ. ສະນັ້ນຢຸດປາກອອກ, ກ່ອນທີ່ທ່ານຈະເຂົ້າໄປໃນຄວາມຫຍຸ້ງຍາກ.
+00:01:26,760 --> 00:01:29,433
+And I've had
+these abandonment issues.
+ແລະຂ້ອຍເຄີຍມີບັນຫາການປະຖິ້ມຕົວນີ້.
 
 14
-00:01:14,350 --> 00:01:16,350
-[AZTECA]
-Break's over.
-ການພັກຜ່ອນສິ້ນສຸດລົງແລ້ວ.
+00:01:29,520 --> 00:01:32,751
+My father was basically a drone,
+like I've said.
+ພໍ່ຂອງຂ້ອຍແມ່ນ drone ໂດຍພື້ນຖານ
+ແລ້ວ,ດັ່ງທີ່ຂ້ອຍໄດ້ເວົ້າແລ້ວ.
 
 15
-00:01:16,850 --> 00:01:22,450
-[AZTECA]
-Who cares, Z.  All I know is, we gotta dig.  We're not the ones in charge.
-ໃຜສົນໃຈ, Z. ຂ້ອຍພຽງແຕ່ຮູ້ວ່າ,
-ພວກເຮົາຕ້ອງຂຸດຄົ້ນ. ພວກເຮົາບໍ່ແມ່ນຜູ້ຮັບຜິດຊອບ.
+00:01:32,840 --> 00:01:35,513
+And the guy flew away
+when I was a larva.
+ແລະຄົນນັ້ນໄດ້ບິນໄປເມື່ອຂ້ອຍເປັນແມງໄມ້.
 
 16
-00:01:22,950 --> 00:01:28,950
-[STAIRS!]
-The workers look up and GROAN.  Then they start forming a stairway with their own bodies, linking arms, stepping on each other's shoulders.  It's extremely unpleasant work.  One ant is a little tardy, and just manages to get in place before...
-ພວກຄົນງານເບິ່ງຂຶ້ນແລະຮ້ອງໄຫ້. ຫຼັງຈາກນັ້ນພວກເຂົາເລີ່ມສ້າງຂັ້ນເທິງດ້ວຍຮ່າງກາຍຂອງພວກເຂົາເອງ, ເຊື່ອມຕໍ່ແຂນ,
-ຍ່າງໃສ່ກະຕ່າຂອງກັນແລະກັນ. ມັນເປັນວຽກທີ່ບໍ່ດີຫຼາຍ. ແມງໄມ້ ຫນຶ່ງ ແມ່ນຊ້າເລັກນ້ອຍ, ແລະພຽງແຕ່ສາມາດເຂົ້າໄປໃນບ່ອນກ່ອນ...
+00:01:35,600 --> 00:01:40,674
+And my job, don't get me started,
+because it really annoys me.
+ແລະວຽກຂອງຂ້ອຍ,ຢ່າເຮັດໃຫ້ຂ້ອຍເລີ່ມຕົ້ນ
+,ເພາະວ່າມັນເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍແທ້ໆ.
 
 17
-00:01:29,450 --> 00:01:35,450
-[GENERAL FORMICA]
-Cut the chit-chat down there!  We've spoiled these workers, Carpenter.  They've never had it so good, and listen to them -- always grumbling and complaining...
-ຢຸດການສົນທະນາຢູ່ລຸ່ມນັ້ນ! ພວກເຮົາໄດ້ ທໍາ ລາຍຄົນງານເຫຼົ່ານີ້, ຄາປິນເຕີ.
-ພວກເຂົາບໍ່ເຄີຍມີມັນດີຫຼາຍ, ແລະຟັງພວກເຂົາ - ສະເຫມີການຈົ່ມແລະຮ້ອງທຸກ...
+00:01:40,760 --> 00:01:44,355
+l-I was not cut out to be a worker,
+I'll tell you right now.
+ຂ້ອຍບໍ່ໄດ້ຖືກຕັດເພື່ອເປັນຄົນ
+ເຮັດວຽກ,ຂ້ອຍຈະບອກເຈົ້າທັນທີ.
 
 18
-00:01:35,950 --> 00:01:37,950
-[CARPENTER]
-...Yes, sir.
-ແມ່ນແລ້ວເດີ.
+00:01:44,440 --> 00:01:47,273
+l-l-I feel physically inadequate.
+ຂ້ອຍຮູ້ສຶກບໍ່ພຽງພໍທາງຮ່າງກາຍ.
 
 19
-00:01:38,450 --> 00:01:42,650
-[GENERAL FORMICA]
-What have they got to complain about? Three square meals a day...
-ພວກເຂົາຕ້ອງຮ້ອງທຸກຫຍັງ? ອາຫານສວນສາມຄັ້ງຕໍ່ມື້...
+00:01:47,360 --> 00:01:50,397
+My whole life,
+I've never been able to lift...
+ຕະຫຼອດຊີວິດຂອງຂ້ອຍ,ຂ້ອຍ
+ບໍ່ເຄີຍສາມາດຍົກໄດ້...
 
 20
-00:01:43,150 --> 00:01:47,700
-[CARPENTER]
-Actually, sir, we've cut them down to three roughly rectangular meals a week.
-ໃນຄວາມເປັນຈິງເດີ,
-ພວກເຮົາໄດ້ຕັດພວກມັນລົງເປັນອາຫານສາມຄັ້ງປະມານສີ່ຫຼ່ຽມຕໍ່ອາທິດ.
+00:01:50,480 --> 00:01:52,994
+more than 10 times
+my own body weight.
+ຫຼາຍກວ່າ 10 ເທົ່າຂອງນໍ້າ
+ໜັກຂອງຮ່າງກາຍຂອງຂ້ອຍເອງ.
 
 21
-00:01:48,200 --> 00:01:52,400
-[FORMICA]
-Don't give me statistics, Carpenter. I know what I'm talking about.  DOORS!
-ຢ່າໃຫ້ຂ້ອຍສະຖິຕິ, ຄາເປນເຕີ. ຂ້ອຍຮູ້ວ່າຂ້ອຍເວົ້າຫຍັງ. ປະຕູ!
+00:01:53,120 --> 00:01:57,318
+And, when you get down to it,
+handling dirt is, you know... urgh,
+ແລະ,ເມື່ອເຈົ້າລົງໄປຫາມັນ,ການຈັດການ
+ກັບດິນແມ່ນ,ເຈົ້າຮູ້ແລ້ວ... urgh ,
 
 22
-00:01:52,900 --> 00:01:54,900
-[FORMICA]
-Oil that, soldier.
-ມັນມັນນັ້ນ, ທະຫານ.
+00:01:57,400 --> 00:02:00,039
+is not my idea
+of a rewarding career.
+ບໍ່ແມ່ນຄວາມຄິດຂອງຂ້ອຍ
+ກ່ຽວກັບອາຊີບທີ່ຕອບແທນ.
 
 23
-00:01:55,400 --> 00:01:57,400
-[QUEEN]
-Ah!  General Formica.
-ອາ! ນາຍພົນຟໍມິກາ.
+00:02:00,120 --> 00:02:02,998
+It's this whole gung ho,
+superorganism thing...
+ມັນເປັນເລື່ອງໂກນໂຮທັງໝົດ
+ນີ້,ສິ່ງທີ່ມີຊີວິດສູງສຸດ...
 
 24
-00:01:57,900 --> 00:02:03,900
-[QUEEN]
-General, the severe food shortage that faces the colony...pains me. The thought of any of my children going hungry...  Who's the cutest widdle worker?  You are!  Yes, you!  Don't forget to brush your teeth!  Ship 'er out.  What steps are you taking to remedy the situation?
-ນາຍພົນ, ການຂາດແຄນອາຫານທີ່ຮ້າຍແຮງທີ່ປະເຊີນກັບຄລູເນຍ... ເຮັດໃຫ້ຂ້ອຍເຈັບປວດ. ຄວາມຄິດວ່າລູກຂອງຂ້ອຍໃດໆຈະອຶດຫິວ... ຜູ້ເຮັດວຽກ widdle ທີ່
-ຫນ້າ ຮັກທີ່ສຸດແມ່ນໃຜ? ເຈົ້າເປັນ! ແມ່ນແລ້ວ, ເຈົ້າ! ຢ່າລືມລ້າງແຂ້ວຂອງທ່ານ! ສົ່ງອອກ. ເຈົ້າ ກໍາ ລັງເອົາບາດກ້າວໃດເພື່ອແກ້ໄຂສະຖານະການ?
+00:02:03,080 --> 00:02:05,719
+that... that, you know, I can't get.
+ນັ້ນ...ນັ້ນ,ເຈົ້າຮູ້ແລ້ວ
+,ຂ້ອຍບໍ່ສາມາດເຂົ້າໃຈໄດ້.
 
 25
-00:02:04,400 --> 00:02:08,250
-[FORMICA]
-We are launching a major offensive to expand our foraging territory...
-ພວກເຮົາ ກໍາ
-ລັງເປີດການໂຈມຕີທີ່ໃຫຍ່ຫຼວງເພື່ອຂະຫຍາຍເຂດຂຸດຄົ້ນອາຫານຂອງພວກເຮົາ...
+00:02:05,800 --> 00:02:07,552
+I try, but I don't get it.
+ຂ້ອຍພະຍາຍາມ, ແຕ່ຂ້ອຍບໍ່ເຂົ້າໃຈມັນ.
 
 26
-00:02:08,750 --> 00:02:10,750
-[QUEEN]
-Yes, what else?
-ແມ່ນແລ້ວ, ມີຫຍັງອີກ?
+00:02:07,640 --> 00:02:11,394
+I mean... I'm supposed
+to do everything for the colony.
+ຂ້ອຍໝາຍຄວາມວ່າ...ຂ້ອຍຄວນ
+ເຮັດທຸກຢ່າງສໍາລັບຄລູເນຍ.
 
 27
-00:02:11,250 --> 00:02:17,250
-[FORMICA]
-Please don't worry, your majesty. Leave the worrying to me.  As you know, I'm not an ant of half- measures.  I don't pussyfoot around. This crisis is my number one priority, and I promise you it's being dealt with swiftly, and decisively.
-ກະລຸນາຢ່າກັງວົນ, ເຈົ້າສູງສຸດ. ໃຫ້ຄວາມກັງ ວົນໃຫ້ຂ້ອຍ. ດັ່ງທີ່ທ່ານຮູ້ແລ້ວ, ຂ້ອຍບໍ່ແມ່ນແມງໄມ້ຂອງເຄິ່ງມາດຕະການ. ຂ້ອຍບໍ່ຍ່າງຢູ່ທົ່ວໄປ
-. ວິ ກິດການນີ້ແມ່ນບູລິມະສິດອັນດັບ ຫນຶ່ງ ຂອງຂ້ອຍ, ແລະຂ້ອຍສັນຍາໃຫ້ເຈົ້າວ່າມັນ ກໍາ ລັງຈັດການຢ່າງໄວວາ, ແລະຕັດສິນໃຈ.
+00:02:11,480 --> 00:02:14,074
+A-and what about my needs?
+What about me?
+ແລະຄວາມຕ້ອງການຂອງຂ້ອຍແນວໃດ? ຂ້ອຍແນວໃດ?
 
 28
-00:02:17,750 --> 00:02:22,300
-[QUEEN]
-No snacking between meals!  Off you go!  Now -- what were we saying?
-ບໍ່ໃຫ້ກິນອາຫານຫວ່າງອາຫານ! ໄປ! ດຽວນີ້ - ພວກເຮົາເວົ້າຫຍັງ?
+00:02:14,160 --> 00:02:17,994
+I've gotta believe
+there's someplace better than this.
+ຂ້ອຍຕ້ອງເຊື່ອວ່າມີ
+ບ່ອນທີ່ດີກວ່າບ່ອນນີ້.
 
 29
-00:02:22,800 --> 00:02:26,300
-[FORMICA]
-I do not recollect, your majesty. Will that be all?
-ຂ້ອຍບໍ່ຈື່, ເຈົ້າສູງສຸດ. ນັ້ນຈະເປັນທັງຫມົດບໍ?
+00:02:18,080 --> 00:02:22,198
+Otherwise, I would just curl up
+in a larval position and weep.
+ຖ້າບໍ່ດັ່ງນັ້ນ,ຂ້ອຍພຽງແຕ່ສວມຕົວ
+ຢູ່ໃນຕໍາແໜ່ງແມງໄມ້ແລະຮ້ອງໄຫ້.
 
 30
-00:02:26,800 --> 00:02:32,750
-[QUEEN]
-Yes, General Formica.  Carry on, my good man!  I don't know what we would do without you.
-ແມ່ນແລ້ວ, ນາຍພົນຟໍມິກາ. ສືບຕໍ່, ຜູ້ຊາຍທີ່ດີຂອງຂ້ອຍ
-! ຂ້ອຍບໍ່ຮູ້ວ່າພວກເຮົາຈະເຮັດແນວໃດໂດຍບໍ່ມີເຈົ້າ.
+00:02:22,280 --> 00:02:25,636
+The whole system
+makes me feel...
+ລະບົບທັງ ໝົດ ເຮັດໃຫ້ຂ້ອຍຮູ້ສຶກວ່າ...
 
 31
-00:02:33,250 --> 00:02:35,250
-[BALA]
-General Formica!
-ນາຍພົນຟໍມິກາ!
+00:02:25,720 --> 00:02:27,711
+insignificant.
+ບໍ່ສໍາຄັນ
 
 32
-00:02:35,750 --> 00:02:37,750
-[CARPENTER]
-Princess Bala, sir.  Your fiancee.
-ເຈົ້າຍິງບາລາ, ທ້າວ. ຜູ້ແຕ່ງງານຂອງທ່ານ.
+00:02:27,800 --> 00:02:31,076
+Excellent.
+You've made a breakthrough.
+ດີເລີດ. ເຈົ້າໄດ້ສ້າງຄວາມກ້າວໜ້າແລ້ວ.
 
 33
-00:02:38,250 --> 00:02:42,800
-[FORMICA]
-Princess!  You look -- outstanding. Is there anything I can do for you?
-ເຈົ້າຍິງ! ເຈົ້າເບິ່ງຄືວ່າ - ດີເລີດ.
-ມີຫຍັງທີ່ຂ້ອຍສາມາດເຮັດໄດ້ ສໍາ ລັບເຈົ້າບໍ?
+00:02:31,160 --> 00:02:34,391
+- I have?
+- Yes, Z. You are insignificant.
+- ຂ້ອຍເຮັດແລ້ວບໍ?
+- ແມ່ນແລ້ວ, Z. ເຈົ້າບໍ່ມີຄວາມສໍາຄັນ.
 
 34
-00:02:43,300 --> 00:02:49,300
-[BALA]
-Well -- I thought -- since we're getting married...it might be nice if we...got to know one another.
-ດີ - ຂ້ອຍຄິດວ່າ - ນັບຕັ້ງແຕ່ພວກເຮົາ ກໍາ ລັງແຕ່ງງານ
-... ມັນອາດຈະດີຖ້າພວກເຮົາ... ໄດ້ຮູ້ຈັກກັນ.
+00:02:34,480 --> 00:02:36,152
+I am?
+ຂ້ອຍເປັນບໍ?
 
 35
-00:02:49,800 --> 00:02:52,600
-[QUEEN]
-Bala has always been a hopeless romantic, General.
-ບາລາເປັນຄົນຮັກທີ່ບໍ່ມີຄວາມຫວັງຢູ່ສະເຫມີ, ນາຍພົນ.
+00:02:46,360 --> 00:02:48,476
+Ground floor.
+ຊັ້ນລຸ່ມ.
 
 36
-00:02:53,100 --> 00:02:59,100
-[BALA]
-It's just that -- well, I'm honored that you selected me, and everything, I just thought the marriage might go a little more smoothly if -- we had a conversation?
-ມັນພຽງແຕ່ວ່າ - ດີ, ຂ້ອຍມີຄວາມກຽດທີ່ເຈົ້າໄດ້ເລືອກຂ້ອຍ, ແລະທຸກຢ່າງ,
-ຂ້ອຍພຽງແຕ່ຄິດວ່າການແຕ່ງງານອາດຈະ ດໍາ ເນີນໄປຢ່າງລຽບງ່າຍກວ່າເລັກນ້ອຍຖ້າ - ພວກເຮົາມີການສົນທະນາ?
+00:03:13,440 --> 00:03:15,874
+-
+- Uh, worker.
+- ໂອ້, ຄົນງານ.
 
 37
-00:02:59,600 --> 00:03:01,600
-[FORMICA]
-Conversation...yes...well...  Wasn't she briefed?
-ການສົນທະນາ... ແມ່ນແລ້ວ... ດີ... ນາງບໍ່ໄດ້ແຈ້ງໃຫ້ຊາບບໍ?
+00:03:18,800 --> 00:03:20,631
+Soldier.
+ທະຫານ.
 
 38
-00:03:02,100 --> 00:03:08,100
-[QUEEN]
-Look, General!  A darling baby soldier!  Don't try to be a hero!  Just make sure you come back in one piece!  Next!
-ເບິ່ງ, ນາຍພົນ! ນັກຮົບເດັກນ້ອຍທີ່ຮັກແພງ! ຢ່າພະຍາຍາມເປັນວິລະຊົນ
-! ພຽງແຕ່ແນ່ໃຈວ່າເຈົ້າກັບມາຢ່າງດຽວ! ຕໍ່ໄປ!
+00:03:20,720 --> 00:03:22,551
+Ooh.
+ໂອ້.
 
 39
-00:03:08,600 --> 00:03:12,450
-[FORMICA]
-I'll take your suggestion under advisement, Princess.  In the meanwhile --
-ຂ້ອຍຈະເອົາຂໍ້ສະເຫນີຂອງທ່ານຕາມຄໍາແນະນໍາ, ເຈົ້າຍິງ. ໃນຂະນະດຽວກັນ -
+00:03:22,640 --> 00:03:24,756
+- Uh-oh.
+- Worker.
+- ໂອ້.
+- ຄົນງານ.
 
 40
-00:03:12,950 --> 00:03:15,400
-[BALA]
-General -- we have to talk sometime!
-ນາຍພົນ - ພວກເຮົາຕ້ອງເວົ້າກັນບາງຄັ້ງ!
+00:03:32,280 --> 00:03:34,316
+Let's try it again.
+ມາລອງອີກເທື່ອໜຶ່ງ.
 
 41
-00:03:15,900 --> 00:03:20,100
-[FORMICA]
-Very well.  Carpenter, is there a convenient time to talk vis-a-vis: relationship?
-ດີຫຼາຍ. ຄາປິນເຕີ, ມີເວລາທີ່ ເຫມາະ
-ສົມທີ່ຈະເວົ້າຕໍ່ກັບ: ຄວາມສໍາພັນບໍ?
+00:03:34,440 --> 00:03:39,150
+Firm grip. Swing hard.
+Back straight. Concentrate.
+ຈັບຢ່າງເຂັ້ມງວດ.ຫັນຢ່າງແຂງແຮງ.
+ກັບຄືນໄປບ່ອນກົງກັນຂ້າມ.ສຸມໃສ່.
 
 42
-00:03:20,600 --> 00:03:25,150
-[CARPENTER]
-Actually, sir, we're ahead of schedule.  We have thirty-six seconds available right now.
-ໃນຄວາມເປັນຈິງ, ທ່ານ, ພວກເຮົາຢູ່ກ່ອນແຜນການ
-. ພວກເຮົາມີສາມສິບຫົກວິນາທີທີ່ມີຢູ່ດຽວນີ້.
+00:03:39,280 --> 00:03:41,077
+Follow through.
+ຕິດຕາມຕໍ່ໄປ.
 
 43
-00:03:25,650 --> 00:03:27,650
-[FORMICA]
-Outstanding.  Princess...?
-ດີເລີດ. ເຈົ້າຍິງ...?
+00:04:06,480 --> 00:04:08,869
+OK. Got to keep a positive attitude.
+ດີແລ້ວ. ຕ້ອງຮັກສາທັດສະນະທາງບວກ.
 
 44
-00:03:28,150 --> 00:03:31,300
-[BALA]
-So, um...how was your day?  What did you do?
-ສະນັ້ນ, ອູມ... ມື້ຂອງທ່ານເປັນແນວໃດ? ເຈົ້າເຮັດຫຍັງ?
+00:04:08,960 --> 00:04:11,713
+Even though
+I'm utterly insignificant.
+ເຖິງແມ່ນວ່າຂ້ອຍບໍ່ມີຄວາມສໍາຄັນເລີຍ.
 
 45
-00:03:31,800 --> 00:03:33,800
-[FORMICA]
-Well...  I declared war!
-ດີ... ຂ້ອຍໄດ້ປະກາດສົງຄາມ!
+00:04:12,520 --> 00:04:15,796
+I'm-I'm insignificant, um,
+but with attitude.
+ຂ້ອຍ-ຂ້ອຍບໍ່ມີຄວາມໝາຍ
+,ອູມ,ແຕ່ດ້ວຍທັດສະນະ.
 
 46
-00:03:34,300 --> 00:03:37,450
-[BALA]
-Oh...and I was afraid we had nothing in common...
-ໂອ້... ແລະຂ້ອຍຢ້ານວ່າພວກເຮົາບໍ່ມີຫຍັງຮ່ວມກັນ...
+00:04:15,880 --> 00:04:18,110
+-
+- Oh, sorry, Z,
+- ໂອ້, ຂໍໂທດ Z,
 
 47
-00:03:37,950 --> 00:03:39,950
-[CARPENTER]
-Fourteen-fifty hours, sir.
-ສີ່ສິບຫ້າຊົ່ວໂມງເດີເດີ.
+00:04:18,200 --> 00:04:20,714
+- I didn't see ya.
+- Great, Azteca.
+- ຂ້ອຍບໍ່ເຫັນເຈົ້າ.
+- ດີເລີດ, ອາສເຕກາ.
 
 48
-00:03:40,450 --> 00:03:42,450
-[FORMICA]
-Duty calls!
-ການໂທຫາຫນ້າທີ່!
+00:04:20,840 --> 00:04:23,354
+I'm so meaningless, I'm invisible.
+ຂ້ອຍບໍ່ມີຄວາມໝາຍຫຼາຍ
+,ຂ້ອຍເບິ່ງບໍ່ເຫັນ.
 
 49
-00:03:42,950 --> 00:03:44,950
-[FORMICA]
-No squeak.  Outstanding!
-ບໍ່ມີສຽງສັ່ນສະເທືອນ. ດີເລີດ!
+00:04:26,560 --> 00:04:28,391
+Now, you're getting it.
+ດຽວນີ້, ເຈົ້າ ກໍາ ລັງເຂົ້າໃຈມັນ.
 
 50
-00:03:45,450 --> 00:03:49,300
-[QUEEN]
-I felt the same way before I got married.  Confused.  Scared.
-ຂ້ອຍຮູ້ສຶກຄືກັນກ່ອນທີ່ຈະແຕ່ງງານ. ຫຸ້ນວາຍ. ຢ້ານກົວ.
+00:04:28,480 --> 00:04:31,836
+After all, it's not about you.
+ຫຼັງຈາກນັ້ນ, ມັນບໍ່ແມ່ນກ່ຽວກັບເຈົ້າ.
 
 51
-00:03:49,800 --> 00:03:51,800
-[BALA]
-You did?
-ແມ່ນແລ້ວບໍ່?
+00:04:31,960 --> 00:04:34,713
+It's about us... the team.
+ມັນກ່ຽວກັບພວກເຮົາ... ທີມງານ.
 
 52
-00:03:52,300 --> 00:03:58,300
-[QUEEN]
-Yes -- but I did my duty and sorted out all those messy feelings.  The wonderful thing about ant life is that everything is arranged.  Even marriage.  You're lucky -- General Formica is a paragon of anthood.
-ແມ່ນແລ້ວ - ແຕ່ຂ້ອຍເຮັດຫນ້າທີ່ຂອງຂ້ອຍແລະແກ້ໄຂຄວາມຮູ້ສຶກທີ່ສັບສົນທັງ ຫມົດ ນັ້ນ.
-ສິ່ງທີ່ຍິ່ງໃຫຍ່ກ່ຽວກັບຊີວິດແມງໄມ້ແມ່ນວ່າທຸກຢ່າງຖືກຈັດຕັ້ງໄວ້. ເຖິງແມ່ນວ່າການແຕ່ງງານ. ເຈົ້າໂຊກດີ - ນາຍພົນຟໍມິກາແມ່ນຕົວແບບຂອງຄວາມເປັນແມງໄມ.
+00:04:34,800 --> 00:04:37,314
+It's about... this.
+ມັນກ່ຽວກັບ... ນີ້ແມ່ນ.
 
 53
-00:03:58,800 --> 00:04:00,800
-[BALA]
-Yes...he's wonderful...
-ແມ່ນແລ້ວ... ລາວດີເລີດ...
+00:04:38,160 --> 00:04:40,754
+Uh, a giant hole in the ground?
+ໂອ້, ຮູໃຫຍ່ໃນດິນບໍ?
 
 54
-00:04:01,300 --> 00:04:03,400
-[HANDMAIDEN #1]
-The General's body segments are so...symmetrical.
-ສ່ວນຮ່າງກາຍຂອງພົນຈັດຕະວາແມ່ນ... ສົມທຽບຫຼາຍ.
+00:04:40,840 --> 00:04:44,469
+- OK, people. Are we feeling good?
+- Yeah!
+- ດີແລ້ວ, ຄົນ. ພວກເຮົາຮູ້ສຶກດີບໍ?
+- ແມ່ນແລ້ວ!
 
 55
-00:04:03,900 --> 00:04:06,700
-[HANDMAIDEN #2]
-I'd let him order me into battle anyday.
-ຂ້ອຍຈະປ່ອຍໃຫ້ລາວສັ່ງໃຫ້ຂ້ອຍໄປຕໍ່ສູ້ທຸກມື້.
+00:04:44,560 --> 00:04:46,471
+- Yeah.
+- Great.
+- ແມ່ນແລ້ວ.
+- ດີເລີດ.
 
 56
-00:04:07,200 --> 00:04:09,200
-[HANDMAIDEN #1]
-Princess?  What's wrong?
-ເຈົ້າຍິງ? ມີຫຍັງເກີດຂຶ້ນ?
+00:04:46,560 --> 00:04:51,509
+Now, R-1734 through Z-7829,
+you guys are on wrecking ball.
+ດຽວນີ້, R-1734 ເຖິງ Z-7829
+,ພວກເຈົ້າຢູ່ໃນບານທໍາລາຍ.
 
 57
-00:04:09,700 --> 00:04:15,700
-[BALA]
-Wrong?  How could anything be wrong? I'm going to marry General Formica and be a queen and have millions of babies, just like my mom.  Do I look fat to you?
-ຜິດບໍ? ມີຫຍັງຜິດໄດ້ແນວໃດ? ຂ້ອຍຈະແຕ່ງງານກັບພົນຈັດຕະວາຟໍມິກາແລະເປັນລາຊິນີແລະມີເດັກນ້ອຍຫຼາຍລ້ານຄົນ
-, ຄືກັບແມ່ຂອງຂ້ອຍ. ຂ້ອຍເບິ່ງຄືວ່າໄຂມັນບໍ?
+00:04:51,600 --> 00:04:53,352
+- You got it.
+- Swell.
+- ເຈົ້າເຮັດແລ້ວ.
+- ດີເລີດ.
 
 58
-00:04:16,200 --> 00:04:18,200
-[HANDMAIDEN #2]
-Pre-wedding jitters.
-ຄວາມກັງວົນກ່ອນງານແຕ່ງງານ.
+00:04:53,480 --> 00:04:55,596
+- You got it.
+- All right.
+- ເຈົ້າເຮັດແລ້ວ.
+- ດີແລ້ວ.
 
 59
-00:04:18,700 --> 00:04:24,650
-[HANDMAIDEN #1]
-You just need to blow off some steam. Let's go to the bar at the Royal Club!
-ເຈົ້າພຽງແຕ່ຕ້ອງຫາຍຄວາມຮ້ອນບາງຢ່າງ. ໄປບາຢູ່ສະໂມສອນລາຊະອານາຈັກ!
+00:04:57,840 --> 00:05:00,308
+Now, remember, Azteca,
+"Be the ball."
+ດຽວນີ້, ຈື່ໄວ້, ອາສເຕກາ,"ເປັນບານ."
 
 60
-00:04:25,150 --> 00:04:28,650
-[BALA]
-The Club's so stuffy.  I want to try someplace different.
-ສະໂມສອນມີຄວາມສັ່ນສະເທືອນຫຼາຍ. ຂ້ອຍຢາກພະຍາຍາມຢູ່ບ່ອນອື່ນ.
+00:05:00,400 --> 00:05:04,279
+That's the main thing.
+You know, be one with the ball.
+ນັ້ນແມ່ນສິ່ງທີ່ສໍາຄັນ.ເຈົ້າ
+ຮູ້ແລ້ວ,ເປັນຄົນດຽວກັບບານ.
 
 61
-00:04:29,150 --> 00:04:32,300
-[HANDMAIDEN #2]
-There isn't anyplace else --  Except the worker bar.
-ບໍ່ມີບ່ອນອື່ນເລີຍ - ຍົກເວັ້ນແຖບຄົນງານ.
+00:05:04,360 --> 00:05:06,191
+Would you cut it out already?
+ເຈົ້າຈະຢຸດມັນແລ້ວບໍ?
 
 62
-00:04:32,800 --> 00:04:36,300
-[BALA]
-The worker bar!  Yes!  That's where I want to go!
-ບາຄົນງານ! ແມ່ນແລ້ວ! ນັ້ນແມ່ນບ່ອນທີ່ຂ້ອຍຢາກໄປ!
+00:05:06,280 --> 00:05:09,590
+Jeez. I love my work.
+And you, well...
+ພຣະເຢຊູ.ຂ້ອຍມັກວຽກ
+ຂອງຂ້ອຍ.ແລະເຈົ້າ,ດີ...
 
 63
-00:04:36,800 --> 00:04:39,950
-[HANDMAIDEN #1]
-But -- we can't -- there'll be workers there.
-ແຕ່ - ພວກເຮົາບໍ່ສາມາດ - ຈະມີຄົນງານຢູ່ບ່ອນນັ້ນ.
+00:05:09,680 --> 00:05:11,989
+You think too much.
+ເຈົ້າຄິດຫຼາຍເກີນໄປ.
 
 64
-00:04:40,450 --> 00:04:42,450
-[WEAVER]
-I'll be back.
-ຂ້ອຍຈະກັບມາ.
+00:05:12,080 --> 00:05:16,153
+Come on, Z. Help us build
+a bigger, better colony.
+ມາແລ້ວ, Z .ຊ່ວຍພວກເຮົາສ້າງຄ
+ລູເນຍທີ່ໃຫຍ່ກວ່າແລະດີກວ່າ.
 
 65
-00:04:42,950 --> 00:04:44,950
-[APHIDS]
-Ouch!  Ouch!
-ໂອ້! ໂອບ!
+00:05:16,240 --> 00:05:18,231
+And try to be happy about it.
+ແລະພະຍາຍາມມີຄວາມສຸກກ່ຽວກັບມັນ.
 
 66
-00:04:45,450 --> 00:04:47,450
-[BARTENDER]
-Two aphid beers.
-ເບຍປິຟິດສອງເບຍ.
+00:05:18,320 --> 00:05:20,276
+Sure, you know. I mean, why...
+ແນ່ນອນ,ເຈົ້າຮູ້ແລ້ວ.ຂ້ອຍ
+ໝາຍຄວາມວ່າ,ເປັນຫຍັງ...
 
 67
-00:04:47,950 --> 00:04:50,750
-[WEAVER]
-I don't know what you're talking about, Z.
-ຂ້ອຍບໍ່ຮູ້ວ່າເຈົ້າເວົ້າຫຍັງ, Z.
+00:05:20,360 --> 00:05:23,591
+How could I be unhappy being
+construction equipment?
+ຂ້ອຍຈະບໍ່ພໍໃຈເປັນອຸປະ
+ກອນການກໍ່ສ້າງໄດ້ແນວໃດ?
 
 68
-00:04:51,250 --> 00:04:55,800
-[WEAVER]
-Yeah, but you get to spend all day with those fabulous worker babes.
-ແມ່ນແລ້ວ, ແຕ່ເຈົ້າຈະໃຊ້ເວລາທັງ ຫມົດ
-ມື້ກັບເດັກນ້ອຍຄົນງານທີ່ຍິ່ງໃຫຍ່ນັ້ນ.
+00:05:23,680 --> 00:05:26,274
+- OK, workers, remember.
+- Here it comes.
+- ດີແລ້ວ, ຄົນງານ, ຈື່ໄວ້.
+- ມາແລ້ວ.
 
 69
-00:04:56,300 --> 00:05:02,300
-[WEAVER]
-Who said there was a girl for you? I was talking about a girl for me.  Don't you want your aphid beer?
-ໃຜບອກວ່າມີເດັກຍິງສໍາລັບເຈົ້າ? ຂ້ອຍ ກໍາ ລັງເວົ້າກ່ຽວກັບເດັກຍິງ
-ສໍາ ລັບຂ້ອຍ. ເຈົ້າບໍ່ຢາກເບຍ aphid ຂອງທ່ານບໍ?
+00:05:26,360 --> 00:05:29,158
+- Be the ball.
+- Oh!
+- ເປັນບານ.
+- ໂອ້!
 
 70
-00:05:02,800 --> 00:05:05,950
-[WEAVER]
-Z, we've known each other a long time, right?
-Z, ພວກເຮົາຮູ້ຈັກກັນເປັນເວລາດົນນານແລ້ວ, ແມ່ນບໍ?
+00:05:29,240 --> 00:05:32,312
+Let the energy flow through you.
+ໃຫ້ພະລັງງານໄຫຼຜ່ານເຈົ້າ.
 
 71
-00:05:06,450 --> 00:05:12,450
-[WEAVER]
-And all the time I've known you, you've been grumping and groaning. You should quit making waves.  Go with the flow.
-ແລະຕະຫຼອດເວລາທີ່ຂ້ອຍຮູ້ຈັກເຈົ້າ, ເຈົ້າ ກໍາ
-ລັງສັ່ນສະເທືອນແລະຮ້ອງໄຫ້. ເຈົ້າຄວນຢຸດການສ້າງຄື້ນຟອງ. ໄປກັບສາຍໄຫຼ.
+00:05:34,400 --> 00:05:38,552
+G-grin and bear it. This is...
+this is for the colony. Oh.
+G- ມ່ວນຊື່ນແລະທົນມັນ.ນີ້ແມ່ນ
+...ນີ້ແມ່ນສໍາລັບຄລູເນຍ.ໂອ້.
 
 72
-00:05:12,950 --> 00:05:18,950
-[DRUNK SCOUT]
-Have you been to Insectopia?  Have you?  No, ya goddam larvas!  But I have...  ...Mosquitos n' caterpillars n' beetles -- all livin' in peace, stuffin their guts with food...No rules, no regulations...you can be your own ant there...  It's Insectopia!  Insectopia!
-ເຈົ້າເຄີຍໄປ Insectopia ບໍ? ເຈົ້າໄດ້ບໍ? ບໍ່, ເຈົ້າແມງໄມ້ແມງໄມ້ນັ້ນ! ແຕ່ຂ້ອຍມີ...... ແມງໄມ້ແມງແມງ ໄມ້ນ້ ໍາ - ທຸກຄົນອາໄສຢູ່ໃນຄວາມສະຫງົບ,
-ເຕັມໃຈທ້ອງຂອງພວກເຂົາດ້ວຍອາຫານ... ບໍ່ມີກົດລະບຽບ, ບໍ່ມີລະບຽບການ... ເຈົ້າສາມາດເປັນແມວຂອງເຈົ້າເອງຢູ່ບ່ອນນັ້ນ... ມັນແມ່ນ Insctopia! Insectopia!
+00:05:38,640 --> 00:05:40,312
+-
+- Ow!
+- ໂອ້!
 
 73
-00:05:19,450 --> 00:05:25,450
-[DRUNK SCOUT]
-I was cut off from my unit -- found it by mistake --  It changed my life!  You see -- ya follow the great yellow egg, and you come to the land of red and white --
-ຂ້ອຍຖືກຕັດອອກຈາກ ຫນ່ວຍ ງານຂອງຂ້ອຍ - ພົບມັນໂດຍຄວາມຜິດພາດ - ມັນໄດ້ປ່ຽນແປງຊີວິດຂອງຂ້ອຍ
-! ເຈົ້າເຫັນແລ້ວ - ເຈົ້າຕິດຕາມໄຂ່ສີເຫຼືອງໃຫຍ່, ແລະເຈົ້າມາສູ່ດິນຂອງສີແດງແລະສີຂາວ -
+00:05:40,400 --> 00:05:43,870
+T-this is just a lawsuit
+waiting to happen.
+T -ນີ້ແມ່ນພຽງແຕ່ການຟ້ອງ
+ຮ້ອງທີ່ລໍຖ້າທີ່ຈະເກີດຂຶ້ນ.
 
 74
-00:05:25,950 --> 00:05:30,850
-[SOLDIERS]
-You've had enough for one night! Come on, Gramps, before you get in trouble.
-ເຈົ້າກິນພຽງພໍ ສໍາ ລັບຄືນດຽວ! ມາແລ້ວ, ພໍ່ເຖົ້າ
-, ກ່ອນທີ່ທ່ານຈະເຂົ້າໄປໃນຄວາມຫຍຸ້ງຍາກ.
+00:05:43,960 --> 00:05:46,952
+- Hang on. Here we go.
+- Faster. Harder.
+- ລໍຖ້າ. ມາແລ້ວ.
+- ໄວຂຶ້ນ. ແຂງແຮງຂຶ້ນ.
 
 75
-00:05:31,350 --> 00:05:34,150
-[WEAVER]
-Poor guy's had one too many scouting missions.
-ຄົນທຸກຍາກໄດ້ມີພາລະກິດການກວດສອບຫຼາຍເກີນໄປ.
+00:05:47,040 --> 00:05:49,474
+Did you know
+heights make me nauseous?
+ເຈົ້າຮູ້ວ່າຄວາມສູງ
+ເຮັດໃຫ້ຂ້ອຍໂຊກຮ້າຍບໍ?
 
 76
-00:05:34,650 --> 00:05:37,800
-[HANDMAIDEN #2]
-We shouldn't be doing this -- it isn't proper!
-ພວກເຮົາບໍ່ຄວນເຮັດສິ່ງນີ້ - ມັນບໍ່ຖືກຕ້ອງ!
+00:05:49,560 --> 00:05:50,515
+No.
+ບໍ່.
 
 77
-00:05:38,300 --> 00:05:40,300
-[BALA]
-I'm the Princess, aren't I?
-ຂ້ອຍເປັນເຈົ້າຍິງ, ແມ່ນບໍ?
+00:05:50,600 --> 00:05:52,909
+This is a ball!
+ນີ້ແມ່ນບານ!
 
 78
-00:05:40,800 --> 00:05:42,800
-[HANDMAIDEN #2]
-Of course --
-ແມ່ນແລ້ວ...
+00:05:53,000 --> 00:05:55,434
+-
+- Hey!
+- ເຮ້!
 
 79
-00:05:43,300 --> 00:05:45,400
-[BALA]
-And do Princesses do improper things?
-ແລະເຈົ້າຍິງເຮັດສິ່ງທີ່ບໍ່ຖືກຕ້ອງບໍ?
+00:06:03,160 --> 00:06:06,709
+- Oh, Z.
+- Yes, yes. I dropped the ball.
+- ໂອ້, Z.
+- ແມ່ນແລ້ວ, ແມ່ນແລ້ວ. ຂ້ອຍໄດ້ປ່ອຍບານລົງ.
 
 80
-00:05:45,900 --> 00:05:47,900
-[HANDMAIDEN #2]
-Of course not --
-ແນ່ນອນວ່າບໍ່ແມ່ນ...
+00:06:10,560 --> 00:06:13,233
+Workers. They're weak.
+ຄົນງານ. ພວກເຂົາອ່ອນແອ.
 
 81
-00:05:48,400 --> 00:05:54,400
-[BALA]
-Then if I go to the worker bar, it isn't improper.  Anyway, don't worry. No one will recognize us in our disguises.
-ຫຼັງຈາກນັ້ນຖ້າຂ້ອຍໄປບາຄົນງານ, ມັນບໍ່ແມ່ນບໍ່ຖືກຕ້ອງ. ຢ່າງໃດກໍ່ຕາມ
-, ຢ່າກັງວົນ. ບໍ່ມີໃຜຈະຮູ້ຈັກພວກເຮົາໃນຊຸດແຕ່ງຕົວຂອງພວກເຮົາ.
+00:06:13,320 --> 00:06:16,551
+They lack discipline.
+They lack commitment.
+ພວກເຂົາຂາດການວິໄນ.
+ພວກເຂົາບໍ່ມີຄວາມໝັ້ນໝາຍ.
 
 82
-00:05:54,900 --> 00:05:58,750
-[BALA]
-I'm just a common worker, cooling off after a rough day!
-ຂ້ອຍພຽງແຕ່ເປັນຄົນງານທົ່ວໄປ, ເຢັນລົງຫຼັງຈາກມື້ທີ່ຫຍຸ້ງຍາກ!
+00:06:16,640 --> 00:06:20,349
+General, I know there's
+been a glitch or two,
+ນາຍພົນ, ຂ້ອຍຮູ້ວ່າມີຂໍ້ຜິດພາດບາງຢ່າງ,
 
 83
-00:05:59,250 --> 00:06:03,100
-[BARKER]
-Okay, folks.  It's six-fifteen, and that means it's time to dance.
-ດີແລ້ວ, ພວກຄົນ. ມັນເປັນຫົກສິບຫ້າ,
-ແລະນັ້ນຫມາຍຄວາມວ່າມັນເຖິງເວລາທີ່ຈະເຕັ້ນ.
+00:06:20,440 --> 00:06:23,716
+but everybody is working full tilt,
+as it is...
+ແຕ່ທຸກຄົນກໍາລັງເຮັດວຽກ
+ຢ່າງເຕັມທີ່,ດັ່ງທີ່ມັນເປັນ...
 
 84
-00:06:03,600 --> 00:06:05,700
-[WEAVER]
-Time to cut a rug, Z!
-ມັນເຖິງເວລາແລ້ວທີ່ຈະຕັດກະຕ່າ, Z!
+00:06:24,640 --> 00:06:27,154
+You can't help it, it's your nature.
+ເຈົ້າບໍ່ສາມາດຊ່ວຍມັນໄດ້
+,ມັນແມ່ນທໍາມະຊາດຂອງທ່ານ.
 
 85
-00:06:06,200 --> 00:06:09,350
-[WEAVER]
-Well, you just sit here and be a party-pooper.
-ດີ, ເຈົ້າພຽງແຕ່ນັ່ງຢູ່ນີ້ແລະເປັນຄົນໂຊກຮ້າຍງານລ້ຽງ.
+00:06:27,240 --> 00:06:29,390
+But in spite of your limitations,
+ແຕ່ເຖິງແມ່ນວ່າຄວາມຈໍາກັດຂອງເຈົ້າ,
 
 86
-00:06:09,850 --> 00:06:14,400
-[BARKER]
-And a left-right-quarterstep-back step-halfstep -- a left-right- quarterstep-backstep-halfstep -- a left-right-quarterstep-backstep halfstep --
-ແລະບາດກ້າວທີສີ່ຊ້າຍ-ຂວາ-ຊ້າຍເຄິ່ງຂັ້ນຕອນ - ການຊ້າຍຂວາ -
-ການສີ່ສິບຂັ້ນຕອນ-ການຊ້າເຄິ່ງບາດກໍານົດ - ການທາງຊ້າຍຊ້າຍສີ່ສະບັບ- ການຊ້າ ເຄິ່ງຂັ້ນ ຕອນ -
+00:06:29,480 --> 00:06:32,313
+you will finish
+this tunnel on schedule.
+ເຈົ້າຈະສິ້ນສຸດທໍ່ນີ້ຕາມກໍານົດເວລາ.
 
 87
-00:06:14,900 --> 00:06:19,800
-[BALA]
-I'm going to ask one of these mindless, primitive worker-types to dance with me!
-ຂ້ອຍຈະຂໍໃຫ້ຄົນງານແບບ ທໍາ ມະດາທີ່ບໍ່ມີຈິດໃຈນີ້ເຕັ້ນກັບຂ້ອຍ!
+00:06:32,400 --> 00:06:34,197
+Come hell or high water.
+ມາສູ່ອານາໄມຫຼືນ້ ໍາ ສູງ.
 
 88
-00:06:20,300 --> 00:06:22,400
-[HANDMAIDEN #1]
-But General Formica would be furious!
-ແຕ່ພົນຈັດຕະວາຟໍມິກາຈະໂຊກຮ້າຍ!
+00:06:34,280 --> 00:06:38,193
+Anyone who falls behind
+will explain why to Colonel Cutter.
+ໃຜທີ່ຕົກຢູ່ເບື້ອງຫຼັງຈະອະທິບາຍ
+ເຫດຜົນໃຫ້ພົນຈັດຕະວາຄັດເຕີ.
 
 89
-00:06:22,900 --> 00:06:24,900
-[BALA]
-I know.
-ຂ້ອຍຮູ້ແລ້ວ.
+00:06:38,280 --> 00:06:42,876
+And let me assure you, the colonel
+is not as understanding as I am.
+ແລະຂໍໃຫ້ຂ້ອຍຮັບປະກັນເຈົ້າ,ນາຍພົນ
+ບໍ່ແມ່ນຄວາມເຂົ້າໃຈເທົ່າກັບຂ້ອຍ.
 
 90
-00:06:25,400 --> 00:06:27,400
-[BALA]
-Wanna dance?
-ເຈົ້າຢາກເຕັ້ນບໍ?
+00:06:42,960 --> 00:06:44,757
+Dismissed.
+ຖືກໄລ່ອອກ.
 
 91
-00:06:27,900 --> 00:06:31,400
-[BALA]
-I work in the palace, I don't get out much.
-ຂ້ອຍເຮັດວຽກໃນທໍານຽບ, ຂ້ອຍບໍ່ອອກໄປຫຼາຍ.
+00:06:47,000 --> 00:06:50,117
+Four more days, Cutter.
+Four more days.
+ສີ່ມື້ອີກ, ຄັດເຕີ. ສີ່ວັນອີກ.
 
 92
-00:06:31,900 --> 00:06:33,900
-[BALA]
+00:06:50,200 --> 00:06:53,875
+Then we can bid farewell
+to their kind of incompetence.
+ຫຼັງຈາກນັ້ນພວກເຮົາສາມາດອວຍ
+ພອນຄວາມບໍ່ສາມາດຂອງພວກເຂົາໄດ້.
+
+93
+00:06:53,960 --> 00:06:55,313
+Yes, sir.
+ແມ່ນແລ້ວເດີ.
+
+94
+00:06:55,400 --> 00:06:57,391
+A fresh start.
+ການເລີ່ມຕົ້ນໃໝ່.
+
+95
+00:06:57,480 --> 00:07:00,358
+- Imagine it!
+- A strong colony, sir.
+- ຈິນຕະນາການມັນ!
+- ເປັນຄoloni ທີ່ເຂັ້ມແຂງເດີເດີເດີ.
+
+96
+00:07:00,440 --> 00:07:02,317
+A colony we can be proud of.
+ເປັນຄລູເນຍທີ່ພວກເຮົາສາມາດພາກພູມໃຈໄດ້.
+
+97
+00:07:02,400 --> 00:07:04,675
+Yes, but we're not there yet.
+ແມ່ນແລ້ວ,ແຕ່ພວກເຮົາ
+ຍັງບໍ່ຮອດຈຸດນັ້ນເທື່ອ.
+
+98
+00:07:04,760 --> 00:07:09,356
+We just got word that a termite army
+has mobilised against us.
+ພວກເຮົາຫາກໍ່ໄດ້ຮັບຂ່າວວ່າກອງທັບ
+ແມງໄມ້ໄດ້ເຄື່ອນໄຫວຕໍ່ຕ້ານພວກເຮົາ.
+
+99
+00:07:09,440 --> 00:07:12,989
+- Against us?
+- We'll have to send troops...
+- ຕໍ່ຕ້ານພວກເຮົາບໍ?
+- ພວກເຮົາຕ້ອງສົ່ງທະຫານ...
+
+100
+00:07:13,080 --> 00:07:14,877
+to attack their colony.
+ເພື່ອໂຈມຕີຄລູເນຍຂອງພວກເຂົາ.
+
+101
+00:07:14,960 --> 00:07:17,269
+Attack a termite colony, sir?
+ໂຈມຕີຄລູເນຍແມງໄມ້ບໍ, ທ້າວ?
+
+102
+00:07:17,360 --> 00:07:19,316
+- That's suicide.
+- Exactly.
+- ນັ້ນແມ່ນການຂ້າຕົວຕາຍ.
+- ແມ່ນແລ້ວ.
+
+103
+00:07:19,400 --> 00:07:23,188
+- Do you have the list I asked for?
+- Yes, General.
+- ເຈົ້າມີລາຍຊື່ທີ່ຂ້ອຍຂໍບໍ?
+- ແມ່ນແລ້ວ, ນາຍພົນ.
+
+104
+00:07:23,280 --> 00:07:27,239
+These are the units
+loyal to the queen.
+ນີ້ແມ່ນໜ່ວຍງານທີ່ສັດຊື່ຕໍ່ລາຊິນີ.
+
+105
+00:07:27,960 --> 00:07:30,872
+Hm. Then they're
+the ones we'll be sending.
+ຮັມ.ຫຼັງຈາກນັ້ນພວກເຂົາ
+ແມ່ນຜູ້ທີ່ພວກເຮົາຈະສົ່ງ.
+
+106
+00:07:30,960 --> 00:07:34,077
+It's a shame.
+There's some fine officers here.
+ມັນເປັນຄວາມໂຊກຮ້າຍ.ມີເຈົ້າໜ້າທີ່
+ທີ່ດີເລີດບາງຄົນຢູ່ນີ້.
+
+107
+00:07:34,160 --> 00:07:38,233
+Don't we need the queen's
+approval to declare war?
+ພວກເຮົາບໍ່ຕ້ອງການຄວາມເຫັນດີ
+ຂອງລາຊິນີທີ່ຈະປະກາດສົງຄາມບໍ?
+
+108
+00:07:38,320 --> 00:07:40,276
+Our very next stop, Cutter.
+ບ່ອນຢຸດຕໍ່ໄປຂອງພວກເຮົາ, ຄັດເຕີ.
+
+109
+00:07:42,440 --> 00:07:45,079
+General,
+we've been at peace for years.
+ນາຍພົນ,ພວກເຮົາມີຄວາມສະຫງົບ
+ສຸກເປັນເວລາຫຼາຍປີແລ້ວ.
+
+110
+00:07:45,160 --> 00:07:48,072
+- Why would they attack?
+- They want our land.
+- ພວກເຂົາຈະໂຈມຕີເປັນຫຍັງ?
+- ພວກເຂົາຢາກດິນຂອງພວກເຮົາ.
+
+111
+00:07:48,160 --> 00:07:53,234
+They're desperate for new territory.
+Perhaps they think we've grown soft.
+ພວກເຂົາຕ້ອງການດິນແດນໃໝ່ຢ່າງຮຸນແຮງ.ບາງທີ
+ພວກເຂົາຄິດວ່າພວກເຮົາໄດ້ເຕີບໃຫຍ່ອ່ອນແອ.
+
+112
+00:07:53,320 --> 00:07:57,871
+Why don't we dispatch an ambassador,
+negotiate a new treaty?
+ເປັນຫຍັງພວກເຮົາຈຶ່ງບໍ່ສົ່ງເອກ
+ອັກຄະລັດຖະທູດ,ເຈລະຈາສົນທິສັນຍາໃໝ່?
+
+113
+00:07:57,960 --> 00:08:01,396
+- We don't need to send soldiers.
+- Believe me,
+- ພວກເຮົາບໍ່ຈໍາເປັນຕ້ອງສົ່ງທະຫານ.
+- ເຊື່ອຂ້ອຍ,
+
+114
+00:08:01,520 --> 00:08:04,876
+every ant in this colony
+is so precious to me.
+ແມງໄມ້ທຸກຄົນໃນຄລູເນຍນີ້
+ມີຄວາມສໍາຄັນຫຼາຍຕໍ່ຂ້ອຍ.
+
+115
+00:08:04,960 --> 00:08:07,758
+-
+- That's why we must strike now.
+-ນັ້ນແມ່ນເຫດຜົນທີ່
+ພວກເຮົາຕ້ອງໂຈມຕີດຽວນີ້.
+
+116
+00:08:07,840 --> 00:08:09,910
+We have the element of surprise.
+ພວກເຮົາມີອົງປະກອບຄວາມແປກໃຈ.
+
+117
+00:08:10,000 --> 00:08:12,798
+If the termite troops
+enter our colony...
+ຖ້າກອງທັບແມງໄມ້ເຂົ້າໄປ
+ໃນຄ oloni ຂອງພວກເຮົາ...
+
+118
+00:08:12,880 --> 00:08:16,759
+Yes, General,
+I know what they can do to us.
+ແມ່ນແລ້ວ,ນາຍພົນ,ຂ້ອຍຮູ້ວ່າພວກເຂົາ
+ສາມາດເຮັດຫຍັງກັບພວກເຮົາໄດ້.
+
+119
+00:08:19,000 --> 00:08:21,833
+- Very well.
+- You've made a wise decision.
+- ດີຫຼາຍ.
+- ເຈົ້າໄດ້ຕັດສິນໃຈຢ່າງສະຫຼາດ.
+
+120
+00:08:21,920 --> 00:08:25,356
+In fact, you've ensured
+the future of this colony.
+ໃນຄວາມເປັນຈິງ,ເຈົ້າໄດ້ຮັບ
+ປະກັນອະນາຄົດຂອງຄລູເນຍນີ້.
+
+121
+00:08:27,320 --> 00:08:29,151
+Hello, General.
+ສະບາຍດີ ນາຍພົນ.
+
+122
+00:08:30,560 --> 00:08:33,438
+Princess Bala. What a nice surprise.
+ເຈົ້າຍິງບາລາ.ຄວາມແປກໃຈ
+ທີ່ສວຍງາມຫຼາຍປານໃດ.
+
+123
+00:08:33,520 --> 00:08:35,988
+You look lovelier
+each time I see you.
+ເຈົ້າເບິ່ງສວຍງາມກວ່າເກົ່າ
+ທຸກຄັ້ງທີ່ຂ້ອຍເຫັນເຈົ້າ.
+
+124
+00:08:36,080 --> 00:08:40,073
+Thanks. I hope you're not
+just here on business.
+ຂອບໃຈ.ຂ້ອຍຫວັງວ່າເຈົ້າບໍ່ໄດ້
+ຢູ່ບ່ອນນີ້ພຽງແຕ່ທາງທຸລະກິດເທົ່ານັ້ນ.
+
+125
+00:08:40,160 --> 00:08:42,993
+Oh, of course...
+of course not.
+ໂອ້ ແນ່ນອນ... ແນ່ນອນວ່າບໍ່ແມ່ນ.
+
+126
+00:08:43,120 --> 00:08:45,680
+Because, um, it might be nice...
+ເພາະ, ອູມ, ມັນອາດຈະດີ...
+
+127
+00:08:45,760 --> 00:08:50,356
+if we had a conversation once
+before we get married.
+ຖ້າພວກເຮົາໄດ້ສົນທະນາກັນ
+ຄັ້ງໜຶ່ງກ່ອນທີ່ຈະແຕ່ງງານ.
+
+128
+00:08:50,440 --> 00:08:55,434
+You're absolutely right. Schedule me
+some private time with Princess Bala.
+ເຈົ້າເວົ້າຖືກຕ້ອງຢ່າງສົມບູນ.ກໍານົດ
+ເວລາສ່ວນຕົວກັບເຈົ້າຍິງບາລາໃຫ້ຂ້ອຍ.
+
+129
+00:08:55,520 --> 00:08:58,876
+Uh, sir, there is time now
+for a personal moment.
+ໂອ້,ເຈົ້າ,ມີເວລາດຽວນີ້ສໍ
+າລັບຊ່ວງເວລາທີ່ສ່ວນຕົວ.
+
+130
+00:08:58,960 --> 00:09:01,315
+We're a few seconds
+ahead of schedule.
+ພວກເຮົາກ່ອນກໍານົດເວລາສອງສາມວິນາທີ.
+
+131
+00:09:01,400 --> 00:09:03,277
+Excellent. Princess.
+ດີເລີດ. ເຈົ້າຍິງ.
+
+132
+00:09:03,360 --> 00:09:06,830
+Well, a few seconds isn't much,
+ດີ, ສອງສາມວິນາທີບໍ່ແມ່ນຫຼາຍ,
+
+133
+00:09:06,920 --> 00:09:11,232
+but I guess if it's quality time...
+ແຕ່ຂ້ອຍຄິດວ່າຖ້າມັນ
+ເປັນເວລາທີ່ມີຄຸນນະພາບ...
+
+134
+00:09:11,320 --> 00:09:15,836
+So, how was your day?
+Anything interesting happen?
+ສະນັ້ນ,ມື້ຂອງທ່ານເປັນແນວໃດ
+?ມີຫຍັງໜ້າສົນໃຈເກີດຂຶ້ນບໍ?
+
+135
+00:09:15,920 --> 00:09:20,198
+- We declared war.
+- Declared war?
+- ພວກເຮົາປະກາດສົງຄາມ.
+- ປະກາດສົງຄາມບໍ?
+
+136
+00:09:20,280 --> 00:09:22,157
+Boy, talk about a rough day.
+ເດັກຊາຍ, ເວົ້າກ່ຽວກັບມື້ທີ່ຫຍຸ້ງຍາກ.
+
+137
+00:09:22,240 --> 00:09:26,199
+Sir, I hate to interrupt,
+but time stands still for no ant.
+ເຈົ້າ,ຂ້ອຍບໍ່ຢາກລົບກວນ,ແຕ່
+ເວລາຢຸດເຊົາສໍາລັບແມງໄມ້ໃດໆ.
+
+138
+00:09:26,280 --> 00:09:28,111
+Princess.
+ເຈົ້າຍິງ.
+
+139
+00:09:33,080 --> 00:09:37,676
+Mom, could you remind me,
+why am I marrying this guy?
+ແມ່,ເຈົ້າສາມາດເຕືອນຂ້ອຍໄດ້ບໍ,
+ເປັນຫຍັງຂ້ອຍຈຶ່ງແຕ່ງງານກັບຄົນນີ້?
+
+140
+00:09:37,760 --> 00:09:40,638
+Bala, do we have to argue
+about this again?
+ບາລາ,ພວກເຮົາຕ້ອງໂຕ້ຖຽງ
+ກ່ຽວກັບເລື່ອງນີ້ອີກບໍ?
+
+141
+00:09:40,720 --> 00:09:44,508
+We don't have anything in common.
+The guy's a stiff.
+ພວກເຮົາບໍ່ມີຫຍັງຮ່ວມກັນ
+.ຜູ້ຊາຍຄົນນັ້ນແຂງແຮງ.
+
+142
+00:09:44,600 --> 00:09:47,194
+Yes, darling.
+I know the General is...
+ແມ່ນແລ້ວ,ທີ່ຮັກ.ຂ້ອຍ
+ຮູ້ວ່າພົນຈັດຕະວາແມ່ນ...
+
+143
+00:09:47,280 --> 00:09:50,670
+a little gruff
+and somewhat overbearing at times,
+ບາງຄັ້ງກະຕຸ້ນແລະໂຊກຮ້າຍບາງຢ່າງ,
+
+144
+00:09:50,760 --> 00:09:53,558
+but I know that he cares about you.
+ແຕ່ຂ້ອຍຮູ້ວ່າລາວສົນໃຈເຈົ້າ.
+
+145
+00:09:53,640 --> 00:09:56,791
+He's just not particularly good
+at showing it.
+ລາວພຽງແຕ່ບໍ່ດີໃນການສະແດງມັນ.
+
+146
+00:09:56,880 --> 00:10:00,668
+But he was very persistent
+when he asked to marry you.
+ແຕ່ລາວຢືນຢັນຫຼາຍເມື່ອ
+ລາວຂໍແຕ່ງງານເຈົ້າ.
+
+147
+00:10:00,760 --> 00:10:02,432
+But why me?
+ແຕ່ເປັນຫຍັງຂ້ອຍ?
+
+148
+00:10:02,520 --> 00:10:06,195
+Because you're the one
+who has to continue my work.
+ເພາະເຈົ້າເປັນຄົນທີ່
+ຕ້ອງສືບຕໍ່ວຽກຂອງຂ້ອຍ.
+
+149
+00:10:06,280 --> 00:10:11,149
+- What if I don't like my place?
+- Everyone has their place, Bala...
+- ຖ້າຂ້ອຍບໍ່ມັກບ່ອນຂອງຂ້ອຍແນວໃດ?
+- ທຸກຄົນມີບ່ອນຂອງພວກເຂົາ, ບາລາ...
+
+150
+00:10:11,240 --> 00:10:14,232
+you, the soldiers, the workers.
+ເຈົ້າ, ທະຫານ, ຄົນງານ.
+
+151
+00:10:14,320 --> 00:10:16,993
+It's not that bad
+being princess, is it?
+ມັນບໍ່ຮ້າຍແຮງຫຼາຍທີ່
+ຈະເປັນເຈົ້າຍິງ,ແມ່ນບໍ?
+
+152
+00:10:17,080 --> 00:10:20,311
+Would you rather be
+carting around dirt all day?
+ເຈົ້າມັກຈະຂັບລົດຢູ່ທົ່ວດິນຕະຫຼອດມື້ບໍ?
+
+153
+00:10:20,400 --> 00:10:22,197
+Mother, don't be so dramatic.
+ແມ່, ຢ່າສະແດງລະຄອນຫຼາຍ.
+
+154
+00:10:24,400 --> 00:10:27,198
+At least they have some fun
+every now and then.
+ຢ່າງໜ້ອຍພວກເຂົາມີຄວາມມ່ວນຊື່ນບາງຄັ້ງ.
+
+155
+00:10:31,520 --> 00:10:34,910
+- Two aphid beers.
+- Why'd I have to be born a worker?
+- ເບຍຟິດສອງເບຍ.
+- ເປັນຫຍັງຂ້ອຍຈຶ່ງຕ້ອງເກີດເປັນຄົນງານ?
+
+156
+00:10:35,000 --> 00:10:38,356
+You soldiers get glory,
+plus you get to go outside.
+ພວກເຈົ້າທະຫານໄດ້ຮັບກຽດຕິຍົດ,ບວກ
+ກັບເຈົ້າສາມາດອອກໄປຂ້າງນອກໄດ້.
+
+157
+00:10:38,440 --> 00:10:41,477
+You meet interesting insects,
+you kill them.
+ເຈົ້າພົບກັບແມງໄມ້ທີ່ໜ້າ
+ສົນໃຈ,ເຈົ້າຂ້າພວກມັນ.
+
+158
+00:10:41,560 --> 00:10:44,711
+Yeah. But you get to spend
+all day with those...
+ແມ່ນແລ້ວ.ແຕ່ເຈົ້າສາມາດໃຊ້
+ເວລາທັງໝົດມື້ກັບພວກນັ້ນ...
+
+159
+00:10:44,800 --> 00:10:47,360
+beautiful worker girls.
+ເດັກຍິງຄົນງານທີ່ສວຍງາມ.
+
+160
+00:10:47,440 --> 00:10:51,831
+Weaver, they're career girls.
+They're obsessed with digging.
+ວີເວີ,ພວກເຂົາເປັນເດັກຍິງອ
+າຊີບ.ພວກເຂົາມັກການຂຸດຄົ້ນ.
+
+161
+00:10:51,920 --> 00:10:55,799
+I don't think I'm ever
+gonna meet the right girl for me.
+ຂ້ອຍບໍ່ຄິດວ່າຂ້ອຍຈະພົບກັບ
+ເດັກຍິງທີ່ເໝາະສົມສໍາລັບຂ້ອຍເລີຍ.
+
+162
+00:10:55,880 --> 00:10:59,077
+A girl for you?
+I was talking about a girl for me.
+ຂ້ອຍກໍາລັງເວົ້າກ່ຽວກັບ
+ເດັກຍິງສໍາລັບຂ້ອຍບໍ?
+
+163
+00:10:59,160 --> 00:11:01,469
+Don't you want your aphid beer?
+ເຈົ້າບໍ່ຢາກເບຍ aphid ຂອງທ່ານບໍ?
+
+164
+00:11:01,560 --> 00:11:06,031
+Call me crazy, but I can't drink
+from the anus of another creature.
+ເອີ້ນຂ້ອຍວ່າໂຊກຮ້າຍ,ແຕ່ຂ້ອຍ
+ບໍ່ສາມາດດື່ມຈາກທ້ອງຂອງສັດອື່ນໄດ້.
+
+165
+00:11:06,120 --> 00:11:07,758
+Suit yourself.
+ເໝາະກັບຕົວເອງ.
+
+166
+00:11:09,680 --> 00:11:13,992
+Ahh. Me, I'm cuttin' loose.
+We got royal inspection comin' up.
+ອາຮ້.ຂ້ອຍ,ຂ້ອຍກໍາລັງປ່ອຍຕົວ.ພວກເຮົາ
+ມີການກວດສອບລາຊະອານາຈັກກໍາລັງມາເຖິງ.
+
+167
+00:11:14,080 --> 00:11:18,790
+Standing around like an idiot while
+a bunch of blue-bloods smirk at you.
+ຢືນຢູ່ອ້ອມຂ້າງຄືກັບຄົນໂງ່ໃນຂະນະທີ່
+ກຸ່ມຄົນເລືອດສີຟ້າມ່ວນຊື່ນກັບເຈົ້າ.
+
+168
+00:11:18,920 --> 00:11:20,831
+How do you put up with it?
+ເຈົ້າຍອມຮັບມັນແນວໃດ?
+
+169
+00:11:20,920 --> 00:11:23,639
+Z, I've known you
+for a long time, right?
+Z ,ຂ້ອຍຮູ້ຈັກເຈົ້າເປັນເວລາ
+ດົນນານແລ້ວ,ແມ່ນບໍ?
+
+170
+00:11:23,720 --> 00:11:25,915
+You were born two seconds after me.
+ເຈົ້າເກີດສອງວິນາທີຫຼັງຈາກຂ້ອຍ.
+
+171
+00:11:26,000 --> 00:11:29,276
+And ever since then
+I've listened to you complain.
+ແລະນັບຕັ້ງແຕ່ເວລານັ້ນ
+ຂ້ອຍໄດ້ຟັງເຈົ້າຮ້ອງທຸກ.
+
+172
+00:11:29,360 --> 00:11:33,194
+What are you bitching about?
+We ants are running the show.
+ເຈົ້າຮ້ອງໄຫ້ຫຍັງ?ພວກເຮົາ
+ແມງໄມ້ກໍາລັງດໍາເນີນລາຍການ.
+
+173
+00:11:33,280 --> 00:11:35,191
+We're the lords of the Earth.
+ພວກເຮົາເປັນເຈົ້າຂອງໂລກ.
+
+174
+00:11:35,280 --> 00:11:37,999
+Hey, don't talk to me
+about earth, OK?
+ເຮ້, ຢ່າເວົ້າກັບຂ້ອຍກ່ຽວກັບໂລກ, ດີບໍ?
+
+175
+00:11:38,080 --> 00:11:41,595
+Cos I just spent all day
+hauling it around.
+ເພາະຂ້ອຍຫາກໍ່ໃຊ້ເວລາທັງໝົດ
+ມື້ໃນການຂົນມັນຢູ່ທົ່ວໄປ.
+
+176
+00:11:41,680 --> 00:11:44,911
+There's just
+gotta be a better place.
+ພຽງແຕ່ຕ້ອງມີບ່ອນທີ່ດີກວ່າ.
+
+177
+00:11:45,000 --> 00:11:47,468
+There is. I've been there.
+ມີ. ຂ້ອຍເຄີຍຢູ່ບ່ອນນັ້ນແລ້ວ.
+
+178
+00:11:48,640 --> 00:11:50,676
+Sorry? Were you talking to me?
+ຂໍໂທດບໍ? ເຈົ້າເວົ້າກັບຂ້ອຍບໍ?
+
+179
+00:11:50,760 --> 00:11:53,672
+There is a better place...
+ມີບ່ອນທີ່ດີກວ່າ...
+
+180
+00:11:53,760 --> 00:11:55,432
+Insectopia.
+ແມງໄມ້.
+
+181
+00:11:55,520 --> 00:11:57,158
+Oh, really?
+ໂອ້, ແທ້ບໍ?
+
+182
+00:11:57,240 --> 00:11:59,435
+Lunatic at three o'clock.
+ຄົນໂຊກຮ້າຍໃນເວລາສາມໂມງ.
+
+183
+00:11:59,520 --> 00:12:03,513
+You can't understand till you
+go there and see it yourself.
+ເຈົ້າບໍ່ສາມາດເຂົ້າໃຈໄດ້ຈົນກວ່າເຈົ້າ
+ຈະໄປບ່ອນນັ້ນແລະເຫັນມັນດ້ວຍຕົວເອງ.
+
+184
+00:12:04,440 --> 00:12:06,590
+You can be your own ant there.
+ເຈົ້າສາມາດເປັນແມງໄມ້
+ຂອງເຈົ້າເອງໄດ້ບ່ອນນັ້ນ.
+
+185
+00:12:06,680 --> 00:12:09,035
+The streets are paved with food.
+ຖະໜົນຫົນທາງເຕັມໄປດ້ວຍອາຫານ.
+
+186
+00:12:09,120 --> 00:12:11,156
+Nobody tellin' you what to do.
+ບໍ່ມີໃຜບອກເຈົ້າວ່າຕ້ອງເຮັດແນວໃດ.
+
+187
+00:12:11,240 --> 00:12:12,639
+No wars.
+ບໍ່ມີສົງຄາມ.
+
+188
+00:12:12,720 --> 00:12:14,278
+No colony.
+ບໍ່ມີຄລູເນຍ.
+
+189
+00:12:15,760 --> 00:12:18,718
+- I shoulda never left.
+- Oh. Fascinating.
+- ຂ້ອຍບໍ່ຄວນອອກຈາກໄປເລີຍ.
+- ໂອ້. ໜ້າ ສົນໃຈ.
+
+190
+00:12:18,800 --> 00:12:22,713
+We were on a long-range recon.
+I got cut off from my unit.
+ພວກເຮົາຢູ່ໃນການສືບສວນໄລຍະໄກ.
+ຂ້ອຍຖືກຕັດອອກຈາກໜ່ວຍງານຂອງຂ້ອຍ.
+
+191
+00:12:22,800 --> 00:12:26,429
+Nothing like post-traumatic stress
+disorder to complete your day.
+ບໍ່ມີຫຍັງປຽບທຽບກັບອາການຄວາມກົດດັນຫລັງ
+ຈາກອາການບາດເຈັບເພື່ອສໍາເລັດມື້ຂອງທ່ານ.
+
+192
+00:12:26,520 --> 00:12:29,114
+- Then I saw it! Insectopia!
+- Hey!
+- ຫຼັງຈາກນັ້ນຂ້ອຍເຫັນມັນ! ແມງໄມ້!
+- ເຮ້!
+
+193
+00:12:29,200 --> 00:12:31,111
+You head towards the monolith.
+ເຈົ້າໄປສູ່ໂມໂນລິຕ.
+
+194
+00:12:31,200 --> 00:12:34,749
+Ten clicks past the canyons
+to the land of red and white.
+ສິບຄລິກຜ່ານຮ່ອມພູໄປສູ່
+ດິນແດນສີແດງແລະສີຂາວ.
+
+195
+00:12:34,840 --> 00:12:37,195
+You've had enough for one night.
+ເຈົ້າກິນພຽງພໍ ສໍາ ລັບຄືນດຽວ.
+
+196
+00:12:37,280 --> 00:12:39,748
+Come on. Before you get in trouble.
+ມາແລ້ວ.ກ່ອນທີ່ເຈົ້າຈະ
+ເຂົ້າໄປໃນຄວາມຫຍຸ້ງຍາກ.
+
+197
+00:12:39,840 --> 00:12:43,276
+Head for the monolith. Listen to me!
+The monolith!
+ໄປຫາໂມໂນລິຕ໌. ຟັງຂ້ອຍ! ໂມໂນລີຕ໌!
+
+198
+00:12:44,320 --> 00:12:46,197
+That guy's got a screw loose.
+ຜູ້ຊາຍຄົນນັ້ນມີກະດານທີ່ວ່າງ.
+
+199
+00:12:46,280 --> 00:12:48,748
+- Across the lake!
+- Insectopia. Hmm.
+- ຂ້າມທະເລ!
+- ແມງໄມ້. ອືມ.
+
+200
+00:12:48,840 --> 00:12:51,035
+It'd be great if it were that easy.
+ມັນຈະດີເລີດຖ້າມັນງ່າຍດາຍຫຼາຍ.
+
+201
+00:12:51,120 --> 00:12:54,669
+- Yeah. Dream on, Z.
+- Cross the lake!
+- ແມ່ນແລ້ວ. ຝັນຕໍ່ໄປ, Z.
+- ຂ້າມທະເລ!
+
+202
+00:12:54,760 --> 00:12:57,558
+Look for the land of red and white!
+ຊອກຫາດິນແດງແລະສີຂາວ!
+
+203
+00:12:57,640 --> 00:12:59,631
+Wow!
+ໂວ້!
+
+204
+00:12:59,720 --> 00:13:03,190
+This is so... gritty.
+ນີ້ແມ່ນໂຊກຮ້າຍຫຼາຍ.
+
+205
+00:13:03,280 --> 00:13:06,317
+Ten minutes, right?
+This place is off limits.
+ສິບນາທີ, ແມ່ນບໍ? ບ່ອນນີ້ຖືກຫ້າມ.
+
+206
+00:13:06,400 --> 00:13:08,994
+Just blame me.
+Say it was all my idea.
+ພຽງແຕ່ກ່າວໂທດຂ້ອຍ.ບອກວ່າມັນ
+ເປັນຄວາມຄິດຂອງຂ້ອຍທັງໝົດ.
+
+207
+00:13:09,080 --> 00:13:14,108
+- It is all your idea.
+- Besides, no one will recognise us.
+- ມັນເປັນຄວາມຄິດຂອງເຈົ້າທັງ ໝົດ.
+- ນອກຈາກນັ້ນ, ບໍ່ມີໃຜຈະຮູ້ຈັກພວກເຮົາ.
+
+208
+00:13:14,200 --> 00:13:16,555
+Come on, girls. What do you say?
+ມາແລ້ວ, ເດັກຍິງ. ເຈົ້າເວົ້າແນວໃດ?
+
+209
+00:13:16,640 --> 00:13:19,837
+Let's take a walk on the wild side.
+ມາຍ່າງຢູ່ດ້ານປ່າໄມ້.
+
+210
+00:13:20,840 --> 00:13:24,515
+'OK, everybody, 6:15. Time to dance.'
+ດີແລ້ວ,ທຸກຄົນ, 6 : 15 .
+ມັນເຖິງເວລາທີ່ຈະເຕັ້ນ.
+
+211
+00:13:24,600 --> 00:13:27,558
+- Time to cut a rug, Z.
+- Oh, no. That's OK.
+- ມັນເຖິງເວລາແລ້ວທີ່ຈະຕັດກະທູ້, Z.
+- ໂອ້, ບໍ່. ມັນບໍ່ເປັນຫຍັງ.
+
+212
+00:13:27,640 --> 00:13:30,871
+I'm gonna leave the rug
+just the way it is, Weaver.
+ຂ້ອຍຈະປ່ອຍກະທູ້ໄວ້
+ຕາມທີ່ມັນເປັນ,ວີເວີ.
+
+213
+00:13:41,800 --> 00:13:43,552
+Step back, ladies.
+ກັບຄືນໄປບ່ອນ, ແມ່ຍິງ.
+
+214
+00:13:43,640 --> 00:13:46,950
+I'm gonna ask one of these
+workers to dance with me.
+ຂ້ອຍຈະຂໍໃຫ້ຄົນງານຄົນນີ້ເຕັ້ນກັບຂ້ອຍ.
+
+215
+00:13:47,040 --> 00:13:48,519
+Oh.
+ໂອ້.
+
+216
+00:13:49,920 --> 00:13:51,876
+What a bunch of losers.
+ພວກໂຊກຮ້າຍຫຼາຍປານໃດ.
+
+217
+00:13:51,960 --> 00:13:55,669
+Mindless zombies capitulating
+to an oppressive system.
+ໂຊມບີທີ່ບໍ່ມີຈິດໃຈ
+ຍອມຮັບຕໍ່ລະບົບທີ່ກົດດັນ.
+
+218
+00:13:55,760 --> 00:13:57,512
+Hi. Wanna dance?
+ສະບາຍດີ. ເຈົ້າຢາກເຕັ້ນບໍ?
+
+219
+00:13:57,600 --> 00:13:59,591
+Absolutely.
+ແນ່ນອນ.
+
+220
+00:14:00,720 --> 00:14:02,790
+Follow me.
+ຕິດຕາມຂ້ອຍ.
+
+221
+00:14:02,880 --> 00:14:06,395
+So, how come I haven't seen you
+around here before?
+ສະນັ້ນ,ເປັນຫຍັງຂ້ອຍຈຶ່ງ
+ບໍ່ເຫັນເຈົ້າຢູ່ບ່ອນນີ້ກ່ອນ?
+
+222
+00:14:06,480 --> 00:14:10,234
+Oh, I don't get out much.
+I, uh, I work over at the palace.
+ໂອ້,ຂ້ອຍບໍ່ອອກໄປຫຼາຍ.ຂ້ອຍ
+,ອູ,ຂ້ອຍເຮັດວຽກຢູ່ທໍານຽບ.
+
+223
+00:14:10,320 --> 00:14:13,630
+The palace?
+I bet those royals really live it up.
+ກະຕ່າບໍ?ຂ້ອຍແນ່ໃຈວ່າຄົນລາຊະອ
+ານາຈັກນັ້ນດໍາລົງຊີວິດມັນແທ້ໆ.
+
+224
+00:14:13,720 --> 00:14:17,156
+Course they're all...
+you know... from inbreeding.
+ແນ່ນອນວ່າພວກເຂົາທັງໝົດແມ່ນ...ເຈົ້າ
+ຮູ້ແລ້ວ...ຈາກການພັນລະນາໃກ້ຊິດ.
+
+225
+00:14:17,240 --> 00:14:18,389
 What?
 ຫຍັງ?
 
-93
-00:06:34,400 --> 00:06:37,200
-[BALA]
-Are you sure this is a real dance?
-ເຈົ້າແນ່ໃຈວ່ານີ້ເປັນການເຕັ້ນທີ່ແທ້ຈິງບໍ?
+226
+00:14:21,840 --> 00:14:23,398
+Yowch!
+ໂຢວຈ໌!
 
-94
-00:06:37,700 --> 00:06:39,700
-[BALA]
+227
+00:14:24,880 --> 00:14:28,190
+Y-y... yowch! Yowch.
+Y-y... Yowch! Yowch.
+
+228
+00:14:32,080 --> 00:14:35,231
+- Yooowch.
+- What on earth are you doing?
+- Yooowch.
+- ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ໂລກນີ້?
+
+229
+00:14:35,320 --> 00:14:39,677
+Well, actually, to tell you
+the truth, I'm sort of making it up.
+ດີ,ໃນຄວາມເປັນຈິງ,ເພື່ອບອກຄວາມ
+ຈິງ,ຂ້ອຍກໍາລັງຄິດມັນບາງຢ່າງ.
+
+230
+00:14:39,760 --> 00:14:41,193
 Really?
-ແມ່ນແລ້ວບໍ່?
+ແທ້ໆບໍ?
 
-95
-00:06:40,200 --> 00:06:42,200
-[BALA]
-You're right!
+231
+00:14:41,280 --> 00:14:45,956
+Why does everybody have to dance
+the same? That's completely boring.
+ເປັນຫຍັງທຸກຄົນຈຶ່ງຕ້ອງເຕັ້ນ
+ຄືກັນ?ມັນເບື່ອໜ່າຍຢ່າງສົມບູນ.
+
+232
+00:14:46,040 --> 00:14:47,951
+It's no fun.
+ມັນບໍ່ມ່ວນຊື່ນ.
+
+233
+00:15:16,120 --> 00:15:18,509
+Hey. Watch your step, worker.
+ເຮ້. ລະວັງຂັ້ນຕອນຂອງທ່ານ, ຄົນງານ.
+
+234
+00:15:18,600 --> 00:15:21,478
+You watch yours
+or you'll be in big trouble!
+ເຈົ້າເບິ່ງແຍງຂອງເຈົ້າຫຼື
+ເຈົ້າຈະຢູ່ໃນຄວາມຫຍຸ້ງຍາກໃຫຍ່!
+
+235
+00:15:21,560 --> 00:15:24,791
+Th-th-that's OK.
+I'll... let him off this time.
+ມັນບໍ່ເປັນຫຍັງ.ຂ້ອຍຈະ.
+..ປ່ອຍລາວອອກໄປຄັ້ງນີ້.
+
+236
+00:15:24,880 --> 00:15:27,599
+Are you crazy?
+He's built like a pebble.
+ເຈົ້າໂຊກຮ້າຍບໍ?ລາວຖືກ
+ສ້າງຂຶ້ນຄືກັບຫີນຫີນ.
+
+237
+00:15:27,680 --> 00:15:32,390
+- Aren't you gonna defend yourself?
+- Hey, buddy. Get back in place.
+- ເຈົ້າຈະບໍ່ປ້ອງກັນຕົວເອງບໍ?
+- ເຮ້, ເພື່ອນ. ກັບຄືນໄປບ່ອນ.
+
+238
+00:15:32,480 --> 00:15:35,950
+- Me? Uh... uh...
+- What if he doesn't want to?
+- ຂ້ອຍບໍ? ໂອ້... ໂອ່...
+- ຖ້າລາວບໍ່ຢາກເຮັດແນວໃດ?
+
+239
+00:15:37,560 --> 00:15:40,120
+Yeah. What if I don't like my place?
+ແມ່ນແລ້ວ.ຖ້າຂ້ອຍບໍ່ມັກ
+ບ່ອນຂອງຂ້ອຍແນວໃດ?
+
+240
+00:15:40,200 --> 00:15:43,556
+- We got us a troublemaker.
+- Buckle up, Spanky.
+- ພວກເຮົາມີຄົນສ້າງຄວາມຫຍຸ້ງຍາກໃຫ້ພວກເຮົາ.
+- ຕິດສາຍແອວຂຶ້ນ, ສປານກີ.
+
+241
+00:15:43,640 --> 00:15:47,838
+This one goes out
+to all the lazy workers.
+ຄົນນີ້ອອກໄປຫາຄົນງານທີ່ອ່ອນແອທັງ ໝົດ.
+
+242
+00:15:49,240 --> 00:15:51,800
+Watch that aggressive behaviour,
+buddy.
+ລະວັງພຶດຕິກໍາທີ່ຮຸນແຮງນັ້ນ, ເພື່ອນ.
+
+243
+00:15:51,880 --> 00:15:53,950
+He's just a worker.
+ລາວພຽງແຕ່ເປັນຄົນງານເທົ່ານັ້ນ.
+
+244
+00:16:13,000 --> 00:16:17,471
+Princess Bala! Princess Bala!
+The guards are coming.
+ເຈົ້າຍິງບາລາ!ເຈົ້າຍິງ
+ບານາ!ຄົນປົກປ້ອງກໍາລັງມາ.
+
+245
+00:16:17,560 --> 00:16:20,358
+- Let's get outta here.
+- Wait.
+- ໄປຈາກບ່ອນນີ້.
+- ລໍຖ້າ.
+
+246
+00:16:22,560 --> 00:16:24,755
+Princess? You're a princess?
+ເຈົ້າຍິງ? ເຈົ້າເປັນເຈົ້າຍິງບໍ?
+
+247
+00:16:24,880 --> 00:16:26,996
+Uh... I gotta go.
+ໂອ້... ຂ້ອຍຕ້ອງໄປ.
+
+248
+00:16:27,080 --> 00:16:30,231
+- When can I see you again?
+- Let me think.
+- ຂ້ອຍຈະເຫັນເຈົ້າອີກເມື່ອໃດ?
+- ຂໍໃຫ້ຂ້ອຍຄິດ.
+
+249
+00:16:30,320 --> 00:16:31,992
+Never.
+ບໍ່ເຄີຍ.
+
+250
+00:16:32,080 --> 00:16:34,594
+- Bye.
+- No, wait!
+- ສະບາຍດີ.
+- ບໍ່, ລໍຖ້າ!
+
+251
+00:16:36,200 --> 00:16:37,155
+Oof!
+ໂອ້!
+
+252
+00:16:40,520 --> 00:16:42,351
+# What a day it has been
+ມື້ນີ້ເປັນມື້ໃດ
+
+253
+00:16:42,440 --> 00:16:45,273
+# What a rare mood I'm in
+ຂ້ອຍຢູ່ໃນອາລົມທີ່ຫາຍາກຫຼາຍປານໃດ
+
+254
+00:16:45,360 --> 00:16:49,239
+# Why, it's almost like
+being in love
+ເປັນຫຍັງ, ມັນເກືອບຄືກັບການຮັກ
+
+255
+00:16:49,320 --> 00:16:54,997
+# There's a smile on my face
+for the whole insect race
+ມີຄວາມມ່ວນຊື່ນໃນໃບໜ້າຂອງຂ້ອຍ
+ສໍາລັບການແຂ່ງຂັນແມງໄມ້ທັງໝົດ
+
+256
+00:16:55,080 --> 00:16:58,516
+# Why, it's almost like
+being in love #
+ເປັນຫຍັງ, ມັນເກືອບຄ້າຍຄືກັບການຮັກ
+
+257
+00:17:09,320 --> 00:17:11,197
+Yowch.
+ເຈົ້າ.
+
+258
+00:17:26,560 --> 00:17:29,711
+- Can I get you another one, pal?
+- No... thanks.
+- ຂ້ອຍສາມາດເອົາອີກໜຶ່ງໃຫ້ເຈົ້າໄດ້ບໍ, ເພື່ອນ?
+- ບໍ່... ຂອບໃຈ.
+
+259
+00:17:29,800 --> 00:17:33,076
+- I think I'm gonna go.
+- Yeah. I don't blame you.
+- ຂ້ອຍຄິດວ່າຂ້ອຍຈະໄປ.
+- ແມ່ນແລ້ວ. ຂ້ອຍບໍ່ໄດ້ກ່າວໂທດເຈົ້າ.
+
+260
+00:17:33,160 --> 00:17:36,709
+It's always slow in here
+before those royal reviews.
+ມັນຊ້າຢູ່ບ່ອນນີ້ຢູ່ສະເໝີກ່ອນ
+ການທົບທວນຄືນຂອງກະສັດນັ້ນ.
+
+261
+00:17:36,800 --> 00:17:40,952
+I guess soldiers need their shuteye
+before they meet the queen.
+ຂ້ອຍຄິດວ່າທະຫານຕ້ອງພັກຜ່ອນ
+ກ່ອນທີ່ຈະພົບກັບລາຊິນີ.
+
+262
+00:17:41,040 --> 00:17:42,598
+That's it!
+ນັ້ນແມ່ນມັນ!
+
+263
+00:17:42,680 --> 00:17:44,796
+You know, I was once...
+ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍເຄີຍເປັນ...
+
+264
+00:17:44,880 --> 00:17:46,552
+See ya.
+ພົບກັນ.
+
+265
+00:17:52,840 --> 00:17:55,354
+Psst. Weaver.
+ປັສຕ໌. ວີເວີ.
+
+266
+00:17:55,440 --> 00:17:57,829
+I figured it out. Weaver. Weaver!
+ຂ້ອຍຄິດມັນແລ້ວ. ວີເວີ. ວິເວີ!
+
+267
+00:17:57,960 --> 00:17:59,757
+What? What?
+ຫຍັງ? ຫຍັງ?
+
+268
+00:17:59,880 --> 00:18:02,633
+I got a great idea.
+Switch places with me.
+ຂ້ອຍມີແນວຄິດທີ່ດີເລີດ
+.ປ່ຽນບ່ອນກັບຂ້ອຍ.
+
+269
+00:18:02,720 --> 00:18:05,359
+Let me go to the inspection
+instead of you.
+ຂໍໃຫ້ຂ້ອຍໄປກວດສອບແທນເຈົ້າ.
+
+270
+00:18:05,440 --> 00:18:09,399
+- What time is it?
+- The royal family will be there.
+- ເວລາຫຼາຍປານໃດ?
+- ຄອບຄົວລາຊະອານາຈັກຈະຢູ່ທີ່ນັ້ນ.
+
+271
+00:18:09,480 --> 00:18:13,314
+- This is the only way I can see her.
+- See who?
+- ນີ້ແມ່ນວິທີດຽວທີ່ຂ້ອຍສາມາດເຫັນນາງໄດ້.
+- ເຫັນໃຜ?
+
+272
+00:18:13,400 --> 00:18:16,233
+- Princess Bala.
+- Are you nuts?
+- ເຈົ້າຍິງບາລາ.
+- ເຈົ້າໂຊກຮ້າຍບໍ?
+
+273
+00:18:16,320 --> 00:18:19,039
+You want me
+to switch places with you?
+ເຈົ້າຢາກໃຫ້ຂ້ອຍປ່ຽນບ່ອນກັບເຈົ້າບໍ?
+
+274
+00:18:19,120 --> 00:18:23,910
+Do you know how much trouble you can
+get into for impersonatin' a soldier?
+ເຈົ້າຮູ້ວ່າເຈົ້າສາມາດເຂົ້າໄປໃນ
+ຄວາມຫຍຸ້ງຍາກຫຼາຍປານໃດສໍາລັບການຕົວແທນທະຫານ?
+
+275
+00:18:24,000 --> 00:18:26,468
+It's trouble
+just listenin' to someone
+ມັນເປັນຄວາມຫຍຸ້ງຍາກພຽງແຕ່ຟັງຄົນໃດໜຶ່ງ
+
+276
+00:18:26,560 --> 00:18:29,154
+talkin' about
+impersonatin' a soldier.
+ເວົ້າກ່ຽວກັບການເຮັດຕົວເປັນທະຫານ.
+
+277
+00:18:29,240 --> 00:18:30,912
+You have to help me.
+ເຈົ້າຕ້ອງຊ່ວຍຂ້ອຍ.
+
+278
+00:18:31,000 --> 00:18:34,913
+If I can't see her again,
+my life is not worth living.
+ຖ້າຂ້ອຍບໍ່ສາມາດເຫັນນາງອີກເທື່ອໜຶ່ງ,
+ຊີວິດຂອງຂ້ອຍບໍ່ມີຄ່າທີ່ຈະດໍາລົງຊີວິດ.
+
+279
+00:18:35,040 --> 00:18:38,157
+P-p-please, Weaver. Please.
+ຂໍຮ້ອງ, ວີເວີ. ຂໍຮ້ອງ.
+
+280
+00:18:38,240 --> 00:18:41,198
+Switch jobs with me just, you know,
+for a day.
+ປ່ຽນວຽກກັບຂ້ອຍພຽງແຕ່,ເຈົ້າ
+ຮູ້ແລ້ວ,ສໍາລັບມື້ໜຶ່ງ.
+
+281
+00:18:41,280 --> 00:18:43,953
+Th-think of everything
+I've done for you.
+ຄິດເຖິງທຸກຢ່າງທີ່ຂ້ອຍ
+ໄດ້ເຮັດສໍາລັບເຈົ້າ.
+
+282
+00:18:44,040 --> 00:18:46,634
+Hm. I can't think of anything.
+ອືມ. ຂ້ອຍບໍ່ຄິດຫຍັງເລີຍ.
+
+283
+00:18:46,720 --> 00:18:50,633
+OK. So, think of all the things
+that I'm gonna do for you.
+ດີແລ້ວ.ສະນັ້ນ,ຄິດກ່ຽວກັບສິ່ງ
+ທັງໝົດທີ່ຂ້ອຍຈະເຮັດສໍາລັບເຈົ້າ.
+
+284
+00:18:52,720 --> 00:18:54,756
+Would I meet some worker girls?
+ຂ້ອຍຈະພົບກັບເດັກຍິງຄົນງານບາງຄົນບໍ?
+
+285
+00:18:54,840 --> 00:18:57,991
+Are you kidding?
+They always go for the new guy.
+ເຈົ້າໂຊກຮ້າຍບໍ?ພວກເຂົາ
+ໄປຫາຄົນໃໝ່ຢູ່ສະເໝີ.
+
+286
+00:18:58,080 --> 00:18:59,911
+It's like a sport for them.
+ມັນຄ້າຍຄືກັບກິລາ ສໍາ ລັບພວກເຂົາ.
+
+287
+00:19:00,000 --> 00:19:05,199
+And they will definitely go for
+an adorable little insect like you.
+ແລະພວກເຂົາຈະໄປຫາແມງໄມ້ນ້ອຍ
+ທີ່ໜ້າຮັກຄືກັບເຈົ້າແນ່ນອນ.
+
+288
+00:19:05,280 --> 00:19:08,875
+Weaver, I... I have to see her again.
+ວີເວີ, ຂ້ອຍ... ຂ້ອຍຕ້ອງເຫັນນາງອີກຄັ້ງ.
+
+289
+00:19:08,960 --> 00:19:13,158
+Z, what kind of chance
+do you have with a princess?
+Z, ເຈົ້າມີໂອກາດໃດກັບເຈົ້າຍິງ?
+
+290
+00:19:13,240 --> 00:19:17,153
+I mean, she probably
+won't even remember you.
+ຂ້ອຍໝາຍຄວາມວ່າ,ນາງອ
+າດຈະບໍ່ຈື່ເຈົ້າເລີຍ.
+
+291
+00:19:17,280 --> 00:19:21,273
+l-I know it sounds nuts...
+ຂ້ອຍຮູ້ວ່າມັນເບິ່ງຄືວ່າໂຊກຮ້າຍ...
+
+292
+00:19:21,360 --> 00:19:23,396
+but I have to try.
+ແຕ່ຂ້ອຍຕ້ອງພະຍາຍາມ.
+
+293
+00:19:24,840 --> 00:19:26,831
+- Oh, boy.
+-
+- ໂອ້, ເດັກຊາຍ.
+
+294
+00:19:28,040 --> 00:19:30,110
+Princess, fancy meeting you here.
+ເຈົ້າຍິງ, ດີໃຈທີ່ພົບເຈົ້າຢູ່ນີ້.
+
+295
+00:19:30,240 --> 00:19:33,038
+What do you say we... lose this crowd?
+ເຈົ້າຄິດແນວໃດວ່າພວກເຮົາ
+...ສູນເສຍຄົນຊົມເຊີຍນີ້?
+
+296
+00:19:34,120 --> 00:19:37,556
+Oh, me?
+You know, I... I wear many hats.
+ໂອ້,ຂ້ອຍ?ເຈົ້າຮູ້ແລ້ວ,
+ຂ້ອຍ...ຂ້ອຍໃສ່ໝວກຫຼາຍຢ່າງ.
+
+297
+00:19:37,640 --> 00:19:40,279
+You'd have to call me
+a Renaissance ant.
+ເຈົ້າຕ້ອງເອີ້ນຂ້ອຍ
+ວ່າແມງໄມ້ Renaissance .
+
+298
+00:19:40,360 --> 00:19:41,998
+Eyes right!
+ຕາຂວາ!
+
+299
+00:19:46,240 --> 00:19:50,119
+- Beautiful! Just beautiful!
+- Mm.
+- ງາມ! ພຽງແຕ່ສວຍງາມ!
+- ມມ
+
+300
+00:19:50,240 --> 00:19:53,277
+- The precision. The order.
+- Oh.
+- ຄວາມແນ່ນອນ. ຄໍາ ສັ່ງ.
+- ໂອ້.
+
+301
+00:19:53,360 --> 00:19:56,636
+Princess Bala! Princess Bala!
+Hey. It's me.
+ເຈົ້າຍິງບາລາ!ເຈົ້າຍິງ
+ບານາ!ເຮ້.ມັນແມ່ນຂ້ອຍ.
+
+302
+00:19:56,760 --> 00:19:58,557
+Remember Z from the bar?
+ເຈົ້າຈື່ Z ຈາກບາບໍ?
+
+303
+00:19:58,640 --> 00:20:01,950
+Princess Bala!
+Princess Bala! Princess...
+ເຈົ້າຍິງບາລາ!ເຈົ້າຍິງ
+ບານາ!ເຈົ້າສາວ...
+
+304
+00:20:02,040 --> 00:20:04,634
+Bala, you must encourage the troops.
+ບາລາ, ເຈົ້າຕ້ອງຊຸກຍູ້ກອງທັບ.
+
+305
+00:20:04,720 --> 00:20:06,517
+Wave.
+ຄື້ນ.
+
+306
+00:20:06,600 --> 00:20:10,479
+Oh. She sees me.
+Excuse me, guys. l-I... Sorry.
+ໂອ້.ນາງເຫັນຂ້ອຍ.ຂໍໂທດຂ້ອຍ
+,ພວກຜູ້ຊາຍ.ຂ້ອຍ...ຂໍໂທດ.
+
+307
+00:20:10,560 --> 00:20:13,711
+- I just got a better offer. Excu...
+- Company halt!
+- ຂ້ອຍຫາກໍ່ໄດ້ຮັບຂໍ້ສະເໜີທີ່ດີກວ່າ. ຂໍໂທດ...
+- ບໍລິສັດຢຸດເຊົາ!
+
+308
+00:20:18,120 --> 00:20:21,237
+Princess!
+ເຈົ້າຍິງ!
+
+309
+00:20:21,320 --> 00:20:23,629
+Quiet there! Get back in rank.
+ງຽບຢູ່ບ່ອນນັ້ນ! ກັບຄືນໄປບ່ອນຊັ້ນ.
+
+310
+00:20:23,720 --> 00:20:27,952
+- You new, kid?
+- Y-yes, but I'm gettin' out soon.
+- ເຈົ້າເປັນຄົນໃໝ່ບໍ, ເດັກນ້ອຍ?
+- Y - ແມ່ນແລ້ວ, ແຕ່ຂ້ອຍຈະອອກຈາກໄວໆນີ້.
+
+311
+00:20:28,040 --> 00:20:30,190
+I got a trial membership.
+ຂ້ອຍມີສະມາຊິກທົດລອງ.
+
+312
+00:20:30,280 --> 00:20:33,272
+Trial membership.
+Good one!
+ສະມາຊິກທົດລອງ. ດີ!
+
+313
+00:20:33,360 --> 00:20:35,954
+- Name's Barbatus.
+- Z.
+- ຊື່ວ່າ ບາບາຕັສ.
+- Z.
+
+314
+00:20:36,040 --> 00:20:37,917
+- Right face!
+- Psst.
+- ໃບໜ້າຂວາ!
+- Psst.
+
+315
+00:20:45,960 --> 00:20:47,439
+Sacrifice.
+ການເສຍສະຫຼະຊີວິດ.
+
+316
+00:20:47,520 --> 00:20:50,796
+To some, it is just a word.
+ສໍາລັບບາງຄົນ,ມັນເປັນ
+ພຽງແຕ່ຄໍາເວົ້າເທົ່ານັ້ນ.
+
+317
+00:20:50,880 --> 00:20:52,950
+To others, it is a code.
+ສໍາລັບຄົນອື່ນ, ມັນເປັນລະຫັດ.
+
+318
+00:20:53,040 --> 00:20:55,634
+- I'm bad at word games.
+-
+- ຂ້ອຍບໍ່ດີໃນການຫຼິ້ນຄໍາສັບ.
+
+319
+00:20:55,720 --> 00:20:59,429
+A soldier knows that the life
+of one ant doesn't matter.
+ທະຫານຮູ້ວ່າຊີວິດຂອງ
+ແມງໄມ້ດຽວບໍ່ມີຄວາມສໍາຄັນ.
+
+320
+00:20:59,520 --> 00:21:01,351
+What matters is the colony.
+ສິ່ງທີ່ສໍາຄັນແມ່ນຄລູເນຍ.
+
+321
+00:21:01,440 --> 00:21:04,796
+He'll live for the colony,
+fight for the colony,
+ລາວຈະດໍາລົງຊີວິດເພື່ອຄໍ
+ລູເນຍ,ຕໍ່ສູ້ເພື່ອຄອລຸນີ,
+
+322
+00:21:04,880 --> 00:21:06,438
+die for the colony.
+ຕາຍເພື່ອຄລູເນຍ.
+
+323
+00:21:06,520 --> 00:21:09,876
+- This guy's crazy.
+- I hear ya.
+- ຜູ້ຊາຍຄົນນີ້ໂຊກຮ້າຍ.
+- ຂ້ອຍໄດ້ຍິນເຈົ້າ.
+
+324
+00:21:09,960 --> 00:21:14,590
+At 0800 hours, we received word
+that the termite enemy has mobilised.
+ໃນເວລາ 08 : 00 ໂມງ,ພວກເຮົາໄດ້ຮັບຂ່າວ
+ວ່າສັດຕູແມງໄມ້ໄດ້ເຄື່ອນຍ້າຍ.
+
+325
+00:21:14,680 --> 00:21:18,070
+We have no choice
+but to launch a pre-emptive strike.
+ພວກເຮົາບໍ່ມີທາງເລືອກ
+ນອກຈາກການເປີດການໂຈມຕີກ່ອນ.
+
+326
+00:21:18,160 --> 00:21:20,628
+You are the queen's finest.
+ເຈົ້າເປັນຄົນທີ່ດີທີ່ສຸດຂອງລາຊິນີ.
+
+327
+00:21:20,720 --> 00:21:23,393
+I know you will all do your duty.
+ຂ້ອຍຮູ້ວ່າເຈົ້າທຸກຄົນ
+ຈະເຮັດໜ້າທີ່ຂອງທ່ານ.
+
+328
+00:21:23,480 --> 00:21:26,153
+I am proud to send you into battle.
+ຂ້ອຍພາກພູມໃຈທີ່ສົ່ງເຈົ້າໄປສູ້ຮົບ.
+
+329
+00:21:26,240 --> 00:21:28,708
+Into... I'm... I'm sorry. Into battle?
+ເຂົ້າໄປໃນ...ຂ້ອຍ...ຂ້ອຍ
+ຂໍໂທດ.ເຂົ້າສູ່ການຕໍ່ສູ້ບໍ?
+
+330
+00:21:28,800 --> 00:21:33,032
+- Dismissed.
+- Left face! Forward march!
+- ຖືກໄລ່ອອກ.
+- ໃບໜ້າຊ້າຍ! ເດີນທາງໄປຂ້າງໜ້າ!
+
+331
+00:21:33,120 --> 00:21:35,873
+I think there's been
+a terrible mistake.
+ຂ້ອຍຄິດວ່າມີຄວາມຜິດພາດທີ່ຮ້າຍແຮງ.
+
+332
+00:21:35,960 --> 00:21:38,793
+The truth is
+I just... came for the speech.
+ຄວາມຈິງແມ່ນຂ້ອຍພຽງແຕ່..
+.ມາສໍາລັບການກ່າວຄໍາປາໄສ.
+
+333
+00:21:38,880 --> 00:21:41,314
+Don't worry, kid.
+I'll watch out for ya.
+ຢ່າກັງວົນ,ເດັກນ້ອຍ.
+ຂ້ອຍຈະເບິ່ງແຍງເຈົ້າ.
+
+334
+00:21:48,200 --> 00:21:49,633
+- Sound off.
+- One!
+- ສຽງອອກໄປ.
+- ໜຶ່ງ!
+
+335
+00:21:49,720 --> 00:21:51,631
+- Two!
+- Three!
+- ສອງຄົນ!
+- ສາມ!
+
+336
+00:21:51,720 --> 00:21:53,836
+- Huh?
+- Five!
+- ຮາ?
+- ຫ້າ!
+
+337
+00:21:53,920 --> 00:21:55,273
+- Six!
+- Seven!
+- ຫົກ!
+- ເຈັດ!
+
+338
+00:21:55,360 --> 00:21:56,713
+- Eight!
+- Nine!
+- ແປດ!
+- ເກົ້າ!
+
+339
+00:21:56,800 --> 00:21:58,153
+- Ten!
+- Eleven!
+- ສິບ!
+- ສິບໜຶ່ງ!
+
+340
+00:21:58,240 --> 00:21:59,593
+- Twelve!
+- Thirteen!
+- ສິບສອງ!
+- ສິບສາມ!
+
+341
+00:22:00,320 --> 00:22:04,029
+# We ants go marching one by one
+hurrah, hurrah
+ພວກເຮົາແມງໄມ້ໄປເດີນຂະບວນ
+ໜຶ່ງຕໍ່ໜຶ່ງໂຊກດີ,ໂຊຄດີ
+
+342
+00:22:04,160 --> 00:22:08,711
+# We slaughter termites
+just for fun, hurrah, hurrah... #
+ພວກເຮົາຂ້າແມງໄມ້ພຽງແຕ່ເພື່ອ
+ມ່ວນຊື່ນ,ໂຊກດີ,ໂສກດີ...
+
+343
+00:22:08,800 --> 00:22:11,234
+So, these termites, th-they're...
+ສະນັ້ນ,ແມງໄມ້ເຫຼົ່
+ານີ້,ພວກເຂົາແມ່ນ...
+
+344
+00:22:11,320 --> 00:22:13,356
+We're talkin' pushovers, right
+ພວກເຮົາກໍາລັງເວົ້າ
+ກ່ຽວກັບການຊັກຊວນ,ແມ່ນບໍ
+
+345
+00:22:13,440 --> 00:22:16,113
+Not really,
+they're five times our size.
+ບໍ່ແທ້ໆ,ພວກເຂົາຂະໜາດໃຫຍ່
+ກວ່າພວກເຮົາຫ້າເທົ່າ.
+
+346
+00:22:16,200 --> 00:22:19,078
+And they shoot acid
+from their foreheads.
+ແລະພວກເຂົາຍິງອາຊິດ
+ຈາກໜ້າເອິກຂອງພວກເຂົາ.
+
+347
+00:22:19,160 --> 00:22:21,037
+Hey! Keep it movin', shorty!
+ເຮ້! ສືບຕໍ່ເຄື່ອນຍ້າຍ, ສັ້ນ!
+
+348
+00:22:21,120 --> 00:22:25,796
+# We ants go marching
+two by two, hurrah, hurrah
+ພວກເຮົາແມງໄມ້ໄປເດີນຂະບວນ
+ສອງຄົນຕໍ່ສອງຄົນ,ໂຊກດີ,ໂສກດີ
+
+349
+00:22:25,880 --> 00:22:29,316
+# We'll all be dead before
+we're through, hurrah... #
+ພວກເຮົາທຸກຄົນຈະຕາຍກ່ອນທີ່
+ພວກເຮົາຈະສິ້ນສຸດລົງ,ໂຊກດີ...
+
+350
+00:22:29,400 --> 00:22:32,756
+Say, exactly... what exactly
+does our platoon do?
+ເວົ້າ,ແທ້ຈິງແລ້ວ...ກອງທັບ
+ຂອງພວກເຮົາເຮັດຫຍັງແທ້ໆ?
+
+351
+00:22:32,840 --> 00:22:36,992
+I mean, will we be serving beverages
+or processing paperwork?
+ຂ້ອຍໝາຍຄວາມວ່າ,ພວກເຮົາຈະຮັບໃຊ້
+ເຄື່ອງດື່ມຫຼືປະມວນຜົນເອກະສານບໍ?
+
+352
+00:22:37,080 --> 00:22:40,516
+Our platoon has the best assignment -
+first into battle.
+ກອງຮົບຂອງພວກເຮົາມີໜ້າທີ່ທີ່
+ດີທີ່ສຸດ-ທໍາອິດເຂົ້າສູ່ການຕໍ່ສູ້.
+
+353
+00:22:40,600 --> 00:22:44,878
+# We ants go marching three by three,
+hurrah, hurrah
+ພວກເຮົາແມງໄມ້ໄປເດີນຂະບວນ
+ສາມຕໍ່ສາມ,ໂຊກດີ,ໂສກດີ
+
+354
+00:22:44,960 --> 00:22:46,552
+Hurrah! Hurrah!
+ໂຊກດີ! ໂຊຄດີ!
+
+355
+00:22:46,640 --> 00:22:51,236
+# We're off to face our destiny
+hurrah, hurrah... #
+ພວກເຮົາກໍາລັງຈະໄປປະເຊີນໜ້າກັບ
+ຈຸດໝາຍປາຍທາງຂອງພວກເຮົາໂຊກດີ,ໂຊຄດີ...
+
+356
+00:22:51,320 --> 00:22:54,278
+Let's not...
+We're being too hasty here.
+ພວກເຮົາບໍ່...ພວກເຮົາ
+ກໍາລັງໄວເກີນໄປຢູ່ນີ້.
+
+357
+00:22:54,360 --> 00:22:56,476
+These guys sound like bruisers.
+ພວກຄົນເຫຼົ່ານີ້ສຽງຄືກັບຄົນຂົ່ມຂືນ.
+
+358
+00:22:56,560 --> 00:22:59,154
+How were you figuring
+on beating them?
+ເຈົ້າຄິດວ່າຈະເອົາຊະນະພວກເຂົາແນວໃດ?
+
+359
+00:22:59,240 --> 00:23:04,155
+Superior numbers, kid. Overwhelm
+their defences and kill their queen.
+ຈໍານວນທີ່ສູງກວ່າ,ເດັກນ້ອຍ.ເອົາຊະນະການ
+ປ້ອງກັນຂອງພວກເຂົາແລະຂ້າລາຊິນີຂອງພວກເຂົາ.
+
+360
+00:23:04,240 --> 00:23:06,913
+Fellas, you're being
+a little extreme.
+ພວກຜູ້ຊາຍ,ເຈົ້າກໍາ
+ລັງເກີນໄປເລັກນ້ອຍ.
+
+361
+00:23:07,000 --> 00:23:11,516
+Let's influence their political
+process with campaign contributions.
+ພວກເຮົາຈະສົ່ງຜົນກະທົບຕໍ່ຂະບວນການທາງການເມືອງ
+ຂອງພວກເຂົາດ້ວຍການປະກອບສ່ວນການໂຄສະນາຫາສຽງ.
+
+362
+00:23:12,560 --> 00:23:15,518
+I like you, kid.
+You got a sense of humour.
+ຂ້ອຍມັກເຈົ້າ,ເດັກນ້ອຍ
+.ເຈົ້າມີຄວາມມ່ວນຊື່ນ.
+
+363
+00:23:15,640 --> 00:23:16,993
+Forward!
+ຕໍ່ໜ້າ!
+
+364
+00:23:17,080 --> 00:23:19,833
+Come on!
+Let's kick some termite butt!
+ມາແລ້ວ! ມາຕີຫລັງແມງໄມ້ບາງຢ່າງ!
+
+365
+00:23:19,960 --> 00:23:21,518
+Over the top!
+ເກີນໄປ!
+
+366
+00:23:22,560 --> 00:23:25,597
+-
+- Yeeow!
+- Yeeow!
+
+367
+00:23:33,480 --> 00:23:34,799
+Yee-ha!
+Yee-ha!
+
+368
+00:23:51,920 --> 00:23:54,957
+- Where is everyone?
+- Something's not right.
+- ທຸກຄົນຢູ່ໃສ?
+- ມີບາງສິ່ງບາງຢ່າງບໍ່ຖືກຕ້ອງ.
+
+369
+00:23:55,800 --> 00:23:57,552
+Don't be scared, kid.
+ຢ່າຢ້ານກົວ, ເດັກນ້ອຍ.
+
+370
+00:24:02,840 --> 00:24:05,115
+They're here! Ahh!
+ພວກເຂົາຢູ່ບ່ອນນີ້! ອາ!
+
+371
+00:24:05,720 --> 00:24:08,518
+Attack!
+ໂຈມຕີ!
+
+372
+00:24:31,400 --> 00:24:32,958
+Come on!
+ມາແລ້ວ!
+
+373
+00:24:40,480 --> 00:24:42,232
+-
+- Ahh!
+- ອາຮ້!
+
+374
+00:24:47,600 --> 00:24:50,068
+Barbatus, you saved my life.
+ບາບາຕັສ, ເຈົ້າໄດ້ຊ່ວຍຊີວິດຂ້ອຍ.
+
+375
+00:24:50,160 --> 00:24:52,435
+Don't get all sappy about it.
+ຢ່າໂຊກຮ້າຍຫຼາຍກ່ຽວກັບມັນ.
+
+376
+00:24:59,760 --> 00:25:02,513
+- Hey, guys! Behind you!
+-
+- ເຮ້, ພວກຜູ້ຊາຍ! ຢູ່ເບື້ອງຫຼັງເຈົ້າ!
+
+377
+00:25:10,360 --> 00:25:12,112
+Hey... hey, guys?
+ເຮ້... ເຮ້, ພວກຜູ້ຊາຍ?
+
+378
+00:25:12,200 --> 00:25:14,475
+Can somebody help me here?
+Anybody...?
+ມີໃຜຊ່ວຍຂ້ອຍໄດ້ບໍ? ມີໃຜ...?
+
+379
+00:25:27,960 --> 00:25:29,234
+Yeah!
 ແມ່ນແລ້ວ!
 
-96
-00:06:42,700 --> 00:06:48,650
-[BALA]
-Why can't I just do whatever I want to do?  Why can't I just go wild?! Yahoo!
-ເປັນຫຍັງຂ້ອຍຈຶ່ງບໍ່ສາມາດເຮັດທຸກຢ່າງທີ່ຂ້ອຍຢາກເຮັດໄດ້
-? ເປັນຫຍັງຂ້ອຍບໍ່ສາມາດໄປໂຊກຮ້າຍໄດ້ບໍ?! ຢາຮູ!
-
-97
-00:06:49,150 --> 00:06:51,150
-[SOLDIER]
-Hey!  Watch your step, worker.
-ສະບາຍດີ! ລະມັດລະວັງເດີ້, ຄົນງານ.
-
-98
-00:06:51,650 --> 00:06:55,850
-[BALA]
-You watch yours, soldier, or my worker friend will beat you up!
-ເຈົ້າເບິ່ງແຍງຂອງເຈົ້າ, ທະຫານ, ຫຼືເພື່ອນຄົນງານຂອງຂ້ອຍຈະຕີເຈົ້າ!
-
-99
-00:06:56,350 --> 00:06:58,800
-[BALA]
-Aren't you gonna stand up for yourself?
-ເຈົ້າຈະບໍ່ຢືນຂຶ້ນເພື່ອຕົວເອງບໍ?
-
-100
-00:06:59,300 --> 00:07:02,800
-[SOLDIER]
-How come you don't dance like the rest of us?
-ເປັນຫຍັງເຈົ້າຈຶ່ງບໍ່ເຕັ້ນຄືກັບພວກເຮົາທຸກຄົນ?
-
-101
-00:07:03,300 --> 00:07:05,400
-[SOLDIER #2]
-An individual?  Never heard of it.
-ເປັນບຸກຄົນບໍ? ບໍ່ເຄີຍໄດ້ຍິນເລື່ອງມັນເລີຍ.
-
-102
-00:07:05,900 --> 00:07:08,350
-[MANDIBLE]
-You look like a worker to me.
-ເຈົ້າເບິ່ງຄືວ່າເປັນຄົນງານຕໍ່ຂ້ອຍ.
-
-103
-00:07:08,850 --> 00:07:10,950
-[WEAVER]
-Hey, lay off my little buddy!
-ເຮ້, ຢຸດເຊົາເພື່ອນນ້ອຍຂອງຂ້ອຍ!
-
-104
-00:07:11,450 --> 00:07:13,450
-[HANDMAIDEN #1]
-Princess Bala!  Princess Bala!
-ເຈົ້າຍິງບາລາ! ເຈົ້າຍິງບານາ!
-
-105
-00:07:13,950 --> 00:07:15,950
-[HANDMAIDEN #2]
-The police are coming!
-ຕໍາຫຼວດ ກໍາ ລັງມາ!
-
-106
-00:07:16,450 --> 00:07:18,450
-[BALA]
-Uh oh.  Goodbye!  Gotta run!
-ໂອ້. ສະບາຍດີ! ຂ້ອຍຕ້ອງແລ່ນ!
-
-107
-00:07:18,950 --> 00:07:21,050
-[BALA]
-Let me think.  Hmmnn...  Never.  Bye!
-ຂໍໃຫ້ຂ້ອຍຄິດ. ມມນ... ບໍ່ເຄີຍ. ສະບາຍດີ!
-
-108
-00:07:21,550 --> 00:07:25,050
-[WEAVER]
-Get real, Z!  She just dropped the scarf by accident!
-ເຂົ້າໃຈແທ້ໆ, Z! ນາງຫາກໍ່ຖິ້ມຜ້າເຊືອກໂດຍບໍ່ sengaja!
-
-109
-00:07:25,550 --> 00:07:31,500
-[WEAVER]
-It's a sign that you're crazy!  Do you know what the penalty for impersonating a soldier is?
-ມັນເປັນສັນຍານວ່າເຈົ້າໂຊກຮ້າຍ! ເຈົ້າຮູ້ບໍວ່າການລົງໂທດ
-ສໍາ ລັບການຕົວແທນເປັນທະຫານແມ່ນຫຍັງ?
-
-110
-00:07:32,000 --> 00:07:34,000
-[WEAVER]
-I can't think of any.
-ຂ້ອຍບໍ່ຄິດຫຍັງເລີຍ.
-
-111
-00:07:34,500 --> 00:07:37,300
-[WEAVER]
-Will you introduce me to some worker girls?
-ເຈົ້າຈະແນະນໍາຂ້ອຍໃຫ້ເດັກຍິງຄົນງານບາງຄົນບໍ?
-
-112
-00:07:37,800 --> 00:07:43,050
-[WEAVER]
-Maybe I'll get lucky.  You know, Z, I wouldn't do this for anyone but you...
-ບາງທີຂ້ອຍຈະໂຊກດີ. ເຈົ້າຮູ້ແລ້ວ, Z,
-ຂ້ອຍຈະບໍ່ເຮັດສິ່ງນີ້ ສໍາ ລັບໃຜນອກຈາກເຈົ້າ...
-
-113
-00:07:43,550 --> 00:07:45,550
-[WEAVER]
-Wear this.
-ນຸ່ງແບບນີ້ເດີ້.
-
-114
-00:07:46,050 --> 00:07:48,050
-[WEAVER]
-Yeah, I know.
-ແມ່ນແລ້ວ, ຂ້ອຍຮູ້.
-
-115
-00:07:48,550 --> 00:07:54,550
-[WEAVER]
-Don't tell anyone you're a worker. Follow that column over there.  And come right back after the inspection!
-ຢ່າບອກໃຜວ່າເຈົ້າເປັນຄົນງານ. ຕິດຕາມຄໍລໍານັ້ນຢູ່ບ່ອນນັ້ນ
-. ແລະກັບມາທັນທີຫຼັງຈາກການກວດສອບ!
-
-116
-00:07:55,050 --> 00:08:01,050
-[ATTEN-SHUN!]
-MARTIAL MUSIC sounds, and we hear thousands of ant feet as they snap to attention.  Z imitates the soldiers awkwardly.
-ດົນຕີການຕໍ່ສູ້ສຽງດັງ, ແລະພວກເຮົາໄດ້ຍິນຕີນແມງໄມ້ຫຼາຍພັນຄົນໃນຂະນະທີ່ພວກເຂົາກະຕຸ້ນໃຫ້ຄວາມສົນໃຈ
-. Z ຕົວແບບທະຫານຢ່າງບໍ່ສະບາຍ.
-
-117
-00:08:01,550 --> 00:08:07,550
-[FORMICA]
-First of all, let me make one thing clear.  Nobody ever won a battle by thinking for himself.  All this "thinking" stuff is a load of crap. If the almighty had wanted you boys to think, he wouldn't have given you huge mandibles and a brain so small you'd misplace it if it wasn't trapped inside your head.
-ກ່ອນອື່ນ ຫມົດ, ຂໍໃຫ້ຂ້ອຍເຮັດໃຫ້ສິ່ງ ຫນຶ່ງ ແຈ້ງ. ບໍ່ມີໃຜເຄີຍຊະນະການຕໍ່ສູ້ໂດຍການຄິດ ສໍາ ລັບຕົວເອງ. ສິ່ງທັງ ຫມົດ ນີ້"ການຄິດ" ແມ່ນໂຊກແຊງຫຼາຍ.
-ຖ້າຜູ້ມີອໍານາດທັງ ຫມົດ ຢາກໃຫ້ເຈົ້າຄິດ, ລາວຈະບໍ່ໃຫ້ເຈົ້າກະຕ່າກະທູ້ຂະຫນາດໃຫຍ່ແລະສະຫມອງນ້ອຍຫຼາຍທີ່ທ່ານຈະພາດມັນຖ້າມັນບໍ່ໄດ້ຖືກຈັບຢູ່ໃນຫົວຂອງທ່ານ.
-
-118
-00:08:08,050 --> 00:08:14,050
-[FORMICA]
-We ants survive as a species because we do what we're told.  We survive because we work together, as one, we get the job done, we do whatever it takes to persevere!  Hell, we're not an army of ants...we're one giant ant, with giant fists, and giant jaws!
-ພວກເຮົາແມງໄມ້ລອດຊີວິດເປັນຊະນິດເພາະວ່າພວກເຮົາເຮັດຕາມທີ່ຖືກບອກໃຫ້ເຮັດ. ພວກເຮົາລອດ ຊີວິດຍ້ອນວ່າພວກເຮົາເຮັດວຽກຮ່ວມກັນ, ໃນຖານະເປັນຄົນດຽວ, ພວກເຮົາເຮັດວຽກເຮັດງານທໍາໄດ້, ພວກເຮົາຍັງເຮັດທຸກຢ່າງທີ່ຕ້ອງເຮັດເພື່ອອົດທົນ! ສະຫວັນນະເຂດ, ພວກເຮົາບໍ່ແມ່ນກອງທັບແມງໄມ້... ພວກເຮົາເປັນແມງ ໄມ້ໃຫຍ່ດຽວ, ມີມືໃຫຍ່, ແລະກະຕ່າໃຫຍ່!
-
-119
-00:08:14,550 --> 00:08:20,550
-[FORMICA]
-Now I've heard a lot of scuttlebutt about a food shortage.  Well you boys are gonna be taken care of.  But in the meantime we're gonna eat the enemy for breakfast, we are gonna eat the enemy for lunch, and we are gonna eat the enemy for dinner!
-ດຽວນີ້ຂ້ອຍໄດ້ຍິນຂ່າວສໍ້ໂກງຫຼາຍກ່ຽວກັບການຂາດແຄນອາຫານ. ດີເຈົ້າຊາຍຈະໄດ້ຮັບການເບິ່ງແຍງ. ແຕ່ໃນເວລານັ້ນພວກເຮົາຈະກິນສັດຕູ
-ສໍາ ລັບອາຫານເຊົ້າ, ພວກເຮົາຍິນສັດຕູສໍາລັບອາຫານທ່ຽງ, ແລະພວກເຮົາຈະ ກິນສັດຕູສໍາລັບການກິນອາຫານຄໍ່າ!
-
-120
-00:08:21,050 --> 00:08:27,050
-[FORMICA]
-Dammit, I'm proud to be an ant.  And I know each and every one of you boys will do your duty.  Dismissed.
-ສະບາຍດີ, ຂ້ອຍພາກພູມໃຈເປັນແມງໄມ້.
-ແລະຂ້ອຍຮູ້ວ່າແຕ່ລະຄົນແລະທຸກໆຄົນຂອງເຈົ້າຊາຍຈະເຮັດຫນ້າທີ່ຂອງທ່ານ. ຖືກໄລ່ອອກ.
-
-121
-00:08:27,550 --> 00:08:30,700
-[COLONEL]
-Stow the gab there, soldier!  Let's move 'em out!
-ຢຸດການເວົ້າຢູ່ບ່ອນນັ້ນ, ທະຫານ! ໄປເອົາພວກມັນອອກໄປ!
-
-122
-00:08:31,200 --> 00:08:33,200
-[COLONEL]
-Eyes...left!
-ຕາ... ຊ້າຍ!
-
-123
-00:08:33,700 --> 00:08:35,700
-[BALA]
-Who is that idiot?
-ຄົນໂງ່ນັ້ນແມ່ນໃຜ?
-
-124
-00:08:36,200 --> 00:08:39,000
-[QUEEN]
-Darling, you must encourage the troops -- wave!
-ແມ, ເຈົ້າຕ້ອງຊຸກຍູ້ທະຫານ - ວາວ!
-
-125
-00:08:39,500 --> 00:08:41,500
-[BARBATUS]
-You new, kid?
-ເຈົ້າເປັນຄົນໃຫມ່ບໍ, ເດັກນ້ອຍ?
-
-126
-00:08:42,000 --> 00:08:47,250
-[BARBATUS]
-Trial membership?  Kid, when you join this ant's army, you're in for the full hitch.
-ສະມາຊິກທົດລອງບໍ? ເດັກນ້ອຍ, ເມື່ອເຈົ້າເຂົ້າຮ່ວມກອງທັບແມງໄມ້ນີ້
-, ເຈົ້າຢູ່ໃນຄວາມຫຍຸ້ງຍາກຢ່າງເຕັມທີ່.
-
-127
-00:08:47,750 --> 00:08:50,200
-[BARBATUS]
-Are you crazy, kid?  They shoot deserters!
-ເຈົ້າໂຊກຮ້າຍບໍ, ເດັກນ້ອຍ? ພວກເຂົາຍິງຄົນຫນີ!
-
-128
-00:08:50,700 --> 00:08:56,650
-[BARBATUS]
-You just stick by old Barbatus. He'll watch out for you.  Whatsamatter, kid?  Leave a girl behind?
-ເຈົ້າພຽງແຕ່ຢູ່ກັບບາບາຕັສເກົ່າ. ລາວຈະເບິ່ງແຍງເຈົ້າ.
-ມີຫຍັງສໍາຄັນ, ເດັກນ້ອຍ? ໃຫ້ເດັກຍິງຢູ່ເບື້ອງຫຼັງບໍ?
-
-129
-00:08:57,150 --> 00:08:59,950
-[BARBATUS]
-No -- we're going to attack the termites!
-ບໍ່ - ພວກເຮົາຈະໂຈມຕີແມງໄມ້!
-
-130
-00:09:00,450 --> 00:09:06,400
-[ANT SOLDIERS]
-We ants go marching one by one, hurrah, hurrah!  We slaughter termites just for fun, Hurrah! Hurrah!
-ພວກເຮົາແມງໄມ້ໄປເດີນຂະບວນຫນຶ່ງຕໍ່ຫນຶ່ງ, ໂຮຣາ, ຮູຣາ!
-ພວກເຮົາຂ້າແມຕີແມຕ໌ພຽງແຕ່ເພື່ອຄວາມມ່ວນຊື່ນ, ໂອຮາ! ໂຮຮຣາ!
-
-131
-00:09:06,900 --> 00:09:12,900
-[BARBATUS]
-No such luck.  Those dirty terms are five times bigger than us, and they shoot acid from their foreheads!
-ບໍ່ມີໂຊກດີເຊັ່ນນັ້ນ. ເງື່ອນໄຂທີ່ເປື້ອນນັ້ນໃຫຍ່ກວ່າພວກເຮົາຫ້າເທົ່າ
-, ແລະພວກເຂົາຍິງອາຊິດຈາກໃບຫນ້າຂອງພວກເຂົາ!
-
-132
-00:09:13,400 --> 00:09:19,400
-[SOLDIER ANTS]
-We ants go marching two by two, hurrah!  Hurrah!  We'll all be dead before we're through, hurrah!  Hurrah!
-ພວກເຮົາແມງໄມ້ ກໍາ ລັງເດີນຂະບວນສອງຄົນຕໍ່ສອງຄົນ, ໂຮຣາ! ໂຮໂຣ
-! ພວກເຮົາທຸກຄົນຈະຕາຍກ່ອນທີ່ພວກເຮົາຈະສິ້ນສຸດລົງ, ໂຣຣ! ໂຣໂຣ!
-
-133
-00:09:19,900 --> 00:09:24,450
-[BARBATUS]
-Our platoon has the best assignment of all.  We're the first into battle!
-ກອງທັບຂອງພວກເຮົາມີຫນ້າທີ່ທີ່ດີທີ່ສຸດຂອງທຸກຄົນ
-. ພວກເຮົາເປັນຄົນ ທໍາ ອິດເຂົ້າສູ່ການຕໍ່ສູ້!
-
-134
-00:09:24,950 --> 00:09:30,950
-[ANT SOLDIERS]
-We ants are marching three by three, hurrah!  Hurrah!  Dead ants is what we soon will be, hurrah!  Hurrah!
-ພວກເຮົາແມງໄມ້ ກໍາ ລັງເດີນຂະບວນສາມຕໍ່ສາມ, ໂຮຣ! ໂຮໂຣ!
-ແມງໄມ້ຕາຍແມ່ນສິ່ງທີ່ພວກເຮົາຈະກາຍເປັນໃນໄວໆນີ້, ໂຣຣ໌! ໂຣໂຣ!
-
-135
-00:09:31,450 --> 00:09:33,450
-[BARBATUS]
-Superior numbers, kid!
-ຕົວເລກທີ່ສູງກວ່າ, ເດັກນ້ອຍ!
-
-136
-00:09:33,950 --> 00:09:38,850
-[ATTAAAAAAAAACK!!!]
-The front line of ants starts rushing towards the termite colony...Z is swept along...
-ສາຍແຖວຫນ້າຂອງແມງໄມ້ເລີ່ມແລ່ນໄປສູ່ຄລູເນຍແມຣຕິຕ໌
-... Z ຖືກລ້າງໄປຕາມ...
-
-137
-00:09:39,350 --> 00:09:41,350
-[BARBATUS]
-Over the TOOOOOOOOOOOOO-OP!!!
-ຜ່ານການປະຕິບັດງານ TOOOOOOOoooOOOO!!!
-
-138
-00:09:41,850 --> 00:09:43,850
-[BARBATUS]
-It's too damn quiet.
-ມັນງຽບເກີນໄປ.
-
-139
-00:09:44,350 --> 00:09:47,150
-[BARBATUS]
-Don't be scared, kid.  Barbatus's got yer back.
-ຢ່າຢ້ານ, ເດັກນ້ອຍ. ບາບາຕັສໄດ້ເຈົ້າກັບມາ.
-
-140
-00:09:47,650 --> 00:09:49,650
-[COLONEL]
-Light it up!
-ແສງມັນຂຶ້ນ!
-
-141
-00:09:50,150 --> 00:09:52,150
-[COLONEL]
-They're here!!!
-ພວກເຂົາມາແລ້ວ!!!
-
-142
-00:09:52,650 --> 00:09:54,650
-[BARBATUS]
-Keep your head down!
-ຮັກສາຫົວລົງ!
-
-143
-00:09:55,150 --> 00:10:00,050
-[I --]
-The termite rears, getting ready to melt Z, when OOF! he's knocked backwards by...
-ແມງໄມ້ຫຼັງ, ກຽມພ້ອມທີ່ຈະລະລາຍ Z,
-ເມື່ອ OOF! ລາວຖືກຕີກັບຄືນໄປບ່ອນໂດຍ...
-
-144
-00:10:00,550 --> 00:10:02,650
-[BARBATUS]
-Don't get all sappy about it!
-ຢ່າໂຊກຮ້າຍຫຼາຍກ່ຽວກັບມັນ!
-
-145
-00:10:03,150 --> 00:10:06,650
-[COLONEL]
-I love the smell of formic acid in the morning.
-ຂ້ອຍມັກກິ່ນຫອມຂອງອາຊິດແມງໄມ້ໃນຕອນເຊົ້າ.
-
-146
-00:10:07,150 --> 00:10:09,150
-[ANT OFFICER]
-He's killed their Queen!
-ລາວໄດ້ຂ້າລາຊິນີຂອງພວກເຂົາແລ້ວ!
-
-147
-00:10:09,650 --> 00:10:15,650
-[VICTORY!!!]
-We can see that the termite warriors, deprived of their leader, are suddenly confused and directionless, easy prey for the ants.
-ພວກເຮົາສາມາດເຫັນໄດ້ວ່າ ພວກນັກຮົບແມວແມງໄມ້, ຖືກຂາດຜູ້ນໍາຂອງພວກເຂົາ,
-ແມ່ນສັບສົນແລະບໍ່ມີທິດທາງຢ່າງກະທັນຫັນ, ເປັນສັດລ້ຽງງ່າຍ ສໍາ ລັບແມງໄມວ.
-
-148
-00:10:16,150 --> 00:10:18,150
-[ANT OFFICER]
-Let's slaughter them all!
-ພວກເຮົາຈະຂ້າພວກເຂົາທັງ ຫມົດ!
-
-149
-00:10:18,650 --> 00:10:24,650
-[INCOMING!]
-The tongue comes down again, smashing some more ants, whose bodies are slurped up by the tongue...the ants scatter, but to no avail, as the tongue comes smashing down again and again...
-ພາສາລົງອີກຄັ້ງ, ທໍາ ລາຍແມງໄມ້ອີກບາງຄົນ, ເຊິ່ງຮ່າງກາຍຖືກດູດຊຶມໂດຍພາສາ... ແມງໄມ້ກະຈາຍ
-, ແຕ່ບໍ່ມີຜົນປະໂຫຍດ, ໃນຂະນະທີ່ພາສາມາ ທໍາ ລາຍລົງອີກເທື່ອຫນຶ່ງແລະອີກຄັ້ງ...
-
-150
-00:10:25,150 --> 00:10:27,150
-[BARBATUS]
-Z!  Over here!
-Z! ຢູ່ບ່ອນນີ້!
-
-151
-00:10:27,650 --> 00:10:30,450
-[BARBATUS]
-Be honest, kid -- am I hurt bad?
-ເວົ້າຈິງໃຈ, ເດັກນ້ອຍ - ຂ້ອຍເຈັບປວດຫຼາຍບໍ?
-
-152
-00:10:30,950 --> 00:10:36,950
-[BARBATUS]
-No -- I can see it in your eyes.  I'm a goner.  It's alright, Z.  In this ant's army, a soldier's life ain't worth a sack of fungus.  I can't feel my legs...
-ບໍ່ - ຂ້ອຍເຫັນມັນໃນຕາຂອງເຈົ້າ. ຂ້ອຍເປັນຄົນຕາຍແລ້ວ. ມັນບໍ່ເປັນຫຍັງ, Z.
-ໃນກອງທັບແມງໄມ້ນີ້, ຊີວິດຂອງທະຫານບໍ່ຄຸ້ມຄ່າຖົງແມງໄມ້. ຂ້ອຍບໍ່ສາມາດຮູ້ສຶກຕີນຂອງຂ້ອຍໄດ້...
-
-153
-00:10:37,450 --> 00:10:39,450
-[BARBATUS]
-I wonder...what...was it all...for...
-ຂ້ອຍຢາກຮູ້ວ່າ... ຫຍັງ... ມັນແມ່ນທັງ ຫມົດ... ສໍາລັບ...
-
-154
-00:10:39,950 --> 00:10:43,450
-[BARBATUS]
-Don't make my mistake, kid... don't...be a grunt...your whole life...
-ຢ່າເຮັດຄວາມຜິດພາດຂອງຂ້ອຍ, ເດັກນ້ອຍ... ຢ່າ...
-ເປັນຄົນໂຊກຮ້າຍ... ຊີວິດທັງ ຫມົດ ຂອງເຈົ້າ...
-
-155
-00:10:43,950 --> 00:10:49,950
-[AZTECA]
-Hey, slow it down, big boy.  You're making the rest of us look bad...How come I haven't seen you around here before?
-ເຮ້, ຊ້າລົງ, ເດັກຊາຍໃຫຍ່. ເຈົ້າ ກໍາ ລັງເຮັດໃຫ້ພວກເຮົາຄົນອື່ນເບິ່ງບໍ່ດີ
-... ເປັນຫຍັງຂ້ອຍບໍ່ໄດ້ເຫັນເຈົ້າຢູ່ບ່ອນນີ້ກ່ອນ?
-
-156
-00:10:50,450 --> 00:10:52,450
-[WEAVER]
-I'm new...I was born yesterday.
-ຂ້ອຍເປັນຄົນໃຫມ່... ຂ້ອຍເກີດມື້ວານນີ້.
-
-157
-00:10:52,950 --> 00:10:54,950
-[AZTECA]
-Tell me about it.
-ບອກຂ້ອຍກ່ຽວກັບມັນ.
-
-158
-00:10:55,450 --> 00:11:01,450
-[WEAVER]
-Nobody told me digging was so much fun!  You pick up the dirt, you move it, you pick it up again, you move it again -- lots of repetitions, you exercise the forceps, and the pincers --
-ບໍ່ມີໃຜບອກຂ້ອຍວ່າການຂຸດຄົ້ນມີຄວາມມ່ວນຊື່ນຫຼາຍ! ເຈົ້າເອົາດິນ, ເຈົ້າຍ້າຍມັນ, ເຈົ້າເອົາມັນອີກຄັ້ງ,
-ເຈົ້າເຄື່ອນມັນອີກເທື່ອຫນຶ່ງ - ການຊໍ້າຊ້ອນຫຼາຍຄັ້ງ, ທ່ານອອກ ກໍາ ລັງກາຍກະດານກະທູ້, ແລະກະດູກກະດູ້ -
-
-159
-00:11:01,950 --> 00:11:04,400
-[AZTECA]
-Mmm, yes, I see what you mean...
-ອືມ, ແມ່ນແລ້ວ, ຂ້ອຍເຫັນວ່າເຈົ້າຫມາຍຄວາມວ່າແນວໃດ...
-
-160
-00:11:04,900 --> 00:11:06,900
-[FOREMAN]
-What's the holdup here?!
-ຄວາມຊັກຊ້າຢູ່ບ່ອນນີ້ເປັນຫຍັງ?!
-
-161
-00:11:07,400 --> 00:11:12,300
-[WEAVER]
-Sorry, sir -- I was just having a little chat with my friend --
-ຂໍໂທດເດີ - ຂ້ອຍພຽງແຕ່ສົນທະນານ້ອຍໆກັບເພື່ອນຂອງຂ້ອຍ -
-
-162
-00:11:12,800 --> 00:11:18,800
-[FOREMAN]
-Who said you could have a chat? You're not a chatter, you're a digger!  So shut up and dig!
-ໃຜບອກວ່າເຈົ້າສາມາດສົນທະນາໄດ້ບໍ? ເຈົ້າບໍ່ແມ່ນຄົນສົນທະນາ
-, ເຈົ້າເປັນນັກຂຸດຄົ້ນ! ສະນັ້ນງຽບແລະຂຸດເຈາະ!
-
-163
-00:11:19,300 --> 00:11:21,300
-[AZTECA]
-Leave him alone!  He's new.
-ຢ່າເວົ້າຫຍັງກັບລາວເດີ້! ລາວແມ່ນຄົນໃໝ່.
-
-164
-00:11:21,800 --> 00:11:27,400
-[FOREMAN]
-You  too?  Well just for that, you lose your day's rations!  Now get back to work!
-ເຈົ້າຄືກັນບໍ? ພຽງແຕ່ ສໍາ ລັບນັ້ນ,
-ເຈົ້າສູນເສຍສ່ວນແບ່ງຂອງມື້ຂອງທ່ານ! ດຽວນີ້ກັບຄືນໄປບ່ອນເຮັດວຽກ!
-
-165
-00:11:27,900 --> 00:11:33,500
-[AZTECA]
-I don't know what came over me, talking back like that.  I must be going crazy...
-ຂ້ອຍບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນກັບຂ້ອຍ,
-ເວົ້າກັບຄືນໄປບ່ອນແບບນັ້ນ. ຂ້ອຍຕ້ອງໂຊກຮ້າຍ...
-
-166
-00:11:34,000 --> 00:11:38,550
-[WEAVER]
-Sorry I got you in trouble.  But listen, you can share my rations.
-ຂໍໂທດທີ່ຂ້ອຍເຮັດໃຫ້ເຈົ້າຢູ່ໃນຄວາມຫຍຸ້ງຍາກ.
-ແຕ່ຟັງ, ເຈົ້າສາມາດແບ່ງປັນອາຫານຂອງຂ້ອຍໄດ້.
-
-167
-00:11:39,050 --> 00:11:41,500
-[AZTECA]
-Are you asking me out to dinner?
-ເຈົ້າ ກໍາ ລັງເຊີນຂ້ອຍອອກກິນອາຫານຄໍ່າບໍ?
-
-168
-00:11:42,000 --> 00:11:47,250
-[WEAVER]
-No -- I mean yes -- I mean -- if you don't have other plans.
-ບໍ່ - ຂ້ອຍຫມາຍຄວາມວ່າແມ່ນແລ້ວ - ຂ້ອຍ
-ຫມາຍ ຄວາມວ່າ - ຖ້າເຈົ້າບໍ່ມີແຜນການອື່ນ.
-
-169
-00:11:47,750 --> 00:11:53,750
-[AZTECA]
-I'll make myself available...Listen, better watch out with the backtalk.  I don't know want you to end up like the guy who used to work next to me.  I'm afraid he got... downsized.
-ຂ້ອຍຈະເຮັດໃຫ້ຕົວເອງສາມາດໃຊ້ໄດ້... ຟັງ, ດີກວ່າລະມັດລະວັງກັບການເວົ້າຫຼັງ.
-ຂ້ອຍບໍ່ຮູ້ຢາກໃຫ້ເຈົ້າສິ້ນສຸດລົງຄືກັບຜູ້ຊາຍທີ່ເຄີຍເຮັດວຽກຢູ່ຂ້າງຂ້ອຍ. ຂ້ອຍຢ້ານວ່າລາວໄດ້ຮັບ... ຂະຫນາດຫຼຸດລົງ.
-
-170
-00:11:54,250 --> 00:11:57,400
-[GUARD ANT]
-Look!  They're back!  The army's back!  Alert the colony!
-ເບິ່ງແມ! ພວກເຂົາກັບມາແລ້ວ! ກອງທັບກັບມາ! ແຈ້ງເຕືອນຄລູເນຍ!
-
-171
-00:11:57,900 --> 00:12:00,700
-[EXCITED ANTS]
-The army's returned!  Our brave boys are back!
-ກອງທັບກັບມາແລ້ວ! ເດັກຊາຍທີ່ກ້າຫານຂອງພວກເຮົາກັບມາ!
-
-172
-00:12:01,200 --> 00:12:04,350
-[AZTECA]
-It looks like only one soldier made it back!
-ມັນເບິ່ງຄືວ່າທະຫານຄົນດຽວໄດ້ກັບມາ!
-
-173
-00:12:04,850 --> 00:12:08,350
-[WEAVER]
-Poor Z -- I should never have let you go!
-ຂ້ອຍບໍ່ຄວນປ່ອຍເຈົ້າໄປເລີຍ!
-
-174
-00:12:08,850 --> 00:12:11,650
-[ONE TO NOTHING!  WE WIN!]
-The band strikes up again, and everyone cheers.
-ແບນດ໌ໄດ້ໂຈມຕີອີກເທື່ອໜຶ່ງ, ແລະທຸກຄົນໄດ້ສະແດງຄວາມຍິນດີ.
-
-175
-00:12:12,150 --> 00:12:18,150
-[FORMICA]
-Damn, I'm proud of you, boy.  I wish I had a hundred ants of your caliber. The world would tremble.  Now, time for some R and R.  You're invited to the royal victory party!
-ສະບາຍດີ, ຂ້ອຍພາກພູມໃຈເຈົ້າ, ເດັກຊາຍ. ຂ້ອຍຢາກມີແມງໄມ້ສິບແມງໄມຂອງຂະຫນາດຂອງທ່ານ. ໂລກຈະສັ່ນສະເທືອນ
-. ດຽວນີ້, ມັນເຖິງເວລາ ສໍາ ລັບ R ແລະ R ບາງຢ່າງ. ເຈົ້າຖືກເຊີນເຂົ້າຮ່ວມງານລ້ຽງໄຊຊະນະລາຊະອານາຈັກ!
-
-176
-00:12:18,650 --> 00:12:22,850
-[FORMICA]
-Of course.  The entire royal family will be there to honor you.
-ແນ່ນອນ. ຄອບຄົວລາຊະອານາຈັກທັງ ຫມົດ ຈະຢູ່ບ່ອນນັ້ນເພື່ອຍ້ອງຍໍເຈົ້າ.
-
-177
-00:12:23,350 --> 00:12:29,300
-[ONE TO NOTHING!]
-Renewed CHEERS, as Z is lifted onto the shoulder of some of the soldiers who stayed behind.
-ການຟື້ນຟູ CHIERS, ໃນຂະນະທີ່ Z
-ຖືກຍົກຂຶ້ນເທິງກະຕ່າຂອງທະຫານບາງຄົນທີ່ຢູ່ເບື້ອງຫຼັງ.
-
-178
-00:12:29,800 --> 00:12:32,950
-[AZTECA]
-Wait a minute, that's no soldier -- that's Z!
-ລໍຖ້າດົນຫນຶ່ງ, ນັ້ນບໍ່ແມ່ນທະຫານ - ນັ້ນແມ່ນ Z!
-
-179
-00:12:33,450 --> 00:12:36,250
-[WEAVER]
-Z?  Our Z?  The little guy made it!
-Z? Z ຂອງພວກເຮົາ? ຜູ້ຊາຍນ້ອຍໄດ້ເຮັດມັນ!
-
-180
-00:12:36,750 --> 00:12:42,750
-[FORMICA]
-Son, you're an ant after my own heart.  A warrior.  An ant that looks death right in the face and laughs.
-ລູກຊາຍ, ເຈົ້າເປັນແມງໄມ້ຕາມຫົວໃຈຂອງຂ້ອຍເອງ. ນັກຮົບ
-. ແມງໄມ້ທີ່ເບິ່ງຄວາມຕາຍໂດຍກົງໃນໃບຫນ້າແລະມ່ວນຊື່ນ.
-
-181
-00:12:43,250 --> 00:12:46,400
-[FORMICA]
-Well she better -- she's engaged to one.  Me!
-ດີກວ່ານາງ - ນາງຖືກແຕ່ງງານກັບຄົນຫນຶ່ງ. ຂ້ອຍ!
-
-182
-00:12:46,900 --> 00:12:48,900
-[FORMICA]
-Affirmative.
-ແມ່ນແລ້ວ.
-
-183
-00:12:49,400 --> 00:12:55,400
-[FORMICA]
-In love?  I'm just a plain old soldier at heart.  I'll tell you what I love -- the field -- blood -- death -- orders...and the company of other warriors.
-ໃນຄວາມຮັກບໍ? ຂ້ອຍພຽງແຕ່ເປັນທະຫານເກົ່າທີ່ງ່າຍດາຍໃນຫົວໃຈ. ຂ້ອຍຈະບອກເຈົ້າວ່າຂ້ອຍຮັກຫຍັງ
-- ສະ ຫນາມ - ເລືອດ - ຄວາມຕາຍ - ຄໍາ ສັ່ງ... ແລະບໍລິສັດຂອງນັກຮົບອື່ນໆ.
-
-184
-00:12:55,900 --> 00:12:59,400
-[FORMICA]
-Yes, and do you know why there's a food shortage?
-ແມ່ນແລ້ວ, ແລະເຈົ້າຮູ້ວ່າເປັນຫຍັງມີການຂາດແຄນອາຫານ?
-
-185
-00:12:59,900 --> 00:13:05,900
-[FORMICA]
-Negatory.  Too many ants.  And while we soldiers go out there, and fight, and bleed, and die for the colony, the namby-pamby workers live it up back home.
-ການປະຕິເສດ. ແມງໄມ້ຫຼາຍເກີນໄປ. ແລະໃນຂະນະທີ່ພວກເຮົາທະຫານອອກໄປບ່ອນນັ້ນ, ແລະຕໍ່ສູ້
-, ແລະເລືອດ, ແລະຕາຍສໍາລັບຄລູເນຍ, ຄົນງານ namby-pamby ດໍາລົງຊີວິດມັນຢູ່ເຮືອນ.
-
-186
-00:13:06,400 --> 00:13:12,400
-[FORMICA]
-I tell you son, sometimes, at night, I see myself in battle, fighting a horrible, faceless enemy, with the future of our whole species at stake. And always, the dream ends with each of us plunging his sword into the other's heart...
-ຂ້ອຍບອກເຈົ້າວ່າລູກຊາຍ, ບາງຄັ້ງ, ໃນຕອນກາງຄືນ, ຂ້ອຍເຫັນຕົວເອງຢູ່ໃນການຕໍ່ສູ້, ຕໍ່ສູ້ກັບສັດຕູທີ່ຮ້າຍແຮງ, ບໍ່ມີໃບຫນ້າ, ດ້ວຍອະນາຄົດຂອງຊະນິດທັງ
-ຫມົດ ຂອງພວກເຮົາຢູ່ໃນອັນຕະລາຍ. ແລະສະເຫມີ, ຄວາມຝັນສິ້ນສຸດລົງດ້ວຍພວກເຮົາແຕ່ລະຄົນຖິ້ມກະທູ້ຂອງລາວເຂົ້າໄປໃນຫົວໃຈຂອງຄົນອື່ນ...
-
-187
-00:13:12,900 --> 00:13:18,900
-[OFFICER]
-What do you call it when 10,000 workers are killed in a tunnel cave- in?  Who cares?  They're workers!
-ເຈົ້າເອີ້ນມັນວ່າແນວໃດເມື່ອຄົນງານ 10,000
-ຄົນຖືກຂ້າຕາຍໃນຮູຮານທູນລ໌ - ໃນ? ໃຜສົນໃຈ? ພວກເຂົາເປັນຄົນງານ!
-
-188
-00:13:19,400 --> 00:13:22,900
-[BALA]
-You're the hero of the recent termite campaign, aren't you?
-ເຈົ້າເປັນວິລະຊົນຂອງການໂຄສະນາແມຣຕິຕ໌ທີ່ຜ່ານມາ, ແມ່ນບໍ?
-
-189
-00:13:23,400 --> 00:13:25,400
-[BALA]
+380
+00:25:32,360 --> 00:25:34,669
+OK, mama! Unh!
+ດີແລ້ວ, ແມ່! ໂອ້!
+
+381
+00:25:34,760 --> 00:25:36,716
+Yeah. Oof!
+ແມ່ນແລ້ວ. ໂອ້!
+
+382
+00:25:37,520 --> 00:25:40,751
+Oh, yeah. Big guy comin' through.
+ໂອ້,ແມ່ນແລ້ວ.ຜູ້ຊາຍ
+ໃຫຍ່ກໍາລັງຜ່ານໄປ.
+
+383
+00:25:42,160 --> 00:25:43,991
+I love it.
+ຂ້ອຍມັກມັນຫຼາຍ.
+
+384
+00:25:49,320 --> 00:25:52,437
+Hey, hey, hey!
+Take it easy, muscles.
+ເຮ້, ເຮ້! ສະບາຍໃຈ, ກ້າມຊີ້ນ.
+
+385
+00:25:53,560 --> 00:25:56,358
+You're makin'
+the rest of us look bad.
+ເຈົ້າກໍາລັງເຮັດໃຫ້
+ພວກເຮົາຄົນອື່ນເບິ່ງບໍ່ດີ.
+
+386
+00:25:56,440 --> 00:25:58,271
+What happened to Z?
+ເກີດຫຍັງຂຶ້ນກັບ Z?
+
+387
+00:25:58,360 --> 00:26:02,239
+He's... takin' a personal day,
+so I'm filling in.
+ລາວກໍາລັງ...ໃຊ້ມື້ສ່ວນຕົວ
+,ສະນັ້ນຂ້ອຍກໍາລັງຕື່ມ.
+
+388
+00:26:02,320 --> 00:26:05,517
+You fill in any more,
+and you'll explode.
+ເຈົ້າຕື່ມອີກໃດໜຶ່ງ, ແລະເຈົ້າຈະລະເບີດ.
+
+389
+00:26:09,880 --> 00:26:11,632
+Eh, you got a problem?
+ເອ້, ເຈົ້າມີບັນຫາບໍ?
+
+390
+00:26:11,720 --> 00:26:16,236
+No, uh... uh... Nobody told me
+digging was so much fun.
+ບໍ່, uh ... uh ...ບໍ່ມີໃຜບອກ
+ຂ້ອຍວ່າການຂຸດຄົ້ນມ່ວນຫຼາຍ.
+
+391
+00:26:16,320 --> 00:26:19,198
+You know, you pick the dirt up.
+You move it.
+ເຈົ້າຮູ້ແລ້ວ,ເຈົ້າ
+ເອົາດິນ.ເຈົ້າຍ້າຍມັນ.
+
+392
+00:26:19,280 --> 00:26:23,478
+You pick it up again.
+You move it again. Lots of reps.
+ເຈົ້າເອົາມັນອີກເທື່ອໜຶ່ງ.ເຈົ້າ
+ຍ້າຍມັນອີກຄັ້ງໜຶ່ງ.ການທົດແທນຫຼາຍ.
+
+393
+00:26:23,560 --> 00:26:25,710
+You exercise the arms
+and the thorax.
+ເຈົ້າອອກກໍາລັງກາຍແຂນແລະທ້ອງ.
+
+394
+00:26:25,800 --> 00:26:28,473
+Yes, I... I see what you mean.
+ແມ່ນແລ້ວ,ຂ້ອຍ...ຂ້ອຍເຫັນ
+ວ່າເຈົ້າໝາຍຄວາມວ່າແນວໃດ.
+
+395
+00:26:28,600 --> 00:26:30,511
+- Yeah. Fascinating.
+- Sorry, sir!
+- ແມ່ນແລ້ວ. ໜ້າ ສົນໃຈ.
+- ຂໍໂທດເດີເດີ!
+
+396
+00:26:30,640 --> 00:26:32,949
+I was just chattin'
+with my friend, sir.
+ຂ້ອຍພຽງແຕ່ສົນທະນາກັບ
+ເພື່ອນຂອງຂ້ອຍເດີເດີ.
+
+397
+00:26:33,040 --> 00:26:37,318
+You know, I just had a chat
+with General Mandible.
+ເຈົ້າຮູ້ແລ້ວ,ຂ້ອຍຫາກໍ່
+ສົນທະນາກັບພົນຈັດຕະວາແມນດິບ.
+
+398
+00:26:37,400 --> 00:26:41,439
+Anybody who doesn't meet his quota
+is going to be downsized.
+ໃຜທີ່ບໍ່ຕອບສະໜອງປະລິມານ
+ຂອງຕົນຈະຖືກຫຼຸດຜ່ອນຂະໜາດ.
+
+399
+00:26:41,520 --> 00:26:44,830
+Come on. Cut him a break. He's new.
+ມາແລ້ວ. ໃຫ້ລາວພັກຜ່ອນ. ລາວເປັນຄົນໃໝ່.
+
+400
+00:26:44,960 --> 00:26:49,954
+Hey. What do you say we help
+your attitude a little bit...
+ເຮ້.ເຈົ້າຄິດແນວໃດວ່າພວກເຮົາຈະ
+ຊ່ວຍທັດສະນະຂອງທ່ານເລັກນ້ອຍ...
+
+401
+00:26:50,040 --> 00:26:54,511
+by taking away
+your rations for the day.
+ໂດຍການເອົາສ່ວນແບ່ງ
+ຂອງທ່ານສໍາລັບມື້ນີ້.
+
+402
+00:26:54,600 --> 00:26:56,431
+Thanks for your time.
+ຂອບໃຈທີ່ໃຫ້ເວລາ.
+
+403
+00:26:57,400 --> 00:27:01,393
+I don't know what came over me.
+Talking back like that?
+ຂ້ອຍບໍ່ຮູ້ວ່າເກີດຫຍັງຂຶ້ນ
+ກັບຂ້ອຍ.ການຕອບໂຕ້ແບບນັ້ນບໍ?
+
+404
+00:27:02,160 --> 00:27:04,071
+I must be losin' it.
+ຂ້ອຍຕ້ອງສູນເສຍມັນ.
+
+405
+00:27:04,160 --> 00:27:06,037
+Sorry I got you in trouble.
+ຂໍໂທດທີ່ຂ້ອຍເຮັດໃຫ້
+ເຈົ້າຢູ່ໃນຄວາມຫຍຸ້ງຍາກ.
+
+406
+00:27:06,120 --> 00:27:08,873
+But, you can...
+share my rations... Whoa!
+ແຕ່,ເຈົ້າສາມາດ...ແບ່ງປັນ
+ສ່ວນແບ່ງຂອງຂ້ອຍໄດ້...ໂວ້!
+
+407
+00:27:08,960 --> 00:27:10,837
+If you want.
+ຖ້າເຈົ້າຢາກ.
+
+408
+00:27:10,920 --> 00:27:14,390
+- Are you askin' me out to dinner?
+-
+-ເຈົ້າກໍາລັງຂໍໃຫ້
+ຂ້ອຍໄປກິນອາຫານຄໍ່າບໍ?
+
+409
+00:27:14,480 --> 00:27:16,436
+Oh, no. I...
+ໂອ້, ບໍ່. ຂ້ອຍ...
+
+410
+00:27:16,520 --> 00:27:20,798
+Well, if you don't have
+anything else planned...
+ດີ, ຖ້າເຈົ້າບໍ່ມີຫຍັງອີກທີ່ວາງແຜນ...
+
+411
+00:27:20,880 --> 00:27:23,952
+I'll check my calendar.
+ຂ້ອຍຈະກວດເບິ່ງຕາຕະລາງຂອງຂ້ອຍ.
+
+412
+00:27:24,040 --> 00:27:25,792
+You know,
+ເຈົ້າຮູ້ແລ້ວ,
+
+413
+00:27:25,880 --> 00:27:28,917
+I'm kinda glad Z's takin' a breather.
+ຂ້ອຍດີໃຈວ່າ Z ກໍາ ລັງຫາຍໃຈ.
+
+414
+00:27:59,120 --> 00:28:00,917
+Kid!
+ເດັກນ້ອຍ!
+
+415
+00:28:01,000 --> 00:28:03,116
+Kid, over here.
+ເດັກນ້ອຍ, ຢູ່ບ່ອນນີ້.
+
+416
+00:28:04,480 --> 00:28:06,198
+Barbatus.
+ບາບາຕັສ.
+
+417
+00:28:06,280 --> 00:28:09,750
+Be honest, kid. Am I hurt bad?
+ເວົ້າຈິງໃຈ,ເດັກນ້ອຍ
+.ຂ້ອຍເຈັບປວດຫຼາຍບໍ?
+
+418
+00:28:09,840 --> 00:28:14,595
+N-no. N-not at all. You're...
+Actually, you're lookin' terrific.
+ບໍ່.ບໍ່-ບໍ່ເລີຍ.ເຈົ້າແມ່ນ...ໃນ
+ຄວາມເປັນຈິງ,ເຈົ້າເບິ່ງດີເລີດ.
+
+419
+00:28:14,680 --> 00:28:17,831
+You got, you know,
+swell colour in your cheeks.
+ເຈົ້າມີ,ເຈົ້າຮູ້ແລ້ວ,ສີ
+ທີ່ສວຍງາມໃນໃບໜ້າຂອງທ່ານ.
+
+420
+00:28:17,920 --> 00:28:21,833
+No. I can see it in your eyes.
+ບໍ່. ຂ້ອຍເຫັນມັນໃນຕາຂອງທ່ານ.
+
+421
+00:28:21,920 --> 00:28:23,751
+I'm a goner.
+ຂ້ອຍຈະຕາຍແລ້ວ.
+
+422
+00:28:25,080 --> 00:28:26,991
+Help me up, Z.
+ຊ່ວຍຂ້ອຍຂຶ້ນ, Z.
+
+423
+00:28:29,840 --> 00:28:32,229
+I c-can't feel my legs.
+ຂ້ອຍບໍ່ຮູ້ສຶກຕີນຂອງຂ້ອຍ.
+
+424
+00:28:32,320 --> 00:28:36,950
+You gotta hang in there, buddy.
+I know you're gonna make it.
+ເຈົ້າຕ້ອງທົນຢູ່ບ່ອນນັ້ນ,ເພື່ອນ
+.ຂ້ອຍຮູ້ວ່າເຈົ້າຈະເຮັດໄດ້.
+
+425
+00:28:37,040 --> 00:28:39,235
+Just take... take deep breaths.
+ພຽງແຕ່ຫາຍໃຈຢ່າງເລິກເຊິ່ງ.
+
+426
+00:28:39,320 --> 00:28:42,437
+Because I'm gonna try
+and find your body.
+ເພາະຂ້ອຍຈະພະຍາຍາມຊອກຫາຮ່າງກາຍຂອງເຈົ້າ.
+
+427
+00:28:42,520 --> 00:28:46,354
+It's bound to be...
+out there... s-somewhere.
+ມັນຕ້ອງຢູ່...ຢູ່ພາຍນອກ
+ນັ້ນ...ຢູ່ບ່ອນໃດໜຶ່ງ.
+
+428
+00:28:53,680 --> 00:28:56,114
+B-Barbatus, hang on.
+ບາບາຕັສ, ລໍຖ້າ.
+
+429
+00:28:56,200 --> 00:29:01,718
+- B-Barbatus.
+- Don't make my mistake, kid.
+- ບາບາຕັສ.
+- ຢ່າເຮັດຄວາມຜິດພາດຂອງຂ້ອຍ, ເດັກນ້ອຍ.
+
+430
+00:29:02,960 --> 00:29:05,997
+Don't follow orders your whole life.
+ຢ່າປະຕິບັດຕາມຄໍາສັ່ງ
+ຕະຫຼອດຊີວິດຂອງທ່ານ.
+
+431
+00:29:06,080 --> 00:29:09,993
+Think for yourself. Ohh...
+ຄິດດ້ວຍຕົນເອງ. ໂອ້...
+
+432
+00:29:13,360 --> 00:29:15,157
+Barbatus.
+ບາບາຕັສ.
+
+433
+00:29:28,360 --> 00:29:32,797
+We're on schedule. Work
+is completed on "A" section, sir.
+ພວກເຮົາຢູ່ໃນຕາຕະລາງ.ວຽກງານ
+ສໍາເລັດແລ້ວໃນພາກສ່ວນ "A" ເດີ.
+
+434
+00:29:32,880 --> 00:29:34,996
+We're clearing "D" section now.
+ພວກເຮົາກໍາລັງເຮັດ
+ຄວາມສະອາດພາກສ່ວນ "D" ດຽວນີ້.
+
+435
+00:29:35,080 --> 00:29:38,277
+I want double shifts
+around the clock.
+ຂ້ອຍຢາກເຮັດວຽກສອງຄົນຕະຫຼອດເວລາ.
+
+436
+00:29:38,360 --> 00:29:41,079
+- Is that clear?
+- Crystal, sir.
+- ມັນຈະແຈ້ງບໍ?
+- ຄຣິດສະຕັລເດີເດີ.
+
+437
+00:29:41,160 --> 00:29:43,435
+Good. What about section...
+ດີ. ສ່ວນສ່ວນໃດ...
+
+438
+00:29:43,520 --> 00:29:46,557
+- Excuse me, sir.
+- This better be important.
+- ຂໍໂທດເດີເດີເດີ.
+- ນີ້ແມ່ນຄວນມີຄວາມສໍາຄັນ.
+
+439
+00:29:46,640 --> 00:29:48,710
+It's the termite battle, sir.
+ມັນເປັນການຕໍ່ສູ້ກັບແມງໄມ້ເດີເດີເດີ.
+
+440
+00:29:48,800 --> 00:29:53,476
+The enemy was destroyed, but it was
+a disaster for our troops, as well.
+ສັດຕູຖືກທໍາລາຍ,ແຕ່ມັນເປັນໄພພິບັດ
+ສໍາລັບກອງທັບຂອງພວກເຮົາເຊັ່ນກັນ.
+
+441
+00:29:53,560 --> 00:29:56,950
+Well, that's terrible. Terrible.
+ດີ, ນັ້ນແມ່ນຮ້າຍແຮງ. ຮ້າຍແຮງ.
+
+442
+00:29:57,040 --> 00:30:00,316
+There is good news, sir.
+One soldier made it back.
+ມີຂ່າວດີເດີ. ທະຫານຄົນໜຶ່ງໄດ້ກັບມາ.
+
+443
+00:30:00,400 --> 00:30:02,072
+- No kidding.
+- What?
+- ບໍ່ໂຊກຮ້າຍ.
+- ຫຍັງ?
+
+444
+00:30:02,160 --> 00:30:06,153
+Word is spreading. The Queen
+wants to meet the war hero.
+ຂ່າວກໍາລັງແຜ່ລາມ.ລາຊິນີ
+ຢາກພົບກັບວິລະຊົນສົງຄາມ.
+
+445
+00:30:06,240 --> 00:30:07,559
+Damn!
+ສະບາຍດີ!
+
+446
+00:30:07,640 --> 00:30:09,835
+Good. Damn good.
+ດີ. ດີຫຼາຍ.
+
+447
+00:30:09,920 --> 00:30:11,558
+Uh, I'll handle this.
+ໂອ້, ຂ້ອຍຈະຮັບມືກັບເລື່ອງນີ້.
+
+448
+00:30:15,080 --> 00:30:17,674
+- Congratulations, soldier.
+-
+- ຂໍສະແດງຄວາມຍິນດີ, ທະຫານ.
+
+449
+00:30:18,720 --> 00:30:21,871
+You're a little short for a war hero,
+aren't you?
+ເຈົ້າຂາດພຽງເລັກນ້ອຍສໍາ
+ລັບວິລະຊົນສົງຄາມ,ແມ່ນບໍ?
+
+450
+00:30:21,960 --> 00:30:27,273
+A war hero? Sir, l-I don't
+actually think that I'm a hero.
+ເຈົ້າ,ຂ້ອຍ-ຂ້ອຍບໍ່ຄິດວ່າ
+ຂ້ອຍເປັນວິລະຊົນແທ້ໆ.
+
+451
+00:30:27,360 --> 00:30:29,396
+Good. I don't like heroes.
+ດີ. ຂ້ອຍບໍ່ມັກວິລະຊົນ.
+
+452
+00:30:29,480 --> 00:30:31,630
+But, sir. You don't understand...
+ແຕ່ເດີ. ເຈົ້າບໍ່ເຂົ້າໃຈ...
+
+453
+00:30:38,840 --> 00:30:41,308
+I... I didn't do anything.
+ຂ້ອຍ... ຂ້ອຍບໍ່ໄດ້ເຮັດຫຍັງເລີຍ.
+
+454
+00:30:41,400 --> 00:30:45,359
+I mean, it was all horrible.
+It was just... just a massacre.
+ຂ້ອຍໝາຍຄວາມວ່າ,ມັນທັງໝົດແມ່ນຮ້າຍແຮງ
+.ມັນເປັນພຽງແຕ່...ພຽງແຕ່ການຂ້າຄົນຕາຍ.
+
+455
+00:30:45,440 --> 00:30:47,431
+A-a massacre upon a massacre.
+A - ການຂ້າລ້າງຕໍ່ການຂ້າລືກ.
+
+456
+00:30:47,520 --> 00:30:49,909
+That's good, soldier. Now, wave.
+ນັ້ນດີ, ທະຫານ. ດຽວນີ້, ຄື້ນຟອງ.
+
+457
+00:30:56,760 --> 00:30:59,399
+There was nothing
+you could do, Weaver.
+ບໍ່ມີຫຍັງທີ່ເຈົ້າສາມາດເຮັດໄດ້, ວີເວີ.
+
+458
+00:30:59,480 --> 00:31:02,040
+You didn't know
+they were going to war.
+ເຈົ້າບໍ່ຮູ້ວ່າພວກເຂົາຈະໄປສົງຄາມ.
+
+459
+00:31:02,120 --> 00:31:03,997
+I just feel horrible.
+ຂ້ອຍພຽງແຕ່ຮູ້ສຶກຮ້າຍແຮງ.
+
+460
+00:31:04,080 --> 00:31:08,073
+Poor Z.
+I should have never let him go.
+ຂ້ອຍບໍ່ຄວນປ່ອຍລາວໄປເລີຍ.
+
+461
+00:31:08,160 --> 00:31:12,278
+Wait a minute.
+That's no soldier. That's Z!
+ລໍຖ້າດົນໜຶ່ງ.ນັ້ນ
+ບໍ່ແມ່ນທະຫານ.ນັ້ນແມ່ນ Z !
+
+462
+00:31:12,360 --> 00:31:16,319
+Z? The little guy made it!
+Z? ຜູ້ຊາຍນ້ອຍໄດ້ເຮັດໄດ້!
+
+463
+00:31:19,960 --> 00:31:21,552
+Let's go, soldier.
+ໄປ, ທະຫານ.
+
+464
+00:31:30,080 --> 00:31:34,153
+As I was saying, son,
+you are an ant after my own heart.
+ດັ່ງທີ່ຂ້ອຍກໍາລັງເວົ້າ,ລູກຊາຍ,
+ເຈົ້າເປັນແມງໄມ້ຕາມຫົວໃຈຂອງຂ້ອຍເອງ.
+
+465
+00:31:34,280 --> 00:31:37,955
+An ant that looks Death
+in the face and laughs.
+ແມງໄມ້ທີ່ເບິ່ງຄວາມຕາຍ
+ໃນໃບໜ້າແລະມ່ວນຊື່ນ.
+
+466
+00:31:38,040 --> 00:31:39,632
+Well, the truth is,
+ດີ, ຄວາມຈິງແມ່ນ,
+
+467
+00:31:39,720 --> 00:31:42,678
+l-I just make belittling comments...
+ຂ້ອຍ-ຂ້ອຍພຽງແຕ່ເວົ້າຄວາມ
+ເຫັນທີ່ຫຼຸດລົງ...
+
+468
+00:31:42,760 --> 00:31:45,832
+and snicker behind Death's back.
+ແລະຄົນມ່ວນຊື່ນຢູ່ເບື້ອງຫຼັງຄວາມຕາຍ.
+
+469
+00:31:45,920 --> 00:31:48,957
+General Mandible.
+ນາຍພົນແມນດີບລ.
+
+470
+00:31:49,040 --> 00:31:53,397
+Keep your comments to yourself.
+Let me do the talking.
+ຮັກສາຄໍາເຫັນຂອງທ່ານໄວ້
+ກັບຕົວເອງ.ໃຫ້ຂ້ອຍເວົ້າ.
+
+471
+00:32:00,960 --> 00:32:04,748
+May I present
+Her Majesty the Queen.
+ຂ້ອຍຂໍສະເໜີເຈົ້າສູງສຸດຂອງລາຊິນີ.
+
+472
+00:32:04,840 --> 00:32:06,353
+Charmed. Charmed.
+ຊົມເຊີຍ. ສະບາຍດີ.
+
+473
+00:32:06,440 --> 00:32:08,351
+And the Royal Princess Bala.
+ແລະເຈົ້າຍິງລາຊະອານາຈັກບາລາ.
+
+474
+00:32:09,480 --> 00:32:11,755
+Welcome home, soldier.
+ຍິນດີຕ້ອນຮັບກັບບ້ານ, ທະຫານ.
+
+475
+00:32:11,840 --> 00:32:16,197
+We cannot begin to express our
+gratitude for your heroic efforts.
+ພວກເຮົາບໍ່ສາມາດເລີ່ມຕົ້ນສະແດງຄວາມຂອບໃຈ
+ຂອງພວກເຮົາສໍາລັບການພະຍາຍາມວິລະຊົນຂອງທ່ານໄດ້.
+
+476
+00:32:16,280 --> 00:32:19,511
+The private asked me to convey
+his humble appreciation.
+ນາຍພົນຂໍໃຫ້ຂ້ອຍສົ່ງຄວາມ
+ຍ້ອງຍໍທີ່ອ່ອນແອຂອງລາວ.
+
+477
+00:32:19,600 --> 00:32:22,353
+Please, please,
+it was nothing, really.
+ຂໍຮ້ອງ,ກະລຸນາ,ມັນ
+ບໍ່ມີຫຍັງເລີຍ,ແທ້ຈິງແລ້ວ.
+
+478
+00:32:22,440 --> 00:32:27,389
+Just run-of-the-mill valour...
+and extraordinary courage, you know.
+ພຽງແຕ່ຄວາມກ້າຫານແບບປົກກະຕິ...ແລະ
+ຄວາມກຽດຊັງທີ່ພິເສດ,ເຈົ້າຮູ້ແລ້ວ.
+
+479
+00:32:27,480 --> 00:32:30,631
+In battle,
+there's very little time to think.
+ໃນການຕໍ່ສູ້,ມີເວລາ
+ພຽງເລັກນ້ອຍທີ່ຈະຄິດ.
+
+480
+00:32:30,720 --> 00:32:33,917
+One must attack! Attack! Attack!
+ຄົນໜຶ່ງຕ້ອງໂຈມຕີ! ໂຈມຕີ, ໂຈມ ຕີ!
+
+481
+00:32:34,000 --> 00:32:36,594
+- Well, indeed.
+-
+- ດີ, ແທ້ຈິງແລ້ວ.
+
+482
+00:32:36,680 --> 00:32:41,196
+As you can see, Your Highness, the
+battlefield is fresh in his mind,
+ດັ່ງທີ່ເຈົ້າເຫັນ,ເຈົ້າສູງສຸດ,
+ສະໜາມຮົບແມ່ນສົດໃນຈິດໃຈຂອງລາວ,
+
+483
+00:32:41,280 --> 00:32:44,795
+so this is the perfect time
+to debrief the private.
+ສະນັ້ນນີ້ແມ່ນເວລາທີ່ສົມບູນແບບ
+ທີ່ຈະສອບສວນພົນລະເຮືອນ.
+
+484
+00:32:44,880 --> 00:32:47,792
+Oh, please, General.
+Not on our first date.
+ໂອ້,ກະລຸນາ,ນາຍພົນ.ບໍ່ແມ່ນ
+ໃນວັນທີທໍາອິດຂອງພວກເຮົາ.
+
+485
+00:32:47,880 --> 00:32:50,235
+"Not on our first date."
+ບໍ່ແມ່ນໃນວັນທີ ທໍາ ອິດຂອງພວກເຮົາ.
+
+486
+00:32:50,320 --> 00:32:53,039
+Haven't I seen you somewhere before?
+ຂ້ອຍບໍ່ເຄີຍເຫັນເຈົ້າຢູ່ບ່ອນໃດກ່ອນບໍ?
+
+487
+00:32:53,120 --> 00:32:55,873
+Well, maybe. Then again, maybe not.
+ດີ,ບາງທີ.ຫຼັງຈາກນັ້ນ
+ອີກເທື່ອໜຶ່ງ,ອາດບໍ່.
+
+488
+00:32:55,960 --> 00:32:59,430
+And then... then again...
+Yowch.
+ແລະຫຼັງຈາກນັ້ນ...ຫຼັງຈາກ
+ນັ້ນອີກເທື່ອໜຶ່ງ... Yowch .
+
+489
+00:32:59,520 --> 00:33:02,034
+That's it! The guy from the bar.
+ນັ້ນແມ່ນມັນ! ຜູ້ຊາຍຈາກບາ.
+
+490
+00:33:02,120 --> 00:33:04,793
+- Don't... Shh.
+- Bar? What bar?
+- ຢ່າ... ສະບາຍດີ.
+- ບາ? ບາໃດ?
+
+491
+00:33:04,880 --> 00:33:08,077
+I danced with this guy at the bar
+the other night.
+ຂ້ອຍເຕັ້ນກັບຄົນນີ້ຢູ່ບາໃນຄືນກ່ອນ.
+
+492
+00:33:08,160 --> 00:33:09,991
+He was just a worker, then.
+ລາວພຽງແຕ່ເປັນຄົນງານ
+ເທົ່ານັ້ນ,ຫຼັງຈາກນັ້ນ.
+
+493
+00:33:10,080 --> 00:33:13,709
+- What were you doing at a bar?
+- That's what I want to know.
+- ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ບາ?
+- ນັ້ນແມ່ນສິ່ງທີ່ຂ້ອຍຢາກຮູ້.
+
+494
+00:33:13,800 --> 00:33:18,157
+No. This isn't about me. I mean,
+look what this worker's done.
+ບໍ່.ນີ້ແມ່ນບໍ່ແມ່ນເລື່ອງຂ້ອຍ.ຂ້ອຍໝາຍ
+ຄວາມວ່າ,ເບິ່ງວ່າຄົນງານຄົນນີ້ໄດ້ເຮັດຫຍັງ.
+
+495
+00:33:18,240 --> 00:33:21,437
+You're thinkin' of someone else.
+I am a soldier.
+ເຈົ້າກໍາລັງຄິດຄົນອ
+ື່ນ.ຂ້ອຍເປັນທະຫານ.
+
+496
+00:33:21,520 --> 00:33:24,671
+Exactly. You WERE a worker
+ແທ້ຈິງແລ້ວ. ເຈົ້າເປັນຄົນງານ
+
+497
+00:33:24,760 --> 00:33:27,399
+but now, you're a war hero.
+ແຕ່ດຽວນີ້, ເຈົ້າເປັນວິລະຊົນສົງຄາມ.
+
+498
+00:33:27,480 --> 00:33:31,075
+- He's a worker?
+- A worker danced with my fiancée?
+- ລາວເປັນຄົນງານບໍ?
+- ຄົນງານຄົນໜຶ່ງເຕັ້ນກັບແຟນຂອງຂ້ອຍບໍ?
+
+499
+00:33:31,160 --> 00:33:33,071
+F-fiancée?
+ເມຍແຕ່ງງານບໍ?
+
+500
+00:33:33,160 --> 00:33:35,355
+W-w-wait a minute.
+ລໍຖ້າດົນໜຶ່ງ.
+
+501
+00:33:35,440 --> 00:33:38,000
+This is not how it looks.
+I can explain.
+ນີ້ແມ່ນບໍ່ແມ່ນວິທີທີ່ມັນ
+ເບິ່ງຄືວ່າ.ຂ້ອຍສາມາດອະທິບາຍໄດ້.
+
+502
+00:33:38,080 --> 00:33:40,389
+She was the one making all the moves.
+ນາງເປັນຄົນທີ່ເຮັດການເຄື່ອນໄຫວທັງ ໝົດ.
+
+503
+00:33:40,480 --> 00:33:42,311
+Arrest him.
+ຈັບລາວໄວ້.
+
+504
+00:33:42,400 --> 00:33:44,675
+H-hey, wait, can't we discuss this?
+ເຮ້,ລໍຖ້າ,ພວກເຮົາບໍ່ສາມາດ
+ປຶກສາຫາລືເລື່ອງນີ້ໄດ້ບໍ?
+
+505
+00:33:44,760 --> 00:33:47,149
+What are you doing? Let go of her!
+ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ? ປ່ອຍນາງໄປ!
+
+506
+00:33:47,240 --> 00:33:49,390
+- He's taking her hostage!
+- Huh?
+- ລາວ ກໍາ ລັງເອົານາງເປັນຕົວປະກັນ!
+- ຮາ?
+
+507
+00:33:49,480 --> 00:33:52,836
+No. No, I'm not.
+I mean, yes, I am.
+ບໍ່.ບໍ່,ຂ້ອຍບໍ່ແມ່ນ.ຂ້ອຍໝາ
+ຍຄວາມວ່າ,ແມ່ນແລ້ວ,ຂ້ອຍເປັນ.
+
+508
+00:33:52,920 --> 00:33:55,593
+One more step
+and the princess gets it.
+ອີກບາດກ້າວໜຶ່ງແລະເຈົ້າຍິງຈະໄດ້ຮັບມັນ.
+
+509
+00:33:55,680 --> 00:33:58,353
+Oh, let go of me!
+ໂອ້, ໃຫ້ຂ້ອຍໄປ!
+
+510
+00:33:58,440 --> 00:34:00,635
+Ow! Don't make me hurt her.
+ໂອ້! ຢ່າເຮັດໃຫ້ຂ້ອຍເຮັດໃຫ້ນາງເຈັບປວດ.
+
+511
+00:34:01,720 --> 00:34:03,597
+Get off!
+ອອກໄປ!
+
+512
+00:34:15,960 --> 00:34:20,556
+Ugh. Oh.
+What are you doing, you creep?
+ໂອ້ໂອ້ເຈົ້າກໍາລັງເຮັດ
+ຫຍັງ,ເຈົ້າໂຊກຮ້າຍບໍ?
+
+513
+00:34:20,640 --> 00:34:23,552
+Are you out of your puny little mind?
+ເຈົ້າໂຊກຮ້າຍບໍ?
+
+514
+00:34:23,640 --> 00:34:26,279
+There they are! Let's go! Move!
+ພວກເຂົາຢູ່ບ່ອນນັ້ນ! ໄປ! ຍ້າຍໄປ!
+
+515
+00:34:26,360 --> 00:34:28,351
+Oh, good.
+ໂອ້, ດີ.
+
+516
+00:34:28,440 --> 00:34:31,477
+Here they come,
+to rescue me... and kill you.
+ພວກເຂົາມາແລ້ວ,ເພື່ອ
+ຊ່ວຍຂ້ອຍ...ແລະຂ້າເຈົ້າ.
+
+517
+00:34:31,560 --> 00:34:32,879
+Kill?
+ຂ້າບໍ?
+
+518
+00:34:32,960 --> 00:34:35,758
+- Hey, you guys!
+- Stop! What are you doing?
+- ເຮ້, ພວກເຈົ້າ!
+- ຢຸດເຊົາ! ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+519
+00:34:35,840 --> 00:34:37,512
+Get off, you little twerp!
+ອອກໄປ, ເຈົ້າໂຊກຮ້າຍນ້ອຍໆ!
+
+520
+00:34:37,600 --> 00:34:40,273
+Don't throw away
+everything we've got!
+ຢ່າຖິ້ມທຸກຢ່າງທີ່ພວກເຮົາມີໄວ້!
+
+521
+00:34:40,920 --> 00:34:45,357
+What're you waiting for? Hello! Guys!
+ເຈົ້າລໍຖ້າຫຍັງ? ສະບາຍດີ! ພວກຜູ້ຊາຍ!
+
+522
+00:34:51,760 --> 00:34:54,228
+- Huh?
+- What is it?
+- ຮາ?
+- ມັນເປັນຫຍັງ?
+
+523
+00:34:57,600 --> 00:34:59,830
+It's beautiful.
+ມັນສວຍງາມ.
+
+524
+00:34:59,920 --> 00:35:02,275
+Ridgeway, get out of there!
+ຣິກເວຍ, ອອກຈາກບ່ອນນັ້ນ!
+
+525
+00:35:26,880 --> 00:35:28,552
+- Oof!
+- Oh!
+- ໂອ້!
+- ໂອ້!
+
+526
+00:35:41,560 --> 00:35:45,075
+- Oh, don't worry. I'm OK.
+- You?!
+- ໂອ້, ຢ່າກັງວົນ. ຂ້ອຍບໍ່ເປັນຫຍັງ.
+- ເຈົ້າບໍ?
+
+527
+00:35:45,160 --> 00:35:49,073
+You're OK?
+Hey, who cares about you?
+ເຈົ້າບໍ່ເປັນຫຍັງບໍ? ເຮ້, ໃຜສົນໃຈເຈົ້າ?
+
+528
+00:35:49,160 --> 00:35:51,276
+- I almost died.
+- Calm down.
+- ຂ້ອຍເກືອບຈະຕາຍ.
+- ສະບາຍໃຈ.
+
+529
+00:35:51,360 --> 00:35:55,148
+Don't let a little
+near-death experience ruin your mood.
+ຢ່າປ່ອຍໃຫ້ປະສົບການໃກ້ກັບຄວາມ
+ຕາຍນ້ອຍໆທໍາລາຍອາລົມຂອງທ່ານ.
+
+530
+00:35:55,240 --> 00:35:59,074
+Hey, this is not a mood.
+You're not listening to me.
+ເຮ້,ນີ້ແມ່ນບໍ່ແມ່ນອາ
+ລົມ.ເຈົ້າບໍ່ໄດ້ຟັງຂ້ອຍ.
+
+531
+00:36:00,320 --> 00:36:01,912
+Where am I?
+ຂ້ອຍຢູ່ໃສ?
+
+532
+00:36:05,120 --> 00:36:10,592
+Look, what's-your-name, just climb up
+that tree and find out where I am.
+ເບິ່ງ,ຊື່ເຈົ້າແມ່ນຫຍັງ,ພຽງແຕ່
+ຂຶ້ນຕົ້ນໄມ້ນັ້ນແລະຊອກຫາວ່າຂ້ອຍຢູ່ໃສ.
+
+533
+00:36:10,680 --> 00:36:13,672
+Look, th-the trick is not to panic.
+ເບິ່ງ, ກະຕຸ້ນແມ່ນບໍ່ຕ້ອງຢ້ານກົວ.
+
+534
+00:36:13,760 --> 00:36:16,274
+You know,
+h-h-he w-who panics is lost.
+ເຈົ້າຮູ້ແລ້ວ,ລາວ w-
+ຜູ້ທີ່ຢ້ານກົວຫາຍໄປ.
+
+535
+00:36:16,360 --> 00:36:19,716
+What am I saying? We are lost.
+ຂ້ອຍເວົ້າຫຍັງ? ພວກເຮົາຫາຍໄປແລ້ວ.
+
+536
+00:36:23,080 --> 00:36:24,832
+- Whoa!
+-
+- ໂວ້!
+
+537
+00:36:26,360 --> 00:36:27,634
+Ow!
+ໂອ້!
+
+538
+00:36:29,240 --> 00:36:32,073
+I've been kidnapped
+by the village idiot.
+ຂ້ອຍຖືກລັກພາຕົວໂດຍຄົນໂງ່ຂອງບ້ານ.
+
+539
+00:36:32,160 --> 00:36:33,639
+Who's the bigger idiot -
+ໃຜເປັນຄົນໂງ່ທີ່ໃຫຍ່ກວ່າ -
+
+540
+00:36:33,720 --> 00:36:37,030
+the idiot, or the idiot
+who gets kidnapped by the idiot?
+ຄົນໂງ່,ຫຼືຄົນໂງ່ນທີ່ຖືກ
+ລັກພາຕົວໂດຍຄົນໂຊກຮ້າຍບໍ?
+
+541
+00:36:37,120 --> 00:36:39,395
+Did you talk those termites to death?
+ເຈົ້າເວົ້າກັບແມງໄມ້ນັ້ນຈົນຕາຍບໍ?
+
+542
+00:36:39,480 --> 00:36:43,359
+I can't believe you tried
+to pass yourself off as a soldier.
+ຂ້ອຍບໍ່ເຊື່ອວ່າເຈົ້າພະຍາ
+ຍາມເຮັດໃຫ້ຕົວເອງເປັນທະຫານ.
+
+543
+00:36:43,440 --> 00:36:45,271
+Why are you stalking me?
+ເຈົ້າຕິດຕາມຂ້ອຍເປັນຫຍັງ?
+
+544
+00:36:45,360 --> 00:36:48,511
+Don't you realise that I'm...
+out of your league?
+ເຈົ້າບໍ່ຮູ້ວ່າຂ້ອຍ..
+.ອອກຈາກລີກຂອງທ່ານບໍ?
+
+545
+00:36:48,600 --> 00:36:51,831
+YOU were cruising the worker bar
+for action,
+ເຈົ້າກໍາລັງຍ່າງຢູ່ແຖບ
+ຄົນງານເພື່ອການກະທໍາ,
+
+546
+00:36:51,920 --> 00:36:53,956
+And you happened to find it...
+ແລະເຈົ້າເກີດຂຶ້ນພົບມັນ...
+
+547
+00:36:54,040 --> 00:36:57,669
+the swarthy, earthy, sensual worker.
+ຄົນງານທີ່ສີດໍາ, ດິນ, ຄວາມຮູ້ສຶກ.
+
+548
+00:36:58,560 --> 00:37:02,269
+Please. I was slumming it.
+Don't you get it?
+ກະລຸນາ.ຂ້ອຍກໍາລັງເຮັດໃຫ້ມັນ
+ທຸກຍາກ.ເຈົ້າບໍ່ເຂົ້າໃຈບໍ?
+
+549
+00:37:02,360 --> 00:37:07,115
+I chose you because you were the most
+pathetic little bug in the joint.
+ຂ້ອຍເລືອກເຈົ້າເພາະວ່າເຈົ້າເປັນ
+ແມງໄມ້ນ້ອຍທີ່ໂຊກຮ້າຍທີ່ສຸດໃນຄຸກ.
+
+550
+00:37:07,200 --> 00:37:11,159
+I was gonna let you become part
+of my most erotic fantasies,
+ຂ້ອຍຈະປ່ອຍໃຫ້ເຈົ້າກາຍເປັນສ່ວນໜຶ່ງ
+ຂອງຄວາມຝັນທີ່ໜ້າຮັກທີ່ສຸດຂອງຂ້ອຍ,
+
+551
+00:37:11,240 --> 00:37:13,435
+but now, you can forget that.
+ແຕ່ດຽວນີ້, ເຈົ້າສາມາດລືມເລື່ອງນັ້ນໄດ້.
+
+552
+00:37:13,520 --> 00:37:17,957
+You know, I guess what you prefer
+is Old Blood and Guts.
+ເຈົ້າຮູ້ແລ້ວ,ຂ້ອຍຄິດວ່າສິ່ງທີ່
+ເຈົ້າມັກແມ່ນເລືອດເກົ່າແລະກູຕສ໌.
+
+553
+00:37:18,040 --> 00:37:22,113
+His idea of a romantic night out
+is two seats at an execution.
+ຄວາມຄິດຂອງລາວກ່ຽວກັບຄືນຄວາມຮັກແມ່ນ
+ບ່ອນນັ່ງສອງບ່ອນໃນການປະຫານຊີວິດ.
+
+554
+00:37:22,200 --> 00:37:24,760
+You really chose the right husband.
+ເຈົ້າເລືອກຜົວທີ່ຖືກຕ້ອງແທ້ໆ.
+
+555
+00:37:24,840 --> 00:37:26,671
+For your information,
+ສໍາລັບຂໍ້ມູນຂອງທ່ານ,
+
+556
+00:37:26,760 --> 00:37:31,231
+the General and I
+are deeply, deeply in...
+ນາຍພົນແລະຂ້ອຍຢູ່ໃນເລິກ, ເລິກໃນ...
+
+557
+00:37:31,520 --> 00:37:33,078
+engaged.
+ແຕ່ງງານ.
+
+558
+00:37:33,160 --> 00:37:36,072
+You come right back
+down here this instant!
+ເຈົ້າກັບມາບ່ອນນີ້ທັນທີ!
+
+559
+00:37:36,160 --> 00:37:39,869
+We are marching straight back
+to the colony so that I...
+ພວກເຮົາກໍາລັງເດີນຂະບວນກັບຄືນ
+ໄປບ່ອນຄລູເນຍເພື່ອໃຫ້ຂ້ອຍ...
+
+560
+00:37:45,160 --> 00:37:47,116
+The monolith!
+ໂມໂນລິຕ!
+
+561
+00:37:48,320 --> 00:37:50,914
+Wonderful. That's an appealing offer.
+ດີເລີດ. ນັ້ນແມ່ນຂໍ້ສະ ເໜີ ທີ່ດຶງດູດໃຈ.
+
+562
+00:37:51,000 --> 00:37:55,232
+But, considering the options, you go.
+I'm going to Insectopia.
+ແຕ່,ພິຈາລະນາທາງເລືອກ,ເຈົ້າ
+ໄປ.ຂ້ອຍຈະໄປ Insectopia .
+
+563
+00:37:55,320 --> 00:38:01,236
+Oh, come on. Insectopia?
+You're crazier than I thought.
+ໂອ້,ມາແລ້ວ. insectopia ?
+ເຈົ້າໂຊກຮ້າຍກວ່າທີ່ຂ້ອຍຄິດ.
+
+564
+00:38:01,320 --> 00:38:05,518
+Yeah? Well, I happen to have it
+on a very reliable source.
+ແມ່ນແລ້ວ?ດີ,ຂ້ອຍເກີດຂຶ້ນວ່າມັ
+ນຢູ່ໃນແຫຼ່ງທີ່ເຊື່ອຖືໄດ້ຫຼາຍ.
+
+565
+00:38:05,600 --> 00:38:07,875
+Or... or should I say,
+ຫຼື... ຫຼືຂ້ອຍຄວນເວົ້າວ່າ,
+
+566
+00:38:07,960 --> 00:38:09,951
+a drunk, raving source?
+ແຫຼ່ງດື່ມທີ່ໂຊກຮ້າຍບໍ?
+
+567
+00:38:10,040 --> 00:38:14,192
+But the point is, I'm convinced
+the place definitely exists.
+ແຕ່ຈຸດປະສົງແມ່ນ,ຂ້ອຍເຊື່ອໝັ້ນ
+ວ່າບ່ອນນັ້ນມີຢູ່ຢ່າງແນ່ນອນ.
+
+568
+00:38:14,280 --> 00:38:18,319
+Stop! I order you to stop, worker!
+ຢຸດເຊົາ!ຂ້ອຍສັ່ງໃຫ້
+ເຈົ້າຢຸດເຊົາ,ຄົນງານ!
+
+569
+00:38:18,400 --> 00:38:21,836
+Hey, I got a name, OK? It's Z.
+ເຮ້, ຂ້ອຍມີຊື່, ດີບໍ? ມັນແມ່ນ Z.
+
+570
+00:38:21,920 --> 00:38:24,798
+And out here,
+you can't order me around.
+ແລະຢູ່ນີ້, ເຈົ້າບໍ່ສາມາດສັ່ງຂ້ອຍໄດ້.
+
+571
+00:38:24,880 --> 00:38:27,678
+All right. Fine. No problem.
+ດີແລ້ວ. ດີ. ບໍ່ເປັນຫຍັງ.
+
+572
+00:38:27,760 --> 00:38:29,637
+Oh...!
+ໂອ້...!
+
+573
+00:38:36,560 --> 00:38:39,358
+Wha-what?
+ຫຍັງ - ຫຍັງ?
+
+574
+00:38:42,960 --> 00:38:45,997
+Worker! Worker! Where are you?
+ເຈົ້າຢູ່ໃສ? ເຈົ້າຢູ່ບ່ອນໃດ?
+
+575
+00:38:46,080 --> 00:38:50,153
+Z? Z? Wait for me.
+Z? Z? ລໍຖ້າຂ້ອຍ.
+
+576
+00:38:51,160 --> 00:38:54,516
+No more excuses, General.
+I want my daughter back.
+ບໍ່ມີເຫດຜົນອີກແລ້ວ,ນາຍພົນ.
+ຂ້ອຍຢາກໃຫ້ລູກສາວຂອງຂ້ອຍກັບມາ.
+
+577
+00:38:54,600 --> 00:38:58,115
+I'm beginning to doubt
+your ability to handle this.
+ຂ້ອຍກໍາລັງເລີ່ມສົງໄສຄວາມສາມາດ
+ຂອງທ່ານໃນການຮັບມືກັບເລື່ອງນີ້.
+
+578
+00:38:58,200 --> 00:39:01,670
+Your Highness, we will
+spare no effort to bring her back.
+ເຈົ້າສູງສຸດ,ພວກເຮົາຈະບໍ່ປະຢັດ
+ຄວາມພະຍາຍາມໃດໆເພື່ອພານາງກັບມາ.
+
+579
+00:39:01,760 --> 00:39:07,312
+Princess Bala is... essential
+to all our plans for the future.
+ເຈົ້າຍິງບາລາແມ່ນ...ມີຄວາມສໍາຄັນຕໍ່
+ແຜນການຂອງພວກເຮົາທັງໝົດສໍາລັບອະນາຄົດ.
+
+580
+00:39:07,400 --> 00:39:09,630
+So he kills himself 100 termites,
+ສະນັ້ນລາວຈຶ່ງຂ້າແມງໄມ້ 100 ໂຕເອງ,
+
+581
+00:39:09,720 --> 00:39:14,635
+gets a few medals, then bada-bing,
+bada-bip, bags himself the Princess.
+ໄດ້ຮັບຫຼຽນສອງສາມຫຼຽນ,ຫຼັງຈາກນັ້ນບາດາ
+-ບິງ,ບາດະ-ບິບ,ຖົງຕົວເອງເປັນເຈົ້າຍິງ.
+
+582
+00:39:14,720 --> 00:39:17,632
+- He looks him in the eye...
+- And says, "Bite me."
+- ລາວເບິ່ງລາວໃນຕາ...
+- ແລະເວົ້າວ່າ,"ກັດຂ້ອຍ."
+
+583
+00:39:17,720 --> 00:39:19,472
+To General Mandible?
+ກັບພົນຈັດຕະວາແມນດີບລບໍ?
+
+584
+00:39:19,560 --> 00:39:22,074
+Buddy. Hey, hey, buddy.
+ເພື່ອນ ເຮ້ ເຮ້ ເພື່ອນ
+
+585
+00:39:22,160 --> 00:39:24,515
+You heard about the war hero named Z?
+ເຈົ້າໄດ້ຍິນກ່ຽວກັບວິ
+ລະຊົນສົງຄາມຊື່ວ່າ Z ບໍ?
+
+586
+00:39:24,600 --> 00:39:26,875
+Runs off with the Princess, right?
+ແລ່ນໄປກັບເຈົ້າຍິງ, ແມ່ນບໍ?
+
+587
+00:39:26,960 --> 00:39:31,317
+When they sent the guards after him,
+he just looks at 'em and boom!
+ເມື່ອພວກເຂົາສົ່ງຄົນປົກປ້ອງຕາມ
+ລາວ,ລາວພຽງແຕ່ເບິ່ງພວກມັນແລະບູມ!
+
+588
+00:39:31,400 --> 00:39:35,473
+- They burst into flames.
+- Z? You talkin' about Z?
+- ພວກເຂົາລະເບີດເຂົ້າໄປໃນໄຟ.
+- Z? ເຈົ້າເວົ້າກ່ຽວກັບ Z ບໍ?
+
+589
+00:39:35,560 --> 00:39:38,632
+I know Z. He's a friend of mine.
+I think you...
+ຂ້ອຍຮູ້ຈັກ Z .ລາວເປັນເພື່ອນ
+ຂອງຂ້ອຍ.ຂ້ອຍຄິດວ່າເຈົ້າ...
+
+590
+00:39:38,720 --> 00:39:42,395
+- You know Z?
+- Yeah. He's a worker.
+- ເຈົ້າຮູ້ຈັກ Z ບໍ?
+- ແມ່ນແລ້ວ. ລາວເປັນຄົນງານ.
+
+591
+00:39:42,480 --> 00:39:44,436
+A worker? That's impossible.
+ຄົນງານບໍ? ນັ້ນບໍ່ສາມາດເຮັດໄດ້.
+
+592
+00:39:44,520 --> 00:39:47,273
+A worker can't do anything,
+except work.
+ຄົນງານບໍ່ສາມາດເຮັດ
+ຫຍັງໄດ້,ຍົກເວັ້ນວຽກ.
+
+593
+00:39:47,360 --> 00:39:49,237
+Yeah. We got no choice.
+ແມ່ນແລ້ວ. ພວກເຮົາມີທາງເລືອກບໍ່ມີ.
+
+594
+00:39:49,320 --> 00:39:51,993
+We do have a choice.
+Uh, I mean, look at Z.
+ພວກເຮົາມີທາງເລືອກ.ໂອ້,
+ຂ້ອຍໝາຍຄວາມວ່າ,ເບິ່ງ Z .
+
+595
+00:39:52,080 --> 00:39:54,753
+He wanted something,
+and he went for it.
+ລາວຢາກມີບາງສິ່ງບາງຢ່າງ
+,ແລະລາວໄປສໍາລັບມັນ.
+
+596
+00:39:54,840 --> 00:39:59,038
+He's not alone. I was a soldier
+and I switched places with him.
+ລາວບໍ່ໄດ້ຢູ່ຄົນດຽວ.ຂ້ອຍເປັນ
+ທະຫານແລະຂ້ອຍປ່ຽນບ່ອນກັບລາວ.
+
+597
+00:39:59,120 --> 00:40:00,678
+You're tellin' me...
+ເຈົ້າບອກຂ້ອຍວ່າ...
+
+598
+00:40:00,760 --> 00:40:03,558
+- I don't have to be here?
+- We've got a choice?
+- ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງຢູ່ບ່ອນນີ້ບໍ?
+- ພວກເຮົາມີທາງເລືອກບໍ?
+
+599
+00:40:04,600 --> 00:40:08,149
+They don't want you to know,
+but we don't have to work.
+ພວກເຂົາບໍ່ຢາກໃຫ້ເຈົ້າຮູ້,ແຕ່
+ພວກເຮົາບໍ່ຈໍາເປັນຕ້ອງເຮັດວຽກ.
+
+600
+00:40:08,240 --> 00:40:10,959
+Workers control
+the means of production.
+ຄົນງານຄວບຄຸມວິທີການຜະລິດ.
+
+601
+00:40:11,040 --> 00:40:12,951
+If Z don't dig, I don't dig.
+ຖ້າ Z ບໍ່ຂຸດຄົ້ນ, ຂ້ອຍບໍ່ຂຸດ.
+
+602
+00:40:13,040 --> 00:40:17,158
+People, what is this,
+an encounter group? Get back to work.
+ຄົນ,ນີ້ແມ່ນຫຍັງ,ກຸ່ມພົບກັນ
+ບໍ?ກັບຄືນໄປບ່ອນເຮັດວຽກ.
+
+603
+00:40:17,240 --> 00:40:18,355
+Why?
+ເປັນຫຍັງ?
+
+604
+00:40:18,440 --> 00:40:22,831
+...on the tunnel! This guy, Z,
+he's leadin' a revolution!
+...ໃນທໍ່!ຜູ້ຊາຍຄົນນີ້, Z ,
+ລາວກໍາລັງນໍາພາການປະຕິວັດ!
+
+605
+00:40:22,920 --> 00:40:24,797
+I'll... get back to you.
+ຂ້ອຍຈະ... ກັບມາຫາເຈົ້າ.
+
+606
+00:40:33,880 --> 00:40:36,872
+Think about it, Z... two ants.
+ຄິດກ່ຽວກັບມັນ, Z... ແມງໄມ້ສອງຄົນ.
+
+607
+00:40:36,960 --> 00:40:41,431
+Who ever heard of two ants?
+Two million ants, maybe. But two?
+ໃຜເຄີຍໄດ້ຍິນກ່ຽວກັບແມງໄມ້ສອງຄົນບໍ
+?ແມງໄມ້ສອງລ້ານຄົນ,ບາງທີ.ແຕ່ສອງຄົນ?
+
+608
+00:40:43,120 --> 00:40:47,159
+Look, I'm hungry, I'm thirsty...
+ເບິ່ງ, ຂ້ອຍຫິວ, ຂ້ອຍຢາກດື່ມ...
+
+609
+00:40:47,240 --> 00:40:49,800
+And this whole desert thing?
+ແລະເລື່ອງທະເລຊາຍທັງ ໝົດ ນີ້ບໍ?
+
+610
+00:40:49,880 --> 00:40:53,270
+- It just doesn't work for me.
+- Yada, yada, yada...
+- ມັນພຽງແຕ່ບໍ່ເຮັດວຽກ ສໍາ ລັບຂ້ອຍ.
+- Yada, yada, yada...
+
+611
+00:40:53,400 --> 00:40:55,709
+It's about time you took me back.
+ມັນເຖິງເວລາແລ້ວທີ່ເຈົ້າຈະພາຂ້ອຍກັບມາ.
+
+612
+00:40:55,840 --> 00:40:58,308
+Take yourself back. Phew.
+ເອົາຕົວເອງກັບຄືນໄປບ່ອນ. ຟູ.
+
+613
+00:40:58,440 --> 00:41:01,796
+Excuse me!
+You kidnapped me, remember?
+ຂໍໂທດຂ້ອຍ! ເຈົ້າລັກພາຕົວຂ້ອຍ, ຈື່ບໍ?
+
+614
+00:41:01,880 --> 00:41:05,555
+That means you have
+certain responsibilities.
+ນັ້ນໝາຍຄວາມວ່າເຈົ້າມີ
+ຄວາມຮັບຜິດຊອບບາງຢ່າງ.
+
+615
+00:41:05,640 --> 00:41:08,359
+You can't just abandon me here.
+ເຈົ້າບໍ່ສາມາດປະຖິ້ມຂ້ອຍຢູ່ບ່ອນນີ້ໄດ້.
+
+616
+00:41:08,440 --> 00:41:11,989
+- It's better than the colony.
+- You're not serious?!
+- ມັນດີກວ່າຄລູເນຍ.
+- ເຈົ້າບໍ່ໄດ້ເວົ້າຈິງບໍ?
+
+617
+00:41:12,080 --> 00:41:16,517
+Maybe you were living it up,
+but personally, this beats digging.
+ບາງທີເຈົ້າກໍາລັງດໍາລົງຊີວິດມັນ,ແຕ່
+ສ່ວນຕົວ,ນີ້ແມ່ນເອົາຊະນະການຂຸດຄົ້ນ.
+
+618
+00:41:16,600 --> 00:41:19,990
+If you'd ever done
+a day's labour you'd know.
+ຖ້າເຈົ້າເຄີຍເຮັດວຽກມື້ໜຶ່ງເຈົ້າຈະຮູ້.
+
+619
+00:41:21,160 --> 00:41:23,754
+Labour?
+What do you know about labour?
+ເຈົ້າຮູ້ຫຍັງກ່ຽວກັບແຮງງານ?
+
+620
+00:41:23,840 --> 00:41:26,559
+How would you feel
+if you had to give birth
+ເຈົ້າຈະຮູ້ສຶກແນວໃດຖ້າເຈົ້າຕ້ອງເກີດລູກ
+
+621
+00:41:26,640 --> 00:41:29,393
+every ten seconds
+for the rest of your life?
+ທຸກໆສິບວິນາທີຕະຫຼອດຊີວິດຂອງທ່ານບໍ?
+
+622
+00:41:29,480 --> 00:41:32,631
+- Gee.
+- Water!
+- ໂອ້.
+- ນ້ ໍາ!
+
+623
+00:41:36,640 --> 00:41:39,518
+Ahh. All you think about is yourself.
+ອາຮ້. ເຈົ້າຄິດພຽງແຕ່ຕົວເອງເທົ່ານັ້ນ.
+
+624
+00:41:39,600 --> 00:41:41,955
+Nobody else ever thought about me.
+ບໍ່ມີໃຜຄິດກ່ຽວກັບຂ້ອຍເລີຍ.
+
+625
+00:41:42,040 --> 00:41:44,918
+So I don't need anybody else.
+ສະນັ້ນຂ້ອຍບໍ່ຕ້ອງການໃຜອີກເລີຍ.
+
+626
+00:41:45,000 --> 00:41:46,718
+Unh!
+ໂອ້!
+
+627
+00:41:46,800 --> 00:41:49,360
+Help! Help me, Bala!
+ຊ່ວຍຂ້ອຍ, ບາລາ!
+
+628
+00:41:51,280 --> 00:41:55,398
+Help! B-B-B-B-Bala!
+ຊ່ວຍເຫຼືອ! ບີບີ ບາລາ!
+
+629
+00:41:55,480 --> 00:41:57,357
+I'll get you out. Hold on.
+ຂ້ອຍຈະເອົາເຈົ້າອອກໄປ. ລໍຖ້າ.
+
+630
+00:41:58,240 --> 00:42:00,515
+Help, Ba...
+ຊ່ວຍເຫຼືອ, ບາ...
+
+631
+00:42:20,400 --> 00:42:23,676
+- Thanks.
+- Don't mention it.
+- ຂອບໃຈນະ
+- ຢ່າເວົ້າເຖິງມັນ.
+
+632
+00:42:23,760 --> 00:42:27,753
+Now, maybe we can put
+this fantasy behind us...
+ດຽວນີ້,ບາງທີພວກເຮົາສາມາດວາງຄວາມຝັນ
+ໃຈນີ້ຢູ່ເບື້ອງຫຼັງພວກເຮົາໄດ້...
+
+633
+00:42:27,840 --> 00:42:29,910
+and head back to the colon...
+ແລະກັບຄືນໄປບ່ອນ colon...
+
+634
+00:42:30,000 --> 00:42:33,276
+Oh, Z! What are you doing?
+ໂອ້, Z! ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+635
+00:42:33,360 --> 00:42:36,989
+- We've gotta cross the lake.
+- Am I missing something?
+- ພວກເຮົາຕ້ອງຂ້າມທະເລສາບ.
+- ຂ້ອຍພາດບາງສິ່ງບາງຢ່າງບໍ?
+
+636
+00:42:37,080 --> 00:42:40,311
+Didn't we just get OUT of the water?
+ພວກເຮົາຫາກໍ່ອອກຈາກນ້ ໍາ ບໍ?
+
+637
+00:42:41,160 --> 00:42:43,799
+Bala, look,
+what have you got to lose?
+ບາລາ, ເບິ່ງ, ເຈົ້າມີຫຍັງທີ່ຈະສູນເສຍ?
+
+638
+00:42:43,880 --> 00:42:49,079
+I mean, think about it. Do you really
+want to be Mrs Raving Lunatic?
+ຂ້ອຍໝາຍຄວາມວ່າ,ຄິດກ່ຽວກັບມັນ.ເຈົ້າ
+ຢາກເປັນທ່ານນາງ Raving Lunatic ແທ້ບໍ?
+
+639
+00:42:51,680 --> 00:42:53,989
+There's a better place.
+ມີບ່ອນທີ່ດີກວ່າ.
+
+640
+00:42:55,360 --> 00:42:57,430
+Z, please.
+Z, ກະລຸນາ.
+
+641
+00:42:57,520 --> 00:42:59,954
+Just... gimme one chance.
+ພຽງແຕ່... ໃຫ້ຂ້ອຍໂອກາດດຽວ.
+
+642
+00:43:00,040 --> 00:43:02,235
+If we don't find Insectopia soon,
+ຖ້າພວກເຮົາບໍ່ພົບແມງໄມ້ໃນໄວໆນີ້,
+
+643
+00:43:02,320 --> 00:43:05,596
+I promise
+I'll take you back to the colony.
+ຂ້ອຍສັນຍາວ່າຂ້ອຍຈະພາ
+ເຈົ້າກັບຄືນໄປບ່ອນຄໍລໍນີ.
+
+644
+00:43:19,680 --> 00:43:22,433
+I hope you know
+what you're doing.
+ຂ້ອຍຫວັງວ່າເຈົ້າຮູ້ວ່າ
+ເຈົ້າກໍາລັງເຮັດຫຍັງ.
+
+645
+00:43:22,520 --> 00:43:24,272
+Yeah, me too.
+ແມ່ນແລ້ວ, ຂ້ອຍຄືກັນ.
+
+646
+00:43:32,080 --> 00:43:35,356
+We want Z! We want Z!
+ພວກເຮົາຢາກ Z! ພວກເຮົາຕ້ອງການ Z!
+
+647
+00:43:35,440 --> 00:43:39,797
+People, come on. I know some ants
+who won't make their quota.
+ຄົນ,ມາແລ້ວ.ຂ້ອຍຮູ້ຈັກແມງໄມ້ບາງຄົນ
+ທີ່ຈະບໍ່ເຮັດປະລິມານຂອງພວກເຂົາ.
+
+648
+00:43:39,880 --> 00:43:42,314
+Buzz off, pawn of the oppressor.
+ອອກໄປ, pawn ຂອງຜູ້ກົດຂີ່.
+
+649
+00:43:43,120 --> 00:43:47,113
+We want Z! We want Z!
+ພວກເຮົາຢາກ Z! ພວກເຮົາຕ້ອງການ Z!
+
+650
+00:43:48,120 --> 00:43:52,557
+Sorry, sir. I came as soon as I
+heard. I was debriefing the trackers.
+ຂໍໂທດເດີ.ຂ້ອຍມາທັນທີທີ່ຂ້ອຍໄດ້ຍິນ
+.ຂ້ອຍກໍາລັງສອບສວນເຄື່ອງຕິດຕາມ.
+
+651
+00:43:52,640 --> 00:43:55,837
+- And? What's the report?
+- Well, this Z, sir...
+- ແລະ? ລາຍງານແມ່ນຫຍັງ?
+- ດີ, Z ນີ້ເດີ...
+
+652
+00:43:55,920 --> 00:43:57,876
+He's one slippery character.
+ລາວເປັນຕົວລະຄອນທີ່ລອຍລອຍ.
+
+653
+00:43:57,960 --> 00:44:01,032
+They lost Bala's trail
+at the edge of the lake.
+ພວກເຂົາໄດ້ສູນເສຍເສັ້ນທາງ
+ຂອງບາລາຢູ່ແຄມທະເລສາບ.
+
+654
+00:44:01,120 --> 00:44:03,111
+The lake?
+ແມ່ນໍ້າບໍ?
+
+655
+00:44:03,200 --> 00:44:05,873
+# All we are saying
+ທຸກຢ່າງທີ່ເຮາເວົ້າ
+
+656
+00:44:05,960 --> 00:44:09,270
+# Is give Z a chance... #
+ແມ່ນໃຫ້ໂອກາດ Z...
+
+657
+00:44:09,360 --> 00:44:11,749
+What's that soldier doing there?
+ທະຫານຄົນນັ້ນເຮັດຫຍັງຢູ່ບ່ອນນັ້ນ?
+
+658
+00:44:11,880 --> 00:44:15,998
+It appears he's holding hands, sir.
+With a worker.
+ມັນເບິ່ງຄືວ່າລາວກໍາລັງ
+ຈັບມືກັນເດີ.ກັບຄົນງານ.
+
+659
+00:44:16,080 --> 00:44:19,356
+I don't like the way
+things are going, Cutter.
+ຂ້ອຍບໍ່ມັກວິທີທີ່ສິ່ງຕ່າງໆ
+ກໍາລັງເກີດຂຶ້ນ,ຄັດເຕີ.
+
+660
+00:44:19,440 --> 00:44:21,874
+I'm counting on you for results.
+ຂ້ອຍຄິດວ່າເຈົ້າຈະໃຫ້ຜົນໄດ້ຮັບ.
+
+661
+00:44:21,960 --> 00:44:24,474
+- Can I depend on you or not?
+- Yes, sir.
+- ຂ້ອຍສາມາດອີງໃສ່ເຈົ້າໄດ້ບໍ?
+- ແມ່ນແລ້ວເດີ.
+
+662
+00:44:24,560 --> 00:44:26,755
+All right. Let's wrap this up.
+ດີແລ້ວ. ມາສິ້ນສຸດເລື່ອງນີ້ລົງ.
+
+663
+00:44:26,840 --> 00:44:31,072
+We want Z! We want Z! We want Z!
+ພວກເຮົາຢາກ Z !ພວກເຮົາ
+ຕ້ອງການ Z !ພວກເຮົາມັກ Z !
+
+664
+00:44:32,160 --> 00:44:35,277
+I've heard a lot about this Z.
+ຂ້ອຍໄດ້ຍິນຫຼາຍຢ່າງກ່ຽວກັບ Z ນີ້.
+
+665
+00:44:36,480 --> 00:44:40,268
+I even had the pleasure
+of meeting him once.
+ຂ້ອຍເຖິງແມ່ນວ່າມີຄວາມສຸກ
+ທີ່ຈະພົບລາວຄັ້ງໜຶ່ງ.
+
+666
+00:44:41,440 --> 00:44:43,271
+But where is he now?!
+ແຕ່ລາວຢູ່ໃສດຽວນີ້?!
+
+667
+00:44:43,360 --> 00:44:45,794
+Can anyone point him out?
+ມີໃຜຊີ້ໃຫ້ເຫັນລາວໄດ້ບໍ?
+
+668
+00:44:47,840 --> 00:44:51,469
+I mean, if this Z
+cares so much about us,
+ຂ້ອຍໝາຍຄວາມວ່າ,ຖ້າ Z ນີ້
+ສົນໃຈພວກເຮົາຫຼາຍປານໃດ,
+
+669
+00:44:51,560 --> 00:44:53,437
+then why isn't he here?
+ຫຼັງຈາກນັ້ນເປັນຫຍັງ
+ລາວບໍ່ໄດ້ຢູ່ບ່ອນນີ້?
+
+670
+00:44:54,800 --> 00:44:56,438
+I'll tell you why.
+ຂ້ອຍຈະບອກເຈົ້າວ່າເປັນຫຍັງ.
+
+671
+00:44:56,520 --> 00:44:59,512
+Because Z doesn't
+give a damn about us.
+ເພາະວ່າ Z ບໍ່ສົນໃຈພວກເຮົາເລີຍ.
+
+672
+00:45:01,680 --> 00:45:05,275
+That's why he kidnapped our princess
+and ran away.
+ນັ້ນແມ່ນເຫດຜົນທີ່ລາວລັກພາຕົວ
+ເຈົ້າຍິງຂອງພວກເຮົາແລະໜີໄປ.
+
+673
+00:45:06,560 --> 00:45:08,551
+Z is no hero.
+Z ບໍ່ແມ່ນວິລະຊົນ.
+
+674
+00:45:08,640 --> 00:45:10,631
+We are the heroes.
+ພວກເຮົາເປັນວິລະຊົນ.
+
+675
+00:45:10,720 --> 00:45:14,793
+We are the ones ensuring
+the future of our great colony.
+ພວກເຮົາເປັນຄົນທີ່ຮັບປະກັນອະນາຄົດ
+ຂອງຄລູເນຍທີ່ຍິ່ງໃຫຍ່ຂອງພວກເຮົາ.
+
+676
+00:45:14,880 --> 00:45:18,589
+And when we've completed
+this magnificent structure,
+ແລະເມື່ອພວກເຮົາສໍາເລັດ
+ໂຄງສ້າງທີ່ຍິ່ງໃຫຍ່ນີ້,
+
+677
+00:45:18,680 --> 00:45:21,240
+we will reap the benefits -
+ພວກເຮົາຈະໄດ້ຮັບຜົນປະໂຫຍດ -
+
+678
+00:45:21,320 --> 00:45:24,198
+more food and less work for everyone.
+ອາຫານຫຼາຍຂຶ້ນແລະວຽກເຮັດງານ
+ທໍາໜ້ອຍກວ່າສໍາລັບທຸກຄົນ.
+
+679
+00:45:25,920 --> 00:45:28,639
+And as further reward
+for your efforts,
+ແລະເປັນລາງວັນເພີ່ມເຕີມ
+ສໍາລັບການພະຍາຍາມຂອງທ່ານ,
+
+680
+00:45:28,720 --> 00:45:31,154
+every one of you
+will get the day off...
+ທຸກຄົນຈະພັກຜ່ອນມື້ນີ້...
+
+681
+00:45:33,000 --> 00:45:38,518
+so you can be the guests of honour at
+the MegaTunnel dedication ceremonies!
+ດັ່ງນັ້ນເຈົ້າຈຶ່ງສາມາດເປັນແຂກກຽດຕິຍົດ
+ໃນພິທີອຸທິດຂະບວນການ MegaTunnel ໄດ້!
+
+682
+00:45:44,160 --> 00:45:46,196
+Mandible! Mandible!
+ສາມາດຄວບຄຸມໄດ້! ສາມາດຄຸ້ມຄອງໄດ້!
+
+683
+00:45:46,280 --> 00:45:50,717
+Mandible!
+Mandible! Mandible! Mandible!
+ສາມາດຄວບຄຸມໄດ້! ສາມາດຄຸ້ມຄອງໄດ້!
+
+684
+00:45:54,160 --> 00:45:56,310
+Now, bring me that soldier.
+ດຽວນີ້, ເອົາທະຫານຄົນນັ້ນມາໃຫ້ຂ້ອຍ.
+
+685
+00:45:58,160 --> 00:46:01,038
+Mandible! Mandible!
+ສາມາດຄວບຄຸມໄດ້! ສາມາດຄຸ້ມຄອງໄດ້!
+
+686
+00:46:35,120 --> 00:46:39,193
+Oh, my God! Z! Come here!
+ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ! Z! ມາບ່ອນນີ້!
+
+687
+00:46:53,520 --> 00:46:55,033
+It's Insectopia!
+ມັນເປັນແມງໄມ້!
+
+688
+00:46:59,080 --> 00:47:02,117
+You were right. It really is here.
+ເຈົ້າເວົ້າຖືກຕ້ອງ. ມັນຢູ່ບ່ອນນີ້ແທ້ໆ.
+
+689
+00:47:13,600 --> 00:47:16,956
+- Huh?
+- All right. All right!
+- ຮາ?
+- ດີແລ້ວ. ດີແລ້ວ!
+
+690
+00:47:17,040 --> 00:47:19,076
+- You're a genius.
+- Let's eat.
+- ເຈົ້າເປັນຈິນຕະນາການ.
+- ມາກິນ.
+
+691
+00:47:19,160 --> 00:47:20,912
+Mmph!
+ມມຟ໌!
+
+692
+00:47:23,160 --> 00:47:24,991
+Huh.
+ຮາ.
+
+693
+00:47:30,880 --> 00:47:33,519
+Well? What's the problem?
+ດີ? ບັນຫາແມ່ນຫຍັງ?
+
+694
+00:47:33,600 --> 00:47:36,876
+- There's some kind of force field.
+-
+- ມີຂະແໜງການແຮງບາງຢ່າງ.
+
+695
+00:47:39,280 --> 00:47:43,796
+Uh, excuse me. Excuse me!
+How do you get in?
+ໂອ້, ຂໍໂທດ. ຂໍໂທດ! ເຈົ້າເຂົ້າມາແນວໃດ?
+
+696
+00:47:46,080 --> 00:47:49,834
+Yes, well, I'm afraid
+this is a private function.
+ແມ່ນແລ້ວ,ດີ,ຂ້ອຍຢ້ານວ່າມ
+ັນເປັນງານລ້ຽງສ່ວນຕົວ.
+
+697
+00:47:49,920 --> 00:47:54,232
+- Who are your friends, dear?
+- Crawling insects, poopsie.
+- ເພື່ອນຂອງເຈົ້າແມ່ນໃຜ, ທີ່ຮັກ?
+- ແມງໄມ້ຍ່າງ, poopsie.
+
+698
+00:47:54,320 --> 00:47:57,312
+Oh. The poor dears.
+ໂອ້. ຄົນຮັກທີ່ທຸກຍາກ.
+
+699
+00:47:57,440 --> 00:48:00,591
+Uh, good morning.
+ໂອ້, ສະບາຍດີ.
+
+700
+00:48:00,680 --> 00:48:03,478
+- Huh?
+- Darling, really.
+- ຮາ?
+- ທີ່ຮັກ, ແທ້ຈິງແລ້ວ.
+
+701
+00:48:03,600 --> 00:48:07,195
+Greeting every insect
+that emerges out of the grass?
+ສະບາຍດີແມງໄມ້ທຸກຄົນທີ່ອອກມາຈາກຫຍ້າບໍ?
+
+702
+00:48:07,280 --> 00:48:12,115
+Pardon me!
+I guess you don't recognise me!
+ຂໍໂທດຂ້ອຍ!ຂ້ອຍຄິດວ່າ
+ເຈົ້າບໍ່ຮູ້ຈັກຂ້ອຍ!
+
+703
+00:48:13,400 --> 00:48:17,871
+I've been travelling
+and I'm all... schlumpy.
+ຂ້ອຍກໍາລັງເດີນທາງແລະ
+ຂ້ອຍທັງໝົດ...ໂຊກຮ້າຍ.
+
+704
+00:48:17,960 --> 00:48:19,871
 I'm Princess Bala.
 ຂ້ອຍເປັນເຈົ້າຍິງບາລາ.
 
-190
-00:13:25,900 --> 00:13:27,900
-[BALA]
-Yes.
-ແມ່ນແລ້ວ.
-
-191
-00:13:28,400 --> 00:13:30,850
-[QUEEN]
-All these parties are so marvellously alike.
-ງານລ້ຽງທັງ ຫມົດ ເຫຼົ່ານີ້ຄ້າຍຄືກັນຢ່າງຍິ່ງໃຫຍ່.
-
-192
-00:13:31,350 --> 00:13:34,850
-[FORMICA]
-They should be...  But there's something funny about that soldier.
-ພວກເຂົາຄວນເປັນ... ແຕ່ມີບາງສິ່ງບາງຢ່າງທີ່ມ່ວນກ່ຽວກັບທະຫານຄົນນັ້ນ.
-
-193
-00:13:35,350 --> 00:13:37,350
-[FORMICA]
-May I cut in?
-ຂ້ອຍສາມາດເຂົ້າມາໄດ້ບໍ?
-
-194
-00:13:37,850 --> 00:13:40,650
-[BALA]
-No, General.  I'm dancing with the war hero.
-ບໍ່, ນາຍພົນ. ຂ້ອຍ ກໍາ ລັງເຕັ້ນກັບວິລະຊົນສົງຄາມ.
-
-195
-00:13:41,150 --> 00:13:43,150
-[BALA]
-You dance...
-ເຈົ້າເຕັ້ນ...
-
-196
-00:13:43,650 --> 00:13:45,750
-[BALA]
-No weirdly...You remind me of someone...
-ບໍ່ແປກໃຈ... ເຈົ້າເຮັດໃຫ້ຂ້ອຍຈື່ຄົນຫນຶ່ງ...
-
-197
-00:13:46,250 --> 00:13:48,250
-[BALA]
-He was swarthy...primitive... earthy...sensual.
-ລາວເປັນສີ ດໍາ... ທໍາ ມະດາ... ແຜ່ນດິນ... ຄວາມຮູ້ສຶກ.
-
-198
-00:13:48,750 --> 00:13:54,750
-[BALA]
-He was a worker.  I danced with him at a worker's bar just the other day. I'm not shocking you, am I?
-ລາວເປັນຄົນງານ. ຂ້ອຍເຕັ້ນກັບລາວຢູ່ບາຄົນງານໃນມື້ອື່ນນີ້
-. ຂ້ອຍບໍ່ໄດ້ເຮັດໃຫ້ເຈົ້າຕົກໃຈ, ແມ່ນບໍ?
-
-199
-00:13:55,250 --> 00:13:59,800
-[BALA]
-OH MY GOD, IT'S YOU!  YOU'RE A WORKER!!!  A filthy, stupid, disgusting WORKER!
-ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ, ມັນແມ່ນເຈົ້າ! ເຈົ້າເປັນຄົນເຮັດວຽກ
-!!! ຄົນເຮັດວຽກທີ່ສໍ້ໂກງ, ຄົນໂງ່, ຄົນກຽດຊັງ!
-
-200
-00:14:00,300 --> 00:14:03,450
-[I CAN'T DANCE WITH A WORKER!]
-That's not what you said the other night --
-ນັ້ນບໍ່ແມ່ນສິ່ງທີ່ເຈົ້າເວົ້າໃນຄືນກ່ອນ -
-
-201
-00:14:03,950 --> 00:14:05,950
-[BALA]
-Quiet -- sshhh!!
-ງຽບໆ - shshhh!!
-
-202
-00:14:06,450 --> 00:14:09,250
-[SSHH!!!  SSHH!!!]
-A livid Formica is stalking over towards them.
-ຟໍມິກາທີ່ສົດໃສ ກໍາ ລັງຕິດຕາມໄປຫາພວກເຂົາ.
-
-203
-00:14:09,750 --> 00:14:13,600
-[FORMICA]
-What's this?  A worker has been masquerading as a war hero?!
-ນີ້ແມ່ນຫຍັງ? ຄົນງານ ກໍາ ລັງແຕ່ງຕົວເປັນວິລະຊົນສົງຄາມບໍ?
-
-204
-00:14:14,100 --> 00:14:18,650
-[ARREST HIM!]
-Can't we all settle this like adults -- we're not larvae anymore --
-ພວກເຮົາທຸກຄົນບໍ່ສາມາດແກ້ໄຂເລື່ອງນີ້ໄດ້ຄືກັບຜູ້ໃຫຍ່ບໍ
-- ພວກເຮົາບໍ່ແມ່ນແມງໄມ້ອີກແລ້ວ -
-
-205
-00:14:19,150 --> 00:14:21,600
-[QUEEN]
-Oh my god!  He's taking her hostage!
-ໂອ້ ພຣະເຈົ້າຂອງຂ້ອຍ! ລາວ ກໍາ ລັງເອົານາງເປັນຕົວປະກັນ!
-
-206
-00:14:22,100 --> 00:14:24,100
-[PRINCESS]
-This is thoroughly unacceptable!
-ນີ້ແມ່ນບໍ່ຍອມຮັບໄດ້ຢ່າງສົມບູນ!
-
-207
-00:14:24,600 --> 00:14:26,600
-[BALA]
-I'm coming!  I'm coming!
-ຂ້ອຍຈະມາ! ຂ້ອຍຈະມາມາ!
-
-208
-00:14:27,100 --> 00:14:29,100
-[BALA]
-I'm going!  I'm going'
-ຂ້ອຍໄປ! ຂ້ອຍໄປ
-
-209
-00:14:29,600 --> 00:14:31,600
-[BALA]
-What was that thing?
-ສິ່ງນັ້ນແມ່ນຫຍັງ?
-
-210
-00:14:32,100 --> 00:14:35,250
-[BALA]
-I order you to find out where we are!
-ຂ້ອຍສັ່ງເຈົ້າໃຫ້ຮູ້ວ່າພວກເຮົາຢູ່ໃສ!
-
-211
-00:14:35,750 --> 00:14:38,900
-[BALA]
-Climb up that tree and get a better view!
-ຂຶ້ນຕົ້ນໄມ້ນັ້ນແລະໄດ້ຮັບທັດສະນະທີ່ດີກວ່າ!
-
-212
-00:14:39,400 --> 00:14:41,850
-[BALA]
-I've been kidnapped by the village idiot.
-ຂ້ອຍຖືກລັກພາຕົວໂດຍຄົນໂງ່ບ້ານ.
-
-213
-00:14:42,350 --> 00:14:46,200
-[BALA]
-How dare you speak to me like that? I'm the Princess!
-ເຈົ້າກ້າເວົ້າກັບຂ້ອຍແບບນັ້ນແນວໃດ? ຂ້ອຍເປັນເຈົ້າຍິງ!
-
-214
-00:14:46,700 --> 00:14:52,700
-[BALA]
-Of course!  It defines society!  To deny the precept is to say that order is an arbitrary distinction applied by the society itself!
-ແນ່ນອນ! ມັນ ກໍາ ນົດສັງຄົມ! ການປະຕິເສດກົດລະບຽບແມ່ນເພື່ອເວົ້າວ່າ
-ຄໍາ ສັ່ງແມ່ນຄວາມແຕກຕ່າງທີ່ຕັດສິນໃຈທີ່ຖືກ ນໍາ ໃຊ້ໂດຍສັງຄົມເອງ!
-
-215
-00:14:53,200 --> 00:14:59,200
-[BALA]
-No!  There's no such thing as "just two ants."  You never see just two ants -- you see a million ants!
-ບໍ່! ບໍ່ມີສິ່ງໃດເຊັ່ນວ່າ"ພຽງແຕ່ແມງໄມ້ສອງຄົນເທົ່ານັ້ນ."
-ເຈົ້າບໍ່ເຄີຍເຫັນແມງໄມ້ສອງຄົນດຽວ - ເຈົ້າເຫັນແມວລ້ານຄົນ!
-
-216
-00:14:59,700 --> 00:15:01,700
-[BALA]
-I -- hate -- you.
-ຂ້ອຍ - ກຽດຊັງ - ເຈົ້າ.
-
-217
-00:15:02,200 --> 00:15:08,200
-[BALA]
-Ha!  Don't make me laugh.  You're crazy about me!  That's why you lied and cheated to get near me!
-Ha! ຢ່າເຮັດໃຫ້ຂ້ອຍມ່ວນຊື່ນ. ເຈົ້າໂຊກຮ້າຍຕໍ່ຂ້ອຍ!
-ນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າຕົວະແລະຫຼອກລວງເພື່ອເຂົ້າໃກ້ຂ້ອຍ!
-
-218
-00:15:08,700 --> 00:15:14,700
-[BALA]
-I was slumming it!  I danced with you because you were the most pathetic specimen in the place!
-ຂ້ອຍ ກໍາ ລັງສິ້ນສຸດມັນ!
-ຂ້ອຍເຕັ້ນກັບເຈົ້າເພາະວ່າເຈົ້າເປັນຕົວຢ່າງທີ່ໂຊກຮ້າຍທີ່ສຸດໃນສະຖານທີ່!
-
-219
-00:15:15,200 --> 00:15:20,450
-[BALA]
-I didn't choose him.  What kind  of idiot would...  ...choose who she wanted to marry?
-ຂ້ອຍບໍ່ໄດ້ເລືອກລາວ. ຄົນໂງ່ປະເພດໃດທີ່ຈະ
-...... ເລືອກຜູ້ທີ່ນາງຢາກແຕ່ງງານ?
-
-220
-00:15:20,950 --> 00:15:26,950
-[BALA]
-Now, worker, you shall take me back to the colony, and have your head cut off and stuck on a sharp pole!
-ດຽວນີ້, ຄົນງານ, ເຈົ້າຈະພາຂ້ອຍກັບຄືນໄປບ່ອນຄລູເນຍ
-, ແລະມີຫົວຂອງທ່ານຖືກຕັດແລະຕິດໃສ່ກະດານທີ່ແຊກແຊງ!
-
-221
-00:15:27,450 --> 00:15:30,600
-[BALA]
-Insectopia?  You stupid worker, that's just a fairy tale!
-ແມງໄມ້ແມງໄມ້? ເຈົ້າເປັນຄົນງານໂງ່,
-ນັ້ນພຽງແຕ່ເປັນເລື່ອງລາວເທົ່ານັ້ນ!
-
-222
-00:15:31,100 --> 00:15:33,100
-[BALA]
-Worker!  Come back here now!
-ຄົນງານ! ກັບມາບ່ອນນີ້ທັນທີ!
-
-223
-00:15:33,600 --> 00:15:36,400
-[BALA]
-That's not a name!  That's just a letter!
-ນັ້ນບໍ່ແມ່ນຊື່! ນັ້ນພຽງແຕ່ເປັນຈົດຫມາຍ!
-
-224
-00:15:36,900 --> 00:15:40,750
-[BALA]
-Worker?  Oh WORKER?  Where are you?  Z?  Z?  Wait for me!!!
-ເຈົ້າເຮັດວຽກບໍ? ໂອ້ ເຈົ້າເຮັດວຽກໃສ? ເຈົ້າຢູ່ໃສ? Z?Z? ລໍຖ້າຂ້ອຍ!!!
-
-225
-00:15:41,250 --> 00:15:44,750
-[AZTECA]
-I tell ya, I'm gettin' sick of bein' yelled at.
-ຂ້ອຍບອກເຈົ້າວ່າ, ຂ້ອຍ ກໍາ ລັງເມື່ອຍຈາກການຮ້ອງໄຫ້ຕໍ່.
-
-226
-00:15:45,250 --> 00:15:47,700
-[WORKER #1]
-What do you want, we're just workers.
-ເຈົ້າຢາກຫຍັງ, ພວກເຮົາພຽງແຕ່ເປັນຄົນງານເທົ່ານັ້ນ.
-
-227
-00:15:48,200 --> 00:15:54,200
-[WEAVER]
-You know, you're not just workers -- you can be whatever you want to be! Look at Z!  He started as a worker -- then he became a soldier!
-ເຈົ້າຮູ້ແລ້ວ, ເຈົ້າບໍ່ແມ່ນພຽງແຕ່ຄົນງານເທົ່ານັ້ນ - ເຈົ້າສາມາດເປັນທຸກຢ່າງທີ່ທ່ານຕ້ອງການ
-! ເບິ່ງ Z! ລາວເລີ່ມຕົ້ນເປັນຄົນງານ - ຫຼັງຈາກນັ້ນລາວກາຍເປັນທະຫານ!
-
-228
-00:15:54,700 --> 00:15:57,500
-[AZTECA]
-That's right!  He slaughtered hundreds of termites single-handedly!
-ນັ້ນແມ່ນຄວາມຈິງ! ລາວໄດ້ຂ້າແມງໄມ້ຫຼາຍຮ້ອຍຄົນດ້ວຍມືດຽວ!
-
-229
-00:15:58,000 --> 00:16:04,000
-[WORKER #2]
-I heard about this guy.  He crashed a party at the palace. Then he took a hike with one of the royal babes!  And when they tried to stop him, he just looked at a couple'a guards, and they burst into flames!
-ຂ້ອຍໄດ້ຍິນກ່ຽວກັບຜູ້ຊາຍຄົນນີ້. ລາວຕົກຢູ່ໃນງານລ້ຽງຢູ່ທໍານຽບ. ຫຼັງຈາກນັ້ນລາວໄດ້ຍ່າງກັບ ຫນຶ່ງ ໃນເດັກນ້ອຍລາຊະອານາຈັກ
-! ແລະເມື່ອພວກເຂົາພະຍາຍາມຢຸດລາວ, ລາວພຽງແຕ່ເບິ່ງຄົນປົກປ້ອງສອງສາມຄົນ, ແລະພວກເຂົາລະເບີດເຂົ້າໄປໃນໄຟ!
-
-230
-00:16:04,500 --> 00:16:07,650
-[WORKER ANT #1]
-You're nuts, how could a worker do all that?
-ເຈົ້າໂຊກຮ້າຍ, ຄົນງານສາມາດເຮັດສິ່ງທັງ ຫມົດ ນັ້ນໄດ້ແນວໃດ?
-
-231
-00:16:08,150 --> 00:16:12,700
-[WEAVER]
-Well, because he's more than a worker...he's a...what did he call it, Azteca...
-ດີ, ເພາະວ່າລາວຫຼາຍກ່ວາຄົນງານ... ລາວເປັນ
-... ລາວເອີ້ນມັນວ່າແນວໃດ, ອາສເຕກາ...
-
-232
-00:16:13,200 --> 00:16:15,200
-[AZTECA]
-Invisible!
-ບໍ່ເຫັນໄດ້!
-
-233
-00:16:15,700 --> 00:16:17,700
-[WEAVER]
-No -- an individual!
-ບໍ່ - ເປັນບຸກຄົນ!
-
-234
-00:16:18,200 --> 00:16:20,200
-[WORKER #2]
-What's that?
-ນັ້ນແມ່ນຫຍັງ?
-
-235
-00:16:20,700 --> 00:16:26,700
-[WEAVER]
-Well, it's...someone with his own point of view...someone who does what he wants, not whatever he's told to do!
-ດີ, ມັນເປັນ... ຄົນທີ່ມີທັດສະນະຂອງຕົນເອງ...
-ຄົນທີ່ເຮັດສິ່ງທີ່ລາວຕ້ອງການ, ບໍ່ແມ່ນສິ່ງທີ່ລາວຖືກບອກໃຫ້ເຮັດ!
-
-236
-00:16:27,200 --> 00:16:29,200
-[AZTECA]
-Someone who follows his heart!
-ບາງຄົນທີ່ຕິດຕາມຫົວໃຈຂອງລາວ!
-
-237
-00:16:29,700 --> 00:16:31,700
-[WEAVER]
-Right...because every ant's important!
-ແມ່ນແລ້ວ... ເພາະວ່າແມງໄມ້ທຸກຄົນມີຄວາມສໍາຄັນ!
-
-238
-00:16:32,200 --> 00:16:34,300
-[WORKER #2]
-But that would mean I'm important.
-ແຕ່ມັນຈະຫມາຍຄວາມວ່າຂ້ອຍມີຄວາມສໍາຄັນ.
-
-239
-00:16:34,800 --> 00:16:37,950
-[WORKER #1]
-I'm outta here, this sounds like trouble to me.
-ຂ້ອຍອອກຈາກບ່ອນນີ້, ນີ້ແມ່ນເບິ່ງຄືວ່າເປັນບັນຫາ ສໍາ ລັບຂ້ອຍ.
-
-240
-00:16:38,450 --> 00:16:40,900
-[WEAVER]
-We can all be individuals!  Just like
-ພວກເຮົາທຸກຄົນສາມາດເປັນບຸກຄົນໄດ້! ຄືກັບ
-
-241
-00:16:41,400 --> 00:16:45,950
-[Z!]
-Weaver and Azteca hold hands.  More ants are gathering around, dropping their tools...
-ວີເວີແລະອາສເຕກາຈັບມືກັນ. ແມງໄມ້ຫຼາຍຄົນ ກໍາ
-ລັງເຕົ້າໂຮມຢູ່ອ້ອມຂ້າງ, ຖິ້ມເຄື່ອງມືຂອງພວກເຂົາ...
-
-242
-00:16:46,450 --> 00:16:48,450
-[BALA]
-Water...water...
-ນໍ້າ... ນໍ້າ...
-
-243
-00:16:48,950 --> 00:16:54,550
-[BALA]
-My skin's dry, my exoskeleton is cracking...I wish I'd never met you, you ruined my life.
-ຜິວຂອງຂ້ອຍແຫ້ງແລ້ວ, ກະດູກພາຍນອກຂອງຂ້ອຍແຕກ...
-ຂ້ອຍຢາກວ່າຂ້ອຍບໍ່ເຄີຍພົບເຈົ້າເລີຍ, ເຈົ້າ ທໍາ ລາຍຊີວິດຂອງຂ້ອຍ.
-
-244
-00:16:55,050 --> 00:16:57,050
-[BALA]
-Look out!
-ລະມັດລະວັງ!
-
-245
-00:16:57,550 --> 00:16:59,550
-[BALA]
-We're going to die!
-ພວກເຮົາຈະຕາຍ!
-
-246
-00:17:00,050 --> 00:17:06,050
-[BALA]
-Why didn't I listen to my mother ...why'd I have to go looking for trouble? Any ant would have given their left legs to be in my position...what's wrong with me?
-ເປັນຫຍັງຂ້ອຍບໍ່ໄດ້ຟັງແມ່ຂອງຂ້ອຍ... ເປັນຫຍັງຂ້ອຍຕ້ອງໄປຊອກຫາຄວາມຫຍຸ້ງຍາກ?
-ແມງໄມ້ໃດກໍ່ຈະໃຫ້ຕີນຊ້າຍຂອງພວກເຂົາເພື່ອຢູ່ໃນ ຕໍາ ແຫນ່ງຂອງຂ້ອຍ... ມີຫຍັງຜິດກັບຂ້ອຍ?
-
-247
-00:17:06,550 --> 00:17:08,550
-[BALA]
-Wait, I hear something!
-ລໍຖ້າ, ຂ້ອຍໄດ້ຍິນບາງສິ່ງບາງຢ່າງ!
-
-248
-00:17:09,050 --> 00:17:13,250
-[BALA]
-Cut me down a soft leaf so I can take a nap.
-ຕັດໃບອ່ອນລົງໃຫ້ຂ້ອຍເພື່ອຂ້ອຍສາມາດນອນໄດ້.
-
-249
-00:17:13,750 --> 00:17:15,750
-[BALA]
-Out here I'm just what?
-ຢູ່ບ່ອນນີ້ຂ້ອຍພຽງແຕ່ເປັນຫຍັງ?
-
-250
-00:17:16,250 --> 00:17:18,250
-[BALA]
-Stop fooling around in there.
-ຢຸດການໂຊກຮ້າຍຢູ່ບ່ອນນັ້ນ.
-
-251
-00:17:18,750 --> 00:17:20,750
-[BALA]
-Let me go!!!
-ໃຫ້ຂ້ອຍໄປ!!!
-
-252
-00:17:21,250 --> 00:17:27,250
-[BALA]
-I'm going to be rescued soon.  I'm going to be rescued soon.  I'm going to be rescued soon.
-ຂ້ອຍຈະຖືກຊ່ວຍເຫຼືອໃນໄວໆນີ້. ຂ້ອຍຈະໄດ້ຮັບການຊ່ວຍເຫຼືອຢ່າງໄວວາ
-. ຂ້ອຍຈະເປັນການຊ່ວຍເຫຼືອໄວໆນີ້.
-
-253
-00:17:27,750 --> 00:17:31,600
-[BALA]
-General Formica won't let me die out here.  I'm his fiancee.
-ນາຍພົນຟໍມິກາຈະບໍ່ປ່ອຍໃຫ້ຂ້ອຍຕາຍຢູ່ນີ້. ຂ້ອຍເປັນແຟນຂອງລາວ.
-
-254
-00:17:32,100 --> 00:17:37,350
-[BALA]
-Five thousand three hundred and ninety -- no.  About five thousand four hundred by now.
-ຫ້າພັນສາມຮ້ອຍສິບ - ບໍ່. ປະມານຫ້າພັນສີ່ຮ້ອຍໃນປັດຈຸບັນ.
-
-255
-00:17:37,850 --> 00:17:39,850
-[BALA]
-Well...no, but --
-ດີ... ບໍ່, ແຕ່...
-
-256
-00:17:40,350 --> 00:17:42,350
-[BALA]
-Well...I am the oldest.
-ດີ... ຂ້ອຍເປັນຄົນໃຫຍ່ທີ່ສຸດ.
-
-257
-00:17:42,850 --> 00:17:44,850
-[BALA]
-By three seconds...
-ໂດຍສາມວິນາທີ...
-
-258
-00:17:45,350 --> 00:17:49,550
-[BALA]
-You're right.  There are as many Princesses...as there are blades of grass.
-ເຈົ້າເວົ້າຖືກຕ້ອງ. ມີເຈົ້າຍິງຫຼາຍເທົ່າທີ່ມີໃບຫຍ້າ.
-
-259
-00:17:50,050 --> 00:17:54,950
-[FORMICA]
-Dammit, this tunnel is priority A-1! We can't afford any delays on this project!
-ສະບາຍດີ, ທໍ່ນີ້ແມ່ນຄວາມສໍາຄັນ A-1!
-ພວກເຮົາບໍ່ສາມາດຈ່າຍຄ່າຊັກຊ້າໃດໆໃນໂຄງການນີ້ໄດ້!
-
-260
-00:17:55,450 --> 00:17:58,950
-[CARPENTER]
-I've never seen anything like it, General, they're they're...well, look!
-ຂ້ອຍບໍ່ເຄີຍເຫັນຫຍັງເຊັ່ນນັ້ນເລີຍ, ນາຍພົນ
-, ພວກເຂົາແມ່ນພວກເຂົາແມ່ນ... ດີ, ເບິ່ງ!
-
-261
-00:17:59,450 --> 00:18:03,650
-[Z!  Z!  Z!  Z!]
-A worker moves forward to join the strikers, tossing down his tool.
-ຄົນງານຄົນຫນຶ່ງຍ້າຍໄປຂ້າງຫນ້າເພື່ອເຂົ້າຮ່ວມພວກໂຈມຕີ
-, ຖິ້ມເຄື່ອງມືຂອງລາວລົງ.
-
-262
-00:18:04,150 --> 00:18:07,650
-[FOREMAN]
-Where do ya think you're going?  Get back to work!
-ເຈົ້າຄິດວ່າເຈົ້າຈະໄປໃສ? ກັບຄືນໄປບ່ອນເຮັດວຽກ!
-
-263
-00:18:08,150 --> 00:18:10,150
-[WORKER #1]
-Buzz off, I'm important!
-ອອກໄປ, ຂ້ອຍມີຄວາມສໍາຄັນ!
-
-264
-00:18:10,650 --> 00:18:15,900
-[Z!  Z!  Z!  Z!]
-At the center of the group, Weaver and Azteca are holding hands, leading the chant.
-ໃນໃຈກາງຂອງກຸ່ມ, Weaver ແລະ Azteca ແມ່ນຈັບມືກັນ, ນໍາພາການຮ້ອງເພງ.
-
-265
-00:18:16,400 --> 00:18:19,550
-[FORMICA]
-Notice the big one, holding hands with the female?
-ເຈົ້າເຫັນຄົນໃຫຍ່, ຈັບມືກັບແມ່ຍິງບໍ?
-
-266
-00:18:20,050 --> 00:18:22,150
-[CARPENTER]
-Well, uh, who notices workers, sir?
-ດີ, ໂອ້, ໃຜສັງເກດເຫັນຄົນງານບໍ, ທ້າວ?
-
-267
-00:18:22,650 --> 00:18:26,150
-[FORMICA]
-No one should have to.  Have him brought to me.
-ບໍ່ມີໃຜຄວນເຮັດ. ໃຫ້ລາວນໍາມາຫາຂ້ອຍ.
-
-268
-00:18:26,650 --> 00:18:29,100
-[FORMICA]
-So this Z...he fancies himself an individual?
-ສະນັ້ນ Z ນີ້... ລາວຄິດວ່າຕົວເອງເປັນບຸກຄົນບໍ?
-
-269
-00:18:29,600 --> 00:18:31,700
-[WEAVER]
-Yeah...I mean...well...I don't know, really, sir.
-ແມ່ນແລ້ວ... ຂ້ອຍຫມາຍຄວາມວ່າ... ດີ
-... ຂ້ອຍບໍ່ຮູ້, ແທ້ຈິງແລ້ວ, ທ່ານ.
-
-270
-00:18:32,200 --> 00:18:36,750
-[FORMICA]
-Well now you haven't fallen for this silly idea of individuality, have you?
-ດີດຽວນີ້ເຈົ້າບໍ່ໄດ້ຕົກລົງໃນຄວາມຄິດໂງ່ນີ້ກ່ຽວກັບຄວາມເປັນສ່ວນຕົວ
-, ແມ່ນບໍ?
-
-271
-00:18:37,250 --> 00:18:39,250
-[WEAVER]
-Oh, no, sir!
-ໂອ້, ບໍ່, ທ້າວ!
-
-272
-00:18:39,750 --> 00:18:41,750
-[FORMICA]
-Good.  You're a good soldier.
-ດີ. ເຈົ້າເປັນທະຫານທີ່ດີ.
-
-273
-00:18:42,250 --> 00:18:44,250
-[WEAVER]
-Thank you, sir.
-ຂອບໃຈເດີເດີເດີ.
-
-274
-00:18:44,750 --> 00:18:46,750
-[FORMICA]
-So tell me.  Where's Z?
-ສະນັ້ນບອກຂ້ອຍ. Z ຢູ່ໃສ?
-
-275
-00:18:47,250 --> 00:18:49,250
-[WEAVER]
-I...I have no idea, sir.
-ຂ້ອຍ... ຂ້ອຍບໍ່ຮູ້ເລີຍເດີເດີ.
-
-276
-00:18:49,750 --> 00:18:51,750
-[FORMICA]
-Okay, son.
-ດີແລ້ວ ລູກຊາຍ.
-
-277
-00:18:52,250 --> 00:18:58,250
-[FORMICA]
-We know what makes an ant colony strong, don't we?  We know that no ant can be an individual.  No single ant matters, right?
-ພວກເຮົາຮູ້ວ່າສິ່ງທີ່ເຮັດໃຫ້ຄລູເນຍແມງໄມ້ແຂງແຮງ, ແມ່ນບໍ?
-ພວກເຮົາຮູ້ວ່າແມງໄມງໃດກໍ່ບໍ່ສາມາດເປັນບຸກຄົນໄດ້. ແມງແມງ ໄມງດຽວບໍ່ມີຄວາມສໍາຄັນ, ແມ່ນບໍ່?
-
-278
-00:18:58,750 --> 00:19:00,750
-[WEAVER]
-That's correct, sir!
-ນັ້ນແມ່ນຄວາມຈິງເດີເດີເດີ!
-
-279
-00:19:01,250 --> 00:19:03,350
-[FORMICA]
-Not that one.  Or that one.
-ບໍ່ແມ່ນຄົນນັ້ນ. ຫຼືຄົນນັ້ນເລີຍ.
-
-280
-00:19:03,850 --> 00:19:05,850
-[WEAVER]
-No, sir!
-ບໍ່, ທ້າວ!
-
-281
-00:19:06,350 --> 00:19:09,500
-[FORMICA]
-Or that one?  Her life doesn't matter, does it?
-ຫຼືຄົນນັ້ນບໍ? ຊີວິດຂອງນາງບໍ່ສໍາຄັນ, ແມ່ນບໍ?
-
-282
-00:19:10,000 --> 00:19:12,100
-[AZTECA]
-Don't tell that tightass anything, Weaver!
-ຢ່າບອກຄົນແຂງແຮງນັ້ນຫຍັງເລີຍ, ວີເວີ!
-
-283
-00:19:12,600 --> 00:19:18,600
-[WEAVER]
-Wait!  Just let her go!  Z's long gone anyway, following some golden egg to Insectopia!  You'll never catch him!
-ລໍຖ້າ! ພຽງແຕ່ປ່ອຍນາງໄປ! Z ໄດ້ໄປດົນນານຢ່າງໃດກໍ່ຕາມ,
-ຕິດຕາມໄຂ່ຄໍາບາງຢ່າງໄປຫາ Insectopia! ເຈົ້າຈະບໍ່ຈັບລາວເລີຍ!
-
-284
-00:19:19,100 --> 00:19:25,100
-[FORMICA]
-Insectopia, hunh?...See why individuality is so dangerous?  It can always be used against you.  If this sissy here wants to dig, he'll dig.  Send them both back to the tunnel project.  Double their workload.
-ແມງໄມ້ແມງໄມ້, ຮຸນ?... ເບິ່ງວ່າເປັນຫຍັງຄວາມເປັນສ່ວນຕົວເປັນອັນຕະລາຍຫຼາຍ? ມັນສາມາດຖືກ ນໍາ ໃຊ້ຕໍ່ຕ້ານເຈົ້າໄດ້ສະເຫມີ.
-ຖ້າຄົນໂຊກຮ້າຍນີ້ຢູ່ນີ້ຢາກຂຸດຄົ້ນ, ລາວຈະ ຂຸດຄົ້ນ. ສົ່ງພວກເຂົາທັງສອງກັບຄືນໄປບ່ອນໂຄງການທໍ່. ການໂຫຼດວຽກຂອງພວກເຂົາສອງເທົ່າ.
-
-285
-00:19:25,600 --> 00:19:28,050
-[FORMICA]
-What do we have on this "Insectopia"?
-ພວກເຮົາມີຫຍັງກ່ຽວກັບ"Insectopia" ນີ້?
-
-286
-00:19:28,550 --> 00:19:30,650
-[CARPENTER]
-Scattered reports, sir.  Rumors. Nothing reliable.
-ລາຍງານທີ່ແຈກຢາຍເດີ. ຂ່າວລື. ບໍ່ມີຫຍັງເຊື່ອຖືໄດ້.
-
-287
-00:19:31,150 --> 00:19:35,000
-[FORMICA]
-Desperate times call for desperate measures.  Get me Ant Team Six.
-ເວລາທີ່ໂຊກຮ້າຍຮຽກຮ້ອງໃຫ້ມີມາດຕະການທີ່ໂສກຮ້າຍ
-. ເອົາທີມແມງໄມ້ຫົກມາໃຫ້ຂ້ອຍ.
-
-288
-00:19:35,500 --> 00:19:37,500
-[CARPENTER]
-Ant Team Six...
-ທີມແມງໄມ້ຫົກ...
-
-289
-00:19:38,000 --> 00:19:41,500
-[BALA]
-I swear, we've passed this blade of grass three times.
-ຂ້ອຍສາບານໂຕວ່າ, ພວກເຮົາໄດ້ຜ່ານກະດານຫຍ້ານີ້ແລ້ວສາມຄັ້ງ.
-
-290
-00:19:42,000 --> 00:19:48,000
-[BALA]
-Face it, Z, we're lost!  We must have walked halfway across the world by now!  How did I get into this mess...
-ຮັບມືກັບມັນ, Z, ພວກເຮົາຫາຍໄປແລ້ວ! ພວກເຮົາຕ້ອງໄດ້ຍ່າງເຄິ່ງທາງຜ່ານໂລກໃນເວລານີ້
-! ຂ້ອຍເຂົ້າໄປໃນຄວາມສັບສົນນີ້ແນວໃດ...
-
-291
-00:19:48,500 --> 00:19:54,500
-[BALA]
-What difference does it make...we're both going to starve to death, or get squished, or set on fire...
-ມັນມີຄວາມແຕກຕ່າງຫຍັງ... ພວກເຮົາທັງສອງຈະຕາຍຈາກຄວາມອຶດຫິວ
-, ຫຼືຖືກສັ່ນສະເທືອນ, ຫຼືໄຟໄຫມ້...
-
-292
-00:19:55,000 --> 00:19:57,800
-[BALA]
-You were right...you were right!  Z, it's beautiful!
-ເຈົ້າຖືກຕ້ອງ... ເຈົ້າຖືກຕ້ອງ! Z, ມັນສວຍງາມ!
-
-293
-00:19:58,300 --> 00:20:00,300
-[MALE WASP]
-Muffy, look, party-crashers.
-ມູຟຟີ, ເບິ່ງ, ຜູ້ໂຈມຕີງານລ້ຽງ.
-
-294
-00:20:00,800 --> 00:20:02,800
-[FEMALE WASP]
-They're simply too much, Chip!
-ພວກເຂົາພຽງແຕ່ເກີນໄປ, ຈິບ!
-
-295
-00:20:03,300 --> 00:20:06,800
-[MALE WASP]
-You down there, haven't you ever been to a picnic?
-ເຈົ້າຢູ່ລຸ່ມນັ້ນ, ເຈົ້າບໍ່ເຄີຍໄປປິກນິກບໍ?
-
-296
-00:20:07,300 --> 00:20:10,800
-[FEMALE WASP]
-Habla Ingles?  Well I really don't know who they are.
-ຂ້ອຍບໍ່ຮູ້ວ່າພວກເຂົາເປັນໃຜແທ້ໆ.
-
-297
-00:20:11,300 --> 00:20:16,550
-[MALE WASP]
-Poopsie, we know some ants, don't we?  Are you related to the Fifth Avenue ants?
-Poopsie, ພວກເຮົາຮູ້ຈັກແມງໄມ້ບາງຢ່າງ,
-ແມ່ນບໍ? ເຈົ້າກ່ຽວຂ້ອງກັບແມງໄມວທາງທີຫ້າບໍ?
-
-298
-00:20:17,050 --> 00:20:21,600
-[FEMALE WASP]
-Darling, do you have to talk to any insect from off the street?
-ເຈົ້າຕ້ອງເວົ້າກັບແມງໄມ້ໃດໆຈາກທາງບໍ?
-
-299
-00:20:22,100 --> 00:20:24,100
-[MALE WASP]
-Just being friendly, Poopsie.
-ພຽງແຕ່ເປັນມິດຕະພາບ, Poopsie.
-
-300
-00:20:24,600 --> 00:20:29,500
-[BALA]
-Hello?  I'm not just "any insect". My mother is the Queen.  I'm Princess Bala!
-ສະບາຍດີ? ຂ້ອຍບໍ່ແມ່ນພຽງແຕ່"ແມງໄມ້ໃດໆ".
-ແມ່ຂອງຂ້ອຍແມ່ນລາຊິນີ. ຂ້ອຍເປັນເຈົ້າຍິງບາລາ!
-
-301
-00:20:30,000 --> 00:20:32,000
-[MALE WASP]
-They're Eurotrash, dear.
-ພວກເຂົາເປັນເອີຣົບຕຣັສ, ແມ.
-
-302
-00:20:32,500 --> 00:20:37,400
-[MALE WASP]
-Lunch!  A little piece of advice, sport -- bob and weave!  Bob and weave!
-ອາຫານທ່ຽງ! ຄໍາ ແນະ ນໍາ ນ້ອຍໆ, ກິລາ
-- ໂບບແລະຜ້າຜ້າ! ໂບບບແລະ ຜ້າຜົມ!
-
-303
-00:20:37,900 --> 00:20:39,900
-[BALA]
-What do you mean?
-ເຈົ້າຫມາຍຄວາມວ່າແນວໃດ?
-
-304
-00:20:40,400 --> 00:20:46,350
-[MALE WASP]
-Well -- like my father used to say -- there's no such thing as a free meal!
-ດີ - ດັ່ງທີ່ພໍ່ຂອງຂ້ອຍເຄີຍເວົ້າ - ບໍ່ມີສິ່ງໃດເຊັ່ນອາຫານຟຣີ!
-
-305
-00:20:46,850 --> 00:20:52,850
-[THE WASPS]
-Excuse me -- I'll have some potato salad -- thank-you! -- don't mind if I do!  After you!
-ຂໍໂທດຂ້ອຍ - ຂ້ອຍຈະກິນຊາລາຕາກາຕ້າບາງຢ່າງ -
-ຂອບໃຈ! - ບໍ່ເປັນຫຍັງຖ້າຂ້ອຍເຮັດ! ຫຼັງຈາກເຈົ້າ!
-
-306
-00:20:53,350 --> 00:20:55,350
-[BALA]
-Oh...my...God.
-ໂອ້... ພຣະເຈົ້າຂອງຂ້ອຍ.
-
-307
-00:20:55,850 --> 00:20:57,850
-[MALE WASP]
-Muffy!  Muffy!  Wake up!
-ມູຟຟີ! ມູເຟີ໌! ຕື່ນຂຶ້ນ!
-
-308
-00:20:58,350 --> 00:21:01,850
-[WHYYYYYYYYYYYYY????]
-But Z, also looking up, has no time to commiserate.
-ແຕ່ Z, ເຊັ່ນກັນເບິ່ງຂຶ້ນ, ບໍ່ມີເວລາທີ່ຈະເຫັນໃຈ.
-
-309
-00:21:02,350 --> 00:21:04,350
-[BALA]
-MMMffllmmm...
-MMMffllmmm...
-
-310
-00:21:04,850 --> 00:21:06,850
-[BALA]
-Z!  Help me!!!
-Z! ຊ່ວຍຂ້ອຍ!!!
-
-311
-00:21:07,350 --> 00:21:09,450
-[BALA]
-Z!!!  Get me out of heeeeere!
-Z!!! ເອົາຂ້ອຍອອກຈາກ heeeeere!
-
-312
-00:21:09,950 --> 00:21:11,950
-[BALA]
-Z!!!!!!!  I'm stuck!
-Z!!!!!!! ຂ້ອຍຕິດຢູ່!
-
-313
-00:21:12,450 --> 00:21:14,450
-[BALA]
-Z!  You're here!
-Z! ເຈົ້າຢູ່ບ່ອນນີ້!
-
-314
-00:21:14,950 --> 00:21:18,450
-[BALA]
-Z...if we don't make it...I just want you to know....
-Z... ຖ້າພວກເຮົາບໍ່ເຮັດໄດ້... ຂ້ອຍພຽງແຕ່ຢາກໃຫ້ເຈົ້າຮູ້....
-
-315
-00:21:18,950 --> 00:21:20,950
-[BALA]
-This is all your fault!!!
-ນີ້ແມ່ນຄວາມຜິດຂອງເຈົ້າທັງ ຫມົດ!!!
-
-316
-00:21:21,450 --> 00:21:23,900
-[TOUGH VOICE]
-Ant Team Six -- take him out!
-ທີມແມງໄມ້ຫົກ - ເອົາລາວອອກ!
-
-317
-00:21:24,400 --> 00:21:26,500
-[MAJOR MANDIBLE]
-And don't come back, you sissy!
-ແລະຢ່າກັບມາ, ເຈົ້າໂຊກຮ້າຍ!
-
-318
-00:21:27,000 --> 00:21:29,000
-[MANDIBLE]
-Talk to me.
-ເວົ້າກັບຂ້ອຍ.
-
-319
-00:21:29,500 --> 00:21:33,350
-[COMMANDO ANT]
-Z and the Princess were here, sir. Signs of a struggle.
-Z ແລະເຈົ້າຍິງຢູ່ບ່ອນນີ້ເດີ. ສັນຍານຂອງການຕໍ່ສູ້.
-
-320
-00:21:33,850 --> 00:21:36,650
-[MANDIBLE]
-Let's get a read on that feremone track.
-ມາອ່ານກ່ຽວກັບເສັ້ນທາງຟີເຣມອນນັ້ນ.
-
-321
-00:21:37,150 --> 00:21:39,150
-[COMMANDO ANT #1]
-Get the sniffer!
-ເອົາເຄື່ອງກິ່ນຫອມ!
-
-322
-00:21:39,650 --> 00:21:41,650
-[TRACKER ANT]
-Bala...find Bala...
-ບາລາ... ຊອກຫາບາຣາ...
-
-323
-00:21:42,150 --> 00:21:44,150
-[TRACKER ANT]
-Nnononononononoyeahyeahnononononono no...
-ບໍ່ເປັນຫຍັງບໍ່ເປັນຫຍັງເລີຍ...
-
-324
-00:21:44,650 --> 00:21:46,750
-[COMMANDO ANT #3]
-Got 'em!  Ten clicks from here!
-ຂ້ອຍຈັບພວກມັນແລ້ວ! ຫ້າຄລິກຈາກບ່ອນນີ້!
-
-325
-00:21:47,250 --> 00:21:50,050
-[MANDIBLE]
-Z -- you dirt-digging, fancy-dancing, wisecracking, royalty-grabbing, rebel
-Z - ເຈົ້າ ກໍາ ລັງຂຸດຄົ້ນດິນ, ການເຕັ້ນທີ່ສວຍງາມ
-, ການໂຊກຮ້າຍທີ່ສະຫຼາດ, ການຈັບອານາຈັກ, ກະບົດ
-
-326
-00:21:50,550 --> 00:21:56,550
-[DEAD ANT, MISTER!]
-Mandible's muscles bulge.  The veins in his head throb.  This is one ass-kicking ant.  Even Mandible's troops look scared of him.
-ກ້າມຊີ້ນຂອງແມນດີບີລ ຂະຫຍາຍຕົວ. ເສັ້ນເລືອດໃນຫົວຂອງລາວສັ່ນສະເທືອນ. ນີ້ແມ່ນແມງໄມ້
-ຫນຶ່ງ ທີ່ຕີຫລັງ. ເຖິງແມ່ນວ່າທະຫານຂອງແມັກດີບິລ ເບິ່ງຄືວ່າຢ້ານກົວລາວ.
-
-327
-00:21:57,050 --> 00:21:59,150
-[MANDIBLE]
-Let's MOVE!  GO, people!  GO!  GO!
-ສະບາຍດີ! ໄປເດີ້, ປະຊາຊົນ! ໄປເດີ! ໄປ!
-
-328
-00:21:59,650 --> 00:22:05,250
-[GO!  GO!  GO!]
-Ant Team Six takes to the air, heading in the direction indicated by the tracker ant.
-ທີມແມງໄມ້ຫົກຂຶ້ນອາກາດ, ໄປທາງທີ່ຊີ້ໃຫ້ເຫັນໂດຍແມງໄມ້ນັກຕິດຕາມ.
-
-329
-00:22:05,750 --> 00:22:07,750
-[BALA]
-Come on, Z.
-ມາແລ້ວ, Z.
-
-330
-00:22:08,250 --> 00:22:10,250
-[FLY]
-What's with the bummer attitude?
-ມີຫຍັງເກີດຂຶ້ນກັບທັດສະນະທີ່ໂຊກຮ້າຍ?
-
-331
-00:22:10,750 --> 00:22:13,200
-[BUTTERFLY]
-Yeah -- nobody stresses out in Insectopia!
-ແມ່ນແລ້ວ - ບໍ່ມີໃຜກົດດັນໃນ Insectopia!
-
-332
-00:22:13,700 --> 00:22:15,700
-[BALA]
-Did you say...
-ເຈົ້າບອກວ່າ...
-
-333
-00:22:16,200 --> 00:22:18,200
-[BALA]
-Z, we made it!
-Z, ພວກເຮົາເຮັດໄດ້!
-
-334
-00:22:18,700 --> 00:22:20,700
-[FLY]
-C'mon in!  The nectar's fine!
-ເຂົ້າມາ! ນັກຕາບໍ່ເປັນຫຍັງ!
-
-335
-00:22:21,200 --> 00:22:23,300
-[AAAAAGH!!!]
-Surprisingly, the termite seems equally terrified...
-ແປກໃຈ, ແມວແມວເບິ່ງຄືວ່າຢ້ານກົວເທົ່າກັນ...
-
-336
-00:22:23,800 --> 00:22:27,300
-[FLY]
-Hey, take it easy!  There's nothin' to be afraid of!
-ເຮ້, ສະບາຍໃຈ! ບໍ່ມີຫຍັງຕ້ອງຢ້ານກົວ!
-
-337
-00:22:27,800 --> 00:22:33,400
-[CRICKET]
-Dude, here in Insectopia, we don't judge people by how many arms and legs we've got.
-ເພື່ອນ, ຢູ່ບ່ອນນີ້ໃນ Insectopia,
-ພວກເຮົາບໍ່ຕັດສິນໃຈຄົນໂດຍມືແລະຕີນຫຼາຍປານໃດທີ່ພວກເຮົາມີ.
-
-338
-00:22:33,900 --> 00:22:38,800
-[FLY]
-Yeah, back home, they called me a fruitfly.  But here, I'm known as...  Superfly.
-ແມ່ນແລ້ວ, ຢູ່ບ້ານ, ພວກເຂົາເອີ້ນຂ້ອຍວ່າແມງໄມ້ຫມາກໄມ້
-. ແຕ່ຢູ່ນີ້, ຂ້ອຍຮູ້ຈັກກັນວ່າ... Superfly.
-
-339
-00:22:39,300 --> 00:22:41,300
-[CRICKET]
-Anyway, big Gus is mellow.
-ຢ່າງໃດກໍຕາມ, ແກສໃຫຍ່ແມ່ນອ່ອນແອ.
-
-340
-00:22:41,800 --> 00:22:44,600
-[BALA]
-Just looking for fun, adventure, trouble, I guess.
-ຂ້ອຍພຽງແຕ່ຊອກຫາຄວາມມ່ວນຊື່ນ,
-ການປະຈົນໄພ, ຄວາມຫຍຸ້ງຍາກ, ຂ້ອຍຄິດວ່າ.
-
-341
-00:22:45,100 --> 00:22:47,550
-[BALA]
-You held onto this all that time?
-ເຈົ້າຖືສິ່ງນີ້ຕະຫຼອດເວລານັ້ນບໍ?
-
-342
-00:22:48,050 --> 00:22:50,050
-[BEETLE]
-Hey Z!
-ສະບາຍດີ Z!
-
-343
-00:22:50,550 --> 00:22:56,550
-[BEETLE]
-Wanna bring back dessert?  There's a thirty foot long blimp in the next can, made completely of chocolate!
-ເຈົ້າຢາກເອົາອາຫານຫວານກັບມາບໍ? ມີເຮືອບິນບິນທີ່ມີຄວາມຍາວສາມສິບແມັດໃນຖັງຕໍ່ໄປ
-, ເຮັດດ້ວຍຊັອກໂກແລັດຢ່າງເຕັມທີ່!
-
-344
-00:22:57,050 --> 00:22:59,050
-[TRACKER ANT]
-Yesyesyesyesyes --
-ແມ່ນແລ້ວ -
-
-345
-00:22:59,550 --> 00:23:01,550
-[MANDIBLE]
-Talk to me.
-ເວົ້າກັບຂ້ອຍ.
-
-346
-00:23:02,050 --> 00:23:06,950
-[COMMANDO #1]
-I've got a read on the Princess -- but target Z isn't accounted for.
-ຂ້ອຍມີການອ່ານກ່ຽວກັບເຈົ້າຍິງ - ແຕ່ເປົ້າຫມາຍ Z ບໍ່ຖືກຄິດໄລ່ໄວ້.
-
-347
-00:23:07,450 --> 00:23:09,450
-[MANDIBLE]
-Let's move in.
-ໄປເຂົ້າມາ.
-
-348
-00:23:09,950 --> 00:23:15,950
-[CRICKET]
-What if, like...we're just these tiny little things, and we're just like part of this whole other huge universe, that's like, so big we don't even know it exists?
-ຖ້າວ່າ, ເຊັ່ນວ່າ... ພວກເຮົາພຽງແຕ່ສິ່ງນ້ອຍໆເຫຼົ່ານີ້, ແລະພວກເຮົາພຽງແຕ່ເປັນສ່ວນ ຫນຶ່ງ
-ຂອງຈັກກະວານທີ່ໃຫຍ່ຫຼວງອີກຢ່າງນີ້, ນັ້ນແມ່ນເຊັ່ນວ່າ, ໃຫຍ່ຫຼາຍທີ່ພວກເຮົາບໍ່ຮູ້ວ່າມັນມີຢູ່ບໍ?
-
-349
-00:23:16,450 --> 00:23:18,450
-[LADYBUG]
-Man...that's so deep...
-ສະບາຍດີ... ນັ້ນແມ່ນຄວາມເລິກເຊິ່ງຫຼາຍ...
-
-350
-00:23:18,950 --> 00:23:24,950
-[EVERYBODY DOWN!]
-The cricket gets up to confront Mandible, but Mandible cold cocks him with a right to the jaw.  The other insects, too surprised to fight, just do as they're told.
-ແຄຣັກເກັດຕື່ນຂຶ້ນເພື່ອປະເຊີນກັບແມນດີບີລ໌, ແຕ່ນ້ ໍາ ອາຍເຢັນແມດດີບິລ໌ຕີລາວດ້ວຍສິດທິຕໍ່ກະຕ່າ. ແມງໄມ້ອື່ນໆ, ແປກໃຈຫຼາຍທີ່ຈະຕໍ່ສູ້, ພຽງແຕ່ເຮັດຕາມທີ່ພວກເຂົາຖືກບອກ.
-
-351
-00:23:25,450 --> 00:23:29,300
-[MANDIBLE]
-Alright, you hippy scum!  Make one move and I'll exterminate you!
-ດີແລ້ວ, ເຈົ້າໂຊກຮ້າຍຮິບປີ!
-ເຮັດການເຄື່ອນໄຫວດຽວແລະຂ້ອຍຈະທໍາລາຍເຈົ້າ!
-
-352
-00:23:29,800 --> 00:23:31,800
-[BALA]
-Stop!  You don't understand!
-ຢຸດເຊົາ! ເຈົ້າບໍ່ເຂົ້າໃຈ!
-
-353
-00:23:32,300 --> 00:23:36,850
-[MANDIBLE]
-I don't have to understand, Missy -- I've got orders.  Now where's Z?
-ຂ້ອຍບໍ່ຈໍາເປັນຕ້ອງເຂົ້າໃຈ, ນາງສາວ
-- ຂ້ອຍມີຄໍາສັ່ງ. ດຽວນີ້ Z ຢູ່ໃສ?
-
-354
-00:23:37,350 --> 00:23:40,500
-[FLY]
-Man, your girl is fly, know what I'm saying?
-ຜູ້ຊາຍ, ເດັກຍິງຂອງທ່ານແມ່ນບິນ, ເຈົ້າຮູ້ວ່າຂ້ອຍເວົ້າຫຍັງ?
-
-355
-00:23:41,000 --> 00:23:45,200
-[LADYBUG]
-Bala's been kidnapped!  Some flying ants took her back to the colony!
-ບາລາຖືກລັກພາຕົວ! ແມງໄມ້ບິນບາງຄົນເອົານາງກັບຄືນໄປບ່ອນຄລູເນຍ!
-
-356
-00:23:45,700 --> 00:23:47,700
-[MALE WASP]
-I'll go.
-ຂ້ອຍຈະໄປ.
-
-357
-00:23:48,200 --> 00:23:54,200
-[MALE WASP]
-I know what it's like to lose someone...I keep hearing the sound of Muffy's flapping wings...so I'll take you.
-ຂ້ອຍຮູ້ວ່າມັນເປັນແນວໃດທີ່ຈະສູນເສຍຄົນຫນຶ່ງ...
-ຂ້ອຍສືບຕໍ່ຍິນສຽງຂອງກະຕ່າທີ່ຟັບຟີ... ສະນັ້ນຂ້ອຍຈະພາເຈົ້າໄປ.
-
-358
-00:23:54,700 --> 00:23:57,150
-[FLY]
-Geez.  I feel like a real stinkbug.
-ພຣະເຈົ້າ. ຂ້ອຍຮູ້ສຶກຄືກັບແມງໄມ້ກິ່ນຫອມແທ້ໆ.
-
-359
-00:23:57,650 --> 00:23:59,650
-[MALE WASP]
-Sorry.  Turbulence.
-ຂໍໂທດ. ຄວາມວຸ້ນວາຍ.
-
-360
-00:24:00,150 --> 00:24:02,150
-[FORMICA]
-Princess Bala.  Good.  Where's Z?
-ເຈົ້າຍິງບາລາ. ດີ. Z ຢູ່ໃສ?
-
-361
-00:24:02,650 --> 00:24:08,600
-[BALA]
-He's...he's dead.  You don't have to look for him anymore.  He was eaten by a praying mantis.
-ລາວ... ລາວຕາຍແລ້ວ. ເຈົ້າບໍ່ຈໍາເປັນຕ້ອງຊອກຫາລາວອີກຕໍ່ໄປ
-. ລາວຖືກກິນໂດຍແມນຕິສ໌ທີ່ອະທິຖານ.
-
-362
-00:24:09,100 --> 00:24:13,300
-[FORMICA]
-It's a shame he died prematurely...I was hoping to kill him myself.
-ມັນເປັນໂຊກຮ້າຍທີ່ລາວຕາຍກ່ອນເວລາ... ຂ້ອຍຫວັງວ່າຈະຂ້າລາວເອງ.
-
-363
-00:24:13,800 --> 00:24:19,400
-[BALA]
-Well you'll never be able to hurt him where he is now.  I miss him already.
-ດີເຈົ້າຈະບໍ່ສາມາດເຮັດໃຫ້ລາວເຈັບປວດໄດ້ບ່ອນທີ່ລາວຢູ່ດຽວນີ້
-. ຂ້ອຍຂາດລາວແລ້ວ.
-
-364
-00:24:19,900 --> 00:24:21,900
-[FORMICA]
-You miss him?  Why?
-ເຈົ້າຂາດລາວບໍ? ເປັນຫຍັງ?
-
-365
-00:24:22,400 --> 00:24:28,400
-[BALA]
-Because...because he's twice the ant that you are.  I could never go through with marrying you.  I'm -- I'm an individual, and when I get married, it'll be to someone I choose.
-ເພາະວ່າ... ເພາະວ່າລາວເປັນແມງໄມ້ສອງເທົ່າທີ່ເຈົ້າເປັນ. ຂ້ອຍບໍ່ສາມາດເຮັດໄດ້ກັບການແຕ່ງງານເຈົ້າເລີຍ
-. ຂ້ອຍ - ຂ້ອຍເປັນບຸກຄົນ, ແລະເມື່ອຂ້ອຍແຕ່ງງານ, ມັນຈະເປັນກັບຄົນທີ່ຂ້ອຍເລືອກ.
-
-366
-00:24:28,900 --> 00:24:34,900
-[FORMICA]
-Princess Bala, I'm just a simple old soldier, and the ways of the feminine mind are a little too complex for me. But one thing I do know is, there are more Princesses where you came from. I just hope they're not all like you. In the meantime, maybe we can arrange for you to see Z again after all.
-ເຈົ້າຍິງບາລາ, ຂ້ອຍພຽງແຕ່ເປັນທະຫານເກົ່າທີ່ງ່າຍດາຍ, ແລະວິທີຂອງຈິດໃຈຂອງແມ່ຍິງແມ່ນສັບສົນເກີນໄປ ສໍາ ລັບຂ້ອຍ. ແຕ່ສິ່ງ ຫນຶ່ງ ທີ່ຂ້ອຍຮູ້ແມ່ນ,
-ມີເຈົ້າຍິງຫຼາຍບ່ອນທີ່ທ່ານມາຈາກ. ຂ້ອຍພຽງແຕ່ຫວັງວ່າພວກເຂົາບໍ່ແມ່ນທຸກຄົນຄືກັບເຈົ້າ. ໃນຂະນະດຽວກັນ, ບາງທີພວກເຮົາສາມາດຈັດການໃຫ້ເຈົ້າເຫັນ Z ອີກຄັ້ງຫຼັງຈາກນັ້ນ.
-
-367
-00:24:35,400 --> 00:24:39,250
-[MALE WASP]
-Good luck, Z.  For a wingless insect, you're alright by me.
-ໂຊກດີ, Z. ສໍາລັບແມງໄມ້ທີ່ບໍ່ມີກະຕ່າ, ເຈົ້າບໍ່ເປັນຫຍັງກັບຂ້ອຍ.
-
-368
-00:24:39,750 --> 00:24:41,750
-[SOLDIER ANT]
-You there!  Worker!
-ເຈົ້າຢູ່ບ່ອນນັ້ນ! ຄົນງານ!
-
-369
-00:24:42,250 --> 00:24:48,250
-[SOLDIER ANT]
-What are you doing out here!  All workers are to remain inside the colony, by orders of General Formica!
-ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ບ່ອນນີ້!
-ຄົນງານທຸກຄົນຕ້ອງຢູ່ພາຍໃນຄລູເນຍ, ຕາມຄໍາສັ່ງຂອງພົນຈັດຕະວາຟໍມິກາ!
-
-370
-00:24:48,750 --> 00:24:50,750
-[QUEEN]
-Very impressive, General.
-ຫນ້າປະທັບໃຈຫຼາຍ, ນາຍພົນ.
-
-371
-00:24:51,250 --> 00:24:53,250
-[MANDIBLE]
-Wave that flag, you maggot!
-ລັ່ນທຸງນັ້ນ, ເຈົ້າແມງໄມ້!
-
-372
-00:24:53,750 --> 00:24:55,850
-[FORMICA]
-Is there anything wrong, your majesty?
-ມີຫຍັງຜິດບໍ, ເຈົ້າສູງສຸດ?
-
-373
-00:24:56,350 --> 00:25:01,250
-[QUEEN]
-It's just...How I miss Bala.  I wish she were here for this special moment.
-ມັນພຽງແຕ່... ຂ້ອຍຂາດບາລາຫຼາຍປານໃດ.
-ຂ້ອຍຢາກວ່ານາງຢູ່ບ່ອນນີ້ ສໍາ ລັບຊ່ວງເວລາທີ່ພິເສດນີ້.
-
-374
-00:25:01,750 --> 00:25:03,850
-[FORMICA]
-She is, your majesty.  She is.
-ນາງເປັນ, ເຈົ້າສູງສຸດ. ນາງເປັນ.
-
-375
-00:25:04,350 --> 00:25:06,350
-[TRACKER ANT]
-Z!  Z!  I smell Z!
-Z! Z! ຂ້ອຍກິ່ນ Z!
-
-376
-00:25:06,850 --> 00:25:08,850
-[TRACKER ANT]
-Bala!  Yeahyeahyeahyeahyeah!  Find Bala!  Yeahyeahyeahyeah!
-ບາລາ! ແມ່ນແລ້ວ! ຊອກຫາບາລ່າ! ແມ່ນແທ້!
-
-377
-00:25:09,350 --> 00:25:11,350
-[TRACKER ANT]
-Yeahyeahyeahyeahyeahyeahyeah...
-ແມ່ນແລ້ວ...
-
-378
-00:25:11,850 --> 00:25:13,850
-[TRACKER ANT]
-Bala...Yeahyeahyeahyeahyeahyeah...
-ບາລາ... ແມ່ນແລ້ວ...
-
-379
-00:25:14,350 --> 00:25:16,350
-[BALA]
-Z!  You came back!
-Z! ເຈົ້າກັບມາແລ້ວ!
-
-380
-00:25:16,850 --> 00:25:18,950
-[BALA]
-There's something going on, Z --
-ມີບາງສິ່ງບາງຢ່າງເກີດຂຶ້ນ, Z -
-
-381
-00:25:19,450 --> 00:25:22,250
-[BALA]
-They're having a ceremony to open the Megatunnel...
-ພວກເຂົາ ກໍາ ລັງຈັດພິທີເປີດທໍ່ Megatunnel...
-
-382
-00:25:22,750 --> 00:25:24,750
-[BALA]
-Oh no...
-ໂອ້ ບໍ່...
-
-383
-00:25:25,250 --> 00:25:27,250
-[BALA]
-Z!  what are you doing?
-Z! ເຈົ້າເຮັດຫຍັງຢູ່?
-
-384
-00:25:27,750 --> 00:25:29,750
-[BALA]
-Z!!! Wait for me!
-Z!!! ລໍຖ້າຂ້ອຍ!
-
-385
-00:25:30,250 --> 00:25:34,800
-[FORMICA]
-Your majesty, I'm afraid matters of state keep me from attending the ceremony.
-ເຈົ້າສູງສຸດ, ຂ້ອຍຢ້ານວ່າບັນຫາຂອງລັດເຮັດໃຫ້ຂ້ອຍບໍ່ເຂົ້າຮ່ວມພິທີ.
-
-386
-00:25:35,300 --> 00:25:40,200
-[QUEEN]
-But General -- this tunnel is your baby!  You're sure you can't stay ?
-ແຕ່ພົນຈັດຕະວາ - ທໍ່ນີ້ແມ່ນລູກຂອງທ່ານ
-! ເຈົ້າແນ່ໃຈວ່າເຈົ້າບໍ່ສາມາດຢູ່ໄດ້ບໍ?
-
-387
-00:25:40,700 --> 00:25:43,150
-[FORMICA]
-'Fraid not, your majesty.  Goodbye, your majesty.
-ຂ້ອຍຢ້ານວ່າບໍ່ແມ່ນ, ເຈົ້າສູງສຸດ. ສະບາຍດີ, ເຈົ້າຍິ່ງໃຫຍ່.
-
-388
-00:25:43,650 --> 00:25:48,200
-[QUEEN]
-Very well, General -- I know you -- all work and no play!
-ດີຫຼາຍ, ນາຍພົນ - ຂ້ອຍຮູ້ຈັກເຈົ້າ - ວຽກທັງ ຫມົດ ແລະບໍ່ມີການຫຼິ້ນ!
-
-389
-00:25:48,700 --> 00:25:50,700
-[FORMICA]
-Alright, let's move out!
-ແມ່ນແລ້ວ, ໄປເດີ້!
-
-390
-00:25:51,200 --> 00:25:55,050
-[QUEEN]
-In the name of the colony, I declare this tunnel open!
-ໃນນາມຄລູເນຍ, ຂ້ອຍປະກາດທໍ່ນີ້ເປີດ!
-
-391
-00:25:55,550 --> 00:25:57,550
-[QUEEN]
+705
+00:48:19,960 --> 00:48:24,636
+Oh! It's even worse.
+They're Eurotrash.
+ໂອ້!ມັນຮ້າຍແຮງກວ່າເກົ່າ
+.ພວກເຂົາເປັນເອີຣົບຕຣັສ.
+
+706
+00:48:24,720 --> 00:48:28,395
+Darling, they're poor.
+They're dirty. They're smelly.
+ທີ່ຮັກ,ພວກເຂົາທຸກຍາກ.ພວກເຂົາ
+ເປື້ອນ.ພວກເຂົາກິ່ນຫອມ.
+
+707
+00:48:28,480 --> 00:48:30,914
+We have to help them.
+ພວກເຮົາຕ້ອງຊ່ວຍພວກເຂົາ.
+
+708
+00:48:31,000 --> 00:48:35,073
+If you'll just wait right here,
+we'll fetch you a little something.
+ຖ້າເຈົ້າພຽງແຕ່ລໍຖ້າຢູ່ບ່ອນນີ້,ພວກເຮົາ
+ຈະເອົາບາງສິ່ງບາງຢ່າງນ້ອຍໆໃຫ້ເຈົ້າ.
+
+709
+00:48:35,160 --> 00:48:38,391
+Oh, please, Muffy.
+Not another crusade.
+ໂອ້,ກະລຸນາ,ມູຟຟີ.ບໍ່ແມ່ນ
+ການເດີນຂະບວນຂ້າມຊາດອີກຄັ້ງ.
+
+710
+00:48:38,480 --> 00:48:43,554
+Chippie, we have a social obligation
+to the less fortunate.
+Chippie ,ພວກເຮົາມີພັນທະສັງຄົມ
+ຕໍ່ຄົນທີ່ບໍ່ມີໂຊກດີຫຼາຍ.
+
+711
+00:48:43,640 --> 00:48:47,758
+I know you laugh at my hobbies,
+but this is important to me!
+ຂ້ອຍຮູ້ວ່າເຈົ້າມ່ວນຊື່ນກັບຄວາມມັກ
+ຂອງຂ້ອຍ,ແຕ່ສິ່ງນີ້ມີຄວາມສໍາຄັນຕໍ່ຂ້ອຍ!
+
+712
+00:48:47,840 --> 00:48:50,718
+Mm. You have such a big heart.
+ເຈົ້າມີຫົວໃຈໃຫຍ່ຫຼາຍ.
+
+713
+00:48:50,800 --> 00:48:53,872
+That's why you're
+my little cuddly-widdles.
+ນັ້ນແມ່ນເຫດຜົນທີ່ເຈົ້າ
+ເປັນຄົນຮັກນ້ອຍຂອງຂ້ອຍ.
+
+714
+00:48:53,960 --> 00:48:58,795
+Oh, my big, strong pheromone factory.
+ໂອ້,ໂຮງງານຜະລິດຟາໂຣມອນ
+ທີ່ໃຫຍ່ແລະແຂງແຮງຂອງຂ້ອຍ.
+
+715
+00:48:58,920 --> 00:49:00,717
+- Mmm!
+- Oh!
+- ມມມມ
+- ໂອ້!
+
+716
+00:49:02,000 --> 00:49:04,833
+Oh, brother.
+Suddenly I've lost my appetite.
+ໂອ້ອ້າຍ.ຂ້ອຍໄດ້ສູນເສຍຄວາມ
+ຢາກອາຫານຂອງຂ້ອຍຢ່າງກະທັນຫັນ.
+
+717
+00:49:05,800 --> 00:49:07,279
+- You know...
+- Muffy...
+- ເຈົ້າຮູ້ແລ້ວ...
+- ມູຟຟີ...
+
+718
+00:49:07,400 --> 00:49:09,436
+I guess I had imagined Insectopia...
+ຂ້ອຍຄິດວ່າຂ້ອຍໄດ້ຄິດວ່າ Insectopia...
+
+719
+00:49:10,800 --> 00:49:13,189
+I don't know... a little differently.
+ຂ້ອຍບໍ່ຮູ້... ແຕກຕ່າງກັນເລັກນ້ອຍ.
+
+720
+00:49:18,400 --> 00:49:20,277
+- Oh, Muffy!
+-
+- ໂອ້, ມູຟຟີ!
+
+721
+00:49:20,360 --> 00:49:23,796
+- No! Oh, no!
+- Oh, no.
+- ບໍ່! ໂອ້, ບໍ່!
+- ໂອ້, ບໍ່.
+
+722
+00:49:23,880 --> 00:49:26,348
+- Rumbling
+- Look out!
+- ຂີ້ເຫຍື້ອ
+- ລະວັງ!
+
+723
+00:49:30,560 --> 00:49:34,599
+Z, help me! Z!
+Z, ຊ່ວຍຂ້ອຍ! Z!
+
+724
+00:49:34,720 --> 00:49:37,712
+Don't let me... Don't let me go, Z.
+ຢ່າປ່ອຍໃຫ້ຂ້ອຍ... ຢ່າປ່ອຍຂ້ອຍໄປ, Z.
+
+725
+00:49:41,240 --> 00:49:43,959
+Get me out of here!
+ເອົາຂ້ອຍອອກຈາກບ່ອນນີ້!
+
+726
+00:49:48,240 --> 00:49:49,798
 Bala!
 ບາລາ!
 
-392
-00:25:58,050 --> 00:26:00,050
-[BALA]
-Mom!
-ແມ່!
+727
+00:49:56,440 --> 00:49:59,318
+Whoa, this is not good.
+ໂວ້, ນີ້ແມ່ນບໍ່ດີ.
 
-393
-00:26:00,550 --> 00:26:02,550
-[WORKER #1]
-Are you nuts?
-ເຈົ້າໂຊກຮ້າຍບໍ?
+728
+00:50:04,880 --> 00:50:06,677
+Whoa!
+ໂວ້!
 
-394
-00:26:03,050 --> 00:26:06,200
-[WORKER #2]
-Oh yeah?  What makes you so special, Mr. Know-It-All?
-ໂອ້ ແມ່ນແລ້ວ? ເປັນຫຍັງເຈົ້າຈຶ່ງພິເສດຫຼາຍ, ທ້າວຮູ້ທຸກຢ່າງ?
+729
+00:50:08,400 --> 00:50:11,551
+Whoa-oa-oa!
+ໂວ້ ໂອ້!
 
-395
-00:26:06,700 --> 00:26:09,850
-[WORKER #3]
-You're Z?  Gimme a break!  Z's ten milimeters tall!
-ເຈົ້າເປັນ Z ບໍ? ໃຫ້ຂ້ອຍພັກຜ່ອນ! Z ສູງສິບມິລເມັດ!
+730
+00:50:41,360 --> 00:50:43,112
+Whoa!
+ໂວ້!
 
-396
-00:26:10,350 --> 00:26:16,350
-[WORKER #4]
--- and he can kill termites with his bare hands!  You're just some scrawny worker with a mental problem!
-- ແລະລາວສາມາດຂ້າແມວດ້ວຍມືເປົ່າ!
-ເຈົ້າພຽງແຕ່ເປັນຄົນງານທີ່ອ່ອນແອທີ່ມີບັນຫາທາງຈິດໃຈ!
+731
+00:50:51,520 --> 00:50:52,999
+Hi.
+ສະບາຍດີ.
 
-397
-00:26:16,850 --> 00:26:18,850
-[WORKER #1]
-No you're not!
-ບໍ່ເຈົ້າບໍ່ແມ່ນ!
+732
+00:50:59,280 --> 00:51:01,430
+- Z?
+- Yes?
+- Z?
+- ແມ່ນບໍ?
 
-398
-00:26:19,350 --> 00:26:21,350
-[WEAVER]
-Yes he is.
-ແມ່ນແລ້ວລາວເປັນ.
+733
+00:51:01,520 --> 00:51:06,753
+It looks like this is it, just
+when... I was starting to like you.
+ມັນເບິ່ງຄືວ່ານີ້ແມ່ນມັນ,ພຽງແຕ່
+ໃນເວລາທີ່...ຂ້ອຍກໍາລັງເລີ່ມມັກເຈົ້າ.
 
-399
-00:26:21,850 --> 00:26:24,650
-[WORKERS]
-Hey...it is Z...listen to what he says! [etc].
-ເຮ້... ມັນແມ່ນ Z... ຟັງລາວເວົ້າຫຍັງ!.
+734
+00:51:15,880 --> 00:51:17,996
+Who the hell is that?
+ນັ້ນແມ່ນໃຜ?
 
-400
-00:26:25,150 --> 00:26:27,150
-[WEAVER]
-Z...I'm so sorry!  I --
-Z... ຂ້ອຍຂໍໂທດຫຼາຍ! ຂ້ອຍ -
+735
+00:51:27,880 --> 00:51:29,313
+Uhh!
+ອູຮ້!
 
-401
-00:26:27,650 --> 00:26:31,150
-[QUEEN]
-Oh...it's that social-climbing worker again -- what does he want?
-ໂອ້... ມັນແມ່ນຄົນງານທີ່ຂຶ້ນທາງສັງຄົມອີກຄັ້ງ - ລາວຕ້ອງການຫຍັງ?
+736
+00:51:30,600 --> 00:51:33,114
+That's enough.
+ນັ້ນພຽງພໍແລ້ວ.
 
-402
-00:26:31,650 --> 00:26:33,650
-[MANDIBLE]
-Let 'er rip!
-ໃຫ້ມັນແຕກ!
+737
+00:51:33,200 --> 00:51:36,237
+I ain't tellin' you nothin'.
+ຂ້ອຍຈະບໍ່ບອກເຈົ້າຫຍັງເລີຍ.
 
-403
-00:26:34,150 --> 00:26:36,150
-[AZTECA]
-Listen!
-ຟັງນະ!
+738
+00:51:36,320 --> 00:51:40,711
+Soldier, the princess is vital
+to the future of this colony.
+ທະຫານ,ເຈົ້າຍິງມີຄວາມສໍາ
+ຄັນຕໍ່ອະນາຄົດຂອງຄລູເນຍນີ້.
 
-404
-00:26:36,650 --> 00:26:38,650
-[WORKER #1]
-He's right!!!
-ລາວເວົ້າຖືກຕ້ອງ!!!
+739
+00:51:40,800 --> 00:51:44,475
+She must be returned
+to take her proper place as queen.
+ນາງຕ້ອງຖືກສົ່ງຄືນເພື່ອເອົາບ່ອນ
+ທີ່ເໝາະສົມຂອງນາງເປັນລາຊິນີ.
 
-405
-00:26:39,150 --> 00:26:45,150
-[LET'S MOVE IT!]
-All of a sudden there's panic as every ant tries to scramble away from the oncoming water...in the confusion, the Queen's bearers drop her and scramble over her.
-ໃນທັນທີມີຄວາມຢ້ານກົວໃນຂະນະທີ່ແມງໄມ້ທຸກຄົນພະຍາຍາມຍ່າງຈາກນ້ ໍາ
-ທີ່ມາເຖິງ... ໃນຄວາມສັບສົນ, ຜູ້ຖືຂອງລາຊິນີຖິ້ມນາງແລະຍ່າງຢູ່ເທິງນາງ.
+740
+00:51:44,560 --> 00:51:46,755
+We already have a queen.
+ພວກເຮົາມີລາຊິນີແລ້ວ.
 
-406
-00:26:45,650 --> 00:26:47,650
-[QUEEN]
-You there!  Stop!  I say!
-ເຈົ້າຢູ່ບ່ອນນັ້ນ! ຢຸດເຊົາ! ຂ້ອຍບອກ!
+741
+00:51:46,880 --> 00:51:50,429
+As for your friend Z,
+why should I hurt him?
+ສໍາລັບເພື່ອນຂອງເຈົ້າ Z ,ເປັນຫຍ
+ັງຂ້ອຍຄວນເຮັດໃຫ້ລາວເຈັບປວດ?
 
-407
-00:26:48,150 --> 00:26:50,150
-[AZTECA]
-There's no way out!
-ບໍ່ມີທາງອອກເລີຍ!
+742
+00:51:50,520 --> 00:51:52,431
+He's not important.
+ລາວບໍ່ສໍາຄັນ.
 
-408
-00:26:50,650 --> 00:26:52,650
-[QUEEN]
-We're all going to drown!!!
-ພວກເຮົາທຸກຄົນຈະຈົມນໍ້າ!!!
+743
+00:51:53,840 --> 00:51:55,671
+Now, soldier,
+ດຽວນີ້, ທະຫານ,
 
-409
-00:26:53,150 --> 00:26:55,150
-[BALA]
-Z...what can we do?
-Z... ພວກເຮົາສາມາດເຮັດຫຍັງໄດ້?
+744
+00:51:55,760 --> 00:51:58,752
+we all know that one individual ant
+doesn't matter.
+ພວກເຮົາທຸກຄົນຮູ້ວ່າແມງໄມ້
+ຄົນດຽວບໍ່ມີຄວາມສໍາຄັນ.
 
-410
-00:26:55,650 --> 00:26:58,100
-[WORKER #1]
-Uh...we don't dig any more.  We're individuals.
-ໂອ້... ພວກເຮົາບໍ່ຂຸດຄົ້ນອີກຕໍ່ໄປ. ພວກເຮົາເປັນບຸກຄົນ.
+745
+00:52:00,080 --> 00:52:01,832
+Not you...
+ບໍ່ແມ່ນເຈົ້າ...
 
-411
-00:26:58,600 --> 00:27:03,500
-[WORKER #2]
-Yeah.  We're too important to dig. You taught us that, Z.  You hate digging!
-ແມ່ນແລ້ວ. ພວກເຮົາມີຄວາມສໍາຄັນເກີນໄປທີ່ຈະຂຸດຄົ້ນ
-. ເຈົ້າໄດ້ສອນພວກເຮົານັ້ນ, Z. ເຈົ້າກຽດຂູດ!
+746
+00:52:01,920 --> 00:52:03,956
+- not Cutter...
+-
+- ບໍ່ແມ່ນຄັດເຕີ...
 
-412
-00:27:04,000 --> 00:27:06,100
-[WEAVER]
-You heard the ant -- DIG!!!
-ເຈົ້າໄດ້ຍິນແມງໄມ້ - ຂຸດຄົ້ນ!!!
+747
+00:52:04,040 --> 00:52:06,315
+-
+- Not even her.
+- ບໍ່ເຖິງແມ່ນວ່ານາງ.
 
-413
-00:27:06,600 --> 00:27:09,400
-[WORKER]
-He did it!  Z!  Z!  Z!  Z!  Z!
-ລາວເຮັດມັນແລ້ວ! Z!Z!Z!!
+748
+00:52:06,440 --> 00:52:08,590
+Azteca!
+ອາສເຕກາ!
 
-414
-00:27:09,900 --> 00:27:15,900
-[FORMICA]
-Z.  I should have known.  All that work, all that preparation, come to nothing.  All because of one stinking ant.
-Z. ຂ້ອຍຄວນຮູ້. ວຽກງານທັງ ຫມົດ ນັ້ນ, ການກະກຽມທັງ ຫມົດ ນີ້
-, ບໍ່ເກີດຫຍັງເລີຍ. ທັງ ຫມົດ ຍ້ອນແມງໄມ້ ຫນຶ່ງ ທີ່ກິ່ນຫອມ.
+749
+00:52:08,680 --> 00:52:11,274
+Don't tell that tight-ass! Aagh!
+ຢ່າບອກຄົນເຂັ້ມງວດນັ້ນ! ອາຈ!
 
-415
-00:27:16,400 --> 00:27:18,400
-[WHERE'S Z?]
-Formica laughs, shaking his head.
-ຟໍມິກາມ່ວນຊື່ນ, ຍັບຫົວ.
+750
+00:52:11,360 --> 00:52:13,430
+-
+- Where is Z?
+- Z ຢູ່ໃສ?
 
-416
-00:27:18,900 --> 00:27:24,900
-[FORMICA]
-Folks, you may have survived that flood, but there's no way you're gonna escape from me.  I'll make you a deal.  Hand over the rebel leader Z, and you survive.
-ພວກຄົນ, ເຈົ້າອາດຈະລອດຊີວິດຈາກນໍ້າຖ້ວມນັ້ນ, ແຕ່ບໍ່ມີທາງໃດທີ່ທ່ານຈະຫນີຈາກຂ້ອຍ
-. ຂ້ອຍຈະເຮັດຂໍ້ຕົກລົງກັບເຈົ້າ. ມອບຜູ້ນໍາກະບົດ Z, ແລະເຈົ້າຈະລອດ ຊີວິດ.
+751
+00:52:13,520 --> 00:52:16,592
+- I don't know where he is!
+- Hmm.
+- ຂ້ອຍບໍ່ຮູ້ວ່າລາວຢູ່ໃສ!
+- ອືມ.
 
-417
-00:27:25,400 --> 00:27:31,400
-[FORMICA]
-But if you don't hand him over, you're all going to die, each and every single..."individual" one of you.
-ແຕ່ຖ້າເຈົ້າບໍ່ມອບລາວ, ເຈົ້າທຸກຄົນຈະຕາຍ,
-ແຕ່ລະຄົນແລະແຕ່ລະຄົນ..."ບຸກຄົນ" ຫນຶ່ງ ໃນເຈົ້າ.
+752
+00:52:16,680 --> 00:52:18,352
+That's too bad.
+ນັ້ນໂຊກຮ້າຍຫຼາຍ.
 
-418
-00:27:31,900 --> 00:27:33,900
-[FORMICA]
-What shall it be, workers?
-ມັນຈະເປັນຫຍັງ, ຄົນງານ?
+753
+00:52:25,600 --> 00:52:27,079
+Wait!
+ລໍຖ້າ!
 
-419
-00:27:34,400 --> 00:27:36,400
-[FORMICA]
-Have it your way.
-ເຮັດຕາມທາງຂອງເຈົ້າ.
+754
+00:52:27,160 --> 00:52:28,639
+Insectopia.
+ແມງໄມ້.
 
-420
-00:27:36,900 --> 00:27:38,900
-[WEAVER]
-No, I'm Z.
-ບໍ່, ຂ້ອຍເປັນ Z.
+755
+00:52:28,720 --> 00:52:32,349
+I know it sounds crazy,
+but that's where he'd be going.
+ຂ້ອຍຮູ້ວ່າມັນເບິ່ງຄືວ່າໂຊກຮ້າຍ
+,ແຕ່ນັ້ນແມ່ນບ່ອນທີ່ລາວຈະໄປ.
 
-421
-00:27:39,400 --> 00:27:41,400
-[AZTECA]
-I'm Z!
-ຂ້ອຍແມ່ນ Z!
+756
+00:52:32,440 --> 00:52:37,594
+Soldier, you think this is a game?
+Insectopia does not exist.
+ທະຫານ,ເຈົ້າຄິດວ່ານີ້ເປັນ
+ເກມບໍ?ແມງໄມ້ບໍ່ມີຢູ່.
 
-422
-00:27:41,900 --> 00:27:43,900
-[BALA]
-No, I'm Z.
-ບໍ່, ຂ້ອຍເປັນ Z.
+757
+00:52:37,680 --> 00:52:39,318
+As a matter of fact...
+ໃນຄວາມເປັນຈິງ...
 
-423
-00:27:44,400 --> 00:27:50,350
-[WORKERS]
-I'm Z!  I'm Z!  I'm Z and so is my brother!  I've been Z for weeks now!
-ຂ້ອຍແມ່ນ Z! ຂ້ອຍເປັນ Z!ຂ້ອຍເປັນ Z ແລະນ້ອງຊາຍຂອງຂ້ອຍເຊັ່ນກັນ
-! ຂ້ອຍ ເປັນ Z ເປັນເວລາຫຼາຍອາທິດແລ້ວ!
+758
+00:52:39,400 --> 00:52:40,879
+it does.
+ມັນເຮັດ.
 
-424
-00:27:50,850 --> 00:27:52,850
-[QUEEN]
-We are Z.
-ພວກເຮົາເປັນ Z.
+759
+00:52:40,960 --> 00:52:43,872
+- Sir?
+- I'll brief you on the co-ordinates.
+- ເຈົ້າ?
+- ຂ້ອຍຈະແຈ້ງໃຫ້ເຈົ້າກ່ຽວກັບປະສານງານ.
 
-425
-00:27:53,350 --> 00:27:56,500
-[ALL]
-I am Z!  I am Z!  I am Z!
-ຂ້ອຍເປັນ Z! ຂ້ອຍເປັນZ! ຂ້ອຍແມ່ນ Z!
+760
+00:52:43,960 --> 00:52:46,838
+You're gonna bring
+the princess back.
+ເຈົ້າຈະເອົາເຈົ້າຍິງກັບມາ.
 
-426
-00:27:57,000 --> 00:28:03,000
-[ATTACK!]
-The army swells forward on all sides, pushing the workers towards the swirling water.  Some workers surround the Queen to protect her.  All seems lost, when THE FLY from Insectopia alights on the rim of the horizon.
-ກອງທັບຟື້ນຟູໄປຂ້າງຫນ້າທຸກດ້ານ, ດັນຄົນງານໄປສູ່ນ້ ໍາ ທີ່ ຫມູນ ວຽນ. ຄົນງານບາງຄົນອ້ອມຮອບລາຊິນີເພື່ອປົກປ້ອງນາງ
-. ທຸກຢ່າງເບິ່ງຄືວ່າຫາຍໄປ, ເມື່ອ FLY ຈາກ Insectopia ລົງຢູ່ແຄມຂອງທ້ອງຖິ່ນ.
+761
+00:52:46,920 --> 00:52:49,115
+And as for Z... Kill him.
+ແລະກ່ຽວກັບ Z... ຂ້າລາວ.
 
-427
-00:28:03,500 --> 00:28:05,500
-[FLY]
-Hey, guys!
-ເຮ້, ພວກຜູ້ຊາຍ!
+762
+00:52:50,200 --> 00:52:53,078
+But you said he didn't matter.
+ແຕ່ເຈົ້າບອກວ່າລາວບໍ່ສໍາຄັນ.
 
-428
-00:28:06,000 --> 00:28:08,000
-[WASP]
-It's them!
-ມັນເປັນພວກເຂົາ!
+763
+00:52:53,160 --> 00:52:57,199
+It's for the good of the colony.
+You made the right decision.
+ມັນເປັນເພື່ອຜົນປະໂຫຍດຂອງຄລູເນ
+ຍ.ເຈົ້າໄດ້ຕັດສິນໃຈທີ່ຖືກຕ້ອງ.
 
-429
-00:28:08,500 --> 00:28:10,950
-[WASP]
-Are these hooligans giving you trouble, Z?
-ພວກໂຮລິແກນເຫຼົ່ານີ້ເຮັດໃຫ້ເຈົ້າມີຄວາມຫຍຸ້ງຍາກບໍ, Z?
+764
+00:52:58,520 --> 00:53:00,636
+Gentlemen, now you can see...
+ພວກເຈົ້າ, ດຽວນີ້ເຈົ້າສາມາດເຫັນໄດ້...
 
-430
-00:28:11,450 --> 00:28:14,600
-[FLY]
-Say the word, Z, and we kick their butts.
-ເວົ້າຄໍາວ່າ, Z, ແລະພວກເຮົາຈະຕີບາກພວກເຂົາ.
+765
+00:53:00,760 --> 00:53:04,514
+how dangerous individualism can be.
+ຄວາມເປັນສ່ວນຕົວທີ່
+ເປັນອັນຕະລາຍຫຼາຍປານໃດ.
 
-431
-00:28:15,100 --> 00:28:21,100
-[FORMICA]
-What are you doing?!  ATTACK!!  Come on, you yellow-bellies!  Don't just stand there, Carpenter! Make an example of yourself!
-ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງຢູ່ບໍ?! ການໂຈມຕີ!! ມາແລ້ວ, ເຈົ້າທ້ອງສີເຫຼືອງ
-! ຢ່າພຽງແຕ່ຢືນຢູ່ບ່ອນນັ້ນ, ຄາປິນເຕີ! ເຮັດຕົວຢ່າງຕົວເອງ!
+766
+00:53:04,600 --> 00:53:07,433
+It makes us... vulnerable.
+ມັນເຮັດໃຫ້ພວກເຮົາ... ອ່ອນແອ.
 
-432
-00:28:21,600 --> 00:28:23,700
-[CARPENTER]
-Uh, actually, we are outnumbered sir...
-ໂອ້, ໃນຄວາມເປັນຈິງ, ພວກເຮົາມີຈໍານວນຫນ້ອຍກວ່າທ່ານ...
+767
+00:53:08,760 --> 00:53:10,671
+Let's go.
+ໄປແລ້ວ.
 
-433
-00:28:24,200 --> 00:28:30,200
-[AHHHHHHH!!]
-Formica runs so quickly and with such force that his helmet blows off his head.  Z's eyes get big, he stumbles backwards, slipping, and Formica goes flying over him, toward the whirlpool behind.  He scrabbles at the edge of the water, and then tumbles over.
-ຟໍມິກາແລ່ນຢ່າງໄວວາແລະດ້ວຍຄວາມເຂັ້ມແຂງທີ່ວ່າ ຫມວກ ກະທູ້ຂອງລາວຈະລະເບີດອອກຈາກຫົວຂອງລາວ. ຕາຂອງ Z ກາຍເປັນໃຫຍ່, ລາວ stumbles
-ກັບຄືນໄປບ່ອນ, slipping, ແລະຟໍມິກາໄປບິນຢູ່ເທິງລາວ, ໄປຫາສະລອຍຫ້ວຍທາງຫຼັງ. ລາວ scrabbles ຢູ່ແຄມຂອງນ້ ໍາ, ແລະຫຼັງຈາກນັ້ນຕົກລົງ.
+768
+00:53:12,720 --> 00:53:16,554
+Take him back to the MegaTunnel.
+Put him on the front line.
+ເອົາລາວກັບຄືນໄປບ່ອນ
+MegaTunnel .ເອົາລາວໃສ່ສາຍໜ້າ.
 
-434
-00:28:30,700 --> 00:28:32,700
-[FORMICA]
-Help...help me...
-ຊ່ວຍ... ຊ່ວຍຂ້ອຍ...
+769
+00:53:18,040 --> 00:53:19,598
+Dismissed.
+ຖືກໄລ່ອອກ.
 
-435
-00:28:33,200 --> 00:28:35,200
-[FORMICA]
-Please...I...I can't swim...Help me...
-ກະລຸນາ... ຂ້ອຍ... ຂ້ອຍລອຍບໍ່ໄດ້... ຊ່ວຍຂ້ອຍ...
+770
+00:53:27,360 --> 00:53:31,990
+Jeez, what was I thinking?
+I almost got you killed.
+ພຣະເຢຊູ,ຂ້ອຍຄິດຫຍັງຢູ່?
+ຂ້ອຍເກືອບເຮັດໃຫ້ເຈົ້າຕາຍ.
 
-436
-00:28:35,700 --> 00:28:37,800
-[FORMICA]
-I guess it does...to the ant.
-ຂ້ອຍຄິດວ່າມັນເຮັດ... ກັບແມງໄມ້.
+771
+00:53:32,080 --> 00:53:35,755
+Z, you know, you really
+shouldn't be so hard on...
+Z ,ເຈົ້າຮູ້ແລ້ວ,ເຈົ້າ
+ບໍ່ຄວນແຂງແຮງຫຼາຍ...
 
-437
-00:28:38,300 --> 00:28:43,200
-[CARPENTER]
-Sir, if it's any consolation, I still think you're completely worthless as an individual.
-ເຈົ້າ, ຖ້າມັນເປັນຄວາມສະບາຍໃຈໃດໆ,
-ຂ້ອຍຍັງຄິດວ່າເຈົ້າບໍ່ມີຄຸນຄ່າຢ່າງສົມບູນແບບເປັນບຸກຄົນ.
+772
+00:53:35,840 --> 00:53:39,719
+That's it.
+I'm taking you back to the colony.
+ນັ້ນແມ່ນມັນ.ຂ້ອຍຈະພາ
+ເຈົ້າກັບຄືນໄປບ່ອນຄ oloni .
 
-438
-00:28:43,700 --> 00:28:45,700
-[BALA]
-A few?
-ບໍ່ຫຼາຍບໍ່?
+773
+00:53:39,800 --> 00:53:42,712
+- Uhh! Ow! Oh.
+- Uhh!
+- ອູຮ້! ໂວ້! ໂອ້.
+- ອູຮ້!
+
+774
+00:53:42,800 --> 00:53:46,110
+Insectopia.
+You know, I must've been crazy.
+ເຈົ້າຮູ້ແລ້ວ, ຂ້ອຍຕ້ອງໂຊກຮ້າຍ.
+
+775
+00:53:46,200 --> 00:53:47,792
+- Z?
+- But you know what?
+- Z?
+- ແຕ່ເຈົ້າຮູ້ວ່າຫຍັງ?
+
+776
+00:53:47,880 --> 00:53:49,836
+- I admit it when I'm wrong.
+- Z.
+- ຂ້ອຍຍອມຮັບມັນເມື່ອຂ້ອຍຜິດ.
+- Z.
+
+777
+00:53:49,920 --> 00:53:53,708
+And this time, I gotta tell ya,
+I was absolutely, 100%...
+ແລະໃນຄັ້ງນີ້,ຂ້ອຍຕ້ອງບອກ
+ເຈົ້າ,ຂ້ອຍແມ່ນແນ່ນອນ, 100% ...
+
+778
+00:53:54,720 --> 00:53:57,188
+correct.
+ຖືກຕ້ອງ.
+
+779
+00:53:57,280 --> 00:54:02,673
+Have... have you ever seen
+anything more beautiful in your life?
+ເຈົ້າເຄີຍເຫັນຫຍັງທີ່ສວຍງາມ
+ກວ່າໃນຊີວິດຂອງທ່ານບໍ?
+
+780
+00:54:02,760 --> 00:54:07,276
+- It's... Insect...
+- Shh! Don't jinx it. Come on!
+- ມັນເປັນ... ແມງໄມ້...
+- ສະຫງວນ! ຢ່າເຮັດໃຫ້ມັນໂຊກຮ້າຍ. ມາແລ້ວ!
+
+781
+00:54:15,880 --> 00:54:20,351
+# I can see clearly now
+the rain is gone
+ຂ້ອຍເຫັນໄດ້ຢ່າງຈະແຈ້ງດຽວນີ້ຝົນຕົກແລ້ວ
+
+782
+00:54:23,680 --> 00:54:28,151
+# I can see all obstacles in my way
+ຂ້ອຍເຫັນສິ່ງກີດຂວາງ
+ທັງໝົດໃນທາງຂອງຂ້ອຍ
+
+783
+00:54:30,240 --> 00:54:35,189
+# Gone are the dark clouds
+that had me blind
+ໄປແລ້ວເມກມືດທີ່ເຮັດໃຫ້ຂ້ອຍເປັນຕາບອດ
+
+784
+00:54:35,280 --> 00:54:38,477
+- Pardon us.
+- # It's gonna be a bright
+- ຂໍໂທດພວກເຮົາ.
+- #ມັນຈະແສງສະຫວ່າງ
+
+785
+00:54:38,560 --> 00:54:42,189
+#
+Bright sunshiny day
+ມື້ທີ່ສ່ອງແສງແດດສົດໃສ
+
+786
+00:54:42,280 --> 00:54:45,829
+-
+- # It's gonna be a bright
+- #ມັນຈະແສງສະຫວ່າງ
+
+787
+00:54:45,920 --> 00:54:49,595
+#
+Bright sunshiny day
+ມື້ທີ່ສ່ອງແສງແດດສົດໃສ
+
+788
+00:54:53,480 --> 00:54:58,838
+# Look all around
+nothing but blue skies
+ເບິ່ງຢູ່ອ້ອມຂ້າງບໍ່ມີຫຍັງ
+ນອກຈາກທ້ອງຟ້າສີຟ້າ
+
+789
+00:55:00,800 --> 00:55:03,758
+# Look straight ahead nothing but
+ເບິ່ງທາງໜ້າໂດຍກົງ ບໍ່ມີຫຍັງນອກຈາກ
+
+790
+00:55:03,880 --> 00:55:08,908
+# Blue skies
+#ທ້ອງຟ້າສີຟ້າ
+
+791
+00:55:15,320 --> 00:55:17,117
+# Whoa
+ໂວ້
+
+792
+00:55:17,200 --> 00:55:22,593
+# I can see clearly now
+the rain is gone
+ຂ້ອຍເຫັນໄດ້ຢ່າງຈະແຈ້ງດຽວນີ້ຝົນຕົກແລ້ວ
+
+793
+00:55:24,640 --> 00:55:28,235
+# I can see all obstacles in my way #
+ຂ້ອຍເຫັນສິ່ງກີດຂວາງ
+ທັງໝົດໃນທາງຂອງຂ້ອຍ
+
+794
+00:55:28,320 --> 00:55:31,551
+All right, everybody.
+I want all teams in place,
+ດີແລ້ວ,ທຸກຄົນ.ຂ້ອຍຢາກໃຫ້
+ທີມງານທັງໝົດຢູ່ບ່ອນຂອງຕົນ,
+
+795
+00:55:31,640 --> 00:55:34,837
+fully prepared
+to seal the doors here and here.
+ກຽມພ້ອມຢ່າງເຕັມທີ່ທີ່ຈະປິດ
+ປະຕູຢູ່ບ່ອນນີ້ແລະບ່ອນນີ້.
+
+796
+00:55:34,920 --> 00:55:38,390
+'Make certain the digging crew
+stays on schedule...
+ໃຫ້ແນ່ໃຈວ່າທີມງານຂຸດຄົ້ນ
+ຈະຢູ່ຕາມຕາຕະລາງ...
+
+797
+00:55:38,480 --> 00:55:42,359
+'for breakthrough
+midway in the dedication ceremony.
+ສໍາລັບການບຸກເບີກໃນລະຫວ່າງພິທີອຸທິດຕົນ.
+
+798
+00:55:42,440 --> 00:55:45,159
+'Now all we need is the princess.'
+ດຽວນີ້ພວກເຮົາຕ້ອງການ
+ພຽງແຕ່ເຈົ້າຍິງເທົ່ານັ້ນ.
+
+799
+00:55:58,920 --> 00:56:00,911
+Mm.
+ມມ
+
+800
+00:56:12,080 --> 00:56:16,039
+- This stuff tastes like crap.
+- Really? Let me try some.
+- ສິ່ງນີ້ລົດຊາດຄືກັບໂຊກຮ້າຍ.
+- ແທ້ຈິງບໍ? ຂໍໃຫ້ຂ້ອຍພະຍາຍາມບາງຢ່າງ.
+
+801
+00:56:17,600 --> 00:56:21,878
+Hey, it is crap. Not bad.
+ເຮ້, ມັນເປັນຄວາມໂຊກຮ້າຍ. ບໍ່ຮ້າຍແຮງ.
+
+802
+00:56:21,960 --> 00:56:25,999
+- Somebody needs to feed that fire.
+- Dude, I did it last time.
+- ບາງຄົນຕ້ອງເຮັດໃຫ້ໄຟນັ້ນໄໝ້.
+- ເພື່ອນ, ຂ້ອຍເຮັດມັນຄັ້ງສຸດທ້າຍ.
+
+803
+00:56:26,080 --> 00:56:28,719
+I'm not gonna get it.
+It's not my job.
+ຂ້ອຍຈະບໍ່ເອົາມັນ.ມັນ
+ບໍ່ແມ່ນວຽກຂອງຂ້ອຍ.
+
+804
+00:56:28,800 --> 00:56:33,237
+What about the new guy?
+He hasn't contributed yet.
+ຜູ້ຊາຍຄົນໃໝ່ແນວໃດ?ລາວ
+ຍັງບໍ່ທັນປະກອບສ່ວນເທື່ອ.
+
+805
+00:56:33,320 --> 00:56:37,199
+And... You know,
+he just died in my arms like that.
+ແລະ...ເຈົ້າຮູ້ແລ້ວ,ລາວຫາ
+ກໍ່ຕາຍໃນແຂນຂອງຂ້ອຍແບບນັ້ນ.
+
+806
+00:56:37,280 --> 00:56:41,956
+I... You know, I don't think
+he ever once in his life...
+ຂ້ອຍ...ເຈົ້າຮູ້ແລ້ວ,
+ຂ້ອຍບໍ່ຄິດວ່າລາວເຄີຍ...
+
+807
+00:56:42,040 --> 00:56:43,951
+made his own choice.
+ໄດ້ເລືອກເອງ.
+
+808
+00:56:44,760 --> 00:56:47,718
+I never knew it was like that.
+ຂ້ອຍບໍ່ເຄີຍຮູ້ວ່າມັນເປັນແບບນັ້ນເລີຍ.
+
+809
+00:56:47,800 --> 00:56:49,870
+I mean, up in the palace...
+ຂ້ອຍໝາຍຄວາມວ່າ, ຢູ່ເທິງທໍານຽບ...
+
+810
+00:56:49,960 --> 00:56:53,999
+Well, I guess we just let the general
+make all the decisions.
+ດີ,ຂ້ອຍຄິດວ່າພວກເຮົາພຽງແຕ່
+ປ່ອຍໃຫ້ພົນຈັດຕະວາຕັດສິນໃຈທັງໝົດ.
+
+811
+00:56:55,880 --> 00:57:00,237
+Let me ask you something. What
+made you come to the bar that night?
+ຂໍໃຫ້ຂ້ອຍຖາມເຈົ້າບາງສິ່ງບາງຢ່າງ
+.ເປັນຫຍັງເຈົ້າຈຶ່ງມາບາໃນຄືນນັ້ນ?
+
+812
+00:57:00,320 --> 00:57:03,835
+I guess I was looking
+for a little trouble.
+ຂ້ອຍຄິດວ່າຂ້ອຍກໍາລັງ
+ຊອກຫາຄວາມຫຍຸ້ງຍາກນ້ອຍໆ.
+
+813
+00:57:03,920 --> 00:57:06,912
+Well,
+trouble's my middle name.
+ດີ, ຄວາມຫຍຸ້ງຍາກແມ່ນຊື່ກາງຂອງຂ້ອຍ.
+
+814
+00:57:07,000 --> 00:57:11,676
+Actually, my middle name is Marion,
+but... don't spread that around.
+ໃນຄວາມເປັນຈິງ,ຊື່ກາງຂອງຂ້ອຍແມ່ນມາ
+ຣີອນ,ແຕ່...ຢ່າແຜ່ລາມມັນຢູ່ທົ່ວໄປ.
+
+815
+00:57:11,760 --> 00:57:14,877
+You're pretty strange.
+You do know that?
+ເຈົ້າແປກໃຈຫຼາຍ. ເຈົ້າຮູ້ບໍ?
+
+816
+00:57:14,960 --> 00:57:18,396
+Well... Strange
+isn't the word I would use.
+ດີ... ແປກໃຈບໍ່ແມ່ນຄໍາທີ່ຂ້ອຍຈະໃຊ້.
+
+817
+00:57:18,480 --> 00:57:21,278
+I like it.
+You're not like anyone else.
+ຂ້ອຍມັກມັນ. ເຈົ້າບໍ່ຄືກັບຄົນອື່ນເລີຍ.
+
+818
+00:57:21,360 --> 00:57:26,195
+Actually, now that you mention it,
+there is a certain strangeness to me.
+ໃນຄວາມເປັນຈິງ,ດຽວນີ້ທີ່ທ່ານໄດ້
+ກ່າວເຖິງມັນ,ມີຄວາມແປກໃຈບາງຢ່າງຕໍ່ຂ້ອຍ.
+
+819
+00:57:26,280 --> 00:57:30,910
+I mean, it's, you know, kind of
+a bizarre quality. Some said "freak".
+ຂ້ອຍໝາຍຄວາມວ່າ,ມັນເປັນ,ເຈົ້າຮູ້ແລ້ວ,ຄຸນນະພາບ
+ທີ່ແປກໃຈບາງຢ່າງບາງຄົນເວົ້າວ່າ" freak" .
+
+820
+00:57:31,000 --> 00:57:33,753
+But it's, uh, you know, complimentary.
+ແຕ່ມັນເປັນ,ໂອ້,ເຈົ້າ
+ຮູ້ແລ້ວ,ການຊົມເຊີຍ.
+
+821
+00:57:37,280 --> 00:57:38,872
+Hey, new guy!
+ເຮ້, ຜູ້ຊາຍຄົນໃໝ່!
+
+822
+00:57:38,960 --> 00:57:40,712
+We need more wood.
+ພວກເຮົາຕ້ອງການໄມ້ຫຼາຍຂຶ້ນ.
+
+823
+00:57:43,160 --> 00:57:46,277
+I'll be right back.
+Just hold that thought...
+ຂ້ອຍຈະກັບມາທັນທີ.
+ພຽງແຕ່ຖືຄວາມຄິດນັ້ນ...
+
+824
+00:57:46,360 --> 00:57:49,318
+whatever it is you were thinking.
+ບໍ່ວ່າເຈົ້າຄິດຫຍັງກໍຕາມ.
+
+825
+00:57:49,400 --> 00:57:52,995
+Hey, you ever wonder why
+they call you guys "pests"?
+ເຮ້,ເຈົ້າເຄີຍສົງໄສວ່າເປັນຫຍັງ
+ພວກເຂົາເອີ້ນເຈົ້າວ່າ"ສັດຕູພືດ"?
+
+826
+00:57:53,080 --> 00:57:56,834
+What if, like,
+we're just these tiny things...
+ຖ້າວ່າ,ເຊັ່ນວ່າ,ພວກເຮົາ
+ພຽງແຕ່ສິ່ງນ້ອຍໆເຫຼົ່ານີ້...
+
+827
+00:57:56,920 --> 00:58:01,198
+and we're just, like, part of
+this whole other huge universe...
+ແລະພວກເຮົາພຽງແຕ່ເປັນສ່ວນໜຶ່ງ
+ຂອງຈັກກະວານທີ່ໃຫຍ່ຫຼວງນີ້...
+
+828
+00:58:01,280 --> 00:58:04,590
+that's, like, so big
+we don't even know it exists?
+ນັ້ນແມ່ນ,ເຊັ່ນວ່າ,ໃຫຍ່ຫຼາຍທີ່
+ພວກເຮົາບໍ່ຮູ້ວ່າມັນມີຢູ່ບໍ?
+
+829
+00:58:04,720 --> 00:58:07,632
+Man, that is so deep.
+ຜູ້ຊາຍ, ນັ້ນແມ່ນເລິກຫຼາຍ.
+
+830
+00:58:08,560 --> 00:58:10,994
+Perfect.
+Nothing like manual labour...
+ດີເລີດ. ບໍ່ມີຫຍັງຄືກັບແຮງງານມື...
+
+831
+00:58:11,120 --> 00:58:13,998
+on the most romantic night
+of my life.
+ໃນຄືນທີ່ຮັກທີ່ສຸດໃນຊີວິດຂອງຂ້ອຍ.
+
+832
+00:58:18,480 --> 00:58:22,712
+Hi. I was in the neighbourhood
+and I thought I'd drop in.
+ສະບາຍດີ.ຂ້ອຍຢູ່ໃກ້ຄຽງແລະ
+ຂ້ອຍຄິດວ່າຂ້ອຍຈະເຂົ້າມາ.
+
+833
+00:58:24,280 --> 00:58:28,068
+This is, uh, very bohemian.
+ນີ້ແມ່ນ, ໂອ້, ໂບເຮມຫຼາຍ.
+
+834
+00:58:28,160 --> 00:58:30,230
+Aloha, dude. Welcome to Insec...
+ອາໂລຮາ,ເພື່ອນ.ຍິນດີ
+ຕ້ອນຮັບໃນ Insec ...
+
+835
+00:58:32,640 --> 00:58:36,189
+Sorry for interrupting.
+ຂໍໂທດທີ່ລົບກວນ.
+
+836
+00:58:36,280 --> 00:58:40,910
+You see, our princess has,
+uh, gone missing,
+ເຈົ້າເຫັນແລ້ວ,ເຈົ້າຍິງ
+ຂອງພວກເຮົາໄດ້,ອູ,ຫາຍສາບສູນ,
+
+837
+00:58:41,000 --> 00:58:43,150
+and we're just sick about it.
+ແລະພວກເຮົາພຽງແຕ່ເຈັບປ່ວຍກ່ຽວກັບມັນ.
+
+838
+00:58:44,880 --> 00:58:48,429
+She's about yea tall,
+fairly easy on the eyes.
+ນາງສູງປະມານນີ້, ງ່າຍຕໍ່ຕາຫຼາຍ.
+
+839
+00:58:48,520 --> 00:58:51,717
+- Anybody seen her?
+- That's her.
+- ມີໃຜເຫັນນາງບໍ?
+- ນັ້ນແມ່ນນາງ.
+
+840
+00:58:53,440 --> 00:58:56,910
+Don't worry, Princess,
+you'll be back home soon.
+ຢ່າກັງວົນ,ເຈົ້າຍິງ,
+ເຈົ້າຈະກັບບ້ານໄວໆນີ້.
+
+841
+00:58:57,000 --> 00:59:00,231
+Listen, Cutter, I'm...
+I'm not going back.
+ຟັງ,ຄັດເຕີ,ຂ້ອຍ...
+ຂ້ອຍຈະບໍ່ກັບຄືນໄປບ່ອນ.
+
+842
+00:59:00,320 --> 00:59:03,756
+The thing is, Princess,
+I got orders.
+ເລື່ອງແມ່ນ,ເຈົ້າຍິງ
+,ຂ້ອຍໄດ້ຮັບຄໍາສັ່ງ.
+
+843
+00:59:03,840 --> 00:59:07,879
+Orders? Can't you just once
+think for yourself?
+ຄໍາສັ່ງບໍ?ເຈົ້າບໍ່ສາມາດ
+ຄິດດ້ວຍຕົວເອງໄດ້ບໍ?
+
+844
+00:59:09,400 --> 00:59:12,949
+Well, that was very impressive.
+Where's Z?
+ດີ, ນັ້ນແມ່ນໜ້າປະທັບໃຈຫຼາຍ. Z ຢູ່ໃສ?
+
+845
+00:59:14,160 --> 00:59:16,390
+- Z? He's, uh...
+- Dead.
+- Z? ລາວແມ່ນ, ອູ...
+- ຕາຍແລ້ວ.
+
+846
+00:59:17,680 --> 00:59:21,195
+Z's dead.
+You don't need to worry about him.
+Z ຕາຍແລ້ວ.ເຈົ້າບໍ່ຈໍາເປັນ
+ຕ້ອງກັງວົນກ່ຽວກັບລາວ.
+
+847
+00:59:21,280 --> 00:59:26,035
+Z's dead.
+Well, he was an ant with ideas.
+Z ຕາຍແລ້ວ.ດີ,ລາວເປັນ
+ແມງໄມ້ທີ່ມີແນວຄິດ.
+
+848
+00:59:26,120 --> 00:59:27,872
+Too bad for him.
+ໂຊກຮ້າຍຫຼາຍຕໍ່ລາວ.
+
+849
+00:59:27,960 --> 00:59:30,599
+Princess, your colony needs you.
+ເຈົ້າຍິງ, ຄລູເນຍຂອງທ່ານຕ້ອງການເຈົ້າ.
+
+850
+00:59:30,680 --> 00:59:32,796
+-
+- Cutter!
+- ຄັດເຕີ!
+
+851
+00:59:32,880 --> 00:59:35,952
+- Stop right now! Let go of me!
+- Bala!
+- ຢຸດເຊົາທັນທີ! ປ່ອຍຂ້ອຍໄປ!
+- ບາລາ!
+
+852
+00:59:36,080 --> 00:59:37,957
+Stop, you...
+ຢຸດເຊົາ, ເຈົ້າ...
+
+853
+00:59:38,040 --> 00:59:39,439
+Oh, no.
+ໂອ້, ບໍ່.
+
+854
+00:59:39,520 --> 00:59:42,273
+What am I gonna do?
+ຂ້ອຍຈະເຮັດແນວໃດ?
+
+855
+00:59:42,360 --> 00:59:45,557
+All right, look.
+Let's be rational about this.
+ດີແລ້ວ,ເບິ່ງ.ມາເປັນເຫດ
+ຜົນກ່ຽວກັບເລື່ອງນີ້.
+
+856
+00:59:45,640 --> 00:59:48,552
+You know, Bala and I,
+she's a princess...
+ເຈົ້າຮູ້ແລ້ວ,ບາລາແລະ
+ຂ້ອຍ,ນາງເປັນເຈົ້າຍິງ...
+
+857
+00:59:48,640 --> 00:59:51,791
+and I'm a...
+I'm a soil-relocation engineer.
+ແລະຂ້ອຍເປັນ...ຂ້ອຍເປັນ
+ວິສະວະກອນການຍ້າຍດິນ.
+
+858
+00:59:51,880 --> 00:59:55,156
+So... You know...
+On the other hand, uh...
+ສະນັ້ນ...ເຈົ້າຮູ້ແລ້ວ
+...ໃນອີກດ້ານໜຶ່ງ,ອູ...
+
+859
+00:59:55,240 --> 00:59:57,959
+I've gotta go back for her.
+ຂ້ອຍຕ້ອງກັບມາຫານາງ.
+
+860
+00:59:58,080 --> 01:00:00,958
+I'll... give you a lift.
+ຂ້ອຍ... ຈະພາເຈົ້າໄປ.
+
+861
+01:00:01,040 --> 01:00:04,157
+Sss... Whoa! Ohh!
+Sss... ໂວ້! ໂອ້!
+
+862
+01:00:04,240 --> 01:00:06,435
+It's the least I can do.
+ມັນເປັນຢ່າງໜ້ອຍທີ່ຂ້ອຍສາມາດເຮັດໄດ້.
+
+863
+01:00:06,520 --> 01:00:11,958
+Besides... it's what my waddly-kiddles
+would want.
+ນອກຈາກນັ້ນ...ມັນແມ່ນສິ່ງ
+ທີ່ເດັກນ້ອຍຂອງຂ້ອຍຢາກໄດ້.
+
+864
+01:00:14,240 --> 01:00:17,118
+Uh, look, how about
+a cup of joe...?
+ໂອ້, ເບິ່ງ, ຈະເປັນແນວໃດກັບຈອກໂຈ...?
+
+865
+01:00:17,200 --> 01:00:21,034
+- Well, old boy... saddle up.
+- I saw a puddle of coffee there.
+- ດີ, ເດັກຊາຍເກົ່າ... ຂີ່ລົດຂຶ້ນ.
+- ຂ້ອຍເຫັນຖ້ວຍກາເຟຢູ່ບ່ອນນັ້ນ.
+
+866
+01:00:21,120 --> 01:00:23,475
+It... Whoa!
+ມັນ... ໂວ້!
+
+867
+01:00:29,320 --> 01:00:31,117
+Look out!
+ລະວັງ!
+
+868
+01:00:33,920 --> 01:00:36,115
+Ah, Princess.
+ອາ, ເຈົ້າຍິງ.
+
+869
+01:00:36,200 --> 01:00:39,636
+- You're just in time.
+- Take your hands off me!
+- ເຈົ້າມາຮອດເວລາແລ້ວ.
+- ເອົາມືອອກຈາກຂ້ອຍ!
+
+870
+01:00:39,720 --> 01:00:42,188
+General, what is going on here?
+ນາຍພົນ, ເກີດຫຍັງຂຶ້ນຢູ່ນີ້?
+
+871
+01:00:42,280 --> 01:00:46,159
+- I DEMAND an explanation.
+- I'll explain... afterwards.
+- ຂ້ອຍຂໍຄໍາອະທິບາຍ.
+- ຂ້ອຍຈະອະທິບາຍ... ຫຼັງຈາກນັ້ນ.
+
+872
+01:00:46,240 --> 01:00:49,198
+- Is the south-east entrance secure?
+- Yes, sir.
+- ທາງເຂົ້າທາງຕາເວັນອອກສ່ຽງໃຕ້ປອດໄພບໍ?
+- ແມ່ນແລ້ວເດີ.
+
+873
+01:00:49,280 --> 01:00:51,077
+Not afterwards. Now.
+ບໍ່ຫຼັງຈາກນັ້ນ. ດຽວນີ້.
+
+874
+01:00:54,880 --> 01:00:58,793
+I don't like the way you think
+or the way you run this colony.
+ຂ້ອຍບໍ່ມັກວິທີທີ່ທ່ານຄິດຫຼື
+ວິທີທີ່ທ່ານດໍາເນີນການຄໍລູນີນີ້.
+
+875
+01:00:58,880 --> 01:01:02,111
+And I don't like you.
+The wedding is off.
+ແລະຂ້ອຍບໍ່ມັກເຈົ້າ.
+ງານແຕ່ງງານຖືກຍົກເລີກ.
+
+876
+01:01:02,200 --> 01:01:06,273
+- Things are going to change here.
+- You're right, Princess.
+- ສິ່ງຕ່າງໆຈະປ່ຽນແປງຢູ່ນີ້.
+- ເຈົ້າເວົ້າຖືກຕ້ອງ, ເຈົ້າຍິງ.
+
+877
+01:01:06,360 --> 01:01:10,353
+Things are going to change.
+Make her more comfortable.
+ສິ່ງຕ່າງໆຈະປ່ຽນແປງ.
+ເຮັດໃຫ້ນາງສະບາຍໃຈຫຼາຍຂຶ້ນ.
+
+878
+01:01:10,440 --> 01:01:14,069
+-
+- She'll be here for a while.
+- ນາງຈະຢູ່ບ່ອນນີ້ຊົ່ວຄາວ.
+
+879
+01:01:14,160 --> 01:01:18,073
+What do you think you're doing?
+My mother will have your head.
+ເຈົ້າຄິດວ່າເຈົ້າກໍາລັງເຮັດຫຍ
+ັງ?ແມ່ຂອງຂ້ອຍຈະເອົາຫົວເຈົ້າ.
+
+880
+01:01:18,160 --> 01:01:23,154
+I doubt that. Ah, you've
+got a fighter spirit, Bala.
+ຂ້ອຍສົງໄສເລື່ອງນັ້ນ.ອາ,ເຈົ້າ
+ມີຈິດວິນຍານນັກຕໍ່ສູ້,ບາລາ.
+
+881
+01:01:23,240 --> 01:01:26,152
+Just what we need
+to start our new colony.
+ພຽງແຕ່ສິ່ງທີ່ພວກເຮົາຕ້ອງການເພື່ອ
+ເລີ່ມຕົ້ນຄ oloni ໃໝ່ຂອງພວກເຮົາ.
+
+882
+01:01:26,240 --> 01:01:29,152
+We'll rinse away
+the filth from our gutters.
+ພວກເຮົາຈະລ້າງຄວາມເປື້ອນ
+ອອກຈາກຮູນ້ໍາຂອງພວກເຮົາ.
+
+883
+01:01:29,240 --> 01:01:32,471
+We'll start anew,
+with you by my side as my queen.
+ພວກເຮົາຈະເລີ່ມຕົ້ນໃໝ່,ກັບເຈົ້າ
+ຢູ່ຂ້າງຂ້ອຍເປັນລາຊິນີຂອງຂ້ອຍ.
+
+884
+01:01:32,560 --> 01:01:34,551
+You're crazy.
+ເຈົ້າໂຊກຮ້າຍ.
+
+885
+01:01:36,760 --> 01:01:39,877
+I believe history
+will see things differently.
+ຂ້ອຍເຊື່ອວ່າປະຫວັດສາດຈະເຫັນ
+ສິ່ງຕ່າງໆຢ່າງແຕກຕ່າງກັນ.
+
+886
+01:01:39,960 --> 01:01:43,032
+All right, gentlemen.
+Take your positions.
+ດີແລ້ວ, ພວກເຈົ້າ. ເອົາຕໍາແໜ່ງຂອງທ່ານ.
+
+887
+01:01:43,120 --> 01:01:45,634
+Someday... someday you'll thank me.
+ມື້ໜຶ່ງ... ມື້ໜຶ່ງເຈົ້າຈະຂອບໃຈຂ້ອຍ.
+
+888
+01:01:55,720 --> 01:01:58,632
+Pull up! Pull up!
+Aah! There it is!
+ດຶງຂຶ້ນ! ດຶງຂື້ນ! ອາ! ມັນຢູ່ບ່ອນນັ້ນ!
+
+889
+01:02:00,960 --> 01:02:03,235
+Oof! Oh!
+ໂອ້ ໂອ້!
+
+890
+01:02:03,320 --> 01:02:07,552
+Well, then, go get
+the woman you love, Z.
+ດີ,ຫຼັງຈາກນັ້ນ,ໄປເອົ
+າແມ່ຍິງທີ່ທ່ານຮັກ, Z .
+
+891
+01:02:07,640 --> 01:02:09,949
+So long, Chip. And thanks.
+ສະບາຍດີ, ຈິບ. ແລະຂອບໃຈ.
+
+892
+01:02:14,640 --> 01:02:17,518
+You there.
+Where do you think you're goin'?
+ເຈົ້າຢູ່ບ່ອນນັ້ນ.ເຈົ້າ
+ຄິດວ່າເຈົ້າຈະໄປໃສ?
+
+893
+01:02:17,600 --> 01:02:20,194
+Me? Oh, no, I was just...
+You know, I...
+ຂ້ອຍ?ໂອ້,ບໍ່,ຂ້ອຍພຽງແຕ່
+...ເຈົ້າຮູ້ແລ້ວ,ຂ້ອຍ...
+
+894
+01:02:20,280 --> 01:02:22,316
+You're not supposed to be here.
+ເຈົ້າບໍ່ຄວນຢູ່ບ່ອນນີ້.
+
+895
+01:02:22,400 --> 01:02:26,279
+Workers are to report
+to the tunnel-opening ceremonies.
+ຄົນງານຕ້ອງມາລາຍງານພິທີເປີດທໍ່.
+
+896
+01:02:26,360 --> 01:02:31,798
+Yes, yes, of course. Well, I should
+get going, then. I...
+ແມ່ນ,ແມ່ນແລ້ວ,ແນ່ນອນ.ດີ,ຂ້ອຍ
+ຄວນໄປ,ຫຼັງຈາກນັ້ນ.ຂ້ອຍ...
+
+897
+01:02:31,880 --> 01:02:33,552
+You know, the-the...
+ເຈົ້າຮູ້ແລ້ວ, the-the...
+
+898
+01:02:33,640 --> 01:02:34,834
+Hey!
+ເຮ້!
+
+899
+01:02:34,920 --> 01:02:37,957
+- I'm going to the... the t-tunnel...
+- ຂ້ອຍຈະໄປຫາ... ທໍ່ T...
+
+900
+01:02:38,040 --> 01:02:39,871
+- Get moving.
+- Better get...
+- ຍ້າຍໄປ.
+- ດີກວ່າໄປ...
+
+901
+01:02:39,960 --> 01:02:43,475
+I'm going to the
+tunnel-opening ceremonies...
+ຂ້ອຍຈະໄປພິທີເປີດທໍ່ໄຟ...
+
+902
+01:02:44,800 --> 01:02:47,360
+Excuse me, please.
+Tunnel-opening ceremonies.
+ຂໍໂທດ, ກະລຸນາ. ພິທີເປີດທໍ່.
+
+903
+01:02:47,440 --> 01:02:50,318
+- Hey!
+- Opening the tunnel. They need me.
+- ເຮ້!
+- ເປີດທໍ່. ພວກເຂົາຕ້ອງການຂ້ອຍ.
+
+904
+01:02:50,400 --> 01:02:52,960
+- I'm the key man.
+- Where are you going?
+- ຂ້ອຍເປັນຜູ້ຊາຍທີ່ສໍາຄັນ.
+- ເຈົ້າໄປໃສ?
+
+905
+01:02:53,040 --> 01:02:55,235
+Tunnel-opening ceremonies.
+ພິທີເປີດທໍ່.
+
+906
+01:02:56,600 --> 01:03:01,071
+-
+- Hey! Let me outta here!
+- ເຮ້! ໃຫ້ຂ້ອຍອອກຈາກບ່ອນນີ້!
+
+907
+01:03:01,160 --> 01:03:02,593
+Hey!
+ເຮ້!
+
+908
+01:03:08,000 --> 01:03:11,959
+Gosh, this-this day just keeps
+getting better and better.
+ພຣະເຈົ້າ,ມື້ນີ້-ມື້ນີ້
+ພຽງແຕ່ສືບຕໍ່ດີຂຶ້ນແລະດີຂຶ້ນ.
+
+909
+01:03:15,880 --> 01:03:19,953
+Are you listening to me
+out there? I'm the princess!
+ເຈົ້າຟັງຂ້ອຍຢູ່ພາຍນອກ
+ບໍ?ຂ້ອຍເປັນເຈົ້າຍິງ!
+
+910
+01:03:20,040 --> 01:03:21,837
+Damn it!
+ສະບາຍດີ!
+
+911
+01:03:25,120 --> 01:03:28,590
+- Wow, your manners haven't improved.
+- Z!
+- ໂວ້, ພຶດຕິກໍາຂອງທ່ານຍັງບໍ່ດີຂຶ້ນ.
+- Z!
+
+912
+01:03:28,680 --> 01:03:31,035
+Whoa! Whoa!
+ໂວ້! ໂວ່!
+
+913
+01:03:31,120 --> 01:03:34,192
+- Ooh!
+- It's you. You came back for me.
+- ໂອ້!
+- ມັນເປັນເຈົ້າ. ເຈົ້າກັບມາຫາຂ້ອຍ.
+
+914
+01:03:34,280 --> 01:03:38,876
+Well, yeah, I came back for you.
+I have strong feelings for you.
+ດີ,ແມ່ນແລ້ວ,ຂ້ອຍກັບມາຫາເຈົ້າ.ຂ້ອຍ
+ມີຄວາມຮູ້ສຶກທີ່ແຂງແຮງຕໍ່ເຈົ້າ.
+
+915
+01:03:38,960 --> 01:03:42,839
+Let's face it, you're... you're...
+you're beautiful...
+ພວກເຮົາຮັບມືກັບມັນ,ເຈົ້າແມ່ນ
+...ເຈົ້າ...ເຈົ້າສວຍງາມ...
+
+916
+01:03:42,920 --> 01:03:46,913
+A little combative at times,
+but I think we can work on that.
+ບາງຄັ້ງເປັນການຕໍ່ສູ້ເລັກນ້ອຍ,ແຕ່ຂ້ອຍຄິດວ່າ
+ພວກເຮົາສາມາດເຮັດວຽກກ່ຽວກັບເລື່ອງນັ້ນໄດ້.
+
+917
+01:03:47,000 --> 01:03:48,592
+You talk too much.
+ເຈົ້າເວົ້າຫຼາຍເກີນໄປ.
+
+918
+01:03:51,160 --> 01:03:55,278
+Gee, I think I'm about to become
+the strong, silent type.
+ໂອ້,ຂ້ອຍຄິດວ່າຂ້ອຍກໍາລັງ
+ຈະກາຍເປັນຄົນແຂງແຮງ,ງຽບໆ.
+
+919
+01:03:56,600 --> 01:04:00,479
+Come on. The city's deserted.
+We'd better get outta here.
+ມາແລ້ວ.ເມືອງຖືກປະຖິ້ມແລ້ວ
+.ພວກເຮົາຄວນອອກຈາກບ່ອນນີ້.
+
+920
+01:04:00,560 --> 01:04:03,552
+Z... We can't go.
+Z... ພວກເຮົາບໍ່ສາມາດໄປໄດ້.
+
+921
+01:04:03,640 --> 01:04:07,235
+Mandible's insane.
+He... he keeps talking about...
+ແມນດີບລ໌ໂຊກຮ້າຍ.ລາວ...
+ລາວສືບຕໍ່ເວົ້າກ່ຽວກັບ...
+
+922
+01:04:07,320 --> 01:04:11,154
+washing away the filth
+and-and changing history and...
+ລ້າງຄວາມເປື້ອນແລະ-ແລະ
+ປ່ຽນແປງປະຫວັດສາດແລະ...
+
+923
+01:04:11,240 --> 01:04:14,357
+and I think he's going to try
+to kill my mother.
+ແລະຂ້ອຍຄິດວ່າລາວຈະ
+ພະຍາຍາມຂ້າແມ່ຂອງຂ້ອຍ.
+
+924
+01:04:14,440 --> 01:04:17,193
+Not just your mother... everyone.
+ບໍ່ພຽງແຕ່ແມ່ຂອງເຈົ້າ
+ເທົ່ານັ້ນ...ທຸກຄົນ.
+
+925
+01:04:17,280 --> 01:04:19,430
+- What's going on?
+- Look.
+- ເກີດຫຍັງຂຶ້ນ?
+- ເບິ່ງ.
+
+926
+01:04:19,520 --> 01:04:21,476
+Here we are, safe in the city.
+ພວກເຮົາຢູ່ບ່ອນນີ້, ປອດໄພໃນເມືອງ.
+
+927
+01:04:21,560 --> 01:04:24,393
+But they're gonna seal
+everybody off in the MegaTunnel.
+ແຕ່ພວກເຂົາຈະປິດທຸກຄົນໃນທໍ່ Mega ໄດ້.
+
+928
+01:04:24,480 --> 01:04:26,436
+And... here's the lake.
+ແລະ... ນີ້ແມ່ນທະເລສາບ.
+
+929
+01:04:26,520 --> 01:04:28,875
+You're right.
+ເຈົ້າເວົ້າຖືກຕ້ອງ.
+
+930
+01:04:28,960 --> 01:04:31,155
+We can't leave now.
+ພວກເຮົາບໍ່ສາມາດອອກໄປໄດ້ດຽວນີ້.
+
+931
+01:04:31,240 --> 01:04:33,310
+Come on. We gotta get down there.
+ມາແລ້ວ. ພວກເຮົາຕ້ອງລົງໄປບ່ອນນັ້ນ.
+
+932
+01:04:34,320 --> 01:04:37,756
+Today is the realisation of a dream.
+ມື້ນີ້ແມ່ນການປະຕິບັດຄວາມຝັນ.
+
+933
+01:04:37,840 --> 01:04:40,070
+A dream of a proud colony.
+ຄວາມຝັນຂອງຄລູເນຍທີ່ພາກພູມໃຈ.
+
+934
+01:04:40,160 --> 01:04:44,233
+A pure colony. A colony reborn.
+ຄໍລູເນຍທີ່ບໍລິສຸດ. ຄໍໂລເນຍເກີດໃໝ່.
+
+935
+01:04:48,560 --> 01:04:51,916
+Moments from now
+this tunnel will open.
+ໃນຊົ່ວຄາວນີ້ ທໍ່ນີ້ຈະເປີດຂຶ້ນ.
+
+936
+01:04:52,000 --> 01:04:55,834
+The past will be washed away
+and a new day will dawn.
+ອະດີດຈະຖືກລ້າງໄປແລະມື້ໃໝ່ຈະເຊົ້າ.
+
+937
+01:04:57,960 --> 01:04:59,951
+A stirring speech, General.
+ຄໍາປາໄສທີ່ກະຕຸ້ນໃຈ, ນາຍພົນ.
+
+938
+01:05:00,040 --> 01:05:03,237
+I wish my daughter
+were here to appreciate it.
+ຂ້ອຍຢາກໃຫ້ລູກສາວຂອງຂ້ອຍ
+ຢູ່ບ່ອນນີ້ເພື່ອຕີລາຄາມັນ.
+
+939
+01:05:03,320 --> 01:05:07,233
+Your Majesty, I know
+how concerned you are about Bala.
+ເຈົ້າສູງສຸດ,ຂ້ອຍຮູ້ວ່າເຈົ້າ
+ກັງວົນຫຼາຍປານໃດກ່ຽວກັບບາລາ.
+
+940
+01:05:07,320 --> 01:05:09,788
+But my scouts
+are on her trail and...
+ແຕ່ນັກຄົ້ນຄວ້າຂອງຂ້ອຍ
+ກໍາລັງຕິດຕາມນາງແລະ...
+
+941
+01:05:09,880 --> 01:05:12,713
+I don't want to discuss it.
+Just find her.
+ຂ້ອຍບໍ່ຢາກປຶກສາຫາລືເລື່ອ
+ງນີ້.ພຽງແຕ່ຊອກຫານາງ.
+
+942
+01:05:12,800 --> 01:05:15,155
+I will, Your Highness.
+ຂ້ອຍຈະເຮັດ, ເຈົ້າສູງສຸດ.
+
+943
+01:05:16,200 --> 01:05:18,031
+Goodbye.
+ສະບາຍດີ.
+
+944
+01:05:32,560 --> 01:05:35,279
+Seal up the doors.
+ປິດປະຕູໄວ້.
+
+945
+01:05:35,360 --> 01:05:39,797
+- Cutter, did you hear me?
+- Sir, I've been thinking.
+- ຄັດເຕີ, ເຈົ້າໄດ້ຍິນຂ້ອຍບໍ?
+- ເຈົ້າ, ຂ້ອຍ ກໍາ ລັງຄິດຢູ່.
+
+946
+01:05:39,880 --> 01:05:44,158
+Do we need to do this?
+Look at what these workers have done.
+ພວກເຮົາຕ້ອງເຮັດສິ່ງນີ້ບໍ?ເບິ່ງ
+ວ່າຄົນງານເຫຼົ່ານີ້ໄດ້ເຮັດຫຍັງ.
+
+947
+01:05:44,240 --> 01:05:47,869
+They got the right stuff.
+Isn't there any other way?
+ພວກເຂົາມີສິ່ງທີ່
+ຖືກຕ້ອງ.ບໍ່ມີທາງອື່ນບໍ?
+
+948
+01:05:47,960 --> 01:05:50,076
+Cutter, you're a fine officer.
+ຄັດເຕີ, ເຈົ້າເປັນເຈົ້າໜ້າທີ່ທີ່ດີເລີດ.
+
+949
+01:05:50,160 --> 01:05:52,993
+You have discipline,
+courage, ability.
+ເຈົ້າມີວິໄນ, ຄວາມກ້າຫານ, ຄວາມສາມາດ.
+
+950
+01:05:53,080 --> 01:05:57,596
+But you seem to have a weakness for
+the lower orders I find disturbing.
+ແຕ່ເຈົ້າເບິ່ງຄືວ່າມີຄວາມອ່ອນແອສໍ
+າລັບຊັ້ນຕ່ໍາທີ່ຂ້ອຍເຫັນວ່າລົບກວນ.
+
+951
+01:05:57,680 --> 01:06:01,195
+- Now, are you with me?
+- Sir, uh... I apologise.
+- ດຽວນີ້, ເຈົ້າຢູ່ກັບຂ້ອຍບໍ?
+- ເຈົ້າ, ອູ... ຂ້ອຍຂໍໂທດ.
+
+952
+01:06:01,280 --> 01:06:04,192
+- All right, then. Seal it up.
+- Yes, sir.
+- ດີແລ້ວ. ປິດມັນໄວ້.
+- ແມ່ນແລ້ວເດີ.
+
+953
+01:06:16,600 --> 01:06:19,910
+As I look out
+on this magnificent tunnel,
+ໃນຂະນະທີ່ຂ້ອຍເບິ່ງທໍ່ທີ່ຍິ່ງໃຫຍ່ນີ້,
+
+954
+01:06:20,000 --> 01:06:22,070
+I am filled with pride.
+ຂ້ອຍເຕັມໄປດ້ວຍຄວາມພາກພູມໃຈ.
+
+955
+01:06:22,160 --> 01:06:24,958
+- Jump!
+- In these difficult times,
+- ໂດດ!
+- ໃນຊ່ວງເວລາທີ່ຫຍຸ້ງຍາກນີ້,
+
+956
+01:06:25,040 --> 01:06:28,510
+it is a great solace to know
+that you, our workers...
+ມັນເປັນຄວາມສະບາຍໃຈທີ່ຍິ່ງໃຫຍ່ທີ່
+ຈະຮູ້ວ່າເຈົ້າ,ຄົນງານຂອງພວກເຮົາ...
+
+957
+01:06:28,600 --> 01:06:30,909
+-
+- Mom! Wait!
+- ແມ່! ລໍຖ້າ!
+
+958
+01:06:31,000 --> 01:06:35,278
+Every worker in the colony is here.
+Hey, that guy owes me money.
+ຄົນງານທຸກຄົນໃນຄລູເນຍຢູ່ບ່ອນນີ້
+ເຮ້,ຜູ້ຊາຍຄົນນັ້ນເປັນໜີ້ຂ້ອຍເງິນ.
+
+959
+01:06:35,360 --> 01:06:39,831
+This tremendous
+accomplishment is a testimony to...
+ຜົນສໍາເລັດທີ່ຍິ່ງໃຫຍ່
+ນີ້ແມ່ນການພິສູດໃຫ້...
+
+960
+01:06:39,920 --> 01:06:43,879
+Go warn your mother.
+I've gotta get to those diggers.
+ໄປເຕືອນແມ່ຂອງເຈົ້າ.ຂ້ອຍຕ້ອງ
+ໄປຫາເຄື່ອງຂຸດຄົ້ນເຫຼົ່ານັ້ນ.
+
+961
+01:06:43,960 --> 01:06:47,839
+- There's not enough time.
+- Leave the pessimism to me, OK?
+- ບໍ່ມີເວລາພຽງພໍ.
+- ໃຫ້ຄວາມບໍ່ຫວັງຢູ່ກັບຂ້ອຍ, ດີບໍ?
+
+962
+01:06:47,920 --> 01:06:49,751
+-
+- Ow!
+- ໂອ້!
+
+963
+01:06:49,840 --> 01:06:51,398
+- Ooh!
+- Yeeow!
+- ໂອ້!
+- Yeeow!
+
+964
+01:06:51,480 --> 01:06:53,948
+Excuse me! Sorry. Excuse me.
+ຂໍໂທດ! ຂໍໂທດ. ຂໍໂທດຂ້ອຍ.
+
+965
+01:06:54,040 --> 01:06:57,157
+When our expert diggers
+break through to the surface...
+ເມື່ອນັກຂຸດຄົ້ນຊ່ຽວຊານ
+ຂອງພວກເຮົາບຸກເບີກໄປສູ່ພື້ນຜິວ...
+
+966
+01:06:57,240 --> 01:06:59,595
+- Mom! Stop!
+- The sun will pour in...
+- ແມ່ ຢຸດເຊົາ!
+- ແສງຕາເວັນຈະເຂົ້າມາ...
+
+967
+01:06:59,680 --> 01:07:02,717
+Bala! Where've you been?
+Are you all right?
+ບາລາ! ເຈົ້າຢູ່ໃສ? ເຈົ້າບໍ່ເປັນຫຍັງບໍ?
+
+968
+01:07:02,800 --> 01:07:04,950
+- I'm fine.
+- What happened?
+- ຂ້ອຍບໍ່ເປັນຫຍັງ.
+- ເກີດຫຍັງຂຶ້ນ?
+
+969
+01:07:05,080 --> 01:07:07,640
+Mother, we're in terrible danger.
+ແມ່, ພວກເຮົາຢູ່ໃນອັນຕະລາຍທີ່ຮ້າຍແຮງ.
+
+970
+01:07:18,920 --> 01:07:21,309
+Put your backs into it, people!
+ເອົາຫລັງໃສ່ມັນ, ຄົນ!
+
+971
+01:07:21,400 --> 01:07:24,039
+Wait! Hold... Hey, stop digging!
+ຖ້າ! ລໍຖ້າ... ເຮ້, ຢຸດການຂຸດຄົ້ນ!
+
+972
+01:07:24,120 --> 01:07:26,270
+- Z? Is that you?
+- We must stop!
+- Z? ນັ້ນແມ່ນເຈົ້າບໍ?
+- ພວກເຮົາຕ້ອງຢຸດເຊົາ!
+
+973
+01:07:26,360 --> 01:07:28,635
+- Z! You're back!
+-
+- Z! ເຈົ້າກັບມາແລ້ວ!
+
+974
+01:07:28,720 --> 01:07:30,870
+- Oh, Z! Oh.
+- Weaver!
+- ໂອ້, Z! ໂອ້.
+- ວີເວີ!
+
+975
+01:07:30,960 --> 01:07:33,997
+Z! What's the matter?
+Z! ມີຫຍັງເກີດຂຶ້ນ?
+
+976
+01:07:34,080 --> 01:07:37,311
+H-hold up, everyone.
+Stop! Stop digging.
+H -ລໍຖ້າ,ທຸກຄົນ.ຢຸດ
+ເຊົາ!ຢຸດການຂຸດຄົ້ນ.
+
+977
+01:07:37,400 --> 01:07:39,960
+- On whose authority?
+- Your own authority.
+- ດ້ວຍອໍານາດຂອງໃຜ?
+- ເຈົ້າໜ້າທີ່ຂອງທ່ານເອງ.
+
+978
+01:07:40,040 --> 01:07:42,156
+If you break through, we'll...
+ຖ້າເຈົ້າລະເບີດຜ່ານ, ພວກເຮົາຈະ...
+
+979
+01:07:42,240 --> 01:07:44,549
+Drown. This tunnel is going to flood.
+ຈົມນໍ້າ. ທໍ່ນີ້ຈະຖືກນໍ້າຖ້ວມ.
+
+980
+01:07:44,640 --> 01:07:46,790
+We've got to get everyone out.
+ພວກເຮົາຕ້ອງເອົາທຸກຄົນອອກໄປ.
+
+981
+01:07:48,880 --> 01:07:52,395
+Look, I got orders,
+and those orders say "dig".
+ເບິ່ງ,ຂ້ອຍໄດ້ຮັບຄໍາສັ່ງ,ແລະຄໍາ
+ສັ່ງເຫຼົ່ານັ້ນເວົ້າວ່າ"ຂຸດຄົ້ນ".
+
+982
+01:07:52,480 --> 01:07:55,870
+What if someone ordered you
+to jump off a bridge?
+ຖ້າໃຜສັ່ງໃຫ້ເຈົ້າໂດດຈາກຂົວແນວໃດ?
+
+983
+01:07:55,960 --> 01:07:59,714
+Oh, I'm asking the wrong guy here.
+Look, think for yourselves!
+ໂອ້,ຂ້ອຍກໍາລັງຖາມຄົນທີ່ບໍ່ຖືກ
+ຕ້ອງຢູ່ນີ້.ເບິ່ງ,ຄິດດ້ວຍຕົນເອງ!
+
+984
+01:08:00,720 --> 01:08:03,553
+Gimme that!
+I've had enough out of you.
+ໃຫ້ມັນໃຫ້ຂ້ອຍ!ຂ້ອຍ
+ກິນພຽງພໍຈາກເຈົ້າແລ້ວ.
+
+985
+01:08:03,640 --> 01:08:05,596
+Get back to work.
+ກັບໄປເຮັດວຽກ.
+
+986
+01:08:05,680 --> 01:08:07,910
+What's that noise?
+ສຽງນັ້ນແມ່ນຫຍັງ?
+
+987
+01:08:08,000 --> 01:08:09,115
+Uh-oh.
+ໂອ້.
+
+988
+01:08:10,800 --> 01:08:12,916
+- Let's get outta here!
+- Run!
+- ໄປຈາກບ່ອນນີ້!
+- ແລ່ນໄປ!
+
+989
+01:08:14,880 --> 01:08:17,189
+Run! Keep going!
+ແລ່ນ! ສືບຕໍ່ໄປ!
+
+990
+01:08:17,280 --> 01:08:20,875
+Everyone, listen to me.
+We've all been deceived.
+ທຸກຄົນ,ຟັງຂ້ອຍ.ພວກເຮົາ
+ທຸກຄົນຖືກຫຼອກລວງແລ້ວ.
+
+991
+01:08:22,320 --> 01:08:25,118
+We need to calmly
+head toward the exits.
+ພວກເຮົາຕ້ອງໄປສູ່ທາງອອກຢ່າງສະຫງົບໃຈ.
+
+992
+01:08:25,200 --> 01:08:28,397
+- Run for your lives! Flood!
+- No. Don't panic.
+- ແລ່ນເພື່ອຊີວິດຂອງທ່ານ! ນໍ້າຖ້ວມ!
+- ບໍ່. ຢ່າຢ້ານກົວ.
+
+993
+01:08:28,480 --> 01:08:31,677
+- Don't panic!
+- Every ant for himself!
+- ຢ່າຢ້ານກົວ!
+- ທຸກແມງໄມ້ ສໍາ ລັບຕົວເອງ!
+
+994
+01:08:40,400 --> 01:08:42,675
+All the exits are blocked!
+ທາງອອກທັງ ໝົດ ຖືກປິດໄວ້!
+
+995
+01:09:06,560 --> 01:09:09,711
+- What do we do?
+- There's nothing we can do!
+- ພວກເຮົາຈະເຮັດແນວໃດ?
+- ບໍ່ມີຫຍັງທີ່ພວກເຮົາສາມາດເຮັດໄດ້!
+
+996
+01:09:15,600 --> 01:09:18,353
+Yes, there is.
+Weaver, give me a leg up.
+ແມ່ນແລ້ວ, ມີ. ວີເວີ, ໃຫ້ຂ້ອຍຕີນຂຶ້ນ.
+
+997
+01:09:18,440 --> 01:09:21,352
+Everyone, listen to me!
+ທຸກຄົນ, ຟັງຂ້ອຍ!
+
+998
+01:09:21,440 --> 01:09:23,908
+- Who the heck are you?
+- He's Z!
+- ເຈົ້າເປັນໃຜ?
+- ລາວເປັນ Z!
+
+999
+01:09:27,360 --> 01:09:31,478
+Listen, we gotta help each other
+get out before we all drown.
+ຟັງ,ພວກເຮົາຕ້ອງຊ່ວຍກັນອອກໄປ
+ກ່ອນທີ່ພວກເຮົາທຸກຄົນຈະຈົມນ້ໍາ.
+
+1000
+01:09:31,560 --> 01:09:33,755
+- How?
+- By making a ladder.
+- ແນວໃດ?
+- ໂດຍການເຮັດຂັ້ນຕອນ.
+
+1001
+01:09:33,840 --> 01:09:35,034
+A ladder!
+ຂັ້ນເທິງ!
+
+1002
+01:09:35,120 --> 01:09:37,873
+Hey, if we built this,
+we can do anything.
+ເຮ້,ຖ້າພວກເຮົາສ້າງສິ່ງນີ້,
+ພວກເຮົາສາມາດເຮັດທຸກຢ່າງໄດ້.
+
+1003
+01:09:37,960 --> 01:09:41,191
+- OK, let's move it!
+- All of you, gather round.
+- ດີແລ້ວ, ໄປ!
+- ພວກເຈົ້າທຸກຄົນ, ມາເຕົ້າໂຮມກັນ.
+
+1004
+01:09:41,280 --> 01:09:42,838
+You, start climbing.
+ເຈົ້າ, ເລີ່ມຂຶ້ນ.
+
+1005
+01:09:43,720 --> 01:09:47,030
+- Grab my arm.
+- All right. Here I go.
+- ຈັບແຂນຂອງຂ້ອຍ.
+- ດີແລ້ວ. ຂ້ອຍໄປແລ້ວ.
+
+1006
+01:09:47,120 --> 01:09:49,475
+- Go, go, go!
+- Right!
+- ອອກໄປ, ອອກໄປ!
+- ແມ່ນແລ້ວ!
+
+1007
+01:09:51,040 --> 01:09:54,430
+- Excuse me, Your Majesty.
+-
+- ຂໍໂທດເດີ, ເຈົ້າສູງສຸດ.
+
+1008
+01:09:54,560 --> 01:09:57,199
+Z, I've gotta help my Mom.
+Z, ຂ້ອຍຕ້ອງຊ່ວຍແມ່ຂອງຂ້ອຍ.
+
+1009
+01:09:57,280 --> 01:10:01,068
+Don't worry. I know almost
+exactly what I'm doing.
+ຢ່າກັງວົນ.ຂ້ອຍຮູ້ວ່າຂ້ອຍກໍາ
+ລັງເຮັດຫຍັງເກືອບຢ່າງແນ່ນອນ.
+
+1010
+01:10:03,480 --> 01:10:05,471
+I'll see you at the top.
+ຂ້ອຍຈະເຫັນເຈົ້າຢູ່ເທິງສຸດ.
+
+1011
+01:10:08,440 --> 01:10:11,557
+Gentlemen,
+there comes a time...
+ພວກເຈົ້າ, ມີເວລາມາຮອດ...
+
+1012
+01:10:11,640 --> 01:10:13,790
+in the evolution of a colony...
+ໃນວິວັດທະນາການຂອງຄລູເນຍ...
+
+1013
+01:10:13,880 --> 01:10:17,668
+when the strong are meant
+to rise above the weak.
+ເມື່ອຜູ້ເຂັ້ມແຂງຄວນ
+ຂຶ້ນຢູ່ເທິງຜູ້ອ່ອນແອ.
+
+1014
+01:10:19,200 --> 01:10:21,156
+Now is that time.
+ດຽວນີ້ແມ່ນເວລານັ້ນ.
+
+1015
+01:10:21,240 --> 01:10:23,708
+'Below us right now,
+ຢູ່ລຸ່ມພວກເຮົາດຽວນີ້,
+
+1016
+01:10:23,800 --> 01:10:26,758
+'the weak elements of the colony...
+ອົງປະກອບທີ່ອ່ອນແອຂອງຄລູເນຍ...
+
+1017
+01:10:26,840 --> 01:10:29,308
+'are being washed away.'
+ພວກເຂົາຖືກລ້າງອອກໄປ.
+
+1018
+01:10:30,840 --> 01:10:32,956
+Oh, God, we're not gonna make it.
+ໂອ້ ພຣະເຈົ້າ, ພວກເຮົາຈະບໍ່ເຮັດໄດ້.
+
+1019
+01:10:33,040 --> 01:10:36,316
+- We need more ants.
+- You two better get up there.
+- ພວກເຮົາຕ້ອງການແມງໄມ້ຫຼາຍຂຶ້ນ.
+- ເຈົ້າທັງສອງຄວນຂຶ້ນໄປບ່ອນນັ້ນ.
+
+1020
+01:10:36,400 --> 01:10:38,630
+Weaver, you can't hold it alone.
+ວີເວີ, ເຈົ້າບໍ່ສາມາດຖືມັນຢູ່ຄົນດຽວໄດ້.
+
+1021
+01:10:38,720 --> 01:10:40,870
+Get going.
+ໄປ.
+
+1022
+01:10:40,960 --> 01:10:42,791
+Hang in there, buddy.
+ອົດທົນຢູ່ບ່ອນນັ້ນ, ເພື່ອນ.
+
+1023
+01:10:56,520 --> 01:10:59,034
+- Got it!
+- Hurry up! Go, go, go, go!
+- ຂ້ອຍເຂົ້າໃຈແລ້ວ!
+- ໄວຂຶ້ນ! ໄປ, ໄປ,ໄປ, ໄປ!
+
+1024
+01:11:02,640 --> 01:11:05,996
+Our princess is secure,
+and a glorious future is at hand.
+ເຈົ້າຍິງຂອງພວກເຮົາປອດໄພ,ແລະ
+ອະນາຄົດທີ່ສວຍງາມຢູ່ໃກ້ຊິດ.
+
+1025
+01:11:06,960 --> 01:11:08,951
+We can all stand proud.
+ພວກເຮົາທຸກຄົນສາມາດຢືນພູມໃຈໄດ້.
+
+1026
+01:11:09,040 --> 01:11:11,838
+It is time for a new beginning.
+ມັນເຖິງເວລາແລ້ວທີ່ຈະເລີ່ມຕົ້ນໃໝ່.
+
+1027
+01:11:21,840 --> 01:11:24,798
+-
+- What the hell is that?
+- ນັ້ນແມ່ນຫຍັງ?
+
+1028
+01:11:24,880 --> 01:11:27,235
+I think that's the weak element, sir.
+ຂ້ອຍຄິດວ່ານັ້ນແມ່ນອ
+ົງປະກອບອ່ອນແອເດີເດີ.
+
+1029
+01:11:27,320 --> 01:11:31,199
+- Gimme... gimme a hand!
+- Z! You?
+- ໃຫ້ຂ້ອຍ... ຊ່ວຍຂ້ອຍ!
+- Z! ເຈົ້າບໍ?
+
+1030
+01:11:31,280 --> 01:11:35,717
+Let go! Don't you understand?
+It's for the good of the colony!
+ປ່ອຍໄປ!ເຈົ້າບໍ່ເຂົ້າໃຈບໍ?ມັນ
+ເປັນເພື່ອຜົນປະໂຫຍດຂອງຄລູເນຍ!
+
+1031
+01:11:35,800 --> 01:11:39,156
+Wha-what are you saying?
+We are the colony!
+ເຈົ້າເວົ້າຫຍັງ? ພວກເຮົາເປັນຄລູເນຍ!
+
+1032
+01:11:42,720 --> 01:11:45,280
+Cutter... what are you doing?
+ຄັດເຕີ... ເຈົ້າ ກໍາ ລັງເຮັດຫຍັງ?
+
+1033
+01:11:45,360 --> 01:11:48,477
+Something I should've done
+a long time ago.
+ບາງສິ່ງບາງຢ່າງທີ່ຂ້ອຍ
+ຄວນເຮັດກ່ອນໜ້ານີ້.
+
+1034
+01:11:48,560 --> 01:11:51,154
+This is for the good
+of the colony, sir.
+ນີ້ແມ່ນເພື່ອຜົນປະໂຫຍດຂອງຄລູເນຍເດີເດີ.
+
+1035
+01:11:53,520 --> 01:11:55,670
+You useless, ungrateful maggot!
+ເຈົ້າເປັນແມງໄມ້ທີ່
+ບໍ່ມີປະໂຫຍດ,ບໍ່ຂອບໃຈ!
+
+1036
+01:11:55,760 --> 01:11:57,591
+I am the colony!
+ຂ້ອຍເປັນຄລູເນຍ!
+
+1037
+01:11:57,680 --> 01:12:00,240
+- Look out!
+- Oof!
+- ລະວັງ!
+- ໂອ້!
+
+1038
+01:12:09,280 --> 01:12:10,508
+Z!
+Z!
+
+1039
+01:12:11,560 --> 01:12:14,677
+Men, let's move it!
+Get these ants up here.
+ຜູ້ຊາຍ,ໄປເຄື່ອນຍ້າຍ!ເອົາ
+ແມງໄມ້ເຫຼົ່ານີ້ຂຶ້ນມາບ່ອນນີ້.
+
+1040
+01:12:18,320 --> 01:12:21,312
+- Keep it moving.
+- Thank goodness we made it.
+- ສືບຕໍ່ເຄື່ອນຍ້າຍມັນ.
+- ຂອບໃຈພຣະເຈົ້າທີ່ພວກເຮົາເຮັດໄດ້.
+
+1041
+01:12:26,400 --> 01:12:28,277
+Wait here.
+ລໍຖ້າຢູ່ບ່ອນນີ້.
+
+1042
+01:12:36,640 --> 01:12:38,358
+- Uhh! OK.
+- Thank you.
+- ໂອ້! ດີແລ້ວ.
+- ຂອບໃຈເດີ.
+
+1043
+01:12:38,480 --> 01:12:40,072
+Weaver.
+ວີເວີ.
+
+1044
+01:12:40,760 --> 01:12:42,512
+Where's Z?
+Z ຢູ່ໃສ?
+
+1045
+01:12:50,360 --> 01:12:51,634
+Oh, no.
+ໂອ້, ບໍ່.
+
+1046
+01:12:51,720 --> 01:12:54,598
+Back up, everybody, back up!
+ກັບຄືນໄປບ່ອນ, ທຸກຄົນ, ກັບໄປ!
+
+1047
+01:12:54,680 --> 01:12:58,468
+- Give him some air. Back up.
+- Z, oh, Z.
+- ໃຫ້ລາວອາກາດບາງຢ່າງ. ກັບຄືນໄປບ່ອນ.
+- Z, ໂອ້, Z.
+
+1048
+01:13:02,320 --> 01:13:03,958
+Please wake up.
+ກະລຸນາຕື່ນຂຶ້ນ.
+
+1049
+01:13:05,800 --> 01:13:07,438
+Oh, no...
+ໂອ້, ບໍ່...
+
+1050
+01:13:12,840 --> 01:13:15,195
+Huh?!
+ຮາ?!
+
+1051
+01:13:21,960 --> 01:13:23,757
+Yowch!
+ໂຢວຈ໌!
+
+1052
+01:13:25,040 --> 01:13:28,794
+You know, Weaver,
+you still owe me that dinner.
+ເຈົ້າຮູ້ແລ້ວ,ວີເວີ,ເຈົ້າ
+ຍັງເປັນໜີ້ຂ້ອຍອາຫານຄໍ່ານັ້ນ.
+
+1053
+01:13:28,920 --> 01:13:31,753
+-
+- Babylove.
+- ບາບີໂລເວ.
+
+1054
+01:13:31,840 --> 01:13:35,549
+- We made it, Z!
+- You da ant!
+- ພວກເຮົາເຮັດໄດ້, Z!
+- ເຈົ້າເປັນແມງໄມ້!
+
+1055
+01:13:35,640 --> 01:13:37,596
+- Eh!
+- You did it.
+- ເອ້!
+- ເຈົ້າເຮັດໄດ້.
+
+1056
+01:13:37,680 --> 01:13:39,716
+We did it.
+ພວກເຮົາເຮັດໄດ້.
+
+1057
+01:13:39,800 --> 01:13:41,995
+- Oh!
+- Fellas! Fellas, please!
+- ໂອ້!
+- ພວກຜູ້ຊາຍ! ພວກຜູ້ຊາຍ, ກະລຸນາ!
+
+1058
+01:13:42,080 --> 01:13:44,913
+- This is very embarrassing!
+-
+- ນີ້ແມ່ນໂຊກຮ້າຍຫຼາຍ!
+
+1059
+01:13:45,000 --> 01:13:48,470
+On the other hand,
+I probably could get used to this.
+ໃນທາງອື່ນ,ຂ້ອຍອາດຈະ
+ສາມາດເຄີຍກັບສິ່ງນີ້ໄດ້.
+
+1060
+01:13:50,960 --> 01:13:54,396
+'There you have it,
+your average "boy meets girl,
+ເຈົ້າໄດ້ມັນແລ້ວ,ເດັກຊາຍສະ
+ເລ່ຍຂອງທ່ານພົບກັບເດັກຍິງ,
+
+1061
+01:13:54,480 --> 01:13:58,712
+'"boy likes girl, boy changes
+underlying social order" story.
+ເລື່ອງ"ເດັກຊາຍມັກເດັກຍິງ,ເດັກຊາຍ
+ປ່ຽນແປງລະບຽບການສັງຄົມທີ່ຢູ່ເບື້ອງຫຼັງ".
+
+1062
+01:13:58,800 --> 01:14:02,190
+'So what else can I tell you?
+We rebuilt the colony.
+ສະນັ້ນຂ້ອຍສາມາດບອກເຈົ້າຫຍັງອີ
+ກໄດ້?ພວກເຮົາໄດ້ສ້າງຄລູເນຍຄືນ.
+
+1063
+01:14:02,280 --> 01:14:07,195
+'It's even better than before cos now
+it has a large indoor swimming pool.
+ມັນດີກວ່າກ່ອນເພາະວ່າດຽວນີ້
+ມັນມີສະລອຍນ້ໍາພາຍໃນທີ່ໃຫຍ່.
+
+1064
+01:14:07,280 --> 01:14:10,431
+'Bala and I are thinking
+of starting a family.
+ຂ້ອຍແລະບາລາ ກໍາ ລັງຄິດທີ່ຈະສ້າງຄອບຄົວ.
+
+1065
+01:14:10,520 --> 01:14:14,513
+'You know, just a few kids...
+maybe a million to begin with.
+ເຈົ້າຮູ້ແລ້ວ,ພຽງແຕ່ເດັກນ້ອຍສອງສາມຄົນ
+...ບາງທີເປັນລ້ານຄົນເພື່ອເລີ່ມຕົ້ນ.
+
+1066
+01:14:14,600 --> 01:14:19,071
+'I'm workin' with a new therapist,
+you know, absolutely terrific.
+ຂ້ອຍກໍາລັງເຮັດວຽກກັບນັກປິ່ນປົວຄົນໃໝ່
+,ເຈົ້າຮູ້ແລ້ວ,ດີເລີດຢ່າງສົມບູນ.
+
+1067
+01:14:19,160 --> 01:14:23,631
+'He's putting me in touch with my
+inner maggot, which is helping me.
+ລາວກໍາລັງເຮັດໃຫ້ຂ້ອຍຕິດຕໍ່ກັບແມງໄມ້
+ພາຍໃນຂອງຂ້ອຍ,ເຊິ່ງກໍາລັງຊ່ວຍຂ້ອຍ.
+
+1068
+01:14:23,720 --> 01:14:26,871
+'And I finally feel like
+I've found my place.
+ແລະຂ້ອຍຮູ້ສຶກວ່າຂ້ອຍ
+ໄດ້ພົບບ່ອນຂອງຂ້ອຍແລ້ວ.
+
+1069
+01:14:26,960 --> 01:14:30,396
+'And you know what?
+It's right back where I started.
+ແລະເຈົ້າຮູ້ວ່າຫຍັງ?ມັນກັບ
+ຄືນໄປບ່ອນທີ່ຂ້ອຍເລີ່ມຕົ້ນ.
+
+1070
+01:14:30,480 --> 01:14:33,631
+'But the difference is,
+this time I chose it.'
+ແຕ່ຄວາມແຕກຕ່າງແມ່ນ,ໃນ
+ຄັ້ງນີ້ຂ້ອຍໄດ້ເລືອກມັນ.
+
+1071
+01:14:38,560 --> 01:14:41,393
+# Just what makes that little old ant
+ພຽງແຕ່ສິ່ງທີ່ເຮັດໃຫ້
+ແມງໄມ້ເກົ່ານ້ອຍນັ້ນ
+
+1072
+01:14:41,480 --> 01:14:44,552
+# Think he'll move
+that rubber tree plant
+ຂ້ອຍຄິດວ່າລາວຈະຍ້າຍພືດໄມ້ຢາງນັ້ນໄປ
+
+1073
+01:14:44,680 --> 01:14:49,515
+# Anyone knows an ant
+can't move a rubber tree plant
+ມີໃຜຮູ້ວ່າແມງໄມ້ບໍ່ສາມາດ
+ເຄື່ອນຍ້າຍພືດຕົ້ນໄມ້ຢາງໄດ້
+
+1074
+01:14:49,600 --> 01:14:52,990
+# But he's got high hopes
+ແຕ່ລາວມີຄວາມຫວັງສູງ
+
+1075
+01:14:53,120 --> 01:14:55,998
+# He's got high hopes
+ລາວມີຄວາມຫວັງສູງ
+
+1076
+01:14:56,080 --> 01:15:01,712
+# He's got high apple pie
+in the sky hopes
+#ເຂາມີປີ້ແອັບເປິ້ງສູງໃນທ້ອງຟ້າຫວັງ
+
+1077
+01:15:01,800 --> 01:15:04,268
+# So anytime you're gettin' low
+ສະນັ້ນທຸກຄັ້ງທີ່ເຈົ້າຕົກລົງ
+
+1078
+01:15:04,360 --> 01:15:08,831
+# 'Stead of lettin' go
+just remember that ant
+ແທນທີ່ຈະປ່ອຍໄປ ພຽງແຕ່ຈື່ແມງໄມ້ນັ້ນ
+
+1079
+01:15:08,920 --> 01:15:11,957
+# Oops, there goes
+another rubber tree plant
+ໂອ້, ມີພືດຕົ້ນໄມ້ຢາງອີກໜຶ່ງ
+
+1080
+01:15:12,080 --> 01:15:14,958
+# (There goes
+another rubber tree plant)
+# (ມີພືດໄມ້ຢາງອີກໜຶ່ງ)
+
+1081
+01:15:15,040 --> 01:15:18,589
+# Oops, there goes
+another rubber tree plant
+ໂອ້, ມີພືດຕົ້ນໄມ້ຢາງອີກໜຶ່ງ
+
+1082
+01:15:20,920 --> 01:15:24,037
+# Once there was a silly old ram
+#ເທື່ອນຶ່ງມີແມວເຖົ້າໂງ່
+
+1083
+01:15:24,120 --> 01:15:26,918
+# Thought he'd punch a hole in a dam
+#ຄິດວ່າເຂາຈະຕີຮູໃນເຂື່ອນ
+
+1084
+01:15:27,000 --> 01:15:30,197
+# No one could make that ram scram
+ບໍ່ມີໃຜສາມາດເຮັດໃຫ້ແມວນັ້ນໜີໄດ້
+
+1085
+01:15:30,280 --> 01:15:31,872
+# He kept buttin' that dam
+#ເຂາຍັງຄຸຍເຂື່ອນນັ້ນຢູ່
+
+1086
+01:15:31,960 --> 01:15:35,191
+# Cos he had high hopes
+ເພາະລາວມີຄວາມຫວັງສູງ
+
+1087
+01:15:35,280 --> 01:15:38,238
+# He had high hopes
+ລາວມີຄວາມຫວັງສູງ
+
+1088
+01:15:38,320 --> 01:15:43,872
+# He had high apple pie
+in the sky hopes
+#ເຂາກິນປີ້ແອັບເປິລທີ່ສູງໃນທ້ອງຟ້າຫວັງ
+
+1089
+01:15:43,960 --> 01:15:48,033
+# So anytime you're feelin' bad
+'stead of feelin' sad
+ສະນັ້ນທຸກຄັ້ງທີ່ເຈົ້າຮູ້ສຶກ
+ບໍ່ດີແທນທີ່ຈະຮູ້ສຶກໂຊກຮ້າຍ
+
+1090
+01:15:48,120 --> 01:15:50,953
+# Just remember that ram
+ພຽງແຕ່ຈື່ວ່າແມວນັ້ນ
+
+1091
+01:15:51,040 --> 01:15:53,873
+# (Oops, there goes
+a billion-kilowatt dam)
+#(ໂອ້,ມີເຂື່ອນໄຟຟ້າ
+ຂະໜາດພັນລ້ານກິໂລວັດ)
+
+1092
+01:15:53,960 --> 01:15:56,952
+# Oops, there goes
+a billion-kilowatt dam
+ໂອ້, ມີເຂື່ອນໄຟຟ້າຂະໜາດພັນລ້ານກິໂລວັດ
+
+1093
+01:15:57,040 --> 01:16:00,510
+# (Oops, there goes
+a billion-kilowatt dam)
+#(ໂອ້,ມີເຂື່ອນໄຟຟ້າ
+ຂະໜາດພັນລ້ານກິໂລວັດ)
+
+1094
+01:16:01,840 --> 01:16:05,276
+# So keep your high hopes
+ສະນັ້ນ ຮັກສາຄວາມຫວັງສູງຂອງທ່ານໄວ້
+
+1095
+01:16:05,360 --> 01:16:08,158
+# Keep your high hopes
+ຮັກສາຄວາມຫວັງສູງຂອງທ່ານໄວ້
+
+1096
+01:16:08,240 --> 01:16:13,917
+# Keep those high apple pie
+in the sky hopes
+ຮັກສາເຂົ້າຈີ່ໝາກໂມສູງ
+ນັ້ນໄວ້ໃນທ້ອງຟ້າຄວາມຫວັງ
+
+1097
+01:16:14,000 --> 01:16:16,434
+# A problem's just a toy balloon
+#ບັນຫາແຄ່ເປັນບາລອນຫຼິ້ນ
+
+1098
+01:16:16,520 --> 01:16:20,991
+# They'll be bursting soon
+they're just bound to go pop
+ພວກເຂົາຈະລະເບີດໄວໆນີ້
+ພວກເຂົາພຽງແຕ່ຕ້ອງແຕກຂຶ້ນ
+
+1099
+01:16:21,080 --> 01:16:24,117
+# Oops, there goes another problem
+Ker-plop
+ໂອ້, ມີບັນຫາອີກຢ່າງໜຶ່ງ Ker-plop
+
+1100
+01:16:24,200 --> 01:16:26,919
+# (Oops, there goes another problem
+Ker-plop)
+# (ໂອ້, ມີບັນຫາອີກຢ່າງໜຶ່ງ Ker-plop)
+
+1101
+01:16:27,000 --> 01:16:30,390
+# Oops, there goes another problem
+Ker-plop
+ໂອ້, ມີບັນຫາອີກຢ່າງໜຶ່ງ Ker-plop
+
+1102
+01:16:32,040 --> 01:16:33,871
+# #
+##
 
