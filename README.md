@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-hieng1999.github.io%2Flao--subtitles-gold?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
 [![Movies](https://img.shields.io/badge/Catalog-797%20Movies-blue?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
-[![Cues](https://img.shields.io/badge/Cues-1,020,269%20Localized-green?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
+[![Cues](https://img.shields.io/badge/Cues-1,019,909%20Localized-green?style=flat-square)](https://hieng1999.github.io/lao-subtitles/)
 [![Machine Translation](https://img.shields.io/badge/Machine%20Translation-not%20reviewed%20by%20a%20person-lightgrey?style=flat-square)](#please-read-before-downloading)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue?style=flat-square)](LICENSE)
 [![GPU](https://img.shields.io/badge/Accelerated-NVIDIA%20RTX%205090-76B900?style=flat-square&logo=nvidia)](https://github.com/Hieng1999/lao-subtitles)
@@ -14,7 +14,7 @@ These subtitles are translated by a local machine-translation model. **No human 
 
 This catalog has two kinds of file. "Subtitles" are timed to a specific film's real dialogue and are machine-translated, not reviewed by a person. "Translated screenplays" are a screenplay, sometimes only an excerpt, translated to Lao with synthetic, evenly-spaced timing (not synced to any actual film) -- useful to read, not to play alongside a video.
 
-Machine-translated Lao .srt files for **797 films** -- **1,020,269 dialogue cues** in all.
+Machine-translated Lao .srt files for **797 films** -- **1,019,909 dialogue cues** in all.
 
 🌐 **Browse, search & download directly at the live website → [hieng1999.github.io/lao-subtitles](https://hieng1999.github.io/lao-subtitles/)**
 
@@ -28,20 +28,20 @@ The numbers below are about the older "Translated screenplay" files only. Each o
 
 "Subtitles" files (S3X) are checked differently: the model's loaded weights are verified against the adapter file on disk, every line's timing is checked against its English source file, every line is confirmed non-empty, credit and ad lines are removed, and the same automatic defect-pattern checks are run against the translated text. They are not re-translated a second time and compared, so none of the numbers below cover them. No quality score is published for these files -- no native Lao reader has reviewed them yet.
 
-Every row of the table below is counted over one set: the **187 "Translated screenplay" films still published here** (187 of this catalog's 797 films), re-summed for this build from the run's own per-film state file, `lao_nlp/data/metadata_and_state/srt_verification_state.json`, in this project's translator repository, which is not public. The run covered 287 films in all: these 187, plus 98 that are still in the catalog but now have a "Subtitles" file instead -- their screenplay file is gone, so nothing in this table describes the file you would download for them -- plus 2 no longer in the catalog at all. Only the first group is counted below.
+Every row of the table below is counted over one set: the **188 "Translated screenplay" films still published here** (188 of this catalog's 797 films), re-summed for this build from the run's own per-film state file, `lao_nlp/data/metadata_and_state/srt_verification_state.json`, in this project's translator repository, which is not public. The run covered 287 films in all: these 188, plus 97 that are still in the catalog but now have a "Subtitles" file instead -- their screenplay file is gone, so nothing in this table describes the file you would download for them -- plus 2 no longer in the catalog at all. Only the first group is counted below.
 
-| Verification step (187 "Translated screenplay" films) | Result |
+| Verification step (188 "Translated screenplay" films) | Result |
 |:---|---:|
-| Films re-checked automatically (machine filters, no human review) | **187 / 797 published** |
-| Dialogue cues checked | **151,170** |
-| Cues where re-translation disagreed with the published line | 139,609 |
-| Rejected -- known decoder artifact (garbled token) | 9,239 |
-| Rejected -- hallucinated word substitution | 3,489 |
-| Rejected -- stutter/repetition artifact | 3,082 |
-| Rejected -- untranslated English left in the Lao text | 4,711 |
-| Sent to the English-only semantic-equivalence judge | 19,366 |
-| Rejected -- judge could not confirm the meaning matched | 14,411 |
-| **Corrections applied (passed every check)** | **4,479** |
+| Films re-checked automatically (machine filters, no human review) | **188 / 797 published** |
+| Dialogue cues checked | **151,730** |
+| Cues where re-translation disagreed with the published line | 140,125 |
+| Rejected -- known decoder artifact (garbled token) | 9,273 |
+| Rejected -- hallucinated word substitution | 3,504 |
+| Rejected -- stutter/repetition artifact | 3,087 |
+| Rejected -- untranslated English left in the Lao text | 4,726 |
+| Sent to the English-only semantic-equivalence judge | 19,439 |
+| Rejected -- judge could not confirm the meaning matched | 14,463 |
+| **Corrections applied (passed every check)** | **4,497** |
 
 **How a correction gets approved -- the "double lock":** a candidate replacement only ever got written to a published `.srt` file if it passed **both** of these, independently:
 
@@ -62,7 +62,7 @@ We don't publish a quality score yet: the only automatic benchmark available use
 
 Every movie card on the [live site](https://hieng1999.github.io/lao-subtitles/) has a "Report a bad line" link that opens a pre-filled [GitHub issue](https://github.com/Hieng1999/lao-subtitles/issues/new) for that film -- fill in the timestamp, the line as shown, and what's wrong. You can also open an issue directly at **[https://github.com/Hieng1999/lao-subtitles/issues](https://github.com/Hieng1999/lao-subtitles/issues)**.
 
-## 🎬 Available Subtitles (797 Films · 1,020,269 Cues)
+## 🎬 Available Subtitles (797 Films · 1,019,909 Cues)
 
 > 🔍 **Instant Live Search & Filters**:
 > To instantly search by title, actor, year, or genre across all **797 movies**, visit our interactive web catalog:
@@ -86,7 +86,7 @@ These ten are picked by hand to open the list. They are not ranked by quality, p
 | **15 Minutes** | **2001** | Translated screenplay · synthetic timing · not synced to the film | Thriller | 1,015 | [🇱🇦 Lao script (SRT)](subtitles/15.Minutes.2001.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/15.Minutes.2001.bilingual.srt) |
 
 <details>
-<summary><b>📜 Click here to expand &amp; browse all 797 movies (1,020,269 localized cues)...</b></summary>
+<summary><b>📜 Click here to expand &amp; browse all 797 movies (1,019,909 localized cues)...</b></summary>
 
 <br/>
 
@@ -271,7 +271,7 @@ These ten are picked by hand to open the list. They are not ranked by quality, p
 | **Black Widow** | **2021** | Subtitles · machine translation, not reviewed by a person |  | 1,290 | [🇱🇦 Lao SRT](subtitles/Black.Widow.2021.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Black.Widow.2021.bilingual.srt) |
 | **BlacKkKlansman** | **2018** | Translated screenplay · synthetic timing · not synced to the film | Crime | 1,089 | [🇱🇦 Lao script (SRT)](subtitles/BlacKkKlansman.2018.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/BlacKkKlansman.2018.bilingual.srt) |
 | **Blacklight** | **2022** | Subtitles · machine translation, not reviewed by a person |  | 1,335 | [🇱🇦 Lao SRT](subtitles/Blacklight.2022.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blacklight.2022.bilingual.srt) |
-| **Blade** | **1998** | Subtitles · machine translation, not reviewed by a person | horror | 920 | [🇱🇦 Lao SRT](subtitles/Blade.1998.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blade.1998.bilingual.srt) |
+| **Blade** | **1998** | Translated screenplay · synthetic timing · not synced to the film | Sci-Fi | 560 | [🇱🇦 Lao script (SRT)](subtitles/Blade.1998.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blade.1998.bilingual.srt) |
 | **Blade II** | **2002** | Subtitles · machine translation, not reviewed by a person | thriller | 677 | [🇱🇦 Lao SRT](subtitles/Blade.II.2002.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blade.II.2002.bilingual.srt) |
 | **Blade of the Immortal** | **2017** | Subtitles · machine translation, not reviewed by a person |  | 976 | [🇱🇦 Lao SRT](subtitles/Blade.of.the.Immortal.2017.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blade.of.the.Immortal.2017.bilingual.srt) |
 | **Blade Runner** | **1982** | Translated screenplay · synthetic timing · not synced to the film | Sci-Fi | 746 | [🇱🇦 Lao script (SRT)](subtitles/Blade.Runner.1982.lao.srt) · [🇺🇸/🇱🇦 Bilingual](subtitles/Blade.Runner.1982.bilingual.srt) |
@@ -898,8 +898,8 @@ These ten are picked by hand to open the list. They are not ranked by quality, p
 
 Translation runs on a local model (NLLB-200 1.3B with a LoRA adapter) on an **NVIDIA GeForce RTX 5090**. The model was fine-tuned mostly on machine-translated text, including earlier output of this project and corrections written by Google Gemini; only a small share of its training data was translated by people. "Subtitles" files were translated from real English subtitle files by a newer version of the model (NLLB-200 1.3B with the LoRA adapter S3X), with no cloud AI step and no find-and-replace rule tables. An earlier automatic review step, used only for the older "Translated screenplay" files, also sent lines to a cloud AI service (Google Gemini) and applied some of its edits to the Lao; those files are being replaced by real subtitle files as they arrive, and this step is not used for "Subtitles" files at all. No person has reviewed these files.
 
-1. **"Subtitles" files (610 of the 797 films here)** -- a real English subtitle file for that film is translated line by line by the S3X adapter, and the Lao text is written straight out: no cloud AI step, no find-and-replace rule tables, and no second pass that re-translates the line and compares it.
-2. **"Translated screenplay" files (187 films)** -- older Generation 4 output, made from a screenplay rather than a subtitle file, and put through the two automatic checks described in **How We Verify Quality** above. Neither model behind the files on this site was trained on the corrections that run found: the Generation 4 adapter behind these files was last trained on 2026-09-08, six days before the corrections file existed, and the training file behind the "Subtitles" model, `lao_nlp/external_corpora/S3x1_heldout.jsonl`, records the file every one of its 206,745 rows came from -- none of them the corrections file. Eight experimental adapters *were* trained on those corrections, hours after the run, on 14-15 September 2026; every one of them scored worse than Generation 4 on this project's own benchmark suites, none was ever promoted, and none produced a file on this site. These files are being replaced by "Subtitles" files as real subtitle sources arrive.
+1. **"Subtitles" files (609 of the 797 films here)** -- a real English subtitle file for that film is translated line by line by the S3X adapter, and the Lao text is written straight out: no cloud AI step, no find-and-replace rule tables, and no second pass that re-translates the line and compares it.
+2. **"Translated screenplay" files (188 films)** -- older Generation 4 output, made from a screenplay rather than a subtitle file, and put through the two automatic checks described in **How We Verify Quality** above. Neither model behind the files on this site was trained on the corrections that run found: the Generation 4 adapter behind these files was last trained on 2026-09-08, six days before the corrections file existed, and the training file behind the "Subtitles" model, `lao_nlp/external_corpora/S3x1_heldout.jsonl`, records the file every one of its 206,745 rows came from -- none of them the corrections file. Eight experimental adapters *were* trained on those corrections, hours after the run, on 14-15 September 2026; every one of them scored worse than Generation 4 on this project's own benchmark suites, none was ever promoted, and none produced a file on this site. These files are being replaced by "Subtitles" files as real subtitle sources arrive.
 3. **Automatic checks on the "Subtitles" files** -- each line is confirmed non-empty, and credit and advertising lines carried in from the English subtitle file are removed. A "Translated screenplay" file has no English subtitle file behind it; what was checked on those is the run described above, and nothing since.
 4. **Timing** -- "Subtitles" files keep the timing of the English subtitle file they were translated from. That file may have been timed for a different release of the film, so lines can run early or late -- use your player's subtitle-delay keys to shift them. "Translated screenplay" files have synthetic, evenly-spaced timing and will not line up with a video at all. Nothing here is aligned to a film's audio.
 

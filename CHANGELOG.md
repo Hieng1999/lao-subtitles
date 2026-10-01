@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-10-01 (fix)
+
+**Blade (1998) is a "Translated screenplay" card again.** The "Subtitles" file published
+for it in the 2026-09-29 batch was made from a subtitle track taken out of the film file
+that turned out not to be English, so the Lao in it had been translated from the wrong
+language. That file has been taken down and the older "Translated screenplay" file the
+card used to offer is back, exactly as it was before, until real English subtitles for
+this film are found and it can be translated again. Nothing else on the site changed:
+the catalogue is still 797 films, now 609 "Subtitles" and 188 "Translated screenplay".
+
 ## 2026-09-29 (catalog update)
 
 Catalog update (batch 3): 797 films, up from 551. 610 of them are now real "Subtitles"
