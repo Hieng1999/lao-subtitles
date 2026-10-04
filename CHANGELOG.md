@@ -8,7 +8,7 @@
 - **Hostiles (2017) and Mr. Jones (2019) have been removed.** The English files these two
   cards were translated from turned out not to belong to these films at all -- they were
   subtitles for episodes of television series. Both cards and both films' files have been
-  taken down. Neither film had a card before the 2026-09-29 batch added it, so there is no
+  taken down. Neither film had a card before the 2026-09-26 rebuild added it, so there is no
   older file to put back; they will return only when genuine English subtitles for the
   actual films are found and translated.
 - **Dances with Wolves (1990) offers its earlier "Translated screenplay" file again.** The
@@ -18,11 +18,14 @@
   offer is back, exactly as it was before, until a full English subtitle file for this film
   is found and translated.
 
-**Five other films now carry a better English source.** 8MM (1999), Absolute Power (1997),
-Adaptation (2002), American Splendor (2003) and Apocalypse Now (1979) were re-translated
-from a different English subtitle file, chosen because it matches the film's dialogue and
-timing more closely than the one used before. The change was prepared on 2026-10-01 and is
-published here. Their line counts change accordingly.
+**Five other films have new Lao files**, translated from different English subtitle
+files chosen in a check on 2026-10-01: 8MM (1999), Absolute Power (1997), Adaptation
+(2002), American Splendor (2003) and Apocalypse Now (1979). For the first four, the
+old English file was the odd one out among the transcriptions available for the
+film; for 8MM and Absolute Power it also ran about 4% faster than the new one, which
+usually means it was timed for 25 fps video. For Apocalypse Now, the new file is
+timed to a known release of the film. Each of the five cards now credits its new
+English file, and their line counts change.
 
 The catalogue is now **795 films: 606 "Subtitles" and 189 "Translated screenplay"** (it was
 797, 609 and 188). Nothing else on the site changed.
