@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-10-04 (fix 2)
+
+**Two more films had the wrong English subtitles behind them, and their cards have
+been removed.**
+
+- **John Wick (2014)** was translated from English subtitles of
+  **John Wick: Chapter 3 – Parabellum (2019)**, and **The Circle (2017)** from English
+  subtitles of **Kingsman: The Golden Circle (2017)**. Both cards and both films' files
+  have been taken down. Neither film had a card before the 2026-09-26 rebuild added it,
+  so there is no older file to put back; they will return only when English subtitles
+  for the actual films are found and translated.
+
+The catalogue is now **793 films: 604 "Subtitles" and 189 "Translated screenplay"** (it
+was 795, 606 and 189). Nothing else on the site changed.
+
 ## 2026-10-04 (fix)
 
 **Three films had the wrong English subtitles behind them. Two cards are gone, one is a
