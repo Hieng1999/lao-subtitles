@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-10-06 (fix)
+
+**Two more cards had the wrong English subtitles behind them. One card is gone, one is a
+"Translated screenplay" card again.**
+
+- **Star Wars: Episode I – The Phantom Menace (1999)** was translated from English
+  subtitles of **Star Wars: Episode II – Attack of the Clones (2002)**. Its card and files
+  have been taken down. It had no card before the 2026-09-26 rebuild added it, so there is
+  no older file to put back; it will return only when English subtitles for the actual
+  film are found and translated.
+- **2012 (2009) offers its earlier "Translated screenplay" file again.** The "Subtitles"
+  file published for it was translated from English subtitles that belong to a different
+  film. The older "Translated screenplay" file the card used to offer is back, exactly as
+  it was before, until English subtitles for this film are found and translated.
+
+The catalogue is now **792 films: 602 "Subtitles" and 190 "Translated screenplay"** (it
+was 793, 604 and 189). Nothing else on the site changed.
+
 ## 2026-10-04 (fix 2)
 
 **Two more films had the wrong English subtitles behind them, and their cards have
